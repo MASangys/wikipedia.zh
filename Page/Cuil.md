@@ -1,20 +1,20 @@
 **Cuil**（,
-"*cool*"）是一個於2008年7月28日正式運作的[搜尋引擎](../Page/搜尋引擎.md "wikilink")\[1\]\[2\]。目前主要由[Google的前僱員管理和開發](../Page/Google.md "wikilink")\[3\]。公司已從[Greylock及其他](../Page/Greylock.md "wikilink")[風險投資](../Page/風險投資.md "wikilink")[基金公司籌集了三千三百萬](../Page/基金.md "wikilink")[美元](../Page/美元.md "wikilink")[資本](../Page/資本.md "wikilink")\[4\]。
+"*cool*"）是一個於2008年7月28日正式運作的[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")\[1\]\[2\]。目前主要由[Google的前僱員管理和開發](../Page/Google.md "wikilink")\[3\]。公司已從[Greylock及其他](https://zh.wikipedia.org/wiki/Greylock "wikilink")[風險投資](https://zh.wikipedia.org/wiki/風險投資 "wikilink")[基金公司籌集了三千三百萬](../Page/基金.md "wikilink")[美元](../Page/美元.md "wikilink")[資本](https://zh.wikipedia.org/wiki/資本 "wikilink")\[4\]。
 
 在2004年，帕特森曾經研發過**Recall**技術，並賣給Google，而她本人亦加入Google公司。2006年，她又離開Google，並與[丈夫和另外兩位前Google同事合作發展Cuil搜尋引擎](../Page/丈夫.md "wikilink")。目前，Cuil已經可以搜尋1200億個網頁。至2008年12月4日，cuil對於「[HTC
 Touch Diamond](../Page/HTC_Touch_Diamond.md "wikilink")」的搜尋能力是
-51,756,609張，約為Google（13,100,000張）的4倍左右。Cuil的名稱是來自[盖尔语的Cuill](../Page/盖尔语.md "wikilink")，意思是「知识」。
+51,756,609張，約為Google（13,100,000張）的4倍左右。Cuil的名稱是來自[盖尔语的Cuill](https://zh.wikipedia.org/wiki/盖尔语 "wikilink")，意思是「知识」。
 
 有消息表明，由于一直未被用户接受，现在Cuil已经永久性关闭\[5\]。
 
 ## 功能
 
-官方聲稱其引擎搜尋範圍是[Google的三倍](../Page/Google.md "wikilink")，可以搜到1200億個頁面\[6\]。另外，由於該引擎放出的「爬蟲」自稱為twiceler，並不會紀錄用戶任何的瀏覽或搜尋資訊，理論上可以更有效保障[私隱](../Page/私隱.md "wikilink")。它的搜尋結果頁面是[雜誌形式](../Page/雜誌.md "wikilink")，有更多的圖片和“Explore
+官方聲稱其引擎搜尋範圍是[Google的三倍](../Page/Google.md "wikilink")，可以搜到1200億個頁面\[6\]。另外，由於該引擎放出的「爬蟲」自稱為twiceler，並不會紀錄用戶任何的瀏覽或搜尋資訊，理論上可以更有效保障[私隱](https://zh.wikipedia.org/wiki/私隱 "wikilink")。它的搜尋結果頁面是[雜誌形式](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，有更多的圖片和“Explore
 by Category”工具列，亦提供相關的關鍵字，供用戶作進一步的搜尋。Cuil會深入分析網頁的內容，然後為之建立索引\[7\]。
 
 ## 缺失
 
-2008年7月28日，Cuil開站當天曾因為流量過大出現了多次當機，批評聲浪接踵而至。與Google不同，Cuil尚未支援搜尋[圖片和](../Page/圖片.md "wikilink")[影片內容](../Page/影片.md "wikilink")，且對非英語語系支援不完整\[8\]。且搜索精度一直有待改善，甚至搜索cuil本身也未能得到好的结果\[9\]。
+2008年7月28日，Cuil開站當天曾因為流量過大出現了多次當機，批評聲浪接踵而至。與Google不同，Cuil尚未支援搜尋[圖片和](https://zh.wikipedia.org/wiki/圖片 "wikilink")[影片內容](https://zh.wikipedia.org/wiki/影片 "wikilink")，且對非英語語系支援不完整\[8\]。且搜索精度一直有待改善，甚至搜索cuil本身也未能得到好的结果\[9\]。
 
 ## 參看
 

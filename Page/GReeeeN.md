@@ -9,12 +9,12 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 
 ## 成員
 
-  - **HIDE**（1980年4月3日－）[京都府出身](../Page/京都府.md "wikilink")，負責高音部分
+  - **HIDE**（1980年4月3日－）[京都府出身](https://zh.wikipedia.org/wiki/京都府 "wikilink")，負責高音部分
   - **navi**（1980年4月30日－）[宮城縣出身](../Page/宮城縣.md "wikilink")，負責高音部分
   - **92**（1982年3月21日－）[沖繩縣出身](../Page/沖繩縣.md "wikilink")，負責低音部分
-  - **SOH**（1981年2月2日－）[佐賀縣出身](../Page/佐賀縣.md "wikilink")，負責低音部分
+  - **SOH**（1981年2月2日－）[佐賀縣出身](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")，負責低音部分
 
-全部團員畢業於[福島縣](../Page/福島縣.md "wikilink")[奥羽大學的](../Page/奥羽大學.md "wikilink")[牙醫學系](../Page/牙醫.md "wikilink")。而且皆已通過國家考試並取得執照成為執業牙醫。
+全部團員畢業於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[奥羽大學的](https://zh.wikipedia.org/wiki/奥羽大學 "wikilink")[牙醫學系](https://zh.wikipedia.org/wiki/牙醫 "wikilink")。而且皆已通過國家考試並取得執照成為執業牙醫。
 
 為防止觸犯法律及影響牙醫工作，因此從不公開任何個人照片，即使MV也不是團員親自演出。甚至是訪問中，除了因病人應約而沒有出席的**SOH**外每個成員都是穿上布偶服接受訪問。
 
@@ -102,7 +102,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
-<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="https://zh.wikipedia.org/wiki/7月20日" title="wikilink">7月20日</a></p></td>
 <td><p><br />
 （ソラシド）</p></td>
 </tr>
@@ -191,7 +191,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 </tr>
 <tr class="even">
 <td><p>28th</p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="https://zh.wikipedia.org/wiki/7月27日" title="wikilink">7月27日</a></p></td>
 <td><p><br />
 （beautiful days）</p></td>
 </tr>
@@ -228,7 +228,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 </tbody>
 </table>
 
-  - 2015年4月1日開始，為配合[福島縣](../Page/福島縣.md "wikilink")[郡山市的宣傳活動及促進地域活化](../Page/郡山市.md "wikilink")，GReeeeN兩首08年度的單曲[キセキ和](../Page/奇蹟_\(GReeeeN單曲\).md "wikilink")[扉分別設定為](../Page/扉_\(GReeeeN單曲\).md "wikilink")[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[郡山站](../Page/郡山站_\(福島縣\).md "wikilink")[新幹線和](../Page/東北新幹線.md "wikilink")[在來線的](../Page/東北本線.md "wikilink")[發車音樂](../Page/發車音樂.md "wikilink")，取代原有的首都圈型音樂（五感工房製作的JR-SH-2）。
+  - 2015年4月1日開始，為配合[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[郡山市的宣傳活動及促進地域活化](../Page/郡山市.md "wikilink")，GReeeeN兩首08年度的單曲[キセキ和](../Page/奇蹟_\(GReeeeN單曲\).md "wikilink")[扉分別設定為](https://zh.wikipedia.org/wiki/扉_\(GReeeeN單曲\) "wikilink")[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")[新幹線和](../Page/東北新幹線.md "wikilink")[在來線的](../Page/東北本線.md "wikilink")[發車音樂](../Page/發車音樂.md "wikilink")，取代原有的首都圈型音樂（五感工房製作的JR-SH-2）。
 
 ### 原創專輯
 
@@ -244,7 +244,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2007年6月27日</p></td>
-<td><p><a href="../Page/你好。請多多指教。.md" title="wikilink">你好。請多多指教。</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/你好。請多多指教。" title="wikilink">你好。請多多指教。</a><br />
 （）</p></td>
 </tr>
 <tr class="even">
@@ -272,17 +272,17 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2014年8月6日</p></td>
-<td><p><a href="../Page/今から親指が消える手品しまーす.md" title="wikilink">今から親指が消える手品しまーす</a> 。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今から親指が消える手品しまーす" title="wikilink">今から親指が消える手品しまーす</a> 。</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2016年9月14日</p></td>
-<td><p><a href="../Page/縁.md" title="wikilink">縁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/縁" title="wikilink">縁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2018年4月11日</p></td>
-<td><p><a href="../Page/うれＤ.md" title="wikilink">うれＤ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/うれＤ" title="wikilink">うれＤ</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -301,18 +301,18 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2009年11月25日</p></td>
-<td><p><a href="../Page/A、B面精選！？.md" title="wikilink">A、B面精選！？</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/A、B面精選！？" title="wikilink">A、B面精選！？</a><br />
 （）</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2015年6月24日</p></td>
-<td><p><a href="../Page/C、Dですと!?.md" title="wikilink">C、Dですと!?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/C、Dですと!?" title="wikilink">C、Dですと!?</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>2017年1月24日</p></td>
-<td><p><a href="../Page/ALL_SINGLeeeeS_〜&amp;_New_Beginning〜.md" title="wikilink">ALL SINGLeeeeS 〜&amp; New Beginning〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ALL_SINGLeeeeS_〜&amp;_New_Beginning〜" title="wikilink">ALL SINGLeeeeS 〜&amp; New Beginning〜</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -347,14 +347,14 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 <td><p><br />
 (奇迹 ～那时的普通人～)</p></td>
 <td></td>
-<td><p><a href="../Page/东映.md" title="wikilink">东映</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东映" title="wikilink">东映</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2019年1月25日</p></td>
 <td><p><br />
 (爱歌～约定的承诺～)</p></td>
 <td></td>
-<td><p><a href="../Page/东映.md" title="wikilink">东映</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东映" title="wikilink">东映</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -372,7 +372,7 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
 <tbody>
 <tr class="odd">
 <td><p>2010年4月1日</p></td>
-<td><p><a href="../Page/NDS.md" title="wikilink">NDS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NDS" title="wikilink">NDS</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -413,17 +413,17 @@ Boy」有「新人」、「未成熟」的意思。根據成員HIDE在2009年3�
   - [Hi-Fi CAMP](../Page/Hi-Fi_CAMP.md "wikilink")《キズナ》（2008年6月4日）
   - [グッキー](../Page/Becky.md "wikilink")《GOOD LUCKY\!\!\!\!\!》(2011月3月2日)
   - [Becky](../Page/Becky.md "wikilink")(ベッキー♪\#)《風のしらべ》（2011年6月15日）
-  - [AAA](../Page/AAA_\(團體\).md "wikilink")《[虹](../Page/虹_\(AAA單曲\).md "wikilink")》（2012年10月31日）
-  - [whiteeeen](../Page/whiteeeen.md "wikilink")《ポケット》（2015年8月5日）
-  - [whiteeeen](../Page/whiteeeen.md "wikilink")《ゼロ恋》（2016年12月14日）
+  - [AAA](../Page/AAA_\(團體\).md "wikilink")《[虹](https://zh.wikipedia.org/wiki/虹_\(AAA單曲\) "wikilink")》（2012年10月31日）
+  - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《ポケット》（2015年8月5日）
+  - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《ゼロ恋》（2016年12月14日）
   - [NEWS](../Page/NEWS.md "wikilink")《U R not alone》（2017年3月22日）
-  - [whiteeeen](../Page/whiteeeen.md "wikilink")《テトテ with
-    GReeeeN》（2017年5月17日）
+  - [whiteeeen](https://zh.wikipedia.org/wiki/whiteeeen "wikilink")《テトテ
+    with GReeeeN》（2017年5月17日）
   - [冰川清志](../Page/冰川清志.md "wikilink")(氷川きよし)《碧し》（2017年11月21日）
   - [柚子](../Page/柚子_\(組合\).md "wikilink")(ゆず)《イコール》（2018年4月4日）
   - [MISIA](../Page/MISIA.md "wikilink")《アイノカタチ
     feat.HIDE(GReeeeN)》（2018年8月22日）
-  - [みゆはん](../Page/みゆはん.md "wikilink")《ストラト》（2019年3月20日）
+  - [みゆはん](https://zh.wikipedia.org/wiki/みゆはん "wikilink")《ストラト》（2019年3月20日）
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")(ももいろクローバーZ)《背番号》
 
 ## 電影

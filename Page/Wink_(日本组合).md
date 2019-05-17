@@ -1,9 +1,9 @@
-**Wink**是由[鈴木早智子和](../Page/鈴木早智子.md "wikilink")[相田翔子組成的](../Page/相田翔子.md "wikilink")[日本女子二人組合](../Page/日本.md "wikilink")，活躍於1988年至1996年。
+**Wink**是由[鈴木早智子和](https://zh.wikipedia.org/wiki/鈴木早智子 "wikilink")[相田翔子組成的](https://zh.wikipedia.org/wiki/相田翔子 "wikilink")[日本女子二人組合](../Page/日本.md "wikilink")，活躍於1988年至1996年。
 
 ## 經歷
 
 鈴木早智子和相田翔子在1987年參與出版的《Up to
-boy》[雜誌選美](../Page/雜誌.md "wikilink")。前者奪冠，後者摘亞（有數人同得亞軍）。兩人在一年後隨即組成女子組合，並在1988年4月發行首張[單曲](../Page/單曲.md "wikilink")《Sugar
+boy》[雜誌選美](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。前者奪冠，後者摘亞（有數人同得亞軍）。兩人在一年後隨即組成女子組合，並在1988年4月發行首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《Sugar
 Baby Love》。
 
 經紀公司原本規劃將兩人的組合取名為「Twinkle」，取其閃耀發光之意，後來因為不好發音的緣故，於是便簡化為「Wink」。
@@ -13,7 +13,7 @@ Love〜》，搭配連續劇成為主題曲，在剛發行時，最高位只到�
 
 1989年可說是Wink聲勢最為顛峰的一年，當年度推出的3張單曲《涙をみせないで 〜Boys Don't Cry〜》、《淋しい熱帯魚》、《One
 Night In Heaven
-〜真夜中のエンジェル〜》，接連突破50萬張的唱片銷量，占據銷售排行冠軍，且分別名列當年度銷售排行榜的第5、7、10名，《[淋しい熱帯魚](../Page/寂寞的熱帶魚.md "wikilink")》更獲得了第22回[全日本有線放送大獎及第](../Page/全日本有線放送大獎.md "wikilink")31回[日本唱片大獎的殊榮](../Page/日本唱片大獎.md "wikilink")，並以該曲參加了第40回的[NHK紅白歌唱大賽](../Page/NHK紅白歌唱大賽.md "wikilink")。
+〜真夜中のエンジェル〜》，接連突破50萬張的唱片銷量，占據銷售排行冠軍，且分別名列當年度銷售排行榜的第5、7、10名，《[淋しい熱帯魚](../Page/寂寞的熱帶魚.md "wikilink")》更獲得了第22回[全日本有線放送大獎及第](../Page/全日本有線放送大獎.md "wikilink")31回[日本唱片大獎的殊榮](../Page/日本唱片大獎.md "wikilink")，並以該曲參加了第40回的[NHK紅白歌唱大賽](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
 
 但隨後不久的90年代，日本樂壇吹起了[小室哲哉旋風](../Page/小室哲哉.md "wikilink")，在激烈的競爭下，Wink的唱片銷售成績漸漸不如以往，1995年6月，Wink也改變了以往的風格，推出了舞曲風格的單曲《JIVE
 INTO THE NIGHT 〜野蛮な夜に〜》，但成績卻不盡理想。
@@ -30,15 +30,15 @@ INTO THE NIGHT 〜野蛮な夜に〜》，但成績卻不盡理想。
 
 ## 特徵
 
-Wink最大的特色，便是唱歌時臉上完全沒有表情，且均以[羅莉塔時裝為服裝造型](../Page/羅莉塔時裝.md "wikilink")，裝扮極為華麗，舞蹈則以機械式的手勢、搖擺與轉身為主，彷彿[音樂盒上的娃娃一般](../Page/音樂盒.md "wikilink")，迥異於當時其他的女子組合，樹立起與眾不同的獨特風格。但後期（1994年起）風格則有所轉變，兩人表演時開始有笑容，穿著也以一般服裝為主。
+Wink最大的特色，便是唱歌時臉上完全沒有表情，且均以[羅莉塔時裝為服裝造型](https://zh.wikipedia.org/wiki/羅莉塔時裝 "wikilink")，裝扮極為華麗，舞蹈則以機械式的手勢、搖擺與轉身為主，彷彿[音樂盒上的娃娃一般](https://zh.wikipedia.org/wiki/音樂盒 "wikilink")，迥異於當時其他的女子組合，樹立起與眾不同的獨特風格。但後期（1994年起）風格則有所轉變，兩人表演時開始有笑容，穿著也以一般服裝為主。
 
-而無論是宣傳照、[MV](../Page/MV.md "wikilink")、表演或是擔任來賓，鈴木早智子固定都站在[左邊](../Page/左邊.md "wikilink")（以觀眾角度視之），相田翔子則固定站在[右邊](../Page/右邊.md "wikilink")，即便偶爾因為舞蹈編排而換位，也很快就會換回原本的站位。但Wink到了後期轉變為活潑造型之後，這種站位模式也不再固定。
+而無論是宣傳照、[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、表演或是擔任來賓，鈴木早智子固定都站在[左邊](https://zh.wikipedia.org/wiki/左邊 "wikilink")（以觀眾角度視之），相田翔子則固定站在[右邊](https://zh.wikipedia.org/wiki/右邊 "wikilink")，即便偶爾因為舞蹈編排而換位，也很快就會換回原本的站位。但Wink到了後期轉變為活潑造型之後，這種站位模式也不再固定。
 
-早期Wink的另一個特色，就是多以[翻唱外國歌曲為主](../Page/翻唱.md "wikilink")，到了中期以後才逐漸以原創歌曲為主，Wink活動期間總計發表180多首歌曲，其中約60%為原創作品。
+早期Wink的另一個特色，就是多以[翻唱外國歌曲為主](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，到了中期以後才逐漸以原創歌曲為主，Wink活動期間總計發表180多首歌曲，其中約60%為原創作品。
 
 ## 唱片列表
 
-### [單曲](../Page/單曲.md "wikilink")
+### [單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")
 
   - Sugar Baby Love
 
@@ -67,7 +67,7 @@ Wink最大的特色，便是唱歌時臉上完全沒有表情，且均以[羅莉
   -
   -
   -
-### [專輯](../Page/專輯.md "wikilink")
+### [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")
 
   -
   -

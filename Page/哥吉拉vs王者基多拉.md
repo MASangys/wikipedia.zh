@@ -1,6 +1,6 @@
-『**哥吉拉vs王者基多拉**』（日文原名：**ゴジラvsキングギドラ**）是1991年12月14日上映的[日本](../Page/日本.md "wikilink")[電影](../Page/電影.md "wikilink")，[哥吉拉系列電影的第](../Page/哥吉拉系列電影.md "wikilink")18部作品，也是[東寶創立](../Page/東寶電影公司.md "wikilink")60周年的記念作品。日本觀眾人數約270萬人，日本票房29億，片商實得盈利14億5000萬日圓，是1992年日本電影盈收第8位。本片在台灣上映時片名為「**六度空間大水怪**」，香港的片名為「**戰龍哥斯拉之魔龍復仇**」。
+『**哥吉拉vs王者基多拉**』（日文原名：**ゴジラvsキングギドラ**）是1991年12月14日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")18部作品，也是[東寶創立](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")60周年的記念作品。日本觀眾人數約270萬人，日本票房29億，片商實得盈利14億5000萬日圓，是1992年日本電影盈收第8位。本片在台灣上映時片名為「**六度空間大水怪**」，香港的片名為「**戰龍哥斯拉之魔龍復仇**」。
 
-著名怪獸[王者基多拉睽違](../Page/王者基多拉.md "wikilink")19年後再度登場與[哥吉拉對戰](../Page/哥吉拉.md "wikilink")，但由於劇情中牽涉到[時間旅行和](../Page/時間旅行.md "wikilink")[二次世界大戰](../Page/二次世界大戰.md "wikilink")，引起爭議，包括壞人角色由[美國人演出](../Page/美國.md "wikilink")、以及美軍在拉哥斯島上被[哥吉拉龍踩踏而死傷的情節](../Page/哥吉拉龍.md "wikilink")，被部分歐美觀眾認為隱含[反美情緒](../Page/反美情緒.md "wikilink")。
+著名怪獸[王者基多拉睽違](../Page/王者基多拉.md "wikilink")19年後再度登場與[哥吉拉對戰](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")，但由於劇情中牽涉到[時間旅行和](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")[二次世界大戰](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")，引起爭議，包括壞人角色由[美國人演出](https://zh.wikipedia.org/wiki/美國 "wikilink")、以及美軍在拉哥斯島上被[哥吉拉龍踩踏而死傷的情節](https://zh.wikipedia.org/wiki/哥吉拉龍 "wikilink")，被部分歐美觀眾認為隱含[反美情緒](https://zh.wikipedia.org/wiki/反美情緒 "wikilink")。
 
 ## 劇情概要
 
@@ -8,37 +8,37 @@
 
 ## 登場怪獸
 
-  - [哥吉拉生存於拉哥斯島上的古代](../Page/哥吉拉.md "wikilink")[恐龍](../Page/恐龍.md "wikilink")，受到核能影響突變為哥吉拉。
+  - [哥吉拉生存於拉哥斯島上的古代](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")[恐龍](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，受到核能影響突變為哥吉拉。
   - [王者基多拉](../Page/王者基多拉.md "wikilink")，台譯大水怪，23世紀未來人利用核能影響突變生出的三頭怪獸，全身披覆金色鱗甲，頭部造型類似中國神話裡的龍。與哥吉拉作戰後沉入海底，被23世紀的人改造成機械王者基多拉（台譯六度空間大水怪）。
   - 杜勒獸，生物基因工程做出來的小寵物，受到核能影響突變為[王者基多拉](../Page/王者基多拉.md "wikilink")
-  - [哥吉拉龍](../Page/哥吉拉龍.md "wikilink")，生存於拉哥斯島上的古代[恐龍](../Page/恐龍.md "wikilink")，在二戰時期無心間救了防守島上的日本士兵。在重傷後受到核能影響突變為哥吉拉
+  - [哥吉拉龍](https://zh.wikipedia.org/wiki/哥吉拉龍 "wikilink")，生存於拉哥斯島上的古代[恐龍](https://zh.wikipedia.org/wiki/恐龍 "wikilink")，在二戰時期無心間救了防守島上的日本士兵。在重傷後受到核能影響突變為哥吉拉
 
 ## 製作人員
 
-  - 編劇、導演：[大森一樹](../Page/大森一樹.md "wikilink")
+  - 編劇、導演：[大森一樹](https://zh.wikipedia.org/wiki/大森一樹 "wikilink")
   - 特技導演：[川北紘一](../Page/川北紘一.md "wikilink")
   - 音樂：[伊福部昭](../Page/伊福部昭.md "wikilink")
-  - 執行製作：[富山省吾](../Page/富山省吾.md "wikilink")
+  - 執行製作：[富山省吾](https://zh.wikipedia.org/wiki/富山省吾 "wikilink")
   - 總製作人：[田中友幸](../Page/田中友幸.md "wikilink")
 
 ## 演員
 
-  - 艾美·卡諾：[中川安奈](../Page/中川安奈.md "wikilink")
+  - 艾美·卡諾：[中川安奈](https://zh.wikipedia.org/wiki/中川安奈 "wikilink")
   - 寺澤健一郎：[豐原功補](../Page/豐原功補.md "wikilink")
   - 三枝未希：[小高惠美](../Page/小高惠美.md "wikilink")
   - 電視台導播：[時任三郎](../Page/時任三郎.md "wikilink")
-  - 森村千晶：[原田貴和子](../Page/原田貴和子.md "wikilink")
+  - 森村千晶：[原田貴和子](https://zh.wikipedia.org/wiki/原田貴和子 "wikilink")
   - 土橋龍三：[小林昭二](../Page/小林昭二.md "wikilink")
-  - 池畑益吉：[上田耕一](../Page/上田耕一.md "wikilink")
+  - 池畑益吉：[上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")
   - 真崎洋典：[佐佐木勝彥](../Page/佐佐木勝彥.md "wikilink")
   - 威爾森：Chuck Wilson
   - M-11人造人：Robert Scott Field
-  - 藤尾猛彥：[西岡德馬](../Page/西岡德馬.md "wikilink")
+  - 藤尾猛彥：[西岡德馬](https://zh.wikipedia.org/wiki/西岡德馬 "wikilink")
   - 林田首相：[山村聰](../Page/山村聰.md "wikilink")
   - 新堂靖明：[土屋嘉男](../Page/土屋嘉男.md "wikilink")
-  - 哥吉拉：[薩摩劍八郎](../Page/薩摩劍八郎.md "wikilink")
-  - 王者基多拉：[破李拳龍](../Page/破李拳龍.md "wikilink")
-  - 哥吉拉龍：[福田亘](../Page/福田亘.md "wikilink")
+  - 哥吉拉：[薩摩劍八郎](https://zh.wikipedia.org/wiki/薩摩劍八郎 "wikilink")
+  - 王者基多拉：[破李拳龍](https://zh.wikipedia.org/wiki/破李拳龍 "wikilink")
+  - 哥吉拉龍：[福田亘](https://zh.wikipedia.org/wiki/福田亘 "wikilink")
 
 ## 参考资料
 

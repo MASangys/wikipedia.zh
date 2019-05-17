@@ -1,7 +1,7 @@
 **多萝西·利·塞耶斯**（**Dorothy Leigh
-Sayers**，）是一位[英國](../Page/英國.md "wikilink")[作家與](../Page/作家.md "wikilink")[翻譯家](../Page/翻譯家.md "wikilink")。最有名的作品是以[彼得·溫西勳爵](../Page/彼得·溫西勳爵.md "wikilink")（Lord
+Sayers**，）是一位[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[作家與](https://zh.wikipedia.org/wiki/作家 "wikilink")[翻譯家](https://zh.wikipedia.org/wiki/翻譯家 "wikilink")。最有名的作品是以[彼得·溫西勳爵](https://zh.wikipedia.org/wiki/彼得·溫西勳爵 "wikilink")（Lord
 Peter
-Wimsey）為主角的一系列[偵探小說](../Page/偵探小說.md "wikilink")，首部作品是1923年的《*Whose
+Wimsey）為主角的一系列[偵探小說](https://zh.wikipedia.org/wiki/偵探小說 "wikilink")，首部作品是1923年的《*Whose
 Body?*》。
 
 ## 生平
@@ -32,8 +32,8 @@ Body?*》。
 
   - [Dorothy L Sayers in
     Galloway](https://web.archive.org/web/20080417224638/http://www.gatehouse-of-fleet.co.uk/sayers.htm)—the
-    [scene](../Page/Dumfries_and_Galloway.md "wikilink") of her novel
-    *Five Red Herrings* (1931)
+    [scene](https://zh.wikipedia.org/wiki/Dumfries_and_Galloway "wikilink")
+    of her novel *Five Red Herrings* (1931)
 
 [Category:英格蘭小說家](https://zh.wikipedia.org/wiki/Category:英格蘭小說家 "wikilink")
 [Category:英格蘭翻譯家](https://zh.wikipedia.org/wiki/Category:英格蘭翻譯家 "wikilink")

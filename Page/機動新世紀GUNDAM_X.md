@@ -1,36 +1,36 @@
 《**機動新世紀GUNDAM X**》（、*After War Gundam
-X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台與朝日](../Page/朝日電視台.md "wikilink")[電視網部分地區的](../Page/電視.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")，[GUNDAM系列作品之一](../Page/GUNDAM系列.md "wikilink")，全39話。
+X*）是1996年4月5日至12月27日，於[日本](../Page/日本.md "wikilink")[朝日電視台與朝日](../Page/朝日電視台.md "wikilink")[電視網部分地區的](https://zh.wikipedia.org/wiki/電視 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，[GUNDAM系列作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")，全39話。
 
 《**機動新世紀GUNDAM X**》與《[機動武鬥傳G
 GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[新機動戰記GUNDAM
-W](../Page/新機動戰記GUNDAM_W.md "wikilink")》常被並稱為「[平成三部曲](../Page/平成三部曲.md "wikilink")」。
+W](../Page/新機動戰記GUNDAM_W.md "wikilink")》常被並稱為「[平成三部曲](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")」。
 
 ## 故事簡介
 
 After
 War（A.W.）15年，舞台在[人類和](../Page/人類.md "wikilink")[地球受到毀滅性破壞的大戰](../Page/地球.md "wikilink")──第7次[宇宙戰爭後荒廢的地球](../Page/宇宙.md "wikilink")。
 
-由於戰爭成為孤兒的主角卡洛德以回收和奪取[機動戰士為生計](../Page/機動戰士.md "wikilink")。有一天受到委託，內容是希望奪回被綁架到自由號戰艦上的少女蒂琺。對蒂琺一見鍾情的卡洛德，因為蒂琺見到委託人時的膽怯模樣而帶著她一起逃走。
+由於戰爭成為孤兒的主角卡洛德以回收和奪取[機動戰士為生計](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。有一天受到委託，內容是希望奪回被綁架到自由號戰艦上的少女蒂琺。對蒂琺一見鍾情的卡洛德，因為蒂琺見到委託人時的膽怯模樣而帶著她一起逃走。
 
 在蒂琺的引導下，卡洛德找到了傳說的MS「高達X」。2人歷經幾番曲折，和自由號戰艦艦長傑米爾一起踏上旅程尋找被稱為「[Newtype](../Page/Newtype.md "wikilink")」（中文翻譯為新人類或新類型人）的人們。
 
 ## 製作人員
 
-  - 企畫：[Sunrise](../Page/Sunrise.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - 企畫：[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 監督：[高松信司](../Page/高松信司.md "wikilink")
-  - 系列構成：[川崎ヒロユキ](../Page/川崎ヒロユキ.md "wikilink")
-  - 人物設計：[西村誠芳](../Page/西村誠芳.md "wikilink")
-  - 機體設計：[大河原邦男](../Page/大河原邦男.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")
-  - 美術監督：[佐藤勝](../Page/佐藤勝.md "wikilink")
-  - 攝影監督：[大神洋一](../Page/大神洋一.md "wikilink")
-  - 音樂：[樋口康雄](../Page/樋口康雄.md "wikilink")
-  - 音響監督：[浦上靖夫](../Page/浦上靖夫.md "wikilink")
-  - 編輯：[邊見俊夫](../Page/邊見俊夫.md "wikilink")
-  - 製作合作：[電通](../Page/電通.md "wikilink")、[創通代理店](../Page/創通代理店.md "wikilink")
-  - 製片人：\<\#1\~\#26\>[梶淳](../Page/梶淳.md "wikilink")、[木村純一](../Page/木村純一.md "wikilink")([朝日電視](../Page/朝日電視.md "wikilink"))、[富岡秀行](../Page/富岡秀行.md "wikilink")([Sunrise](../Page/Sunrise.md "wikilink"))
-  - 製片人：\<\#27\~\#39\>[木村純一](../Page/木村純一.md "wikilink")、[岩本太郎](../Page/岩本太郎.md "wikilink")([朝日電視](../Page/朝日電視.md "wikilink"))、[富岡秀行](../Page/富岡秀行.md "wikilink")([Sunrise](../Page/Sunrise.md "wikilink"))
-  - 製作：[朝日電視](../Page/朝日電視.md "wikilink")、[Sunrise](../Page/Sunrise.md "wikilink")
+  - 系列構成：[川崎ヒロユキ](https://zh.wikipedia.org/wiki/川崎ヒロユキ "wikilink")
+  - 人物設計：[西村誠芳](https://zh.wikipedia.org/wiki/西村誠芳 "wikilink")
+  - 機體設計：[大河原邦男](../Page/大河原邦男.md "wikilink")、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")
+  - 美術監督：[佐藤勝](https://zh.wikipedia.org/wiki/佐藤勝 "wikilink")
+  - 攝影監督：[大神洋一](https://zh.wikipedia.org/wiki/大神洋一 "wikilink")
+  - 音樂：[樋口康雄](https://zh.wikipedia.org/wiki/樋口康雄 "wikilink")
+  - 音響監督：[浦上靖夫](https://zh.wikipedia.org/wiki/浦上靖夫 "wikilink")
+  - 編輯：[邊見俊夫](https://zh.wikipedia.org/wiki/邊見俊夫 "wikilink")
+  - 製作合作：[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[創通代理店](https://zh.wikipedia.org/wiki/創通代理店 "wikilink")
+  - 製片人：\<\#1\~\#26\>[梶淳](https://zh.wikipedia.org/wiki/梶淳 "wikilink")、[木村純一](https://zh.wikipedia.org/wiki/木村純一 "wikilink")([朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink"))、[富岡秀行](https://zh.wikipedia.org/wiki/富岡秀行 "wikilink")([Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink"))
+  - 製片人：\<\#27\~\#39\>[木村純一](https://zh.wikipedia.org/wiki/木村純一 "wikilink")、[岩本太郎](https://zh.wikipedia.org/wiki/岩本太郎 "wikilink")([朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink"))、[富岡秀行](https://zh.wikipedia.org/wiki/富岡秀行 "wikilink")([Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink"))
+  - 製作：[朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")、[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
 
 ## 登場機體
 
@@ -384,39 +384,47 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 
 
-**旁白、D.O.M.E**（日：[光岡湧太郎](../Page/光岡湧太郎.md "wikilink")／港：[招世亮](../Page/招世亮.md "wikilink")／台：[李景唐](../Page/李景唐.md "wikilink")）
+**旁白、D.O.M.E**（日：[光岡湧太郎](https://zh.wikipedia.org/wiki/光岡湧太郎 "wikilink")／港：[招世亮](../Page/招世亮.md "wikilink")／台：[李景唐](../Page/李景唐.md "wikilink")）
 
 ## 主題曲、單曲CD专辑
 
 **片頭曲**
 
-1.  (\#1～\#26) DREAMS - 作詞・作曲・編曲：[RO-M](../Page/RO-M.md "wikilink") -
-    主唱：[ROMANTIC MODE](../Page/ROMANTIC_MODE.md "wikilink")
-2.  (\#27～\#39) Resolution - 作詞：[西脇　唯](../Page/西脇_唯.md "wikilink") /
-    作曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink") /
-    編曲：[ジョー・リノイエ](../Page/ジョー・リノイエ.md "wikilink")/[鈴川真樹](../Page/鈴川真樹.md "wikilink")
-    / 主唱：[ROMANTIC MODE](../Page/ROMANTIC_MODE.md "wikilink")
+1.  (\#1～\#26) DREAMS -
+    作詞・作曲・編曲：[RO-M](https://zh.wikipedia.org/wiki/RO-M "wikilink")
+    - 主唱：[ROMANTIC
+    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
+2.  (\#27～\#39) Resolution -
+    作詞：[西脇　唯](https://zh.wikipedia.org/wiki/西脇_唯 "wikilink")
+    / 作曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink") /
+    編曲：[ジョー・リノイエ](https://zh.wikipedia.org/wiki/ジョー・リノイエ "wikilink")/[鈴川真樹](https://zh.wikipedia.org/wiki/鈴川真樹 "wikilink")
+    / 主唱：[ROMANTIC
+    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
 
 **片尾曲**
 
 1.  (\#1～\#13, \#39) HUMAN TOUCH - 作詞：[Susanne Marie
-    Edgren](../Page/Susanne_Marie_Edgren.md "wikilink") / 作曲・編曲：[Tom
-    Keane](../Page/Tom_Keane.md "wikilink") / 主唱：[Warren
-    Wiebe](../Page/Warren_Wiebe.md "wikilink")
+    Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink")
+    / 作曲・編曲：[Tom
+    Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink") /
+    主唱：[Warren
+    Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink")
 2.  (\#14～\#26) HUMAN TOUCH（日本語版）- 作詞：[Susanne Marie
-    Edgren](../Page/Susanne_Marie_Edgren.md "wikilink")/[許　瑛子](../Page/許_瑛子.md "wikilink")
-    / 作曲：[Tom Keane](../Page/Tom_Keane.md "wikilink") /
-    編曲：[須藤賢一](../Page/須藤賢一.md "wikilink") /
-    主唱：[re-kiss](../Page/re-kiss.md "wikilink")
-3.  (\#27～\#38) 銀色Horizon - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink") /
-    作曲：[濱田金吾](../Page/濱田金吾.md "wikilink") / 編曲：[TOM
-    KEAN](../Page/TOM_KEAN.md "wikilink") /
-    主唱：[中瀬聡美](../Page/中瀬聡美.md "wikilink")
+    Edgren](https://zh.wikipedia.org/wiki/Susanne_Marie_Edgren "wikilink")/[許　瑛子](https://zh.wikipedia.org/wiki/許_瑛子 "wikilink")
+    / 作曲：[Tom Keane](https://zh.wikipedia.org/wiki/Tom_Keane "wikilink")
+    / 編曲：[須藤賢一](https://zh.wikipedia.org/wiki/須藤賢一 "wikilink") /
+    主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink")
+3.  (\#27～\#38) 銀色Horizon -
+    作詞：[小室みつ子](https://zh.wikipedia.org/wiki/小室みつ子 "wikilink")
+    / 作曲：[濱田金吾](https://zh.wikipedia.org/wiki/濱田金吾 "wikilink") / 編曲：[TOM
+    KEAN](https://zh.wikipedia.org/wiki/TOM_KEAN "wikilink") /
+    主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink")
 
 **單曲CD专辑**
 
   - OP1(\#1～\#26) - Dreams - 主唱：[ROMANTIC
-    MODE](../Page/ROMANTIC_MODE.md "wikilink") /（1996年5月22日發售）
+    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
+    /（1996年5月22日發售）
 
 <!-- end list -->
 
@@ -431,7 +439,8 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <!-- end list -->
 
   - OP2(\#27～\#39) - Resolution - 主唱：[ROMANTIC
-    MODE](../Page/ROMANTIC_MODE.md "wikilink") /（1996年10月23日發售）
+    MODE](https://zh.wikipedia.org/wiki/ROMANTIC_MODE "wikilink")
+    /（1996年10月23日發售）
 
 <!-- end list -->
 
@@ -446,7 +455,8 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <!-- end list -->
 
   - ED1(\#1～\#13) - Human Touch - 主唱：[Warren
-    Wiebe](../Page/Warren_Wiebe.md "wikilink") /（1996年5月8日發售）
+    Wiebe](https://zh.wikipedia.org/wiki/Warren_Wiebe "wikilink")
+    /（1996年5月8日發售）
 
 <!-- end list -->
 
@@ -460,8 +470,8 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <!-- end list -->
 
   - ED2(\#14～\#26) - Human_Touch -
-    主唱：[re-kiss](../Page/re-kiss.md "wikilink") /
-    (日本語版，1996年8月21日發售)
+    主唱：[re-kiss](https://zh.wikipedia.org/wiki/re-kiss "wikilink")
+    / (日本語版，1996年8月21日發售)
 
 <!-- end list -->
 
@@ -475,8 +485,9 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 <!-- end list -->
 
-  - ED3(\#27～\#39) - 銀色Horizon - 主唱：[中瀬聡美](../Page/中瀬聡美.md "wikilink") /
-    (1996年11月5日發售)
+  - ED3(\#27～\#39) - 銀色Horizon -
+    主唱：[中瀬聡美](https://zh.wikipedia.org/wiki/中瀬聡美 "wikilink")
+    / (1996年11月5日發售)
 
 <!-- end list -->
 
@@ -572,7 +583,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 ## 放送列表
 
 每一集的标题都取自剧中人物的台词。在前一集的下集预告中伴随着剧中人物的对话出现。
-此外，全剧的剧本是由[川崎裕负责](../Page/川崎裕.md "wikilink")，这里将被省略。
+此外，全剧的剧本是由[川崎裕负责](https://zh.wikipedia.org/wiki/川崎裕 "wikilink")，这里将被省略。
 播出日期以テレビ朝日的播出日期为准。
 
 <table>
@@ -593,8 +604,8 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「月は出ているか?」</p></td>
 <td><p>ジャミル・ニート</p></td>
 <td><p><a href="../Page/高松信司.md" title="wikilink">高松信司</a></p></td>
-<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
-<td><p><a href="../Page/西村誠芳.md" title="wikilink">西村誠芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西村誠芳" title="wikilink">西村誠芳</a></p></td>
 <td><p>1996年<br />
 4月5日</p></td>
 </tr>
@@ -640,7 +651,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>6</p></td>
 <td><p>「不愉快だわ…」</p></td>
 <td><p>サラ・タイレル</p></td>
-<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
 <td><p>南康宏</p></td>
 <td><p>藁谷均<br />
 佐久間信一</p></td>
@@ -650,7 +661,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>7</p></td>
 <td><p>「ガンダム、売るよ!」</p></td>
 <td><p>ガロード・ラン</p></td>
-<td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
 <td><p>原田奈奈</p></td>
 <td><p>西村誠芳</p></td>
 <td><p>5月17日</p></td>
@@ -688,7 +699,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>11</p></td>
 <td><p>「何も考えずに走れ!」</p></td>
 <td><p>ジャミル・ニート</p></td>
-<td><p><a href="../Page/千明孝一.md" title="wikilink">千明孝一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千明孝一" title="wikilink">千明孝一</a></p></td>
 <td><p>原田奈奈</p></td>
 <td><p>西村誠芳</p></td>
 <td><p>6月14日</p></td>
@@ -830,7 +841,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「何も喋るな」</p></td>
 <td><p>ウィッツ・スー[2]</p></td>
 <td><p>西森章</p></td>
-<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
 <td><p>西村誠芳</p></td>
 <td><p>9月27日</p></td>
 </tr>
@@ -849,7 +860,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「撃つしかないのか!」</p></td>
 <td><p>ガロード・ラン</p></td>
 <td><p>湊屋夢吉</p></td>
-<td><p><a href="../Page/於地紘仁.md" title="wikilink">越智浩仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/於地紘仁" title="wikilink">越智浩仁</a></p></td>
 <td><p>西村誠芳</p></td>
 <td><p>10月12日</p></td>
 </tr>

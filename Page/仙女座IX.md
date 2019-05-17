@@ -1,5 +1,5 @@
 **仙女座
-Ⅸ**是在2004年被Zucker等人從[史隆數位巡天的恆星測光儀中解析而發現的星系](../Page/史隆數位巡天.md "wikilink")。它是位於[仙女座的一個](../Page/仙女座.md "wikilink")[矮橢球星系](../Page/矮橢球星系.md "wikilink")，也是[仙女座星系的衛星星系](../Page/仙女座星系.md "wikilink")。\[1\]在發現之際，它是已知的星系中表面光度最低的Σ<sub>*V*</sub>～26.8mags
+Ⅸ**是在2004年被Zucker等人從[史隆數位巡天的恆星測光儀中解析而發現的星系](../Page/史隆數位巡天.md "wikilink")。它是位於[仙女座的一個](../Page/仙女座.md "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，也是[仙女座星系的衛星星系](../Page/仙女座星系.md "wikilink")。\[1\]在發現之際，它是已知的星系中表面光度最低的Σ<sub>*V*</sub>～26.8mags
 arcsec<sup>-2</sup>，並且是本質的絕對星等最暗的星系。\[2\]
 
 仙女座

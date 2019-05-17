@@ -12,8 +12,8 @@ Man Live也好，門票都立即售完。
 
 ## 團員
 
-  - **新里英之**(，1983年4月12日-）主唱、[吉他](../Page/吉他.md "wikilink")、[Rap](../Page/Rap.md "wikilink")
-  - **名嘉俊**(，1983年5月10日-）[鼓手](../Page/鼓手.md "wikilink")、[Rap](../Page/Rap.md "wikilink")
+  - **新里英之**(，1983年4月12日-）主唱、[吉他](../Page/吉他.md "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap "wikilink")
+  - **名嘉俊**(，1983年5月10日-）[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap "wikilink")
   - **許田信介**(，1983年7月17日-）貝司手
   - **仲宗根泉**(，1983年11月1日-）主唱、鍵盤手
   - **宮里悠平**(，1984年1月2日-）[吉他](../Page/吉他.md "wikilink")

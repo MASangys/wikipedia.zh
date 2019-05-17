@@ -17,19 +17,20 @@
 <!-- end list -->
 
   - **CiA** \> **The Corporation**(CORP)\>**SHOCK**
-    SHOCK的成立者是Outbreak。：[1996年7月SHOCK合并CiA并取代CiA](../Page/1996年7月.md "wikilink")。同年10月，SHOCK成功合并CORP。1998年，SHCOK发布了超过1000个数量的破解作品，并且向ISO领域拓展（SHOCKiSO），1999年，SHOCK的作品数量超过了1500。2000年5月30日，数量超过了2000，一个新的里程碑。[组织历史](https://web.archive.org/web/20070618014847/http://www.defacto2.net/web.pages/shock/main.html)
+    SHOCK的成立者是Outbreak。：[1996年7月SHOCK合并CiA并取代CiA](https://zh.wikipedia.org/wiki/1996年7月 "wikilink")。同年10月，SHOCK成功合并CORP。1998年，SHCOK发布了超过1000个数量的破解作品，并且向ISO领域拓展（SHOCKiSO），1999年，SHOCK的作品数量超过了1500。2000年5月30日，数量超过了2000，一个新的里程碑。[组织历史](https://web.archive.org/web/20070618014847/http://www.defacto2.net/web.pages/shock/main.html)
 
 <!-- end list -->
 
-  - **[Drink Or Die](../Page/Drinkordie.md "wikilink")**（DOD）
+  - **[Drink Or
+    Die](https://zh.wikipedia.org/wiki/Drinkordie "wikilink")**（DOD）
     在WINDOWS95作为零售版本前将它发布了！后来在[Operation
-    Buccaneer行动中被捕](../Page/Operation_Buccaneer.md "wikilink")。
+    Buccaneer行动中被捕](https://zh.wikipedia.org/wiki/Operation_Buccaneer "wikilink")。
 
 <!-- end list -->
 
   - **EViL**
     The iSO division（EViLiSO）是第一个发布电影作品的组织。(then as Video
-    CDs)最终让许多[Topsites认可并接受VCD](../Page/Topsite.md "wikilink")。最戏剧性的是在互联网上发布了[美国派](../Page/美国派.md "wikilink")，在电影院放映的3个月前！[1](https://archive.is/20050211094807/http://www.theisonews.com/release.php?releaseid=4262)
+    CDs)最终让许多[Topsites认可并接受VCD](https://zh.wikipedia.org/wiki/Topsite "wikilink")。最戏剧性的是在互联网上发布了[美国派](https://zh.wikipedia.org/wiki/美国派 "wikilink")，在电影院放映的3个月前！[1](https://archive.is/20050211094807/http://www.theisonews.com/release.php?releaseid=4262)
 
 <!-- end list -->
 
@@ -40,27 +41,27 @@
 <!-- end list -->
 
   - **[International Network of
-    Crackers](../Page/International_Network_of_Crackers.md "wikilink")**（INC）
+    Crackers](https://zh.wikipedia.org/wiki/International_Network_of_Crackers "wikilink")**（INC）
     INC是早期80年代末90年代初破解发布IBM软件的组织之一。大部分的作品在1993年年发布，主要是和教育有关的软件。1994年，INC就彻底消失了。
 
 <!-- end list -->
 
   - **[National Elite Underground
-    Alliance](../Page/NEUA.md "wikilink")**（NEUA）
+    Alliance](https://zh.wikipedia.org/wiki/NEUA "wikilink")**（NEUA）
     National Elite Underground Alliance活跃于90年代初，发表于IBM软件破解。大部分成员是纽约人。
 
 <!-- end list -->
 
-  - **[PARADOX](../Page/PARADOX_\(warez\).md "wikilink")**（PDX）
+  - **[PARADOX](https://zh.wikipedia.org/wiki/PARADOX_\(warez\) "wikilink")**（PDX）
     1989年成立于Amiga。发布了大量PC和console有关的作品。至今仍旧活动。
 
 <!-- end list -->
 
   - **[Pirates With
-    Attitude](../Page/Pirates_With_Attitude.md "wikilink")**（PWA）
+    Attitude](https://zh.wikipedia.org/wiki/Pirates_With_Attitude "wikilink")**（PWA）
     PWA成立于1992年直到2000年。最强的是他们在WIN98正式发布前的4星期破解了WIN98并在网上发布了它。PWA members
     were raided close after the passing of the [No Electronic
-    Theft](../Page/NET_Act.md "wikilink") or "NET"
+    Theft](https://zh.wikipedia.org/wiki/NET_Act "wikilink") or "NET"
     Act.[2](https://web.archive.org/web/20061001195352/http://www.usdoj.gov/criminal/cybercrime/pwa_verdict.htm)
 
 <!-- end list -->

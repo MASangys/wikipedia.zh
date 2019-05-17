@@ -1,17 +1,18 @@
 {{ Infobox VG | title = | image = <File:Widelands-svn3311.jpg> | caption
 = 截图svn3311版本 | developer =
 [团队](http://xoops.widelands.org/modules/mediawiki/wiki/Developers) |
-engine = 自制 (基於[SDL](../Page/SDL.md "wikilink")) | genre =
-[即时战略](../Page/即时战略游戏.md "wikilink") | modes =
-[单人游戏](../Page/单人游戏.md "wikilink")，[联机游戏](../Page/联机游戏.md "wikilink")
-| platforms = [跨平台](../Page/跨平台.md "wikilink") }} ***Widelands***
-是一个慢节奏[即时战略游戏](../Page/即时战略游戏.md "wikilink")，模仿[工人物语系列的前两部](../Page/工人物语系列.md "wikilink")，在[GPL协议下发布](../Page/GNU_General_Public_License.md "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Mac
+engine = 自制 (基於[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")) |
+genre = [即时战略](../Page/即时战略游戏.md "wikilink") | modes =
+[单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")，[联机游戏](https://zh.wikipedia.org/wiki/联机游戏 "wikilink")
+| platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
+***Widelands***
+是一个慢节奏[即时战略游戏](../Page/即时战略游戏.md "wikilink")，模仿[工人物语系列的前两部](../Page/工人物语系列.md "wikilink")，在[GPL协议下发布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Mac
 OS
-X和](../Page/Mac_OS_X.md "wikilink")[Windows下运行](../Page/Microsoft_Windows.md "wikilink")。
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows下运行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 游戏特点
 
-游戏已经翻译成[捷克语](../Page/捷克语.md "wikilink")、[英语](../Page/英语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[加利西亚语](../Page/加利西亚语.md "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[波兰语](../Page/波兰语.md "wikilink")、[俄语](../Page/俄语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[斯洛伐克语](../Page/斯洛伐克语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[瑞典语及](../Page/瑞典语.md "wikilink")[荷兰语等多國語言](../Page/荷兰语.md "wikilink")。\[1\]游戏包括3种不同[部族](../Page/部族.md "wikilink")，2个教学关。拥有[地图编辑器](../Page/地图编辑器.md "wikilink")，并可以导入《[工人物语II](../Page/工人物语II.md "wikilink")》的地图。
+游戏已经翻译成[捷克语](../Page/捷克语.md "wikilink")、[英语](../Page/英语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[加利西亚语](https://zh.wikipedia.org/wiki/加利西亚语 "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[斯洛伐克语](../Page/斯洛伐克语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[瑞典语及](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")[荷兰语等多國語言](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")。\[1\]游戏包括3种不同[部族](https://zh.wikipedia.org/wiki/部族 "wikilink")，2个教学关。拥有[地图编辑器](https://zh.wikipedia.org/wiki/地图编辑器 "wikilink")，并可以导入《[工人物语II](../Page/工人物语II.md "wikilink")》的地图。
 
 ## 情况
 
@@ -21,7 +22,7 @@ X和](../Page/Mac_OS_X.md "wikilink")[Windows下运行](../Page/Microsoft_Window
 
 ## 其他
 
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 外部链接
 

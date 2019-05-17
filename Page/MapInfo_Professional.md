@@ -5,13 +5,13 @@ Professional可以在一张地图上合并和显示不同格式和投影的地�
 
   - [ArcGIS](../Page/ArcGIS.md "wikilink") -
     [美國環境系統研究所公司所開發一系列的GIS軟體](../Page/美國環境系統研究所公司.md "wikilink")。
-  - [Quantum GIS](../Page/Quantum_GIS.md "wikilink") -
-    一種免費的GIS軟體，屬於自由軟體。
+  - [Quantum GIS](https://zh.wikipedia.org/wiki/Quantum_GIS "wikilink")
+    - 一種免費的GIS軟體，屬於自由軟體。
   - [GvSIG](../Page/GvSIG.md "wikilink") - 一種免費的GIS軟體，屬於自由軟體。
-  - [SuperGIS](../Page/SuperGIS.md "wikilink") -
+  - [SuperGIS](https://zh.wikipedia.org/wiki/SuperGIS "wikilink") -
     台灣崧旭資訊股份有限公司所開發的GIS軟體產品套件的總稱。
 
-其他的可歸類為GIS軟體的項目為數眾多，請見"[GIS軟體列表](../Page/GIS軟體列表.md "wikilink")"
+其他的可歸類為GIS軟體的項目為數眾多，請見"[GIS軟體列表](https://zh.wikipedia.org/wiki/GIS軟體列表 "wikilink")"
 
 ## 外部链接
 

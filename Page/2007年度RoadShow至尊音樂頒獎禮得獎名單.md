@@ -1,4 +1,4 @@
-**RoadShow至尊音樂頒獎禮2007**於2008年1月3日假座[香港會議展覽中心舉行](../Page/香港會議展覽中心.md "wikilink")，當晚共頒發24個項目，總共74個獎項，司儀為[高皓正](../Page/高皓正.md "wikilink")、[張達明](../Page/張達明.md "wikilink")、[俞詠文](../Page/俞詠文.md "wikilink")，以下為當晚的得獎名單：
+**RoadShow至尊音樂頒獎禮2007**於2008年1月3日假座[香港會議展覽中心舉行](../Page/香港會議展覽中心.md "wikilink")，當晚共頒發24個項目，總共74個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
 
 ## 歌曲獎項
 
@@ -8,7 +8,7 @@
 
 ### RoadShow至尊歌曲
 
-1.  《逃》 ──[容祖兒](../Page/容祖兒.md "wikilink")
+1.  《逃》 ──[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
 2.  《化》 ──[楊千嬅](../Page/楊千嬅.md "wikilink")
 3.  《男人KTV》 ──[側田](../Page/側田.md "wikilink")
 4.  《電燈膽》 ──[鄧麗欣](../Page/鄧麗欣.md "wikilink")
@@ -17,15 +17,15 @@
 7.  《愛回家》 ──[古巨基](../Page/古巨基.md "wikilink")
 8.  《逼得太緊》 ──[吳雨霏](../Page/吳雨霏.md "wikilink")
 9.  《東京百貨》 ──[鄭融](../Page/鄭融.md "wikilink")
-10. 《相愛六年》 ──[Twins](../Page/Twins.md "wikilink")
+10. 《相愛六年》 ──[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
 11. 《花落誰家》 ──[李克勤](../Page/李克勤.md "wikilink")
-12. 《酷愛》 ──[張敬軒](../Page/張敬軒.md "wikilink")
+12. 《酷愛》 ──[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
 13. 《鍾無艷》 ──[謝安琪](../Page/謝安琪.md "wikilink")
 14. 《送我一個家》 ──[泳兒](../Page/泳兒.md "wikilink")
 15. 《哪吒回家》 ──[黃家強](../Page/黃家強.md "wikilink")
-16. 《木紋》 ──[何韻詩](../Page/何韻詩.md "wikilink")
+16. 《木紋》 ──[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
 17. 《季節》 ──[黃貫中](../Page/黃貫中.md "wikilink")
-18. 《真心話》 ──[王菀之](../Page/王菀之.md "wikilink")
+18. 《真心話》 ──[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
 19. 《自愛》 ──[孫耀威](../Page/孫耀威.md "wikilink")
 20. 《一》 ──[劉德華](../Page/劉德華.md "wikilink")
 
@@ -34,7 +34,7 @@
   - 《山歌》
     ──[側田](../Page/側田.md "wikilink")、[吳雨霏](../Page/吳雨霏.md "wikilink")
   - 《四人遊》
-    ──[方大同](../Page/方大同.md "wikilink")、[薛凱琪](../Page/薛凱琪.md "wikilink")
+    ──[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 《歲月風雲》
     ──[李克勤](../Page/李克勤.md "wikilink")、[小　剛](../Page/周傳雄.md "wikilink")
 
@@ -43,7 +43,8 @@
   - 《電光火石》 ──Eddie@
     [EO2](../Page/EO2.md "wikilink")、[鄧穎芝](../Page/鄧穎芝.md "wikilink")
   - 《趁墟》 ──[胡琳](../Page/胡琳.md "wikilink")
-  - 《步步進逼》 ──[Sun Boy'z](../Page/Sun_Boy'z.md "wikilink")
+  - 《步步進逼》 ──[Sun
+    Boy'z](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")
 
 ### RoadShow至尊舞台星光演繹
 
@@ -54,7 +55,7 @@
 ### RoadShow至尊手機鈴聲
 
   - 《逼得太緊》 ──[吳雨霏](../Page/吳雨霏.md "wikilink")
-  - 《下次下次》 ──[薛凱琪](../Page/薛凱琪.md "wikilink")
+  - 《下次下次》 ──[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - 《電燈膽》 ──[鄧麗欣](../Page/鄧麗欣.md "wikilink")
 
 ## 新人獎項
@@ -62,14 +63,14 @@
 ### RoadShow至尊潛力新人（排名不分先後）
 
   - [梁雨恩](../Page/梁雨恩.md "wikilink")
-  - [Oscar](../Page/Oscar.md "wikilink")
+  - [Oscar](https://zh.wikipedia.org/wiki/Oscar "wikilink")
   - [王友良](../Page/王友良.md "wikilink")
-  - [萱寧](../Page/萱寧.md "wikilink")
+  - [萱寧](https://zh.wikipedia.org/wiki/萱寧 "wikilink")
 
 ### RoadShow至尊卓越新人（排名不分先後）
 
   - [小肥](../Page/小肥.md "wikilink")
-  - [林峯](../Page/林峯.md "wikilink")
+  - [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - [李卓庭](../Page/李卓庭.md "wikilink")
 
 ### RoadShow至尊男新人（排名不分先後）
@@ -80,7 +81,7 @@
 
 ### RoadShow至尊女新人（排名不分先後）
 
-  - [江若琳](../Page/江若琳.md "wikilink")
+  - [江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")
   - [鍾舒漫](../Page/鍾舒漫.md "wikilink")
   - [裕美](../Page/裕美.md "wikilink")
 
@@ -88,27 +89,27 @@
 
 ### RoadShow至尊新進創作歌手（排名不分先後）
 
-  - [農夫](../Page/農夫_\(樂隊\).md "wikilink")
+  - [農夫](https://zh.wikipedia.org/wiki/農夫_\(樂隊\) "wikilink")
   - [張繼聰](../Page/張繼聰.md "wikilink")
   - [鄧麗欣](../Page/鄧麗欣.md "wikilink")
 
 ### RoadShow至尊創作歌手（排名不分先後）
 
-  - [何韻詩](../Page/何韻詩.md "wikilink")
+  - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
   - [黃貫中](../Page/黃貫中.md "wikilink")
   - [黃家強](../Page/黃家強.md "wikilink")
 
 ### RoadShow至尊人氣歌手（排名不分先後）
 
   - [泳兒](../Page/泳兒.md "wikilink")
-  - [張敬軒](../Page/張敬軒.md "wikilink")
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - [謝安琪](../Page/謝安琪.md "wikilink")
 
 ### RoadShow至尊飛躍歌手（排名不分先後）
 
   - [孫耀威](../Page/孫耀威.md "wikilink")
-  - [農夫](../Page/農夫_\(樂隊\).md "wikilink")
-  - [王菀之](../Page/王菀之.md "wikilink")
+  - [農夫](https://zh.wikipedia.org/wiki/農夫_\(樂隊\) "wikilink")
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
 
 ## 至尊華語獎項
 
@@ -122,11 +123,11 @@
 
 ### RoadShow至尊華語女歌手
 
-  - [容祖兒](../Page/容祖兒.md "wikilink")
+  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
 
 ### RoadShow至尊華語金曲
 
-  - 《小小》 ──[容祖兒](../Page/容祖兒.md "wikilink")
+  - 《小小》 ──[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
 
 ## RoadShow至尊男歌手
 
@@ -136,13 +137,13 @@
 
 ## RoadShow至尊女歌手
 
-  - [楊千華](../Page/楊千華.md "wikilink")
-  - [何韻詩](../Page/何韻詩.md "wikilink")
-  - [容祖兒](../Page/容祖兒.md "wikilink")
+  - [楊千華](https://zh.wikipedia.org/wiki/楊千華 "wikilink")
+  - [何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")
+  - [容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
 
 ## RoadShow至尊組合樂隊
 
-  - [Twins](../Page/Twins.md "wikilink")
+  - [Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - [EO2](../Page/EO2.md "wikilink")
   - [Zarahn](../Page/Zarahn.md "wikilink")
 
@@ -160,7 +161,7 @@
 
 ## 媒體播放
 
-由RoadShow[路訊通將於其節目內播出精華片段](../Page/路訊通.md "wikilink")。[無線電視翡翠台於](../Page/無線電視翡翠台.md "wikilink")2008年播出精裝版。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
+由RoadShow[路訊通將於其節目內播出精華片段](../Page/路訊通.md "wikilink")。[無線電視翡翠台於](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")2008年播出精裝版。另外，本年度之賽果並不計算入[四台聯頒音樂大獎內](../Page/四台聯頒音樂大獎.md "wikilink")。
 
 ## 參見
 

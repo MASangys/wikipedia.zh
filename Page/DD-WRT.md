@@ -1,21 +1,21 @@
-**DD-WRT**是一个基于[Linux的无线路由](../Page/Linux.md "wikilink")[固件](../Page/固件.md "wikilink")，以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）V2授權发布。
+**DD-WRT**是一个基于[Linux的无线路由](../Page/Linux.md "wikilink")[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")，以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）V2授權发布。
 
 DD-WRT提供了许多一般[路由器固件所没有的功能](../Page/路由器.md "wikilink")，例如支持[XLink
-Kai游戏协议](../Page/XLink_Kai.md "wikilink")、基于[守护进程的服务](../Page/守护进程.md "wikilink")、[IPv6](../Page/IPv6.md "wikilink")、[无线分布式系统](../Page/无线分布式系统.md "wikilink")（无线网桥和无线中继）、[RADIUS](../Page/RADIUS.md "wikilink")、先进[服务质量控制](../Page/QoS.md "wikilink")、无线输出[功率控制](../Page/功率.md "wikilink")、[超频能力](../Page/超频.md "wikilink")，以及[SD卡的硬件配置提供软件支持](../Page/SD卡.md "wikilink")。
+Kai游戏协议](https://zh.wikipedia.org/wiki/XLink_Kai "wikilink")、基于[守护进程的服务](../Page/守护进程.md "wikilink")、[IPv6](../Page/IPv6.md "wikilink")、[无线分布式系统](https://zh.wikipedia.org/wiki/无线分布式系统 "wikilink")（无线网桥和无线中继）、[RADIUS](https://zh.wikipedia.org/wiki/RADIUS "wikilink")、先进[服务质量控制](https://zh.wikipedia.org/wiki/QoS "wikilink")、无线输出[功率控制](../Page/功率.md "wikilink")、[超频能力](https://zh.wikipedia.org/wiki/超频 "wikilink")，以及[SD卡的硬件配置提供软件支持](../Page/SD卡.md "wikilink")。
 
 DD-WRT固件由BrainSlayer维护，放在dd-wrt.com。从第一个版本直至V22版本都是基于Sveasoft
 Inc公司的Alchemy开发出来，而Alchemy又是基于以GPL發放之[Linksys固件及许多其它开放源程序](../Page/Linksys.md "wikilink")。由于后来人们需要向Sveasoft支付$20才能下载Alchemy固件，于是从V23开始的DD-WRT几乎完全重写，linux核心部分基于[OpenWrt核心](../Page/OpenWrt.md "wikilink")。
 
-借助[Buffalo合作伙伴关系](../Page/Buffalo.md "wikilink")，Buffalo将开始出售预装自定义版本DD-WRT的无线路由器。
+借助[Buffalo合作伙伴关系](https://zh.wikipedia.org/wiki/Buffalo "wikilink")，Buffalo将开始出售预装自定义版本DD-WRT的无线路由器。
 
 ## 起源
 
 DD-WRT的系统源代码起源于[Linksys
-WRT54G的系统](../Page/Linksys_WRT54G.md "wikilink")，由于在2002年有人发现Linksys
-WRT54G的系统是基于[Linux开发](../Page/Linux.md "wikilink")，而Linux又是使用[GPL授权](../Page/GPL.md "wikilink")，所以要求[Linksys依照GPL授权要求公开Linksys](../Page/Linksys.md "wikilink")
-WRT54G的系统源代码，最终在2003年3月[思科迫于压力按照授权释放系统源代码](../Page/思科.md "wikilink")，然后该套代码被适用于基于Linksys
+WRT54G的系统](https://zh.wikipedia.org/wiki/Linksys_WRT54G "wikilink")，由于在2002年有人发现Linksys
+WRT54G的系统是基于[Linux开发](../Page/Linux.md "wikilink")，而Linux又是使用[GPL授权](https://zh.wikipedia.org/wiki/GPL "wikilink")，所以要求[Linksys依照GPL授权要求公开Linksys](../Page/Linksys.md "wikilink")
+WRT54G的系统源代码，最终在2003年3月[思科迫于压力按照授权释放系统源代码](https://zh.wikipedia.org/wiki/思科 "wikilink")，然后该套代码被适用于基于Linksys
 WRT54G/GS/GL
-或其他基于[Broadcom参考设计的](../Page/Broadcom.md "wikilink")802.11g无线路由器，其中一个分支为[OpenWrt](../Page/OpenWrt.md "wikilink")，而OpenWrt又衍生出DD-WRT。
+或其他基于[Broadcom参考设计的](https://zh.wikipedia.org/wiki/Broadcom "wikilink")802.11g无线路由器，其中一个分支为[OpenWrt](../Page/OpenWrt.md "wikilink")，而OpenWrt又衍生出DD-WRT。
 
 ## 发布历史
 
@@ -28,79 +28,82 @@ WRT54G/GS/GL
 '''于2006年9月14日发布。界面经过了重新编写，并加入一些新特性。支持一些额外路由型号，同时更多列入计划。
 
 **DD-WRT
-v24**於2008年5月18日發布。允許使用多達16個不同[SSID和加密協定的虛擬界面](../Page/SSID.md "wikilink")。並支援一些基於[PowerPC](../Page/PowerPC.md "wikilink")、[IXP425路由基板和](../Page/XScale.md "wikilink")[Atheros](../Page/Atheros.md "wikilink")
-WiSOC和[X86系統的路由](../Page/X86.md "wikilink")。並且對擁有較小容量[快閃記憶體的機型](../Page/快閃記憶體.md "wikilink")（例如：WRT54Gv8或WRT54GSv7）提供有限度的支援。
+v24**於2008年5月18日發布。允許使用多達16個不同[SSID和加密協定的虛擬界面](https://zh.wikipedia.org/wiki/SSID "wikilink")。並支援一些基於[PowerPC](../Page/PowerPC.md "wikilink")、[IXP425路由基板和](../Page/XScale.md "wikilink")[Atheros](https://zh.wikipedia.org/wiki/Atheros "wikilink")
+WiSOC和[X86系統的路由](../Page/X86.md "wikilink")。並且對擁有較小容量[快閃記憶體的機型](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")（例如：WRT54Gv8或WRT54GSv7）提供有限度的支援。
 
 **DD-WRT v24 Service Pack
-1（SP1）**於2008年7月26日發布。修正了[DNSMasq內緊要的](../Page/DNSMasq.md "wikilink")[DNS安全性問題](../Page/DNS.md "wikilink")，基地台選址的安全性問題。支援更長字元的密碼，更有彈性的[OpenVPN設定](../Page/OpenVPN.md "wikilink")。新機型支援，包括：WRT300
+1（SP1）**於2008年7月26日發布。修正了[DNSMasq內緊要的](https://zh.wikipedia.org/wiki/DNSMasq "wikilink")[DNS安全性問題](https://zh.wikipedia.org/wiki/DNS "wikilink")，基地台選址的安全性問題。支援更長字元的密碼，更有彈性的[OpenVPN設定](../Page/OpenVPN.md "wikilink")。新機型支援，包括：WRT300
 v1.1、WRT310N、WRT600N、DIR-300、DIR-600、1043ND, Tonze AP42X Pronghorn
 SBC、Ubiquiti
-LSX以及[Netgear](../Page/Netgear.md "wikilink")、[Belkin](../Page/Belkin.md "wikilink")、[Asus和](../Page/Asus.md "wikilink")[USR機型](../Page/USR.md "wikilink")。
+LSX以及[Netgear](https://zh.wikipedia.org/wiki/Netgear "wikilink")、[Belkin](https://zh.wikipedia.org/wiki/Belkin "wikilink")、[Asus和](https://zh.wikipedia.org/wiki/Asus "wikilink")[USR機型](https://zh.wikipedia.org/wiki/USR "wikilink")。
 
 ## 支持特性
 
 标准版的DD-WRT包含以下这些特性。而在Micro或者Mini的版本中将会缺少某些特定的功能以减小文件体积。
 
   - 13种语言
-  - [802.1x](../Page/802.1x.md "wikilink")（[EAP](../Page/扩展认证协议.md "wikilink")-局域网扩展认证协议封装）
+  - [802.1x](https://zh.wikipedia.org/wiki/802.1x "wikilink")（[EAP](../Page/扩展认证协议.md "wikilink")-局域网扩展认证协议封装）
   - 接入限制
-  - [Adhoc模式](../Page/Adhoc.md "wikilink")
+  - [Adhoc模式](https://zh.wikipedia.org/wiki/Adhoc "wikilink")
   - Afterburner
   - 客户端隔离模式
   - 客户端模式（支持多种客户端连接）
   - 客户[WPA模式](../Page/WPA.md "wikilink")
-  - [DHCP转接](../Page/DHCP.md "wikilink")
-    ([udhcp](../Page/udhcp.md "wikilink")）
+  - [DHCP转接](https://zh.wikipedia.org/wiki/DHCP "wikilink")
+    ([udhcp](https://zh.wikipedia.org/wiki/udhcp "wikilink")）
   - DHCP服务器（udhcp或Dnsmasq）
-  - [DNS](../Page/DNS.md "wikilink") forwarder（Dnsmasq）
+  - [DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")
+    forwarder（Dnsmasq）
   - [DMZ](../Page/DMZ.md "wikilink")
   - 动态DNS（DynDNS、TZO、ZoneEdit）
   - Hotspot Portal（Sputnik Agent、Chillispot）
-  - [IPV6支持](../Page/IPV6.md "wikilink")
+  - [IPV6支持](https://zh.wikipedia.org/wiki/IPV6 "wikilink")
   - JFFS2
-  - [MMC](../Page/MMC.md "wikilink")/[SD卡支持](../Page/SD卡.md "wikilink")（要修改硬件）
-  - 客户服务器模式[NTP客户端](../Page/NTP.md "wikilink")
-  - [Ntop远程统计](../Page/Ntop.md "wikilink")
-  - OpenVPN客户及服务端（仅限于[VPN固件](../Page/VPN.md "wikilink")）
+  - [MMC](https://zh.wikipedia.org/wiki/MMC "wikilink")/[SD卡支持](../Page/SD卡.md "wikilink")（要修改硬件）
+  - 客户服务器模式[NTP客户端](https://zh.wikipedia.org/wiki/NTP "wikilink")
+  - [Ntop远程统计](https://zh.wikipedia.org/wiki/Ntop "wikilink")
+  - OpenVPN客户及服务端（仅限于[VPN固件](https://zh.wikipedia.org/wiki/VPN "wikilink")）
   - 端口触发
   - 端口转发（最大为.30）
-  - [PPTP](../Page/PPTP.md "wikilink") VPN客户及服务端
+  - [PPTP](https://zh.wikipedia.org/wiki/PPTP "wikilink") VPN客户及服务端
   - QoS [带宽设置](../Page/带宽.md "wikilink")（游戏、服务／网络掩码／MAC／以太网端口优先级优化）
   - QoS第七層過濾器 (l7-filter）
   - RFlow/MACupd
   - 路由：Static entries and
-    Gateway、[BGP](../Page/BGP.md "wikilink")、[OSPF](../Page/OSPF.md "wikilink")
-    & [RIP](../Page/RIP.md "wikilink")2 via（BIRD）
+    Gateway、[BGP](https://zh.wikipedia.org/wiki/BGP "wikilink")、[OSPF](https://zh.wikipedia.org/wiki/OSPF "wikilink")
+    & [RIP](https://zh.wikipedia.org/wiki/RIP "wikilink")2 via（BIRD）
   - [Samba檔案系統自動掛載](../Page/Samba.md "wikilink")
   - 远程服务器保存系统日志
   - Rx/Tx天线（可选或自动）
-  - 显示无线客户端和[WDS系统的状态](../Page/WDS.md "wikilink")
+  - 显示无线客户端和[WDS系统的状态](https://zh.wikipedia.org/wiki/WDS "wikilink")
   - Site Survey
-  - [SNMP](../Page/SNMP.md "wikilink")
+  - [SNMP](https://zh.wikipedia.org/wiki/SNMP "wikilink")
   - [SSH服务器及客户端](../Page/Secure_Shell.md "wikilink") （dropbear）
   - 支持启动脚本、防火墙脚本和关闭脚本（startup script）
   - 静态DHCP配置
-  - Style（可變[圖形用戶介面](../Page/圖形使用者介面.md "wikilink"); v.23）
+  - Style（可變[圖形用戶介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink");
+    v.23）
   - 支持新设备（WRT54G V3、V3.1、V4、V5及WRT54GS V2.1、V3、V4）
   - Telnet服务器客户端
   - 發射功率調節（0-251 mW、預設28 mW、100 mW為安全）
   - [UPnP](../Page/UPnP.md "wikilink")
-  - [VLAN](../Page/VLAN.md "wikilink")
-  - 网络唤醒 ([WOL](../Page/WOL.md "wikilink")）
+  - [VLAN](https://zh.wikipedia.org/wiki/VLAN "wikilink")
+  - 网络唤醒 ([WOL](https://zh.wikipedia.org/wiki/WOL "wikilink")）
   - WDS Connection Watchdog
-  - WDS [中繼器模式](../Page/中繼器.md "wikilink")
+  - WDS [中繼器模式](https://zh.wikipedia.org/wiki/中繼器 "wikilink")
   - 无线MAC地址克隆
   - 无线MAC地址过滤
-  - [WMM](../Page/WMM.md "wikilink")（Wi-Fi MultiMedia QoS）
+  - [WMM](https://zh.wikipedia.org/wiki/WMM "wikilink")（Wi-Fi MultiMedia
+    QoS）
   - WPA over WDS
   - WPA/TKIP with AES
-  - [WPA2](../Page/WPA2.md "wikilink")
+  - [WPA2](https://zh.wikipedia.org/wiki/WPA2 "wikilink")
   - Xbox Kaid（Kai Engine）
 
 ## 参见
 
-  - [客制路由器韌體清單](../Page/客制路由器韌體清單.md "wikilink")
-  - [Tomato](../Page/Tomato.md "wikilink")
+  - [客制路由器韌體清單](https://zh.wikipedia.org/wiki/客制路由器韌體清單 "wikilink")
+  - [Tomato](https://zh.wikipedia.org/wiki/Tomato "wikilink")
   - [OpenWrt](../Page/OpenWrt.md "wikilink")
 
 ## 外部連結

@@ -1,4 +1,4 @@
-**Netlabel**或称**网络唱片厂牌**，是指以在[互联网上传播和散布以](../Page/互联网.md "wikilink")[MP3及](../Page/MP3.md "wikilink")[Ogg格式为载体的艺术家音乐性质的小型](../Page/Ogg.md "wikilink")[唱片厂牌](../Page/唱片.md "wikilink")。与传统[唱片公司不同的是](../Page/唱片公司.md "wikilink")，Netlabel的音乐一般都以完全免费的性质传播，并大都基于一个通用的公共授权。（比如Creative
+**Netlabel**或称**网络唱片厂牌**，是指以在[互联网上传播和散布以](../Page/互联网.md "wikilink")[MP3及](../Page/MP3.md "wikilink")[Ogg格式为载体的艺术家音乐性质的小型](../Page/Ogg.md "wikilink")[唱片厂牌](https://zh.wikipedia.org/wiki/唱片 "wikilink")。与传统[唱片公司不同的是](../Page/唱片公司.md "wikilink")，Netlabel的音乐一般都以完全免费的性质传播，并大都基于一个通用的公共授权。（比如Creative
 Commons licenses,
 中文译名为“[创作共用](../Page/创作共用.md "wikilink")”）。一般情况下，艺术家掌有自己音乐作品的版权。大多数的传播行为都采用游击营销的方式传播，少数Netlabel会有额外的资金供给于加盟的艺术家。
 

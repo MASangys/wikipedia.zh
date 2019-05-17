@@ -1,6 +1,6 @@
-**FreeRice.com**是一個以[英文猜字](../Page/英文.md "wikilink")[遊戲來募款以幫助改善全球](../Page/遊戲.md "wikilink")[饑荒的慈善網站](../Page/饑荒.md "wikilink")。網民每猜中一個生字的意思，該網站就會捐出10粒[稻米給](../Page/稻米.md "wikilink")[聯合國的](../Page/聯合國.md "wikilink")[世界糧食計劃署](../Page/世界糧食計劃署.md "wikilink")（World
+**FreeRice.com**是一個以[英文猜字](https://zh.wikipedia.org/wiki/英文 "wikilink")[遊戲來募款以幫助改善全球](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[饑荒的慈善網站](../Page/饑荒.md "wikilink")。網民每猜中一個生字的意思，該網站就會捐出10粒[稻米給](https://zh.wikipedia.org/wiki/稻米 "wikilink")[聯合國的](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[世界糧食計劃署](../Page/世界糧食計劃署.md "wikilink")（World
 Food
-Programme）。網站依賴多個廣告商支付捐款及營運成本，如[蘋果公司](../Page/蘋果公司.md "wikilink")、[東芝](../Page/東芝.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[讀者文摘](../Page/讀者文摘.md "wikilink")、[美國運通等等](../Page/美國運通.md "wikilink")。
+Programme）。網站依賴多個廣告商支付捐款及營運成本，如[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[讀者文摘](https://zh.wikipedia.org/wiki/讀者文摘 "wikilink")、[美國運通等等](../Page/美國運通.md "wikilink")。
 
 ## 沿革
 
@@ -52,8 +52,8 @@ your browser and try again.”的提示。
   - [22 Google News
     results](http://news.google.com/news?hl=en&ned=us&q=freerice&ie=UTF-8&sa=N&start=20)
   - [Web game provides rice for hungry -
-    [BBC](../Page/BBC.md "wikilink") 10 November 2007, 10:29
-    GMT](http://news.bbc.co.uk/2/hi/europe/7088447.stm)
+    [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink") 10 November
+    2007, 10:29 GMT](http://news.bbc.co.uk/2/hi/europe/7088447.stm)
   - [FreeRice - Mahalo](http://www.mahalo.com/Free_Rice)
   - [FreeRice Digg Story - Over 2,800
     Diggs](https://web.archive.org/web/20071110014543/http://digg.com/offbeat_news/Give_FREE_Rice_to_the_Hungry)
@@ -67,7 +67,7 @@ your browser and try again.”的提示。
     hungry](http://seattletimes.nwsource.com/html/living/2003990968_freerice05.html)
 
 2.  [Web game provides rice for hungry -
-    [BBC](../Page/BBC.md "wikilink") 10 November 2007, 10:29
-    GMT](http://news.bbc.co.uk/2/hi/europe/7088447.stm)
+    [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink") 10 November
+    2007, 10:29 GMT](http://news.bbc.co.uk/2/hi/europe/7088447.stm)
 3.  [How-to blog posting of FreeRice Bot script + word database
     dump](http://altblog.searix.net/index.php/2007/11/10/how_to_give_more_free_rice_ii)

@@ -1,8 +1,8 @@
 [Miyavi_at_Irving_Plaza_on_October_31,_2011(cropped).jpg](https://zh.wikipedia.org/wiki/File:Miyavi_at_Irving_Plaza_on_October_31,_2011\(cropped\).jpg "fig:Miyavi_at_Irving_Plaza_on_October_31,_2011(cropped).jpg")
 **雅-MIYAVI-**（），本名**石原貴雅**實際姓名為“石原崇雅”（Takamasa
-Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9月14日出生於[日本](../Page/日本.md "wikilink")[兵庫縣](../Page/兵庫縣.md "wikilink")。日本[搖滾](../Page/搖滾.md "wikilink")[歌手](../Page/歌手.md "wikilink")。其妻為[石川美雪](../Page/石川美雪.md "wikilink")。
+Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9月14日出生於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[歌手](../Page/歌手.md "wikilink")。其妻為[石川美雪](https://zh.wikipedia.org/wiki/石川美雪 "wikilink")。
 
-日本被喻為吉他武士。全身大部份都有[紋身](../Page/紋身.md "wikilink")，背部的紋身是[般若波羅蜜多心經](../Page/般若波羅蜜多心經.md "wikilink")。
+日本被喻為吉他武士。全身大部份都有[紋身](https://zh.wikipedia.org/wiki/紋身 "wikilink")，背部的紋身是[般若波羅蜜多心經](../Page/般若波羅蜜多心經.md "wikilink")。
 
 全方位藝人本身是吉他手 、在時尚 、影視…等有多像才能。 是音樂家、時裝模特、演員…等各方面有多方涉獵。
 
@@ -10,40 +10,41 @@ Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9�
 
 ## 經歷
 
-  - 1999年(17歲)獨自來到東京，以[吉他手身份加入](../Page/吉他手.md "wikilink")[視覺系搖滾團體](../Page/視覺系搖滾團體.md "wikilink")[Due'le
-    quartz](../Page/Due'le_quartz.md "wikilink")(當時名稱為ミヤビ(miyabi))、加入PS
+  - 1999年(17歲)獨自來到東京，以[吉他手身份加入](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[視覺系搖滾團體](https://zh.wikipedia.org/wiki/視覺系搖滾團體 "wikilink")[Due'le
+    quartz](https://zh.wikipedia.org/wiki/Due'le_quartz "wikilink")(當時名稱為ミヤビ(miyabi))、加入PS
     COMPANY。\*其間親自作詞、作曲，當累積作曲經驗的同時，也以[Due'le
-    quartz吉他手的身分展開了表演活動](../Page/Due'le_quartz.md "wikilink")。
+    quartz吉他手的身分展開了表演活動](https://zh.wikipedia.org/wiki/Due'le_quartz "wikilink")。
   - 2002年9月22日，[Due'le
-    quartz於](../Page/Due'le_quartz.md "wikilink")[澀谷AX宣布解散](../Page/澀谷.md "wikilink")。
+    quartz於](https://zh.wikipedia.org/wiki/Due'le_quartz "wikilink")[澀谷AX宣布解散](../Page/澀谷.md "wikilink")。
   - 2002年9月23日，以藝名「雅-miyavi-」正式展開單飛活動。
-  - 2004年與[環球唱片公司簽約出道成為主流歌手](../Page/環球唱片公司.md "wikilink")。
-  - 2007年加入由[YOSHIKI](../Page/YOSHIKI.md "wikilink")([X
-    JAPAN](../Page/X_JAPAN.md "wikilink"))、[Gackt](../Page/Gackt.md "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")([LUNA
-    SEA](../Page/LUNA_SEA.md "wikilink"))组成的S.K.I.N樂團。
+  - 2004年與[環球唱片公司簽約出道成為主流歌手](https://zh.wikipedia.org/wiki/環球唱片公司 "wikilink")。
+  - 2007年加入由[YOSHIKI](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")([X
+    JAPAN](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink"))、[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")、[SUGIZO](../Page/SUGIZO.md "wikilink")([LUNA
+    SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink"))组成的S.K.I.N樂團。
   - 2007年6月，推行NEO VISUALIZM，並邀請多位傑出藝人(Beat
     Boxer、Bass、Drums、Turntable、Tap、Painter)組成歌舞伎男子z。
 
 <!-- end list -->
 
   - 2009年3月26日，日本《Sponichi
-    Annex》報導與日本女歌手[melody.成婚](../Page/melody..md "wikilink")，本人尚未公開證實。
-  - 2009年4月5日，於[日比谷野外大音樂堂的LIVE演出](../Page/日比谷野外大音樂堂.md "wikilink")，宣告加入[PS
-    COMPANY十年畢業](../Page/PS_COMPANY.md "wikilink")、與melody.結婚。
-  - 2009年4月8日，成立公司[株式會社J-glam](../Page/株式會社J-glam.md "wikilink")([J-glam
-    Inc.](../Page/J-glam_Inc..md "wikilink"))。
-  - 2009年4月9日，於[MySpace公開成立公司與結婚事實](../Page/MySpace.md "wikilink")，並宣布孩子將於夏天出生。
+    Annex》報導與日本女歌手[melody.成婚](https://zh.wikipedia.org/wiki/melody. "wikilink")，本人尚未公開證實。
+  - 2009年4月5日，於[日比谷野外大音樂堂的LIVE演出](https://zh.wikipedia.org/wiki/日比谷野外大音樂堂 "wikilink")，宣告加入[PS
+    COMPANY十年畢業](https://zh.wikipedia.org/wiki/PS_COMPANY "wikilink")、與melody.結婚。
+  - 2009年4月8日，成立公司[株式會社J-glam](https://zh.wikipedia.org/wiki/株式會社J-glam "wikilink")([J-glam
+    Inc.](https://zh.wikipedia.org/wiki/J-glam_Inc. "wikilink"))。
+  - 2009年4月9日，於[MySpace公開成立公司與結婚事實](https://zh.wikipedia.org/wiki/MySpace "wikilink")，並宣布孩子將於夏天出生。
   - 2009年7月29日，長女出生，命名為「石原愛理(Lovelie)」（漢字含義The Reason of Love）。
   - 2010年，唱片公司移籍至[EMI](../Page/EMI.md "wikilink") Music
     Japan，並將藝名由「雅-miyavi-」改為「**雅-MIYAVI-**」作為進軍全球的新開始。
   - 2010年10月21日，melody.產下次女，命名為「石原希理(Jewelie)」（漢字含義The Reason of Hope）。
   - 2012年3月3日，於歐美發行世界出道同名專輯「MIYAVI」。
   - 2013年，受邀參與安潔莉娜裘莉執導的電影《[-{zh-tw:永不屈服; zh-hk:非凡生命歷;
-    zh-cn:坚不可摧;}-](../Page/坚不可摧.md "wikilink")》，飾演日本士官[渡邊睦裕](../Page/渡邊睦裕.md "wikilink")。
-  - 2014年，參與了日本[偶像團體](../Page/偶像.md "wikilink")-[SMAP的單曲](../Page/SMAP.md "wikilink")[Top
-    Of The World的製作](../Page/Top_Of_The_World.md "wikilink")。
+    zh-cn:坚不可摧;}-](../Page/坚不可摧.md "wikilink")》，飾演日本士官[渡邊睦裕](https://zh.wikipedia.org/wiki/渡邊睦裕 "wikilink")。
+  - 2014年，參與了日本[偶像團體](https://zh.wikipedia.org/wiki/偶像 "wikilink")-[SMAP的單曲](../Page/SMAP.md "wikilink")[Top
+    Of The
+    World的製作](https://zh.wikipedia.org/wiki/Top_Of_The_World "wikilink")。
   - 2014年12月31日，為[SMAP演奏](../Page/SMAP.md "wikilink")「Top Of The
-    World」而登上了日本[NHK電視台](../Page/NHK.md "wikilink")[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")。
+    World」而登上了日本[NHK電視台](https://zh.wikipedia.org/wiki/NHK "wikilink")[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")。
   - 2015年4月15日，發行睽違兩年專輯『The Others』。
   - 2016年8月31日，發行睽違專輯『Fire Bird』。
 
@@ -122,7 +123,7 @@ Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9�
   - 2014年《[-{zh-tw:永不屈服; zh-hk:非凡生命歷;
     zh-cn:坚不可摧;}-](../Page/坚不可摧.md "wikilink")》飾演：渡邊睦裕
   - 2017年《[金剛：骷髏島](../Page/金剛：骷髏島.md "wikilink")》客串：井狩軍平
-  - 2018年《[BLEACH：死神](../Page/BLEACH：死神.md "wikilink")》飾演：朽木白哉
+  - 2018年《[BLEACH：死神](https://zh.wikipedia.org/wiki/BLEACH：死神 "wikilink")》飾演：朽木白哉
 
 ## 使用吉他
 

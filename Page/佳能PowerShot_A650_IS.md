@@ -2,7 +2,7 @@
 IS**是一款[佳能](../Page/佳能.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2007年8月推出](../Page/2007年8月.md "wikilink")。
 
 A650 IS继承了[Canon PowerShot
-A640的优点](../Page/Canon_PowerShot_A640.md "wikilink")，并且加入了在消费级市场日益受到关注的影像稳定器（IS）。A650
+A640的优点](https://zh.wikipedia.org/wiki/Canon_PowerShot_A640 "wikilink")，并且加入了在消费级市场日益受到关注的影像稳定器（IS）。A650
 IS作为PowerShot A系列拥有最大面积CCD的PowerShot A
 6x0系列相机的最新机种，也成为了佳能在消费类数码相机市场的事实旗舰机种。
 
@@ -11,16 +11,16 @@ IS消失在市面上。
 
 ## 主要参数
 
-  - 1210万 有效[象素](../Page/象素.md "wikilink")
-  - 6倍光学[变焦](../Page/变焦.md "wikilink")
-  - 1/1.7 英寸 [CCD](../Page/CCD.md "wikilink")
+  - 1210万 有效[象素](https://zh.wikipedia.org/wiki/象素 "wikilink")
+  - 6倍光学[变焦](https://zh.wikipedia.org/wiki/变焦 "wikilink")
+  - 1/1.7 英寸 [CCD](https://zh.wikipedia.org/wiki/CCD "wikilink")
   - 2.5寸可旋转液晶屏，分辨率17.3万象素
   - 快门：15～1/2000秒
-  - [ISO](../Page/ISO.md "wikilink")：80/100/200/400/800/1600
+  - [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")：80/100/200/400/800/1600
   - 9点智能AiAF对焦／面部优先／中央单点
   - 有声短片记录（[Motion JPEG编码与单声道音频](../Page/Motion_JPEG.md "wikilink")）
-  - 使用[SDHC卡](../Page/SDHC卡.md "wikilink")／[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](../Page/MMC卡.md "wikilink")
-  - 使用[DIGIC III数字处理芯片](../Page/DIGIC.md "wikilink")
+  - 使用[SDHC卡](https://zh.wikipedia.org/wiki/SDHC卡 "wikilink")／[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")
+  - 使用[DIGIC III数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")
   - 使用4节AA电池
   - [Exif 2.2](../Page/EXIF.md "wikilink")
   - 不带电池约300克
@@ -34,13 +34,14 @@ PowerShot A650 IS**都不见了。A650 IS也许就此黯淡退出市场。
 
 ## 参见
 
-  - [Canon PowerShot](../Page/Canon_PowerShot.md "wikilink")
+  - [Canon
+    PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")
   - [Canon PowerShot A710
-    IS](../Page/Canon_PowerShot_A710_IS.md "wikilink")
+    IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_A710_IS "wikilink")
   - [Canon PowerShot A570
-    IS](../Page/Canon_PowerShot_A570_IS.md "wikilink")
+    IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_A570_IS "wikilink")
   - [Canon PowerShot A720
-    IS](../Page/Canon_PowerShot_A720_IS.md "wikilink")
+    IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_A720_IS "wikilink")
 
 ## 外部链接
 
@@ -52,6 +53,6 @@ PowerShot A650 IS**都不见了。A650 IS也许就此黯淡退出市场。
   - [佳能A650相机问题 国内已经开始召回](http://www.17tech.com/news/36756.shtml)－17TECH
 
 [pl:Canon PowerShot A650
-IS](../Page/pl:Canon_PowerShot_A650_IS.md "wikilink")
+IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_A650_IS "wikilink")
 
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

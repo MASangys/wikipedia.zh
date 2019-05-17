@@ -1,6 +1,6 @@
 **中林
-芽依**（）是[名古屋出身的日本女](../Page/名古屋.md "wikilink")[歌手](../Page/歌手.md "wikilink")。血液O型。在2003年由[Horipro举办的第](../Page/Horipro.md "wikilink")28回新人选拔赛中，从3万5千人中脱出的歌手，在此次比赛活动中未获得正式的名次，但在之后和公司成功签约，并以本名发行过数张唱片。2008年1月宣布将艺名变更为**May'n**（）。将在电视动画[超时空要塞
-Frontier中](../Page/超时空要塞_Frontier.md "wikilink")，担任片中角色，银河歌姫雪露·诺姆的歌曲演唱工作。
+芽依**（）是[名古屋出身的日本女](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[歌手](../Page/歌手.md "wikilink")。血液O型。在2003年由[Horipro举办的第](../Page/Horipro.md "wikilink")28回新人选拔赛中，从3万5千人中脱出的歌手，在此次比赛活动中未获得正式的名次，但在之后和公司成功签约，并以本名发行过数张唱片。2008年1月宣布将艺名变更为**May'n**（）。将在电视动画[超时空要塞
+Frontier中](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")，担任片中角色，银河歌姫雪露·诺姆的歌曲演唱工作。
 
 ## 個人情報與轶事
 
@@ -11,11 +11,11 @@ Frontier中](../Page/超时空要塞_Frontier.md "wikilink")，担任片中角�
 
 2008年高中畢業後將藝名改為現在的May'n，意義為希望能成為音樂界的主力歌手(mainアーティスト)，唱出每個人心中的主題曲(mainテーマ)」\[1\]。
 
-家裡有個小她四歲的親妹妹\[2\]。跟芽依比起來妹妹性格沉穩許多。一家四口都對音樂很感興趣。本名「芽依」是出自吉卜力動畫[龍貓中的角色草壁梅](../Page/龍貓.md "wikilink")(草壁メイ)\[3\]。
+家裡有個小她四歲的親妹妹\[2\]。跟芽依比起來妹妹性格沉穩許多。一家四口都對音樂很感興趣。本名「芽依」是出自吉卜力動畫[龍貓中的角色草壁梅](https://zh.wikipedia.org/wiki/龍貓 "wikilink")(草壁メイ)\[3\]。
 
 暱稱為「部長」，歌迷則稱為「部員」。把各種各樣的活動稱為「部活」，例如演唱會叫「ラ部」(音近live)、吃東西叫デ部（でぶ）等等。
 
-很喜歡吃[鯛魚燒](../Page/鯛魚燒.md "wikilink")，自稱鯛魚燒親善大使。
+很喜歡吃[鯛魚燒](https://zh.wikipedia.org/wiki/鯛魚燒 "wikilink")，自稱鯛魚燒親善大使。
 
 喜歡搜集眼鏡，以及跟河馬有關的各式商品。
 
@@ -104,7 +104,7 @@ Fanclub）
 #### 中林芽依
 
 1.  **Crazy Crazy
-    Crazy**（2005年4月27日）[東海地区限定发售单曲](../Page/東海地区.md "wikilink")
+    Crazy**（2005年4月27日）[東海地区限定发售单曲](https://zh.wikipedia.org/wiki/東海地区 "wikilink")
     1.  Crazy Crazy Crazy
     2.  Not that Girl
     3.  Crazy Crazy Crazy(Instrumental)
@@ -119,7 +119,7 @@ Fanclub）
     3.  Papa Don't Preach
     4.  Sympathy (instrumental)
 4.  **Fallin' in or Not
-    feat.[SEAMO](../Page/SEAMO.md "wikilink")**（2006年9月27日
+    feat.[SEAMO](https://zh.wikipedia.org/wiki/SEAMO "wikilink")**（2006年9月27日
     商品番号：UPCI-5039）
     1.  Fallin' in or Not feat.SEAMO
     2.  Cry a little
@@ -130,7 +130,7 @@ Fanclub）
 
 1.  ****（2008年5月8日 商品番号：VTCL-35025）以雪露・诺姆 starring May'n的名义
     1.  （电视动画[超时空要塞
-        Frontier片尾曲](../Page/超时空要塞_Frontier.md "wikilink")（ED））
+        Frontier片尾曲](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")（ED））
 
     2.  射手座☆午後九時Don't be late（电视动画「超时空要塞 Frontier」插曲）
 
@@ -186,13 +186,13 @@ Fanclub）
     4.  光 (without May'n)
 9.  '''Run Real Run '''（2013年5月8日 商品番号：VTCL-35150）
     1.  Run Real Run（動畫「[リアル鬼ごっこ THE
-        ORIGIN](../Page/リアル鬼ごっこ_THE_ORIGIN.md "wikilink")」OP）
+        ORIGIN](https://zh.wikipedia.org/wiki/リアル鬼ごっこ_THE_ORIGIN "wikilink")」OP）
     2.  アウトサイダー
     3.  Run Real Run（without May'n）
     4.  アウトサイダー（without May'n）
 10. '''ViViD '''（2013年7月24日 商品番号：VTCL-35155）
     1.  ViViD（動畫「[BLOOD
-        LAD血意少年](../Page/BLOOD_LAD_血意少年.md "wikilink")」OP）
+        LAD血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")」OP）
     2.  ワイルドローズ
     3.  ViViD（without May'n）
     4.  ワイルドローズ（without May'n）
@@ -204,7 +204,7 @@ Fanclub）
     5.  Soliste〜ソリスト（without May'n）
     6.  Dear YES＞＜NO（without May'n）
 12. **Re:REMEMBER**（2014年6月18日 商品番號：VTCL-35184）
-    1.  Re:REMEMBER（動畫「[M3～其為黑鋼～](../Page/M3～其為黑鋼～.md "wikilink")」OP）
+    1.  Re:REMEMBER（動畫「[M3～其為黑鋼～](https://zh.wikipedia.org/wiki/M3～其為黑鋼～ "wikilink")」OP）
     2.  誰がために
     3.  カタツムリ
     4.  Re:REMEMBER（without May'n）
@@ -233,7 +233,7 @@ Fanclub）
 1.  **my teens,my tears** (2009年10月21日)
 2.  **Grand Piano** (2009年11月25日)
 3.  **愛は降る星のごとく (TV-Size)**
-    (動畫「[最強武將傳〜三國演義](../Page/三國演義_\(動畫\).md "wikilink")」ED)
+    (動畫「[最強武將傳〜三國演義](https://zh.wikipedia.org/wiki/三國演義_\(動畫\) "wikilink")」ED)
     (2010年5月12日)
 4.  **Chase the world (TV-Size)**（動畫「加速世界」OP） (2012年4月21日)
 5.  **アオゾラ** (動畫「BTOOOM！」ED) (2012年10月11日)
@@ -241,12 +241,14 @@ Fanclub）
 
 ## 演唱會
 
-  - [超時空要塞F](../Page/超時空要塞F.md "wikilink") 超時空Super Live
+  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") 超時空Super
+    Live
       - 2008年7月27日/[東京都](../Page/東京都.md "wikilink")・Zepp TOKYO (兩場)
       - 2008年8月6日/[大阪市](../Page/大阪市.md "wikilink")・なんばHatch
-  - [超時空要塞F](../Page/超時空要塞F.md "wikilink") Galaxy Tour—FINAL
-      - 2008年10月13日/[橫濱市](../Page/橫濱市.md "wikilink")・[Pacifico
-        Yokohama](../Page/Pacifico_Yokohama.md "wikilink")
+  - [超時空要塞F](https://zh.wikipedia.org/wiki/超時空要塞F "wikilink") Galaxy
+    Tour—FINAL
+      - 2008年10月13日/[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")・[Pacifico
+        Yokohama](https://zh.wikipedia.org/wiki/Pacifico_Yokohama "wikilink")
       - 2008年10月22日/[大阪市](../Page/大阪市.md "wikilink")・大阪厚生年金會館
       - 2008年11月5日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
   - May'n CONCERT TOUR 2009 "May'n Act"
@@ -254,32 +256,36 @@ Fanclub）
       - 2009年1月23日/[名古屋市](../Page/名古屋市.md "wikilink")・Bottom Line
       - 2009年1月28日・1月29日/[東京都](../Page/東京都.md "wikilink")・赤坂BLITZ
   - May'n SUMMER TOUR 2009 "LOVE\&JOY"
-      - [2009年](../Page/2009年.md "wikilink")7月26日/[福岡縣](../Page/福岡縣.md "wikilink")・Zepp
+      - [2009年](../Page/2009年.md "wikilink")7月26日/[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")・Zepp
         Fukuoka
       - 2009年7月31日/[仙台市](../Page/仙台市.md "wikilink")・Zepp Sendai
-      - 2009年8月2日/[札幌縣](../Page/札幌縣.md "wikilink")・Zepp Sapporo
+      - 2009年8月2日/[札幌縣](https://zh.wikipedia.org/wiki/札幌縣 "wikilink")・Zepp
+        Sapporo
       - 2009年8月7日/[大阪市](../Page/大阪市.md "wikilink")・Zepp Osaka
       - [2009年](../Page/2009年.md "wikilink")8月8日/[名古屋市](../Page/名古屋市.md "wikilink")・Zepp
         Nagoya
       - 2009年8月12日・8月13日/[東京都](../Page/東京都.md "wikilink")・Zepp Tokyo
   - [福山芳樹](../Page/福山芳樹.md "wikilink")＆May'n Concert IN 廣州
-      - 2009年12月13日/[中國](../Page/中國.md "wikilink")[廣州](../Page/廣州.md "wikilink")・蓓蕾劇院
+      - 2009年12月13日/[中國](../Page/中國.md "wikilink")[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")・蓓蕾劇院
   - May'n Special Concert 2010 at 日本武道館『BIG★WAAAAAVE\!\!』
-      - [2010年](../Page/2010年.md "wikilink")1月24日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
+      - [2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")1月24日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
   - May'n BIG★WAAAAAVE\!\! ASIA TOUR 2010
-      - 2010年3月7日/[馬來西亞](../Page/馬來西亞.md "wikilink")・KL Live 1st Floor
+      - 2010年3月7日/[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")・KL
+        Live 1st Floor
       - 2010年3月19日/[香港](../Page/香港.md "wikilink")・九龍灣國際貿易中心
-      - 2010年3月21日/[台灣](../Page/台灣.md "wikilink")・Legacy Taipei
+      - 2010年3月21日/[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")・Legacy
+        Taipei
   - Animelo Summer Live 2010 -evolution-
-      - 2010年8月29日/[琦玉縣](../Page/琦玉縣.md "wikilink")・Saitama Super Arena
+      - 2010年8月29日/[琦玉縣](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")・Saitama
+        Super Arena
       - 2010年11月14日/AFAX Singapore演唱會・Suntec Convention
   - May'n Special Concert 2011「RHYTHM TANK\!\!」at 日本武道館
       - [2011年](../Page/2011年.md "wikilink")3月6日/[東京都](../Page/東京都.md "wikilink")・[日本武道館](../Page/日本武道館.md "wikilink")
   - May'n UNITE\!\! ASIA TOUR 2011
-      - 2011年5月13日/[上海](../Page/上海.md "wikilink")・上海商城劇場
-      - 2011年5月15日/[中國](../Page/中國.md "wikilink")[廣州](../Page/廣州.md "wikilink")・蓓蕾劇院
-      - 2011年5月21日/[首爾](../Page/首爾.md "wikilink")・V-HALL
-      - 2011年5月27日/[台灣](../Page/台灣.md "wikilink")・新北市板橋區體育館
+      - 2011年5月13日/[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")・上海商城劇場
+      - 2011年5月15日/[中國](../Page/中國.md "wikilink")[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")・蓓蕾劇院
+      - 2011年5月21日/[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")・V-HALL
+      - 2011年5月27日/[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")・新北市板橋區體育館
       - 2011年5月29日/[香港](../Page/香港.md "wikilink")・九龍灣國際展貿中心
       - 2011年6月4日/[新加坡](../Page/新加坡.md "wikilink")・\*SCAPE
   - JAPAN EXPOSITION 2011 at PARIS NORD VILLEPINTE
@@ -345,20 +351,21 @@ Fanclub）
 
 ## 客串作品
 
-  - **[Ajapai](../Page/Ajapai.md "wikilink")** 「**unaffected**」
+  - **[Ajapai](https://zh.wikipedia.org/wiki/Ajapai "wikilink")**
+    「**unaffected**」
       - 2\. Believe feat. MAY NAKABAYASHI
   - **パパパパーンIV** (『ZEKUSHII』非賣品CD)
       - パパパパーンの歌
   - **Animelo Summer Live 2008 -Challenge- 主題歌 Yells〜It's a beautiful
     life〜** (2008年7月23日)
       - Yells〜It's a beautiful life〜
-  - **[奥井雅美](../Page/奥井雅美.md "wikilink") feat. May'n
+  - **[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink") feat. May'n
     『ミラクル・アッパーWL』**(2009年8月21日)
       - 1.ミラクル・アッパーWL feat. May'n
   - **Animelo Summer Live 2009 -RE:BRIDGE- 主題歌 〜Return to oneself〜**
     (2009年6月24日)
       - RE:BRIDGE〜Return to oneself〜
-  - **[超時空要塞元年紀念單曲](../Page/超時空要塞.md "wikilink")『息をしてる
+  - **[超時空要塞元年紀念單曲](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")『息をしてる
     感じている』**(2009年10月14日)
       - 1.息をしてる 感じている
   - **Animelo Summer Live 2010 -evolution- 主題歌 〜for beloved one 〜**

@@ -1,8 +1,8 @@
 《**李克勤 No.1
-Hits**》是[香港歌手](../Page/香港歌手.md "wikilink")[李克勤於](../Page/李克勤.md "wikilink")2007年11月23日發行的個人[音樂專輯](../Page/音樂專輯.md "wikilink")，是[DSD製作的](../Page/DSD.md "wikilink")4張[CD套裝](../Page/CD.md "wikilink")，收錄了李克勤三首新曲加四歷程\[1\]的金曲共68首。CD
+Hits**》是[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[李克勤於](../Page/李克勤.md "wikilink")2007年11月23日發行的個人[音樂專輯](../Page/音樂專輯.md "wikilink")，是[DSD製作的](https://zh.wikipedia.org/wiki/DSD "wikilink")4張[CD套裝](../Page/CD.md "wikilink")，收錄了李克勤三首新曲加四歷程\[1\]的金曲共68首。CD
 1與CD 4是[李克勤自選的曲目](../Page/李克勤.md "wikilink")，而CD 2與CD
 3則是排行榜上的冠軍曲目。三首新曲則分別是〈再見演奏廳〉、〈嘆息門〉與〈Mr.
-Children〉。而[電視劇](../Page/電視劇.md "wikilink")《[賭場風雲](../Page/賭場風雲.md "wikilink")》的主題曲{{〈}}先賭為快{{〉}}則是首次被收錄至李克勤的個人專輯中。
+Children〉。而[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[賭場風雲](../Page/賭場風雲.md "wikilink")》的主題曲{{〈}}先賭為快{{〉}}則是首次被收錄至李克勤的個人專輯中。
 
 ## 曲目
 
@@ -11,14 +11,14 @@ Children〉。而[電視劇](../Page/電視劇.md "wikilink")《[賭場風雲](.
 1.  再見演奏廳
 2.  相愛無門（前名為嘆息門）
 3.  Mr. Children
-4.  歲月風雲（與[小剛合唱](../Page/小剛.md "wikilink")）
+4.  歲月風雲（與[小剛合唱](https://zh.wikipedia.org/wiki/小剛 "wikilink")）
 5.  紙婚
 6.  花落誰家
 7.  先賭為快
 8.  婚前的女人
 9.  心計
 10. 大時代
-11. 刻不容緩（與[容祖兒合唱](../Page/容祖兒.md "wikilink")）
+11. 刻不容緩（與[容祖兒合唱](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")）
 12. 六呎風雲
 13. 自作自受
 14. 左右手
@@ -39,7 +39,7 @@ Children〉。而[電視劇](../Page/電視劇.md "wikilink")《[賭場風雲](.
 10. 我不會唱歌（[郎朗鋼琴演奏](../Page/郎朗.md "wikilink")）
 11. 左鄰右里（與[譚詠麟合唱](../Page/譚詠麟.md "wikilink")）
 12. 愛一個人（與[陳慧琳合唱](../Page/陳慧琳.md "wikilink")）
-13. 合久必婚（與[陳苑淇合唱](../Page/陳苑淇.md "wikilink")）
+13. 合久必婚（與[陳苑淇合唱](https://zh.wikipedia.org/wiki/陳苑淇 "wikilink")）
 14. 愛不釋手
 15. 高妹
 16. Victory（featuring Bond）
@@ -105,4 +105,4 @@ Children〉。而[電視劇](../Page/電視劇.md "wikilink")《[賭場風雲](.
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 [Category:李克勤音樂專輯](https://zh.wikipedia.org/wiki/Category:李克勤音樂專輯 "wikilink")
 
-1.  [李克勤待過的四家唱片公司](../Page/李克勤.md "wikilink")，分別是[寶麗金](../Page/寶麗金.md "wikilink")、[星光唱片](../Page/星光唱片.md "wikilink")、[藝能動音與](../Page/藝能動音.md "wikilink")[環球唱片](../Page/環球唱片_\(香港\).md "wikilink")。故稱「四歷程」
+1.  [李克勤待過的四家唱片公司](../Page/李克勤.md "wikilink")，分別是[寶麗金](../Page/寶麗金.md "wikilink")、[星光唱片](https://zh.wikipedia.org/wiki/星光唱片 "wikilink")、[藝能動音與](../Page/藝能動音.md "wikilink")[環球唱片](../Page/環球唱片_\(香港\).md "wikilink")。故稱「四歷程」

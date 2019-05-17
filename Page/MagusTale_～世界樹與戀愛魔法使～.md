@@ -1,6 +1,6 @@
 《**MagusTale
 ～世界樹與戀愛魔法使～**》（）是日本[Whirlpool在](../Page/Whirlpool.md "wikilink")2007年11月30日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱『』。是繼《》（2006年9月29日發售）之後Whirlpool的第二部作品。而在2008年6月13日發售相關的[Fan
-disc](../Page/Fan_disc.md "wikilink")《**MagusTale
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**MagusTale
 Infinity**》。2009年12月24日由[GN
 Software代理發售](../Page/GN_Software.md "wikilink")[PlayStation
 Portable版](../Page/PlayStation_Portable.md "wikilink")《**MagusTale
@@ -67,7 +67,7 @@ W-Pack**》。
 <!-- end list -->
 
   -
-    作詞：[yozuca\*](../Page/yozuca*.md "wikilink")、作編曲：、歌：yozuca\*
+    作詞：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")、作編曲：、歌：yozuca\*
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@ W-Pack**》。
 <!-- end list -->
 
   -
-    作詞：[YURIA](../Page/YURIA.md "wikilink")、作編曲：景家淳、歌：YURIA
+    作詞：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")、作編曲：景家淳、歌：YURIA
 
 ## 參考資料
 

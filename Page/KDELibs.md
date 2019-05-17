@@ -1,5 +1,5 @@
 KDELibs是建立在[Qt框架之上](../Page/Qt.md "wikilink")，它提供框架和眾多功能來開發[KDE軟體](../Page/KDE.md "wikilink")，使應用程序更容易編寫，並提供KDE桌面環境的一致性。
-KDELibs的授權為[LGPL](../Page/LGPL.md "wikilink") v2。
+KDELibs的授權為[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink") v2。
 
 ## 函式庫與框架
 
@@ -15,22 +15,25 @@ KDELibs包含下列的函式庫和框架：
   - KDEUI : KDE使用者介面界面類庫
   - KFile
   - [KHTML](../Page/KHTML.md "wikilink") : 網頁排版引擎
-  - [KIO](../Page/KIO.md "wikilink") : KDE 文件子系统。
+  - [KIO](https://zh.wikipedia.org/wiki/KIO "wikilink") : KDE 文件子系统。
   - KImgIO : KDE的圖片載入框架。
   - [KJS](../Page/KJS.md "wikilink") : JavaScript解析引擎
   - kjsembed
-  - [KNewStuff](../Page/KNewStuff.md "wikilink") : 增加 KDE
-    應用程序數據共享能力。技術上，它實現了GHNS和DXS規格。
-  - [KPart](../Page/KPart.md "wikilink") : 輕量級元件嵌入技術。
+  - [KNewStuff](https://zh.wikipedia.org/wiki/KNewStuff "wikilink") : 增加
+    KDE 應用程序數據共享能力。技術上，它實現了GHNS和DXS規格。
+  - [KPart](https://zh.wikipedia.org/wiki/KPart "wikilink") : 輕量級元件嵌入技術。
   - kpty : 虛擬終端的抽像層
   - [Kross](../Page/Kross.md "wikilink") : 允許腳本嵌入到應用程式的框架
   - KUtils : 列印、聊天等工具函式庫
   - [NEPOMUK](../Page/NEPOMUK.md "wikilink") : 提供語義學信息和標記支持
-  - [Plasma](../Page/Plasma_\(KDE\).md "wikilink") : 桌面 shell和 widget框架
+  - [Plasma](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink") :
+    桌面 shell和 widget框架
   - [Phonon](../Page/Phonon_\(KDE\).md "wikilink") : 多媒體框架
-  - [Solid](../Page/Solid_\(KDE\).md "wikilink") : 硬體偵測和管理框架
-  - [Sonnet](../Page/Sonnet_\(KDE\).md "wikilink") : 拼写检查函式庫
-  - [ThreadWeaver](../Page/ThreadWeaver.md "wikilink")
+  - [Solid](https://zh.wikipedia.org/wiki/Solid_\(KDE\) "wikilink") :
+    硬體偵測和管理框架
+  - [Sonnet](https://zh.wikipedia.org/wiki/Sonnet_\(KDE\) "wikilink") :
+    拼写检查函式庫
+  - [ThreadWeaver](https://zh.wikipedia.org/wiki/ThreadWeaver "wikilink")
 
 ## 其他部分
 

@@ -1,4 +1,4 @@
-《**DOORS**》（）是[神坂一撰寫的](../Page/神坂一.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[岸和田ロビン負責插畫](../Page/岸和田ロビン.md "wikilink")。
+《**DOORS**》（）是[神坂一撰寫的](../Page/神坂一.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，由[岸和田ロビン負責插畫](https://zh.wikipedia.org/wiki/岸和田ロビン "wikilink")。
 
 於2006年12月號開始在《The Sneaker》上連載，2007年角川文庫發行文庫本。全兩冊。
 

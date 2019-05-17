@@ -1,8 +1,8 @@
-（單行本由臺灣[青文出版社代理並譯為銀河俠盜JING](../Page/青文出版社.md "wikilink")），[熊倉裕一的漫画](../Page/熊倉裕一.md "wikilink")。1995年到1998年在講談社[Comic
+（單行本由臺灣[青文出版社代理並譯為銀河俠盜JING](../Page/青文出版社.md "wikilink")），[熊倉裕一的漫画](https://zh.wikipedia.org/wiki/熊倉裕一 "wikilink")。1995年到1998年在講談社[Comic
 BomBom連載](../Page/Comic_BomBom.md "wikilink")。單行本全7卷，7卷之後在月刊『KING OF
 BANDIT JING』上連載（現在休載・再開未定）。
 
-動畫在[NHK BS2上放映](../Page/NHK_BS2.md "wikilink")，全13話。
+動畫在[NHK BS2上放映](https://zh.wikipedia.org/wiki/NHK_BS2 "wikilink")，全13話。
 
 ## 主要人物
 
@@ -72,7 +72,7 @@ TV版共13话。2002年5月 - 2002年8月播出。OVA版共3卷。發表期間 2
 
 ## 製作
 
-  - 原作:熊倉裕一（[講談社コミックボンボン刊](../Page/講談社.md "wikilink")）
+  - 原作:熊倉裕一（[講談社コミックボンボン刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
   - 企畫プロデューサー:白川隆三（ANIPLEX）
   - 原案協力:大野昇､山本憲一（講談社｢月刊マガジンZ｣編集部）
   - 構成:吉田玲子
@@ -86,8 +86,8 @@ TV版共13话。2002年5月 - 2002年8月播出。OVA版共3卷。發表期間 2
   - 音響監督:菊田浩巳
   - 錄音製作:樂音舎
   - 音樂製作:ANIPLEX
-  - 監督:[わたなべひろし](../Page/わたなべひろし.md "wikilink")
-  - 製作:[ANIPLEX](../Page/ANIPLEX.md "wikilink")
+  - 監督:[わたなべひろし](https://zh.wikipedia.org/wiki/わたなべひろし "wikilink")
+  - 製作:[ANIPLEX](https://zh.wikipedia.org/wiki/ANIPLEX "wikilink")
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")

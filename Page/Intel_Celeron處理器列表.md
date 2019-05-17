@@ -1,5 +1,5 @@
-[Intel](../Page/Intel.md "wikilink")
-**[Celeron](../Page/Celeron.md "wikilink")**是針對入門級使用者的低階處理器。
+[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+**[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")**是針對入門級使用者的低階處理器。
 
 ## 桌上型處理器
 
@@ -9,10 +9,10 @@
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")*
 
-| 型號                                                       | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                     | 發佈日期    |
-| -------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | -------------------------------------- | ------- |
-| [Celeron 266](http://ark.intel.com/zh-tw/products/49933) | B0      | 266 MHz                        | 0 KB                              | 66 MT/s                              | 4× | 2 V                            | 16.59 W                          | [Slot 1](../Page/Slot_1.md "wikilink") | 1998年4月 |
-| [Celeron 300](http://ark.intel.com/zh-tw/products/49934) | 300 MHz | 4.5×                           | 18.48 W                           | 1998年6月                              |    |                                |                                  |                                        |         |
+| 型號                                                       | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                     | 發佈日期    |
+| -------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | -------------------------------------- | ------- |
+| [Celeron 266](http://ark.intel.com/zh-tw/products/49933) | B0      | 266 MHz                                           | 0 KB                                                 | 66 MT/s                                                 | 4× | 2 V                            | 16.59 W                                             | [Slot 1](../Page/Slot_1.md "wikilink") | 1998年4月 |
+| [Celeron 300](http://ark.intel.com/zh-tw/products/49934) | 300 MHz | 4.5×                                              | 18.48 W                                              | 1998年6月                                                 |    |                                |                                                     |                                        |         |
 
 #### Mendocino (250 nm)
 
@@ -23,12 +23,12 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -138,35 +138,35 @@
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
-| 型號                                                        | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期    |
-| --------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | ----------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ------- |
-| [Celeron 533A](http://ark.intel.com/zh-tw/products/27189) | C0       | 533 MHz                        | 128 KB                            | 66 MT/s                              | 8×          | 2 V                            | 28.3 W                           | [Socket 370](../Page/Socket_370.md "wikilink") | 2000年3月 |
-| [Celeron 566](http://ark.intel.com/zh-tw/products/27190)  | D0       | 566 MHz                        | 8.5×                              | 1.5 - 1.75 V                         | 19.1 W      | 2000年3月29日                     |                                  |                                                |         |
-| [Celeron 600](http://ark.intel.com/zh-tw/products/27191)  | C0       | 600 MHz                        | 9×                                | 15.8 W                               |             |                                |                                  |                                                |         |
-| [Celeron 633](http://ark.intel.com/zh-tw/products/27192)  | 633 MHz  | 9.5×                           | 16.5 W                            | 2000年6月26日                           |             |                                |                                  |                                                |         |
-| [Celeron 667](http://ark.intel.com/zh-tw/products/27193)  | 667 MHz  | 10×                            | 17.5 W                            |                                      |             |                                |                                  |                                                |         |
-| [Celeron 700](http://ark.intel.com/zh-tw/products/27194)  | 700 MHz  | 10.5×                          | 1.65 - 1.75 V                     | 18.3 W                               |             |                                |                                  |                                                |         |
-| [Celeron 733](http://ark.intel.com/zh-tw/products/27195)  | D0       | 733 MHz                        | 11×                               | 23.6 W                               | 2000年11月13日 |                                |                                  |                                                |         |
-| [Celeron 766](http://ark.intel.com/zh-tw/products/27196)  | 766 MHz  | 11.5×                          | 20 W                              |                                      |             |                                |                                  |                                                |         |
-| [Celeron 800](http://ark.intel.com/zh-tw/products/27197)  | 800 MHz  | 100 MT/s                       | 8×                                | 20.8 W                               | 2001年1月3日   |                                |                                  |                                                |         |
-| [Celeron 850](http://ark.intel.com/zh-tw/products/27198)  | 850 MHz  | 8.5×                           | 1.7 - 1.75 V                      | 25.7 W                               | 2001年4月9日   |                                |                                  |                                                |         |
-| [Celeron 900](http://ark.intel.com/zh-tw/products/27199)  | 900 MHz  | 9×                             | 1.75 V                            | 26.7 W                               | 2001年7月9日   |                                |                                  |                                                |         |
-| [Celeron 950](http://ark.intel.com/zh-tw/products/27201)  | 950 MHz  | 9.5×                           | 28 W                              | 2001年8月31日                           |             |                                |                                  |                                                |         |
-| [Celeron 1.00](http://ark.intel.com/zh-tw/products/27164) | 1000 MHz | 10×                            | 29 W                              |                                      |             |                                |                                  |                                                |         |
-| [Celeron 1.10](http://ark.intel.com/zh-tw/products/27166) | 1100 MHz | 11×                            | 33 W                              |                                      |             |                                |                                  |                                                |         |
+| 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻          | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期    |
+| --------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ----------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ------- |
+| [Celeron 533A](http://ark.intel.com/zh-tw/products/27189) | C0       | 533 MHz                                           | 128 KB                                               | 66 MT/s                                                 | 8×          | 2 V                            | 28.3 W                                              | [Socket 370](../Page/Socket_370.md "wikilink") | 2000年3月 |
+| [Celeron 566](http://ark.intel.com/zh-tw/products/27190)  | D0       | 566 MHz                                           | 8.5×                                                 | 1.5 - 1.75 V                                            | 19.1 W      | 2000年3月29日                     |                                                     |                                                |         |
+| [Celeron 600](http://ark.intel.com/zh-tw/products/27191)  | C0       | 600 MHz                                           | 9×                                                   | 15.8 W                                                  |             |                                |                                                     |                                                |         |
+| [Celeron 633](http://ark.intel.com/zh-tw/products/27192)  | 633 MHz  | 9.5×                                              | 16.5 W                                               | 2000年6月26日                                              |             |                                |                                                     |                                                |         |
+| [Celeron 667](http://ark.intel.com/zh-tw/products/27193)  | 667 MHz  | 10×                                               | 17.5 W                                               |                                                         |             |                                |                                                     |                                                |         |
+| [Celeron 700](http://ark.intel.com/zh-tw/products/27194)  | 700 MHz  | 10.5×                                             | 1.65 - 1.75 V                                        | 18.3 W                                                  |             |                                |                                                     |                                                |         |
+| [Celeron 733](http://ark.intel.com/zh-tw/products/27195)  | D0       | 733 MHz                                           | 11×                                                  | 23.6 W                                                  | 2000年11月13日 |                                |                                                     |                                                |         |
+| [Celeron 766](http://ark.intel.com/zh-tw/products/27196)  | 766 MHz  | 11.5×                                             | 20 W                                                 |                                                         |             |                                |                                                     |                                                |         |
+| [Celeron 800](http://ark.intel.com/zh-tw/products/27197)  | 800 MHz  | 100 MT/s                                          | 8×                                                   | 20.8 W                                                  | 2001年1月3日   |                                |                                                     |                                                |         |
+| [Celeron 850](http://ark.intel.com/zh-tw/products/27198)  | 850 MHz  | 8.5×                                              | 1.7 - 1.75 V                                         | 25.7 W                                                  | 2001年4月9日   |                                |                                                     |                                                |         |
+| [Celeron 900](http://ark.intel.com/zh-tw/products/27199)  | 900 MHz  | 9×                                                | 1.75 V                                               | 26.7 W                                                  | 2001年7月9日   |                                |                                                     |                                                |         |
+| [Celeron 950](http://ark.intel.com/zh-tw/products/27201)  | 950 MHz  | 9.5×                                              | 28 W                                                 | 2001年8月31日                                              |             |                                |                                                     |                                                |         |
+| [Celeron 1.00](http://ark.intel.com/zh-tw/products/27164) | 1000 MHz | 10×                                               | 29 W                                                 |                                                         |             |                                |                                                     |                                                |         |
+| [Celeron 1.10](http://ark.intel.com/zh-tw/products/27166) | 1100 MHz | 11×                                               | 33 W                                                 |                                                         |             |                                |                                                     |                                                |         |
 
 #### Tualatin-256 (130 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
-| 型號                                                         | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期    |
-| ---------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ------- |
-| [Celeron 900A](http://ark.intel.com/zh-tw/products/27200)  | A1       | 900 MHz                        | 256 KB                            | 100 MT/s                             | 9×        | 1.475 V                        | 34.8 W                           | [Socket 370](../Page/Socket_370.md "wikilink") | 2000年3月 |
-| [Celeron 1000A](http://ark.intel.com/zh-tw/products/27165) | B1       | 1000 MHz                       | 10×                               | 27.8 W                               | 2002年1月3日 |                                |                                  |                                                |         |
-| [Celeron 1100A](http://ark.intel.com/zh-tw/products/27167) | 1100 MHz | 11×                            | 1.5 V                             | 28.9 W                               |           |                                |                                  |                                                |         |
-| [Celeron 1200](http://ark.intel.com/zh-tw/products/27168)  | 1200 MHz | 12×                            | 32.1 W                            | 2001年10月2日                           |           |                                |                                  |                                                |         |
-| [Celeron 1300](http://ark.intel.com/zh-tw/products/27169)  | 1300 MHz | 13×                            | 33.4 W                            | 2002年1月3日                            |           |                                |                                  |                                                |         |
-| [Celeron 1400](http://ark.intel.com/zh-tw/products/27170)  | 1400 MHz | 14×                            | 34.8 W                            | 2002年5月15日                           |           |                                |                                  |                                                |         |
+| 型號                                                         | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期    |
+| ---------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ------- |
+| [Celeron 900A](http://ark.intel.com/zh-tw/products/27200)  | A1       | 900 MHz                                           | 256 KB                                               | 100 MT/s                                                | 9×        | 1.475 V                        | 34.8 W                                              | [Socket 370](../Page/Socket_370.md "wikilink") | 2000年3月 |
+| [Celeron 1000A](http://ark.intel.com/zh-tw/products/27165) | B1       | 1000 MHz                                          | 10×                                                  | 27.8 W                                                  | 2002年1月3日 |                                |                                                     |                                                |         |
+| [Celeron 1100A](http://ark.intel.com/zh-tw/products/27167) | 1100 MHz | 11×                                               | 1.5 V                                                | 28.9 W                                                  |           |                                |                                                     |                                                |         |
+| [Celeron 1200](http://ark.intel.com/zh-tw/products/27168)  | 1200 MHz | 12×                                               | 32.1 W                                               | 2001年10月2日                                              |           |                                |                                                     |                                                |         |
+| [Celeron 1300](http://ark.intel.com/zh-tw/products/27169)  | 1300 MHz | 13×                                               | 33.4 W                                               | 2002年1月3日                                               |           |                                |                                                     |                                                |         |
+| [Celeron 1400](http://ark.intel.com/zh-tw/products/27170)  | 1400 MHz | 14×                                               | 34.8 W                                               | 2002年5月15日                                              |           |                                |                                                     |                                                |         |
 
 ### [NetBurst微架構](../Page/NetBurst微架構.md "wikilink")
 
@@ -174,147 +174,148 @@
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
-| 型號                                                                                                                         | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期 |
-| -------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---- |
-| [Celeron 1.5](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201500%20-%20RK80531RC021128.html)                       | E0      | 1.5 GHz                        | 128 KB                            | 400 MT/s                             | 15× | 1.75 V                         |                                  | [Socket 478](../Page/Socket_478.md "wikilink") |      |
-| [Celeron 1.6](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201600%20-%20RK80531RC025128.html)                       | 1.6 GHz | 16×                            |                                   |                                      |     |                                |                                  |                                                |      |
-| [Celeron 1.7](http://ark.intel.com/zh-tw/products/27172)                                                                   | 1.7 GHz | 17×                            | 63.5 W                            | 2002年5月15日                           |     |                                |                                  |                                                |      |
-| [Celeron 1.8](http://ark.intel.com/zh-tw/products/27173)                                                                   | 1.8 GHz | 18×                            | 66.1 W                            | 2002年6月12日                           |     |                                |                                  |                                                |      |
-| [Celeron 1.9](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201900%20-%20RK80531RC037128%20\(BX80531P190G128\).html) | 1.9 GHz | 19×                            |                                   |                                      |     |                                |                                  |                                                |      |
-| [Celeron 2.0](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%202000%20-%20RK80531RC041128%20\(BX80531P200G128\).html) | 2.0 GHz | 20×                            | 71.2 W                            |                                      |     |                                |                                  |                                                |      |
+| 型號                                                                                                                         | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期 |
+| -------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ---- |
+| [Celeron 1.5](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201500%20-%20RK80531RC021128.html)                       | E0      | 1.5 GHz                                           | 128 KB                                               | 400 MT/s                                                | 15× | 1.75 V                         |                                                     | [Socket 478](../Page/Socket_478.md "wikilink") |      |
+| [Celeron 1.6](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201600%20-%20RK80531RC025128.html)                       | 1.6 GHz | 16×                                               |                                                      |                                                         |     |                                |                                                     |                                                |      |
+| [Celeron 1.7](http://ark.intel.com/zh-tw/products/27172)                                                                   | 1.7 GHz | 17×                                               | 63.5 W                                               | 2002年5月15日                                              |     |                                |                                                     |                                                |      |
+| [Celeron 1.8](http://ark.intel.com/zh-tw/products/27173)                                                                   | 1.8 GHz | 18×                                               | 66.1 W                                               | 2002年6月12日                                              |     |                                |                                                     |                                                |      |
+| [Celeron 1.9](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%201900%20-%20RK80531RC037128%20\(BX80531P190G128\).html) | 1.9 GHz | 19×                                               |                                                      |                                                         |     |                                |                                                     |                                                |      |
+| [Celeron 2.0](http://www.cpu-world.com/CPUs/Celeron/Intel-Celeron%202000%20-%20RK80531RC041128%20\(BX80531P200G128\).html) | 2.0 GHz | 20×                                               | 71.2 W                                               |                                                         |     |                                |                                                     |                                                |      |
 
 #### Northwood-128 (130 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
-| 型號                                                        | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期    |
-| --------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ------- |
-| [Celeron 1.8A](http://ark.intel.com/zh-tw/products/27173) | D1      | 1.8 GHz                        | 128 KB                            | 400 MT/s                             | 18×        | 1.56 - 1.725 V                 | 66.1 W                           | [Socket 478](../Page/Socket_478.md "wikilink") | 2003年4月 |
-| [Celeron 2.0](http://ark.intel.com/zh-tw/products/27174)  | 2.0 GHz | 20×                            | 1.315 - 1.525 V                   | 52.8 W                               | 2002年9月18日 |                                |                                  |                                                |         |
-| [Celeron 2.1](http://ark.intel.com/zh-tw/products/27175)  | 2.1 GHz | 21×                            | 55.5 W                            | 2002年11月20日                          |            |                                |                                  |                                                |         |
-| [Celeron 2.2](http://ark.intel.com/zh-tw/products/27176)  | 2.2 GHz | 22×                            | 57.1 W                            |                                      |            |                                |                                  |                                                |         |
-| [Celeron 2.3](http://ark.intel.com/zh-tw/products/27177)  | 2.3 GHz | 23×                            | 58.3 W                            | 2003年3月31日                           |            |                                |                                  |                                                |         |
-| [Celeron 2.4](http://ark.intel.com/zh-tw/products/27178)  | 2.4 GHz | 24×                            | 59.8 W                            |                                      |            |                                |                                  |                                                |         |
-| [Celeron 2.5](http://ark.intel.com/zh-tw/products/27179)  | 2.5 GHz | 25×                            | 61 W                              | 2003年6月25日                           |            |                                |                                  |                                                |         |
-| [Celeron 2.6](http://ark.intel.com/zh-tw/products/27180)  | 2.6 GHz | 26×                            | 62.6 W                            |                                      |            |                                |                                  |                                                |         |
-| [Celeron 2.7](http://ark.intel.com/zh-tw/products/27181)  | 2.7 GHz | 27×                            | 66.8 W                            | 2003年9月24日                           |            |                                |                                  |                                                |         |
-| [Celeron 2.8](http://ark.intel.com/zh-tw/products/27182)  | 2.8 GHz | 28×                            | 68.4 W                            | 2003年11月5日                           |            |                                |                                  |                                                |         |
+| 型號                                                        | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期    |
+| --------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ------- |
+| [Celeron 1.8A](http://ark.intel.com/zh-tw/products/27173) | D1      | 1.8 GHz                                           | 128 KB                                               | 400 MT/s                                                | 18×        | 1.56 - 1.725 V                 | 66.1 W                                              | [Socket 478](../Page/Socket_478.md "wikilink") | 2003年4月 |
+| [Celeron 2.0](http://ark.intel.com/zh-tw/products/27174)  | 2.0 GHz | 20×                                               | 1.315 - 1.525 V                                      | 52.8 W                                                  | 2002年9月18日 |                                |                                                     |                                                |         |
+| [Celeron 2.1](http://ark.intel.com/zh-tw/products/27175)  | 2.1 GHz | 21×                                               | 55.5 W                                               | 2002年11月20日                                             |            |                                |                                                     |                                                |         |
+| [Celeron 2.2](http://ark.intel.com/zh-tw/products/27176)  | 2.2 GHz | 22×                                               | 57.1 W                                               |                                                         |            |                                |                                                     |                                                |         |
+| [Celeron 2.3](http://ark.intel.com/zh-tw/products/27177)  | 2.3 GHz | 23×                                               | 58.3 W                                               | 2003年3月31日                                              |            |                                |                                                     |                                                |         |
+| [Celeron 2.4](http://ark.intel.com/zh-tw/products/27178)  | 2.4 GHz | 24×                                               | 59.8 W                                               |                                                         |            |                                |                                                     |                                                |         |
+| [Celeron 2.5](http://ark.intel.com/zh-tw/products/27179)  | 2.5 GHz | 25×                                               | 61 W                                                 | 2003年6月25日                                              |            |                                |                                                     |                                                |         |
+| [Celeron 2.6](http://ark.intel.com/zh-tw/products/27180)  | 2.6 GHz | 26×                                               | 62.6 W                                               |                                                         |            |                                |                                                     |                                                |         |
+| [Celeron 2.7](http://ark.intel.com/zh-tw/products/27181)  | 2.7 GHz | 27×                                               | 66.8 W                                               | 2003年9月24日                                              |            |                                |                                                     |                                                |         |
+| [Celeron 2.8](http://ark.intel.com/zh-tw/products/27182)  | 2.8 GHz | 28×                                               | 68.4 W                                               | 2003年11月5日                                              |            |                                |                                                     |                                                |         |
 
 #### Prescott-256 (90 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")*
   - Celeron D 3X1、Celeron D 3X6及Celeron D 355支援[Intel
-    64](../Page/Intel_64.md "wikilink")。
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")。
   - Celeron D 3X0J、Celeron D 3X5J、Celeron D 3X1、Celeron D 3X6及Celeron D
-    355支援[NX Bit](../Page/NX_Bit.md "wikilink")。
+    355支援[NX Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")。
 
-| 型號                                                          | 步進                                       | [時脈](../Page/時脈.md "wikilink")           | L2 [快取](../Page/快取.md "wikilink")        | [前端匯流排](../Page/前端匯流排.md "wikilink")           | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期     |
-| ----------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------------- | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | -------- |
-| [Celeron D 310](http://ark.intel.com/zh-tw/products/27104)  | G1                                       | 2.13 GHz                                 | 256 KB                                   | 533 MT/s                                       | 16×        | 1.25 - 1.4 V                   | 73 W                             | [Socket 478](../Page/Socket_478.md "wikilink") | 2005年12月 |
-| [Celeron D 315](http://ark.intel.com/zh-tw/products/27105)  | 2.26 GHz                                 | 17×                                      | 2004年6月24日                               |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 315J](http://ark.intel.com/zh-tw/products/27106) | E0                                       |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 320](http://ark.intel.com/zh-tw/products/27107)  | G1                                       | 2.40 GHz                                 | 18×                                      |                                                |            |                                |                                  |                                                |          |
-| E0                                                          | [LGA 775](../Page/LGA_775.md "wikilink") |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 325](http://ark.intel.com/zh-tw/products/27108)  | G1                                       | 2.53 GHz                                 | 19×                                      | [Socket 478](../Page/Socket_478.md "wikilink") |            |                                |                                  |                                                |          |
-| [Celeron D 325](http://ark.intel.com/zh-tw/products/27109)  | E0                                       | [LGA 775](../Page/LGA_775.md "wikilink") |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 325J](http://ark.intel.com/zh-tw/products/27110) | 84 W                                     | 2004年9月22日                               |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 326](http://ark.intel.com/zh-tw/products/27111)  | G1                                       |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 330](http://ark.intel.com/zh-tw/products/27112)  | 2.66 GHz                                 | 20×                                      | 73 W                                     | [Socket 478](../Page/Socket_478.md "wikilink") | 2004年6月24日 |                                |                                  |                                                |          |
-| [Celeron D 330](http://ark.intel.com/zh-tw/products/27113)  | E0                                       | [LGA 775](../Page/LGA_775.md "wikilink") |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 330J](http://ark.intel.com/zh-tw/products/27114) | 84 W                                     | 2004年9月22日                               |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 331](http://ark.intel.com/zh-tw/products/27115)  | G1                                       |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 335](http://ark.intel.com/zh-tw/products/27116)  | 2.80 GHz                                 | 21×                                      | 73 W                                     | [Socket 478](../Page/Socket_478.md "wikilink") | 2004年6月24日 |                                |                                  |                                                |          |
-| [Celeron D 335](http://ark.intel.com/zh-tw/products/27117)  | E0                                       | 84 W                                     | [LGA 775](../Page/LGA_775.md "wikilink") |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 335J](http://ark.intel.com/zh-tw/products/27118) | 2004年9月22日                               |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 336](http://ark.intel.com/zh-tw/products/27119)  | G1                                       |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 340](http://ark.intel.com/zh-tw/products/27120)  | 2.93 GHz                                 | 22×                                      | 73 W                                     | [Socket 478](../Page/Socket_478.md "wikilink") |            |                                |                                  |                                                |          |
-| [Celeron D 340J](http://ark.intel.com/zh-tw/products/27121) | E0                                       | 84 W                                     | [LGA 775](../Page/LGA_775.md "wikilink") |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 341](http://ark.intel.com/zh-tw/products/27122)  | G1                                       | 2005年7月27日                               |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 345](http://ark.intel.com/zh-tw/products/27123)  | 3.06 GHz                                 | 23×                                      | 73 W                                     | [Socket 478](../Page/Socket_478.md "wikilink") | 2004年11月   |                                |                                  |                                                |          |
-| [Celeron D 345J](http://ark.intel.com/zh-tw/products/27124) | E0                                       | 84 W                                     | [LGA 775](../Page/LGA_775.md "wikilink") | 2004年10月                                       |            |                                |                                  |                                                |          |
-| [Celeron D 346](http://ark.intel.com/zh-tw/products/27125)  | G1                                       | 2005年7月27日                               |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 350](http://ark.intel.com/zh-tw/products/27126)  | 3.20 GHz                                 | 24×                                      | 73 W                                     | [Socket 478](../Page/Socket_478.md "wikilink") |            |                                |                                  |                                                |          |
-| [Celeron D 350J](http://ark.intel.com/zh-tw/products/27127) | C0                                       |                                          |                                          |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 351](http://ark.intel.com/zh-tw/products/27128)  | G1                                       | 84 W                                     | [LGA 775](../Page/LGA_775.md "wikilink") |                                                |            |                                |                                  |                                                |          |
-| [Celeron D 355](http://ark.intel.com/zh-tw/products/27130)  | 3.33 GHz                                 | 25×                                      | 2005年12月                                 |                                                |            |                                |                                  |                                                |          |
+| 型號                                                          | 步進                                       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期     |
+| ----------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | -------- |
+| [Celeron D 310](http://ark.intel.com/zh-tw/products/27104)  | G1                                       | 2.13 GHz                                          | 256 KB                                               | 533 MT/s                                                | 16×        | 1.25 - 1.4 V                   | 73 W                                                | [Socket 478](../Page/Socket_478.md "wikilink") | 2005年12月 |
+| [Celeron D 315](http://ark.intel.com/zh-tw/products/27105)  | 2.26 GHz                                 | 17×                                               | 2004年6月24日                                           |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 315J](http://ark.intel.com/zh-tw/products/27106) | E0                                       |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 320](http://ark.intel.com/zh-tw/products/27107)  | G1                                       | 2.40 GHz                                          | 18×                                                  |                                                         |            |                                |                                                     |                                                |          |
+| E0                                                          | [LGA 775](../Page/LGA_775.md "wikilink") |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 325](http://ark.intel.com/zh-tw/products/27108)  | G1                                       | 2.53 GHz                                          | 19×                                                  | [Socket 478](../Page/Socket_478.md "wikilink")          |            |                                |                                                     |                                                |          |
+| [Celeron D 325](http://ark.intel.com/zh-tw/products/27109)  | E0                                       | [LGA 775](../Page/LGA_775.md "wikilink")          |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 325J](http://ark.intel.com/zh-tw/products/27110) | 84 W                                     | 2004年9月22日                                        |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 326](http://ark.intel.com/zh-tw/products/27111)  | G1                                       |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 330](http://ark.intel.com/zh-tw/products/27112)  | 2.66 GHz                                 | 20×                                               | 73 W                                                 | [Socket 478](../Page/Socket_478.md "wikilink")          | 2004年6月24日 |                                |                                                     |                                                |          |
+| [Celeron D 330](http://ark.intel.com/zh-tw/products/27113)  | E0                                       | [LGA 775](../Page/LGA_775.md "wikilink")          |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 330J](http://ark.intel.com/zh-tw/products/27114) | 84 W                                     | 2004年9月22日                                        |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 331](http://ark.intel.com/zh-tw/products/27115)  | G1                                       |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 335](http://ark.intel.com/zh-tw/products/27116)  | 2.80 GHz                                 | 21×                                               | 73 W                                                 | [Socket 478](../Page/Socket_478.md "wikilink")          | 2004年6月24日 |                                |                                                     |                                                |          |
+| [Celeron D 335](http://ark.intel.com/zh-tw/products/27117)  | E0                                       | 84 W                                              | [LGA 775](../Page/LGA_775.md "wikilink")             |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 335J](http://ark.intel.com/zh-tw/products/27118) | 2004年9月22日                               |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 336](http://ark.intel.com/zh-tw/products/27119)  | G1                                       |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 340](http://ark.intel.com/zh-tw/products/27120)  | 2.93 GHz                                 | 22×                                               | 73 W                                                 | [Socket 478](../Page/Socket_478.md "wikilink")          |            |                                |                                                     |                                                |          |
+| [Celeron D 340J](http://ark.intel.com/zh-tw/products/27121) | E0                                       | 84 W                                              | [LGA 775](../Page/LGA_775.md "wikilink")             |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 341](http://ark.intel.com/zh-tw/products/27122)  | G1                                       | 2005年7月27日                                        |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 345](http://ark.intel.com/zh-tw/products/27123)  | 3.06 GHz                                 | 23×                                               | 73 W                                                 | [Socket 478](../Page/Socket_478.md "wikilink")          | 2004年11月   |                                |                                                     |                                                |          |
+| [Celeron D 345J](http://ark.intel.com/zh-tw/products/27124) | E0                                       | 84 W                                              | [LGA 775](../Page/LGA_775.md "wikilink")             | 2004年10月                                                |            |                                |                                                     |                                                |          |
+| [Celeron D 346](http://ark.intel.com/zh-tw/products/27125)  | G1                                       | 2005年7月27日                                        |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 350](http://ark.intel.com/zh-tw/products/27126)  | 3.20 GHz                                 | 24×                                               | 73 W                                                 | [Socket 478](../Page/Socket_478.md "wikilink")          |            |                                |                                                     |                                                |          |
+| [Celeron D 350J](http://ark.intel.com/zh-tw/products/27127) | C0                                       |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 351](http://ark.intel.com/zh-tw/products/27128)  | G1                                       | 84 W                                              | [LGA 775](../Page/LGA_775.md "wikilink")             |                                                         |            |                                |                                                     |                                                |          |
+| [Celeron D 355](http://ark.intel.com/zh-tw/products/27130)  | 3.33 GHz                                 | 25×                                               | 2005年12月                                             |                                                         |            |                                |                                                     |                                                |          |
 
 #### Cedar Mill-512 (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](../Page/EM64T.md "wikilink")、[NX
-    Bit](../Page/NX_Bit.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
 
-| 型號                                                         | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期        |
-| ---------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------- | ----------- |
-| [Celeron D 347](http://ark.intel.com/zh-tw/products/27974) | D0       | 3.06 GHz                       | 512 KB                            | 533 MT/s                             | 23× | 1.25 - 1.325 V                 | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2006年10月22日 |
-| [Celeron D 352](http://ark.intel.com/zh-tw/products/27129) | 3.20 GHz | 24×                            | 2006年5月28日                        |                                      |     |                                |                                  |                                          |             |
-| [Celeron D 356](http://ark.intel.com/zh-tw/products/27131) | 3.33 GHz | 25×                            |                                   |                                      |     |                                |                                  |                                          |             |
-| [Celeron D 360](http://ark.intel.com/zh-tw/products/27132) | 3.46 GHz | 26×                            | 2006年11月26日                       |                                      |     |                                |                                  |                                          |             |
-| [Celeron D 365](http://ark.intel.com/zh-tw/products/27975) | 3.60 GHz | 27×                            | 2007年1月                           |                                      |     |                                |                                  |                                          |             |
+| 型號                                                         | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期        |
+| ---------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ----------- |
+| [Celeron D 347](http://ark.intel.com/zh-tw/products/27974) | D0       | 3.06 GHz                                          | 512 KB                                               | 533 MT/s                                                | 23× | 1.25 - 1.325 V                 | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2006年10月22日 |
+| [Celeron D 352](http://ark.intel.com/zh-tw/products/27129) | 3.20 GHz | 24×                                               | 2006年5月28日                                           |                                                         |     |                                |                                                     |                                          |             |
+| [Celeron D 356](http://ark.intel.com/zh-tw/products/27131) | 3.33 GHz | 25×                                               |                                                      |                                                         |     |                                |                                                     |                                          |             |
+| [Celeron D 360](http://ark.intel.com/zh-tw/products/27132) | 3.46 GHz | 26×                                               | 2006年11月26日                                          |                                                         |     |                                |                                                     |                                          |             |
+| [Celeron D 365](http://ark.intel.com/zh-tw/products/27975) | 3.60 GHz | 27×                                               | 2007年1月                                              |                                                         |     |                                |                                                     |                                          |             |
 
 ### [Core微架構](../Page/Core微架構.md "wikilink")
 
 #### Conroe-L / -CL (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](../Page/EM64T.md "wikilink")、[NX
-    Bit](../Page/NX_Bit.md "wikilink")*
-  - Celeron 445支援[Intel VT](../Page/Intel_VT.md "wikilink")-x。
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")*
+  - Celeron 445支援[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x。
 
-| 型號                                                       | 步進      | 核心       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink")     | 倍頻        | [電壓](../Page/電壓.md "wikilink")           | [TDP](../Page/TDP.md "wikilink") | 插槽          | 發佈日期        |
-| -------------------------------------------------------- | ------- | -------- | ------------------------------ | --------------------------------- | ---------------------------------------- | --------- | ---------------------------------------- | -------------------------------- | ----------- | ----------- |
-| [Celeron 220](http://ark.intel.com/zh-tw/products/33102) | A1      | 1        | 1.2 GHz                        | 512 KB                            | 533 MT/s                                 | 9×        | 1.05 - 1.3 V                             | 19 W                             | Micro-FCBGA | 2007年10月21日 |
-| [Celeron 420](http://ark.intel.com/zh-tw/products/29734) | 1.6 GHz | 800 MT/s | 8×                             | 35 W                              | [LGA 775](../Page/LGA_775.md "wikilink") | 2007年7月3日 |                                          |                                  |             |             |
-| [Celeron 430](http://ark.intel.com/zh-tw/products/29735) | 1.8 GHz | 9×       |                                |                                   |                                          |           |                                          |                                  |             |             |
-| [Celeron 440](http://ark.intel.com/zh-tw/products/29736) | 2.0 GHz | 10×      |                                |                                   |                                          |           |                                          |                                  |             |             |
-| [Celeron 445](http://ark.intel.com/zh-tw/products/35277) | ?       | 1.86 GHz | 1066 MT/s                      | 7×                                |                                          | 65 W      | [LGA 771](../Page/LGA_771.md "wikilink") |                                  |             |             |
-| [Celeron 450](http://ark.intel.com/zh-tw/products/35239) | A1      | 2.2 GHz  | 800 MT/s                       | 11×                               | 1.05 - 1.3 V                             | 35 W      | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年9月12日                       |             |             |
+| 型號                                                       | 步進      | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻        | [電壓](../Page/電壓.md "wikilink")                              | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽          | 發佈日期        |
+| -------------------------------------------------------- | ------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --------- | ----------------------------------------------------------- | --------------------------------------------------- | ----------- | ----------- |
+| [Celeron 220](http://ark.intel.com/zh-tw/products/33102) | A1      | 1        | 1.2 GHz                                           | 512 KB                                               | 533 MT/s                                                | 9×        | 1.05 - 1.3 V                                                | 19 W                                                | Micro-FCBGA | 2007年10月21日 |
+| [Celeron 420](http://ark.intel.com/zh-tw/products/29734) | 1.6 GHz | 800 MT/s | 8×                                                | 35 W                                                 | [LGA 775](../Page/LGA_775.md "wikilink")                | 2007年7月3日 |                                                             |                                                     |             |             |
+| [Celeron 430](http://ark.intel.com/zh-tw/products/29735) | 1.8 GHz | 9×       |                                                   |                                                      |                                                         |           |                                                             |                                                     |             |             |
+| [Celeron 440](http://ark.intel.com/zh-tw/products/29736) | 2.0 GHz | 10×      |                                                   |                                                      |                                                         |           |                                                             |                                                     |             |             |
+| [Celeron 445](http://ark.intel.com/zh-tw/products/35277) | ?       | 1.86 GHz | 1066 MT/s                                         | 7×                                                   |                                                         | 65 W      | [LGA 771](https://zh.wikipedia.org/wiki/LGA_771 "wikilink") |                                                     |             |             |
+| [Celeron 450](http://ark.intel.com/zh-tw/products/35239) | A1      | 2.2 GHz  | 800 MT/s                                          | 11×                                                  | 1.05 - 1.3 V                                            | 35 W      | [LGA 775](../Page/LGA_775.md "wikilink")                    | 2008年9月12日                                          |             |             |
 
 #### Allendale (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](../Page/EM64T.md "wikilink")、[NX
-    Bit](../Page/NX_Bit.md "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")*
 
-| 型號                                                         | 步進      | 核心  | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期       |
-| ---------------------------------------------------------- | ------- | --- | ------------------------------ | --------------------------------- | ------------------------------------ | -- | ------------------------------ | -------------------------------- | ---------------------------------------- | ---------- |
-| [Celeron E1200](http://ark.intel.com/zh-tw/products/34440) | M0      | 2   | 1.6 GHz                        | 512 KB                            | 800 MT/s                             | 8× | 1.16 - 1.31 V                  | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日 |
-| [Celeron E1400](http://ark.intel.com/zh-tw/products/35101) | 2.0 GHz | 10× | 2008年4月20日                     |                                   |                                      |    |                                |                                  |                                          |            |
-| [Celeron E1500](http://ark.intel.com/zh-tw/products/35100) | 2.2 GHz | 11× | 0.96 - 1.27 V                  |                                   |                                      |    |                                |                                  |                                          |            |
-| [Celeron E1600](http://ark.intel.com/zh-tw/products/34751) | 2.4 GHz | 12× |                                |                                   |                                      |    |                                |                                  |                                          |            |
+| 型號                                                         | 步進      | 核心  | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻 | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期       |
+| ---------------------------------------------------------- | ------- | --- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | -- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ---------- |
+| [Celeron E1200](http://ark.intel.com/zh-tw/products/34440) | M0      | 2   | 1.6 GHz                                           | 512 KB                                               | 800 MT/s                                                | 8× | 1.16 - 1.31 V                  | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2008年1月20日 |
+| [Celeron E1400](http://ark.intel.com/zh-tw/products/35101) | 2.0 GHz | 10× | 2008年4月20日                                        |                                                      |                                                         |    |                                |                                                     |                                          |            |
+| [Celeron E1500](http://ark.intel.com/zh-tw/products/35100) | 2.2 GHz | 11× | 0.96 - 1.27 V                                     |                                                      |                                                         |    |                                |                                                     |                                          |            |
+| [Celeron E1600](http://ark.intel.com/zh-tw/products/34751) | 2.4 GHz | 12× |                                                   |                                                      |                                                         |    |                                |                                                     |                                          |            |
 
 #### Wolfdale (45 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](../Page/EM64T.md "wikilink")、[NX
-    Bit](../Page/NX_Bit.md "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[NX
+    Bit](https://zh.wikipedia.org/wiki/NX_Bit "wikilink")、[SpeedStep](../Page/SpeedStep.md "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
-| 型號                                                         | 步進      | 核心    | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                       | 發佈日期    |
-| ---------------------------------------------------------- | ------- | ----- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------- | ------- |
-| [Celeron E3200](http://ark.intel.com/zh-tw/products/42770) | R0      | 2     | 2.4 GHz                        | 1 MB                              | 800 MT/s                             | 12× | 0.85–1.36 V                    | 65 W                             | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月 |
-| [Celeron E3300](http://ark.intel.com/zh-tw/products/42771) | 2.5 GHz | 12.5× |                                |                                   |                                      |     |                                |                                  |                                          |         |
-| [Celeron E3400](http://ark.intel.com/zh-tw/products/42772) | 2.6 GHz | 13×   | 2010年1月17日                     |                                   |                                      |     |                                |                                  |                                          |         |
-| [Celeron E3500](http://ark.intel.com/zh-tw/products/42773) | 2.7 GHz | 13.5× | 2010年8月29日                     |                                   |                                      |     |                                |                                  |                                          |         |
+| 型號                                                         | 步進      | 核心    | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                       | 發佈日期    |
+| ---------------------------------------------------------- | ------- | ----- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | ------- |
+| [Celeron E3200](http://ark.intel.com/zh-tw/products/42770) | R0      | 2     | 2.4 GHz                                           | 1 MB                                                 | 800 MT/s                                                | 12× | 0.85–1.36 V                    | 65 W                                                | [LGA 775](../Page/LGA_775.md "wikilink") | 2009年8月 |
+| [Celeron E3300](http://ark.intel.com/zh-tw/products/42771) | 2.5 GHz | 12.5× |                                                   |                                                      |                                                         |     |                                |                                                     |                                          |         |
+| [Celeron E3400](http://ark.intel.com/zh-tw/products/42772) | 2.6 GHz | 13×   | 2010年1月17日                                        |                                                      |                                                         |     |                                |                                                     |                                          |         |
+| [Celeron E3500](http://ark.intel.com/zh-tw/products/42773) | 2.7 GHz | 13.5× | 2010年8月29日                                        |                                                      |                                                         |     |                                |                                                     |                                          |         |
 
-### [Westmere微架構](../Page/Westmere微架構.md "wikilink")
+### [Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")
 
 #### Clarkdale (32 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
-| 型號                                                         | 步進 | 核心 | 時脈頻率     | 快取       | 顯示晶片 | 記憶體控制器                                                    | TDP                                         | 腳座   | 發佈日期                                       |
-| ---------------------------------------------------------- | -- | -- | -------- | -------- | ---- | --------------------------------------------------------- | ------------------------------------------- | ---- | ------------------------------------------ |
-| L2                                                         | L3 |    |          |          |      |                                                           |                                             |      |                                            |
-| <font color=white>**標準功耗**</font>                          |    |    |          |          |      |                                                           |                                             |      |                                            |
-| [Celeron G1101](http://ark.intel.com/zh-tw/products/43523) | C2 | 2  | 2.26 GHz | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (533 MHz) | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 73 W | [LGA 1156](../Page/LGA_1156.md "wikilink") |
+| 型號                                                         | 步進 | 核心 | 時脈頻率     | 快取       | 顯示晶片 | 記憶體控制器                                                    | TDP                                                            | 腳座   | 發佈日期                                       |
+| ---------------------------------------------------------- | -- | -- | -------- | -------- | ---- | --------------------------------------------------------- | -------------------------------------------------------------- | ---- | ------------------------------------------ |
+| L2                                                         | L3 |    |          |          |      |                                                           |                                                                |      |                                            |
+| <font color=white>**標準功耗**</font>                          |    |    |          |          |      |                                                           |                                                                |      |                                            |
+| [Celeron G1101](http://ark.intel.com/zh-tw/products/43523) | C2 | 2  | 2.26 GHz | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (533 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 73 W | [LGA 1156](../Page/LGA_1156.md "wikilink") |
 
 ### [Sandy Bridge微架構](../Page/Sandy_Bridge微架構.md "wikilink")
 
 #### Sandy Bridge (32 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](../Page/EM64T.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[EIST](../Page/EIST.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
@@ -363,11 +364,11 @@
 <td><p>2.4 GHz</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
-<td><p>Intel <a href="../Page/HD_Graphics.md" title="wikilink">HD Graphics</a><br />
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
 (0.85 / 1 GHz)</p></td>
-<td><p><a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="../Page/LGA_1155.md" title="wikilink">LGA 1155</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/53416">Celeron G540</a></p></td>
@@ -424,11 +425,11 @@
 <td><p>1.6 GHz</p></td>
 <td><p>256 KB</p></td>
 <td><p>1 MB</p></td>
-<td><p>Intel <a href="../Page/HD_Graphics.md" title="wikilink">HD Graphics</a><br />
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
 (0.65 / 1 GHz)</p></td>
-<td><p><a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1066 MHz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1066 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/LGA_1155.md" title="wikilink">LGA 1155</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="http://ark.intel.com/zh-tw/products/63913">Celeron G460</a></p></td>
@@ -507,9 +508,9 @@
 
 #### Ivy Bridge (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](../Page/EM64T.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[EIST](../Page/EIST.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、ECC*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、SSE4.1、SSE4.2、[EM64T](https://zh.wikipedia.org/wiki/EM64T "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、ECC*
 
 <table>
 <thead>
@@ -558,11 +559,11 @@
 <td><p>2.6 GHz</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
-<td><p>Intel <a href="../Page/HD_Graphics.md" title="wikilink">HD Graphics</a><br />
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
 (0.65 / 1.05 GHz)</p></td>
-<td><p><a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>55 W</p></td>
-<td><p><a href="../Page/LGA_1155.md" title="wikilink">LGA 1155</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/71073">Celeron G1620</a></p></td>
@@ -607,11 +608,11 @@
 <td><p>2.3 GHz</p></td>
 <td><p>2×256 KB</p></td>
 <td><p>2 MB</p></td>
-<td><p>Intel <a href="../Page/HD_Graphics.md" title="wikilink">HD Graphics</a><br />
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/HD_Graphics" title="wikilink">HD Graphics</a><br />
 (0.65 / 1.05 GHz)</p></td>
-<td><p><a href="../Page/DDR3.md" title="wikilink">DDR3</a>-1333 MHz</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a>-1333 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/LGA_1155.md" title="wikilink">LGA 1155</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1155" title="wikilink">LGA 1155</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/76345">Celeron G1620T</a></p></td>
@@ -633,7 +634,7 @@
 #### "Bay Trail-D" (22 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[EIST](../Page/SpeedStep.md "wikilink")、[Intel
-    VT-x](../Page/Intel_VT.md "wikilink").*
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink").*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Ivy Bridge Intel HD Graphics，包含4个EU单元和支持[DirectX
     11](../Page/DirectX.md "wikilink")，OpenGL 4.0，OpenGL ES 3.0以及 OpenCL
@@ -734,8 +735,9 @@
 
 #### "Braswell" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")、[Intel
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
     VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于[Broadwell](../Page/Broadwell微架構.md "wikilink") Intel HD
@@ -753,8 +755,8 @@
 
 #### Haswell (22 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")*
 
 <table>
 <thead>
@@ -911,8 +913,9 @@
 
 #### "Skylake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")、[Intel
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
     VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI、Smart Cache.*
   - 全部型号支持DDR3-1600或DDR4-2133内存
   - 全部型号均支持ECC内存
@@ -935,8 +938,9 @@
 
 #### "Apollo Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")、[Intel
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
     VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Skylake Intel HD Graphics，包含12个EU单元和支持[DirectX
@@ -954,8 +958,9 @@
 
 #### "Gemini Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")、[Intel
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
     VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - GPU和内存控制器均集成到[die中](../Page/裸晶.md "wikilink")
   - GPU基于Kaby Lake Intel HD Graphics，包含12个EU单元和支持[DirectX
@@ -972,8 +977,9 @@
 
 #### "Kaby Lake-S" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](../Page/AVX指令集.md "wikilink")、[AVX2](../Page/AVX2.md "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
-    、[Intel VT-x](../Page/Intel_VT.md "wikilink")、[Intel
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[EM64T](../Page/X86-64.md "wikilink")、[XD-bit](../Page/NX位元.md "wikilink")、ASE-NI、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")、[AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink")、[FMA3](../Page/FMA指令集.md "wikilink")、[FMA4](../Page/FMA指令集.md "wikilink")
+    、[Intel
+    VT-x](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")、[Intel
     VT-d](../Page/X86虚拟化.md "wikilink")、AES-NI*
   - 全部型号均支持DDR3-1600或者DDR4-2400内存（嵌入式型号支持DDR4-2133）
   - 所有型号均支持ECC内存
@@ -991,7 +997,7 @@
 | <font color=white>**嵌入式低功耗**</font>                            |                       |       |              |         |       |                 |             |                                    |      |          |
 | [Celeron G3930TE](https://ark.intel.com/zh-cn/products/122825) | SR38H (B0)            | 2/2   | 2.7          | 2 x 256 | 2     | HD Graphics 610 | 350–950     | DDR4-2133, DDR3L-1600              | 35 W | LGA 1151 |
 
-### [Coffee Lake微架构](../Page/Coffee_Lake微架构.md "wikilink")
+### [Coffee Lake微架构](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")
 
 #### "Coffee Lake-S" (14 nm)
 
@@ -1017,12 +1023,12 @@
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1050,8 +1056,8 @@ mcbA0</p></td>
 <td><p>4×</p></td>
 <td><p>1.5 V</p></td>
 <td><p>9.8 W</p></td>
-<td><p><a href="../Page/Socket_615.md" title="wikilink">Socket 615</a> 或<br />
-<a href="../Page/BGA.md" title="wikilink">BGA</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_615" title="wikilink">Socket 615</a> 或<br />
+<a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 2</p></td>
 <td><p>1999年1月</p></td>
 </tr>
 <tr class="odd">
@@ -1147,7 +1153,7 @@ mcbA0</p></td>
 <td><p>4×</p></td>
 <td><p>1.5 V</p></td>
 <td><p>7.9 W</p></td>
-<td><p><a href="../Page/BGA.md" title="wikilink">BGA</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 2</p></td>
 <td><p>1999年4月</p></td>
 </tr>
 </tbody>
@@ -1162,12 +1168,12 @@ mcbA0</p></td>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1194,8 +1200,8 @@ mcbA0</p></td>
 <td><p>4.5×</p></td>
 <td><p>1.6 V</p></td>
 <td><p>15.5 W</p></td>
-<td><p><a href="../Page/Socket_495.md" title="wikilink">Socket 495</a> 或<br />
-<a href="../Page/BGA.md" title="wikilink">BGA</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_495" title="wikilink">Socket 495</a> 或<br />
+<a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 2</p></td>
 <td><p>2000年2月14日</p></td>
 </tr>
 <tr class="odd">
@@ -1375,7 +1381,7 @@ mcbA0</p></td>
 <td><p>4×</p></td>
 <td><p>1.35 V</p></td>
 <td><p>10.1 W</p></td>
-<td><p><a href="../Page/BGA.md" title="wikilink">BGA</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 2</p></td>
 <td><p>2000年2月</p></td>
 </tr>
 <tr class="even">
@@ -1423,7 +1429,7 @@ mcbA0</p></td>
 <td><p>5×</p></td>
 <td><p>1.1 V</p></td>
 <td><p>8.1 W</p></td>
-<td><p><a href="../Page/BGA.md" title="wikilink">BGA</a> 2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 2</p></td>
 <td><p>2001年1月30日</p></td>
 </tr>
 <tr class="even">
@@ -1445,25 +1451,25 @@ mcbA0</p></td>
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")*
 
-| 型號                                                                                                     | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| ------------------------------------------------------------------------------------------------------ | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                                                                      |          |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron 1000](http://ark.intel.com/zh-tw/products/27305)                                       | B1       | 1 GHz                          | 256 KB                            | 133 MT/s                             | 7.5×       | 1.4 V                          | 22 W                             | [Socket 478](../Page/Socket_478.md "wikilink") | 2002年4月17日 |
-| [Mobile Celeron 1066](http://ark.intel.com/zh-tw/products/27306)                                       | 1.06 GHz | 8×                             | 1.45 V                            | 23.2 W                               | 2002年1月21日 |                                |                                  |                                                |            |
-| [Mobile Celeron 1133](http://ark.intel.com/zh-tw/products/27307)                                       | 1.13 GHz | 8.5×                           | 23.8 W                            |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron 1200](http://ark.intel.com/zh-tw/products/27308)                                       | 1.2 GHz  | 9×                             | 24.4 W                            |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron 1266](http://www.cpu-world.com/sspec/SL/SL6Z9.html)                                    | 1.26 GHz | 9.5×                           | 1.4 V                             | 22 W                                 | 2003年4月16日 |                                |                                  |                                                |            |
-| [Mobile Celeron 1333](http://ark.intel.com/zh-tw/products/27311)                                       | 1.33 GHz | 10×                            | 1.5 V                             | 19 W                                 | 2002年6月24日 |                                |                                  |                                                |            |
-| <font color=white>**低功耗**</font>                                                                       |          |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron LV 650](http://ark.intel.com/zh-tw/products/27338)                                     | B1       | 650 MHz                        | 256 KB                            | 100 MT/s                             | 6.5×       | 1.15 V                         | 10.6 W                           | [Socket 479](../Page/Socket_479.md "wikilink") | 2001年10月1日 |
-| [Mobile Celeron LV 667](http://www.cpu-world.com/sspec/SL/SL63D.html)                                  | 667 MHz  | 133 MT/s                       | 5×                                |                                      | 2002年9月16日 |                                |                                  |                                                |            |
-| [Mobile Celeron LV 733](http://ark.intel.com/zh-tw/products/31827)                                     | 733 MHz  | 5.5×                           | 11.2 W                            | 2002年4月17日                           |            |                                |                                  |                                                |            |
-| [Mobile Celeron LV 866](http://www.cpu-world.com/sspec/SL/SL6CY.html)                                  | 866 MHz  | 6.5×                           | 9.61 W                            | 2003年1月14日                           |            |                                |                                  |                                                |            |
-| <font color=white>**超低功耗**</font>                                                                      |          |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron ULV 650](http://www.x86-guide.com/en/cpu/Intel-Celeron-650-Mobile-ULV-cpu-no2660.html) | B1       | 650 MHz                        | 256 KB                            | 100 MT/s                             | 6.5×       | 1.1 V                          | 7 W                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2002年1月21日 |
-| [Mobile Celeron ULV 700](http://www.cpu-world.com/sspec/SL/SL6CZ.html)                                 | 700 MHz  | 7×                             | 2002年9月16日                        |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron ULV 733](http://www.cpu-world.com/sspec/SL/SL6D2.html)                                 | 733 MHz  | 133 MT/s                       | 5.5×                              |                                      |            |                                |                                  |                                                |            |
-| [Mobile Celeron ULV 800](http://www.cpu-world.com/sspec/SL/SL6D4.html)                                 | 800 MHz  | 6×                             | 2003年1月14日                        |                                      |            |                                |                                  |                                                |            |
+| 型號                                                                                                     | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期       |
+| ------------------------------------------------------------------------------------------------------ | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                                      |          |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron 1000](http://ark.intel.com/zh-tw/products/27305)                                       | B1       | 1 GHz                                             | 256 KB                                               | 133 MT/s                                                | 7.5×       | 1.4 V                          | 22 W                                                | [Socket 478](../Page/Socket_478.md "wikilink") | 2002年4月17日 |
+| [Mobile Celeron 1066](http://ark.intel.com/zh-tw/products/27306)                                       | 1.06 GHz | 8×                                                | 1.45 V                                               | 23.2 W                                                  | 2002年1月21日 |                                |                                                     |                                                |            |
+| [Mobile Celeron 1133](http://ark.intel.com/zh-tw/products/27307)                                       | 1.13 GHz | 8.5×                                              | 23.8 W                                               |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron 1200](http://ark.intel.com/zh-tw/products/27308)                                       | 1.2 GHz  | 9×                                                | 24.4 W                                               |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron 1266](http://www.cpu-world.com/sspec/SL/SL6Z9.html)                                    | 1.26 GHz | 9.5×                                              | 1.4 V                                                | 22 W                                                    | 2003年4月16日 |                                |                                                     |                                                |            |
+| [Mobile Celeron 1333](http://ark.intel.com/zh-tw/products/27311)                                       | 1.33 GHz | 10×                                               | 1.5 V                                                | 19 W                                                    | 2002年6月24日 |                                |                                                     |                                                |            |
+| <font color=white>**低功耗**</font>                                                                       |          |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron LV 650](http://ark.intel.com/zh-tw/products/27338)                                     | B1       | 650 MHz                                           | 256 KB                                               | 100 MT/s                                                | 6.5×       | 1.15 V                         | 10.6 W                                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2001年10月1日 |
+| [Mobile Celeron LV 667](http://www.cpu-world.com/sspec/SL/SL63D.html)                                  | 667 MHz  | 133 MT/s                                          | 5×                                                   |                                                         | 2002年9月16日 |                                |                                                     |                                                |            |
+| [Mobile Celeron LV 733](http://ark.intel.com/zh-tw/products/31827)                                     | 733 MHz  | 5.5×                                              | 11.2 W                                               | 2002年4月17日                                              |            |                                |                                                     |                                                |            |
+| [Mobile Celeron LV 866](http://www.cpu-world.com/sspec/SL/SL6CY.html)                                  | 866 MHz  | 6.5×                                              | 9.61 W                                               | 2003年1月14日                                              |            |                                |                                                     |                                                |            |
+| <font color=white>**超低功耗**</font>                                                                      |          |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron ULV 650](http://www.x86-guide.com/en/cpu/Intel-Celeron-650-Mobile-ULV-cpu-no2660.html) | B1       | 650 MHz                                           | 256 KB                                               | 100 MT/s                                                | 6.5×       | 1.1 V                          | 7 W                                                 | [Socket 479](../Page/Socket_479.md "wikilink") | 2002年1月21日 |
+| [Mobile Celeron ULV 700](http://www.cpu-world.com/sspec/SL/SL6CZ.html)                                 | 700 MHz  | 7×                                                | 2002年9月16日                                           |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron ULV 733](http://www.cpu-world.com/sspec/SL/SL6D2.html)                                 | 733 MHz  | 133 MT/s                                          | 5.5×                                                 |                                                         |            |                                |                                                     |                                                |            |
+| [Mobile Celeron ULV 800](http://www.cpu-world.com/sspec/SL/SL6D4.html)                                 | 800 MHz  | 6×                                                | 2003年1月14日                                           |                                                         |            |                                |                                                     |                                                |            |
 
 ### [NetBurst微架構](../Page/NetBurst微架構.md "wikilink")
 
@@ -1471,72 +1477,72 @@ mcbA0</p></td>
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
-| 型號                                                              | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期    |
-| --------------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ------- |
-| <font color=white>**標準功耗**</font>                               |         |                                |                                   |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 1.2](http://ark.intel.com/zh-tw/products/27309) | D1      | 1.2 GHz                        | 256 KB                            | 400 MT/s                             | 12×        | 1.3 V                          | 20.8 W                           | [Socket 478](../Page/Socket_478.md "wikilink") | 2002年5月 |
-| [Mobile Celeron 1.4](http://ark.intel.com/zh-tw/products/27312) | C1      | 1.4 GHz                        | 14×                               | 30 W                                 | 2002年6月24日 |                                |                                  |                                                |         |
-| [Mobile Celeron 1.5](http://ark.intel.com/zh-tw/products/27313) | 1.5 GHz | 15×                            |                                   |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 1.6](http://ark.intel.com/zh-tw/products/27314) | 1.6 GHz | 16×                            | 2002年9月16日                        |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 1.7](http://ark.intel.com/zh-tw/products/27315) | D1      | 1.7 GHz                        | 17×                               |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 1.8](http://ark.intel.com/zh-tw/products/27316) | 1.8 GHz | 18×                            |                                   |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 2.0](http://ark.intel.com/zh-tw/products/27317) | 2.0 GHz | 20×                            | 32 W                              | 2003年1月14日                           |            |                                |                                  |                                                |         |
-| [Mobile Celeron 2.2](http://ark.intel.com/zh-tw/products/27318) | 2.2 GHz | 22×                            | 35 W                              | 2003年4月16日                           |            |                                |                                  |                                                |         |
-| [Mobile Celeron 2.4](http://ark.intel.com/zh-tw/products/27319) | 2.4 GHz | 24×                            | 2003年6月11日                        |                                      |            |                                |                                  |                                                |         |
-| [Mobile Celeron 2.5](http://ark.intel.com/zh-tw/products/27320) | 2.5 GHz | 25×                            | 2003年11月12日                       |                                      |            |                                |                                  |                                                |         |
+| 型號                                                              | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期    |
+| --------------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ------- |
+| <font color=white>**標準功耗**</font>                               |         |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 1.2](http://ark.intel.com/zh-tw/products/27309) | D1      | 1.2 GHz                                           | 256 KB                                               | 400 MT/s                                                | 12×        | 1.3 V                          | 20.8 W                                              | [Socket 478](../Page/Socket_478.md "wikilink") | 2002年5月 |
+| [Mobile Celeron 1.4](http://ark.intel.com/zh-tw/products/27312) | C1      | 1.4 GHz                                           | 14×                                                  | 30 W                                                    | 2002年6月24日 |                                |                                                     |                                                |         |
+| [Mobile Celeron 1.5](http://ark.intel.com/zh-tw/products/27313) | 1.5 GHz | 15×                                               |                                                      |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 1.6](http://ark.intel.com/zh-tw/products/27314) | 1.6 GHz | 16×                                               | 2002年9月16日                                           |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 1.7](http://ark.intel.com/zh-tw/products/27315) | D1      | 1.7 GHz                                           | 17×                                                  |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 1.8](http://ark.intel.com/zh-tw/products/27316) | 1.8 GHz | 18×                                               |                                                      |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 2.0](http://ark.intel.com/zh-tw/products/27317) | 2.0 GHz | 20×                                               | 32 W                                                 | 2003年1月14日                                              |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 2.2](http://ark.intel.com/zh-tw/products/27318) | 2.2 GHz | 22×                                               | 35 W                                                 | 2003年4月16日                                              |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 2.4](http://ark.intel.com/zh-tw/products/27319) | 2.4 GHz | 24×                                               | 2003年6月11日                                           |                                                         |            |                                |                                                     |                                                |         |
+| [Mobile Celeron 2.5](http://ark.intel.com/zh-tw/products/27320) | 2.5 GHz | 25×                                               | 2003年11月12日                                          |                                                         |            |                                |                                                     |                                                |         |
 
 #### Banias-512 (130 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")*
 
-| 型號                                                             | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期      |
-| -------------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ---------------------------------------------- | --------- |
-| <font color=white>**標準功耗**</font>                              |         |                                |                                   |                                      |     |                                |                                  |                                                |           |
-| [Celeron M 310](http://ark.intel.com/zh-tw/products/27138)     | B2      | 1.2 GHz                        | 512 KB                            | 400 MT/s                             | 12× | 1.356 V                        | 24.5 W                           | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年1月6日 |
-| [Celeron M 320](http://ark.intel.com/zh-tw/products/27139)     | C0      | 1.3 GHz                        | 13×                               |                                      |     |                                |                                  |                                                |           |
-| [Celeron M 330](http://ark.intel.com/zh-tw/products/27140)     | 1.4 GHz | 14×                            | 2004年4月                           |                                      |     |                                |                                  |                                                |           |
-| [Celeron M 340](http://ark.intel.com/zh-tw/products/27141)     | B2      | 1.5 GHz                        | 15×                               | 2004年6月                              |     |                                |                                  |                                                |           |
-| <font color=white>**超低功耗**</font>                              |         |                                |                                   |                                      |     |                                |                                  |                                                |           |
-| [Celeron M ULV 600](http://ark.intel.com/zh-tw/products/37245) | B2      | 600 MHz                        | 512 KB                            | 400 MT/s                             | 6×  | 1.004 V                        | 7 W                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年6月   |
-| [Celeron M ULV 800](http://ark.intel.com/zh-tw/products/27162) | B1      | 800 MHz                        | 8×                                | 2004年1月                              |     |                                |                                  |                                                |           |
-| [Celeron M ULV 333](http://ark.intel.com/zh-tw/products/27156) | 900 MHz | 9×                             |                                   |                                      |     |                                |                                  |                                                |           |
+| 型號                                                             | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期      |
+| -------------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | --------- |
+| <font color=white>**標準功耗**</font>                              |         |                                                   |                                                      |                                                         |     |                                |                                                     |                                                |           |
+| [Celeron M 310](http://ark.intel.com/zh-tw/products/27138)     | B2      | 1.2 GHz                                           | 512 KB                                               | 400 MT/s                                                | 12× | 1.356 V                        | 24.5 W                                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年1月6日 |
+| [Celeron M 320](http://ark.intel.com/zh-tw/products/27139)     | C0      | 1.3 GHz                                           | 13×                                                  |                                                         |     |                                |                                                     |                                                |           |
+| [Celeron M 330](http://ark.intel.com/zh-tw/products/27140)     | 1.4 GHz | 14×                                               | 2004年4月                                              |                                                         |     |                                |                                                     |                                                |           |
+| [Celeron M 340](http://ark.intel.com/zh-tw/products/27141)     | B2      | 1.5 GHz                                           | 15×                                                  | 2004年6月                                                 |     |                                |                                                     |                                                |           |
+| <font color=white>**超低功耗**</font>                              |         |                                                   |                                                      |                                                         |     |                                |                                                     |                                                |           |
+| [Celeron M ULV 600](http://ark.intel.com/zh-tw/products/37245) | B2      | 600 MHz                                           | 512 KB                                               | 400 MT/s                                                | 6×  | 1.004 V                        | 7 W                                                 | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年6月   |
+| [Celeron M ULV 800](http://ark.intel.com/zh-tw/products/27162) | B1      | 800 MHz                                           | 8×                                                   | 2004年1月                                                 |     |                                |                                                     |                                                |           |
+| [Celeron M ULV 333](http://ark.intel.com/zh-tw/products/27156) | 900 MHz | 9×                                                |                                                      |                                                         |     |                                |                                                     |                                                |           |
 
 #### Dothan (90 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
-  - 只有M 350不支援[XD bit](../Page/XD_bit.md "wikilink")。
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
+  - 只有M 350不支援[XD bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")。
 
-| 型號                                                                                                                            | 步進      | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                             | 發佈日期       |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------ | --------------------------------- | ------------------------------------ | ---------- | ------------------------------ | -------------------------------- | ---------------------------------------------- | ---------- |
-| <font color=white>**標準功耗**</font>                                                                                             |         |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Celeron M 205](http://www.cpu-world.com/CPUs/Celeron_M/Intel-Celeron%20M%20205%20RJ80536NC009512%20-%20LE80536NC009512.html) | C0      | 1.2 GHz                        | 512 KB                            | 400 MT/s                             | 12×        | 1.26 V                         | 21 W                             | [Socket 479](../Page/Socket_479.md "wikilink") | 2007年3月    |
-| [Celeron M 350](http://ark.intel.com/zh-tw/products/27142)                                                                    | C1      | 1.3 GHz                        | 1 MB                              | 13×                                  | 1 - 1.29 V | 2004年8月31日                     |                                  |                                                |            |
-| [Celeron M 360](http://ark.intel.com/zh-tw/products/27143)                                                                    | 1.4 GHz | 14×                            |                                   |                                      |            |                                |                                  |                                                |            |
-| [Celeron M 370](http://ark.intel.com/zh-tw/products/27145)                                                                    | C0      | 1.5 GHz                        | 15×                               | 2005年1月                              |            |                                |                                  |                                                |            |
-| [Celeron M 380](http://ark.intel.com/zh-tw/products/27146)                                                                    | 1.6 GHz | 16×                            | 2005年7月                           |                                      |            |                                |                                  |                                                |            |
-| [Celeron M 390](http://ark.intel.com/zh-tw/products/27147)                                                                    | 1.7 GHz | 17×                            | 2005年12月                          |                                      |            |                                |                                  |                                                |            |
-| <font color=white>**超低功耗**</font>                                                                                             |         |                                |                                   |                                      |            |                                |                                  |                                                |            |
-| [Celeron M ULV 353](http://ark.intel.com/zh-tw/products/27157)                                                                | B0      | 0.9 GHz                        | 512 KB                            | 400 MT/s                             | 9×         | 0.88 - 0.94 V                  | 5 W                              | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年7月20日 |
-| [Celeron M ULV 373](http://ark.intel.com/zh-tw/products/27158)                                                                | C0      | 1 GHz                          | 10×                               | 5.5 W                                | 2005年1月    |                                |                                  |                                                |            |
-| [Celeron M ULV 383](http://ark.intel.com/zh-tw/products/27159)                                                                | 1 MB    | 0.88 - 0.956 V                 | 5 W                               | 2005年7月                              |            |                                |                                  |                                                |            |
+| 型號                                                                                                                            | 步進      | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻         | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                             | 發佈日期       |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ---------- | ------------------------------ | --------------------------------------------------- | ---------------------------------------------- | ---------- |
+| <font color=white>**標準功耗**</font>                                                                                             |         |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Celeron M 205](http://www.cpu-world.com/CPUs/Celeron_M/Intel-Celeron%20M%20205%20RJ80536NC009512%20-%20LE80536NC009512.html) | C0      | 1.2 GHz                                           | 512 KB                                               | 400 MT/s                                                | 12×        | 1.26 V                         | 21 W                                                | [Socket 479](../Page/Socket_479.md "wikilink") | 2007年3月    |
+| [Celeron M 350](http://ark.intel.com/zh-tw/products/27142)                                                                    | C1      | 1.3 GHz                                           | 1 MB                                                 | 13×                                                     | 1 - 1.29 V | 2004年8月31日                     |                                                     |                                                |            |
+| [Celeron M 360](http://ark.intel.com/zh-tw/products/27143)                                                                    | 1.4 GHz | 14×                                               |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Celeron M 370](http://ark.intel.com/zh-tw/products/27145)                                                                    | C0      | 1.5 GHz                                           | 15×                                                  | 2005年1月                                                 |            |                                |                                                     |                                                |            |
+| [Celeron M 380](http://ark.intel.com/zh-tw/products/27146)                                                                    | 1.6 GHz | 16×                                               | 2005年7月                                              |                                                         |            |                                |                                                     |                                                |            |
+| [Celeron M 390](http://ark.intel.com/zh-tw/products/27147)                                                                    | 1.7 GHz | 17×                                               | 2005年12月                                             |                                                         |            |                                |                                                     |                                                |            |
+| <font color=white>**超低功耗**</font>                                                                                             |         |                                                   |                                                      |                                                         |            |                                |                                                     |                                                |            |
+| [Celeron M ULV 353](http://ark.intel.com/zh-tw/products/27157)                                                                | B0      | 0.9 GHz                                           | 512 KB                                               | 400 MT/s                                                | 9×         | 0.88 - 0.94 V                  | 5 W                                                 | [Socket 479](../Page/Socket_479.md "wikilink") | 2004年7月20日 |
+| [Celeron M ULV 373](http://ark.intel.com/zh-tw/products/27158)                                                                | C0      | 1 GHz                                             | 10×                                                  | 5.5 W                                                   | 2005年1月    |                                |                                                     |                                                |            |
+| [Celeron M ULV 383](http://ark.intel.com/zh-tw/products/27159)                                                                | 1 MB    | 0.88 - 0.956 V                                    | 5 W                                                  | 2005年7月                                                 |            |                                |                                                     |                                                |            |
 
 #### Yonah (65 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
 <tr class="header">
 <th><p>型號</p></th>
 <th><p>步進</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1563,7 +1569,7 @@ mcbA0</p></td>
 <td><p>10×</p></td>
 <td><p>1 - 1.3 V</p></td>
 <td><p>27 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2007年8月</p></td>
 </tr>
 <tr class="odd">
@@ -1606,7 +1612,7 @@ mcbA0</p></td>
 <td><p><a href="http://ark.intel.com/zh-tw/products/27151">Celeron M 440</a></p></td>
 <td><p>1.86 GHz</p></td>
 <td><p>14×</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a> 或<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a> 或<br />
 <a href="../Page/Socket_479.md" title="wikilink">Socket 479</a></p></td>
 <td><p>2006年10月</p></td>
 <td></td>
@@ -1619,7 +1625,7 @@ mcbA0</p></td>
 <td><p><a href="http://ark.intel.com/zh-tw/products/27152">Celeron M 450</a></p></td>
 <td><p>2 GHz</p></td>
 <td><p>15×</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1648,7 +1654,7 @@ mcbA0</p></td>
 <td><p>8×</p></td>
 <td><p>0.95 - 0.975 V</p></td>
 <td><p>5.5 W</p></td>
-<td><p><a href="../Page/BGA.md" title="wikilink">BGA</a> 6</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 6</p></td>
 <td><p>2006年4月</p></td>
 </tr>
 <tr class="even">
@@ -1668,22 +1674,22 @@ mcbA0</p></td>
 
 #### Sossaman (65 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
 
-| 型號                                                        | 步進       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期    |
-| --------------------------------------------------------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | --- | ------------------------------ | -------------------------------- | ------------------------------------------ | ------- |
-| [Celeron 1.66](http://ark.intel.com/zh-tw/products/30543) | D0       | 1.66 GHz                       | 1 MB                              | 667 MT/s                             | 10× | 1.113 - 1.25 V                 | 27 W                             | [Socket M](../Page/Socket_M.md "wikilink") | 2006年3月 |
-| [Celeron 1.83](http://ark.intel.com/zh-tw/products/30544) | 1.83 GHz | 11×                            | 2007年1月                           |                                      |     |                                |                                  |                                            |         |
+| 型號                                                        | 步進       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻  | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期    |
+| --------------------------------------------------------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | --- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- | ------- |
+| [Celeron 1.66](http://ark.intel.com/zh-tw/products/30543) | D0       | 1.66 GHz                                          | 1 MB                                                 | 667 MT/s                                                | 10× | 1.113 - 1.25 V                 | 27 W                                                | [Socket M](https://zh.wikipedia.org/wiki/Socket_M "wikilink") | 2006年3月 |
+| [Celeron 1.83](http://ark.intel.com/zh-tw/products/30544) | 1.83 GHz | 11×                                               | 2007年1月                                              |                                                         |     |                                |                                                     |                                                               |         |
 
 ### [Core微架構](../Page/Core微架構.md "wikilink")
 
 #### Merom / -L (65 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
 <table>
 <thead>
@@ -1691,12 +1697,12 @@ mcbA0</p></td>
 <th><p>型號</p></th>
 <th><p>步進</p></th>
 <th><p>核心</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1725,7 +1731,7 @@ mcbA0</p></td>
 <td><p>12×</p></td>
 <td><p>0.95 - 1.3 V</p></td>
 <td><p>30 W</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a></p></td>
 <td><p>2007年1月</p></td>
 </tr>
 <tr class="odd">
@@ -1733,8 +1739,8 @@ mcbA0</p></td>
 <td><p>G2</p></td>
 <td><p>1.73 GHz</p></td>
 <td><p>13×</p></td>
-<td><p><a href="../Page/Socket_M.md" title="wikilink">Socket M</a><br />
-<a href="../Page/BGA.md" title="wikilink">BGA</a> 6</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_M" title="wikilink">Socket M</a><br />
+<a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 6</p></td>
 <td><p>2007年9月5日</p></td>
 <td></td>
 <td></td>
@@ -1745,7 +1751,7 @@ mcbA0</p></td>
 <tr class="even">
 <td><p><a href="http://ark.intel.com/zh-tw/products/33100">Celeron 530</a></p></td>
 <td><p>E1</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2007年7月8日</p></td>
 <td></td>
 <td></td>
@@ -1830,7 +1836,7 @@ mcbA0</p></td>
 <td><p>7×</p></td>
 <td><p>0.85 - 1.1 V</p></td>
 <td><p>5.5 W</p></td>
-<td><p><a href="../Page/BGA.md" title="wikilink">BGA</a> 6</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA" title="wikilink">BGA</a> 6</p></td>
 <td><p>2007年9月2日</p></td>
 </tr>
 <tr class="odd">
@@ -1852,25 +1858,25 @@ mcbA0</p></td>
 #### Merom-2M (65 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")*
 
-| 型號                                                            | 步進       | 核心       | [時脈](../Page/時脈.md "wikilink") | L2 [快取](../Page/快取.md "wikilink") | [前端匯流排](../Page/前端匯流排.md "wikilink") | 倍頻      | [電壓](../Page/電壓.md "wikilink") | [TDP](../Page/TDP.md "wikilink") | 插槽                                         | 發佈日期    |
-| ------------------------------------------------------------- | -------- | -------- | ------------------------------ | --------------------------------- | ------------------------------------ | ------- | ------------------------------ | -------------------------------- | ------------------------------------------ | ------- |
-| <font color=white>**標準功耗**</font>                             |          |          |                                |                                   |                                      |         |                                |                                  |                                            |         |
-| [Celeron 575](http://ark.intel.com/zh-tw/products/36680)      | M0       | 1        | 2 GHz                          | 1024 KB                           | 667 MT/s                             | 12×     | 1.07 - 1.17 V                  | 31 W                             | [Socket P](../Page/Socket_P.md "wikilink") | 2008年9月 |
-| [Celeron 585](http://ark.intel.com/zh-tw/products/36681)      | 2.16 GHz | 13×      |                                |                                   |                                      |         |                                |                                  |                                            |         |
-| [Celeron T1400](http://www.cpu-world.com/sspec/SL/SLAQL.html) | 2        | 1.73 GHz | 512 KB                         | 533 MT/s                          | 35 W                                 | 2008年7月 |                                |                                  |                                            |         |
-| [Celeron T1500](http://www.cpu-world.com/sspec/SL/SLAQK.html) | 1.86 GHz | 14×      |                                |                                   |                                      |         |                                |                                  |                                            |         |
-| [Celeron T1600](http://ark.intel.com/zh-tw/products/38979)    | 1.66 GHz | 1024 KB  | 667 MT/s                       | 10×                               | 2008年12月                             |         |                                |                                  |                                            |         |
-| [Celeron T1700](http://ark.intel.com/zh-tw/products/37119)    | 1.83 GHz | 11×      |                                |                                   |                                      |         |                                |                                  |                                            |         |
+| 型號                                                            | 步進       | 核心       | [時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink") | L2 [快取](https://zh.wikipedia.org/wiki/快取 "wikilink") | [前端匯流排](https://zh.wikipedia.org/wiki/前端匯流排 "wikilink") | 倍頻      | [電壓](../Page/電壓.md "wikilink") | [TDP](https://zh.wikipedia.org/wiki/TDP "wikilink") | 插槽                                                            | 發佈日期    |
+| ------------------------------------------------------------- | -------- | -------- | ------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------- | ------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------- | ------- |
+| <font color=white>**標準功耗**</font>                             |          |          |                                                   |                                                      |                                                         |         |                                |                                                     |                                                               |         |
+| [Celeron 575](http://ark.intel.com/zh-tw/products/36680)      | M0       | 1        | 2 GHz                                             | 1024 KB                                              | 667 MT/s                                                | 12×     | 1.07 - 1.17 V                  | 31 W                                                | [Socket P](https://zh.wikipedia.org/wiki/Socket_P "wikilink") | 2008年9月 |
+| [Celeron 585](http://ark.intel.com/zh-tw/products/36681)      | 2.16 GHz | 13×      |                                                   |                                                      |                                                         |         |                                |                                                     |                                                               |         |
+| [Celeron T1400](http://www.cpu-world.com/sspec/SL/SLAQL.html) | 2        | 1.73 GHz | 512 KB                                            | 533 MT/s                                             | 35 W                                                    | 2008年7月 |                                |                                                     |                                                               |         |
+| [Celeron T1500](http://www.cpu-world.com/sspec/SL/SLAQK.html) | 1.86 GHz | 14×      |                                                   |                                                      |                                                         |         |                                |                                                     |                                                               |         |
+| [Celeron T1600](http://ark.intel.com/zh-tw/products/38979)    | 1.66 GHz | 1024 KB  | 667 MT/s                                          | 10×                                                  | 2008年12月                                                |         |                                |                                                     |                                                               |         |
+| [Celeron T1700](http://ark.intel.com/zh-tw/products/37119)    | 1.83 GHz | 11×      |                                                   |                                                      |                                                         |         |                                |                                                     |                                                               |         |
 
 #### Penryn-3M (45 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")*
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")*
   - 雙核心系列支援[SSSE3及](../Page/SSSE3.md "wikilink")[XD
-    bit](../Page/XD_bit.md "wikilink")
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")
 
 <table>
 <thead>
@@ -1878,12 +1884,12 @@ mcbA0</p></td>
 <th><p>型號</p></th>
 <th><p>步進</p></th>
 <th><p>核心</p></th>
-<th><p><a href="../Page/時脈.md" title="wikilink">時脈</a></p></th>
-<th><p>L2 <a href="../Page/快取.md" title="wikilink">快取</a></p></th>
-<th><p><a href="../Page/前端匯流排.md" title="wikilink">前端匯流排</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
+<th><p>L2 <a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/前端匯流排" title="wikilink">前端匯流排</a></p></th>
 <th><p>倍頻</p></th>
 <th><p><a href="../Page/電壓.md" title="wikilink">電壓</a></p></th>
-<th><p><a href="../Page/TDP.md" title="wikilink">TDP</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
 <th><p>插槽</p></th>
 <th><p>發佈日期</p></th>
 </tr>
@@ -1912,7 +1918,7 @@ mcbA0</p></td>
 <td><p>11×</p></td>
 <td><p>1 - 1.25 V</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a></p></td>
 <td><p>2009年3月</p></td>
 </tr>
 <tr class="odd">
@@ -1945,8 +1951,8 @@ mcbA0</p></td>
 <td><p><a href="http://ark.intel.com/zh-tw/products/37258">Celeron T3100</a></p></td>
 <td><p>1.9 GHz</p></td>
 <td><p>9.5×</p></td>
-<td><p><a href="../Page/Socket_P.md" title="wikilink">Socket P</a><br />
-<a href="../Page/BGA_479.md" title="wikilink">BGA 479</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Socket_P" title="wikilink">Socket P</a><br />
+<a href="https://zh.wikipedia.org/wiki/BGA_479" title="wikilink">BGA 479</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2004,7 +2010,7 @@ mcbA0</p></td>
 <td><p>6×</p></td>
 <td><p>0.78 - 1.1 V</p></td>
 <td><p>5.5 W</p></td>
-<td><p><a href="../Page/BGA_956.md" title="wikilink">BGA 956</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BGA_956" title="wikilink">BGA 956</a></p></td>
 <td><p>2008年9月</p></td>
 </tr>
 <tr class="even">
@@ -2062,27 +2068,27 @@ mcbA0</p></td>
 </tbody>
 </table>
 
-### [Westmere微架構](../Page/Westmere微架構.md "wikilink")
+### [Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")
 
 #### Arrandale (32 nm)
 
   - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x*
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x*
   - P4505及U3405支援ECC記憶體
 
-| 型號                                                         | 步進                                         | 核心                                          | 時脈頻率                                         | 快取       | 顯示晶片 | 記憶體控制器                                                          | TDP                                         | 腳座   | 發佈日期                                         |
-| ---------------------------------------------------------- | ------------------------------------------ | ------------------------------------------- | -------------------------------------------- | -------- | ---- | --------------------------------------------------------------- | ------------------------------------------- | ---- | -------------------------------------------- |
-| L2                                                         | L3                                         |                                             |                                              |          |      |                                                                 |                                             |      |                                              |
-| <font color=white>**標準功耗**</font>                          |                                            |                                             |                                              |          |      |                                                                 |                                             |      |                                              |
-| [Celeron P4500](http://ark.intel.com/zh-tw/products/47552) | C2                                         | 2                                           | 1.86 GHz                                     | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (500 / 667 MHz) | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 35 W | [rPGA 988A](../Page/rPGA_988A.md "wikilink") |
-| [Celeron P4505](http://ark.intel.com/zh-tw/products/48141) | [BGA 1288](../Page/BGA_1288.md "wikilink") |                                             |                                              |          |      |                                                                 |                                             |      |                                              |
-| [Celeron P4600](http://ark.intel.com/zh-tw/products/52301) | K0                                         | 2 GHz                                       | [rPGA 988A](../Page/rPGA_988A.md "wikilink") | 2010年9月  |      |                                                                 |                                             |      |                                              |
-| <font color=white>**超低功耗**</font>                          |                                            |                                             |                                              |          |      |                                                                 |                                             |      |                                              |
-| [Celeron U3400](http://ark.intel.com/zh-tw/products/49157) | K0                                         | 2                                           | 1.06 GHz                                     | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (166 / 500 MHz) | [DDR3](../Page/DDR3.md "wikilink")-800 MHz  | 18 W | [BGA 1288](../Page/BGA_1288.md "wikilink")   |
-| [Celeron U3405](http://ark.intel.com/zh-tw/products/50155) | 1.66 GHz                                   | [DDR3](../Page/DDR3.md "wikilink")-1066 MHz | 2010年8月                                      |          |      |                                                                 |                                             |      |                                              |
-| [Celeron U3600](http://ark.intel.com/zh-tw/products/50030) | 1.2 GHz                                    | [DDR3](../Page/DDR3.md "wikilink")-800 MHz  | 2011年1月                                      |          |      |                                                                 |                                             |      |                                              |
+| 型號                                                         | 步進                                                            | 核心                                                             | 時脈頻率                                                            | 快取       | 顯示晶片 | 記憶體控制器                                                          | TDP                                                            | 腳座   | 發佈日期                                                            |
+| ---------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | -------- | ---- | --------------------------------------------------------------- | -------------------------------------------------------------- | ---- | --------------------------------------------------------------- |
+| L2                                                         | L3                                                            |                                                                |                                                                 |          |      |                                                                 |                                                                |      |                                                                 |
+| <font color=white>**標準功耗**</font>                          |                                                               |                                                                |                                                                 |          |      |                                                                 |                                                                |      |                                                                 |
+| [Celeron P4500](http://ark.intel.com/zh-tw/products/47552) | C2                                                            | 2                                                              | 1.86 GHz                                                        | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (500 / 667 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 35 W | [rPGA 988A](https://zh.wikipedia.org/wiki/rPGA_988A "wikilink") |
+| [Celeron P4505](http://ark.intel.com/zh-tw/products/48141) | [BGA 1288](https://zh.wikipedia.org/wiki/BGA_1288 "wikilink") |                                                                |                                                                 |          |      |                                                                 |                                                                |      |                                                                 |
+| [Celeron P4600](http://ark.intel.com/zh-tw/products/52301) | K0                                                            | 2 GHz                                                          | [rPGA 988A](https://zh.wikipedia.org/wiki/rPGA_988A "wikilink") | 2010年9月  |      |                                                                 |                                                                |      |                                                                 |
+| <font color=white>**超低功耗**</font>                          |                                                               |                                                                |                                                                 |          |      |                                                                 |                                                                |      |                                                                 |
+| [Celeron U3400](http://ark.intel.com/zh-tw/products/49157) | K0                                                            | 2                                                              | 1.06 GHz                                                        | 2×256 KB | 2 MB | [Intel GMA](../Page/Intel_GMA.md "wikilink") HD (166 / 500 MHz) | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-800 MHz  | 18 W | [BGA 1288](https://zh.wikipedia.org/wiki/BGA_1288 "wikilink")   |
+| [Celeron U3405](http://ark.intel.com/zh-tw/products/50155) | 1.66 GHz                                                      | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066 MHz | 2010年8月                                                         |          |      |                                                                 |                                                                |      |                                                                 |
+| [Celeron U3600](http://ark.intel.com/zh-tw/products/50030) | 1.2 GHz                                                       | [DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-800 MHz  | 2011年1月                                                         |          |      |                                                                 |                                                                |      |                                                                 |
 
 ### Sandy Bridge微架构
 
@@ -2536,7 +2542,7 @@ SR0EA (Q0)</p></td>
 | [Celeron 2950M](https://ark.intel.com/zh-cn/products/77403) | SR1HF (C0)            | 2/2   | 2            | 2 x 256 | 2     | HD Graphics (10 EUs) | 400–1100 MHz | DDR3L-1333, DDR3L-1600 | 37 W | rPGA946B |
 | [Celeron 2970M](https://ark.intel.com/zh-cn/products/81014) | SR1LF (C0)            | 2.2   | 2014年4月      |         |       |                      |              |                        |      |          |
 
-#### "Haswell-ULT" ([SiP](../Page/SiP.md "wikilink"), 22 nm)
+#### "Haswell-ULT" ([SiP](https://zh.wikipedia.org/wiki/SiP "wikilink"), 22 nm)
 
   - 支持:
     *[MMX、](../Page/MMX.md "wikilink")[SSE](../Page/SSE.md "wikilink")、
@@ -3014,11 +3020,11 @@ SR1HQ (B2)</p></td>
 
 #### "Apollo Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[SSE4.2](../Page/SSE4.2.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-d、[AES-NI](../Page/AES-NI.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                          | sSpec编号(步进)                                                                            | 核心/线程 | 处理器基本频率 | 脉冲频率    | 缓存                          | 处理器显卡                                                                                              | 内存控制器(MHz） | TDP      | 插槽         | 发布日期 |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----- | ------- | ------- | --------------------------- | -------------------------------------------------------------------------------------------------- | ---------- | -------- | ---------- | ---- |
@@ -3031,12 +3037,12 @@ SR1HQ (B2)</p></td>
 
 #### "Gemini Lake" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[SSE4.2](../Page/SSE4.2.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[Intel
-    SGX](../Page/Intel_SGX.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-d、[AES-NI](../Page/AES-NI.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
+    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进  | 核心/线程                         | 处理器基本频率 | 脉冲频率    | 缓存 （MB） | 处理器显卡                         | 内存控制器(MHz)        | TDP | 插槽       | 发布日期     |
 | ------------------------------------------------------------ | --- | ----------------------------- | ------- | ------- | ------- | ----------------------------- | ----------------- | --- | -------- | -------- |
@@ -3047,13 +3053,13 @@ SR1HQ (B2)</p></td>
 
 #### "Kaby Lake-U" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[SSE4.2](../Page/SSE4.2.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[Intel
-    SGX](../Page/Intel_SGX.md "wikilink")、[Intel
-    MPX](../Page/Intel_MPX.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-d、[AES-NI](../Page/AES-NI.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
+    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
+    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                          | 步进      | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                    | TDP                                                                                                                                       | 插槽  | 发布日期     |
 | ----------------------------------------------------------- | ------- | ----- | ------- | ---------- | ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --- | -------- |
@@ -3063,13 +3069,13 @@ SR1HQ (B2)</p></td>
 
 "Kaby Lake-Y" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[SSE4.2](../Page/SSE4.2.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[Intel
-    SGX](../Page/Intel_SGX.md "wikilink")、[Intel
-    MPX](../Page/Intel_MPX.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-d、[AES-NI](../Page/AES-NI.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
+    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
+    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                        | 插槽 | 发布日期     |
 | ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ------------------------------------------------------------------------------------------ | -- | -------- |
@@ -3078,13 +3084,13 @@ SR1HQ (B2)</p></td>
 
 "Kaby Lake-R" (14 nm)
 
-  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](../Page/SSE4.1.md "wikilink")、[SSE4.2](../Page/SSE4.2.md "wikilink")、[EIST](../Page/EIST.md "wikilink")、[Intel
-    64](../Page/Intel_64.md "wikilink")、[Intel
-    SGX](../Page/Intel_SGX.md "wikilink")、[Intel
-    MPX](../Page/Intel_MPX.md "wikilink")、[XD
-    bit](../Page/XD_bit.md "wikilink")、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-x、[Intel
-    VT](../Page/Intel_VT.md "wikilink")-d、[AES-NI](../Page/AES-NI.md "wikilink")*
+  - 指令集：*[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")、[SSE3](../Page/SSE3.md "wikilink")、[SSSE3](../Page/SSSE3.md "wikilink")、[SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink")、[SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink")、[EIST](https://zh.wikipedia.org/wiki/EIST "wikilink")、[Intel
+    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")、[Intel
+    SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink")、[Intel
+    MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink")、[XD
+    bit](https://zh.wikipedia.org/wiki/XD_bit "wikilink")、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-x、[Intel
+    VT](https://zh.wikipedia.org/wiki/Intel_VT "wikilink")-d、[AES-NI](https://zh.wikipedia.org/wiki/AES-NI "wikilink")*
 
 | 型号                                                           | 步进 | 核心/线程 | 处理器基本频率 | 缓存         | 处理器显卡 | 内存控制器(MHz)                     | TDP                                                                                                                                       | 插槽 | 发布日期     |
 | ------------------------------------------------------------ | -- | ----- | ------- | ---------- | ----- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | -- | -------- |

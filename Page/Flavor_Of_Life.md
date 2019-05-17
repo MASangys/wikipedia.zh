@@ -1,5 +1,5 @@
 《**Flavor Of
-Life**》是[宇多田光的第](../Page/宇多田光.md "wikilink")18張[單曲](../Page/單曲.md "wikilink")，於2007年2月28日發行，初動27萬張，累計銷量65萬張，為宇多田光近年的代表作之一。
+Life**》是[宇多田光的第](../Page/宇多田光.md "wikilink")18張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2007年2月28日發行，初動27萬張，累計銷量65萬張，為宇多田光近年的代表作之一。
 
 《Flavor Of Life》歌曲的總下載量至今突破800萬次，為2007年總下載量日本第一、世界第二的歌曲。
 
@@ -8,8 +8,8 @@ Life》是日本最暢銷數碼單曲中排行第二，在亞洲歌手中排名�
 
 ## 簡介
 
-  - [井上真央主演的](../Page/井上真央.md "wikilink")[TBS連續劇](../Page/TBS電視台.md "wikilink")《[花樣男子2](../Page/流星花園_\(日本電視劇\)#流星花園2.md "wikilink")》的形象歌曲及插入歌，自《[SAKURA
-    Drops](../Page/SAKURA_Drops/Letters.md "wikilink")》5年後再次成為劇集使用歌曲。劇集中使用的為CD中收錄的第二曲目《Flavor
+  - [井上真央主演的](../Page/井上真央.md "wikilink")[TBS連續劇](../Page/TBS電視台.md "wikilink")《[花樣男子2](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\)#流星花園2 "wikilink")》的形象歌曲及插入歌，自《[SAKURA
+    Drops](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink")》5年後再次成為劇集使用歌曲。劇集中使用的為CD中收錄的第二曲目《Flavor
     Of Life -Ballad Version-》。
   - 宇多田光本人為原著漫畫的粉絲，因此特別為此劇集度身訂做樂曲，歌詞亦讓劇集的觀眾層較容易明白。
   - 最初作品為原始版本（CD第一曲目），後來電視台希望要抒情版本，因此製作出「-Ballad Version-」供使用。
@@ -23,9 +23,9 @@ Life》是日本最暢銷數碼單曲中排行第二，在亞洲歌手中排名�
   - CD發售前的鈴聲下載次數錄得日本歌曲破紀錄的200萬次，發售後一個半月後下載總數達到558萬次。同年7月18日，英國EMI宣布本作的下載總數突破700萬次並成為當時**全球數碼單曲銷量第1**。2007年下載總數達720萬次，力壓[蕾哈娜的歌曲](../Page/蕾哈娜.md "wikilink")《Umbrella》，但最後仍以10萬的微差敗給[艾薇兒·拉維尼的](../Page/艾薇兒·拉維尼.md "wikilink")《[Girlfriend](../Page/女朋友_\(艾薇兒·拉維尼歌曲\).md "wikilink")》，成為該年全球數碼銷量第2的單曲。2008年3月時達成818萬數碼下載銷量\[2\]\[3\]\[4\]。
   - 「Original Version」繼去年的《[Keep
     Tryin'](../Page/Keep_Tryin'.md "wikilink")》再次取得[iTunes
-    Store銷量年間](../Page/iTunes_Store.md "wikilink")1位。
-  - 合法下載銷量的強勢使實體CD銷量流失，最終實體銷量65萬張，自2002年的《[traveling](../Page/traveling_\(單曲\).md "wikilink")》後再次成為年間銷量第2單曲。
-  - 登場週數達45週，與《[COLORS](../Page/COLORS_\(單曲\).md "wikilink")》並列為宇多田光本人登場週數最長的單曲。
+    Store銷量年間](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")1位。
+  - 合法下載銷量的強勢使實體CD銷量流失，最終實體銷量65萬張，自2002年的《[traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")》後再次成為年間銷量第2單曲。
+  - 登場週數達45週，與《[COLORS](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")》並列為宇多田光本人登場週數最長的單曲。
 
 ## 收錄歌曲
 
@@ -54,7 +54,7 @@ Life》是日本最暢銷數碼單曲中排行第二，在亞洲歌手中排名�
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p>日本單曲年榜單（<a href="../Page/iTunes.md" title="wikilink">iTunes</a>）</p></td>
+<td><p>日本單曲年榜單（<a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes</a>）</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -87,7 +87,7 @@ Life》是日本最暢銷數碼單曲中排行第二，在亞洲歌手中排名�
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>世界下載年榜單（<a href="../Page/IFPI.md" title="wikilink">IFPI</a>）[10]</p></td>
+<td><p>世界下載年榜單（<a href="https://zh.wikipedia.org/wiki/IFPI" title="wikilink">IFPI</a>）[10]</p></td>
 <td><p>2</p></td>
 </tr>
 </tbody>
@@ -109,7 +109,7 @@ Life》是日本最暢銷數碼單曲中排行第二，在亞洲歌手中排名�
 [Category:2006年—2009年唱協下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2006年—2009年唱協下載榜冠軍歌曲 "wikilink")
 [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")
 
-1.  [畅销单曲列表](../Page/:畅销单曲列表#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE.md "wikilink")
+1.  [畅销单曲列表](https://zh.wikipedia.org/wiki/:畅销单曲列表#.E5.8F.82.E8.80.83.E6.96.87.E7.8C.AE "wikilink")
 2.  [IFPI:『Flavor of Life' contender for best-selling digital
     single](http://www.ifpi.org/content/section_news/20070718.html)
 3.  [IFPI Digital Music

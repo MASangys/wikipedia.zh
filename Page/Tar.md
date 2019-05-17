@@ -5,16 +5,18 @@ tar.png](https://zh.wikipedia.org/wiki/File:Torchlight_tar.png "fig:File:Torchli
 | caption = GNU tar 1.16 showing three common types of Tarballs (shown
 in red). | extension = `.tar` | mime = application/x-tar | uniform type
 = public.tar-archive | magic = `ustar` at byte 257 | genre = [File
-archiver](../Page/File_archiver.md "wikilink") | contained by =
-[gzip](../Page/gzip.md "wikilink"),
-[bzip2](../Page/bzip2.md "wikilink"),
-[lzma](../Page/lzma.md "wikilink"), [xz](../Page/xz.md "wikilink"),
-[lzop](../Page/lzop.md "wikilink"),
-[compress](../Page/compress.md "wikilink") | free = Yes }}
+archiver](https://zh.wikipedia.org/wiki/File_archiver "wikilink") |
+contained by = [gzip](https://zh.wikipedia.org/wiki/gzip "wikilink"),
+[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink"),
+[lzma](https://zh.wikipedia.org/wiki/lzma "wikilink"),
+[xz](https://zh.wikipedia.org/wiki/xz "wikilink"),
+[lzop](https://zh.wikipedia.org/wiki/lzop "wikilink"),
+[compress](https://zh.wikipedia.org/wiki/compress "wikilink") | free =
+Yes }}
 
 ## 概览
 
-[Unix和](../Page/Unix.md "wikilink")[类Unix系统上的压缩打包工具](../Page/类Unix系统.md "wikilink")，可以将多个[文件合并为一个文件](../Page/文件.md "wikilink")，打包后的[文件名亦为](../Page/文件名.md "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](../Page/POSIX.md "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带上](../Page/磁带.md "wikilink")（**t**ape
+[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统上的压缩打包工具](../Page/类Unix系统.md "wikilink")，可以将多个[文件合并为一个文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，打包后的[文件名亦为](https://zh.wikipedia.org/wiki/文件名 "wikilink")“tar”。目前，tar文件格式已经成为[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")，最初是POSIX.1-1988，目前是POSIX.1-2001。本程序最初的设计目的是将文件备份到[磁带上](../Page/磁带.md "wikilink")（**t**ape
 **ar**chive），因而得名tar。
 
 ## 版本
@@ -26,7 +28,7 @@ archiver](../Page/File_archiver.md "wikilink") | contained by =
 ## 缩写
 
 [Targzip.svg](https://zh.wikipedia.org/wiki/File:Targzip.svg "fig:Targzip.svg")，来生成压缩文档。如图所示，结合档案中的文件被压缩为一个单位。\]\]
-tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的](../Page/压缩文件.md "wikilink")[扩展名](../Page/扩展名.md "wikilink")，如经过gzip压缩后的tar文件，扩展名为“.tar.gz”。由于受到[DOS](../Page/DOS.md "wikilink")8.3文件名格式的限制，常使用下列缩写：
+tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的](https://zh.wikipedia.org/wiki/压缩文件 "wikilink")[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")，如经过gzip压缩后的tar文件，扩展名为“.tar.gz”。由于受到[DOS](../Page/DOS.md "wikilink")8.3文件名格式的限制，常使用下列缩写：
 
   - .tgz等价于.tar.gz
   - .tbz与tb2等价于.tar.bz2
@@ -59,30 +61,31 @@ tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的]
     列出每一步处理涉及的文件的信息，只用一个“v”时，仅列出文件名，使用两个“v”时，列出权限、所有者、大小、时间、文件名等信息。
   - \-k，--keep-old-files 不覆盖文件系统上已有的文件
   - \-f，--file \[主机名:\]文件名
-    指定要处理的文件名。可以用“-”代表[标准输出或](../Page/标准输出.md "wikilink")[标准输入](../Page/标准输入.md "wikilink")。
-  - \-P，--absolute-names 使用[绝对路径](../Page/绝对路径.md "wikilink")
+    指定要处理的文件名。可以用“-”代表[标准输出或](https://zh.wikipedia.org/wiki/标准输出 "wikilink")[标准输入](https://zh.wikipedia.org/wiki/标准输入 "wikilink")。
+  - \-P，--absolute-names
+    使用[绝对路径](https://zh.wikipedia.org/wiki/绝对路径 "wikilink")
   - \-j，--bzip2
-    调用[bzip2执行压缩或解压缩](../Page/bzip2.md "wikilink")。注意，由于部分老版本的tar使用-I实现本功能，因此，编写[脚本时](../Page/脚本.md "wikilink")，最好使用--bzip2。
+    调用[bzip2执行压缩或解压缩](https://zh.wikipedia.org/wiki/bzip2 "wikilink")。注意，由于部分老版本的tar使用-I实现本功能，因此，编写[脚本时](https://zh.wikipedia.org/wiki/脚本 "wikilink")，最好使用--bzip2。
   - \-J，--xz，--lzma 调用执行压缩或解压缩。依赖XZ Utils。
   - \-z，--gzip，--gunzip，--ungzip
-    调用[gzip执行压缩或解压缩](../Page/gzip.md "wikilink")
+    调用[gzip执行压缩或解压缩](https://zh.wikipedia.org/wiki/gzip "wikilink")
   - \-Z，--compress，--uncompress
-    调用[compress执行压缩或解压缩](../Page/compress.md "wikilink")
+    调用[compress执行压缩或解压缩](https://zh.wikipedia.org/wiki/compress "wikilink")
 
 ## 应用示例
 
 ` tar -cvf home_backup.tar /home`
 
-可以将/home目录下的所有文件打包入home_backup.tar文件中。理解这个命令时，请注意“home_backup.tar”实际上是-f选项的参数。tar默认记录[相对路径](../Page/相对路径.md "wikilink")，即使给出的是[绝对路径](../Page/绝对路径.md "wikilink")，也会自动将代表[根目录的](../Page/根目录.md "wikilink")“/”去掉，所以，在这个例子中，使用“/home”和“home”是相同的。要想使用绝对路径，请加上“P”选项，但一般不推荐使用绝对路径，原因之一是可能导致[tar炸弹攻击](../Page/Tar_\(计算机科学\)#tar炸弹.md "wikilink")。
+可以将/home目录下的所有文件打包入home_backup.tar文件中。理解这个命令时，请注意“home_backup.tar”实际上是-f选项的参数。tar默认记录[相对路径](https://zh.wikipedia.org/wiki/相对路径 "wikilink")，即使给出的是[绝对路径](https://zh.wikipedia.org/wiki/绝对路径 "wikilink")，也会自动将代表[根目录的](https://zh.wikipedia.org/wiki/根目录 "wikilink")“/”去掉，所以，在这个例子中，使用“/home”和“home”是相同的。要想使用绝对路径，请加上“P”选项，但一般不推荐使用绝对路径，原因之一是可能导致[tar炸弹攻击](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\)#tar炸弹 "wikilink")。
 
 ` cd /home`
 ` tar -cvf home_backup.tar *`
 
-这也是一种制作备份的方法，但是不推荐这样做。因为tar在默认解压时，会将文件直接输出到当前目录下，而不会新建并输出到一个名为home的子目录，令到当前目录显得很凌乱。这也是一种形式的[tar炸弹攻击](../Page/Tar_\(计算机科学\)#tar炸弹.md "wikilink")。
+这也是一种制作备份的方法，但是不推荐这样做。因为tar在默认解压时，会将文件直接输出到当前目录下，而不会新建并输出到一个名为home的子目录，令到当前目录显得很凌乱。这也是一种形式的[tar炸弹攻击](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\)#tar炸弹 "wikilink")。
 
 ` tar -tf home_backup.tar`
 
-列出home_backup.tar文件里已被打包的文件。此时仅仅显示文件名。如果加上“v”，则能列出权限、所有者、大小、时间、文件名等信息。为防止[tar炸弹攻击](../Page/Tar_\(计算机科学\)#tar炸弹.md "wikilink")，应该养成解压前查看tar文件内容的好习惯。
+列出home_backup.tar文件里已被打包的文件。此时仅仅显示文件名。如果加上“v”，则能列出权限、所有者、大小、时间、文件名等信息。为防止[tar炸弹攻击](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\)#tar炸弹 "wikilink")，应该养成解压前查看tar文件内容的好习惯。
 
 ` tar -xvf home_backup.tar`
 
@@ -96,7 +99,7 @@ tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的]
 
 ### 替代
 
-由于备份策略的进步，逐渐采用[dump](../Page/dump.md "wikilink")、[restore等工具替代tar](../Page/restore.md "wikilink")。此后，tar多与[gzip联用](../Page/gzip.md "wikilink")，弥补后者无法将多个文件打包的不足。这一用法沿用至今，新的tar版本已能自动调用多种[压缩工具执行压缩](../Page/压缩工具.md "wikilink")。已压缩的tar文件也叫“tarball”。大部分自由软件的源代码采用tarball的形式发布。
+由于备份策略的进步，逐渐采用[dump](https://zh.wikipedia.org/wiki/dump "wikilink")、[restore等工具替代tar](https://zh.wikipedia.org/wiki/restore "wikilink")。此后，tar多与[gzip联用](https://zh.wikipedia.org/wiki/gzip "wikilink")，弥补后者无法将多个文件打包的不足。这一用法沿用至今，新的tar版本已能自动调用多种[压缩工具执行压缩](https://zh.wikipedia.org/wiki/压缩工具 "wikilink")。已压缩的tar文件也叫“tarball”。大部分自由软件的源代码采用tarball的形式发布。
 
 ### tar炸弹
 
@@ -113,7 +116,7 @@ tar代表未压缩的tar文件。已压缩的tar文件则附加[压缩文件的]
 
 ` tar -c "${源目录}" | tar -xvC "${目标目录}"`
 
-文件默认是标准输入/输出，不需再额外指定。可以将源目录下的文件及子目录复制到目标目录中，尤其适用于复制含有特殊文件（如[软链接](../Page/软链接.md "wikilink")、[设备文件](../Page/设备文件.md "wikilink")）的目录。
+文件默认是标准输入/输出，不需再额外指定。可以将源目录下的文件及子目录复制到目标目录中，尤其适用于复制含有特殊文件（如[软链接](https://zh.wikipedia.org/wiki/软链接 "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")）的目录。
 
 [Category:归档格式](https://zh.wikipedia.org/wiki/Category:归档格式 "wikilink")
 [Category:无损压缩算法](https://zh.wikipedia.org/wiki/Category:无损压缩算法 "wikilink")

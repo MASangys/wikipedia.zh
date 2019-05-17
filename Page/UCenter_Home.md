@@ -1,6 +1,6 @@
 **UCenter
-Home**是一款互联网论坛软件提供商康盛创想旗下的一款[社交网络服务](../Page/社交网络服务.md "wikilink")（SNS）软件。UCenter
-Home基于[PHP和](../Page/PHP.md "wikilink")[Mysql](../Page/Mysql.md "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter
+Home**是一款互联网论坛软件提供商康盛创想旗下的一款[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")（SNS）软件。UCenter
+Home基于[PHP和](../Page/PHP.md "wikilink")[Mysql](https://zh.wikipedia.org/wiki/Mysql "wikilink")。当前最新版本为2.0。据康盛创想的数据，目前使用UCenter
 Home构建的网站超过12万家。
 
 ## 版本
@@ -310,13 +310,13 @@ UCenter Home的最低运行要求为
 ## Manyou 开放平台
 
 漫游开发平台是由Comsenz公司为应用开发者提供的开放平台。作为 UCenter
-Home使用网站的开放平台应用开发标准（[API](../Page/API.md "wikilink")），Manyou将为UCenter
+Home使用网站的开放平台应用开发标准（[API](https://zh.wikipedia.org/wiki/API "wikilink")），Manyou将为UCenter
 Home的用户提供各种个性化的互联网应用。
 
 ## 相关产品
 
   - [Discuz\!](../Page/Discuz!.md "wikilink")
-  - [UCenter](../Page/UCenter.md "wikilink")
+  - [UCenter](https://zh.wikipedia.org/wiki/UCenter "wikilink")
 
 ## 外部链接
 

@@ -2,11 +2,11 @@
 Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成系列作品](../Page/平成.md "wikilink")（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black
 RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎士Kuuga](../Page/假面騎士空我.md "wikilink")》算起），製作此特攝片的東映為新的主角假面騎士命名為「-{Decade}-」，取其「十年」之意，以紀念此系列踏入第10作。本作從2009年1月25日起於朝日電視台每週日早上8:00－8:30播出。
 
-香港[無綫電視定本作譯名為](../Page/無綫電視.md "wikilink")《**-{幪面超人帝騎}-**》，從2011年11月26日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:30－11:55播出。台灣自2011/12/3起每周六17:00－17:30在卡通頻道播出。首次與不同特攝節目進行跨界合作的節目。\[1\]
+香港[無綫電視定本作譯名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**-{幪面超人帝騎}-**》，從2011年11月26日起於[翡翠台每週六早上](../Page/翡翠台.md "wikilink")11:30－11:55播出。台灣自2011/12/3起每周六17:00－17:30在卡通頻道播出。首次與不同特攝節目進行跨界合作的節目。\[1\]
 
 ## 本作特色
 
-假面騎士Decade的故事以穿越時空為主軸，故[Kuuga](../Page/假面骑士Kuuga.md "wikilink")、[AgitΩ](../Page/假面騎士顎門.md "wikilink")、[Ryuki](../Page/假面骑士龍騎.md "wikilink")、[Faiz](../Page/假面骑士555.md "wikilink")、[Blade](../Page/假面骑士劍.md "wikilink")、[Hibiki](../Page/假面骑士響鬼.md "wikilink")、[Kabuto](../Page/假面骑士Kabuto.md "wikilink")、[Den-O](../Page/假面骑士電王.md "wikilink")、[Kiva等九部作品的假面騎士亦會於本劇內出現](../Page/假面騎士KIVA.md "wikilink")，成為本劇集賣點之一。
+假面騎士Decade的故事以穿越時空為主軸，故[Kuuga](https://zh.wikipedia.org/wiki/假面骑士Kuuga "wikilink")、[AgitΩ](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")、[Ryuki](https://zh.wikipedia.org/wiki/假面骑士龍騎 "wikilink")、[Faiz](https://zh.wikipedia.org/wiki/假面骑士555 "wikilink")、[Blade](https://zh.wikipedia.org/wiki/假面骑士劍 "wikilink")、[Hibiki](https://zh.wikipedia.org/wiki/假面骑士響鬼 "wikilink")、[Kabuto](https://zh.wikipedia.org/wiki/假面骑士Kabuto "wikilink")、[Den-O](https://zh.wikipedia.org/wiki/假面骑士電王 "wikilink")、[Kiva等九部作品的假面騎士亦會於本劇內出現](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")，成為本劇集賣點之一。
 
 本作也是假面騎士系列作首度與超級戰隊系列作聯手演出。
 
@@ -14,14 +14,14 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
 這是一部「關於假面騎士的假面騎士」，也就是一部[後設假面騎士](../Page/後設.md "wikilink")。
 
-繼[假面騎士龍騎和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍後第](../Page/假面騎士劍.md "wikilink")3套以卡片為主題的假面騎士。
+繼[假面騎士龍騎和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍後第](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")3套以卡片為主題的假面騎士。
 
 本作的播放時間未滿一年(全31集)，是歷代平成假面騎士中播放集數最少的作品。
 
 ## 劇情簡介
 
-2009年，家裡經營[照相館](../Page/照相館.md "wikilink")「光寫真館」的女孩'''光 夏海
-'''被惡夢糾纏著：無數假面騎士向僅僅一人的目標—「Decade」發動總攻擊後全滅的惡夢。
+2009年，家裡經營[照相館](https://zh.wikipedia.org/wiki/照相館 "wikilink")「光寫真館」的女孩'''光
+夏海 '''被惡夢糾纏著：無數假面騎士向僅僅一人的目標—「Decade」發動總攻擊後全滅的惡夢。
 
 **門矢
 士**，是個失去記憶、不知道自己來自何處卻莫名有自信的青年。雖然寄住在夏海家工作，但他拍出的相片總是因不明原因和實物相差甚遠異。夏海因此過著每天幫士向客人謝罪後再追著士說教的日子。
@@ -31,13 +31,13 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
 
 再次相會兩人依然被極光隔開，危急中士使用夏海穿透極光遞過來的腰帶扣變身成假面騎士Decade救出了夏海，但世界的崩壞仍然沒有停止。
 
-再次出現在士面前的渡，告知士等人崩壞的原因來自不同騎士存在的9個[平行世界正開始融合](../Page/平行世界.md "wikilink")，而士有前往九個世界，阻止世界毀壞的使命。以尋找能讓自己拍攝、自己所屬的世界為目標，士和心懷對夢中出現的Decade不安的夏海踏上了平行世界的旅程。
+再次出現在士面前的渡，告知士等人崩壞的原因來自不同騎士存在的9個[平行世界正開始融合](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，而士有前往九個世界，阻止世界毀壞的使命。以尋找能讓自己拍攝、自己所屬的世界為目標，士和心懷對夢中出現的Decade不安的夏海踏上了平行世界的旅程。
 
 ## 主要登場人物
 
 ## 本作中各假面騎士或者超级战队變身者
 
-關於**譯名問題**請注意，編輯本條目前請先訪問[討論頁](../Page/Talk:假面騎士Decade.md "wikilink")
+關於**譯名問題**請注意，編輯本條目前請先訪問[討論頁](https://zh.wikipedia.org/wiki/Talk:假面騎士Decade "wikilink")
 
   -
     參考條目：[假面騎士譯名列表](../Page/假面騎士譯名列表.md "wikilink")
@@ -47,9 +47,9 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
   - **Decade**
       - Decade：門矢 士、M士
       - Diend：海東大樹、U大樹
-  - [Kuuga](../Page/假面骑士Kuuga.md "wikilink")
+  - [Kuuga](https://zh.wikipedia.org/wiki/假面骑士Kuuga "wikilink")
       - Kuuga：小野寺 雄介、门矢士
-  - [Kiva](../Page/假面騎士KIVA.md "wikilink")
+  - [Kiva](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")
       - Kiva：渡、Beetle Fangire、紅 渡、海东召唤过、門矢士
       - Dark Kiva：紅 音也
       - Kivara：光 夏海
@@ -69,7 +69,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - Abyss：鎌田
       - Ryuga：佐藤 博彦、鸣龙也召唤过、剧场版海东召唤过。
       - Alternative Zero：田中
-  - [Blade](../Page/假面骑士劍.md "wikilink")
+  - [Blade](https://zh.wikipedia.org/wiki/假面骑士劍 "wikilink")
       - Blade：劍立 一真、劍崎 一真、门矢士、海东召唤过和千眼怪Diend变身体召唤过。
       - Chalice：四條 始（不死者Joker）
       - Garren：菱形 朔也
@@ -77,27 +77,27 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - Glaive：海東 純一、海东剧场版召唤过。
       - Larc：三輪 春香
       - Lance：禍木 慎
-  - [Faiz](../Page/假面騎士Faiz.md "wikilink")
+  - [Faiz](https://zh.wikipedia.org/wiki/假面騎士Faiz "wikilink")
       - Faiz：尾上 巧、 乾巧（白狼奥菲以诺）、门矢士
       - Kaixa：无，鳴瀧召喚過的（声音是草加雅人）、草加雅人
       - delta：海东召唤的
       - riotrooper:海东召唤的，剧场版有些不是海东召唤的。
       - Psypa：海东召唤的。
       - Orga：坂田 健兒、劇場版海東召喚過
-  - [AGITO](../Page/假面騎士AGITO.md "wikilink")
+  - [AGITO](https://zh.wikipedia.org/wiki/假面騎士AGITO "wikilink")
       - Agito：蘆河 翔一、津上 翔一、门矢士
       - Gills：蘆河 翔一
       - G3：蘆河 翔一 UG3（海东大树召唤的G3，被浦太洛斯附身过）。
       - G3-X：小野寺 雄介、海東 大樹
       - G4：劇場版海東召喚過
-  - [Den-O](../Page/假面騎士電王.md "wikilink")
+  - [Den-O](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")
       - Den-O：M士、M雄介、U、K、R夏海、M、U、K、R良太郎、门矢士、海东召唤过。（注：变身者开头英文字母是异魔神的名字。）
       - Zeronos：櫻井 侑斗
       - New Den-O：野上 幸太郎
       - Goldra：口彥
       - Silvra：耳彥
       - G Den-O：黑崎 怜治
-  - [Kabuto](../Page/假面騎士KABUTO.md "wikilink")
+  - [Kabuto](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")
       - Kabuto：總司、门矢士
       - TheBee：弟切 想
       - Gatack：新
@@ -109,7 +109,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - Carcasus：海东大树在剧场版召唤的，K Carcasus，海东召唤过，被金太洛斯附身过。
       - hercus：海东召唤的
       - ketaro：海东召唤的
-  - [Hibiki](../Page/假面騎士響鬼.md "wikilink")
+  - [Hibiki](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")
       - Hibiki：響鬼、明日夢 鸣泷（17集末尾）门矢士
       - Ibuki：威吹鬼、海东召唤过
       - Todoroki：轟鬼、海东召唤过
@@ -124,16 +124,16 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - 真劍黃：花織 琴羽
       - 真劍金：梅盛 源太
       - 千眼怪Diend變身體：千眼怪
-  - [Black RX](../Page/假面騎士Black_RX.md "wikilink")
+  - [Black RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")
       - Black RX：南 光太郎
-  - [Black](../Page/假面騎士Black.md "wikilink")
+  - [Black](https://zh.wikipedia.org/wiki/假面騎士Black "wikilink")
       - Black：南 光太郎、海东用Black卡片召唤过南光太郎，同时也变成了Black。
       - Shadow Moon：月影 信彥
   - [Amazon](../Page/假面騎士AMAZON.md "wikilink")
       - Amazon：Amazon
   - [Stronger](../Page/假面騎士Stronger.md "wikilink")
       - 電波人塔克爾：岬 百合子
-  - [W（Double）](../Page/假面騎士W.md "wikilink")
+  - [W（Double）](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")
       - W：左 翔太郎、菲利普
       - Skull：鳴海 莊吉、劇場版海东召唤过
       - Accel：照井龍（剧场版结尾也算，没有变Accel，拿着Accel记忆体）
@@ -152,14 +152,15 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
       - 豪快綠：東 • 多格伊亞
       - 豪快桃：艾姆 • 德 • 法蜜由
       - 豪快銀：伊狩鎧
-  - [特命战队Go Busters](../Page/特命战队Go_Busters.md "wikilink")
+  - [特命战队Go
+    Busters](https://zh.wikipedia.org/wiki/特命战队Go_Busters "wikilink")
       - Red Buster：樱田弘
       - Blue Buster：岩崎龙次
       - Yellow Buster：宇佐见阳子
-  - [Wizard](../Page/假面騎士Wizard.md "wikilink")（注：Wizard里52、53集也算。）
+  - [Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")（注：Wizard里52、53集也算。）
       - Wizard：操真晴人
       - Beast：仁藤攻介
-  - [铠武](../Page/假面騎士铠武.md "wikilink")
+  - [铠武](https://zh.wikipedia.org/wiki/假面騎士铠武 "wikilink")
       - 铠武：葛叶纮汰
       - 巴隆：驱纹戒斗
       - 龙玄：吴岛光实
@@ -167,9 +168,9 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
   - [1號](../Page/假面騎士.md "wikilink")
       - 1号：本鄉猛、门矢士
       - 2号：一文字 隼人（声音演出）
-  - [兽电战队强龙者](../Page/兽电战队强龙者.md "wikilink")
+  - [兽电战队强龙者](https://zh.wikipedia.org/wiki/兽电战队强龙者 "wikilink")
   - 强龙红：桐生大吾
-  - [烈车战队特急者](../Page/烈车战队特急者.md "wikilink")
+  - [烈车战队特急者](https://zh.wikipedia.org/wiki/烈车战队特急者 "wikilink")
   - 特急1号：来斗
   - 特急2号：十胜
   - 特急3号：澪
@@ -177,14 +178,14 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
   - 特急5号：神乐
   - [X](../Page/假面騎士X.md "wikilink")
       - X：神敬介
-  - [ZX](../Page/假面騎士ZX.md "wikilink")
+  - [ZX](https://zh.wikipedia.org/wiki/假面騎士ZX "wikilink")
       - ZX：村雨良
 
 ## 對戰卡（Ride Card）
 
 本作的主要物品，亦是Decade和Diend變身和戰鬥的主要工具。
 
-繼[假面騎士龍騎的降臨卡和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍的覺醒卡後再度出現大量同一系列的卡片](../Page/假面騎士劍.md "wikilink")，但卡片排列則類似假面騎士龍騎的降臨卡。
+繼[假面騎士龍騎的降臨卡和](../Page/假面騎士龍騎.md "wikilink")[假面騎士劍的覺醒卡後再度出現大量同一系列的卡片](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")，但卡片排列則類似假面騎士龍騎的降臨卡。
 
 ### Decade
 
@@ -199,7 +200,7 @@ RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎�
     例如2:使用Kamen Ride Faiz Accel;卡，可以直接變身-{Decade Faiz Accel Form}-
     在BLACK篇，門矢士得到KAMAN RIDE
     BLACK卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的，因为在当时由Diend召唤会比Decade变身更加有利于战局。而后来於[假面騎士x超級戰隊
-    超級英雄大戰中](../Page/假面騎士x超級戰隊_超級英雄大戰.md "wikilink")，Decade成功變身成1號，所以Decade是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
+    超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
 
 #### Form Ride（ 戰鬥型態卡）
 
@@ -262,7 +263,7 @@ Decade可以用此類卡片發動卡片上記載的技能
 <tr class="even">
 <td><p>Attack Ride Reflecloud（反射白雲）[3]</p></td>
 <td><p>能夠使用護星紅的天裝術‧反射白雲。</p></td>
-<td><p>於《<a href="../Page/假面騎士x超級戰隊_超級英雄大戰.md" title="wikilink">假面騎士x超級戰隊 超級英雄大戰</a>》中使用。</p></td>
+<td><p>於《<a href="https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰" title="wikilink">假面騎士x超級戰隊 超級英雄大戰</a>》中使用。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -334,7 +335,7 @@ Decade可以用此類卡片發動卡片上記載的技能
 <tr class="odd">
 <td><p>Attack Ride ADVENT (降臨)</p></td>
 <td><p>召喚無雙龍,並可踏上無雙龍來進行戰鬥。</p></td>
-<td><p>於《<a href="../Page/假面騎士x超級戰隊_超級英雄大戰.md" title="wikilink">假面騎士x超級戰隊 超級英雄大戰</a>》中使用。</p></td>
+<td><p>於《<a href="https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰" title="wikilink">假面騎士x超級戰隊 超級英雄大戰</a>》中使用。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -817,27 +818,27 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tr>
 <tr class="even">
 <td><p><strong>Kabuto Form<br />
-<a href="../Page/Kabuto.md" title="wikilink">Kabuto型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kabuto" title="wikilink">Kabuto型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Faiz Form<br />
-<a href="../Page/555.md" title="wikilink">555型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/555" title="wikilink">555型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Hibiki Form<br />
-<a href="../Page/響鬼.md" title="wikilink">響鬼型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/響鬼" title="wikilink">響鬼型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Kuuga Form<br />
-<a href="../Page/空我.md" title="wikilink">空我型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/空我" title="wikilink">空我型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Kiva Form<br />
-<a href="../Page/KIVA.md" title="wikilink">KIVA型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/KIVA" title="wikilink">KIVA型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Ryuki Form<br />
-<a href="../Page/龍騎.md" title="wikilink">龍騎型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/龍騎" title="wikilink">龍騎型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Blade Form<br />
@@ -845,11 +846,11 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tr>
 <tr class="odd">
 <td><p><strong>AgitΩ Form<br />
-<a href="../Page/顎門.md" title="wikilink">顎門型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/顎門" title="wikilink">顎門型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Den-O Form<br />
-<a href="../Page/電王.md" title="wikilink">電王型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/電王" title="wikilink">電王型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Complete Form<br />
@@ -863,43 +864,43 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 </tr>
 <tr class="even">
 <td><p><strong>Kuuga Titan Form<br />
-<a href="../Page/Kuuga.md" title="wikilink">Kuuga泰坦型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kuuga" title="wikilink">Kuuga泰坦型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Kuuga Dragon Form<br />
-<a href="../Page/Kuuga.md" title="wikilink">Kuuga青龍型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kuuga" title="wikilink">Kuuga青龍型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Kuuga Pegasus Form<br />
-<a href="../Page/Kuuga.md" title="wikilink">Kuuga飛馬型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kuuga" title="wikilink">Kuuga飛馬型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Kiva Garulu Form<br />
-<a href="../Page/Kiva.md" title="wikilink">Kiva加魯魯型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kiva" title="wikilink">Kiva加魯魯型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Kiva Dogga Form<br />
-<a href="../Page/Kiva.md" title="wikilink">Kiva德加型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kiva" title="wikilink">Kiva德加型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Kiva Bassha Form<br />
-<a href="../Page/Kiva.md" title="wikilink">Kiva巴夏型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Kiva" title="wikilink">Kiva巴夏型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Agito Flame Form<br />
-<a href="../Page/Agito.md" title="wikilink">Agito烈火型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Agito" title="wikilink">Agito烈火型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Agito Storm Form<br />
-<a href="../Page/Agito.md" title="wikilink">Agito暴風型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Agito" title="wikilink">Agito暴風型態</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Faiz Axel Form<br />
-<a href="../Page/Faiz.md" title="wikilink">Faiz加速型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/Faiz" title="wikilink">Faiz加速型態</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Den-O Ax Form<br />
-<a href="../Page/電王.md" title="wikilink">電王聖斧型態</a></strong></p></td>
+<a href="https://zh.wikipedia.org/wiki/電王" title="wikilink">電王聖斧型態</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -972,7 +973,8 @@ Diend可以用此類卡片發動必殺技，非Diend的Final Attack Ride卡片�
 
 ### Diend
 
-Diend為[英文諧音的](../Page/英文.md "wikilink")「The End」，Diend常簡作「DED」，變身者為海東 大樹
+Diend為[英文諧音的](https://zh.wikipedia.org/wiki/英文 "wikilink")「The
+End」，Diend常簡作「DED」，變身者為海東 大樹
 
 #### 變身模式
 
@@ -1103,7 +1105,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
 
   -
     全長：400cm / 寬度：190cm / 體重：680kg / 最高飛行速度：時速500km。
-    深淵的契約獸。水藍色的戰機型[大白鯊鏡怪獸](../Page/大白鯊.md "wikilink")，6000AP。是契約獸Abysslasher與Abysshammer合體而成，頭前有鋸齒刀，雙鰭為機槍，能在空中、水中和地底發動攻擊。能用絕技「深海衝擊」。
+    深淵的契約獸。水藍色的戰機型[大白鯊鏡怪獸](https://zh.wikipedia.org/wiki/大白鯊 "wikilink")，6000AP。是契約獸Abysslasher與Abysshammer合體而成，頭前有鋸齒刀，雙鰭為機槍，能在空中、水中和地底發動攻擊。能用絕技「深海衝擊」。
 
 <!-- end list -->
 
@@ -1114,7 +1116,7 @@ Diend）\>**}-中登場，用由黑崎淩志交給海東大樹的藍色K-Touch�
   -
     身長：225cm / 體重：127kg。
     身長：232cm / 體重：158kg。
-    深淵的契約獸Abyssodon分解而成的。一隻為墨綠色的人型[雙髻鯊鏡怪獸](../Page/雙髻鯊.md "wikilink")，另一隻為草綠色的人型[鯊魚鏡怪獸](../Page/鯊魚.md "wikilink")，以上2隻契約獸AP總合為6000。詳見「[假面騎士龍騎\#登場鏡怪人](../Page/假面騎士龍騎#登場鏡怪人.md "wikilink")」。
+    深淵的契約獸Abyssodon分解而成的。一隻為墨綠色的人型[雙髻鯊鏡怪獸](https://zh.wikipedia.org/wiki/雙髻鯊 "wikilink")，另一隻為草綠色的人型[鯊魚鏡怪獸](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")，以上2隻契約獸AP總合為6000。詳見「[假面騎士龍騎\#登場鏡怪人](https://zh.wikipedia.org/wiki/假面騎士龍騎#登場鏡怪人 "wikilink")」。
 
 ### 侍戰隊的世界
 
@@ -1324,8 +1326,8 @@ Fangire是由原演員扮演的，響鬼篇也是由原演員扮演斬鬼、威�
 <!-- end list -->
 
   -
-    [假面騎士W與Dopant戰鬥的世界](../Page/假面騎士W.md "wikilink")，亦為〈[假面騎士×假面騎士 W &
-    Decade
+    [假面騎士W與Dopant戰鬥的世界](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")，亦為〈[假面騎士×假面騎士
+    W & Decade
     Movie大戰2010](../Page/假面騎士×假面騎士_W_&_Decade_Movie大戰2010.md "wikilink")〉故事中的主要世界。
 
 <!-- end list -->
@@ -1610,7 +1612,7 @@ Live Stage-Show裏亦引入一位原創的幪面超人，就是以海參為原�
 <td><p>Kiva</p></td>
 <td><ul>
 <li>ビートルファンガイア/謎の男（ワタルの父）<br />
-仮面ライダーキバ ドガバキフォーム（演、聲：<a href="../Page/池内萬作.md" title="wikilink">池内萬作</a>）</li>
+仮面ライダーキバ ドガバキフォーム（演、聲：<a href="https://zh.wikipedia.org/wiki/池内萬作" title="wikilink">池内萬作</a>）</li>
 </ul></td>
 <td><p>7.8℅</p></td>
 <td><p>金田治</p></td>
@@ -1682,7 +1684,7 @@ Live Stage-Show裏亦引入一位原創的幪面超人，就是以海參為原�
 <p>블레이드 식당에 오신 것을 환영합니다</p></td>
 <td><p>Blade</p></td>
 <td><ul>
-<li>パラドキサアンデッド/鎌田/仮面ライダーアビス（演、声：<a href="../Page/入江雅人.md" title="wikilink">入江雅人</a>）</li>
+<li>パラドキサアンデッド/鎌田/仮面ライダーアビス（演、声：<a href="https://zh.wikipedia.org/wiki/入江雅人" title="wikilink">入江雅人</a>）</li>
 </ul></td>
 <td><p>8.4℅</p></td>
 <td><p>米村正二</p></td>
@@ -1842,7 +1844,7 @@ Faiz個面孔，1個寶物</p></td>
 <hr>
 <p>할머니 맛의 길</p></td>
 <td><ul>
-<li>フィロキセラワーム/弟切ソウ/仮面ライダーザビー（演：川岡大次郎、声：<a href="../Page/望月健一.md" title="wikilink">望月健一</a>）</li>
+<li>フィロキセラワーム/弟切ソウ/仮面ライダーザビー（演：川岡大次郎、声：<a href="https://zh.wikipedia.org/wiki/望月健一" title="wikilink">望月健一</a>）</li>
 </ul></td>
 <td><p>8.6℅</p></td>
 <td></td>
@@ -1862,7 +1864,7 @@ Faiz個面孔，1個寶物</p></td>
 <p>게으름 피우는 히비키</p></td>
 <td><p>Hibiki</p></td>
 <td><ul>
-<li>牛鬼/ヒビキ/仮面ライダー響鬼（演：<a href="../Page/デビット伊東.md" title="wikilink">デビット伊東</a>、声：<a href="../Page/酒井敬幸.md" title="wikilink">酒井敬幸</a>）</li>
+<li>牛鬼/ヒビキ/仮面ライダー響鬼（演：<a href="https://zh.wikipedia.org/wiki/デビット伊東" title="wikilink">デビット伊東</a>、声：<a href="https://zh.wikipedia.org/wiki/酒井敬幸" title="wikilink">酒井敬幸</a>）</li>
 <li>バケガニ変異体（19話）</li>
 </ul></td>
 <td><p>7.9℅</p></td>
@@ -2007,7 +2009,7 @@ Faiz個面孔，1個寶物</p></td>
 &amp;<br />
 Black</p></td>
 <td><ul>
-<li>怪魔ロボット・シュバリアン（声 - <a href="../Page/稲田徹.md" title="wikilink">稲田徹</a>）</li>
+<li>怪魔ロボット・シュバリアン（声 - <a href="https://zh.wikipedia.org/wiki/稲田徹" title="wikilink">稲田徹</a>）</li>
 </ul></td>
 <td><p>7.6%</p></td>
 <td><p>米村正二</p></td>
@@ -2127,10 +2129,11 @@ Black×Black RX</p></td>
   - **《[劇場版 假面騎士Decade 全騎士 VS
     大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")》**
   - **《[假面騎士×假面騎士W & Decade
-    Movie大戰2010](../Page/假面騎士×假面騎士W_&_Decade_Movie大戰2010.md "wikilink")》**
-  - **《[假面騎士x超級戰隊 超級英雄大戰](../Page/假面騎士x超級戰隊_超級英雄大戰.md "wikilink")》**
+    Movie大戰2010](https://zh.wikipedia.org/wiki/假面騎士×假面騎士W_&_Decade_Movie大戰2010 "wikilink")》**
+  - **《[假面騎士x超級戰隊
+    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》**
   - **《[平成騎士對昭和騎士 假面騎士大戰
-    feat.超級戰隊](../Page/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊.md "wikilink")》**
+    feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")》**
   - **《[假面騎士平成Generations
     Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》**
 
@@ -2156,7 +2159,7 @@ Black×Black RX</p></td>
     作曲：Ryo
     填詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
     編曲：[中川幸太郎](../Page/中川幸太郎.md "wikilink")、Ryo
-    歌：[Gackt](../Page/Gackt.md "wikilink")
+    歌：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")
 
 ### 插曲
 
@@ -2203,7 +2206,7 @@ Black×Black RX</p></td>
 ## 關連項目
 
   - [侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")
-  - [超級戰隊系列](../Page/超級戰隊系列.md "wikilink")
+  - [超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")
 
 ## 海外播映
 
@@ -2253,7 +2256,7 @@ Black×Black RX</p></td>
 
 11. 在二十九話中，並沒有讀出-{「Agito」}-與-{「Hibiki」}-的聲效，而且在三十話時更略過了全部變身聲效，直接發出的「Ryuki」召喚聲效
 
-12. 編劇小林靖子本人的想法是以原作的延續來編制劇情的（包括劇場版），至於桃塔羅斯（Momotaros）是否算作主角騎士，其中請參看（[假面騎士電王](../Page/假面騎士電王.md "wikilink")）。有傳言是因為請不到飾演野上良太郎（成年版）的佐藤健而令小林靖子出此下策。
+12. 編劇小林靖子本人的想法是以原作的延續來編制劇情的（包括劇場版），至於桃塔羅斯（Momotaros）是否算作主角騎士，其中請參看（[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")）。有傳言是因為請不到飾演野上良太郎（成年版）的佐藤健而令小林靖子出此下策。
 
 13. 6月21日，停播一次
 

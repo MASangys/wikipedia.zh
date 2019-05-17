@@ -1,4 +1,4 @@
-《**Click入黃金屋**》（；前名《**新網中人**》）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝溫情](../Page/電視廣播有限公司.md "wikilink")[劇集](../Page/劇集.md "wikilink")，全劇共20集，由[秦沛](../Page/秦沛.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[郭羨妮及](../Page/郭羨妮.md "wikilink")[楊思琦領銜主演](../Page/楊思琦.md "wikilink")，並由[陳敏之](../Page/陳敏之.md "wikilink")、[韓馬利及](../Page/韓馬利.md "wikilink")[楊秀惠聯合主演](../Page/楊秀惠.md "wikilink")，[梅小青監製](../Page/梅小青.md "wikilink")。
+《**Click入黃金屋**》（；前名《**新網中人**》）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝溫情](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[秦沛](../Page/秦沛.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[郭羨妮及](../Page/郭羨妮.md "wikilink")[楊思琦領銜主演](../Page/楊思琦.md "wikilink")，並由[陳敏之](../Page/陳敏之.md "wikilink")、[韓馬利及](../Page/韓馬利.md "wikilink")[楊秀惠聯合主演](../Page/楊秀惠.md "wikilink")，[梅小青監製](../Page/梅小青.md "wikilink")。
 
 ## 演員表
 
@@ -44,7 +44,7 @@ INSS网络保安公司职员<br />
 方心美之兄<br />
 雷婉儀之男友，後分手，最後復合<br />
 徐希敏之男友，後分手<br />
-童年由<a href="../Page/马俊荣.md" title="wikilink">马俊荣饰演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/马俊荣" title="wikilink">马俊荣饰演</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/何傲兒.md" title="wikilink">何傲兒</a></strong></p></td>
@@ -121,7 +121,7 @@ INSS网络保安公司职员<br />
 方心正之女友，後分手，最後復合<br />
 雷樹培之姑姐<br />
 徐希敏同母異父之姊<br />
-童年由<a href="../Page/鄭可琳.md" title="wikilink">鄭可琳飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/鄭可琳" title="wikilink">鄭可琳飾演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></strong></p></td>
@@ -190,7 +190,7 @@ INSS网络保安公司职员<br />
 <td><p><strong>Alex</strong><br />
 「技術支援部」總經理<br />
 徐希敏之前男友<br />
-參見<strong><a href="../Page/#方家.md" title="wikilink">方家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#方家" title="wikilink">方家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/楊秀惠.md" title="wikilink">楊秀惠</a></strong></p></td>
@@ -239,12 +239,12 @@ INSS网络保安公司职员<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王基信.md" title="wikilink">王基信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王基信" title="wikilink">王基信</a></p></td>
 <td><p>Albert</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡考藍.md" title="wikilink">蔡考藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡考藍" title="wikilink">蔡考藍</a></p></td>
 <td><p>Ceci Chan</p></td>
 <td></td>
 </tr>
@@ -303,7 +303,7 @@ INSS网络保安公司职员<br />
 袁慧中之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/龔茜彤.md" title="wikilink">龔茜彤</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/龔茜彤" title="wikilink">龔茜彤</a></strong></p></td>
 <td><p><strong>高詠欣</strong></p></td>
 <td><p><strong>Olive</strong><br />
 方心美、史盈盈之同學兼好友<br />
@@ -341,7 +341,7 @@ Norman之前女友</p></td>
 袁慧中之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝兆韵.md" title="wikilink">謝兆-{韵}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝兆韵" title="wikilink">謝兆-{韵}-</a></p></td>
 <td><p>Apple</p></td>
 <td><p>高中學生<br />
 唐琪琪之友</p></td>
@@ -369,17 +369,17 @@ Norman之前女友</p></td>
 <td><p>「萬華書店」職員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>阿　娥</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許文翹.md" title="wikilink">許文翹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許文翹" title="wikilink">許文翹</a></p></td>
 <td><p>阿　雄</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張笑千.md" title="wikilink">張笑千</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張笑千" title="wikilink">張笑千</a></p></td>
 <td><p>阿　發</p></td>
 <td></td>
 </tr>
@@ -394,7 +394,7 @@ Norman之前女友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>戴少強</p></td>
 <td><p><strong>打靶強</strong><br />
 二手店老闆<br />
@@ -408,7 +408,7 @@ Norman之前女友</p></td>
 與方心明、戴少強、大麻成、魯德輝合稱「五虎將」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>大麻成</p></td>
 <td><p>水電師傅<br />
 與方心明、口水昌、戴少強、魯德輝合稱「五虎將」</p></td>
@@ -419,18 +419,18 @@ Norman之前女友</p></td>
 <td><p>警察</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃子衡.md" title="wikilink">黃子衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子衡" title="wikilink">黃子衡</a></p></td>
 <td><p>阿　維</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何婷恩.md" title="wikilink">何婷恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何婷恩" title="wikilink">何婷恩</a></p></td>
 <td><p>Eve</p></td>
 <td><p>「流樓地咖啡Shop」店員<br />
 雷樹培之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙嘉迪.md" title="wikilink">趙嘉迪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙嘉迪" title="wikilink">趙嘉迪</a></p></td>
 <td><p>Liza</p></td>
 <td></td>
 </tr>
@@ -440,12 +440,12 @@ Norman之前女友</p></td>
 <td><p>顏如玉之好友（第1集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馮康寧.md" title="wikilink">馮康寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮康寧" title="wikilink">馮康寧</a></p></td>
 <td></td>
 <td><p>「輝明傢具店」老闆（第1集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td></td>
 <td><p>電腦維修員（第1集）</p></td>
 </tr>
@@ -455,17 +455,17 @@ Norman之前女友</p></td>
 <td><p>方心正之朋友（第1集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃俊伸.md" title="wikilink">黃俊伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊伸" title="wikilink">黃俊伸</a></p></td>
 <td><p>Peter</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>Billy</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td></td>
 <td><p>CID（第1集）</p></td>
 </tr>
@@ -475,7 +475,7 @@ Norman之前女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>財　哥</p></td>
 <td><p>商場保安（第1-2集）</p></td>
 </tr>
@@ -485,7 +485,7 @@ Norman之前女友</p></td>
 <td><p>「萬華書店」老主顧（第1-2集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td><p>Ann</p></td>
 <td><p>「小妮子」紙黏土模型店前店員<br />
 向袁慧中討取加班費（第2集）</p></td>
@@ -496,7 +496,7 @@ Norman之前女友</p></td>
 <td><p>（第2集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾玉娟.md" title="wikilink">曾玉娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾玉娟" title="wikilink">曾玉娟</a></p></td>
 <td><p>師　奶</p></td>
 <td><p>（第2集）</p></td>
 </tr>
@@ -563,12 +563,12 @@ Norman之前女友</p></td>
 <td><p>老人院之護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td><p>-</p></td>
-<td><p>「發記<a href="../Page/潮州.md" title="wikilink">潮州</a><a href="../Page/打冷.md" title="wikilink">打冷</a>」餐廳夥計</p></td>
+<td><p>「發記<a href="https://zh.wikipedia.org/wiki/潮州" title="wikilink">潮州</a><a href="https://zh.wikipedia.org/wiki/打冷" title="wikilink">打冷</a>」餐廳夥計</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>肥　龍</p></td>
 <td><p>大麻成朋友（第9集）</p></td>
 </tr>
@@ -584,7 +584,7 @@ Norman之前女友</p></td>
 Michele之粉絲（第10集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳嘉露_(香港).md" title="wikilink">陳嘉露</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳嘉露_(香港)" title="wikilink">陳嘉露</a></p></td>
 <td><p>-</p></td>
 <td><p>商場時裝售貨員（第10集）</p></td>
 </tr>
@@ -599,7 +599,7 @@ Michele之粉絲（第10集）</p></td>
 <td><p>高家岳之妻（第11集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/單俊偉.md" title="wikilink">單俊偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單俊偉" title="wikilink">單俊偉</a></p></td>
 <td><p>Nadal</p></td>
 <td><p>唐琪琪前男友<br />
 網球教練<br />
@@ -613,7 +613,7 @@ Michele之粉絲（第10集）</p></td>
 因不滿常受黎佩慈所欺，向其鼓吹投資港幣20萬炒作名錶（投資失敗）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭毅邦.md" title="wikilink">鄭毅邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭毅邦" title="wikilink">鄭毅邦</a></p></td>
 <td><p>阿　海</p></td>
 <td><p>第11集</p></td>
 </tr>
@@ -629,14 +629,14 @@ Michele之粉絲（第10集）</p></td>
 對Michele毛手毛腳當街遭摑（第12集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳錫江.md" title="wikilink">陳錫江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳錫江" title="wikilink">陳錫江</a></p></td>
 <td><p>梁松柏</p></td>
 <td><p>「開卷有益」書店前老闆<br />
 方學文之老友<br />
 第13集頂讓給方學文</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭嘉雯.md" title="wikilink">鄭嘉雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭嘉雯" title="wikilink">鄭嘉雯</a></p></td>
 <td><p>-</p></td>
 <td><p>名錶店售貨員（第12集）</p></td>
 </tr>
@@ -646,7 +646,7 @@ Michele之粉絲（第10集）</p></td>
 <td><p>沙灘壯男（第13集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃智文.md" title="wikilink">黃智文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃智文" title="wikilink">黃智文</a></p></td>
 <td><p>Bennie</p></td>
 <td><p>唐琪琪之沙灘排球隊友（第13集）</p></td>
 </tr>
@@ -656,32 +656,32 @@ Michele之粉絲（第10集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莊狄生.md" title="wikilink">莊狄生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莊狄生" title="wikilink">莊狄生</a></p></td>
 <td><p>-</p></td>
 <td><p>「開卷有益」書店應徵者（第13集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/溫尚儒.md" title="wikilink">溫尚儒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/溫尚儒" title="wikilink">溫尚儒</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳宙希.md" title="wikilink">陳宙希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳宙希" title="wikilink">陳宙希</a></p></td>
 <td><p>-</p></td>
 <td><p>陪朋友至藥局看病青年（第13集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/歐梓浩.md" title="wikilink">歐梓浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐梓浩" title="wikilink">歐梓浩</a></p></td>
 <td><p>-</p></td>
 <td><p>藥局看病青年（第13集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td><p>-</p></td>
 <td><p>藥局店員（第13集）</p></td>
 </tr>
@@ -701,7 +701,7 @@ Michele之粉絲（第10集）</p></td>
 <td><p>名牌手袋廣告之Model（第14集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾婉莎.md" title="wikilink">曾婉莎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾婉莎" title="wikilink">曾婉莎</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -735,12 +735,12 @@ Michele之粉絲（第10集）</p></td>
 陳啟發之下屬（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄒永彪.md" title="wikilink">鄒永彪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄒永彪" title="wikilink">鄒永彪</a></p></td>
 <td><p>客　人</p></td>
 <td><p>第17集</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>-</p></td>
 <td><p>警察（罪案調查科）<br />
 調查「網上偷試卷」一案（第17集）</p></td>
@@ -751,18 +751,18 @@ Michele之粉絲（第10集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張穎康.md" title="wikilink">張穎康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張穎康" title="wikilink">張穎康</a></p></td>
 <td><p>-</p></td>
 <td><p>督察<br />
 調查「網上偷試卷」一案（第17集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李楓.md" title="wikilink">李　楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李楓" title="wikilink">李　楓</a></p></td>
 <td><p>徐王麗霞</p></td>
 <td><p>徐期浩之母（第18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃長興.md" title="wikilink">黃長興</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p>徐期浩</p></td>
 <td><p><strong>Norman</strong><br />
 整型醫生<br />
@@ -770,12 +770,12 @@ Michele之粉絲（第10集）</p></td>
 黎佩慈男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃淑君.md" title="wikilink">黃淑君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑君" title="wikilink">黃淑君</a></p></td>
 <td><p>Irena</p></td>
 <td><p>整型醫院護士（第18集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td><p>-</p></td>
 <td><p>袁家曦朋友（第18集）</p></td>
 </tr>
@@ -789,12 +789,12 @@ Michele之粉絲（第10集）</p></td>
 受袁家曦所騙，誤為與其合作畫廊生意（第19集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯俊明.md" title="wikilink">湯俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯俊明" title="wikilink">湯俊明</a></p></td>
 <td><p>-</p></td>
 <td><p>「開卷有益」之顧客（第19集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -813,19 +813,19 @@ Michele之粉絲（第10集）</p></td>
 
 ## 播放軼事
 
-  - 該劇於翡翠台首播時的播映時段本來播放《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》，宣傳片已播放出街，後來電視台管理層臨時抽調《Click入黃金屋》播放，原因爲近期劇集之劇情[頗重](../Page/頗重.md "wikilink")，鑑於《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》劇情也頗重，所以希望改播一些溫情小品劇，劇情也比較輕鬆。巧合的是，《盛》及《C》劇均有[郭羨妮](../Page/郭羨妮.md "wikilink")、[黎耀祥爲主要演員](../Page/黎耀祥.md "wikilink")。《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》最後延至2012年4月才在翡翠台首播。
+  - 該劇於翡翠台首播時的播映時段本來播放《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》，宣傳片已播放出街，後來電視台管理層臨時抽調《Click入黃金屋》播放，原因爲近期劇集之劇情[頗重](https://zh.wikipedia.org/wiki/頗重 "wikilink")，鑑於《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》劇情也頗重，所以希望改播一些溫情小品劇，劇情也比較輕鬆。巧合的是，《盛》及《C》劇均有[郭羨妮](../Page/郭羨妮.md "wikilink")、[黎耀祥爲主要演員](../Page/黎耀祥.md "wikilink")。《[盛世仁傑](../Page/盛世仁傑.md "wikilink")》最後延至2012年4月才在翡翠台首播。
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-|        |                         |                                  |                                  |         |                        |
-| ------ | ----------------------- | -------------------------------- | -------------------------------- | ------- | ---------------------- |
-| **週次** | **日期**                  | **香港平均收視**                       | **最高收視**                         | **百分比** | 广州CSM收视                |
-| 1      | 2008年12月8日-2008年12月12日  | 27[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") | 87%     | 1-18集16.73 19-20集16.99 |
-| 2      | 2008年12月15日-2008年12月19日 | 25[點](../Page/收視點.md "wikilink") |                                  | 86%     |                        |
-| 3      | 2008年12月22日-2008年12月26日 | 24[點](../Page/收視點.md "wikilink") |                                  | 85%     |                        |
-| 4      | 2008年12月29日-2009年1月2日   | 28[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") | 85%     |                        |
+|        |                         |                                                     |                                                     |         |                        |
+| ------ | ----------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- | ---------------------- |
+| **週次** | **日期**                  | **香港平均收視**                                          | **最高收視**                                            | **百分比** | 广州CSM收视                |
+| 1      | 2008年12月8日-2008年12月12日  | 27[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 87%     | 1-18集16.73 19-20集16.99 |
+| 2      | 2008年12月15日-2008年12月19日 | 25[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     | 86%     |                        |
+| 3      | 2008年12月22日-2008年12月26日 | 24[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     | 85%     |                        |
+| 4      | 2008年12月29日-2009年1月2日   | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 85%     |                        |
 
 ## 註腳
 
@@ -835,12 +835,12 @@ Michele之粉絲（第10集）</p></td>
 2008年10月20日-2010年2月12日 |- |align="center" colspan="1"|**上一套：**
 [東山飄雨西關晴](../Page/東山飄雨西關晴.md "wikilink")
 \-12月5日 |align="center" colspan="2"
-|**翡翠台/高清翡翠台第二綫劇集（[2008](../Page/翡翠台電視劇集列表_\(2008年\)#第二線劇集.md "wikilink")-[2009](../Page/翡翠台電視劇集列表_\(2009年\)#第二線劇集.md "wikilink")）**
+|**翡翠台/高清翡翠台第二綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第二線劇集 "wikilink")-[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第二線劇集 "wikilink")）**
 **Click入黃金屋**
 12月8日-1月2日 |align="center" colspan="1"|**下一套：**
 [鹿鼎記](../Page/鹿鼎記_\(2008年電視劇\).md "wikilink")
 1月5日- |- |align="center"
-colspan="4"|[珠光寶氣](../Page/珠光寶氣_\(電視劇\).md "wikilink")
+colspan="4"|[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")
 2008年10月20日-2009年2月13日
 
 [Category:2008年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2008年無綫電視劇集 "wikilink")

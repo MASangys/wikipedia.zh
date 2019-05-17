@@ -1,10 +1,10 @@
 **BC信用卡盃世界圍棋公開賽** ( BC card Cup World Baduk Championship) ，
-簡稱**BC卡盃**，是[圍棋主要國際賽事之一](../Page/圍棋.md "wikilink")。
+簡稱**BC卡盃**，是[圍棋主要國際賽事之一](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。
 
-前身為[韓國國內賽事BC信用卡盃](../Page/韓國.md "wikilink")[新人王戰](../Page/新人王戰.md "wikilink")，[韓國棋院主辦](../Page/韓國棋院.md "wikilink")，圍棋TV，NHN協辦
-， [BC信用卡公司贊助](../Page/BC信用卡.md "wikilink")。
+前身為[韓國國內賽事BC信用卡盃](https://zh.wikipedia.org/wiki/韓國 "wikilink")[新人王戰](https://zh.wikipedia.org/wiki/新人王戰 "wikilink")，[韓國棋院主辦](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")，圍棋TV，NHN協辦
+， [BC信用卡公司贊助](https://zh.wikipedia.org/wiki/BC信用卡 "wikilink")。
 
-2008年韓國棋院通過決議，2009年起賽事採[獎金制](../Page/獎金制.md "wikilink")，[公開賽制](../Page/公開賽制.md "wikilink")，以創新現有圍棋體制,創建新的世界圍棋大賽\[1\]。2012年BC信用卡公司被韩国KT公司(电信会社)收购，此前两公司均致力于赞助围棋比赛。BC信用卡盃世界圍棋公開賽历经四届赛事之后将停办，KT杯(韩国电信会社杯)有望接替填补空白，如今两公司合并后，两大赛事可能合二为一\[2\]。
+2008年韓國棋院通過決議，2009年起賽事採[獎金制](https://zh.wikipedia.org/wiki/獎金制 "wikilink")，[公開賽制](https://zh.wikipedia.org/wiki/公開賽制 "wikilink")，以創新現有圍棋體制,創建新的世界圍棋大賽\[1\]。2012年BC信用卡公司被韩国KT公司(电信会社)收购，此前两公司均致力于赞助围棋比赛。BC信用卡盃世界圍棋公開賽历经四届赛事之后将停办，KT杯(韩国电信会社杯)有望接替填补空白，如今两公司合并后，两大赛事可能合二为一\[2\]。
 
 ## 賽制
 
@@ -28,11 +28,11 @@
 <!-- end list -->
 
   - 註：各團體參與組織
-      - 韓國：[韓國棋院](../Page/韓國棋院.md "wikilink")
-      - 日本：[日本棋院](../Page/日本棋院.md "wikilink")、[關西棋院](../Page/關西棋院.md "wikilink")
-      - 中國：中國圍棋協會（[中國棋院](../Page/中國棋院.md "wikilink")）
+      - 韓國：[韓國棋院](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")
+      - 日本：[日本棋院](../Page/日本棋院.md "wikilink")、[關西棋院](https://zh.wikipedia.org/wiki/關西棋院 "wikilink")
+      - 中國：中國圍棋協會（[中國棋院](https://zh.wikipedia.org/wiki/中國棋院 "wikilink")）
       - 台灣：[台灣棋院](../Page/台灣棋院.md "wikilink")（種子指定給[中國圍棋會](../Page/中國圍棋會.md "wikilink")[周俊勳](../Page/周俊勳.md "wikilink")）
-      - [美國圍棋協會](../Page/美國圍棋協會.md "wikilink")，[歐洲圍棋聯盟](../Page/歐洲圍棋聯盟.md "wikilink")
+      - [美國圍棋協會](../Page/美國圍棋協會.md "wikilink")，[歐洲圍棋聯盟](https://zh.wikipedia.org/wiki/歐洲圍棋聯盟 "wikilink")
 
 ## 獎金及對局費（韓元）
 
@@ -69,7 +69,7 @@
 <td><p>2009年</p></td>
 <td><p><strong><a href="../Page/古力.md" title="wikilink">古力</a></strong> 九段</p></td>
 <td><p>3-1</p></td>
-<td><p><a href="../Page/赵汉乘.md" title="wikilink">赵汉乘</a> 九段</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赵汉乘" title="wikilink">赵汉乘</a> 九段</p></td>
 <td><p><a href="../Page/曹薰铉.md" title="wikilink">曹薰铉九段</a>、<a href="../Page/李世乭.md" title="wikilink">李世乭九段</a></p></td>
 </tr>
 <tr class="even">
@@ -78,7 +78,7 @@
 <td><p><strong>李世乭</strong> 九段</p></td>
 <td><p>3-0</p></td>
 <td><p><a href="../Page/常昊.md" title="wikilink">常昊</a> 九段</p></td>
-<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓七段</a>、<a href="../Page/金起用.md" title="wikilink">金起用五段</a></p></td>
+<td><p><a href="../Page/朴廷桓.md" title="wikilink">朴廷桓七段</a>、<a href="https://zh.wikipedia.org/wiki/金起用" title="wikilink">金起用五段</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -86,12 +86,12 @@
 <td><p><strong>李世乭</strong> 九段</p></td>
 <td><p>3-2</p></td>
 <td><p>古力 九段</p></td>
-<td><p>朴廷桓九段、<a href="../Page/许映皓.md" title="wikilink">许映皓八段</a></p></td>
+<td><p>朴廷桓九段、<a href="https://zh.wikipedia.org/wiki/许映皓" title="wikilink">许映皓八段</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2012年</p></td>
-<td><p><strong><a href="../Page/白洪淅.md" title="wikilink">白洪淅</a></strong> 九段</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/白洪淅" title="wikilink">白洪淅</a></strong> 九段</p></td>
 <td><p>3-1</p></td>
 <td><p><a href="../Page/党毅飞.md" title="wikilink">党毅飞</a> 四段</p></td>
 <td><p><a href="../Page/朴文垚.md" title="wikilink">朴文垚九段</a>、<a href="../Page/胡耀宇.md" title="wikilink">胡耀宇八段</a></p></td>
@@ -139,7 +139,7 @@
 
   - ：陈诗渊九段
 
-  - 外卡：[李东勋](../Page/李东勋.md "wikilink")\[3\]、崔精
+  - 外卡：[李东勋](https://zh.wikipedia.org/wiki/李东勋 "wikilink")\[3\]、崔精
 
 ### 本赛
 

@@ -3,123 +3,157 @@
 
 ## 百大愛情片名單
 
-  - 女演員以[凱瑟琳·赫本出現](../Page/凱瑟琳·赫本.md "wikilink")6次最多，[奧黛麗·赫本出現](../Page/奧黛麗·赫本.md "wikilink")5次居次。
-  - 男演員以[卡萊·葛倫出現](../Page/卡萊·葛倫.md "wikilink")6次最多，[亨弗萊·鮑嘉及](../Page/亨弗萊·鮑嘉.md "wikilink")[詹姆斯·史都華出現](../Page/詹姆斯·史都華.md "wikilink")5次居次。
-  - [威廉·惠勒及](../Page/威廉·惠勒.md "wikilink")[喬治·丘克各以](../Page/喬治·丘克.md "wikilink")4部作品並列為出現最多的導演。
-  - 年代最早的電影是1920年的《[江水東流](../Page/江水東流.md "wikilink")》。最近的是1998年的《[莎翁情史](../Page/莎翁情史.md "wikilink")》。
+  - 女演員以[凱瑟琳·赫本出現](https://zh.wikipedia.org/wiki/凱瑟琳·赫本 "wikilink")6次最多，[奧黛麗·赫本出現](https://zh.wikipedia.org/wiki/奧黛麗·赫本 "wikilink")5次居次。
+  - 男演員以[卡萊·葛倫出現](https://zh.wikipedia.org/wiki/卡萊·葛倫 "wikilink")6次最多，[亨弗萊·鮑嘉及](https://zh.wikipedia.org/wiki/亨弗萊·鮑嘉 "wikilink")[詹姆斯·史都華出現](../Page/詹姆斯·史都華.md "wikilink")5次居次。
+  - [威廉·惠勒及](https://zh.wikipedia.org/wiki/威廉·惠勒 "wikilink")[喬治·丘克各以](https://zh.wikipedia.org/wiki/喬治·丘克 "wikilink")4部作品並列為出現最多的導演。
+  - 年代最早的電影是1920年的《[江水東流](https://zh.wikipedia.org/wiki/江水東流 "wikilink")》。最近的是1998年的《[莎翁情史](../Page/莎翁情史.md "wikilink")》。
 
 ## AFI百年百大愛情電影
 
-1.  Casablanca（1942）[北非諜影](../Page/北非諜影.md "wikilink")
-2.  Gone With The Wind（1939）[亂世佳人](../Page/亂世佳人.md "wikilink")
+1.  Casablanca（1942）[北非諜影](https://zh.wikipedia.org/wiki/北非諜影 "wikilink")
+2.  Gone With The
+    Wind（1939）[亂世佳人](https://zh.wikipedia.org/wiki/亂世佳人 "wikilink")
 3.  West Side Story（1961）[西城故事](../Page/西城故事.md "wikilink")
 4.  Roman Holiday（1953）[-{zh-cn:罗马假日; zh-tw:羅馬假期;
     zh-hk:金枝玉葉;}-](../Page/羅馬假期.md "wikilink")
 5.  An Affair To Remember（1957）[金玉盟](../Page/金玉盟.md "wikilink")
-6.  The Way We Were（1973）[往日情懷](../Page/往日情懷.md "wikilink")
+6.  The Way We
+    Were（1973）[往日情懷](https://zh.wikipedia.org/wiki/往日情懷 "wikilink")
 7.  Doctor Zhivago（1965）[日瓦戈医生](../Page/日瓦戈医生_\(电影\).md "wikilink")
 8.  It's A Wonderful Life（1946）[風雲人物](../Page/風雲人物.md "wikilink")
 9.  Love Story（1970）[愛的故事](../Page/愛的故事.md "wikilink")
 10. City Lights（1931）[城市之光](../Page/城市之光.md "wikilink")
-11. Annie Hall（1977）[安妮霍爾](../Page/安妮霍爾.md "wikilink")
-12. My Fair Lady（1964）[窈窕淑女](../Page/窈窕淑女.md "wikilink")
-13. Out Of Africa（1985）[遠離非洲](../Page/遠離非洲.md "wikilink")
-14. The African Queen（1951）[非洲皇后](../Page/非洲皇后.md "wikilink")
+11. Annie
+    Hall（1977）[安妮霍爾](https://zh.wikipedia.org/wiki/安妮霍爾 "wikilink")
+12. My Fair
+    Lady（1964）[窈窕淑女](https://zh.wikipedia.org/wiki/窈窕淑女 "wikilink")
+13. Out Of
+    Africa（1985）[遠離非洲](https://zh.wikipedia.org/wiki/遠離非洲 "wikilink")
+14. The African
+    Queen（1951）[非洲皇后](https://zh.wikipedia.org/wiki/非洲皇后 "wikilink")
 15. Wuthering Heights（1939）[咆哮山莊](../Page/咆哮山莊.md "wikilink")
 16. Singin' In The Rain（1952）[萬花嬉春](../Page/萬花嬉春.md "wikilink")
-17. Moonstruck（1987）[發暈](../Page/發暈.md "wikilink")、[月滿抱佳人](../Page/月滿抱佳人.md "wikilink")
+17. Moonstruck（1987）[發暈](https://zh.wikipedia.org/wiki/發暈 "wikilink")、[月滿抱佳人](../Page/月滿抱佳人.md "wikilink")
 18. Vertigo（1958）[迷魂記](../Page/迷魂記.md "wikilink")
 19. Ghost（1990）[人鬼情未了](../Page/人鬼情未了.md "wikilink")
 20. From Here To Eternity（1953）[亂世忠魂](../Page/亂世忠魂.md "wikilink")
 21. Pretty Woman（1990）[麻雀變鳳凰](../Page/麻雀變鳳凰.md "wikilink")
-22. On Golden Pond（1981）[金池塘](../Page/金池塘.md "wikilink")
-23. Now, Voyager（1942）[揚帆](../Page/揚帆.md "wikilink")
-24. King Kong（1933）[金剛](../Page/金剛_\(1933年電影\).md "wikilink")
+22. On Golden
+    Pond（1981）[金池塘](https://zh.wikipedia.org/wiki/金池塘 "wikilink")
+23. Now, Voyager（1942）[揚帆](https://zh.wikipedia.org/wiki/揚帆 "wikilink")
+24. King
+    Kong（1933）[金剛](https://zh.wikipedia.org/wiki/金剛_\(1933年電影\) "wikilink")
 25. When Harry Met
     Sally....（1989）[當哈利碰上莎莉](../Page/當哈利碰上莎莉.md "wikilink")
 26. The Lady Eve（1941）[淑女伊芙](../Page/淑女伊芙.md "wikilink")、淑女夏娃
 27. The Sound Of Music（1965）[真善美](../Page/音乐之声_\(电影\).md "wikilink")
 28. The Shop Around The Corner（1940）[街角的商店](../Page/街角的商店.md "wikilink")
 29. An Officer And A Gentleman（1982）[軍官與紳士](../Page/軍官與紳士.md "wikilink")
-30. Swing Time（1936）[歡樂時光](../Page/歡樂時光.md "wikilink")
+30. Swing
+    Time（1936）[歡樂時光](https://zh.wikipedia.org/wiki/歡樂時光 "wikilink")
 31. The King And I（1956）[國王與我](../Page/國王與我_\(1956年電影\).md "wikilink")
 32. Dark Victory（1939）[黑色勝利](../Page/卿何薄命.md "wikilink")
 33. Camille（1937）[茶花女](../Page/茶花女.md "wikilink")
 34. Beauty And The
     Beast（1991）[美女与野兽](../Page/美女与野兽_\(1991年电影\).md "wikilink")
 35. Gigi（1958）[金粉世界](../Page/金粉世界.md "wikilink")
-36. Random Harvest（1942）[鴛夢重溫](../Page/鴛夢重溫.md "wikilink")
-37. Titanic（1997）[泰坦尼克号](../Page/泰坦尼克号_\(1997年电影\).md "wikilink")
+36. Random
+    Harvest（1942）[鴛夢重溫](https://zh.wikipedia.org/wiki/鴛夢重溫 "wikilink")
+37. Titanic（1997）[泰坦尼克号](https://zh.wikipedia.org/wiki/泰坦尼克号_\(1997年电影\) "wikilink")
 38. It Happened One
-    Night（1934）[一夜風流](../Page/一夜風流_\(1934年電影\).md "wikilink")
-39. An American In Paris（1951）[花都舞影](../Page/花都舞影.md "wikilink")
-40. Ninotchka（1939）[俄宮豔使](../Page/俄宮豔使.md "wikilink")
-41. Funny Girl（1968）[妙女郎](../Page/妙女郎.md "wikilink")
-42. Anna Karenina（1935）[安娜卡列妮娜](../Page/安娜卡列妮娜.md "wikilink")
-43. A Star Is Born（1954）[星海浮沈錄](../Page/星海浮沈錄.md "wikilink")
-44. The Philadelphia Story（1940）[費城故事](../Page/費城故事.md "wikilink")
+    Night（1934）[一夜風流](https://zh.wikipedia.org/wiki/一夜風流_\(1934年電影\) "wikilink")
+39. An American In
+    Paris（1951）[花都舞影](https://zh.wikipedia.org/wiki/花都舞影 "wikilink")
+40. Ninotchka（1939）[俄宮豔使](https://zh.wikipedia.org/wiki/俄宮豔使 "wikilink")
+41. Funny Girl（1968）[妙女郎](https://zh.wikipedia.org/wiki/妙女郎 "wikilink")
+42. Anna
+    Karenina（1935）[安娜卡列妮娜](https://zh.wikipedia.org/wiki/安娜卡列妮娜 "wikilink")
+43. A Star Is
+    Born（1954）[星海浮沈錄](https://zh.wikipedia.org/wiki/星海浮沈錄 "wikilink")
+44. The Philadelphia
+    Story（1940）[費城故事](https://zh.wikipedia.org/wiki/費城故事 "wikilink")
 45. Sleepless In
-    Seattle（1993）[西雅圖夜未眠](../Page/西雅圖夜未眠.md "wikilink")、[緣份的天空](../Page/緣份的天空.md "wikilink")
-46. To Catch A Thief（1955）[捉賊記](../Page/捉賊記.md "wikilink")
-47. Splendor In The Grass（1961）[天涯何處無芳草](../Page/天涯何處無芳草.md "wikilink")
-48. Last Tango In Paris（1972）[巴黎最後探戈](../Page/巴黎最後探戈.md "wikilink")
-49. The Postman Always Rings Twice（1946）[蕩婦怨](../Page/蕩婦怨.md "wikilink")
+    Seattle（1993）[西雅圖夜未眠](../Page/西雅圖夜未眠.md "wikilink")、[緣份的天空](https://zh.wikipedia.org/wiki/緣份的天空 "wikilink")
+46. To Catch A
+    Thief（1955）[捉賊記](https://zh.wikipedia.org/wiki/捉賊記 "wikilink")
+47. Splendor In The
+    Grass（1961）[天涯何處無芳草](https://zh.wikipedia.org/wiki/天涯何處無芳草 "wikilink")
+48. Last Tango In
+    Paris（1972）[巴黎最後探戈](https://zh.wikipedia.org/wiki/巴黎最後探戈 "wikilink")
+49. The Postman Always Rings
+    Twice（1946）[蕩婦怨](https://zh.wikipedia.org/wiki/蕩婦怨 "wikilink")
 50. Shakespeare In Love（1998）[莎翁情史](../Page/莎翁情史.md "wikilink")
-51. Bringing Up Baby（1938）[育嬰奇譚](../Page/育嬰奇譚.md "wikilink")
+51. Bringing Up
+    Baby（1938）[育嬰奇譚](https://zh.wikipedia.org/wiki/育嬰奇譚 "wikilink")
 52. The Graduate（1967）[畢業生](../Page/毕业生_\(电影\).md "wikilink")
-53. A Place In The Sun（1951）[郎心如鐵](../Page/郎心如鐵.md "wikilink")
+53. A Place In The
+    Sun（1951）[郎心如鐵](https://zh.wikipedia.org/wiki/郎心如鐵 "wikilink")
 54. Sabrina（1954）[龍鳳配](../Page/龍鳳配.md "wikilink")
 55. Reds（1981）[烽火赤焰萬里情](../Page/烽火赤焰萬里情.md "wikilink")
 56. The English Patient（1996）[英倫情人](../Page/英倫情人.md "wikilink")
 57. Two For The Road（1967）[儷人行](../Page/儷人行.md "wikilink")
 58. Guess Who's Coming To
     Dinner（1967）[猜猜谁来吃晚餐](../Page/猜猜谁来吃晚餐.md "wikilink")
-59. Picnic（1955）[野宴](../Page/野宴.md "wikilink")
-60. To Have And Have Not（1944）[逃亡](../Page/逃亡.md "wikilink")
+59. Picnic（1955）[野宴](https://zh.wikipedia.org/wiki/野宴 "wikilink")
+60. To Have And Have
+    Not（1944）[逃亡](https://zh.wikipedia.org/wiki/逃亡 "wikilink")
 61. Breakfast At Tiffany's（1961）[第凡內早餐](../Page/第凡內早餐.md "wikilink")
 62. The Apartment（1960）[公寓春光](../Page/公寓春光.md "wikilink")
 63. Sunrise（1927）[日出](../Page/日出.md "wikilink")
 64. Marty（1955）[馬蒂](../Page/君子好逑_\(美國電影\).md "wikilink")
 65. Bonnie And Clyde（1967）[我倆沒有明天](../Page/我倆沒有明天.md "wikilink")
-66. Manhattan（1979）[曼哈頓](../Page/曼哈顿_\(电影\).md "wikilink")
-67. A Streetcar Named Desire（1951）[慾望街車](../Page/慾望街車.md "wikilink")
+66. Manhattan（1979）[曼哈頓](https://zh.wikipedia.org/wiki/曼哈顿_\(电影\) "wikilink")
+67. A Streetcar Named
+    Desire（1951）[慾望街車](https://zh.wikipedia.org/wiki/慾望街車 "wikilink")
 68. What's Up, Doc?（1972）[愛的大追蹤](../Page/愛的大追蹤.md "wikilink")
-69. Harold And Maude（1971）[哈洛與茂德](../Page/哈洛與茂德.md "wikilink")
+69. Harold And
+    Maude（1971）[哈洛與茂德](https://zh.wikipedia.org/wiki/哈洛與茂德 "wikilink")
 70. Sense And
     Sensibility（1995）[理性與感性](../Page/理性與感性_\(電影\).md "wikilink")
-71. Way Down East（1920）[江水東流](../Page/江水東流.md "wikilink")
-72. Roxanne（1987）[愛上羅姍](../Page/愛上羅姍.md "wikilink")
-73. The Gost And Mrs. Muir（1947）[幽靈與未亡人](../Page/幽靈與未亡人.md "wikilink")
-74. Woman Of The Year（1942）[小姑獨處](../Page/小姑獨處.md "wikilink")
-75. The American President（1995）[白宮夜未眠](../Page/白宮夜未眠.md "wikilink")
+71. Way Down
+    East（1920）[江水東流](https://zh.wikipedia.org/wiki/江水東流 "wikilink")
+72. Roxanne（1987）[愛上羅姍](https://zh.wikipedia.org/wiki/愛上羅姍 "wikilink")
+73. The Gost And Mrs.
+    Muir（1947）[幽靈與未亡人](https://zh.wikipedia.org/wiki/幽靈與未亡人 "wikilink")
+74. Woman Of The
+    Year（1942）[小姑獨處](https://zh.wikipedia.org/wiki/小姑獨處 "wikilink")
+75. The American
+    President（1995）[白宮夜未眠](https://zh.wikipedia.org/wiki/白宮夜未眠 "wikilink")
 76. The Quiet Man（1952）[蓬門今始為君開](../Page/蓬門今始為君開.md "wikilink")
-77. The Awful Truth（1937）[驚人事蹟](../Page/驚人事蹟.md "wikilink")
-78. Coming Home（1978）[返鄉](../Page/返鄉.md "wikilink")
-79. Jezebel（1939）[紅衫淚痕](../Page/紅衫淚痕.md "wikilink")
-80. The Sheik（1921）[酋長](../Page/酋長.md "wikilink")
+77. The Awful
+    Truth（1937）[驚人事蹟](https://zh.wikipedia.org/wiki/驚人事蹟 "wikilink")
+78. Coming Home（1978）[返鄉](https://zh.wikipedia.org/wiki/返鄉 "wikilink")
+79. Jezebel（1939）[紅衫淚痕](https://zh.wikipedia.org/wiki/紅衫淚痕 "wikilink")
+80. The Sheik（1921）[酋長](https://zh.wikipedia.org/wiki/酋長 "wikilink")
 81. The Goodbye Girl（1977）[再見女郎](../Page/再見女郎.md "wikilink")
-82. Witness（1985）[證人](../Page/證人_\(1985年電影\).md "wikilink")
-83. Morocco（1930）[摩洛哥](../Page/摩洛哥.md "wikilink")
-84. Double Indemnity（1944）[雙重保險](../Page/雙重保險.md "wikilink")
+82. Witness（1985）[證人](https://zh.wikipedia.org/wiki/證人_\(1985年電影\) "wikilink")
+83. Morocco（1930）[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")
+84. Double
+    Indemnity（1944）[雙重保險](https://zh.wikipedia.org/wiki/雙重保險 "wikilink")
 85. Love Is A Many-Splendored
     Thing（1955）[生死戀](../Page/生死戀_\(1955年電影\).md "wikilink")
 86. Notorious（1946）[美人計](../Page/美人計.md "wikilink")
 87. The Unbearable Lightness Of
     Being（1988）[布拉格的春天](../Page/情陷布拉格.md "wikilink")
-88. The Princess Bride（1987）[公主新娘](../Page/公主新娘.md "wikilink")
+88. The Princess
+    Bride（1987）[公主新娘](https://zh.wikipedia.org/wiki/公主新娘 "wikilink")
 89. Who's Afraid Of Virginia
     Woolf?（1966）[靈慾春宵](../Page/靈慾春宵.md "wikilink")
 90. The Bridges Of Madison
     County（1995）[廊桥遗梦](../Page/廊桥遗梦.md "wikilink")
 91. Working Girl（1988）[上班女郎](../Page/上班女郎.md "wikilink")
-92. Porgy And Bess（1959）[乞丐與蕩婦](../Page/乞丐與蕩婦.md "wikilink")
+92. Porgy And
+    Bess（1959）[乞丐與蕩婦](https://zh.wikipedia.org/wiki/乞丐與蕩婦 "wikilink")
 93. Dirty Dancing（1987）[熱舞17](../Page/熱舞17.md "wikilink")、辣身舞
-94. Body Heat（1981）[體熱](../Page/體熱.md "wikilink")
+94. Body Heat（1981）[體熱](https://zh.wikipedia.org/wiki/體熱 "wikilink")
 95. Lady And The Tramp（1955）[小姐與流氓](../Page/小姐与流浪汉.md "wikilink")
-96. Barefoot In The Park（1967）[裸足佳偶](../Page/裸足佳偶.md "wikilink")
-97. Grease（1978）[火爆浪子](../Page/火爆浪子.md "wikilink")
-98. The Hunchback Of Notre Dame（1939）[鐘樓怪人](../Page/鐘樓怪人.md "wikilink")
-99. Pillow Talk（1959）[枕邊細語](../Page/枕邊細語.md "wikilink")
+96. Barefoot In The
+    Park（1967）[裸足佳偶](https://zh.wikipedia.org/wiki/裸足佳偶 "wikilink")
+97. Grease（1978）[火爆浪子](https://zh.wikipedia.org/wiki/火爆浪子 "wikilink")
+98. The Hunchback Of Notre
+    Dame（1939）[鐘樓怪人](https://zh.wikipedia.org/wiki/鐘樓怪人 "wikilink")
+99. Pillow
+    Talk（1959）[枕邊細語](https://zh.wikipedia.org/wiki/枕邊細語 "wikilink")
 100. Jerry Maguire（1996）[征服情海](../Page/征服情海.md "wikilink")
 
 ## 外部連結

@@ -1,13 +1,13 @@
 ***Sleep Through the
 Static***是[創作歌手](../Page/創作歌手.md "wikilink")[傑克·強森](../Page/傑克·強森.md "wikilink")（Jack
-Johnson）的第五張[專輯](../Page/專輯.md "wikilink")。在美國由「Brushfire」唱片公司於2008年2月5日發行。強森在他的網站上更新後宣佈發行。這是他第一張不是在夏威夷而是在洛杉磯灌錄的專輯，在洛杉磯的錄音室的設備全採用太陽能發電；而專輯包裝亦棄用傳統膠盒，改以再造紙製成封套，以貫徹傑克·強森的環保音樂概念。
+Johnson）的第五張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在美國由「Brushfire」唱片公司於2008年2月5日發行。強森在他的網站上更新後宣佈發行。這是他第一張不是在夏威夷而是在洛杉磯灌錄的專輯，在洛杉磯的錄音室的設備全採用太陽能發電；而專輯包裝亦棄用傳統膠盒，改以再造紙製成封套，以貫徹傑克·強森的環保音樂概念。
 
 這張專輯曾經在12月時於BBC第一次現場演出給一些歌迷。之後世界各地的樂評家對這張專輯的反應多是冷淡的，收到的評論褒貶不一。
 
 第一支單曲："[If I Had
-Eyes](../Page/If_I_Had_Eyes.md "wikilink")"曾在2007年12月17日於強森的[MySpace釋出](../Page/MySpace.md "wikilink")。
+Eyes](https://zh.wikipedia.org/wiki/If_I_Had_Eyes "wikilink")"曾在2007年12月17日於強森的[MySpace釋出](https://zh.wikipedia.org/wiki/MySpace "wikilink")。
 
-專輯曾經登上美國[告示牌](../Page/告示牌.md "wikilink")200大排行榜（Billboard
+專輯曾經登上美國[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")200大排行榜（Billboard
 200）第一名，並且在第一周就銷售出了375000份，其中包括139000次下載。這破了每週專輯下載銷量的紀錄。\[1\]
 577000的分的銷量一度也讓這張專輯登上了世界排行第一名。
 
@@ -18,13 +18,15 @@ Eyes](../Page/If_I_Had_Eyes.md "wikilink")"曾在2007年12月17日於強森的[M
 
 1.  "All at Once" - 3:38
 2.  "[Sleep Through the
-    Static](../Page/Sleep_Through_the_Static_\(song\).md "wikilink")" -
-    3:43
-3.  "[Hope](../Page/Hope_\(Jack_Johnson_song\).md "wikilink")"（與Zach
+    Static](https://zh.wikipedia.org/wiki/Sleep_Through_the_Static_\(song\) "wikilink")"
+    - 3:43
+3.  "[Hope](https://zh.wikipedia.org/wiki/Hope_\(Jack_Johnson_song\) "wikilink")"（與Zach
     Rogue）- 3:42
 4.  "Angel" - 2:02
 5.  "Enemy" - 3:48
-6.  "[If I Had Eyes](../Page/If_I_Had_Eyes.md "wikilink")" - 3:59
+6.  "[If I Had
+    Eyes](https://zh.wikipedia.org/wiki/If_I_Had_Eyes "wikilink")" -
+    3:59
 7.  "Same Girl" - 2:10
 8.  "What You Thought You Need" - 5:27
 9.  "Adrift" - 3:56
@@ -36,23 +38,23 @@ Eyes](../Page/If_I_Had_Eyes.md "wikilink")"曾在2007年12月17日於強森的[M
 
 ## 排名資訊
 
-| Chart |2008年                                    | 最高名次 |
-| ----------------------------------------------- | ---- |
-| 澳洲排行榜\[5\]                                      | 1    |
-| 比利時排行榜\[6\]                                     | 50   |
-| 巴西排行榜\[7\]                                      | 5    |
-| 加拿大排行榜 \[8\]                                    | 1    |
-| 德國排行榜\[9\]                                      | 4    |
-| 希臘排行榜\[10\]                                     | 9    |
-| 愛爾蘭排行榜\[11\]                                    | 1    |
-| 紐西蘭排行榜\[12\]                                    | 1    |
-| 挪威排行榜\[13\]                                     | 17   |
-| 西班牙排行榜                                          | 14   |
-| 瑞典排行榜\[14\]                                     | 13   |
-| 英國排行榜\[15\]                                     | 1    |
-| 美國[告示牌](../Page/告示牌.md "wikilink")200大排行榜\[16\] | 1    |
-| 世界排行榜\[17\]                                     | 1    |
-|                                                 |      |
+| Chart |2008年                                                       | 最高名次 |
+| ------------------------------------------------------------------ | ---- |
+| 澳洲排行榜\[5\]                                                         | 1    |
+| 比利時排行榜\[6\]                                                        | 50   |
+| 巴西排行榜\[7\]                                                         | 5    |
+| 加拿大排行榜 \[8\]                                                       | 1    |
+| 德國排行榜\[9\]                                                         | 4    |
+| 希臘排行榜\[10\]                                                        | 9    |
+| 愛爾蘭排行榜\[11\]                                                       | 1    |
+| 紐西蘭排行榜\[12\]                                                       | 1    |
+| 挪威排行榜\[13\]                                                        | 17   |
+| 西班牙排行榜                                                             | 14   |
+| 瑞典排行榜\[14\]                                                        | 13   |
+| 英國排行榜\[15\]                                                        | 1    |
+| 美國[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")200大排行榜\[16\] | 1    |
+| 世界排行榜\[17\]                                                        | 1    |
+|                                                                    |      |
 
 | 國家/地區 | 提供商                                     | 認證        | 銷售/出貨           |
 | ----- | --------------------------------------- | --------- | --------------- |

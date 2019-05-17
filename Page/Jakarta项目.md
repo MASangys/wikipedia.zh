@@ -1,4 +1,4 @@
-**Jakarta项目**是在[Apache軟件基金會营运的](../Page/Apache軟件基金會.md "wikilink")[开放源代码开发项目之一](../Page/开放源代码.md "wikilink")。开发着[面向对象编程语言](../Page/面向对象编程语言.md "wikilink")[Java的](../Page/Java.md "wikilink")[程序库](../Page/程序库.md "wikilink")，[框架等](../Page/框架.md "wikilink")。
+**Jakarta项目**是在[Apache軟件基金會营运的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[开放源代码开发项目之一](../Page/开放源代码.md "wikilink")。开发着[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象编程语言 "wikilink")[Java的](../Page/Java.md "wikilink")[程序库](https://zh.wikipedia.org/wiki/程序库 "wikilink")，[框架等](https://zh.wikipedia.org/wiki/框架 "wikilink")。
 
 Jakarta是Apache组织下的一套Java解决方案的开源软件的名称，它包括了很多子项目。[Tomcat](../Page/Apache_Tomcat.md "wikilink")、[Ant](../Page/Apache_Ant.md "wikilink")、[Struts等等現在是Apache下的开源项目](../Page/Struts.md "wikilink")，也曾是Jakarta的关联项目。
 
@@ -30,12 +30,14 @@ Microsystems公司当时讨论创建这个项目时的会议室命名的](../Pag
   - [Maven](../Page/Apache_Maven.md "wikilink") - 一个项目构建和管理工具
   - [POI](../Page/Apache_POI.md "wikilink") -
     一个纯java版本的函数库，用于操作Microsoft的常见文档格式，如Excel、Word、PowerPoint、Visio、Publisher、Outlook文件
-  - [Struts](../Page/Apache_Struts.md "wikilink") - 一种Web应用程序开发框架
-  - [Tapestry](../Page/Tapestry.md "wikilink") -
+  - [Struts](https://zh.wikipedia.org/wiki/Apache_Struts "wikilink") -
+    一种Web应用程序开发框架
+  - [Tapestry](https://zh.wikipedia.org/wiki/Tapestry "wikilink") -
     基于JavaBeans属性和强大的规格的组件对象模型
   - [Tomcat](../Page/Apache_Tomcat.md "wikilink") -
     服务器，提供JSP/Servlet相关容器类
-  - [Turbine](../Page/Turbine.md "wikilink") - web应用快速开发框架
+  - [Turbine](https://zh.wikipedia.org/wiki/Turbine "wikilink") -
+    web应用快速开发框架
   - [Velocity](../Page/Apache_Velocity.md "wikilink") - 模板引擎
 
 ## 參考資料

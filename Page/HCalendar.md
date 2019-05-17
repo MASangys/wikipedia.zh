@@ -1,5 +1,5 @@
 **hCalendar**（**HTML
-iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink")，它采用[iCalendar格式](../Page/iCalendar.md "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](../Page/日曆.md "wikilink")。
+iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink")，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
 
 ## 例子
 
@@ -21,7 +21,7 @@ iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink
     </p>
     </nowiki>
 
-我們可以使用[HTML元件中的](../Page/HTML元件.md "wikilink")`span`和[類中的](../Page/HTML#屬性.md "wikilink")`vevent`、`summary`、`dtstart`（開始日期），`dtend`（結束日期），`location`和`url`，將hCalendar[標記語言加入其中](../Page/標記語言.md "wikilink")。示意如下：
+我們可以使用[HTML元件中的](https://zh.wikipedia.org/wiki/HTML元件 "wikilink")`span`和[類中的](https://zh.wikipedia.org/wiki/HTML#屬性 "wikilink")`vevent`、`summary`、`dtstart`（開始日期），`dtend`（結束日期），`location`和`url`，將hCalendar[標記語言加入其中](https://zh.wikipedia.org/wiki/標記語言 "wikilink")。示意如下：
 
     <nowiki>
     <p class="vevent">
@@ -33,10 +33,11 @@ iCalendar**的縮寫）是一種[微格式標準](../Page/微格式.md "wikilink
     </p>
     </nowiki>
 
-注意：`abbr`元件在表示開始結束時間時，要包含機器可讀的[ISO8601的日期時間格式](../Page/ISO8601.md "wikilink")。
+注意：`abbr`元件在表示開始結束時間時，要包含機器可讀的[ISO8601的日期時間格式](https://zh.wikipedia.org/wiki/ISO8601 "wikilink")。
 
 ## 參見
 
-[微格式](../Page/微格式.md "wikilink") [hCard](../Page/hCard.md "wikilink")
+[微格式](../Page/微格式.md "wikilink")
+[hCard](https://zh.wikipedia.org/wiki/hCard "wikilink")
 
 [Category:微格式](https://zh.wikipedia.org/wiki/Category:微格式 "wikilink")

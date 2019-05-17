@@ -1,15 +1,15 @@
 ****全寫為Unified Video Decoder，中文譯成通用視訊解碼器，是中的其中一項技術。從HD 2400、HD 2600和HD
 3000系列集成了這個解碼器，高端的HD
 2900XT反而沒有集成。最近，AMD的780G整合式晶片組亦集成了UVD。利用UVD引擎，顯示卡就能完全硬體解碼H.264和VC-1格式的高清影片，分別為[Blu-ray
-Disc和](../Page/Blu-ray_Disc.md "wikilink")[HD-DVD的編碼](../Page/HD-DVD.md "wikilink")。
+Disc和](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[HD-DVD的編碼](https://zh.wikipedia.org/wiki/HD-DVD "wikilink")。
 
 原先ATI企圖將UVD技術內置在[Radeon X1
-Series的顯示核心中](../Page/Radeon_X1_Series.md "wikilink")，成為新的顯核（RV550），推進主流市場，並於2006年12月推出。但後來卻無了下文。
+Series的顯示核心中](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")，成為新的顯核（RV550），推進主流市場，並於2006年12月推出。但後來卻無了下文。
 
-透過UVD技術，在播放H.264或VC-1格式的高清影片時，處理器佔用率只有5%。這使得低端電腦亦可流暢地播放[1080p的高清影片](../Page/1080p.md "wikilink")。另外，此技術可以明顯降低系統的功率。與[NVIDIA的](../Page/NVIDIA.md "wikilink")[PureVideo不同](../Page/PureVideo.md "wikilink")，UVD並不可以硬解AES128硬體編碼。
+透過UVD技術，在播放H.264或VC-1格式的高清影片時，處理器佔用率只有5%。這使得低端電腦亦可流暢地播放[1080p的高清影片](../Page/1080p.md "wikilink")。另外，此技術可以明顯降低系統的功率。與[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[PureVideo不同](https://zh.wikipedia.org/wiki/PureVideo "wikilink")，UVD並不可以硬解AES128硬體編碼。
 
-要使用此技術，亦要軟體的配合。最簡易的方法是採用[PowerDVD播放軟體](../Page/PowerDVD.md "wikilink")。其他[作業系統例如](../Page/作業系統.md "wikilink")[Linux方面](../Page/Linux.md "wikilink")，[AMD正在研發XvBA](../Page/AMD.md "wikilink")
-[API](../Page/API.md "wikilink")，在Linux上實現UVD2。\[1\]
+要使用此技術，亦要軟體的配合。最簡易的方法是採用[PowerDVD播放軟體](../Page/PowerDVD.md "wikilink")。其他[作業系統例如](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Linux方面](../Page/Linux.md "wikilink")，[AMD正在研發XvBA](https://zh.wikipedia.org/wiki/AMD "wikilink")
+[API](https://zh.wikipedia.org/wiki/API "wikilink")，在Linux上實現UVD2。\[1\]
 
 UVD 2整合於HD
 4800系列，可提供VC-1、H.264及MPEG-2[位元流硬件解碼](../Page/位元流.md "wikilink")，並支援雙影片和畫中畫解碼功能。UVD

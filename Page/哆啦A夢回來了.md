@@ -1,4 +1,4 @@
-**哆啦A夢回來了**（）是於1998年3月7日公映的[哆啦A夢](../Page/哆啦A夢.md "wikilink")[動畫電影](../Page/動畫電影.md "wikilink")，也是《[大雄的南海大冒險](../Page/大雄的南海大冒險.md "wikilink")》的附篇電影，改編自單行本第六卷的《再見，哆啦A夢》和第七卷的《哆啦A夢回來了》。與原作不同的是，靜香在此部電影里有出場，並且增加了大雄思念奶奶的情節。片長27分鐘。
+**哆啦A夢回來了**（）是於1998年3月7日公映的[哆啦A夢](../Page/哆啦A夢.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，也是《[大雄的南海大冒險](../Page/大雄的南海大冒險.md "wikilink")》的附篇電影，改編自單行本第六卷的《再見，哆啦A夢》和第七卷的《哆啦A夢回來了》。與原作不同的是，靜香在此部電影里有出場，並且增加了大雄思念奶奶的情節。片長27分鐘。
 
 ## 剧情简介
 
@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td><p>小夫</p></td>
-<td><p><a href="../Page/肝付兼太.md" title="wikilink">肝付兼太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/肝付兼太" title="wikilink">肝付兼太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>胖虎</p></td>
@@ -40,11 +40,11 @@
 </tr>
 <tr class="odd">
 <td><p>大雄的爸爸</p></td>
-<td><p><a href="../Page/中庸助.md" title="wikilink">中庸助</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中庸助" title="wikilink">中庸助</a></p></td>
 </tr>
 <tr class="even">
 <td><p>胖虎的媽媽</p></td>
-<td><p><a href="../Page/青木和代.md" title="wikilink">青木和代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青木和代" title="wikilink">青木和代</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>店員</p></td>

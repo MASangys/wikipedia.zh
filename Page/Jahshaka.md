@@ -1,14 +1,14 @@
 **Jahshaka**（舊稱：**Cinefx**）是一個跨平台、開放源碼的影像編輯軟體。目前仍在開發階段，支援即時效果，但缺乏[非線性剪輯功能](../Page/非線性剪輯.md "wikilink")。它是用[Qt
-Software的](../Page/Qt_Software.md "wikilink")[Qt寫成的](../Page/Qt.md "wikilink")，可是介面是由[OpenGL程式庫來產生它的](../Page/OpenGL.md "wikilink")[GUI的](../Page/GUI.md "wikilink")。
+Software的](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")[Qt寫成的](../Page/Qt.md "wikilink")，可是介面是由[OpenGL程式庫來產生它的](../Page/OpenGL.md "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 
-因為它使用[OpenGL和](../Page/OpenGL.md "wikilink")[开放多媒体程序库](../Page/开放多媒体程序库.md "wikilink")（OpenML），所以它可以被移植到許多不同的平台上。理論上，應該可以運行在任何支援OpenGL的平台上。
+因為它使用[OpenGL和](../Page/OpenGL.md "wikilink")[开放多媒体程序库](https://zh.wikipedia.org/wiki/开放多媒体程序库 "wikilink")（OpenML），所以它可以被移植到許多不同的平台上。理論上，應該可以運行在任何支援OpenGL的平台上。
 
 Jahshaka以GNU通用公共許可證發佈。
 
 ## 外部連結
 
   - [SourceForge project
-    page](../Page/:sourceforge:projects/jahshakafx/.md "wikilink")
+    page](https://zh.wikipedia.org/wiki/:sourceforge:projects/jahshakafx/ "wikilink")
   - [JahGuide, the Jahshaka
     wiki](https://web.archive.org/web/20070630085226/http://www.jahshaka.org/jahguide/)
   - [Brazilian Jahshaka

@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                    |
 
 **GN-002 力天使GUNDAM（Gundam
-Dynames）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Dynames）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由洛克昂·史特拉托斯（尼爾·狄蘭迪）所駕駛。
 
@@ -26,9 +26,9 @@ Suit），由洛克昂·史特拉托斯（尼爾·狄蘭迪）所駕駛。
 
 力天使GUNDAM是以射擊戰為主的機體，除了標準配備的GN狙擊步槍，還存在可配合各種任務選用的多種槍支，例如「超高濃度GN粒子狙擊槍（Super
 Substratospheric Altitude
-Gun）」，可直接由地面狙擊約於[大氣層邊緣的](../Page/大氣層.md "wikilink")[太空](../Page/太空.md "wikilink")\[1\]。本機在進行精密瞄準的射擊時，頭部會變形為狙擊模式，露出被藏起來的高精度攝影器，同時駕駛艙內也會出現步槍型的專用操縱桿供洛奧作狙擊用。
+Gun）」，可直接由地面狙擊約於[大氣層邊緣的](https://zh.wikipedia.org/wiki/大氣層 "wikilink")[太空](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。本機在進行精密瞄準的射擊時，頭部會變形為狙擊模式，露出被藏起來的高精度攝影器，同時駕駛艙內也會出現步槍型的專用操縱桿供洛奧作狙擊用。
 
-另一方面，本機幾乎沒有格鬥戰用的武器，武裝幾乎都是遠距離射擊武器，其設計的想法與擅長格鬥戰的[能天使GUNDAM完全相反](../Page/能天使GUNDAM.md "wikilink")。
+另一方面，本機幾乎沒有格鬥戰用的武器，武裝幾乎都是遠距離射擊武器，其設計的想法與擅長格鬥戰的[能天使GUNDAM完全相反](https://zh.wikipedia.org/wiki/能天使GUNDAM "wikilink")。
 
 在2314年，由天人改修的力天使GUNDAM裝備粒子電容器於ELS之戰中登場，由洛奧（萊爾.狄爾提）駕駛出擊。
 
@@ -37,7 +37,7 @@ Gun）」，可直接由地面狙擊約於[大氣層邊緣的](../Page/大氣層
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[能天使的別名](../Page/能天使.md "wikilink")(\*不是力天使)（Dynamis）」。
+    名稱源自於九大天使階級之一的「[能天使的別名](https://zh.wikipedia.org/wiki/能天使 "wikilink")(\*不是力天使)（Dynamis）」。
 
 ## 重要戰鬥史
 
@@ -73,7 +73,7 @@ Gun）」，可直接由地面狙擊約於[大氣層邊緣的](../Page/大氣層
 <!-- end list -->
 
   -
-    在塔克拉馬干沙漠遭聯合國軍伏擊，於被國聯超限旗幟式部隊俘虜時因[座天使GUNDAM一型介入而成功逃出](../Page/座天使GUNDAM一型.md "wikilink")。
+    在塔克拉馬干沙漠遭聯合國軍伏擊，於被國聯超限旗幟式部隊俘虜時因[座天使GUNDAM一型介入而成功逃出](https://zh.wikipedia.org/wiki/座天使GUNDAM一型 "wikilink")。
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@ Gun）」，可直接由地面狙擊約於[大氣層邊緣的](../Page/大氣層
 <!-- end list -->
 
   -
-    迎戰聯合國軍之[厄運式](../Page/GNX-603T_厄運式.md "wikilink")，為保護正處於癱瘓狀態的[德天使GUNDAM而以機身擋下敵方之光束軍刀](../Page/德天使GUNDAM.md "wikilink")，駕駛艙受損。
+    迎戰聯合國軍之[厄運式](https://zh.wikipedia.org/wiki/GNX-603T_厄運式 "wikilink")，為保護正處於癱瘓狀態的[德天使GUNDAM而以機身擋下敵方之光束軍刀](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")，駕駛艙受損。
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Gun）」，可直接由地面狙擊約於[大氣層邊緣的](../Page/大氣層
 <!-- end list -->
 
   -
-    首次也是唯一一次使用「GN裝甲模組D型」並與阿里·亞爾·沙瑟斯俘虜之[座天使GUNDAM二型交戰](../Page/座天使GUNDAM二型.md "wikilink")；「GN裝甲模組」被擊毀，機體右側再被國聯駕駛員戴瑞爾自殺式攻擊後即被座天使GUNDAM二型以GN獠牙重創。失去頭部，右臂及雙腿之力天使GUNDAM被黃色哈囉帶回天上人母艦。
+    首次也是唯一一次使用「GN裝甲模組D型」並與阿里·亞爾·沙瑟斯俘虜之[座天使GUNDAM二型交戰](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")；「GN裝甲模組」被擊毀，機體右側再被國聯駕駛員戴瑞爾自殺式攻擊後即被座天使GUNDAM二型以GN獠牙重創。失去頭部，右臂及雙腿之力天使GUNDAM被黃色哈囉帶回天上人母艦。
 
 <!-- end list -->
 
@@ -277,9 +277,10 @@ MS較其他兵器最優秀之處在於泛用性，能夠對應地面、大氣層
 
 ## 參見
 
-  - [機動戰士GUNDAM 00登場機體列表](../Page/機動戰士GUNDAM_00登場機體列表.md "wikilink")
+  - [機動戰士GUNDAM
+    00登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場機體列表 "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")
 

@@ -1,7 +1,7 @@
 **TRANSIT**[翻譯記憶軟體](../Page/翻譯記憶.md "wikilink")，是瑞士[STAR
-Group所發展出一套功能完善的](../Page/STAR_Group.md "wikilink")「[電腦輔助翻譯系統](../Page/電腦輔助翻譯.md "wikilink")」（CAT，Computer-assisted
+Group所發展出一套功能完善的](https://zh.wikipedia.org/wiki/STAR_Group "wikilink")「[電腦輔助翻譯系統](../Page/電腦輔助翻譯.md "wikilink")」（CAT，Computer-assisted
 Translation 或 Computer-aided
-Translation），專為處理大量且重複性高之[翻譯工作所設計](../Page/翻譯.md "wikilink")。TRANSIT同時也是技術性翻譯與在文字地化工作的專業軟體，支援超過100種以上的語言格式，包括亞洲、中東以及東歐語系。廣泛被應用於企業[全球化作業程序](../Page/全球化.md "wikilink")。
+Translation），專為處理大量且重複性高之[翻譯工作所設計](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。TRANSIT同時也是技術性翻譯與在文字地化工作的專業軟體，支援超過100種以上的語言格式，包括亞洲、中東以及東歐語系。廣泛被應用於企業[全球化作業程序](../Page/全球化.md "wikilink")。
 
 ## 歷史
 
@@ -31,7 +31,7 @@ TRANSIT自原始文件中將格式化資訊擷取，它能夠支援所有通用�
 
 TRANSIT在進行篩選的同時會將文字與文件架構分開處理。
 
-在匯入的過程中，TRANSIT會自動將原始內文與資料庫裡過去曾完成的翻譯做相互比較、進行篩選過濾，並自動利用、取代完全相同及相似度高之譯文。由於所有原始內文以及其過去的翻譯皆儲存在翻譯記憶（TM）中。在匯入時，TRANSIT會利用[翻譯記憶體檔案執行自動預先翻譯](../Page/翻譯記憶體.md "wikilink")，將文件預先翻譯成所有選定的語言。
+在匯入的過程中，TRANSIT會自動將原始內文與資料庫裡過去曾完成的翻譯做相互比較、進行篩選過濾，並自動利用、取代完全相同及相似度高之譯文。由於所有原始內文以及其過去的翻譯皆儲存在翻譯記憶（TM）中。在匯入時，TRANSIT會利用[翻譯記憶體檔案執行自動預先翻譯](https://zh.wikipedia.org/wiki/翻譯記憶體 "wikilink")，將文件預先翻譯成所有選定的語言。
 
 #### 翻譯
 
@@ -63,7 +63,7 @@ FrameMaker、XML、HTML、MS Word、Powerpoint、Adobe Indesign
   - 可將翻譯文檔合併載入，進行整體專案的瀏覽、搜尋／取代、拼字與格式檢查工作，並進行存取。
   - 具備進度顯示功能。
   - 執行速度完全不受專案大小影響或限制。即便在具備最少工作資源的電腦上運作，仍有令人滿意的成效。
-  - 可與[DTP](../Page/DTP.md "wikilink")（排版）系統相互整合。
+  - 可與[DTP](https://zh.wikipedia.org/wiki/DTP "wikilink")（排版）系統相互整合。
   - 具備一致性之品質監控。
 
 ## TRANSIT可支援匯入（出）的檔案格式

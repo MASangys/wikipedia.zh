@@ -143,4 +143,4 @@ A组：金成进，B组：罗玄，C组：全俊鹤，D组：安国铉，E组：
 
 ## 注
 
-[B](../Page/分类:国际围棋比赛.md "wikilink")
+[B](https://zh.wikipedia.org/wiki/分类:国际围棋比赛 "wikilink")

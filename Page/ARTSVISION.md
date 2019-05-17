@@ -6,21 +6,21 @@
 
 ARTSVISION成立之後，其名稱是由ARTS（＝藝術）的VISION（＝展望）所組成――並以透過「用藝術可以傳達迎向未來的公司」作為創業的理念\[3\]。
 
-ARTSVISION一直以培育偶像聲優馳名。以[林原惠為最知名的代表](../Page/林原惠.md "wikilink")，並再[第三次聲優熱潮時期培育出](../Page/聲優#第三次聲優熱潮.md "wikilink")[三石琴乃](../Page/三石琴乃.md "wikilink")、[椎名碧流](../Page/椎名碧流.md "wikilink")、[橫山智佐](../Page/橫山智佐.md "wikilink")、[白鳥由里](../Page/白鳥由里.md "wikilink")、[天野由梨等多名高人氣的偶像聲優](../Page/天野由梨.md "wikilink")。
+ARTSVISION一直以培育偶像聲優馳名。以[林原惠為最知名的代表](../Page/林原惠.md "wikilink")，並再[第三次聲優熱潮時期培育出](https://zh.wikipedia.org/wiki/聲優#第三次聲優熱潮 "wikilink")[三石琴乃](../Page/三石琴乃.md "wikilink")、[椎名碧流](../Page/椎名碧流.md "wikilink")、[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")、[白鳥由里](../Page/白鳥由里.md "wikilink")、[天野由梨等多名高人氣的偶像聲優](../Page/天野由梨.md "wikilink")。
 
 1997年，ARTSVISION設立子公司[I'm
 Enterprise以分擔其業務](../Page/I'm_Enterprise.md "wikilink")。
 
 2010年6月1日起，I'm
-Enterprise社長[江崎加子男接任ARTSVISION代表董事會長](../Page/江崎加子男.md "wikilink")，[小黑淳接任代表董事社長](../Page/小黑淳.md "wikilink")。
+Enterprise社長[江崎加子男接任ARTSVISION代表董事會長](https://zh.wikipedia.org/wiki/江崎加子男 "wikilink")，[小黑淳接任代表董事社長](https://zh.wikipedia.org/wiki/小黑淳 "wikilink")。
 
 ## ARTSVISION緋聞事件
 
-2006年12月，創辦人松田-{咲}-實就任行政總裁職期間，涉嫌[猥褻一位志願當聲優的](../Page/猥褻.md "wikilink")16歲少女。次年2007年4月4日，松田被東京都警方拘捕協助調查，其後因為糖尿病的關係而保釋外出。同年5月28日，警方決定就上述事件起訴松田，翌日登上新聞，令此事件正式曝光\[4\]\[5\]\[6\]\[7\]。犯案當時，松田表示這位志願當聲優的少女面容覺得可愛，但是後來這位少女的並未通過徵選\[8\]\[9\]\[10\]。到了2007年5月30日，他辭去ARTSVISION（包括子公司[I'm
+2006年12月，創辦人松田-{咲}-實就任行政總裁職期間，涉嫌[猥褻一位志願當聲優的](https://zh.wikipedia.org/wiki/猥褻 "wikilink")16歲少女。次年2007年4月4日，松田被東京都警方拘捕協助調查，其後因為糖尿病的關係而保釋外出。同年5月28日，警方決定就上述事件起訴松田，翌日登上新聞，令此事件正式曝光\[4\]\[5\]\[6\]\[7\]。犯案當時，松田表示這位志願當聲優的少女面容覺得可愛，但是後來這位少女的並未通過徵選\[8\]\[9\]\[10\]。到了2007年5月30日，他辭去ARTSVISION（包括子公司[I'm
 Enterprise社長等等](../Page/I'm_Enterprise.md "wikilink")）社長的職位，而最終判決的結果是獲不起訴處分\[11\]。
 
 從此之後，ARTSVISION社長的職位由[Production
-baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Page/町田泉.md "wikilink")。並將松田與所屬聲優的關係劃清界線，同時官方網站也將跟松田相關的事情全都刪除。
+baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](https://zh.wikipedia.org/wiki/町田泉 "wikilink")。並將松田與所屬聲優的關係劃清界線，同時官方網站也將跟松田相關的事情全都刪除。
 
 ## 所屬聲優
 
@@ -47,7 +47,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [岡和男](../Page/岡和男.md "wikilink")
 
   -
-  - [小田久史](../Page/小田久史.md "wikilink")
+  - [小田久史](https://zh.wikipedia.org/wiki/小田久史 "wikilink")
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   -
   - [澤木郁也](../Page/澤木郁也.md "wikilink")
 
-  - [志賀克也](../Page/志賀克也.md "wikilink")
+  - [志賀克也](https://zh.wikipedia.org/wiki/志賀克也 "wikilink")
 
   -
   - 杉浦
@@ -91,10 +91,10 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [高木涉](../Page/高木涉.md "wikilink")
 
   -
-  - [高梨謙吾](../Page/高梨謙吾.md "wikilink")
+  - [高梨謙吾](https://zh.wikipedia.org/wiki/高梨謙吾 "wikilink")
 
   -
-  - [武內健](../Page/武內健.md "wikilink")
+  - [武內健](https://zh.wikipedia.org/wiki/武內健 "wikilink")
 
   -
   -
@@ -116,7 +116,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   -
   -
-  - [長嶝高士](../Page/長嶝高士.md "wikilink")
+  - [長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")
 
   -
   - [西村知道](../Page/西村知道.md "wikilink")
@@ -128,7 +128,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
 <!-- end list -->
 
-  - [萩道彥](../Page/萩道彥.md "wikilink")
+  - [萩道彥](https://zh.wikipedia.org/wiki/萩道彥 "wikilink")
 
   -
   -
@@ -146,7 +146,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [保志總一朗](../Page/保志總一朗.md "wikilink")
 
   -
-  - [細井治](../Page/細井治.md "wikilink")
+  - [細井治](https://zh.wikipedia.org/wiki/細井治 "wikilink")
 
 <!-- end list -->
 
@@ -172,7 +172,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [安田陸矢](../Page/安田陸矢.md "wikilink")
 
   -
-  - [山下大輝](../Page/山下大輝.md "wikilink")
+  - [山下大輝](https://zh.wikipedia.org/wiki/山下大輝 "wikilink")
 
 <!-- end list -->
 
@@ -193,11 +193,11 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [天野由梨](../Page/天野由梨.md "wikilink")
 
-  - [有馬瑞香](../Page/有馬瑞香.md "wikilink")
+  - [有馬瑞香](https://zh.wikipedia.org/wiki/有馬瑞香 "wikilink")
 
   - [石井由香里](../Page/石井由香里.md "wikilink")
 
-  - [石塚沙賴](../Page/石塚沙賴.md "wikilink")
+  - [石塚沙賴](https://zh.wikipedia.org/wiki/石塚沙賴 "wikilink")
 
   -
   -
@@ -222,12 +222,12 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   -
   - [狩野茉莉](../Page/狩野茉莉.md "wikilink")
 
-  - [河瀨茉希](../Page/河瀨茉希.md "wikilink")
+  - [河瀨茉希](https://zh.wikipedia.org/wiki/河瀨茉希 "wikilink")
 
-  - [木藤聰子](../Page/木藤聰子.md "wikilink")
+  - [木藤聰子](https://zh.wikipedia.org/wiki/木藤聰子 "wikilink")
 
   -
-  - [久保田光](../Page/久保田光.md "wikilink")
+  - [久保田光](https://zh.wikipedia.org/wiki/久保田光 "wikilink")
 
   -
   -
@@ -244,7 +244,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   -
   - [-{坂}-本千夏](../Page/坂本千夏.md "wikilink")
 
-  - [櫻庭有紗](../Page/櫻庭有紗.md "wikilink")
+  - [櫻庭有紗](https://zh.wikipedia.org/wiki/櫻庭有紗 "wikilink")
 
   - 佐野尚美
 
@@ -257,7 +257,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   -
   -
-  - [菅谷政子](../Page/菅谷政子.md "wikilink")
+  - [菅谷政子](https://zh.wikipedia.org/wiki/菅谷政子 "wikilink")
 
   - [菅原祥子](../Page/菅原祥子.md "wikilink")
 
@@ -289,15 +289,15 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [橘光](../Page/橘光.md "wikilink")
 
-  - [谷口夢奈](../Page/谷口夢奈.md "wikilink")
+  - [谷口夢奈](https://zh.wikipedia.org/wiki/谷口夢奈 "wikilink")
 
   -
   -
-  - [近村望實](../Page/近村望實.md "wikilink")
+  - [近村望實](https://zh.wikipedia.org/wiki/近村望實 "wikilink")
 
   - [津津見沙月](../Page/津津見沙月.md "wikilink")
 
-  - [手塚千春](../Page/手塚千春.md "wikilink")
+  - [手塚千春](https://zh.wikipedia.org/wiki/手塚千春 "wikilink")
 
 <!-- end list -->
 
@@ -316,7 +316,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [沼倉愛美](../Page/沼倉愛美.md "wikilink")
 
-  - [野口瑠璃子](../Page/野口瑠璃子.md "wikilink")
+  - [野口瑠璃子](https://zh.wikipedia.org/wiki/野口瑠璃子 "wikilink")
 
 <!-- end list -->
 
@@ -328,7 +328,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   -
   - [長谷川明子](../Page/長谷川明子.md "wikilink")
 
-  - [畑中萬里江](../Page/畑中萬里江.md "wikilink")
+  - [畑中萬里江](https://zh.wikipedia.org/wiki/畑中萬里江 "wikilink")
 
   -
   - [羽村京子](../Page/羽村京子.md "wikilink")
@@ -337,17 +337,17 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [原由實](../Page/原由實.md "wikilink")
 
-  - [春野杏](../Page/春野杏.md "wikilink")
+  - [春野杏](https://zh.wikipedia.org/wiki/春野杏 "wikilink")
 
   - [半場友惠](../Page/半場友惠.md "wikilink")
 
-  - [引田有美](../Page/引田有美.md "wikilink")
+  - [引田有美](https://zh.wikipedia.org/wiki/引田有美 "wikilink")
 
-  - [疋田涼子](../Page/疋田涼子.md "wikilink")
+  - [疋田涼子](https://zh.wikipedia.org/wiki/疋田涼子 "wikilink")
 
   -
   -
-  - [藤田彩](../Page/藤田彩.md "wikilink")
+  - [藤田彩](https://zh.wikipedia.org/wiki/藤田彩 "wikilink")
 
   - [藤田-{咲}-](../Page/藤田咲.md "wikilink")
 
@@ -360,7 +360,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
 <!-- end list -->
 
-  - [牧野天音](../Page/牧野天音.md "wikilink")
+  - [牧野天音](https://zh.wikipedia.org/wiki/牧野天音 "wikilink")
 
   - [又吉愛](../Page/又吉愛.md "wikilink")
 
@@ -370,7 +370,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [松田颯水](../Page/松田颯水.md "wikilink")
 
   -
-  - [丸田麻里](../Page/丸田麻里.md "wikilink")
+  - [丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")
 
   - [三浦雅子](../Page/三浦雅子.md "wikilink")
 
@@ -390,7 +390,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
 <!-- end list -->
 
-  - [山崎遙](../Page/山崎遙.md "wikilink")
+  - [山崎遙](https://zh.wikipedia.org/wiki/山崎遙 "wikilink")
 
   - [山下亞矢香](../Page/山下亞矢香.md "wikilink")
 
@@ -423,7 +423,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - （引退）
 
-  - [石塚堅](../Page/石塚堅.md "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
+  - [石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
 
   - [石森達幸](../Page/石森達幸.md "wikilink")（在籍中死去）
 
@@ -431,7 +431,8 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [岩永哲哉](../Page/岩永哲哉.md "wikilink")（自由職業）
 
-  - （現所屬：[ATELIER PEACH](../Page/ATELIER_PEACH.md "wikilink")）
+  - （現所屬：[ATELIER
+    PEACH](https://zh.wikipedia.org/wiki/ATELIER_PEACH "wikilink")）
 
   - [上田祐司](../Page/上田祐司.md "wikilink")（現藝名：，現所屬：）
 
@@ -449,11 +450,12 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - [梶裕貴](../Page/梶裕貴.md "wikilink")（現所屬：[VIMS](../Page/VIMS.md "wikilink")）
 
   -
-  - [河合義雄](../Page/河合義雄.md "wikilink")
+  - [河合義雄](https://zh.wikipedia.org/wiki/河合義雄 "wikilink")
 
   - （自由職業，劇團俱樂部團員）
 
-  - （現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
+  - （現所屬：[Production
+    Ace](https://zh.wikipedia.org/wiki/Production_Ace "wikilink")）
 
   -
 <!-- end list -->
@@ -464,19 +466,20 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [佐佐木望](../Page/佐佐木望.md "wikilink")（自由職業）
 
-  - （現所屬：[Production★A組](../Page/Production★A組.md "wikilink")）
+  - （現所屬：[Production★A組](https://zh.wikipedia.org/wiki/Production★A組 "wikilink")）
 
   - [下和田裕貴](../Page/下和田裕貴.md "wikilink")（現所屬：[Office
     PAC](../Page/Office_PAC.md "wikilink")）
 
-  - [鈴木勝美](../Page/鈴木勝美.md "wikilink")（現所屬：[81
+  - [鈴木勝美](https://zh.wikipedia.org/wiki/鈴木勝美 "wikilink")（現所屬：[81
     Produce](../Page/81_Produce.md "wikilink")）
 
   - [鈴木千尋](../Page/鈴木千尋.md "wikilink")（自由職業，Office Monorisu業務提攜）
 
-  - [鈴村健一](../Page/鈴村健一.md "wikilink")（現所屬：[INTENTION代表](../Page/INTENTION.md "wikilink")）
+  - [鈴村健一](../Page/鈴村健一.md "wikilink")（現所屬：[INTENTION代表](https://zh.wikipedia.org/wiki/INTENTION "wikilink")）
 
-  - （現所屬：[ATELIER PEACH](../Page/ATELIER_PEACH.md "wikilink")）
+  - （現所屬：[ATELIER
+    PEACH](https://zh.wikipedia.org/wiki/ATELIER_PEACH "wikilink")）
 
 <!-- end list -->
 
@@ -512,7 +515,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - （成立劇團近代座之後於在籍中死去）
 
-  - [野本禮三](../Page/野本禮三.md "wikilink")（引退後死去）
+  - [野本禮三](https://zh.wikipedia.org/wiki/野本禮三 "wikilink")（引退後死去）
 
 <!-- end list -->
 
@@ -520,7 +523,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
 <!-- end list -->
 
-  - [橋本晃一](../Page/橋本晃一.md "wikilink")（自由職業，（業務委託））
+  - [橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（自由職業，（業務委託））
 
   - （現所屬：Joint Office）
 
@@ -536,7 +539,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - （現所屬：[Production baobab](../Page/Production_baobab.md "wikilink")）
 
-  - [水鳥鐵夫](../Page/水鳥鐵夫.md "wikilink")（在籍中死去）
+  - [水鳥鐵夫](https://zh.wikipedia.org/wiki/水鳥鐵夫 "wikilink")（在籍中死去）
 
   - （現所屬：）
 
@@ -553,7 +556,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - （成立OYS Produce之後於在籍中死去）
 
-  - [山田義晴](../Page/山田義晴.md "wikilink")（現所屬：[株式會社WONDER
+  - [山田義晴](https://zh.wikipedia.org/wiki/山田義晴 "wikilink")（現所屬：[株式會社WONDER
     CREW](https://www.wcrew.jp/model-actor)）
 
   - [山野井仁](../Page/山野井仁.md "wikilink")（現所屬：）
@@ -573,15 +576,16 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [淺川悠](../Page/淺川悠.md "wikilink")（自由職業）
 
-  - [淺野真澄](../Page/淺野真澄.md "wikilink")（現所屬：青二Production）
+  - [淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")（現所屬：青二Production）
 
-  - [安藤亞里沙](../Page/安藤亞里沙.md "wikilink")（移籍81 Produce之後引退）
+  - [安藤亞里沙](https://zh.wikipedia.org/wiki/安藤亞里沙 "wikilink")（移籍81
+    Produce之後引退）
 
   - [伊藤美紀](../Page/伊藤美紀.md "wikilink")（現所屬：[大澤事務所](../Page/大澤事務所.md "wikilink")）
 
   -
   - [今井麻美](../Page/今井麻美.md "wikilink")（現所屬：[EARLY
-    WING](../Page/EARLY_WING.md "wikilink")）
+    WING](https://zh.wikipedia.org/wiki/EARLY_WING "wikilink")）
 
   -
   - [植田佳奈](../Page/植田佳奈.md "wikilink")（現所屬：[I'm
@@ -608,11 +612,11 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [川村万梨阿](../Page/川村万梨阿.md "wikilink")（自由職業）
 
-  - [川村萬梨阿](../Page/川村萬梨阿.md "wikilink")（現所屬：[remax](../Page/remax.md "wikilink")）
+  - [川村萬梨阿](https://zh.wikipedia.org/wiki/川村萬梨阿 "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
   - [菊池志穗](../Page/菊池志穗.md "wikilink")（現所屬：remax）
 
-  - [稀代櫻子](../Page/稀代櫻子.md "wikilink")（現所屬：[賢Production](../Page/賢Production.md "wikilink")）
+  - [稀代櫻子](https://zh.wikipedia.org/wiki/稀代櫻子 "wikilink")（現所屬：[賢Production](../Page/賢Production.md "wikilink")）
 
   -
   - [倉田雅世](../Page/倉田雅世.md "wikilink")（現所屬：81 Produce）
@@ -623,8 +627,8 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [小菅真美](../Page/小菅真美.md "wikilink")（現所屬：Production Ace）
 
-  - [小西寬子](../Page/小西寬子.md "wikilink")（現所屬：Dimensionfree Limited／Office
-    Squirrel，現在只進行音樂活動）
+  - [小西寬子](https://zh.wikipedia.org/wiki/小西寬子 "wikilink")（現所屬：Dimensionfree
+    Limited／Office Squirrel，現在只進行音樂活動）
 
   - [小林由美子](../Page/小林由美子.md "wikilink")（自由職業）
 
@@ -638,11 +642,12 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink")（現所屬：[Amuleto](../Page/Amuleto.md "wikilink")）
 
-  - [-{笹}-井千惠子](../Page/笹井千惠子.md "wikilink")（現所屬：Kenyu Office）
+  - [-{笹}-井千惠子](https://zh.wikipedia.org/wiki/笹井千惠子 "wikilink")（現所屬：Kenyu
+    Office）
 
   - （自由職業，（業務提攜））
 
-  - [-{笹}-本優子](../Page/笹本優子.md "wikilink")（現所屬：[aptepro](../Page/aptepro.md "wikilink")）
+  - [-{笹}-本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")（現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
   - [篠原惠美](../Page/篠原惠美.md "wikilink")（現所屬：81 Produce）
 
@@ -660,7 +665,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
 <!-- end list -->
 
-  - [高木早苗](../Page/高木早苗.md "wikilink")（現所屬：青二Production）
+  - [高木早苗](https://zh.wikipedia.org/wiki/高木早苗 "wikilink")（現所屬：青二Production）
 
   - [高木禮子](../Page/高木禮子.md "wikilink")（現所屬：[Sigma
     Seven](../Page/Sigma_Seven.md "wikilink")）
@@ -681,13 +686,13 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [津野田成美](../Page/津野田成美.md "wikilink")（現所屬：）
 
-  - [東條加那子](../Page/東條加那子.md "wikilink")（現所屬：AXL ONE）
+  - [東條加那子](https://zh.wikipedia.org/wiki/東條加那子 "wikilink")（現所屬：AXL ONE）
 
   - [東山奈央](../Page/東山奈央.md "wikilink")（現所屬：INTENTION）
 
   - （自由職業）
 
-  - [富坂晶](../Page/富坂晶.md "wikilink")
+  - [富坂晶](https://zh.wikipedia.org/wiki/富坂晶 "wikilink")
 
   -
 <!-- end list -->
@@ -702,7 +707,7 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   -
   - （在籍中死去）
 
-  - [永堀美穗](../Page/永堀美穗.md "wikilink")（現所屬：）
+  - [永堀美穗](https://zh.wikipedia.org/wiki/永堀美穗 "wikilink")（現所屬：）
 
   - [根谷美智子](../Page/根谷美智子.md "wikilink")（自由職業）
 
@@ -716,19 +721,20 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   - [服部加奈子](../Page/服部加奈子.md "wikilink")（引退）
 
-  - [花形惠子](../Page/花形惠子.md "wikilink")（移籍81 Produce之後在籍中死去）
+  - [花形惠子](https://zh.wikipedia.org/wiki/花形惠子 "wikilink")（移籍81
+    Produce之後在籍中死去）
 
   - [日比野朱里](../Page/日比野朱里.md "wikilink")（引退）
 
   - [林原惠](../Page/林原惠.md "wikilink")（現所屬：[Woodpark
-    Office](../Page/林原惠#Woodpark_Office.md "wikilink")）
+    Office](https://zh.wikipedia.org/wiki/林原惠#Woodpark_Office "wikilink")）
 
-  - [原惠理子](../Page/原惠理子.md "wikilink")（自由職業）
+  - [原惠理子](https://zh.wikipedia.org/wiki/原惠理子 "wikilink")（自由職業）
 
   -
   - （現所屬：[Warner Music Agency](../Page/日本華納音樂.md "wikilink")）
 
-  - [藤野薰](../Page/藤野薰.md "wikilink")（自由職業）
+  - [藤野薰](https://zh.wikipedia.org/wiki/藤野薰 "wikilink")（自由職業）
 
   - （現所屬：[Mausu Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
@@ -753,9 +759,9 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
   - （現所屬：）
 
   - [宮村優子](../Page/宮村優子.md "wikilink")（現所屬：[Japan Action
-    Enterprise](../Page/日本動作娛樂公司.md "wikilink")（業務提攜）、並以「關優子」名義作為音響監督活躍）
+    Enterprise](https://zh.wikipedia.org/wiki/日本動作娛樂公司 "wikilink")（業務提攜）、並以「關優子」名義作為音響監督活躍）
 
-  - [深雪早苗](../Page/深雪早苗.md "wikilink")（現所屬：東京俳優生活協同組合）
+  - [深雪早苗](https://zh.wikipedia.org/wiki/深雪早苗 "wikilink")（現所屬：東京俳優生活協同組合）
 
 <!-- end list -->
 
@@ -765,20 +771,20 @@ baobab前社長](../Page/Production_baobab.md "wikilink")[町田泉接任](../Pa
 
   -
   - [山田美穗](../Page/山田美穗.md "wikilink")（現所屬：[Crazy
-    Box](../Page/I'm_Enterprise#Crazy_Box.md "wikilink")）
+    Box](https://zh.wikipedia.org/wiki/I'm_Enterprise#Crazy_Box "wikilink")）
 
   -
   - （自由職業）
 
   - [尤加奈](../Page/尤加奈.md "wikilink")（現所屬：Sigma Seven）
 
-  - [雪繪玲那](../Page/雪繪玲那.md "wikilink")
+  - [雪繪玲那](https://zh.wikipedia.org/wiki/雪繪玲那 "wikilink")
 
   - （現所屬：Aksent）
 
   - [横山智佐](../Page/横山智佐.md "wikilink")（現所屬：橫山智佐事務所·Bambina代表）
 
-  - [吉田小南美](../Page/吉田小南美.md "wikilink")（現所屬：）
+  - [吉田小南美](https://zh.wikipedia.org/wiki/吉田小南美 "wikilink")（現所屬：）
 
   - [芳野美樹](../Page/芳野美樹.md "wikilink")
 

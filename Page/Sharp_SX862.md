@@ -1,22 +1,22 @@
 **Sharp
-SX862**的[屏幕設計使用多項技術](../Page/屏幕.md "wikilink")，包括[VGA](../Page/VGA.md "wikilink")
-[解像度及](../Page/解像度.md "wikilink")2000:1對比度。除擁3.2吋屏幕，更可以16:9全闊屏幕觀賞VGA
+SX862**的[屏幕設計使用多項技術](https://zh.wikipedia.org/wiki/屏幕 "wikilink")，包括[VGA](https://zh.wikipedia.org/wiki/VGA "wikilink")
+[解像度及](https://zh.wikipedia.org/wiki/解像度 "wikilink")2000:1對比度。除擁3.2吋屏幕，更可以16:9全闊屏幕觀賞VGA
 質素影片，屏幕更可旋轉至T型模式。
 
-|       |                                                                                                                                                                               |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 製造商   | Sharp                                                                                                                                                                         |
-| 推出日期  | 2008                                                                                                                                                                          |
-| 熒幕    | 3.2吋（854 x 480像素）16:9 闊屏幕播放VGA内容                                                                                                                                              |
-| 相機    | 3.2 百萬像素／自動對焦／自動曝光操控／25 倍數碼變焦／補光燈／微距模式／連環快拍多達9張相片                                                                                                                             |
-| 內置記憶  | 50 MB                                                                                                                                                                         |
-| 外置記憶卡 | 2GB MicroSD 記憶卡                                                                                                                                                               |
-| 網絡制式  | [HSDPA](../Page/HSDPA.md "wikilink") 3.6Mbps / [WCDMA](../Page/WCDMA.md "wikilink") 2100MHz / [GSM](../Page/GSM.md "wikilink") [三頻](../Page/三頻.md "wikilink")900/1800/1900MHz |
-| 傳輸功能  | [藍牙](../Page/藍牙.md "wikilink")、USB、[紅外線](../Page/紅外線.md "wikilink")                                                                                                           |
-| 電池類別  | [鋰電池](../Page/鋰電池.md "wikilink")                                                                                                                                              |
-| 體積    | 110.6 x 50 x 18毫米                                                                                                                                                             |
-| 重量    | 120克                                                                                                                                                                          |
-| 機身設計  | 摺疊式                                                                                                                                                                           |
+|       |                                                                                                                                                                                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 製造商   | Sharp                                                                                                                                                                                                                                  |
+| 推出日期  | 2008                                                                                                                                                                                                                                   |
+| 熒幕    | 3.2吋（854 x 480像素）16:9 闊屏幕播放VGA内容                                                                                                                                                                                                       |
+| 相機    | 3.2 百萬像素／自動對焦／自動曝光操控／25 倍數碼變焦／補光燈／微距模式／連環快拍多達9張相片                                                                                                                                                                                      |
+| 內置記憶  | 50 MB                                                                                                                                                                                                                                  |
+| 外置記憶卡 | 2GB MicroSD 記憶卡                                                                                                                                                                                                                        |
+| 網絡制式  | [HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 3.6Mbps / [WCDMA](https://zh.wikipedia.org/wiki/WCDMA "wikilink") 2100MHz / [GSM](../Page/GSM.md "wikilink") [三頻](https://zh.wikipedia.org/wiki/三頻 "wikilink")900/1800/1900MHz |
+| 傳輸功能  | [藍牙](../Page/藍牙.md "wikilink")、USB、[紅外線](https://zh.wikipedia.org/wiki/紅外線 "wikilink")                                                                                                                                                 |
+| 電池類別  | [鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")                                                                                                                                                                                    |
+| 體積    | 110.6 x 50 x 18毫米                                                                                                                                                                                                                      |
+| 重量    | 120克                                                                                                                                                                                                                                   |
+| 機身設計  | 摺疊式                                                                                                                                                                                                                                    |
 
 ## 歷史
 

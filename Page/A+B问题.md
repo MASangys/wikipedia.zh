@@ -6,7 +6,7 @@
 
 ## 範例程式碼
 
-### [JAVA](../Page/JAVA.md "wikilink")
+### [JAVA](https://zh.wikipedia.org/wiki/JAVA "wikilink")
 
 ``` java
 import java.util.*;
@@ -21,7 +21,7 @@ public class AB {
 } //AB end
 ```
 
-### [C](../Page/C語言.md "wikilink")
+### [C](https://zh.wikipedia.org/wiki/C語言 "wikilink")
 
 ``` c
 #include <stdio.h>
@@ -96,13 +96,13 @@ PROGRAM P1000
 
 ## 要注意的问题
 
-1.  在有的版本的A+B问题中，虽然输入的A和B都在[整数的范围之内](../Page/整数_\(计算机科学\).md "wikilink")，结果A+B的值不一定也在这个范围。这时候就要使用数值范围更广的[数据类型](../Page/数据类型.md "wikilink")。
+1.  在有的版本的A+B问题中，虽然输入的A和B都在[整数的范围之内](../Page/整数_\(计算机科学\).md "wikilink")，结果A+B的值不一定也在这个范围。这时候就要使用数值范围更广的[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。
 2.  这个题库可能会使用特殊的输入输出方法（例如文件输入），也可能要求提交的时候加入一些附加信息，如果没在这个题库做过题目也没有看帮助，或者以前完全没有使用文件的经验，这可能出错。
 3.  另外对于一些不自带数字输入输出功能的语言（例如[Brainfuck](../Page/Brainfuck.md "wikilink")），自己写数字输入输出可能也是比较困难的地方。
 
 ## 扩展
 
-而这道题目的扩展通常是加入数据范围之类的陷阱，如[高精度加法](../Page/高精度加法.md "wikilink")、不使用[十进制或](../Page/十进制.md "wikilink")\(A\)或\(B\)的其中一個夾帶數字如：「AA123BB」等。
+而这道题目的扩展通常是加入数据范围之类的陷阱，如[高精度加法](https://zh.wikipedia.org/wiki/高精度加法 "wikilink")、不使用[十进制或](../Page/十进制.md "wikilink")\(A\)或\(B\)的其中一個夾帶數字如：「AA123BB」等。
 
 ## 参考文献
 

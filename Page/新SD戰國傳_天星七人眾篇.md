@@ -1,4 +1,4 @@
-「天星七人眾篇」是「SD戰國傳系列」第十一年之作。故事舞台亦由以往天宮之國，搬到北方的「緋州之國」。雖然如此，作為主要人物「天星七人眾」，亦被設定為「武者七人眾」加「號斗丸」的力量繼承（風之天星「迅風頑馱無」同時繼承摩亞屈及仁宇雙重力量。），而部份角色造型，基本上以動畫「[浪客劍心](../Page/浪客劍心.md "wikilink")」為藍本。
+「天星七人眾篇」是「SD戰國傳系列」第十一年之作。故事舞台亦由以往天宮之國，搬到北方的「緋州之國」。雖然如此，作為主要人物「天星七人眾」，亦被設定為「武者七人眾」加「號斗丸」的力量繼承（風之天星「迅風頑馱無」同時繼承摩亞屈及仁宇雙重力量。），而部份角色造型，基本上以動畫「[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")」為藍本。
 
 此作品銳意以新舞台為背景，可惜模型造型相對以往生硬，活動性上，放棄自「傳說之大將軍篇」開始引入的多關節活動結構，轉而用回當時「SD高達G世紀」系列的簡化骨架，令活動性遜於前作。加上「偷膠」情況頗多（為節省成本，將零件的某些部份鏤空，例如手背、劍鞘等。由於每次都要修補空洞，故此素為模型迷所詬病。），令此作人氣大受影響。由於在「天星」以後多個作品，均難以挽回BB戰士人氣，一直至到人氣之作「武者烈傳」推出後才結束，因此可以說，「天星七人眾」，是BB戰士低谷期之開端。
 
@@ -76,7 +76,7 @@
 <!-- end list -->
 
   -
-    劍之天星、「七逆星」首領魁斬頑馱無之弟，繼承「七人眾」領袖[武者頑馱無的靈魂](../Page/武者頑馱無.md "wikilink")，亦為「七星天劍流」正統繼承者。猶如傳說一樣的劍術高手。
+    劍之天星、「七逆星」首領魁斬頑馱無之弟，繼承「七人眾」領袖[武者頑馱無的靈魂](https://zh.wikipedia.org/wiki/武者頑馱無 "wikilink")，亦為「七星天劍流」正統繼承者。猶如傳說一樣的劍術高手。
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 <!-- end list -->
 
   -
-    角色原型來自[浪客劍心角色](../Page/浪客劍心.md "wikilink")「比古清十郎」。
+    角色原型來自[浪客劍心角色](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")「比古清十郎」。
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 <!-- end list -->
 
   -
-    角色原型來自[浪客劍心角色](../Page/浪客劍心.md "wikilink")「相樂左之肋」。
+    角色原型來自[浪客劍心角色](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")「相樂左之肋」。
 
 <!-- end list -->
 
@@ -157,7 +157,8 @@
 
 <!-- end list -->
 
-  - **迅風頑馱無**（[ORX-013GUNDAM](../Page/ORX-013.md "wikilink") MK-V）
+  - **迅風頑馱無**（[ORX-013GUNDAM](https://zh.wikipedia.org/wiki/ORX-013 "wikilink")
+    MK-V）
 
 <!-- end list -->
 
@@ -219,7 +220,8 @@
 
 ### 七逆星
 
-  - **魁斬頑馱無**（[Hydra Gundam](../Page/Hydra_Gundam.md "wikilink")）
+  - **魁斬頑馱無**（[Hydra
+    Gundam](https://zh.wikipedia.org/wiki/Hydra_Gundam "wikilink")）
 
 <!-- end list -->
 
@@ -248,7 +250,7 @@
 <!-- end list -->
 
   -
-    志士皇名稱及造型，來自[浪客劍心中角色](../Page/浪客劍心.md "wikilink")「志志雄真實」。
+    志士皇名稱及造型，來自[浪客劍心中角色](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")「志志雄真實」。
 
 <!-- end list -->
 
@@ -327,7 +329,7 @@
 <!-- end list -->
 
   - **鎖鞭刃/改造再生鎖鞭刃**（[MMS-01 （OZ-17MS）
-    Serpent](../Page/MMS-01_（OZ-17MS）_Serpent.md "wikilink")）
+    Serpent](https://zh.wikipedia.org/wiki/MMS-01_（OZ-17MS）_Serpent "wikilink")）
 
 <!-- end list -->
 
@@ -342,7 +344,7 @@
 <!-- end list -->
 
   - **賄主羽羅火**（[DT-6800HMC Wise
-    Wallaby](../Page/DT-6800HMC_Wise_Wallaby.md "wikilink")）
+    Wallaby](https://zh.wikipedia.org/wiki/DT-6800HMC_Wise_Wallaby "wikilink")）
 
 <!-- end list -->
 
@@ -352,7 +354,7 @@
 <!-- end list -->
 
   - **火羽羅火**（[DT-6800HM Fire
-    Wallaby](../Page/DT-6800HM_Fire_Wallaby.md "wikilink")）
+    Wallaby](https://zh.wikipedia.org/wiki/DT-6800HM_Fire_Wallaby "wikilink")）
 
 <!-- end list -->
 
@@ -361,7 +363,8 @@
 
 <!-- end list -->
 
-  - **怯鼓**（[OZ-02MD Virgo](../Page/OZ-02MD_Virgo.md "wikilink")）
+  - **怯鼓**（[OZ-02MD
+    Virgo](https://zh.wikipedia.org/wiki/OZ-02MD_Virgo "wikilink")）
 
 <!-- end list -->
 
@@ -370,7 +373,8 @@
 
 <!-- end list -->
 
-  - **弍怯鼓**（[WF-02MD Virgo II](../Page/WF-02MD_Virgo_II.md "wikilink")）
+  - **弍怯鼓**（[WF-02MD Virgo
+    II](https://zh.wikipedia.org/wiki/WF-02MD_Virgo_II "wikilink")）
 
 <!-- end list -->
 
@@ -380,7 +384,7 @@
 <!-- end list -->
 
   - **針燕翔**（[NRX-009 （NR-001）
-    Balient](../Page/NRX-009_（NR-001）_Balient.md "wikilink")）
+    Balient](https://zh.wikipedia.org/wiki/NRX-009_（NR-001）_Balient "wikilink")）
 
 <!-- end list -->
 
@@ -389,7 +393,8 @@
 
 <!-- end list -->
 
-  - **牙天龍**（[NRMA-006 Gadeel](../Page/NRMA-006_Gadeel.md "wikilink")）
+  - **牙天龍**（[NRMA-006
+    Gadeel](https://zh.wikipedia.org/wiki/NRMA-006_Gadeel "wikilink")）
 
 <!-- end list -->
 
@@ -398,7 +403,8 @@
 
 <!-- end list -->
 
-  - **愚嵐電**（[MA-06 Grandeene](../Page/MA-06_Grandeene.md "wikilink")）
+  - **愚嵐電**（[MA-06
+    Grandeene](https://zh.wikipedia.org/wiki/MA-06_Grandeene "wikilink")）
 
 <!-- end list -->
 
@@ -451,7 +457,7 @@
 **七天星**
 
   -
-    「七天星」是指位於緋州之國上空，由七顆星連成、類似[高達眼睛的星座](../Page/高達.md "wikilink")。據說與昔日解救世界的巨大武人有關。
+    「七天星」是指位於緋州之國上空，由七顆星連成、類似[高達眼睛的星座](https://zh.wikipedia.org/wiki/高達 "wikilink")。據說與昔日解救世界的巨大武人有關。
 
 **七逆星**
 

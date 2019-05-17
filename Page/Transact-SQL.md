@@ -1,7 +1,8 @@
 **Transact-SQL**（又稱T-SQL），是在[Microsoft SQL
-Server和](../Page/Microsoft_SQL_Server.md "wikilink")[Sybase SQL
-Server上的ANSI](../Page/Sybase_SQL_Server.md "wikilink")
-[SQL實作](../Page/SQL.md "wikilink")，與[Oracle的](../Page/Oracle.md "wikilink")[PL/SQL性質相近](../Page/PL/SQL.md "wikilink")（不只是實作ANSI
+Server和](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Sybase
+SQL
+Server上的ANSI](https://zh.wikipedia.org/wiki/Sybase_SQL_Server "wikilink")
+[SQL實作](../Page/SQL.md "wikilink")，與[Oracle的](https://zh.wikipedia.org/wiki/Oracle "wikilink")[PL/SQL性質相近](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")（不只是實作ANSI
 SQL，也為自身資料庫系統的特性提供實作支援），目前在Microsoft SQL Server\[1\]和Sybase Adaptive
 Server\[2\]中仍然被使用為核心的查詢語言。
 
@@ -11,7 +12,7 @@ Business Logic），以強制限制前端應用程式對資料的控制能力。
 ## 語言結構
 
 Transact-SQL以ANSI SQL為主要組成，目前Microsoft實作的Transact-SQL可支援到ANSI
-[SQL-92標準](../Page/SQL-92.md "wikilink")。
+[SQL-92標準](https://zh.wikipedia.org/wiki/SQL-92 "wikilink")。
 
 ### ANSI SQL基礎語法支援
 
@@ -27,7 +28,7 @@ Language）是對於資料庫物件的控制語法，對資料庫物件（如資
 **DML**
 
 DML（Data Manipulation
-Language）是一般開發人員俗稱的[CRUD](../Page/CRUD.md "wikilink")（Create/Retrieve/Update/Delete）功能，意指資料的新增／擷取／修改／刪除四個功能。
+Language）是一般開發人員俗稱的[CRUD](https://zh.wikipedia.org/wiki/CRUD "wikilink")（Create/Retrieve/Update/Delete）功能，意指資料的新增／擷取／修改／刪除四個功能。
 
   - SELECT（R）
   - INSERT（C）

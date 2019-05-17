@@ -20,10 +20,10 @@ TICKET」，讓幸運買到的樂迷，可以到2008年7月7日開始的全國�
 
 1.  **POWER OF MUSIC**
       -
-        作詞：絢香/作曲：西尾芳彦、絢香/編曲：[塩谷哲](../Page/塩谷哲.md "wikilink")
-2.  **[歌頌愛](../Page/牽手吧/歌頌愛.md "wikilink")（）**
+        作詞：絢香/作曲：西尾芳彦、絢香/編曲：[塩谷哲](https://zh.wikipedia.org/wiki/塩谷哲 "wikilink")
+2.  **[歌頌愛](https://zh.wikipedia.org/wiki/牽手吧/歌頌愛 "wikilink")（）**
       -
-        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[十川知司](../Page/十川知司.md "wikilink")
+        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink")
         7th單曲。BEAUTÉ de KOSÉ「ESPRIQUE
         PRECIOUS」廣告曲。[TBS電視台](../Page/TBS電視台.md "wikilink")「報道大河スペシャルいのちの地球…」主題曲。
 3.  **Sky**
@@ -40,34 +40,34 @@ TICKET」，讓幸運買到的樂迷，可以到2008年7月7日開始的全國�
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：L.O.E
         2007年11月14日開始配信的配信歌曲。今作首次CD化。江崎グリコ「ポッキー」廣告曲。
-7.  **[Why](../Page/CLAP&LOVE/Why.md "wikilink")**
+7.  **[Why](https://zh.wikipedia.org/wiki/CLAP&LOVE/Why "wikilink")**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：L.O.E
-        6th單曲。PSP遊戲「[核心危機：最終幻想VII](../Page/核心危機：最終幻想VII.md "wikilink")」主題曲。
+        6th單曲。PSP遊戲「[核心危機：最終幻想VII](https://zh.wikipedia.org/wiki/核心危機：最終幻想VII "wikilink")」主題曲。
 8.  **黃金之星（）**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：L.O.E
 9.  **魔法師的惡作劇（）**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：L.O.E
-10. **[牽手吧](../Page/牽手吧/歌頌愛.md "wikilink")（）**
+10. **[牽手吧](https://zh.wikipedia.org/wiki/牽手吧/歌頌愛 "wikilink")（）**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：L.O.E
         7th單曲。電影『哆啦A夢 大雄與綠之巨人傳』主題歌。
 11. **愛與謊言的真實（）**
       -
-        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[安部潤](../Page/安部潤.md "wikilink")
-12. **[CLAP\&LOVE](../Page/CLAP&LOVE/Why.md "wikilink")**
+        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+12. **[CLAP\&LOVE](https://zh.wikipedia.org/wiki/CLAP&LOVE/Why "wikilink")**
       -
-        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[松浦晃久](../Page/松浦晃久.md "wikilink")
+        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[松浦晃久](https://zh.wikipedia.org/wiki/松浦晃久 "wikilink")
         6th單曲。[TBS電視台連續劇](../Page/TBS電視台.md "wikilink")「[婆媳大戰](../Page/婆媳大戰.md "wikilink")」主題歌。
 13. **因為有你（）**
       -
-        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[亀田誠治](../Page/亀田誠治.md "wikilink")
+        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[亀田誠治](https://zh.wikipedia.org/wiki/亀田誠治 "wikilink")
 14. **[歡迎回來](../Page/歡迎回來.md "wikilink")（）**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：松浦晃久
-        8th單曲。[富士電視台連續劇](../Page/富士電視台.md "wikilink")「[絕對達令](../Page/絕對達令.md "wikilink")」主題歌。
+        8th單曲。[富士電視台連續劇](../Page/富士電視台.md "wikilink")「[絕對達令](https://zh.wikipedia.org/wiki/絕對達令 "wikilink")」主題歌。
 15. **今夜也擁抱星辰...（）**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：塩谷哲
@@ -81,7 +81,9 @@ TICKET」，讓幸運買到的樂迷，可以到2008年7月7日開始的全國�
         BONUS TRACK
         [絢香×可苦可樂合作的單曲](../Page/絢香×可苦可樂.md "wikilink")。[日產汽車CUBE](../Page/日產汽車.md "wikilink")
         廣告曲。
-17. **[I believe](../Page/I_believe.md "wikilink")\<English ver.\>**
+17. **[I
+    believe](https://zh.wikipedia.org/wiki/I_believe "wikilink")\<English
+    ver.\>**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/英語詞：Tim Jensen/編曲：L.O.E
         僅收錄在初回限定DVD版本，歌詞為1st單曲的英文翻譯，台灣並未發行DVD版本。

@@ -8,8 +8,8 @@ VC-1是基於Windows Media Video
   - WMVA
   - WVC1
 
-壓縮技術整合了MPEG及H.264之優點，採用Biliner和Bicubic方式，[次像素](../Page/次像素.md "wikilink")（Sub-Pixel）最小可達4分之1像素。VC-1-{只}-有4種動作補償（motion
-composition），壓縮比無法勝過H.264。VC-1在壓縮時間上，明顯比[H.264短了許多](../Page/H.264.md "wikilink")，複雜度約只有H.264的50%，對特效電影有很傑出的效能表現。由於H.264使用較小尺寸的轉換公式與無法調整的量化矩陣，造成不能完整保留影像的高頻細節資訊。
+壓縮技術整合了MPEG及H.264之優點，採用Biliner和Bicubic方式，[次像素](https://zh.wikipedia.org/wiki/次像素 "wikilink")（Sub-Pixel）最小可達4分之1像素。VC-1-{只}-有4種動作補償（motion
+composition），壓縮比無法勝過H.264。VC-1在壓縮時間上，明顯比[H.264短了許多](https://zh.wikipedia.org/wiki/H.264 "wikilink")，複雜度約只有H.264的50%，對特效電影有很傑出的效能表現。由於H.264使用較小尺寸的轉換公式與無法調整的量化矩陣，造成不能完整保留影像的高頻細節資訊。
 
 [HD
 DVD和](../Page/HD_DVD.md "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")（Blu-ray
@@ -149,7 +149,7 @@ DVD規格。電影及電視學會（SMPTE）已採用VC-1為視訊壓縮標準�
 
 </center>
 
-## [位元率與解析度](../Page/位元率.md "wikilink")
+## [位元率與解析度](https://zh.wikipedia.org/wiki/位元率 "wikilink")
 
 <center>
 

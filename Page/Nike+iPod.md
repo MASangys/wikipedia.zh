@@ -1,18 +1,19 @@
 [Apple_iPod_Nano_and_Nike+_Kit.JPG](https://zh.wikipedia.org/wiki/File:Apple_iPod_Nano_and_Nike+_Kit.JPG "fig:Apple_iPod_Nano_and_Nike+_Kit.JPG")
 **Nike+iPod运动套件**是测量和记录步行及跑步距离和速度的装置。它包含一个装在鞋底的微型[计速传感器](../Page/传感器.md "wikilink")\[1\]，通过和随身携带的[iPod
-Nano或](../Page/iPod_nano.md "wikilink")[iPod Touch
-2互相通讯](../Page/iPod_touch#iPod_Touch_第二代.md "wikilink")，进行工作。连上[iTunes](../Page/iTunes.md "wikilink")，还能查阅曾经步行或跑步的历史记录。
+Nano或](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")[iPod Touch
+2互相通讯](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch_第二代 "wikilink")，进行工作。连上[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，还能查阅曾经步行或跑步的历史记录。
 
 传感器和iPod套件于2006年5月23日首次展示，短期内还无法购买。套件能存储以下的信息：[锻炼时段](../Page/慢跑.md "wikilink")、运动距离、步速、或个人穿鞋消耗的[卡路里](../Page/卡路里.md "wikilink")，并可通过耳机显示在iPod的显示屏或[广播上](../Page/播客.md "wikilink")。
 
 传感器和Sportband套件于2008年3月发布预告\[2\]。套件允许使用者无需iPod
-Nano即可存储跑步数据\[3\]。Sportband由两部分组成：系在手臂上的胶圈，以及类似[U盘的接收器](../Page/U盘.md "wikilink")。接收器能像iPod套件那样直接在内置显示装置上读取数据信息。运动结束后，直接把接收器插入USB接口，软件就能把运动数据自动上传到Nike+网站上。
+Nano即可存储跑步数据\[3\]。Sportband由两部分组成：系在手臂上的胶圈，以及类似[U盘的接收器](https://zh.wikipedia.org/wiki/U盘 "wikilink")。接收器能像iPod套件那样直接在内置显示装置上读取数据信息。运动结束后，直接把接收器插入USB接口，软件就能把运动数据自动上传到Nike+网站上。
 
 2008年8月，Nike+iPod健体发布。现在，使用者可以记录他们在健身设备上的锻炼数据，这些数据包括力健跑步机、多功能训练鞋，和立式及卧式脚踏车。用户只需将自己的iPod
 Nano的连接到健身中心的心肺设备，无需体育套件即可实现这一功能。Nike+ 还能让用户把这些数据记录到专门网站上。
 
-2008年9月9日，[苹果公司将Nike](../Page/苹果公司.md "wikilink")+功能内置整合到[iPod
-Touch](../Page/iPod_Touch.md "wikilink") 2 代中，不再需要额外的接受装置\[4\]。
+2008年9月9日，[苹果公司将Nike](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")+功能内置整合到[iPod
+Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink") 2
+代中，不再需要额外的接受装置\[4\]。
 
 [Nike+_transmitter_in_shoe.JPG](https://zh.wikipedia.org/wiki/File:Nike+_transmitter_in_shoe.JPG "fig:Nike+_transmitter_in_shoe.JPG")
 
@@ -20,14 +21,14 @@ Touch](../Page/iPod_Touch.md "wikilink") 2 代中，不再需要额外的接受�
 
 ## 参见
 
-  - [iPod](../Page/iPod.md "wikilink")
+  - [iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")
   - [耐克](../Page/耐克.md "wikilink")
   - [Nike+赛跑全人类](../Page/Nike+赛跑全人类.md "wikilink")
 
 ## 外部链接
 
   - [Nike+iPod](https://web.archive.org/web/20090121204946/http://www.apple.com.cn/ipod/nike/)
-    - 位于[苹果公司中文网站上的官方网站](../Page/苹果公司.md "wikilink")
+    - 位于[苹果公司中文网站上的官方网站](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
   - [Nike+](https://web.archive.org/web/20071010133448/http://nikeplus.nike.com/nikeplus/index.jhtml?l=my_runs)
     - 位于[耐克公司中文网站上的官方网站](../Page/耐克.md "wikilink")
   - [Nike+ 酷跑竞地

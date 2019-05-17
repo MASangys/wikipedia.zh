@@ -1,8 +1,8 @@
 《**A計劃**》（；[香港譯名](../Page/香港.md "wikilink")《**盜海奇兵**》）是一部於2007年出品的華語電視劇，此劇為[臺灣](../Page/臺灣.md "wikilink")、[香港與](../Page/香港.md "wikilink")[中国大陆合資拍攝製作](../Page/中国大陆.md "wikilink")，全劇共32集，由[張衛健](../Page/張衛健.md "wikilink")、[鍾欣潼](../Page/鍾欣潼.md "wikilink")、[王晶](../Page/王晶.md "wikilink")、[元秋和](../Page/元秋.md "wikilink")[譚耀文等擔任演出](../Page/譚耀文.md "wikilink")。
 
-此劇於2006年8月20日至2006年12月20日期間在[北京](../Page/北京.md "wikilink")[横店影视城取景拍攝](../Page/横店影视城.md "wikilink")。
+此劇於2006年8月20日至2006年12月20日期間在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[横店影视城取景拍攝](../Page/横店影视城.md "wikilink")。
 
-[台灣首播方面](../Page/台灣.md "wikilink")，於2007年7月5日起在[中視無線台逢星期一至五](../Page/中視無線台.md "wikilink")20:00首播，每集播放約90分鐘，最終於19集播放完畢，2007年7月31日結束；[香港首播方面](../Page/香港.md "wikilink")，將原本的劇名改為《盜海奇兵》，於2007年8月13日起在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台逢星期一至五](../Page/本港台.md "wikilink")20:30首播，每集播放約90分鐘，最終於20集播放完畢，2007年9月7日結束。
+[台灣首播方面](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2007年7月5日起在[中視無線台逢星期一至五](https://zh.wikipedia.org/wiki/中視無線台 "wikilink")20:00首播，每集播放約90分鐘，最終於19集播放完畢，2007年7月31日結束；[香港首播方面](../Page/香港.md "wikilink")，將原本的劇名改為《盜海奇兵》，於2007年8月13日起在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台逢星期一至五](../Page/本港台.md "wikilink")20:30首播，每集播放約90分鐘，最終於20集播放完畢，2007年9月7日結束。
 
 ## 劇情內容
 
@@ -48,7 +48,7 @@
 <td><p>古慈(小慈)</p></td>
 <td><p>古標之女<br />
 古莉之妹<br />
-參見<a href="../Page/#竇家.md" title="wikilink">竇家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#竇家" title="wikilink">竇家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳浩康.md" title="wikilink">吳浩康</a></p></td>
@@ -56,7 +56,7 @@
 <td><p>古莉之夫</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜泓君.md" title="wikilink">杜泓君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜泓君" title="wikilink">杜泓君</a></p></td>
 <td><p>崩牙佬</p></td>
 <td><p>崩牙婆之夫</p></td>
 </tr>
@@ -103,18 +103,18 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李國華.md" title="wikilink">李國華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李國華" title="wikilink">李國華</a></p></td>
 <td><p>賀良才</p></td>
 <td><p>賀安邦、定國之父<br />
 </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/徐玉蘭.md" title="wikilink">徐玉蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐玉蘭" title="wikilink">徐玉蘭</a></p></td>
 <td><p>媚姨</p></td>
 <td><p>賀良才之二姨太、賀定國之母</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳慶哲.md" title="wikilink">吳慶哲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳慶哲" title="wikilink">吳慶哲</a></p></td>
 <td><p>賀安邦</p></td>
 <td><p>賀良才之子、賀定國之同父異母之兄<br />
 高曼妮之夫<br />
@@ -155,7 +155,7 @@
 <tr class="even">
 <td><p><a href="../Page/王晶.md" title="wikilink">王　晶</a></p></td>
 <td><p>唐郎</p></td>
-<td><p>青年由<a href="../Page/聶遠.md" title="wikilink">聶遠飾演</a><br />
+<td><p>青年由<a href="https://zh.wikipedia.org/wiki/聶遠" title="wikilink">聶遠飾演</a><br />
 竇太之師弟<br />
 曾深愛柳如煙</p></td>
 </tr>
@@ -166,7 +166,7 @@
 被賀安邦殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄭曉東.md" title="wikilink">鄭曉東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭曉東" title="wikilink">鄭曉東</a></p></td>
 <td><p>紅豆糕</p></td>
 <td><p>小喇叭同事及好友<br />
 曾喜歡玫瑰、牡丹<br />
@@ -190,23 +190,23 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/夏妮.md" title="wikilink">夏妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏妮" title="wikilink">夏妮</a></p></td>
 <td><p>瑪莉</p></td>
 <td><p>賀安邦未婚妻<br />
 被賀安邦殺死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張春仲.md" title="wikilink">張春仲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張春仲" title="wikilink">張春仲</a></p></td>
 <td><p>方鐵指</p></td>
 <td><p>袁世凱之手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莫美林.md" title="wikilink">莫美林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫美林" title="wikilink">莫美林</a></p></td>
 <td><p>卓銅皮</p></td>
 <td><p>袁世凱之手下</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張琦.md" title="wikilink">張琦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張琦" title="wikilink">張琦</a></p></td>
 <td><p>大口九</p></td>
 <td></td>
 </tr>
@@ -220,14 +220,14 @@
 
 ## 收視
 
-以下為該劇於[香港](../Page/香港.md "wikilink")[亞洲電視本港台之收視紀錄](../Page/亞洲電視本港台.md "wikilink")：
+以下為該劇於[香港](../Page/香港.md "wikilink")[亞洲電視本港台之收視紀錄](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")：
 
-| 週次 | 日期               | 平均收視                            |
-| -- | ---------------- | ------------------------------- |
-| 1  | 2007年8月13日－8月17日 | 5[點](../Page/收視點.md "wikilink") |
-| 2  | 2007年8月20日－8月24日 | 4[點](../Page/收視點.md "wikilink") |
-| 3  | 2007年8月27日－8月31日 | 4[點](../Page/收視點.md "wikilink") |
-| 4  | 2007年9月3日－9月7日   | 4[點](../Page/收視點.md "wikilink") |
+| 週次 | 日期               | 平均收視                                               |
+| -- | ---------------- | -------------------------------------------------- |
+| 1  | 2007年8月13日－8月17日 | 5[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2  | 2007年8月20日－8月24日 | 4[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3  | 2007年8月27日－8月31日 | 4[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4  | 2007年9月3日－9月7日   | 4[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
 ## 中國大陸版本
 

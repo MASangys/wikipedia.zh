@@ -1,13 +1,13 @@
 **魔法少女奈葉 Sound
-Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈葉系列.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")（[無印](../Page/魔法少女奈葉.md "wikilink")、[A's](../Page/魔法少女奈葉A's.md "wikilink")、[StrikerS](../Page/魔法少女奈葉StrikerS.md "wikilink")）劇情間的[廣播劇](../Page/廣播劇.md "wikilink")、角色歌和[原聲音樂等商品的CD合輯總稱](../Page/原聲音樂.md "wikilink")。
+Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈葉系列.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")（[無印](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")、[A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")、[StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")）劇情間的[廣播劇](../Page/廣播劇.md "wikilink")、角色歌和[原聲音樂等商品的CD合輯總稱](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
-## [魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink")
+## [魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")
 
 ### Sound Stage01
 
   - 2004年11月26日發行。發行商[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-666）
-  - 講述第2話和第3話之間故事，名為第2.5「」，收錄了[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、亞麗沙·巴寧斯（[釘宮理恵](../Page/釘宮理恵.md "wikilink")）、月村鈴香（[清水愛](../Page/清水愛.md "wikilink")）三首角色歌
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-666）
+  - 講述第2話和第3話之間故事，名為第2.5「」，收錄了[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、亞麗沙·巴寧斯（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）、月村鈴香（[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")）三首角色歌
 
 <!-- end list -->
 
@@ -30,16 +30,16 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>6. <strong>Precious time</strong>
 <ul>
-<li>歌：アリサ・バニングス（<a href="../Page/釘宮理恵.md" title="wikilink">釘宮理恵</a>）</li>
-<li>作詞：<a href="../Page/A-ko.md" title="wikilink">A-ko</a> 作曲：<a href="../Page/佐野廣明.md" title="wikilink">佐野廣明</a> 編曲：<a href="../Page/安井步.md" title="wikilink">安井步</a></li>
+<li>歌：アリサ・バニングス（<a href="https://zh.wikipedia.org/wiki/釘宮理恵" title="wikilink">釘宮理恵</a>）</li>
+<li>作詞：<a href="https://zh.wikipedia.org/wiki/A-ko" title="wikilink">A-ko</a> 作曲：<a href="https://zh.wikipedia.org/wiki/佐野廣明" title="wikilink">佐野廣明</a> 編曲：<a href="https://zh.wikipedia.org/wiki/安井步" title="wikilink">安井步</a></li>
 </ul>
 </dd>
 <dd>7.
 </dd>
 <dd>8. <strong>きっとStand by you</strong>
 <ul>
-<li>歌：月村すずか（<a href="../Page/清水愛.md" title="wikilink">清水愛</a>）</li>
-<li>作詞：<a href="../Page/臼井晃.md" title="wikilink">臼井晃</a> 作曲、編曲：佐野廣明</li>
+<li>歌：月村すずか（<a href="https://zh.wikipedia.org/wiki/清水愛" title="wikilink">清水愛</a>）</li>
+<li>作詞：<a href="https://zh.wikipedia.org/wiki/臼井晃" title="wikilink">臼井晃</a> 作曲、編曲：佐野廣明</li>
 </ul>
 </dd>
 </dl></td>
@@ -60,7 +60,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 <dd>15. <strong>Flying high!</strong>
 <ul>
 <li>歌：<a href="../Page/高町奈葉.md" title="wikilink">高町奈葉</a>（<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a>）</li>
-<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲：<a href="../Page/佐野廣明.md" title="wikilink">佐野廣明</a> 編曲：安井步</li>
+<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲：<a href="https://zh.wikipedia.org/wiki/佐野廣明" title="wikilink">佐野廣明</a> 編曲：安井步</li>
 </ul>
 </dd>
 <dd>16.
@@ -73,7 +73,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage02
 
   - 2005年1月13日發行。發行商[國王唱片](../Page/國王唱片.md "wikilink")（商品番號：KICA-667）
-  - 講述第5話和第6話之間的故事，名為第5.5話「」，收錄[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[艾爾芙](../Page/艾爾芙.md "wikilink")（[桑谷夏子](../Page/桑谷夏子.md "wikilink")）、莉妮丝（[浅野真澄](../Page/浅野真澄.md "wikilink")）三首角色歌。
+  - 講述第5話和第6話之間的故事，名為第5.5話「」，收錄[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[艾爾芙](https://zh.wikipedia.org/wiki/艾爾芙 "wikilink")（[桑谷夏子](../Page/桑谷夏子.md "wikilink")）、莉妮丝（[浅野真澄](../Page/浅野真澄.md "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -108,8 +108,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>10.
 <ul>
-<li>歌：<a href="../Page/艾爾芙.md" title="wikilink">艾爾芙</a>（桑谷夏子）</li>
-<li>作詞：<a href="../Page/A-ko.md" title="wikilink">A-ko</a> 作曲、編曲：佐野廣明</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/艾爾芙" title="wikilink">艾爾芙</a>（桑谷夏子）</li>
+<li>作詞：<a href="https://zh.wikipedia.org/wiki/A-ko" title="wikilink">A-ko</a> 作曲、編曲：佐野廣明</li>
 </ul>
 </dd>
 </dl></td>
@@ -132,7 +132,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 <dd>18. <strong>Wish</strong>
 <ul>
 <li>歌：<a href="../Page/菲特·泰斯塔羅沙.md" title="wikilink">菲特·泰斯塔羅沙</a>（<a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈</a>）</li>
-<li>作詞：都築真紀 作曲：<a href="../Page/happy_soulman.md" title="wikilink">happy soulman</a> 編曲：安井步</li>
+<li>作詞：都築真紀 作曲：<a href="https://zh.wikipedia.org/wiki/happy_soulman" title="wikilink">happy soulman</a> 編曲：安井步</li>
 </ul>
 </dd>
 <dd>19.
@@ -145,8 +145,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage03
 
   - 2005年4月6日發行。發行商[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-668）
-  - 講述最終話之后發生的故事，名為第14話「」，收錄[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、[尤諾·斯克萊亞](../Page/尤諾·斯克萊亞.md "wikilink")（[水橋香織](../Page/水橋香織.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-668）
+  - 講述最終話之后發生的故事，名為第14話「」，收錄[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、[尤諾·斯克萊亞](https://zh.wikipedia.org/wiki/尤諾·斯克萊亞 "wikilink")（[水橋香織](../Page/水橋香織.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 <dd>5.
 <ul>
 <li>歌：<a href="../Page/高町奈葉.md" title="wikilink">高町奈葉</a>（<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a>）</li>
-<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲、編曲：<a href="../Page/佐野廣明.md" title="wikilink">佐野廣明</a></li>
+<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲、編曲：<a href="https://zh.wikipedia.org/wiki/佐野廣明" title="wikilink">佐野廣明</a></li>
 </ul>
 </dd>
 <dd>6.
@@ -177,7 +177,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>8.
 <ul>
-<li>歌：<a href="../Page/尤諾·斯克萊亞.md" title="wikilink">尤諾·斯克萊亞</a>（<a href="../Page/水橋香織.md" title="wikilink">水橋香織</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/尤諾·斯克萊亞" title="wikilink">尤諾·斯克萊亞</a>（<a href="../Page/水橋香織.md" title="wikilink">水橋香織</a>）</li>
 <li>作詞：都築真紀 作曲、編曲：佐野廣明</li>
 </ul>
 </dd>
@@ -212,8 +212,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### 原聲音樂
 
   - 2005年5月11日發行。發行商[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-693）
-  - [魔法少女奈葉原聲音樂附帶BGM](../Page/魔法少女奈葉.md "wikilink")。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-693）
+  - [魔法少女奈葉原聲音樂附帶BGM](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")。
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 <tr class="odd">
 <td><dl>
 <dt></dt>
-<dd>1. 片頭曲《<a href="../Page/innocent_starter.md" title="wikilink">innocent starter</a>（TV-Size）》
+<dd>1. 片頭曲《<a href="https://zh.wikipedia.org/wiki/innocent_starter" title="wikilink">innocent starter</a>（TV-Size）》
 <ul>
 <li>歌：<a href="../Page/水樹奈奈.md" title="wikilink">水樹奈奈</a> 作詞：水樹奈奈 作曲、編曲：<a href="../Page/大平勉.md" title="wikilink">大平勉</a></li>
 </ul>
@@ -300,7 +300,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>35.
 <ul>
-<li>歌：<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a> 作詞：<a href="../Page/椎名可憐.md" title="wikilink">椎名可憐</a> 作曲、編曲：<a href="../Page/太田雅友.md" title="wikilink">太田雅友</a></li>
+<li>歌：<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a> 作詞：<a href="https://zh.wikipedia.org/wiki/椎名可憐" title="wikilink">椎名可憐</a> 作曲、編曲：<a href="https://zh.wikipedia.org/wiki/太田雅友" title="wikilink">太田雅友</a></li>
 </ul>
 </dd>
 <dd>36.
@@ -313,12 +313,12 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>40.
 <ul>
-<li>声：<a href="../Page/Donna_Burke.md" title="wikilink">Donna Burke</a></li>
+<li>声：<a href="https://zh.wikipedia.org/wiki/Donna_Burke" title="wikilink">Donna Burke</a></li>
 </ul>
 </dd>
 <dd>41.
 <ul>
-<li>声：<a href="../Page/Kevin_J.England.md" title="wikilink">Kevin J.England</a></li>
+<li>声：<a href="https://zh.wikipedia.org/wiki/Kevin_J.England" title="wikilink">Kevin J.England</a></li>
 </ul>
 </dd>
 </dl></td>
@@ -326,13 +326,13 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </tbody>
 </table>
 
-## [魔法少女奈葉A's](../Page/魔法少女奈葉A's.md "wikilink")
+## [魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")
 
 ### Sound Stage01
 
   - 2005年11月23日發行。發行商[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-733）
-  - 講述第3話和第4話之間的故事，名為第3.5話「」，收錄了[八神疾風](../Page/八神疾風.md "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、夏玛尔（[柚木涼香](../Page/柚木涼香.md "wikilink")）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-733）
+  - 講述第3話和第4話之間的故事，名為第3.5話「」，收錄了[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、夏玛尔（[柚木涼香](../Page/柚木涼香.md "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -349,7 +349,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>3.
 <ul>
-<li>歌：<a href="../Page/八神疾風.md" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
 <li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲：happy soul man 編曲：安井步</li>
 </ul>
 </dd>
@@ -404,8 +404,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage02
 
   - 2006年1月12日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-743）
-  - 講述第6話和第7話之間的故事，名為第6.5話「」，收錄席格娜（[清水香里](../Page/清水香里.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[八神疾風](../Page/八神疾風.md "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-743）
+  - 講述第6話和第7話之間的故事，名為第6.5話「」，收錄席格娜（[清水香里](../Page/清水香里.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -423,7 +423,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 <dd>3.
 <ul>
 <li>歌：席格娜（<a href="../Page/清水香里.md" title="wikilink">清水香里</a>）</li>
-<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲、編曲：<a href="../Page/佐野廣明.md" title="wikilink">佐野廣明</a></li>
+<li>作詞：<a href="../Page/都築真紀.md" title="wikilink">都築真紀</a> 作曲、編曲：<a href="https://zh.wikipedia.org/wiki/佐野廣明" title="wikilink">佐野廣明</a></li>
 </ul>
 </dd>
 <dd>4.
@@ -461,7 +461,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>17. <strong>Snow Rain</strong>（第11話　挿入歌）
 <ul>
-<li>歌：<a href="../Page/八神疾風.md" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
 <li>作詞：都築真紀 作曲：happy soul man 編曲：安井步</li>
 </ul>
 </dd>
@@ -475,8 +475,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage03
 
   - 2006年3月8日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-768）
-  - 講述最終話之后發生的故事，名為第14話「」，收錄[八神疾風](../Page/八神疾風.md "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-768）
+  - 講述最終話之后發生的故事，名為第14話「」，收錄[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -499,7 +499,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>6.
 <ul>
-<li>歌：<a href="../Page/八神疾風.md" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
 <li>作詞：A-ko 作曲、編曲：佐野廣明</li>
 </ul>
 </dd>
@@ -553,7 +553,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 
 ### Sound Stage 音樂精選集
 
-  - 作為第1期發行，A's中的三位女主角主人公：[高町奈葉](../Page/高町奈葉.md "wikilink")、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")、[八神疾風的聲優負責錄制](../Page/八神疾風.md "wikilink")。
+  - 作為第1期發行，A's中的三位女主角主人公：[高町奈葉](../Page/高町奈葉.md "wikilink")、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")、[八神疾風的聲優負責錄制](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")。
   - 在第70屆[Comic Market上發售](../Page/Comic_Market.md "wikilink")，一般作為非賣品。
 
 <!-- end list -->
@@ -593,7 +593,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </ol></td>
 <td><dl>
 <dt></dt>
-<dd><strong><a href="../Page/八神疾風.md" title="wikilink">八神疾風</a></strong>
+<dd><strong><a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a></strong>
 <ul>
 <li>声：<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a></li>
 </ul>
@@ -608,13 +608,13 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </tbody>
 </table>
 
-## [魔法少女奈葉StrikerS](../Page/魔法少女奈葉StrikerS.md "wikilink")
+## [魔法少女奈葉StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")
 
 ### Sound Stage01
 
   - 2007年5月23日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-853）
-  - 講述第6話和第7話之間的故事，名為「」，收錄了[昴·中島](../Page/昴·中島.md "wikilink")（[斋藤千和](../Page/斋藤千和.md "wikilink")）、[八神疾風](../Page/八神疾風.md "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、高町奈葉（田村由香里）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-853）
+  - 講述第6話和第7話之間的故事，名為「」，收錄了[昴·中島](https://zh.wikipedia.org/wiki/昴·中島 "wikilink")（[斋藤千和](../Page/斋藤千和.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、高町奈葉（田村由香里）三首角色歌。
 
 <!-- end list -->
 
@@ -668,7 +668,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>18.
 <ul>
-<li><a href="../Page/八神疾風.md" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
 <li>作詞：A-ko 作曲・編曲：佐野廣明</li>
 </ul>
 </dd>
@@ -694,7 +694,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage02
 
   - 2007年7月18日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-854）
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-854）
   - 講述第14話和第15話之間的故事，名為「」，收錄[高町奈葉](../Page/高町奈葉.md "wikilink")（[田村由香里](../Page/田村由香里.md "wikilink")）、[菲特·泰斯塔羅沙](../Page/菲特·泰斯塔羅沙.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）、凯珞·露·露茜（[高橋美佳子](../Page/高橋美佳子.md "wikilink")）三首角色歌。
 
 <!-- end list -->
@@ -771,9 +771,9 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage03
 
   - 2007年10月3日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-855）
-  - 講述第18話和19話中間的故事，名為「」，收錄了[緹亞娜·蘭斯特](../Page/緹亞娜·蘭斯特.md "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、[八神疾風](../Page/八神疾風.md "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、ReinForce
-    II（[野上尤加奈](../Page/野上尤加奈.md "wikilink")）三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-855）
+  - 講述第18話和19話中間的故事，名為「」，收錄了[緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、[八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")（[植田佳奈](../Page/植田佳奈.md "wikilink")）、ReinForce
+    II（[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")）三首角色歌。
 
 <!-- end list -->
 
@@ -798,7 +798,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>7.
 <ul>
-<li>歌：<a href="../Page/緹亞娜·蘭斯特.md" title="wikilink">緹亞娜·蘭斯特</a>（<a href="../Page/中原麻衣.md" title="wikilink">中原麻衣</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特" title="wikilink">緹亞娜·蘭斯特</a>（<a href="../Page/中原麻衣.md" title="wikilink">中原麻衣</a>）</li>
 <li>作詞：A-ko 作曲・編曲：佐野廣明</li>
 </ul>
 </dd>
@@ -806,7 +806,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>9.
 <ul>
-<li><a href="../Page/八神疾風.md" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/八神疾風" title="wikilink">八神疾風</a>（<a href="../Page/植田佳奈.md" title="wikilink">植田佳奈</a>）</li>
 <li>作詞：都築真紀 作曲：佐野廣明 編曲：安井步</li>
 </ul>
 </dd>
@@ -833,7 +833,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>19.
 <ul>
-<li>歌：ReinForce II（<a href="../Page/野上尤加奈.md" title="wikilink">野上尤加奈</a>）</li>
+<li>歌：ReinForce II（<a href="https://zh.wikipedia.org/wiki/野上尤加奈" title="wikilink">野上尤加奈</a>）</li>
 <li>作詞：都築真紀 作曲、編曲：佐野廣明</li>
 </ul>
 </dd>
@@ -847,8 +847,8 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 ### Sound Stage04
 
   - 2007年12月12日發行。發行商為[King
-    Records](../Page/King_Records.md "wikilink")（商品番號：KICA-856）
-  - 講述最終話之后的故事，名為「」，收錄了薇塔（[真田麻美](../Page/真田麻美.md "wikilink")）、[菲特·T·哈洛溫](../Page/菲特·T·哈洛溫.md "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）和[昴·中島](../Page/昴·中島.md "wikilink")（[斎藤千和](../Page/斎藤千和.md "wikilink")）、[緹亞娜·蘭斯特](../Page/緹亞娜·蘭斯特.md "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、艾力欧·蒙迪尔（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、凯珞·露·露茜（[高橋美佳子](../Page/高橋美佳子.md "wikilink")）的四人共唱歌曲，總共三首角色歌。
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")（商品番號：KICA-856）
+  - 講述最終話之后的故事，名為「」，收錄了薇塔（[真田麻美](../Page/真田麻美.md "wikilink")）、[菲特·T·哈洛溫](https://zh.wikipedia.org/wiki/菲特·T·哈洛溫 "wikilink")（[水樹奈奈](../Page/水樹奈奈.md "wikilink")）和[昴·中島](https://zh.wikipedia.org/wiki/昴·中島 "wikilink")（[斎藤千和](https://zh.wikipedia.org/wiki/斎藤千和 "wikilink")）、[緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")（[中原麻衣](../Page/中原麻衣.md "wikilink")）、艾力欧·蒙迪尔（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、凯珞·露·露茜（[高橋美佳子](../Page/高橋美佳子.md "wikilink")）的四人共唱歌曲，總共三首角色歌。
 
 <!-- end list -->
 
@@ -912,11 +912,11 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>23. <strong>To The Real</strong>
 <ul>
-<li>歌：<a href="../Page/昴·中島.md" title="wikilink">昴·中島</a>（<a href="../Page/斎藤千和.md" title="wikilink">斎藤千和</a>）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/昴·中島" title="wikilink">昴·中島</a>（<a href="https://zh.wikipedia.org/wiki/斎藤千和" title="wikilink">斎藤千和</a>）</li>
 </ul>
 <dl>
 <dt></dt>
-<dd><a href="../Page/緹亞娜·蘭斯特.md" title="wikilink">緹亞娜·蘭斯特</a>（<a href="../Page/中原麻衣.md" title="wikilink">中原麻衣</a>）
+<dd><a href="https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特" title="wikilink">緹亞娜·蘭斯特</a>（<a href="../Page/中原麻衣.md" title="wikilink">中原麻衣</a>）
 </dd>
 <dd>艾力欧·蒙迪尔（<a href="../Page/井上麻里奈.md" title="wikilink">井上麻里奈</a>）
 </dd>
@@ -931,7 +931,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>25. <strong>Endless Chain</strong>
 <ul>
-<li>歌：<a href="../Page/菲特·T·哈洛溫.md" title="wikilink">菲特·T·哈洛溫</a>（水樹奈奈）</li>
+<li>歌：<a href="https://zh.wikipedia.org/wiki/菲特·T·哈洛溫" title="wikilink">菲特·T·哈洛溫</a>（水樹奈奈）</li>
 <li>作詞：都築真紀 作曲：happy soul man 編曲：安井步</li>
 </ul>
 </dd>

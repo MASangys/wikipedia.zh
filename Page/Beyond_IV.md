@@ -7,7 +7,7 @@ IV」。
 《Beyond
 IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續拓展其流行搖滾風格，仍不忘以《午夜迷牆》等具商業元素的搖滾音樂，來滿足搖滾樂迷的需要。
 
-專輯的《真的愛你》是唱片的主打曲，歌詞內容是歌頌母愛，雖然樂隊成員並不喜歡此曲太具商業元素，且甚少搖滾色彩，但至今此曲成為[母親節的流行主題曲](../Page/母親節.md "wikilink")。
+專輯的《真的愛你》是唱片的主打曲，歌詞內容是歌頌母愛，雖然樂隊成員並不喜歡此曲太具商業元素，且甚少搖滾色彩，但至今此曲成為[母親節的流行主題曲](https://zh.wikipedia.org/wiki/母親節 "wikilink")。
 
 ## 曲目
 
@@ -25,7 +25,7 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>真的愛妳</p></td>
-<td><p><a href="../Page/小美.md" title="wikilink">小美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小美" title="wikilink">小美</a></p></td>
 <td><p><a href="../Page/黃家駒.md" title="wikilink">黃家駒</a></p></td>
 <td><p>電影《<a href="../Page/開心鬼救開心鬼.md" title="wikilink">開心鬼救開心鬼</a>》 插曲</p></td>
 </tr>
@@ -46,7 +46,7 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>摩登時代</p></td>
-<td><p><a href="../Page/翁偉微.md" title="wikilink">翁偉微</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翁偉微" title="wikilink">翁偉微</a></p></td>
 <td><p><a href="../Page/葉世榮.md" title="wikilink">葉世榮</a></p></td>
 <td></td>
 </tr>
@@ -62,14 +62,14 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 <td><p>與妳共行</p></td>
 <td><p><a href="../Page/黃家強.md" title="wikilink">黃家強</a></p></td>
 <td><p>黃貫中</p></td>
-<td><p><a href="../Page/無綫電視劇.md" title="wikilink">無綫電視劇</a>《<a href="../Page/淘氣雙子星.md" title="wikilink">淘氣雙子星</a>》第八集片尾曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無綫電視劇" title="wikilink">無綫電視劇</a>《<a href="../Page/淘氣雙子星.md" title="wikilink">淘氣雙子星</a>》第八集片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>逝去日子</p></td>
 <td><p><a href="../Page/劉卓輝.md" title="wikilink">劉卓輝</a></p></td>
 <td><p>黃家駒</p></td>
-<td><p><a href="../Page/無綫電視劇.md" title="wikilink">無綫電視劇</a>《<a href="../Page/淘氣雙子星.md" title="wikilink">淘氣雙子星</a>》主題曲，黃貫中主唱</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無綫電視劇" title="wikilink">無綫電視劇</a>《<a href="../Page/淘氣雙子星.md" title="wikilink">淘氣雙子星</a>》主題曲，黃貫中主唱</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
@@ -83,9 +83,9 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 <td><p>午夜迷牆</p></td>
 <td><p>黃貫中</p></td>
 <td><p>黃家駒</p></td>
-<td><p>電影《<a href="../Page/黑色迷牆.md" title="wikilink">黑色迷牆</a>》主題曲<br />
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/黑色迷牆" title="wikilink">黑色迷牆</a>》主題曲<br />
 曾獲<a href="../Page/第9屆香港電影金像獎.md" title="wikilink">第9屆香港電影金像獎</a>「最佳電影歌曲」提名<br />
-同時收錄於1989年EP《<a href="../Page/四拍四.md" title="wikilink">四拍四</a>》內</p></td>
+同時收錄於1989年EP《<a href="https://zh.wikipedia.org/wiki/四拍四" title="wikilink">四拍四</a>》內</p></td>
 </tr>
 <tr class="even">
 <td><p>10.</p></td>
@@ -99,23 +99,23 @@ IV》以商業化大碟躋身為樂壇的主流流行樂隊，音樂上亦繼續
 
 ## 入圍未得獎獎項
 
-  - [1990年度香港電影金像獎頒獎典禮](../Page/1990年香港電影金像獎.md "wikilink")
+  - [1990年度香港電影金像獎頒獎典禮](https://zh.wikipedia.org/wiki/1990年香港電影金像獎 "wikilink")
 
 :\*「最佳電影歌曲」：《午夜迷牆》
 
 ## 入圍得獎獎項
 
-  - [1989年度十大中文金曲頒獎典禮](../Page/第十二屆十大中文金曲得獎名單.md "wikilink")
+  - [1989年度十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/第十二屆十大中文金曲得獎名單 "wikilink")
 
 :\*「十大中文金曲」：《真的愛妳》
 
-  - [1989年度十大勁歌金曲頒獎典禮](../Page/1989年度十大勁歌金曲得獎名單.md "wikilink")
+  - [1989年度十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/1989年度十大勁歌金曲得獎名單 "wikilink")
 
 :\*「十大勁歌金曲」：《真的愛妳》
 
   - [1989年度叱咤樂壇流行榜頒獎典禮](../Page/1989年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")：
       - 叱咤組合銀獎－Beyond
-  - [1990年度香港金唱片頒獎典禮](../Page/1990年度香港金唱片頒獎典禮.md "wikilink"):\*「白金唱片」：《Beyond
+  - [1990年度香港金唱片頒獎典禮](https://zh.wikipedia.org/wiki/1990年度香港金唱片頒獎典禮 "wikilink"):\*「白金唱片」：《Beyond
     IV》
 
 ## 音樂錄影帶

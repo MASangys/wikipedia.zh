@@ -1,5 +1,5 @@
-《**天才麻將少女**》（），是[小林立的](../Page/小林立.md "wikilink")[麻雀](../Page/麻將.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。[SQUARE
-ENIX的](../Page/史克威爾艾尼克斯.md "wikilink")「[YOUNG
+《**天才麻將少女**》（），是[小林立的](../Page/小林立.md "wikilink")[麻雀](https://zh.wikipedia.org/wiki/麻將 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。[SQUARE
+ENIX的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[YOUNG
 GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短期登載，之後由2006年第12期起連載至今。
 
 ## 概要
@@ -7,17 +7,17 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
   - 以全國高中生麻雀大會冠軍為目標的清澄高中麻雀部，以及新進隊員咲的故事。故事是在麻雀作為一種智力競技項目，比現實世界更進一步滲透於一般大眾，且會舉行高中生及初中生競技麻雀的官方大會等的世界觀中進行。
   - 在麻雀漫畫中鮮有地以[萌系](../Page/萌.md "wikilink")[美少女作為主要角色是其主要特點](../Page/美少女.md "wikilink")，以主角宮永咲為首的登場角色們以超人能力比拼麻雀之餘，新手和上級者在摸牌打牌動作的不同、打出牌時牌列牌河的不同等等因角色而有不同，亦包含了這類細微的麻雀描寫。
   - 作品中麻將牌譜由小林立自行編寫\[1\]\[2\]。
-  - 縣預選編為止都是以[長野縣為故事舞台](../Page/長野縣.md "wikilink")，是自小林立的出道作品《[奇想大作戰](../Page/奇想大作戰.md "wikilink")》以來第二個以長野縣為舞台的故事。
+  - 縣預選編為止都是以[長野縣為故事舞台](https://zh.wikipedia.org/wiki/長野縣 "wikilink")，是自小林立的出道作品《[奇想大作戰](https://zh.wikipedia.org/wiki/奇想大作戰 "wikilink")》以來第二個以長野縣為舞台的故事。
 
 ### 咲-Saki-阿知賀編 episode of side-A
 
   - 由作畫的外傳《》在2011年8月12日至2013年3月的《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》上連載\[3\]\[4\]。
-  - 故事以原村和曾就讀過的[奈良縣女校阿知賀女子學院為舞台](../Page/奈良縣.md "wikilink")，在電視中看到原村和在全國初中生麻雀大會中奪冠的高鴨穩乃等朋友，為了「想和原村和一起玩」而建立麻雀同好會，以物色隊員出戰全國高中生麻雀大會為目標。
+  - 故事以原村和曾就讀過的[奈良縣女校阿知賀女子學院為舞台](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")，在電視中看到原村和在全國初中生麻雀大會中奪冠的高鴨穩乃等朋友，為了「想和原村和一起玩」而建立麻雀同好會，以物色隊員出戰全國高中生麻雀大會為目標。
   - 以時間來劃分的話，故事最初以小學時代的高鴨穩乃、新子憧和原村和的認識開始，中學之後原村和轉校，在高中加入麻雀部參加縣預賽到全國賽。在高中加入麻雀部的部份開始和本編屬同時間進行，因此本編出現過的各校及各角色亦會在阿知賀編中登場。
 
 ### 咲日和
 
-  - 由[木吉紗根據](../Page/木吉紗.md "wikilink")《天才麻將少女》的角色原案所創作的四格漫畫《咲日和》，于2011年6月開始連載，與原作一樣刊登於雙周刊《Young
+  - 由[木吉紗根據](https://zh.wikipedia.org/wiki/木吉紗 "wikilink")《天才麻將少女》的角色原案所創作的四格漫畫《咲日和》，于2011年6月開始連載，與原作一樣刊登於雙周刊《Young
     GanGan》（2012年8月連載結束）；2011年10月起開始同時在月刊《Big
     GanGan》上連載。該作品主要講述日常生活而非麻將競技。
   - 在本編第13卷中宣佈將在第14卷初回限定實裝版中附[OAD](../Page/原創動畫錄影帶.md "wikilink")。\[5\]
@@ -25,12 +25,12 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 ### 咲慕流年
 
   - 2013年8月由作画的外传《咲慕流年》开始连载，以故事中的职业雀士聚会为开端，故事开篇10年前以白築慕为主角的雀士们童年故事。
-  - 故事以[島根縣為舞台](../Page/島根縣.md "wikilink")。
+  - 故事以[島根縣為舞台](https://zh.wikipedia.org/wiki/島根縣 "wikilink")。
   - 儘管中文常用譯名為「咲慕流年」，注意日語原作名稱《》未有像其他兩個外傳故事般在標題上帶有「咲」或「-{咲-Saki-}-」。
 
 ### 立-Ritz-
 
-  - [大和田秀樹的漫畫](../Page/大和田秀樹.md "wikilink")《[渣和无用改革](../Page/渣和无用改革.md "wikilink")》[單行本第](../Page/單行本.md "wikilink")3集收錄的[惡搞短篇漫畫](../Page/惡搞.md "wikilink")。
+  - [大和田秀樹的漫畫](../Page/大和田秀樹.md "wikilink")《[渣和无用改革](../Page/渣和无用改革.md "wikilink")》[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")3集收錄的[惡搞短篇漫畫](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。
 
 ### 怜-Toki-
 
@@ -48,7 +48,7 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短�
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/玉皇朝.md" title="wikilink">玉皇朝</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
@@ -386,69 +386,70 @@ ISBN 978-4-7575-4490-1</p></td>
 《天才麻將少女》於2009年4月5日在[東京電視網播出](../Page/東京電視網.md "wikilink")，全25話。
 
 外傳《天才麻將少女 阿知賀篇 episode of
-side-A》於2012年4月8日在[東京電視網播出](../Page/東京電視網.md "wikilink")，全16集。日本東京電視台授權中國大陸[土豆網](../Page/土豆網.md "wikilink")[即日播出](../Page/海外聯播動畫.md "wikilink")。
+side-A》於2012年4月8日在[東京電視網播出](../Page/東京電視網.md "wikilink")，全16集。日本東京電視台授權中國大陸[土豆網](https://zh.wikipedia.org/wiki/土豆網 "wikilink")[即日播出](../Page/海外聯播動畫.md "wikilink")。
 
 ### 天才麻將少女
 
 2008年12月宣布於2009年動畫化，2009年4月至9月間電視動畫正式播放，由[GONZO第](../Page/GONZO.md "wikilink")5工作室和[Picture
-Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
+Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")。
 
 #### 制作人员
 
   - 原作：[小林立](../Page/小林立.md "wikilink")
-  - 監督：[小野学](../Page/小野学.md "wikilink")
-  - 系列構成・脚本：[浦畑達彦](../Page/浦畑達彦.md "wikilink")
-  - 角色设计＆总作画監督：[佐佐木政勝](../Page/佐佐木政勝.md "wikilink")
+  - 監督：[小野学](https://zh.wikipedia.org/wiki/小野学 "wikilink")
+  - 系列構成・脚本：[浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
+  - 角色设计＆总作画監督：[佐佐木政勝](https://zh.wikipedia.org/wiki/佐佐木政勝 "wikilink")
   - 美術監督：松本浩樹
   - 色彩設計：内林裕美
   - 3D制作：SANZIGEN
   - 編集：三嶋章紀
   - 音響監督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
   - 音樂：[渡邊剛](../Page/渡邊剛.md "wikilink")
-  - 动画制作：[GONZO](../Page/GONZO.md "wikilink")（第5工作室，第1\~14話、第15話後協力制作）、[PictureMagic](../Page/PictureMagic.md "wikilink")（第15話後）
+  - 动画制作：[GONZO](../Page/GONZO.md "wikilink")（第5工作室，第1\~14話、第15話後協力制作）、[PictureMagic](https://zh.wikipedia.org/wiki/PictureMagic "wikilink")（第15話後）
   - 製作：清澄高校麻雀部（[SQUARE
-    ENIX](../Page/SQUARE_ENIX.md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](../Page/KlockWorx.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](../Page/創通.md "wikilink")）
+    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
 
 #### 主題曲
 
   - 片头曲
 
-:;《[Glossy:MMM](../Page/Glossy:MMM.md "wikilink")》（第2話－第14話） ※第1話沒有片頭曲
+:;《[Glossy:MMM](https://zh.wikipedia.org/wiki/Glossy:MMM "wikilink")》（第2話－第14話）
+※第1話沒有片頭曲
 
 ::
-作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[虹音](../Page/虹音.md "wikilink")，歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
+作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")，歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
 
 :: 第1、25話作為片尾曲使用。
 
-:;《[bloooomin'](../Page/bloooomin'.md "wikilink")》（第15話－第25話）
+:;《[bloooomin'](https://zh.wikipedia.org/wiki/bloooomin' "wikilink")》（第15話－第25話）
 
   -
 
       -
         作詞、作曲、歌：[Little
-        Non](../Page/Little_Non.md "wikilink")，編曲：[Little
-        Non](../Page/Little_Non.md "wikilink")、[安藤高弘](../Page/安藤高弘.md "wikilink")
+        Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")，編曲：[Little
+        Non](https://zh.wikipedia.org/wiki/Little_Non "wikilink")、[安藤高弘](https://zh.wikipedia.org/wiki/安藤高弘 "wikilink")
 
   - 片尾曲
 
 :;《[奇迹世界热烈欢迎](../Page/奇迹世界热烈欢迎.md "wikilink")（）》（第2話－第6話、第8話－第9話、第11話－第14話）
 
 ::
-作詞：畑亞貴，作曲：[福本公四郎](../Page/福本公四郎.md "wikilink")，編曲：安藤高弘（GloryHeaven），歌：宮永咲（[植田佳奈](../Page/植田佳奈.md "wikilink")）、原村和（[小清水亞美](../Page/小清水亞美.md "wikilink")）、片岡優希（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）、染谷真子（[白石涼子](../Page/白石涼子.md "wikilink")）、竹井久（[伊藤靜](../Page/伊藤靜.md "wikilink")）
+作詞：畑亞貴，作曲：[福本公四郎](https://zh.wikipedia.org/wiki/福本公四郎 "wikilink")，編曲：安藤高弘（GloryHeaven），歌：宮永咲（[植田佳奈](../Page/植田佳奈.md "wikilink")）、原村和（[小清水亞美](../Page/小清水亞美.md "wikilink")）、片岡優希（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）、染谷真子（[白石涼子](../Page/白石涼子.md "wikilink")）、竹井久（[伊藤靜](../Page/伊藤靜.md "wikilink")）
 
 :: 20話作為插入曲使用。
 
-:;《[殘酷的意愿中](../Page/殘酷的意愿中.md "wikilink")（）》（第7話、第10話、第16話、第18話、第22話）
+:;《[殘酷的意愿中](https://zh.wikipedia.org/wiki/殘酷的意愿中 "wikilink")（）》（第7話、第10話、第16話、第18話、第22話）
 
 ::
-作詞：畑亞貴，作曲：RINO，編曲：[虹音](../Page/虹音.md "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）
+作詞：畑亞貴，作曲：RINO，編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）
 
 :;《[四角型的宇宙等待著喔](../Page/四角型的宇宙等待著喔.md "wikilink")（）》（第15話、第17話、第19話－第21話、第23話－第24話）
 
   -
 
       -
-        作詞：畑亞貴，作曲、編曲：[木下智哉](../Page/木下智哉.md "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）、片岡優希（釘宮理惠）、染谷真子（白石涼子）、竹井久（伊藤靜）
+        作詞：畑亞貴，作曲、編曲：[木下智哉](https://zh.wikipedia.org/wiki/木下智哉 "wikilink")（GloryHeaven），歌：宮永咲（植田佳奈）、原村和（小清水亞美）、片岡優希（釘宮理惠）、染谷真子（白石涼子）、竹井久（伊藤靜）
 
 #### 各話列表
 
@@ -469,8 +470,8 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 <td><p>第1局</p></td>
 <td></td>
 <td><p>相遇</p></td>
-<td><p><a href="../Page/浦畑達彦.md" title="wikilink">浦畑達彦</a></p></td>
-<td><p><a href="../Page/小野学.md" title="wikilink">小野学</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浦畑達彦" title="wikilink">浦畑達彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小野学" title="wikilink">小野学</a></p></td>
 <td><p>佐佐木政勝</p></td>
 <td></td>
 </tr>
@@ -618,7 +619,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 <td><p>第17局</p></td>
 <td></td>
 <td><p>惡夢</p></td>
-<td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
 <td><p>矢花馨</p></td>
 <td><p>杉本光司<br />
 菊永千里<br />
@@ -709,19 +710,19 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 
 ##### 日本国内
 
-| 播放地区                                                             | 播放电视台                                      | 播放日期                    | 播放时间                               | 所屬聯播網                                     | 備註 |
-| ---------------------------------------------------------------- | ------------------------------------------ | ----------------------- | ---------------------------------- | ----------------------------------------- | -- |
-| [關東广域圏](../Page/关东地方.md "wikilink")                              | [东京电视台](../Page/东京电视台.md "wikilink")       | 2009年4月5日 - 9月27日       | 星期日 26時00分 - 26時30分                | [東京電視網](../Page/東京電視網.md "wikilink")      |    |
-| 2011年10月6日 - 12月29日                                              | 星期四 26時15分 - 26時45分                        | 傑作選                     |                                    |                                           |    |
-| [愛知县](../Page/愛知县.md "wikilink")                                 | [爱知电视台](../Page/爱知电视台.md "wikilink")       | 2009年4月6日 - 9月28日       | 星期一 26時28分 - 26時58分                |                                           |    |
-| [福岡县](../Page/福岡县.md "wikilink")                                 | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")   | 2009年4月7日 - 9月29日       | 星期二 26時23分 - 26時53分                |                                           |    |
-| [岡山](../Page/岡山县.md "wikilink")、[香川县](../Page/香川县.md "wikilink") | [濑户内电视台](../Page/濑户内电视台.md "wikilink")     | 2009年4月8日 - 9月30日       | 星期三 25時18分 - 25時48分                |                                           |    |
-| [大阪府](../Page/大阪府.md "wikilink")                                 | [大阪电视台](../Page/大阪电视台.md "wikilink")       | 2009年4月10日 - 10月2日      | 星期五 27時35分 - 28時05分                |                                           |    |
-| [北海道](../Page/北海道.md "wikilink")                                 | [TV北海道](../Page/TV北海道.md "wikilink")       | 2009年4月14日 - 10月6日      | 星期二 26時00分 - 26時30分                |                                           |    |
-| 日本全域                                                             | [ShowTime](../Page/ShowTime.md "wikilink") | 2009年5月1日 - 10月16日      | 星期五 18時00分 更新                      | |[互聯網廣播](../Page/互聯網廣播.md "wikilink")     |    |
-| [AT-X](../Page/AT-X.md "wikilink")                               | 2009年5月6日 - 10月21日                         | 星期三 10時00分 - 10時30分     | [衛星電視](../Page/衛星電視.md "wikilink") | 有重播                                       |    |
-| [滋賀縣](../Page/滋賀縣.md "wikilink")                                 | [琵琶湖放送](../Page/琵琶湖放送.md "wikilink")       | 2009年10月2日 - 2010年3月26日 | 星期五 26時00分 - 26時30分                | [獨立局](../Page/全國獨立UHF放送協議會.md "wikilink") |    |
-| [鹿兒島縣](../Page/鹿兒島縣.md "wikilink")                               | [鹿兒島電視台](../Page/鹿兒島電視台.md "wikilink")     | 2009年12月3日 - 2010年5月27日 | 星期四 26時20分 - 26時50分                | [富士電視網](../Page/富士電視網.md "wikilink")      |    |
+| 播放地区                                                                                | 播放电视台                                                         | 播放日期                    | 播放时间                                                  | 所屬聯播網                                                        | 備註 |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | -- |
+| [關東广域圏](https://zh.wikipedia.org/wiki/关东地方 "wikilink")                              | [东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")       | 2009年4月5日 - 9月27日       | 星期日 26時00分 - 26時30分                                   | [東京電視網](../Page/東京電視網.md "wikilink")                         |    |
+| 2011年10月6日 - 12月29日                                                                 | 星期四 26時15分 - 26時45分                                           | 傑作選                     |                                                       |                                                              |    |
+| [愛知县](https://zh.wikipedia.org/wiki/愛知县 "wikilink")                                 | [爱知电视台](https://zh.wikipedia.org/wiki/爱知电视台 "wikilink")       | 2009年4月6日 - 9月28日       | 星期一 26時28分 - 26時58分                                   |                                                              |    |
+| [福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")                                 | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                      | 2009年4月7日 - 9月29日       | 星期二 26時23分 - 26時53分                                   |                                                              |    |
+| [岡山](https://zh.wikipedia.org/wiki/岡山县 "wikilink")、[香川县](../Page/香川县.md "wikilink") | [濑户内电视台](https://zh.wikipedia.org/wiki/濑户内电视台 "wikilink")     | 2009年4月8日 - 9月30日       | 星期三 25時18分 - 25時48分                                   |                                                              |    |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                 | [大阪电视台](https://zh.wikipedia.org/wiki/大阪电视台 "wikilink")       | 2009年4月10日 - 10月2日      | 星期五 27時35分 - 28時05分                                   |                                                              |    |
+| [北海道](../Page/北海道.md "wikilink")                                                    | [TV北海道](../Page/TV北海道.md "wikilink")                          | 2009年4月14日 - 10月6日      | 星期二 26時00分 - 26時30分                                   |                                                              |    |
+| 日本全域                                                                                | [ShowTime](https://zh.wikipedia.org/wiki/ShowTime "wikilink") | 2009年5月1日 - 10月16日      | 星期五 18時00分 更新                                         | |[互聯網廣播](https://zh.wikipedia.org/wiki/互聯網廣播 "wikilink")     |    |
+| [AT-X](../Page/AT-X.md "wikilink")                                                  | 2009年5月6日 - 10月21日                                            | 星期三 10時00分 - 10時30分     | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") | 有重播                                                          |    |
+| [滋賀縣](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")                                 | [琵琶湖放送](https://zh.wikipedia.org/wiki/琵琶湖放送 "wikilink")       | 2009年10月2日 - 2010年3月26日 | 星期五 26時00分 - 26時30分                                   | [獨立局](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |    |
+| [鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")                               | [鹿兒島電視台](https://zh.wikipedia.org/wiki/鹿兒島電視台 "wikilink")     | 2009年12月3日 - 2010年5月27日 | 星期四 26時20分 - 26時50分                                   | [富士電視網](../Page/富士電視網.md "wikilink")                         |    |
 
 ##### 日本海外
 
@@ -731,7 +732,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 ### 天才麻將少女 阿知賀篇 episode of side-A
 
   - 2011年6月發行的單行本第8集及《[增刊YOUNG
-    GANGAN](../Page/增刊YOUNG_GANGAN.md "wikilink")》
+    GANGAN](https://zh.wikipedia.org/wiki/增刊YOUNG_GANGAN "wikilink")》
     Vol.2中提到將會製作新的電視動畫\[7\]。2011年10月7日發行的《YOUNG
     GANGAN》20號及動畫官方網站公佈「阿知賀編」將於2012年春季播放電視動畫\[8\]。
   - 在2012年10月28日召開的《咲-Saki-》官方活動「咲-Saki-FES 四角宇宙Square
@@ -742,10 +743,10 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 
   - 原作：小林立／「天才麻將少女」
   - 漫畫作畫：（[SQUARE
-    ENIX](../Page/SQUARE_ENIX.md "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
-  - 監督：[小野学](../Page/小野学.md "wikilink")
-  - 系列構成・脚本：[浦畑達彦](../Page/浦畑達彦.md "wikilink")
-  - 角色设计＆总作画監督：[佐佐木政勝](../Page/佐佐木政勝.md "wikilink")
+    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
+  - 監督：[小野学](https://zh.wikipedia.org/wiki/小野学 "wikilink")
+  - 系列構成・脚本：[浦畑達彦](https://zh.wikipedia.org/wiki/浦畑達彦 "wikilink")
+  - 角色设计＆总作画監督：[佐佐木政勝](https://zh.wikipedia.org/wiki/佐佐木政勝 "wikilink")
   - 美術監督：松本浩樹、高須賀真二
   - 編集：三嶋章紀
   - 色彩設計：
@@ -761,11 +762,11 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 :;《[MIRACLE RUSH](../Page/MIRACLE_RUSH.md "wikilink")》（第2話－第12話）
 
 ::
-作詞：，作曲：[山口朗彥](../Page/山口朗彥.md "wikilink")，歌：[StylipS](../Page/StylipS.md "wikilink")
+作詞：，作曲：[山口朗彥](https://zh.wikipedia.org/wiki/山口朗彥 "wikilink")，歌：[StylipS](../Page/StylipS.md "wikilink")
 
 :: 第1、16話作為片尾曲使用。
 
-:;《[TSU・BA・SA](../Page/TSU・BA・SA.md "wikilink")》（第13話－第15話）
+:;《[TSU・BA・SA](https://zh.wikipedia.org/wiki/TSU・BA・SA "wikilink")》（第13話－第15話）
 
   -
 
@@ -780,7 +781,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 :;《Square Panic Serenade》（第2話、第5話－第7話、第12話）
 
 ::
-作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：高鴨穩乃（[悠木碧](../Page/悠木碧.md "wikilink")）、新子憧（[東山奈央](../Page/東山奈央.md "wikilink")）、松實玄（[花澤香菜](../Page/花澤香菜.md "wikilink")）、松實宥（[MAKO](../Page/MAKO.md "wikilink")）、鷺森灼（[內山夕實](../Page/內山夕實.md "wikilink")）
+作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：高鴨穩乃（[悠木碧](../Page/悠木碧.md "wikilink")）、新子憧（[東山奈央](../Page/東山奈央.md "wikilink")）、松實玄（[花澤香菜](../Page/花澤香菜.md "wikilink")）、松實宥（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）、鷺森灼（[內山夕實](../Page/內山夕實.md "wikilink")）
 
 :;《Futuristic Player》（第3話－第4話、第8話－第11話、第14話－第15話）
 
@@ -811,7 +812,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 <td><p>浦畑達彥</p></td>
 <td><p>小野學</p></td>
 <td><p><a href="../Page/石黑恭平.md" title="wikilink">石黑恭平</a></p></td>
-<td><p>杉藤早百合、沈宏、<a href="../Page/渡邊真由美.md" title="wikilink">渡邊真由美</a><br />
+<td><p>杉藤早百合、沈宏、<a href="https://zh.wikipedia.org/wiki/渡邊真由美" title="wikilink">渡邊真由美</a><br />
 竹上貴雄、鈴木雄大、武智敏光<br />
 山本真嗣、酒井孝弘、片岡英之、關口雅浩</p></td>
 </tr>
@@ -819,7 +820,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 <td><p>第2局</p></td>
 <td></td>
 <td><p>啟動</p></td>
-<td><p><a href="../Page/瀨藤健嗣.md" title="wikilink">瀨藤健嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瀨藤健嗣" title="wikilink">瀨藤健嗣</a></p></td>
 <td><p><a href="../Page/實原登.md" title="wikilink">實原登</a>、橋口隼人、藤原未來夫</p></td>
 <td></td>
 <td></td>
@@ -838,7 +839,7 @@ Magic負責動畫製作](../Page/Picture_Magic.md "wikilink")。
 <td></td>
 <td><p>全國大賽</p></td>
 <td><p>石黑恭平</p></td>
-<td><p><a href="../Page/上坪亮樹.md" title="wikilink">上坪亮樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上坪亮樹" title="wikilink">上坪亮樹</a></p></td>
 <td><p>大田謙治</p></td>
 <td></td>
 </tr>
@@ -963,61 +964,61 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 #### 播放電視台
 
-| 播放地區                                               | 播放電視台                              | 播放日期                | 播放時間                | 所屬聯播網                              | 備註  |
-| -------------------------------------------------- | ---------------------------------- | ------------------- | ------------------- | ---------------------------------- | --- |
-| 第1-12局                                             |                                    |                     |                     |                                    |     |
-| 關東广域圏                                              | 东京电视台                              | 2012年4月8日 - 7月1日    | 星期日 25時05分 - 25時35分 | 東京電視網                              |     |
-| 日本全國                                               | AT-X                               | 2012年4月9日 - 7月2日    | 星期一 08時30分 - 09時00分 | 衛星電視                               | 有重播 |
-| 愛知县                                                | 爱知电视台                              | 2012年4月10日 - 7月3日   | 星期二 26時30分 - 27時00分 | 東京電視網                              |     |
-| 北海道                                                | TV北海道                              |                     |                     |                                    |     |
-| 岡山、香川县                                             | 濑户内电视台                             | 2012年4月13日 - 7月6日   | 星期五 25時53分 - 26時23分 |                                    |     |
-| 大阪府                                                | 大阪电视台                              | 2012年4月14日 - 7月7日   | 星期六 26時25分 - 26時55分 |                                    |     |
-| 福岡县                                                | TVQ九州放送                            | 星期六 26時40分 - 27時10分 |                     |                                    |     |
-| 日本全國                                               | [萬代頻道](../Page/萬代頻道.md "wikilink") | 2012年4月16日 - 7月9日   | 星期一 24時00分 更新       | [網絡電視](../Page/網絡電視.md "wikilink") |     |
-| [Video Market](../Page/Video_Market.md "wikilink") |                                    |                     |                     |                                    |     |
-| [TV DOGATCH](../Page/jp:テレビドガッチ.md "wikilink")     |                                    |                     |                     |                                    |     |
-| [NICONICO動畫](../Page/NICONICO動畫.md "wikilink")     | 星期一 25時00分 - 25時30分                |                     |                     |                                    |     |
-| [NICONICO頻道](../Page/NICONICO頻道.md "wikilink")     | 星期一 25時00分 更新                      |                     |                     |                                    |     |
-| 先行放送（第13局）                                         |                                    |                     |                     |                                    |     |
-| 日本全國                                               | AT-X                               | 2012年12月24日         | 星期一 23時30分 - 24時00分 | 衛星電視                               | 有重播 |
-| NICONICO直播                                         | 2013年1月13日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                    |     |
-| [萬代頻道](../Page/萬代頻道.md "wikilink")                 |                                    |                     |                     |                                    |     |
-| NICONICO動畫                                         | 星期日 25時00分 更新                      |                     |                     |                                    |     |
-| 萬代頻道                                               |                                    |                     |                     |                                    |     |
-| Video Market                                       |                                    |                     |                     |                                    |     |
-| [東京電視台動畫劇院](../Page/東京電視台.md "wikilink")           | 2013年1月14日                         | 星期一 更新              |                     |                                    |     |
-| Showtime                                           | 2013年1月15日                         | 星期二 更新              |                     |                                    |     |
-| DMM.com                                            | 2013年1月20日                         | 星期日 更新              |                     |                                    |     |
-| TSUTAYA TV                                         |                                    |                     |                     |                                    |     |
-| PlayStation Network                                | 2013年1月30日                         | 星期二 更新              |                     |                                    |     |
-| 先行放送（第14局）                                         |                                    |                     |                     |                                    |     |
-| 日本全國                                               | AT-X                               | |2013年1月29日         | 星期二 19時30分 - 20時00分 | 衛星電視                               | 有重播 |
-| NICONICO直播                                         | 2013年2月17日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                    |     |
-| 萬代頻道                                               |                                    |                     |                     |                                    |     |
-| NICONICO動畫                                         | 星期日 25時00分 更新                      | 一星期內免費配信            |                     |                                    |     |
-| 萬代頻道                                               |                                    |                     |                     |                                    |     |
-| Showtime                                           | 2013年2月18日                         | 星期一 12時00分 更新       |                     |                                    |     |
-| 東京電視台動畫劇院                                          | 星期一 更新                             |                     |                     |                                    |     |
-| Video Market                                       | 2013年2月20日                         | 星期二 更新              |                     |                                    |     |
-| TSUTAYA TV                                         | 2013年2月24日                         | 星期日 25時00分 更新       |                     |                                    |     |
-| [hikaritv](../Page/hikaritv.md "wikilink")         | 2013年2月25日                         | 星期一 更新              |                     |                                    |     |
-| PlayStation Network                                | 2013年2月27日                         | 星期三 更新              |                     |                                    |     |
-| [acTVila](../Page/acTVila.md "wikilink")           |                                    |                     |                     |                                    |     |
-| [J：COM點播](../Page/J：COM點播.md "wikilink")           | 2013年3月1日                          | 星期五 更新              |                     |                                    |     |
-| 先行放送（第15局）                                         |                                    |                     |                     |                                    |     |
-| 日本全國                                               | AT-X                               | 2013年4月2日           | 星期二 19時30分 - 20時00分 | 衛星電視                               | 有重播 |
-| NICONICO直播                                         | 2013年4月14日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                    |     |
-| 萬代頻道                                               |                                    |                     |                     |                                    |     |
-| 先行放送（第16局）                                         |                                    |                     |                     |                                    |     |
-| 日本全國                                               | AT-X                               | 2013年5月25日          | 星期六 19時30分 - 20時00分 | 衛星電視                               | 有重播 |
-| NICONICO直播                                         | 2013年6月9日                          | 星期日 24時30分 - 25時00分 | 網絡電視                |                                    |     |
-| 萬代頻道                                               |                                    |                     |                     |                                    |     |
-| Video Market                                       | 星期日 25時00分 更新                      |                     |                     |                                    |     |
-| mottotv                                            | 2013年6月10日                         | 星期一 12時00分 更新       |                     |                                    |     |
-| dogatch                                            |                                    |                     |                     |                                    |     |
-| BEST HIT動畫                                         |                                    |                     |                     |                                    |     |
-| HAPPY動畫                                            |                                    |                     |                     |                                    |     |
-| Showtime                                           |                                    |                     |                     |                                    |     |
+| 播放地區                                                                  | 播放電視台                              | 播放日期                | 播放時間                | 所屬聯播網                                                 | 備註  |
+| --------------------------------------------------------------------- | ---------------------------------- | ------------------- | ------------------- | ----------------------------------------------------- | --- |
+| 第1-12局                                                                |                                    |                     |                     |                                                       |     |
+| 關東广域圏                                                                 | 东京电视台                              | 2012年4月8日 - 7月1日    | 星期日 25時05分 - 25時35分 | 東京電視網                                                 |     |
+| 日本全國                                                                  | AT-X                               | 2012年4月9日 - 7月2日    | 星期一 08時30分 - 09時00分 | 衛星電視                                                  | 有重播 |
+| 愛知县                                                                   | 爱知电视台                              | 2012年4月10日 - 7月3日   | 星期二 26時30分 - 27時00分 | 東京電視網                                                 |     |
+| 北海道                                                                   | TV北海道                              |                     |                     |                                                       |     |
+| 岡山、香川县                                                                | 濑户内电视台                             | 2012年4月13日 - 7月6日   | 星期五 25時53分 - 26時23分 |                                                       |     |
+| 大阪府                                                                   | 大阪电视台                              | 2012年4月14日 - 7月7日   | 星期六 26時25分 - 26時55分 |                                                       |     |
+| 福岡县                                                                   | TVQ九州放送                            | 星期六 26時40分 - 27時10分 |                     |                                                       |     |
+| 日本全國                                                                  | [萬代頻道](../Page/萬代頻道.md "wikilink") | 2012年4月16日 - 7月9日   | 星期一 24時00分 更新       | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |     |
+| [Video Market](https://zh.wikipedia.org/wiki/Video_Market "wikilink") |                                    |                     |                     |                                                       |     |
+| [TV DOGATCH](https://zh.wikipedia.org/wiki/jp:テレビドガッチ "wikilink")     |                                    |                     |                     |                                                       |     |
+| [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")     | 星期一 25時00分 - 25時30分                |                     |                     |                                                       |     |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink")     | 星期一 25時00分 更新                      |                     |                     |                                                       |     |
+| 先行放送（第13局）                                                            |                                    |                     |                     |                                                       |     |
+| 日本全國                                                                  | AT-X                               | 2012年12月24日         | 星期一 23時30分 - 24時00分 | 衛星電視                                                  | 有重播 |
+| NICONICO直播                                                            | 2013年1月13日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                                       |     |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                    |                                    |                     |                     |                                                       |     |
+| NICONICO動畫                                                            | 星期日 25時00分 更新                      |                     |                     |                                                       |     |
+| 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
+| Video Market                                                          |                                    |                     |                     |                                                       |     |
+| [東京電視台動畫劇院](../Page/東京電視台.md "wikilink")                              | 2013年1月14日                         | 星期一 更新              |                     |                                                       |     |
+| Showtime                                                              | 2013年1月15日                         | 星期二 更新              |                     |                                                       |     |
+| DMM.com                                                               | 2013年1月20日                         | 星期日 更新              |                     |                                                       |     |
+| TSUTAYA TV                                                            |                                    |                     |                     |                                                       |     |
+| PlayStation Network                                                   | 2013年1月30日                         | 星期二 更新              |                     |                                                       |     |
+| 先行放送（第14局）                                                            |                                    |                     |                     |                                                       |     |
+| 日本全國                                                                  | AT-X                               | |2013年1月29日         | 星期二 19時30分 - 20時00分 | 衛星電視                                                  | 有重播 |
+| NICONICO直播                                                            | 2013年2月17日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                                       |     |
+| 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
+| NICONICO動畫                                                            | 星期日 25時00分 更新                      | 一星期內免費配信            |                     |                                                       |     |
+| 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
+| Showtime                                                              | 2013年2月18日                         | 星期一 12時00分 更新       |                     |                                                       |     |
+| 東京電視台動畫劇院                                                             | 星期一 更新                             |                     |                     |                                                       |     |
+| Video Market                                                          | 2013年2月20日                         | 星期二 更新              |                     |                                                       |     |
+| TSUTAYA TV                                                            | 2013年2月24日                         | 星期日 25時00分 更新       |                     |                                                       |     |
+| [hikaritv](https://zh.wikipedia.org/wiki/hikaritv "wikilink")         | 2013年2月25日                         | 星期一 更新              |                     |                                                       |     |
+| PlayStation Network                                                   | 2013年2月27日                         | 星期三 更新              |                     |                                                       |     |
+| [acTVila](https://zh.wikipedia.org/wiki/acTVila "wikilink")           |                                    |                     |                     |                                                       |     |
+| [J：COM點播](https://zh.wikipedia.org/wiki/J：COM點播 "wikilink")           | 2013年3月1日                          | 星期五 更新              |                     |                                                       |     |
+| 先行放送（第15局）                                                            |                                    |                     |                     |                                                       |     |
+| 日本全國                                                                  | AT-X                               | 2013年4月2日           | 星期二 19時30分 - 20時00分 | 衛星電視                                                  | 有重播 |
+| NICONICO直播                                                            | 2013年4月14日                         | 星期日 24時30分 - 25時00分 | 網絡電視                |                                                       |     |
+| 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
+| 先行放送（第16局）                                                            |                                    |                     |                     |                                                       |     |
+| 日本全國                                                                  | AT-X                               | 2013年5月25日          | 星期六 19時30分 - 20時00分 | 衛星電視                                                  | 有重播 |
+| NICONICO直播                                                            | 2013年6月9日                          | 星期日 24時30分 - 25時00分 | 網絡電視                |                                                       |     |
+| 萬代頻道                                                                  |                                    |                     |                     |                                                       |     |
+| Video Market                                                          | 星期日 25時00分 更新                      |                     |                     |                                                       |     |
+| mottotv                                                               | 2013年6月10日                         | 星期一 12時00分 更新       |                     |                                                       |     |
+| dogatch                                                               |                                    |                     |                     |                                                       |     |
+| BEST HIT動畫                                                            |                                    |                     |                     |                                                       |     |
+| HAPPY動畫                                                               |                                    |                     |                     |                                                       |     |
+| Showtime                                                              |                                    |                     |                     |                                                       |     |
 
 ### 天才麻將少女 全國篇
 
@@ -1027,10 +1028,10 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 #### 製作人員
 
   - 原作：小林立／「天才麻將少女」
-  - 監督：[小野學](../Page/小野學_\(動畫導演\).md "wikilink")
-  - 助監督：[瀨藤健嗣](../Page/瀨藤健嗣.md "wikilink")
+  - 監督：[小野學](https://zh.wikipedia.org/wiki/小野學_\(動畫導演\) "wikilink")
+  - 助監督：[瀨藤健嗣](https://zh.wikipedia.org/wiki/瀨藤健嗣 "wikilink")
   - 系列構成・脚本：浦畑達彥
-  - 角色設計＆總作畫監督：[佐佐木政勝](../Page/佐佐木政勝.md "wikilink")
+  - 角色設計＆總作畫監督：[佐佐木政勝](https://zh.wikipedia.org/wiki/佐佐木政勝 "wikilink")
   - 美術監督：松本浩樹
   - 音響監督：鶴岡陽太
   - 音樂：渡邊剛
@@ -1063,7 +1064,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 :;《》（第3話、第8話）
 
 ::
-作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：宮守女子高校（小瀨川白望（[長妻樹里](../Page/長妻樹里.md "wikilink")）、愛絲琳·維休亞特（[水野麻梨子](../Page/水野麻梨子.md "wikilink")）、鹿倉胡桃（[豐田萌繪](../Page/豐田萌繪.md "wikilink")）、臼澤塞（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）、姉帶豐音（[内田真禮](../Page/内田真禮.md "wikilink")））
+作詞、作曲、編曲：[ZAQ](../Page/ZAQ.md "wikilink")，歌：宮守女子高校（小瀨川白望（[長妻樹里](../Page/長妻樹里.md "wikilink")）、愛絲琳·維休亞特（[水野麻梨子](https://zh.wikipedia.org/wiki/水野麻梨子 "wikilink")）、鹿倉胡桃（[豐田萌繪](../Page/豐田萌繪.md "wikilink")）、臼澤塞（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）、姉帶豐音（[内田真禮](https://zh.wikipedia.org/wiki/内田真禮 "wikilink")））
 
 :;《》（第4話、第6話、第10話）
 
@@ -1073,7 +1074,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 :;《》（第5話、第12話）
 
 ::
-作詞、作曲、編曲：ZAQ，歌：姬松高校（上重漫（伊達朱里紗）、真瀨由子（[佳村遙](../Page/佳村遙.md "wikilink")）、愛宕洋榎（松田颯水）、愛宕絹惠（[中津真莉子](../Page/中津真莉子.md "wikilink")）、末原恭子（[壽美菜子](../Page/壽美菜子.md "wikilink")））
+作詞、作曲、編曲：ZAQ，歌：姬松高校（上重漫（伊達朱里紗）、真瀨由子（[佳村遙](../Page/佳村遙.md "wikilink")）、愛宕洋榎（松田颯水）、愛宕絹惠（[中津真莉子](https://zh.wikipedia.org/wiki/中津真莉子 "wikilink")）、末原恭子（[壽美菜子](../Page/壽美菜子.md "wikilink")））
 
 :;《Glossy：MMM》（第13話）
 
@@ -1175,7 +1176,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 <td></td>
 <td><p>出擊</p></td>
 <td><p>瀨藤健嗣</p></td>
-<td><p><a href="../Page/鳥羽聰.md" title="wikilink">鳥羽聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳥羽聰" title="wikilink">鳥羽聰</a></p></td>
 <td><p>空流邊廣子</p></td>
 <td></td>
 </tr>
@@ -1236,9 +1237,9 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 #### 主題曲
 
   - 片頭曲「」
-    塡詞：真崎エリカ，作曲、編曲：[高田曉](../Page/高田曉.md "wikilink")，主唱：[StylipS](../Page/StylipS.md "wikilink")
+    塡詞：真崎エリカ，作曲、編曲：[高田曉](https://zh.wikipedia.org/wiki/高田曉 "wikilink")，主唱：[StylipS](../Page/StylipS.md "wikilink")
   - 片尾曲「」
-    塡詞、作曲、編曲：[rino](../Page/rino.md "wikilink")，主唱：龍門淵高中麻雀部［龍門淵透華（[茅原實里](../Page/茅原實里.md "wikilink")）、天江衣（[福原香織](../Page/福原香織.md "wikilink")）、國廣一（[清水愛](../Page/清水愛.md "wikilink")）、井上純（[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")）、澤村智紀（[大橋步夕](../Page/大橋步夕.md "wikilink")）］
+    塡詞、作曲、編曲：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")，主唱：龍門淵高中麻雀部［龍門淵透華（[茅原實里](../Page/茅原實里.md "wikilink")）、天江衣（[福原香織](../Page/福原香織.md "wikilink")）、國廣一（[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")）、井上純（[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")）、澤村智紀（[大橋步夕](../Page/大橋步夕.md "wikilink")）］
 
 #### 各話列表
 
@@ -1256,7 +1257,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 <tr class="odd">
 <td></td>
 <td><p>動畫之卷①</p></td>
-<td><p><a href="../Page/瀨藤健嗣.md" title="wikilink">瀨藤健嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瀨藤健嗣" title="wikilink">瀨藤健嗣</a></p></td>
 <td><p>酒井孝裕、橋口隼人、澤田謙治</p></td>
 <td></td>
 </tr>
@@ -1269,31 +1270,32 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 ### 電視劇
 
-2016年12月起於[MBS及](../Page/MBS電視台.md "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism時段播出](../Page/Dramaism.md "wikilink")，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
+2016年12月起於[MBS及](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism時段播出](https://zh.wikipedia.org/wiki/Dramaism "wikilink")，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
 
 #### 幕後製作
 
-  - 原作：小林立《YOUNG GANGAN》（[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")）
+  - 原作：小林立《YOUNG
+    GANGAN》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
   - 劇本：森迅史
   - 音楽：T$UYO$HI（The BONEZ）
   - 麻將指導：肯尼斯德田、黑木真生、馬場裕一／巴比倫
-  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](../Page/淺川梨奈.md "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、山田杏奈）「きみにワルツ」（想與你跳支華爾茲舞）\[16\]
+  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](https://zh.wikipedia.org/wiki/淺川梨奈 "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、山田杏奈）「きみにワルツ」（想與你跳支華爾茲舞）\[16\]
   - 片尾曲：「ハローグッバイ」（Hello, Goodbye）
   - 製作：Dub
-  - 製作：VAP、AMUSE、[MBS](../Page/每日放送.md "wikilink")、A-Sketch、DUB、[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")
+  - 製作：VAP、AMUSE、[MBS](../Page/每日放送.md "wikilink")、A-Sketch、DUB、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")
   - 導演：小沼雄一
 
 ### 電影
 
-2017年2月上映。導演為[小沼雄一](../Page/小沼雄一.md "wikilink")，編劇為。
+2017年2月上映。導演為[小沼雄一](https://zh.wikipedia.org/wiki/小沼雄一 "wikilink")，編劇為。
 
 #### 幕後製作
 
-  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](../Page/淺川梨奈.md "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、[山田杏奈](../Page/山田杏奈.md "wikilink")）「きみにワルツ」（想與你跳支華爾茲舞）
+  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](https://zh.wikipedia.org/wiki/淺川梨奈 "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、[山田杏奈](../Page/山田杏奈.md "wikilink")）「きみにワルツ」（想與你跳支華爾茲舞）
 
 ### 阿知賀篇 episode of side-A
 
-改編連續劇及電影皆由[桜田ひより主演](../Page/桜田ひより.md "wikilink")\[17\]。
+改編連續劇及電影皆由[桜田ひより主演](https://zh.wikipedia.org/wiki/桜田ひより "wikilink")\[17\]。
 
 ## CD
 
@@ -1313,7 +1315,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 <!-- end list -->
 
   -
-    2007年第8期發表播放[網路電台節目及發行](../Page/網路電台.md "wikilink")[廣播劇CD](../Page/廣播劇CD.md "wikilink")（2007年12月21日發售）的消息。
+    2007年第8期發表播放[網路電台節目及發行](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")（2007年12月21日發售）的消息。
     演出：植田佳奈（宮永咲）、小清水亞美（原村和）、釘宮理惠（片岡優希）、伊藤靜（竹井久）、白石涼子（染谷真子）、福山潤（須賀京太郎）、堀江由衣（宮永照）、小野坂昌也（宮永咲的父親）、中田讓治（原村和的父親）、藤田咲、[高本惠](../Page/高本惠.md "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink")
     等等
 
@@ -1331,9 +1333,10 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 ## 遊戲
 
   - 2010年3月25日發售[Sony
-    PSP遊戲](../Page/Sony_PSP.md "wikilink")『』。\[18\]\[19\]
+    PSP遊戲](https://zh.wikipedia.org/wiki/Sony_PSP "wikilink")『』。\[18\]\[19\]
   - 2013年8月29日 『阿知賀篇』發售PSP遊戲。
-  - 2015年9月17日發售[PS Vita遊戲](../Page/PS_Vita.md "wikilink")『』。\[20\]
+  - 2015年9月17日發售[PS
+    Vita遊戲](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")『』。\[20\]
 
 ## 相關項目
 
@@ -1404,7 +1407,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 [Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink")
 [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
 
-1.  [作者的個人blog 08.03.06](https://web.archive.org/web/20080512122721/http://sciasta.com/ritz/)（2008年5月12日的[檔案館](../Page/互聯網檔案館.md "wikilink")）的發言中提及。
+1.  [作者的個人blog 08.03.06](https://web.archive.org/web/20080512122721/http://sciasta.com/ritz/)（2008年5月12日的[檔案館](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")）的發言中提及。
 
 2.  [『咲-Saki－』 小野学監督インタビュー
     その1](http://www.animeanime.jp/interview/saki1.html)

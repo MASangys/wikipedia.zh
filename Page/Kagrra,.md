@@ -1,4 +1,4 @@
-**Kagrra,**是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](../Page/樂團.md "wikilink")。1998年出道。他們總共出了10張專輯，台灣有出版「雫
+**Kagrra,**是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。1998年出道。他們總共出了10張專輯，台灣有出版「雫
 -shizuku-」（台譯：鏡花水月）及「Core」。2011年解散。
 
 ## 成員

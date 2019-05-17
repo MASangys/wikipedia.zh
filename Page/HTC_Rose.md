@@ -1,30 +1,33 @@
 **HTC Rose**，原廠型號**HTC S740，HTC
-S743**，是台灣[宏達電公司所推出的](../Page/宏達電.md "wikilink")[智慧型手機](../Page/智慧型手機.md "wikilink")，[HTC
-Diamond的](../Page/HTC_Diamond.md "wikilink")[Smart
+S743**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[HTC
+Diamond的](https://zh.wikipedia.org/wiki/HTC_Diamond "wikilink")[Smart
 Phone版](../Page/Windows_Mobile.md "wikilink")，只是其並不支援觸控操作方式，採用雙鍵盤設計，隱藏有側滑動式QWERTY全鍵盤，2008年8月於歐洲首度發表。客製版本HTC
 S740，HTC S743，EMobile Emonster S22HT。
 
 ## 技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：Qualcomm MSM7225 528MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：Windows Mobile 6.1 Standard
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：256MB，RAM：256MB
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：Qualcomm MSM7225
+    528MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows Mobile
+    6.1 Standard
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：256MB，RAM：256MB
   - 尺寸：116.3 毫米 X 43.4 毫米 X 16.3 毫米
   - 重量：140g（含電池）
   - 功能按鍵：五向導航鍵、通話鍵、斷話鍵、左右功能鍵、主畫面鍵、照相鍵、音量鍵、通訊管理員鍵
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.4 吋 TFT-LCD 螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
-  - [GPS](../Page/GPS.md "wikilink")：配備GPS及A-GPS
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.4 吋
+    TFT-LCD 螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
+  - [GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")：配備GPS及A-GPS
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")：IEEE 802.11 b/g
   - [藍牙](../Page/藍牙.md "wikilink")：2.0 with EDR
-  - [相機](../Page/相機.md "wikilink")：320萬畫素相機，支援自動對焦功能
-  - [電池](../Page/電池.md "wikilink")：1000mAh充電式鋰或鋰聚合物電池
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：320萬畫素相機，支援自動對焦功能
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：1000mAh充電式鋰或鋰聚合物電池
 
 ## 參見
 
-  - [HTC](../Page/HTC.md "wikilink")
+  - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [Qtek](../Page/Qtek.md "wikilink")
-  - [Dopod](../Page/Dopod.md "wikilink")
+  - [Dopod](https://zh.wikipedia.org/wiki/Dopod "wikilink")
   - [TouchFLO](../Page/TouchFLO.md "wikilink")
 
 ## 外部連結

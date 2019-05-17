@@ -1,13 +1,13 @@
-**iGoogle**是[Google提供的一項服務](../Page/Google公司.md "wikilink")，於2005年推出。该服务讓使用者按照个人的喜好方便地定制和整合不同来源的信息，使之成为个性化的门户。
+**iGoogle**是[Google提供的一項服務](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，於2005年推出。该服务讓使用者按照个人的喜好方便地定制和整合不同来源的信息，使之成为个性化的门户。
 
 本服務的实现是主要借鉴了[门户](../Page/门户网站.md "wikilink")（Portal）与门户块（[Portlet](../Page/Portlet.md "wikilink")）思想：一个完整的门户页面由用户定制的门户块构成。用户通过访问一个聚合了不同信息来源的门户页面，避免了多次访问的麻烦；个性化的定制选择，为用户提供按需实现的“一站式”服务。
 
 ## 主要的门户块
 
-  - [Google日历](../Page/Google日历.md "wikilink")
-  - [GMail](../Page/GMail.md "wikilink")
-  - [Google书签](../Page/Google书签.md "wikilink")
-  - [Google笔记本](../Page/Google笔记本.md "wikilink")
+  - [Google日历](https://zh.wikipedia.org/wiki/Google日历 "wikilink")
+  - [GMail](https://zh.wikipedia.org/wiki/GMail "wikilink")
+  - [Google书签](https://zh.wikipedia.org/wiki/Google书签 "wikilink")
+  - [Google笔记本](https://zh.wikipedia.org/wiki/Google笔记本 "wikilink")
   - iGoogle
 
 ## 終止服務

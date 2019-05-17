@@ -1,5 +1,5 @@
 《**WILD
-HALF**》是[淺美裕子的](../Page/淺美裕子.md "wikilink")[少年漫畫作品](../Page/少年漫畫.md "wikilink")。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年3·4合併號到1998年52號連載。單行本全17卷，文庫版全10卷。
+HALF**》是[淺美裕子的](../Page/淺美裕子.md "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年3·4合併號到1998年52號連載。單行本全17卷，文庫版全10卷。
 
 ## 故事簡介
 

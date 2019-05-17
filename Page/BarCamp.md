@@ -1,24 +1,24 @@
 [Barcamp2005-ioerror-01.jpg](https://zh.wikipedia.org/wiki/File:Barcamp2005-ioerror-01.jpg "fig:Barcamp2005-ioerror-01.jpg")
-**BarCamp**，是一種國際研討會-{網絡}-，此類研討會是開放、由參與者相互分享的工作坊式[會議](../Page/會議.md "wikilink")，議程內容由參加者提供，焦點通常放在發展初期的網際應用程式、相關[開放原始碼技術](../Page/開放原始碼.md "wikilink")、[社交協定思維](../Page/社交協定.md "wikilink")\[1\]，以及開放[資料格式](../Page/資料.md "wikilink")。
+**BarCamp**，是一種國際研討會-{網絡}-，此類研討會是開放、由參與者相互分享的工作坊式[會議](../Page/會議.md "wikilink")，議程內容由參加者提供，焦點通常放在發展初期的網際應用程式、相關[開放原始碼技術](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")、[社交協定思維](https://zh.wikipedia.org/wiki/社交協定 "wikilink")\[1\]，以及開放[資料格式](https://zh.wikipedia.org/wiki/資料 "wikilink")。
 
 ## 歷史
 
 BarCamp
-這個名詞的起源，與電腦界名人[提姆·奧萊理所創立的一年一度名為](../Page/提姆·奧萊理.md "wikilink")「Foo
+這個名詞的起源，與電腦界名人[提姆·奧萊理所創立的一年一度名為](https://zh.wikipedia.org/wiki/提姆·奧萊理 "wikilink")「Foo
 Camp」的駭客會議有關。
 
 2005 年 8
-月，一些曾經參與該項會議的人，結合幾個新成員，想發起一個屬於他們自己的會議。他們拆解電腦慣用語「[foobar](../Page/foobar.md "wikilink")」，用以替換前述會議名稱，因而產生「BarCamp」一詞。
+月，一些曾經參與該項會議的人，結合幾個新成員，想發起一個屬於他們自己的會議。他們拆解電腦慣用語「[foobar](https://zh.wikipedia.org/wiki/foobar "wikilink")」，用以替換前述會議名稱，因而產生「BarCamp」一詞。
 
 當月 19－21 日，第一次 BarCamp
-在[美國](../Page/美國.md "wikilink")[加州](../Page/加州.md "wikilink")[帕羅奧圖的](../Page/帕羅奧圖_\(加利福尼亞州\).md "wikilink")
+在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕羅奧圖的](https://zh.wikipedia.org/wiki/帕羅奧圖_\(加利福尼亞州\) "wikilink")
 Socialtext 公司舉行，約有 200 人參加。從那之後，BarCamp 已在全球超過 350
-個城市舉行過，包括[北美洲](../Page/北美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")、[中東](../Page/中東.md "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[亞洲](../Page/亞洲.md "wikilink")。
+個城市舉行過，包括[北美洲](../Page/北美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")、[非洲](../Page/非洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[大洋洲和](../Page/大洋洲.md "wikilink")[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
 
 2006年8月25－27日，在全球各地同步舉辦了 BarCampEarth，以紀念 BarCamp 一週年。2007 年 8 月 18－19
 日，在帕羅奧圖的同樣地點及臨近地區，舉辦了兩週年紀念 BarCampBlock，參與者超過 800 人。最大規模的一次
 BarCamp，則是 2011
-年在[緬甸](../Page/緬甸.md "wikilink")[仰光舉行](../Page/仰光.md "wikilink")，參與者超過
+年在[緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[仰光舉行](../Page/仰光.md "wikilink")，參與者超過
 4,700 人。2010年BarCamp仰光上吸引了超过2700名参与者。\[2\]
 
 [Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg](https://zh.wikipedia.org/wiki/File:Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg "fig:Aung_San_Suu_Kyi_at_BarCamp_Yangon_2012.jpg")在BarCamp仰光2012上发表演讲\]\]
@@ -26,12 +26,12 @@ BarCamp，則是 2011
 2007 年 12 月 15 日，第一屆的 BarCamp HK 於 Yahoo\! HK 銅鑼灣的辦公室舉行。
 
 2008 年 12 月 10 日 BarCamps
-第一次在[台北舉辦](../Page/台北.md "wikilink")。但是因為這是第一次在台灣舉辦，帶有比較強烈的試驗性質，所以時間上縮短為兩小時，並取名為
+第一次在[台北舉辦](https://zh.wikipedia.org/wiki/台北 "wikilink")。但是因為這是第一次在台灣舉辦，帶有比較強烈的試驗性質，所以時間上縮短為兩小時，並取名為
 [Barcamp Nano 台北！](http://barcamp.org/w/page/401682/BarCampTaipei)
 
 ## 規則
 
-  - 你必須做關於 BarCamp[部落格](../Page/部落格.md "wikilink")。
+  - 你必須做關於 BarCamp[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")。
   - 如果你想要介紹，你必須將你的主題以及名稱寫在[簡報上](../Page/簡報.md "wikilink")。
   - 自我介紹只講三個詞！請先想一下要用哪三個詞來表達自己關心的事情
   - 不預先排定議程，也不僅僅來當個過客！

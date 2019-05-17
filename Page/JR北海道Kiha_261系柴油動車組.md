@@ -41,7 +41,7 @@
 </table>
 
 **Kiha
-261系柴聯車**是[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）的高速[柴聯車車款之一](../Page/柴油动车.md "wikilink")。這款柴聯車於2000年（[平成](../Page/平成.md "wikilink")12年）3月11日正式投入服務，正式型號為「261系」，採用[液力傳動](../Page/液力變矩器.md "wikilink")。
+261系柴聯車**是[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）的高速[柴聯車車款之一](https://zh.wikipedia.org/wiki/柴油动车 "wikilink")。這款柴聯車於2000年（[平成](../Page/平成.md "wikilink")12年）3月11日正式投入服務，正式型號為「261系」，採用[液力傳動](https://zh.wikipedia.org/wiki/液力變矩器 "wikilink")。
 
 ## 簡述
 
@@ -58,9 +58,9 @@ Express Train的說明敘述，部分1000番台更採用白色車體而放棄印
 
 使用261系車型運行的列車包括了：
 
-  - [宗谷、佐呂別](../Page/宗谷_\(列車\).md "wikilink")：行駛於[札幌](../Page/札幌站.md "wikilink")～[稚內間](../Page/稚內車站.md "wikilink")
+  - [宗谷、佐呂別](https://zh.wikipedia.org/wiki/宗谷_\(列車\) "wikilink")：行駛於[札幌](../Page/札幌站.md "wikilink")～[稚內間](../Page/稚內車站.md "wikilink")
   - [超級十勝](../Page/超級大空號列車.md "wikilink")：行駛於札幌～[帶廣間](../Page/帶廣車站.md "wikilink")
-  - [超級北斗](../Page/北斗_\(列車\).md "wikilink")：行駛於札幌～[函館間](../Page/函館車站.md "wikilink")
+  - [超級北斗](https://zh.wikipedia.org/wiki/北斗_\(列車\) "wikilink")：行駛於札幌～[函館間](../Page/函館車站.md "wikilink")
 
 [Category:擺式列車](https://zh.wikipedia.org/wiki/Category:擺式列車 "wikilink")
 [Category:日本柴油動車組](https://zh.wikipedia.org/wiki/Category:日本柴油動車組 "wikilink")

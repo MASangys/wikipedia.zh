@@ -1,20 +1,21 @@
 [Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg](https://zh.wikipedia.org/wiki/File:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg "fig:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg")
-**DTX**是由[AMD所提倡之](../Page/AMD.md "wikilink")[主機板規格](../Page/主機板.md "wikilink")，發佈於2007年1月10日。DTX規格尺寸為203毫米×244毫米，適用於[迷你](../Page/迷你電腦.md "wikilink")、[HTPC及](../Page/HTPC.md "wikilink")[Barebone電腦](../Page/準系統電腦.md "wikilink")。[AMD表示DTX為開放規格](../Page/AMD.md "wikilink")，且可向後兼容[ATX機箱規格](../Page/ATX規格.md "wikilink")。**DTX**規格同時擁有另一款較小型的變種，稱為**Mini-DTX**。其[印刷電路板較細小](../Page/印刷電路板.md "wikilink")，而尺寸為203毫米×170毫米。
+**DTX**是由[AMD所提倡之](https://zh.wikipedia.org/wiki/AMD "wikilink")[主機板規格](https://zh.wikipedia.org/wiki/主機板 "wikilink")，發佈於2007年1月10日。DTX規格尺寸為203毫米×244毫米，適用於[迷你](https://zh.wikipedia.org/wiki/迷你電腦 "wikilink")、[HTPC及](https://zh.wikipedia.org/wiki/HTPC "wikilink")[Barebone電腦](https://zh.wikipedia.org/wiki/準系統電腦 "wikilink")。[AMD表示DTX為開放規格](https://zh.wikipedia.org/wiki/AMD "wikilink")，且可向後兼容[ATX機箱規格](../Page/ATX規格.md "wikilink")。**DTX**規格同時擁有另一款較小型的變種，稱為**Mini-DTX**。其[印刷電路板較細小](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，而尺寸為203毫米×170毫米。
 
-DTX主機板規格提供最多兩組[擴展插槽](../Page/匯流排.md "wikilink")（大多為[PCI
-Express及](../Page/PCI_Express.md "wikilink")[PCI](../Page/外设组件互连标准.md "wikilink")），位置與[ATX規格及](../Page/ATX規格.md "wikilink")[Micro-ATX主機板規格相同](../Page/Micro-ATX.md "wikilink")。另外，DTX規格同時可提供非必需的[ExpressCard插槽](../Page/ExpressCard.md "wikilink")。
+DTX主機板規格提供最多兩組[擴展插槽](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（大多為[PCI
+Express及](../Page/PCI_Express.md "wikilink")[PCI](../Page/外设组件互连标准.md "wikilink")），位置與[ATX規格及](../Page/ATX規格.md "wikilink")[Micro-ATX主機板規格相同](https://zh.wikipedia.org/wiki/Micro-ATX "wikilink")。另外，DTX規格同時可提供非必需的[ExpressCard插槽](../Page/ExpressCard.md "wikilink")。
 
-和[Intel提倡的](../Page/Intel.md "wikilink")[ATX](../Page/ATX規格.md "wikilink")、[BTX不同](../Page/BTX規格.md "wikilink")，DTX的「D」並沒有特別意思。
+和[Intel提倡的](https://zh.wikipedia.org/wiki/Intel "wikilink")[ATX](../Page/ATX規格.md "wikilink")、[BTX不同](../Page/BTX規格.md "wikilink")，DTX的「D」並沒有特別意思。
 
 ## 比較
 
 簡單來說，DTX 是變窄了的 Micro-ATX 或 ATX。Micro-ATX 和 ATX 主機板分別最多有四條或七條插槽，DTX
-則最多只有兩條。這種概念與市售[專屬設計的](../Page/專屬.md "wikilink")[準系統電腦](../Page/準系統電腦.md "wikilink")（如[浩鑫電腦出品的](../Page/浩鑫電腦.md "wikilink")
-[XPC](../Page/XPC.md "wikilink")）相似。Mini-DTX 同樣最多設有兩條插槽，但規格長度縮短至與
-[Mini-ITX](../Page/Mini-ITX.md "wikilink") 一樣。這樣使得 Mini-DTX、DTX
-主機板可以用於一般 Micro-ATX 和 ATX
-[機箱](../Page/機箱.md "wikilink")；而 Mini-ITX 主機板可以用於 Mini-DTX、DTX
-機箱。
+則最多只有兩條。這種概念與市售[專屬設計的](https://zh.wikipedia.org/wiki/專屬 "wikilink")[準系統電腦](https://zh.wikipedia.org/wiki/準系統電腦 "wikilink")（如[浩鑫電腦出品的](../Page/浩鑫電腦.md "wikilink")
+[XPC](https://zh.wikipedia.org/wiki/XPC "wikilink")）相似。Mini-DTX
+同樣最多設有兩條插槽，但規格長度縮短至與
+[Mini-ITX](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink") 一樣。這樣使得
+Mini-DTX、DTX 主機板可以用於一般 Micro-ATX 和 ATX
+[機箱](https://zh.wikipedia.org/wiki/機箱 "wikilink")；而 Mini-ITX 主機板可以用於
+Mini-DTX、DTX 機箱。
 
 ## 好處
 
@@ -22,8 +23,8 @@ DTX規格可以讓主機板廠商降低生產成本。
 
 原因如下：
 
-  - 每塊原[印刷電路板可以分割出最多四塊DTX規格主機板](../Page/印刷電路板.md "wikilink")
-  - 每塊原[印刷電路板可以分割出最多六塊Mini](../Page/印刷電路板.md "wikilink")-DTX規格主機板
+  - 每塊原[印刷電路板可以分割出最多四塊DTX規格主機板](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")
+  - 每塊原[印刷電路板可以分割出最多六塊Mini](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")-DTX規格主機板
   - DTX規格主機板可以使用最少四層印刷電路板生產
   - 由於DTX規格主機板可向後兼容[ATX規格](../Page/ATX規格.md "wikilink")，主機板廠商只需輕微調整生產線即可轉為生產DTX規格主機板
 

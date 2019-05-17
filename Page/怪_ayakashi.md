@@ -1,7 +1,7 @@
 《**怪
-～ayakashi～**》（）為[日本的](../Page/日本.md "wikilink")[恐怖](../Page/恐怖.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")。為[富士電視台系列](../Page/富士電視台.md "wikilink")「[noitaminA](../Page/noitaminA.md "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
+～ayakashi～**》（）為[日本的](../Page/日本.md "wikilink")[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台系列](../Page/富士電視台.md "wikilink")「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
 
-本作為noitaminA改變以《[蜂蜜幸運草](../Page/蜂蜜幸運草.md "wikilink")》等少女漫畫為原作的動畫路線、將日本從古至今以來的三篇鬼故事「[四谷怪談](../Page/四谷怪談.md "wikilink")」、「[天守物語](../Page/天守物語.md "wikilink")」、「[化貓](../Page/化貓.md "wikilink")」做為基礎、加入創作者們對原作的獨特解釋和以現在的觀點來創作新的故事，來替故事加入更多的味道、讓讀過原作的人也能以新鮮的感覺觀賞這部強烈前衛風格的異色之作。
+本作為noitaminA改變以《[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")》等少女漫畫為原作的動畫路線、將日本從古至今以來的三篇鬼故事「[四谷怪談](../Page/四谷怪談.md "wikilink")」、「[天守物語](https://zh.wikipedia.org/wiki/天守物語 "wikilink")」、「[化貓](https://zh.wikipedia.org/wiki/化貓 "wikilink")」做為基礎、加入創作者們對原作的獨特解釋和以現在的觀點來創作新的故事，來替故事加入更多的味道、讓讀過原作的人也能以新鮮的感覺觀賞這部強烈前衛風格的異色之作。
 
 這三篇故事、以短篇形式來製作、所以作品間的故事並無相關聯、製作人員也都各自進行自己的故事。所以各個故事都有自己的風格。畫風也都各有差別。
 
@@ -12,7 +12,7 @@
 
 ### 四谷怪談
 
-四谷怪談是一部日本民間靈異故事，由鶴屋南北四世在1825年寫成作為歌舞伎表演，是日本歷來最著名的怪談，被拍成電影超過三十次，沿襲《東海道四谷怪談》的內容、故事的一開始和「結尾」的最後與原作者－[鶴屋南北一起交織了整個四谷怪談的歷史](../Page/鶴屋南北.md "wikilink")。該作鬼故事在日本有各種不同的版本，每個版本發生情節略有些不同。
+四谷怪談是一部日本民間靈異故事，由鶴屋南北四世在1825年寫成作為歌舞伎表演，是日本歷來最著名的怪談，被拍成電影超過三十次，沿襲《東海道四谷怪談》的內容、故事的一開始和「結尾」的最後與原作者－[鶴屋南北一起交織了整個四谷怪談的歷史](https://zh.wikipedia.org/wiki/鶴屋南北 "wikilink")。該作鬼故事在日本有各種不同的版本，每個版本發生情節略有些不同。
 
 ### 天守物語
 
@@ -20,7 +20,7 @@
 
 ### 化貓
 
-上述二作品都有原作，而《化貓》的故事則是完全的原創。表演手法也是大異奇趣，大多使用著[3DCG並且用上](../Page/三維模型.md "wikilink")[浮世繪風的顏色](../Page/浮世繪.md "wikilink")。全篇背景則使用[和紙風的設定](../Page/和紙.md "wikilink")。
+上述二作品都有原作，而《化貓》的故事則是完全的原創。表演手法也是大異奇趣，大多使用著[3DCG並且用上](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[浮世繪風的顏色](../Page/浮世繪.md "wikilink")。全篇背景則使用[和紙風的設定](../Page/和紙.md "wikilink")。
 
 因為受到好評，以同樣賣藥的主角的作品《[物怪](../Page/物怪.md "wikilink")》也在2007年7月12日放映到9月27日（全12集）。
 
@@ -187,17 +187,19 @@
 
   - 企劃：金田耕司（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 音樂：[高梨康治](../Page/高梨康治.md "wikilink")
-  - 音樂協力：[日本新力音樂](../Page/日本新力音樂.md "wikilink")、富士太平洋音樂出版、東映動畫音樂出版
+  - 音樂協力：[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")、富士太平洋音樂出版、東映動畫音樂出版
   - 編輯：片瀨健太
   - 錄音工作室：Tavac
-  - （角色配音）協力：[青二Production](../Page/青二Production.md "wikilink")
+  - （角色配音）協力：[青二Production](https://zh.wikipedia.org/wiki/青二Production "wikilink")
   - 廣告：正岡高子（富士電視台）
-  - 動畫製作：[東映動畫](../Page/東映動畫.md "wikilink")
+  - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 企畫協力：LATERNA
   - 制作：[怪
-    〜ayakashi〜製作委員會](../Page/製作委員會方式.md "wikilink")（富士電視、東映動畫、Asmik
-    Ace Entertainment、[日本新力音樂](../Page/日本新力音樂.md "wikilink")、SKY Perfect
-    Well Think、[電通](../Page/電通.md "wikilink")）
+    〜ayakashi〜製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（富士電視、東映動畫、Asmik
+    Ace
+    Entertainment、[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")、SKY
+    Perfect Well
+    Think、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")）
 
 ### 四谷怪談
 
@@ -295,7 +297,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>四谷怪談 序幕</p></td>
-<td><p><a href="../Page/今澤哲男.md" title="wikilink">今澤哲男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今澤哲男" title="wikilink">今澤哲男</a></p></td>
 <td><p>阿部正己</p></td>
 <td></td>
 </tr>
@@ -311,7 +313,7 @@
 <td><p>3</p></td>
 <td></td>
 <td><p>四谷怪談 三幕</p></td>
-<td><p><a href="../Page/藤本義孝.md" title="wikilink">藤本義孝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤本義孝" title="wikilink">藤本義孝</a></p></td>
 <td><p>今澤哲男</p></td>
 <td><p>宇田川一彥</p></td>
 </tr>
@@ -319,7 +321,7 @@
 <td><p>4</p></td>
 <td></td>
 <td><p>四谷怪談 終幕</p></td>
-<td><p><a href="../Page/芝田浩樹.md" title="wikilink">芝田浩樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芝田浩樹" title="wikilink">芝田浩樹</a></p></td>
 <td><p>伊藤秀樹</p></td>
 <td></td>
 </tr>
@@ -336,7 +338,7 @@
 <td></td>
 <td><p>天守物語 二幕</p></td>
 <td><p>芝田浩樹</p></td>
-<td><p><a href="../Page/大西陽一.md" title="wikilink">大西陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大西陽一" title="wikilink">大西陽一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -355,7 +357,7 @@
 <td><p>門田英彥</p></td>
 <td><p>佐伯哲也<br />
 武口憲司<br />
-<a href="../Page/名倉靖博.md" title="wikilink">名倉靖博</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/名倉靖博" title="wikilink">名倉靖博</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -363,7 +365,7 @@
 <td></td>
 <td><p>化貓 序幕</p></td>
 <td><p>中村健治</p></td>
-<td><p><a href="../Page/橋本敬史.md" title="wikilink">橋本敬史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橋本敬史" title="wikilink">橋本敬史</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -389,13 +391,13 @@
 
 ## 播放電視台
 
-| 播放地區                                   | 播放電視台                                      | 播放日期                 | 播放時間              | 播放系列                                        | 備註 |
-| -------------------------------------- | ------------------------------------------ | -------------------- | ----------------- | ------------------------------------------- | -- |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")   | [富士電視台](../Page/富士電視台.md "wikilink")       | 2006年1月12日 - 3月23日   | 星期四 24:35 - 25:05 | [富士電視台系列](../Page/富士電視網.md "wikilink")      |    |
-| [中京廣域圈](../Page/中京廣域圈.md "wikilink")   | [東海電視台](../Page/東海電視台.md "wikilink")       | 星期四 26:05 - 26:35    |                   |                                             |    |
-| [近畿廣域圈](../Page/近畿廣域圈.md "wikilink")   | [關西電視台](../Page/關西電視台.md "wikilink")       | 2006年1月16日 - 3月27日   | 星期一 25:30 - 26:00 |                                             |    |
-| [日本全域](../Page/全國放送.md "wikilink")     | [富士電視台721](../Page/富士電視台TWO.md "wikilink") | 2006年10月18日 - 11月22日 | 星期三 21:00 - 21:50 | [CS放送](../Page/日本衛星電視廣播#CS放送.md "wikilink") |    |
-| [Animax](../Page/Animax.md "wikilink") | 2007年5月22日 - 7月31日                         | 星期二 22:30 - 23:00    | 有重播               |                                             |    |
+| 播放地區                                                    | 播放電視台                                                         | 播放日期                 | 播放時間              | 播放系列                                                           | 備註 |
+| ------------------------------------------------------- | ------------------------------------------------------------- | -------------------- | ----------------- | -------------------------------------------------------------- | -- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink") | [富士電視台](../Page/富士電視台.md "wikilink")                          | 2006年1月12日 - 3月23日   | 星期四 24:35 - 25:05 | [富士電視台系列](../Page/富士電視網.md "wikilink")                         |    |
+| [中京廣域圈](https://zh.wikipedia.org/wiki/中京廣域圈 "wikilink") | [東海電視台](../Page/東海電視台.md "wikilink")                          | 星期四 26:05 - 26:35    |                   |                                                                |    |
+| [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink") | [關西電視台](../Page/關西電視台.md "wikilink")                          | 2006年1月16日 - 3月27日   | 星期一 25:30 - 26:00 |                                                                |    |
+| [日本全域](https://zh.wikipedia.org/wiki/全國放送 "wikilink")   | [富士電視台721](https://zh.wikipedia.org/wiki/富士電視台TWO "wikilink") | 2006年10月18日 - 11月22日 | 星期三 21:00 - 21:50 | [CS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS放送 "wikilink") |    |
+| [Animax](../Page/Animax.md "wikilink")                  | 2007年5月22日 - 7月31日                                            | 星期二 22:30 - 23:00    | 有重播               |                                                                |    |
 
 ## 參見
 

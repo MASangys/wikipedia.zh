@@ -1,17 +1,17 @@
 **Google日曆**（**Google
-Calendar**），原始代碼名稱“CL2”，是一款由[Google提供的免費聯絡人管理](../Page/Google.md "wikilink")、時間管理的[網頁應用程式](../Page/網頁應用程式.md "wikilink")。Google日曆允許使用者使用網路日曆同步他們的[Gmail聯絡人](../Page/Gmail.md "wikilink")。Google
+Calendar**），原始代碼名稱“CL2”，是一款由[Google提供的免費聯絡人管理](../Page/Google.md "wikilink")、時間管理的[網頁應用程式](https://zh.wikipedia.org/wiki/網頁應用程式 "wikilink")。Google日曆允許使用者使用網路日曆同步他們的[Gmail聯絡人](../Page/Gmail.md "wikilink")。Google
 日曆於2006年4月13日開放使用，於2009年7月結束beta測試。\[1\]
-為了使用此軟體，使用者不需擁有Gmail帳戶，而是需要免費的[Google帳戶](../Page/Google帳戶.md "wikilink")。
+為了使用此軟體，使用者不需擁有Gmail帳戶，而是需要免費的[Google帳戶](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")。
 
 ## 特性
 
-  - [Ajax界面](../Page/Ajax.md "wikilink")
+  - [Ajax界面](https://zh.wikipedia.org/wiki/Ajax "wikilink")
   - 数据在线存储
   - 用户可创建多个日历
   - 多种视图：日视图，周视图，月视图，任务列表视图，自定义视图
   - 共享日历给他人
-  - [邮件](../Page/邮件.md "wikilink")／[短信提醒](../Page/短信.md "wikilink")
-  - 可以和[微软的](../Page/微软.md "wikilink")[Outlook或](../Page/Outlook.md "wikilink")[Mozilla的](../Page/Mozilla.md "wikilink")[Sunbird](../Page/Mozilla_Sunbird.md "wikilink")
+  - [邮件](https://zh.wikipedia.org/wiki/邮件 "wikilink")／[短信提醒](https://zh.wikipedia.org/wiki/短信 "wikilink")
+  - 可以和[微软的](../Page/微软.md "wikilink")[Outlook或](https://zh.wikipedia.org/wiki/Outlook "wikilink")[Mozilla的](../Page/Mozilla.md "wikilink")[Sunbird](../Page/Mozilla_Sunbird.md "wikilink")
     / [Lightning等第三方日历软件进行数据同步](../Page/Lightning.md "wikilink").
   - 自2014年8月1日起，无法再使用Google官方Outlook同步插件google calendar
     sync进行日历同步，用户需要自行使用第三方软件，如支持Google CalDav

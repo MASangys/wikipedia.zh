@@ -1,5 +1,5 @@
 《**LYRICAL
-LYRIC**》（日語：****）是由[MARMALADE於](../Page/MARMALADE.md "wikilink")2007年7月27日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+LYRIC**》（日語：****）是由[MARMALADE於](../Page/MARMALADE.md "wikilink")2007年7月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 劇情
 
@@ -40,7 +40,7 @@ LYRIC**》（日語：****）是由[MARMALADE於](../Page/MARMALADE.md "wikilink
 ### 其他人物
 
   -
-    七音與巴的朋友，同時也是班上的班長，卻有[腐女子的一面](../Page/腐女子.md "wikilink")……？
+    七音與巴的朋友，同時也是班上的班長，卻有[腐女子的一面](https://zh.wikipedia.org/wiki/腐女子 "wikilink")……？
 
 <!-- end list -->
 
@@ -77,8 +77,8 @@ LYRIC**》（日語：****）是由[MARMALADE於](../Page/MARMALADE.md "wikilink
 <!-- end list -->
 
   -
-    [みけおう](../Page/みけおう.md "wikilink")：七音、鈴、ともえ
-    [フミオ](../Page/フミオ.md "wikilink")：クゥ
+    [みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")：七音、鈴、ともえ
+    [フミオ](https://zh.wikipedia.org/wiki/フミオ "wikilink")：クゥ
     ちこたむ：アリエッタ、涼子
 
 <!-- end list -->

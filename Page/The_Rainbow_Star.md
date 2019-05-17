@@ -1,17 +1,17 @@
 《**The Rainbow Star**》是[堂本剛以個人制作名義](../Page/堂本剛.md "wikilink")(Solo Work
 Produce
-Name)[ENDLICHERI☆ENDLICHERI發表的第二首](../Page/ENDLICHERI☆ENDLICHERI.md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2006年6月28日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。值得注意的是，所收錄作品的作曲與作詞皆由他個人一手包辦。
+Name)[ENDLICHERI☆ENDLICHERI發表的第二首](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2006年6月28日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。值得注意的是，所收錄作品的作曲與作詞皆由他個人一手包辦。
 
 ## 解說
 
 《**The Rainbow
-Star**》為ENDLI於3月至5月期間在橫濱舉行的演唱會的點題曲，風格與前作《**[染井吉野](../Page/染井吉野.md "wikilink")**》大為不同，是一首輕快活潑的歌曲。
+Star**》為ENDLI於3月至5月期間在橫濱舉行的演唱會的點題曲，風格與前作《**[染井吉野](https://zh.wikipedia.org/wiki/染井吉野 "wikilink")**》大為不同，是一首輕快活潑的歌曲。
 初回版DVD收錄《**The Rainbow Star**》的MV。
 
 ## 名稱
 
   - 日語原名：**The Rainbow Star**
-  - [台灣](../Page/台灣.md "wikilink")[艾迴譯名](../Page/艾迴唱片.md "wikilink")：**The
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[艾迴譯名](https://zh.wikipedia.org/wiki/艾迴唱片 "wikilink")：**The
     Rainbow Star**
 
 ## 收錄歌曲
@@ -19,10 +19,10 @@ Star**》為ENDLI於3月至5月期間在橫濱舉行的演唱會的點題曲，�
 ### 初回版收錄歌曲
 
 1.  **The Rainbow Star**
-      - 編曲：[ENDLICHERI☆ENDLICHERI](../Page/ENDLICHERI☆ENDLICHERI.md "wikilink")／[上田ケンジ](../Page/上田ケンジ.md "wikilink")
-      - [下神竜哉](../Page/下神竜哉.md "wikilink")／上田ケンジ
+      - 編曲：[ENDLICHERI☆ENDLICHERI](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")／[上田ケンジ](https://zh.wikipedia.org/wiki/上田ケンジ "wikilink")
+      - [下神竜哉](https://zh.wikipedia.org/wiki/下神竜哉 "wikilink")／上田ケンジ
 2.  **生命這件事**（****）
-      - 編曲：[ENDLICHERI☆ENDLICHERI](../Page/ENDLICHERI☆ENDLICHERI.md "wikilink")／[十川知司](../Page/十川知司.md "wikilink")
+      - 編曲：[ENDLICHERI☆ENDLICHERI](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")／[十川知司](https://zh.wikipedia.org/wiki/十川知司 "wikilink")
 3.  **The Rainbow Star -Backing Track-**
 4.  **活下去 -Backing Track-**
 

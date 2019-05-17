@@ -1,5 +1,5 @@
-**AG-3**（[挪威語](../Page/挪威語.md "wikilink")：）是[挪威版本的](../Page/挪威.md "wikilink")[HK
-G3](../Page/HK_G3自動步槍.md "wikilink")[自動步槍](../Page/自動步槍.md "wikilink")。
+**AG-3**（[挪威語](https://zh.wikipedia.org/wiki/挪威語 "wikilink")：）是[挪威版本的](../Page/挪威.md "wikilink")[HK
+G3](../Page/HK_G3自動步槍.md "wikilink")[自動步槍](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")。
 
 ## 歷史
 
@@ -7,7 +7,7 @@ G3](../Page/HK_G3自動步槍.md "wikilink")[自動步槍](../Page/自動步槍.
 FAL](../Page/FN_FAL自動步槍.md "wikilink")、[SIG SG
 510及](../Page/SIG_SG_510自動步槍.md "wikilink")[HK
 G3](../Page/HK_G3自動步槍.md "wikilink")，最終HK
-G3成功獲勝，挪威國防軍將其命名為AG-3，其後合共253,497把（包括[機匣](../Page/機匣.md "wikilink")）分五次（1967年2月至1974年11月）送到挪威，組裝後交給挪威國防軍。
+G3成功獲勝，挪威國防軍將其命名為AG-3，其後合共253,497把（包括[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")）分五次（1967年2月至1974年11月）送到挪威，組裝後交給挪威國防軍。
 
 AG-3在挪威國防軍共服役超過40年，於2007年4月11日，挪威宣佈除國內警衛（Heimevernet）外，全部軍隊將以[HK416作取代](../Page/HK416突擊步槍.md "wikilink")\[1\]。
 
@@ -41,8 +41,8 @@ AG-3.jpg|裝上[紅點鏡和](../Page/紅點鏡.md "wikilink")[前握把的AG](.
 
 ## 参見
 
-  - [GRAM 63](../Page/GRAM_63.md "wikilink")
-  - [FM 1957](../Page/FM_1957.md "wikilink")
+  - [GRAM 63](https://zh.wikipedia.org/wiki/GRAM_63 "wikilink")
+  - [FM 1957](https://zh.wikipedia.org/wiki/FM_1957 "wikilink")
   - [HK G3](../Page/HK_G3自動步槍.md "wikilink")
   - [Ak 4](../Page/Ak_4自動步槍.md "wikilink")
   - [CETME](../Page/CETME自動步槍.md "wikilink")
@@ -52,7 +52,7 @@ AG-3.jpg|裝上[紅點鏡和](../Page/紅點鏡.md "wikilink")[前握把的AG](.
   - —[MG-42.net - AG-3](http://www.mg-42.net/AG3.htm)
 
 [en:Heckler & Koch
-G3\#Variants](../Page/en:Heckler_&_Koch_G3#Variants.md "wikilink")
+G3\#Variants](https://zh.wikipedia.org/wiki/en:Heckler_&_Koch_G3#Variants "wikilink")
 
 [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink")
 [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink")

@@ -1,18 +1,18 @@
-**麥克米蘭TAC-50**（）是由[美國麥克米蘭兄弟步枪公司](../Page/美國.md "wikilink")（McMillan
+**麥克米蘭TAC-50**（）是由[美國麥克米蘭兄弟步枪公司](https://zh.wikipedia.org/wiki/美國 "wikilink")（McMillan
 Brothers Rifle Co.，现更名为麦克米兰枪械公司 McMillan Firearms）在1980年推出的[12.7×99
 NATO](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）[狙擊步槍](../Page/狙擊步槍.md "wikilink")／[反器材步槍](../Page/反器材步槍.md "wikilink")。
+BMG）[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")／[反器材步槍](../Page/反器材步槍.md "wikilink")。
 
 ## 設計及历史
 
 [060105-A-3283V-011.jpg](https://zh.wikipedia.org/wiki/File:060105-A-3283V-011.jpg "fig:060105-A-3283V-011.jpg")EOD部隊士兵的TAC-50\]\]
 TAC-50是一種軍隊及執法部門用的狙擊武器，亦是[加拿大軍隊在](../Page/加拿大軍隊.md "wikilink")2000年起的制式「長距離狙擊武器」（Long
 Range Sniper
-Weapon—LRSW），當發射比賽級彈藥的精度高達0.5[角分](../Page/角分.md "wikilink")（MOA）。
+Weapon—LRSW），當發射比賽級彈藥的精度高達0.5[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")（MOA）。
 
-TAC-50採用手動[旋轉後拉式槍機系统](../Page/手動槍機#旋轉後拉式槍機.md "wikilink")，裝有由Lilja\[1\]制造的比賽級浮置槍管，槍管表面刻有線坑以減低重量，槍口裝有高效能制退器以緩衝[12.7×99
+TAC-50採用手動[旋轉後拉式槍機系统](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")，裝有由Lilja\[1\]制造的比賽級浮置槍管，槍管表面刻有線坑以減低重量，槍口裝有高效能制退器以緩衝[12.7×99
 NATO](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）的強大後座力，由可裝5發的可分離式彈倉供彈，採用麥克米蘭[玻璃纖維強化塑膠](../Page/玻璃钢.md "wikilink")[槍托](../Page/槍托.md "wikilink")，槍托前端裝有兩腳架、尾部裝有特制橡膠緩衝墊，整個槍托尾部可以拆下以方便擁帶。TAC-50沒有機械照門及預設瞄準鏡，而加拿大軍隊採用16倍瞄準鏡。
+BMG）的強大後座力，由可裝5發的可分離式彈倉供彈，採用麥克米蘭[玻璃纖維強化塑膠](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[槍托](../Page/槍托.md "wikilink")，槍托前端裝有兩腳架、尾部裝有特制橡膠緩衝墊，整個槍托尾部可以拆下以方便擁帶。TAC-50沒有機械照門及預設瞄準鏡，而加拿大軍隊採用16倍瞄準鏡。
 
 ## 最遠狙擊距離的世界紀录
 
@@ -27,9 +27,9 @@ BMG）的強大後座力，由可裝5發的可分離式彈倉供彈，採用麥�
 
   -   - [加拿大軍隊](../Page/加拿大軍隊.md "wikilink")（命名為“C15長程狙擊武器”）
 
-  -   - [法國海軍](../Page/法國海軍.md "wikilink")[突擊隊](../Page/突擊隊.md "wikilink")
+  -   - [法國海軍](../Page/法國海軍.md "wikilink")[突擊隊](https://zh.wikipedia.org/wiki/突擊隊 "wikilink")
 
-  -   - [格魯吉亞陸軍特種部隊單位](../Page/格魯吉亞陸軍.md "wikilink")
+  -   - [格魯吉亞陸軍特種部隊單位](https://zh.wikipedia.org/wiki/格魯吉亞陸軍 "wikilink")
 
   -   - 特種部隊單位
 
@@ -37,7 +37,7 @@ BMG）的強大後座力，由可裝5發的可分離式彈倉供彈，採用麥�
 
   -   - 秘魯陸軍
 
-  -   - [菲律賓武裝部隊](../Page/菲律賓軍事.md "wikilink")
+  -   - [菲律賓武裝部隊](https://zh.wikipedia.org/wiki/菲律賓軍事 "wikilink")
 
   -   - [波蘭武裝力量](../Page/波蘭軍事.md "wikilink")[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
 
@@ -52,12 +52,12 @@ BMG）的強大後座力，由可裝5發的可分離式彈倉供彈，採用麥�
 
 ## 相關條目
 
-  - [狙擊步槍](../Page/狙擊步槍.md "wikilink")
+  - [狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")
   - [巴雷特M82](../Page/巴雷特M82狙擊步槍.md "wikilink")
   - [AMR-2狙击步枪](../Page/AMR-2狙击步枪.md "wikilink")
   - [OM 50復仇女神狙擊步槍](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
-  - [羅巴爾RC-50狙擊步槍](../Page/羅巴爾RC-50狙擊步槍.md "wikilink")
+  - [羅巴爾RC-50狙擊步槍](https://zh.wikipedia.org/wiki/羅巴爾RC-50狙擊步槍 "wikilink")
 
 ## 外部链接
 

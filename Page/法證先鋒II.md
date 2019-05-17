@@ -1,4 +1,4 @@
-《**法證先鋒II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝查案](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，[法證先鋒系列第二部](../Page/法證先鋒系列.md "wikilink")，全劇共30集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[佘詩曼及](../Page/佘詩曼.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，由[鍾嘉欣特別演出](../Page/鍾嘉欣.md "wikilink")，並由[曹永廉及](../Page/曹永廉.md "wikilink")[郭少芸聯合主演](../Page/郭少芸.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。
+《**法證先鋒II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝查案](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列第二部](../Page/法證先鋒系列.md "wikilink")，全劇共30集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，由[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[曹永廉及](../Page/曹永廉.md "wikilink")[郭少芸聯合主演](../Page/郭少芸.md "wikilink")，監製[梅小青](../Page/梅小青.md "wikilink")。
 
 ## 演員表
 
@@ -56,7 +56,7 @@
 馬幗英之夫<br />
 於第30集被卓嵐放計時炸彈炸至重傷昏迷，及後甦醒<br />
 于1993年7月20日因在慈云山配水库与古泽琛殴打周长发而被怀疑为杀害周长发之凶手，后因冯添做证人而消除杀害周长发之嫌疑<br />
-青年由<a href="../Page/蔡曜力.md" title="wikilink">蔡曜力飾演</a></p></td>
+青年由<a href="https://zh.wikipedia.org/wiki/蔡曜力" title="wikilink">蔡曜力飾演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/郭少芸.md" title="wikilink">郭少芸</a></strong></p></td>
@@ -67,7 +67,7 @@
 沈雄之女友</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>林汀汀</strong></p></td>
 <td><p><strong>汀汀</strong><br />
 化驗師<br />
@@ -85,7 +85,7 @@
 梁興隆之子<br />
 梁小柔之弟<br />
 高彥博之舅仔兼下屬<br />
-參見<a href="../Page/#梁家.md" title="wikilink"><strong>梁家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#梁家" title="wikilink"><strong>梁家</strong></a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳智燊.md" title="wikilink">陳智燊</a></p></td>
@@ -130,7 +130,7 @@
 高彥博下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/湯展雄.md" title="wikilink">湯展雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯展雄" title="wikilink">湯展雄</a></p></td>
 <td><p>馬自達</p></td>
 <td></td>
 </tr>
@@ -173,7 +173,7 @@
 於第27集完成進修犯罪心理學，回歸香港</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
 <td><p><strong>Bell、Madam Ma、英國馬</strong><br />
 毒品調查科高級督察→高級督察<br />
@@ -216,7 +216,7 @@
 方妙娜之男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></p></td>
 <td><p>程偉勝</p></td>
 <td><p><strong>Edwin</strong><br />
 警员<br />
@@ -261,7 +261,7 @@
 高通之子<br />
 古澤瑤之夫<br />
 梁小柔之男友，於大結局結婚<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/劉錦玲.md" title="wikilink">劉錦玲</a></p></td>
@@ -270,7 +270,7 @@
 古澤琛之姊<br />
 高通之媳婦<br />
 已去世<br />
-参见<strong><a href="../Page/法证先锋.md" title="wikilink">法证先锋</a></strong></p></td>
+参见<strong><a href="https://zh.wikipedia.org/wiki/法证先锋" title="wikilink">法证先锋</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
@@ -278,7 +278,7 @@
 <td><p><strong>Nicole</strong><br />
 高通之媳<br />
 高彥博之女友，於大結局結婚<br />
-參見<strong><a href="../Page/#重案組.md" title="wikilink">重案組</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#重案組" title="wikilink">重案組</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -315,7 +315,7 @@
 青年由<a href="../Page/梁証嘉.md" title="wikilink">梁証嘉飾演</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>林汀汀</strong></p></td>
 <td><p>化驗師<br />
 高彥博之下屬<br />
@@ -337,7 +337,7 @@
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/于洋_(藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/于洋_(藝人)" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>梁興隆</p></td>
 <td><p>梁小柔、梁小剛之父<br />
 高彥博之岳父</p></td>
@@ -348,7 +348,7 @@
 <td><p><strong>Nicole、Madam Leung</strong><br />
 梁興隆之女<br />
 梁小剛之姊<br />
-參見<strong><a href="../Page/#重案組.md" title="wikilink">重案組</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#重案組" title="wikilink">重案組</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
@@ -356,7 +356,7 @@
 <td><p><strong>Fred</strong><br />
 梁興隆之子<br />
 梁小柔之弟<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -383,10 +383,10 @@
 <td><p><strong>Ivan</strong><br />
 楊秀娟之侄<br />
 方妙娜之表哥<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
 <td><p><strong>Bell、Madam Ma</strong><br />
 毒品調查科情报组高級督察→重案組高級督察<br />
@@ -430,7 +430,7 @@
 林沛沛之夫<br />
 林汀汀之姐夫<br />
 於第7集被江有全打劫但被其错手推下樓摔死<br />
-參見<strong><a href="../Page/#許立仁堕樓凶殺案（第7—8集）.md" title="wikilink">許立仁坠楼凶杀案（第7—8集）</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#許立仁堕樓凶殺案（第7—8集）" title="wikilink">許立仁坠楼凶杀案（第7—8集）</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳芷菁.md" title="wikilink">陳芷菁</a></strong></p></td>
@@ -441,7 +441,7 @@
 許立仁之妻</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>林汀汀</strong></p></td>
 <td><p>化驗師<br />
 高彥博之下属<br />
@@ -479,16 +479,16 @@
 <td><p>馬錦濤之繼室（但比郭綺芬先與馬錦濤相戀），馬幗英之母</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
 <td><p><strong>Bell</strong><br />
 馬錦濤、鄭麗玲之女<br />
 郭綺芬之繼女兼天敵，後和好<br />
 馬國宏同父異母之姊<br />
-參見<strong><a href="../Page/#重案組.md" title="wikilink">重案組</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#重案組" title="wikilink">重案組</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃長興.md" title="wikilink">黃長興</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p>馬國宏</p></td>
 <td><p><strong>Ben</strong><br />
 馬錦濤、郭綺芬之子<br />
@@ -527,7 +527,7 @@ Paul之下属<br />
 於第4集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳良韋.md" title="wikilink">陳良韋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳良韋" title="wikilink">陳良韋</a></p></td>
 <td><p>陳子成</p></td>
 <td><p>「猩猩吧」酒保<br />
 林仲佳、劉珊珊之好友<br />
@@ -541,7 +541,7 @@ Paul之下属<br />
 李忠信之上司</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王俊伸.md" title="wikilink">王俊伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王俊伸" title="wikilink">王俊伸</a></p></td>
 <td><p>陳文軒</p></td>
 <td><p>Ken<br />
 法醫<br />
@@ -553,13 +553,13 @@ Paul之下属<br />
 <td><p>陳子成之好友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莊狄生.md" title="wikilink">莊狄生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莊狄生" title="wikilink">莊狄生</a></p></td>
 <td><p>林頌佳</p></td>
 <td><p>「猩猩吧」侍應<br />
 陳子成之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td><p>葉志武</p></td>
 <td><p>葉志文之弟<br />
 因服食過量毒品而被車撞死</p></td>
@@ -584,7 +584,7 @@ Paul之下属<br />
 於第4集被王彪放在車子底下的炸彈炸死</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃智賢.md" title="wikilink">黃智賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃智賢</a></p></td>
 <td><p>王正鴻</p></td>
 <td><p>販毒者<br />
 鍾婉媚之夫<br />
@@ -605,17 +605,17 @@ Paul之下属<br />
 <td><p>王正鴻、鍾婉媚之子</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>艇仔東</p></td>
 <td><p>販毒者<br />
 曾與王正鴻發生爭執，而被懷疑是殺害王正鴻之凶手<br />
 石勇之天敵</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
 <td><p>曾被懷疑是殺害王正鴻之凶手<br />
-參見<strong><a href="../Page/#西九龍重案組.md" title="wikilink">西九龍重案組</a></strong>、<strong><a href="../Page/#馬家.md" title="wikilink">馬家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#西九龍重案組" title="wikilink">西九龍重案組</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/#馬家" title="wikilink">馬家</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -630,18 +630,18 @@ Paul之下属<br />
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></strong></p></td>
 <td><p><strong>林汀汀</strong></p></td>
 <td><p>古澤琛之妻<br />
 於第4集為救梁小柔而被炸彈炸至重傷，搶救後最終身亡<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/蒙嘉慧.md" title="wikilink">蒙嘉慧</a></strong></p></td>
 <td><p><strong>梁小柔</strong></p></td>
 <td><p><strong>Madam Leung</strong><br />
 於第4集被炸彈炸至右耳失聰，右手神經線受損報廢<br />
-參見<strong><a href="../Page/#西九龍重案組.md" title="wikilink">西九龍重案組</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#西九龍重案組" title="wikilink">西九龍重案組</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/李家鼎.md" title="wikilink">李家鼎</a></strong></p></td>
@@ -681,7 +681,7 @@ Paul之下属<br />
 <td><p>姬欣之母</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王若嵐.md" title="wikilink">王若嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王若嵐" title="wikilink">王若嵐</a></p></td>
 <td><p>姬　欣</p></td>
 <td><p>姬太太之女<br />
 炸彈案的證人</p></td>
@@ -695,7 +695,7 @@ Paul之下属<br />
 <td><p><a href="../Page/李成昌.md" title="wikilink">李成昌</a></p></td>
 <td><p>戴　貴</p></td>
 <td><p>與石勇不和<br />
-參見<strong><a href="../Page/#野戰場雙屍案（第1-4集）.md" title="wikilink">野戰場雙屍案（第1-4集）</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#野戰場雙屍案（第1-4集）" title="wikilink">野戰場雙屍案（第1-4集）</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林敬剛.md" title="wikilink">林敬剛</a></p></td>
@@ -703,7 +703,7 @@ Paul之下属<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃智賢.md" title="wikilink">黃智賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃智賢" title="wikilink">黃智賢</a></p></td>
 <td><p>王正鴻</p></td>
 <td></td>
 </tr>
@@ -731,7 +731,7 @@ Paul之下属<br />
 富豪<br />
 林沛沛之夫<br />
 於第7集被江有全錯手從大廈天台推下摔死<br />
-參見<strong><a href="../Page/#林家.md" title="wikilink">林家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#林家" title="wikilink">林家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/游莨維.md" title="wikilink">游莨維</a></p></td>
@@ -794,7 +794,7 @@ Paul之下属<br />
 於第10集被正式起訴妨碍司法公正</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>何韻妍</p></td>
 <td><p>Wendy<br />
 David Leung之顧客<br />
@@ -826,7 +826,7 @@ David Leung之顧客<br />
 於1993年7月20日趁周長發被毆打暈倒時搶走其財物</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳瓊.md" title="wikilink">黃鳳瓊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳瓊" title="wikilink">黃鳳瓊</a></p></td>
 <td><p>楊　鳳</p></td>
 <td><p><strong>Winnie</strong><br />
 周龍生之媳婦<br />
@@ -902,7 +902,7 @@ David Leung之顧客<br />
 傅志辉之养子，并错认其为自己亲父<br />
 于1993年7月20日因不知道周长发是自己的亲父及为母亲出头而打死周长发<br />
 於第13集被捕，后以自衛殺人的理由而被判無罪釋放<br />
-少年由<a href="../Page/陳景昆.md" title="wikilink">陳景昆飾演</a></p></td>
+少年由<a href="https://zh.wikipedia.org/wiki/陳景昆" title="wikilink">陳景昆飾演</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳勉良.md" title="wikilink">陳勉良</a></p></td>
@@ -910,7 +910,7 @@ David Leung之顧客<br />
 <td><p>為馮添接贓</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td><p>新聞主播</p></td>
 <td></td>
 </tr>
@@ -934,7 +934,7 @@ David Leung之顧客<br />
 因何廣福半年前先救殘疾女童而錯過拯救張朱朱的機會，因此對殘疾人士特别敏感<br />
 水奕文之夫<br />
 張朱朱之父<br />
-張朱朱、水奕文死後患有<a href="../Page/创伤后心理压力紧张综合症.md" title="wikilink">创伤后心理压力紧张综合症</a>（Post Traumatic Stress Disorder, PTSD）<br />
+張朱朱、水奕文死後患有<a href="https://zh.wikipedia.org/wiki/创伤后心理压力紧张综合症" title="wikilink">创伤后心理压力紧张综合症</a>（Post Traumatic Stress Disorder, PTSD）<br />
 於第14集以皮帶虐殺黃妙嫦，再以頭撞牆方式殺害李美琪<br />
 於第14-15集襲擊拯救李美琪的梁小柔，並以皮帶勒頸及頭撞牆方式殺害梁小柔未遂<br />
 於第16集以刀割喉殺害何廣福，後被捕</p></td>
@@ -944,7 +944,7 @@ David Leung之顧客<br />
 <td><p><strong>梁小柔</strong></p></td>
 <td><p><strong>Madam Leung</strong><br />
 於第14-15集被張耀忠襲擊，險被張耀忠以皮帶勒死<br />
-參見<strong><a href="../Page/#西九龍重案組.md" title="wikilink">西九龍重案組</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#西九龍重案組" title="wikilink">西九龍重案組</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張雪芹.md" title="wikilink">張雪芹</a></p></td>
@@ -965,7 +965,7 @@ David Leung之顧客<br />
 於第14集被張耀忠以頭撞墙的方式殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林祐飛.md" title="wikilink">林祐飛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林祐飛" title="wikilink">林祐飛</a></p></td>
 <td><p>何廣福</p></td>
 <td><p>消防隊員<br />
 頭皮糠疹子患者<br />
@@ -988,11 +988,11 @@ David Leung之顧客<br />
 <tr class="odd">
 <td><p><a href="../Page/岑潔儀.md" title="wikilink">岑潔儀</a></p></td>
 <td><p>李美晴</p></td>
-<td><p><a href="../Page/空姐.md" title="wikilink">空姐</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/空姐" title="wikilink">空姐</a><br />
 李美琪之姊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td><p>邵中龍</p></td>
 <td><p><strong>Ricky</strong><br />
 髮型師<br />
@@ -1001,7 +1001,7 @@ David Leung之顧客<br />
 與王秀雅於星期三發生關係而成為不在場證據</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/謝兆韵.md" title="wikilink">謝兆-{韵}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝兆韵" title="wikilink">謝兆-{韵}-</a></p></td>
 <td><p>王秀雅</p></td>
 <td><p><strong>Yoyo</strong><br />
 邵中龍之女友<br />
@@ -1019,7 +1019,7 @@ David Leung之顧客<br />
 <td><p>黃妙嫦之母</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何婷恩.md" title="wikilink">何婷恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何婷恩" title="wikilink">何婷恩</a></p></td>
 <td><p>水奕文</p></td>
 <td><p>張耀忠之妻<br />
 張朱朱之母<br />
@@ -1056,7 +1056,7 @@ David Leung之顧客<br />
 於第20集被控給假口供，被判罰款及社會服務令，最后决定捐骨髓給李瑩瑩，并与譚家樂到台湾发展</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td><p>鄒喬堅</p></td>
 <td><p><strong>Louis</strong><br />
 郭曉琳助手<br />
@@ -1114,14 +1114,14 @@ David Leung之顧客<br />
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/黃長興.md" title="wikilink">黃長興</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></strong></p></td>
 <td><p><strong>馬國宏</strong></p></td>
 <td><p><strong>Ben</strong><br />
 馬錦濤、郭綺芬之子<br />
 馬幗英同父異母之弟<br />
 第20集被李志偉綁架<br />
 於第22集被張金水剪斷尾指<br />
-參見<strong><a href="../Page/#馬家.md" title="wikilink">馬家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#馬家" title="wikilink">馬家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></strong></p></td>
@@ -1129,7 +1129,7 @@ David Leung之顧客<br />
 <td><p>郭綺芬、鄭麗玲之夫<br />
 馬幗英、馬國宏之父<br />
 於第20集被綁匪所害、導致遇上車祸受傷<br />
-參見<strong><a href="../Page/#馬家.md" title="wikilink">馬家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#馬家" title="wikilink">馬家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/盧宛茵.md" title="wikilink">盧宛茵</a></strong></p></td>
@@ -1137,7 +1137,7 @@ David Leung之顧客<br />
 <td><p>馬錦濤之元配<br />
 馬國宏之母<br />
 於第22集被李志偉劫持<br />
-參見<strong><a href="../Page/#馬家.md" title="wikilink">馬家</a></strong> |-　</p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#馬家" title="wikilink">馬家</a></strong> |-　</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></p></td>
@@ -1148,35 +1148,35 @@ David Leung之顧客<br />
 於第22集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>何永虎</p></td>
 <td><p>綁匪“虎皮鲨”<br />
 於第22集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>王廣昌</p></td>
 <td><p>馬國宏的百囍酒樓的經理（部長）<br />
 三合會會員 绰号“大佬昌”</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國威.md" title="wikilink">張國威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國威" title="wikilink">張國威</a></p></td>
 <td><p>黃創業</p></td>
 <td><p>受張金水指使偷車，於第21集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃德基.md" title="wikilink">黃德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃德基" title="wikilink">黃德基</a></p></td>
 <td><p>李俊光</p></td>
 <td><p>毆打郭綺芬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>鄭　軍</p></td>
 <td><p>幫凶 “大鸡”<br />
 於第21集誤傷頸部死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td><p>-</p></td>
 <td><p>車房仔</p></td>
 </tr>
@@ -1193,7 +1193,7 @@ David Leung之顧客<br />
 <td><p><strong>關係／職業</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/郭峰_(演員).md" title="wikilink">郭　峰</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　峰</a></strong></p></td>
 <td><p><strong>趙應球</strong></p></td>
 <td><p><strong>球叔</strong><br />
 保安員<br />
@@ -1210,7 +1210,7 @@ David Leung之顧客<br />
 於第25集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/龔茜彤.md" title="wikilink">樂　瞳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龔茜彤" title="wikilink">樂　瞳</a></p></td>
 <td><p>戴玉瑩</p></td>
 <td><p>護士<br />
 照顧何大奇</p></td>
@@ -1222,7 +1222,7 @@ David Leung之顧客<br />
 莫喬豐之下属</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘_標.md" title="wikilink">潘　標</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘_標" title="wikilink">潘　標</a></p></td>
 <td><p>何大奇</p></td>
 <td><p>保安員<br />
 莫喬豐之下属<br />
@@ -1236,7 +1236,7 @@ David Leung之顧客<br />
 於第24集被解僱</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳文靜.md" title="wikilink">陳文靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳文靜" title="wikilink">陳文靜</a></p></td>
 <td><p>張燕瓊</p></td>
 <td><p>何忠泰之前妻<br />
 何良之母<br />
@@ -1249,7 +1249,7 @@ David Leung之顧客<br />
 何良之父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
 <td><p>曾浩南</p></td>
 <td><p>張燕瓊之男友，於第25集分手</p></td>
 </tr>
@@ -1289,28 +1289,28 @@ David Leung之顧客<br />
 馬幗英之未婚夫<br />
 於第29集因撞車爆炸炸死容兆海而使卓嵐記恨<br />
 於第30集被卓嵐以炸彈炸至重傷，後蘇醒<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/林文龍.md" title="wikilink">林文龍</a></strong></p></td>
 <td><p><strong>古澤琛</strong></p></td>
 <td><p><strong>Sam</strong><br />
 為救馬幗英而一拳打死卓嵐，險被控謀殺<br />
-參見<strong><a href="../Page/#法證部.md" title="wikilink">法證部</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#法證部" title="wikilink">法證部</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>馬幗英</strong></p></td>
 <td><p><strong>Bell</strong><br />
 於第29集因與容兆海的車子相撞而爆炸，並炸死容兆海而使卓嵐記恨<br />
 於第30集因懷孕而被卓嵐妒忌，後被卓嵐迷昏並挾制，險遭殺害<br />
-參見<strong><a href="../Page/#西九龍重案组.md" title="wikilink">西九龍重案组</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#西九龍重案组" title="wikilink">西九龍重案组</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳丹丹.md" title="wikilink">陳丹丹</a></strong></p></td>
 <td><p><strong>卓　嵐</strong></p></td>
 <td><p>替身演員<br />
-患有<a href="../Page/假性懷孕.md" title="wikilink">假性懷孕及</a><a href="../Page/身心障碍.md" title="wikilink">身心障碍</a>（Psychosomatic Disorder）<br />
+患有<a href="../Page/假性懷孕.md" title="wikilink">假性懷孕及</a><a href="https://zh.wikipedia.org/wiki/身心障碍" title="wikilink">身心障碍</a>（Psychosomatic Disorder）<br />
 容兆海之女友<br />
 潘安妮之替身<br />
 2003年第一屆《全港新偶像挑戰賽》選手<br />
@@ -1353,7 +1353,7 @@ David Leung之顧客<br />
 於第25集因减肥过度，急性心臟衰竭身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/李亞男.md" title="wikilink">李亞男</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李亞男" title="wikilink">李亞男</a></strong></p></td>
 <td><p><strong>潘安妮</strong></p></td>
 <td><p><strong>Annie</strong><br />
 曹世川旗下女明星<br />
@@ -1373,7 +1373,7 @@ David Leung之顧客<br />
 女演員<br />
 接替何秀冰成為曹世川女友<br />
 潘安妮、梅芊之針對對象<br />
-於第28集因把贈送人的姓名錯看為「miu」而喝下卓嵐下毒的<a href="../Page/山埃.md" title="wikilink">山埃毒水身亡</a></p></td>
+於第28集因把贈送人的姓名錯看為「miu」而喝下卓嵐下毒的<a href="https://zh.wikipedia.org/wiki/山埃" title="wikilink">山埃毒水身亡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/鄧上文.md" title="wikilink">鄧上文</a></strong></p></td>
@@ -1390,14 +1390,14 @@ David Leung之顧客<br />
 於第29集被卓嵐刺傷昏迷後清醒指証卓嵐</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
 <td><p>容兆海</p></td>
 <td><p>爆炸技術員<br />
 卓嵐之男友兼幫兇<br />
 於第29集撞車爆炸死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>車曼琦</p></td>
 <td><p><strong>Rosa</strong><br />
 原為何秀冰助手<br />
@@ -1430,7 +1430,7 @@ David Leung之顧客<br />
 於第26集第一個發現潘安妮死亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇敏聰.md" title="wikilink">蘇敏聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇敏聰" title="wikilink">蘇敏聰</a></p></td>
 <td><p>李澤群</p></td>
 <td><p><strong>Joe</strong><br />
 李蕎之弟<br />
@@ -1455,12 +1455,12 @@ David Leung之顧客<br />
 李澤群之師傅</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>陳志堅</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張穎康.md" title="wikilink">張穎康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張穎康" title="wikilink">張穎康</a></p></td>
 <td><p>吳啟波</p></td>
 <td></td>
 </tr>
@@ -1499,12 +1499,12 @@ David Leung之顧客<br />
 <td><p>外科醫生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉琛宜.md" title="wikilink">劉琛宜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉琛宜" title="wikilink">劉琛宜</a></p></td>
 <td><p>鞋店店主</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃淑君.md" title="wikilink">黃淑君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑君" title="wikilink">黃淑君</a></p></td>
 <td><p>Sue</p></td>
 <td><p>店員</p></td>
 </tr>
@@ -1530,7 +1530,7 @@ David Leung之顧客<br />
 <td><p>蛋糕店收銀員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓姿.md" title="wikilink">卓　姿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓姿" title="wikilink">卓　姿</a></p></td>
 <td><p>餅店店員</p></td>
 <td></td>
 </tr>
@@ -1556,12 +1556,12 @@ David Leung之顧客<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>-{<a href="../Page/謝兆韵.md" title="wikilink">謝兆韵</a>}-</p></td>
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/謝兆韵" title="wikilink">謝兆韵</a>}-</p></td>
 <td><p>酒樓知客</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蒲茗藍.md" title="wikilink">蒲茗藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲茗藍" title="wikilink">蒲茗藍</a></p></td>
 <td><p>Alex</p></td>
 <td><p>暗恋馬幗英<br />
 殺死Jason後自殺身亡</p></td>
@@ -1577,12 +1577,12 @@ David Leung之顧客<br />
 <td><p>處理沈雄被投訴案督察</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁家駒.md" title="wikilink">梁家駒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁家駒" title="wikilink">梁家駒</a></p></td>
 <td><p>Dr Leung</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td><p>Ricky</p></td>
 <td></td>
 </tr>
@@ -1592,7 +1592,7 @@ David Leung之顧客<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡考藍.md" title="wikilink">蔡考藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡考藍" title="wikilink">蔡考藍</a></p></td>
 <td><p>劉美美</p></td>
 <td></td>
 </tr>
@@ -1607,7 +1607,7 @@ David Leung之顧客<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>Calvin</p></td>
 <td></td>
 </tr>
@@ -1678,14 +1678,14 @@ David Leung之顧客<br />
 </tr>
 <tr class="odd">
 <td><p>最佳女主角</p></td>
-<td><p><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></p></td>
 <td><p>（最後十強）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>飛躍進步男藝員</p></td>
-<td><p><a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1705,9 +1705,9 @@ David Leung之顧客<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="../Page/2008年度YAHOO!搜尋人氣大獎得獎名單.md" title="wikilink">2008年度YAHOO!搜尋人氣大獎</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單" title="wikilink">2008年度YAHOO!搜尋人氣大獎</a>》</p></td>
 <td><p>電視女藝人</p></td>
-<td><p><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1727,13 +1727,13 @@ David Leung之顧客<br />
 </tr>
 <tr class="even">
 <td><p>我的至愛情侶檔</p></td>
-<td><p><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></p></td>
+<td><p><a href="../Page/鄭嘉穎.md" title="wikilink">鄭嘉穎</a>、<a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009年度壹電視大獎得獎名單.md" title="wikilink">壹電視大獎2009</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009年度壹電視大獎得獎名單" title="wikilink">壹電視大獎2009</a></p></td>
 <td><p>十大電視節目 - 第五位</p></td>
 <td></td>
 <td></td>
@@ -1741,7 +1741,7 @@ David Leung之顧客<br />
 </tr>
 <tr class="even">
 <td><p>十大電視藝人</p></td>
-<td><p><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1755,7 +1755,7 @@ David Leung之顧客<br />
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="../Page/星和無綫電視大獎2010.md" title="wikilink">星和無綫電視大獎2010</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星和無綫電視大獎2010" title="wikilink">星和無綫電視大獎2010</a></p></td>
 <td><p>我最愛TVB女藝人</p></td>
 <td></td>
 <td></td>
@@ -1774,19 +1774,19 @@ David Leung之顧客<br />
 
 ### 香港收视
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台之收視紀錄](../Page/翡翠台.md "wikilink")：
 
-| 週次 | 集數    | 日期               | 平均收視                             | 最高收視                             |
-| -- | ----- | ---------------- | -------------------------------- | -------------------------------- |
-| 1  | 01-04 | 2008年5月19日-5月22日 | 33[點](../Page/收視點.md "wikilink") | 39[點](../Page/收視點.md "wikilink") |
-| 2  | 05-09 | 2008年5月26日-5月30日 | 31[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") |
-| 3  | 10-14 | 2008年6月2日-6月6日   | 31[點](../Page/收視點.md "wikilink") | 34[點](../Page/收視點.md "wikilink") |
-| 4  | 15-19 | 2008年6月9日-6月13日  | 31[點](../Page/收視點.md "wikilink") | 34[點](../Page/收視點.md "wikilink") |
-| 5  | 20-24 | 2008年6月16日-6月20日 | 33[點](../Page/收視點.md "wikilink") | 36[點](../Page/收視點.md "wikilink") |
-| 6  | 25-29 | 2008年6月23日-6月27日 | 34[點](../Page/收視點.md "wikilink") | 37[點](../Page/收視點.md "wikilink") |
-| 6  | 30    | 2008年6月28日       | 36[點](../Page/收視點.md "wikilink") | 39[點](../Page/收視點.md "wikilink") |
+| 週次 | 集數    | 日期               | 平均收視                                                | 最高收視                                                |
+| -- | ----- | ---------------- | --------------------------------------------------- | --------------------------------------------------- |
+| 1  | 01-04 | 2008年5月19日-5月22日 | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 39[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 2  | 05-09 | 2008年5月26日-5月30日 | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 3  | 10-14 | 2008年6月2日-6月6日   | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 4  | 15-19 | 2008年6月9日-6月13日  | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 5  | 20-24 | 2008年6月16日-6月20日 | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 36[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 6  | 25-29 | 2008年6月23日-6月27日 | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 37[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
+| 6  | 30    | 2008年6月28日       | 36[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 39[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |
 
-本劇平均收視為33[點](../Page/收視點.md "wikilink")。
+本劇平均收視為33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink")。
 
 ### 广州收视
 
@@ -1803,13 +1803,13 @@ David Leung之顧客<br />
 
 ## 軼事
 
-  - 此劇是[歐陽震華與](../Page/歐陽震華.md "wikilink")[佘詩曼繼](../Page/佘詩曼.md "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
+  - 此劇是[歐陽震華與](../Page/歐陽震華.md "wikilink")[佘詩曼繼](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")《[洗冤錄II](../Page/洗冤錄II.md "wikilink")》後再度合作。
   - 此劇的原裝版大結局為一小時（連廣告），但此劇首播版大結局被加長至一小時三十分鐘（連廣告）。
 
 ## 爭議
 
   - 有傳歐陽震華不滿所飾演的高彥博戲份銳減，因為被新加入的[鄭嘉穎所飾演的楊逸昇分薄戲份](../Page/鄭嘉穎.md "wikilink")。
-  - 由於[鍾嘉欣需要拍攝劇集](../Page/鍾嘉欣.md "wikilink")《[珠光寶氣](../Page/珠光寶氣_\(電視劇\).md "wikilink")》及《[金石良緣](../Page/金石良緣.md "wikilink")》，因此，鍾嘉欣只可以於此劇作特別演出，其戲份則由本輯女主角佘詩曼所演繹，雖然佘詩曼的演技都得到不少觀眾稱讚，但網民仍然認為鍾嘉欣飾演的林汀汀與林文龍飾演的古澤琛合演的戲份太少\[1\]
+  - 由於[鍾嘉欣需要拍攝劇集](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[珠光寶氣](https://zh.wikipedia.org/wiki/珠光寶氣_\(電視劇\) "wikilink")》及《[金石良緣](../Page/金石良緣.md "wikilink")》，因此，鍾嘉欣只可以於此劇作特別演出，其戲份則由本輯女主角佘詩曼所演繹，雖然佘詩曼的演技都得到不少觀眾稱讚，但網民仍然認為鍾嘉欣飾演的林汀汀與林文龍飾演的古澤琛合演的戲份太少\[1\]
 
 ## 參考
 
@@ -1831,7 +1831,7 @@ colspan="3"|[甜言蜜語](../Page/甜言蜜語.md "wikilink")
 6月23日- |- |align="center" colspan="1"|**上一套：**
 [原來愛上賊](../Page/原來愛上賊.md "wikilink")
 \-5月16日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2008](../Page/翡翠台電視劇集列表_\(2008年\)#第三線劇集.md "wikilink")）**
+colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2008](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2008年\)#第三線劇集 "wikilink")）**
 **法證先鋒II**
 5月19日-6月28日 |align="center" colspan="1"|**下一套：**
 [疑情別戀](../Page/疑情別戀.md "wikilink")

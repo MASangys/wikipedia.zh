@@ -1,54 +1,54 @@
-**SOHO中國有限公司**（）前身**北京紅石實業有限責任公司**，成立於1995年，是[中國大陸一家](../Page/中國大陸.md "wikilink")[商用](../Page/商業.md "wikilink")[房地產發展商](../Page/房地產.md "wikilink")，集中於[北京市中心](../Page/北京市.md "wikilink")[發展及](../Page/發展.md "wikilink")[銷售商用物業](../Page/銷售.md "wikilink")。SOHO中國現時是北京最大的[房地產發展商](../Page/房地產.md "wikilink")。公司創辦人是[潘石屹和](../Page/潘石屹.md "wikilink")[张欣夫婦](../Page/张欣_\(1965年\).md "wikilink")。
+**SOHO中國有限公司**（）前身**北京紅石實業有限責任公司**，成立於1995年，是[中國大陸一家](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[商用](https://zh.wikipedia.org/wiki/商業 "wikilink")[房地產發展商](https://zh.wikipedia.org/wiki/房地產 "wikilink")，集中於[北京市中心](../Page/北京市.md "wikilink")[發展及](https://zh.wikipedia.org/wiki/發展 "wikilink")[銷售商用物業](https://zh.wikipedia.org/wiki/銷售 "wikilink")。SOHO中國現時是北京最大的[房地產發展商](https://zh.wikipedia.org/wiki/房地產 "wikilink")。公司創辦人是[潘石屹和](../Page/潘石屹.md "wikilink")[张欣夫婦](https://zh.wikipedia.org/wiki/张欣_\(1965年\) "wikilink")。
 
-公司主要擁有北京市及上海市核心地帶的商用地皮，共計開發面積超過155萬平米，項目有「SOHO現代城」、「[建外SOHO](../Page/建外SOHO.md "wikilink")」、「SOHO尚都」、「朝外SOHO」和「[光華路SOHO](../Page/光華路.md "wikilink")」；同時，它在北京[長城腳下和](../Page/長城.md "wikilink")[海南省](../Page/海南省.md "wikilink")[博鼇分別開發建設了全球知名前衛建築專案](../Page/博鼇.md "wikilink")「[長城腳下的公社](../Page/長城腳下的公社.md "wikilink")」和「博鼇凱賓斯基」等，並開發了「[三里屯SOHO](../Page/三里屯.md "wikilink")」及朝陽門SOHO。SOHO中國在過去一直視中國北京市作為它的唯一參與開發的地區，但直至2009年成功收購了在上海[南京西路的SOHO東海廣場後](../Page/南京西路.md "wikilink")，公司已經漸由北京進入中國最大的商業城市[上海](../Page/上海.md "wikilink")。SOHO中國的主要核心理念是"只在最高端的城市開發高檔物業"，並且奉行獨特的整套開發但散售模式，SOHO中國同時也是中國內地其中一間具一流銷售能力的房地產開發商。
+公司主要擁有北京市及上海市核心地帶的商用地皮，共計開發面積超過155萬平米，項目有「SOHO現代城」、「[建外SOHO](https://zh.wikipedia.org/wiki/建外SOHO "wikilink")」、「SOHO尚都」、「朝外SOHO」和「[光華路SOHO](https://zh.wikipedia.org/wiki/光華路 "wikilink")」；同時，它在北京[長城腳下和](https://zh.wikipedia.org/wiki/長城 "wikilink")[海南省](../Page/海南省.md "wikilink")[博鼇分別開發建設了全球知名前衛建築專案](https://zh.wikipedia.org/wiki/博鼇 "wikilink")「[長城腳下的公社](https://zh.wikipedia.org/wiki/長城腳下的公社 "wikilink")」和「博鼇凱賓斯基」等，並開發了「[三里屯SOHO](https://zh.wikipedia.org/wiki/三里屯 "wikilink")」及朝陽門SOHO。SOHO中國在過去一直視中國北京市作為它的唯一參與開發的地區，但直至2009年成功收購了在上海[南京西路的SOHO東海廣場後](https://zh.wikipedia.org/wiki/南京西路 "wikilink")，公司已經漸由北京進入中國最大的商業城市[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。SOHO中國的主要核心理念是"只在最高端的城市開發高檔物業"，並且奉行獨特的整套開發但散售模式，SOHO中國同時也是中國內地其中一間具一流銷售能力的房地產開發商。
 
 2007年10月8日，SOHO中國在[香港交易所上市](../Page/香港交易所.md "wikilink")，集資超過128億港元，當時打破了碧桂園在香港的IPO集資紀錄，成為歷來成功集資額最多的內房企業。\[1\]
-並於其後被納入[摩根士丹利資本國際指數](../Page/摩根士丹利.md "wikilink")[MSCI中國指數成份股中](../Page/MSCI.md "wikilink")。
+並於其後被納入[摩根士丹利資本國際指數](../Page/摩根士丹利.md "wikilink")[MSCI中國指數成份股中](https://zh.wikipedia.org/wiki/MSCI "wikilink")。
 
 ## 公司發展
 
 ### 2007年
 
-[2007年3月SOHO中國以](../Page/2007年3月.md "wikilink")35億元拿下[三里屯的土地使用權後](../Page/三里屯.md "wikilink")，根據在
-2008年9月18日的業績公佈，三里屯項目已為公司帶來了超過58億的預售收入。[2007年11月SOHO中國於香港上市後](../Page/2007年11月.md "wikilink")，加快發展步伐，在同年的11月，再國向[華遠集團收購兩個項目](../Page/華遠集團.md "wikilink")，並將兩項物業命名為光華路SOHO2及SOHO北京公館。\[2\]
+[2007年3月SOHO中國以](../Page/2007年3月.md "wikilink")35億元拿下[三里屯的土地使用權後](https://zh.wikipedia.org/wiki/三里屯 "wikilink")，根據在
+2008年9月18日的業績公佈，三里屯項目已為公司帶來了超過58億的預售收入。[2007年11月SOHO中國於香港上市後](../Page/2007年11月.md "wikilink")，加快發展步伐，在同年的11月，再國向[華遠集團收購兩個項目](https://zh.wikipedia.org/wiki/華遠集團 "wikilink")，並將兩項物業命名為光華路SOHO2及SOHO北京公館。\[2\]
 
 ### 2008年
 
-2008年開始中國內地房地產業開始出現轉變，由於2007年末中國開始加強宏觀調控政策，加強企業貸款的控制以及次貸金融危機加大了市場資金的緊縮，投資者開始對中國經濟放緩的憂慮，內地房地產開始出現由有價無市导致房價下調的情況，由2008年開始由一眾領先的發展商如[萬科](../Page/萬科.md "wikilink")、[恆大地產紛紛降價加速資金回籠](../Page/恆大地產.md "wikilink")，更加速了內地房地產商因資金不足而面臨困境。幸運的是由SOHO中國於在2007年沒有大力加大土地儲備，使得在2008年以後具有充分的流動資本對抗逆境，根據2007年公布的年報，SOHO中國流動現金高達149億元RMB，流動資本在一眾内地房地產企業中處於高水平。
-在資本充足加上房地產行業不景氣的機遇下，SOHO中國開始氣加速收購，於[2008年5月](../Page/2008年5月.md "wikilink")，SOHO中國以55億元人民幣收購[北京凱恒房地產有限公司](../Page/北京凱恒房地產有限公司.md "wikilink")，取得[北京](../Page/北京.md "wikilink")[東城區](../Page/東城區.md "wikilink")[朝陽門商業物業凱恒中心](../Page/朝陽門.md "wikilink")，並易名為朝陽門SOHO，總規劃建築面積達485000平方米，將是SOHO中國繼「建外SOHO」之後，開發的第二大項目。\[3\]其後在[2008年8月以](../Page/2008年8月.md "wikilink")8.9億元人民幣的價格，向中冶新奧正誠房地產開發有限公司（“中冶”）購買[北京](../Page/北京.md "wikilink")[中關村區域核心地段](../Page/中關村.md "wikilink")，是寫字樓與商業零售的綜合項目，總建築面積為58850.44平方米，可銷售商業及辦公面積為44208.66平方米。該項目將被重新命名為“中關村SOHO”。
+2008年開始中國內地房地產業開始出現轉變，由於2007年末中國開始加強宏觀調控政策，加強企業貸款的控制以及次貸金融危機加大了市場資金的緊縮，投資者開始對中國經濟放緩的憂慮，內地房地產開始出現由有價無市导致房價下調的情況，由2008年開始由一眾領先的發展商如[萬科](https://zh.wikipedia.org/wiki/萬科 "wikilink")、[恆大地產紛紛降價加速資金回籠](https://zh.wikipedia.org/wiki/恆大地產 "wikilink")，更加速了內地房地產商因資金不足而面臨困境。幸運的是由SOHO中國於在2007年沒有大力加大土地儲備，使得在2008年以後具有充分的流動資本對抗逆境，根據2007年公布的年報，SOHO中國流動現金高達149億元RMB，流動資本在一眾内地房地產企業中處於高水平。
+在資本充足加上房地產行業不景氣的機遇下，SOHO中國開始氣加速收購，於[2008年5月](../Page/2008年5月.md "wikilink")，SOHO中國以55億元人民幣收購[北京凱恒房地產有限公司](https://zh.wikipedia.org/wiki/北京凱恒房地產有限公司 "wikilink")，取得[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[東城區](https://zh.wikipedia.org/wiki/東城區 "wikilink")[朝陽門商業物業凱恒中心](https://zh.wikipedia.org/wiki/朝陽門 "wikilink")，並易名為朝陽門SOHO，總規劃建築面積達485000平方米，將是SOHO中國繼「建外SOHO」之後，開發的第二大項目。\[3\]其後在[2008年8月以](../Page/2008年8月.md "wikilink")8.9億元人民幣的價格，向中冶新奧正誠房地產開發有限公司（“中冶”）購買[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[中關村區域核心地段](https://zh.wikipedia.org/wiki/中關村 "wikilink")，是寫字樓與商業零售的綜合項目，總建築面積為58850.44平方米，可銷售商業及辦公面積為44208.66平方米。該項目將被重新命名為“中關村SOHO”。
 
 ### 2009年
 
-SOHO中國先後得到[中國銀行及](../Page/中國銀行.md "wikilink")[招商銀行的](../Page/招商銀行.md "wikilink")100億元貸款授信，並發行可換股債券，集資28億元
-。\[4\]\[5\][2009年5月](../Page/2009年5月.md "wikilink")，SOHO中國以17.7億元收購北京[前門大街項目](../Page/前門大街.md "wikilink")，主要作收租用途。\[6\][2009年8月](../Page/2009年8月.md "wikilink")，SOHO中國以24.5億元向[摩根士丹利旗下地產基金Anderson購入位於](../Page/摩根士丹利.md "wikilink")[上海東海廣場一期](../Page/上海.md "wikilink")，並將物業命名為SOHO東海廣場。\[7\]\[8\]
+SOHO中國先後得到[中國銀行及](https://zh.wikipedia.org/wiki/中國銀行 "wikilink")[招商銀行的](https://zh.wikipedia.org/wiki/招商銀行 "wikilink")100億元貸款授信，並發行可換股債券，集資28億元
+。\[4\]\[5\][2009年5月](../Page/2009年5月.md "wikilink")，SOHO中國以17.7億元收購北京[前門大街項目](../Page/前門大街.md "wikilink")，主要作收租用途。\[6\][2009年8月](../Page/2009年8月.md "wikilink")，SOHO中國以24.5億元向[摩根士丹利旗下地產基金Anderson購入位於](../Page/摩根士丹利.md "wikilink")[上海東海廣場一期](https://zh.wikipedia.org/wiki/上海 "wikilink")，並將物業命名為SOHO東海廣場。\[7\]\[8\]
 
 並其後於2009年9月3日，SOHO中國通過北京市國土資源局下屬機構北京市土地整理儲備中心所舉辦的公開招拍掛程序，以人民幣40億元成功投得位於北京朝陽區望京地區的B29地塊之土地使用權，該土地將被建成總建築面積近
 50
-萬平米的大規模寫字樓及商場物業。\[9\][2009年11月](../Page/2009年11月.md "wikilink")，SOHO中國以23.4億元收購Bluewater持有的[北京嘉盛中心](../Page/北京.md "wikilink")，並將物業命名為SOHO嘉盛中心。\[10\]
+萬平米的大規模寫字樓及商場物業。\[9\][2009年11月](../Page/2009年11月.md "wikilink")，SOHO中國以23.4億元收購Bluewater持有的[北京嘉盛中心](https://zh.wikipedia.org/wiki/北京 "wikilink")，並將物業命名為SOHO嘉盛中心。\[10\]
 
 ### 2010年
 
 2010年6月11日，SOHO中國宣布，斥資22.5億元(人民幣)，收購位於上海黃浦區外灘南端的商用地皮、外灘204地塊部分61％權益。這是繼東海廣場後，SOHO中國布局上海的第二站。公司總裁閻岩稱，項目已完成拆遷，料2013年下半年可竣工。若以項目地上商業及商業樓面面積計，每平米地價成本約3.2萬元，這是繼東海廣場之後SOHO中國在上海第二單收購。\[11\]
 該地塊是上海外灘過去60年間唯一的整體新建項目，也將是最後一個新建項目。
 2010年8月13日，SOHO中國再次公布，以人民幣15.6
-億元成功摘牌上海土地交易市場公開掛牌出讓的上海[虹橋交通樞紐旁](../Page/虹橋.md "wikilink")"臨空15號地塊"，該地塊位於上海虹橋臨空經濟園區，佔地86,146.1
+億元成功摘牌上海土地交易市場公開掛牌出讓的上海[虹橋交通樞紐旁](https://zh.wikipedia.org/wiki/虹橋 "wikilink")"臨空15號地塊"，該地塊位於上海虹橋臨空經濟園區，佔地86,146.1
 平方米，規劃地上建築面積215,410 平方米，預計建成後總建築面積約25 萬平方米。 \[12\]
 
 2010年10月15日向盛大房地產收購上海盧灣區43號街坊項目48.48%的股權，收購總價約為12.12億元人民幣，並計劃在完成收購後，與賣方磋商，以同等價格繼續收購項目的剩余全部股份，該項目是SOHO中國進入上海後取得的第四個項目。\[13\]
 
 ### 2011年
 
-2011年3月14日，SOHO中國旗下的搜候（上海）投資有限公司以7.88億元增持上海弘聖房地產開發有限公司31.5239%的股權，後者持有盧灣區43號街坊項目，而項目餘下的20%股權由[華麗家族持有](../Page/華麗家族.md "wikilink")。\[14\]
+2011年3月14日，SOHO中國旗下的搜候（上海）投資有限公司以7.88億元增持上海弘聖房地產開發有限公司31.5239%的股權，後者持有盧灣區43號街坊項目，而項目餘下的20%股權由[華麗家族持有](https://zh.wikipedia.org/wiki/華麗家族 "wikilink")。\[14\]
 
-2011年4月1日，SOHO中國宣佈旗下红石新城斥資16億元向上海静安地产（集团）收购上海[曹家渡地皮](../Page/曹家渡.md "wikilink")。\[15\]
+2011年4月1日，SOHO中國宣佈旗下红石新城斥資16億元向上海静安地产（集团）收购上海[曹家渡地皮](https://zh.wikipedia.org/wiki/曹家渡 "wikilink")。\[15\]
 
-2011年4月19日，SOHO中國宣佈以24.7億元人民幣向杭州紫元和上海嘉聯收購上海[虹口区](../Page/虹口区.md "wikilink")[地铁10号线](../Page/上海地铁10号线.md "wikilink")[海伦路站地皮](../Page/海伦路站.md "wikilink")。\[16\]
+2011年4月19日，SOHO中國宣佈以24.7億元人民幣向杭州紫元和上海嘉聯收購上海[虹口区](https://zh.wikipedia.org/wiki/虹口区 "wikilink")[地铁10号线](https://zh.wikipedia.org/wiki/上海地铁10号线 "wikilink")[海伦路站地皮](../Page/海伦路站.md "wikilink")。\[16\]
 
 2011年8月8日，SOHO中國宣布，斥資18.9億元人民幣，收購位从上海龙仓置业有限公司(Shanghai Long Cang Real
 Estate
-Co.)手中位于[上海市](../Page/上海市.md "wikilink")[浦东新区的嘉瑞国际广场](../Page/浦东新区.md "wikilink")。\[17\]
+Co.)手中位于[上海市](https://zh.wikipedia.org/wiki/上海市 "wikilink")[浦东新区的嘉瑞国际广场](../Page/浦东新区.md "wikilink")。\[17\]
 
-2011年12月29日，SOHO中國宣布斥資40億元向[上海証大](../Page/上海証大.md "wikilink")、[綠城中國及磐石收購上海海之門房地產有限公司](../Page/綠城中國.md "wikilink")50%的股益，有關公司持有上海外灘國際金融服務中心項目。\[18\]
+2011年12月29日，SOHO中國宣布斥資40億元向[上海証大](https://zh.wikipedia.org/wiki/上海証大 "wikilink")、[綠城中國及磐石收購上海海之門房地產有限公司](../Page/綠城中國.md "wikilink")50%的股益，有關公司持有上海外灘國際金融服務中心項目。\[18\]
 
 ### 2012年
 
@@ -68,13 +68,13 @@ Co.)手中位于[上海市](../Page/上海市.md "wikilink")[浦东新区的嘉�
 
 ### 2016年
 
-2016年7月，SOHO中國宣布以32.97億元人民幣向[國華人壽出售SOHO世紀廣場](../Page/國華人壽.md "wikilink")。\[24\]
+2016年7月，SOHO中國宣布以32.97億元人民幣向[國華人壽出售SOHO世紀廣場](https://zh.wikipedia.org/wiki/國華人壽 "wikilink")。\[24\]
 
 ### 2017年
 
-2017年6月，SOHO中國宣布以35.73億元人民幣向[吉寶置業出售虹口SOHO](../Page/吉寶置業.md "wikilink")。\[25\]
+2017年6月，SOHO中國宣布以35.73億元人民幣向[吉寶置業出售虹口SOHO](https://zh.wikipedia.org/wiki/吉寶置業 "wikilink")。\[25\]
 
-2017年10月，SOHO中國宣布以49.44億元人民幣向[基匯資本出售凌空SOHO](../Page/基匯資本.md "wikilink")。\[26\]
+2017年10月，SOHO中國宣布以49.44億元人民幣向[基匯資本出售凌空SOHO](https://zh.wikipedia.org/wiki/基匯資本 "wikilink")。\[26\]
 
 ## 公司業績
 
@@ -99,7 +99,7 @@ Co.)手中位于[上海市](../Page/上海市.md "wikilink")[浦东新区的嘉�
 
 ### 已發展項目
 
-  - [SOHO現代城](../Page/SOHO現代城.md "wikilink")
+  - [SOHO現代城](https://zh.wikipedia.org/wiki/SOHO現代城 "wikilink")
 
 SOHO現代城是SOHO中國的第一個項目。 它位於北京中央商務區，中國國際貿易中心的東面。
 該項目總建築面積為48萬平米，它擁有48家店鋪，283套辦公室，1897套公寓。
@@ -107,67 +107,67 @@ SOHO現代城是SOHO中國的第一個項目。 它位於北京中央商務區�
 該項目於1998年正式銷售，其銷售總額約40億人民幣，並且連續兩年（1999，2000）獲得北京市房地產單體項目的銷售冠軍。
 SOHO現代城於2001年完工。
 
-  - [建外SOHO](../Page/建外SOHO.md "wikilink")
+  - [建外SOHO](https://zh.wikipedia.org/wiki/建外SOHO "wikilink")
 
 建外SOHO位於北京市朝陽區東三環中路39號（國貿中心對面），總建築面積約70萬平方米。
 建外SOHO被媒體稱為北京"最時尚的生活櫥窗"，由20棟塔樓、4棟別墅，l6條小街組成。
 建外SOHO沒有圍牆，16條小街在佔地約17萬平方米的建築群中流動，製造出充滿人情味的小街文化。
 
-  - [SOHO尚都](../Page/SOHO尚都.md "wikilink")
+  - [SOHO尚都](https://zh.wikipedia.org/wiki/SOHO尚都 "wikilink")
 
 SOHO尚都位於CBD西北角，整個項目處在朝外商圈、建國門商圈和國貿商圈三圈交彙的黃金地帶。西側緊靠東大橋路，與第一使館區和藍島大廈隔街相望；東側是規劃中的東大橋東側路，從朝陽路直通建國路，與新城國際一路之隔；北側距離朝陽北路僅有300米；南側與世貿國際公寓二期相接。
 
-  - [朝外SOHO](../Page/朝外SOHO.md "wikilink")
-  - [光華路SOHO](../Page/光華路SOHO.md "wikilink")
+  - [朝外SOHO](https://zh.wikipedia.org/wiki/朝外SOHO "wikilink")
+  - [光華路SOHO](https://zh.wikipedia.org/wiki/光華路SOHO "wikilink")
 
 光華路SOHO位於北京中央商務區，臨近中國國際貿易中心以及秀水市場。
 
-  - [SOHO北京公館](../Page/SOHO北京公館.md "wikilink")
+  - [SOHO北京公館](https://zh.wikipedia.org/wiki/SOHO北京公館 "wikilink")
 
 SOHO北京公館位於北京市中心燕莎商圈，屬於高檔公寓項目
 
-  - [長城腳下的公社](../Page/長城腳下的公社.md "wikilink")
-  - [博鳌蓝色海岸](../Page/博鳌蓝色海岸.md "wikilink")
-  - [中關村SOHO](../Page/中關村SOHO.md "wikilink")
+  - [長城腳下的公社](https://zh.wikipedia.org/wiki/長城腳下的公社 "wikilink")
+  - [博鳌蓝色海岸](https://zh.wikipedia.org/wiki/博鳌蓝色海岸 "wikilink")
+  - [中關村SOHO](https://zh.wikipedia.org/wiki/中關村SOHO "wikilink")
 
 中關村SOHO位於北京中關村中心。中關村被稱為「中國硅谷」，是眾多中國知名高科技與互聯網公司選擇為公司總部的地區，也是新興中小型企業聚集的活力四射的高科技中心商務區。中關村SOHO為一個辦公與商業綜合項目，其建設用地面積為5,654平米，總建築面積為59,060平米。SOHO中國於二零零八年八月收購該項目，收購總價為人民幣890百萬元。中關村SOHO項目的建設工程於收購時已基本完工，並於二零零九年全部竣工。
 
-  - [朝陽門SOHO一、二期](../Page/朝陽門SOHO一、二期.md "wikilink")
+  - [朝陽門SOHO一、二期](https://zh.wikipedia.org/wiki/朝陽門SOHO一、二期 "wikilink")
 
 朝陽門SOHO（原名「凱恒中心」）位踞北京東城區朝陽門內大街。項目總建設用地面積約為68,642平米，沿東二環路伸延五百米。項目位處二號、六號兩條地鐵線的交匯點，有望獲得極高人流量。SOHO中國於二零零八年五月收購該項目，現在已獲中國銀行購入項目一期約53,075平米，成為該行北京分行總部的辦公地點。
 
-  - [soho中山廣場](../Page/soho中山廣場.md "wikilink")
+  - [soho中山廣場](https://zh.wikipedia.org/wiki/soho中山廣場 "wikilink")
 
 ### 發展中項目
 
-  - [三里屯SOHO](../Page/三里屯SOHO.md "wikilink")
+  - [三里屯SOHO](https://zh.wikipedia.org/wiki/三里屯SOHO "wikilink")
 
 三里屯SOHO位於北京第二使館區及工人體育場附近，鄰近著名的三里屯娛樂區。總規劃建築面積約為465,371平米，是北京市中心可供出售的最大型的商業與住宅的綜合項目之一。該項目包含五幢辦公樓和四幢公寓以及商業裙樓，由露天廣場相互連接。
 
-  - [光華路SOHO II](../Page/光華路SOHO_II.md "wikilink")
+  - [光華路SOHO II](https://zh.wikipedia.org/wiki/光華路SOHO_II "wikilink")
 
 光華路SOHO II位於北京中央商務區中心，總規劃建築面積約167,000平米。位於光華路SOHO項目正對面。該項目正在建設中。
 
-  - [銀河SOHO](../Page/銀河SOHO.md "wikilink")
+  - [銀河SOHO](https://zh.wikipedia.org/wiki/銀河SOHO "wikilink")
 
 銀河SOHO即為原來的朝陽門SOHO三期，總建築面積約為334,000平米。銀河SOHO由紮哈·哈迪德設計師設計，建成後將成為位於北京東二環內的標誌性建築。
 
-  - [天安門南](../Page/天安門南.md "wikilink")
+  - [天安門南](https://zh.wikipedia.org/wiki/天安門南 "wikilink")
     [前門大街](../Page/前門大街.md "wikilink")
 
 [Beijing_Qianmen_2008.jpg](https://zh.wikipedia.org/wiki/File:Beijing_Qianmen_2008.jpg "fig:Beijing_Qianmen_2008.jpg")
 項目位於天安門廣場南邊的前門大街和東側地區，SOHO中國擁商場面積約為54,691平米。其中一期位於前門大街，面積約22,763平米，於2008年全部建成。二期位於大街東側地塊，面積約31,928平米，大部分正在建設中。前門大街是SOHO中國唯一計劃持有整個前門項目作為投資的物業。
 
-  - [望京SOHO](../Page/望京SOHO.md "wikilink")
+  - [望京SOHO](https://zh.wikipedia.org/wiki/望京SOHO "wikilink")
 
 該項目將被建成總建築面積近50萬平米的大規模寫字樓及商場物業。望京地區是北京目前規模最大、最成熟的高端居住區域，但缺乏具規模的寫字樓和商業設施。望京SOHO建成後，將使望京地區的城市規劃更加平衡、完整。該項目地塊緊鄰兩條地鐵線，一條輕軌線和機場高速路，交通十分便利，最高建築高度可達200米，建成後將成為從機場高速路進入北京市區的第一個地標建築和視角點。望京地區目前是眾多跨國公司的中國總部所在地，該項目就緊鄰戴姆斯勒、西門子、微軟、卡特彼勒等公司的中國總部。
 望京SOHO由紮哈·哈迪德設計師設計，目前該項目的前期規劃設計工作已經基本完成，預計在明年年初開工建設。
 
-  - [SOHO嘉盛中心](../Page/SOHO嘉盛中心.md "wikilink")
+  - [SOHO嘉盛中心](https://zh.wikipedia.org/wiki/SOHO嘉盛中心 "wikilink")
 
 SOHO嘉盛中心是位於中國北京市東三環路的三十七層辦公及零售綜合甲級樓宇。總建築面積為103,340平米，地上總可售建築面積為82,165平米。
 
-  - [SOHO東海廣場](../Page/SOHO東海廣場.md "wikilink")
+  - [SOHO東海廣場](https://zh.wikipedia.org/wiki/SOHO東海廣場 "wikilink")
 
 SOHO東海廣場位於上海南京西路1486號，坐落於南京西路中央商務區中心，臨近五星級酒店、高檔購物中心、兩個地鐵站（十號線及已規劃的四號線）及上海主要東西公路幹線－延安路高架。該項目樓高217米，共52層，是上海最高的大廈之一，地上建築面積71,671平米，為商業面積；地下建築面積8,838平米，為車庫與倉儲。
 

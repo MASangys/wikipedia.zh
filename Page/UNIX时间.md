@@ -1,4 +1,4 @@
-**UNIX時間**，或稱**POSIX時間**是[UNIX或](../Page/UNIX.md "wikilink")[類UNIX系統使用的時間表示方式](../Page/類UNIX.md "wikilink")：從[協調世界時](../Page/協調世界時.md "wikilink")1970年1月1日0時0分0秒起至現在的總秒數，不考慮[閏秒](../Page/閏秒.md "wikilink")\[1\]。
+**UNIX時間**，或稱**POSIX時間**是[UNIX或](../Page/UNIX.md "wikilink")[類UNIX系統使用的時間表示方式](https://zh.wikipedia.org/wiki/類UNIX "wikilink")：從[協調世界時](https://zh.wikipedia.org/wiki/協調世界時 "wikilink")1970年1月1日0時0分0秒起至現在的總秒數，不考慮[閏秒](https://zh.wikipedia.org/wiki/閏秒 "wikilink")\[1\]。
 在多數Unix系統上Unix時間可以透過指令來檢查。
 
 <table>
@@ -24,7 +24,7 @@
 
 ### Unix负时间导致部分iPhone手机无法启动
 
-在2016年2月12日，据披露，如果把苹果[iPhone](../Page/iPhone.md "wikilink")、[iPad等设备的系统时间设置为](../Page/iPad.md "wikilink")1970年1月1日，随后重启设备，它会无法正常启动。目前苹果公司正式承认了漏洞存在，但是尚未公布具体的引发原因。\[2\]部分中国大陆用户猜想这是因为调整当地时间到1970.1.1
+在2016年2月12日，据披露，如果把苹果[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad等设备的系统时间设置为](https://zh.wikipedia.org/wiki/iPad "wikilink")1970年1月1日，随后重启设备，它会无法正常启动。目前苹果公司正式承认了漏洞存在，但是尚未公布具体的引发原因。\[2\]部分中国大陆用户猜想这是因为调整当地时间到1970.1.1
 0:00后，如果时区为正，那么GMT时间就早于unix定义的0时间。例如北京时间 1970.1.1 0:00 (UTC+0800) 是UTC
 1969.12.31 16:00
 对应的unix时间是负的。但是有人回應嘗試設為正時區重啟後仍然无法正常启动。\[3\]苹果对此采用的策略是在随后的固件更新中将时间禁止调整到2000年以前。

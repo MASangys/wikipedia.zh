@@ -1,4 +1,4 @@
-**Web缓存**（或**HTTP缓存**）是用于临时存储（[缓存](../Page/缓存.md "wikilink")）[Web文档](../Page/網頁.md "wikilink")（如[HTML页面和](../Page/網頁.md "wikilink")[图像](../Page/数字图像.md "wikilink")），以减少[服务器延迟的一种](../Page/带宽_\(计算机\).md "wikilink")[信息技术](../Page/信息技术.md "wikilink")。Web缓存系统会保存下通过这套系统的文档的副本；如果满足某些条件，则可以由缓存满足后续请求。\[1\]
+**Web缓存**（或**HTTP缓存**）是用于临时存储（[缓存](../Page/缓存.md "wikilink")）[Web文档](../Page/網頁.md "wikilink")（如[HTML页面和](../Page/網頁.md "wikilink")[图像](../Page/数字图像.md "wikilink")），以减少[服务器延迟的一种](https://zh.wikipedia.org/wiki/带宽_\(计算机\) "wikilink")[信息技术](../Page/信息技术.md "wikilink")。Web缓存系统会保存下通过这套系统的文档的副本；如果满足某些条件，则可以由缓存满足后续请求。\[1\]
 Web缓存[系統既可以指](../Page/系統.md "wikilink")，也可以指计算机程序。
 
 ## 系统
@@ -14,11 +14,11 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 ### 反向位置系统（内容提供者或Web服务器端）
 
 反向缓存位于一个或多个Web服务器和[Web应用的前端](../Page/网络应用程序.md "wikilink")，加速来自互联网的请求，\[4\]
-从而减少Web服务器的高峰负载。[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（CDN）可以在整个网络的各个点上保留网页内容的副本。[搜索引擎也可能会缓存一个网站](../Page/网络搜索引擎.md "wikilink")；它提供了一种从最近停机的网站检索信息的方法，或者比点击直接链接更快地检索数据的方式。例如，[Google就是这么做的](../Page/Google搜索.md "wikilink")。Google搜索结果中可以找到缓存内容的链接。
+从而减少Web服务器的高峰负载。[內容傳遞網路](../Page/內容傳遞網路.md "wikilink")（CDN）可以在整个网络的各个点上保留网页内容的副本。[搜索引擎也可能会缓存一个网站](https://zh.wikipedia.org/wiki/网络搜索引擎 "wikilink")；它提供了一种从最近停机的网站检索信息的方法，或者比点击直接链接更快地检索数据的方式。例如，[Google就是这么做的](../Page/Google搜索.md "wikilink")。Google搜索结果中可以找到缓存内容的链接。
 
 ## 缓存控制
 
-[HTTP定义了三种控制缓存的基本机制](../Page/HTTP.md "wikilink")：新鲜度，验证和失效。\[5\]
+[HTTP定义了三种控制缓存的基本机制](https://zh.wikipedia.org/wiki/HTTP "wikilink")：新鲜度，验证和失效。\[5\]
 
   - 新鲜度 :
     允许在不在源服务器上重新检查的情况下使用一个响应，并且可以由服务器和客户端来控制。例如，Expires响应头给出文档过期的日期，而Cache-Control:
@@ -34,7 +34,7 @@ Web缓存可以用于各种系统（从Web内容的传输方向来看）：
 
 1998年，[DMCA增加了](../Page/數字千年版權法.md "wikilink")[美国法典](../Page/美国法典.md "wikilink")（[17
 U.S.C. §:
-512](../Page/Online_Copyright_Infringement_Liability_Limitation_Act.md "wikilink")）的规定，放弃追究以缓存为目的的系统运营商的版权责任。
+512](https://zh.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act "wikilink")）的规定，放弃追究以缓存为目的的系统运营商的版权责任。
 
 ## Web缓存软件
 
@@ -59,21 +59,21 @@ U.S.C. §:
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/aiScaler.md" title="wikilink">aiScaler</a> Dynamic Cache Control</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiScaler" title="wikilink">aiScaler</a> Dynamic Cache Control</p></td>
 <td><p>Linux</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ApplianSys.md" title="wikilink">ApplianSys CACHEbox</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ApplianSys" title="wikilink">ApplianSys CACHEbox</a></p></td>
 <td><p>Linux</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Blue_Coat_Systems.md" title="wikilink">Blue Coat</a> ProxySG</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Coat_Systems" title="wikilink">Blue Coat</a> ProxySG</p></td>
 <td><p>SGOS</p></td>
 <td></td>
 <td></td>
@@ -81,13 +81,13 @@ U.S.C. §:
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Nginx.md" title="wikilink">Nginx</a></p></td>
-<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>, <a href="../Page/BSD.md" title="wikilink">BSD variants</a>, <a href="../Page/MacOS.md" title="wikilink">OS X</a>, <a href="../Page/Solaris_(消歧义).md" title="wikilink">Solaris</a>, <a href="../Page/IBM_AIX.md" title="wikilink">AIX</a>, <a href="../Page/HP-UX.md" title="wikilink">HP-UX</a>, other <a href="../Page/类Unix系统.md" title="wikilink">*nix</a> flavors</p></td>
+<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>, <a href="../Page/BSD.md" title="wikilink">BSD variants</a>, <a href="../Page/MacOS.md" title="wikilink">OS X</a>, <a href="https://zh.wikipedia.org/wiki/Solaris_(消歧义)" title="wikilink">Solaris</a>, <a href="../Page/IBM_AIX.md" title="wikilink">AIX</a>, <a href="../Page/HP-UX.md" title="wikilink">HP-UX</a>, other <a href="../Page/类Unix系统.md" title="wikilink">*nix</a> flavors</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Microsoft_Forefront_Threat_Management_Gateway.md" title="wikilink">Microsoft Forefront Threat Management Gateway</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Forefront_Threat_Management_Gateway" title="wikilink">Microsoft Forefront Threat Management Gateway</a></p></td>
 <td><p>Windows</p></td>
 <td></td>
 <td></td>
@@ -95,7 +95,7 @@ U.S.C. §:
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Polipo.md" title="wikilink">Polipo</a></p></td>
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Windows</a>, <a href="../Page/MacOS.md" title="wikilink">OS X</a>, <a href="../Page/Linux.md" title="wikilink">Linux</a>, <a href="../Page/OpenWrt.md" title="wikilink">OpenWrt</a>, <a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a>, <a href="../Page/MacOS.md" title="wikilink">OS X</a>, <a href="../Page/Linux.md" title="wikilink">Linux</a>, <a href="../Page/OpenWrt.md" title="wikilink">OpenWrt</a>, <a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -108,14 +108,14 @@ U.S.C. §:
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Traffic_Server.md" title="wikilink">Traffic Server</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traffic_Server" title="wikilink">Traffic Server</a></p></td>
 <td><p>Linux, Unix</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Untangle.md" title="wikilink">Untangle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Untangle" title="wikilink">Untangle</a></p></td>
 <td><p>Linux</p></td>
 <td></td>
 <td></td>
@@ -129,7 +129,7 @@ U.S.C. §:
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/WinGate.md" title="wikilink">WinGate</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WinGate" title="wikilink">WinGate</a></p></td>
 <td><p>Windows</p></td>
 <td></td>
 <td></td>

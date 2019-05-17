@@ -1,18 +1,19 @@
-***OpenArena*** 基于*[雷神之锤III](../Page/雷神之锤III.md "wikilink")* 开始于，紧接着[id
-Tech
-3释放为](../Page/雷神之锤III引擎.md "wikilink")[GPL的那一天](../Page/GNU_General_Public_License.md "wikilink")。
+***OpenArena***
+基于*[雷神之锤III](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")*
+开始于，紧接着[id Tech
+3释放为](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")[GPL的那一天](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
-*OpenArena*为了成为完整的自由版本QuakeIII而开发着。引擎是[ioquake3基于](../Page/ioquake3.md "wikilink")[id
-Software放出的](../Page/id_Software.md "wikilink")[雷神之锤III引擎](../Page/雷神之锤III引擎.md "wikilink")。*OpenArena*
+*OpenArena*为了成为完整的自由版本QuakeIII而开发着。引擎是[ioquake3基于](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")[id
+Software放出的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[雷神之锤III引擎](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")。*OpenArena*
 在 [GNU](../Page/GNU.md "wikilink")／[Linux](../Page/Linux.md "wikilink")
 发行版中传播，如
 [Debian](../Page/Debian.md "wikilink")，[Fedora](../Page/Fedora.md "wikilink")，[Mandriva](../Page/Mandriva.md "wikilink")，[Ubuntu](../Page/Ubuntu.md "wikilink")。
 
 ## 概述
 
-*OpenArena*'玩法和[雷神之锤III几乎完全一样](../Page/雷神之锤III.md "wikilink")。对玩家的反应和操作速度要求高。模式更多Elimination,
+*OpenArena*'玩法和[雷神之锤III几乎完全一样](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")。对玩家的反应和操作速度要求高。模式更多Elimination,
 CTF Elimination, Last Man Standing和Double Domination。*OpenArena*
-兼容[雷神之锤III地图和](../Page/雷神之锤III.md "wikilink")[MOD](../Page/MOD.md "wikilink")，因为还未完成，兼容性并非100%。游戏开发者认为此游戏不适合未成年人，包含血腥主题，和衣着较为暴露的人物模型，故使用[TIGRS的较高级别适合](../Page/TIGRS.md "wikilink")17岁以上。
+兼容[雷神之锤III地图和](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，因为还未完成，兼容性并非100%。游戏开发者认为此游戏不适合未成年人，包含血腥主题，和衣着较为暴露的人物模型，故使用[TIGRS的较高级别适合](https://zh.wikipedia.org/wiki/TIGRS "wikilink")17岁以上。
 
 ## 传统比赛和影响
 
@@ -32,22 +33,22 @@ Live影响](../Page/Quake_Live.md "wikilink")，一个[开源社区](https://arc
 | 绿色 | 目前版本    |
 | 蓝色 | 未来版本    |
 
-| 主要版本                                                             | 微細更改版本                                         | 發佈日期                                                                                                | 備註                                                                             |
-| ---------------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [Alpha](../Page/Software_release_life_cycle#Alpha.md "wikilink") | Alpha 1                                        | 2005年8月19日                                                                                          | 第一测试版                                                                          |
-| Alpha 2                                                          | 2005年11月18日                                    | 第二测试版                                                                                               |                                                                                |
-| Alpha 3                                                          | 2006年2月25日                                     | [死亡竞赛](../Page/死亡竞赛.md "wikilink") (First version with working netcode tested, and first announcer) |                                                                                |
-| Alpha 4                                                          | 2006年5月7日                                      | 第四版本（增加[奪旗模式](../Page/奪旗.md "wikilink")）                                                            |                                                                                |
-| 0.4                                                              | 0.4.1                                          | 2006年6月6日                                                                                           | ??                                                                             |
-| 0.5                                                              | 0.5.0                                          | [2006-08-20](../Page/2006-08-20.md "wikilink")                                                      | （第一次ioquake3和闪光）                                                               |
-| 0.5.1                                                            | [2006-08-26](../Page/2006-08-26.md "wikilink") | 非自由                                                                                                 |                                                                                |
-| 0.6                                                              | 0.6.0                                          | [2006-12-02](../Page/2006-12-02.md "wikilink")                                                      | （首个带bot的版本）                                                                    |
-| 0.7                                                              | 0.7.0                                          | [2007-07-07](../Page/2007-07-07.md "wikilink")\[3\]                                                 | 视觉听觉效果增强，新地图和人物模型                                                              |
-| 0.7.1                                                            | [2007-08-08](../Page/2007-08-08.md "wikilink") | 新火箭轨迹，玩家制作地图修复                                                                                      |                                                                                |
-| 0.7.6                                                            | [2008-04-21](../Page/2008-04-21.md "wikilink") | 新游戏模式，instant gib, unlagged, rockets only，移除音乐，少数新模型                                                |                                                                                |
-| 0.7.7                                                            | [2008-05-29](../Page/2008-05-29.md "wikilink") | Bug修复版本；服务器只支持0.7.7 之后的版本                                                                           |                                                                                |
-| 0.8                                                              | 0.8.0                                          | [2008-08-08](../Page/2008-08-08.md "wikilink")                                                      | 新语音，部分武器新模型， vertex lighting removal, missionpack. 改为未发布，因为部分非GPL的内容被发觉 \[4\]. |
-| 0.8.1                                                            | [2008-10-31](../Page/2008-10-31.md "wikilink") | 比赛重写，新地图移除了不兼容GPL的内容。                                                                               |                                                                                |
+| 主要版本                                                                                | 微細更改版本                                                            | 發佈日期                                                                                                                   | 備註                                                                             |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [Alpha](https://zh.wikipedia.org/wiki/Software_release_life_cycle#Alpha "wikilink") | Alpha 1                                                           | 2005年8月19日                                                                                                             | 第一测试版                                                                          |
+| Alpha 2                                                                             | 2005年11月18日                                                       | 第二测试版                                                                                                                  |                                                                                |
+| Alpha 3                                                                             | 2006年2月25日                                                        | [死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink") (First version with working netcode tested, and first announcer) |                                                                                |
+| Alpha 4                                                                             | 2006年5月7日                                                         | 第四版本（增加[奪旗模式](https://zh.wikipedia.org/wiki/奪旗 "wikilink")）                                                            |                                                                                |
+| 0.4                                                                                 | 0.4.1                                                             | 2006年6月6日                                                                                                              | ??                                                                             |
+| 0.5                                                                                 | 0.5.0                                                             | [2006-08-20](https://zh.wikipedia.org/wiki/2006-08-20 "wikilink")                                                      | （第一次ioquake3和闪光）                                                               |
+| 0.5.1                                                                               | [2006-08-26](https://zh.wikipedia.org/wiki/2006-08-26 "wikilink") | 非自由                                                                                                                    |                                                                                |
+| 0.6                                                                                 | 0.6.0                                                             | [2006-12-02](https://zh.wikipedia.org/wiki/2006-12-02 "wikilink")                                                      | （首个带bot的版本）                                                                    |
+| 0.7                                                                                 | 0.7.0                                                             | [2007-07-07](https://zh.wikipedia.org/wiki/2007-07-07 "wikilink")\[3\]                                                 | 视觉听觉效果增强，新地图和人物模型                                                              |
+| 0.7.1                                                                               | [2007-08-08](https://zh.wikipedia.org/wiki/2007-08-08 "wikilink") | 新火箭轨迹，玩家制作地图修复                                                                                                         |                                                                                |
+| 0.7.6                                                                               | [2008-04-21](https://zh.wikipedia.org/wiki/2008-04-21 "wikilink") | 新游戏模式，instant gib, unlagged, rockets only，移除音乐，少数新模型                                                                   |                                                                                |
+| 0.7.7                                                                               | [2008-05-29](https://zh.wikipedia.org/wiki/2008-05-29 "wikilink") | Bug修复版本；服务器只支持0.7.7 之后的版本                                                                                              |                                                                                |
+| 0.8                                                                                 | 0.8.0                                                             | [2008-08-08](https://zh.wikipedia.org/wiki/2008-08-08 "wikilink")                                                      | 新语音，部分武器新模型， vertex lighting removal, missionpack. 改为未发布，因为部分非GPL的内容被发觉 \[4\]. |
+| 0.8.1                                                                               | [2008-10-31](https://zh.wikipedia.org/wiki/2008-10-31 "wikilink") | 比赛重写，新地图移除了不兼容GPL的内容。                                                                                                  |                                                                                |
 
 ## 截图
 

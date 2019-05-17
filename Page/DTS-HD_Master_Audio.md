@@ -1,5 +1,5 @@
 **DTS-HD Master Audio**，简称**DTS-HD
-MA**，是[DTS公司針對](../Page/DTS.md "wikilink")[蓝光光盘（Blu-ray）所研發的无损](../Page/Blu-ray_Disc.md "wikilink")[音频格式](../Page/音频.md "wikilink")，其竞争对手为[杜比实验室所开发的](../Page/杜比实验室.md "wikilink")格式
+MA**，是[DTS公司針對](../Page/DTS.md "wikilink")[蓝光光盘（Blu-ray）所研發的无损](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[音频格式](https://zh.wikipedia.org/wiki/音频 "wikilink")，其竞争对手为[杜比实验室所开发的](https://zh.wikipedia.org/wiki/杜比实验室 "wikilink")格式
 
 ## 历史
 
@@ -10,7 +10,7 @@ DTS-HD Master Audio是DTS音频格式的扩展格式
 
 ## 特点
 
-1.  无损音频格式且使用[可变码率](../Page/可变码率.md "wikilink")，这让其在保证体积小的同时却能够呈现极高的音频质量
+1.  无损音频格式且使用[可变码率](https://zh.wikipedia.org/wiki/可变码率 "wikilink")，这让其在保证体积小的同时却能够呈现极高的音频质量
 2.  其编码器同时包含了DTS Digital（DTS的有损音频格式）的编码核心以便在播放器不兼容DTS-HD MA或DTS-HD
     HRA（DTS-HD High Resolution Audio）时切换成DTS Digital（DTS
     Digital一般会以255Kbps的恒定码率进行编码，与DTS-HD

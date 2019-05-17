@@ -1,4 +1,4 @@
-**Nike+赛跑全人类**是[Nike在全球](../Page/Nike.md "wikilink")25個城市主導的慈善路跑活動，主要是希望藉由全球各城市的路跑接力串聯，達成慈善公益的目標。除了路跑的正式賽，各地也在賽後舉行演唱會。各站的路線設計上，皆會與景點相結合，包含[澳洲的](../Page/澳洲.md "wikilink")\[1\]、[土耳其的](../Page/土耳其.md "wikilink")[博斯普魯斯大橋](../Page/7月15日烈士大橋.md "wikilink")\[2\]、[德國的](../Page/德國.md "wikilink")[慕尼黑奥林匹克体育场](../Page/慕尼黑奥林匹克体育场.md "wikilink")、[台灣的](../Page/台灣.md "wikilink")[台北101](../Page/台北101.md "wikilink")…等，雖然此項慈善路跑並非競賽性質，但仍有部份分站會舉行頒獎典禮，來表揚優勝的選手。
+**Nike+赛跑全人类**是[Nike在全球](https://zh.wikipedia.org/wiki/Nike "wikilink")25個城市主導的慈善路跑活動，主要是希望藉由全球各城市的路跑接力串聯，達成慈善公益的目標。除了路跑的正式賽，各地也在賽後舉行演唱會。各站的路線設計上，皆會與景點相結合，包含[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")\[1\]、[土耳其的](../Page/土耳其.md "wikilink")[博斯普魯斯大橋](../Page/7月15日烈士大橋.md "wikilink")\[2\]、[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑奥林匹克体育场](../Page/慕尼黑奥林匹克体育场.md "wikilink")、[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北101](../Page/台北101.md "wikilink")…等，雖然此項慈善路跑並非競賽性質，但仍有部份分站會舉行頒獎典禮，來表揚優勝的選手。
 
 ## 活動特色
 
@@ -10,8 +10,8 @@
   - 大會主題曲：適逢比賽時間與北京奧運同月份，且銜接而後進行，當地知名雙人組合[羽·泉](../Page/羽·泉.md "wikilink")，特別為本次活動寫了主題曲「動力之歌」（Power
     Song），並在一兆韋德健身會所的一場訓練活動中，正式公開此一單曲\[5\]，也讓中國上海站，成為唯一有設置大會主題曲的分站。
   - 晶片計時系統：除了-{Nike+}-原本就已經有專為跑者設計的-{Nike+ SportKit}-與-{Nike+
-    SportBand}-兩種計時設備\[6\]，為了要維持比賽的公正性，加上成績資訊與全球網站同步的關係，所有的分站全部都採用[冠軍晶片進行比賽的計時](../Page/冠軍晶片.md "wikilink")\[7\]。
-  - 賽後演唱會：路跑賽系列活動的重心，絕大多數是在戶外進行，主要邀請當地知名樂團或歌手現場表演。在台灣[台北市的演唱會活動](../Page/台北市.md "wikilink")，則冠上「晨曦」一詞\[8\]。
+    SportBand}-兩種計時設備\[6\]，為了要維持比賽的公正性，加上成績資訊與全球網站同步的關係，所有的分站全部都採用[冠軍晶片進行比賽的計時](https://zh.wikipedia.org/wiki/冠軍晶片 "wikilink")\[7\]。
+  - 賽後演唱會：路跑賽系列活動的重心，絕大多數是在戶外進行，主要邀請當地知名樂團或歌手現場表演。在台灣[台北市的演唱會活動](https://zh.wikipedia.org/wiki/台北市 "wikilink")，則冠上「晨曦」一詞\[8\]。
 
 ## 參與城市與各站冠軍一覽
 
@@ -42,7 +42,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Gouden_medaille.svg" title="fig:Gouden_medaille.svg">Gouden_medaille.svg</a></p></td>
-<td><p><a href="../Page/馬德里.md" title="wikilink">馬德里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德里" title="wikilink">馬德里</a></p></td>
 <td></td>
 <td><p>0:29'39"</p></td>
 <td><p>Azucena Díaz Calvo</p></td>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Zilveren_medaille.svg" title="fig:Zilveren_medaille.svg">Zilveren_medaille.svg</a></p></td>
-<td><p><a href="../Page/倫敦.md" title="wikilink">倫敦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td><p>Adam Sutton</p></td>
 <td><p>0:32'44"</p></td>
 <td></td>
@@ -78,7 +78,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="../Page/羅馬.md" title="wikilink">羅馬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅馬" title="wikilink">羅馬</a></p></td>
 <td><p>Stefano La Rosa</p></td>
 <td><p>0:30'42"</p></td>
 <td><p>Vincenza Sicari</p></td>
@@ -87,7 +87,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="../Page/波特蘭.md" title="wikilink">波特蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波特蘭" title="wikilink">波特蘭</a></p></td>
 <td><p>Brett Holts</p></td>
 <td><p>0:31'49"</p></td>
 <td><p>Danielle Quatrochi</p></td>
@@ -99,7 +99,7 @@
 <td><p><a href="../Page/慕尼黑.md" title="wikilink">慕尼黑</a></p></td>
 <td><p><strong><a href="../Page/剛薩·緯德蘭吉.md" title="wikilink">Günther Weidlinger</a></strong></p></td>
 <td><p><strong>0:29'25"</strong></p></td>
-<td><p><a href="../Page/尼科拉·斯比瑞格.md" title="wikilink">Nicola Spirig</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尼科拉·斯比瑞格" title="wikilink">Nicola Spirig</a></p></td>
 <td><p>0:35'50"</p></td>
 <td><p>0:58:51'</p></td>
 </tr>
@@ -114,7 +114,7 @@
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="../Page/墨爾本.md" title="wikilink">墨爾本</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/墨爾本" title="wikilink">墨爾本</a></p></td>
 <td><p>Kane Wille</p></td>
 <td><p>0:31'52"</p></td>
 <td><p>Emma Ford</p></td>
@@ -132,7 +132,7 @@
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="../Page/華沙.md" title="wikilink">華沙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華沙" title="wikilink">華沙</a></p></td>
 <td><p>Mariusz Giżyński</p></td>
 <td><p>0:30'00"</p></td>
 <td><p>Monika Mariola Drybulska</p></td>
@@ -168,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="../Page/紐約.md" title="wikilink">紐約</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -186,7 +186,7 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -231,7 +231,7 @@
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="../Page/台北市.md" title="wikilink">台北市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td><p><a href="../Page/吳文騫.md" title="wikilink">吳文騫</a></p></td>
 <td><p>0:30'35"</p></td>
 <td><p>許玉芳</p></td>
@@ -258,7 +258,7 @@
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
-<td><p><a href="../Page/上海.md" title="wikilink">上海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td><p>王川</p></td>
 <td><p>0:31'09"</p></td>
 <td><p>蔣成成</p></td>
@@ -285,8 +285,8 @@
 
 ## 類似活動
 
-  - [ING馬拉松](../Page/ING馬拉松.md "wikilink")（全球性馬拉松賽，只有少數地區有設路跑組、半程馬拉松組）
-  - [渣打馬拉松比賽](../Page/渣打馬拉松比賽.md "wikilink")（目前僅有四城市，但參賽者國家來源廣泛）
+  - [ING馬拉松](https://zh.wikipedia.org/wiki/ING馬拉松 "wikilink")（全球性馬拉松賽，只有少數地區有設路跑組、半程馬拉松組）
+  - [渣打馬拉松比賽](https://zh.wikipedia.org/wiki/渣打馬拉松比賽 "wikilink")（目前僅有四城市，但參賽者國家來源廣泛）
   - [三星活力路跑](../Page/三星活力路跑.md "wikilink")（最早從匈牙利發起，後演變成一國多城市的休閒路跑，但部份地區仍維持競賽）
 
 ## 資料來源

@@ -1,8 +1,8 @@
-**威廉·施文克·吉尔伯特**爵士（，），[英国](../Page/英国.md "wikilink")[剧作家](../Page/剧作家.md "wikilink")、[文学家](../Page/文学家.md "wikilink")、[诗人](../Page/诗人.md "wikilink")。他与[作曲家](../Page/作曲家.md "wikilink")[阿瑟·萨利文](../Page/阿瑟·萨利文.md "wikilink")[合作的](../Page/吉爾伯特與萨利文.md "wikilink")14部[喜剧闻名于世](../Page/喜剧.md "wikilink")，其中最著名的为《[皮纳福号军舰](../Page/皮纳福号军舰.md "wikilink")》（*[H.M.S.
-Pinafore](../Page/:en:H.M.S._Pinafore.md "wikilink")*）、《[彭赞斯的海盗](../Page/彭赞斯的海盗.md "wikilink")》（*[The
+**威廉·施文克·吉尔伯特**爵士（，），[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剧作家](../Page/剧作家.md "wikilink")、[文学家](https://zh.wikipedia.org/wiki/文学家 "wikilink")、[诗人](https://zh.wikipedia.org/wiki/诗人 "wikilink")。他与[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[阿瑟·萨利文](../Page/阿瑟·萨利文.md "wikilink")[合作的](https://zh.wikipedia.org/wiki/吉爾伯特與萨利文 "wikilink")14部[喜剧闻名于世](https://zh.wikipedia.org/wiki/喜剧 "wikilink")，其中最著名的为《[皮纳福号军舰](../Page/皮纳福号军舰.md "wikilink")》（*[H.M.S.
+Pinafore](https://zh.wikipedia.org/wiki/:en:H.M.S._Pinafore "wikilink")*）、《[彭赞斯的海盗](https://zh.wikipedia.org/wiki/彭赞斯的海盗 "wikilink")》（*[The
 Pirates of
-Penzance](../Page/:en:The_Pirates_of_Penzance.md "wikilink")*）以及在[音乐剧院中表演场次最多的](../Page/音乐剧院.md "wikilink")[历史剧之一](../Page/历史剧.md "wikilink")《[日本天皇](../Page/日本天皇_\(戲劇\).md "wikilink")》（*[The
-Mikado](../Page/:en:The_Mikado.md "wikilink")*）\[1\]\[2\]。这些作品以及他们其他[萨沃伊歌剧作品如今在使用英语的国家依旧经常演出](../Page/萨沃伊歌剧.md "wikilink")，包括歌剧公司、剧团、学校和社区演出团体。这些作品中的一些台词已经成为[英语的一部分](../Page/英语.md "wikilink")\[3\]\[4\]。
+Penzance](https://zh.wikipedia.org/wiki/:en:The_Pirates_of_Penzance "wikilink")*）以及在[音乐剧院中表演场次最多的](https://zh.wikipedia.org/wiki/音乐剧院 "wikilink")[历史剧之一](https://zh.wikipedia.org/wiki/历史剧 "wikilink")《[日本天皇](https://zh.wikipedia.org/wiki/日本天皇_\(戲劇\) "wikilink")》（*[The
+Mikado](https://zh.wikipedia.org/wiki/:en:The_Mikado "wikilink")*）\[1\]\[2\]。这些作品以及他们其他[萨沃伊歌剧作品如今在使用英语的国家依旧经常演出](https://zh.wikipedia.org/wiki/萨沃伊歌剧 "wikilink")，包括歌剧公司、剧团、学校和社区演出团体。这些作品中的一些台词已经成为[英语的一部分](../Page/英语.md "wikilink")\[3\]\[4\]。
 
 ## 参考资料
 

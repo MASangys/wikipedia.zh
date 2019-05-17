@@ -1,7 +1,7 @@
 **啁啾-Z轉換**（Chirp-Z
-transform）為[離散傅立葉變換](../Page/離散傅立葉變換.md "wikilink")（DFT）的一般化，是一種適合於計算當**取樣頻率間隔**（**sampling
+transform）為[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的一般化，是一種適合於計算當**取樣頻率間隔**（**sampling
 frequency interval**）與**取樣時間間隔**（**sampling time
-interval**）乘積的倒數**不等於**[信號的時頻分佈面積時的](../Page/信號.md "wikilink")**演算法**，其為利用[卷积來實現任意大小的](../Page/卷积.md "wikilink")[離散傅立葉變換](../Page/離散傅立葉變換.md "wikilink")（DFT）的[快速傅立葉變換演算法](../Page/快速傅立葉變換.md "wikilink")。
+interval**）乘積的倒數**不等於**[信號的時頻分佈面積時的](https://zh.wikipedia.org/wiki/信號 "wikilink")**演算法**，其為利用[卷积來實現任意大小的](../Page/卷积.md "wikilink")[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的[快速傅立葉變換演算法](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")。
 
 具體來說，啁啾-Z轉換沿著對數螺旋輪廓，計算出有限數量的點 z<sub>k</sub> 的Z轉換，其定義如下：
 
@@ -97,8 +97,8 @@ k = 0,\dots,M-1,\]
 ## 相關條目
 
   - [卷积](../Page/卷积.md "wikilink")
-  - [離散傅立葉變換](../Page/離散傅立葉變換.md "wikilink")
-  - [快速傅立葉變換](../Page/快速傅立葉變換.md "wikilink")
+  - [離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")
+  - [快速傅立葉變換](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")
   - [啁啾](../Page/啁啾.md "wikilink")（Chirp）
 
 ## 參考文獻

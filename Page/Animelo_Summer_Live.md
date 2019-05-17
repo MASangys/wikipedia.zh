@@ -1,5 +1,5 @@
 **Animelo Summer Live**（，直譯為「動畫旋律的夏季演唱會」，簡稱為（Ani
-Summer））是由開設動畫歌曲專門的手機來電答鈴網站「Animelomix」的[DWANGO公司](../Page/DWANGO.md "wikilink")，以及[文化放送電台主辦的日本國內最大的動畫歌曲演唱會](../Page/文化放送.md "wikilink")，此活動從2005年開始舉辦。出席的歌手雖然限為[動畫](../Page/動畫.md "wikilink")[歌手](../Page/歌手.md "wikilink")，但是演唱會的歌手不只唱動畫的主題曲，電玩、[特攝的主題曲](../Page/特攝.md "wikilink")，以及原創歌曲也有包含在內。每年在演唱會舉辦前夕，官方都會分批宣佈參加演出歌手名單，並會邀請一些神秘或特別嘉賓參與演出。
+Summer））是由開設動畫歌曲專門的手機來電答鈴網站「Animelomix」的[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")，以及[文化放送電台主辦的日本國內最大的動畫歌曲演唱會](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，此活動從2005年開始舉辦。出席的歌手雖然限為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[歌手](../Page/歌手.md "wikilink")，但是演唱會的歌手不只唱動畫的主題曲，電玩、[特攝的主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")，以及原創歌曲也有包含在內。每年在演唱會舉辦前夕，官方都會分批宣佈參加演出歌手名單，並會邀請一些神秘或特別嘉賓參與演出。
 
 自2013年起，[NHK BS
 Premium每年都会播出Animelo](../Page/NHK_BS_Premium.md "wikilink")
@@ -20,17 +20,18 @@ Summer Live的精选影像。
   - [JAM Project](../Page/JAM_Project.md "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [高橋直純](../Page/高橋直純.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [米倉千尋](../Page/米倉千尋.md "wikilink")
   - [石田燿子](../Page/石田燿子.md "wikilink")
-  - [can/goo](../Page/can/goo.md "wikilink")
+  - [can/goo](https://zh.wikipedia.org/wiki/can/goo "wikilink")
   - [下川美娜](../Page/下川美娜.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [unicorn table](../Page/unicorn_table.md "wikilink")
+  - [unicorn
+    table](https://zh.wikipedia.org/wiki/unicorn_table "wikilink")
   - [鈴木達央](../Page/鈴木達央.md "wikilink")
   - [近江知永](../Page/近江知永.md "wikilink")
   - [愛內里菜](../Page/愛內里菜.md "wikilink")
@@ -44,40 +45,59 @@ Summer Live的精选影像。
 ### 演唱歌曲一覽
 
 1.  TRANSMIGRATION ／
-    水樹奈奈、奧井雅美（[ESアワーラジヲのおじかん](../Page/ESアワーラジヲのおじかん.md "wikilink")
+    水樹奈奈、奧井雅美（[ESアワーラジヲのおじかん](https://zh.wikipedia.org/wiki/ESアワーラジヲのおじかん "wikilink")
     印象歌曲）
 2.  輪舞-revolution ／ 奧井雅美（[少女革命歐蒂娜](../Page/少女革命.md "wikilink") 主題曲）
 3.  A confession of TOKIO ／ 奧井雅美（Animelomix CM曲）
-4.  TRUST ／ 奧井雅美（[我的主人愛作怪](../Page/我的主人愛作怪.md "wikilink") 主題曲）
+4.  TRUST ／
+    奧井雅美（[我的主人愛作怪](https://zh.wikipedia.org/wiki/我的主人愛作怪 "wikilink")
+    主題曲）
 5.  OPEN YOUR MIND～小さな羽根ひろげて ／ 石田燿子（[幸運女神](../Page/幸運女神.md "wikilink")
     電視版系列（第一期）主題曲）
-6.  情熱の女神 ／ 石田燿子（[Anime TV](../Page/Anime_TV.md "wikilink") 片尾曲）
-7.  [残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink") ／
-    石田燿子、奧井雅美（[新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")
+6.  情熱の女神 ／ 石田燿子（[Anime
+    TV](https://zh.wikipedia.org/wiki/Anime_TV "wikilink") 片尾曲）
+7.  [残酷な天使のテーゼ](https://zh.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink") ／
+    石田燿子、奧井雅美（[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")
     主題曲）
 8.  ウィーアー\! ／
     [北谷洋](../Page/北谷洋.md "wikilink")、[遠藤正明](../Page/遠藤正明.md "wikilink")、高橋直純（[ONE
     PIECE](../Page/ONE_PIECE.md "wikilink") 主題曲）
 9.  KUJIKENAIKARA\! ／ 栗林美奈實、下川美娜（[秀逗魔導士無印](../Page/秀逗魔導士.md "wikilink")
     片尾曲）
-10. CHA-LA HEAD CHA-LA ／ 影山浩宣（[七龍珠Z](../Page/七龍珠.md "wikilink") 主題曲）
-11. 夢光年 ／ 影山浩宣（[宇宙船サジタリウス](../Page/宇宙船サジタリウス.md "wikilink") 片尾曲）
-12. Just a Survivor ／ 鈴木達央（[喜歡所以喜歡](../Page/喜歡所以喜歡.md "wikilink") 主題曲）
+10. CHA-LA HEAD CHA-LA ／
+    影山浩宣（[七龍珠Z](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")
+    主題曲）
+11. 夢光年 ／
+    影山浩宣（[宇宙船サジタリウス](https://zh.wikipedia.org/wiki/宇宙船サジタリウス "wikilink")
+    片尾曲）
+12. Just a Survivor ／
+    鈴木達央（[喜歡所以喜歡](https://zh.wikipedia.org/wiki/喜歡所以喜歡 "wikilink")
+    主題曲）
 13. tomorrow ／ 下川美娜（[驚爆危機](../Page/驚爆危機.md "wikilink") 主題曲）
 14. 南風 ／ 下川美娜（[驚爆危機 The Second Raid](../Page/驚爆危機.md "wikilink") 主題曲）
-15. 遙か、君のもとへ… ／ 高橋直純（[遙久時空](../Page/遙久時空.md "wikilink") 主題曲）
+15. 遙か、君のもとへ… ／
+    高橋直純（[遙久時空](https://zh.wikipedia.org/wiki/遙久時空 "wikilink")
+    主題曲）
 16. glorydays ／ 高橋直純（S.S.D.S.～刹那の英雄～ 印象曲）
 17. 君に会えてよかった（iromelo-mix）／ 高橋直純（RADIO Animelomix 主題曲）
 18. FLY AWAY ／ unicorn
-    table（[Jinki:EXTEND](../Page/Jinki:EXTEND.md "wikilink") 主題曲）
-19. 嵐の中で輝いて ／ 米倉千尋（[機動戰士鋼彈 第08MS小隊](../Page/機動戰士鋼彈.md "wikilink") 主題曲）
+    table（[Jinki:EXTEND](https://zh.wikipedia.org/wiki/Jinki:EXTEND "wikilink")
+    主題曲）
+19. 嵐の中で輝いて ／ 米倉千尋（[機動戰士鋼彈
+    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")
+    主題曲）
 20. 永遠の扉／ 米倉千尋（[機動戰士鋼彈 第08MS小隊劇場版 Miller's
-    Report](../Page/機動戰士鋼彈.md "wikilink") 主題曲）
+    Report](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink") 主題曲）
 21. Ani Summer Special Medley ／ 米倉千尋
-    1.  WILL（[仙界傳 封神演義](../Page/仙界傳_封神演義.md "wikilink") 主題曲）
-    2.  Little Soldier（遊戲[實況野球8](../Page/實況野球.md "wikilink") 主題曲）
+    1.  WILL（[仙界傳
+        封神演義](https://zh.wikipedia.org/wiki/仙界傳_封神演義 "wikilink")
+        主題曲）
+    2.  Little
+        Soldier（遊戲[實況野球8](https://zh.wikipedia.org/wiki/實況野球 "wikilink")
+        主題曲）
     3.  僕のスピードで（[我們的仙境](../Page/我們的仙境.md "wikilink") 片尾曲）
-22. ウタカタ ／ 近江知永（電視節目[Dream Factory](../Page/Dream_Factory.md "wikilink")
+22. ウタカタ ／ 近江知永（電視節目[Dream
+    Factory](https://zh.wikipedia.org/wiki/Dream_Factory "wikilink")
     片尾曲）
 23. まぼろし ／ can/goo（[妹妹公主Repure](../Page/妹妹公主.md "wikilink") 主題曲）
 24. 教えてあげる ／ can/goo（[老師的時間](../Page/老師的時間.md "wikilink") 主題曲）
@@ -85,13 +105,15 @@ Summer Live的精选影像。
     栗林美奈實（電視動畫[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")
     主題曲）
 26. Blue Treasure ／ 栗林美奈實（[Tide-Line
-    Blue](../Page/Tide-Line_Blue.md "wikilink") 主題曲）
+    Blue](https://zh.wikipedia.org/wiki/Tide-Line_Blue "wikilink") 主題曲）
 27. マブラヴ ／ 栗林美奈實（[Muv-Luv](../Page/Muv-Luv.md "wikilink") 主題曲）
 28. SKILL ／ JAM Project（[第2次超級機器人大戰α](../Page/第2次超級機器人大戰α.md "wikilink")
     主題曲）
-29. 限界バトル ／ JAM Project（[遊戲王GX](../Page/遊戲王GX.md "wikilink") 片尾曲）
+29. 限界バトル ／ JAM
+    Project（[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")
+    片尾曲）
 30. 迷宮のプリズナー ／ JAM Project（[超級機器人大戰ORIGINAL GENERATION THE
-    ANIMATION](../Page/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION.md "wikilink")
+    ANIMATION](https://zh.wikipedia.org/wiki/超級機器人大戰ORIGINAL_GENERATION_THE_ANIMATION "wikilink")
     主題曲）
 31. VICTORY ／ JAM
     Project、石田燿子、米倉千尋（[超級機器人大戰MX](../Page/超級機器人大戰MX.md "wikilink")
@@ -101,9 +123,11 @@ Summer Live的精选影像。
     主題曲）
 33. 恋はスリル、ショック、サスペンス ／ 愛內里菜（[名偵探柯南](../Page/名偵探柯南.md "wikilink") 主題曲）
 34. Still in the groove ／ 水樹奈奈（いろメロミックス CM曲）
-35. Take a shot ／ 水樹奈奈（[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink") 插入曲）
+35. Take a shot ／
+    水樹奈奈（[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")
+    插入曲）
 36. WILD EYES ／
-    水樹奈奈（[BASILISK甲賀忍法帖](../Page/BASILISK甲賀忍法帖.md "wikilink")
+    水樹奈奈（[BASILISK甲賀忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲賀忍法帖 "wikilink")
     片尾曲）
 37. POWER GATE ／ 女性出演者（タイアップ無し）
 38. ONENESS ／ Ani Summer Friends
@@ -127,7 +151,7 @@ Summer Live的精选影像。
   - [JAM Project](../Page/JAM_Project.md "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [高橋直純](../Page/高橋直純.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [米倉千尋](../Page/米倉千尋.md "wikilink")
   - [石田燿子](../Page/石田燿子.md "wikilink")
   - [愛內里菜](../Page/愛內里菜.md "wikilink")
@@ -139,11 +163,12 @@ Summer Live的精选影像。
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [石川智晶](../Page/石川智晶.md "wikilink")
-  - [savage genius](../Page/savage_genius.md "wikilink")
+  - [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
   - [KENN with The NaB's](../Page/KENN.md "wikilink")
   - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink")
   - 特別來賓（[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")）
-      - [平野綾](../Page/平野綾.md "wikilink")
+      - [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
       - [茅原實里](../Page/茅原實里.md "wikilink")
       - [後藤邑子](../Page/後藤邑子.md "wikilink")
 
@@ -151,80 +176,104 @@ Summer Live的精选影像。
 
 ### 演唱歌曲一覽
 
-1.  MASK ／ 奧井雅美、栗林美奈實（[魔幻獵人](../Page/魔幻獵人.md "wikilink") 片尾曲）
+1.  MASK ／
+    奧井雅美、栗林美奈實（[魔幻獵人](https://zh.wikipedia.org/wiki/魔幻獵人 "wikilink")
+    片尾曲）
 2.  Rumbling hearts ／ 栗林美奈實（遊戲[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")
     主題曲）
 3.  Crystal Energy ／ 栗林美奈實（[舞-乙HiME](../Page/舞-乙HiME.md "wikilink") 主題曲）
 4.  幸せのいろ ／ 石田燿子（[幸運女神 それぞれの翼](../Page/幸運女神.md "wikilink") 主題曲）
 5.  紅の静寂 ／ 石田燿子（[灼眼的夏娜](../Page/灼眼的夏娜.md "wikilink") 片尾曲）
-6.  電光石火の恋 ／ 高橋直純（[遙久時空3](../Page/遙久時空3.md "wikilink") 印象歌曲）
+6.  電光石火の恋 ／
+    高橋直純（[遙久時空3](https://zh.wikipedia.org/wiki/遙久時空3 "wikilink")
+    印象歌曲）
 7.  無敵なsmile ／ 高橋直純（[無敵看板娘](../Page/無敵看板娘.md "wikilink") 片尾曲）
 8.  OK\! ／ 高橋直純（タイアップ無し）
 9.  女子アニソンメドレー
-    1.  嵐の中で輝いて ／ 米倉千尋（[機動戰士鋼彈 第08MS小隊](../Page/機動戰士鋼彈.md "wikilink")
+    1.  嵐の中で輝いて ／ 米倉千尋（[機動戰士鋼彈
+        第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")
         主題曲）
-    2.  乙女のポリシー ／ 石田燿子（[美少女戰士R](../Page/美少女戰士.md "wikilink") 主題曲）
+    2.  乙女のポリシー ／
+        石田燿子（[美少女戰士R](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")
+        主題曲）
     3.  Shining☆Days ／ 栗林美奈實（[舞-HiME](../Page/舞-HiME.md "wikilink") 主題曲）
-    4.  [めざせポケモンマスター](../Page/めざせポケモンマスター.md "wikilink") ／
-        松本梨香（[神奇寶貝](../Page/神奇寶貝.md "wikilink") 主題曲）
-10. [ハレ晴レユカイ](../Page/ハレ晴レユカイ.md "wikilink") ／
+    4.  [めざせポケモンマスター](https://zh.wikipedia.org/wiki/めざせポケモンマスター "wikilink")
+        ／ 松本梨香（[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")
+        主題曲）
+10. [ハレ晴レユカイ](https://zh.wikipedia.org/wiki/ハレ晴レユカイ "wikilink") ／
     平野綾、茅原實里、後藤邑子（[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")
     片尾曲）
 11. Wake Up Your Heart ／ KENN with The
-    NaB's（[遊戲王GX](../Page/遊戲王GX.md "wikilink") 片尾曲）
+    NaB's（[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")
+    片尾曲）
 12. Forever... ／ savage genius（[武器種族傳說](../Page/武器種族傳說.md "wikilink")
     主題曲）
 13. 祈りの詩 ／ savage genius（[SIMOUN](../Page/SIMOUN.md "wikilink") 片尾曲）
 14. 愛してね♥もっと ／ 嘉陽愛子（[天上天下](../Page/天上天下.md "wikilink") 片尾曲）
 15. 瞳の中の迷宮 ／ 嘉陽愛子（[闇與帽子與書的旅人](../Page/闇與帽子與書的旅人.md "wikilink") 主題曲）
-16. WILL ／ 米倉千尋（[封神演義](../Page/封神演義.md "wikilink") 主題曲）
+16. WILL ／ 米倉千尋（[封神演義](https://zh.wikipedia.org/wiki/封神演義 "wikilink")
+    主題曲）
 17. 青空とキミへ ／ 米倉千尋（タイアップ無し）
 18. 男子アニソンメドレー
     1.  CHA-LA HEAD CHA-LA ／ 影山浩宣（[七龍珠Z](../Page/七龍珠Z.md "wikilink")
         主題曲）
-    2.  PLANET DANCE ／ 福山芳樹（[超時空要塞7](../Page/超時空要塞.md "wikilink") 插入曲）
+    2.  PLANET DANCE ／
+        福山芳樹（[超時空要塞7](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")
+        插入曲）
     3.  ウィーアー！ ／ 北谷洋（[ONE PIECE](../Page/ONE_PIECE.md "wikilink") 主题曲）
     4.  勇者王誕生！ ／ 遠藤正明（[勇者王](../Page/勇者王.md "wikilink") 主題曲）
     5.  SOLDIER DREAM～聖闘士神話～ ／
-        影山浩宣、福山芳樹、北谷洋、遠藤正明（[聖闘士星矢](../Page/聖闘士星矢.md "wikilink")
+        影山浩宣、福山芳樹、北谷洋、遠藤正明（[聖闘士星矢](https://zh.wikipedia.org/wiki/聖闘士星矢 "wikilink")
         主題曲）
 19. Candy Lie ／
-    [r.o.r/s](../Page/r.o.r/s.md "wikilink")（奧井雅美、米倉千尋）（タイアップ無し）
+    [r.o.r/s](https://zh.wikipedia.org/wiki/r.o.r/s "wikilink")（奧井雅美、米倉千尋）（タイアップ無し）
 20. SECOND IMPACT ／ 奧井雅美（Animelomix CM曲）
 21. WILD SPICE ／ 奧井雅美（[無敵看板娘](../Page/無敵看板娘.md "wikilink") 主題曲）
 22. zero-G- ／ 奧井雅美（[RAY THE
-    ANIMATION](../Page/RAY_THE_ANIMATION.md "wikilink") 主題曲）
+    ANIMATION](https://zh.wikipedia.org/wiki/RAY_THE_ANIMATION "wikilink")
+    主題曲）
 23. 君と約束した優しいあの場所まで ／ 三枝夕夏 IN db（[名偵探柯南](../Page/名偵探柯南.md "wikilink")
     主題曲）
 24. Everybody Jump ／ 三枝夕夏 IN db（[格闘美神 武龍
-    REBIRTH](../Page/格闘美神_武龍_REBIRTH.md "wikilink") 主題曲）
-25. 100もの扉／[愛內里菜&三枝夕夏](../Page/愛內里菜&三枝夕夏.md "wikilink")（コーラス：[スパークリング☆ポイント](../Page/スパークリング☆ポイント.md "wikilink")）（[名偵探柯南](../Page/名偵探柯南.md "wikilink")
+    REBIRTH](https://zh.wikipedia.org/wiki/格闘美神_武龍_REBIRTH "wikilink")
+    主題曲）
+25. 100もの扉／[愛內里菜&三枝夕夏](../Page/愛內里菜&三枝夕夏.md "wikilink")（コーラス：[スパークリング☆ポイント](https://zh.wikipedia.org/wiki/スパークリング☆ポイント "wikilink")）（[名偵探柯南](../Page/名偵探柯南.md "wikilink")
     主題曲）
 26. GLORIOUS ／ 愛內里菜（[Another Century's Episode
-    2](../Page/Another_Century's_Episode#Another_Century's_Episode_2.md "wikilink")
+    2](https://zh.wikipedia.org/wiki/Another_Century's_Episode#Another_Century's_Episode_2 "wikilink")
     印象歌曲）
 27. MIRACLE -Allegro. vivacemix- ／ 愛內里菜（[MÄR
-    -メルヘヴン-](../Page/MÄR.md "wikilink") 片尾曲）
-28. [聖少女領域](../Page/聖少女領域.md "wikilink") ／ ALI
+    -メルヘヴン-](https://zh.wikipedia.org/wiki/MÄR "wikilink")
+    片尾曲）
+28. [聖少女領域](https://zh.wikipedia.org/wiki/聖少女領域 "wikilink") ／ ALI
     PROJECT（[薔薇少女第2期](../Page/薔薇少女.md "wikilink") 主題曲）
-29. [亡國覚醒カタルシス](../Page/亡國覚醒カタルシス.md "wikilink") ／ ALI
-    PROJECT（[.hack//Roots](../Page/.hack/Roots.md "wikilink") 片尾曲）
+29. [亡國覚醒カタルシス](https://zh.wikipedia.org/wiki/亡國覚醒カタルシス "wikilink") ／
+    ALI
+    PROJECT（[.hack//Roots](https://zh.wikipedia.org/wiki/.hack/Roots "wikilink")
+    片尾曲）
 30. GONG（Album version）／ JAM Project（[第3次超級機器人大戰α
-    終焉的銀河](../Page/第3次超級機器人大戰α_終焉的銀河.md "wikilink")
+    終焉的銀河](https://zh.wikipedia.org/wiki/第3次超級機器人大戰α_終焉的銀河 "wikilink")
     主題曲）
 31. 牙狼～SAVIOR IN THE DARK～ ／ JAM
-    Project（[GARO-牙狼-](../Page/GARO-牙狼-.md "wikilink") 主題曲）
+    Project（[GARO-牙狼-](https://zh.wikipedia.org/wiki/GARO-牙狼- "wikilink")
+    主題曲）
 32. SKILL ／ JAM
     Project、米倉千尋、栗林美奈實、石田燿子（[第2次超級機器人大戰α](../Page/第2次超級機器人大戰α.md "wikilink")
     主題曲）
 33. 美しければそれでいい ／ 石川智晶（[SIMOUN](../Page/SIMOUN.md "wikilink") 主題曲）
 34. あんなに一緒だったのに ／ 石川智晶（[機動戰士GUNDAM
     SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink") 片尾曲）
-35. SUPER GENERATION ／ 水樹奈奈（[やぐちひとり](../Page/やぐちひとり.md "wikilink") 片尾曲）
-36. innocent starter ／ 水樹奈奈（[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink") 主題曲）
-37. ヒメムラサキ ／ 水樹奈奈（[BASILISK甲賀忍法帖](../Page/BASILISK甲賀忍法帖.md "wikilink")
+35. SUPER GENERATION ／
+    水樹奈奈（[やぐちひとり](https://zh.wikipedia.org/wiki/やぐちひとり "wikilink")
     片尾曲）
-38. ETERNAL BLAZE ／ 水樹奈奈（[魔法少女奈葉A's](../Page/魔法少女奈葉A's.md "wikilink")
+36. innocent starter ／
+    水樹奈奈（[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")
+    主題曲）
+37. ヒメムラサキ ／
+    水樹奈奈（[BASILISK甲賀忍法帖](https://zh.wikipedia.org/wiki/BASILISK甲賀忍法帖 "wikilink")
+    片尾曲）
+38. ETERNAL BLAZE ／
+    水樹奈奈（[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")
     主題曲）
 39. OUTRIDE ／ Ani Summer Friends（2006年主題曲）
       -
@@ -236,19 +285,19 @@ Summer Live的精选影像。
 
   -
     2006 年4月8日より9月30日まで、『[A\&G 超RADIO
-    SHOW～アニスパ\!～](../Page/A&G_超RADIO_SHOW～アニスパ!～.md "wikilink")』（文化放送）內にて、Animelo
+    SHOW～アニスパ\!～](https://zh.wikipedia.org/wiki/A&G_超RADIO_SHOW～アニスパ!～ "wikilink")』（文化放送）內にて、Animelo
     Summer Live 2006と連動したミニ番組『アニサマSTATION』が放送されていた。パーソナリティは奧井雅美と栗林美奈實。
 
 ### CD
 
-  - OUTRIDE（作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")／作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")／編曲：[河野陽吾](../Page/河野陽吾.md "wikilink")）
+  - OUTRIDE（作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")／作曲：[影山浩宣](../Page/影山浩宣.md "wikilink")／編曲：[河野陽吾](https://zh.wikipedia.org/wiki/河野陽吾 "wikilink")）
 
 <!-- end list -->
 
   -
     Animelo Summer 2006-OUTRIDE-主題曲
     2006年6月9日發售／[Geneon
-    Entertainment](../Page/Geneon_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")
 
 ### DVD
 
@@ -257,7 +306,7 @@ Summer Live的精选影像。
 <!-- end list -->
 
   -
-    2006年12月21日發售／[Kingrecords](../Page/Kingrecords.md "wikilink")
+    2006年12月21日發售／[Kingrecords](https://zh.wikipedia.org/wiki/Kingrecords "wikilink")
 
 <!-- end list -->
 
@@ -266,7 +315,7 @@ Summer Live的精选影像。
 <!-- end list -->
 
   -
-    2006年12月21日發售／[Victor音樂](../Page/Victor音樂.md "wikilink")
+    2006年12月21日發售／[Victor音樂](https://zh.wikipedia.org/wiki/Victor音樂 "wikilink")
 
 ※註：若購買DVD 以上表演曲目並沒有完全收錄其中 請參考官方網站商品項目查詢 考慮是否購買。
 
@@ -284,11 +333,11 @@ Summer Live的精选影像。
   - [JAM Project](../Page/JAM_Project.md "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [高橋直純](../Page/高橋直純.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
   - [桃井晴子](../Page/桃井晴子.md "wikilink")
   - [樹海](../Page/樹海_\(樂團\).md "wikilink")
-  - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+  - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
   - [近江知永](../Page/近江知永.md "wikilink")
 
 </div>
@@ -297,11 +346,11 @@ Summer Live的精选影像。
 
   - [PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
   - [Suara](../Page/Suara.md "wikilink")
-  - [Cy-Rim rev.](../Page/Cy-Rim_rev..md "wikilink")
+  - [Cy-Rim rev.](https://zh.wikipedia.org/wiki/Cy-Rim_rev. "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
   - 特別來賓
       -
-      - [平野綾](../Page/平野綾.md "wikilink")
+      - [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
 
 </div>
 
@@ -313,18 +362,21 @@ Summer Live的精选影像。
     ANIMATION 主題曲）
 4.  　Romantic summer／桃井晴子（[瀨戶的新娘](../Page/瀨戶的花嫁_\(漫畫\).md "wikilink")
     片頭曲）
-5.  　WONDER MOMO-i／桃井晴子（[太鼓の達人系列](../Page/太鼓の達人.md "wikilink")）
+5.  　WONDER
+    MOMO-i／桃井晴子（[太鼓の達人系列](https://zh.wikipedia.org/wiki/太鼓の達人 "wikilink")）
 6.  　純白サンクチュアリィ／茅原實里（キディ、グレイド2 パイロットDVD テーマソング）
 7.  　君がくれたあの日／茅原實里
 8.  　恋のDice☆教えて／Cy-Rim rev.（[CircusLand
-    I](../Page/CircusLand_I.md "wikilink") 主題歌）
+    I](https://zh.wikipedia.org/wiki/CircusLand_I "wikilink") 主題歌）
 9.  　聖少女領域／宝野アリカ、水樹奈奈（[薔薇少女](../Page/薔薇少女.md "wikilink") 主題曲）
 10. 　てのひら／高橋直純
 11. 　君に会えてよかった／高橋直純（RADIO AnimeloMix 片尾曲）
 12. 　Yell！／栗林美奈實（超級機器人大戰OG 片尾曲）
 13. 　翼はPleasure Line／栗林美奈實（[聖槍修女](../Page/聖槍修女.md "wikilink") 片頭曲）
-14. 　夢想歌／Suara（[傳頌之物](../Page/傳頌之物.md "wikilink") 片頭曲）
-15. 　キミガタメ／Suara（[傳頌之物](../Page/傳頌之物.md "wikilink") 片尾曲）
+14. 　夢想歌／Suara（[傳頌之物](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")
+    片頭曲）
+15. 　キミガタメ／Suara（[傳頌之物](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")
+    片尾曲）
 16. 　Float～空の彼方で～／近江知永（SoltyRei 片尾曲）
 17. 　ロックリバーへ／近江知永（あらいぐまラスカル OPカバー）
 18. 　うしろゆびさされ組／栗林美奈實、桃井晴子（ハイスクール\!奇面組 OPカバー）
@@ -333,27 +385,29 @@ Summer Live的精选影像。
 21. 　レッツゴー！陰陽師／矢部野彦麿＆琴姫 With 坊主ダンサーズ
 22. 　特捜戦隊デカレンジャー／サイキックラバー（特捜戦隊デカレンジャー 主題曲）
 23. 　XTC／サイキックラバー（ウィッチブレイド 主題曲）
-24. 　あなたがいた森／樹海（[Fate/Stay Night](../Page/Fate/Stay_Night.md "wikilink")
+24. 　あなたがいた森／樹海（[Fate/Stay
+    Night](https://zh.wikipedia.org/wiki/Fate/Stay_Night "wikilink")
     片尾曲）
 25. 　咲かせてはいけない花／樹海
 26. 　勇侠青春謳／ALI PROJECT（[Code Geass
-    反叛的魯路修](../Page/Code_Geass_反叛的魯路修.md "wikilink")
+    反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")
     片尾曲）
 27. 　暗黒天国／ALI PROJECT（[花鈴的魔法戒](../Page/花鈴的魔法戒.md "wikilink") 片頭曲）
 28. 　跪いて足をお嘗め／ALI PROJECT（怪物王女 ED）
-29. 　魂のルフラン、残酷な天使のテーゼ／高橋洋子（[新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")）
+29. 　魂のルフラン、残酷な天使のテーゼ／高橋洋子（[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")）
 30. 　冒険でしょでしょ？／平野綾（[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink") 主題曲）
-31. 　Break Out／JAM Project（[超級機器人大戰OG](../Page/超級機器人大戰OG.md "wikilink")
+31. 　Break Out／JAM
+    Project（[超級機器人大戰OG](https://zh.wikipedia.org/wiki/超級機器人大戰OG "wikilink")
     主題曲）
 32. 　VICTORY／JAM Project（[超級機器人大戰MX](../Page/超級機器人大戰MX.md "wikilink")
     主題曲）
 33. 　SKILL／JAM
-    Project（[第二次超級機器人大戰alpha](../Page/第二次超級機器人大戰alpha.md "wikilink")
+    Project（[第二次超級機器人大戰alpha](https://zh.wikipedia.org/wiki/第二次超級機器人大戰alpha "wikilink")
     片頭曲）
 34. 　Justice to Believe／水樹奈奈（[狂野歷險 the Vth
     Vanguard](../Page/狂野歷險_the_Vth_Vanguard.md "wikilink") 主題曲）
 35. 　SECRET
-    AMBITION／水樹奈奈（[魔法少女奈葉StrikerS](../Page/魔法少女奈葉StrikerS.md "wikilink")
+    AMBITION／水樹奈奈（[魔法少女奈葉StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")
     片頭曲）
 36. 　Heart-shaped chant／水樹奈奈（[光明之風](../Page/光明之風.md "wikilink") OP）
 37. 　Generation-A／Ani Summer Friends（2007年主題曲）
@@ -371,7 +425,7 @@ Summer Live的精选影像。
   -
     Animelo Summer Live 2007 -Generation-A- 主題曲
     2007年6月20日發售／[DWANGO AG
-    Entertainment](../Page/DWANGO_AG_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/DWANGO_AG_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -389,7 +443,7 @@ Summer Live的精选影像。
 
   -
     2007
-    年4月19日，在奧井雅美主持的音樂節目『[@Tunes.](../Page/@Tunes..md "wikilink")』（[神奈川電視台](../Page/神奈川電視台.md "wikilink")）之中，每週約播放10分鐘左右的活動及之後的歌曲排
+    年4月19日，在奧井雅美主持的音樂節目『[@Tunes.](https://zh.wikipedia.org/wiki/@Tunes. "wikilink")』（[神奈川電視台](../Page/神奈川電視台.md "wikilink")）之中，每週約播放10分鐘左右的活動及之後的歌曲排
     行榜單元『Ani Summer STATION』。主持人同樣與2006年「Ani Summer STATION」為奧井雅美與栗林美奈實。
     另外在官方網站中也有播放網路串流的節目。
 
@@ -400,15 +454,15 @@ Summer Live的精选影像。
 #### 電視
 
   - 音樂節目「@Tunes.」（神奈川電視台、毎週四 25:15～）
-  - 電視動畫「[魔法少女奈葉StrikerS](../Page/魔法少女奈葉.md "wikilink")」（神奈川電視台及其他6電視台、毎週三
+  - 電視動畫「[魔法少女奈葉StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")」（神奈川電視台及其他6電視台、毎週三
     27:15～）
-  - 電視動畫「[英雄時代](../Page/英雄時代.md "wikilink")」（[東京電視台系其他](../Page/東京電視台.md "wikilink")5電視台、毎週日
+  - 電視動畫「[英雄時代](https://zh.wikipedia.org/wiki/英雄時代 "wikilink")」（[東京電視台系其他](../Page/東京電視台.md "wikilink")5電視台、毎週日
     25:30～）
 
 #### 廣播
 
-  - [文化放送各個](../Page/文化放送.md "wikilink")[A\&G
-    Zone節目中](../Page/A&G_Zone.md "wikilink")，有各個藝人的說明播放及告知
+  - [文化放送各個](https://zh.wikipedia.org/wiki/文化放送 "wikilink")[A\&G
+    Zone節目中](https://zh.wikipedia.org/wiki/A&G_Zone "wikilink")，有各個藝人的說明播放及告知
 
 ## 2008年
 
@@ -422,16 +476,18 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [AKINO from bless4](../Page/AKINO_from_bless4.md "wikilink")
+  - [AKINO from
+    bless4](https://zh.wikipedia.org/wiki/AKINO_from_bless4 "wikilink")
   - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
   - [石田燿子](../Page/石田燿子.md "wikilink")
-  - [奥井雅美](../Page/奥井雅美.md "wikilink")
-  - [可憐Girl's](../Page/可憐Girl's.md "wikilink")
+  - [奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
+  - [可憐Girl's](https://zh.wikipedia.org/wiki/可憐Girl's "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [CooRie](../Page/CooRie.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [Suara](../Page/Suara.md "wikilink")
-  - [savage genius](../Page/savage_genius.md "wikilink")
+  - [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
 
 </div>
 
@@ -439,10 +495,10 @@ Summer Live的精选影像。
 
   - [田村由香里](../Page/田村由香里.md "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
-  - [AAA](../Page/AAA.md "wikilink")
+  - [AAA](https://zh.wikipedia.org/wiki/AAA "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
-  - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
-  - [yozuca\*](../Page/yozuca*.md "wikilink")
+  - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+  - [yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
 
 </div>
 
@@ -450,14 +506,14 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ave;new](../Page/ave;new.md "wikilink")
+  - [ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")
     feat.[佐倉紗織](../Page/佐倉紗織.md "wikilink")
 
   - [石川智晶](../Page/石川智晶.md "wikilink")
 
-  - [ELISA](../Page/ELISA.md "wikilink")
+  - [ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink")
 
-  - [黑薔薇保存會](../Page/黑薔薇保存會.md "wikilink")
+  - [黑薔薇保存會](https://zh.wikipedia.org/wiki/黑薔薇保存會 "wikilink")
 
   - [PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
 
@@ -467,17 +523,18 @@ Summer Live的精选影像。
 
   -
   - [中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[高橋智秋](../Page/高橋智秋.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")
-    from [THE IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
+    from [THE
+    IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")
 
-  - [平野綾](../Page/平野綾.md "wikilink")
+  - [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [福山芳樹](../Page/福山芳樹.md "wikilink")
-  - [miko](../Page/miko.md "wikilink")
-  - [美郷あき](../Page/美郷あき.md "wikilink")
+  - [miko](https://zh.wikipedia.org/wiki/miko "wikilink")
+  - [美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [桃井晴子](../Page/桃井晴子.md "wikilink")
   - [MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")
@@ -501,27 +558,31 @@ Summer Live的精选影像。
 #### 8月30日
 
 1.  「恋せよ女の子」～「アノネ～まみむめ☆もがちょ」／水樹奈奈＋田村由香里
-    （[極上生徒會](../Page/極上生徒會.md "wikilink") 片頭曲、
-    片頭曲）
+    （[極上生徒會](https://zh.wikipedia.org/wiki/極上生徒會 "wikilink")
+    片頭曲、 片頭曲）
 
 2.  [童話迷宮](../Page/童話迷宮.md "wikilink")／田村由香里
     （[童話槍手小紅帽](../Page/童話槍手小紅帽.md "wikilink")
     前期片頭曲）
 
-3.  [バンビーノ・バンビーナ](../Page/バンビーノ・バンビーナ.md "wikilink")／田村由香里
+3.  [バンビーノ・バンビーナ](https://zh.wikipedia.org/wiki/バンビーノ・バンビーナ "wikilink")／田村由香里
 
 4.  ／田村由香里
 
 5.  STRIKE WITCHES～わたしにできること～／石田燿子（[Strike
-    Witches](../Page/Strike_Witches.md "wikilink") 片頭曲）
+    Witches](https://zh.wikipedia.org/wiki/Strike_Witches "wikilink")
+    片頭曲）
 
-6.  永遠の花/石田燿子 （[青出於藍](../Page/青出於藍_\(動畫\).md "wikilink")（12話）片尾曲）
+6.  永遠の花/石田燿子
+    （[青出於藍](https://zh.wikipedia.org/wiki/青出於藍_\(動畫\) "wikilink")（12話）片尾曲）
 
 7.  サクラサクミライコイユメ／yozuca\* （[初音島](../Page/初音島.md "wikilink") 片頭曲）
 
 8.  Morning - sugar rays／yozuca\* （同名专辑）
 
-9.  センチメンタル／CooRie （[美鳥伴身邊](../Page/美鳥伴身邊.md "wikilink") 片頭曲）
+9.  センチメンタル／CooRie
+    （[美鳥伴身邊](https://zh.wikipedia.org/wiki/美鳥伴身邊 "wikilink")
+    片頭曲）
 
 10. 存在／CooRie （初音島 片尾曲）
 
@@ -529,9 +590,13 @@ Summer Live的精选影像。
 
 12. Gamble Rumble／m.o.v.e（[頭文字D](../Page/頭文字D.md "wikilink")）
 
-13. ZERØ／AAA （[毀滅世界的六人](../Page/毀滅世界的六人.md "wikilink") 片頭曲）
+13. ZERØ／AAA
+    （[毀滅世界的六人](https://zh.wikipedia.org/wiki/毀滅世界的六人 "wikilink")
+    片頭曲）
 
-14. Climax Jump／AAA（[假面騎士電王](../Page/假面騎士電王.md "wikilink") 片頭曲）
+14. Climax
+    Jump／AAA（[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")
+    片頭曲）
 
 15. Over The Future／可憐Gir'ls
     （[楚楚可憐超能少女組](../Page/楚楚可憐超能少女組.md "wikilink")
@@ -542,7 +607,8 @@ Summer Live的精选影像。
 
 17. JUST TUNE／savage genius （[夜櫻四重奏](../Page/夜櫻四重奏.md "wikilink") 片頭曲）
 
-18. 想いを奏でて／savage genius （[詩片](../Page/詩片.md "wikilink") 片頭曲）
+18. 想いを奏でて／savage genius
+    （[詩片](https://zh.wikipedia.org/wiki/詩片 "wikilink") 片頭曲）
 
 19. 創聖のアクエリオン／AKINO from
     bless4（[創聖的亞庫艾里翁](../Page/創聖的亞庫艾里翁.md "wikilink")
@@ -578,12 +644,13 @@ Summer Live的精选影像。
 33. INSANITY／奥井雅美（[Muv-Luv
     Alternative](../Page/Muv-Luv_Alternative.md "wikilink") 片頭曲）
 
-34. コトダマ／ALI PROJECT（[死後文](../Page/死後文.md "wikilink") OP）
+34. コトダマ／ALI PROJECT（[死後文](https://zh.wikipedia.org/wiki/死後文 "wikilink")
+    OP）
 
 35. 愛と誠／ALI PROJECT
 
 36. わが臈たし悪の華／ALI PROJECT（[Code Geass
-    反叛的魯路修R2](../Page/Code_Geass_反叛的魯路修.md "wikilink")
+    反叛的魯路修R2](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")
     片尾曲）
 
 37. 残光のガイア／水樹奈奈（セレクションX 片尾曲）
@@ -592,10 +659,11 @@ Summer Live的精选影像。
     moon／水樹奈奈（[十字架與吸血鬼](../Page/十字架與吸血鬼.md "wikilink")
     片尾曲）
 
-39. Pray／水樹奈奈（[魔法少女奈葉StrikerS](../Page/魔法少女奈葉StrikerS.md "wikilink") 插曲）
+39. Pray／水樹奈奈（[魔法少女奈葉StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")
+    插曲）
 
 40. ETERNAL
-    BLAZE／水樹奈奈＋寶野亞莉華（[魔法少女奈葉A's](../Page/魔法少女奈葉A's.md "wikilink")
+    BLAZE／水樹奈奈＋寶野亞莉華（[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")
     片頭曲）
 
 41. Yells ～It's a beautiful life～ （2008年主題曲）
@@ -615,7 +683,8 @@ Summer Live的精选影像。
 2.  BLOOD QUEEN／美郷あき （[怪物王女](../Page/怪物王女.md "wikilink") OP）
 3.  君が空だった／美郷あき （[舞-HiME](../Page/舞-HiME.md "wikilink") ED）
 4.  euphoric field／ELISA （[ef-a tale of
-    memories](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink") OP）
+    memories](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
+    OP）
 5.  HIKARI／ELISA （[隱王](../Page/隱王.md "wikilink") ED）
 6.  ハッピー☆マテリアル\[ドメラバstyle\]／ドメスティック、ラヴバンド
     （[魔法老師](../Page/魔法老師_\(動畫\).md "wikilink") OP）
@@ -625,7 +694,8 @@ Summer Live的精选影像。
 10. 聖戦のイベリアメドレー／Sound Horizon
 11. 「花火」～「満天プラネタリウム」（メドレー）／黑薔薇保存會
 12. ヒカリ（黒薔薇ver.）／黑薔薇保存會 （[犬神！](../Page/犬神！.md "wikilink") OP）
-13. Feel so Easy\!／桃井晴子 （[Mission-E](../Page/Mission-E.md "wikilink")
+13. Feel so Easy\!／桃井晴子
+    （[Mission-E](https://zh.wikipedia.org/wiki/Mission-E "wikilink")
     ED）
 14. LOVE.EXE／桃井晴子
 15. 天罰！エンジェルラビィ／UNDER17（桃井晴子+小池雅也）+MOSAIC.WAV
@@ -633,7 +703,7 @@ Summer Live的精选影像。
 17. ガチャガチャきゅ～と、ふぃぎゅ@メイト／MOSAIC.WAV
 18. 「true my heart」～「Iris」～「ラブリー☆えんじぇる！！」（メドレー）／ave;new feat.佐倉紗織
 19. 魔理沙は大変なものを盗んでいきました／miko（IOSYS）
-20. 鳥の詩／Lia （[AIR](../Page/AIR.md "wikilink") OP）
+20. 鳥の詩／Lia （[AIR](https://zh.wikipedia.org/wiki/AIR "wikilink") OP）
 21. IDOLM@STERメドレー／中村繪里子、今井麻美、高橋智秋、下田麻美 from THE IDOLM@STER
     1.  「GO MY WAY\!\!」
     2.  「キラメキラリ」
@@ -645,26 +715,33 @@ Summer Live的精选影像。
 22. THE IDOLM@STER／中村繪里子、今井麻美、高橋智秋、下田麻美 from THE IDOLM@STER
 23. 真赤な誓い／福山芳樹 （[武裝鍊金](../Page/武裝鍊金.md "wikilink") OP）
 24. ノーザンクロス／May'n （[超時空要塞
-    Frontier](../Page/超時空要塞_Frontier.md "wikilink") ED）
+    Frontier](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")
+    ED）
 25. 射手座☆午後九時Don't be late／May'n （超時空要塞 Frontier IN）
 26. Precious Time,Glory Days／サイキックラバー
-    （[遊戲王GX](../Page/遊戲王GX.md "wikilink") OP）
+    （[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink") OP）
 27. 鼓動～get closer～／サイキックラバー （[魔女之刃](../Page/魔女之刃_\(動畫\).md "wikilink")
     ED）
 28. LOVE★GUN／平野綾
 29. Unnamed world／平野綾 （[二十面相少女](../Page/二十面相少女.md "wikilink") OP）
 30. アンインストール／石川智晶 （[地球防衛少年](../Page/地球防衛少年.md "wikilink") OP）
-31. Prototype／石川智晶 （[機動戰士鋼彈 00 第二季](../Page/機動戰士鋼彈_00.md "wikilink") ED）
+31. Prototype／石川智晶 （[機動戰士鋼彈 00
+    第二季](https://zh.wikipedia.org/wiki/機動戰士鋼彈_00 "wikilink")
+    ED）
 32. 「あんなに一緒だったのに」～「嵐の中で輝いて」／米倉千尋＋石川智晶
-    （[機動戰士鋼彈SEED](../Page/機動戰士鋼彈SEED.md "wikilink")
+    （[機動戰士鋼彈SEED](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED "wikilink")
     ED ～ 機動戦士ガンダム第08小隊OP）
 33. 永遠の扉／米倉千尋（[機動戦士ガンダム第08MS小隊
-    ミラーズ・リポート](../Page/機動戦士ガンダム第08MS小隊.md "wikilink")
+    ミラーズ・リポート](https://zh.wikipedia.org/wiki/機動戦士ガンダム第08MS小隊 "wikilink")
     THEME）
-34. FRIENDS／米倉千尋 （[封神演義](../Page/封神演義_\(漫畫\).md "wikilink") ED）
+34. FRIENDS／米倉千尋
+    （[封神演義](https://zh.wikipedia.org/wiki/封神演義_\(漫畫\) "wikilink")
+    ED）
 35. No Border／JAM Project
 36. Rocks／JAM Project
-37. SKILL／JAM Project （[第二次超級機器人大戰α](../Page/超級機器人大戰.md "wikilink") OP）
+37. SKILL／JAM Project
+    （[第二次超級機器人大戰α](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")
+    OP）
 38. Yells ～It's a beautiful life～ （2008年主題曲）
       -
         **-安可曲-**
@@ -686,11 +763,11 @@ Summer Live的精选影像。
 
   - [彩音](../Page/彩音.md "wikilink")
   - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [石川智晶](../Page/石川智晶.md "wikilink")
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
   - [ELISA](../Page/ELISA_\(歌手\).md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [下田麻美](../Page/下田麻美.md "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
@@ -702,9 +779,9 @@ Summer Live的精选影像。
   - [茅原實里](../Page/茅原實里.md "wikilink")
   - [中川翔子](../Page/中川翔子.md "wikilink")（特別出演）
   - [初音未來](../Page/初音未來.md "wikilink")
-  - [ビートまりお(COOL\&CREATE)](../Page/COOL&CREATE.md "wikilink")
+  - [ビートまりお(COOL\&CREATE)](https://zh.wikipedia.org/wiki/COOL&CREATE "wikilink")
   - [堀江由衣](../Page/堀江由衣.md "wikilink")
-  - [manzo](../Page/manzo.md "wikilink")
+  - [manzo](https://zh.wikipedia.org/wiki/manzo "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [桃井晴子](../Page/桃井晴子.md "wikilink")
@@ -716,13 +793,14 @@ Summer Live的精选影像。
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [近江知永](../Page/近江知永.md "wikilink")
-  - [大槻ケンヂ與絕望少女們](../Page/大槻ケンヂ.md "wikilink")（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
+  - [大槻ケンヂ與絕望少女們](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
   - [奧井雅美](../Page/奧井雅美.md "wikilink")
-  - [GACKT](../Page/Gackt.md "wikilink")
+  - [GACKT](https://zh.wikipedia.org/wiki/Gackt "wikilink")
   - [影山浩宣](../Page/影山浩宣.md "wikilink")
   - [PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
   - [榊原由依](../Page/榊原由依.md "wikilink")
-  - [savage genius](../Page/savage_genius.md "wikilink")
+  - [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
   - [Suara](../Page/Suara.md "wikilink")
   - [田村由香里](../Page/田村由香里.md "wikilink")
 
@@ -732,11 +810,11 @@ Summer Live的精选影像。
 
   - [中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[仁後真耶子](../Page/仁後真耶子.md "wikilink")
     from THE IDOLM@STER
-  - [平野綾](../Page/平野綾.md "wikilink")
+  - [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
   - [FictionJunction](../Page/FictionJunction.md "wikilink")
-  - [飛蘭](../Page/飛蘭.md "wikilink")
+  - [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
-  - [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+  - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
   - [妖精帝國](../Page/妖精帝國.md "wikilink")
   - [米倉千尋](../Page/米倉千尋.md "wikilink")
 
@@ -745,7 +823,7 @@ Summer Live的精选影像。
 ### 主題曲
 
   - RE:BRIDGE〜Return to oneself〜
-    作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[栗林美奈實](../Page/栗林美奈實.md "wikilink")，編曲：
+    作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")，編曲：
 
 ### 演唱歌曲一覽
 
@@ -755,13 +833,15 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-1.  [残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink") /
-    [angela](../Page/angela.md "wikilink") +
+1.  [残酷な天使のテーゼ](https://zh.wikipedia.org/wiki/残酷な天使のテーゼ "wikilink") /
+    [angela](https://zh.wikipedia.org/wiki/angela "wikilink") +
     [石川智晶](../Page/石川智晶.md "wikilink")
-    （[新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink") 主題曲）
-2.  Spiral / [angela](../Page/angela.md "wikilink")
-    （[機巧魔神](../Page/機巧魔神.md "wikilink") 主題曲）
-3.  Shangri-La / [angela](../Page/angela.md "wikilink")
+    （[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")
+    主題曲）
+2.  Spiral / [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+    （[機巧魔神](https://zh.wikipedia.org/wiki/機巧魔神 "wikilink") 主題曲）
+3.  Shangri-La /
+    [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
     （[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink") 主題曲）
 4.  F.D.D. / [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
     （[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink") 主題曲）
@@ -772,28 +852,30 @@ Summer Live的精选影像。
     （[魔法護士小麥](../Page/魔法護士小麥.md "wikilink") 主題曲）
 7.  WONDER MOMO-i ～World tour version～ /
     [桃井晴子](../Page/桃井晴子.md "wikilink")
-    （[太鼓之達人系列](../Page/太鼓之達人.md "wikilink")）
+    （[太鼓之達人系列](https://zh.wikipedia.org/wiki/太鼓之達人 "wikilink")）
 8.  マイペース大王 / [桃井晴子](../Page/桃井晴子.md "wikilink") +
-    [manzo](../Page/manzo.md "wikilink")
-    （[現視研](../Page/現視研.md "wikilink") 主題曲）
-9.  溝ノ口太陽族 / [manzo](../Page/manzo.md "wikilink")
-    （[天體戰士](../Page/天體戰士.md "wikilink") 第一季主題曲）
-10. 続・溝ノ口太陽族 / [manzo](../Page/manzo.md "wikilink")
-    （[天體戰士](../Page/天體戰士.md "wikilink") 第二季主題曲）
+    [manzo](https://zh.wikipedia.org/wiki/manzo "wikilink")
+    （[現視研](https://zh.wikipedia.org/wiki/現視研 "wikilink") 主題曲）
+9.  溝ノ口太陽族 / [manzo](https://zh.wikipedia.org/wiki/manzo "wikilink")
+    （[天體戰士](https://zh.wikipedia.org/wiki/天體戰士 "wikilink") 第一季主題曲）
+10. 続・溝ノ口太陽族 / [manzo](https://zh.wikipedia.org/wiki/manzo "wikilink")
+    （[天體戰士](https://zh.wikipedia.org/wiki/天體戰士 "wikilink") 第二季主題曲）
 11. Endless Tears... / [彩音](../Page/彩音.md "wikilink")
-    （[11eyes](../Page/11eyes.md "wikilink") Xbox360版主題曲）
+    （[11eyes](https://zh.wikipedia.org/wiki/11eyes "wikilink")
+    Xbox360版主題曲）
 12. コンプレックス・イマージュ / [彩音](../Page/彩音.md "wikilink") （[暮蟬悲鳴時祭
     澪盡篇](../Page/暮蟬悲鳴時祭_澪盡篇.md "wikilink") 主題曲）
 13. Wonder Wind / [ELISA](../Page/ELISA_\(歌手\).md "wikilink")
     （[旋風管家](../Page/旋風管家.md "wikilink") 第二期 主題曲）
 14. ebullient future-アニサマVer- /
     [ELISA](../Page/ELISA_\(歌手\).md "wikilink") （[ef - a tale of
-    melodies](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink") 主題曲）
+    melodies](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
+    主題曲）
 15. ココロ / [下田麻美](../Page/下田麻美.md "wikilink")
 16. みくみくにしてあげる♪【してやんよ】 / [初音未來](../Page/初音未來.md "wikilink")
 17. ブラック★ロックシューター / [初音未來](../Page/初音未來.md "wikilink")
 18. Help me,ERINNNNNN\!\! /
-    [ビートまりお(COOL\&CREATE)](../Page/COOL&CREATE.md "wikilink")
+    [ビートまりお(COOL\&CREATE)](https://zh.wikipedia.org/wiki/COOL&CREATE "wikilink")
 19. tRANCE / [GRANRODEO](../Page/GRANRODEO.md "wikilink")
     （[黑神](../Page/黑神.md "wikilink") 主題曲）
 20. modern strange cowboy / [GRANRODEO](../Page/GRANRODEO.md "wikilink")
@@ -805,56 +887,68 @@ Summer Live的精选影像。
     （[加奈日記](../Page/加奈日記.md "wikilink") 片尾曲）
 23. ハッピー☆マテリアル / [堀江由衣](../Page/堀江由衣.md "wikilink") +
     [茅原實里](../Page/茅原實里.md "wikilink")
-    （[魔法老師](../Page/魔法老師.md "wikilink") 主題曲）
+    （[魔法老師](https://zh.wikipedia.org/wiki/魔法老師 "wikilink")
+    主題曲）
 24. First Pain / [石川智晶](../Page/石川智晶.md "wikilink")
-    （[元素猎人](../Page/元素猎人.md "wikilink") 主題曲）
+    （[元素猎人](https://zh.wikipedia.org/wiki/元素猎人 "wikilink")
+    主題曲）
 25. Prototype / [石川智晶](../Page/石川智晶.md "wikilink")
-    （[機動戰士鋼彈00](../Page/機動戰士鋼彈00.md "wikilink") 片尾曲）
+    （[機動戰士鋼彈00](https://zh.wikipedia.org/wiki/機動戰士鋼彈00 "wikilink")
+    片尾曲）
 26. J☆S / [宮野真守](../Page/宮野真守.md "wikilink")
 27. Discovery / [宮野真守](../Page/宮野真守.md "wikilink") （[夢幻遊戲
-    朱雀異聞](../Page/夢幻遊戲.md "wikilink") 主題曲）
+    朱雀異聞](https://zh.wikipedia.org/wiki/夢幻遊戲 "wikilink") 主題曲）
 28. キミシニタモウコトナカレ / [May'n](../Page/May'n.md "wikilink")
     （[香格里拉](../Page/香格里拉.md "wikilink") 主題曲）
 29. ダイヤモンドクレバス / [May'n](../Page/May'n.md "wikilink") （[超时空要塞
-    Frontier](../Page/超时空要塞_Frontier.md "wikilink") 片尾曲）
+    Frontier](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")
+    片尾曲）
 30. ミラクル・アッパーWL / [May'n](../Page/May'n.md "wikilink") +
-    [奥井雅美](../Page/奥井雅美.md "wikilink") （ONTAMA\! 主題曲）
+    [奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
+    （ONTAMA\! 主題曲）
 31. 空色デイズ / [中川翔子](../Page/中川翔子.md "wikilink")
-    （[天元突破紅蓮螺岩](../Page/天元突破.md "wikilink")
+    （[天元突破紅蓮螺岩](https://zh.wikipedia.org/wiki/天元突破 "wikilink")
     主題曲）
 32. 涙の種、笑顔の花 / [中川翔子](../Page/中川翔子.md "wikilink") （劇場版
-    [天元突破紅蓮螺岩](../Page/天元突破.md "wikilink") 紅蓮篇 主題曲）
-33. What's Up Guys? / [栗林美奈實](../Page/栗林美奈實.md "wikilink") +
-    [谷山紀章](../Page/谷山紀章.md "wikilink") （爆走獵人 主題曲）
+    [天元突破紅蓮螺岩](https://zh.wikipedia.org/wiki/天元突破 "wikilink")
+    紅蓮篇 主題曲）
+33. What's Up Guys? /
+    [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
+    + [谷山紀章](../Page/谷山紀章.md "wikilink") （爆走獵人 主題曲）
 34. 鬼帝の剣 / [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
     （[武裝機甲](../Page/武裝機甲.md "wikilink") 主題曲）
 35. 戦慄の子供たち / [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink") （[Phantom
     ～Requiem for the
-    Phantom～](../Page/Phantom_～Requiem_for_the_Phantom～.md "wikilink")
+    Phantom～](https://zh.wikipedia.org/wiki/Phantom_～Requiem_for_the_Phantom～ "wikilink")
     主題曲）
 36. 地獄の門 / [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink") （[Phantom
     ～Requiem for the
-    Phantom～](../Page/Phantom_～Requiem_for_the_Phantom～.md "wikilink")
+    Phantom～](https://zh.wikipedia.org/wiki/Phantom_～Requiem_for_the_Phantom～ "wikilink")
     片尾曲）
 37. Voyager train / [茅原實里](../Page/茅原實里.md "wikilink")
 38. Tomorrow's chance / [茅原實里](../Page/茅原實里.md "wikilink")
 39. Paradise Lost/ [茅原實里](../Page/茅原實里.md "wikilink")
     （[食靈](../Page/食靈.md "wikilink") 主題曲）
-40. Precious Memories / [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+40. Precious Memories /
+    [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
     （[你所期望的永遠](../Page/你所期望的永遠.md "wikilink") 主題曲）
-41. 涙の理由 / [栗林美奈實](../Page/栗林美奈實.md "wikilink") （[School
-    Days](../Page/School_Days.md "wikilink") 主題曲）
-42. sympathizer / [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+41. 涙の理由 / [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
+    （[School Days](../Page/School_Days.md "wikilink") 主題曲）
+42. sympathizer /
+    [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
     （[黑神](../Page/黑神.md "wikilink") 主題曲）
 43. Crest of "Z's" / [JAM Project](../Page/JAM_Project.md "wikilink")
     （[超級機器人大戰Z](../Page/超級機器人大戰Z.md "wikilink") 主題曲）
 44. 守護神-The guardian / [JAM Project](../Page/JAM_Project.md "wikilink")
-    （[真無敵鐵金剛 衝擊！Z篇](../Page/真無敵鐵金剛_衝擊！Z篇.md "wikilink") TV 主題曲）
+    （[真無敵鐵金剛
+    衝擊！Z篇](https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇 "wikilink")
+    TV 主題曲）
 45. レスキューファイアー / [JAM Project](../Page/JAM_Project.md "wikilink")
     （[Tomica Hero: Rescue
-    Fire](../Page/Tomica_Hero:_Rescue_Fire.md "wikilink") 主題曲）
+    Fire](https://zh.wikipedia.org/wiki/Tomica_Hero:_Rescue_Fire "wikilink")
+    主題曲）
 46. SKILL / [JAM Project](../Page/JAM_Project.md "wikilink")
-    （[第二次超級機器人大戰α](../Page/超級機器人大戰.md "wikilink")
+    （[第二次超級機器人大戰α](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")
     主題曲）
 47. RE:BRIDGE～Return to oneself～ （2009年主題曲）
       -
@@ -870,15 +964,18 @@ Summer Live的精选影像。
 <!-- end list -->
 
 1.  メドレー /
-    [水樹奈奈](../Page/水樹奈奈.md "wikilink")+[平野綾](../Page/平野綾.md "wikilink")
-    1.  DISCOTHEQUE （[十字架与吸血鬼 CAPU2](../Page/十字架与吸血鬼.md "wikilink") 片头曲）
+    [水樹奈奈](../Page/水樹奈奈.md "wikilink")+[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
+    1.  DISCOTHEQUE （[十字架与吸血鬼
+        CAPU2](https://zh.wikipedia.org/wiki/十字架与吸血鬼 "wikilink")
+        片头曲）
     2.  MonStAR
-2.  Super Driver / [平野綾](../Page/平野綾.md "wikilink")
-    （[凉宫春日的忧郁](../Page/凉宫春日的忧郁.md "wikilink")09年版
+2.  Super Driver / [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
+    （[凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")09年版
     片头曲）
-3.  Set me free / [平野綾](../Page/平野綾.md "wikilink")
+3.  Set me free / [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")
 4.  約束の場所へ / [米倉千尋](../Page/米倉千尋.md "wikilink")
-    （[百變之星](../Page/百變之星.md "wikilink") 主題曲）
+    （[百變之星](https://zh.wikipedia.org/wiki/百變之星 "wikilink")
+    主題曲）
 5.  10 YEARS AFTER / [米倉千尋](../Page/米倉千尋.md "wikilink")
     （[機動戰士GUNDAM第08MS小隊](../Page/機動戰士GUNDAM第08MS小隊.md "wikilink")
     片尾曲）
@@ -888,22 +985,23 @@ Summer Live的精选影像。
     （[我的狐仙女友](../Page/我的狐仙女友.md "wikilink")
     片尾曲）
 8.  霊喰い / [妖精帝國](../Page/妖精帝國.md "wikilink")
-    （[喰霊-零-](../Page/喰霊.md "wikilink") 印象曲）
+    （[喰霊-零-](https://zh.wikipedia.org/wiki/喰霊 "wikilink") 印象曲）
 9.  last Moment / [妖精帝國](../Page/妖精帝國.md "wikilink") （[舞-HiME
     運命の系統樹](../Page/舞-HiME.md "wikilink") 插入曲）
 10. 人として軸がぶれている /
-    [大槻ケンヂ](../Page/大槻ケンヂ.md "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
+    [大槻ケンヂ](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
     （[絕望先生](../Page/絕望先生.md "wikilink") 片头曲）
 11. 空想ルンバ /
-    [大槻ケンヂ](../Page/大槻ケンヂ.md "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
+    [大槻ケンヂ](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
     （[俗·绝望先生](../Page/絕望先生.md "wikilink") 片头曲）
 12. 林檎もぎれビーム\! /
-    [大槻ケンヂ](../Page/大槻ケンヂ.md "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
+    [大槻ケンヂ](https://zh.wikipedia.org/wiki/大槻ケンヂ "wikilink")+絶望少女達（[野中藍](../Page/野中藍.md "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")、[小林優](../Page/小林優.md "wikilink")、[澤城美雪](../Page/澤城美雪.md "wikilink")）
     （[忏·绝望先生](../Page/絕望先生.md "wikilink") 片头曲）
 13. CHA-LA HEAD-CHA-LA / [影山浩宣](../Page/影山浩宣.md "wikilink")
-    （[龍珠Z](../Page/龍珠Z.md "wikilink") 片头曲）
+    （[龍珠Z](https://zh.wikipedia.org/wiki/龍珠Z "wikilink") 片头曲）
 14. 聖闘士神話-SOLDIER DREAM- / [影山浩宣](../Page/影山浩宣.md "wikilink")
-    （[聖鬥士星矢](../Page/聖鬥士星矢.md "wikilink") 片头曲）
+    （[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")
+    片头曲）
 15. Parallel Hearts /
     [FictionJunction](../Page/FictionJunction.md "wikilink")
     （[潘朵拉之心](../Page/潘朵拉之心.md "wikilink") 片头曲）
@@ -911,30 +1009,39 @@ Summer Live的精选影像。
     （[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
     插入曲）
 17. nowhere / [FictionJunction](../Page/FictionJunction.md "wikilink")
-    （[MADLAX](../Page/MADLAX.md "wikilink") 插入曲）
+    （[MADLAX](https://zh.wikipedia.org/wiki/MADLAX "wikilink") 插入曲）
 18. Return to Love / [近江知永](../Page/近江知永.md "wikilink")
-    （[SoltyRei](../Page/SoltyRei.md "wikilink") 片尾曲）
-19. Maze / [savage genius](../Page/savage_genius.md "wikilink")
+    （[SoltyRei](https://zh.wikipedia.org/wiki/SoltyRei "wikilink")
+    片尾曲）
+19. Maze / [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
     feat.[近江知永](../Page/近江知永.md "wikilink")
     （[潘朵拉之心](../Page/潘朵拉之心.md "wikilink") 片尾曲）
-20. 私をみつけて。 / [savage genius](../Page/savage_genius.md "wikilink")
+20. 私をみつけて。 / [savage
+    genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")
     （[潘朵拉之心](../Page/潘朵拉之心.md "wikilink") 片尾曲）
-21. Dark Side of the Light / [飛蘭](../Page/飛蘭.md "wikilink")
-    （[喰霊-零-](../Page/喰霊.md "wikilink") 插入曲）
-22. mind as Judgment / [飛蘭](../Page/飛蘭.md "wikilink")
+21. Dark Side of the Light /
+    [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
+    （[喰霊-零-](https://zh.wikipedia.org/wiki/喰霊 "wikilink") 插入曲）
+22. mind as Judgment / [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
     （[CANAAN](../Page/CANAAN.md "wikilink") 片头曲）
 23. 魂のルフラン /
-    [飛蘭](../Page/飛蘭.md "wikilink")+[奥井雅美](../Page/奥井雅美.md "wikilink")
-    （[新世紀福音戰士劇場版：死與新生](../Page/新世紀福音戰士劇場版：死與新生.md "wikilink") 主题曲）
-24. LOVE SHIELD / [奥井雅美](../Page/奥井雅美.md "wikilink") （[戀愛少女與守護之盾〜The
-    shield of AIGIS〜(PS2)](../Page/戀愛少女與守護之盾.md "wikilink") 主题曲）
+    [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")+[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
+    （[新世紀福音戰士劇場版：死與新生](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：死與新生 "wikilink")
+    主题曲）
+24. LOVE SHIELD / [奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
+    （[戀愛少女與守護之盾〜The shield of
+    AIGIS〜(PS2)](../Page/戀愛少女與守護之盾.md "wikilink")
+    主题曲）
 25. 舞い落ちる雪のように / [Suara](../Page/Suara.md "wikilink") （[WHITE
-    ALBUM](../Page/WHITE_ALBUM.md "wikilink") 片尾曲）
+    ALBUM](https://zh.wikipedia.org/wiki/WHITE_ALBUM "wikilink") 片尾曲）
 26. Free and Dream / [Suara](../Page/Suara.md "wikilink")
     （[花冠之淚](../Page/花冠之淚.md "wikilink") 片头曲）
 27. DANZEN\!ふたりはプリキュア （ver.Max Heart） /
     [田村由香里](../Page/田村由香里.md "wikilink")+[新谷良子](../Page/新谷良子.md "wikilink")
-    （[光之美少女 Max Heart](../Page/光之美少女_Max_Heart.md "wikilink") 片头曲）
+    （[光之美少女 Max
+    Heart](https://zh.wikipedia.org/wiki/光之美少女_Max_Heart "wikilink")
+    片头曲）
 28. LOST IN SPACE / [PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
     （[泰坦尼亞](../Page/泰坦尼亞.md "wikilink") 片尾曲）
 29. THE IDOLM@STER /
@@ -946,28 +1053,32 @@ Summer Live的精选影像。
 31. my song /
     [中村繪里子](../Page/中村繪里子.md "wikilink")・[今井麻美](../Page/今井麻美.md "wikilink")・[仁後真耶子](../Page/仁後真耶子.md "wikilink")
     from THE IDOLM@STER
-32. メドレー / [m.o.v.e](../Page/m.o.v.e.md "wikilink")
+32. メドレー / [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
     1.  DOGFIGHT（[頭文字D](../Page/頭文字D.md "wikilink") Fourth Stage OP）
     2.  Blazin' Beat（[頭文字D](../Page/頭文字D.md "wikilink") Second Stage OP）
-33. Gravity / [m.o.v.e](../Page/m.o.v.e.md "wikilink")
-    （[幸運☆星](../Page/幸運☆星.md "wikilink") 插入曲）
+33. Gravity /
+    [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+    （[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")
+    插入曲）
 34. チェルシーガール / [田村由香里](../Page/田村由香里.md "wikilink")
 35. Tomorrow / [田村由香里](../Page/田村由香里.md "wikilink")
 36. Little Wish ～first step～ / [田村由香里](../Page/田村由香里.md "wikilink")
-    （[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink") 片尾曲）
+    （[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")
+    片尾曲）
 37. 哀 戦士 / [GACKT](../Page/GACKT.md "wikilink") （机动战士高达 高达VS.高达NEXT 主题曲）
 38. The Next Decade / [GACKT](../Page/GACKT.md "wikilink") （[劇場版
     假面騎士Decade 全騎士 VS
     大修卡](../Page/劇場版_假面騎士Decade_全騎士_VS_大修卡.md "wikilink")
     主题曲）
 39. REDEMPTION / [GACKT](../Page/GACKT.md "wikilink")
-    （[地狱犬的挽歌：最终幻想VII](../Page/地狱犬的挽歌：最终幻想VII.md "wikilink")
+    （[地狱犬的挽歌：最终幻想VII](https://zh.wikipedia.org/wiki/地狱犬的挽歌：最终幻想VII "wikilink")
     主题曲）
 40. Gimmick Game /
-    [水樹奈奈](../Page/水樹奈奈.md "wikilink")+motsu（[m.o.v.e](../Page/m.o.v.e.md "wikilink")）
+    [水樹奈奈](../Page/水樹奈奈.md "wikilink")+motsu（[m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")）
 41. 深愛 /
     [水樹奈奈](../Page/水樹奈奈.md "wikilink")+[Suara](../Page/Suara.md "wikilink")
-    （[WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink") 片头曲）
+    （[WHITE ALBUM](https://zh.wikipedia.org/wiki/WHITE_ALBUM "wikilink")
+    片头曲）
 42. 悦楽カメリア / [水樹奈奈](../Page/水樹奈奈.md "wikilink")
 43. Orchestral Fantasia / [水樹奈奈](../Page/水樹奈奈.md "wikilink")
 44. RE:BRIDGE～Return to oneself～（2009年主題曲）
@@ -989,17 +1100,17 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [石川智晶](../Page/石川智晶.md "wikilink")
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
-  - [ELISA](../Page/ELISA.md "wikilink")
+  - [ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink")
   - [Girls Dead
-    Monster](../Page/Angel_Beats!角色列表#Girls_Dead_Monster.md "wikilink")（[LiSA](../Page/LiSA.md "wikilink")、[marina](../Page/marina.md "wikilink")）
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+    Monster](https://zh.wikipedia.org/wiki/Angel_Beats!角色列表#Girls_Dead_Monster "wikilink")（[LiSA](../Page/LiSA.md "wikilink")、[marina](https://zh.wikipedia.org/wiki/marina "wikilink")）
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
-  - [THE GOMBAND](../Page/THE_GOMBAND.md "wikilink")
+  - [THE GOMBAND](https://zh.wikipedia.org/wiki/THE_GOMBAND "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
-  - [sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
 
 </div>
 
@@ -1007,8 +1118,8 @@ Summer Live的精选影像。
 
   - [高橋直純](../Page/高橋直純.md "wikilink")
   - [南里侑香](../Page/南里侑香.md "wikilink")
-  - [nomico](../Page/nomico.md "wikilink") +
-  - [fripSide](../Page/fripSide.md "wikilink")
+  - [nomico](https://zh.wikipedia.org/wiki/nomico "wikilink") +
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
   - [米倉千尋](../Page/米倉千尋.md "wikilink")
   - [Lia](../Page/Lia.md "wikilink")
 
@@ -1035,14 +1146,14 @@ Summer Live的精选影像。
 
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
 
-  - [飛蘭](../Page/飛蘭.md "wikilink")
+  - [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
-  - [milktub](../Page/milktub.md "wikilink")
+  - [Milky Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
+  - [milktub](https://zh.wikipedia.org/wiki/milktub "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [桃井晴子](../Page/桃井晴子.md "wikilink")
 
@@ -1051,7 +1162,7 @@ Summer Live的精选影像。
 ### 主題曲
 
   - 「evolution ～for beloved one～」
-    作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[栗林美奈實](../Page/栗林美奈實.md "wikilink")，編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
+    作詞：[奧井雅美](../Page/奧井雅美.md "wikilink")，作曲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")，編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
 
 ### 演唱歌曲一覽
 
@@ -1062,36 +1173,37 @@ Summer Live的精选影像。
 <!-- end list -->
 
 1.  『レスキューファイアー』/[JAM
-    Project](../Page/JAM_Project.md "wikilink")×[栗林美奈实](../Page/栗林美奈实.md "wikilink")
+    Project](../Page/JAM_Project.md "wikilink")×[栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")
 2.  『only my
-    railgun』/[fripSide](../Page/fripSide.md "wikilink")（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）主題曲
+    railgun』/[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）主題曲
 3.  『LEVEL5-judgelight-』/fripSide（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）主題曲2
-4.  『オルタナティヴ』/angela（[魔神相剋者主題曲](../Page/魔神相剋者.md "wikilink")）
-5.  『Separation』/[angela](../Page/angela.md "wikilink")（[蒼穹之戰神片尾曲](../Page/蒼穹之戰神.md "wikilink")）
+4.  『オルタナティヴ』/angela（[魔神相剋者主題曲](https://zh.wikipedia.org/wiki/魔神相剋者 "wikilink")）
+5.  『Separation』/[angela](https://zh.wikipedia.org/wiki/angela "wikilink")（[蒼穹之戰神片尾曲](../Page/蒼穹之戰神.md "wikilink")）
 6.  『蒼い春』/angela（[妄想學生會片尾曲](../Page/妄想學生會.md "wikilink")）
 7.  『遠くまで～infinity～』/[高橋直純](../Page/高橋直純.md "wikilink")
 8.  『クローバー』/高橋直純
 9.  『月導-Tsukishirube-』/[南里侑香](../Page/南里侑香.md "wikilink")（[神隱之狼片尾曲](../Page/神隱之狼.md "wikilink")）
-10. 『雫』/南里侑香（[.hack//Quantum主題曲](../Page/.hack/Quantum.md "wikilink")）
+10. 『雫』/南里侑香（[.hack//Quantum主題曲](https://zh.wikipedia.org/wiki/.hack/Quantum "wikilink")）
 11. 『Dear My
-    Friend-まだ見ぬ未来へ-』/[ELISA](../Page/ELISA.md "wikilink")（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）片尾曲
+    Friend-まだ見ぬ未来へ-』/[ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink")（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）片尾曲
 12. 『Real Force』/ELISA（[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")）片尾曲2
-13. 『逆光』/[石川智晶](../Page/石川智晶.md "wikilink")（[戰國BASARA3片尾曲](../Page/戰國BASARA3.md "wikilink")）
-14. 『涙腺』/石川智晶（[戰國BASARA貳插入曲](../Page/戰國BASARA.md "wikilink")）
+13. 『逆光』/[石川智晶](../Page/石川智晶.md "wikilink")（[戰國BASARA3片尾曲](https://zh.wikipedia.org/wiki/戰國BASARA3 "wikilink")）
+14. 『涙腺』/石川智晶（[戰國BASARA貳插入曲](https://zh.wikipedia.org/wiki/戰國BASARA "wikilink")）
 15. 『Find the
     blue』/[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")＋志倉千代丸（[CHAOS;HEAD主題曲](../Page/CHAOS;HEAD.md "wikilink")）
-16. 『スカイクラッドの観測者』/伊藤香奈子＋志倉千代丸（[Steins;Gate主題曲](../Page/Steins;Gate.md "wikilink")）
-17. 『Bad Apple\!\!』/[nomico](../Page/nomico.md "wikilink")+
+16. 『スカイクラッドの観測者』/伊藤香奈子＋志倉千代丸（[Steins;Gate主題曲](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")）
+17. 『Bad
+    Apple\!\!』/[nomico](https://zh.wikipedia.org/wiki/nomico "wikilink")+
 18. 『Braveheart』/[THE
-    GOMBAND](../Page/THE_GOMBAND.md "wikilink")（[BLACK★ROCK
+    GOMBAND](https://zh.wikipedia.org/wiki/THE_GOMBAND "wikilink")（[BLACK★ROCK
     SHOOTER片尾曲](../Page/BLACK★ROCK_SHOOTER.md "wikilink")）
 19. 『ブラック★ロックシューター』/THE GOMBAND（[BLACK★ROCK
     SHOOTER插入曲](../Page/BLACK★ROCK_SHOOTER.md "wikilink")）
-20. 『[鸟之诗](../Page/鸟之诗.md "wikilink")』/[Lia](../Page/Lia.md "wikilink")（[AIR主題曲](../Page/AIR.md "wikilink")）
+20. 『[鸟之诗](https://zh.wikipedia.org/wiki/鸟之诗 "wikilink")』/[Lia](../Page/Lia.md "wikilink")（[AIR主題曲](https://zh.wikipedia.org/wiki/AIR "wikilink")）
 21. 『My Soul,Your Beats\!』/Lia（[Angel
     Beats\!主題曲](../Page/Angel_Beats!.md "wikilink")）
 22. 『Alchemy【marina】』/[Girls Dead
-    Monster](../Page/Girls_Dead_Monster.md "wikilink")([LiSA](../Page/LiSA.md "wikilink"),[marina](../Page/marina.md "wikilink"))（[Angel
+    Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink")([LiSA](../Page/LiSA.md "wikilink"),[marina](https://zh.wikipedia.org/wiki/marina "wikilink"))（[Angel
     Beats\!插入曲](../Page/Angel_Beats!.md "wikilink")）
 23. 『Crow Song【Lisa】』/Girls Dead Monster(LiSA,marina)（[Angel
     Beats\!插入曲](../Page/Angel_Beats!.md "wikilink")）
@@ -1099,18 +1211,18 @@ Summer Live的精选影像。
     Beats\!片尾曲](../Page/Angel_Beats!.md "wikilink")）
 25. 『Butterfly
     Kiss』/[米倉千尋](../Page/米倉千尋.md "wikilink")（[聖石小子主題曲](../Page/聖石小子.md "wikilink")）
-26. 『WILL』/米倉千尋（[封神演義主題曲](../Page/封神演義.md "wikilink")）
-27. 『ゆずれない願い』/米倉千尋×[田村直美](../Page/田村直美.md "wikilink")（[魔法騎士主題曲](../Page/魔法騎士.md "wikilink")）
+26. 『WILL』/米倉千尋（[封神演義主題曲](https://zh.wikipedia.org/wiki/封神演義 "wikilink")）
+27. 『ゆずれない願い』/米倉千尋×[田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink")（[魔法騎士主題曲](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")）
 28. 『Crystal Energy』/栗林美奈实（[舞-乙HiME主題曲](../Page/舞-乙HiME.md "wikilink")2）
-29. 『冥夜花伝廊』/栗林美奈实（[刀語片頭曲](../Page/刀語.md "wikilink")）
+29. 『冥夜花伝廊』/栗林美奈实（[刀語片頭曲](https://zh.wikipedia.org/wiki/刀語 "wikilink")）
 30. 『あんりある♥パラダイス』/栗林美奈实（[肯普法主題曲](../Page/肯普法.md "wikilink")）
 31. 『Now
-    loading...SKY\!\!』/[Sphere](../Page/Sphere.md "wikilink")-スフィア-（[玩伴貓耳娘主題曲](../Page/玩伴貓耳娘.md "wikilink")）
+    loading...SKY\!\!』/[Sphere](https://zh.wikipedia.org/wiki/Sphere "wikilink")-スフィア-（[玩伴貓耳娘主題曲](../Page/玩伴貓耳娘.md "wikilink")）
 32. 『Super Noisy
-    Nova』/Sphere-スフィア-（[星空情緣主題曲](../Page/星空情緣.md "wikilink")）
+    Nova』/Sphere-スフィア-（[星空情緣主題曲](https://zh.wikipedia.org/wiki/星空情緣 "wikilink")）
 33. 『Future
-    Stream』/Sphere-スフィア-（[初戀限定。主題曲](../Page/初戀限定。.md "wikilink")）
-34. 『欲望∞』/[GRANRODEO](../Page/GRANRODEO.md "wikilink")（[大和彼氏主題曲](../Page/大和彼氏.md "wikilink")）
+    Stream』/Sphere-スフィア-（[初戀限定。主題曲](https://zh.wikipedia.org/wiki/初戀限定。 "wikilink")）
+34. 『欲望∞』/[GRANRODEO](../Page/GRANRODEO.md "wikilink")（[大和彼氏主題曲](https://zh.wikipedia.org/wiki/大和彼氏 "wikilink")）
 35. 『ROSEHIP‐BULLET』/GRANRODEO（[咎狗之血主題曲](../Page/咎狗之血.md "wikilink")）
 36. 『Once＆Foever』/GRANRODEO（[Muv-Luv
     Alternative主題曲](../Page/Muv-Luv_Alternative.md "wikilink")）
@@ -1130,27 +1242,29 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-1.  『創聖のアクエリオン』/[茅原实里](../Page/茅原实里.md "wikilink")×[May'n](../Page/May'n.md "wikilink")
+1.  『創聖のアクエリオン』/[茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")×[May'n](../Page/May'n.md "wikilink")
 2.  『Paradise Lost』/茅原实里（[食靈主題曲](../Page/食靈.md "wikilink")）
 3.  『優しい忘却』/茅原实里（[涼宮春日的消失主題曲](../Page/涼宮春日的消失.md "wikilink")）
 4.  『Freedom Dreamer』/茅原实里
-5.  『バカ・ゴー・ホーム』/[milktub](../Page/milktub.md "wikilink")（[笨蛋，測驗，召喚獸片尾曲](../Page/笨蛋，測驗，召喚獸.md "wikilink")）
+5.  『バカ・ゴー・ホーム』/[milktub](https://zh.wikipedia.org/wiki/milktub "wikilink")（[笨蛋，測驗，召喚獸片尾曲](../Page/笨蛋，測驗，召喚獸.md "wikilink")）
 6.  『Happy Go\!\!』/milktub
 7.  『Get Wild』/[PSYCHIC
-    LOVER](../Page/PSYCHIC_LOVER.md "wikilink")×milktub（[城市獵人主題曲](../Page/城市獵人.md "wikilink")）
+    LOVER](../Page/PSYCHIC_LOVER.md "wikilink")×milktub（[城市獵人主題曲](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")）
 8.  『超\!最強\!ウォーリアーズ』/PSYCHIC LOVER（[爆丸主題曲](../Page/爆丸.md "wikilink")）
 9.  『侍戦隊シンケンジャー』/PSYCHIC
     LOVER（[侍戰隊真劍者主題曲](../Page/侍戰隊真劍者.md "wikilink")）
 10. 『Astro Rider』/
 11. 『Communication Breakdown』/Crush
     Tears（[爆丸片尾曲](../Page/爆丸.md "wikilink")）
-12. 『SERIOUS-AGE』/[飛蘭](../Page/飛蘭.md "wikilink")（劇場版[破刃之劍片尾曲](../Page/破刃之劍.md "wikilink")）
+12. 『SERIOUS-AGE』/[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（劇場版[破刃之劍片尾曲](../Page/破刃之劍.md "wikilink")）
 13. 『戦場に咲いた一輪の花』/飛蘭（PS3遊戲[白騎士物語
-    光與闇的覺醒主題曲](../Page/白騎士物語_光與闇的覺醒.md "wikilink")）
+    光與闇的覺醒主題曲](https://zh.wikipedia.org/wiki/白騎士物語_光與闇的覺醒 "wikilink")）
 14. 『Errand』/飛蘭（[聖痕鍊金士片頭曲](../Page/聖痕鍊金士.md "wikilink")）
-15. 『雨上がりのミライ』/[Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink") ([偵探歌劇
-    少女福爾摩斯PSP片頭曲](../Page/偵探歌劇_少女福爾摩斯.md "wikilink"))
-16. 『恋華大乱』/[奥井雅美](../Page/奥井雅美.md "wikilink")（[戀姬†無雙第三季](../Page/戀姬†無雙.md "wikilink")[真・戀姬†無雙〜少女大亂〜片頭曲](../Page/真・戀姬†無雙〜少女大亂〜.md "wikilink")）
+15. 『雨上がりのミライ』/[Milky
+    Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
+    ([偵探歌劇
+    少女福爾摩斯PSP片頭曲](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink"))
+16. 『恋華大乱』/[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")（[戀姬†無雙第三季](../Page/戀姬†無雙.md "wikilink")[真・戀姬†無雙〜少女大亂〜片頭曲](https://zh.wikipedia.org/wiki/真・戀姬†無雙〜少女大亂〜 "wikilink")）
 17. 『Flower』/奥井雅美
 18. 『Arrival of Tears』/[彩音](../Page/彩音.md "wikilink")（[11eyes
     -罪與罰與贖的少女-主題曲](../Page/11eyes_-罪與罰與贖的少女-.md "wikilink")）
@@ -1164,18 +1278,20 @@ Summer Live的精选影像。
 26. 『薔薇獄乙女』/[ALI
     PROJECT](../Page/ALI_PROJECT.md "wikilink")（[薔薇少女](../Page/薔薇少女.md "wikilink")
     ～序曲～片頭曲）
-27. 『刀と鞘』/ALI PROJECT（[刀語片頭曲](../Page/刀語.md "wikilink")2）
+27. 『刀と鞘』/ALI
+    PROJECT（[刀語片頭曲](https://zh.wikipedia.org/wiki/刀語 "wikilink")2）
 28. 『亂世エロイカ』/ALI PROJECT
 29. 『ユニバーサル・バニー』/May'n（劇中曲）
 30. 『愛は降る星のごとく』/May'n（[最强武将传・三国演義片尾曲](../Page/三国演义_\(动画\).md "wikilink")）
-31. 『Ready Go\!』/May'n（[大神與七位夥伴片頭曲](../Page/大神與七位夥伴.md "wikilink")）
+31. 『Ready
+    Go\!』/May'n（[大神與七位夥伴片頭曲](https://zh.wikipedia.org/wiki/大神與七位夥伴 "wikilink")）
 32. 『教えてA to
     Z』/[田村由香里](../Page/田村由香里.md "wikilink")（[B型H系片頭曲](../Page/B型H系.md "wikilink")）
 33. 『Tiny Rainbow』/田村由香里〈魔法少女奈葉A'S PORTABLE -THE BATTLE OF ACES- ED〉
 34. 『fancy baby doll』/田村由香里
 35. 『You ＆ Me feat.motsu』/田村由香里 feat. motsu
 36. 『Shooting
-    Star』/[KOTOKO](../Page/KOTOKO.md "wikilink")（[拜托了老师片头曲](../Page/拜托了老师.md "wikilink")）
+    Star』/[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")（[拜托了老师片头曲](https://zh.wikipedia.org/wiki/拜托了老师 "wikilink")）
 37. 『Loop-the-Loop』/KOTOKO（[出包王女 第二季片头曲](../Page/出包王女.md "wikilink")）
 38. 『Re-sublimity』/KOTOKO（[神无月的巫女片头曲](../Page/神无月的巫女.md "wikilink")）
 39. 『Don't be long.』/[水樹奈奈](../Page/水樹奈奈.md "wikilink")（[魔法少女奈葉 The
@@ -1195,7 +1311,7 @@ Summer Live的精选影像。
 ### Anisama in Shanghai -Only One-
 
   - 舉辦日：2011年2月19日
-  - 會場：[上海大舞台](../Page/上海大舞台.md "wikilink")
+  - 會場：[上海大舞台](https://zh.wikipedia.org/wiki/上海大舞台 "wikilink")
 
 #### 演出者
 
@@ -1203,7 +1319,7 @@ Summer Live的精选影像。
 
   - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
 
-  - [石田耀子](../Page/石田耀子.md "wikilink")
+  - [石田耀子](https://zh.wikipedia.org/wiki/石田耀子 "wikilink")
 
   - [遠藤正明](../Page/遠藤正明.md "wikilink")
 
@@ -1214,17 +1330,17 @@ Summer Live的精选影像。
   - [北谷洋](../Page/北谷洋.md "wikilink")
 
   -
-  - [栗林美奈实](../Page/栗林美奈实.md "wikilink")
+  - [栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")
 
   - [JAM Project](../Page/JAM_Project.md "wikilink")
 
-  - [初音未来](../Page/初音未来.md "wikilink")
+  - [初音未来](https://zh.wikipedia.org/wiki/初音未来 "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [飛蘭](../Page/飛蘭.md "wikilink")
+  - [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
   - [福山芳樹](../Page/福山芳樹.md "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
 
@@ -1236,7 +1352,7 @@ Summer Live的精选影像。
     Project](../Page/JAM_Project.md "wikilink")（[超級機器人大戰MX](../Page/超級機器人大戰MX.md "wikilink")
     主題曲）
 2.  聖闘士星矢～ソルジャー・ドリーム～／[影山浩宣](../Page/影山浩宣.md "wikilink")
-3.  Errand／[飛蘭](../Page/飛蘭.md "wikilink")（[聖痕鍊金士片頭曲](../Page/聖痕鍊金士.md "wikilink")）
+3.  Errand／[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")（[聖痕鍊金士片頭曲](../Page/聖痕鍊金士.md "wikilink")）
 4.  mind as judgment／飛蘭（[CANAAN](../Page/CANAAN.md "wikilink") 片頭曲）
 5.  乙女のポリシー／[石田燿子](../Page/石田燿子.md "wikilink")（[美少女戰士R](../Page/美少女戰士R.md "wikilink")
     主題曲）
@@ -1247,7 +1363,7 @@ Summer Live的精选影像。
     OP）
 9.  Make You Free／
 10. You got game？／Kimeru
-11. みくみくにしてあげる【してやんよ】／[初音未来](../Page/初音未来.md "wikilink")
+11. みくみくにしてあげる【してやんよ】／[初音未来](https://zh.wikipedia.org/wiki/初音未来 "wikilink")
 12. おれパラップ／
 13. Stand down／[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
 14. mirror／森久保祥太郎
@@ -1262,25 +1378,29 @@ Summer Live的精选影像。
 23. 亡国覚醒カタルシス／ALI PROJECT
 24. 聖少女領域／ALI PROJECT（[薔薇少女第](../Page/薔薇少女.md "wikilink")2期 主題曲）
 25. Precious
-    Memories／[栗林美奈实](../Page/栗林美奈实.md "wikilink")（[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")
+    Memories／[栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")（[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")
     主題曲）
 26. Shining☆Days／栗林美奈实（[舞-HiME](../Page/舞-HiME.md "wikilink") 主題曲）
 27. 翼はPleasure
-    Line／栗林美奈实＆[奥井雅美](../Page/奥井雅美.md "wikilink")（[聖槍修女](../Page/聖槍修女.md "wikilink")
+    Line／栗林美奈实＆[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")（[聖槍修女](../Page/聖槍修女.md "wikilink")
     片頭曲）
-28. [残酷天使的行动纲领](../Page/残酷天使的行动纲领.md "wikilink")／石田燿子＆奥井雅美＆栗林美奈实＆飛蘭（[新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")
+28. [残酷天使的行动纲领](../Page/残酷天使的行动纲领.md "wikilink")／石田燿子＆奥井雅美＆栗林美奈实＆飛蘭（[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")
     主題曲）
 29. 輪舞-revolution／奥井雅美（[少女革命](../Page/少女革命.md "wikilink") 主題曲）
 30. 勇者王誕生／[遠藤正明](../Page/遠藤正明.md "wikilink")（[勇者王](../Page/勇者王.md "wikilink")
     主題曲）
-31. CHA-LA HEAD-CHA-LA／影山浩宣（[龍珠Z](../Page/龍珠Z.md "wikilink") 片頭曲）
+31. CHA-LA
+    HEAD-CHA-LA／影山浩宣（[龍珠Z](https://zh.wikipedia.org/wiki/龍珠Z "wikilink")
+    片頭曲）
 32. 突撃ラブハート／[May'n](../Page/May'n.md "wikilink")＆[福山芳樹](../Page/福山芳樹.md "wikilink")([超時空要塞
-    7](../Page/超時空要塞_7.md "wikilink") IN)
+    7](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink") IN)
 33. ダイヤモンドクレバス／May'n（[超時空要塞
-    Frontier](../Page/超時空要塞_Frontier.md "wikilink") 片尾曲）
+    Frontier](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")
+    片尾曲）
 34. ReadyGo！／May'n
 35. 射手座☆午後九時Don't be late／May'n（[超時空要塞
-    Frontier](../Page/超時空要塞_Frontier.md "wikilink") IN）
+    Frontier](https://zh.wikipedia.org/wiki/超時空要塞_Frontier "wikilink")
+    IN）
 36. TRANSFORMERS EVO.／[JAM
     Project](../Page/JAM_Project.md "wikilink")（[變形金剛進化版主題曲](../Page/變形金剛進化版.md "wikilink")）
 37. レスキューファイヤー／JAM Project（ 主題曲）
@@ -1293,7 +1413,7 @@ Summer Live的精选影像。
 ### Animelo Summer Live 2011 -rainbow-
 
   - 舉辦日：2011年8月27日、8月28日
-  - 會場：[埼玉超级体育馆](../Page/埼玉超级体育馆.md "wikilink")
+  - 會場：[埼玉超级体育馆](https://zh.wikipedia.org/wiki/埼玉超级体育馆 "wikilink")
 
 #### 主題曲
 
@@ -1306,12 +1426,12 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [偶像大師](../Page/偶像大師.md "wikilink")（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[長谷川明子](../Page/長谷川明子.md "wikilink")、[原由實](../Page/原由實.md "wikilink")）
+  - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[長谷川明子](../Page/長谷川明子.md "wikilink")、[原由實](../Page/原由實.md "wikilink")）
 
   - [麻生夏子](../Page/麻生夏子.md "wikilink")
 
   -
-  - [ELISA](../Page/ELISA.md "wikilink")
+  - [ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink")
 
   - [佐咲紗花](../Page/佐咲紗花.md "wikilink")
 
@@ -1329,8 +1449,8 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [飛蘭](../Page/飛蘭.md "wikilink")
-  - [fripSide](../Page/fripSide.md "wikilink")
+  - [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
   - [BREAKERZ](../Page/BREAKERZ.md "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
@@ -1345,11 +1465,11 @@ Summer Live的精选影像。
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")＋[志倉千代丸](../Page/志倉千代丸.md "wikilink")
   - [艾莉歐をかまってちゃん](../Page/電波女&青春男.md "wikilink")
   - [Kalafina](../Page/Kalafina.md "wikilink")（特別出演）
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
-  - [黒崎真音](../Page/黒崎真音.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
+  - [黒崎真音](https://zh.wikipedia.org/wiki/黒崎真音 "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
-  - [Phantasm](../Page/Phantasm.md "wikilink")（FES
+  - [Phantasm](https://zh.wikipedia.org/wiki/Phantasm "wikilink")（FES
     cv.[榊原由依](../Page/榊原由依.md "wikilink")）
   - [堀江由衣](../Page/堀江由衣.md "wikilink")
 
@@ -1359,7 +1479,7 @@ Summer Live的精选影像。
 
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
-  - [Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
+  - [Milky Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
   - [RO-KYU-BU\!](../Page/蘿球社！.md "wikilink")
 
 </div>
@@ -1372,23 +1492,25 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-1.  [混合曲](../Page/混合曲.md "wikilink")：「Freedom Dreamer」 ～ 「惑星のランデブー」 /
-    [茅原实里](../Page/茅原实里.md "wikilink")＆[田村由香里](../Page/田村由香里.md "wikilink")
+1.  [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「Freedom
+    Dreamer」 ～ 「惑星のランデブー」 /
+    [茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")＆[田村由香里](../Page/田村由香里.md "wikilink")
 2.  禁断のエリクシア / [May'n](../Page/May'n.md "wikilink")([劇場版 Macross F
     戀離飛翼插曲](../Page/超时空要塞Frontier.md "wikilink"))
 3.  もしも君が願うのなら / May'n (PSP 遊戲 戦場女武神3 主題曲)
 4.  Scarlet Ballet / May'n([緋彈的亞莉亞主題曲](../Page/緋彈的亞莉亞.md "wikilink"))
 5.  侵略ノススメ☆ / ([侵略！花枝娘主題曲](../Page/侵略！花枝娘.md "wikilink"))
 6.  ゆりゆららららゆるゆり大事件 /
-    [七森中☆娱乐部](../Page/摇曳百合#娱乐社.md "wikilink")([輕鬆百合主題曲](../Page/輕鬆百合.md "wikilink"))
+    [七森中☆娱乐部](https://zh.wikipedia.org/wiki/摇曳百合#娱乐社 "wikilink")([輕鬆百合主題曲](../Page/輕鬆百合.md "wikilink"))
 7.  GO MY WAY\!\! / [THE
-    IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")([偶像大師Xbox360版登場曲](../Page/偶像大師.md "wikilink"))
-8.  READY\!\! / THE IDOLM@STER([偶像大師主題曲](../Page/偶像大師.md "wikilink"))
+    IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")([偶像大師Xbox360版登場曲](https://zh.wikipedia.org/wiki/偶像大師 "wikilink"))
+8.  READY\!\! / THE
+    IDOLM@STER([偶像大師主題曲](https://zh.wikipedia.org/wiki/偶像大師 "wikilink"))
 9.  エウレカベイビー / [麻生夏子](../Page/麻生夏子.md "wikilink")(
     [笨蛋，測驗，召喚獸第二季](../Page/笨蛋，測驗，召喚獸.md "wikilink")
     片尾曲)
-10. [混合曲](../Page/混合曲.md "wikilink")：「ダイヤモンドスター☆」 ～ 「More-more
-    LOVERS\!\!」 ～ 「Perfect-area complete\!」 /
+10. [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「ダイヤモンドスター☆」 ～
+    「More-more LOVERS\!\!」 ～ 「Perfect-area complete\!」 /
     [麻生夏子](../Page/麻生夏子.md "wikilink")
 11. 混合曲：「ヒャダインのカカカタ☆カタオモイ-C」 ～
     「ヒャダインのじょーじょーゆーじょー」([日常片头曲](../Page/日常.md "wikilink")1&2)
@@ -1396,47 +1518,54 @@ Summer Live的精选影像。
     feat.[佐咲紗花](../Page/佐咲紗花.md "wikilink")
 12. Zzz /
     [佐咲紗花](../Page/佐咲紗花.md "wikilink")([日常片尾曲](../Page/日常.md "wikilink"))
-13. Last vision for last / [飛蘭](../Page/飛蘭.md "wikilink")([百花繚亂 SAMURAI
-    GIRLS主題曲](../Page/百花繚亂_SAMURAI_GIRLS.md "wikilink"))
+13. Last vision for last /
+    [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")([百花繚亂
+    SAMURAI GIRLS主題曲](../Page/百花繚亂_SAMURAI_GIRLS.md "wikilink"))
 14. 螺旋、或いは聖なる欲望。 / 飛蘭([聖痕鍊金士II主題曲](../Page/聖痕鍊金士.md "wikilink"))
-15. God only knows～集積回路の夢旅人 / [ELISA](../Page/ELISA.md "wikilink") (動畫
-    [只有神知道的世界第一季](../Page/只有神知道的世界.md "wikilink") 最終回片尾曲)
-16. 熱帯夜Girls / [奥井雅美](../Page/奥井雅美.md "wikilink")＆飛蘭＆麻生夏子([アニサマGirls
-    Night主題曲](../Page/アニサマGirls_Night.md "wikilink"))
+15. God only knows～集積回路の夢旅人 /
+    [ELISA](https://zh.wikipedia.org/wiki/ELISA "wikilink") (動畫
+    [只有神知道的世界第一季](../Page/只有神知道的世界.md "wikilink")
+    最終回片尾曲)
+16. 熱帯夜Girls /
+    [奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")＆飛蘭＆麻生夏子([アニサマGirls
+    Night主題曲](https://zh.wikipedia.org/wiki/アニサマGirls_Night "wikilink"))
 17. CLIMBER×CLIMBER / [BREAKERZ](../Page/BREAKERZ.md "wikilink")
 18. Everlasting Luv / BREAKERZ([名偵探柯南主題曲](../Page/名偵探柯南.md "wikilink"))
 19. メドレー：「LEVEL5 judgelight」 ～ 「only my railgun」 /
-    [fripSide](../Page/fripSide.md "wikilink")
+    [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 20. Heaven is a Place on Earth /
-    [fripSide](../Page/fripSide.md "wikilink")([劇場版 爆笑管家工作日誌 HEAVEN IS A
-    PLACE ON
-    EARTH主題曲](../Page/劇場版_爆笑管家工作日誌_HEAVEN_IS_A_PLACE_ON_EARTH.md "wikilink"))
+    [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")([劇場版
+    爆笑管家工作日誌 HEAVEN IS A PLACE ON
+    EARTH主題曲](https://zh.wikipedia.org/wiki/劇場版_爆笑管家工作日誌_HEAVEN_IS_A_PLACE_ON_EARTH "wikilink"))
 21. 宇宙戦艦ヤマト /
     [佐佐木功](../Page/佐佐木功.md "wikilink")([宇宙戰艦大和號主題曲](../Page/宇宙戰艦大和號.md "wikilink"))
-22. 銀河鉄道999 / 佐佐木功([银河铁道999主題曲](../Page/银河铁道999.md "wikilink"))
+22. 銀河鉄道999 /
+    佐佐木功([银河铁道999主題曲](https://zh.wikipedia.org/wiki/银河铁道999 "wikilink"))
 23. マジンガーZ /
-    [水木一郎](../Page/水木一郎.md "wikilink")([鐵甲萬能俠主題曲](../Page/鐵甲萬能俠.md "wikilink"))
+    [水木一郎](../Page/水木一郎.md "wikilink")([鐵甲萬能俠主題曲](https://zh.wikipedia.org/wiki/鐵甲萬能俠 "wikilink"))
 24. コン・バトラーVのテーマ / 水木一郎([超力電磁俠主題曲](../Page/超力電磁俠.md "wikilink"))
-25. Z伝説 ～終わりなき革命～ / [桃色幸运草Z](../Page/桃色幸运草Z.md "wikilink")
-26. [混合曲](../Page/混合曲.md "wikilink")：「ミライボウル」 ～ 「ピンキージョーンズ」 / 桃色幸运草Z
+25. Z伝説 ～終わりなき革命～ /
+    [桃色幸运草Z](https://zh.wikipedia.org/wiki/桃色幸运草Z "wikilink")
+26. [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「ミライボウル」 ～
+    「ピンキージョーンズ」 / 桃色幸运草Z
 27. Butter-Fly /
     [影山浩宣](../Page/影山浩宣.md "wikilink")＆[May'n](../Page/May'n.md "wikilink")　
-28. Defection / [茅原实里](../Page/茅原实里.md "wikilink")
+28. Defection / [茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")
 29. Planet Patrol / 茅原实里
 30. TERMINATED / 茅原实里([境界線上的地平線主題曲](../Page/境界線上的地平線.md "wikilink"))
 31. Beautiful Amulet /
-    [田村由香里](../Page/田村由香里.md "wikilink")([魔法少女奈葉StrikerS片尾曲](../Page/魔法少女奈葉StrikerS.md "wikilink"))
+    [田村由香里](../Page/田村由香里.md "wikilink")([魔法少女奈葉StrikerS片尾曲](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink"))
 32. Endless Story / 田村由香里([C3
-    -魔幻三次方-主題曲](../Page/C3_-魔幻三次方-.md "wikilink"))
+    -魔幻三次方-主題曲](https://zh.wikipedia.org/wiki/C3_-魔幻三次方- "wikilink"))
 33. LOVE ME NOW\! / 田村由香里
 34. MAXON / [JAM
     Project](../Page/JAM_Project.md "wikilink")([超級機械人大戰OG-The
-    Inspector-主題曲](../Page/超級機械人大戰OG-The_Inspector-.md "wikilink"))
+    Inspector-主題曲](https://zh.wikipedia.org/wiki/超級機械人大戰OG-The_Inspector- "wikilink"))
 35. VICTORY / JAM
-    Project([超級機械人大戰MX主題曲](../Page/超級機械人大戰MX.md "wikilink"))
+    Project([超級機械人大戰MX主題曲](https://zh.wikipedia.org/wiki/超級機械人大戰MX "wikilink"))
 36. Rocks / JAM Project
-37. [混合曲](../Page/混合曲.md "wikilink")：「GONG」 ～ 「SKILL」 / JAM
-    Project＆[水樹奈奈](../Page/水樹奈奈.md "wikilink")
+37. [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「GONG」 ～ 「SKILL」
+    / JAM Project＆[水樹奈奈](../Page/水樹奈奈.md "wikilink")
       -
         *'-安可曲-*
 38. EN 「rainbow」 / アニサマ2011主题曲
@@ -1447,35 +1576,42 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-1.  [混合曲](../Page/混合曲.md "wikilink")：「ヒカリ」 ～ 「COSMIC LOVE」 /
+1.  [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「ヒカリ」 ～ 「COSMIC
+    LOVE」 /
     [堀江由衣](../Page/堀江由衣.md "wikilink")＆[水樹奈奈](../Page/水樹奈奈.md "wikilink")
-2.  Rumbling hearts / [栗林美奈实](../Page/栗林美奈实.md "wikilink")
+2.  Rumbling hearts /
+    [栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")
 3.  時すでに始まりを刻む / 栗林美奈实
 4.  STRAIGHT JET / 栗林美奈实([IS〈Infinite
     Stratos〉主題曲](../Page/IS〈Infinite_Stratos〉.md "wikilink")）
-5.  翼はPleasure Line / 栗林美奈实＆[黒崎真音](../Page/黒崎真音.md "wikilink")
+5.  翼はPleasure Line /
+    栗林美奈实＆[黒崎真音](https://zh.wikipedia.org/wiki/黒崎真音 "wikilink")
     ([聖槍修女主題曲](../Page/聖槍修女.md "wikilink"))
 6.  Magic∞world / 黒崎真音
 7.  メモリーズ・ラスト / 黒崎真音
 8.  オルフェ / [宮野真守](../Page/宮野真守.md "wikilink")
 9.  BODY ROCK / 宮野真守
-10. SHOOT\! / [RO-KYU-BU\!](../Page/萝球社！.md "wikilink")
+10. SHOOT\! /
+    [RO-KYU-BU\!](https://zh.wikipedia.org/wiki/萝球社！ "wikilink")
 11. Party Love～おっきくなりたい～ / RO-KYU-BU\!
 12. 正解はひとつ\!じゃない\!\! / [Milky
-    Holmes](../Page/侦探歌剧_少女福尔摩斯#Milky_Holmes.md "wikilink")
+    Holmes](https://zh.wikipedia.org/wiki/侦探歌剧_少女福尔摩斯#Milky_Holmes "wikilink")
 13. 雨上がりのミライ / Milky Holmes
 14. Hacking to the Gate /
     [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")＋[志倉千代丸](../Page/志倉千代丸.md "wikilink")
-15. 刻司ル十二ノ盟約 / [Phantasm](../Page/Phantasm.md "wikilink")(FES
+15. 刻司ル十二ノ盟約 /
+    [Phantasm](https://zh.wikipedia.org/wiki/Phantasm "wikilink")(FES
     cv.[榊原由依](../Page/榊原由依.md "wikilink"))
 16. 裏切りの夕焼け /
     [谷山紀章](../Page/谷山紀章.md "wikilink")＆[宮野真守](../Page/宮野真守.md "wikilink")
 17. インモラリスト / [堀江由衣](../Page/堀江由衣.md "wikilink")
-18. [混合曲](../Page/混合曲.md "wikilink")：「PRESENTER」 ～ 「YAHHO\!\!」 / 堀江由衣
+18. [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：「PRESENTER」 ～
+    「YAHHO\!\!」 / 堀江由衣
 19. もう何も怖くない、怖くはない / [石川智晶](../Page/石川智晶.md "wikilink")
 20. 不完全燃焼 / 石川智晶 (神樣DOLLS 片头曲)
 21. NOAH / [JAM Project](../Page/JAM_Project.md "wikilink")
-22. Vanguard / JAM Project([卡片战斗先导者一期](../Page/卡片战斗先导者.md "wikilink")
+22. Vanguard / JAM
+    Project([卡片战斗先导者一期](https://zh.wikipedia.org/wiki/卡片战斗先导者 "wikilink")
     片头曲1)
 23. レスキューファイアー / JAM Project
 24. Os-宇宙人 / [Os-外星人](../Page/Os-外星人.md "wikilink")
@@ -1504,34 +1640,35 @@ Summer Live的精选影像。
 
   - 标题：**SUPER GAMESONG LIVE 2012 -NEW GAME-**
   - 开始日期：2012年5月26日
-  - 会場：[横濱國際平和會議場](../Page/横濱國際平和會議場.md "wikilink")
-  - 主催：[MAGES.](../Page/MAGES..md "wikilink")、[文化放送](../Page/文化放送.md "wikilink")
+  - 会場：[横濱國際平和會議場](https://zh.wikipedia.org/wiki/横濱國際平和會議場 "wikilink")
+  - 主催：[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
 
 #### 出演者
 
   - [AiRI](../Page/AiRI.md "wikilink")
-  - [Afilia Saga](../Page/Afilia_Saga.md "wikilink")
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
   - [彩音](../Page/彩音.md "wikilink")
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
   - [今井麻美](../Page/今井麻美.md "wikilink")
   - [CooRie](../Page/CooRie.md "wikilink")
-  - [栗林美奈实](../Page/栗林美奈实.md "wikilink")
+  - [栗林美奈实](https://zh.wikipedia.org/wiki/栗林美奈实 "wikilink")
   - [榊原由依](../Page/榊原由依.md "wikilink")
   - [佐藤裕美](../Page/佐藤裕美.md "wikilink")
   - [Ceui](../Page/Ceui.md "wikilink")
   - [NanosizeMir](../Page/NanosizeMir.md "wikilink")
-  - [飛蘭](../Page/飛蘭.md "wikilink")
-  - [yozuca\*](../Page/yozuca*.md "wikilink")
-  - [Rita](../Page/Rita.md "wikilink")
+  - [飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
+  - [yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
+  - [Rita](https://zh.wikipedia.org/wiki/Rita "wikilink")
 
 ### Animelo Summer Live 2012 -infinity∞-
 
   - 舉辦日期：2012年8月25日、8月26日
-  - 会場、協力：[埼玉超级竞技场](../Page/埼玉超级竞技场.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 会場、協力：[埼玉超级竞技场](https://zh.wikipedia.org/wiki/埼玉超级竞技场 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力賛助：鐵人化計劃、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")、ブシロード
-  - 後援：[King Records](../Page/King_Records.md "wikilink")、Geneon
+  - 後援：[King
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、Geneon
     Universal Entertainment Japan、[Flying
     DOG](../Page/Flying_DOG.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")
   - 企画：AniSummer Project實行委員会
@@ -1541,7 +1678,7 @@ Summer Live的精选影像。
   - （INFINITY～1000年的夢～）
     主唱：AKINO from
     bless4、川田麻美、KISHOW（GRANRODEO）、喜多村英梨、栗林美奈實、田村由香里、茅原實里、May'n
-    作詞：[影山浩宣](../Page/影山浩宣.md "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink")；作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
+    作詞：[影山浩宣](../Page/影山浩宣.md "wikilink")、[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")；作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
 
 #### 出演者
 
@@ -1566,14 +1703,14 @@ Summer Live的精选影像。
 
   - [ALTIMA](../Page/ALTIMA.md "wikilink")
 
-  - [Afilia Saga](../Page/Afilia_Saga.md "wikilink")
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")＋[志倉千代丸](../Page/志倉千代丸.md "wikilink")（科學歷險隊）
 
   -
   - [三澤紗千香](../Page/三澤紗千香.md "wikilink")
 
-  - [铃木木乃美](../Page/铃木木乃美.md "wikilink")
+  - [铃木木乃美](https://zh.wikipedia.org/wiki/铃木木乃美 "wikilink")
 
   - [森口博子](../Page/森口博子.md "wikilink")（特別嘉賓）
 
@@ -1583,7 +1720,7 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-  - [蓝井艾露](../Page/蓝井艾露.md "wikilink")
+  - [蓝井艾露](https://zh.wikipedia.org/wiki/蓝井艾露 "wikilink")
   - [LiSA](../Page/LiSA.md "wikilink")
   - [春奈露娜](../Page/春奈露娜.md "wikilink")
 
@@ -1595,10 +1732,10 @@ Summer Live的精选影像。
 
   - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
   - [小野大輔](../Page/小野大輔.md "wikilink")
-  - [Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
+  - [Milky Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
   - [七森中☆娛樂部](../Page/輕鬆百合.md "wikilink")
   - [从后匍匐而来队G](../Page/襲來！美少女邪神.md "wikilink")
   - [堀江由衣](../Page/堀江由衣.md "wikilink")
@@ -1614,7 +1751,7 @@ Summer Live的精选影像。
   - [鈴村健一](../Page/鈴村健一.md "wikilink")
   - [石川智晶](../Page/石川智晶.md "wikilink")
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
-  - [μ's](../Page/μ's.md "wikilink")
+  - [μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")
   - [初音未來](../Page/初音未來.md "wikilink")
 
 </div>
@@ -1627,7 +1764,7 @@ Summer Live的精选影像。
 
 <!-- end list -->
 
-1.  [混合曲](../Page/混合曲.md "wikilink")： A to Z＋Ready
+1.  [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")： A to Z＋Ready
     Go\!（《[B型H系](../Page/B型H系.md "wikilink")》片頭曲＋《[野狼大神與七位夥伴](../Page/野狼大神.md "wikilink")》片頭曲）／[May'n](../Page/May'n.md "wikilink")×[田村由香里](../Page/田村由香里.md "wikilink")
 
 2.  [JOINT](../Page/JOINT.md "wikilink")（《[灼眼的夏娜Ⅱ](../Page/灼眼的夏娜.md "wikilink")》片頭曲）／[川田真美](../Page/川田真美.md "wikilink")
@@ -1635,7 +1772,7 @@ Summer Live的精选影像。
 3.  Boderland（《[軍火女王](../Page/軍火女王.md "wikilink")》片頭曲）／川田真美
 
 4.  [No
-    buts\!](../Page/No_buts!.md "wikilink")（《[魔法禁書目錄Ⅱ](../Page/魔法禁書目錄.md "wikilink")》片頭曲1）／川田真美
+    buts\!](../Page/No_buts!.md "wikilink")（《[魔法禁書目錄Ⅱ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片頭曲1）／川田真美
 
 5.  （遊戲版《[命運石之門](../Page/命運石之門.md "wikilink")》片頭曲）／[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")＋[志倉千代丸](../Page/志倉千代丸.md "wikilink")
 
@@ -1646,16 +1783,16 @@ Summer Live的精选影像。
 
 8.  La\*La\*La（遊戲《[命運石之門
     比翼戀理的摯愛](../Page/命運石之門.md "wikilink")》片頭曲）／[Afilia
-    Saga](../Page/Afilia_Saga.md "wikilink")
+    Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
-9.  [混合曲](../Page/混合曲.md "wikilink")：PUPPY LOVE＋[Our Steady
-    Boy](../Page/Our_Steady_Boy.md "wikilink")
+9.  [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：PUPPY LOVE＋[Our
+    Steady Boy](../Page/Our_Steady_Boy.md "wikilink")
     （NICONICO直播《電波研究社》》2011年9月片尾曲、《[Kiss×sis](../Page/Kiss×sis.md "wikilink")》片尾曲）／[唯夏織](../Page/唯夏織.md "wikilink")
 
 10. 混合曲：Choose
     me♡＋[STUDY×STUDY](../Page/STUDY×STUDY.md "wikilink")＋[MIRACLE
     RUSH](../Page/MIRACLE_RUSH.md "wikilink")
-    （《[其中1個是妹妹！](../Page/其中1個是妹妹！.md "wikilink")》片頭曲、《[惡魔高校D×D](../Page/惡魔高校D×D.md "wikilink")》片尾曲、《[咲-Saki-
+    （《[其中1個是妹妹！](../Page/其中1個是妹妹！.md "wikilink")》片頭曲、《[惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")》片尾曲、《[咲-Saki-
     阿知賀篇 episode of
     side-A](../Page/咲-Saki-.md "wikilink")》片頭曲）／[StylipS](../Page/StylipS.md "wikilink")
 
@@ -1671,9 +1808,9 @@ Summer Live的精选影像。
 
 15. （《[加速世界](../Page/加速世界.md "wikilink")》片尾曲2）／[三澤紗千香](../Page/三澤紗千香.md "wikilink")
 
-16. MEMORIA（《[Fate/Zero](../Page/Fate/Zero.md "wikilink")》第一季片尾曲）／[蓝井艾露](../Page/蓝井艾露.md "wikilink")
+16. MEMORIA（《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第一季片尾曲）／[蓝井艾露](https://zh.wikipedia.org/wiki/蓝井艾露 "wikilink")
 
-17. （《[Fate/Zero](../Page/Fate/Zero.md "wikilink")》第二季片尾曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
+17. （《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第二季片尾曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
 18. key plus
     words（《[女神異聞錄4](../Page/女神異聞錄4.md "wikilink")》後期主要片頭曲）／[PERSONA4
@@ -1682,7 +1819,7 @@ Summer Live的精选影像。
 19. Beauty of Destiny（《女神異聞錄4》前期主要片尾曲）／PERSONA4 MUSIC BAND
 
 20. CHOIR
-    JAIL（《[黃昏少女×遺失記憶](../Page/黃昏少女×遺失記憶.md "wikilink")》片頭曲）／[铃木木乃美](../Page/铃木木乃美.md "wikilink")
+    JAIL（《[黃昏少女×遺失記憶](https://zh.wikipedia.org/wiki/黃昏少女×遺失記憶 "wikilink")》片頭曲）／[铃木木乃美](https://zh.wikipedia.org/wiki/铃木木乃美 "wikilink")
 
 21. （《[冒險少女娜汀亞](../Page/冒險少女娜汀亞.md "wikilink")》片頭曲）／鈴木木乃美＋[三澤紗千香](../Page/三澤紗千香.md "wikilink")＋[野水伊織](../Page/野水伊織.md "wikilink")
 
@@ -1695,10 +1832,10 @@ Summer Live的精选影像。
     F91](../Page/機動戰士GUNDAM_F91.md "wikilink")》主題曲） ／森口博子
 
 25. oath
-    sign（《[Fate/Zero](../Page/Fate/Zero.md "wikilink")》第一季片頭曲）／[LiSA](../Page/LiSA.md "wikilink")
+    sign（《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第一季片頭曲）／[LiSA](../Page/LiSA.md "wikilink")
 
 26. [crossing
-    field](../Page/crossing_field.md "wikilink")（《[刀劍神域](../Page/刀劍神域.md "wikilink")》片頭曲1）／LiSA
+    field](https://zh.wikipedia.org/wiki/crossing_field "wikilink")（《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲1）／LiSA
 
 27. Burst The
     Gravity（《[加速世界](../Page/加速世界.md "wikilink")》片頭曲2）／[ALTIMA](../Page/ALTIMA.md "wikilink")
@@ -1712,22 +1849,23 @@ Summer Live的精选影像。
 
 31. （《AVENGER》片頭曲）／ALI PROJECT
 
-32. （《[CLAMP學園偵探團](../Page/CLAMP學園偵探團.md "wikilink")》片頭曲）／ALI PROJECT
+32. （《[CLAMP學園偵探團](https://zh.wikipedia.org/wiki/CLAMP學園偵探團 "wikilink")》片頭曲）／ALI
+    PROJECT
 
-33. （《[創聖大天使EVOL](../Page/創聖大天使EVOL.md "wikilink")》片頭曲2）／[AKINO with
-    bless4](../Page/AKINO.md "wikilink")
+33. （《[創聖大天使EVOL](https://zh.wikipedia.org/wiki/創聖大天使EVOL "wikilink")》片頭曲2）／[AKINO
+    with bless4](../Page/AKINO.md "wikilink")
 
 34. （《創聖大天使EVOL》片頭曲1）／AKINO with bless4
 
-35. （《[創聖大天使](../Page/創聖大天使.md "wikilink")》片頭曲1）／AKINO with
-    bless4＋[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
+35. （《[創聖大天使](https://zh.wikipedia.org/wiki/創聖大天使 "wikilink")》片頭曲1）／AKINO
+    with bless4＋[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
 
 36. Brain
     Diver（《[天才黃金腦～神之謎](../Page/天才黃金腦～神之謎.md "wikilink")》第一季片頭曲）／[May'n](../Page/May'n.md "wikilink")
 
 37. Mr. Super Future Star（遊戲《E.X.TROOPERS》主題曲）／May'n
 
-38. （《[超時空要塞Frontier](../Page/超時空要塞Frontier.md "wikilink")》片尾曲）／May'n
+38. （《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》片尾曲）／May'n
 
 39. Chase the world（《[加速世界](../Page/加速世界.md "wikilink")》片頭曲1）／May'n
 
@@ -1735,7 +1873,7 @@ Summer Live的精选影像。
     A's](../Page/魔法少女奈葉_The_MOVIE_2nd_A's.md "wikilink")》片尾曲）／[田村由香里](../Page/田村由香里.md "wikilink")
 
 41. （遊戲《[魔法少女奈葉A's PORTABLE -THE GEARS OF
-    DESTINY-](../Page/魔法少女奈葉A's.md "wikilink")》片尾曲）／田村由香里
+    DESTINY-](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")》片尾曲）／田村由香里
 
 42. Endless Story（《[C³
     -魔幻三次方-](../Page/C³_-魔幻三次方-.md "wikilink")》片頭曲1）／田村由香里
@@ -1759,17 +1897,20 @@ Summer Live的精选影像。
 5.  CHILDSH♡LOVE♡WORLD／堀江由衣
 
 6.  Happiness\!\!（《[偵探歌劇 少女福爾摩斯
-    第二幕](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／[Milky
-    Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
+    第二幕](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／[Milky
+    Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
 
-7.  （《[偵探歌劇 少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／Milky Holmes
+7.  （《[偵探歌劇
+    少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／Milky
+    Holmes
 
 8.  （《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》片尾曲）／[七森中☆娛樂部](../Page/輕鬆百合.md "wikilink")
 
 9.  （《[輕鬆百合♪♪](../Page/輕鬆百合.md "wikilink")》片頭曲）／七森中☆娛樂部
 
-10. [混合曲](../Page/混合曲.md "wikilink")：＋（《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》片頭曲＋遊戲《[偵探歌劇
-    少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／Milky Holmes＋七森中☆娛樂部
+10. [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：＋（《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》片頭曲＋遊戲《[偵探歌劇
+    少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／Milky
+    Holmes＋七森中☆娛樂部
 
 11. Happy
     Girl（《[要聽爸爸的話！](../Page/要聽爸爸的話！.md "wikilink")》片頭曲）／[喜多村英梨](../Page/喜多村英梨.md "wikilink")
@@ -1788,24 +1929,24 @@ Summer Live的精选影像。
 17. （《[地球防衛少年](../Page/地球防衛少年.md "wikilink")》片頭曲）／[石川智晶](../Page/石川智晶.md "wikilink")&[茅原實里](../Page/茅原實里.md "wikilink")
 
 18. signs～～（《[Muv-Luv Alternative Total
-    Eclipse](../Page/Muv-Luv_Alternative.md "wikilink")》片尾曲）／[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+    Eclipse](../Page/Muv-Luv_Alternative.md "wikilink")》片尾曲）／[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
-19. （《[機動戰士鋼彈AGE](../Page/機動戰士鋼彈AGE.md "wikilink")》片尾曲1）／栗林美奈實
+19. （《[機動戰士鋼彈AGE](https://zh.wikipedia.org/wiki/機動戰士鋼彈AGE "wikilink")》片尾曲1）／栗林美奈實
 
 20. HAPPY CRAZY
     BOX（《[最強學生會長](../Page/最強學生會長.md "wikilink")》第一季片頭曲）／栗林美奈實
 
-21. Sign（《[在盛夏等待](../Page/在盛夏等待.md "wikilink")》片頭曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
+21. Sign（《[在盛夏等待](https://zh.wikipedia.org/wiki/在盛夏等待 "wikilink")》片頭曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
 
 22. Black
     Holy（《[迷你裙宇宙海賊](../Page/迷你裙宇宙海賊.md "wikilink")》插曲）／[小松未可子](../Page/小松未可子.md "wikilink")
 
 23. DAN DAN （《[七龙珠
-    最强之道](../Page/七龙珠_最强之道.md "wikilink")》片頭曲）／[織田哲郎](../Page/織田哲郎.md "wikilink")＋[黑崎真音](../Page/黑崎真音.md "wikilink")＋Ray＋小松未可子
+    最强之道](https://zh.wikipedia.org/wiki/七龙珠_最强之道 "wikilink")》片頭曲）／[織田哲郎](../Page/織田哲郎.md "wikilink")＋[黑崎真音](../Page/黑崎真音.md "wikilink")＋Ray＋小松未可子
 
 24. （《[裝甲騎兵](../Page/裝甲騎兵.md "wikilink")》片頭曲）／[TETSU](../Page/織田哲郎.md "wikilink")
 
-25. （《[灌籃高手](../Page/灌籃高手.md "wikilink")》片尾曲2）／[織田哲郎](../Page/織田哲郎.md "wikilink")＋上杉昇
+25. （《[灌籃高手](https://zh.wikipedia.org/wiki/灌籃高手 "wikilink")》片尾曲2）／[織田哲郎](../Page/織田哲郎.md "wikilink")＋上杉昇
 
 26. ／[初音未來](../Page/初音未來.md "wikilink")
 
@@ -1816,20 +1957,21 @@ Summer Live的精选影像。
 29. 1,2,Jump\!／μ's from [Love Live\!](../Page/Love_Live!.md "wikilink")
 
 30. YOU GET TO
-    BURNING（《[機動戰艦](../Page/機動戰艦.md "wikilink")》片頭曲）／[栗林美奈實](../Page/栗林美奈實.md "wikilink")＆[喜多村英梨](../Page/喜多村英梨.md "wikilink")
+    BURNING（《[機動戰艦](../Page/機動戰艦.md "wikilink")》片頭曲）／[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")＆[喜多村英梨](../Page/喜多村英梨.md "wikilink")
 
 31. \-reimei-（《[薄櫻鬼
-    黎明錄](../Page/薄櫻鬼_～新選組奇譚～.md "wikilink")》片頭曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
+    黎明錄](https://zh.wikipedia.org/wiki/薄櫻鬼_～新選組奇譚～ "wikilink")》片頭曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
 
-32. Magic ∞ World（《[魔法禁書目錄Ⅱ](../Page/魔法禁書目錄.md "wikilink")》片尾曲1）／黑崎真音
+32. Magic ∞
+    World（《[魔法禁書目錄Ⅱ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片尾曲1）／黑崎真音
 
 33. Dream
-    Fighter（《[奥特曼列傳](../Page/奥特曼列傳.md "wikilink")》片頭曲）／[宮野真守](../Page/宮野真守.md "wikilink")
+    Fighter（《[奥特曼列傳](https://zh.wikipedia.org/wiki/奥特曼列傳 "wikilink")》片頭曲）／[宮野真守](../Page/宮野真守.md "wikilink")
 
 34. （《[歌之王子殿下](../Page/歌之王子殿下.md "wikilink")》片頭曲）／宮野真守
 
 35. The Giving
-    Tree（遊戲《[幻想水滸傳](../Page/幻想水滸傳.md "wikilink")》主題曲）／[石川智晶](../Page/石川智晶.md "wikilink")
+    Tree（遊戲《[幻想水滸傳](https://zh.wikipedia.org/wiki/幻想水滸傳 "wikilink")》主題曲）／[石川智晶](../Page/石川智晶.md "wikilink")
 
 36. （《[機動戰士GUNDAM
     SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》片尾曲1）／石川智晶
@@ -1852,7 +1994,7 @@ Summer Live的精选影像。
 
 #### 其他
 
-  - 2012年3月23日发表记者见面会。会议主持是鷲崎健和[石田絵里奈](../Page/石田絵里奈.md "wikilink")（文化放送アナウンサー）。
+  - 2012年3月23日发表记者见面会。会议主持是鷲崎健和[石田絵里奈](https://zh.wikipedia.org/wiki/石田絵里奈 "wikilink")（文化放送アナウンサー）。
 
 ### Anisama in Shanghai 2012 \~ Next Stage \~
 
@@ -1864,14 +2006,14 @@ Summer Live的精选影像。
 #### 原定出演者
 
   - [JAM
-    Project](../Page/JAM_Project.md "wikilink")([影山浩宣](../Page/影山浩宣.md "wikilink")、[遠藤正明](../Page/遠藤正明.md "wikilink")、[北谷洋](../Page/北谷洋.md "wikilink")、[奥井雅美](../Page/奥井雅美.md "wikilink")、[福山芳樹](../Page/福山芳樹.md "wikilink"))
+    Project](../Page/JAM_Project.md "wikilink")([影山浩宣](../Page/影山浩宣.md "wikilink")、[遠藤正明](../Page/遠藤正明.md "wikilink")、[北谷洋](../Page/北谷洋.md "wikilink")、[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")、[福山芳樹](../Page/福山芳樹.md "wikilink"))
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
-  - [√5](../Page/√5.md "wikilink")([蛇足](../Page/蛇足.md "wikilink")、[ぽこた](../Page/ぽこた.md "wikilink")、[みーちゃん](../Page/みーちゃん.md "wikilink")、[けったろ](../Page/けったろ.md "wikilink")、[koma'n](../Page/koma'n.md "wikilink"))
+  - [√5](https://zh.wikipedia.org/wiki/√5 "wikilink")([蛇足](https://zh.wikipedia.org/wiki/蛇足 "wikilink")、[ぽこた](https://zh.wikipedia.org/wiki/ぽこた "wikilink")、[みーちゃん](https://zh.wikipedia.org/wiki/みーちゃん "wikilink")、[けったろ](https://zh.wikipedia.org/wiki/けったろ "wikilink")、[koma'n](https://zh.wikipedia.org/wiki/koma'n "wikilink"))
   - [岩田光央](../Page/岩田光央.md "wikilink")
-  - [CONNECT](../Page/CONNECT.md "wikilink")([岩田光央](../Page/岩田光央.md "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink"))
+  - [CONNECT](https://zh.wikipedia.org/wiki/CONNECT "wikilink")([岩田光央](../Page/岩田光央.md "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink"))
   - [鈴村健一](../Page/鈴村健一.md "wikilink")
   - [田村由香里](../Page/田村由香里.md "wikilink")
-  - [茅原实里](../Page/茅原实里.md "wikilink")
+  - [茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")
 
 ## 2013年
 
@@ -1880,14 +2022,14 @@ Summer Live的精选影像。
 本年度為大會首度將活動擴展至三天舉行。
 
   - 舉辦日期：2013年8月23日－8月25日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：鐵人化計劃、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")、ブシロード
   - 後援：[Avex
-    Entertainment](../Page/Avex_Entertainment.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、Geneon Universal
-    Entertainment Japan、[Flying
+    Entertainment](https://zh.wikipedia.org/wiki/Avex_Entertainment "wikilink")、[King
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、Geneon
+    Universal Entertainment Japan、[Flying
     DOG](../Page/Flying_DOG.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
     Home Video
   - 企劃：AniSummer Project實行委員會
@@ -1907,7 +2049,7 @@ Summer Live的精选影像。
   - [ZAQ](../Page/ZAQ.md "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
   - [ChouCho](../Page/ChouCho.md "wikilink")
-  - [nano.RIPE](../Page/nano.RIPE.md "wikilink")
+  - [nano.RIPE](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [串田晃](../Page/串田晃.md "wikilink")
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
@@ -1918,16 +2060,16 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [μ′s](../Page/LoveLive!.md "wikilink")
+  - [μ′s](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
   - [THE IDOLM@STER CINDERELLA
-    GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
-  - [藤田麻衣子](../Page/藤田麻衣子.md "wikilink")
-  - [铃木木乃美](../Page/铃木木乃美.md "wikilink")
-  - [Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
-  - [earthmind](../Page/earthmind.md "wikilink")
-  - [FLOW](../Page/FLOW.md "wikilink")
+    GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
+  - [藤田麻衣子](https://zh.wikipedia.org/wiki/藤田麻衣子 "wikilink")
+  - [铃木木乃美](https://zh.wikipedia.org/wiki/铃木木乃美 "wikilink")
+  - [Milky Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
+  - [earthmind](https://zh.wikipedia.org/wiki/earthmind "wikilink")
+  - [FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
   - [中川翔子](../Page/中川翔子.md "wikilink")
-  - [NoB](../Page/NoB.md "wikilink")（特別嘉賓）
+  - [NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")（特別嘉賓）
 
 </div>
 
@@ -1935,22 +2077,22 @@ Summer Live的精选影像。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
-  - [上坂菫](../Page/上坂菫.md "wikilink")
+  - [上坂菫](https://zh.wikipedia.org/wiki/上坂菫 "wikilink")
 
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
-  - [T-Pistonz+KMC](../Page/T-Pistonz+KMC.md "wikilink")
+  - [T-Pistonz+KMC](https://zh.wikipedia.org/wiki/T-Pistonz+KMC "wikilink")
 
-  - [中島愛](../Page/中島愛.md "wikilink")
+  - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
   - [OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
   -
-  - [fripSide](../Page/fripSide.md "wikilink")
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
   - [PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
 
@@ -1960,9 +2102,10 @@ Summer Live的精选影像。
 
   - [七森中☆娛樂部](../Page/輕鬆百合.md "wikilink")
 
-  - [THE IDOLM@STER MILLION STARS](../Page/PROJECT_IM@S.md "wikilink")
+  - [THE IDOLM@STER MILLION
+    STARS](https://zh.wikipedia.org/wiki/PROJECT_IM@S "wikilink")
 
-  - [Afilia Saga](../Page/Afilia_Saga.md "wikilink")
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
   - [藍井艾露](../Page/藍井艾露.md "wikilink")
 
@@ -1983,11 +2126,11 @@ Summer Live的精选影像。
 
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
   - [田村由香里](../Page/田村由香里.md "wikilink")
-  - [富永TOMMY弘明](../Page/富永TOMMY弘明.md "wikilink")
+  - [富永TOMMY弘明](https://zh.wikipedia.org/wiki/富永TOMMY弘明 "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
   - [小倉唯](../Page/小倉唯.md "wikilink")
-  - [sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")
   - [小松未可子](../Page/小松未可子.md "wikilink")
   - [鈴村健一](../Page/鈴村健一.md "wikilink")
@@ -2003,8 +2146,9 @@ Summer Live的精选影像。
   - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [竹達彩奈](../Page/竹達彩奈.md "wikilink")
   - [日笠陽子](../Page/日笠陽子.md "wikilink")
-  - [petit milady](../Page/petit_milady.md "wikilink")
-  - [i☆Ris](../Page/i☆Ris.md "wikilink")
+  - [petit
+    milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
+  - [i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
   - [南里侑香](../Page/南里侑香.md "wikilink")
 
 </div>
@@ -2016,27 +2160,28 @@ Summer Live的精选影像。
 :; 8月23日
 
 :\# Celestial Diva（遊戲《Chaos Rings
-Ⅱ》主題曲）／[茅原實里](../Page/茅原實里.md "wikilink")＆[寶野亞莉華](../Page/寶野亞莉華.md "wikilink")
+Ⅱ》主題曲）／[茅原實里](../Page/茅原實里.md "wikilink")＆[寶野亞莉華](https://zh.wikipedia.org/wiki/寶野亞莉華 "wikilink")
 
 :\#
-（《[美少女戰士](../Page/美少女戰士_\(第一輯\).md "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
+（《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士_\(第一輯\) "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
 
-:\# （劇集《[惡夢小姐](../Page/惡夢小姐.md "wikilink")》主題曲）／桃色幸運草Z
+:\#
+（劇集《[惡夢小姐](https://zh.wikipedia.org/wiki/惡夢小姐 "wikilink")》主題曲）／桃色幸運草Z
 
 :\# （《[猛烈宇宙海賊](../Page/迷你裙宇宙海賊.md "wikilink")》片頭曲）／桃色幸運草Z
 
 :\# ／[THE IDOLM@STER CINDERELLA
-GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
+GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
 
 :\# ／THE IDOLM@STER CINDERELLA GIRLS
 
 :\#
-Recall（《[失憶症](../Page/失憶症_\(遊戲\).md "wikilink")》片尾曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
+Recall（《[失憶症](https://zh.wikipedia.org/wiki/失憶症_\(遊戲\) "wikilink")》片尾曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
 
 :\# （《[出包王女DARKNESS](../Page/出包王女.md "wikilink")》片頭曲）／Ray
 
 :\#
-DreamRiser（《[少女與戰車](../Page/少女與戰車.md "wikilink")》片頭曲）／[ChouCho](../Page/ChouCho.md "wikilink")
+DreamRiser（《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》片頭曲）／[ChouCho](../Page/ChouCho.md "wikilink")
 
 :\#
 telepath～～（《[劇場版魔法禁書目錄：恩底彌翁的奇蹟](../Page/劇場版魔法禁書目錄：恩底彌翁的奇蹟.md "wikilink")》插曲）／[三澤紗千香](../Page/三澤紗千香.md "wikilink")
@@ -2044,61 +2189,66 @@ telepath～～（《[劇場版魔法禁書目錄：恩底彌翁的奇蹟](../Pag
 :\# （《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片尾曲1）／三澤紗千香
 
 :\# （《[惡魔高校D×D
-New](../Page/惡魔高校D×D.md "wikilink")》片頭曲2）／[ZAQ](../Page/ZAQ.md "wikilink")
+New](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")》片頭曲2）／[ZAQ](../Page/ZAQ.md "wikilink")
 
 :\# Sparkling
 Daydream（《[中二病也想談戀愛！](../Page/中二病也想談戀愛！.md "wikilink")》片頭曲）／ZAQ
 
 :\# ENERGY（《[Vividred
-Operation](../Page/Vividred_Operation.md "wikilink")》片頭曲）／[earthmind](../Page/earthmind.md "wikilink")
+Operation](../Page/Vividred_Operation.md "wikilink")》片頭曲）／[earthmind](https://zh.wikipedia.org/wiki/earthmind "wikilink")
 
 :\#
-（《[天元突破紅蓮螺巖](../Page/天元突破紅蓮螺巖.md "wikilink")》片頭曲）／[中川翔子](../Page/中川翔子.md "wikilink")
+（《[天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")》片頭曲）／[中川翔子](../Page/中川翔子.md "wikilink")
 
 :\#
-（《[聖鬥士星矢Ω](../Page/聖鬥士星矢Ω.md "wikilink")》片頭曲1）／中川翔子＆[NoB](../Page/NoB.md "wikilink")
+（《[聖鬥士星矢Ω](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")》片頭曲1）／中川翔子＆[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")
 
 :\# （特攝片《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》片頭曲）／NoB　
 
-:\# [混合曲](../Page/混合曲.md "wikilink")： ＆
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")： ＆
 （《[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")》片頭曲;1＆2）／[串田晃](../Page/串田晃.md "wikilink")
 
-:\# （特攝片《[宇宙刑事Gavan](../Page/宇宙刑事Gavan.md "wikilink")》片頭曲）／串田晃
+:\#
+（特攝片《[宇宙刑事Gavan](https://zh.wikipedia.org/wiki/宇宙刑事Gavan "wikilink")》片頭曲）／串田晃
 
-:\#  Go Fight\!（《[筋肉人](../Page/筋肉人.md "wikilink")》片頭曲1）／串田晃＆桃色幸運草Z
+:\#  Go
+Fight\!（《[筋肉人](https://zh.wikipedia.org/wiki/筋肉人 "wikilink")》片頭曲1）／串田晃＆桃色幸運草Z
 
 :\#
-Days（《[交響詩篇](../Page/交響詩篇.md "wikilink")》片頭曲1）／[FLOW](../Page/FLOW.md "wikilink")
+Days（《[交響詩篇](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")》片頭曲1）／[FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
 
 :\# CHA-LA
-HEAD-CHA-LA（《[龍珠Z劇場版神與神片頭曲](../Page/龍珠Z劇場版神與神.md "wikilink")》）／FLOW
+HEAD-CHA-LA（《[龍珠Z劇場版神與神片頭曲](https://zh.wikipedia.org/wiki/龍珠Z劇場版神與神 "wikilink")》）／FLOW
 
 :\# GO\!\!\!（《[火影忍者](../Page/火影忍者.md "wikilink")》片頭曲4）／FLOW
 
 :\# （《[Love
-Live\!](../Page/Love_Live!.md "wikilink")》片頭曲）／[μ′s](../Page/LoveLive!.md "wikilink")
+Live\!](../Page/Love_Live!.md "wikilink")》片頭曲）／[μ′s](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
 
 :\# START：DASH\!\!（《Love Live\!》插曲）／μ′s
 
 :\# （《[劇場版 花開物語 HOME SWEET
-HOME](../Page/花開物語.md "wikilink")》主題曲）／[nano.RIPE](../Page/nano.RIPE.md "wikilink")
+HOME](../Page/花開物語.md "wikilink")》主題曲）／[nano.RIPE](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")
 
 :\# （《[人類衰退之後](../Page/人類衰退之後.md "wikilink")》片頭曲）／nano.RIPE
 
 :\#
-(《[緋色的碎片](../Page/緋色的碎片.md "wikilink")》片頭曲)／[藤田麻衣子](../Page/藤田麻衣子.md "wikilink")
+(《[緋色的碎片](../Page/緋色的碎片.md "wikilink")》片頭曲)／[藤田麻衣子](https://zh.wikipedia.org/wiki/藤田麻衣子 "wikilink")
 
 :\# DAYS of
-DASH（《[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")》片尾曲1）／[铃木木乃美](../Page/铃木木乃美.md "wikilink")
+DASH（《[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")》片尾曲1）／[铃木木乃美](https://zh.wikipedia.org/wiki/铃木木乃美 "wikilink")
 
 :\#
 （《[我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")》片頭曲）／鈴木木乃美
 n' ＆[ZAQ](../Page/ZAQ.md "wikilink")
 
-:\# （《[二人是少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／[Milky
-Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
+:\#
+（《[二人是少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／[Milky
+Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
 
-:\# （《[偵探歌劇 少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／Milky Holmes
+:\# （《[偵探歌劇
+少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／Milky
+Holmes
 
 :\# （《[薔薇少女](../Page/薔薇少女.md "wikilink")》片頭曲）／[ALI
 PROJECT](../Page/ALI_PROJECT.md "wikilink")
@@ -2108,15 +2258,15 @@ PROJECT](../Page/ALI_PROJECT.md "wikilink")
 :\# （《[新薔薇少女](../Page/薔薇少女.md "wikilink")》片頭曲）／ALI PROJECT
 
 :\# ViViD（《[BLOOD LAD
-血意少年](../Page/BLOOD_LAD_血意少年.md "wikilink")》片頭曲）／[May'n](../Page/May'n.md "wikilink")
+血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")》片頭曲）／[May'n](../Page/May'n.md "wikilink")
 
 :\# （《[BTOOOM\!](../Page/BTOOOM!.md "wikilink")》片尾曲）／May'n
 
 :\# Don't be
-late（《[超時空要塞Frontier](../Page/超時空要塞Frontier.md "wikilink")》插曲）／May'n
+late（《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》插曲）／May'n
 
 :\#
-（《[翠星上的加爾岡緹亞](../Page/翠星上的加爾岡緹亞.md "wikilink")》片頭曲）／[茅原實里](../Page/茅原實里.md "wikilink")
+（《[翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")》片頭曲）／[茅原實里](../Page/茅原實里.md "wikilink")
 
 :\# CRADLE OVER（遊戲《 D2》片頭曲）／茅原實里
 
@@ -2127,35 +2277,38 @@ late（《[超時空要塞Frontier](../Page/超時空要塞Frontier.md "wikilink
 :; 8月24日
 
 :\#
-（《[地獄老師](../Page/靈異教師神眉.md "wikilink")》片頭曲）／[angela](../Page/angela.md "wikilink")＆
+（《[地獄老師](https://zh.wikipedia.org/wiki/靈異教師神眉 "wikilink")》片頭曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")＆
 
 :\# sister's
-noise（《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／[fripSide](../Page/fripSide.md "wikilink")
-
-:\# [混合曲](../Page/混合曲.md "wikilink")：LEVEL5-judgelight- ＆ only my
-railgun（《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲1＆2）／fripSide feat.
+noise（《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\#
-（《[人魚又上鉤](../Page/人魚又上鉤.md "wikilink")》片頭曲）／[上坂菫](../Page/上坂菫.md "wikilink")
+[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：LEVEL5-judgelight-
+＆ only my
+railgun（《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲1＆2）／fripSide
+feat.
+
+:\#
+（《[人魚又上鉤](../Page/人魚又上鉤.md "wikilink")》片頭曲）／[上坂菫](https://zh.wikipedia.org/wiki/上坂菫 "wikilink")
 
 :\#
 （《[Aiura](../Page/Aiura.md "wikilink")》片頭曲）／[Aiu♥Love](../Page/Aiura.md "wikilink")
 
 :\# （《[超次元戰記 戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")》片尾曲）／[Afilia
-Saga](../Page/Afilia_Saga.md "wikilink")
+Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
 :\# BELOVED×SURVIVAL（《[BROTHERS
-CONFLICT](../Page/BROTHERS_CONFLICT.md "wikilink")》片頭曲）／
+CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")》片頭曲）／
 
 :\# （《[ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")》片頭曲1）／Zwei
 
 :\#
-（《[琴浦小姐](../Page/琴浦小姐.md "wikilink")》片頭曲）／[中島愛](../Page/中島愛.md "wikilink")
+（《[琴浦小姐](../Page/琴浦小姐.md "wikilink")》片頭曲）／[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :\# （《[玉響〜More Aggressive〜](../Page/幸福光暈.md "wikilink")》片尾曲）／中島愛
 
 :\#
-[Overfly](../Page/Overfly.md "wikilink")（《[刀劍神域](../Page/刀劍神域.md "wikilink")》片尾曲2）／[春奈露娜](../Page/春奈露娜.md "wikilink")
+[Overfly](../Page/Overfly.md "wikilink")（《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲2）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
 :\# （《[物語系列 第二季](../Page/物語系列_第二季.md "wikilink")》片尾曲1）／春奈露娜
 
@@ -2166,44 +2319,47 @@ CONFLICT](../Page/BROTHERS_CONFLICT.md "wikilink")》片頭曲）／
 （《[小雙俠](../Page/小雙俠_\(2008年動畫版\).md "wikilink")》片頭曲）／山本正之＆七森中☆娛樂部＆Afilia
 Saga
 
-:\# [混合曲](../Page/混合曲.md "wikilink")： ＆ （《[閃電十一人GO
-第三季](../Page/閃電十一人GO.md "wikilink")》／《[閃電十一人](../Page/閃電十一人.md "wikilink")》片頭曲）／[T-Pistonz＋KMC](../Page/T-Pistonz＋KMC.md "wikilink")
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")： ＆ （《[閃電十一人GO
+第三季](../Page/閃電十一人GO.md "wikilink")》／《[閃電十一人](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")》片頭曲）／[T-Pistonz＋KMC](https://zh.wikipedia.org/wiki/T-Pistonz＋KMC "wikilink")
 
 :\#
 （《[黑子的籃球](../Page/黑子的籃球.md "wikilink")》片尾曲2）／[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
 :\# Rage on（《[Free\!](../Page/Free!.md "wikilink")》片頭曲）／OLDCODEX
 
-:\# [混合曲](../Page/混合曲.md "wikilink")：THE IDOLM@STER ＆ READY\!\!（ -
-／《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》片頭曲1）／[THE
-IDOLM@STER MILLION STARS](../Page/PROJECT_IM@S.md "wikilink")
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：THE IDOLM@STER ＆
+READY\!\!（ - ／《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》片頭曲1）／[THE
+IDOLM@STER MILLION
+STARS](https://zh.wikipedia.org/wiki/PROJECT_IM@S "wikilink")
 
 :\# Thank You\!／THE IDOLM@STER MILLION STARS
 
 :\# STRAIGHT JET（《[IS〈Infinite
-Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》片頭曲）／[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")》片頭曲）／[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 :\# Doubt the World（《[Muv-Luv Alternative Total
 Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》片尾曲1）／栗林美奈實
 
-:\# ZERO\!\!（《[打工吧！魔王大人](../Page/打工吧！魔王大人.md "wikilink")》片頭曲）／栗林美奈實
+:\#
+ZERO\!\!（《[打工吧！魔王大人](https://zh.wikipedia.org/wiki/打工吧！魔王大人 "wikilink")》片頭曲）／栗林美奈實
 
 :\#
-（《[革命機Valvrave](../Page/革命機Valvrave.md "wikilink")》片尾曲）／[angela](../Page/angela.md "wikilink")
+（《[革命機Valvrave](../Page/革命機Valvrave.md "wikilink")》片尾曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
-:\# [混合曲](../Page/混合曲.md "wikilink")：明日へのbrilliant road ＆ Beautiful
-fighter ＆ gravitation ＆  ＆
-Shangri-La（《[宇宙星路](../Page/宇宙星路.md "wikilink")》片頭曲 &
-《[尸姬](../Page/尸姬.md "wikilink")》片头曲 &
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：明日へのbrilliant
+road ＆ Beautiful fighter ＆ gravitation ＆  ＆
+Shangri-La（《[宇宙星路](https://zh.wikipedia.org/wiki/宇宙星路 "wikilink")》片頭曲
+& 《[尸姬](https://zh.wikipedia.org/wiki/尸姬 "wikilink")》片头曲 &
 《[英雄時代](../Page/英雄時代_\(動畫\).md "wikilink")》片頭曲 &
-《[妄想学生会](../Page/妄想学生会.md "wikilink")》片尾曲 ＆
-《[苍穹之战神](../Page/苍穹之战神.md "wikilink")》片头曲）／angela
+《[妄想学生会](https://zh.wikipedia.org/wiki/妄想学生会 "wikilink")》片尾曲
+＆ 《[苍穹之战神](https://zh.wikipedia.org/wiki/苍穹之战神 "wikilink")》片头曲）／angela
 
 :\# KINGS（《[K](../Page/K_\(動畫\).md "wikilink")》片頭曲）／angela
 
 :\# ／七森中☆娛樂部
 
-:\# （《[彩虹小馬：友情就是魔法](../Page/彩虹小馬：友情就是魔法.md "wikilink")》片頭曲2）／七森中☆娛樂部
+:\#
+（《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》片頭曲2）／七森中☆娛樂部
 
 :\# Vanguard Fight（《[卡片戰鬥先導者
 聯合王牌篇](../Page/卡片戰鬥先導者.md "wikilink")》片頭曲1）／[PSYCHIC
@@ -2217,7 +2373,8 @@ T-Pistonz＋KMC
 :\# AURORA（《[機動戰士GUNDAM
 AGE](../Page/機動戰士GUNDAM_AGE.md "wikilink")》片頭曲4）／[藍井艾露](../Page/藍井艾露.md "wikilink")
 
-:\# INNOCENCE（《[刀劍神域](../Page/刀劍神域.md "wikilink")》片頭曲2）／藍井艾露
+:\#
+INNOCENCE（《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲2）／藍井艾露
 
 :\#
 rose（《[NANA](../Page/NANA.md "wikilink")》片頭曲1）／[土屋安娜](../Page/土屋安娜.md "wikilink")
@@ -2226,9 +2383,10 @@ rose（《[NANA](../Page/NANA.md "wikilink")》片頭曲1）／[土屋安娜](..
 On\!（特攝片《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》片頭曲）／土屋安娜
 
 :\# crossing
-field（《[刀劍神域](../Page/刀劍神域.md "wikilink")》片頭曲1）／[LiSA](../Page/LiSA.md "wikilink")
+field（《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲1）／[LiSA](../Page/LiSA.md "wikilink")
 
-:\# träumerei（《[穿透幻影的太陽](../Page/穿透幻影的太陽.md "wikilink")》片頭曲）／LiSA
+:\#
+träumerei（《[穿透幻影的太陽](https://zh.wikipedia.org/wiki/穿透幻影的太陽 "wikilink")》片頭曲）／LiSA
 
 :\# Crow Song（《[Angel
 Beats\!](../Page/Angel_Beats!.md "wikilink")》插曲）／LiSA
@@ -2241,12 +2399,13 @@ Beats\!](../Page/Angel_Beats!.md "wikilink")》插曲）／LiSA
 
 :\# Can Do（《[黑子的籃球](../Page/黑子的籃球.md "wikilink")》片頭曲1）／GRANRODEO
 
-:\# Go For It\!（《[IGPX](../Page/IGPX.md "wikilink")》片頭曲）／GRANRODEO
+:\# Go For
+It\!（《[IGPX](https://zh.wikipedia.org/wiki/IGPX "wikilink")》片頭曲）／GRANRODEO
 
 :; 8月25日
 
-:\# [混合曲](../Page/混合曲.md "wikilink")： ＆ SCARLET KNIGHT（《[歌之王子殿下
-真爱1000%](../Page/歌之王子殿下.md "wikilink")》片頭曲／《[DOG
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")： ＆ SCARLET
+KNIGHT（《[歌之王子殿下 真爱1000%](../Page/歌之王子殿下.md "wikilink")》片頭曲／《[DOG
 DAYS](../Page/DOG_DAYS.md "wikilink")》片頭曲）／[水樹奈奈](../Page/水樹奈奈.md "wikilink")
 & [宮野真守](../Page/宮野真守.md "wikilink")
 
@@ -2267,10 +2426,10 @@ White（《[問題兒童都來自異世界？](../Page/問題兒童都來自異�
 [黑崎真音](../Page/黑崎真音.md "wikilink")
 
 :\# §Rainbow（《[星光少女 Rainbow
-Live](../Page/星光少女_Rainbow_Live.md "wikilink")》片尾曲2）／[i☆Ris](../Page/i☆Ris.md "wikilink")
+Live](https://zh.wikipedia.org/wiki/星光少女_Rainbow_Live "wikilink")》片尾曲2）／[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
 
-:\# [混合曲](../Page/混合曲.md "wikilink")：Baby Sweet Berry Love ＆
-Raise（《[變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")》片尾曲／《[Campione
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：Baby Sweet Berry
+Love ＆ Raise（《[變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")》片尾曲／《[Campione
 弒神者！](../Page/Campione_弒神者！.md "wikilink")》片尾曲）／[小倉唯](../Page/小倉唯.md "wikilink")
 
 :\# 混合曲： ＆ Shiny Blue／[唯夏織](../Page/唯夏織.md "wikilink")
@@ -2278,16 +2437,17 @@ Raise（《[變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikil
 :\# （《[CØDE:BREAKER
 法外制裁者](../Page/CØDE:BREAKER_法外制裁者.md "wikilink")》片尾曲）／[鈴村健一](../Page/鈴村健一.md "wikilink")
 
-:\# （音樂節目《[Anison Plus](../Page/Anison_Plus.md "wikilink")》片尾曲38）／鈴村健一
+:\# （音樂節目《[Anison
+Plus](https://zh.wikipedia.org/wiki/Anison_Plus "wikilink")》片尾曲38）／鈴村健一
 
 :\#
 （《[神不在的星期天](../Page/神不在的星期天.md "wikilink")》片尾曲）／[小松未可子](../Page/小松未可子.md "wikilink")
 
 :\# ／小松未可子
 
-:\# [混合曲](../Page/混合曲.md "wikilink")： ＆
-（《[遊戲王ZEXALⅡ](../Page/遊戲王ZEXAL.md "wikilink")》片頭曲／文化放送《碧和彩奈的Peti-Mila廣播》片頭曲）／[petit
-milady](../Page/petit_milady.md "wikilink")（[悠木碧](../Page/悠木碧.md "wikilink")＆[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")： ＆
+（《[遊戲王ZEXALⅡ](https://zh.wikipedia.org/wiki/遊戲王ZEXAL "wikilink")》片頭曲／文化放送《碧和彩奈的Peti-Mila廣播》片頭曲）／[petit
+milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")（[悠木碧](../Page/悠木碧.md "wikilink")＆[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
 
 :\#
 （《[ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")》片尾曲2）／[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
@@ -2298,7 +2458,7 @@ milady](../Page/petit_milady.md "wikilink")（[悠木碧](../Page/悠木碧.md "
 （《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》片尾曲1）／[日笠陽子](../Page/日笠陽子.md "wikilink")
 
 :\#
-（《[JoJo的奇妙冒險](../Page/JoJo的奇妙冒險.md "wikilink")》片頭曲1）／[富永TOMMY弘明](../Page/富永TOMMY弘明.md "wikilink")
+（《[JoJo的奇妙冒險](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")》片頭曲1）／[富永TOMMY弘明](https://zh.wikipedia.org/wiki/富永TOMMY弘明 "wikilink")
 
 :\# BLOODY STREAM（《JoJo的奇妙冒險》片頭曲2）／Coda
 
@@ -2312,7 +2472,8 @@ Birth（《[神不在的星期天](../Page/神不在的星期天.md "wikilink")�
 
 :\# Sha-le-la（OVA動畫《》片頭曲）／喜多村英梨
 
-:\# [混合曲](../Page/混合曲.md "wikilink")：Black Holy ＆ Happy
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：Black Holy ＆
+Happy
 Girl（《[猛烈宇宙海賊](../Page/迷你裙宇宙海賊.md "wikilink")》片尾曲／《[要聽爸爸的話！](../Page/要聽爸爸的話！.md "wikilink")》片頭曲）／小松未可子
 & 喜多村英梨
 
@@ -2329,16 +2490,17 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》插曲）／[南里侑香
 land（《[革命機Valvrave](../Page/革命機Valvrave.md "wikilink")》插曲）／南里侑香
 
 :\# BLOODY HOLIC（《[BLOOD LAD
-血意少年](../Page/BLOOD_LAD_血意少年.md "wikilink")》片尾曲）／南里侑香
+血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")》片尾曲）／南里侑香
 
 :\# （《[歌之王子殿下 真爱2000%](../Page/歌之王子殿下.md "wikilink")》片頭曲）／宮野真守
 
 :\# ULTRA FLY（特攝片《[超人力霸王列傳](../Page/奥特曼列传.md "wikilink")》片頭曲7）／宮野真守
 
 :\# GENESIS
-ARIA（《[革神語](../Page/革神語.md "wikilink")》片頭曲）／[sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+ARIA（《[革神語](../Page/革神語.md "wikilink")》片頭曲）／[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
 
-:\# Pride on Everyday（《[爆漫王。3](../Page/爆漫王。.md "wikilink")》片尾曲）／sphere
+:\# Pride on
+Everyday（《[爆漫王。3](https://zh.wikipedia.org/wiki/爆漫王。 "wikilink")》片尾曲）／sphere
 
 :\# LET・ME・DO\!\!（日劇《》片頭曲）／sphere
 
@@ -2353,7 +2515,8 @@ future（《[變態王子與不笑貓](../Page/變態王子與不笑貓.md "wiki
 
 :\# （《[宇宙戰艦大和號2199 OVA](../Page/宇宙戰艦大和號2199.md "wikilink")》片尾曲7）／水樹奈奈
 
-:\# BRAVE PHOENIX（《[魔法少女奈葉A's](../Page/魔法少女奈葉A's.md "wikilink")》插曲）／水樹奈奈
+:\# BRAVE
+PHOENIX（《[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")》插曲）／水樹奈奈
 
 :\# Vitalization（《[戰姬絕唱SYMPHOGEAR
 G](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》片頭曲）／水樹奈奈
@@ -2366,13 +2529,13 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
 ### Animelo Summer Live 2014 -ONENESS-
 
   - 舉辦日期：2014年8月29日－8月31日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：[Good Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")、[武士道](../Page/武士道_\(公司\).md "wikilink")
+    Company](../Page/Good_Smile_Company.md "wikilink")、[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、[日本哥倫比亞](../Page/日本哥倫比亞.md "wikilink")、[Flying
-    DOG](../Page/Flying_DOG.md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Media
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、[Flying
+    DOG](../Page/Flying_DOG.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Media
     Factory](../Page/Media_Factory.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
     Home Video
   - 企劃：AniSummer Project實行委員會
@@ -2394,11 +2557,11 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
   - [ZAQ](../Page/ZAQ.md "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
   - [sweet
-    ARMS](../Page/sweet_ARMS.md "wikilink")<small>（[野水伊織](../Page/野水伊織.md "wikilink")、[富樫美鈴](../Page/富樫美鈴.md "wikilink")、[佐土原香織](../Page/佐土原香織.md "wikilink")、[味里](../Page/味里.md "wikilink")）</small>
+    ARMS](https://zh.wikipedia.org/wiki/sweet_ARMS "wikilink")<small>（[野水伊織](../Page/野水伊織.md "wikilink")、[富樫美鈴](../Page/富樫美鈴.md "wikilink")、[佐土原香織](../Page/佐土原香織.md "wikilink")、[味里](../Page/味里.md "wikilink")）</small>
   - [茅原實里](../Page/茅原實里.md "wikilink")
-  - [fripSide](../Page/fripSide.md "wikilink")
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
   - [Wake Up, Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")
-  - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")
+  - [STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")
   - [藍井艾露](../Page/藍井艾露.md "wikilink")
   - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
 
@@ -2407,16 +2570,17 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [小野賢章](../Page/小野賢章.md "wikilink")
-  - [艦隊收藏](../Page/艦隊收藏.md "wikilink")<small>（[藤田咲](../Page/藤田咲.md "wikilink")、[野水伊織](../Page/野水伊織.md "wikilink")、[東山奈央](../Page/東山奈央.md "wikilink")）</small>
+  - [艦隊收藏](https://zh.wikipedia.org/wiki/艦隊收藏 "wikilink")<small>（[藤田咲](../Page/藤田咲.md "wikilink")、[野水伊織](../Page/野水伊織.md "wikilink")、[東山奈央](../Page/東山奈央.md "wikilink")）</small>
   - [谷本貴義](../Page/谷本貴義.md "wikilink")
   - [南條愛乃](../Page/南條愛乃.md "wikilink")
-  - [petit milady](../Page/petit_milady.md "wikilink")
+  - [petit
+    milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
   - [9nine](../Page/9nine.md "wikilink")
   - [和田光司](../Page/和田光司.md "wikilink")
-  - [流田Project](../Page/流田Project.md "wikilink")
+  - [流田Project](https://zh.wikipedia.org/wiki/流田Project "wikilink")
   - [Project.R](../Page/Project.R.md "wikilink")<small>（[谷本貴義](../Page/谷本貴義.md "wikilink")、[PSYCHIC
-    LOVER](../Page/YOFFY.md "wikilink")、[鎌田章吾](../Page/鎌田章吾.md "wikilink")）</small>
+    LOVER](https://zh.wikipedia.org/wiki/YOFFY "wikilink")、[鎌田章吾](https://zh.wikipedia.org/wiki/鎌田章吾 "wikilink")）</small>
 
 </div>
 
@@ -2424,18 +2588,19 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [angela](../Page/angela.md "wikilink")
-  - [栗林美奈實](../Page/栗林美奈實.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+  - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
-  - [FLOW](../Page/FLOW.md "wikilink")
+  - [FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
   - [三澤紗千香](../Page/三澤紗千香.md "wikilink")
-  - [三森鈴子](../Page/三森鈴子.md "wikilink")
+  - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
   - [THE
-    IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")<small>（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[沼倉愛美](../Page/沼倉愛美.md "wikilink")）</small>
+    IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")<small>（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[沼倉愛美](../Page/沼倉愛美.md "wikilink")）</small>
   - [THE IDOLM@STER CINDERELLA
-    GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
-  - [THE IDOLM@STER MILLION STARS](../Page/PROJECT_IM@S.md "wikilink")
+    GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
+  - [THE IDOLM@STER MILLION
+    STARS](https://zh.wikipedia.org/wiki/PROJECT_IM@S "wikilink")
 
 </div>
 
@@ -2445,10 +2610,10 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
   - [堀江由衣](../Page/堀江由衣.md "wikilink")
   - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [地獄的沙汰全明星
-    阿仁尊地獄篇](../Page/鬼燈的冷徹.md "wikilink")<small>（[安元洋貴](../Page/安元洋貴.md "wikilink")、[長嶝高士](../Page/長嶝高士.md "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[種崎敦美](../Page/種崎敦美.md "wikilink")、喜多村英梨、[山田榮子](../Page/山田榮子.md "wikilink")、[島本須美](../Page/島本須美.md "wikilink")）</small>
+    阿仁尊地獄篇](../Page/鬼燈的冷徹.md "wikilink")<small>（[安元洋貴](../Page/安元洋貴.md "wikilink")、[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[種崎敦美](../Page/種崎敦美.md "wikilink")、喜多村英梨、[山田榮子](../Page/山田榮子.md "wikilink")、[島本須美](../Page/島本須美.md "wikilink")）</small>
   - [Kalafina](../Page/Kalafina.md "wikilink")
   - [碧琪·瑪姬](../Page/鬼燈的冷徹.md "wikilink")
-  - [fhána](../Page/fhána.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
   - [堀江美都子](../Page/堀江美都子.md "wikilink")
 
 </div>
@@ -2458,25 +2623,25 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [小倉唯](../Page/小倉唯.md "wikilink")
-  - [铃木木乃美](../Page/铃木木乃美.md "wikilink")
+  - [铃木木乃美](https://zh.wikipedia.org/wiki/铃木木乃美 "wikilink")
   - [田村由香里](../Page/田村由香里.md "wikilink")
   - [水樹奈奈](../Page/水樹奈奈.md "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
   - [May'n](../Page/May'n.md "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")
   - [LiSA](../Page/LiSA.md "wikilink")
-  - [Afilia Saga](../Page/Afilia_Saga.md "wikilink")
-  - [μ′s](../Page/LoveLive!.md "wikilink")
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
+  - [μ′s](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [光之美少女夏日彩虹！](../Page/光之美少女系列.md "wikilink")<small>（[五條真由美](../Page/五條真由美.md "wikilink")、[工藤真由](../Page/工藤真由.md "wikilink")、[池田彩](../Page/池田彩.md "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")）</small>
+  - [光之美少女夏日彩虹！](../Page/光之美少女系列.md "wikilink")<small>（[五條真由美](../Page/五條真由美.md "wikilink")、[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")、[池田彩](https://zh.wikipedia.org/wiki/池田彩 "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")）</small>
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
   - [悠木碧](../Page/悠木碧.md "wikilink")
   - [OLDCODEX](../Page/OLDCODEX.md "wikilink")
-  - [橋本仁](../Page/橋本仁.md "wikilink")
+  - [橋本仁](https://zh.wikipedia.org/wiki/橋本仁 "wikilink")
 
 </div>
 
@@ -2488,13 +2653,13 @@ Synchrogazer（《[戰姬絕唱SYMPHOGEAR](../Page/戰姬絕唱SYMPHOGEAR.md "wi
 Project](../Page/JAM_Project.md "wikilink")
 
 :\# Wings of the
-legend（PS2遊戲《[第2次超級機械人大戰OG](../Page/第2次超級機械人大戰OG.md "wikilink")》片頭曲）／JAM
+legend（PS2遊戲《[第2次超級機械人大戰OG](https://zh.wikipedia.org/wiki/第2次超級機械人大戰OG "wikilink")》片頭曲）／JAM
 Project
 
 :\#
-[混合曲](../Page/混合曲.md "wikilink")：Breakthrough～Rocks～（電視動畫《[愚者信長](../Page/愚者信長.md "wikilink")》片頭曲2、PS2遊戲《[超級機械人大戰OG
+[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：Breakthrough～Rocks～（電視動畫《[愚者信長](../Page/愚者信長.md "wikilink")》片頭曲2、PS2遊戲《[超級機械人大戰OG
 ORIGINAL
-GENERATIONS](../Page/超級機械人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")》片頭曲、特攝片《119特警隊救火英雄》片頭曲）／JAM
+GENERATIONS](https://zh.wikipedia.org/wiki/超級機械人大戰OG_ORIGINAL_GENERATIONS "wikilink")》片頭曲、特攝片《119特警隊救火英雄》片頭曲）／JAM
 Project
 
 :\# FOOL THE WORLD（電視動畫《愚者信長》片頭曲1）／[茅原實里](../Page/茅原實里.md "wikilink")
@@ -2512,7 +2677,7 @@ Alteration（電視動畫《[鎖鎖美小姐@不好好努力](../Page/鎖鎖美�
 
 :\# 混合曲：Trust in
 you～（電視動畫《[約會大作戰](../Page/約會大作戰.md "wikilink")》片頭曲、電視動畫《[約會大作戰Ⅱ](../Page/約會大作戰.md "wikilink")》片頭曲）／[sweet
-ARMS](../Page/sweet_ARMS.md "wikilink")
+ARMS](https://zh.wikipedia.org/wiki/sweet_ARMS "wikilink")
 
 :\# 7 Girls War（電視動畫《[Wake Up,
 Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")》片頭曲2）／[Wake Up,
@@ -2521,12 +2686,12 @@ Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")
 :\# （劇場版及電視動畫《Wake Up, Girls\!》主題曲）／Wake Up, Girls\!
 
 :\#
-混合曲：～Signalize\!～（電視動畫《[星夢學園](../Page/星夢學園.md "wikilink")》插曲、片頭曲1、片頭曲2）／[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")
+混合曲：～Signalize\!～（電視動畫《[星夢學園](https://zh.wikipedia.org/wiki/星夢學園 "wikilink")》插曲、片頭曲1、片頭曲2）／[STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")
 
 :\# SHINING LINE\* （電視動畫《星夢學園》片頭曲4）／STAR☆ANIS
 
 :\# [With You/With
-Me](../Page/With_You/With_Me.md "wikilink")（電視動畫《[魔奇少年
+Me](https://zh.wikipedia.org/wiki/With_You/With_Me "wikilink")（電視動畫《[魔奇少年
 The kingdom of
 magic](../Page/魔奇少年.md "wikilink")》片尾曲2）／[9nine](../Page/9nine.md "wikilink")
 
@@ -2534,8 +2699,8 @@ magic](../Page/魔奇少年.md "wikilink")》片尾曲2）／[9nine](../Page/9ni
 （電視動畫《[東京闇鴉](../Page/東京闇鴉.md "wikilink")》片尾曲1）／[南條愛乃](../Page/南條愛乃.md "wikilink")
 
 :\# 混合曲：Dragon Soul～
-Kuu-Zen-Zetsu-Go（電視動畫《[龍珠改](../Page/龍珠改.md "wikilink")》片頭曲、電視動畫《[龍珠改
-魔人布歐篇](../Page/龍珠改.md "wikilink")》片頭曲）／[谷本貴義](../Page/谷本貴義.md "wikilink")
+Kuu-Zen-Zetsu-Go（電視動畫《[龍珠改](https://zh.wikipedia.org/wiki/龍珠改 "wikilink")》片頭曲、電視動畫《[龍珠改
+魔人布歐篇](https://zh.wikipedia.org/wiki/龍珠改 "wikilink")》片頭曲）／[谷本貴義](../Page/谷本貴義.md "wikilink")
 
 :\#
 （特攝片《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》片尾曲）／[Project.R](../Page/Project.R.md "wikilink")
@@ -2548,31 +2713,32 @@ Gravity（電視動畫《[加速世界](../Page/加速世界.md "wikilink")》�
 
 :\# CYBER CYBER／ALTIMA featuring Wake Up, Girls, STAR☆ANIS & 9nine
 
-:\# （電視動畫《[聖鬥士星矢Ω](../Page/聖鬥士星矢Ω.md "wikilink")》片頭曲3）／流田Project
+:\#
+（電視動畫《[聖鬥士星矢Ω](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")》片頭曲3）／流田Project
 
 :\# （電視動畫《[機動戰士GUNDAM
 ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")》片頭曲1）／流田Project
 & Project.R
 
 :\# （電視動畫《[三坪房間的侵略者！？](../Page/三坪房間的侵略者！？.md "wikilink")》片尾曲）／[petit
-milady](../Page/petit_milady.md "wikilink")
+milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 
 :\# ♡／petit milady
 
 :\# ／[艦隊收藏
-第一航空戰隊](../Page/艦隊收藏.md "wikilink")（[野水伊織](../Page/野水伊織.md "wikilink")、[藤田咲](../Page/藤田咲.md "wikilink")）
+第一航空戰隊](https://zh.wikipedia.org/wiki/艦隊收藏 "wikilink")（[野水伊織](../Page/野水伊織.md "wikilink")、[藤田咲](../Page/藤田咲.md "wikilink")）
 
 :\# ／[艦隊收藏
-金剛型高速戰艦](../Page/艦隊收藏.md "wikilink")（[東山奈央](../Page/東山奈央.md "wikilink")）
+金剛型高速戰艦](https://zh.wikipedia.org/wiki/艦隊收藏 "wikilink")（[東山奈央](../Page/東山奈央.md "wikilink")）
 
 :\# FANTASTIC TUNE（電視動畫《[幻影籃球王
-第2期](../Page/幻影籃球王.md "wikilink")》片尾曲2）／[小野賢章](../Page/小野賢章.md "wikilink")　
+第2期](https://zh.wikipedia.org/wiki/幻影籃球王 "wikilink")》片尾曲2）／[小野賢章](../Page/小野賢章.md "wikilink")　
 
 :\#
-Butter-Fly（電視動畫《[數碼暴龍大冒險](../Page/數碼暴龍大冒險.md "wikilink")》片頭曲）／[和田光司](../Page/和田光司.md "wikilink")
+Butter-Fly（電視動畫《[數碼暴龍大冒險](https://zh.wikipedia.org/wiki/數碼暴龍大冒險 "wikilink")》片頭曲）／[和田光司](../Page/和田光司.md "wikilink")
 
 :\#
-IGNITE（電視動畫《[刀劍神域Ⅱ](../Page/刀劍神域.md "wikilink")》片頭曲）／[藍井艾露](../Page/藍井艾露.md "wikilink")
+IGNITE（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲）／[藍井艾露](../Page/藍井艾露.md "wikilink")
 
 :\# （電視動畫《[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")》片頭曲）／藍井艾露
 
@@ -2583,25 +2749,26 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》片頭曲3）／藍井艾
 X-encounter（電視動畫《[東京闇鴉](../Page/東京闇鴉.md "wikilink")》片頭曲1）／[黑崎真音](../Page/黑崎真音.md "wikilink")
 
 :\# [sister's
-noise](../Page/sister's_noise.md "wikilink")（電視動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／[fripSide](../Page/fripSide.md "wikilink")
+noise](https://zh.wikipedia.org/wiki/sister's_noise "wikilink")（電視動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\# [black
-bullet](../Page/black_bullet.md "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／fripSide
+bullet](https://zh.wikipedia.org/wiki/black_bullet "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／fripSide
 
 :\# [only my
-railgun](../Page/only_my_railgun.md "wikilink")（電視動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／fripSide
+railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")（電視動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲1）／fripSide
 
 :\# [WHITE
 BREATH](../Page/WHITE_BREATH.md "wikilink")／[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
 
-:\# [INVOKE](../Page/INVOKE.md "wikilink")（電視動畫《[機動戰士GUNDAM
+:\#
+[INVOKE](https://zh.wikipedia.org/wiki/INVOKE "wikilink")（電視動畫《[機動戰士GUNDAM
 SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》片頭曲1）／T.M.Revolution
 
 :\# ignited --（電視動畫《[機動戰士GUNDAM SEED
 DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》片頭曲1）／T.M.Revolution
 
 :\# [HEART OF SWORD
-〜夜明け前〜](../Page/HEART_OF_SWORD_～夜明之前～.md "wikilink")（電視動畫《[浪客劍心](../Page/浪客劍心.md "wikilink")》片尾曲3）／T.M.Revolution
+〜夜明け前〜](../Page/HEART_OF_SWORD_～夜明之前～.md "wikilink")（電視動畫《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》片尾曲3）／T.M.Revolution
 
 :\# EN-1 OUTRIDE（2006年主題曲）
 
@@ -2613,12 +2780,12 @@ DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》片頭曲1）�
 GRANRODEO
 
 :\# COLORS（電視動畫《[Code
-Geass反叛的魯路修](../Page/Code_Geass反叛的魯路修.md "wikilink")》片頭曲1）／[FLOW](../Page/FLOW.md "wikilink")
+Geass反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")》片頭曲1）／[FLOW](https://zh.wikipedia.org/wiki/FLOW "wikilink")
 
 :\# （電視動畫《[武士弗拉明戈](../Page/武士弗拉明戈.md "wikilink")》片頭曲2）／FLOW
 
 :\# [MOON
-PRIDE](../Page/MOON_PRIDE.md "wikilink")（電視動畫《[美少女戰士Crystal](../Page/美少女戰士Crystal.md "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
+PRIDE](../Page/MOON_PRIDE.md "wikilink")（電視動畫《[美少女戰士Crystal](https://zh.wikipedia.org/wiki/美少女戰士Crystal "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
 
 :\# 月虹（電視動畫《美少女戰士Crystal》片尾曲）／桃色幸運草Z
 
@@ -2626,17 +2793,17 @@ PRIDE](../Page/MOON_PRIDE.md "wikilink")（電視動畫《[美少女戰士Crysta
 亞空的深淵](../Page/迷你裙宇宙海賊.md "wikilink")》片頭曲）／桃色幸運草Z
 
 :\# （電視動畫《[萌萌侵略者 OUTBREAK
-COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")》片頭曲）／[三森鈴子](../Page/三森鈴子.md "wikilink")
+COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")》片頭曲）／[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
 
 :\# （電視動畫《[修業魔女璐璐萌](../Page/修業魔女璐璐萌.md "wikilink")》片頭曲）／三森鈴子
 
 :\# （電視動畫《[白銀的意志
-ARGEVOLLEN](../Page/白銀的意志_ARGEVOLLEN.md "wikilink")》片尾曲）／[三澤纱千香](../Page/三澤纱千香.md "wikilink")
+ARGEVOLLEN](https://zh.wikipedia.org/wiki/白銀的意志_ARGEVOLLEN "wikilink")》片尾曲）／[三澤纱千香](https://zh.wikipedia.org/wiki/三澤纱千香 "wikilink")
 
 :\# （電視動畫《[加速世界](../Page/加速世界.md "wikilink")》片尾曲2）／三澤纱千香
 
 :\#
-（電視動畫《[我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")》片頭曲）／[fhána](../Page/fhána.md "wikilink")
+（電視動畫《[我們大家的河合莊](https://zh.wikipedia.org/wiki/我們大家的河合莊 "wikilink")》片頭曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
 :\# divine
 intervention（電視動畫《[魔女的使命](../Page/魔女的使命.md "wikilink")》片頭曲）／fhána
@@ -2650,23 +2817,24 @@ Animation-](../Page/單色小姐_-The_Animation-.md "wikilink")》主題曲）�
 Time～♡（電視動畫《[青春紀行](../Page/青春紀行.md "wikilink")》片頭曲1、片尾曲2）／堀江由衣
 
 :\#
-混合曲：～～～（電視動畫《[小甜甜](../Page/小甜甜.md "wikilink")》片頭曲、電視動畫《[小魔鏡](../Page/小魔鏡.md "wikilink")
+混合曲：～～～（電視動畫《[小甜甜](../Page/小甜甜.md "wikilink")》片頭曲、電視動畫《[小魔鏡](https://zh.wikipedia.org/wiki/小魔鏡 "wikilink")
 第2作》片頭曲、電視動畫《[花仙子](../Page/花仙子.md "wikilink")》片頭曲、電視動畫《[海螺小姐](../Page/海螺小姐.md "wikilink")》片頭曲1）／[堀江美都子](../Page/堀江美都子.md "wikilink")
 
-:\# （電視動畫《[噴嚏大魔王](../Page/噴嚏大魔王.md "wikilink")》片尾曲）／堀江美都子 featuring
-桃色幸運草Z
+:\#
+（電視動畫《[噴嚏大魔王](https://zh.wikipedia.org/wiki/噴嚏大魔王 "wikilink")》片尾曲）／堀江美都子
+featuring 桃色幸運草Z
 
 :\# moving soul（電視動畫《[Fate/kaleid liner 魔法少女☆伊莉雅
-2wei](../Page/Fate/kaleid_liner_魔法少女☆伊莉雅.md "wikilink")》片頭曲）／[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+2wei](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")》片頭曲）／[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 :\# Shining☆Days（電視動畫《[舞-HiME](../Page/舞-HiME.md "wikilink")》片頭曲）／栗林美奈實
 
 :\# （電視動畫《[機動戰士GUNDAM00 2nd
-Season](../Page/機動戰士GUNDAM00.md "wikilink")》片頭曲1）／栗林美奈實 &
-angela
+Season](https://zh.wikipedia.org/wiki/機動戰士GUNDAM00 "wikilink")》片頭曲1）／栗林美奈實
+& angela
 
 :\# ／[地獄的沙汰全明星
-阿仁尊地獄篇](../Page/鬼燈的冷徹.md "wikilink")（[安元洋貴](../Page/安元洋貴.md "wikilink")、[長嶝高士](../Page/長嶝高士.md "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[種崎敦美](../Page/種崎敦美.md "wikilink")、[喜多村英梨](../Page/喜多村英梨.md "wikilink")）
+阿仁尊地獄篇](../Page/鬼燈的冷徹.md "wikilink")（[安元洋貴](../Page/安元洋貴.md "wikilink")、[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")、[青山桐子](../Page/青山桐子.md "wikilink")、[小林由美子](../Page/小林由美子.md "wikilink")、[種崎敦美](../Page/種崎敦美.md "wikilink")、[喜多村英梨](../Page/喜多村英梨.md "wikilink")）
 
 :\#
 （電視動畫《[鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")》片尾曲3）／[碧琪·瑪姬](../Page/鬼燈的冷徹.md "wikilink")
@@ -2675,41 +2843,42 @@ angela
 阿仁尊地獄篇（安元洋貴、長嶝高士、青山桐子、小林由美子、種崎敦美、喜多村英梨、[山田榮子](../Page/山田榮子.md "wikilink")、[島本須美](../Page/島本須美.md "wikilink")）
 
 :\# READY\!\!（電視動畫《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》片頭曲1）／[THE
-IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")
+IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")
 
 :\# ／[THE IDOLM@STER CINDERELLA
-GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
+GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
 
 :\# Thank You\!／[THE IDOLM@STER MILLION
-STARS](../Page/PROJECT_IM@S.md "wikilink")
+STARS](https://zh.wikipedia.org/wiki/PROJECT_IM@S "wikilink")
 
 :\# M@STERPIECE／THE IDOLM@STER THREE STARS\!\!\!
 
-:\# [to the beginning](../Page/to_the_beginning.md "wikilink")
+:\# [to the
+beginning](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")
 （電視動畫《[Fate/Zero
-第二季](../Page/Fate/Zero.md "wikilink")》片頭曲）／[Kalafina](../Page/Kalafina.md "wikilink")
+第二季](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲）／[Kalafina](../Page/Kalafina.md "wikilink")
 
 :\# [君の銀の庭](../Page/銀色庭園.md "wikilink") （劇場版動畫《\[\[劇場版_魔法少女小圓|魔法少女小圓
 \[新編\] 叛逆的物語\]\]》片尾曲）／Kalafina
 
 :\# [heavenly
-blue](../Page/heavenly_blue.md "wikilink")（電視動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》片頭曲）／Kalafina
+blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")（電視動畫《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》片頭曲）／Kalafina
 
 :\# 掌
--show-（電視動畫《[銀河騎士傳](../Page/銀河騎士傳.md "wikilink")》片尾曲）／[喜多村英梨](../Page/喜多村英梨.md "wikilink")
+-show-（電視動畫《[銀河騎士傳](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》片尾曲）／[喜多村英梨](../Page/喜多村英梨.md "wikilink")
 
 :\#
 [Birth](../Page/Birth_\(喜多村英梨單曲\).md "wikilink")（電視動畫《[神不在的星期天](../Page/神不在的星期天.md "wikilink")》片頭曲）／喜多村英梨
 
 :\# Different colors（劇場版動畫《[K MISSING
-KINGS](../Page/K_\(動畫\).md "wikilink")》主題曲）／[angela](../Page/angela.md "wikilink")
+KINGS](../Page/K_\(動畫\).md "wikilink")》主題曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 :\# Shangri-La（電視動畫《[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／angela
 
 :\# （電視動畫《銀河騎士傳》片頭曲）／angela
 
 :\# （電視動畫《[幻影籃球王
-第2期](../Page/幻影籃球王.md "wikilink")》片頭曲2）／[GRANRODEO](../Page/GRANRODEO.md "wikilink")
+第2期](https://zh.wikipedia.org/wiki/幻影籃球王 "wikilink")》片頭曲2）／[GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 :\# ／GRANRODEO
 
@@ -2730,21 +2899,21 @@ Roses](../Page/Preserved_Roses.md "wikilink")（電視動畫《[革命機Valvrav
 第2期](../Page/革命機Valvrave.md "wikilink")》片頭曲）／水樹奈奈×T.M.Revolution
 
 :\#
-（電視動畫《[香格里拉](../Page/香格里拉_\(科幻小說\).md "wikilink")》片頭曲）／[May'n](../Page/May'n.md "wikilink")
+（電視動畫《[香格里拉](https://zh.wikipedia.org/wiki/香格里拉_\(科幻小說\) "wikilink")》片頭曲）／[May'n](../Page/May'n.md "wikilink")
 featuring Daichi
 
 :\#
-Re:REMEMBER（電視動畫《[M3〜其為黑鋼〜](../Page/M3〜其為黑鋼〜.md "wikilink")》片頭曲1）／May'n
+Re:REMEMBER（電視動畫《[M3〜其為黑鋼〜](https://zh.wikipedia.org/wiki/M3〜其為黑鋼〜 "wikilink")》片頭曲1）／May'n
 
 :\# （電視動畫《[狐仙的戀愛入門](../Page/狐仙的戀愛入門.md "wikilink")》片頭曲）／May'n
 
 :\# （電視動畫《[世界征服
-謀略之星](../Page/世界征服_謀略之星.md "wikilink")》片尾曲）／[悠木碧](../Page/悠木碧.md "wikilink")
+謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")》片尾曲）／[悠木碧](../Page/悠木碧.md "wikilink")
 
 :\# （電視動畫《[如果折斷她的旗](../Page/如果折斷她的旗.md "wikilink")》片頭曲）／悠木碧
 
 :\# （電視動畫《[我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")》片頭曲）／[Afilia
-Saga](../Page/Afilia_Saga.md "wikilink")
+Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
 :\# ／Afilia Saga featuring
 
@@ -2755,11 +2924,14 @@ Smile（電視動畫《[最近，妹妹的樣子有點怪？](../Page/最近，�
 :\# 混合曲：PUPPY LOVE\!\! ～ Intro
 Situation／[唯夏織](../Page/唯夏織.md "wikilink")
 
-:\# （電視動畫《[T寶的悲慘日常](../Page/T寶的悲慘日常.md "wikilink")》片頭曲）／田村由香里 & 宮野真守
+:\#
+（電視動畫《[T寶的悲慘日常](https://zh.wikipedia.org/wiki/T寶的悲慘日常 "wikilink")》片頭曲）／田村由香里
+& 宮野真守
 
 :\# Anisama 10th Special Medley（前半）：[This
-game](../Page/This_game.md "wikilink")～CHOIR JAIL～（電視動畫《[NO GAME NO LIFE
-遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")》片頭曲、電視動畫《[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")》片頭曲、電視動畫《[我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")》片頭曲）／[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+game](https://zh.wikipedia.org/wiki/This_game "wikilink")～CHOIR
+JAIL～（電視動畫《[NO GAME NO LIFE
+遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")》片頭曲、電視動畫《[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")》片頭曲、電視動畫《[我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")》片頭曲）／[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 :\# Anisama 10th Special Medley（後半）：AVENGE WORLD～DAYS of DASH～This
 game（電視動畫《[結界女王
@@ -2772,15 +2944,15 @@ Heaven（遊戲《[命運石之門](../Page/命運石之門.md "wikilink")》主
 :\# Hacking to the Gate（電視動畫《命運石之門》片頭曲）／伊藤香奈子 & 鈴木木乃美
 
 :\# STAND PROUD（電視動畫《[JoJo的奇妙冒險
-星塵鬥士](../Page/JoJo的奇妙冒險.md "wikilink")》片頭曲）／橋本仁
+星塵鬥士](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")》片頭曲）／橋本仁
 
 :\# [Rising
-Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](../Page/魔法科高中的劣等生.md "wikilink")》片頭曲1）／[LiSA](../Page/LiSA.md "wikilink")
+Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》片頭曲1）／[LiSA](../Page/LiSA.md "wikilink")
 
 :\# （電視動畫《[目隱都市的演繹者](../Page/陽炎計劃.md "wikilink")》插曲）／LiSA
 
 :\# [crossing
-field](../Page/crossing_field.md "wikilink")（電視動畫《[刀劍神域](../Page/刀劍神域.md "wikilink")》片頭曲）／LiSA
+field](https://zh.wikipedia.org/wiki/crossing_field "wikilink")（電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲）／LiSA
 
 :\# （電視動畫《[Happiness Charge
 光之美少女！](../Page/Happiness_Charge_光之美少女！.md "wikilink")》片頭曲）／[仲谷明香](../Page/仲谷明香.md "wikilink")
@@ -2794,15 +2966,15 @@ Heart](../Page/光之美少女.md "wikilink")》片頭曲）／[五條真由美]
 :\# 混合曲：／[光之美少女夏日彩虹！](../Page/光之美少女系列.md "wikilink")　
 
 :\# （電視動畫《[LoveLive\!
-第2期](../Page/LoveLive!.md "wikilink")》片頭曲）／[μ's](../Page/LoveLive!.md "wikilink")
+第2期](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》片頭曲）／[μ's](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
 
 :\# Snow halation（電視動畫《LoveLive\! 第2期》插曲）／μ's
 
 :\# No brand
-girls（電視動畫《[LoveLive\!](../Page/LoveLive!.md "wikilink")》插曲）／μ's
+girls（電視動畫《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》插曲）／μ's
 
 :\# WALK（電視動畫《[幻影籃球王
-第2期](../Page/幻影籃球王.md "wikilink")》片尾曲1）／[OLDCODEX](../Page/OLDCODEX.md "wikilink")
+第2期](https://zh.wikipedia.org/wiki/幻影籃球王 "wikilink")》片尾曲1）／[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
 :\# Dried Up Youthful Fame（電視動畫《[Free\!-Eternal
 Summer-](../Page/Free!.md "wikilink")》片頭曲）／OLDCODEX
@@ -2811,7 +2983,7 @@ Summer-](../Page/Free!.md "wikilink")》片頭曲）／OLDCODEX
 on](../Page/Rage_on.md "wikilink")（電視動畫《[Free\!](../Page/Free!.md "wikilink")》片頭曲）／OLDCODEX
 
 :\# NEW ORDER（電視動畫《[T寶的悲慘日常
-覺醒篇](../Page/T寶的悲慘日常.md "wikilink")》片頭曲）／[宮野真守](../Page/宮野真守.md "wikilink")
+覺醒篇](https://zh.wikipedia.org/wiki/T寶的悲慘日常 "wikilink")》片頭曲）／[宮野真守](../Page/宮野真守.md "wikilink")
 
 :\# （電視動畫《[歌之王子殿下2000%](../Page/歌之王子殿下.md "wikilink")》片頭曲）／宮野真守
 
@@ -2831,7 +3003,8 @@ Dark](../Page/BLOOD-C.md "wikilink")》主題曲）／水樹奈奈
 :\# BRIGHT STREAM（劇場版動畫《[魔法少女奈葉 The MOVIE 2nd
 A's](../Page/魔法少女奈葉_The_MOVIE_2nd_A's.md "wikilink")》片頭曲）／水樹奈奈
 
-:\# TRANSMIGRATION／水樹奈奈 & [奥井雅美](../Page/奥井雅美.md "wikilink")
+:\# TRANSMIGRATION／水樹奈奈 &
+[奥井雅美](https://zh.wikipedia.org/wiki/奥井雅美 "wikilink")
 
 :\# EN-1 Generation-A（2007年主題曲）
 
@@ -2847,18 +3020,18 @@ A's](../Page/魔法少女奈葉_The_MOVIE_2nd_A's.md "wikilink")》片頭曲）�
   - [奧井雅美](../Page/奧井雅美.md "wikilink")
   - [北谷洋](../Page/北谷洋.md "wikilink")
   - [彩音](../Page/彩音.md "wikilink")
-  - [橋本仁](../Page/橋本仁.md "wikilink")
+  - [橋本仁](https://zh.wikipedia.org/wiki/橋本仁 "wikilink")
   - [Ray](../Page/Ray_\(歌手\).md "wikilink")
   - [春奈露娜](../Page/春奈露娜.md "wikilink")
   - [上坂堇](../Page/上坂堇.md "wikilink")
-  - [鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
-  - [Afilia Saga](../Page/Afilia_Saga.md "wikilink")
+  - [鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
+  - [Afilia Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
 
 #### 演唱歌曲一覽
 
 :\# Get
-along（電視動畫《[秀逗魔導士](../Page/秀逗魔導士.md "wikilink")》片頭曲）／[奧井雅美](../Page/奧井雅美.md "wikilink")×[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+along（電視動畫《[秀逗魔導士](../Page/秀逗魔導士.md "wikilink")》片頭曲）／[奧井雅美](../Page/奧井雅美.md "wikilink")×[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 :\# ～for a
 yours～（電視動畫《[滴骰孖妹聖誕歷奇](../Page/Di_Gi_Charat.md "wikilink")》片頭曲）／奧井雅美
@@ -2871,14 +3044,14 @@ yours～（電視動畫《[滴骰孖妹聖誕歷奇](../Page/Di_Gi_Charat.md "wi
 :\# （劇場版動畫《[命運石之門 負荷領域的既視感](../Page/命運石之門.md "wikilink")》片尾曲）／彩音
 
 :\#
-lull～～（電視動畫《[來自風平浪靜的明天](../Page/來自風平浪靜的明天.md "wikilink")》片頭曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
+lull～～（電視動畫《[來自風平浪靜的明天](https://zh.wikipedia.org/wiki/來自風平浪靜的明天 "wikilink")》片頭曲）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
 
 :\# （電視動畫《[在那個夏天等待 特別編](../Page/在那個夏天等待.md "wikilink")》片頭曲）／Ray
 
 :\# （遊戲《To LOVE Darkness 戰鬥絕頂》主題曲）／Ray
 
 :\# S・M・L☆（電視動畫《[我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")》片頭曲）／[Afilia
-Saga](../Page/Afilia_Saga.md "wikilink")
+Saga](https://zh.wikipedia.org/wiki/Afilia_Saga "wikilink")
 
 :\# ／Afilia Saga feat.
 
@@ -2891,10 +3064,10 @@ YES\!\!（電視動畫《[生存遊戲社](../Page/生存遊戲社.md "wikilink"
 第二季](../Page/物語系列_第二季.md "wikilink")》片尾曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
 :\#
-[Startear](../Page/Startear.md "wikilink")（電視動畫《[刀劍神域II](../Page/刀劍神域.md "wikilink")》片尾曲）／春奈露娜
+[Startear](../Page/Startear.md "wikilink")（電視動畫《[刀劍神域II](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲）／春奈露娜
 
 :\# [secret base ～君がくれたもの～（10 years after
-Ver.）](../Page/secret_base_～你給我的東西～_\(10_years_after_Ver.\).md "wikilink")（電視動畫《[我們仍未知道那天所看見的花名。](../Page/我們仍未知道那天所看見的花名。.md "wikilink")》片尾曲）／春奈露娜×Ray×彩音
+Ver.）](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～_\(10_years_after_Ver.\) "wikilink")（電視動畫《[我們仍未知道那天所看見的花名。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花名。 "wikilink")》片尾曲）／春奈露娜×Ray×彩音
 
 :\#
 （電視動畫《[人魚又上鉤](../Page/人魚又上鉤.md "wikilink")》片頭曲）／[上坂堇](../Page/上坂堇.md "wikilink")
@@ -2911,7 +3084,7 @@ Ver.）](../Page/secret_base_～你給我的東西～_\(10_years_after_Ver.\).md
 :\# （電視動畫《[洛克人EXE](../Page/洛克人EXE_\(動畫\).md "wikilink")》片頭曲）／橋本仁
 
 :\# This game ～ CHOIR JAIL ～ （電視動畫《[NO GAME NO LIFE
-遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")》片頭曲、《[黃昏少女×遺失記憶](../Page/黃昏少女×遺失記憶.md "wikilink")》片頭曲、《[我不受歡迎，怎麼想都是你們的錯](../Page/我不受歡迎，怎麼想都是你們的錯.md "wikilink")》片頭曲）／鈴木木乃美
+遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")》片頭曲、《[黃昏少女×遺失記憶](https://zh.wikipedia.org/wiki/黃昏少女×遺失記憶 "wikilink")》片頭曲、《[我不受歡迎，怎麼想都是你們的錯](https://zh.wikipedia.org/wiki/我不受歡迎，怎麼想都是你們的錯 "wikilink")》片頭曲）／鈴木木乃美
 
 :\# AVENGE WORLD ～ DAYS of DASH ～ This game（電視動畫《[結界女王
 震顫](../Page/結界女王.md "wikilink")》片頭曲、《[櫻花莊的寵物女孩](../Page/櫻花莊的寵物女孩.md "wikilink")》片尾曲1、《NO
@@ -2936,14 +3109,14 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 ### Animelo Summer Live 2015 -THE GATE-
 
   - 舉辦日期：2015年8月28日－8月30日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：LIVE DAM STADIUM、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
     II
-    entertainment、[日本哥倫比亞](../Page/日本哥倫比亞.md "wikilink")、FRAME、[武士道](../Page/武士道_\(公司\).md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
+    entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、FRAME、[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
     Home Video
   - 企劃：AniSummer Project實行委員會
   - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")
@@ -2952,10 +3125,10 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 #### 主題曲
 
   - 「, THE GATE\!\!」
-    作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")，作曲、編曲：渡邊和紀
+    作詞：[畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")，作曲、編曲：渡邊和紀
 
   - 主唱:
-    [i☆Ris](../Page/i☆Ris.md "wikilink")、[angela](../Page/angela.md "wikilink")、[井口裕香](../Page/井口裕香.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[内田彩](../Page/内田彩.md "wikilink")、[内田真礼](../Page/内田真礼.md "wikilink")、[小野賢章](../Page/小野賢章.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[黒崎真音](../Page/黒崎真音.md "wikilink")、[昆夏美](../Page/昆夏美.md "wikilink")、[ZAQ](../Page/ZAQ.md "wikilink")、[鈴木このみ](../Page/鈴木このみ.md "wikilink")、[TRUSTRICK](../Page/TRUSTRICK.md "wikilink")、[西沢幸奏](../Page/西沢幸奏.md "wikilink")、[Pile](../Page/Pile.md "wikilink")、[春奈るな](../Page/春奈るな.md "wikilink")、[ミルキィホームズ](../Page/ミルキィホームズ.md "wikilink")、[ゆいかおり](../Page/ゆいかおり.md "wikilink")
+    [i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")、[angela](https://zh.wikipedia.org/wiki/angela "wikilink")、[井口裕香](../Page/井口裕香.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")、[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[小野賢章](../Page/小野賢章.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[黒崎真音](https://zh.wikipedia.org/wiki/黒崎真音 "wikilink")、[昆夏美](https://zh.wikipedia.org/wiki/昆夏美 "wikilink")、[ZAQ](../Page/ZAQ.md "wikilink")、[鈴木このみ](https://zh.wikipedia.org/wiki/鈴木このみ "wikilink")、[TRUSTRICK](https://zh.wikipedia.org/wiki/TRUSTRICK "wikilink")、[西沢幸奏](https://zh.wikipedia.org/wiki/西沢幸奏 "wikilink")、[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")、[春奈るな](https://zh.wikipedia.org/wiki/春奈るな "wikilink")、[ミルキィホームズ](https://zh.wikipedia.org/wiki/ミルキィホームズ "wikilink")、[ゆいかおり](https://zh.wikipedia.org/wiki/ゆいかおり "wikilink")
 
 #### 出演者
 
@@ -2964,13 +3137,13 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [THE
-    IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")<small>（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[淺倉杏美](../Page/淺倉杏美.md "wikilink")、[原由實](../Page/原由實.md "wikilink")、[沼倉愛美](../Page/沼倉愛美.md "wikilink")）</small>
+    IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")<small>（[中村繪里子](../Page/中村繪里子.md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[淺倉杏美](../Page/淺倉杏美.md "wikilink")、[原由實](../Page/原由實.md "wikilink")、[沼倉愛美](../Page/沼倉愛美.md "wikilink")）</small>
   - [井口裕香](../Page/井口裕香.md "wikilink")
   - [King Cream
     Soda](../Page/King_Cream_Soda.md "wikilink")（**特別演出，不收錄於影碟內**）
-  - [鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+  - [鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
   - [春奈露娜](../Page/春奈露娜.md "wikilink")
-  - [μ′s](../Page/LoveLive!.md "wikilink")
+  - [μ′s](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
   - [桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
   - [LiSA](../Page/LiSA.md "wikilink")
   - [Ray](../Page/Ray_\(歌手\).md "wikilink")
@@ -2980,7 +3153,7 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [オーイシマサヨシ](../Page/オーイシマサヨシ.md "wikilink")
+  - [オーイシマサヨシ](https://zh.wikipedia.org/wiki/オーイシマサヨシ "wikilink")
 
   -
   - [野水伊織](../Page/野水伊織.md "wikilink")
@@ -3001,15 +3174,15 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [THE IDOLM@STER CINDERELLA
-    GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
-  - [i☆Ris](../Page/i☆Ris.md "wikilink")
-  - [angela](../Page/angela.md "wikilink")
+    GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
+  - [i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [川田真美](../Page/川田真美.md "wikilink")
-  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
+  - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
   - [SCREEN mode](../Page/SCREEN_mode.md "wikilink")
-  - [sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
-  - [Milky Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")
+  - [Milky Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")
   - [分島花音](../Page/分島花音.md "wikilink")
   - [今井麻美](../Page/今井麻美.md "wikilink")
 
@@ -3017,16 +3190,16 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [内田彩](../Page/内田彩.md "wikilink")
-  - [Pile](../Page/Pile.md "wikilink")
+  - [内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")
+  - [Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")
   - [藍井艾露](../Page/藍井艾露.md "wikilink")（因病辭演）\[1\]
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
   - [ChouCho](../Page/ChouCho.md "wikilink")
   - [七森中☆娛樂部](../Page/輕鬆百合.md "wikilink")
   - カスタマイZ
-  - [3年E班](../Page/暗殺教室.md "wikilink")<small>［渚（[淵上舞](../Page/淵上舞.md "wikilink")）＆茅野（[洲崎綾](../Page/洲崎綾.md "wikilink")）＆業（[岡本信彥](../Page/岡本信彥.md "wikilink")）＆磯貝（[逢坂良太](../Page/逢坂良太.md "wikilink")）＆岡野（[田中美海](../Page/田中美海.md "wikilink")）＆杉野（[山谷祥生](../Page/山谷祥生.md "wikilink")）］</small>
+  - [3年E班](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")<small>［渚（[淵上舞](https://zh.wikipedia.org/wiki/淵上舞 "wikilink")）＆茅野（[洲崎綾](../Page/洲崎綾.md "wikilink")）＆業（[岡本信彥](../Page/岡本信彥.md "wikilink")）＆磯貝（[逢坂良太](../Page/逢坂良太.md "wikilink")）＆岡野（[田中美海](../Page/田中美海.md "wikilink")）＆杉野（[山谷祥生](../Page/山谷祥生.md "wikilink")）］</small>
   - [南條愛乃](../Page/南條愛乃.md "wikilink")
-  - [fripSide](../Page/fripSide.md "wikilink")（特別嘉賓）
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（特別嘉賓）
 
 </div>
 
@@ -3040,10 +3213,10 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
   - [小野賢章](../Page/小野賢章.md "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [ZAQ](../Page/ZAQ.md "wikilink")
-  - [JO☆STARS](../Page/JoJo的奇妙冒險.md "wikilink")
+  - [JO☆STARS](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")
     〜TOMMY,Coda,JIN〜<small>（富永TOMMY弘明、Coda、橋本仁）</small>
   - [茅原實里](../Page/茅原實里.md "wikilink")
-  - [fhána](../Page/fhána.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")
 
 </div>
@@ -3052,11 +3225,11 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
 
-  - [新田恵海](../Page/新田恵海.md "wikilink")
+  - [新田恵海](https://zh.wikipedia.org/wiki/新田恵海 "wikilink")
 
   - [Kalafina](../Page/Kalafina.md "wikilink")
 
-  - [てさプルん♪](../Page/摸索吧！部活劇.md "wikilink")
+  - [てさプルん♪](https://zh.wikipedia.org/wiki/摸索吧！部活劇 "wikilink")
 
   - [Wake Up, Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")
 
@@ -3075,16 +3248,16 @@ GAME NO LIFE 遊戲人生》片頭曲）／鈴木木乃美
 :; 8月28日
 
 :\#
-[混合曲](../Page/混合曲.md "wikilink")：READY\!\!～（電視動畫《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》片頭曲、電視動畫《[LoveLive\!](../Page/LoveLive!.md "wikilink")》片頭曲）／[THE
-IDOLM@STER](../Page/THE_IDOLM@STER.md "wikilink")×[μ′s](../Page/LoveLive!.md "wikilink")
+[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：READY\!\!～（電視動畫《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》片頭曲、電視動畫《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》片頭曲）／[THE
+IDOLM@STER](https://zh.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")×[μ′s](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")
 
 :\# 混合曲：Wonderful Rush～～No brand girls～GO MY
-WAY\!\!（[μ's](../Page/LoveLive!.md "wikilink") 5th
-Single、電視動畫《偶像大師》插曲、電視動畫《LoveLive\!》插曲、電視動畫《偶像大師》片尾曲）／THE
-IDOLM@STER×μ′s
+WAY\!\!（[μ's](https://zh.wikipedia.org/wiki/LoveLive! "wikilink") 5th
+Single、電視動畫《偶像大師》插曲、電視動畫《LoveLive\!》插曲、電視動畫《偶像大師》片尾曲）／THE IDOLM@STER×μ′s
 
-:\# （電視動畫《[妖怪手錶](../Page/妖怪手錶.md "wikilink")》片頭曲4）／[King Cream
-Soda](../Page/King_Cream_Soda.md "wikilink")
+:\#
+（電視動畫《[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")》片頭曲4）／[King
+Cream Soda](../Page/King_Cream_Soda.md "wikilink")
 
 :\# （電視動畫《妖怪手錶》片頭曲）／King Cream Soda
 
@@ -3099,7 +3272,7 @@ BATTLE](../Page/棺姬嘉依卡.md "wikilink")》片頭曲）／[野水伊織](.
 D.O.B.（電視動畫《[空戰魔導士培訓生的教官](../Page/空戰魔導士培訓生的教官.md "wikilink")》片頭曲）／野水伊織
 
 :\# Hey
-World（電視動畫《[在地下城尋求邂逅是否搞錯了什麼](../Page/在地下城尋求邂逅是否搞錯了什麼.md "wikilink")》片頭曲）／[井口裕香](../Page/井口裕香.md "wikilink")
+World（電視動畫《[在地下城尋求邂逅是否搞錯了什麼](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")》片頭曲）／[井口裕香](../Page/井口裕香.md "wikilink")
 
 :\# Grow Slowly（電視動畫《[科學超電磁砲S](../Page/科學超電磁砲.md "wikilink")》片尾曲）／井口裕香
 
@@ -3107,7 +3280,7 @@ World（電視動畫《[在地下城尋求邂逅是否搞錯了什麼](../Page/�
 Rolling\!（電視動畫《[蘿球社！SS](../Page/蘿球社！.md "wikilink")》片尾曲）／井口裕香×[Ray](../Page/Ray_\(歌手\).md "wikilink")
 
 :\# ebb and
-flow（電視動畫《[來自風平浪靜的明天](../Page/來自風平浪靜的明天.md "wikilink")》片頭曲2）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
+flow（電視動畫《[來自風平浪靜的明天](https://zh.wikipedia.org/wiki/來自風平浪靜的明天 "wikilink")》片頭曲2）／[Ray](../Page/Ray_\(歌手\).md "wikilink")
 
 :\# secret
 arms（電視動畫《[出包王女DARKNESS](../Page/出包王女.md "wikilink")》第2期片頭曲）／Ray
@@ -3134,9 +3307,10 @@ arms（電視動畫《[出包王女DARKNESS](../Page/出包王女.md "wikilink")
 IDOLM@STER
 
 :\# [MOON
-PRIDE](../Page/MOON_PRIDE.md "wikilink")（電視動畫《[美少女戰士Crystal](../Page/美少女戰士Crystal.md "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
+PRIDE](../Page/MOON_PRIDE.md "wikilink")（電視動畫《[美少女戰士Crystal](https://zh.wikipedia.org/wiki/美少女戰士Crystal "wikilink")》片頭曲）／[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")
 
-:\# （劇場版《[七龍珠Z 復活的F](../Page/七龍珠Z_復活的F.md "wikilink")》主題曲）／桃色幸運草Z
+:\# （劇場版《[七龍珠Z
+復活的F](https://zh.wikipedia.org/wiki/七龍珠Z_復活的F "wikilink")》主題曲）／桃色幸運草Z
 
 :\# CHA-LA
 HEAD-CHA-LA（電視動畫《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》片頭曲）／桃色幸運草Z
@@ -3147,29 +3321,30 @@ Gate（電視動畫《[命運石之門](../Page/命運石之門.md "wikilink")�
 :\# （遊戲《[STEINS;GATE 0](../Page/命運石之門.md "wikilink")》主題曲）／伊藤香奈子
 
 :\#
-（電視動畫《[月刊少女野崎同學](../Page/月刊少女野崎同學.md "wikilink")》片頭曲）／[オーイシマサヨシ](../Page/オーイシマサヨシ.md "wikilink")
+（電視動畫《[月刊少女野崎同學](../Page/月刊少女野崎同學.md "wikilink")》片頭曲）／[オーイシマサヨシ](https://zh.wikipedia.org/wiki/オーイシマサヨシ "wikilink")
 
 :\#
 （電視動畫《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》片頭曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
-:\# Startear（電視動畫《[刀劍神域Ⅱ](../Page/刀劍神域.md "wikilink")》片尾曲）／春奈露娜
+:\#
+Startear（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲）／春奈露娜
 
 :\#
-（電視動畫《[魔法少女小圓](../Page/魔法少女小圓.md "wikilink")》片頭曲）／春奈露娜×[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+（電視動畫《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》片頭曲）／春奈露娜×[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 :\# ～CHOIR
-JAIL（電視動畫《[魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")》片頭曲、電視動畫《[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")》片頭曲）／[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+JAIL（電視動畫《[魔彈之王與戰姬](../Page/魔彈之王與戰姬.md "wikilink")》片頭曲、電視動畫《[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")》片頭曲）／[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 :\# Absolute Soul (THE GATE LIVE
 ver.）（電視動畫《[絕對雙刃](../Page/絕對雙刃.md "wikilink")》片頭曲）／鈴木木乃美
-feat. [OxT](../Page/OxT.md "wikilink")
+feat. [OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
 :\# 1st Priority（電視動畫《STRATOS 4》片頭曲）／
 
 :\# Agapē（電視動畫《[圓盤皇女](../Page/圓盤皇女.md "wikilink")》插曲）／Melocure
 
 :\#
-[海色](../Page/海色.md "wikilink")（電視動畫《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》片頭曲）／[AKINO
+[海色](https://zh.wikipedia.org/wiki/海色 "wikilink")（電視動畫《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》片頭曲）／[AKINO
 from bless4](../Page/AKINO.md "wikilink")
 
 :\#
@@ -3180,7 +3355,7 @@ from bless4](../Page/AKINO.md "wikilink")
 :\# （電視動畫《LoveLive\!》第2期插曲）／μ′s
 
 :\# [KiRa-KiRa
-Sensation\!](../Page/KiRa-KiRa_Sensation!/Happy_maker!.md "wikilink")（電視動畫《LoveLive\!》第2期插曲）／μ′s
+Sensation\!](https://zh.wikipedia.org/wiki/KiRa-KiRa_Sensation!/Happy_maker! "wikilink")（電視動畫《LoveLive\!》第2期插曲）／μ′s
 
 :\# Rally Go
 Round（電視動畫《[偽戀：](../Page/偽戀.md "wikilink")》片頭曲）／[LiSA](../Page/LiSA.md "wikilink")
@@ -3190,47 +3365,50 @@ Round（電視動畫《[偽戀：](../Page/偽戀.md "wikilink")》片頭曲）�
 :\# （電視動畫《刀劍神域Ⅱ》片尾曲3）／LiSA
 
 :\# [Rising
-Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](../Page/魔法科高中的劣等生.md "wikilink")》片頭曲）／LiSA
+Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》片頭曲）／LiSA
 
 :\# EN「, THE GATE\!\!」（ASL2015主題曲）
 
 :; 8月29日
 
 :\#
-（電視動畫《[魔法老師](../Page/魔法老師_\(動畫\).md "wikilink")》片頭曲）／[sphere](../Page/sphere_\(聲優團體\).md "wikilink")×[fripSide](../Page/fripSide.md "wikilink")
+（電視動畫《[魔法老師](../Page/魔法老師_\(動畫\).md "wikilink")》片頭曲）／[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")×[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\# Luminize（電視動畫《[未來卡片
-戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")》第2期片頭曲）／[fripSide](../Page/fripSide.md "wikilink")
+戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")》第2期片頭曲）／[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\# [black
-bullet](../Page/black_bullet.md "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／fripSide
+bullet](https://zh.wikipedia.org/wiki/black_bullet "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／fripSide
 
 :\#
-（電視動畫《[星光樂園](../Page/星光樂園.md "wikilink")》第2期片頭曲）／[i☆Ris](../Page/i☆Ris.md "wikilink")
+（電視動畫《[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")》第2期片頭曲）／[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
 
 :\# 混合曲：Make it！～～Realize\!（電視動畫《星光樂園》片頭曲1、2、3）／i☆Ris
 
-:\# （電視動畫《[偵探歌劇 少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／[Milky
-Holmes](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")×i☆Ris
+:\# （電視動畫《[偵探歌劇
+少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／[Milky
+Holmes](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")×i☆Ris
 
 :\#  A GO GO（電視動畫《偵探歌劇 少女福爾摩斯》第4期片頭曲）／Milky Holmes
 
-:\# （電視動畫《[銀河騎士傳](../Page/銀河騎士傳.md "wikilink")》第2期片尾曲）／Z
+:\#
+（電視動畫《[銀河騎士傳](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》第2期片尾曲）／Z
 
 :\# BLESS YoUr NAME（電視動畫《[惡魔高校D×D
-BorN](../Page/惡魔高校D×D.md "wikilink")》片頭曲）／[ChouCho](../Page/ChouCho.md "wikilink")
+BorN](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")》片頭曲）／[ChouCho](../Page/ChouCho.md "wikilink")
 
 :\# （電視動畫《[冰菓](../Page/古籍研究社系列.md "wikilink")》片頭曲）／ChouCho
 
 :\# RIGHT LIGHT
-RISE（電視動畫《[在地下城尋求邂逅是否搞錯了什麼](../Page/在地下城尋求邂逅是否搞錯了什麼.md "wikilink")》片尾曲）／[分島花音](../Page/分島花音.md "wikilink")
+RISE（電視動畫《[在地下城尋求邂逅是否搞錯了什麼](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")》片尾曲）／[分島花音](../Page/分島花音.md "wikilink")
 
 :\# killy killy JOKER（電視動畫《[selector infected
-WIXOSS](../Page/selector_infected_WIXOSS.md "wikilink")》片頭曲）／分島花音
+WIXOSS](https://zh.wikipedia.org/wiki/selector_infected_WIXOSS "wikilink")》片頭曲）／分島花音
 
 :\# ／[內田彩](../Page/內田彩.md "wikilink")
 
-:\# KISEKI（電視動畫《Duel Masters VSR》片尾曲）／[Pile](../Page/Pile.md "wikilink")
+:\# KISEKI（電視動畫《Duel Masters
+VSR》片尾曲）／[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")
 
 :\#
 （電視動畫《[灰色的樂園](../Page/灰色的樂園.md "wikilink")》片尾曲2／[南條愛乃](../Page/南條愛乃.md "wikilink")
@@ -3241,7 +3419,7 @@ mode](../Page/SCREEN_mode.md "wikilink")
 :\# （電視動畫《[黑子的籃球](../Page/黑子的籃球.md "wikilink")》第3期片尾曲）／SCREEN mode
 
 :\# Ding\! Dong\! Ding\!
-Dong\!／[sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+Dong\!／[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
 
 :\# 情熱CONTINUE（電視動畫《[夜晚的小雙俠](../Page/夜晚的小雙俠.md "wikilink")》片尾曲）／sphere
 
@@ -3249,7 +3427,7 @@ Dong\!／[sphere](../Page/sphere_\(聲優團體\).md "wikilink")
 door\!（電視動畫《[電波教師](../Page/電波教師.md "wikilink")》片頭曲2）／sphere
 
 :\#
-（電視動畫《[暗殺教室](../Page/暗殺教室.md "wikilink")》片頭曲）／[3年E班](../Page/暗殺教室.md "wikilink")（渚＆茅野＆業＆磯貝＆岡野＆杉野）
+（電視動畫《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》片頭曲）／[3年E班](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")（渚＆茅野＆業＆磯貝＆岡野＆杉野）
 
 :\#
 （電視動畫《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》OVA片頭曲）／[七森中☆娛樂部](../Page/輕鬆百合.md "wikilink")
@@ -3257,7 +3435,7 @@ door\!（電視動畫《[電波教師](../Page/電波教師.md "wikilink")》片
 :\# （電視動畫《輕鬆百合》特別篇片頭曲）／七森中☆娛樂部
 
 :\# （電視動畫《輕鬆百合》片頭曲）／七森中☆娛樂部 feat.
-[馬蒂·弗里德曼](../Page/馬蒂·弗里德曼.md "wikilink")
+[馬蒂·弗里德曼](https://zh.wikipedia.org/wiki/馬蒂·弗里德曼 "wikilink")
 
 :\# Ring of Fortune（電視動畫《[可塑性記憶](../Page/可塑性記憶.md "wikilink")》片頭曲）／佐佐木惠梨
 
@@ -3266,10 +3444,10 @@ door\!（電視動畫《[電波教師](../Page/電波教師.md "wikilink")》片
 :\# （電視動畫《[南家三姊妹](../Page/南家三姊妹.md "wikilink")》片頭曲）／今井麻美&内田彩＆Pile
 
 :\# ambiguous（電視動畫《[KILL la
-KILL](../Page/KILL_la_KILL.md "wikilink")》片頭曲2）／[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
+KILL](../Page/KILL_la_KILL.md "wikilink")》片頭曲2）／[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
 
 :\# BLAZING（電視動畫《[高達G
-Reconquista](../Page/GUNDAM_G之复国运动.md "wikilink")》片頭曲）／GARNiDELiA
+Reconquista](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")》片頭曲）／GARNiDELiA
 
 :\# ／[蒼井翔太](../Page/蒼井翔太.md "wikilink")
 
@@ -3277,7 +3455,7 @@ Reconquista](../Page/GUNDAM_G之复国运动.md "wikilink")》片頭曲）／GAR
 Gardens（電視動畫《[出包王女DARKNESS](../Page/出包王女.md "wikilink")》第2期片尾曲）／[川田真美](../Page/川田真美.md "wikilink")
 
 :\# 混合曲：～Borderland～[No
-buts\!](../Page/No_buts!.md "wikilink")（電視動畫《[灼眼的夏娜](../Page/灼眼的夏娜_\(動畫\).md "wikilink")》片頭曲、電視動畫《[軍火女王](../Page/軍火女王.md "wikilink")》片頭曲、電視動畫《[魔法禁書目錄Ⅱ](../Page/魔法禁書目錄.md "wikilink")》片頭曲）／川田真美
+buts\!](../Page/No_buts!.md "wikilink")（電視動畫《[灼眼的夏娜](../Page/灼眼的夏娜_\(動畫\).md "wikilink")》片頭曲、電視動畫《[軍火女王](../Page/軍火女王.md "wikilink")》片頭曲、電視動畫《[魔法禁書目錄Ⅱ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片頭曲）／川田真美
 
 :\#
 [JOINT](../Page/JOINT.md "wikilink")（電視動畫《[灼眼的夏娜Ⅱ](../Page/灼眼的夏娜_\(動畫\).md "wikilink")》片頭曲）／川田真美
@@ -3286,25 +3464,27 @@ buts\!](../Page/No_buts!.md "wikilink")（電視動畫《[灼眼的夏娜](../Pa
 真愛革命](../Page/歌之王子殿下.md "wikilink")》片頭曲）／[宮野真守](../Page/宮野真守.md "wikilink")
 
 :\# NEW ORDER（電視動畫《[T寶的悲慘日常
-覺醒編](../Page/T寶的悲慘日常.md "wikilink")》片頭曲）／宮野真守
+覺醒編](https://zh.wikipedia.org/wiki/T寶的悲慘日常 "wikilink")》片頭曲）／宮野真守
 
 :\# BREAK IT\!（電視動畫《[卡片鬥爭\!\!
 先導者G](../Page/卡片戰鬥先導者.md "wikilink")》片頭曲）／宮野真守
 
 :\# （電視動畫《[偶像大師 灰姑娘女孩](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")》插曲）／[THE
 IDOLM@STER CINDERELLA
-GIRLS](../Page/THE_IDOLM@STER_CINDERELLA_GIRLS.md "wikilink")
+GIRLS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS "wikilink")
 
 :\# Star\!\!（電視動畫《偶像大師 灰姑娘女孩》片頭曲）／THE IDOLM@STER CINDERELLA GIRLS
 
 :\# Shine\!\!（電視動畫《偶像大師 灰姑娘女孩》第2期片頭曲）／THE IDOLM@STER CINDERELLA GIRLS
 
 :\# （電視動畫《[蒼穹之戰神
-EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](../Page/angela.md "wikilink")
+EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
-:\# brilliant road（電視動畫《[宇宙星路](../Page/宇宙星路.md "wikilink")》片頭曲）／angela
+:\# brilliant
+road（電視動畫《[宇宙星路](https://zh.wikipedia.org/wiki/宇宙星路 "wikilink")》片頭曲）／angela
 
-:\# （電視動畫《[銀河騎士傳](../Page/銀河騎士傳.md "wikilink")》片頭曲）／angela
+:\#
+（電視動畫《[銀河騎士傳](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》片頭曲）／angela
 
 :\# 騎士行進曲（電視動畫《銀河騎士傳》第2期片頭曲）／angela
 
@@ -3316,7 +3496,7 @@ EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](../Page
 （電視動畫《[黑子的籃球](../Page/黑子的籃球.md "wikilink")》第2期片頭曲2）／[GRANRODEO](../Page/GRANRODEO.md "wikilink")×[小野賢章](../Page/小野賢章.md "wikilink")
 
 :\# Stand
-Up\!\!\!\!\!\!\!\!\!\!（電視動畫《[摸索吧！部活劇](../Page/摸索吧！部活劇.md "wikilink")》片頭曲）／[てさプルん♪](../Page/摸索吧！部活劇.md "wikilink")
+Up\!\!\!\!\!\!\!\!\!\!（電視動畫《[摸索吧！部活劇](https://zh.wikipedia.org/wiki/摸索吧！部活劇 "wikilink")》片頭曲）／[てさプルん♪](https://zh.wikipedia.org/wiki/摸索吧！部活劇 "wikilink")
 
 :\# 色彩crossroad（電視動畫《摸索吧！部活劇》第3期片尾曲）／
 
@@ -3337,10 +3517,10 @@ Honey♥Come\!\!（電視動畫《[城下町的蒲公英](../Page/城下町的�
 
 :\# （電視動畫《[我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")》片頭曲）／內田真禮
 
-:\# ／[新田恵海](../Page/新田恵海.md "wikilink")
+:\# ／[新田恵海](https://zh.wikipedia.org/wiki/新田恵海 "wikilink")
 
 :\# 探求Dreaming（電視動畫《[偵探歌劇 少女福爾摩斯
-TD](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片尾曲）／新田恵海
+TD](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片尾曲）／新田恵海
 
 :\#
 YES\!\!（電視動畫《[生存遊戲社](../Page/生存遊戲社.md "wikilink")》片頭曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
@@ -3348,13 +3528,13 @@ YES\!\!（電視動畫《[生存遊戲社](../Page/生存遊戲社.md "wikilink"
 :\# ENERGY☆SMILE／大橋彩香
 
 :\# ideal white（電視動畫《[Fate/stay night \[Unlimited Blade
-Works](../Page/Fate/stay_night.md "wikilink")\]》片頭曲）／[綾野真白](../Page/綾野真白.md "wikilink")
+Works](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》片頭曲）／[綾野真白](../Page/綾野真白.md "wikilink")
 
 :\#
-（電視動畫《[天體運行式](../Page/天體運行式.md "wikilink")》片尾曲）／[fhána](../Page/fhána.md "wikilink")
+（電視動畫《[天體運行式](https://zh.wikipedia.org/wiki/天體運行式 "wikilink")》片尾曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
 :\# （電視動畫《[Fate/kaleid liner 魔法少女☆伊莉雅 2wei
-Herz！](../Page/Fate/kaleid_liner_魔法少女☆伊莉雅.md "wikilink")》片頭曲）／fhána
+Herz！](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")》片頭曲）／fhána
 
 :\# divine
 intervention（電視動畫《[魔女的使命](../Page/魔女的使命.md "wikilink")》片頭曲）／fhána
@@ -3389,9 +3569,11 @@ Voice～Jumping\!\!（電視動畫《[黃金拼圖](../Page/黃金拼圖.md "wik
 :\# （電視動畫《[你好！！黃金拼圖](../Page/黃金拼圖.md "wikilink")》片頭曲）／Rhodanthe\*
 
 :\#
-（電視動畫《[青春×機關槍](../Page/青春×機關槍.md "wikilink")》片尾曲）／[小松未可子](../Page/小松未可子.md "wikilink")
+（電視動畫《[青春×機關槍](https://zh.wikipedia.org/wiki/青春×機關槍 "wikilink")》片尾曲）／[小松未可子](../Page/小松未可子.md "wikilink")
 
-:\# （電視動畫《[浪客劍心](../Page/浪客劍心.md "wikilink")》片頭曲）／小松未可子×內田真禮 feat.
+:\#
+（電視動畫《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》片頭曲）／小松未可子×內田真禮
+feat.
 
 :\# ZERO（電視動畫《黑子的籃球》第3期片頭曲2）／[小野賢章](../Page/小野賢章.md "wikilink")
 
@@ -3401,30 +3583,31 @@ Voice～Jumping\!\!（電視動畫《[黃金拼圖](../Page/黃金拼圖.md "wik
 World（電視動畫《[純潔的瑪利亞](../Page/純潔的瑪利亞.md "wikilink")》片頭曲）／[ZAQ](../Page/ZAQ.md "wikilink")
 
 :\# Seven Doors（電視動畫《[TRINITY SEVEN
-魔道書7使者](../Page/TRINITY_SEVEN_魔道書7使者.md "wikilink")》片頭曲）／ZAQ
+魔道書7使者](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink")》片頭曲）／ZAQ
 
 :\# OVERDRIVER-ANISAMA Remix- feat.motsu／ZAQ feat.
 
-:\# SURPRISE-DRIVE（特攝《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》主題曲）／
+:\#
+SURPRISE-DRIVE（特攝《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》主題曲）／
 
 :\# re-ray（特攝《[劇場版 假面騎士Drive SURPRISE
-FUTURE](../Page/劇場版_假面騎士Drive_SURPRISE_FUTURE.md "wikilink")》主題曲）／Mitsuru
+FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》主題曲）／Mitsuru
 Matsuoka EARNEST DRIVE
 
 :\# ～BLOODY STREAM～STAND
-PROUD（電視動畫《[JoJo的奇妙冒險](../Page/JoJo的奇妙冒險.md "wikilink")》第1期片頭曲1、2、第2期片頭曲1）／[JO☆STARS](../Page/JoJo的奇妙冒險.md "wikilink")
+PROUD（電視動畫《[JoJo的奇妙冒險](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")》第1期片頭曲1、2、第2期片頭曲1）／[JO☆STARS](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")
 ～TOMMY, Coda, JIN～
 
 :\#  ～end of THE WORLD～（電視動畫《JoJo的奇妙冒險》第2期片頭曲2）／JO☆STARS ～TOMMY, Coda,
 JIN～
 
 :\#
-[believe](../Page/believe_\(Kalafina單曲\).md "wikilink")（電視動畫《[Fate/stay
+[believe](https://zh.wikipedia.org/wiki/believe_\(Kalafina單曲\) "wikilink")（電視動畫《[Fate/stay
 night \[Unlimited Blade
-Works](../Page/Fate/stay_night.md "wikilink")\]》片尾曲1）／[Kalafina](../Page/Kalafina.md "wikilink")
+Works](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")\]》片尾曲1）／[Kalafina](../Page/Kalafina.md "wikilink")
 
 :\# [ring your
-bell](../Page/ring_your_bell.md "wikilink")（電視動畫《Fate/stay
+bell](https://zh.wikipedia.org/wiki/ring_your_bell "wikilink")（電視動畫《Fate/stay
 night \[Unlimited Blade Works\]》片尾曲2）／Kalafina
 
 :\# [One
@@ -3445,14 +3628,15 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 ### Animelo Summer Live 2016 刻-TOKI-
 
   - 舉辦日期：2016年8月26日－8月28日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：LIVE DAM STADIUM、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：株式會社AT-X、[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
-    II entertainment、[日本哥倫比亞](../Page/日本哥倫比亞.md "wikilink")、F.I.X.
-    RECORDS、[飛犬](../Page/飛犬.md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
+    II
+    entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、F.I.X.
+    RECORDS、[飛犬](https://zh.wikipedia.org/wiki/飛犬 "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Warner
     Home Video
   - 企劃：AniSummer Project實行委員會
   - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、Pia
@@ -3461,9 +3645,9 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 #### 主題曲
 
   - 「PASSION RIDERS」
-    作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")，作曲、編曲：[Q-MHz](../Page/Q-MHz.md "wikilink")
-    主唱：[相坂優歌](../Page/相坂優歌.md "wikilink")、[藍井艾露](../Page/藍井艾露.md "wikilink")、[蒼井翔太](../Page/蒼井翔太.md "wikilink")、[every♥ing！](../Page/Every♥ing!.md "wikilink")、[大橋彩香](../Page/大橋彩香.md "wikilink")、[黑崎真音](../Page/黑崎真音.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[SCREEN
-    mode](../Page/SCREEN_mode.md "wikilink")、[鈴木木乃美](../Page/鈴木木乃美.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")、[三森鈴子](../Page/三森鈴子.md "wikilink")、[LiSA](../Page/LiSA.md "wikilink")
+    作詞：[畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")，作曲、編曲：[Q-MHz](https://zh.wikipedia.org/wiki/Q-MHz "wikilink")
+    主唱：[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")、[藍井艾露](../Page/藍井艾露.md "wikilink")、[蒼井翔太](../Page/蒼井翔太.md "wikilink")、[every♥ing！](../Page/Every♥ing!.md "wikilink")、[大橋彩香](../Page/大橋彩香.md "wikilink")、[黑崎真音](../Page/黑崎真音.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[SCREEN
+    mode](../Page/SCREEN_mode.md "wikilink")、[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")、[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[LiSA](../Page/LiSA.md "wikilink")
 
 #### 出演者
 
@@ -3471,12 +3655,12 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [相坂優歌](../Page/相坂優歌.md "wikilink")
-  - [i☆Ris](../Page/i☆Ris.md "wikilink")
+  - [相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
+  - [i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
   - [藍井艾露](../Page/藍井艾露.md "wikilink")（辭演）\[3\]
   - [AKINO](../Page/AKINO.md "wikilink") with
-    [bless4](../Page/bless4.md "wikilink")
-  - [every♥ing\!](../Page/every♥ing!.md "wikilink")
+    [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
+  - [every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [ZAQ](../Page/ZAQ.md "wikilink")
   - [Suara](../Page/Suara.md "wikilink")
@@ -3498,11 +3682,12 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
   - [ALTIMA](../Page/ALTIMA.md "wikilink")
 
-  - [IDOLM@STER CINDERELLA GIRLS](../Page/偶像大師_灰姑娘女孩.md "wikilink")
+  - [IDOLM@STER CINDERELLA
+    GIRLS](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")
 
   -
   -
-  - [KOTOKO](../Page/KOTOKO.md "wikilink")
+  - [KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
 
   - [春奈露娜](../Page/春奈露娜.md "wikilink")\[4\]
 
@@ -3519,7 +3704,7 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
   - [SCREEN mode](../Page/SCREEN_mode.md "wikilink")
 
-  - [鈴木木乃美](../Page/鈴木木乃美.md "wikilink")
+  - [鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")
 
@@ -3527,7 +3712,7 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
   - [早見沙織](../Page/早見沙織.md "wikilink")
 
-  - [fhána](../Page/fhána.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
   - [Plasmagica](../Page/SHOW_BY_ROCK!!.md "wikilink")
 
@@ -3537,13 +3722,13 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [北宇治四重奏](../Page/吹響吧！上低音號～歡迎加入北宇治高中管樂團～.md "wikilink")
+  - [北宇治四重奏](https://zh.wikipedia.org/wiki/吹響吧！上低音號～歡迎加入北宇治高中管樂團～ "wikilink")
   - [TRUE](../Page/唐澤美帆.md "wikilink")
   - [Earphones](../Page/那就是聲優！.md "wikilink")
   - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
   - [Poppin' Party from BanG
-    Dream\!](../Page/Poppin'_Party_from_BanG_Dream!.md "wikilink")
-  - [OxT](../Page/OxT.md "wikilink")
+    Dream\!](https://zh.wikipedia.org/wiki/Poppin'_Party_from_BanG_Dream! "wikilink")
+  - [OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
   - [MICHI](../Page/MICHI.md "wikilink")
   - [Lia](../Page/Lia.md "wikilink")
   - [B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")
@@ -3556,25 +3741,26 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
   - [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink")
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [小倉唯](../Page/小倉唯.md "wikilink")
   - [小野賢章](../Page/小野賢章.md "wikilink")
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
   - [戶松遙](../Page/戶松遙.md "wikilink")
   - [TrySail](../Page/TrySail.md "wikilink")
   - [Minami](../Page/Minami.md "wikilink")
-  - [三森鈴子](../Page/三森鈴子.md "wikilink")
+  - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
   - [唯夏織](../Page/唯夏織.md "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [Pile](../Page/Pile.md "wikilink")
-  - [Petit Milady](../Page/Petit_Milady.md "wikilink")
+  - [Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")
+  - [Petit
+    Milady](https://zh.wikipedia.org/wiki/Petit_Milady "wikilink")
   - [地球防衛部](../Page/美男高校地球防衛部LOVE！.md "wikilink")
   - [西澤幸奏](../Page/西澤幸奏.md "wikilink")
-  - [飯田-{里}-穂](../Page/飯田里穂.md "wikilink")
+  - [飯田-{里}-穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink")
   - THE DU
   - [nano](../Page/奈米_\(歌手\).md "wikilink")
   - [筋肉少女帶](../Page/筋肉少女帶.md "wikilink")
@@ -3591,7 +3777,7 @@ Light](../Page/One_Light.md "wikilink")（電視動畫《[亞爾斯蘭戰記](..
 （電視動畫《[北斗神拳](../Page/北斗神拳.md "wikilink")》片頭曲）／[小暮閣下](../Page/小暮閣下.md "wikilink")×[GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 :\# TRASH CANDY（電視動畫《[文豪Stray
-Dogs](../Page/文豪Stray_Dogs.md "wikilink")》片頭曲）／GRANRODEO
+Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")》片頭曲）／GRANRODEO
 
 :\# （電視劇《[甜心戰士 THE
 LIVE](../Page/甜心戰士_THE_LIVE.md "wikilink")》插曲）／GRANRODEO
@@ -3600,7 +3786,7 @@ LIVE](../Page/甜心戰士_THE_LIVE.md "wikilink")》插曲）／GRANRODEO
 Effect（電視動畫《[高校艦隊](../Page/高校艦隊.md "wikilink")》片尾曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
 :\#
-[Overfly](../Page/Overfly.md "wikilink")（電視動畫《[刀劍神域](../Page/刀劍神域.md "wikilink")》片尾曲2）／春奈露娜
+[Overfly](../Page/Overfly.md "wikilink")（電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲2）／春奈露娜
 
 :\# Shining Star-☆-LOVE
 Letter（劇場版動畫《[魔法禁書目錄：恩底彌翁的奇蹟](../Page/劇場版魔法禁書目錄：恩底彌翁的奇蹟.md "wikilink")》印象曲）／[井口裕香](../Page/井口裕香.md "wikilink")
@@ -3609,28 +3795,31 @@ Letter（劇場版動畫《[魔法禁書目錄：恩底彌翁的奇蹟](../Page/
 WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")》片頭曲）／井口裕香
 
 :\#
-（電視動畫《[靈感少女](../Page/靈感少女.md "wikilink")》片頭曲）／[every♥ing\!](../Page/every♥ing!.md "wikilink")
+（電視動畫《[靈感少女](../Page/靈感少女.md "wikilink")》片頭曲）／[every♥ing\!](https://zh.wikipedia.org/wiki/every♥ing! "wikilink")
 
 :\# ／every♥ing\!
 
 :\# （電視動畫《[Active Raid－機動強襲室第八係－
-2nd](../Page/Active_Raid－機動強襲室第八係－.md "wikilink")》片頭曲）／[相坂優歌](../Page/相坂優歌.md "wikilink")
+2nd](../Page/Active_Raid－機動強襲室第八係－.md "wikilink")》片頭曲）／[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
 
 :\#
 純真Always（電視動畫《[無彩限的幻影世界](../Page/無彩限的幻影世界.md "wikilink")》片尾曲）／[田所梓](../Page/田所梓.md "wikilink")
 
 :\#
-（電視動畫《[冒險少女娜汀亞](../Page/冒險少女娜汀亞.md "wikilink")》片頭曲）／田所梓×[i☆Ris](../Page/i☆Ris.md "wikilink")
+（電視動畫《[冒險少女娜汀亞](../Page/冒險少女娜汀亞.md "wikilink")》片頭曲）／田所梓×[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
 
-:\# Ready Smile\!\!（電視動畫《[星光樂園](../Page/星光樂園.md "wikilink")》片頭曲7）／i☆Ris
+:\# Ready
+Smile\!\!（電視動畫《[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")》片頭曲7）／i☆Ris
 
 :\# Re：Call（電視動畫《[雙星之陰陽師](../Page/雙星之陰陽師.md "wikilink")》片頭曲2）／i☆Ris
 
 :\#
-[混合曲](../Page/混合曲.md "wikilink")：～OK\!～～～（電視動畫《[寵物小精靈](../Page/寵物小精靈_\(1997-2002年動畫\).md "wikilink")》片頭曲1、片頭曲3、片頭曲2、片尾曲5、片頭曲1）／[松本梨香](../Page/松本梨香.md "wikilink")
-with [bless4](../Page/bless4.md "wikilink") feat. i☆Ris
+[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：～OK\!～～～（電視動畫《[寵物小精靈](https://zh.wikipedia.org/wiki/寵物小精靈_\(1997-2002年動畫\) "wikilink")》片頭曲1、片頭曲3、片頭曲2、片尾曲5、片頭曲1）／[松本梨香](../Page/松本梨香.md "wikilink")
+with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink") feat.
+i☆Ris
 
-:\# innocent promise（電視動畫《[少年女僕](../Page/少年女僕.md "wikilink")》片頭曲）／
+:\# innocent
+promise（電視動畫《[少年女僕](https://zh.wikipedia.org/wiki/少年女僕 "wikilink")》片頭曲）／
 
 :\# Recall THE END（電視動畫《[槍彈辯駁3 －The End of 希望峰學園－
 未來篇](../Page/槍彈辯駁3_－The_End_of_希望峰學園－.md "wikilink")》片尾曲）／TRUSTRICK
@@ -3648,7 +3837,7 @@ TATTOO－禁忌咒紋－](../Page/TABOO_TATTOO－禁忌咒紋－.md "wikilink")�
 :\# （電視動畫《[創聖大天使LOGOS](../Page/Aquarion_Logos.md "wikilink")》片頭曲）／May'n
 
 :\#
-混合曲：（電視動畫《[超時空要塞Frontier](../Page/超時空要塞Frontier.md "wikilink")》片尾曲、劇場版動畫《》插曲、電視動畫《超時空要塞Frontier》插曲、片頭曲）／May'n
+混合曲：（電視動畫《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》片尾曲、劇場版動畫《》插曲、電視動畫《超時空要塞Frontier》插曲、片頭曲）／May'n
 
 :\# PLANET / THE
 HELL（電視動畫《[火星異種](../Page/火星異種.md "wikilink")》第2期片頭曲2）／小暮閣下
@@ -3679,7 +3868,8 @@ IDENTITY（電視動畫《[中二病也想談戀愛！](../Page/中二病也想�
 :\# （電視動畫《[傳頌之物
 虛偽的假面](../Page/傳頌之物_虛偽的假面.md "wikilink")》片頭曲）／[Suara](../Page/Suara.md "wikilink")
 
-:\# （電視動畫《[傳頌之物](../Page/傳頌之物.md "wikilink")》片尾曲）／Suara
+:\#
+（電視動畫《[傳頌之物](https://zh.wikipedia.org/wiki/傳頌之物 "wikilink")》片尾曲）／Suara
 
 :\#
 （電視動畫《[甘城輝煌樂園救世主](../Page/甘城輝煌樂園救世主.md "wikilink")》片頭曲）／[AKINO](../Page/AKINO.md "wikilink")
@@ -3690,11 +3880,11 @@ Raid－機動強襲室第八係－](../Page/Active_Raid－機動強襲室第八�
 with bless4
 
 :\# 混合曲：Genesis of
-Aquarion～[創聖大天使](../Page/創聖大天使_\(單曲\).md "wikilink")（電視動畫《[創聖大天使](../Page/創聖大天使.md "wikilink")》片頭曲）／AKINO
+Aquarion～[創聖大天使](../Page/創聖大天使_\(單曲\).md "wikilink")（電視動畫《[創聖大天使](https://zh.wikipedia.org/wiki/創聖大天使 "wikilink")》片頭曲）／AKINO
 with bless4
 
 :\#
-→unfinished→（電視動畫《[加速世界](../Page/加速世界.md "wikilink")》片尾曲）／[KOTOKO](../Page/KOTOKO.md "wikilink")
+→unfinished→（電視動畫《[加速世界](../Page/加速世界.md "wikilink")》片尾曲）／[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
 
 :\# Plasmic Fire（劇場版動畫《[加速世界 INFINITE
 BURST](../Page/加速世界.md "wikilink")》主題曲）／KOTOKO×[ALTIMA](../Page/ALTIMA.md "wikilink")
@@ -3705,7 +3895,7 @@ BURST](../Page/加速世界.md "wikilink")》主題曲）／KOTOKO×[ALTIMA](../
 
 :\# M@GIC☆（電視動畫《[偶像大師
 灰姑娘女孩](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")》插曲）／[IDOLM@STER
-CINDERELLA GIRLS](../Page/偶像大師_灰姑娘女孩.md "wikilink")
+CINDERELLA GIRLS](https://zh.wikipedia.org/wiki/偶像大師_灰姑娘女孩 "wikilink")
 
 :\# 混合曲：～ØωØver\!\!～Tulip～Trancing Pulse～S(mile)ING\!（電視動畫《偶像大師
 灰姑娘女孩》插曲）／IDOLM@STER CINDERELLA GIRLS
@@ -3718,27 +3908,28 @@ CINDERELLA GIRLS](../Page/偶像大師_灰姑娘女孩.md "wikilink")
 
 :; 8月27日\[8\]
 
-:\# [混合曲](../Page/混合曲.md "wikilink")：We Are
-B.B.～[おどるポンポコリン](../Page/大家來跳舞.md "wikilink")／（－、電視動畫《[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")》片头曲）／B.B.QUEENS
+:\# [混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：We Are
+B.B.～[おどるポンポコリン](../Page/大家來跳舞.md "wikilink")／（－、電視動畫《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》片头曲）／B.B.QUEENS
 with
 
-:\# （電視動畫《[小松先生](../Page/小松先生.md "wikilink")》片頭曲1）／A應P
+:\#
+（電視動畫《[小松先生](https://zh.wikipedia.org/wiki/小松先生 "wikilink")》片頭曲1）／A應P
 
 :\# （電視動畫《小松先生》片頭曲2）／A應P
 
 :\# Yes\! BanG_Dream\!／[Poppin' Party from BanG
-Dream\!](../Page/Poppin'_Party_from_BanG_Dream!.md "wikilink")
+Dream\!](https://zh.wikipedia.org/wiki/Poppin'_Party_from_BanG_Dream! "wikilink")
 
 :\# STARBEAT\!～～／|Poppin' Party from BanG Dream\!
 
 :\# DREAM
-SOLISTER（電視動畫《[吹響吧！上低音號](../Page/奏響吧！上低音號～歡迎加入北宇治高中管樂團～.md "wikilink")》片頭曲）／[TRUE](../Page/唐澤美帆.md "wikilink")
+SOLISTER（電視動畫《[吹響吧！上低音號](https://zh.wikipedia.org/wiki/奏響吧！上低音號～歡迎加入北宇治高中管樂團～ "wikilink")》片頭曲）／[TRUE](../Page/唐澤美帆.md "wikilink")
 
 :\#
-（電視動畫《吹響吧！上低音號》片尾曲）／[北宇治四重奏](../Page/吹響吧！上低音號～歡迎加入北宇治高中管樂團～.md "wikilink")
+（電視動畫《吹響吧！上低音號》片尾曲）／[北宇治四重奏](https://zh.wikipedia.org/wiki/吹響吧！上低音號～歡迎加入北宇治高中管樂團～ "wikilink")
 
 :\# Bravely
-You（電視動畫《[Charlotte](../Page/Charlotte_\(動畫\).md "wikilink")》片頭曲）／[Lia](../Page/Lia.md "wikilink")
+You（電視動畫《[Charlotte](https://zh.wikipedia.org/wiki/Charlotte_\(動畫\) "wikilink")》片頭曲）／[Lia](../Page/Lia.md "wikilink")
 
 :\#
 [鳥の詩](../Page/鳥之詩.md "wikilink")（電視動畫《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》片頭曲）／Lia
@@ -3749,7 +3940,7 @@ You（電視動畫《[Charlotte](../Page/Charlotte_\(動畫\).md "wikilink")》�
 :\# ／早見沙織
 
 :\#
-Checkmate\!?（電視動畫《[粗點心戰爭](../Page/粗點心戰爭.md "wikilink")》片頭曲）／[MICHI](../Page/MICHI.md "wikilink")
+Checkmate\!?（電視動畫《[粗點心戰爭](https://zh.wikipedia.org/wiki/粗點心戰爭 "wikilink")》片頭曲）／[MICHI](../Page/MICHI.md "wikilink")
 
 :\# Hey\!Queen（電視動畫《粗點心戰爭》片尾曲）／[竹達彩奈](../Page/竹達彩奈.md "wikilink")
 
@@ -3777,12 +3968,13 @@ DuRaRaRa\!\!×2](../Page/無頭騎士異聞錄_DuRaRaRa!!.md "wikilink")》片�
 :\# GO\!\!\!（電視動畫《[火影忍者](../Page/火影忍者.md "wikilink")》片頭曲4）／FLOW
 
 :\#
-（電視動畫《[春&夏事件簿](../Page/春&夏事件簿.md "wikilink")》片頭曲）／[fhána](../Page/fhána.md "wikilink")
+（電視動畫《[春&夏事件簿](../Page/春&夏事件簿.md "wikilink")》片頭曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
 :\# calling（電視動畫《熱情傳奇》片尾曲）／fhána
 
-:\# [時を刻む唄](../Page/刻印時間之歌/TORCH.md "wikilink")（電視動畫《[CLANNAD ～AFTER
-STORY～](../Page/CLANNAD.md "wikilink")》片頭曲）／Lia×fhána
+:\#
+[時を刻む唄](https://zh.wikipedia.org/wiki/刻印時間之歌/TORCH "wikilink")（電視動畫《[CLANNAD
+～AFTER STORY～](../Page/CLANNAD.md "wikilink")》片頭曲）／Lia×fhána
 
 :\#
 （電視動畫《[彗星·路西法](../Page/彗星·路西法.md "wikilink")》片尾曲1）／[大橋彩香](../Page/大橋彩香.md "wikilink")
@@ -3793,7 +3985,7 @@ STORY～](../Page/CLANNAD.md "wikilink")》片頭曲）／Lia×fhána
 GX](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》片尾曲）／[高垣彩陽](../Page/高垣彩陽.md "wikilink")
 
 :\# Komm, süsser Tod〜（劇場版動畫《[新世紀福音戰士劇場版：THE END OF
-EVANGELION](../Page/新世紀福音戰士劇場版：THE_END_OF_EVANGELION.md "wikilink")》主題曲）／高垣彩陽×早見沙織
+EVANGELION](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")》主題曲）／高垣彩陽×早見沙織
 feat. 佐藤純一（fhána）
 
 :\# Naked
@@ -3801,19 +3993,19 @@ Dive（電視動畫《[無彩限的幻影世界](../Page/無彩限的幻影世�
 mode](../Page/SCREEN_mode.md "wikilink")
 
 :\# ROUGH DIAMONDS（電視動畫《[食戟之靈
-貳之皿](../Page/食戟之靈.md "wikilink")》片頭曲）／SCREEN
+貳之皿](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")》片頭曲）／SCREEN
 mode
 
 :\# Divine Spell（電視動畫《[Regalia
 三聖星](../Page/Regalia_三聖星.md "wikilink")》片頭曲）／TRUE
 
 :\#
-Clattanoia（電視動畫《[Overlord](../Page/OVERLORD_\(小說\).md "wikilink")》片頭曲）／[OxT](../Page/OxT.md "wikilink")
+Clattanoia（電視動畫《[Overlord](../Page/OVERLORD_\(小說\).md "wikilink")》片頭曲）／[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
 :\# STRIDER'S HIGH（電視動畫《[疾走王子](../Page/疾走王子.md "wikilink")》片頭曲）／OxT
 
 :\# 混合曲：～Resonant
-Heart（電視動畫《[惡魔的謎語](../Page/惡魔的謎語.md "wikilink")》片頭曲、電視動畫《[聖戰刻耳柏洛斯](../Page/聖戰刻耳柏洛斯.md "wikilink")》片頭曲）／[內田真禮](../Page/內田真禮.md "wikilink")
+Heart（電視動畫《[惡魔的謎語](../Page/惡魔的謎語.md "wikilink")》片頭曲、電視動畫《[聖戰刻耳柏洛斯](https://zh.wikipedia.org/wiki/聖戰刻耳柏洛斯 "wikilink")》片頭曲）／[內田真禮](../Page/內田真禮.md "wikilink")
 
 :\# （電視動畫《[我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")》片頭曲）／內田真禮
 
@@ -3823,27 +4015,27 @@ Heart（電視動畫《[舞武器·舞亂伎](../Page/舞武器·舞亂伎.md "w
 :\# Love is MY RAIL（電視動畫《[聖潔天使](../Page/聖潔天使.md "wikilink")》片頭曲）／鈴木木乃美
 
 :\#
-Redo（電視動畫《[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")》片頭曲）／鈴木木乃美
+Redo（電視動畫《[Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活 "wikilink")》片頭曲）／鈴木木乃美
 
 :\# [Crow Song](../Page/Crow_Song.md "wikilink")（電視動畫《[Angel
 Beats\!](../Page/Angel_Beats!.md "wikilink")》插曲）／[Girls Dead
-Monster](../Page/Girls_Dead_Monster.md "wikilink")
+Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink")
 
 :\# Brave Freak Out（電視動畫《[Qualidea
 Code](../Page/Qualidea_Code.md "wikilink")》片頭曲）／[LiSA](../Page/LiSA.md "wikilink")
 
 :\# [oath
-sign](../Page/oath_sign.md "wikilink")（電視動畫《[Fate/Zero](../Page/Fate/Zero.md "wikilink")》片頭曲）／LiSA
+sign](https://zh.wikipedia.org/wiki/oath_sign "wikilink")（電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲）／LiSA
 
 :\#
-[シルシ](../Page/印記_\(LiSA單曲\).md "wikilink")（電視動畫《[刀劍神域Ⅱ](../Page/刀劍神域.md "wikilink")》片尾曲3）／LiSA
+[シルシ](https://zh.wikipedia.org/wiki/印記_\(LiSA單曲\) "wikilink")（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲3）／LiSA
 
 :\# EN「PASSION RIDERS」（ASL2016主題曲）
 
 :; 8月28日\[9\]
 
 :\#
-（電視動畫《[潮與虎](../Page/潮與虎.md "wikilink")》片頭曲）／[筋肉少女帶](../Page/筋肉少女帶.md "wikilink")×[angela](../Page/angela.md "wikilink")
+（電視動畫《[潮與虎](https://zh.wikipedia.org/wiki/潮與虎 "wikilink")》片頭曲）／[筋肉少女帶](../Page/筋肉少女帶.md "wikilink")×[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 :\# （電視動畫《潮與虎》片頭曲2）／筋肉少女帶
 
@@ -3857,35 +4049,35 @@ POWER☆（電視動畫《[美男高校地球防衛部LOVE！LOVE！](../Page/�
 Honey♥Come\!\!（電視動畫《[城下町的蒲公英](../Page/城下町的蒲公英.md "wikilink")》片尾曲）／[小倉唯](../Page/小倉唯.md "wikilink")
 
 :\# （電視動畫《[卡片鬥爭\!\! 先導者G
-超越之門篇](../Page/卡片鬥爭!!_先導者.md "wikilink")》片尾曲）／小倉唯
+超越之門篇](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲）／小倉唯
 
 :\#
-[courage](../Page/courage.md "wikilink")（電視動畫《[刀劍神域Ⅱ](../Page/刀劍神域.md "wikilink")》片頭曲2）／[戶松遙](../Page/戶松遙.md "wikilink")
+[courage](https://zh.wikipedia.org/wiki/courage "wikilink")（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲2）／[戶松遙](../Page/戶松遙.md "wikilink")
 
 :\# （電視動畫《[鄰座的怪同學](../Page/鄰座的怪同學.md "wikilink")》片頭曲）／戶松遙
 
-:\# ／[飯田-{里}-穂](../Page/飯田里穂.md "wikilink")
+:\# ／[飯田-{里}-穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink")
 
 :\#
-Melody（電視動畫《[境界之輪迴](../Page/境界之輪迴.md "wikilink")》片頭曲3）／[Pile](../Page/Pile.md "wikilink")
+Melody（電視動畫《[境界之輪迴](../Page/境界之輪迴.md "wikilink")》片頭曲3）／[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")
 
 :\#
-[混合曲](../Page/混合曲.md "wikilink")：（電視動畫《[展開騎士](../Page/展開騎士.md "wikilink")》片尾曲、電視動畫《[境界觸發者](../Page/境界觸發者.md "wikilink")》主題曲3）／Pile
+[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")：（電視動畫《[展開騎士](https://zh.wikipedia.org/wiki/展開騎士 "wikilink")》片尾曲、電視動畫《[境界觸發者](../Page/境界觸發者.md "wikilink")》主題曲3）／Pile
 
 :\# Light for
-Knight（電視動畫《[槍與面具](../Page/槍與面具.md "wikilink")》片頭曲）／[三森鈴子](../Page/三森鈴子.md "wikilink")
+Knight（電視動畫《[槍與面具](../Page/槍與面具.md "wikilink")》片頭曲）／[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
 
 :\# ユニバーページ（電視動畫《[萌萌侵略者 OUTBREAK
 COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")》片頭曲）／三森鈴子
 
 :\# （電視動畫《[麵包與和平！](../Page/麵包與和平！.md "wikilink")》片頭曲）／[petit
-milady](../Page/petit_milady.md "wikilink")
+milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 
 :\# azurite（電視動畫《[獻給某飛行員的戀歌](../Page/獻給某飛行員的戀歌.md "wikilink")》片頭曲）／petit
 milady
 
 :\#
-[もってけ\!セーラーふく](../Page/拿去吧！水手服.md "wikilink")（電視動畫《[幸運☆星](../Page/幸運☆星.md "wikilink")》片頭曲）／[唯夏織](../Page/唯夏織.md "wikilink")×petit
+[もってけ\!セーラーふく](../Page/拿去吧！水手服.md "wikilink")（電視動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》片頭曲）／[唯夏織](../Page/唯夏織.md "wikilink")×petit
 milady
 
 :\#
@@ -3898,7 +4090,7 @@ X-encounter（電視動畫《[東京闇鴉](../Page/東京闇鴉.md "wikilink")�
 :\# Patria（電視動畫《[Regalia
 三聖星](../Page/Regalia_三聖星.md "wikilink")》片尾曲）／[Minami](../Page/Minami.md "wikilink")
 
-:\# （電視動畫《[刀語](../Page/刀語.md "wikilink")》片尾曲）／Minami
+:\# （電視動畫《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》片尾曲）／Minami
 
 :\# chase（電視動畫《[JoJo的奇妙冒險
 不滅鑽石](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")》片頭曲3）／batta
@@ -3908,7 +4100,7 @@ X-encounter（電視動畫《[東京闇鴉](../Page/東京闇鴉.md "wikilink")�
 :\# Ring Ring Rainbow\!\!（電視動畫《城下町的蒲公英》片頭曲）／唯夏織
 
 :\# Promise You\!\!（電視動畫《[卡片鬥爭\!\! 先導者G
-GIRS危機篇](../Page/卡片鬥爭!!_先導者.md "wikilink")》片尾曲2）／唯夏織
+GIRS危機篇](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲2）／唯夏織
 
 :\#
 whiz（網絡動畫《[曆物語](../Page/曆物語.md "wikilink")》片尾曲）／[TrySail](../Page/TrySail.md "wikilink")
@@ -3929,7 +4121,7 @@ World（電視動畫《[學戰都市Asterisk](../Page/學戰都市Asterisk.md "w
 （電視動畫《[魔法少女育成計劃](../Page/魔法少女育成計劃.md "wikilink")》片頭曲）／[沼倉愛美](../Page/沼倉愛美.md "wikilink")
 
 :\# Believe（電視動畫《[ONE
-PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")》片頭曲2）／沼倉愛美×三森鈴子
+PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》片頭曲2）／沼倉愛美×三森鈴子
 
 :\# SAVIOR OF
 SONG（電視動畫《[蒼藍鋼鐵戰艦](../Page/蒼藍鋼鐵戰艦.md "wikilink")》片頭曲）／[nano](../Page/奈米_\(歌手\).md "wikilink")
@@ -3938,14 +4130,15 @@ SONG（電視動畫《[蒼藍鋼鐵戰艦](../Page/蒼藍鋼鐵戰艦.md "wikili
 DC](../Page/蒼藍鋼鐵戰艦.md "wikilink")》主題曲）／nano
 
 :\#
-（電視動畫《[夢幻之星Online2](../Page/夢幻之星在線2.md "wikilink")》片頭曲）／[蒼井翔太](../Page/蒼井翔太.md "wikilink")
+（電視動畫《[夢幻之星Online2](https://zh.wikipedia.org/wiki/夢幻之星在線2 "wikilink")》片頭曲）／[蒼井翔太](../Page/蒼井翔太.md "wikilink")
 
 :\# （電視動畫《[初戀怪獸](../Page/初戀怪獸.md "wikilink")》片頭曲）／蒼井翔太
 
 :\# （電視動畫《[落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")》片尾曲）／[ALI
 PROJECT](../Page/ALI_PROJECT.md "wikilink")
 
-:\# GEMINI（電視動畫《[聖劍使的禁咒詠唱](../Page/聖劍使的禁咒詠唱.md "wikilink")》片頭曲）／ALI
+:\#
+GEMINI（電視動畫《[聖劍使的禁咒詠唱](https://zh.wikipedia.org/wiki/聖劍使的禁咒詠唱 "wikilink")》片頭曲）／ALI
 PROJECT feat. petit milady
 
 :\# （電視動畫《》片尾曲）／ALI PROJECT
@@ -3957,9 +4150,10 @@ EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲2）／angela
 mind～Shangri-La～騎士行進曲（電視動畫《[K](../Page/K_\(動畫\).md "wikilink")》片頭曲、電視動畫《[妄想學生會](../Page/妄想學生會.md "wikilink")》片尾曲、電視動畫《[蒼穹之戰神－Right
 of
 Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")》片頭曲、電視動畫《[銀河騎士傳
-第九行星戰役](../Page/銀河騎士傳.md "wikilink")》片頭曲）／angela
+第九行星戰役](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》片頭曲）／angela
 
-:\# （電視動畫《[銀河騎士傳](../Page/銀河騎士傳.md "wikilink")》片頭曲）／angela
+:\#
+（電視動畫《[銀河騎士傳](https://zh.wikipedia.org/wiki/銀河騎士傳 "wikilink")》片頭曲）／angela
 
 :\# EN「PASSION RIDERS」（ASL2016主題曲）
 
@@ -3968,14 +4162,15 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 ### Animelo Summer Live 2017 -THE CARD-
 
   - 舉辦日期：2017年8月25日－8月27日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")
   - 協力贊助：ANiUTa、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")
   - 後援：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、[GloryHeaven](../Page/Lantis.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
-    II entertainment、[日本哥倫比亞](../Page/日本哥倫比亞.md "wikilink")、[Flying
-    DOG](../Page/Flying_DOG.md "wikilink")、[武士道](../Page/武士道_\(公司\).md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Rokkan
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[GloryHeaven](../Page/Lantis.md "wikilink")、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
+    II
+    entertainment、[日本哥倫比亞](https://zh.wikipedia.org/wiki/日本哥倫比亞 "wikilink")、[Flying
+    DOG](../Page/Flying_DOG.md "wikilink")、[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、Rokkan
     Music
   - 企劃：AniSummer Project實行委員會
   - 協力：埼玉超級體育館、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、PIA
@@ -3985,8 +4180,8 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 
   - 「Playing The World」
     作詞、作曲：[ZAQ](../Page/ZAQ.md "wikilink")，編曲：ZAQ、EFFY
-    主唱：[KISHOW](../Page/GRANRODEO.md "wikilink")、[OxT](../Page/OxT.md "wikilink")、DRAMATIC
-    STARS、[Minami](../Page/Minami.md "wikilink")、[三森鈴子](../Page/三森鈴子.md "wikilink")、[鈴木このみ](../Page/鈴木このみ.md "wikilink")、[春奈るな](../Page/春奈るな.md "wikilink")、[Machico](../Page/Machico.md "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")、[中島愛](../Page/中島愛.md "wikilink")、[Pyxis](../Page/Pyxis.md "wikilink")、[羽多野渉](../Page/羽多野渉.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")
+    主唱：[KISHOW](../Page/GRANRODEO.md "wikilink")、[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")、DRAMATIC
+    STARS、[Minami](../Page/Minami.md "wikilink")、[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[鈴木このみ](https://zh.wikipedia.org/wiki/鈴木このみ "wikilink")、[春奈るな](https://zh.wikipedia.org/wiki/春奈るな "wikilink")、[Machico](https://zh.wikipedia.org/wiki/Machico "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[Pyxis](https://zh.wikipedia.org/wiki/Pyxis "wikilink")、[羽多野渉](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")
 
 #### 出演者
 
@@ -3995,12 +4190,12 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [Aqours](../Page/Aqours.md "wikilink")
-  - [SOS團](../Page/涼宮春日系列角色列表#SOS團.md "wikilink")
+  - [SOS團](https://zh.wikipedia.org/wiki/涼宮春日系列角色列表#SOS團 "wikilink")
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
-  - [OxT](../Page/OxT.md "wikilink")
+  - [OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
   - [ClariS](../Page/ClariS.md "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
-  - [动物朋友](../Page/动物朋友.md "wikilink")
+  - [动物朋友](https://zh.wikipedia.org/wiki/动物朋友 "wikilink")
   - [鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
   - [田村由香里](../Page/田村由香里.md "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
@@ -4012,13 +4207,13 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
   - [TRUE](../Page/唐澤美帆.md "wikilink")
   - [西澤幸奏](../Page/西澤幸奏.md "wikilink")
   - [早見沙織](../Page/早見沙織.md "wikilink")
-  - [Pyxis](../Page/Pyxis.md "wikilink")
+  - [Pyxis](https://zh.wikipedia.org/wiki/Pyxis "wikilink")
   - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
-  - [Machico](../Page/Machico.md "wikilink")
+  - [Machico](https://zh.wikipedia.org/wiki/Machico "wikilink")
   - [Minami](../Page/Minami.md "wikilink")
-  - [motsu](../Page/motsu.md "wikilink")
+  - [motsu](https://zh.wikipedia.org/wiki/motsu "wikilink")
   - [Roselia from BanG
-    Dream\!](../Page/BanG_Dream!#Roselia.md "wikilink")
+    Dream\!](https://zh.wikipedia.org/wiki/BanG_Dream!#Roselia "wikilink")
 
 </div>
 
@@ -4027,15 +4222,15 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [IDOLM@STER MILLIONSTARS](../Page/偶像大師_百萬人演唱會！.md "wikilink")
-  - [i☆Ris](../Page/i☆Ris.md "wikilink")
+  - [i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
-  - [angela](../Page/angela.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
   - [KiraKira☆光之美少女 A La
-    Mode](../Page/KiraKira☆光之美少女_A_La_Mode.md "wikilink")
-    <small>（[駒形友梨](../Page/駒形友梨.md "wikilink")、[宮本佳那子](../Page/宮本佳那子.md "wikilink")、[美山加恋](../Page/美山加恋.md "wikilink")、[福原遥](../Page/福原遥.md "wikilink")、[村中知](../Page/村中知.md "wikilink")、[藤田咲](../Page/藤田咲.md "wikilink")、[森奈奈子](../Page/森奈奈子_\(聲優\).md "wikilink")、[水瀨祈](../Page/水瀨祈.md "wikilink")）</small>
+    Mode](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")
+    <small>（[駒形友梨](../Page/駒形友梨.md "wikilink")、[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")、[美山加恋](https://zh.wikipedia.org/wiki/美山加恋 "wikilink")、[福原遥](https://zh.wikipedia.org/wiki/福原遥 "wikilink")、[村中知](../Page/村中知.md "wikilink")、[藤田咲](../Page/藤田咲.md "wikilink")、[森奈奈子](https://zh.wikipedia.org/wiki/森奈奈子_\(聲優\) "wikilink")、[水瀨祈](../Page/水瀨祈.md "wikilink")）</small>
   - [KING OF PRISM](../Page/星光少男_KING_OF_PRISM.md "wikilink")
   - [鈴村健一](../Page/鈴村健一.md "wikilink")
-  - [sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
   - 茅原實里
   - DJ KOO
 
@@ -4044,12 +4239,12 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [東山奈央](../Page/東山奈央.md "wikilink")
-  - [中島愛](../Page/中島愛.md "wikilink")
+  - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
   - [羽多野涉](../Page/羽多野涉.md "wikilink")
   - [冰川清志](../Page/冰川清志.md "wikilink")
-  - [fhána](../Page/fhána.md "wikilink")
-  - [fripSide](../Page/fripSide.md "wikilink")
-  - [三森鈴子](../Page/三森鈴子.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
+  - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
+  - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
   - [Luce Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 
 </div>
@@ -4058,10 +4253,11 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [IDOLM@STER SideM](../Page/偶像大師SideM.md "wikilink")
+  - [IDOLM@STER
+    SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")
   - [Wake Up, Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")
   - [上坂堇](../Page/上坂堇.md "wikilink")
-  - [内田真礼](../Page/内田真礼.md "wikilink")
+  - [内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")
   - [奧華子](../Page/奧華子.md "wikilink")
   - [小倉唯](../Page/小倉唯.md "wikilink")
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
@@ -4088,29 +4284,31 @@ Left](../Page/蒼穹之戰神.md "wikilink")》片尾曲、電視動畫《[蒼�
 :; 8月25日\[13\]
 
 :\#
-[晴天愉快](../Page/晴天愉快.md "wikilink")（電視動畫《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》片尾曲）／SOS團（[平野綾](../Page/平野綾.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[後藤邑子](../Page/後藤邑子.md "wikilink")）
+[晴天愉快](../Page/晴天愉快.md "wikilink")（電視動畫《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》片尾曲）／SOS團（[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[後藤邑子](../Page/後藤邑子.md "wikilink")）
 
 :\#
-[歡迎來到加帕利公園](../Page/歡迎來到加帕利公園.md "wikilink")（電視動畫《[動物朋友](../Page/動物朋友.md "wikilink")》片頭曲）／動物朋友
-feat.[大石昌良](../Page/大石昌良.md "wikilink")
+[歡迎來到加帕利公園](https://zh.wikipedia.org/wiki/歡迎來到加帕利公園 "wikilink")（電視動畫《[動物朋友](https://zh.wikipedia.org/wiki/動物朋友 "wikilink")》片頭曲）／動物朋友
+feat.[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
 
 :\#
-[Connect](../Page/Connect.md "wikilink")（電視動畫《[魔法少女小圓](../Page/魔法少女小圓.md "wikilink")》主題曲）／[ClariS](../Page/ClariS.md "wikilink")
-
-:\# （電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片頭曲）／ClariS
+[Connect](../Page/Connect.md "wikilink")（電視動畫《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》主題曲）／[ClariS](../Page/ClariS.md "wikilink")
 
 :\#
-FLAWLESS（電視動畫《[決鬥大師VSRF](../Page/決鬥大師.md "wikilink")》片尾曲）／[Pyxis](../Page/Pyxis.md "wikilink")
-
-:\# （動畫《[庫洛魔法使](../Page/庫洛魔法使.md "wikilink")》第3期片頭曲）／Pyxis
+（電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片頭曲）／ClariS
 
 :\#
-（電視動畫《[騎士&魔法](../Page/騎士&魔法.md "wikilink")》片尾曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
+FLAWLESS（電視動畫《[決鬥大師VSRF](../Page/決鬥大師.md "wikilink")》片尾曲）／[Pyxis](https://zh.wikipedia.org/wiki/Pyxis "wikilink")
+
+:\#
+（動畫《[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")》第3期片頭曲）／Pyxis
+
+:\#
+（電視動畫《[騎士&魔法](https://zh.wikipedia.org/wiki/騎士&魔法 "wikilink")》片尾曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
 
 :\# （電視動畫《[政宗君的復仇](../Page/政宗君的復仇.md "wikilink")》片頭曲）／大橋彩香
 
 :\# fantastic
-dreamer（電視動畫《[為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")》片頭曲）／[Machico](../Page/Machico.md "wikilink")
+dreamer（電視動畫《[為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")》片頭曲）／[Machico](https://zh.wikipedia.org/wiki/Machico "wikilink")
 
 :\# TOMORROW（電視動畫《為美好的世界獻上祝福！2》片頭曲）／Machico
 
@@ -4121,22 +4319,25 @@ dreamer（電視動畫《[為美好的世界獻上祝福！](../Page/為美好�
 EFFECTOR（電視動畫《[雛邏輯～來自幸運邏輯～](../Page/幸運邏輯.md "wikilink")》片頭曲）／TRUE
 
 :\#
-DreamRiser（電視動畫《[少女與戰車](../Page/少女與戰車.md "wikilink")》片頭曲）／[Minami](../Page/Minami.md "wikilink")×TRUE
+DreamRiser（電視動畫《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》片頭曲）／[Minami](../Page/Minami.md "wikilink")×TRUE
 
 :\# illuminate（電視動畫《[Tales of Zestiria the
-X](../Page/熱情傳奇_the_X.md "wikilink")》第二季片頭曲）／Minami
-
-:\# ZERO\!\!（電視動畫《[打工吧！魔王大人](../Page/打工吧！魔王大人.md "wikilink")》片頭曲）／Minami
-
-:\# （電視動畫《[月刊少女野崎君](../Page/月刊少女野崎君.md "wikilink")》片頭曲）／OxT
-
-:\# Go EXCEED\!\!（電視動畫《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》片頭曲）／OxT
+X](https://zh.wikipedia.org/wiki/熱情傳奇_the_X "wikilink")》第二季片頭曲）／Minami
 
 :\#
-[巴拉萊卡琴](../Page/巴拉萊卡琴_\(歌曲\).md "wikilink")（電視動畫《[花漾明星](../Page/花漾明星.md "wikilink")》片頭曲2）／[田村由香里](../Page/田村由香里.md "wikilink")×OxT
+ZERO\!\!（電視動畫《[打工吧！魔王大人](https://zh.wikipedia.org/wiki/打工吧！魔王大人 "wikilink")》片頭曲）／Minami
 
 :\#
-（電視動畫《[CHAOS;CHILD](../Page/CHAOS;CHILD.md "wikilink")》片尾曲）／[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
+（電視動畫《[月刊少女野崎君](https://zh.wikipedia.org/wiki/月刊少女野崎君 "wikilink")》片頭曲）／OxT
+
+:\# Go
+EXCEED\!\!（電視動畫《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》片頭曲）／OxT
+
+:\#
+[巴拉萊卡琴](https://zh.wikipedia.org/wiki/巴拉萊卡琴_\(歌曲\) "wikilink")（電視動畫《[花漾明星](https://zh.wikipedia.org/wiki/花漾明星 "wikilink")》片頭曲2）／[田村由香里](../Page/田村由香里.md "wikilink")×OxT
+
+:\#
+（電視動畫《[CHAOS;CHILD](https://zh.wikipedia.org/wiki/CHAOS;CHILD "wikilink")》片尾曲）／[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
 
 :\# Blow
 out（電視動畫《[不正經的魔術講師與禁忌教典](../Page/不正經的魔術講師與禁忌教典.md "wikilink")》片頭曲）／鈴木KONOMI
@@ -4145,15 +4346,15 @@ out（電視動畫《[不正經的魔術講師與禁忌教典](../Page/不正經
 遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")》片頭曲）／鈴木KONOMI
 
 :\# BLACK SHOUT／[Roselia from BanG
-Dream\!](../Page/BanG_Dream!.md "wikilink")
+Dream\!](https://zh.wikipedia.org/wiki/BanG_Dream! "wikilink")
 
 :\# LOUDER／Roselia from BanG Dream\!
 
 :\# Break your
-fate（遊戲《[地下城與勇士](../Page/地下城與勇士.md "wikilink")》廣告歌曲）／[西澤幸奏](../Page/西澤幸奏.md "wikilink")
+fate（遊戲《[地下城與勇士](https://zh.wikipedia.org/wiki/地下城與勇士 "wikilink")》廣告歌曲）／[西澤幸奏](../Page/西澤幸奏.md "wikilink")
 
 :\#
-歸還（動畫電影《[艦隊Collection](../Page/艦隊Collection_\(動畫\).md "wikilink")》主題曲）／西澤幸奏
+歸還（動畫電影《[艦隊Collection](https://zh.wikipedia.org/wiki/艦隊Collection_\(動畫\) "wikilink")》主題曲）／西澤幸奏
 
 :\# （電視動畫《[天元突破
 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》片頭曲）／西澤幸奏×鈴木KONOMI
@@ -4161,7 +4362,7 @@ fate（遊戲《[地下城與勇士](../Page/地下城與勇士.md "wikilink")�
 :\# Installation(Acoustic)／[早見沙織](../Page/早見沙織.md "wikilink")
 
 :\#
-（動畫電影《[窈窕淑女前編～紅緒，花樣的17歲～](../Page/窈窕淑女_\(漫畫\)_#劇場版.md "wikilink")》主題曲）／早見沙織
+（動畫電影《[窈窕淑女前編～紅緒，花樣的17歲～](https://zh.wikipedia.org/wiki/窈窕淑女_\(漫畫\)_#劇場版 "wikilink")》主題曲）／早見沙織
 
 :\# （電視動畫《[農林](../Page/農林.md "wikilink")》片尾曲）／田村由香里
 
@@ -4169,13 +4370,16 @@ fate（遊戲《[地下城與勇士](../Page/地下城與勇士.md "wikilink")�
 
 :\# [青空Jumping
 Heart](../Page/青空Jumping_Heart.md "wikilink")（電視動畫《[LoveLive\!
-Sunshine\!\!](../Page/LoveLive!_Sunshine!!.md "wikilink")》片頭曲）／[Aqours](../Page/Aqours.md "wikilink")
+Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》片頭曲）／[Aqours](../Page/Aqours.md "wikilink")
 
-:\# [HAPPY PARTY TRAIN](../Page/HAPPY_PARTY_TRAIN.md "wikilink")／Aqours
+:\# [HAPPY PARTY
+TRAIN](https://zh.wikipedia.org/wiki/HAPPY_PARTY_TRAIN "wikilink")／Aqours
 
-:\# [想在AQUARIUM戀愛](../Page/想在AQUARIUM戀愛.md "wikilink")／Aqours
+:\#
+[想在AQUARIUM戀愛](https://zh.wikipedia.org/wiki/想在AQUARIUM戀愛 "wikilink")／Aqours
 
-:\# [從訴說夢想到歌唱夢想](../Page/從訴說夢想到歌唱夢想.md "wikilink")（電視動畫《LoveLive\!
+:\#
+[從訴說夢想到歌唱夢想](https://zh.wikipedia.org/wiki/從訴說夢想到歌唱夢想 "wikilink")（電視動畫《LoveLive\!
 Sunshine\!\!》片尾曲）／Aqours
 
 :\# ／茅原實里
@@ -4189,12 +4393,13 @@ Lost](../Page/Paradise_Lost.md "wikilink")（電視動畫《[食靈-零-](../Pag
 :\# INNOSENSE（電視動畫《Tales of Zestiria the
 X》第二季片尾曲）／[FLOW](../Page/FLOW_\(樂團\).md "wikilink")
 
-:\# WORLD END（電視動畫《[叛逆的魯魯修 R2](../Page/叛逆的魯魯修.md "wikilink")》片頭曲2）／FLOW
+:\# WORLD END（電視動畫《[叛逆的魯魯修
+R2](https://zh.wikipedia.org/wiki/叛逆的魯魯修 "wikilink")》片頭曲2）／FLOW
 
 :\# Go\!\!\!（電視動畫《[火影忍者](../Page/火影忍者.md "wikilink")》片頭曲4）／FLOW
 
 :\# 7
--seven-（電視動畫《[七大罪](../Page/七大罪_\(漫畫\).md "wikilink")》片尾曲）／FLOW×[GRANRODEO](../Page/GRANRODEO.md "wikilink")
+-seven-（電視動畫《[七大罪](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")》片尾曲）／FLOW×[GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 :\# Glorious days（動畫電影《[黑子的籃球 LAST
 GAME](../Page/黑子的籃球.md "wikilink")》主題曲／GRANRODEO
@@ -4210,10 +4415,10 @@ self（電視動畫《[黑子的籃球](../Page/黑子的籃球.md "wikilink")�
 :; 8月26日\[14\]
 
 :\#
-（電視動畫《[亞人](../Page/亞人_\(漫畫\).md "wikilink")》第二季片頭曲）／[angela](../Page/angela.md "wikilink")×[fripSide](../Page/fripSide.md "wikilink")
+（電視動畫《[亞人](../Page/亞人_\(漫畫\).md "wikilink")》第二季片頭曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")×[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\# （電視動畫《[蒼穹之戰神
-EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](../Page/angela.md "wikilink")
+EXODUS](../Page/蒼穹之戰神.md "wikilink")》片頭曲）／[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 :\# 全力☆Summer\!（電視動畫《[單蠢女孩](../Page/單蠢女孩.md "wikilink")》片頭曲）／angela
 
@@ -4231,52 +4436,53 @@ Romance\>\>\>\>\>（電視動畫《[烏菈菈迷路帖](../Page/烏菈菈迷路�
 Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 
 :\# Fight on\!（電視動畫《[Gamers
-電玩咖！](../Page/Gamers_電玩咖！.md "wikilink")》片尾曲）／Luce
+電玩咖！](https://zh.wikipedia.org/wiki/Gamers_電玩咖！ "wikilink")》片尾曲）／Luce
 Twinkle Wink☆
 
 :\# §Rainbow（電視動畫《[星光少女
-彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")》片尾曲2）／[i☆Ris](../Page/i☆Ris.md "wikilink")
+彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")》片尾曲2）／[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
 
-:\# Shining Star（電視動畫《[星光樂園](../Page/星光樂園.md "wikilink")》第三季片頭曲3）／i☆Ris
+:\# Shining
+Star（電視動畫《[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")》第三季片頭曲3）／i☆Ris
 
 :\# （電視動畫《[蟲奉行](../Page/蟲奉行.md "wikilink")》片尾曲）／i☆Ris
 
 :\# You Only Live Once（電視動畫《[Yuri\!\!\! on
-ICE](../Page/Yuri!!!_on_ICE.md "wikilink")》片尾曲）／[YURI\!\!\! on ICE feat.
-w.hatano](../Page/羽多野渉.md "wikilink")
+ICE](https://zh.wikipedia.org/wiki/Yuri!!!_on_ICE "wikilink")》片尾曲）／[YURI\!\!\!
+on ICE feat. w.hatano](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")
 
 :\#
-（電視動畫《[獨佔我的英雄](../Page/獨佔我的英雄.md "wikilink")》片頭曲）／[羽多野渉](../Page/羽多野渉.md "wikilink")
+（電視動畫《[獨佔我的英雄](https://zh.wikipedia.org/wiki/獨佔我的英雄 "wikilink")》片頭曲）／[羽多野渉](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")
 
 :\#
-（電視動畫《[月色真美](../Page/月色真美.md "wikilink")》片頭曲）／[東山奈央](../Page/東山奈央.md "wikilink")
+（電視動畫《[月色真美](https://zh.wikipedia.org/wiki/月色真美 "wikilink")》片頭曲）／[東山奈央](../Page/東山奈央.md "wikilink")
 
 :\# （電視動畫《月色真美》片尾曲）／東山奈央
 
 :\# TRY UNITE\! -extended
-version-（電視動畫《[輪迴的拉格朗日](../Page/輪迴的拉格朗日.md "wikilink")》片頭曲）／[中島愛](../Page/中島愛.md "wikilink")
+version-（電視動畫《[輪迴的拉格朗日](../Page/輪迴的拉格朗日.md "wikilink")》片頭曲）／[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :\#
-[星間飛行](../Page/星間飛行.md "wikilink")（電視動畫《[超時空要塞Frontier](../Page/超時空要塞Frontier.md "wikilink")》插曲）／中島愛
+[星間飛行](../Page/星間飛行.md "wikilink")（電視動畫《[超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》插曲）／中島愛
 
-:\# ／[三森鈴子](../Page/三森鈴子.md "wikilink")
+:\# ／[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
 
 :\# （動畫電影《[結城友奈是勇者-鷲尾須美之章-](../Page/鷲尾須美是勇者.md "wikilink")》片頭曲）／三森鈴子
 
 :\# 混合曲：My Only Place～[Super Noisy
-Nova](../Page/Super_Noisy_Nova.md "wikilink")（電視動畫《[神裝少女小纏](../Page/神裝少女小纏.md "wikilink")》片尾曲、《[浪漫追星社](../Page/浪漫追星社.md "wikilink")》片頭曲）／[sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+Nova](../Page/Super_Noisy_Nova.md "wikilink")（電視動畫《[神裝少女小纏](../Page/神裝少女小纏.md "wikilink")》片尾曲、《[浪漫追星社](../Page/浪漫追星社.md "wikilink")》片頭曲）／[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
 
 :\# [MOON
-SIGNAL](../Page/MOON_SIGNAL.md "wikilink")（電視動畫《[半妖少女綺麗譚](../Page/半妖少女綺麗譚.md "wikilink")》片頭曲）／sphere
+SIGNAL](../Page/MOON_SIGNAL.md "wikilink")（電視動畫《[半妖少女綺麗譚](https://zh.wikipedia.org/wiki/半妖少女綺麗譚 "wikilink")》片頭曲）／sphere
 
 :\# [HIGH
 POWERED](../Page/HIGH_POWERED.md "wikilink")（電視動畫《[侵略！花枝娘](../Page/侵略！花枝娘.md "wikilink")》第二季片頭曲）／sphere
 
 :\# （電視動畫《[KiraKira☆光之美少女 A La
-Mode](../Page/KiraKira☆光之美少女_A_La_Mode.md "wikilink")》片頭曲）／[駒形友梨](../Page/駒形友梨.md "wikilink")
+Mode](https://zh.wikipedia.org/wiki/KiraKira☆光之美少女_A_La_Mode "wikilink")》片頭曲）／[駒形友梨](../Page/駒形友梨.md "wikilink")
 
 :\# （電視動畫《KiraKira☆光之美少女 A La
-Mode》片尾曲2）／[宮本佳那子](../Page/宮本佳那子.md "wikilink")
+Mode》片尾曲2）／[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")
 
 :\# （電視動畫《KiraKira☆光之美少女 A La Mode》片尾曲）／KiraKira☆光之美少女 A La Mode Summer
 Session
@@ -4286,29 +4492,31 @@ HIDE-AND-SEEK（電視動畫《[半田君傳說](../Page/元氣囝仔.md "wikili
 
 :\# SHIPS／鈴村健一
 
-:\# 英雄（特攝影集《[超人力斯](../Page/超人力斯.md "wikilink")》片頭曲）／鈴村健一×羽多野渉
+:\#
+英雄（特攝影集《[超人力斯](https://zh.wikipedia.org/wiki/超人力斯 "wikilink")》片頭曲）／鈴村健一×羽多野渉
 
 :\# [Don't say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")（電視動畫《[K-ON！輕音少女](../Page/K-ON！輕音少女.md "wikilink")》片尾曲）／Minorin×Mimorin（[茅原實里](../Page/茅原實里.md "wikilink")×三森鈴子）
+"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")（電視動畫《[K-ON！輕音少女](https://zh.wikipedia.org/wiki/K-ON！輕音少女 "wikilink")》片尾曲）／Minorin×Mimorin（[茅原實里](../Page/茅原實里.md "wikilink")×三森鈴子）
 
 :\#
 （電視動畫《[初戀怪獸](../Page/初戀怪獸.md "wikilink")》片尾曲）／[蒼井翔太](../Page/蒼井翔太.md "wikilink")
 
-:\# [DDD](../Page/DDD_\(蒼井翔太單曲\).md "wikilink")（電視動畫《[未來卡片
+:\#
+[DDD](https://zh.wikipedia.org/wiki/DDD_\(蒼井翔太單曲\) "wikilink")（電視動畫《[未來卡片
 戰鬥夥伴DDD](../Page/未來卡片_戰鬥夥伴.md "wikilink")》片頭曲）／蒼井翔太
 
 :\#
-（電視動畫《[有頂天家族2](../Page/有頂天家族.md "wikilink")》片尾曲）／[fhána](../Page/fhána.md "wikilink")
+（電視動畫《[有頂天家族2](../Page/有頂天家族.md "wikilink")》片尾曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
 :\# Hello\!My
-World\!\!（電視動畫《[騎士&魔法](../Page/騎士&魔法.md "wikilink")》片頭曲）／fhána
+World\!\!（電視動畫《[騎士&魔法](https://zh.wikipedia.org/wiki/騎士&魔法 "wikilink")》片頭曲）／fhána
 
 :\# （電視動畫《[小林家的龍女僕](../Page/小林家的龍女僕.md "wikilink")》片頭曲）／fhána
 
 :\# （電視動畫《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》片頭曲）／sphere×i☆Ris
 
 :\#
-（電視動畫《[七龍珠超](../Page/七龍珠超.md "wikilink")》片頭曲2）／[冰川清志](../Page/冰川清志.md "wikilink")
+（電視動畫《[七龍珠超](https://zh.wikipedia.org/wiki/七龍珠超 "wikilink")》片頭曲2）／[冰川清志](../Page/冰川清志.md "wikilink")
 
 :\# CHA-LA HEAD-CHA-LA（電視動畫《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》片頭曲）／冰川清志
 
@@ -4323,7 +4531,7 @@ Harmony／IDOLM@STER MILLIONSTARS
 :\# Brand New Theater\!／IDOLM@STER MILLIONSTARS
 
 :\# [black
-bullet](../Page/black_bullet.md "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／[fripSide](../Page/fripSide.md "wikilink")
+bullet](https://zh.wikipedia.org/wiki/black_bullet "wikilink")（電視動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲）／[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 :\# The end of escape（電視動畫《亞人》第二季片頭曲2）／fripSide×angela
 
@@ -4331,17 +4539,19 @@ bullet](../Page/black_bullet.md "wikilink")（電視動畫《[黑色子彈](../P
 planet（電視動畫《[時鐘機關之星](../Page/時鐘機關之星.md "wikilink")》片頭曲）／fripSide
 
 :\# [only my
-railgun](../Page/only_my_railgun.md "wikilink")（電視動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲）／fripSide
+railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")（電視動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲）／fripSide
 
 :\# Playing The World／ASL2017演出者
 
 :; 8月27日\[15\]
 
-:\# 混合曲：[crossing field](../Page/crossing_field.md "wikilink")～Chase the
-world（電視動畫《[刀劍神域](../Page/刀劍神域.md "wikilink")》片頭曲、《[加速世界](../Page/加速世界.md "wikilink")》片頭曲）／[LiSA](../Page/LiSA.md "wikilink")×[May'n](../Page/May'n.md "wikilink")
+:\# 混合曲：[crossing
+field](https://zh.wikipedia.org/wiki/crossing_field "wikilink")～Chase
+the
+world（電視動畫《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片頭曲、《[加速世界](../Page/加速世界.md "wikilink")》片頭曲）／[LiSA](../Page/LiSA.md "wikilink")×[May'n](../Page/May'n.md "wikilink")
 
 :\# [Inner
-Urge](../Page/Inner_Urge.md "wikilink")（電視動畫《[下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")》片尾曲）／[上坂堇](../Page/上坂堇.md "wikilink")
+Urge](https://zh.wikipedia.org/wiki/Inner_Urge "wikilink")（電視動畫《[下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")》片尾曲）／[上坂堇](../Page/上坂堇.md "wikilink")
 
 :\# （電視動畫《[單蠢女孩](../Page/單蠢女孩.md "wikilink")》片尾曲）／上坂堇
 
@@ -4357,14 +4567,15 @@ Urge](../Page/Inner_Urge.md "wikilink")（電視動畫《[下流梗不存在的�
 :\# 混合曲：～（電視動畫《[物語系列
 第二季](../Page/物語系列_第二季.md "wikilink")》片尾曲、《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》片頭曲）／春奈露娜
 
-:\# [Starry Wish](../Page/Starry_Wish.md "wikilink")（電視動畫《[ViVid
+:\# [Starry
+Wish](https://zh.wikipedia.org/wiki/Starry_Wish "wikilink")（電視動畫《[ViVid
 Strike\!](../Page/ViVid_Strike!.md "wikilink")》片尾曲）／[水瀨祈](../Page/水瀨祈.md "wikilink")
 
 :\#
-[曖昧模糊](../Page/曖昧模糊.md "wikilink")（電視動畫《[徒然喜歡你](../Page/徒然喜歡你.md "wikilink")》片頭曲）／水瀨祈
+[曖昧模糊](https://zh.wikipedia.org/wiki/曖昧模糊 "wikilink")（電視動畫《[徒然喜歡你](https://zh.wikipedia.org/wiki/徒然喜歡你 "wikilink")》片頭曲）／水瀨祈
 
 :\#
-（電視動畫《[清戀](../Page/清戀.md "wikilink")》片頭曲）／[奧華子](../Page/奧華子.md "wikilink")
+（電視動畫《[清戀](https://zh.wikipedia.org/wiki/清戀 "wikilink")》片頭曲）／[奧華子](../Page/奧華子.md "wikilink")
 
 :\# （動畫電影《[穿越時空的少女](../Page/跳躍吧！時空少女.md "wikilink")》片尾曲）／奧華子
 
@@ -4372,24 +4583,26 @@ Strike\!](../Page/ViVid_Strike!.md "wikilink")》片尾曲）／[水瀨祈](../P
 Strike\!》片頭曲）／[小倉唯](../Page/小倉唯.md "wikilink")
 
 :\# 混合曲：～Honey♥Come\!\!（電視動畫《[卡片鬥爭\!\! 先導者G
-超越之門篇](../Page/卡片鬥爭!!_先導者.md "wikilink")》片尾曲、《[城下町的蒲公英](../Page/城下町的蒲公英.md "wikilink")》片尾曲）／小倉唯
+超越之門篇](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲、《[城下町的蒲公英](../Page/城下町的蒲公英.md "wikilink")》片尾曲）／小倉唯
 
 :\#
-[Magic∞world](../Page/Magic∞world.md "wikilink")（電視動畫《[魔法禁書目錄Ⅱ](../Page/魔法禁書目錄.md "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
+[Magic∞world](../Page/Magic∞world.md "wikilink")（電視動畫《[魔法禁書目錄Ⅱ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
 
 :\# VERMILLION（電視動畫《[漂流武士](../Page/漂流武士.md "wikilink")》片尾曲）／黑崎真音
 
 :\# 混合曲：～～～Pleasure Stride～（電視動畫《[未來卡片
 戰鬥夥伴100](../Page/未來卡片_戰鬥夥伴.md "wikilink")》片尾曲2、《[卡片鬥爭\!\!
-先導者](../Page/卡片鬥爭!!_先導者.md "wikilink")》片尾曲4、*不適用*、《[卡片鬥爭\!\! 先導者G
-NEXT](../Page/卡片鬥爭!!_先導者.md "wikilink")》片尾曲3、《卡片鬥爭\!\! 先導者》片尾曲4）／[Milky
-Holmes](../Page/Milky_Holmes.md "wikilink")
+先導者](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲4、*不適用*、《[卡片鬥爭\!\!
+先導者G
+NEXT](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片尾曲3、《卡片鬥爭\!\!
+先導者》片尾曲4）／[Milky Holmes](../Page/Milky_Holmes.md "wikilink")
 
-:\# （電視動畫《[偵探歌劇 少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／Milky
+:\# （電視動畫《[偵探歌劇
+少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／Milky
 Holmes
 
 :\# Last Proof（動畫電影《[TRINITY SEVEN
--悠久圖書館與鍊金術少女-](../Page/TRINITY_SEVEN_魔道書7使者.md "wikilink")》主題曲）／[ZAQ](../Page/ZAQ.md "wikilink")
+-悠久圖書館與鍊金術少女-](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink")》主題曲）／[ZAQ](../Page/ZAQ.md "wikilink")
 
 :\#
 Alteration（電視動畫《[鎖鎖美小姐@不好好努力](../Page/鎖鎖美小姐@不好好努力.md "wikilink")》片頭曲）／ZAQ
@@ -4406,22 +4619,24 @@ feat.
 
 :\# ／B-PROJECT
 
-:\# One In A Billion（電視動畫《[異世界食堂](../Page/異世界食堂.md "wikilink")》片頭曲）／Wake
+:\# One In A
+Billion（電視動畫《[異世界食堂](https://zh.wikipedia.org/wiki/異世界食堂 "wikilink")》片頭曲）／Wake
 Up, May'n（[Wake Up,
-Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")×May'n）
+Girls\!](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!_\(聲優組合\) "wikilink")×May'n）
 
-:\# （電視動畫《[戀愛暴君](../Page/戀愛暴君_\(三星眼鏡的漫畫\).md "wikilink")》片頭曲）／Wake Up,
-Girls\!
+:\#
+（電視動畫《[戀愛暴君](https://zh.wikipedia.org/wiki/戀愛暴君_\(三星眼鏡的漫畫\) "wikilink")》片頭曲）／Wake
+Up, Girls\!
 
 :\# Beyond the Bottom（動畫電影《[Wake Up, Girls！Beyond the
 Bottom](../Page/Wake_Up,_Girls!.md "wikilink")》主題曲／Wake Up, Girls\!
 
 :\# Reason Living（電視動畫《[文豪Stray
-Dogs](../Page/文豪Stray_Dogs.md "wikilink")》片頭曲2）／[SCREEN
+Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")》片頭曲2）／[SCREEN
 mode](../Page/SCREEN_mode.md "wikilink")
 
 :\#
-MYSTERIUM（電視動畫《[梵諦岡奇蹟調查官](../Page/梵諦岡奇蹟調查官.md "wikilink")》片頭曲）／SCREEN
+MYSTERIUM（電視動畫《[梵諦岡奇蹟調查官](https://zh.wikipedia.org/wiki/梵諦岡奇蹟調查官 "wikilink")》片頭曲）／SCREEN
 mode
 
 :\# （電視動畫《[大\~集合！小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》片頭曲）／MILKY
@@ -4432,28 +4647,28 @@ mode（Milky Holmes×SCREEN mode）
 :\# +INTERSECT+／內田真禮
 
 :\#
-（電視動畫《[亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
+（電視動畫《[亞人醬有話要說](https://zh.wikipedia.org/wiki/亞人醬有話要說 "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
 
 :\#
-adrenaline\!\!\!（電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片尾曲）／TrySail
+adrenaline\!\!\!（電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片尾曲）／TrySail
 
 :\# [oath
-sign](../Page/oath_sign.md "wikilink")（電視動畫《[Fate/Zero](../Page/Fate/Zero.md "wikilink")》片頭曲）／LiSA
+sign](https://zh.wikipedia.org/wiki/oath_sign "wikilink")（電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲）／LiSA
 
 :\# （電視動畫《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》片尾曲3）／LiSA
 
 :\# [Catch the
-Moment](../Page/Catch_the_Moment.md "wikilink")（動畫電影《[刀劍神域劇場版
--序列爭戰-](../Page/刀劍神域劇場版_-序列爭戰-.md "wikilink")》主題曲）／LiSA
+Moment](https://zh.wikipedia.org/wiki/Catch_the_Moment "wikilink")（動畫電影《[刀劍神域劇場版
+-序列爭戰-](https://zh.wikipedia.org/wiki/刀劍神域劇場版_-序列爭戰- "wikilink")》主題曲）／LiSA
 
 :\# [Rising
-Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](../Page/魔法科高中的劣等生.md "wikilink")》片頭曲）／LiSA
+Hope](../Page/Rising_Hope.md "wikilink")（電視動畫《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》片頭曲）／LiSA
 
 :\# TESTAMENT -Aufwachen Form-（電視動畫《[戰姬絕唱SYMPHOGEAR
 AXZ](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》片頭曲）／[水樹奈奈](../Page/水樹奈奈.md "wikilink")
 
 :\# Destiny's
-Prelude（動畫電影《[魔法少女奈葉Reflection](../Page/魔法少女奈葉Reflection.md "wikilink")》主題曲）／水樹奈奈
+Prelude（動畫電影《[魔法少女奈葉Reflection](https://zh.wikipedia.org/wiki/魔法少女奈葉Reflection "wikilink")》主題曲）／水樹奈奈
 
 :\# Invisible Heat（動畫電影《魔法少女奈葉Reflection》插曲）／水樹奈奈
 
@@ -4467,15 +4682,15 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 ### Animelo Summer Live 2018 OK\!
 
   - 舉辦日期：2018年8月24日－8月26日
-  - 會場：[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")
-  - 主辦：MAGES.、[文化放送](../Page/文化放送.md "wikilink")、[BS富士](../Page/BS富士.md "wikilink")
+  - 會場：[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")
+  - 主辦：MAGES.、[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")、[BS富士](../Page/BS富士.md "wikilink")
   - 協力贊助：ANiUTa、[Good Smile
     Company](../Page/Good_Smile_Company.md "wikilink")、LIVE DAM STADIUM
   - 後援：[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")、[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[King
-    Records](../Page/King_Records.md "wikilink")、ZERO-A、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、ZERO-A、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")、DIVE
     II
-    entertainment、[東寶映像事業部](../Page/東寶.md "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[萬代南夢宮遊戲](../Page/萬代南夢宮遊戲.md "wikilink")、[5pb.](../Page/5pb..md "wikilink")、[Flying
-    DOG](../Page/Flying_DOG.md "wikilink")、[武士道](../Page/武士道.md "wikilink")、[波麗佳音](../Page/波麗佳音.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[日本華納家庭娛樂](../Page/日本華納家庭娛樂.md "wikilink")
+    entertainment、[東寶映像事業部](../Page/東寶.md "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/萬代南夢宮遊戲 "wikilink")、[5pb.](../Page/5pb..md "wikilink")、[Flying
+    DOG](../Page/Flying_DOG.md "wikilink")、[武士道](../Page/武士道.md "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[日本華納家庭娛樂](../Page/日本華納家庭娛樂.md "wikilink")
   - 企劃：AniSummer Project實行委員會
   - 協力：埼玉超級競技場、[7-Eleven](../Page/7-Eleven.md "wikilink")、[淘兒唱片](../Page/淘兒唱片.md "wikilink")、PIA
   - 製作協力：Grand Slam
@@ -4483,9 +4698,9 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 #### 主題曲
 
   - 「Stand by...MUSIC\!\!\!」\[16\]
-    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲、編曲：[神前曉](../Page/神前曉.md "wikilink")
-    主唱：[偶像大師SideM](../Page/偶像大師SideM.md "wikilink")、[偶像大師
-    百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")、[亞咲花](../Page/亞咲花.md "wikilink")、[伊藤美来](../Page/伊藤美来.md "wikilink")、[内田彩](../Page/内田彩.md "wikilink")、[內田真禮](../Page/內田真禮.md "wikilink")、[大石昌良](../Page/大石昌良.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")、[鈴木實里](../Page/鈴木實里.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、[fhána](../Page/fhána.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")
+    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")
+    主唱：[偶像大師SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")、[偶像大師
+    百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")、[亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")、[伊藤美来](https://zh.wikipedia.org/wiki/伊藤美来 "wikilink")、[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")、[內田真禮](../Page/內田真禮.md "wikilink")、[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")、[鈴木實里](https://zh.wikipedia.org/wiki/鈴木實里 "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")
 
 #### 出演者
 
@@ -4494,36 +4709,37 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [Aqours](../Page/Aqours.md "wikilink")
-  - [亞咲花](../Page/亞咲花.md "wikilink")
-  - [伊藤美来](../Page/伊藤美来.md "wikilink")
+  - [亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")
+  - [伊藤美来](https://zh.wikipedia.org/wiki/伊藤美来 "wikilink")
   - [內田彩](../Page/內田彩.md "wikilink")
   - [OLDCODEX](../Page/OLDCODEX.md "wikilink")
-  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
-  - [DearDream](../Page/夢幻慶典.md "wikilink")
+  - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+  - [DearDream](https://zh.wikipedia.org/wiki/夢幻慶典 "wikilink")
   - [春奈露娜](../Page/春奈露娜.md "wikilink")
-  - [Poppin'Party](../Page/BanG_Dream!.md "wikilink")
-  - [MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")
+  - [Poppin'Party](https://zh.wikipedia.org/wiki/BanG_Dream! "wikilink")
+  - [MYTH & ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
 
 </div>
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [三森鈴子](../Page/三森鈴子.md "wikilink")
+  - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
 
   - [黑崎真音](../Page/黑崎真音.md "wikilink")
 
   - [大無限樂團](../Page/大無限樂團.md "wikilink")
 
-  - [中島愛](../Page/中島愛.md "wikilink")
+  - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
   - [伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
 
   -
-  - 蓮（[楠木灯](../Page/楠木灯.md "wikilink")）
+  - 蓮（[楠木灯](https://zh.wikipedia.org/wiki/楠木灯 "wikilink")）
 
   - [山崎惠理](../Page/山崎惠理.md "wikilink")
 
-  - [Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+  - [Wake Up,
+    Girls\!](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!_\(聲優組合\) "wikilink")
 
   - [藍井艾露](../Page/藍井艾露.md "wikilink")
 
@@ -4533,7 +4749,7 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [偶像大師SideM](../Page/偶像大師SideM.md "wikilink")
+  - [偶像大師SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")
   - [內田真禮](../Page/內田真禮.md "wikilink")
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
@@ -4541,7 +4757,7 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
   - [茅原實里](../Page/茅原實里.md "wikilink")
   - [TRUE](../Page/唐澤美帆.md "wikilink")
   - [TrySail](../Page/TrySail.md "wikilink")
-  - [fhána](../Page/fhána.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
   - [水瀨祈](../Page/水瀨祈.md "wikilink")
 
 </div>
@@ -4549,12 +4765,14 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [悠木碧](../Page/悠木碧.md "wikilink")
-  - [賽馬娘Pretty Derby](../Page/賽馬娘Pretty_Derby.md "wikilink")
+  - [賽馬娘Pretty
+    Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")
   - [宮野真守](../Page/宮野真守.md "wikilink")
-  - [Starlight九九組](../Page/少女☆歌劇Revue_Starlight.md "wikilink")
+  - [Starlight九九組](https://zh.wikipedia.org/wiki/少女☆歌劇Revue_Starlight "wikilink")
   - [Minami](../Page/Minami.md "wikilink")
-  - [山崎遙](../Page/山崎遙.md "wikilink")
-  - [petit milady](../Page/petit_milady.md "wikilink")
+  - [山崎遙](https://zh.wikipedia.org/wiki/山崎遙 "wikilink")
+  - [petit
+    milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 
 </div>
 
@@ -4566,8 +4784,8 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
   - [I☆Ris](../Page/I☆Ris.md "wikilink")
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
   - [上坂堇](../Page/上坂堇.md "wikilink")
-  - [大石昌良](../Page/大石昌良.md "wikilink")
-  - [ORESAMA](../Page/ORESAMA.md "wikilink")
+  - [大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
+  - [ORESAMA](https://zh.wikipedia.org/wiki/ORESAMA "wikilink")
   - [ZAQ](../Page/ZAQ.md "wikilink")
   - [妹S](../Page/干物妹！小埋.md "wikilink")
   - [JAM Project](../Page/JAM_Project.md "wikilink")
@@ -4577,7 +4795,7 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [鈴木實里](../Page/鈴木實里.md "wikilink")
+  - [鈴木實里](https://zh.wikipedia.org/wiki/鈴木實里 "wikilink")
 
   - [早見沙織](../Page/早見沙織.md "wikilink")
 
@@ -4588,13 +4806,13 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
   - [小倉唯](../Page/小倉唯.md "wikilink")
 
   -
-  - [OxT](../Page/OxT.md "wikilink")
+  - [OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
-  - [麻倉桃](../Page/麻倉桃.md "wikilink")
+  - [麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")
 
-  - [雨宮天](../Page/雨宮天.md "wikilink")
+  - [雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")
 
-  - [夏川椎菜](../Page/夏川椎菜.md "wikilink")
+  - [夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")
 
 </div>
 
@@ -4603,89 +4821,96 @@ UNLIMITED](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")》主題曲）／水樹
 :; 8月24日\[20\]
 
 :\# DISCOTHEQUE（電視動畫《[十字架與吸血鬼
-CAPU2](../Page/十字架與吸血鬼.md "wikilink")》片頭曲）／[三森鈴子](../Page/三森鈴子.md "wikilink")×[内田彩](../Page/内田彩.md "wikilink")
+CAPU2](../Page/十字架與吸血鬼.md "wikilink")》片頭曲）／[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")×[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")
 
 :\# 流星（電視動畫《[刀劍神域外傳Gun Gale
-Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》片頭曲）／[藍井艾露](../Page/藍井艾露.md "wikilink")
+Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》片頭曲）／[藍井艾露](../Page/藍井艾露.md "wikilink")
 
 :\# （電視動畫《[亞爾斯蘭戰記](../Page/亞爾斯蘭戰記.md "wikilink")》片尾曲 ）／藍井艾露
 
 :\# SPEED
-STAR（劇場版《[魔法科高中的劣等生：呼喚繁星的少女](../Page/魔法科高中的劣等生.md "wikilink")》主題曲）／[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
+STAR（劇場版《[魔法科高中的劣等生：呼喚繁星的少女](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》主題曲）／[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
 
 :\# Error（電視動畫《[沒有心跳的少女
-BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")》片頭曲）／GARNiDELiA
+BEATLESS](https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS "wikilink")》片頭曲）／GARNiDELiA
 
 :\#
-[你不知道的故事](../Page/你不知道的故事.md "wikilink")（電視動畫《[化物語](../Page/化物語.md "wikilink")》片尾曲）／GARNiDELiA×[中島愛](../Page/中島愛.md "wikilink")
+[你不知道的故事](../Page/你不知道的故事.md "wikilink")（電視動畫《[化物語](../Page/化物語.md "wikilink")》片尾曲）／GARNiDELiA×[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :\# To see the future（電視動畫《刀劍神域外傳Gun Gale
-Online》片尾曲）／蓮（[楠木灯](../Page/楠木灯.md "wikilink")）
+Online》片尾曲）／蓮（[楠木灯](https://zh.wikipedia.org/wiki/楠木灯 "wikilink")）
 
 :\# Shocking
-Blue（電視動畫《[武裝少女Machiavellianism](../Page/武裝少女Machiavellianism.md "wikilink")》片頭曲）／[伊藤美來](../Page/伊藤美來.md "wikilink")
+Blue（電視動畫《[武裝少女Machiavellianism](https://zh.wikipedia.org/wiki/武裝少女Machiavellianism "wikilink")》片頭曲）／[伊藤美來](../Page/伊藤美來.md "wikilink")
 
 :\# （電視動畫《[龍王的工作！](../Page/龍王的工作！.md "wikilink")》片尾曲）／伊藤美來
 
 :\# PLEASURE
-FLAG（電視動畫《[夢幻慶典](../Page/夢幻慶典.md "wikilink")》片頭曲）／[DearDream](../Page/夢幻慶典.md "wikilink")
+FLAG（電視動畫《[夢幻慶典](https://zh.wikipedia.org/wiki/夢幻慶典 "wikilink")》片頭曲）／[DearDream](https://zh.wikipedia.org/wiki/夢幻慶典 "wikilink")
 
-:\# （電視動畫《[夢幻慶典R](../Page/夢幻慶典.md "wikilink")》片頭曲）／DearDream
+:\#
+（電視動畫《[夢幻慶典R](https://zh.wikipedia.org/wiki/夢幻慶典 "wikilink")》片頭曲）／DearDream
 
 :\# Open your
-eyes（電視動畫《[超自然9人組](../Page/超自然9人組.md "wikilink")》片尾曲）／[亞咲花](../Page/亞咲花.md "wikilink")
+eyes（電視動畫《[超自然9人組](https://zh.wikipedia.org/wiki/超自然9人組 "wikilink")》片尾曲）／[亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")
 
-:\# SHINY DAYS（電視動畫《[搖曳露營△](../Page/搖曳露營△.md "wikilink")》片頭曲）／亞咲花
+:\# SHINY
+DAYS（電視動畫《[搖曳露營△](https://zh.wikipedia.org/wiki/搖曳露營△ "wikilink")》片頭曲）／亞咲花
 
 :\# Bright
 way（電視動畫《[百鍊霸王與聖約女武神](../Page/百鍊霸王與聖約女武神.md "wikilink")》片頭曲）／内田彩
 
 :\# So
-Happy（電視動畫《[你還是不懂群馬](../Page/你還是不懂群馬.md "wikilink")》片尾曲）／内田彩、[群馬將](../Page/群馬將.md "wikilink")
+Happy（電視動畫《[你還是不懂群馬](https://zh.wikipedia.org/wiki/你還是不懂群馬 "wikilink")》片尾曲）／内田彩、[群馬將](https://zh.wikipedia.org/wiki/群馬將 "wikilink")
 
 :\#
-Starlight（電視動畫《[昴宿七星](../Page/昴宿七星.md "wikilink")》片尾曲）／[山崎惠理](../Page/山崎惠理.md "wikilink")
+Starlight（電視動畫《[昴宿七星](https://zh.wikipedia.org/wiki/昴宿七星 "wikilink")》片尾曲）／[山崎惠理](../Page/山崎惠理.md "wikilink")
 
 :\# （電視動畫《[橘子醬男孩](../Page/橘子醬男孩.md "wikilink")》片頭曲）／伊藤美來×山崎惠理
 
-:\# ／[Poppin'Party](../Page/BanG_Dream!.md "wikilink")
+:\#
+／[Poppin'Party](https://zh.wikipedia.org/wiki/BanG_Dream! "wikilink")
 
 :\# （電視動畫《[BanG
-Dream\!](../Page/BanG_Dream!.md "wikilink")》片尾曲）／Poppin'Party
+Dream\!](https://zh.wikipedia.org/wiki/BanG_Dream! "wikilink")》片尾曲）／Poppin'Party
 
 :\# God
 knows...（電視動畫《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》插曲）／Poppin'Party
 
 :\#
-（電視動畫《[命運石之門0](../Page/命運石之門0.md "wikilink")》片頭曲）／[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
+（電視動畫《[命運石之門0](https://zh.wikipedia.org/wiki/命運石之門0 "wikilink")》片頭曲）／[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
 
 :\# LAST GAME（電視動畫《命運石之門0》片尾曲）／
 
 :\# （電視動畫《[命運石之門](../Page/命運石之門.md "wikilink")》片尾曲）／伊藤香奈子×Zwei
 
-:\# （劇場版《[Macross F 戀離飛翼](../Page/超時空要塞Frontier.md "wikilink")》主題曲）／中島愛
+:\# （劇場版《[Macross F
+戀離飛翼](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")》主題曲）／中島愛
 
-:\# （電視動畫《[網路勝利組](../Page/網路勝利組.md "wikilink")》片頭曲）／中島愛
+:\#
+（電視動畫《[網路勝利組](https://zh.wikipedia.org/wiki/網路勝利組 "wikilink")》片頭曲）／中島愛
 
 :\#
 （電視動畫《[搖曳莊的幽奈小姐](../Page/搖曳莊的幽奈小姐.md "wikilink")》片頭曲）／[春奈露娜](../Page/春奈露娜.md "wikilink")
 
 :\#
-[Startear](../Page/Startear.md "wikilink")（電視動畫《[刀劍神域Ⅱ](../Page/刀劍神域.md "wikilink")》片尾曲）／春奈露娜
+[Startear](../Page/Startear.md "wikilink")（電視動畫《[刀劍神域Ⅱ](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》片尾曲）／春奈露娜
 
 :\#
-[多愁善感的瞬間](../Page/多愁善感的瞬間.md "wikilink")（電視動畫《[鋼之鍊金術師FA](../Page/鋼之鍊金術師FA.md "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")×春奈露娜
+[多愁善感的瞬間](../Page/多愁善感的瞬間.md "wikilink")（電視動畫《[鋼之鍊金術師FA](https://zh.wikipedia.org/wiki/鋼之鍊金術師FA "wikilink")》片尾曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")×春奈露娜
 feat.
-[大塚紗英](../Page/大塚紗英.md "wikilink")&[西本梨美](../Page/西本梨美.md "wikilink")
+[大塚紗英](https://zh.wikipedia.org/wiki/大塚紗英 "wikilink")&[西本梨美](https://zh.wikipedia.org/wiki/西本梨美 "wikilink")
 from Poppin'Party
 
-:\# décadence --（電視動畫《[罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")》片尾曲）／黑崎真音
+:\# décadence
+--（電視動畫《[罪人與龍共舞](https://zh.wikipedia.org/wiki/罪人與龍共舞 "wikilink")》片尾曲）／黑崎真音
 
-:\# Gravitation（電視動畫《[魔法禁書目錄Ⅲ](../Page/魔法禁書目錄.md "wikilink")》片頭曲）／黑崎真音
+:\#
+Gravitation（電視動畫《[魔法禁書目錄Ⅲ](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")》片頭曲）／黑崎真音
 
 :\# （電視動畫《[Wake Up,
 Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")》插曲）／[Wake Up,
-Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+Girls\!](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!_\(聲優組合\) "wikilink")
 
 :\# Polaris（電視動畫《[Wake Up, Girls\!
 新章](../Page/Wake_Up,_Girls!.md "wikilink")》插曲）／Wake Up, Girls\!
@@ -4693,35 +4918,38 @@ Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
 :\# （電視動畫《[萌萌侵略者 OUTBREAK
 COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")》片頭曲）／三森鈴子
 
-:\# （[動作遊戲](../Page/動作遊戲.md "wikilink")《[無雙OROCHI 蛇魔
+:\# （[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")《[無雙OROCHI 蛇魔
 3](../Page/無雙OROCHI_蛇魔_3.md "wikilink")》主題曲）／三森鈴子
 
 :\# VORACITY（電視動畫《[OVERLORD
 Ⅲ](../Page/OVERLORD_\(小說\).md "wikilink")》片頭曲）／[MYTH &
-ROID](../Page/MYTH_&_ROID.md "wikilink")
+ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
 
 :\# HYDRA（電視動畫《[OVERLORD
 Ⅱ](../Page/OVERLORD_\(小說\).md "wikilink")》片尾曲）／MYTH &
 ROID
 
 :\#
-（電視動畫《[十二大戰](../Page/十二大戰.md "wikilink")》片尾曲）／[大無限樂團](../Page/大無限樂團.md "wikilink")
+（電視動畫《[十二大戰](https://zh.wikipedia.org/wiki/十二大戰 "wikilink")》片尾曲）／[大無限樂團](../Page/大無限樂團.md "wikilink")
 
-:\# （電視動畫《[犬夜叉](../Page/犬夜叉.md "wikilink")》片尾曲2）／大無限樂團
+:\#
+（電視動畫《[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》片尾曲2）／大無限樂團
 
-:\# （電視動畫《[犬夜叉 完結篇](../Page/犬夜叉.md "wikilink")》片頭曲）／大無限樂團
+:\# （電視動畫《[犬夜叉
+完結篇](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")》片頭曲）／大無限樂團
 
-:\# [未來的我們早已知曉](../Page/未來的我們早已知曉.md "wikilink")（電視動畫《[LoveLive\!
-Sunshine\!\!](../Page/LoveLive!_Sunshine!!.md "wikilink")》第二季片頭曲）／[Aqours](../Page/Aqours.md "wikilink")
+:\#
+[未來的我們早已知曉](https://zh.wikipedia.org/wiki/未來的我們早已知曉 "wikilink")（電視動畫《[LoveLive\!
+Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》第二季片頭曲）／[Aqours](../Page/Aqours.md "wikilink")
 
 :\# ／Aqours
 
 :\# 混合曲：[WONDERFUL
-STORIES](../Page/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES.md "wikilink")～[勇氣在哪？在你的內心！](../Page/勇氣在哪？在你的內心！.md "wikilink")（電視動畫《LoveLive\!
+STORIES](https://zh.wikipedia.org/wiki/WATER_BLUE_NEW_WORLD/WONDERFUL_STORIES "wikilink")～[勇氣在哪？在你的內心！](https://zh.wikipedia.org/wiki/勇氣在哪？在你的內心！ "wikilink")（電視動畫《LoveLive\!
 Sunshine\!\!》第二季插曲、片尾曲）／Aqours
 
 :\# Growth
-Arrow（電視動畫《[Butlers～千年百年物語～](../Page/Butlers～千年百年物語～.md "wikilink")》片頭曲）／[OLDCODEX](../Page/OLDCODEX.md "wikilink")
+Arrow（電視動畫《[Butlers～千年百年物語～](https://zh.wikipedia.org/wiki/Butlers～千年百年物語～ "wikilink")》片頭曲）／[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
 :\# One Side（劇場版《[吸血鬼僕人-Alice in the
 Garden-](../Page/吸血鬼僕人.md "wikilink")》主題曲）／OLDCODEX
@@ -4736,73 +4964,76 @@ Future-](../Page/Free!.md "wikilink")》片頭曲）／OLDCODEX
 :; 8月25日\[21\]
 
 :\#
-混合曲：～[曖昧模糊](../Page/曖昧模糊.md "wikilink")（電視動畫《[我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")》片頭曲、電視動畫《[徒然喜歡你](../Page/徒然喜歡你.md "wikilink")》片頭曲）／[內田真禮](../Page/內田真禮.md "wikilink")×[水瀨祈](../Page/水瀨祈.md "wikilink")
+混合曲：～[曖昧模糊](https://zh.wikipedia.org/wiki/曖昧模糊 "wikilink")（電視動畫《[我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")》片頭曲、電視動畫《[徒然喜歡你](https://zh.wikipedia.org/wiki/徒然喜歡你 "wikilink")》片頭曲）／[內田真禮](../Page/內田真禮.md "wikilink")×[水瀨祈](../Page/水瀨祈.md "wikilink")
 
 :\# 混合曲：～Make Debut！（電視動畫《[賽馬娘 Pretty
-Derby](../Page/賽馬娘_Pretty_Derby.md "wikilink")》片尾曲、片頭曲）／[賽馬娘
-Pretty Derby](../Page/賽馬娘_Pretty_Derby.md "wikilink")
+Derby](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby "wikilink")》片尾曲、片頭曲）／[賽馬娘
+Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby "wikilink")
 
 :\# （電視動畫《賽馬娘 Pretty Derby》片尾曲）／賽馬娘 Pretty Derby
 
 :\#
-（電視動畫《[粗點心戰爭2](../Page/粗點心戰爭.md "wikilink")》片頭曲）／[竹達彩奈](../Page/竹達彩奈.md "wikilink")
-
-:\# （電視動畫《[粗點心戰爭](../Page/粗點心戰爭.md "wikilink")》片尾曲）／竹達彩奈
+（電視動畫《[粗點心戰爭2](https://zh.wikipedia.org/wiki/粗點心戰爭 "wikilink")》片頭曲）／[竹達彩奈](../Page/竹達彩奈.md "wikilink")
 
 :\#
-（電視動畫《[琴之森](../Page/琴之森.md "wikilink")》片尾曲）／[悠木碧](../Page/悠木碧.md "wikilink")
+（電視動畫《[粗點心戰爭](https://zh.wikipedia.org/wiki/粗點心戰爭 "wikilink")》片尾曲）／竹達彩奈
 
 :\#
-（電視動畫《[我的女友是個過度認真的處女bitch](../Page/我的女友是個過度認真的處女bitch.md "wikilink")》片頭曲）／悠木碧
+（電視動畫《[琴之森](https://zh.wikipedia.org/wiki/琴之森 "wikilink")》片尾曲）／[悠木碧](../Page/悠木碧.md "wikilink")
 
 :\#
-（電視動畫《[魔法少女網站](../Page/魔法少女網站.md "wikilink")》片尾曲）／[山崎遙](../Page/山崎遙.md "wikilink")
+（電視動畫《[我的女友是個過度認真的處女bitch](https://zh.wikipedia.org/wiki/我的女友是個過度認真的處女bitch "wikilink")》片頭曲）／悠木碧
+
+:\#
+（電視動畫《[魔法少女網站](https://zh.wikipedia.org/wiki/魔法少女網站 "wikilink")》片尾曲）／[山崎遙](https://zh.wikipedia.org/wiki/山崎遙 "wikilink")
 
 :\# Star
-Divine／[Starlight九九組](../Page/少女☆歌劇Revue_Starlight.md "wikilink")
+Divine／[Starlight九九組](https://zh.wikipedia.org/wiki/少女☆歌劇Revue_Starlight "wikilink")
 
 :\# （電視動畫《[少女☆歌劇Revue
-Starlight](../Page/少女☆歌劇Revue_Starlight.md "wikilink")》片頭曲）／Starlight九九組
+Starlight](https://zh.wikipedia.org/wiki/少女☆歌劇Revue_Starlight "wikilink")》片頭曲）／Starlight九九組
 
 :\# （電視動畫《[櫻花大戰](../Page/櫻花大戰_\(動畫\).md "wikilink")》片頭曲）／Starlight九九組
 
 :\# Million Futures（遊戲《乖離性百萬亞瑟王》主題曲）／水瀨祈
 
-:\# [Starry Wish](../Page/Starry_Wish.md "wikilink")（電視動畫《[ViVid
+:\# [Starry
+Wish](https://zh.wikipedia.org/wiki/Starry_Wish "wikilink")（電視動畫《[ViVid
 Strike\!](../Page/ViVid_Strike!.md "wikilink")》片尾曲）／水瀨祈
 
 :\# NOISY LOVE POWER☆（電視動畫《[魔法少女
-我](../Page/魔法少女_我.md "wikilink")》片頭曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
+我](https://zh.wikipedia.org/wiki/魔法少女_我 "wikilink")》片頭曲）／[大橋彩香](../Page/大橋彩香.md "wikilink")
 
 :\#
-[YES\!\!](../Page/YES!!_\(大橋彩香單曲\).md "wikilink")（電視動畫《[生存遊戲社](../Page/生存遊戲社.md "wikilink")》片頭曲）／大橋彩香
+[YES\!\!](https://zh.wikipedia.org/wiki/YES!!_\(大橋彩香單曲\) "wikilink")（電視動畫《[生存遊戲社](../Page/生存遊戲社.md "wikilink")》片頭曲）／大橋彩香
 
 :\#  ～My Uncompleted
-Story～（電視動畫《[童話魔法使](../Page/童話魔法使.md "wikilink")》片頭曲）／[fhána](../Page/fhána.md "wikilink")
+Story～（電視動畫《[童話魔法使](https://zh.wikipedia.org/wiki/童話魔法使 "wikilink")》片頭曲）／[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
 
 :\# [Que Sera,
-Sera](../Page/Que_Sera,_Sera_\(fhána歌曲\).md "wikilink")（電視動畫《[有頂天家族](../Page/有頂天家族.md "wikilink")》片尾曲）／fhána
+Sera](https://zh.wikipedia.org/wiki/Que_Sera,_Sera_\(fhána歌曲\) "wikilink")（電視動畫《[有頂天家族](../Page/有頂天家族.md "wikilink")》片尾曲）／fhána
 
 :\# 青空のラプソディ（電視動畫《[小林家的龍女僕](../Page/小林家的龍女僕.md "wikilink")》片頭曲）／fhána
 
 :\# WANTED GIRL（電視動畫《[時間飛船24
-惡黨反擊](../Page/時間飛船24.md "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
+惡黨反擊](https://zh.wikipedia.org/wiki/時間飛船24 "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
 
 :\# Truth.（電視動畫《[沒有心跳的少女
-BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")》片頭曲）／TrySail
+BEATLESS](https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS "wikilink")》片頭曲）／TrySail
 
 :\#
-adrenaline\!\!\!（電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片尾曲）／TrySail
+adrenaline\!\!\!（電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片尾曲）／TrySail
 
 :\# Los\! Los\!
-Los\!（電視動畫《[幼女戰記](../Page/幼女戰記.md "wikilink")》片尾曲）／悠木碧（[譚雅·提古雷查夫](../Page/幼女戰記.md "wikilink")）
+Los\!（電視動畫《[幼女戰記](https://zh.wikipedia.org/wiki/幼女戰記 "wikilink")》片尾曲）／悠木碧（[譚雅·提古雷查夫](https://zh.wikipedia.org/wiki/幼女戰記 "wikilink")）
 
-:\# aventure bleu（電視動畫《[酒鬼妹子](../Page/酒鬼妹子.md "wikilink")》片頭曲）／內田真禮
+:\# aventure
+bleu（電視動畫《[酒鬼妹子](https://zh.wikipedia.org/wiki/酒鬼妹子 "wikilink")》片頭曲）／內田真禮
 
 :\# Smiling Spiral／內田真禮
 
 :\# One
-Unit（電視動畫《[行星與共](../Page/行星與共.md "wikilink")》片頭曲）／[Minami](../Page/Minami.md "wikilink")
+Unit（電視動畫《[行星與共](https://zh.wikipedia.org/wiki/行星與共 "wikilink")》片頭曲）／[Minami](../Page/Minami.md "wikilink")
 
 :\# Precious
 Memories（電視動畫《[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")》片頭曲）／Minami
@@ -4810,7 +5041,8 @@ Memories（電視動畫《[你所期望的永遠](../Page/你所期望的永遠.
 :\# Remained dream（電視動畫《[驚爆危機！Invisible
 Victory](../Page/驚爆危機.md "wikilink")》片尾曲）／[茅原實里](../Page/茅原實里.md "wikilink")
 
-:\# （電視動畫《[紫羅蘭永恆花園](../Page/紫羅蘭永恆花園.md "wikilink")》片尾曲）／茅原實里
+:\#
+（電視動畫《[紫羅蘭永恆花園](https://zh.wikipedia.org/wiki/紫羅蘭永恆花園 "wikilink")》片尾曲）／茅原實里
 
 :\# Sincerely（電視動畫《紫羅蘭永恆花園》片頭曲）／[TRUE](../Page/唐澤美帆.md "wikilink")
 
@@ -4820,20 +5052,22 @@ COMPLEX](../Page/BUDDY_COMPLEX.md "wikilink")》片頭曲）／TRUE
 :\# DREAM
 SOLISTER（電視動畫《[吹響吧！上低音號](../Page/吹響吧！上低音號.md "wikilink")》片頭曲）／TRUE
 
-:\# （電視動畫《[昴宿七星](../Page/昴宿七星.md "wikilink")》片頭曲）／[petit
-milady](../Page/petit_milady.md "wikilink")
+:\#
+（電視動畫《[昴宿七星](https://zh.wikipedia.org/wiki/昴宿七星 "wikilink")》片頭曲）／[petit
+milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 
 :\# （電視動畫《[百鍊霸王與聖約女武神](../Page/百鍊霸王與聖約女武神.md "wikilink")》片尾曲）／petit
 milady
 
-:\# （電視動畫《[POP TEAM EPIC](../Page/POP_TEAM_EPIC.md "wikilink")》插曲）／petit
+:\# （電視動畫《[POP TEAM
+EPIC](https://zh.wikipedia.org/wiki/POP_TEAM_EPIC "wikilink")》插曲）／petit
 milady
 
 :\#
 [JOINT](../Page/JOINT.md "wikilink")（電視動畫《[灼眼的夏娜Ⅱ](../Page/灼眼的夏娜_\(動畫\).md "wikilink")》片頭曲）／Mimorin×Minorin（三森鈴子×茅原實里）
 
 :\#
-Reason\!\!（電視動畫《[偶像大師SideM](../Page/偶像大師SideM.md "wikilink")》片頭曲）／[偶像大師SideM](../Page/偶像大師SideM.md "wikilink")
+Reason\!\!（電視動畫《[偶像大師SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")》片頭曲）／[偶像大師SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")
 
 :\# GLORIOUS RO@D（電視動畫《偶像大師SideM》插曲）／偶像大師SideM
 
@@ -4843,18 +5077,18 @@ Reason\!\!（電視動畫《[偶像大師SideM](../Page/偶像大師SideM.md "wi
 -衝戟-](../Page/亞人_\(漫畫\).md "wikilink")》主題曲）／[宮野真守](../Page/宮野真守.md "wikilink")
 
 :\# SHOUT\!（電視動畫《[卡片鬥爭\!\! 先導者G
-超越之門篇](../Page/卡片鬥爭!!_先導者.md "wikilink")》片頭曲）／宮野真守
+超越之門篇](https://zh.wikipedia.org/wiki/卡片鬥爭!!_先導者 "wikilink")》片頭曲）／宮野真守
 
 :\# （電視動畫《[歌之王子殿下 真愛革命](../Page/歌之王子殿下.md "wikilink")》片頭曲）／宮野真守
 
 :\#
-BEASTFUL（電視動畫《[刃牙](../Page/刃牙.md "wikilink")》片尾曲）／[GRANRODEO](../Page/GRANRODEO.md "wikilink")
+BEASTFUL（電視動畫《[刃牙](https://zh.wikipedia.org/wiki/刃牙 "wikilink")》片尾曲）／[GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 :\# Deadly Drive（劇場版《[文豪Stray Dogs DEAD
-APPLE](../Page/文豪Stray_Dogs.md "wikilink")》片頭曲）／GRANRODEO
+APPLE](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")》片頭曲）／GRANRODEO
 
 :\# （電視動畫《[機動戰士高達
-鐵血的孤兒](../Page/機動戰士高達_鐵血的孤兒.md "wikilink")》第二季片尾曲）／GRANRODEO
+鐵血的孤兒](https://zh.wikipedia.org/wiki/機動戰士高達_鐵血的孤兒 "wikilink")》第二季片尾曲）／GRANRODEO
 
 :\# Punky Funky
 Love（電視動畫《[黑子的籃球](../Page/黑子的籃球.md "wikilink")》第三季片尾曲）／GRANRODEO
@@ -4864,7 +5098,7 @@ Love（電視動畫《[黑子的籃球](../Page/黑子的籃球.md "wikilink")�
 :; 8月26日\[22\]
 
 :\# ANISAM A GO GO／[Milky
-Holmes](../Page/Milky_Holmes.md "wikilink")×[i☆Ris](../Page/i☆Ris.md "wikilink")×[上坂堇](../Page/上坂堇.md "wikilink")×[東山奈央](../Page/東山奈央.md "wikilink")
+Holmes](../Page/Milky_Holmes.md "wikilink")×[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")×[上坂堇](../Page/上坂堇.md "wikilink")×[東山奈央](../Page/東山奈央.md "wikilink")
 
 :\#
 （電視動畫《[干物妹！小埋R](../Page/干物妹！小埋.md "wikilink")》片尾曲）／[妹S](../Page/干物妹！小埋.md "wikilink")
@@ -4872,85 +5106,91 @@ Holmes](../Page/Milky_Holmes.md "wikilink")×[i☆Ris](../Page/i☆Ris.md "wikil
 :\# （電視動畫《[干物妹！小埋](../Page/干物妹！小埋.md "wikilink")》片頭曲）／妹S
 
 :\#
-（電視動畫《[魔法律事務所](../Page/魔法律事務所.md "wikilink")》片尾曲）／[ORESAMA](../Page/ORESAMA.md "wikilink")
+（電視動畫《[魔法律事務所](https://zh.wikipedia.org/wiki/魔法律事務所 "wikilink")》片尾曲）／[ORESAMA](https://zh.wikipedia.org/wiki/ORESAMA "wikilink")
 
 :\#
-（電視動畫《[咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣_#2017年《咕嚕咕嚕魔法陣》（第3作）.md "wikilink")》片頭曲）／ORESAMA
+（電視動畫《[咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣_#2017年《咕嚕咕嚕魔法陣》（第3作） "wikilink")》片頭曲）／ORESAMA
 
 :\# [Snow halation](../Page/Snow_halation.md "wikilink")／[THE
 MONSTERS](../Page/JAM_Project.md "wikilink")
 
-:\# Hell Yeah\!\!／[HellShake矢野](../Page/POP_TEAM_EPIC.md "wikilink")
+:\# Hell
+Yeah\!\!／[HellShake矢野](https://zh.wikipedia.org/wiki/POP_TEAM_EPIC "wikilink")
 
 :\# POP TEAM EPIC（電視動畫《[POP TEAM
-EPIC](../Page/POP_TEAM_EPIC.md "wikilink")》片頭曲）／[上坂堇](../Page/上坂堇.md "wikilink")
+EPIC](https://zh.wikipedia.org/wiki/POP_TEAM_EPIC "wikilink")》片頭曲）／[上坂堇](../Page/上坂堇.md "wikilink")
 
-:\# （電視動畫《[寶石之國](../Page/寶石之國.md "wikilink")》片頭曲）／
+:\# （電視動畫《[寶石之國](https://zh.wikipedia.org/wiki/寶石之國 "wikilink")》片頭曲）／
 
 :\# 混合曲：Shiny Ray～MIND
-CONDUCTOR（電視動畫《[小魔女學園](../Page/小魔女學園.md "wikilink")》片頭曲）／YURiKA
+CONDUCTOR（電視動畫《[小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")》片頭曲）／YURiKA
 
 :\#
-（電視動畫《[多田君不戀愛](../Page/多田君不戀愛.md "wikilink")》片頭曲）／[大石昌良](../Page/大石昌良.md "wikilink")
+（電視動畫《[多田君不戀愛](https://zh.wikipedia.org/wiki/多田君不戀愛 "wikilink")》片頭曲）／[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
 
 :\# Jewelry（電視動畫《[庫洛魔法使
-透明牌篇](../Page/庫洛魔法使_透明牌篇.md "wikilink")》片尾曲）／[早見沙織](../Page/早見沙織.md "wikilink")
+透明牌篇](https://zh.wikipedia.org/wiki/庫洛魔法使_透明牌篇 "wikilink")》片尾曲）／[早見沙織](../Page/早見沙織.md "wikilink")
 
 :\# （劇場版《[窈窕淑女 後篇
-～花之東京大浪漫～](../Page/窈窕淑女_\(漫畫\).md "wikilink")》主題曲）／早見沙織
+～花之東京大浪漫～](https://zh.wikipedia.org/wiki/窈窕淑女_\(漫畫\) "wikilink")》主題曲）／早見沙織
 
 :\# True Destiny（電視動畫《[鎖鏈戰記
 ～赫克瑟塔斯之光～](../Page/鎖鏈戰記.md "wikilink")》片尾曲）／[東山奈央](../Page/東山奈央.md "wikilink")
 
-:\# （電視動畫《[妖怪旅館營業中](../Page/妖怪旅館營業中.md "wikilink")》片頭曲）／東山奈央
+:\#
+（電視動畫《[妖怪旅館營業中](https://zh.wikipedia.org/wiki/妖怪旅館營業中 "wikilink")》片頭曲）／東山奈央
 
 :\# FEELING
-AROUND（電視動畫《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》片頭曲）／[鈴木實里](../Page/鈴木實里.md "wikilink")
+AROUND（電視動畫《[愛吃拉麵的小泉同學](../Page/愛吃拉麵的小泉同學.md "wikilink")》片頭曲）／[鈴木實里](https://zh.wikipedia.org/wiki/鈴木實里 "wikilink")
 
-:\# （電視動畫《[百變小櫻Clear咭](../Page/百變小櫻Clear咭.md "wikilink")》片尾曲）／鈴木實里
+:\#
+（電視動畫《[百變小櫻Clear咭](https://zh.wikipedia.org/wiki/百變小櫻Clear咭 "wikilink")》片尾曲）／鈴木實里
 
 :\# Catch You Catch
-Me（電視動畫《[百變小櫻Magic咭](../Page/百變小櫻Magic咭.md "wikilink")》片頭曲）／早見沙織×鈴木實里
+Me（電視動畫《[百變小櫻Magic咭](https://zh.wikipedia.org/wiki/百變小櫻Magic咭 "wikilink")》片頭曲）／早見沙織×鈴木實里
 
 :\# （遊戲《[Summer
-Pockets](../Page/Summer_Pockets.md "wikilink")》主題曲）／[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
+Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")》主題曲）／[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
 
-:\# （電視動畫《[LOST SONG](../Page/LOST_SONG.md "wikilink")》片頭曲）／鈴木KONOMI
+:\# （電視動畫《[LOST
+SONG](https://zh.wikipedia.org/wiki/LOST_SONG "wikilink")》片頭曲）／鈴木KONOMI
 
 :\#
 （電視動畫《[我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")》片頭曲）／鈴木KONOMI
 
-:\# （電視動畫《》片頭曲）／[麻倉桃](../Page/麻倉桃.md "wikilink")
+:\# （電視動畫《》片頭曲）／[麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")
 
 :\# （電視動畫《[七大罪
-戒律的復活](../Page/七大罪_\(漫畫\).md "wikilink")》片尾曲）／[雨宮天](../Page/雨宮天.md "wikilink")
+戒律的復活](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")》片尾曲）／[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")
 
-:\# （電視動畫《水嫩小嘰\!\!》片尾曲）／[夏川椎菜](../Page/夏川椎菜.md "wikilink")
+:\#
+（電視動畫《水嫩小嘰\!\!》片尾曲）／[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")
 
 :\# Changing
-point（電視動畫《[魔法少女網站](../Page/魔法少女網站.md "wikilink")》片頭曲）／[i☆Ris](../Page/i☆Ris.md "wikilink")
+point（電視動畫《[魔法少女網站](https://zh.wikipedia.org/wiki/魔法少女網站 "wikilink")》片頭曲）／[i☆Ris](https://zh.wikipedia.org/wiki/i☆Ris "wikilink")
 
 :\# 混合曲：Make it\!～～Realize\!～～～Goin’on～Ready Smile\!\!～Shining
-Star～Memorial（電視動畫《[星光樂園](../Page/星光樂園.md "wikilink")》第一季片頭曲1—3、第二季片頭曲1—3、第三季片頭曲1及片頭曲3；電視動畫《[偶像時間星光樂園](../Page/偶像時間星光樂園.md "wikilink")》片頭曲3）／i☆Ris
+Star～Memorial（電視動畫《[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")》第一季片頭曲1—3、第二季片頭曲1—3、第三季片頭曲1及片頭曲3；電視動畫《[偶像時間星光樂園](https://zh.wikipedia.org/wiki/偶像時間星光樂園 "wikilink")》片頭曲3）／i☆Ris
 
 :\# Baby Sweet Berry
 Love（電視動畫《[變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")》片尾曲）／[小倉唯](../Page/小倉唯.md "wikilink")
 
-:\# 永遠少年（電視動畫《[音樂少女](../Page/音樂少女.md "wikilink")》片頭曲）／小倉唯
+:\#
+永遠少年（電視動畫《[音樂少女](https://zh.wikipedia.org/wiki/音樂少女 "wikilink")》片頭曲）／小倉唯
 
 :\# 零／[蒼井翔太](../Page/蒼井翔太.md "wikilink")
 
 :\# Eclipse（電視動畫《[DEVILSLINE
-惡魔戰線](../Page/DEVILSLINE_惡魔戰線.md "wikilink")》片頭曲）／蒼井翔太
+惡魔戰線](https://zh.wikipedia.org/wiki/DEVILSLINE_惡魔戰線 "wikilink")》片頭曲）／蒼井翔太
 
 :\#
-（電視動畫《[歡迎來到實力至上主義的教室](../Page/歡迎來到實力至上主義的教室.md "wikilink")》片頭曲）／[ZAQ](../Page/ZAQ.md "wikilink")
+（電視動畫《[歡迎來到實力至上主義的教室](https://zh.wikipedia.org/wiki/歡迎來到實力至上主義的教室 "wikilink")》片頭曲）／[ZAQ](../Page/ZAQ.md "wikilink")
 
 :\# JOURNEY（劇場版《[中二病也想談戀愛！-Take On
 Me-](../Page/中二病也想談戀愛！.md "wikilink")》片頭曲）／ZAQ
 
 :\#
-（電視動畫《[血界戰線](../Page/血界戰線.md "wikilink")》片尾曲）／ZAQ×[OxT](../Page/OxT.md "wikilink")
+（電視動畫《[血界戰線](../Page/血界戰線.md "wikilink")》片尾曲）／ZAQ×[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
 :\# GO CRY
 GO（電視動畫《[OVERLORDⅡ](../Page/OVERLORD_\(小說\).md "wikilink")》片頭曲）／OxT
@@ -4958,7 +5198,7 @@ GO（電視動畫《[OVERLORDⅡ](../Page/OVERLORD_\(小說\).md "wikilink")》�
 :\# Silent Solitude（電視動畫《OVERLORDⅢ》片尾曲）／OxT
 
 :\# Brand New Theater\!（遊戲《[偶像大師
-百萬人演唱會！劇場時光](../Page/偶像大師_百萬人演唱會！劇場時光.md "wikilink")》主題曲）／[偶像大師
+百萬人演唱會！劇場時光](https://zh.wikipedia.org/wiki/偶像大師_百萬人演唱會！劇場時光 "wikilink")》主題曲）／[偶像大師
 百萬人演唱會！ MILLION STARS](../Page/偶像大師_百萬人演唱會！.md "wikilink")
 
 :\# 混合曲：Princess Be Ambitious\!\!～Angelic Parade♪～FairyTale／偶像大師 百萬人演唱會！
@@ -4966,24 +5206,27 @@ MILLION STARS
 
 :\# UNION\!\!／偶像大師 百萬人演唱會！ MILLION STARS
 
-:\# （電視動畫《[偵探歌劇 少女福爾摩斯](../Page/偵探歌劇_少女福爾摩斯.md "wikilink")》片頭曲）／[Milky
+:\# （電視動畫《[偵探歌劇
+少女福爾摩斯](https://zh.wikipedia.org/wiki/偵探歌劇_少女福爾摩斯 "wikilink")》片頭曲）／[Milky
 Holmes](../Page/Milky_Holmes.md "wikilink")
 
 :\# 混合曲：～（遊戲《偵探歌劇 少女福爾摩斯》片頭曲、片尾曲）／Milky Holmes
 
 :\# Shining Storm ～～（遊戲《[超級機械人大戰OG THE MOON
-DWELLERS](../Page/超級機械人大戰OG_THE_MOON_DWELLERS.md "wikilink")》主題曲）／[JAM
+DWELLERS](https://zh.wikipedia.org/wiki/超級機械人大戰OG_THE_MOON_DWELLERS "wikilink")》主題曲）／[JAM
 Project](../Page/JAM_Project.md "wikilink")
 
-:\# THE HERO \!\! ～～（電視動畫《[一拳超人](../Page/一拳超人.md "wikilink")》片頭曲）／JAM
+:\# THE HERO \!\!
+～～（電視動畫《[一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")》片頭曲）／JAM
 Project
 
 :\#
-混合曲：VICTORY～GONG～Warriors（遊戲《[超級機械人大戰MX](../Page/超級機械人大戰MX.md "wikilink")》、《[第3次超級機械人大戰α
-終焉之銀河](../Page/第3次超級機械人大戰α_終焉之銀河.md "wikilink")》、《[超級機械人大戰X](../Page/超級機械人大戰X.md "wikilink")》主題曲）／JAM
+混合曲：VICTORY～GONG～Warriors（遊戲《[超級機械人大戰MX](https://zh.wikipedia.org/wiki/超級機械人大戰MX "wikilink")》、《[第3次超級機械人大戰α
+終焉之銀河](https://zh.wikipedia.org/wiki/第3次超級機械人大戰α_終焉之銀河 "wikilink")》、《[超級機械人大戰X](https://zh.wikipedia.org/wiki/超級機械人大戰X "wikilink")》主題曲）／JAM
 Project
 
-:\# SKILL（遊戲《[第2次超級機械人大戰α](../Page/第2次超級機械人大戰α.md "wikilink")》主題曲）
+:\#
+SKILL（遊戲《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/第2次超級機械人大戰α "wikilink")》主題曲）
 
 :\# Stand by...MUSIC\!\!\!／ASL2018演出者
 
@@ -4998,7 +5241,7 @@ Project
 
   - 「CROSSING STORIES」
     作詞：林英樹，作曲、編曲：佐藤純一（fhána）
-    主唱：[亞咲花](../Page/亞咲花.md "wikilink")、[石原夏織](../Page/石原夏織.md "wikilink")、[オーイシマサヨシ](../Page/大石昌良.md "wikilink")、[ZAQ](../Page/ZAQ.md "wikilink")、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")、[sphere](../Page/sphere_\(聲優團體\).md "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、towana（[fhána](../Page/fhána.md "wikilink")）、幹葉（）、[三森鈴子](../Page/三森鈴子.md "wikilink")
+    主唱：[亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")、[石原夏織](../Page/石原夏織.md "wikilink")、[オーイシマサヨシ](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")、[ZAQ](../Page/ZAQ.md "wikilink")、[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")、[sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")、[TRUE](../Page/唐澤美帆.md "wikilink")、towana（[fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")）、幹葉（）、[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
 
 #### 出演者
 
@@ -5006,15 +5249,15 @@ Project
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ReoNa](../Page/ReoNa.md "wikilink")
-  - [Roselia](../Page/BanG_Dream!_#Roselia.md "wikilink")
+  - [ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")
+  - [Roselia](https://zh.wikipedia.org/wiki/BanG_Dream!_#Roselia "wikilink")
   - [i☆Ris](../Page/I☆Ris.md "wikilink")
-  - [オーイシマサヨシ](../Page/大石昌良.md "wikilink")
+  - [オーイシマサヨシ](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
   - [鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
-  - [三森鈴子](../Page/三森鈴子.md "wikilink")
-  - [sphere](../Page/sphere_\(聲優團體\).md "wikilink")
+  - [三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
+  - [sphere](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")
   - [石原夏織](../Page/石原夏織.md "wikilink")
-  - [fhána](../Page/fhána.md "wikilink")
+  - [fhána](https://zh.wikipedia.org/wiki/fhána "wikilink")
   - [伊藤美來](../Page/伊藤美來.md "wikilink")
 
 </div>
@@ -5022,7 +5265,7 @@ Project
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [佐咲紗花](../Page/佐咲紗花.md "wikilink")
-  - [淵上舞](../Page/淵上舞.md "wikilink")
+  - [淵上舞](https://zh.wikipedia.org/wiki/淵上舞 "wikilink")
 
 </div>
 
@@ -5030,14 +5273,14 @@ Project
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [亞咲花](../Page/亞咲花.md "wikilink")
+  - [亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")
   - [寺島拓篤](../Page/寺島拓篤.md "wikilink")
-  - [偶像大師SideM](../Page/偶像大師SideM.md "wikilink")
+  - [偶像大師SideM](https://zh.wikipedia.org/wiki/偶像大師SideM "wikilink")
   - [水瀨祈](../Page/水瀨祈.md "wikilink")
   - [TrySail](../Page/TrySail.md "wikilink")
   - [TRUE](../Page/唐澤美帆.md "wikilink")
   - [茅原實里](../Page/茅原實里.md "wikilink")
-  - [鈴木實里](../Page/鈴木實里.md "wikilink")
+  - [鈴木實里](https://zh.wikipedia.org/wiki/鈴木實里 "wikilink")
   - [Minami](../Page/Minami.md "wikilink")
   - [Aqours](../Page/Aqours.md "wikilink")
 
@@ -5046,7 +5289,7 @@ Project
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
-  - [Starlight九九組](../Page/少女☆歌劇Revue_Starlight.md "wikilink")
+  - [Starlight九九組](https://zh.wikipedia.org/wiki/少女☆歌劇Revue_Starlight "wikilink")
 
 </div>
 
@@ -5056,7 +5299,7 @@ Project
 
   - buzz★Vibes
 
-  - [内田雄馬](../Page/内田雄馬.md "wikilink")
+  - [内田雄馬](https://zh.wikipedia.org/wiki/内田雄馬 "wikilink")
 
   - [內田真禮](../Page/內田真禮.md "wikilink")
 
@@ -5067,7 +5310,7 @@ Project
   - [JAM Project](../Page/JAM_Project.md "wikilink")
 
   -
-  - [Poppin'Party](../Page/BanG_Dream!_#Poppin'Party.md "wikilink")
+  - [Poppin'Party](https://zh.wikipedia.org/wiki/BanG_Dream!_#Poppin'Party "wikilink")
 
   - [藍井艾露](../Page/藍井艾露.md "wikilink")
 
@@ -5077,7 +5320,7 @@ Project
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [OxT](../Page/OxT.md "wikilink")
+  - [OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
 
 </div>
 

@@ -1,10 +1,10 @@
 『**Feedback File**』（）是[ASIAN KUNG-FU
-GENERATION的編集盤](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")。除了結合9首的[單曲外](../Page/單曲.md "wikilink")，還以2首未發表的歌曲，5首Live錄音構成這張大碟。2006年10月25日由Ki/oon
+GENERATION的編集盤](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")。除了結合9首的[單曲外](https://zh.wikipedia.org/wiki/單曲 "wikilink")，還以2首未發表的歌曲，5首Live錄音構成這張大碟。2006年10月25日由Ki/oon
 Records發行。初回限定版附送收錄了Live影像的DVD。
 
 ## 概要
 
-是為了紀念組成10週年而發行的，亦是所謂的B面（Singles的主打曲為A面，Coupling則是B面）集。發行同類的專輯的藝人有團員敬愛的[綠洲樂隊](../Page/綠洲樂隊.md "wikilink")（Oasis）的The
+是為了紀念組成10週年而發行的，亦是所謂的B面（Singles的主打曲為A面，Coupling則是B面）集。發行同類的專輯的藝人有團員敬愛的[綠洲樂隊](https://zh.wikipedia.org/wiki/綠洲樂隊 "wikilink")（Oasis）的The
 Master Plan，[SPITZ的花鳥風月等等](../Page/SPITZ.md "wikilink")。
 
 「Feedback
@@ -34,7 +34,7 @@ Control](../Page/Copy_Control.md "wikilink")（CCCD -
         Sound便被推到前面去了。而且，在自主製作時期的「[緊繫著你5M](../Page/緊繫著你5M.md "wikilink")」時曾經有Rock的力量的時候，對曲調會有所左右（這是後藤自己說的）。伊地知說「Bridge（32小節樂曲單位裡的第三個八小節。即AABA或是AB交替樂曲形式內的B段音樂，亦稱橋樑音樂或橋段。）部份的歌曲旋律和吉他就是值得聽的地方」。但從未在演唱會中演奏過一次。再者，這首曲也在Video
         Clip內存在著。
 
-4.  [サイレン](../Page/サイレン.md "wikilink")（警笛）
+4.  [サイレン](https://zh.wikipedia.org/wiki/サイレン "wikilink")（警笛）
 
       - 作詞：後藤正文、作曲：後藤正文・山田貴洋
       - 被收錄於第3張單曲警笛的B面，是所謂的「警笛\#」。基本上「B面集」很多時候都是為了將「完全未被專輯收錄過的歌曲」組成一張專輯發售，Remix或同一首歌曲的不同版本很多時候也會被省略，像這首Remix版的歌曲被收錄在內可說是罕有的例子。
@@ -66,7 +66,7 @@ Control](../Page/Copy_Control.md "wikilink")（CCCD -
 9.  堂々巡りの夜（毫無進展的夜晚）
 
       - 作詞：後藤正文、作曲：後藤正文
-      - 原本預定收錄在第3張專輯「[樂迷俱樂部](../Page/樂迷俱樂部.md "wikilink")」但因為專輯的概念有若干變動而錯失了收錄在內的機會。是完全的未發表作品，在這張作品首次被soft化。開頭的編曲雖然是有速度感的編曲，不過因為想將歌曲稍作變化，所以不對曲調作出改動，而在第2段開始將和弦的編曲作出改動。
+      - 原本預定收錄在第3張專輯「[樂迷俱樂部](https://zh.wikipedia.org/wiki/樂迷俱樂部 "wikilink")」但因為專輯的概念有若干變動而錯失了收錄在內的機會。是完全的未發表作品，在這張作品首次被soft化。開頭的編曲雖然是有速度感的編曲，不過因為想將歌曲稍作變化，所以不對曲調作出改動，而在第2段開始將和弦的編曲作出改動。
 
 10. （謊言與Wonderland）
 
@@ -128,7 +128,8 @@ Control](../Page/Copy_Control.md "wikilink")（CCCD -
 
       - 2005年5月3日，於SHIBUYA-AX舉行的Tour2005「Re:Re：」的Live映像。
 
-5.  [Loop\&Loop](../Page/Loop&Loop.md "wikilink")（2005 橫濱體育館）
+5.  [Loop\&Loop](https://zh.wikipedia.org/wiki/Loop&Loop "wikilink")（2005
+    橫濱體育館）
 
       - 2005年7月9日，於橫濱體育館舉行的「NANO-MUGEN FES. 2005」的Live映像。
 

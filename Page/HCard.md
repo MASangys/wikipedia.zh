@@ -1,7 +1,7 @@
-**hCard**是一种[微格式](../Page/微格式.md "wikilink")，用来发布个人、公司、组织、地点等详细的联系信息。它可以包含在[(X)HTML](../Page/HTML.md "wikilink")、[Atom](../Page/Atom.md "wikilink")、[RSS等](../Page/RSS.md "wikilink")[可扩展置标语言中](../Page/可扩展置标语言.md "wikilink")。hCard使用[vCard](../Page/vCard.md "wikilink")（RFC
+**hCard**是一种[微格式](../Page/微格式.md "wikilink")，用来发布个人、公司、组织、地点等详细的联系信息。它可以包含在[(X)HTML](../Page/HTML.md "wikilink")、[Atom](https://zh.wikipedia.org/wiki/Atom "wikilink")、[RSS等](../Page/RSS.md "wikilink")[可扩展置标语言中](https://zh.wikipedia.org/wiki/可扩展置标语言 "wikilink")。hCard使用[vCard](https://zh.wikipedia.org/wiki/vCard "wikilink")（RFC
 2426）的属性和值来实现这些功能。
 
-它可以使分析器（比如其他网站，[Firefox的](../Page/Firefox.md "wikilink")[Operator插件](../Page/Operator.md "wikilink")）获得详细的信息，并通过别的网站或者[地图工具进行显示](../Page/地图.md "wikilink")，或者载入到地址簿等其他程序。
+它可以使分析器（比如其他网站，[Firefox的](../Page/Firefox.md "wikilink")[Operator插件](https://zh.wikipedia.org/wiki/Operator "wikilink")）获得详细的信息，并通过别的网站或者[地图工具进行显示](../Page/地图.md "wikilink")，或者载入到地址簿等其他程序。
 
 ## 举例
 
@@ -123,9 +123,9 @@
   - `bday` - 生日
   - `email`
   - `honorific-prefix`
-    -（西式）名字前的尊稱，例如：[博士](../Page/博士.md "wikilink")（Dr.）、[牧師](../Page/牧師.md "wikilink")（Rev.）等，在東方會放在名字的後方。
+    -（西式）名字前的尊稱，例如：[博士](../Page/博士.md "wikilink")（Dr.）、[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")（Rev.）等，在東方會放在名字的後方。
   - `honorific-suffix`
-    -（西式）名字後的尊稱，一般都是封銜，例如：[太平紳士](../Page/太平紳士.md "wikilink")（[JP](../Page/JP.md "wikilink")）、[大紫荊勳章](../Page/大紫荊勳章.md "wikilink")（[GBM](../Page/GBM.md "wikilink")），一般詳列在名字的最後方。
+    -（西式）名字後的尊稱，一般都是封銜，例如：[太平紳士](../Page/太平紳士.md "wikilink")（[JP](https://zh.wikipedia.org/wiki/JP "wikilink")）、[大紫荊勳章](../Page/大紫荊勳章.md "wikilink")（[GBM](https://zh.wikipedia.org/wiki/GBM "wikilink")），一般詳列在名字的最後方。
   - `logo`
   - `nickname` - 暱稱、愛稱或外號。西方人的名字一般都有簡寫，有時這些暱稱或外號就用來分辨同名的人。例如：William
     "Bill" Gates 中間的"Bill"。

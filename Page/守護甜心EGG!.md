@@ -1,9 +1,10 @@
 **守護甜心EGG\!**()是由[Hello Pro
-Egg成員所組成的一個小組](../Page/Hello_Pro_Egg.md "wikilink")。
+Egg成員所組成的一個小組](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")。
 
 ## 成員
 
-成員是在Hello Pro Egg中選出，除[田邊奈菜美是由Amulet](../Page/田邊奈菜美.md "wikilink")
+成員是在Hello Pro
+Egg中選出，除[田邊奈菜美是由Amulet](https://zh.wikipedia.org/wiki/田邊奈菜美 "wikilink")
 Diamond甄選會選出。
 
 ### 現任成員
@@ -24,7 +25,7 @@ Diamond甄選會選出。
 
 ## 概要
 
-  - 她們是負責主唱動畫[守護甜心\!\!心跳和](../Page/守護甜心.md "wikilink")[守護甜心\!派對\!的片頭曲](../Page/守護甜心.md "wikilink")。
+  - 她們是負責主唱動畫[守護甜心\!\!心跳和](https://zh.wikipedia.org/wiki/守護甜心 "wikilink")[守護甜心\!派對\!的片頭曲](https://zh.wikipedia.org/wiki/守護甜心 "wikilink")。
 
   - 是解作守護甜心Egg\!
 
@@ -71,8 +72,9 @@ Diamond甄選會選出。
 
 ## 關連項目
 
-  - [守護甜心\!](../Page/守護甜心!.md "wikilink")
-  - [Hello Pro Egg](../Page/Hello_Pro_Egg.md "wikilink")
+  - [守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")
+  - [Hello Pro
+    Egg](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")
   - [Buono\!](../Page/Buono!.md "wikilink")
 
 ## 外部連結

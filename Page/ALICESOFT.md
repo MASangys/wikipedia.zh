@@ -4,29 +4,29 @@ Soft，）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，�
 ## 公司發展
 
   - 1983年1月 -
-    **冠軍軟體**成立於[奈良縣](../Page/奈良縣.md "wikilink")[橿原市](../Page/橿原市.md "wikilink")。
+    **冠軍軟體**成立於[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[橿原市](https://zh.wikipedia.org/wiki/橿原市 "wikilink")。
   - 1989年4月 - 設立成人遊戲廠牌**ALICESOFT**。
   - 1989年7月 -
-    發行處女作**Intruder**、****與**[Rance](../Page/Rance.md "wikilink")**。
+    發行處女作**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**。
   - 1990年10月 - 成立[玩家俱樂部](../Page/玩家.md "wikilink")。
   - 1995年4月 - 總部搬移至大阪市北區天滿3丁目12番3號「Hani Building」（）。
   - 2003年4月15日－發表「自由散佈宣言」（）。
-  - 2006年春 - 於[東京設置分公司](../Page/東京.md "wikilink")。
+  - 2006年春 - 於[東京設置分公司](https://zh.wikipedia.org/wiki/東京 "wikilink")。
   - 2014年7月 - 關閉東京分公司。\[1\]
 
 ## 概述
 
-冠軍軟體在成立初期主要制作於[PC-88和](../Page/NEC_PC-8801.md "wikilink")[PC-98平台上的遊戲](../Page/NEC_PC-9801.md "wikilink")。隨著年號由[昭和變更為](../Page/昭和.md "wikilink")[平成](../Page/平成.md "wikilink")，冠軍軟體於1989年成立ALICESOFT，並發行了**Intruder**、****與**[Rance](../Page/Rance.md "wikilink")**兩款遊戲。之後，冠軍軟體開始著手製作[硬碟遊戲](../Page/硬碟.md "wikilink")，並將平台轉向[Microsoft
-Windows發展](../Page/Microsoft_Windows.md "wikilink")。在1990年代曾與[élf齊名](../Page/ELF_\(公司\).md "wikilink")，並稱為「東有élf，西有Alice」。
+冠軍軟體在成立初期主要制作於[PC-88和](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")[PC-98平台上的遊戲](https://zh.wikipedia.org/wiki/NEC_PC-9801 "wikilink")。隨著年號由[昭和變更為](../Page/昭和.md "wikilink")[平成](../Page/平成.md "wikilink")，冠軍軟體於1989年成立ALICESOFT，並發行了**Intruder**、****與**[Rance](https://zh.wikipedia.org/wiki/Rance "wikilink")**兩款遊戲。之後，冠軍軟體開始著手製作[硬碟遊戲](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，並將平台轉向[Microsoft
+Windows發展](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在1990年代曾與[élf齊名](https://zh.wikipedia.org/wiki/ELF_\(公司\) "wikilink")，並稱為「東有élf，西有Alice」。
 
 九十年代中期曾一度面临业绩不佳将要倒闭的困境。然而由于孤注一掷的作品**鬼畜王兰斯**的巨大成功，扭转局面。
 
 ALICESOFT至今（2008年）為止每年都有發行至少一部的作品。而在競爭激烈且盛衰無常的成人遊戲業界中，ALICESOFT是少數自1980年代成立至今仍舊繼續營運的廠牌之一。
 
-公司的吉祥物是愛麗絲（Alice，），造型參考了「[愛麗絲夢遊仙境](../Page/愛麗絲夢遊仙境.md "wikilink")」的主角·愛麗絲。
+公司的吉祥物是愛麗絲（Alice，），造型參考了「[愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")」的主角·愛麗絲。
 
 ALICESOFT於2004年7月16日設立副牌**Alice
-Blue**，專門發行[BL遊戲](../Page/BL.md "wikilink")，但現在呈現活動休止狀態。
+Blue**，專門發行[BL遊戲](https://zh.wikipedia.org/wiki/BL "wikilink")，但現在呈現活動休止狀態。
 
 ## 公司特徵
 
@@ -36,17 +36,17 @@ ALICESOFT本身利用[中間語言自行撰寫了一套公司專屬的遊戲系�
 
 ### 公司風格
 
-不同於多數的成人遊戲廠牌主要發行[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，ALICESOFT的遊戲類型較為多元，包括了[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")、[戰略遊戲與](../Page/戰略遊戲.md "wikilink")[冒險遊戲](../Page/冒險遊戲.md "wikilink")。此外，除了成人遊戲，ALICESOFT也有發行普遍級的作品。
+不同於多數的成人遊戲廠牌主要發行[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，ALICESOFT的遊戲類型較為多元，包括了[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")、[戰略遊戲與](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。此外，除了成人遊戲，ALICESOFT也有發行普遍級的作品。
 
 由於公司的經營方針為「以長期的觀點做考量，合理並踏實的經營」與「將成人遊戲視為一件嚴肅的事情，並以製作成人遊戲為榮」，ALICESOFT所發行的大多數遊戲即使將成人要素剔除，其遊戲性仍舊不減，不過同時也會使得劇情或設定會無法正常進行，因此ALICESOFT所發行的遊戲中，鮮有改為一般向並移植到家用遊戲主機上的作品，例如《[Only
 You
--リ・クルス-](../Page/Only_you_\(遊戲\).md "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")）與《鬥神都市》（[3DS](../Page/3DS.md "wikilink")）。也因為如此的經營方針，該公司發售至今的遊戲改編動畫只有15禁OVA或是[成人動畫作品](../Page/成人動畫.md "wikilink")，並無改編成電視動畫作品。
+-リ・クルス-](../Page/Only_you_\(遊戲\).md "wikilink")》（[PS2](../Page/PlayStation_2.md "wikilink")）與《鬥神都市》（[3DS](https://zh.wikipedia.org/wiki/3DS "wikilink")）。也因為如此的經營方針，該公司發售至今的遊戲改編動畫只有15禁OVA或是[成人動畫作品](../Page/成人動畫.md "wikilink")，並無改編成電視動畫作品。
 
 基於長期的觀點之考量，公司注重與玩家之間的信任關係，並會發行低價格的遊戲或是將既有的遊戲發行廉價版，以及將附屬在產品內的促銷附件於官網上開放下載（如作為促銷的遊戲「」）。除此之外，ALICESOFT更提出了「自由散佈宣言」（詳細後述）。
 
 ## 自由散佈宣言
 
-所謂的「自由散佈」，指的是ALICESOFT認可玩家以任何方式散佈該公司產品之行為，包括直接上傳至[網際網路供人下載](../Page/網際網路.md "wikilink")，或是透過[P2P軟體分享等行為](../Page/P2P.md "wikilink")。改造舊平台的遊戲以適應較新的[作業系統或是將之變更為](../Page/作業系統.md "wikilink")[遊戲模擬器的操作介面是被允許的](../Page/模擬器.md "wikilink")，其他的改造則是被禁止的。此外ALICESOFT並沒有放棄這些作品的[著作權](../Page/著作權.md "wikilink")，也無提供任何售後支援（如修正檔）。
+所謂的「自由散佈」，指的是ALICESOFT認可玩家以任何方式散佈該公司產品之行為，包括直接上傳至[網際網路供人下載](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，或是透過[P2P軟體分享等行為](https://zh.wikipedia.org/wiki/P2P "wikilink")。改造舊平台的遊戲以適應較新的[作業系統或是將之變更為](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[遊戲模擬器的操作介面是被允許的](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，其他的改造則是被禁止的。此外ALICESOFT並沒有放棄這些作品的[著作權](../Page/著作權.md "wikilink")，也無提供任何售後支援（如修正檔）。
 
 ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲以及近年產品的宣傳影片。這些遊戲包括了難以入手的舊遊戲（含1980年代至1990年代初期所發行之遊戲，通常這些遊戲的開發成本皆已收回）。如此的做法對於新產品的促銷也有助益效用（如Rance與鬪神都市兩系列的作品）。
 
@@ -73,7 +73,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <li>1996年12月19日 鬼畜王 Rance（1996）*</li>
 <li>2002年10月25日 Rance 5D -孤單的女孩子-</li>
 <li>2004年8月27日 Rance VI -傑斯崩壞-</li>
-<li>2006年12月15日 <a href="../Page/戰國蘭斯.md" title="wikilink">戰國蘭斯</a></li>
+<li>2006年12月15日 <a href="https://zh.wikipedia.org/wiki/戰國蘭斯" title="wikilink">戰國蘭斯</a></li>
 <li>2011年8月26日 Rance Quest </li>
 <li>2012年2月24日 Rance Quest Magnum </li>
 <li>2009年12月18日 Rance 02 -反逆的少女們- （重製版，收錄於《愛麗絲2010》）</li>
@@ -193,17 +193,17 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <li>超昂系列
 <ul>
 <li>2002年8月2日 <a href="../Page/超昂天使Escalayer.md" title="wikilink">超昂天使Escalayer</a></li>
-<li>2008年2月29日 <a href="../Page/超昂閃忍遙.md" title="wikilink">超昂閃忍遙</a></li>
-<li>2014年7月25日 <a href="../Page/超昂天使_Escalayer.md" title="wikilink">超昂天使 Escalayer R</a></li>
+<li>2008年2月29日 <a href="https://zh.wikipedia.org/wiki/超昂閃忍遙" title="wikilink">超昂閃忍遙</a></li>
+<li>2014年7月25日 <a href="https://zh.wikipedia.org/wiki/超昂天使_Escalayer" title="wikilink">超昂天使 Escalayer R</a></li>
 <li>2017年7月28日 </li>
 </ul></li>
 </ul>
 <ul>
 <li>地域制壓型戰略遊戲《「大」系列》
 <ul>
-<li>2001年11月30日 <a href="../Page/大惡司.md" title="wikilink">大惡司</a></li>
-<li>2003年12月19日 <a href="../Page/大番長.md" title="wikilink">大番長</a></li>
-<li>2011年4月28日 <a href="../Page/大帝国_(游戏).md" title="wikilink">大帝国</a></li>
+<li>2001年11月30日 <a href="https://zh.wikipedia.org/wiki/大惡司" title="wikilink">大惡司</a></li>
+<li>2003年12月19日 <a href="https://zh.wikipedia.org/wiki/大番長" title="wikilink">大番長</a></li>
+<li>2011年4月28日 <a href="https://zh.wikipedia.org/wiki/大帝国_(游戏)" title="wikilink">大帝国</a></li>
 </ul></li>
 </ul>
 <ul>
@@ -236,7 +236,8 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
   - 1999年3月25日
   - 1999年7月1日
   - 1999年9月30日 HUSHABY BABY（玩家俱樂部會員限定）
-  - 1999年11月18日 [DARCROWS](../Page/DARCROWS.md "wikilink")
+  - 1999年11月18日
+    [DARCROWS](https://zh.wikipedia.org/wiki/DARCROWS "wikilink")
   - 2000年4月13日 PERSIOM -約定所聚集的場所-
   - 2000年7月6日 SeeIn青 -シーンAO-
   - 2000年4月19日
@@ -258,7 +259,8 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
   - 2012年9月28日 母娘乱館
   - 2013年6月28日
   - 2014年10月24日 武想少女隊ぶれいど☆ブライダーズ
-  - 2017年1月27日 [Heartful媽媽](../Page/Heartful媽媽.md "wikilink")
+  - 2017年1月27日
+    [Heartful媽媽](https://zh.wikipedia.org/wiki/Heartful媽媽 "wikilink")
   - 2019年4月26日 母爛漫
 
 ## 參考來源
@@ -275,7 +277,8 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 
   - [AliceSoft Archives](http://retropc.net/alice/menu.html)
 
-  - [The AliceSoftWiki](../Page/wikia:AliceSoft.md "wikilink")
+  - [The
+    AliceSoftWiki](https://zh.wikipedia.org/wiki/wikia:AliceSoft "wikilink")
 
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")

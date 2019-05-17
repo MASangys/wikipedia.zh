@@ -1,6 +1,6 @@
-**Zing**是越南[网络游戏公司](../Page/网络游戏.md "wikilink")[VinaGame推出的越南语](../Page/VinaGame.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")，包括搜索引挚、新闻信息、互动社区、[娱乐产品和基础服务的大型综合](../Page/娱乐.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。**Zing**服务于越南人用户，是越南目前最大的[娱乐性和互动性的互联网媒体服务](../Page/娱乐.md "wikilink")。经过两个月内测，**Zing**门户网站正式发布于2008年1月19日。
+**Zing**是越南[网络游戏公司](../Page/网络游戏.md "wikilink")[VinaGame推出的越南语](../Page/VinaGame.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")，包括搜索引挚、新闻信息、互动社区、[娱乐产品和基础服务的大型综合](https://zh.wikipedia.org/wiki/娱乐 "wikilink")[门户网站](../Page/门户网站.md "wikilink")。**Zing**服务于越南人用户，是越南目前最大的[娱乐性和互动性的互联网媒体服务](https://zh.wikipedia.org/wiki/娱乐 "wikilink")。经过两个月内测，**Zing**门户网站正式发布于2008年1月19日。
 
-**Zing.vn**发布之后，该网站流量快速升高。根据[Alexa](../Page/Alexa.md "wikilink")2008年1月19日的[网络排名数据](../Page/网络排名.md "wikilink")，**Zing.vn**目前在越南排名第五，在全球排名第252。
+**Zing.vn**发布之后，该网站流量快速升高。根据[Alexa](https://zh.wikipedia.org/wiki/Alexa "wikilink")2008年1月19日的[网络排名数据](https://zh.wikipedia.org/wiki/网络排名 "wikilink")，**Zing.vn**目前在越南排名第五，在全球排名第252。
 
 ## 主要业务
 
@@ -17,7 +17,7 @@ search**是**Zing**主要业务单元之一，包括网页搜索、新闻搜索�
 ### 音乐搜索Zing mp3
 
 利用网络[蜘蛛技术](../Page/蜘蛛.md "wikilink")，**Zing
-mp3**从不同的网站自动搜集[音乐资源](../Page/音乐.md "wikilink")，向用户提供[在线欣赏](../Page/在线.md "wikilink")、免费[下载等功能](../Page/下载.md "wikilink")。用户还可以将音乐放在自己的[博客](../Page/博客.md "wikilink")，也可以发送给好友共同欣赏。该网站的音乐库拥有超过一百万首歌，而且还在不断自动升级增加，符合越南年轻用户的音乐欣赏需求。用户可以拥有自己的音乐合并发到网上让所有人一起分享，或直接发送给亲朋好友。
+mp3**从不同的网站自动搜集[音乐资源](../Page/音乐.md "wikilink")，向用户提供[在线欣赏](https://zh.wikipedia.org/wiki/在线 "wikilink")、免费[下载等功能](../Page/下载.md "wikilink")。用户还可以将音乐放在自己的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，也可以发送给好友共同欣赏。该网站的音乐库拥有超过一百万首歌，而且还在不断自动升级增加，符合越南年轻用户的音乐欣赏需求。用户可以拥有自己的音乐合并发到网上让所有人一起分享，或直接发送给亲朋好友。
 
 音乐搜索**Zing
 mp3**从2007年8月1日公测以来，网络排名迅速提高，在越南的知名度也越来越高。有段时间网络媒体提出了有关版权以及音乐内容的问题，但这并不影响用户的访问量。
@@ -25,7 +25,7 @@ mp3**从2007年8月1日公测以来，网络排名迅速提高，在越南的知
 ### 即时通讯Zing chat
 
 **Zing
-chat**是一款为越南用户提供即时通讯服务的免费软件。使用的是由腾讯公司授权的即时通讯技术，由VinaGame重新包装后在越南推出\[1\]。，以着重于娱乐方面和[P2P先进技术优势与在越南即时通讯市场已占据了十年之多的老外](../Page/P2P.md "wikilink")[雅虎通展开竞争](../Page/雅虎通.md "wikilink")。
+chat**是一款为越南用户提供即时通讯服务的免费软件。使用的是由腾讯公司授权的即时通讯技术，由VinaGame重新包装后在越南推出\[1\]。，以着重于娱乐方面和[P2P先进技术优势与在越南即时通讯市场已占据了十年之多的老外](https://zh.wikipedia.org/wiki/P2P "wikilink")[雅虎通展开竞争](https://zh.wikipedia.org/wiki/雅虎通 "wikilink")。
 
 **Zing chat的特色功能：**
 
@@ -46,7 +46,8 @@ chat**是一款为越南用户提供即时通讯服务的免费软件。使用�
   - 超级群聊比赛：为了吸引更多用户对**Zing chat**的认识，特别是对**Zing
     chat**的群聊特色能增加了解，超级群聊比赛鼓励用户在网上认识更多好友，参加聊天群，建立网上坚固、踏实的群体。
 
-**Zing chat**出来不久，[雅虎通通过离线留言说](../Page/雅虎通.md "wikilink")**Zing
+**Zing
+chat**出来不久，[雅虎通通过离线留言说](https://zh.wikipedia.org/wiki/雅虎通 "wikilink")**Zing
 chat**是[病毒](../Page/病毒.md "wikilink")，并提醒所有用户不要安装该软件。此消息出来之后马上得到越南网上新闻媒体的纠正。
 
 至今注册**Zing chat**的用户数量约有上三十万。
@@ -54,7 +55,7 @@ chat**是[病毒](../Page/病毒.md "wikilink")，并提醒所有用户不要安
 ### 网络社区Yobanbe
 
 [Yobanbe.png](https://zh.wikipedia.org/wiki/File:Yobanbe.png "fig:Yobanbe.png")
-在**Yobanbe**里，用户可以自己设计个人网页、写日志、[上传照片](../Page/上传.md "wikilink")、通过参加各种俱乐部和网上活动来跟好友保持联系，同时认识更多新朋友。
+在**Yobanbe**里，用户可以自己设计个人网页、写日志、[上传照片](https://zh.wikipedia.org/wiki/上传 "wikilink")、通过参加各种俱乐部和网上活动来跟好友保持联系，同时认识更多新朋友。
 **Yobanbe**其中的一个特点就是音乐空间，里面用户可以通过查找音乐来编辑自己喜爱的音乐列表，让好友每次访问也可以欣赏自己推荐的音乐。这业务是完全免费的。
 
 **Yobanbe**的口号：展示你自己

@@ -1,10 +1,10 @@
 《**PIKA★★NCHI
-DOUBLE**》是[嵐的第](../Page/嵐.md "wikilink")12枚[單曲](../Page/單曲.md "wikilink")。於2004年2月18日發行。唱片公司為[J
+DOUBLE**》是[嵐的第](../Page/嵐.md "wikilink")12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
-  - 續《[PIKA☆NCHI](../Page/PIKA☆NCHI.md "wikilink")》的作品。為了與前作的一顆白星對比並帶出延續的訊息，將星的數量增到兩顆並改為黑色。
+  - 續《[PIKA☆NCHI](https://zh.wikipedia.org/wiki/PIKA☆NCHI "wikilink")》的作品。為了與前作的一顆白星對比並帶出延續的訊息，將星的數量增到兩顆並改為黑色。
   - PV於直升機著陸坪之上攝影。
   - 2009年9月為止的紀錄，首次初動不足10萬杖，累計亦不足15萬；卻是暌違三作進入Oricon第一名的作品，此作品之後的單曲皆在Oricon初登場就獲得第一名。
   - 雖為嵐有史以來銷量最差的單曲，論歌迷間的受歡迎程度卻總是名列前矛。
@@ -31,7 +31,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  PIKA★★NCHI DOUBLE（Original Karaoke）
 4.  五里霧中（Original Karaoke）
 
-[ko:피칸치 더블](../Page/ko:피칸치_더블.md "wikilink")
+[ko:피칸치 더블](https://zh.wikipedia.org/wiki/ko:피칸치_더블 "wikilink")
 
 [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
 [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink")

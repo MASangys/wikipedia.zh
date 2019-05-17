@@ -438,10 +438,10 @@
 <td><p>Keroro軍曹 燃燒淘汰賽</p></td>
 <td><p>2004年9月30日</p></td>
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>動作</p></td>
 <td><p>1～4人</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_01.jpg">43</a></p></td>
 </tr>
 <tr class="even">
@@ -449,11 +449,11 @@
 <td><p>}}</p></td>
 <td><p>Keroro軍曹 競速對決</p></td>
 <td><p>2004年12月9日</p></td>
-<td><p><a href="../Page/GBA.md" title="wikilink">GBA</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GBA" title="wikilink">GBA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>競速</p></td>
 <td><p>1人</p></td>
-<td><p><a href="../Page/SUNRISE.md" title="wikilink">SUNRISE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUNRISE" title="wikilink">SUNRISE</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -462,7 +462,7 @@
 <td><p><a href="../Page/Windows_98.md" title="wikilink">Windows 98</a><br />
 <a href="../Page/Windows_2000.md" title="wikilink">2000</a><br />
 <a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td></td>
 <td><p>1人</p></td>
 <td></td>
@@ -473,20 +473,20 @@
 <td><p>Keroro軍曹 大混戰Z</p></td>
 <td><p>2005年11月17日</p></td>
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>動作</p></td>
 <td><p>1～4人</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p><a href="http://www.sunrise-inc.co.jp/keroro/release/images/game_03.jpg">46</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Windows98.md" title="wikilink">Windows98</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows98" title="wikilink">Windows98</a><br />
 <a href="../Page/Windows_2000.md" title="wikilink">2000</a><br />
 <a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -496,11 +496,11 @@
 <td></td>
 <td><p>Keroro軍曹演習！全員集合</p></td>
 <td></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>動腦思考</p></td>
 <td><p>可以進行5人連線對戰</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -508,10 +508,10 @@
 <td><p>Let's！TV play Keroro軍曹 Keroro小隊大混亂！！ 胡亂大決戰</p></td>
 <td><p>2006年9月下旬</p></td>
 <td><p>可直駁電視的電玩</p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -520,7 +520,7 @@
 <td><p>2007年2月8日</p></td>
 <td><p><a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a><br />
 <a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
-<td><p><a href="../Page/中文.md" title="wikilink">中文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></p></td>
 <td><p>戰略角色扮演（SRPG）</p></td>
 <td><p>1人</p></td>
 <td><p><a href="../Page/弘煜科技.md" title="wikilink">弘煜科技</a>、<a href="../Page/松崗科技.md" title="wikilink">松崗科技</a></p></td>
@@ -530,44 +530,44 @@
 <td></td>
 <td><p>Keroro軍曹演習！全員集合2</p></td>
 <td><p>2007年2月22日</p></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>動腦思考</p></td>
 <td><p>可以進行2人連線對戰</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Giroro版</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Giroro版</p></td>
 <td><p>2007年2月22日</p></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Keroro版</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Keroro版</p></td>
 <td><p>2007年2月22日</p></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Keroro敬禮版</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DSLite專用</a> Keroro軍曹主機保護套 Keroro敬禮版</p></td>
 <td><p>2007年2月22日</p></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -575,21 +575,21 @@
 <td><p>Keroro軍曹五人小隊突擊</p></td>
 <td><p>2007年8月9日</p></td>
 <td><p>PC</p></td>
-<td><p><a href="../Page/中文.md" title="wikilink">中文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中文" title="wikilink">中文</a></p></td>
 <td><p>動作</p></td>
 <td><p>1～2人</p></td>
-<td><p><a href="../Page/龍愛科技.md" title="wikilink">龍愛科技</a>、<a href="../Page/松崗科技.md" title="wikilink">松崗科技</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍愛科技" title="wikilink">龍愛科技</a>、<a href="../Page/松崗科技.md" title="wikilink">松崗科技</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>發現！Keroro軍曹 找錯處大作戰是也！</p></td>
 <td><p>2007年9月27日</p></td>
-<td><p><a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a></p></td>
-<td><p><a href="../Page/日文.md" title="wikilink">日文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
 <td><p>動腦思考</p></td>
 <td><p>1-4人</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -613,7 +613,7 @@
 <td></td>
 <td></td>
 <td><p>2005年8月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>4款頭形盒，13款造型</p></td>
 <td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112348395000.jpg">47</a></p></td>
 </tr>
@@ -621,7 +621,7 @@
 <td></td>
 <td></td>
 <td><p>2006年2月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>4款頭形盒，13款造型</p></td>
 <td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112398277000.jpg">48</a></p></td>
 </tr>
@@ -629,7 +629,7 @@
 <td></td>
 <td></td>
 <td><p>2006年6月22日</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
 <td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112399694000.jpg">49</a></p></td>
 </tr>
@@ -637,7 +637,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
 <td><p><a href="http://g-ec2.images-amazon.com/images/I/41gTwttuhvL._AA280_.jpg">50</a></p></td>
 </tr>
@@ -645,7 +645,7 @@
 <td></td>
 <td><p>吉祥物機器人 Keroro軍曹</p></td>
 <td><p>2006年11月30日</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>N/A</p></td>
 <td><p><a href="https://web.archive.org/web/20070927232720/http://k66.shingoaoi.com/keroro_image/invader/toy/b0611a01.jpg">51</a></p></td>
 </tr>
@@ -653,7 +653,7 @@
 <td></td>
 <td></td>
 <td><p>2007年2月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款頭形盒，13款造型</p></td>
 <td><p><a href="http://catalog.bandai.co.jp/neco/itemM/4543112458261000.jpg">52</a></p></td>
 </tr>
@@ -661,7 +661,7 @@
 <td></td>
 <td><p>Keroro軍曹 室內線控直升機（Air Walker）</p></td>
 <td><p>2007年3月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>N/A</p></td>
 <td></td>
 </tr>
@@ -831,7 +831,7 @@
 <td></td>
 <td><p>Keroro軍曹 搖擺Keroro</p></td>
 <td><p>2004年6月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款</p></td>
 <td></td>
 </tr>
@@ -839,7 +839,7 @@
 <td></td>
 <td><p>Keroro軍曹 藍星人裝</p></td>
 <td><p>2004年11月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款</p></td>
 <td></td>
 </tr>
@@ -847,7 +847,7 @@
 <td></td>
 <td><p>Keroro軍曹 搖蕩搖蕩！</p></td>
 <td><p>2005年1月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>10款</p></td>
 <td></td>
 </tr>
@@ -855,7 +855,7 @@
 <td></td>
 <td><p>Keroro軍曹 口袋世界 ～日向家全貌公開是也～</p></td>
 <td><p>2005年3月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款</p></td>
 <td></td>
 </tr>
@@ -863,7 +863,7 @@
 <td></td>
 <td><p>Keroro軍曹 Keroro小隊大集合</p></td>
 <td><p>2005年4月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款</p></td>
 <td></td>
 </tr>
@@ -871,7 +871,7 @@
 <td></td>
 <td><p>Keroro軍曹 藍星人裝MK-Ⅱ</p></td>
 <td><p>2005年6月上旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>7款</p></td>
 <td></td>
 </tr>
@@ -879,7 +879,7 @@
 <td></td>
 <td><p>Keroro軍曹 搖蕩搖蕩 全員換新裝是也</p></td>
 <td><p>2005年7月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>10款</p></td>
 <td></td>
 </tr>
@@ -887,7 +887,7 @@
 <td></td>
 <td><p>Keroro軍曹 大頭公仔</p></td>
 <td><p>2006年4月中旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>8款</p></td>
 <td></td>
 </tr>
@@ -895,7 +895,7 @@
 <td></td>
 <td><p>Keroro軍曹 搖蕩搖蕩 EX</p></td>
 <td><p>2006年5月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>10款</p></td>
 <td></td>
 </tr>
@@ -903,7 +903,7 @@
 <td></td>
 <td><p>Keroro軍曹 全彩Keroro</p></td>
 <td><p>2006年6月上旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>7款</p></td>
 <td></td>
 </tr>
@@ -911,7 +911,7 @@
 <td></td>
 <td><p>Keroro軍曹 軟綿綿的Keroro</p></td>
 <td><p>2006年8月中旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>8款</p></td>
 <td></td>
 </tr>
@@ -919,7 +919,7 @@
 <td></td>
 <td><p>Keroro軍曹 ChikiChikiKeroro</p></td>
 <td><p>2006年11月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>10款</p></td>
 <td></td>
 </tr>
@@ -927,7 +927,7 @@
 <td></td>
 <td></td>
 <td><p>2006年11月中旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>10款</p></td>
 <td></td>
 </tr>
@@ -935,7 +935,7 @@
 <td></td>
 <td><p>小型轉蛋機 Keroro軍曹</p></td>
 <td><p>2007年2月中旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>8款</p></td>
 <td></td>
 </tr>
@@ -943,7 +943,7 @@
 <td></td>
 <td><p>Keroro軍曹 一張一合Keroro</p></td>
 <td><p>2007年3月中旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>8款</p></td>
 <td></td>
 </tr>
@@ -951,7 +951,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>7款</p></td>
 <td></td>
 </tr>
@@ -959,7 +959,7 @@
 <td></td>
 <td><p>Keroro軍曹 雙雙搖動！</p></td>
 <td><p>2007年8月下旬</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td><p>6款</p></td>
 <td></td>
 </tr>
@@ -985,7 +985,7 @@
 <td></td>
 <td><p>Keroro 軍曹</p></td>
 <td><p>2005年8月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -993,7 +993,7 @@
 <td></td>
 <td><p>Tamama 二等兵</p></td>
 <td><p>2005年8月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1001,7 +1001,7 @@
 <td></td>
 <td><p>Kururu 曹長</p></td>
 <td><p>2005年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1009,7 +1009,7 @@
 <td></td>
 <td><p>Giroro 伍長</p></td>
 <td><p>2005年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1017,7 +1017,7 @@
 <td></td>
 <td><p>Dororo 兵長</p></td>
 <td><p>2005年11月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1025,7 +1025,7 @@
 <td></td>
 <td><p>Keroro 軍曹 1.5 + 飛行器</p></td>
 <td><p>2006年3月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1033,7 +1033,7 @@
 <td></td>
 <td><p>小 Keroro</p></td>
 <td><p>2006年4月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1041,7 +1041,7 @@
 <td></td>
 <td><p>爆炸頭軍曹</p></td>
 <td><p>2006年4月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1049,7 +1049,7 @@
 <td></td>
 <td><p>Keroro 機械人</p></td>
 <td><p>2006年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1057,7 +1057,7 @@
 <td></td>
 <td><p>Kururu 機械人</p></td>
 <td><p>2006年10月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1065,7 +1065,7 @@
 <td></td>
 <td><p>Giroro 機械人</p></td>
 <td><p>2006年11月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1073,7 +1073,7 @@
 <td></td>
 <td><p>Tamama 機械人</p></td>
 <td><p>2006年12月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1081,7 +1081,7 @@
 <td></td>
 <td><p>Dororo 機械人</p></td>
 <td><p>2007年1月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1089,7 +1089,7 @@
 <td></td>
 <td><p>Keroro 機械人 Mk-II</p></td>
 <td><p>2007年5月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1097,7 +1097,7 @@
 <td></td>
 <td><p>Tamama 機械人 Mk-II</p></td>
 <td><p>2007年7月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1105,7 +1105,7 @@
 <td></td>
 <td><p>Kururu 機械人 Mk-II</p></td>
 <td><p>2007年8月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1113,7 +1113,7 @@
 <td></td>
 <td><p>Giroro 機械人 Mk-II</p></td>
 <td><p>2007年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1121,7 +1121,7 @@
 <td></td>
 <td><p>Dororo 機械人 Mk-II</p></td>
 <td><p>2007年10月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1129,7 +1129,7 @@
 <td></td>
 <td><p>武者 Keroro</p></td>
 <td><p>2008年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1137,7 +1137,7 @@
 <td></td>
 <td><p>Tamama 足軽兵</p></td>
 <td><p>2008年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1145,7 +1145,7 @@
 <td></td>
 <td><p>黑暗 Keroro</p></td>
 <td><p>2008年3月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1153,7 +1153,7 @@
 <td></td>
 <td><p>Kururu 藪医</p></td>
 <td><p>2008年4月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1161,7 +1161,7 @@
 <td></td>
 <td><p>Giroro 浪人</p></td>
 <td><p>2008年5月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1169,7 +1169,7 @@
 <td></td>
 <td><p>Dororo 頭領</p></td>
 <td><p>2008年6月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1177,7 +1177,7 @@
 <td></td>
 <td><p>武者 Keroro 機械人</p></td>
 <td><p>2008年7月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1185,7 +1185,7 @@
 <td></td>
 <td><p>足軽 Tamama 機械人</p></td>
 <td><p>2008年8月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1193,7 +1193,7 @@
 <td></td>
 <td><p>藪医 Kururu 機械人</p></td>
 <td><p>2008年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1201,7 +1201,7 @@
 <td></td>
 <td><p>浪人 Giroro 機械人</p></td>
 <td><p>2008年10月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1209,7 +1209,7 @@
 <td></td>
 <td><p>頭領 Dororo 機械人</p></td>
 <td><p>2008年12月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1217,7 +1217,7 @@
 <td></td>
 <td><p>Garuru中尉</p></td>
 <td><p>2009年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1225,7 +1225,7 @@
 <td></td>
 <td><p>Keroro大尉</p></td>
 <td><p>2009年4月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1233,7 +1233,7 @@
 <td></td>
 <td><p>武者毒蛇機械人</p></td>
 <td><p>2009年5月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1241,7 +1241,7 @@
 <td></td>
 <td><p>Pururu看護長</p></td>
 <td><p>2009年6月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1249,7 +1249,7 @@
 <td></td>
 <td><p>武者毒蛇機械人（長男専用機）</p></td>
 <td><p>2009年6月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1257,7 +1257,7 @@
 <td></td>
 <td><p>海賊王Keroro軍曹 + Kerodash</p></td>
 <td><p>2009年9月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1265,7 +1265,7 @@
 <td></td>
 <td><p>破壊王Tamama + TamaHorn</p></td>
 <td><p>2009年11月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1273,7 +1273,7 @@
 <td></td>
 <td><p>King Keroro Robo</p></td>
 <td><p>2009年12月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1281,7 +1281,7 @@
 <td></td>
 <td><p>Keroro 軍事戰鬥機開發基地</p></td>
 <td><p>2007年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1289,7 +1289,7 @@
 <td></td>
 <td><p>Keroro 小隊秘密基地</p></td>
 <td><p>2007年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1297,7 +1297,7 @@
 <td></td>
 <td><p>超神兵 Keron</p></td>
 <td><p>2008年3月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1305,7 +1305,7 @@
 <td></td>
 <td><p>武者Keroro小隊</p></td>
 <td><p>2008年12月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1313,7 +1313,7 @@
 <td></td>
 <td><p>機動巨神 計六六大将軍</p></td>
 <td><p>2009年2月</p></td>
-<td><p><a href="../Page/BANDAI.md" title="wikilink">BANDAI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

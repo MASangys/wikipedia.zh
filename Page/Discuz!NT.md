@@ -1,11 +1,12 @@
-**Discuz\!NT**产品是**康盛创想（北京）科技有限公司**（Comsenz）推出的一款**[网络论坛](../Page/网络论坛.md "wikilink")**程序，同**[Discuz\!](../Page/Discuz!.md "wikilink")**一样，是一个[源碼公開的网络论坛程序](../Page/开放原始码.md "wikilink")。Discuz\!NT采用[微软](../Page/微软.md "wikilink")[.NET语言开发](../Page/.NET.md "wikilink")，主要适用于[Windows](../Page/Windows.md "wikilink")
+**Discuz\!NT**产品是**康盛创想（北京）科技有限公司**（Comsenz）推出的一款**[网络论坛](../Page/网络论坛.md "wikilink")**程序，同**[Discuz\!](../Page/Discuz!.md "wikilink")**一样，是一个[源碼公開的网络论坛程序](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。Discuz\!NT采用[微软](../Page/微软.md "wikilink")[.NET语言开发](https://zh.wikipedia.org/wiki/.NET "wikilink")，主要适用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 NT/2003系列[服务器环境建构](../Page/服务器.md "wikilink")。现在最新发行版本为Discuz\!NT3.9。
 
 ## 运行平台
 
 Discuz\!NT运行在Windows系统服务器上。采用微软的[ASP.NET开发程序](../Page/ASP.NET.md "wikilink")，[数据库采用微软的](../Page/数据库.md "wikilink")[SQL
-Server](../Page/Microsoft_SQL_Server.md "wikilink") 2000 / 2005 /
-2008、[Access和](../Page/Access.md "wikilink")[MySQL数据库系统](../Page/MySQL.md "wikilink")。
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
+2000 / 2005 /
+2008、[Access和](https://zh.wikipedia.org/wiki/Access "wikilink")[MySQL数据库系统](../Page/MySQL.md "wikilink")。
 
 ## 版本
 
@@ -167,8 +168,9 @@ Server](../Page/Microsoft_SQL_Server.md "wikilink") 2000 / 2005 /
   - [网络论坛](../Page/网络论坛.md "wikilink")
   - [Discuz\!](../Page/Discuz!.md "wikilink")
   - [ASP.NET](../Page/ASP.NET.md "wikilink")
-  - [Windows](../Page/Windows.md "wikilink")
-  - [Sql Server 2000](../Page/Microsoft_SQL_Server.md "wikilink")
+  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
+  - [Sql Server
+    2000](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
 
 ## 相关链接
 

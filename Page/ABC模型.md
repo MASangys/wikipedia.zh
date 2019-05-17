@@ -3,17 +3,17 @@ Meyerowitz在1991年提出。\[1\]这个模型是以对花器官发育有缺陷�
 
 ## 模型的提出
 
-两个关键发现导致了ABC模型的提出。第一，[同源异型突变使在正常情况下应发育某种器官的部位发育出了另一种器官](../Page/同源异型基因.md "wikilink")。比如野生[蔷薇只有](../Page/蔷薇.md "wikilink")5枚[花瓣和众多的](../Page/花瓣.md "wikilink")[雄蕊](../Page/雄蕊.md "wikilink")，然而，园艺蔷薇却具有一个同源异型基因，使一些本应发育成雄蕊的组织发育成了花瓣。第二，每一个能影响花部器官的决定的基因都可以同时影响**两种**花部器官，或者是影响花瓣**和**[萼片](../Page/萼片.md "wikilink")，或者是影响花瓣**和**雄蕊。\[2\]
+两个关键发现导致了ABC模型的提出。第一，[同源异型突变使在正常情况下应发育某种器官的部位发育出了另一种器官](https://zh.wikipedia.org/wiki/同源异型基因 "wikilink")。比如野生[蔷薇只有](../Page/蔷薇.md "wikilink")5枚[花瓣和众多的](https://zh.wikipedia.org/wiki/花瓣 "wikilink")[雄蕊](../Page/雄蕊.md "wikilink")，然而，园艺蔷薇却具有一个同源异型基因，使一些本应发育成雄蕊的组织发育成了花瓣。第二，每一个能影响花部器官的决定的基因都可以同时影响**两种**花部器官，或者是影响花瓣**和**[萼片](https://zh.wikipedia.org/wiki/萼片 "wikilink")，或者是影响花瓣**和**雄蕊。\[2\]
 
-花部器官决定[基因因而可以根据它们所影响的器官而分成三类](../Page/基因.md "wikilink")。A类基因的突变影响[萼片和花瓣](../Page/萼片.md "wikilink")。B类基因的突变影响花瓣和雄蕊。C类基因的突变则影响雄蕊和[心皮](../Page/心皮.md "wikilink")。所有这三类基因都是可转录成[蛋白质的同源异型基因](../Page/蛋白质.md "wikilink")。除其中一个基因（*APETALA2*）外，这些基因编码的蛋白质都含有一个[MADS盒结构域](../Page/MADS盒.md "wikilink")，这一结构域可以结合含有特定基序(即CArG-box
+花部器官决定[基因因而可以根据它们所影响的器官而分成三类](../Page/基因.md "wikilink")。A类基因的突变影响[萼片和花瓣](https://zh.wikipedia.org/wiki/萼片 "wikilink")。B类基因的突变影响花瓣和雄蕊。C类基因的突变则影响雄蕊和[心皮](https://zh.wikipedia.org/wiki/心皮 "wikilink")。所有这三类基因都是可转录成[蛋白质的同源异型基因](../Page/蛋白质.md "wikilink")。除其中一个基因（*APETALA2*）外，这些基因编码的蛋白质都含有一个[MADS盒结构域](https://zh.wikipedia.org/wiki/MADS盒 "wikilink")，这一结构域可以结合含有特定基序(即CArG-box
 motif,
-CC\[A/T\]6GG)的[DNA序列](../Page/DNA.md "wikilink")，从而在DNA[转录时起到](../Page/转录.md "wikilink")[调控子的作用](../Page/调控子.md "wikilink")。据信，这些基因都是调控其他控制器官发育的基因的[主控基因](../Page/主控基因.md "wikilink")。
+CC\[A/T\]6GG)的[DNA序列](https://zh.wikipedia.org/wiki/DNA "wikilink")，从而在DNA[转录时起到](../Page/转录.md "wikilink")[调控子的作用](https://zh.wikipedia.org/wiki/调控子 "wikilink")。据信，这些基因都是调控其他控制器官发育的基因的[主控基因](https://zh.wikipedia.org/wiki/主控基因 "wikilink")。
 
-|                                                                     |
-| :-----------------------------------------------------------------: |
-| *[APETALA2](../Page/Apetala2.md "wikilink")* (AP2) *APETALA1* (AP1) |
-|                                 B类                                  |
-|                                 C类                                  |
+|                                                                                        |
+| :------------------------------------------------------------------------------------: |
+| *[APETALA2](https://zh.wikipedia.org/wiki/Apetala2 "wikilink")* (AP2) *APETALA1* (AP1) |
+|                                           B类                                           |
+|                                           C类                                           |
 
 *'金鱼草属（*Antirrhinum*）和拟南芥属（*Arabidopsis*）中
 已知ABC基因的分类\[3\] |- \! style="background:\#aaaaff;" align="center" | \!
@@ -28,10 +28,10 @@ ABC模型认为，A基因本身决定萼片，A和B基因共同决定花瓣，B�
 
 小结：
 
-  - A类基因的表达诱导[萼片的发育](../Page/萼片.md "wikilink")。
-  - A类基因和B类基因共同表达诱导[花瓣的发育](../Page/花瓣.md "wikilink")。
+  - A类基因的表达诱导[萼片的发育](https://zh.wikipedia.org/wiki/萼片 "wikilink")。
+  - A类基因和B类基因共同表达诱导[花瓣的发育](https://zh.wikipedia.org/wiki/花瓣 "wikilink")。
   - B类基因和C类基因共同表达诱导[雄蕊的发育](../Page/雄蕊.md "wikilink")。
-  - C类基因的表达诱导[心皮的发育](../Page/心皮.md "wikilink")。
+  - C类基因的表达诱导[心皮的发育](https://zh.wikipedia.org/wiki/心皮 "wikilink")。
 
 ## E类功能的发现及ABC模型的扩展
 
@@ -45,7 +45,7 @@ Goto发表文章证明SEP3可与A类，B类及C类基因的蛋白产物相互作
 
 ## ABCE基因的调控及其下游作用因子
 
-B基因在第四轮花器官中的表达受到*SUPERMAN*基因的抑制。*sup*突变体的表型为第四轮心皮数量大大减少。而雄蕊数量大大增加。如前三轮花器官中的基因发育正常，只有第四轮花器官中有B基因异位表达，导致该轮花器官发育为雄蕊。大量单突变、双突变、三突变变体以及基因过量表达的研究结果均在不同程度上支持这个模型。“ABC”模型的提出时近年[植物发育生物学研究中的一个非常重要的突破](../Page/植物发育生物学.md "wikilink")，可以解释多个基因在器官特征性发育中的作用。
+B基因在第四轮花器官中的表达受到*SUPERMAN*基因的抑制。*sup*突变体的表型为第四轮心皮数量大大减少。而雄蕊数量大大增加。如前三轮花器官中的基因发育正常，只有第四轮花器官中有B基因异位表达，导致该轮花器官发育为雄蕊。大量单突变、双突变、三突变变体以及基因过量表达的研究结果均在不同程度上支持这个模型。“ABC”模型的提出时近年[植物发育生物学研究中的一个非常重要的突破](https://zh.wikipedia.org/wiki/植物发育生物学 "wikilink")，可以解释多个基因在器官特征性发育中的作用。
 
 ## ABC功能的保守性及模型的推广
 
@@ -71,10 +71,10 @@ B类基因的功能甚至在裸子植物中都有一定的保守性。在ABC模�
 ## 参见
 
   - [花](../Page/花.md "wikilink")
-  - [MADS盒](../Page/MADS盒.md "wikilink")
+  - [MADS盒](https://zh.wikipedia.org/wiki/MADS盒 "wikilink")
   - [突变](../Page/突变.md "wikilink")
-  - [植物进化发育生物学](../Page/植物进化发育生物学.md "wikilink")
-  - [SUPERMAN(基因)](../Page/SUPERMAN\(基因\).md "wikilink")
+  - [植物进化发育生物学](https://zh.wikipedia.org/wiki/植物进化发育生物学 "wikilink")
+  - [SUPERMAN(基因)](https://zh.wikipedia.org/wiki/SUPERMAN\(基因\) "wikilink")
 
 [Category:被子植物](https://zh.wikipedia.org/wiki/Category:被子植物 "wikilink")
 [Category:遗传学](https://zh.wikipedia.org/wiki/Category:遗传学 "wikilink")

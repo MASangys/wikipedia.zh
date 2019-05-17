@@ -1,5 +1,5 @@
 《'''初音島Girl's Symphony
-'''》（日語原名：）是一隻由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS旗下](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")[Sanctuary製作和發行的戀愛冒險遊戲](../Page/Sanctuary.md "wikilink")，是[初音島系列作的女性向作品](../Page/初音島.md "wikilink")，並採用[初音島II的時間點](../Page/初音島II.md "wikilink")。首個遊戲版本為電腦版[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2008年9月26日推出。
+'''》（日語原名：）是一隻由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS旗下](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[Sanctuary製作和發行的戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Sanctuary "wikilink")，是[初音島系列作的女性向作品](../Page/初音島.md "wikilink")，並採用[初音島II的時間點](../Page/初音島II.md "wikilink")。首個遊戲版本為電腦版[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2008年9月26日推出。
 
 ## 歷史
 
@@ -54,7 +54,7 @@
     生日：10月20日 星座：天秤座 血型：A 身高：189cm
     風見學園歷史教師，是史櫻的哥哥。說話不苟言笑，規範史櫻在學校與自己保持距離，很照顧史櫻的生活起居。
   -
-    配音員：[大須賀純](../Page/大須賀純.md "wikilink")
+    配音員：[大須賀純](https://zh.wikipedia.org/wiki/大須賀純 "wikilink")
     生日：不明 血型：不明 身高：168cm
     史櫻偶然撿回家的神祕少年，行為模式像似家犬。對過去的記憶完全喪失。
 
@@ -68,7 +68,7 @@
     年龄：18 生日：5月3日 星座：金牛座 身高：157cm 體重：41kg 三圍：B82/W53/H81
     風見學園附屬中學三年二班的學生。為校園的偶像，也有親衛隊，為輕音樂社的社員，擔任主唱。因學生會職務介紹家庭教師，與大瀨、史櫻友好。
   -
-    配音員：[岸尾大辅](../Page/岸尾大辅.md "wikilink")
+    配音員：[岸尾大辅](https://zh.wikipedia.org/wiki/岸尾大辅 "wikilink")
     風見學園附屬中學三年三班的學生，非公定新聞社社長。在學校很出名，不時出現在史櫻等人面前搭訕。
   -
     配音員：[成瀨未亞](../Page/成瀨未亞.md "wikilink")
@@ -113,7 +113,7 @@
 ### 漫画
 
   - 初音岛Girl's Symphony
-    連載：[月刊CompAce](../Page/月刊CompAce.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2009年6月号〜12月号
+    連載：[月刊CompAce](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2009年6月号〜12月号
     作画：、原作：Sanctuary、故事構成：RED FLAGSHIP
 
 原作中没有登场的青梅竹马在漫画版里登场。

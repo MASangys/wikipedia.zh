@@ -1,15 +1,15 @@
 《**FLCL**》（）為一部由[GAINAX](../Page/GAINAX.md "wikilink")、[Production
-I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "wikilink")[OVA系列](../Page/OVA.md "wikilink")[動畫](../Page/動畫.md "wikilink")。另還有出版[小説及](../Page/小説.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")。本編OVA全6話、小說全3卷、漫畫單行本全2卷。本作也是在[新世紀福音戰士中擔任副監督的](../Page/新世紀福音戰士.md "wikilink")[鶴卷和哉的首部導演作品](../Page/鶴卷和哉.md "wikilink")。
+I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "wikilink")[OVA系列](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。另還有出版[小説及](https://zh.wikipedia.org/wiki/小説 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本編OVA全6話、小說全3卷、漫畫單行本全2卷。本作也是在[新世紀福音戰士中擔任副監督的](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")[鶴卷和哉的首部導演作品](../Page/鶴卷和哉.md "wikilink")。
 
 本作的特徵為凝練的演出、唐突诡异的畫面轉換、夾雜漫畫風格的畫面構成、及隨處可見實驗性質濃厚的演出。而且節奏優秀的動作場面比例不低、設定及動畫品質也有相當高的評價。
 
-因為本作只以OVA的形式出版，與同動畫公司GAINAX所製作的「新世紀福音戰士」相較下，在日本的知名度較低（但這得考慮新世紀福音戰士為少有的大熱門作品），但是在日本外的市場卻得到不少回響，特別是在美國是一部有相當人氣與知名度的作品。於2003年[加拿大](../Page/加拿大.md "wikilink")[蒙特婁所舉辦的國際電影節](../Page/蒙特婁.md "wikilink")、動畫部門中得到銅賞。[1](http://www.fantasiafest.com/2003/en/news/release.php?lang=en&id=57)
+因為本作只以OVA的形式出版，與同動畫公司GAINAX所製作的「新世紀福音戰士」相較下，在日本的知名度較低（但這得考慮新世紀福音戰士為少有的大熱門作品），但是在日本外的市場卻得到不少回響，特別是在美國是一部有相當人氣與知名度的作品。於2003年[加拿大](../Page/加拿大.md "wikilink")[蒙特婁所舉辦的國際電影節](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")、動畫部門中得到銅賞。[1](http://www.fantasiafest.com/2003/en/news/release.php?lang=en&id=57)
 
 ## 剧情簡介
 
 小学生**南束
 直太**居住在平凡的地方都市“疏瀬”。某天他的平静生活被突然出现的骑着[Vespa的谜样少女](../Page/伟士牌.md "wikilink")**春原
-晴子**打乱了。两人第一次见面时，晴子就用她蓝色的老式左手式的低音电吉他，击中了直太的头，将他打飞出去，之后直太又震惊地发现晴子以[女佣的名义住进了自己的家中](../Page/女佣.md "wikilink")。
+晴子**打乱了。两人第一次见面时，晴子就用她蓝色的老式左手式的低音电吉他，击中了直太的头，将他打飞出去，之后直太又震惊地发现晴子以[女佣的名义住进了自己的家中](https://zh.wikipedia.org/wiki/女佣 "wikilink")。
 
 从那起，直太的额头就开始长出各种奇妙的角，而来自医疗器械制造商Medical
 Mechanica工厂的巨型机器人则不断地从直太头上的角中跑出来，引发了各种的事件。由于直太的头是仅有的一个能够开启的、机器人传送用的“N.O.超空间通道”，所以晴子也利用直太的“N.O.通道”一直在寻找着海盗王**Atomsk**，并不断地和Medical
@@ -22,7 +22,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
   -
     小學6年級生，純情害羞的普通少年。被晴子的[電貝斯打中額頭後](../Page/電貝斯.md "wikilink")，額頭開始長出奇妙的角，然後從那跑出各式各樣的物體。
   -
-    在直太面前突然出現的謎樣少女。本名為ハルハ・ラハル。自稱19歲的「宇宙人」。個性常常傍若無人。所拿的[電貝斯是樂器同時也是武器](../Page/電貝斯.md "wikilink")，還有各式各樣的用途。想利用直太來達成自己的願望。在劇中常裝扮成[護士](../Page/護士.md "wikilink")、[女僕及](../Page/女僕.md "wikilink")[兔女郎](../Page/兔女郎.md "wikilink")。左撇子。
+    在直太面前突然出現的謎樣少女。本名為ハルハ・ラハル。自稱19歲的「宇宙人」。個性常常傍若無人。所拿的[電貝斯是樂器同時也是武器](../Page/電貝斯.md "wikilink")，還有各式各樣的用途。想利用直太來達成自己的願望。在劇中常裝扮成[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")、[女僕及](https://zh.wikipedia.org/wiki/女僕 "wikilink")[兔女郎](../Page/兔女郎.md "wikilink")。左撇子。
   -
     不知為何跟著直太的女高中生。17歳。跟直太的哥哥タスク在交往，但是タスク因留學而有了新戀人，所以實際上是失戀了。因此而自暴自棄，因為性格上的轉變而有孤獨的一面。有吸煙。
   -
@@ -45,7 +45,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 
 ## OVA
 
-以[DVD與](../Page/DVD.md "wikilink")[VHS兩種形式同時發售](../Page/VHS.md "wikilink")。各巻收錄1話25分鐘（最終巻為31分鐘），全6巻。
+以[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[VHS兩種形式同時發售](../Page/VHS.md "wikilink")。各巻收錄1話25分鐘（最終巻為31分鐘），全6巻。
 
 1.  Vol.1 《》（2000年4月26日於日本發售）
 2.  Vol.2 《》（2000年6月21日於日本發售）
@@ -58,36 +58,36 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 
   - 企畫、原作：[GAINAX](../Page/GAINAX.md "wikilink")
   - 製作：[大月俊倫](../Page/大月俊倫.md "wikilink")（[King
-    Records](../Page/King_Records.md "wikilink")）、[石川光久](../Page/石川光久.md "wikilink")（[Production
-    I.G](../Page/Production_I.G.md "wikilink")）、[山賀博之](../Page/山賀博之.md "wikilink")（GAINAX）
+    Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")）、[石川光久](../Page/石川光久.md "wikilink")（[Production
+    I.G](../Page/Production_I.G.md "wikilink")）、[山賀博之](https://zh.wikipedia.org/wiki/山賀博之 "wikilink")（GAINAX）
   - 監修：[庵野秀明](../Page/庵野秀明.md "wikilink")
-  - 原案·監督：[鶴巻和哉](../Page/鶴巻和哉.md "wikilink")
+  - 原案·監督：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")
   - 腳本：[榎戶洋司](../Page/榎戶洋司.md "wikilink")
-  - 人物設定、視覺概念：[貞本義行](../Page/貞本義行.md "wikilink")
-  - 作畫監督：[平松禎史](../Page/平松禎史.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、[小倉陳利](../Page/小倉陳利.md "wikilink")
+  - 人物設定、視覺概念：[貞本義行](https://zh.wikipedia.org/wiki/貞本義行 "wikilink")
+  - 作畫監督：[平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、[小倉陳利](https://zh.wikipedia.org/wiki/小倉陳利 "wikilink")
   - 美術監督：[小倉宏昌](../Page/小倉宏昌.md "wikilink")
-  - 分鏡：[鶴巻和哉](../Page/鶴巻和哉.md "wikilink")、[平松禎史](../Page/平松禎史.md "wikilink")、[佐伯昭志](../Page/佐伯昭志.md "wikilink")、[摩砂雪](../Page/摩砂雪.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、小倉陳利
-  - 演出：佐伯昭志、[大塚雅彦](../Page/大塚雅彦.md "wikilink")、安藤健
+  - 分鏡：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")、[平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")、[佐伯昭志](https://zh.wikipedia.org/wiki/佐伯昭志 "wikilink")、[摩砂雪](../Page/摩砂雪.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、小倉陳利
+  - 演出：佐伯昭志、[大塚雅彦](https://zh.wikipedia.org/wiki/大塚雅彦 "wikilink")、安藤健
   - 色彩設計：高星晴美
   - 編輯：浅野真樹子
   - 音樂：[光宗信吉](../Page/光宗信吉.md "wikilink")、[the
-    pillows](../Page/the_pillows.md "wikilink")
-  - 音響製作：[なかのとおる](../Page/なかのとおる.md "wikilink")
-  - 效果：野口透（[アニメサウンドプロダクション](../Page/アニメサウンドプロダクション.md "wikilink")）
+    pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")
+  - 音響製作：[なかのとおる](https://zh.wikipedia.org/wiki/なかのとおる "wikilink")
+  - 效果：野口透（[アニメサウンドプロダクション](https://zh.wikipedia.org/wiki/アニメサウンドプロダクション "wikilink")）
   - 錄音調整：内田直継
   - 錄音助手：伊藤晋子
   - 錄音工作室：HALF H·P STUDIO
   - 錄音製作擔當：藤田亜紀子
   - 錄音製作：HALF H·P STUDIO
   - 製作：佐藤雅信（キングレコード）、西沢正智（Production
-    I.G）、[佐藤裕紀](../Page/佐藤裕紀.md "wikilink")（GAINAX）
+    I.G）、[佐藤裕紀](https://zh.wikipedia.org/wiki/佐藤裕紀 "wikilink")（GAINAX）
   - 動畫製作：Production I.G、GAINAX
 
 ## 主題曲
 
   - 「Ride on shooting star」
       - 歌手：[the
-        pillows](../Page/the_pillows.md "wikilink")、作詞·作曲：[山中さわお](../Page/山中さわお.md "wikilink")、編曲：the
+        pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")、作詞·作曲：[山中さわお](https://zh.wikipedia.org/wiki/山中さわお "wikilink")、編曲：the
         pillows
 
 ## 話數列表
@@ -110,7 +110,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 <th><p>EpisodeNumber = 3</p></th>
 <th><p>Title = Marquis de Carabas </p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = 直太的同班同学<strong>蜷守惠理</strong>的父亲，同时也是疏瀬市市长，陷入了离婚丑闻。而惠理则把精力放在了班级戏剧《<a href="../Page/穿靴子的猫.md" title="wikilink">穿靴子的猫</a>》上，她在剧中扮演国王，而直太被班级推选扮演猫。但直太对于自己的角色并不热心，逃避排练。遇到真见美后，她发现直太头上长出了猫耳。惠理为了躲避层层包围了她家的媒体，跑到了火车站。晴子骑着Vespa赶过来时，为了躲避路上的小猫，从车上摔了出去。Vespa撞了上直太，直太又撞上了惠理，从而暴露了直太猫耳状的N.O.通道。惠理好奇地摸了直太的耳朵，却因为暴露于N.O.而晕倒。父亲卡门以惠理家中的骚乱为由，邀请她住在自家中。在直太的房间里，惠理则道出了她暗地操纵班级选票、让直太饰演猫的实情。第二天，两人在排练中又吵了起来。惠理揭穿了直太隐藏的猫耳，而直太也揭露了惠理对选票的暗箱操作。这使得惠理头上萌生了巨大的未知生物，而晴子和健次则利用<a href="../Page/咖喱.md" title="wikilink">咖喱干掉了这只生物</a>。而后班级戏剧顺利演出。 }} {{Episode list/sublist|</p></th>
+<th><p>ShortSummary = 直太的同班同学<strong>蜷守惠理</strong>的父亲，同时也是疏瀬市市长，陷入了离婚丑闻。而惠理则把精力放在了班级戏剧《<a href="../Page/穿靴子的猫.md" title="wikilink">穿靴子的猫</a>》上，她在剧中扮演国王，而直太被班级推选扮演猫。但直太对于自己的角色并不热心，逃避排练。遇到真见美后，她发现直太头上长出了猫耳。惠理为了躲避层层包围了她家的媒体，跑到了火车站。晴子骑着Vespa赶过来时，为了躲避路上的小猫，从车上摔了出去。Vespa撞了上直太，直太又撞上了惠理，从而暴露了直太猫耳状的N.O.通道。惠理好奇地摸了直太的耳朵，却因为暴露于N.O.而晕倒。父亲卡门以惠理家中的骚乱为由，邀请她住在自家中。在直太的房间里，惠理则道出了她暗地操纵班级选票、让直太饰演猫的实情。第二天，两人在排练中又吵了起来。惠理揭穿了直太隐藏的猫耳，而直太也揭露了惠理对选票的暗箱操作。这使得惠理头上萌生了巨大的未知生物，而晴子和健次则利用<a href="https://zh.wikipedia.org/wiki/咖喱" title="wikilink">咖喱干掉了这只生物</a>。而后班级戏剧顺利演出。 }} {{Episode list/sublist|</p></th>
 <th><p>EpisodeNumber = 4</p></th>
 <th><p>Title = Full Swing </p></th>
 <th><p>OriginalAirDate = </p></th>
@@ -118,7 +118,7 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
 <th><p>EpisodeNumber = 5</p></th>
 <th><p>Title = Brittle Bullet </p></th>
 <th><p>OriginalAirDate = </p></th>
-<th><p>ShortSummary = 晴子开始将注意力由父亲卡门转向直太，这激起了卡门的嫉妒。父子两人决定为晴子“决斗”，实际上仅仅是激烈的枪战<a href="../Page/生存游戏.md" title="wikilink">生存游戏</a>，游戏中健次则充当了卡门的助手。在战斗中，亚麻罗宇曾尝试干掉健次，但失败了。真见美注意到了直太与晴子的亲密关系，询问他是否喜欢晴子，这使得直太开始正视他们的关系。最终直太的前额爆发出了巨型机器人。同时，管理官亚麻罗宇、还有他的后备枪手与晴子也展开了激烈的枪战。而被困在了巨型机器人头顶的直太，决定要救助真见美，于是勇敢地与健次合体。然而尽管直太和晴子尽了最大的努力，他们还是没能阻止巨型机器人朝着Medical Meccanica工厂暴走。而后健次显示了海盗王Atomsk的实力，他取出了，这也让管理官罗宇以及晴子大为惊愕。健次击败了巨型机器人，这个机器人的实体是一只巨型手，这手紧邻着Medical Meccanica工厂，径直插入地下，石化作纪念碑，掌管了这个工厂。之后健次与直太分离，前者却保留了Atomsk的能力，带着晴子逃走了。 }} {{Episode list/sublist|</p></th>
+<th><p>ShortSummary = 晴子开始将注意力由父亲卡门转向直太，这激起了卡门的嫉妒。父子两人决定为晴子“决斗”，实际上仅仅是激烈的枪战<a href="https://zh.wikipedia.org/wiki/生存游戏" title="wikilink">生存游戏</a>，游戏中健次则充当了卡门的助手。在战斗中，亚麻罗宇曾尝试干掉健次，但失败了。真见美注意到了直太与晴子的亲密关系，询问他是否喜欢晴子，这使得直太开始正视他们的关系。最终直太的前额爆发出了巨型机器人。同时，管理官亚麻罗宇、还有他的后备枪手与晴子也展开了激烈的枪战。而被困在了巨型机器人头顶的直太，决定要救助真见美，于是勇敢地与健次合体。然而尽管直太和晴子尽了最大的努力，他们还是没能阻止巨型机器人朝着Medical Meccanica工厂暴走。而后健次显示了海盗王Atomsk的实力，他取出了，这也让管理官罗宇以及晴子大为惊愕。健次击败了巨型机器人，这个机器人的实体是一只巨型手，这手紧邻着Medical Meccanica工厂，径直插入地下，石化作纪念碑，掌管了这个工厂。之后健次与直太分离，前者却保留了Atomsk的能力，带着晴子逃走了。 }} {{Episode list/sublist|</p></th>
 <th><p>EpisodeNumber = 6</p></th>
 <th><p>Title = FLCLimax </p></th>
 <th><p>OriginalAirDate = </p></th>

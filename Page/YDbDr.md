@@ -1,13 +1,13 @@
-**YDbDr**是[SECAM制式規格](../Page/SECAM制式.md "wikilink")[電視所采用的](../Page/電視.md "wikilink")[色彩空間](../Page/色彩空間.md "wikilink")。
+**YDbDr**是[SECAM制式規格](../Page/SECAM制式.md "wikilink")[電視所采用的](https://zh.wikipedia.org/wiki/電視 "wikilink")[色彩空間](../Page/色彩空間.md "wikilink")。
 
-1966年[法国提出SECAM彩色电视制式](../Page/法国.md "wikilink")，並制度YDbDr。
+1966年[法国提出SECAM彩色电视制式](https://zh.wikipedia.org/wiki/法国 "wikilink")，並制度YDbDr。
 
-## [公式](../Page/公式.md "wikilink")
+## [公式](https://zh.wikipedia.org/wiki/公式 "wikilink")
 
-Y, Db和Dr訊號是產生自RGB [三原色](../Page/三原色.md "wikilink")。R,
+Y, Db和Dr訊號是產生自RGB [三原色](https://zh.wikipedia.org/wiki/三原色 "wikilink")。R,
 G和B的權重儲存於Y信号，所代表的是该点亮度.
 
-[RGB](../Page/RGB.md "wikilink") 色彩空间和YDbDr轉換之近似公式。
+[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink") 色彩空间和YDbDr轉換之近似公式。
 
 |                                         |
 | --------------------------------------- |

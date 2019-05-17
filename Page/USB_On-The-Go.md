@@ -1,7 +1,7 @@
 [USB_OTG_Logo.svg](https://zh.wikipedia.org/wiki/File:USB_OTG_Logo.svg "fig:USB_OTG_Logo.svg")
 
 **USB On-The-Go**通常缩写為**USB OTG**，是[USB
-2.0規格的補充標準](../Page/USB_2.0.md "wikilink")。它可使[USB设备](../Page/USB.md "wikilink")，例如播放器或手机，从USB周边设备变为USB主机，与其他USB设备连接通信。在正常情况下，这些支持OTG的USB设备和USB主机（如[桌上型電腦或者](../Page/桌上型電腦.md "wikilink")[手提电脑](../Page/手提电脑.md "wikilink")），仍然作为USB周边设备使用。
+2.0規格的補充標準](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")。它可使[USB设备](../Page/USB.md "wikilink")，例如播放器或手机，从USB周边设备变为USB主机，与其他USB设备连接通信。在正常情况下，这些支持OTG的USB设备和USB主机（如[桌上型電腦或者](../Page/桌上型電腦.md "wikilink")[手提电脑](https://zh.wikipedia.org/wiki/手提电脑 "wikilink")），仍然作为USB周边设备使用。
 
 支持OTG的设备，如USB打印机，可以不连接电脑的情况下直接接入USB隨身碟来读取裝置内文件进行打印；或平板电脑可以直接接入USB儲存碟、键盘或鼠标来扩充外界硬件功能。
 
@@ -15,7 +15,7 @@
 
 ## 架构
 
-標準的[USB使用](../Page/USB.md "wikilink")的架構，USB[主機端](../Page/伺服器.md "wikilink")（即電腦）是「主」，而USB[周邊裝置是](../Page/周邊裝置.md "wikilink")「從」。只有USB[伺服器可以排程該連結的設定與資料傳輸](../Page/伺服器.md "wikilink")。USB[周邊裝置不能夠自行啟動資料傳輸](../Page/周邊裝置.md "wikilink")，只能回應伺服器的指令。
+標準的[USB使用](../Page/USB.md "wikilink")的架構，USB[主機端](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（即電腦）是「主」，而USB[周邊裝置是](https://zh.wikipedia.org/wiki/周邊裝置 "wikilink")「從」。只有USB[伺服器可以排程該連結的設定與資料傳輸](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。USB[周邊裝置不能夠自行啟動資料傳輸](https://zh.wikipedia.org/wiki/周邊裝置 "wikilink")，只能回應伺服器的指令。
 
 USB
 OTG改變了這種狀況，配件不再需要一定要成為單純的周邊裝置，它們有時候也可以成為主機端。舉例來說，USB打印机与电脑连接时作为电脑的外界周边被电脑控制，与其他USB储存设备连接时作为控制主机来读取储存设备；平板电脑等手持智能终端与电脑连接时主要作为电脑的储存设备等，单独与USB储存设备或USB输入设备连接时则作为这些接入设备的主机来操控储存设备或接收输入。
@@ -143,7 +143,7 @@ USB OTG設備向後兼容USB 2.0（適用於SuperSpeed OTG設備的USB
 {{-}}
 
 [de:Universal Serial Bus\#USB
-On-the-go](../Page/de:Universal_Serial_Bus#USB_On-the-go.md "wikilink")
+On-the-go](https://zh.wikipedia.org/wiki/de:Universal_Serial_Bus#USB_On-the-go "wikilink")
 
 [Category:USB](https://zh.wikipedia.org/wiki/Category:USB "wikilink")
 

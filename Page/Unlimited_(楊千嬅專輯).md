@@ -1,4 +1,4 @@
-《**Unlimited**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅於](../Page/楊千嬅.md "wikilink")2006年12月15日發行的個人粵語大碟，是最後一張由[金牌娛樂發行的個人粵語大碟](../Page/金牌娛樂.md "wikilink")。唱片取名為《Unlimited》，是想傳遞生有限、活無限的信息。封面構思來自[手塚治蟲的](../Page/手塚治蟲.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")《[藍寶石王子](../Page/藍寶石王子.md "wikilink")》，左邊的男角本是女兒身，一方面希望擁有自己的感情生活，同時又望有男仔氣概來捍衛家園，就像現今女性不但要要照顧家庭，更要獨立自主，充滿責任感，表達出女人有獨立與及溫柔的一面\[2\]。雖然欠缺宣傳，但唱片的本地銷量大約為二萬五千張\[3\]。
+《**Unlimited**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅於](../Page/楊千嬅.md "wikilink")2006年12月15日發行的個人粵語大碟，是最後一張由[金牌娛樂發行的個人粵語大碟](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")。唱片取名為《Unlimited》，是想傳遞生有限、活無限的信息。封面構思來自[手塚治蟲的](https://zh.wikipedia.org/wiki/手塚治蟲 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[藍寶石王子](https://zh.wikipedia.org/wiki/藍寶石王子 "wikilink")》，左邊的男角本是女兒身，一方面希望擁有自己的感情生活，同時又望有男仔氣概來捍衛家園，就像現今女性不但要要照顧家庭，更要獨立自主，充滿責任感，表達出女人有獨立與及溫柔的一面\[2\]。雖然欠缺宣傳，但唱片的本地銷量大約為二萬五千張\[3\]。
 
 ## 曲目
 
@@ -10,7 +10,7 @@
   - 2nd PLUG 我的生存之道
   - 3rd PLUG 水月鏡花
 
-其實早在《大傻》派台前，《郎來了》的原本版本已派台。但原版收錄了在《[好人歌集](../Page/好人歌集.md "wikilink")》，此《郎來了（ROSE）》乃是其REMIX版本。
+其實早在《大傻》派台前，《郎來了》的原本版本已派台。但原版收錄了在《[好人歌集](https://zh.wikipedia.org/wiki/好人歌集 "wikilink")》，此《郎來了（ROSE）》乃是其REMIX版本。
 
 ### 未被收錄之派台歌曲
 
@@ -18,21 +18,22 @@
 
 #### 《唯有愛隨身》
 
-為綠蘋果正能量主題曲，收錄於《[Love 05情歌集](../Page/Love_05情歌集.md "wikilink")》雜錦專輯中。
+為綠蘋果正能量主題曲，收錄於《[Love
+05情歌集](https://zh.wikipedia.org/wiki/Love_05情歌集 "wikilink")》雜錦專輯中。
 
 #### 《郎來了》
 
-由2005年香港唱作女新人[王菀之作曲](../Page/王菀之.md "wikilink")，[林夕寫詞](../Page/林夕.md "wikilink")。歌名《郎來了》是源自[楊千嬅出道時作品](../Page/楊千嬅.md "wikilink")《狼來了》。[楊千嬅於](../Page/楊千嬅.md "wikilink")2006年出道已經十年，雖然一直有緋聞男友（[鄭中基](../Page/鄭中基.md "wikilink")），但仍未有其伴侶。她以上一張大碟《[Single(特別版)](../Page/Single_\(專輯\).md "wikilink")》來表示自己身份，繼而再以此歌來表達自己的心聲。此歌雖未有收錄在《Unlimited》中，但原版本《郎來了》收錄在《[好人歌集](../Page/好人歌集.md "wikilink")》雜錦專輯中，其REMIX版本《郎來了（ROSE）》就收錄在此碟最後一TRACK。是以[BOSSA
-NOVA來重錄的作品](../Page/BOSSA_NOVA.md "wikilink")。
+由2005年香港唱作女新人[王菀之作曲](https://zh.wikipedia.org/wiki/王菀之 "wikilink")，[林夕寫詞](../Page/林夕.md "wikilink")。歌名《郎來了》是源自[楊千嬅出道時作品](../Page/楊千嬅.md "wikilink")《狼來了》。[楊千嬅於](../Page/楊千嬅.md "wikilink")2006年出道已經十年，雖然一直有緋聞男友（[鄭中基](../Page/鄭中基.md "wikilink")），但仍未有其伴侶。她以上一張大碟《[Single(特別版)](../Page/Single_\(專輯\).md "wikilink")》來表示自己身份，繼而再以此歌來表達自己的心聲。此歌雖未有收錄在《Unlimited》中，但原版本《郎來了》收錄在《[好人歌集](https://zh.wikipedia.org/wiki/好人歌集 "wikilink")》雜錦專輯中，其REMIX版本《郎來了（ROSE）》就收錄在此碟最後一TRACK。是以[BOSSA
+NOVA來重錄的作品](https://zh.wikipedia.org/wiki/BOSSA_NOVA "wikilink")。
 
 #### 《有過去的女人》
 
-由2005年香港唱作男新人[側田作曲](../Page/側田.md "wikilink")。為[無綫電視劇](../Page/無綫電視.md "wikilink")《[女人唔易做](../Page/女人唔易做.md "wikilink")》之插曲，收錄在《[金牌女兒紅](../Page/金牌女兒紅.md "wikilink")》粵語合輯，以及楊千嬅《Simply
+由2005年香港唱作男新人[側田作曲](../Page/側田.md "wikilink")。為[無綫電視劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[女人唔易做](../Page/女人唔易做.md "wikilink")》之插曲，收錄在《[金牌女兒紅](../Page/金牌女兒紅.md "wikilink")》粵語合輯，以及楊千嬅《Simply
 Me》 (新曲+精選)中。
 
 #### 《滾》
 
-由[楊千嬅及](../Page/楊千嬅.md "wikilink")[梁漢文合唱](../Page/梁漢文.md "wikilink")，收錄於[梁漢文](../Page/梁漢文.md "wikilink")《[The
+由[楊千嬅及](../Page/楊千嬅.md "wikilink")[梁漢文合唱](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")，收錄於[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")《[The
 Story of
 June](../Page/The_Story_of_June.md "wikilink")》粵語專輯，以及楊千嬅《千嬅盛放》精選專輯中。
 
@@ -57,7 +58,7 @@ Version)](../Page/No_Protection.md "wikilink")》粵語專輯中。
 ## 唱片獎項
 
   - 2006年度香港最佳音樂選 -
-    最佳專輯監製及製作《[Unlimited](../Page/Unlimited.md "wikilink")》
+    最佳專輯監製及製作《[Unlimited](https://zh.wikipedia.org/wiki/Unlimited "wikilink")》
 
 ## 參考文獻
 

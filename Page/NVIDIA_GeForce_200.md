@@ -1,22 +1,23 @@
 **GeForce
-200系列**是[NVIDIA的第十代GeForce顯示晶片](../Page/NVIDIA.md "wikilink")，核心架構代號『Tesla』，以[塞爾維亞裔發明家兼物理學家](../Page/塞爾維亞.md "wikilink")[尼古拉·特斯拉命名](../Page/尼古拉·特斯拉.md "wikilink")。首個產品GeForce
+200系列**是[NVIDIA的第十代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，核心架構代號『Tesla』，以[塞爾維亞裔發明家兼物理學家](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[尼古拉·特斯拉命名](../Page/尼古拉·特斯拉.md "wikilink")。首個產品GeForce
 GTX 280於2008年6月16日推出，是一款高端產品。隨後推出了中高階的GTX 260。GTX
-200系列擁有65nm製程的高階D10。與[AMD不同](../Page/AMD.md "wikilink")，NVIDIA依然先推出單核心的旗艦級[顯示卡](../Page/顯示卡.md "wikilink")，再將其功能削減，成為中低端的顯示卡。面對著對手AMD的[Radeon
-R700顯示核心](../Page/Radeon_R700.md "wikilink")，GTX
-200顯示核心顯得太複雜和成本高，不能與之有效競爭。所以NVIDIA即時將GeForce
-9800 GTX降價，並提升其製程至55[nm](../Page/nm.md "wikilink")，再推出GeForce 9800
-GTX+顯示卡。在2009年1月8日開幕的[CES](../Page/国际消费电子展.md "wikilink")
+200系列擁有65nm製程的高階D10。與[AMD不同](https://zh.wikipedia.org/wiki/AMD "wikilink")，NVIDIA依然先推出單核心的旗艦級[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，再將其功能削減，成為中低端的顯示卡。面對著對手AMD的[Radeon
+R700顯示核心](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")，GTX
+200顯示核心顯得太複雜和成本高，不能與之有效競爭。所以NVIDIA即時將GeForce 9800
+GTX降價，並提升其製程至55[nm](https://zh.wikipedia.org/wiki/nm "wikilink")，再推出GeForce
+9800
+GTX+顯示卡。在2009年1月8日開幕的[CES](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")
 2009電子大展推出55nm版本的GTX 260核心及兩款新卡GTX 285、GTX 295。
 
 ## 背景
 
 NVIDIA稱GTX
-200核心採用了第二代的統一架構。相對第一代，顯示核心除了專注立體效能的提升外，更專注非傳統的GPU應用。NVIDIA認為，隨著[GPU的效能愈來愈大](../Page/GPU.md "wikilink")，可應用的範圍再不局限於立體計算，而GPU絕對有能力取代[CPU](../Page/CPU.md "wikilink")，成為高效能運算的工具。為了凸顯第二代統一架構的功能，NVIDIA將顯示卡的命名法則改變，不再是GeForce加上代表世代的數字。而是GeForce
+200核心採用了第二代的統一架構。相對第一代，顯示核心除了專注立體效能的提升外，更專注非傳統的GPU應用。NVIDIA認為，隨著[GPU的效能愈來愈大](https://zh.wikipedia.org/wiki/GPU "wikilink")，可應用的範圍再不局限於立體計算，而GPU絕對有能力取代[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，成為高效能運算的工具。為了凸顯第二代統一架構的功能，NVIDIA將顯示卡的命名法則改變，不再是GeForce加上代表世代的數字。而是GeForce
 GTX、GeForce GTS、GeForce GT和GeForce G。它們分別代表旗艦級、高端、中端和入門。
 
 ## 架構
 
-NVIDIA稱第二代的統一架構，效能是上一代的1.5倍。核心的代號是D10U，採用65[nm製程](../Page/nm.md "wikilink")，擁有14億個[電晶體](../Page/電晶體.md "wikilink")。是第一款顯示核心的電晶體數量突破十億大關，但是它仍然不支援DirectX
+NVIDIA稱第二代的統一架構，效能是上一代的1.5倍。核心的代號是D10U，採用65[nm製程](https://zh.wikipedia.org/wiki/nm "wikilink")，擁有14億個[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")。是第一款顯示核心的電晶體數量突破十億大關，但是它仍然不支援DirectX
 10.1和Smart Shader
 4.1。最能反映實際性能的流處理器方面，由上一代的128個，提升到240個。另外，它支援雙精度和64位元浮點運算。
 
@@ -31,7 +32,7 @@ GTX
 
 ### MIMD(Multiple Instruction Multiple Data)
 
-自上一代的G80開始，[NVIDIA已放棄採用](../Page/NVIDIA.md "wikilink")[SIMD架構](../Page/SIMD.md "wikilink")，改用全新的架構。在G80顯示核心中，所有的流處理器都是1D[标量形式](../Page/标量.md "wikilink")。NVIDIA認為這樣做最有效率，因為不用再顧忌數據是1D抑或是4D，所有的數據都會分折成标量1D。而對手[AMD的顯示核心](../Page/AMD.md "wikilink")，依然是4D+1D架構。雖然[NVIDIA的做法效率較高](../Page/NVIDIA.md "wikilink")，但成本和複雜度亦較高，比較難大幅增加流處理器的數量，因為每一個流處理器都需要一個指令發射端口。而[AMD的顯示核心方面](../Page/AMD.md "wikilink")，由於一個4D+1D的流處理器才需要一個指令發射端口，所以比較容易提升處理器的數量。
+自上一代的G80開始，[NVIDIA已放棄採用](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[SIMD架構](https://zh.wikipedia.org/wiki/SIMD "wikilink")，改用全新的架構。在G80顯示核心中，所有的流處理器都是1D[标量形式](../Page/标量.md "wikilink")。NVIDIA認為這樣做最有效率，因為不用再顧忌數據是1D抑或是4D，所有的數據都會分折成标量1D。而對手[AMD的顯示核心](https://zh.wikipedia.org/wiki/AMD "wikilink")，依然是4D+1D架構。雖然[NVIDIA的做法效率較高](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，但成本和複雜度亦較高，比較難大幅增加流處理器的數量，因為每一個流處理器都需要一個指令發射端口。而[AMD的顯示核心方面](https://zh.wikipedia.org/wiki/AMD "wikilink")，由於一個4D+1D的流處理器才需要一個指令發射端口，所以比較容易提升處理器的數量。
 
 ### 流处理器
 
@@ -54,11 +55,11 @@ GTX
 
 ### PhysX物理引擎
 
-2008年2月，NVIDIA收購[AGEIA公司](../Page/AGEIA.md "wikilink")，取得有關的PhysX物理引擎技術。過去，該引擎必須以自家的物理加速卡作硬體加速，或者以[CPU作軟體加速](../Page/CPU.md "wikilink")。隨著NVIDIA收購AGEIA，公司己著手改裝有關引擎，使之可以透過顯示核心加速該引擎。現在，NVIDIA已推出用於顯示卡加速的PhysX物理引擎驅動程式，在3DMark
+2008年2月，NVIDIA收購[AGEIA公司](../Page/AGEIA.md "wikilink")，取得有關的PhysX物理引擎技術。過去，該引擎必須以自家的物理加速卡作硬體加速，或者以[CPU作軟體加速](https://zh.wikipedia.org/wiki/CPU "wikilink")。隨著NVIDIA收購AGEIA，公司己著手改裝有關引擎，使之可以透過顯示核心加速該引擎。現在，NVIDIA已推出用於顯示卡加速的PhysX物理引擎驅動程式，在3DMark
 Vantage的測試中，CPU的得分受惠於顯示核心硬體加速了物理引擎，分數大幅上升。但採用該引擎的遊戲始終較少，分數能否反映事實仍是未知之數。
 
-對手AMD則採用[Havok物理引擎作為解決方案](../Page/Havok.md "wikilink")。現時，Havok是[Intel的子公司](../Page/Intel.md "wikilink")。而Havok亦答應將為其物理引擎，優化AMD的CPU和GPU。包括最新的[Phenom處理器和](../Page/Phenom.md "wikilink")[Radeon
-R700顯示卡](../Page/Radeon_R700.md "wikilink")。
+對手AMD則採用[Havok物理引擎作為解決方案](https://zh.wikipedia.org/wiki/Havok "wikilink")。現時，Havok是[Intel的子公司](https://zh.wikipedia.org/wiki/Intel "wikilink")。而Havok亦答應將為其物理引擎，優化AMD的CPU和GPU。包括最新的[Phenom處理器和](https://zh.wikipedia.org/wiki/Phenom "wikilink")[Radeon
+R700顯示卡](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")。
 
 ### CUDA
 
@@ -94,25 +95,25 @@ GPU可以在非密集的圖像處理操作時完全關閉電源並將圖像輸�
 [Grafikkarte_N260GTX_IMGP6200_wp.jpg](https://zh.wikipedia.org/wiki/File:Grafikkarte_N260GTX_IMGP6200_wp.jpg "fig:Grafikkarte_N260GTX_IMGP6200_wp.jpg")
 [Gtx280.jpg](https://zh.wikipedia.org/wiki/File:Gtx280.jpg "fig:Gtx280.jpg")
 
-  - [桌面平臺](../Page/桌面平臺.md "wikilink")
+  - [桌面平臺](https://zh.wikipedia.org/wiki/桌面平臺 "wikilink")
       - GeForce 205 -
-        於[2009年11月針對](../Page/2009年11月.md "wikilink")[OEM市場發佈](../Page/OEM.md "wikilink")，40nm制程的GT218-200核心，核心頻率590
+        於[2009年11月針對](../Page/2009年11月.md "wikilink")[OEM市場發佈](https://zh.wikipedia.org/wiki/OEM "wikilink")，40nm制程的GT218-200核心，核心頻率590
         MHz，擁有16個流處理器，64-bit顯存位寬和512MB
-        G[DDR3顯存](../Page/DDR3.md "wikilink")，頻率790 MHz。支援DirectX
-        10.1。
+        G[DDR3顯存](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，頻率790
+        MHz。支援DirectX 10.1。
       - GeForce 210 -
         於[2009年10月針對零售市場發佈](../Page/2009年10月.md "wikilink")，GeForce
         G210的更名產品，規格與GeForce G210完全相同。2009年11月又將其更名為[GeForce
-        310供OEM廠商銷售](../Page/GeForce_300.md "wikilink")。
+        310供OEM廠商銷售](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")。
       - GeForce G210 -
         於[2009年7月針對OEM市場發佈](../Page/2009年7月.md "wikilink")。早期採用55nm制程的G96核心，後期換為40nm制程的GT218-300核心，擁有16個流處理器、64-bit顯存位寬和512MB
-        [DDR2或GDDR](../Page/DDR2.md "wikilink")3顯存。內建音效處理器，支援多聲道[LPCM輸出](../Page/LPCM.md "wikilink")。支援DirectX
+        [DDR2或GDDR](https://zh.wikipedia.org/wiki/DDR2 "wikilink")3顯存。內建音效處理器，支援多聲道[LPCM輸出](https://zh.wikipedia.org/wiki/LPCM "wikilink")。支援DirectX
         10.1。
       - GeForce GT 220 -
         於[2009年7月針對OEM市場發佈](../Page/2009年7月.md "wikilink")，10月進入零售市場\[1\]。早期採用55nm制程的G94核心，後期換為40nm制程的GT216核心，擁有48個流處理器、128-bit顯存位寬和1GB
-        SDDR3顯存。內建音效處理器，支援多聲道[LPCM輸出](../Page/LPCM.md "wikilink")。支援DirectX
+        SDDR3顯存。內建音效處理器，支援多聲道[LPCM輸出](https://zh.wikipedia.org/wiki/LPCM "wikilink")。支援DirectX
         10.1。2009年11月將其更名為[GeForce
-        315供OEM廠商銷售](../Page/GeForce_300.md "wikilink")。
+        315供OEM廠商銷售](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")。
       - GeForce GT 230 -
         於[2009年7月針對OEM市場發佈](../Page/2009年7月.md "wikilink")。早期採用55nm制程的G92或G94核心，後期換為40nm制程的GT215核心，擁有96個流處理器，採用128位512M
         SDDR3顯存。支援DirectX 10.1。
@@ -123,14 +124,16 @@ GPU可以在非密集的圖像處理操作時完全關閉電源並將圖像輸�
       - GeForce GTS 240 -
         於[2009年7月](../Page/2009年7月.md "wikilink")27日針對OEM市場發佈。採用55nm
         G92核心，擁有112個處理器，規格與[GeForce 9800
-        GT相近](../Page/GeForce_9.md "wikilink")，但頻率有所提升，而且記憶體容量由512MB提升至1GB，散熱器和[PCB也有所分別](../Page/PCB.md "wikilink")。僅支援DirectX
+        GT相近](https://zh.wikipedia.org/wiki/GeForce_9 "wikilink")，但頻率有所提升，而且記憶體容量由512MB提升至1GB，散熱器和[PCB也有所分別](https://zh.wikipedia.org/wiki/PCB "wikilink")。僅支援DirectX
         10。
       - GeForce GTS 250 -
         於[2009年3月推出](../Page/2009年3月.md "wikilink")，核心採用55nm製程，与[GeForce
-        GTS 150](../Page/GeForce_100.md "wikilink")（低成本設計的[GeForce 9800
-        GTX+](../Page/GeForce_9.md "wikilink")，效能增強版）的規格相同，是針對零售市場進行改名的產品，裝置識別碼（Device
+        GTS
+        150](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")（低成本設計的[GeForce
+        9800
+        GTX+](https://zh.wikipedia.org/wiki/GeForce_9 "wikilink")，效能增強版）的規格相同，是針對零售市場進行改名的產品，裝置識別碼（Device
         ID）兩者皆為0615，所以兩款顯示卡是完全相同的，在某些更名前的早期版本驅動程式中，GTS 250會顯示為GTS
-        150，並且多數硬體偵測軟體的資料庫存在錯誤，如[GPU-Z](../Page/GPU-Z.md "wikilink")、[EVEREST等](../Page/EVEREST.md "wikilink")，是通過所安裝的驅動程式顯示名稱。GTS
+        150，並且多數硬體偵測軟體的資料庫存在錯誤，如[GPU-Z](../Page/GPU-Z.md "wikilink")、[EVEREST等](https://zh.wikipedia.org/wiki/EVEREST "wikilink")，是通過所安裝的驅動程式顯示名稱。GTS
         250減少至只需一組6pin外接電源，並同GTS
         150一樣增加了1GB版本，某些廠商甚至生產過2GB版本，早期有部分廠商直接將GeForce
         9800 GTX+更改[BIOS成為GeForce](../Page/BIOS.md "wikilink") GTS
@@ -152,17 +155,17 @@ GPU可以在非密集的圖像處理操作時完全關閉電源並將圖像輸�
         GT200b核心版本。同樣擁有240個流處理器、512-bit顯存位寬和1GB
         GDDR3顯存。核心頻率為648MHz，流處理器為1476MHz，顯存頻率為2482MHz，頻率比GTX
         280為高。功耗由GTX
-        280的236W降至183W，並只需要2個6pin外接供電接口。[MAC版本的GTX](../Page/Macintosh.md "wikilink")
+        280的236W降至183W，並只需要2個6pin外接供電接口。[MAC版本的GTX](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
         285只增加了HDTV輸出接口，支援通過HDMI音訊輸出。僅支援DirectX 10。
       - GeForce GTX 295 - 擁有兩顆55nm GT200b顯示核心，產品設計與[GeForce
-        9800GX2相近](../Page/GeForce_9#GeForce_9800.md "wikilink")。通過[NF200接橋晶片將兩核心相連](../Page/NVIDIA_NF200.md "wikilink")。GTX
+        9800GX2相近](https://zh.wikipedia.org/wiki/GeForce_9#GeForce_9800 "wikilink")。通過[NF200接橋晶片將兩核心相連](https://zh.wikipedia.org/wiki/NVIDIA_NF200 "wikilink")。GTX
         295共擁有480個流處理器，配備1792MB的GDDR3顯存，位寬896-bit，核心頻率為576MHz，流處理器為1242MHz，顯存頻率為1998MHz\[4\]。僅支援DirectX
-        10。整卡功耗達289W，需要1個6pin及1個8pin外接供電接口。卡上提供了一個[SLI橋接接口](../Page/SLI.md "wikilink")，用作支援雙卡並聯的Quad
-        SLI模式。原來的設計需要2片[PCB](../Page/印刷電路板.md "wikilink")，而於[2009年5月推出的新版本設計只需](../Page/2009年5月.md "wikilink")1片，頻率不變但能改善散熱效率、減低成本，但單PCB版沒有板載[HDMI接口](../Page/HDMI.md "wikilink")。
+        10。整卡功耗達289W，需要1個6pin及1個8pin外接供電接口。卡上提供了一個[SLI橋接接口](https://zh.wikipedia.org/wiki/SLI "wikilink")，用作支援雙卡並聯的Quad
+        SLI模式。原來的設計需要2片[PCB](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，而於[2009年5月推出的新版本設計只需](../Page/2009年5月.md "wikilink")1片，頻率不變但能改善散熱效率、減低成本，但單PCB版沒有板載[HDMI接口](../Page/HDMI.md "wikilink")。
 
 <!-- end list -->
 
-  - [行動平臺](../Page/行動平臺.md "wikilink")
+  - [行動平臺](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")
       - GeForce G210M - 核心代號N10M-GS採用40奈米製程工藝，核心頻率625
         MHz，僅有16個流處理器，頻率1500
         MHz，記憶體最高支援到512MB/64Bit GDDR3，支援DirectX 10.1。
@@ -192,10 +195,11 @@ GPU可以在非密集的圖像處理操作時完全關閉電源並將圖像輸�
 
 ## 更多資訊
 
-  - [GeForce 200系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_200.md "wikilink")
+  - [GeForce
+    200系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_200 "wikilink")
   - [GeForce 200
-    M系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_200_M.md "wikilink")
-  - [Radeon R700](../Page/Radeon_R700.md "wikilink")
+    M系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_200_M "wikilink")
+  - [Radeon R700](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")
 
 ## 參考
 

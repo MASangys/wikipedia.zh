@@ -1,5 +1,5 @@
 **Corel PaintShop
-Photo**是[Windows系統上的一個老牌的](../Page/Windows.md "wikilink")[電腦](../Page/電腦.md "wikilink")[圖像編輯程式](../Page/圖像編輯程式.md "wikilink")，不同於[Photoshop等](../Page/Photoshop.md "wikilink")[軟體以高階用戶為市場](../Page/軟體.md "wikilink")、走商用級的高價路線，Corel
+Photo**是[Windows系統上的一個老牌的](https://zh.wikipedia.org/wiki/Windows "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[圖像編輯程式](https://zh.wikipedia.org/wiki/圖像編輯程式 "wikilink")，不同於[Photoshop等](https://zh.wikipedia.org/wiki/Photoshop "wikilink")[軟體以高階用戶為市場](https://zh.wikipedia.org/wiki/軟體 "wikilink")、走商用級的高價路線，Corel
 PaintShop
 Photo主要以初階用戶為目標，以相對實惠的價格，提供用戶簡單使用但又能有出色表現的操作方式與功能，所以長期受到廣大初階用戶的歡迎。自X3版起分為Pro版和Express
 2010版。
@@ -7,17 +7,17 @@ Photo主要以初階用戶為目標，以相對實惠的價格，提供用戶簡
 ## 歷史
 
 第一個公開版本1.0於1992年推出，當時稱為「**Paint Shop**」，由[Jasc
-Software所開發](../Page/Jasc_Software.md "wikilink")，此名稱因為和[Adobe公司知名的](../Page/Adobe.md "wikilink")[Photoshop名稱容易混淆](../Page/Photoshop.md "wikilink")，所以後來改名為「Paint
+Software所開發](https://zh.wikipedia.org/wiki/Jasc_Software "wikilink")，此名稱因為和[Adobe公司知名的](../Page/Adobe.md "wikilink")[Photoshop名稱容易混淆](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，所以後來改名為「Paint
 Shop **Pro**」，常簡稱為「**PSP**」。
 
 2004年10月14日，[Corel公司宣布收購Jasc](../Page/Corel.md "wikilink")
 Software，Paint Shop Pro因而納入Corel旗下，並冠上Corel成為「**Corel** Paint Shop
 Pro」，但Paint Shop
-Pro仍為一個[註冊商標](../Page/註冊商標.md "wikilink")。為因應產品市場定位的調整，自11.00版（[羅馬數字表示為XI](../Page/羅馬數字.md "wikilink")）再改名「Corel
+Pro仍為一個[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。為因應產品市場定位的調整，自11.00版（[羅馬數字表示為XI](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")）再改名「Corel
 Paint Shop Pro
-**Photo**」。自13.00版（[羅馬數字表示為X](../Page/羅馬數字.md "wikilink")3）再改名「Corel
+**Photo**」。自13.00版（[羅馬數字表示為X](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")3）再改名「Corel
 PaintShop Photo」，同時分為Pro版和Express
-2010版。自14.00版（[羅馬數字表示為X](../Page/羅馬數字.md "wikilink")4）再改成「Corel
+2010版。自14.00版（[羅馬數字表示為X](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")4）再改成「Corel
 PaintShop Pro」。
 
 ### 版本歷史

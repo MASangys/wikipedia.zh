@@ -1,6 +1,6 @@
-《**Kingdom**》（倖感王國）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")6張原創專輯，收錄《[BUT/愛的證明](../Page/BUT/愛的證明.md "wikilink")》、《[FREAKY](../Page/FREAKY.md "wikilink")》、《[愛之歌](../Page/愛之歌.md "wikilink")》、《[LAST
+《**Kingdom**》（倖感王國）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")6張原創專輯，收錄《[BUT/愛的證明](https://zh.wikipedia.org/wiki/BUT/愛的證明 "wikilink")》、《[FREAKY](../Page/FREAKY.md "wikilink")》、《[愛之歌](../Page/愛之歌.md "wikilink")》、《[LAST
 ANGEL
-feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以及專輯先行單曲《[anytime](../Page/anytime.md "wikilink")》5張單曲。
+feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以及專輯先行單曲《[anytime](https://zh.wikipedia.org/wiki/anytime "wikilink")》5張單曲。
 
 ## 發行版本
 
@@ -46,12 +46,13 @@ feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以�
       -
         作詞：Kumi Koda, H.U.B.　作曲/編曲：Negin/Lira/Thomas Gustafsson
         被男性的歌聲和舞蹈於背後推向前，勇敢地堅強向前邁進，表現出凜然女性的樣子。
-        電影《[惡靈古堡3](../Page/惡靈古堡3.md "wikilink")》日本公開版印象曲、music.jp電視廣告曲
+        電影《[惡靈古堡3](https://zh.wikipedia.org/wiki/惡靈古堡3 "wikilink")》日本公開版印象曲、music.jp電視廣告曲
 3.  **甜蜜陷阱（）**
       -
         作詞：Kumi Koda　作曲/編曲：HIRO
         和Shake it一樣，都是富有東方色彩的Hip Hop歌曲。主角是雖然發覺對方花心，可是仍然被一個甜吻所欺騙的女性。
-          - [HONDA](../Page/HONDA.md "wikilink")「ZEST SPORTS」廣告曲。
+          - [HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")「ZEST
+            SPORTS」廣告曲。
         本作於『[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")』上首次揭露。
 4.  **秘密**
       -
@@ -65,7 +66,7 @@ feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以�
         37th單曲
     <!-- end list -->
       - music.jp電視廣告曲
-6.  **[anytime](../Page/anytime.md "wikilink")**
+6.  **[anytime](https://zh.wikipedia.org/wiki/anytime "wikilink")**
       -
         作詞：Kumi Koda　作曲/編曲：Hideya Nakazaki
         全曲使用接近假聲的輕聲細語，融合了和絃的自然感覺，有點甜又能溫暖人心的Pop tune。同時也是一首wedding song。
@@ -84,7 +85,7 @@ feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以�
         35th單曲
     <!-- end list -->
       - 松竹・東急系劇場公開，電影《Step
-        up》主題歌、[東芝](../Page/東芝.md "wikilink")「SoftBank
+        up》主題歌、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")「SoftBank
         911T」廣告曲
 9.  **戀愛魔法（）**
       -
@@ -111,7 +112,8 @@ feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以�
         表達出「能不能從痛苦的狀況中解脫是要看自己」這樣強烈的信息。
         36th單曲
     <!-- end list -->
-      - [本田](../Page/本田.md "wikilink")「ZEST SPORTS」廣告曲
+      - [本田](https://zh.wikipedia.org/wiki/本田 "wikilink")「ZEST
+        SPORTS」廣告曲
 14. **MORE**
       -
         作詞：Kumi Koda　作曲：Philippe-Marc Anquetil, Christopher Lee-Joe,

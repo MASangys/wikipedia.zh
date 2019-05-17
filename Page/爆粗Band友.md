@@ -1,9 +1,9 @@
-《**重金搖滾雙面人**》（），是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[若杉公德所繪的](../Page/若杉公德.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")，以[死亡金屬音樂為主題](../Page/死亡金屬音樂.md "wikilink")，標題源自於[美國](../Page/美國.md "wikilink")[流行樂團](../Page/流行樂團.md "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit
+《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂為主題](../Page/死亡金屬音樂.md "wikilink")，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit
 Rock City》。於[白泉社所發行的漫畫雜誌](../Page/白泉社.md "wikilink")《[Young
-Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連載連載。
+Animal](https://zh.wikipedia.org/wiki/Young_Animal "wikilink")》上於2005年至2010年期間連載連載。
 
-改編真人[電影於](../Page/電影.md "wikilink")2008年8月23日在[日本上映](../Page/日本.md "wikilink")。2009年由[STUDIO
-4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](../Page/動畫.md "wikilink")，全12話。
+改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本上映](../Page/日本.md "wikilink")。2009年由[STUDIO
+4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全12話。
 
 ## 劇情簡介
 
@@ -14,11 +14,11 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    本作的主角，23歲，家鄉在[九州鄉下的](../Page/九州.md "wikilink")[大分縣](../Page/大分縣.md "wikilink")[犬飼町](../Page/犬飼町.md "wikilink")，有著雙重性格，一方面是一個心地溫和善良的典型牛蒡男，但同時心胸狹窄嫉妒心重。本是鍾情於Swedish
+    本作的主角，23歲，家鄉在[九州鄉下的](https://zh.wikipedia.org/wiki/九州 "wikilink")[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[犬飼町](https://zh.wikipedia.org/wiki/犬飼町 "wikilink")，有著雙重性格，一方面是一個心地溫和善良的典型牛蒡男，但同時心胸狹窄嫉妒心重。本是鍾情於Swedish
     Pop，打算成為Kahimi Karie風格的歌手，但畢業後卻簽約Death
-    Records，成為最受歡迎的[死亡金屬樂隊](../Page/死亡金屬.md "wikilink")（Detroit
+    Records，成為最受歡迎的[死亡金屬樂隊](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")（Detroit
     Metal
-    City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](../Page/死亡金屬.md "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交形式唱出](../Page/指交.md "wikilink")），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
+    City，DMC）的主唱。往往在誤會下被DMC的歌迷締造了很多傳說，如小時候把父母先殺後姦，殺條子四十八招等，在死亡金屬音樂皇帝JACK的退休巡迴演唱會「世界崩壞」中演唱「fuckingham宮殿」並與傑克在曲中比賽一口氣連唱「Fuck」，最後以2個字母之差打敗了JACK，演唱會後JACK將傳說吉他贈與根岸，成為傳說吉他的第三代主人雖然根岸在[死亡金屬音樂方面有出色表現](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")，但根岸仍討厭這種音樂，更為DMC的形象感到羞恥，因此一直在親友及夢中情人面前隱瞞身份。在看到夢中情人相川和別的男性較為親密或接觸金屬音樂和被取笑時就會把克勞薩二世的嫉妒性格顯露出來，繼而做出失控的事。特技是用牙齒彈吉他和能在一秒間唱10次「rape」，後來在第18回「PROMISE」中成功做出一秒間唱11次「rape」(在動畫中雖然成功在一秒間唱11次「rape」不過卻因此咬到舌頭)，在第68回「LOSER」中以傳說結他保管人的身份和北原元氣對決時顯露了一直封了的絕技「八弦吉他」（用截斷的筷子用鼻孔和下唇撐著做多兩條弦），可惜不敵對方的「十三弦吉他」（以7條鼻毛做多7條弦），被奪走傳說吉他，第一次嘗到落敗的滋味。後來他再與元氣決戰，結果於1秒內唱出12.5個「強暴」（最後一個以[指交形式唱出](../Page/指交.md "wikilink")），打敗元氣的12個強暴。事後元氣被揭發他於口中放置彈簧。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    DMC的貝斯手，崎玉縣出身。喜歡**[L'Arc\~en\~Ciel](../Page/L'Arc~en~Ciel.md "wikilink")**那類型的音樂。絕招是噴火和玩啤牌。對社長是十分卑恭，經常討好社長，很欣賞根岸崇一扮演克勞薩二世的能力。稱根岸為「重金屬怪物」，由於個人沒有像根岸般在DMC歌迷般演出的天份，所以對此十分傷腦筋。曾在DMC與卵蛋Girl在舞台上對峙時，為了氣勢不落人後開始噴火，結果不慎引燃大火將舞台燒燬。在克勞薩二世和卡謬爭吵其間，在DMC歌迷們面扮演這件事和解人，但表現參差，最後在根岸協助下成功解決事件，曾經打算把DMC帶到另一間唱片公司和自己跳到另一樂隊的打算，但最後也失敗收場。
+    DMC的貝斯手，崎玉縣出身。喜歡**[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")**那類型的音樂。絕招是噴火和玩啤牌。對社長是十分卑恭，經常討好社長，很欣賞根岸崇一扮演克勞薩二世的能力。稱根岸為「重金屬怪物」，由於個人沒有像根岸般在DMC歌迷般演出的天份，所以對此十分傷腦筋。曾在DMC與卵蛋Girl在舞台上對峙時，為了氣勢不落人後開始噴火，結果不慎引燃大火將舞台燒燬。在克勞薩二世和卡謬爭吵其間，在DMC歌迷們面扮演這件事和解人，但表現參差，最後在根岸協助下成功解決事件，曾經打算把DMC帶到另一間唱片公司和自己跳到另一樂隊的打算，但最後也失敗收場。
 
 <!-- end list -->
 
@@ -151,7 +151,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <!-- end list -->
 
   -
-    地下[龐克](../Page/龐克.md "wikilink")（punk）樂團卵蛋Girl的女主唱，崇拜[性手槍樂團的席德](../Page/性手槍樂團.md "wikilink")。由於所做表演樂風與理想大相逕庭，致使她開始對自己的音樂道路產生懷疑。某次演唱會因為根岸誤打誤撞的被擠至台前導致面孔僵硬，加上根岸對她的勸說，結果讓妮娜誤認為是席德再世並且重新思考音樂道路。在DMC演唱會當天與同團樂手闖到舞台上表演，和根岸展開對決，根岸與她邊唱邊彈還修改了歌詞，甚至雙方互噴口水與痰。後來會場起火時被根岸所救。
+    地下[龐克](https://zh.wikipedia.org/wiki/龐克 "wikilink")（punk）樂團卵蛋Girl的女主唱，崇拜[性手槍樂團的席德](https://zh.wikipedia.org/wiki/性手槍樂團 "wikilink")。由於所做表演樂風與理想大相逕庭，致使她開始對自己的音樂道路產生懷疑。某次演唱會因為根岸誤打誤撞的被擠至台前導致面孔僵硬，加上根岸對她的勸說，結果讓妮娜誤認為是席德再世並且重新思考音樂道路。在DMC演唱會當天與同團樂手闖到舞台上表演，和根岸展開對決，根岸與她邊唱邊彈還修改了歌詞，甚至雙方互噴口水與痰。後來會場起火時被根岸所救。
 
 <!-- end list -->
 
@@ -164,7 +164,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
     演藝之王：**外園誠**
     攝影之王：**久瀨艾特賽**
     創作之王：**茂木高之**
-    本書中最讓人討厭的角色，[潮男文化的代表](../Page/潮男.md "wikilink")，四人都因為有優秀的才華和時尚知識，而藐視並侮辱不如他的人，四人都被克勞薩二世惡整過。
+    本書中最讓人討厭的角色，[潮男文化的代表](https://zh.wikipedia.org/wiki/潮男 "wikilink")，四人都因為有優秀的才華和時尚知識，而藐視並侮辱不如他的人，四人都被克勞薩二世惡整過。
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 
   -
     代表曲：流血列車
-    必殺技：[電鋸鋸音箱](../Page/電鋸.md "wikilink")
+    必殺技：[電鋸鋸音箱](https://zh.wikipedia.org/wiki/電鋸 "wikilink")
     主唱：**小玲**
     主唱小玲喜歡唱歌卻因為聲音太過低沉而專精於重金屬搖滾樂。唱歌時經常拿著電鋸鋸音箱。在世界級重金屬樂團比賽──撒旦皇帝中，被卡謬的鼓棒弄至高潮而敗。
 
@@ -267,7 +267,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -335,18 +335,18 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 ## 動畫
 
 由[STUDIO
-4℃所製作的](../Page/STUDIO_4℃.md "wikilink")[OVA](../Page/OVA.md "wikilink")。2008年8月8日正式發售DVD。全12話、24集構成。PG-12指定。
+4℃所製作的](../Page/STUDIO_4℃.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。2008年8月8日正式發售DVD。全12話、24集構成。PG-12指定。
 
-隔年2009年2月6日到3月14日於[WOWOW上每週](../Page/WOWOW.md "wikilink")2本進行放送。2010年由[関西電視台從](../Page/関西電視台.md "wikilink")1月12日開始到同年2月2日於「笑撃エピソード集」節目上播放8話傑作選、[ANIMAX](../Page/ANIMAX.md "wikilink")（CS放送）從2月9日起全12話進行放送。
+隔年2009年2月6日到3月14日於[WOWOW上每週](../Page/WOWOW.md "wikilink")2本進行放送。2010年由[関西電視台從](https://zh.wikipedia.org/wiki/関西電視台 "wikilink")1月12日開始到同年2月2日於「笑撃エピソード集」節目上播放8話傑作選、[ANIMAX](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")（CS放送）從2月9日起全12話進行放送。
 
 ### 製作團隊
 
-  - 監督 - [長濱博史](../Page/長濱博史.md "wikilink")
-  - 總作畫監督 - [島村秀一](../Page/島村秀一.md "wikilink")
-  - 美術監督 - [小林七郎](../Page/小林七郎.md "wikilink")
+  - 監督 - [長濱博史](https://zh.wikipedia.org/wiki/長濱博史 "wikilink")
+  - 總作畫監督 - [島村秀一](https://zh.wikipedia.org/wiki/島村秀一 "wikilink")
+  - 美術監督 - [小林七郎](https://zh.wikipedia.org/wiki/小林七郎 "wikilink")
   - 音響監督 -
   - 色彩設計 - 佐藤優
-  - CGI監督 - [高瀨裕介](../Page/高瀨裕介.md "wikilink")、大山佳久
+  - CGI監督 - [高瀨裕介](https://zh.wikipedia.org/wiki/高瀨裕介 "wikilink")、大山佳久
   - 編輯 - 武宮睦
   - 效果 - 奥田維城
   - 音樂製作人 - 北原京子
@@ -363,7 +363,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 西田照道：[保村真](../Page/保村真.md "wikilink")
   - 梨元圭介：
   - 社長：
-  - 相川由利：[長澤雅美](../Page/長澤雅美.md "wikilink")
+  - 相川由利：[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")
 
 ### 標題
 
@@ -382,7 +382,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
 
 ## 電影
 
-本片使用高清技術拍攝，1.85:1畫面比例，[杜比數碼音效編碼](../Page/杜比數碼.md "wikilink")。
+本片使用高清技術拍攝，1.85:1畫面比例，[杜比數碼音效編碼](https://zh.wikipedia.org/wiki/杜比數碼 "wikilink")。
 
 ### 演員列表
 
@@ -392,7 +392,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 和田真幸（Alexander Jagi）：
   - 朝仁：
   - 佐治秀紀：[高橋一生](../Page/高橋一生.md "wikilink")
-  - DMC樂迷：、[岡田義徳](../Page/岡田義徳.md "wikilink")
+  - DMC樂迷：、[岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")
   - Jack ill
     Dark：[吉恩·西蒙斯](../Page/吉恩·西蒙斯.md "wikilink")（[Kiss合唱團貝斯手](../Page/Kiss合唱團.md "wikilink")）
   - Death Records社長：[松雪泰子](../Page/松雪泰子.md "wikilink")
@@ -413,7 +413,7 @@ Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連�
   - 剪接：田口拓也
   - 副導演：兼重淳
   - 製片：鈴木嘉弘
-  - 原創音樂：[服部隆之](../Page/服部隆之.md "wikilink")
+  - 原創音樂：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
   - 出品：電影「Detroit Metal City」製作委員會
   - 製作：東寶製造製作部
   - 發行：東寶

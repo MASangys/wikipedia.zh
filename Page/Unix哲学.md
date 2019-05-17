@@ -1,4 +1,4 @@
-**Unix哲学**是一套基于[Unix操作系统顶级开发者们的经验提出的](../Page/Unix.md "wikilink")[软件开发的准则和哲学](../Page/软件开发.md "wikilink")。
+**Unix哲学**是一套基于[Unix操作系统顶级开发者们的经验提出的](https://zh.wikipedia.org/wiki/Unix "wikilink")[软件开发的准则和哲学](https://zh.wikipedia.org/wiki/软件开发 "wikilink")。
 
 ## McIlroy：A Quarter Century of Unix
 
@@ -10,21 +10,22 @@
 [羅勃·派克在他的](../Page/羅勃·派克.md "wikilink")《[Notes on Programming in
 C](http://www.lysator.liu.se/c/pikestyle.html)》中提到了以下格言。虽然这些规则是关于[程序设计的](../Page/程序设计.md "wikilink")，但作为Unix哲学丝毫不为过：
 
-  - 规则一：你永远不会知道你的程序会在什么地方耗费时间。程序的[瓶颈常常出现在意想不到的地方](../Page/瓶颈.md "wikilink")，因此在你确信找到瓶颈后再动手代码吧。
+  - 规则一：你永远不会知道你的程序会在什么地方耗费时间。程序的[瓶颈常常出现在意想不到的地方](https://zh.wikipedia.org/wiki/瓶颈 "wikilink")，因此在你确信找到瓶颈后再动手代码吧。
   - 规则二：测试代码。只有在你详细测试了代码，并且发现一部分代码耗费了绝大部分的运行时间时再对程序作速度优化。
   - 规则三：功能全面的[算法](../Page/算法.md "wikilink")（fancy
-    algorithm）在处理小[规模问题时效率很低](../Page/计算复杂性理论.md "wikilink")，这是因为算法时间效率中的常量很大，而问题往往规模很小。除非你知道你遇到的常常是复杂的情况，否则就让代码丑陋但是简单而高效吧。（即使问题规模确实很大，也首先尝试第二条规则。）
+    algorithm）在处理小[规模问题时效率很低](https://zh.wikipedia.org/wiki/计算复杂性理论 "wikilink")，这是因为算法时间效率中的常量很大，而问题往往规模很小。除非你知道你遇到的常常是复杂的情况，否则就让代码丑陋但是简单而高效吧。（即使问题规模确实很大，也首先尝试第二条规则。）
   - 规则四：功能全面的算法比简单的算法更容易产生Bug，更难实现。尽量使用简单的算法和[数据结构](../Page/数据结构.md "wikilink")。
   - 规则五：数据决定一切。如果选择的数据结构能很好的管理数据，算法部分往往不言自明。记住，数据结构，而非算法，才是编程的关键。
   - 规则六：没有第六条规则。
 
 Pike的第一、二条规则重申了[高德纳的著名格言](../Page/高德纳.md "wikilink")：“过早的优化是一切罪恶的根源。”\[1\]
 Pike的第三、四条规则被[肯·汤普逊改述成](../Page/肯·汤普逊.md "wikilink")：“疑惑不定之时最适合穷举。”事实上，这两条规则也是[KISS原则的具体表现](../Page/KISS原则.md "wikilink")。规则五在之前[Fred
-Brooks的](../Page/Fred_Brooks.md "wikilink")[人月神话中也被提及](../Page/人月神话.md "wikilink")。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森之小品](../Page/蒙提·派森.md "wikilink")的幽默发挥而已了。
+Brooks的](https://zh.wikipedia.org/wiki/Fred_Brooks "wikilink")[人月神话中也被提及](../Page/人月神话.md "wikilink")。的《》中也有一章阐述了相同的设计哲学。此规则作为“如果你的数据结构很好，那么控制它的算法就无关痛痒了”的例子常常被简化成“简约地写代码，聪明地用数据”。第六条规则当然只是Pike针对[蒙提·派森之小品](../Page/蒙提·派森.md "wikilink")的幽默发挥而已了。
 
 ## Mike Gancarz的《UNIX哲学》
 
-1994年，[X Window系统开发组的成员Mike](../Page/X_Window系统.md "wikilink")
+1994年，[X
+Window系统开发组的成员Mike](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")
 Gancarz根据他自己的Unix系统经验以及和其他领域使用Unix系统的资深程序员们的讨论结果，写成了*The UNIX
 Philosophy*，提出了9条训格之言：
 
@@ -38,7 +39,7 @@ Philosophy*，提出了9条训格之言：
   - 八：避免使用可定制性低下的用户界面。
   - 九：所有程序都是数据的过滤器。
 
-此外还有十条原则则并不为所有人认同，甚至还是争论的焦点（如[宏内核和](../Page/宏内核.md "wikilink")[微内核之争](../Page/微内核.md "wikilink")）：
+此外还有十条原则则并不为所有人认同，甚至还是争论的焦点（如[宏内核和](https://zh.wikipedia.org/wiki/宏内核 "wikilink")[微内核之争](https://zh.wikipedia.org/wiki/微内核 "wikilink")）：
 
   - 一：应该允许用户定制操作环境。
   - 二：让操作系统核心小而轻。
@@ -47,7 +48,7 @@ Philosophy*，提出了9条训格之言：
   - 五：沉默是金。
   - 六：并行地思考。
   - 七：部分加部分大于整体。
-  - 八：寻找问题的[帕雷托法则](../Page/帕雷托法则.md "wikilink")。
+  - 八：寻找问题的[帕雷托法则](https://zh.wikipedia.org/wiki/帕雷托法则 "wikilink")。
   - 九：程序随需求而增长（）。
   - 十：层级地思考。
 
@@ -62,8 +63,9 @@ Philosophy*，提出了9条训格之言：
 ### 来源
 
   - *The Unix Programming Environment* by [Brian
-    Kernighan](../Page/Brian_Kernighan.md "wikilink") and [Rob
-    Pike](../Page/Rob_Pike.md "wikilink")，1984
+    Kernighan](https://zh.wikipedia.org/wiki/Brian_Kernighan "wikilink")
+    and [Rob
+    Pike](https://zh.wikipedia.org/wiki/Rob_Pike "wikilink")，1984
   - [*Notes on Programming in
     C*](http://www.lysator.liu.se/c/pikestyle.html)，Rob Pike, September
     21, 1989
@@ -91,7 +93,8 @@ Philosophy*，提出了9条训格之言：
 ## 参见
 
   -
-  - [Plan 9 from Bell Labs](../Page/Plan_9_from_Bell_Labs.md "wikilink")
+  - [Plan 9 from Bell
+    Labs](https://zh.wikipedia.org/wiki/Plan_9_from_Bell_Labs "wikilink")
 
   - [英文写作指南](../Page/英文写作指南.md "wikilink")（The Elements of Style）
 
@@ -101,7 +104,8 @@ Philosophy*，提出了9条训格之言：
 [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
 
-1.  [Knuth, Donald](../Page/Knuth,_Donald.md "wikilink"): [Structured
-    Programming with Goto
+1.  [Knuth,
+    Donald](https://zh.wikipedia.org/wiki/Knuth,_Donald "wikilink"):
+    [Structured Programming with Goto
     Statements](http://pplab.snu.ac.kr/courses/adv_pl05/papers/p261-knuth.pdf)
     . *Computing Surveys* **6**:4 (1974), 261–301.

@@ -2,9 +2,10 @@
 
 ## 历史
 
-Autodesk的[Yost Group最初开发了](../Page/Yost_Group.md "wikilink")3D
+Autodesk的[Yost
+Group最初开发了](https://zh.wikipedia.org/wiki/Yost_Group "wikilink")3D
 Studio和随后的3D Studio MAX。Autodesk将Yost
-Group改名为[Kinetix](../Page/Kinetix.md "wikilink")，并在1996年将其变成子公司。
+Group改名为[Kinetix](https://zh.wikipedia.org/wiki/Kinetix "wikilink")，并在1996年将其变成子公司。
 
 由ATI、AST和Delrina等公司组成的加拿大电脑工业专家联合，在多伦多成立了MGI有限公司。它受命发展PC市场上最好的图形与视频软件。
 

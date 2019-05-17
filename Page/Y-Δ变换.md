@@ -1,5 +1,5 @@
 [Wye-delta.svg](https://zh.wikipedia.org/wiki/File:Wye-delta.svg "fig:Wye-delta.svg")
-**Y-Δ变换**或稱為**星角變換**，是一种把[Y形电路转换成等效的](../Page/Y形电路.md "wikilink")[Δ形电路](../Page/Δ形电路.md "wikilink")，或把Δ形电路转换成等效的Y形电路的方法。它可以用来简化电路的分析。这一变换理论是由於1899年发表。\[1\]
+**Y-Δ变换**或稱為**星角變換**，是一种把[Y形电路转换成等效的](https://zh.wikipedia.org/wiki/Y形电路 "wikilink")[Δ形电路](https://zh.wikipedia.org/wiki/Δ形电路 "wikilink")，或把Δ形电路转换成等效的Y形电路的方法。它可以用来简化电路的分析。这一变换理论是由於1899年发表。\[1\]
 
 ## 基本的Y-Δ变换
 
@@ -37,7 +37,7 @@ Y形连接相邻电导的乘积/Y形连接电导之和
 
 ## 图论
 
-在[图论中](../Page/图论.md "wikilink")，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](../Page/子图.md "wikilink")。变换後的边数不变，但[顶点数和](../Page/顶点_\(图论\).md "wikilink")[回路数会变化](../Page/回路_\(图论\).md "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](../Page/佩特森圖.md "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
+在[图论中](../Page/图论.md "wikilink")，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](https://zh.wikipedia.org/wiki/子图 "wikilink")。变换後的边数不变，但[顶点数和](https://zh.wikipedia.org/wiki/顶点_\(图论\) "wikilink")[回路数会变化](https://zh.wikipedia.org/wiki/回路_\(图论\) "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](https://zh.wikipedia.org/wiki/佩特森圖 "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
 
 ## 推导
 

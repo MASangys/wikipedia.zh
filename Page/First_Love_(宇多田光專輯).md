@@ -17,34 +17,37 @@ Tokyo舉辦的LUV LIVE演唱會DVD。
   - "First Love"和"Never Let
     Go"分別為日劇《[魔女的條件](../Page/魔女的條件.md "wikilink")》主題曲和劇中使用插曲.
   - "甜蜜陷阱 \~Paint It, Black\~"中的最後一句歌詞"I see a red door and I wanna
-    paint it black"取自[滾石樂團作品](../Page/滾石樂團.md "wikilink")"Paint It,
-    Black" 。
-  - "Never Let Go"使用了與[Monica的](../Page/Monica.md "wikilink")"Take Him
-    Back"中相同的背景節奏（最早原作為[Sting的](../Page/Sting.md "wikilink")"Shape of My
-    Heart"）。本人表示Monica的呈現讓她受到啟發。
+    paint it
+    black"取自[滾石樂團作品](https://zh.wikipedia.org/wiki/滾石樂團 "wikilink")"Paint
+    It, Black" 。
+  - "Never Let
+    Go"使用了與[Monica的](https://zh.wikipedia.org/wiki/Monica "wikilink")"Take
+    Him
+    Back"中相同的背景節奏（最早原作為[Sting的](https://zh.wikipedia.org/wiki/Sting "wikilink")"Shape
+    of My Heart"）。本人表示Monica的呈現讓她受到啟發。
   - "B\&C" 一曲歌詞中提到的Bonnie &
     Clyde為著名的鴛鴦大盜[邦妮和克萊德](../Page/邦妮和克萊德.md "wikilink").
 
 ## 收錄單曲
 
 出道單曲「[Automatic/time will
-tell](../Page/Automatic/time_will_tell.md "wikilink")」初版發售僅4萬餘張，但8cm及12cm兩版本最終銷量達到206萬，成為日本女歌手史上銷量第二單曲，達成罕見的記錄。
+tell](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")」初版發售僅4萬餘張，但8cm及12cm兩版本最終銷量達到206萬，成為日本女歌手史上銷量第二單曲，達成罕見的記錄。
 
 其中「First Love」為重發單曲。
 
-| 發行日                                 | 歌曲                                                                                    | 最高排名     | 上榜週數      | 銷量      |
-| :---------------------------------- | :------------------------------------------------------------------------------------ | :------- | :-------- | :------ |
-|                                     |                                                                                       |          |           |         |
-| <small>1998年12月9日</small>           | **08cm** - [Automatic/time will tell](../Page/Automatic/time_will_tell.md "wikilink") | \#4      | 23        | 772,080 |
-|                                     |                                                                                       |          |           |         |
-| **12cm** - Automatic/time will tell | \#2                                                                                   | 23       | 1,290,700 |         |
-| <small>1999年2月17日</small>           | **08cm** - [Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")       | \#5      | 12        | 346,820 |
-| **12cm** - Movin' on without you    | **\#1**                                                                               | 13       | 879,760   |         |
-|                                     |                                                                                       |          |           |         |
-| <small>1999年4月28日</small>           | **08cm** - [First Love (單曲)](../Page/First_Love_\(單曲\).md "wikilink")                 | \#6 - 重發 | 19        | 303,430 |
-|                                     |                                                                                       |          |           |         |
-| **12cm** - First Love               | \#2 - 重發                                                                              | 13       | 500,890   |         |
-|                                     |                                                                                       |          |           |         |
+| 發行日                                 | 歌曲                                                                                                       | 最高排名     | 上榜週數      | 銷量      |
+| :---------------------------------- | :------------------------------------------------------------------------------------------------------- | :------- | :-------- | :------ |
+|                                     |                                                                                                          |          |           |         |
+| <small>1998年12月9日</small>           | **08cm** - [Automatic/time will tell](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink") | \#4      | 23        | 772,080 |
+|                                     |                                                                                                          |          |           |         |
+| **12cm** - Automatic/time will tell | \#2                                                                                                      | 23       | 1,290,700 |         |
+| <small>1999年2月17日</small>           | **08cm** - [Movin' on without you](../Page/Movin'_on_without_you.md "wikilink")                          | \#5      | 12        | 346,820 |
+| **12cm** - Movin' on without you    | **\#1**                                                                                                  | 13       | 879,760   |         |
+|                                     |                                                                                                          |          |           |         |
+| <small>1999年4月28日</small>           | **08cm** - [First Love (單曲)](../Page/First_Love_\(單曲\).md "wikilink")                                    | \#6 - 重發 | 19        | 303,430 |
+|                                     |                                                                                                          |          |           |         |
+| **12cm** - First Love               | \#2 - 重發                                                                                                 | 13       | 500,890   |         |
+|                                     |                                                                                                          |          |           |         |
 
 ## 另記
 

@@ -23,7 +23,8 @@
 
   - ，英文：Black Jack，學名：*Quercus marilandica*，一種櫟樹。
 
-  - [閃鋅礦](../Page/閃鋅礦.md "wikilink")，也被稱作Black Jack礦，一種由鋅和鐵結合的硫化物。
+  - [閃鋅礦](https://zh.wikipedia.org/wiki/閃鋅礦 "wikilink")，也被稱作Black
+    Jack礦，一種由鋅和鐵結合的硫化物。
 
   - Black jack，[無花果的一種](../Page/無花果.md "wikilink")。
 
@@ -53,7 +54,7 @@
 ### 動漫和漫畫
 
   - [怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")，舊譯怪醫秦博士，為日本漫畫家手塚治虫的作品。
-      - [青年黑傑克](../Page/青年黑傑克.md "wikilink")
+      - [青年黑傑克](https://zh.wikipedia.org/wiki/青年黑傑克 "wikilink")
       - [黑傑克](../Page/黑傑克.md "wikilink")，「怪醫黑傑克」的主角。
   - [百變金剛中的一個虛構人物](../Page/百變金剛_\(玩具\).md "wikilink")。
 
@@ -64,7 +65,7 @@
   - ，1950年由Julien Duvivier撰寫和導演的電影。
 
   - [*Black Jack* (1968
-    film)](../Page/Black_Jack_\(1968_film\).md "wikilink")，年導演的義大利電影。
+    film)](https://zh.wikipedia.org/wiki/Black_Jack_\(1968_film\) "wikilink")，年導演的義大利電影。
 
   - ，肯·洛赫（Ken Loach）導演的電影。
 
@@ -94,6 +95,6 @@
 
 ## 參見
 
-  - [廿一點](../Page/廿一點.md "wikilink")，一種使用撲克牌的賭博遊戲。
+  - [廿一點](https://zh.wikipedia.org/wiki/廿一點 "wikilink")，一種使用撲克牌的賭博遊戲。
   - [2NE1](../Page/2NE1.md "wikilink")，2NE1的粉絲名「Black Jack」。
   - [傑克·布萊克](../Page/傑克·布萊克.md "wikilink") (1969年生)，美國演員。

@@ -1,4 +1,4 @@
-《**ARMS神臂**》，原名《**ARMS**》，是[日本漫畫](../Page/日本漫畫.md "wikilink")，作者為[皆川亮二](../Page/皆川亮二.md "wikilink")；動畫版名稱為《**PROJECT
+《**ARMS神臂**》，原名《**ARMS**》，是[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，作者為[皆川亮二](../Page/皆川亮二.md "wikilink")；動畫版名稱為《**PROJECT
 ARMS**》。各ARMS的命名.
 
 ## 故事內容
@@ -32,7 +32,7 @@ ARMS**》。各ARMS的命名.
 
 <!-- end list -->
 
-  - 赤木勝美（CV：[三浦智子](../Page/三浦智子.md "wikilink")）
+  - 赤木勝美（CV：[三浦智子](https://zh.wikipedia.org/wiki/三浦智子 "wikilink")）
     高槻涼的青梅竹馬。
     ARMS持有：銀獠
 
@@ -89,7 +89,7 @@ ARMS**》。各ARMS的命名.
 
   - 基斯．紫（VIOLET）港譯：基使·巴爾奧雷特
 
-（CV：[桑島法子](../Page/桑島法子.md "wikilink")）
+（CV：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）
 
   -
     「艾格里」的最高幹部之一。也是基斯系列中唯一的女性。
@@ -125,7 +125,7 @@ ARMS**》。各ARMS的命名.
 
 <!-- end list -->
 
-  - 兜光一（CV：[中村大樹](../Page/中村大樹.md "wikilink")）
+  - 兜光一（CV：[中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")）
     藍空警察署的刑警。在藍空市集結警察對反抗紅帽部隊，事件結束後辭去刑警一職，和高槻一行人到美國。
 
 ### 敵方組織
@@ -204,7 +204,7 @@ ARMS**》。各ARMS的命名.
   -
     （1 - 13話）
     作詞：舩木基有／作曲：岩井勇一郎／編曲、歌：[New Cinema
-    蜥蜴](../Page/New_Cinema_蜥蜴.md "wikilink")
+    蜥蜴](https://zh.wikipedia.org/wiki/New_Cinema_蜥蜴 "wikilink")
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@ ARMS**》。各ARMS的命名.
 <!-- end list -->
 
   -
-    作詞：WAG、徳永暁人／作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")／編曲、歌：[WAG](../Page/WAG.md "wikilink")
+    作詞：WAG、徳永暁人／作曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")／編曲、歌：[WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")
     （27 - 52話）
 
 <!-- end list -->
@@ -237,23 +237,25 @@ ARMS**》。各ARMS的命名.
 <!-- end list -->
 
   -
-    作詞：WAG／作曲、編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")／歌：[WAG](../Page/WAG.md "wikilink")
+    作詞：WAG／作曲、編曲：[徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")／歌：[WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")
     （1 - 13話）
 
 <!-- end list -->
 
-  - 『[call my name](../Page/call_my_name.md "wikilink")』
+  - 『[call my
+    name](https://zh.wikipedia.org/wiki/call_my_name "wikilink")』
 
 <!-- end list -->
 
   -
-    作詞：[AZUKI七](../Page/AZUKI七.md "wikilink")／作曲：[中村由利](../Page/中村由利_\(歌手\).md "wikilink")／編曲：[古井弘人](../Page/古井弘人.md "wikilink")／歌：[GARNET
+    作詞：[AZUKI七](../Page/AZUKI七.md "wikilink")／作曲：[中村由利](https://zh.wikipedia.org/wiki/中村由利_\(歌手\) "wikilink")／編曲：[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")／歌：[GARNET
     CROW](../Page/GARNET_CROW.md "wikilink")
     （14 - 26話）
 
 <!-- end list -->
 
-  - 『[Timeless Sleep](../Page/Timeless_Sleep.md "wikilink")』
+  - 『[Timeless
+    Sleep](https://zh.wikipedia.org/wiki/Timeless_Sleep "wikilink")』
 
 <!-- end list -->
 

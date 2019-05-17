@@ -18,9 +18,10 @@ zh-hk:蜘蛛恐懼;}- -{A|zh-hans:艾邦; zh-hk:伊波恩}-
 
 </div>
 
-[大久保篤的漫畫作品](../Page/大久保篤.md "wikilink")《[SOUL
-EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語原文](../Page/日語.md "wikilink")
-/ [英語譯文](../Page/英語.md "wikilink")〕 **※備註：有標示「※」的介紹內容為動畫版原創的部分。**
+[大久保篤的漫畫作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")《[SOUL
+EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語原文](https://zh.wikipedia.org/wiki/日語 "wikilink")
+/ [英語譯文](https://zh.wikipedia.org/wiki/英語 "wikilink")〕
+**※備註：有標示「※」的介紹內容為動畫版原創的部分。**
 
 ## 死武專學生
 
@@ -91,7 +92,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **BLACK STAR/黑☆星**〔ブラック☆スター/ Black
-    Star〕（聲：日本：[小林由美子](../Page/小林由美子.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[張裕東](../Page/張裕東.md "wikilink")）
+    Star〕（聲：日本：[小林由美子](../Page/小林由美子.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
 <!-- end list -->
 
@@ -188,7 +189,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **帕蒂**〔パティー/
-    Patty〕（聲：日本：[高平成美](../Page/高平成美.md "wikilink")（動畫）；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[楊善諭](../Page/楊善諭.md "wikilink")→[黃紫嫻](../Page/黃紫嫻.md "wikilink")）
+    Patty〕（聲：日本：[高平成美](https://zh.wikipedia.org/wiki/高平成美 "wikilink")（動畫）；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[楊善諭](../Page/楊善諭.md "wikilink")→[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 <!-- end list -->
 
@@ -228,7 +229,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    全名「**哈伯‧特‧艾克雷爾**」。為歐克斯的武器，實體是能發射電擊的[長矛雷槍](../Page/長矛.md "wikilink")，個性十分冷靜，擁有不被狂氣影響的理智力。因為過於冷靜而會出現有些冷酷的行動也會使同伴嚇到。不過他一直都默默支持著自己的搭檔歐克斯。
+    全名「**哈伯‧特‧艾克雷爾**」。為歐克斯的武器，實體是能發射電擊的[長矛雷槍](https://zh.wikipedia.org/wiki/長矛 "wikilink")，個性十分冷靜，擁有不被狂氣影響的理智力。因為過於冷靜而會出現有些冷酷的行動也會使同伴嚇到。不過他一直都默默支持著自己的搭檔歐克斯。
 
 <!-- end list -->
 
@@ -256,13 +257,13 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    齊力可的武器，外貌相似的兩名可愛小孩，他們為天真單純愛玩的小孩，畢竟是小孩子，有時候也會在戰鬥或潛入敵方陣營期間給其職人齊力可添麻煩，實體是[拳套](../Page/拳套.md "wikilink")。為大地祈禱師，能把大自然的悲嘆傳給人們。
+    齊力可的武器，外貌相似的兩名可愛小孩，他們為天真單純愛玩的小孩，畢竟是小孩子，有時候也會在戰鬥或潛入敵方陣營期間給其職人齊力可添麻煩，實體是[拳套](https://zh.wikipedia.org/wiki/拳套 "wikilink")。為大地祈禱師，能把大自然的悲嘆傳給人們。
     PS:於第67話中，他們作為大地祈禱師覺醒時，閃電之壺桑達貌似是女生，火之壺法雅為男生。
 
 <!-- end list -->
 
   - **金姆**〔キム/
-    Kim〕（聲：日本：[齋藤千和](../Page/齋藤千和.md "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[羅杏芝](../Page/羅杏芝.md "wikilink")）
+    Kim〕（聲：日本：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[羅杏芝](../Page/羅杏芝.md "wikilink")）
 
 <!-- end list -->
 
@@ -287,12 +288,12 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    全名「**傑可林‧歐‧藍特‧迪布雷**」。金姆的武器，實體是[魔角燈](../Page/魔角燈.md "wikilink")。能力很方便，除了戰鬥之外還能夠飛行、打信號、取暖等。與金姆的感情很要好，明知金姆是魔女仍不離不棄，並跟隨她逃離死武專，被道德淨化機洗腦，後來被哈伯打昏再用道德淨化機恢復(動畫中並無播放她逃離死武專一事)。現在跟金姆一起回到死武專，成為龍牙戰士的一員。
+    全名「**傑可林‧歐‧藍特‧迪布雷**」。金姆的武器，實體是[魔角燈](https://zh.wikipedia.org/wiki/魔角燈 "wikilink")。能力很方便，除了戰鬥之外還能夠飛行、打信號、取暖等。與金姆的感情很要好，明知金姆是魔女仍不離不棄，並跟隨她逃離死武專，被道德淨化機洗腦，後來被哈伯打昏再用道德淨化機恢復(動畫中並無播放她逃離死武專一事)。現在跟金姆一起回到死武專，成為龍牙戰士的一員。
 
 ### 其他學生
 
   - ''' 可樂那 '''〔クロナ/
-    Crona〕（聲：日本：[坂本真綾](../Page/坂本真綾.md "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[黃鳳英](../Page/黃鳳英.md "wikilink")）
+    Crona〕（聲：日本：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[黃鳳英](../Page/黃鳳英.md "wikilink")）
 
 <!-- end list -->
 
@@ -325,7 +326,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **拉格納‧洛克**〔ラグナロク/
-    Ragnarok〕（聲：日本：[姬野惠二](../Page/姬野惠二.md "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[劉奕希](../Page/劉奕希.md "wikilink")）
+    Ragnarok〕（聲：日本：[姬野惠二](https://zh.wikipedia.org/wiki/姬野惠二 "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[劉奕希](../Page/劉奕希.md "wikilink")）
 
 <!-- end list -->
 
@@ -345,12 +346,12 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 死武專校長
 
   - **死神**〔死神 /
-    Shinigami〕（聲：日本：[大林隆介](../Page/大林隆介.md "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
+    Shinigami〕（聲：日本：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
   -
-    參見[\#死神的八武眾](../Page/#死神的八武眾.md "wikilink")
+    參見[\#死神的八武眾](https://zh.wikipedia.org/wiki/#死神的八武眾 "wikilink")
 
 ## 死神武器 Death Scythe
 
@@ -361,7 +362,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 
   -
     本名「**史比烈特‧亞爾邦**〔スピリット＝アルバーン / Spirit
-    Albarn〕」，曾是斯坦的「武器」，後與摩訶母親組合，現在與摩訶母親離婚，沒有子女的監護權。是[摩訶的父親](../Page/#龍牙戰士（SPARTOI）.md "wikilink")，由於極度好色，所以被女兒摩訶討厭。實際是非常掛念女兒的父親，但總是對女兒不知所措以致鬧出事端。由於布蕾亞而被摩訶誤會為想把她變成「淫亂的女兒」。[北美負責人](../Page/北美.md "wikilink")。
+    Albarn〕」，曾是斯坦的「武器」，後與摩訶母親組合，現在與摩訶母親離婚，沒有子女的監護權。是[摩訶的父親](https://zh.wikipedia.org/wiki/#龍牙戰士（SPARTOI） "wikilink")，由於極度好色，所以被女兒摩訶討厭。實際是非常掛念女兒的父親，但總是對女兒不知所措以致鬧出事端。由於布蕾亞而被摩訶誤會為想把她變成「淫亂的女兒」。[北美負責人](https://zh.wikipedia.org/wiki/北美 "wikilink")。
     在摩訶與黑☆星二人決戰可樂那的同時，武器噬魂、小椿皆被可樂那奪去。此時唯獨留在月球的死神之鐮（其他人因為自由人的魔法而回到地面），挺身而出維護女兒安危，並將自身任由女兒使用，父女倆之間「緣」的深厚，一度讓吞噬鬼神的可樂那招架不住。
 
 <!-- end list -->
@@ -372,18 +373,18 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    死神拐子"雷綱"，可透過電流將職人的運動能力發揮到極限，無法長時間使用。[大洋洲負責人](../Page/大洋洲.md "wikilink")，右眼戴著閃電標誌眼罩、沒有男人緣、超級路痴。現為死武專教師，擁有治癒、穩定他人靈魂波長的「療傷波長」。在斯坦成為B‧J案的嫌疑犯時，以「被脅持」的理由和斯坦一起離開了死武專，之後和斯坦抓到殺死B.J的兇手賈斯丁，和斯坦回到死武專。參與月面戰爭，與斯坦聯手擊殺賈斯汀，最終話懷上了斯坦的孩子。「[妙爾尼爾](../Page/妙爾尼爾.md "wikilink")〔Mjolnir〕」是來自[北歐神話](../Page/北歐神話.md "wikilink")[雷神的武器](../Page/索爾.md "wikilink")「[雷神之鎚](../Page/雷神之鎚.md "wikilink")」。
+    死神拐子"雷綱"，可透過電流將職人的運動能力發揮到極限，無法長時間使用。[大洋洲負責人](../Page/大洋洲.md "wikilink")，右眼戴著閃電標誌眼罩、沒有男人緣、超級路痴。現為死武專教師，擁有治癒、穩定他人靈魂波長的「療傷波長」。在斯坦成為B‧J案的嫌疑犯時，以「被脅持」的理由和斯坦一起離開了死武專，之後和斯坦抓到殺死B.J的兇手賈斯丁，和斯坦回到死武專。參與月面戰爭，與斯坦聯手擊殺賈斯汀，最終話懷上了斯坦的孩子。「[妙爾尼爾](../Page/妙爾尼爾.md "wikilink")〔Mjolnir〕」是來自[北歐神話](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[雷神的武器](https://zh.wikipedia.org/wiki/索爾 "wikilink")「[雷神之鎚](https://zh.wikipedia.org/wiki/雷神之鎚 "wikilink")」。
     **※ 動畫版當中，瑪莉帶著改邪歸正的可樂那前去梅杜莎所在，打算搶回被其蠱惑的斯坦。到最後使用「療傷波長」治癒斯坦體內的狂氣。※**
 
 <!-- end list -->
 
   - **弓梓**〔ゆみ
-    あずさ〕（聲：日本：[野上尤加奈](../Page/野上尤加奈.md "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+    あずさ〕（聲：日本：[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")）
 
 <!-- end list -->
 
   -
-    死神狙擊鎗，有弩和獵槍功能，在10km內只有1mm的誤差，可用「千里眼」看透半徑50m內的一切。[東亞負責人](../Page/東亞.md "wikilink")，也代替瑪莉兼任大洋洲負責人，黑髮戴眼鏡的亞洲美人。被斯坦他們稱為「委員長之王」、「風紀委員」等，對斯坦和死神之鎌說話有點不客氣。本為名字是來自「[徒然草](../Page/徒然草.md "wikilink")」中的「[梓弓](../Page/梓弓.md "wikilink")」。
+    死神狙擊鎗，有弩和獵槍功能，在10km內只有1mm的誤差，可用「千里眼」看透半徑50m內的一切。[東亞負責人](https://zh.wikipedia.org/wiki/東亞 "wikilink")，也代替瑪莉兼任大洋洲負責人，黑髮戴眼鏡的亞洲美人。被斯坦他們稱為「委員長之王」、「風紀委員」等，對斯坦和死神之鎌說話有點不客氣。本為名字是來自「[徒然草](../Page/徒然草.md "wikilink")」中的「[梓弓](https://zh.wikipedia.org/wiki/梓弓 "wikilink")」。
 
 <!-- end list -->
 
@@ -392,7 +393,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    參見[\#諾亞軍團](../Page/#諾亞軍團.md "wikilink")
+    參見[\#諾亞軍團](https://zh.wikipedia.org/wiki/#諾亞軍團 "wikilink")
 
 <!-- end list -->
 
@@ -401,7 +402,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    實體為魔鏡。[南美負責人](../Page/南美.md "wikilink")。武器化的時候裝備在-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-
+    實體為魔鏡。[南美負責人](https://zh.wikipedia.org/wiki/南美 "wikilink")。武器化的時候裝備在-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-
     猿里華的右腳。漫畫60話正式登場，戴著熊的頭套，82話改為鼠頭套。
     79話裏被諾亞的收藏品大蟲咬掉半個身體而死，其實是他製造的假象，以方便追蹤賈斯丁。其後被賈斯丁砍下身體，他將自己的靈魂印在鏡子上，並由猴子職人將他帶回死武專，告訴死神大人，鬼神在月亮上。
     **※ 動畫版尚未登場。※**
@@ -413,7 +414,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    死神魔砲"沙皇砲"。[東歐負責人](../Page/東歐.md "wikilink")。中年大叔，攻擊力驚人，武器狀態時是裝載在-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-的右腳上，搭擋職人體術驚人、擁有退魔波長。被黑血打敗，然後和職人一樣被吞噬於黑血球裏，失救而被隔離。
+    死神魔砲"沙皇砲"。[東歐負責人](https://zh.wikipedia.org/wiki/東歐 "wikilink")。中年大叔，攻擊力驚人，武器狀態時是裝載在-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-的右腳上，搭擋職人體術驚人、擁有退魔波長。被黑血打敗，然後和職人一樣被吞噬於黑血球裏，失救而被隔離。
     **※ 動畫版尚未登場。※**
 
 <!-- end list -->
@@ -439,7 +440,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 死武專職員
 
   - **斯坦**〔シュタイン/
-    Stein〕（聲：日本：[宮本充](../Page/宮本充.md "wikilink")（廣播劇）／[內田夕夜](../Page/內田夕夜.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")、[陶敏嫻](../Page/陶敏嫻.md "wikilink")（少年）；香港：[黃啟昌](../Page/黃啟昌.md "wikilink")→[陳欣](../Page/陳欣.md "wikilink")）
+    Stein〕（聲：日本：[宮本充](../Page/宮本充.md "wikilink")（廣播劇）／[內田夕夜](https://zh.wikipedia.org/wiki/內田夕夜 "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")、[陶敏嫻](../Page/陶敏嫻.md "wikilink")（少年）；香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")→[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -465,7 +466,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **死人老師**〔シド/
-    Sid〕（聲：日本：[赤城進](../Page/赤城進.md "wikilink")（廣播劇）／[木村雅史](../Page/木村雅史.md "wikilink")（動畫）；臺灣：[官志宏](../Page/官志宏.md "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
+    Sid〕（聲：日本：[赤城進](https://zh.wikipedia.org/wiki/赤城進 "wikilink")（廣播劇）／[木村雅史](https://zh.wikipedia.org/wiki/木村雅史 "wikilink")（動畫）；臺灣：[官志宏](../Page/官志宏.md "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
 
 <!-- end list -->
 
@@ -481,7 +482,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **奈古絲**〔ナイグス/
-    Nygus〕（聲：日本：[野田順子](../Page/野田順子.md "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[林芷筠](../Page/林芷筠.md "wikilink")）
+    Nygus〕（聲：日本：[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")；臺灣：[陶敏嫻](../Page/陶敏嫻.md "wikilink")；香港：[林芷筠](../Page/林芷筠.md "wikilink")）
 
 <!-- end list -->
 
@@ -490,7 +491,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 
 <!-- end list -->
 
-  - **B‧J**（聲：日本：[斧アツシ](../Page/斧アツシ.md "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；港：[伍博民](../Page/伍博民.md "wikilink")）
+  - **B‧J**（聲：日本：[斧アツシ](https://zh.wikipedia.org/wiki/斧アツシ "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；港：[伍博民](../Page/伍博民.md "wikilink")）
 
 <!-- end list -->
 
@@ -504,7 +505,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 800年前與死神一起戰鬥的人。漫畫中包括死神、阿修羅、伊波恩、關在伊波恩之書中的黑色物體、石中聖劍（關在伊波恩之書中的黑色物體與奇多提起過），另外三人被阿修羅吃了，共8个人，都是俗稱的「舊支配者」。
 
   - **死神**〔死神 /
-    Shinigami〕（聲：日本：[大林隆介](../Page/大林隆介.md "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
+    Shinigami〕（聲：日本：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -512,7 +513,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
     人稱「死神大人」。死神的八武眾成員。象徵「規律」的狂氣舊支配者。作為死武專的最高人物。Death The
     Kid的父親。他的靈魂巨大得足以包圍整個城市，因為以靈魂封印了第一代鬼神，使得靈魂和Death
     City連為一體，因此無法離開Death
-    City一步。從前他的確相當可怕，戴的面具也的確讓人感到像「死神」一樣可怕(面具類似人體的[面顱](../Page/顱骨.md "wikilink"))，但因為會弄哭孩子而改為現在的面具，而性格和語調也變得十分調皮（不過生氣的時候也會變回從前那樣的可怕）。本名直接稱呼「死神」，其他全部不明。漫畫110話，奇多的黃泉三徒線第三條線在鬼神阿修羅的刺激下連接起來，死神死亡。
+    City一步。從前他的確相當可怕，戴的面具也的確讓人感到像「死神」一樣可怕(面具類似人體的[面顱](https://zh.wikipedia.org/wiki/顱骨 "wikilink"))，但因為會弄哭孩子而改為現在的面具，而性格和語調也變得十分調皮（不過生氣的時候也會變回從前那樣的可怕）。本名直接稱呼「死神」，其他全部不明。漫畫110話，奇多的黃泉三徒線第三條線在鬼神阿修羅的刺激下連接起來，死神死亡。
     '''※ 在動畫版第四十七集，利用「Brew」將Death
     City變化成超巨大的機器人，和蜘蛛恐怖一較高下；並將鬼神捉入死神房間內，決議要將鬼神消滅。但最後爲了保護在旁觀戰的奇多等人而利用身體擋下了鬼神的攻擊而身負重傷，爾後並無大礙。而奇多的黃泉三徒線全連起來時，死神並沒有因此死亡。
     ※ '''
@@ -546,7 +547,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **石中聖劍**〔エクスカリバー/ Ex
-    calibur〕（聲：日本：[子安武人](../Page/子安武人.md "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；香港：[李錦綸](../Page/李錦綸.md "wikilink")）
+    calibur〕（聲：日本：[子安武人](../Page/子安武人.md "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；香港：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")）
 
 <!-- end list -->
 
@@ -609,14 +610,14 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 策劃第一代鬼神復活派
 
   - **梅杜莎**〔メデューサ/ Medusa
-    Gorgon〕（聲：日本：[桑島法子](../Page/桑島法子.md "wikilink")；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[許盈](../Page/許盈.md "wikilink")）
+    Gorgon〕（聲：日本：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[許盈](../Page/許盈.md "wikilink")）
 
 <!-- end list -->
 
   -
     全名「**Medusa
-    Gorgon**」，名字來源為希臘神話故事中的蛇髮女妖[梅杜莎](../Page/梅杜莎.md "wikilink")。由蛇變化而成的魔女，也是黑血的研究者，並注入黑血到可樂那體內作黑血研究。個性陰險、詭計多端，將魔法蛇放進艾璐卡的體內，威脅艾璐卡替她做事。為了觀察-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-、武器和死武專的架構而混入死武專當保健老師。後來救出「魔眼之男」當同伴協助她參與復活第一代鬼神阿修羅的行動。她雖成功令阿修羅復活，卻被斯坦和死神之鎌打敗，只好苟延殘喘的製造出蛇分身，附身於一個小女孩身上。梅杜莎和亞拉克涅是姐妹，並於多年前出賣了對方。
-    主要能力是使用矢量箭，數量和破壞力都相當驚人，缺點是間隙容易被掌握。另外就是操縱[三度空間的](../Page/三度空間.md "wikilink")[矢量](../Page/矢量.md "wikilink")，能夠使[功產生](../Page/功.md "wikilink")[加速度增加物理破壞力](../Page/加速度.md "wikilink")，另外還能甩開物體。
+    Gorgon**」，名字來源為希臘神話故事中的蛇髮女妖[梅杜莎](https://zh.wikipedia.org/wiki/梅杜莎 "wikilink")。由蛇變化而成的魔女，也是黑血的研究者，並注入黑血到可樂那體內作黑血研究。個性陰險、詭計多端，將魔法蛇放進艾璐卡的體內，威脅艾璐卡替她做事。為了觀察-{zh-hant:職人;zh-hk:工匠;zh-tw:職人;zh-hans:職人;zh-mo:職人;}-、武器和死武專的架構而混入死武專當保健老師。後來救出「魔眼之男」當同伴協助她參與復活第一代鬼神阿修羅的行動。她雖成功令阿修羅復活，卻被斯坦和死神之鎌打敗，只好苟延殘喘的製造出蛇分身，附身於一個小女孩身上。梅杜莎和亞拉克涅是姐妹，並於多年前出賣了對方。
+    主要能力是使用矢量箭，數量和破壞力都相當驚人，缺點是間隙容易被掌握。另外就是操縱[三度空間的](https://zh.wikipedia.org/wiki/三度空間 "wikilink")[矢量](https://zh.wikipedia.org/wiki/矢量 "wikilink")，能夠使[功產生](../Page/功.md "wikilink")[加速度增加物理破壞力](../Page/加速度.md "wikilink")，另外還能甩開物體。
     據梅杜莎所說，亞拉克涅抓走了可樂那，而令梅杜莎主動向死武專投降，並成為攻打帕帕‧耶加之城之戰的統帥，現在則佔據姐姐亞拉克涅的身體。
     在漫画87话，因為可樂那完成了90%的黑血研究而對他溫柔，卻因為「溫柔」而被可樂那殺死。臨死前的梅杜莎露出險惡的笑容，並稱讚可樂那終於拋棄掉所有的感情而完成了黑血。
     **※ 動畫版第45集中，梅杜莎被摩訶利用「退魔波長」將之擊倒。在死前告訴摩訶等人退魔波長雖殺得死她，但無法殺死鬼神！※**
@@ -639,7 +640,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    參見[\#其他學生](../Page/#其他學生.md "wikilink")
+    參見[\#其他學生](https://zh.wikipedia.org/wiki/#其他學生 "wikilink")
 
 <!-- end list -->
 
@@ -648,11 +649,11 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    參見[\#其他學生](../Page/#其他學生.md "wikilink")
+    參見[\#其他學生](https://zh.wikipedia.org/wiki/#其他學生 "wikilink")
 
 <!-- end list -->
 
-  - **艾璐卡**（聲：日本：[福圓美里](../Page/福圓美里.md "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[楊善諭](../Page/楊善諭.md "wikilink")→[黃紫嫻](../Page/黃紫嫻.md "wikilink")）
+  - **艾璐卡**（聲：日本：[福圓美里](../Page/福圓美里.md "wikilink")；臺灣：[黃珽筠](../Page/黃珽筠.md "wikilink")；香港：[楊善諭](../Page/楊善諭.md "wikilink")→[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 <!-- end list -->
 
@@ -664,9 +665,9 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 
 <!-- end list -->
 
-  - **[自由人（魔眼之男）](../Page/自由人_\(SOUL_EATER\).md "wikilink")**〔フリー（魔眼の男）/
+  - **[自由人（魔眼之男）](https://zh.wikipedia.org/wiki/自由人_\(SOUL_EATER\) "wikilink")**〔フリー（魔眼の男）/
     Free (the man with the demon
-    eye)〕（聲：日本：[西凜太朗](../Page/西凜太朗.md "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
+    eye)〕（聲：日本：[西凜太朗](https://zh.wikipedia.org/wiki/西凜太朗 "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
 
@@ -701,7 +702,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 恐怖蜘蛛
 
   - **亞拉克涅**〔アラクネ/
-    Arachne〕（聲：日本：[根谷美智子](../Page/根谷美智子.md "wikilink")；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[曾佩儀](../Page/曾佩儀.md "wikilink")）
+    Arachne〕（聲：日本：[根谷美智子](../Page/根谷美智子.md "wikilink")；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）
 
 <!-- end list -->
 
@@ -717,12 +718,12 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    參見[\#諾亞軍團](../Page/#諾亞軍團.md "wikilink")
+    參見[\#諾亞軍團](https://zh.wikipedia.org/wiki/#諾亞軍團 "wikilink")
 
 <!-- end list -->
 
   - **摩司基德**〔モスキート/
-    Mosquito〕（聲：日本：[稻垣隆史](../Page/稻垣隆史.md "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
+    Mosquito〕（聲：日本：[稻垣隆史](https://zh.wikipedia.org/wiki/稻垣隆史 "wikilink")；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
 
@@ -737,7 +738,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   -
-    全名「**安琪拉‧雷恩**」。天真無邪的小魔女，受米夫內保護，米夫內消失後則由死武專保護。（頭上的帽子似乎是[蠑螈](../Page/蠑螈.md "wikilink")）
+    全名「**安琪拉‧雷恩**」。天真無邪的小魔女，受米夫內保護，米夫內消失後則由死武專保護。（頭上的帽子似乎是[蠑螈](https://zh.wikipedia.org/wiki/蠑螈 "wikilink")）
 
 <!-- end list -->
 
@@ -812,15 +813,15 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 <!-- end list -->
 
   - **賈斯丁‧洛**〔ジャスティン＝ロウ / Justin
-    Law）（聲：日本：[藤田圭宣](../Page/藤田圭宣.md "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")→[李致林](../Page/李致林.md "wikilink")）
+    Law）（聲：日本：[藤田圭宣](https://zh.wikipedia.org/wiki/藤田圭宣 "wikilink")；臺灣：[何志威](../Page/何志威.md "wikilink")；香港：[梁偉德](../Page/梁偉德.md "wikilink")→[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
   -
-    死神武器之一，[歐洲的負責人](../Page/歐洲.md "wikilink")，穿著和神父一樣。13歲就不依靠職人獨力成為了Death
+    死神武器之一，[歐洲的負責人](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，穿著和神父一樣。13歲就不依靠職人獨力成為了Death
     Scythe，是歷史上最年輕的Death
     Scythe。現年17歲。實體為[斷頭台](../Page/斷頭台.md "wikilink")。是個獨行俠，即使沒有職人也能戰鬥。可以利用禱告來增強靈魂波長。雖然常聽著音樂而聽不到別人的話，但他懂得讀唇語，可是往往沒看到或是解讀錯誤(不知是否為刻意)。有「和噪音一起出現的行刑者」稱號。
-    漫畫版裡殺死B‧J的兇手，受到了狂氣的感染.但具體感染時間不明，據斯坦博士所言.是因為孤獨的賈斯汀除了對規律的信仰之外一無所有.因此被看不到在完成自己貫徹規律的職責後的未來的恐懼擊垮而墜入狂氣.其中一技「捍衛律法的銀槍」在「[B壹](../Page/B壹.md "wikilink")」（作者另一作品）中的七海陽平使用的槍名字相同。
+    漫畫版裡殺死B‧J的兇手，受到了狂氣的感染.但具體感染時間不明，據斯坦博士所言.是因為孤獨的賈斯汀除了對規律的信仰之外一無所有.因此被看不到在完成自己貫徹規律的職責後的未來的恐懼擊垮而墜入狂氣.其中一技「捍衛律法的銀槍」在「[B壹](https://zh.wikipedia.org/wiki/B壹 "wikilink")」（作者另一作品）中的七海陽平使用的槍名字相同。
     漫畫版和索爾一同加入諾亞的陣營，實際上他只是利用諾亞來得知鬼神的行蹤。
     被「誘死者」特斯卡‧托裡伯卡視為好友，兩人相處的畫面都是一副賈斯汀似乎在靜靜地聽特斯卡暢所欲言的樣子。但實際上卻因為自己戴著耳機，而對方戴著頭套無法讀唇而沒有接收到對方的好意
     與迪斯卡·特里波卡交戰時左邊臉頰與左肩上被高熱光束燒毀。在月面戰爭時被斯坦博士與瑪莉用雷綱所殺。
@@ -828,7 +829,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 其他
 
   - **布蕾亞**〔ブレア/
-    Blair〕（聲：日本：[笹本優子](../Page/笹本優子.md "wikilink")（廣播劇）／[加藤英美里](../Page/加藤英美里.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[梁少霞](../Page/梁少霞.md "wikilink")）
+    Blair〕（聲：日本：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")（廣播劇）／[加藤英美里](../Page/加藤英美里.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 <!-- end list -->
 

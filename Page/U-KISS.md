@@ -1,28 +1,28 @@
-**U-KISS**（），是[韓國男子團體](../Page/韓國.md "wikilink")，由經紀公司[NH
-Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**基燮**、**Eli**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](../Page/金起範_\(1990年生\).md "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出。\[1\]。2017年3月，**Kevin**約滿退出。U-KISS的名稱代表著「Ubiquitous
+**U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH
+Media於](https://zh.wikipedia.org/wiki/NH_Media "wikilink")2008年成立。成員包括**秀鉉**、**基燮**、**Eli**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出。\[1\]。2017年3月，**Kevin**約滿退出。U-KISS的名稱代表著「Ubiquitous
 Korean International（Idol） Super Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
 
 ## 成員資料
 
-| 成员列表                                       |
-| ------------------------------------------ |
-| 藝名                                         |
-| 藝名                                         |
-| 秀鉉                                         |
-| [基燮](../Page/李基燮.md "wikilink")            |
-| Eli                                        |
-| Kim Kyong Jae                              |
-| Hoon                                       |
-| [Jun](../Page/李濬荣.md "wikilink")           |
-| 已离开成员列表                                    |
-| 藝名                                         |
-| 藝名                                         |
-| [亞歷山大](../Page/亞歷山大·李·尤西比奧.md "wikilink")  |
-| [起範](../Page/金起範_\(1990年生\).md "wikilink") |
-| AJ                                         |
-| Kevin                                      |
-| Woo Sung Hyun                              |
-| 東澔                                         |
+| 成员列表                                                          |
+| ------------------------------------------------------------- |
+| 藝名                                                            |
+| 藝名                                                            |
+| 秀鉉                                                            |
+| [基燮](https://zh.wikipedia.org/wiki/李基燮 "wikilink")            |
+| Eli                                                           |
+| Kim Kyong Jae                                                 |
+| Hoon                                                          |
+| [Jun](https://zh.wikipedia.org/wiki/李濬荣 "wikilink")           |
+| 已离开成员列表                                                       |
+| 藝名                                                            |
+| 藝名                                                            |
+| [亞歷山大](https://zh.wikipedia.org/wiki/亞歷山大·李·尤西比奧 "wikilink")  |
+| [起範](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink") |
+| AJ                                                            |
+| Kevin                                                         |
+| Woo Sung Hyun                                                 |
+| 東澔                                                            |
 
 ### 成員變遷時序表
 
@@ -92,20 +92,20 @@ PlotData =
 ## 經歷
 
   - 8月在韓國M-NET電視台《M\!
-    countdown》中正式出道，組成時只有6個人，其中[Kevin和](../Page/禹成賢.md "wikilink")[起範是另一組合Xing的前成員](../Page/金起範_\(1990年生\).md "wikilink")。
+    countdown》中正式出道，組成時只有6個人，其中[Kevin和](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")[起範是另一組合Xing的前成員](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。
   - 首張迷你專輯《[New
-    Generation](../Page/New_Generation.md "wikilink")》主打曲目《不再年幼（어리지않아）》，是融合了典型K-pop以及Dirty
+    Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》主打曲目《不再年幼（어리지않아）》，是融合了典型K-pop以及Dirty
     South的南方風格歌曲。
 
 <!-- end list -->
 
   - 與前作《[New
-    Generation](../Page/New_Generation.md "wikilink")》相隔約5個月，U-KISS以第二張迷你專輯《[Bring
+    Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")》相隔約5個月，U-KISS以第二張迷你專輯《[Bring
     It Back 2 Old
-    School](../Page/Bring_It_Back_2_Old_School.md "wikilink")》回歸，主打曲目為《喜歡你（니가
+    School](https://zh.wikipedia.org/wiki/Bring_It_Back_2_Old_School "wikilink")》回歸，主打曲目為《喜歡你（니가
     좋아）》
   - 2009年9月，U-KISS加盟[東亞唱片](../Page/東亞唱片_\(集團\).md "wikilink")，成為第一隊簽約海外唱片公司的韓國組合。
-  - 2009年11月，U-KISS以第三張迷你專輯《[CONTIUKISS](../Page/CONTIUKISS.md "wikilink")》回歸，並加入新成員[李基燮](../Page/李基燮.md "wikilink")。
+  - 2009年11月，U-KISS以第三張迷你專輯《[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")》回歸，並加入新成員[李基燮](https://zh.wikipedia.org/wiki/李基燮 "wikilink")。
       - 第三張迷你專輯主打曲目《好欺負嗎（만만하니）》成功的打響了U-KISS在韓國舞台的知名度，富有電子舞曲風格的旋律及MV舞蹈中帥氣的眼神，讓首波主打歌成功攻佔了韓國單曲排行榜KPOP幾週。
 
 <!-- end list -->
@@ -119,9 +119,9 @@ PlotData =
 <!-- end list -->
 
   - 2011年2月，NH
-    Media宣佈亞歷山大與[起範退出組合](../Page/金起範_\(1990年生\).md "wikilink")，而Hoon與AJ代替二人成為新成員。在經紀公司精心打造下，U-KISS渴望成為一個國際組合。
+    Media宣佈亞歷山大與[起範退出組合](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")，而Hoon與AJ代替二人成為新成員。在經紀公司精心打造下，U-KISS渴望成為一個國際組合。
   - 2011年3月，U-KISS以第五張迷你專輯《[Bran New
-    KISS](../Page/Bran_New_KISS.md "wikilink")》回歸。主打曲目《0330》有別於前幾作，充分表現出U-KISS的唱功，推出後獲得高度的喜愛
+    KISS](https://zh.wikipedia.org/wiki/Bran_New_KISS "wikilink")》回歸。主打曲目《0330》有別於前幾作，充分表現出U-KISS的唱功，推出後獲得高度的喜愛
   - 2011年9月以正規2輯《[NEVERLAND](../Page/NEVERLAND.md "wikilink")》回歸，主打曲目《Neverland》也是U-KISS的知名作品，強而有力的舞蹈吸引了不少粉絲，擠進各大音樂節目的前7名。
   - 2011年12月，U-KISS於日本正式出道，第一張原創日語單曲《[Tick
     Tack](../Page/Tick_Tack.md "wikilink")》於公信榜單曲週排行榜取得第5位，令U-KISS在日本成功取下佳績，2011的年尾可說是U-KISS大活躍的超級時期。
@@ -135,7 +135,7 @@ PlotData =
   - 為了感謝KISSME們熱烈支持，U-KISS在繁忙的日本行程中又抽空錄了特別專輯《[The Special To
     KISSME](../Page/The_Special_To_KISSME.md "wikilink")》，主打曲目《Believe》由成員AJ監製，同樣受到熱烈歡迎。
   - 同年7月，發行第三張原創日語單曲《[Dear My
-    Friend](../Page/Dear_My_Friend_\(U-KISS單曲\).md "wikilink")》，並宣佈8月會出席[A-nation](../Page/A-nation.md "wikilink")「music
+    Friend](../Page/Dear_My_Friend_\(U-KISS單曲\).md "wikilink")》，並宣佈8月會出席[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")「music
     week - Asia Progress M」和「statium fes.」
   - 同年9月，成員AJ將會暫時離隊，以便專心學業。而9月的[日本武道館演唱會和第七張迷你專輯](../Page/日本武道館.md "wikilink")《[Stop
     Girl](../Page/Stop_Girl.md "wikilink")》的回歸，他亦不會參與。第四張原創日語單曲《[One of
@@ -144,7 +144,7 @@ PlotData =
 
 <!-- end list -->
 
-  - 2013年2月，U-KISS發行第六張原創日語單曲《[ALONE](../Page/ALONE_\(U-KISS單曲\).md "wikilink")》，為[NHK電視劇](../Page/NHK.md "wikilink")「[書店員美智留的遭遇](../Page/書店員美智留的遭遇.md "wikilink")」的主題曲
+  - 2013年2月，U-KISS發行第六張原創日語單曲《[ALONE](../Page/ALONE_\(U-KISS單曲\).md "wikilink")》，為[NHK電視劇](https://zh.wikipedia.org/wiki/NHK "wikilink")「[書店員美智留的遭遇](../Page/書店員美智留的遭遇.md "wikilink")」的主題曲
   - 同年3月，U-KISS以正規3輯《[COLLAGE](../Page/COLLAGE.md "wikilink")》回歸，主打曲目為《Standing
     Still》。
       - 此專輯是成員AJ歸隊後，U-KISS重新以七人形式參與演唱的專輯。
@@ -154,7 +154,7 @@ PlotData =
     Me](../Page/Inside_øf_Me.md "wikilink")》，並舉行全國巡迴演唱會《U-KISS JAPAN
     LIVE TOUR 2013 ～Inside øf Me～》。
   - 2013年10月，NH
-    Media宣佈U-KISS將會以迷你專輯《[MOMENTS](../Page/MOMENTS_\(U-KISS專輯\).md "wikilink")》回歸，同時亦宣佈[東澔以健康為理由](../Page/申東澔.md "wikilink")，決定退團。U-KISS將以六人形式進行以後的活動。
+    Media宣佈U-KISS將會以迷你專輯《[MOMENTS](../Page/MOMENTS_\(U-KISS專輯\).md "wikilink")》回歸，同時亦宣佈[東澔以健康為理由](https://zh.wikipedia.org/wiki/申東澔 "wikilink")，決定退團。U-KISS將以六人形式進行以後的活動。
 
 <!-- end list -->
 
@@ -194,7 +194,7 @@ PlotData =
     2016～5th Anniversary Special～supported by
     CHIC-Smart》以宣傳五周年日語精選輯《[U-KISS JAPAN BEST
     COLLECTION
-    2011-2016](../Page/U-KISS_JAPAN_BEST_COLLECTION_2011-2016.md "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
+    2011-2016](https://zh.wikipedia.org/wiki/U-KISS_JAPAN_BEST_COLLECTION_2011-2016 "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
 
 <!-- end list -->
 
@@ -204,16 +204,16 @@ PlotData =
   - 2017年4月25日， Kevin正式退團，U-KISS其後以五人形式進行以後的活動，經紀公司亦表示不會再增加新人。
   - 2017年9月6日，基燮於拍攝預定於10月回歸的MV時，手上的煙霧彈突然爆炸，造成爆炸二度灼傷，鼻樑、眼睛及身上扎入了數十塊碎片，被緊急移送到仁川的一間醫院接受治療。
   - 2017年9月30日，U-KISS發表第十四張日語單曲《FLY》的MV，並於10月11日開賣，於日本公信榜周榜獲得第五。
-  - 2017年10月11日，Jun首次參演電視劇《[付岩洞復仇者們](../Page/付岩洞復仇者們.md "wikilink")》，並因為其細緻的演技與出眾的外貌，Jun開始獲得關注和討論。
+  - 2017年10月11日，Jun首次參演電視劇《[付岩洞復仇者們](https://zh.wikipedia.org/wiki/付岩洞復仇者們 "wikilink")》，並因為其細緻的演技與出眾的外貌，Jun開始獲得關注和討論。
   - 2017年10月28日，Jun參加了MBC選秀節目《[The
-    Unit](../Page/The_Unit.md "wikilink")》，並以Superboot的成績被選拔。
+    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，並以Superboot的成績被選拔。
   - 2017年12月28日，隊長秀鉉在成員和同事陪伴下低調入伍，U-KISS則暫時以四人形式進行以後的活動。
 
 <!-- end list -->
 
-  - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](../Page/Link_\(U-KISS專輯\).md "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
+  - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](https://zh.wikipedia.org/wiki/Link_\(U-KISS專輯\) "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
   - 2018年2月11日，在選秀節目《The
-    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
+    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB出道](https://zh.wikipedia.org/wiki/UNB "wikilink")，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
   - 2018年3月8日，U-KISS發表《Link》中主打歌《No
     Regret》的MV，《Link》亦於3月21日開賣，於日本公信榜周榜獲得第四。
   - 2018年5月2日，U-KISS的日本官方網站宣布基燮與Hoon組成小組，將在7月4日發行日語合作單曲《Train/Milk
@@ -265,7 +265,7 @@ Eli</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>皇室家族</p></td>
 <td><p>東澔</p></td>
 <td></td>
@@ -286,7 +286,7 @@ Hoon</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><a href="../Page/channel_A.md" title="wikilink">channel A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/channel_A" title="wikilink">channel A</a></p></td>
 <td><p>KPOP最强生死战</p></td>
 <td><p>秀铉<br />
 基燮<br />
@@ -299,7 +299,7 @@ Kevin</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/漂亮男人.md" title="wikilink">漂亮男人</a></p></td>
 <td><p>Hoon</p></td>
 <td><p>金大植</p></td>
@@ -308,7 +308,7 @@ Kevin</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Mental Shooter</p></td>
 <td><p>Kevin、Eli</p></td>
 <td></td>
@@ -335,8 +335,8 @@ Kevin</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/一起用餐吧2.md" title="wikilink">一起用餐吧2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一起用餐吧2" title="wikilink">一起用餐吧2</a></p></td>
 <td><p>Kevin</p></td>
 <td><p>特別出演</p></td>
 <td><p>特別出演</p></td>
@@ -344,7 +344,7 @@ Kevin</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="../Page/我們家蜜罈子.md" title="wikilink">我們家蜜罈子</a></p></td>
 <td><p>Hoon</p></td>
 <td><p>安守浩</p></td>
@@ -363,7 +363,7 @@ Kevin</p></td>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
-<td><p><a href="../Page/付岩洞復仇者們.md" title="wikilink">付岩洞復仇者們</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/付岩洞復仇者們" title="wikilink">付岩洞復仇者們</a></p></td>
 <td><p>Jun</p></td>
 <td><p>李秀謙</p></td>
 <td><p>主要演員</p></td>
@@ -371,8 +371,8 @@ Kevin</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
-<td><p><a href="../Page/離別已別離.md" title="wikilink">離別已別離</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/離別已別離" title="wikilink">離別已別離</a></p></td>
 <td><p>Jun</p></td>
 <td><p>韓敏秀</p></td>
 <td><p>主要演員</p></td>
@@ -401,7 +401,7 @@ Kevin</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/我的黑色小禮服.md" title="wikilink">我的黑色小禮服</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的黑色小禮服" title="wikilink">我的黑色小禮服</a></p></td>
 <td><p>東澔</p></td>
 <td><p>俞勝元</p></td>
 <td><p>客串</p></td>
@@ -415,7 +415,7 @@ Kevin</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/偶像先生.md" title="wikilink">偶像先生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偶像先生" title="wikilink">偶像先生</a></p></td>
 <td><p>秀鉉<br />
 基燮<br />
 Hoon<br />
@@ -437,9 +437,9 @@ Hoon<br />
 
 ### 綜藝節目
 
-| 日期                     | 節目名稱                                             | 成員  | 備註     |
-| ---------------------- | ------------------------------------------------ | --- | ------ |
-| 2017年10月28日-2018年2月10日 | KBS 《[The Unit](../Page/The_Unit.md "wikilink")》 | JUN | ep1-15 |
+| 日期                     | 節目名稱                                                                | 成員  | 備註     |
+| ---------------------- | ------------------------------------------------------------------- | --- | ------ |
+| 2017年10月28日-2018年2月10日 | KBS 《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》 | JUN | ep1-15 |
 
 ### 錄製中
 
@@ -486,7 +486,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張迷你專輯《<strong>New Generation</strong>》</p>
 <ul>
 <li>發行日期：2008年9月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -495,7 +495,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第二張迷你專輯《<strong>Bring It Back 2 Old School</strong>》</p>
 <ul>
 <li>發行日期：2009年2月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -504,7 +504,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第三張迷你專輯《<strong>CONTIUKISS</strong>》</p>
 <ul>
 <li>發行日期：2009年11月6日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -513,7 +513,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第四張迷你專輯《<strong>BREAK TIME</strong>》</p>
 <ul>
 <li>發行日期：2010年10月4日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td><p>{{hidden|曲目|</p>
 <ol>
@@ -526,7 +526,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第五張迷你專輯《<strong>Bran New KISS</strong>》</p>
 <ul>
 <li>發行日期：2011年3月30日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -535,7 +535,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第六張迷你專輯《<strong>DORADORA</strong>》</p>
 <ul>
 <li>發行日期：2012年4月25日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -544,7 +544,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第七張迷你專輯《<strong>Stop Girl</strong>》</p>
 <ul>
 <li>發行日期：2012年9月20日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -553,7 +553,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第八張迷你專輯《<strong>MOMENTS</strong>》</p>
 <ul>
 <li>發行日期：2013年10月31日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -562,7 +562,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第九張迷你專輯《<strong>MONO SCANDAL</strong>》</p>
 <ul>
 <li>發行日期：2014年6月2日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -571,7 +571,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十張迷你專輯《<strong>Always</strong>》</p>
 <ul>
 <li>發行日期：2015年1月23日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -580,7 +580,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十一張迷你專輯《<strong>STALKER</strong>》</p>
 <ul>
 <li>發行日期：2016年6月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -603,7 +603,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張特別迷你專輯《<strong>The Special To KISSME</strong>》</p>
 <ul>
 <li>發行日期：2012年6月5日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -626,7 +626,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張正規專輯《<strong>ONLY ONE</strong>》</p>
 <ul>
 <li>發行日期：2010年2月3日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -635,7 +635,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第二張正規專輯《<strong>NEVERLAND</strong>》</p>
 <ul>
 <li>發行日期：2011年9月1日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -644,7 +644,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第三張正規專輯《<strong>COLLAGE</strong>》</p>
 <ul>
 <li>發行日期：2013年3月7日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -667,7 +667,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張日文單曲《<strong>Tick Tack</strong>》</p>
 <ul>
 <li>發行日期：2011年12月14日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -676,7 +676,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第二張單曲《<strong>Forbidden Love</strong>》</p>
 <ul>
 <li>發行日期：2012年2月29日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -685,7 +685,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第三張單曲《<strong>Dear My Friend</strong>》</p>
 <ul>
 <li>發行日期：2012年7月25日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -694,7 +694,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第四張單曲《<strong>One of You</strong>》</p>
 <ul>
 <li>發行日期：2012年9月5日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -703,7 +703,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第五張單曲《<strong>Distance...</strong>》</p>
 <ul>
 <li>發行日期：2012年12月12日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -712,7 +712,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第六張單曲《<strong>ALONE</strong>》</p>
 <ul>
 <li>發行日期：2013年2月13日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -721,7 +721,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第七張單曲《<strong>Fall in Love / Shape of your heart</strong>》</p>
 <ul>
 <li>發行日期：2013年12月18日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -730,7 +730,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第八張單曲《<strong>Break up</strong>》</p>
 <ul>
 <li>發行日期：2014年2月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -739,7 +739,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第九張單曲《<strong>LOVE ON U</strong>》</p>
 <ul>
 <li>發行日期：2014年7月16日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -748,7 +748,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十張單曲《<strong>Sweetie</strong>》</p>
 <ul>
 <li>發行日期：2014年12月17日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -757,7 +757,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十一張單曲《<strong>Stay Gold</strong>》</p>
 <ul>
 <li>發行日期：2015年9月9日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -766,7 +766,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十二張單曲《<strong>Kissing to feel</strong>》</p>
 <ul>
 <li>發行日期：2016年2月24日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -775,7 +775,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十三張單曲《<strong>PaNiC!</strong>》</p>
 <ul>
 <li>發行日期：2016年11月16日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -784,7 +784,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十四張單曲《<strong>FLY</strong>》</p>
 <ul>
 <li>發行日期：2017年10月11日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -793,7 +793,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第十五張單曲《<strong>SCANDAL</strong>》</p>
 <ul>
 <li>發行日期：2018年10月10日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -816,7 +816,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張日文迷你專輯《<strong>THE CHRISTMAS ALBUM</strong>》</p>
 <ul>
 <li>發行日期：2015年12月23日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -839,7 +839,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張日文專輯《<strong>A Shared Dream</strong>》</p>
 <ul>
 <li>發行日期：2012年2月29日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>{{hidden|初回A盤| [CD收錄內容]</p>
 <ol>
@@ -854,7 +854,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第二張日文專輯《<strong>Inside øf Me</strong>》</p>
 <ul>
 <li>發行日期：2013年7月24日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -863,7 +863,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第三張日文專輯《<strong>Memories</strong>》</p>
 <ul>
 <li>發行日期：2014年3月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -872,7 +872,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第四張日文專輯《<strong>Action</strong>》</p>
 <ul>
 <li>發行日期：2015年3月18日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -881,7 +881,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第五張日文專輯《<strong>One Shot One Kill</strong>》</p>
 <ul>
 <li>發行日期：2016年3月23日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -890,7 +890,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>SOLO及分隊日文專輯《<strong>U-KISS solo&amp;unit ALBUM</strong>》</p>
 <ul>
 <li>發行日期：2017年3月15日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>{{hidden|CD＋Blu-ray / DVD盤| [CD收錄內容]</p>
 <ol>
@@ -915,7 +915,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>SOLO及分隊日文專輯《<strong>Link</strong>》</p>
 <ul>
 <li>發行日期：2018年3月21日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td><p>{{hidden|CD＋Blu-ray / DVD盤| [CD收錄內容]</p>
 <ol>
@@ -973,7 +973,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>第六張日文專輯《<strong>Glory</strong>》</p>
 <ul>
 <li>發行日期：2018年12月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1019,7 +1019,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p><strong>U-KISS Days in Japan Vol.1</strong></p>
 <ul>
 <li>發行日期：2012年3月28日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1047,7 +1047,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>首張迷你專輯《<strong>應該更好的對待你</strong>》（있을 때 잘해 줄 걸）</p>
 <ul>
 <li>發行日期：2013年4月22日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1070,7 +1070,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>秀鉉首張日文單曲《<strong>你是唯一</strong>》（君だけを）</p>
 <ul>
 <li>發行日期：2015年8月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1154,22 +1154,26 @@ Arirang TV《Simply K-Pop》MC Eli
 ### 其他單曲
 
   -
-    2010年 KBS《[國家在召喚](../Page/國家在召喚.md "wikilink")》OST〈我可以做到〉
-    2010年 SBS Plus《[挑戰英雄](../Page/挑戰英雄.md "wikilink")》OST〈Hero〉
+    2010年
+    KBS《[國家在召喚](https://zh.wikipedia.org/wiki/國家在召喚 "wikilink")》OST〈我可以做到〉
+    2010年 SBS
+    Plus《[挑戰英雄](https://zh.wikipedia.org/wiki/挑戰英雄 "wikilink")》OST〈Hero〉
     2010年 第23回 世界禁煙日 禁煙大使的主題曲
     2011年 MBC《[Real
-    School](../Page/Real_School.md "wikilink")》OST〈Always〉、〈Kiss Me〉
-    2011年 電影《[偶像先生](../Page/偶像先生.md "wikilink")》OST〈망가져가（壞死）〉
+    School](https://zh.wikipedia.org/wiki/Real_School "wikilink")》OST〈Always〉、〈Kiss
+    Me〉
+    2011年
+    電影《[偶像先生](https://zh.wikipedia.org/wiki/偶像先生 "wikilink")》OST〈망가져가（壞死）〉
     2012年 Alexander〈I Just〉
     2012年〈Lifetime For kiss me〉MV
     2012年 jTBC《[综合症](../Page/症候群_\(電視劇\).md "wikilink")》OST〈Remember〉
     2012年 日本动漫電影《翡翠森林狼与羊》OST〈Dear My Friend〉
     2012年 秀鉉solo數位單曲《雪人》
     2017年 KBS
-    2TV《[Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")》OST
+    2TV《[Manhole：夢遊仙境的奉弼](https://zh.wikipedia.org/wiki/Manhole：夢遊仙境的奉弼 "wikilink")》OST
     Part.5〈RUN A WAY〉
     2017年 合輯《Thank You Disney》收錄歌曲〈[Try
-    Everything](../Page/嘗試一切.md "wikilink")〉（翻唱《[優獸大都會](../Page/優獸大都會.md "wikilink")》主題曲）
+    Everything](../Page/嘗試一切.md "wikilink")〉（翻唱《[優獸大都會](https://zh.wikipedia.org/wiki/優獸大都會 "wikilink")》主題曲）
     2017年 數位單曲《Ready for U（널 맞이할 준비）》
     2017年 秀鉉入伍前solo日語數位單曲《YOURS》
     2017年 秀鉉入伍後solo韓語數位單曲《YOU》
@@ -1388,16 +1392,16 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>2008年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/New_Generation.md" title="wikilink">New Generation</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/New_Generation" title="wikilink">New Generation</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Bring_It_Back_2_Old_School.md" title="wikilink">Bring It Back 2 Old School</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bring_It_Back_2_Old_School" title="wikilink">Bring It Back 2 Old School</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CONTIUKISS.md" title="wikilink">CONTIUKISS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CONTIUKISS" title="wikilink">CONTIUKISS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年</p></td>
@@ -1412,7 +1416,7 @@ Arirang TV《Simply K-Pop》MC Eli
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Bran_New_KISS.md" title="wikilink">Bran New KISS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bran_New_KISS" title="wikilink">Bran New KISS</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NEVERLAND.md" title="wikilink">NEVERLAND</a></p></td>

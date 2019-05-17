@@ -1,11 +1,11 @@
 **JT
-Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")，隸屬於[日本煙草旗下](../Page/日本煙草.md "wikilink")，總部設於[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")（主場則設於[兵庫縣](../Page/兵庫縣.md "wikilink")[西宮市](../Page/西宮市.md "wikilink")），目前是女子組的球隊之一。現任主教練為[石原昭久](../Page/石原昭久.md "wikilink")。
+Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")，隸屬於[日本煙草旗下](https://zh.wikipedia.org/wiki/日本煙草 "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")（主場則設於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")），目前是女子組的球隊之一。現任主教練為[石原昭久](https://zh.wikipedia.org/wiki/石原昭久 "wikilink")。
 
 ## 過往戰績
 
   - V-Legaue排球聯賽V.Premier Legaue女子組
       - 亞軍（2006-2007球季）
-  - [黑鷲旗全日本排球錦標賽](../Page/黑鷲旗全日本排球錦標賽.md "wikilink")
+  - [黑鷲旗全日本排球錦標賽](https://zh.wikipedia.org/wiki/黑鷲旗全日本排球錦標賽 "wikilink")
       - 亞軍（2003年、2004年、2007年、2008年）
 
 ## 成員名單
@@ -24,7 +24,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><strong>1</strong></p></td>
-<td><p><a href="../Page/坂下麻衣子.md" title="wikilink">坂下麻衣子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂下麻衣子" title="wikilink">坂下麻衣子</a></p></td>
 <td><p>主攻</p></td>
 <td></td>
 </tr>
@@ -42,7 +42,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>4</strong></p></td>
-<td><p><a href="../Page/久保雅.md" title="wikilink">久保雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保雅" title="wikilink">久保雅</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
@@ -54,7 +54,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
-<td><p><a href="../Page/西山由樹.md" title="wikilink">西山由樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西山由樹" title="wikilink">西山由樹</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
@@ -66,13 +66,13 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>8</strong></p></td>
-<td><p><a href="../Page/高木理江.md" title="wikilink">高木理江</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高木理江" title="wikilink">高木理江</a></p></td>
 <td><p>主攻</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>9</strong></p></td>
-<td><p><a href="../Page/石川友紀.md" title="wikilink">石川友紀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石川友紀" title="wikilink">石川友紀</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
@@ -84,13 +84,13 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p><strong>11</strong></p></td>
-<td><p><a href="../Page/小酒翔子.md" title="wikilink">小酒翔子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小酒翔子" title="wikilink">小酒翔子</a></p></td>
 <td><p>自由人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>12</strong></p></td>
-<td><p><a href="../Page/西山慶樹.md" title="wikilink">西山慶樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西山慶樹" title="wikilink">西山慶樹</a></p></td>
 <td><p>主攻</p></td>
 <td></td>
 </tr>
@@ -102,43 +102,43 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>14</strong></p></td>
-<td><p><a href="../Page/遠藤りつこ.md" title="wikilink">遠藤りつこ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遠藤りつこ" title="wikilink">遠藤りつこ</a></p></td>
 <td><p>二傳</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>15</strong></p></td>
-<td><p><a href="../Page/川原麻實.md" title="wikilink">川原麻實</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川原麻實" title="wikilink">川原麻實</a></p></td>
 <td><p>主攻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>16</strong></p></td>
-<td><p><a href="../Page/神本千佳.md" title="wikilink">神本千佳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神本千佳" title="wikilink">神本千佳</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>17</strong></p></td>
-<td><p><a href="../Page/加藤千尋.md" title="wikilink">加藤千尋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加藤千尋" title="wikilink">加藤千尋</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>18</strong></p></td>
-<td><p><a href="../Page/河合由貴.md" title="wikilink">河合由貴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河合由貴" title="wikilink">河合由貴</a></p></td>
 <td><p>二傳</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>19</strong></p></td>
-<td><p><a href="../Page/千葉智枝美.md" title="wikilink">千葉智枝美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉智枝美" title="wikilink">千葉智枝美</a></p></td>
 <td><p>主攻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>-</strong></p></td>
-<td><p><a href="../Page/芥川愛加.md" title="wikilink">芥川愛加</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/芥川愛加" title="wikilink">芥川愛加</a></p></td>
 <td><p>副攻</p></td>
 <td></td>
 </tr>
@@ -161,7 +161,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>總教練</strong></p></td>
-<td><p><a href="../Page/石原昭久.md" title="wikilink">石原昭久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石原昭久" title="wikilink">石原昭久</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -201,7 +201,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 </tr>
 <tr class="odd">
 <td><p><strong>經理人</strong></p></td>
-<td><p><a href="../Page/千野葉子.md" title="wikilink">千野葉子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千野葉子" title="wikilink">千野葉子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -224,7 +224,7 @@ Marvelous**（）是一支[日本女子排球隊](../Page/日本.md "wikilink")�
 
 ## 隊服贊助
 
-  - [asics](../Page/asics.md "wikilink")
+  - [asics](https://zh.wikipedia.org/wiki/asics "wikilink")
 
 ## 外部連結
 

@@ -1,4 +1,4 @@
-**China**（**中國合唱團**）是來自[瑞士的](../Page/瑞士.md "wikilink")[硬式搖滾樂團](../Page/硬式搖滾.md "wikilink")，成立於1980年代，初始成員包括鼓手John
+**China**（**中國合唱團**）是來自[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[硬式搖滾樂團](../Page/硬式搖滾.md "wikilink")，成立於1980年代，初始成員包括鼓手John
 Dommen、兩位吉他手Claudio Matteo & Freddy Laurence、貝斯手Marc Lynn以及主唱Math
 Shiverow。
 
@@ -26,9 +26,11 @@ Shiverow。
 
 ### 專輯
 
-  - [China](../Page/China_\(China_album\).md "wikilink") (1988)
+  - [China](https://zh.wikipedia.org/wiki/China_\(China_album\) "wikilink")
+    (1988)
   - [Sign In The
-    Sky](../Page/Sign_In_The_Sky_China_album\).md "wikilink") (1989)
+    Sky](https://zh.wikipedia.org/wiki/Sign_In_The_Sky_China_album\) "wikilink")
+    (1989)
   - Live (1991)
   - Go All The Way (1991)
   - Natural Groove (1995)
@@ -36,9 +38,12 @@ Shiverow。
 
 ### 精選
 
-  - [So Far](../Page/So_Far_\(China_album\).md "wikilink") (1992)
+  - [So
+    Far](https://zh.wikipedia.org/wiki/So_Far_\(China_album\) "wikilink")
+    (1992)
   - [The Very Best
-    Of](../Page/The_Very_Best_Of_\(China_album\).md "wikilink") (2008)
+    Of](https://zh.wikipedia.org/wiki/The_Very_Best_Of_\(China_album\) "wikilink")
+    (2008)
 
 ### 單曲
 

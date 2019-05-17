@@ -1,14 +1,14 @@
 **BlackBerry OS**，是由[Research In
-Motion](../Page/Research_In_Motion.md "wikilink")（现为BlackBerry）為其[智能手機產品](../Page/智能手機.md "wikilink")[BlackBerry開發的專用](../Page/BlackBerry.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")。這一作業系統具有[多任務處理能力](../Page/多任務處理.md "wikilink")，並支持特定的輸入裝置，如[滾輪](../Page/滾輪.md "wikilink")、[軌跡球](../Page/軌跡球.md "wikilink")、[觸控板以及](../Page/觸控板.md "wikilink")[觸控式螢幕等](../Page/觸控式螢幕.md "wikilink")。BlackBerry平台最著名的莫過於它處理郵件的能力。該平台通過[MIDP](../Page/MIDP.md "wikilink")
+Motion](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")（现为BlackBerry）為其[智能手機產品](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[BlackBerry開發的專用](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。這一作業系統具有[多任務處理能力](https://zh.wikipedia.org/wiki/多任務處理 "wikilink")，並支持特定的輸入裝置，如[滾輪](https://zh.wikipedia.org/wiki/滾輪 "wikilink")、[軌跡球](https://zh.wikipedia.org/wiki/軌跡球 "wikilink")、[觸控板以及](https://zh.wikipedia.org/wiki/觸控板 "wikilink")[觸控式螢幕等](../Page/觸控式螢幕.md "wikilink")。BlackBerry平台最著名的莫過於它處理郵件的能力。該平台通過[MIDP](https://zh.wikipedia.org/wiki/MIDP "wikilink")
 1.0以及MIDP 2.0的子集，在與[BlackBerry Enterprise
-Server連接時](../Page/BlackBerry_Enterprise_Server.md "wikilink")，以無線的方式激活並與[Microsoft
-Exchange](../Page/Microsoft_Exchange.md "wikilink")，[Lotus
-Domino或](../Page/Lotus_Domino.md "wikilink")[Novell
-GroupWise同步郵件](../Page/Novell_GroupWise.md "wikilink")、任務、日程、備忘錄和聯絡人。該作業系統還支持[WAP](../Page/WAP.md "wikilink")
+Server連接時](https://zh.wikipedia.org/wiki/BlackBerry_Enterprise_Server "wikilink")，以無線的方式激活並與[Microsoft
+Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink")，[Lotus
+Domino或](https://zh.wikipedia.org/wiki/Lotus_Domino "wikilink")[Novell
+GroupWise同步郵件](https://zh.wikipedia.org/wiki/Novell_GroupWise "wikilink")、任務、日程、備忘錄和聯絡人。該作業系統還支持[WAP](https://zh.wikipedia.org/wiki/WAP "wikilink")
 1.2。
 
 2010年末數據顯示，BlackBerry
-OS在市場佔有率上已經超越稱霸逾十年的[諾基亞](../Page/諾基亞.md "wikilink")，僅次於[Google作業系統](../Page/Google.md "wikilink")[Android及](../Page/Android.md "wikilink")[蘋果公司作業系統](../Page/蘋果公司.md "wikilink")[iOS](../Page/iOS.md "wikilink")，成為全球第三大智慧型手機作業系統。
+OS在市場佔有率上已經超越稱霸逾十年的[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，僅次於[Google作業系統](../Page/Google.md "wikilink")[Android及](../Page/Android.md "wikilink")[蘋果公司作業系統](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，成為全球第三大智慧型手機作業系統。
 
 2013年，黑莓宣布，将使用[BlackBerry
 10取代現有的BlackBerry](../Page/BlackBerry_10.md "wikilink")
@@ -18,7 +18,7 @@ OS。\[1\]
 
 第三方軟件開發商可以利用[应用程序接口](../Page/应用程序接口.md "wikilink")（API）以及專有的BlackBerry
 API寫軟件。但任何應用程式，如需使它限制使用某些功能，必須附有數碼簽署（digitally
-signed），以便用戶能夠聯繫到[RIM公司的開發者的帳戶](../Page/RIM.md "wikilink")。這次簽署的程序能保障作者的申請，但並不能保證它的品質或安全代碼。
+signed），以便用戶能夠聯繫到[RIM公司的開發者的帳戶](https://zh.wikipedia.org/wiki/RIM "wikilink")。這次簽署的程序能保障作者的申請，但並不能保證它的品質或安全代碼。
 
 ## 當前版本
 
@@ -560,34 +560,40 @@ RIM開發並發布更新版本後，將由運營商決定是否發布給自己�
 
 <!-- end list -->
 
-  - [Andale Mono](../Page/Andale_Mono.md "wikilink")
+  - [Andale Mono](https://zh.wikipedia.org/wiki/Andale_Mono "wikilink")
   - [Arial](../Page/Arial.md "wikilink")
-  - [BBAlpha Sans](../Page/BBAlpha_Sans.md "wikilink")
+  - [BBAlpha
+    Sans](https://zh.wikipedia.org/wiki/BBAlpha_Sans "wikilink")
   - [BBAlpha Sans
-    Condensed](../Page/BBAlpha_Sans_Condensed.md "wikilink")
-  - [BBAlpha Serif](../Page/BBAlpha_Serif.md "wikilink")
-  - [BBCAPITALS](../Page/BBCAPITALS.md "wikilink")
-  - [BBCCasual](../Page/BBCCasual.md "wikilink")
-  - [BBClarity](../Page/BBClarity.md "wikilink")
+    Condensed](https://zh.wikipedia.org/wiki/BBAlpha_Sans_Condensed "wikilink")
+  - [BBAlpha
+    Serif](https://zh.wikipedia.org/wiki/BBAlpha_Serif "wikilink")
+  - [BBCAPITALS](https://zh.wikipedia.org/wiki/BBCAPITALS "wikilink")
+  - [BBCCasual](https://zh.wikipedia.org/wiki/BBCCasual "wikilink")
+  - [BBClarity](https://zh.wikipedia.org/wiki/BBClarity "wikilink")
 
 <!-- end list -->
 
-  - [BBCondensed](../Page/BBCondensed.md "wikilink")
-  - [BBGlobal Sans](../Page/BBGlobal_Sans.md "wikilink")
-  - [BBGlobal Serif](../Page/BBGlobal_Serif.md "wikilink")
-  - [BBMilbank](../Page/BBMilbank.md "wikilink")
-  - [BBMilbank Tall](../Page/BBMilbank_Tall.md "wikilink")
-  - [BBSansSerif](../Page/BBSansSerif.md "wikilink")
-  - [BBSansSerifSquare](../Page/BBSansSerifSquare.md "wikilink")
-  - [BBSerifFixed](../Page/BBSerifFixed.md "wikilink")
+  - [BBCondensed](https://zh.wikipedia.org/wiki/BBCondensed "wikilink")
+  - [BBGlobal
+    Sans](https://zh.wikipedia.org/wiki/BBGlobal_Sans "wikilink")
+  - [BBGlobal
+    Serif](https://zh.wikipedia.org/wiki/BBGlobal_Serif "wikilink")
+  - [BBMilbank](https://zh.wikipedia.org/wiki/BBMilbank "wikilink")
+  - [BBMilbank
+    Tall](https://zh.wikipedia.org/wiki/BBMilbank_Tall "wikilink")
+  - [BBSansSerif](https://zh.wikipedia.org/wiki/BBSansSerif "wikilink")
+  - [BBSansSerifSquare](https://zh.wikipedia.org/wiki/BBSansSerifSquare "wikilink")
+  - [BBSerifFixed](https://zh.wikipedia.org/wiki/BBSerifFixed "wikilink")
 
 <!-- end list -->
 
-  - [Comic Sans MS](../Page/Comic_Sans_MS.md "wikilink")
-  - [Courier New](../Page/Courier_New.md "wikilink")
-  - [Georgia](../Page/Georgia.md "wikilink")
-  - [Impact](../Page/Impact.md "wikilink")
-  - [Tahoma](../Page/Tahoma.md "wikilink")
+  - [Comic Sans
+    MS](https://zh.wikipedia.org/wiki/Comic_Sans_MS "wikilink")
+  - [Courier New](https://zh.wikipedia.org/wiki/Courier_New "wikilink")
+  - [Georgia](https://zh.wikipedia.org/wiki/Georgia "wikilink")
+  - [Impact](https://zh.wikipedia.org/wiki/Impact "wikilink")
+  - [Tahoma](https://zh.wikipedia.org/wiki/Tahoma "wikilink")
   - [Times New Roman](../Page/Times_New_Roman.md "wikilink")
   - [Trebuchet MS](../Page/Trebuchet_MS.md "wikilink")
   - [Verdana](../Page/Verdana.md "wikilink")

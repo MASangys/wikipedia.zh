@@ -1,8 +1,9 @@
 **hugin**是一款由Pablo
-d'Angelo为主开发的跨平台[开源](../Page/开源软件.md "wikilink")[全景摄影](../Page/全景摄影.md "wikilink")[图像拼接软件](../Page/图像拼接.md "wikilink")。它是基于[Helmut
-Dersch](../Page/Helmut_Dersch.md "wikilink")'s [Panorama
-Tools与Andrew](../Page/Panorama_Tools.md "wikilink")
-Mihal的*Enblend*及*Enfuse*的一款[图形化界面的前端程序](../Page/图形化界面.md "wikilink")。拼接允许几张在同一地点拍摄的互有重叠的照片使用
+d'Angelo为主开发的跨平台[开源](../Page/开源软件.md "wikilink")[全景摄影](https://zh.wikipedia.org/wiki/全景摄影 "wikilink")[图像拼接软件](https://zh.wikipedia.org/wiki/图像拼接 "wikilink")。它是基于[Helmut
+Dersch](https://zh.wikipedia.org/wiki/Helmut_Dersch "wikilink")'s
+[Panorama
+Tools与Andrew](https://zh.wikipedia.org/wiki/Panorama_Tools "wikilink")
+Mihal的*Enblend*及*Enfuse*的一款[图形化界面的前端程序](https://zh.wikipedia.org/wiki/图形化界面 "wikilink")。拼接允许几张在同一地点拍摄的互有重叠的照片使用
 **控制点**来拼合照片以混合而输出一张更大幅面的图像。**hugin**支持自动创建控制点，带预览窗口的优化图像投影方式方便用户全景图是否可接受。若用户接受，则程序通过拼接投影与输出来全景图。
 
 ## 功能
@@ -10,18 +11,19 @@ Mihal的*Enblend*及*Enfuse*的一款[图形化界面的前端程序](../Page/�
 **hugin**及其相關工具可用於：
 
   - 合成圖片以用於全景或寬景等大範圍攝影
-  - 拼接大幅[馬賽克作品](../Page/馬賽克條目.md "wikilink")
+  - 拼接大幅[馬賽克作品](https://zh.wikipedia.org/wiki/馬賽克條目 "wikilink")
   - 輸入若干類[投影種類](../Page/投影.md "wikilink")，例如
     等距長方圓柱投影（equirectangular用於完全球狀全景），mercator，長方柱狀投影（rectangular），兩點透視法(stereographic)
     and sinusoidal
-  - 高階曝光修正與[高動態範圍成像](../Page/高動態範圍成像.md "wikilink")（[HDR](../Page/HDR.md "wikilink")）合成
+  - 高階曝光修正與[高動態範圍成像](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")（[HDR](https://zh.wikipedia.org/wiki/HDR "wikilink")）合成
 
 ## 发展
 
 [Tower_of_Babel_ArchesNP_UT_USA.jpg](https://zh.wikipedia.org/wiki/File:Tower_of_Babel_ArchesNP_UT_USA.jpg "fig:Tower_of_Babel_ArchesNP_UT_USA.jpg")，[犹他州stiched](../Page/犹他州.md "wikilink")
 with Hugin software.\]\] 五个基于hugin / panotools的项目在2007年的[Google Summer
-of Code被接受](../Page/Google_Summer_of_Code.md "wikilink")。Additionally a
-sixth, community sponsored project has been set up. 这些项目是：
+of
+Code被接受](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")。Additionally
+a sixth, community sponsored project has been set up. 这些项目是：
 
   - [Automatic feature
     detection](http://code.google.com/soc/pano/appinfo.html?csaid=7C5ED822CD597EB1)
@@ -46,7 +48,7 @@ sixth, community sponsored project has been set up. 这些项目是：
 ## 参见
 
   - [PTGui](../Page/PTGui.md "wikilink")——另一款以[Panorama
-    Tools為核心進行強化](../Page/Panorama_Tools.md "wikilink")、具使用者介面的影像拼接、全景拼接的商業軟體
+    Tools為核心進行強化](https://zh.wikipedia.org/wiki/Panorama_Tools "wikilink")、具使用者介面的影像拼接、全景拼接的商業軟體
 
 ## 外部链接
 

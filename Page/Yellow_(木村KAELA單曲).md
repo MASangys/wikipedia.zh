@@ -1,4 +1,4 @@
-**《Yellow》**，為[木村KAELA的個人第](../Page/木村KAELA.md "wikilink")10張單曲，2007年10月24日在自己的生日這天由所屬唱片公司[哥倫比亞音樂發行](../Page/哥倫比亞音樂.md "wikilink")。
+**《Yellow》**，為[木村KAELA的個人第](../Page/木村KAELA.md "wikilink")10張單曲，2007年10月24日在自己的生日這天由所屬唱片公司[哥倫比亞音樂發行](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")。
 
 ## 曲目
 

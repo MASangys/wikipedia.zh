@@ -1,4 +1,4 @@
-**NANA角色列表**是在《[NANA](../Page/NANA.md "wikilink")》[漫畫](../Page/漫畫.md "wikilink")、[周邊產品中所出現的角色資料](../Page/周邊.md "wikilink")。
+**NANA角色列表**是在《[NANA](../Page/NANA.md "wikilink")》[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[周邊產品中所出現的角色資料](https://zh.wikipedia.org/wiki/周邊 "wikilink")。
 
 __TOC__
 
@@ -7,7 +7,7 @@ __TOC__
   - （聲：[朴璐美](../Page/朴璐美.md "wikilink")／香港：[許盈](../Page/許盈.md "wikilink")／台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")／歌：[土屋安娜](../Page/土屋安娜.md "wikilink")／電影1・2：[中島美嘉](../Page/中島美嘉.md "wikilink")）
     主角之一。1981年3月5日生。身高：162cm。體重：43kg。星座：雙魚座。血型：A型
     於漫畫第一卷自述"我不知自己出身的地方！也沒有見父親，更早已忘記了母親的樣子，4歲時來到這海邊的小鎮，被經營小吃店的祖母，惡言惡語撫養長大，現在靠打工養活自己，琢磨夢想的碎片"
-    為了實現自己的心願，自北方城市前往東京奮鬥，是[龐克搖滾樂團](../Page/龐克搖滾.md "wikilink")「Black
+    為了實現自己的心願，自北方城市前往東京奮鬥，是[龐克搖滾樂團](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")「Black
     Stones」的女主唱。因為火爆的個性經常被週遭眾人稱呼為「女王」，個性上也常被形容成像隻黑貓。因認為自己沒有自信做好母親的身份，一直有服用避孕藥。
     在在高中時期被人告發賣春（實際上沒有，第一次是給了蓮），因當時打擊太大並沒有堅決否認，為此激怒祖母使臥病不起，一個月後便去世。
     在家鄉由伸夫介紹結識蓮，初次遇見蓮時便對蓮一見鐘情，同時卻更夾雜嫉妒、羨慕、焦躁以及慾望。娜娜是真的很愛蓮，愛得無法自拔，在認識一年後的聖誕節與蓮接吻、開始交往，後來兩人立刻一起生活，再一起的兩年又三個月裡，蓮帶給了娜娜唱歌的快樂、生存的希望。當蓮受到Trapnest的邀約並接受上京時，娜娜選擇不與蓮上京（因為認為希望有足夠實力後才上京），期間不曾與蓮聯絡。視蕾拉為對手，內心深處一直認為自己在歌唱的魅力不及蕾拉，所以蓮才會選擇去當Trapnest的吉他手。
@@ -15,11 +15,11 @@ __TOC__
 
 未來，在第42話及第58話中得知她因不明原因而失蹤。在失蹤多年後留著一頭金髮在英國的一間小店裡駐唱（第58話及第66話），但過程尚有待劇情交代。
 
-  - （聲：[KAORI](../Page/KAORI.md "wikilink")／香港：[林元春](../Page/林元春.md "wikilink")／台灣：[雷碧文](../Page/雷碧文.md "wikilink")／電影1：[宮崎葵](../Page/宮崎葵.md "wikilink")／電影2：[市川由衣](../Page/市川由衣.md "wikilink")）
+  - （聲：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")／香港：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／台灣：[雷碧文](../Page/雷碧文.md "wikilink")／電影1：[宮崎葵](../Page/宮崎葵.md "wikilink")／電影2：[市川由衣](../Page/市川由衣.md "wikilink")）
     主角之一。1980年11月30日生。身長：158cm、體重：46kg。星座：射手座。血型：B型。（通稱：阿八、八子、八公）
     容易對人敢生好感，時常喜歡上不同的男人（被戲稱為
     一見鐘情達人），最後是淺野先生（已婚），後來在每次奈奈有新戀情時，出現背影多次），這次失戀帶給奈奈很大衝擊。後來入讀專科美術學院，透過朋友淳子認識章司，開頭決心與章司不發生友情以外的關係。在得知淳子要去東京考美術大學，也決心跟隨，可惜考了多間還是落榜。因為希望在東京去留問題，與章司發生爭執。但當晚，與章司修好，並發展愛情關係。與章司約定會留在老家儲定留在東京的資金，章司一年後考上大學，自己就會前往東京，並立該找一份能養活自己的工作。一年後章司告訴奈奈成功考上大學，當晚立刻乘坐新幹線去東京。
-    在[新幹線上遇到另外一位女主角](../Page/新幹線.md "wikilink")，大崎娜娜。娜娜覺得她像小狗一樣，看起來乖-{巧}-聽話，其實只會給人添麻煩（語出單行本第二集第三話），因此給她取了個像是寵物用的綽號「八公」（，此名源自日本有名的忠犬[八公](../Page/八公.md "wikilink")（）），也順便和自己的NANA（日文中的「七」）區別。曾被娜娜形容「又天真又難應付」、「又任性又愛哭又愛撒嬌，具有異常的戀愛體質，兼且朝三暮四，來到東京不到半年卻已換了三個男人。卻仍然保持清純，真是個不可思議的女人。」
+    在[新幹線上遇到另外一位女主角](../Page/新幹線.md "wikilink")，大崎娜娜。娜娜覺得她像小狗一樣，看起來乖-{巧}-聽話，其實只會給人添麻煩（語出單行本第二集第三話），因此給她取了個像是寵物用的綽號「八公」（，此名源自日本有名的忠犬[八公](https://zh.wikipedia.org/wiki/八公 "wikilink")（）），也順便和自己的NANA（日文中的「七」）區別。曾被娜娜形容「又天真又難應付」、「又任性又愛哭又愛撒嬌，具有異常的戀愛體質，兼且朝三暮四，來到東京不到半年卻已換了三個男人。卻仍然保持清純，真是個不可思議的女人。」
     與章司分手後不久與巧（或譯-{zh:拓實;zh-hans:巧;zh-hk:拓實;zh-tw:拓實;}-）發生關係。後來由於與伸夫交往，所以決定與巧斷了。卻在與伸夫交往期間發現自己懷孕，選擇與伸夫分手，並與巧結婚搬離707室。婚後改名為一之瀨奈奈。雖然與真一經常上演母子情境劇，但確實十分關心真一並視為自己的兒子。
 
 未來，與巧分居中但未離婚，從事和服相關工作。有一子一女，兒子名為蓮，女兒名為皋，是本城蓮生前取的名子，與奈奈在日本。
@@ -29,7 +29,7 @@ __TOC__
 團名是由從一個煙的品牌取的，一般簡稱「BLAST」。最初成員為娜娜，泰士，伸夫和蓮。後來，蓮離團，真一補上。家鄉時挺有名氣的地下樂團。蓮走後，解散了。娜娜上京後，再從新再組團。樂團表演，受到GAIA
 MUSIC的人賞識，但高層沒有讓他們出道意思。當娜娜和蓮的戀情曝光後令BLACK STONE人氣急升，最後成功出道。
 
-  - （聲：[川原慶久](../Page/川原慶久.md "wikilink")／香港：[梁志達](../Page/梁志達.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／電影1・2：[丸山智己](../Page/丸山智己.md "wikilink")）
+  - （聲：[川原慶久](../Page/川原慶久.md "wikilink")／香港：[梁志達](../Page/梁志達.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／電影1・2：[丸山智己](https://zh.wikipedia.org/wiki/丸山智己 "wikilink")）
     4月生。身高：185cm、體重：72kg。血型：A型。
     樂團鼓手及團長，大多人稱阿泰，是一手創立Black
     Stones的人，深受周遭的人信賴。蓮曾經開玩笑表示阿泰是因為頭上有一塊十元硬幣大小的禿頭，所以將頭髮全部剃光。原本是律師事務所的實習律師，為娜娜擱置理想而到東京，使Black
@@ -43,9 +43,9 @@ MUSIC的人賞識，但高層沒有讓他們出道意思。當娜娜和蓮的戀
 
 <!-- end list -->
 
-  - （聲：[石田彰](../Page/石田彰.md "wikilink")／香港：[張裕東](../Page/張裕東.md "wikilink")／台灣：[劉傑](../Page/劉傑.md "wikilink")／電影1：[松山研一](../Page/松山研一.md "wikilink")／電影2：[本乡奏多](../Page/本乡奏多.md "wikilink")）
+  - （聲：[石田彰](../Page/石田彰.md "wikilink")／香港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")／台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／電影1：[松山研一](../Page/松山研一.md "wikilink")／電影2：[本乡奏多](../Page/本乡奏多.md "wikilink")）
     1985年11月1日生。身高：164cm、體重：50kg、星座：天蠍座。血型：AB型。
-    樂團新加入的貝斯手，雖然年紀輕，卻有著敏銳的洞察力，是個逃家的未成年美少年，與其父親及哥哥關係惡劣，疑似是母親在外所生的私生子，後更被逐出家門。私底下與年長女性間有[援助交際的行為](../Page/援助交際.md "wikilink")，教授其一切惡習的是名叫凌子的[空服員](../Page/空服員.md "wikilink")。視奈奈如母親，曾向奈奈透露不想被父母生下來。與蕾拉也有金錢往來性行為。
+    樂團新加入的貝斯手，雖然年紀輕，卻有著敏銳的洞察力，是個逃家的未成年美少年，與其父親及哥哥關係惡劣，疑似是母親在外所生的私生子，後更被逐出家門。私底下與年長女性間有[援助交際的行為](../Page/援助交際.md "wikilink")，教授其一切惡習的是名叫凌子的[空服員](https://zh.wikipedia.org/wiki/空服員 "wikilink")。視奈奈如母親，曾向奈奈透露不想被父母生下來。與蕾拉也有金錢往來性行為。
 
 ## Trapnest樂團
 
@@ -53,13 +53,13 @@ MUSIC的人賞識，但高層沒有讓他們出道意思。當娜娜和蓮的戀
 Trapnest是日本超人氣樂團，每張唱片也賣出白金銷量，當中以蕾拉和蓮人氣最高。Trapnest的曲全部是由蓮作曲再由巧編曲一次。由於巧認為太多非音樂工作會令人減少注重音樂，所以很少出席非音樂相關工作（如綜藝節目和紅白歌會）。
 從多方面可等知，團員們全部十分富裕（蕾拉給真一的10萬日元，巧住的公寓和逐華裝修）
 
-  - （聲：[平野綾](../Page/平野綾.md "wikilink")／香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／歌：[OLIVIA](../Page/OLIVIA.md "wikilink")／電影1・2：[伊藤由奈](../Page/伊藤由奈.md "wikilink")）
+  - （聲：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")／香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／歌：[OLIVIA](https://zh.wikipedia.org/wiki/OLIVIA "wikilink")／電影1・2：[伊藤由奈](../Page/伊藤由奈.md "wikilink")）
     1978年11月1日生。身高：164cm、體重：48kg。星座：天蠍座。血型：AB型。
     樂團女主唱，也擔任歌詞編寫的工作，是美日混血出身（對外宣稱純正日本人），常被暱稱為「公主」。從小就非常喜歡巧，開始認識阿泰以後漸漸被阿泰吸引，然而巧依然沒有任何表態，便開始與阿泰交往，後因到東京發展，曾希望阿泰開口挽留但最後還是以分手為收場。一直得知蓮吸毒，有嘗試阻止。與真一有介於援助交際與姊弟戀之間的曖昧關係。和真一分手後，心情低落，在情人節的時候，向巧哭訴，而後才知道自己在他的心中無可取代（71話）。
 
 未來，與巧搬到英國居住
 
-  - （聲：[森川智之](../Page/森川智之.md "wikilink")／香港：[李錦綸](../Page/李錦綸.md "wikilink")／台灣：[李景唐](../Page/李景唐.md "wikilink")／電影1・2：[玉山鐵二](../Page/玉山鐵二.md "wikilink")）
+  - （聲：[森川智之](../Page/森川智之.md "wikilink")／香港：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")／台灣：[李景唐](../Page/李景唐.md "wikilink")／電影1・2：[玉山鐵二](../Page/玉山鐵二.md "wikilink")）
     1977年12月12日生。身高：183cm、體重：67kg。星座：射手座。血型：O型。
     樂團貝斯手兼團長，擁有優秀編曲技巧。
     因為自己的原生家庭並不完整，父親嚴重酗酒；母親病倒後長年臥病不起，姊姊在母親病倒後開始學壞，但在國中畢業後的姊姊決定一肩扛起家裡的重擔，後來在20歲時奉子成婚，氣的巧將對方狠狠揍了一頓。當時被蕾拉戲稱「戀姐情結」。
@@ -70,16 +70,16 @@ Trapnest是日本超人氣樂團，每張唱片也賣出白金銷量，當中以
 
 未來篇中帶著兒子蓮與奈奈分居兩地，並依然照顧著因蓮去世打擊太大所失憶的蕾拉。
 
-  - （聲：[木內秀信](../Page/木內秀信.md "wikilink")／香港：[雷霆](../Page/雷霆.md "wikilink")／台灣：[劉傑](../Page/劉傑.md "wikilink")／電影1：[松田龍平](../Page/松田龍平.md "wikilink")／電影2：[姜暢雄](../Page/姜暢雄.md "wikilink")）
+  - （聲：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")／香港：[雷霆](../Page/雷霆.md "wikilink")／台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／電影1：[松田龍平](../Page/松田龍平.md "wikilink")／電影2：[姜暢雄](../Page/姜暢雄.md "wikilink")）
     1979年10月12日生。身高：182cm、體重：64kg。星座：天秤座。血型：A型。
     蓮一出生就被遺棄在港口的倉庫街上，但自身認為這是一件驕傲的事，視倉庫街為自己的原點。和泰士在同一所孤兒院長大。個性其實意外的愛撒嬌，遇見娜娜之前時常亂搞，和娜娜在一起後收斂並且專一（娜娜曾形容蓮對自己千依百順），也希望有天可以有自己的孩子，甚至歡迎溫馨的家庭。雖被人稱為天才，但其實從小從孤兒院溜出來後用撿來的吉他每晚苦練出來的。
     娜娜的戀人，兩人訂婚，但沒有入藉。似乎在第一次離開娜娜後太大壓力，於是開始吸食毒品，在蕾拉、阿泰、巧多次勸導之下為了自己、娜娜和Trapnest開始慢慢戒毒，但也因為和娜娜各種衝突不斷導致戒毒過程並不順利，後來出現影響（手部不受控制），對吉他手的蓮無疑是重擊。蓮原本是Black
-    Stones的貝斯手，但受巧多次邀請，被阿泰說服並最終跟隨另一樂團Trapnest前往東京發展並因此走紅，人氣很高，在Trapnest擔任[吉他手的位置和作曲](../Page/吉他手.md "wikilink")（據泰言蓮作完的曲，會被巧再編一次，是為了令蕾拉的歌發揮最好，所以從不介懷）。和巧及蕾拉是從國中時代就認識到朋友，和蕾拉是為了Trapnest才捨棄最重要的東西的同志。
+    Stones的貝斯手，但受巧多次邀請，被阿泰說服並最終跟隨另一樂團Trapnest前往東京發展並因此走紅，人氣很高，在Trapnest擔任[吉他手的位置和作曲](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（據泰言蓮作完的曲，會被巧再編一次，是為了令蕾拉的歌發揮最好，所以從不介懷）。和巧及蕾拉是從國中時代就認識到朋友，和蕾拉是為了Trapnest才捨棄最重要的東西的同志。
     非常深愛娜娜，在遇見娜娜以後彼此身上找到歸屬與救贖，多次透露出「此生除了娜娜以外不可能愛上別的人」。雖然十分重視、信任阿泰，卻也時刻擔憂娜娜的心會被阿泰奪走，對阿泰直言「即便自己死了也不會把娜娜給泰」，為了將阿泰從娜娜心中趕出而向娜娜提出求婚，並對蕾拉坦言「自己真的很想殺死娜娜，這樣一來娜娜將會永遠屬於自己。」不只一次對娜娜做出勒喉的舉動過，也問過娜娜「要是我真的殺了妳，怎麼辦？」娜娜只回答一句「會在冥河等你。」
 
 然而卻在第78話中，於娜娜生日的前一天蓮死於交通意外。
 
-  - （聲：[勝杏里](../Page/勝杏里.md "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／電影1・2：[水谷百輔](../Page/水谷百輔.md "wikilink")）
+  - （聲：[勝杏里](../Page/勝杏里.md "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／電影1・2：[水谷百輔](https://zh.wikipedia.org/wiki/水谷百輔 "wikilink")）
     身高：178cm、體重：65kg。血型：B型。
     樂團鼓手，Trapnest第二任鼓手，期待看到巧心中計畫的全貌。私底下與泰士保持很好的友誼。后来居住在英国，有一个女儿。
 
@@ -91,7 +91,7 @@ Trapnest是日本超人氣樂團，每張唱片也賣出白金銷量，當中以
 
 <!-- end list -->
 
-  - （聲：[立木文彥](../Page/立木文彥.md "wikilink")／台灣：[劉傑](../Page/劉傑.md "wikilink")／PS2遊戲：[竹本英史](../Page/竹本英史.md "wikilink")）
+  - （聲：[立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")／台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／PS2遊戲：[竹本英史](../Page/竹本英史.md "wikilink")）
     Black Stones樂團的經紀人，綽號「阿銀」。私底下有同性戀傾向，對泰士有莫名的崇拜，溺愛真一。
 
 <!-- end list -->
@@ -102,7 +102,7 @@ Trapnest是日本超人氣樂團，每張唱片也賣出白金銷量，當中以
 
 <!-- end list -->
 
-  - （聲：[すほうれいこ](../Page/すほうれいこ.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")）
+  - （聲：[すほうれいこ](https://zh.wikipedia.org/wiki/すほうれいこ "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")）
     本名為，四海公司所屬的AV女演員，也是與Black Stones團員們同住一棟樓的室友之一。目前與伸夫有戀人關係。極度討厭奈奈。
 
 <!-- end list -->
@@ -143,7 +143,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （台灣：[劉傑](../Page/劉傑.md "wikilink")／香港：[翟耀輝](../Page/翟耀輝.md "wikilink")）
+  - （台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／香港：[翟耀輝](../Page/翟耀輝.md "wikilink")）
     Trapnest樂團的經紀人，綽號「竹竹」。
 
 <!-- end list -->
@@ -168,7 +168,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （聲：[田中正彥](../Page/田中正彥.md "wikilink"))
+  - （聲：[田中正彥](https://zh.wikipedia.org/wiki/田中正彥 "wikilink"))
     娛樂版主任。
 
 <!-- end list -->
@@ -188,17 +188,17 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 ## 奈奈的親友
 
-  - （聲：[本田貴子](../Page/本田貴子.md "wikilink")／遊戲：[淵崎有-{里}-子](../Page/淵崎有里子.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／演員：[能世安奈](../Page/能世安奈.md "wikilink")）
-    奈奈的高中同學與死黨，因為常對奈奈訓話，所以被戲稱是奈奈的媽媽，漫畫單行本後附的番外篇「淳子的部屋」之[媽媽桑](../Page/媽媽桑.md "wikilink")。
+  - （聲：[本田貴子](../Page/本田貴子.md "wikilink")／遊戲：[淵崎有-{里}-子](https://zh.wikipedia.org/wiki/淵崎有里子 "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／演員：[能世安奈](../Page/能世安奈.md "wikilink")）
+    奈奈的高中同學與死黨，因為常對奈奈訓話，所以被戲稱是奈奈的媽媽，漫畫單行本後附的番外篇「淳子的部屋」之[媽媽桑](https://zh.wikipedia.org/wiki/媽媽桑 "wikilink")。
 
 <!-- end list -->
 
-  - （聲：[諏訪部順一](../Page/諏訪部順一.md "wikilink")／遊戲：[うえだゆうじ](../Page/うえだゆうじ.md "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／演員：[高山猛久](../Page/高山猛久.md "wikilink")）
+  - （聲：[諏訪部順一](../Page/諏訪部順一.md "wikilink")／遊戲：[うえだゆうじ](https://zh.wikipedia.org/wiki/うえだゆうじ "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")／台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")／演員：[高山猛久](https://zh.wikipedia.org/wiki/高山猛久 "wikilink")）
     章司的死黨，後來成為淳子的戀人。
 
 <!-- end list -->
 
-  - （聲：[平松晶子](../Page/平松晶子.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")／台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")／演員：[宮崎美子](../Page/宮崎美子.md "wikilink")）
+  - （聲：[平松晶子](../Page/平松晶子.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")／台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")／演員：[宮崎美子](https://zh.wikipedia.org/wiki/宮崎美子 "wikilink")）
     奈奈的母親。
 
 <!-- end list -->
@@ -208,17 +208,17 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （聲：[ちか](../Page/ちか.md "wikilink")／香港：[曾秀清](../Page/曾秀清.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")）
-    奈奈的妹妹，是個作[109辣妹裝扮的](../Page/109辣妹.md "wikilink")[短大學生](../Page/短大.md "wikilink")。
+  - （聲：[ちか](https://zh.wikipedia.org/wiki/ちか "wikilink")／香港：[曾秀清](../Page/曾秀清.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")）
+    奈奈的妹妹，是個作[109辣妹裝扮的](https://zh.wikipedia.org/wiki/109辣妹 "wikilink")[短大學生](https://zh.wikipedia.org/wiki/短大 "wikilink")。
 
 <!-- end list -->
 
-  - （聲：[岡村明美](../Page/岡村明美.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")／演員：[紺谷みえこ](../Page/紺谷みえこ.md "wikilink")）
+  - （聲：[岡村明美](../Page/岡村明美.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")／演員：[紺谷みえこ](https://zh.wikipedia.org/wiki/紺谷みえこ "wikilink")）
     奈奈的姊姊。
 
 <!-- end list -->
 
-  - （聲：[加藤優子](../Page/加藤優子.md "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")／台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")）
+  - （聲：[加藤優子](https://zh.wikipedia.org/wiki/加藤優子 "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")／台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")）
     奈奈與巧的女兒。名字是莲取的，现与奈奈一起居住在日本。
 
 <!-- end list -->
@@ -254,7 +254,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （聲：[小島めぐみ](../Page/小島めぐみ.md "wikilink")／香港：[何璐怡](../Page/何璐怡.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／PS2遊戲：[鈴木真仁](../Page/鈴木真仁.md "wikilink")／演員：[紗榮子](../Page/紗榮子.md "wikilink")）
+  - （聲：[小島めぐみ](https://zh.wikipedia.org/wiki/小島めぐみ "wikilink")／香港：[何璐怡](../Page/何璐怡.md "wikilink")／台灣：[傅其慧](../Page/傅其慧.md "wikilink")／PS2遊戲：[鈴木真仁](../Page/鈴木真仁.md "wikilink")／演員：[紗榮子](../Page/紗榮子.md "wikilink")）
     生日：5月5日 星座：金牛座
     章司在餐廳打工時認識的美術大學同系同學，並因她而與奈奈分手。她的名字與「虛擬幸子」一樣，但實際上卻是完全不同性格的人物。
 
@@ -265,7 +265,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （香港：[黃啟昌](../Page/黃啟昌.md "wikilink")／台灣：[劉傑](../Page/劉傑.md "wikilink")）
+  - （香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")／台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
     奈奈在高中時交往的外遇已婚男子，因為工作臨時派駐在鄉下的上班族。
 
 <!-- end list -->
@@ -275,13 +275,13 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （台灣：[劉傑](../Page/劉傑.md "wikilink")）
+  - （台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
     奈奈打工的錄影帶店店員。
 
 <!-- end list -->
 
   - （聲：[緒方賢一](../Page/緒方賢一.md "wikilink")）
-    [房屋仲介業者](../Page/房屋仲介.md "wikilink")，介紹奈奈租下「707號房」的老先生。也是建議兩人一同合租707室的人。
+    [房屋仲介業者](https://zh.wikipedia.org/wiki/房屋仲介 "wikilink")，介紹奈奈租下「707號房」的老先生。也是建議兩人一同合租707室的人。
 
 <!-- end list -->
 
@@ -295,7 +295,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （聲：[藤井啓輔](../Page/藤井啓輔.md "wikilink")／台灣：[劉傑](../Page/劉傑.md "wikilink")／PS2遊戲：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")）
+  - （聲：[藤井啓輔](https://zh.wikipedia.org/wiki/藤井啓輔 "wikilink")／台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／PS2遊戲：[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")）
     奈奈與朋友們常去的酒吧「Jackson Hole」的店長，是現實中真實存在的人物。
 
 <!-- end list -->

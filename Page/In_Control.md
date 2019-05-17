@@ -1,5 +1,5 @@
 《**In
-Control**》是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[吳雨霏的第二張個人](../Page/吳雨霏.md "wikilink")[粵語](../Page/粵語.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年6月8日推出。該唱片獲得2007年[四台聯頒音樂大獎的大碟獎](../Page/四台聯頒音樂大獎.md "wikilink")。
+Control**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[吳雨霏的第二張個人](../Page/吳雨霏.md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年6月8日推出。該唱片獲得2007年[四台聯頒音樂大獎的大碟獎](../Page/四台聯頒音樂大獎.md "wikilink")。
 
 ## 專輯簡介
 
@@ -26,8 +26,8 @@ ripples及jubeat kint。不過在第四代jubeat copious被刪除。
   - [十大勁歌金曲頒獎典禮](../Page/2007年度十大勁歌金曲得獎名單.md "wikilink") - 十大勁歌金曲《逼得太緊》
   - [新城勁爆頒獎禮](../Page/2007年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲：《逼得太緊》
   - 新城勁爆頒獎禮 - 新城勁爆原創歌曲：《逼得太緊》
-  - [第三十屆十大中文金曲頒獎音樂會](../Page/第三十屆十大中文金曲頒獎音樂會.md "wikilink") -
-    十大中文金曲《逼得太緊》
+  - [第三十屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十屆十大中文金曲頒獎音樂會 "wikilink")
+    - 十大中文金曲《逼得太緊》
   - 2007年[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink") - 大碟獎
 
 ## 外部連結

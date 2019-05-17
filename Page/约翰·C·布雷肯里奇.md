@@ -1,9 +1,9 @@
 **约翰·卡贝尔·布雷肯里奇**（**John Cabell
-Breckinridge**，），[美国政治家](../Page/美国.md "wikilink")，[美国民主党成员](../Page/美国民主党.md "wikilink")，曾任[美国众议院议员](../Page/美国众议院.md "wikilink")（1851年-1855年）、[美国副总统](../Page/美国副总统.md "wikilink")（1857年-1861年）、[美国参议院议员](../Page/美国参议院.md "wikilink")（1861年）和[美利坚联盟国战争部长](../Page/美利坚联盟国战争部长.md "wikilink")（1865年）。
+Breckinridge**，），[美国政治家](../Page/美国.md "wikilink")，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国众议院议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")（1851年-1855年）、[美国副总统](../Page/美国副总统.md "wikilink")（1857年-1861年）、[美国参议院议员](../Page/美国参议院.md "wikilink")（1861年）和[美利坚联盟国战争部长](https://zh.wikipedia.org/wiki/美利坚联盟国战争部长 "wikilink")（1865年）。
 
-布雷肯里奇36岁宣誓就任美国副总统，是讫今为止美国最年轻的副总统。在[1860年美國總統選舉中](../Page/1860年美國總統選舉.md "wikilink")，民主黨分裂，布雷肯里奇為南方民主黨人代表，拿下18.1%得票率、南方11州，僅次於[亞伯拉罕·林肯的](../Page/亞伯拉罕·林肯.md "wikilink")39.8%、17州。
+布雷肯里奇36岁宣誓就任美国副总统，是讫今为止美国最年轻的副总统。在[1860年美國總統選舉中](https://zh.wikipedia.org/wiki/1860年美國總統選舉 "wikilink")，民主黨分裂，布雷肯里奇為南方民主黨人代表，拿下18.1%得票率、南方11州，僅次於[亞伯拉罕·林肯的](https://zh.wikipedia.org/wiki/亞伯拉罕·林肯 "wikilink")39.8%、17州。
 
-布雷肯里奇的祖父[约翰·布雷肯里奇是美国参议员](../Page/约翰·布雷肯里奇.md "wikilink")、[美国司法部长](../Page/美国司法部长.md "wikilink")，其子[克利夫顿·R·布雷肯里奇是美国众议员](../Page/克利夫顿·R·布雷肯里奇.md "wikilink")，其曾孙[邦尼·布雷肯里奇是导演](../Page/邦尼·布雷肯里奇.md "wikilink")。
+布雷肯里奇的祖父[约翰·布雷肯里奇是美国参议员](../Page/约翰·布雷肯里奇.md "wikilink")、[美国司法部长](https://zh.wikipedia.org/wiki/美国司法部长 "wikilink")，其子[克利夫顿·R·布雷肯里奇是美国众议员](https://zh.wikipedia.org/wiki/克利夫顿·R·布雷肯里奇 "wikilink")，其曾孙[邦尼·布雷肯里奇是导演](https://zh.wikipedia.org/wiki/邦尼·布雷肯里奇 "wikilink")。
 
 
 [Category:美国副总统](https://zh.wikipedia.org/wiki/Category:美国副总统 "wikilink")

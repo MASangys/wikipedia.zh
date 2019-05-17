@@ -1,9 +1,9 @@
-**EF510型電力機車**，是供[日本貨物鐵道及](../Page/日本貨物鐵道.md "wikilink")[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）使用的[交流傳動六軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[交](../Page/交流電.md "wikilink")[直流電化區段](../Page/直流電.md "wikilink")，這款機車的暱稱為「**ECO-POWER
+**EF510型電力機車**，是供[日本貨物鐵道及](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）使用的[交流傳動六軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[交](../Page/交流電.md "wikilink")[直流電化區段](../Page/直流電.md "wikilink")，這款機車的暱稱為「**ECO-POWER
 Red Thunder**」。
 
 ## 概要
 
-這款機車由[川崎重工業製造](../Page/川崎重工業.md "wikilink")，用以取代車齡漸高的[EF81型](../Page/日本國鐵EF81型電力機車.md "wikilink")，首台先行量產車（EF510-1）於2002年2月由川崎廠房下線，2003年開始量產，編號由EF510-2開始。全數機車的牽引逆變器均使用[IGBT元件](../Page/絕緣柵雙極晶體管.md "wikilink")。
+這款機車由[川崎重工業製造](../Page/川崎重工業.md "wikilink")，用以取代車齡漸高的[EF81型](https://zh.wikipedia.org/wiki/日本國鐵EF81型電力機車 "wikilink")，首台先行量產車（EF510-1）於2002年2月由川崎廠房下線，2003年開始量產，編號由EF510-2開始。全數機車的牽引逆變器均使用[IGBT元件](../Page/絕緣柵雙極晶體管.md "wikilink")。
 
 而JR東日本所屬的該款機車編號則由EF510-501開始，預定製造15輛。
 
@@ -11,22 +11,22 @@ Red Thunder**」。
 
 JR貨物所屬的本型式機車主要在[日本海縱貫線上運用](../Page/日本海縱貫線.md "wikilink")，故現在全部被配置在富山機務段上。
 
-該款電力機車設計是以牽引貨物列車為主，但在2007年10月22日的時候，由[24系客車與](../Page/日本國鐵24系客車.md "wikilink")[夢空間組成的團體臨時列車](../Page/夢空間.md "wikilink")「JR
-7公司華麗的列車旅行」，是本型式機車首次被運用作牽引客車列車的運用上，從[羽越本線的](../Page/羽越本線.md "wikilink")[酒田站運行到](../Page/酒田站.md "wikilink")[新發田站](../Page/新發田站.md "wikilink")。而在該臨時列車行走前數日曾借來該型機車，並和[12系客車連結作試運轉及訓練駕駛](../Page/日本國鐵12系客車.md "wikilink")。
+該款電力機車設計是以牽引貨物列車為主，但在2007年10月22日的時候，由[24系客車與](https://zh.wikipedia.org/wiki/日本國鐵24系客車 "wikilink")[夢空間組成的團體臨時列車](https://zh.wikipedia.org/wiki/夢空間 "wikilink")「JR
+7公司華麗的列車旅行」，是本型式機車首次被運用作牽引客車列車的運用上，從[羽越本線的](../Page/羽越本線.md "wikilink")[酒田站運行到](https://zh.wikipedia.org/wiki/酒田站 "wikilink")[新發田站](https://zh.wikipedia.org/wiki/新發田站 "wikilink")。而在該臨時列車行走前數日曾借來該型機車，並和[12系客車連結作試運轉及訓練駕駛](https://zh.wikipedia.org/wiki/日本國鐵12系客車 "wikilink")。
 
 截至2007年年底，川崎共造出13輛該型機車，當中2006年度及2007年度先後交付4輛及2輛\[1\]\[2\]。在2008年度及2009年度，川崎將會向JR貨物分別交付3輛及4輛新車。\[3\]\[4\]
 
-在2008年12月2日，JR東日本網站公佈將新造15輛EF510型，取代目前牽引臥鋪特急[北斗星號列車及](../Page/北斗星號列車.md "wikilink")[仙后座號列車的EF](../Page/仙后座號列車.md "wikilink")81型電力機車，在2010年春天開始使用。\[5\]在2009年12月底的時候，第一輛機車EF510-501自川崎出廠，並運送到JR東日本等待試運轉，其車身外觀設計則改為以藍色為底色，加上金色線條及車側的流星塗裝（509與510這兩輛則與仙后座號車廂一樣外觀，以銀色為底色，加上五彩條紋。）。2010年6月25日，EF510正式開始牽引仙后座號的載客列車\[6\]。
+在2008年12月2日，JR東日本網站公佈將新造15輛EF510型，取代目前牽引臥鋪特急[北斗星號列車及](https://zh.wikipedia.org/wiki/北斗星號列車 "wikilink")[仙后座號列車的EF](https://zh.wikipedia.org/wiki/仙后座號列車 "wikilink")81型電力機車，在2010年春天開始使用。\[5\]在2009年12月底的時候，第一輛機車EF510-501自川崎出廠，並運送到JR東日本等待試運轉，其車身外觀設計則改為以藍色為底色，加上金色線條及車側的流星塗裝（509與510這兩輛則與仙后座號車廂一樣外觀，以銀色為底色，加上五彩條紋。）。2010年6月25日，EF510正式開始牽引仙后座號的載客列車\[6\]。
 
-2013年3月16日起，時刻表修改，JR東日本的田端運轉所不再代理貨物運送業務，以[常磐線為中心的貨物列車改用](../Page/常磐線.md "wikilink")[EH500牽引](../Page/EH500.md "wikilink")\[7\]。JR東日本將501至508及511這9輛EF510賣給JR貨物，7月26日起陸續迴送至JR貨物的富山機關區\[8\]\[9\]。JR貨物將這9輛原有的流星塗裝及JR東日本的英文「EAST
+2013年3月16日起，時刻表修改，JR東日本的田端運轉所不再代理貨物運送業務，以[常磐線為中心的貨物列車改用](../Page/常磐線.md "wikilink")[EH500牽引](https://zh.wikipedia.org/wiki/EH500 "wikilink")\[7\]。JR東日本將501至508及511這9輛EF510賣給JR貨物，7月26日起陸續迴送至JR貨物的富山機關區\[8\]\[9\]。JR貨物將這9輛原有的流星塗裝及JR東日本的英文「EAST
 JAPAN RAILWAY
-COMPANY」標示移除，拆掉通過[黑磯車站的交直流轉換區間所需的感應器](../Page/黑磯車站.md "wikilink")，並且將ATS系統改為[ATS-PF](../Page/ATS-PF.md "wikilink")、[ATS-SP及](../Page/ATS-SP.md "wikilink")[ATS-Ps](../Page/ATS-Ps.md "wikilink")，但仍保留原有車號\[10\]。
+COMPANY」標示移除，拆掉通過[黑磯車站的交直流轉換區間所需的感應器](https://zh.wikipedia.org/wiki/黑磯車站 "wikilink")，並且將ATS系統改為[ATS-PF](https://zh.wikipedia.org/wiki/ATS-PF "wikilink")、[ATS-SP及](https://zh.wikipedia.org/wiki/ATS-SP "wikilink")[ATS-Ps](https://zh.wikipedia.org/wiki/ATS-Ps "wikilink")，但仍保留原有車號\[10\]。
 [JRF_EF510-12.jpg](https://zh.wikipedia.org/wiki/File:JRF_EF510-12.jpg "fig:JRF_EF510-12.jpg")、2009年3月28日）\]\]
 [JRE_EF510-501_in_Omiya_20100522.jpg](https://zh.wikipedia.org/wiki/File:JRE_EF510-501_in_Omiya_20100522.jpg "fig:JRE_EF510-501_in_Omiya_20100522.jpg")、2010年5月22日）\]\]
 
-2015年8月22日，[北斗星號列車停駛](../Page/北斗星號列車.md "wikilink")，JR東日本於同年12月13日與2016年2月3日陸續將512、513、514與515這四輛賣給JR貨物，並無火迴送至富山機關區。
+2015年8月22日，[北斗星號列車停駛](https://zh.wikipedia.org/wiki/北斗星號列車 "wikilink")，JR東日本於同年12月13日與2016年2月3日陸續將512、513、514與515這四輛賣給JR貨物，並無火迴送至富山機關區。
 
-2016年3月21日，[仙后座號列車停駛](../Page/仙后座號列車.md "wikilink")，同月31日JR東日本將最後兩輛
+2016年3月21日，[仙后座號列車停駛](https://zh.wikipedia.org/wiki/仙后座號列車 "wikilink")，同月31日JR東日本將最後兩輛
 509、510號列車交付JR貨物，自此東日本消滅所有EF510車籍。
 
 ## 參考資料

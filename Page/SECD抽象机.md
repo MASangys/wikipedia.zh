@@ -1,15 +1,18 @@
 **SECD
-机**是非常有影响的意图作为[函数式编程语言编译器目标的](../Page/函数式编程语言.md "wikilink")[虚拟机](../Page/虚拟机.md "wikilink")。SECD
+机**是非常有影响的意图作为[函数式编程语言编译器目标的](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。SECD
 分别是这个机器的内部寄存器的名字的首字母：**S**tack, **E**nvironment, **C**ode,
 **D**ump。这些寄存器指向在内存中[链表](../Page/链表.md "wikilink")。
 
-这种机器最初明确设计用来计算 [lambda 演算表达式](../Page/lambda_演算.md "wikilink")。最初 [Peter
-J. Landin](../Page/Peter_J._Landin.md "wikilink") 在1963年把它作为他的
+这种机器最初明确设计用来计算 [lambda
+演算表达式](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")。最初
+[Peter J.
+Landin](https://zh.wikipedia.org/wiki/Peter_J._Landin "wikilink")
+在1963年把它作为他的
 [ISWIM编程语言定义的一部分描述](../Page/ISWIM.md "wikilink")。Landin
-出版的描述非常抽象，（象一种[操作语义那样](../Page/操作语义.md "wikilink")）留下很多实现选择开放着。所以
+出版的描述非常抽象，（象一种[操作语义那样](https://zh.wikipedia.org/wiki/操作语义 "wikilink")）留下很多实现选择开放着。所以
 SECD 机经常以更具体的形式出现，比如 [Peter
-Henderson](../Page/Peter_Henderson.md "wikilink") 的 [Lispkit
-Lisp](../Page/Lispkit_Lisp.md "wikilink")
+Henderson](https://zh.wikipedia.org/wiki/Peter_Henderson "wikilink") 的
+[Lispkit Lisp](../Page/Lispkit_Lisp.md "wikilink")
 编译器，它自1980年开始发行。此后它已经被用做多个其他实验编译器的目标。
 
 在1989年在[卡尔加里大学的研究者制作了这种机器的一个硬件实现](../Page/卡尔加里大学.md "wikilink")。
@@ -32,7 +35,7 @@ SECD
 **D** 寄存器指向转储（dump）的头部，它被用做其他寄存器的值的临时存储，例如在函数调用期间。它联系于其他机器的返回栈。
 
 SECD
-机的内存组织类似于大多数函数式编程语言[解释器所用的模型](../Page/直译器.md "wikilink")：一些内存单元，每个都持有要么一个“原子”（一个简单值例如“13”），或表示一个空或非空列表。在后者情况，单元持有到其他单元的两个指针，一个表示第一个元素，另一个表示除去第一个元素之外的列表。这两个指针传统上分别叫做
+机的内存组织类似于大多数函数式编程语言[解释器所用的模型](https://zh.wikipedia.org/wiki/直译器 "wikilink")：一些内存单元，每个都持有要么一个“原子”（一个简单值例如“13”），或表示一个空或非空列表。在后者情况，单元持有到其他单元的两个指针，一个表示第一个元素，另一个表示除去第一个元素之外的列表。这两个指针传统上分别叫做
 *car* 和 *cdr* —
 现在更常使用现代术语“头”和“尾”。单元持有值的不同类型由一个“标志”来区分。原子的不同类型（整数、字符串等等）经常是同样可区分的。
 
@@ -85,9 +88,10 @@ SECD
     Implementation*. Prentice Hall, 1980. ISBN 0-13-331579-7
   - Anthony J. Field and Peter G. Harrison: *Functional Programming*.
     Addison-Wesley, 1988. ISBN 0-201-19249-7
-  - [Olivier Danvy](../Page/Olivier_Danvy.md "wikilink")：*A Rational
-    Deconstruction of Landin's SECD Machine*. BRICS research report
-    RS-04-30, 2004. ISSN 0909-0878
+  - [Olivier
+    Danvy](https://zh.wikipedia.org/wiki/Olivier_Danvy "wikilink")：*A
+    Rational Deconstruction of Landin's SECD Machine*. BRICS research
+    report RS-04-30, 2004. ISSN 0909-0878
 
 ## 外部链接
 

@@ -6,20 +6,20 @@
   - 專輯13首歌中有10首是先前單曲就收錄過的歌曲，與其稱之原創專輯，這張專輯的內容較趨近於精選輯。第6張單曲「[我愛你](../Page/我愛你_\(中島美嘉單曲\).md "wikilink")」單曲中收錄的翻唱曲「THE
     ROSE」未收錄於此張專輯。
   - 整張專輯以爵士與雷鬼為基調，中島美嘉自己做詞的作品比例也大幅提升，音樂性十分強烈。
-  - 此張專輯獲得第45回（2003年）[日本唱片大賞的最佳專輯賞](../Page/日本唱片大賞.md "wikilink")，其中擔任歌曲「雪花」作詞的Satomi同時獲獎。
+  - 此張專輯獲得第45回（2003年）[日本唱片大賞的最佳專輯賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")，其中擔任歌曲「雪花」作詞的Satomi同時獲獎。
   - [ORICON公信榜連續兩周最高第](../Page/Oricon.md "wikilink")1名。銷量約141.1萬張
 
 ## 單曲銷量
 
   - [RESISTANCE
-    無懈可擊](../Page/RESISTANCE_無懈可擊.md "wikilink")（迷你專輯）:[ORICON最高第](../Page/ORICON.md "wikilink")1名。銷量約20萬張
-  - [我愛你](../Page/我愛你_\(中島美嘉單曲\).md "wikilink")：[ORICON最高第](../Page/ORICON.md "wikilink")4名。銷量約10.5萬張
+    無懈可擊](../Page/RESISTANCE_無懈可擊.md "wikilink")（迷你專輯）:[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")1名。銷量約20萬張
+  - [我愛你](../Page/我愛你_\(中島美嘉單曲\).md "wikilink")：[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")4名。銷量約10.5萬張
   - [Love
-    Addict](../Page/Love_Addict_\(單曲\).md "wikilink")：[ORICON最高第](../Page/ORICON.md "wikilink")4名。銷量約6.9萬張
-  - [接吻](../Page/接吻_\(中島美嘉單曲\).md "wikilink")：[ORICON最高第](../Page/ORICON.md "wikilink")4名。銷量約3.8萬張
+    Addict](../Page/Love_Addict_\(單曲\).md "wikilink")：[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")4名。銷量約6.9萬張
+  - [接吻](../Page/接吻_\(中島美嘉單曲\).md "wikilink")：[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")4名。銷量約3.8萬張
   - [FIND THE
-    WAY](../Page/FIND_THE_WAY.md "wikilink")：[ORICON最高第](../Page/ORICON.md "wikilink")4名。銷量約12.4萬張
-  - [雪花](../Page/雪花_\(單曲\).md "wikilink")：[ORICON最高第](../Page/ORICON.md "wikilink")3名。銷量約24.8萬張
+    WAY](../Page/FIND_THE_WAY.md "wikilink")：[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")4名。銷量約12.4萬張
+  - [雪花](../Page/雪花_\(單曲\).md "wikilink")：[ORICON最高第](https://zh.wikipedia.org/wiki/ORICON "wikilink")3名。銷量約24.8萬張
 
 ## 收錄曲目
 

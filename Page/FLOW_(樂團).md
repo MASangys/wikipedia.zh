@@ -1,37 +1,38 @@
-**FLOW**是[日本一組](../Page/日本.md "wikilink")[搖滾](../Page/搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")，隸屬於[Amuse旗下](../Page/Amuse.md "wikilink")，1998年結成，2003年發行首張單曲「」後正式[出道](../Page/出道.md "wikilink")。代表作：《days》、《sign》、《go》、《》。
+**FLOW**是[日本一組](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，隸屬於[Amuse旗下](../Page/Amuse.md "wikilink")，1998年結成，2003年發行首張單曲「」後正式[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")。代表作：《days》、《sign》、《go》、《》。
 
 ## 成員
 
-  - **KOHSHI**（1977年4月22日－）[血型O型](../Page/血型.md "wikilink")
+  - **KOHSHI**（1977年4月22日－）[血型O型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
-[主唱](../Page/主唱.md "wikilink")，出生於[埼玉県](../Page/埼玉県.md "wikilink")。本名：浅川甲史（あさかわ
+[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，出生於[埼玉県](https://zh.wikipedia.org/wiki/埼玉県 "wikilink")。本名：浅川甲史（あさかわ
 こうし）。 TAKE的兄長。LIVE會和TAKE一同彈結他、在歌曲『太陽』中也負責吹口琴。大部分歌詞也是由他創作。
 由小學至高中致力於田徑賽。有跨欄賽以至4X400m接力的經驗。
 成員之中唯一一個未婚。 雙主唱組成的原因是因為KOHSHI認為「一個人唱歌實在太累了\!」
 
-  - **KEIGO**（1977年7月1日－）[血型O型](../Page/血型.md "wikilink")
+  - **KEIGO**（1977年7月1日－）[血型O型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
-[主唱](../Page/主唱.md "wikilink")，出生於[東京都](../Page/東京都.md "wikilink")。本名：林圭吾（はやし
-けいご）。 在雜誌的採訪上說是足球愛好家、跟足球選手[卷誠一郎是好友](../Page/卷誠一郎.md "wikilink")。
+[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，出生於[東京都](../Page/東京都.md "wikilink")。本名：林圭吾（はやし
+けいご）。
+在雜誌的採訪上說是足球愛好家、跟足球選手[卷誠一郎是好友](https://zh.wikipedia.org/wiki/卷誠一郎 "wikilink")。
 間中會負責作詞，也會和KOHSHI一起創作。喜歡的女性是「和自己有同樣笑容的人」。
 100公尺以11秒0速度跑完，與KOHSHI一起4X400m接力等，有田徑賽的經驗。
 對流行也有所拘泥，特別是對[「Chrome
-Hearts」](../Page/「Chrome_Hearts」.md "wikilink")。
+Hearts」](https://zh.wikipedia.org/wiki/「Chrome_Hearts」 "wikilink")。
 
-  - **TAKE**（1978年8月31日－）[血型A型](../Page/血型.md "wikilink")
+  - **TAKE**（1978年8月31日－）[血型A型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
-吉他手／合唱。出生於[埼玉県](../Page/埼玉県.md "wikilink")。本名：浅川岳史（あさかわ たけし）。KOHSHI的弟弟。
-成員中年紀最小的一位，是隊長（到2007年7月）。「TAKE」的名字來自本名的「岳史（Takeshi）」。
-大部分歌曲是由他作曲。在『Everything all right』『Hands』『Love
-Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス」）。
-經常在[PV轉換髮型](../Page/PV.md "wikilink")。
+吉他手／合唱。出生於[埼玉県](https://zh.wikipedia.org/wiki/埼玉県 "wikilink")。本名：浅川岳史（あさかわ
+たけし）。KOHSHI的弟弟。 成員中年紀最小的一位，是隊長（到2007年7月）。「TAKE」的名字來自本名的「岳史（Takeshi）」。
+大部分歌曲是由他作曲。在『Everything all right』『Hands』『Love Dub』『メロス』中也負責作詞，
+（和KEIGO共同創作「メロス」）。
+經常在[PV轉換髮型](https://zh.wikipedia.org/wiki/PV "wikilink")。
 
-  - **GOT'S**（1977年1月26日－）[血型A型](../Page/血型.md "wikilink")
+  - **GOT'S**（1977年1月26日－）[血型A型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
 貝斯手／合唱。出生於新潟県。本名：後藤康太郎（ごとう こうたろう）。 間中會負責作曲。「GOT'S」的名字來自本名的「後藤」。
 有重度的畏高症，一直以紅色的髮型為標志。 和TAKE共同創作『Around the world』。天然系。
 
-  - **IWASAKI**（1969年11月21日－）[血型A型](../Page/血型.md "wikilink")
+  - **IWASAKI**（1969年11月21日－）[血型A型](https://zh.wikipedia.org/wiki/血型 "wikilink")
 
 鼓手。出生於大阪府。本名：岩崎博詞（いわさき ひろし）。
 成員中年紀最大的前輩。前職是便當店的店長。『ドリームエクスプレス』中負責作詞（和KOHSHI共同創作）。
@@ -77,15 +78,15 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
 <!-- end list -->
 
   - 2007年11月、和友好的[HOME MADE
-    家族一起首次創作曲子](../Page/HOME_MADE_家族.md "wikilink")
+    家族一起首次創作曲子](https://zh.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")
 
 <!-- end list -->
 
-  - [2008年9月20日](../Page/2008年9月20日.md "wikilink")、在[日本武道館完成](../Page/日本武道館.md "wikilink")「アイル」的全國巡回演出最終回
+  - [2008年9月20日](https://zh.wikipedia.org/wiki/2008年9月20日 "wikilink")、在[日本武道館完成](../Page/日本武道館.md "wikilink")「アイル」的全國巡回演出最終回
 
 <!-- end list -->
 
-  - [2009年1月28日](../Page/2009年1月28日.md "wikilink")、發行「\#5」的專輯，是5周年紀念活動中最後一張唱片，並且在2月28日舉行「\#5」的全國巡回演出
+  - [2009年1月28日](https://zh.wikipedia.org/wiki/2009年1月28日 "wikilink")、發行「\#5」的專輯，是5周年紀念活動中最後一張唱片，並且在2月28日舉行「\#5」的全國巡回演出
 
 <!-- end list -->
 
@@ -104,7 +105,7 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
 2.  **Like a Rolling Snow**（2002年11月27日）
       -
         c/w サムライムアフロ／日々道々／KA-ZA-A-NA／サニーサイドサーキット
-3.  **[贈る言葉](../Page/贈る言葉.md "wikilink")**（2003年1月15日）
+3.  **[贈る言葉](https://zh.wikipedia.org/wiki/贈る言葉 "wikilink")**（2003年1月15日）
       - 最高順位6位　売上枚数26.6万枚
     <!-- end list -->
       -
@@ -150,7 +151,7 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
       -
         c/w RISING DRAGON/MY LIFE/GO\!\!\!\~VOCALLESS
         MIX\~/GO\!\!\!\~NARUTO OPENING MIX\~
-        [動畫](../Page/動畫.md "wikilink")『[火影忍者](../Page/火影忍者.md "wikilink")』4th
+        [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『[火影忍者](../Page/火影忍者.md "wikilink")』4th
         Opening Theme
 5.  **Life is beautiful**（2004年11月3日）
       - 最高順位28位　売上枚数1.1万枚
@@ -162,83 +163,86 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
     <!-- end list -->
       -
         c/w SHINE
-        『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』2005年4月－6月 Ending
-        Theme
-7.  **[DAYS](../Page/DAYS_\(FLOW\).md "wikilink")**（2005年6月1日）
+        『[内村プロデュース](https://zh.wikipedia.org/wiki/内村プロデュース "wikilink")』2005年4月－6月
+        Ending Theme
+7.  **[DAYS](https://zh.wikipedia.org/wiki/DAYS_\(FLOW\) "wikilink")**（2005年6月1日）
       - 最高順位3位　売上枚数10.0万枚
     <!-- end list -->
       -
         c/w Journey/Fun Time Delivery/DAYS～EUREKA OPENING MIX～
-        動畫『[交響詩篇](../Page/交響詩篇.md "wikilink")』1st Opening Theme
+        動畫『[交響詩篇](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")』1st
+        Opening Theme
 8.  **Garden～Summer Edit～**（2005年8月3日）
       - 最高順位50位　売上枚数0.3万枚
     <!-- end list -->
       -
         フジテレビ系「ウチくる\!?」Ending Theme c/w Since...
-9.  **[Re:member](../Page/Re:member.md "wikilink")**（2006年5月31日）
+9.  **[Re:member](https://zh.wikipedia.org/wiki/Re:member "wikilink")**（2006年5月31日）
       - 最高順位12位　売上枚数2.3万枚
     <!-- end list -->
       -
         c/w Your song／カレイドスコープ／Re:member -Vocalless Mix-/Re:member
         -NARUTO Opening Mix-
-        [動畫](../Page/動畫.md "wikilink")『[火影忍者](../Page/火影忍者.md "wikilink")』8th
+        [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『[火影忍者](../Page/火影忍者.md "wikilink")』8th
         Opening Theme
 10. **[Around the
-    world/KANDATA](../Page/Around_the_world/KANDATA.md "wikilink")**（2006年9月13日）
+    world/KANDATA](https://zh.wikipedia.org/wiki/Around_the_world/KANDATA "wikilink")**（2006年9月13日）
       - 最高順位23位　売上枚数0.8万枚
     <!-- end list -->
       -
         c/w KANDATA/Shakys/Around the world -Vocalless Mix-/KANDATA
         -Vocalless Mix-
-        [スズキ・スイフト廣告歌曲](../Page/スズキ・スイフト.md "wikilink")
-11. **[COLORS](../Page/COLORS_\(FLOW\).md "wikilink")**（2006年11月8日）
+        [スズキ・スイフト廣告歌曲](https://zh.wikipedia.org/wiki/スズキ・スイフト "wikilink")
+11. **[COLORS](https://zh.wikipedia.org/wiki/COLORS_\(FLOW\) "wikilink")**（2006年11月8日）
       - 最高順位2位　売上枚数5.5万枚
     <!-- end list -->
       -
         c/w アストロスライダー／Love Dub/COLORS -CODE GEASS OPENING MIX-
         動畫『[Code Geass
-        反叛的魯路修](../Page/Code_Geass_反叛的魯路修.md "wikilink")』Opening
+        反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")』Opening
         Theme
-12. **[Answer](../Page/Answer_\(FLOW\).md "wikilink")**（2007年8月1日）
+12. **[Answer](https://zh.wikipedia.org/wiki/Answer_\(FLOW\) "wikilink")**（2007年8月1日）
       - 最高順位7位　売上枚数8.5万枚
     <!-- end list -->
       -
         c/w Electric circus/Steppers high/Answer (instrumental)
-        日劇『[探偵学園Q](../Page/探偵学園Q.md "wikilink")』Opening Theme
+        日劇『[探偵学園Q](https://zh.wikipedia.org/wiki/探偵学園Q "wikilink")』Opening
+        Theme
 13. **[冬の雨音/NIGHT
-    PARADE](../Page/冬の雨音/NIGHT_PARADE.md "wikilink")**（2007年11月28日）
+    PARADE](https://zh.wikipedia.org/wiki/冬の雨音/NIGHT_PARADE "wikilink")**（2007年11月28日）
       - 最高順位19位　売上枚数1.0万枚
     <!-- end list -->
       -
         c/w 冬の雨音／NIGHT PARADE by FLOW ∞ HOME MADE 家族／Image／冬の雨音
         -Instrumental-/NIGHT PARADE by FLOW ∞ HOME MADE 家族
         -Instrumental-
-        [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[音燃え\!](../Page/音燃え!.md "wikilink")」11月Opening
+        [日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink")「[音燃え\!](https://zh.wikipedia.org/wiki/音燃え! "wikilink")」11月Opening
         theme
         日本テレビ「歌スタ\!\!」12月のお題歌
-        [TBS系全国ネット](../Page/東京放送.md "wikilink")『[スーパーサッカーPLUS](../Page/スーパーサッカーPLUS.md "wikilink")』Theme
-14. **[ありがとう](../Page/ありがとう_\(FLOW\).md "wikilink")**（2008年2月20日）
+        [TBS系全国ネット](https://zh.wikipedia.org/wiki/東京放送 "wikilink")『[スーパーサッカーPLUS](https://zh.wikipedia.org/wiki/スーパーサッカーPLUS "wikilink")』Theme
+14. **[ありがとう](https://zh.wikipedia.org/wiki/ありがとう_\(FLOW\) "wikilink")**（2008年2月20日）
       - 最高順位25位　売上枚数0.5万枚
     <!-- end list -->
       -
         c/w 旅人／ありがとう -Instrumental-
 15. **[WORD OF THE
-    VOICE](../Page/\(FLOW\).md "wikilink")**（[2008年6月4日](../Page/2008年6月4日.md "wikilink")）
+    VOICE](https://zh.wikipedia.org/wiki/\(FLOW\) "wikilink")**（[2008年6月4日](https://zh.wikipedia.org/wiki/2008年6月4日 "wikilink")）
       - 最高順位15位　
     <!-- end list -->
       -
         c/w ESCA/Always
         動畫『PERSONA -trinity soul-』2nd Opening Theme
-16. **[WORLD END](../Page/WORLD_END.md "wikilink")**（2008年8月13日）
+16. **[WORLD
+    END](https://zh.wikipedia.org/wiki/WORLD_END "wikilink")**（2008年8月13日）
       - 最高順位4位　売上枚数3.2万枚
     <!-- end list -->
       -
         c/w LEATHER FACE/I WILL/WORLD END -CODE GEASS Opening Mix-
         動畫『[Code Geass 反叛的魯路修
-        R2](../Page/Code_Geass_反叛的魯路修_R2.md "wikilink")』2nd
+        R2](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修_R2 "wikilink")』2nd
         Opening Theme
 17. **[SNOW FLAKE
-    〜記憶の固執〜/PULSE](../Page/SNOW_FLAKE_〜記憶の固執〜/PULSE.md "wikilink")**（2008年12月10日）
+    〜記憶の固執〜/PULSE](https://zh.wikipedia.org/wiki/SNOW_FLAKE_〜記憶の固執〜/PULSE "wikilink")**（2008年12月10日）
       - 最高順位24位　
     <!-- end list -->
       -
@@ -344,7 +348,7 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
 ### 獎項
 
   - 由 TAKESHI ASAKAWA
-    作曲的動畫《[火影忍者](../Page/火影忍者.md "wikilink")》（第1輯）第2首香港版主題曲由胡諾言主唱的《忍舞》於2008年度[新城勁爆兒歌頒獎禮奪得](../Page/新城勁爆兒歌頒獎禮.md "wikilink")「新城勁爆兒歌」獎
+    作曲的動畫《[火影忍者](../Page/火影忍者.md "wikilink")》（第1輯）第2首香港版主題曲由胡諾言主唱的《忍舞》於2008年度[新城勁爆兒歌頒獎禮奪得](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")「新城勁爆兒歌」獎
 
 ### DVD
 
@@ -356,7 +360,8 @@ Dub』『メロス』中也負責作詞， （和KEIGO共同創作「メロス�
 
 ## 電台
 
-  - FLOW キャプテン26\!（[TOKYO FM系](../Page/TOKYO_FM.md "wikilink")、毎週金曜25:30
+  - FLOW キャプテン26\!（[TOKYO
+    FM系](https://zh.wikipedia.org/wiki/TOKYO_FM "wikilink")、毎週金曜25:30
     - 26:00）
 
 ## 參考資料

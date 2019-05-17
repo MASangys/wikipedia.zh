@@ -10,7 +10,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 
 主角一打開眼睛，就發現自己正從天上數千公尺向地面掉下，但失去記憶的他並不知道原因。在這沒頭沒腦的狀況中，主角遇見乘著彗（掃帚）的魔女，被問名稱後，卻不能好好回答，其後再出現魔女和，經一段短暫對話後，三魔女和平常人不能看見的惡魔戰鬥，但戰敗。最後絲碧卡抱著本應是陌生人的主角並親吻，說是當作一種紀念，然後兩人掉到地面死亡。
 
-主角再打開眼睛，發現身處[天堂](../Page/天堂.md "wikilink")，走近一台巨型電視後，畫面出現自稱是神的幼稚園小女孩，主角被取名為「」，主角一直說服要重生，但因為女孩覺得沒趣而不答應。其後又出現自稱是神的狗，並給主角重生的機會，變出三道門，叫主角走入左面的紅色門。主角毫不猶疑地跑進門內。
+主角再打開眼睛，發現身處[天堂](https://zh.wikipedia.org/wiki/天堂 "wikilink")，走近一台巨型電視後，畫面出現自稱是神的幼稚園小女孩，主角被取名為「」，主角一直說服要重生，但因為女孩覺得沒趣而不答應。其後又出現自稱是神的狗，並給主角重生的機會，變出三道門，叫主角走入左面的紅色門。主角毫不猶疑地跑進門內。
 
 主角一打開眼睛，就發現自己正從天上數千公尺向地面掉下，但失去記憶的他並不知道原因。在這沒頭沒腦的狀況中，主角遇見乘著彗的魔女絲碧卡，被問名稱後，頭中忽然湧出「前世」的記憶，並靠著這些記憶而令事情向好的方面發展。被米拉帶到後，主角遇見新聞部的**日下部雨火**，一邊與之對話一邊看著三魔女的戰鬥。但最後惡魔破壞了，世界滅亡，主角死亡。
 
@@ -36,7 +36,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
     第85位戰敗的魔女。登場於廣播劇和《STAR MINE GIRL SPECIAL》。德內博的搭檔，喜歡漫畫和甜食。
   -
     第84位戰敗的魔女。登場於廣播劇於《STAR MINE GIRL
-    SPECIAL》。卡貝拉的搭檔，喜歡[神秘學](../Page/神秘學.md "wikilink")。
+    SPECIAL》。卡貝拉的搭檔，喜歡[神秘學](https://zh.wikipedia.org/wiki/神秘學 "wikilink")。
   -
     身高：155cm，體重：47kg，三圍：74/57/80
     伊都夏大學園的學生會長、自衛軍指揮者，對自己的信念十分堅持。
@@ -56,7 +56,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
     班主任、迦勒底的指令，性格隨便，讓主角暫住於自己家中。也是世界第一位魔女「」。
   -
     身高：194cm，體重：84kg
-    學生會顧問。總是背著一支[結他](../Page/結他.md "wikilink")，但其實不會彈。
+    學生會顧問。總是背著一支[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")，但其實不會彈。
   -
     身高：155cm，體重：55kg
     絲碧卡家中葛西野家的管家，對絲碧卡十分忠誠。雖然和襟在二郎是雙胞胎，但性格完全相反。
@@ -72,7 +72,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
   -
     加納特的哥哥。於8年前化為惡魔，Arided迫不得已將他殺掉。
   -
-    現實世界中的三年級生，對[天文非常有興趣](../Page/天文.md "wikilink")，天文部部長。
+    現實世界中的三年級生，對[天文非常有興趣](https://zh.wikipedia.org/wiki/天文 "wikilink")，天文部部長。
   -
     最初的「神」。在現實世界是屬於天文部的一年級生，和真一樣對天文非常有興趣。
 
@@ -92,13 +92,14 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 ### SMG
 
   - 主題曲、結尾曲「(a)SLOW STAR」
-    歌：[Swinging Popsicle](../Page/Swinging_Popsicle.md "wikilink")
+    歌：[Swinging
+    Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
   - 絲碧卡角色曲「」
-    歌：[Rio](../Page/Rio.md "wikilink")
+    歌：[Rio](https://zh.wikipedia.org/wiki/Rio "wikilink")
   - 米拉角色曲「」
-    歌：[Qube](../Page/Qube.md "wikilink")
+    歌：[Qube](https://zh.wikipedia.org/wiki/Qube "wikilink")
   - 加納特角色曲「」
-    歌：[THE SPIN](../Page/THE_SPIN.md "wikilink")
+    歌：[THE SPIN](https://zh.wikipedia.org/wiki/THE_SPIN "wikilink")
   - 結尾曲「happy blue sky trip」
     歌：
   - 插入曲「」
@@ -122,19 +123,21 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 ### Star Mine Gig
 
   - (a)SLOW STAR Movie Ver.
-    歌：[Swinging Popsicle](../Page/Swinging_Popsicle.md "wikilink")
+    歌：[Swinging
+    Popsicle](https://zh.wikipedia.org/wiki/Swinging_Popsicle "wikilink")
   - Sunahama
     語音，聲優：
   -
-    絲碧卡的[插入曲](../Page/插入曲.md "wikilink")，歌：[Rio](../Page/Rio.md "wikilink")
+    絲碧卡的[插入曲](https://zh.wikipedia.org/wiki/插入曲 "wikilink")，歌：[Rio](https://zh.wikipedia.org/wiki/Rio "wikilink")
   - Mirai
     語音，聲優：守田羽絲
   -
-    米拉的插入曲，歌：[Qube](../Page/Qube.md "wikilink")
+    米拉的插入曲，歌：[Qube](https://zh.wikipedia.org/wiki/Qube "wikilink")
   - Gensou
     語音，聲優：杏子御津
   -
-    加納特的插入曲，歌：[THE SPIN](../Page/THE_SPIN.md "wikilink")
+    加納特的插入曲，歌：[THE
+    SPIN](https://zh.wikipedia.org/wiki/THE_SPIN "wikilink")
   -  Short Ver.
     歌：
 
@@ -149,7 +152,7 @@ MINE GIRL SPECIAL》則是《STAR MINE GIRL》團圓結局後的後續故事和�
 
 ## 小說
 
-[大樹連司著](../Page/大樹連司.md "wikilink")，[小學館](../Page/小學館.md "wikilink")[Gagaga文庫出版](../Page/Gagaga文庫.md "wikilink")。2008年10月18日出版第一卷，11月18日出版第二卷。
+[大樹連司著](https://zh.wikipedia.org/wiki/大樹連司 "wikilink")，[小學館](../Page/小學館.md "wikilink")[Gagaga文庫出版](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")。2008年10月18日出版第一卷，11月18日出版第二卷。
 
 ## 參考資料
 

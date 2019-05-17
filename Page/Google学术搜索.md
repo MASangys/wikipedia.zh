@@ -1,4 +1,4 @@
-**Google学术搜索**（）是一个可以免费搜索[学术文章的网络](../Page/学术.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")，由计算机专家开发。2004年11月，[Google第一次发布了Google学术搜索的试用版](../Page/Google.md "wikilink")。该项索引包括了世界上绝大部分出版的[学术期刊](../Page/学术期刊.md "wikilink")。
+**Google学术搜索**（）是一个可以免费搜索[学术文章的网络](../Page/学术.md "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，由计算机专家开发。2004年11月，[Google第一次发布了Google学术搜索的试用版](../Page/Google.md "wikilink")。该项索引包括了世界上绝大部分出版的[学术期刊](../Page/学术期刊.md "wikilink")。
 
 Google
 Scholar是一个可以免费搜索学术文章的网络搜索引擎索引了出版文章中文字的格式和科目，能够帮助用户查找包括期刊论文、学位论文、书籍、预印本、文摘和技术报告在内的学术文献，内容涵盖自然科学、人文科学、社会科学等多种学科。BETA版本于2004年11月发行，收录欧洲和美洲地区最大学术书版商们共同评定(peer-reviewed)的文章，这在一般搜索引擎大部分是被忽略的。这个功能和

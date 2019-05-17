@@ -1,4 +1,4 @@
-**迪克曼街車站**（）是[紐約地鐵](../Page/紐約地鐵.md "wikilink")[IRT百老匯-第七大道線一個](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](../Page/地鐵站.md "wikilink")，大致位於[曼哈頓](../Page/曼哈頓.md "wikilink")[英伍德](../Page/英伍德.md "wikilink")及內格爾大道交界，設有[1號線](../Page/紐約地鐵1號線.md "wikilink")（任何時候停站）列車服務。
+**迪克曼街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線一個](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，大致位於[曼哈頓](../Page/曼哈頓.md "wikilink")[英伍德](../Page/英伍德.md "wikilink")及內格爾大道交界，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -11,11 +11,11 @@
 </tr>
 <tr class="even">
 <td><p>&lt;span style=color:#&gt;<strong>北行</strong></span></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">范科特蘭公園-242街</a><small>（<a href="../Page/207街車站_(IRT百老匯-第七大道線).md" title="wikilink">207街</a>）</small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a><small>（<a href="../Page/207街車站_(IRT百老匯-第七大道線).md" title="wikilink">207街</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/南碼頭-白廳街車站.md" title="wikilink">南碼頭</a><small>（<a href="../Page/191街車站_(IRT百老匯-第七大道線).md" title="wikilink">191街</a>）</small></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站" title="wikilink">南碼頭</a><small>（<a href="../Page/191街車站_(IRT百老匯-第七大道線).md" title="wikilink">191街</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>
@@ -32,7 +32,7 @@
 </tbody>
 </table>
 
-此土堤高架車站設有兩個[側式月台](../Page/側式月台.md "wikilink")，兩條軌道並維持平面。它位於華盛頓高地礦山隧道北端入口，將IRT百老匯-第七大道線帶到曼哈頓的岩床。車站北面，[曼哈頓上城的地形快速下跌](../Page/曼哈頓上城.md "wikilink")，路線則沿路高架至[范科特蘭公園-242街](../Page/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\).md "wikilink")。
+此土堤高架車站設有兩個[側式月台](../Page/側式月台.md "wikilink")，兩條軌道並維持平面。它位於華盛頓高地礦山隧道北端入口，將IRT百老匯-第七大道線帶到曼哈頓的岩床。車站北面，[曼哈頓上城的地形快速下跌](https://zh.wikipedia.org/wiki/曼哈頓上城 "wikilink")，路線則沿路高架至[范科特蘭公園-242街](https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_\(IRT百老匯-第七大道線\) "wikilink")。
 {{-}}
 
 ## 圖片

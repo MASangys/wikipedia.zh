@@ -1,9 +1,9 @@
-**DeviantArt**（2001年至2014年間稱為**deviantArt**，简称：**DA**），是一个为艺术家展示各自作品、并交流讨论而设计的[社交网路服务网站](../Page/社交网路服务.md "wikilink")。它以分类系统为基础，辅以个人日志、新闻、社区论坛、每日作品、人气榜、最爱、收藏和可嵌套的评论与回复系统构建起具有自身特色的社交网路。至2010年8月DA已有1450万用户注册并收到超过1亿个各种作品的投稿。DA的用户每天共能发表约14万个新作品，添加约140万次“最爱”和发表约150万条评论。
+**DeviantArt**（2001年至2014年間稱為**deviantArt**，简称：**DA**），是一个为艺术家展示各自作品、并交流讨论而设计的[社交网路服务网站](https://zh.wikipedia.org/wiki/社交网路服务 "wikilink")。它以分类系统为基础，辅以个人日志、新闻、社区论坛、每日作品、人气榜、最爱、收藏和可嵌套的评论与回复系统构建起具有自身特色的社交网路。至2010年8月DA已有1450万用户注册并收到超过1亿个各种作品的投稿。DA的用户每天共能发表约14万个新作品，添加约140万次“最爱”和发表约150万条评论。
 
 ## 创始
 
 DA最初作为音乐网站[Dmusic
-Network的一部分由Scott](../Page/Dmusic_Network.md "wikilink")
+Network的一部分由Scott](https://zh.wikipedia.org/wiki/Dmusic_Network "wikilink")
 Jarkoff、Matt Stephens和Angelo
 Sotira在2000年8月7日上线。\[1\]并在8个月后正式成立独立公司。\[2\]
 
@@ -19,7 +19,7 @@ DA的绝大部分服务都是免费的，但交费的高级会员可以享有便
 
 ### 作品投稿
 
-DA接受各式各样的投稿内容，包括但并不限于：[摄影](../Page/摄影.md "wikilink")、[数位绘画](../Page/数位绘画.md "wikilink")、[传统绘画](../Page/传统绘画.md "wikilink")、[文学](../Page/文学.md "wikilink")、[动画](../Page/动画.md "wikilink")、[程式外观](../Page/界面.md "wikilink")、[教學](../Page/教學.md "wikilink")。
+DA接受各式各样的投稿内容，包括但并不限于：[摄影](../Page/摄影.md "wikilink")、[数位绘画](https://zh.wikipedia.org/wiki/数位绘画 "wikilink")、[传统绘画](https://zh.wikipedia.org/wiki/传统绘画 "wikilink")、[文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[动画](../Page/动画.md "wikilink")、[程式外观](https://zh.wikipedia.org/wiki/界面 "wikilink")、[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")。
 
 用户可以根据作品性质选择对某些群体的用户不显示。\[5\]
 

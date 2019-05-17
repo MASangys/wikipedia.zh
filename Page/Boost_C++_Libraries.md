@@ -5,23 +5,23 @@ license = [Boost许可证](../Page/Boost许可证.md "wikilink") | website =
 <http://www.boost.org/> }}
 
 **Boost C++
-函式庫**（Libraries）是一組擴充[C++功能的經過](../Page/C++.md "wikilink")[同行評審](../Page/同行評審.md "wikilink")（Peer-reviewed）且[開放源碼程式庫](../Page/開放源碼.md "wikilink")。大多數的函式為了能夠以開放源碼、封閉專案的方式運作，而授權於Boost軟體授權條款（Boost
+函式庫**（Libraries）是一組擴充[C++功能的經過](../Page/C++.md "wikilink")[同行評審](../Page/同行評審.md "wikilink")（Peer-reviewed）且[開放源碼程式庫](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。大多數的函式為了能夠以開放源碼、封閉專案的方式運作，而授權於Boost軟體授權條款（Boost
 Software
 License）之下。許多Boost的開發人員是來自C++標準委員會，而部份的Boost函式庫成為C++的[TR1標準之一](../Page/C++_Technical_Report_1.md "wikilink")。\[1\]
 
 為了要確保函式庫的效率與彈性，Boost廣泛的使用[模板](../Page/模板_\(C++\).md "wikilink")（template）功能。而它是針對各式領域的C++使用者與應用領域（Application
 Domain）上，包含的函式庫類別從像[smart_ptr
-函式庫](http://www.boost.org/doc/libs/1_35_0/libs/smart_ptr/smart_ptr.htm)這種類通用函式庫，到像是[檔案系統的](../Page/Boost_檔案系統.md "wikilink")[作業系統抽象層](../Page/作業系統.md "wikilink")，甚至能夠利用Boost來開發額外的函式庫或是給進階的C++使用者利用，像是[MPL](http://www.boost.org/libs/mpl)。
+函式庫](http://www.boost.org/doc/libs/1_35_0/libs/smart_ptr/smart_ptr.htm)這種類通用函式庫，到像是[檔案系統的](https://zh.wikipedia.org/wiki/Boost_檔案系統 "wikilink")[作業系統抽象層](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，甚至能夠利用Boost來開發額外的函式庫或是給進階的C++使用者利用，像是[MPL](http://www.boost.org/libs/mpl)。
 
 ## 內容
 
-  - [演算法](../Page/标准模板库#演算法.md "wikilink")
+  - [演算法](https://zh.wikipedia.org/wiki/标准模板库#演算法 "wikilink")
   - 并行计算
       - [thread](http://boost.org/libs/thread/index.html) -
-        [執行緒](../Page/執行緒.md "wikilink")
+        [執行緒](https://zh.wikipedia.org/wiki/執行緒 "wikilink")
       - [context](http://boost.org/libs/context/index.html) -
         用戶層級[上下文交換](../Page/上下文交換.md "wikilink")
-  - [容器](../Page/容器_\(计算机科学\).md "wikilink")
+  - [容器](https://zh.wikipedia.org/wiki/容器_\(计算机科学\) "wikilink")
       - [array](http://boost.org/doc/html/array.html) - STL的数组容器
       - [Boost Graph Library
         (BGL)](http://boost.org/libs/graph/doc/table_of_contents.html) -
@@ -50,10 +50,10 @@ Domain）上，包含的函式庫類別從像[smart_ptr
       - [Boost Test
         Library](https://web.archive.org/web/20080516051646/http://boost.org/libs/test/doc/index.html)
         - C++ 单元测试框架
-  - [資料結構](../Page/資料結構.md "wikilink")
+  - [資料結構](https://zh.wikipedia.org/wiki/資料結構 "wikilink")
       - [dynamic_bitset](http://boost.org/libs/dynamic_bitset/) -
         `std::bitset-`的動態轉型
-  - [仿函式與](../Page/仿函式.md "wikilink")[高階函式](../Page/高階函式.md "wikilink")（含無名関数）
+  - [仿函式與](https://zh.wikipedia.org/wiki/仿函式 "wikilink")[高階函式](https://zh.wikipedia.org/wiki/高階函式 "wikilink")（含無名関数）
       - [bind](http://boost.org/libs/bind/bind.html) and
         [mem_fn](http://www.boost.org/libs/bind/mem_fn.html) - 函式的綁定
       - [function](http://boost.org/doc/html/function.html) - 函式。
@@ -70,7 +70,7 @@ Domain）上，包含的函式庫類別從像[smart_ptr
       - [hash](http://boost.org/doc/html/hash.html) - C++ Technical
         Report 1（TR1）定義的雜湊表
       - [lambda](http://boost.org/doc/html/lambda.html) -
-        [λ演算的實作](../Page/λ演算.md "wikilink")
+        [λ演算的實作](https://zh.wikipedia.org/wiki/λ演算 "wikilink")
       - [ref](http://boost.org/doc/html/ref.html) - 標準C++参照（call by
         reference）的加強、特別強化與函式的呼叫
       - [result_of](http://boost.org/libs/utility/utility.htm#result_of)
@@ -78,8 +78,8 @@ Domain）上，包含的函式庫類別從像[smart_ptr
       - [signals2](http://boost.org/doc/html/signals2.html) -
         信号和槽回调的实现托管
   - [泛型](../Page/泛型.md "wikilink")
-  - [圖](../Page/圖.md "wikilink")
-  - [I/O](../Page/I/O.md "wikilink")
+  - [圖](https://zh.wikipedia.org/wiki/圖 "wikilink")
+  - [I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")
   - 語言之間的支援（[Python用](../Page/Python.md "wikilink")）
   - [迭代器](../Page/迭代器.md "wikilink")
       - [iterators](http://boost.org/libs/iterator/doc/index.html)
@@ -123,7 +123,7 @@ Domain）上，包含的函式庫類別從像[smart_ptr
   - 其他
   - [語法分析器](../Page/語法分析器.md "wikilink")
   - 預處理元編程
-  - [字串與文字處理](../Page/字串.md "wikilink")（[正規表示式等](../Page/正規表示式.md "wikilink")）
+  - [字串與文字處理](https://zh.wikipedia.org/wiki/字串 "wikilink")（[正規表示式等](https://zh.wikipedia.org/wiki/正規表示式 "wikilink")）
       - [lexical_cast](https://web.archive.org/web/20080724032825/http://boost.org/libs/conversion/lexical_cast.htm)
         - lexical_cast 类別模板
 
@@ -145,7 +145,8 @@ Domain）上，包含的函式庫類別從像[smart_ptr
         把字串序列分解成一系列标记（tokens）
 
       - [wave](http://boost.org/libs/wave/index.html) -
-  - [模板元编程](../Page/模板元编程.md "wikilink")（Template Metaprogramming）
+  - [模板元编程](https://zh.wikipedia.org/wiki/模板元编程 "wikilink")（Template
+    Metaprogramming）
       - [mpl](http://boost.org/libs/mpl/doc/index.html) - 模板元编程框架
       - [static
         assert](http://boost.org/doc/html/boost_staticassert.html) -
@@ -195,10 +196,11 @@ int main ()
 
 ### 随机数产生 – Boost.Random
 
-Boost 也提供独立分布的[模拟随机与](../Page/模拟随机.md "wikilink") PRNG
-独立性的机率分布，而这些能夠具体的建立产生器。
+Boost 也提供独立分布的[模拟随机与](https://zh.wikipedia.org/wiki/模拟随机 "wikilink")
+PRNG 独立性的机率分布，而这些能夠具体的建立产生器。
 
-  - 此范例表示如何使用 [Mersenne Twister](../Page/Mersenne_Twister.md "wikilink")
+  - 此范例表示如何使用 [Mersenne
+    Twister](https://zh.wikipedia.org/wiki/Mersenne_Twister "wikilink")
     演算法来产生随机
 
 <!-- end list -->
@@ -256,7 +258,8 @@ int main(int argc, char* argv[])
 
   - [Introduction to
     Boost.Threads](http://www.ddj.com/dept/cpp/184401518) in [Dr. Dobb's
-    Journal](../Page/Dr._Dobb's_Journal.md "wikilink"). (2002)
+    Journal](https://zh.wikipedia.org/wiki/Dr._Dobb's_Journal "wikilink").
+    (2002)
   - Boost.Threads [API
     reference](http://www.boost.org/doc/html/thread.html)。
   - [threadpool library](http://threadpool.sourceforge.net) based on

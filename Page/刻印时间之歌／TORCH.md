@@ -10,7 +10,7 @@
   - 《刻印时间之歌》这首歌，其曲取自原作的一首背景音乐《》。
   - 2008年11月14日发行当天的[Oricon公信榜上](../Page/Oricon.md "wikilink")。紧跟第1位的[DREAMS
     COME
-    TRUE及第](../Page/美梦成真_\(乐团\).md "wikilink")2位的[SPEED获得初登場第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3位的記録\[2\]\[3\]。此记录同时刷新了CLANNAD系列作品相关CD及[Lia个人单曲在Oricon公信榜上的最高排名记录](../Page/Lia.md "wikilink")。
+    TRUE及第](https://zh.wikipedia.org/wiki/美梦成真_\(乐团\) "wikilink")2位的[SPEED获得初登場第](../Page/SPEED_\(日本音樂團體\).md "wikilink")3位的記録\[2\]\[3\]。此记录同时刷新了CLANNAD系列作品相关CD及[Lia个人单曲在Oricon公信榜上的最高排名记录](../Page/Lia.md "wikilink")。
 
 ## 收录曲
 
@@ -22,7 +22,9 @@
 2.  TORCH
 
       -
-        歌：Lia 作詞：魁 作曲：[折户伸治](../Page/折户伸治.md "wikilink") 編曲：福士健太郎
+        歌：Lia 作詞：魁
+        作曲：[折户伸治](https://zh.wikipedia.org/wiki/折户伸治 "wikilink")
+        編曲：福士健太郎
 
 3.  \-TV animation Ver.-
 
@@ -35,7 +37,7 @@
 ## 脚注
 
 [en:List of Clannad soundtracks\#Toki o Kizamu Uta /
-Torch](../Page/en:List_of_Clannad_soundtracks#Toki_o_Kizamu_Uta_/_Torch.md "wikilink")
+Torch](https://zh.wikipedia.org/wiki/en:List_of_Clannad_soundtracks#Toki_o_Kizamu_Uta_/_Torch "wikilink")
 
 [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink")
 [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")

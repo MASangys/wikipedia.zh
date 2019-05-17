@@ -1,4 +1,4 @@
-《**感應少年EIJI**》（）是1996年至2000年於[週刊少年Magazine連載的](../Page/週刊少年Magazine.md "wikilink")[日本漫畫](../Page/日本漫畫.md "wikilink")。[安童夕馬原作](../Page/安童夕馬.md "wikilink")、[朝基勝士作畫](../Page/朝基勝士.md "wikilink")。於1997年和1999年曾兩度在[日本電視台系列播出由](../Page/日本電視台.md "wikilink")[松岡昌宏主演的](../Page/松岡昌宏.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")。
+《**感應少年EIJI**》（）是1996年至2000年於[週刊少年Magazine連載的](../Page/週刊少年Magazine.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。[安童夕馬原作](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")、[朝基勝士作畫](../Page/朝基勝士.md "wikilink")。於1997年和1999年曾兩度在[日本電視台系列播出由](../Page/日本電視台.md "wikilink")[松岡昌宏主演的](../Page/松岡昌宏.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 2010年10月，安童在Twitter上表示自己最近開始執筆感應少年第二部，隔年在2011年4月25日發售的『[週刊Young
 Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開始了距離約有10年的新連載。台灣由[東立出版社代理](../Page/東立出版社.md "wikilink")，命名為《**感應少年EIJI
@@ -9,11 +9,11 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 ### 主要人物
 
   -
-    主角，擁有感應能力的高中二年級學生。和**志摩**在「殺人鬼[梅比斯](../Page/莫比烏斯帶.md "wikilink")」事件當中認識，偶爾會幫忙事件的搜查。是個不良少年，學校成績不好，也沒什麼朋友。曾經用感應能力獲得高成績。很重視友情，正義感強烈。總是用感應能力先一步讀取出敵人的攻擊，打架超強。
+    主角，擁有感應能力的高中二年級學生。和**志摩**在「殺人鬼[梅比斯](https://zh.wikipedia.org/wiki/莫比烏斯帶 "wikilink")」事件當中認識，偶爾會幫忙事件的搜查。是個不良少年，學校成績不好，也沒什麼朋友。曾經用感應能力獲得高成績。很重視友情，正義感強烈。總是用感應能力先一步讀取出敵人的攻擊，打架超強。
     曾經和友人**江川徹**單獨兩人殲滅整個不良少年集團，面對受過專業戰鬥訓練的人也毫不遜色。意外地頭腦很不錯，能從志摩的說明中總結出結論，並用手法騙過**澤木**。一開始感應能力只能通過手來施展，但後來發展到可以通過全身來施展。另外，也有過在感應到對方的神經性創傷及惡意而無意識地施展出感應能力（也就是說，對無惡意的人則不能施展）。感應能力重複施展的話能力會增強，但映兒事後會陷入昏睡失控的狀態。
     在學校很受女生歡迎，但實際上一次也沒和女孩交往過。中學時因為無法控制自己的感應能力，腦中無時無刻都會浮現出每一個人醜陋又真實的內心，讓他過著墮落、頹廢的日子，但是後來遇見**赤樹**刑警，學會控制之後便收斂了許多。
-    和**葛西裕介**兩人有在玩[樂團](../Page/樂團.md "wikilink")，他擔任[貝斯手及主唱](../Page/貝斯手.md "wikilink")。駕駛的[摩托車為](../Page/摩托車.md "wikilink")[KAWASAKI的](../Page/KAWASAKI.md "wikilink")[zephyr1100RS](../Page/KAWASAKI#電單車.md "wikilink")。
-    電視劇第二部中變成了以[樂團樂手為目標的自由人](../Page/音樂家.md "wikilink")，住在[Livehouse中靠打工維生](../Page/音樂展演空間.md "wikilink")。電視劇中只能用左手施展感應能力，第二部中添加了聲音感應能力，在漫畫版中也沿用了這個設定。
+    和**葛西裕介**兩人有在玩[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，他擔任[貝斯手及主唱](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")。駕駛的[摩托車為](../Page/摩托車.md "wikilink")[KAWASAKI的](https://zh.wikipedia.org/wiki/KAWASAKI "wikilink")[zephyr1100RS](https://zh.wikipedia.org/wiki/KAWASAKI#電單車 "wikilink")。
+    電視劇第二部中變成了以[樂團樂手為目標的自由人](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，住在[Livehouse中靠打工維生](https://zh.wikipedia.org/wiki/音樂展演空間 "wikilink")。電視劇中只能用左手施展感應能力，第二部中添加了聲音感應能力，在漫畫版中也沿用了這個設定。
     在新章中，映兒未能順利畢業，留級一年，目前是高中三年級。同時也是在和江川徹、葛西裕介、田宮章吉這些固定主角班底中，唯二的高中延畢生(另一位是田宮章吉)。
 
 <!-- end list -->
@@ -30,7 +30,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
   -
     高中二年級，**映兒**小學時認識的童年玩伴，知道映兒有感應能力，少數讓映兒敞開心胸的人。頭腦很好，是成績排名全學年第一的好學生，對映兒來說，是很重要、無法取代的朋友。希望成為心理學者，和映兒兩人積極的協助志摩的搜查。有時候會提出與他個性完全不符的大膽主意。暗戀**惠美**。
-    和映兒兩人有在玩樂團，擔任[鍵盤手及](../Page/鍵盤手.md "wikilink")[作曲](../Page/作曲.md "wikilink")。
+    和映兒兩人有在玩樂團，擔任[鍵盤手及](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")。
     在新章裡，順利畢業，目前是東大一年級，擔任惠美的家庭教師。
 
 ****
@@ -163,14 +163,14 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -397,47 +397,47 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 #### 主要人物
 
-  - 明日真映兒：[松岡昌宏](../Page/松岡昌宏.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）
+  - 明日真映兒：[松岡昌宏](../Page/松岡昌宏.md "wikilink")（[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")）
   - 志摩亮子：[大塚寧寧](../Page/大塚寧寧.md "wikilink")（第一部） →
-    [工藤静香](../Page/工藤静香.md "wikilink")（第二部）
-  - 田宮章吉：[井之原快彥](../Page/井之原快彥.md "wikilink")（[V6](../Page/V6.md "wikilink")）
+    [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")（第二部）
+  - 田宮章吉：[井之原快彥](../Page/井之原快彥.md "wikilink")（[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")）
   - 葛西裕介：[小原裕貴](../Page/小原裕貴.md "wikilink")
-  - 明日真惠美：[松本惠](../Page/松本惠.md "wikilink")（第一部） →
+  - 明日真惠美：[松本惠](https://zh.wikipedia.org/wiki/松本惠 "wikilink")（第一部） →
     [後藤理沙](../Page/後藤理沙.md "wikilink")（第二部） →
     [酒井彩名](../Page/酒井彩名.md "wikilink")（SP）
   - 澤木晃（Apple）：[田邊誠一](../Page/田邊誠一.md "wikilink")
-  - Pi刑警：[市川勉](../Page/市川勉.md "wikilink")
-  - 羽根山末吉：[永澤俊矢](../Page/永澤俊矢.md "wikilink")（第一部） →
-    [加藤茶](../Page/加藤茶.md "wikilink")（第二部）
+  - Pi刑警：[市川勉](https://zh.wikipedia.org/wiki/市川勉 "wikilink")
+  - 羽根山末吉：[永澤俊矢](https://zh.wikipedia.org/wiki/永澤俊矢 "wikilink")（第一部） →
+    [加藤茶](https://zh.wikipedia.org/wiki/加藤茶 "wikilink")（第二部）
 
 #### 第2期起加入的人物
 
   - Meg：[淺見麗奈](../Page/淺見麗奈.md "wikilink")
-  - Yomogida刑事：[宇梶剛士](../Page/宇梶剛士.md "wikilink")
-  - Yatagai刑事：[伊藤正之](../Page/伊藤正之.md "wikilink")
+  - Yomogida刑事：[宇梶剛士](https://zh.wikipedia.org/wiki/宇梶剛士 "wikilink")
+  - Yatagai刑事：[伊藤正之](https://zh.wikipedia.org/wiki/伊藤正之 "wikilink")
   - 深海龍彦：[生田斗真](../Page/生田斗真.md "wikilink")
-  - 実相寺碧：[黑澤明日香](../Page/黑澤明日香.md "wikilink")（黒沢あすか）
-  - 幾島丈二（卡洛斯）：[真木藏人](../Page/真木藏人.md "wikilink")
+  - 実相寺碧：[黑澤明日香](https://zh.wikipedia.org/wiki/黑澤明日香 "wikilink")（黒沢あすか）
+  - 幾島丈二（卡洛斯）：[真木藏人](https://zh.wikipedia.org/wiki/真木藏人 "wikilink")
 
 <!-- end list -->
 
   - 城北label
-      - [山崎裕太](../Page/山崎裕太.md "wikilink")
-      - [鮫島巧](../Page/鮫島巧.md "wikilink")
-      - [逆瀨川了](../Page/逆瀨川了.md "wikilink")
+      - [山崎裕太](https://zh.wikipedia.org/wiki/山崎裕太 "wikilink")
+      - [鮫島巧](https://zh.wikipedia.org/wiki/鮫島巧 "wikilink")
+      - [逆瀨川了](https://zh.wikipedia.org/wiki/逆瀨川了 "wikilink")
       - [忍成修吾](../Page/忍成修吾.md "wikilink")
-      - [丹直樹](../Page/丹直樹.md "wikilink")
+      - [丹直樹](https://zh.wikipedia.org/wiki/丹直樹 "wikilink")
       - [山田孝之](../Page/山田孝之.md "wikilink")
 
 <!-- end list -->
 
   - 西京守衛
-      - B.J - [MAKOTO](../Page/越中睦.md "wikilink")
+      - B.J - [MAKOTO](https://zh.wikipedia.org/wiki/越中睦 "wikilink")
       - [塚本高史](../Page/塚本高史.md "wikilink")
-      - [松嶋亮太](../Page/松嶋亮太.md "wikilink")
-      - [根岸勇人](../Page/根岸勇人.md "wikilink")
-      - [三上大和](../Page/三上大和.md "wikilink")
-      - [大海慎介](../Page/大海慎介.md "wikilink")
+      - [松嶋亮太](https://zh.wikipedia.org/wiki/松嶋亮太 "wikilink")
+      - [根岸勇人](https://zh.wikipedia.org/wiki/根岸勇人 "wikilink")
+      - [三上大和](https://zh.wikipedia.org/wiki/三上大和 "wikilink")
+      - [大海慎介](https://zh.wikipedia.org/wiki/大海慎介 "wikilink")
 
 #### 客串人物
 
@@ -447,11 +447,11 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 遠藤菊男（莫比烏斯）：[田口浩正](../Page/田口浩正.md "wikilink")
-  - 三之輪浩市：[長江英和](../Page/長江英和.md "wikilink")
-  - 遠藤正子：[原知佐子](../Page/原知佐子.md "wikilink")
+  - 遠藤菊男（莫比烏斯）：[田口浩正](https://zh.wikipedia.org/wiki/田口浩正 "wikilink")
+  - 三之輪浩市：[長江英和](https://zh.wikipedia.org/wiki/長江英和 "wikilink")
+  - 遠藤正子：[原知佐子](https://zh.wikipedia.org/wiki/原知佐子 "wikilink")
   - 雪（ユキ）：[栗山千明](../Page/栗山千明.md "wikilink")
-  - 中華屋店主：[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")
+  - 中華屋店主：[笑福亭笑瓶](https://zh.wikipedia.org/wiki/笑福亭笑瓶 "wikilink")
   - 拉麵攤老闆：[麿赤兒](../Page/麿赤兒.md "wikilink")
 
 <!-- end list -->
@@ -460,12 +460,12 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 若林十藏：[寺田稔](../Page/寺田稔.md "wikilink")
-  - 布袋結次：[高杢禎彦](../Page/高杢禎彦.md "wikilink")
-  - 西卷丈治：[阿南健治](../Page/阿南健治.md "wikilink")
-  - 夏目比美子：[田中廣子](../Page/田中廣子.md "wikilink")
-  - 鳥居茜（あかね）：[井上彩名](../Page/井上彩名.md "wikilink")
-  - 銀行分店長：[大河内浩](../Page/大河内浩.md "wikilink")
+  - 若林十藏：[寺田稔](https://zh.wikipedia.org/wiki/寺田稔 "wikilink")
+  - 布袋結次：[高杢禎彦](https://zh.wikipedia.org/wiki/高杢禎彦 "wikilink")
+  - 西卷丈治：[阿南健治](https://zh.wikipedia.org/wiki/阿南健治 "wikilink")
+  - 夏目比美子：[田中廣子](https://zh.wikipedia.org/wiki/田中廣子 "wikilink")
+  - 鳥居茜（あかね）：[井上彩名](https://zh.wikipedia.org/wiki/井上彩名 "wikilink")
+  - 銀行分店長：[大河内浩](https://zh.wikipedia.org/wiki/大河内浩 "wikilink")
 
 <!-- end list -->
 
@@ -473,8 +473,9 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 大平瑞樹 / 加藤和樹：[伊藤隆大](../Page/伊藤隆大.md "wikilink")（一人飾演兩角）
-  - 加藤佳奈子：[大場久美子](../Page/大場久美子.md "wikilink")
+  - 大平瑞樹 /
+    加藤和樹：[伊藤隆大](https://zh.wikipedia.org/wiki/伊藤隆大 "wikilink")（一人飾演兩角）
+  - 加藤佳奈子：[大場久美子](https://zh.wikipedia.org/wiki/大場久美子 "wikilink")
 
 <!-- end list -->
 
@@ -483,14 +484,14 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 <!-- end list -->
 
   - 赤樹理惠（リエ）：[佐藤仁美](../Page/佐藤仁美.md "wikilink")
-  - 山村朝美：[岡田美幸](../Page/岡田美幸.md "wikilink")
-  - 岡村泉（いずみ）：[小野麻亞矢](../Page/小野麻亞矢.md "wikilink")
-  - 清水晶子：[中西禮奈](../Page/中西禮奈.md "wikilink")
-  - 日下部淳也：[村松亮太郎](../Page/村松亮太郎.md "wikilink")
-  - 赤樹隆（タカシ）：[三浦勉](../Page/三浦勉.md "wikilink")
-  - 犬塚竹男：[田口智朗](../Page/田口智朗.md "wikilink")
-  - 荒井弓子（無聲跟蹤狂）：[汀夏子](../Page/汀夏子.md "wikilink")
-  - 看守：[渡部哲](../Page/渡部哲.md "wikilink")
+  - 山村朝美：[岡田美幸](https://zh.wikipedia.org/wiki/岡田美幸 "wikilink")
+  - 岡村泉（いずみ）：[小野麻亞矢](https://zh.wikipedia.org/wiki/小野麻亞矢 "wikilink")
+  - 清水晶子：[中西禮奈](https://zh.wikipedia.org/wiki/中西禮奈 "wikilink")
+  - 日下部淳也：[村松亮太郎](https://zh.wikipedia.org/wiki/村松亮太郎 "wikilink")
+  - 赤樹隆（タカシ）：[三浦勉](https://zh.wikipedia.org/wiki/三浦勉 "wikilink")
+  - 犬塚竹男：[田口智朗](https://zh.wikipedia.org/wiki/田口智朗 "wikilink")
+  - 荒井弓子（無聲跟蹤狂）：[汀夏子](https://zh.wikipedia.org/wiki/汀夏子 "wikilink")
+  - 看守：[渡部哲](https://zh.wikipedia.org/wiki/渡部哲 "wikilink")
 
 <!-- end list -->
 
@@ -498,10 +499,10 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 川邊：[和気優](../Page/和気優.md "wikilink")
-  - 明（アキラ）：[田鍋謙一郎](../Page/田鍋謙一郎.md "wikilink")
-  - 日比野一馬：[小橋賢兒](../Page/小橋賢兒.md "wikilink")
-  - 橋慶太郎：[山田吾一](../Page/山田吾一.md "wikilink")
+  - 川邊：[和気優](https://zh.wikipedia.org/wiki/和気優 "wikilink")
+  - 明（アキラ）：[田鍋謙一郎](https://zh.wikipedia.org/wiki/田鍋謙一郎 "wikilink")
+  - 日比野一馬：[小橋賢兒](https://zh.wikipedia.org/wiki/小橋賢兒 "wikilink")
+  - 橋慶太郎：[山田吾一](https://zh.wikipedia.org/wiki/山田吾一 "wikilink")
 
 <!-- end list -->
 
@@ -509,9 +510,9 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 渡邊先生：[佐戶井憲太](../Page/佐戶井憲太.md "wikilink")
-  - 羽根山美佐子：[鳥越麻里](../Page/鳥越麻里.md "wikilink")（鳥越まり）
-  - 山口專員：[大平透](../Page/大平透.md "wikilink")
+  - 渡邊先生：[佐戶井憲太](https://zh.wikipedia.org/wiki/佐戶井憲太 "wikilink")
+  - 羽根山美佐子：[鳥越麻里](https://zh.wikipedia.org/wiki/鳥越麻里 "wikilink")（鳥越まり）
+  - 山口專員：[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")
 
 ##### 第2期
 
@@ -519,10 +520,10 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 玉置（Justice）：[有薗芳記](../Page/有薗芳記.md "wikilink")
-  - 山本警官：[桂嶋幸季](../Page/桂嶋幸季.md "wikilink")（桂嶋こうき）
-  - 百瀨純（ジュン）：[岡元夕紀子](../Page/岡元夕紀子.md "wikilink")
-  - 齊藤店長：[板尾創路](../Page/板尾創路.md "wikilink")
+  - 玉置（Justice）：[有薗芳記](https://zh.wikipedia.org/wiki/有薗芳記 "wikilink")
+  - 山本警官：[桂嶋幸季](https://zh.wikipedia.org/wiki/桂嶋幸季 "wikilink")（桂嶋こうき）
+  - 百瀨純（ジュン）：[岡元夕紀子](https://zh.wikipedia.org/wiki/岡元夕紀子 "wikilink")
+  - 齊藤店長：[板尾創路](https://zh.wikipedia.org/wiki/板尾創路 "wikilink")
 
 <!-- end list -->
 
@@ -530,10 +531,10 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 千堂（猶大）：[市川勇](../Page/市川勇.md "wikilink")
-  - 富永美紀：[小出由佳](../Page/小出由佳.md "wikilink")
-  - 註冊商：[谷津勲](../Page/谷津勲.md "wikilink")
-  - 警衛：[青柳克巳](../Page/青柳克巳.md "wikilink")
+  - 千堂（猶大）：[市川勇](https://zh.wikipedia.org/wiki/市川勇 "wikilink")
+  - 富永美紀：[小出由佳](https://zh.wikipedia.org/wiki/小出由佳 "wikilink")
+  - 註冊商：[谷津勲](https://zh.wikipedia.org/wiki/谷津勲 "wikilink")
+  - 警衛：[青柳克巳](https://zh.wikipedia.org/wiki/青柳克巳 "wikilink")
 
 <!-- end list -->
 
@@ -541,11 +542,11 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 中澤洋子：[仲根可澄美](../Page/仲根可澄美.md "wikilink")
-  - 公佳：[深海理繪](../Page/深海理繪.md "wikilink")
-  - 中谷久三：[秋野太作](../Page/秋野太作.md "wikilink")
-  - 白雲山：[大富士](../Page/大富士.md "wikilink")
-  - 縣令：[岸本功](../Page/岸本功.md "wikilink")
+  - 中澤洋子：[仲根可澄美](https://zh.wikipedia.org/wiki/仲根可澄美 "wikilink")
+  - 公佳：[深海理繪](https://zh.wikipedia.org/wiki/深海理繪 "wikilink")
+  - 中谷久三：[秋野太作](https://zh.wikipedia.org/wiki/秋野太作 "wikilink")
+  - 白雲山：[大富士](https://zh.wikipedia.org/wiki/大富士 "wikilink")
+  - 縣令：[岸本功](https://zh.wikipedia.org/wiki/岸本功 "wikilink")
 
 <!-- end list -->
 
@@ -553,11 +554,11 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 加藤舞：[邑野未亞](../Page/邑野未亞.md "wikilink")（幼年期：[宮崎野惠瑠](../Page/廠野惠瑠.md "wikilink")、宮崎のえる）
-  - 二階堂博士：[内田滋啓](../Page/内田滋啓.md "wikilink")
-  - 長谷川大悟（ダイゴ）：[前田英二](../Page/前田英二.md "wikilink")
-  - 轟省吾：[夏八木勳](../Page/夏八木勳.md "wikilink")
-  - 理髪師：[仲本工事](../Page/仲本工事.md "wikilink")
+  - 加藤舞：[邑野未亞](https://zh.wikipedia.org/wiki/邑野未亞 "wikilink")（幼年期：[宮崎野惠瑠](https://zh.wikipedia.org/wiki/廠野惠瑠 "wikilink")、宮崎のえる）
+  - 二階堂博士：[内田滋啓](https://zh.wikipedia.org/wiki/内田滋啓 "wikilink")
+  - 長谷川大悟（ダイゴ）：[前田英二](https://zh.wikipedia.org/wiki/前田英二 "wikilink")
+  - 轟省吾：[夏八木勳](https://zh.wikipedia.org/wiki/夏八木勳 "wikilink")
+  - 理髪師：[仲本工事](https://zh.wikipedia.org/wiki/仲本工事 "wikilink")
 
 <!-- end list -->
 
@@ -565,11 +566,11 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 <!-- end list -->
 
-  - 長谷百合子：[藤森美雪](../Page/藤森美雪.md "wikilink")（みゆき）
-  - 細川郁美：[塚越小幸](../Page/塚越小幸.md "wikilink")
-  - 青旬（アオジュン）：[KEE](../Page/KEE.md "wikilink")
-  - 渡邊孝之：[松山幸次](../Page/松山幸次.md "wikilink")
-  - 三浦良和（Poison）：[黑田勇樹](../Page/黑田勇樹.md "wikilink")
+  - 長谷百合子：[藤森美雪](https://zh.wikipedia.org/wiki/藤森美雪 "wikilink")（みゆき）
+  - 細川郁美：[塚越小幸](https://zh.wikipedia.org/wiki/塚越小幸 "wikilink")
+  - 青旬（アオジュン）：[KEE](https://zh.wikipedia.org/wiki/KEE "wikilink")
+  - 渡邊孝之：[松山幸次](https://zh.wikipedia.org/wiki/松山幸次 "wikilink")
+  - 三浦良和（Poison）：[黑田勇樹](https://zh.wikipedia.org/wiki/黑田勇樹 "wikilink")
 
 <!-- end list -->
 
@@ -581,31 +582,32 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 ##### 特別篇
 
-  - 田宮章吉母親：[坂口良子](../Page/坂口良子.md "wikilink")
-  - 西澤真紀：[榎本加奈子](../Page/榎本加奈子.md "wikilink")
-  - 松永：[桑野信義](../Page/桑野信義.md "wikilink")
+  - 田宮章吉母親：[坂口良子](https://zh.wikipedia.org/wiki/坂口良子 "wikilink")
+  - 西澤真紀：[榎本加奈子](https://zh.wikipedia.org/wiki/榎本加奈子 "wikilink")
+  - 松永：[桑野信義](https://zh.wikipedia.org/wiki/桑野信義 "wikilink")
   - 食品公司代表：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-  - 乾洗店老闆（川邊）：[茄子](../Page/濱津智明.md "wikilink")（なすび）
-  - 其他：[古尾谷雅人](../Page/古尾谷雅人.md "wikilink")、[千田光雄](../Page/千田光雄.md "wikilink")（せんだみつお）
+  - 乾洗店老闆（川邊）：[茄子](https://zh.wikipedia.org/wiki/濱津智明 "wikilink")（なすび）
+  - 其他：[古尾谷雅人](https://zh.wikipedia.org/wiki/古尾谷雅人 "wikilink")、[千田光雄](https://zh.wikipedia.org/wiki/千田光雄 "wikilink")（せんだみつお）
 
 ### 製作團隊
 
-  - 劇本：[小原信治](../Page/小原信治.md "wikilink")、[田子明弘](../Page/田子明弘.md "wikilink")、[大石哲也](../Page/大石哲也.md "wikilink")（1、SP）、[坂東賢治](../Page/坂東賢治.md "wikilink")（2）
-  - 音樂：[寺田創一](../Page/寺田創一.md "wikilink")（1）、[DJ
-    KRUSH](../Page/DJ_KRUSH.md "wikilink")（1）、[仲西匡](../Page/仲西匡.md "wikilink")（2）
-      - 吉他：[吉川忠英](../Page/吉川忠英.md "wikilink")（1）、字串安排：[沢田完](../Page/沢田完.md "wikilink")（2）
-  - 導演：[堤幸彥](../Page/堤幸彥.md "wikilink")（1）、[佐藤東彌](../Page/佐藤東彌.md "wikilink")（1）、[大谷太郎](../Page/大谷太郎.md "wikilink")（1）、[猪股隆一](../Page/猪股隆一.md "wikilink")（2）、[五木田亮一](../Page/五木田亮一.md "wikilink")（2）、[大根仁](../Page/大根仁.md "wikilink")（2）、[都築淳一](../Page/都築淳一.md "wikilink")（SP）
+  - 劇本：[小原信治](https://zh.wikipedia.org/wiki/小原信治 "wikilink")、[田子明弘](https://zh.wikipedia.org/wiki/田子明弘 "wikilink")、[大石哲也](https://zh.wikipedia.org/wiki/大石哲也 "wikilink")（1、SP）、[坂東賢治](https://zh.wikipedia.org/wiki/坂東賢治 "wikilink")（2）
+  - 音樂：[寺田創一](https://zh.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ
+    KRUSH](https://zh.wikipedia.org/wiki/DJ_KRUSH "wikilink")（1）、[仲西匡](https://zh.wikipedia.org/wiki/仲西匡 "wikilink")（2）
+      - 吉他：[吉川忠英](https://zh.wikipedia.org/wiki/吉川忠英 "wikilink")（1）、字串安排：[沢田完](https://zh.wikipedia.org/wiki/沢田完 "wikilink")（2）
+  - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")（1）、[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")（1）、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://zh.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://zh.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](https://zh.wikipedia.org/wiki/大根仁 "wikilink")（2）、[都築淳一](https://zh.wikipedia.org/wiki/都築淳一 "wikilink")（SP）
   - 主題曲
-      - 第1期：[TOKIO](../Page/TOKIO.md "wikilink")「[フラれて元気](../Page/フラれて元気.md "wikilink")」
-      - 第2期：TOKIO「[愛の嵐](../Page/愛の嵐_\(TOKIOの曲\).md "wikilink")」
-  - 企劃合作：[樹林伸](../Page/樹林伸.md "wikilink")、[菅原章](../Page/菅原章.md "wikilink")
-  - 音樂製作：[志田博英](../Page/志田博英.md "wikilink")、[松根文](../Page/松根文.md "wikilink")
-  - 動作導演：[多賀谷渉](../Page/多賀谷渉.md "wikilink")
-  - 美術：大竹潤一郎、 [高野雅裕](../Page/高野雅裕.md "wikilink")
-  - 執行製作人：[小杉善信](../Page/小杉善信.md "wikilink")（1）、[佐藤敦](../Page/佐藤敦.md "wikilink")（2）
-  - 製作人：[櫨山裕子](../Page/櫨山裕子.md "wikilink")、[蒔田光治](../Page/蒔田光治.md "wikilink")（1）、[伊藤響](../Page/伊藤響.md "wikilink")（2）、[内山雅博](../Page/内山雅博.md "wikilink")（2）、鈴木聡（SP）、中川順平（SP）
-  - 製作協力：[Office Crescendo](../Page/Office_Crescendo.md "wikilink")、[K
-    Factory](../Page/K_Factory.md "wikilink")
+      - 第1期：[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")「[フラれて元気](https://zh.wikipedia.org/wiki/フラれて元気 "wikilink")」
+      - 第2期：TOKIO「[愛の嵐](https://zh.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")」
+  - 企劃合作：[樹林伸](../Page/樹林伸.md "wikilink")、[菅原章](https://zh.wikipedia.org/wiki/菅原章 "wikilink")
+  - 音樂製作：[志田博英](https://zh.wikipedia.org/wiki/志田博英 "wikilink")、[松根文](https://zh.wikipedia.org/wiki/松根文 "wikilink")
+  - 動作導演：[多賀谷渉](https://zh.wikipedia.org/wiki/多賀谷渉 "wikilink")
+  - 美術：大竹潤一郎、 [高野雅裕](https://zh.wikipedia.org/wiki/高野雅裕 "wikilink")
+  - 執行製作人：[小杉善信](https://zh.wikipedia.org/wiki/小杉善信 "wikilink")（1）、[佐藤敦](https://zh.wikipedia.org/wiki/佐藤敦 "wikilink")（2）
+  - 製作人：[櫨山裕子](https://zh.wikipedia.org/wiki/櫨山裕子 "wikilink")、[蒔田光治](https://zh.wikipedia.org/wiki/蒔田光治 "wikilink")（1）、[伊藤響](https://zh.wikipedia.org/wiki/伊藤響 "wikilink")（2）、[内山雅博](https://zh.wikipedia.org/wiki/内山雅博 "wikilink")（2）、鈴木聡（SP）、中川順平（SP）
+  - 製作協力：[Office
+    Crescendo](https://zh.wikipedia.org/wiki/Office_Crescendo "wikilink")、[K
+    Factory](https://zh.wikipedia.org/wiki/K_Factory "wikilink")
 
 ### 放送日程
 
@@ -704,7 +706,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率 17.1%（視聴率は<a href="../Page/関東地方.md" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
+<td><p>平均視聴率 17.1%（視聴率は<a href="https://zh.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://zh.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -809,7 +811,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率 15.4%（視聴率は<a href="../Page/関東地方.md" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
+<td><p>平均視聴率 15.4%（視聴率は<a href="https://zh.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://zh.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ社調べ</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -827,7 +829,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 ## 遊戲
 
-1999年2月18日，[講談社發售](../Page/講談社.md "wikilink")[PlayStation遊戲光碟](../Page/PlayStation.md "wikilink")《感應少年EIJI（）》。
+1999年2月18日，[講談社發售](https://zh.wikipedia.org/wiki/講談社 "wikilink")[PlayStation遊戲光碟](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《感應少年EIJI（）》。
 
   - 配音
 

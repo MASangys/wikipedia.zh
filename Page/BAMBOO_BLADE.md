@@ -1,6 +1,6 @@
 《**BAMBOO
-BLADE**》是[土塚理弘原作](../Page/土塚理弘.md "wikilink")、[五十嵐あぐり作畫的以](../Page/五十嵐あぐり.md "wikilink")[劍道為題材的](../Page/劍道.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")。從2004年12月3日在雜誌[YOUNG
-GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由[尚禾出版社代理](../Page/尚禾出版社.md "wikilink")。於2007年10月改編為[電視動畫並開始播放](../Page/電視動畫.md "wikilink")，於2008年3月播放完畢。而[香港有線電視兒童台由](../Page/香港有線電視兒童台.md "wikilink")2009年7月6日起播映。
+BLADE**》是[土塚理弘原作](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")、[五十嵐あぐり作畫的以](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")[劍道為題材的](../Page/劍道.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。從2004年12月3日在雜誌[YOUNG
+GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由[尚禾出版社代理](https://zh.wikipedia.org/wiki/尚禾出版社 "wikilink")。於2007年10月改編為[電視動畫並開始播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2008年3月播放完畢。而[香港有線電視兒童台由](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")2009年7月6日起播映。
 
 自2009年起，本作被称作日本第一女子剑道漫画\[1\]。
 
@@ -14,9 +14,9 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
 
   -
     室江高校劍道社的顧問老師，是一名每天為伙食費煩惱的貧窮教師。身高176cm。綽號「小次郎」。教導的科目是政治經濟。算是作為本作的主角的存在。
-    原本對指導的社團採放任的態度，但在和學長賢三郎打賭，為贏得一年份免費[江户前寿司任食後](../Page/江户前寿司.md "wikilink")，而開始積極進行劍道社新人勸誘和訓練，而後又招惹到室江高中理事長夫人的朋友，為挽回失業危機，不得不將劍道社帶進全國大賽，社團活動實質上由紀梨乃擔任管理，珠姬擔任技術指導，主要在以自身經驗提供部員建議與校外活動安排。
+    原本對指導的社團採放任的態度，但在和學長賢三郎打賭，為贏得一年份免費[江户前寿司任食後](https://zh.wikipedia.org/wiki/江户前寿司 "wikilink")，而開始積極進行劍道社新人勸誘和訓練，而後又招惹到室江高中理事長夫人的朋友，為挽回失業危機，不得不將劍道社帶進全國大賽，社團活動實質上由紀梨乃擔任管理，珠姬擔任技術指導，主要在以自身經驗提供部員建議與校外活動安排。
     在學生時代曾奪得昇龍旗大會優勝，便利商店打工時對店長說有竹刀就不怕搶劫犯，但在拿竹刀到便利商店第一天就遭遇搶劫時卻一時不知所措任搶匪搶劫，老家原本是賣酒在數年前轉變成便利商店，也因這段不好的回憶讓他很少回老家，並在進入大學後開始疏於劍道練習，與珠姬首次對戰時遭到秒殺，但也因為與珠姬相遇之後慢慢從拾原本劍道的熱情。
-    姓氏的由來，來自全日本劍道大賽平成4、7年度冠軍的「[石田利也](../Page/石田利也.md "wikilink")」或昭和57年度冠軍的「[石田健一](../Page/石田健一.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽平成4、7年度冠軍的「[石田利也](https://zh.wikipedia.org/wiki/石田利也 "wikilink")」或昭和57年度冠軍的「[石田健一](https://zh.wikipedia.org/wiki/石田健一 "wikilink")」。
 
 <!-- end list -->
 
@@ -26,14 +26,14 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
     個性沉默寡言且不懂人情世故，情感冷靜少起伏且表情缺乏變化，在加入社團與同伴的接觸後，在精神上逐漸地成長下連帶著表情也豐富了起來。
     由於超劍戰隊必殺技原子火焰劍的影響練出了有被其父認為有如修羅一般強悍婉如要給人最後一擊的刺擊功夫，並要求珠姬只有在升上高中之後面對「男性」、「年長」、「有學過劍道」的對手才能使用。
     直至102話敗給澤宮艾莉娜之前從未輸給過同一世代的女生。(動畫版最初擊敗珠姫的為鈴木凛)
-    姓氏的由來，來自全日本劍道大賽昭和46、50年度冠軍的「[川添哲夫](../Page/川添哲夫.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和46、50年度冠軍的「[川添哲夫](https://zh.wikipedia.org/wiki/川添哲夫 "wikilink")」。
 
 <!-- end list -->
 
   -
     室江高校2年3班。身高157cm。劍道社社長，是故事一開始由於三年級為了備考引退，實質存在的唯一社員。通稱「紀梨乃」。
     從就讀飛鈴中學時就練劍道，打從心底熱愛社團活動。家裡是開熟食店有一個弟弟與妹妹，性格活潑開朗所以交友廣泛朋友眾多，是帶動劍道社氣氛的領導者，像是姊姊一樣照顧著社員，也深受社員的信任。性格上有時天然呆，有時卻又聰明的一面，校內成績優秀是全學年第20名，但卻也做出把竹刀寫成竹內的蠢事。
-    姓氏的由來，來自全日本劍道大賽昭和41、44、47年度冠軍的「[千葉仁](../Page/千葉仁.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和41、44、47年度冠軍的「[千葉仁](https://zh.wikipedia.org/wiki/千葉仁 "wikilink")」。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
     為何喜歡上榮花是本作中不解的謎，傳言是榮花長得像都已故的寵物─穿山甲。
     父母已離異，現在跟母親與姐姐同住，本身並不是喜歡下廚，但是由於為了不讓料理白痴的姐姐毒害才學到一身的好廚藝。
     大賽時經常因為小田島禮美的各種跟蹤狂行為導致無法完全發揮其實力。
-    姓氏的由來，來自全日本劍道大賽平成2、3、5、8、10、11年度冠軍的「[宮崎正裕](../Page/宮崎正裕.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽平成2、3、5、8、10、11年度冠軍的「[宮崎正裕](https://zh.wikipedia.org/wiki/宮崎正裕 "wikilink")」。
 
 <!-- end list -->
 
@@ -51,42 +51,42 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
     室江高校2年5班。身高170cm。通稱「小鞘」。
     與紀梨乃是從小學時代開始的青梅竹馬，中學時代是壘球社，高中才加入劍道社，運動神經非常好。
     1年級時雖然加入過劍道部，不過常因為些小事動不動就陷入消沉而退社，而變成了有名無實的幽靈社員。感情起伏激烈過度，常常過度投入事後都是白忙一場。為了尋找適合自己的事情，除了劍道外還挑戰過小說和吉他，不過都是徒勞無功，陷入消沉時習慣騎著腳踏車喊著「我很優秀！我是天才！」來振奮自己。
-    姓氏的由來，來自全日本劍道大賽昭和35年度冠軍的「[桑原哲明](../Page/桑原哲明.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和35年度冠軍的「[桑原哲明](https://zh.wikipedia.org/wiki/桑原哲明 "wikilink")」。
 
 <!-- end list -->
 
   -
     室江高校1年3班。身高154cm。通稱「聰莉」。
     從小學時就開始學劍道，擁有相當厲害的實力，外表雖然看起來是總抱著書本的眼鏡娘，實際上是學習成績慘不忍睹的迷糊蛋，視力其實兩眼都是2.5，不過為了稍微增加一點智慧才戴上眼鏡。個性單純容易被人牽著鼻子走，原本因為成績太差為專心在課業上而放棄劍道不加入社團，但在都的巧言之下加入了社團，不過也自此變成被都使喚的跑腿。
-    姓氏的由來，來自全日本劍道大賽昭和58年度冠軍的「[東一良](../Page/東一良.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和58年度冠軍的「[東一良](https://zh.wikipedia.org/wiki/東一良 "wikilink")」。
 
 <!-- end list -->
 
   -
     小學時就在珠姬家的川添道場受訓，與她是青梅竹馬。中學時代打進縣大賽八強，具有一定劍道實力，珠姬稱其實力在外山之上，校內考試成績是全學年第四名，不過在故事裡劍道遠遠比不上珠姬，考試成績又總是在榮花之後，也沒有像他有漂亮的女朋友，所以自認為是厲害不起來的平凡人。作為社團中最正經的人，成為了故事的解說角色。
     虽然珠姬反感，但是唯一一个仍然称呼珠姬为**小珠**的人。
-    姓氏的由來，來自全日本劍道大賽昭和56年度冠軍的「[中田秀士](../Page/中田秀士.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和56年度冠軍的「[中田秀士](https://zh.wikipedia.org/wiki/中田秀士 "wikilink")」。
 
 <!-- end list -->
 
   -
     室江高校1年3班。通稱「段郎」。
     原來想加入桌球社，但室江高校沒有桌球社，只好跟著勇次和女朋友小都一起加入了劍道社。雖然是初學者卻有劍道才能，意外的考試成績是全學年第二名，也很擅長繪畫，初登場時身高與勇次差不多，後來卻隨著連載逐篇變矮，在公佈身高作畫設定時稱他身高是臨機應變。
-    姓氏的由來，來自全日本劍道大賽平成12年度冠軍的「[榮花直輝](../Page/榮花直輝.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽平成12年度冠軍的「[榮花直輝](https://zh.wikipedia.org/wiki/榮花直輝 "wikilink")」。
 
 <!-- end list -->
 
   -
     室江高校2年1班。劍道社的幽靈社員，原本是劍道社實力最強者，喜歡欺負新入社員的虐待狂。結果卻慘敗給珠姬，也導致珠姬因此以保護劍道社為由加入劍道社。之後就沒有出場的戲份。
     名子於動畫中沒有出現，但於片尾曲演出聲優表時明確的打出其名字為外山 晶。
-    姓氏的由來，來自全日本劍道大賽昭和55年度冠軍的「[外山光利](../Page/外山光利.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和55年度冠軍的「[外山光利](https://zh.wikipedia.org/wiki/外山光利 "wikilink")」。
 
 <!-- end list -->
 
   -
     室江高校2年生。與外山常在一起同為劍道社的幽靈社員，但其實蠻喜歡劍道的。與外山一樣之後都沒有戲份，但在單行本的附贈頁裡卻常常出現。
     名子於動畫中沒有出現，但於片尾曲演出聲優表時明確的打出其名字為岩佐 勝。
-    姓氏的由來，來自全日本劍道大賽平成13年度冠軍的「[岩佐英範](../Page/岩佐英範.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽平成13年度冠軍的「[岩佐英範](https://zh.wikipedia.org/wiki/岩佐英範 "wikilink")」。
 
 <!-- end list -->
 
@@ -102,51 +102,51 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
   -
     身兼町戶高校劍道社與另外一校的顧問老師。
     虎侍高中時代的學長，對於劍道大會決賽上輸給虎侍十分在意，與虎侍對賭練習賽贏的話拿回大賽的獎盃，與虎侍不同至今對劍道從未間斷練習過。擅長上段的姿勢。
-    姓氏的由來，來自全日本劍道大賽昭和53年度冠軍的「[石橋正久](../Page/石橋正久.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和53年度冠軍的「[石橋正久](https://zh.wikipedia.org/wiki/石橋正久 "wikilink")」。
 
 <!-- end list -->
 
   -
-    町戶高校3年級的副社長。實力是社內的No.2。[眼鏡娘](../Page/眼鏡娘.md "wikilink")。
+    町戶高校3年級的副社長。實力是社內的No.2。[眼鏡娘](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")。
     禮儀端正，是練習賽隊伍裡的最正經的常識人角色，雖然並非特別優秀，但每天認真練習且劍道經驗長久，擁有二段的資格。與室江高校練習賽中擔任先鋒。
-    姓氏的由來，來自全日本劍道大賽昭和59年度冠軍的「[原田哲夫](../Page/原田哲夫.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和59年度冠軍的「[原田哲夫](https://zh.wikipedia.org/wiki/原田哲夫 "wikilink")」。
 
 <!-- end list -->
 
   -
     町戶高校3年級。性格豪放爽快，有勝過男人的氣勢與破壞力，常把對戰的對手搞哭，食量很大。與室江高校練習賽中擔任大將。
-    姓氏的由來，來自全日本劍道大賽昭和49年度冠軍的「[橫尾英治](../Page/橫尾英治.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和49年度冠軍的「[橫尾英治](https://zh.wikipedia.org/wiki/橫尾英治 "wikilink")」。
 
 <!-- end list -->
 
   -
     町戶高校2年級。喜歡用卑鄙的手段欺負對手的腹黑性格，常讀些黑暗古怪的書籍。與室江高校練習賽中擔任副將。
-    姓氏的由來，來自全日本劍道大賽平成14年度冠軍的「[安藤戒牛](../Page/安藤戒牛.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽平成14年度冠軍的「[安藤戒牛](https://zh.wikipedia.org/wiki/安藤戒牛 "wikilink")」。
 
 <!-- end list -->
 
   -
     町戶高校3年級。本來實力是社內的No.1，也有著大將的威嚴，但實際上是個膽小鬼在比賽上完全無法發揮實力。自稱無法做到用竹劍對著第一次見面的人不停打擊這麼過份的事。與室江高校練習賽中擔任中堅。
-    姓氏的由來，來自全日本劍道大賽昭和40年度冠軍的「[西山泰弘](../Page/西山泰弘.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和40年度冠軍的「[西山泰弘](https://zh.wikipedia.org/wiki/西山泰弘 "wikilink")」。
 
 <!-- end list -->
 
   -
     町戶高校2年級。擁有素質但相對於社團活動更重視戀愛。與室江高校練習賽中擔任次鋒。
-    姓氏的由來，來自全日本劍道大賽昭和31年度冠軍的「[淺川春男](../Page/淺川春男.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和31年度冠軍的「[淺川春男](https://zh.wikipedia.org/wiki/淺川春男 "wikilink")」。
 
 ### 成明高校
 
   -
     成明高校劍道社的顧問。教士七段的名家。為強化社團實力而從其他學校找來改變徒具劍道社虛名的玩樂社團，採取嚴格的指導方針導致社員害怕而不斷退社，對於自己的指導方針也感到疑問。
-    姓氏的由來，來自全日本劍道大賽昭和63年度冠軍的「[林朗](../Page/林朗.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和63年度冠軍的「[林朗](https://zh.wikipedia.org/wiki/林朗 "wikilink")」。
 
 <!-- end list -->
 
   -
     成明高校1年。身長152cm。通稱「芽衣」。軟弱而身材嬌小的少女。
     原本由於社團嚴厲的練習而萌生退意，但在與珠姬的對練下而打動了她，有點改變了心中原有的想法。
-    姓氏的由來，來自全日本劍道大賽昭和52年度冠軍的「[小川功](../Page/小川功.md "wikilink")」。
+    姓氏的由來，來自全日本劍道大賽昭和52年度冠軍的「[小川功](https://zh.wikipedia.org/wiki/小川功 "wikilink")」。
 
 <!-- end list -->
 
@@ -221,7 +221,7 @@ GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年
   -
     英进高校剑道部成员，美国人，不过因为在日本已经住了8年，所以日文是相当流利。
     因为在剑道器具店偶然看见小都和段郎约会，喜欢上段郎（的外形），于是以段郎为赌注，和小都进行非正式的比赛，在珠姬看来，她的腕力极强。
-    擅长使用「[二刀流](../Page/二刀流.md "wikilink")」的招式（二刀流在现在的高中生剑道比赛中，是正式比赛中严禁使用的招式）。
+    擅长使用「[二刀流](https://zh.wikipedia.org/wiki/二刀流 "wikilink")」的招式（二刀流在现在的高中生剑道比赛中，是正式比赛中严禁使用的招式）。
 
 ## 衍生作品
 
@@ -242,14 +242,14 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/尚禾文化.md" title="wikilink">尚禾文化</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -338,7 +338,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -416,7 +416,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -477,37 +477,39 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 ### 製作團隊
 
   - 原作 -
-    [土塚理弘](../Page/土塚理弘.md "wikilink")（原作）、[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")（作畫）
-  - 監督 - [斎藤久](../Page/斎藤久.md "wikilink")
+    [土塚理弘](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")（原作）、[五十嵐あぐり](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")（作畫）
+  - 監督 - [斎藤久](https://zh.wikipedia.org/wiki/斎藤久 "wikilink")
   - 腳本 - [倉田英之](../Page/倉田英之.md "wikilink")
   - 擔當演出 - 五十嵐達矢
   - 人物設計 - [双柳雪智](../Page/細田直人.md "wikilink")
   - 主要動畫 - 植田洋一
-  - 作品設計 - [渡邊義弘](../Page/渡邊義弘.md "wikilink")
-  - 動作設計 - [理宏山根](../Page/山根理宏.md "wikilink")
+  - 作品設計 - [渡邊義弘](https://zh.wikipedia.org/wiki/渡邊義弘 "wikilink")
+  - 動作設計 - [理宏山根](https://zh.wikipedia.org/wiki/山根理宏 "wikilink")
   - 美術監督 - 高橋麻穂
   - 色彩設計 - 鈴城るみ子
   - 攝影監督 - 野村達哉
   - 編輯 - 森田清次
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 音響製作人 - [中野徹](../Page/中野徹.md "wikilink")
-  - 音樂 - [仙波清彦](../Page/仙波清彦.md "wikilink")
+  - 音響製作人 - [中野徹](https://zh.wikipedia.org/wiki/中野徹 "wikilink")
+  - 音樂 - [仙波清彦](https://zh.wikipedia.org/wiki/仙波清彦 "wikilink")
   - 製作人 - 𠮷、田博、黄樹弐悠、武智恒雄、片桐正貴、小松茂明
   - 動畫製作人 - 𠮷、田昇央
   - 動畫製作 - [AIC ASTA](../Page/動畫國際公司.md "wikilink")
   - 製作 - BAMBOO
-    BLADE合作夥伴（史克威爾艾尼克斯、[JVC娛樂](../Page/JVC娛樂.md "wikilink")、AIC、KlockWorx、d-rights）
+    BLADE合作夥伴（史克威爾艾尼克斯、[JVC娛樂](https://zh.wikipedia.org/wiki/JVC娛樂 "wikilink")、AIC、KlockWorx、d-rights）
 
 ### 主題曲
 
-  - 片頭曲「[BAMBOO BEAT](../Page/BAMBOO_BEAT/STAR_RISE.md "wikilink")」
+  - 片頭曲「[BAMBOO
+    BEAT](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
     作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [Koma2
-    Kaz](../Page/小松一也.md "wikilink")
+    Kaz](https://zh.wikipedia.org/wiki/小松一也 "wikilink")
 
     歌 -
-    川添珠姫（[廣橋涼](../Page/廣橋涼.md "wikilink")）・千葉紀梨乃（[豐口惠](../Page/豐口惠.md "wikilink")）・桑原鞘子（[小島幸子](../Page/小島幸子.md "wikilink")）・宮崎都（[桑島法子](../Page/桑島法子.md "wikilink")）・東聰莉（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
+    川添珠姫（[廣橋涼](../Page/廣橋涼.md "wikilink")）・千葉紀梨乃（[豐口惠](../Page/豐口惠.md "wikilink")）・桑原鞘子（[小島幸子](../Page/小島幸子.md "wikilink")）・宮崎都（[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")）・東聰莉（[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
 
-  - 片尾曲「[STAR RISE](../Page/BAMBOO_BEAT/STAR_RISE.md "wikilink")」
+  - 片尾曲「[STAR
+    RISE](https://zh.wikipedia.org/wiki/BAMBOO_BEAT/STAR_RISE "wikilink")」
     作詞 - 河井英里 / 作曲・編曲 - Koma2 Kaz
 
     歌 - 川添珠姫（廣橋涼）・千葉紀梨乃（豐口惠）・桑原鞘子（小島幸子）・宮崎都（桑島法子）・東聡莉（佐藤利奈）
@@ -517,7 +519,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 :; 「超剣戦隊ブレードブレイバー」（第2、15、20、21、24、26話）
 
 :: 作詞 - 桑原永江 / 作曲 - [中川幸太郎](../Page/中川幸太郎.md "wikilink") / 歌 -
-[石原慎一](../Page/石原慎一.md "wikilink")
+[石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink")
 
 ::\* 《BAMBOO BLADE O.S.T.》中收錄。
 
@@ -588,8 +590,8 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <td><p>黑與藍</p></td>
 <td></td>
 <td><p>飯村正之</p></td>
-<td><p><a href="../Page/石野聰.md" title="wikilink">石野聰</a></p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石野聰" title="wikilink">石野聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
 <td><p>宮崎都</p></td>
 <td></td>
 <td></td>
@@ -639,7 +641,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <td></td>
 <td><p>寺岡嚴</p></td>
 <td><p>佐藤育郎</p></td>
-<td><p><a href="../Page/織田廣之.md" title="wikilink">織田廣之</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/織田廣之" title="wikilink">織田廣之</a><br />
 山本善哉</p></td>
 <td><p>川添珠姫</p></td>
 <td><p>中田勇次</p></td>
@@ -662,10 +664,10 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <td><p>9</p></td>
 <td><p>小次郎的命運分歧點</p></td>
 <td></td>
-<td><p><a href="../Page/須永司.md" title="wikilink">須永司</a></p></td>
-<td><p><a href="../Page/吉田徹.md" title="wikilink">吉田徹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a></p></td>
 <td><p>森下博光<br />
-<a href="../Page/中澤勇一.md" title="wikilink">中澤勇一</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/中澤勇一" title="wikilink">中澤勇一</a></p></td>
 <td><p>千葉紀梨乃</p></td>
 <td><p>榮花段十朗</p></td>
 <td></td>
@@ -692,9 +694,9 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <td><p>宮崎都<br />
 榮花段十朗<br />
 谷口悟朗<br />
-（<a href="../Page/客串.md" title="wikilink">客串</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/客串" title="wikilink">客串</a>）</p></td>
 <td><p>旁白<br />
-（<a href="../Page/銀河万丈.md" title="wikilink">銀河万丈</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/銀河万丈" title="wikilink">銀河万丈</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -739,8 +741,8 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 <td><p>15</p></td>
 <td><p>第一次的合宿與澡堂</p></td>
 <td></td>
-<td><p><a href="../Page/久城りおん.md" title="wikilink">久城りおん</a></p></td>
-<td><p><a href="../Page/柳沢テツヤ.md" title="wikilink">柳沢テツヤ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久城りおん" title="wikilink">久城りおん</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳沢テツヤ" title="wikilink">柳沢テツヤ</a></p></td>
 <td><p>千葉紀梨乃</p></td>
 <td><p>安藤優梨</p></td>
 <td></td>
@@ -758,8 +760,8 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 大和田直之</p></td>
 <td><p>首藤武夫<br />
 大坪幸麿<br />
-<a href="../Page/平山まどか.md" title="wikilink">平山圓</a><br />
-<a href="../Page/堀井久美.md" title="wikilink">堀井久美</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/平山まどか" title="wikilink">平山圓</a><br />
+<a href="https://zh.wikipedia.org/wiki/堀井久美" title="wikilink">堀井久美</a></p></td>
 <td><p>桑原鞘子</p></td>
 <td><p>清村緒乃<br />
 杉小路隆千穂</p></td>
@@ -912,13 +914,13 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
 ### 播放電視台
 
-| 播放地區                                       | 播放電視台                                | 播放日期                    | 播放時間              | 聯播網                                         | 備註  |
-| ------------------------------------------ | ------------------------------------ | ----------------------- | ----------------- | ------------------------------------------- | --- |
-| [関東廣域圈](../Page/関東廣域圈.md "wikilink")       | [東京電視台](../Page/東京電視台.md "wikilink") | 2007年10月1日 - 2008年3月31日 | 星期一 25:30 - 26:00 | [東京電視台系列](../Page/TXN.md "wikilink")        |     |
-| [愛知縣](../Page/愛知縣.md "wikilink")           | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2007年10月4日 - 2008年4月3日  | 星期四 26:28 - 26:58 |                                             |     |
-| [大阪府](../Page/大阪府.md "wikilink")           | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2007年10月10日 - 2008年4月9日 | 星期三 25:55 - 26:25 |                                             |     |
-| [日本全域](../Page/全國放送.md "wikilink")         | [AT-X](../Page/AT-X.md "wikilink")   | 2007年12月5日 - 2008年5月28日 | 星期三 11:30 - 12:00 | [CS放送](../Page/日本衛星電視廣播#CS放送.md "wikilink") | 有重播 |
-| [富士電視台TWO](../Page/富士電視台TWO.md "wikilink") | 2011年6月7日 - 9月20日                    | 星期二 17:00 - 18:00       | 2話連續播放、有重播        |                                             |     |
+| 播放地區                                                          | 播放電視台                                | 播放日期                    | 播放時間              | 聯播網                                                            | 備註  |
+| ------------------------------------------------------------- | ------------------------------------ | ----------------------- | ----------------- | -------------------------------------------------------------- | --- |
+| [関東廣域圈](https://zh.wikipedia.org/wiki/関東廣域圈 "wikilink")       | [東京電視台](../Page/東京電視台.md "wikilink") | 2007年10月1日 - 2008年3月31日 | 星期一 25:30 - 26:00 | [東京電視台系列](https://zh.wikipedia.org/wiki/TXN "wikilink")        |     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                              | [愛知電視台](../Page/愛知電視台.md "wikilink") | 2007年10月4日 - 2008年4月3日  | 星期四 26:28 - 26:58 |                                                                |     |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")           | [大阪電視台](../Page/大阪電視台.md "wikilink") | 2007年10月10日 - 2008年4月9日 | 星期三 25:55 - 26:25 |                                                                |     |
+| [日本全域](https://zh.wikipedia.org/wiki/全國放送 "wikilink")         | [AT-X](../Page/AT-X.md "wikilink")   | 2007年12月5日 - 2008年5月28日 | 星期三 11:30 - 12:00 | [CS放送](https://zh.wikipedia.org/wiki/日本衛星電視廣播#CS放送 "wikilink") | 有重播 |
+| [富士電視台TWO](https://zh.wikipedia.org/wiki/富士電視台TWO "wikilink") | 2011年6月7日 - 9月20日                    | 星期二 17:00 - 18:00       | 2話連續播放、有重播        |                                                                |     |
 
 ## 相關產品
 
@@ -934,12 +936,12 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
   - BAMBOO BLADE 廣播劇CD 紅盤 (VICL-60019) - 2008年5月8日 發售
       - 脚本與動畫版相同由[倉田英之擔當](../Page/倉田英之.md "wikilink")。與動畫版第15話關聯性很大的番外篇故事。
   - BAMBOO BLADE 廣播劇CD 白盤 (VICL-60020) - 2008年5月8日 發售
-      - 由原作者[土塚理弘來負責腳本擔當](../Page/土塚理弘.md "wikilink")。完全的原創故事。
+      - 由原作者[土塚理弘來負責腳本擔當](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")。完全的原創故事。
 
 ### 相關書籍
 
-  - （[JIVE刊](../Page/JIVE.md "wikilink")） - 2008年6月7日發行、ISBN
-    978-4-86176-535-3
+  - （[JIVE刊](https://zh.wikipedia.org/wiki/JIVE "wikilink")） -
+    2008年6月7日發行、ISBN 978-4-86176-535-3
 
   - （[Gakken刊](../Page/學研控股.md "wikilink")） - 2008年6月20日發行、ISBN
     978-4-05-605186-5
@@ -948,7 +950,7 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
   -
     2009年5月28日發行。[Gadget
-    software發售](../Page/Gadget_software.md "wikilink")。
+    software發售](https://zh.wikipedia.org/wiki/Gadget_software "wikilink")。
       - 類型 - 燃え萌え真剣（ホンキ）冒險遊戲
       - 對應平台 - [PlayStation
         Portable](../Page/PlayStation_Portable.md "wikilink")
@@ -979,4 +981,4 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
 1.  《[YOUNG
     GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》2009年2月號，本作外傳《竹劍少年》彩頁
-2.  [霧海正悟與](../Page/霧海正悟.md "wikilink")[大濱真對的共同筆名](../Page/大濱真對.md "wikilink")。
+2.  [霧海正悟與](https://zh.wikipedia.org/wiki/霧海正悟 "wikilink")[大濱真對的共同筆名](https://zh.wikipedia.org/wiki/大濱真對 "wikilink")。

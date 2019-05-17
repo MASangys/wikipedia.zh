@@ -1,5 +1,5 @@
 是[德国开发商](../Page/德国.md "wikilink")[Piranha
-Bytes开发的](../Page/Piranha_Bytes.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，是《[哥特王朝](../Page/哥特王朝_\(游戏\).md "wikilink")》的续作。于2002年11月29日在德国由[Jowood和](../Page/Jowood.md "wikilink")[Atari发行](../Page/Atari.md "wikilink")。北美地区则在2003年10月28日发行。
+Bytes开发的](https://zh.wikipedia.org/wiki/Piranha_Bytes "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，是《[哥特王朝](https://zh.wikipedia.org/wiki/哥特王朝_\(游戏\) "wikilink")》的续作。于2002年11月29日在德国由[Jowood和](https://zh.wikipedia.org/wiki/Jowood "wikilink")[Atari发行](https://zh.wikipedia.org/wiki/Atari "wikilink")。北美地区则在2003年10月28日发行。
 
 ## 剧情
 
@@ -11,13 +11,13 @@ Bytes开发的](../Page/Piranha_Bytes.md "wikilink")[角色扮演游戏](../Page
 
 ## 哥特系列
 
-  - [哥特王朝](../Page/哥特王朝_\(游戏\).md "wikilink")－2001年
+  - [哥特王朝](https://zh.wikipedia.org/wiki/哥特王朝_\(游戏\) "wikilink")－2001年
   - 哥特王朝II：乌鸦之夜－2003年（只有德语版本）
   - 哥特王朝II黄金版－2005年（包括原版和英语资料片《乌鸦之夜》）
-  - [哥特王朝3](../Page/哥特王朝3.md "wikilink")－2006年
-  - [哥特王朝3：起源](../Page/哥特王朝3：起源.md "wikilink")－2008年1月15日（由[Handy-Games开发的手机版](../Page/Handy-Games.md "wikilink")）
-  - [哥特王朝4：阿卡尼亚](../Page/哥特王朝4：阿卡尼亚.md "wikilink") -
-    2010年10月8日（由[SpellBound开发](../Page/SpellBound.md "wikilink")）
+  - [哥特王朝3](https://zh.wikipedia.org/wiki/哥特王朝3 "wikilink")－2006年
+  - [哥特王朝3：起源](https://zh.wikipedia.org/wiki/哥特王朝3：起源 "wikilink")－2008年1月15日（由[Handy-Games开发的手机版](https://zh.wikipedia.org/wiki/Handy-Games "wikilink")）
+  - [哥特王朝4：阿卡尼亚](https://zh.wikipedia.org/wiki/哥特王朝4：阿卡尼亚 "wikilink") -
+    2010年10月8日（由[SpellBound开发](https://zh.wikipedia.org/wiki/SpellBound "wikilink")）
 
 ## 注释
 
@@ -39,28 +39,28 @@ Bytes开发的](../Page/Piranha_Bytes.md "wikilink")[角色扮演游戏](../Page
 1.  [Press reactions on the official web
     site](http://www.piranha-bytes.com/gothic2/content_english/news_press.php)
      *Piranha Bytes*. Retrieved on [August
-    3](../Page/August_3.md "wikilink"), 2006
+    3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
 
 2.  [RPGDot
     Review](http://www.rpgdot.com/index.php?hsaction=10053&ID=690)
     *rpgdot.com*. Retrieved on [August
-    3](../Page/August_3.md "wikilink"), 2006
+    3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
 
 3.  [IGN Review](http://pc.ign.com/articles/440/440104p3.html)
     *pc.ign.com*. Retrieved on [August
-    3](../Page/August_3.md "wikilink"), 2006
+    3](https://zh.wikipedia.org/wiki/August_3 "wikilink"), 2006
 
 4.
 5.  [Just RPG Review](http://www.just-rpg.com/default.asp?pid=774)
     *just-rpg.com*. Retrieved on [August
-    4](../Page/August_4.md "wikilink"), 2006
+    4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006
 
 6.
 7.  [Gamepot Review](http://www.gamespot.com/pc/rpg/gothic2/review.html)
     *gamespot.com*. Retrieved on [August
-    4](../Page/August_4.md "wikilink"), 2006
+    4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006
 
 8.  [Gamespy
     Review](http://archive.gamespy.com/reviews/november03/gothic2pc/)
     *gamespy.com*. Retrieved on [August
-    4](../Page/August_4.md "wikilink"), 2006
+    4](https://zh.wikipedia.org/wiki/August_4 "wikilink"), 2006

@@ -1,6 +1,6 @@
 **微軟元件服務**（Microsoft Component Services，俗稱為COM+）是微軟在Windows
 2000開始，針對[Microsoft Transaction
-Server所強化更新的](../Page/Microsoft_Transaction_Server.md "wikilink")[COM服務實作](../Page/COM.md "wikilink")，作為Windows平台上的應用程式伺服器服務，目前的版本為1.5（Windows
+Server所強化更新的](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")[COM服務實作](https://zh.wikipedia.org/wiki/COM "wikilink")，作為Windows平台上的應用程式伺服器服務，目前的版本為1.5（Windows
 XP、Windows Server 2003以後的版本），是利用微軟平台開發分散式應用程式不可或缺的一個服務，就連.NET
 Framework也提供System.EnterpriseServices.dll以支援COM+的開發。
 
@@ -39,4 +39,4 @@ COM+目前已有十九種服務：
 [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
 
 [en:Component Object
-Model\#COM+](../Page/en:Component_Object_Model#COM+.md "wikilink")
+Model\#COM+](https://zh.wikipedia.org/wiki/en:Component_Object_Model#COM+ "wikilink")

@@ -1,30 +1,30 @@
 **SIG
-P210**是[瑞士](../Page/瑞士.md "wikilink")[SIG](../Page/SIG.md "wikilink")（現為[Swiss
-Arms](../Page/Swiss_Arms.md "wikilink")）在1949年推出的[半自動手槍](../Page/半自動手槍.md "wikilink")。
+P210**是[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[SIG](https://zh.wikipedia.org/wiki/SIG "wikilink")（現為[Swiss
+Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）在1949年推出的[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 設計
 
 SIG
-P210是一把由瑞士著名廠商SIG生產的單動手槍，可發射[9×19毫米](../Page/9×19mm鲁格弹.md "wikilink")、[7.65毫米Luger及](../Page/7.65mm_Luger.md "wikilink")[.22
-LR口徑彈藥](../Page/.22_LR.md "wikilink")，單排彈匣可放8發子彈，[機匣裝有可強制封鎖扳機的手動保險及彈匣退出時自動扳機扳機的自動保險系統](../Page/機匣.md "wikilink")。其獨特之處是它的主要鋼制部件由人手車削，其套筒及骨架配套制成，採用高質量的120毫米槍管，加上嚴格的品質監控，因此其可靠性、準確度、耐用性都比一般手槍為高，在50米射靶時可打出在5至10發保持5厘米內的成绩。
+P210是一把由瑞士著名廠商SIG生產的單動手槍，可發射[9×19毫米](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")、[7.65毫米Luger及](https://zh.wikipedia.org/wiki/7.65mm_Luger "wikilink")[.22
+LR口徑彈藥](../Page/.22_LR.md "wikilink")，單排彈匣可放8發子彈，[機匣裝有可強制封鎖扳機的手動保險及彈匣退出時自動扳機扳機的自動保險系統](https://zh.wikipedia.org/wiki/機匣 "wikilink")。其獨特之處是它的主要鋼制部件由人手車削，其套筒及骨架配套制成，採用高質量的120毫米槍管，加上嚴格的品質監控，因此其可靠性、準確度、耐用性都比一般手槍為高，在50米射靶時可打出在5至10發保持5厘米內的成绩。
 
 P210雖然有高命中精度和可靠的優點，但早期版本沒有握把式彈匣釋放鈕，不及其他手槍般操作方便，且由於手工裝配及高質量部件令價格比其他手槍為高，因此當時沒有太多國家採用，現在的美國民用市場上只有少數當時的P210發售，售價更超過3000[美元](../Page/美元.md "wikilink")。
 
 ## 採用
 
 SIG
-P210在1949年推出後便成為了[瑞士陸軍的制式手槍](../Page/瑞士陸軍.md "wikilink")，當時命名為**Pistole
+P210在1949年推出後便成為了[瑞士陸軍的制式手槍](https://zh.wikipedia.org/wiki/瑞士陸軍 "wikilink")，當時命名為**Pistole
 49**\[1\]，並一直採用至1975年被[SIG
 P75手槍取代](../Page/SIG_P220手槍.md "wikilink")，並曾被[德國聯邦警察採用](../Page/德國聯邦警察.md "wikilink")。
 
-一些[瑞士警察部隊](../Page/瑞士.md "wikilink")、[丹麥及](../Page/丹麥.md "wikilink")[拉脫維亞的軍隊和](../Page/拉脫維亞.md "wikilink")[摩納哥的大公槍騎兵中隊至今仍然採用P](../Page/摩納哥.md "wikilink")210為制式手槍。
+一些[瑞士警察部隊](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[丹麥及](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[拉脫維亞的軍隊和](../Page/拉脫維亞.md "wikilink")[摩納哥的大公槍騎兵中隊至今仍然採用P](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")210為制式手槍。
 
 ## 型號
 
 [Sig210-6.jpg](https://zh.wikipedia.org/wiki/File:Sig210-6.jpg "fig:Sig210-6.jpg")
 
 SIG P210有多種不同版本：
-（註：[機匣上號碼前印有](../Page/機匣.md "wikilink")「A」字是瑞士陸軍版本，「P」字是瑞士軍方送給退役士兵時印上的標記，解為私人擁有，丹麥及德國版本印有特別標記。）
+（註：[機匣上號碼前印有](https://zh.wikipedia.org/wiki/機匣 "wikilink")「A」字是瑞士陸軍版本，「P」字是瑞士軍方送給退役士兵時印上的標記，解為私人擁有，丹麥及德國版本印有特別標記。）
 
   - **SIG P210-1**：普通版本，有9×19毫米、7.65毫米Luger及.22
     LR三種口徑，裝有木制握把片、固定缺口式照門及槍身處理。

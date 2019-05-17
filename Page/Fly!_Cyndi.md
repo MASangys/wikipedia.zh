@@ -8,19 +8,19 @@ Cyndi（初回限定盤）》，在2007年11月13日開始預購，於2007年11�
 
 ## 曲目
 
-|                                    |                                    |                                    |                                    |                                    |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| <font color=darkblue>**曲序**</font> | <font color=darkblue>**曲名**</font> | <font color=darkblue>**作曲**</font> | <font color=darkblue>**作詞**</font> | <font color=darkblue>**注釋**</font> |
-| 01                                 | **飄飄**                             | [曹格](../Page/曹格.md "wikilink")     | 崔惟楷                                | 首波主打                               |
-| 02                                 | '''熱愛 '''                          | [李榮浩](../Page/李榮浩.md "wikilink")   | 廖瑩如                                | 第二主打                               |
-| 03                                 | **這就是愛**                           | [Tank](../Page/Tank.md "wikilink") | Midori                             | 第三主打（抒情主打）                         |
-| 04                                 | 瞬間                                 | [柯貴民](../Page/柯貴民.md "wikilink")   | 廖瑩如                                |                                    |
-| 05                                 | 雙人舞                                | 王心凌                                | 林白                                 |                                    |
-| 06                                 | 日落前七分鐘                             | 古皓／旺旺                              | 蕭旭甫／古皓                             |                                    |
-| 07                                 | 幸福神偷                               | [小安](../Page/小安.md "wikilink")     | 馬嵩惟                                |                                    |
-| 08                                 | 還是好朋友                              | Min Myeong Gi                      | 陳彥輔                                |                                    |
-| 09                                 | 泡泡糖                                | KIM SE-JIN                         | 馬嵩惟                                | OT：MALGWALRYANGI                   |
-| 10                                 | 睜開眼                                | 饒善強                                | [易桀齊](../Page/易桀齊.md "wikilink")   |                                    |
+|                                    |                                    |                                                       |                                    |                                    |
+| ---------------------------------- | ---------------------------------- | ----------------------------------------------------- | ---------------------------------- | ---------------------------------- |
+| <font color=darkblue>**曲序**</font> | <font color=darkblue>**曲名**</font> | <font color=darkblue>**作曲**</font>                    | <font color=darkblue>**作詞**</font> | <font color=darkblue>**注釋**</font> |
+| 01                                 | **飄飄**                             | [曹格](../Page/曹格.md "wikilink")                        | 崔惟楷                                | 首波主打                               |
+| 02                                 | '''熱愛 '''                          | [李榮浩](../Page/李榮浩.md "wikilink")                      | 廖瑩如                                | 第二主打                               |
+| 03                                 | **這就是愛**                           | [Tank](https://zh.wikipedia.org/wiki/Tank "wikilink") | Midori                             | 第三主打（抒情主打）                         |
+| 04                                 | 瞬間                                 | [柯貴民](../Page/柯貴民.md "wikilink")                      | 廖瑩如                                |                                    |
+| 05                                 | 雙人舞                                | 王心凌                                                   | 林白                                 |                                    |
+| 06                                 | 日落前七分鐘                             | 古皓／旺旺                                                 | 蕭旭甫／古皓                             |                                    |
+| 07                                 | 幸福神偷                               | [小安](../Page/小安.md "wikilink")                        | 馬嵩惟                                |                                    |
+| 08                                 | 還是好朋友                              | Min Myeong Gi                                         | 陳彥輔                                |                                    |
+| 09                                 | 泡泡糖                                | KIM SE-JIN                                            | 馬嵩惟                                | OT：MALGWALRYANGI                   |
+| 10                                 | 睜開眼                                | 饒善強                                                   | [易桀齊](../Page/易桀齊.md "wikilink")   |                                    |
 
 ### 初回限定版 Bonus DVD
 

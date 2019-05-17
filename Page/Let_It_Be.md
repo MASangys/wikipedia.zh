@@ -1,29 +1,29 @@
-《**順其自然**》（[英語](../Page/英語.md "wikilink")：）又稱為《**讓它去**》，是[英國](../Page/英國.md "wikilink")[搖滾樂團](../Page/搖滾.md "wikilink")[披头士發布的第十二张专辑](../Page/披头士.md "wikilink")，亦是最後一張录音室专辑，由制作人[菲尔·斯佩克特監製](../Page/菲尔·斯佩克特.md "wikilink")。1970年5月8日，在樂團拆夥的一個月後，[苹果唱片於英国发行](../Page/苹果唱片.md "wikilink")\[1\]，十天之後於[美国发行這專輯](../Page/美国.md "wikilink")\[2\]。大部份的歌曲灌錄於1969年1月，在《[Abbey
-Road](../Page/Abbey_Road.md "wikilink")》專輯的錄製和發布之前，基於這個原因，一些歌迷和評論家認為：《Abbey
+《**順其自然**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）又稱為《**讓它去**》，是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[披头士發布的第十二张专辑](https://zh.wikipedia.org/wiki/披头士 "wikilink")，亦是最後一張录音室专辑，由制作人[菲尔·斯佩克特監製](../Page/菲尔·斯佩克特.md "wikilink")。1970年5月8日，在樂團拆夥的一個月後，[苹果唱片於英国发行](https://zh.wikipedia.org/wiki/苹果唱片 "wikilink")\[1\]，十天之後於[美国发行這專輯](../Page/美国.md "wikilink")\[2\]。大部份的歌曲灌錄於1969年1月，在《[Abbey
+Road](https://zh.wikipedia.org/wiki/Abbey_Road "wikilink")》專輯的錄製和發布之前，基於這個原因，一些歌迷和評論家認為：《Abbey
 Road》才是樂團的最後一張專輯，《Let It Be》應該是倒數第二。\[3\]
 
 ## 背景
 
-1968年年末，[披頭四放棄了現場表演兩年多後](../Page/披頭四.md "wikilink")，[保羅·麥卡尼渴望樂團重返舞台表演](../Page/保羅·麥卡尼.md "wikilink")。當年的《[白色專輯](../Page/The_Beatles_\(專輯\).md "wikilink")》（[英語](../Page/英語.md "wikilink")：）錄音環節已經看到隊員間一些嚴重的爭論，和逐漸趨向緊張的關係。麥卡尼認為樂隊因為多年沒有作現場演奏，已失去凝聚力；在錄音室工作偏向於個人發揮及運用複雜的音樂編排，而不是以樂團作為一個群體，有需要重新振作。\[4\]
+1968年年末，[披頭四放棄了現場表演兩年多後](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，[保羅·麥卡尼渴望樂團重返舞台表演](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")。當年的《[白色專輯](https://zh.wikipedia.org/wiki/The_Beatles_\(專輯\) "wikilink")》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）錄音環節已經看到隊員間一些嚴重的爭論，和逐漸趨向緊張的關係。麥卡尼認為樂隊因為多年沒有作現場演奏，已失去凝聚力；在錄音室工作偏向於個人發揮及運用複雜的音樂編排，而不是以樂團作為一個群體，有需要重新振作。\[4\]
 
 ### 策劃
 
-這張專輯原本定名為《**回來**》（[英語](../Page/英語.md "wikilink")：**Get
-Back**），錄音製作於1969年1月2日開始在特威克南电影工作室進行，計劃會成為紀錄片一部份，顯示[披頭四準備返回舞台表演](../Page/披頭四.md "wikilink")。這個項目由樂隊成員[保羅·麥卡尼策劃](../Page/保羅·麥卡尼.md "wikilink")，但綵排拍攝並不順利，隊員之間產生磨擦，導致[乔治·哈里森的臨時離隊](../Page/乔治·哈里森.md "wikilink")\[5\]，後來披頭四撤離特威克南电影工作室。在哈里森歸隊之後，於1969年1月22日在苹果录音室重新開始工作，並在客席樂手Billy
+這張專輯原本定名為《**回來**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Get
+Back**），錄音製作於1969年1月2日開始在特威克南电影工作室進行，計劃會成為紀錄片一部份，顯示[披頭四準備返回舞台表演](https://zh.wikipedia.org/wiki/披頭四 "wikilink")。這個項目由樂隊成員[保羅·麥卡尼策劃](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")，但綵排拍攝並不順利，隊員之間產生磨擦，導致[乔治·哈里森的臨時離隊](../Page/乔治·哈里森.md "wikilink")\[5\]，後來披頭四撤離特威克南电影工作室。在哈里森歸隊之後，於1969年1月22日在苹果录音室重新開始工作，並在客席樂手Billy
 Preston的幫助下，完成了所有錄音。單曲《*I Me
-Mine*》是披頭四最後灌錄的歌曲，於1970年1月3日在[阿比路录音室完成](../Page/阿比路录音室.md "wikilink")\[6\]。
+Mine*》是披頭四最後灌錄的歌曲，於1970年1月3日在[阿比路录音室完成](https://zh.wikipedia.org/wiki/阿比路录音室 "wikilink")\[6\]。
 
 ### 錄製
 
 《Let It Be》專輯大部分录音工作开始于上一张专辑《[Abbey
-Road](../Page/Abbey_Road.md "wikilink")》发行前的1969年1月，在所有录音完成之后，对于每首歌曲一遍又一遍的重复录制，产生很多不同的版本。四位隊员都没有意欲在當中挑选最好的放进专辑內。它的混音及編排首先交給制作人Glyn
+Road](https://zh.wikipedia.org/wiki/Abbey_Road "wikilink")》发行前的1969年1月，在所有录音完成之后，对于每首歌曲一遍又一遍的重复录制，产生很多不同的版本。四位隊员都没有意欲在當中挑选最好的放进专辑內。它的混音及編排首先交給制作人Glyn
 John，但他們不喜歡這個版本，不久之后，再交到唱片监制[菲尔·斯佩克特手中](../Page/菲尔·斯佩克特.md "wikilink")。最终在1970年5月8日，乐队解散一個月之后\[7\]，专辑才以「Let
 it Be」（讓它去）为名推出。
 
 ## 排行榜
 
 《Let It
-Be》专辑在《[滚石杂志](../Page/滚石杂志.md "wikilink")》於2003年发布的「[五百大专辑](../Page/滾石雜誌五百大專輯.md "wikilink")」名單中排行第86位\[8\]。然而，在《滚石》2012年的版本，則調整至第392位\[9\]。這专辑在[美國及](../Page/美國.md "wikilink")[英國皆打上排行榜冠軍位置](../Page/英國.md "wikilink")；而單曲《*Get
+Be》专辑在《[滚石杂志](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")》於2003年发布的「[五百大专辑](../Page/滾石雜誌五百大專輯.md "wikilink")」名單中排行第86位\[8\]。然而，在《滚石》2012年的版本，則調整至第392位\[9\]。這专辑在[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[英國皆打上排行榜冠軍位置](https://zh.wikipedia.org/wiki/英國 "wikilink")；而單曲《*Get
 Back*》、《*Let It Be*》及《*The Long and Winding Road*》亦登上排行榜榜首\[10\]。《Let It
 Be... Naked》專輯發布於2003年，是《Let It
 Be》專輯的另一個版本，它棄用大部分斯佩克特的製作，並起用一些不同版本的歌曲\[11\]。
@@ -193,7 +193,7 @@ Be》專輯的另一個版本，它棄用大部分斯佩克特的製作，並起
   - [约翰·列侬](../Page/约翰·列侬.md "wikilink")
   - [保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")
   - [乔治·哈里森](../Page/乔治·哈里森.md "wikilink")
-  - [靈高·史達](../Page/靈高·史達.md "wikilink")
+  - [靈高·史達](https://zh.wikipedia.org/wiki/靈高·史達 "wikilink")
 
 ## 參考資料
 

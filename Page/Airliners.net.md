@@ -1,10 +1,10 @@
 **Airliners.net**是一個提供許多[航空資訊的網站](../Page/航空.md "wikilink")。網站由Johan
-Lundgren在1994年創立，[伺服器設置在](../Page/伺服器.md "wikilink")[瑞典的](../Page/瑞典.md "wikilink")[Luleå科技大學](../Page/Luleå科技大學.md "wikilink")。初期提供航空資料庫和聊天室的
+Lundgren在1994年創立，[伺服器設置在](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[瑞典的](../Page/瑞典.md "wikilink")[Luleå科技大學](https://zh.wikipedia.org/wiki/Luleå科技大學 "wikilink")。初期提供航空資料庫和聊天室的
 Pictures of Modern
-Airliners，後來擴充為包括[圖庫及](../Page/圖庫.md "wikilink")[討論區等的航空社群網站](../Page/討論區.md "wikilink")。2007年7月27日，網站被[美國的](../Page/美國.md "wikilink")[Demand
-Media購併](../Page/Demand_Media.md "wikilink")，伺服器從瑞典遷至美國。
+Airliners，後來擴充為包括[圖庫及](https://zh.wikipedia.org/wiki/圖庫 "wikilink")[討論區等的航空社群網站](https://zh.wikipedia.org/wiki/討論區 "wikilink")。2007年7月27日，網站被[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[Demand
+Media購併](https://zh.wikipedia.org/wiki/Demand_Media "wikilink")，伺服器從瑞典遷至美國。
 
-Airliners.net提供了可免費線上觀看的航空圖庫以及[搜尋引擎](../Page/搜尋引擎.md "wikilink")，讓使用者可以快速的找到特定地點、機型、航空公司、或是特定一架飛機、機場等圖片。目前已有130多萬張圖片。
+Airliners.net提供了可免費線上觀看的航空圖庫以及[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，讓使用者可以快速的找到特定地點、機型、航空公司、或是特定一架飛機、機場等圖片。目前已有130多萬張圖片。
 
 此網站有兩個姐妹網站，一個是MyAviation.net，收集不符合Airliners.net品質要求的航空圖片；另一是FlightLevel350.com，收集航空影片。
 

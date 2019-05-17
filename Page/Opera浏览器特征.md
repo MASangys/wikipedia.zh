@@ -1,12 +1,12 @@
 这篇文章介绍**Opera网页浏览器的特征**，以下按照这些特征适用平台进行分类（[Opera
-Devices因其载体不同功能各异](../Page/Opera_Devices.md "wikilink")，[Opera
+Devices因其载体不同功能各异](https://zh.wikipedia.org/wiki/Opera_Devices "wikilink")，[Opera
 Devices for
-Wii可参照Opera](../Page/Opera_Devices#Wii_Internet_Channel.md "wikilink")
+Wii可参照Opera](https://zh.wikipedia.org/wiki/Opera_Devices#Wii_Internet_Channel "wikilink")
 browser，[Opera Devices for
-DS可参照Opera](../Page/Opera_Devices#Nintendo_DS_Browser.md "wikilink")
+DS可参照Opera](https://zh.wikipedia.org/wiki/Opera_Devices#Nintendo_DS_Browser "wikilink")
 Mobile）
 
-## 适用于[Opera](../Page/Opera.md "wikilink")、[Opera Mini和](../Page/Opera_Mini.md "wikilink")[Opera Mobile](../Page/Opera_Mobile.md "wikilink")
+## 适用于[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Opera Mini和](../Page/Opera_Mini.md "wikilink")[Opera Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")
 
 ### 遵守网络标准
 
@@ -19,7 +19,7 @@ Opera可以智能地拦截弹出窗口。
 ### 内容阻止
 
 Opera提供选项阻止任何网页中的任何内容，只需知道其源地址。这个功能相当于[Mozilla
-Firefox下流行的扩展](../Page/Mozilla_Firefox.md "wikilink")[Adblock](../Page/Adblock.md "wikilink")，但由于需要手动添加，一般人不用它来屏蔽广告，而是特定格式的内容。
+Firefox下流行的扩展](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Adblock](https://zh.wikipedia.org/wiki/Adblock "wikilink")，但由于需要手动添加，一般人不用它来屏蔽广告，而是特定格式的内容。
 
 ### 页面压缩
 
@@ -27,7 +27,7 @@ Opera Mini服务采用自己发明的Opera Binary Markup
 Language传输网页内容，其流量可比[HTML节省至](../Page/HTML.md "wikilink")90%并仍能实现标准网页的大部分主要功能。
 Opera Turbo服务采用自己发明的Opera Web Optimization
 Proxy传输网页内容，按照Opera公司发布这一产品时的说法，其流量可比[HTML节省至](../Page/HTML.md "wikilink")70%并仍能实现标准网页的全部主要功能\[1\]，被压缩的部分主要是图片和附加内容\[2\]。[Opera
-Mobile从](../Page/Opera_Mobile.md "wikilink")9.7版起，[Opera从](../Page/Opera.md "wikilink")10.0版起正式提供Opera
+Mobile从](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")9.7版起，[Opera从](https://zh.wikipedia.org/wiki/Opera "wikilink")10.0版起正式提供Opera
 Turbo功能。
 
 ### 快速拨号
@@ -50,11 +50,11 @@ Opera Mini固有的功能，可以通过“Ctrl”键+數字键快速定位到�
 11开始又增加了对“内容阻止规则”的同步，自Opera
 11.5更是增加了密码同步。与浏览器配合紧密，也是Opera平台下唯一可用的浏览器级书签同步工具。
 
-## 适用于[Opera和](../Page/Opera.md "wikilink")[Opera Mini](../Page/Opera_Mini.md "wikilink")
+## 适用于[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Opera Mini](../Page/Opera_Mini.md "wikilink")
 
 ### 反钓鱼
 
-Opera自桌面版9.1起，与数字证书提供商GeoTrust和钓鱼攻击信息厂商[PhishTank合作提供反](../Page/PhishTank.md "wikilink")[钓鱼式攻击功能](../Page/钓鱼式攻击.md "wikilink")，二者分别提供白名单和[黑名单](../Page/黑名单.md "wikilink")。9.5版时，又添加了NetCraft和Haute
+Opera自桌面版9.1起，与数字证书提供商GeoTrust和钓鱼攻击信息厂商[PhishTank合作提供反](../Page/PhishTank.md "wikilink")[钓鱼式攻击功能](../Page/钓鱼式攻击.md "wikilink")，二者分别提供白名单和[黑名单](https://zh.wikipedia.org/wiki/黑名单 "wikilink")。9.5版时，又添加了NetCraft和Haute
 Secure作为信息来源。当从桌面版访问受举报的网站时，会出现地址为opera:fraud-warning的页面反映相关细节；而从Mini版访问受举报的网址时，则一般是直接返回404页面，系统细节不详，但反钓鱼服务的提供毫无悬念。
 
 ### 快捷键
@@ -66,7 +66,7 @@ Mini的快捷键是以“\*”或“\#”开始的两位字符串，只能自定
 
 功能简单但性能出色的[聚合器](../Page/聚合器.md "wikilink")。原文为Feeds，官方中译千奇百怪，有新闻订阅、网志、网摘、频道等等。有种子预览功能，桌面版和Mini版在功能和架构上都有很大不同。
 
-## 适用于[Opera和](../Page/Opera.md "wikilink")[Opera Mobile](../Page/Opera_Mobile.md "wikilink")
+## 适用于[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Opera Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")
 
 ### 笔记
 
@@ -86,20 +86,20 @@ Mini的快捷键是以“\*”或“\#”开始的两位字符串，只能自定
 
 ### Opera Dragonfly
 
-Opera的网页调试工具，支持[HTML](../Page/HTML.md "wikilink")、[CSS](../Page/CSS.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")。
+Opera的网页调试工具，支持[HTML](../Page/HTML.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")。
 
-## 适用于[Opera Mini和](../Page/Opera_Mini.md "wikilink")[Opera Mobile](../Page/Opera_Mobile.md "wikilink")
+## 适用于[Opera Mini和](../Page/Opera_Mini.md "wikilink")[Opera Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")
 
 ### 智能缩放
 
 Opera的独有技术，可以根据网页内容自动调整页面大小以在手机屏幕显示。
 
-## 适用于[Opera](../Page/Opera.md "wikilink")
+## 适用于[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
 
 ### 皮肤
 
 包含各种肤色，Opera browser的皮肤可以自行设计并分享，Opera
-Mini的皮肤暂时还是由[Opera公司垄断](../Page/Opera公司.md "wikilink")。
+Mini的皮肤暂时还是由[Opera公司垄断](https://zh.wikipedia.org/wiki/Opera公司 "wikilink")。
 
 ### 鼠标手势
 
@@ -153,11 +153,11 @@ Opera首创的便捷功能，可以将电脑在数秒内交由他人使用。Ope
 
 ### BT下载
 
-一个简易的[BitTorrent下载客户端](../Page/BitTorrent.md "wikilink")，无需加装单独的BT软件。
+一个简易的[BitTorrent下载客户端](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，无需加装单独的BT软件。
 
 ### 邮件
 
-功能丰富的电子邮件客户端，支持[POP3](../Page/POP3.md "wikilink")、[IMAP](../Page/IMAP.md "wikilink")、[简单邮件传输协议等一切当代主流邮件协议](../Page/简单邮件传输协议.md "wikilink")，内置联系人管理和邮件编辑工具。
+功能丰富的电子邮件客户端，支持[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")、[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[简单邮件传输协议等一切当代主流邮件协议](../Page/简单邮件传输协议.md "wikilink")，内置联系人管理和邮件编辑工具。
 
 ### IRC聊天
 
@@ -176,8 +176,9 @@ Mini上传、下载，Opera Mini从4.2起对该标准提供完整支持。
 
 ## 参看
 
-  - [Opera](../Page/Opera.md "wikilink")
-  - [Opera Mobile](../Page/Opera_Mobile.md "wikilink")
+  - [Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
+  - [Opera
+    Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")
   - [Opera Mini](../Page/Opera_Mini.md "wikilink")
 
 ## 参考资料

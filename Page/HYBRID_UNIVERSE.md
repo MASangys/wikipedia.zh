@@ -1,6 +1,6 @@
 **HYBRID
 UNIVERSE**是[水樹奈奈第](../Page/水樹奈奈.md "wikilink")5隻[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年5月3日由[KING
-RECORDS發售](../Page/KING_RECORDS.md "wikilink")。
+RECORDS發售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
 
 ## 解説
 
@@ -16,15 +16,15 @@ Gardenの本格的な参加により過去のアルバムよりも叙情的な�
 
 2.  Faith
 
-      - 作詞：[渡邊亞希子](../Page/渡邊亞希子.md "wikilink")、作曲・編曲：[後藤康二](../Page/後藤康二.md "wikilink")
+      - 作詞：[渡邊亞希子](https://zh.wikipedia.org/wiki/渡邊亞希子 "wikilink")、作曲・編曲：[後藤康二](https://zh.wikipedia.org/wiki/後藤康二 "wikilink")
 
 3.  [WILD EYES](../Page/WILD_EYES.md "wikilink")
 
-      - 作詞：水樹奈奈、作曲・編曲：[飯田高廣](../Page/飯田高廣.md "wikilink")
+      - 作詞：水樹奈奈、作曲・編曲：[飯田高廣](https://zh.wikipedia.org/wiki/飯田高廣 "wikilink")
 
 4.  You have a dream
 
-      - 作詞：[小間浩子](../Page/小間浩子.md "wikilink")、作曲：[鶴田勇氣](../Page/鶴田勇氣.md "wikilink")、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")
+      - 作詞：[小間浩子](https://zh.wikipedia.org/wiki/小間浩子 "wikilink")、作曲：[鶴田勇氣](https://zh.wikipedia.org/wiki/鶴田勇氣 "wikilink")、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")
 
 5.  BRAVE PHOENIX
 
@@ -38,7 +38,7 @@ Gardenの本格的な参加により過去のアルバムよりも叙情的な�
 
 8.  NAKED FEELS
 
-      - 作詞・作曲・編曲：[田中隼人](../Page/田中隼人.md "wikilink")
+      - 作詞・作曲・編曲：[田中隼人](https://zh.wikipedia.org/wiki/田中隼人 "wikilink")
 
 9.  Love Trippin'
 
@@ -46,7 +46,7 @@ Gardenの本格的な参加により過去のアルバムよりも叙情的な�
 
 10. Late Summer Tale
 
-      - 作詞：[園田凌士](../Page/園田凌士.md "wikilink")、作曲・編曲：[雅智彌](../Page/雅智彌.md "wikilink")
+      - 作詞：[園田凌士](https://zh.wikipedia.org/wiki/園田凌士 "wikilink")、作曲・編曲：[雅智彌](https://zh.wikipedia.org/wiki/雅智彌 "wikilink")
 
 11. Violetta
 

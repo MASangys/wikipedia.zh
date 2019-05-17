@@ -1,15 +1,15 @@
-**VSS**（）特種狙擊步槍，又名（「螺紋剪裁機」），是一種由[前蘇聯開發的滅音](../Page/苏联.md "wikilink")[狙擊步槍](../Page/狙擊步槍.md "wikilink")。
+**VSS**（）特種狙擊步槍，又名（「螺紋剪裁機」），是一種由[前蘇聯開發的滅音](../Page/苏联.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 ## 歷史及設計
 
 VSS
-Vintorez是一種滅音，幾乎無發射火焰的短距離狙擊步槍，使用[9×39毫米彈藥](../Page/9×39毫米.md "wikilink")。9x39毫米子彈的初速並不高，然而畢竟裝藥量多過[9毫米魯格彈一倍](../Page/9mm魯格彈.md "wikilink")，威力不僅僅是比9毫米子彈強大，在射程上堪與一般無抑制器的突擊步槍相較，大約在400米以內。
+Vintorez是一種滅音，幾乎無發射火焰的短距離狙擊步槍，使用[9×39毫米彈藥](https://zh.wikipedia.org/wiki/9×39毫米 "wikilink")。9x39毫米子彈的初速並不高，然而畢竟裝藥量多過[9毫米魯格彈一倍](https://zh.wikipedia.org/wiki/9mm魯格彈 "wikilink")，威力不僅僅是比9毫米子彈強大，在射程上堪與一般無抑制器的突擊步槍相較，大約在400米以內。
 
 9×39毫米除了射程遠之外，就算經過VSS
 Vintorez**整合式[抑制器](../Page/抑制器.md "wikilink")**（integral
 sound
 supressor）降低初速之後仍然保有擊穿功夫龍（凯夫拉）防彈背心的能力。所謂整合式抑制器就是抑制器為槍管的一部分而非槍枝的配件；一般來說抑制器為「額外加裝」在槍口前用來降低擊發時的噪音與火焰，而整合式抑制器為製造槍管時已經將抑制器的部位與功能列入製造程序，因此當槍管製造完工時就已經具備降低擊發噪音與火焰的能力，不需要再「額外加裝」抑制器了。附帶一提的是目前具有類似這種設計的小口徑武器中還有[HK
-MP5SD系列](../Page/HK_MP5冲锋枪#型號.md "wikilink")。
+MP5SD系列](https://zh.wikipedia.org/wiki/HK_MP5冲锋枪#型號 "wikilink")。
 
 VSS Vintorez另外一個特點就是除了可以進行半自動單發狙擊射擊之外，在必要時也可進行全自動發射。
 
@@ -18,13 +18,13 @@ operation）武器，因此它可以分解成三大部分，並且放進450×370
 
 ## 使用
 
-该枪自1980年代投入使用，在[車臣作戰的](../Page/車臣.md "wikilink")[俄罗斯特种部队经常使用这种武器](../Page/俄罗斯特种部队.md "wikilink")，其中更有部份流入車臣武裝組織手上。2004年[別斯蘭人質危機中俄罗斯特种部队亦有採用](../Page/別斯蘭人質危機.md "wikilink")。
+该枪自1980年代投入使用，在[車臣作戰的](https://zh.wikipedia.org/wiki/車臣 "wikilink")[俄罗斯特种部队经常使用这种武器](../Page/俄罗斯特种部队.md "wikilink")，其中更有部份流入車臣武裝組織手上。2004年[別斯蘭人質危機中俄罗斯特种部队亦有採用](https://zh.wikipedia.org/wiki/別斯蘭人質危機 "wikilink")。
 
 ## 使用國
 
 [Ryazan_Airborne_School_2013_(505-20).jpg](https://zh.wikipedia.org/wiki/File:Ryazan_Airborne_School_2013_\(505-20\).jpg "fig:Ryazan_Airborne_School_2013_(505-20).jpg")士兵手持VSS
 Vintorez\]\]
-[Internal_Troops_of_the_Ministry_for_Internal_Affairs_(Russia)_(494-33).jpg](https://zh.wikipedia.org/wiki/File:Internal_Troops_of_the_Ministry_for_Internal_Affairs_\(Russia\)_\(494-33\).jpg "fig:Internal_Troops_of_the_Ministry_for_Internal_Affairs_(Russia)_(494-33).jpg")[第45獨立偵察團的隊員手持VSS](../Page/第45獨立偵察團.md "wikilink")
+[Internal_Troops_of_the_Ministry_for_Internal_Affairs_(Russia)_(494-33).jpg](https://zh.wikipedia.org/wiki/File:Internal_Troops_of_the_Ministry_for_Internal_Affairs_\(Russia\)_\(494-33\).jpg "fig:Internal_Troops_of_the_Ministry_for_Internal_Affairs_(Russia)_(494-33).jpg")[第45獨立偵察團的隊員手持VSS](https://zh.wikipedia.org/wiki/第45獨立偵察團 "wikilink")
 Vintorez\]\]
 
   -
@@ -35,16 +35,16 @@ Vintorez\]\]
   -
   - \[1\]
 
-  -   - [俄羅斯聯邦武裝力量](../Page/俄羅斯聯邦武裝力量.md "wikilink")
+  -   - [俄羅斯聯邦武裝力量](https://zh.wikipedia.org/wiki/俄羅斯聯邦武裝力量 "wikilink")
 
-      - [俄羅斯聯邦安全局](../Page/俄羅斯聯邦安全局.md "wikilink")
+      - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")
 
-      - [俄羅斯國家近衛軍](../Page/俄羅斯國家近衛軍.md "wikilink")
+      - [俄羅斯國家近衛軍](https://zh.wikipedia.org/wiki/俄羅斯國家近衛軍 "wikilink")
 
-      - [俄羅斯聯邦內務部](../Page/俄羅斯聯邦內務部.md "wikilink")
+      - [俄羅斯聯邦內務部](https://zh.wikipedia.org/wiki/俄羅斯聯邦內務部 "wikilink")
 
       -
-  -   - [烏克蘭安全局](../Page/烏克蘭安全局.md "wikilink")
+  -   - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")
 
 ### 前使用國
 
@@ -53,7 +53,7 @@ Vintorez\]\]
 
 ### 電子遊戲
 
-  - 2007年—《[军团要塞2](../Page/军团要塞2.md "wikilink")》：狙击手的‘全面狙杀令’（主武器）的模型就是
+  - 2007年—《[军团要塞2](https://zh.wikipedia.org/wiki/军团要塞2 "wikilink")》：狙击手的‘全面狙杀令’（主武器）的模型就是
     VSS Vintorez.
   - 2007年—《[戰地之王](../Page/戰地之王.md "wikilink")》：命名为“VSS”。使用10發[彈匣](../Page/彈匣.md "wikilink")　。
   - 2007年—《[-{zh-hans:潜行者：切尔诺贝利的阴影;
@@ -66,17 +66,18 @@ Vintorez\]\]
     zh-hant:戰地風雲：惡名昭彰2;}-](../Page/战地：叛逆连队2.md "wikilink")》（Battlefield:
     Bad Company 2）
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“VSS
-    Vintoerz”，以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，为狙击手专用武器，使用10发[弹匣](../Page/弹匣.md "wikilink")，可以改装战术导轨配件（[狙击枪双脚架](../Page/两脚架.md "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](../Page/Trijicon_TR20瞄准镜.md "wikilink")、狙击槍5x快速瞄准镜）。
+    Vintoerz”，以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，为狙击手专用武器，使用10发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，可以改装战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。
       - 中国大陆服务器为专家解锁武器；俄罗斯服务器为K点武器；欧美服务器需要达到40级（中校1军衔）方可解锁并购买。
   - 2013-《Metro: Last Light》
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日}-2](../Page/劫薪日2.md "wikilink")》：命名為「Valkyria」。
-  - 2014年—《[合約戰爭](../Page/合約戰爭.md "wikilink")》（Contract Wars）
+    zh-hant:劫薪日}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》：命名為「Valkyria」。
+  - 2014年—《[合約戰爭](https://zh.wikipedia.org/wiki/合約戰爭 "wikilink")》（Contract
+    Wars）
   - 2015年—《[未轉變者](../Page/未轉變者.md "wikilink")》：命名為“Matamorez”，分類為突擊步槍，等級為傳奇等級槍枝，使用17發[彈匣](../Page/彈匣.md "wikilink")（装备专有的扩容弹夹后可提升载弹量至25发），可以改瞄準鏡以及戰術導軌配件。
-  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayerUnknown's
-    Battlegrounds）：命名为“VSS狙击枪”，自帶四倍[PSO-1光學瞄準鏡](../Page/PSO-1.md "wikilink")、消音器，使用10發彈匣（擴容20發）。在遊戲中作為一枝狙擊步槍，可全自動射擊，可配備：所有狙擊步槍彈匣、托腮板。但由於在遊戲中彈道下墜嚴重，子彈初速慢（亞音速），並不適合狙擊，近距離單發傷害低，故成為冷門武器。
-  - 2017年—《[狙擊手：幽靈戰士3](../Page/狙擊手：幽靈戰士3.md "wikilink")》（Sniper: Ghost
-    Warrior 3）：命名為“Brezatelya”，使用10發彈匣。
+  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PlayerUnknown's
+    Battlegrounds）：命名为“VSS狙击枪”，自帶四倍[PSO-1光學瞄準鏡](https://zh.wikipedia.org/wiki/PSO-1 "wikilink")、消音器，使用10發彈匣（擴容20發）。在遊戲中作為一枝狙擊步槍，可全自動射擊，可配備：所有狙擊步槍彈匣、托腮板。但由於在遊戲中彈道下墜嚴重，子彈初速慢（亞音速），並不適合狙擊，近距離單發傷害低，故成為冷門武器。
+  - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
+    Ghost Warrior 3）：命名為“Brezatelya”，使用10發彈匣。
 
 ### 動畫
 
@@ -87,15 +88,15 @@ Vintorez\]\]
 ### 小說
 
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：被“SHINC”小隊的“伊娃”所使用。
+    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：被“SHINC”小隊的“伊娃”所使用。
 
 ## 相關條目
 
   - [SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")
   - [SVDK狙擊步槍](../Page/SVDK狙擊步槍.md "wikilink")
-  - [AS Val](../Page/AS_VAL微聲自動步槍.md "wikilink")
+  - [AS Val](https://zh.wikipedia.org/wiki/AS_VAL微聲自動步槍 "wikilink")
   - [Mk 12 SPR](../Page/Mk_12特別用途步槍.md "wikilink")
-  - [9x39mm](../Page/9x39mm.md "wikilink")
+  - [9x39mm](https://zh.wikipedia.org/wiki/9x39mm "wikilink")
 
 ## 註釋
 

@@ -1,6 +1,6 @@
 [Yosakoi_Festival.jpg](https://zh.wikipedia.org/wiki/File:Yosakoi_Festival.jpg "fig:Yosakoi_Festival.jpg")
-**YOSAKOI**（）是一種最初由[高知縣](../Page/高知縣.md "wikilink")[夜來祭](../Page/夜來祭.md "wikilink")（）開始發展起來、並逐漸成為[盂蘭盆節期間在日本全國各地舉行的一種](../Page/盂蘭盆節.md "wikilink")[祭典形態](../Page/祭典.md "wikilink")。除了起源地的高知縣之外，日本各地也廣泛舉辦類似形態之祭典，如[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")（）或東京的[原宿表參道元氣祭Super
-YOSAKOI](../Page/原宿表參道元氣祭Super_YOSAKOI.md "wikilink")（）等等。
+**YOSAKOI**（）是一種最初由[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[夜來祭](https://zh.wikipedia.org/wiki/夜來祭 "wikilink")（）開始發展起來、並逐漸成為[盂蘭盆節期間在日本全國各地舉行的一種](https://zh.wikipedia.org/wiki/盂蘭盆節 "wikilink")[祭典形態](https://zh.wikipedia.org/wiki/祭典 "wikilink")。除了起源地的高知縣之外，日本各地也廣泛舉辦類似形態之祭典，如[北海道](../Page/北海道.md "wikilink")[札幌市舉辦的](../Page/札幌市.md "wikilink")[YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")（）或東京的[原宿表參道元氣祭Super
+YOSAKOI](https://zh.wikipedia.org/wiki/原宿表參道元氣祭Super_YOSAKOI "wikilink")（）等等。
 
 ## 特徴
 
@@ -13,31 +13,31 @@ YOSAKOI](../Page/原宿表參道元氣祭Super_YOSAKOI.md "wikilink")（）等�
 
 ## 日本各地主要YOSAKOI規模
 
-| 都市                                 | 名稱                                                     | 参加團體数 | 舞者總數   | 遊客數（萬人） | 舉辦日數 | 開始年   | 參考    |
-| ---------------------------------- | ------------------------------------------------------ | ----- | ------ | ------- | ---- | ----- | ----- |
-| [札幌市](../Page/札幌市.md "wikilink")   | [YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")         | 330隊  | 33,000 | 202     | 5日   | 1992年 | \[1\] |
-| [仙台市](../Page/仙台市.md "wikilink")   | [みちのくYOSAKOIまつり](../Page/みちのくYOSAKOIまつり.md "wikilink") | 250隊  | 8,500  | 70      | 2日   | 1998年 | \[2\] |
-| [東京都](../Page/東京都.md "wikilink")   | [スーパーよさこい](../Page/原宿表参道元氣祭り・スーパーよさこい.md "wikilink")   | 103隊  |        | 100     | 2日   | 2001年 | \[3\] |
-| [名古屋市](../Page/名古屋市.md "wikilink") | [にっぽんど真ん中祭り](../Page/にっぽんど真ん中祭り.md "wikilink")         | 197隊  | 23,000 | 185     | 3日   | 1999年 | \[4\] |
-| [高知市](../Page/高知市.md "wikilink")   | [よさこい祭り](../Page/よさこい祭り.md "wikilink")                 | 170隊  | 19,000 |         | 4日   | 1954年 | \[5\] |
+| 都市                                 | 名稱                                                                        | 参加團體数 | 舞者總數   | 遊客數（萬人） | 舉辦日數 | 開始年   | 參考    |
+| ---------------------------------- | ------------------------------------------------------------------------- | ----- | ------ | ------- | ---- | ----- | ----- |
+| [札幌市](../Page/札幌市.md "wikilink")   | [YOSAKOI索朗祭](../Page/YOSAKOI索朗祭.md "wikilink")                            | 330隊  | 33,000 | 202     | 5日   | 1992年 | \[1\] |
+| [仙台市](../Page/仙台市.md "wikilink")   | [みちのくYOSAKOIまつり](https://zh.wikipedia.org/wiki/みちのくYOSAKOIまつり "wikilink") | 250隊  | 8,500  | 70      | 2日   | 1998年 | \[2\] |
+| [東京都](../Page/東京都.md "wikilink")   | [スーパーよさこい](https://zh.wikipedia.org/wiki/原宿表参道元氣祭り・スーパーよさこい "wikilink")   | 103隊  |        | 100     | 2日   | 2001年 | \[3\] |
+| [名古屋市](../Page/名古屋市.md "wikilink") | [にっぽんど真ん中祭り](https://zh.wikipedia.org/wiki/にっぽんど真ん中祭り "wikilink")         | 197隊  | 23,000 | 185     | 3日   | 1999年 | \[4\] |
+| [高知市](../Page/高知市.md "wikilink")   | [よさこい祭り](https://zh.wikipedia.org/wiki/よさこい祭り "wikilink")                 | 170隊  | 19,000 |         | 4日   | 1954年 | \[5\] |
 
 ## 與外地交流
 
-日本YOSAKOI隊伍**主要以北海道札幌YOSAKOI索朗祭及三重縣安濃津YOSAKOI**經常來[台灣參加](../Page/台灣.md "wikilink")[臺灣燈會白天之踩接活動](../Page/臺灣燈會.md "wikilink")（2003年－），台灣學校也組過許多隊伍到[日本YOSAKOI相關祭典表演](../Page/日本.md "wikilink")。
+日本YOSAKOI隊伍**主要以北海道札幌YOSAKOI索朗祭及三重縣安濃津YOSAKOI**經常來[台灣參加](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺灣燈會白天之踩接活動](https://zh.wikipedia.org/wiki/臺灣燈會 "wikilink")（2003年－），台灣學校也組過許多隊伍到[日本YOSAKOI相關祭典表演](../Page/日本.md "wikilink")。
 
 ### 台灣團體至日本表演
 
 [2009Taiwan_Lantern_Festival_Taiwan1.jpg](https://zh.wikipedia.org/wiki/File:2009Taiwan_Lantern_Festival_Taiwan1.jpg "fig:2009Taiwan_Lantern_Festival_Taiwan1.jpg")
 
-  - 2004年——[文化大學結合中國戲劇](../Page/文化大學.md "wikilink")、國術及舞蹈三系組成「台湾・新桃花源隊」共64名舞者，參加第13屆北海道YOSAKOI索朗祭，為臺灣初次參加YOSAKOI索朗祭，並進入最後決選(總數330個隊伍中選出15個隊伍)獲得最後舞台演出機會，獲得「審査員特別賞」，隊伍精彩表現獲[讀賣新聞](../Page/讀賣新聞.md "wikilink")、[北海道新聞及第十三屆札榥街舞祭大幅報導](../Page/北海道新聞.md "wikilink")。\[6\]
+  - 2004年——[文化大學結合中國戲劇](https://zh.wikipedia.org/wiki/文化大學 "wikilink")、國術及舞蹈三系組成「台湾・新桃花源隊」共64名舞者，參加第13屆北海道YOSAKOI索朗祭，為臺灣初次參加YOSAKOI索朗祭，並進入最後決選(總數330個隊伍中選出15個隊伍)獲得最後舞台演出機會，獲得「審査員特別賞」，隊伍精彩表現獲[讀賣新聞](../Page/讀賣新聞.md "wikilink")、[北海道新聞及第十三屆札榥街舞祭大幅報導](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")。\[6\]
     \[7\]\[8\]
-  - 2005年——[文化大學組成](../Page/文化大學.md "wikilink")「台湾・Naruwan隊」及「台湾獅子舞」參加第14屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，舞蹈結合原住民傳統舞蹈、金鷹拳和羅漢拳與雙節棍與飄扇等動靜態為主題。\[9\]
-  - 2006年——[中國科技大學組成](../Page/中國科技大學_\(台灣\).md "wikilink")「臺灣燈會隊(台湾ランタン祭り隊)」，參加第15屆北海道YOSAKOI索朗祭，表演以原住民舞蹈為意象創作。\[10\]
-  - 2007年——[臺北市立體育學院組成](../Page/臺北市立體育學院.md "wikilink")「台湾四季紅隊」隊參加第16屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，以臺灣歌謠四季紅為音樂。\[11\]
-  - 2008年——[臺北市立體育學院組成](../Page/臺北市立體育學院.md "wikilink")「台湾尚青」隊參加第17屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，舞蹈以功夫為主題，音樂使用霍元甲與練舞功，配合上連續空翻動作獲得好評。\[12\]
-  - 2008年——高雄市[中華藝術學校組成](../Page/中華藝術學校.md "wikilink")「台湾最夯」對參加2008年安濃津Yosakoi共52名舞者，為臺灣首次參加該祭典，音樂以臺灣民謠『丟丟銅』、『草螟弄雞公』、『桃花過渡』編曲，舞蹈結合美濃紙傘及客家舞蹈。\[13\]
-  - 2009年——[臺北市立體育學院組成](../Page/臺北市立體育學院.md "wikilink")「WISH TO SEE YOU
-    IN TAIWAN」隊參加第18屆北海道YOSAKOI索朗祭，以布袋戲為主題。
+  - 2005年——[文化大學組成](https://zh.wikipedia.org/wiki/文化大學 "wikilink")「台湾・Naruwan隊」及「台湾獅子舞」參加第14屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，舞蹈結合原住民傳統舞蹈、金鷹拳和羅漢拳與雙節棍與飄扇等動靜態為主題。\[9\]
+  - 2006年——[中國科技大學組成](https://zh.wikipedia.org/wiki/中國科技大學_\(台灣\) "wikilink")「臺灣燈會隊(台湾ランタン祭り隊)」，參加第15屆北海道YOSAKOI索朗祭，表演以原住民舞蹈為意象創作。\[10\]
+  - 2007年——[臺北市立體育學院組成](https://zh.wikipedia.org/wiki/臺北市立體育學院 "wikilink")「台湾四季紅隊」隊參加第16屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，以臺灣歌謠四季紅為音樂。\[11\]
+  - 2008年——[臺北市立體育學院組成](https://zh.wikipedia.org/wiki/臺北市立體育學院 "wikilink")「台湾尚青」隊參加第17屆北海道YOSAKOI索朗祭，並獲得「獎勵賞」，舞蹈以功夫為主題，音樂使用霍元甲與練舞功，配合上連續空翻動作獲得好評。\[12\]
+  - 2008年——高雄市[中華藝術學校組成](https://zh.wikipedia.org/wiki/中華藝術學校 "wikilink")「台湾最夯」對參加2008年安濃津Yosakoi共52名舞者，為臺灣首次參加該祭典，音樂以臺灣民謠『丟丟銅』、『草螟弄雞公』、『桃花過渡』編曲，舞蹈結合美濃紙傘及客家舞蹈。\[13\]
+  - 2009年——[臺北市立體育學院組成](https://zh.wikipedia.org/wiki/臺北市立體育學院 "wikilink")「WISH
+    TO SEE YOU IN TAIWAN」隊參加第18屆北海道YOSAKOI索朗祭，以布袋戲為主題。
 
 ### 日本團體至台灣燈會表演
 

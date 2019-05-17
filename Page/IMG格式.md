@@ -2,7 +2,7 @@
 image），它可以用來壓縮整個磁碟（通常指軟磁碟，Floppy
 Disk或Diskette）或整片光碟的內容，使用".IMG"這個[副檔名的檔案就是利用這種檔案格式來建立的](../Page/文件扩展名.md "wikilink")。
 
-.IMG這個檔案格式可視為[.ISO格式的一種](../Page/ISO_9000.md "wikilink")[超集合](../Page/超集合.md "wikilink")。由於.ISO-{只}-能壓縮使用[ISO9660和](../Page/ISO9660.md "wikilink")[UDF這兩種](../Page/UDF.md "wikilink")[檔案系統的儲存媒介](../Page/檔案系統.md "wikilink")，意即.ISO-{只}-能拿來壓縮[CD或](../Page/CD.md "wikilink")[DVD](../Page/DVD.md "wikilink")，因此才發展出了.IMG，它是以.ISO格式為基礎另外新增可壓縮使用其它檔案系統的儲存媒介的能力，.IMG可[向後相容於](../Page/向後相容.md "wikilink").ISO，如果是拿來壓縮CD或DVD，則使用.IMG和.ISO這兩種格式所壓縮出來的內容是一樣的。
+.IMG這個檔案格式可視為[.ISO格式的一種](../Page/ISO_9000.md "wikilink")[超集合](https://zh.wikipedia.org/wiki/超集合 "wikilink")。由於.ISO-{只}-能壓縮使用[ISO9660和](https://zh.wikipedia.org/wiki/ISO9660 "wikilink")[UDF這兩種](https://zh.wikipedia.org/wiki/UDF "wikilink")[檔案系統的儲存媒介](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，意即.ISO-{只}-能拿來壓縮[CD或](../Page/CD.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，因此才發展出了.IMG，它是以.ISO格式為基礎另外新增可壓縮使用其它檔案系統的儲存媒介的能力，.IMG可[向後相容於](https://zh.wikipedia.org/wiki/向後相容 "wikilink").ISO，如果是拿來壓縮CD或DVD，則使用.IMG和.ISO這兩種格式所壓縮出來的內容是一樣的。
 
 不要將這個檔案格式誤認為是*麥金塔磁碟映像檔*（Macintosh Disk Image），麥金塔磁碟映像檔是由Aladdin
 Systems（現在稱為Allume Systems）ShrinkWrap與Apple Disk Copy for Mac
@@ -25,7 +25,7 @@ CD），但是以後的版本都把它列入IMA的檔案格式。
 
 它是第一個最常使用也是最流行在HDCopy與DiskDupe這兩個DOS工具軟體的檔案格式。
 
-較知名的Windows下可創建、編輯IMG檔案的軟體是[WinImage](../Page/WinImage.md "wikilink")。
+較知名的Windows下可創建、編輯IMG檔案的軟體是[WinImage](https://zh.wikipedia.org/wiki/WinImage "wikilink")。
 
 ## 用途
 

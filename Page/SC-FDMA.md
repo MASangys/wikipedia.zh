@@ -1,7 +1,7 @@
 **SC-FDMA**（Single-carrier Frequency-Division Multiple
-Access，单载波[频分多址](../Page/频分多址.md "wikilink")），是[LTE的上行链路的主流多址技术](../Page/LTE.md "wikilink")\[1\]\[2\]\[3\]。因为SC-FDMA在传统的OFDMA处理过程之前有一个额外的DFT（离散傅立叶变换）处理，SC-FDMA也被叫做线性预编码[OFDMA技术](../Page/OFDMA.md "wikilink")。
+Access，单载波[频分多址](https://zh.wikipedia.org/wiki/频分多址 "wikilink")），是[LTE的上行链路的主流多址技术](https://zh.wikipedia.org/wiki/LTE "wikilink")\[1\]\[2\]\[3\]。因为SC-FDMA在传统的OFDMA处理过程之前有一个额外的DFT（离散傅立叶变换）处理，SC-FDMA也被叫做线性预编码[OFDMA技术](https://zh.wikipedia.org/wiki/OFDMA "wikilink")。
 
-相比OFDMA，SC-FDMAOFDMA的[PAPR](../Page/PAPR.md "wikilink")（峰值/平均功率比，peak-to-average
+相比OFDMA，SC-FDMAOFDMA的[PAPR](https://zh.wikipedia.org/wiki/PAPR "wikilink")（峰值/平均功率比，peak-to-average
 power ratio）比较低，可以提高移动终端的功率发射效率，延长电池的使用时间，降低终端成本。
 
 ## Transmitter and Receiver Structure of LP-OFDMA/SC-FDMA
@@ -30,7 +30,7 @@ CP长度为5.2µs，后面6个符号之前的CP长度为4.69µs；如果是扩�
 
 ## 參見
 
-  - [OFDMA](../Page/OFDMA.md "wikilink")
+  - [OFDMA](https://zh.wikipedia.org/wiki/OFDMA "wikilink")
 
 ## 参考资料
 

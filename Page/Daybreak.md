@@ -12,7 +12,8 @@ Easy](../Page/Free_&_Easy.md "wikilink")》至第50張單曲《[L](../Page/L_\(�
 
 全曲作詞：濱崎步
 
-1.  **Daybreak "[HΛL](../Page/HΛL.md "wikilink")'s Mix 2002"**
+1.  **Daybreak "[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")'s
+    Mix 2002"**
       -
         作曲：[CREA](../Page/CREA.md "wikilink") +
         [D・A・I](../Page/長尾大.md "wikilink") + 松田純一

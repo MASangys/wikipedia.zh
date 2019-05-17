@@ -1,9 +1,10 @@
-《**Neverball**》是一个[3D](../Page/3D.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，模式类似于《[超级猴子球](../Page/超级猴子球.md "wikilink")》。
-[Windows](../Page/Microsoft_Windows.md "wikilink") 2000/XP、[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega
-Dreamcast以及](../Page/Sega_Dreamcast.md "wikilink")[iPhone都可以看到它的影子](../Page/iPhone.md "wikilink")。《Neverball》是[自由软件授权协议为](../Page/自由软件.md "wikilink")[GNU
+《**Neverball**》是一个[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，模式类似于《[超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")》。
+[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+2000/XP、[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega
+Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件授权协议为](../Page/自由软件.md "wikilink")[GNU
 General Public
-License](../Page/GNU_General_Public_License.md "wikilink")
+License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ## 游戏基本
 
@@ -22,7 +23,7 @@ License](../Page/GNU_General_Public_License.md "wikilink")
 
 ### 关卡设置
 
-《Neverball》可以用[GtkRadiant创建关卡](../Page/GtkRadiant.md "wikilink")，就像[雷神之锤系列游戏一样](../Page/雷神之锤.md "wikilink")。
+《Neverball》可以用[GtkRadiant创建关卡](../Page/GtkRadiant.md "wikilink")，就像[雷神之锤系列游戏一样](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")。
 1.5.0版本中有6套关卡，还有额外关卡下载[Neverforum](http://www.nevercorner.net/forum/)。
 《Neverball》也可以进行时间挑战之类的额外游戏方式。
 
@@ -37,7 +38,7 @@ License](../Page/GNU_General_Public_License.md "wikilink")
 [Neverball_-_Putt.jpg](https://zh.wikipedia.org/wiki/File:Neverball_-_Putt.jpg "fig:Neverball_-_Putt.jpg")
 [Neverputt.png](https://zh.wikipedia.org/wiki/File:Neverputt.png "fig:Neverputt.png")
 《Neverball》
-附带[迷你高尔夫游戏](../Page/迷你高尔夫.md "wikilink")《Neverputt》，使用完全一样的物理和图像引擎。
+附带[迷你高尔夫游戏](https://zh.wikipedia.org/wiki/迷你高尔夫 "wikilink")《Neverputt》，使用完全一样的物理和图像引擎。
 《Neverball》 1.4.0之后不再能玩《Neverputt》关卡。
 
 ## 外部链接
@@ -48,8 +49,8 @@ License](../Page/GNU_General_Public_License.md "wikilink")
 
 ## 其他
 
-  - [超级猴子球](../Page/超级猴子球.md "wikilink")
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 [Category:开源游戏](https://zh.wikipedia.org/wiki/Category:开源游戏 "wikilink")
 [Category:动作游戏](https://zh.wikipedia.org/wiki/Category:动作游戏 "wikilink")

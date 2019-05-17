@@ -1,5 +1,5 @@
 『**藤澤loser**』（）是[ASIAN KUNG-FU
-GENERATION在](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")2008年10月15日發售的第12張主要[單曲](../Page/單曲.md "wikilink")。
+GENERATION在](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")2008年10月15日發售的第12張主要[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 

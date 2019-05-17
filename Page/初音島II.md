@@ -1,4 +1,4 @@
-《**初音島II**》（，簡稱D.C.II）是由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](../Page/CIRCUS_\(遊戲品牌\).md "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》的續作。《初音島II》的首個遊戲版本為電腦版[成人遊戲](../Page/成人遊戲.md "wikilink")，於2006年5月26日推出。並[多媒體發展而有漫畫](../Page/跨媒體製作.md "wikilink")、小說、動畫和家用遊戲機版等多種版本。
+《**初音島II**》（，簡稱D.C.II）是由[日本](../Page/日本.md "wikilink")[美少女遊戲品牌](../Page/美少女遊戲.md "wikilink")[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》的續作。《初音島II》的首個遊戲版本為電腦版[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，於2006年5月26日推出。並[多媒體發展而有漫畫](../Page/跨媒體製作.md "wikilink")、小說、動畫和家用遊戲機版等多種版本。
 
 ## 歴史
 
@@ -78,7 +78,7 @@
 
 從前作繼承的午休與放學後移動、睡前設定鬧鐘等系統依然健在，並有少許改良：移動時哪個地點有哪個女主角在能一目瞭然、設定鬧鐘時能聽廣播「明日鬧鐘預報」來預測明天上學會碰到誰，系統比前作更簡單好用。畫面表現上也強化，立繪能表現出角色的遠近和動作。
 
-故事的風格繼承前作，到第二部分氣氛都比較正面愉快，第三部分轉入嚴肅的部分，故事越接近核心就越讓玩家感到故事角色的沉重與悲傷。被歸類為「[泣系遊戲](../Page/泣系遊戲.md "wikilink")」。
+故事的風格繼承前作，到第二部分氣氛都比較正面愉快，第三部分轉入嚴肅的部分，故事越接近核心就越讓玩家感到故事角色的沉重與悲傷。被歸類為「[泣系遊戲](https://zh.wikipedia.org/wiki/泣系遊戲 "wikilink")」。
 
 續作為同公司製作，2012年4月27日發售的《[初音島III](../Page/初音島III.md "wikilink")》。
 
@@ -92,11 +92,11 @@
 所有登場人物的配音員均以電腦遊戲版／動畫版／PS2遊戲版的順序排列（顯示為「-」的是指沒有登場），部分中文譯名是非官方譯名
 
   -
-    配音員：[皇帝](../Page/皇帝_\(配音員\).md "wikilink")（部分）、[三咲里奈](../Page/三咲里奈.md "wikilink")（幼年時）／[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")（幼年時）／同左
+    配音員：[皇帝](https://zh.wikipedia.org/wiki/皇帝_\(配音員\) "wikilink")（部分）、[三咲里奈](https://zh.wikipedia.org/wiki/三咲里奈 "wikilink")（幼年時）／[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")（幼年時）／同左
     風見學園附屬中學三年三班的學生。雖然監護人是身為風見學園校長的**芳乃櫻**，但因為櫻太忙碌而從小就寄住在隔壁的朝倉家，與朝倉姊妹有如親兄弟姊妹般一起長大。直到升上附屬中學三年級前才在朝倉純一的建議下搬回芳乃家居住。
     個性喜歡熱鬧加上又健談，周圍和他親近的女性多到會被板橋涉虧是「中產階級的傢伙\[1\]」（）的程度。但對戀愛的事非常遲鈍，至今尚未有戀愛的經驗。由於長的帥、個性好再加上有時會在無意識下說出些讓女生心猿意馬的話，故雖然本人完全沒有自覺，但在《D.C.II
     S.C.》和《D.C.II
-    F.L.》中指出已有學妹成為其[支持者](../Page/愛好者.md "wikilink")。附屬中學二年級時，被認定是在聖誕派對後夜祭\[2\]上發生的「血染的聖夜」事件的主犯，成為學生會黑名單上列為Ａ級，和涉與杉並齊名的需要注意人物。但自從朝倉音姬成為學生會長之後，因為不想給她帶來麻煩，行為明顯收斂了。
+    F.L.》中指出已有學妹成為其[支持者](https://zh.wikipedia.org/wiki/愛好者 "wikilink")。附屬中學二年級時，被認定是在聖誕派對後夜祭\[2\]上發生的「血染的聖夜」事件的主犯，成為學生會黑名單上列為Ａ級，和涉與杉並齊名的需要注意人物。但自從朝倉音姬成為學生會長之後，因為不想給她帶來麻煩，行為明顯收斂了。
     與[第一代作品的主人翁朝倉純一相同](../Page/初音島.md "wikilink")，擁有從手中變出[和菓子和看見別人的夢的能力](../Page/和菓子.md "wikilink")。
     特技是彈吉他，雖然是自學但技術相當不錯，在小戀、奈奈佳故事路線會成為樂團的吉他手。滑雪高手且擅長煮飯，艾莉卡將他煮的咖哩評為：「皇家御廚也煮不出這種味道」，但不擅長唸書。
     在D.C.II Dearest Marriage中，毕业后与“朝倉 音姬”交往后不久结婚，生有一女“樱内樱姬”。
@@ -111,7 +111,7 @@
   -
     因為處事冷靜、待人公平公正而受全校男女學生歡迎，但感情非常豐富，遇到感人的事情就會落淚。不論場合，音姬都親暱地以「弟弟（）」來稱呼義之。雖然義之曾經想制止，但每次音姬都會淚眼汪汪的抬頭看著他（義之稱為「真的不能說『弟弟』嗎？」光線），結果連義之自己也不再制止。
     非常討厭情色話題，甚至會叱罵「色情的事情是不可以的！」並加上一小時的說教。義之藏著的色情書刊若被音姬發現也會被全數燒毀。雖然如此，但自己常常對義之做出過份親暱的身體接觸行為卻沒有自覺（這點讓由夢非常在意）。
-    自稱「正義的魔法使」，從母親繼承了魔法使的身分和力量。除了與義之和純一一樣，能徒手變出和菓子外，甚至還能變出[洋菓子](../Page/西餅.md "wikilink")。非常怕鬼，連對自己正在講的鬼故事也嚇到發出悲鳴。非常擅長烹飪，常常與義之一起做飯。受櫻影響，喜歡看時代劇。
+    自稱「正義的魔法使」，從母親繼承了魔法使的身分和力量。除了與義之和純一一樣，能徒手變出和菓子外，甚至還能變出[洋菓子](https://zh.wikipedia.org/wiki/西餅 "wikilink")。非常怕鬼，連對自己正在講的鬼故事也嚇到發出悲鳴。非常擅長烹飪，常常與義之一起做飯。受櫻影響，喜歡看時代劇。
     平常的穿著以連身洋裝或是長裙為主。
     在D.C.II Dearest Marriage中，毕业后与“櫻內 義之”交往后不久结婚，生有一女“樱内樱姬”。
 
@@ -149,24 +149,24 @@
 風見學園附屬中學三年三班學生，與義之同班的青梅竹馬，對義之有好感。在班上常和雪村杏與花咲茜在一起，被戲稱為「雪、月、花」三人組。在輕音樂社擔任貝斯手，是把義之暫時拉入輕音樂社的元兇。不坦率、有點膽小，對於義之太過幫助其他女性非常煩惱。因為不善於表達自己的意見，所以跟義之的關係一直原地踏步。
 
   -
-    配音員：[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")／[岡嶋妙](../Page/岡嶋妙.md "wikilink")／同左
+    配音員：[遠野そよぎ](https://zh.wikipedia.org/wiki/遠野そよぎ "wikilink")／[岡嶋妙](../Page/岡嶋妙.md "wikilink")／同左
 
 風見學園附屬中學三年三班學生，與義之同班。身材嬌小，表情變化不多，不講話時簡直像個娃娃。但其實講話很毒，常常口頭上性騷擾人。很喜歡戲弄小戀但支持著小戀的戀情。家中成員只有自己和奶奶，奶奶死後變成獨居。故事中經常與茜一起行動。使用自稱為「雪村流暗記術」的技巧而記性非常的好，只要認為有趣的事就會想去做。另外，家雖然有書架，但架上卻幾乎沒有擺書，因為杏同一本書根本不需要再看第二次。
 
 ### 自D.C.II P.S.起可攻略人物
 
   -
-    配音員：[牧泉美](../Page/牧泉美.md "wikilink")／[柳瀨洋美](../Page/柳瀨洋美.md "wikilink")／同左
+    配音員：[牧泉美](../Page/牧泉美.md "wikilink")／[柳瀨洋美](https://zh.wikipedia.org/wiki/柳瀨洋美 "wikilink")／同左
 
 風見學園附屬中學三年三班學生，經常與杏行動的好友，也很鼓勵小戀與義之交往，做事上比較隨意，沒有主見，不過卻有著可怕的胸力。
 
   -
-    配音員：-{[七星友里子](../Page/七星友里子.md "wikilink")}-／[水橋香織](../Page/水橋香織.md "wikilink")／同左
+    配音員：-{[七星友里子](https://zh.wikipedia.org/wiki/七星友里子 "wikilink")}-／[水橋香織](../Page/水橋香織.md "wikilink")／同左
 
 風見學園附屬中學三年三班班長，成績優秀。有一個叫勇斗的弟弟。
 
   -
-    配音員：-{[三咲里奈](../Page/三咲里奈.md "wikilink")}-／[伊藤靜](../Page/伊藤靜.md "wikilink")／同左
+    配音員：-{[三咲里奈](https://zh.wikipedia.org/wiki/三咲里奈 "wikilink")}-／[伊藤靜](../Page/伊藤靜.md "wikilink")／同左
 
 風見學園本校二年三班，學生會副會長。音姫的好友，除了音姬以外唯一稱呼義之為「弟弟」的人。
 
@@ -177,7 +177,7 @@
 <!-- end list -->
 
   -
-    配音員：[石川佳子](../Page/石川佳子.md "wikilink")／-／[釘宮理惠](../Page/釘宮理惠.md "wikilink")
+    配音員：[石川佳子](https://zh.wikipedia.org/wiki/石川佳子 "wikilink")／-／[釘宮理惠](../Page/釘宮理惠.md "wikilink")
 
 風見學園付屬一年級生，《D.C.II
 P.S.》新增角色之一，是來自歐洲某國的公主，轉入風見學園後便開始在學生會中幫忙。頭腦很好，在滑雪方面是個新手，與義之第一次見面時因為意外的襲胸事件便非常討厭義之，直到聖誕節後才開始對義之有好感。
@@ -188,7 +188,7 @@ P.S.》新增角色之一，是來自歐洲某國的公主，轉入風見學園�
 <!-- end list -->
 
   -
-    配音員：[櫻千歲](../Page/櫻千歲.md "wikilink")／[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")／同左
+    配音員：[櫻千歲](https://zh.wikipedia.org/wiki/櫻千歲 "wikilink")／[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")／同左
 
 《D.C.II
 P.S.》新增角色之一，與第一代動畫版作品《D.C.S.S》的艾西亞是同一人物。對難懂的事情和遊樂園裡過於刺激的遊樂設施非常苦手，不過卻常常逞強否認這件事。來到初音島之前一直在世界各地旅行著，來初音島後在商店街擺地攤賣自己用魔法變出來的「手工」玩具，不過生意並不太好。在一次偶然的機會遇到了義之，與義之關係變得很好並慢慢的被他所吸引。
@@ -216,13 +216,13 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 ### 其他
 
   -
-    配音員：[空野太陽](../Page/空野太陽.md "wikilink")／[岸尾大輔](../Page/岸尾大輔.md "wikilink")／同左
+    配音員：[空野太陽](https://zh.wikipedia.org/wiki/空野太陽 "wikilink")／[岸尾大輔](../Page/岸尾大輔.md "wikilink")／同左
     風見學園附屬中學三年三班學生，為義之的好友，平常喜歡出亂點子，經常對義之提供奇怪的東西，對於學校慶典非常重視，總是會提出驚人的主意（不過都是不太正常的點子）。與第一代作品的杉並有著迷一般的關係。
 
 <!-- end list -->
 
   -
-    配音員：[萬栗太郎](../Page/萬栗太郎.md "wikilink")／[山口勝平](../Page/山口勝平.md "wikilink")／同左
+    配音員：[萬栗太郎](https://zh.wikipedia.org/wiki/萬栗太郎 "wikilink")／[山口勝平](../Page/山口勝平.md "wikilink")／同左
     風見學園附屬中學三年三班學生，為義之的好友，輕音樂社的社員，鼓手，一直在找尋可以交往的女孩子，但是某些關係，所以目前還是零經驗值，後來對小戀產生好感。杉並提出的點子他都會贊成，也算是隨便的人。
 
 <!-- end list -->
@@ -248,41 +248,42 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 ### D.C.II
 
   - 總OP・第三部OP「」
-      - 作詞・作曲：[tororo](../Page/tororo.md "wikilink")、編曲：[Angel
-        Note](../Page/Angel_Note.md "wikilink")、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
-  - 總ED「[Spring has come](../Page/ダ・カーポII_〜あさきゆめみし君と〜.md "wikilink")」
-      - 作詞・作曲：rino、編曲：[大久保薰](../Page/大久保薰.md "wikilink")、歌：[rino](../Page/rino.md "wikilink")
+      - 作詞・作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel
+        Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
+  - 總ED「[Spring has
+    come](https://zh.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜 "wikilink")」
+      - 作詞・作曲：rino、編曲：[大久保薰](../Page/大久保薰.md "wikilink")、歌：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")
   - 第一部OP and 插曲「beautiful flower」
-      - 作詞・作曲・編曲：宇佐美宏、歌：[美郷あき](../Page/美郷あき.md "wikilink")
+      - 作詞・作曲・編曲：宇佐美宏、歌：[美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
   - 第二部OP「Especially」
-      - 作詞：くみはし佑、作曲・編曲：宇佐美宏、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
+      - 作詞：くみはし佑、作曲・編曲：宇佐美宏、歌：[橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")
   - 插曲「Time will shine」
-      - 作詞：原口知己、作曲・編曲：稻田昌宏、歌：[Alchemy+](../Page/Alchemy+.md "wikilink")
+      - 作詞：原口知己、作曲・編曲：稻田昌宏、歌：[Alchemy+](https://zh.wikipedia.org/wiki/Alchemy+ "wikilink")
   - 奈奈佳ED・插曲「」
       - 作詞・作曲：BABY
-        FACE、編曲：鈴木マサキ、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+        FACE、編曲：鈴木マサキ、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
   - 杏・小恋線ED and 先行版ED曲「Little Distance」
-      - 作詞：RUCCA、作曲：中野慎也、編曲：稻田昌宏（[Alchemy+](../Page/Alchemy+.md "wikilink")）、歌：[桃田佳世子](../Page/桃田佳世子.md "wikilink")
+      - 作詞：RUCCA、作曲：中野慎也、編曲：稻田昌宏（[Alchemy+](https://zh.wikipedia.org/wiki/Alchemy+ "wikilink")）、歌：[桃田佳世子](https://zh.wikipedia.org/wiki/桃田佳世子 "wikilink")
   - 音姫・由夢ED「If... 〜I wish〜」
-      - 作詞：RUCCA、作曲・編曲：宇佐美宏、歌：[美郷あき](../Page/美郷あき.md "wikilink")
+      - 作詞：RUCCA、作曲・編曲：宇佐美宏、歌：[美郷あき](https://zh.wikipedia.org/wiki/美郷あき "wikilink")
   - 美夏ED「」
       - 歌：風見学園一同
-        [ひなき藍](../Page/ひなき藍.md "wikilink")、[きのみ聖](../Page/きのみ聖.md "wikilink")、[立花あや](../Page/立花あや.md "wikilink")、[野中みゅう](../Page/野中みゅう.md "wikilink")、[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")、[かがみありす](../Page/かがみありす.md "wikilink")、[まきいづみ](../Page/まきいづみ.md "wikilink")、[七星友里子](../Page/七星友里子.md "wikilink")、[三咲里奈](../Page/三咲里奈.md "wikilink")、[柚木あずさ](../Page/柚木あずさ.md "wikilink")、[宮代ゆず](../Page/宮代ゆず.md "wikilink")、[北都南](../Page/北都南.md "wikilink")、[空野太陽](../Page/空野太陽.md "wikilink")、[万栗太郎](../Page/万栗太郎.md "wikilink")、[皇帝](../Page/皇帝_\(声優\).md "wikilink")、[ヘルシー太郎](../Page/ヘルシー太郎.md "wikilink")、komoken、卒園者A、一魅、タカP
+        [ひなき藍](https://zh.wikipedia.org/wiki/ひなき藍 "wikilink")、[きのみ聖](https://zh.wikipedia.org/wiki/きのみ聖 "wikilink")、[立花あや](https://zh.wikipedia.org/wiki/立花あや "wikilink")、[野中みゅう](https://zh.wikipedia.org/wiki/野中みゅう "wikilink")、[遠野そよぎ](https://zh.wikipedia.org/wiki/遠野そよぎ "wikilink")、[かがみありす](https://zh.wikipedia.org/wiki/かがみありす "wikilink")、[まきいづみ](https://zh.wikipedia.org/wiki/まきいづみ "wikilink")、[七星友里子](https://zh.wikipedia.org/wiki/七星友里子 "wikilink")、[三咲里奈](https://zh.wikipedia.org/wiki/三咲里奈 "wikilink")、[柚木あずさ](https://zh.wikipedia.org/wiki/柚木あずさ "wikilink")、[宮代ゆず](https://zh.wikipedia.org/wiki/宮代ゆず "wikilink")、[北都南](../Page/北都南.md "wikilink")、[空野太陽](https://zh.wikipedia.org/wiki/空野太陽 "wikilink")、[万栗太郎](https://zh.wikipedia.org/wiki/万栗太郎 "wikilink")、[皇帝](https://zh.wikipedia.org/wiki/皇帝_\(声優\) "wikilink")、[ヘルシー太郎](https://zh.wikipedia.org/wiki/ヘルシー太郎 "wikilink")、komoken、卒園者A、一魅、タカP
 
 ### D.C.II PS追加歌曲
 
   - 美夏線ED「（D.C.II PS版）」
       - 歌：風見学園
-        [高垣彩陽](../Page/高垣彩陽.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[青木沙耶香](../Page/青木沙耶香.md "wikilink")、[岡嶋妙](../Page/岡嶋妙.md "wikilink")、[柳瀨洋美](../Page/柳瀨洋美.md "wikilink")、[水橋香織](../Page/水橋香織.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[廣橋涼](../Page/廣橋涼.md "wikilink")、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")、[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[岸尾大輔](../Page/岸尾大輔.md "wikilink")、[山口勝平](../Page/山口勝平.md "wikilink")、[淺川悠](../Page/淺川悠.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")、[田村由香里](../Page/田村由香里.md "wikilink")、[長](../Page/長_\(日本配音員\).md "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[羽多野涉](../Page/羽多野涉.md "wikilink")、[折笠富美子](../Page/折笠富美子.md "wikilink")
+        [高垣彩陽](../Page/高垣彩陽.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")、[南條愛乃](../Page/南條愛乃.md "wikilink")、[茅原實里](../Page/茅原實里.md "wikilink")、[青木沙耶香](../Page/青木沙耶香.md "wikilink")、[岡嶋妙](../Page/岡嶋妙.md "wikilink")、[柳瀨洋美](https://zh.wikipedia.org/wiki/柳瀨洋美 "wikilink")、[水橋香織](../Page/水橋香織.md "wikilink")、[伊藤靜](../Page/伊藤靜.md "wikilink")、[釘宮理惠](../Page/釘宮理惠.md "wikilink")、[廣橋涼](../Page/廣橋涼.md "wikilink")、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")、[淺沼晉太郎](../Page/淺沼晉太郎.md "wikilink")、[岸尾大輔](../Page/岸尾大輔.md "wikilink")、[山口勝平](../Page/山口勝平.md "wikilink")、[淺川悠](../Page/淺川悠.md "wikilink")、[下田麻美](../Page/下田麻美.md "wikilink")、[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎_\(声優\) "wikilink")、[田村由香里](../Page/田村由香里.md "wikilink")、[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")、[今井麻美](../Page/今井麻美.md "wikilink")、[羽多野涉](../Page/羽多野涉.md "wikilink")、[折笠富美子](../Page/折笠富美子.md "wikilink")
   - 茜、麻耶線ED「1sec.」
-      - 作詞：[ゆうまお](../Page/ゆうまお.md "wikilink")、作曲・編曲：[太田雅友](../Page/太田雅友.md "wikilink")
-        歌：[瀬名](../Page/瀬名_\(シンガーソングライター\).md "wikilink")
+      - 作詞：[ゆうまお](https://zh.wikipedia.org/wiki/ゆうまお "wikilink")、作曲・編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+        歌：[瀬名](https://zh.wikipedia.org/wiki/瀬名_\(シンガーソングライター\) "wikilink")
   - 真由紀、艾莉卡線ED「」
-      - 作詞・作曲：rino、編曲：[安藤聖](../Page/安藤聖.md "wikilink")、歌：rino
+      - 作詞・作曲：rino、編曲：[安藤聖](https://zh.wikipedia.org/wiki/安藤聖 "wikilink")、歌：rino
   - 真昼、艾西亞線ED「」
       - 作詞：ゆうまお、作曲：津上潤也、編曲：大久保薰、歌：美郷あき
   - 插曲「Cloudy」
-      - 作詞：rino、作曲・編曲：[末廣健一郎](../Page/末廣健一郎.md "wikilink")、歌：yozuca\*
+      - 作詞：rino、作曲・編曲：[末廣健一郎](https://zh.wikipedia.org/wiki/末廣健一郎 "wikilink")、歌：yozuca\*
   - 插曲「」
       - 作詞・作曲：rino、編曲：虹音、歌：橋本みゆき
 
@@ -297,7 +298,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <!-- end list -->
 
   -
-    作詞、作曲：[tororo](../Page/tororo.md "wikilink")；編曲：[黑須克彥](../Page/黑須克彥.md "wikilink")；歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+    作詞、作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")；編曲：[黑須克彥](https://zh.wikipedia.org/wiki/黑須克彥 "wikilink")；歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
 
 <!-- end list -->
 
@@ -306,7 +307,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <!-- end list -->
 
   -
-    作詞、作曲：[rino](../Page/rino.md "wikilink")；編曲：[大久保薰](../Page/大久保薰.md "wikilink")；歌：[CooRie](../Page/CooRie.md "wikilink")
+    作詞、作曲：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")；編曲：[大久保薰](../Page/大久保薰.md "wikilink")；歌：[CooRie](../Page/CooRie.md "wikilink")
 
 <!-- end list -->
 
@@ -363,8 +364,8 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <td><p>1</p></td>
 <td><p>小小的戀愛季節<br />
 （）</p></td>
-<td><p><a href="../Page/鈴木雅詞.md" title="wikilink">鈴木雅詞</a></p></td>
-<td><p><a href="../Page/遠藤徹哉.md" title="wikilink">遠藤徹哉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木雅詞" title="wikilink">鈴木雅詞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遠藤徹哉" title="wikilink">遠藤徹哉</a></p></td>
 <td><p>丸山隆</p></td>
 <td><p>島澤範子</p></td>
 <td></td>
@@ -373,7 +374,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <td><p>2</p></td>
 <td><p>香蕉與人類<br />
 （）</p></td>
-<td><p><a href="../Page/長谷川勝己.md" title="wikilink">長谷川勝己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長谷川勝己" title="wikilink">長谷川勝己</a></p></td>
 <td><p>遠藤徹哉</p></td>
 <td><p>鈴野貴一</p></td>
 <td><p>渡邊奈月</p></td>
@@ -384,7 +385,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <td><p>3</p></td>
 <td><p>FIRST LESSON<br />
 （）</p></td>
-<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
 <td><p><a href="../Page/島崎奈奈子.md" title="wikilink">佐佐木奈奈子</a></p></td>
 <td><p>堀川直哉</p></td>
 <td><p>島澤範子、枡田邦彰<br />
@@ -396,7 +397,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <td><p>在秋天的風中<br />
 （）</p></td>
 <td><p>鈴木雅詞</p></td>
-<td><p><a href="../Page/松井仁之.md" title="wikilink">松井仁之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松井仁之" title="wikilink">松井仁之</a></p></td>
 <td><p>守田藝成</p></td>
 <td><p>鶴池一馬</p></td>
 <td></td>
@@ -429,7 +430,7 @@ P.S.》新增角色之一，因為常常用不知所云且冗長的例子，所�
 <td><p>突來的風雨<br />
 （）</p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
-<td><p><a href="../Page/名和宗則.md" title="wikilink">名和宗則</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名和宗則" title="wikilink">名和宗則</a></p></td>
 <td><p>丸山隆</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -559,7 +560,7 @@ Shln Jgglck</p></td>
 <!-- end list -->
 
   -
-    作詞・作曲：rino、編曲：[安藤聖](../Page/安藤聖.md "wikilink")、歌：CooRie
+    作詞・作曲：rino、編曲：[安藤聖](https://zh.wikipedia.org/wiki/安藤聖 "wikilink")、歌：CooRie
 
 <!-- end list -->
 
@@ -568,7 +569,7 @@ Shln Jgglck</p></td>
 <!-- end list -->
 
   -
-    作詞：rino、作曲：yozuca\*、編曲：安藤聖、歌：[yozurino\*](../Page/yozurino*.md "wikilink")
+    作詞：rino、作曲：yozuca\*、編曲：安藤聖、歌：[yozurino\*](https://zh.wikipedia.org/wiki/yozurino* "wikilink")
 
 #### 第二季各話資料
 

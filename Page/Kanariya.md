@@ -4,7 +4,7 @@
 
   - 本作為去年11月10日發行第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》的重發單曲。為完全限定生產30萬張。CD殼為黑色半透明殼。
   - 本作收錄的混音版本全未收錄於第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》中。
-  - 本作為第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》之隱藏曲，發行後勇奪[公信榜冠軍](../Page/公信榜.md "wikilink")，成為繼1988年[中山美穗](../Page/中山美穗.md "wikilink")「You're
+  - 本作為第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》之隱藏曲，發行後勇奪[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，成為繼1988年[中山美穗](../Page/中山美穗.md "wikilink")「You're
     My Only Shinin'
     Star」後自原創專輯中重新發行而獲得冠軍的單曲。下一張奪下冠軍的重發單曲為2008年發行的第九張原創專輯《[GUILTY](../Page/GUILTY.md "wikilink")》中，歌曲《Mirror》延展而成的第43張單曲《[Mirrorcle
     World](../Page/Mirrorcle_World.md "wikilink")》。

@@ -1,4 +1,4 @@
-**第二屆《絕對SuperStar》**，是[新加坡](../Page/新加坡.md "wikilink")[電視歌唱選秀](../Page/新加坡電視.md "wikilink")[節目](../Page/節目.md "wikilink")《[絕對SuperStar](../Page/絕對SuperStar.md "wikilink")》的第二屆賽事
+**第二屆《絕對SuperStar》**，是[新加坡](../Page/新加坡.md "wikilink")[電視歌唱選秀](https://zh.wikipedia.org/wiki/新加坡電視 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[絕對SuperStar](../Page/絕對SuperStar.md "wikilink")》的第二屆賽事
 
 ## 第二屆《絕對SuperStar》 2006-07
 
@@ -14,7 +14,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Daren Tan Sze Wei</p></td>
-<td><p><a href="../Page/陳世維.md" title="wikilink">陳世維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳世維" title="wikilink">陳世維</a></p></td>
 <td><p>23</p></td>
 <td><p><strong>總冠軍<br />
 男冠軍</strong><br />
@@ -23,21 +23,21 @@
 </tr>
 <tr class="even">
 <td><p>Lydia Tan Di Ya</p></td>
-<td><p><a href="../Page/陳迪雅.md" title="wikilink">陳迪雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳迪雅" title="wikilink">陳迪雅</a></p></td>
 <td><p>21</p></td>
 <td><p><strong>女冠軍</strong><br />
 2007年2月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Nathaniel Tan Kern Bai</p></td>
-<td><p><a href="../Page/陳鏗百.md" title="wikilink">陳鏗百</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳鏗百" title="wikilink">陳鏗百</a></p></td>
 <td><p>20</p></td>
 <td><p><strong>男亞軍</strong><br />
 2007年1月18日</p></td>
 </tr>
 <tr class="even">
 <td><p>Carrie Yeo Chia Ying</p></td>
-<td><p><a href="../Page/楊佳盈.md" title="wikilink">楊佳盈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊佳盈" title="wikilink">楊佳盈</a></p></td>
 <td><p>25</p></td>
 <td><p><strong>女亞軍</strong><br />
 2007年1月18日<br />
@@ -46,123 +46,123 @@
 </tr>
 <tr class="odd">
 <td><p>Kelvin Soon Boon Hai</p></td>
-<td><p><a href="../Page/孫文海.md" title="wikilink">孫文海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫文海" title="wikilink">孫文海</a></p></td>
 <td><p>25</p></td>
 <td><p><strong>男季軍</strong><br />
 2007年1月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>Averil Chan Shi Yun</p></td>
-<td><p><a href="../Page/陳詩韻.md" title="wikilink">陳詩韻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳詩韻" title="wikilink">陳詩韻</a></p></td>
 <td><p>22</p></td>
 <td><p><strong>女季軍</strong><br />
 2007年1月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Zhang Le Sheng</p></td>
-<td><p><a href="../Page/張樂聲.md" title="wikilink">張樂聲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張樂聲" title="wikilink">張樂聲</a></p></td>
 <td><p>25</p></td>
 <td><p>2007年1月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>Michelle Lew Ruo Wen</p></td>
-<td><p><a href="../Page/劉若雯.md" title="wikilink">劉若雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉若雯" title="wikilink">劉若雯</a></p></td>
 <td><p>24</p></td>
 <td><p>2007年1月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jon Toh Hong Lim</p></td>
-<td><p><a href="../Page/卓坊林.md" title="wikilink">卓坊林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓坊林" title="wikilink">卓坊林</a></p></td>
 <td><p>27</p></td>
 <td><p>2006年12月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>Maxilian Chan Yu Shu</p></td>
-<td><p><a href="../Page/曾裕淑.md" title="wikilink">曾裕淑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾裕淑" title="wikilink">曾裕淑</a></p></td>
 <td><p>19</p></td>
 <td><p>2006年12月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jeremy Chan Ming Yao</p></td>
-<td><p><a href="../Page/田銘耀.md" title="wikilink">田銘耀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田銘耀" title="wikilink">田銘耀</a></p></td>
 <td><p>25</p></td>
 <td><p>2006年12月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>Chua Wee Jian</p></td>
-<td><p><a href="../Page/蔡偉健.md" title="wikilink">蔡偉健</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡偉健" title="wikilink">蔡偉健</a></p></td>
 <td><p>19</p></td>
 <td><p>2006年12月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Charlotte Loh Feng Yi</p></td>
-<td><p><a href="../Page/羅鳳儀.md" title="wikilink">羅鳳儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅鳳儀" title="wikilink">羅鳳儀</a></p></td>
 <td><p>25</p></td>
 <td><p>2006年12月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>Jeremy Kwan Jing Han</p></td>
-<td><p><a href="../Page/官鏡瀚.md" title="wikilink">官鏡瀚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/官鏡瀚" title="wikilink">官鏡瀚</a></p></td>
 <td><p>23</p></td>
 <td><p>2006年12月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sheila Ou Qian Yu</p></td>
-<td><p><a href="../Page/歐千瑜.md" title="wikilink">歐千瑜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐千瑜" title="wikilink">歐千瑜</a></p></td>
 <td><p>21</p></td>
 <td><p>2006年12月7日</p></td>
 </tr>
 <tr class="even">
 <td><p>Dawn Wong Chuan Mei</p></td>
-<td><p><a href="../Page/黃川美.md" title="wikilink">黃川美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃川美" title="wikilink">黃川美</a></p></td>
 <td><p>22</p></td>
 <td><p>2006年12月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Anson Goh Heng Yong</p></td>
-<td><p><a href="../Page/吳幸榮.md" title="wikilink">吳幸榮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳幸榮" title="wikilink">吳幸榮</a></p></td>
 <td><p>27</p></td>
 <td><p>2006年11月30日</p></td>
 </tr>
 <tr class="even">
 <td><p>Jeff Teay Che Wai</p></td>
-<td><p><a href="../Page/謝子偉.md" title="wikilink">謝子偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝子偉" title="wikilink">謝子偉</a></p></td>
 <td><p>26</p></td>
 <td><p>2006年11月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Lee Her Ching</p></td>
-<td><p><a href="../Page/李何菁.md" title="wikilink">李何菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李何菁" title="wikilink">李何菁</a></p></td>
 <td><p>23</p></td>
 <td><p>2006年11月30日</p></td>
 </tr>
 <tr class="even">
 <td><p>Tang Ling Yi</p></td>
-<td><p><a href="../Page/湯靈伊.md" title="wikilink">湯靈伊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯靈伊" title="wikilink">湯靈伊</a></p></td>
 <td><p>19</p></td>
 <td><p>2006年11月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Kenny Lim Dao Wen</p></td>
-<td><p><a href="../Page/林道文.md" title="wikilink">林道文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林道文" title="wikilink">林道文</a></p></td>
 <td><p>22</p></td>
 <td><p>2006年11月23日</p></td>
 </tr>
 <tr class="even">
 <td><p>Huang Shi Yu</p></td>
-<td><p><a href="../Page/黃仕昱.md" title="wikilink">黃仕昱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃仕昱" title="wikilink">黃仕昱</a></p></td>
 <td><p>24</p></td>
 <td><p>2006年11月23日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Magdalene Yeong Yan Yi</p></td>
-<td><p><a href="../Page/楊艷宜.md" title="wikilink">楊艷宜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊艷宜" title="wikilink">楊艷宜</a></p></td>
 <td><p>22</p></td>
 <td><p>2006年11月23日</p></td>
 </tr>
 <tr class="even">
 <td><p>Veron Yang Xue Ni</p></td>
-<td><p><a href="../Page/楊雪妮.md" title="wikilink">楊雪妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊雪妮" title="wikilink">楊雪妮</a></p></td>
 <td><p>24</p></td>
 <td><p>2006年11月23日</p></td>
 </tr>

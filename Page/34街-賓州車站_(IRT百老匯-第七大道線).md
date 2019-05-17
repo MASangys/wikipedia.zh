@@ -1,4 +1,4 @@
-**34街-賓州車站**（）是[紐約地鐵](../Page/紐約地鐵.md "wikilink")[IRT百老匯-第七大道線的一個快車](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](../Page/地鐵站.md "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[34街及](../Page/34街_\(曼哈頓\).md "wikilink")[第七大道](../Page/第七大道_\(曼哈頓\).md "wikilink")，設有[1號線](../Page/紐約地鐵1號線.md "wikilink")（任何時候停站）、[2號線](../Page/紐約地鐵2號線.md "wikilink")（任何時候停站）與[3號線](../Page/紐約地鐵3號線.md "wikilink")（任何時候停站（深夜除外））列車服務。可經[賓夕法尼亞車站轉乘](../Page/賓夕法尼亞車站_\(紐約市\).md "wikilink")[長島鐵路](../Page/長島鐵路.md "wikilink")、[新澤西公共交通公司及](../Page/新澤西公共交通公司.md "wikilink")[美鐵](../Page/美鐵.md "wikilink")。
+**34街-賓州車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線的一個快車](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[34街及](https://zh.wikipedia.org/wiki/34街_\(曼哈頓\) "wikilink")[第七大道](https://zh.wikipedia.org/wiki/第七大道_\(曼哈頓\) "wikilink")，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")（任何時候停站）、[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")（任何時候停站（深夜除外））列車服務。可經[賓夕法尼亞車站轉乘](https://zh.wikipedia.org/wiki/賓夕法尼亞車站_\(紐約市\) "wikilink")[長島鐵路](../Page/長島鐵路.md "wikilink")、[新澤西公共交通公司及](https://zh.wikipedia.org/wiki/新澤西公共交通公司 "wikilink")[美鐵](../Page/美鐵.md "wikilink")。
 
 ## 車站結構
 
@@ -23,13 +23,13 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/威克菲爾德-241街車站_(IRT白原路線).md" title="wikilink">241街</a>）<small>（<a href="../Page/時報廣場-42街車站_(IRT百老匯-第七大道線).md" title="wikilink">時報廣場-42街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">241街</a>）<small>（<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">時報廣場-42街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/威克菲爾德-241街車站_(IRT白原路線).md" title="wikilink">威克菲爾德-241街</a><small>（<a href="../Page/96街車站_(IRT百老匯-第七大道線).md" title="wikilink">96街</a>）</small><br />
- <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="../Page/哈萊姆-148街車站_(IRT萊諾克斯大道線).md" title="wikilink">哈萊姆-148街</a><small>（時報廣場-42街）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">威克菲爾德-241街</a><small>（<a href="../Page/96街車站_(IRT百老匯-第七大道線).md" title="wikilink">96街</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/哈萊姆-148街車站_(IRT萊諾克斯大道線)" title="wikilink">哈萊姆-148街</a><small>（時報廣場-42街）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -39,13 +39,13 @@
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線).md" title="wikilink">夫拉特布殊大道-布魯克林學院</a><small>（<a href="../Page/時報廣場-42街車站_(IRT百老匯-第七大道線).md" title="wikilink">時報廣場-42街</a>）</small><br />
- <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="../Page/新地段大道車站_(IRT新地段線).md" title="wikilink">新地段大道</a><small>（<a href="../Page/14街車站_(IRT百老匯-第七大道線).md" title="wikilink">14街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道-布魯克林學院</a><small>（<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">時報廣場-42街</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/新地段大道車站_(IRT新地段線)" title="wikilink">新地段大道</a><small>（<a href="https://zh.wikipedia.org/wiki/14街車站_(IRT百老匯-第七大道線)" title="wikilink">14街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/南碼頭車站_(IRT百老匯-第七大道線).md" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線).md" title="wikilink">夫拉特布殊大道-布魯克林學院</a>）<small>（<a href="../Page/28街車站_(IRT百老匯-第七大道線).md" title="wikilink">28街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭車站_(IRT百老匯-第七大道線)" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道-布魯克林學院</a>）<small>（<a href="https://zh.wikipedia.org/wiki/28街車站_(IRT百老匯-第七大道線)" title="wikilink">28街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -61,9 +61,9 @@
 </tbody>
 </table>
 
-與[IND第八大道線](../Page/IND第八大道線.md "wikilink")[34街-賓州車站和](../Page/34街-賓州車站_\(IND第八大道線\).md "wikilink")[IRT東公園道線](../Page/IRT東公園道線.md "wikilink")[大西洋大道-巴克萊中心車站相同](../Page/大西洋大道-巴克萊中心車站.md "wikilink")，此站設有兩個服務慢車的[側式月台和快車的](../Page/側式月台.md "wikilink")[島式月台](../Page/島式月台.md "wikilink")。這是因為預計乘客量的增長和鼓勵乘客在北行下一站[時報廣場-42街車站轉乘](../Page/時報廣場-42街車站_\(IRT百老匯-第七大道線\).md "wikilink")，其設計為一般為[跨月台轉乘的一般島式月台](../Page/跨月台轉乘.md "wikilink")\[1\]。
+與[IND第八大道線](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[34街-賓州車站和](../Page/34街-賓州車站_\(IND第八大道線\).md "wikilink")[IRT東公園道線](https://zh.wikipedia.org/wiki/IRT東公園道線 "wikilink")[大西洋大道-巴克萊中心車站相同](../Page/大西洋大道-巴克萊中心車站.md "wikilink")，此站設有兩個服務慢車的[側式月台和快車的](../Page/側式月台.md "wikilink")[島式月台](../Page/島式月台.md "wikilink")。這是因為預計乘客量的增長和鼓勵乘客在北行下一站[時報廣場-42街車站轉乘](https://zh.wikipedia.org/wiki/時報廣場-42街車站_\(IRT百老匯-第七大道線\) "wikilink")，其設計為一般為[跨月台轉乘的一般島式月台](https://zh.wikipedia.org/wiki/跨月台轉乘 "wikilink")\[1\]。
 
-此站與位於IND第八大道線的同名車站沒有免費轉乘，雖然兩者皆連接至賓州車站。最近可轉乘的位置是時報廣場-42街車站，可免費轉乘至[42街-航港局客運總站車站](../Page/42街-航港局客運總站車站_\(IND第八大道線\).md "wikilink")\[2\]。
+此站與位於IND第八大道線的同名車站沒有免費轉乘，雖然兩者皆連接至賓州車站。最近可轉乘的位置是時報廣場-42街車站，可免費轉乘至[42街-航港局客運總站車站](https://zh.wikipedia.org/wiki/42街-航港局客運總站車站_\(IND第八大道線\) "wikilink")\[2\]。
 
 ## 參考資料
 

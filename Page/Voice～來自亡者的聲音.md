@@ -1,4 +1,4 @@
-《**Voice～亡者之聲～**》（）是一部於2009年1月12日起，由[日本](../Page/日本.md "wikilink")[富士電視台於逢星期一](../Page/富士電視台.md "wikilink")21:00-21:54（[日本時間](../Page/日本時間.md "wikilink")）播出的[電視連續劇](../Page/日本電視劇.md "wikilink")，由[瑛太主演](../Page/瑛太.md "wikilink")。首回和最終回加長至22:09。
+《**Voice～亡者之聲～**》（）是一部於2009年1月12日起，由[日本](../Page/日本.md "wikilink")[富士電視台於逢星期一](../Page/富士電視台.md "wikilink")21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[瑛太主演](../Page/瑛太.md "wikilink")。首回和最終回加長至22:09。
 
 ## 故事
 
@@ -13,7 +13,7 @@
 <!-- end list -->
 
   - 加地大己（かじ だいき）- [瑛太](../Page/瑛太.md "wikilink")（小學 -
-    [加藤清史郎](../Page/加藤清史郎.md "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
+    [加藤清史郎](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   - 久保秋佳奈子（くぼあき かなこ）- [石原聰美](../Page/石原聰美.md "wikilink")（小學 -
-    [山田夏海](../Page/山田夏海.md "wikilink")）（粤语配音：[王夢華](../Page/王夢華.md "wikilink")）
+    [山田夏海](https://zh.wikipedia.org/wiki/山田夏海 "wikilink")）（粤语配音：[王夢華](../Page/王夢華.md "wikilink")）
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - 羽井彰 - [佐藤智仁](../Page/佐藤智仁.md "wikilink")
+  - 羽井彰 - [佐藤智仁](https://zh.wikipedia.org/wiki/佐藤智仁 "wikilink")
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - 蕪木誠（かぶらぎ まこと）- [泉谷茂](../Page/泉谷茂.md "wikilink")
+  - 蕪木誠（かぶらぎ まこと）- [泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")
 
 <!-- end list -->
 
@@ -95,7 +95,8 @@
 
 <!-- end list -->
 
-  - 石末貴之（いしまつ たかゆき）- [名高達男](../Page/名高達男.md "wikilink")
+  - 石末貴之（いしまつ たかゆき）-
+    [名高達男](https://zh.wikipedia.org/wiki/名高達男 "wikilink")
 
 <!-- end list -->
 
@@ -104,7 +105,8 @@
 
 <!-- end list -->
 
-  - 堀井奈津美- [佐藤里香第一](../Page/佐藤里香.md "wikilink")、二、五、六章
+  - 堀井奈津美-
+    [佐藤里香第一](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")、二、五、六章
 
 <!-- end list -->
 
@@ -117,7 +119,8 @@
 
 <!-- end list -->
 
-  - 大和田 敏（おおわだ びん）- [山崎樹範](../Page/山崎樹範.md "wikilink")
+  - 大和田 敏（おおわだ びん）-
+    [山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")
 
 <!-- end list -->
 
@@ -126,7 +129,7 @@
 
 <!-- end list -->
 
-  - 羽井鳳子（はねい ほうこ）- [濱田マリ](../Page/濱田マリ.md "wikilink")
+  - 羽井鳳子（はねい ほうこ）- [濱田マリ](https://zh.wikipedia.org/wiki/濱田マリ "wikilink")
 
 <!-- end list -->
 
@@ -145,11 +148,12 @@
 
 <!-- end list -->
 
-  - 從大樓屋頂跳下的少年 - [小柴亮太](../Page/小柴亮太.md "wikilink")
-  - 東凛大学脳神経外科学教授 - [佐々木勝彥](../Page/佐々木勝彥.md "wikilink")
-  - 大和電機的社長 - [野添義弘](../Page/野添義弘.md "wikilink")
-  - 市原良平☆ - [モロ師岡](../Page/モロ師岡.md "wikilink")
-  - 河鍋秀子 - [美保純](../Page/美保純.md "wikilink")
+  - 從大樓屋頂跳下的少年 - [小柴亮太](https://zh.wikipedia.org/wiki/小柴亮太 "wikilink")
+  - 東凛大学脳神経外科学教授 -
+    [佐々木勝彥](https://zh.wikipedia.org/wiki/佐々木勝彥 "wikilink")
+  - 大和電機的社長 - [野添義弘](https://zh.wikipedia.org/wiki/野添義弘 "wikilink")
+  - 市原良平☆ - [モロ師岡](https://zh.wikipedia.org/wiki/モロ師岡 "wikilink")
+  - 河鍋秀子 - [美保純](https://zh.wikipedia.org/wiki/美保純 "wikilink")
 
 <!-- end list -->
 
@@ -162,8 +166,8 @@
 
 <!-- end list -->
 
-  - 佐野忍 - [鶴田真由](../Page/鶴田真由.md "wikilink")
-  - 河原 - [松尾諭](../Page/松尾諭.md "wikilink")
+  - 佐野忍 - [鶴田真由](https://zh.wikipedia.org/wiki/鶴田真由 "wikilink")
+  - 河原 - [松尾諭](https://zh.wikipedia.org/wiki/松尾諭 "wikilink")
 
 <!-- end list -->
 
@@ -172,7 +176,7 @@
 
 <!-- end list -->
 
-  - 佐野秀一☆ - [坂田聡](../Page/坂田聡.md "wikilink")
+  - 佐野秀一☆ - [坂田聡](https://zh.wikipedia.org/wiki/坂田聡 "wikilink")
 
 <!-- end list -->
 
@@ -180,14 +184,14 @@
 
 <!-- end list -->
 
-  - 在君島製作所工作的八木 - [勝村政信](../Page/勝村政信.md "wikilink")
-  - 小學校內的事務員 - [松山尚子](../Page/松山尚子.md "wikilink")
-  - 出租車司機 - [竹本和正](../Page/竹本和正.md "wikilink")
-  - 真島花枝☆ - [熊谷美香](../Page/熊谷美香.md "wikilink")
-  - 君島製作所的ジンさん - [平泉成](../Page/平泉成.md "wikilink")
-  - 久保秋雪子【回想】 - [片平なぎさ](../Page/片平なぎさ.md "wikilink")
-  - 派出所的警官 - [春延朋也](../Page/春延朋也.md "wikilink")
-  - 岩工瀬建株式會社的職員 - [亀井彰夫](../Page/亀井彰夫.md "wikilink")
+  - 在君島製作所工作的八木 - [勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 小學校內的事務員 - [松山尚子](https://zh.wikipedia.org/wiki/松山尚子 "wikilink")
+  - 出租車司機 - [竹本和正](https://zh.wikipedia.org/wiki/竹本和正 "wikilink")
+  - 真島花枝☆ - [熊谷美香](https://zh.wikipedia.org/wiki/熊谷美香 "wikilink")
+  - 君島製作所的ジンさん - [平泉成](https://zh.wikipedia.org/wiki/平泉成 "wikilink")
+  - 久保秋雪子【回想】 - [片平なぎさ](https://zh.wikipedia.org/wiki/片平なぎさ "wikilink")
+  - 派出所的警官 - [春延朋也](https://zh.wikipedia.org/wiki/春延朋也 "wikilink")
+  - 岩工瀬建株式會社的職員 - [亀井彰夫](https://zh.wikipedia.org/wiki/亀井彰夫 "wikilink")
 
 <!-- end list -->
 
@@ -195,10 +199,10 @@
 
 <!-- end list -->
 
-  - 山倉醫大的學生 - [西崎彩](../Page/西崎彩.md "wikilink")
-  - 新田先生 - [築出静夫](../Page/築出静夫.md "wikilink")
+  - 山倉醫大的學生 - [西崎彩](https://zh.wikipedia.org/wiki/西崎彩 "wikilink")
+  - 新田先生 - [築出静夫](https://zh.wikipedia.org/wiki/築出静夫 "wikilink")
   - 五十嵐富士夫☆ -
-    [田中圭](../Page/田中圭.md "wikilink")(少年期:[林凌雅](../Page/林凌雅.md "wikilink"))
+    [田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")(少年期:[林凌雅](https://zh.wikipedia.org/wiki/林凌雅 "wikilink"))
 
 <!-- end list -->
 
@@ -207,7 +211,7 @@
 
 <!-- end list -->
 
-  - 宗之 - [小野武彦](../Page/小野武彦.md "wikilink")
+  - 宗之 - [小野武彦](https://zh.wikipedia.org/wiki/小野武彦 "wikilink")
 
 <!-- end list -->
 
@@ -216,7 +220,7 @@
 
 <!-- end list -->
 
-  - 高沢克彦 - [細田よしひこ](../Page/細田よしひこ.md "wikilink")
+  - 高沢克彦 - [細田よしひこ](https://zh.wikipedia.org/wiki/細田よしひこ "wikilink")
 
 <!-- end list -->
 
@@ -225,8 +229,8 @@
 
 <!-- end list -->
 
-  - 山倉醫大的學生 - [渡辺夏菜](../Page/渡辺夏菜.md "wikilink")
-  - 廣播員 - [阿部知代](../Page/阿部知代.md "wikilink")
+  - 山倉醫大的學生 - [渡辺夏菜](https://zh.wikipedia.org/wiki/渡辺夏菜 "wikilink")
+  - 廣播員 - [阿部知代](https://zh.wikipedia.org/wiki/阿部知代 "wikilink")
 
 <!-- end list -->
 
@@ -234,9 +238,9 @@
 
 <!-- end list -->
 
-  - 攝影記者 - [池田鉄洋](../Page/池田鉄洋.md "wikilink")
-  - 岡原浩介☆ - [吹越満](../Page/吹越満.md "wikilink")
-  - 中田朋枝 - [芳本美代子](../Page/芳本美代子.md "wikilink")
+  - 攝影記者 - [池田鉄洋](https://zh.wikipedia.org/wiki/池田鉄洋 "wikilink")
+  - 岡原浩介☆ - [吹越満](https://zh.wikipedia.org/wiki/吹越満 "wikilink")
+  - 中田朋枝 - [芳本美代子](https://zh.wikipedia.org/wiki/芳本美代子 "wikilink")
 
 <!-- end list -->
 
@@ -245,7 +249,7 @@
 
 <!-- end list -->
 
-  - 中田実 - [小林海人](../Page/小林海人.md "wikilink")
+  - 中田実 - [小林海人](https://zh.wikipedia.org/wiki/小林海人 "wikilink")
 
 <!-- end list -->
 
@@ -254,7 +258,7 @@
 
 <!-- end list -->
 
-  - 沢野 - [六角精児](../Page/六角精児.md "wikilink")
+  - 沢野 - [六角精児](https://zh.wikipedia.org/wiki/六角精児 "wikilink")
 
 <!-- end list -->
 
@@ -263,8 +267,9 @@
 
 <!-- end list -->
 
-  - 「日式中華料理」店長 - [剛州](../Page/剛州.md "wikilink")
-  - 「日式中華料理」店員 - [吉田ウーロン太](../Page/吉田ウーロン太.md "wikilink")
+  - 「日式中華料理」店長 - [剛州](https://zh.wikipedia.org/wiki/剛州 "wikilink")
+  - 「日式中華料理」店員 -
+    [吉田ウーロン太](https://zh.wikipedia.org/wiki/吉田ウーロン太 "wikilink")
 
 <!-- end list -->
 
@@ -272,7 +277,7 @@
 
 <!-- end list -->
 
-  - 相馬朋子★ - [志田未来](../Page/志田未来.md "wikilink")
+  - 相馬朋子★ - [志田未来](https://zh.wikipedia.org/wiki/志田未来 "wikilink")
 
 <!-- end list -->
 
@@ -290,7 +295,7 @@
 
 <!-- end list -->
 
-  - 久保秋祐樹 - [冨浦智嗣](../Page/冨浦智嗣.md "wikilink")
+  - 久保秋祐樹 - [冨浦智嗣](https://zh.wikipedia.org/wiki/冨浦智嗣 "wikilink")
 
 <!-- end list -->
 
@@ -299,7 +304,7 @@
 
 <!-- end list -->
 
-  - 宮島英幸 - [二階堂智](../Page/二階堂智.md "wikilink")
+  - 宮島英幸 - [二階堂智](https://zh.wikipedia.org/wiki/二階堂智 "wikilink")
 
 <!-- end list -->
 
@@ -308,8 +313,8 @@
 
 <!-- end list -->
 
-  - 煎餅店店主 - [藏内秀樹](../Page/藏内秀樹.md "wikilink")
-  - 若原 - [杉野なつ美](../Page/杉野なつ美.md "wikilink")
+  - 煎餅店店主 - [藏内秀樹](https://zh.wikipedia.org/wiki/藏内秀樹 "wikilink")
+  - 若原 - [杉野なつ美](https://zh.wikipedia.org/wiki/杉野なつ美 "wikilink")
 
 <!-- end list -->
 
@@ -318,9 +323,9 @@
 
 <!-- end list -->
 
-  - 護士 - [桜木ひろ子](../Page/桜木ひろ子.md "wikilink")
-  - 急救隊員 - [浅里昌吾](../Page/浅里昌吾.md "wikilink")
-  - 急救隊員 - [青木一](../Page/青木一.md "wikilink")
+  - 護士 - [桜木ひろ子](https://zh.wikipedia.org/wiki/桜木ひろ子 "wikilink")
+  - 急救隊員 - [浅里昌吾](https://zh.wikipedia.org/wiki/浅里昌吾 "wikilink")
+  - 急救隊員 - [青木一](https://zh.wikipedia.org/wiki/青木一 "wikilink")
 
 <!-- end list -->
 
@@ -328,11 +333,11 @@
 
 <!-- end list -->
 
-  - 野間口静代☆ - [赤座美代子](../Page/赤座美代子.md "wikilink")
-  - 野間口功 - [石橋蓮司](../Page/石橋蓮司.md "wikilink")
-  - 超市的店員 - [坂本真](../Page/坂本真.md "wikilink")
-  - 花山幸子 - [宍戸美和公](../Page/宍戸美和公.md "wikilink")
-  - 電器店的店長 - [村松利史](../Page/村松利史.md "wikilink")
+  - 野間口静代☆ - [赤座美代子](https://zh.wikipedia.org/wiki/赤座美代子 "wikilink")
+  - 野間口功 - [石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")
+  - 超市的店員 - [坂本真](https://zh.wikipedia.org/wiki/坂本真 "wikilink")
+  - 花山幸子 - [宍戸美和公](https://zh.wikipedia.org/wiki/宍戸美和公 "wikilink")
+  - 電器店的店長 - [村松利史](https://zh.wikipedia.org/wiki/村松利史 "wikilink")
 
 <!-- end list -->
 
@@ -341,19 +346,19 @@
 <!-- end list -->
 
   - 今成卓見☆ -
-    [平田滿](../Page/平田滿.md "wikilink")（回想：[野村泰仁](../Page/野村泰仁.md "wikilink")）
+    [平田滿](https://zh.wikipedia.org/wiki/平田滿 "wikilink")（回想：[野村泰仁](https://zh.wikipedia.org/wiki/野村泰仁 "wikilink")）
   - 矢野 - [田中實](../Page/田中實_\(演員\).md "wikilink")
   - 三島 -
-    [志賀廣太郎](../Page/志賀廣太郎.md "wikilink")（回想：[杉原貴幸](../Page/杉原貴幸.md "wikilink")）
-  - 面試官 - [藤田三三三](../Page/藤田三三三.md "wikilink")
-  - 高木公一 - [山田明郷](../Page/山田明郷.md "wikilink")
-  - 警察 - [山崎直樹](../Page/山崎直樹.md "wikilink")
-  - 警察 - [ト字たかお](../Page/ト字たかお.md "wikilink")
-  - 孩子的父母- [小野光俊](../Page/小野光俊.md "wikilink")
-  - 孩子的父母 - [兎本有紀](../Page/兎本有紀.md "wikilink")
-  - 護士 - [荒川亞由](../Page/荒川亞由.md "wikilink")
-  - 小谷聰 - [福本晟也](../Page/福本晟也.md "wikilink")
-  - 小谷久志 - [農塚誓志](../Page/農塚誓志.md "wikilink")
+    [志賀廣太郎](https://zh.wikipedia.org/wiki/志賀廣太郎 "wikilink")（回想：[杉原貴幸](https://zh.wikipedia.org/wiki/杉原貴幸 "wikilink")）
+  - 面試官 - [藤田三三三](https://zh.wikipedia.org/wiki/藤田三三三 "wikilink")
+  - 高木公一 - [山田明郷](https://zh.wikipedia.org/wiki/山田明郷 "wikilink")
+  - 警察 - [山崎直樹](https://zh.wikipedia.org/wiki/山崎直樹 "wikilink")
+  - 警察 - [ト字たかお](https://zh.wikipedia.org/wiki/ト字たかお "wikilink")
+  - 孩子的父母- [小野光俊](https://zh.wikipedia.org/wiki/小野光俊 "wikilink")
+  - 孩子的父母 - [兎本有紀](https://zh.wikipedia.org/wiki/兎本有紀 "wikilink")
+  - 護士 - [荒川亞由](https://zh.wikipedia.org/wiki/荒川亞由 "wikilink")
+  - 小谷聰 - [福本晟也](https://zh.wikipedia.org/wiki/福本晟也 "wikilink")
+  - 小谷久志 - [農塚誓志](https://zh.wikipedia.org/wiki/農塚誓志 "wikilink")
 
 <!-- end list -->
 
@@ -362,7 +367,7 @@
 
 <!-- end list -->
 
-  - 聰的母親 - [中込佐知子](../Page/中込佐知子.md "wikilink")
+  - 聰的母親 - [中込佐知子](https://zh.wikipedia.org/wiki/中込佐知子 "wikilink")
 
 <!-- end list -->
 
@@ -370,12 +375,12 @@
 
 <!-- end list -->
 
-  - 宇野慧☆ - [平賀雅臣](../Page/平賀雅臣.md "wikilink")
-  - 宇野真由美　- [中島ひろ子](../Page/中島ひろ子.md "wikilink")
-  - 宇野稔彦 - [竹内壽](../Page/竹内壽.md "wikilink")
-  - オーナー - [藤田宗久](../Page/藤田宗久.md "wikilink")
-  - 従業員 - [佐藤貢三](../Page/佐藤貢三.md "wikilink")
-  - 調査員 - [伊藤富美也](../Page/伊藤富美也.md "wikilink")
+  - 宇野慧☆ - [平賀雅臣](https://zh.wikipedia.org/wiki/平賀雅臣 "wikilink")
+  - 宇野真由美　- [中島ひろ子](https://zh.wikipedia.org/wiki/中島ひろ子 "wikilink")
+  - 宇野稔彦 - [竹内壽](https://zh.wikipedia.org/wiki/竹内壽 "wikilink")
+  - オーナー - [藤田宗久](https://zh.wikipedia.org/wiki/藤田宗久 "wikilink")
+  - 従業員 - [佐藤貢三](https://zh.wikipedia.org/wiki/佐藤貢三 "wikilink")
+  - 調査員 - [伊藤富美也](https://zh.wikipedia.org/wiki/伊藤富美也 "wikilink")
 
 <!-- end list -->
 
@@ -383,9 +388,9 @@
 
 <!-- end list -->
 
-  - 櫻井真也☆ - [田村亮](../Page/田村亮_\(演員\).md "wikilink")
+  - 櫻井真也☆ - [田村亮](https://zh.wikipedia.org/wiki/田村亮_\(演員\) "wikilink")
   - 櫻井瑠美子 - [麻生祐未](../Page/麻生祐未.md "wikilink")
-  - 梅木誠 - [福井博章](../Page/福井博章.md "wikilink")
+  - 梅木誠 - [福井博章](https://zh.wikipedia.org/wiki/福井博章 "wikilink")
 
 <!-- end list -->
 
@@ -393,11 +398,11 @@
 
 <!-- end list -->
 
-  - 管理人 - [品川徹](../Page/品川徹.md "wikilink")
+  - 管理人 - [品川徹](https://zh.wikipedia.org/wiki/品川徹 "wikilink")
 
-  - 記者 - [足立龍彌](../Page/足立龍彌.md "wikilink")
+  - 記者 - [足立龍彌](https://zh.wikipedia.org/wiki/足立龍彌 "wikilink")
 
-  - 記者 - [松村千繪](../Page/松村千繪.md "wikilink")
+  - 記者 - [松村千繪](https://zh.wikipedia.org/wiki/松村千繪 "wikilink")
 
   -
 <!-- end list -->
@@ -406,22 +411,22 @@
 
 <!-- end list -->
 
-  - 成瀬喧一☆ - [ダンカン](../Page/ダンカン.md "wikilink")
-  - 坂田潔美 - [近野成美](../Page/近野成美.md "wikilink")
-  - 長井 - [ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")
-  - 學生 - [伊藤聖夏](../Page/伊藤聖夏.md "wikilink")
-  - 學生 - [中島愛里](../Page/中島愛里.md "wikilink")
+  - 成瀬喧一☆ - [ダンカン](https://zh.wikipedia.org/wiki/ダンカン "wikilink")
+  - 坂田潔美 - [近野成美](https://zh.wikipedia.org/wiki/近野成美 "wikilink")
+  - 長井 - [ガダルカナル・タカ](https://zh.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")
+  - 學生 - [伊藤聖夏](https://zh.wikipedia.org/wiki/伊藤聖夏 "wikilink")
+  - 學生 - [中島愛里](https://zh.wikipedia.org/wiki/中島愛里 "wikilink")
 
 ### 背景字幕
 
-  - [源崎トモエ](../Page/源崎トモエ.md "wikilink")
+  - [源崎トモエ](https://zh.wikipedia.org/wiki/源崎トモエ "wikilink")
 
 ## 製作人員
 
-  - 劇本：[金子茂樹](../Page/金子茂樹.md "wikilink")
-  - 導演：[成田岳](../Page/成田岳.md "wikilink")、[松山博昭](../Page/松山博昭.md "wikilink")、[石井祐介](../Page/石井祐介.md "wikilink")
-  - 製作：[瀧山麻土香](../Page/瀧山麻土香.md "wikilink")、[東康之](../Page/東康之.md "wikilink")
-  - 制作：[富士電視台電視劇製作中心](../Page/富士電視台電視劇製作中心.md "wikilink")
+  - 劇本：[金子茂樹](https://zh.wikipedia.org/wiki/金子茂樹 "wikilink")
+  - 導演：[成田岳](https://zh.wikipedia.org/wiki/成田岳 "wikilink")、[松山博昭](https://zh.wikipedia.org/wiki/松山博昭 "wikilink")、[石井祐介](https://zh.wikipedia.org/wiki/石井祐介 "wikilink")
+  - 製作：[瀧山麻土香](https://zh.wikipedia.org/wiki/瀧山麻土香 "wikilink")、[東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
+  - 制作：[富士電視台電視劇製作中心](https://zh.wikipedia.org/wiki/富士電視台電視劇製作中心 "wikilink")
 
 ## 主題曲
 
@@ -550,8 +555,8 @@
 
 ## 相關條目
 
-  - [法醫學](../Page/法醫學.md "wikilink")
-  - [月九](../Page/月九.md "wikilink")
+  - [法醫學](https://zh.wikipedia.org/wiki/法醫學 "wikilink")
+  - [月九](https://zh.wikipedia.org/wiki/月九 "wikilink")
 
 ## 外部連結
 

@@ -1,5 +1,5 @@
 《**ROM-LESS
-虛擬女僕貓餐館**》（）是[白雪詩音的](../Page/白雪詩音.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，自2004年6月號在[芳文社的](../Page/芳文社.md "wikilink")《[Manga
+虛擬女僕貓餐館**》（）是[白雪詩音的](https://zh.wikipedia.org/wiki/白雪詩音 "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，自2004年6月號在[芳文社的](../Page/芳文社.md "wikilink")《[Manga
 Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》上連載。
 
 ## 簡介

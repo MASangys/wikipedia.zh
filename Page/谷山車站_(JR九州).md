@@ -1,4 +1,4 @@
-**谷山車站**（）是一位於[日本](../Page/日本.md "wikilink")[鹿兒島縣](../Page/鹿兒島縣.md "wikilink")[鹿兒島市谷山中央](../Page/鹿兒島市.md "wikilink")1丁目4127號，[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")[指宿枕崎線沿線的](../Page/指宿枕崎線.md "wikilink")[鐵路車站](../Page/鐵路車站.md "wikilink")。
+**谷山車站**（）是一位於[日本](../Page/日本.md "wikilink")[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[鹿兒島市谷山中央](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")1丁目4127號，[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")[指宿枕崎線沿線的](../Page/指宿枕崎線.md "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。
 
 ## 車站結構
 
@@ -25,7 +25,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>上行</p></td>
-<td><p><a href="../Page/鹿兒島中央站.md" title="wikilink">鹿兒島中央方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島中央站" title="wikilink">鹿兒島中央方向</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -62,11 +62,11 @@
         快速「油菜花」、普通
 
           -
-            [宇宿](../Page/宇宿站.md "wikilink")－**谷山**－[慈眼寺](../Page/慈眼寺站.md "wikilink")
+            [宇宿](https://zh.wikipedia.org/wiki/宇宿站 "wikilink")－**谷山**－[慈眼寺](../Page/慈眼寺站.md "wikilink")
 
 ## 相關條目
 
-  - [谷山車站](../Page/谷山車站.md "wikilink")：其他同名的鐵路車站。
+  - [谷山車站](https://zh.wikipedia.org/wiki/谷山車站 "wikilink")：其他同名的鐵路車站。
   - [日本鐵路車站列表](../Page/日本鐵路車站列表.md "wikilink")
 
 [Category:日本鐵路車站_Ta](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ta "wikilink")

@@ -3,7 +3,7 @@ myself**》（心聲）是日本歌手[濱崎步第](../Page/濱崎步.md "wikil
 
 ## 說明
 
-  - 前作《[glitter/fated](../Page/glitter/fated.md "wikilink")》約2個月就發行本作。並收錄《fated》的管絃版本。
+  - 前作《[glitter/fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")》約2個月就發行本作。並收錄《fated》的管絃版本。
   - 本張單曲共分為「CD+DVD」、「CD ONLY」兩個型態販售，封面各自不同。
   - 《talkin' 2 myself》於發行前特例進行來電鈴聲免費下載。
   - 《talkin' 2
@@ -20,13 +20,14 @@ myself**》（心聲）是日本歌手[濱崎步第](../Page/濱崎步.md "wikil
 
 1.  **talkin' 2 myself "original mix"**　
       -
-        作曲：[中野雄太](../Page/中野雄太.md "wikilink")　編曲：[HΛL](../Page/HΛL.md "wikilink")
+        作曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")　編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         Panasonic「LUMIX FX33」電視廣告歌曲 (由本人演出)
 2.  **decision "original mix"**　
       -
         作曲：中野雄太　編曲：中野雄太
         music.jp 廣告歌曲
-3.  **[fated](../Page/glitter/fated.md "wikilink") "Orchestra version"**
+3.  **[fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
+    "Orchestra version"**
 4.  **talkin' 2 myself "original mix -instrumental-"**
 5.  **decision "original mix -instrumental-"**
 

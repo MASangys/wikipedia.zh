@@ -1,17 +1,17 @@
 **椰子罐頭（COCOCAN）**，原名**水果村**、**諾亞方舟（Noah's
-Ark）**是由[遊戲橘子開發的休閒](../Page/遊戲橘子.md "wikilink")[網路遊戲](../Page/網路遊戲.md "wikilink")，[台灣方面由於人數不斷銳減](../Page/台灣.md "wikilink")，自2008年10月1日起停止營運。
+Ark）**是由[遊戲橘子開發的休閒](../Page/遊戲橘子.md "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，[台灣方面由於人數不斷銳減](https://zh.wikipedia.org/wiki/台灣 "wikilink")，自2008年10月1日起停止營運。
 
 椰子罐頭自2003年初在台灣推廣以來，吸引不少網友的興趣，玩家年齡層廣，之後也在日本、[香港等地掀起風潮](../Page/香港.md "wikilink")。
 
 ## 「椰子罐頭」名稱的由來
 
-為了能讓名稱更貼近遊戲的性質，遊戲橘子決定將「諾亞方舟」改名為「椰子罐頭」，由於本遊戲是利用風向及仰角拋投各類武器來攻擊對手，以獲得等級的晉升和[金幣](../Page/金幣.md "wikilink")，而「COCOCAN」的[台語諧音為](../Page/台語.md "wikilink")「一直丟、一直丟」，再把「COCONUT」和「CAN」兩個[英文單字拼裝起來](../Page/英文.md "wikilink")，中文[翻譯即](../Page/翻譯.md "wikilink")《椰子罐頭》，用此作為正式名稱。
+為了能讓名稱更貼近遊戲的性質，遊戲橘子決定將「諾亞方舟」改名為「椰子罐頭」，由於本遊戲是利用風向及仰角拋投各類武器來攻擊對手，以獲得等級的晉升和[金幣](https://zh.wikipedia.org/wiki/金幣 "wikilink")，而「COCOCAN」的[台語諧音為](https://zh.wikipedia.org/wiki/台語 "wikilink")「一直丟、一直丟」，再把「COCONUT」和「CAN」兩個[英文單字拼裝起來](https://zh.wikipedia.org/wiki/英文 "wikilink")，中文[翻譯即](https://zh.wikipedia.org/wiki/翻譯 "wikilink")《椰子罐頭》，用此作為正式名稱。
 
 ## 營運狀況
 
 日本遊戲橘子於2009年1月30日發布新聞表示，日版椰子罐頭將於當地時間4月30日晚間五點起停止營運，屆時椰子罐頭將完全走入歷史。
 
-[台灣方面由於玩家人數不斷銳減](../Page/台灣.md "wikilink")，遊戲橘子於2008年7月1日發布即將停止營運公告，自10月1日起台灣版椰子罐頭正式停止營運。
+[台灣方面由於玩家人數不斷銳減](https://zh.wikipedia.org/wiki/台灣 "wikilink")，遊戲橘子於2008年7月1日發布即將停止營運公告，自10月1日起台灣版椰子罐頭正式停止營運。
 
 [香港版停止營運](../Page/香港.md "wikilink")。
 

@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                   |
 
 **GN-005 德天使GUNDAM（Gundam
-Virtue）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Virtue）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由提耶利亞·厄德所駕駛。
 
@@ -32,7 +32,7 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[德天使](../Page/德天使.md "wikilink")」（Virtues），意為美德。
+    名稱源自於九大天使階級之一的「[德天使](https://zh.wikipedia.org/wiki/德天使 "wikilink")」（Virtues），意為美德。
 
 ## 重要戰鬥史
 
@@ -51,7 +51,7 @@ Field）」從以得到高防禦力。
 
   -
     於人革聯GUNDAM捕獲作戰中被6台鐵人式太空型捆縛著無法脫身，為避開鐵人桃子之致命一擊而被迫卸去外裝甲，因而導致機體內隱藏的[GN-004
-    中性GUNDAM暴光](../Page/GN-004_中性GUNDAM.md "wikilink")。
+    中性GUNDAM暴光](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
 
 <!-- end list -->
 
@@ -60,7 +60,7 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    首次使用GN火箭砲之轟擊模式。在塔克拉馬干沙漠遭聯合國軍伏擊，於被俘虜途中因[座天使GUNDAM一型介入而獲救](../Page/座天使GUNDAM一型.md "wikilink")。
+    首次使用GN火箭砲之轟擊模式。在塔克拉馬干沙漠遭聯合國軍伏擊，於被俘虜途中因[座天使GUNDAM一型介入而獲救](https://zh.wikipedia.org/wiki/座天使GUNDAM一型 "wikilink")。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    迎戰聯合國軍[厄運式部隊](../Page/厄運式.md "wikilink")，於戰鬥中一度因天上人超級電腦Veda遭入侵而使機體及提耶利亞與Veda之間的聯繫被切斷，導致機體陷入癱瘓狀態。
+    迎戰聯合國軍[厄運式部隊](https://zh.wikipedia.org/wiki/厄運式 "wikilink")，於戰鬥中一度因天上人超級電腦Veda遭入侵而使機體及提耶利亞與Veda之間的聯繫被切斷，導致機體陷入癱瘓狀態。
 
 <!-- end list -->
 
@@ -78,8 +78,8 @@ Field）」從以得到高防禦力。
 <!-- end list -->
 
   -
-    首次也是唯一一次攜帶兩門GN火箭砲與聯合國軍交戰，遭AEU傭兵阿里·亞爾·沙瑟斯所俘虜之[座天使GUNDAM二型以GN獠牙穿透GN力場](../Page/座天使GUNDAM二型.md "wikilink")，於聯合國軍猛攻下首度使用GN粒子全面釋放系統「Trans-AM」，但因裝甲嚴重受損而須於下一次戰鬥以[GN-004
-    中性GUNDAM出擊](../Page/GN-004_中性GUNDAM.md "wikilink")。
+    首次也是唯一一次攜帶兩門GN火箭砲與聯合國軍交戰，遭AEU傭兵阿里·亞爾·沙瑟斯所俘虜之[座天使GUNDAM二型以GN獠牙穿透GN力場](https://zh.wikipedia.org/wiki/座天使GUNDAM二型 "wikilink")，於聯合國軍猛攻下首度使用GN粒子全面釋放系統「Trans-AM」，但因裝甲嚴重受損而須於下一次戰鬥以[GN-004
+    中性GUNDAM出擊](https://zh.wikipedia.org/wiki/GN-004_中性GUNDAM "wikilink")。
 
 ## 武裝
 
@@ -183,8 +183,9 @@ GUNDAM待機時使用，使機體成隱形狀態。
 
 ## 參見
 
-  - [機動戰士GUNDAM 00兵器列表](../Page/機動戰士GUNDAM_00兵器列表.md "wikilink")
+  - [機動戰士GUNDAM
+    00兵器列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00兵器列表 "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

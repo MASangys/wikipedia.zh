@@ -1,5 +1,5 @@
-**Burgerkill**是印度尼西亞來自[萬隆的獨立樂團](../Page/萬隆.md "wikilink")，音樂風格包含[金屬蕊](../Page/金屬蕊.md "wikilink")(Metalcore)、[鞭擊金屬](../Page/鞭擊金屬.md "wikilink")(Thrash
-Metal)、[死亡金屬](../Page/死亡金屬.md "wikilink")(Death
+**Burgerkill**是印度尼西亞來自[萬隆的獨立樂團](../Page/萬隆.md "wikilink")，音樂風格包含[金屬蕊](../Page/金屬蕊.md "wikilink")(Metalcore)、[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")(Thrash
+Metal)、[死亡金屬](https://zh.wikipedia.org/wiki/死亡金屬 "wikilink")(Death
 Metal)、[輾核](../Page/輾核.md "wikilink")(Grindcore)等。
 
 ## 地下時期
@@ -19,7 +19,7 @@ BMG)簽約，正式踏上印尼主流樂壇。在年底推出一張金屬蕊(Met
 
 ## 其他
 
-2003年Burgerkill曾與印尼著名搖滾樂團[Padi的主唱Fadly合作了一首](../Page/Padi.md "wikilink")《Tiga
+2003年Burgerkill曾與印尼著名搖滾樂團[Padi的主唱Fadly合作了一首](https://zh.wikipedia.org/wiki/Padi "wikilink")《Tiga
 Titik Hitam》(三黑點)。
 
 ## 連結

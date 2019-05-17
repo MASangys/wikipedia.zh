@@ -1,5 +1,5 @@
-**變形金剛：Binaltech**(<sup><small>[日文原名](../Page/日文.md "wikilink")：</small></sup>**Transformers:
-Binaltech**)是日本在2003年推出的一款[變形金剛的產品線](../Page/變形金剛.md "wikilink")。歐美則是於2004年以**Transformers:
+**變形金剛：Binaltech**(<sup><small>[日文原名](https://zh.wikipedia.org/wiki/日文 "wikilink")：</small></sup>**Transformers:
+Binaltech**)是日本在2003年推出的一款[變形金剛的產品線](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")。歐美則是於2004年以**Transformers:
 Alternators**的標題在市場上發售。
 
 本系列是與幾家汽車廠商品牌合作，推出1/24含合金高精密度的真車模型，配合上G1許多的經典人物加上全新造型以及原創劇情來推出。不過歐美地區在2004年"Transformers:
@@ -16,7 +16,7 @@ Players**系列；同年Alternators系列也進入了最低迷的時期，推出
 
   -
     *本作品劇情架構屬於日本G1系列的一環，故事接續在卡通影集**[變形金剛](../Page/變形金剛_\(卡通\).md "wikilink")**的第二季之後，不過跟**[變形金剛：The
-    Movie](../Page/變形金剛：The_Movie.md "wikilink")**及以後的作品乃互為平行世界。*
+    Movie](https://zh.wikipedia.org/wiki/變形金剛：The_Movie "wikilink")**及以後的作品乃互為平行世界。*
 
 西元2003年，狂派軍團利用了「宇宙鐵銹」來進行破壞活動，並造成了許多博派在地球駐守的戰士感染了宇宙鐵銹而瀕臨了死亡邊緣。狂派變形金剛於是趁著此時開始進行侵略活動。由於物資無法及時從賽博創星球運送過來，因此地球防衛軍開始籌畫「Binaltech
 Project」，乃是由人類來建造新的變形金剛軀體供身體損壞的博派戰士所使用。經由博派母艦「方舟」主電腦**電訊一號**的指揮，藉著全球的企業與研究機關開發出了新的機械身軀，最後再將身軀毀損者的人格移植到新的身軀上而成功回歸戰線。
@@ -174,6 +174,6 @@ TAKARATOMY與**SUPER GT賽車冠軍賽**合作推出的產品
 [Category:_變形金剛](https://zh.wikipedia.org/wiki/Category:_變形金剛 "wikilink")
 
 1.  這些女性角色都是以過去既有的角色為範本所設計的人物。
-2.  大嶋優木原隸屬於模型公司「[海洋堂](../Page/:en:Kaiyodo.md "wikilink")」，現在是自由造型師，是個雖然想做機器人模型，但最後為他贏得讚譽的卻是美少女模型的原型師。
+2.  大嶋優木原隸屬於模型公司「[海洋堂](https://zh.wikipedia.org/wiki/:en:Kaiyodo "wikilink")」，現在是自由造型師，是個雖然想做機器人模型，但最後為他贏得讚譽的卻是美少女模型的原型師。
 3.  作者除了本作外，還另外畫了和Kiss Players較無關聯的「15 Go\! Go\!」，於電擊HOBBY
     MAGAZINE連載(臺灣則是於青文出版社出版的電擊HOBBY雜誌上進行單頁連載)，主角是電傳15號，每一集都有一個角色的圖畫特寫。

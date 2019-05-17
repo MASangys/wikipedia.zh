@@ -1,6 +1,6 @@
-**TOM在線有限公司**（，前[港交所上市編號](../Page/港交所.md "wikilink")：8282、前[納斯達克上市編號](../Page/納斯達克.md "wikilink")：TOMO）是[TOM集團旗下公司](../Page/TOM集團.md "wikilink")。TOM在線主要業務包括於[中國提供無線增值服務](../Page/中國.md "wikilink")、網上[廣告及商務企業解決方案](../Page/廣告.md "wikilink")。\[1\]
+**TOM在線有限公司**（，前[港交所上市編號](https://zh.wikipedia.org/wiki/港交所 "wikilink")：8282、前[納斯達克上市編號](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")：TOMO）是[TOM集團旗下公司](../Page/TOM集團.md "wikilink")。TOM在線主要業務包括於[中國提供無線增值服務](../Page/中國.md "wikilink")、網上[廣告及商務企業解決方案](../Page/廣告.md "wikilink")。\[1\]
 
-2004年3月，TOM集團分拆TOM在線在[香港創業板及](../Page/香港創業板.md "wikilink")[美國](../Page/美國.md "wikilink")[納斯達克上市](../Page/納斯達克.md "wikilink")，招股價為1.5港元。TOM在線集資所得部份會用作收購無線互-{}-動通-{}-訊雷霆無極。\[2\]\[3\]
+2004年3月，TOM集團分拆TOM在線在[香港創業板及](https://zh.wikipedia.org/wiki/香港創業板 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[納斯達克上市](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")，招股價為1.5港元。TOM在線集資所得部份會用作收購無線互-{}-動通-{}-訊雷霆無極。\[2\]\[3\]
 
 2007年4月，TOM集團以1.52元[私有化TOM在線的計劃獲得股東通過](../Page/私有化.md "wikilink")。TOM集團表示因應TOM在線要拓展-{zh-cn:移动;zh-hk:流動;zh-tw:行動;}-增值以外的業務，需要大量投資。私有化可以令TOM在線作出長遠的投資時，無需再因上市地位而承受短期壓力。\[4\]
 

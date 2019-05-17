@@ -1,18 +1,19 @@
 **VIA Nano**（開發代號為VIA
-Isaiah/[以賽亞](../Page/以賽亞書.md "wikilink")）處理器是[VIA公司研發的](../Page/VIA.md "wikilink")64位元處理器，VIA公司從2004年起即開始Isaiah處理器的研發工作，曾預定在2006年推出，但目前已被推遲到2008年。2008年3月，VIA旗下[Centaur
-Technology的CEO](../Page/Centaur_Technology.md "wikilink") Glenn
-Henry表示，Isaiah處理器的樣品已經大量出貨給客戶，預計5-6月份正式推出。Isaiah處理器將使用[富士通或](../Page/富士通.md "wikilink")[台積電的](../Page/台積電.md "wikilink")65nm製程技術生產，目前公司也在考慮使用45nm製程技術。VIA
+Isaiah/[以賽亞](../Page/以賽亞書.md "wikilink")）處理器是[VIA公司研發的](https://zh.wikipedia.org/wiki/VIA "wikilink")64位元處理器，VIA公司從2004年起即開始Isaiah處理器的研發工作，曾預定在2006年推出，但目前已被推遲到2008年。2008年3月，VIA旗下[Centaur
+Technology的CEO](https://zh.wikipedia.org/wiki/Centaur_Technology "wikilink")
+Glenn
+Henry表示，Isaiah處理器的樣品已經大量出貨給客戶，預計5-6月份正式推出。Isaiah處理器將使用[富士通或](../Page/富士通.md "wikilink")[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")65nm製程技術生產，目前公司也在考慮使用45nm製程技術。VIA
 Isaiah處理器的開發代號為**CN**。外界普遍認為，Isaiah處理器的對手是[Intel
-Atom處理器](../Page/Intel_Atom.md "wikilink")。但後者只採用顺序执行设计，理論上效能會比Isaiah差。為了彌補不足，Intel會為Atom處理器增加[超執行緒技術](../Page/超執行緒.md "wikilink")，並開發雙核心版本。
+Atom處理器](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。但後者只採用顺序执行设计，理論上效能會比Isaiah差。為了彌補不足，Intel會為Atom處理器增加[超執行緒技術](../Page/超執行緒.md "wikilink")，並開發雙核心版本。
 
 2008年5月尾，VIA正式發佈了Isaiah核心處理器，並命名為**VIA
 Nano（威盛凌珑）**處理器系列。官方稱Nano並不是用來取代C7處理器，而是其延伸。兩者的針腳是互相兼容的，廠商可以用較低的成本去升級產品。
 
-Isaiah處理器除了會應用在桌面市場外，亦會踏足嵌入式市场\[1\]。例如[新加坡航空公司的](../Page/新加坡航空公司.md "wikilink")[空中巴士A380](../Page/空中巴士A380.md "wikilink")，每个座位都會有一個嵌入式系統。硬體會採用Isaiah處理器，軟體會採用[Linux](../Page/Linux.md "wikilink")。\[2\]
+Isaiah處理器除了會應用在桌面市場外，亦會踏足嵌入式市场\[1\]。例如[新加坡航空公司的](https://zh.wikipedia.org/wiki/新加坡航空公司 "wikilink")[空中巴士A380](https://zh.wikipedia.org/wiki/空中巴士A380 "wikilink")，每个座位都會有一個嵌入式系統。硬體會採用Isaiah處理器，軟體會採用[Linux](../Page/Linux.md "wikilink")。\[2\]
 
-在2010年的[Computex上](../Page/Computex.md "wikilink")，VIA展示了Nano處理器的雙核心版。處理器製程暫為65nm（正式推出是40nm版本\[3\]），主频是1.6 GHz，最高可達2.0 GHz。其平台採用VN1000芯片组。平台支援雙通道[DDR3系統記憶體](../Page/DDR3.md "wikilink")，並集成了Chrome
+在2010年的[Computex上](https://zh.wikipedia.org/wiki/Computex "wikilink")，VIA展示了Nano處理器的雙核心版。處理器製程暫為65nm（正式推出是40nm版本\[3\]），主频是1.6 GHz，最高可達2.0 GHz。其平台採用VN1000芯片组。平台支援雙通道[DDR3系統記憶體](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，並集成了Chrome
 520顯示核心，支援[DirectX
-10.1](../Page/DirectX_10.1.md "wikilink")，支援硬體高清影片解碼（[Chromotion技術](../Page/Chromotion.md "wikilink")）\[4\]。
+10.1](https://zh.wikipedia.org/wiki/DirectX_10.1 "wikilink")，支援硬體高清影片解碼（[Chromotion技術](https://zh.wikipedia.org/wiki/Chromotion "wikilink")）\[4\]。
 
 ## Isaiah特性
 
@@ -25,14 +26,15 @@ Isaiah處理器除了會應用在桌面市場外，亦會踏足嵌入式市场\[
 
 [nano-logo_new.jpg](https://zh.wikipedia.org/wiki/File:nano-logo_new.jpg "fig:nano-logo_new.jpg")
 
-  - 800 MHz\~1333 MHz [FSB](../Page/FSB.md "wikilink")
-  - 具備9400萬顆[電晶體](../Page/電晶體.md "wikilink")
+  - 800 MHz\~1333 MHz
+    [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")
+  - 具備9400萬顆[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")
   - 64KB的L1指令與資料快取，1MB的16路L2快取
   - 核心大小為60mm/2
-  - 具備[x86](../Page/x86.md "wikilink")、[x86-64指令集](../Page/x86-64.md "wikilink")
+  - 具備[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64指令集](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
   - 內建[SSE](../Page/SSE.md "wikilink")
     128位元和[SSE3多媒體指令集](../Page/SSE3.md "wikilink")
-  - 支援[虛擬化技術](../Page/虛擬化技術.md "wikilink")（和[Intel的虛擬化技術相容](../Page/Intel.md "wikilink")）
+  - 支援[虛擬化技術](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")（和[Intel的虛擬化技術相容](https://zh.wikipedia.org/wiki/Intel "wikilink")）
   - 世界上速度最快的浮點運算器\[5\]
   - 時脈1GHz\~2 GHz
   - 電壓1v\~1.15v
@@ -43,35 +45,36 @@ Isaiah處理器除了會應用在桌面市場外，亦會踏足嵌入式市场\[
 ## 性能表現
 
 負責研發Isaiah處理器的，是VIA旗下的子公司－Centaur公司。公司總裁Glenn
-Henry表示，在相同時脈下，Isaiah處理器的效能，是現時[C7處理器的](../Page/C7處理器.md "wikilink")2-4倍，功耗與C7處理器相近，最大功耗介乎3-5w。Henry也表示，他認為拿功耗換取性能表現並不是一個好主意，VIA的思維是從穩定功耗，與時脈兩方面著手提升效能表現。至於Isaiah的具體型號與時脈，Henry則沒有表示意見，只透露單核心的時脈最高到2GHz，VIA目前不會瘋狂提高處理器時脈，也不會特意開發雙核心版本的Isaiah處理器，但Isaiah處理器架構有能力達成這個目標。
+Henry表示，在相同時脈下，Isaiah處理器的效能，是現時[C7處理器的](https://zh.wikipedia.org/wiki/C7處理器 "wikilink")2-4倍，功耗與C7處理器相近，最大功耗介乎3-5w。Henry也表示，他認為拿功耗換取性能表現並不是一個好主意，VIA的思維是從穩定功耗，與時脈兩方面著手提升效能表現。至於Isaiah的具體型號與時脈，Henry則沒有表示意見，只透露單核心的時脈最高到2GHz，VIA目前不會瘋狂提高處理器時脈，也不會特意開發雙核心版本的Isaiah處理器，但Isaiah處理器架構有能力達成這個目標。
 
 目前試產出來的1.2GHz和1.4GHz的Isaiah處理器樣品，均可順暢播放720p的DVD電影。
 
-在[PC Mark](../Page/PC_Mark.md "wikilink")05這款測試軟體中，Nano的表現比[Intel
-Atom差](../Page/Intel_Atom.md "wikilink")。但由於VIA
-Nano可以隨意更改[CPUID](../Page/CPUID.md "wikilink")，使之模擬成Intel或者[AMD的CPU](../Page/AMD.md "wikilink")。有網站將Nano模擬成成不同廠商的產品，當改變CPUID「變成」AMD的產品後，內存項目的子分數提高了9.1％。而CPUID更改為Intel後，更高了47.5％，超越了Intel
+在[PC
+Mark](https://zh.wikipedia.org/wiki/PC_Mark "wikilink")05這款測試軟體中，Nano的表現比[Intel
+Atom差](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。但由於VIA
+Nano可以隨意更改[CPUID](https://zh.wikipedia.org/wiki/CPUID "wikilink")，使之模擬成Intel或者[AMD的CPU](https://zh.wikipedia.org/wiki/AMD "wikilink")。有網站將Nano模擬成成不同廠商的產品，當改變CPUID「變成」AMD的產品後，內存項目的子分數提高了9.1％。而CPUID更改為Intel後，更高了47.5％，超越了Intel
 Atom處理器的得分。\[6\]
 
 ## 未來發展
 
-有消息指出威盛正和[台積電進行會談](../Page/台積電.md "wikilink")，希望台積電能夠從2009年上半年開始量產40 nm製程的Isaiah雙核心處理器，不過威盛宣稱目前還在評估各家晶圓代工廠的價格、技術和服務，不方便作出任何評論與意見。目前65 nm製程的單核心Isaiah處理器、90nm製程的C7處理器，都採用[富士通的](../Page/富士通.md "wikilink")65nm與90 nm的**bulk
+有消息指出威盛正和[台積電進行會談](https://zh.wikipedia.org/wiki/台積電 "wikilink")，希望台積電能夠從2009年上半年開始量產40 nm製程的Isaiah雙核心處理器，不過威盛宣稱目前還在評估各家晶圓代工廠的價格、技術和服務，不方便作出任何評論與意見。目前65 nm製程的單核心Isaiah處理器、90nm製程的C7處理器，都採用[富士通的](../Page/富士通.md "wikilink")65nm與90 nm的**bulk
 logic**製程技術。威盛將可能是台積電第一家使用40 nm製程技術的台灣廠商客戶。
 
 ## 具體改進
 
-除了功耗穩定、效能提升外，Isaiah最大的改變就是引入[超純量](../Page/超純量.md "wikilink")[亂序執行架構](../Page/亂序執行.md "wikilink")，是自[VIA
+除了功耗穩定、效能提升外，Isaiah最大的改變就是引入[超純量](../Page/超純量.md "wikilink")[亂序執行架構](https://zh.wikipedia.org/wiki/亂序執行 "wikilink")，是自[VIA
 C3處理器採用順序執行架構以來的最大改變](../Page/VIA_C3.md "wikilink")。快取方面則有64KB x
-2的L1[快取和](../Page/快取.md "wikilink")16路1MB的L2快取，但L1快取與L2快取是相互獨立的，也就是說相關或相同的資料不會同時出現在L1或L2快取中。考慮到以往的C7處理器貧弱的多媒體和浮點運算處理能力，VIA也在此作出改進。Isaiah處理器可以在2個時脈周期內執行兩個雙精度浮點運算，而一般處理器需要4個時脈周期，而Intel最新的[Core
-2架構則需要](../Page/Core_2.md "wikilink")3個時脈周期。
+2的L1[快取和](https://zh.wikipedia.org/wiki/快取 "wikilink")16路1MB的L2快取，但L1快取與L2快取是相互獨立的，也就是說相關或相同的資料不會同時出現在L1或L2快取中。考慮到以往的C7處理器貧弱的多媒體和浮點運算處理能力，VIA也在此作出改進。Isaiah處理器可以在2個時脈周期內執行兩個雙精度浮點運算，而一般處理器需要4個時脈周期，而Intel最新的[Core
+2架構則需要](https://zh.wikipedia.org/wiki/Core_2 "wikilink")3個時脈周期。
 
-Isaiah處理器亦支援新的C6節能模式，可以關閉整個快取並搭配[PowerSaver電源管理功能](../Page/PowerSaver.md "wikilink")，來達到降低功耗的目的。另外搭配Twin
+Isaiah處理器亦支援新的C6節能模式，可以關閉整個快取並搭配[PowerSaver電源管理功能](https://zh.wikipedia.org/wiki/PowerSaver "wikilink")，來達到降低功耗的目的。另外搭配Twin
 Turbo Dual-PLL技術可以在一個時脈周期內變換不同的時脈，並降低因時脈切換帶來的延遲，並使用新的機械管理裝置，降低處理器核心的發熱量。
 
 Isaiah處理器的改進大略如下：
 
   - 高效能的[前端总线](../Page/前端总线.md "wikilink")（**FSB**,**F**ront **S**ide
     **B**us）
-  - 重新設計的[浮点运算器](../Page/浮点运算器.md "wikilink")（**FPU**,**F**loating
+  - 重新設計的[浮点运算器](https://zh.wikipedia.org/wiki/浮点运算器 "wikilink")（**FPU**,**F**loating
     **P**oint **U**nit）
   - 更大的快取空間
   - 高速傳輸架構
@@ -80,9 +83,10 @@ Isaiah處理器的改進大略如下：
 ## 支援晶片組
 
 除了可以搭配自家的VIA
-VX800晶片組外，[NVIDIA亦宣佈會和VIA合作](../Page/NVIDIA.md "wikilink")，推出整合式平台。\[7\]這個平台支援Vista
+VX800晶片組外，[NVIDIA亦宣佈會和VIA合作](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，推出整合式平台。\[7\]這個平台支援Vista
 Premium，高清晰影片硬體解碼，以及[DirectX](../Page/DirectX.md "wikilink")
-10。預計對手是[Intel Atom平台](../Page/Intel_Atom.md "wikilink")。
+10。預計對手是[Intel
+Atom平台](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。
 
 在2010年，VIA推出了VX855晶片組。這是一款單芯片晶片組\[8\]。除了可以支援Nano處理器外，還可以支援C7和Eden形號。與對手Intel的945GSE晶片組相比，可以支援硬體高清影片解碼。
 
@@ -95,14 +99,14 @@ Premium，高清晰影片硬體解碼，以及[DirectX](../Page/DirectX.md "wiki
 
   - [威盛電子](../Page/威盛電子.md "wikilink")
   - [S3 Graphics](../Page/S3_Graphics.md "wikilink")
-  - [VIA Envy](../Page/VIA_Envy.md "wikilink")
+  - [VIA Envy](https://zh.wikipedia.org/wiki/VIA_Envy "wikilink")
   - [VIA C3](../Page/VIA_C3.md "wikilink")
-  - [VIA C3-M](../Page/VIA_C3-M.md "wikilink")
+  - [VIA C3-M](https://zh.wikipedia.org/wiki/VIA_C3-M "wikilink")
   - [VIA CoreFusion](../Page/VIA_CoreFusion.md "wikilink")
   - [VIA Eden](../Page/VIA_Eden.md "wikilink")
   - [VIA C7-D](../Page/VIA_C7-D.md "wikilink")
   - [VIA C7-M](../Page/VIA_C7-M.md "wikilink")
-  - [VIA PV530](../Page/VIA_PV530.md "wikilink")
+  - [VIA PV530](https://zh.wikipedia.org/wiki/VIA_PV530 "wikilink")
 
 ## 外部連結
 

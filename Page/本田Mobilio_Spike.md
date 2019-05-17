@@ -1,15 +1,16 @@
 **本田Mobilio
-Spike**（）是[日本](../Page/日本.md "wikilink")[本田技研工業開發製造的廂式](../Page/本田技研工業.md "wikilink")[緊湊型轎車](../Page/緊湊型轎車.md "wikilink")。
+Spike**（）是[日本](../Page/日本.md "wikilink")[本田技研工業開發製造的廂式](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")。
 
 ## 風格·構造
 
 ### 動力配置
 
-L15A發動機1496cc SOHC VTEC(110ps)，配七速[CVT變速器](../Page/CVT.md "wikilink")。
+L15A發動機1496cc SOHC
+VTEC(110ps)，配七速[CVT變速器](https://zh.wikipedia.org/wiki/CVT "wikilink")。
 
 ### 底盤
 
-使用與[本田Mobilio相同的底盤](../Page/本田Mobilio.md "wikilink")，燃料缸配置於前座位下。
+使用與[本田Mobilio相同的底盤](https://zh.wikipedia.org/wiki/本田Mobilio "wikilink")，燃料缸配置於前座位下。
 
 ### 內部設計
 

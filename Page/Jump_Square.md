@@ -18,12 +18,12 @@ SQ》創刊號的部數是50萬部，實際販售率在首都圈為9成、全國
 SQ》的編輯長。2008年，茨木政彥把《WJ》的編輯長之位讓給佐佐木尚，自己成為《Jump
 SQ》的專職編輯長。
 
-除了[少年漫畫](../Page/少年漫畫.md "wikilink")，《Jump
-SQ》還刊載[少女漫畫](../Page/少女漫畫.md "wikilink")、[青年漫畫](../Page/青年漫畫.md "wikilink")、動畫或小說的[漫畫化漫畫](../Page/漫畫化.md "wikilink")、[隨筆作品](../Page/雜文.md "wikilink")、[小說等](../Page/小說.md "wikilink")，是一本綜合型雜誌。但是單行本的標誌是[Jump
-Comics](../Page/Jump_Comics.md "wikilink")。
+除了[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，《Jump
+SQ》還刊載[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")、[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")、動畫或小說的[漫畫化漫畫](https://zh.wikipedia.org/wiki/漫畫化 "wikilink")、[隨筆作品](https://zh.wikipedia.org/wiki/雜文 "wikilink")、[小說等](https://zh.wikipedia.org/wiki/小說 "wikilink")，是一本綜合型雜誌。但是單行本的標誌是[Jump
+Comics](https://zh.wikipedia.org/wiki/Jump_Comics "wikilink")。
 
 《Jump
-SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikilink")、[恐怖主義](../Page/恐怖主義.md "wikilink")、悽慘的[暴力描寫等衝擊性很強的作品](../Page/暴力.md "wikilink")。
+SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/社會問題 "wikilink")、[恐怖主義](https://zh.wikipedia.org/wiki/恐怖主義 "wikilink")、悽慘的[暴力描寫等衝擊性很強的作品](../Page/暴力.md "wikilink")。
 
 和《WJ》不同，《Jump SQ》的連載作品即使因為人氣低而停止連載，會有在Web連載再開的特別措施。
 
@@ -86,7 +86,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="odd">
 <td><p>04</p></td>
 <td><p><a href="../Page/信蜂.md" title="wikilink">信蜂</a></p></td>
-<td><p><a href="../Page/淺田弘幸.md" title="wikilink">淺田弘幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/淺田弘幸" title="wikilink">淺田弘幸</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.12</p></td>
 <td><p>2015.12</p></td>
@@ -114,7 +114,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>07</p></td>
 <td></td>
 <td><p>（作畫）</p></td>
-<td><p><a href="../Page/ufotable.md" title="wikilink">ufotable</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ufotable" title="wikilink">ufotable</a>（原作）</p></td>
 <td><p>2007.12</p></td>
 <td><p>2008.03</p></td>
 <td><p>→Web連載</p></td>
@@ -161,14 +161,14 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>12</p></td>
 <td><p><a href="../Page/純真傳奇.md" title="wikilink">純真傳奇</a></p></td>
 <td><p>海童博行（作畫）</p></td>
-<td><p><a href="../Page/NAMCO_BANDAI_Games.md" title="wikilink">B.N.G.</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games" title="wikilink">B.N.G.</a>（原作）</p></td>
 <td><p>2007.12</p></td>
 <td><p>2008.06</p></td>
 <td><p>→Web連載</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p><a href="../Page/龍鳴.md" title="wikilink">龍鳴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龍鳴" title="wikilink">龍鳴</a></p></td>
 <td><p>木下聰志（作畫）</p></td>
 <td><p><a href="../Page/日本AD_SYSTEMS.md" title="wikilink">NAS</a>（原作）</p></td>
 <td><p>2007.12</p></td>
@@ -178,7 +178,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="odd">
 <td><p>14</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/藤子不二雄A.md" title="wikilink">藤子不二雄Ⓐ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤子不二雄A" title="wikilink">藤子不二雄Ⓐ</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.12</p></td>
 <td><p>連載中</p></td>
@@ -187,7 +187,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>15</p></td>
 <td></td>
-<td><p><a href="../Page/片倉政憲.md" title="wikilink">片倉·狼組·政憲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/片倉政憲" title="wikilink">片倉·狼組·政憲</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.12</p></td>
 <td><p>2008.11</p></td>
@@ -231,7 +231,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="../Page/屍鬼.md" title="wikilink">屍鬼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屍鬼" title="wikilink">屍鬼</a></p></td>
 <td><p><a href="../Page/藤崎龍.md" title="wikilink">藤崎龍</a>（作畫）</p></td>
 <td><p><a href="../Page/小野不由美.md" title="wikilink">小野不由美</a>（原作）</p></td>
 <td><p>2008.01</p></td>
@@ -313,7 +313,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>27</p></td>
 <td><p><a href="../Page/血界戰線.md" title="wikilink">血界戰線－魔封街結社－</a></p></td>
-<td><p><a href="../Page/內藤泰弘.md" title="wikilink">內藤泰弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內藤泰弘" title="wikilink">內藤泰弘</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.02</p></td>
 <td><p>2009.04</p></td>
@@ -357,7 +357,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p><a href="../Page/Dust_to_Dust.md" title="wikilink">Dust to Dust</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dust_to_Dust" title="wikilink">Dust to Dust</a></p></td>
 <td><p>一色登希彥</p></td>
 <td><p>－</p></td>
 <td><p>2009.10</p></td>
@@ -376,7 +376,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="odd">
 <td><p>34</p></td>
 <td><p><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a></p></td>
-<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.12</p></td>
 <td><p>2013.02</p></td>
@@ -412,7 +412,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
-<td><p><a href="../Page/嬌蠻貓娘大橫行.md" title="wikilink">嬌蠻貓娘大橫行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/嬌蠻貓娘大橫行" title="wikilink">嬌蠻貓娘大橫行</a></p></td>
 <td><p><a href="../Page/矢吹健太朗.md" title="wikilink">矢吹健太朗</a>（作畫）</p></td>
 <td><p><a href="../Page/松智洋.md" title="wikilink">松智洋</a>（原作）<br />
 （角色設定）</p></td>
@@ -422,9 +422,9 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><a href="../Page/戰國BASARA.md" title="wikilink">戰國BASARA3 -ROAR OF DRAGON-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰國BASARA" title="wikilink">戰國BASARA3 -ROAR OF DRAGON-</a></p></td>
 <td><p>大賀淺木（作畫）</p></td>
-<td><p><a href="../Page/CAPCOM.md" title="wikilink">CAPCOM</a>（監修、協力）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CAPCOM" title="wikilink">CAPCOM</a>（監修、協力）</p></td>
 <td><p>2010.03</p></td>
 <td><p>2010.12</p></td>
 <td><p>→單行本</p></td>
@@ -481,7 +481,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>－</p></td>
 <td><p>2011.02</p></td>
 <td><p>2011.10</p></td>
-<td><p>→《》（<a href="../Page/新潮社.md" title="wikilink">新潮社</a>）</p></td>
+<td><p>→《》（<a href="https://zh.wikipedia.org/wiki/新潮社" title="wikilink">新潮社</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>44</p></td>
@@ -566,7 +566,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>52</p></td>
-<td><p><a href="../Page/帝一之國.md" title="wikilink">帝一之國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/帝一之國" title="wikilink">帝一之國</a></p></td>
 <td><p><a href="../Page/古屋兔丸.md" title="wikilink">古屋兔丸</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.03</p></td>
@@ -584,7 +584,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>54</p></td>
-<td><p><a href="../Page/夢想商城.md" title="wikilink">夢想商城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢想商城" title="wikilink">夢想商城</a></p></td>
 <td><p>櫻井春樹</p></td>
 <td><p>－</p></td>
 <td><p>2012.04</p></td>
@@ -593,7 +593,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>55</p></td>
-<td><p><a href="../Page/我們仍未知道那天所看見的花名。.md" title="wikilink">我們仍未知道那天所看見的花名。</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花名。" title="wikilink">我們仍未知道那天所看見的花名。</a></p></td>
 <td><p>泉光（作畫）</p></td>
 <td><p>超和平Busters（原作）</p></td>
 <td><p>2012.05</p></td>
@@ -651,7 +651,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p><strong><a href="../Page/終結的熾天使.md" title="wikilink">終結的熾天使</a></strong></p></td>
 <td><p><a href="../Page/山本大和.md" title="wikilink">山本大和</a>（作畫）<br />
 降矢大輔（分鏡構成）</p></td>
-<td><p><a href="../Page/鏡貴也.md" title="wikilink">鏡貴也</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鏡貴也" title="wikilink">鏡貴也</a>（原作）</p></td>
 <td><p>2012.10</p></td>
 <td><p>連載中</p></td>
 <td></td>
@@ -660,7 +660,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>62</p></td>
 <td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">監視官 常守朱</a></p></td>
 <td><p>三好輝（作畫）</p></td>
-<td><p><a href="../Page/製作委員會.md" title="wikilink">心靈判官製作委員會</a>（原作）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/製作委員會" title="wikilink">心靈判官製作委員會</a>（原作）<br />
 <a href="../Page/天野明.md" title="wikilink">天野明</a>（角色原案）<br />
 <a href="../Page/虛淵玄.md" title="wikilink">虛淵玄</a>（故事原案）</p></td>
 <td><p>2012.12</p></td>
@@ -696,7 +696,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>65</p></td>
-<td><p><a href="../Page/γ－伽馬－_地球防衞軍諮商課.md" title="wikilink">-{zh-cn:γ－伽马－;zh-hk:γ-GAMMA- 地球防衛軍輔導課;zh-tw:γ－伽馬－ 地球防衞軍諮商課;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/γ－伽馬－_地球防衞軍諮商課" title="wikilink">-{zh-cn:γ－伽马－;zh-hk:γ-GAMMA- 地球防衛軍輔導課;zh-tw:γ－伽馬－ 地球防衞軍諮商課;}-</a></p></td>
 <td><p>荻野純</p></td>
 <td><p>－</p></td>
 <td><p>2013.04</p></td>
@@ -707,14 +707,14 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>66</p></td>
 <td></td>
 <td><p><a href="../Page/河下水希.md" title="wikilink">河下水希</a>（作畫）</p></td>
-<td><p><a href="../Page/大崎知仁.md" title="wikilink">大崎知仁</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大崎知仁" title="wikilink">大崎知仁</a>（原作）</p></td>
 <td><p>2013.06</p></td>
 <td><p>2015.01</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>67</p></td>
-<td><p><a href="../Page/FANTASMA_黑手黨魔王.md" title="wikilink">FANTASMA 黑手黨魔王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FANTASMA_黑手黨魔王" title="wikilink">FANTASMA 黑手黨魔王</a></p></td>
 <td><p>賀來友治</p></td>
 <td><p>－</p></td>
 <td><p>2013.08</p></td>
@@ -831,7 +831,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>78</p></td>
-<td><p><a href="../Page/千早同學這樣就好.md" title="wikilink">千早同學這樣就好</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千早同學這樣就好" title="wikilink">千早同學這樣就好</a></p></td>
 <td><p>くずしろ</p></td>
 <td><p>－</p></td>
 <td><p>2015.01</p></td>
@@ -869,9 +869,9 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>82</p></td>
 <td><p><a href="../Page/終結的熾天使.md" title="wikilink">Serapuchi!～終結的熾天使4格漫篇～</a></p></td>
 <td><p>（作畫）</p></td>
-<td><p><a href="../Page/鏡貴也.md" title="wikilink">鏡貴也</a>、<a href="../Page/山本大和.md" title="wikilink">山本大和</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鏡貴也" title="wikilink">鏡貴也</a>、<a href="../Page/山本大和.md" title="wikilink">山本大和</a>、<br />
 降矢大輔（原案、監修）<br />
-<a href="../Page/製作委員會.md" title="wikilink">終結的熾天使製作委員會</a>（協力）</p></td>
+<a href="https://zh.wikipedia.org/wiki/製作委員會" title="wikilink">終結的熾天使製作委員會</a>（協力）</p></td>
 <td><p>2015.05</p></td>
 <td><p>2016.01</p></td>
 <td><p>←《SQ.19》<br />
@@ -952,7 +952,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>90</p></td>
 <td></td>
-<td><p><a href="../Page/曉月明.md" title="wikilink">曉月明</a>（作畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曉月明" title="wikilink">曉月明</a>（作畫）</p></td>
 <td><p><a href="../Page/西尾維新.md" title="wikilink">西尾維新</a>（原作）</p></td>
 <td><p>2016.02</p></td>
 <td><p>2017.05</p></td>
@@ -1046,7 +1046,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p><a href="../Page/刀劍亂舞.md" title="wikilink">活擊 刀劍亂舞</a></p></td>
 <td><p>津田穗波（作畫）</p></td>
 <td><p>「<a href="../Page/刀劍亂舞.md" title="wikilink">刀劍亂舞 -ONLINE-</a>」<br />
-<small>（<a href="../Page/DMM.com.md" title="wikilink">DMM GAMES</a>／<a href="../Page/Nitroplus.md" title="wikilink">Nitroplus</a>）</small>（原案）</p></td>
+<small>（<a href="../Page/DMM.com.md" title="wikilink">DMM GAMES</a>／<a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a>）</small>（原案）</p></td>
 <td><p>2017.08</p></td>
 <td><p>2018.01</p></td>
 <td><p>→Web連載</p></td>
@@ -1054,7 +1054,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="odd">
 <td><p>100</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/黑羽.md" title="wikilink">黑羽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑羽" title="wikilink">黑羽</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.08</p></td>
 <td><p>連載中</p></td>
@@ -1080,7 +1080,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>103</p></td>
-<td><p><a href="../Page/童話魔法使.md" title="wikilink">童話魔法使</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/童話魔法使" title="wikilink">童話魔法使</a></p></td>
 <td><p>中村尚儁（分鏡構成）<br />
 山縣清繼（作畫）</p></td>
 <td><p><a href="../Page/松智洋.md" title="wikilink">松智洋</a>／StoryWorks（原作）<br />
@@ -1156,7 +1156,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>110</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/曉月明.md" title="wikilink">曉月明</a>（作畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曉月明" title="wikilink">曉月明</a>（作畫）</p></td>
 <td><p>酒井敦朗（原作）</p></td>
 <td><p>2018.12</p></td>
 <td><p>連載中</p></td>
@@ -1173,7 +1173,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>111</p></td>
-<td><p>'''<a href="../Page/星空色的少女心.md" title="wikilink">星空色的少女心</a> '''</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/星空色的少女心" title="wikilink">星空色的少女心</a> '''</p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2019.01</p></td>
@@ -1228,8 +1228,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tbody>
 <tr class="odd">
 <td><p>01</p></td>
-<td><p><a href="../Page/魔砲使黑姬.md" title="wikilink">魔砲使黑姬</a></p></td>
-<td><p><a href="../Page/片倉政憲.md" title="wikilink">片倉·狼組·政憲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔砲使黑姬" title="wikilink">魔砲使黑姬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/片倉政憲" title="wikilink">片倉·狼組·政憲</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.12</p></td>
 <td><p>2011.02</p></td>
@@ -1238,8 +1238,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>02</p></td>
 <td><p><a href="../Page/純真傳奇.md" title="wikilink">純真傳奇</a></p></td>
-<td><p><a href="../Page/海童博行.md" title="wikilink">海童博行</a>（作畫）</p></td>
-<td><p><a href="../Page/NAMCO_BANDAI_Games.md" title="wikilink">B.N.G.</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海童博行" title="wikilink">海童博行</a>（作畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games" title="wikilink">B.N.G.</a>（原作）</p></td>
 <td><p>2008.06</p></td>
 <td><p>2008.09</p></td>
 <td><p>←本誌</p></td>
@@ -1257,7 +1257,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p>04</p></td>
 <td></td>
 <td><p>（作畫）</p></td>
-<td><p><a href="../Page/ufotable.md" title="wikilink">ufotable</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ufotable" title="wikilink">ufotable</a>（原作）</p></td>
 <td><p>2008.11</p></td>
 <td><p>2009.09</p></td>
 <td><p>←本誌</p></td>
@@ -1265,7 +1265,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="odd">
 <td><p>05</p></td>
 <td></td>
-<td><p><a href="../Page/服部昇大.md" title="wikilink">服部昇大</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服部昇大" title="wikilink">服部昇大</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.06</p></td>
 <td><p>2009.09</p></td>
@@ -1273,8 +1273,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>06</p></td>
-<td><p><a href="../Page/反派的堅持.md" title="wikilink">反派的堅持</a></p></td>
-<td><p><a href="../Page/服部昇大.md" title="wikilink">服部昇大</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/反派的堅持" title="wikilink">反派的堅持</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服部昇大" title="wikilink">服部昇大</a></p></td>
 <td><p>－</p></td>
 <td><p>2011.09</p></td>
 <td><p>2012.02</p></td>
@@ -1282,8 +1282,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="odd">
 <td><p>07</p></td>
-<td><p><a href="../Page/戰國名將AGRIPPA.md" title="wikilink">戰國名將AGRIPPA</a></p></td>
-<td><p><a href="../Page/內水融.md" title="wikilink">內水融</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰國名將AGRIPPA" title="wikilink">戰國名將AGRIPPA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內水融" title="wikilink">內水融</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.11</p></td>
 <td><p>2013.02</p></td>
@@ -1292,8 +1292,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tr class="even">
 <td><p>08</p></td>
 <td><p><a href="../Page/PSYCHO-PASS.md" title="wikilink">監視官 常守朱</a></p></td>
-<td><p><a href="../Page/三好輝.md" title="wikilink">三好輝</a>（作畫）</p></td>
-<td><p><a href="../Page/製作委員會.md" title="wikilink">心靈判官製作委員會</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三好輝" title="wikilink">三好輝</a>（作畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/製作委員會" title="wikilink">心靈判官製作委員會</a>（原作）</p></td>
 <td><p>2013.06</p></td>
 <td><p>2014.12</p></td>
 <td><p>←本誌</p></td>
@@ -1321,7 +1321,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p><strong><a href="../Page/刀劍亂舞.md" title="wikilink">活擊 刀劍亂舞</a></strong></p></td>
 <td><p>津田穗波（作畫）</p></td>
 <td><p>「<a href="../Page/刀劍亂舞.md" title="wikilink">刀劍亂舞 -ONLINE-</a>」<br />
-<small>（<a href="../Page/DMM.com.md" title="wikilink">DMM GAMES</a>／<a href="../Page/Nitroplus.md" title="wikilink">Nitroplus</a>）</small>（原案）</p></td>
+<small>（<a href="../Page/DMM.com.md" title="wikilink">DMM GAMES</a>／<a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a>）</small>（原案）</p></td>
 <td><p>2018.01</p></td>
 <td><p>連載中</p></td>
 <td><p>←本誌</p></td>
@@ -1347,8 +1347,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <tbody>
 <tr class="odd">
 <td><p>01</p></td>
-<td><p><a href="../Page/3年Z組銀八先生.md" title="wikilink">3年Z組銀八先生</a></p></td>
-<td><p><a href="../Page/大崎知仁.md" title="wikilink">大崎知仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/3年Z組銀八先生" title="wikilink">3年Z組銀八先生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大崎知仁" title="wikilink">大崎知仁</a></p></td>
 <td><p><a href="../Page/空知英秋.md" title="wikilink">空知英秋</a></p></td>
 <td><p><a href="../Page/日昇動畫.md" title="wikilink">Sunrise</a></p></td>
 <td><p>2007.12</p></td>
@@ -1357,8 +1357,8 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 </tr>
 <tr class="even">
 <td><p>02</p></td>
-<td><p><a href="../Page/家庭教師HITMAN_REBORN!#小說.md" title="wikilink">家庭教師HITMAN REBORN! 隱藏彈</a></p></td>
-<td><p><a href="../Page/子安秀明.md" title="wikilink">子安秀明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN!#小說" title="wikilink">家庭教師HITMAN REBORN! 隱藏彈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/子安秀明" title="wikilink">子安秀明</a></p></td>
 <td><p><a href="../Page/天野明.md" title="wikilink">天野明</a></p></td>
 <td><p><a href="../Page/天野明.md" title="wikilink">天野明</a></p></td>
 <td><p>2008.06</p></td>
@@ -1370,7 +1370,7 @@ SQ》編輯的規制較鬆，會有[社會問題](../Page/社會問題.md "wikil
 <td><p><a href="../Page/便·當.md" title="wikilink">便·當 零食版</a></p></td>
 <td><p><a href="../Page/朝浦.md" title="wikilink">朝浦</a></p></td>
 <td><p><a href="../Page/朝浦.md" title="wikilink">朝浦</a></p></td>
-<td><p><a href="../Page/柴乃櫂人.md" title="wikilink">柴乃櫂人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柴乃櫂人" title="wikilink">柴乃櫂人</a></p></td>
 <td><p>2011.05/06</p></td>
 <td><p>2011.10</p></td>
 <td></td>

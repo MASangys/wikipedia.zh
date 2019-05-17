@@ -1,26 +1,32 @@
-**SSSE3**是[Intel命名的](../Page/Intel.md "wikilink")[SSE3指令集的擴充](../Page/SSE3.md "wikilink")，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4的定義容易被混淆](../Page/SSE4.md "wikilink")。在公開Intel的Core微架構的時候，SSSE3出現在Xeon
+**SSSE3**是[Intel命名的](https://zh.wikipedia.org/wiki/Intel "wikilink")[SSE3指令集的擴充](../Page/SSE3.md "wikilink")，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4的定義容易被混淆](https://zh.wikipedia.org/wiki/SSE4 "wikilink")。在公開Intel的Core微架構的時候，SSSE3出現在Xeon
 5100與Intel Core 2行動版與桌上型處理器上。
 
 SSSE3包含了16個新的不同於SSE3的指令。每一個都能夠運作於64位元的MMX暫存器或是128位元XMM暫存器之中。因此，有些Intel的文件表示有32個新指令。之前的SIMD指令由舊排到新依序是[MMX](../Page/MMX.md "wikilink")、[3DNow\!](../Page/3DNow!.md "wikilink")（AMD開發的）、[SSE](../Page/SSE.md "wikilink")、[3DNow\!
-Professional](../Page/3DNow!_Professional.md "wikilink")、[SSE2與](../Page/SSE2.md "wikilink")[SSE3](../Page/SSE3.md "wikilink")。
+Professional](https://zh.wikipedia.org/wiki/3DNow!_Professional "wikilink")、[SSE2與](../Page/SSE2.md "wikilink")[SSE3](../Page/SSE3.md "wikilink")。
 
 ## 支援SSSE3指令集的處理器
 
-  - [Intel](../Page/Intel.md "wikilink")：
-      - [Xeon](../Page/Xeon.md "wikilink") 5100系列
-      - [Xeon](../Page/Xeon.md "wikilink") 5300系列
-      - [Xeon](../Page/Xeon.md "wikilink") 3000系列
-      - [Core 2 Duo](../Page/Core_2_Duo.md "wikilink")
-      - [Core 2 Extreme](../Page/Core_2_Extreme.md "wikilink")
-      - [Core 2 Quad](../Page/Core_2_Quad.md "wikilink")
-      - [Core i7](../Page/Core_i7.md "wikilink")
-      - [Pentium Dual-Core](../Page/Pentium_Dual-Core.md "wikilink")
-      - [Celeron 4xx的Conroe-L](../Page/Celeron#Core架構.md "wikilink")
+  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")：
+      - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 5100系列
+      - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 5300系列
+      - [Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") 3000系列
+      - [Core 2
+        Duo](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")
+      - [Core 2
+        Extreme](https://zh.wikipedia.org/wiki/Core_2_Extreme "wikilink")
+      - [Core 2
+        Quad](https://zh.wikipedia.org/wiki/Core_2_Quad "wikilink")
+      - [Core i7](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")
+      - [Pentium
+        Dual-Core](https://zh.wikipedia.org/wiki/Pentium_Dual-Core "wikilink")
+      - [Celeron
+        4xx的Conroe-L](https://zh.wikipedia.org/wiki/Celeron#Core架構 "wikilink")
       - [Celeron Dual
-        Core系列](../Page/Celeron_M#Celeron_Dual-Core_\(Core\).md "wikilink")
-      - [Celeron M 500系列](../Page/Celeron_M#Merom-1024.md "wikilink")
-      - [Atom](../Page/Intel_Atom.md "wikilink")
-  - [AMD](../Page/AMD.md "wikilink")
+        Core系列](https://zh.wikipedia.org/wiki/Celeron_M#Celeron_Dual-Core_\(Core\) "wikilink")
+      - [Celeron M
+        500系列](https://zh.wikipedia.org/wiki/Celeron_M#Merom-1024 "wikilink")
+      - [Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")
+  - [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
       - [AMD Bulldozer](../Page/AMD_Bulldozer.md "wikilink")
   - [VIA](../Page/威盛電子.md "wikilink")：
       - [Nano](../Page/VIA_Nano.md "wikilink")
@@ -45,17 +51,18 @@ word）的簡寫），任取有號整數X，如果X小於-32768時就代表-3276
 
 ## 參見
 
-  - [SSE](../Page/Streaming_SIMD_Extensions.md "wikilink")
+  - [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
   - [SSE2](../Page/SSE2.md "wikilink")
   - [SSE3](../Page/SSE3.md "wikilink")
-  - [SSE4](../Page/SSE4.md "wikilink")
-  - [SSE4A](../Page/SSE4A.md "wikilink")
-  - [SSE5](../Page/SSE5.md "wikilink")
-  - [AVX](../Page/AVX指令集.md "wikilink")
-  - [FMA](../Page/熔合乘法累积.md "wikilink")
-  - [SIMD](../Page/SIMD.md "wikilink")
+  - [SSE4](https://zh.wikipedia.org/wiki/SSE4 "wikilink")
+  - [SSE4A](https://zh.wikipedia.org/wiki/SSE4A "wikilink")
+  - [SSE5](https://zh.wikipedia.org/wiki/SSE5 "wikilink")
+  - [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")
+  - [FMA](https://zh.wikipedia.org/wiki/熔合乘法累积 "wikilink")
+  - [SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")
   - [3DNow\! Professional](../Page/3DNow!.md "wikilink")
-  - [Intel Core 2](../Page/Intel_Core_2.md "wikilink")
+  - [Intel Core
+    2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
 
 ## 外部連結
 

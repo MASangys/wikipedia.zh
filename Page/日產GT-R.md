@@ -1,23 +1,23 @@
-**GT-R**，是[日產汽車品牌下的一款](../Page/日產汽車.md "wikilink")[高性能汽車](../Page/跑車.md "wikilink")。日產GT-R於2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")。\[1\]\[2\]\[3\]該款跑車在2013年9月30日於[德国](../Page/德国.md "wikilink")[莱茵兰-普法尔茨州的](../Page/莱茵兰-普法尔茨州.md "wikilink")[纽博格林赛道由車手Michael](../Page/纽博格林赛道.md "wikilink")
-Krumm做出7分8秒679的成績，名列第10，比另一款日系高性能跑車[雷克萨斯LFA的成績更好](../Page/雷克萨斯LFA.md "wikilink")，是日系高性能跑車在該赛道做出的最佳成绩，GT-R曾經被認為是全球最快的8款跑車之一。
+**GT-R**，是[日產汽車品牌下的一款](../Page/日產汽車.md "wikilink")[高性能汽車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。日產GT-R於2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")。\[1\]\[2\]\[3\]該款跑車在2013年9月30日於[德国](../Page/德国.md "wikilink")[莱茵兰-普法尔茨州的](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")[纽博格林赛道由車手Michael](../Page/纽博格林赛道.md "wikilink")
+Krumm做出7分8秒679的成績，名列第10，比另一款日系高性能跑車[雷克萨斯LFA的成績更好](https://zh.wikipedia.org/wiki/雷克萨斯LFA "wikilink")，是日系高性能跑車在該赛道做出的最佳成绩，GT-R曾經被認為是全球最快的8款跑車之一。
 
 ## 特徵
 
 [2018-03-06_Geneva_Motor_Show_2415.JPG](https://zh.wikipedia.org/wiki/File:2018-03-06_Geneva_Motor_Show_2415.JPG "fig:2018-03-06_Geneva_Motor_Show_2415.JPG")上的日產GT-R\]\]
 
-新一代日產GT-R脫離[日產Skyline車系](../Page/日產Skyline.md "wikilink")，成為[日產汽車旗下一個新的獨立車系](../Page/日產汽車.md "wikilink")，並且首次摒棄[直列六缸引擎](../Page/直列六缸.md "wikilink")，採用型號為[VR38DETT的雙](../Page/日產VR38DETT引擎.md "wikilink")[渦輪增壓](../Page/渦輪增壓.md "wikilink")[V6引擎](../Page/V6引擎.md "wikilink")。這款引擎是基於日產汽車在市場上廣受好評的[日產VQ引擎進化而來](../Page/日產VQ引擎.md "wikilink")，可在6400rpm時爆發出480-550ps的峰值馬力，並由於雙[渦輪增壓的加持](../Page/渦輪增壓.md "wikilink")，可在3200至6000每分钟转速的區間爆發出588至632牛·米的駭人扭力。後置的內部編號為GR6的濕式雙離合[半自動變速器設計自美國的BorgWarner](../Page/半自動變速器.md "wikilink")[博格華納公司](../Page/博格華納.md "wikilink")，不但這種變速器的安置設計在日產汽車的產品裡是第一次出現，此款變速器還可在短短20毫秒內就完成換檔工作，配合日產汽車的**ATTESA
-E-TS智能[四輪驅動系統](../Page/四輪驅動.md "wikilink")**，能使日產GT-R在3.6秒內完成时速0至100公里的加速（2008年12月後的款式縮短至3.3秒，2010年11月後的款式再縮短至2.8秒，2013年款更進步至2.7秒）。
+新一代日產GT-R脫離[日產Skyline車系](../Page/日產Skyline.md "wikilink")，成為[日產汽車旗下一個新的獨立車系](../Page/日產汽車.md "wikilink")，並且首次摒棄[直列六缸引擎](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")，採用型號為[VR38DETT的雙](https://zh.wikipedia.org/wiki/日產VR38DETT引擎 "wikilink")[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[V6引擎](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")。這款引擎是基於日產汽車在市場上廣受好評的[日產VQ引擎進化而來](https://zh.wikipedia.org/wiki/日產VQ引擎 "wikilink")，可在6400rpm時爆發出480-550ps的峰值馬力，並由於雙[渦輪增壓的加持](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")，可在3200至6000每分钟转速的區間爆發出588至632牛·米的駭人扭力。後置的內部編號為GR6的濕式雙離合[半自動變速器設計自美國的BorgWarner](https://zh.wikipedia.org/wiki/半自動變速器 "wikilink")[博格華納公司](https://zh.wikipedia.org/wiki/博格華納 "wikilink")，不但這種變速器的安置設計在日產汽車的產品裡是第一次出現，此款變速器還可在短短20毫秒內就完成換檔工作，配合日產汽車的**ATTESA
+E-TS智能[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")**，能使日產GT-R在3.6秒內完成时速0至100公里的加速（2008年12月後的款式縮短至3.3秒，2010年11月後的款式再縮短至2.8秒，2013年款更進步至2.7秒）。
 
-### [四輪驅動](../Page/四輪驅動.md "wikilink")
+### [四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")
 
 [Edmonton_Motor_Show_2017_(33392947594).jpg](https://zh.wikipedia.org/wiki/File:Edmonton_Motor_Show_2017_\(33392947594\).jpg "fig:Edmonton_Motor_Show_2017_(33392947594).jpg")
 [Edmonton_Motor_Show_2017_(34103910431).jpg](https://zh.wikipedia.org/wiki/File:Edmonton_Motor_Show_2017_\(34103910431\).jpg "fig:Edmonton_Motor_Show_2017_(34103910431).jpg")
 
-全新的日產PM平台將引擎設計在前傳動軸的後方，如此讓整車的重心得以向車中間靠攏，加上後置的[變速器](../Page/變速器.md "wikilink")，日產GT-R的[前後軸重量比達到](../Page/前後軸重量比.md "wikilink")53:47，從而使得GT-R在彎道中有更好的動態表現。為了實現以上的設計，日產GT-R的車身下足有六根[傳動軸](../Page/傳動軸.md "wikilink")，並採用中部雙傳動軸的設計，其中主傳動軸負責將引擎輸出傳遞到後橋的變速器，通過分動機構後讓兩個後輪得到扭力，而副傳動軸則負責將動力回傳到前橋，得以在必要的時候實現四輪驅動（日產GT-R的ATTESA
+全新的日產PM平台將引擎設計在前傳動軸的後方，如此讓整車的重心得以向車中間靠攏，加上後置的[變速器](https://zh.wikipedia.org/wiki/變速器 "wikilink")，日產GT-R的[前後軸重量比達到](https://zh.wikipedia.org/wiki/前後軸重量比 "wikilink")53:47，從而使得GT-R在彎道中有更好的動態表現。為了實現以上的設計，日產GT-R的車身下足有六根[傳動軸](https://zh.wikipedia.org/wiki/傳動軸 "wikilink")，並採用中部雙傳動軸的設計，其中主傳動軸負責將引擎輸出傳遞到後橋的變速器，通過分動機構後讓兩個後輪得到扭力，而副傳動軸則負責將動力回傳到前橋，得以在必要的時候實現四輪驅動（日產GT-R的ATTESA
 E-TS智能四輪驅動系統並非全時四輪驅動系統）。
 
 日產GT-R上採用的ATTESA
-E-TS智能四輪驅動系統是一套後驅型智能四輪驅動系統，這套系統是日產GT-R能在[紐伯格林賽道北環獲得優異成績的關鍵所在](../Page/紐伯格林賽道.md "wikilink")。因為此套系統在大部分情況下保留後驅車的特性，中央[差速器在大部分情況下將動力傳送至後輪](../Page/差速器.md "wikilink")，不會像全時四輪驅動系統那樣在尾速時會流失過多的動力。這樣在一些容忍度較高的彎道內，日產GT-R可以令前後輪分工更明確，而一旦四個車輪的車速感應器以及其車身內的兩個g力感應器得到信號並計算得出需要四輪驅動時，整套ATTESA
+E-TS智能四輪驅動系統是一套後驅型智能四輪驅動系統，這套系統是日產GT-R能在[紐伯格林賽道北環獲得優異成績的關鍵所在](https://zh.wikipedia.org/wiki/紐伯格林賽道 "wikilink")。因為此套系統在大部分情況下保留後驅車的特性，中央[差速器在大部分情況下將動力傳送至後輪](../Page/差速器.md "wikilink")，不會像全時四輪驅動系統那樣在尾速時會流失過多的動力。這樣在一些容忍度較高的彎道內，日產GT-R可以令前後輪分工更明確，而一旦四個車輪的車速感應器以及其車身內的兩個g力感應器得到信號並計算得出需要四輪驅動時，整套ATTESA
 E-TS系統就會介入然後通過傳遞動態控制命令給電控系統來達到控制後橋的液力差速器，使得後輪被迫減少動力，然後中央差速器再將剩餘的動力傳遞到前輪,但缺憾是當GT-R[漂移時](../Page/漂移.md "wikilink"),前輪會強行作出修正,使GT-R停止漂移,因此有部分人改裝時會移除ATTESA
 E-TS解決這個問題。
 
@@ -39,19 +39,19 @@ GTR的改裝風格並將其延續。因此追求高引擎輸出、追求直線�
 
 [2003_Nissan_Skyline_GT-R_34.JPG](https://zh.wikipedia.org/wiki/File:2003_Nissan_Skyline_GT-R_34.JPG "fig:2003_Nissan_Skyline_GT-R_34.JPG")系列高性能房車是日产GT-R的鼻祖\]\]
 
-1969至1974，之后1989至2002，日产曾经生产过享誉全球的高性能[日产Skyline系列](../Page/日产Skyline.md "wikilink")，称为日产Skyline
+1969至1974，之后1989至2002，日产曾经生产过享誉全球的高性能[日产Skyline系列](https://zh.wikipedia.org/wiki/日产Skyline "wikilink")，称为日产Skyline
 GT-R。这个系列在赛道，特别是街道赛车上赢得大量好评。由於日產GT-R是以速度見稱，因此被誉为街道赛车"战神"。可是只有右駕版，所以海外市場局限於英國、香港、澳大利亞等地區。日本人對GT-R也有另外一個別稱**東瀛戰神**。而日本著名動畫《[頭文字D](../Page/頭文字D.md "wikilink")》中要角之一中里毅為該車的駕駛者。最新的日产GT-R，虽然去掉"Skyline"的名称，但还是源于日产Skyline
 GT-R的底盘代号R32至R34，并且延续所有的特性，比如：[All-Wheel
-Drive](../Page/四驱.md "wikilink")
-[HICAS](../Page/HICAS.md "wikilink")、双[涡轮增压六氣缸引擎](../Page/涡轮增压.md "wikilink")；当然每一代的明显进步还是明显的，新的GT-R继续沿用底盘代号，称为R35，但是加入更高级的全电脑四驱系统，并且用新的[V6](../Page/V6.md "wikilink")
-[VR38DETT](../Page/日产VR发动机.md "wikilink")，更出口至歐美地區。\[7\]
+Drive](https://zh.wikipedia.org/wiki/四驱 "wikilink")
+[HICAS](https://zh.wikipedia.org/wiki/HICAS "wikilink")、双[涡轮增压六氣缸引擎](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")；当然每一代的明显进步还是明显的，新的GT-R继续沿用底盘代号，称为R35，但是加入更高级的全电脑四驱系统，并且用新的[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")
+[VR38DETT](https://zh.wikipedia.org/wiki/日产VR发动机 "wikilink")，更出口至歐美地區。\[7\]
 
 ### 概念车
 
 [NISSAN_GT-R_CONCEPT_at_TMS2001_001.jpg](https://zh.wikipedia.org/wiki/File:NISSAN_GT-R_CONCEPT_at_TMS2001_001.jpg "fig:NISSAN_GT-R_CONCEPT_at_TMS2001_001.jpg")\]\]
 
-2辆概念车在量产发布前曾经展出，最早的原形车出现在2001年的[东京车展](../Page/东京车展.md "wikilink")，以展示以后设计的思路。\[8\]
-2005[东京车展上的第二辆原形概念车已经号称具备量产车](../Page/东京车展.md "wikilink")80-90%的相似度。\[9\]
+2辆概念车在量产发布前曾经展出，最早的原形车出现在2001年的[东京车展](https://zh.wikipedia.org/wiki/东京车展 "wikilink")，以展示以后设计的思路。\[8\]
+2005[东京车展上的第二辆原形概念车已经号称具备量产车](https://zh.wikipedia.org/wiki/东京车展 "wikilink")80-90%的相似度。\[9\]
 
 ### 沿革
 
@@ -82,10 +82,10 @@ Drive](../Page/四驱.md "wikilink")
 
 ### CBA-R35
 
-於2007年[東京車展上](../Page/東京車展.md "wikilink")，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](../Page/紐伯靈賽道.md "wikilink")，隨後日產汽車負責人卡洛斯·戈恩駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan
+於2007年[東京車展上](../Page/東京車展.md "wikilink")，日產展示區內首先播放GT-R在德國[紐伯靈賽道圈速記錄的影片](https://zh.wikipedia.org/wiki/紐伯靈賽道 "wikilink")，隨後日產汽車負責人卡洛斯·戈恩駕駛車型代號**CBA-R35**的GT-R從後台駛出，GT-R正式亮相後，日產汽車在會場內正式公佈2007年12月6日在[日本推出上市](../Page/日本.md "wikilink")，2008年7月7日美國上市，洛杉磯環球日產經銷處於2008年7月7日中午12:01交付第一輛新車，加拿大也緊隨其後7月上市，歐洲市場已經於2008年底上市。推遲的時差，是因為廠方特別為GT-R建立一套獨立的合格銷售據點及維修服務（稱為Nissan
 High Performance Centre）機制，還有就是手工打造的引擎及傳動裝置等產量很低，每個月能生產約1000輛GT-R。\[10\]
 
-日本以外的[亞太市場方面](../Page/亞太.md "wikilink")，由於貨源長期處於緊張狀態，所以只限於[台灣](../Page/台灣.md "wikilink")、[中國大陸](../Page/中國大陸.md "wikilink")、[韓國](../Page/韓國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳大利亞以及](../Page/澳大利亞.md "wikilink")[紐西蘭上市](../Page/紐西蘭.md "wikilink")，其他銷售地區包括[中東以及](../Page/中東.md "wikilink")[南非](../Page/南非.md "wikilink")。至於[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](../Page/泰國.md "wikilink")、[馬來西亞以及](../Page/馬來西亞.md "wikilink")[拉丁美洲的上市時間就一直遙遙無期](../Page/拉丁美洲.md "wikilink")。
+日本以外的[亞太市場方面](https://zh.wikipedia.org/wiki/亞太 "wikilink")，由於貨源長期處於緊張狀態，所以只限於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳大利亞以及](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[紐西蘭上市](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，其他銷售地區包括[中東以及](https://zh.wikipedia.org/wiki/中東 "wikilink")[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")。至於[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞以及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[拉丁美洲的上市時間就一直遙遙無期](../Page/拉丁美洲.md "wikilink")。
 
 GT-R每年都會作出改良，2009年款GT-R最大馬力稍為提升至485匹，油箱容量亦增大至74公升，透過改變減震筒與前端的彈簧係數，以換取更直接的轉向反應，車長因為撤除前方的車牌架而略為縮短5mm，由4655mm至4650mm。2010年款GT-R亦再度改良懸吊系統，強化減震筒中的阻尼與彈簧磅數，後懸吊連桿中的襯套亦重新強化，排氣系統亦將原先Spec
 V車型專屬的散熱系統導入全車系，以及換上六角形觸媒，使排氣流程更為流暢。
@@ -95,12 +95,12 @@ V車型專屬的散熱系統導入全車系，以及換上六角形觸媒，使�
 [Nissan_GT-R_SpecV_Engine.jpg](https://zh.wikipedia.org/wiki/File:Nissan_GT-R_SpecV_Engine.jpg "fig:Nissan_GT-R_SpecV_Engine.jpg")
 
 GT-R在2009年追加Spec
-V。\[11\]日產已經宣佈將於2010年在[美國市場推出這個更高性能版](../Page/美國.md "wikilink")。\[12\]\[13\]馬力上升至493匹，車身重量因為拆除後座而減輕60kg，由1740kg至1680kg，裝備最先進的高性能陶瓷碳素剎車片。\[14\]
+V。\[11\]日產已經宣佈將於2010年在[美國市場推出這個更高性能版](https://zh.wikipedia.org/wiki/美國 "wikilink")。\[12\]\[13\]馬力上升至493匹，車身重量因為拆除後座而減輕60kg，由1740kg至1680kg，裝備最先進的高性能陶瓷碳素剎車片。\[14\]
 透過這款Spec V，日產誓言奪回4月之後被搶走的德國紐伯靈賽道量產車賽道記錄。\[15\]
 
 ### DBA-R35
 
-2011年式GT-R於2010年的巴黎車展中亮相，車型代號亦改為**DBA-R35**，在外型改動上，包括前保险杠上增加日间行车灯，同时前包围也是经过重新设计，從而改善GT-R的空气动力学效应，风阻系数从0.272下降至0.268。而改进的车尾扩散器也提供比多10%的下压力，以增加高速稳定性，另外還增設LED尾燈。性能亦有所提升，引擎的最大馬力以及扭力分別為530ps/6400rpm以及62.5kgm/3200-6000rpm，在德國紐伯靈賽道上，2011年式GT-R創下7:21.03的記錄。日本已經在2010年11月17日發售，並於2011年2月出口到其他地區。香港亦成為新增的正式銷售地區之一，代理商於2011年4月上市（前期款在香港只有[平行進口商引入](../Page/平行進口.md "wikilink")）\[16\]。
+2011年式GT-R於2010年的巴黎車展中亮相，車型代號亦改為**DBA-R35**，在外型改動上，包括前保险杠上增加日间行车灯，同时前包围也是经过重新设计，從而改善GT-R的空气动力学效应，风阻系数从0.272下降至0.268。而改进的车尾扩散器也提供比多10%的下压力，以增加高速稳定性，另外還增設LED尾燈。性能亦有所提升，引擎的最大馬力以及扭力分別為530ps/6400rpm以及62.5kgm/3200-6000rpm，在德國紐伯靈賽道上，2011年式GT-R創下7:21.03的記錄。日本已經在2010年11月17日發售，並於2011年2月出口到其他地區。香港亦成為新增的正式銷售地區之一，代理商於2011年4月上市（前期款在香港只有[平行進口商引入](https://zh.wikipedia.org/wiki/平行進口 "wikilink")）\[16\]。
 
 2011年11月7日，日產發表性能進一步增強的2012年式GT-R，引擎的最大馬力以及扭力分別為550ps/6400rpm以及64.5kgm/3200-5800rpm。右駕版特別採用了非對稱式懸吊設定，其設定為前懸吊左側的彈簧磅數較硬，後懸吊則將本來左右對稱的懸吊臂改為左側向上、右側向下的配置，以抵銷轉向系統組件以及前橋副傳動軸均設於右側的負重。Premium
 Edition可選配陶瓷碳素剎車片，同時亦為Pure Edition車型提供賽車化的Track Pack套件以取代Spec
@@ -122,7 +122,7 @@ DBA-R35發表時還追加Egoist，車廂格調豪華，以皮料包裝及眞皮H
 [NISSAN_GT-R_NISMO_Tokyo_Motor_Show_2013_131127.JPG](https://zh.wikipedia.org/wiki/File:NISSAN_GT-R_NISMO_Tokyo_Motor_Show_2013_131127.JPG "fig:NISSAN_GT-R_NISMO_Tokyo_Motor_Show_2013_131127.JPG")
 
 GT-R
-Nismo於2013年的東京車展中亮相，全車擁有Nismo專屬的套件，包括碳纖維材質的前保桿、車底導流鰭片、後擾流尾翼等。在300km/h之下的下壓力超過100公斤。懸吊部分前後都換上了BILSTEIN的DampTronic避震器，行駛中還可以做三種不同懸吊模式的切換。前雙A臂懸吊結構中追加了專用的上連桿，來擴大後傾角曳引力距。除了針對懸吊部分的輕量化之外，後懸吊也採用高抗滾動剛性的中空防傾桿。此外，車體接合部也追加了點焊處的數量與構造用接合劑的使用來提升車體剛性。引擎輸出為600ps以及66.5kgm。在德國[紐伯林賽道上](../Page/紐伯林賽道.md "wikilink")，GT-R
+Nismo於2013年的東京車展中亮相，全車擁有Nismo專屬的套件，包括碳纖維材質的前保桿、車底導流鰭片、後擾流尾翼等。在300km/h之下的下壓力超過100公斤。懸吊部分前後都換上了BILSTEIN的DampTronic避震器，行駛中還可以做三種不同懸吊模式的切換。前雙A臂懸吊結構中追加了專用的上連桿，來擴大後傾角曳引力距。除了針對懸吊部分的輕量化之外，後懸吊也採用高抗滾動剛性的中空防傾桿。此外，車體接合部也追加了點焊處的數量與構造用接合劑的使用來提升車體剛性。引擎輸出為600ps以及66.5kgm。在德國[紐伯林賽道上](https://zh.wikipedia.org/wiki/紐伯林賽道 "wikilink")，GT-R
 Nismo以7分8.68秒的記錄，成為圈速最快的日本車。
 
 2017年式GT-R
@@ -150,13 +150,13 @@ Nismo為藍本，Italdesign在外型上進行不同改造，選用了對比強�
 [Nissan_GT-R_cutmodel.JPG](https://zh.wikipedia.org/wiki/File:Nissan_GT-R_cutmodel.JPG "fig:Nissan_GT-R_cutmodel.JPG")
 [Nissan_GTR_Cutaway_-_Flickr_-_Alan_D.jpg](https://zh.wikipedia.org/wiki/File:Nissan_GTR_Cutaway_-_Flickr_-_Alan_D.jpg "fig:Nissan_GTR_Cutaway_-_Flickr_-_Alan_D.jpg")
 
-发动机為VR38DETT 3.8升[DOHC](../Page/DOHC.md "wikilink")
-V6雙併IHI[渦輪增壓](../Page/渦輪.md "wikilink")，\[17\]第一款GT-R於6,400 rpm可以產生480馬力，\[18\]在獨立動力測試中GT-R可以產生416到475馬力直接傳送到輪胎，\[19\]\[20\]\[21\]\[22\]\[23\]引擎符合加州ULEV低排放標準，\[24\]安全性上車重1736kg配有側邊安全氣囊、鋼製底盤，鋁合金車身、門柱、車門，\[25\]動力系統方面後置6段雙離合器半自排變速箱；直接連結到[ATTESA
-E-TS系統驅動四輪再搭配Nissan載具動力控制器](../Page/ATTESA_E-TS.md "wikilink")（VDC-R）加強穩定性，還有三種模式可依路況設定，ADC值達到0.27。\[26\]
+发动机為VR38DETT 3.8升[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")
+V6雙併IHI[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪 "wikilink")，\[17\]第一款GT-R於6,400 rpm可以產生480馬力，\[18\]在獨立動力測試中GT-R可以產生416到475馬力直接傳送到輪胎，\[19\]\[20\]\[21\]\[22\]\[23\]引擎符合加州ULEV低排放標準，\[24\]安全性上車重1736kg配有側邊安全氣囊、鋼製底盤，鋁合金車身、門柱、車門，\[25\]動力系統方面後置6段雙離合器半自排變速箱；直接連結到[ATTESA
+E-TS系統驅動四輪再搭配Nissan載具動力控制器](https://zh.wikipedia.org/wiki/ATTESA_E-TS "wikilink")（VDC-R）加強穩定性，還有三種模式可依路況設定，ADC值達到0.27。\[26\]
 
 ### 設計
 
-中村史郎表示，GT-R的造型硬朗，線條融入機動戰士[鋼彈的設計元素](../Page/鋼彈.md "wikilink")，車體的每道線條都實際具備導流的效果，設計上有別於歐洲的跑車，要從GTR中呈現出獨特的[日本文化](../Page/日本文化.md "wikilink")。GT-R內裝線條剛硬，方向盤上設有換檔撥片，中控台上方設有一個高科技多功能行車數據顯示屏，由負責[跑車浪漫旅的電玩開發公司](../Page/跑車浪漫旅.md "wikilink")[Polyphony
+中村史郎表示，GT-R的造型硬朗，線條融入機動戰士[鋼彈的設計元素](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")，車體的每道線條都實際具備導流的效果，設計上有別於歐洲的跑車，要從GTR中呈現出獨特的[日本文化](../Page/日本文化.md "wikilink")。GT-R內裝線條剛硬，方向盤上設有換檔撥片，中控台上方設有一個高科技多功能行車數據顯示屏，由負責[跑車浪漫旅的電玩開發公司](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink")[Polyphony
 Digital研製](../Page/Polyphony_Digital.md "wikilink")。
 
 ### 性能測試
@@ -168,7 +168,8 @@ Control”），从静止到1/4英里用时11.1秒，速度达到125mph（201km/
 
   - 引擎
       - 引擎型號：　VR38DETT
-      - 引擎形式： V型6汽缸24氣閥雙頂凸輪軸雙[渦輪增壓](../Page/渦輪增壓.md "wikilink")
+      - 引擎形式：
+        V型6汽缸24氣閥雙頂凸輪軸雙[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")
       - 引擎排氣量： 3,799毫升
       - 壓縮比： 9.0：1
 
@@ -258,9 +259,9 @@ Control”），从静止到1/4英里用时11.1秒，速度达到125mph（201km/
 
 [Swiss_Racing_Nissan_Front.jpg](https://zh.wikipedia.org/wiki/File:Swiss_Racing_Nissan_Front.jpg "fig:Swiss_Racing_Nissan_Front.jpg")
 
-日產旗下的Nismo，製造出GT-R的賽車版本[GT500來參加](../Page/GT500.md "wikilink")[Super
-GT大賽](../Page/Super_GT.md "wikilink")，以取代以往參賽的[日產350Z](../Page/日產Z系列#.E7.AC.AC5.E4.BB.A3.EF.BC.88Z33.E5.9E.8B.E3.80.812002.E5.B9.B4-2008.E5.B9.B4.EF.BC.89.md "wikilink")\[28\]，不過該賽車除了燈具，基本上與原型車大相庭徑，[傳動系統和引擎完全不同於市售版本](../Page/傳動系統.md "wikilink")，GT500搭載的是4.5公升V8
-[自然進氣引擎](../Page/自然進氣引擎.md "wikilink")、6速序列式[手動變速箱以及](../Page/手動變速箱.md "wikilink")[後輪驅動的佈置](../Page/後輪驅動.md "wikilink")（這與之前的參賽的350Z大致相同）\[29\]
+日產旗下的Nismo，製造出GT-R的賽車版本[GT500來參加](https://zh.wikipedia.org/wiki/GT500 "wikilink")[Super
+GT大賽](https://zh.wikipedia.org/wiki/Super_GT "wikilink")，以取代以往參賽的[日產350Z](https://zh.wikipedia.org/wiki/日產Z系列#.E7.AC.AC5.E4.BB.A3.EF.BC.88Z33.E5.9E.8B.E3.80.812002.E5.B9.B4-2008.E5.B9.B4.EF.BC.89 "wikilink")\[28\]，不過該賽車除了燈具，基本上與原型車大相庭徑，[傳動系統和引擎完全不同於市售版本](https://zh.wikipedia.org/wiki/傳動系統 "wikilink")，GT500搭載的是4.5公升V8
+[自然進氣引擎](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")、6速序列式[手動變速箱以及](https://zh.wikipedia.org/wiki/手動變速箱 "wikilink")[後輪驅動的佈置](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")（這與之前的參賽的350Z大致相同）\[29\]
 \[30\]。
 
 ### FIA GT

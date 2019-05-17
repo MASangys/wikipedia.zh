@@ -1,9 +1,9 @@
-***DJ-Kicks***（在其所有唱片封面標示為***DJ-KiCKS***）是一系列[DJ](../Page/DJ.md "wikilink")[混音專輯](../Page/混音.md "wikilink")，由獨立唱片品牌[\!K7
-Records](http://en.wikipedia.org/wiki/Studio_%21K7)旗下不同DJ所[混音而成](../Page/混音.md "wikilink")。在1995年首次發行時，還算是一張[電子音樂DJ](../Page/電子音樂.md "wikilink")[舞吧](../Page/舞吧.md "wikilink")（club）的合輯，風格為[科技](../Page/科技.md "wikilink")（Techno）或[浩室](../Page/浩室.md "wikilink")（House），之後轉以在家聆聽音樂的一般聽眾為對象。不久之後，以上兩種選編路線都獲得擴展，除了DJ之外，越來越多的製作人（如Terranova）、混音師（如Kruder
+***DJ-Kicks***（在其所有唱片封面標示為***DJ-KiCKS***）是一系列[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")[混音專輯](../Page/混音.md "wikilink")，由獨立唱片品牌[\!K7
+Records](http://en.wikipedia.org/wiki/Studio_%21K7)旗下不同DJ所[混音而成](../Page/混音.md "wikilink")。在1995年首次發行時，還算是一張[電子音樂DJ](../Page/電子音樂.md "wikilink")[舞吧](https://zh.wikipedia.org/wiki/舞吧 "wikilink")（club）的合輯，風格為[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")（Techno）或[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")（House），之後轉以在家聆聽音樂的一般聽眾為對象。不久之後，以上兩種選編路線都獲得擴展，除了DJ之外，越來越多的製作人（如Terranova）、混音師（如Kruder
 & Dorfmeister）、樂團（如The Stereo
 MCs）與音樂家（如Nicolette）都加入了DJ-Kicks系列的陣容，音樂路線也變得更繁雜，風格範疇橫跨Trüby
-Trio的[重拍爵士](../Page/重拍爵士.md "wikilink")（Downbeat Jazz）聲響到Kemistry &
-Storm前衛的[鼓打貝斯](../Page/鼓打貝斯.md "wikilink")（Drum and
+Trio的[重拍爵士](https://zh.wikipedia.org/wiki/重拍爵士 "wikilink")（Downbeat
+Jazz）聲響到Kemistry & Storm前衛的[鼓打貝斯](../Page/鼓打貝斯.md "wikilink")（Drum and
 Bass），但所有作品仍可大致歸納於[電子音樂的範疇](../Page/電子音樂.md "wikilink")。
 
 1995年發行的第一張DJ-Kicks系列唱片為C.J.

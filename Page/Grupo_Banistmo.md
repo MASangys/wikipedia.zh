@@ -1,7 +1,7 @@
 **Grupo
-Banistmo**在1884年9月7日於[巴拿馬開始營運的一間金融服務公司](../Page/巴拿馬.md "wikilink")，當年資本為300萬美元，被滙豐收購前是[中美洲內最大的](../Page/中美洲.md "wikilink")。1999年在中美洲區內的[哥倫比亞和](../Page/哥倫比亞.md "wikilink")[巴哈馬展開了多次收購](../Page/巴哈馬.md "wikilink")，集團持有及Banistmo，使她成為巴拿馬最大銀行。2006年11月被[滙豐控股以](../Page/滙豐控股.md "wikilink")17.7億美元收購，2007年2月滙豐再以1億9070萬美元全面收購Grupo
+Banistmo**在1884年9月7日於[巴拿馬開始營運的一間金融服務公司](https://zh.wikipedia.org/wiki/巴拿馬 "wikilink")，當年資本為300萬美元，被滙豐收購前是[中美洲內最大的](../Page/中美洲.md "wikilink")。1999年在中美洲區內的[哥倫比亞和](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[巴哈馬展開了多次收購](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")，集團持有及Banistmo，使她成為巴拿馬最大銀行。2006年11月被[滙豐控股以](https://zh.wikipedia.org/wiki/滙豐控股 "wikilink")17.7億美元收購，2007年2月滙豐再以1億9070萬美元全面收購Grupo
 Banistmo旗下的**Inversiones Financieras
-Bancosal**和[薩爾瓦多銀行](../Page/薩爾瓦多銀行.md "wikilink")（**Banco
+Bancosal**和[薩爾瓦多銀行](https://zh.wikipedia.org/wiki/薩爾瓦多銀行 "wikilink")（**Banco
 Salvadoreno**）的餘下股權\[1\]。
 2005年續收購巴拿馬消費貸款企業Financomer，目前在巴擁有19家分行。巴拿馬第一地峽銀行為此間最大民營銀行，同時擁有當地最大保險公司
 Compania Nacional del

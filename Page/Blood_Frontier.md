@@ -1,14 +1,14 @@
 ***Blood Frontier***
-是[开源](../Page/开源.md "wikilink")[跨平台](../Page/跨平台.md "wikilink")*[Quake](../Page/Quake.md "wikilink")*类[FPS](../Page/第一人称射击游戏.md "wikilink")，[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+是[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")*[Quake](https://zh.wikipedia.org/wiki/Quake "wikilink")*类[FPS](../Page/第一人称射击游戏.md "wikilink")，[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X都可以玩到](../Page/Mac_OS_X.md "wikilink")。[Sauerbraten引擎驱动](../Page/Sauerbraten.md "wikilink")\[1\]\[2\]同于Sauerbraten
+X都可以玩到](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。[Sauerbraten引擎驱动](../Page/Sauerbraten.md "wikilink")\[1\]\[2\]同于Sauerbraten
 -也是一个即时地图编辑器。有着覆盖面较广的单兵武器种类。
 
 ## 游戏方式
 
 死亡竞赛，夺旗，
-护旗和修改等四种模式，还有一击杀甚至[彩弹球游戏](../Page/彩弹球.md "wikilink")。而且都可以开启团队支持，支持4只队伍。可以在任何类型游戏中添加bot。
+护旗和修改等四种模式，还有一击杀甚至[彩弹球游戏](https://zh.wikipedia.org/wiki/彩弹球 "wikilink")。而且都可以开启团队支持，支持4只队伍。可以在任何类型游戏中添加bot。
 
 ## 其他
 

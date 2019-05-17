@@ -1,6 +1,6 @@
 **ING挑戰賽**（**ING
-Cup**）由[香港足球總會主辦](../Page/香港足球總會.md "wikilink")，由[世界體育集團](../Page/世界體育集團.md "wikilink")（WSG）和KAM
-Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/香港大球場.md "wikilink")，由[荷蘭](../Page/荷蘭.md "wikilink")、[喀麥隆](../Page/喀麥隆.md "wikilink")、[美國和](../Page/美國.md "wikilink")[科特迪瓦派遣由](../Page/科特迪瓦.md "wikilink")23歲以下及最多3名超齡球員所組成的國家奧運足球隊角逐，作為[北京奧運會的](../Page/北京奧運會.md "wikilink")[足球](../Page/足球.md "wikilink")[熱身賽](../Page/熱身賽.md "wikilink")，由金融服務機構[ING冠名贊助](../Page/ING.md "wikilink")<small>\[1\]</small>。
+Cup**）由[香港足球總會主辦](../Page/香港足球總會.md "wikilink")，由[世界體育集團](https://zh.wikipedia.org/wiki/世界體育集團 "wikilink")（WSG）和KAM
+Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/香港大球場.md "wikilink")，由[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")、[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[科特迪瓦派遣由](../Page/科特迪瓦.md "wikilink")23歲以下及最多3名超齡球員所組成的國家奧運足球隊角逐，作為[北京奧運會的](https://zh.wikipedia.org/wiki/北京奧運會 "wikilink")[足球](../Page/足球.md "wikilink")[熱身賽](https://zh.wikipedia.org/wiki/熱身賽 "wikilink")，由金融服務機構[ING冠名贊助](../Page/ING.md "wikilink")<small>\[1\]</small>。
 
 ## 賽程
 
@@ -77,7 +77,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>尼卡奴</p></td>
 <td><p>Nicolas Nkoulou</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/摩纳哥足球俱乐部.md" title="wikilink">摩納哥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/摩纳哥足球俱乐部" title="wikilink">摩納哥</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>比比</p></td>
@@ -89,13 +89,13 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>高美斯</p></td>
 <td><p>Antonio Ghomsi</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/梅西纳足球俱乐部.md" title="wikilink">-{zh-hans:梅西纳;zh-hk:墨西拿;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅西纳足球俱乐部" title="wikilink">-{zh-hans:梅西纳;zh-hk:墨西拿;}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>捷奴</p></td>
 <td><p>Aurelien Chedjou</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/里尔足球俱乐部.md" title="wikilink">-{zh-hk:里爾;zh-hans:利尔}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里尔足球俱乐部" title="wikilink">-{zh-hk:里爾;zh-hans:利尔}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>美比亞</p></td>
@@ -104,16 +104,16 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p><a href="../Page/雷恩足球俱乐部.md" title="wikilink">雷恩</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/阿歷山大·桑治.md" title="wikilink">桑治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿歷山大·桑治" title="wikilink">桑治</a></p></td>
 <td><p>Alex Song</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/阿森纳足球俱乐部.md" title="wikilink">-{zh-hans:阿森纳;zh-hk:阿仙奴}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿森纳足球俱乐部" title="wikilink">-{zh-hans:阿森纳;zh-hk:阿仙奴}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>紐安莫</p></td>
 <td><p>Landry Nguemo</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/南锡足球俱乐部.md" title="wikilink">-{zh-hk:南錫;zh-hans:南锡}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南锡足球俱乐部" title="wikilink">-{zh-hk:南錫;zh-hans:南锡}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>普剛</p></td>
@@ -125,13 +125,13 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>域美</p></td>
 <td><p>Henri Ewane</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/里尔足球俱乐部.md" title="wikilink">-{zh-hk:里爾;zh-hans:利尔}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里尔足球俱乐部" title="wikilink">-{zh-hk:里爾;zh-hans:利尔}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>文積克</p></td>
 <td><p>Georges Mandjeck</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/斯图加特足球俱乐部.md" title="wikilink">-{zh-hans:斯图加特;zh-hk:史特加}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯图加特足球俱乐部" title="wikilink">-{zh-hans:斯图加特;zh-hk:史特加}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>班寧</p></td>
@@ -167,7 +167,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>尼高</p></td>
 <td><p>Serge Ngal</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/利亞拿.md" title="wikilink">利亞拿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利亞拿" title="wikilink">利亞拿</a></p></td>
 </tr>
 <tr class="even">
 <td><p>文班高</p></td>
@@ -288,7 +288,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>施斯</p></td>
 <td><p>Sekou Cisse</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/洛達.md" title="wikilink">-{zh-hk:洛達;zh-hans:罗达JC}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛達" title="wikilink">-{zh-hk:洛達;zh-hans:罗达JC}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>古里</p></td>
@@ -303,10 +303,10 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>格倫諾保</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/沙洛文卡勞.md" title="wikilink">-{zh-hans:卡劳; zh-hk:沙洛文卡勞;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沙洛文卡勞" title="wikilink">-{zh-hans:卡劳; zh-hk:沙洛文卡勞;}-</a></p></td>
 <td><p>Salomon Kalou</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/切尔西足球俱乐部.md" title="wikilink">-{zh-hans:切尔西;zh-hk:車路士}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/切尔西足球俱乐部" title="wikilink">-{zh-hans:切尔西;zh-hk:車路士}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>尼安保</p></td>
@@ -337,13 +337,13 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>韋杜辛</p></td>
 <td><p>Piet Velthuizen</p></td>
 <td><p>門將</p></td>
-<td><p><a href="../Page/維迪斯.md" title="wikilink">-{zh-hk:維迪斯;zh-hans:维特瑟}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/維迪斯" title="wikilink">-{zh-hk:維迪斯;zh-hans:维特瑟}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>域美亞</p></td>
 <td><p>Kenneth Vermeer</p></td>
 <td><p>門將</p></td>
-<td><p><a href="../Page/阿贾克斯足球俱乐部.md" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿贾克斯足球俱乐部" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>古爾</p></td>
@@ -355,25 +355,25 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>查連斯*</p></td>
 <td><p>Kew Jaliens</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/AZ阿爾克馬爾.md" title="wikilink">-{zh-hk:阿爾克馬爾;zh-hans:阿尔克马尔}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AZ阿爾克馬爾" title="wikilink">-{zh-hk:阿爾克馬爾;zh-hans:阿尔克马尔}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/莊艾班.md" title="wikilink">莊艾班</a></p></td>
 <td><p>Calvin Jong-a-Pin</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/SC海倫芬.md" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SC海倫芬" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>路積錫</p></td>
 <td><p>Kees Luijckx</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/AZ阿爾克馬爾.md" title="wikilink">-{zh-hk:阿爾克馬爾;zh-hans:阿尔克马尔}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AZ阿爾克馬爾" title="wikilink">-{zh-hk:阿爾克馬爾;zh-hans:阿尔克马尔}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>馬些尼斯</p></td>
 <td><p>Dirk Marcellis</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/PSV燕豪芬.md" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSV燕豪芬" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>彼得斯</p></td>
@@ -397,13 +397,13 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>巴基爾</p></td>
 <td><p>Otman Bakkal</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/PSV燕豪芬.md" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSV燕豪芬" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>安尼遜</p></td>
 <td><p>Urby Emanuelson</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/阿贾克斯足球俱乐部.md" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿贾克斯足球俱乐部" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>古斯文</p></td>
@@ -415,7 +415,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>馬杜奴</p></td>
 <td><p>Hedwiges Maduro</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/巴伦西亚足球俱乐部.md" title="wikilink">-{zh-hk:華倫西亞;zh-hans:巴伦西亚;zh-tw:瓦倫西亞;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴伦西亚足球俱乐部" title="wikilink">-{zh-hk:華倫西亞;zh-hans:巴伦西亚;zh-tw:瓦倫西亞;}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>施奴</p></td>
@@ -427,25 +427,25 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>迪莊</p></td>
 <td><p>Siem de Jong</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/阿贾克斯足球俱乐部.md" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿贾克斯足球俱乐部" title="wikilink">-{zh-hans:阿贾克斯;zh-hk:阿積士}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>比連斯</p></td>
 <td><p>Roy Beerens</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/SC海倫芬.md" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SC海倫芬" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/瑞恩·巴贝尔.md" title="wikilink">賴恩巴布</a></p></td>
 <td><p>Ryan Babel</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/利物浦足球俱乐部.md" title="wikilink">利物浦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利物浦足球俱乐部" title="wikilink">利物浦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/罗伊斯顿·德伦特.md" title="wikilink">德倫特</a></p></td>
 <td><p>Royston Drenthe</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/皇家马德里.md" title="wikilink">皇家馬德里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皇家马德里" title="wikilink">皇家馬德里</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/罗伊·马凯.md" title="wikilink">馬卡爾</a>*</p></td>
@@ -457,13 +457,13 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>施邦*</p></td>
 <td><p>Gerald Sibon</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/SC海倫芬.md" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SC海倫芬" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>艾拉巴特</p></td>
 <td><p>Nordin Amrabat</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/PSV燕豪芬.md" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSV燕豪芬" title="wikilink">-{zh-hans:埃因霍温;zh-hk:PSV燕豪芬}-</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -512,7 +512,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>柏靴斯</p></td>
 <td><p>Michael Parkhurst</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/新英格兰革命.md" title="wikilink">-{zh-hans:新英格兰;zh-hk:新英倫;zh-tw:新英格蘭;}-革命</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新英格兰革命" title="wikilink">-{zh-hans:新英格兰;zh-hk:新英倫;zh-tw:新英格蘭;}-革命</a></p></td>
 </tr>
 <tr class="even">
 <td><p>伊里</p></td>
@@ -524,31 +524,31 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>韋恩</p></td>
 <td><p>Marvell Wynne</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/多伦多FC.md" title="wikilink">多伦多FC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多伦多FC" title="wikilink">多伦多FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>范克廉</p></td>
 <td><p>Sean Franklin</p></td>
 <td><p>後衛</p></td>
-<td><p><a href="../Page/洛杉矶银河.md" title="wikilink">洛杉矶银河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶银河" title="wikilink">洛杉矶银河</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/弗雷迪·阿杜.md" title="wikilink">艾度</a></p></td>
 <td><p>Freddy Adu</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/摩纳哥足球俱乐部.md" title="wikilink">摩納哥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/摩纳哥足球俱乐部" title="wikilink">摩納哥</a></p></td>
 </tr>
 <tr class="even">
 <td><p>巴特利</p></td>
 <td><p>Michael Bradley</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/SC海倫芬.md" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SC海倫芬" title="wikilink">-{zh-hk:海倫芬;zh-hans:海伦芬}-</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>伊度</p></td>
 <td><p>Maurice Edu</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/多伦多FC.md" title="wikilink">多伦多FC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/多伦多FC" title="wikilink">多伦多FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p>費爾夏柏</p></td>
@@ -578,19 +578,19 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>麥卡迪</p></td>
 <td><p>Dax McCarty</p></td>
 <td><p>中場</p></td>
-<td><p><a href="../Page/FC达拉斯.md" title="wikilink">FC达拉斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FC达拉斯" title="wikilink">FC达拉斯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>艾迪杜里</p></td>
 <td><p>Jozy Altidore</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/維拉利爾足球會.md" title="wikilink">-{zh-hk:維拉利爾;zh-hans:比利亚雷亚尔;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/維拉利爾足球會" title="wikilink">-{zh-hk:維拉利爾;zh-hans:比利亚雷亚尔;}-</a></p></td>
 </tr>
 <tr class="even">
 <td><p>戴維斯</p></td>
 <td><p>Charlie Davies</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/哈馬比.md" title="wikilink">哈馬比</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈馬比" title="wikilink">哈馬比</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>麥比迪</p></td>
@@ -602,7 +602,7 @@ Sports協辦，於2008年7月30日和8月2日在[香港大球場舉行](../Page/
 <td><p>羅渣士</p></td>
 <td><p>Robbie Rogers</p></td>
 <td><p>前鋒</p></td>
-<td><p><a href="../Page/哥倫布機員.md" title="wikilink">哥倫布機員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哥倫布機員" title="wikilink">哥倫布機員</a></p></td>
 </tr>
 </tbody>
 </table>

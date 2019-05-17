@@ -7,7 +7,7 @@
   - [骨質疏鬆症](../Page/骨質疏鬆症.md "wikilink")
   - 骨骼发育
   - 皮肤病
-  - [脱发](../Page/脱发.md "wikilink")
+  - [脱发](https://zh.wikipedia.org/wiki/脱发 "wikilink")
   - 突发性颅内高压\[1\]。
 
 ## 診斷
@@ -29,7 +29,7 @@
 
 ## 参见
 
-  - [维生素A](../Page/维生素A.md "wikilink")
+  - [维生素A](https://zh.wikipedia.org/wiki/维生素A "wikilink")
   - [维生素过多症](../Page/维生素过多症.md "wikilink")
 
 ## 参考文献
@@ -52,7 +52,7 @@
   - [南方网：维生素A过量服用将导致中毒](https://web.archive.org/web/20071112182050/http://www.southcn.com/news/community/shzt/health/vitamin/200412170576.htm)
   - [Vitamin D Council 维生素 A & D
     摄入值以及状况](http://www.vitamindcouncil.org/newsletter/2008-december.shtml)
-  - [维他命A摄入风险，美国[國家衛生研究院官方支持](../Page/國家衛生研究院.md "wikilink")](http://ods.od.nih.gov/factsheets/cc/vita.html)
+  - [维他命A摄入风险，美国[國家衛生研究院官方支持](https://zh.wikipedia.org/wiki/國家衛生研究院 "wikilink")](http://ods.od.nih.gov/factsheets/cc/vita.html)
 
 [Category:维生素过多症](https://zh.wikipedia.org/wiki/Category:维生素过多症 "wikilink")
 [Category:维生素A](https://zh.wikipedia.org/wiki/Category:维生素A "wikilink")

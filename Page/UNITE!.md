@@ -5,9 +5,9 @@
   - 本作收錄於2002年1月1日發售的第四張原創專輯《[I
     am...](../Page/I_am....md "wikilink")》當中。另也收錄於2007年2月28日發售的精選集《[A
     BEST 2
-    -WHITE-](../Page/A_BEST_2_-WHITE-.md "wikilink")》及2008年發售的單曲精選輯《[A
+    -WHITE-](https://zh.wikipedia.org/wiki/A_BEST_2_-WHITE- "wikilink")》及2008年發售的單曲精選輯《[A
     COMPLETE \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》當中。
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中。
   - 本作於2001年的日本[巨蛋巡迴演唱會首次披露](../Page/巨蛋.md "wikilink")。
   - 本作未拍攝音樂錄影帶，宣傳用影像僅一分鐘，為演唱會片段。
   - 本作收錄的混音歌曲除了《UNITE\!》外，尚有第22張單曲《[Endless
@@ -18,7 +18,7 @@
 1.  **UNITE\! "Original Mix"**
       -
         作曲：[CREA](../Page/CREA.md "wikilink") /
-        編曲：[HΛL](../Page/HΛL.md "wikilink")
+        編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         麒麟飲料「サプリ」廣告歌曲
 2.  **UNITE\! "Huge UR-Chin mix"**
 3.  **UNITE\! "hecco's club vocal mix"**

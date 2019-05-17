@@ -1,9 +1,10 @@
 **USB video class**（又稱為**USB video device class** or
-**UVC**）就是[USB](../Page/通用串行總線.md "wikilink") [device
-class影像產品在不需要安裝任何的驅動程式下隨插即用](../Page/USB.md "wikilink")，包括[網路攝影機](../Page/網路攝影機.md "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比影像轉換器、及[靜態影像相機](../Page/靜態影像相機.md "wikilink")。
+**UVC**）就是[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")
+[device
+class影像產品在不需要安裝任何的驅動程式下隨插即用](../Page/USB.md "wikilink")，包括[網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比影像轉換器、及[靜態影像相機](https://zh.wikipedia.org/wiki/靜態影像相機 "wikilink")。
 
 最新的UVC版本為UVC
-1.5，由[USB-IF](../Page/USB-IF.md "wikilink")（[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")）定義包括基本協定及負載格式
+1.5，由[USB-IF](https://zh.wikipedia.org/wiki/USB-IF "wikilink")（[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")）定義包括基本協定及負載格式
 \[1\] \[2\].
 
 *請參考[USB視頻類別列表](../Page/USB視頻類別列表.md "wikilink")*
@@ -18,8 +19,8 @@ SP2之後的版本都可以支援UVC。使用UVC的好處USB在Video這塊也成
 ### 采集卡
 
 UVC v1.1 支持压缩视频流，包括[MPEG-2
-TS](../Page/MPEG_transport_stream.md "wikilink")，[H.264](../Page/H.264/MPEG-4_AVC.md "wikilink")，[MPEG-4
-SL](../Page/MPEG-4_SL.md "wikilink") [SMPTE
+TS](https://zh.wikipedia.org/wiki/MPEG_transport_stream "wikilink")，[H.264](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，[MPEG-4
+SL](https://zh.wikipedia.org/wiki/MPEG-4_SL "wikilink") [SMPTE
 VC1和](../Page/VC-1.md "wikilink")[MJPEG](../Page/Motion_JPEG.md "wikilink")。\[3\]
 
 ## 作業系統支援
@@ -32,7 +33,7 @@ driver](http://www.ideasonboard.org/uvc/)。
 ### Mac OS X
 
 Mac OS X載有UVC
-driver，其版本為10.4.3,至10.4.9版時，可與[iChat溝通](../Page/iChat.md "wikilink")。
+driver，其版本為10.4.3,至10.4.9版時，可與[iChat溝通](https://zh.wikipedia.org/wiki/iChat "wikilink")。
 
 ### PlayStation 3
 

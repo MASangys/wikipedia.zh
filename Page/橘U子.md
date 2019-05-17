@@ -1,30 +1,30 @@
-**橘U子**（）是一名[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，舊藝名**合志真理**，經營二十一世紀霍士劇團，[血型為B型](../Page/血型.md "wikilink")，隸屬[Kenyu
+**橘U子**（）是一名[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，舊藝名**合志真理**，經營二十一世紀霍士劇團，[血型為B型](https://zh.wikipedia.org/wiki/血型 "wikilink")，隸屬[Kenyu
 Office](../Page/Kenyu_Office.md "wikilink")。
 
 ## 出演作品
 
 ### 電視動畫
 
-  - [蠟筆小新](../Page/蠟筆小新.md "wikilink")（老奶奶、連圖、四十肩的阿京、迷你豬）
+  - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")（老奶奶、連圖、四十肩的阿京、迷你豬）
   - [妮嘉尋親記](../Page/妮嘉尋親記.md "wikilink")（奧利佛）
   - [我們這一家](../Page/我們這一家.md "wikilink")（房東、モン太の母）
-  - [小魔女Doremi](../Page/小魔女Doremi.md "wikilink")（魔女梅、魔女莎莉斑、幸子的奶奶）
-  - [萬花筒之星](../Page/萬花筒之星.md "wikilink")（パトロワの妻）
-  - [金田一少年事件簿](../Page/金田一少年事件簿.md "wikilink")（小野寺將之（須賀徹）的奶奶、蘇西星河）
+  - [小魔女Doremi](https://zh.wikipedia.org/wiki/小魔女Doremi "wikilink")（魔女梅、魔女莎莉斑、幸子的奶奶）
+  - [萬花筒之星](https://zh.wikipedia.org/wiki/萬花筒之星 "wikilink")（パトロワの妻）
+  - [金田一少年事件簿](https://zh.wikipedia.org/wiki/金田一少年事件簿 "wikilink")（小野寺將之（須賀徹）的奶奶、蘇西星河）
   - [Keroro軍曹](../Page/Keroro軍曹.md "wikilink")（宇宙商人、店主、上級生、Gururu）
   - [你好 安妮 ～Before Green
     Gables](../Page/你好_安妮_～Before_Green_Gables.md "wikilink")（藍道夫・麥克加文）
-  - [逮捕令](../Page/逮捕令.md "wikilink")（小孩）
-  - [櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")（杉山）※代役
-  - [數碼寶貝拯救者](../Page/數碼寶貝拯救者.md "wikilink")（托瑪的外婆）
-  - [數碼寶貝最前線](../Page/數碼寶貝最前線.md "wikilink")（鉄平、パグモン）
+  - [逮捕令](https://zh.wikipedia.org/wiki/逮捕令 "wikilink")（小孩）
+  - [櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")（杉山）※代役
+  - [數碼寶貝拯救者](https://zh.wikipedia.org/wiki/數碼寶貝拯救者 "wikilink")（托瑪的外婆）
+  - [數碼寶貝最前線](https://zh.wikipedia.org/wiki/數碼寶貝最前線 "wikilink")（鉄平、パグモン）
   - [哆啦A夢](../Page/哆啦A夢.md "wikilink")（女將）
-  - [忍者亂太郎](../Page/忍者亂太郎.md "wikilink")（亂太郎之母）※代役
+  - [忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")（亂太郎之母）※代役
   - [爆裂天使](../Page/爆裂天使.md "wikilink")（女子C）
-  - [美鳥日記](../Page/美鳥日記.md "wikilink")（セールスレディ）※第5話
+  - [美鳥日記](https://zh.wikipedia.org/wiki/美鳥日記 "wikilink")（セールスレディ）※第5話
   - [名偵探柯南](../Page/名偵探柯南.md "wikilink")（主婦B、伊藤A）
-  - [MÄR 魔兵傳奇](../Page/MÄR_魔兵傳奇.md "wikilink")（傑克的母親）
-  - [MONSTER](../Page/MONSTER.md "wikilink")（慕尼黑的妓女）
+  - [MÄR 魔兵傳奇](https://zh.wikipedia.org/wiki/MÄR_魔兵傳奇 "wikilink")（傑克的母親）
+  - [MONSTER](https://zh.wikipedia.org/wiki/MONSTER "wikilink")（慕尼黑的妓女）
   - [雪之女王](../Page/雪之女王.md "wikilink")（魚店老闆）※第5話
   - [魔法咪路咪路](../Page/魔法咪路咪路.md "wikilink")（星野）
   - [ONE PIECE](../Page/ONE_PIECE.md "wikilink")（Miss Double Fingers）
@@ -39,12 +39,12 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 
 **2006年**
 
-  - [銀魂](../Page/銀魂_\(動畫\).md "wikilink")（中山）
+  - [銀魂](https://zh.wikipedia.org/wiki/銀魂_\(動畫\) "wikilink")（中山）
 
 **2007年**
 
-  - [帝托拉傳奇](../Page/帝托拉傳奇.md "wikilink")（爽朗媽媽）
-  - [交響情人夢](../Page/交響情人夢_\(動畫\).md "wikilink")（金城静香）
+  - [帝托拉傳奇](https://zh.wikipedia.org/wiki/帝托拉傳奇 "wikilink")（爽朗媽媽）
+  - [交響情人夢](https://zh.wikipedia.org/wiki/交響情人夢_\(動畫\) "wikilink")（金城静香）
   - [王牌投手 振臂高揮](../Page/王牌投手_振臂高揮.md "wikilink")（花井菊江）
 
 **2008年**
@@ -61,7 +61,7 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 
 **2011年**
 
-  - [銀魂'](../Page/銀魂'.md "wikilink")（[白水OX子](../Page/泉平子.md "wikilink")）
+  - [銀魂'](https://zh.wikipedia.org/wiki/銀魂' "wikilink")（[白水OX子](../Page/泉平子.md "wikilink")）
 
 **2012年**
 
@@ -70,7 +70,7 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 **2014年**
 
   - [SONI ANI -SUPER SONICO THE
-    ANIMATION-](../Page/SUPERSONICO.md "wikilink")（鄰居大嬸）
+    ANIMATION-](https://zh.wikipedia.org/wiki/SUPERSONICO "wikilink")（鄰居大嬸）
 
 **2015年**
 
@@ -83,9 +83,10 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 
 **2018年**
 
-  - [霸穹 封神演義](../Page/封神演義_\(漫畫\).md "wikilink")（瓊霄）
-  - [三次元女友 REAL GIRL](../Page/三次元女友.md "wikilink")（筒井紀江）
-  - [傀儡馬戲團](../Page/傀儡馬戲團.md "wikilink")（加納）
+  - [霸穹 封神演義](https://zh.wikipedia.org/wiki/封神演義_\(漫畫\) "wikilink")（瓊霄）
+  - [三次元女友 REAL
+    GIRL](https://zh.wikipedia.org/wiki/三次元女友 "wikilink")（筒井紀江）
+  - [傀儡馬戲團](https://zh.wikipedia.org/wiki/傀儡馬戲團 "wikilink")（加納）
 
 ### 劇場版動畫
 
@@ -98,7 +99,7 @@ Office](../Page/Kenyu_Office.md "wikilink")。
 
 <!-- end list -->
 
-  - [春HAL](../Page/春HAL.md "wikilink")（エリカ）
+  - [春HAL](https://zh.wikipedia.org/wiki/春HAL "wikilink")（エリカ）
 
 ## 外部連結
 

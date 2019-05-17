@@ -1,25 +1,25 @@
 **木村KAELA**
-是[日本](../Page/日本.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")、[模特兒和](../Page/模特兒.md "wikilink")[藝人](../Page/藝人.md "wikilink")，原名是（Kimura
-KaelaRie）。[東京都立向丘高等學校畢業](../Page/東京都立向丘高等學校.md "wikilink")，原所屬唱片公司为[哥倫比亞音樂](../Page/哥倫比亞音樂.md "wikilink")（Columbia
+是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[模特兒和](../Page/模特兒.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，原名是（Kimura
+KaelaRie）。[東京都立向丘高等學校畢業](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，原所屬唱片公司为[哥倫比亞音樂](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")（Columbia
 Music Entertainment，契约至2013年终止），现所属唱片公司为VICTOR，而所屬的經紀公司是[Sony Music
 Artists](../Page/Sony_Music_Artists.md "wikilink")。常與各式各樣的音樂人合作，音樂及個人特色強烈顯明。在電視現場及演唱會皆與合作已久的音樂夥伴（專屬樂團成員）演出，偶爾自彈[吉他](../Page/吉他.md "wikilink")。
 
 ## 來歷
 
-生於[東京都](../Page/東京都.md "wikilink")[足立區](../Page/足立區.md "wikilink")，為[英日混血兒](../Page/英國.md "wikilink")，父親是[英國人](../Page/英國人.md "wikilink")，母親是[日本人](../Page/日本人.md "wikilink")，從母姓「木村」。最初，由於亮麗的外型，在小學六年級時就擔任了雜誌CUTiE的讀者模特兒，到16歲高中那年又被選中而成了[集英社旗下雜誌](../Page/集英社.md "wikilink")[SEVENTEEN的專屬模特兒](../Page/SEVENTEEN_\(雜誌\).md "wikilink")。
+生於[東京都](../Page/東京都.md "wikilink")[足立區](../Page/足立區.md "wikilink")，為[英日混血兒](https://zh.wikipedia.org/wiki/英國 "wikilink")，父親是[英國人](https://zh.wikipedia.org/wiki/英國人 "wikilink")，母親是[日本人](../Page/日本人.md "wikilink")，從母姓「木村」。最初，由於亮麗的外型，在小學六年級時就擔任了雜誌CUTiE的讀者模特兒，到16歲高中那年又被選中而成了[集英社旗下雜誌](../Page/集英社.md "wikilink")[SEVENTEEN的專屬模特兒](https://zh.wikipedia.org/wiki/SEVENTEEN_\(雜誌\) "wikilink")。
 
 因為從小最大的夢想就是音樂、唱歌及當歌手，高中時積極地組樂團，畢業時選擇放棄原本要念的大學而努力往音樂路走去。在18歲那年被Saku
 Saku節目邀請成為節目主持人一員，歌手之路也就從此慢慢茁壯。
 
-2004年5月10日（6月在日本正式發行）發行第一張單曲，[Level42即登上公信榜第](../Page/Level42.md "wikilink")14名。同年12月8日發行第一張專輯[KAELA](../Page/KAELA.md "wikilink")，更在首週就登上Oricon公信榜第8名（最高名次第7名）。而2005年3月30日發行的第三張單曲[Real
+2004年5月10日（6月在日本正式發行）發行第一張單曲，[Level42即登上公信榜第](https://zh.wikipedia.org/wiki/Level42 "wikilink")14名。同年12月8日發行第一張專輯[KAELA](https://zh.wikipedia.org/wiki/KAELA "wikilink")，更在首週就登上Oricon公信榜第8名（最高名次第7名）。而2005年3月30日發行的第三張單曲[Real
 life Real
-heart](../Page/Real_life_Real_heart.md "wikilink")，首週即登上公信榜第3名，自此以後她開始在日本成名。而2006年3月8日發行的第二張專輯[Circle首週即登上Oricon亞軍](../Page/Circle.md "wikilink")。
+heart](https://zh.wikipedia.org/wiki/Real_life_Real_heart "wikilink")，首週即登上公信榜第3名，自此以後她開始在日本成名。而2006年3月8日發行的第二張專輯[Circle首週即登上Oricon亞軍](../Page/Circle.md "wikilink")。
 
 Kaela終於在2007年2月7日所發行的第三張專輯Scratch在首週以近20萬的銷量登上冠軍，而且蟬聯兩星期的冠軍，是她首次進入日本[Oricon公信榜第一名的專輯](../Page/Oricon公信榜.md "wikilink")\[1\]。
 
 而[2007年4月份開始展開Scratch巡迴演唱會](../Page/2007年4月.md "wikilink")，並且再追加五場大型演唱會，在6月15日首次踏上[日本武道館的舞台舉辦個人大型演唱會](../Page/日本武道館.md "wikilink")。2007年3月17日的「MUSIC
 VIDEO AWARDS 07」頒獎典禮中以Magic Music得了最佳POP Video獎「BEST POP
-VIDEO」。[2008年7月發行的為](../Page/2008年7月.md "wikilink")[Idoling第三張專輯告白首度自行填詞](../Page/IDOLING.md "wikilink")。2009年12月31日首次在[紅白歌唱大賽亮相](../Page/NHK紅白歌合戰.md "wikilink")。
+VIDEO」。[2008年7月發行的為](../Page/2008年7月.md "wikilink")[Idoling第三張專輯告白首度自行填詞](https://zh.wikipedia.org/wiki/IDOLING "wikilink")。2009年12月31日首次在[紅白歌唱大賽亮相](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 2010年6月1日，宣佈已懷孕五個月，並與男演員[瑛太結婚](../Page/瑛太.md "wikilink")。
 
@@ -34,7 +34,7 @@ FEMALE ARTIST獎。
 
 ## 名稱由來
 
-本身為英日混血的Kaela從母姓，カエラ（Kaela）之名是身為英國人的父親依照傳統而用祖母的名字字尾「La」來取名，所以Kaela一字在日文本身並無意義，屬於外來字，但在[希伯來文裡卻有](../Page/希伯來文.md "wikilink")「最愛」之意。Kaela曾表示：「爸媽說當初並不曉得『KAELA』在希伯來文中有『最愛』之意，後來知道時也驚訝了一下。」
+本身為英日混血的Kaela從母姓，カエラ（Kaela）之名是身為英國人的父親依照傳統而用祖母的名字字尾「La」來取名，所以Kaela一字在日文本身並無意義，屬於外來字，但在[希伯來文裡卻有](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")「最愛」之意。Kaela曾表示：「爸媽說當初並不曉得『KAELA』在希伯來文中有『最愛』之意，後來知道時也驚訝了一下。」
 
 代理公司原先想替她取「木村愛」為藝名，但因為Kaela堅持希望能用自己的本名，而代理唱片公司為了尊重本人的意見，所以就稱呼為「木村KAELA」。
 
@@ -42,34 +42,37 @@ FEMALE ARTIST獎。
 
 ### 單曲
 
-1.  **[Level42](../Page/Level42.md "wikilink")**（2004年5月10日發行）
+1.  **[Level42](https://zh.wikipedia.org/wiki/Level42 "wikilink")**（2004年5月10日發行）
       - 在神奈川縣限定獨立發行每張日幣390的單曲共390張，開賣3分鐘即搶購一空。同年6月23日正式發行。
-2.  **[happiness\!\!\!](../Page/happiness!!!.md "wikilink")**（2004年10月27日發行）
+2.  **[happiness\!\!\!](https://zh.wikipedia.org/wiki/happiness!!! "wikilink")**（2004年10月27日發行）
 3.  **[Real Life Real
-    Heart](../Page/Real_Life_Real_Heart.md "wikilink")**（）（2005年3月30日發行）
-4.  **[BEAT](../Page/BEAT.md "wikilink")**（2005年10月5日發行）
-5.  **[You](../Page/You_\(木村KAELA\).md "wikilink")**（2006年1月18日發行）
-6.  **[Magic Music](../Page/Magic_Music.md "wikilink")**（2006年6月28日發行）
+    Heart](https://zh.wikipedia.org/wiki/Real_Life_Real_Heart "wikilink")**（）（2005年3月30日發行）
+4.  **[BEAT](https://zh.wikipedia.org/wiki/BEAT "wikilink")**（2005年10月5日發行）
+5.  **[You](https://zh.wikipedia.org/wiki/You_\(木村KAELA\) "wikilink")**（2006年1月18日發行）
+6.  **[Magic
+    Music](https://zh.wikipedia.org/wiki/Magic_Music "wikilink")**（2006年6月28日發行）
 7.  **[TREE
-    CLIMBERS](../Page/TREE_CLIMBERS.md "wikilink")**（2006年9月6日發行）
-8.  **[Snowdome](../Page/Snowdome.md "wikilink")**（中譯：雪花球）（2007年1月17日發行）
+    CLIMBERS](https://zh.wikipedia.org/wiki/TREE_CLIMBERS "wikilink")**（2006年9月6日發行）
+8.  **[Snowdome](https://zh.wikipedia.org/wiki/Snowdome "wikilink")**（中譯：雪花球）（2007年1月17日發行）
 9.  **[Samantha](../Page/Samantha.md "wikilink")**（中譯：珊曼莎）（2007年7月18日發行）
 10. **[Yellow](../Page/Yellow_\(木村KAELA單曲\).md "wikilink")**（2007年10月24日發行）
 11. **[Jasper](../Page/Jasper.md "wikilink")**（2008年2月6日發行）
-12. **[Moustache/memories](../Page/Moustache/memories.md "wikilink")**（中譯：俏鬍子）（2008年9月10日發行）
-13. **[在哪裡](../Page/在哪裡.md "wikilink")**（2009年1月28日發行）
-14. **[BANZAI](../Page/BANZAI_\(木村KAELA單曲\).md "wikilink")**（2009年5月8日發行）
+12. **[Moustache/memories](https://zh.wikipedia.org/wiki/Moustache/memories "wikilink")**（中譯：俏鬍子）（2008年9月10日發行）
+13. **[在哪裡](https://zh.wikipedia.org/wiki/在哪裡 "wikilink")**（2009年1月28日發行）
+14. **[BANZAI](https://zh.wikipedia.org/wiki/BANZAI_\(木村KAELA單曲\) "wikilink")**（2009年5月8日發行）
 15. **[Ring a Ding
     Dong](../Page/Ring_a_Ding_Dong.md "wikilink")**（2010年6月9日發行）
 16. **[A winter fairy is melting a
-    snowman](../Page/A_winter_fairy_is_melting_a_snowman.md "wikilink")**（2010年12月8日發行）
-17. **[喜怒哀樂 plus 愛](../Page/喜怒哀樂_plus_愛.md "wikilink")**（2011年8月3日發行）
-18. **[Mamireru](../Page/Mamireru.md "wikilink")**(マミレル)（2012年5月16日發行）
-19. **[Sun shower](../Page/Sun_shower.md "wikilink")**（2012年10月24日發行）
-20. **[OLE\!OH\!](../Page/OLE!OH!.md "wikilink")**（2014年7月9日發行）
+    snowman](https://zh.wikipedia.org/wiki/A_winter_fairy_is_melting_a_snowman "wikilink")**（2010年12月8日發行）
+17. **[喜怒哀樂 plus
+    愛](https://zh.wikipedia.org/wiki/喜怒哀樂_plus_愛 "wikilink")**（2011年8月3日發行）
+18. **[Mamireru](https://zh.wikipedia.org/wiki/Mamireru "wikilink")**(マミレル)（2012年5月16日發行）
+19. **[Sun
+    shower](https://zh.wikipedia.org/wiki/Sun_shower "wikilink")**（2012年10月24日發行）
+20. **[OLE\!OH\!](https://zh.wikipedia.org/wiki/OLE!OH! "wikilink")**（2014年7月9日發行）
 21. **[TODAY IS A NEW
-    DAY](../Page/TODAY_IS_A_NEW_DAY.md "wikilink")**（2014年10月22日發行）
-22. **[EGG](../Page/EGG.md "wikilink")**（2015年9月2日發行）
+    DAY](https://zh.wikipedia.org/wiki/TODAY_IS_A_NEW_DAY "wikilink")**（2014年10月22日發行）
+22. **[EGG](https://zh.wikipedia.org/wiki/EGG "wikilink")**（2015年9月2日發行）
 
 ### 單曲銷量
 
@@ -90,9 +93,9 @@ sales<br />
 <tr class="odd">
 <td><p><a href="../Page/Oricon.md" title="wikilink">Oricon</a> Singles Charts<br />
 [3]</p></td>
-<td><p><em><a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a></em> <a href="../Page/Japan_Hot_100.md" title="wikilink">Japan Hot 100</a>†<br />
+<td><p><em><a href="../Page/告示牌_(雜誌).md" title="wikilink">Billboard</a></em> <a href="https://zh.wikipedia.org/wiki/Japan_Hot_100" title="wikilink">Japan Hot 100</a>†<br />
 [4]</p></td>
-<td><p><a href="../Page/RIAJ_Digital_Track_Chart.md" title="wikilink">RIAJ</a> digital tracks†<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/RIAJ_Digital_Track_Chart" title="wikilink">RIAJ</a> digital tracks†<br />
 [5]</p></td>
 <td></td>
 <td></td>
@@ -100,7 +103,7 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p>"<a href="../Page/Level_42_(song).md" title="wikilink">Level 42</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Level_42_(song)" title="wikilink">Level 42</a>"</p></td>
 <td><p><small>Initially released independently.</small></p></td>
 <td><p>14</p></td>
 <td><p>—</p></td>
@@ -116,14 +119,14 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p>"<a href="../Page/リルラ_リルハ.md" title="wikilink">リルラ リルハ</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/リルラ_リルハ" title="wikilink">リルラ リルハ</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Beat_(song).md" title="wikilink">Beat</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Beat_(song)" title="wikilink">Beat</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
@@ -132,7 +135,7 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p>"<a href="../Page/You_(Kaela_Kimura_song).md" title="wikilink">You</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/You_(Kaela_Kimura_song)" title="wikilink">You</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
@@ -147,7 +150,7 @@ sales<br />
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Magic_Music.md" title="wikilink">Magic Music</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Magic_Music" title="wikilink">Magic Music</a>"</p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
@@ -155,7 +158,7 @@ sales<br />
 <td><p>660,000</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Tree_Climbers.md" title="wikilink">Tree Climbers</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Tree_Climbers" title="wikilink">Tree Climbers</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
@@ -164,14 +167,14 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p>"<a href="../Page/Snowdome_(song).md" title="wikilink">Snowdome</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Snowdome_(song)" title="wikilink">Snowdome</a>"</p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
 <td><p>1*</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Samantha_(Kaela_Kimura_song).md" title="wikilink">Samantha</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Samantha_(Kaela_Kimura_song)" title="wikilink">Samantha</a>"</p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
@@ -179,7 +182,7 @@ sales<br />
 <td><p>400,000</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Yellow_(Kaela_Kimura_song).md" title="wikilink">Yellow</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Yellow_(Kaela_Kimura_song)" title="wikilink">Yellow</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
@@ -188,14 +191,14 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>"<a href="../Page/Jasper_(song).md" title="wikilink">Jasper</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Jasper_(song)" title="wikilink">Jasper</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/マスタッシュ/memories.md" title="wikilink">マスタッシュ/memories</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/マスタッシュ/memories" title="wikilink">マスタッシュ/memories</a>"</p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
@@ -204,14 +207,14 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p>"<a href="../Page/どこ.md" title="wikilink">どこ</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/どこ" title="wikilink">どこ</a>"</p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/Banzai_(Kaela_Kimura_song).md" title="wikilink">Banzai</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Banzai_(Kaela_Kimura_song)" title="wikilink">Banzai</a>"</p></td>
 <td></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
@@ -219,7 +222,7 @@ sales<br />
 <td><p>480,000</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Butterfly_(Kaela_Kimura_song).md" title="wikilink">Butterfly</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Butterfly_(Kaela_Kimura_song)" title="wikilink">Butterfly</a>"</p></td>
 <td><p><small>Digital download, RIAJ #1 for two weeks.</small></p></td>
 <td><p>—</p></td>
 <td><p>1</p></td>
@@ -227,7 +230,7 @@ sales<br />
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/ホットペッパーの唄.md" title="wikilink">ホットペッパーの唄</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/ホットペッパーの唄" title="wikilink">ホットペッパーの唄</a>"</p></td>
 <td><p><small>Digital download.</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -251,7 +254,7 @@ sales<br />
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>feat. <a href="../Page/Tamio_Okuda.md" title="wikilink">Tamio Okuda</a></p></td>
+<td><p>feat. <a href="https://zh.wikipedia.org/wiki/Tamio_Okuda" title="wikilink">Tamio Okuda</a></p></td>
 <td><p><small>Digital download, Tamio Okuda cover.</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -267,7 +270,7 @@ sales<br />
 <td><p>1,010,000</p></td>
 </tr>
 <tr class="odd">
-<td><p>"<a href="../Page/Deep_Beep.md" title="wikilink">Deep Beep</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/Deep_Beep" title="wikilink">Deep Beep</a>"</p></td>
 <td><p><small>Digital download.</small></p></td>
 <td><p>—</p></td>
 <td><p>23</p></td>
@@ -275,7 +278,7 @@ sales<br />
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p>"<a href="../Page/A_Winter_Fairy_Is_Melting_a_Snowman.md" title="wikilink">A Winter Fairy Is Melting a Snowman</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/A_Winter_Fairy_Is_Melting_a_Snowman" title="wikilink">A Winter Fairy Is Melting a Snowman</a>"</p></td>
 <td></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
@@ -284,14 +287,14 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p>"<a href="../Page/喜怒哀楽_plus_愛.md" title="wikilink">喜怒哀楽 plus 愛</a>"</p></td>
+<td><p>"<a href="https://zh.wikipedia.org/wiki/喜怒哀楽_plus_愛" title="wikilink">喜怒哀楽 plus 愛</a>"</p></td>
 <td></td>
 <td><p>8</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><small>* charted on monthly Chaku-uta <a href="../Page/RIAJ_Digital_Track_Chart.md" title="wikilink">Reco-kyō Chart</a>.<br />
+<td><p><small>* charted on monthly Chaku-uta <a href="https://zh.wikipedia.org/wiki/RIAJ_Digital_Track_Chart" title="wikilink">Reco-kyō Chart</a>.<br />
 †Japan Hot 100 established February 2008, RIAJ Digital Track Chart established April 2009.</small></p></td>
 <td></td>
 <td></td>
@@ -309,21 +312,21 @@ sales<br />
 
 #### 配信限定單曲
 
-| 日期         | 單曲                                                             |                                                           |
-| ---------- | -------------------------------------------------------------- | --------------------------------------------------------- |
-| 2009年6月1日  | **[Butterfly](../Page/Butterfly_\(木村KAELA單曲\).md "wikilink")** | 配信限定單曲                                                    |
-| 2009年7月1日  | ****                                                           | 手機片段下載期間限定配信發售                                            |
-| 2010年2月19日 | **息子（僕音ver）**                                                  | 木村KAELA with [奥田民生](../Page/奥田民生.md "wikilink")「手機全曲下載」配信 |
-| 2010年8月11日 | **[deep beep](../Page/deep_beep.md "wikilink")**               | 配信限定單曲                                                    |
+| 日期         | 單曲                                                                  |                                                           |
+| ---------- | ------------------------------------------------------------------- | --------------------------------------------------------- |
+| 2009年6月1日  | **[Butterfly](../Page/Butterfly_\(木村KAELA單曲\).md "wikilink")**      | 配信限定單曲                                                    |
+| 2009年7月1日  | ****                                                                | 手機片段下載期間限定配信發售                                            |
+| 2010年2月19日 | **息子（僕音ver）**                                                       | 木村KAELA with [奥田民生](../Page/奥田民生.md "wikilink")「手機全曲下載」配信 |
+| 2010年8月11日 | **[deep beep](https://zh.wikipedia.org/wiki/deep_beep "wikilink")** | 配信限定單曲                                                    |
 
 ### 專輯
 
-1.  **[KAELA](../Page/KAELA.md "wikilink")**（2004年12月8日發行）
+1.  **[KAELA](https://zh.wikipedia.org/wiki/KAELA "wikilink")**（2004年12月8日發行）
 2.  **[Circle](../Page/Circle.md "wikilink")**（2006年3月8日發行）
 3.  **[Scratch](../Page/Scratch.md "wikilink")**（中譯：憂傷塗鴉）（2007年2月7日發行）
 4.  **[+1](../Page/+1.md "wikilink")**（2008年4月2日發行）
 5.  **[HOCUS POCUS](../Page/HOCUS_POCUS.md "wikilink")**（2009年6月24日發行）
-6.  **[8EIGHT8](../Page/8EIGHT8.md "wikilink")**（2011年10月12日發行）
+6.  **[8EIGHT8](https://zh.wikipedia.org/wiki/8EIGHT8 "wikilink")**（2011年10月12日發行）
 
 ### 專輯銷量
 
@@ -341,11 +344,11 @@ sales<br />
 <tbody>
 <tr class="odd">
 <td><p>2004</p></td>
-<td><p><strong><em><a href="../Page/Kaela.md" title="wikilink">Kaela</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/Kaela" title="wikilink">Kaela</a></em></strong> <small></p>
 <ul>
 <li>Released: December 8, 2004</li>
-<li>Label: <a href="../Page/Columbia_Music_Entertainment.md" title="wikilink">Columbia</a> (COCP-32989 COCP-32988)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Label: <a href="https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment" title="wikilink">Columbia</a> (COCP-32989 COCP-32988)</li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>8</p></td>
@@ -353,11 +356,11 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><strong><em><a href="../Page/Circle_(Kaela_Kimura_album).md" title="wikilink">Circle</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/Circle_(Kaela_Kimura_album)" title="wikilink">Circle</a></em></strong> <small></p>
 <ul>
 <li>Released: March 8, 2006</li>
 <li>Label: Columbia (COCP-33521 COCP-33522)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>2</p></td>
@@ -365,11 +368,11 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><strong><em><a href="../Page/Scratch_(album).md" title="wikilink">Scratch</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/Scratch_(album)" title="wikilink">Scratch</a></em></strong> <small></p>
 <ul>
 <li>Released: February 7, 2007</li>
 <li>Label: Columbia (COZA-243/4 COCP-34093)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>1(連續2週)</p></td>
@@ -377,11 +380,11 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p><strong><em><a href="../Page/+1_(album).md" title="wikilink">+1</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/+1_(album)" title="wikilink">+1</a></em></strong> <small></p>
 <ul>
 <li>Released: April 2, 2008</li>
 <li>Label: Columbia (COZA-301/2 COCP-34795)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>3</p></td>
@@ -389,11 +392,11 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><strong><em><a href="../Page/Hocus_Pocus_(Kaela_Kimura_album).md" title="wikilink">Hocus Pocus</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/Hocus_Pocus_(Kaela_Kimura_album)" title="wikilink">Hocus Pocus</a></em></strong> <small></p>
 <ul>
 <li>Released: June 24, 2009</li>
 <li>Label: Columbia (COCP-35635 COZP-373/4)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>3</p></td>
@@ -401,11 +404,11 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><strong><em><a href="../Page/8Eight8.md" title="wikilink">8Eight8</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/8Eight8" title="wikilink">8Eight8</a></em></strong> <small></p>
 <ul>
 <li>Released: October 12, 2011</li>
 <li>Label: Columbia (COCP-36925 COZP-595/6)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>1</p></td>
@@ -413,11 +416,11 @@ sales<br />
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><strong><em><a href="../Page/Sync.md" title="wikilink">Sync</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/Sync" title="wikilink">Sync</a></em></strong> <small></p>
 <ul>
 <li>Released: December 19, 2012</li>
 <li>Label: Columbia (COCP-37725 COZP-743/4)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>5</p></td>
@@ -425,11 +428,11 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><strong><em><a href="../Page/ROCK.md" title="wikilink">ROCK</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/ROCK" title="wikilink">ROCK</a></em></strong> <small></p>
 <ul>
 <li>Released: October 30, 2013</li>
-<li>Label: <a href="../Page/Victor_Entertainment.md" title="wikilink">Victor</a> (VICL-64050 VICL-64080 VIZL-601)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Label: <a href="https://zh.wikipedia.org/wiki/Victor_Entertainment" title="wikilink">Victor</a> (VICL-64050 VICL-64080 VIZL-601)</li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>10</p></td>
@@ -447,7 +450,7 @@ sales<br />
 ### 精選專輯
 
 1.  **[5years](../Page/5years.md "wikilink")**（2010年2月3日發行）
-2.  **[10years](../Page/10years.md "wikilink")**（2014年6月25日發行）
+2.  **[10years](https://zh.wikipedia.org/wiki/10years "wikilink")**（2014年6月25日發行）
 
 ### 精選專輯銷量
 
@@ -468,8 +471,8 @@ sales<br />
 <td><p><strong><em><a href="../Page/5years.md" title="wikilink">5years</a></em></strong> <small></p>
 <ul>
 <li>Released: February 3, 2010</li>
-<li>Label: <a href="../Page/Columbia_Music_Entertainment.md" title="wikilink">Columbia</a> (COCP-36004 36002/3)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Label: <a href="https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment" title="wikilink">Columbia</a> (COCP-36004 36002/3)</li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>2</p></td>
@@ -477,11 +480,11 @@ sales<br />
 </tr>
 <tr class="even">
 <td><p>2004</p></td>
-<td><p><strong><em><a href="../Page/10years.md" title="wikilink">10years</a></em></strong> <small></p>
+<td><p><strong><em><a href="https://zh.wikipedia.org/wiki/10years" title="wikilink">10years</a></em></strong> <small></p>
 <ul>
 <li>Released: June 25, 2014</li>
-<li>Label: <a href="../Page/Columbia_Music_Entertainment.md" title="wikilink">Columbia</a> (COZP-933/4 COCP-38590)</li>
-<li>Formats: <a href="../Page/Compact_disc.md" title="wikilink">CD</a>, <a href="../Page/Paid_download.md" title="wikilink">digital download</a></li>
+<li>Label: <a href="https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment" title="wikilink">Columbia</a> (COZP-933/4 COCP-38590)</li>
+<li>Formats: <a href="https://zh.wikipedia.org/wiki/Compact_disc" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/Paid_download" title="wikilink">digital download</a></li>
 </ul>
 <p></small></p></td>
 <td><p>6</p></td>
@@ -522,7 +525,7 @@ sales<br />
 9.  FOETUNES（2006年4月26日發行）
       - 第3曲目The End Of The Sun（跨刀獻聲）
 10. [ATTENTION
-    PLEASE](../Page/ATTENTION_PLEASE.md "wikilink")2006日劇原聲帶（2006年5月24日發行）
+    PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")2006日劇原聲帶（2006年5月24日發行）
       - 第1曲目OH PRETTY WOMAN
 11. [令人討厭的松子的一生電影原聲帶](../Page/令人討厭的松子的一生.md "wikilink")（2006年5月24日發行）
       - 第1曲目TRILL TRILL
@@ -538,7 +541,7 @@ sales<br />
 ### 作詞提供
 
   - 「告白」
-      - [IDOLING\!\!\!的](../Page/IDOLING.md "wikilink")「告白」單曲（2008年7月16日）1曲目
+      - [IDOLING\!\!\!的](https://zh.wikipedia.org/wiki/IDOLING "wikilink")「告白」單曲（2008年7月16日）1曲目
       - kaela首次提供他人作詞。
   - 「Mother goose」
       - 友坂理恵「トリドリ」專輯（2009年6月24日）第8曲目。
@@ -580,12 +583,12 @@ sales<br />
 ### 戲劇
 
   - 日劇**『[ATTENTION
-    PLEASE](../Page/ATTENTION_PLEASE.md "wikilink")』**（2006年），演唱主題曲Oh
+    PLEASE](https://zh.wikipedia.org/wiki/ATTENTION_PLEASE "wikilink")』**（2006年），演唱主題曲Oh
     Pretty Woman，也在劇中客串演自己。
-  - 日劇**『[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")**真人版』，客串演出「未來長大的小丸子」。
+  - 日劇**『[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")**真人版』，客串演出「未來長大的小丸子」。
       -
         註：富士電台為紀念櫻桃小丸子15週年，特別拍攝的真人版劇場。
-  - 日劇**『[都市怪談之女](../Page/都市怪談之女.md "wikilink")**』(2012年)，客串第六集，演唱主題曲マミレル，也在劇中客串演自己。
+  - 日劇**『[都市怪談之女](https://zh.wikipedia.org/wiki/都市怪談之女 "wikilink")**』(2012年)，客串第六集，演唱主題曲マミレル，也在劇中客串演自己。
 
 ### 電影
 
@@ -605,14 +608,15 @@ sales<br />
       - Suparu・R2（2005年6月－）
   - Vodafone日本法人（現・SoftBank mobile）「Vodafone 3G（現・SoftBank
     3G）」（2005年2月下旬-6月）
-  - [森永乳業](../Page/森永乳業.md "wikilink")「Eskimo Pino」（2005年4月－）
+  - [森永乳業](https://zh.wikipedia.org/wiki/森永乳業 "wikilink")「Eskimo
+    Pino」（2005年4月－）
   - [任天堂](../Page/任天堂.md "wikilink")
       - 馬力歐博士（2005年4月－6月）
       - Game Boy micro（2005年9月－）
   - Parco（2005年9月－）
   - 麒麟啤酒「rugger」（2006年2月－）
   - 東京Modo學園（2006年－）
-  - [東芝](../Page/東芝.md "wikilink")「gigabeat」（2006年－）
+  - [東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")「gigabeat」（2006年－）
   - KDDI「Hikari one」（與木梨憲武演出，2006年－）
       - 「得意的事不同篇」
       - 「哪個好呢？篇」
@@ -655,7 +659,8 @@ sales<br />
   - 2005.04.03　東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - 2005.04.04　東京・SHIBUYA-AX
   - 2005.04.10　福岡・DRUM LOGOS
-  - 2005.04.11　大阪・[BIG CAT](../Page/BIG_CAT.md "wikilink")
+  - 2005.04.11　大阪・[BIG
+    CAT](https://zh.wikipedia.org/wiki/BIG_CAT "wikilink")
 
 </div>
 
@@ -671,7 +676,7 @@ sales<br />
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2005.10.21　横濱・[横濱BLITZ](../Page/横濱BLITZ.md "wikilink")
+  - 2005.10.21　横濱・[横濱BLITZ](https://zh.wikipedia.org/wiki/横濱BLITZ "wikilink")
   - 2005.10.28　東京・SHIBUYA-AX
 
 </div>
@@ -689,16 +694,20 @@ Live Tour 2006“Circle”
 <div class="NavContent" style="text-align: left;">
 
   - 2006.04.02　福岡・[Zepp
-    Fukuoka](../Page/Zepp#Zepp_Fukuoka.md "wikilink")
+    Fukuoka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Fukuoka "wikilink")
   - 2006.04.03　廣島・[廣島CLUB
-    QUATTRO](../Page/CLUB_QUATTRO#廣島CLUB_QUATTRO.md "wikilink")
-  - 2006.04.08　大阪・[Zepp Osaka](../Page/Zepp#Zepp_Osaka.md "wikilink")
-  - 2006.04.09　名古屋・[Zepp Nagoya](../Page/Zepp#Zepp_Nagoya.md "wikilink")
+    QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO#廣島CLUB_QUATTRO "wikilink")
+  - 2006.04.08　大阪・[Zepp
+    Osaka](https://zh.wikipedia.org/wiki/Zepp#Zepp_Osaka "wikilink")
+  - 2006.04.09　名古屋・[Zepp
+    Nagoya](https://zh.wikipedia.org/wiki/Zepp#Zepp_Nagoya "wikilink")
   - 2006.04.14　札幌・[Zepp
-    Sapporo](../Page/Zepp#Zepp_Sapporo.md "wikilink")
-  - 2006.04.16　仙台・[Zepp Sendai](../Page/Zepp#Zepp_Sendai.md "wikilink")
-  - 2006.04.23　東京・[Zepp Tokyo](../Page/Zepp#Zepp_Tokyo.md "wikilink")
-  - 2006.05.05　東京・[日比谷野外大音樂堂](../Page/日比谷野外音樂堂#大音楽堂.md "wikilink")
+    Sapporo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sapporo "wikilink")
+  - 2006.04.16　仙台・[Zepp
+    Sendai](https://zh.wikipedia.org/wiki/Zepp#Zepp_Sendai "wikilink")
+  - 2006.04.23　東京・[Zepp
+    Tokyo](https://zh.wikipedia.org/wiki/Zepp#Zepp_Tokyo "wikilink")
+  - 2006.05.05　東京・[日比谷野外大音樂堂](https://zh.wikipedia.org/wiki/日比谷野外音樂堂#大音楽堂 "wikilink")
 
 </div>
 
@@ -716,7 +725,7 @@ Live Tour 2006 秋～BaRa 木村 de BOB tour～
 
   - 2006.10.04　岩手・盛岡club change WAVE
   - 2006.10.05　秋田・CLUB SWINDLE
-  - 2006.10.07　新潟・[LOTS](../Page/NIIGATA_LOTS.md "wikilink")
+  - 2006.10.07　新潟・[LOTS](https://zh.wikipedia.org/wiki/NIIGATA_LOTS "wikilink")
   - 2006.10.10　静岡・窓枠
   - 2006.10.12　京都・MUSE
   - 2006.10.13　兵庫・神戶WYNTER LAND
@@ -724,7 +733,8 @@ Live Tour 2006 秋～BaRa 木村 de BOB tour～
   - 2006.10.17　熊本・BATTLE STAGE
   - 2006.10.21　石川・金沢EIGHT HALL
   - 2006.10.23　東京・LIQUIDROOM
-  - 2006.10.25　神奈川・[CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink")
+  - 2006.10.25　神奈川・[CLUB
+    CITTA'](https://zh.wikipedia.org/wiki/CLUB_CITTA' "wikilink")
 
 </div>
 
@@ -760,8 +770,9 @@ LIVE TOUR 2007「Scratch」～Agattemasutteba TOUR\~
   - 2007.05.22　群馬・高崎Club FLEEZ
   - 2007.05.24　青森・青森QUARTER
   - 2007.05.25　仙台・Zepp Sendai
-  - 2007.06.12　大阪・[Festival Hall](../Page/Festival_Hall.md "wikilink")
-  - 2007.06.13　名古屋・[名古屋市民會館](../Page/名古屋市民會館.md "wikilink")・大Hall
+  - 2007.06.12　大阪・[Festival
+    Hall](https://zh.wikipedia.org/wiki/Festival_Hall "wikilink")
+  - 2007.06.13　名古屋・[名古屋市民會館](https://zh.wikipedia.org/wiki/名古屋市民會館 "wikilink")・大Hall
   - 2007.06.15　東京・[日本武道館](../Page/日本武道館.md "wikilink")
   - 2007.06.25　沖繩・NAMURA Hall
 
@@ -817,27 +828,28 @@ Chelate Lemon presents LIVE TOUR 2008「+1」
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2008.05.09　千葉・[市川市文化會館](../Page/市川市文化會館.md "wikilink")・大Hall
-  - 2008.05.14　新潟・[新潟縣民會館](../Page/新潟縣民會館.md "wikilink")・大廳
-  - 2008.05.16　北海道・[北海道厚生年金會館](../Page/厚生年金會館.md "wikilink")
-  - 2008.05.18　岩手・[岩手県民会館](../Page/岩手県民会館.md "wikilink")・大Hall
-  - 2008.05.20　仙台・[仙台太陽廣場](../Page/仙台太陽廣場.md "wikilink")
-  - 2008.05.24　埼玉・[大宮Sonic-City](../Page/大宮Sonic-City.md "wikilink")・大Hall
-  - 2008.05.29　岡山・[倉敷市民會館](../Page/倉敷市民會館.md "wikilink")
+  - 2008.05.09　千葉・[市川市文化會館](https://zh.wikipedia.org/wiki/市川市文化會館 "wikilink")・大Hall
+  - 2008.05.14　新潟・[新潟縣民會館](https://zh.wikipedia.org/wiki/新潟縣民會館 "wikilink")・大廳
+  - 2008.05.16　北海道・[北海道厚生年金會館](https://zh.wikipedia.org/wiki/厚生年金會館 "wikilink")
+  - 2008.05.18　岩手・[岩手県民会館](https://zh.wikipedia.org/wiki/岩手県民会館 "wikilink")・大Hall
+  - 2008.05.20　仙台・[仙台太陽廣場](https://zh.wikipedia.org/wiki/仙台太陽廣場 "wikilink")
+  - 2008.05.24　埼玉・[大宮Sonic-City](https://zh.wikipedia.org/wiki/大宮Sonic-City "wikilink")・大Hall
+  - 2008.05.29　岡山・[倉敷市民會館](https://zh.wikipedia.org/wiki/倉敷市民會館 "wikilink")
   - 2008.05.30　廣島・廣島厚生年金會館
   - 2008.06.01　名古屋・[名古屋國際會議場](../Page/名古屋國際會議場.md "wikilink")・世紀廳
-  - 2008.06.05　福岡・[福岡太陽宮](../Page/福岡太陽宮.md "wikilink")
-  - 2008.06.06　鹿兒島・[鹿兒島市民文化Hall第一](../Page/鹿兒島市民文化Hall#第1Hall.md "wikilink")
+  - 2008.06.05　福岡・[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")
+  - 2008.06.06　鹿兒島・[鹿兒島市民文化Hall第一](https://zh.wikipedia.org/wiki/鹿兒島市民文化Hall#第1Hall "wikilink")
   - 2008.06.10　大阪・Festival Hall
   - 2008.06.11　大阪・Festival Hall
-  - 2008.06.13　香川・[香川縣縣民大廳](../Page/香川縣縣民大廳.md "wikilink")・Grand Hall
-  - 2008.06.15　愛媛・[松山市民會館](../Page/松山市民會館.md "wikilink")・大廳
-  - 2008.06.23　神奈川・[神奈川縣民大廳](../Page/神奈川縣民大廳.md "wikilink")・大廳
-  - 2008.06.29　栃木・[宇都宮市文化會館](../Page/宇都宮市文化會館.md "wikilink")・大廳
-  - 2008.07.02　静岡・[Actcity浜松](../Page/Actcity浜松.md "wikilink")・大廳
-  - 2008.07.04　富山・[Aubade・Hall](../Page/Aubade・Hall.md "wikilink")
+  - 2008.06.13　香川・[香川縣縣民大廳](https://zh.wikipedia.org/wiki/香川縣縣民大廳 "wikilink")・Grand
+    Hall
+  - 2008.06.15　愛媛・[松山市民會館](https://zh.wikipedia.org/wiki/松山市民會館 "wikilink")・大廳
+  - 2008.06.23　神奈川・[神奈川縣民大廳](https://zh.wikipedia.org/wiki/神奈川縣民大廳 "wikilink")・大廳
+  - 2008.06.29　栃木・[宇都宮市文化會館](https://zh.wikipedia.org/wiki/宇都宮市文化會館 "wikilink")・大廳
+  - 2008.07.02　静岡・[Actcity浜松](https://zh.wikipedia.org/wiki/Actcity浜松 "wikilink")・大廳
+  - 2008.07.04　富山・[Aubade・Hall](https://zh.wikipedia.org/wiki/Aubade・Hall "wikilink")
   - 2008.07.05　石川・石川厚生年金會館
-  - 2008.07.09　東京・[NHK大廳](../Page/NHK大廳.md "wikilink")
+  - 2008.07.09　東京・[NHK大廳](https://zh.wikipedia.org/wiki/NHK大廳 "wikilink")
   - 2008.07.10　東京・NHK大廳
 
 </div>

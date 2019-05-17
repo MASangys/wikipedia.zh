@@ -1,10 +1,10 @@
-**UC浏览器**是一款基于[手机和](../Page/手机.md "wikilink")[计算机而研发的](../Page/计算机.md "wikilink")[浏览器](../Page/浏览器.md "wikilink")，由[中国](../Page/中国.md "wikilink")[优视科技有限公司开发](../Page/UC优视.md "wikilink")。
+**UC浏览器**是一款基于[手机和](https://zh.wikipedia.org/wiki/手机 "wikilink")[计算机而研发的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[优视科技有限公司开发](../Page/UC优视.md "wikilink")。
 
 ## 歷史
 
 **UCWEB**於7.0版更名為UC浏览器（UC Browser）。
 
-2014年4月1日，UC浏览器PC版发布。UC浏览器PC版使用[Webkit内核和兼容性最佳的](../Page/Webkit.md "wikilink")[Trident内核](../Page/Trident.md "wikilink")(Internet
+2014年4月1日，UC浏览器PC版发布。UC浏览器PC版使用[Webkit内核和兼容性最佳的](https://zh.wikipedia.org/wiki/Webkit "wikilink")[Trident内核](https://zh.wikipedia.org/wiki/Trident "wikilink")(Internet
 Explorer内核)。\[1\]
 
 2014年6月11日，阿里巴巴集團宣佈全面收购优视科技。收购后，阿里巴巴集團将组建UC移动事业群，俞永福担任事业群总裁。并入阿里巴巴集團后，UC估值有望达到50亿美元。\[2\]
@@ -13,7 +13,7 @@ Explorer内核)。\[1\]
 
 ## 功能
 
-透過使用[伺服器壓縮的中继模式來節省](../Page/伺服器.md "wikilink")[流量](../Page/网络流量.md "wikilink")。
+透過使用[伺服器壓縮的中继模式來節省](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[流量](https://zh.wikipedia.org/wiki/网络流量 "wikilink")。
 
 ### 直连模式
 
@@ -21,22 +21,22 @@ Explorer内核)。\[1\]
 
 ### 中继模式
 
-当用户使用压缩中转模式（云加速模式）时，用戶所發送的請求會根據地點被[UC公司位於中国](../Page/UC公司.md "wikilink")、亚太和美国及俄罗斯的伺服器接收，伺服器將網頁進行安全掃描、壓縮數據等處理後送回用戶，於UC瀏覽器內進行數據解析並還原。壓縮處理後的數據能節省流量。
+当用户使用压缩中转模式（云加速模式）时，用戶所發送的請求會根據地點被[UC公司位於中国](https://zh.wikipedia.org/wiki/UC公司 "wikilink")、亚太和美国及俄罗斯的伺服器接收，伺服器將網頁進行安全掃描、壓縮數據等處理後送回用戶，於UC瀏覽器內進行數據解析並還原。壓縮處理後的數據能節省流量。
 
 採用這種模式的還有[Opera Mini](../Page/Opera_Mini.md "wikilink")，不過兩者壓縮流量的算法不一樣。
 
 ### U3内核
 
-2011年6月，UC公司发布了用3年多时间自主研发的U3内核，U3仍然采用了C/S架构，不过其重新编写了渲染模式，使之可以支持网页的动态还原，并且可以支持[HTML5](../Page/HTML5.md "wikilink")、[CSS](../Page/CSS.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")。由于U3内核是自主研发内核，可以较为容易的进行跨平台扩展，已经覆盖了iOS和Android平台。目前[iPad](../Page/iPad.md "wikilink")（已经被App
+2011年6月，UC公司发布了用3年多时间自主研发的U3内核，U3仍然采用了C/S架构，不过其重新编写了渲染模式，使之可以支持网页的动态还原，并且可以支持[HTML5](../Page/HTML5.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")。由于U3内核是自主研发内核，可以较为容易的进行跨平台扩展，已经覆盖了iOS和Android平台。目前[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（已经被App
 Store收录）\[4\]、[Android和](../Page/Android.md "wikilink")[MeeGo平台的UC浏览器已经使用了U](../Page/MeeGo.md "wikilink")3内核。
 
 ## UC浏览器电脑版
 
-UC浏览器电脑版是一款[UC公司在原来UC手机浏览器基础上推出PC平台浏览器](../Page/UC公司.md "wikilink")，依靠领先的手机移动端的技术优化，打进桌面浏览器市场，UC浏览器电脑版配置双核双引擎[Blink内核和](../Page/Blink.md "wikilink")[Trident内核](../Page/Trident.md "wikilink")。电脑版的“智能拼页”、“云端加速”、“下载加速”、“红杏出墙”等功能很明显是将手机版浏览器的特色功能迁移至了[PC端](../Page/PC.md "wikilink")。
+UC浏览器电脑版是一款[UC公司在原来UC手机浏览器基础上推出PC平台浏览器](https://zh.wikipedia.org/wiki/UC公司 "wikilink")，依靠领先的手机移动端的技术优化，打进桌面浏览器市场，UC浏览器电脑版配置双核双引擎[Blink内核和](../Page/Blink.md "wikilink")[Trident内核](https://zh.wikipedia.org/wiki/Trident "wikilink")。电脑版的“智能拼页”、“云端加速”、“下载加速”、“红杏出墙”等功能很明显是将手机版浏览器的特色功能迁移至了[PC端](../Page/PC.md "wikilink")。
 
 ## 反應
 
-2012年4月，UC优视公司董事长兼首席执行官[俞永福宣布UC浏览器月活跃用户数](../Page/俞永福.md "wikilink")（MAU）已超2亿\[5\]。
+2012年4月，UC优视公司董事长兼首席执行官[俞永福宣布UC浏览器月活跃用户数](https://zh.wikipedia.org/wiki/俞永福 "wikilink")（MAU）已超2亿\[5\]。
 
 ## 争议
 
@@ -48,7 +48,7 @@ UC浏览器首页推送的部分新闻被指有着“[标题党](../Page/标题�
 
 ### 資安疑慮
 
-2012年至2018年間已經有數起關於中國網際網路公司推出的瀏覽器的資訊安全問題被報道，包括但不限於UC瀏覽器、[QQ浏览器](../Page/QQ浏览器.md "wikilink")、[搜狗瀏覽器](../Page/搜狗高速瀏覽器.md "wikilink")、[百度浏览器以及](../Page/百度浏览器.md "wikilink")[360瀏覽器等等](../Page/360安全浏览器.md "wikilink")，它們被指對登入的使用者的資料使用了弱加密甚至不加密的方式傳輸，極易在傳輸過程中被[惡意程式或別有用心的人通過封包抓取工具獲得](../Page/惡意程式.md "wikilink")，\[8\]\[9\]\[10\]儘管這些瀏覽器的開發商至2017年時聲稱已經修復了這些問題。\[11\]
+2012年至2018年間已經有數起關於中國網際網路公司推出的瀏覽器的資訊安全問題被報道，包括但不限於UC瀏覽器、[QQ浏览器](../Page/QQ浏览器.md "wikilink")、[搜狗瀏覽器](../Page/搜狗高速瀏覽器.md "wikilink")、[百度浏览器以及](../Page/百度浏览器.md "wikilink")[360瀏覽器等等](../Page/360安全浏览器.md "wikilink")，它們被指對登入的使用者的資料使用了弱加密甚至不加密的方式傳輸，極易在傳輸過程中被[惡意程式或別有用心的人通過封包抓取工具獲得](https://zh.wikipedia.org/wiki/惡意程式 "wikilink")，\[8\]\[9\]\[10\]儘管這些瀏覽器的開發商至2017年時聲稱已經修復了這些問題。\[11\]
 
 除此以外，包括 UC
 瀏覽器在內的中國公司推出的瀏覽器也被指出其收集的資訊比其它公司的要多且更細緻，被認爲更便於用於針對特定個人展開的行銷活動。\[12\]

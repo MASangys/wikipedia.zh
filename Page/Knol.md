@@ -1,13 +1,13 @@
 **Knol**
-是[Google公司的一個計劃](../Page/Google公司.md "wikilink")，目的是要建立一個類似[維基百科或](../Page/維基百科.md "wikilink")[大眾百科](../Page/大眾百科.md "wikilink")（Citizendium）的網站，讓[網友可參與編寫知識性內容](../Page/網友.md "wikilink")。「Knol」是
+是[Google公司的一個計劃](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，目的是要建立一個類似[維基百科或](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[大眾百科](https://zh.wikipedia.org/wiki/大眾百科 "wikilink")（Citizendium）的網站，讓[網友可參與編寫知識性內容](../Page/網友.md "wikilink")。「Knol」是
 Google 自創的新詞，取自 Knowledge（知識），是「一個知識單位」的意思（**A unit of
 knowledge**）。每一篇文章亦可以用 Knol
 來稱呼。此計劃於2007年12月13日發表，在內部測試期間，與
 Gmail 初期一樣，需要以邀請的方式才可加入；於2008年7月23日，Knol
-完全開放給大眾使用\[1\]。其平台采用[Solvitor和](../Page/Solvitor.md "wikilink")[Crowd
-Favorite创建的基于](../Page/Crowd_Favorite.md "wikilink")[Wordpress的](../Page/Wordpress.md "wikilink")[Annotum](../Page/Annotum.md "wikilink")\[2\]。
+完全開放給大眾使用\[1\]。其平台采用[Solvitor和](https://zh.wikipedia.org/wiki/Solvitor "wikilink")[Crowd
+Favorite创建的基于](https://zh.wikipedia.org/wiki/Crowd_Favorite "wikilink")[Wordpress的](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Annotum](https://zh.wikipedia.org/wiki/Annotum "wikilink")\[2\]。
 
-2011年11月，Google公司宣布Knol在2012年4月30日后不能查看，用户只能下载自己的文章或者导出到[Wordpress.com](../Page/Wordpress.com.md "wikilink")；10月1日后将不能再访问\[3\]
+2011年11月，Google公司宣布Knol在2012年4月30日后不能查看，用户只能下载自己的文章或者导出到[Wordpress.com](https://zh.wikipedia.org/wiki/Wordpress.com "wikilink")；10月1日后将不能再访问\[3\]
 。
 
 ## 與維基百科的比較
@@ -16,7 +16,7 @@ Favorite创建的基于](../Page/Crowd_Favorite.md "wikilink")[Wordpress的](../
 
 Knol 與維基百科的最大不同：
 
-1.  **作者需署名，可選擇附個人照：**是每一頁面（條目）原則上由一名作者完成編輯及修改，該作者必需署名，也可以貼上[照片](../Page/照片.md "wikilink")，当然也可由多人合作完成一个页面（条目）。
+1.  **作者需署名，可選擇附個人照：**是每一頁面（條目）原則上由一名作者完成編輯及修改，該作者必需署名，也可以貼上[照片](https://zh.wikipedia.org/wiki/照片 "wikilink")，当然也可由多人合作完成一个页面（条目）。
 2.  **需原作者同意，方可增修文章：**讀者若有意更改文章，需取得原作者的同意。
 3.  **同一頁面（條目）有不同文章內容：**同一個條目將可能會有數名作者的不同文章。讀者可以對頁面進行評分、加入建議及提案修改之\[4\]。讀者若有意更改文章，需要原作者的同意。\[5\]页面中的网址包含作者名字，这说明Knol强调以人为本，起点高，吸引专家编辑，才会有较高的可信度。
 4.  **作者可设置页面内容的版权版本。**
@@ -29,7 +29,7 @@ Google 公司將會提撥一部份廣告收入給該編寫者\[6\]。
 
 ### 语言
 
-Knol最初测试阶段只支持英语，到2011年7月初，已可支持[阿拉伯语](../Page/阿拉伯语.md "wikilink")、[葡萄牙语](../Page/葡萄牙语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[韩语](../Page/韩语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[俄语](../Page/俄语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[印地语](../Page/印地语.md "wikilink")、[荷蘭語](../Page/荷蘭語.md "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")，在设置（settings）那可以切换语言。
+Knol最初测试阶段只支持英语，到2011年7月初，已可支持[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")、[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")、[法语](../Page/法语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[日语](../Page/日语.md "wikilink")、[印地语](https://zh.wikipedia.org/wiki/印地语 "wikilink")、[荷蘭語](../Page/荷蘭語.md "wikilink")、[希伯来语](../Page/希伯来语.md "wikilink")，在设置（settings）那可以切换语言。
 
 ## 參考資料
 

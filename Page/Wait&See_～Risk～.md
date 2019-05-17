@@ -26,7 +26,7 @@ Game
 ## DVD單曲
 
 為宇多田光第一張DVD單曲，於2000年6月30日與下一張日語單曲《[For You/Time
-Limit](../Page/For_You/Time_Limit.md "wikilink")》同日發行。
+Limit](https://zh.wikipedia.org/wiki/For_You/Time_Limit "wikilink")》同日發行。
 
 ### 收錄內容
 

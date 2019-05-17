@@ -1,5 +1,5 @@
-，又名是[日本通訊網路於](../Page/日本通訊網路.md "wikilink")1990年到1991年間所發行的[橫向捲軸](../Page/橫向捲軸.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")。在[PC
-Engine主機與](../Page/PC_Engine.md "wikilink")[超級任天堂主機都有移植版本](../Page/超級任天堂.md "wikilink")。
+，又名是[日本通訊網路於](../Page/日本通訊網路.md "wikilink")1990年到1991年間所發行的[橫向捲軸](https://zh.wikipedia.org/wiki/橫向捲軸 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。在[PC
+Engine主機與](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[超級任天堂主機都有移植版本](../Page/超級任天堂.md "wikilink")。
 
 本作的主角換成新人雷娜，三人替換制度也是保留，但是更強化了三人的差別，使的互相協力的重要性遠高於前作，成為更進一步的戰術運用搭配模式也是一大進步。雖然本作依然保有系列高水準的一貫特色，但因為前作主角優子換下的關係，使的本作的聲勢不如前三代。
 

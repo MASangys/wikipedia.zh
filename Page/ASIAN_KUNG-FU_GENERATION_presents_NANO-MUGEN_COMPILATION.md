@@ -1,13 +1,13 @@
 **ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION**是[ASIAN
 KUNG-FU
-GENERATION主辦的搖滾音樂祭](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")「NANO-MUGEN
+GENERATION主辦的搖滾音樂祭](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")「NANO-MUGEN
 FES.2005」中演出的所有藝人的合輯。在2005年6月8日由開始發售。歌曲的順序則以英文字母來排列。
 
 ## 收錄曲
 
 1.  「バーン・ベイビー・バーン」アッシュ（バンド）|ASH
 2.  「ブラックアウト」[ASIAN KUNG-FU
-    GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")※1
+    GENERATION](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")※1
 3.  「I LOVE YOU 'CAUSE I HAVE TO」
 4.  「Bored Of Everything」ELLEGARDEN
 5.  「Tongue Tied」FARRAH

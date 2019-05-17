@@ -3,7 +3,7 @@
 2003年12月開始，企圖跳脫所謂Mystery（本格推理小說）的既有觀念而大幅更新。封面插圖的佔有量增加、加入裏封面（封面和一張插畫），黑色調封底也改為柔和色調。內容增加戀愛要素，並在此類作品書腰寫上大字的「L·O·V·E！」。
 
 以建立和現有[推理小說不同的](../Page/推理小說.md "wikilink")「角色推理」為目標。此外，有獨自的新人獎[富士見Young
-Mystery大獎](../Page/富士見Young_Mystery大獎.md "wikilink")。
+Mystery大獎](https://zh.wikipedia.org/wiki/富士見Young_Mystery大獎 "wikilink")。
 
 已於2007年廢刊。不再出版新作，但仍有出版原先未完結作品（也有部份作品版權被轉移）。
 
@@ -18,9 +18,9 @@ Mystery大獎](../Page/富士見Young_Mystery大獎.md "wikilink")。
   - [糖果子彈 A Lollypop or A
     Bullet](../Page/糖果子彈_A_Lollypop_or_A_Bullet.md "wikilink")（櫻庭一樹/）
   - [ROOM
-    NO.1301](../Page/ROOM_NO.1301.md "wikilink")（[新井輝](../Page/新井輝.md "wikilink")/）
-  - [SHI-NO](../Page/SHI-NO.md "wikilink")（[上月雨音](../Page/上月雨音.md "wikilink")/）
-  - [我的親愛主人\!?](../Page/我的親愛主人!?.md "wikilink")（[鷹野祐希](../Page/鷹野祐希.md "wikilink")/）
+    NO.1301](../Page/ROOM_NO.1301.md "wikilink")（[新井輝](https://zh.wikipedia.org/wiki/新井輝 "wikilink")/）
+  - [SHI-NO](https://zh.wikipedia.org/wiki/SHI-NO "wikilink")（[上月雨音](https://zh.wikipedia.org/wiki/上月雨音 "wikilink")/）
+  - [我的親愛主人\!?](https://zh.wikipedia.org/wiki/我的親愛主人!? "wikilink")（[鷹野祐希](https://zh.wikipedia.org/wiki/鷹野祐希 "wikilink")/）
 
 ### 尖端出版
 
@@ -28,20 +28,21 @@ Mystery大獎](../Page/富士見Young_Mystery大獎.md "wikilink")。
 
 ### 東立出版社
 
-  - [靜流姊與執拗的死者們](../Page/靜流姊與執拗的死者們.md "wikilink")（[上遠野浩平](../Page/上遠野浩平.md "wikilink")/[椋本夏夜](../Page/椋本夏夜.md "wikilink")）
+  - [靜流姊與執拗的死者們](https://zh.wikipedia.org/wiki/靜流姊與執拗的死者們 "wikilink")（[上遠野浩平](https://zh.wikipedia.org/wiki/上遠野浩平 "wikilink")/[椋本夏夜](../Page/椋本夏夜.md "wikilink")）
 
 ### 未代理
 
-  - [魔法使的條件](../Page/魔法使的條件.md "wikilink")（[枯野瑛](../Page/枯野瑛.md "wikilink")/，台灣角川代理漫畫版）
+  - [魔法使的條件](../Page/魔法使的條件.md "wikilink")（[枯野瑛](https://zh.wikipedia.org/wiki/枯野瑛 "wikilink")/，台灣角川代理漫畫版）
 
 ## 關聯條目
 
-  - [Light Novel Award](../Page/Light_Novel_Award.md "wikilink")
+  - [Light Novel
+    Award](https://zh.wikipedia.org/wiki/Light_Novel_Award "wikilink")
       - [富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")
       - [角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")
       - [電擊文庫](../Page/電擊文庫.md "wikilink")
       - [Fami通文庫](../Page/Fami通文庫.md "wikilink")
-  - [輕小說作家列表](../Page/輕小說作家列表.md "wikilink")
+  - [輕小說作家列表](https://zh.wikipedia.org/wiki/輕小說作家列表 "wikilink")
 
 ## 外部連結
 

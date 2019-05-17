@@ -1,17 +1,17 @@
 [Undefined_Fantastic_Object.jpg](https://zh.wikipedia.org/wiki/File:Undefined_Fantastic_Object.jpg "fig:Undefined_Fantastic_Object.jpg")
-是由[同人組織](../Page/同人組織.md "wikilink")[上海愛莉絲幻樂團製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](../Page/東方Project.md "wikilink")12作。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")12作。
 
 ## 概要
 
-本作是[東方Project的第](../Page/東方Project.md "wikilink")12作以及其在[Windows平台上的第七作](../Page/Windows.md "wikilink")。本作的遊戲情報在2009年2月26日於作者[ZUN的](../Page/ZUN.md "wikilink")[網誌](../Page/網誌.md "wikilink")「[博麗幻想書譜](http://kourindou.exblog.jp/)」上公開。遊戲的體驗版CD在2009年3月8日，於第6回[博麗神社例大祭頒布](../Page/東方Project#博麗神社例大祭.md "wikilink")，並於同年7月19日在網上開放下載，而正式版則於2009年夏季（[Comic
+本作是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")12作以及其在[Windows平台上的第七作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的遊戲情報在2009年2月26日於作者[ZUN的](../Page/ZUN.md "wikilink")[網誌](../Page/網誌.md "wikilink")「[博麗幻想書譜](http://kourindou.exblog.jp/)」上公開。遊戲的體驗版CD在2009年3月8日，於第6回[博麗神社例大祭頒布](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")，並於同年7月19日在網上開放下載，而正式版則於2009年夏季（[Comic
 Market](../Page/Comic_Market.md "wikilink") 76）推出。
 
-自機角色除了有歷代的主角[博麗靈夢及](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙外](../Page/霧雨魔理沙.md "wikilink")，還追加了在《[風神錄](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》及《[地靈殿](../Page/東方地靈殿_～_Subterranean_Animism..md "wikilink")》兩作中分別以第五關頭目及Extra中頭目身份登場的「[東風谷早苗](../Page/東風谷早苗.md "wikilink")（[巫女](../Page/巫女.md "wikilink")）」。
+自機角色除了有歷代的主角[博麗靈夢及](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙外](../Page/霧雨魔理沙.md "wikilink")，還追加了在《[風神錄](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》及《[地靈殿](../Page/東方地靈殿_～_Subterranean_Animism..md "wikilink")》兩作中分別以第五關頭目及Extra中頭目身份登場的「[東風谷早苗](https://zh.wikipedia.org/wiki/東風谷早苗 "wikilink")（[巫女](../Page/巫女.md "wikilink")）」。
 
 在遊戲系統的設計概念上，作者表示得分的基本平衡將會作大幅變動，變得更加有挑戰性。
 
 本遊戲的副標題Undefined Fantastic
-Object是參考[不明飛行物的英文簡稱而來的](../Page/不明飛行物.md "wikilink")，一般解為「未知的幻想物體」或「未知的美妙物體」，而ZUN的官方網站則有「幻想的彈幕物體」（）的解釋。
+Object是參考[不明飛行物的英文簡稱而來的](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")，一般解為「未知的幻想物體」或「未知的美妙物體」，而ZUN的官方網站則有「幻想的彈幕物體」（）的解釋。
 
 ## 故事
 
@@ -21,7 +21,7 @@ Object是參考[不明飛行物的英文簡稱而來的](../Page/不明飛行物
 
 博麗神社的巫女[博麗靈夢從住在森林的魔法使的口中聽到不可思議的傳聞](../Page/博麗靈夢.md "wikilink")，說她看見雲的斷層間有很不可思議的船飛在那裡，而那船好像是在找尋著甚麼而不斷在雲間廻遊。
 
-博麗巫女[博麗靈夢](../Page/博麗靈夢.md "wikilink")、普通的魔法使[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")、還有守矢神社的風祝[東風谷早苗](../Page/東方風神錄_～_Mountain_of_Faith.#東風谷_早苗.md "wikilink")，為了追上那艘船，於是三人同一時間向著天空出發了。
+博麗巫女[博麗靈夢](../Page/博麗靈夢.md "wikilink")、普通的魔法使[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")、還有守矢神社的風祝[東風谷早苗](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#東風谷_早苗 "wikilink")，為了追上那艘船，於是三人同一時間向著天空出發了。
 
 ## 結局
 
@@ -44,7 +44,7 @@ Power值，「F道具」則能將Power值補充道最大上限。
 
   - Bomb
 
-發動時無敵、可作為「[被彈Bomb](../Page/東方Project#被彈Bomb系統.md "wikilink")」使用這幾點與前作一樣。不過本作的Bomb系統則從前兩作的「靈擊」，變為類似Windows初期作品的「自機符卡」，與Power值再次分開施放限制的計算，並以「[符卡](../Page/符卡.md "wikilink")」（）作為Bomb的數量單位。不過，本作的Bomb在發動時沒有「符卡宣告」，嚴格來說是與以往的作品完全不同的新系統。
+發動時無敵、可作為「[被彈Bomb](https://zh.wikipedia.org/wiki/東方Project#被彈Bomb系統 "wikilink")」使用這幾點與前作一樣。不過本作的Bomb系統則從前兩作的「靈擊」，變為類似Windows初期作品的「自機符卡」，與Power值再次分開施放限制的計算，並以「[符卡](../Page/符卡.md "wikilink")」（）作為Bomb的數量單位。不過，本作的Bomb在發動時沒有「符卡宣告」，嚴格來說是與以往的作品完全不同的新系統。
 
   - 道具收集、得分
 
@@ -58,14 +58,14 @@ Power值，「F道具」則能將Power值補充道最大上限。
 
   - **-{点}-**（藍色）：點道具，取得後能增加得分。
   - **P**（紅色）：P道具，小型的可增加0.01點Power值。Power值的上限為4.00。
-  - **殘機碎片**（星形、粉紅色）：每收集四個可[增加一個殘機](../Page/1UP.md "wikilink")(例大祭體驗版為三個)。
+  - **殘機碎片**（星形、粉紅色）：每收集四個可[增加一個殘機](https://zh.wikipedia.org/wiki/1UP "wikilink")(例大祭體驗版為三個)。
   - **Bomb碎片**（星形、綠色）：每收集三個可增加一個「符卡」。
   - **UFO道具**（UFO型）：下述。分別有紅、藍、綠色，部分UFO道具會在經過一段時間後自動轉為另一種顏色。此道具不能透過道具自動蒐集來回收。另外當UFO出現時，回收UFO道具雖不會影響左下的UFO計量表，但卻能增加「最大得點」250點。
 
 ### UFO
 
 [Th12_gameplay.png](https://zh.wikipedia.org/wiki/File:Th12_gameplay.png "fig:Th12_gameplay.png")
-只要擊破頭上有[UFO在轉動的敵方雜魚](../Page/不明飛行物.md "wikilink")，即會有「UFO道具」掉落。UFO道具會在畫面上飄移，經過一段時間之後會從畫面上離去。當取得UFO道具的時候，可以使畫面左下方的「UFO計」增加；而當UFO計增加到3時，即會引來**UFO的出現**。中頭目或頭目被擊破時也可能會掉下UFO道具。
+只要擊破頭上有[UFO在轉動的敵方雜魚](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")，即會有「UFO道具」掉落。UFO道具會在畫面上飄移，經過一段時間之後會從畫面上離去。當取得UFO道具的時候，可以使畫面左下方的「UFO計」增加；而當UFO計增加到3時，即會引來**UFO的出現**。中頭目或頭目被擊破時也可能會掉下UFO道具。
 
 UFO道具分為紅、藍和綠色的三種。只有當取得了同顏色的三隻、或不同顏色的各一隻，才會有UFO出現。如果在已有兩隻同色的情況下取得另一種顏色的、或是在已有兩隻不同色的情況下取得顏色與其中一隻同樣的，將會捨棄UFO計最左方的一個UFO道具，由第二個取代其位置，而新取得的則取代原本第二個的位置。在要取得UFO道具的前，可從UFO道具周圍有沒有出現五角形的邊界，來簡單確認取得後能否招來UFO。
 
@@ -206,7 +206,7 @@ UFO出現後，若在一段時間不擊破的話，它將會逃去。逃去的�
 
 一面中頭目、頭目及五面中頭目。
 
-個性聰明狡詐，遇到棘手的事情就會先一溜煙撤退。另外，因為[毘沙門天撐腰](../Page/毘沙門天.md "wikilink")，所以個性蠻高傲的。
+個性聰明狡詐，遇到棘手的事情就會先一溜煙撤退。另外，因為[毘沙門天撐腰](https://zh.wikipedia.org/wiki/毘沙門天 "wikilink")，所以個性蠻高傲的。
 
 作為妖怪鼠群之首，經常操縱著無數的老鼠，使喚牠們找尋自己要找的東西，但如果是食物幾乎都會先被鼠群吃光。會使用探棒和激光寶塔，雖然使用激光寶塔的威力不足星一般強大。在求聞口授中有提到她是毘沙門天的高級妖怪，因此真正實力可能更強。
 
@@ -221,7 +221,7 @@ UFO出現後，若在一段時間不擊破的話，它將會逃去。逃去的�
 ### 多多良 小傘
 
   - ，Tatara Kogasa
-    **種族**：[附喪神](../Page/附喪神.md "wikilink")（[唐傘妖怪](../Page/唐傘小僧.md "wikilink")）
+    **種族**：[附喪神](https://zh.wikipedia.org/wiki/附喪神 "wikilink")（[唐傘妖怪](https://zh.wikipedia.org/wiki/唐傘小僧 "wikilink")）
     **能力**：驚嚇人類的能力
     **別名**：
       - 　愉快的遺忘之傘（《星蓮船》）
@@ -364,7 +364,7 @@ UFO出現後，若在一段時間不擊破的話，它將會逃去。逃去的�
 
 在日本，毘沙門天的神獸是老虎。「寅」在十二支中屬虎。但在日本是沒有老虎的，星是因為人類對不存在的老虎進行想像，最後誕生出來的妖獸。因此本質上更接近「妖怪」。
 
-手上的激光寶塔是破壞力極高的武器，發出來的激光能摧毀掉射程內的所有物質。光線打到地上後的土壤和岩石會變成寶石，寶塔會聚集這些寶石再發出激光。據八意永琳所言，這就類似[γ射線一樣改變土壤的性質](../Page/伽馬射線.md "wikilink")。
+手上的激光寶塔是破壞力極高的武器，發出來的激光能摧毀掉射程內的所有物質。光線打到地上後的土壤和岩石會變成寶石，寶塔會聚集這些寶石再發出激光。據八意永琳所言，這就類似[γ射線一樣改變土壤的性質](https://zh.wikipedia.org/wiki/伽馬射線 "wikilink")。
 
 ### 聖 白蓮
 
@@ -403,13 +403,13 @@ UFO出現後，若在一段時間不擊破的話，它將會逃去。逃去的�
 
 但命蓮寺卻蓋在大祀廟上，原因大概是因為白蓮從哪裡聽到地下沉睡著很麻煩的人物，而即將復活的人即是妖怪的剋星－聖人，豐聰耳神子。
 
-白蓮這個名字可能來自於[漢傳佛教](../Page/漢傳佛教.md "wikilink")[淨土宗的其中一個分支](../Page/淨土宗.md "wikilink")「[白蓮宗](../Page/白蓮宗.md "wikilink")」。
+白蓮這個名字可能來自於[漢傳佛教](https://zh.wikipedia.org/wiki/漢傳佛教 "wikilink")[淨土宗的其中一個分支](../Page/淨土宗.md "wikilink")「[白蓮宗](https://zh.wikipedia.org/wiki/白蓮宗 "wikilink")」。
 
 星將白蓮稱做聖人，但青娥稱她是邪惡的化身。但對人類和妖怪都是一視同仁的，而且將寺廟經營的比博麗神社還有錢（一方面是星的緣故）。
 
 但她絕對不是聖人，因為她所使用的能力是妖術，妖術最原始力量來源就是邪惡。但至少她不會用在壞事上。
 
-白蓮其中的一張符卡「**大魔法『魔神復誦』**」，和舊作[神綺其中一項彈幕幾乎一模一樣](../Page/東方怪綺談_～_Mystic_Square.#登場角色.md "wikilink")。
+白蓮其中的一張符卡「**大魔法『魔神復誦』**」，和舊作[神綺其中一項彈幕幾乎一模一樣](https://zh.wikipedia.org/wiki/東方怪綺談_～_Mystic_Square.#登場角色 "wikilink")。
 
 ### 封獸 鵺
 
@@ -428,7 +428,7 @@ UFO出現後，若在一段時間不擊破的話，它將會逃去。逃去的�
       - 《心綺樓》觀眾
       - 《鈴奈庵》第三十一話
     **主題曲**：
-      - 　[平安時代的外星人](../Page/平安時代.md "wikilink")（《星蓮船》）
+      - 　[平安時代的外星人](https://zh.wikipedia.org/wiki/平安時代 "wikilink")（《星蓮船》）
 
 Extra頭目，這次UFO事件的幕後黑手。
 
@@ -641,7 +641,7 @@ CARD「源三位賴政の弓」來自鵺的傳說的結局，鵺被源賴政用�
 <td></td>
 <td><p>Player's Score</p></td>
 <td><p>分數登錄畫面<br />
-重新收錄自<a href="../Page/東方風神錄.md" title="wikilink">東方風神錄</a></p></td>
+重新收錄自<a href="https://zh.wikipedia.org/wiki/東方風神錄" title="wikilink">東方風神錄</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -1,12 +1,13 @@
-**Le Vibrazioni**是一支1999年成立於[義大利](../Page/義大利.md "wikilink")
-[米蘭的](../Page/米蘭.md "wikilink")[搖滾](../Page/搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")。
+**Le
+Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")
+[米蘭的](../Page/米蘭.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員
 
-  - [法蘭西斯可·沙西那](../Page/法蘭西斯可·沙西那.md "wikilink")：[主唱](../Page/歌手.md "wikilink")、[吉他手](../Page/吉他手.md "wikilink")
-  - [史蒂芬諾·維德里](../Page/史蒂芬諾·維德里.md "wikilink")：吉他手、[鍵盤手](../Page/鍵盤樂器.md "wikilink")、[西塔琴](../Page/西塔琴.md "wikilink")
-  - [馬可·卡斯特拉尼](../Page/馬可·卡斯特拉尼.md "wikilink")：[貝斯手](../Page/貝斯手.md "wikilink")
-  - [亞歷山卓·戴伊達](../Page/亞歷山卓·戴伊達.md "wikilink")：[鼓手](../Page/鼓手.md "wikilink")
+  - [法蘭西斯可·沙西那](https://zh.wikipedia.org/wiki/法蘭西斯可·沙西那 "wikilink")：[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
+  - [史蒂芬諾·維德里](https://zh.wikipedia.org/wiki/史蒂芬諾·維德里 "wikilink")：吉他手、[鍵盤手](../Page/鍵盤樂器.md "wikilink")、[西塔琴](https://zh.wikipedia.org/wiki/西塔琴 "wikilink")
+  - [馬可·卡斯特拉尼](https://zh.wikipedia.org/wiki/馬可·卡斯特拉尼 "wikilink")：[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")
+  - [亞歷山卓·戴伊達](https://zh.wikipedia.org/wiki/亞歷山卓·戴伊達 "wikilink")：[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
 
 ## 音樂作品
 

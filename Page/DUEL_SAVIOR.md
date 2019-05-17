@@ -1,14 +1,14 @@
 《**DUEL
-SAVIOR**》是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2004年10月1日發售的[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")\[1\]。2005年7月29日發售追加[資料片的](../Page/資料片.md "wikilink")《**[DUEL
+SAVIOR**》是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2004年10月1日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")\[1\]。2005年7月29日發售追加[資料片的](https://zh.wikipedia.org/wiki/資料片 "wikilink")《**[DUEL
 SAVIOR
-JUSTICE](../Page/#DUEL_SAVIOR_JUSTICE.md "wikilink")**》。同年12月22日，[Alchemist發售移植到](../Page/Alchemist.md "wikilink")[PlayStation
+JUSTICE](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_JUSTICE "wikilink")**》。同年12月22日，[Alchemist發售移植到](../Page/Alchemist.md "wikilink")[PlayStation
 2主機上的](../Page/PlayStation_2.md "wikilink")《**[DUEL SAVIOR
-DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
+DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\]。
 
 ## 遊戲系統
 
   -
-    系統上分為[AVG部分和橫向](../Page/冒險遊戲.md "wikilink")[ACT部分](../Page/動作遊戲.md "wikilink")。AVG部分為透過在校園地圖上選取目的地，前往該處觸發劇情與提升女主角的好感度。橫向ACT為操縱主角大河以強弱攻擊、[二段跳和前衝刺等動作打倒接連出現的敵人](../Page/二段跳.md "wikilink")。含有微量的[RPG升級要素](../Page/電子角色扮演遊戲.md "wikilink")，打倒敵人會獲得經驗值，累積至一定值能升級而增加計量表的長度，計量表愈長意味著有可能連續做出更多的集氣攻擊和特殊移動。完成某位女主角的結局後，該女主角在ACT部分會變成可操縱腳色。\[3\]\[4\]\[5\]
+    系統上分為[AVG部分和橫向](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[ACT部分](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。AVG部分為透過在校園地圖上選取目的地，前往該處觸發劇情與提升女主角的好感度。橫向ACT為操縱主角大河以強弱攻擊、[二段跳和前衝刺等動作打倒接連出現的敵人](https://zh.wikipedia.org/wiki/二段跳 "wikilink")。含有微量的[RPG升級要素](../Page/電子角色扮演遊戲.md "wikilink")，打倒敵人會獲得經驗值，累積至一定值能升級而增加計量表的長度，計量表愈長意味著有可能連續做出更多的集氣攻擊和特殊移動。完成某位女主角的結局後，該女主角在ACT部分會變成可操縱腳色。\[3\]\[4\]\[5\]
     故事表現手法上繼承[BALDR
     FORCE](../Page/BALDR_FORCE.md "wikilink")，女主角們有一定的攻略順序。愈後面開放攻略的女主角，其專屬劇情包含了更多的故事謎團。玩家會隨著攻略進度而一步一步接近故事核心。
 
@@ -25,14 +25,14 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
 
   -
     男主角，是個色鬼。和未亞一起從近似[日本的和平世界被召喚到阿凡達](../Page/日本.md "wikilink")（原本召喚的應該只是未亞，因不明原因令大河作為「附屬品」而被召喚）結果成為史上第一位男性救世主候補。平時吊兒郎當，不當「命令」是一回事，但做人意外地有原則，絕對會守著「約定」。原本當上救世主候補的目的是為了創造「自己的後宮世界」，然而到了後期，因種種事情而意識到自己沉重的使命。
-    在原本的世界中，雙親早死的大河寄居親戚家，利用課餘在[便利店兼職](../Page/便利店.md "wikilink")。但種種理由令大河一直在找尋便宜的房子準備和未亞搬去新環境（在後續作品《[Xross
+    在原本的世界中，雙親早死的大河寄居親戚家，利用課餘在[便利店兼職](https://zh.wikipedia.org/wiki/便利店 "wikilink")。但種種理由令大河一直在找尋便宜的房子準備和未亞搬去新環境（在後續作品《[Xross
     Scramble](../Page/Xross_Scramble.md "wikilink")》中改成有自己租的套房後才被招喚）。
     召喚器是可因應不同狀況而改變成炸彈或斧頭等形態的大劍「」。正如大河是史上第一位男性救世主候補一樣，背逆者在召喚器中是唯一持有男性[人格的特別存在](../Page/人格.md "wikilink")。和未亞的召喚器「正義」間有特別的聯繫。
 
 <!-- end list -->
 
   -
-    大河的妹妹，和大河一起被召喚到阿凡達，和輕浮的哥哥相反，是個乖巧有禮貌的模範生。因過去的[陰影而對被人圍繞的狀況有恐懼感](../Page/輪姦.md "wikilink")，對從小唯一真正重視自己的大河有極嚴重的戀兄情結，十分嫉妒所有在大河身邊的女孩。實際上不想成為救世主，留在阿凡達只是為了和大河待在一起並保護他。平時的自稱是「私（，[日語的](../Page/日語.md "wikilink")『我』）」，當情緒被牽動時會以自己的名字「未亞」來稱呼自己。
+    大河的妹妹，和大河一起被召喚到阿凡達，和輕浮的哥哥相反，是個乖巧有禮貌的模範生。因過去的[陰影而對被人圍繞的狀況有恐懼感](../Page/輪姦.md "wikilink")，對從小唯一真正重視自己的大河有極嚴重的戀兄情結，十分嫉妒所有在大河身邊的女孩。實際上不想成為救世主，留在阿凡達只是為了和大河待在一起並保護他。平時的自稱是「私（，[日語的](https://zh.wikipedia.org/wiki/日語 "wikilink")『我』）」，當情緒被牽動時會以自己的名字「未亞」來稱呼自己。
     召喚器是可發射光箭的「」，也可以附加火、冰、雷的攻擊。和大河的召喚器「背逆者」間有特別的聯繫。當未亞認為大河對其他女孩作出越軌行為時，會拿出正義「教訓」他並附帶一頓說教。
     在未亞的專屬結局中中點出大河和未亞並無血緣關係，但在JUSTICE版追加的後宮路線中指出兩人其實血脈相連，不過是多親近的血緣（幾等親）則沒有講明。
 
@@ -45,13 +45,13 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
 <!-- end list -->
 
   -
-    救世主學科班長兼宿舍長，道德觀念較為保守的[僧侶](../Page/僧侶.md "wikilink")，總會待在教堂祈禱。雖然是聖職者，但十分害怕[喪屍](../Page/喪屍.md "wikilink")、[幽靈](../Page/幽靈.md "wikilink")、[墳場等事物](../Page/墳場.md "wikilink")。
-    召喚器是等身長的[杖](../Page/杖.md "wikilink")「」。擅長回復系、防禦系魔法（但在遊戲的戰鬥部份中沒有回復魔法的招式）。
+    救世主學科班長兼宿舍長，道德觀念較為保守的[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，總會待在教堂祈禱。雖然是聖職者，但十分害怕[喪屍](../Page/喪屍.md "wikilink")、[幽靈](https://zh.wikipedia.org/wiki/幽靈 "wikilink")、[墳場等事物](../Page/墳場.md "wikilink")。
+    召喚器是等身長的[杖](https://zh.wikipedia.org/wiki/杖 "wikilink")「」。擅長回復系、防禦系魔法（但在遊戲的戰鬥部份中沒有回復魔法的招式）。
 
 <!-- end list -->
 
   -
-    在大河之後被正常召喚來的救世主候補，職業近似虛構作品中的[忍者](../Page/忍者.md "wikilink")。擁有連莉莉也認同的一等一實力，卻因患有[恐血症](../Page/恐血症.md "wikilink")，看到血液會慌張到暈倒，而常常無法發揮實力。剛來到阿凡達時想塑造出冷酷寡言的形象，但其實是個自稱為「」，講話尾語帶「」的開朗人物。受過大河壯膽的特訓而有近似師徒的關係，尊稱大河為「師傅」。
+    在大河之後被正常召喚來的救世主候補，職業近似虛構作品中的[忍者](../Page/忍者.md "wikilink")。擁有連莉莉也認同的一等一實力，卻因患有[恐血症](https://zh.wikipedia.org/wiki/恐血症 "wikilink")，看到血液會慌張到暈倒，而常常無法發揮實力。剛來到阿凡達時想塑造出冷酷寡言的形象，但其實是個自稱為「」，講話尾語帶「」的開朗人物。受過大河壯膽的特訓而有近似師徒的關係，尊稱大河為「師傅」。
     召喚器為型的「黑曜」。
 
 <!-- end list -->
@@ -75,10 +75,10 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
   -
     別名「赦爾」，傭兵科的學生，武器為大劍。長相頗帥、劍術也不錯，但好色上不輸大河而被女生敬而遠之。和大河是臭味相投的密友，常常偷窺女子澡堂並用幻影石偷拍女生後販賣。對未亞一見鍾情，對待未亞的態度明顯和對待其他女生不同。
   -
-    學園戰技科的教師.。典型的[巨乳角色](../Page/巨乳.md "wikilink")，出場或移動時甚至會有「澎～澎～」的效果音。個性上開朗又讓人捉摸不定，對學生很好但教學態度很嚴厲，學生們對她又愛又怕。身為魔術師的能力極為優秀，尤其擅長把人停滯在空中的「[懸浮術](../Page/#Levi.md "wikilink")」。在救世主候補們戰鬥時常常因午睡等理由失蹤，故事中幾乎沒有關於她戰鬥場面的描寫。會在深夜潛入食堂偷酒喝。
+    學園戰技科的教師.。典型的[巨乳角色](../Page/巨乳.md "wikilink")，出場或移動時甚至會有「澎～澎～」的效果音。個性上開朗又讓人捉摸不定，對學生很好但教學態度很嚴厲，學生們對她又愛又怕。身為魔術師的能力極為優秀，尤其擅長把人停滯在空中的「[懸浮術](https://zh.wikipedia.org/wiki/#Levi "wikilink")」。在救世主候補們戰鬥時常常因午睡等理由失蹤，故事中幾乎沒有關於她戰鬥場面的描寫。會在深夜潛入食堂偷酒喝。
     真正身分是王國密探，擅長暗殺。受克雷雪達女王密令潛伏學園，最主要的任務是監視學園長穆麗爾。
   -
-    學園的教師，在學園主要研究有關過去的救世主與破滅間的戰爭。上課和考試都很嚴格，但沒有教授任何實踐科目而被男學生評為「[豆芽菜](../Page/豆芽菜.md "wikilink")」。長相美型不過常常擺出看不起弱者的態度和做出惹人厭的發言，在學園內沒什麼人氣，不過身為知識、禮儀和規範等方面的教育者相當稱職。有一位亡軼的妹妹，在大河和未亞身上看到自己和妹妹過去的影子。
+    學園的教師，在學園主要研究有關過去的救世主與破滅間的戰爭。上課和考試都很嚴格，但沒有教授任何實踐科目而被男學生評為「[豆芽菜](https://zh.wikipedia.org/wiki/豆芽菜 "wikilink")」。長相美型不過常常擺出看不起弱者的態度和做出惹人厭的發言，在學園內沒什麼人氣，不過身為知識、禮儀和規範等方面的教育者相當稱職。有一位亡軼的妹妹，在大河和未亞身上看到自己和妹妹過去的影子。
 
 ### 破滅
 
@@ -145,7 +145,7 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
     由召喚士之祖所寫的魔法書。是為了向「在神創世時，能決定它的方向的存在」告知世界的真相而寫，已失傳的夢幻之書。但其實被封印在弗洛莉亞學園圖書館的地下深處。封印書的地方被稱為「試驗之場」，傳說中「書」會親自試驗要託付的人，只有通過這試驗的人才能翻閱它。
 
   -
-    存在於阿凡達的不可思議石頭。能夠記錄眼前的景象並以投影的方式再現，類似現實世界的[相機](../Page/相機.md "wikilink")。
+    存在於阿凡達的不可思議石頭。能夠記錄眼前的景象並以投影的方式再現，類似現實世界的[相機](https://zh.wikipedia.org/wiki/相機 "wikilink")。
 
   -
     古代為了對抗破滅而製造的兵器，王國軍的最終王牌，從地脈吸取魔力，匯集成破壞的能量後再射出的巨炮。王弗里德王家在千年前的戰爭後將其從舊王都搬遷到現在的位置，啟動權由王家代代傳承，目前唯一能擔任啟動裝置的是王家僅存的克雷雪達女王。射擊時會強制吸取周圍的瑪那，啟動裝置以外的人必須進行避難，不然會被吸盡瑪那而死。
@@ -228,7 +228,7 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
   - ;露比納斯·弗洛莉亞斯
 
       -
-        露比納斯在決鬥前已準備好在失去肉體時存放靈魂的[何蒙庫魯茲](../Page/何蒙庫魯茲.md "wikilink")、和存放記憶的特製念珠，能在特定的條件下再次甦生。但知道這件事的穆麗爾突然失蹤，讓露比納斯就這樣被放置了數百年。某次地震偶然喚醒了何蒙庫魯茲的部份，不過沒有記憶的她誤以為在鬧鬼的地下墓地中醒來的自己是殭屍，就這樣在地下墓地待了數百年直到遇上大河，被取名為「[娜娜斯](../Page/#娜.md "wikilink")」。
+        露比納斯在決鬥前已準備好在失去肉體時存放靈魂的[何蒙庫魯茲](https://zh.wikipedia.org/wiki/何蒙庫魯茲 "wikilink")、和存放記憶的特製念珠，能在特定的條件下再次甦生。但知道這件事的穆麗爾突然失蹤，讓露比納斯就這樣被放置了數百年。某次地震偶然喚醒了何蒙庫魯茲的部份，不過沒有記憶的她誤以為在鬧鬼的地下墓地中醒來的自己是殭屍，就這樣在地下墓地待了數百年直到遇上大河，被取名為「[娜娜斯](https://zh.wikipedia.org/wiki/#娜 "wikilink")」。
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
   - ;穆麗爾·艾斯巴克
 
       -
-        穆麗爾在導引之書和救世主之鎧所在的遺跡上建立了弗洛莉亞學園，希望能培養對抗破滅的力量並防範救世主的誕生。但在學園剛完成後就因意外而飛到異世界，再次回到阿凡達時時光已流逝了近千年，學園也成了尋找並培育救世主的存在。之後穆麗爾化名為「[穆麗爾·斯亞菲爾德](../Page/#穆.md "wikilink")」，以學園長的身分經營學院並暗地裡防範救世主的誕生。
+        穆麗爾在導引之書和救世主之鎧所在的遺跡上建立了弗洛莉亞學園，希望能培養對抗破滅的力量並防範救世主的誕生。但在學園剛完成後就因意外而飛到異世界，再次回到阿凡達時時光已流逝了近千年，學園也成了尋找並培育救世主的存在。之後穆麗爾化名為「[穆麗爾·斯亞菲爾德](https://zh.wikipedia.org/wiki/#穆 "wikilink")」，以學園長的身分經營學院並暗地裡防範救世主的誕生。
         在世界間穿梭設法重回阿凡達時救了被破滅襲擊的莉莉，並收她為養女。在意外的情況下讓年幼的莉莉接觸到自己的召喚器「公正」並訂下契約，內心百般煎熬地將她編入可能要自己親手抹殺的救世主學科。
 
 <!-- end list -->
@@ -257,20 +257,20 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
   - ;
 
       -
-        在近千年後改名為「[莉可·莉斯](../Page/#莉可.md "wikilink")」潛入了學園。雖然不停的尋找可能成為自己主人的人選，但又不忍心救世主的悲劇重演而遲遲不選定新的赤之主。在沒有主人的情況下，為了減少魔力（頁數）的消耗而避免所有多餘的活動與會話，並吃進大量的食物來保存體力。
+        在近千年後改名為「[莉可·莉斯](https://zh.wikipedia.org/wiki/#莉可 "wikilink")」潛入了學園。雖然不停的尋找可能成為自己主人的人選，但又不忍心救世主的悲劇重演而遲遲不選定新的赤之主。在沒有主人的情況下，為了減少魔力（頁數）的消耗而避免所有多餘的活動與會話，並吃進大量的食物來保存體力。
 
 ## 主題曲
 
   - **Fatally**
-    作詞：[KOTOKO](../Page/KOTOKO.md "wikilink")，作曲、編曲：[C.G
-    mix](../Page/C.G_mix.md "wikilink")，歌：KOTOKO
+    作詞：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")，作曲、編曲：[C.G
+    mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")，歌：KOTOKO
 
 ## 工作人員
 
   - 劇本：砂月 with
-    [企劃屋](../Page/企劃屋.md "wikilink")（[丸戶史明](../Page/丸戶史明.md "wikilink")、、小林且典）
+    [企劃屋](https://zh.wikipedia.org/wiki/企劃屋 "wikilink")（[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")、、小林且典）
   - 原畫：[菊池政治](../Page/菊池政治.md "wikilink")
-  - 影片：[神月社](../Page/神月社.md "wikilink")
+  - 影片：[神月社](https://zh.wikipedia.org/wiki/神月社 "wikilink")
 
 ## DUEL SAVIOR JUSTICE
 
@@ -279,9 +279,9 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
     SAVIOR」的玩家能透過更新的方式免除重新安裝，並繼承存檔紀錄。同時發售有更新專用的光碟「DUAL
     SAVIOR collection disc.」\[7\]。
     更新內容包含了本篇追加後宮結局，片頭動畫的重製，並追加以下模式\[8\]\[9\]：
-      - 在體力耗盡前不停打倒敵人的「生存模式」，能操作本篇無法使用的角色，並追加[V.G.系列](../Page/戲畫_\(遊戲品牌\)#Variable_Geo系列.md "wikilink")
-        角色1名、[Chocolat](../Page/戲畫_\(遊戲品牌\)#Chocolat系列.md "wikilink")
-        角色3名和[貓貓軟體的](../Page/貓貓軟體.md "wikilink")[水色](../Page/水色_\(遊戲\).md "wikilink")
+      - 在體力耗盡前不停打倒敵人的「生存模式」，能操作本篇無法使用的角色，並追加[V.G.系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Variable_Geo系列 "wikilink")
+        角色1名、[Chocolat](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#Chocolat系列 "wikilink")
+        角色3名和[貓貓軟體的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[水色](https://zh.wikipedia.org/wiki/水色_\(遊戲\) "wikilink")
         角色3名。
       - 「練習模式」，能練習操作所有在生存模式下能使用的角色。
       - 「識破防禦練習道場」，能無損傷接下敵人攻擊的強力防禦技「」的練習模式。可以針對不同的攻擊進行練習。
@@ -295,7 +295,7 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
     OUT\!」（作詞、作曲：YOFFY、演唱：[PSYCHIC
     LOVER](../Page/PSYCHIC_LOVER.md "wikilink")）和片頭動畫。
     特定路線過關後，若在記憶卡中有「[Chocolat ～maid cafe
-    "curio"～](../Page/Chocolat_～maid_cafe_"curio"～.md "wikilink")」記錄的話，可以遊玩「chocalat
+    "curio"～](https://zh.wikipedia.org/wiki/Chocolat_～maid_cafe_"curio"～ "wikilink")」記錄的話，可以遊玩「chocalat
     SAVIOR」模式。以女僕咖啡廳為舞台和來襲的服務生們戰鬥，依照結果來發表等級。
     限定版的「」附有音樂CD和娜娜斯的人物模型。\[11\]
 
@@ -432,22 +432,22 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
 
   - Fanbook
     [EAGLE
-    PUBLISHING於](../Page/EAGLE_PUBLISHING.md "wikilink")2005年8月30日出版，ISBN
+    PUBLISHING於](https://zh.wikipedia.org/wiki/EAGLE_PUBLISHING "wikilink")2005年8月30日出版，ISBN
     4-86146-077-8。收錄遊戲所有CG、[官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)、攻略等，另有砂月所寫的4頁短篇故事「DUEL
     SAVIOR異聞 」
 
 <!-- end list -->
 
   - 小說
-    [Jive於](../Page/Jive.md "wikilink")2005年12月24日出版，[皆川千尋著](../Page/皆川千尋.md "wikilink")，ISBN
-    4-86176-244-8。[小宮山裕設計封面](../Page/小宮山裕.md "wikilink")，插畫來自由[菊池政治所畫的遊戲CG](../Page/菊池政治.md "wikilink")。故事內容是經刪減及修改的後宮路線。
+    [Jive於](https://zh.wikipedia.org/wiki/Jive "wikilink")2005年12月24日出版，[皆川千尋著](https://zh.wikipedia.org/wiki/皆川千尋 "wikilink")，ISBN
+    4-86176-244-8。[小宮山裕設計封面](https://zh.wikipedia.org/wiki/小宮山裕 "wikilink")，插畫來自由[菊池政治所畫的遊戲CG](../Page/菊池政治.md "wikilink")。故事內容是經刪減及修改的後宮路線。
 
 ## 小知識
 
   - 在無印及JUSTICE版開頭動畫中約1分45秒至48秒出現的高塔其實和故事毫無關係，只是一種「演出手法」。
   - 在上述版本中，一張CG中出現了《[BALDR
     FORCE](../Page/BALDR_FORCE.md "wikilink")》中的角色梁和彩音，但兩人的配音和原本不一樣。
-  - [官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)中，在旁邊出現的是[希臘文字](../Page/希臘字母.md "wikilink")，「」即是「Duel
+  - [官方網站的四格漫畫](http://www.web-giga.com/duelsavior/ds_comic.htm)中，在旁邊出現的是[希臘文字](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")，「」即是「Duel
     savior」，「」是「duel savior」。
   - 女角的名稱多來自植物名稱\[12\]，如下：
 
@@ -463,42 +463,42 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
 <tr class="odd">
 <td><p>莉莉</p></td>
 <td><p>Lily</p></td>
-<td><p><a href="../Page/百合屬.md" title="wikilink">百合</a>（Lily）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/百合屬" title="wikilink">百合</a>（Lily）</p></td>
 </tr>
 <tr class="even">
 <td><p>貝莉歐·托諾普</p></td>
 <td><p>Velio Trope</p></td>
-<td><p><a href="../Page/天芥菜屬.md" title="wikilink">天芥菜</a>（Heliotrope）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天芥菜屬" title="wikilink">天芥菜</a>（Heliotrope）</p></td>
 </tr>
 <tr class="odd">
 <td><p>柊楓</p></td>
-<td><p><a href="../Page/柊.md" title="wikilink">柊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柊" title="wikilink">柊</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/楓.md" title="wikilink">楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楓" title="wikilink">楓</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>莉可·莉斯</p></td>
 <td><p>Lico Lice</p></td>
-<td><p><a href="../Page/夏水仙.md" title="wikilink">夏水仙</a>（Lycoris）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏水仙" title="wikilink">夏水仙</a>（Lycoris）</p></td>
 </tr>
 <tr class="even">
 <td><p>露比納斯</p></td>
 <td><p>Lubinus</p></td>
-<td><p><a href="../Page/羽扇豆.md" title="wikilink">羽扇豆</a>（學名：Lupinus）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羽扇豆" title="wikilink">羽扇豆</a>（學名：Lupinus）</p></td>
 </tr>
 <tr class="odd">
 <td><p>亞斯塔梅利亞</p></td>
 <td><p>Alstroemeria</p></td>
-<td><p>-{<a href="../Page/六出花屬.md" title="wikilink">六出花</a>}-（學名：Alstroemeria）</p></td>
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/六出花屬" title="wikilink">六出花</a>}-（學名：Alstroemeria）</p></td>
 </tr>
 <tr class="even">
 <td><p>羅貝莉亞</p></td>
 <td><p>Lobelia</p></td>
-<td><p><a href="../Page/半邊蓮.md" title="wikilink">半邊蓮</a>（Lobelia）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/半邊蓮" title="wikilink">半邊蓮</a>（Lobelia）</p></td>
 </tr>
 <tr class="odd">
 <td><p>達莉亞</p></td>
@@ -509,7 +509,7 @@ DESTINY](../Page/#DUEL_SAVIOR_DESTINY.md "wikilink")**》\[2\]。
 <td><p>艾斯卡·羅尼亞<br />
 《<a href="../Page/Xross_Scramble.md" title="wikilink">Xross Scramble</a>》角色</p></td>
 <td><p>Eska Lonia</p></td>
-<td><p><a href="../Page/南美鼠刺屬.md" title="wikilink">南美鼠刺</a>（Escallonia）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南美鼠刺屬" title="wikilink">南美鼠刺</a>（Escallonia）</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,8 +1,8 @@
-《**Wish**》為[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[衛蘭的首張新曲](../Page/衛蘭.md "wikilink")+精選，於2009年11月27日推出，《Wish》為全碟唯一一首全新原創歌曲，另外三首新歌為舊曲新詞的經典歌曲。2010年2月5日推出《**Wish**》第二版，加收幾首英文精選歌曲及殘酷遊戲MV。
+《**Wish**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭的首張新曲](../Page/衛蘭.md "wikilink")+精選，於2009年11月27日推出，《Wish》為全碟唯一一首全新原創歌曲，另外三首新歌為舊曲新詞的經典歌曲。2010年2月5日推出《**Wish**》第二版，加收幾首英文精選歌曲及殘酷遊戲MV。
 
 ## 簡介
 
-此大碟更讓[衛蘭首次奪得](../Page/衛蘭.md "wikilink")[IFPI香港唱片銷量大獎頒奬禮2009全年最高銷量本地女歌手](../Page/IFPI香港唱片銷量大獎頒奬禮2009.md "wikilink")。專輯名稱取自[豐田WISH](../Page/豐田WISH.md "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，衛蘭亦成為此車的代言人。專輯收錄4首新歌及28首精選歌曲，隨碟附送DVD一片，收錄17首MV\[1\]\[2\]。
+此大碟更讓[衛蘭首次奪得](../Page/衛蘭.md "wikilink")[IFPI香港唱片銷量大獎頒奬禮2009全年最高銷量本地女歌手](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2009 "wikilink")。專輯名稱取自[豐田WISH](https://zh.wikipedia.org/wiki/豐田WISH "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，衛蘭亦成為此車的代言人。專輯收錄4首新歌及28首精選歌曲，隨碟附送DVD一片，收錄17首MV\[1\]\[2\]。
 
 ## 專輯曲目
 
@@ -78,17 +78,17 @@
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>愛你還愛你</p></td>
-<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a></p></td>
 <td><p>林夕</p></td>
-<td><p><a href="../Page/Ted_Lo.md" title="wikilink">Ted Lo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ted_Lo" title="wikilink">Ted Lo</a></p></td>
 <td><p>雷頌德</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
 <td><p>今夜你不會來</p></td>
-<td><p><a href="../Page/陳志恆.md" title="wikilink">陳志恆</a>、<a href="../Page/謝明訓.md" title="wikilink">謝明訓</a></p></td>
-<td><p>林夕、<a href="../Page/林東松.md" title="wikilink">林東松</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳志恆" title="wikilink">陳志恆</a>、<a href="https://zh.wikipedia.org/wiki/謝明訓" title="wikilink">謝明訓</a></p></td>
+<td><p>林夕、<a href="https://zh.wikipedia.org/wiki/林東松" title="wikilink">林東松</a></p></td>
 <td><p>陳志恆</p></td>
 <td><p>陳志恆</p></td>
 <td></td>
@@ -114,7 +114,7 @@
 <tr class="odd">
 <td><p>11.</p></td>
 <td><p>口花花</p></td>
-<td><p>陳志恆、<a href="../Page/陳鎮川.md" title="wikilink">陳鎮川</a></p></td>
+<td><p>陳志恆、<a href="https://zh.wikipedia.org/wiki/陳鎮川" title="wikilink">陳鎮川</a></p></td>
 <td><p>林夕</p></td>
 <td><p>Mac Chew</p></td>
 <td><p>伍樂城</p></td>
@@ -150,7 +150,7 @@
 <tr class="odd">
 <td><p>15.</p></td>
 <td><p>霎眼嬌</p></td>
-<td><p><a href="../Page/Robert_Lay.md" title="wikilink">Robert Lay</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Robert_Lay" title="wikilink">Robert Lay</a></p></td>
 <td><p>林夕</p></td>
 <td><p>Robert Lay</p></td>
 <td><p>雷頌德</p></td>
@@ -225,7 +225,7 @@
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>你的眼神 <strong>(新歌)</strong></p></td>
-<td><p><a href="../Page/蘇來.md" title="wikilink">蘇來</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇來" title="wikilink">蘇來</a></p></td>
 <td><p><a href="../Page/鄭國江.md" title="wikilink">鄭國江</a></p></td>
 <td><p>雷頌德</p></td>
 <td><p>雷頌德</p></td>
@@ -280,7 +280,7 @@
 <td><p>8.</p></td>
 <td><p>情深說話未曾講</p></td>
 <td><p>雷頌德</p></td>
-<td><p><a href="../Page/潘源良.md" title="wikilink">潘源良</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘源良" title="wikilink">潘源良</a></p></td>
 <td><p>側田</p></td>
 <td><p>側田、雷頌德</p></td>
 <td><p>原唱：<a href="../Page/黎明.md" title="wikilink">黎明</a></p></td>
@@ -290,7 +290,7 @@
 <td><p>陰天假期</p></td>
 <td><p>Thomas Dawn Ann</p></td>
 <td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
-<td><p>雷頌德、<a href="../Page/John_Laudon.md" title="wikilink">John Laudon</a></p></td>
+<td><p>雷頌德、<a href="https://zh.wikipedia.org/wiki/John_Laudon" title="wikilink">John Laudon</a></p></td>
 <td><p>雷頌德</p></td>
 <td></td>
 </tr>
@@ -317,7 +317,7 @@
 <td><p>寒命</p></td>
 <td><p><a href="../Page/伍仲衡.md" title="wikilink">伍仲衡</a></p></td>
 <td><p>林夕</p></td>
-<td><p><a href="../Page/Adrian_Chan.md" title="wikilink">Adrian Chan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adrian_Chan" title="wikilink">Adrian Chan</a></p></td>
 <td><p>伍仲衡</p></td>
 <td></td>
 </tr>
@@ -455,7 +455,8 @@
 
 ## 專輯及歌曲所獲獎項
 
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")2009
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
     - 全碟試聽最高收聽率大碟 - 《Wish》
   - IFPI 2009香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
   - IFPI 2010香港唱片銷量大獎頒獎禮 - 十大廣東大碟 - 《Wish》
@@ -465,7 +466,7 @@
 
 ## 軼事
 
-衛蘭首張新曲加精選的唱片封套的瑜珈動作成為焦點。2018年11月6日，[無線電視處境劇集](../Page/無線電視.md "wikilink")《[愛回家之開心速遞](../Page/愛回家之開心速遞.md "wikilink")》中，香港女演員[樊奕敏模仿衛蘭的瑜珈動作](../Page/樊奕敏.md "wikilink")。
+衛蘭首張新曲加精選的唱片封套的瑜珈動作成為焦點。2018年11月6日，[無線電視處境劇集](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《[愛回家之開心速遞](https://zh.wikipedia.org/wiki/愛回家之開心速遞 "wikilink")》中，香港女演員[樊奕敏模仿衛蘭的瑜珈動作](https://zh.wikipedia.org/wiki/樊奕敏 "wikilink")。
 
 ## 参考
 

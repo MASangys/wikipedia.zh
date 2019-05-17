@@ -1,6 +1,5 @@
-**Superbus**是一队来自[法国的五人乐队](../Page/法国.md "wikilink")，成立于1999年。
-乐队的核心人物为Jennifer Ayache， 她是乐队的发起人， 主唱，
-乐队的绝大部分歌曲的歌词和歌曲均由她创作。 乐队的其他成员包括：
+**Superbus**是一队来自[法国的五人乐队](https://zh.wikipedia.org/wiki/法国 "wikilink")，成立于1999年。
+乐队的核心人物为Jennifer Ayache， 她是乐队的发起人， 主唱， 乐队的绝大部分歌曲的歌词和歌曲均由她创作。 乐队的其他成员包括：
 Patrice Focone， 吉他手和和唱； Michel Giovannetti，吉他手和和唱； François-Xavier Even，
 贝司手和和唱； Greg Jacks， 鼓手。 鼓手Guillaume Rousé 在2001年加入乐队， 2006年离队， 为Greg
 Jacks所替代。 乐队名字来源于拉丁语， 意为异常出众／出色的， 相似于法语里的Super。

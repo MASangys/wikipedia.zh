@@ -1,39 +1,39 @@
 ***Frozen Bubble***
-是一款*[泡泡龍](../Page/泡泡龍.md "wikilink")*樣式的可在多個操作系統包括[Linux](../Page/Linux.md "wikilink")，[Windows](../Page/Microsoft_Windows.md "wikilink")，[Mac
+是一款*[泡泡龍](https://zh.wikipedia.org/wiki/泡泡龍 "wikilink")*樣式的可在多個操作系統包括[Linux](../Page/Linux.md "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
 OS
-X和智能手機的](../Page/Mac_OS_X.md "wikilink")[Symbian](../Page/Symbian_OS.md "wikilink")[S60上運行的](../Page/S60.md "wikilink")[自由軟體](../Page/自由軟體.md "wikilink")[電腦遊戲](../Page/電腦遊戲.md "wikilink")。另外還有一個單人的[Javaapplet版](../Page/Java.md "wikilink")。\[1\]
+X和智能手機的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Symbian](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")[S60上運行的](https://zh.wikipedia.org/wiki/S60 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。另外還有一個單人的[Javaapplet版](../Page/Java.md "wikilink")。\[1\]
 
 *Frozen Bubble*原版用[Perl写成](../Page/Perl.md "wikilink")，作者是Guillaume
 Cottenceau，使用[Simple DirectMedia
-Layer](../Page/Simple_DirectMedia_Layer.md "wikilink")[库](../Page/库.md "wikilink")\[2\]\[3\]游戏拥有100个关卡，附带关卡编辑器\[4\]和很多专门针对Linux开发的游戏一样，使用[Tux为主要角色](../Page/Tux.md "wikilink")，发射彩色冰泡泡到同色的泡泡旁边，成组消灭它们。在泡泡到达底部之前全部消除。
+Layer](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")[库](https://zh.wikipedia.org/wiki/库 "wikilink")\[2\]\[3\]游戏拥有100个关卡，附带关卡编辑器\[4\]和很多专门针对Linux开发的游戏一样，使用[Tux为主要角色](../Page/Tux.md "wikilink")，发射彩色冰泡泡到同色的泡泡旁边，成组消灭它们。在泡泡到达底部之前全部消除。
 
 Version 2.0
-提供[多人游戏](../Page/多人游戏.md "wikilink")，通过[LAN和](../Page/LAN.md "wikilink")[Internet](../Page/Internet.md "wikilink")。同一台电脑也可以这个版本只在[Linux下](../Page/Linux.md "wikilink")。锁链反应模式(chain
+提供[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")，通过[LAN和](https://zh.wikipedia.org/wiki/LAN "wikilink")[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")。同一台电脑也可以这个版本只在[Linux下](../Page/Linux.md "wikilink")。锁链反应模式(chain
 reaction mode) （掉下的泡泡急速上升可能制造连锁，掉下更多泡泡）联网模式也可使用，极大改变了游戏方式。\[5\]
 
 游戏采用[GNU General Public
-License授权](../Page/GNU_General_Public_License.md "wikilink")。
+License授权](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
 ## 奖项
 
   - Best Free Game, Linux Game Tome Awards\[6\]
   - 2003 Editors' Choice: Game, [Linux
-    Journal](../Page/Linux_Journal.md "wikilink")\[7\]\[8\]
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")\[7\]\[8\]
   - 2003 Readers' Choice: Favorite Linux Game, [Linux
-    Journal](../Page/Linux_Journal.md "wikilink")\[9\]
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")\[9\]
   - 2004 Readers' Choice: Favorite Linux Game, [Linux
-    Journal](../Page/Linux_Journal.md "wikilink")\[10\]
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")\[10\]
   - 2005 Readers' Choice: Favorite Linux Game, [Linux
-    Journal](../Page/Linux_Journal.md "wikilink")\[11\]
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")\[11\]
   - 2008 Readers' Choice: Favorite Linux Game, [Linux
-    Journal](../Page/Linux_Journal.md "wikilink")\[12\]
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")\[12\]
 
 ## 引用
 
 ## 其他
 
-  - [泡泡龙](../Page/泡泡龙.md "wikilink")
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [泡泡龙](https://zh.wikipedia.org/wiki/泡泡龙 "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 链接
 

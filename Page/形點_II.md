@@ -11,7 +11,7 @@ MALL 形點項目之一](../Page/YOHO_MALL_形點.md "wikilink")。
 
 ## 特色
 
-商場總面積280,000平方呎，樓高4層。地下為入口大堂及[輕鐵](../Page/香港輕鐵.md "wikilink")[元朗總站](../Page/元朗總站.md "wikilink")；二至四樓設有各式商舖及[食肆](../Page/食肆.md "wikilink")，以及一個備有4間影院的百老匯電影院。早期四樓曾設溜冰場，後期改為[家樂福大型超級市場](../Page/家樂福.md "wikilink")，家樂福結業後被[百佳超級廣場取代](../Page/百佳超級廣場.md "wikilink")。在2003年12月20日[西鐵正式啟用前](../Page/西鐵.md "wikilink")，場內人流稀少，商舖大多空置。到了[新時代廣場在](../Page/新時代廣場_\(元朗\).md "wikilink")2004年入伙及西鐵啟用後，人流才顯著上升。
+商場總面積280,000平方呎，樓高4層。地下為入口大堂及[輕鐵](../Page/香港輕鐵.md "wikilink")[元朗總站](https://zh.wikipedia.org/wiki/元朗總站 "wikilink")；二至四樓設有各式商舖及[食肆](https://zh.wikipedia.org/wiki/食肆 "wikilink")，以及一個備有4間影院的百老匯電影院。早期四樓曾設溜冰場，後期改為[家樂福大型超級市場](../Page/家樂福.md "wikilink")，家樂福結業後被[百佳超級廣場取代](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")。在2003年12月20日[西鐵正式啟用前](https://zh.wikipedia.org/wiki/西鐵 "wikilink")，場內人流稀少，商舖大多空置。到了[新時代廣場在](https://zh.wikipedia.org/wiki/新時代廣場_\(元朗\) "wikilink")2004年入伙及西鐵啟用後，人流才顯著上升。
 
 2011年下半年起，為配合[YOHO MALL
 形點商場](../Page/YOHO_MALL_形點.md "wikilink")，商場部份範圍正進行翻新工程，工程斥資約3.6億元。翻新將主攻熱門運動零售店。首期翻新工程於2013年11月竣工，包括主中庭進行改建、分層進行翻新、拆除其中一個地下入口大堂及扶手電梯、拆除其中兩部升降機並改為一部大升降機、增建兩條走火樓梯和重置洗手間。翻新後大部份範圍以白色為主調，洗手間外設商場唯一的軟座閒坐區，全新洗手間則採用豪華設計。
@@ -28,18 +28,18 @@ Centre Mall L3 View 201310.jpg|三樓商場走廊 (2013年)
 
 2013年10月起，商場更改樓層編號，由以前的 L2至L4 改為 L1至L3。
 
-一樓開設Levi's、Mirabell、ans、Bauhaus、[G2000](../Page/G2000.md "wikilink")、egg
+一樓開設Levi's、Mirabell、ans、Bauhaus、[G2000](https://zh.wikipedia.org/wiki/G2000 "wikilink")、egg
 optical、珠寶店My
-Jewellery、[MaBelle](../Page/MaBelle.md "wikilink")；日本女性服裝Oriental
+Jewellery、[MaBelle](https://zh.wikipedia.org/wiki/MaBelle "wikilink")；日本女性服裝Oriental
 Traffic及Tonymoly化妝品店。食肆包括[Break
-Talk及](../Page/Break_Talk.md "wikilink")[Toast
-Box](../Page/Toast_Box.md "wikilink")；二樓開設多間運動零售店，包括adidas、Bigpack、Nike、New
+Talk及](https://zh.wikipedia.org/wiki/Break_Talk "wikilink")[Toast
+Box](https://zh.wikipedia.org/wiki/Toast_Box "wikilink")；二樓開設多間運動零售店，包括adidas、Bigpack、Nike、New
 Balance、Gigasports及多間旅行社、[萬寧](../Page/萬寧_\(零售商\).md "wikilink")、fusion
 by
-PARKnSHOP超級廣場、[太興燒味](../Page/太興燒味.md "wikilink")、[奇華餅家和服裝店bossini及BSX](../Page/奇華餅家.md "wikilink")；三樓開設連鎖電器店、電訊公司、多間潮流配飾店、茶木‧台式休閒餐廳、[鴻星海鮮酒家及](../Page/鴻星海鮮酒家.md "wikilink")[Starbucks](../Page/Starbucks.md "wikilink")。
+PARKnSHOP超級廣場、[太興燒味](https://zh.wikipedia.org/wiki/太興燒味 "wikilink")、[奇華餅家和服裝店bossini及BSX](../Page/奇華餅家.md "wikilink")；三樓開設連鎖電器店、電訊公司、多間潮流配飾店、茶木‧台式休閒餐廳、[鴻星海鮮酒家及](../Page/鴻星海鮮酒家.md "wikilink")[Starbucks](https://zh.wikipedia.org/wiki/Starbucks "wikilink")。
 
-商場第一期翻新部份於2013年11月正式開業。第二期翻新部份於2014年12月完成，商店於2015年1月中至2月陸續開業。第三期翻新部份於2016年2月完成，商店於同年3月中至4月陸續開業。主要以食肆及電訊公司為主，包括[利小館](../Page/利小館.md "wikilink")、[譚仔三哥](../Page/譚仔三哥.md "wikilink")、快餐店[麥當勞](../Page/麥當勞.md "wikilink")、[滿記甜品](../Page/滿記甜品.md "wikilink")、百樂潮州酒樓及[Pepper
-Lunch](../Page/Pepper_Lunch.md "wikilink")。
+商場第一期翻新部份於2013年11月正式開業。第二期翻新部份於2014年12月完成，商店於2015年1月中至2月陸續開業。第三期翻新部份於2016年2月完成，商店於同年3月中至4月陸續開業。主要以食肆及電訊公司為主，包括[利小館](https://zh.wikipedia.org/wiki/利小館 "wikilink")、[譚仔三哥](https://zh.wikipedia.org/wiki/譚仔三哥 "wikilink")、快餐店[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、[滿記甜品](../Page/滿記甜品.md "wikilink")、百樂潮州酒樓及[Pepper
+Lunch](https://zh.wikipedia.org/wiki/Pepper_Lunch "wikilink")。
 
 <File:Yoho> SYLC Level 1 Shops 201404.jpg|翻新後一樓商場走廊 (2014年) <File:Yoho>
 SYLC Level 2 Shops 20131101.jpg|翻新後二樓商場走廊 (2013年) <File:YOHO> Mall II L2
@@ -66,7 +66,7 @@ Seats area 201311.jpg|洗手間外設軟座閒坐區 <File:YOHO> Mall II Level 3
 <!-- end list -->
 
   - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")
-  - [輕鐵](../Page/輕鐵.md "wikilink")：[元朗站](../Page/元朗站_\(輕鐵\).md "wikilink")
+  - [輕鐵](https://zh.wikipedia.org/wiki/輕鐵 "wikilink")：[元朗站](../Page/元朗站_\(輕鐵\).md "wikilink")
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@ Seats area 201311.jpg|洗手間外設軟座閒坐區 <File:YOHO> Mall II Level 3
 
 <!-- end list -->
 
-  - [紅色小巴](../Page/紅色小巴.md "wikilink")
+  - [紅色小巴](https://zh.wikipedia.org/wiki/紅色小巴 "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Seats area 201311.jpg|洗手間外設軟座閒坐區 <File:YOHO> Mall II Level 3
 
 <!-- end list -->
 
-  - [朗日路](../Page/朗日路.md "wikilink")
+  - [朗日路](https://zh.wikipedia.org/wiki/朗日路 "wikilink")
 
 <!-- end list -->
 

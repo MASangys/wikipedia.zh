@@ -1,6 +1,6 @@
 **SecuROM**
-是一个保护[CD](../Page/CD.md "wikilink")／[DVD版权的产品](../Page/DVD.md "wikilink")，由开发。常用于保护[Microsoft
-Windows下运行的](../Page/Microsoft_Windows.md "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")。SecuROM旨在阻止家用刻录机、光盘拷贝机和[逆向工程技术的企图](../Page/逆向工程.md "wikilink")。最新的版本（第4版或更高）在防止1:1的[CD-R拷贝已经取得一定进展](../Page/CD-R.md "wikilink")。但某些程序仍可以绕过保护。使用SecuROM是很有争议的，因为保护程序在某些方面有类似恶意软件的行为，并且SecuROM会在用户并不知情的情况自动安装到你的电脑。[EA因这个问题曾被提起诉讼](../Page/EA.md "wikilink")\[1\]。
+是一个保护[CD](../Page/CD.md "wikilink")／[DVD版权的产品](https://zh.wikipedia.org/wiki/DVD "wikilink")，由开发。常用于保护[Microsoft
+Windows下运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")。SecuROM旨在阻止家用刻录机、光盘拷贝机和[逆向工程技术的企图](../Page/逆向工程.md "wikilink")。最新的版本（第4版或更高）在防止1:1的[CD-R拷贝已经取得一定进展](https://zh.wikipedia.org/wiki/CD-R "wikilink")。但某些程序仍可以绕过保护。使用SecuROM是很有争议的，因为保护程序在某些方面有类似恶意软件的行为，并且SecuROM会在用户并不知情的情况自动安装到你的电脑。[EA因这个问题曾被提起诉讼](https://zh.wikipedia.org/wiki/EA "wikilink")\[1\]。
 
 ## SecuROM的版本及检测技术
 
@@ -47,17 +47,17 @@ SecuROM v4.84和以后版本包括“触发器”，允许开发人员充分定�
 最新的SecuROM v7.x版本正在不断发布的和更新。
 
 SecuROM v7.x如果在非管理员用户帐户下运行，将在电脑操作系统[Ring
-3级别特权上安装自己的服务UAService](../Page/Ring_3.md "wikilink")7.exe，它可以使用户在非管理员用户权限下获得SecuROM的所有功能。
+3级别特权上安装自己的服务UAService](https://zh.wikipedia.org/wiki/Ring_3 "wikilink")7.exe，它可以使用户在非管理员用户权限下获得SecuROM的所有功能。
 
 #### 已知的问题
 
-使用该版本SecuROM的[武装突袭](../Page/武装突袭.md "wikilink")，[潜行者：切尔诺贝利的阴影](../Page/潜行者：切尔诺贝利的阴影.md "wikilink")（欧洲版本），[无冬之夜2](../Page/无冬之夜2.md "wikilink")，[命令与征服3：泰伯利亚战争](../Page/命令与征服3：泰伯利亚战争.md "wikilink")（v1.04），[古墓丽影：十周年纪念版](../Page/古墓丽影：十周年纪念版.md "wikilink")（演示和正式版），[霸王](../Page/霸王.md "wikilink")（Steam版不包含SecuROM），[生化奇兵](../Page/生化奇兵.md "wikilink")（演示和正式版），（单人游戏模式），（PC版），[冲突世界](../Page/冲突世界.md "wikilink")（仅单人战役）和[孢子](../Page/Spore.md "wikilink")（游戏和[孢子生物编辑器](../Page/孢子生物编辑器.md "wikilink")）会阻止游戏运行在安装有旧版本（v11之前）的电脑之上。
+使用该版本SecuROM的[武装突袭](../Page/武装突袭.md "wikilink")，[潜行者：切尔诺贝利的阴影](https://zh.wikipedia.org/wiki/潜行者：切尔诺贝利的阴影 "wikilink")（欧洲版本），[无冬之夜2](https://zh.wikipedia.org/wiki/无冬之夜2 "wikilink")，[命令与征服3：泰伯利亚战争](https://zh.wikipedia.org/wiki/命令与征服3：泰伯利亚战争 "wikilink")（v1.04），[古墓丽影：十周年纪念版](https://zh.wikipedia.org/wiki/古墓丽影：十周年纪念版 "wikilink")（演示和正式版），[霸王](https://zh.wikipedia.org/wiki/霸王 "wikilink")（Steam版不包含SecuROM），[生化奇兵](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")（演示和正式版），（单人游戏模式），（PC版），[冲突世界](../Page/冲突世界.md "wikilink")（仅单人战役）和[孢子](https://zh.wikipedia.org/wiki/Spore "wikilink")（游戏和[孢子生物编辑器](https://zh.wikipedia.org/wiki/孢子生物编辑器 "wikilink")）会阻止游戏运行在安装有旧版本（v11之前）的电脑之上。
 
 在[Windows
-Vista中](../Page/Windows_Vista.md "wikilink")，当网络配置中启用[顯式擁塞通知时](../Page/顯式擁塞通知.md "wikilink")，该版本的SecuROM会阻止游戏运行，解决方法是运行命令`netsh
+Vista中](../Page/Windows_Vista.md "wikilink")，当网络配置中启用[顯式擁塞通知时](https://zh.wikipedia.org/wiki/顯式擁塞通知 "wikilink")，该版本的SecuROM会阻止游戏运行，解决方法是运行命令`netsh
 interface tcp set global ecncapability=disabled`禁用ECN。
 
-使用该版本SecuROM的游戏（德国版）安装的一个外壳扩展会使Explorer.exe崩溃。使用相同版本SecuROM的[无冬之夜2也存在这样的问题](../Page/无冬之夜2.md "wikilink")。
+使用该版本SecuROM的游戏（德国版）安装的一个外壳扩展会使Explorer.exe崩溃。使用相同版本SecuROM的[无冬之夜2也存在这样的问题](https://zh.wikipedia.org/wiki/无冬之夜2 "wikilink")。
 
 有些版本的SecuROM会安装名为CmdLineContextMenu的外壳扩展，它会检查每一个弹出菜单的可执行文件。这可能导致Windows资源管理器反应迟钝，甚至失去响应。
 
@@ -69,7 +69,7 @@ interface tcp set global ecncapability=disabled`禁用ECN。
 
 ### 生化奇兵和Rootkit
 
-[生化奇兵采用SecuROM保护](../Page/生化奇兵.md "wikilink")，使用了[Rootkit技术来防止盗版](../Page/Rootkit.md "wikilink")，使用检测工具来检测Rootkit的是很困难的，因为这些原因，Rootkit可能被用于隐藏恶意程序。
+[生化奇兵采用SecuROM保护](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")，使用了[Rootkit技术来防止盗版](../Page/Rootkit.md "wikilink")，使用检测工具来检测Rootkit的是很困难的，因为这些原因，Rootkit可能被用于隐藏恶意程序。
 
 ### 模拟人生
 
@@ -80,16 +80,16 @@ interface tcp set global ecncapability=disabled`禁用ECN。
 
 ### \-{zh-cn:质量效应; zh-hk:質量效應; zh-sg:質量效應; zh-tw:質量效應;}-
 
-2008年5月EA宣布，-{zh-cn:[质量效应](../Page/质量效应.md "wikilink");
-zh-hk:[質量效應](../Page/質量效應.md "wikilink");
-zh-sg:[質量效應](../Page/質量效應.md "wikilink");
-zh-tw:[質量效應](../Page/質量效應.md "wikilink");}-将采用SecuROM
+2008年5月EA宣布，-{zh-cn:[质量效应](https://zh.wikipedia.org/wiki/质量效应 "wikilink");
+zh-hk:[質量效應](https://zh.wikipedia.org/wiki/質量效應 "wikilink");
+zh-sg:[質量效應](https://zh.wikipedia.org/wiki/質量效應 "wikilink");
+zh-tw:[質量效應](https://zh.wikipedia.org/wiki/質量效應 "wikilink");}-将采用SecuROM
 7.x，每10天需要重新激活一次软件\[2\]。由于大量的投诉，EA去除了为期10天的激活限制。
 SecuROM限制了激活产品的次数，客户最多可以激活他们购买的游戏3次，如果超过，游戏就不能再运行，直到联系EA的客户支持重置激活次数或之前使用一些可以绕过激活的工具。不同于生化奇兵，卸载游戏不退还以前使用的激活\[3\]。
 
 ### Spore
 
-EA在2008年9月7号发布的[Spore中使用了SecuROM](../Page/Spore.md "wikilink")。可能是由于反对基于SecuROM的DRM，网上出现了大量的孢子P2P盗版。EA迫于压力放松了《Spore》的安装次数，从先前的允许在3台电脑安装增加到5台\[4\]\[5\]。
+EA在2008年9月7号发布的[Spore中使用了SecuROM](https://zh.wikipedia.org/wiki/Spore "wikilink")。可能是由于反对基于SecuROM的DRM，网上出现了大量的孢子P2P盗版。EA迫于压力放松了《Spore》的安装次数，从先前的允许在3台电脑安装增加到5台\[4\]\[5\]。
 
 ### 圣域2：堕落天使
 
@@ -108,7 +108,7 @@ v7.36不仅仅会检查光盘信息，还会检查系统中常用的CD/DVD刻录
 ### Windows 10
 
 微軟公司於2015年8月發表的[Windows
-10作業系統禁止了採用SecuROM與](../Page/Windows_10.md "wikilink")[SafeDisc等光碟版權管理程式的遊戲執行](../Page/SafeDisc.md "wikilink")，理由是這類版權管理程式有可能造成[資安風險](../Page/資安.md "wikilink")\[7\]。
+10作業系統禁止了採用SecuROM與](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[SafeDisc等光碟版權管理程式的遊戲執行](https://zh.wikipedia.org/wiki/SafeDisc "wikilink")，理由是這類版權管理程式有可能造成[資安風險](https://zh.wikipedia.org/wiki/資安 "wikilink")\[7\]。
 
 ## 参考文献
 

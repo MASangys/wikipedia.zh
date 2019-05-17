@@ -1,5 +1,5 @@
 **THE BLUE
-HEARTS**（日語：ザ・ブルーハーツ）是一支[日本](../Page/日本.md "wikilink")[龐克搖滾樂團](../Page/龐克搖滾.md "wikilink")，活躍於1980年代後期至1990年代前期。樂團於1985年組成，1987年以單曲{{〈}}リンダリンダ{{〉}}（LINDA
+HEARTS**（日語：ザ・ブルーハーツ）是一支[日本](../Page/日本.md "wikilink")[龐克搖滾樂團](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")，活躍於1980年代後期至1990年代前期。樂團於1985年組成，1987年以單曲{{〈}}リンダリンダ{{〉}}（LINDA
 LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾年，日本的廣告、連續劇和電影裡仍然常常使用他們的歌曲。日本HMV將他們選為日本音樂界史上最具影響力的百名歌手第19名
 \[1\]。
 
@@ -10,7 +10,7 @@ LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾�
 <!-- end list -->
 
   -
-    暱稱ヒロト（HIROTO），歌聲低且大聲。口琴是自學的，也會彈吉他。樂團上電視節目訪談時，通常由甲本回答。說話有家[鄉岡山縣的口音](../Page/鄉岡山縣.md "wikilink")。
+    暱稱ヒロト（HIROTO），歌聲低且大聲。口琴是自學的，也會彈吉他。樂團上電視節目訪談時，通常由甲本回答。說話有家[鄉岡山縣的口音](https://zh.wikipedia.org/wiki/鄉岡山縣 "wikilink")。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@ LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾�
 
 ### 已離開的團員
 
-  - **[望月正水](../Page/望月正水.md "wikilink")**（生年月日不明）：貝斯手
+  - **[望月正水](https://zh.wikipedia.org/wiki/望月正水 "wikilink")**（生年月日不明）：貝斯手
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@ LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾�
 
 <!-- end list -->
 
-  - **[英竜介](../Page/英竜介.md "wikilink")**（生年月日不明）：鼓手
+  - **[英竜介](https://zh.wikipedia.org/wiki/英竜介 "wikilink")**（生年月日不明）：鼓手
 
 <!-- end list -->
 
@@ -61,26 +61,27 @@ LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾�
 
 <!-- end list -->
 
-  - **[山川のりを](../Page/山川のりを.md "wikilink")**（1965年11月11日－）：貝斯手
+  - **[山川のりを](https://zh.wikipedia.org/wiki/山川のりを "wikilink")**（1965年11月11日－）：貝斯手
 
 <!-- end list -->
 
   -
     暱稱のりを（NORIWO），參加過的樂團包括GREAT RICHIES、DEEP\&BITES、THE
-    COATS。望月離團後，加入了兩個月。離團後，和[忌野清志郎](../Page/忌野清志郎.md "wikilink")
-    、[大島賢治](../Page/大島賢治.md "wikilink")、[中曽根章友組成樂團](../Page/中曽根章友.md "wikilink")[23s](../Page/23s.md "wikilink")。
+    COATS。望月離團後，加入了兩個月。離團後，和[忌野清志郎](https://zh.wikipedia.org/wiki/忌野清志郎 "wikilink")
+    、[大島賢治](https://zh.wikipedia.org/wiki/大島賢治 "wikilink")、[中曽根章友組成樂團](https://zh.wikipedia.org/wiki/中曽根章友 "wikilink")[23s](https://zh.wikipedia.org/wiki/23s "wikilink")。
 
 <!-- end list -->
 
-  - **[佐藤シンイチロウ](../Page/佐藤シンイチロウ.md "wikilink")**（1964年8月16日－）：鼓手
+  - **[佐藤シンイチロウ](https://zh.wikipedia.org/wiki/佐藤シンイチロウ "wikilink")**（1964年8月16日－）：鼓手
 
 <!-- end list -->
 
   -
-    參加過[THE POGO](../Page/THE_POGO.md "wikilink")、[KENZI\&THE
-    TRIPS](../Page/KENZI&THE_TRIPS.md "wikilink")，現在擔任[the
-    pillows](../Page/the_pillows.md "wikilink")、[The
-    PEES的鼓手](../Page/The_PEES.md "wikilink")。英竜介離團後到梶原正式加入的這段時間，擔任客座鼓手（錄音收錄在合集《JUST
+    參加過[THE
+    POGO](https://zh.wikipedia.org/wiki/THE_POGO "wikilink")、[KENZI\&THE
+    TRIPS](https://zh.wikipedia.org/wiki/KENZI&THE_TRIPS "wikilink")，現在擔任[the
+    pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")、[The
+    PEES的鼓手](https://zh.wikipedia.org/wiki/The_PEES "wikilink")。英竜介離團後到梶原正式加入的這段時間，擔任客座鼓手（錄音收錄在合集《JUST
     A BEAT SHOW》）。
 
 ### 客座支援樂手

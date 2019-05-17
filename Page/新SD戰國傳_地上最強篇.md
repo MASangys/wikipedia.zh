@@ -26,7 +26,7 @@
   -
 
       -
-        原型角色為[劉備](../Page/劉備.md "wikilink")。
+        原型角色為[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")。
 
 :\***青龍頑馱無（RX-78GP02A Gundam "Physalis"）** '''
 
@@ -42,7 +42,7 @@
   -
 
       -
-        原型角色為[關羽](../Page/關羽.md "wikilink")。
+        原型角色為[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")。
 
 :\***赤龍頑馱無（Red Warrior）**
 
@@ -58,14 +58,14 @@
       -
         據說認識「圓桌騎士」成員麗騎士。而麗騎士除了是「圓桌騎士」成員之一，更是「G-ARMS」中海賊騎士Red
         Warrior的祖先。（同時參考[SD高達外傳
-        圓桌騎士編](../Page/SD高達外傳_圓桌騎士編.md "wikilink")）
+        圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")）
 
 <!-- end list -->
 
   -
 
       -
-        原型角色為[張飛](../Page/張飛.md "wikilink")。
+        原型角色為[張飛](https://zh.wikipedia.org/wiki/張飛 "wikilink")。
 
 :\***璽武砲弍（RGC-83 GM Cannon II）**
 
@@ -174,7 +174,7 @@
   -
 
       -
-        角色原型來自[須佐之男](../Page/須佐之男.md "wikilink")，所持和魂為勾玉型，原型是日本傳說[三神器之一八尺瓊勾玉](../Page/三神器.md "wikilink")。
+        角色原型來自[須佐之男](https://zh.wikipedia.org/wiki/須佐之男 "wikilink")，所持和魂為勾玉型，原型是日本傳說[三神器之一八尺瓊勾玉](../Page/三神器.md "wikilink")。
 
 :\***武者激鬥頑馱無（FA-78-2 HEAVY Gundam）**
 
@@ -459,7 +459,7 @@
   -
 
       -
-        由於與日後[BB戰士三國傳中的](../Page/BB戰士三國傳.md "wikilink")[司馬懿有著多樣相似設定](../Page/司馬懿.md "wikilink")（原型機、角色身份性格），推定原型角色為[司馬懿](../Page/司馬懿.md "wikilink")。
+        由於與日後[BB戰士三國傳中的](../Page/BB戰士三國傳.md "wikilink")[司馬懿有著多樣相似設定](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")（原型機、角色身份性格），推定原型角色為[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")。
 
 :\***闇劍振風暴** （MS-18E Kämpfer，代表大蛇飛驅塞蟲）
 
@@ -539,7 +539,7 @@
 <!-- end list -->
 
   -
-    名稱「武里守勉」（ﾌﾞﾘｽﾍﾞﾝ），來自澳州城市「[布利斯本](../Page/布利斯本.md "wikilink")」（Brisbane）。0083小說中，曾描寫殖民衛星在該地南面墜落。
+    名稱「武里守勉」（ﾌﾞﾘｽﾍﾞﾝ），來自澳州城市「[布利斯本](https://zh.wikipedia.org/wiki/布利斯本 "wikilink")」（Brisbane）。0083小說中，曾描寫殖民衛星在該地南面墜落。
 
 **都臨屯之町**（ﾄﾘﾝﾄﾝのまち）
 
@@ -564,12 +564,12 @@
 **龍帝**
 
   -
-    影舞亂夢皇帝稱號，地位等同天宮之「[大將軍](../Page/大將軍.md "wikilink")」。後來「[BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink")」亦有使用。
+    影舞亂夢皇帝稱號，地位等同天宮之「[大將軍](https://zh.wikipedia.org/wiki/大將軍 "wikilink")」。後來「[BB戰士三國傳](../Page/BB戰士三國傳.md "wikilink")」亦有使用。
 
 **國主**
 
   -
-    赤流火穩皇帝稱號，地位等同天宮之「[大將軍](../Page/大將軍.md "wikilink")」。「國主」一名在模型漫畫未有提及，只有遊戲「大將軍烈傳」中記載。
+    赤流火穩皇帝稱號，地位等同天宮之「[大將軍](https://zh.wikipedia.org/wiki/大將軍 "wikilink")」。「國主」一名在模型漫畫未有提及，只有遊戲「大將軍烈傳」中記載。
 
 **和魂/爭魂**
 
@@ -589,8 +589,8 @@
 <!-- end list -->
 
   -
-    「天龍馬」名稱來自「Z」「ZZ」中活躍的戰艦[阿加瑪](../Page/阿加瑪.md "wikilink");「怒超鬼惡」則來自「z」中[泰坦斯旗艦](../Page/泰坦斯.md "wikilink")「[DOGOSSE
-    GIAR](../Page/DOGOSSE_GIAR.md "wikilink")」
+    「天龍馬」名稱來自「Z」「ZZ」中活躍的戰艦[阿加瑪](../Page/阿加瑪.md "wikilink");「怒超鬼惡」則來自「z」中[泰坦斯旗艦](https://zh.wikipedia.org/wiki/泰坦斯 "wikilink")「[DOGOSSE
+    GIAR](https://zh.wikipedia.org/wiki/DOGOSSE_GIAR "wikilink")」
 
 <!-- end list -->
 

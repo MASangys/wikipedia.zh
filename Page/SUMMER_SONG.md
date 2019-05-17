@@ -1,6 +1,6 @@
 “**SUMMER
 SONG**”是[日本唱作女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[YUI](../Page/YUI.md "wikilink")，于2008年7月2日所推出的第十二张单曲碟。由[STUDIOSEVEN
-Recordings发行](../Page/STUDIOSEVEN_Recordings.md "wikilink")。清爽輕快的「SUMMER
+Recordings发行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。清爽輕快的「SUMMER
 SONG」是YUI為暑假度身打造的作品，洋溢陽光與青春。單曲另收入「Oh My God」和「Laugh away \~YUI Acoustic
 Version\~」。
 
@@ -10,7 +10,7 @@ DVD收入「SUMMER SONG」和「Laugh away \~YUI Acoustic Version\~」的MV。
 
 1.  SUMMER SONG (3:30)
       -
-        作詞・作曲:[YUI](../Page/YUI_\(歌手\).md "wikilink")　編曲:northa+
+        作詞・作曲:[YUI](https://zh.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")　編曲:northa+
 2.  Oh My God (2:47)
       -
         作詞・作曲:YUI　編曲:northa+

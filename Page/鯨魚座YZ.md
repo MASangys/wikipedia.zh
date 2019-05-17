@@ -1,8 +1,8 @@
 **鯨魚座YZ**（**YZ
-Ceti**）是一顆位於[鯨魚座的](../Page/鯨魚座.md "wikilink")[紅矮星](../Page/紅矮星.md "wikilink")。雖然它距離太陽只有12光年\[1\]，其視星等仍然是肉眼不可見的12.10。鯨魚座YZ是光度會間歇性突然增加的[耀星](../Page/耀星.md "wikilink")，質量為太陽的8.5%，光度通常小於太陽的1/5000
+Ceti**）是一顆位於[鯨魚座的](https://zh.wikipedia.org/wiki/鯨魚座 "wikilink")[紅矮星](../Page/紅矮星.md "wikilink")。雖然它距離太陽只有12光年\[1\]，其視星等仍然是肉眼不可見的12.10。鯨魚座YZ是光度會間歇性突然增加的[耀星](../Page/耀星.md "wikilink")，質量為太陽的8.5%，光度通常小於太陽的1/5000
 。
 
-鯨魚座YZ與同一星座另一顆恆星[G8型恆星](../Page/恆星光譜.md "wikilink")[天倉五不尋常地接近](../Page/天倉五.md "wikilink")，兩者之間距離只有約1.6光年\[2\]，大約是太陽與距離太陽最近恆星[比鄰星距離的](../Page/比鄰星.md "wikilink")1/3弱。
+鯨魚座YZ與同一星座另一顆恆星[G8型恆星](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[天倉五不尋常地接近](../Page/天倉五.md "wikilink")，兩者之間距離只有約1.6光年\[2\]，大約是太陽與距離太陽最近恆星[比鄰星距離的](https://zh.wikipedia.org/wiki/比鄰星 "wikilink")1/3弱。
 
 ## 行星系統
 
@@ -11,7 +11,7 @@ Ceti**）是一顆位於[鯨魚座的](../Page/鯨魚座.md "wikilink")[紅矮�
 
 ## 參見
 
-  - [鄰近恆星列表](../Page/鄰近恆星列表.md "wikilink")
+  - [鄰近恆星列表](https://zh.wikipedia.org/wiki/鄰近恆星列表 "wikilink")
 
 ## 參考資料
 

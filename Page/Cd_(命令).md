@@ -1,5 +1,5 @@
 ****，有时也写作****（**ch**ange
-**dir**ectory，改变目录），是在[Unix](../Page/Unix.md "wikilink")、[类Unix](../Page/类Unix.md "wikilink")、[Windows和](../Page/Microsoft_Windows.md "wikilink")[DOS操作系统下用于改变](../Page/DOS.md "wikilink")[工作目录的](../Page/工作目录.md "wikilink")[命令行命令](../Page/命令行界面.md "wikilink")。在Unix的[Shell脚本与Windows或DOS的](../Page/Shell脚本.md "wikilink")[批处理文件中亦可使用](../Page/批处理.md "wikilink")。
+**dir**ectory，改变目录），是在[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[DOS操作系统下用于改变](../Page/DOS.md "wikilink")[工作目录的](https://zh.wikipedia.org/wiki/工作目录 "wikilink")[命令行命令](../Page/命令行界面.md "wikilink")。在Unix的[Shell脚本与Windows或DOS的](../Page/Shell脚本.md "wikilink")[批处理文件中亦可使用](../Page/批处理.md "wikilink")。
 
 ## 用法
 
@@ -32,23 +32,24 @@ user@wikipedia:~/games$
    C:\games>
 ```
 
-应注意的一点是，在不同的操作系统中，如果不给出变量会让`cd`产生不同的结果。例如，如果在DOS下不给出变量而执行，会显示出当前的[工作目录来](../Page/工作目录.md "wikilink")；而在Unix下不给出变量而执行，则会返回到起始目录去。在脚本或批处理内执行的`cd`，也会产生不同的结果。在DOS中，批处理文件中使用的该命令可以直接改变调用者的当前目录；而在Unix下，使用`cd`命令的脚本则无法改变调用者的当前目录。这是因为在Unix下的脚本通常在子外壳中执行。
+应注意的一点是，在不同的操作系统中，如果不给出变量会让`cd`产生不同的结果。例如，如果在DOS下不给出变量而执行，会显示出当前的[工作目录来](https://zh.wikipedia.org/wiki/工作目录 "wikilink")；而在Unix下不给出变量而执行，则会返回到起始目录去。在脚本或批处理内执行的`cd`，也会产生不同的结果。在DOS中，批处理文件中使用的该命令可以直接改变调用者的当前目录；而在Unix下，使用`cd`命令的脚本则无法改变调用者的当前目录。这是因为在Unix下的脚本通常在子外壳中执行。
 
 ## 工作原理
 
-`cd`通常是由[命令行](../Page/命令行.md "wikilink")[解释器内建提供的](../Page/解释器.md "wikilink")。绝大多数的[Unix
+`cd`通常是由[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")[解释器内建提供的](https://zh.wikipedia.org/wiki/解释器 "wikilink")。绝大多数的[Unix
 shell](../Page/Unix_shell.md "wikilink")（[Bourne
-shell](../Page/Bourne_shell.md "wikilink")、[tcsh](../Page/tcsh.md "wikilink")、[bash等](../Page/bash.md "wikilink")）、Windows的[`cmd.exe`](../Page/cmd.exe.md "wikilink")和[Windows
-PowerShell](../Page/Windows_PowerShell.md "wikilink")、以及DOS的[`COMMAND.COM`](../Page/COMMAND.COM.md "wikilink")均是这种情况。
+shell](../Page/Bourne_shell.md "wikilink")、[tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink")、[bash等](https://zh.wikipedia.org/wiki/bash "wikilink")）、Windows的[`cmd.exe`](https://zh.wikipedia.org/wiki/cmd.exe "wikilink")和[Windows
+PowerShell](../Page/Windows_PowerShell.md "wikilink")、以及DOS的[`COMMAND.COM`](https://zh.wikipedia.org/wiki/COMMAND.COM "wikilink")均是这种情况。
 
 Windows的命令行外壳通常使用[Windows
-API来改变当前的工作目录](../Page/Windows_API.md "wikilink")；而Unix系统的**`cd`**则是调用[POSIX](../Page/POSIX.md "wikilink")
-[C的函数](../Page/C语言.md "wikilink")**`chdir()`**：即是，当该命令执行时，不会为前往另一个目录而创建一个新的进程，而是由外壳代为执行这条命令，[ls等其他命令也是这种情况](../Page/ls.md "wikilink")。这是因为，创建新的[进程时](../Page/进程.md "wikilink")，[子进程会继承](../Page/子进程.md "wikilink")[父进程创建时的目录](../Page/父进程.md "wikilink")。而如果`cd`命令继承了父进程的目录，则它永远也不能达到它的目标。
+API来改变当前的工作目录](../Page/Windows_API.md "wikilink")；而Unix系统的**`cd`**则是调用[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")
+[C的函数](https://zh.wikipedia.org/wiki/C语言 "wikilink")**`chdir()`**：即是，当该命令执行时，不会为前往另一个目录而创建一个新的进程，而是由外壳代为执行这条命令，[ls等其他命令也是这种情况](https://zh.wikipedia.org/wiki/ls "wikilink")。这是因为，创建新的[进程时](https://zh.wikipedia.org/wiki/进程 "wikilink")，[子进程会继承](../Page/子进程.md "wikilink")[父进程创建时的目录](../Page/父进程.md "wikilink")。而如果`cd`命令继承了父进程的目录，则它永远也不能达到它的目标。
 
 ## 参见
 
-  - [CD (DOS命令)](../Page/MS-DOS命令列表#cd_或_chdir.md "wikilink")
-  - [chroot](../Page/chroot.md "wikilink")
+  - [CD
+    (DOS命令)](https://zh.wikipedia.org/wiki/MS-DOS命令列表#cd_或_chdir "wikilink")
+  - [chroot](https://zh.wikipedia.org/wiki/chroot "wikilink")
 
 ## 参考文献
 
@@ -62,7 +63,8 @@ API来改变当前的工作目录](../Page/Windows_API.md "wikilink")；而Unix�
 
   - [Windows XP \> Command-line reference A-Z \> Chdir
     (Cd)](https://technet.microsoft.com/en-us/library/bb490875.aspx)
-    from [Microsoft TechNet](../Page/Microsoft_TechNet.md "wikilink")
+    from [Microsoft
+    TechNet](https://zh.wikipedia.org/wiki/Microsoft_TechNet "wikilink")
 
   -
 {{-}}

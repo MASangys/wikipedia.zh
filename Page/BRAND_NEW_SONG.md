@@ -1,5 +1,5 @@
 《**BRAND NEW
-SONG**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](../Page/近畿小子.md "wikilink")25張[單曲](../Page/單曲.md "wikilink")。於2007年4月25日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+SONG**》是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")25張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2007年4月25日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
 
 ## 解説
 
@@ -17,7 +17,7 @@ Kids歌詞》問卷，樂迷們可以憑卡上的密碼登入指定收集問卷�
   - 日語原名：**BRAND NEW SONG**
   - 中文意思：**全新歌曲**
   - [香港](../Page/香港.md "wikilink")[正東譯名](../Page/正東唱片.md "wikilink")：--
-  - [台灣](../Page/台灣.md "wikilink")[艾迴譯名](../Page/艾迴唱片.md "wikilink")：**BRAND
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[艾迴譯名](https://zh.wikipedia.org/wiki/艾迴唱片 "wikilink")：**BRAND
     NEW SONG**
 
 ## 收錄歌曲
@@ -25,16 +25,17 @@ Kids歌詞》問卷，樂迷們可以憑卡上的密碼登入指定收集問卷�
 ### 初回版
 
 1.  **BRAND NEW SONG**
-      - 作曲、作詞：[Gajin](../Page/Gajin.md "wikilink")
-      - 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
-      - 和音編排：[岩田雅之](../Page/岩田雅之.md "wikilink")
+      - 作曲、作詞：[Gajin](https://zh.wikipedia.org/wiki/Gajin "wikilink")
+      - 編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
+      - 和音編排：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")
 2.  **Stay**
-      - 作曲、編曲：[Hiroo Ooyagi](../Page/Hiroo_Ooyagi.md "wikilink")
-      - 作詞：[成海Gazuto](../Page/成海Gazuto.md "wikilink")
+      - 作曲、編曲：[Hiroo
+        Ooyagi](https://zh.wikipedia.org/wiki/Hiroo_Ooyagi "wikilink")
+      - 作詞：[成海Gazuto](https://zh.wikipedia.org/wiki/成海Gazuto "wikilink")
 3.  **Appreciate**（****）
-      - 作曲、編曲：[家原正樹](../Page/家原正樹.md "wikilink")
-      - 作詞：[白鷺剛](../Page/白鷺剛.md "wikilink")
-      - 弦樂編排：[佐藤泰將](../Page/佐藤泰將.md "wikilink")
+      - 作曲、編曲：[家原正樹](https://zh.wikipedia.org/wiki/家原正樹 "wikilink")
+      - 作詞：[白鷺剛](https://zh.wikipedia.org/wiki/白鷺剛 "wikilink")
+      - 弦樂編排：[佐藤泰將](https://zh.wikipedia.org/wiki/佐藤泰將 "wikilink")
 4.  **BRAND NEW SONG (Backing Track)**
       - 作曲：Gajin
       - 編曲：CHOKKAKU
@@ -44,10 +45,10 @@ Kids歌詞》問卷，樂迷們可以憑卡上的密碼登入指定收集問卷�
 1.  **BRAND NEW SONG**
 2.  **Stay**
 3.  **hesitated**
-      - 作曲：[磯崎健史](../Page/磯崎健史.md "wikilink")
-      - 作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")
-      - 編曲：[石塚知生](../Page/石塚知生.md "wikilink")
-      - 和音編排：[ko-saku](../Page/ko-saku.md "wikilink")
+      - 作曲：[磯崎健史](https://zh.wikipedia.org/wiki/磯崎健史 "wikilink")
+      - 作詞：[久保田洋司](https://zh.wikipedia.org/wiki/久保田洋司 "wikilink")
+      - 編曲：[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")
+      - 和音編排：[ko-saku](https://zh.wikipedia.org/wiki/ko-saku "wikilink")
 
 [Category:近畿小子歌曲](https://zh.wikipedia.org/wiki/Category:近畿小子歌曲 "wikilink")
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")

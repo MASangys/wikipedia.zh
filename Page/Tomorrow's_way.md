@@ -1,13 +1,14 @@
 『**Tomorrow's
 way**』是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年6月22日所推出的單曲碟，並是在[Sony
-Music Records旗下的第二張單曲碟](../Page/日本新力音樂.md "wikilink")。
+Music
+Records旗下的第二張單曲碟](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。
 
 ## 收錄歌曲
 
 1.  **Tomorrow's way**
       -
-        作詞・作曲：YUI　編曲：　[弦樂團編曲](../Page/弦樂團.md "wikilink")：
-        [松竹系電影](../Page/松竹.md "wikilink")「[HINOKIO](../Page/我愛奇諾奧.md "wikilink")（我愛奇諾奧）」的主題歌。後來[香港歌手](../Page/香港.md "wikilink")[薛凱琪翻唱了此曲](../Page/薛凱琪.md "wikilink")，歌名為「Dear
+        作詞・作曲：YUI　編曲：　[弦樂團編曲](https://zh.wikipedia.org/wiki/弦樂團 "wikilink")：
+        [松竹系電影](../Page/松竹.md "wikilink")「[HINOKIO](https://zh.wikipedia.org/wiki/我愛奇諾奧 "wikilink")（我愛奇諾奧）」的主題歌。後來[香港歌手](../Page/香港.md "wikilink")[薛凱琪翻唱了此曲](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，歌名為「Dear
         Fiona」。
 2.  **Last Train**
       -

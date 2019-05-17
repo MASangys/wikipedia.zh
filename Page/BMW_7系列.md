@@ -1,6 +1,6 @@
 **寶馬7系**（**BMW 7
-Series**）是由[宝马汽车生產的一个豪华](../Page/BMW.md "wikilink")[轿车系列](../Page/轿车.md "wikilink")，也是宝马最顶级系列車型，主要客群為金字塔頂層人士，一部份國家做為[元首座車](../Page/元首座車.md "wikilink")。它在1977年取代“New
-Six”车型，其主要竞争对手为[梅塞德斯-奔驰S级](../Page/梅塞德斯-奔驰S级.md "wikilink")、[保時捷Panamera](../Page/保時捷Panamera.md "wikilink")、[凌志LS](../Page/凌志LS.md "wikilink")、賓特利歐陸、[奥迪A8](../Page/奥迪A8.md "wikilink")、豐田皇冠、勞斯萊斯鬼、本田里程和積架XJ等等。該車系在[德國](../Page/德國.md "wikilink")[丁戈爾芬裝配](../Page/丁戈爾芬.md "wikilink")\[1\]。
+Series**）是由[宝马汽车生產的一个豪华](../Page/BMW.md "wikilink")[轿车系列](../Page/轿车.md "wikilink")，也是宝马最顶级系列車型，主要客群為金字塔頂層人士，一部份國家做為[元首座車](https://zh.wikipedia.org/wiki/元首座車 "wikilink")。它在1977年取代“New
+Six”车型，其主要竞争对手为[梅塞德斯-奔驰S级](https://zh.wikipedia.org/wiki/梅塞德斯-奔驰S级 "wikilink")、[保時捷Panamera](https://zh.wikipedia.org/wiki/保時捷Panamera "wikilink")、[凌志LS](https://zh.wikipedia.org/wiki/凌志LS "wikilink")、賓特利歐陸、[奥迪A8](../Page/奥迪A8.md "wikilink")、豐田皇冠、勞斯萊斯鬼、本田里程和積架XJ等等。該車系在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[丁戈爾芬裝配](https://zh.wikipedia.org/wiki/丁戈爾芬 "wikilink")\[1\]。
 
 ## 歷史
 
@@ -8,15 +8,15 @@ Six”车型，其主要竞争对手为[梅塞德斯-奔驰S级](../Page/梅塞�
 
 [1985_BMW_745i_grey_market_import_(13968252760).jpg](https://zh.wikipedia.org/wiki/File:1985_BMW_745i_grey_market_import_\(13968252760\).jpg "fig:1985_BMW_745i_grey_market_import_(13968252760).jpg")
 寶馬在1970年代重組汽車產品線，其中在1977年推出了7系列，取代BMW New
-Six豪華轎車。第一代7系列型號為E23，搭載[直列六缸引擎](../Page/直列六缸發動機.md "wikilink")，以汽油驅動。E23有手動變速和自動變速，前者有四速和五速手動，而後者則有三速和四速自動。
+Six豪華轎車。第一代7系列型號為E23，搭載[直列六缸引擎](https://zh.wikipedia.org/wiki/直列六缸發動機 "wikilink")，以汽油驅動。E23有手動變速和自動變速，前者有四速和五速手動，而後者則有三速和四速自動。
 
-早期E23還配有[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")，後期就加上[安全氣囊](../Page/安全氣囊.md "wikilink")。
+早期E23還配有[防鎖死煞車系統](../Page/防鎖死煞車系統.md "wikilink")，後期就加上[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 ### 第二代（E32，1986-1994）
 
 [BMW_740i_E32_(8918389508).jpg](https://zh.wikipedia.org/wiki/File:BMW_740i_E32_\(8918389508\).jpg "fig:BMW_740i_E32_(8918389508).jpg")
 1986年由意大利籍汽車設計師Ercole
-Spada設計出E32，新增了[V8引擎版本](../Page/V8引擎.md "wikilink")，一樣汽油驅動；手動變速只有五速，而自動變速版本則有四速和五速。
+Spada設計出E32，新增了[V8引擎版本](https://zh.wikipedia.org/wiki/V8引擎 "wikilink")，一樣汽油驅動；手動變速只有五速，而自動變速版本則有四速和五速。
 
 而在這版本開始，開始增設一些豪華裝設，諸如電話和傳真機。
 
@@ -32,7 +32,7 @@ E38是第一款帶有簾式安全氣囊的汽車。 這也是第一款提供衛�
 ### 第四代（2002-2008）
 
 [BMW_760Li_E66.jpg](https://zh.wikipedia.org/wiki/File:BMW_760Li_E66.jpg "fig:BMW_760Li_E66.jpg")
-第四代7系列有四個代號，分別為E65、E66、E67、E68。引擎方面除了有V8外，還有[V12引擎](../Page/V12引擎.md "wikilink")，只限汽油版本。第四代7系列全面採用自動變速，但只有六速選擇。
+第四代7系列有四個代號，分別為E65、E66、E67、E68。引擎方面除了有V8外，還有[V12引擎](https://zh.wikipedia.org/wiki/V12引擎 "wikilink")，只限汽油版本。第四代7系列全面採用自動變速，但只有六速選擇。
 
 E65 / E66 / E67 / E68是2001年至2008年生產的第四代7系列車型。車型包括標準長度和長軸距轎車。
 

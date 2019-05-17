@@ -1,5 +1,5 @@
-是一款[奇幻类](../Page/奇幻.md "wikilink")[开放世界型](../Page/开放世界.md "wikilink")[动作角色扮演游戏](../Page/动作角色扮演游戏.md "wikilink")。它由[贝塞斯达软件公司开发](../Page/贝塞斯达软件公司.md "wikilink")、贝塞斯达和[2K
-Games联合发行于](../Page/2K_Games.md "wikilink")2006年，是[上古卷轴系列的第四代作品](../Page/上古卷轴系列.md "wikilink")。游戏有[Windows](../Page/Windows.md "wikilink")、[Xbox
+是一款[奇幻类](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[开放世界型](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。它由[贝塞斯达软件公司开发](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")、贝塞斯达和[2K
+Games联合发行于](../Page/2K_Games.md "wikilink")2006年，是[上古卷轴系列的第四代作品](../Page/上古卷轴系列.md "wikilink")。游戏有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[PlayStation
 3等多个平台的版本](../Page/PlayStation_3.md "wikilink")。\[1\]游戏的资料片《上古卷轴IV：战栗孤岛》以及一系列升级包随之发布。游戏赢得了众多评论员的好评，获得许多奖项。\[2\]并在[Metacritic得到了](../Page/Metacritic.md "wikilink")94分的高分。\[3\]截至到2006年4月10日，《湮没》已销售出170万份，\[4\]2007年1月18日，销量超过300万份。\[5\]《上古卷轴IV：年度版》（含“战栗孤岛”和升级包“九骑士”）于2007年9月10日发布。\[6\]\[7\]
 
@@ -25,7 +25,7 @@ VII）被追殺的事件，玩家成為了皇帝在逃亡期間最信任的人�
   - [湮没概述](https://web.archive.org/web/20071119075432/http://www.elderscrolls.com/games/oblivion_overview.htm)
     — 官方网站
   - [OblivioWiki](http://oblivion.gamewikis.org/wiki/Main_Page) —
-    一个湮没的[wiki](../Page/wiki.md "wikilink")。
+    一个湮没的[wiki](https://zh.wikipedia.org/wiki/wiki "wikilink")。
   - [UESPWiki](http://www.uesp.net/wiki/Main_Page) - 一個獨立的湮没wiki。
 
 [Category:2006年电子游戏](https://zh.wikipedia.org/wiki/Category:2006年电子游戏 "wikilink")

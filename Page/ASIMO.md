@@ -1,16 +1,16 @@
 {{ infobox robot | name = Asimo | logo = Asimo logo.svg | logosize =
 175px | image = ASIMO 4.28.11.jpg|thumb | imsize = 175px | alt = |
 caption = ASIMO (28 April 2011) | manufacturer =
-[本田技研工業](../Page/本田技研工業.md "wikilink") |
+[本田技研工業](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink") |
 year_of_creation = 2000年 | derived_from = | replaced_by = | website
 =  }}
 [HONDA_ASIMO.jpg](https://zh.wikipedia.org/wiki/File:HONDA_ASIMO.jpg "fig:HONDA_ASIMO.jpg")上的ASIMO\]\]
 
-**ASIMO**（[日語](../Page/日語.md "wikilink")：**アシモ**）是[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](../Page/本田技研工業.md "wikilink")[類人型機器人](../Page/類人型機器人.md "wikilink")，站立時約130[公分](../Page/公分.md "wikilink")，重54[公斤](../Page/公斤.md "wikilink")。ASIMO外型酷似一位背著背包的[太空人](../Page/太空人.md "wikilink")，而且可以時速6[公里的速度前進](../Page/公里.md "wikilink")。ASIMO是從一系列的所發展出來的。
+**ASIMO**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：**アシモ**）是[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")[類人型機器人](../Page/類人型機器人.md "wikilink")，站立時約130[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，重54[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。ASIMO外型酷似一位背著背包的[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")，而且可以時速6[公里的速度前進](../Page/公里.md "wikilink")。ASIMO是從一系列的所發展出來的。
 
 ## 現況
 
-以太空员的样子所设计身高130公分有[視覺與](../Page/視覺.md "wikilink")[聽覺的整合能力](../Page/聽覺.md "wikilink")，目前充一次电只能维持一小时，但是它可自行前往充電站。2011年版全身可動關節大幅增加23處成為57處，體重減少6公斤成為48公斤，跑步速度由6km/h提高為9km/h。
+以太空员的样子所设计身高130公分有[視覺與](https://zh.wikipedia.org/wiki/視覺 "wikilink")[聽覺的整合能力](https://zh.wikipedia.org/wiki/聽覺 "wikilink")，目前充一次电只能维持一小时，但是它可自行前往充電站。2011年版全身可動關節大幅增加23處成為57處，體重減少6公斤成為48公斤，跑步速度由6km/h提高為9km/h。
 
 ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人時，會預測對方行進方向及速度，自行預先計算替代路線以免與對方相撞。腿部的運動能力及活動範圍不僅可以步行、奔跑、倒退走，還可以單腳跳躍、雙腳跳躍，更能邊跳躍邊變換方向，也可以在些微不平的地面行走。
 
@@ -40,7 +40,7 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 <tbody>
 <tr class="odd">
 <td><p>重量</p></td>
-<td><p>52 kg<a href="../Page/Talk:ASIMO#Asimo&#39;s_weight.md" title="wikilink">?</a></p></td>
+<td><p>52 kg<a href="https://zh.wikipedia.org/wiki/Talk:ASIMO#Asimo&#39;s_weight" title="wikilink">?</a></p></td>
 <td><p>54 kg</p></td>
 <td><p>48 kg[3]</p></td>
 <td></td>
@@ -93,7 +93,7 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 <tr class="even">
 <td><p>电池</p></td>
 <td><p><a href="../Page/镍氢电池.md" title="wikilink">镍氢电池</a><br />
-38.4 <a href="../Page/伏特.md" title="wikilink">V</a> / 10 <a href="../Page/安培小时.md" title="wikilink">Ah</a>/ 7.7 kg<br />
+38.4 <a href="../Page/伏特.md" title="wikilink">V</a> / 10 <a href="https://zh.wikipedia.org/wiki/安培小时" title="wikilink">Ah</a>/ 7.7 kg<br />
 4 小时全充电</p></td>
 <td><p><a href="../Page/锂离子电池.md" title="wikilink">锂离子电池</a><br />
 51.8 <a href="../Page/伏特.md" title="wikilink">伏</a> / 6 kg<br />
@@ -111,7 +111,7 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/自由度_(工程学).md" title="wikilink">自由度</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/自由度_(工程学)" title="wikilink">自由度</a></p></td>
 <td><p>26<br />
 <small>(头: 2, 臂: 5×2, 腿: 6×2, 手: 1×2)</small></p></td>
 <td><p>34[5]<br />
@@ -140,9 +140,9 @@ ASIMO已經可以同時與多人進行對話；遭遇其他正在行動中的人
 
   - [人形機器人(Android}](../Page/人形機器人.md "wikilink")
 
-  - [NAO (机器人)](../Page/NAO_\(机器人\).md "wikilink")
+  - [NAO (机器人)](https://zh.wikipedia.org/wiki/NAO_\(机器人\) "wikilink")
 
-  - [QRIO](../Page/QRIO.md "wikilink")
+  - [QRIO](https://zh.wikipedia.org/wiki/QRIO "wikilink")
 
   -
 

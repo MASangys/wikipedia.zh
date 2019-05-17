@@ -1,7 +1,7 @@
-《**舞-乙HiME**》是由[日本](../Page/日本.md "wikilink")[日昇動畫製作的](../Page/日昇動畫.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")。雖然這是《[舞-HiME](../Page/舞-HiME.md "wikilink")》第二個系列，但本作發生在一個新的時空背景，除了角色相同以外，其餘皆不相同。
+《**舞-乙HiME**》是由[日本](../Page/日本.md "wikilink")[日昇動畫製作的](../Page/日昇動畫.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。雖然這是《[舞-HiME](../Page/舞-HiME.md "wikilink")》第二個系列，但本作發生在一個新的時空背景，除了角色相同以外，其餘皆不相同。
 
-動畫從2005年10月6日到2006年3月30日在[東京電視台播放](../Page/東京電視台.md "wikilink")，共有26話。並於2006年11月24日陸續發售《舞-乙HiME》的[OVA](../Page/OVA.md "wikilink")《[舞-乙HiME
-Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所埋下的伏筆是在[OVA中解釋清楚的](../Page/OVA.md "wikilink")。11月9日發售格鬥類的PS2遊戲《舞-乙HiME
+動畫從2005年10月6日到2006年3月30日在[東京電視台播放](../Page/東京電視台.md "wikilink")，共有26話。並於2006年11月24日陸續發售《舞-乙HiME》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[舞-乙HiME
+Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所埋下的伏筆是在[OVA中解釋清楚的](https://zh.wikipedia.org/wiki/OVA "wikilink")。11月9日發售格鬥類的PS2遊戲《舞-乙HiME
 乙女舞鬥史\!\!》。另外在2008年2月22日發售的[舞-乙HiME
 0～S.ifr～則是在述說本作主角亞里香的母親麗奈以及五柱的故事](../Page/舞-乙HiME_0～S.ifr～.md "wikilink")。
 
@@ -11,7 +11,7 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
 
 舞-乙HiME的舞台是以前[地球人類移民的行星](../Page/地球.md "wikilink")****，以及當時發生的兩大戰爭（十二王戰爭與龍王戰爭）。
 
-某夜，溫德布倫王國的風華宮被入侵，國王與王妃被殺害，服侍國王的[**乙HiME**也失蹤了](../Page/#用語.md "wikilink")。
+某夜，溫德布倫王國的風華宮被入侵，國王與王妃被殺害，服侍國王的[**乙HiME**也失蹤了](https://zh.wikipedia.org/wiki/#用語 "wikilink")。
 
 14年後，以徒步穿越沙漠的少女**夢宮．亞里香**，為了找尋從出生就馬上分離母親而到了溫德布倫王國，並帶著母親的信物「**蒼天之青玉**」來到了世界唯一培養乙HiME的學校**加爾迪羅貝學園**。
 
@@ -296,11 +296,11 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
 ### 製作人員
 
   - 企劃：日昇動畫
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
-  - 監督：[小原正和](../Page/小原正和.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
+  - 監督：[小原正和](https://zh.wikipedia.org/wiki/小原正和 "wikilink")
   - 系列構成・編劇：[吉野弘幸](../Page/吉野弘幸.md "wikilink")
-  - 角色設計：[久行宏和](../Page/久行宏和.md "wikilink")
-  - 生物設計：[宮武一貴](../Page/宮武一貴.md "wikilink")、阿久津潤一
+  - 角色設計：[久行宏和](https://zh.wikipedia.org/wiki/久行宏和 "wikilink")
+  - 生物設計：[宮武一貴](https://zh.wikipedia.org/wiki/宮武一貴 "wikilink")、阿久津潤一
   - 客戶機械設計：大河広行
   - 場景設計：青木智由紀
   - 稱號標誌設計：鎌田誠
@@ -309,12 +309,12 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
   - 攝影監督：末弘孝史
   - 編集：関一彦
   - 音樂：[梶浦由記](../Page/梶浦由記.md "wikilink")
-  - 音樂製作人：[井上俊次](../Page/井上俊次.md "wikilink")
-  - 音樂製作：[蘭提斯](../Page/蘭提斯.md "wikilink")
+  - 音樂製作人：[井上俊次](https://zh.wikipedia.org/wiki/井上俊次 "wikilink")
+  - 音樂製作：[蘭提斯](https://zh.wikipedia.org/wiki/蘭提斯 "wikilink")
   - 音樂協作：日昇音樂出版、
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音響製作：テクノサウンド
-  - 製作人：[古里尚丈](../Page/古里尚丈.md "wikilink")、国崎久徳
+  - 製作人：[古里尚丈](https://zh.wikipedia.org/wiki/古里尚丈 "wikilink")、国崎久徳
   - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")
 
 ### 主題曲
@@ -323,7 +323,7 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
 
 :;「Dream☆Wing」前期（1話～15話）
 
-::作詞、作曲、主唱：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+::作詞、作曲、主唱：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 ::編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")
 
@@ -346,8 +346,8 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
       -
         主唱：[菊地美香](../Page/菊地美香.md "wikilink")&[小清水亞美](../Page/小清水亞美.md "wikilink")
         作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")
-        作曲：[羽場仁志](../Page/羽場仁志.md "wikilink")
-        編曲：[大久保薫](../Page/大久保薫.md "wikilink")
+        作曲：[羽場仁志](https://zh.wikipedia.org/wiki/羽場仁志 "wikilink")
+        編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")
 
   - 插曲
 
@@ -562,8 +562,8 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 <td><p>1</p></td>
 <td><p>幻の劇場版『風華大戦 舞-HiME THE MOVIE』予告</p></td>
 <td><p>幻之劇場版「風華大戰 舞-HiME THE MOVIE」預告</p></td>
-<td><p><a href="../Page/吉野弘幸_(脚本家).md" title="wikilink">吉野弘幸</a></p></td>
-<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉野弘幸_(脚本家)" title="wikilink">吉野弘幸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
 <td><p><a href="../Page/倉田綾子.md" title="wikilink">倉田綾子</a></p></td>
 <td></td>
 </tr>
@@ -607,7 +607,7 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 <td><p>6</p></td>
 <td><p>卒業写真 〜エルスティン・ホー最後の微笑み〜</p></td>
 <td><p>畢業寫真～艾爾斯汀·霍ー最後的微笑～</p></td>
-<td><p><a href="../Page/須永司.md" title="wikilink">須永司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/須永司" title="wikilink">須永司</a></p></td>
 <td><p>宅野誠起</p></td>
 <td><p>稲吉智重</p></td>
 <td></td>
@@ -635,7 +635,7 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 <td><p>9</p></td>
 <td><p>舞-乙HiME VS 舞-HiME</p></td>
 <td><p>舞-乙HiME VS 舞-HiME</p></td>
-<td><p><a href="../Page/久行宏和.md" title="wikilink">久行宏和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -646,7 +646,7 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 #### 少女的祈禱
 
 少女的祈禱（）是2010年3月26日發售的[Blu-ray
-Disc版](../Page/Blu-ray_Disc.md "wikilink")「舞-乙HiME
+Disc版](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")「舞-乙HiME
 COMPLETE」映像特典中收錄約5分鐘完全新作的畫像戲劇。
 
   - 劇本：吉野弘幸
@@ -667,7 +667,7 @@ COMPLETE」映像特典中收錄約5分鐘完全新作的畫像戲劇。
 此外，漫畫的兩部作品的世界觀在時間順序上是承接著的。《**舞-乙HiME**》的世界是在《[舞-HiME](../Page/舞-HiME.md "wikilink")》之後幾百年，人類已經衝出地球，向地球外擴展。
 
 關於在兩部作品故事發生之間的空白期，請參見[舞-HiME 命運的系統樹
-修羅](../Page/舞-HiME#遊戲版.md "wikilink")。
+修羅](https://zh.wikipedia.org/wiki/舞-HiME#遊戲版 "wikilink")。
 
 ## 外部連結
 

@@ -13,14 +13,15 @@
 1.  **花水木** - 5:21（ハナミズキ）
       - 作曲：／編曲：
       - 各自收錄在第五張單曲『花水木』以及第二張專輯『一青想』。
-      - 詳情請參照[花水木 (一青窈)](../Page/花水木_\(一青窈\).md "wikilink")。
+      - 詳情請參照[花水木
+        (一青窈)](https://zh.wikipedia.org/wiki/花水木_\(一青窈\) "wikilink")。
 2.  **翡翠** - 4:39
       - 作曲・編曲：武部聰志
       - 收錄於首張單曲『陪哭』。
       - 曲名是來自一青窈的父親送給母親的[翡翠耳環](../Page/翡翠.md "wikilink")。
       - 雖然專輯都未收錄，不過是演唱會都會唱的歌曲。
 3.  **陪哭** - 4:41（もらい泣き）
-      - 作曲：武部聡志、増子達郎、[溝渕大智](../Page/溝渕大智.md "wikilink")／編曲：武部聡志
+      - 作曲：武部聡志、増子達郎、[溝渕大智](https://zh.wikipedia.org/wiki/溝渕大智 "wikilink")／編曲：武部聡志
       - 收錄於首張單曲『陪哭』及首張專輯『月天心』。
       - 詳情請參照[陪哭](../Page/陪哭.md "wikilink")。
 4.  **一思案** - 5:12
@@ -33,19 +34,20 @@
       - 在專輯『月天心』發售前兩年，製作人武部聰志便開始譜曲。
       - 歌詞的構想是來自於送給姊姊一青妙結婚祝福的信。
 6.  **踏影子** - 4:23（影踏み）
-      - 作曲：／編曲：[山内薫](../Page/山内薫.md "wikilink")、
+      - 作曲：／編曲：[山内薫](https://zh.wikipedia.org/wiki/山内薫 "wikilink")、
       - 收錄第六張單曲及第三張專輯。
       - 2005JRA日本賽馬協會形象曲
       - 歌詞的靈感來自於朋友婚禮上，朋友父親的祝賀信
 7.  **高興的事** - 4:26（うれしいこと。）
       - 作曲・編曲：武部聡志
       - 收錄於第六張單曲『踏影子』及第三張專輯『&』。
-      - 日本[博士倫](../Page/博士倫.md "wikilink")[隱形眼鏡藥水廣告曲](../Page/隱形眼鏡.md "wikilink")
-8.  **江戶[波爾卡](../Page/波爾卡.md "wikilink")** - 3:30（江戸ポルカ）
+      - 日本[博士倫](https://zh.wikipedia.org/wiki/博士倫 "wikilink")[隱形眼鏡藥水廣告曲](../Page/隱形眼鏡.md "wikilink")
+8.  **江戶[波爾卡](https://zh.wikipedia.org/wiki/波爾卡 "wikilink")** -
+    3:30（江戸ポルカ）
       - 作曲・編曲：武部聡志
       - 收錄於第四張單曲及第二張專輯『一青想』。
       - 2003東京國際奇幻影展大會主題曲
-      - 概念取自「[歌舞伎](../Page/歌舞伎.md "wikilink")」、「[貓](../Page/貓.md "wikilink")」。
+      - 概念取自「[歌舞伎](../Page/歌舞伎.md "wikilink")」、「[貓](https://zh.wikipedia.org/wiki/貓 "wikilink")」。
       - 演唱會時配合了「招財貓舞」演出。
 9.  **大家** - 4:49
       - 作曲：増子達郎／編曲：武部聡志
@@ -57,13 +59,13 @@
       - 收錄在第三張專輯『&』。
       - MISAWA HOMES「CENTURY」廣告曲。
       - 演唱會「Yo\&U Tour
-        '06」表演時，曾送給全體觀眾歌詞中的[梔子花苗](../Page/梔子花.md "wikilink")。
+        '06」表演時，曾送給全體觀眾歌詞中的[梔子花苗](https://zh.wikipedia.org/wiki/梔子花 "wikilink")。
 11. **打勾勾** - 5:23（指切り）
       - 作曲・編曲：[小林武史](../Page/小林武史.md "wikilink")
       - 收錄在第八張單曲及第三張專輯『&』。
       - 獲頒2006年[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")・最佳編曲獎。
 12. **感謝謝** - 4:54（アリガ十々）
-      - 作曲：山内薫／編曲：[富田素弘](../Page/富田素弘.md "wikilink")
+      - 作曲：山内薫／編曲：[富田素弘](https://zh.wikipedia.org/wiki/富田素弘 "wikilink")
       - 收錄於首張單曲『陪哭』及首張專輯『月天心』。
 13. **風車** - 4:41（かざぐるま）
       - 作曲・編曲：武部聡志
@@ -111,12 +113,13 @@
 
 ### 樂團成員
 
-  - [打擊樂](../Page/打擊樂.md "wikilink")： 朝倉真司
+  - [打擊樂](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")： 朝倉真司
   - [電子琴](../Page/電子琴.md "wikilink")： 紺野紗衣
-  - [鼓手](../Page/鼓手.md "wikilink")：坂田学
-  - [貝斯](../Page/貝斯.md "wikilink")： 種子田健
+  - [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")：坂田学
+  - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")： 種子田健
   - [吉他](../Page/吉他.md "wikilink")： 西川進
-  - [鋼琴及](../Page/鋼琴.md "wikilink")[總監](../Page/總監.md "wikilink")： 武部聰志
+  - [鋼琴及](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[總監](https://zh.wikipedia.org/wiki/總監 "wikilink")：
+    武部聰志
 
 ## 關係項目
 

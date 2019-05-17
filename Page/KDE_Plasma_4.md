@@ -1,12 +1,12 @@
 **KDE Plasma 4**是[KDE專案提供的所有圖形環境總稱](../Page/KDE.md "wikilink")。
 
 目前有三個Plasma子專案：*Plasma
-Desktop*用於傳統的[桌面電腦和](../Page/台式电脑.md "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")、*Plasma
+Desktop*用於傳統的[桌面電腦和](https://zh.wikipedia.org/wiki/台式电脑 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")、*Plasma
 Netbook*用於[上网本](../Page/上网本.md "wikilink")\[1\]，以及*Plasma
 Active*用於[平板電腦](../Page/平板電腦.md "wikilink")。\[2\]**Plasma工作空間**是[KDE
 Software Compilation
 4的一部分](../Page/KDE_Software_Compilation_4.md "wikilink")。其继承者为
-[KDE Plasma 5](../Page/KDE_Plasma_5.md "wikilink")
+[KDE Plasma 5](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")
 \[3\]，於2014年7月15日釋出\[4\] 。
 
 ## 工作空間類型
@@ -30,14 +30,15 @@ Software Compilation
 
 Plasma Active 作為觸控相容的工作空間的基礎。相容 Active 的
 [Kontact](../Page/Kontact.md "wikilink") 預覽版本和基於 [Calligra
-Suite](../Page/Calligra_Suite.md "wikilink") 的文件閱讀器已經發布。
+Suite](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")
+的文件閱讀器已經發布。
 
 #### Contour
 
 **Contour** 是給平板電腦使用的 Plasma介面。它是在2011年4月由
-[basysKom](../Page/basysKom.md "wikilink")
-開始開發。\[6\]取代早期的平板電腦原型。\[7\]Contour
-是目前的主要工作空間和 Plasma Active 1.0 的一部分，預計將在2011年10月發布。\[8\]
+[basysKom](https://zh.wikipedia.org/wiki/basysKom "wikilink")
+開始開發。\[6\]取代早期的平板電腦原型。\[7\]Contour 是目前的主要工作空間和 Plasma Active
+1.0 的一部分，預計將在2011年10月發布。\[8\]
 
 #### 行動裝置
 
@@ -47,23 +48,23 @@ Mobile* during “[Tokamak 4](../Page/KDE.md "wikilink")”.
 Mobile* on video. <File:KOffice> viewer on Maemo5.jpg|KOffice document
 viewer under [Maemo 5](../Page/Maemo.md "wikilink") <File:Kmail-mobile>
 tech-preview.png|Early development version of
-*[KMail](../Page/KMail.md "wikilink") Mobile*.
+*[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink") Mobile*.
 
 ## 特色
 
 [Kde43_plasmoid.png](https://zh.wikipedia.org/wiki/File:Kde43_plasmoid.png "fig:Kde43_plasmoid.png")
 [Krunner_kde4.3.png](https://zh.wikipedia.org/wiki/File:Krunner_kde4.3.png "fig:Krunner_kde4.3.png")
 [Kde431_panel.png](https://zh.wikipedia.org/wiki/File:Kde431_panel.png "fig:Kde431_panel.png")
-4.3的[工作列](../Page/工作列.md "wikilink")。)\]\]
+4.3的[工作列](https://zh.wikipedia.org/wiki/工作列 "wikilink")。)\]\]
 
 Plasma特色*containments*，本質上是一個applet，它可以包含其他的applet。containments的兩個例子是桌面背景和工作列。
 
 ## 技術
 
-這是一項包括在KDE桌面環境中的幾個桌面互動技術，側重於eyecandy和特殊的圖形效果。它取代了以前[KDesktop](../Page/KDesktop.md "wikilink")
-shell，[Kicker工具列和](../Page/Kicker.md "wikilink")[SuperKaramba部件引擎等被使用在](../Page/SuperKaramba.md "wikilink")[KDE
-3系列的工具](../Page/KDE_3.md "wikilink")，並統一在Plasma的工作空间中。
-Plasma中的[Applet統稱為plasmoids](../Page/Applet.md "wikilink")，範圍從顯示資訊的工具，到小型應用軟件，如計算器和詞典。一項重要特點是，Plasma不再有區分面板（如任務欄），桌面圖標和工具，它們在Plasma中地位是相同的。
+這是一項包括在KDE桌面環境中的幾個桌面互動技術，側重於eyecandy和特殊的圖形效果。它取代了以前[KDesktop](https://zh.wikipedia.org/wiki/KDesktop "wikilink")
+shell，[Kicker工具列和](https://zh.wikipedia.org/wiki/Kicker "wikilink")[SuperKaramba部件引擎等被使用在](https://zh.wikipedia.org/wiki/SuperKaramba "wikilink")[KDE
+3系列的工具](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，並統一在Plasma的工作空间中。
+Plasma中的[Applet統稱為plasmoids](https://zh.wikipedia.org/wiki/Applet "wikilink")，範圍從顯示資訊的工具，到小型應用軟件，如計算器和詞典。一項重要特點是，Plasma不再有區分面板（如任務欄），桌面圖標和工具，它們在Plasma中地位是相同的。
 
 Plasma分離出組件部分"數據引擎"和他們對應的visualization。這是旨在減少編程工作時，數據總有多種可能的visualization考慮。以及方便的將數據引擎和visualization部分獨立編寫。計劃中KDE
 4之後的版本將以Raptor更換KMenu，Raptor將廣泛利用了這一點。
@@ -79,21 +80,23 @@ Plasma分離出組件部分"數據引擎"和他們對應的visualization。這�
   -
   - [Dashboard](../Page/Dashboard.md "wikilink")
 
-  - [Web widget](../Page/Web_widget.md "wikilink")（支援HTML和JavaScript）
+  - [Web
+    widget](https://zh.wikipedia.org/wiki/Web_widget "wikilink")（支援HTML和JavaScript）
 
-  - 小工具及[E17模組](../Page/E17.md "wikilink")。
+  - 小工具及[E17模組](https://zh.wikipedia.org/wiki/E17 "wikilink")。
 
 ## 預設環境
 
 下列作業系統使用plasma作為預設環境：
 
-  - [Ark Linux](../Page/Ark_Linux.md "wikilink")
-  - [ArtistX](../Page/ArtistX.md "wikilink")
-  - [aptosid](../Page/aptosid.md "wikilink")
+  - [Ark Linux](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")
+  - [ArtistX](https://zh.wikipedia.org/wiki/ArtistX "wikilink")
+  - [aptosid](https://zh.wikipedia.org/wiki/aptosid "wikilink")
   - [BackTrack](../Page/BackTrack.md "wikilink")
-  - [Chakra GNU/Linux](../Page/Chakra_GNU/Linux.md "wikilink")\[9\]
-  - [Frugalware](../Page/Frugalware.md "wikilink")
-  - [Kanotix](../Page/Kanotix.md "wikilink")
+  - [Chakra
+    GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")\[9\]
+  - [Frugalware](https://zh.wikipedia.org/wiki/Frugalware "wikilink")
+  - [Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink")
   - [Korora](../Page/Korora.md "wikilink")
   - [Kubuntu](../Page/Kubuntu.md "wikilink")<ref>
 
@@ -102,23 +105,23 @@ Plasma分離出組件部分"數據引擎"和他們對應的visualization。這�
   - [Mageia](../Page/Mageia.md "wikilink")
   - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
   - [Magic Linux](../Page/Magic_Linux.md "wikilink")
-  - [MCNLive](../Page/MCNLive.md "wikilink")
-  - [MEPIS](../Page/MEPIS.md "wikilink")
-  - [openSUSE](../Page/openSUSE.md "wikilink")<ref>
+  - [MCNLive](https://zh.wikipedia.org/wiki/MCNLive "wikilink")
+  - [MEPIS](https://zh.wikipedia.org/wiki/MEPIS "wikilink")
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")<ref>
 
 </ref>
 
-  - [Pardus](../Page/Pardus_\(operating_system\).md "wikilink")
+  - [Pardus](https://zh.wikipedia.org/wiki/Pardus_\(operating_system\) "wikilink")
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")
   - [Qomo Linux](../Page/Qomo_Linux.md "wikilink")
   - [Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
   - [Slackware](../Page/Slackware.md "wikilink")
   - [Skolelinux](../Page/Skolelinux.md "wikilink")
-  - [VectorLinux](../Page/VectorLinux.md "wikilink")
-  - [Xange](../Page/Xange.md "wikilink")
-  - [YOPER](../Page/YOPER.md "wikilink")
-  - [PC-BSD](../Page/PC-BSD.md "wikilink")
-  - [BeleniX](../Page/BeleniX.md "wikilink")
+  - [VectorLinux](https://zh.wikipedia.org/wiki/VectorLinux "wikilink")
+  - [Xange](https://zh.wikipedia.org/wiki/Xange "wikilink")
+  - [YOPER](https://zh.wikipedia.org/wiki/YOPER "wikilink")
+  - [PC-BSD](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")
+  - [BeleniX](https://zh.wikipedia.org/wiki/BeleniX "wikilink")
 
 ## 參考文獻
 

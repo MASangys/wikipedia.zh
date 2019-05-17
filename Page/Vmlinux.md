@@ -1,6 +1,6 @@
 [Linux-kernel-vmlinux.png](https://zh.wikipedia.org/wiki/File:Linux-kernel-vmlinux.png "fig:Linux-kernel-vmlinux.png")
  在linux系統中，vmlinux（vmlinuz）是一個包含linux
-kernel的靜態連結的執行檔，檔案型態可能是linux接受的執行檔格式之一（[ELF](../Page/ELF.md "wikilink")、[COFF或](../Page/COFF.md "wikilink")[a.out](../Page/a.out.md "wikilink")），vmlinux若要用於除錯時則必須要在開機前增加symbol
+kernel的靜態連結的執行檔，檔案型態可能是linux接受的執行檔格式之一（[ELF](https://zh.wikipedia.org/wiki/ELF "wikilink")、[COFF或](https://zh.wikipedia.org/wiki/COFF "wikilink")[a.out](https://zh.wikipedia.org/wiki/a.out "wikilink")），vmlinux若要用於除錯時則必須要在開機前增加symbol
 table。
 
 ## 位置
@@ -9,7 +9,8 @@ table。
 [BIOS](../Page/BIOS.md "wikilink") 的硬碟驅動程式，在一些i386的機器上必須要放在前 1024 個磁柱內。
 
 為了克服這個限制，Linux 發行版鼓勵使用者建立一個磁區用來存放 bootloader 與核心相關的開機檔案，例如
-[GRUB](../Page/GRUB.md "wikilink"), [LILO](../Page/LILO.md "wikilink") 與
+[GRUB](https://zh.wikipedia.org/wiki/GRUB "wikilink"),
+[LILO](../Page/LILO.md "wikilink") 與
 [SYSLINUX](../Page/SYSLINUX.md "wikilink") ... 。而這個磁區通常會掛載到系統的／boot 上，這是
 FHS (Filesystem Hierarchy Standard) 標準內定義的。
 
@@ -49,8 +50,9 @@ compressed/Makefile piggy.o）
 
 ## 參見
 
-  - [Linux kernel](../Page/Linux_kernel.md "wikilink")
-  - [可載入核心模組](../Page/可載入核心模組.md "wikilink")
+  - [Linux
+    kernel](https://zh.wikipedia.org/wiki/Linux_kernel "wikilink")
+  - [可載入核心模組](https://zh.wikipedia.org/wiki/可載入核心模組 "wikilink")
 
 ## 外部連結
 

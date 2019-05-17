@@ -1,22 +1,22 @@
-《**A·RA·SHI**》是[傑尼斯組合](../Page/傑尼斯事務所.md "wikilink")[嵐的出道](../Page/嵐.md "wikilink")[單曲](../Page/單曲.md "wikilink")。於1999年11月3日發行。唱片公司為[波麗佳音](../Page/波麗佳音.md "wikilink")。
+《**A·RA·SHI**》是[傑尼斯組合](../Page/傑尼斯事務所.md "wikilink")[嵐的出道](../Page/嵐.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於1999年11月3日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說
 
   - 是[傑尼斯事務所的組合中](../Page/傑尼斯事務所.md "wikilink")，繼[KinKi
-    Kids之後的第二張冠軍出道單曲](../Page/KinKi_Kids.md "wikilink")。
-  - 截自2011年2月，本單曲是嵐銷量最高的一張單曲。（第二位是《[Troublemaker](../Page/Troublemaker.md "wikilink")》，第三位是《[Monster](../Page/Monster.md "wikilink")》，第四位是《[Believe/烏雲散去、天氣晴](../Page/Believe/烏雲散去、天氣晴.md "wikilink")》。）
-  - 主打歌為1999年[富士電視台排球世界盃的印象曲](../Page/富士電視台.md "wikilink")。同樣CD出道的印象曲，有嵐之前[V6的](../Page/V6.md "wikilink")《Music
+    Kids之後的第二張冠軍出道單曲](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")。
+  - 截自2011年2月，本單曲是嵐銷量最高的一張單曲。（第二位是《[Troublemaker](../Page/Troublemaker.md "wikilink")》，第三位是《[Monster](../Page/Monster.md "wikilink")》，第四位是《[Believe/烏雲散去、天氣晴](https://zh.wikipedia.org/wiki/Believe/烏雲散去、天氣晴 "wikilink")》。）
+  - 主打歌為1999年[富士電視台排球世界盃的印象曲](../Page/富士電視台.md "wikilink")。同樣CD出道的印象曲，有嵐之前[V6的](https://zh.wikipedia.org/wiki/V6 "wikilink")《Music
     For The People》以及[NEWS的](../Page/NEWS.md "wikilink")《希望～Yell～》等等。
   - 在事務所的出道曲中銷量僅次於KinKi
-    Kids《[玻璃少年](../Page/玻璃少年.md "wikilink")》、[近藤真彥](../Page/近藤真彥.md "wikilink")《[Sneaker
+    Kids《[玻璃少年](../Page/玻璃少年.md "wikilink")》、[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")《[Sneaker
     Blues](../Page/Sneaker_Blues.md "wikilink")》及[KAT-TUN](../Page/KAT-TUN.md "wikilink")《[Real
     Face](../Page/Real_Face.md "wikilink")》。發售之始決定初回出貨量是36萬枚，在發售後又增加了出貨量。
-  - 封面的「嵐」字是[傑尼斯事務所社長所寫的](../Page/Johnny喜多川.md "wikilink")。
+  - 封面的「嵐」字是[傑尼斯事務所社長所寫的](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")。
   - 2001年11月7日，此單曲因版權問題成為廢盤。
-  - 在[第60回NHK紅白歌合戰以組曲形式演唱](../Page/第60回NHK紅白歌合戰.md "wikilink")（**A·RA·SHI**
+  - 在[第60回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第60回NHK紅白歌合戰 "wikilink")（**A·RA·SHI**
     + [Love so sweet](../Page/Love_so_sweet.md "wikilink") +
     [Happiness](../Page/Happiness_\(嵐\).md "wikilink") +
-    [Believe](../Page/Believe/烏雲散去，天氣晴.md "wikilink")）
+    [Believe](https://zh.wikipedia.org/wiki/Believe/烏雲散去，天氣晴 "wikilink")）
 
 ## 收錄曲
 

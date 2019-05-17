@@ -1,20 +1,21 @@
 **HotCha
 HotCha**是[香港三人女子跳舞歌唱組合](../Page/香港.md "wikilink")[HotCha的首張專輯](../Page/HotCha.md "wikilink")，預佈會於2007年10月9日舉行，而專輯則於2007年10月17日發行。由於「HotCha」一詞於外國有「熱愛」的意思，因此這張專輯的名稱可解釋為「熱愛HotCha」。
 
-這張專輯的主打歌為《Vanilla》、《不要防曬》及《你的味道》，而隨碟附送的[DVD收錄了三首新歌](../Page/DVD.md "wikilink")[MV](../Page/MV.md "wikilink")、《你的味道劇場版》及10分鐘足本版《馬來西亞曬曬陽光之旅》。
+這張專輯的主打歌為《Vanilla》、《不要防曬》及《你的味道》，而隨碟附送的[DVD收錄了三首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、《你的味道劇場版》及10分鐘足本版《馬來西亞曬曬陽光之旅》。
 
 由於專輯反應熱烈，唱片公司於2007年11月21日推出加熱版CD。內附有HotCha於12月13日在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[世貿中心舉行的首個迷你音樂會](../Page/世貿中心_\(香港\).md "wikilink")──熱舞會的入場券，名額100名，並且以先到先得形式入場。加熱版CD只推出1000張。
 
-為慶祝HotCha在2007年尾的各大頒獎典禮有良好的成績及預祝[農曆新年](../Page/農曆新年.md "wikilink")，唱片公司於2008年1月24日推出熱賀本CD。三人在熱賀本專輯封面的衣著顏色由原來的白色改為紅色。這張專輯的主打歌為《Party
-Girl》及[情人節主打](../Page/情人節.md "wikilink")《咖啡或茶》，而隨碟附送的[DVD收錄了熱舞會的剪輯片段及](../Page/DVD.md "wikilink")《Party
-Girl》的[MV](../Page/MV.md "wikilink")。
+為慶祝HotCha在2007年尾的各大頒獎典禮有良好的成績及預祝[農曆新年](https://zh.wikipedia.org/wiki/農曆新年 "wikilink")，唱片公司於2008年1月24日推出熱賀本CD。三人在熱賀本專輯封面的衣著顏色由原來的白色改為紅色。這張專輯的主打歌為《Party
+Girl》及[情人節主打](https://zh.wikipedia.org/wiki/情人節 "wikilink")《咖啡或茶》，而隨碟附送的[DVD收錄了熱舞會的剪輯片段及](https://zh.wikipedia.org/wiki/DVD "wikilink")《Party
+Girl》的[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。
 
 ## 曲目資料
 
 ### 第一版及加熱版
 
 這張專輯收錄了六首新歌及一首Remix，其中《Vanilla》、《不要防曬》、《你的味道》及《煙花祭》於專輯發行前已經派台，《煙花祭》更為2007年度[兒歌金曲頒獎典禮的後選歌曲](../Page/兒歌金曲頒獎典禮.md "wikilink")。全碟歌曲監製為[Edward
-Chan](../Page/Edward_Chan.md "wikilink")、Charles Lee及King Kong。
+Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")、Charles
+Lee及King Kong。
 
 <table>
 <thead>
@@ -37,9 +38,9 @@ Chan](../Page/Edward_Chan.md "wikilink")、Charles Lee及King Kong。
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>不要防曬</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 <td><p><a href="../Page/周耀輝.md" title="wikilink">周耀輝</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
@@ -61,7 +62,7 @@ Chan](../Page/Edward_Chan.md "wikilink")、Charles Lee及King Kong。
 <small>（<a href="../Page/味千拉麵.md" title="wikilink">味千拉麵廣告主題曲</a>）</small></p></td>
 <td><p>-{謝杰}-</p></td>
 <td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
@@ -82,7 +83,7 @@ Chan](../Page/Edward_Chan.md "wikilink")、Charles Lee及King Kong。
 </tbody>
 </table>
 
-而在隨碟附送的DVD內，[HotCha於正式加入樂壇前曾被公司安排到](../Page/HotCha.md "wikilink")[日本的著名演藝訓練學校接受訓練](../Page/日本.md "wikilink")，期間拍攝了《Vanilla》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，其後獲得多間廣告商的贊助，於2007年7月到[馬來西亞拍攝](../Page/馬來西亞.md "wikilink")《不要防曬》的[音樂錄影帶亦收錄在內](../Page/音樂錄影帶.md "wikilink")。
+而在隨碟附送的DVD內，[HotCha於正式加入樂壇前曾被公司安排到](../Page/HotCha.md "wikilink")[日本的著名演藝訓練學校接受訓練](../Page/日本.md "wikilink")，期間拍攝了《Vanilla》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，其後獲得多間廣告商的贊助，於2007年7月到[馬來西亞拍攝](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")《不要防曬》的[音樂錄影帶亦收錄在內](../Page/音樂錄影帶.md "wikilink")。
 
 1.  Vanilla MV
 2.  不要防曬 MV
@@ -110,9 +111,9 @@ Girl》及《咖啡或茶》，其他歌曲則與第一版相同。其中《你�
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>Party Girl</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
@@ -131,9 +132,9 @@ Girl》及《咖啡或茶》，其他歌曲則與第一版相同。其中《你�
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>不要防曬</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 <td><p><a href="../Page/周耀輝.md" title="wikilink">周耀輝</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
@@ -155,7 +156,7 @@ Girl》及《咖啡或茶》，其他歌曲則與第一版相同。其中《你�
 <small>（<a href="../Page/味千拉麵.md" title="wikilink">味千拉麵廣告主題曲</a>）</small></p></td>
 <td><p>-{謝杰}-</p></td>
 <td><p><a href="../Page/林若寧.md" title="wikilink">林若寧</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp; Charles Lee</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
@@ -177,8 +178,9 @@ Girl》及《咖啡或茶》，其他歌曲則與第一版相同。其中《你�
 </table>
 
 在隨碟附送的DVD內，收錄了2007年12月13日在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[世貿中心舉行的首個迷你音樂會](../Page/世貿中心_\(香港\).md "wikilink")──熱舞會（Hot
-Dance Party）的剪輯片段及以[高清拍攝的](../Page/高清.md "wikilink")《Party
-Girl》[MV](../Page/MV.md "wikilink")。
+Dance
+Party）的剪輯片段及以[高清拍攝的](https://zh.wikipedia.org/wiki/高清 "wikilink")《Party
+Girl》[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。
 
 1.  HotCha Hot Dance Party
 2.  Party Girl MV
@@ -237,7 +239,7 @@ Girl》[MV](../Page/MV.md "wikilink")。
 
 <!-- end list -->
 
-  - [NOKIA](../Page/NOKIA.md "wikilink")
+  - [NOKIA](https://zh.wikipedia.org/wiki/NOKIA "wikilink")
   - AURA
 
 ## 獎項

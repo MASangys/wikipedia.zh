@@ -1,5 +1,5 @@
 [MCITP_logo.png](https://zh.wikipedia.org/wiki/File:MCITP_logo.png "fig:MCITP_logo.png")
-**微軟IT技術專業人員**（MCITP）是微軟於2007年推出的新一代認證的系統與網路管理專業人員的專家認證，需具兩年以上的IT專家經驗，與[MCTS不同在於](../Page/Microsoft_Certified_Technology_Specialist.md "wikilink")，MCITP是以特定專家技術領域為認證標，測驗考生對於目的職務（job）的工作勝任能力，與MCTS只單純測驗產品技術熟悉度完全不同，考試內容可能會包含設計，規劃，發展，評量與計畫制定等特殊的能力，而這些能力都是專注在特定的職務上，像是系統工程師以及系統分析師之類的職務。因此MCITP必需要考多於一科的考試，並且必須事先通過MCTS考試。
+**微軟IT技術專業人員**（MCITP）是微軟於2007年推出的新一代認證的系統與網路管理專業人員的專家認證，需具兩年以上的IT專家經驗，與[MCTS不同在於](https://zh.wikipedia.org/wiki/Microsoft_Certified_Technology_Specialist "wikilink")，MCITP是以特定專家技術領域為認證標，測驗考生對於目的職務（job）的工作勝任能力，與MCTS只單純測驗產品技術熟悉度完全不同，考試內容可能會包含設計，規劃，發展，評量與計畫制定等特殊的能力，而這些能力都是專注在特定的職務上，像是系統工程師以及系統分析師之類的職務。因此MCITP必需要考多於一科的考試，並且必須事先通過MCTS考試。
 
 2012年微軟重新啟用MCSE，所以MCITP將會隨著相關考試停考而走入歷史。
 

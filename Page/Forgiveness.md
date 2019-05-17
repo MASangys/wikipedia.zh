@@ -9,7 +9,7 @@
     address](../Page/Memorial_address.md "wikilink")》當中。但未收錄於2007年2月28日發售的精選集《[A
     BEST 2](../Page/A_BEST_2.md "wikilink")》，僅收錄於2008年發售的單曲精選輯《[A
     COMPLETE \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》當中。
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中。
   - 本作收錄了前作《[&](../Page/&_\(濱崎步單曲\).md "wikilink")》當中，收錄歌曲《ourselves》、《HANABI
     〜episode II〜》的混音版本。
 
@@ -21,7 +21,7 @@
       -
         作曲：[CREA](../Page/CREA.md "wikilink") +
         [D・A・I](../Page/長尾大.md "wikilink") /
-        編曲：[CMJK](../Page/CMJK.md "wikilink")
+        編曲：[CMJK](https://zh.wikipedia.org/wiki/CMJK "wikilink")
         TBS電視台「高原へいらっしゃい」主題歌
 2.  **[ourselves](../Page/&_\(濱崎步單曲\).md "wikilink") "Kentaro Takizawa
     remix"**

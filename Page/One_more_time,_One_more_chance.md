@@ -1,15 +1,15 @@
 《**One more time, One more
-chance**》是1997年1月22日由「」發表的[山崎將義](../Page/山崎將義.md "wikilink")（）的第五張[單曲](../Page/單曲.md "wikilink")。
+chance**》是1997年1月22日由「」發表的[山崎將義](https://zh.wikipedia.org/wiki/山崎將義 "wikilink")（）的第五張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
   - 這是山崎第一次主演的電影《》（筱原哲雄監督）的主題歌，成為山崎的初期代表曲子之一。
-  - 銷售額30萬張的作品，同年發行的專輯《[Home](../Page/Home.md "wikilink")》也收錄了此曲。
-  - 曲子是山崎從山口縣進京後的1993年寫成的，山崎當時居住的[櫻木町在歌詞中登場](../Page/櫻木町.md "wikilink")。
+  - 銷售額30萬張的作品，同年發行的專輯《[Home](https://zh.wikipedia.org/wiki/Home "wikilink")》也收錄了此曲。
+  - 曲子是山崎從山口縣進京後的1993年寫成的，山崎當時居住的[櫻木町在歌詞中登場](https://zh.wikipedia.org/wiki/櫻木町 "wikilink")。
   - 曲子是一個人與戀人分離後，難過的slow ballad。
   - 在第一次發表十年後的2007年，動畫電影《[秒速5公分](../Page/秒速5公分.md "wikilink")》採用本歌做為主題曲。這是由於動畫監督[新海誠認為這首歌很符合電影劇情](../Page/新海誠.md "wikilink")，這是一個樂曲作為不同電影的主題歌的特例。與2007年3月3日重新錄製的獨奏獨唱版本一起作為「One
     more time, One more chance『秒速5公分』Special
-    Edition」，由[環球音樂再發行](../Page/環球音樂.md "wikilink")。
+    Edition」，由[環球音樂再發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
   - 香港歌手[鄭中基曾於](../Page/鄭中基.md "wikilink")1999年翻唱此曲並從新填上粵語歌詞，收錄於其專輯《ONE
     MORE TIME》中。
 

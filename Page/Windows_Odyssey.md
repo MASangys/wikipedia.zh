@@ -1,5 +1,5 @@
 **Odyssey** 是一個於1999年早期至2000年開發的[Microsoft
-Windows的開發代號](../Page/Microsoft_Windows.md "wikilink")。Odyssey的目標是為以商業用戶而設的[NT核心的](../Page/Windows_NT.md "wikilink")[Windows
+Windows的開發代號](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Odyssey的目標是為以商業用戶而設的[NT核心的](../Page/Windows_NT.md "wikilink")[Windows
 2000開發一個後續產品](../Page/Windows_2000.md "wikilink")。Odyssey使用與[Windows
 Neptune相同的版本](../Page/Windows_Neptune.md "wikilink")，
 6.0\[1\]（版本編號「NT6.0」並不是產品的名稱。而相同的版本編號於[Windows

@@ -1,8 +1,8 @@
-**講談社BOX**是[講談社在](../Page/講談社.md "wikilink")2006年11月發行的書籍系列與部門。
+**講談社BOX**是[講談社在](https://zh.wikipedia.org/wiki/講談社 "wikilink")2006年11月發行的書籍系列與部門。
 
 ## 簡介
 
-部長和《[Faust](../Page/浮文誌.md "wikilink")》雜誌同為太田克史。
+部長和《[Faust](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")》雜誌同為太田克史。
 
 作品不只有小說，還包括了漫畫和非小說（Non-fiction）作品。漫畫作品傾向讓曾經發售過的作品復刊（在復刊的情況，有些作品也能從別的系列買到）。
 
@@ -14,7 +14,7 @@
 
 具有各式各樣的企畫。有大河小說、講談社BOX新人獎「流水大獎」。此外，還成立了讀者俱樂部「KOBO」，將來目標進軍海外，進行了許多大田風格的嘗試。
 
-在日本[亞馬遜內設有講談社BOX的網站](../Page/Amazon.com.md "wikilink")，刊登特別專訪，並且能夠看到發行書籍一覽表。是小說系列首度在亞馬遜上面登錄。
+在日本[亞馬遜內設有講談社BOX的網站](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")，刊登特別專訪，並且能夠看到發行書籍一覽表。是小說系列首度在亞馬遜上面登錄。
 
 其他還有大河小說的交叉書評（西尾維新評論清涼院流水的書，清涼院流水評論西尾維新的書）。
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [清涼院流水](../Page/清涼院流水.md "wikilink") 《》
+  - [清涼院流水](https://zh.wikipedia.org/wiki/清涼院流水 "wikilink") 《》
   - [西尾維新](../Page/西尾維新.md "wikilink") 《》
 
 <!-- end list -->
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - [定金伸治](../Page/定金伸治.md "wikilink") 《》
+  - [定金伸治](https://zh.wikipedia.org/wiki/定金伸治 "wikilink") 《》
 
 ## 講談社BOX新人獎「流水大獎」
 
@@ -79,36 +79,40 @@
 
 ## 講談社BOX作品一覽
 
-  - [刀語](../Page/刀語.md "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink")/[竹](../Page/竹_\(插畫家\).md "wikilink")）※大河小說2007（全12卷）
+  - [刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")（[西尾維新](../Page/西尾維新.md "wikilink")/[竹](../Page/竹_\(插畫家\).md "wikilink")）※大河小說2007（全12卷）
   - [傷物語](../Page/傷物語.md "wikilink")（西尾維新/[VOFAN](../Page/VOFAN.md "wikilink")）
   - [Classical Fantasy
-    Within](../Page/Classical_Fantasy_Within.md "wikilink")（[島田莊司](../Page/島田莊司.md "wikilink")/[士郎正宗](../Page/士郎正宗.md "wikilink")）※大河小說2008（予定全12卷）
-  - [四方世界の王](../Page/四方世界の王.md "wikilink")（[定金伸治](../Page/定金伸治.md "wikilink")/[記伊孝](../Page/記伊孝.md "wikilink")）※大河小說2009（予定全12卷）
-  - [島田荘司veryBEST10](../Page/島田荘司veryBEST10.md "wikilink")（島田莊司）※2冊組
-  - [DDD](../Page/DDD_\(小説\).md "wikilink")（[奈須磨菇](../Page/奈須磨菇.md "wikilink")/[小山廣和](../Page/小山廣和.md "wikilink")）※系列作品（予定全4卷）
+    Within](https://zh.wikipedia.org/wiki/Classical_Fantasy_Within "wikilink")（[島田莊司](../Page/島田莊司.md "wikilink")/[士郎正宗](../Page/士郎正宗.md "wikilink")）※大河小說2008（予定全12卷）
+  - [四方世界の王](https://zh.wikipedia.org/wiki/四方世界の王 "wikilink")（[定金伸治](https://zh.wikipedia.org/wiki/定金伸治 "wikilink")/[記伊孝](https://zh.wikipedia.org/wiki/記伊孝 "wikilink")）※大河小說2009（予定全12卷）
+  - [島田荘司veryBEST10](https://zh.wikipedia.org/wiki/島田荘司veryBEST10 "wikilink")（島田莊司）※2冊組
+  - [DDD](https://zh.wikipedia.org/wiki/DDD_\(小説\) "wikilink")（[奈須磨菇](https://zh.wikipedia.org/wiki/奈須磨菇 "wikilink")/[小山廣和](../Page/小山廣和.md "wikilink")）※系列作品（予定全4卷）
   - [偽物語](../Page/偽物語.md "wikilink")（西尾維新/VOFAN）※上下卷
   - [化物語](../Page/化物語.md "wikilink")（西尾維新/VOFAN）※上下卷
   - [貓物語](../Page/貓物語.md "wikilink")（西尾維新/VOFAN）※黑白卷
-  - [花散里](../Page/花散里_\(小説\).md "wikilink")（[針谷卓史](../Page/針谷卓史.md "wikilink")/[撫子凛](../Page/撫子凛.md "wikilink")）
-  - [真庭語](../Page/真庭語.md "wikilink")（西尾維新/竹）
+  - [花散里](https://zh.wikipedia.org/wiki/花散里_\(小説\) "wikilink")（[針谷卓史](https://zh.wikipedia.org/wiki/針谷卓史 "wikilink")/[撫子凛](https://zh.wikipedia.org/wiki/撫子凛 "wikilink")）
+  - [真庭語](https://zh.wikipedia.org/wiki/真庭語 "wikilink")（西尾維新/竹）
   - [428
-    〜封鎖された渋谷で〜](../Page/428_〜封鎖された渋谷で〜#小説版「428」.md "wikilink")（原作：[チュンソフト](../Page/チュンソフト.md "wikilink")、執筆：[北島行徳](../Page/北島行徳.md "wikilink")/N村）※系列作品（全4卷）
-  - [ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")（竜騎士07/ともひ）※系列作品（全7卷）
+    〜封鎖された渋谷で〜](https://zh.wikipedia.org/wiki/428_〜封鎖された渋谷で〜#小説版「428」 "wikilink")（原作：[チュンソフト](https://zh.wikipedia.org/wiki/チュンソフト "wikilink")、執筆：[北島行徳](https://zh.wikipedia.org/wiki/北島行徳 "wikilink")/N村）※系列作品（全4卷）
+  - [ひぐらしのなく頃に](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")（竜騎士07/ともひ）※系列作品（全7卷）
   - [ひぐらしのなく頃に
-    解](../Page/ひぐらしのなく頃に_解.md "wikilink")（竜騎士07/ともひ）※系列作品（全9卷）
-  - [ひぐらしのなく頃に 礼](../Page/ひぐらしのなく頃に_礼.md "wikilink")（竜騎士07/ともひ）（全1卷）
-  - [うみねこのなく頃に](../Page/うみねこのなく頃に.md "wikilink")（竜騎士07/ともひ）※系列作品（全8卷）
-  - [K 赤之王國](../Page/K_赤之王國.md "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
-  - [K 青之事件簿](../Page/K_青之事件簿.md "wikilink")（宮沢龍生（GoRA）/鈴木次郎）※上下卷
-  - [K R：B](../Page/K_R：B.md "wikilink")（あざの耕平(GoRA)/鈴木信吾(GoHands)）
+    解](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_解 "wikilink")（竜騎士07/ともひ）※系列作品（全9卷）
+  - [ひぐらしのなく頃に
+    礼](https://zh.wikipedia.org/wiki/ひぐらしのなく頃に_礼 "wikilink")（竜騎士07/ともひ）（全1卷）
+  - [うみねこのなく頃に](https://zh.wikipedia.org/wiki/うみねこのなく頃に "wikilink")（竜騎士07/ともひ）※系列作品（全8卷）
+  - [K
+    赤之王國](https://zh.wikipedia.org/wiki/K_赤之王國 "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
+  - [K
+    青之事件簿](https://zh.wikipedia.org/wiki/K_青之事件簿 "wikilink")（宮沢龍生（GoRA）/鈴木次郎）※上下卷
+  - [K
+    R：B](https://zh.wikipedia.org/wiki/K_R：B "wikilink")（あざの耕平(GoRA)/鈴木信吾(GoHands)）
   - [K -Lost Small
-    World-](../Page/K_-Lost_Small_World-.md "wikilink")（壁井有可子（GoRA）/鈴木信吾(GoHands)）
+    World-](https://zh.wikipedia.org/wiki/K_-Lost_Small_World- "wikilink")（壁井有可子（GoRA）/鈴木信吾(GoHands)）
   - [K SIDE：BLACK &
-    WHITE](../Page/K_SIDE：BLACK_&_WHITE.md "wikilink")（宮沢龍生(GoRA)/鈴木信吾(GoHands)）
+    WHITE](https://zh.wikipedia.org/wiki/K_SIDE：BLACK_&_WHITE "wikilink")（宮沢龍生(GoRA)/鈴木信吾(GoHands)）
   - [K
-    SIDE:RED](../Page/K_SIDE:RED.md "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
+    SIDE:RED](https://zh.wikipedia.org/wiki/K_SIDE:RED "wikilink")（来楽零(GoRA)/鈴木信吾(GoHands)）
   - [K
-    SIDE：BLUE](../Page/K_SIDE：BLUE.md "wikilink")（古橋秀之(GoRA)/鈴木信吾(GoHands)）
+    SIDE：BLUE](https://zh.wikipedia.org/wiki/K_SIDE：BLUE "wikilink")（古橋秀之(GoRA)/鈴木信吾(GoHands)）
 
 ##
 
@@ -116,7 +120,7 @@
 
 ## 关联条目
 
-  - [浮文誌](../Page/浮文誌.md "wikilink")
+  - [浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")
   - [最前线](../Page/最前线.md "wikilink")
 
 [Category:講談社BOX](https://zh.wikipedia.org/wiki/Category:講談社BOX "wikilink")

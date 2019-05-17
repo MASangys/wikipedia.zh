@@ -1,5 +1,5 @@
 **DirectDraw**，微軟[Direct
-X的一員](../Page/Direct_X.md "wikilink")，是基於COM架構下的[2D](../Page/2D.md "wikilink")
+X的一員](https://zh.wikipedia.org/wiki/Direct_X "wikilink")，是基於COM架構下的[2D](https://zh.wikipedia.org/wiki/2D "wikilink")
 API，例如DirectDraw的Blt()用於表面间整体图像或是部分图像的移动。
 
 DirectDraw漸被[Direct3D所取代](../Page/Direct3D.md "wikilink")，[DirectShow的VMR](../Page/DirectShow.md "wikilink")-7
@@ -65,6 +65,6 @@ Windows 8.1或Windows Server 2012 R2以後的版本才支援。
 
   - [DirectX](../Page/DirectX.md "wikilink")
 
-  - [DXGI](../Page/DXGI.md "wikilink")
+  - [DXGI](https://zh.wikipedia.org/wiki/DXGI "wikilink")
 
 [Category:DirectX](https://zh.wikipedia.org/wiki/Category:DirectX "wikilink")

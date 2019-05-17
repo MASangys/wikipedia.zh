@@ -1,7 +1,7 @@
 **仙后座矮星系**（也稱為**仙女座
-Ⅶ**）位於[仙后座](../Page/仙后座.md "wikilink")，是一個距離258萬[光年的](../Page/光年.md "wikilink")[矮橢球星系](../Page/矮橢球星系.md "wikilink")。仙后座矮星系是[本星系群的成員](../Page/本星系群.md "wikilink")，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。
+Ⅶ**）位於[仙后座](https://zh.wikipedia.org/wiki/仙后座 "wikilink")，是一個距離258萬[光年的](../Page/光年.md "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")。仙后座矮星系是[本星系群的成員](../Page/本星系群.md "wikilink")，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。
 
-仙后座矮星系是在1998年與[飛馬座矮橢球星系同時被](../Page/飛馬座矮橢球星系.md "wikilink")[前蘇聯和](../Page/前蘇聯.md "wikilink")[烏克蘭的一組](../Page/烏克蘭.md "wikilink")[天文學家發現的](../Page/天文學家.md "wikilink")。仙后座矮星系與飛馬座矮橢球星系是已知的衛星星系中距離[仙女座大星系最遠的](../Page/仙女座大星系.md "wikilink")，但仍然在其重力能掌握的區域內。這兩個星系內都沒有顯示出年輕的、大質量[恆星形成的跡象](../Page/恆星.md "wikilink")；取代的是，似乎都以老年的，年齡達到100億歲的恆星為主。
+仙后座矮星系是在1998年與[飛馬座矮橢球星系同時被](https://zh.wikipedia.org/wiki/飛馬座矮橢球星系 "wikilink")[前蘇聯和](https://zh.wikipedia.org/wiki/前蘇聯 "wikilink")[烏克蘭的一組](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[天文學家發現的](https://zh.wikipedia.org/wiki/天文學家 "wikilink")。仙后座矮星系與飛馬座矮橢球星系是已知的衛星星系中距離[仙女座大星系最遠的](https://zh.wikipedia.org/wiki/仙女座大星系 "wikilink")，但仍然在其重力能掌握的區域內。這兩個星系內都沒有顯示出年輕的、大質量[恆星形成的跡象](https://zh.wikipedia.org/wiki/恆星 "wikilink")；取代的是，似乎都以老年的，年齡達到100億歲的恆星為主。
 
 ## 相關條目
 

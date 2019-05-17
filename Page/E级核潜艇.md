@@ -1,9 +1,9 @@
 **E级核动力巡航导弹潜艇（北约代号：Echo
-class，另翻译为：“回声级”）**是[苏联第一级](../Page/苏联.md "wikilink")[核动力](../Page/核动力.md "wikilink")[巡航导弹潜艇](../Page/巡航导弹潜艇.md "wikilink")，由[红宝石设计局设计](../Page/红宝石设计局.md "wikilink")。
+class，另翻译为：“回声级”）**是[苏联第一级](../Page/苏联.md "wikilink")[核动力](https://zh.wikipedia.org/wiki/核动力 "wikilink")[巡航导弹潜艇](../Page/巡航导弹潜艇.md "wikilink")，由[红宝石设计局设计](../Page/红宝石设计局.md "wikilink")。
 
 ## 659型
 
-1956年，苏联政府决定建造核动力远洋巡航导弹潜艇以试图在远洋抵抗美军为首的盟军航母战斗群，遂制定659计划书决定研制装被П-5型反舰巡航导弹，以[H级核潜艇和](../Page/H级核潜艇.md "wikilink")[W级潜艇的改装型号为设计蓝本](../Page/W级潜艇.md "wikilink")。计划书中确定1961年要交付海军32艘潜艇。1956年末，研制工程展开，由红宝石设计局负责设计。总设计师为II.II.普斯腾采夫（后由H.A.克利莫夫接替）。1957年12月28日首艇K-45号就在[列宁共青团造船厂开始建造](../Page/阿穆尔造船厂.md "wikilink")。其后制造的5艘E-1级艇全部归属苏联太平洋舰队。但该厂缺乏核潜艇和导弹潜艇建造经验,而且远离苏联科技和工业中心,因而659型艇的建造过程并不顺利。一些急需设备不得不从苏联的欧洲部分地区紧急订购和空运。尽管遇到了种种困难,还是在1961年顺利向海军交付了2艘潜艇。659型艇最后一共建造了5艘。
+1956年，苏联政府决定建造核动力远洋巡航导弹潜艇以试图在远洋抵抗美军为首的盟军航母战斗群，遂制定659计划书决定研制装被П-5型反舰巡航导弹，以[H级核潜艇和](https://zh.wikipedia.org/wiki/H级核潜艇 "wikilink")[W级潜艇的改装型号为设计蓝本](https://zh.wikipedia.org/wiki/W级潜艇 "wikilink")。计划书中确定1961年要交付海军32艘潜艇。1956年末，研制工程展开，由红宝石设计局负责设计。总设计师为II.II.普斯腾采夫（后由H.A.克利莫夫接替）。1957年12月28日首艇K-45号就在[列宁共青团造船厂开始建造](https://zh.wikipedia.org/wiki/阿穆尔造船厂 "wikilink")。其后制造的5艘E-1级艇全部归属苏联太平洋舰队。但该厂缺乏核潜艇和导弹潜艇建造经验,而且远离苏联科技和工业中心,因而659型艇的建造过程并不顺利。一些急需设备不得不从苏联的欧洲部分地区紧急订购和空运。尽管遇到了种种困难,还是在1961年顺利向海军交付了2艘潜艇。659型艇最后一共建造了5艘。
 
 1957年，П-5导弹在W级潜艇的改装型号上进行数次试射并最终成功完成导弹系统的研究。随后П-5导弹被用于更多的W级潜艇的改装型号以及[J级潜艇中](../Page/J级潜艇.md "wikilink")。但E-1级艇的最初装备П-5型导弹是惯性制导、0.9马赫、射程500公里、CEP为3000米带一枚重1000公斤20万-35万吨当量的核弹头打击美国海岸城市。发射导弹的时候潜艇必须保持水面状态并且停车使得E-1级艇易遭敌摧毁。随后苏联在E-1级研制完成之后迅速就开始了675型（E-2级）以及651型（[J级](../Page/J级潜艇.md "wikilink")）的研制，同时开始研制的还有用于攻击活动目标的П-6型反舰导弹。
 
@@ -35,7 +35,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/K-45.md" title="wikilink">K-45</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K-45" title="wikilink">K-45</a></p></td>
 <td><p>140</p></td>
 <td><p>28.12.1958</p></td>
 <td><p>12.03.1960</p></td>
@@ -53,7 +53,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/К-59.md" title="wikilink">К-59</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/К-59" title="wikilink">К-59</a></p></td>
 <td><p>141</p></td>
 <td><p>09.09.1958</p></td>
 <td><p>25.09.1960</p></td>
@@ -71,7 +71,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/К-66.md" title="wikilink">К-66</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/К-66" title="wikilink">К-66</a></p></td>
 <td><p>142</p></td>
 <td><p>26.03.1960</p></td>
 <td><p>30.06.1961</p></td>
@@ -89,7 +89,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/К-122.md" title="wikilink">К-122</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/К-122" title="wikilink">К-122</a></p></td>
 <td><p>143</p></td>
 <td><p>21.04.1961</p></td>
 <td><p>17.09.1961</p></td>
@@ -107,7 +107,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/К-151.md" title="wikilink">К-151</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/К-151" title="wikilink">К-151</a></p></td>
 <td><p>144</p></td>
 <td><p>21.04.1962</p></td>
 <td><p>30.09.1962</p></td>
@@ -125,7 +125,7 @@ I）一共建造了5艘，全部于1961年－1963年间开工，建成以及服�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/К-30.md" title="wikilink">К-30</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/К-30" title="wikilink">К-30</a></p></td>
 <td><p>145</p></td>
 <td><p>1961</p></td>
 <td><p>-</p></td>
@@ -235,10 +235,13 @@ E级核潜艇由于属于苏联早期设计的核潜艇，由此也成为了事�
   - The Encyclopedia Of Warships, From World War 2 To The Present Day,
     General Editor Robert Jackson.
 
-[cs:Projekt 659](../Page/cs:Projekt_659.md "wikilink") [fi:Projekti
-659](../Page/fi:Projekti_659.md "wikilink") [pl:Okręty podwodne projektu
-659](../Page/pl:Okręty_podwodne_projektu_659.md "wikilink")
+[cs:Projekt
+659](https://zh.wikipedia.org/wiki/cs:Projekt_659 "wikilink")
+[fi:Projekti
+659](https://zh.wikipedia.org/wiki/fi:Projekti_659 "wikilink")
+[pl:Okręty podwodne projektu
+659](https://zh.wikipedia.org/wiki/pl:Okręty_podwodne_projektu_659 "wikilink")
 [ru:Подводные лодки проекта
-675](../Page/ru:Подводные_лодки_проекта_675.md "wikilink")
+675](https://zh.wikipedia.org/wiki/ru:Подводные_лодки_проекта_675 "wikilink")
 
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")

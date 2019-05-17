@@ -13,17 +13,18 @@ World**》（幻鏡）是[日本歌手](../Page/日本.md "wikilink")[濱崎步�
     Easy](../Page/Free_&_Easy.md "wikilink")》以來連續第18張冠軍（數位單曲《[Together
     When...](../Page/Together_When....md "wikilink")》除外），通算則達到第30作冠軍。
   - 本作另創下唯一一名女歌手連續十年擁有冠軍單曲\[1\]。
-  - 由於發片當週受到[羞恥心出道單曲的影響](../Page/羞恥心.md "wikilink")，本作繼《[Bold &
-    Delicious/Pride](../Page/Bold_&_Delicious/Pride.md "wikilink")》後，未能全週登上單日榜冠軍。
-  - 本作為第59回NHK[紅白歌合戰發表曲](../Page/紅白歌合戰.md "wikilink")。
+  - 由於發片當週受到[羞恥心出道單曲的影響](https://zh.wikipedia.org/wiki/羞恥心 "wikilink")，本作繼《[Bold
+    &
+    Delicious/Pride](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")》後，未能全週登上單日榜冠軍。
+  - 本作為第59回NHK[紅白歌合戰發表曲](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
   - 本作其後收錄於2008年發售的單曲精選專輯《[A COMPLETE \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》，但未收錄於第十張原創專輯《[NEXT
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》，但未收錄於第十張原創專輯《[NEXT
     LEVEL](../Page/NEXT_LEVEL.md "wikilink")》。
-  - 濱崎步遠赴法國巴黎為本作封面與MV拍攝，封面四個造型皆是濱崎步以手遮胸，這也是繼1999年的單曲《[appears](../Page/appears.md "wikilink")》封面後度再次以全裸造型入鏡。
-  - [樂聲牌於](../Page/樂聲牌.md "wikilink")2月22日推出濱崎步所代言的[FX35](../Page/FX35.md "wikilink")[數碼相機廣告](../Page/數碼相機.md "wikilink")，背景同樣採用《Mirrorcle
-    World》作廣告主題曲。濱崎步為了拍攝此廣告，亦遠赴[義大利](../Page/義大利.md "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")。
+  - 濱崎步遠赴法國巴黎為本作封面與MV拍攝，封面四個造型皆是濱崎步以手遮胸，這也是繼1999年的單曲《[appears](https://zh.wikipedia.org/wiki/appears "wikilink")》封面後度再次以全裸造型入鏡。
+  - [樂聲牌於](https://zh.wikipedia.org/wiki/樂聲牌 "wikilink")2月22日推出濱崎步所代言的[FX35](https://zh.wikipedia.org/wiki/FX35 "wikilink")[數碼相機廣告](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")，背景同樣採用《Mirrorcle
+    World》作廣告主題曲。濱崎步為了拍攝此廣告，亦遠赴[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")。
   - 此單曲發售後一週便超越前作實體單曲《[talkin' 2
-    myself](../Page/talkin'_2_myself.md "wikilink")》的累積銷量，突破14萬張，達成2008年女藝人單曲最高初動記錄。這亦是她自《[BLUE
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")》的累積銷量，突破14萬張，達成2008年女藝人單曲最高初動記錄。這亦是她自《[BLUE
     BIRD](../Page/BLUE_BIRD.md "wikilink")》以來最高單曲初動記錄。
   - 本作B面曲《Life》在2011年3月25日首次在朝日電視台音樂節目《[MUSIC
     STATION](../Page/MUSIC_STATION.md "wikilink")》上披露
@@ -107,7 +108,7 @@ World**》（幻鏡）是[日本歌手](../Page/日本.md "wikilink")[濱崎步�
 
 <references/>
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

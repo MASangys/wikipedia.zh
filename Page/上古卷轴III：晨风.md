@@ -1,7 +1,7 @@
-是一款[奇幻类](../Page/奇幻.md "wikilink")[开放世界型](../Page/开放世界.md "wikilink")[动作角色扮演游戏](../Page/动作角色扮演游戏.md "wikilink")。它由[贝塞斯达软件公司开发](../Page/贝塞斯达软件公司.md "wikilink")、贝塞斯达和[育碧公司联合发行于](../Page/育碧公司.md "wikilink")2002年，是[上古卷轴系列的第三代作品](../Page/上古卷轴系列.md "wikilink")。作品受到广泛好评，总共销售出400万套正版。\[1\]游戏前后赢得了超过60项大奖，包括[Game
+是一款[奇幻类](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[开放世界型](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。它由[贝塞斯达软件公司开发](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")、贝塞斯达和[育碧公司联合发行于](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")2002年，是[上古卷轴系列的第三代作品](../Page/上古卷轴系列.md "wikilink")。作品受到广泛好评，总共销售出400万套正版。\[1\]游戏前后赢得了超过60项大奖，包括[Game
 of the
-Year](../Page/Game_of_the_Year.md "wikilink")。\[2\]《晨风》从[Metacritic和](../Page/Metacritic.md "wikilink")[Game
-Rankings得到了](../Page/Game_Rankings.md "wikilink")89分平均分。\[3\]\[4\]游戏有两个资料片，仅发布于windows平台：[上古卷轴III：审判席和](../Page/上古卷轴III：审判席.md "wikilink")[上古卷轴III：血月](../Page/上古卷轴III：血月.md "wikilink")。最后这三个版本被整合到一起，命名为《晨风：年度版》，于2003年10月30日发布。在[中国大陆地区](../Page/中国大陆.md "wikilink")，《晨风》由[天人互动代理發行于](../Page/天人互动.md "wikilink")2002年8月8日。\[5\]2003年12月19日推出的汉化版\[6\]因汉化质量不佳而受到非议。\[7\]
+Year](https://zh.wikipedia.org/wiki/Game_of_the_Year "wikilink")。\[2\]《晨风》从[Metacritic和](../Page/Metacritic.md "wikilink")[Game
+Rankings得到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")89分平均分。\[3\]\[4\]游戏有两个资料片，仅发布于windows平台：[上古卷轴III：审判席和](https://zh.wikipedia.org/wiki/上古卷轴III：审判席 "wikilink")[上古卷轴III：血月](https://zh.wikipedia.org/wiki/上古卷轴III：血月 "wikilink")。最后这三个版本被整合到一起，命名为《晨风：年度版》，于2003年10月30日发布。在[中国大陆地区](../Page/中国大陆.md "wikilink")，《晨风》由[天人互动代理發行于](../Page/天人互动.md "wikilink")2002年8月8日。\[5\]2003年12月19日推出的汉化版\[6\]因汉化质量不佳而受到非议。\[7\]
 
 游戏的故事发生在晨风省（Morrowind）的瓦登费尔（Vvardenfell）岛上。主要描述尼尔瓦瑞因（Nerevarine）挫败达格斯·乌尔（Dagoth
 Ur）利用洛可汗之心（heart of
@@ -23,7 +23,7 @@ Lorkhan）制造机械邪神阿古拉可汗（Akulakhan）企图消灭审判席�
 
 ### 战斗系统
 
-简单的攻击由鼠标左键完成，稍微复杂一点的砍剁由同时按下鼠标键和方向键完成。游戏还提供一个“总是使用最佳攻击方式”设置来使玩家可以更加專注于战斗本身。\[25\]游戏的原始版本不会显示战斗对象的健康值和他对角色造成的伤害值。一些玩家认为应该增加更多的战斗信息反馈。而许多该游戏的[MOD则支持这种显示](../Page/MOD.md "wikilink")。\[26\]\[27\]Bethesda最后还是在一个月之后游戏的补丁包1.1.0605版本中增加了敌方生命值显示。\[28\]
+简单的攻击由鼠标左键完成，稍微复杂一点的砍剁由同时按下鼠标键和方向键完成。游戏还提供一个“总是使用最佳攻击方式”设置来使玩家可以更加專注于战斗本身。\[25\]游戏的原始版本不会显示战斗对象的健康值和他对角色造成的伤害值。一些玩家认为应该增加更多的战斗信息反馈。而许多该游戏的[MOD则支持这种显示](https://zh.wikipedia.org/wiki/MOD "wikilink")。\[26\]\[27\]Bethesda最后还是在一个月之后游戏的补丁包1.1.0605版本中增加了敌方生命值显示。\[28\]
 
 ### 自由度设定
 
@@ -43,7 +43,7 @@ Rock）\[39\]產生這個變化，主要是為了给遊戲世界增加更多的�
 《晨风》的设计者并不是简单的制造欧洲中世纪风格的游戏世纪，而是融合了埃及，日本以及中东文化元素。主要受中东文化影响的地区有巴尔莫拉（Balmora）的哈拉鲁家族（Hlaalu）建筑。
 
 游戏中有超过300本书（不包括卷轴），加起来有1241页之多。\[41\][PC
-Gamer说这些书抵得上](../Page/PC_Gamer.md "wikilink")6本长篇小说。\[42\]许多书都讲述一个与游戏背景和历史有关的故事。\[43\]评论家Phillip
+Gamer说这些书抵得上](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")6本长篇小说。\[42\]许多书都讲述一个与游戏背景和历史有关的故事。\[43\]评论家Phillip
 Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加强了游戏的文学性，与整个游戏系列融为一体，使它可以和《[异域镇魂曲](../Page/异域镇魂曲.md "wikilink")》媲美。\[44\]
 
 ## 评论
@@ -62,7 +62,7 @@ Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加�
 <tbody>
 <tr class="odd">
 <td><center>
-<p><em><a href="../Page/Computer_Gaming_World.md" title="wikilink">Computer Gaming World</a></em></p></td>
+<p><em><a href="https://zh.wikipedia.org/wiki/Computer_Gaming_World" title="wikilink">Computer Gaming World</a></em></p></td>
 <td><center>
 <p>4.5/5[45]</p></td>
 <td></td>
@@ -93,7 +93,7 @@ Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加�
 </tr>
 <tr class="odd">
 <td><center>
-<p><em><a href="../Page/GamePro.md" title="wikilink">GamePro</a></em></p></td>
+<p><em><a href="https://zh.wikipedia.org/wiki/GamePro" title="wikilink">GamePro</a></em></p></td>
 <td><center>
 <p>5/5[51]</p></td>
 <td><center>
@@ -116,7 +116,7 @@ Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加�
 </tr>
 <tr class="even">
 <td><center>
-<p><em><a href="../Page/PC_Gamer.md" title="wikilink">PC Gamer</a></em></p></td>
+<p><em><a href="https://zh.wikipedia.org/wiki/PC_Gamer" title="wikilink">PC Gamer</a></em></p></td>
 <td><center>
 <p>90/100[55]</p></td>
 <td><center>
@@ -134,7 +134,7 @@ Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/Game_Rankings.md" title="wikilink">Game Rankings</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/Game_Rankings" title="wikilink">Game Rankings</a></p></td>
 <td><center>
 <p>89/100 (基于60个评价)[56]</p></td>
 <td></td>
@@ -152,14 +152,14 @@ Scuderi特别强调了《晨风》在文学上的成就，他说这些书籍加�
 </div>
 
 《晨风》赢得了玩家的广泛好评，在[Metacritic和](../Page/Metacritic.md "wikilink")[Game
-Rankings都得到了](../Page/Game_Rankings.md "wikilink")89分的评分。\[58\]\[59\]游戏的广阔活动范围，丰富的视觉效果以及自由度都得到了肯定。然而一些评论者就游戏的剧情问题提出批评意见。\[60\]IGN指出：《晨风》并不是一个完美的游戏，它的表现与过高的硬件要求不相称。\[61\]
+Rankings都得到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")89分的评分。\[58\]\[59\]游戏的广阔活动范围，丰富的视觉效果以及自由度都得到了肯定。然而一些评论者就游戏的剧情问题提出批评意见。\[60\]IGN指出：《晨风》并不是一个完美的游戏，它的表现与过高的硬件要求不相称。\[61\]
 
 游戏的环境部分由于具有广大的范围和详尽的细节而获得称赞，尤其是实时的天气变化，日夜循环，\[62\]以及丰富的植物和动物。\[63\]\[64\]\[65\]\[66\][Xbox
-Nation认为](../Page/Xbox_Nation.md "wikilink")“大活动范围”是游戏的最大卖点，也指出由此带来了盲目漫游，增加寻找目标的复杂度等问题。\[67\]《晨风》世界环境的表现与《匕首雨》的简陋环境形成鲜明的对比，GameSpot认为“简简单单的探索晨风世界也是很好的”。\[68\]
+Nation认为](https://zh.wikipedia.org/wiki/Xbox_Nation "wikilink")“大活动范围”是游戏的最大卖点，也指出由此带来了盲目漫游，增加寻找目标的复杂度等问题。\[67\]《晨风》世界环境的表现与《匕首雨》的简陋环境形成鲜明的对比，GameSpot认为“简简单单的探索晨风世界也是很好的”。\[68\]
 
 技能系统也被广泛称誉，而IGN指出，游戏的说明书关于技能部分的描述很不清楚，但是游戏中的职业很平衡。\[69\]而PC
 Gamer的评价刚好相反，认为游戏的职业不够平衡。\[70\][Computer Gaming
-World认为游戏中的单手武器加盾牌](../Page/Computer_Gaming_World.md "wikilink")，以及双手武器的设计有些多余，但还是表扬了由技能系统带来的战斗自由度。\[71\]GameSpy甚至赞扬说：“游戏的独特设计使他突出与其他同类游戏，即使是建立在D\&D规则上的游戏，如《博得之门》在它面前也显得低级。”\[72\]《晨风》的战斗系统由于设计过于简陋，而且容易使玩家产生厌倦之感\[73\]，而得到了不少批评，GameSpot将其定为游戏的弱点之一。\[74\]GameSpy的主要批评意见也集中于此。\[75\]\[76\]
+World认为游戏中的单手武器加盾牌](https://zh.wikipedia.org/wiki/Computer_Gaming_World "wikilink")，以及双手武器的设计有些多余，但还是表扬了由技能系统带来的战斗自由度。\[71\]GameSpy甚至赞扬说：“游戏的独特设计使他突出与其他同类游戏，即使是建立在D\&D规则上的游戏，如《博得之门》在它面前也显得低级。”\[72\]《晨风》的战斗系统由于设计过于简陋，而且容易使玩家产生厌倦之感\[73\]，而得到了不少批评，GameSpot将其定为游戏的弱点之一。\[74\]GameSpy的主要批评意见也集中于此。\[75\]\[76\]
 
 《晨风》的日志系统被业界一致批评，游戏的日志系统随着游戏的进程，自动记录与NPC的重要谈话，剧情信息等。其中，IGN和GamePro只是肯定了日志系统的界面设计。\[77\]\[78\]其余各方评论员均把矛头指向日志系统的组织混乱，\[79\]"hundreds
 of pages long",\[80\]任务和剧情故事混写，不易查找。\[81\]Computer Gaming
@@ -170,8 +170,8 @@ World将他列为游戏的两大弱点之一。\[82\]
 ### 获奖情况
 
 《晨风》赢得了GameSpy的“年度PC
-RPG奖”\[85\]，而在玩家喜爱度投票中，低于《[无冬之夜](../Page/无冬之夜.md "wikilink")》34.9%的支持率，以24%的支持率名列第二。\[86\]游戏也获得了IGN的“RPG
-Vault年度最佳游戏奖”\[87\]以及IGN网友评选的最佳剧情。\[88\]除了音乐，《晨风》的其他方面都获得了2003年[互交成就奖提名](../Page/互交成就奖.md "wikilink")，然而都败给《无冬之夜》。2003年9月，《晨风》由于漏洞问题和游戏性，在GameSpy的25个最高游戏评价榜上只名列第21位。\[89\]
+RPG奖”\[85\]，而在玩家喜爱度投票中，低于《[无冬之夜](https://zh.wikipedia.org/wiki/无冬之夜 "wikilink")》34.9%的支持率，以24%的支持率名列第二。\[86\]游戏也获得了IGN的“RPG
+Vault年度最佳游戏奖”\[87\]以及IGN网友评选的最佳剧情。\[88\]除了音乐，《晨风》的其他方面都获得了2003年[互交成就奖提名](https://zh.wikipedia.org/wiki/互交成就奖 "wikilink")，然而都败给《无冬之夜》。2003年9月，《晨风》由于漏洞问题和游戏性，在GameSpy的25个最高游戏评价榜上只名列第21位。\[89\]
 
 ## 编辑器
 
@@ -189,7 +189,7 @@ your name”（你的名字是什么）被翻译为“什么's 你的 name”，
 
 有传言称天人互动将“上古卷轴”这一标题也翻错成“老头滚动条”（由英文名称“”按单词逐字翻译）\[94\]，这种说法无法被证实，这个错误可能只是出自网络论坛上玩家自制的某个非官方的汉化包\[95\]。不管怎样，“老头滚动条”（亦简称“老滚”）一词从此广为流传，成为中国玩家对《上古卷轴》系列名称的戏谑性的常见称呼。
 
-在此之后，一些民间汉化组织如[游侠网](../Page/游侠网.md "wikilink")、[3DM等组织人手在天人互动版本的基础上继续翻译](../Page/3DM.md "wikilink")，但由于游戏文字部分过于庞大，至今也没有完成翻译。
+在此之后，一些民间汉化组织如[游侠网](https://zh.wikipedia.org/wiki/游侠网 "wikilink")、[3DM等组织人手在天人互动版本的基础上继续翻译](https://zh.wikipedia.org/wiki/3DM "wikilink")，但由于游戏文字部分过于庞大，至今也没有完成翻译。
 
 ## 参考文献
 
@@ -198,7 +198,7 @@ your name”（你的名字是什么）被翻译为“什么's 你的 name”，
   - [官方网站](http://www.elderscrolls.com)
 
 [de:The Elder
-Scrolls\#Morrowind](../Page/de:The_Elder_Scrolls#Morrowind.md "wikilink")
+Scrolls\#Morrowind](https://zh.wikipedia.org/wiki/de:The_Elder_Scrolls#Morrowind "wikilink")
 
 [Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink")
 [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
@@ -229,7 +229,8 @@ Scrolls\#Morrowind](../Page/de:The_Elder_Scrolls#Morrowind.md "wikilink")
 11.
 
 12. Klett, Steve (Jul., 2002). "The Elder Scrolls III: Morrowind". [PC
-    Gamer US](../Page/PC_Gamer.md "wikilink"), p. 76–7.
+    Gamer US](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink"), p.
+    76–7.
 
 13.
 

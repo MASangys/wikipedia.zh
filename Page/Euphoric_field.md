@@ -1,14 +1,15 @@
 **euphoric field**（），是2007年10月24日由[GENEON
-ENTERTAINMENT發行的日本女歌手](../Page/GENEON_ENTERTAINMENT.md "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")。商品番號為GNCA-0073。這首單曲是同年[電視動畫](../Page/電視動畫.md "wikilink")《[ef
+ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")。商品番號為GNCA-0073。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef
 - a tale of
-memories.](../Page/ef_-_a_tale_of_memories..md "wikilink")》的主題曲。
+memories.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_memories. "wikilink")》的主題曲。
 
 ## 簡介
 
-2007年日本[電視動畫](../Page/電視動畫.md "wikilink")《[ef - a tale of
-memories.](../Page/ef_-_a_tale_of_memories..md "wikilink")》的片頭曲就是「euphoric
-field」[英語版本的截取版](../Page/英語.md "wikilink")。而最后一話（第12話）的片頭曲則用「euphoric
-field」的[日語版本代替](../Page/日語.md "wikilink")。
+2007年日本[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef - a
+tale of
+memories.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_memories. "wikilink")》的片頭曲就是「euphoric
+field」[英語版本的截取版](https://zh.wikipedia.org/wiki/英語 "wikilink")。而最后一話（第12話）的片頭曲則用「euphoric
+field」的[日語版本代替](https://zh.wikipedia.org/wiki/日語 "wikilink")。
 
 ## 收錄曲
 
@@ -19,14 +20,14 @@ field」的[日語版本代替](../Page/日語.md "wikilink")。
 
 ## 制作
 
-  - 作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")（[minori](../Page/minori.md "wikilink")）、西田恵美（英語·電視截取版
+  - 作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")（[minori](https://zh.wikipedia.org/wiki/minori "wikilink")）、西田恵美（英語·電視截取版
     cho.2）
 
   - 作曲、編曲、鋼琴：[天門](../Page/天門_\(作曲家\).md "wikilink")（minori）
 
   - 小提琴：土屋玲子
 
-  - 、電吉他：[柳英一郎](../Page/柳英一郎.md "wikilink")
+  - 、電吉他：[柳英一郎](https://zh.wikipedia.org/wiki/柳英一郎 "wikilink")
 
   - 電吉他：酒井伸和
 
@@ -44,7 +45,7 @@ field」的[日語版本代替](../Page/日語.md "wikilink")。
   - 特別鳴謝
       - [大沼心](../Page/大沼心.md "wikilink")、[新房昭之](../Page/新房昭之.md "wikilink")、、数馬英治、久保田光俊・雨宮茂幸（[SHAFT](../Page/SHAFT.md "wikilink")）
       - ELITE MODEL MANAGEMENT JAPAN
-      - 太布尚弘・金庭こず恵（[Movic](../Page/Movic.md "wikilink")）、（[Frontier
+      - 太布尚弘・金庭こず恵（[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、（[Frontier
         Works](../Page/Frontier_Works.md "wikilink")）、「ef」製作委員会
 
 ## 脚注

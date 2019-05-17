@@ -1,11 +1,11 @@
-《**81diver**》（****）是[日本漫畫家](../Page/日本.md "wikilink")[柴田ヨクサル一部以](../Page/柴田ヨクサル.md "wikilink")[日本將棋為主題的](../Page/日本將棋.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")，並且於2008年改編為同名[電視劇](../Page/電視劇.md "wikilink")。
+《**81diver**》（****）是[日本漫畫家](../Page/日本.md "wikilink")[柴田ヨクサル一部以](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")[日本將棋為主題的](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 概要
 
 這部作品是[集英社](../Page/集英社.md "wikilink")《[週刊Young
-Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](../Page/日本將棋.md "wikilink")。原[獎勵會青年菅田](../Page/新進棋士獎勵會.md "wikilink")，受到[秋葉原防禦師所引導](../Page/秋葉原.md "wikilink")，參與的[真劍師之間的戰爭](../Page/真劍師.md "wikilink")。將棋監修是[鈴木大介八段棋士](../Page/鈴木大介.md "wikilink")。
+Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，內容以[將棋為主](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。原[獎勵會青年菅田](https://zh.wikipedia.org/wiki/新進棋士獎勵會 "wikilink")，受到[秋葉原防禦師所引導](../Page/秋葉原.md "wikilink")，參與的[真劍師之間的戰爭](https://zh.wikipedia.org/wiki/真劍師 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
 
-[單行本到](../Page/單行本.md "wikilink")[2012年2月為止](../Page/2012年2月.md "wikilink")，在日本已出版23集，目前繼續連載中。
+[單行本到](https://zh.wikipedia.org/wiki/單行本 "wikilink")[2012年2月為止](../Page/2012年2月.md "wikilink")，在日本已出版23集，目前繼續連載中。
 
 ## 劇情綱要
 
@@ -16,32 +16,32 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
   - 菅田健太郎（）
     主角。自小學習將棋二十年，在從四段升為職業棋士時失敗，從此斷了職業的道路，獎勵會退會後以真劍賭博過日子，而在與「秋葉原防禦師」一戰中失敗後，開始朝真劍師的道路前進。在與真劍師マムシ一戰中，回憶起師父以前所說的潛入棋盤裡的一番話，而實際地「潛入了（將棋的）棋盤中」。之後，只要集中精神並且喊出「****」（Diver），就會潛入棋盤中，並且以****（81Driver，由於棋盤的格數是9×9＝81格，隱指為潛入了將棋盤中）自稱。潛入時的意識是在棋盤，棋盤是像液體一樣。常說的一句話是「我愛將棋」。與對於將棋有同樣執著的中靜楚夜，也他有好感，常常以掃除女撲的樣子出現在菅田的住宅裡。
   - 中靜楚夜（なかしず そよ）
-    被稱為「秋葉原防禦師」的女真劍師，19歳，具有[巨乳的體型](../Page/巨乳.md "wikilink")。是「秋葉原女僕掃除俱樂部」的掃除[女僕](../Page/女僕.md "wikilink")，以「牛奶」自稱。為了消滅鬼將會而訓練菅田。
+    被稱為「秋葉原防禦師」的女真劍師，19歳，具有[巨乳的體型](../Page/巨乳.md "wikilink")。是「秋葉原女僕掃除俱樂部」的掃除[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")，以「牛奶」自稱。為了消滅鬼將會而訓練菅田。
   - 神野神太郎（じんの しんたろう）
-    [流浪漢的真劍師](../Page/流浪漢.md "wikilink")。名字裡有兩個「神」，所以被稱為「**二こ神**（にこがみ）」。
+    [流浪漢的真劍師](https://zh.wikipedia.org/wiki/流浪漢 "wikilink")。名字裡有兩個「神」，所以被稱為「**二こ神**（にこがみ）」。
     專長是以雁木陣入玉。
-    20年前以「[雁木](../Page/雁木.md "wikilink")」戰術的使用而獲得名人戰三連勝，並且在與職業棋士的棋局中獲得勝利，在與鬼將會的棋局中失敗後逃出來，過著流浪漢的生活。20年後再度與海豚七段一戰，並獲得了獲利。
+    20年前以「[雁木](https://zh.wikipedia.org/wiki/雁木 "wikilink")」戰術的使用而獲得名人戰三連勝，並且在與職業棋士的棋局中獲得勝利，在與鬼將會的棋局中失敗後逃出來，過著流浪漢的生活。20年後再度與海豚七段一戰，並獲得了獲利。
   - 文字山次郎（もんじやま ジロー）
-    本行是小學生人氣[漫畫家](../Page/漫畫家.md "wikilink")（代表作品是『なるぞうくん』）的真劍師。擅長的戰術是「[穴熊](../Page/穴熊.md "wikilink")」。在對局中會看到棋子擬人化，並對棋子對話來下棋。
+    本行是小學生人氣[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（代表作品是『なるぞうくん』）的真劍師。擅長的戰術是「[穴熊](https://zh.wikipedia.org/wiki/穴熊 "wikilink")」。在對局中會看到棋子擬人化，並對棋子對話來下棋。
   - 斬野シト（きりの シト）
     本行是以做人體模型的真劍師。
   - 海豚（いるか）
-    七段的[職業棋士](../Page/職業棋士.md "wikilink")。現在是七段。曾敗給二神。
+    七段的[職業棋士](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")。現在是七段。曾敗給二神。
   - 澄野久摩（すみの くま）
-    斬野的將棋師父。擅長[原始中飛車的力將棋](../Page/原始中飛車.md "wikilink")。
+    斬野的將棋師父。擅長[原始中飛車的力將棋](https://zh.wikipedia.org/wiki/原始中飛車 "wikilink")。
   - マムシ
     鬼將會的真劍師。空中賭博場跟菅田一戰、敗北。
 
 ## 專有名詞
 
   - 真劍師（しんけんし）
-    *[真劍師](../Page/真劍師.md "wikilink")*参照。
+    *[真劍師](https://zh.wikipedia.org/wiki/真劍師 "wikilink")*参照。
   - 鬼將會（きしょうかい）
     以最強棋力的業餘棋士所組成的一個團體，以打倒職業棋士為目地。
 
 ## 電視劇
 
-從2008年5月3日開始播放，至7月19日為止，在富士電視台的週六電視劇中，毎週的23:10～23:55（[JST](../Page/日本標準時.md "wikilink")）播放。[溝端淳平是首次擔任主角](../Page/溝端淳平.md "wikilink")。
+從2008年5月3日開始播放，至7月19日為止，在富士電視台的週六電視劇中，毎週的23:10～23:55（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放。[溝端淳平是首次擔任主角](../Page/溝端淳平.md "wikilink")。
 
 ### 演員
 
@@ -59,7 +59,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 <!-- end list -->
 
   - 飛鷹安雄（ひだか
-    やすお）：[富澤岳史](../Page/富澤岳史.md "wikilink")（[サンドウィッチマン](../Page/サンドウィッチマン_\(お笑いコンビ\).md "wikilink")）
+    やすお）：[富澤岳史](https://zh.wikipedia.org/wiki/富澤岳史 "wikilink")（[サンドウィッチマン](https://zh.wikipedia.org/wiki/サンドウィッチマン_\(お笑いコンビ\) "wikilink")）
 
 <!-- end list -->
 
@@ -68,7 +68,8 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 角田吾郎（かくた ごろう）：[伊達幹生](../Page/伊達幹生.md "wikilink")（サンドウィッチマン）
+  - 角田吾郎（かくた
+    ごろう）：[伊達幹生](https://zh.wikipedia.org/wiki/伊達幹生 "wikilink")（サンドウィッチマン）
 
 <!-- end list -->
 
@@ -86,7 +87,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 月島文郎（つきしま ふみお）：[渡辺哲](../Page/渡辺哲.md "wikilink")
+  - 月島文郎（つきしま ふみお）：[渡辺哲](https://zh.wikipedia.org/wiki/渡辺哲 "wikilink")
 
 <!-- end list -->
 
@@ -104,7 +105,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 #### 次要
 
-  - 神野神太郎：[大杉漣](../Page/大杉漣.md "wikilink")（第2～3話、第6話）
+  - 神野神太郎：[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")（第2～3話、第6話）
   - 文字山次郎：[劇團一人](../Page/劇團一人.md "wikilink")（第3～5話）
   - 斬野シト：[京本政樹](../Page/京本政樹.md "wikilink")（第5～7話）
   - 菅田步美（すがた あゆみ）：[大政絢](../Page/大政絢.md "wikilink")（第6話～）
@@ -116,7 +117,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 御門（みかど）：[ふくまつみ](../Page/ふくまつみ.md "wikilink")（第9話～）
+  - 御門（みかど）：[ふくまつみ](https://zh.wikipedia.org/wiki/ふくまつみ "wikilink")（第9話～）
 
 <!-- end list -->
 
@@ -125,7 +126,8 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 桐嶋清十郎（きりしま せいじゅうろう）：[石橋蓮司](../Page/石橋蓮司.md "wikilink")（第9話～）
+  - 桐嶋清十郎（きりしま
+    せいじゅうろう）：[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink")（第9話～）
 
 <!-- end list -->
 
@@ -140,7 +142,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 #### 客串
 
   - マムシ：[姜暢雄](../Page/姜暢雄.md "wikilink")（第2話）
-  - 桂（かつら）：[デビット伊東](../Page/デビット伊東.md "wikilink")（第2話、ドラマオリジナル）
+  - 桂（かつら）：[デビット伊東](https://zh.wikipedia.org/wiki/デビット伊東 "wikilink")（第2話、ドラマオリジナル）
 
 <!-- end list -->
 
@@ -149,8 +151,10 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 海豚一郎（いるか いちろう）：[池田鉄洋](../Page/池田鉄洋.md "wikilink")（第3話、第6話）
-  - 春日京介（かすが きょうすけ）：[袴田吉彦](../Page/袴田吉彦.md "wikilink")（第8話、ドラマオリジナル）
+  - 海豚一郎（いるか
+    いちろう）：[池田鉄洋](https://zh.wikipedia.org/wiki/池田鉄洋 "wikilink")（第3話、第6話）
+  - 春日京介（かすが
+    きょうすけ）：[袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")（第8話、ドラマオリジナル）
 
 <!-- end list -->
 
@@ -170,7 +174,8 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 粕谷義英（かすや よしひで）：[鶴野剛士](../Page/鶴野剛士.md "wikilink")（第1話、第9話）
+  - 粕谷義英（かすや
+    よしひで）：[鶴野剛士](https://zh.wikipedia.org/wiki/鶴野剛士 "wikilink")（第1話、第9話）
 
 <!-- end list -->
 
@@ -179,7 +184,8 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 桐嶋凪（きりしま なぎ）：[戶田菜穗](../Page/戶田菜穗.md "wikilink")（第10話）
+  - 桐嶋凪（きりしま
+    なぎ）：[戶田菜穗](https://zh.wikipedia.org/wiki/戶田菜穗 "wikilink")（第10話）
 
 <!-- end list -->
 
@@ -188,17 +194,17 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 
 <!-- end list -->
 
-  - 電視劇的監督：[森本利奧](../Page/森本利奧.md "wikilink")（第11話）
+  - 電視劇的監督：[森本利奧](https://zh.wikipedia.org/wiki/森本利奧 "wikilink")（第11話）
 
 ### 幕後人員
 
-  - 腳本：[古家和尚](../Page/古家和尚.md "wikilink")
-  - 音樂：[澤野弘之](../Page/澤野弘之.md "wikilink")
-  - 將棋監修：[鈴木大介八段](../Page/鈴木大介.md "wikilink")
-  - 將棋指導：[大平武洋五段](../Page/大平武洋.md "wikilink")、[戶邊誠四段](../Page/戶邊誠.md "wikilink")、[佐藤天彦四段](../Page/佐藤天彦.md "wikilink")
-  - 協助：[社團法人](../Page/社團法人.md "wikilink")[日本將棋連盟](../Page/日本將棋連盟.md "wikilink")
-  - 企劃：[東康之](../Page/東康之.md "wikilink")
-  - 導演：[水田成英](../Page/水田成英.md "wikilink")、[松山博昭](../Page/松山博昭.md "wikilink")、[八木一介](../Page/八木一介.md "wikilink")
+  - 腳本：[古家和尚](https://zh.wikipedia.org/wiki/古家和尚 "wikilink")
+  - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
+  - 將棋監修：[鈴木大介八段](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")
+  - 將棋指導：[大平武洋五段](https://zh.wikipedia.org/wiki/大平武洋 "wikilink")、[戶邊誠四段](https://zh.wikipedia.org/wiki/戶邊誠 "wikilink")、[佐藤天彦四段](https://zh.wikipedia.org/wiki/佐藤天彦 "wikilink")
+  - 協助：[社團法人](https://zh.wikipedia.org/wiki/社團法人 "wikilink")[日本將棋連盟](https://zh.wikipedia.org/wiki/日本將棋連盟 "wikilink")
+  - 企劃：[東康之](https://zh.wikipedia.org/wiki/東康之 "wikilink")
+  - 導演：[水田成英](https://zh.wikipedia.org/wiki/水田成英 "wikilink")、[松山博昭](https://zh.wikipedia.org/wiki/松山博昭 "wikilink")、[八木一介](https://zh.wikipedia.org/wiki/八木一介 "wikilink")
   - 製作：富士電視劇製作小組
 
 ### 主題曲
@@ -318,7 +324,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》在2006年所連載的第41部�
 <td><p>8.3%</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>平均收視率 8.4%</strong>（收視率為日本<a href="../Page/關東地區.md" title="wikilink">關東地區由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research公司調查</a>）</p></td>
+<td><p><strong>平均收視率 8.4%</strong>（收視率為日本<a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區由</a><a href="../Page/Video_Research.md" title="wikilink">Video Research公司調查</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>

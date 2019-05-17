@@ -5,7 +5,7 @@
   - 1987年，成立**Fairytale**品牌，當時所使用的社名為'''。
   - 1989年，與JAST共同成立**Cocktail**品牌。此一名稱為取其兩社融合之意。
   - 1991年11月25日，《[沙織
-    -美少女們的貴府-](../Page/沙織_-美少女們的貴府-.md "wikilink")》爆發「[沙織事件](../Page/沙織事件.md "wikilink")」。同年，社名改為**有限会社IDES**。
+    -美少女們的貴府-](../Page/沙織_-美少女們的貴府-.md "wikilink")》爆發「[沙織事件](https://zh.wikipedia.org/wiki/沙織事件 "wikilink")」。同年，社名改為**有限会社IDES**。
   - 1995年，社名改為**株式会社IDES**。
   - 1997年5月1日，公司重組，捨棄原有的**IDES**，改以Fairytale和Cocktail的頭一個英文字母組成**F\&C**，作為目前所使用的社名。
   - 1999年6月，通信對戰遊戲《FCN》發售，是第一部掛F\&C品牌的遊戲。
@@ -48,8 +48,8 @@
 
 ## 作品一覧
 
-這裡主要刊登改組以後發售的作品（F\&C及FMC除外）。改組以前的標題作品請參考[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")、[RED-ZONE以及](../Page/FAIRYTALE#RED-ZONE（レッドゾーン）.md "wikilink")[COCKTAIL
-SOFT](../Page/Cocktail_soft.md "wikilink")。
+這裡主要刊登改組以後發售的作品（F\&C及FMC除外）。改組以前的標題作品請參考[FAIRYTALE](../Page/FAIRYTALE.md "wikilink")、[RED-ZONE以及](https://zh.wikipedia.org/wiki/FAIRYTALE#RED-ZONE（レッドゾーン） "wikilink")[COCKTAIL
+SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
 
 ### F\&C
 
@@ -153,7 +153,7 @@ DreamSoft在2006年的「」發表後，停止活動。
   - 2005年7月29日 -
       - 2006年2月3日 -
   - 2005年10月28日 - [Natural Another One 2nd
-    -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
+    -Belladonna-](https://zh.wikipedia.org/wiki/Natural_Another_One_2nd_-Belladonna- "wikilink")
   - 2006年3月24日 -
 
 ###
@@ -227,7 +227,7 @@ DreamSoft在2006年的「」發表後，停止活動。
 
 ###
 
-2001年改組以前的標題作品請參考[RED-ZONE](../Page/FAIRYTALE#RED-ZONE（レッドゾーン）.md "wikilink")。
+2001年改組以前的標題作品請參考[RED-ZONE](https://zh.wikipedia.org/wiki/FAIRYTALE#RED-ZONE（レッドゾーン） "wikilink")。
 
 RED-ZONE曾經2度暫停活動。第1次是在2001年的「研究日誌」發表以後，2006年再次活動。接著在同年的「」發表以後停止，2008年再度開始活動（代理商為尻娘魂道場）。2008年開始活動後走低價格路線。
 
@@ -257,7 +257,8 @@ RED-ZONE曾經2度暫停活動。第1次是在2001年的「研究日誌」發表
 
 ###
 
-2001年改組以前的標題作品請參考[COCKTAIL SOFT](../Page/Cocktail_soft.md "wikilink")。
+2001年改組以前的標題作品請參考[COCKTAIL
+SOFT](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")。
 
 COCKTAIL SOFT在2002年的「」發表後，暫停活動、2004年再次開始活動。
 

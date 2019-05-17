@@ -1,20 +1,20 @@
 **Boo**是個物件導向語言，語法非常接近[Python](../Page/Python.md "wikilink")，並且提供了許多可以擴充編譯器的有趣特色，並且可以運行在[.NET
-Framework或](../Page/.NET_Framework.md "wikilink")[Mono上](../Page/Mono.md "wikilink")。
+Framework或](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[Mono上](../Page/Mono.md "wikilink")。
 
 Boo為[开放源代码](../Page/开放源代码.md "wikilink")，使用[MIT許可證](../Page/MIT許可證.md "wikilink")／[BSD许可证](../Page/BSD许可证.md "wikilink")。
 
 ## 緣起
 
 在[微软推出](../Page/微软.md "wikilink")[.NET
-Framework之後](../Page/.NET_Framework.md "wikilink")，作者Rodrigo Barreto
-de
-Oliveira非常喜愛這個環境，卻又驚訝於無法使用自己最喜愛的語言來進行開發（當時只提供[C＃](../Page/C＃.md "wikilink")、[Visual
+Framework之後](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，作者Rodrigo
+Barreto de
+Oliveira非常喜愛這個環境，卻又驚訝於無法使用自己最喜愛的語言來進行開發（當時只提供[C＃](https://zh.wikipedia.org/wiki/C＃ "wikilink")、[Visual
 Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")、[JScript
 .NET](../Page/JScript_.NET.md "wikilink")），所以就在2003年開始著手開發一個語法類似[Python](../Page/Python.md "wikilink")，同時兼具靜態、動態語言特性的語言。
 
 ## 程序的执行
 
-與其他的.Net語言一樣，BOO並無法產生[二进制代碼](../Page/二进制.md "wikilink")。但與其他.Net語言最大的不同，它除了可以被編譯為[MSIL](../Page/MSIL.md "wikilink")
+與其他的.Net語言一樣，BOO並無法產生[二进制代碼](https://zh.wikipedia.org/wiki/二进制 "wikilink")。但與其他.Net語言最大的不同，它除了可以被編譯為[MSIL](https://zh.wikipedia.org/wiki/MSIL "wikilink")
 Byte Code，在[-{zh-hans:通用语言运行庫;
 zh-hant:通用語言執行層;}-](../Page/通用語言運行庫.md "wikilink")（*Common
 Language Runtime*）執行之外，還可以作為script來執行（使用booi、booish）。

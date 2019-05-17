@@ -1,13 +1,14 @@
 [Sirius_A_and_B_artwork.jpg](https://zh.wikipedia.org/wiki/File:Sirius_A_and_B_artwork.jpg "fig:Sirius_A_and_B_artwork.jpg")
 [Morgan-Keenan_spectral_classification.png](https://zh.wikipedia.org/wiki/File:Morgan-Keenan_spectral_classification.png "fig:Morgan-Keenan_spectral_classification.png")
 
-**A型主序星(AV星)**是[光譜為A](../Page/恆星光譜.md "wikilink")，亮度為V，在[主序帶](../Page/主序帶.md "wikilink")（[氫燃燒](../Page/氫.md "wikilink")）上恆星。這些恆星的定義是在[恆星光譜类型A和光度级V](../Page/恆星光譜.md "wikilink")。[恆星光譜上有強烈的](../Page/恆星光譜.md "wikilink")[氫的巴耳末吸收譜線](../Page/巴耳末系.md "wikilink")
-\[1\]\[2\]，它們的質量從[太陽的](../Page/太陽.md "wikilink")1.4倍至2.1倍[太陽質量](../Page/太陽質量.md "wikilink")，[表面溫度在](../Page/有效溫度.md "wikilink")7,600至10,000[K](../Page/熱力學溫標.md "wikilink")
+**A型主序星(AV星)**是[光譜為A](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，亮度為V，在[主序帶](https://zh.wikipedia.org/wiki/主序帶 "wikilink")（[氫燃燒](https://zh.wikipedia.org/wiki/氫 "wikilink")）上恆星。這些恆星的定義是在[恆星光譜类型A和光度级V](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。[恆星光譜上有強烈的](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[氫的巴耳末吸收譜線](../Page/巴耳末系.md "wikilink")
+\[1\]\[2\]，它們的質量從[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")1.4倍至2.1倍[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")，[表面溫度在](../Page/有效溫度.md "wikilink")7,600至10,000[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")
 \[3\]。
 
-明亮的和附近的A型主序星的例子包括[牛郎星](../Page/牛郎星.md "wikilink")(A7
+明亮的和附近的A型主序星的例子包括[牛郎星](https://zh.wikipedia.org/wiki/牛郎星 "wikilink")(A7
 V)、[天狼星A](../Page/天狼星.md "wikilink")(A1
-V)和[織女星](../Page/織女星.md "wikilink")(A0 V)\[4\]。
+V)和[織女星](https://zh.wikipedia.org/wiki/織女星 "wikilink")(A0
+V)\[4\]。
 
 ## 行星
 
@@ -15,8 +16,8 @@ A型主序星恒星都是年轻的（通常是几亿年），并发射出比单�
 
 ## 相關條目
 
-  - [恆星類型](../Page/恆星光譜#A型.md "wikilink")，A型
-  - [恆星計數](../Page/恆星計數.md "wikilink")，恆星勘查
+  - [恆星類型](https://zh.wikipedia.org/wiki/恆星光譜#A型 "wikilink")，A型
+  - [恆星計數](https://zh.wikipedia.org/wiki/恆星計數 "wikilink")，恆星勘查
 
 ## 參考資料
 

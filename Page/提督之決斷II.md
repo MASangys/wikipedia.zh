@@ -1,14 +1,14 @@
-是指[光榮在](../Page/光榮.md "wikilink")1993年推出的[第二次世界大戰海戰](../Page/第二次世界大戰.md "wikilink")[策略遊戲](../Page/策略遊戲.md "wikilink")──[提督之決斷系列的第二代作品](../Page/提督之決斷系列.md "wikilink")。
+是指[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1993年推出的[第二次世界大戰海戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")──[提督之決斷系列的第二代作品](../Page/提督之決斷系列.md "wikilink")。
 
 ## 概要
 
-遊戲最多供兩人遊玩。兩人模式則可選擇在一台電腦上交互操作，或透過[RS-232C串行數據通信接口連接兩台電腦來進行遊戲](../Page/RS-232.md "wikilink")。
+遊戲最多供兩人遊玩。兩人模式則可選擇在一台電腦上交互操作，或透過[RS-232C串行數據通信接口連接兩台電腦來進行遊戲](https://zh.wikipedia.org/wiki/RS-232 "wikilink")。
 
 以前作比較，第二代的遊戲增加了很多元素──陸軍的登場、軍用機以機種及機型分類並加上特徵、將巡洋艦分為重巡洋艦和輕巡洋艦兩等、每月月初進行會議商討目標，讓遊戲更接近史實。但是，在戰鬥系統方面，轉用回合制、棋盤形的戰場地圖、海戰系統的操作性不佳，均令玩家的印象大打折扣。故玩家對這個遊戲的評價不一定高。
 
 其中，此遊戲最大的特色，是在每月第一日召開的會議。所謂的會議，其實是一個卡牌遊戲。所有的目標制定、外交、資源分配及募兵數量等事務，均需透過這個卡牌遊戲來決定。
 
-玩家若選日本視點來進行遊戲，在會議中將扮演當時的[海軍軍令部總長](../Page/海軍軍令部.md "wikilink")[永野修身](../Page/永野修身.md "wikilink")，面對[內閣總理大臣](../Page/內閣總理大臣.md "wikilink")[東條英機](../Page/東條英機.md "wikilink")、陸軍參謀總長[杉山元](../Page/杉山元.md "wikilink")、[大藏大臣](../Page/大藏省.md "wikilink")[賀屋興宣](../Page/賀屋興宣.md "wikilink")、[外務大臣](../Page/外務省.md "wikilink")[東鄉茂德](../Page/東鄉茂德.md "wikilink")，為自己（海軍）爭取資源。若以美國視點來進行遊戲，玩家將扮演當時的海軍作戰部長兼美國海軍總司令[歐內斯特·金](../Page/歐內斯特·金.md "wikilink")，與總統[富蘭克林·德拉諾·羅斯福](../Page/富蘭克林·德拉諾·羅斯福.md "wikilink")、[戰爭部長](../Page/戰爭部長.md "wikilink")[亨利·劉易斯·史汀生](../Page/亨利·劉易斯·史汀生.md "wikilink")、[財政部長](../Page/美國財政部長.md "wikilink")[小亨利·摩根索和](../Page/小亨利·摩根索.md "wikilink")[國務卿](../Page/美國國務卿.md "wikilink")[科德爾·赫爾商討國策](../Page/科德爾·赫爾.md "wikilink")。
+玩家若選日本視點來進行遊戲，在會議中將扮演當時的[海軍軍令部總長](https://zh.wikipedia.org/wiki/海軍軍令部 "wikilink")[永野修身](../Page/永野修身.md "wikilink")，面對[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣 "wikilink")[東條英機](../Page/東條英機.md "wikilink")、陸軍參謀總長[杉山元](../Page/杉山元.md "wikilink")、[大藏大臣](../Page/大藏省.md "wikilink")[賀屋興宣](https://zh.wikipedia.org/wiki/賀屋興宣 "wikilink")、[外務大臣](https://zh.wikipedia.org/wiki/外務省 "wikilink")[東鄉茂德](https://zh.wikipedia.org/wiki/東鄉茂德 "wikilink")，為自己（海軍）爭取資源。若以美國視點來進行遊戲，玩家將扮演當時的海軍作戰部長兼美國海軍總司令[歐內斯特·金](https://zh.wikipedia.org/wiki/歐內斯特·金 "wikilink")，與總統[富蘭克林·德拉諾·羅斯福](https://zh.wikipedia.org/wiki/富蘭克林·德拉諾·羅斯福 "wikilink")、[戰爭部長](https://zh.wikipedia.org/wiki/戰爭部長 "wikilink")[亨利·劉易斯·史汀生](https://zh.wikipedia.org/wiki/亨利·劉易斯·史汀生 "wikilink")、[財政部長](https://zh.wikipedia.org/wiki/美國財政部長 "wikilink")[小亨利·摩根索和](https://zh.wikipedia.org/wiki/小亨利·摩根索 "wikilink")[國務卿](https://zh.wikipedia.org/wiki/美國國務卿 "wikilink")[科德爾·赫爾商討國策](https://zh.wikipedia.org/wiki/科德爾·赫爾 "wikilink")。
 
 正因為這個有趣的卡牌遊戲，使得第二代遊戲比[第三代遊戲的評價更高](../Page/提督之決斷III.md "wikilink")。
 
@@ -32,7 +32,7 @@
 
   - 夏威夷戰役（1941.12.8～，即[珍珠港事件](../Page/珍珠港事件.md "wikilink")）
   - 南方戰役（1941.12.9～）
-  - [中途島海戰](../Page/中途島海戰.md "wikilink")（1942.6.5～）
+  - [中途島海戰](https://zh.wikipedia.org/wiki/中途島海戰 "wikilink")（1942.6.5～）
   - 瓜達爾卡納爾島戰役（1942.8.7～，即[瓜達爾卡納爾島戰役](../Page/瓜達爾卡納爾島戰役.md "wikilink")）
   - 阿號戰役（1944.5.3～，即[菲律賓海海戰](../Page/菲律賓海海戰.md "wikilink")）
   - 捷一號戰役（1944.10.18～，即[雷伊泰灣海戰](../Page/雷伊泰灣海戰.md "wikilink")）
@@ -47,7 +47,7 @@
   - 再一次開戰（1941.1.1～）
   - MO戰役（1942.5.7～）
   - 瓜達爾卡納爾島戰役II（1942.10.26～）
-  - 呂號作戰（1943.11.2～，即[所羅門群島戰役](../Page/所羅門群島戰役.md "wikilink")）
+  - 呂號作戰（1943.11.2～，即[所羅門群島戰役](https://zh.wikipedia.org/wiki/所羅門群島戰役 "wikilink")）
 
 ## 评价
 

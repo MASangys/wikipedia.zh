@@ -28,7 +28,7 @@ E<span style="color: red;">m</span>e<span style="color: red;">s</span>e<span sty
   - [emesene官網](https://web.archive.org/web/20110505143322/http://blog.emesene.org/)
   - [emesene翻譯說明](http://emesene.org/smf/index.php/topic,1012.0.html)
   - [emesene開發計劃首頁](https://launchpad.net/emesene) -
-    emesene官方使用[Launchpad提供的開發平台](../Page/Launchpad.md "wikilink")
+    emesene官方使用[Launchpad提供的開發平台](https://zh.wikipedia.org/wiki/Launchpad "wikilink")
   - [emesene翻譯列表](https://translations.launchpad.net/emesene) -
     emesene官方使用Launchpad提供的翻譯平台
 

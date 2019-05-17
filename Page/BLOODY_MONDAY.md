@@ -1,7 +1,7 @@
 《**BLOODY
-MONDAY**》是[龍門諒原作](../Page/亞樹直.md "wikilink")、[惠廣史作畫的](../Page/惠廣史.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社發行](../Page/創藝出版社.md "wikilink")。第三部「最終時刻」於2011年7月開始連載。
+MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史作畫的](../Page/惠廣史.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社在](../Page/東立出版社.md "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社發行](../Page/創藝出版社.md "wikilink")。第三部「最終時刻」於2011年7月開始連載。
 
-2008年10月由[TBS電視台改編為](../Page/TBS電視台.md "wikilink")[電視劇](../Page/日本電視劇.md "wikilink")，[台灣由](../Page/台灣.md "wikilink")[緯來日本台播出](../Page/緯來日本台.md "wikilink")，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F
+2008年10月由[TBS電視台改編為](../Page/TBS電視台.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台播出](../Page/緯來日本台.md "wikilink")，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F
 2**》。
 
 ## BLOODY MONDAY
@@ -10,7 +10,7 @@ MONDAY**》是[龍門諒原作](../Page/亞樹直.md "wikilink")、[惠廣史作
 
 在極寒之地[俄罗斯](../Page/俄罗斯.md "wikilink")，謎之美女折原麻耶從賣主得到極危險病毒（[生物武器](../Page/生物武器.md "wikilink")）後，將病毒感染給賣主後前往日本，並在東京殺害了俄羅斯的特務，作為生物老師，來到主角高木藤丸就讀的彌代學院。
 
-高木藤丸外表看起來是個普通的少年，但是暗地裡是個天才[駭客](../Page/駭客.md "wikilink")「獵鷹」，現在幫助父親所屬的「THIRD-i」工作。
+高木藤丸外表看起來是個普通的少年，但是暗地裡是個天才[駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")「獵鷹」，現在幫助父親所屬的「THIRD-i」工作。
 
 恐怖主義者折原麻耶的目的是病毒的感染爆發計畫「BLOODY
 MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組織「THIRD-i」的監視、以及「聖誕節屠殺」檔案回收。到底，獵鷹高木藤丸能否利用駭客技術拯救日本\!?
@@ -21,7 +21,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
   -
     主角。彌代學院高等部2年級、新聞部部員。
-    會在課堂上玩[H-Game](../Page/日本成人遊戲.md "wikilink")，看起來是個普通的學生，不過私底下是利用駭客技術，舉發壞人的天才[駭客](../Page/駭客.md "wikilink")「獵鷹（Falcon）」，小四時就可以非法入侵收費成人網站。
+    會在課堂上玩[H-Game](../Page/日本成人遊戲.md "wikilink")，看起來是個普通的學生，不過私底下是利用駭客技術，舉發壞人的天才[駭客](https://zh.wikipedia.org/wiki/駭客 "wikilink")「獵鷹（Falcon）」，小四時就可以非法入侵收費成人網站。
     因為入侵了父親工作的公安調查廳的計算機系統為契機，而變成父親工作的幫手。
   -
     彌代學院高等部3年級、新聞部部長。
@@ -45,18 +45,18 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
     不知道母親與弟弟毛·阿拉比利亞和麻耶、K的計畫「BLOODY MONDAY」，與他們一同生活著。
     在彌代學園固守之際感染BLOODY-X發病。在死亡的心理準備下根據藤丸的指示去找馬烏洛，但在馬烏洛說出實話後被槍斃。
   -
-    藤丸的妹妹。[腎臟有障礙](../Page/腎臟.md "wikilink")，必須做[人工透析](../Page/人工透析.md "wikilink")。曾兩度被綁架，但都被藤丸救出。
+    藤丸的妹妹。[腎臟有障礙](https://zh.wikipedia.org/wiki/腎臟 "wikilink")，必須做[人工透析](https://zh.wikipedia.org/wiki/人工透析 "wikilink")。曾兩度被綁架，但都被藤丸救出。
     喜歡著音彌，以為是單戀，但其實兩人是互相喜歡。
     非常喜歡寶生，在她背叛死時痛哭。
     為了追趕哥哥來到學院，與九條大臣在保健室時目睹感染BLOODY-X的英發病。
 
 #### THIRD-i
 
-屬[公安調查廳](../Page/公安調查廳.md "wikilink")，主要為防止[恐怖主义及國家](../Page/恐怖主义.md "wikilink")[政變](../Page/政變.md "wikilink")，集結傑出人才的治安維持組織「調查第一部第三課」的通稱。根據龍之介的說法，THIRD-i內部也有間諜。
+屬[公安調查廳](https://zh.wikipedia.org/wiki/公安調查廳 "wikilink")，主要為防止[恐怖主义及國家](../Page/恐怖主义.md "wikilink")[政變](../Page/政變.md "wikilink")，集結傑出人才的治安維持組織「調查第一部第三課」的通稱。根據龍之介的說法，THIRD-i內部也有間諜。
 
   -
     THIRD-i副長、藤丸的父親。以監視的名義讓藤丸在他身邊工作。因為殺害沖田的嫌疑而被通緝，之後被迫在暗中調查案件。
-    在七年前，由於工作的關係，順勢上成為了恐怖分子集團「魔彈射手」的一員，但實際上是為了調查而在內做臥底，目的是為了查出炸彈「[第三皇帝](../Page/第三皇帝.md "wikilink")」的下落。
+    在七年前，由於工作的關係，順勢上成為了恐怖分子集團「魔彈射手」的一員，但實際上是為了調查而在內做臥底，目的是為了查出炸彈「[第三皇帝](https://zh.wikipedia.org/wiki/第三皇帝 "wikilink")」的下落。
     在漫畫版第二季的單行本第三集，被亞勒賽發現是THIRD-i的一員，並槍擊他，還在他體內注入毒液。雖然後來得以解毒，最後還是失血過多死亡。
   -
     從俄羅斯出差返回，與唯一信賴的龍之介接觸並託付給他某數據文件後被槍殺身亡。
@@ -112,7 +112,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
     接替被「獵鷹」揭發性騷擾而解雇的日景，成為彌代學院高等部生物老師。
     之後因為K的命令射殺神島紫門。
   -
-    THIRD-i高木班的一員，有[自衛隊特種部隊的經驗](../Page/日本自卫队.md "wikilink")，擅長格鬥術。
+    THIRD-i高木班的一員，有[自衛隊特種部隊的經驗](https://zh.wikipedia.org/wiki/日本自卫队 "wikilink")，擅長格鬥術。
     為了替被國家蒙上冤罪的哥哥報仇，進入THIRD-i當間諜。被藤丸和加納識破是間諜後，狙擊加納並把藤丸當人質。後來到遙住院的醫院，被九條識破，脅持遙當人質企圖逃跑，但槍被加納打落。在挾持遙作人質時不小心洩漏組織的計畫。
     不接受加納勸告，打算撿起槍時被狙擊班狙擊而死。
   -
@@ -123,7 +123,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   -
     從警視廳派遣的搜查官。與傑克、城田合謀射殺船木刑事，並嫁禍給龍之介。
   -
-    英的繼母。[菲律宾的](../Page/菲律宾.md "wikilink")[马尼拉出生](../Page/马尼拉.md "wikilink")。膚色較深。暗地裡和K連絡。
+    英的繼母。[菲律宾的](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[马尼拉出生](../Page/马尼拉.md "wikilink")。膚色較深。暗地裡和K連絡。
   -
     立川自來水公司的職員。瑪莉亞的弟弟，稱英的父親為「義兄」。
     和姐姐一樣是恐怖組織的一員。在神島紫門被監禁的拘留所作為工事作業員進出。
@@ -166,7 +166,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   -
     被麻耶殺死的俄羅斯諜報員的數據文件名稱。其中有個俄羅斯教堂的錄影，錄影中最後所有人吐血身亡。
   - BLOODY-X
-    本篇中登場的殺人病毒，由舊[苏联利用](../Page/苏联.md "wikilink")[天花和](../Page/天花.md "wikilink")[埃博拉病毒製作出來的](../Page/埃博拉病毒.md "wikilink")。症狀從嘔吐和發熱開始，然後開始皮膚潰爛和全身黏膜出血。發病後生存率為零的可怕病毒。
+    本篇中登場的殺人病毒，由舊[苏联利用](../Page/苏联.md "wikilink")[天花和](https://zh.wikipedia.org/wiki/天花 "wikilink")[埃博拉病毒製作出來的](https://zh.wikipedia.org/wiki/埃博拉病毒 "wikilink")。症狀從嘔吐和發熱開始，然後開始皮膚潰爛和全身黏膜出血。發病後生存率為零的可怕病毒。
     感染後3小時內發病，主要由飛沫和接觸傳染。經由人體感染發病後活性化，活性化前在空氣的感染力沒有那麼強。攝氏60度死滅。
 
 ## BLOODY MONDAY Season2～潘朵拉之盒～
@@ -225,7 +225,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
     單行本第三集由於發現到龍之介是間諜\[3\]，因此槍擊他、還在他體內注射毒液。
     單行本第5集從核電廠"未來"逃跑後，被彼得潘利用，告知錯誤的敵人位置，被自衛隊發現後遭到擊斃。
   -  /
-    參照[\#THIRD-i](../Page/#THIRD-i.md "wikilink")
+    參照[\#THIRD-i](https://zh.wikipedia.org/wiki/#THIRD-i "wikilink")
   -  /
     與龍之介一同參與劫機事件。
     學生時代曾被為師的日景性侵多次，並有了輕生的念頭，但被亞勒賽阻止，並邀請她加入他們。她也對亞勒賽有好感。
@@ -279,7 +279,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
   -
 
-通稱「第三皇帝」的沙皇炸彈，代號為「伊凡」(Ivan)。「沙皇炸彈」之名即意謂著「炸彈之王」。因為它是人類至今所製造過所有種類的炸彈中體積，重量和威力上均為最強大的炸彈。（事实上，[沙皇炸弹为当量](../Page/沙皇炸弹.md "wikilink")5000万吨TNT的氢弹，而连续剧中误设定为铀弹。）
+通稱「第三皇帝」的沙皇炸彈，代號為「伊凡」(Ivan)。「沙皇炸彈」之名即意謂著「炸彈之王」。因為它是人類至今所製造過所有種類的炸彈中體積，重量和威力上均為最強大的炸彈。（事实上，[沙皇炸弹为当量](https://zh.wikipedia.org/wiki/沙皇炸弹 "wikilink")5000万吨TNT的氢弹，而连续剧中误设定为铀弹。）
 
 ## BLOODY MONDAY Last Season 最終時刻
 
@@ -297,7 +297,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   -
     高木藤丸的好友,喜歡高木藤丸的妹妹高木遥。
   -
-    藤丸的妹妹。[腎臟有障礙](../Page/腎臟.md "wikilink")，必須做[人工透析](../Page/人工透析.md "wikilink")。接受了高木龍之介死後捐出的[腎臟](../Page/腎臟.md "wikilink")。
+    藤丸的妹妹。[腎臟有障礙](https://zh.wikipedia.org/wiki/腎臟 "wikilink")，必須做[人工透析](https://zh.wikipedia.org/wiki/人工透析 "wikilink")。接受了高木龍之介死後捐出的[腎臟](https://zh.wikipedia.org/wiki/腎臟 "wikilink")。
     在「魔彈射手」事件結束後住在音彌家中。
     喜歡著音彌。
 
@@ -328,7 +328,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 #### 神秘組織
 
   -
-    參照[\#主要人物](../Page/#主要人物.md "wikilink")
+    參照[\#主要人物](https://zh.wikipedia.org/wiki/#主要人物 "wikilink")
   -
     喜歡藤丸。
     第二部時是某個單位的特務。戰鬥、思考能力比THIRD-i更勝一籌。
@@ -361,7 +361,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p> <a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 <th><p>封面人物</p></th>
 </tr>
@@ -369,7 +369,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
 </tr>
@@ -554,7 +554,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 技術協力：東通
   - 美術協力：ACS
   - 工作室：砧工作室
-  - 製作：[東寶](../Page/東寶株式會社.md "wikilink")、[TBS](../Page/東京廣播公司.md "wikilink")
+  - 製作：[東寶](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")、[TBS](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")
 
 ### 演出人員
 
@@ -565,45 +565,45 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 高木藤丸：[三浦春馬](../Page/三浦春馬.md "wikilink")
   - 折原麻耶：[吉瀨美智子](../Page/吉瀨美智子.md "wikilink")
   - 九條音彌：[佐藤健](../Page/佐藤健.md "wikilink")
-  - 加納生馬：[松重豐](../Page/松重豐.md "wikilink")
+  - 加納生馬：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")
   - 寶生小百合：[片瀨那奈](../Page/片瀨那奈.md "wikilink")
   - 南海薰：[芦名星](../Page/芦名星.md "wikilink")
   - 朝田葵：[藤井美菜](../Page/藤井美菜.md "wikilink")
   - 高木遙：[川島海荷](../Page/川島海荷.md "wikilink")
   - 安齋真子：
-  - 立川英：[久野雅弘](../Page/久野雅弘.md "wikilink")
+  - 立川英：[久野雅弘](https://zh.wikipedia.org/wiki/久野雅弘 "wikilink")
   - J／神崎潤：[成宮寬貴](../Page/成宮寬貴.md "wikilink")（特別演出）
-  - 苑麻孝雄：[中原丈雄](../Page/中原丈雄.md "wikilink")
-  - 神島紫門：[嶋田久作](../Page/嶋田久作.md "wikilink")
-  - 高木龍之介：[田中哲司](../Page/田中哲司.md "wikilink")
-  - 霧島悟郎：[吉澤悠](../Page/吉澤悠.md "wikilink")
-  - 敷村壯介：[神保悟志](../Page/神保悟志.md "wikilink")
-  - 日景潔：[並樹史朗](../Page/並樹史朗.md "wikilink")
-  - 工藤明：[久保田將至](../Page/久保田將至.md "wikilink")
-  - 宗方瞳：[村岡希美](../Page/村岡希美.md "wikilink")
-  - 沖田耕一：[工藤俊作](../Page/工藤俊作.md "wikilink")
-  - 澤北美姫：[阿南敦子](../Page/阿南敦子.md "wikilink")
-  - 船木勘助：[螢雪次朗](../Page/螢雪次朗.md "wikilink")
-  - 伊庭刑事：[尾崎右宗](../Page/尾崎右宗.md "wikilink")
-  - 出門丈一：[天哲](../Page/天哲.md "wikilink")
-  - 富永京子：[宮澤美保](../Page/宮澤美保.md "wikilink")
-  - 有村望：[恒吉梨繪](../Page/恒吉梨繪.md "wikilink")
-  - 宮本耀：[安部魔凛碧](../Page/安部魔凛碧.md "wikilink")
-  - 西田笑太郎：[斗澤康秋](../Page/斗澤康秋.md "wikilink")
-  - 安藤健（BlueBird）：[山口龍人](../Page/山口龍人.md "wikilink")
-  - 田邊僚：[永倉大輔](../Page/永倉大輔.md "wikilink")
-  - 小林大助：[谷口翔太](../Page/谷口翔太.md "wikilink")
-  - 城田學：[瀧藤賢一](../Page/瀧藤賢一.md "wikilink")
-  - 石川看守：[野間口徹](../Page/野間口徹.md "wikilink")
-  - 淺倉看守：[佐伯新](../Page/佐伯新.md "wikilink")
-  - 黑崎所長：[山中敦史](../Page/山中敦史.md "wikilink")
-  - 安岡啓太郎：[濱田晃](../Page/濱田晃.md "wikilink")
-  - 大杉健一：[中根徹](../Page/中根徹.md "wikilink")
+  - 苑麻孝雄：[中原丈雄](https://zh.wikipedia.org/wiki/中原丈雄 "wikilink")
+  - 神島紫門：[嶋田久作](https://zh.wikipedia.org/wiki/嶋田久作 "wikilink")
+  - 高木龍之介：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 霧島悟郎：[吉澤悠](https://zh.wikipedia.org/wiki/吉澤悠 "wikilink")
+  - 敷村壯介：[神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")
+  - 日景潔：[並樹史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")
+  - 工藤明：[久保田將至](https://zh.wikipedia.org/wiki/久保田將至 "wikilink")
+  - 宗方瞳：[村岡希美](https://zh.wikipedia.org/wiki/村岡希美 "wikilink")
+  - 沖田耕一：[工藤俊作](https://zh.wikipedia.org/wiki/工藤俊作 "wikilink")
+  - 澤北美姫：[阿南敦子](https://zh.wikipedia.org/wiki/阿南敦子 "wikilink")
+  - 船木勘助：[螢雪次朗](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")
+  - 伊庭刑事：[尾崎右宗](https://zh.wikipedia.org/wiki/尾崎右宗 "wikilink")
+  - 出門丈一：[天哲](https://zh.wikipedia.org/wiki/天哲 "wikilink")
+  - 富永京子：[宮澤美保](https://zh.wikipedia.org/wiki/宮澤美保 "wikilink")
+  - 有村望：[恒吉梨繪](https://zh.wikipedia.org/wiki/恒吉梨繪 "wikilink")
+  - 宮本耀：[安部魔凛碧](https://zh.wikipedia.org/wiki/安部魔凛碧 "wikilink")
+  - 西田笑太郎：[斗澤康秋](https://zh.wikipedia.org/wiki/斗澤康秋 "wikilink")
+  - 安藤健（BlueBird）：[山口龍人](https://zh.wikipedia.org/wiki/山口龍人 "wikilink")
+  - 田邊僚：[永倉大輔](https://zh.wikipedia.org/wiki/永倉大輔 "wikilink")
+  - 小林大助：[谷口翔太](https://zh.wikipedia.org/wiki/谷口翔太 "wikilink")
+  - 城田學：[瀧藤賢一](https://zh.wikipedia.org/wiki/瀧藤賢一 "wikilink")
+  - 石川看守：[野間口徹](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")
+  - 淺倉看守：[佐伯新](https://zh.wikipedia.org/wiki/佐伯新 "wikilink")
+  - 黑崎所長：[山中敦史](https://zh.wikipedia.org/wiki/山中敦史 "wikilink")
+  - 安岡啓太郎：[濱田晃](https://zh.wikipedia.org/wiki/濱田晃 "wikilink")
+  - 大杉健一：[中根徹](https://zh.wikipedia.org/wiki/中根徹 "wikilink")
   - 安田由紀子：（第1話、第2話）
-  - 中川沙織：[原田佳奈](../Page/原田佳奈.md "wikilink")（第4話－第6話）
-  - 村上杏里：[渡邊志穗](../Page/渡邊志穗_\(女歌手\).md "wikilink")（第3話－）※根據網路投票決定演出\[4\]
-  - 鎌田淳一郎：[齋藤步](../Page/齋藤步.md "wikilink")（第7話－）
-  - 九條彰彥：[龍雷太](../Page/龍雷太.md "wikilink")（特別演出）
+  - 中川沙織：[原田佳奈](https://zh.wikipedia.org/wiki/原田佳奈 "wikilink")（第4話－第6話）
+  - 村上杏里：[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗_\(女歌手\) "wikilink")（第3話－）※根據網路投票決定演出\[4\]
+  - 鎌田淳一郎：[齋藤步](https://zh.wikipedia.org/wiki/齋藤步 "wikilink")（第7話－）
+  - 九條彰彥：[龍雷太](https://zh.wikipedia.org/wiki/龍雷太 "wikilink")（特別演出）
 
 <!-- end list -->
 
@@ -614,30 +614,30 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 水澤響：[黑川智花](../Page/黑川智花.md "wikilink")
   - 萩原太朗：[高嶋政宏](../Page/高嶋政宏.md "wikilink")
   - 海堂秀光 ：
-  - 槙村慎二：[水上劍星](../Page/水上劍星.md "wikilink")
-  - 琢磨洋子：[秋田真琴](../Page/秋田真琴.md "wikilink")
-  - 島村太：[藤木孝](../Page/藤木孝.md "wikilink")
-  - 竹内由希：[瀧澤涼子](../Page/瀧澤涼子.md "wikilink")
-  - 疋田光利：[矢柴俊博](../Page/矢柴俊博.md "wikilink")
-  - 八木佑介：[竹内壽](../Page/竹内壽.md "wikilink")
-  - 瓢蟲〔魔彈射手〕：[八代美奈畝](../Page/八代美奈畝.md "wikilink")
-  - 野獸〔魔彈射手〕：[肥野龍也](../Page/肥野龍也.md "wikilink")
+  - 槙村慎二：[水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
+  - 琢磨洋子：[秋田真琴](https://zh.wikipedia.org/wiki/秋田真琴 "wikilink")
+  - 島村太：[藤木孝](https://zh.wikipedia.org/wiki/藤木孝 "wikilink")
+  - 竹内由希：[瀧澤涼子](https://zh.wikipedia.org/wiki/瀧澤涼子 "wikilink")
+  - 疋田光利：[矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink")
+  - 八木佑介：[竹内壽](https://zh.wikipedia.org/wiki/竹内壽 "wikilink")
+  - 瓢蟲〔魔彈射手〕：[八代美奈畝](https://zh.wikipedia.org/wiki/八代美奈畝 "wikilink")
+  - 野獸〔魔彈射手〕：[肥野龍也](https://zh.wikipedia.org/wiki/肥野龍也 "wikilink")
   - 蚊子〔魔彈射手〕：
-  - 螢〔魔彈射手〕：[金原杏奈](../Page/金原杏奈.md "wikilink")
-  - 大黃蜂／藤代壯太〔魔彈射手〕：[神木隆之介](../Page/神木隆之介.md "wikilink")（友情演出）
-  - 江本加奈〔魔彈射手〕：[阿部真美](../Page/阿部真美.md "wikilink")
+  - 螢〔魔彈射手〕：[金原杏奈](https://zh.wikipedia.org/wiki/金原杏奈 "wikilink")
+  - 大黃蜂／藤代壯太〔魔彈射手〕：[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")（友情演出）
+  - 江本加奈〔魔彈射手〕：[阿部真美](https://zh.wikipedia.org/wiki/阿部真美 "wikilink")
   - 蜘蛛／倉野（敷村）理沙〔魔彈射手〕：
-  - 種田登：[宮内敦士](../Page/宮内敦士.md "wikilink")
-  - 中林信行：[趙珉和](../Page/趙珉和.md "wikilink")
-  - 和田有香：[橋本亞紀](../Page/橋本亞紀.md "wikilink")
-  - 赤石一彥：[堀部圭亮](../Page/堀部圭亮.md "wikilink")
-  - 鈴井卓也：[柳澤貴彥](../Page/柳澤貴彥.md "wikilink")　
-  - 教授：[津嘉山正種](../Page/津嘉山正種.md "wikilink")
+  - 種田登：[宮内敦士](https://zh.wikipedia.org/wiki/宮内敦士 "wikilink")
+  - 中林信行：[趙珉和](https://zh.wikipedia.org/wiki/趙珉和 "wikilink")
+  - 和田有香：[橋本亞紀](https://zh.wikipedia.org/wiki/橋本亞紀 "wikilink")
+  - 赤石一彥：[堀部圭亮](https://zh.wikipedia.org/wiki/堀部圭亮 "wikilink")
+  - 鈴井卓也：[柳澤貴彥](https://zh.wikipedia.org/wiki/柳澤貴彥 "wikilink")　
+  - 教授：[津嘉山正種](https://zh.wikipedia.org/wiki/津嘉山正種 "wikilink")
 
 ### 主題曲
 
-  - [flumpool](../Page/flumpool.md "wikilink")《》（Season1）
-  - [flumpool](../Page/flumpool.md "wikilink")《》（Season2）
+  - [flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")《》（Season1）
+  - [flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")《》（Season2）
 
 ### 各話列表
 
@@ -883,7 +883,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 
 <!-- end list -->
 
-  - THIRD-i所屬的正式名稱由「公安調查廳調查第一部第三課」改成「[警察廳警備局公安特殊三課](../Page/警察廳.md "wikilink")」。
+  - THIRD-i所屬的正式名稱由「公安調查廳調查第一部第三課」改成「[警察廳警備局公安特殊三課](https://zh.wikipedia.org/wiki/警察廳 "wikilink")」。
   - 傑克·戴蒙等組織成員的名字改成日本風的名字。
   - BLOODY-X的實驗場所從[西伯利亞鐵路改成俄羅斯](../Page/西伯利亞鐵路.md "wikilink")·雅斯裡蘇克。
   - 麻耶和寶生的頭髮長度不同（麻耶從長髮變短髮，寶生從短髮變長髮）。
@@ -940,7 +940,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
 [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  台灣緯來[日劇版譯為](../Page/日劇.md "wikilink")「血腥星期一」。
-2.  而在電視劇版譯名，台灣[緯來為](../Page/緯來.md "wikilink")「折原真矢」，香港[TVB則是](../Page/TVB.md "wikilink")「折原瑪-{}-雅」，以原作譯名為準。
+1.  台灣緯來[日劇版譯為](https://zh.wikipedia.org/wiki/日劇 "wikilink")「血腥星期一」。
+2.  而在電視劇版譯名，台灣[緯來為](https://zh.wikipedia.org/wiki/緯來 "wikilink")「折原真矢」，香港[TVB則是](https://zh.wikipedia.org/wiki/TVB "wikilink")「折原瑪-{}-雅」，以原作譯名為準。
 3.  實際發現到他是間諜的時間點不明。
 4.

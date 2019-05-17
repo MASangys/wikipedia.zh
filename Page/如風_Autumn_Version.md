@@ -1,5 +1,5 @@
 《**如風 Autumn
-Version**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯的第一張](../Page/王靖雯.md "wikilink")[EP](../Page/EP.md "wikilink")，於1993年10月出版。此张EP是首张登上香港[IFPI销量榜的EP](../Page/IFPI.md "wikilink")\[1\]。
+Version**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王靖雯的第一張](https://zh.wikipedia.org/wiki/王靖雯 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於1993年10月出版。此张EP是首张登上香港[IFPI销量榜的EP](https://zh.wikipedia.org/wiki/IFPI "wikilink")\[1\]。
 
 ## 曲目
 

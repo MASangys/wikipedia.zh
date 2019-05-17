@@ -1,9 +1,9 @@
 《**ALIVE
-最終進化少年**》（）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[安達渡嘉的漫畫作品](../Page/安達渡嘉.md "wikilink")\[1\]，原作[河島正](../Page/河島正.md "wikilink")\[2\]。原于2008年六月宣布将改編為[电视动画](../Page/电视动画.md "wikilink")\[3\]\[4\]，但因動畫製作公司[GONZO经营不善退市而导致此計畫中止](../Page/GONZO.md "wikilink")\[5\]\[6\]。
+最終進化少年**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安達渡嘉的漫畫作品](../Page/安達渡嘉.md "wikilink")\[1\]，原作[河島正](https://zh.wikipedia.org/wiki/河島正 "wikilink")\[2\]。原于2008年六月宣布将改編為[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")\[3\]\[4\]，但因動畫製作公司[GONZO经营不善退市而导致此計畫中止](../Page/GONZO.md "wikilink")\[5\]\[6\]。
 
 ## 概要
 
-於[講談社的](../Page/講談社.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")「[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")」上連載，由2003年開始連載至今。日本版單行本以少年雜誌KC由[講談社出版](../Page/講談社.md "wikilink")，香港中文版由[天下出版社出版](../Page/天下出版社.md "wikilink")，台灣中文版由[東立出版](../Page/東立.md "wikilink")。本作品是以「如果瘋狂的現代人是擁有特殊能力……」來描寫現代人瘋狂本能的科幻作品。加入許多殺人與自殺，生與死等哲學。初時知名度低，但現在單行本全部售罄顯示受到讀者歡迎。
+於[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")「[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")」上連載，由2003年開始連載至今。日本版單行本以少年雜誌KC由[講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，香港中文版由[天下出版社出版](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")，台灣中文版由[東立出版](https://zh.wikipedia.org/wiki/東立 "wikilink")。本作品是以「如果瘋狂的現代人是擁有特殊能力……」來描寫現代人瘋狂本能的科幻作品。加入許多殺人與自殺，生與死等哲學。初時知名度低，但現在單行本全部售罄顯示受到讀者歡迎。
 
 ## 劇情簡介
 
@@ -94,7 +94,7 @@ Rock」—那個應與太輔和廣瀨一起埋葬那個「惡路的心臟」的�
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 <th><p><a href="../Page/天下出版.md" title="wikilink">天下出版</a></p></th>
 </tr>
@@ -102,9 +102,9 @@ Rock」—那個應與太輔和廣瀨一起埋葬那個「惡路的心臟」的�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

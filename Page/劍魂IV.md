@@ -1,8 +1,8 @@
 是[Namco
-魂之系列的第五款遊戲](../Page/Namco_魂之系列.md "wikilink")，同時也是該系列中，第一款支援網路連線的遊戲，除了可以讓玩家藉由PlayStation
+魂之系列的第五款遊戲](https://zh.wikipedia.org/wiki/Namco_魂之系列 "wikilink")，同時也是該系列中，第一款支援網路連線的遊戲，除了可以讓玩家藉由PlayStation
 Network或Xbox Live的服務，進行線上的對戰，另可藉由線上服務，進行遊戲內容的更新。
 
-本遊戲最先於2008年7月29日，在[北美洲](../Page/北美洲.md "wikilink")、[台灣先行發布](../Page/台灣.md "wikilink")，其後，才在[日本](../Page/日本.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")、[澳洲](../Page/澳洲.md "wikilink")、[英國](../Page/英國.md "wikilink")、[紐西蘭等地發行](../Page/紐西蘭.md "wikilink")。
+本遊戲最先於2008年7月29日，在[北美洲](../Page/北美洲.md "wikilink")、[台灣先行發布](https://zh.wikipedia.org/wiki/台灣 "wikilink")，其後，才在[日本](../Page/日本.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[紐西蘭等地發行](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")。
 
 除了網路連線的支援，本作的模式也做了大幅的調整，原有的故事、大型機台、訓練、紀念館等模式皆有保留，並新增亡魂塔模式，讓玩家在遊戲中，享受探索寶物的樂趣；計量表也有依照性質差異，分成生命值、靈魂，與專為星際大戰角色設計的「原力值」。
 
@@ -12,21 +12,21 @@ Network或Xbox Live的服務，進行線上的對戰，另可藉由線上服務�
 
 ### 一般模式
 
-歷代《[劍魂](../Page/劍魂.md "wikilink")》系列保有的傳統─「故事」（Story）、「大型機台」（Arcade）、「訓練」（Training）、「紀念館」（Museum）等模式，在本作品中仍持續保留。而「Tower
+歷代《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列保有的傳統─「故事」（Story）、「大型機台」（Arcade）、「訓練」（Training）、「紀念館」（Museum）等模式，在本作品中仍持續保留。而「Tower
 of Lost
 Souls」（譯：亡魂塔）模式，則是本遊戲的新要素，大多數的物品都要在該模式中才能獲得，至於在以往會出現的「生存」（Survival）模式，則是以亡魂塔內的「下降」（Descend）模式取代\[1\]。
 
 ### 角色創建模式
 
 角色創建模式（Character
-Creation）是延續[劍魂III原有的模式](../Page/劍魂III.md "wikilink")，除了武器的變換，本遊戲亦可修改角色的衣著裝扮（除魔王角色亞爾戈、名家原創角色、星際大戰角色以外）。別於前作可以見到的特殊流派\[2\]，如鈴鼓、足刃、武士刀與手裡劍、鐵扇、長刀等，在本作已經被移除，因而使得該模式更能輕易入手。玩家在四代中，也可以根據喜好，為自訂角色量身打造想要的配音，甚至可以改變體格、容貌等\[3\]。
+Creation）是延續[劍魂III原有的模式](https://zh.wikipedia.org/wiki/劍魂III "wikilink")，除了武器的變換，本遊戲亦可修改角色的衣著裝扮（除魔王角色亞爾戈、名家原創角色、星際大戰角色以外）。別於前作可以見到的特殊流派\[2\]，如鈴鼓、足刃、武士刀與手裡劍、鐵扇、長刀等，在本作已經被移除，因而使得該模式更能輕易入手。玩家在四代中，也可以根據喜好，為自訂角色量身打造想要的配音，甚至可以改變體格、容貌等\[3\]。
 
 但在該模式的裝備調整，卻關乎角色的各能力值，包括防具、武器，或配件（含戒指）等，都有可能會影響到該角色的攻防、生命值，或可用的技能點數\[4\]。技能點對應的技能，也會因對手差異，造成不同的結果，這些結果都會在故事、亡魂塔、特殊對戰模式中反映出來。
 
 ### 動態對決戰鬥
 
 別於歷代的版本，在四代的故事、亡魂塔模式中，去除了一般團體對戰（Team
-Battle）的換人方式，導入了《[格鬥天王](../Page/格鬥天王.md "wikilink")2003》中的「動態對決戰鬥」（Active
+Battle）的換人方式，導入了《[格鬥天王](https://zh.wikipedia.org/wiki/格鬥天王 "wikilink")2003》中的「動態對決戰鬥」（Active
 Matching
 Battle）系統\[5\]，讓玩家在多人對戰時，透過審慎的戰術，進行適當的輪替。當任一方有人被KO時，另一個對手會快速地出現，而非重開新局，直到時間結束或某方最後一人被KO為止，但這種系統只限於故事與亡魂塔模式。
 
@@ -97,15 +97,15 @@ Live的方式，進行（傳統的）一般對戰與（風格角色過後的）�
 #### [星際大戰角色](../Page/星際大戰.md "wikilink")
 
 在遊戲剛發行時，達斯·維達（Darth Vader）與尤達（Yoda）分別只侷限於PS3與Xbox
-360平台，直至Namco宣布開放角色下載時\[12\]，角色獨佔之局面即宣告結束；而遊戲《[星際大戰：原力對決](../Page/:en:Star_Wars:_The_Force_Unleashed.md "wikilink")》之主角─秘密學徒（The
+360平台，直至Namco宣布開放角色下載時\[12\]，角色獨佔之局面即宣告結束；而遊戲《[星際大戰：原力對決](https://zh.wikipedia.org/wiki/:en:Star_Wars:_The_Force_Unleashed "wikilink")》之主角─秘密學徒（The
 Apprentice），則是在發行時，就已經同時在PS3與Xbox 360平台，以隱藏角色的身分登場。
 
 #### 名家原創角色
 
-  - **雅修蘿特（Ashlotte）**\[13\]，設計師：[大暮維人](../Page/大暮維人.md "wikilink")
-  - **神斬蝕（Kamikirimusi）**，設計師：[久行宏和](../Page/:ja:久行宏和.md "wikilink")
-  - **修羅（Shura）**\[14\]，設計師：[奧浩哉](../Page/:ja:奥浩哉.md "wikilink")
-  - **雪菈薩德（Scheherazade）**，設計師：[出淵裕](../Page/:ja:出渕裕.md "wikilink")
+  - **雅修蘿特（Ashlotte）**\[13\]，設計師：[大暮維人](https://zh.wikipedia.org/wiki/大暮維人 "wikilink")
+  - **神斬蝕（Kamikirimusi）**，設計師：[久行宏和](https://zh.wikipedia.org/wiki/:ja:久行宏和 "wikilink")
+  - **修羅（Shura）**\[14\]，設計師：[奧浩哉](https://zh.wikipedia.org/wiki/:ja:奥浩哉 "wikilink")
+  - **雪菈薩德（Scheherazade）**，設計師：[出淵裕](https://zh.wikipedia.org/wiki/:ja:出渕裕 "wikilink")
   - **安哥爾·菲亞（Angol·Fear）**，設計師：[吉崎觀音](../Page/吉崎觀音.md "wikilink")
 
 ## 特典版
@@ -134,9 +134,9 @@ Edition）的方式呈現，附贈內容則包含4片高畫質遊戲展示影片
 ## 遊戲音樂設計
 
 在Namco的魂之系列中，遊戲音樂設計是除了遊戲暢玩度外，另一個獲得娛樂媒體重視的焦點，雖然本遊戲仍是由Namco Sound
-Team統籌音樂的設計，但在星際大戰角色與場地的加入後，Namco也特別採用了知名作曲家[-{zh-hans:约翰·威廉姆斯;zh-hk:約翰·威廉士;zh-tw:約翰·威廉斯;}-的音樂](../Page/約翰·威廉斯_\(作曲家\).md "wikilink")，襯托星際大戰的主題\[20\]此外，在[最終幻想系列擔任主力演奏的](../Page/最終幻想.md "wikilink")「卓越交響管弦樂團」（Eminence
+Team統籌音樂的設計，但在星際大戰角色與場地的加入後，Namco也特別採用了知名作曲家[-{zh-hans:约翰·威廉姆斯;zh-hk:約翰·威廉士;zh-tw:約翰·威廉斯;}-的音樂](https://zh.wikipedia.org/wiki/約翰·威廉斯_\(作曲家\) "wikilink")，襯托星際大戰的主題\[20\]此外，在[最終幻想系列擔任主力演奏的](https://zh.wikipedia.org/wiki/最終幻想 "wikilink")「卓越交響管弦樂團」（Eminence
 Symphony
-Orchestra）\[21\]、Basiscape公司的[岩田匡治](../Page/:ja:岩田匡治.md "wikilink")、知名吉他手後藤貴德\[22\]，以及曾參與《[鬼武者](../Page/鬼武者.md "wikilink")》原聲帶演出的稻葉明德\[23\]，都分別在本遊戲中，擔任客串演奏與作曲，也打破單純由Namco
+Orchestra）\[21\]、Basiscape公司的[岩田匡治](https://zh.wikipedia.org/wiki/:ja:岩田匡治 "wikilink")、知名吉他手後藤貴德\[22\]，以及曾參與《[鬼武者](../Page/鬼武者.md "wikilink")》原聲帶演出的稻葉明德\[23\]，都分別在本遊戲中，擔任客串演奏與作曲，也打破單純由Namco
 Sound Team一手包辦音樂設計的紀錄。
 
 ## 下載包
@@ -145,16 +145,16 @@ Sound Team一手包辦音樂設計的紀錄。
 
 ## 評價
 
-| 評價                               |
-| -------------------------------- |
-| 媒體名稱                             |
-| 1UP.com                          |
-| GameSpot                         |
-| GameSpy                          |
-| IGN                              |
-| X-Play                           |
-| zConnection                      |
-| [法米通](../Page/法米通.md "wikilink") |
+| 評價                                                  |
+| --------------------------------------------------- |
+| 媒體名稱                                                |
+| 1UP.com                                             |
+| GameSpot                                            |
+| GameSpy                                             |
+| IGN                                                 |
+| X-Play                                              |
+| zConnection                                         |
+| [法米通](https://zh.wikipedia.org/wiki/法米通 "wikilink") |
 
   -
     <small>註：本章節僅節錄部分媒體之評價資訊，完整列表可參閱[本頁面](http://www.gamerankings.com/htmlpages4/940048.asp)。</small>
@@ -180,7 +180,7 @@ Versus Mode）的移除感到困惑與失望。
 
   - （Soulcalibur IV Perfect Guide）\[29\]：與美國BradyGames發行之「Soul Calibur
     IV Signature Series Fighter's
-    Guide」相同，但此為[Softbank發行之日文版遊戲攻略](../Page/Softbank.md "wikilink")。
+    Guide」相同，但此為[Softbank發行之日文版遊戲攻略](https://zh.wikipedia.org/wiki/Softbank "wikilink")。
 
 ## 資料來源
 
@@ -199,7 +199,8 @@ Versus Mode）的移除感到困惑與失望。
   - [Xbox台灣網站介紹頁](https://web.archive.org/web/20081029033842/http://www.xbox.com/zh-TW/games/s/soulcalibur4/)
 
   -
-  - [Soulcalibur Wikia](../Page/wikia:soulcalibur.md "wikilink")
+  - [Soulcalibur
+    Wikia](https://zh.wikipedia.org/wiki/wikia:soulcalibur "wikilink")
 
 [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
 [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")

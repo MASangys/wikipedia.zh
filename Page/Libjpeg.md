@@ -1,11 +1,11 @@
-**libjpeg**是一个完全用[C语言编写的处理](../Page/C语言.md "wikilink")[JPEG图像数据格式的自由](../Page/JPEG.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器的算法实现](../Page/编解码器.md "wikilink")，以及用于处理JPEG数据的多种实用程序。
+**libjpeg**是一个完全用[C语言编写的处理](https://zh.wikipedia.org/wiki/C语言 "wikilink")[JPEG图像数据格式的自由](../Page/JPEG.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器的算法实现](../Page/编解码器.md "wikilink")，以及用于处理JPEG数据的多种实用程序。
 
-该套软件采用[C语言编写](../Page/C语言.md "wikilink")，并分发为附有[源代码的](../Page/源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。
+该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码的](../Page/源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。
 
-原始变体由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[复刻](../Page/复刻_\(软件工程\).md "wikilink")。
+原始变体由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。
 
 JPEG
-[JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网上被广泛使用](../Page/万维网.md "wikilink")。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
+[JFIF图像在](https://zh.wikipedia.org/wiki/JPEG文件交换格式 "wikilink")[万维网上被广泛使用](../Page/万维网.md "wikilink")。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
 
 ## 实用程序
 
@@ -22,7 +22,7 @@ JPEG
 jpegtran提供了幾種功能，用於重新格式化和重新編碼DCT係數的表示，分別用於轉換實際圖像數據和丟棄JPEG文件中的輔助數據。
 關於係數表示的變換包括：
 
-  - 優化JPEG文件的[霍夫曼編碼層以增加壓縮](../Page/霍夫曼編碼.md "wikilink")。
+  - 優化JPEG文件的[霍夫曼編碼層以增加壓縮](https://zh.wikipedia.org/wiki/霍夫曼編碼 "wikilink")。
   - 漸進和順序JPEG格式之間的轉換。
   - 霍夫曼和[算术编码在](../Page/算术编码.md "wikilink")[熵編碼法層之間的轉換](../Page/熵編碼法.md "wikilink")。\[2\]\[3\]\[4\]
 
@@ -47,7 +47,7 @@ List](http://jpegclub.org/losslessapps.html)。
 ## 历史
 
 独立JPEG工作组（IJG）的JPEG实现首次公开发布于，并在那是已相当完善。 开发主要由完成。
-IJG的[开源是其中一个主要的开源包](../Page/开源软件.md "wikilink")，并且是JPEG标准的成功的关键。许多公司将其整合到各种产品中，如[图像编辑器和](../Page/图像编辑器.md "wikilink")[网络浏览器](../Page/网络浏览器.md "wikilink")。\[6\]
+IJG的[开源是其中一个主要的开源包](../Page/开源软件.md "wikilink")，并且是JPEG标准的成功的关键。许多公司将其整合到各种产品中，如[图像编辑器和](https://zh.wikipedia.org/wiki/图像编辑器 "wikilink")[网络浏览器](https://zh.wikipedia.org/wiki/网络浏览器 "wikilink")。\[6\]
 
 版本5发布于1994年9月24日，整个代码库被重写。它引入了名为rdjpgcom和wrjpgcom的实用程序用于处理嵌入的文字注释。
 
@@ -64,8 +64,9 @@ of libjpeg (7 through 9), of which each broke ABI compatibility with
 previous versions.\[8\] The changes that were held in prospect after the
 6x series were not delivered.\[9\] In version 7, support for
 [算术编码](../Page/算术编码.md "wikilink") was introduced, which earlier
-has been rejected because of the [patent](../Page/软件专利.md "wikilink")
-situation, as well as the crop feature in jpegtran (`-crop`).\[10\]
+has been rejected because of the
+[patent](https://zh.wikipedia.org/wiki/软件专利 "wikilink") situation, as
+well as the crop feature in jpegtran (`-crop`).\[10\]
 
 Versions 8 and 9 served basically for the introduction of
 controversial\[11\] incompatible format extensions. These are widely
@@ -191,7 +192,7 @@ increment:1 start:2007 \# rough scale PlotData =
 
 ### libjpeg-turbo
 
-libjpeg-turbo是libjpeg的一个[复刻](../Page/复刻_\(软件工程\).md "wikilink")，它采用[单指令流多数据流](../Page/单指令流多数据流.md "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE等](../Page/OpenSUSE.md "wikilink")）、[Mozilla和](../Page/Mozilla.md "wikilink")[Chrome](../Page/Google_Chrome.md "wikilink")。\[22\]\[23\]\[24\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg
+libjpeg-turbo是libjpeg的一个[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")，它采用[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）[指令来加速JPEG编码和解码基础效率](../Page/指令集架構.md "wikilink")。许多项目现在使用libjpeg-turbo而不是libjpeg，包括流行的GNU/Linux发行版（[Fedora](../Page/Fedora.md "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Mageia](../Page/Mageia.md "wikilink")、[OpenSUSE等](../Page/OpenSUSE.md "wikilink")）、[Mozilla和](../Page/Mozilla.md "wikilink")[Chrome](../Page/Google_Chrome.md "wikilink")。\[22\]\[23\]\[24\]除了性能方面，部分项目也因它允许向后保留与旧的libjpeg
 v6b版本的[ABI兼容性而选择使用libjpeg](../Page/应用二进制接口.md "wikilink")-turbo。\[25\]libjpeg
 v7、v8和v9已打破与早期版本的ABI兼容性。\[26\]
 
@@ -219,7 +220,7 @@ Merritt编写的一个[Perl脚本](../Page/Perl.md "wikilink")。\[29\]\[30\]
 ## 参见
 
   - [JPEG](../Page/JPEG.md "wikilink")
-  - [无损数据压缩\#无损编辑](../Page/无损数据压缩#无损编辑.md "wikilink")
+  - [无损数据压缩\#无损编辑](https://zh.wikipedia.org/wiki/无损数据压缩#无损编辑 "wikilink")
   - [有损数据压缩](../Page/有损数据压缩.md "wikilink")
 
 ## 参考资料

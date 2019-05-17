@@ -1,6 +1,6 @@
 **WINO** 是一個日本的5人樂團，日文寫法：『 ワイノ』或是『ワイノー』。
-受到英式搖滾（Brit-pop）深刻影響，在日本常被拿來和綠洲樂團[Oasis相提並論](../Page/Oasis.md "wikilink")。
-動畫『獵人』[HUNTER×HUNTER片頭的](../Page/HUNTER×HUNTER.md "wikilink")『太陽は夜も輝く』是他們知名度最高的曲子。
+受到英式搖滾（Brit-pop）深刻影響，在日本常被拿來和綠洲樂團[Oasis相提並論](https://zh.wikipedia.org/wiki/Oasis "wikilink")。
+動畫『獵人』[HUNTER×HUNTER片頭的](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")『太陽は夜も輝く』是他們知名度最高的曲子。
 2002年冬因為契約關係解散。
 
 ## 成員
@@ -38,7 +38,7 @@
 5.  The Action (All I really want to do) (*2000.3.23*)
 6.  Sullen Days *2000.8.23*
 7.  太陽は夜も輝く (*2000.12.27*)
-    ：參與[HUNTER×HUNTER第](../Page/HUNTER×HUNTER.md "wikilink")2代OP／電視版動畫最末集
+    ：參與[HUNTER×HUNTER第](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")2代OP／電視版動畫最末集
 8.  New Dawn F (*2001.4.21*)
 9.  Go Straight Song\! (*2001.12.19*)
 10. Not Alone (*2002.5.22*) ：專為世足賽而作

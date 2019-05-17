@@ -1,4 +1,4 @@
-**Wi-Fi聯盟**（，簡稱），是一個商業聯盟，擁有[Wi-Fi的](../Page/Wi-Fi.md "wikilink")[商標](../Page/商標.md "wikilink")。它負責Wi-Fi認證，與商標授權的工作，總部位於美國[德克薩斯州](../Page/德克薩斯州.md "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
+**Wi-Fi聯盟**（，簡稱），是一個商業聯盟，擁有[Wi-Fi的](../Page/Wi-Fi.md "wikilink")[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")。它負責Wi-Fi認證，與商標授權的工作，總部位於美國[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
 
 ## 歷史
 
@@ -6,13 +6,13 @@
 
 2000年，改名為Wi-Fi聯盟。
 
-2013年1月4日，Wi-Fi聯盟和[無線千兆聯盟](../Page/無線千兆聯盟.md "wikilink")（WiGig）合併，共同推動60GHz高速網路\[1\]。
+2013年1月4日，Wi-Fi聯盟和[無線千兆聯盟](https://zh.wikipedia.org/wiki/無線千兆聯盟 "wikilink")（WiGig）合併，共同推動60GHz高速網路\[1\]。
 
 ## Wi-Fi認證
 
 Wi-Fi技術建立在IEEE 802.11標準上。
 
-但[IEEE開發和出版這些標準](../Page/IEEE.md "wikilink")，卻不測試符合他們的設備。非營利性的Wi-Fi聯盟成立於1999年，以填補這一段空白——建立和執行標準，互操作性與兼容性，並推動無線區域網路技術。
+但[IEEE開發和出版這些標準](https://zh.wikipedia.org/wiki/IEEE "wikilink")，卻不測試符合他們的設備。非營利性的Wi-Fi聯盟成立於1999年，以填補這一段空白——建立和執行標準，互操作性與兼容性，並推動無線區域網路技術。
 
 至2009年截止Wi-Fi聯盟超過300多家來自世界各地公司合廠家擁有會員，其產品通過認證過程中，有權標明這些產品Wi-Fi標誌。
 
@@ -40,7 +40,8 @@ Wi-Fi技術建立在IEEE 802.11標準上。
     Point）及站台（Station）之外其他有特殊應用的無線網路裝置，例如DVD播放器、投影機、印表機等等。
   - CWG（Converged Wireless Group）：主要是針對Wi-Fi mobile converged
     devices的RF部分測量的測試程序。
-  - [Wi-Fi Direct](../Page/Wi-Fi_Direct.md "wikilink")
+  - [Wi-Fi
+    Direct](https://zh.wikipedia.org/wiki/Wi-Fi_Direct "wikilink")
 
 還有一種加密方式為802.1x使用者認證機制，但目前相容性不高（注意ｘ在此為小寫）
 

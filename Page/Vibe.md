@@ -1,4 +1,4 @@
-**Vibe**（韩文名：），[南韓歌唱組合](../Page/南韓.md "wikilink")。原本由[尹敏洙](../Page/尹敏洙.md "wikilink")、及[劉承奎共同組成](../Page/劉承奎.md "wikilink")，並於2002年以《[Afterglow](../Page/Afterglow.md "wikilink")》專輯出道。其後2005年[劉承奎離開並以](../Page/劉承奎.md "wikilink")[Noblesse名義作個人發展](../Page/Noblesse.md "wikilink")，**Vibe**自始便成爲二人組合，繼續發展。**Vibe**裏面的歌曲大部分由作曲，[尹敏洙主唱](../Page/尹敏洙.md "wikilink")。
+**Vibe**（韩文名：），[南韓歌唱組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")。原本由[尹敏洙](../Page/尹敏洙.md "wikilink")、及[劉承奎共同組成](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")，並於2002年以《[Afterglow](https://zh.wikipedia.org/wiki/Afterglow "wikilink")》專輯出道。其後2005年[劉承奎離開並以](https://zh.wikipedia.org/wiki/劉承奎 "wikilink")[Noblesse名義作個人發展](https://zh.wikipedia.org/wiki/Noblesse "wikilink")，**Vibe**自始便成爲二人組合，繼續發展。**Vibe**裏面的歌曲大部分由作曲，[尹敏洙主唱](../Page/尹敏洙.md "wikilink")。
 
 ## 专辑
 
@@ -160,14 +160,14 @@ About Me</strong></p></td>
 
 ## 電視劇原聲
 
-  - 2005年：[MBC](../Page/MBC.md "wikilink")《[悲傷戀歌](../Page/悲傷戀歌.md "wikilink")》
+  - 2005年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[悲傷戀歌](../Page/悲傷戀歌.md "wikilink")》
 
 ## 其他
 
   - 2005年：《[Big4 of voices in my
-    dream](../Page/Big4_of_voices_in_my_dream.md "wikilink")》（與[SG
+    dream](https://zh.wikipedia.org/wiki/Big4_of_voices_in_my_dream "wikilink")》（與[SG
     Wannabe](../Page/SG_Wannabe.md "wikilink")、[M TO
-    M及](../Page/M_TO_M.md "wikilink")[金鍾國合作](../Page/金鍾國.md "wikilink")）
+    M及](https://zh.wikipedia.org/wiki/M_TO_M "wikilink")[金鍾國合作](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")）
 
 ## 外部連結
 

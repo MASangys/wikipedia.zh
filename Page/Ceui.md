@@ -1,25 +1,25 @@
-**Ceui**（，）是在[千叶县出生](../Page/千叶县.md "wikilink")，在[福冈县长大的女性](../Page/福冈县.md "wikilink")[歌手](../Page/歌手.md "wikilink")。血型A型。名字Ceui是基于[葡萄牙语](../Page/葡萄牙语.md "wikilink")（天空）的造语，意思是「星」\[1\]。受当[钢琴老师的母亲影响](../Page/钢琴.md "wikilink")，从六岁开始学习古典钢琴。毕业于[白百合女子大学文学部](../Page/白百合女子大学.md "wikilink")。
+**Ceui**（，）是在[千叶县出生](https://zh.wikipedia.org/wiki/千叶县 "wikilink")，在[福冈县长大的女性](../Page/福冈县.md "wikilink")[歌手](../Page/歌手.md "wikilink")。血型A型。名字Ceui是基于[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")（天空）的造语，意思是「星」\[1\]。受当[钢琴老师的母亲影响](../Page/钢琴.md "wikilink")，从六岁开始学习古典钢琴。毕业于[白百合女子大学文学部](https://zh.wikipedia.org/wiki/白百合女子大学 "wikilink")。
 
 ## 作品
 
 ### 单曲
 
-|      | 發售日         | 標題                                             | 商業搭配                                                                                 | [規格產品編號](../Page/規格產品編號.md "wikilink") |
-| ---- | ----------- | ---------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------- |
-| 1st  | 2007年2月21日  | **[微睡みの楽園](../Page/微睡みの楽園.md "wikilink")**     | 電視動畫《[京四郎與永遠的空](../Page/京四郎與永遠的空.md "wikilink")》ED                                   | LHCM-1029                              |
-| 2nd  | 2007年5月23日  | ****                                           | 電視動畫《[Sola](../Page/Sola.md "wikilink")》ED                                           | LACM-4372                              |
-| 3rd  | 2008年11月26日 | ****                                           | [网络游戏](../Page/网络游戏.md "wikilink")《[仙境传说](../Page/仙境传说.md "wikilink")》6thアニバーサーリー印象曲 | LACM-4538                              |
-| 4th  | 2009年2月25日  | **[光と闇と時の果て](../Page/光と闇と時の果て.md "wikilink")** | 電視動畫《[仰望天空的少女瞳中的世界](../Page/仰望天空的少女瞳中的世界.md "wikilink")》ED                           | LACM-4570                              |
-| 5th  | 2009年5月13日  | ****                                           | 電視動畫《[穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")》ED2                                    | LACM-4607                              |
-| 6th  | 2009年5月27日  | ****                                           | 電腦遊戲《》OP                                                                             | LACM-4620                              |
-| 7th  | 2009年8月5日   | **[センティフォリア](../Page/センティフォリア.md "wikilink")** | 電視動畫《[青花](../Page/青花_\(漫畫\).md "wikilink")》ED                                        | LASM-4023                              |
-| 8th  | 2009年8月26日  | ****                                           | 電腦遊戲《》ED                                                                             | LACM-4643                              |
-| 9th  | 2010年8月11日  | ****                                           | 電視動畫《[傳說的勇者的傳說](../Page/傳說的勇者的傳說.md "wikilink")》ED                                   | LACM-4734                              |
-| 10th | 2010年10月27日 | ****                                           | 電視動畫《傳說的勇者的傳說》OP2                                                                    | LACM-4748                              |
-| 11th | 2011年11月9日  | ****                                           | 電視動畫《[境界線上的地平線](../Page/境界線上的地平線.md "wikilink")》ED -Side Horizon-                    | LACM-4875                              |
-| 12th | 2012年8月8日   | ****                                           | 電視動畫《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》ED                                 | LASM-4145                              |
-| 13th | 2013年7月24日  | ****                                           | 電視動畫《[八犬傳－東方八犬異聞－](../Page/八犬傳－東方八犬異聞－.md "wikilink")》ED2                            | LACM-14114                             |
-| 14th | 2014年11月5日  | **Pandora**                                    | PSP、PSV遊戲《》OP                                                                        | LACM-14294                             |
+|      | 發售日         | 標題                                                                | 商業搭配                                                                                 | [規格產品編號](../Page/規格產品編號.md "wikilink") |
+| ---- | ----------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------- |
+| 1st  | 2007年2月21日  | **[微睡みの楽園](https://zh.wikipedia.org/wiki/微睡みの楽園 "wikilink")**     | 電視動畫《[京四郎與永遠的空](../Page/京四郎與永遠的空.md "wikilink")》ED                                   | LHCM-1029                              |
+| 2nd  | 2007年5月23日  | ****                                                              | 電視動畫《[Sola](../Page/Sola.md "wikilink")》ED                                           | LACM-4372                              |
+| 3rd  | 2008年11月26日 | ****                                                              | [网络游戏](../Page/网络游戏.md "wikilink")《[仙境传说](../Page/仙境传说.md "wikilink")》6thアニバーサーリー印象曲 | LACM-4538                              |
+| 4th  | 2009年2月25日  | **[光と闇と時の果て](https://zh.wikipedia.org/wiki/光と闇と時の果て "wikilink")** | 電視動畫《[仰望天空的少女瞳中的世界](../Page/仰望天空的少女瞳中的世界.md "wikilink")》ED                           | LACM-4570                              |
+| 5th  | 2009年5月13日  | ****                                                              | 電視動畫《[穿越宇宙的少女](../Page/穿越宇宙的少女.md "wikilink")》ED2                                    | LACM-4607                              |
+| 6th  | 2009年5月27日  | ****                                                              | 電腦遊戲《》OP                                                                             | LACM-4620                              |
+| 7th  | 2009年8月5日   | **[センティフォリア](https://zh.wikipedia.org/wiki/センティフォリア "wikilink")** | 電視動畫《[青花](https://zh.wikipedia.org/wiki/青花_\(漫畫\) "wikilink")》ED                     | LASM-4023                              |
+| 8th  | 2009年8月26日  | ****                                                              | 電腦遊戲《》ED                                                                             | LACM-4643                              |
+| 9th  | 2010年8月11日  | ****                                                              | 電視動畫《[傳說的勇者的傳說](../Page/傳說的勇者的傳說.md "wikilink")》ED                                   | LACM-4734                              |
+| 10th | 2010年10月27日 | ****                                                              | 電視動畫《傳說的勇者的傳說》OP2                                                                    | LACM-4748                              |
+| 11th | 2011年11月9日  | ****                                                              | 電視動畫《[境界線上的地平線](../Page/境界線上的地平線.md "wikilink")》ED -Side Horizon-                    | LACM-4875                              |
+| 12th | 2012年8月8日   | ****                                                              | 電視動畫《[戀愛與選舉與巧克力](../Page/戀愛與選舉與巧克力.md "wikilink")》ED                                 | LASM-4145                              |
+| 13th | 2013年7月24日  | ****                                                              | 電視動畫《[八犬傳－東方八犬異聞－](../Page/八犬傳－東方八犬異聞－.md "wikilink")》ED2                            | LACM-14114                             |
+| 14th | 2014年11月5日  | **Pandora**                                                       | PSP、PSV遊戲《》OP                                                                        | LACM-14294                             |
 
 ### 專輯
 
@@ -182,7 +182,7 @@
 
   - 2011年4月27日发售（Lantis）
       - Jewelry Time
-          - PC遊戲『[愛、選舉與巧克力](../Page/愛、選舉與巧克力.md "wikilink")』ED
+          - PC遊戲『[愛、選舉與巧克力](https://zh.wikipedia.org/wiki/愛、選舉與巧克力 "wikilink")』ED
           - 作詞：Ceui／作曲：小高光太郎、Ceui／編曲：小高光太郎
 
 <!-- end list -->
@@ -219,7 +219,7 @@
 
 ### 樂曲、作詞提供
 
-  - [最終試験くじら](../Page/最終試験くじら.md "wikilink") - 作詞
+  - [最終試験くじら](https://zh.wikipedia.org/wiki/最終試験くじら "wikilink") - 作詞
 
   - kira『dreamscape』 - 作詞
 
@@ -229,8 +229,8 @@
 
   - 『』 - 作詞・コーラス
 
-  - [清水愛](../Page/清水愛.md "wikilink")『NUOVA STORIA』 -
-    作曲（與[小高光太郎共同](../Page/小高光太郎.md "wikilink")）
+  - [清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")『NUOVA STORIA』 -
+    作曲（與[小高光太郎共同](https://zh.wikipedia.org/wiki/小高光太郎 "wikilink")）
 
   - [Piko](../Page/Piko.md "wikilink")『』 - 作詞・作曲（作曲與小高光太郎共同）
 

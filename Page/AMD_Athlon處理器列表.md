@@ -288,8 +288,8 @@ A0900APT3B</p></td>
 
 ## 參見
 
-  - [AMD](../Page/AMD.md "wikilink")
-  - [Sempron](../Page/Sempron.md "wikilink")
+  - [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
+  - [Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")
   - [AMD Athlon XP處理器列表](../Page/AMD_Athlon_XP處理器列表.md "wikilink")
   - [AMD Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")

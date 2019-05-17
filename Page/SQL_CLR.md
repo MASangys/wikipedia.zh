@@ -1,16 +1,17 @@
 [SQL_CLR.png](https://zh.wikipedia.org/wiki/File:SQL_CLR.png "fig:SQL_CLR.png")
 **SQL CLR** (SQL Common Language Runtime) 是自 SQL Server 2005
 才出現的新功能，它將[.NET
-Framework中的](../Page/.NET_Framework.md "wikilink")[CLR服務注入到](../Page/Common_Language_Runtime.md "wikilink")
+Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[CLR服務注入到](https://zh.wikipedia.org/wiki/Common_Language_Runtime "wikilink")
 SQL Server 中，讓 SQL Server 的部份資料庫物件可以使用 .NET Framework
-的程式語言開發（目前只支援[VB.NET和](../Page/VB.NET.md "wikilink")[C\#](../Page/C♯.md "wikilink")），包括[預存程序](../Page/存储程序.md "wikilink")、[使用者自訂函數](../Page/使用者自訂函數.md "wikilink")、[觸發程序](../Page/触发器_\(数据库\).md "wikilink")、[使用者自訂型別以及](../Page/使用者自訂型別.md "wikilink")[使用者自訂彙總函數等功能](../Page/使用者自訂彙總函數.md "wikilink")\[1\]。
+的程式語言開發（目前只支援[VB.NET和](https://zh.wikipedia.org/wiki/VB.NET "wikilink")[C\#](../Page/C♯.md "wikilink")），包括[預存程序](../Page/存储程序.md "wikilink")、[使用者自訂函數](https://zh.wikipedia.org/wiki/使用者自訂函數 "wikilink")、[觸發程序](https://zh.wikipedia.org/wiki/触发器_\(数据库\) "wikilink")、[使用者自訂型別以及](https://zh.wikipedia.org/wiki/使用者自訂型別 "wikilink")[使用者自訂彙總函數等功能](https://zh.wikipedia.org/wiki/使用者自訂彙總函數 "wikilink")\[1\]。
 
 ## 架構
 
 SQL CLR 是利用 .NET Framework 中的 **Hosting（裝載）** 特性所實作的版本，這個功能讓 SQL Server
-中可以安裝 .NET Framework 的[組件](../Page/.NET_assembly.md "wikilink")，經由實作
+中可以安裝 .NET Framework
+的[組件](https://zh.wikipedia.org/wiki/.NET_assembly "wikilink")，經由實作
 ADO.NET 2.0 中所開放的 `Microsoft.SqlServer.Server`
-命名空間中的[.NET中介資料](../Page/.NET_metadata.md "wikilink")，來獲得
+命名空間中的[.NET中介資料](https://zh.wikipedia.org/wiki/.NET_metadata "wikilink")，來獲得
 SQL Server 資料庫物件的能力：
 
   - 預存程序：`SqlProcedureAttribute`。

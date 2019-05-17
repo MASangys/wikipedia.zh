@@ -2,7 +2,7 @@
 
 ## 概要
 
-  - 這是KAT-TUN的第10張單曲作品，同時亦是由KAT-TUN團員[中丸雄一及](../Page/中丸雄一.md "wikilink")[NEWS中](../Page/NEWS.md "wikilink")[增田貴久所主演](../Page/增田貴久.md "wikilink")，[TBS電視](../Page/TBS電視.md "wikilink")[連續劇](../Page/電視劇.md "wikilink")《[RESCUE〜特別高度救助隊](../Page/RESCUE〜特別高度救助隊.md "wikilink")》的主題曲。副歌部份的歌詞全為英文，B面曲「7
+  - 這是KAT-TUN的第10張單曲作品，同時亦是由KAT-TUN團員[中丸雄一及](../Page/中丸雄一.md "wikilink")[NEWS中](../Page/NEWS.md "wikilink")[增田貴久所主演](../Page/增田貴久.md "wikilink")，[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[RESCUE〜特別高度救助隊](https://zh.wikipedia.org/wiki/RESCUE〜特別高度救助隊 "wikilink")》的主題曲。副歌部份的歌詞全為英文，B面曲「7
     DAYS BATTLE」除了rap詞以外也全是英文。
   - 與前作相隔剛好一個月，這是自KAT-TUN出道以來發行作品間隔最短的一次。
   - 前奏中的心跳，是中丸的口技表演。

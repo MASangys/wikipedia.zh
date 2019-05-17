@@ -1,4 +1,4 @@
-本列表列出目前所有[日本動畫](../Page/日本動畫.md "wikilink")《[機動戰士GUNDAM
+本列表列出目前所有[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》所使用的歌曲專輯。
 
 ## 原聲帶
@@ -12,7 +12,7 @@
   -
     VTCL-60014
 
-**價格（[日幣](../Page/日幣.md "wikilink")）**
+**價格（[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")）**
 
   -
     ¥2900
@@ -92,9 +92,11 @@
 32. SCENERY
 33. BEATING
 34. CROSS ROAD
-35. [DAYBREAK'S BELL](../Page/DAYBREAK'S_BELL.md "wikilink")（TV
+35. [DAYBREAK'S
+    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")（TV
     SIZE-EDIT）／L'Arc\~en\~Ciel
-36. [Wana](../Page/Wana.md "wikilink")（TV SIZE-EDIT）／THE BACK HORN
+36. [Wana](https://zh.wikipedia.org/wiki/Wana "wikilink")（TV
+    SIZE-EDIT）／THE BACK HORN
 
 ### 機動戰士GUNDAM 00原聲帶 03
 
@@ -133,9 +135,10 @@
 19. Interception
 20. The Devine
 21. Restart
-22. [Ash Like Snow](../Page/Ash_Like_Snow.md "wikilink")（TV
+22. [Ash Like
+    Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")（TV
     SIZE-EDIT）／the brilliant green
-23. [Friends](../Page/朋友_\(Stephanie專輯\).md "wikilink")（TV
+23. [Friends](https://zh.wikipedia.org/wiki/朋友_\(Stephanie專輯\) "wikilink")（TV
     SIZE-EDIT）／Stephanie
 
 ### 機動戰士GUNDAM 00原聲帶 04
@@ -352,7 +355,7 @@
 #### TOMORROW
 
 機動戰士GUNDAM
-00第四首片尾曲（第二季第14話），聲優[恒松步以](../Page/恒松步.md "wikilink")[瑪莉娜·伊士麥之名所唱](../Page/瑪莉娜·伊士麥.md "wikilink")\[5\]，也有一部份用在第15話。
+00第四首片尾曲（第二季第14話），聲優[恒松步以](../Page/恒松步.md "wikilink")[瑪莉娜·伊士麥之名所唱](https://zh.wikipedia.org/wiki/瑪莉娜·伊士麥 "wikilink")\[5\]，也有一部份用在第15話。
 
 **商品番號**
 
@@ -400,7 +403,7 @@
 
 ### 機動戰士GUNDAM 00聲優單曲 01：Soup／箱空
 
-第一張聲優單曲，[剎那·F·塞耶](../Page/剎那·F·塞耶.md "wikilink")（聲優：[宮野真守](../Page/宮野真守.md "wikilink")）\[6\]。
+第一張聲優單曲，[剎那·F·塞耶](https://zh.wikipedia.org/wiki/剎那·F·塞耶 "wikilink")（聲優：[宮野真守](../Page/宮野真守.md "wikilink")）\[6\]。
 
 **商品番號**
 
@@ -421,7 +424,7 @@
 
 ### 機動戰士GUNDAM 00聲優單曲 02：永遠の螺旋／Answer
 
-第二張聲優單曲，[洛克昂·史特拉托斯](../Page/洛克昂·史特拉托斯.md "wikilink")（聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")）\[7\]。
+第二張聲優單曲，[洛克昂·史特拉托斯](https://zh.wikipedia.org/wiki/洛克昂·史特拉托斯 "wikilink")（聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")）\[7\]。
 
 **商品番號**
 
@@ -442,7 +445,7 @@
 
 ### 機動戰士GUNDAM 00聲優單曲 03：idea／elephant
 
-第三張聲優單曲，[提耶利亞·厄德](../Page/提耶利亞·厄德.md "wikilink")（聲優：[神谷浩史](../Page/神谷浩史.md "wikilink")）\[8\]。
+第三張聲優單曲，[提耶利亞·厄德](https://zh.wikipedia.org/wiki/提耶利亞·厄德 "wikilink")（聲優：[神谷浩史](../Page/神谷浩史.md "wikilink")）\[8\]。
 
 **商品番號**
 
@@ -463,7 +466,7 @@
 
 ### 機動戰士GUNDAM 00聲優單曲 04：太陽／After image
 
-第四張聲優單曲，[阿雷路亞·帕普提茲姆](../Page/阿雷路亞·帕普提茲姆.md "wikilink")（聲優：[吉野裕行](../Page/吉野裕行.md "wikilink")）\[9\]。
+第四張聲優單曲，[阿雷路亞·帕普提茲姆](https://zh.wikipedia.org/wiki/阿雷路亞·帕普提茲姆 "wikilink")（聲優：[吉野裕行](../Page/吉野裕行.md "wikilink")）\[9\]。
 
 **商品番號**
 

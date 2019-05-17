@@ -1,5 +1,5 @@
-「**style**」為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](../Page/EXILE.md "wikilink")（放浪兄弟）的第
-張[單曲](../Page/單曲.md "wikilink")。2001年12月12日於日本發行。Oricon最高排行第11、初動銷量2.5萬張、累計11.3萬張
+「**style**」為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第
+張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年12月12日於日本發行。Oricon最高排行第11、初動銷量2.5萬張、累計11.3萬張
 
 ## 解說
 
@@ -21,7 +21,8 @@ CD
         [東京電視系](../Page/東京電視台.md "wikilink")「ASAYAN」片尾曲
 2.  style（ajapai mix）\[5:24\]
       - 作詞：Kenn Kato / 作曲：Face 2 fAKE / 編曲：
-        [ajapai](../Page/ajapai.md "wikilink") for ajapai entertainment
+        [ajapai](https://zh.wikipedia.org/wiki/ajapai "wikilink") for
+        ajapai entertainment
 3.  Your eyes only ～我曖昧的輪廓～（Eric Kupper Classic mix）\[3:50\]
       - 作詞：Kenn Kato / 作曲：Face 2 fAKE / 編曲： Eric Kupper for Hysteria
         Productions

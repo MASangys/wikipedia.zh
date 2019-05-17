@@ -1,10 +1,10 @@
 **變形金剛：超神 Master
-Force**(<sup>[日文](../Page/日文.md "wikilink"):</sup>****，<sup>[英文直譯](../Page/英文.md "wikilink"):</sup>**Transformer:
+Force**(<sup>[日文](https://zh.wikipedia.org/wiki/日文 "wikilink"):</sup>****，<sup>[英文直譯](https://zh.wikipedia.org/wiki/英文 "wikilink"):</sup>**Transformer:
 Super God Master
-Force**)是由日本[東映公司在](../Page/東映.md "wikilink")1988年所製作的[變形金剛之](../Page/變形金剛.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，為[變形金剛：頭領戰士之續集](../Page/變形金剛：頭領戰士.md "wikilink")，共47集。
+Force**)是由日本[東映公司在](../Page/東映.md "wikilink")1988年所製作的[變形金剛之](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為[變形金剛：頭領戰士之續集](../Page/變形金剛：頭領戰士.md "wikilink")，共47集。
 
-本作和之前作品的不同在於本作偏向《[超人力霸王](../Page/超人力霸王.md "wikilink")》系列等怪獸[特攝作品般的等身大英雄](../Page/特攝.md "wikilink")/巨大變身英雄風格。Autobot的變形金剛分成了偽裝成人類的[隱者戰士](../Page/:en:Pretenders_\(Transformers\).md "wikilink")(Pretender)與由人類變身而成的少年頭領戰士(Headmaster
-Jr.)與超神戰士([Godmaster](../Page/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce.md "wikilink"))。Decepticon的角色則分為偽裝成怪物的偽裝者與由人類變身而成的少年頭領戰士與超神戰士。
+本作和之前作品的不同在於本作偏向《[超人力霸王](../Page/超人力霸王.md "wikilink")》系列等怪獸[特攝作品般的等身大英雄](https://zh.wikipedia.org/wiki/特攝 "wikilink")/巨大變身英雄風格。Autobot的變形金剛分成了偽裝成人類的[隱者戰士](https://zh.wikipedia.org/wiki/:en:Pretenders_\(Transformers\) "wikilink")(Pretender)與由人類變身而成的少年頭領戰士(Headmaster
+Jr.)與超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))。Decepticon的角色則分為偽裝成怪物的偽裝者與由人類變身而成的少年頭領戰士與超神戰士。
 
 ## 劇情概要
 
@@ -18,13 +18,13 @@ Z)。魔鬼Ｚ在死了之後放出了一種物質，使得超神戰士及少年
 
 ## 漫畫版
 
-漫畫版在背景設定方面，基本上是與動畫版差不多的，但是故事的發展卻與動畫版不一樣，尤其是在漫畫版最終回的時候，Autobot與Decepticon的人類成員一起聯手對抗魔鬼Ｚ。此外，漫畫版對於超神戰士([Godmaster](../Page/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce.md "wikilink"))的由來也較有介紹。基本上漫畫版超神
+漫畫版在背景設定方面，基本上是與動畫版差不多的，但是故事的發展卻與動畫版不一樣，尤其是在漫畫版最終回的時候，Autobot與Decepticon的人類成員一起聯手對抗魔鬼Ｚ。此外，漫畫版對於超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))的由來也較有介紹。基本上漫畫版超神
 Master Force與動畫版是互為平行世界的關係。\[2\]
 
 ## 關於迅雷的外表
 
 由於時常有觀眾分不清楚-{zh-tw: 迅雷; zh-hk: 仁萊;zh-cn:
-仁萊}-與柯博文的關係，因為兩人的外觀幾乎一模一樣，這是因為動力戰士([Powermaster](../Page/:en:Powermaster.md "wikilink"))版的柯博文到了日本後改名稱為迅雷之因素。
+仁萊}-與柯博文的關係，因為兩人的外觀幾乎一模一樣，這是因為動力戰士([Powermaster](https://zh.wikipedia.org/wiki/:en:Powermaster "wikilink"))版的柯博文到了日本後改名稱為迅雷之因素。
 
 在本作的設定中，原本有一套新的變形金剛軀體是要作為Master星的英雄所使用。而這套軀體則是參考了柯博文所設計的。後來這套新身體跟著其他超神戰士的身軀被魔鬼Ｚ偷走而帶到了地球來，隨後就失蹤了。而這套新身軀在偶然的情況之下被迅雷拿到，使迅雷成為了超神戰士。簡單的說，迅雷使用了參考柯博文而設計的身體，所以兩人才會長得幾乎一樣。
 

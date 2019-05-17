@@ -1,8 +1,8 @@
-是一部以香港漫畫家[馬榮成漫畫](../Page/馬榮成.md "wikilink")《[風雲](../Page/風雲_\(漫畫\).md "wikilink")》為基礎所改編的玄幻武俠電影，是1998年香港電影《[風雲：雄霸天下](../Page/風雲：雄霸天下_\(1998年電影\).md "wikilink")》的續集，在前作中擔當主演的[郭富城和](../Page/郭富城.md "wikilink")[鄭伊健在本片中再次攜手](../Page/鄭伊健.md "wikilink")，另有[任达华](../Page/任达华.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[何家勁](../Page/何家勁.md "wikilink")、[唐嫣等明星加盟其中](../Page/唐嫣.md "wikilink")。本片於2008年3月18日舉行新聞發布會\[1\]，3月底在泰國正式開拍，同年7月2日殺青\[2\]，2009年12月9日下午兩點在中國大陸正式上映\[3\]。
+是一部以香港漫畫家[馬榮成漫畫](../Page/馬榮成.md "wikilink")《[風雲](../Page/風雲_\(漫畫\).md "wikilink")》為基礎所改編的玄幻武俠電影，是1998年香港電影《[風雲：雄霸天下](../Page/風雲：雄霸天下_\(1998年電影\).md "wikilink")》的續集，在前作中擔當主演的[郭富城和](../Page/郭富城.md "wikilink")[鄭伊健在本片中再次攜手](../Page/鄭伊健.md "wikilink")，另有[任达华](https://zh.wikipedia.org/wiki/任达华 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[何家勁](../Page/何家勁.md "wikilink")、[唐嫣等明星加盟其中](../Page/唐嫣.md "wikilink")。本片於2008年3月18日舉行新聞發布會\[1\]，3月底在泰國正式開拍，同年7月2日殺青\[2\]，2009年12月9日下午兩點在中國大陸正式上映\[3\]。
 
 ## 故事大綱
 
-故事講述[聶風](../Page/聶風.md "wikilink")（[鄭伊健飾](../Page/鄭伊健.md "wikilink")）為了對付野心勃勃的絕無神（[任達華飾](../Page/任達華.md "wikilink")），不惜以身犯險修練魔功，[步驚雲](../Page/步驚雲.md "wikilink")（[郭富城飾](../Page/郭富城.md "wikilink")）、聶風兩人約定如聶風成魔後變成一個六親不認的魔頭，便由步驚雲殺死聶風，一場驚天地，決生死的終極之戰旋即展開。
+故事講述[聶風](https://zh.wikipedia.org/wiki/聶風 "wikilink")（[鄭伊健飾](../Page/鄭伊健.md "wikilink")）為了對付野心勃勃的絕無神（[任達華飾](../Page/任達華.md "wikilink")），不惜以身犯險修練魔功，[步驚雲](https://zh.wikipedia.org/wiki/步驚雲 "wikilink")（[郭富城飾](../Page/郭富城.md "wikilink")）、聶風兩人約定如聶風成魔後變成一個六親不認的魔頭，便由步驚雲殺死聶風，一場驚天地，決生死的終極之戰旋即展開。
 
 ## 演員
 
@@ -15,13 +15,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/郭富城.md" title="wikilink">郭富城</a></p></td>
-<td><p><a href="../Page/步驚雲.md" title="wikilink">步驚雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/步驚雲" title="wikilink">步驚雲</a></p></td>
 <td><p>聶風師兄<br />
 學成新劍法後,實力大增</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭伊健.md" title="wikilink">鄭伊健</a></p></td>
-<td><p><a href="../Page/聶風.md" title="wikilink">聶風</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聶風" title="wikilink">聶風</a></p></td>
 <td><p>步驚雲師弟<br />
 為打敗絕無神而入魔,但入魔未成便強行出關。</p></td>
 </tr>
@@ -48,7 +48,7 @@
 在與絕無神一戰中戰敗重傷,其後傳授了自己的劍法予步驚雲。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/彭冠期.md" title="wikilink">彭冠期</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠期" title="wikilink">彭冠期</a></p></td>
 <td><p>天行</p></td>
 <td><p>絕無神手下</p></td>
 </tr>
@@ -128,30 +128,30 @@
 <tr class="odd">
 <td><p><a href="../Page/第29屆香港電影金像獎.md" title="wikilink">第29屆香港電影金像獎</a></p></td>
 <td><p>最佳美術指導</p></td>
-<td><p><a href="../Page/奚仲文.md" title="wikilink">奚仲文</a>、<a href="../Page/劉敏雄.md" title="wikilink">劉敏雄</a></p></td>
+<td><p><a href="../Page/奚仲文.md" title="wikilink">奚仲文</a>、<a href="https://zh.wikipedia.org/wiki/劉敏雄" title="wikilink">劉敏雄</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳服裝造型設計</p></td>
-<td><p><a href="../Page/奚仲文.md" title="wikilink">奚仲文</a>、<a href="../Page/吳里璐.md" title="wikilink">吳里璐</a></p></td>
+<td><p><a href="../Page/奚仲文.md" title="wikilink">奚仲文</a>、<a href="https://zh.wikipedia.org/wiki/吳里璐" title="wikilink">吳里璐</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳動作設計</p></td>
-<td><p><a href="../Page/馬玉成.md" title="wikilink">馬玉成</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬玉成" title="wikilink">馬玉成</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳音響效果</p></td>
-<td><p><a href="../Page/王慶生.md" title="wikilink">王慶生</a>、<a href="../Page/鄭穎園.md" title="wikilink">鄭穎園</a>、<a href="../Page/林紹儒.md" title="wikilink">林紹儒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王慶生" title="wikilink">王慶生</a>、<a href="https://zh.wikipedia.org/wiki/鄭穎園" title="wikilink">鄭穎園</a>、<a href="https://zh.wikipedia.org/wiki/林紹儒" title="wikilink">林紹儒</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳視覺效果</p></td>
-<td><p><a href="../Page/吳炫輝.md" title="wikilink">吳炫輝</a>、<a href="../Page/鄒志盛.md" title="wikilink">鄒志盛</a>、<a href="../Page/譚啟昆.md" title="wikilink">譚啟昆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳炫輝" title="wikilink">吳炫輝</a>、<a href="https://zh.wikipedia.org/wiki/鄒志盛" title="wikilink">鄒志盛</a>、<a href="https://zh.wikipedia.org/wiki/譚啟昆" title="wikilink">譚啟昆</a></p></td>
 <td></td>
 <td></td>
 </tr>

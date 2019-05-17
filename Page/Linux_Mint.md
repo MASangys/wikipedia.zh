@@ -6,7 +6,7 @@ Linux Mint是对用户友好而功能强大的操作系统。Linux
 Mint的理想之一，以简单的方式呈现先进技术给用户，以此来成为最优秀的操作系统。这种简单方式的实现，不是通过简化結构與机能而削减功能，也不是通过抄袭其它开发者的实现方法。
 
 Linux Mint继承了Ubuntu的众多优点，同时也在Ubuntu的基础上加入很多自己优秀的特性。Linux
-Mint致力于提供一种更為开箱即刻可用的用户体验，免去用户在安装系统后还要自己安装一系列满足基本使用需求的软件。它包括提供[浏览器插件](../Page/浏览器.md "wikilink")、[多媒体编解码器](../Page/多媒体.md "wikilink")、对DVD播放的支持、[Java和其他组件](../Page/Java.md "wikilink")。它也增加了一套定制桌面及各种菜单，一些独特的配置工具，以及一份基于web的软件包安装界面。
+Mint致力于提供一种更為开箱即刻可用的用户体验，免去用户在安装系统后还要自己安装一系列满足基本使用需求的软件。它包括提供[浏览器插件](https://zh.wikipedia.org/wiki/浏览器 "wikilink")、[多媒体编解码器](../Page/多媒体.md "wikilink")、对DVD播放的支持、[Java和其他组件](../Page/Java.md "wikilink")。它也增加了一套定制桌面及各种菜单，一些独特的配置工具，以及一份基于web的软件包安装界面。
 
 因为基于Ubuntu，Linux Mint与Ubuntu软件仓库完全兼容，采用apt管理和.deb软件包。
 
@@ -26,10 +26,10 @@ Linux
 Mint项目致力于为普通用户提供一个处理日常事务时更加易用，更加高效的桌面。支撑这个桌面的是，由操作系统提供的大量软件和具有高度集成性的服务。
 
 Linux
-Mint所採用的用戶界面[Cinnamon](../Page/Cinnamon.md "wikilink")，其設計風格注重為[桌面電腦和](../Page/桌面電腦.md "wikilink")[筆記型電腦的用戶提供簡易使用的操作環境](../Page/筆記型電腦.md "wikilink")，並與過往被Linux普遍使用的[GNOME或Microsoft](../Page/GNOME.md "wikilink")
+Mint所採用的用戶界面[Cinnamon](../Page/Cinnamon.md "wikilink")，其設計風格注重為[桌面電腦和](https://zh.wikipedia.org/wiki/桌面電腦 "wikilink")[筆記型電腦的用戶提供簡易使用的操作環境](../Page/筆記型電腦.md "wikilink")，並與過往被Linux普遍使用的[GNOME或Microsoft](../Page/GNOME.md "wikilink")
 [Windows
-XP的用戶界面相似](../Page/Windows_XP.md "wikilink")，即使入門用家也易於掌握。2010年代以後，採用[觸控屏幕的](../Page/觸控屏幕.md "wikilink")[平板電腦大幅興起](../Page/平板電腦.md "wikilink")，不少操作系统的用戶界面，包括運行Linux的[Ubuntu和Microsoft的](../Page/Ubuntu.md "wikilink")[Windows
-8等](../Page/Windows_8.md "wikilink")，都改為便於觸控操作的設計風格。然而有不少桌面電腦用戶認為這些觸控導向的新用戶界面，卻不便於傳統[滑鼠的使用](../Page/滑鼠.md "wikilink")，其使用體驗不及以往的用戶界面，而Linux
+XP的用戶界面相似](../Page/Windows_XP.md "wikilink")，即使入門用家也易於掌握。2010年代以後，採用[觸控屏幕的](https://zh.wikipedia.org/wiki/觸控屏幕 "wikilink")[平板電腦大幅興起](../Page/平板電腦.md "wikilink")，不少操作系统的用戶界面，包括運行Linux的[Ubuntu和Microsoft的](../Page/Ubuntu.md "wikilink")[Windows
+8等](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，都改為便於觸控操作的設計風格。然而有不少桌面電腦用戶認為這些觸控導向的新用戶界面，卻不便於傳統[滑鼠的使用](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，其使用體驗不及以往的用戶界面，而Linux
 Mint繼續為滑鼠用戶提供便利的操作環境，吸引不少用戶投入使用。2011年起，Linux Mint便成為廣受桌面用戶歡迎的Linux發行版。
 
 ## 桌面环境

@@ -1,17 +1,17 @@
 [LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg](https://zh.wikipedia.org/wiki/File:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "fig:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg")的E195LR\]\]
 **巴西航空工業E系列**（Embraer
-E-Jet）是[巴西航空工业公司在二十一世纪开发生產的](../Page/巴西航空工业公司.md "wikilink")[支線](../Page/區域航線客機.md "wikilink")[噴射客機型號系列](../Page/噴射客機.md "wikilink")，于2003年首次投入營運。该系列由四款机型组成，瞄準80人左右級距的市場，後來又推出100座以上的加長機型，分別是E170（70-80座）、E175（78-88座）、E190（98-114座）和E195（108-122座），具有高效率、经济性的特点，符合人机工程学的原理。
+E-Jet）是[巴西航空工业公司在二十一世纪开发生產的](../Page/巴西航空工业公司.md "wikilink")[支線](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")[噴射客機型號系列](https://zh.wikipedia.org/wiki/噴射客機 "wikilink")，于2003年首次投入營運。该系列由四款机型组成，瞄準80人左右級距的市場，後來又推出100座以上的加長機型，分別是E170（70-80座）、E175（78-88座）、E190（98-114座）和E195（108-122座），具有高效率、经济性的特点，符合人机工程学的原理。
 
-E-系列飛機採用了許多新式設計如雙氣泡形機艙、EFIS航電、美國[通用電氣的發動機等](../Page/通用電氣.md "wikilink")，在設計過程中採用虛擬現實輔助設計工作，是世界上第一款以[虛擬現實輔助設計工作的客機](../Page/虛擬現實輔助設計.md "wikilink")。目前巴西航空工業公司接到超過1551架E-系列飞机的訂單，超過650架飞机投入營運，累计飞行时间超过440万小时。公司在全球的E-系列机队平均每天的利用率达到7.13飞行小时，最新的签派可靠性和任务完成率分别达到99.23%和99.86%。
+E-系列飛機採用了許多新式設計如雙氣泡形機艙、EFIS航電、美國[通用電氣的發動機等](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")，在設計過程中採用虛擬現實輔助設計工作，是世界上第一款以[虛擬現實輔助設計工作的客機](https://zh.wikipedia.org/wiki/虛擬現實輔助設計 "wikilink")。目前巴西航空工業公司接到超過1551架E-系列飞机的訂單，超過650架飞机投入營運，累计飞行时间超过440万小时。公司在全球的E-系列机队平均每天的利用率达到7.13飞行小时，最新的签派可靠性和任务完成率分别达到99.23%和99.86%。
 
-本系列飛機主要競爭對手為[龐巴迪宇航生產的](../Page/龐巴迪宇航.md "wikilink")[CRJ系列客機](../Page/龐巴迪CRJ.md "wikilink")。更新發動機和機翼的[巴西航空工業E2系列已於](../Page/巴西航空工業E2系列.md "wikilink")2018年投入營運。
+本系列飛機主要競爭對手為[龐巴迪宇航生產的](../Page/龐巴迪宇航.md "wikilink")[CRJ系列客機](../Page/龐巴迪CRJ.md "wikilink")。更新發動機和機翼的[巴西航空工業E2系列已於](https://zh.wikipedia.org/wiki/巴西航空工業E2系列 "wikilink")2018年投入營運。
 
 ## 背景
 
 [Lot.embraer.e-170-100st.sp-ldd.arp.jpg](https://zh.wikipedia.org/wiki/File:Lot.embraer.e-170-100st.sp-ldd.arp.jpg "fig:Lot.embraer.e-170-100st.sp-ldd.arp.jpg")
 由於巴西航空工业公司在1990年代曾經陷入財政困難時期，它為新支線飛機計劃與世界多家航空工業機構達成合作伙伴協議，當中大部份都曾經和巴西航空工业公司在開發50座級客機上合作，並建立起良好關係。該合作伙伴協議包括共同承擔風險和合作開發和合作生產新支線客機的零件。
 
-巴西航空工业公司於1999年的[巴黎航空展首次發佈E](../Page/巴黎航空展.md "wikilink")-170及E-190計劃，是[ERJ-145系列的改良](../Page/ERJ-145系列.md "wikilink")、擴寬及加長版，也彌補了巴西航空工業的客機在70-100座級上的空缺\[1\]。
+巴西航空工业公司於1999年的[巴黎航空展首次發佈E](https://zh.wikipedia.org/wiki/巴黎航空展 "wikilink")-170及E-190計劃，是[ERJ-145系列的改良](../Page/ERJ-145系列.md "wikilink")、擴寬及加長版，也彌補了巴西航空工業的客機在70-100座級上的空缺\[1\]。
 
 E-喷气系列，E字代表：
 
@@ -47,7 +47,7 @@ E-喷气系列採用通用電氣公司提供的CF34系列渦輪扇發動機，�
 
 ### E-喷气系列
 
-[Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg](https://zh.wikipedia.org/wiki/File:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg "fig:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg")的E170-100LR。2006年時攝於德國[杜塞道夫國際機場](../Page/杜塞道夫國際機場.md "wikilink")。\]\]
+[Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg](https://zh.wikipedia.org/wiki/File:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg "fig:Embraer_ERJ-170-100LR_170LR,_Finnair_AN1169979.jpg")的E170-100LR。2006年時攝於德國[杜塞道夫國際機場](https://zh.wikipedia.org/wiki/杜塞道夫國際機場 "wikilink")。\]\]
 [Embraer175-01.jpg](https://zh.wikipedia.org/wiki/File:Embraer175-01.jpg "fig:Embraer175-01.jpg")的E-175\]\]
 [LFBZ_4662_EMB190.jpg](https://zh.wikipedia.org/wiki/File:LFBZ_4662_EMB190.jpg "fig:LFBZ_4662_EMB190.jpg")的E-190\]\]
 [Embraer_195_flybe_01.jpg](https://zh.wikipedia.org/wiki/File:Embraer_195_flybe_01.jpg "fig:Embraer_195_flybe_01.jpg")的E-195\]\]
@@ -68,12 +68,12 @@ E-190在2004年3月12日試飛，2005年9月2日取得適航證。設有加長�
 
 ### E-195
 
-195型是190型的加長版、最大飛起重量達50790公斤、機身加長了2.41公尺，是整個系列中機身最長的型號，而載客量則達118人，比空中巴士[A318在單一座艙級別下多出一席](../Page/A318.md "wikilink")，而E-195價格和營運成本都比A318為低。E-195大部份規格均和E-190相同，如翼展、機身闊度、垂直尾翼的設計等，而兩個型號都同樣地擁有前後共兩組登機門、備餐處和洗手間。因為載客量增加了，E-195相比E-170/175，E-195的機翼上多了一個逃生機門。E-195和190一樣採用通用電氣的CF34系列中推力最大的CF34-10E[渦扇發動機](../Page/渦扇發動機.md "wikilink")。E-195的首飛是在2004年12月7日完成。E-195設有加長航程的LR型，航程增加至3334公里。
+195型是190型的加長版、最大飛起重量達50790公斤、機身加長了2.41公尺，是整個系列中機身最長的型號，而載客量則達118人，比空中巴士[A318在單一座艙級別下多出一席](https://zh.wikipedia.org/wiki/A318 "wikilink")，而E-195價格和營運成本都比A318為低。E-195大部份規格均和E-190相同，如翼展、機身闊度、垂直尾翼的設計等，而兩個型號都同樣地擁有前後共兩組登機門、備餐處和洗手間。因為載客量增加了，E-195相比E-170/175，E-195的機翼上多了一個逃生機門。E-195和190一樣採用通用電氣的CF34系列中推力最大的CF34-10E[渦扇發動機](https://zh.wikipedia.org/wiki/渦扇發動機 "wikilink")。E-195的首飛是在2004年12月7日完成。E-195設有加長航程的LR型，航程增加至3334公里。
 
 ### Lineage 1000
 
 **Lineage
-1000**是E-190的[公務機版本](../Page/公務機.md "wikilink")，於2006年投產。它增加了一個油箱，航程增加至7800公里，最大起飛重量增加至55000kg，載客量為19人。相比其它公務機，它的特點是擁有更長更寬闊的機身。
+1000**是E-190的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")，於2006年投產。它增加了一個油箱，航程增加至7800公里，最大起飛重量增加至55000kg，載客量為19人。相比其它公務機，它的特點是擁有更長更寬闊的機身。
 
 ## 規格\[4\]
 
@@ -294,8 +294,8 @@ AR：4,077公里（2,201海里）</p></td>
 
 ### 2013年LAM莫三比克航空470號班機空難
 
-2013年11月29日，一架自[莫三比克](../Page/莫三比克.md "wikilink")[馬普托國際機場起飛](../Page/馬普托國際機場.md "wikilink")，原定降落於[安哥拉](../Page/安哥拉.md "wikilink")[羅安達的](../Page/羅安達.md "wikilink")[二月四日國際機場的E](../Page/二月四日國際機場.md "wikilink")-190（[LAM莫桑比克航空](../Page/LAM莫桑比克航空.md "wikilink")）在[納米比亞坠毁](../Page/納米比亞.md "wikilink")。班機準時起飛，但未能順利抵達目的地\[9\]
-，最終在11月30日時於[納米比亞的](../Page/納米比亞.md "wikilink")[巴布瓦塔國家公園境內發現殘骸](../Page/巴布瓦塔國家公園.md "wikilink")，機上33人確定全數罹難。现场当时天气情况恶劣。但2013年12月的報告顯示，此空難可能為機長刻意造成，機長鎖住機艙不讓副駕駛進入，且無視於警告訊號。\[10\]
+2013年11月29日，一架自[莫三比克](https://zh.wikipedia.org/wiki/莫三比克 "wikilink")[馬普托國際機場起飛](https://zh.wikipedia.org/wiki/馬普托國際機場 "wikilink")，原定降落於[安哥拉](../Page/安哥拉.md "wikilink")[羅安達的](https://zh.wikipedia.org/wiki/羅安達 "wikilink")[二月四日國際機場的E](https://zh.wikipedia.org/wiki/二月四日國際機場 "wikilink")-190（[LAM莫桑比克航空](https://zh.wikipedia.org/wiki/LAM莫桑比克航空 "wikilink")）在[納米比亞坠毁](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")。班機準時起飛，但未能順利抵達目的地\[9\]
+，最終在11月30日時於[納米比亞的](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")[巴布瓦塔國家公園境內發現殘骸](https://zh.wikipedia.org/wiki/巴布瓦塔國家公園 "wikilink")，機上33人確定全數罹難。现场当时天气情况恶劣。但2013年12月的報告顯示，此空難可能為機長刻意造成，機長鎖住機艙不讓副駕駛進入，且無視於警告訊號。\[10\]
 
 ### 2018年墨西哥连接航空2431号班机事故
 

@@ -1,7 +1,7 @@
 [Playstationhome_logo.jpg](https://zh.wikipedia.org/wiki/File:Playstationhome_logo.jpg "fig:Playstationhome_logo.jpg")
 
 **PlayStation
-Home**（註冊商標：Home）是[索尼電腦娛樂](../Page/索尼電腦娛樂.md "wikilink")（SCE）於2005年發佈，提供給[PlayStation
+Home**（註冊商標：Home）是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCE）於2005年發佈，提供給[PlayStation
 3用戶的一個網上社交平台](../Page/PlayStation_3.md "wikilink")，預定2008年第一季透過「[PlayStation
 Store](../Page/PlayStation_Store.md "wikilink")」採用免費下載方式發放給所有地方的用戶。2013年8月30日，索尼宣佈由
 SCEJA 所管轄的 PlayStation Home 服務，將於 2013 年 9 月後停止日本區域新內容的上架、2014 年 3
@@ -11,7 +11,7 @@ Home将正式停止服务。
 ## 歷史
 
   - 2007年3月8日，PLAYSTATION 3專用網上社交平臺「Home」正式發表。
-  - 2007年[E3電玩展](../Page/E3電玩展.md "wikilink")，索尼電腦娛樂宣佈「Home」將會於2007年10月10日推出。
+  - 2007年[E3電玩展](https://zh.wikipedia.org/wiki/E3電玩展 "wikilink")，索尼電腦娛樂宣佈「Home」將會於2007年10月10日推出。
   - 2007年9月20日，索尼電腦娛樂宣佈「Home」將會延期至2008年第一季推出，原因是製作小組需要更多時間完善及進行本地化的工作。
   - 2015年3月31日，PlayStation Home正式停止服务。
 
@@ -46,7 +46,7 @@ Store](../Page/PlayStation_Store.md "wikilink")」（PS Store）或透過特定�
 
 ## 相關條目
 
-  - [索尼電腦娛樂](../Page/索尼電腦娛樂.md "wikilink")
+  - [索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")
   - [PlayStation 3](../Page/PlayStation_3.md "wikilink")
   - [PlayStation 3遊戲列表](../Page/PlayStation_3遊戲列表.md "wikilink")
 

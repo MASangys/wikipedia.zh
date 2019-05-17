@@ -11,7 +11,7 @@ latest_test_version = 2.99.7 | latest_test_date =  | influenced_by
 | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =
 <http://gambas.sourceforge.net/> }}
 
-**Gambas**是一个面向对象的[BASIC语言分支和一个附带的](../Page/BASIC.md "wikilink")[IDE](../Page/IDE.md "wikilink")，能在[Linux以及其他](../Page/Linux.md "wikilink")[类Unix系统计算机](../Page/类Unix系统.md "wikilink")[操作系统中运行](../Page/操作系统.md "wikilink")。它提供一个与[Visual
+**Gambas**是一个面向对象的[BASIC语言分支和一个附带的](../Page/BASIC.md "wikilink")[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，能在[Linux以及其他](../Page/Linux.md "wikilink")[类Unix系统计算机](../Page/类Unix系统.md "wikilink")[操作系统中运行](../Page/操作系统.md "wikilink")。它提供一个与[Visual
 Basic相似的用户体验](../Page/Visual_Basic.md "wikilink")。Gambas被设计成为一个针对迁移到Linux平台上Visual
 Basic开发者的Visual Basic替代产品。
 
@@ -19,19 +19,20 @@ Basic开发者的Visual Basic替代产品。
 Basic*的[递归缩写](../Page/递归缩写.md "wikilink")。*Gambas*在[西班牙语中是表示](../Page/西班牙语.md "wikilink")[虾](../Page/虾.md "wikilink")，这也是Gambas标志的由来。
 
 Gambas在1999年由[Benoît
-Minisini在](../Page/Benoît_Minisini.md "wikilink")[巴黎开始开发](../Page/巴黎.md "wikilink")，Gambas是[自由软件](../Page/自由软件.md "wikilink")，在[GNU通用公共许可证下发布](../Page/GNU通用公共许可证.md "wikilink")。
+Minisini在](https://zh.wikipedia.org/wiki/Benoît_Minisini "wikilink")[巴黎开始开发](../Page/巴黎.md "wikilink")，Gambas是[自由软件](../Page/自由软件.md "wikilink")，在[GNU通用公共许可证下发布](../Page/GNU通用公共许可证.md "wikilink")。
 
 ## 功能
 
 使用Gambas，开发者能够：
 
   - 使用数据库，例如MySQL或PostgreSQL
-  - 建立KDE（QT）和 GNOME GTK+程序通过[DCOP](../Page/DCOP.md "wikilink")
+  - 建立KDE（QT）和 GNOME
+    GTK+程序通过[DCOP](https://zh.wikipedia.org/wiki/DCOP "wikilink")
   - 转化原有的Visual Basic程序并使之在Linux上运行
   - 开发网络解决方案
   - 创建CGI网页应用程序
 
-Gambas被设计用以开发[图形用户界面应用程序](../Page/图形用户界面.md "wikilink")，使用[Qt或](../Page/Qt.md "wikilink")[GTK+工具包](../Page/GTK+.md "wikilink")。Gambas
+Gambas被设计用以开发[图形用户界面应用程序](../Page/图形用户界面.md "wikilink")，使用[Qt或](../Page/Qt.md "wikilink")[GTK+工具包](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。Gambas
 IDE也是用Gambas自己写成的。Gambas包括一个用以帮助创建用户界面的GUI设计工具。
 
 ## 与Visual Basic的不同
@@ -43,7 +44,7 @@ Basic则可以从0或1开始到但到n结束
 
 ## 开发
 
-如果要运行用Gambas开发的程序，需要Gambas[运行时环境](../Page/运行时.md "wikilink")。
+如果要运行用Gambas开发的程序，需要Gambas[运行时环境](https://zh.wikipedia.org/wiki/运行时 "wikilink")。
 
 Gambas被许多Linux发行版的软件库收录。有一个Windows版本的Gambas能勉强运行在[Cygwin环境中](../Page/Cygwin.md "wikilink")，但图形应用程序不能在Windows中工作。
 

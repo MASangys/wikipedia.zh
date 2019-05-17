@@ -1,5 +1,5 @@
 **佳能EOS 50D** 是一款 15.1 百万像素的
-[數位單眼相機](../Page/數位單眼相機.md "wikilink")，是[佳能公司](../Page/佳能公司.md "wikilink")[EOS](../Page/Canon_EOS.md "wikilink")
+[數位單眼相機](../Page/數位單眼相機.md "wikilink")，是[佳能公司](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[EOS](https://zh.wikipedia.org/wiki/Canon_EOS "wikilink")
 产品线中 [佳能 EOS
 40D的继任者](../Page/佳能_EOS_40D.md "wikilink")，在2008年8月26日正式发布，并于2008年九月底上市\[1\]。
 

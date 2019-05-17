@@ -1,14 +1,14 @@
 **Windows Template
-Library**（**WTL**）是一個用於[Win32研發的](../Page/Win32.md "wikilink")[物件導向的](../Page/面向对象程序设计.md "wikilink")[C++](../Page/C++.md "wikilink")[模板](../Page/模板_\(C++\).md "wikilink")[函式庫](../Page/库.md "wikilink")。WTL由[Microsoft的員工Nenad](../Page/Microsoft.md "wikilink")
+Library**（**WTL**）是一個用於[Win32研發的](https://zh.wikipedia.org/wiki/Win32 "wikilink")[物件導向的](../Page/面向对象程序设计.md "wikilink")[C++](../Page/C++.md "wikilink")[模板](../Page/模板_\(C++\).md "wikilink")[函式庫](https://zh.wikipedia.org/wiki/库 "wikilink")。WTL由[Microsoft的員工Nenad](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 Stefanovic創造，起初作為內部使用，之後發行為[Visual
-Studio和Win](../Page/Visual_Studio.md "wikilink")32 Framework
-SDK的不支援增益集。它主要被開發作為[Microsoft Foundation
-Classes的輕量化替代品](../Page/MFC.md "wikilink")，以微軟[ATL函式庫](../Page/Active_Template_Library.md "wikilink")（另一個被應用在創造[COM與](../Page/COM.md "wikilink")[ActiveX的輕量函式庫](../Page/ActiveX.md "wikilink")）為基礎。
+Studio和Win](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")32
+Framework SDK的不支援增益集。它主要被開發作為[Microsoft Foundation
+Classes的輕量化替代品](https://zh.wikipedia.org/wiki/MFC "wikilink")，以微軟[ATL函式庫](https://zh.wikipedia.org/wiki/Active_Template_Library "wikilink")（另一個被應用在創造[COM與](https://zh.wikipedia.org/wiki/COM "wikilink")[ActiveX的輕量函式庫](../Page/ActiveX.md "wikilink")）為基礎。
 
 ## 簡介
 
-WTL提供實現不同用戶介面元件的支援，從框架和彈出式視窗，到[MDI](../Page/MDI.md "wikilink")、標準和通用控制項、通用對話方塊、屬性工作表和頁面、[图形设备接口物件](../Page/图形设备接口.md "wikilink")，和其他通用的用戶介面元件，像可捲動的視窗、分割視窗、工具列和通用條。
-WTL的主要目標是實現既小而有效率的程式碼，在以大小和速度上接近「純粹的」[SDK程式的同時](../Page/SDK.md "wikilink")，提供更高階和更有彈性的物件模型給程式開發者。
+WTL提供實現不同用戶介面元件的支援，從框架和彈出式視窗，到[MDI](https://zh.wikipedia.org/wiki/MDI "wikilink")、標準和通用控制項、通用對話方塊、屬性工作表和頁面、[图形设备接口物件](https://zh.wikipedia.org/wiki/图形设备接口 "wikilink")，和其他通用的用戶介面元件，像可捲動的視窗、分割視窗、工具列和通用條。
+WTL的主要目標是實現既小而有效率的程式碼，在以大小和速度上接近「純粹的」[SDK程式的同時](https://zh.wikipedia.org/wiki/SDK "wikilink")，提供更高階和更有彈性的物件模型給程式開發者。
 其他一些class也有包含，像是與MFC的`CString`語法相容的String wrapper以及一些Templated
 collection。
 
@@ -19,11 +19,11 @@ Project](http://www.viksoe.dk/code/wtldoc.htm)*的專案正在嘗試建立這個
 
 ## 授權
 
-WTL是個模板函式庫，因而其內容建基於原始碼，但它原始的授權方式卻類似於[MFC原始碼所採用的方式](../Page/MFC.md "wikilink")，差在它沒有包含使用與散佈上的限制。在2004年時微軟讓所有的[原始碼以](../Page/原始碼.md "wikilink")[Common
+WTL是個模板函式庫，因而其內容建基於原始碼，但它原始的授權方式卻類似於[MFC原始碼所採用的方式](https://zh.wikipedia.org/wiki/MFC "wikilink")，差在它沒有包含使用與散佈上的限制。在2004年時微軟讓所有的[原始碼以](https://zh.wikipedia.org/wiki/原始碼 "wikilink")[Common
 Public
-License方式授權並在](../Page/Common_Public_License.md "wikilink")[SourceForge上釋出原始碼](../Page/SourceForge.md "wikilink")。在版本7.5以後，這個函式庫也以[Microsoft
+License方式授權並在](https://zh.wikipedia.org/wiki/Common_Public_License "wikilink")[SourceForge上釋出原始碼](../Page/SourceForge.md "wikilink")。在版本7.5以後，這個函式庫也以[Microsoft
 Permissive
-License的方式作為](../Page/Microsoft_Permissive_License.md "wikilink")[多重授權](../Page/多重授權.md "wikilink")。[1](https://web.archive.org/web/20070826011032/http://www.microsoft.com/resources/sharedsource/licensingbasics/permissivelicense.mspx)
+License的方式作為](https://zh.wikipedia.org/wiki/Microsoft_Permissive_License "wikilink")[多重授權](https://zh.wikipedia.org/wiki/多重授權 "wikilink")。[1](https://web.archive.org/web/20070826011032/http://www.microsoft.com/resources/sharedsource/licensingbasics/permissivelicense.mspx)
 
 ## 参考文献
 
@@ -58,7 +58,7 @@ License的方式作為](../Page/Microsoft_Permissive_License.md "wikilink")[多�
 
 ## 参见
 
-  - [MFC](../Page/MFC.md "wikilink")（微软基础类库）
+  - [MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")（微软基础类库）
 
 {{-}}
 

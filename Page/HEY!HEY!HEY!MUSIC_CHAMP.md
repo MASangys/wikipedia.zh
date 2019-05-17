@@ -34,8 +34,8 @@ TOWN所主持的音樂節目](../Page/DOWN_TOWN.md "wikilink")。原播出時間
   - 書いたんか?\!
   - RADIO HEY\!HEY\!HEY\!
   - クイズミュージックミクスチャー
-  - アーティストこの人と言えば！（主持：濱田、[安藤幸代主播](../Page/安藤幸代.md "wikilink")）
-  - エンタメHEADLINE（最新音樂情報）（主持：[渡邊和洋主播](../Page/渡邊和洋.md "wikilink")）
+  - アーティストこの人と言えば！（主持：濱田、[安藤幸代主播](https://zh.wikipedia.org/wiki/安藤幸代 "wikilink")）
+  - エンタメHEADLINE（最新音樂情報）（主持：[渡邊和洋主播](https://zh.wikipedia.org/wiki/渡邊和洋 "wikilink")）
   - HEY\!HEY\!HEY\!タイムマシン（19XX年的榜單）
   - ダウンタウンとチャンプ、ゲストによるトーク&ライブ
   - 歌手の殿堂！ザ・レジェンド

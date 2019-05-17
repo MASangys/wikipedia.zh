@@ -1,6 +1,6 @@
-**Modbus**是一种串行[通信协议](../Page/通信协议.md "wikilink")，是Modicon公司（现在的[施耐德电气](../Page/施耐德电气.md "wikilink")
+**Modbus**是一种串行[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，是Modicon公司（现在的[施耐德电气](../Page/施耐德电气.md "wikilink")
 Schneider
-Electric）于1979年为使用[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")（PLC）通信而发表。Modbus已经成为工业领域通信协议的[業界標準](../Page/De_facto.md "wikilink")（De
+Electric）于1979年为使用[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")（PLC）通信而发表。Modbus已经成为工业领域通信协议的[業界標準](https://zh.wikipedia.org/wiki/De_facto "wikilink")（De
 facto），并且现在是工业电子设备之间常用的连接方式。\[1\] Modbus比其他通信协议使用的更广泛的主要原因有：
 
 1.  公开发表并且无版权要求
@@ -8,24 +8,24 @@ facto），并且现在是工业电子设备之间常用的连接方式。\[1\] 
 3.  对供应商来说，修改移动原生的位元或字节没有很多限制
 
 Modbus允许多个 (大約240個)
-设备连接在同一个网络上进行通信，举个例子，一个由测量温度和湿度的装置，并且将结果发送给[计算机](../Page/计算机.md "wikilink")。在[数据采集与监视控制系统](../Page/数据采集与监视控制系统.md "wikilink")（SCADA）中，Modbus通常用来连接监控计算机和[远程终端控制系统](../Page/远程终端控制系统.md "wikilink")（RTU）。
+设备连接在同一个网络上进行通信，举个例子，一个由测量温度和湿度的装置，并且将结果发送给[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")。在[数据采集与监视控制系统](https://zh.wikipedia.org/wiki/数据采集与监视控制系统 "wikilink")（SCADA）中，Modbus通常用来连接监控计算机和[远程终端控制系统](https://zh.wikipedia.org/wiki/远程终端控制系统 "wikilink")（RTU）。
 
 ## 协议版本
 
-Modbus协议目前存在用于[串口](../Page/串口.md "wikilink")、[以太网以及其他支持](../Page/以太网.md "wikilink")[互联网协议的网络的版本](../Page/互联网协议.md "wikilink")。
+Modbus协议目前存在用于[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")、[以太网以及其他支持](../Page/以太网.md "wikilink")[互联网协议的网络的版本](https://zh.wikipedia.org/wiki/互联网协议 "wikilink")。
 
 大多数Modbus设备通信通过串口[EIA-485物理层进行](../Page/EIA-485.md "wikilink")\[2\]。
 
 对于串行连接，存在两个变种，它们在数值数据表示不同和协议细节上略有不同。Modbus RTU是一种紧凑的，采用二进制表示数据的方式，Modbus
-ASCII是一种人类可读的，冗长的表示方式。这两个变种都使用[串行通訊](../Page/串行通訊.md "wikilink")（serial
-communication）方式。RTU格式后续的命令／数据带有[循环冗余校验的校验和](../Page/循环冗余校验.md "wikilink")，而ASCII格式采用[纵向冗余校验的校验和](../Page/纵向冗余校验.md "wikilink")。被配置为RTU变种的节点不会和设置为ASCII变种的节点通信，反之亦然。
+ASCII是一种人类可读的，冗长的表示方式。这两个变种都使用[串行通訊](https://zh.wikipedia.org/wiki/串行通訊 "wikilink")（serial
+communication）方式。RTU格式后续的命令／数据带有[循环冗余校验的校验和](https://zh.wikipedia.org/wiki/循环冗余校验 "wikilink")，而ASCII格式采用[纵向冗余校验的校验和](https://zh.wikipedia.org/wiki/纵向冗余校验 "wikilink")。被配置为RTU变种的节点不会和设置为ASCII变种的节点通信，反之亦然。
 
-对于通过[TCP/IP](../Page/TCP/IP.md "wikilink")（例如[以太网](../Page/以太网.md "wikilink")）的连接，存在多个Modbus/TCP变种，这种方式不需要[校验和计算](../Page/校验和.md "wikilink")。
+对于通过[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")（例如[以太网](../Page/以太网.md "wikilink")）的连接，存在多个Modbus/TCP变种，这种方式不需要[校验和计算](https://zh.wikipedia.org/wiki/校验和 "wikilink")。
 
 对于所有的这三种通信协议在数据模型和功能调用上都是相同的，只有封装方式是不同的。
 
 Modbus有一个扩展版本Modbus
-Plus（Modbus+或者MB+），不過此協定是Modicon专有的，和Modbus不同。它需要一个专门的协处理器来处理類似[HDLC的高速令牌旋转](../Page/HDLC.md "wikilink")。它使用1Mbit/s的[双绞线](../Page/双绞线.md "wikilink")，并且每个节点都有转换隔离装置，是一种采用转换／边缘触发而不是电压／水平触发的装置。连接Modbus
+Plus（Modbus+或者MB+），不過此協定是Modicon专有的，和Modbus不同。它需要一个专门的协处理器来处理類似[HDLC的高速令牌旋转](https://zh.wikipedia.org/wiki/HDLC "wikilink")。它使用1Mbit/s的[双绞线](../Page/双绞线.md "wikilink")，并且每个节点都有转换隔离装置，是一种采用转换／边缘触发而不是电压／水平触发的装置。连接Modbus
 Plus到计算机需要特别的接口，通常是支持ISA（SA85），PCI或者PCMCIA总线的板卡。
 
 ## 通信和设备

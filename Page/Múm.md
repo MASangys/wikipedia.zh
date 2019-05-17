@@ -1,4 +1,4 @@
-**múm**，[冰島的](../Page/冰島.md "wikilink")[實驗](../Page/實驗音樂.md "wikilink")[音樂團體](../Page/樂團.md "wikilink")。
+**múm**，[冰島的](https://zh.wikipedia.org/wiki/冰島 "wikilink")[實驗](../Page/實驗音樂.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 作品列表
 
@@ -13,7 +13,7 @@
 
 ## 台灣巡演
 
-2005年12月3日在[這牆音樂藝文展演空間](../Page/這牆音樂藝文展演空間.md "wikilink")；2013年6月11日在[Legacy](../Page/Legacy.md "wikilink")。
+2005年12月3日在[這牆音樂藝文展演空間](../Page/這牆音樂藝文展演空間.md "wikilink")；2013年6月11日在[Legacy](https://zh.wikipedia.org/wiki/Legacy "wikilink")。
 
 ## 外部連結
 

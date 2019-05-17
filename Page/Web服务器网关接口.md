@@ -3,18 +3,18 @@ Interface**，缩写为WSGI）是为[Python语言定义的](../Page/Python.md "w
 
 ## 发展背景
 
-以前，如何选择合适的Web应用程序框架成为困扰Python初学者的一个问题，这是因为，一般而言，Web应用框架的选择将限制可用的[Web服务器的选择](../Page/Web服务器.md "wikilink")，反之亦然。那时的Python应用程序通常是为[CGI](../Page/通用网关接口.md "wikilink")，[FastCGI](../Page/FastCGI.md "wikilink")，[mod_python中的一个而设计](../Page/mod_python.md "wikilink")，甚至是为特定Web服务器的自定义的API接口而设计的。
+以前，如何选择合适的Web应用程序框架成为困扰Python初学者的一个问题，这是因为，一般而言，Web应用框架的选择将限制可用的[Web服务器的选择](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")，反之亦然。那时的Python应用程序通常是为[CGI](../Page/通用网关接口.md "wikilink")，[FastCGI](../Page/FastCGI.md "wikilink")，[mod_python中的一个而设计](https://zh.wikipedia.org/wiki/mod_python "wikilink")，甚至是为特定Web服务器的自定义的API接口而设计的。
 
 WSGI\[1\]
 （有时发音作'wiz-gee'）是作为Web服务器与Web应用程序或应用框架之间的一种低级别的[接口](../Page/介面_\(程式設計\).md "wikilink")，以提升可移植Web应用开发的共同点。WSGI是基于现存的[CGI标准而设计的](../Page/通用网关接口.md "wikilink")。
 
 ## 规范概览
 
-WSGI區分為兩個部份：一為「[伺服器](../Page/伺服器.md "wikilink")」或「-{zh-cn:网关;zh-tw:閘道}-」，另一為「應用程序」或「應用框架」。在處理一個WSGI請求時，伺服器會為應用程序提供環境資訊及一個回呼函數（Callback
+WSGI區分為兩個部份：一為「[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")」或「-{zh-cn:网关;zh-tw:閘道}-」，另一為「應用程序」或「應用框架」。在處理一個WSGI請求時，伺服器會為應用程序提供環境資訊及一個回呼函數（Callback
 Function）。當應用程序完成處理請求後，透過前述的回呼函數，將結果回傳給伺服器。
 
 所谓的 *WSGI
--{zh-cn:[中间件](../Page/中间件.md "wikilink");zh-tw:[中介軟體](../Page/中介軟體.md "wikilink")}-*同时实现了API的两方，因此可以在WSGI服务器和WSGI应用之间起调解作用：从Web服务器的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演应用程序，而从应用程序的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演服务器。“-{zh-cn:中间件;zh-tw:中介軟體}-”组件可以执行以下功能：
+-{zh-cn:[中间件](../Page/中间件.md "wikilink");zh-tw:[中介軟體](https://zh.wikipedia.org/wiki/中介軟體 "wikilink")}-*同时实现了API的两方，因此可以在WSGI服务器和WSGI应用之间起调解作用：从Web服务器的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演应用程序，而从应用程序的角度来说，-{zh-cn:中间件;zh-tw:中介軟體}-扮演服务器。“-{zh-cn:中间件;zh-tw:中介軟體}-”组件可以执行以下功能：
 
   - 重写[环境变量后](../Page/环境变量.md "wikilink")，根据目标[URL](../Page/统一资源定位符.md "wikilink")，将请求消息路由到不同的应用对象。
   - 允许在一个[进程中同时运行多个应用程序或应用框架](../Page/行程.md "wikilink")。
@@ -68,25 +68,26 @@ status, headers, body = call_application(app, {...environ...})
 
 支持WSGI的[Web应用框架有很多](../Page/Web应用框架.md "wikilink")：
 
-  - [BlueBream](../Page/BlueBream.md "wikilink")
+  - [BlueBream](https://zh.wikipedia.org/wiki/BlueBream "wikilink")
   - bobo\[2\]
   - Bottle\[3\]
-  - [CherryPy](../Page/CherryPy.md "wikilink")
+  - [CherryPy](https://zh.wikipedia.org/wiki/CherryPy "wikilink")
   - [Django](../Page/Django.md "wikilink")\[4\]
   - [Flask](../Page/Flask.md "wikilink")
-  - [Google App Engine](../Page/Google_App_Engine.md "wikilink")'s
+  - [Google App
+    Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")'s
     webapp2
   - [Gunicorn](http://gunicorn.org/)
   - prestans\[5\]
-  - [Pylons](../Page/Pylons_project.md "wikilink")
-  - [Pyramid](../Page/Pyramid_\(web_framework\).md "wikilink")
+  - [Pylons](https://zh.wikipedia.org/wiki/Pylons_project "wikilink")
+  - [Pyramid](https://zh.wikipedia.org/wiki/Pyramid_\(web_framework\) "wikilink")
   - restlite\[6\]
-  - [Tornado](../Page/Tornado_\(web_server\).md "wikilink")
+  - [Tornado](https://zh.wikipedia.org/wiki/Tornado_\(web_server\) "wikilink")
   - [Trac](../Page/Trac.md "wikilink")
   - [TurboGears](../Page/TurboGears.md "wikilink")
   - [Uliweb](../Page/Uliweb.md "wikilink")\[7\]
-  - [web.py](../Page/web.py.md "wikilink")\[8\]
-  - [web2py](../Page/web2py.md "wikilink")
+  - [web.py](https://zh.wikipedia.org/wiki/web.py "wikilink")\[8\]
+  - [web2py](https://zh.wikipedia.org/wiki/web2py "wikilink")
   - weblayer\[9\]
   - Werkzeug\[10\]
 
@@ -94,19 +95,19 @@ status, headers, body = call_application(app, {...environ...})
 
   - 2003年： 原初的Python版本 \[11\]
   - 2007年：
-    [Rack](../Page/Rack.md "wikilink")，[Ruby版本](../Page/Ruby.md "wikilink")
+    [Rack](https://zh.wikipedia.org/wiki/Rack "wikilink")，[Ruby版本](../Page/Ruby.md "wikilink")
     \[12\]
   - 2008年： Lua
-    [WSAPI](../Page/WSAPI.md "wikilink")，[Lua版本](../Page/Lua.md "wikilink")
+    [WSAPI](https://zh.wikipedia.org/wiki/WSAPI "wikilink")，[Lua版本](../Page/Lua.md "wikilink")
     \[13\]
   - 2009年：
-    [JSGI](../Page/JSGI.md "wikilink")，[JavaScript版本](../Page/JavaScript.md "wikilink")
+    [JSGI](https://zh.wikipedia.org/wiki/JSGI "wikilink")，[JavaScript版本](../Page/JavaScript.md "wikilink")
     \[14\]
   - 2009年：
-    [PSGI](../Page/PSGI.md "wikilink")，[Perl版本](../Page/Perl.md "wikilink")
+    [PSGI](https://zh.wikipedia.org/wiki/PSGI "wikilink")，[Perl版本](../Page/Perl.md "wikilink")
     \[15\]
   - 2010年：
-    [Hack](../Page/Hack.md "wikilink")，[Haskell版本](../Page/Haskell.md "wikilink")
+    [Hack](https://zh.wikipedia.org/wiki/Hack "wikilink")，[Haskell版本](../Page/Haskell.md "wikilink")
     \[16\]
 
 ## 注释

@@ -1,19 +1,19 @@
 [W_Square_(full_view_and_sky_blue_version).jpg](https://zh.wikipedia.org/wiki/File:W_Square_\(full_view_and_sky_blue_version\).jpg "fig:W_Square_(full_view_and_sky_blue_version).jpg")
  **W
 Square**是[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[軒尼詩道的一幢](../Page/軒尼詩道.md "wikilink")[商場](../Page/商場.md "wikilink")[甲級寫字樓](../Page/甲級寫字樓.md "wikilink")，毗鄰[集成中心](../Page/集成中心.md "wikilink")。W
-Square前身為**東亞銀行灣仔大廈**，1978年落成，在2002年前曾是[東亞銀行的主要辦公大樓](../Page/東亞銀行.md "wikilink")，因為業主易手，及外牆[裝修改形象而正式易名為W](../Page/裝修.md "wikilink")
-Square。現在由[香港上市公司](../Page/香港上市公司.md "wikilink")[永泰地產](../Page/永泰地產.md "wikilink")（）、[富聯國際集團](../Page/富聯國際集團.md "wikilink")、[南聯地產控股等財團買入](../Page/南聯地產控股.md "wikilink")，改裝作為[投資物業](../Page/投資物業.md "wikilink")。W
-Square基座7層租客包括[板長壽司](../Page/板長壽司.md "wikilink")、[星巴克](../Page/星巴克.md "wikilink")，[美心食品](../Page/美心食品.md "wikilink")[八喜
+Square前身為**東亞銀行灣仔大廈**，1978年落成，在2002年前曾是[東亞銀行的主要辦公大樓](https://zh.wikipedia.org/wiki/東亞銀行 "wikilink")，因為業主易手，及外牆[裝修改形象而正式易名為W](https://zh.wikipedia.org/wiki/裝修 "wikilink")
+Square。現在由[香港上市公司](https://zh.wikipedia.org/wiki/香港上市公司 "wikilink")[永泰地產](../Page/永泰地產.md "wikilink")（）、[富聯國際集團](https://zh.wikipedia.org/wiki/富聯國際集團 "wikilink")、[南聯地產控股等財團買入](https://zh.wikipedia.org/wiki/南聯地產控股 "wikilink")，改裝作為[投資物業](https://zh.wikipedia.org/wiki/投資物業 "wikilink")。W
+Square基座7層租客包括[板長壽司](https://zh.wikipedia.org/wiki/板長壽司 "wikilink")、[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，[美心食品](../Page/美心食品.md "wikilink")[八喜
 8
-Happiness及](../Page/八喜_8_Happiness.md "wikilink")[大家樂等](../Page/大家樂.md "wikilink")。
+Happiness及](https://zh.wikipedia.org/wiki/八喜_8_Happiness "wikilink")[大家樂等](../Page/大家樂.md "wikilink")。
 
 2018年2月，永倫集團以28.488億港元向永泰地產購入W Square全幢。\[1\]
 
 ## 鄰近
 
   - [杜老誌道](../Page/杜老誌道.md "wikilink")
-  - [中國人壽大廈](../Page/中國人壽大廈.md "wikilink")
-  - [北海中心](../Page/北海中心.md "wikilink")
+  - [中國人壽大廈](https://zh.wikipedia.org/wiki/中國人壽大廈 "wikilink")
+  - [北海中心](https://zh.wikipedia.org/wiki/北海中心 "wikilink")
   - [灣仔道](../Page/灣仔道.md "wikilink")
 
 ## 圖集

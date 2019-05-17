@@ -1,5 +1,5 @@
 **精密國際AWM**（**Accuracy International Arctic Warfare
-Magnum**）為英國精密國際研發的北極作戰系列的[狙擊步槍](../Page/狙擊步槍.md "wikilink")，另稱**AWSM**（**Accuracy
+Magnum**）為英國精密國際研發的北極作戰系列的[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，另稱**AWSM**（**Accuracy
 International Arctic Warfare Super Magnum**），AWSM較常指搭載著[.338 Lapua
 Magnum的AWM](../Page/.338拉普麥格農.md "wikilink")。
 
@@ -43,20 +43,20 @@ Magnum的AWM](../Page/.338拉普麥格農.md "wikilink")。
 
 ### 英國陸軍
 
-[英國陸軍主要把搭載著](../Page/英國陸軍.md "wikilink")[.338 Lapua
+[英國陸軍主要把搭載著](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[.338 Lapua
 Magnum的AWSM改裝並且命名為](../Page/.338拉普麥格農.md "wikilink")**L115A1**，L115A1也搭載著Schmidt
 & Bender 3-12 × 50 PM
 II瞄準鏡，子彈口徑則為[7.62×51毫米NATO](../Page/7.62×51mm_NATO.md "wikilink")，就如同以前使用的PM步槍（英軍命名為L96A1），至於L96A1的改良版本－L118A1，也已經在一些軍事行動中使用過。
 
-英軍主要是今年度才使用AWSM供[皇家海軍或是陸軍於](../Page/皇家海軍.md "wikilink")[阿富汗](../Page/阿富汗.md "wikilink")、[伊拉克等地使用](../Page/伊拉克.md "wikilink")。
+英軍主要是今年度才使用AWSM供[皇家海軍或是陸軍於](https://zh.wikipedia.org/wiki/皇家海軍 "wikilink")[阿富汗](../Page/阿富汗.md "wikilink")、[伊拉克等地使用](../Page/伊拉克.md "wikilink")。
 
-[2009年11月](../Page/2009年11月.md "wikilink")，陆军中士[克雷格·哈里遜在阿富汗南部](../Page/克雷格·哈里遜.md "wikilink")[赫尔曼德省](../Page/赫尔曼德省.md "wikilink")[穆萨堡山区使用一支](../Page/穆萨堡.md "wikilink")**L115A3**在2,475米（8,120英尺）外射杀两名塔利班武装人员，创下世界远程狙击的新纪录\[1\]，至2017年6月才被加拿大狙擊手用[C15狙擊步槍以](../Page/TAC-50狙擊步槍.md "wikilink")3540米的距離打破。\[2\]。
+[2009年11月](../Page/2009年11月.md "wikilink")，陆军中士[克雷格·哈里遜在阿富汗南部](https://zh.wikipedia.org/wiki/克雷格·哈里遜 "wikilink")[赫尔曼德省](../Page/赫尔曼德省.md "wikilink")[穆萨堡山区使用一支](../Page/穆萨堡.md "wikilink")**L115A3**在2,475米（8,120英尺）外射杀两名塔利班武装人员，创下世界远程狙击的新纪录\[1\]，至2017年6月才被加拿大狙擊手用[C15狙擊步槍以](../Page/TAC-50狙擊步槍.md "wikilink")3540米的距離打破。\[2\]。
 
 ### 德國陸軍
 
 自1998年[德國聯邦國防軍製作AWM](../Page/德國聯邦國防軍.md "wikilink")-F並且搭載著[.300
 Winchester
-Magnum](../Page/.300_Winchester_Magnum.md "wikilink")（7.62×67毫米）子彈、德國廠商[蔡司公司](../Page/蔡司公司.md "wikilink")3—12
+Magnum](https://zh.wikipedia.org/wiki/.300_Winchester_Magnum "wikilink")（7.62×67毫米）子彈、德國廠商[蔡司公司](../Page/蔡司公司.md "wikilink")3—12
 × 56
 SSG光學瞄準鏡，並且命名為G22。G22有可摺疊的[槍托以及緊急用金屬準星](../Page/槍托.md "wikilink")，德國聯邦國防軍聲稱G22的射程1,100公尺。
 
@@ -70,8 +70,8 @@ AWSM主要自1997年開始供荷蘭皇家陸軍使用，包括底下的特種部
 ### 挪威特種部隊
 
 主要由海軍特種部隊、陸軍特種部隊狙擊手做為主要槍枝，搭載[.300 Winchester
-Magnum子彈](../Page/.300_Winchester_Magnum.md "wikilink")、Schmidt &
-Bender瞄準鏡。
+Magnum子彈](https://zh.wikipedia.org/wiki/.300_Winchester_Magnum "wikilink")、Schmidt
+& Bender瞄準鏡。
 
 ## 参考
 

@@ -1,9 +1,9 @@
 **quanp**
-(kuàngpū)：[RICOH开发的](../Page/理光.md "wikilink")[网络存储系统](../Page/网络存储系统.md "wikilink")。
+(kuàngpū)：[RICOH开发的](../Page/理光.md "wikilink")[网络存储系统](https://zh.wikipedia.org/wiki/网络存储系统 "wikilink")。
 
 ## 简介
 
-2008年5月12日[RICOH独立开发的](../Page/理光.md "wikilink")[网络存储系统quanp正式对外公开](../Page/网络存储系统.md "wikilink")。用户可以通过网络进行免费注册，成为quanp的试用用户，体验quanp的快捷和便利。试用用户拥有1GB的网络存储空间，文件的上传/下载等基本功能与正式（付费）用户没有区别。正式用户分为两种：标准用户（10GB存储空间）和超级用户（100GB存储空间）。正式用户拥有允许他人访问并使用自己开设存储空间，手机访问等功能，并且可以获得良好的售后服务。
+2008年5月12日[RICOH独立开发的](../Page/理光.md "wikilink")[网络存储系统quanp正式对外公开](https://zh.wikipedia.org/wiki/网络存储系统 "wikilink")。用户可以通过网络进行免费注册，成为quanp的试用用户，体验quanp的快捷和便利。试用用户拥有1GB的网络存储空间，文件的上传/下载等基本功能与正式（付费）用户没有区别。正式用户分为两种：标准用户（10GB存储空间）和超级用户（100GB存储空间）。正式用户拥有允许他人访问并使用自己开设存储空间，手机访问等功能，并且可以获得良好的售后服务。
 
 ## 特征
 
@@ -27,8 +27,8 @@
 ### quanp.on
 
 Windows专用客户端。quanp.on是使用[.NET
-Framework](../Page/.NET_Framework.md "wikilink")
-3.0的[WPFで开发的应用程序](../Page/Windows_Presentation_Foundation.md "wikilink")。其最主要的特征就是实现了文件的3D表示，。获得了日本2008年度[优秀设计奖](../Page/优秀设计奖.md "wikilink")。
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+3.0的[WPFで开发的应用程序](../Page/Windows_Presentation_Foundation.md "wikilink")。其最主要的特征就是实现了文件的3D表示，。获得了日本2008年度[优秀设计奖](https://zh.wikipedia.org/wiki/优秀设计奖 "wikilink")。
 
 ### quanp.net
 

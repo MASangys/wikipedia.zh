@@ -1,19 +1,22 @@
 **e2fsprogs**（又稱為**e2fs
-programs**）是用以維護[ext2](../Page/ext2.md "wikilink")，[ext3和](../Page/ext3.md "wikilink")[ext4](../Page/ext4.md "wikilink")[檔案系統的工具程序集](../Page/檔案系統.md "wikilink")。由於ext2/3/4是绝大多数[Linux发行版默认的文件系统](../Page/Linux发行版.md "wikilink")，所以這套工具集也包含在众多Linux发行版内。
+programs**）是用以維護[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，[ext3和](https://zh.wikipedia.org/wiki/ext3 "wikilink")[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")[檔案系統的工具程序集](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。由於ext2/3/4是绝大多数[Linux发行版默认的文件系统](../Page/Linux发行版.md "wikilink")，所以這套工具集也包含在众多Linux发行版内。
 
 e2fsprogs包含以下獨立的程式：
 
-  - [`e2fsck`](../Page/e2fsck.md "wikilink"),
-    ext2/3/4文件系统的[fsck程序](../Page/fsck.md "wikilink")，用于檢查文件系统的完整性。
-  - [`mke2fs`](../Page/mke2fs.md "wikilink"), 用于创建ext2/3/4檔案系統。
-  - [`resize2fs`](../Page/resize2fs.md "wikilink"),
+  - [`e2fsck`](https://zh.wikipedia.org/wiki/e2fsck "wikilink"),
+    ext2/3/4文件系统的[fsck程序](https://zh.wikipedia.org/wiki/fsck "wikilink")，用于檢查文件系统的完整性。
+  - [`mke2fs`](https://zh.wikipedia.org/wiki/mke2fs "wikilink"),
+    用于创建ext2/3/4檔案系統。
+  - [`resize2fs`](https://zh.wikipedia.org/wiki/resize2fs "wikilink"),
     調整已建立的ext2/3/4檔案系統的大小。
-  - [`tune2fs`](../Page/tune2fs.md "wikilink"), 修改ext2/3/4檔案系統的相關參數。
-  - [`dumpe2fs`](../Page/dumpe2fs.md "wikilink"), 顯示ext2/3/4檔案系統的相关資訊。
-  - [`debugfs`](../Page/debugfs.md "wikilink"),
+  - [`tune2fs`](https://zh.wikipedia.org/wiki/tune2fs "wikilink"),
+    修改ext2/3/4檔案系統的相關參數。
+  - [`dumpe2fs`](https://zh.wikipedia.org/wiki/dumpe2fs "wikilink"),
+    顯示ext2/3/4檔案系統的相关資訊。
+  - [`debugfs`](https://zh.wikipedia.org/wiki/debugfs "wikilink"),
     用于调试ext2/3/4文件系统，可以查看与更改文件系统的状态。
 
-e2fsprogs工具集同时也包含函数库[libext2fs](../Page/libext2fs.md "wikilink")。
+e2fsprogs工具集同时也包含函数库[libext2fs](https://zh.wikipedia.org/wiki/libext2fs "wikilink")。
 
 ## 外部連結
 

@@ -4,7 +4,7 @@ Data Access;
 UDA）解決方案的核心組成，最初的版本在1996年8月發表。目前其組成元件有[ODBC](../Page/ODBC.md "wikilink")，[OLE
 DB以及](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，其中[ADO是在](../Page/ADO.md "wikilink")[Visual
 Basic上唯一的資料存取管道](../Page/Visual_Basic.md "wikilink")，而OLE
-DB則是基於[COM之上](../Page/COM.md "wikilink")，供C/C++存取與提供資料的介面，ODBC則是統一化的資料存取API。
+DB則是基於[COM之上](https://zh.wikipedia.org/wiki/COM "wikilink")，供C/C++存取與提供資料的介面，ODBC則是統一化的資料存取API。
 
 ## 体系架构
 
@@ -30,12 +30,12 @@ Provider等資料提供者的底層通訊函式庫。
 
 ### ADO
 
-為以[COM為基礎所開發的資料存取元件](../Page/COM.md "wikilink")，供高階程式語言使用，像是[腳本語言](../Page/腳本語言.md "wikilink")（Scripting
+為以[COM為基礎所開發的資料存取元件](https://zh.wikipedia.org/wiki/COM "wikilink")，供高階程式語言使用，像是[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")（Scripting
 Language）或是[Visual
 Basic](../Page/Visual_Basic.md "wikilink")，目前已被[Microsoft
-Windows平台上的開發人員廣為採用](../Page/Microsoft_Windows.md "wikilink")，它向上提供數個物件類別供應用程式呼叫，向下則是呼叫OLE
+Windows平台上的開發人員廣為採用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，它向上提供數個物件類別供應用程式呼叫，向下則是呼叫OLE
 DB所提供的介面，因此資料庫必須要有OLE DB Provider，才可以由ADO呼叫，這個機制在[.NET
-Framework中的](../Page/.NET_Framework.md "wikilink")[ADO.NET中也持續採用](../Page/ADO.NET.md "wikilink")。
+Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[ADO.NET中也持續採用](../Page/ADO.NET.md "wikilink")。
 
 ### OLE DB
 

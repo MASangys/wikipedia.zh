@@ -1,9 +1,9 @@
 **BBCode**是**B**ulletin **B**oard
 **Code**的[縮寫](../Page/縮寫.md "wikilink")，有譯為「**BB代碼**」者，屬於[轻量级标记语言](../Page/轻量级标记语言.md "wikilink")（Lightweight
 Markup
-Language）的一種，如字面上所顯示的，它主要是使用在[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等](../Page/Blog.md "wikilink")[網路應用上](../Page/網路.md "wikilink")。BBCode最初由[**U**ltimate
+Language）的一種，如字面上所顯示的，它主要是使用在[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等](https://zh.wikipedia.org/wiki/Blog "wikilink")[網路應用上](https://zh.wikipedia.org/wiki/網路 "wikilink")。BBCode最初由[**U**ltimate
 **B**ulletin
-**B**oard讨论区系统发展出来](../Page/Ultimate_Bulletin_Board.md "wikilink")，因此常见**UBB代码**的称呼。BBCode的[語法通常為](../Page/語法.md "wikilink")**`[標記]`**的形式，即語法左右用兩個[中括號包圍](../Page/括号.md "wikilink")，以作為與正常文字間的區別。系統[解譯時遇上中括弧便知道該處是BBcode](../Page/解譯.md "wikilink")，會在解譯結果輸出到用戶端時轉換成最為通用的[HTML語法](../Page/HTML.md "wikilink")。
+**B**oard讨论区系统发展出来](https://zh.wikipedia.org/wiki/Ultimate_Bulletin_Board "wikilink")，因此常见**UBB代码**的称呼。BBCode的[語法通常為](https://zh.wikipedia.org/wiki/語法 "wikilink")**`[標記]`**的形式，即語法左右用兩個[中括號包圍](../Page/括号.md "wikilink")，以作為與正常文字間的區別。系統[解譯時遇上中括弧便知道該處是BBcode](https://zh.wikipedia.org/wiki/解譯 "wikilink")，會在解譯結果輸出到用戶端時轉換成最為通用的[HTML語法](../Page/HTML.md "wikilink")。
 
 ## 目的
 
@@ -23,11 +23,11 @@ BBcode有兩個主要目的：
 <!-- end list -->
 
   -
-    過去[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog也曾經設計開放HTML語法讓用戶使用](../Page/Blog.md "wikilink")，但卻衍生出語法輸入錯誤時造成整頁排版錯亂、有心人利用HTML語法進行[XSS式的攻擊與破壞等問題](../Page/XSS.md "wikilink")。由於BBcode的轉換為系統機械式的行為，所以可以有效避免人為輸入錯誤的問題，而BBcode為預先設計好的語法，也就是說意圖以BBcode達成所有的HTML語法效果是不可能的，相當於一種語法過濾，如此便可避免所有可能發生的惡意破壞。
+    過去[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog也曾經設計開放HTML語法讓用戶使用](https://zh.wikipedia.org/wiki/Blog "wikilink")，但卻衍生出語法輸入錯誤時造成整頁排版錯亂、有心人利用HTML語法進行[XSS式的攻擊與破壞等問題](https://zh.wikipedia.org/wiki/XSS "wikilink")。由於BBcode的轉換為系統機械式的行為，所以可以有效避免人為輸入錯誤的問題，而BBcode為預先設計好的語法，也就是說意圖以BBcode達成所有的HTML語法效果是不可能的，相當於一種語法過濾，如此便可避免所有可能發生的惡意破壞。
 
 ## 範例
 
-BBcode並沒有一個共同的標準，各個[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等網路應用程式可能會有自己獨創的BBcode](../Page/Blog.md "wikilink")，但基本上仍有一些語法因為被廣泛採用而成為共通語法，簡單舉例如下：
+BBcode並沒有一個共同的標準，各個[BBS](../Page/BBS.md "wikilink")、[論壇](../Page/网络论坛.md "wikilink")、[Blog等網路應用程式可能會有自己獨創的BBcode](https://zh.wikipedia.org/wiki/Blog "wikilink")，但基本上仍有一些語法因為被廣泛採用而成為共通語法，簡單舉例如下：
 
 <table>
 <thead>
@@ -99,7 +99,7 @@ BBcode並沒有一個共同的標準，各個[BBS](../Page/BBS.md "wikilink")、
 <td><p><code>[:-)]</code><small>（也有省略中括號的設計）</small><br />
 <small>或</small><br />
 <code>:smile:</code></p>
-<p><small>（參見<a href="../Page/表情符號.md" title="wikilink">表情符號</a>）</small></p></td>
+<p><small>（參見<a href="https://zh.wikipedia.org/wiki/表情符號" title="wikilink">表情符號</a>）</small></p></td>
 <td><p><img src="Face-smile.gif" alt="" /></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Face-smile.svg" title="fig:Face-smile.svg">Face-smile.svg</a></p></td>
 </tr>

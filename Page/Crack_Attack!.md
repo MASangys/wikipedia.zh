@@ -1,8 +1,9 @@
 ***Crack Attack\!***
 是[自由免费的](../Page/自由软件.md "wikilink")[OpenGL游戏](../Page/OpenGL.md "wikilink")，作者Daniel
-Nelson基于[超级任天堂上的](../Page/超级任天堂.md "wikilink")*[俄罗斯方块](../Page/俄罗斯方块.md "wikilink")*制作。在[Linux](../Page/Linux.md "wikilink")，[Windows](../Page/Microsoft_Windows.md "wikilink")，[Mac
-OS X上都可以运行](../Page/Mac_OS_X.md "wikilink")，授权采用[GNU General Public
-License](../Page/GNU_General_Public_License.md "wikilink")。Linux发行版都包含这个游戏。
+Nelson基于[超级任天堂上的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")*[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")*制作。在[Linux](../Page/Linux.md "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
+OS X上都可以运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，授权采用[GNU
+General Public
+License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。Linux发行版都包含这个游戏。
 Mac OS X 由 Jeff Disher移植，还有一位Daniel Aarno也进行移植不过命名改为*Mac Crack
 Attack\!*。 Aarno的*Mac Crack Attack\!*具有Disher版本欠缺的音频和全屏功能。
 
@@ -29,7 +30,7 @@ cocaine** 玩家可不喜欢这个称谓。\[2\]
 
 ## 其他
 
-[重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+[重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

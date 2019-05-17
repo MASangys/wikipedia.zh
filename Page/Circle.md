@@ -3,7 +3,7 @@
 ## 解說
 
   - 離前作同名專輯「KAELA」1年又3個月的第2張專輯。包含單曲「[Real Life Real
-    Heart](../Page/Real_Life_Real_Heart.md "wikilink")」「[BEAT](../Page/BEAT_\(木村KAELA\).md "wikilink")」「[You](../Page/You_\(木村KAELA\).md "wikilink")」，以及其C/W曲「Twinkle」「PIONEER」也收錄。
+    Heart](https://zh.wikipedia.org/wiki/Real_Life_Real_Heart "wikilink")」「[BEAT](https://zh.wikipedia.org/wiki/BEAT_\(木村KAELA\) "wikilink")」「[You](https://zh.wikipedia.org/wiki/You_\(木村KAELA\) "wikilink")」，以及其C/W曲「Twinkle」「PIONEER」也收錄。
   - 初回限定盤附DVD，收錄三支單曲的PV。
   - 台灣於2006年4月17日由風雲唱片代理發行台壓（CD+DVD版本）。
 
@@ -12,14 +12,15 @@
 作詞全是Kaela本人（包含You也是）
 
 1.  **[Real Life Real
-    Heart](../Page/Real_Life_Real_Heart.md "wikilink")**
+    Heart](https://zh.wikipedia.org/wiki/Real_Life_Real_Heart "wikilink")**
       - 作曲：曾田茂一
       - 為代言日本手機vodafone的廣告曲
 2.  **tea cup**
       - 作曲：高桑圭
 3.  **I ♥ hug**
       - 作曲：堀江博久
-4.  **[BEAT](../Page/BEAT_\(木村KAELA\).md "wikilink") (Album ver.)**
+4.  **[BEAT](https://zh.wikipedia.org/wiki/BEAT_\(木村KAELA\) "wikilink")
+    (Album ver.)**
       - 作曲：[奥田民生](../Page/奥田民生.md "wikilink")
 5.  '''TRILL TRILL RECUR
       - 作曲：會田茂一
@@ -27,8 +28,8 @@
 6.  **Twinkle (NANA ver.)**
       - 作曲：會田茂一
       - 為NANA概念專輯「[LOVE for NANA～Only 1
-        Tribute～](../Page/LOVE_for_NANA～Only_1_Tribute～.md "wikilink")」收錄曲。
-7.  **[You](../Page/You_\(木村KAELA\).md "wikilink")**
+        Tribute～](https://zh.wikipedia.org/wiki/LOVE_for_NANA～Only_1_Tribute～ "wikilink")」收錄曲。
+7.  **[You](https://zh.wikipedia.org/wiki/You_\(木村KAELA\) "wikilink")**
       - 作詞、作曲：渡邊忍
       - 為代言雀巢Kit Kat巧克力的廣告曲
 8.  **PIONEER**

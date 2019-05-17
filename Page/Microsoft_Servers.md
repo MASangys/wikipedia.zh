@@ -1,9 +1,9 @@
 **Microsoft
-Servers**係指[Microsoft所發展的伺服器產品線](../Page/Microsoft.md "wikilink")，舊稱為Microsoft
+Servers**係指[Microsoft所發展的伺服器產品線](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，舊稱為Microsoft
 BackOffice，後有一度改稱為**.NET Enterprise Servers**（推廣Microsoft
 .NET平台策略時期）與**Windows Server System**（Windows Server
 2003時期），雖然它是伺服器產品線，但它和[Microsoft
-Dynamics和](../Page/Microsoft_Dynamics.md "wikilink")[Windows
+Dynamics和](https://zh.wikipedia.org/wiki/Microsoft_Dynamics "wikilink")[Windows
 Server是不同的產品線](../Page/Windows_Server.md "wikilink")。
 
 ## 歷史
@@ -11,8 +11,8 @@ Server是不同的產品線](../Page/Windows_Server.md "wikilink")。
 ### BackOffice時期
 
 Microsoft Servers最早是由[SQL
-Server](../Page/SQL_Server.md "wikilink")、（現在的）、、（現在的[Exchange
-Server](../Page/Exchange_Server.md "wikilink")）、（現在的）以及當時的[IIS](../Page/IIS.md "wikilink")
+Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")、（現在的）、、（現在的[Exchange
+Server](https://zh.wikipedia.org/wiki/Exchange_Server "wikilink")）、（現在的）以及當時的[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")
 Server（當時為1.0版）組成。
 
 其版本演化為：
@@ -92,7 +92,7 @@ Server（當時為1.0版）組成。
 ### .NET Server時期
 
 在約2001年到2003年間，微軟強力推廣[.NET
-Framework以及](../Page/.NET_Framework.md "wikilink").NET平台策略時，微軟將BackOffice
+Framework以及](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink").NET平台策略時，微軟將BackOffice
 Server改名為**.NET Enterprise Servers**（.NET
 Servers），以配合.NET平台的策略\[1\]，當時的伺服器軟體成員有：
 
@@ -145,8 +145,10 @@ Server家族的伺服器作業系統](../Page/Windows_Server.md "wikilink")。�
 Servers的產品線，而不是Windows Server產品線，有：
 
   - Windows Computer Cluster Server：專為電腦的叢集化運算（Cluster-Computing）平台所設計。
-  - Windows Storage Server：專為[SAN](../Page/SAN.md "wikilink")（Storage
-    Area Network）與 [NAS](../Page/NAS.md "wikilink")（Network Area
+  - Windows Storage
+    Server：專為[SAN](https://zh.wikipedia.org/wiki/SAN "wikilink")（Storage
+    Area Network）與
+    [NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")（Network Area
     Storage）網路儲存所設計。
   - Windows Small Business Server：為小型企業所規劃的伺服器集。
   - Windows Essential Business Server：為中型企業所規劃的伺服器集。
@@ -164,17 +166,18 @@ Center，包含了下列伺服器：
   - System Center Essentials：為中型企業所規劃的System Center產品集（SCOM +
     SCCM的簡化版本）。
   - System Center Mobile Device Manager
-    (SCMDM)：管理企業中的行動化裝置（[PDA](../Page/PDA.md "wikilink")，[Pocket
-    PC](../Page/Pocket_PC.md "wikilink")，[Smartphone等](../Page/Smartphone.md "wikilink")）。
+    (SCMDM)：管理企業中的行動化裝置（[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")，[Pocket
+    PC](../Page/Pocket_PC.md "wikilink")，[Smartphone等](https://zh.wikipedia.org/wiki/Smartphone "wikilink")）。
   - System Center Virtual Machine Manager (SCVMM)：管理企業中的虛擬化環境（像與[Virtual
-    PC](../Page/Virtual_PC.md "wikilink")）
+    PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")）
 
 ### 應用程式平台
 
-作為企業的應用程式或系統平台，由[SQL Server](../Page/SQL_Server.md "wikilink")、[BizTalk
-Server](../Page/BizTalk_Server.md "wikilink")、所組成，配合[Visual
-Studio與](../Page/Visual_Studio.md "wikilink")[.NET
-Framework等應用程式開發平台](../Page/.NET_Framework.md "wikilink")，提供給企業客製化的軟體開發環境。
+作為企業的應用程式或系統平台，由[SQL
+Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")、[BizTalk
+Server](https://zh.wikipedia.org/wiki/BizTalk_Server "wikilink")、所組成，配合[Visual
+Studio與](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")[.NET
+Framework等應用程式開發平台](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，提供給企業客製化的軟體開發環境。
 
 ### 安全性
 
@@ -223,7 +226,7 @@ Microsoft Servers中內含了一些技術，這些技術是由Windows Server提�
   - Windows Service for Unix：提供與Unix互動的環境。
   - Right Management Service (RMS)：提供具權限管理的服務。
   - Internet Information
-    Services（[IIS](../Page/IIS.md "wikilink")）：提供Web的通訊與應用程式執行環境。
+    Services（[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")）：提供Web的通訊與應用程式執行環境。
 
 ## 參考資料
 

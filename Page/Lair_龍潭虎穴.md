@@ -1,6 +1,6 @@
 是一款由[Factor
-5开发并由](../Page/Factor_5.md "wikilink")[索尼电脑娱乐发行在](../Page/索尼电脑娱乐.md "wikilink")[PlayStation
-3平台上的](../Page/PlayStation_3.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")。本遊戲使用[荷里活的經驗技術](../Page/荷里活.md "wikilink")，更邀請負責「[-{zh-hans:罪恶之城;zh-hk:罪惡城;zh-tw:萬惡城市;}-](../Page/罪恶之城.md "wikilink")」、「[-{zh-hans:四眼天鸡;zh-hk:四眼雞丁;zh-tw:四眼天雞;}-](../Page/四眼天鸡.md "wikilink")」及「[-{zh-hans:受难曲;zh-hk:受難曲;zh-tw:耶穌受難記;}-](../Page/耶穌受難記.md "wikilink")」的好莱坞的音樂及美術總監John
+5开发并由](https://zh.wikipedia.org/wiki/Factor_5 "wikilink")[索尼电脑娱乐发行在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
+3平台上的](../Page/PlayStation_3.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。本遊戲使用[荷里活的經驗技術](https://zh.wikipedia.org/wiki/荷里活 "wikilink")，更邀請負責「[-{zh-hans:罪恶之城;zh-hk:罪惡城;zh-tw:萬惡城市;}-](https://zh.wikipedia.org/wiki/罪恶之城 "wikilink")」、「[-{zh-hans:四眼天鸡;zh-hk:四眼雞丁;zh-tw:四眼天雞;}-](../Page/四眼天鸡.md "wikilink")」及「[-{zh-hans:受难曲;zh-hk:受難曲;zh-tw:耶穌受難記;}-](../Page/耶穌受難記.md "wikilink")」的好莱坞的音樂及美術總監John
 Debney。
 
 《龙穴》最早在2005年的E3游戏展上公布，并计划作为PlayStation
@@ -28,8 +28,8 @@ Debney。
 
 ## 相關條目
 
-  - [龍](../Page/龍.md "wikilink")
-  - [美國電影](../Page/美國電影.md "wikilink")
+  - [龍](https://zh.wikipedia.org/wiki/龍 "wikilink")
+  - [美國電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")
 
 ## 参考资料
 

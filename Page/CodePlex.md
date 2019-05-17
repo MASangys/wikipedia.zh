@@ -1,16 +1,17 @@
-**CodePlex**是一個由[微軟公司於](../Page/微軟公司.md "wikilink")2006年5月所建置的[开放源代码托管網站](../Page/开放源代码.md "wikilink")，在此網站中所發布的所有程式都可以下載[原始碼使用](../Page/原始碼.md "wikilink")，目前它已經成為微軟軟體的週邊元件或[擴充套件的發布管道](../Page/擴充套件.md "wikilink")。微软在2017年3月31日宣布于即日起无法新建项目，从10月起网站转为只读状态，同年12月15日关闭CodePlex。\[1\]
+**CodePlex**是一個由[微軟公司於](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2006年5月所建置的[开放源代码托管網站](../Page/开放源代码.md "wikilink")，在此網站中所發布的所有程式都可以下載[原始碼使用](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，目前它已經成為微軟軟體的週邊元件或[擴充套件的發布管道](https://zh.wikipedia.org/wiki/擴充套件 "wikilink")。微软在2017年3月31日宣布于即日起无法新建项目，从10月起网站转为只读状态，同年12月15日关闭CodePlex。\[1\]
 
 在CodePlex中較有名的軟體有：
 
-  - [SQL Server範例資料庫與範例程式](../Page/SQL_Server.md "wikilink")。
+  - [SQL
+    Server範例資料庫與範例程式](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
   - [ASP.NET AJAX的控制項類別庫](../Page/ASP.NET_AJAX.md "wikilink")（Ajax
     Control Toolkit）。
-  - FaseDBF，一個可以讀寫DBF（[dBase的資料庫檔案格式](../Page/dBase.md "wikilink")）的程式。
+  - FaseDBF，一個可以讀寫DBF（[dBase的資料庫檔案格式](https://zh.wikipedia.org/wiki/dBase "wikilink")）的程式。
   - [ASP.NET的MVC](../Page/ASP.NET.md "wikilink")（Model-View-Controll）Framework預覽版本。
   - [.NET
     Reflector的外掛程式](../Page/Lutz_Roeder's_.NET_Reflector.md "wikilink")。
   - [Microsoft Office SharePoint Portal
-    Server的擴充與範例程式](../Page/Microsoft_Office_SharePoint_Portal_Server.md "wikilink")。
+    Server的擴充與範例程式](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")。
   - Smart Client Software Factory Library與Web Site Software
     Factory等軟體組件。
   - [IronPython程式語言](../Page/IronPython.md "wikilink")。

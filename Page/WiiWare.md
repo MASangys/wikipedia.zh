@@ -1,4 +1,4 @@
-**WiiWare**（，Wii軟體）為提供[Wii新作軟體透過網際網路發行及下載的服務](../Page/Wii.md "wikilink")，使用本服務時需將Wii連接至網際網路。本項服務於2008年3月25日開始至2019年1月31日隨著[Wii商店頻道關閉而終止](../Page/Wii商店頻道.md "wikilink")。
+**WiiWare**（，Wii軟體）為提供[Wii新作軟體透過網際網路發行及下載的服務](../Page/Wii.md "wikilink")，使用本服務時需將Wii連接至網際網路。本項服務於2008年3月25日開始至2019年1月31日隨著[Wii商店頻道關閉而終止](https://zh.wikipedia.org/wiki/Wii商店頻道 "wikilink")。
 
 ## 概要
 
@@ -18,7 +18,8 @@ Console的遊戲軟體相同](../Page/Virtual_Console.md "wikilink")，將透過
 
 ## 收費方法
 
-購買Wii Ware的收費軟體需使用[任天堂點數](../Page/任天堂點數.md "wikilink")，點數價值等同日幣。
+購買Wii
+Ware的收費軟體需使用[任天堂點數](https://zh.wikipedia.org/wiki/任天堂點數 "wikilink")，點數價值等同日幣。
 
 與一般盒裝軟體不同的是，Wii Ware的軟體是透過網際網路下載的方式，因此可以減少生產及販賣的成本，故預定將提供低價格及各種價格的軟體。
 

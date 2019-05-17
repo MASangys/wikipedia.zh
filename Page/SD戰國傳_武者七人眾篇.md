@@ -1,26 +1,26 @@
-1987年，[-{zh-hk:SD高達系列;zh-tw:SD鋼彈系列;}-系列](../Page/SD_GUNDAM系列.md "wikilink")，首次推出以日本武士為參考的「[武者七人眾篇](../Page/武者七人眾篇.md "wikilink")」，以漫畫「[模型狂四郎](../Page/模型狂四郎.md "wikilink")」角色「武者頑馱無」為主角，講述以武者組成的「[頑馱無軍團](../Page/頑馱無軍團.md "wikilink")」，與受「闇皇帝」支配的「闇軍團」，互相角力。由於故事世界觀直接影響日後各篇章，因而被視為武者世界的基石。例如「光」與「闇」的對立，「大將軍」「將頑馱無」等職位，都是源於「七人眾篇」。
+1987年，[-{zh-hk:SD高達系列;zh-tw:SD鋼彈系列;}-系列](../Page/SD_GUNDAM系列.md "wikilink")，首次推出以日本武士為參考的「[武者七人眾篇](https://zh.wikipedia.org/wiki/武者七人眾篇 "wikilink")」，以漫畫「[模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")」角色「武者頑馱無」為主角，講述以武者組成的「[頑馱無軍團](https://zh.wikipedia.org/wiki/頑馱無軍團 "wikilink")」，與受「闇皇帝」支配的「闇軍團」，互相角力。由於故事世界觀直接影響日後各篇章，因而被視為武者世界的基石。例如「光」與「闇」的對立，「大將軍」「將頑馱無」等職位，都是源於「七人眾篇」。
 
-而「武者七人眾」大受歡迎，除了模型、玩具、萬變-{zh-hk:咭;zh-tw:卡;}-等等各類遊戲商品以外，更曾經在1989年－1990年間推出數部OVA單元及[動畫](../Page/動畫.md "wikilink")[電影](../Page/電影.md "wikilink")。相關DVD套裝，於2007年11月重新推出。
+而「武者七人眾」大受歡迎，除了模型、玩具、萬變-{zh-hk:咭;zh-tw:卡;}-等等各類遊戲商品以外，更曾經在1989年－1990年間推出數部OVA單元及[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。相關DVD套裝，於2007年11月重新推出。
 
-「七人眾篇」將「SD化」的概念發揚光大，亦影響其他動漫作品，推出以日本戰國時代為背景，並將角色SD化的作品。例如《[-{zh-hk:機甲桃太郎;zh-tw:桃太郎傳說;}-](../Page/桃太郎傳說.md "wikilink")》，《[-{zh-hk:功夫貓黨;zh-tw:貓黨忍傳（忍者貓）;}-](../Page/貓黨忍傳.md "wikilink")》等等。至於80年代人氣之作「[超時空要塞](../Page/超時空要塞.md "wikilink")」，更曾推出以戰國武將為藍本的SD系列《超時空烈伝
+「七人眾篇」將「SD化」的概念發揚光大，亦影響其他動漫作品，推出以日本戰國時代為背景，並將角色SD化的作品。例如《[-{zh-hk:機甲桃太郎;zh-tw:桃太郎傳說;}-](../Page/桃太郎傳說.md "wikilink")》，《[-{zh-hk:功夫貓黨;zh-tw:貓黨忍傳（忍者貓）;}-](https://zh.wikipedia.org/wiki/貓黨忍傳 "wikilink")》等等。至於80年代人氣之作「[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")」，更曾推出以戰國武將為藍本的SD系列《超時空烈伝
 真空路守》。
 
 在作品內，MS性質接近人類，除擁有納米金屬細胞，可自動修復傷口，更需要進食維持運作，更如人類一樣，會生兒育女，小孩更會長大成人。
 
 ## 概觀
 
-SD戰國傳首先由[今石進](../Page/今石進.md "wikilink")（筆名為MARSHI）於BB戰士17號武者頑馱無[模型說明書所附錄的連環](../Page/模型.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")「Comic
+SD戰國傳首先由[今石進](../Page/今石進.md "wikilink")（筆名為MARSHI）於BB戰士17號武者頑馱無[模型說明書所附錄的連環](https://zh.wikipedia.org/wiki/模型 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")「Comic
 World」上勾勒出雛型。其中的角色均出自鋼彈[宇宙世紀中的](../Page/宇宙世紀.md "wikilink")《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》，《[機動戰士Z
 GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")》，《[機動戰士GUNDAM
 ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")》及《[機動戰士GUNDAM
 -{zh-hans:逆袭的夏亚;zh-hk:馬沙反擊戰;zh-tw:逆襲的夏亞;}-](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》。
 
 而後[萬代公司並開始連同漫畫月刊Comic](../Page/萬代.md "wikilink")
-BonBon，把最初的世界觀透過各種[媒體大幅地擴展開來](../Page/媒體.md "wikilink")，尤其是SD
+BonBon，把最初的世界觀透過各種[媒體大幅地擴展開來](https://zh.wikipedia.org/wiki/媒體 "wikilink")，尤其是SD
 GUNDAM的原設計者[橫井孝二](../Page/橫井孝二.md "wikilink")（別名：鳥山劣）藉由在該刊物上所連載的《**元祖！SD鋼彈**》補足了Comic
 World之外的各項細部設定。
 
-另外由武者GUNDAM的創造者[大和虹一作畫的](../Page/大和虹一.md "wikilink")《**SD武者頑馱無風雲錄**》亦是其中重要的影響作品之一。
+另外由武者GUNDAM的創造者[大和虹一作畫的](https://zh.wikipedia.org/wiki/大和虹一 "wikilink")《**SD武者頑馱無風雲錄**》亦是其中重要的影響作品之一。
 
 ## 故事
 
@@ -103,7 +103,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        在[大和虹一所繪的漫畫](../Page/大和虹一.md "wikilink")「SDGUNDAM風雲錄·風林火山篇」中，則是安排他著裝備「麒麟之神器」，與魔化的殺驅頭同歸於盡。後來荒烈驅主等人打算尋找令三代目大將軍力量增強的方法時，再次出現在眾人面前。。
+        在[大和虹一所繪的漫畫](https://zh.wikipedia.org/wiki/大和虹一 "wikilink")「SDGUNDAM風雲錄·風林火山篇」中，則是安排他著裝備「麒麟之神器」，與魔化的殺驅頭同歸於盡。後來荒烈驅主等人打算尋找令三代目大將軍力量增強的方法時，再次出現在眾人面前。。
 
 <!-- end list -->
 
@@ -156,10 +156,10 @@ Cannon），可惜仍讓殺驅頭逃脫。
 
 除了正史中有關「七人眾」的記述外，後來更有傳說中「第八人眾」的頑馱無真惡參。後來由於被神秘落雷擊中，自此消失於天宮歷史中，間接導致大將軍的力量不足，而選擇與闇皇帝同歸於盡。
 
-「武者七人眾篇」一名，是後來官方另行追加。最初系列只名為「SD戰國傳」。後來，由於推出了「風林火山編」及「天下統一編」，為了方便區分，就將之前的定為「武者七人眾編」。而七人眾是改編自[黑澤明電影](../Page/黑澤明.md "wikilink")「[七武士](../Page/七武士.md "wikilink")」
+「武者七人眾篇」一名，是後來官方另行追加。最初系列只名為「SD戰國傳」。後來，由於推出了「風林火山編」及「天下統一編」，為了方便區分，就將之前的定為「武者七人眾編」。而七人眾是改編自[黑澤明電影](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")「[七武士](../Page/七武士.md "wikilink")」
 
   - **武者頑馱無**（RX-178 ガンダムMk-II
-    《[模型狂四郎](../Page/模型狂四郎.md "wikilink")》武者Gundam）
+    《[模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")》武者Gundam）
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 
 <!-- end list -->
 
-  - **武者農丸頑馱無／隱密頑馱無**（《[超戰士Gundam野郎](../Page/超戰士Gundam野郎.md "wikilink")》武者Gundam
+  - **武者農丸頑馱無／隱密頑馱無**（《[超戰士Gundam野郎](https://zh.wikipedia.org/wiki/超戰士Gundam野郎 "wikilink")》武者Gundam
     天地大河Special＝RX-78-2／RX-78 NT-1，農丸為Normal之意）
 
 <!-- end list -->
@@ -206,7 +206,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        農丸頑馱無出世後的武者造型，最初只是《[超戰士Gundam野郎](../Page/超戰士Gundam野郎.md "wikilink")》中，由主角天地大河以武者頑馱無改造而成的「天地大河Special武者頑馱無」，後來以逆輸入方式，由該作品中取用，才成為正式的設計，同時被設定為武者頑馱無的孿生弟弟。
+        農丸頑馱無出世後的武者造型，最初只是《[超戰士Gundam野郎](https://zh.wikipedia.org/wiki/超戰士Gundam野郎 "wikilink")》中，由主角天地大河以武者頑馱無改造而成的「天地大河Special武者頑馱無」，後來以逆輸入方式，由該作品中取用，才成為正式的設計，同時被設定為武者頑馱無的孿生弟弟。
           -
             武者 亜礼薬(アレックス)：農丸頑駄無の変装，於横井版的漫畫中登場，原型是RX-78NT-1
             ガンダムNT-1アレックス/Gundam "Alex"，全身蓋滿紙箱。
@@ -223,14 +223,14 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   - **武者精太頑馱無**（RX-78ガンダム＋MSΖ-006
-    Ζガンダム/《[模型狂四郎](../Page/模型狂四郎.md "wikilink")》武者Z
+    Ζガンダム/《[模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")》武者Z
     Gundam）
 
 <!-- end list -->
 
   -
     「武者七人眾」軍師，
-    是出身於西方國家「[影舞亂夢](../Page/影舞亂夢.md "wikilink")」的武神頑馱無之子。貴族出身的神箭手。有一愛馬「超‧緒羅四恩(スーパーオラシオン)」，
+    是出身於西方國家「[影舞亂夢](https://zh.wikipedia.org/wiki/影舞亂夢 "wikilink")」的武神頑馱無之子。貴族出身的神箭手。有一愛馬「超‧緒羅四恩(スーパーオラシオン)」，
     能夠合體成「人馬型態」， 發揮超出平常30倍的機動力。
 
 <!-- end list -->
@@ -241,7 +241,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   -
-    外型來自[平安時代名將](../Page/平安時代.md "wikilink")[源義經](../Page/源義經.md "wikilink")。
+    外型來自[平安時代名將](https://zh.wikipedia.org/wiki/平安時代 "wikilink")[源義經](../Page/源義經.md "wikilink")。
 
 <!-- end list -->
 
@@ -256,7 +256,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   - **武者頑馱無摩亞屈**（RX-178 ガンダムMk-II＋MSΖ-006
-    Ζガンダム/《[模型狂四郎](../Page/模型狂四郎.md "wikilink")》武者Gundam
+    Ζガンダム/《[模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")》武者Gundam
     Mark II）
 
 <!-- end list -->
@@ -342,7 +342,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        外形是根據戰國名將[真田幸村設計](../Page/真田幸村.md "wikilink")。可裝備傳說兵器「青龍之神器」。
+        外形是根據戰國名將[真田幸村設計](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")。可裝備傳說兵器「青龍之神器」。
 
 <!-- end list -->
 
@@ -401,15 +401,15 @@ Cannon），可惜仍讓殺驅頭逃脫。
         真惡參與騎士的關係，其實早於「SD鋼彈外傳．-{zh-tw:SIEG吉翁;
         zh-hk:捷古自護;}-篇」中已經出現。製作單位本來打算將故事中早期反派、後來與騎士鋼彈融合成「超越之龍」（Superior
         Dragon）的[-{zh-tw:撒旦;
-        zh-hk:煞旦;}-鋼彈](../Page/撒旦.md "wikilink")，設定由真惡參的「惡」之心，與飛龍融合而成。後來該設定則改為：真惡參同時分裂成騎士及[-{zh-tw:撒旦;
-        zh-hk:煞旦;}-鋼彈](../Page/撒旦.md "wikilink")，最後兩人與飛龍融合，才變成「超越之龍」。
+        zh-hk:煞旦;}-鋼彈](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，設定由真惡參的「惡」之心，與飛龍融合而成。後來該設定則改為：真惡參同時分裂成騎士及[-{zh-tw:撒旦;
+        zh-hk:煞旦;}-鋼彈](https://zh.wikipedia.org/wiki/撒旦 "wikilink")，最後兩人與飛龍融合，才變成「超越之龍」。
 
 <!-- end list -->
 
   -
 
       -
-        真惡參頭盔用上半月角飾，是參考當年[奧州霸主](../Page/奧州.md "wikilink")[伊達政宗](../Page/伊達政宗.md "wikilink")。
+        真惡參頭盔用上半月角飾，是參考當年[奧州霸主](https://zh.wikipedia.org/wiki/奧州 "wikilink")[伊達政宗](../Page/伊達政宗.md "wikilink")。
 
 ##### 隱密行動隊
 
@@ -455,7 +455,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 
       -
         女足與精太的感情線，是蛻變自「機動戰士Z
-        鋼彈」中[-{zh-hk:嘉美尤·維達;zh-tw:卡蜜兒·維丹;}-與](../Page/卡蜜兒·維丹.md "wikilink")[花·園麗的相同情節](../Page/花·園麗.md "wikilink")。
+        鋼彈」中[-{zh-hk:嘉美尤·維達;zh-tw:卡蜜兒·維丹;}-與](https://zh.wikipedia.org/wiki/卡蜜兒·維丹 "wikilink")[花·園麗的相同情節](https://zh.wikipedia.org/wiki/花·園麗 "wikilink")。
 
 ::\***音喪**（MSA-003 ネモ/Nemo）
 
@@ -477,7 +477,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        慈繪丸並無跟隨Jegan用色，反而是配上了同機械設計者[出淵裕所參加的另一作品](../Page/出淵裕.md "wikilink")「[機動警察](../Page/機動警察.md "wikilink")」中，主角機「-{zh-hk:英格倫;zh-tw:英格蘭姆;}-」的色調。這與當年七人眾推出時，正值「機動警察」的推出有關。
+        慈繪丸並無跟隨Jegan用色，反而是配上了同機械設計者[出淵裕所參加的另一作品](https://zh.wikipedia.org/wiki/出淵裕 "wikilink")「[機動警察](../Page/機動警察.md "wikilink")」中，主角機「-{zh-hk:英格倫;zh-tw:英格蘭姆;}-」的色調。這與當年七人眾推出時，正值「機動警察」的推出有關。
 
 ##### 火忍軍團
 
@@ -529,12 +529,12 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   -
-    慈繪丸的堂兄弟，平常駐留在頑馱無軍團諸領地，維持治安。精通格鬥術，但會戰時主要以鐵炮，對武者軍團進行遠程火力支援。共有兩位；一號機為兄，二號機則為弟。與慈繪丸的最大區別，是手持[十手沒有披戴斗笠的](../Page/十手.md "wikilink")[捕快打扮](../Page/捕快.md "wikilink")。
+    慈繪丸的堂兄弟，平常駐留在頑馱無軍團諸領地，維持治安。精通格鬥術，但會戰時主要以鐵炮，對武者軍團進行遠程火力支援。共有兩位；一號機為兄，二號機則為弟。與慈繪丸的最大區別，是手持[十手沒有披戴斗笠的](../Page/十手.md "wikilink")[捕快打扮](https://zh.wikipedia.org/wiki/捕快 "wikilink")。
 
 <!-- end list -->
 
   -
-    原型機為[機動警察的](../Page/機動警察.md "wikilink")-{zh-hk:英格倫;zh-tw:英格蘭姆;}-，因為當年武者七人眾推出時，正值機動警察電影版公映，而慈繪丸原型機-{zh-hk:積根;zh-tw:傑鋼;}-（Jegun）與-{zh-hk:英格倫;zh-tw:英格蘭姆;}-，又同樣是由[出淵裕設計](../Page/出淵裕.md "wikilink")（當年機動警察的作者[結城正美更直言](../Page/結城正美.md "wikilink")-{zh-hk:積根;zh-tw:傑鋼;}-的外形，是借用-{zh-hk:英格倫;zh-tw:英格蘭姆;}-），所以自衛丸便被設定成為慈繪丸的「親戚」，而這次也是唯一非GUNDAM系作品，加入SD
+    原型機為[機動警察的](../Page/機動警察.md "wikilink")-{zh-hk:英格倫;zh-tw:英格蘭姆;}-，因為當年武者七人眾推出時，正值機動警察電影版公映，而慈繪丸原型機-{zh-hk:積根;zh-tw:傑鋼;}-（Jegun）與-{zh-hk:英格倫;zh-tw:英格蘭姆;}-，又同樣是由[出淵裕設計](https://zh.wikipedia.org/wiki/出淵裕 "wikilink")（當年機動警察的作者[結城正美更直言](../Page/結城正美.md "wikilink")-{zh-hk:積根;zh-tw:傑鋼;}-的外形，是借用-{zh-hk:英格倫;zh-tw:英格蘭姆;}-），所以自衛丸便被設定成為慈繪丸的「親戚」，而這次也是唯一非GUNDAM系作品，加入SD
     GUNDAM系列的角色。
 
 ##### 座騎
@@ -578,7 +578,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   -
-    武者農丸額上金獅「大河」，可穿上農丸鎧甲，成為「武者[獅子](../Page/獅子.md "wikilink")」。
+    武者農丸額上金獅「大河」，可穿上農丸鎧甲，成為「武者[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")」。
 
 <!-- end list -->
 
@@ -714,7 +714,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 
   -
     「堂我」音為ドーガ/Doga，演者多為 [機動戰士鋼彈
-    逆襲的夏亞](../Page/機動戰士鋼彈_逆襲的夏亞.md "wikilink")
+    逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士鋼彈_逆襲的夏亞 "wikilink")
     作品中新阿克西斯的機體。
 
 <!-- end list -->
@@ -789,7 +789,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        惡沈一族下忍，原名[我坐士伊](../Page/我坐士伊.md "wikilink")。相當恪守一族領袖玖邊麗命令。特技是變成炮台，以背上大炮進行密集射擊，以及進行三位一體攻擊戰法「我坐棲鬥無」。
+        惡沈一族下忍，原名[我坐士伊](https://zh.wikipedia.org/wiki/我坐士伊 "wikilink")。相當恪守一族領袖玖邊麗命令。特技是變成炮台，以背上大炮進行密集射擊，以及進行三位一體攻擊戰法「我坐棲鬥無」。
 
 ::\***我坐士**（ガザ/Gaza）
 
@@ -834,7 +834,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        參見[\#武者齋胡頑馱無](../Page/#武者齋胡頑馱無.md "wikilink")
+        參見[\#武者齋胡頑馱無](https://zh.wikipedia.org/wiki/#武者齋胡頑馱無 "wikilink")
 
 #### 僧兵軍團
 
@@ -967,7 +967,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        參見[\#巨忍軍團](../Page/#巨忍軍團.md "wikilink")
+        參見[\#巨忍軍團](https://zh.wikipedia.org/wiki/#巨忍軍團 "wikilink")
 
 <!-- end list -->
 
@@ -1019,7 +1019,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        參見[\#惡沈一族](../Page/#惡沈一族.md "wikilink")
+        參見[\#惡沈一族](https://zh.wikipedia.org/wiki/#惡沈一族 "wikilink")
 
 <!-- end list -->
 
@@ -1048,7 +1048,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        參見[\#堂我一族](../Page/#堂我一族.md "wikilink")
+        參見[\#堂我一族](https://zh.wikipedia.org/wiki/#堂我一族 "wikilink")
 
 <!-- end list -->
 
@@ -1059,7 +1059,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   -
 
       -
-        參見[\#巨忍軍團](../Page/#巨忍軍團.md "wikilink")
+        參見[\#巨忍軍團](https://zh.wikipedia.org/wiki/#巨忍軍團 "wikilink")
 
 #### 騎忍軍團
 
@@ -1068,7 +1068,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 <!-- end list -->
 
   -
-    騎軍軍團首領，有・邪邪之丈夫，愛好收集古董花瓶。使用西洋[花劍](../Page/花劍.md "wikilink")，據說是異國武者出身。
+    騎軍軍團首領，有・邪邪之丈夫，愛好收集古董花瓶。使用西洋[花劍](https://zh.wikipedia.org/wiki/花劍 "wikilink")，據說是異國武者出身。
 
 <!-- end list -->
 
@@ -1145,27 +1145,27 @@ Cannon），可惜仍讓殺驅頭逃脫。
       - 邪武楼（ジャブロー/Jaburo)
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的聯邦軍大本營賈布羅。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的聯邦軍大本營賈布羅。
 
       - 月月（ルナツー/Luna Ⅱ）：
 
           -
-            參見[\#阻路門的風神‧雷神](../Page/#阻路門的風神‧雷神.md "wikilink")，原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的殖民地月神二號。
+            參見[\#阻路門的風神‧雷神](https://zh.wikipedia.org/wiki/#阻路門的風神‧雷神 "wikilink")，原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的殖民地月神二號。
 
       - 彩土七（サイド7/Side 7）
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的殖民群。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的殖民群。
 
       - 濁河流（ダカール/Dakar)
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的非洲都市達卡。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的非洲都市達卡。
 
       - 汚泥砂（オデッサ/Odessa_
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的敖德薩作戰。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的敖德薩作戰。
 
 <!-- end list -->
 
@@ -1175,34 +1175,34 @@ Cannon），可惜仍讓殺驅頭逃脫。
         闇軍團大部分角色的出身地，即「吉翁」諧音。
 
   - 頭虫邸(ずむし)
-    闇軍團本城，殺驅頭及其下屬所在之處。原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中吉翁公國的首都茲姆市。
+    闇軍團本城，殺驅頭及其下屬所在之處。原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中吉翁公國的首都茲姆市。
 
       - 悪沈（アクシズ）
 
           -
-            [\#悪沈一族的根據地](../Page/#悪沈一族.md "wikilink")
+            [\#悪沈一族的根據地](https://zh.wikipedia.org/wiki/#悪沈一族 "wikilink")
 
       - 阻路門（ソロモン/Solomon）
 
           -
-            參見[\#阻路門的風神‧雷神](../Page/#阻路門的風神‧雷神.md "wikilink")，原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的所羅門要塞。
+            參見[\#阻路門的風神‧雷神](https://zh.wikipedia.org/wiki/#阻路門的風神‧雷神 "wikilink")，原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的所羅門要塞。
 
       - 空離舞巢(グリプス/Gryps)
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的格里普斯戰役。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的格里普斯戰役。
 
       - 愚羅灘（グラナダ/Granada）
 
           -
-            原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的月面都市格拉那達。
+            原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的月面都市格拉那達。
 
 <!-- end list -->
 
   - 暴終空城（ア・バオア・クー）
     最早的設定寫作「亜・破汚亜・空」，後來才改作暴終空城。
     傳說的天空之城，每隔333年便會重臨世間。只要將軍團所屬鯉型裝飾裝在天守閣簷蓬上，軍團便能盡得天下。曾成為頑馱無軍團與闇軍團互相爭奪的地方。可惜到城池消失，勝負仍然未分。
-    「暴終空城」原名來自「[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")」中的巨大隕石要塞「阿·巴瓦·空」（後來在「[機動戰士Z鋼彈](../Page/機動戰士Z鋼彈.md "wikilink")」被改名為「色當之門」（ゼダンの門／The
+    「暴終空城」原名來自「[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」中的巨大隕石要塞「阿·巴瓦·空」（後來在「[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")」被改名為「色當之門」（ゼダンの門／The
     Gate of Zedan），曾出現在OVA「SD戰國傳．暴終空城之決戰」及SFC遊戲「大將軍烈傳」中。
 
 <!-- end list -->
@@ -1210,7 +1210,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
   - 霧萬者路（キリマンジャロ/Kilimanjaro)
 
       -
-        在橫井孝二的漫畫《元祖！ＳＤガンダム》中，曾出現一位路人「霧萬者路牧場之主」，原名來自[機動戰士Z鋼彈](../Page/機動戰士Z鋼彈.md "wikilink")，即非洲的吉力馬扎羅山。
+        在橫井孝二的漫畫《元祖！ＳＤガンダム》中，曾出現一位路人「霧萬者路牧場之主」，原名來自[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")，即非洲的吉力馬扎羅山。
 
 ## 用語解說
 
@@ -1309,7 +1309,7 @@ Cannon），可惜仍讓殺驅頭逃脫。
 
 ## 相關條目
 
-  - [武者烈傳 舞化武可篇](../Page/武者烈傳_舞化武可篇.md "wikilink")
+  - [武者烈傳 舞化武可篇](https://zh.wikipedia.org/wiki/武者烈傳_舞化武可篇 "wikilink")
   - [SD戰國傳系列](../Page/SD戰國傳系列.md "wikilink")
 
 [Category:SD戰國傳](https://zh.wikipedia.org/wiki/Category:SD戰國傳 "wikilink")

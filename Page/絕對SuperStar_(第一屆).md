@@ -1,4 +1,4 @@
-**第一屆《絕對SuperStar》**，是[新加坡](../Page/新加坡.md "wikilink")[電視歌唱選秀](../Page/新加坡電視.md "wikilink")[節目](../Page/節目.md "wikilink")《[絕對SuperStar](../Page/絕對SuperStar.md "wikilink")》的第一屆賽事
+**第一屆《絕對SuperStar》**，是[新加坡](../Page/新加坡.md "wikilink")[電視歌唱選秀](https://zh.wikipedia.org/wiki/新加坡電視 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[絕對SuperStar](../Page/絕對SuperStar.md "wikilink")》的第一屆賽事
 
 ## 第一屆《絕對SuperStar》 2005
 
@@ -14,7 +14,7 @@
 <tbody>
 <tr class="odd">
 <td><p>Kelvin Tan Wei Lian</p></td>
-<td><p><a href="../Page/陳偉聯.md" title="wikilink">陳偉聯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳偉聯" title="wikilink">陳偉聯</a></p></td>
 <td><p>23</p></td>
 <td><p><strong>總冠軍<br />
 男冠軍</strong></p></td>
@@ -30,7 +30,7 @@
 </tr>
 <tr class="odd">
 <td><p>Hong Jun Yang</p></td>
-<td><p><a href="../Page/洪俊揚.md" title="wikilink">洪俊揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪俊揚" title="wikilink">洪俊揚</a></p></td>
 <td><p>23</p></td>
 <td><p><strong>男亞軍</strong><br />
 2005年8月18日</p></td>
@@ -53,68 +53,68 @@
 </tr>
 <tr class="even">
 <td><p>Silver Ang Zi Hui</p></td>
-<td><p><a href="../Page/洪子惠.md" title="wikilink">洪子惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪子惠" title="wikilink">洪子惠</a></p></td>
 <td><p>19</p></td>
 <td><p><strong>女季軍</strong><br />
 2005年8月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jason Tan Kok Khian</p></td>
-<td><p><a href="../Page/陳國強.md" title="wikilink">陳國強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳國強" title="wikilink">陳國強</a></p></td>
 <td><p>26</p></td>
 <td><p>2005年8月4日</p></td>
 </tr>
 <tr class="even">
 <td><p>Candyce Toh Hwei Peng</p></td>
-<td><p><a href="../Page/杜慧萍.md" title="wikilink">杜慧萍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜慧萍" title="wikilink">杜慧萍</a></p></td>
 <td><p>25</p></td>
 <td><p>2005年8月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Chia Wei Choong</p></td>
-<td><p><a href="../Page/謝維聰.md" title="wikilink">謝維聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝維聰" title="wikilink">謝維聰</a></p></td>
 <td><p>21</p></td>
 <td><p>2005年7月28日</p></td>
 </tr>
 <tr class="even">
 <td><p>Ruth Chua Shi Ni</p></td>
-<td><p><a href="../Page/蔡詩妮.md" title="wikilink">蔡詩妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡詩妮" title="wikilink">蔡詩妮</a></p></td>
 <td><p>18</p></td>
 <td><p>2005年7月28日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Macy Guo Mei Xi</p></td>
-<td><p><a href="../Page/郭美汐.md" title="wikilink">郭美汐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郭美汐" title="wikilink">郭美汐</a></p></td>
 <td><p>24</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>Lai Li Jun</p></td>
-<td><p><a href="../Page/黎俐君.md" title="wikilink">黎俐君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎俐君" title="wikilink">黎俐君</a></p></td>
 <td><p>21</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Chanel Pang Jing Ying</p></td>
-<td><p><a href="../Page/馮靖瑩.md" title="wikilink">馮靖瑩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮靖瑩" title="wikilink">馮靖瑩</a></p></td>
 <td><p>19</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>Sebastian Leong Wai Keong</p></td>
-<td><p><a href="../Page/梁偉強.md" title="wikilink">梁偉強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁偉強" title="wikilink">梁偉強</a></p></td>
 <td><p>18</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Leon Lim Yu Zhi</p></td>
-<td><p><a href="../Page/林昱志.md" title="wikilink">林昱志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林昱志" title="wikilink">林昱志</a></p></td>
 <td><p>18</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>Hagen Tan Meng Qi</p></td>
-<td><p><a href="../Page/陳孟奇.md" title="wikilink">陳孟奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳孟奇" title="wikilink">陳孟奇</a></p></td>
 <td><p>24</p></td>
 <td><p>2005年7月14日</p></td>
 </tr>
@@ -126,7 +126,7 @@
 </tr>
 <tr class="even">
 <td><p>Candy Tan Jing Ying</p></td>
-<td><p><a href="../Page/陳靖穎.md" title="wikilink">陳靖穎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳靖穎" title="wikilink">陳靖穎</a></p></td>
 <td><p>21</p></td>
 <td><p>2005年6月30日</p></td>
 </tr>
@@ -138,13 +138,13 @@
 </tr>
 <tr class="even">
 <td><p>Wendy Toh Hui Ling</p></td>
-<td><p><a href="../Page/卓慧玲.md" title="wikilink">卓慧玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓慧玲" title="wikilink">卓慧玲</a></p></td>
 <td><p>23</p></td>
 <td><p>2005年6月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Raymond Chua Gee Wee</p></td>
-<td><p><a href="../Page/蔡義偉.md" title="wikilink">蔡義偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡義偉" title="wikilink">蔡義偉</a></p></td>
 <td><p>26</p></td>
 <td><p>2005年6月30日</p></td>
 </tr>
@@ -156,13 +156,13 @@
 </tr>
 <tr class="odd">
 <td><p>Tan William Tanoto</p></td>
-<td><p><a href="../Page/陳耀榕.md" title="wikilink">陳耀榕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳耀榕" title="wikilink">陳耀榕</a></p></td>
 <td><p>22</p></td>
 <td><p>2005年6月30日</p></td>
 </tr>
 <tr class="even">
 <td><p>Darryl Yong Tze Wen</p></td>
-<td><p><a href="../Page/楊子文.md" title="wikilink">楊子文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊子文" title="wikilink">楊子文</a></p></td>
 <td><p>20</p></td>
 <td><p>2005年6月30日</p></td>
 </tr>

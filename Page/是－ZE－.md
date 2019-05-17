@@ -1,4 +1,4 @@
-《**是－ZE－**》（）是[志水雪的](../Page/志水雪.md "wikilink")[BL漫畫作品](../Page/BL.md "wikilink")。在月刊雜誌《[Dear+](../Page/Dear+.md "wikilink")》連載。
+《**是－ZE－**》（）是[志水雪的](https://zh.wikipedia.org/wiki/志水雪 "wikilink")[BL漫畫作品](https://zh.wikipedia.org/wiki/BL "wikilink")。在月刊雜誌《[Dear+](https://zh.wikipedia.org/wiki/Dear+ "wikilink")》連載。
 
 ## 故事簡介
 
@@ -6,7 +6,7 @@
 
 ## 登場角色
 
-※ 「聲 - 」為[廣播劇CD的配音員](../Page/廣播劇CD.md "wikilink")。
+※ 「聲 - 」為[廣播劇CD的配音員](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。
 
 ### 吉原家
 
@@ -20,16 +20,16 @@
     沒有言靈師的紙人。為了尋求自己存在的意義而從事性交易維生。
     但與雷藏相遇後改變想法，並且也學會了「喜歡」的感受，成為雷藏的紙人。
   - 吉原和記（よしわら わき）
-    聲 - [一条和矢](../Page/一条和矢.md "wikilink")
+    聲 - [一条和矢](https://zh.wikipedia.org/wiki/一条和矢 "wikilink")
     製作紙人的師傅「人形師」，擁有不死之身。性格捉摸不定、城府深，愛捉弄人，酒癡。
     出身自某個法師家族，與力一相遇後便與三刀本家同居、製造神紙，為了力一什麼都能捨棄，受力一言靈束縛，必須世代為三刀家製作紙人。
   - 三刀櫻花（みとう おうか）
     聲 - [神谷浩史](../Page/神谷浩史.md "wikilink")
-    言靈師。俊美的男裝麗人，喜歡[cosplay](../Page/cosplay.md "wikilink")。
+    言靈師。俊美的男裝麗人，喜歡[cosplay](https://zh.wikipedia.org/wiki/cosplay "wikilink")。
     性格沉著，任職百合卍偵探社社長。出身為三刀分家之一，為三姊弟的次女。
   - 紅緒（べにお）
     聲 - [吉住梢](../Page/吉住梢.md "wikilink")
-    櫻花的紙人，對櫻花百依百順，常常將她[cosplay各種衣服](../Page/cosplay.md "wikilink")。
+    櫻花的紙人，對櫻花百依百順，常常將她[cosplay各種衣服](https://zh.wikipedia.org/wiki/cosplay "wikilink")。
     前任言靈師是吟香，吟香失去力量後變回過白紙，遺忘所有記憶。
   - 三刀琴葉（みとう ことは）
     聲 - [綠川光](../Page/綠川光.md "wikilink")
@@ -66,11 +66,11 @@
     在河邊救了身受重傷的穂積後，愛上了他，與穂積一同離開紙里到都市結婚、生活。
     生下彰伊不久之後，便因為長時間承受言靈之力的反彈，身體逐漸衰弱而死。
   - 白波瀨（しらはぜ）
-    聲 - [こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")
+    聲 - [こおろぎさとみ](https://zh.wikipedia.org/wiki/こおろぎさとみ "wikilink")
     宇多的神紙，在宇多與穂積離開三刀家後，留下來成為千乃的神紙。
     在千乃過世後，一直照顧千乃的兒子琴葉，直到化作白紙為止。
   - 三刀千乃（みとう ゆきの）
-    聲 - [高本めぐみ](../Page/高本めぐみ.md "wikilink")
+    聲 - [高本めぐみ](https://zh.wikipedia.org/wiki/高本めぐみ "wikilink")
     力一的女兒，琴葉之母。繼力一之後，為三刀家當主，擁有非常強大的言靈之力，和丈夫貴光產下琴葉後過世。
   - 三刀貴光（みとう たかみつ）
     聲 - [前野智昭](../Page/前野智昭.md "wikilink")

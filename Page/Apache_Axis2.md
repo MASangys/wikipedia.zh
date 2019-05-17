@@ -1,13 +1,15 @@
 **Apache
-Axis2**是一個[Web服務的核心支援引擎](../Page/Web服務.md "wikilink")。AXIS2對舊有的AXIS重新設計及重寫，並提供兩種語言[Java及](../Page/Java.md "wikilink")[C的開發版本](../Page/C語言.md "wikilink")。
+Axis2**是一個[Web服務的核心支援引擎](https://zh.wikipedia.org/wiki/Web服務 "wikilink")。AXIS2對舊有的AXIS重新設計及重寫，並提供兩種語言[Java及](../Page/Java.md "wikilink")[C的開發版本](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
 事實上AXIS2 不只為WEB應用程式提供Web服務的介面，而且它也可以作為一個單獨的伺服器看待，而且很簡單就能跟[Apache
 Tomcat整合](../Page/Apache_Tomcat.md "wikilink")，目前AXIS2的最新版本是1.6.2。
 
 ## AXIS2項目
 
-Apache AXIS2是一個 [SOAP](../Page/SOAP.md "wikilink")（"Simple Object Access
-Protocol 簡單物件存取恊定"）的實作並已經提交 [W3C](../Page/W3C.md "wikilink")。
+Apache AXIS2是一個
+[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")（"Simple Object
+Access Protocol 簡單物件存取恊定"）的實作並已經提交
+[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")。
 
 來自 W3C 的規格：
 
@@ -50,13 +52,14 @@ Axis2有許多新的特點，以加強對行業規範的實施，主要點如下
 ## 相關技術
 
   - [Apache Axis](../Page/Apache_Axis.md "wikilink")
-  - [Web服務](../Page/Web服務.md "wikilink")
-  - [Java Web 服務開發架構](../Page/Java_Web_服務開發架構.md "wikilink") - web
-    services framework
-  - [XML 網路服務介面](../Page/XML_網路服務介面.md "wikilink") - RPC/web services
-    framework
-  - [Web 服務引用架構](../Page/Web_服務引用架構.md "wikilink") - Java API for
-    invoking Web services
+  - [Web服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")
+  - [Java Web
+    服務開發架構](https://zh.wikipedia.org/wiki/Java_Web_服務開發架構 "wikilink")
+    - web services framework
+  - [XML 網路服務介面](https://zh.wikipedia.org/wiki/XML_網路服務介面 "wikilink") -
+    RPC/web services framework
+  - [Web 服務引用架構](https://zh.wikipedia.org/wiki/Web_服務引用架構 "wikilink") -
+    Java API for invoking Web services
 
 ## 外部連結
 

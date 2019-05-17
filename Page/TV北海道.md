@@ -1,5 +1,5 @@
 **株式會社TV北海道**（，正式英文名稱為Television Hokkaido Broadcasting Co.,
-Ltd.）是[TXN的加盟](../Page/東京電視網.md "wikilink")[電視台](../Page/電視台.md "wikilink")，成立於1988年6月，開播于1989年10月1日且同時加盟TXN，[數位電視呼號為JOHI](../Page/數位電視.md "wikilink")-DTV。放送范圍為[北海道](../Page/北海道.md "wikilink")。簡稱TVh。是[北海道新聞社的](../Page/北海道新聞.md "wikilink")[關係企業](../Page/關係企業.md "wikilink")。
+Ltd.）是[TXN的加盟](../Page/東京電視網.md "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，成立於1988年6月，開播于1989年10月1日且同時加盟TXN，[數位電視呼號為JOHI](https://zh.wikipedia.org/wiki/數位電視 "wikilink")-DTV。放送范圍為[北海道](../Page/北海道.md "wikilink")。簡稱TVh。是[北海道新聞社的](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")[關係企業](https://zh.wikipedia.org/wiki/關係企業 "wikilink")。
 [TVH_Sapporo_HQ_20070601-001.jpg](https://zh.wikipedia.org/wiki/File:TVH_Sapporo_HQ_20070601-001.jpg "fig:TVH_Sapporo_HQ_20070601-001.jpg")
 
 ## 外部連結

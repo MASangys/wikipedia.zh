@@ -1,10 +1,10 @@
-**Jasmin** 是一[自由軟體的](../Page/自由軟體.md "wikilink") JAVA
-[組合語言](../Page/組合語言.md "wikilink") ，可用於設計
+**Jasmin** 是一[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink") JAVA
+[組合語言](https://zh.wikipedia.org/wiki/組合語言 "wikilink") ，可用於設計
 class（類別）檔如同以JAVA 語言設計的相同與運用，但更可以得以深入了解 JAVA 語言與 PC
-之間的運作模式與方法。Jasmin 程式的編譯與設計，仍是以易讀性為考量來設計，其適合熟悉 JAVA 語言與略懂 C/C++
-語法的程式設計師，如同 assembler-like 語法以 Java Virtual Machine (JVM) 架構與程序設計書為核心；但是
-Jasmin 仍不同於 Java 程式語言的編譯 (Compiler Programing) 方式，而是以類似 C++ compiler
-的方式來組譯 (assembler) 與連結（linker）。
+之間的運作模式與方法。Jasmin 程式的編譯與設計，仍是以易讀性為考量來設計，其適合熟悉 JAVA 語言與略懂
+C/C++ 語法的程式設計師，如同 assembler-like 語法以 Java Virtual Machine (JVM)
+架構與程序設計書為核心；但是 Jasmin 仍不同於 Java 程式語言的編譯 (Compiler
+Programing) 方式，而是以類似 C++ compiler 的方式來組譯 (assembler) 與連結（linker）。
 
 Jasmin 的編寫以類似 assembler-like 語法，其語言設計簡潔與易讀，編譯完成後會被轉成為一中間碼 (bytecode) 的
 JVM Class 檔，可用於 Java 即時系統 (Java runtime system).
@@ -70,24 +70,28 @@ Apr. 29, 2013 但軟體檔案維護仍是 2.4 版 (May 7, 2010)。
 
 ## 参考
 
-  - [Java bytecode](../Page/Java_bytecode.md "wikilink")
+  - [Java
+    bytecode](https://zh.wikipedia.org/wiki/Java_bytecode "wikilink")
   - [the Java .class file
-    format](../Page/Class_\(file_format\).md "wikilink")
+    format](https://zh.wikipedia.org/wiki/Class_\(file_format\) "wikilink")
   - [C to Java Virtual Machine
-    compilers](../Page/C_to_Java_Virtual_Machine_compilers.md "wikilink")
-  - [ARM9E](../Page/ARM9E.md "wikilink")，a
-    [CPU](../Page/Central_processing_unit.md "wikilink") family with
-    direct Java bytecode execution ability
+    compilers](https://zh.wikipedia.org/wiki/C_to_Java_Virtual_Machine_compilers "wikilink")
+  - [ARM9E](https://zh.wikipedia.org/wiki/ARM9E "wikilink")，a
+    [CPU](https://zh.wikipedia.org/wiki/Central_processing_unit "wikilink")
+    family with direct Java bytecode execution ability
   - [Common Intermediate
-    Language](../Page/Common_Intermediate_Language.md "wikilink") (CIL),
-    a similar bytecode specification that runs on the
-    [CLR](../Page/Common_Language_Runtime.md "wikilink") of the [.NET
-    Framework](../Page/.NET_Framework.md "wikilink")。
-  - [Compiler](../Page/Compiler.md "wikilink")
-  - [Disassembler](../Page/Disassembler.md "wikilink")
-  - [List of assemblers](../Page/List_of_assemblers.md "wikilink")
-  - [Instruction set](../Page/Instruction_set.md "wikilink")
-  - [Microassembler](../Page/Microassembler.md "wikilink")
+    Language](https://zh.wikipedia.org/wiki/Common_Intermediate_Language "wikilink")
+    (CIL), a similar bytecode specification that runs on the
+    [CLR](https://zh.wikipedia.org/wiki/Common_Language_Runtime "wikilink")
+    of the [.NET
+    Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。
+  - [Compiler](https://zh.wikipedia.org/wiki/Compiler "wikilink")
+  - [Disassembler](https://zh.wikipedia.org/wiki/Disassembler "wikilink")
+  - [List of
+    assemblers](https://zh.wikipedia.org/wiki/List_of_assemblers "wikilink")
+  - [Instruction
+    set](https://zh.wikipedia.org/wiki/Instruction_set "wikilink")
+  - [Microassembler](https://zh.wikipedia.org/wiki/Microassembler "wikilink")
 
 ## 書籍
 

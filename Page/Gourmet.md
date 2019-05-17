@@ -1,6 +1,6 @@
 **Gourmet**是[長江和記實業旗下](../Page/長江和記實業.md "wikilink")[屈臣氏集團於](../Page/屈臣氏集團.md "wikilink")2005年6月於[香港設立的超級市場](../Page/香港.md "wikilink")，主要對象是[中產階級的消費者](../Page/中產階級.md "wikilink")，售賣世界各地之入口食品為主。Gourmet於2011年2月27日暫停營業，以便由原址[銅鑼灣](../Page/銅鑼灣.md "wikilink")[利園一期地庫搬遷至](../Page/利園一期.md "wikilink")[禮頓中心地庫](../Page/禮頓中心.md "wikilink")，並於2012年1月在新址重新開業。
 
-Gourmet的[利園一期商場原址是翻新](../Page/利園一期.md "wikilink")[屈臣氏集團旗下](../Page/屈臣氏集團.md "wikilink")[百佳超級市場](../Page/百佳.md "wikilink")，並改成新模式經營，店內出售的產品較同集團旗下[百佳多及進口貨品](../Page/百佳.md "wikilink")。新店位於[禮頓中心B](../Page/禮頓中心.md "wikilink")2地庫，位置較隱閉，內部裝修與一般[百佳無異](../Page/百佳.md "wikilink")。
+Gourmet的[利園一期商場原址是翻新](../Page/利園一期.md "wikilink")[屈臣氏集團旗下](../Page/屈臣氏集團.md "wikilink")[百佳超級市場](https://zh.wikipedia.org/wiki/百佳 "wikilink")，並改成新模式經營，店內出售的產品較同集團旗下[百佳多及進口貨品](https://zh.wikipedia.org/wiki/百佳 "wikilink")。新店位於[禮頓中心B](../Page/禮頓中心.md "wikilink")2地庫，位置較隱閉，內部裝修與一般[百佳無異](https://zh.wikipedia.org/wiki/百佳 "wikilink")。
 
 ## 分店
 
@@ -16,29 +16,29 @@ Gourmet的[利園一期商場原址是翻新](../Page/利園一期.md "wikilink"
 
 ## 售賣產品
 
-  - [西式凍肉區](../Page/西式凍肉.md "wikilink")
-  - [芝士區](../Page/芝士.md "wikilink")
-  - [日本韓國食品區](../Page/日本韓國食品.md "wikilink")
-  - [新鮮麵包區](../Page/新鮮麵包.md "wikilink")
-  - [西式肉類/冰鮮豬肉區](../Page/西式肉類/冰鮮豬肉.md "wikilink")
-  - [新鮮蔬果區](../Page/新鮮蔬果.md "wikilink")
-  - [壽司區](../Page/壽司.md "wikilink")
-  - [糧油雜貨區](../Page/糧油雜貨.md "wikilink")
-  - [葡萄酒及](../Page/葡萄酒.md "wikilink")[烈酒區](../Page/烈酒.md "wikilink")
-  - [沙律和三文治區](../Page/沙律和三文治.md "wikilink")
-  - [個人護理用品區](../Page/個人護理用品.md "wikilink")
-  - [清潔用品區](../Page/清潔用品.md "wikilink")
-  - [乳酪奶品區](../Page/乳酪奶品.md "wikilink")
-  - [急凍食品區](../Page/急凍食品.md "wikilink")
-  - [嬰兒奶粉區](../Page/嬰兒奶粉.md "wikilink")
+  - [西式凍肉區](https://zh.wikipedia.org/wiki/西式凍肉 "wikilink")
+  - [芝士區](https://zh.wikipedia.org/wiki/芝士 "wikilink")
+  - [日本韓國食品區](https://zh.wikipedia.org/wiki/日本韓國食品 "wikilink")
+  - [新鮮麵包區](https://zh.wikipedia.org/wiki/新鮮麵包 "wikilink")
+  - [西式肉類/冰鮮豬肉區](https://zh.wikipedia.org/wiki/西式肉類/冰鮮豬肉 "wikilink")
+  - [新鮮蔬果區](https://zh.wikipedia.org/wiki/新鮮蔬果 "wikilink")
+  - [壽司區](https://zh.wikipedia.org/wiki/壽司 "wikilink")
+  - [糧油雜貨區](https://zh.wikipedia.org/wiki/糧油雜貨 "wikilink")
+  - [葡萄酒及](../Page/葡萄酒.md "wikilink")[烈酒區](https://zh.wikipedia.org/wiki/烈酒 "wikilink")
+  - [沙律和三文治區](https://zh.wikipedia.org/wiki/沙律和三文治 "wikilink")
+  - [個人護理用品區](https://zh.wikipedia.org/wiki/個人護理用品 "wikilink")
+  - [清潔用品區](https://zh.wikipedia.org/wiki/清潔用品 "wikilink")
+  - [乳酪奶品區](https://zh.wikipedia.org/wiki/乳酪奶品 "wikilink")
+  - [急凍食品區](https://zh.wikipedia.org/wiki/急凍食品 "wikilink")
+  - [嬰兒奶粉區](https://zh.wikipedia.org/wiki/嬰兒奶粉 "wikilink")
 
 ## 出售產品
 
 Gourmet出售來自全球的產品，包括：
 
   - 來自全球的雜貨
-  - 新鮮[海產](../Page/海產.md "wikilink")
-  - 來自[亞洲及](../Page/亞洲.md "wikilink")[歐洲的產品](../Page/歐洲.md "wikilink")
+  - 新鮮[海產](https://zh.wikipedia.org/wiki/海產 "wikilink")
+  - 來自[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[歐洲的產品](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
   - 環球熟食
 
 ## 個人化服務

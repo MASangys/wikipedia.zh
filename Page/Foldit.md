@@ -1,6 +1,6 @@
-**Foldit**是一个实验性的[蛋白质折叠](../Page/蛋白质折叠.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，結合了[眾包與](../Page/眾包.md "wikilink")[分布式計算的思想](../Page/分布式計算.md "wikilink")。由[华盛顿大学的](../Page/华盛顿大学.md "wikilink")[计算机科学和工程学系和](../Page/计算机科学和工程.md "wikilink")[生物化学学系](../Page/生物化学.md "wikilink")（同一批人中，很多人也參與创建[Rosetta@home](../Page/Rosetta@home.md "wikilink")）聯合共同開發。
+**Foldit**是一个实验性的[蛋白质折叠](../Page/蛋白质折叠.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，結合了[眾包與](https://zh.wikipedia.org/wiki/眾包 "wikilink")[分布式計算的思想](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")。由[华盛顿大学的](https://zh.wikipedia.org/wiki/华盛顿大学 "wikilink")[计算机科学和工程学系和](https://zh.wikipedia.org/wiki/计算机科学和工程 "wikilink")[生物化学学系](../Page/生物化学.md "wikilink")（同一批人中，很多人也參與创建[Rosetta@home](../Page/Rosetta@home.md "wikilink")）聯合共同開發。
 
-Foldit提供一系列[教程](../Page/教程.md "wikilink")，讓用户試著操縱简单的類蛋白质構造，並定期更新以真實[蛋白質結構為基礎的謎題](../Page/蛋白質結構.md "wikilink")。該程序讓用户在工具辅助解謎，就能够得出實際的蛋白质模型。每當結構被变动，一个“分数”会根据折叠的完善程度给出。Foldit用户可以创立加入小组，分享各自的方案。也有小组高分榜。
+Foldit提供一系列[教程](https://zh.wikipedia.org/wiki/教程 "wikilink")，讓用户試著操縱简单的類蛋白质構造，並定期更新以真實[蛋白質結構為基礎的謎題](https://zh.wikipedia.org/wiki/蛋白質結構 "wikilink")。該程序讓用户在工具辅助解謎，就能够得出實際的蛋白质模型。每當結構被变动，一个“分数”会根据折叠的完善程度给出。Foldit用户可以创立加入小组，分享各自的方案。也有小组高分榜。
 
 生物製造主要蛋白質結構的方式（[蛋白質生物合成](../Page/蛋白質生物合成.md "wikilink")）在原理上已經為人類所理解，此即蛋白質[DNA測序的方法](../Page/DNA測序.md "wikilink")。而解明肽链是如何折叠成三维的蛋白质结构更為困難；雖然大致的程序已經為人所知，但[蛋白质结构预测還是需要大量的運算](../Page/蛋白质结构预测.md "wikilink")。
 

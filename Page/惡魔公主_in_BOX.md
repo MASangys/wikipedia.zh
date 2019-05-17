@@ -1,5 +1,5 @@
 《**惡魔公主 in
-BOX**》（）是[松本真原作](../Page/松本真.md "wikilink")，[根津舞香作畫的漫畫作品](../Page/根津舞香.md "wikilink")。於《月刊Comic
+BOX**》（）是[松本真原作](https://zh.wikipedia.org/wiki/松本真 "wikilink")，[根津舞香作畫的漫畫作品](https://zh.wikipedia.org/wiki/根津舞香 "wikilink")。於《月刊Comic
 Rush》2004年3月號（創刊號）起連載到2007年7月號。單行本全6卷，中文版由[東立出版社出版發行](../Page/東立出版社.md "wikilink")。
 
 ## 故事簡介
@@ -36,9 +36,9 @@ Rush》2004年3月號（創刊號）起連載到2007年7月號。單行本全6�
   -
     大惡魔[亞斯塔洛泰的分身](../Page/阿斯塔蒂.md "wikilink")。和塔洛特是雙胞胎。負責在引起騷動後收拾善後。
   -
-    大惡魔[列比亞坦的分身](../Page/利維坦.md "wikilink")。使用刀劍做為武器。說話很衝。
+    大惡魔[列比亞坦的分身](https://zh.wikipedia.org/wiki/利維坦 "wikilink")。使用刀劍做為武器。說話很衝。
   -
-    大惡魔[貝爾賽步的分身](../Page/別西卜.md "wikilink")。非常自我中心，和塔洛特關係很差。
+    大惡魔[貝爾賽步的分身](https://zh.wikipedia.org/wiki/別西卜 "wikilink")。非常自我中心，和塔洛特關係很差。
   -
     冥府支配者[哈得斯的分身](../Page/哈得斯.md "wikilink")，沉默寡言。叫她時不加小就不會有反應。
   -
@@ -52,7 +52,7 @@ Rush》2004年3月號（創刊號）起連載到2007年7月號。單行本全6�
   -
     時空支配者克羅諾斯的分身。很愛說教，一旦開口就停不下來。
   -
-    戰神[阿修羅的分身](../Page/阿修羅.md "wikilink")。戰鬥力高強，缺點是很懶。
+    戰神[阿修羅的分身](https://zh.wikipedia.org/wiki/阿修羅 "wikilink")。戰鬥力高強，缺點是很懶。
 
 ## 出版書籍
 

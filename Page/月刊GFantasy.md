@@ -2,7 +2,7 @@
 Enix）出版的[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。1992年以《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》的增刊《Fantastic
 Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994年4月號改為現在這個名字。
 
-增刊有《Stencil》（後獨立創刊為《[月刊Stencil](../Page/月刊Stencil.md "wikilink")》、現休刊）及《GFantasy++》。2018年2月22日新創刊《[PFantapy](../Page/PFantapy.md "wikilink")》。
+增刊有《Stencil》（後獨立創刊為《[月刊Stencil](../Page/月刊Stencil.md "wikilink")》、現休刊）及《GFantasy++》。2018年2月22日新創刊《[PFantapy](https://zh.wikipedia.org/wiki/PFantapy "wikilink")》。
 
 就如雜誌名，作品多半為[奇幻漫畫](../Page/奇幻漫畫.md "wikilink")，以女性向、青年向作品為中心。
 
@@ -49,7 +49,7 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <tr class="odd">
 <td></td>
 <td><p>萩原ダイスケ</p></td>
-<td><p><a href="../Page/HERO_(漫畫家).md" title="wikilink">HERO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HERO_(漫畫家)" title="wikilink">HERO</a></p></td>
 <td><p>2011年11月號</p></td>
 </tr>
 <tr class="even">
@@ -61,7 +61,7 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <tr class="odd">
 <td></td>
 <td><p>汐田晴人</p></td>
-<td><p><a href="../Page/ATLUS.md" title="wikilink">ATLUS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a></p></td>
 <td><p>2013年1月號</p></td>
 </tr>
 <tr class="even">
@@ -115,13 +115,13 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <tr class="even">
 <td></td>
 <td><p>きたうみつな</p></td>
-<td><p><a href="../Page/佐島勤.md" title="wikilink">佐島勤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐島勤" title="wikilink">佐島勤</a></p></td>
 <td><p>2013年11月號</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>天羽銀</p></td>
-<td><p><a href="../Page/佐島勤.md" title="wikilink">佐島勤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐島勤" title="wikilink">佐島勤</a></p></td>
 <td><p>2013年11月號</p></td>
 </tr>
 <tr class="even">
@@ -164,7 +164,7 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/望月淳.md" title="wikilink">望月淳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/望月淳" title="wikilink">望月淳</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -175,7 +175,7 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/桃山日生.md" title="wikilink">桃山日生</a></p></td>
-<td><p><a href="../Page/竜騎士07.md" title="wikilink">竜騎士07</a>（兼任監修）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竜騎士07" title="wikilink">竜騎士07</a>（兼任監修）</p></td>
 </tr>
 <tr class="even">
 <td><p>{{nihongo|[[無頭騎士異聞錄_DuRaRaRa</p></td>
@@ -203,7 +203,7 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
 <td><p>Rejet</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/:ja:BLOOD_PARADE.md" title="wikilink">BLOOD PARADE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:ja:BLOOD_PARADE" title="wikilink">BLOOD PARADE</a></p></td>
 <td><p>唐沢一義</p></td>
 <td></td>
 </tr>
@@ -230,9 +230,9 @@ Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994
   - [官方網站](http://www.square-enix.co.jp/magazine/gfantasy/)
 
 [en:Gangan Comics\#Monthly
-GFantasy](../Page/en:Gangan_Comics#Monthly_GFantasy.md "wikilink")
+GFantasy](https://zh.wikipedia.org/wiki/en:Gangan_Comics#Monthly_GFantasy "wikilink")
 [it:Gangan Comics\#Monthly
-GFantasy](../Page/it:Gangan_Comics#Monthly_GFantasy.md "wikilink")
+GFantasy](https://zh.wikipedia.org/wiki/it:Gangan_Comics#Monthly_GFantasy "wikilink")
 
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")

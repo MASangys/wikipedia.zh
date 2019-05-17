@@ -1,8 +1,8 @@
 **Buono\!**（），[日本](../Page/日本.md "wikilink")[Hello\!
-Project旗下的一女子偶像團體組合](../Page/Hello!_Project.md "wikilink")。
+Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
-由[Berryz工房及](../Page/Berryz工房.md "wikilink")[℃-ute中選出](../Page/℃-ute.md "wikilink")3名成員組成的一個小組。當初是為動畫[守護甜心\!演唱片頭曲及片尾曲而成立的組合](../Page/守護甜心!.md "wikilink")。雖然成員是Hello\!
-Project的成員，但起初的唱片的公司卻是[波麗佳音](../Page/波麗佳音.md "wikilink")，直自2011年，唱片公司才改爲[zetima](../Page/zetima.md "wikilink")，即變回與一般Hello\!
+由[Berryz工房及](../Page/Berryz工房.md "wikilink")[℃-ute中選出](../Page/℃-ute.md "wikilink")3名成員組成的一個小組。當初是為動畫[守護甜心\!演唱片頭曲及片尾曲而成立的組合](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")。雖然成員是Hello\!
+Project的成員，但起初的唱片的公司卻是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，直自2011年，唱片公司才改爲[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")，即變回與一般Hello\!
 Project的成員無異。
 
 ## 成員
@@ -90,7 +90,7 @@ Dolce（伴奏樂團）
 ## 概要
 
   - Buono\!大致發音「\[buɔnɔ\]」，是義大利文「讚\!」「好\!」的意思。
-  - Buono\!主要是演唱由[東京電視台播出的動畫](../Page/東京電視台.md "wikilink")「[守護甜心\!](../Page/守護甜心!.md "wikilink")」的歌曲，2007年，選出了[Berryz工房的成員](../Page/Berryz工房.md "wikilink")[嗣永桃子](../Page/嗣永桃子.md "wikilink")、[夏燒雅以及](../Page/夏燒雅.md "wikilink")[℃-ute的成員](../Page/℃-ute.md "wikilink")[鈴木愛理組成這個團體](../Page/鈴木愛理.md "wikilink")，這3位成員的人氣和實力都兼備（成員嗣永桃子及夏燒雅是[Berryz工房其中的TOP](../Page/Berryz工房.md "wikilink")2，而鈴木愛理則是[℃-ute的主音之一](../Page/℃-ute.md "wikilink")。三人亦為各自母團中的ACE。），而成員夏燒雅及鈴木愛理更是繼2003年洗牌組合「」後再次被編入同一小組。
+  - Buono\!主要是演唱由[東京電視台播出的動畫](../Page/東京電視台.md "wikilink")「[守護甜心\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")」的歌曲，2007年，選出了[Berryz工房的成員](../Page/Berryz工房.md "wikilink")[嗣永桃子](../Page/嗣永桃子.md "wikilink")、[夏燒雅以及](../Page/夏燒雅.md "wikilink")[℃-ute的成員](../Page/℃-ute.md "wikilink")[鈴木愛理組成這個團體](../Page/鈴木愛理.md "wikilink")，這3位成員的人氣和實力都兼備（成員嗣永桃子及夏燒雅是[Berryz工房其中的TOP](../Page/Berryz工房.md "wikilink")2，而鈴木愛理則是[℃-ute的主音之一](../Page/℃-ute.md "wikilink")。三人亦為各自母團中的ACE。），而成員夏燒雅及鈴木愛理更是繼2003年洗牌組合「」後再次被編入同一小組。
   - Buono\!最初組成的原因是因為要主唱動畫「守護甜心\!」的主題曲及片尾曲的，但因為出單曲的反應不錯（在Oricon排行榜都要有不錯排名），因而受到廣告商的垂青，進行多方面的活動，是早安家族團體中的唯一異例。
   - Buono\!的中心是輪流交替的，有別於一般早安家族的組合。
       - 《真實的自我》到《Kiss\! Kiss\!
@@ -131,7 +131,7 @@ Dolce（伴奏樂團）
 ### 2010年
 
   - 2月3日，第10張單曲《[Our
-    Songs](../Page/Our_Songs.md "wikilink")》發售。這是在[波麗佳音最後發售的單曲](../Page/波麗佳音.md "wikilink")。
+    Songs](../Page/Our_Songs.md "wikilink")》發售。這是在[波麗佳音最後發售的單曲](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
   - 8月10日，精選集《[The Best
     Buono\!](../Page/The_Best_Buono!.md "wikilink")》發售，這是在波麗佳音最後發售的作品。
 
@@ -141,7 +141,7 @@ Dolce（伴奏樂團）
   - 2月5日，湘南海灘FM說「MUSIC Buono\!」Buono\!個性節目開始。
   - 10月1日，「PIZZA-LA presents Café Buono\!」開始。
   - 10月29日，電影『對不起』（ゴメンナサイ）初次主演\[5\]。還有，擔任演唱同電影的主題曲\[6\]。
-  - 11月12日，發表2012年2月12日將在[法國](../Page/法國.md "wikilink")[巴黎舉行單獨Live演唱會](../Page/巴黎.md "wikilink")\[7\]。
+  - 11月12日，發表2012年2月12日將在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎舉行單獨Live演唱會](../Page/巴黎.md "wikilink")\[7\]。
 
 ### 2012年
 
@@ -174,7 +174,7 @@ Dolce（伴奏樂團）
 
 ## 作品
 
-唱片起初由[波麗佳音發行](../Page/波麗佳音.md "wikilink")，2010年11月起改為[zetima發行](../Page/zetima.md "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
+唱片起初由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，2010年11月起改為[zetima發行](https://zh.wikipedia.org/wiki/zetima "wikilink")，2007年起台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
 
 ### 單曲
 
@@ -199,14 +199,14 @@ Dolce（伴奏樂團）
 <td><p><a href="../Page/真實的自我_(Buono!單曲).md" title="wikilink">真實的自我</a></p></td>
 <td><p>5</p></td>
 <td><p>42,035</p></td>
-<td><p>動畫<a href="../Page/守護甜心!.md" title="wikilink">守護甜心!的片尾曲</a></p></td>
+<td><p>動畫<a href="https://zh.wikipedia.org/wiki/守護甜心!" title="wikilink">守護甜心!的片尾曲</a></p></td>
 <td><p><a href="../Page/Café_Buono!.md" title="wikilink">Café Buono!</a></p></td>
 </tr>
 <tr class="even">
 <td><p>02nd</p></td>
 <td><p>2008年2月6日</p></td>
 <td></td>
-<td><p><a href="../Page/戀愛騎士.md" title="wikilink">戀愛♥騎士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛騎士" title="wikilink">戀愛♥騎士</a></p></td>
 <td><p>7</p></td>
 <td><p>35,254</p></td>
 <td></td>
@@ -216,7 +216,7 @@ Dolce（伴奏樂團）
 <td><p>03rd</p></td>
 <td><p>2008年5月14日</p></td>
 <td></td>
-<td><p><a href="../Page/Kiss!_Kiss!_Kiss!.md" title="wikilink">Kiss! Kiss! Kiss!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kiss!_Kiss!_Kiss!" title="wikilink">Kiss! Kiss! Kiss!</a></p></td>
 <td><p>4</p></td>
 <td><p>36,675</p></td>
 <td><p><a href="../Page/Buono!2.md" title="wikilink">Buono!2</a></p></td>
@@ -246,7 +246,7 @@ Dolce（伴奏樂團）
 <td><p>06th</p></td>
 <td><p>2009年1月21日</p></td>
 <td></td>
-<td><p><a href="../Page/co·no·mi·chi.md" title="wikilink">co·no·mi·chi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/co·no·mi·chi" title="wikilink">co·no·mi·chi</a></p></td>
 <td><p>4</p></td>
 <td><p>22,735</p></td>
 <td></td>
@@ -279,7 +279,7 @@ Dolce（伴奏樂團）
 <td><p><a href="../Page/Bravo☆Bravo.md" title="wikilink">Bravo☆Bravo</a></p></td>
 <td><p>4</p></td>
 <td><p>20,380</p></td>
-<td><p>動畫<a href="../Page/守護甜心!.md" title="wikilink">守護甜心!派對!的片尾曲</a></p></td>
+<td><p>動畫<a href="https://zh.wikipedia.org/wiki/守護甜心!" title="wikilink">守護甜心!派對!的片尾曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -300,13 +300,13 @@ Dolce（伴奏樂團）
 <td><p>9</p></td>
 <td><p>14,794</p></td>
 <td></td>
-<td><p><a href="../Page/partenza_出發.md" title="wikilink">partenza 出發</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/partenza_出發" title="wikilink">partenza 出發</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2011年7月20日</p></td>
 <td></td>
-<td><p><a href="../Page/因爲是夏天!.md" title="wikilink">因爲是夏天!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/因爲是夏天!" title="wikilink">因爲是夏天!</a></p></td>
 <td><p>13</p></td>
 <td><p>12,554</p></td>
 <td></td>
@@ -316,11 +316,11 @@ Dolce（伴奏樂團）
 <td><p>13th</p></td>
 <td><p>2012年1月18日</p></td>
 <td></td>
-<td><p><a href="../Page/初戀汽水_/_DEEP_MIND.md" title="wikilink">初戀汽水 / DEEP MIND</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/初戀汽水_/_DEEP_MIND" title="wikilink">初戀汽水 / DEEP MIND</a></p></td>
 <td><p>7</p></td>
 <td><p>13,899</p></td>
 <td><p>第一張2A單曲、電視劇「數學♥女子學園」的片尾曲（初戀汽水）、電影「對不起」（ゴメンナサイ）的主題曲（DEEP MIND）</p></td>
-<td><p><a href="../Page/SHERBET.md" title="wikilink">SHERBET</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHERBET" title="wikilink">SHERBET</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14th</p></td>
@@ -386,11 +386,11 @@ Dolce（伴奏樂團）
 
 ### 迷你專輯
 
-|      | 發行日        | 專輯       | 中譯標題                                             | 週間專輯榜 | 累計銷量  |
-| ---- | ---------- | -------- | ------------------------------------------------ | ----- | ----- |
-| 01st | 2011年8月10日 | partenza | [partenza 出發](../Page/partenza_出發.md "wikilink") | 21    | 6,442 |
-| 02nd | 2012年8月22日 | SHERBET  | [SHERBET](../Page/SHERBET.md "wikilink")         | 14    | 8,360 |
-|      |            |          |                                                  |       |       |
+|      | 發行日        | 專輯       | 中譯標題                                                                | 週間專輯榜 | 累計銷量  |
+| ---- | ---------- | -------- | ------------------------------------------------------------------- | ----- | ----- |
+| 01st | 2011年8月10日 | partenza | [partenza 出發](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink") | 21    | 6,442 |
+| 02nd | 2012年8月22日 | SHERBET  | [SHERBET](https://zh.wikipedia.org/wiki/SHERBET "wikilink")         | 14    | 8,360 |
+|      |            |          |                                                                     |       |       |
 
 ### 精選專輯
 
@@ -445,28 +445,28 @@ Dolce（伴奏樂團）
 
 ### DVD/Blu-ray（Single V Clips）
 
-|      | 發行日        | Single V Clips                                    | 中譯標題                                                      | 週間榜 |
-| ---- | ---------- | ------------------------------------------------- | --------------------------------------------------------- | --- |
-| 01st | 2010年3月10日 | CLIPS vol.1                                       | [CLIPS vol.1](../Page/CLIPS_vol.1.md "wikilink")          | 16  |
-| 02nd | 2010年3月17日 | しゅごキャラ\!クリップ♪ベスト                                  | [守護甜心\! Clip♪Best](../Page/守護甜心!_Clip♪Best.md "wikilink") | \-  |
-| 03rd | 2012年7月4日  | Buono\!全シングルMUSIC VIDEO Blu-ray File2012（Blu-ray） | Buono\!全單曲MUSIC VIDEO Blu-ray File2012                    | \-  |
-| 04th | 2012年8月29日 | CLIPS vol.2                                       | [CLIPS vol.2](../Page/CLIPS_vol.2.md "wikilink")          | \-  |
-|      |            |                                                   |                                                           |     |
+|      | 發行日        | Single V Clips                                    | 中譯標題                                                                         | 週間榜 |
+| ---- | ---------- | ------------------------------------------------- | ---------------------------------------------------------------------------- | --- |
+| 01st | 2010年3月10日 | CLIPS vol.1                                       | [CLIPS vol.1](https://zh.wikipedia.org/wiki/CLIPS_vol.1 "wikilink")          | 16  |
+| 02nd | 2010年3月17日 | しゅごキャラ\!クリップ♪ベスト                                  | [守護甜心\! Clip♪Best](https://zh.wikipedia.org/wiki/守護甜心!_Clip♪Best "wikilink") | \-  |
+| 03rd | 2012年7月4日  | Buono\!全シングルMUSIC VIDEO Blu-ray File2012（Blu-ray） | Buono\!全單曲MUSIC VIDEO Blu-ray File2012                                       | \-  |
+| 04th | 2012年8月29日 | CLIPS vol.2                                       | [CLIPS vol.2](https://zh.wikipedia.org/wiki/CLIPS_vol.2 "wikilink")          | \-  |
+|      |            |                                                   |                                                                              |     |
 
 ### DVD/Blu-ray（演唱會）
 
-|      | 發行日         | 演唱會                                                                                                                                            | 週間榜          |
-| ---- | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 01st | 2009年5月27日  | [Buono\!Live2009 〜ハイブリッド☆パンチ〜](../Page/Buono!Live2009_〜ハイブリッド☆パンチ〜.md "wikilink")                                                              | 2            |
-| 02nd | 2010年5月19日  | [Buono\!Live Tour2010 〜We are Buono\!〜](../Page/Buono!Live_Tour2010_〜We_are_Buono!〜.md "wikilink")                                             | 3            |
-| 03rd | 2010年11月10日 | [Buono\! Live Tour 2010 〜Rock'n Buono\! 3〜](../Page/Buono!_Live_Tour_2010_〜Rock'n_Buono!_3〜.md "wikilink")                                     | 5            |
-| 04th | 2011年6月22日  | [Buono\! Live 2011 winter 〜Re;Buono\!〜](../Page/Buono!_Live_2011_winter_〜Re;Buono!〜.md "wikilink")（DVD/Blu-ray）                                | DVD：8/BD：32  |
-| 05th | 2011年12月7日  | [Buono\! Live Tour 2011 summer 〜Rock'n Buono\! 4〜](../Page/Buono!_Live_Tour_2011_summer_〜Rock'n_Buono!_4〜.md "wikilink")（DVD/Blu-ray）\[8\]     | DVD：21/BD：19 |
-| 06th | 2012年5月23日  | [Buono\! LIVE 2012 "R・E・A・L"](../Page/Buono!_LIVE_2012_"R・E・A・L".md "wikilink")（DVD/Blu-ray）                                                   | DVD：4/BD：40  |
-| 07th | 2012年12月12日 | [PIZZA-LA Presents Buono\! Delivery LIVE 2012　～愛的外送！～](../Page/PIZZA-LA_Presents_Buono!_Delivery_LIVE_2012_～愛的外送！～.md "wikilink")（DVD/Blu-ray） | DVD：13       |
-| 08th | 2016年11月23日 | [Buono\! Festa 2016](../Page/Buono!_Festa_2016.md "wikilink")（DVD/Blu-ray）                                                                     | DVD：6/BD：2   |
-| 09th | 2017年9月13日  | [Buono\! ライブ 2017 〜Pienezza\!〜](../Page/Buono!_ライブ_2017_〜Pienezza!〜.md "wikilink")（DVD/Blu-ray）                                                | DVD：12/BD：1  |
-|      |             |                                                                                                                                                |              |
+|      | 發行日         | 演唱會                                                                                                                                                               | 週間榜          |
+| ---- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 01st | 2009年5月27日  | [Buono\!Live2009 〜ハイブリッド☆パンチ〜](https://zh.wikipedia.org/wiki/Buono!Live2009_〜ハイブリッド☆パンチ〜 "wikilink")                                                              | 2            |
+| 02nd | 2010年5月19日  | [Buono\!Live Tour2010 〜We are Buono\!〜](https://zh.wikipedia.org/wiki/Buono!Live_Tour2010_〜We_are_Buono!〜 "wikilink")                                             | 3            |
+| 03rd | 2010年11月10日 | [Buono\! Live Tour 2010 〜Rock'n Buono\! 3〜](https://zh.wikipedia.org/wiki/Buono!_Live_Tour_2010_〜Rock'n_Buono!_3〜 "wikilink")                                     | 5            |
+| 04th | 2011年6月22日  | [Buono\! Live 2011 winter 〜Re;Buono\!〜](https://zh.wikipedia.org/wiki/Buono!_Live_2011_winter_〜Re;Buono!〜 "wikilink")（DVD/Blu-ray）                                | DVD：8/BD：32  |
+| 05th | 2011年12月7日  | [Buono\! Live Tour 2011 summer 〜Rock'n Buono\! 4〜](https://zh.wikipedia.org/wiki/Buono!_Live_Tour_2011_summer_〜Rock'n_Buono!_4〜 "wikilink")（DVD/Blu-ray）\[8\]     | DVD：21/BD：19 |
+| 06th | 2012年5月23日  | [Buono\! LIVE 2012 "R・E・A・L"](https://zh.wikipedia.org/wiki/Buono!_LIVE_2012_"R・E・A・L" "wikilink")（DVD/Blu-ray）                                                   | DVD：4/BD：40  |
+| 07th | 2012年12月12日 | [PIZZA-LA Presents Buono\! Delivery LIVE 2012　～愛的外送！～](https://zh.wikipedia.org/wiki/PIZZA-LA_Presents_Buono!_Delivery_LIVE_2012_～愛的外送！～ "wikilink")（DVD/Blu-ray） | DVD：13       |
+| 08th | 2016年11月23日 | [Buono\! Festa 2016](https://zh.wikipedia.org/wiki/Buono!_Festa_2016 "wikilink")（DVD/Blu-ray）                                                                     | DVD：6/BD：2   |
+| 09th | 2017年9月13日  | [Buono\! ライブ 2017 〜Pienezza\!〜](https://zh.wikipedia.org/wiki/Buono!_ライブ_2017_〜Pienezza!〜 "wikilink")（DVD/Blu-ray）                                                | DVD：12/BD：1  |
+|      |             |                                                                                                                                                                   |              |
 
 ### FC 活動會場 限定
 

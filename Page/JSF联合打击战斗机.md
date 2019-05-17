@@ -1,11 +1,12 @@
 是一个1997年发布的飞行模拟类游戏，由挪威开发，[Eidos
-Interactive公司发行](../Page/Eidos_Interactive.md "wikilink")。其游戏引擎的改良版本后来用于游戏《[秘密潜入](../Page/秘密潜入.md "wikilink")》的开发。
+Interactive公司发行](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。其游戏引擎的改良版本后来用于游戏《[秘密潜入](../Page/秘密潜入.md "wikilink")》的开发。
 
 ## 玩法
 
-游戏战场设定有[阿富汗](../Page/阿富汗.md "wikilink")、[哥倫比亞](../Page/哥倫比亞.md "wikilink")、[朝鲜半島和](../Page/朝鲜半島.md "wikilink")[科拉半島](../Page/科拉半島.md "wikilink")。玩家可操作两种飞机\[1\]：[洛克西德·马丁公司的](../Page/洛克西德·马丁公司.md "wikilink")[X-35闪电II](../Page/F-35.md "wikilink")（Lockheed
-Martin X-35 Lightning II）和[波音公司的](../Page/波音公司.md "wikilink")（Boeing
-X-32）。玩家可选择多种空对空或空对地武器。敵機機種包括、[米格-29](../Page/MiG-29.md "wikilink")、[F-16](../Page/F-16.md "wikilink")、[蘇愷-27](../Page/Su-27.md "wikilink")、[蘇愷-35](../Page/Su-35.md "wikilink")、[F-22](../Page/F-22.md "wikilink")、[Tu-22M](../Page/Tu-22M.md "wikilink")、[伊留申-76和](../Page/Il-76.md "wikilink")[A-50](../Page/A-50.md "wikilink")。
+游戏战场设定有[阿富汗](../Page/阿富汗.md "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[朝鲜半島和](https://zh.wikipedia.org/wiki/朝鲜半島 "wikilink")[科拉半島](https://zh.wikipedia.org/wiki/科拉半島 "wikilink")。玩家可操作两种飞机\[1\]：[洛克西德·马丁公司的](https://zh.wikipedia.org/wiki/洛克西德·马丁公司 "wikilink")[X-35闪电II](https://zh.wikipedia.org/wiki/F-35 "wikilink")（Lockheed
+Martin X-35 Lightning
+II）和[波音公司的](https://zh.wikipedia.org/wiki/波音公司 "wikilink")（Boeing
+X-32）。玩家可选择多种空对空或空对地武器。敵機機種包括、[米格-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")、[F-16](https://zh.wikipedia.org/wiki/F-16 "wikilink")、[蘇愷-27](https://zh.wikipedia.org/wiki/Su-27 "wikilink")、[蘇愷-35](https://zh.wikipedia.org/wiki/Su-35 "wikilink")、[F-22](https://zh.wikipedia.org/wiki/F-22 "wikilink")、[Tu-22M](https://zh.wikipedia.org/wiki/Tu-22M "wikilink")、[伊留申-76和](https://zh.wikipedia.org/wiki/Il-76 "wikilink")[A-50](https://zh.wikipedia.org/wiki/A-50 "wikilink")。
 
 ## 参考文献
 

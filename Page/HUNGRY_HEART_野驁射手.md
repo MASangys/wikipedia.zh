@@ -1,5 +1,5 @@
 《**HUNGRY HEART
-野驁射手**》（）-{zh-hans:，;zh-tw:，;zh-hk:，[TVB又譯](../Page/TVB.md "wikilink")**踢出我天地**，}-是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[高橋陽一](../Page/高橋陽一.md "wikilink")2002年至2004年在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》上連載的一部[漫畫作品](../Page/漫畫.md "wikilink")，出版社是[秋田書店](../Page/秋田書店.md "wikilink")，單行本共6卷。
+野驁射手**》（）-{zh-hans:，;zh-tw:，;zh-hk:，[TVB又譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**踢出我天地**，}-是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")2002年至2004年在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》上連載的一部[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，出版社是[秋田書店](../Page/秋田書店.md "wikilink")，單行本共6卷。
 
 ## 故事簡介
 
@@ -7,7 +7,7 @@
 
 ## 登場人物
 
-香港為[TVB配音版](../Page/TVB.md "wikilink")。
+香港為[TVB配音版](https://zh.wikipedia.org/wiki/TVB "wikilink")。
 
 ### 城陽茜丘高中
 
@@ -25,7 +25,7 @@
 
     親生父親為山梨縣22年前傳說的箭頭成見圭介，因為父母車禍死亡的關係而被葉家收養，義兄葉成介為日本天才足球員，也是恭介憧憬與追逐的目標。
 
-    本身是[荷蘭隊的球迷](../Page/荷蘭國家足球隊.md "wikilink")，頭髮會染成橘色也是因為這個原因。在故事尾聲加入荷蘭球隊[阿積士](../Page/阿積士.md "wikilink")。動畫版葉恭介本身並非荷蘭球迷，亦不認識[阿積士球隊](../Page/阿積士.md "wikilink")，將頭染成橙色與荷蘭隊無關。
+    本身是[荷蘭隊的球迷](https://zh.wikipedia.org/wiki/荷蘭國家足球隊 "wikilink")，頭髮會染成橘色也是因為這個原因。在故事尾聲加入荷蘭球隊[阿積士](https://zh.wikipedia.org/wiki/阿積士 "wikilink")。動畫版葉恭介本身並非荷蘭球迷，亦不認識[阿積士球隊](https://zh.wikipedia.org/wiki/阿積士 "wikilink")，將頭染成橙色與荷蘭隊無關。
 
 <!-- end list -->
 
@@ -35,7 +35,7 @@
 
     由校長重金禮聘，學費與生活費全由學校買單的留學生。故事初期因為覺得日本足球實力太弱而打算回巴西，但因為迷上宿舍營養指導員堂本香織而決定留下(動畫中略去相關情節)，在宿舍中與恭介和境同住一間房。原本是個人主義頗重的選手，後來被任命為球隊中場指揮官後逐漸成長為球隊的中堅之一。
 
-    暑假期間曾因為母親病倒，為了籌措醫藥費與家人生活費而一度打算退出球隊，最後在眾人的協助下度過難關。動畫版略去相關情節，而增加了羅杜里哥被[日職聯球隊垂青](../Page/日職聯.md "wikilink")，但最後決定留在城陽茜丘高中。
+    暑假期間曾因為母親病倒，為了籌措醫藥費與家人生活費而一度打算退出球隊，最後在眾人的協助下度過難關。動畫版略去相關情節，而增加了羅杜里哥被[日職聯球隊垂青](https://zh.wikipedia.org/wiki/日職聯 "wikilink")，但最後決定留在城陽茜丘高中。
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@
 
     成見圭介為其高中時代的球隊學長，因為這層關係而指導過恭介其父的踢球技術，少數知道恭介身世的人物之一。
 
-    動畫版中則追加了前[日本代表隊前鋒的設定](../Page/日本國家足球隊.md "wikilink")，[中山雅史並以客串身份飾演他的後輩](../Page/中山雅史.md "wikilink")。
+    動畫版中則追加了前[日本代表隊前鋒的設定](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")，[中山雅史並以客串身份飾演他的後輩](../Page/中山雅史.md "wikilink")。
 
 #### 女子隊
 
@@ -223,7 +223,7 @@
 
     恭介的義兄，被譽為21世紀日本的天才足球選手。
 
-    教導恭介踢足球的啟蒙人物，有著相當耀眼的經歷，國中在山梨縣二和崎中學拿下全國冠軍，高中在靜岡縣名校天龍學園創下三連霸偉業，出場過17歲組與20歲組的國際賽事，並在20歲組拿到準優勝，高中畢業後直接與[AC米蘭簽約](../Page/AC米蘭.md "wikilink")，成為職業選手。
+    教導恭介踢足球的啟蒙人物，有著相當耀眼的經歷，國中在山梨縣二和崎中學拿下全國冠軍，高中在靜岡縣名校天龍學園創下三連霸偉業，出場過17歲組與20歲組的國際賽事，並在20歲組拿到準優勝，高中畢業後直接與[AC米蘭簽約](https://zh.wikipedia.org/wiki/AC米蘭 "wikilink")，成為職業選手。
 
 <!-- end list -->
 
@@ -259,7 +259,7 @@
 
   -
 
-    天龍高中足球隊隊長，[日職聯球員](../Page/日職聯.md "wikilink")，被喻為葉成介繼承者。
+    天龍高中足球隊隊長，[日職聯球員](https://zh.wikipedia.org/wiki/日職聯 "wikilink")，被喻為葉成介繼承者。
 
 <!-- end list -->
 
@@ -290,16 +290,16 @@
 
 ### 製作人員
 
-  - 製作：[本橋浩一](../Page/本橋浩一.md "wikilink")
-  - 企畫：[佐藤昭司](../Page/佐藤昭司.md "wikilink")、[瀧山雅夫](../Page/瀧山雅夫.md "wikilink")、[松崎容子](../Page/松崎容子.md "wikilink")
-  - 製作管理：[遠藤重夫](../Page/遠藤重夫.md "wikilink")
-  - 監督：[嵯峨敏](../Page/嵯峨敏.md "wikilink")
-  - 總作畫監督：[青木哲朗](../Page/青木哲朗.md "wikilink")、[加瀨政廣](../Page/加瀨政廣.md "wikilink")
-  - 美術設定：[伊藤主計](../Page/伊藤主計.md "wikilink")
-  - 美術監督：[石橋建一](../Page/石橋建一.md "wikilink")
-  - 色彩設計：[大平敬志](../Page/大平敬志.md "wikilink")
-  - 音樂：[中村暢之](../Page/中村暢之.md "wikilink")
-  - 音響監督：[高橋秀雄](../Page/高橋秀雄.md "wikilink")
+  - 製作：[本橋浩一](https://zh.wikipedia.org/wiki/本橋浩一 "wikilink")
+  - 企畫：[佐藤昭司](https://zh.wikipedia.org/wiki/佐藤昭司 "wikilink")、[瀧山雅夫](https://zh.wikipedia.org/wiki/瀧山雅夫 "wikilink")、[松崎容子](https://zh.wikipedia.org/wiki/松崎容子 "wikilink")
+  - 製作管理：[遠藤重夫](https://zh.wikipedia.org/wiki/遠藤重夫 "wikilink")
+  - 監督：[嵯峨敏](https://zh.wikipedia.org/wiki/嵯峨敏 "wikilink")
+  - 總作畫監督：[青木哲朗](https://zh.wikipedia.org/wiki/青木哲朗 "wikilink")、[加瀨政廣](https://zh.wikipedia.org/wiki/加瀨政廣 "wikilink")
+  - 美術設定：[伊藤主計](https://zh.wikipedia.org/wiki/伊藤主計 "wikilink")
+  - 美術監督：[石橋建一](https://zh.wikipedia.org/wiki/石橋建一 "wikilink")
+  - 色彩設計：[大平敬志](https://zh.wikipedia.org/wiki/大平敬志 "wikilink")
+  - 音樂：[中村暢之](https://zh.wikipedia.org/wiki/中村暢之 "wikilink")
+  - 音響監督：[高橋秀雄](https://zh.wikipedia.org/wiki/高橋秀雄 "wikilink")
 
 ### 主題曲
 
@@ -307,30 +307,30 @@
 
 1.  「**2nd stage**」（1 - 42話）　
       -
-        作詞：[Keiji](../Page/Keiji.md "wikilink")、[市川善康](../Page/市川善康.md "wikilink")、作曲：Keiji、編曲：[Kids
-        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](../Page/五十嵐淳一.md "wikilink")／歌：[Kids
+        作詞：[Keiji](https://zh.wikipedia.org/wiki/Keiji "wikilink")、[市川善康](https://zh.wikipedia.org/wiki/市川善康 "wikilink")、作曲：Keiji、編曲：[Kids
+        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[Kids
         Alive](../Page/Kids_Alive.md "wikilink")
 2.  「****」（43 - 52話）
       -
         作詞：田久保真見、作曲：大野宏明、編曲：旭純／歌：[加藤夏希](../Page/加藤夏希.md "wikilink") as
         辻脇美紀 featuring
-        [アテネジェネレーション](../Page/アテネジェネレーション.md "wikilink")
+        [アテネジェネレーション](https://zh.wikipedia.org/wiki/アテネジェネレーション "wikilink")
 
 **香港版主題曲**
 
 1.  「黃金入球」（1 - 52集）（改編「**2nd stage**」）
       -
-        作詞：[高皓正](../Page/高皓正.md "wikilink")、作曲：Keiji、編曲：[Kids
-        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](../Page/五十嵐淳一.md "wikilink")／歌：[周國賢](../Page/周國賢.md "wikilink")
+        作詞：[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、作曲：Keiji、編曲：[Kids
+        Alive](../Page/Kids_Alive.md "wikilink")、[五十嵐淳一](https://zh.wikipedia.org/wiki/五十嵐淳一 "wikilink")／歌：[周國賢](../Page/周國賢.md "wikilink")
 
 **片尾曲**
 
 1.  「****」（1 - 12話）
       -
-        作詞：[安岡信一](../Page/安岡信一.md "wikilink")、作曲：[本多哲郎](../Page/本多哲郎.md "wikilink")、編曲：[関淳二郎](../Page/関淳二郎.md "wikilink")／歌：[唄人羽](../Page/唄人羽.md "wikilink")
+        作詞：[安岡信一](https://zh.wikipedia.org/wiki/安岡信一 "wikilink")、作曲：[本多哲郎](https://zh.wikipedia.org/wiki/本多哲郎 "wikilink")、編曲：[関淳二郎](https://zh.wikipedia.org/wiki/関淳二郎 "wikilink")／歌：[唄人羽](https://zh.wikipedia.org/wiki/唄人羽 "wikilink")
 2.  「****」（13 - 39話）
       -
-        作詞、作曲：KOKIA、編曲：[澤近泰輔](../Page/澤近泰輔.md "wikilink")／歌：[KOKIA](../Page/KOKIA.md "wikilink")
+        作詞、作曲：KOKIA、編曲：[澤近泰輔](https://zh.wikipedia.org/wiki/澤近泰輔 "wikilink")／歌：[KOKIA](../Page/KOKIA.md "wikilink")
 3.  「****」（40 - 52話）
       -
         作詞、作曲：KOKIA、編曲：澤近泰輔／歌：KOKIA
@@ -350,7 +350,7 @@
 
   - 由[周國賢演唱的香港版主題曲](../Page/周國賢.md "wikilink")《黃金入球》曾於《2004[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")》內奪得「十大兒歌金曲」獎
   - 由[周國賢演唱的香港版主題曲](../Page/周國賢.md "wikilink")《黃金入球》曾於 2005
-    年度的「[新城勁爆兒歌頒獎禮](../Page/新城勁爆兒歌頒獎禮.md "wikilink")」內奪得「新城勁爆兒歌」獎
+    年度的「[新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/新城勁爆兒歌頒獎禮 "wikilink")」內奪得「新城勁爆兒歌」獎
 
 ### 各話標題
 
@@ -438,7 +438,7 @@
 <td></td>
 <td><p>不要輕看足球</p></td>
 <td><p>石山貴明<br />
-<a href="../Page/鏑木宏.md" title="wikilink">鏑木宏</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/鏑木宏" title="wikilink">鏑木宏</a></p></td>
 <td><p>鏑木宏</p></td>
 <td><p>加瀬政廣</p></td>
 <td></td>
@@ -458,7 +458,7 @@
 <td><p>9</p></td>
 <td></td>
 <td><p>男子漢，怎可以這麼怯？</p></td>
-<td><p><a href="../Page/康村諒.md" title="wikilink">康村諒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康村諒" title="wikilink">康村諒</a></p></td>
 <td><p>桝井剛</p></td>
 <td><p>山口正三</p></td>
 <td><p>青木哲朗</p></td>
@@ -599,7 +599,7 @@
 <td></td>
 <td><p>露天溫泉</p></td>
 <td><p>三浦辰夫</p></td>
-<td><p><a href="../Page/西田健一.md" title="wikilink">西田健一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西田健一" title="wikilink">西田健一</a></p></td>
 <td><p>三浦辰夫</p></td>
 <td></td>
 <td></td>

@@ -1,5 +1,5 @@
 《**海貓悲鳴時 episode2 - Turn of the golden
-witch**》是日本[同人社團](../Page/同人.md "wikilink")[07th
+witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
 Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第二部。游戏於2007年冬季的[Comic
 Market](../Page/Comic_Market.md "wikilink")73發表。
 
@@ -38,7 +38,7 @@ Market](../Page/Comic_Market.md "wikilink")73發表。
 
 ## 漫画
 
-漫画连载于[史克威爾艾尼克斯的](../Page/史克威爾艾尼克斯.md "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（从2008年8月始），由[鈴木次郎作画](../Page/鈴木次郎.md "wikilink")。
+漫画连载于[史克威爾艾尼克斯的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（从2008年8月始），由[鈴木次郎作画](https://zh.wikipedia.org/wiki/鈴木次郎 "wikilink")。
 
 ## TIPS
 

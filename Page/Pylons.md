@@ -1,4 +1,4 @@
-**Pylons**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")，使用[Python语言编写](../Page/Python.md "wikilink")。它对[WSGI标准进行了扩展应用](../Page/Web_Server_Gateway_Interface.md "wikilink")，提升了重用性且将功能分割到独立的模块中。
+**Pylons**是一个[开放源代码的](../Page/开放源代码.md "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")，使用[Python语言编写](../Page/Python.md "wikilink")。它对[WSGI标准进行了扩展应用](https://zh.wikipedia.org/wiki/Web_Server_Gateway_Interface "wikilink")，提升了重用性且将功能分割到独立的模块中。
 
 Pylons是最新的[Web应用框架中的典型](../Page/Web应用框架.md "wikilink")，类似于[Django和](../Page/Django.md "wikilink")[TurboGears](../Page/TurboGears.md "wikilink")。Pylons受[Ruby
 on
@@ -17,19 +17,19 @@ CheeseShop](http://cheeseshop.python.org)下载使用[EasyInstall](http://peak.t
 dispatcher是[Routes](http://routes.groovie.org)，实际是[Ruby on
 Rails的URL](../Page/Ruby_on_Rails.md "wikilink")
 dispatching的Python重新实现，其他的URL
-dispatcher只要是[WSGI兼容也可以使用](../Page/Web_Server_Gateway_Interface.md "wikilink")，例如[Selector](http://cheeseshop.python.org/pypi/selector)。
+dispatcher只要是[WSGI兼容也可以使用](https://zh.wikipedia.org/wiki/Web_Server_Gateway_Interface "wikilink")，例如[Selector](http://cheeseshop.python.org/pypi/selector)。
 
 ### HTML生成
 
 另一块[Rails](../Page/Ruby_on_Rails.md "wikilink")
-Pylons化的部分是[WebHelpers](https://web.archive.org/web/20080914160852/http://pylonshq.com/WebHelpers/)，它提供了基于路径的URL映射。WebHelpers也提供了一些实用的功能来生成基于[script.aculo.us和](../Page/script.aculo.us.md "wikilink")[Prototype](../Page/Prototype_JavaScript_Framework.md "wikilink")
+Pylons化的部分是[WebHelpers](https://web.archive.org/web/20080914160852/http://pylonshq.com/WebHelpers/)，它提供了基于路径的URL映射。WebHelpers也提供了一些实用的功能来生成基于[script.aculo.us和](https://zh.wikipedia.org/wiki/script.aculo.us "wikilink")[Prototype](https://zh.wikipedia.org/wiki/Prototype_JavaScript_Framework "wikilink")
 库的[JavaScript代码](../Page/JavaScript.md "wikilink")。
 
 ### 模板
 
 ### 数据库抽象和对象关系映射
 
-Pylons没有默认的数据库程序库。可以使用比较有名的[SQLObject和](../Page/SQLObject.md "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")。
+Pylons没有默认的数据库程序库。可以使用比较有名的[SQLObject和](https://zh.wikipedia.org/wiki/SQLObject "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")。
 
 ## 外部链接
 

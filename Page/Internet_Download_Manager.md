@@ -1,5 +1,5 @@
 **Internet Download
-Manager**（简称**IDM**）是一个用于[Windows系统的](../Page/Windows.md "wikilink")[下载管理器](../Page/下载管理程序.md "wikilink")。
+Manager**（简称**IDM**）是一个用于[Windows系统的](https://zh.wikipedia.org/wiki/Windows "wikilink")[下载管理器](https://zh.wikipedia.org/wiki/下载管理程序 "wikilink")。
 
 IDM可以让用户自动下载某些类型的文件，它可将文件划分为多个下载点以更快下载，并列出最近的下载，方便存取文件。相对于其它下载管理器，它具有独特的动态档案分割技术。
 
@@ -9,9 +9,9 @@ IDM可以让用户自动下载某些类型的文件，它可将文件划分为�
 
 IDM可被调用于[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](../Page/Opera.md "wikilink")、[Netscape
-Navigator以及](../Page/Netscape_Navigator.md "wikilink")[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")（火狐）浏览器中。\[1\]
+Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Netscape
+Navigator以及](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（火狐）浏览器中。\[1\]
 
 ## 功能
 
@@ -51,14 +51,14 @@ Firefox](../Page/Mozilla_Firefox.md "wikilink")（火狐）浏览器中。\[1\]
 
 <!-- end list -->
 
-  - 支持协议[HTTP](../Page/HTTP.md "wikilink")，[FTP](../Page/FTP.md "wikilink")，[HTTPS](../Page/HTTPS.md "wikilink")，[MMS](../Page/MMS.md "wikilink")
+  - 支持协议[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")，[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，[MMS](https://zh.wikipedia.org/wiki/MMS "wikilink")
     \[4\]和微软的[ISA](../Page/ISA.md "wikilink")。
 
 ## 相关条目
 
   - [EagleGet](../Page/EagleGet.md "wikilink")
-  - [FlashGet](../Page/FlashGet.md "wikilink")
-  - [影音传送带](../Page/影音传送带.md "wikilink")
+  - [FlashGet](https://zh.wikipedia.org/wiki/FlashGet "wikilink")
+  - [影音传送带](https://zh.wikipedia.org/wiki/影音传送带 "wikilink")
 
 ## 参考资料
 

@@ -1,5 +1,5 @@
 《**All In
-真愛賭注**》（），是[韓國](../Page/韓國.md "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2003年1月15日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")。
+真愛賭注**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2003年1月15日起播放的[水木連續劇](https://zh.wikipedia.org/wiki/SBS水木連續劇 "wikilink")。
 
 ## 劇情介紹
 
@@ -38,58 +38,58 @@
 <td><center>
 <p><a href="../Page/池晟.md" title="wikilink">池晟</a></p></td>
 <td><p>崔正元</p></td>
-<td><p>父親在<a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/永登浦區.md" title="wikilink">永登浦管理多間娛樂場所</a>，正元因此常去父親的電影院獨個兒看電影。在學校，正元遇到剛復學的仁賀，並與他成為好朋友。</p></td>
+<td><p>父親在<a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦管理多間娛樂場所</a>，正元因此常去父親的電影院獨個兒看電影。在學校，正元遇到剛復學的仁賀，並與他成為好朋友。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/朴帥眉.md" title="wikilink">朴帥眉</a></p></td>
 <td><p>徐芝熙</p></td>
-<td><p>在<a href="../Page/濟州特別自治道.md" title="wikilink">濟洲島經營幾間賭場的徐勝敦是她的父親</a>，芝熙小時候與正元曾有過一面之緣。芝熙因繼承父業而到<a href="../Page/美國.md" title="wikilink">美國</a><a href="../Page/拉斯維加斯.md" title="wikilink">拉斯維加斯留學</a>，並再次遇上正元。</p></td>
+<td><p>在<a href="../Page/濟州特別自治道.md" title="wikilink">濟洲島經營幾間賭場的徐勝敦是她的父親</a>，芝熙小時候與正元曾有過一面之緣。芝熙因繼承父業而到<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="https://zh.wikipedia.org/wiki/拉斯維加斯" title="wikilink">拉斯維加斯留學</a>，並再次遇上正元。</p></td>
 </tr>
 </tbody>
 </table>
 
 ### 其他角色
 
-|                                        |          |                            |
-| -------------------------------------- | -------- | -------------------------- |
-| 演員                                     | 角色       | 介紹                         |
-| [許峻豪](../Page/許峻豪.md "wikilink")       | 劉宗丘      | 仁賀在獄中認識的朋友，出獄後跟仁賀兩人出生入死。   |
-| [金兌妍](../Page/金兌妍.md "wikilink")       | 珍妮       | 在美國接應仁賀與宗丘，並介紹專家給仁賀教授賭術。   |
-| [崔俊用](../Page/崔俊用.md "wikilink")       | \-{朴}-泰俊 | 仁賀高中時的好朋友，後來任職警察。          |
-| [崔貞媛](../Page/崔貞媛.md "wikilink")       | 劉貞愛      | 母親與仁賀的叔叔是好朋友。貞愛從小就一直暗戀著仁賀。 |
-| [李德華](../Page/李德華.md "wikilink")       | 崔圖煥      | 正元的父親，因一直夢想經營賭場，而與徐勝敦週旋。   |
-| [林玄植](../Page/林玄植.md "wikilink")       | 金植修      | 仁賀的叔叔，一名賭徒。                |
-| [趙卿煥](../Page/趙卿煥.md "wikilink")       | 徐勝敦      | 芝熙的父親，經營好幾間賭場。             |
-| [笛木優子](../Page/笛木優子.md "wikilink")     | 理惠       |                            |
-| [鮮-{于}-銀淑](../Page/鮮于銀淑.md "wikilink") | 尹惠善      |                            |
-| [朴元淑](../Page/朴元淑.md "wikilink")       | 張賢慈      |                            |
-| [尹瑞賢](../Page/尹瑞賢.md "wikilink")       | 萬洙       |                            |
-| [崔蘭](../Page/崔蘭.md "wikilink")         | 張美蘭      |                            |
-| [徐智慧](../Page/徐智慧.md "wikilink")       | 女從業員     |                            |
-| [趙軟祐](../Page/趙軟祐.md "wikilink")       | 日本黑道     |                            |
-| [金姬貞](../Page/金姬貞.md "wikilink")       | 珠茵的事務室職員 |                            |
-| [金秉世](../Page/金秉世.md "wikilink")       | 麥可張      |                            |
-| [鄭昊彬](../Page/鄭昊彬.md "wikilink")       | 鄭俊日      |                            |
-| [奇周峯](../Page/奇周峯.md "wikilink")       | 裴上斗      |                            |
-| [洪汝珍](../Page/洪汝珍.md "wikilink")       |          |                            |
-| [孔賢珠](../Page/孔賢珠.md "wikilink")       |          |                            |
+|                                                     |          |                            |
+| --------------------------------------------------- | -------- | -------------------------- |
+| 演員                                                  | 角色       | 介紹                         |
+| [許峻豪](https://zh.wikipedia.org/wiki/許峻豪 "wikilink") | 劉宗丘      | 仁賀在獄中認識的朋友，出獄後跟仁賀兩人出生入死。   |
+| [金兌妍](https://zh.wikipedia.org/wiki/金兌妍 "wikilink") | 珍妮       | 在美國接應仁賀與宗丘，並介紹專家給仁賀教授賭術。   |
+| [崔俊用](../Page/崔俊用.md "wikilink")                    | \-{朴}-泰俊 | 仁賀高中時的好朋友，後來任職警察。          |
+| [崔貞媛](../Page/崔貞媛.md "wikilink")                    | 劉貞愛      | 母親與仁賀的叔叔是好朋友。貞愛從小就一直暗戀著仁賀。 |
+| [李德華](https://zh.wikipedia.org/wiki/李德華 "wikilink") | 崔圖煥      | 正元的父親，因一直夢想經營賭場，而與徐勝敦週旋。   |
+| [林玄植](../Page/林玄植.md "wikilink")                    | 金植修      | 仁賀的叔叔，一名賭徒。                |
+| [趙卿煥](../Page/趙卿煥.md "wikilink")                    | 徐勝敦      | 芝熙的父親，經營好幾間賭場。             |
+| [笛木優子](../Page/笛木優子.md "wikilink")                  | 理惠       |                            |
+| [鮮-{于}-銀淑](../Page/鮮于銀淑.md "wikilink")              | 尹惠善      |                            |
+| [朴元淑](../Page/朴元淑.md "wikilink")                    | 張賢慈      |                            |
+| [尹瑞賢](../Page/尹瑞賢.md "wikilink")                    | 萬洙       |                            |
+| [崔蘭](../Page/崔蘭.md "wikilink")                      | 張美蘭      |                            |
+| [徐智慧](https://zh.wikipedia.org/wiki/徐智慧 "wikilink") | 女從業員     |                            |
+| [趙軟祐](../Page/趙軟祐.md "wikilink")                    | 日本黑道     |                            |
+| [金姬貞](../Page/金姬貞.md "wikilink")                    | 珠茵的事務室職員 |                            |
+| [金秉世](../Page/金秉世.md "wikilink")                    | 麥可張      |                            |
+| [鄭昊彬](../Page/鄭昊彬.md "wikilink")                    | 鄭俊日      |                            |
+| [奇周峯](https://zh.wikipedia.org/wiki/奇周峯 "wikilink") | 裴上斗      |                            |
+| [洪汝珍](../Page/洪汝珍.md "wikilink")                    |          |                            |
+| [孔賢珠](../Page/孔賢珠.md "wikilink")                    |          |                            |
 
 ## 其他搭配歌曲
 
   - 台灣[八大戲劇台版本](../Page/八大戲劇台.md "wikilink")
-      - 片尾曲：[林俊傑](../Page/林俊傑.md "wikilink")《簡簡單單》
+      - 片尾曲：[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《簡簡單單》
 
 <!-- end list -->
 
   - 台灣[華視主頻版本](../Page/華視主頻.md "wikilink")
-      - 片頭曲：[張學友](../Page/張學友.md "wikilink")《如果不愛你》
-      - 片尾曲：[張學友](../Page/張學友.md "wikilink")《忘了哭》
+      - 片頭曲：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")《如果不愛你》
+      - 片尾曲：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")《忘了哭》
 
 <!-- end list -->
 
   - 香港[有線電視版本](../Page/香港有線電視.md "wikilink")
-      - 片頭曲：[陳潔儀](../Page/陳潔儀.md "wikilink")《分書》
+      - 片頭曲：[陳潔儀](https://zh.wikipedia.org/wiki/陳潔儀 "wikilink")《分書》
       - 片尾曲：[鄧建明](../Page/鄧建明.md "wikilink")《戀人別戀》
 
 ## 外部連結

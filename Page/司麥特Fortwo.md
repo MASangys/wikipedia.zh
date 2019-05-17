@@ -1,4 +1,4 @@
-**司麥特Fortwo**是[法国](../Page/法国.md "wikilink")[司麥特公司](../Page/司麥特.md "wikilink")（[戴姆勒公司子公司](../Page/戴姆勒.md "wikilink")）出品的[極小型車型號](../Page/極小型車.md "wikilink")，只有2人[座位](../Page/座位.md "wikilink")，後置引擎後輪驅動，可選用電子控制自動手排變速器，車身特別短，一個標準[泊車車位可以停泊三部Smart](../Page/泊車.md "wikilink")
+**司麥特Fortwo**是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[司麥特公司](https://zh.wikipedia.org/wiki/司麥特 "wikilink")（[戴姆勒公司子公司](../Page/戴姆勒.md "wikilink")）出品的[極小型車型號](https://zh.wikipedia.org/wiki/極小型車 "wikilink")，只有2人[座位](https://zh.wikipedia.org/wiki/座位 "wikilink")，後置引擎後輪驅動，可選用電子控制自動手排變速器，車身特別短，一個標準[泊車車位可以停泊三部Smart](https://zh.wikipedia.org/wiki/泊車 "wikilink")
 Fortwo的。第二代司麥特Fortwo還有全球最小的市售汽車用[柴油引擎可選](../Page/柴油引擎.md "wikilink")，直列三氣缸渦輪增壓，排氣量799cc，54匹[馬力](../Page/馬力.md "wikilink")，英國政府測試市區與高速平均每加侖跑83.1英哩〈每公升跑35.33公里〉，省油性十分優良。
 
 ## 圖集
@@ -14,7 +14,7 @@ fortwo.jpg <File:Smart> Fortwo Brabus.JPG
 ### 司麥特在中国大陆
 
 司麥特Fortwo
-在2008年[北京车展亮相](../Page/北京.md "wikilink")，并在2008年10月1日开始预售，而且在12个城市开展[smart自动售卖机的巡展](../Page/smart自动售卖机.md "wikilink")。
+在2008年[北京车展亮相](https://zh.wikipedia.org/wiki/北京 "wikilink")，并在2008年10月1日开始预售，而且在12个城市开展[smart自动售卖机的巡展](https://zh.wikipedia.org/wiki/smart自动售卖机 "wikilink")。
 
 在中国大陆销售的型号为欧洲2007年版的Smart fortwo
 451，配备999c.c（52千瓦）MHD\[1\]汽油发动机，分为硬顶Coupé和软顶敞篷Cabrio两种类型，每种类型又分为标准版和Style版两种配置，价格范围从15.8万到20.6万元不等。
@@ -35,7 +35,7 @@ Motor Sport /
 2002年創立的\[華人司麥特俱樂部: Chinese Smart
 Club\]則是包含華人區最廣的實體交流平台，至2015年會員人數已多達五萬多人為眾多之冠，該交流論壇網站資源最為豐富，文章達數十萬篇。該會創辦人Alan，與Jeff會長更以台灣為基礎，實際多次到澳門，香港，澳洲，馬來西亞跟當地smart車友做實體互動，更提供多元的車子保養與使用秘技，與多方面的零配件介紹，是喜好Smart迷不可錯過的園地。
 
-2010年冬季，在[高雄市成立了一個非官方的台灣高雄司麥特比酷之書特別車友會](../Page/高雄市.md "wikilink")，目的是收集所有[台灣人的Smart](../Page/台灣人.md "wikilink")
+2010年冬季，在[高雄市成立了一個非官方的台灣高雄司麥特比酷之書特別車友會](../Page/高雄市.md "wikilink")，目的是收集所有[台灣人的Smart](https://zh.wikipedia.org/wiki/台灣人 "wikilink")
 Car For Two之創作和觀念。
 
 2011年TKSP\[Taiwan Kaohsiung Smart Party\]成功的在2011年輔導了台灣各地SMART FORTWO
@@ -44,7 +44,7 @@ Car For Two之創作和觀念。
 
 ### 司麥特在日本
 
-司麥特Fortwo[排氣量雖小卻安裝了](../Page/排氣量.md "wikilink")[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，曾在日本推出滿足按[輕型車優惠而不使渦輪增壓器的版本](../Page/輕型車.md "wikilink")，因為競爭不過四座位的日本輕型車而停產。
+司麥特Fortwo[排氣量雖小卻安裝了](https://zh.wikipedia.org/wiki/排氣量 "wikilink")[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，曾在日本推出滿足按[輕型車優惠而不使渦輪增壓器的版本](../Page/輕型車.md "wikilink")，因為競爭不過四座位的日本輕型車而停產。
 
 ## 注释
 

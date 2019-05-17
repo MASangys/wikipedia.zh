@@ -4,17 +4,17 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 ## 来歴
 
   - 1999年8月10日－「[avex dream
-    2000](../Page/avex_dream_2000.md "wikilink")」十二萬人選拔[松室麻衣](../Page/松室麻衣.md "wikilink")、[橘佳奈](../Page/橘佳奈.md "wikilink")、[長谷部優](../Page/長谷部優.md "wikilink")3人獲得優勝，dream結成。
+    2000](https://zh.wikipedia.org/wiki/avex_dream_2000 "wikilink")」十二萬人選拔[松室麻衣](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")、[橘佳奈](https://zh.wikipedia.org/wiki/橘佳奈 "wikilink")、[長谷部優](https://zh.wikipedia.org/wiki/長谷部優 "wikilink")3人獲得優勝，dream結成。
   - 2000年1月1日－首張單曲Movin\`on正式發行，銷量超過10萬。
   - 2002年7月7日－dream舉行她們第二个演唱會"dream live 2002
-    Process"的最后一場，[松室麻衣以學習作曲及填詞為由](../Page/松室麻衣.md "wikilink")，獨自離隊，但隨即有六位新成員加入
-  - 2004年3月28日－當完成舞台劇"ID"之演出後，阿井莉沙卒業，作個人發展，並剩下7人dream。\*2005年－[山本纱也加以](../Page/山本纱也加.md "wikilink")[山本サヤカ作為藝名作個人發展](../Page/山本サヤカ.md "wikilink")。
+    Process"的最后一場，[松室麻衣以學習作曲及填詞為由](https://zh.wikipedia.org/wiki/松室麻衣 "wikilink")，獨自離隊，但隨即有六位新成員加入
+  - 2004年3月28日－當完成舞台劇"ID"之演出後，阿井莉沙卒業，作個人發展，並剩下7人dream。\*2005年－[山本纱也加以](https://zh.wikipedia.org/wiki/山本纱也加 "wikilink")[山本サヤカ作為藝名作個人發展](https://zh.wikipedia.org/wiki/山本サヤカ "wikilink")。
   - 2005年5月－以dream成員為骨幹，組成一隊女子五人足球，並命名為"TEAM dream"，參與"Sphere
     League"之賽事。
   - 2006年－dream舉行她們首次全國性巡迴演唱會。2006年4月6日，"TEAM
     dream"取得首次公式賽之冠軍，並於5月11日，達成兩連霸。並於2006年11月30日成为年度冠軍，取得年間王者的稱號
   - 2007年6月25日－團體名稱由dream改為DRM，希望以改變擺脱稚氣增添成熟韻味。
-  - 2008年8月1日－DRM重新改回Dream。[長谷部優同時離開](../Page/長谷部優.md "wikilink")，作個人發展。Dream剩下6位成員
+  - 2008年8月1日－DRM重新改回Dream。[長谷部優同時離開](https://zh.wikipedia.org/wiki/長谷部優 "wikilink")，作個人發展。Dream剩下6位成員
   - 2011年2月20日－橘佳奈畢業。自此已沒有dream組成當時的成員。
   - 2012年3月31日－山本紗也加卒業。
   - 2016年10月28日－Erie宣布將在年內退出演藝圈。
@@ -42,7 +42,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <tbody>
 <tr class="odd">
 <td><p>Aya</p></td>
-<td><p><a href="../Page/高本彩.md" title="wikilink">高本彩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高本彩" title="wikilink">高本彩</a></p></td>
 <td><p>たかもと あや</p></td>
 <td></td>
 <td><p>大阪府</p></td>
@@ -50,7 +50,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>Ami</p></td>
-<td><p><a href="../Page/中島麻未.md" title="wikilink">中島麻未</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島麻未" title="wikilink">中島麻未</a></p></td>
 <td><p>なかしま あみ</p></td>
 <td></td>
 <td><p>大阪府</p></td>
@@ -58,7 +58,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>Shizuka</p></td>
-<td><p><a href="../Page/西田静香.md" title="wikilink">西田静香</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西田静香" title="wikilink">西田静香</a></p></td>
 <td><p>にしだ しずか</p></td>
 <td></td>
 <td><p>大阪府</p></td>
@@ -90,7 +90,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/松室麻衣.md" title="wikilink">松室麻衣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松室麻衣" title="wikilink">松室麻衣</a></p></td>
 <td><p>まつむろ まい</p></td>
 <td></td>
 <td><p>大分県</p></td>
@@ -98,15 +98,15 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/阿井莉沙.md" title="wikilink">阿井莉沙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿井莉沙" title="wikilink">阿井莉沙</a></p></td>
 <td><p>あい りさ</p></td>
 <td></td>
 <td><p>神奈川縣</p></td>
 <td><p>2004年3月28日</p></td>
-<td><p>在籍時是<a href="../Page/FOSTER.md" title="wikilink">FOSTER所屬</a></p></td>
+<td><p>在籍時是<a href="https://zh.wikipedia.org/wiki/FOSTER" title="wikilink">FOSTER所屬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/長谷部優.md" title="wikilink">長谷部優</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長谷部優" title="wikilink">長谷部優</a></p></td>
 <td><p>はせべ ゆう</p></td>
 <td></td>
 <td><p>岐阜縣</p></td>
@@ -114,7 +114,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/橘佳奈.md" title="wikilink">橘佳奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘佳奈" title="wikilink">橘佳奈</a></p></td>
 <td><p>たちばな かな</p></td>
 <td></td>
 <td><p>大阪府</p></td>
@@ -122,7 +122,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/山本さやか.md" title="wikilink">山本紗也加</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本さやか" title="wikilink">山本紗也加</a></p></td>
 <td><p>やまもと さやか</p></td>
 <td></td>
 <td><p>石川縣</p></td>
@@ -130,7 +130,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <td><p>『エイベックス・アーティストアカデミー』出身</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Erie.md" title="wikilink">阿部繪里惠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Erie" title="wikilink">阿部繪里惠</a></p></td>
 <td><p>あべ えりえ</p></td>
 <td></td>
 <td><p>岡山縣</p></td>
@@ -183,14 +183,14 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>dream</p></td>
 <td><p>1</p></td>
-<td><p><strong><a href="../Page/Movin&#39;on.md" title="wikilink">Movin' on</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Movin&#39;on" title="wikilink">Movin' on</a></strong></p></td>
 <td><p>2000年1月1日</p></td>
 <td><p>15位</p></td>
 <td><p>7回</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><strong><a href="../Page/Heart_on_Wave/Breakin&#39;_out.md" title="wikilink">Heart on Wave/Breakin' out</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Heart_on_Wave/Breakin&#39;_out" title="wikilink">Heart on Wave/Breakin' out</a></strong></p></td>
 <td><p>2000年3月8日</p></td>
 <td><p>14位</p></td>
 <td><p>6回</p></td>
@@ -198,7 +198,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><strong><a href="../Page/Private_wars.md" title="wikilink">Private wars</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Private_wars" title="wikilink">Private wars</a></strong></p></td>
 <td><p>2000年5月3日</p></td>
 <td><p>13位</p></td>
 <td><p>7回</p></td>
@@ -206,7 +206,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><strong><a href="../Page/reality.md" title="wikilink">reality</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/reality" title="wikilink">reality</a></strong></p></td>
 <td><p>2000年8月9日</p></td>
 <td><p>17位</p></td>
 <td><p>5回</p></td>
@@ -214,7 +214,7 @@ zone](../Page/Rhythm_zone.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><strong><a href="../Page/NIGHT_OF_FIRE_(Dreamの曲).md" title="wikilink">SUPEREUROBEAT presents<br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/NIGHT_OF_FIRE_(Dreamの曲)" title="wikilink">SUPEREUROBEAT presents<br />
 NIGHT OF FIRE</a></strong></p></td>
 <td><p>2000年9月20日</p></td>
 <td><p>20位</p></td>
@@ -223,7 +223,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><strong><a href="../Page/My_will.md" title="wikilink">My will</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_will" title="wikilink">My will</a></strong></p></td>
 <td><p>2000年11月29日</p></td>
 <td><p>6位</p></td>
 <td><p>9回</p></td>
@@ -231,7 +231,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><strong><a href="../Page/Believe_in_you.md" title="wikilink">Believe in you</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Believe_in_you" title="wikilink">Believe in you</a></strong></p></td>
 <td><p>2001年2月28日</p></td>
 <td></td>
 <td><p>2回</p></td>
@@ -239,7 +239,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><strong><a href="../Page/solve.md" title="wikilink">solve</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/solve" title="wikilink">solve</a></strong></p></td>
 <td><p>2001年5月23日</p></td>
 <td><p>17位</p></td>
 <td><p>3回</p></td>
@@ -247,7 +247,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><strong><a href="../Page/Our_Time.md" title="wikilink">Our Time</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Our_Time" title="wikilink">Our Time</a></strong></p></td>
 <td><p>2001年8月8日</p></td>
 <td><p>25位</p></td>
 <td><p>3回</p></td>
@@ -255,7 +255,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><strong><a href="../Page/STAY_〜now_I&#39;m_here〜.md" title="wikilink">STAY 〜now I'm here〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/STAY_〜now_I&#39;m_here〜" title="wikilink">STAY 〜now I'm here〜</a></strong></p></td>
 <td><p>2001年10月31日</p></td>
 <td><p>19位</p></td>
 <td><p>2回</p></td>
@@ -263,7 +263,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><strong><a href="../Page/Get_Over.md" title="wikilink">Get Over</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Get_Over" title="wikilink">Get Over</a></strong></p></td>
 <td><p>2001年11月28日</p></td>
 <td><p>12位</p></td>
 <td><p>8回</p></td>
@@ -271,7 +271,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><strong><a href="../Page/Yourself.md" title="wikilink">Yourself</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Yourself" title="wikilink">Yourself</a></strong></p></td>
 <td><p>2002年1月1日</p></td>
 <td><p>21位</p></td>
 <td><p>4回</p></td>
@@ -279,7 +279,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><strong><a href="../Page/SINCERELY_〜ever_dream〜.md" title="wikilink">SINCERELY 〜ever dream〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SINCERELY_〜ever_dream〜" title="wikilink">SINCERELY 〜ever dream〜</a></strong></p></td>
 <td><p>2002年6月10日</p></td>
 <td><p>19位</p></td>
 <td><p>4回</p></td>
@@ -287,7 +287,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><strong><a href="../Page/MUSIC_IS_MY_THING.md" title="wikilink">MUSIC IS MY THING</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/MUSIC_IS_MY_THING" title="wikilink">MUSIC IS MY THING</a></strong></p></td>
 <td><p>2003年2月13日</p></td>
 <td><p>18位</p></td>
 <td><p>4回</p></td>
@@ -370,14 +370,14 @@ NIGHT OF FIRE</a></strong></p></td>
 <td><p>Dream<br />
 （Indies）</p></td>
 <td><p>bgcolor=""|1</p></td>
-<td><p><strong><a href="../Page/Perfect_Girls/To_The_Top.md" title="wikilink">Perfect Girls/To The Top</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfect_Girls/To_The_Top" title="wikilink">Perfect Girls/To The Top</a></strong></p></td>
 <td><p>2009年9月9日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>bgcolor=""|2</p></td>
-<td><p><strong><a href="../Page/Breakout(Dream单曲).md" title="wikilink">Breakout</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Breakout(Dream单曲)" title="wikilink">Breakout</a></strong></p></td>
 <td><p>2010年3月1日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -386,14 +386,14 @@ NIGHT OF FIRE</a></strong></p></td>
 <tr class="even">
 <td><p>Dream</p></td>
 <td><p>1</p></td>
-<td><p><strong><a href="../Page/My_Way〜ULala〜.md" title="wikilink">My Way〜ULala〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_Way〜ULala〜" title="wikilink">My Way〜ULala〜</a></strong></p></td>
 <td><p>2010年8月18日</p></td>
 <td><p>29位</p></td>
 <td><p>3回</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><strong><a href="../Page/Ev&#39;rybody_Alright!.md" title="wikilink">Ev'rybody Alright!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Ev&#39;rybody_Alright!" title="wikilink">Ev'rybody Alright!</a></strong></p></td>
 <td><p>2010年10月6日</p></td>
 <td><p>34位</p></td>
 <td><p>2回</p></td>
@@ -417,7 +417,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><strong><a href="../Page/如此地.md" title="wikilink">如此地</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/如此地" title="wikilink">如此地</a></strong></p></td>
 <td><p>2015年2月11日</p></td>
 <td><p>3位</p></td>
 <td><p>-回</p></td>
@@ -425,7 +425,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p><strong><a href="../Page/Blanket_Snow.md" title="wikilink">Blanket Snow</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Blanket_Snow" title="wikilink">Blanket Snow</a></strong></p></td>
 <td><p>2015年11月18日</p></td>
 <td><p>4位</p></td>
 <td><p>-回</p></td>
@@ -479,7 +479,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><strong><a href="../Page/Dear….md" title="wikilink">Dear…</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dear…" title="wikilink">Dear…</a></strong></p></td>
 <td><p>2月28日</p></td>
 <td></td>
 <td><p>8回</p></td>
@@ -493,14 +493,14 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong><a href="../Page/Process.md" title="wikilink">Process</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Process" title="wikilink">Process</a></strong></p></td>
 <td><p>2月14日</p></td>
 <td><p>8位</p></td>
 <td><p>4回</p></td>
 </tr>
 <tr class="odd">
 <td><p>精选</p></td>
-<td><p><strong><a href="../Page/eternal_dream.md" title="wikilink">eternal dream</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/eternal_dream" title="wikilink">eternal dream</a></strong></p></td>
 <td><p>6月26日</p></td>
 <td><p>9位</p></td>
 <td><p>4回</p></td>
@@ -514,7 +514,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><strong><a href="../Page/dream_world.md" title="wikilink">dream world</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/dream_world" title="wikilink">dream world</a></strong></p></td>
 <td><p>2月26日</p></td>
 <td><p>23位</p></td>
 <td><p>3回</p></td>
@@ -528,21 +528,21 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><strong><a href="../Page/ID_(dreamのアルバム).md" title="wikilink">ID</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ID_(dreamのアルバム)" title="wikilink">ID</a></strong></p></td>
 <td><p>3月10日</p></td>
 <td><p>21位</p></td>
 <td><p>3回</p></td>
 </tr>
 <tr class="even">
 <td><p>自身翻唱</p></td>
-<td><p><strong><a href="../Page/777_〜Best_of_dreams〜.md" title="wikilink">777 〜Best of dreams〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/777_〜Best_of_dreams〜" title="wikilink">777 〜Best of dreams〜</a></strong></p></td>
 <td><p>9月29日</p></td>
 <td><p>33位</p></td>
 <td><p>3回</p></td>
 </tr>
 <tr class="odd">
 <td><p>翻唱</p></td>
-<td><p><strong><a href="../Page/dream_meets_Best_Hits_avex.md" title="wikilink">dream meets Best Hits avex</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/dream_meets_Best_Hits_avex" title="wikilink">dream meets Best Hits avex</a></strong></p></td>
 <td><p>12月8日</p></td>
 <td><p>54位</p></td>
 <td><p>2回</p></td>
@@ -556,21 +556,21 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>自身翻唱</p></td>
-<td><p><strong><a href="../Page/777_〜another_side_story〜.md" title="wikilink">777 〜another side story〜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/777_〜another_side_story〜" title="wikilink">777 〜another side story〜</a></strong></p></td>
 <td><p>3月2日</p></td>
 <td><p>63位</p></td>
 <td><p>2回</p></td>
 </tr>
 <tr class="even">
 <td><p>迷你</p></td>
-<td><p><strong><a href="../Page/夏天的颜色.md" title="wikilink">ナツイロ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/夏天的颜色" title="wikilink">ナツイロ</a></strong></p></td>
 <td><p>7月27日</p></td>
 <td><p>28位</p></td>
 <td><p>2回</p></td>
 </tr>
 <tr class="odd">
 <td><p>迷你</p></td>
-<td><p><strong><a href="../Page/Boy_meets_Girl.md" title="wikilink">Boy meets Girl</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Boy_meets_Girl" title="wikilink">Boy meets Girl</a></strong></p></td>
 <td><p>12月21日</p></td>
 <td><p>66位</p></td>
 <td><p>3回</p></td>
@@ -584,7 +584,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>精选</p></td>
-<td><p><strong><a href="../Page/7th_Anniversary_Best.md" title="wikilink">7th Anniversary Best</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/7th_Anniversary_Best" title="wikilink">7th Anniversary Best</a></strong></p></td>
 <td><p>1月1日</p></td>
 <td><p>62位</p></td>
 <td><p>4回</p></td>
@@ -605,7 +605,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>迷你</p></td>
-<td><p><strong><a href="../Page/DRM_(アルバム).md" title="wikilink">DRM</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/DRM_(アルバム)" title="wikilink">DRM</a></strong></p></td>
 <td><p>6月27日</p></td>
 <td><p>108位</p></td>
 <td><p>1回</p></td>
@@ -626,7 +626,7 @@ NIGHT OF FIRE</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong><a href="../Page/Hands_Up!.md" title="wikilink">Hands Up!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Hands_Up!" title="wikilink">Hands Up!</a></strong></p></td>
 <td><p>11月24日</p></td>
 <td><p>36位</p></td>
 <td></td>
@@ -675,7 +675,7 @@ NIGHT OF FIRE</a></strong></p></td>
 
   - ID（2004年3月25日－3月28日・シアターアプル）
   - BEAT POPS “FIGHTING
-    GIRLS”（2004年8月17日－8月27日・[スタジオドリームメーカー](../Page/スタジオドリームメーカー.md "wikilink")）
+    GIRLS”（2004年8月17日－8月27日・[スタジオドリームメーカー](https://zh.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")）
   - 美味學院（2007年5月16日－5月20日・青山劇場、橘・阿部・高本・中島・西田・山本）
   - ハイスクール・ミュージカル（2007年6月12日－6月28日・青山劇場、2007年7月5日－7月8日・NHK大阪ホール、長谷部）
 
@@ -697,11 +697,11 @@ NIGHT OF FIRE</a></strong></p></td>
 <!-- end list -->
 
   - dream Party 2006 ～ Love & dream ～（2006年3月25日）-
-    [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")
+    [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")
   - dream live 2006 Autumn（2006年10月22日）- [Shibuya
-    O-West](../Page/Shibuya_O-West.md "wikilink")
+    O-West](https://zh.wikipedia.org/wiki/Shibuya_O-West "wikilink")
   - dream Party 2006 X'mas（2006年12月24日）- [Zepp
-    Tokyo](../Page/Zepp_Tokyo.md "wikilink")
+    Tokyo](https://zh.wikipedia.org/wiki/Zepp_Tokyo "wikilink")
   - dream live 2007 Spring（2007年3月10日・公演中止、2007年4月8日・振替公演）- 全2公演
     ランドマークホール
 

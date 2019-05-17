@@ -1,10 +1,10 @@
-**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](../Page/兵庫縣.md "wikilink")[尼崎市潮江](../Page/尼崎市.md "wikilink")1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](../Page/鐵路車站.md "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](../Page/尼崎站_\(阪神\).md "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
+**尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市潮江](../Page/尼崎市.md "wikilink")1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](https://zh.wikipedia.org/wiki/尼崎站_\(阪神\) "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
 
 ## 使用路線
 
   - 西日本旅客鐵道
       - [JR神戶線](../Page/JR神戶線.md "wikilink")([東海道本線](../Page/東海道本線.md "wikilink"))
-      - [JR寶塚線](../Page/JR寶塚線.md "wikilink")([福知山線](../Page/福知山線.md "wikilink"))
+      - [JR寶塚線](https://zh.wikipedia.org/wiki/JR寶塚線 "wikilink")([福知山線](../Page/福知山線.md "wikilink"))
       - [JR東西線](../Page/JR東西線.md "wikilink")
 
 ## 車站構造
@@ -26,12 +26,12 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/JR神戶線.md" title="wikilink">JR神戶線</a></p></td>
-<td><p><a href="../Page/三之宮站.md" title="wikilink">三之宮</a>、<a href="../Page/姬路站.md" title="wikilink">姬路方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三之宮站" title="wikilink">三之宮</a>、<a href="https://zh.wikipedia.org/wiki/姬路站" title="wikilink">姬路方向</a></p></td>
 <td><p>新快速、部分快速列車</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="../Page/JR寶塚線.md" title="wikilink">JR寶塚線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JR寶塚線" title="wikilink">JR寶塚線</a></p></td>
 <td><p><a href="../Page/寶塚站.md" title="wikilink">寶塚</a>、<a href="../Page/福知山站.md" title="wikilink">福知山方向</a></p></td>
 <td><p>特急『<a href="../Page/東方白鸛號列車.md" title="wikilink">東方白鸛</a>』、快速</p></td>
 </tr>
@@ -56,12 +56,12 @@
 <tr class="even">
 <td><p>5、6</p></td>
 <td><p>JR京都線</p></td>
-<td><p><a href="../Page/大阪站.md" title="wikilink">大阪</a>、<a href="../Page/新大阪站.md" title="wikilink">新大阪</a>、<a href="../Page/高槻站.md" title="wikilink">高槻方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪</a>、<a href="https://zh.wikipedia.org/wiki/高槻站" title="wikilink">高槻方向</a></p></td>
 <td><p>快速、普通</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/JR東西線.md" title="wikilink">JR東西線</a></p></td>
-<td><p><a href="../Page/北新地站.md" title="wikilink">北新地</a>、<a href="../Page/京橋站_(大阪府).md" title="wikilink">京橋</a>、方向</p></td>
+<td><p><a href="../Page/北新地站.md" title="wikilink">北新地</a>、<a href="https://zh.wikipedia.org/wiki/京橋站_(大阪府)" title="wikilink">京橋</a>、方向</p></td>
 <td><p>快速、區間快速、普通<br />
 繁忙時部分於7號月台開出</p></td>
 <td></td>
@@ -90,10 +90,10 @@
 
   - Aming潮江
       - [ROUND
-        ONE](../Page/ROUND_ONE.md "wikilink")([保齡球場](../Page/保齡球.md "wikilink"))
-      - [霍兵安明酒店](../Page/霍兵安明酒店.md "wikilink")
-      - [阪急綠洲](../Page/阪急綠洲.md "wikilink")
-  - 超級大眾浴池「[極樂湯尼崎店](../Page/極樂湯.md "wikilink")」
+        ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")([保齡球場](../Page/保齡球.md "wikilink"))
+      - [霍兵安明酒店](https://zh.wikipedia.org/wiki/霍兵安明酒店 "wikilink")
+      - [阪急綠洲](https://zh.wikipedia.org/wiki/阪急綠洲 "wikilink")
+  - 超級大眾浴池「[極樂湯尼崎店](https://zh.wikipedia.org/wiki/極樂湯 "wikilink")」
   - [家樂福尼崎店](../Page/家樂福.md "wikilink")
 
 <!-- end list -->
@@ -102,8 +102,8 @@
 
 <!-- end list -->
 
-  - [綠電化尼崎店](../Page/綠電化.md "wikilink")()
-  - [兵庫縣警尼崎東警察署](../Page/兵庫縣警尼崎東警察署.md "wikilink")
+  - [綠電化尼崎店](https://zh.wikipedia.org/wiki/綠電化 "wikilink")()
+  - [兵庫縣警尼崎東警察署](https://zh.wikipedia.org/wiki/兵庫縣警尼崎東警察署 "wikilink")
 
 ## 相鄰車站
 
@@ -116,7 +116,7 @@
         新快速
 
           -
-            [大阪](../Page/大阪站.md "wikilink")（JR-A47）－**尼崎（JR-A49）**－[蘆屋](../Page/芦屋站_\(JR西日本\).md "wikilink")（JR-A54）
+            [大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")（JR-A47）－**尼崎（JR-A49）**－[蘆屋](../Page/芦屋站_\(JR西日本\).md "wikilink")（JR-A54）
 
         快速
 
@@ -166,7 +166,7 @@
         快速
 
           -
-            [加島](../Page/加島站.md "wikilink")（JR-H48）－**尼崎（JR-H49/JR-G49）**－（塚口（JR-G50）、伊丹（JR-G52））
+            [加島](https://zh.wikipedia.org/wiki/加島站 "wikilink")（JR-H48）－**尼崎（JR-H49/JR-G49）**－（塚口（JR-G50）、伊丹（JR-G52））
 
         直通快速（途經[大阪東線](../Page/大阪東線.md "wikilink")）
 

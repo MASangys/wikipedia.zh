@@ -1,5 +1,5 @@
 《**Read My
-Senses...**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](../Page/王菀之.md "wikilink")[精選專輯](../Page/精選輯.md "wikilink")，發行於2007年6月25日，為王菀之在[環球唱片的最後一張唱片](../Page/環球唱片.md "wikilink")。封面及內頁照片均由已故攝影師JC（[鄭智聰](../Page/鄭智聰.md "wikilink")）拍攝。
+Senses...**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[精選專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，發行於2007年6月25日，為王菀之在[環球唱片的最後一張唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。封面及內頁照片均由已故攝影師JC（[鄭智聰](https://zh.wikipedia.org/wiki/鄭智聰 "wikilink")）拍攝。
 大碟中除了《The Girl From
 Ipanema》外，所有歌曲均由王菀之作曲。專輯包括一隻CD和一隻DVD，CD中收錄了五首新歌、十二首精選歌曲及一首Hidden
 Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《真心話》、《面具》、《重見家圓》及《是一個誤會沒什麼可悲》。
@@ -11,9 +11,9 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
 出自《Read My Senses...》「簡約再生」系列版本專輯內頁。\[1\]
 **音樂**
 
-  - [王菀之](../Page/王菀之.md "wikilink") – 主音 <small>(所有歌曲)</small>、作曲
-    <small>(1-17)</small>、作詞 <small>(2、4-8、11-12、15-17)</small>、和音
-    <small>(1-3、15)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
+    <small>(所有歌曲)</small>、作曲 <small>(1-17)</small>、作詞
+    <small>(2、4-8、11-12、15-17)</small>、和音 <small>(1-3、15)</small>
   - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(1、5-13)</small>、所有樂器
     <small>(1)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(1、9、10、13)</small>
@@ -24,7 +24,8 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
   - [柳重言](../Page/柳重言.md "wikilink") – 編曲 <small>(14)</small>
   - [伍仲衡](../Page/伍仲衡.md "wikilink") – 編曲 <small>(16)</small>
   - 謝浩文 – 編曲 <small>(17)</small>、GTR <small>(1)</small>
-  - [張敬軒](../Page/張敬軒.md "wikilink") – 主音 <small>(7)</small>
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音
+    <small>(7)</small>
   - Terry Chan – 低音吉他 <small>(2)</small>
   - Ronald Fu – 編曲 <small>(15)</small>、所有樂器 <small>(15)</small>
   - Norman Gimbel – 作詞 <small>(18)</small>
@@ -34,8 +35,8 @@ Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《�
   - Leslie Ryang – 小提琴 <small>(15)</small>
   - Melchior Sarreal – 鼓 <small>(2)</small>
   - So Tak Wah – 吉他 <small>(2)</small>
-  - [Johnny Yim](../Page/Johnny_Yim.md "wikilink") – 編曲
-    <small>(3)</small>、鍵盤 <small>(3)</small>
+  - [Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink") –
+    編曲 <small>(3)</small>、鍵盤 <small>(3)</small>
 
 **形像及設計**
 

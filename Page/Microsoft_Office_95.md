@@ -1,6 +1,6 @@
 **Microsoft Office
-95**是一款[32位元的](../Page/32位元.md "wikilink")[辦公軟體套裝](../Page/辦公軟體套裝.md "wikilink")，是[微軟為了](../Page/微軟.md "wikilink")[Windows
-95研發的](../Page/Windows_95.md "wikilink")。其所包含的程式皆有[物件連結與嵌入的功能](../Page/物件連結與嵌入.md "wikilink")，可在不同程式間自由移動檔案。Office
+95**是一款[32位元的](../Page/32位元.md "wikilink")[辦公軟體套裝](https://zh.wikipedia.org/wiki/辦公軟體套裝 "wikilink")，是[微軟為了](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
+95研發的](../Page/Windows_95.md "wikilink")。其所包含的程式皆有[物件連結與嵌入的功能](https://zh.wikipedia.org/wiki/物件連結與嵌入 "wikilink")，可在不同程式間自由移動檔案。Office
 95有兩種版本：
 
 <center>
@@ -30,7 +30,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Microsoft_Schedule+.md" title="wikilink">Microsoft Schedule+</a>[4]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Schedule+" title="wikilink">Microsoft Schedule+</a>[4]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -40,7 +40,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Microsoft_Bookshelf.md" title="wikilink">Microsoft Bookshelf</a>[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Bookshelf" title="wikilink">Microsoft Bookshelf</a>[6]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -52,9 +52,9 @@
 標準版包含[Word 7.0](../Page/Microsoft_Word.md "wikilink")、[Excel
 7.0](../Page/Microsoft_Excel.md "wikilink")、[PowerPoint
 7.0和](../Page/Microsoft_PowerPoint.md "wikilink")[Schedule+
-7.0](../Page/Microsoft_Schedule+.md "wikilink")，專業版則多了[Access
+7.0](https://zh.wikipedia.org/wiki/Microsoft_Schedule+ "wikilink")，專業版則多了[Access
 7.0](../Page/Microsoft_Access.md "wikilink")，而CD-ROM形式的專業版更多了[Bookshelf
-95](../Page/Microsoft_Bookshelf#Versions.md "wikilink")。
+95](https://zh.wikipedia.org/wiki/Microsoft_Bookshelf#Versions "wikilink")。
 
 上述的程式的版本序號有些微的跳號，以求一致。Word前一版本的最高版本號為6.0，所以7.0成為所有程式的版本號。其他程式先前的版本號為Excel
 5.0、PowerPoint 4.0、Schedule+ 1.0、Access 2.0。
@@ -81,15 +81,16 @@
 
 Microsoft Office 95 的最低系統需求配備有：
 
-  - [中央處理器](../Page/中央處理器.md "wikilink")：[英特爾
+  - [中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")：[英特爾
     386](../Page/Intel_80386.md "wikilink") 或更佳的處理器
-  - [作業系統](../Page/作業系統.md "wikilink")：[Windows
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：[Windows
     95](../Page/Windows_95.md "wikilink")、[Windows NT
     4.0](../Page/Windows_NT_4.0.md "wikilink") 或 [Windows
     NT](../Page/Windows_NT.md "wikilink") 3.51
-  - [記憶體](../Page/記憶體.md "wikilink")：8
-    [MB](../Page/Megabyte.md "wikilink")
-  - [硬碟](../Page/硬碟.md "wikilink")： 快速安裝需 28 MB，建議安裝需 55 MB，完整安裝需 88 MB
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：8
+    [MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink")
+  - [硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")： 快速安裝需 28 MB，建議安裝需
+    55 MB，完整安裝需 88 MB
 
 ## 參考文獻
 

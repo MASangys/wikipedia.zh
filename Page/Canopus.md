@@ -1,5 +1,5 @@
-**Canopus**（康能普視）是一家生产视频编辑卡与[视频编辑软件的](../Page/视频编辑软件.md "wikilink")[日本](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。2005年被法國[湯姆遜集團](../Page/特艺集团.md "wikilink")[收購](../Page/收購.md "wikilink")，2011年3月併入美國[Grass
-Valley公司](../Page/草谷_\(公司\).md "wikilink")。Canopus本是[船底星座的](../Page/船底座.md "wikilink")[α星](../Page/老人星.md "wikilink")，是天空中第二亮的星星，由于它异常明亮而且恒定不动，Canopus便成为航空时宇宙的灯塔，太空航行便依靠它在茫茫太空中穿梭。公司起名如此是为了表明其引领业界之地位。其竞争对手包括[Matrox与](../Page/Matrox.md "wikilink")[品尼高等公司](../Page/品尼高.md "wikilink")。
+**Canopus**（康能普視）是一家生产视频编辑卡与[视频编辑软件的](https://zh.wikipedia.org/wiki/视频编辑软件 "wikilink")[日本](../Page/日本.md "wikilink")[公司](../Page/公司.md "wikilink")。2005年被法國[湯姆遜集團](https://zh.wikipedia.org/wiki/特艺集团 "wikilink")[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")，2011年3月併入美國[Grass
+Valley公司](../Page/草谷_\(公司\).md "wikilink")。Canopus本是[船底星座的](../Page/船底座.md "wikilink")[α星](../Page/老人星.md "wikilink")，是天空中第二亮的星星，由于它异常明亮而且恒定不动，Canopus便成为航空时宇宙的灯塔，太空航行便依靠它在茫茫太空中穿梭。公司起名如此是为了表明其引领业界之地位。其竞争对手包括[Matrox与](../Page/Matrox.md "wikilink")[品尼高等公司](https://zh.wikipedia.org/wiki/品尼高 "wikilink")。
 
 ## 产品列表
 
@@ -48,7 +48,7 @@ SP-SDI是专为EDIUS编辑软件设计的非编系统。三款功能各异的硬
 
 ## 参见
 
-  - [特艺集团](../Page/特艺集团.md "wikilink")
+  - [特艺集团](https://zh.wikipedia.org/wiki/特艺集团 "wikilink")
   - [草谷 (公司)](../Page/草谷_\(公司\).md "wikilink")
 
 [Category:跨国公司](https://zh.wikipedia.org/wiki/Category:跨国公司 "wikilink")

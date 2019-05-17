@@ -1,10 +1,10 @@
-**Naifu**（）是[日本的](../Page/日本.md "wikilink")[摇滚乐团](../Page/摇滚乐团.md "wikilink")，是[GIZA
-studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](../Page/WAG.md "wikilink")[doa以来又一男子乐团](../Page/doa.md "wikilink")。
+**Naifu**（）是[日本的](../Page/日本.md "wikilink")[摇滚乐团](https://zh.wikipedia.org/wiki/摇滚乐团 "wikilink")，是[GIZA
+studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](https://zh.wikipedia.org/wiki/WAG "wikilink")[doa以来又一男子乐团](https://zh.wikipedia.org/wiki/doa "wikilink")。
 
 ## 来历
 
-  - 2005年由过去以个人活动为主的荒神直规和SCHON为中心组成乐团，此后，以[大阪的](../Page/大阪.md "wikilink")[Live
-    House为中心展开演唱活动](../Page/Live_House.md "wikilink")。
+  - 2005年由过去以个人活动为主的荒神直规和SCHON为中心组成乐团，此后，以[大阪的](https://zh.wikipedia.org/wiki/大阪 "wikilink")[Live
+    House为中心展开演唱活动](https://zh.wikipedia.org/wiki/Live_House "wikilink")。
   - 2007年所属GIZA studio。
   - 2009年11月19日宣布于12月31日解散。
 
@@ -39,7 +39,7 @@ studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](../Page/WAG.md "w
 <p>1</p>
 </center></td>
 <td><p>2008年7月23日</p></td>
-<td><p><a href="../Page/Take_The_Wave.md" title="wikilink">Take The Wave</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Take_The_Wave" title="wikilink">Take The Wave</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -75,7 +75,7 @@ studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](../Page/WAG.md "w
 
 ## 参照
 
-  - [Being,Inc.](../Page/Being,Inc..md "wikilink")
+  - [Being,Inc.](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
 
 ## 外部链接

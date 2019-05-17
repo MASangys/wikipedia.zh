@@ -1,6 +1,6 @@
-**GmailFS**是一個[虛擬檔案系統](../Page/虛擬檔案系統.md "wikilink")，由[理查德·瓊斯開發](../Page/理查德·瓊斯.md "wikilink")，透過用戶的[Gmail電郵帳號來作檔案儲存](../Page/Gmail.md "wikilink")。GmailFS本身是為[Linux系統而寫](../Page/Linux.md "wikilink")，並應用了其[FUSE技術](../Page/FUSE.md "wikilink")，但亦有人把這系統轉移到[Microsoft
-Windows及](../Page/Microsoft_Windows.md "wikilink")[Mac OS
-X上運行](../Page/Mac_OS_X.md "wikilink")。
+**GmailFS**是一個[虛擬檔案系統](https://zh.wikipedia.org/wiki/虛擬檔案系統 "wikilink")，由[理查德·瓊斯開發](https://zh.wikipedia.org/wiki/理查德·瓊斯 "wikilink")，透過用戶的[Gmail電郵帳號來作檔案儲存](../Page/Gmail.md "wikilink")。GmailFS本身是為[Linux系統而寫](../Page/Linux.md "wikilink")，並應用了其[FUSE技術](../Page/FUSE.md "wikilink")，但亦有人把這系統轉移到[Microsoft
+Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+OS X上運行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 GmailFS的核心是一個以[Python編寫的](../Page/Python.md "wikilink")`libgmail`程式庫，作為FUSE與Gmail系統溝通的中介。整個GmailFS亦是以Python來創建。
 
@@ -10,8 +10,9 @@ GmailFS的速度主要受到用戶的互聯網連線速度限制，亦受到Gmai
 
   - [FUSE](../Page/FUSE.md "wikilink")：Linux的虛擬檔案系統
   - [Gmail](../Page/Gmail.md "wikilink")
-  - [GMail Drive](../Page/GMail_Drive.md "wikilink")：一個在Windows上使用的近似系統。
-  - [PhpGmailDrive](../Page/PhpGmailDrive.md "wikilink")
+  - [GMail
+    Drive](https://zh.wikipedia.org/wiki/GMail_Drive "wikilink")：一個在Windows上使用的近似系統。
+  - [PhpGmailDrive](https://zh.wikipedia.org/wiki/PhpGmailDrive "wikilink")
 
 ## 外部連結
 

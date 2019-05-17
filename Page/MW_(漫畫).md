@@ -30,37 +30,37 @@ Comic》（[小學館](../Page/小學館.md "wikilink")）1976年9月10日號－
   - ビッグコミックス『MW』（[小學館](../Page/小學館.md "wikilink")）全3卷
   - 小學館文庫『MW』（小學館）全2卷
   - 小學館叢書『MW』（小學館）全2卷
-  - [手塚治蟲漫畫全集](../Page/手塚治蟲漫畫全集.md "wikilink")『MW』（[講談社](../Page/講談社.md "wikilink")）全3卷
+  - [手塚治蟲漫畫全集](https://zh.wikipedia.org/wiki/手塚治蟲漫畫全集 "wikilink")『MW』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）全3卷
   - 《MW毒氣風暴》（文化傳信有限公司）【香港】全3本。1997/03、04
   - 《MW》，[台灣東販](../Page/台灣東販.md "wikilink")，全3本。2008年12月24日。
 
 ## 改編電影
 
-為紀念原作[手塚治虫誕辰八十週年而製作](../Page/手塚治虫.md "wikilink")。於2009年7月4日於日本上映。香港則由[驕陽電影有限公司購入發行權](../Page/驕陽電影有限公司.md "wikilink")。並加入中文名稱——《**MW毒氣風暴**》。於2009年10月15日於香港上映。根據[日本媒體報導](../Page/日本媒體.md "wikilink")，[日本演員](../Page/日本演員.md "wikilink")[玉木宏在此齣電影首度飾演反派角色](../Page/玉木宏.md "wikilink")。
+為紀念原作[手塚治虫誕辰八十週年而製作](../Page/手塚治虫.md "wikilink")。於2009年7月4日於日本上映。香港則由[驕陽電影有限公司購入發行權](https://zh.wikipedia.org/wiki/驕陽電影有限公司 "wikilink")。並加入中文名稱——《**MW毒氣風暴**》。於2009年10月15日於香港上映。根據[日本媒體報導](https://zh.wikipedia.org/wiki/日本媒體 "wikilink")，[日本演員](https://zh.wikipedia.org/wiki/日本演員 "wikilink")[玉木宏在此齣電影首度飾演反派角色](../Page/玉木宏.md "wikilink")。
 
 ### 演員
 
   - **結城
-    美智雄**……[玉木宏](../Page/玉木宏.md "wikilink")\*原作名為[美知夫](../Page/美知夫.md "wikilink")
+    美智雄**……[玉木宏](../Page/玉木宏.md "wikilink")\*原作名為[美知夫](https://zh.wikipedia.org/wiki/美知夫 "wikilink")
 
   - **賀來
-    裕太郎**……[山田孝之](../Page/山田孝之.md "wikilink")\*原作名為[賀來嚴](../Page/賀來嚴.md "wikilink")
+    裕太郎**……[山田孝之](../Page/山田孝之.md "wikilink")\*原作名為[賀來嚴](https://zh.wikipedia.org/wiki/賀來嚴 "wikilink")
 
   - **牧野京子**……[石田百合子](../Page/石田百合子.md "wikilink")
 
-  - **澤木和之**……[石橋凌](../Page/石橋凌.md "wikilink")
+  - **澤木和之**……[石橋凌](https://zh.wikipedia.org/wiki/石橋凌 "wikilink")
 
   - [山本裕典](../Page/山本裕典.md "wikilink")
 
   -
   -
-  - [中村育二](../Page/中村育二.md "wikilink")
+  - [中村育二](https://zh.wikipedia.org/wiki/中村育二 "wikilink")
 
-  - [半海一晃](../Page/半海一晃.md "wikilink")
+  - [半海一晃](https://zh.wikipedia.org/wiki/半海一晃 "wikilink")
 
-  - [品川徹](../Page/品川徹.md "wikilink")
+  - [品川徹](https://zh.wikipedia.org/wiki/品川徹 "wikilink")
 
-  - [鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
+  - [鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")
 
   -
 ### 工作人員

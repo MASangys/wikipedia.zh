@@ -5,7 +5,7 @@ Shell](../Page/C_Shell.md "wikilink")，故被分类为一种“外来”shell�
 
 ## 特色
 
-fish能根据用户的输入历史与当前所在的目录提供实时的[自动完成](../Page/自动完成.md "wikilink")。与[bash的类似功能](../Page/bash.md "wikilink")历史搜索相比，这种不必频繁切换模式还可以用方向键选择建议项的做法使用户能更流畅地进行输入。
+fish能根据用户的输入历史与当前所在的目录提供实时的[自动完成](../Page/自动完成.md "wikilink")。与[bash的类似功能](https://zh.wikipedia.org/wiki/bash "wikilink")历史搜索相比，这种不必频繁切换模式还可以用方向键选择建议项的做法使用户能更流畅地进行输入。
 
 fish也拥有功能丰富的Tab补全功能。fish能够自动补全文件路径、变量与不少命令的参数，且支持路径[通配符与C](../Page/通配符.md "wikilink")
 shell的花括号展开。fish某种意义上会通过分析命令的man文档生成与之相关的补全。

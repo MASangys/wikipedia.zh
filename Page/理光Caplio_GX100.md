@@ -1,9 +1,9 @@
 [Caplio_GX100_IMG_0466.JPG](https://zh.wikipedia.org/wiki/File:Caplio_GX100_IMG_0466.JPG "fig:Caplio_GX100_IMG_0466.JPG")
 **Caplio
-GX100**，為[理光](../Page/理光.md "wikilink")[數位相機](../Page/數位相機.md "wikilink")[Caplio
-GX8的後繼機種](../Page/Caplio_GX8.md "wikilink")。機身採[鋁鎂合金鑄造](../Page/鋁鎂合金.md "wikilink")，搭載等效[焦距](../Page/焦距.md "wikilink")
+GX100**，為[理光](../Page/理光.md "wikilink")[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[Caplio
+GX8的後繼機種](https://zh.wikipedia.org/wiki/Caplio_GX8 "wikilink")。機身採[鋁鎂合金鑄造](https://zh.wikipedia.org/wiki/鋁鎂合金 "wikilink")，搭載等效[焦距](../Page/焦距.md "wikilink")
 24 毫米 ～ 72 毫米（換算35mm相機視角。實際[焦距為](../Page/焦距.md "wikilink") 5.1 毫米 - 15.3
-毫米）的超廣角3倍[變焦鏡頭](../Page/變焦鏡頭.md "wikilink")、CCD[防手震](../Page/防手震.md "wikilink")、七片[光圈葉片以及可拆卸的電子](../Page/光圈.md "wikilink")[觀景窗](../Page/觀景窗.md "wikilink")，並支援外接[閃光燈](../Page/閃光燈.md "wikilink")。繼承了Caplio
+毫米）的超廣角3倍[變焦鏡頭](https://zh.wikipedia.org/wiki/變焦鏡頭 "wikilink")、CCD[防手震](https://zh.wikipedia.org/wiki/防手震 "wikilink")、七片[光圈葉片以及可拆卸的電子](../Page/光圈.md "wikilink")[觀景窗](https://zh.wikipedia.org/wiki/觀景窗 "wikilink")，並支援外接[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")。繼承了Caplio
 GX系列「追求輕巧的同時滿足專業攝影工作的需求」的方向。
 
 ## 主要規格
@@ -19,12 +19,12 @@ GX系列「追求輕巧的同時滿足專業攝影工作的需求」的方向。
   - 記錄媒體：SD記憶卡（3.3v 32、64、128、256、512MB、1GB、2GB）、SDHC記憶卡、機身內建26MB記憶體。
   - 測光模式：256區分區測光、中央重點測光、點測光。
   - 曝光補償：可以1/3EV做正負2EV的調整。
-  - [白平衡](../Page/白平衡.md "wikilink")：自動、預設（戶外、陰天、燈泡、日光燈、手動設定），另外支援白平衡包圍。
+  - [白平衡](https://zh.wikipedia.org/wiki/白平衡 "wikilink")：自動、預設（戶外、陰天、燈泡、日光燈、手動設定），另外支援白平衡包圍。
   - 閃光燈：內建彈跳式閃燈；另設有標準熱靴座可使用單點擊發的外接閃燈。
 
 ## 主要配件
 
-  - 外接[廣角鏡](../Page/廣角鏡.md "wikilink")（DW-6）: 等效焦距 19
+  - 外接[廣角鏡](https://zh.wikipedia.org/wiki/廣角鏡 "wikilink")（DW-6）: 等效焦距 19
     毫米的外接廣角鏡，需要搭配轉接環套件（HA-2）使用。
     轉接環套件（HA-2）: 包含一前方設有 43
     毫米螺紋的轉接環以及一花形遮光罩。使用後可外接廣角鏡（DW-6）或是使用市面上所販賣的濾鏡。

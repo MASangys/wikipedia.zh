@@ -1,10 +1,10 @@
-**OGLE-2005-BLG-169L**是一顆位於[人馬座的](../Page/人馬座.md "wikilink")[恆星](../Page/恆星.md "wikilink")，距地球約2,700[秒差距](../Page/秒差距.md "wikilink")。到目前為止，人們未能確認這顆恆星屬[主序星與否](../Page/主序星.md "wikilink")，但認為屬[紅矮星的可能性最高](../Page/紅矮星.md "wikilink")，其他推測有[白矮星](../Page/白矮星.md "wikilink")、[中子星或](../Page/中子星.md "wikilink")[黑洞](../Page/黑洞.md "wikilink")。
+**OGLE-2005-BLG-169L**是一顆位於[人馬座的](https://zh.wikipedia.org/wiki/人馬座 "wikilink")[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")，距地球約2,700[秒差距](../Page/秒差距.md "wikilink")。到目前為止，人們未能確認這顆恆星屬[主序星與否](../Page/主序星.md "wikilink")，但認為屬[紅矮星的可能性最高](../Page/紅矮星.md "wikilink")，其他推測有[白矮星](../Page/白矮星.md "wikilink")、[中子星或](../Page/中子星.md "wikilink")[黑洞](../Page/黑洞.md "wikilink")。
 
-2006年，人們發現有一顆[日外行星環繞其運行](../Page/日外行星.md "wikilink")。
+2006年，人們發現有一顆[日外行星環繞其運行](https://zh.wikipedia.org/wiki/日外行星 "wikilink")。
 
 ## 行星
 
-[光學重力透鏡實驗](../Page/光學重力透鏡實驗.md "wikilink")（OGLE）小組以[重力微透鏡方式發現一顆](../Page/重力微透鏡.md "wikilink")[行星](../Page/行星.md "wikilink")，編號為“**OGLE-2005-BLG-169Lb**”。以恆星的估計質量（太陽0.49倍）估計，這顆行星的質量約為[地球的](../Page/地球.md "wikilink")13倍，其質量及估計溫度與[天王星相若](../Page/天王星.md "wikilink")，類型可能為像天王星般的氣體行星，或是由固態冰或岩石組成的超級地球。
+[光學重力透鏡實驗](../Page/光學重力透鏡實驗.md "wikilink")（OGLE）小組以[重力微透鏡方式發現一顆](https://zh.wikipedia.org/wiki/重力微透鏡 "wikilink")[行星](../Page/行星.md "wikilink")，編號為“**OGLE-2005-BLG-169Lb**”。以恆星的估計質量（太陽0.49倍）估計，這顆行星的質量約為[地球的](../Page/地球.md "wikilink")13倍，其質量及估計溫度與[天王星相若](../Page/天王星.md "wikilink")，類型可能為像天王星般的氣體行星，或是由固態冰或岩石組成的超級地球。
 
 ## 請參閱
 

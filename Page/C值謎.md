@@ -5,8 +5,8 @@ paradox**）。指一個關於[真核生物各物種的](../Page/真核生物.md
 
   - Gregory TR (2005). Genome size evolution in animals. In *[The
     Evolution of the
-    Genome](../Page/The_Evolution_of_the_Genome.md "wikilink")* (ed.
-    T.R. Gregory), pp. 3-87. Elsevier, San Diego.
+    Genome](https://zh.wikipedia.org/wiki/The_Evolution_of_the_Genome "wikilink")*
+    (ed. T.R. Gregory), pp. 3-87. Elsevier, San Diego.
   - Gregory TR (2001). Coincidence, coevolution, or causation? DNA
     content, cell size, and the C-value enigma. *Biological Reviews*,
     **76**:65-101.

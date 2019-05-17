@@ -1,5 +1,5 @@
-**Iceweasel**是一个[网络浏览器](../Page/网络浏览器.md "wikilink")，是[Mozilla
-Firefox浏览器在](../Page/Mozilla_Firefox.md "wikilink")[Debian上的再发布版](../Page/Debian.md "wikilink")。
+**Iceweasel**是一个[网络浏览器](https://zh.wikipedia.org/wiki/网络浏览器 "wikilink")，是[Mozilla
+Firefox浏览器在](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Debian上的再发布版](../Page/Debian.md "wikilink")。
 
 Debian从4.0（Etch）版本开始默认安装Iceweasel，代替Firefox。创建此再发布版的起因是[Mozilla组织注册了](../Page/Mozilla.md "wikilink")“Firefox”商标并增加了多项品牌使用限制。[Debian组织最终选择了放弃使用Firefox商标](../Page/Debian.md "wikilink")，另行创建一个用于Debian发行版的“Iceweasel”标识并进行维护。
 [Iceweasel-zhwiki.png](https://zh.wikipedia.org/wiki/File:Iceweasel-zhwiki.png "fig:Iceweasel-zhwiki.png")

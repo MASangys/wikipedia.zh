@@ -1,7 +1,7 @@
 《**Folklore
--異魂傳承-**》（日版標題：、美版標題：Folklore）由前[CAPCOM製作人](../Page/CAPCOM.md "wikilink")[岡本吉起所設立的](../Page/岡本吉起.md "wikilink")[Game
-Republic](../Page/Game_Republic.md "wikilink")（代表作：源氏）開發，是一款[PlayStation
-3的](../Page/PlayStation_3.md "wikilink")[幻想](../Page/幻想.md "wikilink")[動作](../Page/動作.md "wikilink")[冒險遊戲](../Page/冒險.md "wikilink")。本遊戲利用PlayStation
+-異魂傳承-**》（日版標題：、美版標題：Folklore）由前[CAPCOM製作人](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[岡本吉起所設立的](../Page/岡本吉起.md "wikilink")[Game
+Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")（代表作：源氏）開發，是一款[PlayStation
+3的](../Page/PlayStation_3.md "wikilink")[幻想](https://zh.wikipedia.org/wiki/幻想 "wikilink")[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險 "wikilink")。本遊戲利用PlayStation
 3的驚人表現力來活現世界觀對玩家帶來驚嚇和感動的情節。遊戲的中文版將於2007年9月27日發售。
 
 <small>備註：遊戲開發初期代號為「*MONSTER KINGDOM UNKNOWN REALMS*」，未知是否與[PlayStation
@@ -17,12 +17,12 @@ Jewel Summoner》有關聯。</small>
     有如一座陸上孤島，但如今依然有一些人在這裡孤苦地生活……
 
 《Folklore
--異魂傳承-》的故事以[克爾特神話為主題](../Page/克爾特神話.md "wikilink")，以現代世界為背景，以穿梭在生死狹縫間的異界，探討「死亡」的意義為主題。主角會在現代[歐洲與](../Page/歐洲.md "wikilink")7個不可思議並擁有稱為「異世靈」的妖精的「異界」旅行，遊戲的世界由位於現實世界與死亡世界之間的，每個異界各有不同的主題風格。
+-異魂傳承-》的故事以[克爾特神話為主題](https://zh.wikipedia.org/wiki/克爾特神話 "wikilink")，以現代世界為背景，以穿梭在生死狹縫間的異界，探討「死亡」的意義為主題。主角會在現代[歐洲與](https://zh.wikipedia.org/wiki/歐洲 "wikilink")7個不可思議並擁有稱為「異世靈」的妖精的「異界」旅行，遊戲的世界由位於現實世界與死亡世界之間的，每個異界各有不同的主題風格。
 
 ## 沿革
 
   - 2007年5月22日起於「[PLAYSTATION
-    Store](../Page/PLAYSTATION_Store.md "wikilink")」開放宣傳短片
+    Store](https://zh.wikipedia.org/wiki/PLAYSTATION_Store "wikilink")」開放宣傳短片
   - 2007年6月1日起於「PLAYSTATION Store」開放體驗版下載
 
 ## 主要角色
@@ -70,9 +70,10 @@ Jewel Summoner》有關聯。</small>
 ## 系統
 
   - 戰鬥
-    《Folklore -異魂傳承-》的戰鬥操作相當獨特，遊戲對應[SONY](../Page/SONY.md "wikilink")
+    《Folklore
+    -異魂傳承-》的戰鬥操作相當獨特，遊戲對應[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
     [PlayStation
-    3的](../Page/PlayStation_3.md "wikilink")[SIXAXIS](../Page/SIXAXIS.md "wikilink")（六軸動態感應）技術。兩位主角在全部的7個異界中冒險時，與「異世靈（Folks）」戰鬥到一定程度后，「異世靈」會出現特別的靈魂脫出狀態，按住手柄上的R1並配合晃動和向上拉扯手柄等肢體操作來發揮其所具備的獨特「魂魄（ID）拉出」能力，來收服各種「異世靈」，收復后就可在之後的戰鬥中視情況來按下L2鍵來選擇切換不同屬性和性質的「異世靈」，驅使牠們進行戰鬥。
+    3的](../Page/PlayStation_3.md "wikilink")[SIXAXIS](https://zh.wikipedia.org/wiki/SIXAXIS "wikilink")（六軸動態感應）技術。兩位主角在全部的7個異界中冒險時，與「異世靈（Folks）」戰鬥到一定程度后，「異世靈」會出現特別的靈魂脫出狀態，按住手柄上的R1並配合晃動和向上拉扯手柄等肢體操作來發揮其所具備的獨特「魂魄（ID）拉出」能力，來收服各種「異世靈」，收復后就可在之後的戰鬥中視情況來按下L2鍵來選擇切換不同屬性和性質的「異世靈」，驅使牠們進行戰鬥。
 
 <!-- end list -->
 
@@ -99,8 +100,10 @@ Jewel Summoner》有關聯。</small>
 <!-- end list -->
 
   - 聯動
-    《Folklore -異魂傳承-》還可以和[SONY](../Page/SONY.md "wikilink") [PlayStation
-    Protable主機的遊戲](../Page/PlayStation_Protable.md "wikilink")《密域奇魂
+    《Folklore
+    -異魂傳承-》還可以和[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
+    [PlayStation
+    Protable主機的遊戲](https://zh.wikipedia.org/wiki/PlayStation_Protable "wikilink")《密域奇魂
     -伊底亞傳承-（Coded Soul）》進行聯動。能取得聯動探索任務、追加業障等等各種特典，還能互傳已捕獲的怪物。
 
 ## 基本操作
@@ -142,14 +145,16 @@ START——察看異世靈／道具／系統菜單
 <!-- end list -->
 
   - 主唱／演奏：[abingdon boys
-    school](../Page/abingdon_boys_school.md "wikilink")
-  - 出版：[Epic Records Japan](../Page/Epic_Records_Japan.md "wikilink")
-  - 作詞：[西川貴教](../Page/西川貴教.md "wikilink")／作曲：[岸利至](../Page/岸利至.md "wikilink")
+    school](https://zh.wikipedia.org/wiki/abingdon_boys_school "wikilink")
+  - 出版：[Epic Records
+    Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")
+  - 作詞：[西川貴教](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")／作曲：[岸利至](https://zh.wikipedia.org/wiki/岸利至 "wikilink")
 
 ## 相關條目
 
-  - [索尼電腦娛樂](../Page/索尼電腦娛樂.md "wikilink")
-  - [Game Republic](../Page/Game_Republic.md "wikilink")
+  - [索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")
+  - [Game
+    Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")
   - [PlayStation 3遊戲列表](../Page/PlayStation_3遊戲列表.md "wikilink")
 
 ## 外部連結

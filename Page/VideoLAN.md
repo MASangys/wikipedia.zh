@@ -1,10 +1,11 @@
 [VLC_Icon.svg](https://zh.wikipedia.org/wiki/File:VLC_Icon.svg "fig:VLC_Icon.svg")
 
-是一个[开发通过局域网](../Page/软件开发.md "wikilink")（LAN）播放视频及其他媒体格式的软件的计划。最初开发了两个媒体[流媒体](../Page/流媒体.md "wikilink")[程序VideoLAN](../Page/电脑程序.md "wikilink")
+是一个[开发通过局域网](https://zh.wikipedia.org/wiki/软件开发 "wikilink")（LAN）播放视频及其他媒体格式的软件的计划。最初开发了两个媒体[流媒体](../Page/流媒体.md "wikilink")[程序VideoLAN](https://zh.wikipedia.org/wiki/电脑程序 "wikilink")
 Client（VLC）及VideoLAN Server（VLS），然而大部分的VLS功能都逐渐整合進VLC，所以就將VLC改名為[VLC
-media player](../Page/VLC_media_player.md "wikilink")。
+media
+player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")。
 
-這個計畫原本是[巴黎中央理工學院學生的專題計畫](../Page/巴黎中央理工學院.md "wikilink")，但自从以[GNU通用公共许可协议发布自由软件之后](../Page/GNU通用公共许可协议.md "wikilink")，这个计划吸引了来自20多个国家的开发团队\[1\]。
+這個計畫原本是[巴黎中央理工學院學生的專題計畫](https://zh.wikipedia.org/wiki/巴黎中央理工學院 "wikilink")，但自从以[GNU通用公共许可协议发布自由软件之后](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，这个计划吸引了来自20多个国家的开发团队\[1\]。
 
 ## [架构支持](../Page/计算机系统结构.md "wikilink")
 
@@ -18,12 +19,12 @@ media player](../Page/VLC_media_player.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Microsoft_Windows.md" title="wikilink">Windows</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/OS_X.md" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">Mac OS X</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -39,10 +40,10 @@ media player](../Page/VLC_media_player.md "wikilink")。
 
 ### VLC
 
-VLC多媒體播放器（）是个[可移植的](../Page/移植_\(軟體\).md "wikilink")，支持多数音视频编码及格式、[DVD](../Page/DVD.md "wikilink")、[VCD以及各种](../Page/VCD.md "wikilink")[协议](../Page/网络传输协议.md "wikilink")[流媒体的多媒体播放器](../Page/流媒体.md "wikilink")、解码器及串-{}-流器
-。可通过[网络串](../Page/计算机网络.md "wikilink")-{}-流及传输媒体文件并将其保存为各种格式。是最具有平台独立性的播放器之一，支援[Windows](../Page/Windows.md "wikilink")、[Mac
+VLC多媒體播放器（）是个[可移植的](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")，支持多数音视频编码及格式、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[VCD以及各种](../Page/VCD.md "wikilink")[协议](../Page/网络传输协议.md "wikilink")[流媒体的多媒体播放器](../Page/流媒体.md "wikilink")、解码器及串-{}-流器
+。可通过[网络串](../Page/计算机网络.md "wikilink")-{}-流及传输媒体文件并将其保存为各种格式。是最具有平台独立性的播放器之一，支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、[GNU/Linux](../Page/GNU/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[QNX](../Page/QNX.md "wikilink")、及[OS/2](../Page/OS/2.md "wikilink")，并且在2009年11月有超过3亿次的下载量\[2\]。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[QNX](../Page/QNX.md "wikilink")、及[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，并且在2009年11月有超过3亿次的下载量\[2\]。
 
 ### VLMC
 
@@ -55,8 +56,8 @@ VLS计划的初衷是用作串流视频的服务器。现已并入VLC计划，�
 
 ### 编解码器
 
-VideoLAN计划还管理着一些音视频[编解码器和](../Page/编解码器.md "wikilink")[算法](../Page/加密.md "wikilink")[库](../Page/函式庫.md "wikilink")，诸如允许使用[CSS保护DVD](../Page/內容擾亂系統.md "wikilink")，[x264可解码](../Page/x264.md "wikilink")[H.264/MPEG-4
-AVC视频](../Page/H.264/MPEG-4_AVC.md "wikilink")，可解码[DTS音频及](../Page/DTS.md "wikilink")[FFmpeg](../Page/FFmpeg.md "wikilink")[多媒体框架的](../Page/多媒体框架.md "wikilink")[Git](../Page/Git.md "wikilink")[存储库](../Page/存储库.md "wikilink")。
+VideoLAN计划还管理着一些音视频[编解码器和](../Page/编解码器.md "wikilink")[算法](https://zh.wikipedia.org/wiki/加密 "wikilink")[库](../Page/函式庫.md "wikilink")，诸如允许使用[CSS保护DVD](https://zh.wikipedia.org/wiki/內容擾亂系統 "wikilink")，[x264可解码](https://zh.wikipedia.org/wiki/x264 "wikilink")[H.264/MPEG-4
+AVC视频](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，可解码[DTS音频及](../Page/DTS.md "wikilink")[FFmpeg](../Page/FFmpeg.md "wikilink")[多媒体框架的](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")[Git](../Page/Git.md "wikilink")[存储库](https://zh.wikipedia.org/wiki/存储库 "wikilink")。
 
 ### VLMa
 
@@ -90,7 +91,7 @@ System的知识就能为VLC多媒体播放器创建新皮肤。能让用户定�
 
 ## 参见
 
-  - [Google影片](../Page/Google影片.md "wikilink")——在其媒体播放器[浏览器](../Page/网页浏览器.md "wikilink")[插件使用VideoLAN技术](../Page/插件.md "wikilink")\[4\]
+  - [Google影片](https://zh.wikipedia.org/wiki/Google影片 "wikilink")——在其媒体播放器[浏览器](../Page/网页浏览器.md "wikilink")[插件使用VideoLAN技术](../Page/插件.md "wikilink")\[4\]
   - [媒体播放器列表](../Page/媒体播放器列表.md "wikilink")
 
 [Category:DVD](https://zh.wikipedia.org/wiki/Category:DVD "wikilink")

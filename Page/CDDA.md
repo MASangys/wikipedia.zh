@@ -1,15 +1,16 @@
 **CDDA**是**數位音樂光碟**（Compact Disc Digital
-Audio）的縮寫，為在[CD收錄](../Page/CD.md "wikilink")[音樂的規格](../Page/音樂.md "wikilink")。一般稱**音樂CD**時指的便是CDDA。
+Audio）的縮寫，為在[CD收錄](../Page/CD.md "wikilink")[音樂的規格](https://zh.wikipedia.org/wiki/音樂 "wikilink")。一般稱**音樂CD**時指的便是CDDA。
 
 ## 概要
 
-CDDA規格由[飛利浦和](../Page/飛利浦.md "wikilink")[Sony制訂](../Page/Sony.md "wikilink")，規格文件書由於封面紅色而稱**紅皮書**，為[彩虹書之一](../Page/彩虹書.md "wikilink")。
+CDDA規格由[飛利浦和](../Page/飛利浦.md "wikilink")[Sony制訂](https://zh.wikipedia.org/wiki/Sony "wikilink")，規格文件書由於封面紅色而稱**紅皮書**，為[彩虹書之一](../Page/彩虹書.md "wikilink")。
 
-第一版的紅皮書於1980年6月由飛利浦和Sony共同釋出，它被[數位音訊碟片委員會](../Page/數位音訊碟片委員會.md "wikilink")（Digital
-Audio Disc Committee）認證為 [IEC](../Page/國際電工委員會.md "wikilink")
+第一版的紅皮書於1980年6月由飛利浦和Sony共同釋出，它被[數位音訊碟片委員會](https://zh.wikipedia.org/wiki/數位音訊碟片委員會 "wikilink")（Digital
+Audio Disc Committee）認證為
+[IEC](https://zh.wikipedia.org/wiki/國際電工委員會 "wikilink")
 908。這個標準並非免費的，使用者必須擁有飛利浦發出的許可證。在寫作此時，飛利浦的每份相關訂單要價5000[美元](../Page/美元.md "wikilink")\[1\]。2006年，IEC
 908（也就是現在的IEC
-60908）以[PDF形式放在](../Page/PDF.md "wikilink")[網際網路上販售](../Page/網際網路.md "wikilink")，每份售價210[美元](../Page/美元.md "wikilink")\[2\]。
+60908）以[PDF形式放在](https://zh.wikipedia.org/wiki/PDF "wikilink")[網際網路上販售](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，每份售價210[美元](../Page/美元.md "wikilink")\[2\]。
 
 ## 紅皮書音訊規則
 
@@ -31,7 +32,7 @@ Audio Disc Committee）認證為 [IEC](../Page/國際電工委員會.md "wikilin
 
 紅皮書給定的實體CD規格和屬性包括光學光束的參數、誤差和錯誤率、[八比十四調變系統](../Page/八比十四調變.md "wikilink")、錯誤改正([Cross-interleaved
 Reed–Solomon
-coding](../Page/Cross-interleaved_Reed–Solomon_coding.md "wikilink"))、[附屬资料通道](../Page/附屬资料通道.md "wikilink")
+coding](https://zh.wikipedia.org/wiki/Cross-interleaved_Reed–Solomon_coding "wikilink"))、[附屬资料通道](https://zh.wikipedia.org/wiki/附屬资料通道 "wikilink")
 (subcode channel) 以及圖形。
 
 它同樣指定了 CD 使用了數位音訊編碼是 2 聲道的
@@ -42,20 +43,22 @@ coding](../Page/Cross-interleaved_Reed–Solomon_coding.md "wikilink"))、[附�
 176.4Kbyte/s.
 
 在碟片上，資料以 2352 byte 組成一個區段的方式儲存，讀取的速度為每秒 75 區段。记录以
-[EFM方式编码](../Page/EFM.md "wikilink")、再以[CIRC方式插值](../Page/CIRC.md "wikilink")、[L1
-L2 ECC改错码](../Page/L1_L2_ECC.md "wikilink")， 插入 subcode 等等的域頭資訊
-(overhead)，通常這些编码資訊並不提供給電腦的應用程式所用。
+[EFM方式编码](https://zh.wikipedia.org/wiki/EFM "wikilink")、再以[CIRC方式插值](https://zh.wikipedia.org/wiki/CIRC "wikilink")、[L1
+L2 ECC改错码](https://zh.wikipedia.org/wiki/L1_L2_ECC "wikilink")， 插入
+subcode 等等的域頭資訊 (overhead)，通常這些编码資訊並不提供給電腦的應用程式所用。
 
 一張「1倍速」的資料 CD 的位元率，以每區段共 2352 byte 中的304 byte 為偵錯改错资料，剩下 2048 byte × 每秒
-75 區段 = 恰好每秒 150 [KiB](../Page/KiB.md "wikilink")，大約每分鐘 8.8 MiB。
+75 區段 = 恰好每秒 150
+[KiB](https://zh.wikipedia.org/wiki/KiB "wikilink")，大約每分鐘 8.8
+MiB。
 
 ## 防止拷貝措施
 
 有些[唱片公司為了加入其他功能](../Page/唱片公司.md "wikilink")，製作及銷售不符合紅皮書規格的CD，例如防止拷貝的[Copy
-Control](../Page/Copy_Control.md "wikilink")、使用[DualDisc提供額外的资讯](../Page/DualDisc.md "wikilink")。为此，CD層從紅皮書要求的1.2公釐變成0.9公釐。飛利浦和其他公司向其警告，把CDDA商標擺在不符合紅皮書標準的產品上，有可能牴觸商標法。
+Control](../Page/Copy_Control.md "wikilink")、使用[DualDisc提供額外的资讯](https://zh.wikipedia.org/wiki/DualDisc "wikilink")。为此，CD層從紅皮書要求的1.2公釐變成0.9公釐。飛利浦和其他公司向其警告，把CDDA商標擺在不符合紅皮書標準的產品上，有可能牴觸商標法。
 结果，相似CDDA的商標已經不見於这类防拷貝CD上，而CD盒上原来警告使用者「光碟可能無法在你的播放器中播放」的貼紙也被取消，因為定義上已经不屬於CD。
 [Super Audio
-CD及](../Page/Super_Audio_CD.md "wikilink")[DVD-Audio](../Page/DVD-Audio.md "wikilink")，这两种媒体设计为比CDDA更高的采样率、分解度、更低的高頻[相位誤差](../Page/相位.md "wikilink")，以播放更佳的音频传真度。
+CD及](../Page/Super_Audio_CD.md "wikilink")[DVD-Audio](../Page/DVD-Audio.md "wikilink")，这两种媒体设计为比CDDA更高的采样率、分解度、更低的高頻[相位誤差](https://zh.wikipedia.org/wiki/相位 "wikilink")，以播放更佳的音频传真度。
 
 ## 參考資料
 
@@ -64,10 +67,10 @@ CD及](../Page/Super_Audio_CD.md "wikilink")[DVD-Audio](../Page/DVD-Audio.md "wi
 ## 參見
 
   - [Extended Copy
-    Protection](../Page/Extended_Copy_Protection.md "wikilink")：2005 年
-    Sony 的 DRM 醜聞
-  - [DRM](../Page/DRM.md "wikilink")
-  - [四軌音訊CD](../Page/四軌音訊CD.md "wikilink")
+    Protection](https://zh.wikipedia.org/wiki/Extended_Copy_Protection "wikilink")：2005
+    年 Sony 的 DRM 醜聞
+  - [DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")
+  - [四軌音訊CD](https://zh.wikipedia.org/wiki/四軌音訊CD "wikilink")
 
 ## 外部連結
 

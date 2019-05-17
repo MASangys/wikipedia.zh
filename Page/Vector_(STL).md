@@ -1,5 +1,5 @@
 **Vector**
-是[C++標準程式庫中的一個](../Page/C++標準程式庫.md "wikilink")[類](../Page/类_\(计算机科学\).md "wikilink")，可視為會自動擴展容量的陣列，以循序(Sequential)的方式維護變數集合。vector的特色有支持隨機存取，在集合尾端增刪元素很快，但是在集合中間增刪元素比較費時。vector是[C++標準程式庫中的眾多](../Page/C++標準程式庫.md "wikilink")[容器](../Page/容器_\(資料類型\).md "wikilink")（*container*）之一。
+是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[類](../Page/类_\(计算机科学\).md "wikilink")，可視為會自動擴展容量的陣列，以循序(Sequential)的方式維護變數集合。vector的特色有支持隨機存取，在集合尾端增刪元素很快，但是在集合中間增刪元素比較費時。vector是[C++標準程式庫中的眾多](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[容器](https://zh.wikipedia.org/wiki/容器_\(資料類型\) "wikilink")（*container*）之一。
 vector以[模板](../Page/模板_\(C++\).md "wikilink")(泛型)方式實現，可以保存任意類型的變數，包括使用者自定義的資料型態，例如：它可以是放置整數（int）型態的
 vector、也可以是放置字串（string）型態的 vector、或者放置使用者自定類別（user-defined class）的
 vector。
@@ -8,20 +8,20 @@ vector。
 
 vector 定義於 <vector> 標頭檔中。與其他STL元件一樣，vector 屬於std名稱空間。
 
-vector是[C++標準程式庫裡最基本的容器](../Page/C++標準程式庫.md "wikilink")，大多數狀況下都很有效率。vector設計之初即是為了改善C語言原生陣列的種種缺失與不便，而欲提供一種更有效、更安全的陣列。vector的使用介面刻意模擬C語言原生[陣列](../Page/陣列.md "wikilink")，較明顯的差異在於記憶體管理，原生陣列必須在宣告陣列的時候明確指定陣列長度(例如
+vector是[C++標準程式庫裡最基本的容器](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，大多數狀況下都很有效率。vector設計之初即是為了改善C語言原生陣列的種種缺失與不便，而欲提供一種更有效、更安全的陣列。vector的使用介面刻意模擬C語言原生[陣列](https://zh.wikipedia.org/wiki/陣列 "wikilink")，較明顯的差異在於記憶體管理，原生陣列必須在宣告陣列的時候明確指定陣列長度(例如
 int a\[5\])，但是 vector 不需要指定，而是會在執行期依據狀況自我調整長度，動態增大容量。
 
-vector的表現一如[資料結構中的](../Page/資料結構.md "wikilink")[陣列](../Page/陣列.md "wikilink")，允許隨機存取(Random
+vector的表現一如[資料結構中的](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[陣列](https://zh.wikipedia.org/wiki/陣列 "wikilink")，允許隨機存取(Random
 Access)，以索引值(index)存取任一元素只要花費常數時間
 O(1)，在集合尾端增加或刪除元素也是花費常數時間O(1)，若在vector集合中間增加或刪除元素時間複雜度是線性時間O(n)，較為費時。雖然C++標準並沒有規定實作方式，但大多數
 vector 內部均使用動態陣列方式實作。
 
 ### 成員函式概觀
 
-`vector` 類別是以[容器（Container）](../Page/容器_\(抽象数据类型\).md "wikilink")
-模式為基準設計的，也就是說，基本上它有
-`begin()`，`end()`，`size()`，`max_size()`，`empty()` 以及 `swap()`
-這幾個方法。
+`vector`
+類別是以[容器（Container）](https://zh.wikipedia.org/wiki/容器_\(抽象数据类型\) "wikilink")
+模式為基準設計的，也就是說，基本上它有 `begin()`，`end()`，`size()`，`max_size()`，`empty()` 以及
+`swap()` 這幾個方法。
 
   - 存取元素的方法
       - `vec[i]` - 存取索引值為 i 的元素參照。 (索引值從零起算，故第一個元素是vec\[0\]。)

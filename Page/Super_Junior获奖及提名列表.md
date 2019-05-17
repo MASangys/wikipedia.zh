@@ -15,13 +15,13 @@
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/金唱片奖.md" title="wikilink">金唱片奖</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/金唱片奖" title="wikilink">金唱片奖</a></dt>
 
 </dl></td>
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/首爾音樂獎.md" title="wikilink">首爾歌謠大賞</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/首爾音樂獎" title="wikilink">首爾歌謠大賞</a></dt>
 
 </dl></td>
 </tr>
@@ -72,25 +72,25 @@
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/M!_Countdown.md" title="wikilink">Mnet M! Countdown</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">Mnet M! Countdown</a></dt>
 
 </dl></td>
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/KBS音乐银行.md" title="wikilink">KBS 音乐银行</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/KBS音乐银行" title="wikilink">KBS 音乐银行</a></dt>
 
 </dl></td>
 </tr>
 <tr class="odd">
 <td><dl>
-<dt><a href="../Page/Show!_音樂中心.md" title="wikilink">MBC 音樂中心</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">MBC 音樂中心</a></dt>
 
 </dl></td>
 </tr>
 <tr class="even">
 <td><dl>
-<dt><a href="../Page/SBS人氣歌謠.md" title="wikilink">SBS 人氣歌謠</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">SBS 人氣歌謠</a></dt>
 
 </dl></td>
 </tr>
@@ -110,10 +110,10 @@
 Junior由出道至今於頒獎典禮的獲獎及提名](../Page/Super_Junior.md "wikilink")。
 
 Super
-Junior是韩国的13人男子组合，自2005年出道至今得到了很多奖项和认可，2007年进入[华语流行音乐界](../Page/华语流行音乐.md "wikilink")。Super
-Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](../Page/中国.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚等地得奖](../Page/马来西亚.md "wikilink")。
+Junior是韩国的13人男子组合，自2005年出道至今得到了很多奖项和认可，2007年进入[华语流行音乐界](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。Super
+Junior大多数奖项在韩国获得，但是也在一些亚洲国家如[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[泰国](../Page/泰国.md "wikilink")、[马来西亚等地得奖](../Page/马来西亚.md "wikilink")。
 
-《[U](../Page/U_\(Super_Junior\).md "wikilink")》使Super
+《[U](https://zh.wikipedia.org/wiki/U_\(Super_Junior\) "wikilink")》使Super
 Junior获得了第一个音乐奖项（2006年6月SBS人气歌谣奖）。这单曲有赢得了其他4个奖项，组合在2006年9月举行的M.NET/KM音乐节中首次获得了MKMF奖项。在亚洲的其他地区被认识的Super
 Junior是第一个在腾讯星光大典赢得亚洲年度艺人的海外艺人，也是继2003年的[JTL第二个在MTV](../Page/JTL.md "wikilink")
 Asia中获得韩国最受欢迎艺人的音乐组合。
@@ -124,10 +124,11 @@ Awards中获得最佳装扮艺人称号。在2008 M.NET/KM音乐节得到了唯�
 
 Super Junior自2009年開始，Super Junior已經連續四年獲得韓國唱片銷量總冠軍。七次獲韓國金唱片人氣獎(MSN日本人氣獎:
 2011年；MSN東南亞人氣獎:
-2012年)以及七次獲[Mnet亞洲音樂大獎人氣獎](../Page/Mnet亞洲音樂大獎.md "wikilink")。另外，五次獲得韓國[金唱片唱片本賞](../Page/金唱片獎.md "wikilink")（其中三次更得到大賞），並成為在韓國[金唱片頒獎典禮中取得最多獎項的歌手以及第一個蟬聯金唱片大賞的組合](../Page/金唱片獎.md "wikilink")。Super
-Junior在2011及2012年的[Mnet亞洲音樂大獎中亦有出色的表現](../Page/Mnet亞洲音樂大獎.md "wikilink")，於2011年獲得最佳男子組合、年度專輯大獎，2012年獲得全球最佳男子組合以及成為唯一蟬聯年度專輯大獎的組合，同時亦成為[Mnet亞洲音樂大獎獲得最多獎項的歌手其中之一](../Page/Mnet亞洲音樂大獎.md "wikilink")。除此之外，他們在2011年更獲得[首爾歌謠本賞及得到大賞](../Page/首爾音樂獎.md "wikilink")，成為該年橫掃三大頒獎典禮大賞的組合。
+2012年)以及七次獲[Mnet亞洲音樂大獎人氣獎](../Page/Mnet亞洲音樂大獎.md "wikilink")。另外，五次獲得韓國[金唱片唱片本賞](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")（其中三次更得到大賞），並成為在韓國[金唱片頒獎典禮中取得最多獎項的歌手以及第一個蟬聯金唱片大賞的組合](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")。Super
+Junior在2011及2012年的[Mnet亞洲音樂大獎中亦有出色的表現](../Page/Mnet亞洲音樂大獎.md "wikilink")，於2011年獲得最佳男子組合、年度專輯大獎，2012年獲得全球最佳男子組合以及成為唯一蟬聯年度專輯大獎的組合，同時亦成為[Mnet亞洲音樂大獎獲得最多獎項的歌手其中之一](../Page/Mnet亞洲音樂大獎.md "wikilink")。除此之外，他們在2011年更獲得[首爾歌謠本賞及得到大賞](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")，成為該年橫掃三大頒獎典禮大賞的組合。
 
-2011年[Music Bank單次得分最高排名中](../Page/Music_Bank.md "wikilink")，Super
+2011年[Music
+Bank單次得分最高排名中](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")，Super
 Junior分別佔據第一、三、四、五、八名，在年終結算佔據了第八名，亦是所有男團中最高名次。
 
 ## 韓國頒獎禮
@@ -158,7 +159,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="odd">
 <td><p>Dance部门最优秀赏</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -419,7 +420,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="odd">
 <td><p>MV人气奖</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -552,7 +553,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -576,7 +577,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -669,13 +670,13 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="even">
 <td><p>2014</p></td>
 <td><p>本賞</p></td>
-<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>本賞</p></td>
-<td><p>《<a href="../Page/Play.md" title="wikilink">Play</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Play" title="wikilink">Play</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -713,13 +714,13 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>第三季度專輯獎</p></td>
-<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第四季度專輯獎</p></td>
-<td><p>《<a href="../Page/Mamacita.md" title="wikilink">This Is Love</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -888,7 +889,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p>最佳男子新人獎</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1065,7 +1066,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p><strong>2006</strong></p></td>
 <td><p>最佳新人组合</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1083,7 +1084,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="even">
 <td><p><strong>2006</strong></p></td>
 <td><p>最佳组合</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1586,7 +1587,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/2011年度YAHOO!搜尋人氣大獎得獎名單#亞太區獎項.md" title="wikilink">2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2011年度YAHOO!搜尋人氣大獎得獎名單#亞太區獎項" title="wikilink">2011</a></p></td>
 <td><p>全亞洲搜尋人氣大獎</p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
 <td></td>
@@ -1610,7 +1611,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2012年度YAHOO!搜尋人氣大獎得獎名單#亞太區獎項.md" title="wikilink">2012</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2012年度YAHOO!搜尋人氣大獎得獎名單#亞太區獎項" title="wikilink">2012</a></p></td>
 <td><p>亞洲搜尋人氣大獎</p></td>
 <td></td>
 <td></td>
@@ -1643,13 +1644,13 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒奬禮2011#最暢銷日韓語唱片.md" title="wikilink">2011</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2011#最暢銷日韓語唱片" title="wikilink">2011</a></p></td>
 <td><p>最暢銷日韓語唱片獎</p></td>
 <td><p><a href="../Page/Mr._Simple.md" title="wikilink">A-CHa</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒奬禮2012#最暢銷日韓語唱片.md" title="wikilink">2012</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2012#最暢銷日韓語唱片" title="wikilink">2012</a></p></td>
 <td><p><a href="../Page/Sexy,_Free_&amp;_Single.md" title="wikilink">Sexy, Free &amp; Single</a></p></td>
 <td></td>
 <td></td>
@@ -1661,25 +1662,25 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒獎禮2013#最暢銷日韓語唱片.md" title="wikilink">2013</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2013#最暢銷日韓語唱片" title="wikilink">2013</a></p></td>
 <td><p><a href="../Page/Super_Show_4.md" title="wikilink">Super Show 4 DVD</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒獎禮2014#最暢銷日韓語唱片.md" title="wikilink">2014</a></p></td>
-<td><p><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2014#最暢銷日韓語唱片" title="wikilink">2014</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Mamacita.md" title="wikilink">This Is Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/IFPI香港唱片銷量大獎頒奬禮2015#最暢銷日、韓唱片.md" title="wikilink">2015</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2015#最暢銷日、韓唱片" title="wikilink">2015</a></p></td>
 <td><p><a href="../Page/Super_Show_5.md" title="wikilink">Super Show 5 DVD</a></p></td>
 <td></td>
 <td></td>
@@ -1776,7 +1777,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p>年度日語單曲獎</p></td>
-<td><p>《<a href="../Page/美人.md" title="wikilink">Bonamana</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/美人" title="wikilink">Bonamana</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2007,7 +2008,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2015[30]</p></td>
 <td><p>年度日亞歌曲獎</p></td>
-<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2077,7 +2078,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2007</p></td>
 <td><p>最佳亚洲新人</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2432,7 +2433,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>Best Music Video</p></td>
-<td><p><em><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2444,7 +2445,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>Album of the Year</p></td>
-<td><p><em><a href="../Page/Mamacita.md" title="wikilink">This Is Love</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2518,8 +2519,8 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 
 這些是集合了Super Junior在韓國電視播送所獲得的音樂節目獎項，包括：[MBC Music《Show
 Champion》](../Page/Show_Champion.md "wikilink")、[Mnet《M\!
-Countdown》](../Page/M!_Countdown.md "wikilink")、[KBS《音樂銀行》](../Page/KBS音樂銀行.md "wikilink")、[MBC《音樂中心》和](../Page/Show!_音樂中心.md "wikilink")[SBS《人氣歌謠》](../Page/SBS人氣歌謠.md "wikilink")、[The
-Show](../Page/The_Show.md "wikilink")。
+Countdown》](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")、[KBS《音樂銀行》](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")、[MBC《音樂中心》和](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")[SBS《人氣歌謠》](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")、[The
+Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")。
 
 ### Show Champion
 
@@ -2528,7 +2529,7 @@ Show](../Page/The_Show.md "wikilink")。
 | 2012年  | 7月10日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink") |
 | 7月17日  |                                                                                   |                                                                  |
 | 7月24日  |                                                                                   |                                                                  |
-| 2014年  | 9月10日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                       |
+| 2014年  | 9月10日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")    |
 | 9月17日  |                                                                                   |                                                                  |
 | 11月26日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                  |
 
@@ -2548,7 +2549,7 @@ Show](../Page/The_Show.md "wikilink")。
 | 2012年  | 7月12日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink") |
 | 7月19日  |                                                                                   |                                                                  |
 | 7月26日  |                                                                                   |                                                                  |
-| 2014年  | 9月11日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                       |
+| 2014年  | 9月11日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")    |
 | 11月20日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                  |
 | 11月27日 |                                                                                   |                                                                  |
 
@@ -2574,47 +2575,47 @@ Show](../Page/The_Show.md "wikilink")。
 | 12月23日 | [Mr. Simple](../Page/Mr._Simple.md "wikilink")<small>（年終結算：8位）</small>            |                                                                                                                                         |
 | 2012年  | 7月20日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink")                                                                        |
 | 7月27日  |                                                                                   |                                                                                                                                         |
-| 2014年  | 9月12日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                                                                                              |
+| 2014年  | 9月12日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")                                                                           |
 | 9月19日  |                                                                                   |                                                                                                                                         |
 | 11月21日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                                                                                         |
 | 2015年  | 3月20日                                                                             | [Growing Pains](../Page/The_Beat_Goes_On.md "wikilink")<small>（[SJ-D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")）</small> |
 
 ### Show\! 音樂中心
 
-| 年份     | 日期                                                                                | 歌曲                                         |
-| ------ | --------------------------------------------------------------------------------- | ------------------------------------------ |
-| 2014年  | 9月13日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink") |
-| 9月20日  |                                                                                   |                                            |
-| 11月22日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                            |
+| 年份     | 日期                                                                                | 歌曲                                                            |
+| ------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 2014年  | 9月13日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink") |
+| 9月20日  |                                                                                   |                                                               |
+| 11月22日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                               |
 
 ### 人氣歌謠
 
-| 年份    | 日期                                         | 歌曲                                                 |
-| ----- | ------------------------------------------ | -------------------------------------------------- |
-| 2006年 | 6月25日                                      | [U](../Page/U_\(Super_Junior單曲\).md "wikilink")    |
-| 7月9日  |                                            |                                                    |
-| 7月16日 |                                            |                                                    |
-| 8月20日 | Dancing Out                                |                                                    |
-| 2007年 | 10月21日                                     | [Don't Don](../Page/Don't_Don.md "wikilink")       |
-| 2009年 | 3月29日                                      | [Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink") |
-| 4月5日  |                                            |                                                    |
-| 4月12日 |                                            |                                                    |
-| 6月7日  | [It's You](../Page/It's_You.md "wikilink") |                                                    |
-| 2010年 | 5月30日                                      | [Bonamana](../Page/美人啊.md "wikilink")              |
-| 6月6日  |                                            |                                                    |
-| 6月13日 |                                            |                                                    |
-| 7月11日 | [No Other](../Page/美人啊.md "wikilink")      |                                                    |
-| 2011年 | 8月21日                                      | [Mr. Simple](../Page/Mr._Simple.md "wikilink")     |
-| 8月28日 |                                            |                                                    |
-| 9月4日  |                                            |                                                    |
-| 2014年 | 9月14日                                      | [Mamacita](../Page/Mamacita.md "wikilink")         |
-| 9月21日 |                                            |                                                    |
+| 年份    | 日期                                         | 歌曲                                                            |
+| ----- | ------------------------------------------ | ------------------------------------------------------------- |
+| 2006年 | 6月25日                                      | [U](../Page/U_\(Super_Junior單曲\).md "wikilink")               |
+| 7月9日  |                                            |                                                               |
+| 7月16日 |                                            |                                                               |
+| 8月20日 | Dancing Out                                |                                                               |
+| 2007年 | 10月21日                                     | [Don't Don](../Page/Don't_Don.md "wikilink")                  |
+| 2009年 | 3月29日                                      | [Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink")            |
+| 4月5日  |                                            |                                                               |
+| 4月12日 |                                            |                                                               |
+| 6月7日  | [It's You](../Page/It's_You.md "wikilink") |                                                               |
+| 2010年 | 5月30日                                      | [Bonamana](../Page/美人啊.md "wikilink")                         |
+| 6月6日  |                                            |                                                               |
+| 6月13日 |                                            |                                                               |
+| 7月11日 | [No Other](../Page/美人啊.md "wikilink")      |                                                               |
+| 2011年 | 8月21日                                      | [Mr. Simple](../Page/Mr._Simple.md "wikilink")                |
+| 8月28日 |                                            |                                                               |
+| 9月4日  |                                            |                                                               |
+| 2014年 | 9月14日                                      | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink") |
+| 9月21日 |                                            |                                                               |
 
 ### The Show
 
-| 年份    | 日期    | 歌曲                                                                                                      |
-| ----- | ----- | ------------------------------------------------------------------------------------------------------- |
-| 2019年 | 4月23日 | [Danger](../Page/Danger.md "wikilink")（[SJ-D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")） |
+| 年份    | 日期    | 歌曲                                                                                                                         |
+| ----- | ----- | -------------------------------------------------------------------------------------------------------------------------- |
+| 2019年 | 4月23日 | [Danger](https://zh.wikipedia.org/wiki/Danger "wikilink")（[SJ-D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")） |
 
 ## 子團體獎項
 
@@ -2633,7 +2634,7 @@ Show](../Page/The_Show.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/东南劲爆音乐榜.md" title="wikilink">東南勁爆音樂頒獎盛典</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/东南劲爆音乐榜" title="wikilink">東南勁爆音樂頒獎盛典</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2651,7 +2652,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/「勁歌王」全球華人樂壇音樂盛典.md" title="wikilink">「勁歌王」全球華人樂壇音樂盛典</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典" title="wikilink">「勁歌王」全球華人樂壇音樂盛典</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2675,7 +2676,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/新人盛典.md" title="wikilink">音乐风云榜新人盛典</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/新人盛典" title="wikilink">音乐风云榜新人盛典</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2771,7 +2772,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/无线音乐排行榜.md" title="wikilink">中国移动无线音乐排行榜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/无线音乐排行榜" title="wikilink">中国移动无线音乐排行榜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2795,7 +2796,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/全球流行音樂金榜.md" title="wikilink">全球流行音樂金榜</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/全球流行音樂金榜" title="wikilink">全球流行音樂金榜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2879,7 +2880,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/HITO流行音樂獎頒獎典禮.md" title="wikilink">HITO流行音樂獎頒獎典禮</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/HITO流行音樂獎頒獎典禮" title="wikilink">HITO流行音樂獎頒獎典禮</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2933,7 +2934,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/IFPI香港唱片銷量大獎.md" title="wikilink">IFPI香港唱片銷量大獎</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎" title="wikilink">IFPI香港唱片銷量大獎</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2945,7 +2946,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/音乐风云榜.md" title="wikilink">音乐风云榜年度盛典</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/音乐风云榜" title="wikilink">音乐风云榜年度盛典</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2995,7 +2996,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="odd">
 <td><p><strong>2014</strong></p></td>
 <td><p>新城國語力歌曲獎</p></td>
-<td><p>《<a href="../Page/Swing_(SJM迷你專輯).md" title="wikilink">Swing</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Swing_(SJM迷你專輯)" title="wikilink">Swing</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -3125,7 +3126,7 @@ Show](../Page/The_Show.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>恶童奖</p></td>
-<td><p><a href="../Page/强仁.md" title="wikilink">强仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/强仁" title="wikilink">强仁</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3143,7 +3144,7 @@ Show](../Page/The_Show.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>20's Social Artist</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3156,7 +3157,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="even">
 <td><p><strong>2007</strong></p></td>
 <td><p>最佳演员</p></td>
-<td><p><a href="../Page/强仁.md" title="wikilink">强仁</a>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/强仁" title="wikilink">强仁</a>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3173,7 +3174,7 @@ Show](../Page/The_Show.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>最佳配角</p></td>
-<td><p><a href="../Page/厉旭.md" title="wikilink">厉旭</a>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/厉旭" title="wikilink">厉旭</a>《<a href="../Page/花美男连锁恐怖事件.md" title="wikilink">花美男连锁恐怖事件</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3192,7 +3193,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="even">
 <td><p><strong>2008</strong></p></td>
 <td><p>最佳电影新人</p></td>
-<td><p><a href="../Page/韓庚.md" title="wikilink">韓庚</a>《<a href="../Page/花美男連鎖恐怖事件.md" title="wikilink">花美男連鎖恐怖事件</a>》</p></td>
+<td><p><a href="../Page/韓庚.md" title="wikilink">韓庚</a>《<a href="https://zh.wikipedia.org/wiki/花美男連鎖恐怖事件" title="wikilink">花美男連鎖恐怖事件</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3220,7 +3221,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/SBS演技大賞.md" title="wikilink">SBS演技大賞</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SBS演技大賞" title="wikilink">SBS演技大賞</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3239,12 +3240,12 @@ Show](../Page/The_Show.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>新星獎</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/SBS演藝大賞.md" title="wikilink">SBS演藝大賞</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3306,7 +3307,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="odd">
 <td><p><strong>2011</strong> [49]</p></td>
 <td><p>最佳社群网路名人奖</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3324,7 +3325,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="even">
 <td><p><strong>2011</strong></p></td>
 <td><p>Best Dresser歌手獎</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3340,7 +3341,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/MBC演藝大賞.md" title="wikilink">MBC演藝大賞</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/MBC演藝大賞" title="wikilink">MBC演藝大賞</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3396,7 +3397,7 @@ Show](../Page/The_Show.md "wikilink")。
 <tr class="even">
 <td><p><strong>2013</strong> [51]</p></td>
 <td><p>人氣韓國電視演員獎</p></td>
-<td><p><a href="../Page/東海.md" title="wikilink">東海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東海" title="wikilink">東海</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3436,7 +3437,7 @@ Show](../Page/The_Show.md "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/KBS演藝大賞.md" title="wikilink">KBS演藝大賞</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/KBS演藝大賞" title="wikilink">KBS演藝大賞</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3461,7 +3462,7 @@ Show](../Page/The_Show.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>OST of The Year</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a>《Only You》<a href="../Page/她很漂亮.md" title="wikilink">她很漂亮OST</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>《Only You》<a href="https://zh.wikipedia.org/wiki/她很漂亮" title="wikilink">她很漂亮OST</a></p></td>
 <td></td>
 <td></td>
 </tr>

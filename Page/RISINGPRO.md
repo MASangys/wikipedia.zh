@@ -1,4 +1,4 @@
-**RISINGPRODUCTION**（），簡稱**RISINGPRO**，是[日本一家大型](../Page/日本.md "wikilink")[演藝](../Page/演藝.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](../Page/歌舞系.md "wikilink")。
+**RISINGPRODUCTION**（），簡稱**RISINGPRO**，是[日本一家大型](../Page/日本.md "wikilink")[演藝](https://zh.wikipedia.org/wiki/演藝 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，旗下擁有眾多[歌舞系的歌手與音樂組合](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")。
 
 ## 公司简介
 
@@ -7,22 +7,22 @@
 ### 歌手·音乐家
 
   -
-  - [MAX](../Page/MAX_\(日本音樂團體\).md "wikilink")（、、、）
+  - [MAX](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")（、、、）
 
-  - [岛袋宽子](../Page/岛袋宽子.md "wikilink")<small>（）</small>
+  - [岛袋宽子](https://zh.wikipedia.org/wiki/岛袋宽子 "wikilink")<small>（）</small>
 
-  - [今井绘理子](../Page/今井绘理子.md "wikilink")<small>（）</small>
+  - [今井绘理子](https://zh.wikipedia.org/wiki/今井绘理子 "wikilink")<small>（）</small>
 
   - [上原多香子](../Page/上原多香子.md "wikilink")
 
   - [DA
-    PUMP](../Page/DA_PUMP.md "wikilink")（[ISSA](../Page/ISSA_日本歌手\).md "wikilink")、DAICHI、、TOMO、KIMI、YORI、U-YEAH）
+    PUMP](../Page/DA_PUMP.md "wikilink")（[ISSA](https://zh.wikipedia.org/wiki/ISSA_日本歌手\) "wikilink")、DAICHI、、TOMO、KIMI、YORI、U-YEAH）
 
-  - [三浦大知](../Page/三浦大知.md "wikilink")
+  - [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")
 
-  - [w-inds.](../Page/w-inds..md "wikilink")（[千叶凉平](../Page/千叶凉平.md "wikilink")、[橘庆太](../Page/橘庆太.md "wikilink")<small>（）</small>、[绪方龙一](../Page/绪方龙一.md "wikilink")）
+  - [w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")（[千叶凉平](https://zh.wikipedia.org/wiki/千叶凉平 "wikilink")、[橘庆太](https://zh.wikipedia.org/wiki/橘庆太 "wikilink")<small>（）</small>、[绪方龙一](https://zh.wikipedia.org/wiki/绪方龙一 "wikilink")）
 
-  - [Lead](../Page/Lead.md "wikilink")（[谷内伸也](../Page/谷内伸也.md "wikilink")、[古屋敬多](../Page/古屋敬多.md "wikilink")、[键本辉](../Page/键本辉.md "wikilink")）
+  - [Lead](https://zh.wikipedia.org/wiki/Lead "wikilink")（[谷内伸也](../Page/谷内伸也.md "wikilink")、[古屋敬多](../Page/古屋敬多.md "wikilink")、[键本辉](https://zh.wikipedia.org/wiki/键本辉 "wikilink")）
 
   - [Fairies](../Page/Fairies.md "wikilink")（井上理香子、野元空、[伊藤萌萌香](../Page/伊藤萌萌香.md "wikilink")、、）
 
@@ -30,11 +30,11 @@
 
   - [新里宏太](../Page/新里宏太.md "wikilink")
 
-  - （[Ryuichi](../Page/绪方龙一.md "wikilink")、、Ryuki）
+  - （[Ryuichi](https://zh.wikipedia.org/wiki/绪方龙一 "wikilink")、、Ryuki）
 
   - （泷泽彩夏、辰巳早矢香、野村舞铃）
 
-  - [ERIHIRO](../Page/ERIHIRO.md "wikilink")（[ERI](../Page/今井绘理子.md "wikilink")、[HIRO](../Page/岛袋宽子.md "wikilink")）
+  - [ERIHIRO](../Page/ERIHIRO.md "wikilink")（[ERI](https://zh.wikipedia.org/wiki/今井绘理子 "wikilink")、[HIRO](https://zh.wikipedia.org/wiki/岛袋宽子 "wikilink")）
 
   - （、田村优太、、都筑聪二）
 
@@ -51,7 +51,8 @@
 
 ## 旗下音乐厂牌
 
-  - [SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")
+  - [SONIC
+    GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")
 
   -
 ## VISION FACTORY精选合集

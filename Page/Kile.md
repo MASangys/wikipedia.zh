@@ -1,6 +1,6 @@
-**Kile**是一个[TeX](../Page/TeX.md "wikilink")/[LaTeX的前端](../Page/LaTeX.md "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")，为用户编辑[TeX](../Page/TeX.md "wikilink")/[LaTeX代码提供友好的编辑环境](../Page/LaTeX.md "wikilink")。该软件运行于安装了[Qt库的](../Page/Qt.md "wikilink")[类Unix系统中](../Page/类Unix.md "wikilink")，包括[Mac
+**Kile**是一个[TeX](../Page/TeX.md "wikilink")/[LaTeX的前端](https://zh.wikipedia.org/wiki/LaTeX "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")，为用户编辑[TeX](../Page/TeX.md "wikilink")/[LaTeX代码提供友好的编辑环境](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。该软件运行于安装了[Qt库的](../Page/Qt.md "wikilink")[类Unix系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")，包括[Mac
 OS
-X和](../Page/Mac_OS_X.md "wikilink")[Linux](../Page/Linux.md "wikilink")。
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")。
 
 ## 特性
 
@@ -12,9 +12,9 @@ X和](../Page/Mac_OS_X.md "wikilink")[Linux](../Page/Linux.md "wikilink")。
 
 ## 参见
 
-  - [文本编辑器列表](../Page/文本编辑器列表.md "wikilink")
-  - [文本编辑器的比较](../Page/文本编辑器的比较.md "wikilink")
-  - [emacs](../Page/emacs.md "wikilink")
+  - [文本编辑器列表](https://zh.wikipedia.org/wiki/文本编辑器列表 "wikilink")
+  - [文本编辑器的比较](https://zh.wikipedia.org/wiki/文本编辑器的比较 "wikilink")
+  - [emacs](https://zh.wikipedia.org/wiki/emacs "wikilink")
 
 ## 外部链接
 

@@ -1,10 +1,10 @@
 **仙女座
-Ⅴ**是一個距離大約252萬[光年](../Page/光年.md "wikilink")，位於[仙女座的](../Page/仙女座.md "wikilink")[矮橢球星系](../Page/矮橢球星系.md "wikilink")。
+Ⅴ**是一個距離大約252萬[光年](../Page/光年.md "wikilink")，位於[仙女座的](../Page/仙女座.md "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")。
 
 ## 歷史
 
 仙女座
-Ⅴ是由Armandroff等人，在1998年為了出版[帕羅馬第二次巡天](../Page/帕羅馬第二次巡天.md "wikilink")（POSS-II）的資料時，進行數值分析時發現的。\[1\]
+Ⅴ是由Armandroff等人，在1998年為了出版[帕羅馬第二次巡天](https://zh.wikipedia.org/wiki/帕羅馬第二次巡天 "wikilink")（POSS-II）的資料時，進行數值分析時發現的。\[1\]
 
 ## 相關條目
 

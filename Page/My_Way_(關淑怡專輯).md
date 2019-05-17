@@ -3,13 +3,13 @@ Way**》是[香港女歌手](../Page/香港.md "wikilink")[關淑怡第九張粵
 
 ## 概述
 
-此專輯在樂評及歌迷間評分頗高，主打歌曲《繾綣星光下》获得1994年[十大劲歌金曲的](../Page/十大勁歌金曲.md "wikilink")「最佳填词獎」\[2\]，也成為經典單曲，奠定了關淑怡在樂壇的天后地位\[3\]。而《告別戀曲》、《逝去的傳奇》以及非主打歌曲如《平靜裡的一盞燈》及《驚世感覺》，都頗受好評。正值事業顛峰的關淑怡，在和[寶麗金約滿後宣佈不再續約](../Page/寶麗金.md "wikilink")，退出歌壇\[4\]。
+此專輯在樂評及歌迷間評分頗高，主打歌曲《繾綣星光下》获得1994年[十大劲歌金曲的](https://zh.wikipedia.org/wiki/十大勁歌金曲 "wikilink")「最佳填词獎」\[2\]，也成為經典單曲，奠定了關淑怡在樂壇的天后地位\[3\]。而《告別戀曲》、《逝去的傳奇》以及非主打歌曲如《平靜裡的一盞燈》及《驚世感覺》，都頗受好評。正值事業顛峰的關淑怡，在和[寶麗金約滿後宣佈不再續約](../Page/寶麗金.md "wikilink")，退出歌壇\[4\]。
 
 ## 曲目
 
 ## 唱片版本
 
-  - [盒帶版](../Page/盒帶.md "wikilink")
+  - [盒帶版](https://zh.wikipedia.org/wiki/盒帶 "wikilink")
   - CD版
   - 《從頭認識》版：《從頭認識》是將關淑怡在寶麗金一共10張粵語大碟捆綁發售。
   - 2014年 20週年 24K Gold (首批限量版)
@@ -29,12 +29,12 @@ Way**》是[香港女歌手](../Page/香港.md "wikilink")[關淑怡第九張粵
 [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
 
 1.  [難得有情人
-    關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](../Page/頭條網.md "wikilink")
+    關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](https://zh.wikipedia.org/wiki/頭條網 "wikilink")
 
 2.
 
 3.
 4.  [難得有情人
-    關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](../Page/頭條網.md "wikilink")
+    關淑怡](http://news.stheadline.com/figure/?id=341)，[頭條網](https://zh.wikipedia.org/wiki/頭條網 "wikilink")
 
 5.

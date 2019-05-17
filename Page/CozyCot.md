@@ -1,4 +1,4 @@
-**CozyCot**是一个专为[东亚和](../Page/东亚.md "wikilink")[东南亚](../Page/东南亚.md "wikilink")（特别是[新加坡](../Page/新加坡.md "wikilink")）女性而设的[社交网络](../Page/社交網路服務.md "wikilink")[网站](../Page/网站.md "wikilink")。成立于2001年的CozyCot曾于2010年发行了一份[报纸](../Page/报纸.md "wikilink")。
+**CozyCot**是一个专为[东亚和](https://zh.wikipedia.org/wiki/东亚 "wikilink")[东南亚](https://zh.wikipedia.org/wiki/东南亚 "wikilink")（特别是[新加坡](../Page/新加坡.md "wikilink")）女性而设的[社交网络](../Page/社交網路服務.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。成立于2001年的CozyCot曾于2010年发行了一份[报纸](https://zh.wikipedia.org/wiki/报纸 "wikilink")。
 
 ## 历史
 
@@ -29,12 +29,12 @@ CozyCot的用户名为“Cotters”，\[19\] 他们在论坛互动交流，而�
 早期的初始论坛主要用意是分享购物及时尚的小贴士和观点，之后它扩大到涵盖家庭与生活、母亲育儿经、事业、财务、科技及婚礼等诸多方面。\[20\]
 这些主题被称为“频道”（到2009年4月为止有28个）。\[21\]
 该论坛已以其主题的多样性而受到关注，有些（像水疗及香氛）频道很明显地是其他论坛所缺少的。\[22\]
-它主要使用的语言为[英语](../Page/英语.md "wikilink")，但也有（部分）以[中文发表的帖子](../Page/中文.md "wikilink")。CozyCot在[整容方面的议论](../Page/整容.md "wikilink")，超过1000则评论和800万人次的点击率，并已就该主题的独特华裔观点及他们在[南韩的化妆品旅游业](../Page/南韩.md "wikilink")，而在[韓國日報发布信息](../Page/韓國日報.md "wikilink")
+它主要使用的语言为[英语](../Page/英语.md "wikilink")，但也有（部分）以[中文发表的帖子](https://zh.wikipedia.org/wiki/中文 "wikilink")。CozyCot在[整容方面的议论](https://zh.wikipedia.org/wiki/整容 "wikilink")，超过1000则评论和800万人次的点击率，并已就该主题的独特华裔观点及他们在[南韩的化妆品旅游业](https://zh.wikipedia.org/wiki/南韩 "wikilink")，而在[韓國日報发布信息](https://zh.wikipedia.org/wiki/韓國日報 "wikilink")
 。\[23\]
 
 ## 查看
 
-CozyCot有超过35000项产品的资料库供会员查看。通过在他们的[iPhone以相机来捕捉](../Page/iPhone.md "wikilink")，这款扫描仪软件让用户得以由CozyCot的网站来抽看产品。\[24\]\[25\]\[26\]\[27\]
+CozyCot有超过35000项产品的资料库供会员查看。通过在他们的[iPhone以相机来捕捉](https://zh.wikipedia.org/wiki/iPhone "wikilink")，这款扫描仪软件让用户得以由CozyCot的网站来抽看产品。\[24\]\[25\]\[26\]\[27\]
 
 ## 活动盛事
 
@@ -42,7 +42,7 @@ CozyCot主办的各项活动，让会员能通过研讨会、专题小组、实�
 
 ## 相关出版物
 
-2010年4月发行了一份名为CozyCot的[报纸](../Page/报纸.md "wikilink")，这份25页免费月刊的发行量为20万份。\[28\]
+2010年4月发行了一份名为CozyCot的[报纸](https://zh.wikipedia.org/wiki/报纸 "wikilink")，这份25页免费月刊的发行量为20万份。\[28\]
 
 ## 奖项
 

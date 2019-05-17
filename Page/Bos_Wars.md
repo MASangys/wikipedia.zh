@@ -1,8 +1,8 @@
 ***Bos Wars***（曾名Battle of
-Survival）是[免费](../Page/自由软件.md "wikilink")[跨平台](../Page/跨平台.md "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。Tina
+Survival）是[免费](../Page/自由软件.md "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。Tina
 Petersenand 在2004年启动， François
 Beerten现在执掌。用[C++和](../Page/C++.md "wikilink")[Lua](../Page/Lua.md "wikilink")
-写成，使用[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")。
+写成，使用[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。
 
 Bos Wars曾作为LinuxLinks 42 More of the Best Free Linux Games\[1\]列表中一员。
 
@@ -11,13 +11,13 @@ games", by Eric Kok \[2\].
 
 ## 玩法
 
-地图覆盖[战场迷雾](../Page/战场迷雾.md "wikilink")。
+地图覆盖[战场迷雾](https://zh.wikipedia.org/wiki/战场迷雾 "wikilink")。
 
 玩家拥有的单位等都完全一致。简单到没有科技树发展，工程师可以收集矿物和能源，收割机也有同样作用，岩石具有矿物而树木具有能源，能源建筑也可以产生。
 
 ## 其他
 
-[重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+[重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

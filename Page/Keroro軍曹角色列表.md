@@ -9,10 +9,10 @@
 <!-- end list -->
 
   -
-    配音：日本：[川上倫子](../Page/川上倫子.md "wikilink")（第1集-第231集；已故）／[桑島法子](../Page/桑島法子.md "wikilink")（第232集-）<small></small>；台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")；香港：[陳安瑩](../Page/陳安瑩.md "wikilink")（有線電視）／[姜麗儀](../Page/姜麗儀.md "wikilink")（第2季VCD/DVD）／[林丹鳳](../Page/林丹鳳.md "wikilink")（無綫電視）／[陳凱婷](../Page/陳凱婷.md "wikilink")（劇場版）
+    配音：日本：[川上倫子](../Page/川上倫子.md "wikilink")（第1集-第231集；已故）／[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")（第232集-）<small></small>；台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")；香港：[陳安瑩](../Page/陳安瑩.md "wikilink")（有線電視）／[姜麗儀](../Page/姜麗儀.md "wikilink")（第2季VCD/DVD）／[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（無綫電視）／[陳凱婷](../Page/陳凱婷.md "wikilink")（劇場版）
     本劇男主角。日向家長子，夏美的弟弟，Keroro的主人，中學一年級生(新版動畫為小學六年級)，愛好超自然現象。
-    個性非常溫和，平常極少生氣，但是一旦生氣，可怕的程度連夏美都無法招架。和姊姊不同的是運動神經極差，可是有時候也會異於常人的行動（像是在[超劇場版2中](../Page/Keroro軍曹_\(劇場版\)#超劇場版_Keroro軍曹_2.md "wikilink")，把Keroro丟到Meru那裡）。
-    在學校是小有名氣的偵探，有時候也會有人委託他幫忙。談判常一針見血，所以也有「宇宙外交官」的稱號。喜歡吃[菇類](../Page/菇類.md "wikilink")。
+    個性非常溫和，平常極少生氣，但是一旦生氣，可怕的程度連夏美都無法招架。和姊姊不同的是運動神經極差，可是有時候也會異於常人的行動（像是在[超劇場版2中](https://zh.wikipedia.org/wiki/Keroro軍曹_\(劇場版\)#超劇場版_Keroro軍曹_2 "wikilink")，把Keroro丟到Meru那裡）。
+    在學校是小有名氣的偵探，有時候也會有人委託他幫忙。談判常一針見血，所以也有「宇宙外交官」的稱號。喜歡吃[菇類](https://zh.wikipedia.org/wiki/菇類 "wikilink")。
     由於對任何女生都很溫柔的個性，桃華、散世和愛莉莎等人皆對冬樹有好感。在大電影中經常是舉足輕重的重要人物。
 
 <!-- end list -->
@@ -22,9 +22,9 @@
 <!-- end list -->
 
   -
-    配音：日本：[齋藤千和](../Page/齋藤千和.md "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；香港：[譚淑嫻](../Page/譚淑嫻.md "wikilink")（有線電視）／[伶俐](../Page/伶俐.md "wikilink")（第2季VCD/DVD）／[梁少霞](../Page/梁少霞.md "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")<small>（代配）</small>（無綫電視）／[郭碧珍](../Page/郭碧珍.md "wikilink")（劇場版）
+    配音：日本：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")；香港：[譚淑嫻](../Page/譚淑嫻.md "wikilink")（有線電視）／[伶俐](https://zh.wikipedia.org/wiki/伶俐 "wikilink")（第2季VCD/DVD）／[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")、[劉惠雲](../Page/劉惠雲.md "wikilink")<small>（代配）</small>（無綫電視）／[郭碧珍](../Page/郭碧珍.md "wikilink")（劇場版）
     本劇女主角。日向家長女，冬樹的姊姊，Giroro的主人，有「地球最後防衞線」之稱。
-    漫畫版中的出場年齡為十四歲，中學二年級生，生日為12月2日（與作者[吉崎觀音的生日是同一天](../Page/吉崎觀音.md "wikilink")），星座為[射手座](../Page/射手座.md "wikilink")。
+    漫畫版中的出場年齡為十四歲，中學二年級生，生日為12月2日（與作者[吉崎觀音的生日是同一天](../Page/吉崎觀音.md "wikilink")），星座為[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
     不擅長繪畫和演戲。日向家的三餐大多由她負責。很喜歡吃烤番薯。否定超自然現象，卻有靈感體質（像是經常感覺到幽靈少女的存在）。
     經常監視Keroro等人的行動。與Keroro關係緊張，時常使喚他做各種家事並頗為粗暴的對待，貶稱他為「傻瓜青蛙」，兩人不時吵架。
     暗戀623，總是準時收聽他的廣播節目，但經常在收聽到一半時被打擾而中斷。漫畫版知道623就是睦實，動畫版則不知道。小雪是她非常好的好朋友。
@@ -42,7 +42,7 @@
   -
     配音：日本：[平松晶子](../Page/平松晶子.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾月娥](../Page/曾月娥.md "wikilink")（有線電視）／[黃玉娟](../Page/黃玉娟.md "wikilink")、[沈小蘭](../Page/沈小蘭.md "wikilink")
     <small>（代配）</small>（無綫電視）
-    日向家的女主人，冬樹和夏美的媽媽，現職為漫畫雜誌「少年ALPHA」[編輯](../Page/編輯.md "wikilink")。為一輕熟女，擁有**肉彈級**的性感身材和過人的膽識，有個絕招名為「愛的特別擁抱」，可讓病懨懨的人在一夕之間恢復朝氣，曾以此治癒了冬樹。非常重視自己的工作以及身邊的可得題材，但十分討厭小動物。因為工作太忙常常不能返家，總是希望Keroro等人有什麼爆炸性的行動可以讓她樂一下，對於侵略的事情反而不太擔心。被Keroro等人評為「全地球最強的女人」。
+    日向家的女主人，冬樹和夏美的媽媽，現職為漫畫雜誌「少年ALPHA」[編輯](https://zh.wikipedia.org/wiki/編輯 "wikilink")。為一輕熟女，擁有**肉彈級**的性感身材和過人的膽識，有個絕招名為「愛的特別擁抱」，可讓病懨懨的人在一夕之間恢復朝氣，曾以此治癒了冬樹。非常重視自己的工作以及身邊的可得題材，但十分討厭小動物。因為工作太忙常常不能返家，總是希望Keroro等人有什麼爆炸性的行動可以讓她樂一下，對於侵略的事情反而不太擔心。被Keroro等人評為「全地球最強的女人」。
 
 <!-- end list -->
 
@@ -89,13 +89,13 @@
 <!-- end list -->
 
   -
-    配音：日本：[藤原啟治](../Page/藤原啟治.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[楊耀泰](../Page/楊耀泰.md "wikilink")（有線電視）／[陳曙光](../Page/陳曙光.md "wikilink")、[黃子敬](../Page/黃子敬.md "wikilink")<small>（代配）</small>（無綫電視）
-    西澤家的管家，曾經受過軍事訓練。與桃華的父親西澤梅雄決鬥過兩次，被打敗後甘願效忠梅雄。此外也經常和Giroro進行激烈戰鬥，但總是分不出勝負。以照顧桃華為己任，指揮桃華護衛隊進行保護她的行動（但是他們經常破壞冬樹和桃華的美好時光）。他曾經為了一次失誤而辭職，在梅雄和桃華勸說下才改變初衷；絕技為戲仿街頭遊戲機「[-{zh-hans:街頭霸王;zh-hk:街頭霸王;zh-tw:快打旋風;}-](../Page/快打旋風.md "wikilink")」主角[Ken](../Page/Ken.md "wikilink")（肯）的大絕招「升龍烈破」的「波爾烈破」。
+    配音：日本：[藤原啟治](../Page/藤原啟治.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[楊耀泰](../Page/楊耀泰.md "wikilink")（有線電視）／[陳曙光](../Page/陳曙光.md "wikilink")、[黃子敬](../Page/黃子敬.md "wikilink")<small>（代配）</small>（無綫電視）
+    西澤家的管家，曾經受過軍事訓練。與桃華的父親西澤梅雄決鬥過兩次，被打敗後甘願效忠梅雄。此外也經常和Giroro進行激烈戰鬥，但總是分不出勝負。以照顧桃華為己任，指揮桃華護衛隊進行保護她的行動（但是他們經常破壞冬樹和桃華的美好時光）。他曾經為了一次失誤而辭職，在梅雄和桃華勸說下才改變初衷；絕技為戲仿街頭遊戲機「[-{zh-hans:街頭霸王;zh-hk:街頭霸王;zh-tw:快打旋風;}-](https://zh.wikipedia.org/wiki/快打旋風 "wikilink")」主角[Ken](https://zh.wikipedia.org/wiki/Ken "wikilink")（肯）的大絕招「升龍烈破」的「波爾烈破」。
 
 <!-- end list -->
 
   - **北城睦實（623）／三郎（326）**\[1\]〔
-    　配音：日本：[石田彰](../Page/石田彰.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[黎家希](../Page/黎家希.md "wikilink")（第2季VCD/DVD版）／[李致林](../Page/李致林.md "wikilink")、[伍博民](../Page/伍博民.md "wikilink")<small>（代配）（無綫電視）</small>）
+    　配音：日本：[石田彰](../Page/石田彰.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[黎家希](../Page/黎家希.md "wikilink")（第2季VCD/DVD版）／[李致林](../Page/李致林.md "wikilink")、[伍博民](../Page/伍博民.md "wikilink")<small>（代配）（無綫電視）</small>）
 
 <!-- end list -->
 
@@ -110,32 +110,32 @@
 <!-- end list -->
 
   -
-    夏美班上的轉學生，Dororo的主人，體育萬能的美少女。自幼即受忍術訓練，對[陰陽道也稍有瞭解](../Page/陰陽道.md "wikilink")。漫畫版中住在日向家附近（不會使用現代化的家電，例如電燈、電扇）；動畫版中則住在與現代化城市脫節的古代水車屋，而且不受停水或停電影響。除了上學之外，大部分時間都和Dororo一起行動，暗中保護地球以及日向家的人，只要他們有危險就會和Dororo即時趕到。因為自小過著跟城市人不一樣的生活，所以搬離忍野村後才開始學習當一個平常人，雖然很努力的在學習，但仍不時做出令人發笑的舉動。「小雪」這個名字是由忍者時代的朋友，自稱是小雪寄名母亲的「骸」所改。當時，天上有美麗的[雪花徐徐飘落](../Page/雪花.md "wikilink")，故改名作「小雪」，於12月28日生，[星座為](../Page/星座.md "wikilink")[摩羯座](../Page/摩羯座.md "wikilink")。\[2\]
+    夏美班上的轉學生，Dororo的主人，體育萬能的美少女。自幼即受忍術訓練，對[陰陽道也稍有瞭解](https://zh.wikipedia.org/wiki/陰陽道 "wikilink")。漫畫版中住在日向家附近（不會使用現代化的家電，例如電燈、電扇）；動畫版中則住在與現代化城市脫節的古代水車屋，而且不受停水或停電影響。除了上學之外，大部分時間都和Dororo一起行動，暗中保護地球以及日向家的人，只要他們有危險就會和Dororo即時趕到。因為自小過著跟城市人不一樣的生活，所以搬離忍野村後才開始學習當一個平常人，雖然很努力的在學習，但仍不時做出令人發笑的舉動。「小雪」這個名字是由忍者時代的朋友，自稱是小雪寄名母亲的「骸」所改。當時，天上有美麗的[雪花徐徐飘落](https://zh.wikipedia.org/wiki/雪花 "wikilink")，故改名作「小雪」，於12月28日生，[星座為](../Page/星座.md "wikilink")[摩羯座](../Page/摩羯座.md "wikilink")。\[2\]
 
 <!-- end list -->
 
   -
-    小雪登場时多是穿忍者服，[瞳孔的顏色是藍綠色](../Page/瞳孔.md "wikilink")。[頭髮深綠](../Page/頭髮.md "wikilink")，用[紅色](../Page/紅色.md "wikilink")[絲帶結成](../Page/絲帶.md "wikilink")[馬尾](../Page/馬尾.md "wikilink")（動畫版跟漫畫版所結的位置不同，不過動畫版由第五部起改回跟原作一樣），也有普通的便服。動畫首次登場的便服為無袖的夏裝。其後曾穿上的便服也有長袖及無袖。上學時穿[水手服](../Page/水手服.md "wikilink")（離開忍村時從骸得到），共夏季及冬季兩款。[泳裝有跟](../Page/泳裝.md "wikilink")[學校訂製和個人款式](../Page/學校.md "wikilink")，共3款。\[3\]
+    小雪登場时多是穿忍者服，[瞳孔的顏色是藍綠色](../Page/瞳孔.md "wikilink")。[頭髮深綠](../Page/頭髮.md "wikilink")，用[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")[絲帶結成](https://zh.wikipedia.org/wiki/絲帶 "wikilink")[馬尾](https://zh.wikipedia.org/wiki/馬尾 "wikilink")（動畫版跟漫畫版所結的位置不同，不過動畫版由第五部起改回跟原作一樣），也有普通的便服。動畫首次登場的便服為無袖的夏裝。其後曾穿上的便服也有長袖及無袖。上學時穿[水手服](../Page/水手服.md "wikilink")（離開忍村時從骸得到），共夏季及冬季兩款。[泳裝有跟](https://zh.wikipedia.org/wiki/泳裝 "wikilink")[學校訂製和個人款式](https://zh.wikipedia.org/wiki/學校 "wikilink")，共3款。\[3\]
 
 <!-- end list -->
 
   -
-    十分活潑好動的[少女](../Page/少女.md "wikilink")，但也有容易被影響的一面。例如在動畫版第56集上半部因為看了以友誼為主題的[電影而受感動](../Page/電影.md "wikilink")，竟立即找[夏美以](../Page/日向夏美.md "wikilink")[網球形式對決](../Page/網球.md "wikilink")；第88集為了能幫助[唱歌而感到喜悅](../Page/唱歌.md "wikilink")〔另外三人：[夏美](../Page/日向夏美.md "wikilink")、[桃華](../Page/西澤桃華.md "wikilink")、[摩亞則表現困惑](../Page/安哥爾·摩亞.md "wikilink")〕。在115集上半部更因希望跟友人一起表現，過於喜悅而無意使出[忍術](../Page/忍術.md "wikilink")。善交朋友，認為與其要別人把自己當作朋友，不如自己先把別人當作朋友。因為長時間在忍村上生活，所以對[城市不大了解](../Page/城市.md "wikilink")。例[動畫版](../Page/動畫.md "wikilink")111集上半部拿出奇怪的[食物作為](../Page/食物.md "wikilink")[點心](../Page/點心.md "wikilink")，令[夏美十分吃驚](../Page/日向夏美.md "wikilink")；66集下半部在餐廳上有敏感的意識而使出[手裡劍](../Page/手裡劍.md "wikilink")。不知道電車上的禮儀，曾以為放[行李的網架是](../Page/行李.md "wikilink")[坐位](../Page/坐位.md "wikilink")。而對於「普通」也有自己的一套見解。
+    十分活潑好動的[少女](https://zh.wikipedia.org/wiki/少女 "wikilink")，但也有容易被影響的一面。例如在動畫版第56集上半部因為看了以友誼為主題的[電影而受感動](https://zh.wikipedia.org/wiki/電影 "wikilink")，竟立即找[夏美以](https://zh.wikipedia.org/wiki/日向夏美 "wikilink")[網球形式對決](https://zh.wikipedia.org/wiki/網球 "wikilink")；第88集為了能幫助[唱歌而感到喜悅](https://zh.wikipedia.org/wiki/唱歌 "wikilink")〔另外三人：[夏美](https://zh.wikipedia.org/wiki/日向夏美 "wikilink")、[桃華](https://zh.wikipedia.org/wiki/西澤桃華 "wikilink")、[摩亞則表現困惑](https://zh.wikipedia.org/wiki/安哥爾·摩亞 "wikilink")〕。在115集上半部更因希望跟友人一起表現，過於喜悅而無意使出[忍術](https://zh.wikipedia.org/wiki/忍術 "wikilink")。善交朋友，認為與其要別人把自己當作朋友，不如自己先把別人當作朋友。因為長時間在忍村上生活，所以對[城市不大了解](../Page/城市.md "wikilink")。例[動畫版](https://zh.wikipedia.org/wiki/動畫 "wikilink")111集上半部拿出奇怪的[食物作為](../Page/食物.md "wikilink")[點心](https://zh.wikipedia.org/wiki/點心 "wikilink")，令[夏美十分吃驚](https://zh.wikipedia.org/wiki/日向夏美 "wikilink")；66集下半部在餐廳上有敏感的意識而使出[手裡劍](https://zh.wikipedia.org/wiki/手裡劍 "wikilink")。不知道電車上的禮儀，曾以為放[行李的網架是](https://zh.wikipedia.org/wiki/行李 "wikilink")[坐位](https://zh.wikipedia.org/wiki/坐位 "wikilink")。而對於「普通」也有自己的一套見解。
 
 <!-- end list -->
 
   -
-    在[運動方面](../Page/運動.md "wikilink")，作為[忍者的小雪有著相當驚人的](../Page/忍者.md "wikilink")[運動天賦](../Page/運動.md "wikilink")，和夏美不相上下，有的地方甚至在夏美之上〔例如柔軟[體操](../Page/體操.md "wikilink")〕，而網球和羽毛毽等則勢均力敵。而小雪的[忍術](../Page/忍術.md "wikilink")，她使用忍術的名稱大多以「小雪忍法」開頭。善用化裝策略，曾在漫畫版第七十話成功假扮桃華的外形和聲線，虽然最後被桃華發現了，但桃華本人也說小雪不能輕視。嗅覺也十分靈敏，曾成功以嗅覺破解[Kururu的發明品](../Page/Kururu.md "wikilink")。[語文能力也十分優秀](../Page/語文.md "wikilink")，可以看懂[古文](../Page/古文.md "wikilink")。可是欠缺[日本傳統](../Page/日本.md "wikilink")[知識](../Page/知識.md "wikilink")。會做外表怪怪的飯團。有時十分好吃（動畫70集），有時卻十分硬。
+    在[運動方面](https://zh.wikipedia.org/wiki/運動 "wikilink")，作為[忍者的小雪有著相當驚人的](../Page/忍者.md "wikilink")[運動天賦](https://zh.wikipedia.org/wiki/運動 "wikilink")，和夏美不相上下，有的地方甚至在夏美之上〔例如柔軟[體操](https://zh.wikipedia.org/wiki/體操 "wikilink")〕，而網球和羽毛毽等則勢均力敵。而小雪的[忍術](https://zh.wikipedia.org/wiki/忍術 "wikilink")，她使用忍術的名稱大多以「小雪忍法」開頭。善用化裝策略，曾在漫畫版第七十話成功假扮桃華的外形和聲線，虽然最後被桃華發現了，但桃華本人也說小雪不能輕視。嗅覺也十分靈敏，曾成功以嗅覺破解[Kururu的發明品](https://zh.wikipedia.org/wiki/Kururu "wikilink")。[語文能力也十分優秀](https://zh.wikipedia.org/wiki/語文 "wikilink")，可以看懂[古文](https://zh.wikipedia.org/wiki/古文 "wikilink")。可是欠缺[日本傳統](../Page/日本.md "wikilink")[知識](https://zh.wikipedia.org/wiki/知識 "wikilink")。會做外表怪怪的飯團。有時十分好吃（動畫70集），有時卻十分硬。
 
 <!-- end list -->
 
   -
-    跟忍者村中的[骸和](../Page/骸.md "wikilink")[時雨是好朋友](../Page/時雨.md "wikilink")，前者是為小雪取名的寄名母親，後者是貌似喜歡小雪的前輩。兒時會跟他們一起修煉[忍術](../Page/忍術.md "wikilink")。有一天在抓動物用的圈套上發現了[Dororo](../Page/Dororo.md "wikilink")，還誤以為他是[河童](../Page/河童.md "wikilink")。其後離開忍者村，以轉學方式進入吉祥學園。現在與[Dororo一起保護](../Page/Dororo.md "wikilink")[地球不受](../Page/地球.md "wikilink")[外星人侵略](../Page/外星人.md "wikilink")。和[Keroro小隊的關係頗友好](../Page/Keroro小隊.md "wikilink")，屢次幫助Keroro小隊。在一間水車小房裡居住。以轉學形式進入吉祥學園學習，亦跟夏美、五月、彌生等人成為好朋友。[校服跟其他學生不同](../Page/校服.md "wikilink")。
+    跟忍者村中的[骸和](https://zh.wikipedia.org/wiki/骸 "wikilink")[時雨是好朋友](https://zh.wikipedia.org/wiki/時雨 "wikilink")，前者是為小雪取名的寄名母親，後者是貌似喜歡小雪的前輩。兒時會跟他們一起修煉[忍術](https://zh.wikipedia.org/wiki/忍術 "wikilink")。有一天在抓動物用的圈套上發現了[Dororo](https://zh.wikipedia.org/wiki/Dororo "wikilink")，還誤以為他是[河童](../Page/河童.md "wikilink")。其後離開忍者村，以轉學方式進入吉祥學園。現在與[Dororo一起保護](https://zh.wikipedia.org/wiki/Dororo "wikilink")[地球不受](../Page/地球.md "wikilink")[外星人侵略](../Page/外星人.md "wikilink")。和[Keroro小隊的關係頗友好](https://zh.wikipedia.org/wiki/Keroro小隊 "wikilink")，屢次幫助Keroro小隊。在一間水車小房裡居住。以轉學形式進入吉祥學園學習，亦跟夏美、五月、彌生等人成為好朋友。[校服跟其他學生不同](../Page/校服.md "wikilink")。
 
 <!-- end list -->
 
   -
-    小雪並沒有跟其他任何的角色有不良關係，大多數是普通朋友。不過跟以下人物的關係則較突出。[Dororo兵長是小雪的搭檔](../Page/Dororo.md "wikilink")，決心與小雪保衛地球。動畫版中和小雪一起住在水車小屋，漫畫版中和小雪一起住在日向家旁。日向夏美是關係很好的朋友。小雪初開學的時候，坐位被編到夏美的左邊，五月和彌生的前面。運動方面小雪和夏美的能力不相上下。當2A班和2B班有體育比賽的時候，兩人會合作，以團結力量戰勝2B班。偶爾會跟夏美撒撒嬌，對夏美頗有好感。[Giroro伍長認為小雪與夏美關係過於友好](../Page/Giroro.md "wikilink")，因而十分嫉妒，會監視著小雪的行動。不過在動畫版119集上半部裡，也能稍微看到兩人之間微妙的友情。與西澤桃華為朋友關係，會互相幫助。雖然小雪曾经在動畫34話為了可以和夏美一起去溫泉旅行和桃華展開了激鬥，但是也試過幫助桃華奪取畫了桃華小時候樣子的畫。北城睦實，朋友關係，在239話上半，小雪曾經要求他跟自己一起找生日禮物送給夏美（生日禮物不明），卻被夏美在街上碰見二人而誤會二人是戀愛關係。小雪曾請教[Kururu曹長烹調咖哩的方法](../Page/Kururu.md "wikilink")。雖然Kururu強烈暗示小雪以色相交換,
+    小雪並沒有跟其他任何的角色有不良關係，大多數是普通朋友。不過跟以下人物的關係則較突出。[Dororo兵長是小雪的搭檔](https://zh.wikipedia.org/wiki/Dororo "wikilink")，決心與小雪保衛地球。動畫版中和小雪一起住在水車小屋，漫畫版中和小雪一起住在日向家旁。日向夏美是關係很好的朋友。小雪初開學的時候，坐位被編到夏美的左邊，五月和彌生的前面。運動方面小雪和夏美的能力不相上下。當2A班和2B班有體育比賽的時候，兩人會合作，以團結力量戰勝2B班。偶爾會跟夏美撒撒嬌，對夏美頗有好感。[Giroro伍長認為小雪與夏美關係過於友好](https://zh.wikipedia.org/wiki/Giroro "wikilink")，因而十分嫉妒，會監視著小雪的行動。不過在動畫版119集上半部裡，也能稍微看到兩人之間微妙的友情。與西澤桃華為朋友關係，會互相幫助。雖然小雪曾经在動畫34話為了可以和夏美一起去溫泉旅行和桃華展開了激鬥，但是也試過幫助桃華奪取畫了桃華小時候樣子的畫。北城睦實，朋友關係，在239話上半，小雪曾經要求他跟自己一起找生日禮物送給夏美（生日禮物不明），卻被夏美在街上碰見二人而誤會二人是戀愛關係。小雪曾請教[Kururu曹長烹調咖哩的方法](https://zh.wikipedia.org/wiki/Kururu "wikilink")。雖然Kururu強烈暗示小雪以色相交換,
     但小雪並沒有明白。跟摩亞一樣,
     Kururu對小雪沒輒。小雪與日向秋奈（冬樹與夏美的外婆）第一次見面是在動畫版91集下半部。日向秋奈給予自世沒有雙親的小雪一種親切的感覺，二人十分友好。時雨是小雪兒時的忍者朋友。第一次出場是於動畫209集。小雪曾經加入由他主辦的組織（SIP），但因掛念朋友而離開。骸，小雪兒時的忍者朋友。第一次出場是於動畫98集。小雪從小跟她一起進行忍術練習。
 
@@ -146,18 +146,18 @@
 <!-- end list -->
 
   -
-    配音：日本：[能登麻美子](../Page/能登麻美子.md "wikilink")；台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")；香港：[曾月娥](../Page/曾月娥.md "wikilink")（有線電視）／[魏惠娥](../Page/魏惠娥.md "wikilink")（第2季VCD/DVD版）／[曾佩儀](../Page/曾佩儀.md "wikilink")、[程文意](../Page/程文意.md "wikilink")<small>（第四輯代配）</small>）（無綫電視）
-    「星球終結者」（行星審判者）安哥爾族人，[法國預言家](../Page/法國.md "wikilink")[諾斯特拉達姆士所預言](../Page/諾斯特拉達姆士.md "wikilink")1999年7月世界末日的執行者。她能夠使出安哥爾族的奧義「默示錄擊」，威力足以擊碎行星。平時摩亞會以分數形式（例如1/1000000；\(\frac{1}{1000000}\)；一百萬份之一）來控制威力的大小。母親是安哥爾·提亞，在漫畫第13集和14集後期登場，傳說就是她令恐龍滅亡，跟摩亞的外貌十分相似。服飾大致上與摩亞相同，唯裙子是普通裙而非摩亞的蓬鬆裙，及穿黑長靴子而非摩亞的短靴子，提亞的額前亦有一顆「眼睛」，擁有與摩亞的父親（原祖的恐怖大王）同級數的力量。父親是恐怖大王，上一代（原祖）的恐怖大王（摩亞是第二代的恐怖大王），是個比太陽巨大很多倍的超級巨人，擁有相當恐怖的力量，對摩亞有十分高的期望。
+    配音：日本：[能登麻美子](../Page/能登麻美子.md "wikilink")；台灣：[蔣篤慧](../Page/蔣篤慧.md "wikilink")；香港：[曾月娥](../Page/曾月娥.md "wikilink")（有線電視）／[魏惠娥](../Page/魏惠娥.md "wikilink")（第2季VCD/DVD版）／[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")、[程文意](../Page/程文意.md "wikilink")<small>（第四輯代配）</small>）（無綫電視）
+    「星球終結者」（行星審判者）安哥爾族人，[法國預言家](https://zh.wikipedia.org/wiki/法國 "wikilink")[諾斯特拉達姆士所預言](../Page/諾斯特拉達姆士.md "wikilink")1999年7月世界末日的執行者。她能夠使出安哥爾族的奧義「默示錄擊」，威力足以擊碎行星。平時摩亞會以分數形式（例如1/1000000；\(\frac{1}{1000000}\)；一百萬份之一）來控制威力的大小。母親是安哥爾·提亞，在漫畫第13集和14集後期登場，傳說就是她令恐龍滅亡，跟摩亞的外貌十分相似。服飾大致上與摩亞相同，唯裙子是普通裙而非摩亞的蓬鬆裙，及穿黑長靴子而非摩亞的短靴子，提亞的額前亦有一顆「眼睛」，擁有與摩亞的父親（原祖的恐怖大王）同級數的力量。父親是恐怖大王，上一代（原祖）的恐怖大王（摩亞是第二代的恐怖大王），是個比太陽巨大很多倍的超級巨人，擁有相當恐怖的力量，對摩亞有十分高的期望。
 
 <!-- end list -->
 
   -
-    第一次登場時的地球年齡為2000歲。本來打算按照與[諾斯特拉達穆斯](../Page/諾斯特拉達穆斯.md "wikilink")（原作的摩亞稱他叫鬍子叔叔）的約定前來破壞地球，漫畫版中準時降臨地球；動畫版設定她因為早到了，所以睡了一會，結果就遲了五年才來到地球。在Keroro的勸說下放棄了破壞地球，現在跟Keroro小隊一起行動。摩亞喜歡在空閒的時間去觀察地球的[活斷層](../Page/活斷層.md "wikilink")，想以最漂亮的方法來破壞地球（漂亮的切成兩半）。在目前所有登場的主要角色中擁有最強的攻擊力。在變回本來的樣子之後更可以隨意進出大氣圈，在宇宙自由活動，而且擁有極高的耐寒和耐水壓能力。但戰鬥能力也存在弱點，在動畫第102集顯示安哥爾石（紫色會發光石頭），這顆特殊礦石可以將安哥爾族的能力封印。雖然在動畫第92話由桃華主辦的羽-{板}-球大賽上表現得十分弱小，但是在破壞行星等事情上表現得十分厲害，特別是在破壞行星時那一種驚人的腕力。所以目前為止都沒辦法判斷她的運動能力是好還是差。口頭禪是喜歡在說話的後面加上[四字成語](../Page/四字成語.md "wikilink")，例如：“でいうか、自業自得？”（或該說，自作自受？），但是有時誤用。
+    第一次登場時的地球年齡為2000歲。本來打算按照與[諾斯特拉達穆斯](https://zh.wikipedia.org/wiki/諾斯特拉達穆斯 "wikilink")（原作的摩亞稱他叫鬍子叔叔）的約定前來破壞地球，漫畫版中準時降臨地球；動畫版設定她因為早到了，所以睡了一會，結果就遲了五年才來到地球。在Keroro的勸說下放棄了破壞地球，現在跟Keroro小隊一起行動。摩亞喜歡在空閒的時間去觀察地球的[活斷層](https://zh.wikipedia.org/wiki/活斷層 "wikilink")，想以最漂亮的方法來破壞地球（漂亮的切成兩半）。在目前所有登場的主要角色中擁有最強的攻擊力。在變回本來的樣子之後更可以隨意進出大氣圈，在宇宙自由活動，而且擁有極高的耐寒和耐水壓能力。但戰鬥能力也存在弱點，在動畫第102集顯示安哥爾石（紫色會發光石頭），這顆特殊礦石可以將安哥爾族的能力封印。雖然在動畫第92話由桃華主辦的羽-{板}-球大賽上表現得十分弱小，但是在破壞行星等事情上表現得十分厲害，特別是在破壞行星時那一種驚人的腕力。所以目前為止都沒辦法判斷她的運動能力是好還是差。口頭禪是喜歡在說話的後面加上[四字成語](../Page/四字成語.md "wikilink")，例如：“でいうか、自業自得？”（或該說，自作自受？），但是有時誤用。
 
 <!-- end list -->
 
   -
-    原外貌為雪白的皮膚，銀白色的頭髮，黃色的眼睛。身穿紫白色的衣服，頭上戴一頂很高的紫白色為主色的帽子，背後有一件長袍（跟魔法少女的形象十分相像），胸前被一個金色的圈子包圍。審判儀式服上的帽子旁漂浮的物體能夠製造力場，平時放在肩上的金環與金環上的披風也能夠產生力場，讓『默示錄擊』不會波及到安哥爾·摩亞。摩亞模仿了第一位見到的日本少女高中生（麻美）的樣貌，黃色的頭髮，膚色比本來的樣子暗淡很多，造型跟當時現實世界的日本澁谷常見的女高中生相似。摩亞與麻美的外貌差異在於眼睛的顏色，摩亞是黃色，麻美則是綠色的。平時身穿普通的日本女學生的校服，暫時共有三種，一件是上身穿白色的衣服再穿上黃色的背心，下面是深灰色的裙子，第二件就沒有了黃色的背心，其他的跟第一件相差不多。第三件是由第206話開始出現（其實第三件衣服在Keroro超劇場版3的宣傳片中就已經有出現過），總體上跟第一件相似，但是背心則是換成深藍色，頸部再加上一條紅色的領帶，襪子變成黑色。本來摩亞在模彷麻美外貌時會連同麻美的性格一同模仿，但是摩亞在天空中掉下來時衝到頭部，因此性格就產生了180度的改變，變得十分乖巧斯文(作者稱這為[孫x空症候群](../Page/孫悟空_\(七龍珠\).md "wikilink")，暗示戲仿[七龍珠](../Page/七龍珠.md "wikilink"))。而在摩亞患上宇宙遊眠病時（漫畫版則是壓抑著破壞地球的衝動所造成），性格就試過變回跟麻美一樣。在變回麻美的性格時，對Keroro的稱呼是「」。雖然性格變得兇惡，但是喜歡的東西（例如Keroro）就沒有改變。
+    原外貌為雪白的皮膚，銀白色的頭髮，黃色的眼睛。身穿紫白色的衣服，頭上戴一頂很高的紫白色為主色的帽子，背後有一件長袍（跟魔法少女的形象十分相像），胸前被一個金色的圈子包圍。審判儀式服上的帽子旁漂浮的物體能夠製造力場，平時放在肩上的金環與金環上的披風也能夠產生力場，讓『默示錄擊』不會波及到安哥爾·摩亞。摩亞模仿了第一位見到的日本少女高中生（麻美）的樣貌，黃色的頭髮，膚色比本來的樣子暗淡很多，造型跟當時現實世界的日本澁谷常見的女高中生相似。摩亞與麻美的外貌差異在於眼睛的顏色，摩亞是黃色，麻美則是綠色的。平時身穿普通的日本女學生的校服，暫時共有三種，一件是上身穿白色的衣服再穿上黃色的背心，下面是深灰色的裙子，第二件就沒有了黃色的背心，其他的跟第一件相差不多。第三件是由第206話開始出現（其實第三件衣服在Keroro超劇場版3的宣傳片中就已經有出現過），總體上跟第一件相似，但是背心則是換成深藍色，頸部再加上一條紅色的領帶，襪子變成黑色。本來摩亞在模彷麻美外貌時會連同麻美的性格一同模仿，但是摩亞在天空中掉下來時衝到頭部，因此性格就產生了180度的改變，變得十分乖巧斯文(作者稱這為[孫x空症候群](https://zh.wikipedia.org/wiki/孫悟空_\(七龍珠\) "wikilink")，暗示戲仿[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink"))。而在摩亞患上宇宙遊眠病時（漫畫版則是壓抑著破壞地球的衝動所造成），性格就試過變回跟麻美一樣。在變回麻美的性格時，對Keroro的稱呼是「」。雖然性格變得兇惡，但是喜歡的東西（例如Keroro）就沒有改變。
 
 <!-- end list -->
 
@@ -188,13 +188,13 @@
 <!-- end list -->
 
   - ****〔
-    　配音：日本：[檜山修之](../Page/檜山修之.md "wikilink")；台灣：[劉傑](../Page/劉傑_\(配音員\).md "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")<small>（童年）</small>）
+    　配音：日本：[檜山修之](../Page/檜山修之.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")<small>（童年）</small>）
 
 <!-- end list -->
 
   -
     宇宙私家偵探，Keroro小時候結識的朋友。Keroro向他表明長大後要當侵略者時，他向Keroro挑戰說要當宇宙刑警，負責粉碎Keroro的野心。但因為參加宇宙刑警考試一直落敗，又找不到工作，只好自己開偵探事務所，不過似乎沒什麼生意。永遠都是一張狂笑的臉，只有相依為命的妹妹拉比才能看到他表情的微小變化，瞭解他真正的想法。除了好管閒事之外，個性也偏向神經質外加中二病，也特別喜歡木製三層彩色組合櫃（動畫限定）。目前與拉比定居於地球。戰鬥前會先花費0.0037秒進行「癒著」（會戴上一個頭盔，手握一把雷射竹刀），必殺技是「556
-    有機破空斬」。主要是戲仿[東映](../Page/東映動畫.md "wikilink")1970年代末期的[特攝片](../Page/特攝片.md "wikilink")「宇宙刑事加邦」（第一代，變身時會喊出「蒸著」）。
+    有機破空斬」。主要是戲仿[東映](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")1970年代末期的[特攝片](../Page/特攝片.md "wikilink")「宇宙刑事加邦」（第一代，變身時會喊出「蒸著」）。
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 
   -
     本來是街上的野貓，在一場大雨中被Giroro收留後，便一直出現在日向家。很喜歡Giroro，常常陪伴在他的身邊，對夏美的遲鈍深感不滿。喜歡吃冬樹給的[海苔](../Page/海苔.md "wikilink")。曾兩次使用Kururu發明的「藍星動物士兵化槍（動畫：我們都是這樣活著槍）」變身成為人類，在第15集第120話中曾奪取Keroro的「K隆之☆」而當上Keroro小隊的隊長。
-    人類外型戲仿自[快打旋風系列中的角色](../Page/快打旋風系列.md "wikilink")**倩咪·懷特**。
+    人類外型戲仿自[快打旋風系列中的角色](https://zh.wikipedia.org/wiki/快打旋風系列 "wikilink")**倩咪·懷特**。
 
 <!-- end list -->
 
@@ -230,13 +230,13 @@
 <!-- end list -->
 
   - **愛莉莎·南十字星**〔　（Alisa_Southerncross）
-    　配音：日本：[矢島晶子](../Page/矢島晶子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")、[曾佩儀](../Page/曾佩儀.md "wikilink")<small>（代配）</small>、[張頌欣](../Page/張頌欣.md "wikilink")<small>（代配）</small>）
+    　配音：日本：[矢島晶子](../Page/矢島晶子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")<small>（代配）</small>、[張頌欣](../Page/張頌欣.md "wikilink")<small>（代配）</small>）
 
 <!-- end list -->
 
   -
     有著橘色長髮，撲克臉表情的少女；自稱來自黑暗世界（Dark Zone），在黑夜中狩獵的黑暗獵人（Dark
-    Hunter），實際上是數百年前一個會說話的人偶，但因是人偶的關係，不能被人類接納，以至愛莉莎心中的情緒只有悲傷。聲稱住在地球的外星人和神祕生物是她們「生存所必須的獵物（食物）」，以貓耳髮箍(其實是父親涅布拉變型的)作為攻擊與吞食宇宙人的武器，習慣以「Daddy」稱呼涅布拉；能夠阻擋一切物理光線攻擊，並且能夠變成[希臘神話中的](../Page/希臘神話.md "wikilink")[戈爾貢](../Page/戈爾貢.md "wikilink")，石化人類。喜歡冬樹（因為冬樹能將隱藏在黑暗中的宇宙人引出來），冬樹曾在夢中見到她，遇到她時會嗅到金木犀（[桂花](../Page/桂花.md "wikilink")）的香氣。近日，愛莉莎似乎開始有人的本性，臉上較常出現微笑，開始懂得去愛。
+    Hunter），實際上是數百年前一個會說話的人偶，但因是人偶的關係，不能被人類接納，以至愛莉莎心中的情緒只有悲傷。聲稱住在地球的外星人和神祕生物是她們「生存所必須的獵物（食物）」，以貓耳髮箍(其實是父親涅布拉變型的)作為攻擊與吞食宇宙人的武器，習慣以「Daddy」稱呼涅布拉；能夠阻擋一切物理光線攻擊，並且能夠變成[希臘神話中的](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[戈爾貢](https://zh.wikipedia.org/wiki/戈爾貢 "wikilink")，石化人類。喜歡冬樹（因為冬樹能將隱藏在黑暗中的宇宙人引出來），冬樹曾在夢中見到她，遇到她時會嗅到金木犀（[桂花](../Page/桂花.md "wikilink")）的香氣。近日，愛莉莎似乎開始有人的本性，臉上較常出現微笑，開始懂得去愛。
 
 <!-- end list -->
 
@@ -274,7 +274,7 @@
 <!-- end list -->
 
   -
-    原作第187話初登場。四鷹小學五年級學生，小燈的同班同學。自稱曾遭[外星人綁架](../Page/外星人綁架.md "wikilink")，而獲得超能力。平時總是閉著一隻眼睛，使出超能力時才會睜開。說話時常在句尾加上「我有這種感覺」。
+    原作第187話初登場。四鷹小學五年級學生，小燈的同班同學。自稱曾遭[外星人綁架](https://zh.wikipedia.org/wiki/外星人綁架 "wikilink")，而獲得超能力。平時總是閉著一隻眼睛，使出超能力時才會睜開。說話時常在句尾加上「我有這種感覺」。
 
 ## 宇宙人相關
 
@@ -300,22 +300,22 @@
 
 ### 其他宇宙人
 
-  - **Sumomo**（　配音：日本：[井端珠裡](../Page/井端珠裡.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[林司聰](../Page/林司聰.md "wikilink")（有線電視）／[何璐怡](../Page/何璐怡.md "wikilink")（無線電視））
+  - **Sumomo**（　配音：日本：[井端珠裡](https://zh.wikipedia.org/wiki/井端珠裡 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[林司聰](../Page/林司聰.md "wikilink")（有線電視）／[何璐怡](../Page/何璐怡.md "wikilink")（無線電視））
 
 <!-- end list -->
 
   -
-    伽瑪星雲第23號行星－阿呵多隆星人（一個外型類似K隆星人的宇宙種族，有調整[甲狀腺](../Page/甲狀腺.md "wikilink")[荷爾蒙分泌而改變外形的能力](../Page/荷爾蒙.md "wikilink")，可以輕易變成地球人的外表），體色為桃紅色。漫畫版中是和父親鬧彆扭離家出走的外星少女，中學二年級生，收養人是春世；動畫版中則被設定為宇宙中的人氣女歌手，在地球定居。除了唱歌外也會參加綜藝節目，是個很賣力的藝人。
+    伽瑪星雲第23號行星－阿呵多隆星人（一個外型類似K隆星人的宇宙種族，有調整[甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")[荷爾蒙分泌而改變外形的能力](https://zh.wikipedia.org/wiki/荷爾蒙 "wikilink")，可以輕易變成地球人的外表），體色為桃紅色。漫畫版中是和父親鬧彆扭離家出走的外星少女，中學二年級生，收養人是春世；動畫版中則被設定為宇宙中的人氣女歌手，在地球定居。除了唱歌外也會參加綜藝節目，是個很賣力的藝人。
 
 <!-- end list -->
 
-  - **玻唷**（　配音：日本：[麻績村真由子](../Page/おみむらまゆこ.md "wikilink")；台灣：[雷碧文](../Page/雷碧文.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")
+  - **玻唷**（　配音：日本：[麻績村真由子](https://zh.wikipedia.org/wiki/おみむらまゆこ "wikilink")；台灣：[雷碧文](../Page/雷碧文.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")
     <small>（代配）</small>）
 
 <!-- end list -->
 
   -
-    宇宙女警察，任職於仙女座恆星前派出所，位階為巡查長，平常的工作是逮捕逃到宇宙各處的犯人，生日為8月30日，星座為[處女座](../Page/處女座.md "wikilink")。每次出場的時候，都會從另一個空間由上而下或由左而右緩慢地轉出來，嘴裡並發出「Poyoyoyo～Poyoyoyo」的聲音。持有標著「S.P.D」的手槍，實際用途是把抓到的壞人弄到特別空間。說完每句話都會說一聲「玻唷」（）。動畫版中玻唷是玻央的學姊，並有另一個「櫻吹雪」的身份。
+    宇宙女警察，任職於仙女座恆星前派出所，位階為巡查長，平常的工作是逮捕逃到宇宙各處的犯人，生日為8月30日，星座為[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")。每次出場的時候，都會從另一個空間由上而下或由左而右緩慢地轉出來，嘴裡並發出「Poyoyoyo～Poyoyoyo」的聲音。持有標著「S.P.D」的手槍，實際用途是把抓到的壞人弄到特別空間。說完每句話都會說一聲「玻唷」（）。動畫版中玻唷是玻央的學姊，並有另一個「櫻吹雪」的身份。
 
 <!-- end list -->
 
@@ -337,7 +337,7 @@
 
 <!-- end list -->
 
-  - **恐怖大王**（配音：[角田信朗](../Page/角田信朗.md "wikilink")；台灣：[劉傑](../Page/劉傑.md "wikilink")；香港：[譚炳文](../Page/譚炳文.md "wikilink")）
+  - **恐怖大王**（配音：[角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")；香港：[譚炳文](../Page/譚炳文.md "wikilink")）
 
 <!-- end list -->
 
@@ -346,7 +346,7 @@
 
 <!-- end list -->
 
-  - **Nyororo**（　配音：[籐原啟治](../Page/籐原啟治.md "wikilink")）
+  - **Nyororo**（　配音：[籐原啟治](https://zh.wikipedia.org/wiki/籐原啟治 "wikilink")）
 
 <!-- end list -->
 
@@ -355,28 +355,28 @@
 
 <!-- end list -->
 
-  - **DANCE☆MAN**（　配音：日本：[DANCE☆MAN](../Page/DANCE☆MAN.md "wikilink")；台灣：[劉傑](../Page/劉傑_（配音員）.md "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
+  - **DANCE☆MAN**（　配音：日本：[DANCE☆MAN](https://zh.wikipedia.org/wiki/DANCE☆MAN "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑_（配音員） "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
 
 <!-- end list -->
 
   -
     現實中真實存在的一位Funky歌手，自稱是Mirror
-    Ball星人，本名為[藤澤秀樹](../Page/藤澤秀樹.md "wikilink")。第一季片尾曲即由他主唱。曾被Kururu找來訓練摩亞、桃華、夏美、小雪四人。
+    Ball星人，本名為[藤澤秀樹](https://zh.wikipedia.org/wiki/藤澤秀樹 "wikilink")。第一季片尾曲即由他主唱。曾被Kururu找來訓練摩亞、桃華、夏美、小雪四人。
 
 <!-- end list -->
 
-  - **DASONU☆MASO（逃舞超人）**（　配音：日本：[長島雄一](../Page/長島雄一.md "wikilink")；台灣：[曹冀魯](../Page/曹冀魯.md "wikilink")；香港：[陳欣](../Page/陳欣.md "wikilink")）
+  - **DASONU☆MASO（逃舞超人）**（　配音：日本：[長島雄一](https://zh.wikipedia.org/wiki/長島雄一 "wikilink")；台灣：[曹冀魯](../Page/曹冀魯.md "wikilink")；香港：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
   -
     全宇宙人人皆知的Funky歌星，其實根本就是DANCE☆MAN的仿冒品。Kururu小時候結識的朋友。最早是透過把他的“演唱會”的票發給Keroro軍曹而變成大大的捲毛球而來到地球上的（後來他也都是採用這種方式來到地球上的）。曾經製造過DASONU☆MASO機器人想侵略地球，最後被More
     Peach Summer
-    Snow(摩亞、桃華、夏美、小雪)打敗。每次DASONU☆MASO出現后，真正的DANCE☆MAN幾乎都會出現。動畫港版把此人譯為逃舞超人，真正的DANCE☆MAN則譯為跳舞超人。眼睛射出的光線可以把人的髮型變成[爆炸頭](../Page/爆炸式.md "wikilink")（後來除了髮型外，連性格也會一起改變）。屬於「毛叢叢(台語)」型外星人。喜歡說一些前後語意相反的無俚頭笑話，只有Keroro小隊的成員（除了Dororo和Giroro以外）和妹妹DASONU☆MALI會笑死。漫畫版中的名字為DANGE☆MAM。
+    Snow(摩亞、桃華、夏美、小雪)打敗。每次DASONU☆MASO出現后，真正的DANCE☆MAN幾乎都會出現。動畫港版把此人譯為逃舞超人，真正的DANCE☆MAN則譯為跳舞超人。眼睛射出的光線可以把人的髮型變成[爆炸頭](https://zh.wikipedia.org/wiki/爆炸式 "wikilink")（後來除了髮型外，連性格也會一起改變）。屬於「毛叢叢(台語)」型外星人。喜歡說一些前後語意相反的無俚頭笑話，只有Keroro小隊的成員（除了Dororo和Giroro以外）和妹妹DASONU☆MALI會笑死。漫畫版中的名字為DANGE☆MAM。
 
 <!-- end list -->
 
-  - **DASONU☆MALI（逃舞超女）**（　配音：[愛河-{裡}-花子](../Page/愛河裡花子.md "wikilink")）
+  - **DASONU☆MALI（逃舞超女）**（　配音：[愛河-{裡}-花子](https://zh.wikipedia.org/wiki/愛河裡花子 "wikilink")）
 
 <!-- end list -->
 
@@ -385,12 +385,12 @@
 
 <!-- end list -->
 
-  - **蓋魯**（配音：[飛田展男](../Page/飛田展男.md "wikilink")；台灣：[黃天祐](../Page/黃天祐.md "wikilink")）
+  - **蓋魯**（配音：[飛田展男](../Page/飛田展男.md "wikilink")；台灣：[黃天祐](https://zh.wikipedia.org/wiki/黃天祐 "wikilink")）
 
 <!-- end list -->
 
   -
-    商品販賣型宇宙人，在宇宙各地販賣許多稀奇古怪的商品，也時常接受Keroro的預約訂購（費用往往超出侵略預算甚多）。以日本有名的通信販賣業者[高田明為範本所產生的人物](../Page/高田明.md "wikilink")。
+    商品販賣型宇宙人，在宇宙各地販賣許多稀奇古怪的商品，也時常接受Keroro的預約訂購（費用往往超出侵略預算甚多）。以日本有名的通信販賣業者[高田明為範本所產生的人物](https://zh.wikipedia.org/wiki/高田明 "wikilink")。
 
 <!-- end list -->
 
@@ -404,7 +404,7 @@
 <!-- end list -->
 
   - **R
-    GREY**（配音：日本：[綠川光](../Page/綠川光.md "wikilink")；香港：[李錦綸](../Page/李錦綸.md "wikilink")）
+    GREY**（配音：日本：[綠川光](../Page/綠川光.md "wikilink")；香港：[李錦綸](https://zh.wikipedia.org/wiki/李錦綸 "wikilink")）
 
 <!-- end list -->
 
@@ -413,13 +413,13 @@
 
 <!-- end list -->
 
-  - **孩子王星人1**（配音：[巖田光央](../Page/巖田光央.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - **孩子王星人1**（配音：[巖田光央](https://zh.wikipedia.org/wiki/巖田光央 "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 <!-- end list -->
 
   -
     從以前便與Keroro熟識（胖虎星為K隆星的同盟），時常出沒於SIDE
-    6的宇宙地下街。喜愛唱歌，但又五音不全，很愛當老大，對其他人總是傲慢粗暴，認為「你的東西就是我的東西，我的東西還是我的東西」，跟[神奇寶貝的](../Page/神奇寶貝.md "wikilink")[武藏一樣](../Page/武藏.md "wikilink")。個性與造型均與[多啦A夢中的](../Page/多啦A夢.md "wikilink")[胖虎類似](../Page/胖虎.md "wikilink")。唱歌時會唱出《多啦A夢》的主題曲。
+    6的宇宙地下街。喜愛唱歌，但又五音不全，很愛當老大，對其他人總是傲慢粗暴，認為「你的東西就是我的東西，我的東西還是我的東西」，跟[神奇寶貝的](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")[武藏一樣](https://zh.wikipedia.org/wiki/武藏 "wikilink")。個性與造型均與[多啦A夢中的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[胖虎類似](https://zh.wikipedia.org/wiki/胖虎 "wikilink")。唱歌時會唱出《多啦A夢》的主題曲。
 
 <!-- end list -->
 
@@ -428,16 +428,16 @@
 <!-- end list -->
 
   -
-    總是跟在孩子王星人1旁邊，喜歡幫腔作勢。個性與造型均與[多啦A夢中的](../Page/多啦A夢.md "wikilink")[小夫類似](../Page/小夫.md "wikilink")。
+    總是跟在孩子王星人1旁邊，喜歡幫腔作勢。個性與造型均與[多啦A夢中的](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")[小夫類似](https://zh.wikipedia.org/wiki/小夫 "wikilink")。
 
 <!-- end list -->
 
-  - **輝夜姬**（配音：日本：[高橋理惠子](../Page/高橋理惠子.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - **輝夜姬**（配音：日本：[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
   -
-    細竹星人第13代[公主](../Page/公主.md "wikilink")。1000年前細竹星毀滅，輝夜姬帶著80億居民搭乘牛車型[太空船尋找新的](../Page/太空船.md "wikilink")[行星](../Page/行星.md "wikilink")，途中遇到宇宙風暴而漂流至[月球](../Page/月球.md "wikilink")，太空船也因此故障而無法行駛。多年來四處尋找可以修理太空船的五種特殊礦石（[佛的御石缽](../Page/佛.md "wikilink")、[蓬萊的玉枝](../Page/蓬萊.md "wikilink")、[火鼠的皮裘](../Page/火鼠.md "wikilink")、[燕子的安貝](../Page/燕子.md "wikilink")、[龍的五色玉](../Page/龍.md "wikilink")），在Giroro無心插柳之下，終於發現了最後一件礦石－龍的五色玉，順利幫助輝夜姬重新開始尋找新天地的旅程。
+    細竹星人第13代[公主](https://zh.wikipedia.org/wiki/公主 "wikilink")。1000年前細竹星毀滅，輝夜姬帶著80億居民搭乘牛車型[太空船尋找新的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[行星](../Page/行星.md "wikilink")，途中遇到宇宙風暴而漂流至[月球](../Page/月球.md "wikilink")，太空船也因此故障而無法行駛。多年來四處尋找可以修理太空船的五種特殊礦石（[佛的御石缽](../Page/佛.md "wikilink")、[蓬萊的玉枝](https://zh.wikipedia.org/wiki/蓬萊 "wikilink")、[火鼠的皮裘](https://zh.wikipedia.org/wiki/火鼠 "wikilink")、[燕子的安貝](https://zh.wikipedia.org/wiki/燕子 "wikilink")、[龍的五色玉](https://zh.wikipedia.org/wiki/龍 "wikilink")），在Giroro無心插柳之下，終於發現了最後一件礦石－龍的五色玉，順利幫助輝夜姬重新開始尋找新天地的旅程。
 
 <!-- end list -->
 
@@ -464,11 +464,11 @@
 <!-- end list -->
 
   -
-    容易墮入愛河的「Trendy宇宙人」，眼睛能射出「Trendy光線」，使對方無法動彈。身體如石頭般堅硬，最初被別人撞到也絲毫不動。目前曾被他愛上的人有夏美、桃華和拉比，而最後被桃華一拳打上天空。以日本有名的「花花公子」－藝人[石田純一為範本所產生的人物](../Page/石田純一.md "wikilink")。
+    容易墮入愛河的「Trendy宇宙人」，眼睛能射出「Trendy光線」，使對方無法動彈。身體如石頭般堅硬，最初被別人撞到也絲毫不動。目前曾被他愛上的人有夏美、桃華和拉比，而最後被桃華一拳打上天空。以日本有名的「花花公子」－藝人[石田純一為範本所產生的人物](https://zh.wikipedia.org/wiki/石田純一 "wikilink")。
 
 <!-- end list -->
 
-  - **小百合**（配音：[弓場沙織](../Page/弓場沙織.md "wikilink")）
+  - **小百合**（配音：[弓場沙織](https://zh.wikipedia.org/wiki/弓場沙織 "wikilink")）
 
 <!-- end list -->
 
@@ -483,7 +483,7 @@
 <!-- end list -->
 
   -
-    阿爾達星人，興趣是研究[神秘學](../Page/神秘學.md "wikilink")。在一次地球旅行時，不慎將絕對幸運石弄丟了（阿爾達星人就算什麼都不做也會招來惡運，所以身上都要佩帶絕對幸運石），因此在地球上經歷了許多不幸的遭遇。拾獲絕對幸運石的冬樹將絕對幸運石交還給他之後，才恢復正常人的生活。
+    阿爾達星人，興趣是研究[神秘學](https://zh.wikipedia.org/wiki/神秘學 "wikilink")。在一次地球旅行時，不慎將絕對幸運石弄丟了（阿爾達星人就算什麼都不做也會招來惡運，所以身上都要佩帶絕對幸運石），因此在地球上經歷了許多不幸的遭遇。拾獲絕對幸運石的冬樹將絕對幸運石交還給他之後，才恢復正常人的生活。
 
 <!-- end list -->
 
@@ -496,7 +496,7 @@
 
 <!-- end list -->
 
-  - **梅洛斯星人**（配音：[山口健](../Page/山口健.md "wikilink")）
+  - **梅洛斯星人**（配音：[山口健](https://zh.wikipedia.org/wiki/山口健 "wikilink")）
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@
 
 <!-- end list -->
 
-  - **丘桐**（配音：[松島美之里](../Page/松島美之里.md "wikilink")）
+  - **丘桐**（配音：[松島美之里](https://zh.wikipedia.org/wiki/松島美之里 "wikilink")）
 
 <!-- end list -->
 
@@ -523,7 +523,7 @@
 
 <!-- end list -->
 
-  - **祈舞扇／753**（配音：[齋籐次郎](../Page/齋籐次郎.md "wikilink")）
+  - **祈舞扇／753**（配音：[齋籐次郎](https://zh.wikipedia.org/wiki/齋籐次郎 "wikilink")）
 
 <!-- end list -->
 
@@ -532,7 +532,7 @@
 
 <!-- end list -->
 
-  - **兇惡犯303號**（配音：[卷島直樹](../Page/卷島直樹.md "wikilink")）
+  - **兇惡犯303號**（配音：[卷島直樹](https://zh.wikipedia.org/wiki/卷島直樹 "wikilink")）
 
 <!-- end list -->
 
@@ -564,7 +564,7 @@
 <!-- end list -->
 
   -
-    專門[寄生於他人牙齒中的宇宙種族](../Page/寄生.md "wikilink")，會在[宿主的牙齒中建造進攻基地](../Page/宿主.md "wikilink")，而經常被誤以為是[蛀牙](../Page/蛀牙.md "wikilink")。動畫版中寄生於Keroro的牙齒內，最後被Kururu發明的「Keroro
+    專門[寄生於他人牙齒中的宇宙種族](../Page/寄生.md "wikilink")，會在[宿主的牙齒中建造進攻基地](../Page/宿主.md "wikilink")，而經常被誤以為是[蛀牙](https://zh.wikipedia.org/wiki/蛀牙 "wikilink")。動畫版中寄生於Keroro的牙齒內，最後被Kururu發明的「Keroro
     B」自爆所消滅。
 
 <!-- end list -->
@@ -578,12 +578,12 @@
 
 <!-- end list -->
 
-  - **九條冥**（配音：[荒木香惠](../Page/荒木香惠.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[何璐怡](../Page/何璐怡.md "wikilink")）
+  - **九條冥**（配音：[荒木香惠](https://zh.wikipedia.org/wiki/荒木香惠 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[何璐怡](../Page/何璐怡.md "wikilink")）
 
 <!-- end list -->
 
   -
-    [冥王星人](../Page/冥王星.md "wikilink")，真名不詳，仰賴地球人對冥王星的思念程度生存。由於冥王星於[2006年8月24日被地球人從](../Page/2006年8月24日.md "wikilink")[太陽系](../Page/太陽系.md "wikilink")[行星的行列中除名](../Page/行星.md "wikilink")，冥王星人開始消失。為了拯救族人，九條冥到地球盡力宣傳冥王星，可惜最終仍舊失敗，並且完全消散，於動畫版ZZZ咚咚咚縮經過冥王星時和卡隆又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。
+    [冥王星人](../Page/冥王星.md "wikilink")，真名不詳，仰賴地球人對冥王星的思念程度生存。由於冥王星於[2006年8月24日被地球人從](https://zh.wikipedia.org/wiki/2006年8月24日 "wikilink")[太陽系](https://zh.wikipedia.org/wiki/太陽系 "wikilink")[行星的行列中除名](../Page/行星.md "wikilink")，冥王星人開始消失。為了拯救族人，九條冥到地球盡力宣傳冥王星，可惜最終仍舊失敗，並且完全消散，於動畫版ZZZ咚咚咚縮經過冥王星時和卡隆又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。
 
 <!-- end list -->
 
@@ -592,7 +592,7 @@
 <!-- end list -->
 
   -
-    九條冥的寵物，能夠變身為貌似[渣古的多面鏡生物](../Page/渣古.md "wikilink")。試圖以製造混亂的方式，讓地球人記得冥王星。最後和九條冥完全消散。於動畫版ZZZ咚咚咚縮經過冥王星時和九條冥又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。名字取自冥王星的衛星[卡戎](../Page/卡戎.md "wikilink")。
+    九條冥的寵物，能夠變身為貌似[渣古的多面鏡生物](https://zh.wikipedia.org/wiki/渣古 "wikilink")。試圖以製造混亂的方式，讓地球人記得冥王星。最後和九條冥完全消散。於動畫版ZZZ咚咚咚縮經過冥王星時和九條冥又出現在冥王星上為自己星球宣傳，似乎是因為冬樹的思念讓其能留存。名字取自冥王星的衛星[卡戎](https://zh.wikipedia.org/wiki/卡戎 "wikilink")。
 
 <!-- end list -->
 
@@ -601,7 +601,7 @@
 <!-- end list -->
 
   -
-    超巨大型宇宙侵略怪獸，身長2,000公尺。最令人恐懼之處就是名字太長，以日文發音念出名字時容易咬到[舌頭](../Page/舌頭.md "wikilink")，目前為止只有Galulu能夠一口氣將它的名字唸完。興趣是破壞別人的星球，然後將星球上的[公仔全部納為己有](../Page/公仔.md "wikilink")（預估已收集超過1兆個以上），被他看上的星球都無法避免被破壞的命運。突然以地球為目標前進，Keroro等人將宇宙人街道集合成為巨大機器人與他作戰。後來因為踩到Keroro不慎弄出的宇宙[香蕉皮而滑倒](../Page/香蕉.md "wikilink")，跌入[太陽之中](../Page/太陽.md "wikilink")。
+    超巨大型宇宙侵略怪獸，身長2,000公尺。最令人恐懼之處就是名字太長，以日文發音念出名字時容易咬到[舌頭](https://zh.wikipedia.org/wiki/舌頭 "wikilink")，目前為止只有Galulu能夠一口氣將它的名字唸完。興趣是破壞別人的星球，然後將星球上的[公仔全部納為己有](https://zh.wikipedia.org/wiki/公仔 "wikilink")（預估已收集超過1兆個以上），被他看上的星球都無法避免被破壞的命運。突然以地球為目標前進，Keroro等人將宇宙人街道集合成為巨大機器人與他作戰。後來因為踩到Keroro不慎弄出的宇宙[香蕉皮而滑倒](../Page/香蕉.md "wikilink")，跌入[太陽之中](https://zh.wikipedia.org/wiki/太陽 "wikilink")。
 
 <!-- end list -->
 
@@ -610,13 +610,13 @@
 <!-- end list -->
 
   -
-    K隆星人的同盟種族，外型很像[怪俠索羅利](../Page/怪俠索羅利.md "wikilink")。
+    K隆星人的同盟種族，外型很像[怪俠索羅利](https://zh.wikipedia.org/wiki/怪俠索羅利 "wikilink")。
 
 ## 地球人
 
 ### 吉祥學園
 
-  - **師走五月**（　配音：日本：[松浦千惠](../Page/松浦千惠.md "wikilink")；香港：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - **師走五月**（　配音：日本：[松浦千惠](https://zh.wikipedia.org/wiki/松浦千惠 "wikilink")；香港：[沈小蘭](../Page/沈小蘭.md "wikilink")）
 
 <!-- end list -->
 
@@ -661,7 +661,7 @@
 
 <!-- end list -->
 
-  - **山裏帝明**（配音：日本：[高戶靖廣](../Page/高戶靖廣.md "wikilink")；香港：[馮錦堂](../Page/馮錦堂.md "wikilink")）
+  - **山裏帝明**（配音：日本：[高戶靖廣](../Page/高戶靖廣.md "wikilink")；香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
 
 <!-- end list -->
 
@@ -675,7 +675,7 @@
 <!-- end list -->
 
   -
-    桃華的爸爸，西澤集團總裁，坐擁全球51%的經濟資源，以及比桃華護衛隊更強的[精英部隊](../Page/特種部隊.md "wikilink")。現旅居[英國](../Page/英國.md "wikilink")[蘇格蘭](../Page/蘇格蘭.md "wikilink")。原本是一位格鬥家，在一次武道大會中認識了西澤櫻華和波爾，並且與櫻華結婚。後來櫻華將西澤家交給梅雄管理，憑著才能讓西澤集團攀上高峰（波爾形容為在以[資本主義為名的循環淘汰賽中過關斬將](../Page/資本主義.md "wikilink")，屢戰屢勝）。但因工作繁多而無法留在日本陪伴桃華，所以一直將桃華交給波爾照顧。絕招為「梅閃雷」。
+    桃華的爸爸，西澤集團總裁，坐擁全球51%的經濟資源，以及比桃華護衛隊更強的[精英部隊](../Page/特種部隊.md "wikilink")。現旅居[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇格蘭](../Page/蘇格蘭.md "wikilink")。原本是一位格鬥家，在一次武道大會中認識了西澤櫻華和波爾，並且與櫻華結婚。後來櫻華將西澤家交給梅雄管理，憑著才能讓西澤集團攀上高峰（波爾形容為在以[資本主義為名的循環淘汰賽中過關斬將](https://zh.wikipedia.org/wiki/資本主義 "wikilink")，屢戰屢勝）。但因工作繁多而無法留在日本陪伴桃華，所以一直將桃華交給波爾照顧。絕招為「梅閃雷」。
 
 <!-- end list -->
 
@@ -685,7 +685,7 @@
 <!-- end list -->
 
   -
-    桃華的媽媽，和女兒桃華一樣有雙重人格，而桃華可能也是遺傳自她，職業為格鬥家，造型類似「快打旋風」中的[春麗](../Page/春麗.md "wikilink")，全身散發出強大的殺氣與壓迫感。原本是西澤集團的千金大小姐，為了成為世界第一格鬥家而放棄千金身份，追求更高的格鬥技巧。在一次武道大會中與梅雄相識，兩人結婚並生下女兒桃華後，便將西澤家交給梅雄管理，自己則到世界各地挑戰強者。不時會回來突襲測試桃華親衛隊，並設下「在一個小時內如果順利到達桃華面前，將解雇波爾及全體親衛隊員（漫畫版無時間限制）」的條件。絕招為「櫻暴烈」。西澤櫻華聲優飾演[夏亞情人哈曼的](../Page/哈曼·坎恩.md "wikilink")[榊原良子負責](../Page/榊原良子.md "wikilink")。
+    桃華的媽媽，和女兒桃華一樣有雙重人格，而桃華可能也是遺傳自她，職業為格鬥家，造型類似「快打旋風」中的[春麗](https://zh.wikipedia.org/wiki/春麗 "wikilink")，全身散發出強大的殺氣與壓迫感。原本是西澤集團的千金大小姐，為了成為世界第一格鬥家而放棄千金身份，追求更高的格鬥技巧。在一次武道大會中與梅雄相識，兩人結婚並生下女兒桃華後，便將西澤家交給梅雄管理，自己則到世界各地挑戰強者。不時會回來突襲測試桃華親衛隊，並設下「在一個小時內如果順利到達桃華面前，將解雇波爾及全體親衛隊員（漫畫版無時間限制）」的條件。絕招為「櫻暴烈」。西澤櫻華聲優飾演[夏亞情人哈曼的](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")[榊原良子負責](../Page/榊原良子.md "wikilink")。
 
 <!-- end list -->
 
@@ -698,13 +698,13 @@
 
 <!-- end list -->
 
-  - **親衛隊隊長**（配音：[長嶝高士](../Page/長嶝高士.md "wikilink")）
-  - **西澤家女僕隊**（配音：[山本麻裡安](../Page/山本麻裡安.md "wikilink")（女僕長），[牧島有希](../Page/牧島有希.md "wikilink")、[廣津佑希子](../Page/廣津佑希子.md "wikilink")（女僕））
+  - **親衛隊隊長**（配音：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")）
+  - **西澤家女僕隊**（配音：[山本麻裡安](https://zh.wikipedia.org/wiki/山本麻裡安 "wikilink")（女僕長），[牧島有希](../Page/牧島有希.md "wikilink")、[廣津佑希子](https://zh.wikipedia.org/wiki/廣津佑希子 "wikilink")（女僕））
 
 <!-- end list -->
 
   -
-    負責打掃西澤家的女傭，漫畫版中有5位成員。雖然身穿宮廷式女傭服，不過樣貌、髮型等都是戲仿《[美少女戰士](../Page/美少女戰士.md "wikilink")》。其中酷似月野兔及水野亞美的成員，香港無線電視配音版更找來於92和94年擔當《魔神英雄傳》和《美少女戰士》配音工作的[曾佩儀](../Page/曾佩儀.md "wikilink")（忍部火美子）和（月野兔）及[梁少霞](../Page/梁少霞.md "wikilink")（聖龍妃）和（水野亞美）客串當年角色。
+    負責打掃西澤家的女傭，漫畫版中有5位成員。雖然身穿宮廷式女傭服，不過樣貌、髮型等都是戲仿《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》。其中酷似月野兔及水野亞美的成員，香港無線電視配音版更找來於92和94年擔當《魔神英雄傳》和《美少女戰士》配音工作的[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（忍部火美子）和（月野兔）及[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（聖龍妃）和（水野亞美）客串當年角色。
 
 <!-- end list -->
 
@@ -722,16 +722,16 @@
 <!-- end list -->
 
   -
-    小雪的兒時玩伴，與小雪是好朋友。外表冷酷，但內心卻十分關心小雪。忍野村解散後，曾以女高中生裝扮在城市出現，漫畫版中用[忍術幫助小雪](../Page/忍術.md "wikilink")；動畫版中則和小雪擦身而過。
+    小雪的兒時玩伴，與小雪是好朋友。外表冷酷，但內心卻十分關心小雪。忍野村解散後，曾以女高中生裝扮在城市出現，漫畫版中用[忍術幫助小雪](https://zh.wikipedia.org/wiki/忍術 "wikilink")；動畫版中則和小雪擦身而過。
 
 <!-- end list -->
 
-  - **零夜叉**（配音：[卷島直樹](../Page/卷島直樹.md "wikilink")）
+  - **零夜叉**（配音：[卷島直樹](https://zh.wikipedia.org/wiki/卷島直樹 "wikilink")）
 
 <!-- end list -->
 
   -
-    動畫版原創人物，一隻有靈性的狗，也是Dororo初到地球時認識的朋友。[兩眼顏色不同](../Page/雙色瞳.md "wikilink")，分別為[黃色和](../Page/黃色.md "wikilink")[藍色](../Page/藍色.md "wikilink")。
+    動畫版原創人物，一隻有靈性的狗，也是Dororo初到地球時認識的朋友。[兩眼顏色不同](https://zh.wikipedia.org/wiki/雙色瞳 "wikilink")，分別為[黃色和](https://zh.wikipedia.org/wiki/黃色 "wikilink")[藍色](../Page/藍色.md "wikilink")。
 
 <!-- end list -->
 
@@ -741,7 +741,7 @@
 
   -
     忍野村的[忍者首領](../Page/忍者.md "wikilink")。非常喜歡[iPod
-    shuffle](../Page/iPod_shuffle.md "wikilink")。忍野村解散後靠著在[時代劇仙境中的演出維持生計](../Page/時代劇.md "wikilink")。
+    shuffle](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")。忍野村解散後靠著在[時代劇仙境中的演出維持生計](https://zh.wikipedia.org/wiki/時代劇 "wikilink")。
 
 <!-- end list -->
 
@@ -750,16 +750,16 @@
 <!-- end list -->
 
   -
-    原作151話登場，前附屬忍廳組織「泰連」的成員之一，真實身分其實是七名女忍者，絕招是"七分身術-七蓮花"。角色設定為[七人之奈奈的女主角鈴木奈奈](../Page/七人之奈奈.md "wikilink")。
+    原作151話登場，前附屬忍廳組織「泰連」的成員之一，真實身分其實是七名女忍者，絕招是"七分身術-七蓮花"。角色設定為[七人之奈奈的女主角鈴木奈奈](https://zh.wikipedia.org/wiki/七人之奈奈 "wikilink")。
 
 ### 其他
 
-  - **幽靈少女**（配音：日本：[松浦千惠](../Page/松浦千惠.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[羅嘉玲](../Page/羅嘉玲.md "wikilink")（有線電視）／[何璐怡](../Page/何璐怡.md "wikilink")（無綫電視））
+  - **幽靈少女**（配音：日本：[松浦千惠](https://zh.wikipedia.org/wiki/松浦千惠 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[羅嘉玲](../Page/羅嘉玲.md "wikilink")（有線電視）／[何璐怡](../Page/何璐怡.md "wikilink")（無綫電視））
 
 <!-- end list -->
 
   -
-    本名**觀世**，古代的少女，生前曾因為保護河童而下獄，下獄地點正是現今Keroro的地下房間，去世後靈魂一直逗留在日向家的地下室。因為她的存在，日向秋才能以便宜的價格買下這棟房子。雖然容易被人遺忘，但如果太久沒有人理她，她就會飄出來嚇人。平常以人形印記現身於日向家地下室的牆上，顯示自己的存在（但有時被堆積過高的[鋼普拉包裝盒遮蔽](../Page/鋼普拉.md "wikilink")），不過有時也暗中參與眾人的活動。在看見Keroro戴上河童的帽子後，覺得Keroro非常像河童，完成了她想再見河童一面的心願，而逐漸被超渡，但被小雪無意間阻止。另外也曾經和師走五月相撞，然後附身到師走五月身上。
+    本名**觀世**，古代的少女，生前曾因為保護河童而下獄，下獄地點正是現今Keroro的地下房間，去世後靈魂一直逗留在日向家的地下室。因為她的存在，日向秋才能以便宜的價格買下這棟房子。雖然容易被人遺忘，但如果太久沒有人理她，她就會飄出來嚇人。平常以人形印記現身於日向家地下室的牆上，顯示自己的存在（但有時被堆積過高的[鋼普拉包裝盒遮蔽](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")），不過有時也暗中參與眾人的活動。在看見Keroro戴上河童的帽子後，覺得Keroro非常像河童，完成了她想再見河童一面的心願，而逐漸被超渡，但被小雪無意間阻止。另外也曾經和師走五月相撞，然後附身到師走五月身上。
 
 <!-- end list -->
 
@@ -768,7 +768,7 @@
 <!-- end list -->
 
   -
-    古代的一名普通足輕（日本古代最低級的步兵），渴望去[京都](../Page/京都.md "wikilink")。附身到Keroro所砌的模型城堡上（城堡被灌入萬能兵器化飲料Nanora，變成會透過吸收物件而增大的城堡），城堡變大後，土下左衛門便操控它前往京都（因為城堡吸收了車輛，所以能夠移動），在即將經過[鋼普拉製造工廠並將其吸收時](../Page/鋼普拉.md "wikilink")，被Keroro等人阻止，之後尊敬起Keroro。
+    古代的一名普通足輕（日本古代最低級的步兵），渴望去[京都](../Page/京都.md "wikilink")。附身到Keroro所砌的模型城堡上（城堡被灌入萬能兵器化飲料Nanora，變成會透過吸收物件而增大的城堡），城堡變大後，土下左衛門便操控它前往京都（因為城堡吸收了車輛，所以能夠移動），在即將經過[鋼普拉製造工廠並將其吸收時](https://zh.wikipedia.org/wiki/鋼普拉 "wikilink")，被Keroro等人阻止，之後尊敬起Keroro。
 
 <!-- end list -->
 
@@ -795,7 +795,7 @@
 <!-- end list -->
 
   -
-    僅在漫畫版中登場，中學三年級學生。Sumomo在她家定居。父親是[漫畫家](../Page/漫畫家.md "wikilink")。
+    僅在漫畫版中登場，中學三年級學生。Sumomo在她家定居。父親是[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
 
 <!-- end list -->
 
@@ -849,7 +849,7 @@
 
   - **大和**（配音：[松本梨香](../Page/松本梨香.md "wikilink")）
   - **品野**（配音：[尤加奈](../Page/尤加奈.md "wikilink")）
-  - **スギタ（アニメではキリシマスギタ）**（配音：[宮崎一成](../Page/宮崎一成.md "wikilink")）
+  - **スギタ（アニメではキリシマスギタ）**（配音：[宮崎一成](https://zh.wikipedia.org/wiki/宮崎一成 "wikilink")）
   - **杉田**（配音：[真殿光昭](../Page/真殿光昭.md "wikilink")）
   - **綾瀨楓**（配音：日本：[神田朱未](../Page/神田朱未.md "wikilink")；香港：[楊善諭](../Page/楊善諭.md "wikilink")）
 
@@ -871,7 +871,7 @@
 
 <!-- end list -->
 
-  - **旁白（安藤）**（配音：日本：[藤原啟治](../Page/藤原啟治.md "wikilink")；台灣：[黃天佑](../Page/黃天佑.md "wikilink")；香港：[楊耀泰](../Page/楊耀泰.md "wikilink")（有線電視）／[盧傑群](../Page/盧傑群.md "wikilink")（第2季VCD/DVD）／[陳永信](../Page/陳永信.md "wikilink")、[陳欣](../Page/陳欣.md "wikilink")<small>（代配）</small>、[張炳強](../Page/張炳強.md "wikilink")<small>（代配）</small>（無綫電視））
+  - **旁白（安藤）**（配音：日本：[藤原啟治](../Page/藤原啟治.md "wikilink")；台灣：[黃天佑](../Page/黃天佑.md "wikilink")；香港：[楊耀泰](../Page/楊耀泰.md "wikilink")（有線電視）／[盧傑群](https://zh.wikipedia.org/wiki/盧傑群 "wikilink")（第2季VCD/DVD）／[陳永信](../Page/陳永信.md "wikilink")、[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")<small>（代配）</small>、[張炳強](../Page/張炳強.md "wikilink")<small>（代配）</small>（無綫電視））
 
 <!-- end list -->
 
@@ -930,7 +930,7 @@
 
 <!-- end list -->
 
-  - **紫菜碎Blue**（　配音：日本：[土門仁](../Page/土門仁.md "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")）
+  - **紫菜碎Blue**（　配音：日本：[土門仁](https://zh.wikipedia.org/wiki/土門仁 "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")）
 
 <!-- end list -->
 
@@ -939,7 +939,7 @@
 
 <!-- end list -->
 
-  - **Green**（　配音：日本：[室園丈裕](../Page/室園丈裕.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - **Green**（　配音：日本：[室園丈裕](https://zh.wikipedia.org/wiki/室園丈裕 "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 <!-- end list -->
 
@@ -948,7 +948,7 @@
 
 <!-- end list -->
 
-  - **天婦羅渣Yellow**（　配音：日本：[松浦チエ](../Page/松浦チエ.md "wikilink")；香港：[伍秀霞](../Page/伍秀霞.md "wikilink")）
+  - **天婦羅渣Yellow**（　配音：日本：[松浦チエ](https://zh.wikipedia.org/wiki/松浦チエ "wikilink")；香港：[伍秀霞](../Page/伍秀霞.md "wikilink")）
 
 <!-- end list -->
 
@@ -966,7 +966,7 @@
 
 ### ヤミニカクレテイキル銃被験者
 
-  - **須井徹**（　配音：日本：[笹沼晃](../Page/笹沼晃.md "wikilink")；香港：[張裕東](../Page/張裕東.md "wikilink")）
+  - **須井徹**（　配音：日本：[笹沼晃](https://zh.wikipedia.org/wiki/笹沼晃 "wikilink")；香港：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
 <!-- end list -->
 
@@ -975,7 +975,7 @@
 
 <!-- end list -->
 
-  - **原傳真機**（　配音：日本：[田坂秀樹](../Page/田坂秀樹.md "wikilink")）
+  - **原傳真機**（　配音：日本：[田坂秀樹](https://zh.wikipedia.org/wiki/田坂秀樹 "wikilink")）
 
 <!-- end list -->
 
@@ -1029,7 +1029,7 @@
 
 <!-- end list -->
 
-  - **原機關砲**（　配音：日本：[松田健一郎](../Page/松田健一郎.md "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
+  - **原機關砲**（　配音：日本：[松田健一郎](https://zh.wikipedia.org/wiki/松田健一郎 "wikilink")；香港：[梁志達](../Page/梁志達.md "wikilink")）
 
 <!-- end list -->
 
@@ -1040,7 +1040,7 @@
 
 ### [劇場版1](../Page/超劇場版_Keroro軍曹.md "wikilink")
 
-  - **Kiruru**（　配音：日本：[小木矢作](../Page/小木矢作.md "wikilink")；台灣：[吳文民](../Page/吳文民.md "wikilink")）
+  - **Kiruru**（　配音：日本：[小木矢作](https://zh.wikipedia.org/wiki/小木矢作 "wikilink")；台灣：[吳文民](../Page/吳文民.md "wikilink")）
 
 <!-- end list -->
 
@@ -1058,7 +1058,7 @@
 
 ### [劇場版2 深海的公主](../Page/超劇場版_Keroro軍曹_2_深海的公主.md "wikilink")
 
-  - **Meru**（　配音：日本：[桑島法子](../Page/桑島法子.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")）
+  - **Meru**（　配音：日本：[桑島法子](https://zh.wikipedia.org/wiki/桑島法子 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")）
 
 <!-- end list -->
 
@@ -1067,7 +1067,7 @@
 
 <!-- end list -->
 
-  - **Maru**（　配音：日本：[過希美](../Page/過希美.md "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")）
+  - **Maru**（　配音：日本：[過希美](https://zh.wikipedia.org/wiki/過希美 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")）
 
 <!-- end list -->
 
@@ -1144,11 +1144,11 @@
 <!-- end list -->
 
   -
-    黑暗keroro小隊的突擊兵，自稱「仰天大聖」，造型酷似[孫悟空](../Page/孫悟空.md "wikilink")，擅長格鬥戰的熱血K隆星人，以「本山人」稱呼自己，個性十分自大和講話十分長氣，讓Tamama非常瞧不起他也跟他槓上，後來被Tamama打敗。最後與Doruru跟隨黑暗Keroro落腳在天線地球。
+    黑暗keroro小隊的突擊兵，自稱「仰天大聖」，造型酷似[孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink")，擅長格鬥戰的熱血K隆星人，以「本山人」稱呼自己，個性十分自大和講話十分長氣，讓Tamama非常瞧不起他也跟他槓上，後來被Tamama打敗。最後與Doruru跟隨黑暗Keroro落腳在天線地球。
 
 <!-- end list -->
 
-  - **Doruru**（　配音：日本：[ルー大柴](../Page/ルー大柴.md "wikilink")；台灣：[吳文民](../Page/吳文民.md "wikilink")；香港：[黎美言](../Page/黎美言.md "wikilink")）
+  - **Doruru**（　配音：日本：[ルー大柴](https://zh.wikipedia.org/wiki/ルー大柴 "wikilink")；台灣：[吳文民](../Page/吳文民.md "wikilink")；香港：[黎美言](../Page/黎美言.md "wikilink")）
 
 <!-- end list -->
 
@@ -1166,7 +1166,7 @@
 
 <!-- end list -->
 
-  - **娜絲卡**（　配音：日本：[福田沙紀](../Page/福田沙紀.md "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[張惠雅](../Page/張惠雅.md "wikilink")）
+  - **娜絲卡**（　配音：日本：[福田沙紀](https://zh.wikipedia.org/wiki/福田沙紀 "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[張惠雅](../Page/張惠雅.md "wikilink")）
 
 <!-- end list -->
 
@@ -1185,12 +1185,12 @@
 ### [劇場版4 龍勇士的逆襲](../Page/超劇場版_Keroro軍曹_4_逆襲的龍勇士.md "wikilink")
 
   - **希恩**（　
-    配音：日本：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣：[林美秀](../Page/林美秀.md "wikilink")；香港：[張紋嘉](../Page/張紋嘉.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（動畫版））
+    配音：日本：[水樹奈奈](../Page/水樹奈奈.md "wikilink")；台灣：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")；香港：[張紋嘉](../Page/張紋嘉.md "wikilink")、[張頌欣](../Page/張頌欣.md "wikilink")（動畫版））
 
 <!-- end list -->
 
   -
-    劇場版限定人物，全名為**裴利希達·希恩·德拉君**（フェリシタシオン·ドゥ·ドラクーン），希恩為小名。[法國富豪家族](../Page/法國.md "wikilink")－德拉君家的千金大小姐，與桃華一樣同為獨生女，雙親於一年前身亡。是桃華的兒時玩伴，因此西澤家與德拉君家兩家可說是世交。持有家族代代相傳的「龍之書」，能唸出書本內的咒文使K隆星人變成龍。
+    劇場版限定人物，全名為**裴利希達·希恩·德拉君**（フェリシタシオン·ドゥ·ドラクーン），希恩為小名。[法國富豪家族](https://zh.wikipedia.org/wiki/法國 "wikilink")－德拉君家的千金大小姐，與桃華一樣同為獨生女，雙親於一年前身亡。是桃華的兒時玩伴，因此西澤家與德拉君家兩家可說是世交。持有家族代代相傳的「龍之書」，能唸出書本內的咒文使K隆星人變成龍。
     後於動畫第356集再度登場，Keroro小隊經由Galulu小隊的隊長－Galulu中尉口中得知K隆星正遭遇強大的敵人侵略，為了拯救故鄉，請她前來日本將他們變成龍。
 
 <!-- end list -->
@@ -1263,7 +1263,7 @@
 ### [劇場版5 反轉復活島](../Page/超劇場版_Keroro軍曹_5_誕生！究極Keroro奇蹟的時空之島！！.md "wikilink")
 
   - **伊歐與拉娜**（
-    配音：日本：[本城雄太郎](../Page/本城雄太郎.md "wikilink")（イオ）／[松元環季](../Page/松元環季.md "wikilink")（ラナ））
+    配音：日本：[本城雄太郎](https://zh.wikipedia.org/wiki/本城雄太郎 "wikilink")（イオ）／[松元環季](https://zh.wikipedia.org/wiki/松元環季 "wikilink")（ラナ））
 
 <!-- end list -->
 
@@ -1277,12 +1277,12 @@
 <!-- end list -->
 
   -
-    存在[復活島上的傳說中的邪靈](../Page/復活島.md "wikilink")。紫色的靈塊伸出三支手臂，除了中央的大眼睛，有四個小眼睛在旁邊。
+    存在[復活島上的傳說中的邪靈](https://zh.wikipedia.org/wiki/復活島 "wikilink")。紫色的靈塊伸出三支手臂，除了中央的大眼睛，有四個小眼睛在旁邊。
     能吸收他人的知識，加以拷貝能力和形象與自己融合，藉此展現出超凡的力量。
 
 <!-- end list -->
 
-  - **[瑪那](../Page/瑪那.md "wikilink")**
+  - **[瑪那](https://zh.wikipedia.org/wiki/瑪那 "wikilink")**
 
 <!-- end list -->
 
@@ -1298,11 +1298,11 @@
 </div>
 
 [de:Sgt.
-Frog\#Charaktere](../Page/de:Sgt._Frog#Charaktere.md "wikilink")
+Frog\#Charaktere](https://zh.wikipedia.org/wiki/de:Sgt._Frog#Charaktere "wikilink")
 
 [Category:Keroro軍曹登場人物](https://zh.wikipedia.org/wiki/Category:Keroro軍曹登場人物 "wikilink")
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
-1.  漫畫版中睦實經常以「623」作為自己的代表符號，因「」接近「623」；動畫版特有的「」音接近「326（三郎）」，台灣代理商－[曼迪誤把](../Page/曼迪.md "wikilink")「」翻為「睦實（623）」。
-2.  [漫畫第1至15冊，第1至135話。](../Page/Keroro軍曹#發行.md "wikilink")
+1.  漫畫版中睦實經常以「623」作為自己的代表符號，因「」接近「623」；動畫版特有的「」音接近「326（三郎）」，台灣代理商－[曼迪誤把](https://zh.wikipedia.org/wiki/曼迪 "wikilink")「」翻為「睦實（623）」。
+2.  [漫畫第1至15冊，第1至135話。](https://zh.wikipedia.org/wiki/Keroro軍曹#發行 "wikilink")
 3.  [東谷小雪的圖片集](http://www.animecubed.com/galleries/kerorogunso/koyuki/)

@@ -1,10 +1,10 @@
 **東京KAWAII
-TV**（[日語](../Page/日語.md "wikilink")：，[英譯](../Page/英語.md "wikilink")：Tokyo
+TV**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英譯](https://zh.wikipedia.org/wiki/英語 "wikilink")：Tokyo
 Kawaii
-TV）是[日本放送協會的潮流節目](../Page/日本放送協會.md "wikilink")，於[日本時間](../Page/日本時間.md "wikilink")（[UTC+9](../Page/UTC+9.md "wikilink")）每逢星期三0時10分至0時39分播出。2010年5月起，播放時間變更為每逢星期日23時30分至23時59分播出。2010年9月起，播放時間變更為每逢星期六23時00分至23時29分播出。2011年3月起，播放時間再變更為每逢星期六23時05分至23時34分播出。現在的[主持人是](../Page/主持人.md "wikilink")[澤村一樹和](../Page/澤村一樹.md "wikilink")[BENI](../Page/BENI.md "wikilink")。Kawaii
-TV的固定[模特兒是](../Page/模特兒.md "wikilink")[紗耶](../Page/紗耶.md "wikilink")。
+TV）是[日本放送協會的潮流節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，於[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）每逢星期三0時10分至0時39分播出。2010年5月起，播放時間變更為每逢星期日23時30分至23時59分播出。2010年9月起，播放時間變更為每逢星期六23時00分至23時29分播出。2011年3月起，播放時間再變更為每逢星期六23時05分至23時34分播出。現在的[主持人是](https://zh.wikipedia.org/wiki/主持人 "wikilink")[澤村一樹和](../Page/澤村一樹.md "wikilink")[BENI](../Page/BENI.md "wikilink")。Kawaii
+TV的固定[模特兒是](../Page/模特兒.md "wikilink")[紗耶](https://zh.wikipedia.org/wiki/紗耶 "wikilink")。
 
-由於該節目以[日本](../Page/日本.md "wikilink")[潮流指標為節目內容](../Page/潮流.md "wikilink")，在日本以外地區亦有播出。2008年7月起，開始於香港[無綫電視](../Page/無綫電視.md "wikilink")[J2台播出](../Page/J2台.md "wikilink")（目前較日本慢約兩個月）；同年12月於[香港](../Page/香港.md "wikilink")[無綫生活台播出](../Page/無綫生活台.md "wikilink")。日本於2013年3月23日播放完畢。
+由於該節目以[日本](../Page/日本.md "wikilink")[潮流指標為節目內容](https://zh.wikipedia.org/wiki/潮流 "wikilink")，在日本以外地區亦有播出。2008年7月起，開始於香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播出](https://zh.wikipedia.org/wiki/J2台 "wikilink")（目前較日本慢約兩個月）；同年12月於[香港](../Page/香港.md "wikilink")[無綫生活台播出](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")。日本於2013年3月23日播放完畢。
 
 ## 節目介紹
 
@@ -18,94 +18,94 @@ Tokyo Kawaii TV 節目每週播出不同種類的歌曲。(詳情請瀏覽官方
 
 #### 2009年3月4日
 
-|                                                                                    |                                                                                    |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 曲名                                                                                 | 歌手名                                                                                |
-| [THAT' NOT MY NAME](../Page/THAT'_NOT_MY_NAME.md "wikilink")                       | [THE TING TINGS](../Page/THE_TING_TINGS.md "wikilink")                             |
-| [LET'S GET MOVIN' INTO ACTION](../Page/LET'S_GET_MOVIN'_INTO_ACTION.md "wikilink") | [SKYE SWEETNAM](../Page/SKYE_SWEETNAM.md "wikilink")                               |
-| [MMM PAPI](../Page/MMM_PAPI.md "wikilink")                                         | [BRITNEY SPEARS](../Page/BRITNEY_SPEARS.md "wikilink")                             |
-| [MAHALA RAI BANDA](../Page/MAHALA_RAI_BANDA.md "wikilink")                         | [Spoitoresa](../Page/Spoitoresa.md "wikilink")                                     |
-| [Hung Up (オープニング＆エンディング）](../Page/Hung_Up_\(オープニング＆エンディング）.md "wikilink")          | [MADONNA](../Page/MADONNA.md "wikilink")                                           |
-| [The Piston Cup](../Page/The_Piston_Cup.md "wikilink")                             | [Orijinal Soundtrack](../Page/Orijinal_Soundtrack.md "wikilink")                   |
-| [GREENS AND BEANS](../Page/GREENS_AND_BEANS.md "wikilink")                         | \-                                                                                 |
-| [EVERYDAY](../Page/EVERYDAY.md "wikilink")                                         | [SHY FX & T POWER](../Page/SHY_FX_&_T_POWER.md "wikilink")                         |
-| [The Deuce Arrives](../Page/The_Deuce_Arrives.md "wikilink")                       | [Stephen Endelman](../Page/Stephen_Endelman.md "wikilink")                         |
-| [Unidentified B](../Page/Unidentified_B.md "wikilink")                             | [Tim Juckes](../Page/Tim_Juckes.md "wikilink")                                     |
-| [Fatback](../Page/Fatback.md "wikilink")                                           | [NAKATUKA TAKESHI](../Page/NAKATUKA_TAKESHI.md "wikilink")                         |
-| [Incredible](../Page/Incredible.md "wikilink")                                     | [MADONNA](../Page/MADONNA.md "wikilink")                                           |
-| [Here We Go](../Page/Here_We_Go.md "wikilink")                                     | [PLUMP DJS](../Page/PLUMP_DJS.md "wikilink")                                       |
-| [FREE](../Page/FREE.md "wikilink")                                                 | [Giovanca](../Page/Giovanca.md "wikilink")                                         |
-| [Vittles](../Page/Vittles.md "wikilink")                                           | \-                                                                                 |
-| [Circle of Life](../Page/Circle_of_Life.md "wikilink")                             | [CARMEN TWILLIE](../Page/CARMEN_TWILLIE.md "wikilink")                             |
-| [DOOBIDOO](../Page/DOOBIDOO.md "wikilink")                                         | \-                                                                                 |
-| [COMEBACK](../Page/COMEBACK.md "wikilink")                                         | [MS.Kelly](../Page/MS.Kelly.md "wikilink")                                         |
-| [バイレロ～オーヴェルニュの歌](../Page/バイレロ～オーヴェルニュの歌.md "wikilink")                             | [ケイト・ロイヤル](../Page/ケイト・ロイヤル.md "wikilink")                                         |
-| [２つのマズルカ](../Page/２つのマズルカ.md "wikilink")                                           | [ボスコフスキー合奏団](../Page/ボスコフスキー合奏団.md "wikilink")                                     |
-| [Heater](../Page/Heater.md "wikilink")                                             | [Samim](../Page/Samim.md "wikilink")                                               |
-| [MY EVERYTHING](../Page/MY_EVERYTHING.md "wikilink")                               | [COLLIE BUDDZ](../Page/COLLIE_BUDDZ.md "wikilink")                                 |
-| [UNIVERSAL SPEECH](../Page/UNIVERSAL_SPEECH.md "wikilink")                         | [The go Team](../Page/The_go_Team.md "wikilink")                                   |
-| [Let It All Ride](../Page/Let_It_All_Ride.md "wikilink")                           | [KEN・ISHII](../Page/KEN・ISHII.md "wikilink")                                       |
-| [Ｖisionry Word](../Page/Ｖisionry_Word.md "wikilink")                               | [KEN・ISHII](../Page/KEN・ISHII.md "wikilink")                                       |
-| [SWING VILLAGE](../Page/SWING_VILLAGE.md "wikilink")                               | \-                                                                                 |
-| [Future is What we are](../Page/Future_is_What_we_are.md "wikilink")               | [KEN・ISHII](../Page/KEN・ISHII.md "wikilink")                                       |
-| [お散歩です](../Page/お散歩です.md "wikilink")                                               | [栗コーダーポップスオーケストラ](../Page/栗コーダーポップスオーケストラ.md "wikilink")                           |
-| [BOUT](../Page/BOUT.md "wikilink")                                                 | [JAMELIA](../Page/JAMELIA.md "wikilink")                                           |
-| [BABY,I LOVE YOUR WAY](../Page/BABY,I_LOVE_YOUR_WAY.md "wikilink")                 | [BEN](../Page/BEN.md "wikilink")                                                   |
-| [RIDING IOREK](../Page/RIDING_IOREK.md "wikilink")                                 | [Orijinal Soundtrack](../Page/Orijinal_Soundtrack.md "wikilink")                   |
-| [よさこい鳴子踊り](../Page/よさこい鳴子踊り.md "wikilink")                                         | [曽我　了子](../Page/曽我_了子.md "wikilink")                                               |
-| [どっこい珍道中](../Page/どっこい珍道中.md "wikilink")                                           | \-                                                                                 |
-| [Cotton Fields](../Page/Cotton_Fields.md "wikilink")                               | [CREEDENCE CLEARWATER REVIVAL](../Page/CREEDENCE_CLEARWATER_REVIVAL.md "wikilink") |
-| [HOUSE CONSTRUCTORS](../Page/HOUSE_CONSTRUCTORS.md "wikilink")                     | \-                                                                                 |
-| [BIG PRIZE (THE)](../Page/BIG_PRIZE_\(THE\).md "wikilink")                         | \-                                                                                 |
-| [Strange Action](../Page/Strange_Action.md "wikilink")                             | \-                                                                                 |
-| [FUNKY NINJA](../Page/FUNKY_NINJA.md "wikilink")                                   | \-                                                                                 |
-| [Question Two C](../Page/Question_Two_C.md "wikilink")                             | \-                                                                                 |
-| [BUSTERNESS](../Page/BUSTERNESS.md "wikilink")                                     | \-                                                                                 |
-| [ELLE PROTOTYPES](../Page/ELLE_PROTOTYPES.md "wikilink")                           | \-                                                                                 |
-| [I'LL BE LOVIN' U LONG TIME](../Page/I'LL_BE_LOVIN'_U_LONG_TIME.md "wikilink")     | [MARIAH CAREY](../Page/MARIAH_CAREY.md "wikilink")                                 |
-| [BEAUTIFUL](../Page/BEAUTIFUL.md "wikilink")                                       | [AKON](../Page/AKON.md "wikilink")                                                 |
-| [PLAYBOY ON THE TOWN](../Page/PLAYBOY_ON_THE_TOWN.md "wikilink")                   | \-                                                                                 |
-| [HAPPY BIRTHDAY](../Page/HAPPY_BIRTHDAY.md "wikilink")                             | [生演奏](../Page/生演奏.md "wikilink")                                                   |
-| [More'](../Page/More'.md "wikilink")                                               | [MADONNA](../Page/MADONNA.md "wikilink")                                           |
+|                                                                                                       |                                                                                                       |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 曲名                                                                                                    | 歌手名                                                                                                   |
+| [THAT' NOT MY NAME](https://zh.wikipedia.org/wiki/THAT'_NOT_MY_NAME "wikilink")                       | [THE TING TINGS](https://zh.wikipedia.org/wiki/THE_TING_TINGS "wikilink")                             |
+| [LET'S GET MOVIN' INTO ACTION](https://zh.wikipedia.org/wiki/LET'S_GET_MOVIN'_INTO_ACTION "wikilink") | [SKYE SWEETNAM](https://zh.wikipedia.org/wiki/SKYE_SWEETNAM "wikilink")                               |
+| [MMM PAPI](https://zh.wikipedia.org/wiki/MMM_PAPI "wikilink")                                         | [BRITNEY SPEARS](https://zh.wikipedia.org/wiki/BRITNEY_SPEARS "wikilink")                             |
+| [MAHALA RAI BANDA](https://zh.wikipedia.org/wiki/MAHALA_RAI_BANDA "wikilink")                         | [Spoitoresa](https://zh.wikipedia.org/wiki/Spoitoresa "wikilink")                                     |
+| [Hung Up (オープニング＆エンディング）](https://zh.wikipedia.org/wiki/Hung_Up_\(オープニング＆エンディング） "wikilink")          | [MADONNA](https://zh.wikipedia.org/wiki/MADONNA "wikilink")                                           |
+| [The Piston Cup](https://zh.wikipedia.org/wiki/The_Piston_Cup "wikilink")                             | [Orijinal Soundtrack](https://zh.wikipedia.org/wiki/Orijinal_Soundtrack "wikilink")                   |
+| [GREENS AND BEANS](https://zh.wikipedia.org/wiki/GREENS_AND_BEANS "wikilink")                         | \-                                                                                                    |
+| [EVERYDAY](https://zh.wikipedia.org/wiki/EVERYDAY "wikilink")                                         | [SHY FX & T POWER](https://zh.wikipedia.org/wiki/SHY_FX_&_T_POWER "wikilink")                         |
+| [The Deuce Arrives](https://zh.wikipedia.org/wiki/The_Deuce_Arrives "wikilink")                       | [Stephen Endelman](https://zh.wikipedia.org/wiki/Stephen_Endelman "wikilink")                         |
+| [Unidentified B](https://zh.wikipedia.org/wiki/Unidentified_B "wikilink")                             | [Tim Juckes](https://zh.wikipedia.org/wiki/Tim_Juckes "wikilink")                                     |
+| [Fatback](https://zh.wikipedia.org/wiki/Fatback "wikilink")                                           | [NAKATUKA TAKESHI](https://zh.wikipedia.org/wiki/NAKATUKA_TAKESHI "wikilink")                         |
+| [Incredible](https://zh.wikipedia.org/wiki/Incredible "wikilink")                                     | [MADONNA](https://zh.wikipedia.org/wiki/MADONNA "wikilink")                                           |
+| [Here We Go](https://zh.wikipedia.org/wiki/Here_We_Go "wikilink")                                     | [PLUMP DJS](https://zh.wikipedia.org/wiki/PLUMP_DJS "wikilink")                                       |
+| [FREE](https://zh.wikipedia.org/wiki/FREE "wikilink")                                                 | [Giovanca](https://zh.wikipedia.org/wiki/Giovanca "wikilink")                                         |
+| [Vittles](https://zh.wikipedia.org/wiki/Vittles "wikilink")                                           | \-                                                                                                    |
+| [Circle of Life](https://zh.wikipedia.org/wiki/Circle_of_Life "wikilink")                             | [CARMEN TWILLIE](https://zh.wikipedia.org/wiki/CARMEN_TWILLIE "wikilink")                             |
+| [DOOBIDOO](https://zh.wikipedia.org/wiki/DOOBIDOO "wikilink")                                         | \-                                                                                                    |
+| [COMEBACK](https://zh.wikipedia.org/wiki/COMEBACK "wikilink")                                         | [MS.Kelly](https://zh.wikipedia.org/wiki/MS.Kelly "wikilink")                                         |
+| [バイレロ～オーヴェルニュの歌](https://zh.wikipedia.org/wiki/バイレロ～オーヴェルニュの歌 "wikilink")                             | [ケイト・ロイヤル](https://zh.wikipedia.org/wiki/ケイト・ロイヤル "wikilink")                                         |
+| [２つのマズルカ](https://zh.wikipedia.org/wiki/２つのマズルカ "wikilink")                                           | [ボスコフスキー合奏団](https://zh.wikipedia.org/wiki/ボスコフスキー合奏団 "wikilink")                                     |
+| [Heater](https://zh.wikipedia.org/wiki/Heater "wikilink")                                             | [Samim](https://zh.wikipedia.org/wiki/Samim "wikilink")                                               |
+| [MY EVERYTHING](https://zh.wikipedia.org/wiki/MY_EVERYTHING "wikilink")                               | [COLLIE BUDDZ](https://zh.wikipedia.org/wiki/COLLIE_BUDDZ "wikilink")                                 |
+| [UNIVERSAL SPEECH](https://zh.wikipedia.org/wiki/UNIVERSAL_SPEECH "wikilink")                         | [The go Team](https://zh.wikipedia.org/wiki/The_go_Team "wikilink")                                   |
+| [Let It All Ride](https://zh.wikipedia.org/wiki/Let_It_All_Ride "wikilink")                           | [KEN・ISHII](https://zh.wikipedia.org/wiki/KEN・ISHII "wikilink")                                       |
+| [Ｖisionry Word](https://zh.wikipedia.org/wiki/Ｖisionry_Word "wikilink")                               | [KEN・ISHII](https://zh.wikipedia.org/wiki/KEN・ISHII "wikilink")                                       |
+| [SWING VILLAGE](https://zh.wikipedia.org/wiki/SWING_VILLAGE "wikilink")                               | \-                                                                                                    |
+| [Future is What we are](https://zh.wikipedia.org/wiki/Future_is_What_we_are "wikilink")               | [KEN・ISHII](https://zh.wikipedia.org/wiki/KEN・ISHII "wikilink")                                       |
+| [お散歩です](https://zh.wikipedia.org/wiki/お散歩です "wikilink")                                               | [栗コーダーポップスオーケストラ](https://zh.wikipedia.org/wiki/栗コーダーポップスオーケストラ "wikilink")                           |
+| [BOUT](https://zh.wikipedia.org/wiki/BOUT "wikilink")                                                 | [JAMELIA](https://zh.wikipedia.org/wiki/JAMELIA "wikilink")                                           |
+| [BABY,I LOVE YOUR WAY](https://zh.wikipedia.org/wiki/BABY,I_LOVE_YOUR_WAY "wikilink")                 | [BEN](https://zh.wikipedia.org/wiki/BEN "wikilink")                                                   |
+| [RIDING IOREK](https://zh.wikipedia.org/wiki/RIDING_IOREK "wikilink")                                 | [Orijinal Soundtrack](https://zh.wikipedia.org/wiki/Orijinal_Soundtrack "wikilink")                   |
+| [よさこい鳴子踊り](https://zh.wikipedia.org/wiki/よさこい鳴子踊り "wikilink")                                         | [曽我　了子](https://zh.wikipedia.org/wiki/曽我_了子 "wikilink")                                               |
+| [どっこい珍道中](https://zh.wikipedia.org/wiki/どっこい珍道中 "wikilink")                                           | \-                                                                                                    |
+| [Cotton Fields](https://zh.wikipedia.org/wiki/Cotton_Fields "wikilink")                               | [CREEDENCE CLEARWATER REVIVAL](https://zh.wikipedia.org/wiki/CREEDENCE_CLEARWATER_REVIVAL "wikilink") |
+| [HOUSE CONSTRUCTORS](https://zh.wikipedia.org/wiki/HOUSE_CONSTRUCTORS "wikilink")                     | \-                                                                                                    |
+| [BIG PRIZE (THE)](https://zh.wikipedia.org/wiki/BIG_PRIZE_\(THE\) "wikilink")                         | \-                                                                                                    |
+| [Strange Action](https://zh.wikipedia.org/wiki/Strange_Action "wikilink")                             | \-                                                                                                    |
+| [FUNKY NINJA](https://zh.wikipedia.org/wiki/FUNKY_NINJA "wikilink")                                   | \-                                                                                                    |
+| [Question Two C](https://zh.wikipedia.org/wiki/Question_Two_C "wikilink")                             | \-                                                                                                    |
+| [BUSTERNESS](https://zh.wikipedia.org/wiki/BUSTERNESS "wikilink")                                     | \-                                                                                                    |
+| [ELLE PROTOTYPES](https://zh.wikipedia.org/wiki/ELLE_PROTOTYPES "wikilink")                           | \-                                                                                                    |
+| [I'LL BE LOVIN' U LONG TIME](https://zh.wikipedia.org/wiki/I'LL_BE_LOVIN'_U_LONG_TIME "wikilink")     | [MARIAH CAREY](https://zh.wikipedia.org/wiki/MARIAH_CAREY "wikilink")                                 |
+| [BEAUTIFUL](https://zh.wikipedia.org/wiki/BEAUTIFUL "wikilink")                                       | [AKON](https://zh.wikipedia.org/wiki/AKON "wikilink")                                                 |
+| [PLAYBOY ON THE TOWN](https://zh.wikipedia.org/wiki/PLAYBOY_ON_THE_TOWN "wikilink")                   | \-                                                                                                    |
+| [HAPPY BIRTHDAY](https://zh.wikipedia.org/wiki/HAPPY_BIRTHDAY "wikilink")                             | [生演奏](https://zh.wikipedia.org/wiki/生演奏 "wikilink")                                                   |
+| [More'](https://zh.wikipedia.org/wiki/More' "wikilink")                                               | [MADONNA](https://zh.wikipedia.org/wiki/MADONNA "wikilink")                                           |
 
 #### 2009年3月11日
 
-|                                                                           |                                                                      |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 曲名                                                                        | 歌手名                                                                  |
-| [Rock N Roll](../Page/Rock_N_Roll.md "wikilink")                          | [REMI NICOLE](../Page/REMI_NICOLE.md "wikilink")                     |
-| [Hung Up (オープニング＆エンディング）](../Page/Hung_Up_\(オープニング＆エンディング）.md "wikilink") | [MADONNA](../Page/MADONNA.md "wikilink")                             |
-| [CONCERTO POUR UNK VOIX](../Page/CONCERTO_POUR_UNK_VOIX.md "wikilink")    | [Danielle Licari](../Page/Danielle_Licari.md "wikilink")             |
-| [wind it up](../Page/wind_it_up.md "wikilink")                            | [Gwen Stefani](../Page/Gwen_Stefani.md "wikilink")                   |
-| [DON'T WORRY BE HAPPY](../Page/DON'T_WORRY_BE_HAPPY.md "wikilink")        | [HOLLY DOLLY](../Page/HOLLY_DOLLY.md "wikilink")                     |
-| [groper](../Page/groper.md "wikilink")                                    | [KOFTA](../Page/KOFTA.md "wikilink")                                 |
-| [Say It](../Page/Say_It.md "wikilink")                                    | [Rihanna](../Page/Rihanna.md "wikilink")                             |
-| [SAND CASTLE DISCO](../Page/SAND_CASTLE_DISCO.md "wikilink")              | [SOLANGE](../Page/SOLANGE.md "wikilink")                             |
-| [ラムのラブソング](../Page/ラムのラブソング.md "wikilink")                                | [松谷祐子](../Page/松谷祐子.md "wikilink")                                   |
-| [しあわせフェリー](../Page/しあわせフェリー.md "wikilink")                                | [suenaga naomi](../Page/suenaga_naomi.md "wikilink")                 |
-| [First Love](../Page/First_Love.md "wikilink")                            | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                               |
-| [The belle of the ball](../Page/The_belle_of_the_ball.md "wikilink")      | [大森俊之](../Page/大森俊之.md "wikilink")                                   |
-| [Everybody Be Somebody](../Page/Everybody_Be_Somebody.md "wikilink")      | [Ruffneck Feat. Yavahn](../Page/Ruffneck_Feat._Yavahn.md "wikilink") |
-| [YOU](../Page/YOU.md "wikilink")                                          | [Voice Mail](../Page/Voice_Mail.md "wikilink")                       |
-| [What's in the middle](../Page/What's_in_the_middle.md "wikilink")        | [THE BIRD AND THE BEE](../Page/THE_BIRD_AND_THE_BEE.md "wikilink")   |
-| [THEME(LOOK TWO)](../Page/THEME\(LOOK_TWO\).md "wikilink")                | [TREVOR RABIN](../Page/TREVOR_RABIN.md "wikilink")                   |
-| [La Gazza Ladra](../Page/La_Gazza_Ladra.md "wikilink")                    | [Original Score](../Page/Original_Score.md "wikilink")               |
-| [SUNSHINE GIRL](../Page/SUNSHINE_GIRL.md "wikilink")                      | [Britt Nicole](../Page/Britt_Nicole.md "wikilink")                   |
-| [愛はきらめきの中に](../Page/愛はきらめきの中に.md "wikilink")                              | [THE BIRD AND THE BEE](../Page/THE_BIRD_AND_THE_BEE.md "wikilink")   |
-| [MANY THE MILES](../Page/MANY_THE_MILES.md "wikilink")                    | [sara bareilles](../Page/sara_bareilles.md "wikilink")               |
-| [Birds](../Page/Birds.md "wikilink")                                      | [Free TEMPO](../Page/Free_TEMPO.md "wikilink")                       |
-| [Struggle](../Page/Struggle.md "wikilink")                                | [Ashanti](../Page/Ashanti.md "wikilink")                             |
-| [Punk Rock Star](../Page/Punk_Rock_Star.md "wikilink")                    | [Shonen Knife](../Page/Shonen_Knife.md "wikilink")                   |
-| [愛のバラード](../Page/愛のバラード.md "wikilink")                                    | [大野雄二プロジェクト](../Page/大野雄二プロジェクト.md "wikilink")                       |
-| [KINDA KINKY](../Page/KINDA_KINKY.md "wikilink")                          | [URSULA 1000](../Page/URSULA_1000.md "wikilink")                     |
-| [GOTTA BE THERE](../Page/GOTTA_BE_THERE.md "wikilink")                    | [JENNIFER LOPEZ](../Page/JENNIFER_LOPEZ.md "wikilink")               |
-| [BEWARE OF THE DOG](../Page/BEWARE_OF_THE_DOG.md "wikilink")              | [Jameli Davis](../Page/Jameli_Davis.md "wikilink")                   |
-| [Falling Down](../Page/Falling_Down.md "wikilink")                        | [Gabriele Roberto](../Page/Gabriele_Roberto.md "wikilink")           |
-| [Mushroom](../Page/Mushroom.md "wikilink")                                | [murmur](../Page/murmur.md "wikilink")                               |
-| [Black Barbie](../Page/Black_Barbie.md "wikilink")                        | [Little Jackie](../Page/Little_Jackie.md "wikilink")                 |
-| [LOLLIPOP](../Page/LOLLIPOP.md "wikilink")                                | [HOLLY DOLLY](../Page/HOLLY_DOLLY.md "wikilink")                     |
-| [A WORD FOR YOU](../Page/A_WORD_FOR_YOU.md "wikilink")                    | [CLIQUE GIRLS](../Page/CLIQUE_GIRLS.md "wikilink")                   |
-| [More'](../Page/More'.md "wikilink")                                      | [MADONNA](../Page/MADONNA.md "wikilink")                             |
+|                                                                                              |                                                                                         |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 曲名                                                                                           | 歌手名                                                                                     |
+| [Rock N Roll](https://zh.wikipedia.org/wiki/Rock_N_Roll "wikilink")                          | [REMI NICOLE](https://zh.wikipedia.org/wiki/REMI_NICOLE "wikilink")                     |
+| [Hung Up (オープニング＆エンディング）](https://zh.wikipedia.org/wiki/Hung_Up_\(オープニング＆エンディング） "wikilink") | [MADONNA](https://zh.wikipedia.org/wiki/MADONNA "wikilink")                             |
+| [CONCERTO POUR UNK VOIX](https://zh.wikipedia.org/wiki/CONCERTO_POUR_UNK_VOIX "wikilink")    | [Danielle Licari](https://zh.wikipedia.org/wiki/Danielle_Licari "wikilink")             |
+| [wind it up](https://zh.wikipedia.org/wiki/wind_it_up "wikilink")                            | [Gwen Stefani](https://zh.wikipedia.org/wiki/Gwen_Stefani "wikilink")                   |
+| [DON'T WORRY BE HAPPY](https://zh.wikipedia.org/wiki/DON'T_WORRY_BE_HAPPY "wikilink")        | [HOLLY DOLLY](https://zh.wikipedia.org/wiki/HOLLY_DOLLY "wikilink")                     |
+| [groper](https://zh.wikipedia.org/wiki/groper "wikilink")                                    | [KOFTA](https://zh.wikipedia.org/wiki/KOFTA "wikilink")                                 |
+| [Say It](https://zh.wikipedia.org/wiki/Say_It "wikilink")                                    | [Rihanna](https://zh.wikipedia.org/wiki/Rihanna "wikilink")                             |
+| [SAND CASTLE DISCO](https://zh.wikipedia.org/wiki/SAND_CASTLE_DISCO "wikilink")              | [SOLANGE](https://zh.wikipedia.org/wiki/SOLANGE "wikilink")                             |
+| [ラムのラブソング](https://zh.wikipedia.org/wiki/ラムのラブソング "wikilink")                                | [松谷祐子](https://zh.wikipedia.org/wiki/松谷祐子 "wikilink")                                   |
+| [しあわせフェリー](https://zh.wikipedia.org/wiki/しあわせフェリー "wikilink")                                | [suenaga naomi](https://zh.wikipedia.org/wiki/suenaga_naomi "wikilink")                 |
+| [First Love](https://zh.wikipedia.org/wiki/First_Love "wikilink")                            | [宇多田ヒカル](https://zh.wikipedia.org/wiki/宇多田ヒカル "wikilink")                               |
+| [The belle of the ball](https://zh.wikipedia.org/wiki/The_belle_of_the_ball "wikilink")      | [大森俊之](https://zh.wikipedia.org/wiki/大森俊之 "wikilink")                                   |
+| [Everybody Be Somebody](https://zh.wikipedia.org/wiki/Everybody_Be_Somebody "wikilink")      | [Ruffneck Feat. Yavahn](https://zh.wikipedia.org/wiki/Ruffneck_Feat._Yavahn "wikilink") |
+| [YOU](https://zh.wikipedia.org/wiki/YOU "wikilink")                                          | [Voice Mail](https://zh.wikipedia.org/wiki/Voice_Mail "wikilink")                       |
+| [What's in the middle](https://zh.wikipedia.org/wiki/What's_in_the_middle "wikilink")        | [THE BIRD AND THE BEE](https://zh.wikipedia.org/wiki/THE_BIRD_AND_THE_BEE "wikilink")   |
+| [THEME(LOOK TWO)](https://zh.wikipedia.org/wiki/THEME\(LOOK_TWO\) "wikilink")                | [TREVOR RABIN](https://zh.wikipedia.org/wiki/TREVOR_RABIN "wikilink")                   |
+| [La Gazza Ladra](https://zh.wikipedia.org/wiki/La_Gazza_Ladra "wikilink")                    | [Original Score](https://zh.wikipedia.org/wiki/Original_Score "wikilink")               |
+| [SUNSHINE GIRL](https://zh.wikipedia.org/wiki/SUNSHINE_GIRL "wikilink")                      | [Britt Nicole](https://zh.wikipedia.org/wiki/Britt_Nicole "wikilink")                   |
+| [愛はきらめきの中に](https://zh.wikipedia.org/wiki/愛はきらめきの中に "wikilink")                              | [THE BIRD AND THE BEE](https://zh.wikipedia.org/wiki/THE_BIRD_AND_THE_BEE "wikilink")   |
+| [MANY THE MILES](https://zh.wikipedia.org/wiki/MANY_THE_MILES "wikilink")                    | [sara bareilles](https://zh.wikipedia.org/wiki/sara_bareilles "wikilink")               |
+| [Birds](https://zh.wikipedia.org/wiki/Birds "wikilink")                                      | [Free TEMPO](https://zh.wikipedia.org/wiki/Free_TEMPO "wikilink")                       |
+| [Struggle](https://zh.wikipedia.org/wiki/Struggle "wikilink")                                | [Ashanti](https://zh.wikipedia.org/wiki/Ashanti "wikilink")                             |
+| [Punk Rock Star](https://zh.wikipedia.org/wiki/Punk_Rock_Star "wikilink")                    | [Shonen Knife](https://zh.wikipedia.org/wiki/Shonen_Knife "wikilink")                   |
+| [愛のバラード](https://zh.wikipedia.org/wiki/愛のバラード "wikilink")                                    | [大野雄二プロジェクト](https://zh.wikipedia.org/wiki/大野雄二プロジェクト "wikilink")                       |
+| [KINDA KINKY](https://zh.wikipedia.org/wiki/KINDA_KINKY "wikilink")                          | [URSULA 1000](https://zh.wikipedia.org/wiki/URSULA_1000 "wikilink")                     |
+| [GOTTA BE THERE](https://zh.wikipedia.org/wiki/GOTTA_BE_THERE "wikilink")                    | [JENNIFER LOPEZ](https://zh.wikipedia.org/wiki/JENNIFER_LOPEZ "wikilink")               |
+| [BEWARE OF THE DOG](https://zh.wikipedia.org/wiki/BEWARE_OF_THE_DOG "wikilink")              | [Jameli Davis](https://zh.wikipedia.org/wiki/Jameli_Davis "wikilink")                   |
+| [Falling Down](../Page/Falling_Down.md "wikilink")                                           | [Gabriele Roberto](https://zh.wikipedia.org/wiki/Gabriele_Roberto "wikilink")           |
+| [Mushroom](https://zh.wikipedia.org/wiki/Mushroom "wikilink")                                | [murmur](https://zh.wikipedia.org/wiki/murmur "wikilink")                               |
+| [Black Barbie](https://zh.wikipedia.org/wiki/Black_Barbie "wikilink")                        | [Little Jackie](https://zh.wikipedia.org/wiki/Little_Jackie "wikilink")                 |
+| [LOLLIPOP](https://zh.wikipedia.org/wiki/LOLLIPOP "wikilink")                                | [HOLLY DOLLY](https://zh.wikipedia.org/wiki/HOLLY_DOLLY "wikilink")                     |
+| [A WORD FOR YOU](https://zh.wikipedia.org/wiki/A_WORD_FOR_YOU "wikilink")                    | [CLIQUE GIRLS](https://zh.wikipedia.org/wiki/CLIQUE_GIRLS "wikilink")                   |
+| [More'](https://zh.wikipedia.org/wiki/More' "wikilink")                                      | [MADONNA](https://zh.wikipedia.org/wiki/MADONNA "wikilink")                             |
 
 ## 每集標題
 

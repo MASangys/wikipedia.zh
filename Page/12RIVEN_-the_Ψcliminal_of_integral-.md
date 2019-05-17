@@ -1,6 +1,6 @@
 《**12RIVEN -the Ψcliminal of integral-**》，是一款在2008年3月13日發行的[PlayStation
-2遊戲](../Page/PlayStation_2.md "wikilink")\[1\]，簡稱「12RIVEN」或「12R」。[PC版在同年](../Page/PC.md "wikilink")4月4日推出。\[2\]原為「[infinity](../Page/无限轮回.md "wikilink")」系列的第四作，不過製作的[KID公司於](../Page/KID.md "wikilink")2006年12月結業，令遊戲開發一度中斷；直至2007年2月[CyberFront公司購入](../Page/CyberFront.md "wikilink")[KID公司遊戲代理版權](../Page/KID.md "wikilink")，並繼續開發本遊戲，令本作能夠順利推出。繁體中文化版本發行權由[台灣](../Page/台灣.md "wikilink")[光譜資訊获得](../Page/光譜資訊.md "wikilink")，暫定於2008年第二季發行。簡體中文版則由[北京娛樂通放棄代理后](../Page/北京娛樂通.md "wikilink")，由北京光譜資訊代理,2009年9月30日以**12r跳跃的时空**的名称发售。和前作[Remember11的简体中文版一样](../Page/Remember11.md "wikilink")，本简体中文版基于PlayStation
-2模拟器。值得注意的是，在安装光盘中含有两个疑似古月引擎脚本的文本程序，声称编写于2009年9月17日，作者为[胡颖卓和](../Page/胡颖卓.md "wikilink")[北京娱乐通](../Page/北京娱乐通.md "wikilink")。这说明娱乐通公司也参与了本作的中文化工作。本作及[infinity系列三作的PC版的合集](../Page/无限轮回.md "wikilink")《Infinity
+2遊戲](../Page/PlayStation_2.md "wikilink")\[1\]，簡稱「12RIVEN」或「12R」。[PC版在同年](../Page/PC.md "wikilink")4月4日推出。\[2\]原為「[infinity](../Page/无限轮回.md "wikilink")」系列的第四作，不過製作的[KID公司於](../Page/KID.md "wikilink")2006年12月結業，令遊戲開發一度中斷；直至2007年2月[CyberFront公司購入](https://zh.wikipedia.org/wiki/CyberFront "wikilink")[KID公司遊戲代理版權](../Page/KID.md "wikilink")，並繼續開發本遊戲，令本作能夠順利推出。繁體中文化版本發行權由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊获得](../Page/光譜資訊.md "wikilink")，暫定於2008年第二季發行。簡體中文版則由[北京娛樂通放棄代理后](https://zh.wikipedia.org/wiki/北京娛樂通 "wikilink")，由北京光譜資訊代理,2009年9月30日以**12r跳跃的时空**的名称发售。和前作[Remember11的简体中文版一样](https://zh.wikipedia.org/wiki/Remember11 "wikilink")，本简体中文版基于PlayStation
+2模拟器。值得注意的是，在安装光盘中含有两个疑似古月引擎脚本的文本程序，声称编写于2009年9月17日，作者为[胡颖卓和](https://zh.wikipedia.org/wiki/胡颖卓 "wikilink")[北京娱乐通](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")。这说明娱乐通公司也参与了本作的中文化工作。本作及[infinity系列三作的PC版的合集](../Page/无限轮回.md "wikilink")《Infinity
 Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日本地區發行。
 
 本作沿用了前作的雙主線同時進行的方式，在遊戲的初期會以不斷切換視角的方式進行著故事，之後則根據選擇的不同，進入鍊丸線及鳴海線兩者之一。在兩條路線都走過之後便會開啟最終章的\(\int\)路線。
@@ -9,7 +9,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 
 **「阻止第貳日蝕計畫」**
 
-2012年5月20日，高中生雅堂鍊丸及公安12課特殊搜查官三島鳴海各收到了一封簡訊：有一名叫做「繆」的少女將被殺害，時間是當天中午，地點則是在「integral的最上層」。趕到了現場的兩人，在那裡看到的卻是使用著前所未聞，稱做「[Ψ](../Page/Ψ.md "wikilink")」的超能力的一群人。
+2012年5月20日，高中生雅堂鍊丸及公安12課特殊搜查官三島鳴海各收到了一封簡訊：有一名叫做「繆」的少女將被殺害，時間是當天中午，地點則是在「integral的最上層」。趕到了現場的兩人，在那裡看到的卻是使用著前所未聞，稱做「[Ψ](https://zh.wikipedia.org/wiki/Ψ "wikilink")」的超能力的一群人。
 
 ## 登場人物
 
@@ -43,11 +43,11 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 <!-- end list -->
 
   - 星野 遊遊（）CV：[小林優](../Page/小林優.md "wikilink")
-    鳩鳴館女子學院([Ever17中優和沙羅的學校](../Page/Ever17.md "wikilink"))的學生。在無人的世界中統率著「幻象」，擁有領袖氣質的少女。個性自由奔放，不喜歡遭到束縛，也因此來到這個世界之後認為這裡才是真正的理想鄉，為此和志村俱樂部間有敵對的關係。
+    鳩鳴館女子學院([Ever17中優和沙羅的學校](https://zh.wikipedia.org/wiki/Ever17 "wikilink"))的學生。在無人的世界中統率著「幻象」，擁有領袖氣質的少女。個性自由奔放，不喜歡遭到束縛，也因此來到這個世界之後認為這裡才是真正的理想鄉，為此和志村俱樂部間有敵對的關係。
 
 <!-- end list -->
 
-  - 誕吾（）CV：[中村俊洋](../Page/中村俊洋.md "wikilink")
+  - 誕吾（）CV：[中村俊洋](https://zh.wikipedia.org/wiki/中村俊洋 "wikilink")
     「幻象」的一員，個性純樸誠實。經常和遊遊一起行動。
 
 <!-- end list -->
@@ -57,7 +57,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 
 #### 鳴海側
 
-  - 伊野瀨 千里（）CV：[清水愛](../Page/清水愛.md "wikilink")
+  - 伊野瀨 千里（）CV：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
     在integral最上層前來搭救繆的神秘少女，同樣是理文六高的學生，也同樣有著Ψ。在integral的最上層和冥交戰了數回後重傷倒地，並中了冥的三發子彈，因此被送到一間醫院接受治療。
 
 <!-- end list -->
@@ -67,7 +67,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 
 <!-- end list -->
 
-  - 雪積 真琴（）CV：[木川繪理子](../Page/木川繪理子.md "wikilink")
+  - 雪積 真琴（）CV：[木川繪理子](https://zh.wikipedia.org/wiki/木川繪理子 "wikilink")
     鳴海的學妹，同屬公安12課。個性沉穩富有感情。自從在游泳池溺水被鳴海救起來之後，一直仰慕著她。事件當天，她傳給鳴海一封簡訊之後疑似自殺，為事件增添不少謎團。
 
 <!-- end list -->
@@ -110,8 +110,8 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 
 <!-- end list -->
 
-  - 伊野瀨 千里（）CV：[清水愛](../Page/清水愛.md "wikilink")
-    (第壹)日蝕計畫的成果，由ASLOG將NRM66反轉錄病毒植入受精卵而誕生的24個Ψclone之一，在其中排行第12，根據[希臘字母的順序的名字是](../Page/希臘字母.md "wikilink")[μ](../Page/μ.md "wikilink")。由於和繆同音，原本是日蝕計畫中用來做為進一步研究的犠牲者，但由於一度被當時也在ASLOG的繆和冥給救出而對兩人（特別是繆）心懷感激。由於小時候的她很喜歡千里花，冥為她取了千里這個名字。原為閾域和Ψcliminal的一員，但知道要對繆不利之後脫離組織，並努力想救出繆。5月21日在integral
+  - 伊野瀨 千里（）CV：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
+    (第壹)日蝕計畫的成果，由ASLOG將NRM66反轉錄病毒植入受精卵而誕生的24個Ψclone之一，在其中排行第12，根據[希臘字母的順序的名字是](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")[μ](https://zh.wikipedia.org/wiki/μ "wikilink")。由於和繆同音，原本是日蝕計畫中用來做為進一步研究的犠牲者，但由於一度被當時也在ASLOG的繆和冥給救出而對兩人（特別是繆）心懷感激。由於小時候的她很喜歡千里花，冥為她取了千里這個名字。原為閾域和Ψcliminal的一員，但知道要對繆不利之後脫離組織，並努力想救出繆。5月21日在integral
     tower頂樓為了保護繆，並救出其弟御目賀（其實是御目賀所設的陷阱），和繆互換衣服，卻因此使鳴海誤以為她是繆。
 
 <!-- end list -->
@@ -127,14 +127,14 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 
 <!-- end list -->
 
-  - 誕吾（）CV：[中村俊洋](../Page/中村俊洋.md "wikilink")
-    真實身份是第24個Ψclone：伊野瀨御目賀([ω](../Page/ω.md "wikilink")，Omega)。他是閾域的一員，也是「第貳日蝕計畫」的主持者。在鳴海到達integral
+  - 誕吾（）CV：[中村俊洋](https://zh.wikipedia.org/wiki/中村俊洋 "wikilink")
+    真實身份是第24個Ψclone：伊野瀨御目賀([ω](https://zh.wikipedia.org/wiki/ω "wikilink")，Omega)。他是閾域的一員，也是「第貳日蝕計畫」的主持者。在鳴海到達integral
     tower最上層時由於人在現場，被鳴海誤以為他是鍊丸。曾兩度想殺死真琴，並在浴缸（Rev飯店612號房）刺傷真琴的頸動脈，用玫瑰補飲料模擬真琴的血液，且躲藏在浴缸底部。後來在Rev頂樓heaven的陽臺殺死了真琴。最後在Ａ世界的integral
     tower頂層被冥用三發橡膠麻醉彈打中後失去意識。
 
 <!-- end list -->
 
-  - 雪積 真琴（）CV：[木川繪理子](../Page/木川繪理子.md "wikilink")
+  - 雪積 真琴（）CV：[木川繪理子](https://zh.wikipedia.org/wiki/木川繪理子 "wikilink")
     閾域在公安12課裡的間諜。雖然身為閾域的一員，執行著「第貳日蝕計畫」，但由於和鳴海的感情使得她陷入兩難，因此在最後留下了和計畫有關的資料，並引導鳴海前去尋找。在ʃ路線中在現實世界被誕吾（御目賀）殺死，在Ａ世界中隨之消亡。消亡前由於舞菜（有鳴海的記憶）的勸說從心底放棄了殺死繆的任務，將短信發送到鳴海手機（就是遊戲開頭鳴海收到的短信）。另外，遊戲開始時，鍊丸視點中的女警其實是真琴而非鳴海。
 
 <!-- end list -->
@@ -150,7 +150,7 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 <!-- end list -->
 
   - 老大（）CV：[大塚明夫](../Page/大塚明夫.md "wikilink")
-    20年前的交通事故中失去了當時做為導護媽媽的妻子及兒子，一度自暴自棄借酒澆愁，在三年後收養了同是事故受害者的鳴海之後才重新振作起來。第貳日蝕計畫事件之後為了阻止閾域的第參日蝕計畫（實行日期為2012年12月22日，影射[2012年瑪雅預言](../Page/2012年瑪雅預言.md "wikilink")，而第貳日蝕計畫只是它的“演習”）而在公安六課成立新的秘密組織Speciale，成員都是本次事件的相關人員：遊遊（隊長）、鍊丸、繆、千里、鳴海、大手町和冥。
+    20年前的交通事故中失去了當時做為導護媽媽的妻子及兒子，一度自暴自棄借酒澆愁，在三年後收養了同是事故受害者的鳴海之後才重新振作起來。第貳日蝕計畫事件之後為了阻止閾域的第參日蝕計畫（實行日期為2012年12月22日，影射[2012年瑪雅預言](https://zh.wikipedia.org/wiki/2012年瑪雅預言 "wikilink")，而第貳日蝕計畫只是它的“演習”）而在公安六課成立新的秘密組織Speciale，成員都是本次事件的相關人員：遊遊（隊長）、鍊丸、繆、千里、鳴海、大手町和冥。
 
 ## 製作人員
 
@@ -163,9 +163,9 @@ Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日
 ## 主題曲
 
   - 片頭曲：third bridge
-    作詞、作曲：志倉千代丸、編曲：上野浩司、歌：[KAORI](../Page/KAORI.md "wikilink")
+    作詞、作曲：志倉千代丸、編曲：上野浩司、歌：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")
   - 片尾曲：
-    作詞、作曲：志倉千代丸、編曲：上野浩司、歌：[KAORI](../Page/KAORI.md "wikilink")
+    作詞、作曲：志倉千代丸、編曲：上野浩司、歌：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")
 
 ## 參考資料
 

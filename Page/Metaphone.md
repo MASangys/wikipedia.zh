@@ -1,4 +1,4 @@
-**Metaphone**是一個[語音算法](../Page/語音算法.md "wikilink")，主要是用在[英語單字或是辭彙發音的標引](../Page/英語.md "wikilink")。Metaphone是由[飛利浦](../Page/飛利浦.md "wikilink")、[羅倫斯利用](../Page/羅倫斯.md "wikilink")[Soundex的缺陷來改善的演算法](../Page/Soundex.md "wikilink")。此演算法是利用較大的英語發音規則，所以比Soundex更為精準。Metaphone也可作為內建式的工具，在[PHP就有相關工具](../Page/PHP.md "wikilink")。後來原作者製作新版本的演算法「Double
+**Metaphone**是一個[語音算法](https://zh.wikipedia.org/wiki/語音算法 "wikilink")，主要是用在[英語單字或是辭彙發音的標引](https://zh.wikipedia.org/wiki/英語 "wikilink")。Metaphone是由[飛利浦](../Page/飛利浦.md "wikilink")、[羅倫斯利用](https://zh.wikipedia.org/wiki/羅倫斯 "wikilink")[Soundex的缺陷來改善的演算法](https://zh.wikipedia.org/wiki/Soundex "wikilink")。此演算法是利用較大的英語發音規則，所以比Soundex更為精準。Metaphone也可作為內建式的工具，在[PHP就有相關工具](../Page/PHP.md "wikilink")。後來原作者製作新版本的演算法「Double
 metaphone」，比原本的算法還更加精準。該演算法會轉換相似的發音。
 
 ## 轉換規則

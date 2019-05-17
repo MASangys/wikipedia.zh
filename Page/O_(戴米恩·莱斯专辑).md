@@ -1,5 +1,5 @@
 ***O*** 是[Damien
-Rice的首張專輯的名稱](../Page/Damien_Rice.md "wikilink")，最早發行於2002年2月1日的[愛爾蘭及](../Page/愛爾蘭共和國.md "wikilink")[英國](../Page/英國.md "wikilink")。曾進入愛爾蘭的前20名排行榜。
+Rice的首張專輯的名稱](https://zh.wikipedia.org/wiki/Damien_Rice "wikilink")，最早發行於2002年2月1日的[愛爾蘭及](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")。曾進入愛爾蘭的前20名排行榜。
 
 ## 曲目
 
@@ -25,12 +25,18 @@ Rice的首張專輯的名稱](../Page/Damien_Rice.md "wikilink")，最早發行�
 
 ## 專輯演出人員
 
-  - [Damien Rice](../Page/Damien_Rice.md "wikilink") -
-    主唱，低音鍵盤，豎笛，吉他，打擊樂器，鋼琴，爵士鼓，合聲，專輯製作
-  - [Lisa Hannigan](../Page/Lisa_Hannigan.md "wikilink") - 背景合聲
-  - [Shane Fitzsimons](../Page/Shane_Fitzsimons.md "wikilink") - 低音鍵盤
-  - [Tom Osander](../Page/Tom_Osander.md "wikilink") aka Tomo - 打擊樂器，爵士鼓
-  - [Vyvienne Long](../Page/Vyvienne_Long.md "wikilink") - 大提琴
+  - [Damien Rice](https://zh.wikipedia.org/wiki/Damien_Rice "wikilink")
+    - 主唱，低音鍵盤，豎笛，吉他，打擊樂器，鋼琴，爵士鼓，合聲，專輯製作
+  - [Lisa
+    Hannigan](https://zh.wikipedia.org/wiki/Lisa_Hannigan "wikilink") -
+    背景合聲
+  - [Shane
+    Fitzsimons](https://zh.wikipedia.org/wiki/Shane_Fitzsimons "wikilink")
+    - 低音鍵盤
+  - [Tom Osander](https://zh.wikipedia.org/wiki/Tom_Osander "wikilink")
+    aka Tomo - 打擊樂器，爵士鼓
+  - [Vyvienne
+    Long](https://zh.wikipedia.org/wiki/Vyvienne_Long "wikilink") - 大提琴
   - Nicholas Dodd - 指揮
   - Mark Kelly - 電吉他
   - Caz - 非洲皮鼓

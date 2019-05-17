@@ -1,21 +1,21 @@
-**Herdsman**是一个用于猪场[数据收集](../Page/数据收集.md "wikilink")、[报表制作及](../Page/报表.md "wikilink")[数据管理的](../Page/数据管理.md "wikilink")[软件](../Page/软件.md "wikilink")。Herdman的[版本很多](../Page/版本.md "wikilink")，主要有青铜版（Bronze
+**Herdsman**是一个用于猪场[数据收集](https://zh.wikipedia.org/wiki/数据收集 "wikilink")、[报表制作及](https://zh.wikipedia.org/wiki/报表 "wikilink")[数据管理的](../Page/数据管理.md "wikilink")[软件](../Page/软件.md "wikilink")。Herdman的[版本很多](https://zh.wikipedia.org/wiki/版本 "wikilink")，主要有青铜版（Bronze
 Edition）、白银版（Silver Edition）、黄金版（Gold Edition）、铂金版（Platinum
 Edition）及钻石版（Diamond Edition）\[1\]。
 
-目前，[美国有](../Page/美国.md "wikilink")60%的企业在使用Herdsman软件进行[猪场管理](../Page/猪场.md "wikilink")\[2\]。但是，Herdsman在[中国应用并不广泛](../Page/中国.md "wikilink")。Herdsman于2003年3月推出中文[Windows版本Herdsman](../Page/Windows.md "wikilink")2000\[3\]。[软件现在还没有完全](../Page/软件.md "wikilink")[汉化](../Page/汉化.md "wikilink")，汉化程度为95%\[4\]。
+目前，[美国有](../Page/美国.md "wikilink")60%的企业在使用Herdsman软件进行[猪场管理](https://zh.wikipedia.org/wiki/猪场 "wikilink")\[2\]。但是，Herdsman在[中国应用并不广泛](https://zh.wikipedia.org/wiki/中国 "wikilink")。Herdsman于2003年3月推出中文[Windows版本Herdsman](https://zh.wikipedia.org/wiki/Windows "wikilink")2000\[3\]。[软件现在还没有完全](../Page/软件.md "wikilink")[汉化](https://zh.wikipedia.org/wiki/汉化 "wikilink")，汉化程度为95%\[4\]。
 
 ## 主要功能
 
-  - [报表](../Page/报表.md "wikilink")、工作列表及[图表制作](../Page/图表.md "wikilink")
-  - [导入](../Page/导入.md "wikilink")[PigChamp](../Page/PigChamp.md "wikilink")™及[PigWin](../Page/PigWin.md "wikilink")™[数据](../Page/数据.md "wikilink")
-  - [BLUP场内](../Page/BLUP.md "wikilink")[育种值计算](../Page/育种值.md "wikilink")
+  - [报表](https://zh.wikipedia.org/wiki/报表 "wikilink")、工作列表及[图表制作](https://zh.wikipedia.org/wiki/图表 "wikilink")
+  - [导入](https://zh.wikipedia.org/wiki/导入 "wikilink")[PigChamp](https://zh.wikipedia.org/wiki/PigChamp "wikilink")™及[PigWin](https://zh.wikipedia.org/wiki/PigWin "wikilink")™[数据](https://zh.wikipedia.org/wiki/数据 "wikilink")
+  - [BLUP场内](https://zh.wikipedia.org/wiki/BLUP "wikilink")[育种值计算](https://zh.wikipedia.org/wiki/育种值 "wikilink")
   - 场间生产数据对比（数据不进行共享）
   - 猪只所处位置查询
-  - 动物[系谱管理](../Page/系谱.md "wikilink")
-  - 多代内的[血统及](../Page/血统.md "wikilink")[近交计算](../Page/近交.md "wikilink")
-  - 4个[繁殖性状](../Page/繁殖性状.md "wikilink")（[产活仔数](../Page/产活仔数.md "wikilink")、[出生窝重](../Page/出生窝重.md "wikilink")、[断奶活仔数和](../Page/断奶活仔数.md "wikilink")[21日龄窝重](../Page/21日龄窝重.md "wikilink")）及4个[生长性状](../Page/生长性状.md "wikilink")（[达到105公斤的日龄](../Page/达到105公斤的日龄.md "wikilink")、[背膘厚度](../Page/背膘厚度.md "wikilink")、[眼肌面积](../Page/眼肌面积.md "wikilink")、[日增重](../Page/日增重.md "wikilink")）的[EBV或](../Page/EBV.md "wikilink")[EPD计算及分析](../Page/EPD.md "wikilink")，并将[EBV整合到](../Page/EBV.md "wikilink")4个[指数](../Page/指数.md "wikilink")（[母猪繁殖指数](../Page/母猪繁殖指数.md "wikilink")、[母系指数](../Page/母系指数.md "wikilink")、[轮回指数](../Page/轮回指数.md "wikilink")、[终端指数](../Page/终端指数.md "wikilink")）\[5\]。
+  - 动物[系谱管理](https://zh.wikipedia.org/wiki/系谱 "wikilink")
+  - 多代内的[血统及](https://zh.wikipedia.org/wiki/血统 "wikilink")[近交计算](https://zh.wikipedia.org/wiki/近交 "wikilink")
+  - 4个[繁殖性状](https://zh.wikipedia.org/wiki/繁殖性状 "wikilink")（[产活仔数](https://zh.wikipedia.org/wiki/产活仔数 "wikilink")、[出生窝重](https://zh.wikipedia.org/wiki/出生窝重 "wikilink")、[断奶活仔数和](https://zh.wikipedia.org/wiki/断奶活仔数 "wikilink")[21日龄窝重](https://zh.wikipedia.org/wiki/21日龄窝重 "wikilink")）及4个[生长性状](https://zh.wikipedia.org/wiki/生长性状 "wikilink")（[达到105公斤的日龄](https://zh.wikipedia.org/wiki/达到105公斤的日龄 "wikilink")、[背膘厚度](https://zh.wikipedia.org/wiki/背膘厚度 "wikilink")、[眼肌面积](https://zh.wikipedia.org/wiki/眼肌面积 "wikilink")、[日增重](https://zh.wikipedia.org/wiki/日增重 "wikilink")）的[EBV或](https://zh.wikipedia.org/wiki/EBV "wikilink")[EPD计算及分析](https://zh.wikipedia.org/wiki/EPD "wikilink")，并将[EBV整合到](https://zh.wikipedia.org/wiki/EBV "wikilink")4个[指数](https://zh.wikipedia.org/wiki/指数 "wikilink")（[母猪繁殖指数](https://zh.wikipedia.org/wiki/母猪繁殖指数 "wikilink")、[母系指数](https://zh.wikipedia.org/wiki/母系指数 "wikilink")、[轮回指数](https://zh.wikipedia.org/wiki/轮回指数 "wikilink")、[终端指数](https://zh.wikipedia.org/wiki/终端指数 "wikilink")）\[5\]。
   - [食品安全追踪](../Page/食品安全.md "wikilink")
-  - 整合CCSI（[加拿大猪改良中心](../Page/加拿大猪改良中心.md "wikilink")）及美国[Stages系统的全国数据](../Page/Stages.md "wikilink")[下载](../Page/下载.md "wikilink")。
+  - 整合CCSI（[加拿大猪改良中心](https://zh.wikipedia.org/wiki/加拿大猪改良中心 "wikilink")）及美国[Stages系统的全国数据](../Page/Stages.md "wikilink")[下载](../Page/下载.md "wikilink")。
 
 ## 外部链接
 

@@ -2,14 +2,14 @@
 developer = [Valgrind開發者](http://valgrind.org/info/developers.html) |
 latest_release_version = 3.15.0 | latest_release_date = \[1\] |
 operating_system = [类Unix系统](../Page/类Unix系统.md "wikilink") | genre =
-[性能分析器](../Page/性能分析.md "wikilink")、[内存调试器](../Page/内存调试器.md "wikilink")
+[性能分析器](../Page/性能分析.md "wikilink")、[内存调试器](https://zh.wikipedia.org/wiki/内存调试器 "wikilink")
 | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =
 }}
 
-**Valgrind**是一款用于内存调试、[内存泄漏检测以及](../Page/内存泄漏.md "wikilink")[性能分析的](../Page/性能分析.md "wikilink")[软件开发工具](../Page/软件开发工具.md "wikilink")。Valgrind这个名字取自[北欧神话中](../Page/北欧神话.md "wikilink")[英灵殿的入口](../Page/英灵殿.md "wikilink")。\[2\]
+**Valgrind**是一款用于内存调试、[内存泄漏检测以及](../Page/内存泄漏.md "wikilink")[性能分析的](../Page/性能分析.md "wikilink")[软件开发工具](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")。Valgrind这个名字取自[北欧神话中](../Page/北欧神话.md "wikilink")[英灵殿的入口](https://zh.wikipedia.org/wiki/英灵殿 "wikilink")。\[2\]
 
 Valgrind的最初作者是Julian
-Seward，他于2006年由于在开发Valgrind上的工作获得了第二届[Google](../Page/Google.md "wikilink")-[O'Reilly](../Page/O'Reilly_Media.md "wikilink")[开放源代码奖](../Page/开放源代码.md "wikilink")。\[3\]\[4\]
+Seward，他于2006年由于在开发Valgrind上的工作获得了第二届[Google](../Page/Google.md "wikilink")-[O'Reilly](https://zh.wikipedia.org/wiki/O'Reilly_Media "wikilink")[开放源代码奖](../Page/开放源代码.md "wikilink")。\[3\]\[4\]
 
 Valgrind遵守[GNU通用公共许可证条款](../Page/GNU通用公共许可证.md "wikilink")，是一款[自由软件](../Page/自由软件.md "wikilink")。
 
@@ -19,8 +19,8 @@ Valgrind遵守[GNU通用公共许可证条款](../Page/GNU通用公共许可证.
 
 ## 支持平台
 
-到3.3.0版本为止，Valgrind支持[x86](../Page/x86.md "wikilink")、[x86-64](../Page/x86-64.md "wikilink")、[Armv](../Page/ARM架構.md "wikilink")7以及[PowerPC上的](../Page/PowerPC.md "wikilink")[Linux](../Page/Linux.md "wikilink")。除此之外，还有一些其它非正式支持的类Unix平台（如[FreeBSD](../Page/FreeBSD.md "wikilink")\[5\]、[NetBSD](../Page/NetBSD.md "wikilink")\[6\]
-以及[Mac OS X](../Page/Mac_OS_X.md "wikilink")\[7\]）。
+到3.3.0版本为止，Valgrind支持[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")、[Armv](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")7以及[PowerPC上的](../Page/PowerPC.md "wikilink")[Linux](../Page/Linux.md "wikilink")。除此之外，还有一些其它非正式支持的类Unix平台（如[FreeBSD](../Page/FreeBSD.md "wikilink")\[5\]、[NetBSD](../Page/NetBSD.md "wikilink")\[6\]
+以及[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[7\]）。
 
 ## 注释
 

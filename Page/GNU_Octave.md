@@ -1,39 +1,40 @@
 **GNU
-Octave**是一种采用[高级](../Page/高级语言.md "wikilink")[编程语言的主要用于](../Page/编程语言.md "wikilink")[数值分析的软件](../Page/数值分析.md "wikilink")。Octave有助于以数值方式解决线性和非线性问题，并使用与[MATLAB兼容的语言进行其他数值实验](../Page/MATLAB.md "wikilink")。它也可以作为[面向批处理的语言使用](../Page/批处理任务.md "wikilink")。因为它是[GNU計劃的一部分](../Page/GNU計劃.md "wikilink")，所以它是[GNU通用公共许可证条款下的](../Page/GNU通用公共许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+Octave**是一种采用[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[编程语言的主要用于](../Page/编程语言.md "wikilink")[数值分析的软件](https://zh.wikipedia.org/wiki/数值分析 "wikilink")。Octave有助于以数值方式解决线性和非线性问题，并使用与[MATLAB兼容的语言进行其他数值实验](../Page/MATLAB.md "wikilink")。它也可以作为[面向批处理的语言使用](https://zh.wikipedia.org/wiki/批处理任务 "wikilink")。因为它是[GNU計劃的一部分](../Page/GNU計劃.md "wikilink")，所以它是[GNU通用公共许可证条款下的](../Page/GNU通用公共许可证.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
 
-Octave是MATLAB的主要[自由替代品之一](../Page/自由软件.md "wikilink")，其他还有[Scilab和](../Page/Scilab.md "wikilink")[FreeMat](../Page/FreeMat.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+Octave是MATLAB的主要[自由替代品之一](../Page/自由软件.md "wikilink")，其他还有[Scilab和](../Page/Scilab.md "wikilink")[FreeMat](https://zh.wikipedia.org/wiki/FreeMat "wikilink")。\[1\]\[2\]\[3\]\[4\]
 然而，与Octave相比，Scilab更少强调与MATLAB的（双向）句法兼容性。\[5\]\[6\]\[7\]
 
 ## 歷史
 
 系統性開發則是由John W. Eaton在1992年接手才開始的。
-第一個[alpha](../Page/alpha.md "wikilink")[測試版是在](../Page/软件测试.md "wikilink")1993年1月4日釋出，1.0穩定版則是在1994年2月17日釋出\[8\]。
+第一個[alpha](https://zh.wikipedia.org/wiki/alpha "wikilink")[測試版是在](../Page/软件测试.md "wikilink")1993年1月4日釋出，1.0穩定版則是在1994年2月17日釋出\[8\]。
 
-其名稱與音樂上的[八度沒有直接關係](../Page/八度.md "wikilink")。該軟體乃是以一位早期[開發群的成員](../Page/軟體開發.md "wikilink")，同時也以敏於處理數值逼近問題著稱的前[化工系教授](../Page/化學工程.md "wikilink")[奧克塔夫·列文斯比爾](../Page/奧克塔夫·列文斯比爾.md "wikilink")（Octave
+其名稱與音樂上的[八度沒有直接關係](../Page/八度.md "wikilink")。該軟體乃是以一位早期[開發群的成員](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，同時也以敏於處理數值逼近問題著稱的前[化工系教授](https://zh.wikipedia.org/wiki/化學工程 "wikilink")[奧克塔夫·列文斯比爾](https://zh.wikipedia.org/wiki/奧克塔夫·列文斯比爾 "wikilink")（Octave
 Levenspiel）之名命名的。
 
 ## 技術細節
 
   - Octave是以[C++的](../Page/C++.md "wikilink")[標準模板函式庫編程而成](../Page/标准模板库.md "wikilink")。
   - Octave有自己Octave語言[直譯器](../Page/直譯器.md "wikilink")。
-  - Octave可以動態[外掛模組擴充](../Page/外掛模組.md "wikilink")。
-  - Octave的直譯器可用[gnuplot及](../Page/gnuplot.md "wikilink")[Grace產生圖表及列印](../Page/Xmgrace.md "wikilink")。
+  - Octave可以動態[外掛模組擴充](https://zh.wikipedia.org/wiki/外掛模組 "wikilink")。
+  - Octave的直譯器可用[gnuplot及](https://zh.wikipedia.org/wiki/gnuplot "wikilink")[Grace產生圖表及列印](../Page/Xmgrace.md "wikilink")。
 
 ## Octave語言
 
-Octave語言是[直譯式及](../Page/直譯語言.md "wikilink")[結構化](../Page/結構化編程.md "wikilink")（類於[第二代的BASIC](../Page/BASIC#無行號類型_\(結構化\).md "wikilink")）的程式語言，支援許多[C語言風格的標準函式功能](../Page/C語言.md "wikilink")，同時可以使用[UNIX的系統呼叫以進行擴充增進功能](../Page/POSIX.md "wikilink")，但不支援以[引用的方式傳遞參數](../Page/引用.md "wikilink")。
+Octave語言是[直譯式及](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")[結構化](https://zh.wikipedia.org/wiki/結構化編程 "wikilink")（類於[第二代的BASIC](https://zh.wikipedia.org/wiki/BASIC#無行號類型_\(結構化\) "wikilink")）的程式語言，支援許多[C語言風格的標準函式功能](https://zh.wikipedia.org/wiki/C語言 "wikilink")，同時可以使用[UNIX的系統呼叫以進行擴充增進功能](https://zh.wikipedia.org/wiki/POSIX "wikilink")，但不支援以[引用的方式傳遞參數](../Page/引用.md "wikilink")。
 
 Octave的核心由一組內建的（built-in）矩陣運算語言（如四則運算）和可載入函式（Loadable
-Function）組成（例如求矩陣逆inv），其餘能在核心語言之上實現而且性能開銷不會顯著增加的函式呼叫則一般以Octave[腳本的形式存在](../Page/腳本語言.md "wikilink")（例如求解方程組的fsolve函數）。Octave
-[解释器會自動處理各種不同類型的調用](../Page/解释器.md "wikilink")。
+Function）組成（例如求矩陣逆inv），其餘能在核心語言之上實現而且性能開銷不會顯著增加的函式呼叫則一般以Octave[腳本的形式存在](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")（例如求解方程組的fsolve函數）。Octave
+[解释器會自動處理各種不同類型的調用](https://zh.wikipedia.org/wiki/解释器 "wikilink")。
 
-Octave支援[資料建構](../Page/資料結構.md "wikilink")，也支持基本的[物件導向編程](../Page/物件導向.md "wikilink")，但通常仍把它當作[面向過程的](../Page/面向過程.md "wikilink")[程序設計語言來看待](../Page/程序設計語言.md "wikilink")。
+Octave支援[資料建構](https://zh.wikipedia.org/wiki/資料結構 "wikilink")，也支持基本的[物件導向編程](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，但通常仍把它當作[面向過程的](https://zh.wikipedia.org/wiki/面向過程 "wikilink")[程序設計語言來看待](https://zh.wikipedia.org/wiki/程序設計語言 "wikilink")。
 
-它的語法基本上與Matlab一致，嚴謹編寫的程式碼應同時可在Matlab及Octave執行。但若調用了[Matlab工具包](../Page/Matlab#工具箱.md "wikilink")，則一般不能直接在Octave上運行，因爲Octave附帶的工具包與Matlab並不兼容。
+它的語法基本上與Matlab一致，嚴謹編寫的程式碼應同時可在Matlab及Octave執行。但若調用了[Matlab工具包](https://zh.wikipedia.org/wiki/Matlab#工具箱 "wikilink")，則一般不能直接在Octave上運行，因爲Octave附帶的工具包與Matlab並不兼容。
 
-由於Octave是以[GNU通用公共許可證授權](../Page/GNU通用公共許可證.md "wikilink")，所以可以自由地複製、流通與使用。Octave可在大部份的[類Unix](../Page/類Unix.md "wikilink")[作業系統中執行](../Page/作業系統.md "wikilink")，亦可在[Microsoft
-Windows中執行](../Page/Microsoft_Windows.md "wikilink")。在[Mac OS
-X中運行也是可能的](../Page/Mac_OS_X.md "wikilink")，但設置較爲複雜。\[9\]
+由於Octave是以[GNU通用公共許可證授權](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，所以可以自由地複製、流通與使用。Octave可在大部份的[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[作業系統中執行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，亦可在[Microsoft
+Windows中執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。在[Mac
+OS
+X中運行也是可能的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但設置較爲複雜。\[9\]
 
 ## 特殊功能
 
@@ -109,18 +110,18 @@ endfunction
 
 ## MATLAB相容性
 
-Octave最初便是模彷[Matlab而設計](../Page/Matlab.md "wikilink")，自然與[Matlab有許多相同的功能](../Page/Matlab.md "wikilink")。这也使得一部分Matlab程序可以直接或经过少量修改在Octave上运行，一些软件开发小组也使用两者兼容的语法，直接开发可以同时在Matlab和Octave使用的程序。
+Octave最初便是模彷[Matlab而設計](https://zh.wikipedia.org/wiki/Matlab "wikilink")，自然與[Matlab有許多相同的功能](https://zh.wikipedia.org/wiki/Matlab "wikilink")。这也使得一部分Matlab程序可以直接或经过少量修改在Octave上运行，一些软件开发小组也使用两者兼容的语法，直接开发可以同时在Matlab和Octave使用的程序。
 
-1.  [矩陣為基礎](../Page/矩陣.md "wikilink")[資料型別之一](../Page/資料型別.md "wikilink")
-2.  內建支援[複數](../Page/複數_\(数学\).md "wikilink")
-3.  內建功能強大的數學[函式及可擴充的](../Page/函式.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")
-4.  使用者可自定[函式](../Page/函式.md "wikilink")
+1.  [矩陣為基礎](https://zh.wikipedia.org/wiki/矩陣 "wikilink")[資料型別之一](https://zh.wikipedia.org/wiki/資料型別 "wikilink")
+2.  內建支援[複數](https://zh.wikipedia.org/wiki/複數_\(数学\) "wikilink")
+3.  內建功能強大的數學[函式及可擴充的](https://zh.wikipedia.org/wiki/函式 "wikilink")[函式庫](../Page/函式庫.md "wikilink")
+4.  使用者可自定[函式](https://zh.wikipedia.org/wiki/函式 "wikilink")
 
 ## 参见
 
   - [Scilab](../Page/Scilab.md "wikilink")
-  - [R語言](../Page/R語言.md "wikilink")
-  - [開放源代碼軟件列表](../Page/開放源代碼軟件列表.md "wikilink")
+  - [R語言](https://zh.wikipedia.org/wiki/R語言 "wikilink")
+  - [開放源代碼軟件列表](https://zh.wikipedia.org/wiki/開放源代碼軟件列表 "wikilink")
 
 ## 参考文献
 

@@ -1,14 +1,15 @@
 **Cryptographic API** (CryptoAPI) 是微軟在 Windows
 作業系統中添加的密碼編譯機能，作為資料加密與解密功能的重要基礎，CryptoAPI
-支援同步，非同步的金鑰加密處理，以及作業系統中的[數位憑證](../Page/數位憑證.md "wikilink") 的管理工作。
+支援同步，非同步的金鑰加密處理，以及作業系統中的[數位憑證](https://zh.wikipedia.org/wiki/數位憑證 "wikilink")
+的管理工作。
 
 目前的 CryptoAPI 支援下列工作\[1\]：
 
-  - 基礎[密碼學函數](../Page/密碼學.md "wikilink")。
+  - 基礎[密碼學函數](https://zh.wikipedia.org/wiki/密碼學 "wikilink")。
       - 內文函數 (Context function)。
       - 金鑰產生函數 (Key generation function)。
       - 金鑰交換函數 (Key Exchange function)。
-  - 憑證編碼與解碼函數（支援[雜湊功能](../Page/雜湊.md "wikilink")）。
+  - 憑證編碼與解碼函數（支援[雜湊功能](https://zh.wikipedia.org/wiki/雜湊 "wikilink")）。
   - 憑證儲存函數。
   - 簡單訊息函數。
       - 加密與解密訊息與資料。
@@ -17,8 +18,9 @@
   - 低階訊息函數。
 
 由於 CryptoAPI 使用上過於複雜，因此微軟另外為 CryptoAPI 開發更為容易使用的
-[CAPICOM](../Page/CAPICOM.md "wikilink") 元件\[2\]，以及 [Data Protection
-API](../Page/Data_Protection_API.md "wikilink")。
+[CAPICOM](https://zh.wikipedia.org/wiki/CAPICOM "wikilink") 元件\[2\]，以及
+[Data Protection
+API](https://zh.wikipedia.org/wiki/Data_Protection_API "wikilink")。
 
 ## 例子
 

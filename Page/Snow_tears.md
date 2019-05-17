@@ -15,18 +15,21 @@ Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink"
 
 1.  **snow tears**
       -
-        作詞：中川翔子，[yozuca\*](../Page/yozuca*.md "wikilink")
-        作曲：[鈴木大輔](../Page/鈴木大輔.md "wikilink")
-        編曲：[nishi-ken](../Page/nishi-ken.md "wikilink")
+        作詞：中川翔子，[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
+        作曲：[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")
+        編曲：[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")
           - 是自第二张单曲以来，本人参与作词的歌曲。
 2.  ****
       -
-        作詞・作曲：[meg rock](../Page/meg_rock.md "wikilink") 編曲：nishi-ken
+        作詞・作曲：[meg
+        rock](https://zh.wikipedia.org/wiki/meg_rock "wikilink")
+        編曲：nishi-ken
 3.  **Winter Wish**
       -
-        作詞：[mavie](../Page/mavie.md "wikilink") 作曲：鈴木大輔
-        編曲：[加藤大祐](../Page/加藤大祐.md "wikilink")
-4.  snow tears（[器乐](../Page/器乐.md "wikilink")）
+        作詞：[mavie](https://zh.wikipedia.org/wiki/mavie "wikilink")
+        作曲：鈴木大輔
+        編曲：[加藤大祐](https://zh.wikipedia.org/wiki/加藤大祐 "wikilink")
+4.  snow tears（[器乐](https://zh.wikipedia.org/wiki/器乐 "wikilink")）
 
 <!-- end list -->
 
@@ -68,8 +71,8 @@ Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink"
 
 **snow tears**
 
-  - [电视](../Page/电视.md "wikilink")[动画](../Page/动画.md "wikilink")[墓场鬼太郎片尾曲](../Page/墓场鬼太郎.md "wikilink")（ED）。
-  - [music.jp电视广告歌](../Page/music.jp.md "wikilink")。
+  - [电视](../Page/电视.md "wikilink")[动画](../Page/动画.md "wikilink")[墓场鬼太郎片尾曲](https://zh.wikipedia.org/wiki/墓场鬼太郎 "wikilink")（ED）。
+  - [music.jp电视广告歌](https://zh.wikipedia.org/wiki/music.jp "wikilink")。
 
 ****
 
@@ -78,7 +81,7 @@ Tears**，是[中川翔子的第四张单曲](../Page/中川翔子.md "wikilink"
 ## 相关项目
 
   - [中川翔子](../Page/中川翔子.md "wikilink")
-  - [墓场鬼太郎](../Page/墓场鬼太郎.md "wikilink")
+  - [墓场鬼太郎](https://zh.wikipedia.org/wiki/墓场鬼太郎 "wikilink")
 
 [Category:中川翔子歌曲](https://zh.wikipedia.org/wiki/Category:中川翔子歌曲 "wikilink")
 [Category:2008年单曲](https://zh.wikipedia.org/wiki/Category:2008年单曲 "wikilink")

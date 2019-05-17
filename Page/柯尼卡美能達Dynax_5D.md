@@ -1,24 +1,25 @@
 **Konica Minolta Dynax 5D** 是一部[Konica
-Minolta公司于](../Page/Konica_Minolta.md "wikilink")2005年出品的一款600万[像素](../Page/像素.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。（此为[欧洲及](../Page/欧洲.md "wikilink")[香港市场名称](../Page/香港.md "wikilink")，[中国市场称作](../Page/中国.md "wikilink")**α-5
-Digital**，[北美市场名称为](../Page/北美.md "wikilink")**Konica Minolta Maxxum
-5D**[日本市场名称为](../Page/日本.md "wikilink")**Alpha Sweet Digital**）\[1\]
+Minolta公司于](https://zh.wikipedia.org/wiki/Konica_Minolta "wikilink")2005年出品的一款600万[像素](../Page/像素.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。（此为[欧洲及](../Page/欧洲.md "wikilink")[香港市场名称](../Page/香港.md "wikilink")，[中国市场称作](https://zh.wikipedia.org/wiki/中国 "wikilink")**α-5
+Digital**，[北美市场名称为](https://zh.wikipedia.org/wiki/北美 "wikilink")**Konica
+Minolta Maxxum 5D**[日本市场名称为](../Page/日本.md "wikilink")**Alpha Sweet
+Digital**）\[1\]
 
 **Dynax 5D**是在前作，定位于中端机型的[Dynax
-7D上通过部分功能的简化得到的机型](../Page/Dynax_7D.md "wikilink")；而在[索尼接受柯尼卡美能达数码相机事业部门之后](../Page/Sony_α.md "wikilink")，亦以此机型为基础而推出其第一台DSLR
-[α100](../Page/索尼ALPHA_DSLR-A100.md "wikilink")。
+7D上通过部分功能的简化得到的机型](https://zh.wikipedia.org/wiki/Dynax_7D "wikilink")；而在[索尼接受柯尼卡美能达数码相机事业部门之后](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，亦以此机型为基础而推出其第一台DSLR
+[α100](https://zh.wikipedia.org/wiki/索尼ALPHA_DSLR-A100 "wikilink")。
 
 在大陆玩家群中多数称为**A5D**（**A**lpha **5 D**igital），台湾玩家群中多称为**D5D**（**D**ynax
 **5 D**igital）。
 
 ## 由来
 
-虽然[美能达是世界上第一家推出真正而实用的](../Page/美能达.md "wikilink")135自动对焦[单眼相机](../Page/单眼相机.md "wikilink")（1985年）的厂家，可是在135数码领域，它却最后推出自己的数码单镜头反光照相机
-—— 并且是以合并后的[柯尼卡美能达名下](../Page/柯尼卡美能达.md "wikilink")。
+虽然[美能达是世界上第一家推出真正而实用的](https://zh.wikipedia.org/wiki/美能达 "wikilink")135自动对焦[单眼相机](https://zh.wikipedia.org/wiki/单眼相机 "wikilink")（1985年）的厂家，可是在135数码领域，它却最后推出自己的数码单镜头反光照相机
+—— 并且是以合并后的[柯尼卡美能达名下](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")。
 
 2004年推出的[Dynax
-7D使用了](../Page/Dynax_7D.md "wikilink")[APS-C规格的传感器](../Page/先进摄影系统.md "wikilink")，延续使用Minolta
+7D使用了](https://zh.wikipedia.org/wiki/Dynax_7D "wikilink")[APS-C规格的传感器](https://zh.wikipedia.org/wiki/先进摄影系统 "wikilink")，延续使用Minolta
 AF卡口，支持所有[Minolta
-AF卡口镜头](../Page/Minolta_AF卡口.md "wikilink")，也是世界第一部带有机身防抖功能的[数码单反相机](../Page/数码单反相机.md "wikilink")。第二年，2005年推出的**Dynax
+AF卡口镜头](https://zh.wikipedia.org/wiki/Minolta_AF卡口 "wikilink")，也是世界第一部带有机身防抖功能的[数码单反相机](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。第二年，2005年推出的**Dynax
 5D**则是在7D机身基础上，保留大量特性，修改得到的面向低阶的数码单反相机，同样支持防抖功能，支持一切MA卡口镜头（理论上也包括索尼之后推出的α卡口镜头）。
 
 销售时，一般搭配 **柯尼卡美能达 18-70/3.5-5.6 DT** 镜头组成套机进行销售。
@@ -42,13 +43,14 @@ AF卡口镜头](../Page/Minolta_AF卡口.md "wikilink")，也是世界第一部�
 
 ## 参见
 
-  - [柯尼卡美能达](../Page/柯尼卡美能达.md "wikilink")
+  - [柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")
       - [Konica Minolta Dynax
-        7D](../Page/Konica_Minolta_Dynax_7D.md "wikilink")
-  - [Minolta AF](../Page/Minolta_AF.md "wikilink")
-  - [Sony α](../Page/Sony_α.md "wikilink")
-      - [Sony A100](../Page/索尼ALPHA_DSLR-A100.md "wikilink") －
-        索尼的第一台数码单反相继，相似度极其高，被认为是以Dynax 5D为原型改型制造
+        7D](https://zh.wikipedia.org/wiki/Konica_Minolta_Dynax_7D "wikilink")
+  - [Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")
+  - [Sony α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")
+      - [Sony
+        A100](https://zh.wikipedia.org/wiki/索尼ALPHA_DSLR-A100 "wikilink")
+        － 索尼的第一台数码单反相继，相似度极其高，被认为是以Dynax 5D为原型改型制造
 
 ## 参考资料
 

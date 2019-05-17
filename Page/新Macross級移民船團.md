@@ -1,8 +1,8 @@
-**新Macross級移民船團**是日本科幻動畫《[超時空要塞](../Page/超時空要塞.md "wikilink")》系列中人類往宇宙進行長距離移民所使用的一系列宇宙船團，由[地球統合宇宙軍建立和營運](../Page/地球統合宇宙軍.md "wikilink")，取代舊型移民船Megaroad級。
+**新Macross級移民船團**是日本科幻動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》系列中人類往宇宙進行長距離移民所使用的一系列宇宙船團，由[地球統合宇宙軍建立和營運](https://zh.wikipedia.org/wiki/地球統合宇宙軍 "wikilink")，取代舊型移民船Megaroad級。
 
 首個新Macross級移民船團Macross
 1（又稱「第31次超長距離移民船團」）於2030年正式從地球出發，單次移民規模首次到達100萬人，及後的新Macross級移民船團分別由地球和殖民星伊甸建造和出發。根據初期的設定，新Macross級移民船團只有13隊；但在《[超时空要塞
-Frontier](../Page/超时空要塞_Frontier.md "wikilink")》中這設定被修改，船團數量增加至最少25隊。
+Frontier](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")》中這設定被修改，船團數量增加至最少25隊。
 
 ## 基本組成
 
@@ -58,12 +58,12 @@ Frontier](../Page/超时空要塞_Frontier.md "wikilink")》中這設定被修�
 ### Macross 5
 
 在動畫《[超時空要塞
-7](../Page/超時空要塞_7.md "wikilink")》中短暫登場。在發現適居行星拉克斯並降落之後不久被Varauta軍摧毀，其軍民被原始惡魔俘虜及操控。
+7](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")》中短暫登場。在發現適居行星拉克斯並降落之後不久被Varauta軍摧毀，其軍民被原始惡魔俘虜及操控。
 
 ### Macross 7
 
 又稱「第37次超長距離移民船團」，是動畫《[超時空要塞
-7](../Page/超時空要塞_7.md "wikilink")》的主要背景。其主艦的戰鬥區名為「Battle
+7](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")》的主要背景。其主艦的戰鬥區名為「Battle
 7」，是整個船團的旗艦。居住區名為「City
 7」，由一名獨立於統合軍的市長主管，統合軍在居住區的活動必須由市長批准。各式隨行的船艦約1,000隻、總人口達100萬人以上。
 
@@ -83,7 +83,7 @@ Frontier](../Page/超时空要塞_Frontier.md "wikilink")》中這設定被修�
 <!-- end list -->
 
   - 太陽花號
-    生產農作物與蓄養家畜的農業艦。艦体外觀類似[葵花](../Page/葵花.md "wikilink")（太陽花）。全長約4,850公尺、質量約3.2億噸、乘員約15萬人？
+    生產農作物與蓄養家畜的農業艦。艦体外觀類似[葵花](https://zh.wikipedia.org/wiki/葵花 "wikilink")（太陽花）。全長約4,850公尺、質量約3.2億噸、乘員約15萬人？
 
 <!-- end list -->
 
@@ -104,7 +104,7 @@ Frontier](../Page/超时空要塞_Frontier.md "wikilink")》中這設定被修�
 ### Macross 11
 
 在《[超时空要塞
-Frontier](../Page/超时空要塞_Frontier.md "wikilink")》第二十五集中短暫登場，使用Island
+Frontier](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")》第二十五集中短暫登場，使用Island
 Cluster設計。Macross 11以美式英語為主要語言，模仿搖滾樂隊Fire Bomber的樂隊Fire Bomber
 American亦居於此。
 
@@ -127,7 +127,7 @@ American亦居於此。
 ### Macross Frontier
 
 新Macross級25號船團，總計第55次超長距離移民船團，簡稱「Frontier」，是動畫《[超时空要塞
-Frontier](../Page/超时空要塞_Frontier.md "wikilink")》的主要背景。主艦使用Island
+Frontier](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")》的主要背景。主艦使用Island
 Cluster設計，人口約1000萬，屬於生態型移民船團，空氣、水和有機物均在船內循環，能夠以最小限度的補給實現長距離航行。 Macross
 Frontier船團擁有獨立國家地位，總統為政府首腦，並有民選議會，有權自行立法。總統除了主管國內的行政外，也是護航艦隊的總司令，也是船團內唯一有權下令使用反應彈的官員。船團內的法律禁止人體植入晶片，並對生態系統作嚴格保護。
 

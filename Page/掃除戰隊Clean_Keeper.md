@@ -1,12 +1,12 @@
 《**掃除戰隊Clean
-Keeper**》（[日語](../Page/日語.md "wikilink")：）是[日本](../Page/日本.md "wikilink")[Idea
-Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus](../Page/Lupinus.md "wikilink")\[1\]所發售的[Wii以及](../Page/Wii.md "wikilink")[PlayStation
-2平台](../Page/PlayStation_2.md "wikilink")[遊戲軟體](../Page/遊戲軟體.md "wikilink")。
+Keeper**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本](../Page/日本.md "wikilink")[Idea
+Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus](https://zh.wikipedia.org/wiki/Lupinus "wikilink")\[1\]所發售的[Wii以及](../Page/Wii.md "wikilink")[PlayStation
+2平台](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 概要
 
 《**掃除戰隊Clean Keeper**》是日本[Idea
-Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus於](../Page/Lupinus.md "wikilink")2008年4月24日\[2\]\[3\]發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[4\]，這一部是Lupinus的第一部作品\[5\]，也是在Wii遊戲機上的第一款[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[6\]。於2009年10月1日發行PlayStation
+Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus於](https://zh.wikipedia.org/wiki/Lupinus "wikilink")2008年4月24日\[2\]\[3\]發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[4\]，這一部是Lupinus的第一部作品\[5\]，也是在Wii遊戲機上的第一款[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[6\]。於2009年10月1日發行PlayStation
 2版《**掃除戰隊Clean Keeper H**》（），並且加入了新角色以及遊戲系統\[7\]。
 
 玩家扮演主角源九朗，在校內搜尋可能成為掃除戰隊的隊員的女孩子和搭檔的掃除精靈。途中遇到特殊事件時切換到行動模式可以得到道具。
@@ -70,11 +70,11 @@ Keeper隊員以及掃除精靈……。
 
 ## 主題曲
 
-[原聲音樂由sweeprecord發行於](../Page/原聲音樂.md "wikilink")2008年5月14日發售（SRIF-1006）\[12\]。
+[原聲音樂由sweeprecord發行於](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")2008年5月14日發售（SRIF-1006）\[12\]。
 
   - 片頭曲「」
     歌： feat.TECHNO RIDER TAMMY、作詞：Nima（LILT
-    RECORD）、作曲編曲：[佐宗綾子](../Page/佐宗綾子.md "wikilink")
+    RECORD）、作曲編曲：[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")
   - 片尾曲「」
     歌： feat.TECHNO RIDER TAMMY、作詞：Nima（LILT RECORD）、作曲編曲：佐宗綾子
 

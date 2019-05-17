@@ -1,6 +1,6 @@
 [Canon_PowerShot_G11-103.jpg](https://zh.wikipedia.org/wiki/File:Canon_PowerShot_G11-103.jpg "fig:Canon_PowerShot_G11-103.jpg")
 **Canon PowerShot
-G**是[佳能旗下](../Page/佳能.md "wikilink")[PowerShot数码相机的一个系列](../Page/Canon_PowerShot.md "wikilink")。G系列作为佳能消费级[数码相机的旗舰产品](../Page/数码相机.md "wikilink")，最大特点就是成像品质和机器本身的专业化——不输于[数码单反](../Page/数码单镜反光相机.md "wikilink")（連拍除外，因為受制於CCD的性能，直到G15採用CMOS才支援每秒10張連拍）。
+G**是[佳能旗下](../Page/佳能.md "wikilink")[PowerShot数码相机的一个系列](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")。G系列作为佳能消费级[数码相机的旗舰产品](../Page/数码相机.md "wikilink")，最大特点就是成像品质和机器本身的专业化——不输于[数码单反](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")（連拍除外，因為受制於CCD的性能，直到G15採用CMOS才支援每秒10張連拍）。
 
 G系列提供[热靴接口可以外接佳能EX系列闪光灯](../Page/热靴.md "wikilink")，配备[锂离子电池](../Page/锂离子电池.md "wikilink")，可旋转LCD屏幕（从G7开始取消旋转，在G11上又恢复支持），支持[RAW格式输出](../Page/RAW.md "wikilink")（在G7上一度取消，在G9上又恢复支持），支持大光圈的镜头组，高速的响应。
 
@@ -15,9 +15,9 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <th><p><a href="../Page/像素.md" title="wikilink">像素</a><br />
 （百万）</p></th>
 <th><p><a href="../Page/分辨率.md" title="wikilink">最大分辨率</a></p></th>
-<th><p><a href="../Page/变焦镜.md" title="wikilink">光学变焦（等效35mm情况）</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/变焦镜" title="wikilink">光学变焦（等效35mm情况）</a></p></th>
 <th><p><a href="../Page/光圈.md" title="wikilink">最大光圈范围</a></p></th>
-<th><p><a href="../Page/LCD.md" title="wikilink">液晶屏大小</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">液晶屏大小</a></p></th>
 <th><p>发布时间</p></th>
 <th><p>注释</p></th>
 <th><p>照片</p></th>
@@ -29,7 +29,7 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <td><p>3.3</p></td>
 <td><p>2048 x 1536</p></td>
 <td><p>3x (34-102mm)</p></td>
-<td><p><a href="../Page/F-number.md" title="wikilink">F2.0-F2.5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F-number" title="wikilink">F2.0-F2.5</a></p></td>
 <td><p>1.8" 可旋转屏幕</p></td>
 <td><p>2000年9月</p></td>
 <td><p>Powershot G 系列第一款相机</p></td>
@@ -49,7 +49,7 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <tr class="odd">
 <td><p><strong>G3</strong></p></td>
 <td><p>4x (35-140mm)</p></td>
-<td><p><a href="../Page/F-number.md" title="wikilink">F2.0-F3.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F-number" title="wikilink">F2.0-F3.0</a></p></td>
 <td><p>2002年9月</p></td>
 <td><p>开始使用<a href="../Page/DiG!C.md" title="wikilink">DiG!C 数字影像处理器</a>、中性灰滤镜。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_powershot_g3_front.jpg" title="fig:Canon_powershot_g3_front.jpg">Canon_powershot_g3_front.jpg</a></p></td>
@@ -84,10 +84,10 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <td><p>10</p></td>
 <td><p>3648 x 2736</p></td>
 <td><p>6x (35-210mm)</p></td>
-<td><p><a href="../Page/F-number.md" title="wikilink">F2.8-F4.8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F-number" title="wikilink">F2.8-F4.8</a></p></td>
 <td><p>2.5" 固定屏幕</p></td>
 <td><p>2006年9月</p></td>
-<td><p>开始使用<a href="../Page/DiG!C.md" title="wikilink">DiG!C III 数字影像处理器</a>。开始使用新的镜头，提供1cm微距模式、镜头移位光学防抖；最高感光度为ISO 3200；面部识别对焦；G系列中唯一不提供<a href="../Page/RAW.md" title="wikilink">RAW格式的相机</a>；开始不支持<a href="../Page/CompactFlash.md" title="wikilink">CF卡</a>，转而使用<a href="../Page/Secure_Digital.md" title="wikilink">SD卡</a>。</p></td>
+<td><p>开始使用<a href="../Page/DiG!C.md" title="wikilink">DiG!C III 数字影像处理器</a>。开始使用新的镜头，提供1cm微距模式、镜头移位光学防抖；最高感光度为ISO 3200；面部识别对焦；G系列中唯一不提供<a href="../Page/RAW.md" title="wikilink">RAW格式的相机</a>；开始不支持<a href="../Page/CompactFlash.md" title="wikilink">CF卡</a>，转而使用<a href="https://zh.wikipedia.org/wiki/Secure_Digital" title="wikilink">SD卡</a>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_G7_mg_2529.jpg" title="fig:Canon_G7_mg_2529.jpg">Canon_G7_mg_2529.jpg</a></p></td>
 </tr>
 <tr class="odd">
@@ -106,7 +106,7 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <td><p>14.7</p></td>
 <td><p>4416 x 3312</p></td>
 <td><p>5x (28-140mm)</p></td>
-<td><p><a href="../Page/F-number.md" title="wikilink">F2.8-F4.5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F-number" title="wikilink">F2.8-F4.5</a></p></td>
 <td><p>2008年9月</p></td>
 <td><p>开始使用<a href="../Page/DiG!C.md" title="wikilink">DiG!C 4 数字影像处理器</a>，提供了一个全新的“自动对焦伺服”（Servo AF）模式，用户在该模式下可对移动的物体进行连续追踪对焦，同时配备了5倍光学变焦、28mm的广角镜头。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_G10_IMG_2201.jpg" title="fig:Canon_G10_IMG_2201.jpg">Canon_G10_IMG_2201.jpg</a></p></td>
@@ -142,7 +142,7 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
 <td><p>F2.8-F5.8</p></td>
 <td><p>3.0" 可旋转屏幕</p></td>
 <td><p>2012年1月</p></td>
-<td><p>第一款以1.5" CMOS作為感光元件的Powershot G，同时配备了4倍光学变焦、28mm的广角镜头，<a href="../Page/DiG!C#DIGIC_5.md" title="wikilink">DIGIC_5影像處理器</a>，並加入1080p格式高清短片拍攝。</p></td>
+<td><p>第一款以1.5" CMOS作為感光元件的Powershot G，同时配备了4倍光学变焦、28mm的广角镜头，<a href="https://zh.wikipedia.org/wiki/DiG!C#DIGIC_5" title="wikilink">DIGIC_5影像處理器</a>，並加入1080p格式高清短片拍攝。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_Powershot_G1_X_camera_-_1.jpg" title="fig:Canon_Powershot_G1_X_camera_-_1.jpg">Canon_Powershot_G1_X_camera_-_1.jpg</a></p></td>
 </tr>
 <tr class="even">
@@ -232,13 +232,13 @@ G系列一共有14個型號，最新款是2014年3月5日發表的G1 X Mark II\[
   - [大光圈](../Page/光圈.md "wikilink")（最小F数达到2）
   - 可旋转液晶屏，相机顶部还具有一个简单的状态显示液晶屏
   - 支持[RAW格式输出](../Page/RAW.md "wikilink")
-  - 1/1.8 英寸[CCD传感器](../Page/CCD.md "wikilink")
-  - 可手动选择光圈或者[快门优先](../Page/快门.md "wikilink")
-  - 手动[白平衡](../Page/白平衡.md "wikilink")
+  - 1/1.8 英寸[CCD传感器](https://zh.wikipedia.org/wiki/CCD "wikilink")
+  - 可手动选择光圈或者[快门优先](https://zh.wikipedia.org/wiki/快门 "wikilink")
+  - 手动[白平衡](https://zh.wikipedia.org/wiki/白平衡 "wikilink")
   - 内建闪光灯
   - 热靴接口，支持外接闪光灯
   - 支持[USB连接](../Page/USB.md "wikilink")
-  - 使用[CF卡存储](../Page/CF卡.md "wikilink")
+  - 使用[CF卡存储](https://zh.wikipedia.org/wiki/CF卡 "wikilink")
   - 支持外接广角和增距镜
   - 手动调整曝光
   - 部分型号附带红外线遥控器
@@ -253,7 +253,7 @@ G7与之前的型号相比有很大的改变：
   - 由旋转屏改为固定屏。2.5"的固定屏比G6的2.0"旋转屏更大，并且像素数增加了75%。
   - G7不支持[RAW格式](../Page/RAW.md "wikilink")（仅支持[JPEG格式](../Page/JPEG.md "wikilink")）。
   - 无红外线遥控器。
-  - 存储卡由[CF卡改为](../Page/CompactFlash.md "wikilink")[SD卡](../Page/Secure_Digital.md "wikilink")（[SDHC](../Page/SDHC.md "wikilink")）。
+  - 存储卡由[CF卡改为](../Page/CompactFlash.md "wikilink")[SD卡](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink")（[SDHC](../Page/SDHC.md "wikilink")）。
   - 使用更小的电池。
   - 黑色、更多金属材料的机身。
 
@@ -309,7 +309,7 @@ G1 X Mark II與 G1 X 型號相比的改變：
 佳能出于日本文化（迷信）的考虑跳过了数字4。
 
   -
-    在汉语和日语中4的发音与**死**相当接近，当中亦包括[粵語发音的死](../Page/粵語.md "wikilink")。\[2\]
+    在汉语和日语中4的发音与**死**相当接近，当中亦包括[粵語发音的死](https://zh.wikipedia.org/wiki/粵語 "wikilink")。\[2\]
 
 业余摄影师也支持这种说法：从3直接跳到5的真相就是基于日本文化的考虑，在日本数字4被认为是不吉利的。这是因为4的发音“shi” 与死的发音相近。
 
@@ -318,7 +318,8 @@ G1 X Mark II與 G1 X 型號相比的改變：
 ## 参见
 
   - [Canon](../Page/Canon.md "wikilink")
-  - [Canon PowerShot](../Page/Canon_PowerShot.md "wikilink")
+  - [Canon
+    PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")
 
 ## 參考資料
 

@@ -1,9 +1,9 @@
 **Sun
-Enterprise**是[太阳计算机在](../Page/升阳.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")[伺服器方面的產品系列名稱](../Page/服务器.md "wikilink")，也可說是產品線名稱。此稱自1996年開始使用，至2001年停用。事實上最初稱為Sun
+Enterprise**是[太阳计算机在](https://zh.wikipedia.org/wiki/升阳 "wikilink")[UNIX](../Page/UNIX.md "wikilink")[伺服器方面的產品系列名稱](../Page/服务器.md "wikilink")，也可說是產品線名稱。此稱自1996年開始使用，至2001年停用。事實上最初稱為Sun
 **Ultra Enterprise**系列，然約在1998年去除了名稱中的Ultra一字，此後才正式稱為Sun Enterprise系列。
 
 Sun
-Enterprise系列的伺服器與Sun同時期推出的Ultra系列工作站一樣，都是使用[64位元的](../Page/64位.md "wikilink")[UltraSPARC處理器](../Page/UltraSPARC.md "wikilink")，此外也與Ultra系列工作站一樣使用[Solaris作業系統環境](../Page/Solaris.md "wikilink")。
+Enterprise系列的伺服器與Sun同時期推出的Ultra系列工作站一樣，都是使用[64位元的](https://zh.wikipedia.org/wiki/64位 "wikilink")[UltraSPARC處理器](https://zh.wikipedia.org/wiki/UltraSPARC "wikilink")，此外也與Ultra系列工作站一樣使用[Solaris作業系統環境](../Page/Solaris.md "wikilink")。
 
 Sun
 Enterprise系列有多種型款，從僅具備單顆處理器的初階伺服器到配備數十顆處理器的大型高階伺服器皆有。2001年，昇陽電腦提出新的產品線名稱**Sun
@@ -13,7 +13,7 @@ Fire**，才以Sun Fire系列來接替Sun Enterprise系列。
 
 1995年昇陽電腦推出了2款伺服器：**UltraServer 1**及**UltraServer 2**，此2款伺服器其實是以原有的Ultra
 1工作站、Ultra 2工作站修改而來，而UltraServer
-1/2同時也是第一款使用[UltraSPARC](../Page/UltraSPARC.md "wikilink")
+1/2同時也是第一款使用[UltraSPARC](https://zh.wikipedia.org/wiki/UltraSPARC "wikilink")
 I處理器的伺服器。這2款伺服器在Sun Enterprise一稱確立後，也順帶被改名成Sun **Ultra Enterprise
 1**與Sun **Ultra Enterprise
 2**，如此才能與昇陽電腦之後陸續發表的新款伺服器，在系列名稱上維持一致性。之後昇陽電腦將此2款伺服器的技術演變出**Ultra
@@ -42,7 +42,7 @@ II處理器，而250型則可配置2顆，之後此2款機種在1999年演變出
 ，取代了原有的SPARCserver 1000E及SPARCcenter
 2000E型伺服器，這一系列的伺服器使用共同的硬體架構設計，包括使用UltraSPARC
 I或UltraSPARC
-II處理器，以及使用Gigaplane的封包交換性匯流排（用於處理器與記憶體間），且具備高可用性\[2\]及[容錯](../Page/容錯.md "wikilink")\[3\]等特點，這系列的伺服器主要用於用來執行關鍵任務性\[4\]的應用程式。
+II處理器，以及使用Gigaplane的封包交換性匯流排（用於處理器與記憶體間），且具備高可用性\[2\]及[容錯](https://zh.wikipedia.org/wiki/容錯 "wikilink")\[3\]等特點，這系列的伺服器主要用於用來執行關鍵任務性\[4\]的應用程式。
 
 在系列中的3000型是以「配置在辦公室桌邊使用」為訴求，其機內最多可裝置6顆處理器、最多可配置10顆硬碟；而4000型則是訴求在機房內的機櫃機架之用，最多可裝置14顆處理器；5000型本質上與4000型無異，只是連同機櫃一體銷售；至於6000型也是機櫃型態出貨，且最多可裝置30顆處理器。
 
@@ -72,7 +72,7 @@ Enterprise 10000型。更簡單說，昇陽電腦直接將該部門的研發成�
 E10K的使用具容錯能力的Gigaplane-XB介面，且與x000、x500系列機種一樣具有高可靠性的特點，此外也具有系統分割能力，被分割出的小型化運算系統及資源被稱為「Domain」，每個Domain可以獨立執行一套Solaris作業系統。
 
 E10K也是資訊產業中首款能在TPC-D
-300GB的基準測項上突破2,000分的機種，E10K即便是在[.com風暴時都有多家知名用戶指名使用](../Page/互聯網泡沫.md "wikilink")，如[eBay](../Page/eBay.md "wikilink")。附帶一提的是，E10K的售價也相當高昂，過去一般而言一部滿裝配置的E10K，其售價都在100萬美元以上。
+300GB的基準測項上突破2,000分的機種，E10K即便是在[.com風暴時都有多家知名用戶指名使用](../Page/互聯網泡沫.md "wikilink")，如[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")。附帶一提的是，E10K的售價也相當高昂，過去一般而言一部滿裝配置的E10K，其售價都在100萬美元以上。
 
 E10K機內具有1個或2個控制器模組，該模組透過[乙太網路與外部電腦連接](../Page/以太网.md "wikilink")，在此所謂的外部電腦指的是系統服務處理器（System
 Service
@@ -82,7 +82,8 @@ E10K之後由新款的Sun Fire 12000型及15000型（簡稱Sun Frie 12K、15K或
 
 ## 參見
 
-  - [昇陽電腦](../Page/升阳.md "wikilink") - 創立與推行Sun Enterprise系列伺服器的業者。
+  - [昇陽電腦](https://zh.wikipedia.org/wiki/升阳 "wikilink") - 創立與推行Sun
+    Enterprise系列伺服器的業者。
   - [SPARC](../Page/SPARC.md "wikilink") - Sun Enterprise系列伺服器所使用的處理器架構。
   - [Solaris](../Page/Solaris.md "wikilink") - Sun
     Enterprise系列伺服器所使用的作業系統。
@@ -120,6 +121,6 @@ E10K之後由新款的Sun Fire 12000型及15000型（簡稱Sun Frie 12K、15K或
 5.  仍要視處理器的[前端匯流排時脈而定](../Page/前端总线.md "wikilink")。
 6.  Starfire原本只是研發時的專案代稱，不過之後也用於正式產品的行銷推展上。
 7.  Cray一直以來都擅長於[超級電腦技術](../Page/超级计算机.md "wikilink")，因此E10K的諸多系統架構設計皆使用超級電腦的先進（當年而言）架構。
-8.  若溯及更早，昇陽與[全錄實驗室合作開發出SPARCcenter](../Page/施乐帕洛阿尔托研究中心.md "wikilink")
+8.  若溯及更早，昇陽與[全錄實驗室合作開發出SPARCcenter](https://zh.wikipedia.org/wiki/施乐帕洛阿尔托研究中心 "wikilink")
     2000型，該機型的技術之後也用於Dragon（龍）多處理器工作站上，而SPARCcenter
     2000型之後衍生出CS6400型，更之後則是用E10K取代CS6400。

@@ -3,13 +3,13 @@
 [聯陽半導體](https://web.archive.org/web/20081101193323/http://www.ite.com.tw/product_info/PC/Brief-IT8705_2.asp)
 \]\] **LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-**，原名叫**Low Pin Count
 Bus**，是在[IBM PC兼容机中用于把低帶寬裝置](../Page/IBM_PC兼容机.md "wikilink")，尤其是[Super
-I/O裝置连接到](../Page/Super_I/O.md "wikilink")[CPU上](../Page/CPU.md "wikilink")。這些常见低速设备有：[BIOS](../Page/BIOS.md "wikilink")，[串口](../Page/串口.md "wikilink")，[并口](../Page/并口.md "wikilink")，[PS/2介面的](../Page/PS/2.md "wikilink")[键盘和](../Page/键盘.md "wikilink")[鼠标](../Page/鼠标.md "wikilink")，[軟碟機控制器](../Page/軟碟機控制器.md "wikilink")，[TPM](../Page/TPM.md "wikilink")。LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-通常和[主板上的](../Page/主板.md "wikilink")[南桥物理相连](../Page/南桥.md "wikilink")，[南桥在](../Page/南桥.md "wikilink")[IBM
+I/O裝置连接到](https://zh.wikipedia.org/wiki/Super_I/O "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")。這些常见低速设备有：[BIOS](../Page/BIOS.md "wikilink")，[串口](https://zh.wikipedia.org/wiki/串口 "wikilink")，[并口](https://zh.wikipedia.org/wiki/并口 "wikilink")，[PS/2介面的](https://zh.wikipedia.org/wiki/PS/2 "wikilink")[键盘和](https://zh.wikipedia.org/wiki/键盘 "wikilink")[鼠标](../Page/鼠标.md "wikilink")，[軟碟機控制器](https://zh.wikipedia.org/wiki/軟碟機控制器 "wikilink")，[TPM](https://zh.wikipedia.org/wiki/TPM "wikilink")。LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-通常和[主板上的](../Page/主板.md "wikilink")[南桥物理相连](../Page/南桥.md "wikilink")，[南桥在](../Page/南桥.md "wikilink")[IBM
 PC
-AT平台上通常连接了一系列的](../Page/IBM_PC_AT.md "wikilink")“老旧”设备，例如两个[可编程中断控制器](../Page/Intel_8259.md "wikilink")，
-[可编程计时器和两个](../Page/Intel_8253.md "wikilink") [ISA DMA
-控制器](../Page/Intel_8237.md "wikilink")。
-LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-是[Intel在](../Page/Intel.md "wikilink")1998时作为[工业标准架构体系](../Page/ISA.md "wikilink")（ISA）的替代品引入，它与ISA在软件层面是类似的，尽管在物理层面是有着巨大不同的，ISA是16bit宽，8.33 MHz的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-，而它是4bit宽，有着四倍频率（33.3 MHz）的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-。
-LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-最大的优点是只需要7个信号，在拥挤的现代主板上是很容易布局的。從[SkyLake微架構開始](../Page/SkyLake微架構.md "wikilink")，Intel用Enhanced
+AT平台上通常连接了一系列的](https://zh.wikipedia.org/wiki/IBM_PC_AT "wikilink")“老旧”设备，例如两个[可编程中断控制器](../Page/Intel_8259.md "wikilink")，
+[可编程计时器和两个](https://zh.wikipedia.org/wiki/Intel_8253 "wikilink") [ISA
+DMA 控制器](https://zh.wikipedia.org/wiki/Intel_8237 "wikilink")。
+LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-是[Intel在](https://zh.wikipedia.org/wiki/Intel "wikilink")1998时作为[工业标准架构体系](../Page/ISA.md "wikilink")（ISA）的替代品引入，它与ISA在软件层面是类似的，尽管在物理层面是有着巨大不同的，ISA是16bit宽，8.33 MHz的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-，而它是4bit宽，有着四倍频率（33.3 MHz）的-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-。
+LPC-{zh:总线;zh-hans:总线;zh-hk:匯流排;zh-tw:匯流排}-最大的优点是只需要7个信号，在拥挤的现代主板上是很容易布局的。從[SkyLake微架構開始](https://zh.wikipedia.org/wiki/SkyLake微架構 "wikilink")，Intel用Enhanced
 SPI（eSPI）取代LPC。
 
 ## 訊號

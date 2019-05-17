@@ -2,7 +2,7 @@
 
 ## 生平
 
-1875年出生在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，曾任《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》出版人、[美国联邦储备委员会主席和](../Page/美国联邦储备委员会主席.md "wikilink")[世界银行行长](../Page/世界银行行长.md "wikilink")。
+1875年出生在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，曾任《[华盛顿邮报](../Page/华盛顿邮报.md "wikilink")》出版人、[美国联邦储备委员会主席和](https://zh.wikipedia.org/wiki/美国联邦储备委员会主席 "wikilink")[世界银行行长](https://zh.wikipedia.org/wiki/世界银行行长 "wikilink")。
 
 ## 外部链接
 

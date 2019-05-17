@@ -1,4 +1,5 @@
-FreeCommander 是 [Windows](../Page/Windows.md "wikilink")
+FreeCommander 是
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
 標準元件[檔案總管的一個易於使用的替代品](../Page/檔案總管.md "wikilink")。該程序可以幫助您在
 Windows 中進行日常工作。你可以找到管理資料文件庫存的所有必要功能。你可以隨時隨地使用FreeCommander -
 只需將安裝目錄複製到CD或USB-Stick上即可。\[1\]
@@ -10,7 +11,7 @@ FreeCommander的主要功能：
   - 每個面板的可選目錄樹狀圖
   - 內置文件查看器可以十六進制、二進制、純文字或圖像格式查看文件
   - 內置 [ZIP](../Page/ZIP格式.md "wikilink") 處理：讀取、寫入和縮略圖
-  - 其他[壓縮打包文件格式](https://en.wikipedia.org/wiki/Archive_file_format)的插件（[RAR](../Page/Rar.md "wikilink")，[7z](../Page/7-Zip.md "wikilink")，...）
+  - 其他[壓縮打包文件格式](https://en.wikipedia.org/wiki/Archive_file_format)的插件（[RAR](https://zh.wikipedia.org/wiki/Rar "wikilink")，[7z](../Page/7-Zip.md "wikilink")，...）
   - 鏈接瀏覽
   - 輕鬆訪問系統文件夾、控制面板、桌面和開始選單
   - 複製、移動、刪除、重命名文件和文件夾

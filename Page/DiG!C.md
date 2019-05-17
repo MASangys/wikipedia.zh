@@ -1,5 +1,5 @@
 [DIGIC_III.JPG](https://zh.wikipedia.org/wiki/File:DIGIC_III.JPG "fig:DIGIC_III.JPG")
-**DIGIC**（），是[佳能公司为自己的](../Page/佳能.md "wikilink")[数码相机以及](../Page/数码相机.md "wikilink")[数码摄像机产品开发的专用数字影像处理器](../Page/DV.md "wikilink")，具体还可以分为处理相片的**DIGIC**芯片和处理[DV影像的](../Page/DV.md "wikilink")**DIGIC
+**DIGIC**（），是[佳能公司为自己的](../Page/佳能.md "wikilink")[数码相机以及](../Page/数码相机.md "wikilink")[数码摄像机产品开发的专用数字影像处理器](https://zh.wikipedia.org/wiki/DV "wikilink")，具体还可以分为处理相片的**DIGIC**芯片和处理[DV影像的](https://zh.wikipedia.org/wiki/DV "wikilink")**DIGIC
 DV**芯片。
 
 在广告中和芯片上，DIGIC常出现为 **DiG\!C** 。
@@ -11,20 +11,22 @@ DV**芯片。
 ### DIGIC
 
 最早的一代技术，最早出现在[Canon EOS
-10D上](../Page/Canon_EOS_10D.md "wikilink")，之后陆续使用在诸如[Canon
-PowerShot A520](../Page/Canon_PowerShot_A520.md "wikilink")，[Canon
-PowerShot S1 IS等型号相机上](../Page/Canon_PowerShot_S1_IS.md "wikilink")。
+10D上](https://zh.wikipedia.org/wiki/Canon_EOS_10D "wikilink")，之后陆续使用在诸如[Canon
+PowerShot
+A520](https://zh.wikipedia.org/wiki/Canon_PowerShot_A520 "wikilink")，[Canon
+PowerShot S1
+IS等型号相机上](https://zh.wikipedia.org/wiki/Canon_PowerShot_S1_IS "wikilink")。
 
 ### DIGIC II
 
 DIGIC
-II采用单芯片设计，这使得它可以通过减少零件来达到一个更加紧凑的设计。较上一代拥有较大的缓存，使用[DDR内存](../Page/DDR.md "wikilink")，加快了开机时间和对焦速度。
+II采用单芯片设计，这使得它可以通过减少零件来达到一个更加紧凑的设计。较上一代拥有较大的缓存，使用[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink")，加快了开机时间和对焦速度。
 
 [佳能声称在其DSLR产品线上](../Page/佳能.md "wikilink")，DIGIC
-II配合自己的[CMOS传感器改善了颜色](../Page/CMOS.md "wikilink")，锐度和自动白平衡。
+II配合自己的[CMOS传感器改善了颜色](https://zh.wikipedia.org/wiki/CMOS "wikilink")，锐度和自动白平衡。
 
 在一些高端机型上率先使用，如[Canon EOS
-400D等](../Page/Canon_EOS_400D.md "wikilink")。写入记忆卡速度可高达5.8
+400D等](https://zh.wikipedia.org/wiki/Canon_EOS_400D "wikilink")。写入记忆卡速度可高达5.8
 MB／秒。
 
 DIGIC
@@ -34,10 +36,11 @@ II在2007年爆出被破解，使得一些装备其的消费类机器可以使�
 
 DIGIC III应用于Canon PowerShot G7、G9，A560，A570 IS及S5 IS上。
 
-佳能在自己的[数码单反旗舰机型](../Page/数码单镜反光相机.md "wikilink")[Canon EOS-1D Mark
-III上使用了两块DIGIC](../Page/Canon_EOS-1D_Mark_III.md "wikilink")
+佳能在自己的[数码单反旗舰机型](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")[Canon
+EOS-1D Mark
+III上使用了两块DIGIC](https://zh.wikipedia.org/wiki/Canon_EOS-1D_Mark_III "wikilink")
 III芯片，使得可以达到每秒十张千万像素照片的连拍速度（与存储介质速度有关）。**EOS-1D Mark III**
-也成为此时世界上连拍速度最快的[相机](../Page/相机.md "wikilink")。
+也成为此时世界上连拍速度最快的[相机](https://zh.wikipedia.org/wiki/相机 "wikilink")。
 
 #### 新功能
 
@@ -48,10 +51,9 @@ III芯片，使得可以达到每秒十张千万像素照片的连拍速度（�
 
 2008年，佳能公司随[EOS 50D发布该款芯片](../Page/佳能_EOS_50D.md "wikilink")。 EOS
 50D（2008年8月发布）与[Canon EOS 5D Mark
-II](../Page/Canon_EOS_5D_Mark_II.md "wikilink")（2008年9月发布）采用DIGIC
-4影像處理器。其後不少IXUS系列的相機也在用進DIGIC 4如 95 IS ，100
-IS等等。2009年的APS-C专业机型EOS 7D和APS-H旗舰机型EOS-1D Mark IV采用了双DiG\!C
-4来应对高速连拍。
+II](https://zh.wikipedia.org/wiki/Canon_EOS_5D_Mark_II "wikilink")（2008年9月发布）采用DIGIC
+4影像處理器。其後不少IXUS系列的相機也在用進DIGIC 4如 95 IS ，100 IS等等。2009年的APS-C专业机型EOS
+7D和APS-H旗舰机型EOS-1D Mark IV采用了双DiG\!C 4来应对高速连拍。
 
 佳能宣称的改进有：
 
@@ -59,7 +61,8 @@ IS等等。2009年的APS-C专业机型EOS 7D和APS-H旗舰机型EOS-1D Mark IV�
   - 增强了高感光度下噪声控制能力
   - 使用14位[RAW格式](../Page/RAW.md "wikilink")
   - LiveView时可进行面部侦测自动对焦
-  - [H.264](../Page/H.264.md "wikilink") 1080p格式编码（只限以CMOS作為感光元件）
+  - [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
+    1080p格式编码（只限以CMOS作為感光元件）
 
 与之前的换代一个细节上的区别是，这一代直接使用阿拉伯数字来标注代数，而不是之前使用的罗马数字——亦即**DIGIC IV**的说法是非正式的。
 
@@ -136,8 +139,8 @@ H.264編解碼器2的色彩採樣。 \[英直譯,歡迎修正\]
 
 ## 参见
 
-  - [Nikon Expeed](../Page/Expeed.md "wikilink")
-  - [Sony BIONZ](../Page/BIONZ.md "wikilink")
+  - [Nikon Expeed](https://zh.wikipedia.org/wiki/Expeed "wikilink")
+  - [Sony BIONZ](https://zh.wikipedia.org/wiki/BIONZ "wikilink")
   - [Sony Exmor](../Page/Exmor.md "wikilink")
 
 ## 外部链接

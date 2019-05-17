@@ -1,22 +1,22 @@
-《**亂Online**》是[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，遊戲風格屬於校園環境，是一款不限地區，是終身免費的[網路遊戲](../Page/網路遊戲.md "wikilink")。在遊戲或官方網站常會看到「亂」字出現，正是強調該款遊戲的名稱。
+《**亂Online**》是[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，遊戲風格屬於校園環境，是一款不限地區，是終身免費的[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。在遊戲或官方網站常會看到「亂」字出現，正是強調該款遊戲的名稱。
 
 ## 遊戲營運
 
 ### 營運狀況
 
-《勇Online》是由[韓國Min](../Page/韓國.md "wikilink")
-Communications,開發，由[飛雅高科技](../Page/飛雅高科技.md "wikilink")（Feya
+《勇Online》是由[韓國Min](https://zh.wikipedia.org/wiki/韓國 "wikilink")
+Communications,開發，由[飛雅高科技](https://zh.wikipedia.org/wiki/飛雅高科技 "wikilink")（Feya
 Technologies Co.,
-Ltd.）授權在[台灣代理](../Page/台灣.md "wikilink")，在2005年2月24日開始封測，同年4月12日開放公測。而香港方面由雲起遊戲代理，在2005年4月16至4月26進行封測\[1\]，並於同年4月29日中午12:00正式公開測試\[2\]，香港地區已停止營運\[3\]。
+Ltd.）授權在[台灣代理](https://zh.wikipedia.org/wiki/台灣 "wikilink")，在2005年2月24日開始封測，同年4月12日開放公測。而香港方面由雲起遊戲代理，在2005年4月16至4月26進行封測\[1\]，並於同年4月29日中午12:00正式公開測試\[2\]，香港地區已停止營運\[3\]。
 
-2005年8月1日由「[英屬維京群島商](../Page/英屬維京群島.md "wikilink")[依斯楚數位娛樂有限公司台灣分公司](../Page/依斯楚數位娛樂.md "wikilink")」（XtraVision
+2005年8月1日由「[英屬維京群島商](https://zh.wikipedia.org/wiki/英屬維京群島 "wikilink")[依斯楚數位娛樂有限公司台灣分公司](https://zh.wikipedia.org/wiki/依斯楚數位娛樂 "wikilink")」（XtraVision
 Entertainment
-Ltd.）接手，另有[日本](../Page/日本.md "wikilink")、[大陸](../Page/大陸.md "wikilink")、[香港](../Page/香港.md "wikilink")、[馬來西亞](../Page/馬來西亞.md "wikilink")、[泰國](../Page/泰國.md "wikilink")、[印尼](../Page/印尼.md "wikilink")、[菲律賓等地區伺服器](../Page/菲律賓.md "wikilink")。2007年5月25日，依斯楚數位娛樂有限公司與Min
+Ltd.）接手，另有[日本](../Page/日本.md "wikilink")、[大陸](https://zh.wikipedia.org/wiki/大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[菲律賓等地區伺服器](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。2007年5月25日，依斯楚數位娛樂有限公司與Min
 Communications, Inc.發生糾紛\[4\]。2007年10月29日，由Min Communications,
-Inc.在台設立新公司「韓商[銘信數位娛樂有限公司台灣分公司](../Page/銘信數位娛樂.md "wikilink")」（Min
+Inc.在台設立新公司「韓商[銘信數位娛樂有限公司台灣分公司](https://zh.wikipedia.org/wiki/銘信數位娛樂 "wikilink")」（Min
 Communications Co., Ltd.；簡稱「Min-TW」）營運，包裝《[勇
-Online](../Page/勇_Online.md "wikilink")》重新推出，而《亂
-Online》在依斯楚仍正常營運。2009年4月8日，[行政院公平交易委員會第](../Page/行政院公平交易委員會.md "wikilink")909次委員會議決議，認定依斯楚數位娛樂與銘信數位娛樂「雙方各自在其官方網站上發布不利對方之聲明稿」之行為屬於「為競爭之目的，散布足以損害對方營業信譽之不實情事，均違反《[公平交易法](../Page/公平交易法.md "wikilink")》第22條規定」，命令兩家公司停止違法行為，兩家公司分別遭[罰鍰](../Page/罰鍰.md "wikilink")[新臺幣](../Page/新臺幣.md "wikilink")20萬元。\[5\]
+Online](https://zh.wikipedia.org/wiki/勇_Online "wikilink")》重新推出，而《亂
+Online》在依斯楚仍正常營運。2009年4月8日，[行政院公平交易委員會第](https://zh.wikipedia.org/wiki/行政院公平交易委員會 "wikilink")909次委員會議決議，認定依斯楚數位娛樂與銘信數位娛樂「雙方各自在其官方網站上發布不利對方之聲明稿」之行為屬於「為競爭之目的，散布足以損害對方營業信譽之不實情事，均違反《[公平交易法](https://zh.wikipedia.org/wiki/公平交易法 "wikilink")》第22條規定」，命令兩家公司停止違法行為，兩家公司分別遭[罰鍰](https://zh.wikipedia.org/wiki/罰鍰 "wikilink")[新臺幣](../Page/新臺幣.md "wikilink")20萬元。\[5\]
 
 ### 收費方式
 

@@ -1,5 +1,5 @@
 **At
-Last**是[美國](../Page/美國.md "wikilink")[洛杉磯一隊小眾樂隊](../Page/洛杉磯.md "wikilink")，由華人Justin
+Last**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯一隊小眾樂隊](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，由華人Justin
 Fong、韓裔人Hans Cho和Michael H.
 Lee、組成，主打[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")，演唱時沒有伴奏樂器，節拍和配樂全由聲藝配合，其樂風深受Stevie
 Wonder、Al Green、The Temptations 、Boyz II Men及Alicia Keys的影響。
@@ -10,11 +10,12 @@ Last樂隊，並從德州找來黑人DJ Say加盟，但DJ在2007年已退出。
 
 At Last的演出受到[溫明娜及其丈夫Eric](../Page/溫明娜.md "wikilink")
 Zee賞識，簽約成為他們的經理人，安排樂隊在[Justin
-Timberlake](../Page/Justin_Timberlake.md "wikilink")、[Destiny's
-Child及](../Page/Destiny's_Child.md "wikilink")[Boyz II
-Men的演唱會上演出](../Page/Boyz_II_Men.md "wikilink")。直至2006年，At
+Timberlake](https://zh.wikipedia.org/wiki/Justin_Timberlake "wikilink")、[Destiny's
+Child及](https://zh.wikipedia.org/wiki/Destiny's_Child "wikilink")[Boyz
+II
+Men的演唱會上演出](https://zh.wikipedia.org/wiki/Boyz_II_Men "wikilink")。直至2006年，At
 Last參加美國NBC電視台節目[America's Got
-Talent](../Page/America's_Got_Talent.md "wikilink")，其具有強烈節拍感的唱腔受到評判讚賞，開始為大眾認識。
+Talent](https://zh.wikipedia.org/wiki/America's_Got_Talent "wikilink")，其具有強烈節拍感的唱腔受到評判讚賞，開始為大眾認識。
 [atlast_slowitdown.jpg](https://zh.wikipedia.org/wiki/File:atlast_slowitdown.jpg "fig:atlast_slowitdown.jpg")》唱片大量運用[無伴奏合唱的](../Page/無伴奏合唱.md "wikilink")[嘻哈](../Page/嘻哈音樂.md "wikilink")，成為At
 Last的典型唱腔\]\] 在參與比賽前，該樂隊已完成首張大碟《Slow It Down》，唱片運用一種稱為Hip-hopapella，即hip
 hop及a cappella二字組合，指

@@ -1,6 +1,6 @@
-**CMSimple**是一種自由的[內容管理系統](../Page/內容管理系統.md "wikilink")。標榜架構簡單，程式檔案小並且反應快速。系統以[PHP編寫](../Page/PHP.md "wikilink")，可以在各種平台上運作。
+**CMSimple**是一種自由的[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")。標榜架構簡單，程式檔案小並且反應快速。系統以[PHP編寫](../Page/PHP.md "wikilink")，可以在各種平台上運作。
 
-CMSimple不需要使用[資料庫](../Page/資料庫.md "wikilink")，所有的頁面資料都以一個[超文件檔案格式](../Page/超文件.md "wikilink")，名稱為content.htm，存於全球資訊網伺服器上。純文字檔的資料設計使得安裝與備份工作相對較為簡單。
+CMSimple不需要使用[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，所有的頁面資料都以一個[超文件檔案格式](https://zh.wikipedia.org/wiki/超文件 "wikilink")，名稱為content.htm，存於全球資訊網伺服器上。純文字檔的資料設計使得安裝與備份工作相對較為簡單。
 
 ## 程式架構
 
@@ -13,10 +13,10 @@ CMSimple主要的程式功能分為頁面展示與後台管理。其頁面展示
 \<h1\>\</h1\>, \<h2\>\</h2\>，與\<h3\>\</h3\>
 標註進行分頁，因此其文件內容無法出現標題標註（header）所對應的粗體文字，使用者必須透過其他方式產生類似粗體文字的效果。
 
-CMSimple的後台管理，僅允許單一用戶使用。透過後台管理，可設定各種與頁面展示相關的參數。與許多[內容管理系統相同](../Page/內容管理系統.md "wikilink")，CMSimple提供[延伸程式開發架構的設計](../Page/延伸程式.md "wikilink")，可以讓程式開發者自行建構原始CMSimple以外的功能。
+CMSimple的後台管理，僅允許單一用戶使用。透過後台管理，可設定各種與頁面展示相關的參數。與許多[內容管理系統相同](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")，CMSimple提供[延伸程式開發架構的設計](https://zh.wikipedia.org/wiki/延伸程式 "wikilink")，可以讓程式開發者自行建構原始CMSimple以外的功能。
 
-CMSimple授權採[GPL](../Page/GPL.md "wikilink")
-v3、[Affero通用公共许可证](../Page/Affero通用公共许可证.md "wikilink")
+CMSimple授權採[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")
+v3、[Affero通用公共许可证](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")
 v3、Linkware和商业许可四種。\[1\]
 
 ## 参考资料
@@ -32,7 +32,7 @@ v3、Linkware和商业许可四種。\[1\]
 
 ## 參看
 
-  - [內容管理系統列表](../Page/內容管理系統列表.md "wikilink")
+  - [內容管理系統列表](https://zh.wikipedia.org/wiki/內容管理系統列表 "wikilink")
 
 [Category:内容管理系统](https://zh.wikipedia.org/wiki/Category:内容管理系统 "wikilink")
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")

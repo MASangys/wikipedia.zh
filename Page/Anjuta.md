@@ -6,21 +6,22 @@ latest_release_date =  | latest_preview_version = 3.25.91\[2\] |
 latest_preview_date =  | operating_system =
 [Linux](../Page/Linux.md "wikilink") | platform =
 [GNOME](../Page/GNOME.md "wikilink") | genre =
-[整合開發環境](../Page/整合開發環境.md "wikilink") | license
-= [GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink") | website =
-<http://www.anjuta.org/> }}
+[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink") |
+license =
+[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")
+| website = <http://www.anjuta.org/> }}
 
-**Anjuta**是一個用來撰寫[C](../Page/C語言.md "wikilink")／[C++程式的](../Page/C++.md "wikilink")[整合開發環境](../Page/整合開發環境.md "wikilink")，使用在[GNOME桌面環境上](../Page/GNOME.md "wikilink")。Anjuta擁有專案管理、[應用程式建立精靈以及整合的除錯器與](../Page/應用程式.md "wikilink")[Glade視窗介面設計工具等功能](../Page/Glade.md "wikilink")。其[原始碼編輯器也支援](../Page/原始碼.md "wikilink")[語法高亮度顯示](../Page/語法高亮度顯示.md "wikilink")。
+**Anjuta**是一個用來撰寫[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++程式的](../Page/C++.md "wikilink")[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，使用在[GNOME桌面環境上](../Page/GNOME.md "wikilink")。Anjuta擁有專案管理、[應用程式建立精靈以及整合的除錯器與](https://zh.wikipedia.org/wiki/應用程式 "wikilink")[Glade視窗介面設計工具等功能](../Page/Glade.md "wikilink")。其[原始碼編輯器也支援](https://zh.wikipedia.org/wiki/原始碼 "wikilink")[語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")。
 
-Anjuta是[自由軟體](../Page/自由軟體.md "wikilink")，使用[GNU通用公共許可證](../Page/GNU通用公共許可證.md "wikilink")。
+Anjuta是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")。
 
 ## 特性
 
 Anjuta特載了：
 
-  - 建基於[GDB及整合式](../Page/GDB.md "wikilink")[編譯器的交互型](../Page/編譯器.md "wikilink")[偵錯器](../Page/偵錯工具.md "wikilink")\[3\]
-  - 伴有原始碼瀏覽的[原始碼編輯器](../Page/原始碼編輯器.md "wikilink")
-  - [代碼補全及](../Page/自動完成.md "wikilink")[語法突顯](../Page/語法突顯.md "wikilink")
+  - 建基於[GDB及整合式](https://zh.wikipedia.org/wiki/GDB "wikilink")[編譯器的交互型](../Page/編譯器.md "wikilink")[偵錯器](https://zh.wikipedia.org/wiki/偵錯工具 "wikilink")\[3\]
+  - 伴有原始碼瀏覽的[原始碼編輯器](https://zh.wikipedia.org/wiki/原始碼編輯器 "wikilink")
+  - [代碼補全及](https://zh.wikipedia.org/wiki/自動完成 "wikilink")[語法突顯](../Page/語法突顯.md "wikilink")
   - 專案管理\[4\]
   - 應用程式精靈\[5\]
 
@@ -29,7 +30,7 @@ Anjuta特載了：
 ## 參見
 
   - [整合開發環境列表](../Page/整合開發環境列表.md "wikilink")
-  - [GNOME程式列表](../Page/GNOME程式列表.md "wikilink")
+  - [GNOME程式列表](https://zh.wikipedia.org/wiki/GNOME程式列表 "wikilink")
 
 ## 外部連結
 

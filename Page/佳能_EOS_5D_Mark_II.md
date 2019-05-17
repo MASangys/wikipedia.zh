@@ -1,5 +1,5 @@
 **佳能 EOS 5D Mark
-II**是[佳能EOS系列的一部](../Page/佳能EOS系列.md "wikilink")2100万[像素级别的](../Page/像素.md "wikilink")[全片幅數位單眼相機](../Page/全片幅數位單眼相機.md "wikilink")。5D
+II**是[佳能EOS系列的一部](../Page/佳能EOS系列.md "wikilink")2100万[像素级别的](../Page/像素.md "wikilink")[全片幅數位單眼相機](https://zh.wikipedia.org/wiki/全片幅數位單眼相機 "wikilink")。5D
 Mark II作为之前大受业余摄影爱好者欢迎的全片幅机型[佳能 EOS
 5D的后续机型](../Page/佳能_EOS_5D.md "wikilink")，发布于2008年9月17日。由于谐音的原因，5D
 Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
@@ -11,7 +11,9 @@ Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
   - 增加sRAW2模式（五百万像素/2784 x 1856）
   - 98％取景器视野范围，0.71x放大率——5D为96％
   - 3.9张每秒的连拍速度——5D为3fps
-  - [DIGIC 4图像处理器](../Page/DIGIC.md "wikilink")——5D使用DIGIC II
+  - [DIGIC
+    4图像处理器](https://zh.wikipedia.org/wiki/DIGIC "wikilink")——5D使用DIGIC
+    II
   - 得益于UDMA卡一次触发最多拍摄310张照片，相较于之前的5D的60张缓冲
   - 3英吋（76毫米）LCD（920,000像素，VGA規格）——5D為2.5英吋（64毫米）
 
@@ -19,7 +21,7 @@ Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
 
 [5DII肩屏.jpg](https://zh.wikipedia.org/wiki/File:5DII肩屏.jpg "fig:5DII肩屏.jpg")
 
-  - Movie模式可以[full HD](../Page/full_HD.md "wikilink")
+  - Movie模式可以[full HD](https://zh.wikipedia.org/wiki/full_HD "wikilink")
     1920x1080p拍摄12分钟，或以640 x 480拍摄30分钟（4GB@30fps）
   - 用于视频拍摄的内置麦克风和用于回放的扬声器
   - 麦克风插口
@@ -30,7 +32,7 @@ Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
 
 ### 视频录制
 
-这款产品最吸引人的新特性是它的[1080p高清视频拍摄能力](../Page/1080p.md "wikilink")。得益于[佳能EF镜头的品质和全画幅传感器的优势](../Page/佳能EF接环镜头列表.md "wikilink")，高清视频拍摄相较于低端的数码相机与DV拍摄的视频有一个质的飞跃。该产品是佳能EOS系列中第一款支持视频记录的机型。视频拍摄中可以进行摄影，但视频录制会暂停直到摄影结束。
+这款产品最吸引人的新特性是它的[1080p高清视频拍摄能力](../Page/1080p.md "wikilink")。得益于[佳能EF镜头的品质和全画幅传感器的优势](https://zh.wikipedia.org/wiki/佳能EF接环镜头列表 "wikilink")，高清视频拍摄相较于低端的数码相机与DV拍摄的视频有一个质的飞跃。该产品是佳能EOS系列中第一款支持视频记录的机型。视频拍摄中可以进行摄影，但视频录制会暂停直到摄影结束。
 
 虽然不是第一台可以进行视频拍摄的数码单反相机（第一部为[尼康D90](../Page/尼康D90.md "wikilink")，可拍摄720p视频），但却是135全画幅规格，且可以摄制1080p规格影片。单段影片剪辑最大可达4GB，也就是12分钟的16:9
 HD (1920 x 1080)视频，或30分钟4:3 (640 x 480)片段（依场景复杂程度不同有浮动）。
@@ -39,13 +41,13 @@ HD (1920 x 1080)视频，或30分钟4:3 (640 x 480)片段（依场景复杂程�
 Mark II替代专业高清摄像机的尝试。
 
 5D Mark II
-已用于[週末夜現場第](../Page/週末夜現場.md "wikilink")35季开幕的拍摄，也在美国电视连续剧[豪斯医生第六季最后一集用于全程拍摄](../Page/豪斯医生.md "wikilink")\[3\]。
+已用于[週末夜現場第](https://zh.wikipedia.org/wiki/週末夜現場 "wikilink")35季开幕的拍摄，也在美国电视连续剧[豪斯医生第六季最后一集用于全程拍摄](../Page/豪斯医生.md "wikilink")\[3\]。
 
 ## 接驳非佳能镜头
 
 [Rayqual_REOS_ADAPTER.JPG](https://zh.wikipedia.org/wiki/File:Rayqual_REOS_ADAPTER.JPG "fig:Rayqual_REOS_ADAPTER.JPG")
 [CANON_5D_MARK_II_WITH_LEITZ_ELMARIT_R19_LENS.JPG](https://zh.wikipedia.org/wiki/File:CANON_5D_MARK_II_WITH_LEITZ_ELMARIT_R19_LENS.JPG "fig:CANON_5D_MARK_II_WITH_LEITZ_ELMARIT_R19_LENS.JPG")
-佳能EF卡口是在售的数码单反相机中，[法兰距最短的机器](../Page/法兰距.md "wikilink")；而得益于全画幅的优势，佳能
+佳能EF卡口是在售的数码单反相机中，[法兰距最短的机器](https://zh.wikipedia.org/wiki/法兰距 "wikilink")；而得益于全画幅的优势，佳能
 EOS 5D、EOS 5D Mark
 II转接其他135镜头时不需要损失视角，因此常被摄影爱好者用于驳接非佳能镜头。接口附件有Fotodiox，Novoflex和日本RAYQUAL。可接NIKON，PENTAX，LEICA等镜头。使用非佳能镜头时，必须手动对焦，但佳能
 EOS 5D MARK II控制盘上的Av档，可以为非佳能镜头提供自动曝光功能。
@@ -62,7 +64,7 @@ EOS 5D MARK II控制盘上的Av档，可以为非佳能镜头提供自动曝光�
       - [佳能 EOS 5D](../Page/佳能_EOS_5D.md "wikilink")
   - [全画幅数码单反相机](../Page/全画幅数码单反相机.md "wikilink")
       - [尼康D700](../Page/尼康D700.md "wikilink")——同期发布的[尼康的全画幅数码单镜头反光相机](../Page/尼康.md "wikilink")
-      - [索尼α900](../Page/DSLR-α900.md "wikilink")——同期发布的[索尼的全画幅数码单镜头反光相机](../Page/索尼.md "wikilink")
+      - [索尼α900](https://zh.wikipedia.org/wiki/DSLR-α900 "wikilink")——同期发布的[索尼的全画幅数码单镜头反光相机](../Page/索尼.md "wikilink")
 
 ## 参考文献
 

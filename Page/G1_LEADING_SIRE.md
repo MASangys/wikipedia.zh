@@ -1,12 +1,12 @@
 **GI LEADING
-SIRE**是一隻由[科樂美在](../Page/科樂美.md "wikilink")1999年製作的[賽馬](../Page/賽馬.md "wikilink")[街機系列](../Page/街機.md "wikilink")。版本二於2000年發表，版本三則為2001年。以[磁力卡保存遊玩資料](../Page/磁力卡.md "wikilink")。
+SIRE**是一隻由[科樂美在](../Page/科樂美.md "wikilink")1999年製作的[賽馬](../Page/賽馬.md "wikilink")[街機系列](https://zh.wikipedia.org/wiki/街機 "wikilink")。版本二於2000年發表，版本三則為2001年。以[磁力卡保存遊玩資料](https://zh.wikipedia.org/wiki/磁力卡 "wikilink")。
 
 ## 遊戲簡介
 
 可以給人賭馬，買咭操馬和出馬。大多數的機舖都有十二個位給人玩。由於它玩法自由，玩家可以決定自己買哪種類型的馬匹。同時它可以從藍（speed
 bar）和紅（stamina bar）看到馬匹實力，不用像其他賽馬遊戲，例如
-[starhorse2](../Page/starhorse2.md "wikilink")、[ihorse](../Page/ihorse.md "wikilink")、[winning
-sire要顧及到配種](../Page/winning_sire.md "wikilink")、馬匹特性等問題。因玩法簡單，深受玩家歡迎，是街機中的長青樹。
+[starhorse2](https://zh.wikipedia.org/wiki/starhorse2 "wikilink")、[ihorse](https://zh.wikipedia.org/wiki/ihorse "wikilink")、[winning
+sire要顧及到配種](https://zh.wikipedia.org/wiki/winning_sire "wikilink")、馬匹特性等問題。因玩法簡單，深受玩家歡迎，是街機中的長青樹。
 
 ## 概要
 
@@ -145,11 +145,13 @@ G1 leading Ver.3新增特別賽，當玩家馬匹符合特別賽的出賽條件�
 
 ## 關聯作品
 
-  - [GI CLASSIC](../Page/GI_CLASSIC.md "wikilink")
-  - [GI CLASSIC WINDS](../Page/GI_CLASSIC_WINDS.md "wikilink")
-  - [GI CLASSIC EX](../Page/GI_CLASSIC_EX.md "wikilink")
+  - [GI CLASSIC](https://zh.wikipedia.org/wiki/GI_CLASSIC "wikilink")
+  - [GI CLASSIC
+    WINDS](https://zh.wikipedia.org/wiki/GI_CLASSIC_WINDS "wikilink")
+  - [GI CLASSIC
+    EX](https://zh.wikipedia.org/wiki/GI_CLASSIC_EX "wikilink")
   - [GI WINNING SIRE](../Page/GI_WINNING_SIRE.md "wikilink")
-  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
+  - [GI TURFWILD](https://zh.wikipedia.org/wiki/GI_TURFWILD "wikilink")
 
 ## 外部連結
 

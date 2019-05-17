@@ -1,5 +1,5 @@
 **Love
-Solfege**'，[日本](../Page/日本.md "wikilink")[同人音樂](../Page/同人音樂.md "wikilink")[社團](../Page/同人社團.md "wikilink")，簡稱**Lovege**。原名**Love
+Solfege**'，[日本](../Page/日本.md "wikilink")[同人音樂](../Page/同人音樂.md "wikilink")[社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")，簡稱**Lovege**。原名**Love
 Solfege**，在2007年7月4日發佈商業化專輯《フタリノワタシ》后，便將Love
 Solfege作爲商業化作品的署名，而在同人作品中則改用Love
 Solfege'的名義。
@@ -9,9 +9,9 @@ Solfege'的名義。
 有關其命名，社團提到是因爲“注入了以人聲爲理解音樂之重的想法”\[1\]。
 
 社團于2001年由松本慎一郎與鮎兩人建立。其音樂風格在同人音樂中非常少見。Love
-Solfege'最初的幾張專輯擁有非常濃厚的[古典色彩](../Page/古典音樂.md "wikilink")，之後為利用鮎唱歌的語速優勢大量的加入[電波歌](../Page/電波歌.md "wikilink")\[2\]直到現在形成了古典音樂與現代音樂相互交融的獨特風格。相應地，因爲大衆對其初期風格的接受度問題，以及擔任主唱的鮎在一開始並非擁有良好的唱功，Love
+Solfege'最初的幾張專輯擁有非常濃厚的[古典色彩](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")，之後為利用鮎唱歌的語速優勢大量的加入[電波歌](https://zh.wikipedia.org/wiki/電波歌 "wikilink")\[2\]直到現在形成了古典音樂與現代音樂相互交融的獨特風格。相應地，因爲大衆對其初期風格的接受度問題，以及擔任主唱的鮎在一開始並非擁有良好的唱功，Love
 Solfege'在早年的[Comic
-Market中人氣並不高](../Page/Comic_Market.md "wikilink")。隨著創作風格的成熟，鮎的演唱技術的提高，以及観月あんみ與的加入和多位[同人歌手與](../Page/同人歌手.md "wikilink")[聲優的協作](../Page/聲優.md "wikilink")，Love
+Market中人氣並不高](../Page/Comic_Market.md "wikilink")。隨著創作風格的成熟，鮎的演唱技術的提高，以及観月あんみ與的加入和多位[同人歌手與](https://zh.wikipedia.org/wiki/同人歌手 "wikilink")[聲優的協作](../Page/聲優.md "wikilink")，Love
 Solfege'逐漸成爲日本最有實力與最受歡迎的同人音樂社團之一。
 
 2007年7月，社團宣佈以商業化音樂團體身份出道並發佈專輯《フタリノワタシ》。團體名沿用最初的“Love
@@ -25,22 +25,22 @@ Solfege在商業化的進程中也有一定的成就。\[3\]
 
   - **松本慎一郎**（）\[4\]
 
-在社團内擔任[作曲](../Page/作曲.md "wikilink")、[編曲的工作](../Page/音樂製作人.md "wikilink")。自幼學習[鋼琴](../Page/鋼琴.md "wikilink")12年，小學開始自學[古典](../Page/古典音樂.md "wikilink")、[爵士音樂的作曲法](../Page/爵士樂.md "wikilink")，之後學習[管弦樂知識並正式開始作曲生涯](../Page/管弦樂.md "wikilink")。[東京理科大學畢業后從事一些](../Page/東京理科大學.md "wikilink")[電子遊戲與](../Page/電子遊戲.md "wikilink")[話劇的配樂](../Page/話劇.md "wikilink")，直到加入同人社團。號稱至今已經有了1800多部作品。另外，他經常在廚房中創作，喜歡收集佈娃娃，對耽美類漫畫感興趣\[5\]，並且是個吸煙者。座右銘是“學無止境”（）。
+在社團内擔任[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲的工作](../Page/音樂製作人.md "wikilink")。自幼學習[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")12年，小學開始自學[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")、[爵士音樂的作曲法](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，之後學習[管弦樂知識並正式開始作曲生涯](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")。[東京理科大學畢業后從事一些](../Page/東京理科大學.md "wikilink")[電子遊戲與](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[話劇的配樂](https://zh.wikipedia.org/wiki/話劇 "wikilink")，直到加入同人社團。號稱至今已經有了1800多部作品。另外，他經常在廚房中創作，喜歡收集佈娃娃，對耽美類漫畫感興趣\[5\]，並且是個吸煙者。座右銘是“學無止境”（）。
 
 他在商業場合使用本名，而在同人社團内則用的化名。另外，在其他的場合分別用過、、、、等署名。
 
   - ****
 
-主唱，也參與宣傳工作。早年學習[美聲](../Page/美聲.md "wikilink")，後來又接觸了[日本傳統音樂](../Page/邦樂.md "wikilink")。于第64屆[Comic
-Market](../Page/Comic_Market.md "wikilink")（簡稱C64）前夕以參與製作，直到C71時一起使用“”與“”兩個化名\[6\]，之後就只用署名。她以美聲唱法爲主，也演唱過[R\&B風格的歌曲](../Page/R&B.md "wikilink")，以多變的風格與唱法為吸引大衆的武器。曾經為遊戲《[片羽](../Page/片羽.md "wikilink")》演唱片尾曲（由松本慎一郎和[俄羅斯裔日本歌手](../Page/俄羅斯.md "wikilink")[Jenya擔任創作](../Page/Jenya.md "wikilink")）。在Love
+主唱，也參與宣傳工作。早年學習[美聲](https://zh.wikipedia.org/wiki/美聲 "wikilink")，後來又接觸了[日本傳統音樂](https://zh.wikipedia.org/wiki/邦樂 "wikilink")。于第64屆[Comic
+Market](../Page/Comic_Market.md "wikilink")（簡稱C64）前夕以參與製作，直到C71時一起使用“”與“”兩個化名\[6\]，之後就只用署名。她以美聲唱法爲主，也演唱過[R\&B風格的歌曲](https://zh.wikipedia.org/wiki/R&B "wikilink")，以多變的風格與唱法為吸引大衆的武器。曾經為遊戲《[片羽](../Page/片羽.md "wikilink")》演唱片尾曲（由松本慎一郎和[俄羅斯裔日本歌手](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[Jenya擔任創作](https://zh.wikipedia.org/wiki/Jenya "wikilink")）。在Love
 Solfege商業出道后正式加入，但於C74中停止並退出社團活動。
 
   - **鮎**
 
-專輯[插圖](../Page/插畫家.md "wikilink")，作詞與主唱。和松本慎一郎同為一開始就加入的成員。自幼學習繪畫與鋼琴，進入設計專業的學校。在學習生涯中有作品入選了（）。之後在Love
+專輯[插圖](https://zh.wikipedia.org/wiki/插畫家 "wikilink")，作詞與主唱。和松本慎一郎同為一開始就加入的成員。自幼學習繪畫與鋼琴，進入設計專業的學校。在學習生涯中有作品入選了（）。之後在Love
 Solfege'擔任插圖工作，有些時候也會參與作詞。也使用過“”與“”的名義參加其他活動。
 
-亦作爲主唱參加音樂製作。語速非常快，擅長唱[電波歌](../Page/電波歌.md "wikilink")\[7\]。雖然並未受到專業歌唱訓練以至於初期唱功不敢恭維，但是經過在社團内的磨炼，唱功已經進步至很成熟的地步。擅長變聲。
+亦作爲主唱參加音樂製作。語速非常快，擅長唱[電波歌](https://zh.wikipedia.org/wiki/電波歌 "wikilink")\[7\]。雖然並未受到專業歌唱訓練以至於初期唱功不敢恭維，但是經過在社團内的磨炼，唱功已經進步至很成熟的地步。擅長變聲。
 
 在2015年8月18日因急性心臟病逝世，由其丈夫松本慎一郎在官網發佈消息。
 
@@ -63,7 +63,7 @@ Note of Satanism》中亮相，並在商業專輯《Requiem ～best Collection �
 
   - **サイバー☆ユイ**
 
-肩負設計、日常銷售與促銷的工作。喜歡講[粗口](../Page/粗口.md "wikilink")。
+肩負設計、日常銷售與促銷的工作。喜歡講[粗口](https://zh.wikipedia.org/wiki/粗口 "wikilink")。
 
   - **なまにえバンザブロー**
 
@@ -86,11 +86,11 @@ Zero》開始就擔任主要詞作者的工作，但並非社團成員。寫詞�
 
   - ****
 
-[俄羅斯裔日本女歌手](../Page/俄羅斯.md "wikilink")，從2003年12月（）開始協助社團的創作，從事主唱與[英文](../Page/英文.md "wikilink")、[俄文的作詞](../Page/俄文.md "wikilink")。
+[俄羅斯裔日本女歌手](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，從2003年12月（）開始協助社團的創作，從事主唱與[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[俄文的作詞](https://zh.wikipedia.org/wiki/俄文 "wikilink")。
 
-此外，，[櫻庭和加奈](../Page/櫻庭和加奈.md "wikilink")（），[柚木
-まき](../Page/柚木_まき.md "wikilink")，，[茉菜](../Page/茉菜.md "wikilink")，[琥珀うさぎ](../Page/琥珀うさぎ.md "wikilink")
-，[Rita](../Page/理多.md "wikilink")，[片雾烈火等人也作爲特邀參與過社團專輯的製作與演唱](../Page/片雾烈火.md "wikilink")。
+此外，，[櫻庭和加奈](https://zh.wikipedia.org/wiki/櫻庭和加奈 "wikilink")（），[柚木
+まき](https://zh.wikipedia.org/wiki/柚木_まき "wikilink")，，[茉菜](https://zh.wikipedia.org/wiki/茉菜 "wikilink")，[琥珀うさぎ](https://zh.wikipedia.org/wiki/琥珀うさぎ "wikilink")
+，[Rita](../Page/理多.md "wikilink")，[片雾烈火等人也作爲特邀參與過社團專輯的製作與演唱](https://zh.wikipedia.org/wiki/片雾烈火 "wikilink")。
 
 ## 專輯
 
@@ -128,10 +128,11 @@ Zero》開始就擔任主要詞作者的工作，但並非社團成員。寫詞�
   - **cloisters' end and piano piece collection**（C76時發佈，2009年8月）
   - **the note of satanism**（C77時發佈，2009年12月）
   - **墟律のサンプル**（C78時發佈，2010年8月）
-  - **UTAOU**(C79時發佈，[2010年](../Page/2010.md "wikilink")12月)
+  - **UTAOU**(C79時發佈，[2010年](https://zh.wikipedia.org/wiki/2010 "wikilink")12月)
   - **Reception for witnesses**（C80時發佈，2011年8月）
   - **蓋然性進化論Ⅰ**（C82時發佈，2011年8月）
-  - **UTAOU2**(C83時發佈，[2012年](../Page/2012.md "wikilink")8月) \[11\]
+  - **UTAOU2**(C83時發佈，[2012年](https://zh.wikipedia.org/wiki/2012 "wikilink")8月)
+    \[11\]
   - **蓋然性進化論Ⅱ**（C84時發佈，2013年8月）
   - **無窮動perpetuo**（C92時發佈，2017年8月）
   - **philosophilia**（C93時發佈，2017年12月）

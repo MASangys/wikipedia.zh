@@ -1,8 +1,8 @@
 **Das U-Boot**
-是一個主要用於[嵌入式系统的](../Page/嵌入式系统.md "wikilink")[開機載入程式](../Page/啟動程式.md "wikilink")，可以支援多種不同的[計算機系統結構](../Page/計算機系統結構.md "wikilink")，包括[PPC](../Page/PowerPC.md "wikilink")、[ARM](../Page/ARM_architecture.md "wikilink")、[AVR32](../Page/AVR32.md "wikilink")、[MIPS](../Page/MIPS_architecture.md "wikilink")、[x86](../Page/x86_architecture.md "wikilink")、[68k](../Page/68k.md "wikilink")、[Nios與](../Page/Nios_embedded_processor.md "wikilink")[MicroBlaze](../Page/MicroBlaze.md "wikilink")。這也是一套在[GNU通用公共許可證之下發布的](../Page/GNU通用公共許可證.md "wikilink")[自由軟體](../Page/自由軟體.md "wikilink")。
+是一個主要用於[嵌入式系统的](../Page/嵌入式系统.md "wikilink")[開機載入程式](../Page/啟動程式.md "wikilink")，可以支援多種不同的[計算機系統結構](https://zh.wikipedia.org/wiki/計算機系統結構 "wikilink")，包括[PPC](../Page/PowerPC.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")、[AVR32](https://zh.wikipedia.org/wiki/AVR32 "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS_architecture "wikilink")、[x86](https://zh.wikipedia.org/wiki/x86_architecture "wikilink")、[68k](https://zh.wikipedia.org/wiki/68k "wikilink")、[Nios與](https://zh.wikipedia.org/wiki/Nios_embedded_processor "wikilink")[MicroBlaze](https://zh.wikipedia.org/wiki/MicroBlaze "wikilink")。這也是一套在[GNU通用公共許可證之下發布的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 Das
-U-Boot可以在x86電腦上建構，但這部x86電腦必須安裝有可支援特定平台結構的交互發展GNU[工具鏈](../Page/軟體開發工具.md "wikilink")，例如[crosstool](http://www.kegel.com/crosstool)、[Embedded
+U-Boot可以在x86電腦上建構，但這部x86電腦必須安裝有可支援特定平台結構的交互發展GNU[工具鏈](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，例如[crosstool](http://www.kegel.com/crosstool)、[Embedded
 Linux Development Kit](http://www.denx.de/wiki/DULG/ELDK)
 (ELDK)或[OSELAS.Toolchain](https://web.archive.org/web/20080125024412/http://www.pengutronix.de/oselas/toolchain/index_en.html)。
 
@@ -10,14 +10,14 @@ Linux Development Kit](http://www.denx.de/wiki/DULG/ELDK)
 
 ### 支援的檔案系統
 
-  - [Cramfs](../Page/Cramfs.md "wikilink")
-  - [ext2](../Page/ext2.md "wikilink")
-  - [FAT](../Page/File_Allocation_Table.md "wikilink")
-  - [FDOS](../Page/FDOS.md "wikilink")
-  - [JFFS2](../Page/JFFS2.md "wikilink")
+  - [Cramfs](https://zh.wikipedia.org/wiki/Cramfs "wikilink")
+  - [ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")
+  - [FAT](https://zh.wikipedia.org/wiki/File_Allocation_Table "wikilink")
+  - [FDOS](https://zh.wikipedia.org/wiki/FDOS "wikilink")
+  - [JFFS2](https://zh.wikipedia.org/wiki/JFFS2 "wikilink")
   - [ReiserFS](../Page/ReiserFS.md "wikilink")
   - [UBIFS](../Page/UBIFS.md "wikilink")
-  - [YAFFS2](../Page/YAFFS2.md "wikilink")
+  - [YAFFS2](https://zh.wikipedia.org/wiki/YAFFS2 "wikilink")
 
 ### 歷史
 

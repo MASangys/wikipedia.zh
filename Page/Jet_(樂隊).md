@@ -1,12 +1,12 @@
-**Jet**是来自[澳洲](../Page/澳洲.md "wikilink")[墨爾本的一個](../Page/墨爾本.md "wikilink")[摇滚乐队](../Page/摇滚乐队.md "wikilink")，第一章专辑《降生》（Get
-Born）于2003年上市，销售量超过百万张。Jet是2000年代開始后，成功的繼承了澳洲前輩世界级搖滾樂隊[比吉斯以及](../Page/比吉斯.md "wikilink")[空中補給樂隊](../Page/空中補給.md "wikilink")，成為澳洲出產的世界知名樂隊之一，。成員創作的樂曲多次成為澳洲，[歐洲以及](../Page/歐洲.md "wikilink")[美國音樂榜的冠軍單曲](../Page/美國.md "wikilink")。
+**Jet**是来自[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本的一個](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，第一章专辑《降生》（Get
+Born）于2003年上市，销售量超过百万张。Jet是2000年代開始后，成功的繼承了澳洲前輩世界级搖滾樂隊[比吉斯以及](../Page/比吉斯.md "wikilink")[空中補給樂隊](../Page/空中補給.md "wikilink")，成為澳洲出產的世界知名樂隊之一，。成員創作的樂曲多次成為澳洲，[歐洲以及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國音樂榜的冠軍單曲](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 2004年樂隊歌曲《Are you ganna be my
-girl》被美國[蘋果公司選為](../Page/蘋果公司.md "wikilink")[IPOD宣传歌曲](../Page/IPOD.md "wikilink")，成员在MV中身着复古[军服](../Page/军服.md "wikilink")，被舆论称之为具有[甲壳虫乐队风范](../Page/甲壳虫乐队.md "wikilink")。
+girl》被美國[蘋果公司選為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[IPOD宣传歌曲](https://zh.wikipedia.org/wiki/IPOD "wikilink")，成员在MV中身着复古[军服](../Page/军服.md "wikilink")，被舆论称之为具有[甲壳虫乐队风范](https://zh.wikipedia.org/wiki/甲壳虫乐队 "wikilink")。
 
 乐队於2005年推出纪念[T恤等服装纪念品](../Page/T恤.md "wikilink")，全球热销，在年尾進入亞洲市場，更是在[香港](../Page/香港.md "wikilink")，[东京等城市热卖](../Page/东京.md "wikilink")。
 
-除此之外，好莱坞电影《[蜘蛛侠](../Page/蜘蛛侠.md "wikilink")》系列的插曲亦为Jet乐队演唱。
+除此之外，好莱坞电影《[蜘蛛侠](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")》系列的插曲亦为Jet乐队演唱。
 
 於2012年3月26日宣布解散。
 
@@ -15,16 +15,16 @@ girl》被美國[蘋果公司選為](../Page/蘋果公司.md "wikilink")[IPOD宣
 ### 目前成员
 
   - –
-    [主唱](../Page/主唱.md "wikilink")，[吉他手來自墨爾本格林威夫利](../Page/吉他手.md "wikilink")（2001-至今）
+    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，[吉他手來自墨爾本格林威夫利](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（2001-至今）
 
   - –
-    [首席吉他](../Page/首席吉他.md "wikilink")，[副音來自墨爾本本里奇蒙德](../Page/副音.md "wikilink")（2001-至今）
+    [首席吉他](https://zh.wikipedia.org/wiki/首席吉他 "wikilink")，[副音來自墨爾本本里奇蒙德](https://zh.wikipedia.org/wiki/副音 "wikilink")（2001-至今）
 
   - –
-    [貝斯](../Page/貝斯.md "wikilink")，[键盘手](../Page/键盘手.md "wikilink")，[harmonica來自墨爾本](../Page/harmonica.md "wikilink")（2002-至今）
+    [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，[键盘手](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，[harmonica來自墨爾本](https://zh.wikipedia.org/wiki/harmonica "wikilink")（2002-至今）
 
   - –
-    [鼓手](../Page/鼓手.md "wikilink")，[percussion](../Page/Percussion_instrument.md "wikilink")，副音，[吉他手來自墨爾本](../Page/吉他手.md "wikilink")（2001-至今）
+    [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，[percussion](https://zh.wikipedia.org/wiki/Percussion_instrument "wikilink")，副音，[吉他手來自墨爾本](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（2001-至今）
 
 ### 樂團介紹
 

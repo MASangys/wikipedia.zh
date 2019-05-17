@@ -1,10 +1,11 @@
 [The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg")
-是由[同人組織](../Page/同人社團.md "wikilink")[上海愛莉絲幻樂團所制作的縱](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](../Page/東方Project.md "wikilink")6作，也是[東方Project在](../Page/東方Project.md "wikilink")[Windows平台上的第一作](../Page/Windows.md "wikilink")。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛莉絲幻樂團所制作的縱](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
-本作是在相隔[PC-98推出該平台最後的作品](../Page/PC-98.md "wikilink")「[東方怪綺談 ～ Mystic
+本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談
+～ Mystic
 Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic
 Market](../Page/Comic_Market.md "wikilink")
-62）正式發售，最後在同年9月27日開始在各[同人商店開始了](../Page/同人商店.md "wikilink")[委託販賣](../Page/委託販賣.md "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](../Page/漫畫虎之穴.md "wikilink")。\[1\]
+62）正式發售，最後在同年9月27日開始在各[同人商店開始了](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]
 
 東方紅魔鄉是第一部將「[幻想鄉](../Page/幻想鄉.md "wikilink")」作為一個地點引入東方系列的作品。此後東方系列的主要場景均為幻想鄉。
 
@@ -30,9 +31,9 @@ Ending。另外關於結局方面，即使武器種類的選擇都會令結局�
 
 ## 劇情
 
-當時是[幻想鄉的夏季](../Page/幻想鄉.md "wikilink")。但是，那一天不知甚麼原因，整個幻想鄉的天空籠罩著一片紅色[濃霧](../Page/濃霧.md "wikilink")。日光被遮住，使得這個幻想鄉的夏天顯得格外寒冷。
+當時是[幻想鄉的夏季](../Page/幻想鄉.md "wikilink")。但是，那一天不知甚麼原因，整個幻想鄉的天空籠罩著一片紅色[濃霧](https://zh.wikipedia.org/wiki/濃霧 "wikilink")。日光被遮住，使得這個幻想鄉的夏天顯得格外寒冷。
 
-博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢為了避免這片紅霧影響到人里的正常生活](../Page/博麗靈夢.md "wikilink")，因此對此事件展開調查。她在直覺影響之下，向湖的方向出發了；普通的[魔法使](../Page/魔法使.md "wikilink")[霧雨魔理沙正在空中觀覽著湖](../Page/霧雨魔理沙.md "wikilink")，突然發覺紅霧把視線都擋住了。想到怪物和人一樣都是不靠水就不能生存之下，魔理沙就像是为了寻找什么有价值的宝物一样，毅然向湖的方向出發了。
+博麗神社的[巫女](../Page/巫女.md "wikilink")[博麗靈夢為了避免這片紅霧影響到人里的正常生活](../Page/博麗靈夢.md "wikilink")，因此對此事件展開調查。她在直覺影響之下，向湖的方向出發了；普通的[魔法使](https://zh.wikipedia.org/wiki/魔法使 "wikilink")[霧雨魔理沙正在空中觀覽著湖](../Page/霧雨魔理沙.md "wikilink")，突然發覺紅霧把視線都擋住了。想到怪物和人一樣都是不靠水就不能生存之下，魔理沙就像是为了寻找什么有价值的宝物一样，毅然向湖的方向出發了。
 
 主角首先飛向了湖中的島，這個地方似乎是紅霧的源頭。在湖邊和湖中分別遇到了攔路的黑暗妖怪露米婭和冰之妖精琪露諾，主角打敗了她們，發現她們與紅霧異變無關。於是主角繼續前進，來到了紅魔館門口。紅魔館門口由中華風的妖怪紅美鈴看守。雙方經過交戰，紅美鈴被打敗，主角闖入了紅魔館內部。主角首先進入了地下的圖書館，館內的魔法使帕秋莉·诺蕾姬試圖阻止主角進入，未果。隨後主角到達了主要的走廊，並碰到了女僕長十六夜咲夜。咲夜也未能阻止主角接近大小姐。最後，主角在露臺面對了大小姐，即紅魔館的主人、緋紅的惡魔蕾米莉亚·斯卡雷特。經過對話，主角意識到，蕾米莉亚之所以引發了紅霧異變，是為了遮擋陽光，使自己能夠在白天出行更加舒服。經過一番戰鬥，蕾米莉亚被打敗。蕾米莉亚收起了紅霧，幻想鄉恢復了正常。
 
@@ -68,12 +69,12 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 <!-- end list -->
 
   - <span id="帕秋莉·諾蕾姬"></span>帕秋莉·諾蕾姬（，Patchouli Knowledge）
-    年齡超過100歲的魔女，身材有点矮小\[2\]，平常待在紅魔館裡面的[圖書館的](../Page/圖書館.md "wikilink")[學者](../Page/學者.md "wikilink")，有氣喘的毛病，詠唱魔法時常常因此中斷。平时都以浮空移动代替直接行走\[3\]，擅長操縱[七曜](../Page/七曜.md "wikilink")（火水木金土日月），名言是「凡物都有屬性。所謂的屬性，跟弱點是一樣的東西」。
+    年齡超過100歲的魔女，身材有点矮小\[2\]，平常待在紅魔館裡面的[圖書館的](https://zh.wikipedia.org/wiki/圖書館 "wikilink")[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，有氣喘的毛病，詠唱魔法時常常因此中斷。平时都以浮空移动代替直接行走\[3\]，擅長操縱[七曜](https://zh.wikipedia.org/wiki/七曜 "wikilink")（火水木金土日月），名言是「凡物都有屬性。所謂的屬性，跟弱點是一樣的東西」。
 
 <!-- end list -->
 
   - <span id="十六夜咲夜"></span>十六夜咲夜（，Izayoi Sakuya）
-    紅魔館[女僕長](../Page/女僕.md "wikilink")，红魔馆的实际管理人，特殊能力是控制時間，武器是[銀製](../Page/銀.md "wikilink")[小刀](../Page/小刀.md "wikilink")（因為是銀，所以也對妖怪、幽靈有效；不過因為銀取得不易，打算用別的材料）。她身材较高\[4\]，看起来像是10至20岁的少女（她本人也是这样说的），但從性格上來看卻像是幾百年前的人。
+    紅魔館[女僕長](https://zh.wikipedia.org/wiki/女僕 "wikilink")，红魔馆的实际管理人，特殊能力是控制時間，武器是[銀製](../Page/銀.md "wikilink")[小刀](https://zh.wikipedia.org/wiki/小刀 "wikilink")（因為是銀，所以也對妖怪、幽靈有效；不過因為銀取得不易，打算用別的材料）。她身材较高\[4\]，看起来像是10至20岁的少女（她本人也是这样说的），但從性格上來看卻像是幾百年前的人。
 
 <!-- end list -->
 
@@ -87,13 +88,13 @@ Extra關發生在異變解決之後。蕾米莉亚被打敗之後，經常來到
 
 ## 開發
 
-東方紅魔鄉是[ZUN第一次以](../Page/ZUN.md "wikilink")「[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project的开发成员ぽんち](../Page/西方Project.md "wikilink")（pbg）為ZUN准备了开发环境並提供了编程支持。
+東方紅魔鄉是[ZUN第一次以](../Page/ZUN.md "wikilink")「[上海愛麗絲幻樂團](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink")」名義發佈的遊戲作品。遊戲開發的大部分工作由ZUN一人完成，而[西方Project的开发成员ぽんち](../Page/西方Project.md "wikilink")（pbg）為ZUN准备了开发环境並提供了编程支持。
 
 ZUN認為，東方紅魔鄉作為上海愛麗絲幻樂團的第一部作品和他個人的第一部Windows遊戲作品，需要給人們留下深刻的印象，因此本作採用了西方世界的主題，而不是像其他作品那樣從東方世界取材。\[5\]
 
 符卡系統最初於1999年ZUN參與製作[西方Project時設計](../Page/西方Project.md "wikilink")，用於識別彈幕排列樣式與豐富角色的內涵。ZUN表示製作紅魔鄉本身就是為了引入符卡系統。\[6\]
 
-東方紅魔鄉也是ZUN編寫的第一個大型的Windows程式。ZUN表示「实际是托了[API和](../Page/應用程式接口.md "wikilink")[DirectX等环境过于好用的福了](../Page/DirectX.md "wikilink")」。遊戲開發過程中，更多的時間花在了[函式庫和工具的製作上面](../Page/函式庫.md "wikilink")。ZUN希望從下個作品開始遊戲效果能夠得到改善。\[7\]
+東方紅魔鄉也是ZUN編寫的第一個大型的Windows程式。ZUN表示「实际是托了[API和](https://zh.wikipedia.org/wiki/應用程式接口 "wikilink")[DirectX等环境过于好用的福了](../Page/DirectX.md "wikilink")」。遊戲開發過程中，更多的時間花在了[函式庫和工具的製作上面](../Page/函式庫.md "wikilink")。ZUN希望從下個作品開始遊戲效果能夠得到改善。\[7\]
 
 ## 註釋
 

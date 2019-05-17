@@ -1,6 +1,6 @@
-《Coco》是[美國創作歌手](../Page/美國.md "wikilink")[Colbie
-Caillat個人首張專輯](../Page/Colbie_Caillat.md "wikilink")，在2007年7月17日發行。專輯首週已賣出51,000張，並打入美國告示牌前200的第五名。\[1\]
-在2008年9月，這張專輯已經在[美國售出了](../Page/美國.md "wikilink")1,757,922張，並獲得RIAA的白金認證。。\[2\]\[3\]
+《Coco》是[美國創作歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[Colbie
+Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilink")，在2007年7月17日發行。專輯首週已賣出51,000張，並打入美國告示牌前200的第五名。\[1\]
+在2008年9月，這張專輯已經在[美國售出了](https://zh.wikipedia.org/wiki/美國 "wikilink")1,757,922張，並獲得RIAA的白金認證。。\[2\]\[3\]
 蔻比在接受MTV Latin America的訪問時指出專輯名為"Coco"是因為這是她的父母為她改的小名，而她的朋友也採用了這個名字。
 
 ## 曲目列表
@@ -26,8 +26,8 @@ Caillat個人首張專輯](../Page/Colbie_Caillat.md "wikilink")，在2007年7�
 
 ## 反應
 
-各方對這張專輯褒眨不一。「她唱著平常的事情，風格不做作、單純，讓她的旋律和鄰家女孩魅力陪伴著你。」[Allmusic說道](../Page/Allmusic.md "wikilink")\[4\]。[時人雜誌的柴克](../Page/時人雜誌.md "wikilink")·安諾德表示：「儘管中板的曲子有些混淆在一起，這個加州女孩仍帶來了那被陽光吻過的聲音\[5\]。」
-[滾石雜誌的卡恩](../Page/滾石雜誌.md "wikilink")·甘茲則批評蔻比「熱情的旋律，但在成千上萬的陽光歌聲中，實在很難為她下定論\[6\]。」
+各方對這張專輯褒眨不一。「她唱著平常的事情，風格不做作、單純，讓她的旋律和鄰家女孩魅力陪伴著你。」[Allmusic說道](https://zh.wikipedia.org/wiki/Allmusic "wikilink")\[4\]。[時人雜誌的柴克](https://zh.wikipedia.org/wiki/時人雜誌 "wikilink")·安諾德表示：「儘管中板的曲子有些混淆在一起，這個加州女孩仍帶來了那被陽光吻過的聲音\[5\]。」
+[滾石雜誌的卡恩](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")·甘茲則批評蔻比「熱情的旋律，但在成千上萬的陽光歌聲中，實在很難為她下定論\[6\]。」
 
 ## 銷售與排名
 

@@ -1,10 +1,10 @@
 Splashtop是一個商業性
-的[Linux發行版](../Page/Linux發行版.md "wikilink")，它針對個人電腦[主板與及其他電腦設備生產商](../Page/主板.md "wikilink")\[1\]。它由[Splashtop
-Inc.研發](../Page/Splashtop_Inc..md "wikilink")\[2\]。
+的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，它針對個人電腦[主板與及其他電腦設備生產商](../Page/主板.md "wikilink")\[1\]。它由[Splashtop
+Inc.研發](https://zh.wikipedia.org/wiki/Splashtop_Inc. "wikilink")\[2\]。
 
 ## 概念
 
-和多數Linux發行版不同，Splashtop是被設計在唯讀的設備上並一起付運的，而不是由用戶自己裝上的。用戶可以安裝其他[操作系統](../Page/操作系統.md "wikilink")，但每次只能開啟一個，很適合在只需要瀏覽網頁、作即時通訊或者其他操作系統有問題不能啟動時使用。Splashtop[啟動只需要](../Page/啟動程式.md "wikilink")5[秒鐘](../Page/秒鐘.md "wikilink")\[3\]，所以它在市場推廣時被稱為「即時啟動」(英文：instant-on)。
+和多數Linux發行版不同，Splashtop是被設計在唯讀的設備上並一起付運的，而不是由用戶自己裝上的。用戶可以安裝其他[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，但每次只能開啟一個，很適合在只需要瀏覽網頁、作即時通訊或者其他操作系統有問題不能啟動時使用。Splashtop[啟動只需要](../Page/啟動程式.md "wikilink")5[秒鐘](https://zh.wikipedia.org/wiki/秒鐘 "wikilink")\[3\]，所以它在市場推廣時被稱為「即時啟動」(英文：instant-on)。
 
 其實以往，已經有一些產品透過類似概念在不須啟動操作系統的情況下播放CD。
 
@@ -15,15 +15,15 @@ Inc.研發](../Page/Splashtop_Inc..md "wikilink")\[2\]。
   - 因為系統時唯讀的，所以不會有太多的安全漏洞。
   - 可以當作無碟電腦
   - 雖然它很輕巧和方便，但仍足夠用作web
-    desktop和網頁程式，有人認為它到了接近取代桌面[程式](../Page/應用程式.md "wikilink")。
+    desktop和網頁程式，有人認為它到了接近取代桌面[程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
 
 ## 功能
 
-Splashtop提供[圖形使用者介面](../Page/圖形使用者介面.md "wikilink")，基於[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")
-2.0的[網頁瀏覽器和](../Page/網頁瀏覽器.md "wikilink")
+Splashtop提供[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，基於[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
+2.0的[網頁瀏覽器和](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")
 [Skype](../Page/Skype.md "wikilink")
-[網絡電話](../Page/網絡電話.md "wikilink")\[4\]。
+[網絡電話](https://zh.wikipedia.org/wiki/網絡電話 "wikilink")\[4\]。
 
 ## 內部結構
 
@@ -37,7 +37,7 @@ WiFi AP" 主板上。在這主板上，它被稱為「Express Gate」\[7\]。
 
 ## 參考文獻
 
-  - "instant-on"的電腦概念同樣出現在[LinuxBIOS裏](../Page/LinuxBIOS.md "wikilink")。
+  - "instant-on"的電腦概念同樣出現在[LinuxBIOS裏](https://zh.wikipedia.org/wiki/LinuxBIOS "wikilink")。
 
 <references/>
 

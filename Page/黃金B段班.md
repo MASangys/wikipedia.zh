@@ -2,17 +2,17 @@
 
 ## 主持人
 
-  - 第一代：[小鐘](../Page/小鐘.md "wikilink")、[NONO](../Page/NONO.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/張芳奕.md "wikilink")、[李佩甄](../Page/李佩甄.md "wikilink")、[宋新妮](../Page/宋新妮.md "wikilink")、[小馬](../Page/小馬.md "wikilink")、[黃鐙輝](../Page/黃鐙輝.md "wikilink")、[王彩樺](../Page/王彩樺.md "wikilink")、[韋汝](../Page/韋汝.md "wikilink")
-  - 第二代：[小鐘](../Page/小鐘.md "wikilink")、[NONO](../Page/NONO.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[李佩甄](../Page/李佩甄.md "wikilink")、[宋新妮](../Page/宋新妮.md "wikilink")
+  - 第一代：[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[NONO](../Page/NONO.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](https://zh.wikipedia.org/wiki/張芳奕 "wikilink")、[李佩甄](../Page/李佩甄.md "wikilink")、[宋新妮](../Page/宋新妮.md "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[黃鐙輝](../Page/黃鐙輝.md "wikilink")、[王彩樺](../Page/王彩樺.md "wikilink")、[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")
+  - 第二代：[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[NONO](../Page/NONO.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[李佩甄](../Page/李佩甄.md "wikilink")、[宋新妮](../Page/宋新妮.md "wikilink")
 
 ## 名稱由來
 
-「B咖」是在台灣演藝圈最近興起的新名詞，「咖」字在[台語中與](../Page/台語.md "wikilink")「腳」同音，與英文的B字組合起來後，意思就是二線演員、[配角](../Page/配角.md "wikilink")。「黃金B段班」在意義上具有[黃金等級的B咖所開的班級](../Page/黃金.md "wikilink")。
+「B咖」是在台灣演藝圈最近興起的新名詞，「咖」字在[台語中與](https://zh.wikipedia.org/wiki/台語 "wikilink")「腳」同音，與英文的B字組合起來後，意思就是二線演員、[配角](https://zh.wikipedia.org/wiki/配角 "wikilink")。「黃金B段班」在意義上具有[黃金等級的B咖所開的班級](https://zh.wikipedia.org/wiki/黃金 "wikilink")。
 
 ## 主要內容
 
-2008年7月21日，《黃金B段班》開播，主持人[小鐘](../Page/小鐘.md "wikilink")、[小馬](../Page/小馬.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](../Page/韋汝.md "wikilink")9點談話節目；模仿[康康出名的](../Page/康康.md "wikilink")[黃镫輝](../Page/黃镫輝.md "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典搶飯碗](../Page/陳漢典.md "wikilink")！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇元素](../Page/類戲劇.md "wikilink")，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](../Page/小鐘.md "wikilink")、[小馬](../Page/小馬.md "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](../Page/韋汝.md "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。
-[佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](../Page/小鐘.md "wikilink")[客家族群](../Page/客家.md "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](../Page/韋汝.md "wikilink")，[小馬也有](../Page/小馬.md "wikilink")[非洲支持者](../Page/非洲.md "wikilink")，8個人一個人只要負責0.25（%）的[收視率](../Page/收視率.md "wikilink")，輕輕松松就能破2（%）。」
+2008年7月21日，《黃金B段班》開播，主持人[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝開始推辭上](https://zh.wikipedia.org/wiki/韋汝 "wikilink")9點談話節目；模仿[康康出名的](../Page/康康.md "wikilink")[黃镫輝](https://zh.wikipedia.org/wiki/黃镫輝 "wikilink")，則要在《黃金B段班》中扮演綜藝Ｂ咖中的Ｂ咖，立志作個有質感的諧星，要與[陳漢典搶飯碗](../Page/陳漢典.md "wikilink")！《黃金B段班》企圖開創另類談話節目型態，加入[類戲劇元素](../Page/類戲劇.md "wikilink")，給6位主持人合乎自己性格的角色，節目暫定八人挑梁主持，除[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小馬](https://zh.wikipedia.org/wiki/小馬 "wikilink")、[沈玉琳](../Page/沈玉琳.md "wikilink")、[小甜甜](../Page/小甜甜.md "wikilink")、[佩甄及](../Page/李佩甄.md "wikilink")[韋汝](https://zh.wikipedia.org/wiki/韋汝 "wikilink")6人確定外，還有兩名人選難産中。制作單位透露，會由戲劇界去尋找新面孔，缺乏一個美豔的諧星，還有可愛的傻大姊。
+[佩甄對新節目收視率有信心](../Page/李佩甄.md "wikilink")，「你看[小鐘負責](https://zh.wikipedia.org/wiki/小鐘 "wikilink")[客家族群](https://zh.wikipedia.org/wiki/客家 "wikilink")，我負責帶入婆婆媽媽收看，[韋汝吸引年輕人](https://zh.wikipedia.org/wiki/韋汝 "wikilink")，[小馬也有](https://zh.wikipedia.org/wiki/小馬 "wikilink")[非洲支持者](../Page/非洲.md "wikilink")，8個人一個人只要負責0.25（%）的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")，輕輕松松就能破2（%）。」
 
 ## 第二季的黃金B段班
 
@@ -81,7 +81,7 @@
 
   - 11.26 天啊\! 她竟然喜歡這樣\! 女藝人怪癖大公開
   - 11.25 別再帶孩子出來騙錢了
-  - 11.24 [狗仔到底在搞什麽鬼](../Page/狗仔.md "wikilink")
+  - 11.24 [狗仔到底在搞什麽鬼](https://zh.wikipedia.org/wiki/狗仔 "wikilink")
   - 11.20 不完美的女人你能接受嗎
   - 11.19 沒有你們我該怎麽辦.藝人光鮮亮麗幕後大功臣
   - 11.18 藝人遲到理由有多瞎
@@ -103,7 +103,8 @@
   - 10.28 大哥.我表現的好嗎
   - 10.27 女人超羨慕.男人流口水.女藝人性感睡衣大曝光
   - 10.24 愛到卡慘死.我的戀人瞎透了
-  - 10.23 女明星素顔大[PK](../Page/PK.md "wikilink").誰的肌膚最水嫩
+  - 10.23
+    女明星素顔大[PK](https://zh.wikipedia.org/wiki/PK "wikilink").誰的肌膚最水嫩
   - 10.22 山女與壁女的迷思 大胸VS小胸 誰的困擾多
   - 10.21 當B咖的助理.沒那麽容易
   - 10.20 不要拒絕我.男諧星也想談戀愛
@@ -112,7 +113,7 @@
   - 10.15 演藝圈該不該有跨界藝人
   - 10.14 殘酷排行榜 超迷人的腳趾頭
   - 10.13
-    [鐵獅玉玲珑之貴賓來喽](../Page/鐵獅玉玲珑.md "wikilink")([許效舜](../Page/許效舜.md "wikilink"))
+    [鐵獅玉玲珑之貴賓來喽](https://zh.wikipedia.org/wiki/鐵獅玉玲珑 "wikilink")([許效舜](../Page/許效舜.md "wikilink"))
   - 10.10 受不了 請你別再這樣做了
   - 10.09 戲劇綠葉角色也很紅
   - 10.08 我也想要談戀愛 [NONO來聯誼](../Page/NONO.md "wikilink")
@@ -182,7 +183,7 @@
   - 07.24 我的朋友超優
   - 07.23 偶像K歌大賽
   - 07.22 B段班的A咖好友
-  - 07.21 我要拉主Key 來賓：[高淩風](../Page/高淩風.md "wikilink")
+  - 07.21 我要拉主Key 來賓：[高淩風](https://zh.wikipedia.org/wiki/高淩風 "wikilink")
 
 -----
 

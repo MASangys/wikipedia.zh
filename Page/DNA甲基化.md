@@ -1,9 +1,9 @@
 [DNA_methylation.jpg](https://zh.wikipedia.org/wiki/File:DNA_methylation.jpg "fig:DNA_methylation.jpg")基因调控中起重要作用。\]\]
 
-**DNA甲基化**（）為[DNA化學修飾的一種形式](../Page/DNA.md "wikilink")，能在不改變DNA序列的前提下，改變遺傳表現。為[外遺傳編碼](../Page/外遺傳編碼.md "wikilink")（epigenetic
-code）的一部分，是一種[外遺傳機制](../Page/外遺傳學.md "wikilink")。DNA甲基化過程會使[甲基添加到DNA分子上](../Page/甲基.md "wikilink")，例如在[胞嘧啶環的](../Page/胞嘧啶.md "wikilink")5'碳上：這種[5'方向的DNA甲基化方式可見於所有脊椎動物](../Page/方向性.md "wikilink")。
+**DNA甲基化**（）為[DNA化學修飾的一種形式](https://zh.wikipedia.org/wiki/DNA "wikilink")，能在不改變DNA序列的前提下，改變遺傳表現。為[外遺傳編碼](https://zh.wikipedia.org/wiki/外遺傳編碼 "wikilink")（epigenetic
+code）的一部分，是一種[外遺傳機制](https://zh.wikipedia.org/wiki/外遺傳學 "wikilink")。DNA甲基化過程會使[甲基添加到DNA分子上](https://zh.wikipedia.org/wiki/甲基 "wikilink")，例如在[胞嘧啶環的](../Page/胞嘧啶.md "wikilink")5'碳上：這種[5'方向的DNA甲基化方式可見於所有脊椎動物](https://zh.wikipedia.org/wiki/方向性 "wikilink")。
 
-在[人類細胞內](../Page/人類.md "wikilink")，大約有1%的DNA[鹼基受到了](../Page/鹼基.md "wikilink")[甲基化](../Page/甲基化.md "wikilink")。在成熟[體細胞](../Page/體細胞.md "wikilink")[組織中](../Page/组织_\(生物学\).md "wikilink")，DNA甲基化一般發生於[CpG雙核苷酸](../Page/CpG位点.md "wikilink")（CpG
+在[人類細胞內](../Page/人類.md "wikilink")，大約有1%的DNA[鹼基受到了](https://zh.wikipedia.org/wiki/鹼基 "wikilink")[甲基化](../Page/甲基化.md "wikilink")。在成熟[體細胞](https://zh.wikipedia.org/wiki/體細胞 "wikilink")[組織中](https://zh.wikipedia.org/wiki/组织_\(生物学\) "wikilink")，DNA甲基化一般發生於[CpG雙核苷酸](../Page/CpG位点.md "wikilink")（CpG
 dinucleotide）部位；而非CpG甲基化則於[胚胎幹細胞中較為常見](../Page/胚胎幹細胞.md "wikilink")\[1\]
 \[2\]。植物體內胞嘧啶的甲基化則可分為對稱的CpG（或CpNpG），或是不對稱的CpNpNp形式（C與G是鹼基；p是磷酸根；N指的是任意的核苷酸）。
 
@@ -42,7 +42,7 @@ sequencing）方式測定。DNA甲基化可能使基因沉默化，進而使其�
 {{-}}
 
 [fr:Méthylation\#La méthylation de
-l'ADN](../Page/fr:Méthylation#La_méthylation_de_l'ADN.md "wikilink")
+l'ADN](https://zh.wikipedia.org/wiki/fr:Méthylation#La_méthylation_de_l'ADN "wikilink")
 
 [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
 [Category:表觀遺傳學](https://zh.wikipedia.org/wiki/Category:表觀遺傳學 "wikilink")

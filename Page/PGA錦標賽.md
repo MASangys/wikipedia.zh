@@ -1,7 +1,7 @@
 **PGA锦标赛**
-（，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国举行的每年一度的](../Page/美国.md "wikilink")[高尔夫球顶级赛事](../Page/高尔夫球.md "wikilink")，其主办方为[美國職業高爾夫球員協會](../Page/美國職業高爾夫球員協會.md "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](../Page/四大赛.md "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](../Page/美国名人赛.md "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），一般都在每年的8月中旬举行（一般与英国公开赛相隔四周）。由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](../Page/PGA欧洲巡回赛.md "wikilink")[日本高尔夫球巡回赛中的一环](../Page/日本高尔夫球巡回赛.md "wikilink")，2008年奖金总额达到750万美元。
+（，又称“PGA高尔夫球锦标赛”，也被美国以外地区称为“美国PGA锦标赛”），是在[美国举行的每年一度的](../Page/美国.md "wikilink")[高尔夫球顶级赛事](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，其主办方为[美國職業高爾夫球員協會](https://zh.wikipedia.org/wiki/美國職業高爾夫球員協會 "wikilink")（，简称**USPGA**）。该项赛事也是世界职业高尔夫球坛[四大赛中之一](https://zh.wikipedia.org/wiki/四大赛 "wikilink")（其余三项为[英国公开赛](../Page/英国高尔夫球公开赛.md "wikilink")、[美国名人赛和](https://zh.wikipedia.org/wiki/美国名人赛 "wikilink")[美国公开赛](../Page/美國高爾夫公開賽.md "wikilink")），一般都在每年的8月中旬举行（一般与英国公开赛相隔四周）。由于它是每年四大满贯赛事中最后一项，因此也被戏称为“Glory的最后一击”。这项赛事也是[PGA巡回赛](../Page/PGA巡回赛.md "wikilink")、[PGA欧洲巡回赛和](https://zh.wikipedia.org/wiki/PGA欧洲巡回赛 "wikilink")[日本高尔夫球巡回赛中的一环](https://zh.wikipedia.org/wiki/日本高尔夫球巡回赛 "wikilink")，2008年奖金总额达到750万美元。
 
-与其他大满贯赛事一样，PGA锦标赛的优胜者将取得直接参加其他赛事的优先权，这对于球员的职业生涯来说非常重要。在取得PGA锦标赛冠军后，该球员可以自动获邀参加此后5年内的其他三项大满贯赛事，同时也将获得终生直接晋级PGA锦标赛正赛的资格。另外，冠军获得者也可以直接参加今后5年内的PGA巡回赛全部比赛和[球员锦标赛](../Page/球员锦标赛.md "wikilink")。
+与其他大满贯赛事一样，PGA锦标赛的优胜者将取得直接参加其他赛事的优先权，这对于球员的职业生涯来说非常重要。在取得PGA锦标赛冠军后，该球员可以自动获邀参加此后5年内的其他三项大满贯赛事，同时也将获得终生直接晋级PGA锦标赛正赛的资格。另外，冠军获得者也可以直接参加今后5年内的PGA巡回赛全部比赛和[球员锦标赛](https://zh.wikipedia.org/wiki/球员锦标赛 "wikilink")。
 
 PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太出名，但近年来主办方选择了少数几个球场作为专用场地，而这些场地也同时为其他知名球赛服务。
 
@@ -10,19 +10,19 @@ PGA锦标赛在美国众多球场都举办过，早期的一些球场并不太�
 首届PGA锦标赛于1916年在[纽约Eastchester](../Page/纽约.md "wikilink") 的Siwanoy
 乡村高尔夫俱乐部举行。当时的冠军Jim
 Barnes赢得了500美元的奖金。与此相对，2008年PGA锦标赛的冠军Pádraig
-Harrington赢得了135万美元的巨奖。冠军同时还会赢得由纽约商业界大亨[罗德曼·沃纳梅克](../Page/罗德曼·沃纳梅克.md "wikilink")（Rodman
-Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilink")。
+Harrington赢得了135万美元的巨奖。冠军同时还会赢得由纽约商业界大亨[罗德曼·沃纳梅克](https://zh.wikipedia.org/wiki/罗德曼·沃纳梅克 "wikilink")（Rodman
+Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳梅克奖杯 "wikilink")。
 
-该项赛事在初期采用了[比洞赛模式](../Page/比洞赛.md "wikilink")，而自1958年起改用[比杆赛](../Page/比杆赛.md "wikilink")。有评论认为，正是媒体转播方出于提高收视率的考虑，而希望将一大批知名球员保留至决赛日，从而要求球赛组织者改变了比赛模式。
+该项赛事在初期采用了[比洞赛模式](../Page/比洞赛.md "wikilink")，而自1958年起改用[比杆赛](https://zh.wikipedia.org/wiki/比杆赛 "wikilink")。有评论认为，正是媒体转播方出于提高收视率的考虑，而希望将一大批知名球员保留至决赛日，从而要求球赛组织者改变了比赛模式。
 
 在1971年，PGA锦标赛破例在2月份举行，成为当年四大满贯赛事中最早的一项比赛。而到1960年代为止，比赛经常在英国公开赛一周后的7月举行，由于时间间隔太短，许多选手无法在短时间内跨过[大西洋参加这项赛事](../Page/大西洋.md "wikilink")。
 
 ## 参赛资格
 
 最初高尔夫球运动往往被富有的业余选手所掌控，因此PGA的创立者出于提高职业高尔夫球员的社会地位和影响力的目的而设立了这个赛事。这一传统在现今的比赛中仍得以体现。PGA锦标赛是四大满贯赛中唯一不邀请高水平业余选手参加的比赛，也是唯一为球会职业球员保留了大量参赛席位（156个席位中的20个）的赛事。这些席位的分配和争夺通过每年6月份各家俱乐部之间举行的[PGA
-职业国家锦标赛来完成](../Page/PGA_职业国家锦标赛.md "wikilink")。
+职业国家锦标赛来完成](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")。
 
-从1968年起，[PGA巡回赛已独立于美国职业高尔夫协会而自行运作](../Page/PGA巡回赛.md "wikilink")。这一巡回赛是由巡回赛职业球员组成的组织，但是PGA锦标赛仍然是由俱乐部和职业高尔夫教练组成的美国职业高尔夫协会所管理的。PGA锦标赛是四大满贯赛中唯一一个没有明文规定[世界排名前](../Page/高尔夫球官方排名.md "wikilink")50的选手的直接参赛权的比赛，但实际上没有通过资格赛的前100名选手一般都会受到邀请。
+从1968年起，[PGA巡回赛已独立于美国职业高尔夫协会而自行运作](../Page/PGA巡回赛.md "wikilink")。这一巡回赛是由巡回赛职业球员组成的组织，但是PGA锦标赛仍然是由俱乐部和职业高尔夫教练组成的美国职业高尔夫协会所管理的。PGA锦标赛是四大满贯赛中唯一一个没有明文规定[世界排名前](https://zh.wikipedia.org/wiki/高尔夫球官方排名 "wikilink")50的选手的直接参赛权的比赛，但实际上没有通过资格赛的前100名选手一般都会受到邀请。
 
 以下是参加该项锦标赛的资格标准:
 
@@ -30,11 +30,12 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
   - 最近5届美国公开赛的冠军
   - 最近5届美国名人赛的冠军
   - 最近5届英国公开赛的冠军
-  - 上一届[高级PGA锦标赛的冠军](../Page/高级PGA锦标赛.md "wikilink")
+  - 上一届[高级PGA锦标赛的冠军](https://zh.wikipedia.org/wiki/高级PGA锦标赛 "wikilink")
   - 上一届PGA锦标赛的前15名（包括并列第15名）成绩者
-  - 上一届[PGA 职业国家锦标赛的前](../Page/PGA_职业国家锦标赛.md "wikilink")20名成绩者
+  - 上一届[PGA
+    职业国家锦标赛的前](https://zh.wikipedia.org/wiki/PGA_职业国家锦标赛 "wikilink")20名成绩者
   - PGA巡回赛中获得奖金数最高的70名选手（统计期间自上一届PGA锦标赛前1周至本次PGA锦标赛前2周）
-  - 参加最近一届[莱德杯比赛的美国队成员](../Page/莱德杯.md "wikilink")
+  - 参加最近一届[莱德杯比赛的美国队成员](https://zh.wikipedia.org/wiki/莱德杯 "wikilink")
   - 自上一届PGA锦标赛之后，由PGA巡回赛协办或批准的赛事的冠军（不包括职业选手和业余选手混合赛或队际对抗赛的选手）
   - 美国职业高尔夫球协会保留邀请不符合上述各项标准的球员直接参赛的权利
   - 全部参赛选手名额为156人。如有空缺，则将优先从奖金数排名的选手名单中择优补满
@@ -73,7 +74,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="../Page/賈斯汀·托馬斯.md" title="wikilink">賈斯汀·托馬斯</a>(Justin Thomas)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賈斯汀·托馬斯" title="wikilink">賈斯汀·托馬斯</a>(Justin Thomas)</p></td>
 <td></td>
 <td><p>Quail Hollow Club</p></td>
 <td><p>Charlotte, North Carolina</p></td>
@@ -81,7 +82,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p><a href="../Page/吉米·沃克.md" title="wikilink">吉米·沃克</a>(Jimmy Walker)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉米·沃克" title="wikilink">吉米·沃克</a>(Jimmy Walker)</p></td>
 <td></td>
 <td><p>Baltusrol Golf Club, Lower Course</p></td>
 <td><p>Springfield, New Jersey</p></td>
@@ -89,7 +90,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>( Jason Day)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傑森·戴伊" title="wikilink">傑森·戴伊</a>( Jason Day)</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
 <td><p>Kohler, Wisconsin</p></td>
@@ -128,7 +129,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>272 (−8)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2010年PGA锦标赛.md" title="wikilink">2010</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2010年PGA锦标赛" title="wikilink">2010</a></p></td>
 <td><p><a href="../Page/馬丁·凱默爾.md" title="wikilink">馬丁·凱默爾</a>（Martin Kaymer）</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
@@ -136,7 +137,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>277 (−11)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2009年PGA锦标赛.md" title="wikilink">2009</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2009年PGA锦标赛" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/梁容银.md" title="wikilink">梁容银</a>（양용은）</p></td>
 <td></td>
 <td><p>明尼苏达黑泽汀球会</p></td>
@@ -144,7 +145,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>280 (−8)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2008年PGA锦标赛.md" title="wikilink">2008</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2008年PGA锦标赛" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/派洛·哈靈頓.md" title="wikilink">派洛·哈灵顿</a>（Pádraig Harrington）</p></td>
 <td></td>
 <td><p>Oakland Hills Country Club, South Course</p></td>
@@ -152,23 +153,23 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>71-74-66-66=<strong>277</strong> (−3)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2007年PGA锦标赛.md" title="wikilink">2007</a></p></td>
-<td><p><a href="../Page/泰格·伍兹.md" title="wikilink">泰格·伍兹</a>（Tiger Woods） (4)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2007年PGA锦标赛" title="wikilink">2007</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a>（Tiger Woods） (4)</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
 <td><p>奥克拉荷马州Tulsa</p></td>
 <td><p>71-63-69-69=<strong>272</strong> (−8)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2006年PGA锦标赛.md" title="wikilink">2006</a></p></td>
-<td><p><a href="../Page/泰格·伍兹.md" title="wikilink">泰格·伍兹</a>（Tiger Woods） (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2006年PGA锦标赛" title="wikilink">2006</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a>（Tiger Woods） (3)</p></td>
 <td></td>
 <td><p>Medinah Country Club, Course No. 3</p></td>
 <td><p>伊利诺斯州Medinah</p></td>
 <td><p>69-68-65-68=<strong>270</strong> (−18)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2005年PGA锦标赛.md" title="wikilink">2005</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2005年PGA锦标赛" title="wikilink">2005</a></p></td>
 <td><p><a href="../Page/菲爾·米克森.md" title="wikilink">菲爾·米克森</a>（Phil Mickelson）</p></td>
 <td></td>
 <td><p>Baltusrol Golf Club, Lower Course</p></td>
@@ -176,15 +177,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>67-65-72-72=<strong>276</strong> (−4)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2004年PGA锦标赛.md" title="wikilink">2004</a></p></td>
-<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh） (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2004年PGA锦标赛" title="wikilink">2004</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh） (2)</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
 <td><p>威斯康辛州Kohler</p></td>
 <td><p>67-68-69-76=<strong>280</strong> (−8)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2003年PGA锦标赛.md" title="wikilink">2003</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2003年PGA锦标赛" title="wikilink">2003</a></p></td>
 <td><p>Shaun Micheel</p></td>
 <td></td>
 <td><p>Oak Hill Country Club, East Course</p></td>
@@ -192,7 +193,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-68-69-70=<strong>276</strong> (−4)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2002年PGA锦标赛.md" title="wikilink">2002</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2002年PGA锦标赛" title="wikilink">2002</a></p></td>
 <td><p>Rich Beem</p></td>
 <td></td>
 <td><p>Hazeltine National Golf Club</p></td>
@@ -200,39 +201,39 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>72-66-72-68=<strong>278</strong> (−10)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/2001年PGA锦标赛.md" title="wikilink">2001</a></p></td>
-<td><p><a href="../Page/大衛·湯姆斯.md" title="wikilink">大衛·湯姆斯</a> (David Toms)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2001年PGA锦标赛" title="wikilink">2001</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大衛·湯姆斯" title="wikilink">大衛·湯姆斯</a> (David Toms)</p></td>
 <td></td>
 <td><p>Atlanta Athletic Club, Highlands Course</p></td>
 <td><p>乔治亚州Duluth</p></td>
 <td><p>66-65-65-69=<strong>265</strong> (−15)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2000年PGA锦标赛.md" title="wikilink">2000</a></p></td>
-<td><p><a href="../Page/泰格·伍兹.md" title="wikilink">泰格·伍兹</a>（Tiger Woods） (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2000年PGA锦标赛" title="wikilink">2000</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a>（Tiger Woods） (2)</p></td>
 <td></td>
 <td><p>Valhalla Golf Club</p></td>
 <td><p>肯塔基州Louisville</p></td>
 <td><p>66-67-70-67=<strong>270</strong> (−18)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年PGA锦标赛.md" title="wikilink">1999</a></p></td>
-<td><p><a href="../Page/泰格·伍兹.md" title="wikilink">泰格·伍兹</a>（Tiger Woods）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1999年PGA锦标赛" title="wikilink">1999</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰格·伍兹" title="wikilink">泰格·伍兹</a>（Tiger Woods）</p></td>
 <td></td>
 <td><p>Medinah Country Club, Course No. 3</p></td>
 <td><p>伊利诺斯州Medinah</p></td>
 <td><p>70-67-68-72=<strong>277</strong> (−11)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1998年PGA锦标赛.md" title="wikilink">1998</a></p></td>
-<td><p><a href="../Page/维杰·辛格.md" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1998年PGA锦标赛" title="wikilink">1998</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/维杰·辛格" title="wikilink">维杰·辛格</a>（Vijay Singh）</p></td>
 <td></td>
 <td><p>Sahalee Country Club</p></td>
 <td><p>华盛顿州Sammamish</p></td>
 <td><p>70-66-67-68=<strong>271</strong> (−9)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1997年PGA锦标赛.md" title="wikilink">1997</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1997年PGA锦标赛" title="wikilink">1997</a></p></td>
 <td><p>Davis Love III</p></td>
 <td></td>
 <td><p>Winged Foot Golf Club, West Course</p></td>
@@ -240,7 +241,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>66-71-66-66=<strong>269</strong> (−11)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1996年PGA锦标赛.md" title="wikilink">1996</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1996年PGA锦标赛" title="wikilink">1996</a></p></td>
 <td><p>Mark Brooks</p></td>
 <td></td>
 <td><p>Valhalla Golf Club</p></td>
@@ -248,7 +249,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>68-70-69-70=<strong>277</strong> (−11)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1995年PGA锦标赛.md" title="wikilink">1995</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1995年PGA锦标赛" title="wikilink">1995</a></p></td>
 <td><p>Steve Elkington</p></td>
 <td></td>
 <td><p>Riviera Country Club</p></td>
@@ -256,7 +257,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>68-67-68-64=<strong>267</strong> (−17)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1994年PGA锦标赛.md" title="wikilink">1994</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1994年PGA锦标赛" title="wikilink">1994</a></p></td>
 <td><p>Nick Price (2)</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
@@ -264,7 +265,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>67-65-70-67=<strong>269</strong> (−11)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1993年PGA锦标赛.md" title="wikilink">1993</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1993年PGA锦标赛" title="wikilink">1993</a></p></td>
 <td><p>Paul Azinger</p></td>
 <td></td>
 <td><p>Inverness Club</p></td>
@@ -272,7 +273,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-66-69-68=<strong>272</strong> (−12)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1992年PGA锦标赛.md" title="wikilink">1992</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1992年PGA锦标赛" title="wikilink">1992</a></p></td>
 <td><p>Nick Price</p></td>
 <td></td>
 <td><p>Bellerive Country Club</p></td>
@@ -280,7 +281,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>70-70-68-70=<strong>278</strong> (−6)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1991年PGA锦标赛.md" title="wikilink">1991</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1991年PGA锦标赛" title="wikilink">1991</a></p></td>
 <td><p>John Daly</p></td>
 <td></td>
 <td><p>Crooked Stick Golf Club</p></td>
@@ -288,7 +289,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-67-69-71=<strong>276</strong> (−12)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1990年PGA锦标赛.md" title="wikilink">1990</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1990年PGA锦标赛" title="wikilink">1990</a></p></td>
 <td><p>Wayne Grady</p></td>
 <td></td>
 <td><p>Shoal Creek Golf and Country Club</p></td>
@@ -296,7 +297,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>72-67-72-71=<strong>282</strong> (−6)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1989年PGA锦标赛.md" title="wikilink">1989</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1989年PGA锦标赛" title="wikilink">1989</a></p></td>
 <td><p>Payne Stewart</p></td>
 <td></td>
 <td><p>Kemper Lakes Golf Club</p></td>
@@ -304,7 +305,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>74-66-69-67=<strong>276</strong> (−12)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1988年PGA锦标赛.md" title="wikilink">1988</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1988年PGA锦标赛" title="wikilink">1988</a></p></td>
 <td><p>Jeff Sluman</p></td>
 <td></td>
 <td><p>Oak Tree Golf Club</p></td>
@@ -312,15 +313,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-70-68-65=<strong>272</strong> (−12)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1987年PGA锦标赛.md" title="wikilink">1987</a></p></td>
-<td><p><a href="../Page/拉里·尼尔森.md" title="wikilink">拉里·尼尔森</a>（Larry Nelson） (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1987年PGA锦标赛" title="wikilink">1987</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉里·尼尔森" title="wikilink">拉里·尼尔森</a>（Larry Nelson） (2)</p></td>
 <td></td>
 <td><p>PGA National Resort &amp; Spa</p></td>
 <td><p>佛罗里达州Palm Beach Gardens</p></td>
 <td><p>70-72-73-72=<strong>287</strong> (−1)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1986年PGA锦标赛.md" title="wikilink">1986</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1986年PGA锦标赛" title="wikilink">1986</a></p></td>
 <td><p>Bob Tway</p></td>
 <td></td>
 <td><p>Inverness Club</p></td>
@@ -328,7 +329,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>72-70-64-70=<strong>276</strong> (−8)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1985年PGA锦标赛.md" title="wikilink">1985</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1985年PGA锦标赛" title="wikilink">1985</a></p></td>
 <td><p>Hubert Green</p></td>
 <td></td>
 <td><p>Cherry Hills Country Club</p></td>
@@ -336,15 +337,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>67-69-70-72=<strong>278</strong> (−10)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1984年PGA锦标赛.md" title="wikilink">1984</a></p></td>
-<td><p><a href="../Page/李·特维诺.md" title="wikilink">李·特维诺</a>（Lee Trevino） (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1984年PGA锦标赛" title="wikilink">1984</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李·特维诺" title="wikilink">李·特维诺</a>（Lee Trevino） (2)</p></td>
 <td></td>
 <td><p>Shoal Creek|Shoal Creek Golf and Country Club</p></td>
 <td><p>阿拉巴马州Birmingham</p></td>
 <td><p>69-68-67-69=<strong>273</strong> (−15)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1983年PGA锦标赛.md" title="wikilink">1983</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1983年PGA锦标赛" title="wikilink">1983</a></p></td>
 <td><p>Hal Sutton</p></td>
 <td></td>
 <td><p>Riviera Country Club</p></td>
@@ -352,31 +353,31 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>65-66-72-71=<strong>274</strong> (−10)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1982年PGA锦标赛.md" title="wikilink">1982</a></p></td>
-<td><p><a href="../Page/雷蒙德·弗洛伊德.md" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）(2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1982年PGA锦标赛" title="wikilink">1982</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）(2)</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
 <td><p>奥克拉荷马州Tulsa</p></td>
 <td><p>63-69-68-72=<strong>272</strong> (−8)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1981年PGA锦标赛.md" title="wikilink">1981</a></p></td>
-<td><p><a href="../Page/拉里·尼尔森.md" title="wikilink">拉里·尼尔森</a>（Larry Nelson）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1981年PGA锦标赛" title="wikilink">1981</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉里·尼尔森" title="wikilink">拉里·尼尔森</a>（Larry Nelson）</p></td>
 <td></td>
 <td><p>Atlanta Athletic Club, Highlands Course</p></td>
 <td><p>乔治亚州Duluth</p></td>
 <td><p>70-66-66-71=<strong>273</strong> (−7)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1980年PGA锦标赛.md" title="wikilink">1980</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1980年PGA锦标赛" title="wikilink">1980</a></p></td>
 <td><p><a href="../Page/傑克·尼克勞斯.md" title="wikilink">杰克·尼克劳斯</a>（Jack Nicklaus） (5)</p></td>
 <td></td>
-<td><p><a href="../Page/Oak_Hill_Country_Club.md" title="wikilink">Oak Hill Country Club</a>, East Course</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oak_Hill_Country_Club" title="wikilink">Oak Hill Country Club</a>, East Course</p></td>
 <td><p>纽约州Rochester</p></td>
 <td><p>70-69-66-69=<strong>274</strong> (−6)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1979年PGA锦标赛.md" title="wikilink">1979</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1979年PGA锦标赛" title="wikilink">1979</a></p></td>
 <td><p>David Graham</p></td>
 <td></td>
 <td><p>Oakland Hills Country Club, South Course</p></td>
@@ -384,7 +385,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-68-70-65=<strong>272</strong> (−8)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1978年PGA锦标赛.md" title="wikilink">1978</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1978年PGA锦标赛" title="wikilink">1978</a></p></td>
 <td><p>John Mahaffey</p></td>
 <td></td>
 <td><p>Oakmont Country Club</p></td>
@@ -392,7 +393,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>75-67-68-66=<strong>276</strong> (−8)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1977年PGA锦标赛.md" title="wikilink">1977</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1977年PGA锦标赛" title="wikilink">1977</a></p></td>
 <td><p>Lanny Wadkins</p></td>
 <td></td>
 <td><p>Pebble Beach Golf Links</p></td>
@@ -400,15 +401,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-71-72-70=<strong>282</strong> (−6)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1976年PGA锦标赛.md" title="wikilink">1976</a></p></td>
-<td><p><a href="../Page/戴夫·斯托克顿.md" title="wikilink">戴夫·斯托克顿</a>（Dave Stockton） (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1976年PGA锦标赛" title="wikilink">1976</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴夫·斯托克顿" title="wikilink">戴夫·斯托克顿</a>（Dave Stockton） (2)</p></td>
 <td></td>
 <td><p>Congressional Country Club, Blue Course</p></td>
 <td><p>马里兰州Bethesda</p></td>
 <td><p>70-72-69-70=<strong>281</strong> (+1)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1975年PGA锦标赛.md" title="wikilink">1975</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1975年PGA锦标赛" title="wikilink">1975</a></p></td>
 <td><p><a href="../Page/傑克·尼克勞斯.md" title="wikilink">杰克·尼克劳斯</a>（Jack Nicklaus）(4)</p></td>
 <td></td>
 <td><p>Firestone Country Club, South Course</p></td>
@@ -416,15 +417,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>70-68-67-71=<strong>276</strong> (−4)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1974年PGA锦标赛.md" title="wikilink">1974</a></p></td>
-<td><p><a href="../Page/李·特维诺.md" title="wikilink">李·特维诺</a>（Lee Trevino）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1974年PGA锦标赛" title="wikilink">1974</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李·特维诺" title="wikilink">李·特维诺</a>（Lee Trevino）</p></td>
 <td></td>
 <td><p>Tanglewood Park, Championship Course</p></td>
 <td><p>北卡罗来纳州Clemmons</p></td>
 <td><p>73-66-68-69=<strong>276</strong> (−4)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1973年PGA锦标赛.md" title="wikilink">1973</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1973年PGA锦标赛" title="wikilink">1973</a></p></td>
 <td><p><a href="../Page/傑克·尼克勞斯.md" title="wikilink">杰克·尼克劳斯</a>（Jack Nicklaus）(3)</p></td>
 <td></td>
 <td><p>Canterbury Golf Club</p></td>
@@ -432,15 +433,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>72-68-68-69=<strong>277</strong> (−7)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1972年PGA锦标赛.md" title="wikilink">1972</a></p></td>
-<td><p><a href="../Page/蓋瑞·普萊爾.md" title="wikilink">蓋瑞·普萊爾</a>(Gary Player) (2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1972年PGA锦标赛" title="wikilink">1972</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蓋瑞·普萊爾" title="wikilink">蓋瑞·普萊爾</a>(Gary Player) (2)</p></td>
 <td></td>
 <td><p>Oakland Hills Country Club, South Course</p></td>
 <td><p>密歇根州Bloomfield Hills</p></td>
 <td><p>71-71-67-72=<strong>281</strong> (+1)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1971年PGA锦标赛.md" title="wikilink">1971</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1971年PGA锦标赛" title="wikilink">1971</a></p></td>
 <td><p><a href="../Page/傑克·尼克勞斯.md" title="wikilink">杰克·尼克劳斯</a>（Jack Nicklaus） (2)</p></td>
 <td></td>
 <td><p>PGA National Golf Club</p></td>
@@ -448,23 +449,23 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-69-70-73=<strong>281</strong> (−7)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1970年PGA锦标赛.md" title="wikilink">1970</a></p></td>
-<td><p><a href="../Page/戴夫·斯托克顿.md" title="wikilink">戴夫·斯托克顿</a>（Dave Stockton）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1970年PGA锦标赛" title="wikilink">1970</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴夫·斯托克顿" title="wikilink">戴夫·斯托克顿</a>（Dave Stockton）</p></td>
 <td></td>
 <td><p>Southern Hills Country Club</p></td>
 <td><p>奥克拉荷马州Tulsa</p></td>
 <td><p>70-70-66-73=<strong>279</strong> (−1)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1969年PGA锦标赛.md" title="wikilink">1969</a></p></td>
-<td><p><a href="../Page/雷蒙德·弗洛伊德.md" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1969年PGA锦标赛" title="wikilink">1969</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷蒙德·弗洛伊德" title="wikilink">雷蒙德·弗洛伊德</a>（Raymond Floyd）</p></td>
 <td></td>
 <td><p>NCR Country Club, South Course</p></td>
 <td><p>俄亥俄州Dayton</p></td>
 <td><p>69-66-67-74=<strong>276</strong> (−8)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1968年PGA锦标赛.md" title="wikilink">1968</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1968年PGA锦标赛" title="wikilink">1968</a></p></td>
 <td><p>Julius Boros</p></td>
 <td></td>
 <td><p>Pecan Valley Golf Club</p></td>
@@ -472,7 +473,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>71-71-70-69=<strong>281</strong> (+1)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1967年PGA锦标赛.md" title="wikilink">1967</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1967年PGA锦标赛" title="wikilink">1967</a></p></td>
 <td><p>Don January</p></td>
 <td></td>
 <td><p>Columbine Country Club</p></td>
@@ -480,7 +481,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>71-72-70-68=<strong>281</strong> (−7)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1966年PGA锦标赛.md" title="wikilink">1966</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1966年PGA锦标赛" title="wikilink">1966</a></p></td>
 <td><p>Al Geiberger</p></td>
 <td></td>
 <td><p>Firestone Country Club, South Course</p></td>
@@ -488,7 +489,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>68-72-68-72=<strong>280</strong> (E)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1965年PGA锦标赛.md" title="wikilink">1965</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1965年PGA锦标赛" title="wikilink">1965</a></p></td>
 <td><p>Dave Marr</p></td>
 <td></td>
 <td><p>Laurel Valley Golf Club</p></td>
@@ -496,7 +497,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>70-69-70-71=<strong>280</strong> (−4)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1964年PGA锦标赛.md" title="wikilink">1964</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1964年PGA锦标赛" title="wikilink">1964</a></p></td>
 <td><p>Bobby Nichols</p></td>
 <td></td>
 <td><p>Columbus Country Club</p></td>
@@ -504,7 +505,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>64-71-69-67=<strong>271</strong> (−9)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1963年PGA锦标赛.md" title="wikilink">1963</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1963年PGA锦标赛" title="wikilink">1963</a></p></td>
 <td><p><a href="../Page/傑克·尼克勞斯.md" title="wikilink">杰克·尼克劳斯</a>（Jack Nicklaus）</p></td>
 <td></td>
 <td><p>Dallas Athletic Club, Blue Course</p></td>
@@ -512,15 +513,15 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-73-69-68=<strong>279</strong> (−5)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1962年PGA锦标赛.md" title="wikilink">1962</a></p></td>
-<td><p><a href="../Page/蓋瑞·普萊爾.md" title="wikilink">蓋瑞·普萊爾</a>(Gary Player)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1962年PGA锦标赛" title="wikilink">1962</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蓋瑞·普萊爾" title="wikilink">蓋瑞·普萊爾</a>(Gary Player)</p></td>
 <td></td>
 <td><p>Aronimink Golf Club</p></td>
 <td><p>宾夕法尼亚州Newtown Square</p></td>
 <td><p>72-67-69-70=<strong>278</strong> (−2)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1961年PGA锦标赛.md" title="wikilink">1961</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1961年PGA锦标赛" title="wikilink">1961</a></p></td>
 <td><p>Jerry Barber</p></td>
 <td></td>
 <td><p>Olympia Fields Country Club</p></td>
@@ -528,7 +529,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>69-67-71-70=<strong>277</strong> (−3)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1960年PGA锦标赛.md" title="wikilink">1960</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1960年PGA锦标赛" title="wikilink">1960</a></p></td>
 <td><p>Jay Hebert</p></td>
 <td></td>
 <td><p>Firestone Country Club, South Course</p></td>
@@ -536,7 +537,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>72-67-72-70=<strong>281</strong> (+1)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1959年PGA锦标赛.md" title="wikilink">1959</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1959年PGA锦标赛" title="wikilink">1959</a></p></td>
 <td><p>Bob Rosburg</p></td>
 <td></td>
 <td><p>Minneapolis Golf Club</p></td>
@@ -544,7 +545,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td><p>71-72-68-66=<strong>277</strong> (−3)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1958年PGA锦标赛.md" title="wikilink">1958</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/1958年PGA锦标赛" title="wikilink">1958</a></p></td>
 <td><p>Dow Finsterwald</p></td>
 <td></td>
 <td><p>Llanerch Country Club</p></td>
@@ -764,7 +765,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 <td></td>
 <td><p>Jimmy Thomson</p></td>
 <td><p>3 &amp; 2</p></td>
-<td><p><a href="../Page/Pinehurst_Resort.md" title="wikilink">Pinehurst Resort</a>, No. 2 Course</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pinehurst_Resort" title="wikilink">Pinehurst Resort</a>, No. 2 Course</p></td>
 <td><p>北卡罗来纳州Pinehurst</p></td>
 </tr>
 <tr class="odd">
@@ -952,13 +953,14 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
   - 年龄最大的冠军：Julius Boros，1968年夺冠，48岁142天
   - 年龄最小的冠军：Gene Sarazen，1922年夺冠，20岁174天
   - 比洞赛时期冠亚军最大分差：Paul Runyan以8比7击败Sam Snead（1938年）
-  - 比杆赛时期冠亚军最大分差：7杆，冠军为[杰克·尼克劳斯](../Page/杰克·尼克劳斯.md "wikilink")（1980年）
+  - 比杆赛时期冠亚军最大分差：7杆，冠军为[杰克·尼克劳斯](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")（1980年）
   - 72洞赛最低绝对杆数：265杆，冠军为David Toms (66-65-65-69)，2001年
       - 这同时也是四大满贯赛事中最低的72洞杆数。
-  - 72洞赛最低相对杆数：−18, [泰格·伍兹](../Page/泰格·伍兹.md "wikilink") (66-67-70-67,
-    270杆) 和Bob May (72-66-66-66, 270杆)，2000年;
-    [泰格·伍兹](../Page/泰格·伍兹.md "wikilink") (69-68-65-68,
-    270杆)，2006年
+  - 72洞赛最低相对杆数：−18,
+    [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")
+    (66-67-70-67, 270杆) 和Bob May (72-66-66-66, 270杆)，2000年;
+    [泰格·伍兹](https://zh.wikipedia.org/wiki/泰格·伍兹 "wikilink")
+    (69-68-65-68, 270杆)，2006年
   - 18洞最低绝对杆数: 63 – Bruce Crampton, 1975年第2轮;Raymond Floyd, 1982年第1轮;
     Gary Player, 1984年第2轮; Vijay Singh, 1993第2轮; Michael Bradley,
     1995年第1轮; Brad Faxon, 1995年第4轮; José María Olazábal, 2000年第3轮;
@@ -979,7 +981,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](../Page/沃纳梅克奖杯.md "wikilin
 
 ## 參見條目
 
-  - [PGA巡迴賽](../Page/PGA巡迴賽.md "wikilink")
+  - [PGA巡迴賽](https://zh.wikipedia.org/wiki/PGA巡迴賽 "wikilink")
 
 ## 外部链接
 

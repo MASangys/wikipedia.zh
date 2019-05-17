@@ -1,19 +1,19 @@
-**Komica**，又稱為**K島**或戲稱為**糟糕島**，是由網名「1883氏」創辦的一個[2chan風格](../Page/双叶频道.md "wikilink")[貼圖討論版集合](../Page/論壇.md "wikilink")。網站架設於[DreamHost](../Page/DreamHost.md "wikilink")，大部分被認為是[台灣網站](../Page/台灣.md "wikilink")，有個別版面由[香港人開辦維護](../Page/香港.md "wikilink")\[1\]，是**[雙貓聯合站](../Page/雙貓聯合站.md "wikilink")**的參與網站之一。
+**Komica**，又稱為**K島**或戲稱為**糟糕島**，是由網名「1883氏」創辦的一個[2chan風格](https://zh.wikipedia.org/wiki/双叶频道 "wikilink")[貼圖討論版集合](https://zh.wikipedia.org/wiki/論壇 "wikilink")。網站架設於[DreamHost](https://zh.wikipedia.org/wiki/DreamHost "wikilink")，大部分被認為是[台灣網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")，有個別版面由[香港人開辦維護](../Page/香港.md "wikilink")\[1\]，是**[雙貓聯合站](https://zh.wikipedia.org/wiki/雙貓聯合站 "wikilink")**的參與網站之一。
 
-網站劃分爲以多種話題的討論版，大多沿用源自[2chan的貼圖版程式Futaba或其衍生物](../Page/2chan.md "wikilink")。與其他貼圖版網站類似，此站以高匿名度和[言論自由爲主要特色](../Page/言論自由.md "wikilink")，討論環境非常寬鬆。各版面雖制定了不同的發言規則，但是貫徹執行均由版主和管理員自由裁定\[2\]網站秩序通常由用戶默契和自律維持，但是濫用匿名機制大肆破壞規則發表不當言論的現象也極爲常見，故部分Komica用戶懷有主張社區封閉和排外的傾向。
+網站劃分爲以多種話題的討論版，大多沿用源自[2chan的貼圖版程式Futaba或其衍生物](https://zh.wikipedia.org/wiki/2chan "wikilink")。與其他貼圖版網站類似，此站以高匿名度和[言論自由爲主要特色](../Page/言論自由.md "wikilink")，討論環境非常寬鬆。各版面雖制定了不同的發言規則，但是貫徹執行均由版主和管理員自由裁定\[2\]網站秩序通常由用戶默契和自律維持，但是濫用匿名機制大肆破壞規則發表不當言論的現象也極爲常見，故部分Komica用戶懷有主張社區封閉和排外的傾向。
 
 ## 名稱
 
 此網站的名稱是創建者1883氏自創的合成字，原意是「Comic
-Cast（Broadcast）」（漫畫傳播）。又因為Komica偶有一限制級內容相關的討論或哈啦的話題出現，因此在歡樂惡搞版的一次[惡搞當中](../Page/惡搞.md "wikilink")，在有些人開了一連串標題為「糟糕島」的討論串後「糟糕島」之名便傳開，而常來此站或參與討論的人則被稱為「島民」。
+Cast（Broadcast）」（漫畫傳播）。又因為Komica偶有一限制級內容相關的討論或哈啦的話題出現，因此在歡樂惡搞版的一次[惡搞當中](https://zh.wikipedia.org/wiki/惡搞 "wikilink")，在有些人開了一連串標題為「糟糕島」的討論串後「糟糕島」之名便傳開，而常來此站或參與討論的人則被稱為「島民」。
 
 ## 歷史
 
-2005年5月14日，1883氏創建此站。2005年5月19日，加入[雙貓聯合站](../Page/雙貓聯合站.md "wikilink")（2Cat），開始與2cat並行管理的制度，雙方擁有的版面合併，而Komica獨有的版面則繼續獨立營運。2006年，Komica2成立。
+2005年5月14日，1883氏創建此站。2005年5月19日，加入[雙貓聯合站](https://zh.wikipedia.org/wiki/雙貓聯合站 "wikilink")（2Cat），開始與2cat並行管理的制度，雙方擁有的版面合併，而Komica獨有的版面則繼續獨立營運。2006年，Komica2成立。
 
 2013年11月13日，當日下午遭到不明人士入侵，並持續刪文（或大規模刪文）甚至關閉網站。
 
-2014年8月20日，[自由時報等多家媒體在報導一件男子企圖自殺新聞時](../Page/自由時報.md "wikilink")，誤將Komica的簡稱「K島」當作[K他命的代稱](../Page/K他命.md "wikilink")\[3\]\[4\]，引起Komica使用者不滿\[5\]。
+2014年8月20日，[自由時報等多家媒體在報導一件男子企圖自殺新聞時](../Page/自由時報.md "wikilink")，誤將Komica的簡稱「K島」當作[K他命的代稱](https://zh.wikipedia.org/wiki/K他命 "wikilink")\[3\]\[4\]，引起Komica使用者不滿\[5\]。
 
 2017年5月4日，1883氏帳號遭到伺服器空間供應商DreamHost關閉，造成Komica大部分版面以及Komica Wiki無法連上。
 
@@ -21,7 +21,7 @@ Cast（Broadcast）」（漫畫傳播）。又因為Komica偶有一限制級內�
 
 目前Komica有4個相關網站：
 
-  - Komica：主站，以全年齡的[動漫討論為主](../Page/動漫.md "wikilink")，以不同類型的主題分為不同的討論版，亦有一些[電腦](../Page/電腦.md "wikilink")、[新聞](../Page/新聞.md "wikilink")、[軍事](../Page/軍事.md "wikilink")、[武術等的相關討論版](../Page/武術.md "wikilink")。
+  - Komica：主站，以全年齡的[動漫討論為主](../Page/動漫.md "wikilink")，以不同類型的主題分為不同的討論版，亦有一些[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[軍事](../Page/軍事.md "wikilink")、[武術等的相關討論版](../Page/武術.md "wikilink")。
 
 <!-- end list -->
 
@@ -30,20 +30,20 @@ Cast（Broadcast）」（漫畫傳播）。又因為Komica偶有一限制級內�
 
 <!-- end list -->
 
-  - Komica2：又稱為「裡版」，於2006年成立，由於主站禁止放置[裸體或](../Page/裸體.md "wikilink")[性交等色情圖片](../Page/性交.md "wikilink")，因而開設裡版來放置這類主題，和Komica一樣對不同類型的主題有不同的版面討論。
-  - KomicaWiki：Komica的附屬百科，採用[PukiWiki的架構](../Page/PukiWiki.md "wikilink")，主要記錄動漫或與Komica相關的條目，先前為避免破壞而分為唯讀版與編輯版。唯讀版僅供瀏覽，不開放編輯和回應；編輯版可自由編輯和回應，兩版本己合併並設為唯獨，現在已將原本內容移植至[Mediawiki系統的](../Page/Mediawiki.md "wikilink")[komica
+  - Komica2：又稱為「裡版」，於2006年成立，由於主站禁止放置[裸體或](https://zh.wikipedia.org/wiki/裸體 "wikilink")[性交等色情圖片](../Page/性交.md "wikilink")，因而開設裡版來放置這類主題，和Komica一樣對不同類型的主題有不同的版面討論。
+  - KomicaWiki：Komica的附屬百科，採用[PukiWiki的架構](../Page/PukiWiki.md "wikilink")，主要記錄動漫或與Komica相關的條目，先前為避免破壞而分為唯讀版與編輯版。唯讀版僅供瀏覽，不開放編輯和回應；編輯版可自由編輯和回應，兩版本己合併並設為唯獨，現在已將原本內容移植至[Mediawiki系統的](https://zh.wikipedia.org/wiki/Mediawiki "wikilink")[komica
     wiki](https://wiki.komica.org/%E9%A6%96%E9%A0%81)。有許多內容是事實和惡搞參雜，亦記有島民常用語、成句、Komica上的名人和歴史事件。
-  - DoujinWiki：其中「Doujin」的意義是「[同人](../Page/同人.md "wikilink")」的[日本語的羅馬字拼音](../Page/日本語.md "wikilink")，是Komica的附屬百科，採用[PukiWiki的架構](../Page/PukiWiki.md "wikilink")，以記錄中文同人出版品和相關知識為主。
+  - DoujinWiki：其中「Doujin」的意義是「[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")」的[日本語的羅馬字拼音](https://zh.wikipedia.org/wiki/日本語 "wikilink")，是Komica的附屬百科，採用[PukiWiki的架構](../Page/PukiWiki.md "wikilink")，以記錄中文同人出版品和相關知識為主。
 
 ## 使用模式
 
-此討論板採非會員制與隱藏使用者[IP的方式運作](../Page/IP.md "wikilink")，也就是除了ID是固定的之外，讀者無法得知留言是由誰留下，因此可引出留言者的心裡話。但也有部分討論版，會因而不時出現流於惡意攻詰與散播不負責任言論的傾向。除了被加入精華區的文章，新留言會將舊的留言覆蓋。
+此討論板採非會員制與隱藏使用者[IP的方式運作](https://zh.wikipedia.org/wiki/IP "wikilink")，也就是除了ID是固定的之外，讀者無法得知留言是由誰留下，因此可引出留言者的心裡話。但也有部分討論版，會因而不時出現流於惡意攻詰與散播不負責任言論的傾向。除了被加入精華區的文章，新留言會將舊的留言覆蓋。
 
 ## 事件
 
 ### 封鎖
 
-主版的“文化交流”板塊曾長期被中國[防火長城封鎖](../Page/防火長城.md "wikilink")，2010年夏被解封。而[港澳地區的網絡連接不受中國大陸管制](../Page/港澳.md "wikilink")，所以港澳地區的訪問不受影響。但是，在2010年夏季之後，中國大陸方面仍對komica的部份區塊，如komica2進行封鎖。其附屬的KomicaWiki的訪問亦不穩定，在GMT+8時間2012年11月5日，komica的百科區塊再次被封鎖。
+主版的“文化交流”板塊曾長期被中國[防火長城封鎖](https://zh.wikipedia.org/wiki/防火長城 "wikilink")，2010年夏被解封。而[港澳地區的網絡連接不受中國大陸管制](https://zh.wikipedia.org/wiki/港澳 "wikilink")，所以港澳地區的訪問不受影響。但是，在2010年夏季之後，中國大陸方面仍對komica的部份區塊，如komica2進行封鎖。其附屬的KomicaWiki的訪問亦不穩定，在GMT+8時間2012年11月5日，komica的百科區塊再次被封鎖。
 
 2013年初，中國大陸完全解封Komica，所有文字、圖片、板塊均可正常顯示。 \[7\]至2014年3月24日，國際政治版被GFW封鎖
 
@@ -65,7 +65,7 @@ Cast（Broadcast）」（漫畫傳播）。又因為Komica偶有一限制級內�
 
 ### 2017年1883氏帳號遭DreamHost關閉事件
 
-2017年5月4號中午，Komica的伺服器空間供應商[DreamHost通知站主](../Page/DreamHost.md "wikilink")1883氏，指綜合板所在主機上有**嚴重違反規定**的圖片，Dreamhost在確認過後已關閉了1883氏的帳號。由於在三年前發生過類似情況時，1883氏為了救回資料，曾向空間商承諾日後將盡力避免此類情況發生，如再發生此事空間商可以立即關閉1883氏的帳號。此事件導致Komica大部分版面以及Komica
+2017年5月4號中午，Komica的伺服器空間供應商[DreamHost通知站主](https://zh.wikipedia.org/wiki/DreamHost "wikilink")1883氏，指綜合板所在主機上有**嚴重違反規定**的圖片，Dreamhost在確認過後已關閉了1883氏的帳號。由於在三年前發生過類似情況時，1883氏為了救回資料，曾向空間商承諾日後將盡力避免此類情況發生，如再發生此事空間商可以立即關閉1883氏的帳號。此事件導致Komica大部分版面以及Komica
 Wiki無法連上，而雙貓聯合站2cat的部分似乎不受影響。
 
 目前首頁已經恢復，各版域名轉移完成，1883氏嘗試恢復網頁資料。關於此次近乎危及Komica存亡的事件，其導火線的「嚴重違反規定圖片」很可能指的是[兒童色情](../Page/兒童色情.md "wikilink")，綜合版遭到此類圖片擾亂已非一兩天的事情，而管理員一直難以有效應對；有島民認為可能是美國對兒童色情較為敏感，故伺服器商不再給機會，也有部分島民認為這一切可能是中國民眾或是敵對論壇故意上傳兒童色情圖片導致Komica關閉的陰謀。\[9\]\[10\]
@@ -77,12 +77,12 @@ Wiki](https://wiki.komica.org/index.php?title=%E9%A6%96%E9%A0%81)則使用[Media
 
   - [Tripcode](../Page/Tripcode.md "wikilink")
   - [5ch](../Page/5ch.md "wikilink")
-  - [2chan](../Page/2chan.md "wikilink")
+  - [2chan](https://zh.wikipedia.org/wiki/2chan "wikilink")
   - [4chan](../Page/4chan.md "wikilink")
-  - [6chan](../Page/6chan.md "wikilink")
-  - [2cha](../Page/2cha.md "wikilink")
-  - [2cat](../Page/2cat.md "wikilink")
-  - [Ac匿名版](../Page/Ac匿名版.md "wikilink")
+  - [6chan](https://zh.wikipedia.org/wiki/6chan "wikilink")
+  - [2cha](https://zh.wikipedia.org/wiki/2cha "wikilink")
+  - [2cat](https://zh.wikipedia.org/wiki/2cat "wikilink")
+  - [Ac匿名版](https://zh.wikipedia.org/wiki/Ac匿名版 "wikilink")
 
 ## 參考資料
 

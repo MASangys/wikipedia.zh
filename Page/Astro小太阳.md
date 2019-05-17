@@ -25,7 +25,7 @@ Astro
   - William
   - 镇藩
   - 晓青
-  - [王雪晶](../Page/王雪晶.md "wikilink")
+  - [王雪晶](https://zh.wikipedia.org/wiki/王雪晶 "wikilink")
   - 林一心
   - [李永升](../Page/李永升.md "wikilink")
   - 许佳麟（Danny哥哥）

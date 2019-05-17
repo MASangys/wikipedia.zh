@@ -1,11 +1,11 @@
 **Die Verbannten Kinder
-Evas**（被流放之夏娃孩子）是一支[奥地利](../Page/奥地利.md "wikilink")[乐队](../Page/乐队.md "wikilink")，由Richard
+Evas**（被流放之夏娃孩子）是一支[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由Richard
 Lederer和Michael Gregor于1993年成立。当时二人签约[Napalm
-Records](../Page/Napalm_Records.md "wikilink")，公司决定由二人组成乐队进军[黑潮音乐领域](../Page/黑潮.md "wikilink")，二人一拍即合，于是就产生了这个乐队。
+Records](https://zh.wikipedia.org/wiki/Napalm_Records "wikilink")，公司决定由二人组成乐队进军[黑潮音乐领域](../Page/黑潮.md "wikilink")，二人一拍即合，于是就产生了这个乐队。
 
 ## 介绍
 
-这个乐队由[黑金属乐队](../Page/黑金属（音乐）.md "wikilink")“召唤”的成员组成。他们的音乐缓慢而忧郁，伴随着清晰的女声和浑厚的男声。歌曲主要由John
+这个乐队由[黑金属乐队](https://zh.wikipedia.org/wiki/黑金属（音乐） "wikilink")“召唤”的成员组成。他们的音乐缓慢而忧郁，伴随着清晰的女声和浑厚的男声。歌曲主要由John
 Dowland和Percy Bysshe Shelley创作。在2006年发行的第四张专辑中，特别突出了新的女声领唱，Christina
 Kroustali。
 
@@ -44,29 +44,32 @@ Die Verbannten Kinder Evas目前推出了4张专辑。
 **当前成员**
 
   - Richard Lederer -
-    [演唱和](../Page/演唱.md "wikilink")[电子合成](../Page/电子合成.md "wikilink")
+    [演唱和](https://zh.wikipedia.org/wiki/演唱 "wikilink")[电子合成](https://zh.wikipedia.org/wiki/电子合成 "wikilink")
   - Christina Kroustali（流血的女士）- 演唱
 
 **过去的成员**
 
-  - Michael Gregor - [电子合成和演唱](../Page/电子合成.md "wikilink")
+  - Michael Gregor -
+    [电子合成和演唱](https://zh.wikipedia.org/wiki/电子合成 "wikilink")
   - Julia Lederer - 演唱
   - Tania Borsky - 演唱
 
 **成立时的成员**
 
-  - Richard Lederer（守护者）- [电子合成和演唱](../Page/电子合成.md "wikilink")
-  - Michael Gregor（沉默者）- [电子合成和演唱](../Page/电子合成.md "wikilink")
+  - Richard Lederer（守护者）-
+    [电子合成和演唱](https://zh.wikipedia.org/wiki/电子合成 "wikilink")
+  - Michael Gregor（沉默者）-
+    [电子合成和演唱](https://zh.wikipedia.org/wiki/电子合成 "wikilink")
 
 ## 外部链接
 
   - [Official website](http://www.dvke.info/)
   - [Die Verbannten Kinder
     Evas](http://www.myspace.com/dieverbanntenkinderevas) at
-    [MySpace](../Page/MySpace.md "wikilink")
+    [MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")
   - [Die Verbannten Kinder
     Evas](http://www.napalmrecords.com/promo/dvkep.html) at [Napalm
-    Records](../Page/Napalm_Records.md "wikilink")
+    Records](https://zh.wikipedia.org/wiki/Napalm_Records "wikilink")
   - \[[http://www.menggang.com/music/dark/dvke/dvke.html\]独乐乐](http://www.menggang.com/music/dark/dvke/dvke.html%5D独乐乐)——Die
     Verbannten Kinder Evas
   - \[[http://cn.last.fm/group/Die+verbannten+Kinder+Evas\]Last.fm上的DVKE小组](http://cn.last.fm/group/Die+verbannten+Kinder+Evas%5DLast.fm上的DVKE小组)

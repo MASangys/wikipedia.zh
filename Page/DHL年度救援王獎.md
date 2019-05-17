@@ -1,17 +1,17 @@
 **[DHL年度救援王](../Page/DHL.md "wikilink")**（**DHL Presents the Delivery
 Man Of The Year
-Award**）\[1\]是[美國職棒大聯盟的獎項之一](../Page/美國職棒大聯盟.md "wikilink")，由美國公司[DHL所贊助](../Page/DHL.md "wikilink")，專門頒給良好表現的[救援投手](../Page/救援投手.md "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基的](../Page/紐約洋基.md "wikilink")[馬里安諾·李维拉](../Page/馬里安諾·李维拉.md "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒的](../Page/坦帕灣光芒.md "wikilink")[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月所表揚給](../Page/2013年5月.md "wikilink")[匹茲堡海盜的](../Page/匹茲堡海盜.md "wikilink")。其中單月的獎項為**DHL單月救援王**（DHL
+Award**）\[1\]是[美國職棒大聯盟的獎項之一](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，由美國公司[DHL所贊助](../Page/DHL.md "wikilink")，專門頒給良好表現的[救援投手](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，是一種由球迷投票所產的獎項。這個獎項在2005年第一次頒發，得獎者是[紐約洋基的](../Page/紐約洋基.md "wikilink")[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")，當前的年度得主是在2012年所頒給[坦帕灣光芒的](../Page/坦帕灣光芒.md "wikilink")[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")、單月得主則為[2013年5月所表揚給](../Page/2013年5月.md "wikilink")[匹茲堡海盜的](../Page/匹茲堡海盜.md "wikilink")。其中單月的獎項為**DHL單月救援王**（DHL
 Presents the Delivery Man of the Month
 Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是由[丹尼斯·艾克斯利](../Page/丹尼斯·艾克斯利.md "wikilink")、、和所組成的四人評審小組所選出的。
 
 ## 年度得主
 
-  - 2005年－[馬里安諾·李維拉](../Page/馬里安諾·李維拉.md "wikilink")
-  - 2006年－[馬里安諾·李维拉](../Page/馬里安諾·李维拉.md "wikilink")(2)\[2\]
+  - 2005年－[馬里安諾·李維拉](https://zh.wikipedia.org/wiki/馬里安諾·李維拉 "wikilink")
+  - 2006年－[馬里安諾·李维拉](https://zh.wikipedia.org/wiki/馬里安諾·李维拉 "wikilink")(2)\[2\]
   - 2007年－[喬納森·派柏邦](../Page/喬納森·派柏邦.md "wikilink")
   - 2008年－[布萊德·李吉](../Page/布萊德·李吉.md "wikilink")
-  - 2009年－[馬里安諾·李維拉](../Page/馬里安諾·李維拉.md "wikilink")(3)
-  - 2010年－[希斯·貝爾](../Page/希斯·貝爾.md "wikilink")
+  - 2009年－[馬里安諾·李維拉](https://zh.wikipedia.org/wiki/馬里安諾·李維拉 "wikilink")(3)
+  - 2010年－[希斯·貝爾](https://zh.wikipedia.org/wiki/希斯·貝爾 "wikilink")
   - 2011年－[荷西·瓦爾韋德](../Page/荷西·瓦爾韋德.md "wikilink")
   - 2012年－[費南多·羅尼](../Page/費南多·羅尼.md "wikilink")
   - 2013年－[克雷格·金布雷爾](../Page/克雷格·金布雷爾.md "wikilink")
@@ -42,8 +42,8 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 </tr>
 <tr class="odd">
 <td><p>五月</p></td>
-<td><p><a href="../Page/崔佛·赫夫曼.md" title="wikilink">崔佛·赫夫曼</a>(1)</p></td>
-<td><p><a href="../Page/聖地牙哥教士.md" title="wikilink">聖地牙哥教士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔佛·赫夫曼" title="wikilink">崔佛·赫夫曼</a>(1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖地牙哥教士" title="wikilink">聖地牙哥教士</a></p></td>
 <td><p>[3]</p></td>
 </tr>
 <tr class="even">
@@ -61,7 +61,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="even">
 <td><p>八月</p></td>
 <td></td>
-<td><p><a href="../Page/佛羅里達馬林魚.md" title="wikilink">佛羅里達馬林魚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佛羅里達馬林魚" title="wikilink">佛羅里達馬林魚</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -91,19 +91,19 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="odd">
 <td><p>七月</p></td>
 <td><p><a href="../Page/乔·内森.md" title="wikilink">乔·内森</a>(1)</p></td>
-<td><p><a href="../Page/明尼蘇達雙城.md" title="wikilink">明尼蘇達雙城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達雙城" title="wikilink">明尼蘇達雙城</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>八月</p></td>
 <td><p><a href="../Page/法蘭西斯科·羅德里奎茲.md" title="wikilink">法蘭西斯科·羅德里奎茲</a>(1)</p></td>
-<td><p><a href="../Page/洛杉磯安那罕天使.md" title="wikilink">洛杉磯安那罕天使</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯安那罕天使" title="wikilink">洛杉磯安那罕天使</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>九月</p></td>
 <td><p>崔佛·赫夫曼（2）</p></td>
-<td><p><a href="../Page/聖地牙哥教士.md" title="wikilink">聖地牙哥教士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖地牙哥教士" title="wikilink">聖地牙哥教士</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -115,7 +115,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="odd">
 <td><p>五月</p></td>
 <td><p>崔佛·赫夫曼(3)</p></td>
-<td><p><a href="../Page/聖地牙哥教士.md" title="wikilink">聖地牙哥教士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖地牙哥教士" title="wikilink">聖地牙哥教士</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -132,20 +132,20 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 </tr>
 <tr class="even">
 <td><p>八月</p></td>
-<td><p><a href="../Page/齋藤隆.md" title="wikilink">齋藤隆</a></p></td>
-<td><p><a href="../Page/洛杉磯道奇.md" title="wikilink">洛杉磯道奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/齋藤隆" title="wikilink">齋藤隆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯道奇" title="wikilink">洛杉磯道奇</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>九月</p></td>
 <td></td>
-<td><p><a href="../Page/科羅拉多落磯.md" title="wikilink">科羅拉多落磯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科羅拉多落磯" title="wikilink">科羅拉多落磯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>四月</p></td>
-<td><p><a href="../Page/馬里安諾·李維拉.md" title="wikilink">馬里安諾·李維拉</a>(1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬里安諾·李維拉" title="wikilink">馬里安諾·李維拉</a>(1)</p></td>
 <td><p><a href="../Page/紐約洋基.md" title="wikilink">紐約洋基</a></p></td>
 </tr>
 <tr class="odd">
@@ -157,13 +157,13 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="even">
 <td><p>六月</p></td>
 <td><p>法蘭西斯科·羅德里奎茲 (2)</p></td>
-<td><p><a href="../Page/洛杉磯安那罕天使.md" title="wikilink">洛杉磯安那罕天使</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯安那罕天使" title="wikilink">洛杉磯安那罕天使</a></p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>七月</p></td>
 <td><p>乔·内森(2)</p></td>
-<td><p><a href="../Page/明尼蘇達雙城.md" title="wikilink">明尼蘇達雙城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達雙城" title="wikilink">明尼蘇達雙城</a></p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
@@ -175,14 +175,14 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="odd">
 <td><p>九月</p></td>
 <td><p><a href="../Page/喬金·索里亞.md" title="wikilink">喬金·索里亞</a>(1)</p></td>
-<td><p><a href="../Page/堪薩斯皇家.md" title="wikilink">堪薩斯皇家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堪薩斯皇家" title="wikilink">堪薩斯皇家</a></p></td>
 <td><p>[9]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>四月</p></td>
 <td><p><a href="../Page/希斯·贝尔.md" title="wikilink">希斯·贝尔</a></p></td>
-<td><p><a href="../Page/聖地牙哥教士.md" title="wikilink">聖地牙哥教士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖地牙哥教士" title="wikilink">聖地牙哥教士</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>五月</p></td>
@@ -193,7 +193,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="even">
 <td><p>六月</p></td>
 <td><p>喬·內森(3)</p></td>
-<td><p><a href="../Page/明尼蘇達雙城.md" title="wikilink">明尼蘇達雙城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達雙城" title="wikilink">明尼蘇達雙城</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -204,14 +204,14 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 </tr>
 <tr class="even">
 <td><p>八月</p></td>
-<td><p><a href="../Page/萊恩·福蘭克林.md" title="wikilink">萊恩·福蘭克林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萊恩·福蘭克林" title="wikilink">萊恩·福蘭克林</a></p></td>
 <td><p><a href="../Page/聖路易紅雀.md" title="wikilink">聖路易紅雀</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>九月</p></td>
 <td><p>喬金·索里亞(2)</p></td>
-<td><p><a href="../Page/堪薩斯皇家.md" title="wikilink">堪薩斯皇家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堪薩斯皇家" title="wikilink">堪薩斯皇家</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -270,7 +270,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 </tr>
 <tr class="odd">
 <td><p>七月</p></td>
-<td><p><a href="../Page/約翰·艾克斯福德.md" title="wikilink">約翰·艾克斯福德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/約翰·艾克斯福德" title="wikilink">約翰·艾克斯福德</a></p></td>
 <td><p><a href="../Page/密爾瓦基釀酒人.md" title="wikilink">密爾瓦基釀酒人</a></p></td>
 <td></td>
 </tr>
@@ -295,7 +295,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="odd">
 <td><p>五月</p></td>
 <td><p><a href="../Page/吉姆·詹森.md" title="wikilink">吉姆·強森</a></p></td>
-<td><p><a href="../Page/巴爾的摩金鶯.md" title="wikilink">巴爾的摩金鶯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴爾的摩金鶯" title="wikilink">巴爾的摩金鶯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -306,7 +306,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 </tr>
 <tr class="odd">
 <td><p>七月</p></td>
-<td><p><a href="../Page/阿羅魯迪斯·查普曼.md" title="wikilink">阿羅魯迪斯·查普曼</a> (1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿羅魯迪斯·查普曼" title="wikilink">阿羅魯迪斯·查普曼</a> (1)</p></td>
 <td><p><a href="../Page/辛辛那提紅人.md" title="wikilink">辛辛那提紅人</a></p></td>
 <td></td>
 </tr>
@@ -337,13 +337,13 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="even">
 <td><p>六月</p></td>
 <td><p>喬·內森 (4)</p></td>
-<td><p><a href="../Page/德州遊騎兵.md" title="wikilink">德州遊騎兵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德州遊騎兵" title="wikilink">德州遊騎兵</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>七月</p></td>
 <td><p>(1)</p></td>
-<td><p><a href="../Page/堪薩斯市皇家.md" title="wikilink">堪薩斯皇家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堪薩斯市皇家" title="wikilink">堪薩斯皇家</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Award）是在季中頒發，且不像年度救援王獎項為球迷投票，是
 <tr class="odd">
 <td><p>九月</p></td>
 <td><p>(2)</p></td>
-<td><p><a href="../Page/堪薩斯市皇家.md" title="wikilink">堪薩斯皇家</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堪薩斯市皇家" title="wikilink">堪薩斯皇家</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

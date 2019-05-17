@@ -1,7 +1,7 @@
 **IEEE
-829-1998**，也被称做**829软件测试文档标准**，作为一个[IEEE的标准定义了一套文档用于](../Page/IEEE.md "wikilink")8个已定义的[软件测试阶段](../Page/软件测试.md "wikilink")，每个阶段可能产生它自己单独的文件类型。这个标准定义了文档的格式但是没有规定它们是否必须全部被应用，也不包括这些文档中任何相关的其它标准的内容。
+829-1998**，也被称做**829软件测试文档标准**，作为一个[IEEE的标准定义了一套文档用于](https://zh.wikipedia.org/wiki/IEEE "wikilink")8个已定义的[软件测试阶段](../Page/软件测试.md "wikilink")，每个阶段可能产生它自己单独的文件类型。这个标准定义了文档的格式但是没有规定它们是否必须全部被应用，也不包括这些文档中任何相关的其它标准的内容。
 
-  - [测试计划](../Page/测试计划.md "wikilink")：一个管理计划的文档 包括：
+  - [测试计划](https://zh.wikipedia.org/wiki/测试计划 "wikilink")：一个管理计划的文档 包括：
       - 测试如何完成（包括SUT的配置）.
       - 谁来做测试
       - 将要测试什么
@@ -19,23 +19,33 @@
 
 IEEE 829中可能引用到的其他标准：
 
-  - [IEEE 1008](../Page/IEEE_1008.md "wikilink")，用于单元测试的标准
-  - [IEEE 1012](../Page/IEEE_1012.md "wikilink")，用于软件检验和验证的标准
-  - [IEEE 1028](../Page/IEEE_1028.md "wikilink")，用于软件检查的标准
-  - [IEEE 1044](../Page/IEEE_1044.md "wikilink")，用于软件异常分类的标准
-  - [IEEE 1044-1](../Page/IEEE_1044-1.md "wikilink")，软件异常分类指南
-  - [IEEE 1233](../Page/IEEE_1233.md "wikilink")，开发软件需求规格的指南
-  - [IEEE 730](../Page/IEEE_730.md "wikilink")，用于软件质量保证计划的标准
-  - [IEEE 1061](../Page/IEEE_1061.md "wikilink")，用于软件质量度量和方法学的标准
   - [IEEE
-    12207](../Page/IEEE_12207.md "wikilink")，用于软件生命周期过程和软件生命周期数据的标准
-  - [BSS 7925-1](../Page/BSS_7925-1.md "wikilink")，软件测试术语词汇表
-  - [BSS 7925-2](../Page/BSS_7925-2.md "wikilink")，用于软件组件测试的标准
+    1008](https://zh.wikipedia.org/wiki/IEEE_1008 "wikilink")，用于单元测试的标准
+  - [IEEE
+    1012](https://zh.wikipedia.org/wiki/IEEE_1012 "wikilink")，用于软件检验和验证的标准
+  - [IEEE
+    1028](https://zh.wikipedia.org/wiki/IEEE_1028 "wikilink")，用于软件检查的标准
+  - [IEEE
+    1044](https://zh.wikipedia.org/wiki/IEEE_1044 "wikilink")，用于软件异常分类的标准
+  - [IEEE
+    1044-1](https://zh.wikipedia.org/wiki/IEEE_1044-1 "wikilink")，软件异常分类指南
+  - [IEEE
+    1233](https://zh.wikipedia.org/wiki/IEEE_1233 "wikilink")，开发软件需求规格的指南
+  - [IEEE
+    730](https://zh.wikipedia.org/wiki/IEEE_730 "wikilink")，用于软件质量保证计划的标准
+  - [IEEE
+    1061](https://zh.wikipedia.org/wiki/IEEE_1061 "wikilink")，用于软件质量度量和方法学的标准
+  - [IEEE
+    12207](https://zh.wikipedia.org/wiki/IEEE_12207 "wikilink")，用于软件生命周期过程和软件生命周期数据的标准
+  - [BSS
+    7925-1](https://zh.wikipedia.org/wiki/BSS_7925-1 "wikilink")，软件测试术语词汇表
+  - [BSS
+    7925-2](https://zh.wikipedia.org/wiki/BSS_7925-2 "wikilink")，用于软件组件测试的标准
 
 ## 使用IEEE 829
 
-这个标准的內容，有部分是来自于ISEB基金会的培训课程，和（[英国计算机协会](../Page/英国计算机协会.md "wikilink")）推动的软件测试执业证书考试。
-[ISTQB](../Page/ISTQB.md "wikilink")（国际软件测试资质认证委员会）遵循基于ISEB（英国信息系统考试委员会）的课程提纲和德国的ASQF教学大纲，同时被IEEE
+这个标准的內容，有部分是来自于ISEB基金会的培训课程，和（[英国计算机协会](https://zh.wikipedia.org/wiki/英国计算机协会 "wikilink")）推动的软件测试执业证书考试。
+[ISTQB](https://zh.wikipedia.org/wiki/ISTQB "wikilink")（国际软件测试资质认证委员会）遵循基于ISEB（英国信息系统考试委员会）的课程提纲和德国的ASQF教学大纲，同时被IEEE
 829采纳为软件测试文档的参考标准。
 
 ## 修正

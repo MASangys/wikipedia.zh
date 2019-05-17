@@ -1,4 +1,4 @@
-《**C+偵探**》（）是一部2007年的[香港電影](../Page/香港電影.md "wikilink")，由[彭順擔任執導](../Page/彭順.md "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[成奎安](../Page/成奎安.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[黃德斌等擔任演出](../Page/黃德斌.md "wikilink")，此電影全部在[泰國](../Page/泰國.md "wikilink")[曼谷取景拍攝](../Page/曼谷.md "wikilink")，內容主要講述[私家偵探調查案件的故事](../Page/私家偵探.md "wikilink")。
+《**C+偵探**》（）是一部2007年的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[成奎安](../Page/成奎安.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[黃德斌等擔任演出](../Page/黃德斌.md "wikilink")，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷取景拍攝](../Page/曼谷.md "wikilink")，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")。
 
 另外有一部續集電影《[B+偵探](../Page/B+偵探.md "wikilink")》於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[1\]。
 
@@ -148,49 +148,49 @@ Settagarn</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳剪接</p></td>
-<td><p><a href="../Page/彭順.md" title="wikilink">彭順</a>、<a href="../Page/彭正熙.md" title="wikilink">彭正熙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭順" title="wikilink">彭順</a>、<a href="../Page/彭正熙.md" title="wikilink">彭正熙</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳美術指導</p></td>
-<td><p><a href="../Page/Anuson_Pinyopotjanee.md" title="wikilink">Anuson Pinyopotjanee</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Anuson_Pinyopotjanee" title="wikilink">Anuson Pinyopotjanee</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳服裝造型設計</p></td>
-<td><p><a href="../Page/Surasak_Warakitcharoen.md" title="wikilink">Surasak Warakitcharoen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surasak_Warakitcharoen" title="wikilink">Surasak Warakitcharoen</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳音響效果</p></td>
-<td><p><a href="../Page/Wachira_Wongsaroj.md" title="wikilink">Wachira Wongsaroj</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wachira_Wongsaroj" title="wikilink">Wachira Wongsaroj</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳視覺效果</p></td>
-<td><p><a href="../Page/Suchada_Somasavachai.md" title="wikilink">Suchada Somasavachai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Suchada_Somasavachai" title="wikilink">Suchada Somasavachai</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳原創電影音樂</p></td>
-<td><p><a href="../Page/Payont_Permsith.md" title="wikilink">Payont Permsith</a>、<a href="../Page/Jadet_Chawang.md" title="wikilink">Jadet Chawang</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Payont_Permsith" title="wikilink">Payont Permsith</a>、<a href="https://zh.wikipedia.org/wiki/Jadet_Chawang" title="wikilink">Jadet Chawang</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/第44屆金馬獎.md" title="wikilink">第44屆金馬獎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第44屆金馬獎" title="wikilink">第44屆金馬獎</a></p></td>
 <td><p>最佳男主角</p></td>
 <td><p><a href="../Page/郭富城.md" title="wikilink">郭富城</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>最佳美術設計</p></td>
-<td><p><a href="../Page/Anuson_Pinyopotjanee.md" title="wikilink">Anuson Pinyopotjanee</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Anuson_Pinyopotjanee" title="wikilink">Anuson Pinyopotjanee</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -205,7 +205,7 @@ Settagarn</p></td>
 
 ## 續集
 
-另外由[彭順擔任執導而拍攝製作的一部續集電影](../Page/彭順.md "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》，由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[龔蓓苾](../Page/龔蓓苾.md "wikilink")、[譚耀文和](../Page/譚耀文.md "wikilink")[張兆輝擔任主演](../Page/張兆輝.md "wikilink")，於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[2\]。2010年4月12日，泰國曼谷發生[紅衫軍示威接近一個月](../Page/反獨裁民主聯盟.md "wikilink")，寰宇電影公司總經理[林小強表示](../Page/林小強.md "wikilink")：「[彭發執導一部電影](../Page/彭發.md "wikilink")《完美童話》（於2012年5月10日上映時改名為《[追兇](../Page/追兇.md "wikilink")》）於2010年6月在泰國開拍，由[劉青雲](../Page/劉青雲.md "wikilink")、[江若琳主演](../Page/江若琳.md "wikilink")，[彭順執導一部續集電影](../Page/彭順.md "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》於2010年7月在泰國曼谷拍攝煞科戲便完成。\[3\]\[4\]」繼《C+偵探》後，《[B+偵探](../Page/B+偵探.md "wikilink")》是彭順及郭富城第二次合作。
+另外由[彭順擔任執導而拍攝製作的一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》，由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[龔蓓苾](https://zh.wikipedia.org/wiki/龔蓓苾 "wikilink")、[譚耀文和](../Page/譚耀文.md "wikilink")[張兆輝擔任主演](../Page/張兆輝.md "wikilink")，於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[2\]。2010年4月12日，泰國曼谷發生[紅衫軍示威接近一個月](../Page/反獨裁民主聯盟.md "wikilink")，寰宇電影公司總經理[林小強表示](https://zh.wikipedia.org/wiki/林小強 "wikilink")：「[彭發執導一部電影](https://zh.wikipedia.org/wiki/彭發 "wikilink")《完美童話》（於2012年5月10日上映時改名為《[追兇](https://zh.wikipedia.org/wiki/追兇 "wikilink")》）於2010年6月在泰國開拍，由[劉青雲](../Page/劉青雲.md "wikilink")、[江若琳主演](https://zh.wikipedia.org/wiki/江若琳 "wikilink")，[彭順執導一部續集電影](https://zh.wikipedia.org/wiki/彭順 "wikilink")《[B+偵探](../Page/B+偵探.md "wikilink")》於2010年7月在泰國曼谷拍攝煞科戲便完成。\[3\]\[4\]」繼《C+偵探》後，《[B+偵探](../Page/B+偵探.md "wikilink")》是彭順及郭富城第二次合作。
 
 ## 參考資料
 

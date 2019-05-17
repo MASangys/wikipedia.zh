@@ -1,17 +1,17 @@
 《**Step and
-Go**》是[嵐的第](../Page/嵐.md "wikilink")21枚[單曲](../Page/單曲.md "wikilink")。於2008年2月20日發行。唱片公司為[J
+Go**》是[嵐的第](../Page/嵐.md "wikilink")21枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年2月20日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。收錄於原創專輯《[Dream "A"
-live](../Page/Dream_"A"_live.md "wikilink")》及精選專輯《[1999-2009
-完全精選\!](../Page/1999-2009_完全精選!.md "wikilink")》。
+live](https://zh.wikipedia.org/wiki/Dream_"A"_live "wikilink")》及精選專輯《[1999-2009
+完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
 ## 解說
 
   - 連續第10張、合計第17張嵐的冠軍單曲。接續前作《[Happiness](../Page/Happiness_\(嵐\).md "wikilink")》，是嵐連續第2次、合計第3次取得月間冠軍。
-  - 自《[SUNRISE日本/HORIZON](../Page/SUNRISE日本/HORIZON.md "wikilink")》以來首次初動突破30萬枚，僅是初動就超越了《[Love
+  - 自《[SUNRISE日本/HORIZON](https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")》以來首次初動突破30萬枚，僅是初動就超越了《[Love
     so
     sweet](../Page/Love_so_sweet.md "wikilink")》以外，從2002年《[心情超讚](../Page/心情超讚.md "wikilink")》到2007年《Happiness》自己所有單曲目前的累計銷量。在傑尼斯手機網站「Johnny'S
     web」中「Step and Go \<Special Cu\[9\]bic Box\>」作為會員期間限定商品發售。
-  - PV採用高速攝錄機拍下五人的舞蹈。[相葉在途中弄傷了手臂](../Page/相葉雅紀.md "wikilink")。
+  - PV採用高速攝錄機拍下五人的舞蹈。[相葉在途中弄傷了手臂](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")。
   - DVD特典拍攝了五人在樂屋中玩Wii的場景。
 
 ## 收錄曲

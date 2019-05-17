@@ -1,5 +1,5 @@
-**OGLE-TR-56b**是一顆距離地球約1500秒差距的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，位於[人馬座](../Page/人馬座.md "wikilink")，母恆星是
-[OGLE-TR-56](../Page/OGLE-TR-56.md "wikilink")。該行星發現於2002年11月3日\[1\]，由波蘭[華沙大學的](../Page/華沙大學.md "wikilink")[光學重力透鏡實驗計畫以凌日法發現](../Page/光學重力透鏡實驗.md "wikilink")，並於2003年1月4日以[都卜勒光譜學確認](../Page/都卜勒光譜學.md "wikilink")\[2\]。該行星在
+**OGLE-TR-56b**是一顆距離地球約1500秒差距的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")，母恆星是
+[OGLE-TR-56](../Page/OGLE-TR-56.md "wikilink")。該行星發現於2002年11月3日\[1\]，由波蘭[華沙大學的](https://zh.wikipedia.org/wiki/華沙大學 "wikilink")[光學重力透鏡實驗計畫以凌日法發現](../Page/光學重力透鏡實驗.md "wikilink")，並於2003年1月4日以[都卜勒光譜學確認](https://zh.wikipedia.org/wiki/都卜勒光譜學 "wikilink")\[2\]。該行星在
 [WASP-12b](../Page/WASP-12b.md "wikilink")
 被發現以前是已確認行星中公轉週期最短的行星\[3\]。該行星的週期暗示它和母恆星距離相當近，因此被列為[熱木星](../Page/熱木星.md "wikilink")。
 
@@ -18,7 +18,8 @@
   -
   -
   -
-[de:OGLE-TR-56 b](../Page/de:OGLE-TR-56_b.md "wikilink")
+[de:OGLE-TR-56
+b](https://zh.wikipedia.org/wiki/de:OGLE-TR-56_b "wikilink")
 
 [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink")
 [Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink")

@@ -1,12 +1,13 @@
 {{Infobox Single | Name = Prototype | Cover = VTCL-35055.jpg | Caption =
 《Prototype》單曲CD封面 | Artist = [石川智晶](../Page/石川智晶.md "wikilink") | from
 Album = 《》 | A-side = | B-side = | Released = 2008年12月3日
-（規格編號：VTCL-35055） | Format = [12cm單曲](../Page/單曲.md "wikilink") |
-Recorded = | Genre =
+（規格編號：VTCL-35055） | Format =
+[12cm單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink") | Recorded
+= | Genre =
 [J-POP](../Page/日本流行音樂.md "wikilink")（[動畫歌曲](../Page/動畫歌曲.md "wikilink")）
 | Length = 20分53秒 | Label = [flying
-DOG](../Page/flying_DOG.md "wikilink") | Writer = | Producer =
-作詞、作曲：石川智晶
+DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink") | Writer = |
+Producer = 作詞、作曲：石川智晶
 編曲： | Certification = | Chart position = \*
 週榜第3名（[Oricon](../Page/Oricon公信榜.md "wikilink")）
 
@@ -20,12 +21,12 @@ Entertainment](../Page/勝利娛樂.md "wikilink")）發行。
 
 ## 解說
 
-《Prototype》是自從石川的上一張單曲《[{{Sfrac](../Page/½_\(石川智晶單曲\).md "wikilink")》以來，相隔1年發行的最新單曲。而且是石川從[See-Saw時期](../Page/See-Saw.md "wikilink")（與[梶浦由記](../Page/梶浦由記.md "wikilink")2人一起組成）出的單曲「」（2003年）「」（2005年）之後，第3首被[鋼彈系列作品選用的片尾主題曲](../Page/GUNDAM系列作品.md "wikilink")。
+《Prototype》是自從石川的上一張單曲《[{{Sfrac](https://zh.wikipedia.org/wiki/½_\(石川智晶單曲\) "wikilink")》以來，相隔1年發行的最新單曲。而且是石川從[See-Saw時期](../Page/See-Saw.md "wikilink")（與[梶浦由記](../Page/梶浦由記.md "wikilink")2人一起組成）出的單曲「」（2003年）「」（2005年）之後，第3首被[鋼彈系列作品選用的片尾主題曲](../Page/GUNDAM系列作品.md "wikilink")。
 
 另外，本單曲在初次亮相之後，於[Oricon創下週榜第](../Page/Oricon公信榜.md "wikilink")3名的最高排名成績。同時是石川單飛之後第一次擠進前10名、及See-Saw時期最高排名的單曲。
 
 還有，本單曲在電視廣告進行宣傳時，旁白是由《[機動戰士鋼彈00 2nd
-Season](../Page/機動戰士GUNDAM_00.md "wikilink")》角色[阿雷路亞·帕普提茲姆的配音員](../Page/機動戰士GUNDAM_00角色列表#阿雷路亞·帕普提茲姆.md "wikilink")[吉野裕行擔任](../Page/吉野裕行.md "wikilink")。
+Season](../Page/機動戰士GUNDAM_00.md "wikilink")》角色[阿雷路亞·帕普提茲姆的配音員](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00角色列表#阿雷路亞·帕普提茲姆 "wikilink")[吉野裕行擔任](../Page/吉野裕行.md "wikilink")。
 
 ## 收錄歌曲
 

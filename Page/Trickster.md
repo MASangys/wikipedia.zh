@@ -23,9 +23,9 @@
       - [日本電視台系列](../Page/日本電視台.md "wikilink")「[音樂戰士 MUSIC
         FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")」2008年10月熱播曲
 2.  **DISCOTHEQUE**
-      - 作詞：[園田凌士](../Page/園田凌士.md "wikilink")、作曲・編曲：上松範康（Elements
+      - 作詞：[園田凌士](https://zh.wikipedia.org/wiki/園田凌士 "wikilink")、作曲・編曲：上松範康（Elements
         Garden）
-      - [電視動畫](../Page/電視動畫.md "wikilink")「[十字架與吸血鬼
+      - [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")「[十字架與吸血鬼
         CAPU2](../Page/十字架與吸血鬼.md "wikilink")」片頭曲（OP）
       - [日本電視台系列](../Page/日本電視台.md "wikilink")「」2008年9月月度片尾曲
 3.  **Trinity Cross**

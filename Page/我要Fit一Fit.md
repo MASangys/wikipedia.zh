@@ -1,4 +1,4 @@
-\-{zh:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-hk:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-cn:**出头当自强**（，香港本剧名《**我要Fit一Fit**》）}-，[香港](../Page/香港.md "wikilink")[無線電視](../Page/無線電視.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[劇集](../Page/劇集.md "wikilink")，於2002年9月16日至10月11日期間首播，共20集。監製[王心慰](../Page/王心慰.md "wikilink")。
+\-{zh:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-hk:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-cn:**出头当自强**（，香港本剧名《**我要Fit一Fit**》）}-，[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於2002年9月16日至10月11日期間首播，共20集。監製[王心慰](../Page/王心慰.md "wikilink")。
 
 ## 演员表
 
@@ -56,7 +56,7 @@
 住家飯茶餐廳大廚</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/袁潔瑩.md" title="wikilink">袁潔瑩</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/袁潔瑩" title="wikilink">袁潔瑩</a></strong></p></td>
 <td><p><strong>王曼兒</strong></p></td>
 <td><p><strong>Margaret、貓骨</strong><br />
 前仁安堂營業部員工，不幸被裁員<br />
@@ -207,13 +207,13 @@
 機靈吧老闆</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朱婉儀.md" title="wikilink">朱婉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉儀" title="wikilink">朱婉儀</a></p></td>
 <td><p>Mary</p></td>
 <td><p>前仁安堂營業部員工，不幸被裁員<br />
 莊秀麗、邱家振之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>Peter</p></td>
 <td></td>
 </tr>
@@ -232,11 +232,11 @@
 <td><p><a href="../Page/王賢誌.md" title="wikilink">王賢誌</a></p></td>
 <td><p>潤　腸</p></td>
 <td><p>瑞豐行員工<br />
-<a href="../Page/同性戀者.md" title="wikilink">同性戀者</a><br />
+<a href="https://zh.wikipedia.org/wiki/同性戀者" title="wikilink">同性戀者</a><br />
 Bobby之男友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林美娜.md" title="wikilink">林美娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林美娜" title="wikilink">林美娜</a></p></td>
 <td><p>Vivian</p></td>
 <td><p>莊秀麗友女兒</p></td>
 </tr>
@@ -246,7 +246,7 @@ Bobby之男友</p></td>
 <td><p>瑞豐行員工</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃宗澤.md" title="wikilink">黃宗澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
 <td><p>Ken</p></td>
 <td><p>施自強朋友</p></td>
 </tr>

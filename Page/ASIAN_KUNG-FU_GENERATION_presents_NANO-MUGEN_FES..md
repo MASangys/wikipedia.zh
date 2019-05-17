@@ -1,7 +1,7 @@
 ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.是日本搖滾樂團[ASIAN KUNG-FU
-GENERATION主辦的一個Live](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")
+GENERATION主辦的一個Live](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")
 Event。概念來自『全日本樓底最低的Rock
-Festival』。Event名稱的由來是，樂團成員以當時所知的最小單位「[Nano](../Page/Nano.md "wikilink")」（一米的十億份之一，代號n）及「[無限](../Page/無限.md "wikilink")」取「從最小至最大」之意思。
+Festival』。Event名稱的由來是，樂團成員以當時所知的最小單位「[Nano](https://zh.wikipedia.org/wiki/Nano "wikilink")」（一米的十億份之一，代號n）及「[無限](https://zh.wikipedia.org/wiki/無限 "wikilink")」取「從最小至最大」之意思。
 
 一般都被認為在日本武道館所舉行的那次是第一次，其實在主要演出之前已曾舉辦過了。
 
@@ -12,7 +12,7 @@ Festival的詳情已經公佈：會在2006年那次舉辦時同一地點：横�
 
 ## NANO-MUGEN FES.（新宿LOFT）
 
-2003年8月11日在[新宿LOFT舉行](../Page/新宿LOFT.md "wikilink")。這便是第一次的NANO-MUGEN
+2003年8月11日在[新宿LOFT舉行](https://zh.wikipedia.org/wiki/新宿LOFT "wikilink")。這便是第一次的NANO-MUGEN
 FES.了。
 
 ### 出演者（國内藝人）
@@ -25,7 +25,7 @@ FES.了。
 
 ## NANO-MUGEN FES.（横浜CLUB24）
 
-2003年12月17日在[横浜CLUB24舉行](../Page/横浜CLUB24.md "wikilink")。
+2003年12月17日在[横浜CLUB24舉行](https://zh.wikipedia.org/wiki/横浜CLUB24 "wikilink")。
 
 ### 出演者（國内藝人）
 
@@ -47,7 +47,7 @@ FES.了。
 
 ## NANO-MUGEN FES. in OSAKA
 
-2004年8月9日在[大阪なんばHatch舉行](../Page/大阪なんばHatch.md "wikilink")。這時開始，海外的藝人也有參加演出。
+2004年8月9日在[大阪なんばHatch舉行](https://zh.wikipedia.org/wiki/大阪なんばHatch "wikilink")。這時開始，海外的藝人也有參加演出。
 
 ### 出演者（國内藝人）
 
@@ -77,7 +77,7 @@ COMPILATION合輯](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILAT
   - ドッグ・ダイ・イン・ホット・カーズ（UK）
   - ファラー（UK）
   - INDUSTRIAL SALT(UK) -
-    當中也包括了AKG的『[ループ&ループ](../Page/ループ&ループ.md "wikilink")』。
+    當中也包括了AKG的『[ループ&ループ](https://zh.wikipedia.org/wiki/ループ&ループ "wikilink")』。
 
 ## NANO-MUGEN FES.2006
 

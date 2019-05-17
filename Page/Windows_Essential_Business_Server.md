@@ -8,29 +8,32 @@ Server**\[1\]（原代号为*Centro*）\[2\]是[微软为中型企业设计的�
 Windows Essential Business Server基于[Windows Server
 2008](../Page/Windows_Server_2008.md "wikilink")，它有两个版本：标准版和高级版。据微软称，标准版包括三个安装了[Microsoft
 Exchange Server
-2007](../Page/Microsoft_Exchange_Server_2007.md "wikilink")、[Microsoft
+2007](https://zh.wikipedia.org/wiki/Microsoft_Exchange_Server_2007 "wikilink")、[Microsoft
 System Center
-Essentials](../Page/Microsoft_System_Center_Essentials.md "wikilink")、[Microsoft
+Essentials](https://zh.wikipedia.org/wiki/Microsoft_System_Center_Essentials "wikilink")、[Microsoft
 Forefront Security for Exchange
-Server和](../Page/Microsoft_Forefront_Security_for_Exchange_Server.md "wikilink")[Forefront
+Server和](https://zh.wikipedia.org/wiki/Microsoft_Forefront_Security_for_Exchange_Server "wikilink")[Forefront
 Threat Management
-Gateway的标准版Windows](../Page/Forefront_Threat_Management_Gateway.md "wikilink")
+Gateway的标准版Windows](https://zh.wikipedia.org/wiki/Forefront_Threat_Management_Gateway "wikilink")
 Server 2008。高级版在标准版的基础上增加了一个标准版Windows Server 2008和一个标准版[Microsoft SQL
-Server 2008](../Page/Microsoft_SQL_Server_2008.md "wikilink")。
+Server
+2008](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server_2008 "wikilink")。
 
 据微软称，Windows Essential Business
 Server有一个管理控制台。这个管理控制台能监控客户机和服务器。第三方软件同样能在这个控制台内呈现一个面向该软件自身的管理界面。Computer
 Associates和Symantec将会将这个管理控制台分别用于它们的[CA ARCserve
-Backup](../Page/CA_ARCserve_Backup.md "wikilink")、[Symantec Backup
-Exec和](../Page/Symantec_Backup_Exec.md "wikilink")[Symantec Endpoint
-Protection](../Page/Symantec_Endpoint_Protection.md "wikilink")。\[4\]Windows
+Backup](https://zh.wikipedia.org/wiki/CA_ARCserve_Backup "wikilink")、[Symantec
+Backup
+Exec和](https://zh.wikipedia.org/wiki/Symantec_Backup_Exec "wikilink")[Symantec
+Endpoint
+Protection](https://zh.wikipedia.org/wiki/Symantec_Endpoint_Protection "wikilink")。\[4\]Windows
 Essential Business Server还包括[Remote Web
-Workplace](../Page/Remote_Web_Workplace.md "wikilink")——一个使得IT技术支持人员能轻而易举地建立起安全性增强的远程访问的功能。
+Workplace](https://zh.wikipedia.org/wiki/Remote_Web_Workplace "wikilink")——一个使得IT技术支持人员能轻而易举地建立起安全性增强的远程访问的功能。
 
 ## 参见
 
   - [Windows Small Business
-    Server](../Page/Windows_Small_Business_Server.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/Windows_Small_Business_Server "wikilink")
 
 ## 参考
 

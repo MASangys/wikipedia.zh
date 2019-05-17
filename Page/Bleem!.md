@@ -1,4 +1,4 @@
-**bleem\!**是[PlayStation遊戲機](../Page/PlayStation_\(遊戲機\).md "wikilink")[模擬器之一](../Page/模擬器.md "wikilink")，由bleem
+**bleem\!**是[PlayStation遊戲機](../Page/PlayStation_\(遊戲機\).md "wikilink")[模擬器之一](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，由bleem
 Company開發，於1999年首度推出，適用於[IBM
 PC及世嘉](../Page/IBM_PC兼容机.md "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")。
 
@@ -11,7 +11,7 @@ Herpolsheimer（主席）及 Randy Linden兩人創立及管理。\[1\]
 
 bleem\!在當時的同類型模擬器軟件中，是最先進的產品之一。遊戲在使用低階電腦的bleem\!環境下也可全速執行，透過使用組合語言編程下，容許bleem\!在最佳化狀態下運行\[2\]。與同期的產品比較，bleem\!更能應用PC的3D圖形硬件及濾波器，其執行遊戲的畫面質素有時甚至比PlayStation遊戲機本身還要好。但模擬器本身亦有問題存在，使部份遊戲無法以bleem\!進行。
 
-bleem\!另設Dreamcast版本，名為“bleemcast\!”，以供用家在Dreamcast上進行《[跑車浪漫旅2](../Page/跑車浪漫旅2.md "wikilink")》（GT2）、《[鐵拳3](../Page/鐵拳3.md "wikilink")》、《[潛龍諜影](../Page/潛龍諜影.md "wikilink")》（Metal
+bleem\!另設Dreamcast版本，名為“bleemcast\!”，以供用家在Dreamcast上進行《[跑車浪漫旅2](https://zh.wikipedia.org/wiki/跑車浪漫旅2 "wikilink")》（GT2）、《[鐵拳3](https://zh.wikipedia.org/wiki/鐵拳3 "wikilink")》、《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》（Metal
 Gear Soild）等當時的暢銷遊戲。公司原擬使其產品能支援全數PlayStation遊戲，但其後隨Sony對bleem\!作出起訴而終止。
 
 bleem\!使用了低階記憶模擬及其他高風險技術，本身並不能在使用Windows NT架構的環境下執行，包括[Windows
@@ -20,10 +20,10 @@ bleem\!使用了低階記憶模擬及其他高風險技術，本身並不能在�
 NT平台的系統，不少用家認為這決定是日後公司倒閉的原因之一。
 
 如果用家需在不支援的平台下執行bleem\!，便需使用[Virtual
-PC](../Page/Virtual_PC.md "wikilink")、[VMWare等虛擬平台軟件](../Page/VMWare.md "wikilink")，執行Windows
+PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")、[VMWare等虛擬平台軟件](https://zh.wikipedia.org/wiki/VMWare "wikilink")，執行Windows
 98，或是在電腦上多裝一個相容的作業系統。
 
-隨著bleem\!的開發公司結束，產品支援也告終止，其他模擬器產品也隨之出現，包括[ePSXe等](../Page/ePSXe.md "wikilink")，但部份模擬器仍需PlayStation的BIOS檔方能執行遊戲。
+隨著bleem\!的開發公司結束，產品支援也告終止，其他模擬器產品也隨之出現，包括[ePSXe等](https://zh.wikipedia.org/wiki/ePSXe "wikilink")，但部份模擬器仍需PlayStation的BIOS檔方能執行遊戲。
 
 ## 爭議
 

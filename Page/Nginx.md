@@ -1,6 +1,6 @@
 **Nginx**（发音同engine x）是异步框架的
 [Web服务器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")，[负载平衡器](../Page/负载均衡.md "wikilink")
-和 [HTTP缓存](../Page/HTTP缓存.md "wikilink")。该软件由 [Igor
+和 [HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由 [Igor
 Sysoev](../Page/伊戈爾·賽索耶夫.md "wikilink") 创建，并于2004年首次公开发布。\[1\]
 同名公司成立于2011年，以提供支持。\[2\]2019年3月11日，Nginx公司被以6.7億美元收购\[3\]。
 
@@ -9,14 +9,14 @@ Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[
 
 ## 特点
 
-Nginx可以部署在网络上使用[FastCGI脚本](../Page/FastCGI.md "wikilink")、[SCGI处理程序](../Page/简单通用网关接口.md "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion乘客模块的动态](../Page/Phusion_Passenger.md "wikilink")[HTTP内容](../Page/HTTP.md "wikilink")，并可作为软件[负载均衡器](../Page/负载均衡.md "wikilink")。\[6\]
+Nginx可以部署在网络上使用[FastCGI脚本](../Page/FastCGI.md "wikilink")、[SCGI处理程序](https://zh.wikipedia.org/wiki/简单通用网关接口 "wikilink")、[WSGI应用服务器或](../Page/Web服务器网关接口.md "wikilink")[Phusion乘客模块的动态](https://zh.wikipedia.org/wiki/Phusion_Passenger "wikilink")[HTTP内容](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并可作为软件[负载均衡器](../Page/负载均衡.md "wikilink")。\[6\]
 
 Nginx使用异步事件驱动的方法来处理请求。Nginx的模块化事件驱动架构\[7\]可以在高负载下提供更可预测的性能。\[8\]
 
-Nginx是一款面向性能设计的HTTP服务器，相较于[Apache](../Page/Apache_HTTP_Server.md "wikilink")、[lighttpd具有占有](../Page/lighttpd.md "wikilink")[内存少](../Page/内存.md "wikilink")，稳定性高等优势。与旧版本（\<=2.2）的[Apache不同](../Page/Apache_HTTP_Server.md "wikilink")，Nginx不采用每客户机一线程的设计模型，而是充分使用异步逻辑从而削减了上下文调度开销，所以并发服务能力更强。整体采用模块化设计，有丰富的模块库和第三方模块库，配置灵活。
+Nginx是一款面向性能设计的HTTP服务器，相较于[Apache](../Page/Apache_HTTP_Server.md "wikilink")、[lighttpd具有占有](https://zh.wikipedia.org/wiki/lighttpd "wikilink")[内存少](https://zh.wikipedia.org/wiki/内存 "wikilink")，稳定性高等优势。与旧版本（\<=2.2）的[Apache不同](../Page/Apache_HTTP_Server.md "wikilink")，Nginx不采用每客户机一线程的设计模型，而是充分使用异步逻辑从而削减了上下文调度开销，所以并发服务能力更强。整体采用模块化设计，有丰富的模块库和第三方模块库，配置灵活。
 在Linux作業系統下，Nginx使用epoll事件模型，得益於此，Nginx在Linux作業系統下效率相當高。同時Nginx在OpenBSD或FreeBSD作業系統上採用類似於epoll的高效事件模型kqueue。
 
-根据[Netcraft在](../Page/Netcraft.md "wikilink")2016年11月网络服务器调查，\[9\]
+根据[Netcraft在](https://zh.wikipedia.org/wiki/Netcraft "wikilink")2016年11月网络服务器调查，\[9\]
 Nginx被发现是所有“活跃”站点（被调查站点的18.22%）和百万最繁忙站点（被调查站点的27.83%）中使用次数最多的Web服务器。根据W3Techs的数据，前100万个网站中的37.7%，前10万个网站中的49.7%，以及前10000个网站中的57.0%被使用。\[10\]
 据BuiltWith统计，在全球前10000个网站中，有38.2%的网站使用Nginx 。\[11\]
 维基百科使用Nginx作为其。\[12\]
@@ -36,8 +36,8 @@ Web 服务器的性能。\[15\] Nginx 提供开箱即用的静态文件，使用
 能保持低资源低消耗高性能。还有高度模块化的设计，模块编写简单。配置文件简洁。
 
 这种性能提升的代价是降低了灵活性，例如能够以每个文件为基础覆盖系统范围的访问设置（ Apache
-使用[.htaccess](../Page/.htaccess.md "wikilink") 文件来完成这个工作，而 Nginx
-并没有内置这样的功能）。\[17\] 以前，向 Nginx
+使用[.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink")
+文件来完成这个工作，而 Nginx 并没有内置这样的功能）。\[17\] 以前，向 Nginx
 添加第三方模块需要使用[静态链接的模块从源代码重新](../Page/静态库.md "wikilink")[编译应用程序](../Page/編譯器.md "wikilink")。在版本
 1.9.11 中部分地克服了这一点，增加了动态模块加载。但是，模块仍然必须与 Nginx
 同时编译，而不是所有的模块都与这个系统兼容——有些需要更老的静态链接过程。\[18\]

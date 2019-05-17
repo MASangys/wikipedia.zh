@@ -2,9 +2,10 @@
 Explorer和](../Page/Internet_Explorer.md "wikilink")[Firefox稱為](../Page/Firefox.md "wikilink")**Shockwave
 Flash**）\[1\]是曾獲广泛使用、[专有的多媒体程序播放器](../Page/专有软件.md "wikilink")。其最初由[Macromedia出品](../Page/Macromedia.md "wikilink")，在Macromedia被[Adobe收购后由Adobe继续开发](../Page/Adobe.md "wikilink")。
 
-Flash Player使用的[SWF文件](../Page/SWF.md "wikilink")，可由[Adobe
+Flash
+Player使用的[SWF文件](https://zh.wikipedia.org/wiki/SWF "wikilink")，可由[Adobe
 Animate](../Page/Adobe_Animate.md "wikilink")、[Adobe
-Flex或者其他软件或第三方工具创建](../Page/Adobe_Flex.md "wikilink")。Adobe
+Flex或者其他软件或第三方工具创建](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")。Adobe
 Animate原名Flash，同时表示创作程序和播放器。它同时使用[位图和](../Page/位图.md "wikilink")[矢量图形](../Page/矢量图形.md "wikilink")，利用[ActionScript脚本语言进行编程](../Page/ActionScript.md "wikilink")，支持双向视频流和音频流。严格来说，Adobe
 Flash是创作环境而Flash
 Player是运行Flash文件的虚拟机。但是，通常二者均可称为Flash，即Flash同时有三种含义：创作环境，播放器和程序文件。Flash
@@ -12,29 +13,29 @@ Player支持内嵌的脚本语言[ActionScript](../Page/ActionScript.md "wikilin
 Flash动画和应用程序。由于ActionScript和[JavaScript都是基于ECMAScript语法的](../Page/JavaScript.md "wikilink")，理论上它们互相可以很流畅地从一种语言翻译到另一种。Adobe
 Flash
 Player最初設計目的為播放二維向量动画，但至此之後成為適合開發創造[豐富性網際網路應用程式](../Page/丰富互联网应用程序.md "wikilink")、串流視訊音訊的工具。Flash
-Player使用[向量圖形的技術來最小化檔案的大小以及創造節省網路頻寬和下載時間的檔案](../Page/向量圖形.md "wikilink")。因此Flash成為嵌入網頁中的小遊戲、動畫、廣告、以及[圖形使用者介面常用的格式](../Page/圖形使用者介面.md "wikilink")。
+Player使用[向量圖形的技術來最小化檔案的大小以及創造節省網路頻寬和下載時間的檔案](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。因此Flash成為嵌入網頁中的小遊戲、動畫、廣告、以及[圖形使用者介面常用的格式](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")。
 
-因Flash的諸多限制和[資訊安全問題](../Page/資訊安全.md "wikilink")，合作夥伴包括[Apple](../Page/蘋果公司.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[微軟及](../Page/微軟.md "wikilink")[Mozilla等合作下棄用](../Page/Mozilla.md "wikilink")
+因Flash的諸多限制和[資訊安全問題](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，合作夥伴包括[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Google](../Page/Google.md "wikilink")、[微軟及](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mozilla等合作下棄用](../Page/Mozilla.md "wikilink")
 Flash 預載，以及[HTML5的興起](../Page/HTML5.md "wikilink")，Flash Player的使用率逐年下滑。
 Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Player。\[2\]
 
 ## 行動版本
 
-| 作業系統                                                               | 先決條件                                                                          | 用法                                                         | 最新的Adobe Flash Player                                         |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------- |
-| [Android](../Page/Android.md "wikilink")                           | Android 4.0 及更高版本\[3\]                                                        | 独立应用                                                       | AIR 32.0                                                      |
-| [Android](../Page/Android.md "wikilink")                           | Android 2.2-4.0, [ARM Cortex-A8](../Page/ARM_Cortex-A8.md "wikilink")+        | 独立应用及浏览器\[4\]                                              | Flash Player 11.1，AIR 3.1                                     |
-| [Android](../Page/Android.md "wikilink")                           | Android 2.1, available on some rare Android Devices like the Motorola Flipout | 浏览器                                                        | Flash Lite 3.0                                                |
-| [iOS](../Page/iOS.md "wikilink")                                   | iOS 9 及更高版本\[5\]                                                              | 独立应用                                                       | AIR 32.0                                                      |
-| [BlackBerry 10](../Page/BlackBerry_10.md "wikilink")               | BlackBerry 10的任意版本                                                            | 浏览器及独立应用                                                   | Flash Player 11.1，AIR 3.1                                     |
-| [BlackBerry Tablet OS](../Page/BlackBerry_Tablet_OS.md "wikilink") | 無                                                                             | 浏览器及独立应用                                                   | Flash Player 11.1，AIR 3.1                                     |
-| [Maemo](../Page/Maemo.md "wikilink")                               |                                                                               | 浏览器                                                        | Flash Player 9.4\[6\]                                         |
-| [PS3](../Page/PlayStation_3.md "wikilink")                         | Firmware 2.50, NetFront 2.81                                                  | Internet Browser                                           | Flash Player 9.1（update 3）                                    |
-| [PSP](../Page/PlayStation_Portable.md "wikilink")                  | Firmware 2.70                                                                 | Internet Browser                                           | Flash Player 6\[7\]                                           |
-| [Symbian](../Page/Symbian.md "wikilink")                           |                                                                               | Internet Browser                                           | [Flash Lite](../Page/Adobe_Flash_Lite.md "wikilink") 4.0\[8\] |
-| [Wii](../Page/Wii.md "wikilink")                                   | Opera                                                                         | [Internet Channel](../Page/Internet_Channel.md "wikilink") | [Flash Lite](../Page/Adobe_Flash_Lite.md "wikilink") 3.1\[9\] |
-| [Pocket PC](../Page/Pocket_PC.md "wikilink")                       | Pocket PC 2003\[10\]                                                          | Internet Browser                                           | Flash Player 7 (stand-alone apps v6)\[11\]\[12\]              |
-| [Windows Mobile](../Page/Windows_Mobile.md "wikilink")             | Windows Mobile 5\[13\]                                                        | Internet Browser                                           | Flash Player 7\[14\]                                          |
+| 作業系統                                                                                  | 先決條件                                                                          | 用法                                                                            | 最新的Adobe Flash Player                                                            |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Android](../Page/Android.md "wikilink")                                              | Android 4.0 及更高版本\[3\]                                                        | 独立应用                                                                          | AIR 32.0                                                                         |
+| [Android](../Page/Android.md "wikilink")                                              | Android 2.2-4.0, [ARM Cortex-A8](../Page/ARM_Cortex-A8.md "wikilink")+        | 独立应用及浏览器\[4\]                                                                 | Flash Player 11.1，AIR 3.1                                                        |
+| [Android](../Page/Android.md "wikilink")                                              | Android 2.1, available on some rare Android Devices like the Motorola Flipout | 浏览器                                                                           | Flash Lite 3.0                                                                   |
+| [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")                                   | iOS 9 及更高版本\[5\]                                                              | 独立应用                                                                          | AIR 32.0                                                                         |
+| [BlackBerry 10](../Page/BlackBerry_10.md "wikilink")                                  | BlackBerry 10的任意版本                                                            | 浏览器及独立应用                                                                      | Flash Player 11.1，AIR 3.1                                                        |
+| [BlackBerry Tablet OS](https://zh.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink") | 無                                                                             | 浏览器及独立应用                                                                      | Flash Player 11.1，AIR 3.1                                                        |
+| [Maemo](../Page/Maemo.md "wikilink")                                                  |                                                                               | 浏览器                                                                           | Flash Player 9.4\[6\]                                                            |
+| [PS3](../Page/PlayStation_3.md "wikilink")                                            | Firmware 2.50, NetFront 2.81                                                  | Internet Browser                                                              | Flash Player 9.1（update 3）                                                       |
+| [PSP](../Page/PlayStation_Portable.md "wikilink")                                     | Firmware 2.70                                                                 | Internet Browser                                                              | Flash Player 6\[7\]                                                              |
+| [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")                           |                                                                               | Internet Browser                                                              | [Flash Lite](https://zh.wikipedia.org/wiki/Adobe_Flash_Lite "wikilink") 4.0\[8\] |
+| [Wii](../Page/Wii.md "wikilink")                                                      | Opera                                                                         | [Internet Channel](https://zh.wikipedia.org/wiki/Internet_Channel "wikilink") | [Flash Lite](https://zh.wikipedia.org/wiki/Adobe_Flash_Lite "wikilink") 3.1\[9\] |
+| [Pocket PC](../Page/Pocket_PC.md "wikilink")                                          | Pocket PC 2003\[10\]                                                          | Internet Browser                                                              | Flash Player 7 (stand-alone apps v6)\[11\]\[12\]                                 |
+| [Windows Mobile](../Page/Windows_Mobile.md "wikilink")                                | Windows Mobile 5\[13\]                                                        | Internet Browser                                                              | Flash Player 7\[14\]                                                             |
 
 ## 演進歷史
 
@@ -78,10 +79,10 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
           - 使用核心動畫
       - Adobe Flash Player 10.2（10.2.152.26版本，代號為Spicy，2011年2月）
           - [Stage
-            Video](../Page/Stage_Video.md "wikilink")——一個完整的硬體加速的視訊管線
+            Video](https://zh.wikipedia.org/wiki/Stage_Video "wikilink")——一個完整的硬體加速的視訊管線
           - [Internet
             Explorer的繪製加速支援](../Page/Internet_Explorer.md "wikilink")
-          - 自訂[滑鼠](../Page/滑鼠.md "wikilink")[游標](../Page/游標.md "wikilink")
+          - 自訂[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")[游標](https://zh.wikipedia.org/wiki/游標 "wikilink")
           - 多顯示器的全螢幕支援
           - 強化文字的sub-pixel繪製
       - Adobe Flash Player 10.3（10.3.181.14版本，代號為Wasabi，2011年5月）
@@ -97,13 +98,13 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
       - Adobe Flash Player 11.1（11.1.102.55版本，代號為Anza，2011年11月）
           - Stage 3D加速圖形演算
           - 原生64位元支援
-          - 相機的[H264](../Page/H264.md "wikilink")/[AVC軟體編碼](../Page/AVC.md "wikilink")
+          - 相機的[H264](https://zh.wikipedia.org/wiki/H264 "wikilink")/[AVC軟體編碼](https://zh.wikipedia.org/wiki/AVC "wikilink")
           - 支援行動裝置的內容保護
-          - 受保護的[HTTP動態串流](../Page/HTTP動態串流.md "wikilink")（HTTP Dynamic
-            Stream）
+          - 受保護的[HTTP動態串流](https://zh.wikipedia.org/wiki/HTTP動態串流 "wikilink")（HTTP
+            Dynamic Stream）
           - Adobe Flash Access®
           - 安全隨機編號產生器
-          - [TLS安全通訊端支援](../Page/TLS.md "wikilink")
+          - [TLS安全通訊端支援](https://zh.wikipedia.org/wiki/TLS "wikilink")
           - 適用於電話的[G.711音訊壓縮](../Page/G.711.md "wikilink")
           - 三次[貝茲曲線](../Page/貝茲曲線.md "wikilink")
           - 增強高解析度點陣圖支援
@@ -204,7 +205,7 @@ Adobe於2017年7月25日宣佈於2020年12月31日停止更新和發行Flash Pla
 
 ## 隐私争议
 
-2018年2月28日，上海剑圣网络科技有限公司（即[2144](../Page/2144.md "wikilink")）和其分公司重庆重橙网络科技有限公司宣布获得了Adobe
+2018年2月28日，上海剑圣网络科技有限公司（即[2144](https://zh.wikipedia.org/wiki/2144 "wikilink")）和其分公司重庆重橙网络科技有限公司宣布获得了Adobe
 Flash Player在中国大陆地区的独家代理发行权\[15\]。中国大陆的用户在访问Adobe Flash
 Player的下载页面时，会自动跳转到2144公司网站域名下的下载页面，同时会默认捆绑下载2144游戏中心，且取消勾选的位置较为隐蔽，这让不少用户感到不满\[16\]。
 
@@ -238,13 +239,14 @@ Service服务协议中的“隐私声明”一项有了很大的变化，删除�
 
   - [Adobe Animate](../Page/Adobe_Animate.md "wikilink")
   - [Adobe AIR](../Page/Adobe_AIR.md "wikilink")
-  - [Microsoft Silverlight](../Page/Microsoft_Silverlight.md "wikilink")
+  - [Microsoft
+    Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
 
 ## 外部链接
 
   -
 [de:Adobe Flash\#Flash
-Player](../Page/de:Adobe_Flash#Flash_Player.md "wikilink")
+Player](https://zh.wikipedia.org/wiki/de:Adobe_Flash#Flash_Player "wikilink")
 
 [Category:Adobe软件](https://zh.wikipedia.org/wiki/Category:Adobe软件 "wikilink")
 [Category:媒體播放器](https://zh.wikipedia.org/wiki/Category:媒體播放器 "wikilink")

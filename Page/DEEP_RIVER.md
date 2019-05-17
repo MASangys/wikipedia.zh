@@ -3,13 +3,16 @@ RIVER**是[宇多田光的第三張原創專輯](../Page/宇多田光.md "wikili
 
 ## 概要
 
-  - 專輯名稱《DEEP RIVER》，是受[遠藤周作的作品](../Page/遠藤周作.md "wikilink")「深い河」啟發而創下的。
-  - 專輯封面及內頁照片由[紀裡谷和明拍摄](../Page/紀裡谷和明.md "wikilink")（可見於專輯內頁附注的信息）。DEEP
+  - 專輯名稱《DEEP
+    RIVER》，是受[遠藤周作的作品](https://zh.wikipedia.org/wiki/遠藤周作 "wikilink")「深い河」啟發而創下的。
+  - 專輯封面及內頁照片由[紀裡谷和明拍摄](https://zh.wikipedia.org/wiki/紀裡谷和明 "wikilink")（可見於專輯內頁附注的信息）。DEEP
     RIVER系列寫真则由[森山大道拍攝](../Page/森山大道.md "wikilink")。
   - 在這脈專輯發表前夕的宣傳期，她因被診斷出患有卵巢腫瘤而緊急入院進行切除手術，故許多原定的檔期硬生生中斷，引起不少關注。
   - 《謊言般的I Love
     You》的副歌旋律原本是想放在《[光](../Page/光_\(宇多田光單曲\).md "wikilink")》中，但後來認為歌詞與其旋律不夠搭，所以重新製作了《光》的副歌。而這副歌則就被用在《[Simple
-    And Clean](../Page/COLORS_\(單曲\).md "wikilink")》和《謊言般的I Love You》中了。
+    And
+    Clean](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")》和《謊言般的I
+    Love You》中了。
   - 同名曲《Deep
     River》是她生涯至今唯一沒發行單曲卻有拍攝PV的曲子，也是整張專輯中最後完成的曲子。對於這首歌，她並提到「創作歌詞的部分，是件有點...痛苦的事，好幾次我甚至得暫停一下，讓情緒平靜下來才能繼續工作...所以這部分花了我很多的時間。」
   - 本專輯為最後一張打入日本歷代銷量首十位的專輯。
@@ -24,13 +27,13 @@ RIVER**是[宇多田光的第三張原創專輯](../Page/宇多田光.md "wikili
 **DEEP RIVER**中收錄單曲在榜上都表現理想，四張中有三張冠軍單曲，皆進入該年TOP 10。唯一例外的是《[FINAL
 DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")》，但也拿下周榜亞軍並為年間第24位。
 
-| 日期          | 歌曲                                                                 | 最高排名    | 上榜週數 | 銷量      |
-| :---------- | :----------------------------------------------------------------- | :------ | :--- | :------ |
-| 2001年7月25日  | [FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")             | \#2     | 13   | 582,120 |
-| 2001年11月28日 | [traveling](../Page/traveling_\(單曲\).md "wikilink")                | **\#1** | 21   | 856,140 |
-| 2002年3月20日  | [光](../Page/光_\(宇多田光單曲\).md "wikilink")                            | **\#1** | 13   | 598,130 |
-| 2002年5月9日   | [SAKURA Drops/Letters](../Page/SAKURA_Drops/Letters.md "wikilink") | **\#1** | 10   | 686,720 |
-|             |                                                                    |         |      |         |
+| 日期          | 歌曲                                                                                    | 最高排名    | 上榜週數 | 銷量      |
+| :---------- | :------------------------------------------------------------------------------------ | :------ | :--- | :------ |
+| 2001年7月25日  | [FINAL DISTANCE](../Page/FINAL_DISTANCE.md "wikilink")                                | \#2     | 13   | 582,120 |
+| 2001年11月28日 | [traveling](https://zh.wikipedia.org/wiki/traveling_\(單曲\) "wikilink")                | **\#1** | 21   | 856,140 |
+| 2002年3月20日  | [光](../Page/光_\(宇多田光單曲\).md "wikilink")                                               | **\#1** | 13   | 598,130 |
+| 2002年5月9日   | [SAKURA Drops/Letters](https://zh.wikipedia.org/wiki/SAKURA_Drops/Letters "wikilink") | **\#1** | 10   | 686,720 |
+|             |                                                                                       |         |      |         |
 
 ## 銷售榜
 

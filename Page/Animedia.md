@@ -1,10 +1,10 @@
-**Animedia**（日文名：アニメディア），[日本](../Page/日本.md "wikilink")[学習研究社所發行的](../Page/学習研究社.md "wikilink")[動畫雜誌月刊](../Page/動畫雜誌.md "wikilink")。每月10日發售。自稱「」。
+**Animedia**（日文名：アニメディア），[日本](../Page/日本.md "wikilink")[学習研究社所發行的](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")[動畫雜誌月刊](../Page/動畫雜誌.md "wikilink")。每月10日發售。自稱「」。
 
 ## 簡介
 
   - 1981年6月9日（7月號）創刊，至今。
   - 每期皆附送一些小贈品，像是特別企劃內容的小別冊、小型海報、貼紙、小卡片、讀者回函抽獎……等。
-  - 通常時的價格[日幣](../Page/日幣.md "wikilink")400日圓、特別編成時的價格日幣500日圓（消費稅內含）。
+  - 通常時的價格[日幣](https://zh.wikipedia.org/wiki/日幣 "wikilink")400日圓、特別編成時的價格日幣500日圓（消費稅內含）。
 
 ## 主要內容
 
@@ -42,7 +42,7 @@
 
 ## 相關項目
 
-  - [聲優Animedia](../Page/聲優Animedia.md "wikilink")
+  - [聲優Animedia](https://zh.wikipedia.org/wiki/聲優Animedia "wikilink")
   - [動畫雜誌](../Page/動畫雜誌.md "wikilink")
   - [漫畫雜誌](../Page/漫畫雜誌.md "wikilink")
 
@@ -51,8 +51,8 @@
   -
   - [PCHome購物【アニメディア】1年12期](http://store.pchome.com.tw/jmag/M01061736.htm)
 
-[分類:1981年創辦的雜誌](../Page/分類:1981年創辦的雜誌.md "wikilink")
-[分類:1981年日本建立](../Page/分類:1981年日本建立.md "wikilink")
+[分類:1981年創辦的雜誌](https://zh.wikipedia.org/wiki/分類:1981年創辦的雜誌 "wikilink")
+[分類:1981年日本建立](https://zh.wikipedia.org/wiki/分類:1981年日本建立 "wikilink")
 
 [Category:學習研究社](https://zh.wikipedia.org/wiki/Category:學習研究社 "wikilink")
 [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")

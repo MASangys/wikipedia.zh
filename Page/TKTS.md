@@ -1,9 +1,9 @@
 [TKTS_47_st_jeh.JPG](https://zh.wikipedia.org/wiki/File:TKTS_47_st_jeh.JPG "fig:TKTS_47_st_jeh.JPG")
-**TKTS**是販售[紐約市](../Page/紐約市.md "wikilink")[百老匯音樂劇和](../Page/百老匯音樂劇.md "wikilink")[倫敦](../Page/倫敦.md "wikilink")[音樂劇的售票亭](../Page/倫敦西區_\(劇院\).md "wikilink")，提供25%至50%之間的折扣，因此經常大排長龍。
+**TKTS**是販售[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[百老匯音樂劇和](https://zh.wikipedia.org/wiki/百老匯音樂劇 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[音樂劇的售票亭](https://zh.wikipedia.org/wiki/倫敦西區_\(劇院\) "wikilink")，提供25%至50%之間的折扣，因此經常大排長龍。
 
 ## 紐約市的TKTS
 
-紐約的TKTS，當地人稱之為「」，於1973年開幕，由負責經營。紐約市共有兩個售票亭，一個在杜非廣場（[時報廣場的北端](../Page/時報廣場.md "wikilink")），另一個在[曼哈頓](../Page/曼哈頓.md "wikilink")[下城的](../Page/中心商务区.md "wikilink")[南街海港旁](../Page/南街海港.md "wikilink")，此票亭原本位於[紐約世界貿易中心的大廳裡](../Page/紐約世界貿易中心.md "wikilink")，但因[九一一恐怖攻擊事件](../Page/九一一恐怖攻擊事件.md "wikilink")，大樓被摧毀才搬遷至此地。
+紐約的TKTS，當地人稱之為「」，於1973年開幕，由負責經營。紐約市共有兩個售票亭，一個在杜非廣場（[時報廣場的北端](../Page/時報廣場.md "wikilink")），另一個在[曼哈頓](../Page/曼哈頓.md "wikilink")[下城的](https://zh.wikipedia.org/wiki/中心商务区 "wikilink")[南街海港旁](../Page/南街海港.md "wikilink")，此票亭原本位於[紐約世界貿易中心的大廳裡](https://zh.wikipedia.org/wiki/紐約世界貿易中心 "wikilink")，但因[九一一恐怖攻擊事件](https://zh.wikipedia.org/wiki/九一一恐怖攻擊事件 "wikilink")，大樓被摧毀才搬遷至此地。
 
 劇院會釋放當天的票給TKTS販售，離開演時間越近，票就越多。票亭旁會有看板顯示當日劇碼的詳細資訊，方便民眾預先得知販售的狀況。TKTS接受現金和[旅行支票](../Page/旅行支票.md "wikilink")，但不接受[信用卡](../Page/信用卡.md "wikilink")。必須注意的是，時報廣場的票亭只賣當天表演的票，而南街海港的票亭賣的是當天晚場的票以及隔天下午場的票，而在杜非廣場排隊買票的時間通常比在南街海港的時間長，遊客可自行斟酌。
 

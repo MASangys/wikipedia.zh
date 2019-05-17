@@ -256,8 +256,8 @@ The Final Enemy</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="../Page/人工.md" title="wikilink">人工</a><a href="../Page/太陽.md" title="wikilink">太陽</a></p></td>
-<td><p><a href="../Page/不死鳥.md" title="wikilink">火鳥</a>（Phoenix）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人工" title="wikilink">人工</a><a href="https://zh.wikipedia.org/wiki/太陽" title="wikilink">太陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不死鳥" title="wikilink">火鳥</a>（Phoenix）</p></td>
 <td><p>Burning Heat</p></td>
 </tr>
 <tr class="odd">
@@ -268,7 +268,7 @@ The Final Enemy</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="../Page/火山.md" title="wikilink">火山</a>&amp;<a href="../Page/結晶.md" title="wikilink">結晶</a></p></td>
+<td><p><a href="../Page/火山.md" title="wikilink">火山</a>&amp;<a href="https://zh.wikipedia.org/wiki/結晶" title="wikilink">結晶</a></p></td>
 <td><p>結晶核心 (Crystal Core)</p></td>
 <td><p>Heavy Blow / Dead End</p></td>
 </tr>
@@ -299,7 +299,7 @@ The Final Enemy</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p><a href="../Page/細胞.md" title="wikilink">細胞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/細胞" title="wikilink">細胞</a></p></td>
 <td><p>高弗 (GOFER)</p></td>
 <td><p>Something Ghostly</p></td>
 </tr>
@@ -319,14 +319,14 @@ The Final Enemy</p></td>
 
 本遊戲具有以下幾種移植版本：
 
-  - [FC](../Page/FC遊戲機.md "wikilink")
+  - [FC](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")
 
 :\*i-revo FC移植版
 
 :\*[Wii虛擬平臺FC移植版](../Page/Wii.md "wikilink")
 
-  - [X68000](../Page/X68000.md "wikilink")
-  - [PC Engine](../Page/PC_Engine.md "wikilink")
+  - [X68000](https://zh.wikipedia.org/wiki/X68000 "wikilink")
+  - [PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")
 
 :\*[Wii虛擬平臺PCE移植版](../Page/Wii.md "wikilink")
 
@@ -338,16 +338,17 @@ The Final Enemy</p></td>
 
 <!-- end list -->
 
-  - [PlayStation](../Page/PlayStation.md "wikilink") - 宇宙巡航艦DX包 (GRADIUS
-    Deluxe Pack)
-  - [Sega Saturn](../Page/Sega_Saturn.md "wikilink") - 宇宙巡航艦DX包 (GRADIUS
-    Deluxe Pack)
-  - [PlayStation Portable](../Page/PSP.md "wikilink") - GRADIUS Portable
+  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+    - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
+  - [Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")
+    - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
+  - [PlayStation Portable](https://zh.wikipedia.org/wiki/PSP "wikilink")
+    - GRADIUS Portable
 
 ## 動畫版
 
   - 沙羅曼蛇ADVANCED SAGA －高弗的野望－
-    *詳細請參見[沙羅曼蛇：高弗的野望](../Page/沙羅曼蛇：高弗的野望.md "wikilink")*。
+    *詳細請參見[沙羅曼蛇：高弗的野望](https://zh.wikipedia.org/wiki/沙羅曼蛇：高弗的野望 "wikilink")*。
 
 ## 得獎情報
 
@@ -358,7 +359,7 @@ The Final Enemy</p></td>
   - 街機版及一般移植版的頭目配樂為「Take Care\!」，最終關後半部分（與高弗戰鬥之前）的配樂則是「The Final
     Enemy」，而FC版的頭目配樂為「The Final Enemy」，「Take
     Care\!」則是與最終頭目高弗戰鬥的配樂。
-  - PCE版的第六關類似[宇宙巡航艦2的第三關](../Page/宇宙巡航艦2.md "wikilink")，都是在遺跡的內部進行戰鬥。
+  - PCE版的第六關類似[宇宙巡航艦2的第三關](https://zh.wikipedia.org/wiki/宇宙巡航艦2 "wikilink")，都是在遺跡的內部進行戰鬥。
 
 ## 參考資料
 

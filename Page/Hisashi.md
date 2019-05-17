@@ -1,26 +1,26 @@
 **Hisashi**（），本名：外村尚（とのむら
-ひさし）、[日本](../Page/日本.md "wikilink")[搖滾樂團](../Page/搖滾樂團.md "wikilink")[GLAY的](../Page/GLAY.md "wikilink")[吉他手](../Page/吉他手.md "wikilink")。
+ひさし）、[日本](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[GLAY的](../Page/GLAY.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。
 
 生於[青森縣](../Page/青森縣.md "wikilink")[弘前市](../Page/弘前市.md "wikilink")，在北海道[函館市長大](../Page/函館市.md "wikilink")。北海道函館稜北高等学校畢業。綽號「TONO」。
 
 同時擔任與Radio Caroline的ウエノコウジ、THE MAD CAPSULE
-MARKETS的MOTOKATSU、同屬[GLAY的TERU所組的](../Page/GLAY.md "wikilink")「[rally](../Page/rally.md "wikilink")」的團長。
+MARKETS的MOTOKATSU、同屬[GLAY的TERU所組的](../Page/GLAY.md "wikilink")「[rally](https://zh.wikipedia.org/wiki/rally "wikilink")」的團長。
 
 2012
-Hisashi與rally的鼓手同伴Motokatsu加上[EXILE主唱Takahiro及女貝斯手Tokie](../Page/EXILE.md "wikilink")(unkie
+Hisashi與rally的鼓手同伴Motokatsu加上[EXILE主唱Takahiro及女貝斯手Tokie](https://zh.wikipedia.org/wiki/EXILE "wikilink")(unkie
 / LOSALIOS)，一起組成Ace Of Spades。
 
 ## 人物
 
   - 家中有一位哥哥。
-  - 在媽媽肚子裡的時候醫生誤判了他的[性別](../Page/性別.md "wikilink")，所以父親在他未出生時就已經幫＂她＂取名為「翠」，因此他自己有時候也覺得自己是「翠」。
+  - 在媽媽肚子裡的時候醫生誤判了他的[性別](https://zh.wikipedia.org/wiki/性別 "wikilink")，所以父親在他未出生時就已經幫＂她＂取名為「翠」，因此他自己有時候也覺得自己是「翠」。
   - 彈奏吉他的時候幾乎不用小指，多以食指、中指、無名指三指彈奏（通稱三指彈）。經常喜歡使用[吉他彈片來做pick](../Page/吉他.md "wikilink")
     harmonics。
-  - 對[動畫](../Page/動畫.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[汽車](../Page/汽車.md "wikilink")、[機車及](../Page/機車.md "wikilink")[電腦都持有廣泛的興趣](../Page/電腦.md "wikilink")。喜歡的動畫有[機動戰士鋼彈](../Page/機動戰士鋼彈.md "wikilink")，[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")，DURARARA，海贼王等。
+  - 對[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")、[機車及](https://zh.wikipedia.org/wiki/機車 "wikilink")[電腦都持有廣泛的興趣](https://zh.wikipedia.org/wiki/電腦 "wikilink")。喜歡的動畫有[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")，[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")，DURARARA，海贼王等。
   - 跟導演[紀里谷和明交情甚好](../Page/紀里谷和明.md "wikilink")，曾和[Takuro一起在電影CASSHERN演出被虐殺的人民之角色](../Page/Takuro.md "wikilink")。
   - 與Takuro在音楽上的嗜好正好相反、Takuro說他是「我在GLAY裡面的敵手」。另外，Takuro也說，Hisashi常跟自己的提議持相反意見。還稱讚Hisashi是能在短小節的音樂裡選出令人印象深刻樂聲的天才，聽了Hisashi的吉他聲就會想要開始學吉他。
   - 跟[Jiro絕對不是關係惡劣](../Page/Jiro.md "wikilink")，但不知道為何就常常覺得無法兩個人獨處。此外，樂團結成到現在已經十年，兩個人是到最近才會兩人一起去喝酒。
-  - 在音樂節目等很少發言，但在[EXILE合作之後](../Page/EXILE.md "wikilink")，問到EXILE的團長HIRO說：「這次一起工作了之後，GLAY哪一位團員跟第一印象反差最大？」Jiro回答「是Hisashi喔！他外表給人非常沉默寡言的印象，不過交談過後才發現他是最有趣的一位了。」
+  - 在音樂節目等很少發言，但在[EXILE合作之後](https://zh.wikipedia.org/wiki/EXILE "wikilink")，問到EXILE的團長HIRO說：「這次一起工作了之後，GLAY哪一位團員跟第一印象反差最大？」Jiro回答「是Hisashi喔！他外表給人非常沉默寡言的印象，不過交談過後才發現他是最有趣的一位了。」
   - 日本電視台的音樂節目「FUN」上，GLAY跟[松山千春同台演出的時候](../Page/松山千春.md "wikilink")，松山評論道：「Hisashi真的非常純真，或許就是這傢伙的純真在支持著GLAY也說不定，只要這傢伙不退出，GLAY就不會解散。」
 
 ## 經歷
@@ -104,8 +104,9 @@ Hisashi與rally的鼓手同伴Motokatsu加上[EXILE主唱Takahiro及女貝斯手
 
 ### Tokai
 
-[TALBO為他長年愛用的吉他](../Page/TALBO.md "wikilink")，於1999年、2001年及2004年的[GLAY
-EXPO中](../Page/GLAY_EXPO.md "wikilink")，都舉辦了「TALBO 自傲比賽」的活動。
+[TALBO為他長年愛用的吉他](https://zh.wikipedia.org/wiki/TALBO "wikilink")，於1999年、2001年及2004年的[GLAY
+EXPO中](https://zh.wikipedia.org/wiki/GLAY_EXPO "wikilink")，都舉辦了「TALBO
+自傲比賽」的活動。
 
   - TALBO CLEAR
   - Tokai TALBO PLATINUM BLUE
@@ -117,7 +118,8 @@ EXPO中](../Page/GLAY_EXPO.md "wikilink")，都舉辦了「TALBO 自傲比賽」
 
 約2002年開始使用，最近在多首曲子裡都使用此品牌的吉他。
 
-  - [ZEMAITIS](../Page/ゼマティス.md "wikilink") METAL FRONT
+  - [ZEMAITIS](https://zh.wikipedia.org/wiki/ゼマティス "wikilink") METAL
+    FRONT
   - ZEMAITIS PEARL FRONT
   - ZEMAITIS INLAY FRONT
 
@@ -171,14 +173,15 @@ EXPO中](../Page/GLAY_EXPO.md "wikilink")，都舉辦了「TALBO 自傲比賽」
       - [Teru](../Page/Teru.md "wikilink")
       - [Takuro](../Page/Takuro.md "wikilink")
       - [Jiro](../Page/Jiro.md "wikilink")
-  - [佐久間正英](../Page/佐久間正英.md "wikilink")
-  - [hide](../Page/hide.md "wikilink")
-  - [Radio Caroline](../Page/Radio_Caroline.md "wikilink")
+  - [佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+  - [hide](https://zh.wikipedia.org/wiki/hide "wikilink")
+  - [Radio
+    Caroline](https://zh.wikipedia.org/wiki/Radio_Caroline "wikilink")
   - [THE MAD CAPSULE
-    MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")
-  - [今井寿](../Page/今井寿.md "wikilink")
-  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
-  - [中山加奈子](../Page/中山加奈子.md "wikilink")
+    MARKETS](https://zh.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")
+  - [今井寿](https://zh.wikipedia.org/wiki/今井寿 "wikilink")
+  - [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink")
+  - [中山加奈子](https://zh.wikipedia.org/wiki/中山加奈子 "wikilink")
 
 [Category:GLAY](https://zh.wikipedia.org/wiki/Category:GLAY "wikilink")
 [Category:日本吉他手](https://zh.wikipedia.org/wiki/Category:日本吉他手 "wikilink")

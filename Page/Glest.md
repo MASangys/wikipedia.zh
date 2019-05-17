@@ -1,12 +1,12 @@
-***Glest***是[跨平台免费开源](../Page/跨平台.md "wikilink")3D[即时战略电脑游戏](../Page/即时战略.md "wikilink")，具有高度的自定义特性。开发组主要位于[西班牙](../Page/西班牙.md "wikilink")。\[1\]
+***Glest***是[跨平台免费开源](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D[即时战略电脑游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")，具有高度的自定义特性。开发组主要位于[西班牙](../Page/西班牙.md "wikilink")。\[1\]
 
-取材于[中世纪背景](../Page/中世纪.md "wikilink")，包含2个阵营，魔法和科技。2.0版本之后有许多变化，不仅增加了大量单位，升级，还有全面改版的扩展包。3.0添加在线游戏[LAN](../Page/LAN.md "wikilink")／[Internet](../Page/Internet.md "wikilink")，但只有类似架构的操作系统可以互联，如BSD和Linux，Windows只能和Windows对战。Glest
+取材于[中世纪背景](../Page/中世纪.md "wikilink")，包含2个阵营，魔法和科技。2.0版本之后有许多变化，不仅增加了大量单位，升级，还有全面改版的扩展包。3.0添加在线游戏[LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")／[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")，但只有类似架构的操作系统可以互联，如BSD和Linux，Windows只能和Windows对战。Glest
 Advanced Engine，缩写GAE，这个引擎也在不断更新。
 Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../Page/科技树.md "wikilink")。
 
 ## 阵营
 
-基本：魔法和科技，2套不同的单位和建筑系统，[MOD则包含其他的阵营](../Page/MOD.md "wikilink")，如印第安人和北美白人，外星生物和人类，玛雅民族等。
+基本：魔法和科技，2套不同的单位和建筑系统，[MOD则包含其他的阵营](https://zh.wikipedia.org/wiki/MOD "wikilink")，如印第安人和北美白人，外星生物和人类，玛雅民族等。
 
   - **科技**
     传统人类战士和[中世纪机械设备](../Page/中世纪.md "wikilink")。近身动手作战能力强，相对更适合新手。
@@ -22,7 +22,7 @@ Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../P
 
 ## 參見
 
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

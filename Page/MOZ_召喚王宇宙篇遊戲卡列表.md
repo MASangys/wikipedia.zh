@@ -1,13 +1,13 @@
 **`MOZ``   ``召喚王宇宙篇`**`是`[`MOZ``
- ``召喚王遊戲卡的第三個篇章`](../Page/MOZ_召喚王.md "wikilink")`。在總共的5個篇章中，宇宙篇較著重於軍團的特性，而且各卡的特殊效果都很強。包含此篇章遊戲卡的擴張包有：`[`宙之章`](../Page/宇宙.md "wikilink")`、星之章、月之章、炎之章和水之章。此系列中，卡的背面是`[`藍色的`](../Page/藍色.md "wikilink")`，而召喚師卡的正面是`[`黃色的`](../Page/黃色.md "wikilink")`。`
+ ``召喚王遊戲卡的第三個篇章`](../Page/MOZ_召喚王.md "wikilink")`。在總共的5個篇章中，宇宙篇較著重於軍團的特性，而且各卡的特殊效果都很強。包含此篇章遊戲卡的擴張包有：`[`宙之章`](../Page/宇宙.md "wikilink")`、星之章、月之章、炎之章和水之章。此系列中，卡的背面是`[`藍色的`](../Page/藍色.md "wikilink")`，而召喚師卡的正面是`[`黃色的`](https://zh.wikipedia.org/wiki/黃色 "wikilink")`。`
 
 ## 譯名問題
 
-**宇宙篇**是[香港版正式的](../Page/香港.md "wikilink")[中文譯名](../Page/中文.md "wikilink")，在此遊戲卡的產品上印上的。本來[日文版本寫作](../Page/日文.md "wikilink")「**コスモ**」，發音即「****」，意思就是解「[宇宙](../Page/宇宙.md "wikilink")」。正因為這個發音，坊間就有人把這篇章譯成「**哥斯摩**」，令它與其餘4個篇章同為3個中文字為名稱。但因為這名稱本身是有意思的，故正式譯名還是以「宇宙篇」為準。
+**宇宙篇**是[香港版正式的](../Page/香港.md "wikilink")[中文譯名](https://zh.wikipedia.org/wiki/中文 "wikilink")，在此遊戲卡的產品上印上的。本來[日文版本寫作](https://zh.wikipedia.org/wiki/日文 "wikilink")「**コスモ**」，發音即「****」，意思就是解「[宇宙](../Page/宇宙.md "wikilink")」。正因為這個發音，坊間就有人把這篇章譯成「**哥斯摩**」，令它與其餘4個篇章同為3個中文字為名稱。但因為這名稱本身是有意思的，故正式譯名還是以「宇宙篇」為準。
 
 ## 軍團
 
-**宇宙篇**中只可以獨立合成卡組的軍團包括：劍人黨、星一族、音師、鬼道眾、外星客、毒毒連和[小丑](../Page/小丑.md "wikilink")，而可以與其他普通召喚師合作做卡組的軍團成員則包括：馭[龍者](../Page/龍.md "wikilink")、獸操縱師、[魚操縱師](../Page/魚.md "wikilink")、[鳥操縱師](../Page/鳥.md "wikilink")、[蟲操縱師](../Page/昆蟲.md "wikilink")、[黑魔術師](../Page/黑.md "wikilink")、[白魔術師](../Page/白.md "wikilink")、小白臉、人偶操縱師和帕加操縱師
+**宇宙篇**中只可以獨立合成卡組的軍團包括：劍人黨、星一族、音師、鬼道眾、外星客、毒毒連和[小丑](../Page/小丑.md "wikilink")，而可以與其他普通召喚師合作做卡組的軍團成員則包括：馭[龍者](https://zh.wikipedia.org/wiki/龍 "wikilink")、獸操縱師、[魚操縱師](https://zh.wikipedia.org/wiki/魚 "wikilink")、[鳥操縱師](https://zh.wikipedia.org/wiki/鳥 "wikilink")、[蟲操縱師](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")、[黑魔術師](https://zh.wikipedia.org/wiki/黑 "wikilink")、[白魔術師](https://zh.wikipedia.org/wiki/白 "wikilink")、小白臉、人偶操縱師和帕加操縱師
 
 ## 召喚師卡
 
@@ -17,17 +17,17 @@
 <thead>
 <tr class="header">
 <th><p>編號</p></th>
-<th><p><a href="../Page/姓名.md" title="wikilink">姓名</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/姓名" title="wikilink">姓名</a></p></th>
 <th><p>軍團</p></th>
 <th><p>等級</p></th>
 <th><p>屬性</p></th>
-<th><p><a href="../Page/年齡.md" title="wikilink">年齡</a></p></th>
-<th><p><a href="../Page/性別.md" title="wikilink">性別</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/年齡" title="wikilink">年齡</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/性別" title="wikilink">性別</a></p></th>
 <th><p><a href="../Page/速度.md" title="wikilink">速度</a></p></th>
 <th><p>修正值</p></th>
-<th><p><a href="../Page/左.md" title="wikilink">左</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/左" title="wikilink">左</a></p></th>
 <th><p><a href="../Page/天空.md" title="wikilink">天</a></p></th>
-<th><p><a href="../Page/右.md" title="wikilink">右</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/右" title="wikilink">右</a></p></th>
 <th><p>珍貴度</p></th>
 <th><p>章</p></th>
 </tr>
@@ -35,7 +35,7 @@
 <tbody>
 <tr class="odd">
 <td><p>S300</p></td>
-<td><p><a href="../Page/王清.md" title="wikilink">王清</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王清" title="wikilink">王清</a></p></td>
 <td><p>–</p></td>
 <td><p>LV1</p></td>
 <td><p>火</p></td>
@@ -950,7 +950,7 @@
 </tr>
 <tr class="even">
 <td><p>S434</p></td>
-<td><p><a href="../Page/可樂.md" title="wikilink">可樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/可樂" title="wikilink">可樂</a></p></td>
 <td><p>–</p></td>
 <td><p>LV6</p></td>
 <td><p>宇宙</p></td>
@@ -1254,7 +1254,7 @@
 </tr>
 <tr class="odd">
 <td><p>S368</p></td>
-<td><p><a href="../Page/尼奧.md" title="wikilink">尼奧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尼奧" title="wikilink">尼奧</a></p></td>
 <td><p>–</p></td>
 <td><p>LV∞</p></td>
 <td><p>宇宙</p></td>
@@ -1446,7 +1446,7 @@
 </tr>
 <tr class="odd">
 <td><p>S372</p></td>
-<td><p><a href="../Page/奧斯卡.md" title="wikilink">奧斯卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡" title="wikilink">奧斯卡</a></p></td>
 <td><p>劍人黨</p></td>
 <td><p>LV3</p></td>
 <td><p>火</p></td>
@@ -2759,7 +2759,7 @@
 </tr>
 <tr class="odd">
 <td><p>S256</p></td>
-<td><p><a href="../Page/絲.md" title="wikilink">絲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/絲" title="wikilink">絲</a></p></td>
 <td><p>魚操縱師</p></td>
 <td><p>LV7</p></td>
 <td><p>水</p></td>
@@ -2775,7 +2775,7 @@
 </tr>
 <tr class="even">
 <td><p>S451</p></td>
-<td><p><a href="../Page/巴爾.md" title="wikilink">巴爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴爾" title="wikilink">巴爾</a></p></td>
 <td><p>魚操縱師</p></td>
 <td><p>LV7</p></td>
 <td><p>水</p></td>
@@ -3164,7 +3164,7 @@
 </tr>
 <tr class="even">
 <td><p>S266</p></td>
-<td><p><a href="../Page/莎娜.md" title="wikilink">莎娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莎娜" title="wikilink">莎娜</a></p></td>
 <td><p>白魔術師</p></td>
 <td><p>LV2</p></td>
 <td><p>光</p></td>
@@ -3372,7 +3372,7 @@
 </tr>
 <tr class="odd">
 <td><p>S252</p></td>
-<td><p><a href="../Page/木馬.md" title="wikilink">木馬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木馬" title="wikilink">木馬</a></p></td>
 <td><p>人偶操縱師</p></td>
 <td><p>LV6</p></td>
 <td><p>–</p></td>

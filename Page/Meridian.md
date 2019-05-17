@@ -1,5 +1,5 @@
 **《Meridian》**\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅於](../Page/楊千嬅.md "wikilink")2007年8月14日發行的個人粵語大碟，為天價加盟[黎明旗下](../Page/黎明.md "wikilink")[A
-music後首張發行的專輯](../Page/東亞唱片_\(製作\).md "wikilink")。唱片名稱有[子午線及全盛期之意](../Page/子午線.md "wikilink")。此唱片亦是近年來[楊千嬅首次不參與唱片製作](../Page/楊千嬅.md "wikilink")，交予唱片公司A
+music後首張發行的專輯](../Page/東亞唱片_\(製作\).md "wikilink")。唱片名稱有[子午線及全盛期之意](https://zh.wikipedia.org/wiki/子午線 "wikilink")。此唱片亦是近年來[楊千嬅首次不參與唱片製作](../Page/楊千嬅.md "wikilink")，交予唱片公司A
 music負責。
 
 ## 簡介
@@ -12,7 +12,7 @@ Kowk等也沒有參與創作](../Page/郭偉亮.md "wikilink")。大碟中只有
 About Love 2007演唱會》主題曲。後者則寫了「傑出青年」。
 
 新班底方面，[陳台證寫下古典風格的](../Page/陳台證.md "wikilink")「集體回憶」，林夕的詞與「再見二丁目」和[王菲的](../Page/王菲.md "wikilink")「約定」上作了一個回應，被喻為兩首歌的續集。[馮翰銘首次為楊千嬅寫了](../Page/馮翰銘.md "wikilink")「不談風月只談戀愛」。[陳浩賢則寫了](../Page/陳浩賢.md "wikilink")「最後今天」，以及新合作的Robert
-Lay寫了「知情識趣」。此外，大碟亦翻唱了70年代[薰妮的名曲](../Page/薰妮.md "wikilink")「每當變幻時」，亦是楊千嬅領銜主演電影《[每當變幻時](../Page/每當變幻時_\(電影\).md "wikilink")》的主題曲。
+Lay寫了「知情識趣」。此外，大碟亦翻唱了70年代[薰妮的名曲](https://zh.wikipedia.org/wiki/薰妮 "wikilink")「每當變幻時」，亦是楊千嬅領銜主演電影《[每當變幻時](../Page/每當變幻時_\(電影\).md "wikilink")》的主題曲。
 
 ## 曲目
 

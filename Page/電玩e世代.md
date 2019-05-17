@@ -1,4 +1,4 @@
-《**電玩e世代**》是[臺灣的電玩雜誌](../Page/臺灣.md "wikilink")，創刊於2002年6月20日，由龍勇實業股份有限公司製作，發行，標榜其內容皆由遊戲公司同意授權刊載。\[1\]由於其發行人[井上龍平在](../Page/井上龍平.md "wikilink")[日本打通人脈的緣故](../Page/日本.md "wikilink")，使得在與遊戲廠商洽談授權的過程相當順利，進而成功的取得信賴，並與[臺灣動漫相關代理廠商取得授權](../Page/臺灣.md "wikilink")，而且不論報導內容或是印刷品質都遠比盜版時期的電玩雜誌來優良許多，[臺灣自製電玩雜誌正式進入版權時代](../Page/臺灣.md "wikilink")。
+《**電玩e世代**》是[臺灣的電玩雜誌](../Page/臺灣.md "wikilink")，創刊於2002年6月20日，由龍勇實業股份有限公司製作，發行，標榜其內容皆由遊戲公司同意授權刊載。\[1\]由於其發行人[井上龍平在](https://zh.wikipedia.org/wiki/井上龍平 "wikilink")[日本打通人脈的緣故](../Page/日本.md "wikilink")，使得在與遊戲廠商洽談授權的過程相當順利，進而成功的取得信賴，並與[臺灣動漫相關代理廠商取得授權](../Page/臺灣.md "wikilink")，而且不論報導內容或是印刷品質都遠比盜版時期的電玩雜誌來優良許多，[臺灣自製電玩雜誌正式進入版權時代](../Page/臺灣.md "wikilink")。
 
 ## 歷史
 
@@ -9,11 +9,11 @@
 
   -
     並且重新印製套色錯誤的試刊2號，同時附在創刊號一併發行以示負責。
-    從第5期開始，取得[日本](../Page/日本.md "wikilink")[Softbank出版集團的遊戲新聞授權支援](../Page/Softbank.md "wikilink")。
+    從第5期開始，取得[日本](../Page/日本.md "wikilink")[Softbank出版集團的遊戲新聞授權支援](https://zh.wikipedia.org/wiki/Softbank "wikilink")。
 
 <!-- end list -->
 
-  - 2002年12月3日，第21期的年末三大主機特輯中，附錄由廠商協力提供的遊戲展示[DVD](../Page/DVD.md "wikilink")。
+  - 2002年12月3日，第21期的年末三大主機特輯中，附錄由廠商協力提供的遊戲展示[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
@@ -22,17 +22,17 @@
 
 <!-- end list -->
 
-  - 2003年10月24日，第65期[東京電玩展特輯中](../Page/東京電玩展.md "wikilink")，附錄了2003年[東京電玩展的遊戲影片](../Page/東京電玩展.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
+  - 2003年10月24日，第65期[東京電玩展特輯中](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")，附錄了2003年[東京電玩展的遊戲影片](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 
   -
-    並取得[Softbank授權刊載旗下雜誌](../Page/Softbank.md "wikilink")《DORIMAGA》（ドリマガ）的遊戲業界報導專欄。
+    並取得[Softbank授權刊載旗下雜誌](https://zh.wikipedia.org/wiki/Softbank "wikilink")《DORIMAGA》（ドリマガ）的遊戲業界報導專欄。
 
 <!-- end list -->
 
-  - 2003年12月5日，於第71期中又再次附贈了遊戲展示[DVD](../Page/DVD.md "wikilink")。
-  - 2004年10月22日，發行第116期，並第二次附贈[東京電玩展的遊戲展示](../Page/東京電玩展.md "wikilink")[DVD](../Page/DVD.md "wikilink")。
+  - 2003年12月5日，於第71期中又再次附贈了遊戲展示[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+  - 2004年10月22日，發行第116期，並第二次附贈[東京電玩展的遊戲展示](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 <!-- end list -->
 

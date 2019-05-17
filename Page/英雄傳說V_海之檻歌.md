@@ -1,4 +1,4 @@
-是由日本[Falcom在](../Page/Falcom.md "wikilink")1999年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第5部作品，系列第二期《[卡卡布三部曲](../Page/卡卡布三部曲.md "wikilink")》的第3部作品。
+是由日本[Falcom在](https://zh.wikipedia.org/wiki/Falcom "wikilink")1999年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第5部作品，系列第二期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》的第3部作品。
 
 ## 概要
 
@@ -12,17 +12,17 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為�
 
 ## 工作人員
 
-  - 計畫：[草野孝之](../Page/草野孝之.md "wikilink")
-  - 劇本：[早川正](../Page/早川正.md "wikilink")、[小野聰子](../Page/小野聰子.md "wikilink")、[竹入久喜](../Page/竹入久喜.md "wikilink")、[近藤季洋](../Page/近藤季洋.md "wikilink")、[奧山はるか](../Page/奧山はるか.md "wikilink")
-  - 劇本計畫：[遠藤徹](../Page/遠藤徹.md "wikilink")、[近藤季洋](../Page/近藤季洋.md "wikilink")
-  - 圖像：[村上星兒](../Page/村上水軍_\(插畫師\).md "wikilink")、[荒木健](../Page/荒木健.md "wikilink")、[梶谷幸人](../Page/梶谷幸人.md "wikilink")、[酒井美知代](../Page/酒井美知代.md "wikilink")、[奧山はるか](../Page/奧山はるか.md "wikilink")、[高居淳](../Page/高居淳.md "wikilink")、[津嘉山あずさ](../Page/津嘉山あずさ.md "wikilink")
+  - 計畫：[草野孝之](https://zh.wikipedia.org/wiki/草野孝之 "wikilink")
+  - 劇本：[早川正](https://zh.wikipedia.org/wiki/早川正 "wikilink")、[小野聰子](https://zh.wikipedia.org/wiki/小野聰子 "wikilink")、[竹入久喜](https://zh.wikipedia.org/wiki/竹入久喜 "wikilink")、[近藤季洋](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")、[奧山はるか](https://zh.wikipedia.org/wiki/奧山はるか "wikilink")
+  - 劇本計畫：[遠藤徹](https://zh.wikipedia.org/wiki/遠藤徹 "wikilink")、[近藤季洋](https://zh.wikipedia.org/wiki/近藤季洋 "wikilink")
+  - 圖像：[村上星兒](https://zh.wikipedia.org/wiki/村上水軍_\(插畫師\) "wikilink")、[荒木健](https://zh.wikipedia.org/wiki/荒木健 "wikilink")、[梶谷幸人](https://zh.wikipedia.org/wiki/梶谷幸人 "wikilink")、[酒井美知代](https://zh.wikipedia.org/wiki/酒井美知代 "wikilink")、[奧山はるか](https://zh.wikipedia.org/wiki/奧山はるか "wikilink")、[高居淳](https://zh.wikipedia.org/wiki/高居淳 "wikilink")、[津嘉山あずさ](https://zh.wikipedia.org/wiki/津嘉山あずさ "wikilink")
   - 音乐：[Falcom Sound Team
-    jdk](../Page/Falcom_Sound_Team_jdk.md "wikilink")（[松岡博文](../Page/松岡博文.md "wikilink")、[白川篤史](../Page/天門_\(作曲家\).md "wikilink")、[中島勝](../Page/中島タケオ.md "wikilink")、[園田隼人](../Page/園田隼人.md "wikilink")、[松村弘和](../Page/松村弘和.md "wikilink")、[石橋渡](../Page/石橋渡.md "wikilink")）
-  - 片頭圖像：[新津誠](../Page/新海誠.md "wikilink")、[小林慶久](../Page/小林慶久.md "wikilink")、[山中綾子](../Page/山中綾子.md "wikilink")、[山田秀樹](../Page/山田秀樹.md "wikilink")
-  - 片頭計畫：[村上剛](../Page/村上剛.md "wikilink")
-  - 插圖：[川元利弘](../Page/川元利弘.md "wikilink")、[岩崎美奈子](../Page/岩崎美奈子.md "wikilink")
-  - 監修：[山崎伸治](../Page/山崎伸治.md "wikilink")
-  - 製作人·導演：[加藤正幸](../Page/加藤正幸.md "wikilink")
+    jdk](https://zh.wikipedia.org/wiki/Falcom_Sound_Team_jdk "wikilink")（[松岡博文](https://zh.wikipedia.org/wiki/松岡博文 "wikilink")、[白川篤史](../Page/天門_\(作曲家\).md "wikilink")、[中島勝](https://zh.wikipedia.org/wiki/中島タケオ "wikilink")、[園田隼人](https://zh.wikipedia.org/wiki/園田隼人 "wikilink")、[松村弘和](https://zh.wikipedia.org/wiki/松村弘和 "wikilink")、[石橋渡](https://zh.wikipedia.org/wiki/石橋渡 "wikilink")）
+  - 片頭圖像：[新津誠](../Page/新海誠.md "wikilink")、[小林慶久](https://zh.wikipedia.org/wiki/小林慶久 "wikilink")、[山中綾子](https://zh.wikipedia.org/wiki/山中綾子 "wikilink")、[山田秀樹](https://zh.wikipedia.org/wiki/山田秀樹 "wikilink")
+  - 片頭計畫：[村上剛](https://zh.wikipedia.org/wiki/村上剛 "wikilink")
+  - 插圖：[川元利弘](https://zh.wikipedia.org/wiki/川元利弘 "wikilink")、[岩崎美奈子](../Page/岩崎美奈子.md "wikilink")
+  - 監修：[山崎伸治](https://zh.wikipedia.org/wiki/山崎伸治 "wikilink")
+  - 製作人·導演：[加藤正幸](https://zh.wikipedia.org/wiki/加藤正幸 "wikilink")
 
 ## 故事
 
@@ -409,7 +409,7 @@ zh-tw:朱紅血;}-](../Page/英雄傳說IV_朱紅的淚.md "wikilink")》，為�
 
 ## 關連項目
 
-  - [Falcom](../Page/Falcom.md "wikilink")
+  - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - [英雄傳說系列](../Page/英雄傳說系列.md "wikilink")
   - [英雄傳說 卡卡布三部曲](../Page/英雄傳說_卡卡布三部曲.md "wikilink")
   - [英雄傳說III 白髮魔女](../Page/英雄傳說III_白髮魔女.md "wikilink")

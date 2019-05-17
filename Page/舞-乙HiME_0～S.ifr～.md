@@ -1,7 +1,7 @@
 《**舞-乙HiME
-0～S.ifr～**》是一部由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")，並於2008年發售的[OVA](../Page/OVA.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")。它是《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》系列的前傳。
+0～S.ifr～**》是一部由[日本](../Page/日本.md "wikilink")[日昇動畫製作](../Page/日昇動畫.md "wikilink")，並於2008年發售的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它是《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》系列的前傳。
 
-標題中的‘S.ifr’包含了兩層意思：其一它在[阿拉伯語中是](../Page/阿拉伯語.md "wikilink")[0的意思](../Page/0.md "wikilink")；其二它也提示了作品中的主要角色西弗爾・布蘭（Sifr
+標題中的‘S.ifr’包含了兩層意思：其一它在[阿拉伯語中是](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[0的意思](../Page/0.md "wikilink")；其二它也提示了作品中的主要角色西弗爾・布蘭（Sifr
 Flan）。至今已推出了三話。
 
 在「舞-乙HiME 0～S.ifr～」的預告片中，標題被寫成了「舞-乙HiME
@@ -103,7 +103,7 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 
 ### 艾雅魯教團
 
-一個幫助有困難的人的組織。從前作──[舞-乙HiME對乙HiME的](../Page/舞-乙HiME.md "wikilink")[設定](../Page/舞-乙HiME#用語.md "wikilink")，紫音修女有乙HiME隨身可以看出，應該也是貴族所組成的。另外根據布魯斯所說，教團似乎會鞭打同性戀。
+一個幫助有困難的人的組織。從前作──[舞-乙HiME對乙HiME的](../Page/舞-乙HiME.md "wikilink")[設定](https://zh.wikipedia.org/wiki/舞-乙HiME#用語 "wikilink")，紫音修女有乙HiME隨身可以看出，應該也是貴族所組成的。另外根據布魯斯所說，教團似乎會鞭打同性戀。
 
   -
     出生國家：？
@@ -171,11 +171,11 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 ## 主題曲
 
   - 「Finality blue」（第1卷）
-    作詞：畑亞貴，作曲、編曲：[宅見將典](../Page/宅見將典.md "wikilink")，主唱：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+    作詞：畑亞貴，作曲、編曲：[宅見將典](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")，主唱：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
   - 「Heart All Green」（第2卷）
-    作詞・主唱：栗林美奈實，作曲・編曲：[齋藤真也](../Page/齋藤真也.md "wikilink")
+    作詞・主唱：栗林美奈實，作曲・編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")
   - 「」（第3卷）
-    作詞：畑亞貴，作曲、編曲：[黒須克彦](../Page/黒須克彦.md "wikilink")，主唱：栗林美奈實
+    作詞：畑亞貴，作曲、編曲：[黒須克彦](https://zh.wikipedia.org/wiki/黒須克彦 "wikilink")，主唱：栗林美奈實
 
 ## 各話列表
 
@@ -198,10 +198,10 @@ S.ifl」\[1\]。但是官方網站確實採用了‘S.ifr’的寫法，而在�
 <td></td>
 <td></td>
 <td><p>樋口達人</p></td>
-<td><p><a href="../Page/久行宏和.md" title="wikilink">久行宏和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久行宏和" title="wikilink">久行宏和</a></p></td>
 <td><p>渡邊哲哉</p></td>
 <td><p>久行宏和（キャラクター）<br />
-<a href="../Page/大塚健.md" title="wikilink">大塚健</a>（機械）</p></td>
+<a href="https://zh.wikipedia.org/wiki/大塚健" title="wikilink">大塚健</a>（機械）</p></td>
 <td><p>2008年2月22日</p></td>
 </tr>
 <tr class="even">

@@ -1,10 +1,10 @@
 **Windows影像中心**（；前稱：**Digital Image Photo
 Library**、**Windows相片圖庫**、**Windows
-Live影像中心**）是由[微軟開發的Windows程式集軟件](../Page/微軟.md "wikilink")，組織、編輯和共享影像。
+Live影像中心**）是由[微軟開發的Windows程式集軟件](https://zh.wikipedia.org/wiki/微軟 "wikilink")，組織、編輯和共享影像。
 
 ## 概觀
 
-Windows影像中心有提供管理，[標籤](../Page/標籤.md "wikilink")，搜尋功能及HD高解析度照片。它還提供了一個相片瀏覽器，可以取代傳統操作系统圖像瀏覽器，和一個照片導入工具，可以用來拿取照片或從相機或其他可移動式多媒體。
+Windows影像中心有提供管理，[標籤](https://zh.wikipedia.org/wiki/標籤 "wikilink")，搜尋功能及HD高解析度照片。它還提供了一個相片瀏覽器，可以取代傳統操作系统圖像瀏覽器，和一個照片導入工具，可以用來拿取照片或從相機或其他可移動式多媒體。
 
 如果您使用HD攝影機，請務必從Windows XP SP2或以上版本升級到Windows Vista Home
 Premium及Ultimate才能夠搭配使用影像中心。
@@ -15,17 +15,17 @@ Windows Live影像中心 也可以從[Windows Live
 Spaces下載圖片](../Page/Windows_Live_Spaces.md "wikilink")。它可以發佈至[MSN肥皂盒](../Page/MSN.md "wikilink")。\[2\]
 
 先來比較一下Windows Live影像中心和Windows
-Vista內建[Windows相片圖庫](../Page/Windows相片圖庫.md "wikilink")，以及新的功能包括：
+Vista內建[Windows相片圖庫](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")，以及新的功能包括：
 
   - 可以使用導出工具導出影片或者圖片，可以用來查看、選擇和對對圖片標籤。也可以按照時間自動分組。\[3\]
-  - 查看圖片的彩色[柱狀統計圖帶有按陰影強調](../Page/柱狀統計圖.md "wikilink")，或者改變圖片的[銳度](../Page/銳度.md "wikilink")。\[4\]
+  - 查看圖片的彩色[柱狀統計圖帶有按陰影強調](https://zh.wikipedia.org/wiki/柱狀統計圖 "wikilink")，或者改變圖片的[銳度](https://zh.wikipedia.org/wiki/銳度 "wikilink")。\[4\]
   - 使用[微軟研究院研發的圖片拼接功能](../Page/微軟研究院.md "wikilink")。\[5\]
   - 重新調整圖片的大小，\[6\]和輪換的影片。
   - 支援觀看QuickTime的影片（需安裝[QuickTime
     7才能使用](../Page/QuickTime.md "wikilink")）。
 
 雖然Windows
-Live影像中心只是[Windows相片圖庫的升級版本](../Page/Windows相片圖庫.md "wikilink")，其實別的軟體（像是Vista專用的Windows
+Live影像中心只是[Windows相片圖庫的升級版本](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")，其實別的軟體（像是Vista專用的Windows
 Slideshow，Windows Live Movie Maker或資訊看板等）只要是Windows
 Vista的核心軟體都無法支援Windows XP。
 

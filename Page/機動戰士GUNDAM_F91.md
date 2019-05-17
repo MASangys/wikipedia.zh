@@ -1,10 +1,10 @@
-《**機動戰士鋼彈F91**》（）是[鋼彈系列作品中的第二部完全新作](../Page/鋼彈系列作品.md "wikilink")，而非總集篇或重製的劇場版動畫。於1991年3月在日本上映，原定下檔後，將會推出電視動畫版續集。可惜上映時票房成績一般，令該計劃遭擱置，改以《[機動戰士V
-GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》代替。原本預定在電視動畫版上演的「宇宙巴比倫建國戰爭」的後續，只能在年表和富野由悠季原作，以漫畫形式發行的「[機動戰士海盗GUNDAM](../Page/機動戰士海盗GUNDAM.md "wikilink")」的回憶場景中略窺一二。
+《**機動戰士鋼彈F91**》（）是[鋼彈系列作品中的第二部完全新作](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，而非總集篇或重製的劇場版動畫。於1991年3月在日本上映，原定下檔後，將會推出電視動畫版續集。可惜上映時票房成績一般，令該計劃遭擱置，改以《[機動戰士V
+GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》代替。原本預定在電視動畫版上演的「宇宙巴比倫建國戰爭」的後續，只能在年表和富野由悠季原作，以漫畫形式發行的「[機動戰士海盗GUNDAM](https://zh.wikipedia.org/wiki/機動戰士海盗GUNDAM "wikilink")」的回憶場景中略窺一二。
 
 ## 故事介紹
 
-經過短暫的和平後，[貴族主義在](../Page/貴族主義.md "wikilink")[宇宙殖民地的政治界和商界中抬頭](../Page/宇宙殖民地.md "wikilink")，當中羅那家族更組成一支私立軍隊「[骨十字先鋒軍](../Page/死亡先鋒.md "wikilink")」。[地球聯邦軍一直對宇宙民居採取觀察態度](../Page/地球聯邦軍.md "wikilink")，並沒有加以理會。U.C.0123年，骨十字先鋒軍部隊突襲Side
-4各[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")，與地球聯邦軍部隊交戰。地球聯邦軍的[機動戰士的性能不及骨十字先鋒軍的機動戰士](../Page/機動戰士.md "wikilink")，戰爭處於一面倒的狀態。宇宙殖民地FRONTIER
+經過短暫的和平後，[貴族主義在](https://zh.wikipedia.org/wiki/貴族主義 "wikilink")[宇宙殖民地的政治界和商界中抬頭](../Page/宇宙殖民地.md "wikilink")，當中羅那家族更組成一支私立軍隊「[骨十字先鋒軍](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")」。[地球聯邦軍一直對宇宙民居採取觀察態度](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，並沒有加以理會。U.C.0123年，骨十字先鋒軍部隊突襲Side
+4各[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")，與地球聯邦軍部隊交戰。地球聯邦軍的[機動戰士的性能不及骨十字先鋒軍的機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")，戰爭處於一面倒的狀態。宇宙殖民地FRONTIER
 IV的某間大學內正在進行選美比賽，正當裁判宣佈謝西莉勝出時，一架被毀的機動戰士掉下來，會場頓時陷入恐慌。主角西普克和他的朋友集合後前往戰爭博物館避難，但他們眼見地球聯邦軍節節敗退，於是決定駕駛的半毀的舊式機動戰士，想逃往24號港口乘搭難民船……。
 
 ## 作品解說
@@ -27,7 +27,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 ### 主角
 
   - [西布克·亞諾](../Page/西布克·亞諾.md "wikilink")(聲優：[辻谷耕史](../Page/辻谷耕史.md "wikilink"))
-      - 香港譯名：西布頓，粵語配音：[馮錦堂](../Page/馮錦堂.md "wikilink")（安樂院線）、[郭立文](../Page/郭立文.md "wikilink")（VCD）
+      - 香港譯名：西布頓，粵語配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")（安樂院線）、[郭立文](../Page/郭立文.md "wikilink")（VCD）
 
 <!-- end list -->
 
@@ -36,8 +36,8 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 
 <!-- end list -->
 
-  - 賽西莉‧菲亞查德(聲優：[冬馬由美](../Page/冬馬由美.md "wikilink"))
-      - 香港譯名：茜茜莉，粵語配音：[林元春](../Page/林元春.md "wikilink")（安樂院線）
+  - 賽西莉‧菲亞查德(聲優：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink"))
+      - 香港譯名：茜茜莉，粵語配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（安樂院線）
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 <!-- end list -->
 
   - 莉絲‧亞諾
-      - 香港譯名：麗絲，粵語配音：[曾佩儀](../Page/曾佩儀.md "wikilink")（安樂院線）
+      - 香港譯名：麗絲，粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（安樂院線）
 
 <!-- end list -->
 
@@ -57,14 +57,14 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 <!-- end list -->
 
   - 雷斯利‧亞諾
-      - 香港，粵語配音：[馮永和](../Page/馮永和.md "wikilink")（安樂院線）
+      - 香港，粵語配音：[馮永和](https://zh.wikipedia.org/wiki/馮永和 "wikilink")（安樂院線）
 
 <!-- end list -->
 
   -
     西布克的父親，47歲，於FRONTIER.IV的宇宙港口從事作業員一職。
 
-### [地球聯邦軍](../Page/地球聯邦軍.md "wikilink")
+### [地球聯邦軍](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")
 
   - 比爾吉特‧皮利歐
       - 香港譯名：比基特，粵語配音：[李文輝](../Page/李文輝.md "wikilink")（安樂院線）
@@ -77,12 +77,12 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 <!-- end list -->
 
   - 瑪安娜(機師)
-      - 香港，粵語配音：[曾佩儀](../Page/曾佩儀.md "wikilink")（安樂院線）
+      - 香港，粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（安樂院線）
 
 <!-- end list -->
 
   - 蘭莉(代艦長)
-      - 香港，粵語配音：[曾佩儀](../Page/曾佩儀.md "wikilink")（安樂院線）
+      - 香港，粵語配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（安樂院線）
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
   -
     西布克的母親，44歲，隸屬於S.N.R.I的技術開發員。
 
-### [骨十字先鋒軍](../Page/死亡先鋒.md "wikilink")
+### [骨十字先鋒軍](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")
 
   - 夏倫霍斯特‧布荷
 
@@ -163,18 +163,19 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 
 ## 登場機體
 
-### [地球聯邦軍](../Page/地球聯邦軍.md "wikilink")
+### [地球聯邦軍](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")
 
-  - [F91 鋼彈F91](../Page/F91_GUNDAMF91.md "wikilink")
-  - [RGM-109赫維鋼](../Page/RGM-109赫維鋼.md "wikilink")
-  - [RGM-89J 傑鋼 一般型(A型、B型)](../Page/RGM-89系列機動戰士.md "wikilink")
+  - [F91 鋼彈F91](https://zh.wikipedia.org/wiki/F91_GUNDAMF91 "wikilink")
+  - [RGM-109赫維鋼](https://zh.wikipedia.org/wiki/RGM-109赫維鋼 "wikilink")
+  - [RGM-89J 傑鋼
+    一般型(A型、B型)](https://zh.wikipedia.org/wiki/RGM-89系列機動戰士 "wikilink")
   - F71 G‧加農
 
 ### 其他
 
   - RXR-44 鋼坦克R-44
 
-### [骨十字先鋒軍](../Page/死亡先鋒.md "wikilink")
+### [骨十字先鋒軍](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")
 
   - XM-07 維基娜‧基娜
   - XMA-01 拉弗雷西亞
@@ -187,7 +188,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 
 ## 製作人員
 
-  - 原案：[矢立肇](../Page/矢立肇.md "wikilink")
+  - 原案：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 原作、監督：[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 劇本：伊東恒久、富野由悠季
   - 演出：杉島邦久
@@ -199,7 +200,7 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
   - 音響：藤野貞義
   - 人物設定：[安彦良和](../Page/安彦良和.md "wikilink")
   - 機械設定：[大河原邦男](../Page/大河原邦男.md "wikilink")
-  - 企畫、制作：[SUNRISE](../Page/SUNRISE.md "wikilink")
+  - 企畫、制作：[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")
   - 製作：山浦榮二
   - 制作委員會
       - [松竹](../Page/松竹.md "wikilink")：奥山和由
@@ -213,23 +214,23 @@ Vanguard）這樣的模式，對於面對波斯灣戰爭的90年代的人們不�
 ### 主题曲
 
   - 主題曲「」
-    作詞：[西脇唯](../Page/西脇唯.md "wikilink")
-    作曲：[西脇唯](../Page/西脇唯.md "wikilink")、[緒里原洋子](../Page/緒里原洋子.md "wikilink")
-    編曲：[門倉聰](../Page/門倉聰.md "wikilink")
+    作詞：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")
+    作曲：[西脇唯](https://zh.wikipedia.org/wiki/西脇唯 "wikilink")、[緒里原洋子](https://zh.wikipedia.org/wiki/緒里原洋子 "wikilink")
+    編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink")
     主唱：[森口博子](../Page/森口博子.md "wikilink")
 
 <!-- end list -->
 
   - 印象曲「」
-    作詞：[井荻麟](../Page/井荻麟.md "wikilink")、[茂村泰彦](../Page/茂村泰彦.md "wikilink")
-    作曲：[茂村泰彦](../Page/茂村泰彦.md "wikilink")
-    編曲：[門倉聰](../Page/門倉聰.md "wikilink")
+    作詞：[井荻麟](https://zh.wikipedia.org/wiki/井荻麟 "wikilink")、[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink")
+    作曲：[茂村泰彦](https://zh.wikipedia.org/wiki/茂村泰彦 "wikilink")
+    編曲：[門倉聰](https://zh.wikipedia.org/wiki/門倉聰 "wikilink")
     主唱：[森口博子](../Page/森口博子.md "wikilink")
 
 ※在製作組方面原本是將「」作為機動戰士GUNDAM
 F91的[主題曲](../Page/主題曲.md "wikilink")，而「」就以插曲形式出現，不過最後因[富野由悠季的意向被換掉](../Page/富野由悠季.md "wikilink")，「君を見つめて
 -The time I'm seeing
-you-」則改成[宣傳片的歌曲](../Page/宣傳片.md "wikilink")，而「」就改成[主題曲](../Page/主題曲.md "wikilink")。
+you-」則改成[宣傳片的歌曲](https://zh.wikipedia.org/wiki/宣傳片 "wikilink")，而「」就改成[主題曲](../Page/主題曲.md "wikilink")。
 
 ### 原声带
 
@@ -266,7 +267,8 @@ you-」則改成[宣傳片的歌曲](../Page/宣傳片.md "wikilink")，而「�
 
 <!-- end list -->
 
-  - [機動戰士GUNDAM 影子方程式91](../Page/機動戰士GUNDAM_影子方程式91.md "wikilink")
+  - [機動戰士GUNDAM
+    影子方程式91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_影子方程式91 "wikilink")
 
 <!-- end list -->
 
@@ -277,7 +279,8 @@ you-」則改成[宣傳片的歌曲](../Page/宣傳片.md "wikilink")，而「�
   - [機動戰士海盜GUNDAM](../Page/機動戰士海盜GUNDAM.md "wikilink")
       - [機動戰士海盜GUNDAM 骷髏之心](../Page/機動戰士海盜GUNDAM_骷髏之心.md "wikilink")
       - [機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")
-      - [機動戰士海盜GUNDAM GHOST](../Page/機動戰士海盜GUNDAM_GHOST.md "wikilink")
+      - [機動戰士海盜GUNDAM
+        GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST "wikilink")
 
 ## 注释
 

@@ -1,36 +1,36 @@
-****（TAK）是一種無損音質的音樂[編解碼器](../Page/編解碼器.md "wikilink")。不但具有近似於[Monkey's
+****（TAK）是一種無損音質的音樂[編解碼器](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")。不但具有近似於[Monkey's
 Audio的高壓縮比](../Page/Monkey's_Audio.md "wikilink")，也擁有接近[FLAC的解碼速度](../Page/FLAC.md "wikilink")。不過就目前來說，支援的軟體極少，僅有像是foobar2000與Winamp等知名音樂播放軟體配合使用外掛程式才能播放。
 
 ## 特色
 
   - 媲美[APE的高壓縮比](../Page/Monkey's_Audio.md "wikilink")
-  - 接近[FLAC的](../Page/FLAC.md "wikilink")[編碼與](../Page/編碼.md "wikilink")[解碼速度](../Page/解碼.md "wikilink")
-  - 支援[串流媒体](../Page/串流.md "wikilink")（流媒体）
+  - 接近[FLAC的](../Page/FLAC.md "wikilink")[編碼與](https://zh.wikipedia.org/wiki/編碼 "wikilink")[解碼速度](https://zh.wikipedia.org/wiki/解碼 "wikilink")
+  - 支援[串流媒体](https://zh.wikipedia.org/wiki/串流 "wikilink")（流媒体）
   - 支援[多线程的編碼](../Page/多线程.md "wikilink")（1.0.3以後的版本）
-  - 具有錯誤容忍（單一[bit的錯誤不會影響超過](../Page/位元.md "wikilink")250[ms](../Page/ms.md "wikilink")）
-  - 具有錯誤偵測（每個frame具有一個24-bit的[CRC](../Page/循環冗餘檢驗.md "wikilink")）
+  - 具有錯誤容忍（單一[bit的錯誤不會影響超過](../Page/位元.md "wikilink")250[ms](https://zh.wikipedia.org/wiki/ms "wikilink")）
+  - 具有錯誤偵測（每個frame具有一個24-bit的[CRC](https://zh.wikipedia.org/wiki/循環冗餘檢驗 "wikilink")）
   - 支援最高24-bit、192khz的音源
-  - 支援[APEv2標籤](../Page/APEv2_tag.md "wikilink")
+  - 支援[APEv2標籤](https://zh.wikipedia.org/wiki/APEv2_tag "wikilink")
 
 ### 目前的限制
 
-  - 尚未開放[原始碼](../Page/原始碼.md "wikilink")（未來預定以C++開放原始碼）
+  - 尚未開放[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（未來預定以C++開放原始碼）
       - 虽然原作者尚未公开源代码，但[FFmpeg开发者已通过反向工程实现了一个开源的TAK解码器](../Page/FFmpeg.md "wikilink")，并已入到FFmpeg中\[1\]。
   - 無硬體支援
   - 僅少數的播放軟體支援（[Airplay](../Page/Airplay.md "wikilink")、[Winamp](../Page/Winamp.md "wikilink")、Quintessential
     Media
-    Player、uLilith、XMPlay與[foobar2000的](../Page/foobar2000.md "wikilink")[外掛程式](../Page/外掛程式.md "wikilink")）
+    Player、uLilith、XMPlay與[foobar2000的](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")）
 
 ## 軟體支援
 
-  - TAK[軟體發展套件](../Page/軟體發展套件.md "wikilink")
+  - TAK[軟體發展套件](https://zh.wikipedia.org/wiki/軟體發展套件 "wikilink")
   - Winamp/XMPlay/Quintessential Player外掛程式
   - foo_input_tak，及foobar2000用的TAK解碼器
   - [Airplay免安裝綠色播放程式](../Page/Airplay.md "wikilink")，程式本身內建支援TAK格式，不需要安裝任何額外插件擴充外掛
   - [Mp3tag](../Page/Mp3tag.md "wikilink")（2.38以後的版本）
   - shntool（3.0.6以後的版本）
-  - [千千靜聽](../Page/千千靜聽.md "wikilink")（5.5.2以後的版本僅支援TAK 1.0，5.9.6版本支援TAK
-    2.2）
+  - [千千靜聽](https://zh.wikipedia.org/wiki/千千靜聽 "wikilink")（5.5.2以後的版本僅支援TAK
+    1.0，5.9.6版本支援TAK 2.2）
   - Aimp
   - [FFmpeg](../Page/FFmpeg.md "wikilink")
   - [MPlayer](../Page/MPlayer.md "wikilink")
@@ -39,7 +39,7 @@ Audio的高壓縮比](../Page/Monkey's_Audio.md "wikilink")，也擁有接近[FL
 
 ## 参见
 
-  - [音频编码格式的比较](../Page/音频编码格式的比较.md "wikilink")
+  - [音频编码格式的比较](https://zh.wikipedia.org/wiki/音频编码格式的比较 "wikilink")
 
 ## 註解
 

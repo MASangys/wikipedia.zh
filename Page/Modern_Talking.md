@@ -1,5 +1,5 @@
 ****
-是一支[德国流行音乐](../Page/德国.md "wikilink")[双人组合](../Page/双人组合.md "wikilink")，由
+是一支[德国流行音乐](../Page/德国.md "wikilink")[双人组合](https://zh.wikipedia.org/wiki/双人组合 "wikilink")，由
 [Thomas Anders](http://de.wikipedia.org/wiki/Thomas_Anders) 和 [Dieter
 Bohlen](http://de.wikipedia.org/wiki/Dieter_Bohlen) 组成。
 

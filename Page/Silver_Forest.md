@@ -1,16 +1,16 @@
 **Silver
-Forest**是[日本的一個](../Page/日本.md "wikilink")[同人社團](../Page/同人.md "wikilink")，愛稱「銀森」、「シルフォレ」。
+Forest**是[日本的一個](../Page/日本.md "wikilink")[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")，愛稱「銀森」、「シルフォレ」。
 
 ## 概要
 
 Silver
-Forest以製作[東方Project](../Page/東方Project.md "wikilink")[同人音樂為主](../Page/同人音樂.md "wikilink")，代表人物有**NYO**（作詞、作曲、編曲以及[吉他](../Page/吉他.md "wikilink")、[鍵盤演奏](../Page/鍵盤樂器.md "wikilink")）、**さゆり**（[歌手](../Page/歌手.md "wikilink")）、**Nano**（作詞兼歌手）等等。自從2006年4月網站開設以來，先後推出過數十張的[音樂專輯](../Page/音樂專輯.md "wikilink")，以[東方Project的](../Page/東方Project.md "wikilink")[背景音樂編曲佔大多數](../Page/背景音樂.md "wikilink")，亦有不少是原創的。Silver
-Forest早期的音樂專輯都是以純音樂為主，後來都是純音樂和人聲歌曲各佔一半。歌曲類型除了有一般的[trance](../Page/搖頭風.md "wikilink")、[搖滾樂等類型之外](../Page/搖滾樂.md "wikilink")，不少更是[惡搞系的](../Page/惡搞.md "wikilink")[電波歌曲](../Page/電波歌曲.md "wikilink")。在2008年之前的一些專輯中也有收錄[廣播劇](../Page/廣播劇.md "wikilink")，最後漸漸式微。
+Forest以製作[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")[同人音樂為主](../Page/同人音樂.md "wikilink")，代表人物有**NYO**（作詞、作曲、編曲以及[吉他](../Page/吉他.md "wikilink")、[鍵盤演奏](../Page/鍵盤樂器.md "wikilink")）、**さゆり**（[歌手](../Page/歌手.md "wikilink")）、**Nano**（作詞兼歌手）等等。自從2006年4月網站開設以來，先後推出過數十張的[音樂專輯](../Page/音樂專輯.md "wikilink")，以[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂編曲佔大多數](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")，亦有不少是原創的。Silver
+Forest早期的音樂專輯都是以純音樂為主，後來都是純音樂和人聲歌曲各佔一半。歌曲類型除了有一般的[trance](https://zh.wikipedia.org/wiki/搖頭風 "wikilink")、[搖滾樂等類型之外](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，不少更是[惡搞系的](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[電波歌曲](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")。在2008年之前的一些專輯中也有收錄[廣播劇](../Page/廣播劇.md "wikilink")，最後漸漸式微。
 
 Silver
-Forest的成名作是收錄於專輯「[東方萃奏樂](../Page/東方萃奏樂.md "wikilink")」內的歌曲「つるぺったん」，一首以《[東方永夜抄](../Page/東方永夜抄.md "wikilink")》的音樂「竹取飛翔
+Forest的成名作是收錄於專輯「[東方萃奏樂](../Page/東方萃奏樂.md "wikilink")」內的歌曲「つるぺったん」，一首以《[東方永夜抄](https://zh.wikipedia.org/wiki/東方永夜抄 "wikilink")》的音樂「竹取飛翔
 ～ Lunatic
-Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO動畫享有極高的人氣](../Page/NICONICO動畫.md "wikilink")。
+Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO動畫享有極高的人氣](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
 ## 歷史
 
@@ -20,7 +20,7 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 
   -
     4月－建立[官方網站](http://www.silver--forest.com)
-    5月21日－在當日於「[博麗神社例大祭](../Page/東方Project#博麗神社例大祭.md "wikilink")3」活動發售第一張音樂專輯，直至2009年夏共發行過20張。
+    5月21日－在當日於「[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")3」活動發售第一張音樂專輯，直至2009年夏共發行過20張。
 
 <!-- end list -->
 
@@ -29,12 +29,13 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 <!-- end list -->
 
   -
-    4月22日－[Sunshine Creation](../Page/Sunshine_Creation.md "wikilink")
-    35發行的專輯「[東方萃奏楽](../Page/東方萃奏楽.md "wikilink")」收錄的歌曲「つるぺったん」在[NICONICO動畫引起廣大注目](../Page/NICONICO動畫.md "wikilink")。
+    4月22日－[Sunshine
+    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
+    35發行的專輯「[東方萃奏楽](https://zh.wikipedia.org/wiki/東方萃奏楽 "wikilink")」收錄的歌曲「つるぺったん」在[NICONICO動畫引起廣大注目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
     12月31日－[Comic Market](../Page/Comic_Market.md "wikilink")
-    73發行的專輯「[東方蒼天歌](../Page/東方蒼天歌.md "wikilink")」收錄的「sweet
+    73發行的專輯「[東方蒼天歌](https://zh.wikipedia.org/wiki/東方蒼天歌 "wikilink")」收錄的「sweet
     little
-    sister」在NICONICO動畫上引起另一股熱潮歡迎。而「つるぺったん」及收錄在東方蒼天歌的歌曲「ケロ⑨destiny」更先後獲[組曲「NICONICO動畫」採用](../Page/組曲「NICONICO動畫」.md "wikilink")。
+    sister」在NICONICO動畫上引起另一股熱潮歡迎。而「つるぺったん」及收錄在東方蒼天歌的歌曲「ケロ⑨destiny」更先後獲[組曲「NICONICO動畫」採用](https://zh.wikipedia.org/wiki/組曲「NICONICO動畫」 "wikilink")。
 
 <!-- end list -->
 
@@ -53,7 +54,7 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 
   -
     5月24日－與另外兩個同人組織[SOUND
-    HOLIC及](../Page/SOUND_HOLIC.md "wikilink")[SYNC.ART'S共同舉辦](../Page/SYNC.ART'S.md "wikilink")「[Project.S 2nd
+    HOLIC及](../Page/SOUND_HOLIC.md "wikilink")[SYNC.ART'S共同舉辦](https://zh.wikipedia.org/wiki/SYNC.ART'S "wikilink")「[Project.S 2nd
     stage](http://ameblo.jp/projects/)」活動。
 
 <!-- end list -->
@@ -142,7 +143,7 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 
   - Origin（project γ，2008年8月16日，Comic Market 74）
 
-  - （[SYNC.ART'S](../Page/SYNC.ART'S.md "wikilink")，2008年8月16日，Comic
+  - （[SYNC.ART'S](https://zh.wikipedia.org/wiki/SYNC.ART'S "wikilink")，2008年8月16日，Comic
     Market 74）
 
   - Rebirth（project γ，2008年12月29日，Comic Market 75）
@@ -164,11 +165,11 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 
   - （，2009年8月15日，Comic Market 76）
 
-  - DYSTOPIA（[A-One](../Page/A-One.md "wikilink")，2009年12月30日，Comic
+  - DYSTOPIA（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2009年12月30日，Comic
     Market 77）
 
   - PLUG IN PLUG
-    OUT（[A-One](../Page/A-One.md "wikilink")，2010年3月14日，例大祭7）
+    OUT（[A-One](https://zh.wikipedia.org/wiki/A-One "wikilink")，2010年3月14日，例大祭7）
 
   - TRATRA -Extra Track-（SYNC.ART'S，2010年6月20日，とら祭り2010）
 

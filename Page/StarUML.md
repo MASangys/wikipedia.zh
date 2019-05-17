@@ -1,8 +1,8 @@
-**StarUML**是一个[开源的](../Page/开源.md "wikilink")[UML工具列表软件](../Page/UML工具.md "wikilink")，它遵守GNU
+**StarUML**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[UML工具列表软件](https://zh.wikipedia.org/wiki/UML工具 "wikilink")，它遵守GNU
 GPL的一个修订版。
 
 StarUML项目宣称的目标是代替大型的商业UML工具软件，如[IBM的](../Page/IBM.md "wikilink")[Rational
-Rose](../Page/Rational_Rose.md "wikilink")，[Borland公司的](../Page/Borland.md "wikilink")[Together](../Page/Borland_Together.md "wikilink")。
+Rose](https://zh.wikipedia.org/wiki/Rational_Rose "wikilink")，[Borland公司的](../Page/Borland.md "wikilink")[Together](https://zh.wikipedia.org/wiki/Borland_Together "wikilink")。
 
 StarUML支持UML2.0定义的大多数图，但缺少对象图（object diagram），包图（package
 diagram），时间图（UML timing diagram）和交互预览图（interaction overview
@@ -19,7 +19,7 @@ diagram）等功能，虽然对象图和包图完全可以通过类图编辑器�
 
 ## 参见
 
-  - [UML工具列表](../Page/UML工具列表.md "wikilink")
+  - [UML工具列表](https://zh.wikipedia.org/wiki/UML工具列表 "wikilink")
 
 ## 外部链接
 

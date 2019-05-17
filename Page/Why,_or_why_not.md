@@ -1,14 +1,14 @@
 《**why, or why
 not**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[片霧烈火的一首單曲](../Page/片霧烈火.md "wikilink")，于2006年6月28日由[Frontier
-Works發行](../Page/Frontier_Works.md "wikilink")。商品番號為FCCM-136。在[Oricon周公信榜上最高排行第](../Page/Oricon.md "wikilink")30位。這首單曲是同年電視動畫《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》的片尾曲，歌詞全為[英語](../Page/英語.md "wikilink")。
+Works發行](../Page/Frontier_Works.md "wikilink")。商品番號為FCCM-136。在[Oricon周公信榜上最高排行第](../Page/Oricon.md "wikilink")30位。這首單曲是同年電視動畫《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》的片尾曲，歌詞全為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
 ## 收錄曲
 
 1.  why, or why not
 
       -
-        作詞：interface；英語補作詞：[綾菓](../Page/風葉.md "wikilink")
-        作曲、編曲：[大嶋啓之](../Page/大嶋啓之.md "wikilink")
+        作詞：interface；英語補作詞：[綾菓](https://zh.wikipedia.org/wiki/風葉 "wikilink")
+        作曲、編曲：[大嶋啓之](https://zh.wikipedia.org/wiki/大嶋啓之 "wikilink")
         歌：[片霧烈火](../Page/片霧烈火.md "wikilink")
 
 2.

@@ -22,7 +22,7 @@
 
   - 真白‧布蘭‧杜‧溫德布倫（　Mashiro Blan de Windbloom）
 
-<span style="font-size:smaller;">聲優：[野上尤加奈](../Page/野上尤加奈.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")</span>
 
   -
     擁有GEM：蒼天之青玉（Blue Sky Sapphire）、海神之翠玉（Neptune Emerald）
@@ -34,7 +34,7 @@
 
   - 命（貓）（　Mikoto）
 
-<span style="font-size:smaller;">聲優：[清水愛](../Page/清水愛.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")</span>
 
   -
     真白女王之寵物，正體是貓神大人─命的「眼」。
@@ -68,7 +68,7 @@
 
   - 貓神大人－命（　Mikoto）
 
-<span style="font-size:smaller;">聲優：[清水愛](../Page/清水愛.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")</span>
 
   -
     擁有GEM：炎綬之紅玉（Fire String Ruby）
@@ -79,7 +79,7 @@
 
   - Ribbon chan（　Ribbon Chan）
 
-<span style="font-size:smaller;">聲優：[栗林美奈實](../Page/栗林美奈實.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")</span>
 
   -
     Schwarz的女孩，在舞衣的拉麵店幫忙。後來受到妮娜等乙HiME的影響，立志成為乙HiME。
@@ -174,7 +174,7 @@
 
   - 瑪莉亞．葛蕾斯伯（　Maria Graceburt）
 
-<span style="font-size:smaller;">聲優：[松岡洋子](../Page/松岡洋子.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[松岡洋子](https://zh.wikipedia.org/wiki/松岡洋子 "wikilink")</span>
 
   -
     擁有GEM・稱號：久遠之碧玉（Eternal Recurrence Jasper）起源：古羅繆勒斯
@@ -215,7 +215,7 @@
 
   - 依琳娜．伍茲（　Irina Woods）
 
-<span style="font-size:smaller;">聲優：[比嘉久美子](../Page/比嘉久美子.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[比嘉久美子](https://zh.wikipedia.org/wiki/比嘉久美子 "wikilink")</span>
 
   -
     亞里香以前的同班同學，現在是加爾迪羅貝的研究員，擔任陽子老師的助手。
@@ -224,7 +224,7 @@
 
   - 愛爾絲汀．霍（　Erstin Ho）
 
-<span style="font-size:smaller;">聲優：[栗林美奈實](../Page/栗林美奈實.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")</span>
 
   -
     愛莉卡以前的同班同學，因為要讓真白女王投降，而召喚出奴獸，最後遭妮娜擊破。
@@ -259,7 +259,7 @@
 
   - 千繪．海拉德（ Chie Hallard）
 
-<span style="font-size:smaller;">台譯：千繪．海拉德　聲優：[斎賀みつき](../Page/斎賀みつき.md "wikilink")</span>
+<span style="font-size:smaller;">台譯：千繪．海拉德　聲優：[斎賀みつき](https://zh.wikipedia.org/wiki/斎賀みつき "wikilink")</span>
 
   -
     擁有GEM・稱號：？（unnamed，一顆藍色的GEM）
@@ -291,7 +291,7 @@
 
   - 亘．石上（ Wattarl・Ishigarmin）
 
-<span style="font-size:smaller;">聲優：[三木眞一郎](../Page/三木眞一郎.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")</span>
 
   -
     在Zwei中和巴．瑪格麗特一起競選愛瑞斯共和國總統的人，被巴．瑪格麗特踢下去的人，他是個魔術師。以前好像是畫頭像速寫的。
@@ -299,7 +299,7 @@
 ## 阿爾泰公國
 
 <span style="font-size:smaller;">（ Altai dukedom）</span>
-位於風花王國北方的強大軍事國家。藍本為[俄羅斯聯邦](../Page/俄羅斯.md "wikilink")。
+位於風花王國北方的強大軍事國家。藍本為[俄羅斯聯邦](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
   - 凪．戴．阿爾泰（ Nagi．Dai．Altai）
 
@@ -338,7 +338,7 @@
 ## 卡迪亞帝國
 
 <span style="font-size:smaller;">（ Cardair Empire）</span>
-與佛羅倫斯自古對立的國家，王家代代相傳的GEM為「瑰麗之縞瑪瑙」藍本為[巴比倫王國](../Page/巴比倫王國.md "wikilink")（及[羅馬帝國](../Page/羅馬帝國.md "wikilink")）。
+與佛羅倫斯自古對立的國家，王家代代相傳的GEM為「瑰麗之縞瑪瑙」藍本為[巴比倫王國](https://zh.wikipedia.org/wiki/巴比倫王國 "wikilink")（及[羅馬帝國](../Page/羅馬帝國.md "wikilink")）。
 
   - 和也．克勞捷克（ Cazya．Crauzec）
 
@@ -364,11 +364,11 @@
 ## 佛羅倫斯
 
 <span style="font-size:smaller;">（ Florince）</span>
-王家代代相傳的GEM為「清戀之孔雀石」與「螺旋之蛇紋石」，藍本為[義大利](../Page/義大利.md "wikilink")。
+王家代代相傳的GEM為「清戀之孔雀石」與「螺旋之蛇紋石」，藍本為[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")。
 
   - 查理夏爾洛八世（ Charles Guinel Roy d'Florince VIII ）
 
-<span style="font-size:smaller;">聲優：[岩尾萬太郎](../Page/岩尾萬太郎.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[岩尾萬太郎](https://zh.wikipedia.org/wiki/岩尾萬太郎 "wikilink")</span>
 
   -
     擁有GEM：清戀之孔雀石（Pure Heart Malachite）→深淵之翡翠（Abyssal Green
@@ -459,7 +459,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
   - Nyugen Bao（ Nyugen Bao）
 
-<span style="font-size:smaller;">聲優：[宮下榮治](../Page/宮下榮治.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[宮下榮治](https://zh.wikipedia.org/wiki/宮下榮治 "wikilink")</span>
 
   -
     擁有GEM：慧命之藍銅礦（Infinite Wisdom Azurite）
@@ -488,7 +488,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
   - 鴇羽巧海頭忠賴（ Tokiha Takumi no Kami Tadayori）
 
-<span style="font-size:smaller;">聲優：[高橋裕吾](../Page/高橋裕吾.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[高橋裕吾](https://zh.wikipedia.org/wiki/高橋裕吾 "wikilink")</span>
 
   -
     鴇羽舞衣的親弟弟，目前擔任日邦格君主。
@@ -502,7 +502,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
   - 碧（ Midori）
 
-<span style="font-size:smaller;">聲優：[田村ゆかり](../Page/田村ゆかり.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")</span>
 
   -
     控制獸（子獸）：愕天王
@@ -512,7 +512,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
   - 黎人（ Rad）
 
-<span style="font-size:smaller;">聲優：[関俊彦](../Page/関俊彦.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[関俊彦](https://zh.wikipedia.org/wiki/関俊彦 "wikilink")</span>
 
   -
     控制獸（子獸）：？
@@ -526,7 +526,7 @@ Lutesia同盟王國有羅繆勒斯和萊姆斯兩國。
 
   - 約翰・史密斯（ John・Smith）
 
-<span style="font-size:smaller;">聲優：[内田直哉](../Page/内田直哉.md "wikilink")</span>
+<span style="font-size:smaller;">聲優：[内田直哉](https://zh.wikipedia.org/wiki/内田直哉 "wikilink")</span>
 
   -
     是黑團的首領，也是暗中幫助颯的人，被謝爾蓋．翁殺死。

@@ -2,31 +2,31 @@
 [Tcp_synflood.png](https://zh.wikipedia.org/wiki/File:Tcp_synflood.png "fig:Tcp_synflood.png")）傳送許多封包就是不送"ACK"回到伺服器。該連線因此處於半開狀態並吞食伺服器資源。因為阻斷服務攻擊的結果合法用戶Alice與伺服器嘗試建立連線遭拒。\]\]
 
 **SYN
-flood**或稱**SYN洪水**、**SYN洪泛**是一種[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")，起因於攻擊者傳送一系列的[`SYN`](../Page/SYN_\(TCP\).md "wikilink")請求到目標系統。\[1\]\[2\]
+flood**或稱**SYN洪水**、**SYN洪泛**是一種[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")，起因於攻擊者傳送一系列的[`SYN`](https://zh.wikipedia.org/wiki/SYN_\(TCP\) "wikilink")請求到目標系統。\[1\]\[2\]
 
-當用戶端試著與伺服器間建立[TCP連線時](../Page/传输控制协议.md "wikilink")，正常情況下[用戶端與](../Page/客戶端.md "wikilink")[伺服器端交換一系列的信息如下](../Page/伺服器.md "wikilink")：
+當用戶端試著與伺服器間建立[TCP連線時](../Page/传输控制协议.md "wikilink")，正常情況下[用戶端與](https://zh.wikipedia.org/wiki/客戶端 "wikilink")[伺服器端交換一系列的信息如下](https://zh.wikipedia.org/wiki/伺服器 "wikilink")：
 
 1.  用戶端透過傳送`SYN`同步（synchronize）信息到伺服器要求建立連線。
 2.  伺服器透過響應用戶端`SYN-ACK`以抄收（acknowledge）請求。
-3.  用戶端答應[`ACK`](../Page/ACK_\(TCP\).md "wikilink")，連線隨之建立。
+3.  用戶端答應[`ACK`](https://zh.wikipedia.org/wiki/ACK_\(TCP\) "wikilink")，連線隨之建立。
 
-這即是所謂[TCP三向交握](../Page/传输控制协议#通路的建立和终结.md "wikilink")，並且這是每個使用TCP傳輸協議建立連線的基礎。
+這即是所謂[TCP三向交握](https://zh.wikipedia.org/wiki/传输控制协议#通路的建立和终结 "wikilink")，並且這是每個使用TCP傳輸協議建立連線的基礎。
 
 SYN
 flood是一種廣為人知的攻擊，一般對現代網路不太有效。這種攻擊只有在伺服器在收到`SYN`後分配資源，但在收到`ACK`之前這個區段有效。
 
 SYN
-flood攻擊目前有兩種方法，不過都與伺服器端沒收到`ACK`有關。惡意用戶可以跳過傳送最後的`ACK`信息；或者在`SYN`裡透過[欺騙來源](../Page/IP位址欺騙.md "wikilink")[IP位址](../Page/IP位址.md "wikilink")，這讓伺服器送`SYN-ACK`到假造的IP位址，因此永不可能收到`ACK`。這兩個案例伺服器會花點時間等抄收通知，故一個簡單的網路壅塞可能是由於沒有`ACK`造成的。
+flood攻擊目前有兩種方法，不過都與伺服器端沒收到`ACK`有關。惡意用戶可以跳過傳送最後的`ACK`信息；或者在`SYN`裡透過[欺騙來源](https://zh.wikipedia.org/wiki/IP位址欺騙 "wikilink")[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")，這讓伺服器送`SYN-ACK`到假造的IP位址，因此永不可能收到`ACK`。這兩個案例伺服器會花點時間等抄收通知，故一個簡單的網路壅塞可能是由於沒有`ACK`造成的。
 
 如果這些綁定伺服器資源，透過海量`SYN`信息淹沒伺服器是有可能耗盡其資源。一旦所有資源都撥給半開通連線所保留，沒有新的連線（不管合法不合法）可被建立，導致阻斷服務攻擊。某些系統可能會故障得很糟糕，甚至宕機如果其他作業系統函式渴望這種形式的資源。
 
 過去通常於1996年用來分配資源給半開通連線的技術牽涉到通常相當短的佇列\[3\]。佇列的每個空位可在連線完成、或者到期時\[4\]被清空。當佇列滿時，新進來的連線建立會失敗。以上面的範例來說，所有新進來的連線在總共8個封包被送出之前會被阻擋下來。也就是說，每3分鐘正時算好的8個封包將阻斷所有新進的TCP連線完成。這讓這種阻斷服務攻擊只須佔很小的傳輸量。
 
 建議的反制方法包括[SYN
-cookie或者限定某一段時間內來自同一來源請求新連線的數量](../Page/SYN_cookie.md "wikilink")，不過因為現代的[TCP/IP堆疊沒有上面所述的](../Page/TCP/IP协议.md "wikilink")[瓶頸](../Page/瓶頸.md "wikilink")，因此介於SYN
-flood與其它種基於[通道容量類型的攻擊應該會只有很小或幾乎沒有差別](../Page/通道容量.md "wikilink")。
+cookie或者限定某一段時間內來自同一來源請求新連線的數量](../Page/SYN_cookie.md "wikilink")，不過因為現代的[TCP/IP堆疊沒有上面所述的](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")[瓶頸](https://zh.wikipedia.org/wiki/瓶頸 "wikilink")，因此介於SYN
+flood與其它種基於[通道容量類型的攻擊應該會只有很小或幾乎沒有差別](https://zh.wikipedia.org/wiki/通道容量 "wikilink")。
 
-[反射路由器亦可以被攻擊者所利用](../Page/反射路由器.md "wikilink")，以取代客戶端機器。SYN讲的是黑客利用TCP协议发送大量的半连接请求去攻击目标服务器或者主机，致使目标服务器发生拒绝服务，或者蓝屏。
+[反射路由器亦可以被攻擊者所利用](https://zh.wikipedia.org/wiki/反射路由器 "wikilink")，以取代客戶端機器。SYN讲的是黑客利用TCP协议发送大量的半连接请求去攻击目标服务器或者主机，致使目标服务器发生拒绝服务，或者蓝屏。
 
 ## 對策
 
@@ -47,7 +47,7 @@ flood與其它種基於[通道容量類型的攻擊應該會只有很小或幾�
 
   - [互联网控制消息协议](../Page/互联网控制消息协议.md "wikilink")
 
-  - [IP地址欺骗](../Page/IP地址欺骗.md "wikilink")
+  - [IP地址欺骗](https://zh.wikipedia.org/wiki/IP地址欺骗 "wikilink")
 
   -
   -

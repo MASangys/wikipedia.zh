@@ -1,4 +1,4 @@
-**wxPython**是[Python语言的](../Page/Python.md "wikilink")[GUI工具包](../Page/GUI.md "wikilink")，作为Python的扩展模块实现，包装了[wxWidgets](../Page/wxWidgets.md "wikilink")。
+**wxPython**是[Python语言的](../Page/Python.md "wikilink")[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，作为Python的扩展模块实现，包装了[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")。
 
 wxPython是跨平台的，开源的。
 
@@ -21,16 +21,16 @@ app.MainLoop()
 
   - [BitTorrent](../Page/BitTorrent_\(软件\).md "wikilink")，一種對等的BitTorrent應用程序。
   - [Google
-    Drive](../Page/Google_Drive.md "wikilink")，Google雲端存儲系統的桌面客戶端\[1\]。
+    Drive](https://zh.wikipedia.org/wiki/Google_Drive "wikilink")，Google雲端存儲系統的桌面客戶端\[1\]。
   - [GRASS
-    GIS](../Page/GRASS_GIS.md "wikilink")，一種免費且[開源的地理信息系統](../Page/開源.md "wikilink")。
-  - [PlayOnLinux](../Page/PlayOnLinux.md "wikilink")，一個[Wine軟體](../Page/Wine.md "wikilink")[相容層的圖形化前端](../Page/相容層.md "wikilink")。
+    GIS](https://zh.wikipedia.org/wiki/GRASS_GIS "wikilink")，一種免費且[開源的地理信息系統](https://zh.wikipedia.org/wiki/開源 "wikilink")。
+  - [PlayOnLinux](../Page/PlayOnLinux.md "wikilink")，一個[Wine軟體](../Page/Wine.md "wikilink")[相容層的圖形化前端](https://zh.wikipedia.org/wiki/相容層 "wikilink")。
 
 ## 參見
 
   - [Python](../Page/Python.md "wikilink")
   - [PyGTK](../Page/PyGTK.md "wikilink")
-  - [wxWidgets](../Page/wxWidgets.md "wikilink")
+  - [wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")
   - [PyQt](../Page/PyQt.md "wikilink")
 
 ## 參考資料

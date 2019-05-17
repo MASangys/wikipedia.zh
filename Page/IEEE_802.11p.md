@@ -1,20 +1,20 @@
 **IEEE 802.11p**（又稱**WAVE**，**Wireless Access in the Vehicular
 Environment**）是一個由[IEEE
-802.11](../Page/IEEE_802.11.md "wikilink")[標準擴充的](../Page/標準.md "wikilink")[通訊協定](../Page/通訊協定.md "wikilink")。這個通訊協定主要用在車用電子的[無線通訊上](../Page/無線通訊.md "wikilink")。它設定上是從[IEEE
+802.11](../Page/IEEE_802.11.md "wikilink")[標準擴充的](https://zh.wikipedia.org/wiki/標準 "wikilink")[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。這個通訊協定主要用在車用電子的[無線通訊上](../Page/無線通訊.md "wikilink")。它設定上是從[IEEE
 802.11來擴充延伸](../Page/IEEE_802.11.md "wikilink")，來符合[智慧型運輸系統](../Page/智慧型運輸系統.md "wikilink")（Intelligent
 Transportation
 Systems，ITS）的相關應用。應用的層-{面}-包括高速率的车辆之间以及车辆与5.9千兆赫（5.85-5.925千兆赫）波段的標準ITS路边基础设施之間的資料数据交换。[IEEE
-1609標準則是以IEEE](../Page/IEEE_1609.md "wikilink")
-802.11p通訊協定為基礎的高[層標準](../Page/OSI模型#.E5.B1.82.E6.AC.A1.E5.88.92.E5.88.86.md "wikilink")。\[1\]
+1609標準則是以IEEE](https://zh.wikipedia.org/wiki/IEEE_1609 "wikilink")
+802.11p通訊協定為基礎的高[層標準](https://zh.wikipedia.org/wiki/OSI模型#.E5.B1.82.E6.AC.A1.E5.88.92.E5.88.86 "wikilink")。\[1\]
 
-802.11p將被用在[車載通訊](../Page/車載通訊.md "wikilink")（或稱[專用短距離通訊](../Page/專用短距離通訊.md "wikilink")，Dedicated
+802.11p將被用在[車載通訊](https://zh.wikipedia.org/wiki/車載通訊 "wikilink")（或稱[專用短距離通訊](https://zh.wikipedia.org/wiki/專用短距離通訊 "wikilink")，Dedicated
 Short Range
-Communications，DSRC）系統中，這是一個[美國交通部](../Page/美國交通部.md "wikilink")（U.S.
+Communications，DSRC）系統中，這是一個[美國交通部](https://zh.wikipedia.org/wiki/美國交通部 "wikilink")（U.S.
 Department of
-Transportation）基於[歐洲針對車輛的通訊網路](../Page/歐洲.md "wikilink")，特別是[電子道路收費系統](../Page/電子道路收費系統.md "wikilink")、车辆安全服务與車上的商業交易系統等等的應用而設計[中長距繼續傳播隔空接口](../Page/中長距繼續傳播空氣介面.md "wikilink")（Continuous
+Transportation）基於[歐洲針對車輛的通訊網路](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，特別是[電子道路收費系統](../Page/電子道路收費系統.md "wikilink")、车辆安全服务與車上的商業交易系統等等的應用而設計[中長距繼續傳播隔空接口](https://zh.wikipedia.org/wiki/中長距繼續傳播空氣介面 "wikilink")（Continuous
 Air interfaces - Long and Medium
-Range，CALM）系統的計畫。該計畫最終的願景是建立一個允許車輛與路邊[無線接取器或是其他車輛間的通訊的全国性网络](../Page/無線接取器.md "wikilink")。这项工作是建立在其前導的[ASTM
-E2213-03計畫的基础上](../Page/ASTM_E2213-03.md "wikilink")。\[2\]
+Range，CALM）系統的計畫。該計畫最終的願景是建立一個允許車輛與路邊[無線接取器或是其他車輛間的通訊的全国性网络](https://zh.wikipedia.org/wiki/無線接取器 "wikilink")。这项工作是建立在其前導的[ASTM
+E2213-03計畫的基础上](https://zh.wikipedia.org/wiki/ASTM_E2213-03 "wikilink")。\[2\]
 
 ## 目前狀態
 
@@ -32,13 +32,13 @@ E2213-03計畫的基础上](../Page/ASTM_E2213-03.md "wikilink")。\[2\]
   - IEEE Draft Std P802.11p/D1.0, February 2006 , Part 11:wireless LAN
     Medium
   - 曹燿麟，《互補碼車用高速移動無線網路之性能分析》，[國立中山大學碩士論文](../Page/國立中山大學.md "wikilink")，2007年
-  - 呂懿慧，《通訊技術於智慧型運輸系統（ITS）之應用硏究：以DSRC為例》[新竹縣](../Page/新竹縣.md "wikilink")[竹東鎮](../Page/竹東鎮.md "wikilink")：[財團法人工業技術研究院產業經濟與資訊服務中心出版](../Page/財團法人工業技術研究院.md "wikilink")，2003年
+  - 呂懿慧，《通訊技術於智慧型運輸系統（ITS）之應用硏究：以DSRC為例》[新竹縣](../Page/新竹縣.md "wikilink")[竹東鎮](../Page/竹東鎮.md "wikilink")：[財團法人工業技術研究院產業經濟與資訊服務中心出版](https://zh.wikipedia.org/wiki/財團法人工業技術研究院 "wikilink")，2003年
     ISBN 957-774-580-6
   - 鄒典齊，《移動性正交頻分多工系統之有效的通道追蹤方法》，[元智大學碩士論文](../Page/元智大學.md "wikilink")，2006年
   - 陳翰緯，《利用辨碼指引解調及一階最小均方差頻域等化器為基礎之正交頻分多工接收器架構應用於短距無線通訊之性能分析》，[元智大學碩士論文](../Page/元智大學.md "wikilink")，2005年
   - 周俊祥，《車載通訊系統基頻處理平台研究》，[元智大學碩士論文](../Page/元智大學.md "wikilink")，2004年
   - 林盟翔，《利用一階最小均方差頻域等化器之正交頻分多工接收器架構應用於短距無線通訊之性能表現》，[元智大學碩士論文](../Page/元智大學.md "wikilink")，2005年
-  - 劉如傑，《適用於高速移動環境下的無線區域網路通道追蹤技術》，[中正大學碩士論文](../Page/中正大學.md "wikilink")，2006年
+  - 劉如傑，《適用於高速移動環境下的無線區域網路通道追蹤技術》，[中正大學碩士論文](https://zh.wikipedia.org/wiki/中正大學 "wikilink")，2006年
 
 ## 外部連結
 
@@ -86,7 +86,7 @@ E2213-03計畫的基础上](../Page/ASTM_E2213-03.md "wikilink")。\[2\]
 ## 参见
 
   - [IEEE 802.11](../Page/IEEE_802.11.md "wikilink")
-  - [IEEE 802.1](../Page/IEEE_802.1.md "wikilink")
+  - [IEEE 802.1](https://zh.wikipedia.org/wiki/IEEE_802.1 "wikilink")
   - [IEEE 802](../Page/IEEE_802.md "wikilink")
 
 {{-}}

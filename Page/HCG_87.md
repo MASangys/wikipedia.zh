@@ -1,5 +1,5 @@
 **HCG
-87**是登錄在[希克斯緻密星系群目錄上的一個緻密](../Page/希克斯緻密星系群.md "wikilink")[星系團](../Page/星系團.md "wikilink")，這個集團位於[摩羯座](../Page/摩羯座.md "wikilink")，距離大約是4億[光年遠](../Page/光年.md "wikilink")。
+87**是登錄在[希克斯緻密星系群目錄上的一個緻密](https://zh.wikipedia.org/wiki/希克斯緻密星系群 "wikilink")[星系團](https://zh.wikipedia.org/wiki/星系團 "wikilink")，這個集團位於[摩羯座](../Page/摩羯座.md "wikilink")，距離大約是4億[光年遠](../Page/光年.md "wikilink")。
 
 ## 成員
 
@@ -8,20 +8,20 @@
 <thead>
 <tr class="header">
 <th><p>名稱</p></th>
-<th><p><a href="../Page/星系分類.md" title="wikilink">類型</a><ref name="ned2">{{cite web</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/星系分類" title="wikilink">類型</a><ref name="ned2">{{cite web</p></th>
 <th><p>title=NASA/IPAC Extragalactic Database</p></th>
 <th><p>work=Results for various galaxies</p></th>
 <th><p>url=<a href="http://nedwww.ipac.caltech.edu/">http://nedwww.ipac.caltech.edu/</a></p></th>
 <th><p>accessdate=2006-10-19}}</ref></p></th>
-<th><p><a href="../Page/赤經.md" title="wikilink">R.A.</a>（<a href="../Page/J2000.md" title="wikilink">J2000</a>）[1]</p></th>
-<th><p><a href="../Page/赤緯.md" title="wikilink">Dec.</a>（<a href="../Page/J2000.md" title="wikilink">J2000</a>）[2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/赤經" title="wikilink">R.A.</a>（<a href="https://zh.wikipedia.org/wiki/J2000" title="wikilink">J2000</a>）[1]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/赤緯" title="wikilink">Dec.</a>（<a href="https://zh.wikipedia.org/wiki/J2000" title="wikilink">J2000</a>）[2]</p></th>
 <th><p><a href="../Page/紅移.md" title="wikilink">紅移</a>（<a href="../Page/公里.md" title="wikilink">公里</a>／秒）[3]</p></th>
-<th><p><a href="../Page/視星等.md" title="wikilink">視星等</a>[4]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/視星等" title="wikilink">視星等</a>[4]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/HCG_87a.md" title="wikilink">HCG 87a</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HCG_87a" title="wikilink">HCG 87a</a></p></td>
 <td><p>S0 pec</p></td>
 <td></td>
 <td></td>
@@ -33,7 +33,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/HCG_87b.md" title="wikilink">HCG 87b</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HCG_87b" title="wikilink">HCG 87b</a></p></td>
 <td><p>SA(r)0 pec</p></td>
 <td></td>
 <td></td>
@@ -45,7 +45,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HCG_87c.md" title="wikilink">HCG 87c</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HCG_87c" title="wikilink">HCG 87c</a></p></td>
 <td><p>Sb</p></td>
 <td></td>
 <td></td>
@@ -57,7 +57,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/HCG_87d.md" title="wikilink">HCG 87d</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HCG_87d" title="wikilink">HCG 87d</a></p></td>
 <td><p>Sd</p></td>
 <td></td>
 <td></td>

@@ -1,8 +1,8 @@
-**新傳媒U頻道**（）是新加坡第二個華語電視頻道，原為[新加坡報業控股旗下的](../Page/新加坡報業控股.md "wikilink")[報業傳訊成員](../Page/新加坡報業控股傳訊.md "wikilink")，於2005年1月1日早上10時整开台，正式成為[新傳媒私人有限公司旗下頻道](../Page/新傳媒私人有限公司.md "wikilink")。
+**新傳媒U頻道**（）是新加坡第二個華語電視頻道，原為[新加坡報業控股旗下的](https://zh.wikipedia.org/wiki/新加坡報業控股 "wikilink")[報業傳訊成員](https://zh.wikipedia.org/wiki/新加坡報業控股傳訊 "wikilink")，於2005年1月1日早上10時整开台，正式成為[新傳媒私人有限公司旗下頻道](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")。
 
 每日播映时间：星期一至星期五[新加坡標準時間下午](../Page/新加坡標準時間.md "wikilink")15:00至翌日凌晨02:30及星期六至星期日新加坡標準時間早上10:00至翌日凌晨02:30。
 
-以[新加坡國歌作為開台和收台曲](../Page/新加坡國歌.md "wikilink")，而收台期間則播出U频道在最近播出的自制节目短片和节目预告，并在开台四个小时前播出购物节目（周六与周日是开台两个小时前）。
+以[新加坡國歌作為開台和收台曲](https://zh.wikipedia.org/wiki/新加坡國歌 "wikilink")，而收台期間則播出U频道在最近播出的自制节目短片和节目预告，并在开台四个小时前播出购物节目（周六与周日是开台两个小时前）。
 
 ## 簡史
 
@@ -71,8 +71,8 @@
 </tr>
 <tr class="even">
 <td><p>5:00 pm</p></td>
-<td><p><a href="../Page/说出你的愿望.md" title="wikilink">说出你的愿望</a>#^ （第32-36集）</p></td>
-<td><p><a href="../Page/一屋老友记.md" title="wikilink">一屋老友记</a>^<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/说出你的愿望" title="wikilink">说出你的愿望</a>#^ （第32-36集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一屋老友记" title="wikilink">一屋老友记</a>^<br />
 (第22-25集）</p></td>
 <td></td>
 <td></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>6:00 pm</p></td>
-<td><p><a href="../Page/悄悄话_(电视剧).md" title="wikilink">悄悄话</a>#^（第18-22集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/悄悄话_(电视剧)" title="wikilink">悄悄话</a>#^（第18-22集）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="even">
 <td><p>7:00 pm</p></td>
-<td><p><a href="../Page/姐姐还活着.md" title="wikilink">姐姐还活着</a>#<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/姐姐还活着" title="wikilink">姐姐还活着</a>#<br />
 （第61-70集）</p></td>
 <td><p>嗨唱起来<br />
 </p></td>
@@ -115,7 +115,7 @@
 </tr>
 <tr class="even">
 <td><p>8:30 pm</p></td>
-<td><p><a href="../Page/走近科学.md" title="wikilink">走近科学</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/走近科学" title="wikilink">走近科学</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -130,7 +130,7 @@
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 谁来晚餐</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 守护者</p></td>
 <td><p>#总理上线</p></td>
-<td><p><a href="../Page/Jugglers.md" title="wikilink">超完美秘书</a>#<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Jugglers" title="wikilink">超完美秘书</a>#<br />
 (第11-14集）</p></td>
 <td></td>
 </tr>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><p>10:00 pm</p></td>
-<td><p><a href="../Page/延禧攻略.md" title="wikilink">延禧攻略</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/延禧攻略" title="wikilink">延禧攻略</a><br />
 （第37-41集）</p></td>
 <td></td>
 <td></td>
@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p>11:00 pm</p></td>
-<td><p><a href="../Page/8频道新闻.md" title="wikilink">晚间新闻</a> D</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/8频道新闻" title="wikilink">晚间新闻</a> D</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -222,7 +222,7 @@ D：與[新傳媒8頻道延後](../Page/新傳媒8頻道.md "wikilink")1小時�
 ## 參見
 
   - [新傳媒](../Page/新传媒私人有限公司.md "wikilink")
-  - [新加坡電視頻道列表](../Page/新加坡電視頻道列表.md "wikilink")
+  - [新加坡電視頻道列表](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")
 
 ## 參考資料
 

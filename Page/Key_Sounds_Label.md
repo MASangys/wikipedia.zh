@@ -1,10 +1,10 @@
 **Key Sounds Label**是電腦遊戲軟件製作公司的[Visual
-Art's旗下的一個品牌](../Page/Visual_Art's.md "wikilink")，遊戲品牌・[Key的自社商標](../Page/Key_\(公司\).md "wikilink")。亦有使用**KSL**略稱。產品編號由「KSLA-」開始。
+Art's旗下的一個品牌](../Page/Visual_Art's.md "wikilink")，遊戲品牌・[Key的自社商標](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。亦有使用**KSL**略稱。產品編號由「KSLA-」開始。
 
 作品會經由[Comic
 Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一般的商店發售。
 
-由於沒有與[日本音樂著作權協會簽訂版權管理委託契約](../Page/日本音樂著作權協會.md "wikilink")，故此其作品都會被看待為軟件。因此，在動畫商店等的發售會有限制，無法在一般的CD店購入。為解決此問題，也有同一枚CD會由本品牌與[波麗佳音](../Page/波麗佳音.md "wikilink")，兩個相異的品牌共同發售。
+由於沒有與[日本音樂著作權協會簽訂版權管理委託契約](../Page/日本音樂著作權協會.md "wikilink")，故此其作品都會被看待為軟件。因此，在動畫商店等的發售會有限制，無法在一般的CD店購入。為解決此問題，也有同一枚CD會由本品牌與[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，兩個相異的品牌共同發售。
 
 ## 作品列表
 
@@ -137,7 +137,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 </tr>
 <tr class="odd">
 <td><p>0019</p></td>
-<td><p><a href="../Page/Love_Song_(Riya).md" title="wikilink">Love Song</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Love_Song_(Riya)" title="wikilink">Love Song</a></p></td>
 <td><p>2005年8月31日</p></td>
 <td></td>
 </tr>
@@ -145,7 +145,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 <td><p>0020</p></td>
 <td><p><a href="../Page/智代After_～It&#39;s_a_Wonderful_Life～.md" title="wikilink">Tomoyo After</a> Original SoundTrack</p></td>
 <td><p>2005年11月25日</p></td>
-<td><p><a href="../Page/智代After.md" title="wikilink">智代After初回限定版同梱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/智代After" title="wikilink">智代After初回限定版同梱</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>0021</p></td>
@@ -305,7 +305,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 </tr>
 <tr class="odd">
 <td><p>0053/0054</p></td>
-<td><p><a href="../Page/My_Soul,_Your_Beats!/Brave_Song.md" title="wikilink">My Soul, Your Beats!/Brave Song</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Soul,_Your_Beats!/Brave_Song" title="wikilink">My Soul, Your Beats!/Brave Song</a></p></td>
 <td><p>2010年5月26日</p></td>
 <td><p>0053为限量版附帶DVD特典<br />
 0054为通常版</p></td>
@@ -318,7 +318,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 </tr>
 <tr class="odd">
 <td><p>0056</p></td>
-<td><p><a href="../Page/one&#39;s_future.md" title="wikilink">one's future</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/one&#39;s_future" title="wikilink">one's future</a></p></td>
 <td><p>2010年4月23日</p></td>
 <td></td>
 </tr>
@@ -354,7 +354,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 </tr>
 <tr class="odd">
 <td><p>0065</p></td>
-<td><p><a href="../Page/最珍贵的宝物_～Yui_final_ver.～.md" title="wikilink">最珍贵的宝物 ～Yui final ver.～</a> / Girls Dead Monster STARRING LiSA</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最珍贵的宝物_～Yui_final_ver.～" title="wikilink">最珍贵的宝物 ～Yui final ver.～</a> / Girls Dead Monster STARRING LiSA</p></td>
 <td><p>2010年12月8日</p></td>
 <td></td>
 </tr>
@@ -633,7 +633,7 @@ Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一�
 
 ## 相關條目
 
-  - [eufonius](../Page/eufonius.md "wikilink")
+  - [eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
   - [Lia](../Page/Lia.md "wikilink")
   - [I've](../Page/I've.md "wikilink")
 

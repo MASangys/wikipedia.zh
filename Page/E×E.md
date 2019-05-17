@@ -1,4 +1,4 @@
-《**E×E**》是[日本](../Page/日本.md "wikilink")[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2007年6月1日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，E×E為「Empty×Embryo」的簡稱。
+《**E×E**》是[日本](../Page/日本.md "wikilink")[YUZUSOFT於](../Page/YUZUSOFT.md "wikilink")2007年6月1日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，E×E為「Empty×Embryo」的簡稱。
 
 ## 概要
 
@@ -47,7 +47,7 @@
 ## 製作人員
 
   - [人物設計](../Page/人物設計.md "wikilink")、原畫：[梦璃凛](../Page/梦璃凛.md "wikilink")（）、[小舞一](../Page/小舞一.md "wikilink")（）
-  - [劇本](../Page/劇本.md "wikilink")：
+  - [劇本](https://zh.wikipedia.org/wiki/劇本 "wikilink")：
   - 音樂：Famishin
   - CG：煎路、
   - 影片製作：

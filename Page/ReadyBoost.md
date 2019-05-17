@@ -1,22 +1,22 @@
 **ReadyBoost**是[Windows
 Vista中的新技术](../Page/Windows_Vista.md "wikilink")，在继Windows
 Vista的下一代操作系统[Windows
-7中](../Page/Windows_7.md "wikilink")，同样包含了这项技术，它利用了[闪存随机读写及零碎文件读写上的优势来提高](../Page/闪存.md "wikilink")[计算机系统性能](../Page/计算机.md "wikilink")。它是下一代闪存硬盘的临时替代品。
+7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，同样包含了这项技术，它利用了[闪存随机读写及零碎文件读写上的优势来提高](../Page/闪存.md "wikilink")[计算机系统性能](https://zh.wikipedia.org/wiki/计算机 "wikilink")。它是下一代闪存硬盘的临时替代品。
 
-这项技术目前仅支持[USB](../Page/USB.md "wikilink")2.0或更高版本接口的USB闪存驱动器以及计算机内置[读卡器中的闪存](../Page/读卡器.md "wikilink")。具体要求是，4k随机读取的速度大于3.5M/s，512k随机写入的速度大于2.5M/s。
+这项技术目前仅支持[USB](../Page/USB.md "wikilink")2.0或更高版本接口的USB闪存驱动器以及计算机内置[读卡器中的闪存](https://zh.wikipedia.org/wiki/读卡器 "wikilink")。具体要求是，4k随机读取的速度大于3.5M/s，512k随机写入的速度大于2.5M/s。
 
 ## 概述
 
 使用支持 ReadyBoost 的闪存（NAND 存储）设备作为缓存，可以使Windows Vista 或者 Windows 7
 中的随机磁盘读取性能原则上较传统的[硬盘提高](../Page/硬盘.md "wikilink")80-100倍。该缓存可以作用于所有的硬盘内容，而不仅仅是页面文件或者系统
-[DLL](../Page/DLL.md "wikilink") 文件。原则上来说，闪存设备的顺序 I/O
+[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink") 文件。原则上来说，闪存设备的顺序 I/O
 要比传统的硬盘速度缓慢，为了提高性能，ReadyBoost包含了大型识别逻辑，顺序读取请求并且要硬盘为这些请求服务。
 
 当一个兼容的设备连接到计算机，弹出的 Windows
 自动播放对话框将提供一个附加的选项来使用闪存设备加速系统；磁盘属性对话框也会添加一个附加的：“ReadyBoost”选项卡，并且挂载的可用空间将是可以配置的。可被指派的闪存空间为
 256兆至256G（32位的 Vista将会指派为4GB）。ReadyBoost 使用
-[AES-128](../Page/AES-128.md "wikilink")
-进行[加密和](../Page/加密.md "wikilink")[压缩并将所有的数据存放于闪存设备](../Page/压缩.md "wikilink")；微软设计的设定的[压缩比为](../Page/压缩比.md "wikilink")2：1，即：4GB
+[AES-128](https://zh.wikipedia.org/wiki/AES-128 "wikilink")
+进行[加密和](https://zh.wikipedia.org/wiki/加密 "wikilink")[压缩并将所有的数据存放于闪存设备](https://zh.wikipedia.org/wiki/压缩 "wikilink")；微软设计的设定的[压缩比为](https://zh.wikipedia.org/wiki/压缩比 "wikilink")2：1，即：4GB
 缓存将最多包含 8GB 数据。
 
 基于Jim Allchin的调查：对于将来要发行的 Windows，ReadyBoost 将能够使用存在于网络当中的其他 Windows PC
@@ -25,7 +25,8 @@ Vista的下一代操作系统[Windows
 对于兼容的设备，必须满足以下条件：
 
   - 可移动设备的容量不得小于 256MB（格式化后 250MB）。Windows Vista x86 和
-    [x86-64](../Page/x86-64.md "wikilink") 被限制使用4GB；该限制在 Windows 7 中被删除。
+    [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
+    被限制使用4GB；该限制在 Windows 7 中被删除。
   - Windows 7 允许最多使用8个设备最大256GB作为附加存储。
   - 设备的访问时间必须小于或等于 1 毫秒。
   - 设备必须能够以 2.5MB/秒的平均速度在整个设备上进行 4KB 随机读取；512KB 随机写入平均速率为 1.75MB/秒。
@@ -33,7 +34,8 @@ Vista的下一代操作系统[Windows
 ## 其他
 
   - Vista SP1 的 ReadyBoost 支持 NTFS、FAT16、和 FAT32 等文件系统。Windows 7还支持全新的
-    [exFAT](../Page/exFAT.md "wikilink") 文件系统。Vista SP2 不支持 exFAT 文件系统。
+    [exFAT](https://zh.wikipedia.org/wiki/exFAT "wikilink") 文件系统。Vista
+    SP2 不支持 exFAT 文件系统。
 
 <!-- end list -->
 

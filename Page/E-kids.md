@@ -1,21 +1,21 @@
-**E-kids**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](../Page/男子音樂組合.md "wikilink")，於2002年出道，初期成員包括[阮民安](../Page/阮民安.md "wikilink")（Tommy）、林詠倫（Alan）和[郁禮賢](../Page/郁禮賢.md "wikilink")（Tim/Kasa）。於2004年，[郁禮賢離開E](../Page/郁禮賢.md "wikilink")-kids獨立發展，其後加入了[林中定](../Page/林中定.md "wikilink")（Nick）。2006年，E-kids解散。2013年4月6日，Alan（林詠倫）和Tim（郁禮賢）重組成為E-kids@2，於[九龍灣](../Page/九龍灣.md "wikilink")[國際展貿中心舉辦演唱會](../Page/國際展貿中心.md "wikilink")。2016年8月20日，E-Kids宣佈重組。\[1\]
+**E-kids**是[香港一隊](../Page/香港.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2002年出道，初期成員包括[阮民安](../Page/阮民安.md "wikilink")（Tommy）、林詠倫（Alan）和[郁禮賢](https://zh.wikipedia.org/wiki/郁禮賢 "wikilink")（Tim/Kasa）。於2004年，[郁禮賢離開E](https://zh.wikipedia.org/wiki/郁禮賢 "wikilink")-kids獨立發展，其後加入了[林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink")（Nick）。2006年，E-kids解散。2013年4月6日，Alan（林詠倫）和Tim（郁禮賢）重組成為E-kids@2，於[九龍灣](../Page/九龍灣.md "wikilink")[國際展貿中心舉辦演唱會](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")。2016年8月20日，E-Kids宣佈重組。\[1\]
 2017年1月21日舉行E-KIDS 3XL Concert 2017，門票首天開賣便已沽清。\[2\]
 
 ## 簡介
 
 本來Tommy、Alan 和 Tim
-只是在[Stareast的](../Page/東方魅力.md "wikilink")[餐廳工作](../Page/餐廳.md "wikilink")，後來在樂壇校長[譚詠麟的提攜下成為組合](../Page/譚詠麟.md "wikilink")，曾經擔任其[演唱會嘉賓](../Page/演唱會.md "wikilink")。他們在1999年參加了[Stareast新人類](../Page/Stareast新人類.md "wikilink")。2000年他們以**E-kids**名義參加「全球華人新秀歌唱大賽」，並獲得「最受觀眾歡迎獎」。經過一年的訓練後，他們在2002年正式出道，組成**E-kids**。**E**是代表他們的公司[StarEast](../Page/東方魅力.md "wikilink")，而他們又是公司的小朋友，所以叫**kids**，合併就是「**E-kids**」。**E-kids**的歌曲大部由Tommy作曲，舞蹈則由Tim安排。E-kids的形象都以他們的金髮建立，只有錄製兒歌MV才會染回黑髮。
+只是在[Stareast的](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")[餐廳工作](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，後來在樂壇校長[譚詠麟的提攜下成為組合](../Page/譚詠麟.md "wikilink")，曾經擔任其[演唱會嘉賓](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。他們在1999年參加了[Stareast新人類](https://zh.wikipedia.org/wiki/Stareast新人類 "wikilink")。2000年他們以**E-kids**名義參加「全球華人新秀歌唱大賽」，並獲得「最受觀眾歡迎獎」。經過一年的訓練後，他們在2002年正式出道，組成**E-kids**。**E**是代表他們的公司[StarEast](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")，而他們又是公司的小朋友，所以叫**kids**，合併就是「**E-kids**」。**E-kids**的歌曲大部由Tommy作曲，舞蹈則由Tim安排。E-kids的形象都以他們的金髮建立，只有錄製兒歌MV才會染回黑髮。
 
-2004年，有傳聞Tommy及Alan會過檔到[范振鋒所設的新公司](../Page/范振鋒.md "wikilink")。另外，E-kids另一成員Tim改名為Kasa，並離開E-kids作獨立發展，成員Tommy與Alan也會繼續出唱片。到了7月，**E-kids**的去向終於落實了，他們會加入Alan的舊同學[林中定](../Page/林中定.md "wikilink")，而他們在[譚詠麟](../Page/譚詠麟.md "wikilink")，[曾志偉的推薦下](../Page/曾志偉.md "wikilink")，加入了[環球唱片公司](../Page/環球唱片.md "wikilink")，但是推出一首單曲後E-kids就解散了。
+2004年，有傳聞Tommy及Alan會過檔到[范振鋒所設的新公司](../Page/范振鋒.md "wikilink")。另外，E-kids另一成員Tim改名為Kasa，並離開E-kids作獨立發展，成員Tommy與Alan也會繼續出唱片。到了7月，**E-kids**的去向終於落實了，他們會加入Alan的舊同學[林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink")，而他們在[譚詠麟](../Page/譚詠麟.md "wikilink")，[曾志偉的推薦下](../Page/曾志偉.md "wikilink")，加入了[環球唱片公司](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，但是推出一首單曲後E-kids就解散了。
 
-其後Tommy獨立發展，推出的歌曲以Hip-Hop([嘻哈](../Page/嘻哈.md "wikilink"))音樂為主。而另一成員Alan則簽約成為[東美廣告娛樂旗下藝人](../Page/東美廣告娛樂.md "wikilink")。
+其後Tommy獨立發展，推出的歌曲以Hip-Hop([嘻哈](../Page/嘻哈.md "wikilink"))音樂為主。而另一成員Alan則簽約成為[東美廣告娛樂旗下藝人](https://zh.wikipedia.org/wiki/東美廣告娛樂 "wikilink")。
 
 ## 成員資料
 
-  - [郁禮賢](../Page/郁禮賢.md "wikilink") （，1981年7月20日）
+  - [郁禮賢](https://zh.wikipedia.org/wiki/郁禮賢 "wikilink") （，1981年7月20日）
   - [阮民安](../Page/阮民安.md "wikilink") （，1980年5月13日）
   - 林詠倫（已改名為林泳） （，1980年4月18日）
-  - [林中定](../Page/林中定.md "wikilink")（）
+  - [林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink")（）
 
 ## 唱片
 
@@ -27,12 +27,13 @@
 2.  最佳表情
 3.  青春火花
 4.  玩玩具
-5.  倉鼠俱樂部（TVB卡通片《[倉鼠俱樂部](../Page/倉鼠俱樂部.md "wikilink")》主題曲）
-6.  第一個唱 (featuring [和田裕美](../Page/和田裕美.md "wikilink"))
+5.  倉鼠俱樂部（TVB卡通片《[倉鼠俱樂部](https://zh.wikipedia.org/wiki/倉鼠俱樂部 "wikilink")》主題曲）
+6.  第一個唱 (featuring
+    [和田裕美](https://zh.wikipedia.org/wiki/和田裕美 "wikilink"))
 
 <!-- end list -->
 
-  - 《[戀愛秘笈](../Page/戀愛秘笈.md "wikilink")》（國語）（唱片公司：東方魅力）(2002年12月)
+  - 《[戀愛秘笈](https://zh.wikipedia.org/wiki/戀愛秘笈 "wikilink")》（國語）（唱片公司：東方魅力）(2002年12月)
 
 <!-- end list -->
 
@@ -48,7 +49,7 @@
 <!-- end list -->
 
   - 《[E-Kids Super
-    Diary](../Page/E-Kids_Super_Diary.md "wikilink")》（唱片公司：東方魅力）(2002年12月)
+    Diary](https://zh.wikipedia.org/wiki/E-Kids_Super_Diary "wikilink")》（唱片公司：東方魅力）(2002年12月)
 
 <!-- end list -->
 
@@ -69,7 +70,7 @@
 <!-- end list -->
 
   - 《[E-Kids
-    Diary](../Page/E-Kids_Diary.md "wikilink")》（唱片公司：東方魅力）(2002年12月)
+    Diary](https://zh.wikipedia.org/wiki/E-Kids_Diary "wikilink")》（唱片公司：東方魅力）(2002年12月)
 
 <!-- end list -->
 
@@ -87,7 +88,7 @@
 <!-- end list -->
 
   - 《[E-Kids初哥 IST Dance
-    Album](../Page/E-Kids初哥_IST_Dance_Album.md "wikilink")》（唱片公司：東方魅力）(2002年)
+    Album](https://zh.wikipedia.org/wiki/E-Kids初哥_IST_Dance_Album "wikilink")》（唱片公司：東方魅力）(2002年)
 
 <!-- end list -->
 
@@ -100,7 +101,7 @@
 
 <!-- end list -->
 
-  - 《[魅力移動](../Page/魅力移動.md "wikilink")》（與[EO2](../Page/EO2.md "wikilink")，[張詠詩合輯](../Page/張詠詩.md "wikilink")；唱片公司：東方魅力）(2002年)
+  - 《[魅力移動](https://zh.wikipedia.org/wiki/魅力移動 "wikilink")》（與[EO2](../Page/EO2.md "wikilink")，[張詠詩合輯](../Page/張詠詩.md "wikilink")；唱片公司：東方魅力）(2002年)
 
 <!-- end list -->
 
@@ -126,17 +127,17 @@
 **2006年:**
 
   - 《[半醉人間](../Page/半醉人間.md "wikilink")》
-  - 《[打雀英雄傳](../Page/打雀英雄傳.md "wikilink")》
-  - 《[龍虎門](../Page/龍虎門_\(2006年電影\).md "wikilink")》
+  - 《[打雀英雄傳](https://zh.wikipedia.org/wiki/打雀英雄傳 "wikilink")》
+  - 《[龍虎門](https://zh.wikipedia.org/wiki/龍虎門_\(2006年電影\) "wikilink")》
       - [阮民安](../Page/阮民安.md "wikilink") 飾 光頭星
       - 林詠倫 飾 獨眼龍
-      - [林中定](../Page/林中定.md "wikilink") 飾 黑仔傑
+      - [林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink") 飾 黑仔傑
 
 **2005年:**
 
-  - 《[擁抱每一刻花火](../Page/擁抱每一刻花火.md "wikilink")》
-  - 《[三岔口](../Page/三岔口.md "wikilink")》
-  - 《[早熟](../Page/早熟.md "wikilink")》
+  - 《[擁抱每一刻花火](https://zh.wikipedia.org/wiki/擁抱每一刻花火 "wikilink")》
+  - 《[三岔口](https://zh.wikipedia.org/wiki/三岔口 "wikilink")》
+  - 《[早熟](https://zh.wikipedia.org/wiki/早熟 "wikilink")》
       - [阮民安](../Page/阮民安.md "wikilink") 飾 Roger
 
 **2004年:**
@@ -146,29 +147,29 @@
 
 **2003年:**
 
-  - 《[魔宅之鐵鎚凶靈](../Page/魔宅之鐵鎚凶靈.md "wikilink")》
+  - 《[魔宅之鐵鎚凶靈](https://zh.wikipedia.org/wiki/魔宅之鐵鎚凶靈 "wikilink")》
   - 《[絕種鐵金剛](../Page/絕種鐵金剛.md "wikilink")》
-  - 《[愛火花](../Page/愛火花.md "wikilink")》
+  - 《[愛火花](https://zh.wikipedia.org/wiki/愛火花 "wikilink")》
 
 **2002年:**
 
-  - 《[走火槍](../Page/走火槍.md "wikilink")》
+  - 《[走火槍](https://zh.wikipedia.org/wiki/走火槍 "wikilink")》
 
 **2000年:**
 
-  - 《[唔該借歪\!\!](../Page/唔該借歪!!.md "wikilink")》
+  - 《[唔該借歪\!\!](https://zh.wikipedia.org/wiki/唔該借歪!! "wikilink")》
 
 ## 電視劇
 
 **2003年:**
 
-  - [TVB](../Page/TVB.md "wikilink")《[當四葉草碰上劍尖時](../Page/當四葉草碰上劍尖時.md "wikilink")》
+  - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")《[當四葉草碰上劍尖時](../Page/當四葉草碰上劍尖時.md "wikilink")》
     飾 學生（客串）
 
 **2002年:**
 
   - [香港電台電視劇](../Page/香港電台.md "wikilink")《平等機會檔案》
-  - [Now.com網劇](../Page/Now.com.md "wikilink")《[吻了再說](../Page/吻了再說.md "wikilink")》
+  - [Now.com網劇](https://zh.wikipedia.org/wiki/Now.com "wikilink")《[吻了再說](https://zh.wikipedia.org/wiki/吻了再說 "wikilink")》
     飾 E-kids
 
 ## 電視節目
@@ -190,8 +191,8 @@
 
 **2002年:**
 
-  - [Locman](../Page/Locman.md "wikilink")
-    [手錶香港區代言人](../Page/手錶.md "wikilink")
+  - [Locman](https://zh.wikipedia.org/wiki/Locman "wikilink")
+    [手錶香港區代言人](https://zh.wikipedia.org/wiki/手錶 "wikilink")
 
 ## 獎項
 
@@ -201,29 +202,30 @@
   - 2003年度[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")——最受爹o地媽咪歡迎兒歌大獎《倉鼠俱樂部》
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2003——新城勁爆跳舞歌曲《最佳表情》
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2003——新城勁爆跳舞歌曲《最佳表情》
-  - 2003年[勁歌金曲第三季季選](../Page/勁歌金曲第三季季選.md "wikilink")——最佳改編歌曲演繹獎《玩玩具》
-  - [全球華人新秀歌唱大賽](../Page/全球華人新秀歌唱大賽.md "wikilink")——最受觀眾歡迎獎
+  - 2003年[勁歌金曲第三季季選](https://zh.wikipedia.org/wiki/勁歌金曲第三季季選 "wikilink")——最佳改編歌曲演繹獎《玩玩具》
+  - [全球華人新秀歌唱大賽](https://zh.wikipedia.org/wiki/全球華人新秀歌唱大賽 "wikilink")——最受觀眾歡迎獎
   - [PM新勢力頒獎禮](../Page/PM.md "wikilink")——PM至yeah
 
 **2002年:**
 
-  - [E\*plus 樂壇新人巡禮](../Page/E*plus_樂壇新人巡禮.md "wikilink")2002——新人賞
-  - [TVB](../Page/TVB.md "wikilink")
-    2002年[勁歌金曲第二季季選](../Page/勁歌金曲第二季季選.md "wikilink")——最受歡迎合唱歌曲獎《魅力移動》
+  - [E\*plus
+    樂壇新人巡禮](https://zh.wikipedia.org/wiki/E*plus_樂壇新人巡禮 "wikilink")2002——新人賞
+  - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")
+    2002年[勁歌金曲第二季季選](https://zh.wikipedia.org/wiki/勁歌金曲第二季季選 "wikilink")——最受歡迎合唱歌曲獎《魅力移動》
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2002——勁爆新登場組合
   - 2002年度[兒歌金曲頒獎典禮](../Page/兒歌金曲頒獎典禮.md "wikilink")——十大兒歌金曲《青春變魔術》
   - 3周刊至愛人氣藝人大賞——人氣組合
   - 第二屆[PM夏日人氣頒獎禮](../Page/PM.md "wikilink")——PM夏日活力人氣跳舞組合獎
-  - [廣州台勁歌王頒獎禮](../Page/廣州台.md "wikilink")——人氣組合獎
-  - [TVB](../Page/TVB.md "wikilink") 2002年度十大勁歌金曲頒獎禮——
-    \<最受歡迎合唱歌曲（金獎）《魅力移動》
+  - [廣州台勁歌王頒獎禮](https://zh.wikipedia.org/wiki/廣州台 "wikilink")——人氣組合獎
+  - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")
+    2002年度十大勁歌金曲頒獎禮—— \<最受歡迎合唱歌曲（金獎）《魅力移動》
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2002——新城勁爆新登場組合
-  - [便利娛樂新人王](../Page/便利娛樂新人王.md "wikilink")2002——最受現場觀眾歡迎大獎
-  - [便利娛樂新人王](../Page/便利娛樂新人王.md "wikilink")2002——組合新人王
+  - [便利娛樂新人王](https://zh.wikipedia.org/wiki/便利娛樂新人王 "wikilink")2002——最受現場觀眾歡迎大獎
+  - [便利娛樂新人王](https://zh.wikipedia.org/wiki/便利娛樂新人王 "wikilink")2002——組合新人王
 
 ## 參見
 
-  - [東方魅力](../Page/東方魅力.md "wikilink")
+  - [東方魅力](https://zh.wikipedia.org/wiki/東方魅力 "wikilink")
 
 ## 參考資料
 

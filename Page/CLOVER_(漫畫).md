@@ -34,7 +34,7 @@
 
 ## 映畫版
 
-與『[庫洛魔法使劇場版](../Page/庫洛魔法使.md "wikilink")』同時播映。2007年5月25日，與DVD「[庫洛魔法使](../Page/庫洛魔法使.md "wikilink")
+與『[庫洛魔法使劇場版](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")』同時播映。2007年5月25日，與DVD「[庫洛魔法使](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")
 THE MOVIE COLLECTION同時發行。\[1\]
 
 1999年8月21日公開。5分鐘。
@@ -42,16 +42,16 @@ THE MOVIE COLLECTION同時發行。\[1\]
   - [製作](../Page/製作.md "wikilink")：[萬代影視](../Page/萬代影視.md "wikilink")
   - 配給：[松竹](../Page/松竹.md "wikilink")
   - 監督：[高坂希太郎](../Page/高坂希太郎.md "wikilink")
-  - 演出：[松尾衡](../Page/松尾衡.md "wikilink")
+  - 演出：[松尾衡](https://zh.wikipedia.org/wiki/松尾衡 "wikilink")
   - 人物設定・作画監督：[結城信輝](../Page/結城信輝.md "wikilink")
   - 美術監督：[山本二三](../Page/山本二三.md "wikilink")
   - 攝影監督：八巻磐
-  - [音響監督](../Page/音響監督.md "wikilink")：[本田保則](../Page/本田保則.md "wikilink")
-  - 音響效果：[倉橋静男](../Page/サウンドボックス.md "wikilink")
-  - 音樂：[橋本一子](../Page/橋本一子.md "wikilink")
-  - [アニメーション制作](../Page/アニメ制作会社.md "wikilink")：[マッドハウス](../Page/マッドハウス.md "wikilink")
+  - [音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")：[本田保則](https://zh.wikipedia.org/wiki/本田保則 "wikilink")
+  - 音響效果：[倉橋静男](https://zh.wikipedia.org/wiki/サウンドボックス "wikilink")
+  - 音樂：[橋本一子](https://zh.wikipedia.org/wiki/橋本一子 "wikilink")
+  - [アニメーション制作](https://zh.wikipedia.org/wiki/アニメ制作会社 "wikilink")：[マッドハウス](https://zh.wikipedia.org/wiki/マッドハウス "wikilink")
   - 聲優:
-    [小沢寿美恵](../Page/小沢寿美恵.md "wikilink")、[坂本真綾](../Page/坂本真綾.md "wikilink")、[谷山紀章](../Page/谷山紀章.md "wikilink")
+    [小沢寿美恵](https://zh.wikipedia.org/wiki/小沢寿美恵 "wikilink")、[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、[谷山紀章](../Page/谷山紀章.md "wikilink")
 
 ## 單行本
 

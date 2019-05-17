@@ -1,4 +1,4 @@
-**獵犬RS型變星**是[變星的一種類型](../Page/變星.md "wikilink")，也是有活躍[色球層的密接](../Page/色球層.md "wikilink")[聯星](../Page/聯星.md "wikilink")\[1\]，並且可以觀察到因此造成的[光度變化](../Page/光度.md "wikilink")。通常，這類變星的週期與聯星的互轉周期接近，有些系統的光度變化還顯示出是[食雙星](../Page/聯星#食雙星.md "wikilink")，而典型的光度變化只有0.2[星等](../Page/視星等.md "wikilink")。
+**獵犬RS型變星**是[變星的一種類型](../Page/變星.md "wikilink")，也是有活躍[色球層的密接](https://zh.wikipedia.org/wiki/色球層 "wikilink")[聯星](../Page/聯星.md "wikilink")\[1\]，並且可以觀察到因此造成的[光度變化](../Page/光度.md "wikilink")。通常，這類變星的週期與聯星的互轉周期接近，有些系統的光度變化還顯示出是[食雙星](https://zh.wikipedia.org/wiki/聯星#食雙星 "wikilink")，而典型的光度變化只有0.2[星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")。
 
 史都華(1946年)首先注意到這类变星，但是奧利弗(1974年)才首度定義出獵犬RS型變星在觀測上的特徵與標準，在今天作業上所採用的標準是海爾(1976年)制定的\[2\]。
 
@@ -17,7 +17,7 @@ IV.閃光星系統： 溫度較高的伴星光譜類型為dKe或dMe，並且有�
 V.金牛座 V471型系統： 溫度較高的伴星是[白矮星](../Page/白矮星.md "wikilink")。
 溫度較低的伴星光譜類型是G到K，並且有強烈的鈣II H和K發射線。
 
-獵犬RS型變星的光度曲線在食的部分之外還呈現出奇特的半週期性的結構，這種結構造成光度曲線上的畸變波浪。伊頓和海爾(1976)確認造成這種畸變波浪最簡單的機制就是[星斑](../Page/星斑.md "wikilink")，類似於[太陽黑子但是更大](../Page/太陽黑子.md "wikilink")，使光球活動的溫度降低。已經在許多系統上間接的觀察到星斑\[3\]。
+獵犬RS型變星的光度曲線在食的部分之外還呈現出奇特的半週期性的結構，這種結構造成光度曲線上的畸變波浪。伊頓和海爾(1976)確認造成這種畸變波浪最簡單的機制就是[星斑](../Page/星斑.md "wikilink")，類似於[太陽黑子但是更大](https://zh.wikipedia.org/wiki/太陽黑子 "wikilink")，使光球活動的溫度降低。已經在許多系統上間接的觀察到星斑\[3\]。
 
 核心輻射出的鈣II
 H和K共振譜線出現在色球的活動中，巴耳末線或Hα也與色球層的活動聯繫在一起。經過追蹤，X射線的輻射來自活躍的日冕區域，紫外線和閃焰，類比於太陽，來自於恆星活動和過渡區。這些區域在太陽都是和強烈的磁場活動結合在一起的。
@@ -48,9 +48,10 @@ H和K共振譜線出現在色球的活動中，巴耳末線或Hα也與色球層
 [Category:變星](https://zh.wikipedia.org/wiki/Category:變星 "wikilink")
 
 1.
-2.  [Berdyugina](../Page/#Berdyugina.md "wikilink") [2.4 RS CVn
+2.  [Berdyugina](https://zh.wikipedia.org/wiki/#Berdyugina "wikilink")
+    [2.4 RS CVn
     stars](http://solarphysics.livingreviews.org/Articles/lrsp-2005-8/articlesu4.html#x9-60002.4)
 
-3.  [卡梅倫](../Page/#Cameron.md "wikilink") [Eclipse
+3.  [卡梅倫](https://zh.wikipedia.org/wiki/#Cameron "wikilink") [Eclipse
     movies](http://star-www.st-and.ac.uk/~acc4/coolpages/movies.html)
     showing spots in XY Ursae Majoris binary

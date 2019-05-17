@@ -1,19 +1,19 @@
 **PING (Partimage Is Not
-Ghost)**是一個基於[partimage和](../Page/partimage.md "wikilink")[Linux
+Ghost)**是一個基於[partimage和](https://zh.wikipedia.org/wiki/partimage "wikilink")[Linux
 From
-Scratch](../Page/Linux_From_Scratch.md "wikilink")（LFS）的[自由軟件](../Page/自由軟件.md "wikilink")，主要用來作[硬碟克隆或](../Page/硬碟克隆.md "wikilink")[備份](../Page/備份.md "wikilink")。軟件支援一般[個人電腦](../Page/個人電腦.md "wikilink")、[工作站或](../Page/工作站.md "wikilink")[伺服器的硬碟控制平台](../Page/伺服器.md "wikilink")，計有[ATA](../Page/ATA.md "wikilink")、[SATA](../Page/SATA.md "wikilink")、[SCSI及](../Page/SCSI.md "wikilink")[RAID](../Page/RAID.md "wikilink")；檔案系統方面，亦支援[FAT16](../Page/FAT16.md "wikilink")、[FAT32](../Page/FAT32.md "wikilink")、[NTFS](../Page/NTFS.md "wikilink")、[ext3格式](../Page/ext3.md "wikilink")，對於不能辨識的檔案系統，軟件會採用低層次的方式去閱讀整個硬碟分割。
+Scratch](../Page/Linux_From_Scratch.md "wikilink")（LFS）的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，主要用來作[硬碟克隆或](https://zh.wikipedia.org/wiki/硬碟克隆 "wikilink")[備份](https://zh.wikipedia.org/wiki/備份 "wikilink")。軟件支援一般[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[工作站或](../Page/工作站.md "wikilink")[伺服器的硬碟控制平台](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，計有[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")、[SATA](../Page/SATA.md "wikilink")、[SCSI及](https://zh.wikipedia.org/wiki/SCSI "wikilink")[RAID](../Page/RAID.md "wikilink")；檔案系統方面，亦支援[FAT16](https://zh.wikipedia.org/wiki/FAT16 "wikilink")、[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")、[NTFS](../Page/NTFS.md "wikilink")、[ext3格式](https://zh.wikipedia.org/wiki/ext3 "wikilink")，對於不能辨識的檔案系統，軟件會採用低層次的方式去閱讀整個硬碟分割。
 
 PING現時的最新版本是3.00.04版，採用了 2.6.33.2.的核心\[1\]。較舊的版本亦可下載。
 
 ## 版本
 
 PING
-現時分為社群版和商業版兩個版本：社群版是免費版本，而商業版則是在商業機構使用的版本，每個使用權售30[歐元](../Page/歐元.md "wikilink")。
+現時分為社群版和商業版兩個版本：社群版是免費版本，而商業版則是在商業機構使用的版本，每個使用權售30[歐元](https://zh.wikipedia.org/wiki/歐元 "wikilink")。
 
 ## 特色
 
 PING是一個建基於 LFS
-的計劃，所以容量特小。一般來說，都是燒在光碟上用直接啟動，但亦可以儲存在一隻[隨身碟內](../Page/隨身碟.md "wikilink")。即使是解壓後，也只佔用硬碟空間約20MB的位置，而用戶可因應各自的需求而加入合適的插件，例如：[ClamAV的掃毒軟件](../Page/ClamAV.md "wikilink")。
+的計劃，所以容量特小。一般來說，都是燒在光碟上用直接啟動，但亦可以儲存在一隻[隨身碟內](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")。即使是解壓後，也只佔用硬碟空間約20MB的位置，而用戶可因應各自的需求而加入合適的插件，例如：[ClamAV的掃毒軟件](../Page/ClamAV.md "wikilink")。
 
 ## 已知問題
 
@@ -24,8 +24,8 @@ PING是一個建基於 LFS
 
 ## 參看
 
-  - [partimage](../Page/partimage.md "wikilink")
-  - [Clonezilla](../Page/Clonezilla.md "wikilink")
+  - [partimage](https://zh.wikipedia.org/wiki/partimage "wikilink")
+  - [Clonezilla](https://zh.wikipedia.org/wiki/Clonezilla "wikilink")
 
 ## 外部連結
 

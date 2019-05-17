@@ -1,15 +1,15 @@
-**Pico系列**為[正太動畫的系列作](../Page/正太.md "wikilink")，由NATURAL
+**Pico系列**為[正太動畫的系列作](https://zh.wikipedia.org/wiki/正太 "wikilink")，由NATURAL
 HIGH公司製作的世界第一個[正太控成人動畫](../Page/正太控.md "wikilink")。\[1\]
 
 ## 作品理念
 
-本系列由於作為此種類型的初次作品，使得製作人員夠盡量拉大整部動畫的尺度。一般而言，所謂的[正太控](../Page/正太控.md "wikilink")，性質等同於男性少年間的[同性愛](../Page/同性戀.md "wikilink")，所以有時也會被冠上[BL的名稱](../Page/BL_\(和製英語\).md "wikilink")，因此通常這種作品都會被分類到[腐女](../Page/腐女.md "wikilink")・[腐男向的作品](../Page/腐男.md "wikilink")。
+本系列由於作為此種類型的初次作品，使得製作人員夠盡量拉大整部動畫的尺度。一般而言，所謂的[正太控](../Page/正太控.md "wikilink")，性質等同於男性少年間的[同性愛](../Page/同性戀.md "wikilink")，所以有時也會被冠上[BL的名稱](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")，因此通常這種作品都會被分類到[腐女](../Page/腐女.md "wikilink")・[腐男向的作品](https://zh.wikipedia.org/wiki/腐男 "wikilink")。
 
 作為第一部正太動畫的作品因為本身的內容，雖然造成購買層有所限制，卻也讓工作人員能夠減少許多製作的時間。因此作為第一集的『**[我的Pico](../Page/我的Pico.md "wikilink")**』，不僅能將裡面的少年角色大量地放入[蘿莉風的造型](../Page/蘿莉.md "wikilink")，也達到本作「[女裝正太設定](../Page/偽娘.md "wikilink")」的主要理念。但在一方面卻也留有BL的要素，所以也加入了Pico的朋友以及在作品中擔任觀察者的角色的青年阿保。
 
 第一集出來後，評價褒貶不一；但如果單純計算銷售量的話，就能夠證明這個理念毫無錯誤。另外在2006年9月30日所舉辦的「正太之夜」活動的參加人數，也比工作人員所想的還要熱烈。然後在[Soft
 On
-Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.jp也拿下成人動畫片排行榜的第一名](../Page/amazon.co.jp.md "wikilink")，還有在發售日（2006年9月8日）的那一週也奪下成人部門的第一名，其作品之成功不難窺見。
+Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.jp也拿下成人動畫片排行榜的第一名](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")，還有在發售日（2006年9月8日）的那一週也奪下成人部門的第一名，其作品之成功不難窺見。
 
 打著「Pico系列」的招牌、第2集『**[Pico和Chico](../Page/Pico和Chico.md "wikilink")**』也在2007年4月19日發售、但和第一集沒有直接關係、只有Pico有登場並以他為中心來發展。這也正式宣告要以Pico來作為整個系列作的主角。
 
@@ -20,22 +20,22 @@ Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.
 ## 登場人物
 
   - Pico（）
-    本系列作主角。有著一眼會讓人有覺得是女孩子的外貌，頭髮是黃色，就連阿保當初見到他時也以為他是女孩。名字由來來自於幼小[男子勃起時的形容語](../Page/男子.md "wikilink")「ぴんこ勃起」（不過根據總製作人とっちん的表示，他們經常用「彥」這個男性名字來稱呼他）。
-    經由在2007年5月5日「;第2回正太之夜」活動中粉絲們的投票結果，將Pico的生日定為9月7日、[血型AB型](../Page/血型.md "wikilink")。生日由來來自於「Pico系列」的第1作『[我的Pico](../Page/我的Pico.md "wikilink")』的發售日。
+    本系列作主角。有著一眼會讓人有覺得是女孩子的外貌，頭髮是黃色，就連阿保當初見到他時也以為他是女孩。名字由來來自於幼小[男子勃起時的形容語](https://zh.wikipedia.org/wiki/男子 "wikilink")「ぴんこ勃起」（不過根據總製作人とっちん的表示，他們經常用「彥」這個男性名字來稱呼他）。
+    經由在2007年5月5日「;第2回正太之夜」活動中粉絲們的投票結果，將Pico的生日定為9月7日、[血型AB型](https://zh.wikipedia.org/wiki/血型 "wikilink")。生日由來來自於「Pico系列」的第1作『[我的Pico](../Page/我的Pico.md "wikilink")』的發售日。
 
 <!-- end list -->
 
   - Chico（）
-    在第二集動畫中登場的角色。也在與本作衍生出的[網路電台](../Page/網路電台.md "wikilink")「;青空通信」登場，和Pico一起擔任主持人。
+    在第二集動畫中登場的角色。也在與本作衍生出的[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")「;青空通信」登場，和Pico一起擔任主持人。
     有一棟別墅，在夏天時和擔任清潔婦的大姐姐一起在這間位於森林間的別墅中避暑，在設定上是企業家的孩子。
     名字由來來自於男性器的幼兒語「（小雞雞）」，另外也被聯想到可能與因為包莖所生出來的恥垢有關。
-    經由在2007年5月5日「;第2回正太之夜」活動中粉絲們投票的結果，將Chico的生日定為5月5日、[血型B型](../Page/血型.md "wikilink")。其生日這天不但是日本的[兒童節](../Page/儿童节_\(日本\).md "wikilink")，也是為了記念『[我的Pico](../Page/我的Pico.md "wikilink")』的發售而舉辦的「第2回正太之夜」的召開日。
+    經由在2007年5月5日「;第2回正太之夜」活動中粉絲們投票的結果，將Chico的生日定為5月5日、[血型B型](https://zh.wikipedia.org/wiki/血型 "wikilink")。其生日這天不但是日本的[兒童節](https://zh.wikipedia.org/wiki/儿童节_\(日本\) "wikilink")，也是為了記念『[我的Pico](../Page/我的Pico.md "wikilink")』的發售而舉辦的「第2回正太之夜」的召開日。
 
 <!-- end list -->
 
   - CoCo
     第三集登場的角色。給人的印象是一頭飄逸的黑色長髮，比起Pico和Chico有著會更讓人覺得是女孩子的外表。
-    似乎住在都市（場景像是[東京](../Page/東京.md "wikilink")）地下鐵的廢棄房間裡面，不但喜歡扮成女裝，也會突然出現或是突然消失，故其存在和來歷則是一個謎。
+    似乎住在都市（場景像是[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）地下鐵的廢棄房間裡面，不但喜歡扮成女裝，也會突然出現或是突然消失，故其存在和來歷則是一個謎。
 
 <!-- end list -->
 
@@ -52,14 +52,14 @@ Demand不僅銷售第一](../Page/Soft_On_Demand.md "wikilink")，在[amazon.co.
 <!-- end list -->
 
   - 大姐姐（安藤麻子）
-    第二集『Pico和Chico』中登場的角色，在Chico的別墅中擔任傭人的工作。與日本一般的[女僕印象有所差別](../Page/女僕.md "wikilink")，有著更多母性的描寫。每天晚上都在[自慰](../Page/自慰.md "wikilink")，Pico和Chico也會在二樓房間偷窺著她。
+    第二集『Pico和Chico』中登場的角色，在Chico的別墅中擔任傭人的工作。與日本一般的[女僕印象有所差別](https://zh.wikipedia.org/wiki/女僕 "wikilink")，有著更多母性的描寫。每天晚上都在[自慰](../Page/自慰.md "wikilink")，Pico和Chico也會在二樓房間偷窺著她。
     在劇中原本沒有名字，但在網路電台「青空通信」第49集中以客串身份登場後，正式被命名為「安藤麻子」。這個名字也來自於同個網路電台的粉絲投稿作品。由來與「Pico」「Chico」有相似之處，是來自於[女陰的俗稱](../Page/女陰.md "wikilink")“[まんこ](../Page/屄.md "wikilink")”（小穴）。
 
 ## 海外發展過程
 
-在第一集『我的Pico』發表後，很快就出現在[YouTube上](../Page/YouTube.md "wikilink")，瞬間還有加入英文字幕而流入海外的消息。在正式發表時，還出現十萬次以上的非法下載，被工作人員看到本作有強大的需求市場，於是計畫製作外語版。目前則是著眼於[德國市場的準備階段中](../Page/德國.md "wikilink")。
+在第一集『我的Pico』發表後，很快就出現在[YouTube上](../Page/YouTube.md "wikilink")，瞬間還有加入英文字幕而流入海外的消息。在正式發表時，還出現十萬次以上的非法下載，被工作人員看到本作有強大的需求市場，於是計畫製作外語版。目前則是著眼於[德國市場的準備階段中](https://zh.wikipedia.org/wiki/德國 "wikilink")。
 
-會著眼於德國的原因在官網上至今還未說明，不過可能與以出版少年愛作品的德國老店[PojkART有關](../Page/PojkART.md "wikilink")，也因此能夠推測在這裡已經擁有能接受正太的基礎存在。
+會著眼於德國的原因在官網上至今還未說明，不過可能與以出版少年愛作品的德國老店[PojkART有關](https://zh.wikipedia.org/wiki/PojkART "wikilink")，也因此能夠推測在這裡已經擁有能接受正太的基礎存在。
 
 無論如何，不但有這個計畫，也因為「Pico系列」被說是尚未開拓的正太動畫的先鋒，於是在接受各方意見並獲得不錯反應後，工作人員也希望以這些反應來做更積極的計畫。
 

@@ -1,11 +1,12 @@
-**OpenDNS** 是一个免费的域名解析服务提供商（[DNS](../Page/DNS.md "wikilink")）。
+**OpenDNS**
+是一个免费的域名解析服务提供商（[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）。
 
 ## 发展历史
 
 OpenDNS在2006年7月由[黑客大卫](../Page/黑客.md "wikilink")·尤里维奇（David
 Ulevitch）创建。之后获得了由[CNET的创始人](../Page/CNET.md "wikilink")[Halsey
-Minor创建的](../Page/Halsey_Minor.md "wikilink")[Minor
-Ventures公司提供的](../Page/Minor_Ventures.md "wikilink")[风险投资](../Page/风险投资.md "wikilink")。
+Minor创建的](https://zh.wikipedia.org/wiki/Halsey_Minor "wikilink")[Minor
+Ventures公司提供的](https://zh.wikipedia.org/wiki/Minor_Ventures "wikilink")[风险投资](../Page/风险投资.md "wikilink")。
 
 2006年7月10号，这项OpenDNS开始为digg\[1\]、slashdot\[2\]和Wired
 News\[3\]网站提供服务，这直接导致DNS请求数从7月9日的一百万猛增到30日的三千万。\[4\]
@@ -14,17 +15,17 @@ News\[3\]网站提供服务，这直接导致DNS请求数从7月9日的一百万
 
 2006年，OpenDNS开始使用DynDNS的接口来处理动态IP用户的DNS更新。\[6\]
 
-从2007年1月开始，OpenDNS开始在以下地区放置服务器来提供服务：[西雅图](../Page/西雅图.md "wikilink")、[帕洛阿尔托](../Page/帕洛阿尔托.md "wikilink")、[纽约](../Page/纽约.md "wikilink")、[华盛顿和](../Page/华盛顿哥伦比亚特区.md "wikilink")[伦敦](../Page/伦敦.md "wikilink")，并计划扩展到[芝加哥](../Page/芝加哥.md "wikilink")。
+从2007年1月开始，OpenDNS开始在以下地区放置服务器来提供服务：[西雅图](https://zh.wikipedia.org/wiki/西雅图 "wikilink")、[帕洛阿尔托](https://zh.wikipedia.org/wiki/帕洛阿尔托 "wikilink")、[纽约](../Page/纽约.md "wikilink")、[华盛顿和](../Page/华盛顿哥伦比亚特区.md "wikilink")[伦敦](../Page/伦敦.md "wikilink")，并计划扩展到[芝加哥](../Page/芝加哥.md "wikilink")。
 
 2010年11月，首個亞洲區數據中心在[新加坡投入服務](../Page/新加坡.md "wikilink")\[7\]。
 
 2012年9月，[香港成為新加坡之後的第二個亞洲區數據中心](../Page/香港.md "wikilink")\[8\]。
 
-2015年6月30日，[思科系统公司宣布收购OpenDNS](../Page/思科系统公司.md "wikilink")，交易的价格约为6.35亿美元，包括现金和股票\[9\]。
+2015年6月30日，[思科系统公司宣布收购OpenDNS](https://zh.wikipedia.org/wiki/思科系统公司 "wikilink")，交易的价格约为6.35亿美元，包括现金和股票\[9\]。
 
 ## 服务对象
 
-OpenDNS为个人和商业提供[DNS方案](../Page/DNS.md "wikilink")，用户可以自行选择使用OpenDNS的服务或者使用当地[ISP提供的DNS服务](../Page/ISP.md "wikilink")。将服务器组放置在具有战略意义的地方和使用大量的域名缓存可以使DNS查询进度可以更快得多地完成，从而加快页面的检索速度。DNS的查询结果有时被本地的操作系统或应用程序缓存下来，所以速度的增加也许不能在每次查询中体现出来，但本地缓存裡没有的结果其查询速度的增加则显而易见。
+OpenDNS为个人和商业提供[DNS方案](https://zh.wikipedia.org/wiki/DNS "wikilink")，用户可以自行选择使用OpenDNS的服务或者使用当地[ISP提供的DNS服务](https://zh.wikipedia.org/wiki/ISP "wikilink")。将服务器组放置在具有战略意义的地方和使用大量的域名缓存可以使DNS查询进度可以更快得多地完成，从而加快页面的检索速度。DNS的查询结果有时被本地的操作系统或应用程序缓存下来，所以速度的增加也许不能在每次查询中体现出来，但本地缓存裡没有的结果其查询速度的增加则显而易见。
 其他特征包括一个反钓鱼过滤器。通过收集恶意网站列表，当用户通过他们的服务来访问这些恶意网站时，OpenDNS将封锁这些恶意网站。OpenDNS最近启动了反钓鱼服务（[PhishTank](../Page/PhishTank.md "wikilink")），这样全球的用户就可以报告和察看不可信的钓鱼网站。
 
 OpenDNS并不是像它的名字那样，它不是一款[开源软件](../Page/开源软件.md "wikilink")。
@@ -32,8 +33,8 @@ OpenDNS并不是像它的名字那样，它不是一款[开源软件](../Page/�
 OpenDNS的一部分收入来自他们不能自动更正的错误域名而出现的页面上的广告。 OpenDNS
 说明它不是一个纯粹的网站搜索器，那些收录用来支付定制
 DNS 服务。 OpenDNS也提供增强的DNS附加服务，当然，这是需要付费的。\[10\]
-附加服务的一个例子是2007年4月22日启动的一项“快捷方式”服务\[11\]，让用户设置本地DNS映射，比如把“mail”映射到“mail.yahoo.com”。这项功能被用在很多公共领域，包括[纽约时报](../Page/纽约时报.md "wikilink")\[12\]、[Wired](../Page/Wired.md "wikilink")\[13\]和[PC
-World](../Page/PC_World.md "wikilink")\[14\]。2014年出于商业服务上的安全的考虑，OpenDNS停止广告服务。<ref name=Keizer>
+附加服务的一个例子是2007年4月22日启动的一项“快捷方式”服务\[11\]，让用户设置本地DNS映射，比如把“mail”映射到“mail.yahoo.com”。这项功能被用在很多公共领域，包括[纽约时报](../Page/纽约时报.md "wikilink")\[12\]、[Wired](https://zh.wikipedia.org/wiki/Wired "wikilink")\[13\]和[PC
+World](https://zh.wikipedia.org/wiki/PC_World "wikilink")\[14\]。2014年出于商业服务上的安全的考虑，OpenDNS停止广告服务。<ref name=Keizer>
 
   - </ref>
 

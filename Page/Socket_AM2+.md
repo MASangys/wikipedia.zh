@@ -1,10 +1,9 @@
 [Back_of_a_Phenom_X4_9950.jpg](https://zh.wikipedia.org/wiki/File:Back_of_a_Phenom_X4_9950.jpg "fig:Back_of_a_Phenom_X4_9950.jpg")
 
 **Socket
-AM2+**是一款[AMD](../Page/AMD.md "wikilink")[處理器的](../Page/處理器.md "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")，是現時用於多款AMD處理器（如[Athlon
-64 X2](../Page/Athlon_64_X2.md "wikilink")）的[Socket
-AM2的後繼插座](../Page/Socket_AM2.md "wikilink")。Socket AM2+與Socket
-AM2完全相容。
+AM2+**是一款[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器的](https://zh.wikipedia.org/wiki/處理器 "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")，是現時用於多款AMD處理器（如[Athlon
+64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")）的[Socket
+AM2的後繼插座](../Page/Socket_AM2.md "wikilink")。Socket AM2+與Socket AM2完全相容。
 
 ## 功能
 
@@ -30,7 +29,7 @@ AM2規格的限制（1GHz速度的HyperTransport
 ## AM3
 
 [Socket AM3的處理器也能用於Socket](../Page/Socket_AM3.md "wikilink")
-AM2+或AM2的底板，但是AM2+或AM2的處理器不可用於AM3主板。AM3處理器的[記憶體控制器支援](../Page/記憶體控制器.md "wikilink")[DDR2和](../Page/DDR2.md "wikilink")[DDR3](../Page/DDR3.md "wikilink")，因此相容於AM2和AM2+主板。而AM2和AM2+處理器則不相容於只支援DDR3的AM3主板。
+AM2+或AM2的底板，但是AM2+或AM2的處理器不可用於AM3主板。AM3處理器的[記憶體控制器支援](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")[DDR2和](https://zh.wikipedia.org/wiki/DDR2 "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")，因此相容於AM2和AM2+主板。而AM2和AM2+處理器則不相容於只支援DDR3的AM3主板。
 
 根據AMD的官方公告，強行把AM2+的處理器放在AM3主機板上使用會導致處理器損壞，因視為人為損壞，不在處理器保固範圍之內。\[2\]
 
@@ -39,7 +38,7 @@ AM2+或AM2的底板，但是AM2+或AM2的處理器不可用於AM3主板。AM3處
 ## 参见
 
   - [AMD Phenom](../Page/AMD_Phenom.md "wikilink")、[AMD
-    Phenom處理器列表](../Page/AMD_Phenom處理器列表.md "wikilink")
+    Phenom處理器列表](https://zh.wikipedia.org/wiki/AMD_Phenom處理器列表 "wikilink")
   - [AMD Athlon 64處理器列表](../Page/AMD_Athlon_64處理器列表.md "wikilink")
   - [AMD Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
   - [Socket F](../Page/Socket_F.md "wikilink")

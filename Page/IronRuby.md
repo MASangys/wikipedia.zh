@@ -1,7 +1,7 @@
 **IronRuby**是[Ruby程式語言在微軟](../Page/Ruby.md "wikilink").NET平台上的一種實作。
 
 IronRuby與Wilco Bauwer的IronRuby project同名\[1\]
-2007年4月30日由微軟於[MIX上發表](../Page/MIX_\(Microsoft\).md "wikilink")。並計劃於2007年的[OSCON公開推出](../Page/O'Reilly_Open_Source_Convention.md "wikilink")。\[2\].
+2007年4月30日由微軟於[MIX上發表](https://zh.wikipedia.org/wiki/MIX_\(Microsoft\) "wikilink")。並計劃於2007年的[OSCON公開推出](https://zh.wikipedia.org/wiki/O'Reilly_Open_Source_Convention "wikilink")。\[2\].
 
 2007年8月31日，John Lam與 DLR設計團隊在RubyForge上推出pre-alpha版\[3\]。
 

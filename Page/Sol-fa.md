@@ -1,8 +1,8 @@
-『**Sol-fa**』（[日本版](../Page/日本.md "wikilink")：ソルファ、[美國版](../Page/美國.md "wikilink")：Sol-fa）是[ASIAN
+『**Sol-fa**』（[日本版](../Page/日本.md "wikilink")：ソルファ、[美國版](https://zh.wikipedia.org/wiki/美國 "wikilink")：Sol-fa）是[ASIAN
 KUNG-FU
-GENERATION的第](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")2張[專輯](../Page/專輯.md "wikilink")。2004年10月20日由Ki/oon
+GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2004年10月20日由Ki/oon
 Records發行。初回限定版附送封套及貼紙。另外，黑膠唱片也以初回限定版的形式同時發行。2005年10月18日由美國的TOFU
-RECORDS發行。美國版附送[DVD](../Page/DVD.md "wikilink")。
+RECORDS發行。美國版附送[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
@@ -13,7 +13,7 @@ RECORDS發行。美國版附送[DVD](../Page/DVD.md "wikilink")。
 
 1.  振動覺（振動感覺）
 
-      - 歌詞一部分是後藤對敬愛的[綠洲樂隊](../Page/綠洲樂隊.md "wikilink")（Oasis）之尊敬。
+      - 歌詞一部分是後藤對敬愛的[綠洲樂隊](https://zh.wikipedia.org/wiki/綠洲樂隊 "wikilink")（Oasis）之尊敬。
 
 2.  [重寫](../Page/重寫.md "wikilink")
 
@@ -22,7 +22,7 @@ RECORDS發行。美國版附送[DVD](../Page/DVD.md "wikilink")。
 
 3.  [到你的城市](../Page/到你的城市.md "wikilink")
 
-      - 前奏[琶音令人印象深刻的歌曲](../Page/琶音.md "wikilink")
+      - 前奏[琶音令人印象深刻的歌曲](https://zh.wikipedia.org/wiki/琶音 "wikilink")
 
 4.  （My world）
 
@@ -56,11 +56,11 @@ RECORDS發行。美國版附送[DVD](../Page/DVD.md "wikilink")。
 
       - 在AKG的樂曲當中節拍最慢的一首曲。
       - 有時在Band的Live之中會用上管弦樂演奏。
-      - 在[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市有實際同名的道路名稱存在](../Page/橫濱市.md "wikilink")。
+      - 在[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市有實際同名的道路名稱存在](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")。
 
-12. [Loop\&Loop](../Page/Loop&Loop.md "wikilink")
+12. [Loop\&Loop](https://zh.wikipedia.org/wiki/Loop&Loop "wikilink")
 
-      - [鈴木股份有限公司](../Page/鈴木股份有限公司.md "wikilink")『』・CM
+      - [鈴木股份有限公司](https://zh.wikipedia.org/wiki/鈴木股份有限公司 "wikilink")『』・CM
       - [讀賣電視台](../Page/讀賣電視台.md "wikilink")『』片尾曲
 
 作詞：後藤正文（\#1～6,9～12）、後藤正文／山田貴洋（\#7,8）

@@ -1,4 +1,4 @@
-《**Magical☆Antique**》（），是日本[Leaf公司制作](../Page/Leaf.md "wikilink")，2000年4月28日发行的一款[戀愛模擬類型](../Page/戀愛模擬.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+《**Magical☆Antique**》（），是日本[Leaf公司制作](../Page/Leaf.md "wikilink")，2000年4月28日发行的一款[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 故事簡介
 
@@ -14,7 +14,8 @@
     スフィー的妹妹。
 
   -
-    健太郎的青梅足馬，喫茶店「HONEY BEE」的[看板娘](../Page/看板娘.md "wikilink")。
+    健太郎的青梅足馬，喫茶店「HONEY
+    BEE」的[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")。
 
   -
     高倉財閥的大小姐。
@@ -30,18 +31,19 @@
 
 ## 製作人員
 
-  - 企劃、劇情：[椎原旬](../Page/椎原旬.md "wikilink")
-  - 支線劇情：[高橋龍也](../Page/高橋龍也.md "wikilink")、[雨之幸永](../Page/雨之幸永.md "wikilink")
+  - 企劃、劇情：[椎原旬](https://zh.wikipedia.org/wiki/椎原旬 "wikilink")
+  - 支線劇情：[高橋龍也](https://zh.wikipedia.org/wiki/高橋龍也 "wikilink")、[雨之幸永](https://zh.wikipedia.org/wiki/雨之幸永 "wikilink")
   - 角色設計及原畫：
-  - 原畫協力：[水無月徹](../Page/水無月徹.md "wikilink")
+  - 原畫協力：[水無月徹](https://zh.wikipedia.org/wiki/水無月徹 "wikilink")
   - 角色原畫：
-  - 背景：[木村隆夫](../Page/木村隆夫.md "wikilink")
-  - CG：[木村隆夫](../Page/木村隆夫.md "wikilink")、、[閂夜明](../Page/閂夜明.md "wikilink")、[柏木和宏](../Page/柏木和宏.md "wikilink")
-  - 音樂：[米村高廣](../Page/米村高廣.md "wikilink")、[石川真也](../Page/石川真也.md "wikilink")、[中上和英](../Page/中上和英.md "wikilink")、[下川直哉](../Page/下川直哉.md "wikilink")
-  - 程式：[中島祐治](../Page/中島祐治.md "wikilink")、[中尾佳祐](../Page/中尾佳祐.md "wikilink")
-  - 製作人：[下川直哉](../Page/下川直哉.md "wikilink")
+  - 背景：[木村隆夫](https://zh.wikipedia.org/wiki/木村隆夫 "wikilink")
+  - CG：[木村隆夫](https://zh.wikipedia.org/wiki/木村隆夫 "wikilink")、、[閂夜明](https://zh.wikipedia.org/wiki/閂夜明 "wikilink")、[柏木和宏](https://zh.wikipedia.org/wiki/柏木和宏 "wikilink")
+  - 音樂：[米村高廣](https://zh.wikipedia.org/wiki/米村高廣 "wikilink")、[石川真也](https://zh.wikipedia.org/wiki/石川真也 "wikilink")、[中上和英](https://zh.wikipedia.org/wiki/中上和英 "wikilink")、[下川直哉](https://zh.wikipedia.org/wiki/下川直哉 "wikilink")
+  - 程式：[中島祐治](https://zh.wikipedia.org/wiki/中島祐治 "wikilink")、[中尾佳祐](https://zh.wikipedia.org/wiki/中尾佳祐 "wikilink")
+  - 製作人：[下川直哉](https://zh.wikipedia.org/wiki/下川直哉 "wikilink")
   - 制作及發售：[Leaf](../Page/Leaf.md "wikilink")
-  - 販售：[株式会社 AQUA PLUS](../Page/株式会社_AQUA_PLUS.md "wikilink")
+  - 販售：[株式会社 AQUA
+    PLUS](https://zh.wikipedia.org/wiki/株式会社_AQUA_PLUS "wikilink")
 
 ## 參考來源
 

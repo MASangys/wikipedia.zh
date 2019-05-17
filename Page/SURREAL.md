@@ -2,7 +2,7 @@
 
 《SURREAL》、《[Duty](../Page/Duty.md "wikilink")》、《ayumi hamasaki concert
 tour 2000 A
-第1幕》三作，在發行首週分別奪下週榜單曲、專輯、DVD榜的冠軍，此為[公信榜史上首度的三冠](../Page/公信榜.md "wikilink")，同時發售的《ayumi
+第1幕》三作，在發行首週分別奪下週榜單曲、專輯、DVD榜的冠軍，此為[公信榜史上首度的三冠](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，同時發售的《ayumi
 hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。
 
 ## 收錄歌曲
@@ -11,7 +11,7 @@ hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。
 
 1.  **SURREAL "Original Mix"**
       -
-        作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")／編曲：[HΛL](../Page/HΛL.md "wikilink")
+        作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")／編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         富士美（高野友梨美容院）「戀白肌膚」廣告歌曲
 2.  **Duty "Eric Kupper Big Room Mix -Radio Edit-"**
 3.  **SEASONS "BUMP & FLEX RADIO EDIT"**

@@ -1,16 +1,19 @@
 **印度語言轉寫**（**I**ndian languages **TRANS**literation 簡寫為
-**ITRANS**）是[印度文字](../Page/婆羅米系文字.md "wikilink")，特別但不限於[天城文](../Page/天城文.md "wikilink")（用於[印度語](../Page/印度語.md "wikilink")、[馬拉地語](../Page/馬拉地語.md "wikilink")、[梵語](../Page/梵語.md "wikilink")、[尼泊爾語](../Page/尼泊爾語.md "wikilink")、[信德語和其他語言](../Page/信德語.md "wikilink")）的
-[ASCII](../Page/ASCII.md "wikilink") 碼[轉寫](../Page/轉寫.md "wikilink")。它由
-Avinash Chopde 開發。最新版本 ITRANS 5.30 是2001年七月的發布。ITRANS 在這個版本已經穩定了。
+**ITRANS**）是[印度文字](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")，特別但不限於[天城文](https://zh.wikipedia.org/wiki/天城文 "wikilink")（用於[印度語](https://zh.wikipedia.org/wiki/印度語 "wikilink")、[馬拉地語](https://zh.wikipedia.org/wiki/馬拉地語 "wikilink")、[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")、[尼泊爾語](https://zh.wikipedia.org/wiki/尼泊爾語 "wikilink")、[信德語和其他語言](https://zh.wikipedia.org/wiki/信德語 "wikilink")）的
+[ASCII](../Page/ASCII.md "wikilink")
+碼[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")。它由 Avinash
+Chopde 開發。最新版本 ITRANS 5.30 是2001年七月的發布。ITRANS 在這個版本已經穩定了。
 
 ITRANS 有時用來編碼印度的電子文本 - 它的範圍比
-[Harvard-Kyoto](../Page/Harvard-Kyoto.md "wikilink")
+[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
 的天城體轉寫方案要廣闊，在很大程度上但非完全和它保持一致。隨著
-[Unicode](../Page/Unicode.md "wikilink") 的廣泛實現，傳統
+[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") 的廣泛實現，傳統
 [IAST](../Page/IAST.md "wikilink") 日益廣泛的用於了電子文本。
 
-類似 [Harvard-Kyoto](../Page/Harvard-Kyoto.md "wikilink") 方案，ITRANS
-[羅馬化不使用在日常英語中計算機鍵盤上找不到的變音符號](../Page/羅馬化.md "wikilink")，它非常容易讀取和錄入。
+類似
+[Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
+方案，ITRANS
+[羅馬化不使用在日常英語中計算機鍵盤上找不到的變音符號](https://zh.wikipedia.org/wiki/羅馬化 "wikilink")，它非常容易讀取和錄入。
 
 ITRANS 計算機程序包還確保可以從羅馬文字自動轉換成印度文字。
 
@@ -60,7 +63,7 @@ ITRANS 計算機程序包還確保可以從羅馬文字自動轉換成印度文�
 
   - [天城文轉寫](../Page/天城文轉寫.md "wikilink")
   - [IAST](../Page/IAST.md "wikilink")
-  - [Harvard-Kyoto](../Page/Harvard-Kyoto.md "wikilink")
+  - [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink")
   - [加爾各答國家圖書館羅馬化](../Page/加爾各答國家圖書館羅馬化.md "wikilink")
 
 ## 外部連結

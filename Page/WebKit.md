@@ -1,36 +1,37 @@
-**WebKit**是一種用來讓[网页浏览器](../Page/网页浏览器.md "wikilink")[繪製](../Page/渲染.md "wikilink")[網頁的](../Page/網頁.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。它被用於[Apple](../Page/蘋果公司.md "wikilink")
-[Safari](../Page/Safari.md "wikilink")。其分支[Blink被用於基於](../Page/Blink.md "wikilink")[Chromium的網頁瀏覽器](../Page/Chromium.md "wikilink")，如：[Opera與](../Page/Opera.md "wikilink")[Google
+**WebKit**是一種用來讓[网页浏览器](../Page/网页浏览器.md "wikilink")[繪製](../Page/渲染.md "wikilink")[網頁的](../Page/網頁.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。它被用於[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
+[Safari](../Page/Safari.md "wikilink")。其分支[Blink被用於基於](../Page/Blink.md "wikilink")[Chromium的網頁瀏覽器](../Page/Chromium.md "wikilink")，如：[Opera與](https://zh.wikipedia.org/wiki/Opera "wikilink")[Google
 Chrome](../Page/Google_Chrome.md "wikilink")。
 
-Webkit亦使用於Apple [iOS](../Page/iOS.md "wikilink")、[BlackBerry Tablet
-OS](../Page/BlackBerry_Tablet_OS.md "wikilink")、[Tizen及](../Page/Tizen.md "wikilink")[Amazon
+Webkit亦使用於Apple
+[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[BlackBerry Tablet
+OS](https://zh.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")、[Tizen及](../Page/Tizen.md "wikilink")[Amazon
 Kindle的預設瀏覽器](../Page/Kindle.md "wikilink")。WebKit的[C++](../Page/C++.md "wikilink")[应用程序接口提供了一系列的](../Page/应用程序接口.md "wikilink")[Class以在視窗上顯示網頁內容](../Page/类_\(计算机科学\).md "wikilink")，並且實現了一些瀏覽器的特色，如使用者連結點擊、管理前後頁面列表及近期歷史頁面等等。
 
-WebKit的HTML及JavaScript程式碼源自[KDE的](../Page/KDE.md "wikilink")[KHTML及](../Page/KHTML.md "wikilink")[KJS函式庫的一個分支](../Page/KJS.md "wikilink")\[1\]，現已由KDE、Apple、[Google](../Page/Google.md "wikilink")、[Nokia](../Page/Nokia.md "wikilink")、[Bitstream](../Page/Bitstream.md "wikilink")、[BlackBerry及Igalia等獨立開發](../Page/BlackBerry.md "wikilink")\[2\]。[OS
-X](../Page/OS_X.md "wikilink")、[Windows](../Page/Microsoft_Windows.md "wikilink")、[GNU](../Page/GNU計劃.md "wikilink")/[Linux以及其他](../Page/Linux.md "wikilink")[类Unix系统作業系統](../Page/类Unix系统.md "wikilink")，皆支援這個專案\[3\]。2013年4月3日，Google宣佈它建立了WebKit中WebCore元件的分支——Blink，Blink將用於新版[Google
-Chrome與](../Page/Google_Chrome.md "wikilink")[Opera](../Page/Opera.md "wikilink")\[4\]\[5\]。
+WebKit的HTML及JavaScript程式碼源自[KDE的](../Page/KDE.md "wikilink")[KHTML及](../Page/KHTML.md "wikilink")[KJS函式庫的一個分支](../Page/KJS.md "wikilink")\[1\]，現已由KDE、Apple、[Google](../Page/Google.md "wikilink")、[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")、[Bitstream](https://zh.wikipedia.org/wiki/Bitstream "wikilink")、[BlackBerry及Igalia等獨立開發](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")\[2\]。[OS
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[GNU](../Page/GNU計劃.md "wikilink")/[Linux以及其他](../Page/Linux.md "wikilink")[类Unix系统作業系統](../Page/类Unix系统.md "wikilink")，皆支援這個專案\[3\]。2013年4月3日，Google宣佈它建立了WebKit中WebCore元件的分支——Blink，Blink將用於新版[Google
+Chrome與](../Page/Google_Chrome.md "wikilink")[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")\[4\]\[5\]。
 
-WebKit的[WebCore及](../Page/#WebCore.md "wikilink")[JavaScriptCore元件使用](../Page/#JavaScriptCore.md "wikilink")[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")，其他元件則採用[BSD许可证](../Page/BSD许可证.md "wikilink")\[6\]。
+WebKit的[WebCore及](https://zh.wikipedia.org/wiki/#WebCore "wikilink")[JavaScriptCore元件使用](https://zh.wikipedia.org/wiki/#JavaScriptCore "wikilink")[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")，其他元件則採用[BSD许可证](../Page/BSD许可证.md "wikilink")\[6\]。
 
-截至2013年3月7日，Webkit商标已被[苹果公司在](../Page/苹果公司.md "wikilink")[美国专利及商标局注册为其商标](../Page/美国专利及商标局.md "wikilink")。\[7\]
+截至2013年3月7日，Webkit商标已被[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[美国专利及商标局注册为其商标](../Page/美国专利及商标局.md "wikilink")。\[7\]
 
 ## 緣起
 
 WebKit的程式碼源自1998年所開發的KDE的[HTML排版引擎KHTML及KDE的JavaScript引擎](../Page/HTML.md "wikilink")[KJS的程式碼](../Page/KJS.md "wikilink")。Apple的Don
-Melton於2001年6月25日開始了WebKit這個專案\[8\]，當時WebKit僅為[KHTML及](../Page/KHTML.md "wikilink")[KJS的](../Page/KJS.md "wikilink")[复刻](../Page/復刻_\(軟體工程\).md "wikilink")，Melton在電子郵件中向KDE開發者解釋\[9\]，[KHTML及](../Page/KHTML.md "wikilink")[KJS比起其他技術有著更容易開發](../Page/KJS.md "wikilink")、更輕巧（少於140000行程式碼）、更加乾淨的設計，以及更與標準相容的優勢，KHTML及KJS將會透過連接器函式庫（adapter
+Melton於2001年6月25日開始了WebKit這個專案\[8\]，當時WebKit僅為[KHTML及](../Page/KHTML.md "wikilink")[KJS的](../Page/KJS.md "wikilink")[复刻](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")，Melton在電子郵件中向KDE開發者解釋\[9\]，[KHTML及](../Page/KHTML.md "wikilink")[KJS比起其他技術有著更容易開發](../Page/KJS.md "wikilink")、更輕巧（少於140000行程式碼）、更加乾淨的設計，以及更與標準相容的優勢，KHTML及KJS將會透過連接器函式庫（adapter
 library）的幫忙被移植到OS
 X，並重新命名為WebCore及JavaScriptCore\[10\]。JavaScriptCore在2002年6月，於KDE的郵件列表（mailing
 list）中首度發表，包含著蘋果電腦首次釋出的部分\[11\]。WebCore在2003年1月，首度發佈於[Macworld
-Expo中由蘋果電腦](../Page/Macworld_Expo.md "wikilink")[CEO](../Page/CEO.md "wikilink")
+Expo中由蘋果電腦](https://zh.wikipedia.org/wiki/Macworld_Expo "wikilink")[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")
 [Steve
-Jobs發表的Safari瀏覽器](../Page/Steve_Jobs.md "wikilink")。當WebCore首次使用在第一個Safari的測試版本的同時，JavaScriptCore首次並以私有framework的方式包進[Mac
+Jobs發表的Safari瀏覽器](https://zh.wikipedia.org/wiki/Steve_Jobs "wikilink")。當WebCore首次使用在第一個Safari的測試版本的同時，JavaScriptCore首次並以私有framework的方式包進[Mac
 OS X
-v10.2](../Page/Mac_OS_X_v10.2.md "wikilink")，蘋果電腦將其使用在[Sherlock軟體](../Page/Sherlock_\(軟件\).md "wikilink")。[Mac
+v10.2](../Page/Mac_OS_X_v10.2.md "wikilink")，蘋果電腦將其使用在[Sherlock軟體](https://zh.wikipedia.org/wiki/Sherlock_\(軟件\) "wikilink")。[Mac
 OS X
-v10.3是第一個Apple發佈內建WebKit的作業系統](../Page/Mac_OS_X_v10.3.md "wikilink")，儘管它已經被內建在10.2內了。
+v10.3是第一個Apple發佈內建WebKit的作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")，儘管它已經被內建在10.2內了。
 
 Apple表示，有些牽涉到OSX的特定功能（例如：[Objective-C](../Page/Objective-C.md "wikilink")、KWQ\[12\]及[OS
-X特定函式](../Page/OS_X.md "wikilink")）將會在KDE的KHTML中缺席，這行為被稱為不同的發展策略\[13\]。
+X特定函式](https://zh.wikipedia.org/wiki/OS_X "wikilink")）將會在KDE的KHTML中缺席，這行為被稱為不同的發展策略\[13\]。
 
 ### 開發分裂
 
@@ -42,8 +43,8 @@ agreements），甚至還不能存取蘋果電腦的bug資料庫。
 在公佈*離婚*的期間，KDE開發者Kurt
 Pfeifle（*pipitas*）貼出了一篇文章，宣稱KHTML開發者已經設法從WebCore移植許多（但非全部）Safari所改進的項目回KHTML，而他們一直都希望這些改進是來自於蘋果電腦。這篇文章讓Apple開始聯絡KHTML的開發者，並討論有關增進彼起關係的方法及未來的合作模式\[17\]，事實上KDE專案確實有能力合併一些項目，來改進KHTML的渲染速度以及加入一些新的功能特色，包含[Acid2渲染測試的改進](../Page/Acid2.md "wikilink")\[18\]。
 
-自从新闻播报了fork事件之后，Apple在[CVS](../Page/Concurrent_Versions_System.md "wikilink")\[19\]发布了他們自己維護的WebKit版本，在他們发布代码後，Apple及KHTML開發者已經加深了合作關係，許多KHTML的開發者也成為了WebKit
-[SVN代码库的審查](../Page/SVN.md "wikilink")（Reviewer）及提交者（Submitter）。
+自从新闻播报了fork事件之后，Apple在[CVS](https://zh.wikipedia.org/wiki/Concurrent_Versions_System "wikilink")\[19\]发布了他們自己維護的WebKit版本，在他們发布代码後，Apple及KHTML開發者已經加深了合作關係，許多KHTML的開發者也成為了WebKit
+[SVN代码库的審查](https://zh.wikipedia.org/wiki/SVN "wikilink")（Reviewer）及提交者（Submitter）。
 
 WebKit工作團隊同時也逆轉許多Webkit程式碼當中，專為蘋果特定的修正，並且實現了一個平台特定的抽象層，可使渲染的程式碼於其他平台可以更順利的運作\[20\]。
 
@@ -55,11 +56,11 @@ Technica網站發佈一篇文章](../Page/Ars_Technica.md "wikilink")，指出KD
 在2005年6月7日，Safari開發者[戴夫·海厄特](../Page/戴夫·海厄特.md "wikilink")（Dave
 Hyatt）於他的blog宣布Apple將把Webkit開源（之前僅有WebCore及JavaScriptCore開源），並且開放了WebKit的CVS程式庫以及臭蟲資料庫工具\[23\]。這項消息由蘋果電腦軟體工程的高階副總（Senior
 Vice President）[Bertrand
-Serlet於蘋果電腦](../Page/Bertrand_Serlet.md "wikilink")2005年的[Worldwide
+Serlet於蘋果電腦](https://zh.wikipedia.org/wiki/Bertrand_Serlet "wikilink")2005年的[Worldwide
 Developers
-Conference公開](../Page/Worldwide_Developers_Conference.md "wikilink")。
+Conference公開](https://zh.wikipedia.org/wiki/Worldwide_Developers_Conference "wikilink")。
 
-在2005年12月中，[可縮放向量圖形的支援被加入了標準版本](../Page/可縮放向量圖形.md "wikilink")\[24\]，在2006年1月初，這項程式碼從[CVS轉移至](../Page/Concurrent_Versions_System.md "wikilink")[Subversion](../Page/Subversion.md "wikilink")。
+在2005年12月中，[可縮放向量圖形的支援被加入了標準版本](../Page/可縮放向量圖形.md "wikilink")\[24\]，在2006年1月初，這項程式碼從[CVS轉移至](https://zh.wikipedia.org/wiki/Concurrent_Versions_System "wikilink")[Subversion](../Page/Subversion.md "wikilink")。
 
 WebKit的JavaScriptCore及WebCore元件目前以GNU較寬鬆公共許可證方式授權，而其他的WebKit元件則是以BSD授權公開。
 
@@ -69,9 +70,9 @@ WebKit的JavaScriptCore及WebCore元件目前以GNU較寬鬆公共許可證方�
 
 在2007年11月，這項專案宣布，他們已經完成了[HTML5媒體特色的支援](../Page/HTML5.md "wikilink")，允許頁面中以原生的方式嵌入影片，並且可以被script所控制\[27\]。
 
-在2008年6月2日，WebKit專案宣布他們重寫了JavaScriptCore，被稱為"SquirrelFish"，它是一個[字节码](../Page/字节码.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")（Bytecode
+在2008年6月2日，WebKit專案宣布他們重寫了JavaScriptCore，被稱為"SquirrelFish"，它是一個[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")[直譯器](../Page/直譯器.md "wikilink")（Bytecode
 Interpreter）\[28\]\[29\]，這項專案驗後來變成SquirrelFish
-Extreme（SFX），它可將JavaScript編譯為[机器语言而不再需要直譯器](../Page/机器语言.md "wikilink")，這樣的做法加速了JavaScript的執行\[30\]，這項專案於2008年9月18日發布。一開始，SFX僅支援[x86架構](../Page/x86.md "wikilink")，於2009年1月底，SFX於OSX支援了[x86-64架構](../Page/x86-64.md "wikilink")，並且在該平台通過了所有的測試\[31\]。
+Extreme（SFX），它可將JavaScript編譯為[机器语言而不再需要直譯器](../Page/机器语言.md "wikilink")，這樣的做法加速了JavaScript的執行\[30\]，這項專案於2008年9月18日發布。一開始，SFX僅支援[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")，於2009年1月底，SFX於OSX支援了[x86-64架構](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，並且在該平台通過了所有的測試\[31\]。
 
 ### WebKit2
 
@@ -84,20 +85,20 @@ WebKit2發佈於2010年4月8日，WebKit2的目標是將元件抽象化，並提
 [Usage_share_of_web_browsers_(Source_StatCounter).svg](https://zh.wikipedia.org/wiki/File:Usage_share_of_web_browsers_\(Source_StatCounter\).svg "fig:Usage_share_of_web_browsers_(Source_StatCounter).svg")根據[StatCounter](../Page/StatCounter.md "wikilink").\]\]
 [Web_browser_usage_on_Wikimedia.png](https://zh.wikipedia.org/wiki/File:Web_browser_usage_on_Wikimedia.png "fig:Web_browser_usage_on_Wikimedia.png")
 作為渲染引擎使用的WebKit，被使用在[Safari及](../Page/Safari.md "wikilink")[Google
-Chrome瀏覽器於](../Page/Google_Chrome.md "wikilink")[Windows](../Page/Windows.md "wikilink")、[OS
-X](../Page/OS_X.md "wikilink")、[iOS及](../Page/iOS.md "wikilink")[Android平台](../Page/Android.md "wikilink")（然而，Chrome僅僅使用WebCore，而JavaScript引擎及多工系統則自行開發）\[35\]。其他的在OS
-X底下的應用程式也使用WebKit，例如Apple的e-mail用戶端軟體[Mail以及微軟的](../Page/郵件_\(Mac_OS_X\).md "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[Microsoft
+Chrome瀏覽器於](../Page/Google_Chrome.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[OS
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android平台](../Page/Android.md "wikilink")（然而，Chrome僅僅使用WebCore，而JavaScript引擎及多工系統則自行開發）\[35\]。其他的在OS
+X底下的應用程式也使用WebKit，例如Apple的e-mail用戶端軟體[Mail以及微軟的](https://zh.wikipedia.org/wiki/郵件_\(Mac_OS_X\) "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[Microsoft
 Entourage](../Page/Microsoft_Entourage.md "wikilink")
 2008，皆使用WebKit來渲染HTML內容的e-mail訊息。
 
-[Opera软件公司於](../Page/Opera软件公司.md "wikilink")2013年初宣布，他們將停止他們自行開發的[Presto排版引擎](../Page/Presto.md "wikilink")，由Webkit專案取代，在未來將會以Webkit來取代，並貢獻給Webkit專案\[36\]。
+[Opera软件公司於](https://zh.wikipedia.org/wiki/Opera软件公司 "wikilink")2013年初宣布，他們將停止他們自行開發的[Presto排版引擎](../Page/Presto.md "wikilink")，由Webkit專案取代，在未來將會以Webkit來取代，並貢獻給Webkit專案\[36\]。
 
 ### 內建平台
 
-新的網頁瀏覽器已經內建了WebKit，例如[Symbian手機的](../Page/Symbian.md "wikilink")[S60瀏覽器](../Page/S60.md "wikilink")\[37\]、[BlackBerry瀏覽器](../Page/BlackBerry_OS.md "wikilink")（ver
-6.0+）、[Midori](../Page/Midori.md "wikilink")、[Chrome瀏覽器](../Page/Google_Chrome.md "wikilink")\[38\]\[39\]、[Android網頁瀏覽器](../Page/Android.md "wikilink")、[PlayStation_3_系统软件](../Page/PlayStation_3_系统软件.md "wikilink")4.0以上所使用的瀏覽器\[40\]、KDE的[Rekonq瀏覽器以及](../Page/Rekonq.md "wikilink")[Plasma
-Workspaces都使用WebKit作為原生的網頁渲染引擎](../Page/Plasma_Workspaces.md "wikilink")。WebKit已經被[OmniWeb](../Page/OmniWeb.md "wikilink")、[iCab及Web](../Page/iCab.md "wikilink")（前面所說的Epiphany）採用，並取代原有的渲染引擎，[Sleipnir於](../Page/Sleipnir.md "wikilink")2012年開始在他們的瀏覽器開發WebKit，並於2012年5月17日進入第三個Alpha階段\[41\]。Epiphany同時支援[Gecko及WebKit](../Page/Gecko.md "wikilink")，但他們的團隊描述Gecko的發佈週期及未來的開發計劃將會令他們對於Gecko的支援太過笨重。HP的[WebOS使用WebKit作為它應用程式執行時期的基礎](../Page/WebOS.md "wikilink")\[42\]。[Valve
-Corporation的](../Page/维尔福.md "wikilink")[Steam最新更新的界面](../Page/Steam.md "wikilink")，使用WebKit作為它界面的渲染以及內建的瀏覽器\[43\]。WebKit在[Adobe_AIR中被使用在渲染HTML及執行JavaScript](../Page/Adobe_AIR.md "wikilink")，在[Adobe
+新的網頁瀏覽器已經內建了WebKit，例如[Symbian手機的](https://zh.wikipedia.org/wiki/Symbian "wikilink")[S60瀏覽器](https://zh.wikipedia.org/wiki/S60 "wikilink")\[37\]、[BlackBerry瀏覽器](../Page/BlackBerry_OS.md "wikilink")（ver
+6.0+）、[Midori](../Page/Midori.md "wikilink")、[Chrome瀏覽器](../Page/Google_Chrome.md "wikilink")\[38\]\[39\]、[Android網頁瀏覽器](../Page/Android.md "wikilink")、[PlayStation_3_系统软件](https://zh.wikipedia.org/wiki/PlayStation_3_系统软件 "wikilink")4.0以上所使用的瀏覽器\[40\]、KDE的[Rekonq瀏覽器以及](../Page/Rekonq.md "wikilink")[Plasma
+Workspaces都使用WebKit作為原生的網頁渲染引擎](https://zh.wikipedia.org/wiki/Plasma_Workspaces "wikilink")。WebKit已經被[OmniWeb](../Page/OmniWeb.md "wikilink")、[iCab及Web](https://zh.wikipedia.org/wiki/iCab "wikilink")（前面所說的Epiphany）採用，並取代原有的渲染引擎，[Sleipnir於](../Page/Sleipnir.md "wikilink")2012年開始在他們的瀏覽器開發WebKit，並於2012年5月17日進入第三個Alpha階段\[41\]。Epiphany同時支援[Gecko及WebKit](../Page/Gecko.md "wikilink")，但他們的團隊描述Gecko的發佈週期及未來的開發計劃將會令他們對於Gecko的支援太過笨重。HP的[WebOS使用WebKit作為它應用程式執行時期的基礎](https://zh.wikipedia.org/wiki/WebOS "wikilink")\[42\]。[Valve
+Corporation的](https://zh.wikipedia.org/wiki/维尔福 "wikilink")[Steam最新更新的界面](../Page/Steam.md "wikilink")，使用WebKit作為它界面的渲染以及內建的瀏覽器\[43\]。WebKit在[Adobe_AIR中被使用在渲染HTML及執行JavaScript](../Page/Adobe_AIR.md "wikilink")，在[Adobe
 Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink")
 CS5，WebKit用來渲染部分元件的使用界面。
 
@@ -106,50 +107,51 @@ Explorer所使用的Trident/MSHTML引擎的市場份額\[45\]，如果這個成�
 
 ### 移植
 
-在Hyatt發佈WebKit開源之後的那一周，Nokia宣布他們將移植WebKit到[Symbian作業系統](../Page/Symbian.md "wikilink")，並為S60開發一個基於WebKit的行動裝置瀏覽器，現在已經被命名為[Web
+在Hyatt發佈WebKit開源之後的那一周，Nokia宣布他們將移植WebKit到[Symbian作業系統](https://zh.wikipedia.org/wiki/Symbian "wikilink")，並為S60開發一個基於WebKit的行動裝置瀏覽器，現在已經被命名為[Web
 Browser for
-S60](../Page/Web_Browser_for_S60.md "wikilink")，它被使用在Nokia、Samsung、LG及其他使用Symbian
-S60的行動電話。Apple也已經移植WebKit到[iOS並將其運行於](../Page/iOS.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")、[iPod
-Touch及](../Page/iPod_Touch.md "wikilink")[iPad](../Page/iPad.md "wikilink")，它被使用在這些裝置的網頁瀏覽器及電子郵件軟體。\[47\][Android行動電話平台也使用WebKit作為它網頁瀏覽器的基礎](../Page/Android.md "wikilink")\[48\]，而於2009年1月發佈的[Palm
+S60](https://zh.wikipedia.org/wiki/Web_Browser_for_S60 "wikilink")，它被使用在Nokia、Samsung、LG及其他使用Symbian
+S60的行動電話。Apple也已經移植WebKit到[iOS並將其運行於](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod
+Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")，它被使用在這些裝置的網頁瀏覽器及電子郵件軟體。\[47\][Android行動電話平台也使用WebKit作為它網頁瀏覽器的基礎](../Page/Android.md "wikilink")\[48\]，而於2009年1月發佈的[Palm
 Pre使用WebKit作為它的界面](../Page/Palm_Pre.md "wikilink")\[49\]。[Amazon
-Kindle](../Page/Amazon_Kindle.md "wikilink")
+Kindle](https://zh.wikipedia.org/wiki/Amazon_Kindle "wikilink")
 3包含著一個以WebKit打造實驗性質的瀏覽器\[50\]。
 
-在2007年6月，Apple宣布WebKit已經被移植到[iOS](../Page/iOS.md "wikilink")，並作為Safari的一部分，還有一些正在進行中的項目，將WebKit移植到開源的作業系統[Syllable](../Page/Syllable_\(operating_system\).md "wikilink")\[51\]、[Haiku](../Page/Haiku_\(operating_system\).md "wikilink")\[52\]以及[AROS
+在2007年6月，Apple宣布WebKit已經被移植到[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，並作為Safari的一部分，還有一些正在進行中的項目，將WebKit移植到開源的作業系統[Syllable](https://zh.wikipedia.org/wiki/Syllable_\(operating_system\) "wikilink")\[51\]、[Haiku](https://zh.wikipedia.org/wiki/Haiku_\(operating_system\) "wikilink")\[52\]以及[AROS
 Research Operating
-System](../Page/AROS_Research_Operating_System.md "wikilink")（AROS）.\[53\]。
+System](https://zh.wikipedia.org/wiki/AROS_Research_Operating_System "wikilink")（AROS）.\[53\]。
 
-WebKit也被移植到許多Toolkits使其支援多平台，例如[GTK+](../Page/GTK+.md "wikilink")
-toolkit\[54\]\[55\]、[Qt](../Page/Qt_\(framework\).md "wikilink")
+WebKit也被移植到許多Toolkits使其支援多平台，例如[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")
+toolkit\[54\]\[55\]、[Qt](https://zh.wikipedia.org/wiki/Qt_\(framework\) "wikilink")
 framework,\[56\]、[Adobe
 AIR](../Page/Adobe_AIR.md "wikilink")、[Enlightenment Foundation
-Libraries](../Page/Enlightenment_Foundation_Libraries.md "wikilink")
-(EFL)以及[Clutter](../Page/Clutter_\(toolkit\).md "wikilink")
+Libraries](https://zh.wikipedia.org/wiki/Enlightenment_Foundation_Libraries "wikilink")
+(EFL)以及[Clutter](https://zh.wikipedia.org/wiki/Clutter_\(toolkit\) "wikilink")
 toolkit\[57\]。[Qt
-Software](../Page/Qt_Software.md "wikilink")（[Digia所擁有](../Page/Digia.md "wikilink")）於Qt
+Software](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")（[Digia所擁有](../Page/Digia.md "wikilink")）於Qt
 4.4包含Qt port，Qt
 port的WebKit也可使用在[Konqueror](../Page/Konqueror.md "wikilink")
 4.1版本之後\[58\]。在Qt底下的[Iris
-Browser也使用WebKit](../Page/Iris_Browser.md "wikilink")。The
+Browser也使用WebKit](https://zh.wikipedia.org/wiki/Iris_Browser "wikilink")。The
 Enlightenment Foundation Libraries
-(EFL)的移植還在進行（經由[Samsung及ProFUSION](../Page/Samsung.md "wikilink")\[59\]），他們將專注在嵌入式及行動系統，並將其作為一個獨立運行的瀏覽器、Widgets/Gadgets、文件閱讀及修改軟體。[Clutter的移植是由](../Page/Clutter_\(toolkit\).md "wikilink")[Collabora所開放](../Page/Collabora.md "wikilink")，由[Bosch所贊助](../Page/Robert_Bosch_GmbH.md "wikilink")。
+(EFL)的移植還在進行（經由[Samsung及ProFUSION](https://zh.wikipedia.org/wiki/Samsung "wikilink")\[59\]），他們將專注在嵌入式及行動系統，並將其作為一個獨立運行的瀏覽器、Widgets/Gadgets、文件閱讀及修改軟體。[Clutter的移植是由](https://zh.wikipedia.org/wiki/Clutter_\(toolkit\) "wikilink")[Collabora所開放](https://zh.wikipedia.org/wiki/Collabora "wikilink")，由[Bosch所贊助](https://zh.wikipedia.org/wiki/Robert_Bosch_GmbH "wikilink")。
 
 還有一個專案與WebKit同步（由Pleyo所贊助）\[60\]，被稱之為*[Origyn Web
-Browser](../Page/Origyn_Web_Browser.md "wikilink")*，他提供了一個多元的移植方式，將其移植到抽象的平台，目的是讓移植到嵌入式或是輕量系統可以更快速簡單\[61\]。這個移植被使用在嵌入式裝置，例如[set-top
-boxes](../Page/set-top_boxes.md "wikilink")、PMP，而他已經被移植到[AmigaOS](../Page/AmigaOS.md "wikilink")\[62\]\[63\]、[AROS](../Page/AROS.md "wikilink")\[64\]及[MorphOS](../Page/MorphOS.md "wikilink")，MorphOS
+Browser](https://zh.wikipedia.org/wiki/Origyn_Web_Browser "wikilink")*，他提供了一個多元的移植方式，將其移植到抽象的平台，目的是讓移植到嵌入式或是輕量系統可以更快速簡單\[61\]。這個移植被使用在嵌入式裝置，例如[set-top
+boxes](https://zh.wikipedia.org/wiki/set-top_boxes "wikilink")、PMP，而他已經被移植到[AmigaOS](../Page/AmigaOS.md "wikilink")\[62\]\[63\]、[AROS](https://zh.wikipedia.org/wiki/AROS "wikilink")\[64\]及[MorphOS](https://zh.wikipedia.org/wiki/MorphOS "wikilink")，MorphOS
 1.7是第一個支援[HTML5媒體標籤的](../Page/HTML5.md "wikilink")[Origyn Web
-Browser](../Page/Origyn_Web_Browser.md "wikilink") (OWB)\[65\]\[66\]。
+Browser](https://zh.wikipedia.org/wiki/Origyn_Web_Browser "wikilink")
+(OWB)\[65\]\[66\]。
 
 ### 分支
 
-在2013年4月3日，Google宣布他將自行開發WebCore的分支，也就是[Blink引擎](../Page/Blink.md "wikilink")。Chrome的開發者由於希望在瀏覽器的開發上擁有更大的自由度，同時避免與上游衝突，更可透過移除Chrome沒有使用的元件而簡化自己的程式庫，所以決定開發WebKit的分支版本。同時[Opera软件在同年稍早也宣布](../Page/Opera软件.md "wikilink")，他們將自有引擎轉換到Chromium的程式庫，在此時也同時轉換到Blink的分支\[67\]。根據這份聲明，WebKit的開發者開始討論移除Chrome相關程式碼的可能性，以精簡整個WebKit程式庫\[68\]。
+在2013年4月3日，Google宣布他將自行開發WebCore的分支，也就是[Blink引擎](../Page/Blink.md "wikilink")。Chrome的開發者由於希望在瀏覽器的開發上擁有更大的自由度，同時避免與上游衝突，更可透過移除Chrome沒有使用的元件而簡化自己的程式庫，所以決定開發WebKit的分支版本。同時[Opera软件在同年稍早也宣布](https://zh.wikipedia.org/wiki/Opera软件 "wikilink")，他們將自有引擎轉換到Chromium的程式庫，在此時也同時轉換到Blink的分支\[67\]。根據這份聲明，WebKit的開發者開始討論移除Chrome相關程式碼的可能性，以精簡整個WebKit程式庫\[68\]。
 
 ## 元件
 
 ### WebCore
 
-WebCore是一個由WebKit專案所開發的佈局（Layout）、渲染（Rendering）及HTML和[SVG的](../Page/SVG.md "wikilink")[DOM函式庫](../Page/文档对象模型.md "wikilink")，完整的程式碼皆由[GNU宽通用公共许可证所授權](../Page/GNU宽通用公共许可证.md "wikilink")，WebKit框架包裝了WebCore及JavaScriptCore，並提供一個Objective-C[应用程序接口來接介由C](../Page/应用程序接口.md "wikilink")++所開發的WebCore渲染引擎及JavaScriptCore腳本引擎，透過[Cocoa
-API就可以在應用程式中很簡單的使用這些元件](../Page/Cocoa_API.md "wikilink")。之後的版本同時包含了一個[跨平台的C](../Page/跨平台.md "wikilink")++抽象平台，並且提供各種API使用。
+WebCore是一個由WebKit專案所開發的佈局（Layout）、渲染（Rendering）及HTML和[SVG的](https://zh.wikipedia.org/wiki/SVG "wikilink")[DOM函式庫](../Page/文档对象模型.md "wikilink")，完整的程式碼皆由[GNU宽通用公共许可证所授權](../Page/GNU宽通用公共许可证.md "wikilink")，WebKit框架包裝了WebCore及JavaScriptCore，並提供一個Objective-C[应用程序接口來接介由C](../Page/应用程序接口.md "wikilink")++所開發的WebCore渲染引擎及JavaScriptCore腳本引擎，透過[Cocoa
+API就可以在應用程式中很簡單的使用這些元件](https://zh.wikipedia.org/wiki/Cocoa_API "wikilink")。之後的版本同時包含了一個[跨平台的C](https://zh.wikipedia.org/wiki/跨平台 "wikilink")++抽象平台，並且提供各種API使用。
 
 WebKit通過[Acid2及](../Page/Acid2.md "wikilink")[Acid3的測試](../Page/Acid3.md "wikilink")，包含完美像素的渲染（pixel-perfect
 rendering）以及沒有任何時間及不順的問題\[69\]。
@@ -157,28 +159,28 @@ rendering）以及沒有任何時間及不順的問題\[69\]。
 ### JavaScriptCore
 
 JavaScriptCore是一個在WebKit中提供[JavaScript引擎的框架](../Page/JavaScript引擎.md "wikilink")，而且在OS
-X作為其他內容的腳本引擎\[70\]\[71\]。JavaScriptCore最初是為[KDE的JavaScript引擎](../Page/KDE.md "wikilink")（[KJS](../Page/KJS.md "wikilink")）函式庫及[PCRE](../Page/PCRE.md "wikilink")[正则表达式函式庫](../Page/正则表达式.md "wikilink")，JavaScriptCore從KJS及PCRE復刻之後，已比原先進步了許多，有了新的特色以及極大的效能改進\[72\]。
+X作為其他內容的腳本引擎\[70\]\[71\]。JavaScriptCore最初是為[KDE的JavaScript引擎](../Page/KDE.md "wikilink")（[KJS](../Page/KJS.md "wikilink")）函式庫及[PCRE](https://zh.wikipedia.org/wiki/PCRE "wikilink")[正则表达式函式庫](../Page/正则表达式.md "wikilink")，JavaScriptCore從KJS及PCRE復刻之後，已比原先進步了許多，有了新的特色以及極大的效能改進\[72\]。
 
-在2008年6月2日，WebKit專案宣布，將被重寫為"SquirrelFish"，它是一個[字节码](../Page/字节码.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")\[73\]\[74\]，這個專案演變成SquirrelFish
-Extreme（簡稱為SFX，市場稱之為Nitro），首次公開於2008年9月18日，它會將Javascript編譯為原生的[机器语言](../Page/机器语言.md "wikilink")，不再需要[字节码](../Page/字节码.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")，同時加速了JavaScript的執行效率\[75\]。
+在2008年6月2日，WebKit專案宣布，將被重寫為"SquirrelFish"，它是一個[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")[直譯器](../Page/直譯器.md "wikilink")\[73\]\[74\]，這個專案演變成SquirrelFish
+Extreme（簡稱為SFX，市場稱之為Nitro），首次公開於2008年9月18日，它會將Javascript編譯為原生的[机器语言](../Page/机器语言.md "wikilink")，不再需要[字节码](https://zh.wikipedia.org/wiki/字节码 "wikilink")[直譯器](../Page/直譯器.md "wikilink")，同時加速了JavaScript的執行效率\[75\]。
 
 ### Drosera
 
-Drosera是一個JavaScript[调试工具](../Page/调试工具.md "wikilink")，它被包含在每日編譯的WebKit版本內\[76\]\[77\]。它被命名為*[茅膏菜屬](../Page/茅膏菜屬.md "wikilink")*，這是一種[食虫植物](../Page/食虫植物.md "wikilink")。Drosera目前已經被Web
+Drosera是一個JavaScript[调试工具](../Page/调试工具.md "wikilink")，它被包含在每日編譯的WebKit版本內\[76\]\[77\]。它被命名為*[茅膏菜屬](https://zh.wikipedia.org/wiki/茅膏菜屬 "wikilink")*，這是一種[食虫植物](../Page/食虫植物.md "wikilink")。Drosera目前已經被Web
 Inspector取代了\[78\]。
 
 ## 跨平台之路
 
 ### iOS
 
-2007年6月29日，[iPhone上市](../Page/iPhone.md "wikilink")，WebKit通过[Safari浏览器进入](../Page/Safari.md "wikilink")[iOS平台](../Page/iOS.md "wikilink")，而且立即成为当时[iOS平台唯一的排版引擎](../Page/iOS.md "wikilink")。
+2007年6月29日，[iPhone上市](https://zh.wikipedia.org/wiki/iPhone "wikilink")，WebKit通过[Safari浏览器进入](../Page/Safari.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，而且立即成为当时[iOS平台唯一的排版引擎](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
-[苹果公司](../Page/苹果公司.md "wikilink")\[79\]成为了这一项目的领导者。
+[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")\[79\]成为了这一项目的领导者。
 
 ### Windows
 
 2008年3月18日，Safari 3.1 for
-Windows转正，解决了[Windows平台下WebKit一直存在的部分兼容性问题](../Page/Windows.md "wikilink")。同年9月3日推出的[Google
+Windows转正，解决了[Windows平台下WebKit一直存在的部分兼容性问题](https://zh.wikipedia.org/wiki/Windows "wikilink")。同年9月3日推出的[Google
 Chrome使得这一平台进一步成熟](../Page/Google_Chrome.md "wikilink")。而在[Windows
 Mobile战线](../Page/Windows_Mobile.md "wikilink")，领先推出稳定版的是拓驰公司的Iris
 Browser。
@@ -194,8 +196,8 @@ Chrome，Xfce的Midori，GNOME的Epiphany、KDE的Konqueror，Arora以及QupZill
 
 ### Symbian
 
-2005年，[诺基亚公司的](../Page/诺基亚公司.md "wikilink")[S60团队成为手机端WebKit的先驱](../Page/S60.md "wikilink")，他们将WebKit框架移植到了[Symbian](../Page/Symbian.md "wikilink")
-[S60平台](../Page/S60.md "wikilink")，作为[S60第三版的浏览器内核](../Page/S60.md "wikilink")。
+2005年，[诺基亚公司的](https://zh.wikipedia.org/wiki/诺基亚公司 "wikilink")[S60团队成为手机端WebKit的先驱](https://zh.wikipedia.org/wiki/S60 "wikilink")，他们将WebKit框架移植到了[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
+[S60平台](https://zh.wikipedia.org/wiki/S60 "wikilink")，作为[S60第三版的浏览器内核](https://zh.wikipedia.org/wiki/S60 "wikilink")。
 
 ## 现在使用WebKit引擎的浏览器
 
@@ -203,16 +205,16 @@ Chrome，Xfce的Midori，GNOME的Epiphany、KDE的Konqueror，Arora以及QupZill
 
   - [Midori](../Page/Midori.md "wikilink")：当前最新测试版0.1.5所用的引擎版本是WebKitGTK+
     1.1.13
-  - [Epiphany](../Page/Epiphany.md "wikilink")：原使用[Gecko](../Page/Gecko.md "wikilink")，2.28版開始改用WebKit
+  - [Epiphany](https://zh.wikipedia.org/wiki/Epiphany "wikilink")：原使用[Gecko](../Page/Gecko.md "wikilink")，2.28版開始改用WebKit
   - [Arora](../Page/Arora.md "wikilink")：当前最新版本号是0.11.0，使用QtWebKit调用Webkit核心
-  - [QupZilla](../Page/QupZilla.md "wikilink")：当前最新版本号是1.3.5，使用QtWebKit调用Webkit核心
+  - [QupZilla](https://zh.wikipedia.org/wiki/QupZilla "wikilink")：当前最新版本号是1.3.5，使用QtWebKit调用Webkit核心
 
 ### 非开源
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Avant_Browser.md" title="wikilink">Avant Browser</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Avant_Browser" title="wikilink">Avant Browser</a></p></td>
 <td><p>当前最新正式版2018 build 1<br />
 采用Trident/WebKit/Gecko三引擎。[83]</p></td>
 </tr>
@@ -232,12 +234,12 @@ Chrome，Xfce的Midori，GNOME的Epiphany、KDE的Konqueror，Arora以及QupZill
 所用的引擎版本是 Blink 537.36 (Chromium 64.0.3282.140)[85]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/搜狗高速浏览器.md" title="wikilink">搜狗高速浏览器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搜狗高速浏览器" title="wikilink">搜狗高速浏览器</a></p></td>
 <td><p>當前最新正式版7.5.8.27113<br />
 其2.0版开始采用Trident/WebKit双引擎。[86]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傲游浏览器.md" title="wikilink">傲游浏览器</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傲游浏览器" title="wikilink">傲游浏览器</a></p></td>
 <td><p>当前最新正式版5.1.6.3000。</p></td>
 </tr>
 <tr class="odd">

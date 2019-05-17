@@ -1,6 +1,6 @@
 **RGSS**（Ruby Game Scripting
-System）是以[Ruby語言為基礎的遊戲](../Page/Ruby.md "wikilink")[腳本語言](../Page/腳本語言.md "wikilink")，用於[RPG
-Maker系列的功能擴充上](../Page/RPG_Maker.md "wikilink")。
+System）是以[Ruby語言為基礎的遊戲](../Page/Ruby.md "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，用於[RPG
+Maker系列的功能擴充上](https://zh.wikipedia.org/wiki/RPG_Maker "wikilink")。
 
 ## 版本歷史
 
@@ -17,7 +17,7 @@ VX](../Page/RPG_Maker_VX.md "wikilink")，將腳本分為數個大類，以方�
 ### RGSS 3
 
 搭載於[RPG Maker VX
-Ace](../Page/RPG_Maker_VX#RPG_Maker_VX_Ace.md "wikilink")，使用Ruby1.9.2，並新增腳本功能與優化性能等。
+Ace](https://zh.wikipedia.org/wiki/RPG_Maker_VX#RPG_Maker_VX_Ace "wikilink")，使用Ruby1.9.2，並新增腳本功能與優化性能等。
 為最後一版的RGSS，在後繼版本[RPG Maker
 MV中被](../Page/RPG_Maker_MV.md "wikilink")[JavaScript插件取代](../Page/JavaScript.md "wikilink")。
 
@@ -48,9 +48,9 @@ RGSS的語法與[Ruby完全相同](../Page/Ruby.md "wikilink")。主要在圖像
 
 一般而言，使用者可以使用內建的RGSS腳本，加上事件指令來編輯遊戲系統，而不需要撰寫任何程式。如果有事件指令無法實現的系統時，則可以透過修改RGSS或新增RGSS腳本來完成。
 
-此外，使用者也可以完全不使用內建的RGSS腳本，自己用RGSS重頭編寫想要的遊戲系統。雖然說RGSS本身是專門為[RPG設計而成](../Page/電子角色扮演遊戲.md "wikilink")，但要使用RGSS製作[動作遊戲](../Page/動作遊戲.md "wikilink")、[益智遊戲等類型的遊戲也是可行的](../Page/益智遊戲.md "wikilink")。
+此外，使用者也可以完全不使用內建的RGSS腳本，自己用RGSS重頭編寫想要的遊戲系統。雖然說RGSS本身是專門為[RPG設計而成](../Page/電子角色扮演遊戲.md "wikilink")，但要使用RGSS製作[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")、[益智遊戲等類型的遊戲也是可行的](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")。
 
-RGSS方便的特性在於：變更文字的大小、變更選單畫面、或更改敵人的體力值等複雜的指令，使用事件指令雖能達到效果，但非常麻煩並缺乏通用性。但若使用RGSS，只需在腳本編輯器中插入腳本即可，有[程式設計基礎便能更順利](../Page/程式設計.md "wikilink")、快速地編寫系統。
+RGSS方便的特性在於：變更文字的大小、變更選單畫面、或更改敵人的體力值等複雜的指令，使用事件指令雖能達到效果，但非常麻煩並缺乏通用性。但若使用RGSS，只需在腳本編輯器中插入腳本即可，有[程式設計基礎便能更順利](https://zh.wikipedia.org/wiki/程式設計 "wikilink")、快速地編寫系統。
 
 網路上公開的自製RGSS腳本。多數使用起來非常簡單，只要按照說明插入腳本編輯器即可。
 

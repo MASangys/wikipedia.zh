@@ -1,9 +1,10 @@
 **Microsoft Azure SQL Database** (舊稱 SQL Azure, SQL Server Data Services
 或 SQL Services) 是由微軟[SQL Server
-2008為主](../Page/SQL_Server.md "wikilink")，建構在[Microsoft
+2008為主](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")，建構在[Microsoft
 Azure雲端作業系統之上](../Page/Microsoft_Azure.md "wikilink")，執行[雲端運算](../Page/雲端運算.md "wikilink")
-(Cloud Computing)的[關聯式資料庫服務](../Page/關聯式資料庫.md "wikilink") (Database as
-a Service)，是一種雲端儲存(Cloud Storage)的實作，提供網路型的應用程式資料儲存的服務。
+(Cloud
+Computing)的[關聯式資料庫服務](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")
+(Database as a Service)，是一種雲端儲存(Cloud Storage)的實作，提供網路型的應用程式資料儲存的服務。
 
 2017年5月，微軟於 Build 2017 大會時宣布對 [MySQL](../Page/MySQL.md "wikilink") 與
 [PostgreSQL](../Page/PostgreSQL.md "wikilink") 的 SQL Database 服務。
@@ -69,7 +70,7 @@ Azure 的帳戶都可以建立一台 SQL Database Server，就像在本地的 SQ
     Server 可以有多個使用者資料庫。
 
 用戶端只要可以支援 TDS (Tabular Data Stream) over SSL，即可連線與存取 SQL Database Server
-的資料庫資源，這表示像[ODBC](../Page/ODBC.md "wikilink")、[ADO.NET或](../Page/ADO.NET.md "wikilink")[JDBC的](../Page/JDBC.md "wikilink")
+的資料庫資源，這表示像[ODBC](../Page/ODBC.md "wikilink")、[ADO.NET或](../Page/ADO.NET.md "wikilink")[JDBC的](https://zh.wikipedia.org/wiki/JDBC "wikilink")
 SQL Server 最新版驅動程式或SQL Native Client Library都可以連接到SQL Database Server。
 
 ## Transact-SQL的支援
@@ -85,19 +86,19 @@ CLR組件的那一台）。
 受支援的Transact-SQL特性\[4\]：
 
   - 常數。
-  - [資料限制](../Page/資料限制.md "wikilink")。
+  - [資料限制](https://zh.wikipedia.org/wiki/資料限制 "wikilink")。
   - [資料游標](../Page/指標_\(資料庫\).md "wikilink")。
-  - [資料庫索引管理與索引重建](../Page/資料庫索引.md "wikilink")。
-  - 本地[資料庫暫存表格](../Page/資料庫暫存表格.md "wikilink")。
+  - [資料庫索引管理與索引重建](https://zh.wikipedia.org/wiki/資料庫索引 "wikilink")。
+  - 本地[資料庫暫存表格](https://zh.wikipedia.org/wiki/資料庫暫存表格 "wikilink")。
   - 保留字。
   - [預存程序](../Page/存储程序.md "wikilink")。
-  - [資料庫統計管理](../Page/資料庫統計.md "wikilink")。
-  - [資料庫交易](../Page/資料庫交易.md "wikilink")
-  - [觸發程序](../Page/觸發器_\(資料庫\).md "wikilink")。
-  - [資料庫表](../Page/資料庫表.md "wikilink")、[資料表聯結以及表格變數](../Page/資料表聯結.md "wikilink")。
+  - [資料庫統計管理](https://zh.wikipedia.org/wiki/資料庫統計 "wikilink")。
+  - [資料庫交易](https://zh.wikipedia.org/wiki/資料庫交易 "wikilink")
+  - [觸發程序](https://zh.wikipedia.org/wiki/觸發器_\(資料庫\) "wikilink")。
+  - [資料庫表](https://zh.wikipedia.org/wiki/資料庫表 "wikilink")、[資料表聯結以及表格變數](https://zh.wikipedia.org/wiki/資料表聯結 "wikilink")。
   - Transact-SQL語言元素，像是對資料庫、表格、使用者與登入等的建立、修改與刪除。
-  - [使用者定義函數](../Page/使用者定義函數.md "wikilink")。
-  - [檢視表](../Page/視圖.md "wikilink")。
+  - [使用者定義函數](https://zh.wikipedia.org/wiki/使用者定義函數 "wikilink")。
+  - [檢視表](https://zh.wikipedia.org/wiki/視圖 "wikilink")。
 
 未受支援的Transact-SQL特性：
 
@@ -178,10 +179,11 @@ Server，或是使用命令列工具 sqlcmd.exe 連到 SQL Database Server。在
 Windows Azure SQL Database 管理介面中可獲得連線字串的範例。
 
 SQL Database Server 可接受 TDS over SSL 的通訊與指令，因此開發人員可利用 ADO, ADO.NET,
-[Entity Framework](../Page/ADO.NET_Entity_Framework.md "wikilink"),
-[LINQ to SQL](../Page/LINQ.md "wikilink") 或其他可產生 TDS over SSL 的用戶端函式庫
-(ex: SQL Native Client, JDBC, SQL Server Driver for PHP 等) 來存取 SQL
-Database Server 與資料庫。
+[Entity
+Framework](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink"),
+[LINQ to SQL](https://zh.wikipedia.org/wiki/LINQ "wikilink") 或其他可產生 TDS
+over SSL 的用戶端函式庫 (ex: SQL Native Client, JDBC, SQL Server Driver for PHP
+等) 來存取 SQL Database Server 與資料庫。
 
 ### 管理工具
 
@@ -205,9 +207,9 @@ Database 上的管理資訊，並且可直接下指令給 SQL Database Server �
 
 這是在 Windows Azure SQL Database 開發初期時提供的 REST API 群，在 SQL Azure 團隊決定使用
 TDS 協定開放 SQL Azure 資料庫後即暫停開發，在 Windows Azure SQL Database 服務正式發布後，這個
-REST API 群即恢復開發，此 REST API 可符合 [OData](../Page/OData.md "wikilink")
-協定規格，目前已經停止開發，由 ASP.NET MVC OData 支援或 WCF Web API OData
-支援功能取代。
+REST API 群即恢復開發，此 REST API 可符合
+[OData](https://zh.wikipedia.org/wiki/OData "wikilink") 協定規格，目前已經停止開發，由
+ASP.NET MVC OData 支援或 WCF Web API OData 支援功能取代。
 
 ### SQL Reporting
 
@@ -220,7 +222,7 @@ Studio 作為報表開發的工具。
 
 SQL Data Sync 是微軟開發作為雲端 (Cloud) 與本地端 (On-premise) 資料同步化的服務，以[Microsoft
 Sync
-Framework為基礎的同步工具](../Page/Microsoft_Sync_Framework.md "wikilink")，可以在雲端與企業內部或用戶端
+Framework為基礎的同步工具](https://zh.wikipedia.org/wiki/Microsoft_Sync_Framework "wikilink")，可以在雲端與企業內部或用戶端
 (手持式裝置或是電腦) 進行資料的同步工作。
 
 ## 参考文献

@@ -1,15 +1,15 @@
 [Firebug.png](https://zh.wikipedia.org/wiki/File:Firebug.png "fig:Firebug.png")
 
-**Firebug**是一個已经停止开发的[自由及開放原始碼](../Page/自由及開放原始碼軟體.md "wikilink")\[1\]的[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")-{zh-hans:扩展;
-zh-hant:附加元件;}-\[2\]，是一個網頁開發工具，使用者可以利用它除錯、編輯、刪改任何網站的[CSS](../Page/CSS.md "wikilink")、[HTML](../Page/HTML.md "wikilink")、[DOM與](../Page/文檔對象模型.md "wikilink")[JavaScript代碼](../Page/JavaScript.md "wikilink")\[3\]。
+**Firebug**是一個已经停止开发的[自由及開放原始碼](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")\[1\]的[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")-{zh-hans:扩展;
+zh-hant:附加元件;}-\[2\]，是一個網頁開發工具，使用者可以利用它除錯、編輯、刪改任何網站的[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[HTML](../Page/HTML.md "wikilink")、[DOM與](https://zh.wikipedia.org/wiki/文檔對象模型 "wikilink")[JavaScript代碼](../Page/JavaScript.md "wikilink")\[3\]。
 
 Firebug最初是2006年1月由[喬·休伊特](../Page/喬·休伊特.md "wikilink")（）撰寫\[4\]，也是[Firefox創始者之一](../Page/Firefox.md "wikilink")\[5\]。此外，Firebug也提供另一個版本「Firebug
 Lite」\[6\]，此版本可以在[Internet
 Explorer](../Page/Internet_Explorer.md "wikilink") 6或更新、[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")、[Opera](../Page/Opera.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Google
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Google
 Chrome上執行](../Page/Google_Chrome.md "wikilink")\[7\]。Firebug也提供-{zh-hans:扩展;
-zh-hant:附加元件;}-的框架，例如：[Yahoo\!的網頁速度優化建議工具](../Page/Yahoo!.md "wikilink")[YSlow](../Page/YSlow.md "wikilink")、[FireCookie](../Page/FireCookie.md "wikilink")、[FirePHP等](../Page/FirePHP.md "wikilink")。
+zh-hant:附加元件;}-的框架，例如：[Yahoo\!的網頁速度優化建議工具](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")[YSlow](https://zh.wikipedia.org/wiki/YSlow "wikilink")、[FireCookie](https://zh.wikipedia.org/wiki/FireCookie "wikilink")、[FirePHP等](https://zh.wikipedia.org/wiki/FirePHP "wikilink")。
 
 ## 停止更新
 
@@ -23,9 +23,9 @@ zh-hant:附加元件;}-的框架，例如：[Yahoo\!的網頁速度優化建議�
   - [Internet
     Explorer开发人员工具](../Page/Internet_Explorer开发人员工具.md "wikilink")
   - [Opera
-    Dragonfly](../Page/Features_of_the_Opera_web_browser#Opera_Dragonfly.md "wikilink")
+    Dragonfly](https://zh.wikipedia.org/wiki/Features_of_the_Opera_web_browser#Opera_Dragonfly "wikilink")
   - [Web Inspector](../Page/Safari.md "wikilink")
-  - [YSlow](../Page/YSlow.md "wikilink")
+  - [YSlow](https://zh.wikipedia.org/wiki/YSlow "wikilink")
 
 ## 來源資料
 

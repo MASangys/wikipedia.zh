@@ -1,18 +1,18 @@
 **Netscape Navigator
-9**是[網景領航員](../Page/網景領航員.md "wikilink")[瀏覽器最後的版本](../Page/瀏覽器.md "wikilink")，由美國線上旗下的網景製作。
+9**是[網景領航員](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")[瀏覽器最後的版本](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，由美國線上旗下的網景製作。
 
 自2004年將第8版的[Netscape
 Browser委交Mercurial](../Page/Netscape_Browser.md "wikilink")
 Communications製作以來，第一個重回網景製作的版本\[1\]。Netscape Navigator
 9重回最早Navigator的名稱，此名稱曾經被用於Netscape
-1到4.08之間，當時的官方翻譯名稱即是「[網景領航員](../Page/網景領航員.md "wikilink")」\[2\]。
+1到4.08之間，當時的官方翻譯名稱即是「[網景領航員](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")」\[2\]。
 
 ## 特點
 
 ### 新功能
 
 Netscape Navigator 9
-Beta版中有對於[消息來源支援及和](../Page/消息來源.md "wikilink")[Netscape.com入口網站更好的結合](../Page/網景#Netscape.com網站.md "wikilink")\[3\]，包含改進討論方式和網頁上的投票\[4\]。因為Netscape.com由原來的社群網站改成一般入口網站，在RC1版裏面全部相關功能已取下，以上的功能僅存於Beta版中。
+Beta版中有對於[消息來源支援及和](../Page/消息來源.md "wikilink")[Netscape.com入口網站更好的結合](https://zh.wikipedia.org/wiki/網景#Netscape.com網站 "wikilink")\[3\]，包含改進討論方式和網頁上的投票\[4\]。因為Netscape.com由原來的社群網站改成一般入口網站，在RC1版裏面全部相關功能已取下，以上的功能僅存於Beta版中。
 
 網景發佈稱為「Netstripe」的Netscape Navigator 9預設佈景主題給Firefox
 2.0使用\[5\]，在Netscape Navigator 9中此佈景主題則直接被稱為「Netscape」。
@@ -23,15 +23,17 @@ Navigator
 9部分特色供Firefox使用\[6\]，包括[站內信箱提醒器與好友活動資方塊列](https://web.archive.org/web/20070106101125/http://blog.netscape.com/2006/12/06/browser-extensions/)、[Digg追蹤器](https://web.archive.org/web/20070824131612/http://blog.netscape.com/2006/12/08/the-netscape-digg-tracker/)等。
 
 其他修正包括近30種的常見網址拼字錯誤\[7\]、針對FTP的介面有重新設計\[8\]和整合於原Netscape.com的提供新聞選單。Netscape
-Navigator 9也重回[跨平台的設計](../Page/跨平台.md "wikilink")：包含[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Windows版](../Page/Windows.md "wikilink")\[9\]。
+Navigator
+9也重回[跨平台的設計](https://zh.wikipedia.org/wiki/跨平台 "wikilink")：包含[Mac
+OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")\[9\]。
 
 ### 移除的功能
 
 不同於Netscape Browser，該瀏覽器不包含[Internet
 Explorer的](../Page/Internet_Explorer.md "wikilink")[Trident排版引擎](../Page/Trident_\(排版引擎\).md "wikilink")。Netscape
 Navigator
-9並沒有包含任何[電子郵件客戶端](../Page/電子郵件客戶端.md "wikilink")、[新聞群組軟體和](../Page/新聞群組.md "wikilink")[即時通訊軟體](../Page/即時通訊軟體.md "wikilink")。不過，網景之前曾製作一個稱為[Netscape
+9並沒有包含任何[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")、[新聞群組軟體和](https://zh.wikipedia.org/wiki/新聞群組 "wikilink")[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")。不過，網景之前曾製作一個稱為[Netscape
 Mercury的郵件程式輔助Netscape](../Page/Netscape_Messenger_9.md "wikilink")
 Navigator 9\[10\]\[11\]。在Netscape Mercury上市之前，網景建議用戶先使用Netscape
 7的郵件程式\[12\]。後來網景於11月15日公佈[Netscape Messenger
@@ -40,7 +42,7 @@ Mercury\[13\]，隨著網景停止Netscape Navigator 9的更新計畫，這個�
 
 ### 其他特色
 
-知名的彩蛋[Mozilla之書在Netscape](../Page/Mozilla之書#Mozilla之書，8:20.md "wikilink")
+知名的彩蛋[Mozilla之書在Netscape](https://zh.wikipedia.org/wiki/Mozilla之書#Mozilla之書，8:20 "wikilink")
 Navigator 9出現新的一章。內容是*"And thus the Creator looked upon the beast reborn
 and saw that it was
 good."*，中譯為*「然後接著造物者凝視著那野獸並看著它茁壯。」*如果想要看到這個畫面在網址列中輸入<about:mozilla>即可。
@@ -76,10 +78,11 @@ Herbert製作的啟動畫面得獎\[15\]，並且於RC1版中正式啟用\[16\]�
 
 ## 相關文章
 
-  - [Netscape](../Page/Netscape.md "wikilink")
+  - [Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")
   - [網景 (瀏覽器)](../Page/網景_\(瀏覽器\).md "wikilink")
   - [Netscape Messenger 9](../Page/Netscape_Messenger_9.md "wikilink")
-  - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
+  - [Mozilla
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - [网页浏览器列表](../Page/网页浏览器列表.md "wikilink")
   - [网页浏览器比较](../Page/网页浏览器比较.md "wikilink")
 

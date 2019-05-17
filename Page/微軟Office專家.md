@@ -23,7 +23,7 @@ MOS的最基礎認證，證明使用者對微軟Office主要成員軟體有最�
   - Microsoft Access Core認證考試（97、2000、XP、2003、2007、2010）。
   - Microsoft Outlook Core認證考試（2000、XP、2003、2007、2010）。
   - Microsoft Project Core認證考試（2000、XP）（自Project
-    2007起轉入[MCTS與](../Page/MCTS.md "wikilink")[MCITP認證體系](../Page/MCITP.md "wikilink")）。
+    2007起轉入[MCTS與](https://zh.wikipedia.org/wiki/MCTS "wikilink")[MCITP認證體系](https://zh.wikipedia.org/wiki/MCITP "wikilink")）。
 
 只要通過任一科標準級考試，即可取得標準級認證。
 
@@ -40,7 +40,7 @@ Excel兩個成員設計專家級認證](../Page/Microsoft_Excel.md "wikilink")�
 ### MOS大師級認證
 
 MOS大師級認證（MOS
-Master）與微軟的[MCSE或](../Page/MCSE.md "wikilink")[MCSD](../Page/MCSD.md "wikilink")，或現行的[MCITP或](../Page/MCITP.md "wikilink")[MCPD是同級的認證](../Page/MCPD.md "wikilink")，代表持有認證的使用者對Microsoft
+Master）與微軟的[MCSE或](https://zh.wikipedia.org/wiki/MCSE "wikilink")[MCSD](https://zh.wikipedia.org/wiki/MCSD "wikilink")，或現行的[MCITP或](https://zh.wikipedia.org/wiki/MCITP "wikilink")[MCPD是同級的認證](https://zh.wikipedia.org/wiki/MCPD "wikilink")，代表持有認證的使用者對Microsoft
 Office有著透徹的了解，以及能夠順利的使用Microsoft
 Office成員應用程式執行各式工作，因此，MOS大師級認證要求考生必須通過四科考試。
 
@@ -65,7 +65,7 @@ MI的資格\[4\]。
 ## 考試方式
 
 MOS的考試與微軟的IT系認證不同，它是由**Certiport**公司提供，並且全部都是以實作為基礎的Performance-Based
-Testing（PBT）模式，用以測驗出考生對軟體實作的熟悉程度，這和[MCSE等IT認證考試不太相同](../Page/MCSE.md "wikilink")。Certiport公司在全球已設立了超過12,000個考場，提供MOS以及MCAS、MCAP等的考試。
+Testing（PBT）模式，用以測驗出考生對軟體實作的熟悉程度，這和[MCSE等IT認證考試不太相同](https://zh.wikipedia.org/wiki/MCSE "wikilink")。Certiport公司在全球已設立了超過12,000個考場，提供MOS以及MCAS、MCAP等的考試。
 
 目前考試科目除了英文以外，有鑒於Microsoft
 Office在全球的市佔率以及使用者習慣，因此也推出了本地化語系（localized）的考試，即問題內容是由本地化語言呈現，以貼近Office使用者的操作習慣。

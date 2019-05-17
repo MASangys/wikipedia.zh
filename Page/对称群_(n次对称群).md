@@ -13,7 +13,7 @@ o *g*，在置换群的表示里简记作*fg*。
     令*X* = {1,...,*n*}，
 
 称*X*上的对称群是S<sub>*n*</sub>。
-*X*上所有的[排列构成了全部一一映射的集合](../Page/排列.md "wikilink")，因此，S<sub>*n*</sub>有[*n*\!个元素](../Page/阶乘.md "wikilink")。对*n*
+*X*上所有的[排列构成了全部一一映射的集合](https://zh.wikipedia.org/wiki/排列 "wikilink")，因此，S<sub>*n*</sub>有[*n*\!个元素](https://zh.wikipedia.org/wiki/阶乘 "wikilink")。对*n*
 \> 2，S<sub>*n*</sub>不是[阿贝尔群](../Page/阿贝尔群.md "wikilink")。当且仅当*n* ≤
 4时，S<sub>*n*</sub>是[可解群](../Page/可解群.md "wikilink")。对称群的子群称为[置换群](../Page/置换群.md "wikilink")。
 
@@ -37,7 +37,7 @@ o *g*，在置换群的表示里简记作*fg*。
     \(fg = f\circ g = (1\ 2\ 4)(3\ 5)=\begin{pmatrix} 1 & 2 & 3 & 4 & 5 \\ 2 & 4 & 5 & 1 & 3\end{pmatrix}\)
 
 容易证明长度为L
-=*k·m*的[轮换](../Page/对称群_\(n次对称群\)#轮换.md "wikilink")(或稱循環，如下節敘述)，它的*k*次方会分解为*k*个长度为*m*的轮换。比如(,
+=*k·m*的[轮换](https://zh.wikipedia.org/wiki/对称群_\(n次对称群\)#轮换 "wikilink")(或稱循環，如下節敘述)，它的*k*次方会分解为*k*个长度为*m*的轮换。比如(,
 )：
 
   -
@@ -61,14 +61,14 @@ o *g*，在置换群的表示里简记作*fg*。
   -
     sgn: S<sub>*n*</sub> → {+1,-1}
 
-是一个[群同态](../Page/群同态.md "wikilink")。({+1,-1}关于乘法构成群)，这个同态的同态[核是所有的偶置换](../Page/核.md "wikilink")，称作[n次交错群](../Page/交错群.md "wikilink")，记作A<sub>*n*</sub>。它是S<sub>*n*</sub>的[正规子群](../Page/正规子群.md "wikilink")，有*n*\!
+是一个[群同态](https://zh.wikipedia.org/wiki/群同态 "wikilink")。({+1,-1}关于乘法构成群)，这个同态的同态[核是所有的偶置换](https://zh.wikipedia.org/wiki/核 "wikilink")，称作[n次交错群](../Page/交错群.md "wikilink")，记作A<sub>*n*</sub>。它是S<sub>*n*</sub>的[正规子群](../Page/正规子群.md "wikilink")，有*n*\!
 / 2个元素。
 
 置换的正負號也可以定义为：
 
 \[\operatorname{sgn}(f)=(-1)^{n-O(n)}\]
 
-其中n-O(n)表示置换*f*的**[轮换指数](../Page/轮换指数.md "wikilink")**，O(n)表示置换*f*的**[轨道](../Page/轨道.md "wikilink")**（orbit）数。群S<sub>*n*</sub>是A<sub>*n*</sub>和由一個單一對換生成的任何子群的[半直積](../Page/半直積.md "wikilink")。
+其中n-O(n)表示置换*f*的**[轮换指数](https://zh.wikipedia.org/wiki/轮换指数 "wikilink")**，O(n)表示置换*f*的**[轨道](https://zh.wikipedia.org/wiki/轨道 "wikilink")**（orbit）数。群S<sub>*n*</sub>是A<sub>*n*</sub>和由一個單一對換生成的任何子群的[半直積](https://zh.wikipedia.org/wiki/半直積 "wikilink")。
 
 ## 轮换
 
@@ -91,13 +91,13 @@ S<sub>*n*</sub>的[共轭类是对于置换轮换表达的结构来说的](../Pa
 ## 凱萊定理
 
   -
-    凱萊定理：任意群G都与某个[变换群同构](../Page/变换群.md "wikilink")。
+    凱萊定理：任意群G都与某个[变换群同构](https://zh.wikipedia.org/wiki/变换群 "wikilink")。
 
 推论：任意有限群都与某个[置换群同构](../Page/置换群.md "wikilink")。
 
 ## 參見
 
-  - [楊對稱化子](../Page/楊對稱化子.md "wikilink")
+  - [楊對稱化子](https://zh.wikipedia.org/wiki/楊對稱化子 "wikilink")
 
 [Category:置换群](https://zh.wikipedia.org/wiki/Category:置换群 "wikilink")
 [Category:有限群](https://zh.wikipedia.org/wiki/Category:有限群 "wikilink")

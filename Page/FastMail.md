@@ -1,5 +1,5 @@
 **FastMail**一项由[电子邮件供应商](../Page/电子邮件.md "wikilink")[Messaging
-Engine提供的](../Page/Messaging_Engine.md "wikilink")[电子邮件服务](../Page/电子邮件.md "wikilink")，因最早提供免费[IMAP邮件服务而出名](../Page/IMAP.md "wikilink")。2010年，該公司被[Opera收購](../Page/Opera_Software.md "wikilink")。2013年9月26日，FastMail宣布從Opera分離，成為一家私人控股的獨立公司\[1\]。至今FastMail在国際上仍是最受欢迎的[IMAP邮件服务之一](../Page/IMAP.md "wikilink")，而在中国则受到[Gmail对](../Page/Gmail.md "wikilink")[IMAP的支持的冲击](../Page/IMAP.md "wikilink")。FastMail拥有数十个提供服务的域名。
+Engine提供的](https://zh.wikipedia.org/wiki/Messaging_Engine "wikilink")[电子邮件服务](../Page/电子邮件.md "wikilink")，因最早提供免费[IMAP邮件服务而出名](https://zh.wikipedia.org/wiki/IMAP "wikilink")。2010年，該公司被[Opera收購](https://zh.wikipedia.org/wiki/Opera_Software "wikilink")。2013年9月26日，FastMail宣布從Opera分離，成為一家私人控股的獨立公司\[1\]。至今FastMail在国際上仍是最受欢迎的[IMAP邮件服务之一](https://zh.wikipedia.org/wiki/IMAP "wikilink")，而在中国则受到[Gmail对](../Page/Gmail.md "wikilink")[IMAP的支持的冲击](https://zh.wikipedia.org/wiki/IMAP "wikilink")。FastMail拥有数十个提供服务的域名。
 
 在一項非正式的評比中，FastMail的安全性與[Gmail並列A級第二](../Page/Gmail.md "wikilink")，A級第一是[Mail.de](https://Mail.de)。A級的條件：除了User
 - Server間的傳輸用TLS 1.2加密之外，Server - Server的送信、收信也必須支援TLS

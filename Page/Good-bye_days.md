@@ -1,7 +1,8 @@
 『**Good-bye
 days**』是[日本唱作女歌手](../Page/日本.md "wikilink")[YUI的第五張單曲碟](../Page/YUI.md "wikilink")，於2006年6月14日所推出的單曲碟。
 本單曲碟為配合電影「[太陽之歌](../Page/太陽之歌.md "wikilink")」，以「YUI for 雨音薫」的名義推出。這是首張由
-[STUDIOSEVEN Recordings](../Page/STUDIOSEVEN_Recordings.md "wikilink")
+[STUDIOSEVEN
+Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")
 發行的單曲碟。簡介：實力創作女新人YUI去年以一曲「feel my
 soul」而備受注目。歌而優則演的她將會首次主演電影，與塚本高史合演純愛電影《太陽之歌》。電影講述患有[著色性乾皮症](../Page/著色性乾皮症.md "wikilink")（Xeroderma
 Pigmentosum，簡稱XP），不能被陽光照射的少女雨音薰與陽光男孩的愛情故事。由YUI主唱的主題曲「Good-bye
@@ -27,7 +28,7 @@ days」，更是在她拍攝時以電影的內容寫下的。
         作詞・作曲：YUI　編曲：
     <!-- end list -->
       - 收錄於首張獨立單曲「[It's happy line/I
-        know](../Page/It's_happy_line/I_know.md "wikilink")」。由於只曾在九州作限量發售，便響應歌迷請求重新收錄在此單曲中。
+        know](https://zh.wikipedia.org/wiki/It's_happy_line/I_know "wikilink")」。由於只曾在九州作限量發售，便響應歌迷請求重新收錄在此單曲中。
 4.  **Good-bye days～Instrumental～**
 
 ## 銷售紀錄
@@ -52,7 +53,7 @@ days」，更是在她拍攝時以電影的內容寫下的。
 
 </div>
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:YUI歌曲](https://zh.wikipedia.org/wiki/Category:YUI歌曲 "wikilink")
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")

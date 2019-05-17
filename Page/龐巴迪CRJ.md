@@ -1,9 +1,9 @@
 [Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg](https://zh.wikipedia.org/wiki/File:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_\(Brit_Air\)_-_F-GRJB_-_LEMD.jpg "fig:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg")的CRJ-100ER\]\]
-**龐巴迪CRJ**（即的縮寫，意为[加拿大區域客機](../Page/加拿大.md "wikilink")）系列客機，是[加拿大](../Page/加拿大.md "wikilink")[龐巴迪宇航公司所生產的](../Page/龐巴迪宇航公司.md "wikilink")[支線客機系列](../Page/支線客機.md "wikilink")，生產地位於[加拿大](../Page/加拿大.md "wikilink")，CRJ以及庞巴迪正在生产的[庞巴迪C系列的主要競爭對手為](../Page/庞巴迪C系列.md "wikilink")[巴西航空工業所生產的](../Page/巴西航空工業.md "wikilink")[ERJ-145](../Page/ERJ-145.md "wikilink")、[ERJ-190系列客機](../Page/ERJ-190.md "wikilink")。
+**龐巴迪CRJ**（即的縮寫，意为[加拿大區域客機](../Page/加拿大.md "wikilink")）系列客機，是[加拿大](../Page/加拿大.md "wikilink")[龐巴迪宇航公司所生產的](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")[支線客機系列](https://zh.wikipedia.org/wiki/支線客機 "wikilink")，生產地位於[加拿大](../Page/加拿大.md "wikilink")，CRJ以及庞巴迪正在生产的[庞巴迪C系列的主要競爭對手為](https://zh.wikipedia.org/wiki/庞巴迪C系列 "wikilink")[巴西航空工業所生產的](https://zh.wikipedia.org/wiki/巴西航空工業 "wikilink")[ERJ-145](https://zh.wikipedia.org/wiki/ERJ-145 "wikilink")、[ERJ-190系列客機](https://zh.wikipedia.org/wiki/ERJ-190 "wikilink")。
 
 ## 發展
 
-[龐巴迪宇航公司於](../Page/龐巴迪宇航公司.md "wikilink")1987年決定研發20-100座級的支線[客機](../Page/客機.md "wikilink")，其產品的飛行距離相對地較為短，載客量也較低，但能提供較密集的[航班](../Page/航班.md "wikilink")，這一點是一般大型客機做不到的。而新客機除了可以替換日本、歐洲的舊款飛機之外，在[中國](../Page/中國.md "wikilink")、印尼、印度等開發中的大國家有潛在的市場，尤其中國將需要大量支線客機\[1\]，2005年在中國已有51架CRJ系列飛機\[2\]。
+[龐巴迪宇航公司於](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")1987年決定研發20-100座級的支線[客機](https://zh.wikipedia.org/wiki/客機 "wikilink")，其產品的飛行距離相對地較為短，載客量也較低，但能提供較密集的[航班](https://zh.wikipedia.org/wiki/航班 "wikilink")，這一點是一般大型客機做不到的。而新客機除了可以替換日本、歐洲的舊款飛機之外，在[中國](../Page/中國.md "wikilink")、印尼、印度等開發中的大國家有潛在的市場，尤其中國將需要大量支線客機\[1\]，2005年在中國已有51架CRJ系列飛機\[2\]。
 
 ## 機型
 
@@ -16,9 +16,9 @@ CRJ-100和CRJ-200是50座級的支線噴氣飛機，也是龐巴迪宇航公司�
 
   - CRJ-100
 
-此機型發展自，在原機的基礎上增長6.10米，使用2台[通用電氣CF](../Page/通用電氣.md "wikilink")34-3A1高函道比[涡扇发动机](../Page/涡扇发动机.md "wikilink")。於1991年5月10日首飞，1992年7月31日获[加拿大頒發适航证书](../Page/加拿大.md "wikilink")，1993年获歐洲和美國頒發适航证书。\[3\]
+此機型發展自，在原機的基礎上增長6.10米，使用2台[通用電氣CF](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")34-3A1高函道比[涡扇发动机](https://zh.wikipedia.org/wiki/涡扇发动机 "wikilink")。於1991年5月10日首飞，1992年7月31日获[加拿大頒發适航证书](../Page/加拿大.md "wikilink")，1993年获歐洲和美國頒發适航证书。\[3\]
 
-該型飛機啟此客戶為[汉莎城際航空](../Page/汉莎城際航空.md "wikilink")，飛機於1992年10月19日交付。\[4\]
+該型飛機啟此客戶為[汉莎城際航空](https://zh.wikipedia.org/wiki/汉莎城際航空 "wikilink")，飛機於1992年10月19日交付。\[4\]
 
   - CRJ-200
 
@@ -32,7 +32,7 @@ CRJ-100和CRJ-200是50座級的支線噴氣飛機，也是龐巴迪宇航公司�
 
   - 挑戰者800/850
 
-CRJ-200的[公務機版本](../Page/公務機.md "wikilink")。
+CRJ-200的[公務機版本](https://zh.wikipedia.org/wiki/公務機 "wikilink")。
 
 ### CRJ-700系列
 
@@ -43,7 +43,7 @@ CRJ-700系列在CRJ-200的基础上，配备前缘缝翼和新的机身结构，
 
   - CRJ-701/702
 
-1999年首航，載客量為70-78人，續航力達3676公里，最高巡航速度達0.825馬赫（即473節，544英里每小時，875公里每小時），基本上是200型的延長版。龐巴迪宇航公司一共接到超過250個訂單。該型於1999年5月29日首飞，2000年1月26日交付給[法国](../Page/法国.md "wikilink")[不列特航空](../Page/不列特航空.md "wikilink")。\[10\]\[11\]
+1999年首航，載客量為70-78人，續航力達3676公里，最高巡航速度達0.825馬赫（即473節，544英里每小時，875公里每小時），基本上是200型的延長版。龐巴迪宇航公司一共接到超過250個訂單。該型於1999年5月29日首飞，2000年1月26日交付給[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[不列特航空](../Page/不列特航空.md "wikilink")。\[10\]\[11\]
 
   - CRJ-705
 
@@ -60,7 +60,7 @@ CRJ-900是在CRJ-700的基礎增長後的機型。\[14\]
 ### CRJ-1000系列
 
 [C-FRJX_CRJ_1000.jpg](https://zh.wikipedia.org/wiki/File:C-FRJX_CRJ_1000.jpg "fig:C-FRJX_CRJ_1000.jpg")
-CRJ-1000是一架載客量將超越100人的飛機，在2010年12月14日投入服務，目前是CRJ系列中最大、最新的成員。主要競爭型號為[ERJ-190系列](../Page/ERJ-170系列.md "wikilink")。
+CRJ-1000是一架載客量將超越100人的飛機，在2010年12月14日投入服務，目前是CRJ系列中最大、最新的成員。主要競爭型號為[ERJ-190系列](https://zh.wikipedia.org/wiki/ERJ-170系列 "wikilink")。
 
 ## 規格
 
@@ -320,7 +320,7 @@ LR：41.01千牛（9,220磅）</p></td>
 
 ## 空難事故
 
-  - 2004年11月21日，[中國東方航空](../Page/中國東方航空.md "wikilink")[5210號班機使用CRJ](../Page/中國東方航空5210號班機空難.md "wikilink")-200執行飛行任務，在[包頭機場起飛後不久墜毀在機場附近公園的湖中](../Page/包頭機場.md "wikilink")，機上55人全部罹難，同時導致地面2人死亡；事後[中國民用航空總局下令停飛同型號飛機](../Page/中國民用航空總局.md "wikilink")，一個月後批准複飛。该空难事故原因官方说法是由于尾翼结霜未清理，导致飞机失速，无法控制
+  - 2004年11月21日，[中國東方航空](https://zh.wikipedia.org/wiki/中國東方航空 "wikilink")[5210號班機使用CRJ](../Page/中國東方航空5210號班機空難.md "wikilink")-200執行飛行任務，在[包頭機場起飛後不久墜毀在機場附近公園的湖中](https://zh.wikipedia.org/wiki/包頭機場 "wikilink")，機上55人全部罹難，同時導致地面2人死亡；事後[中國民用航空總局下令停飛同型號飛機](https://zh.wikipedia.org/wiki/中國民用航空總局 "wikilink")，一個月後批准複飛。该空难事故原因官方说法是由于尾翼结霜未清理，导致飞机失速，无法控制
 
 ## 参考文献
 

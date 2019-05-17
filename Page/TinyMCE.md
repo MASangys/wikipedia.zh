@@ -1,16 +1,16 @@
 **TinyMCE**（亦称**Tiny Moxiecode Content
-Editor**）是一款遵循[LGPL授權协议](../Page/LGPL.md "wikilink")，以網頁介面為導向的HTML編輯器。
+Editor**）是一款遵循[LGPL授權协议](https://zh.wikipedia.org/wiki/LGPL "wikilink")，以網頁介面為導向的HTML編輯器。
 
 ## 軟體特色
 
-1.  [Javascript](../Page/Javascript.md "wikilink") +
-    [所見即所得](../Page/所見即所得.md "wikilink")
+1.  [Javascript](https://zh.wikipedia.org/wiki/Javascript "wikilink") +
+    [所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")
 2.  易於整合\[1\]
-3.  支援多種[浏览器](../Page/浏览器.md "wikilink")\[2\]
+3.  支援多種[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")\[2\]
 4.  多語系：
     1.  2.x.x版支援44種語系（包括简繁体中文）\[3\]
     2.  3.x.x版支援46種語系（包括简繁体中文）\[4\]
-5.  开发者可利用官方提供的[應用程式介面擴充功能](../Page/API.md "wikilink")。\[5\]
+5.  开发者可利用官方提供的[應用程式介面擴充功能](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
 6.  開源軟體。
 7.  Moxiecode社区对其提供官方技术支持。
 
@@ -28,7 +28,7 @@ TinyMCE包含了各种类型的插件\[6\]，雖然TinyMCE是一个用户端的�
   - [Ajax File
     Manager](http://www.phpletter.com/Our-Projects/Tinymce-Ajax-File-Manager-Project/)
   - [TinyFCK](http://p4a2.crealabsfoundation.org/tinyfck) -
-    結合[FCKeditor的图像管理器](../Page/FCKeditor.md "wikilink")
+    結合[FCKeditor的图像管理器](https://zh.wikipedia.org/wiki/FCKeditor "wikilink")
   - [TinyBrowser](https://web.archive.org/web/20090301063257/http://www.lunarvis.com/products/tinymcefilebrowserwithupload.php)
     - 支援-{zh-cn:多文件上传;
     zh-tw:多檔上傳}-的文件管理器（上传介面是[Flash的操作介面](../Page/Adobe_Flash.md "wikilink")）。
@@ -38,12 +38,12 @@ TinyMCE包含了各种类型的插件\[6\]，雖然TinyMCE是一个用户端的�
   - [iManager](https://web.archive.org/web/20090205053403/http://www.j-cons.com/news/more.php?id=159_0_1_0_C)（2005后不再升级）
   - [IMCE](http://drupal.org/project/imce/) - 用图片和文件的上传和浏览
 
-TinyMCE也提供了一个可选的压缩元件，这個外掛程式能有效减少脚本下载时间，加快脚本执行的速度。压缩元件支持[PHP](../Page/PHP.md "wikilink")、[ASPX](../Page/ASPX.md "wikilink")、[JSP和CFM](../Page/JSP.md "wikilink")。对于[Ruby
+TinyMCE也提供了一个可选的压缩元件，这個外掛程式能有效减少脚本下载时间，加快脚本执行的速度。压缩元件支持[PHP](../Page/PHP.md "wikilink")、[ASPX](https://zh.wikipedia.org/wiki/ASPX "wikilink")、[JSP和CFM](../Page/JSP.md "wikilink")。对于[Ruby
 on Rails也有第三方提供了一个压缩元件](../Page/Ruby_on_Rails.md "wikilink")。\[7\]
 
 ## 操作介面
 
-TinyMCE提供許多佈景主題與面板，供使用者選擇。默认的TinyMCE內含两种佈景主题：简单（simple）和高级（advanced），同时也为这两个主题分别提供两款皮肤。另外还有一个o2k7風格的银灰色主题，也可以从[TinyMCE在SourceForge的專案下载](../Page/:sourceforge:tracker/?group_id=103281&atid=738747.md "wikilink")。
+TinyMCE提供許多佈景主題與面板，供使用者選擇。默认的TinyMCE內含两种佈景主题：简单（simple）和高级（advanced），同时也为这两个主题分别提供两款皮肤。另外还有一个o2k7風格的银灰色主题，也可以从[TinyMCE在SourceForge的專案下载](https://zh.wikipedia.org/wiki/:sourceforge:tracker/?group_id=103281&atid=738747 "wikilink")。
 
 ## 参考资料
 
@@ -57,11 +57,11 @@ TinyMCE提供許多佈景主題與面板，供使用者選擇。默认的TinyMCE
   - [TinyMCE official documentation web
     site](http://wiki.moxiecode.com/)
   - [Sourceforge project
-    site](../Page/:sourceforge:projects/tinymce/.md "wikilink")
+    site](https://zh.wikipedia.org/wiki/:sourceforge:projects/tinymce/ "wikilink")
 
 ## 另见
 
-  - [FCKeditor](../Page/FCKeditor.md "wikilink")
+  - [FCKeditor](https://zh.wikipedia.org/wiki/FCKeditor "wikilink")
   - [Comparison table](http://geniisoft.com/showcase.nsf/WebEditors) -
     open source and commercial WYSIWYG web-based editors
   - [2006](http://www.standards-schmandards.com/2006/wysiwyg-editor-test/),

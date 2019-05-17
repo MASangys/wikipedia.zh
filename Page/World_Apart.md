@@ -1,9 +1,9 @@
 『**World Apart**』是[ASIAN KUNG-FU
-GENERATION的第](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")8張[單曲](../Page/單曲.md "wikilink")。
+GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説
 
-是單曲中首張獲得Oricon每週排行榜第1位的作品。在首張獲得Oricon第1位的專輯『[ソルファ](../Page/ソルファ.md "wikilink")（Sol-fa）』發售前後，樂迷發起「作風不同了」的聲音的時候，以初期的作風為藍本的作品。事實上，剛好是能為一個月之後發售的專輯『ファンクラブ（[樂迷俱樂部](../Page/樂迷俱樂部.md "wikilink")）』打頭陣的單曲。歌詞都是聯想著美國同時發生的多宗恐怖襲擊而寫的。另外，負責吉他的喜多建介因作曲的緣故而當了主唱的歌曲「嘘とワンダーランド（謊言與Wonderland）」也收錄在內。只限初回版附有貼紙。
+是單曲中首張獲得Oricon每週排行榜第1位的作品。在首張獲得Oricon第1位的專輯『[ソルファ](https://zh.wikipedia.org/wiki/ソルファ "wikilink")（Sol-fa）』發售前後，樂迷發起「作風不同了」的聲音的時候，以初期的作風為藍本的作品。事實上，剛好是能為一個月之後發售的專輯『ファンクラブ（[樂迷俱樂部](https://zh.wikipedia.org/wiki/樂迷俱樂部 "wikilink")）』打頭陣的單曲。歌詞都是聯想著美國同時發生的多宗恐怖襲擊而寫的。另外，負責吉他的喜多建介因作曲的緣故而當了主唱的歌曲「嘘とワンダーランド（謊言與Wonderland）」也收錄在內。只限初回版附有貼紙。
 
 ## 收錄曲
 

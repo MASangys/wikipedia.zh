@@ -5,11 +5,14 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
 
 此引擎改进了
 
-  - **[Pixel shader](../Page/Pixel_shader.md "wikilink")** 到3.0版本
-  - **[Vertex shader](../Page/Vertex_shader.md "wikilink")**到3.0版本
-  - **[法向映射](../Page/法向映射.md "wikilink")**
-  - **[视差映射](../Page/视差映射.md "wikilink")**
-  - **[T\&L](../Page/T&L.md "wikilink")**，使得模型可以更加复杂
+  - **[Pixel
+    shader](https://zh.wikipedia.org/wiki/Pixel_shader "wikilink")**
+    到3.0版本
+  - **[Vertex
+    shader](https://zh.wikipedia.org/wiki/Vertex_shader "wikilink")**到3.0版本
+  - **[法向映射](https://zh.wikipedia.org/wiki/法向映射 "wikilink")**
+  - **[视差映射](https://zh.wikipedia.org/wiki/视差映射 "wikilink")**
+  - **[T\&L](https://zh.wikipedia.org/wiki/T&L "wikilink")**，使得模型可以更加复杂
   - **细节构成**只有靠近时才描绘大舰船的细节。这是极其有效[细节层次构成方式](../Page/细节层次.md "wikilink")，允许数十万实时渲染
   - **Non-vertical turret axis**
   - **延伸动画支持**复杂控件动画支持
@@ -22,7 +25,7 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
   - **OpenGL** 完全支持
   - **Linux**和**Mac OS X**支持
   - **[OpenAL](../Page/OpenAL.md "wikilink")**方位音效
-  - **OGG**支持[Vorbis](../Page/Vorbis.md "wikilink")
+  - **OGG**支持[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")
 
 更新包高精度船只和纹理贴图。计划最终目标是创建一个后继引擎，并且保留使得FreeSpace2成功的游戏要素。
 
@@ -30,7 +33,8 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
 
 ### 独立作品
 
-不再需要FreeSpace2游戏数据就可以运行的： 通常是[免费软件](../Page/免费软件.md "wikilink")
+不再需要FreeSpace2游戏数据就可以运行的：
+通常是[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")
 
   - [The Babylon Project](http://babylon.hard-light.net/)
   - Beyond the Red Line - Battlestar Galactica 2004主題的遊戲
@@ -45,9 +49,9 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
 
 ## 其他
 
-  - [Vega Strike](../Page/Vega_Strike.md "wikilink")
+  - [Vega Strike](https://zh.wikipedia.org/wiki/Vega_Strike "wikilink")
     免费开源空间交易战斗游戏，引擎可用于商业
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 外部链接
 
@@ -65,10 +69,11 @@ Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../
   - *[Imperial
     Alliance](https://web.archive.org/web/20080914210754/http://ia.emperorshammer.net/home/)*
     Based on the *[X-Wing computer game
-    series](../Page/Star_Wars:_X-Wing_computer_game_series.md "wikilink")*
-    in the *[Star Wars](../Page/Star_Wars.md "wikilink")* universe
+    series](https://zh.wikipedia.org/wiki/Star_Wars:_X-Wing_computer_game_series "wikilink")*
+    in the *[Star
+    Wars](https://zh.wikipedia.org/wiki/Star_Wars "wikilink")* universe
   - *[Wing Commander Saga](http://www.wcsaga.com)* Based on the *[Wing
-    Commander](../Page/Wing_Commander_\(franchise\).md "wikilink")*
+    Commander](https://zh.wikipedia.org/wiki/Wing_Commander_\(franchise\) "wikilink")*
     universe
   - [*FreeSpace 2* Sector](http://www.sectorgame.com/f2s) Host to *Lost
     Souls* and *Twisted Infinities*

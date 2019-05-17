@@ -1,4 +1,4 @@
-《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](../Page/FlyingShine.md "wikilink")[成人游戏](../Page/成人游戏.md "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID發售](../Page/KID.md "wikilink")[PlayStation
+《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](https://zh.wikipedia.org/wiki/FlyingShine "wikilink")[成人游戏](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID發售](../Page/KID.md "wikilink")[PlayStation
 2版本](../Page/PlayStation_2.md "wikilink")《CROSS†CHANNEL ～To all
 people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPlus.md "wikilink")。\[3\]
 
@@ -12,7 +12,7 @@ people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPl
 
 ## 登場人物
 
-[声優的表示为](../Page/声優.md "wikilink")（PC版／PS2版）
+[声優的表示为](https://zh.wikipedia.org/wiki/声優 "wikilink")（PC版／PS2版）
 
   -
     二年級，本編的主人公，放送部成员。喜欢文字游戏的轻率者，悠闲、意外的天真，自称色情王和性骚扰王。对于自己的外貌感到非常敏感，非常美型但是自己却觉得非常醜。
@@ -20,13 +20,13 @@ people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPl
     声優：/
     一年級，放送部成员，和太一是好朋友。佐仓雾的搭配者，和佐仓雾一起被成为FLOWERS，天真烂漫、开朗的捲髮少女，总是保持着笑颜，是学校的优等生。
   -
-    声優：/[澤野冷果](../Page/澤野冷果.md "wikilink")
+    声優：/[澤野冷果](https://zh.wikipedia.org/wiki/澤野冷果 "wikilink")
     一年級，放送部成员。中性的少女，老实而沉默寡言，总是畏缩不前，害怕和生人交流，但是一旦开口后就喋喋不休，对敌方说出激烈的言辞。看上去威风凛凛的实际上比搭配者山辺美希还要容易受伤。
   -
-    声優：[鳩野比奈](../Page/鳩野比奈.md "wikilink")／
+    声優：[鳩野比奈](https://zh.wikipedia.org/wiki/鳩野比奈 "wikilink")／
     三年級，放送部部長，島友貴的姐姐(不同姓氏)。被人叫做みみみ前辈的时候会很讨厌，但是みみ前辈的话就好（意义不明）。個性温和，即使是对后辈也使用敬语，看上去很坚强，但实际上却柔弱。
   -
-    声優：[楠鈴音](../Page/楠鈴音.md "wikilink")／
+    声優：[楠鈴音](https://zh.wikipedia.org/wiki/楠鈴音 "wikilink")／
     二年級，太一的同班同学。性格固执的名门之女，过去和太一是恋人关系，但是被甩了之后开始敌视太一，自尊心高，由于在群青学院的一个人转入的笔试实验中失败，仍然否定着自身，穿着便服上学就是那个意思的表现，在太一接近她之前，一直在周围构筑着墙壁。
   -
     声優：/
@@ -35,21 +35,22 @@ people～》。\[2\]2012年11月22日由[WillPlus发行复刻版](../Page/WillPl
     声優：[理多](../Page/理多.md "wikilink")／[平井理子](../Page/平井理子.md "wikilink")
     乘坐自行车屡次在太一面前出现的謎之少女。虽然有谜团但是言谈好胜活跃，因此謎的气氛薄弱。
   -
-    声優：[牛久京也](../Page/牛久京也.md "wikilink")／[山口勝平](../Page/山口勝平.md "wikilink")
+    声優：[牛久京也](https://zh.wikipedia.org/wiki/牛久京也 "wikilink")／[山口勝平](../Page/山口勝平.md "wikilink")
     二年級，太一的朋友，放送部員(原来在篮球部)，是宮澄見里的親弟弟。是个诚实的性格稳重的少年，有个非常可爱的女朋友，和太一等三人约好了毕业以后去风俗店，现在还是童贞，非常重视友情。
   -
-    声優：[十文字隼人](../Page/十文字隼人.md "wikilink")／
+    声優：[十文字隼人](https://zh.wikipedia.org/wiki/十文字隼人 "wikilink")／
     二年級，太一的同班同學以及朋友，放送部成员。是个游手好闲的人，性格温厚，由于是被娇惯着养大有钱人的少爷，因此常识性缺乏，总是采取破天荒的行动，但是没有恶意，很缺乏斗争心和协调性，有着突发性的流浪癖好。
 
 ## 制作人员
 
   - 脚本：[田中羅密歐](../Page/田中羅密歐.md "wikilink")
-  - 原画：[松龍](../Page/松龍.md "wikilink")
-  - 音樂：[Funczion SOUNDS](../Page/Funczion_SOUNDS.md "wikilink")
+  - 原画：[松龍](https://zh.wikipedia.org/wiki/松龍 "wikilink")
+  - 音樂：[Funczion
+    SOUNDS](https://zh.wikipedia.org/wiki/Funczion_SOUNDS "wikilink")
       - 片尾曲：CROSSING
           - 作詞：田中羅密歐
-          - 作曲：[Funczion](../Page/Funczion.md "wikilink")
-          - 歌：[Marica](../Page/Marica.md "wikilink")
+          - 作曲：[Funczion](https://zh.wikipedia.org/wiki/Funczion "wikilink")
+          - 歌：[Marica](https://zh.wikipedia.org/wiki/Marica "wikilink")
 
 ## Nanaca Crash
 

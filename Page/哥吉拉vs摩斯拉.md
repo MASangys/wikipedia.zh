@@ -1,4 +1,4 @@
-《**哥吉拉vs魔斯拉**》（日文原名：**ゴジラvsモスラ**）是1992年12月12日上映的[日本](../Page/日本.md "wikilink")[電影](../Page/電影.md "wikilink")、為[哥吉拉系列電影的第](../Page/哥吉拉系列電影.md "wikilink")19部作品，日本觀眾人數約420萬人，日本票房約45億，片商實得盈利為22億2000萬日圓，是1992年日本電影片商實收第一名。本片在台灣及香港的譯名分別為「蝶龍魔斯拉」、「哥斯拉之龍戰四海」。
+《**哥吉拉vs魔斯拉**》（日文原名：**ゴジラvsモスラ**）是1992年12月12日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、為[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")19部作品，日本觀眾人數約420萬人，日本票房約45億，片商實得盈利為22億2000萬日圓，是1992年日本電影片商實收第一名。本片在台灣及香港的譯名分別為「蝶龍魔斯拉」、「哥斯拉之龍戰四海」。
 
 ## 劇情概要
 
@@ -11,39 +11,39 @@
 ## 登場怪獸
 
   - [哥斯拉](../Page/哥斯拉.md "wikilink")
-  - [魔斯拉](../Page/魔斯拉.md "wikilink")（幼虫、成虫）
-  - [巴特拉](../Page/巴特拉.md "wikilink")（幼虫、成虫）
+  - [魔斯拉](https://zh.wikipedia.org/wiki/魔斯拉 "wikilink")（幼虫、成虫）
+  - [巴特拉](https://zh.wikipedia.org/wiki/巴特拉 "wikilink")（幼虫、成虫）
 
 ## 製作人員
 
 ### 本編
 
   - 製作總指揮：[田中友幸](../Page/田中友幸.md "wikilink")
-  - 原案、劇本：[大森一樹](../Page/大森一樹.md "wikilink")
+  - 原案、劇本：[大森一樹](https://zh.wikipedia.org/wiki/大森一樹 "wikilink")
   - 音樂監督：[伊福部昭](../Page/伊福部昭.md "wikilink")
-  - 導演：[大河原孝夫](../Page/大河原孝夫.md "wikilink")
+  - 導演：[大河原孝夫](https://zh.wikipedia.org/wiki/大河原孝夫 "wikilink")
 
 ### 特殊技術
 
   - 特技導演：[川北紘一](../Page/川北紘一.md "wikilink")
-  - 哥斯拉：[薩摩劍八郎](../Page/薩摩劍八郎.md "wikilink")
-  - 巴特拉幼虫：[破李拳龍](../Page/破李拳龍.md "wikilink")
+  - 哥斯拉：[薩摩劍八郎](https://zh.wikipedia.org/wiki/薩摩劍八郎 "wikilink")
+  - 巴特拉幼虫：[破李拳龍](https://zh.wikipedia.org/wiki/破李拳龍 "wikilink")
 
 ## 演員
 
-  - 藤戶拓也：[別所哲也](../Page/別所哲也.md "wikilink")
+  - 藤戶拓也：[別所哲也](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")
   - 手塚雅子：[小林聰美](../Page/小林聰美.md "wikilink")
   - 三枝未希：[小高惠美](../Page/小高惠美.md "wikilink")
-  - 安東健二：[村田雄浩](../Page/村田雄浩.md "wikilink")
-  - コスモス：[今村惠子](../Page/今村惠子.md "wikilink")、[大澤さやか](../Page/大澤さやか.md "wikilink")
-  - 手塚みどり：[米澤史織](../Page/米澤史織.md "wikilink")
+  - 安東健二：[村田雄浩](https://zh.wikipedia.org/wiki/村田雄浩 "wikilink")
+  - コスモス：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
+  - 手塚みどり：[米澤史織](https://zh.wikipedia.org/wiki/米澤史織 "wikilink")
   - 船長：[大和田伸也](../Page/大和田伸也.md "wikilink")
-  - 友兼剛史：[大竹まこと](../Page/大竹まこと.md "wikilink")
-  - 大前實：[上田耕一](../Page/上田耕一.md "wikilink")
+  - 友兼剛史：[大竹まこと](https://zh.wikipedia.org/wiki/大竹まこと "wikilink")
+  - 大前實：[上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")
   - 土橋龍三：[小林昭二](../Page/小林昭二.md "wikilink")
   - 深澤真由美：[田中好子](../Page/田中好子.md "wikilink")
-  - 深澤重樹：[篠田三郎](../Page/篠田三郎.md "wikilink")
-  - 南野丈二：[寶田明](../Page/寶田明.md "wikilink")
+  - 深澤重樹：[篠田三郎](https://zh.wikipedia.org/wiki/篠田三郎 "wikilink")
+  - 南野丈二：[寶田明](https://zh.wikipedia.org/wiki/寶田明 "wikilink")
 
 ## 參考資料
 

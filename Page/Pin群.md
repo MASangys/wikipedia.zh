@@ -1,9 +1,10 @@
 [数学中](../Page/数学.md "wikilink")，**Pin
-群**是一个[二次型空间相伴的](../Page/二次型.md "wikilink")[克利福德代数的一个子群](../Page/克利福德代数.md "wikilink")。它有一个到[正交群的](../Page/正交群.md "wikilink")
-2 对 1 映射，就像 [Spin 群映到特殊正交群一样](../Page/Spin_群.md "wikilink")。
+群**是一个[二次型空间相伴的](../Page/二次型.md "wikilink")[克利福德代数的一个子群](https://zh.wikipedia.org/wiki/克利福德代数 "wikilink")。它有一个到[正交群的](../Page/正交群.md "wikilink")
+2 对 1 映射，就像 [Spin
+群映到特殊正交群一样](https://zh.wikipedia.org/wiki/Spin_群 "wikilink")。
 
 从 Pin
-群到正交群的映射**不是**满的也不是[万有覆叠空间](../Page/万有覆叠空间.md "wikilink")，但对定二次型，两者都正确。
+群到正交群的映射**不是**满的也不是[万有覆叠空间](https://zh.wikipedia.org/wiki/万有覆叠空间 "wikilink")，但对定二次型，两者都正确。
 
 ## 一般定义
 
@@ -22,14 +23,14 @@
 它们都是到 \(O(n) = O(n,0) = O(0,n)\) 的满射。
 
 与之对比，我们有同构 \(\mbox{Spin}(n,0) \cong \mbox{Spin}(0,n)\)
-且他们都是[特殊正交群](../Page/特殊正交群.md "wikilink") SO(*n*)
-惟一的[万有覆叠](../Page/万有覆叠.md "wikilink")。
+且他们都是[特殊正交群](https://zh.wikipedia.org/wiki/特殊正交群 "wikilink")
+SO(*n*) 惟一的[万有覆叠](https://zh.wikipedia.org/wiki/万有覆叠 "wikilink")。
 
 ## 不定形式
 
 ## 作为拓扑空间
 
-任何[连通](../Page/连通空间.md "wikilink")[拓扑群在拓扑意义上有惟一的万有覆叠空间](../Page/拓扑群.md "wikilink")，这个空间有惟一的群结构作为[基本群的](../Page/基本群.md "wikilink")[中心扩张](../Page/中心扩张.md "wikilink")。对一个不连通拓扑空间，含单位元的分支有一个惟一的万有覆叠，然后在其他分支作为拓扑空间可取同一个覆叠（这是单位分支的[主齐性空间](../Page/主齐性空间.md "wikilink")），但是其它分支的群结构一般不是惟一的。
+任何[连通](../Page/连通空间.md "wikilink")[拓扑群在拓扑意义上有惟一的万有覆叠空间](../Page/拓扑群.md "wikilink")，这个空间有惟一的群结构作为[基本群的](../Page/基本群.md "wikilink")[中心扩张](https://zh.wikipedia.org/wiki/中心扩张 "wikilink")。对一个不连通拓扑空间，含单位元的分支有一个惟一的万有覆叠，然后在其他分支作为拓扑空间可取同一个覆叠（这是单位分支的[主齐性空间](../Page/主齐性空间.md "wikilink")），但是其它分支的群结构一般不是惟一的。
 
 Pin 和 Spin 群是和正交群和特殊正交群关联的独特的拓扑空间，由 Clifford
 代数中得出：存在其他类似的群，对于于其他分支的其他二重覆叠或者其他群结构，但是他们不叫做
@@ -63,11 +64,11 @@ Pin 或 Spin 群，研究得也少。
 ### 低维数
 
 在 2 维，\(\mbox{Pin}_+\) 与 \(\mbox{Pin}_-\) 的区别反映了一个正 2*n*
-边形的[二面体群和](../Page/二面体群.md "wikilink")[循环群](../Page/循环群.md "wikilink")
+边形的[二面体群和](https://zh.wikipedia.org/wiki/二面体群 "wikilink")[循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink")
 \(C_{2n}\) 的区别。
 
 在 \(\mbox{Pin}_+\) 中，一个正 2*n*
-边形的[二面体群的原像](../Page/二面体群.md "wikilink")，视为子群
+边形的[二面体群的原像](https://zh.wikipedia.org/wiki/二面体群 "wikilink")，视为子群
 \(\mbox{Dih}_n < O(2)\)，是 2*n* 边形的二面体群
 \(\mbox{Dih}_{2n} < \mbox{Pin}_+(2)\)；然而在 \(\mbox{Pin}_-\) 中二面体群的原像是循环群
 \(\mbox{Dic}_n < \mbox{Pin}_-(2)\)
@@ -86,7 +87,7 @@ Pin 或 Spin 群，研究得也少。
 [Spin(p,q)](../Page/广义正交群.md "wikilink") 有八种不同的二重覆叠，对
 \(p,q\neq 0\)，这对应于用 \(C_2\) 中心扩张（中心不是 \(C_2 \times C_2\) 就是
 \(C_4\)）。只有其中两个称为 Pin 群，他们可以将 [Clifford
-代数作为一个表示](../Page/Clifford_代数.md "wikilink")。他们分别称为
+代数作为一个表示](https://zh.wikipedia.org/wiki/Clifford_代数 "wikilink")。他们分别称为
 *Pin*(*p*,*q*) 和 *Pin*(*q*,*p*)。
 
 ## 命名
@@ -95,7 +96,7 @@ Pin 或 Spin 群，研究得也少。
 [迈克尔·阿蒂亚](../Page/迈克尔·阿蒂亚.md "wikilink")、[拉乌尔·博特](../Page/拉乌尔·博特.md "wikilink")、A.
 Shapiro： *Clifford modules*（Topology 3, suppl. 1 (1964), pp. 3-38, on
 page 3, line 17）一文中引入，他们说“这个笑话归于 [J-P.
-Serre](../Page/让-皮埃尔·塞尔.md "wikilink")”。这是“Spin”的[逆构词法](../Page/逆构词法.md "wikilink")：Pin
+Serre](https://zh.wikipedia.org/wiki/让-皮埃尔·塞尔 "wikilink")”。这是“Spin”的[逆构词法](https://zh.wikipedia.org/wiki/逆构词法 "wikilink")：Pin
 之于 Spin 就像 O(*n*) 之于
 SO(*n*)，从而从“Spin”中去掉“S”得到“Pin”。进一步，词“Pin”的法语发音和一个粗痞话相同，这暗示了这个名称的起源于（或被归于）塞尔。
 

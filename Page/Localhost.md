@@ -1,4 +1,4 @@
-**localhost**在[计算机网络中是一个](../Page/计算机网络.md "wikilink")[主机名称](../Page/主机.md "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](../Page/本地环回.md "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
+**localhost**在[计算机网络中是一个](../Page/计算机网络.md "wikilink")[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/本地环回 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
 
 ## 本地環迴
 
@@ -9,7 +9,7 @@ localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md
 ## 名称解析
 
 [IPv4](../Page/IPv4.md "wikilink") 网络标准将整个 127.0.0.0/8
-地址块订为[保留地址](../Page/保留IP地址.md "wikilink")，供本地环回使用，整个地址块内有超过1600万个IP地址。所以，发送到这些地址（127.0.0.1
+地址块订为[保留地址](https://zh.wikipedia.org/wiki/保留IP地址 "wikilink")，供本地环回使用，整个地址块内有超过1600万个IP地址。所以，发送到这些地址（127.0.0.1
 到 127.255.255.255）的所有数据包都会返回本机。 地址 127.0.0.1 是 IPv4 环回的常用标准地址;
 其余地址并不是所有的操作系统都支持（多数人也不知道有这些地址）。但是，使用127.0.0.1/8内的不同地址，就可以在本机上设置侦听相同端口的多个服务器。
 [IPv6](../Page/IPv6.md "wikilink") 标准只分配了一个本地环回地址:\[::1\]。
@@ -19,7 +19,7 @@ localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md
     127.0.0.1    localhost
     ::1          localhost
 
-本地主机名也可以由 [DNS](../Page/DNS.md "wikilink")
+本地主机名也可以由 [DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")
 服务器解析，但这一主机名的解析请求，应在本地处理，而非发送到远程服务器。
 
 除了映射到环回地址（127.0.0.1 和 ::1）之外，localhost 还可以映射到其他 IPv4
@@ -28,7 +28,7 @@ localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md
 中为localhost这个主机名设置映射地址时，假如新设置的映射地址并不在原本指定的映射地址范围内，所作映射不一定会生效，因为应用程序内部可能已对localhost进行映射操作。
 
 在[域名系统中](../Page/域名.md "wikilink")，localhost
-被留作[顶级域名](../Page/顶级域名.md "wikilink")，最初的目的，是要被留出以避免与用于回送目的的主机名混淆。IETF
+被留作[顶级域名](https://zh.wikipedia.org/wiki/顶级域名 "wikilink")，最初的目的，是要被留出以避免与用于回送目的的主机名混淆。IETF
 标准禁止域名注册商分配 localhost 名称。\[2\]
 
 ## IETF 标准
@@ -54,8 +54,9 @@ IPv4 环回地址由 IETF 特殊用途 IPv4 地址标准（RFC 5735）在 IPv4 �
 
 ## 數據包處理
 
-任何發往環迴地址的數據包，其處理都在 [TCP/IP](../Page/TCP/IP.md "wikilink")
-協定疊的[链路层中實現的](../Page/数据链路层.md "wikilink")。這些數據包不會交由[網路卡](../Page/網路卡.md "wikilink")（NIC）或者裝置驅動程式處理，既不應在電腦系統以外出現，也不可經[路由器轉發](../Page/路由器.md "wikilink")。如此一來，電腦上即使沒有實體網路卡，也可進行軟體測試或者運行本機服務。
+任何發往環迴地址的數據包，其處理都在
+[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")
+協定疊的[链路层中實現的](../Page/数据链路层.md "wikilink")。這些數據包不會交由[網路卡](https://zh.wikipedia.org/wiki/網路卡 "wikilink")（NIC）或者裝置驅動程式處理，既不應在電腦系統以外出現，也不可經[路由器轉發](../Page/路由器.md "wikilink")。如此一來，電腦上即使沒有實體網路卡，也可進行軟體測試或者運行本機服務。
 
 环回数据包与其他任何通过 TCP/IP
 协议栈的数据包仅通过寻址到的特殊IP地址进行区分。因此，最终接收到的服务将根据指定的目的地进行响应。例如，HTTP服务可以将发往127.0.0.99:80
@@ -78,7 +79,7 @@ MySQL 数据库的版本区分使用主机名 localhost 与使用地址 127.0.0.
 ## 另见
 
   - [专用网络](../Page/专用网络.md "wikilink")
-  - [保留IP位址](../Page/保留IP位址.md "wikilink")
+  - [保留IP位址](https://zh.wikipedia.org/wiki/保留IP位址 "wikilink")
 
 ## 参见
 

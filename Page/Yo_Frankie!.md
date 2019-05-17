@@ -1,7 +1,7 @@
 **鼯鼠弗兰基**（，代号
-**Apricot**）是一个[开源](../Page/开源.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，由Blender
+**Apricot**）是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，由Blender
 Institute（是[Blender
-Foundation的一部分](../Page/Blender_Foundation.md "wikilink")）领导开发，原计划于2008年8月放出\[1\]，但推迟了3个月，又到同年12月公布了[SVN地址](../Page/Subversion.md "wikilink")，提供下载（http和P2P）。角色主要来源于[Big
+Foundation的一部分](https://zh.wikipedia.org/wiki/Blender_Foundation "wikilink")）领导开发，原计划于2008年8月放出\[1\]，但推迟了3个月，又到同年12月公布了[SVN地址](../Page/Subversion.md "wikilink")，提供下载（http和P2P）。角色主要来源于[Big
 Buck
 Bunny](../Page/Big_Buck_Bunny.md "wikilink")。作为一个[自由软件](../Page/自由软件.md "wikilink")，它使用了Blender和Crystal
 Space两种引擎，但后者不支持Mac OS
@@ -9,7 +9,7 @@ X。\[2\]2009年2月，开发组通过公开一项有奖励的关卡创作竞赛
 
 ## 游戏特性
 
-这个游戏本身也是对[Blender开发的一种促进](../Page/Blender.md "wikilink")，最终的[3D建模](../Page/3D建模.md "wikilink")，动画效果，关卡设计全依赖于**Blender**。这个游戏也可以用[Crystal
+这个游戏本身也是对[Blender开发的一种促进](../Page/Blender.md "wikilink")，最终的[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")，动画效果，关卡设计全依赖于**Blender**。这个游戏也可以用[Crystal
 Space渲染](../Page/Crystal_Space.md "wikilink")，使用
 [Python作为脚本语言](../Page/Python.md "wikilink")\[4\]。
 
@@ -24,9 +24,10 @@ Bunny裡的反派](../Page/Big_Buck_Bunny.md "wikilink")。影片裡，Frank和�
 
 ## 参见
 
-  - [Elephants Dream](../Page/Elephants_Dream.md "wikilink")
+  - [Elephants
+    Dream](https://zh.wikipedia.org/wiki/Elephants_Dream "wikilink")
   - [Big Buck Bunny](../Page/Big_Buck_Bunny.md "wikilink")
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

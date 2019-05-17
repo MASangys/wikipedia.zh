@@ -1,5 +1,5 @@
 《**Dragon
-Crisis\!**》（）是[城崎火也撰寫](../Page/城崎火也.md "wikilink")，[亞方逸樹插畫的](../Page/亞方逸樹.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[集英社](../Page/集英社.md "wikilink")[Super
+Crisis\!**》（）是[城崎火也撰寫](https://zh.wikipedia.org/wiki/城崎火也 "wikilink")，[亞方逸樹插畫的](https://zh.wikipedia.org/wiki/亞方逸樹 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[集英社](../Page/集英社.md "wikilink")[Super
 Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。中文版由[青文出版社代理](../Page/青文出版社.md "wikilink")。
 於2009年3月25日由[Frontier
 Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2011年1月10日開始播出，3月28日播放完畢，全12話。
@@ -72,7 +72,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
     在龍司破壞Ice Rage將他從詛咒中救出之後便與龍司等人成為好友。
     第四卷被不明敵人襲擊，為了不被詛咒物控制而全力攻擊了自己，受了重傷。
       -
-        大型劍，S級遺物、詛咒物品，由[愛丁堡的教會保管](../Page/愛丁堡.md "wikilink")。不只威力強大，還能夠凍結被砍中的對象。從前勇者打倒龍後所留下的劍，實際上是白龍的寶劍。打倒龍的勇者為瑪露卡的父親。傳說裡的龍是在戀人被殺後，在盛怒之下失去理智的叔父。原為避免混亂的處置，不過被當成錯誤的故事傳承下來。
+        大型劍，S級遺物、詛咒物品，由[愛丁堡的教會保管](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")。不只威力強大，還能夠凍結被砍中的對象。從前勇者打倒龍後所留下的劍，實際上是白龍的寶劍。打倒龍的勇者為瑪露卡的父親。傳說裡的龍是在戀人被殺後，在盛怒之下失去理智的叔父。原為避免混亂的處置，不過被當成錯誤的故事傳承下來。
         劍中充滿瑪露卡叔父的怨念，會讓使用者兇暴化。喬治也受到控制而攻擊龍司。最後被龍司以龍息之痕破壞。
 
 <!-- end list -->
@@ -178,7 +178,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <!-- end list -->
 
   -
-    負責保護、管理、研究世界遺物的組織。本部位於[美國](../Page/美國.md "wikilink")[紐約](../Page/紐約.md "wikilink")，並在全球的各大城市設有分部。
+    負責保護、管理、研究世界遺物的組織。本部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")，並在全球的各大城市設有分部。
 
 <!-- end list -->
 
@@ -290,11 +290,12 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
 ### 制作人员
 
-  - 原作 - 城崎火也（集英社[Super Dash文库刊](../Page/Super_Dash文库.md "wikilink")）
+  - 原作 - 城崎火也（集英社[Super
+    Dash文库刊](https://zh.wikipedia.org/wiki/Super_Dash文库 "wikilink")）
   - 插画 - 亚方逸树
   - 导演 - 橘秀树
-  - 系列构成 - [仓田英之](../Page/仓田英之.md "wikilink")
-  - 人物设计 - [石浜真史](../Page/石浜真史.md "wikilink")
+  - 系列构成 - [仓田英之](https://zh.wikipedia.org/wiki/仓田英之 "wikilink")
+  - 人物设计 - [石浜真史](https://zh.wikipedia.org/wiki/石浜真史 "wikilink")
   - 道具设计 - 森崎贞
   - 美术监督 - 伊东和宏
   - 色彩设计 - もちだたけし
@@ -314,8 +315,8 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
   -
 
       -
-        作詞・作曲 - [清竜人](../Page/清竜人.md "wikilink") / 編曲 -
-        [高橋剛](../Page/高橋剛.md "wikilink") / 歌 -
+        作詞・作曲 - [清竜人](https://zh.wikipedia.org/wiki/清竜人 "wikilink") / 編曲
+        - [高橋剛](../Page/高橋剛.md "wikilink") / 歌 -
         [堀江由衣](../Page/堀江由衣.md "wikilink")
 
   - 片尾曲
@@ -326,8 +327,9 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 
       -
         作詞 - 村野直球 / 作曲 -
-        [前山田健一](../Page/前山田健一.md "wikilink")・[大隅知宇](../Page/大隅知宇.md "wikilink")
-        / 編曲 - NARASAKI / 歌 - [桃色幸运草](../Page/桃色幸运草.md "wikilink")
+        [前山田健一](../Page/前山田健一.md "wikilink")・[大隅知宇](https://zh.wikipedia.org/wiki/大隅知宇 "wikilink")
+        / 編曲 - NARASAKI / 歌 -
+        [桃色幸运草](https://zh.wikipedia.org/wiki/桃色幸运草 "wikilink")
 
 ### 各话目录
 
@@ -406,7 +408,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <td><p>第七話</p></td>
 <td></td>
 <td><p>狼群們的真相</p></td>
-<td><p><a href="../Page/福田紀之.md" title="wikilink">福田紀之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福田紀之" title="wikilink">福田紀之</a></p></td>
 <td><p>小林浩輔</p></td>
 <td><p>福田紀之<br />
 筆坂明規</p></td>
@@ -426,8 +428,8 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <td><p>第九話</p></td>
 <td></td>
 <td><p>真實之鏡</p></td>
-<td><p><a href="../Page/城崎火也.md" title="wikilink">城崎火也</a></p></td>
-<td><p><a href="../Page/松下之宏.md" title="wikilink">松下之宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/城崎火也" title="wikilink">城崎火也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松下之宏" title="wikilink">松下之宏</a></p></td>
 <td><p>佐藤光敏</p></td>
 <td><p>稻田真樹<br />
 龜谷響子</p></td>
@@ -473,40 +475,40 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <th><p>播放地区</p></th>
 <th><p>播放电视台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放时间（<a href="../Page/UTC+9.md" title="wikilink">UTC+9</a>）</p></th>
+<th><p>播放时间（<a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">UTC+9</a>）</p></th>
 <th><p>所属电视网</p></th>
 <th><p>备考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/千叶县.md" title="wikilink">千叶县</a></p></td>
-<td><p><a href="../Page/千叶电视台.md" title="wikilink">千叶电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千叶县" title="wikilink">千叶县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千叶电视台" title="wikilink">千叶电视台</a></p></td>
 <td><p>2011年1月10日 - 3月28日</p></td>
 <td><p>星期一 25时30分 - 26时00分</p></td>
-<td><p><a href="../Page/独立UHF局.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/栃木县.md" title="wikilink">栃木县</a></p></td>
-<td><p><a href="../Page/栃木电视台.md" title="wikilink">栃木电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/栃木县" title="wikilink">栃木县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/栃木电视台" title="wikilink">栃木电视台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/近畿广域圈.md" title="wikilink">近畿广域圈</a></p></td>
-<td><p><a href="../Page/读卖电视台.md" title="wikilink">读卖电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿广域圈" title="wikilink">近畿广域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/读卖电视台" title="wikilink">读卖电视台</a></p></td>
 <td><p>星期一 25时44分 - 26时14分</p></td>
-<td><p><a href="../Page/日本电视系.md" title="wikilink">日本电视系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本电视系" title="wikilink">日本电视系</a></p></td>
 <td><p>制作委员会参加<br />
 「」第1部</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/神奈川县.md" title="wikilink">神奈川县</a></p></td>
-<td><p><a href="../Page/神奈川电视台.md" title="wikilink">神奈川电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川电视台" title="wikilink">神奈川电视台</a></p></td>
 <td><p>星期一 25时45分 - 26时15分</p></td>
 <td><p>独立UHF局</p></td>
 <td></td>
@@ -514,31 +516,31 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/Kids電視台.md" title="wikilink">Kids電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kids電視台" title="wikilink">Kids電視台</a></p></td>
 <td><p>2011年1月11日 - 3月29日</p></td>
 <td><p>星期二 24時00分 - 24時30分</p></td>
 <td><p><a href="../Page/卫星电视.md" title="wikilink">卫星电视</a></p></td>
 <td><p>製作委員会参加，有重播</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/东京都.md" title="wikilink">东京都</a></p></td>
-<td><p><a href="../Page/东京都会电视台.md" title="wikilink">东京都会电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">东京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京都会电视台" title="wikilink">东京都会电视台</a></p></td>
 <td><p>星期二 26时00分 - 26时30分</p></td>
 <td><p>|独立UHF局</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中京广域圈.md" title="wikilink">中京广域圈</a></p></td>
-<td><p><a href="../Page/中京电视台.md" title="wikilink">中京电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京广域圈" title="wikilink">中京广域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京电视台" title="wikilink">中京电视台</a></p></td>
 <td><p>星期二 26时44分 - 27时14分</p></td>
 <td><p>日本电视系</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/埼玉县.md" title="wikilink">埼玉县</a></p></td>
-<td><p><a href="../Page/埼玉电视台.md" title="wikilink">埼玉电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埼玉县" title="wikilink">埼玉县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埼玉电视台" title="wikilink">埼玉电视台</a></p></td>
 <td><p>2011年1月12日 - 3月30日</p></td>
 <td><p>星期三 26:00 - 26:30</p></td>
 <td><p>独立UHF局</p></td>
@@ -550,7 +552,7 @@ Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2
 <td><p>2016年8月28日 - 9月8日[1]</p></td>
 <td><p>每日19:30－20:00</p></td>
 <td><p><a href="../Page/中華電信MOD.md" title="wikilink">中華電信MOD</a></p></td>
-<td><p><a href="../Page/UTC+8.md" title="wikilink">UTC+8</a>，有重播時段</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>，有重播時段</p></td>
 </tr>
 </tbody>
 </table>

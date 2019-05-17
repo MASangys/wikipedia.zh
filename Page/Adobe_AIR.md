@@ -1,8 +1,8 @@
 **Adobe AIR**（AIR＝**Adobe Integrated
-Runtime**），开发代号為Apollo\[1\]，是一個跨作業系統[運行環境](../Page/運行環境.md "wikilink")，用來建造[RIA](../Page/丰富互联网应用程序.md "wikilink")，使用[Adobe
-Animate](../Page/Adobe_Animate.md "wikilink")、[Flex](../Page/Adobe_Flex.md "wikilink")、[HTML與](../Page/HTML.md "wikilink")[AJAX](../Page/AJAX.md "wikilink")，可能部署為桌面應用程式。
+Runtime**），开发代号為Apollo\[1\]，是一個跨作業系統[運行環境](https://zh.wikipedia.org/wiki/運行環境 "wikilink")，用來建造[RIA](../Page/丰富互联网应用程序.md "wikilink")，使用[Adobe
+Animate](../Page/Adobe_Animate.md "wikilink")、[Flex](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")、[HTML與](../Page/HTML.md "wikilink")[AJAX](../Page/AJAX.md "wikilink")，可能部署為桌面應用程式。
 
-AIR是Adobe針對網路與桌面應用的結合所開發出來的技術，可以不必經由瀏覽器而對網路上的雲端程式做控制，也由於這是Adobe所開發的技術，因此能很順利的與Adobe旗下的[Photoshop等應用程式來進行開發](../Page/Photoshop.md "wikilink")。
+AIR是Adobe針對網路與桌面應用的結合所開發出來的技術，可以不必經由瀏覽器而對網路上的雲端程式做控制，也由於這是Adobe所開發的技術，因此能很順利的與Adobe旗下的[Photoshop等應用程式來進行開發](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。
 
 ## 版本歷史
 
@@ -52,8 +52,8 @@ AIR是Adobe針對網路與桌面應用的結合所開發出來的技術，可以
 
 ## 特色
 
-  - 跨平台的特性：目前AIR已經可以直接支持[Windows](../Page/Windows.md "wikilink")、[OS
-    X](../Page/OS_X.md "wikilink")、[IOS及](../Page/IOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")。
+  - 跨平台的特性：目前AIR已經可以直接支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[OS
+    X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[IOS及](../Page/IOS.md "wikilink")[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")。
   - 美麗的外觀：這是AIR最吸引人的部份，提供流暢漂亮的介面。
   - 不需要瀏覽器：使用AIR程式可不經由瀏覽器直接控制網路上的服務。
   - 原生語言支援：FB4.5/CS5以上版本，已經可以藉由ANE，導入原生語言，
@@ -64,13 +64,15 @@ AIR是Adobe針對網路與桌面應用的結合所開發出來的技術，可以
 
 Adobe公司提供三種方式開發AIR應用軟件：
 
-  - [HTML](../Page/HTML.md "wikilink")/[Ajax](../Page/Ajax.md "wikilink")，或者利用Adobe
+  - [HTML](../Page/HTML.md "wikilink")/[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")，或者利用Adobe
     Dreamweaver CC，其他HTML編輯器或文本編輯器結合AIR的SDK。\[2\]
-  - [Flex Builder 3](../Page/Adobe_Flex.md "wikilink")
+  - [Flex Builder
+    3](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")
 
 [Animate](../Page/Adobe_Animate.md "wikilink")
 
-  - [Flash Builder 4](../Page/Adobe_Flash_Builder_4.md "wikilink")
+  - [Flash Builder
+    4](https://zh.wikipedia.org/wiki/Adobe_Flash_Builder_4 "wikilink")
 
 [Dreamweaver
 CS5需要安装额外的扩展程序才能创建AIR应用](../Page/Adobe_Dreamweaver.md "wikilink")，\[3\]
@@ -80,15 +82,18 @@ SDK，任何网页编辑器都可以创建AIR应用。AIR自身使用[WebKit网�
 
 ## 其他開發編輯器
 
-  - [IntelliJ IDEA 13](../Page/IntelliJ_IDEA_13.md "wikilink")
+  - [IntelliJ IDEA
+    13](https://zh.wikipedia.org/wiki/IntelliJ_IDEA_13 "wikilink")
   - [Eclipse](../Page/Eclipse.md "wikilink")
 
 ## 競爭對手
 
-  - [Microsoft Silverlight](../Page/Microsoft_Silverlight.md "wikilink")
+  - [Microsoft
+    Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
   - [JavaFX](../Page/JavaFX.md "wikilink")（[甲骨文公司](../Page/甲骨文公司.md "wikilink")）
-  - [XUL与](../Page/XUL.md "wikilink")[XULRunner](../Page/XULRunner.md "wikilink")
-  - [Google Gears](../Page/Google_Gears.md "wikilink")
+  - [XUL与](../Page/XUL.md "wikilink")[XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink")
+  - [Google
+    Gears](https://zh.wikipedia.org/wiki/Google_Gears "wikilink")
 
 ## 参考文献
 
@@ -103,7 +108,7 @@ SDK，任何网页编辑器都可以创建AIR应用。AIR自身使用[WebKit网�
   - [Kenshin's AIR
     Blog](https://web.archive.org/web/20080405202813/http://www.k-zone.cn/zblog/)
 
-## 相关[开源计划](../Page/开源.md "wikilink")
+## 相关[开源计划](https://zh.wikipedia.org/wiki/开源 "wikilink")
 
   - [AIRRunner](https://web.archive.org/web/20090308033329/http://www.airrunner.org/)
     - an open source test runner based on AIR/Flex.

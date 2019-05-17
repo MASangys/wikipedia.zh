@@ -1,7 +1,7 @@
-**iptables**是運行在[使用者空間的應用軟體](../Page/使用者空間.md "wikilink")，通過控制[Linux內核](../Page/Linux內核.md "wikilink")[netfilter模組](../Page/netfilter.md "wikilink")，來管理網路封包的处理和转发。在大部分[Linux发行版中](../Page/Linux发行版.md "wikilink")，可以通过[手册页](../Page/手册页.md "wikilink")\[1\]或`man
-iptables`获取用户手册。通常iptables需要[内核模块支持才能运行](../Page/内核模块.md "wikilink")，此处相应的内核模块通常是Xtables。因此，iptables操作需要[超级用户权限](../Page/超级用户.md "wikilink")，其可执行文件通常位于`/sbin/iptables`或`/usr/sbin/iptables`。同时，需要说明的是，以上命令通常只用于处理[IPv4数据包](../Page/IPv4.md "wikilink")；而对于[IPv6数据包](../Page/IPv6.md "wikilink")，则使用类似的**ip6tables**命令。\[2\]
+**iptables**是運行在[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，通過控制[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[netfilter模組](https://zh.wikipedia.org/wiki/netfilter "wikilink")，來管理網路封包的处理和转发。在大部分[Linux发行版中](../Page/Linux发行版.md "wikilink")，可以通过[手册页](../Page/手册页.md "wikilink")\[1\]或`man
+iptables`获取用户手册。通常iptables需要[内核模块支持才能运行](https://zh.wikipedia.org/wiki/内核模块 "wikilink")，此处相应的内核模块通常是Xtables。因此，iptables操作需要[超级用户权限](../Page/超级用户.md "wikilink")，其可执行文件通常位于`/sbin/iptables`或`/usr/sbin/iptables`。同时，需要说明的是，以上命令通常只用于处理[IPv4数据包](../Page/IPv4.md "wikilink")；而对于[IPv6数据包](../Page/IPv6.md "wikilink")，则使用类似的**ip6tables**命令。\[2\]
 
-目前，iptables支持内核2.4以上版本，旧版内核环境下则使用[ipchains](../Page/ipchains.md "wikilink")（于2.2版内核）或[ipwadm](../Page/ipwadm.md "wikilink")（于2.0版内核）完成类似的功能。2014年1月19日起發行的Linux内核3.13版则使用[nftables取而代之](../Page/nftables.md "wikilink")，但仍然提供iptables命令做为兼容接口。\[3\]
+目前，iptables支持内核2.4以上版本，旧版内核环境下则使用[ipchains](https://zh.wikipedia.org/wiki/ipchains "wikilink")（于2.2版内核）或[ipwadm](https://zh.wikipedia.org/wiki/ipwadm "wikilink")（于2.0版内核）完成类似的功能。2014年1月19日起發行的Linux内核3.13版则使用[nftables取而代之](https://zh.wikipedia.org/wiki/nftables "wikilink")，但仍然提供iptables命令做为兼容接口。\[3\]
 
 ## 概要
 
@@ -72,7 +72,7 @@ raw表用于处理异常，有如下两个内建链：
   - 已建立的连接（ESTABLISHED），如本机发起到远端的连接后远端的回应。
   - 关联的连接（RELATED），如[FTP协议使用的额外端口](../Page/文件传输协议.md "wikilink")。\[6\]
 
-此时，来自外部的[ping将没有回应](../Page/ping.md "wikilink")：
+此时，来自外部的[ping将没有回应](https://zh.wikipedia.org/wiki/ping "wikilink")：
 
 ```
  $  ping -c 1 10.0.0.1
@@ -81,7 +81,7 @@ raw表用于处理异常，有如下两个内建链：
  1 packets transmitted, 0 received, 100% packet loss, time 0ms
 ```
 
-外部尝试连接本机的[HTTP端口](../Page/HTTP.md "wikilink")（即[TCP](../Page/传输控制协议.md "wikilink")
+外部尝试连接本机的[HTTP端口](https://zh.wikipedia.org/wiki/HTTP "wikilink")（即[TCP](../Page/传输控制协议.md "wikilink")
 80端口）将被拒绝连接：
 
 ```
@@ -94,7 +94,7 @@ raw表用于处理异常，有如下两个内建链：
 
 ### 端口重定向示例
 
-iptables的重要功能之一是用于端口和/或地址的转换。如下示例展示了將預設[HTTP埠的封包由](../Page/HTTP.md "wikilink")80轉向8080埠。這樣，HTTP的daemon可以允許由一般用户權限啟動，而不需要對一般使用者無法將埠號綁在1024埠以下的限制的問題多加考慮。
+iptables的重要功能之一是用于端口和/或地址的转换。如下示例展示了將預設[HTTP埠的封包由](https://zh.wikipedia.org/wiki/HTTP "wikilink")80轉向8080埠。這樣，HTTP的daemon可以允許由一般用户權限啟動，而不需要對一般使用者無法將埠號綁在1024埠以下的限制的問題多加考慮。
 
 `iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT
 --to-port 8080`
@@ -108,7 +108,7 @@ iptables的重要功能之一是用于端口和/或地址的转换。如下示�
 
 ### [网络地址转换示例](../Page/网络地址转换.md "wikilink")
 
-典型设置如办公室用小型局域网，由一台Linux主机作为[路由器共享地址接入](../Page/路由器.md "wikilink")[Internet](../Page/Internet.md "wikilink")。
+典型设置如办公室用小型局域网，由一台Linux主机作为[路由器共享地址接入](../Page/路由器.md "wikilink")[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")。
 
 假设局域网接口为eth0，地址使用192.168.0.0/24；而Internet接口为eth1，使用的地址为198.51.100.3。
 
@@ -140,7 +140,7 @@ shell產生出來的](../Page/Unix_shell.md "wikilink")（不過當然也有可�
   - [Firewall
     Builder](https://web.archive.org/web/20081210035025/http://www.fwbuilder.org/)
     —圖形前端配合規則/字集產生器、及自動規則集（automated ruleset）載入。
-  - [Shorewall](../Page/Shorewall.md "wikilink")，以本文為基礎的規則產生器。
+  - [Shorewall](https://zh.wikipedia.org/wiki/Shorewall "wikilink")，以本文為基礎的規則產生器。
 
 ### 其它的工具
 
@@ -156,16 +156,17 @@ shell產生出來的](../Page/Unix_shell.md "wikilink")（不過當然也有可�
 
 ## 參照
 
-  - [ipchains為iptables的前一代](../Page/ipchains.md "wikilink")
+  - [ipchains為iptables的前一代](https://zh.wikipedia.org/wiki/ipchains "wikilink")
   - [Netlink為Netfilter使用之API](../Page/Netlink.md "wikilink")
-  - [NuFW延伸到Netfilter之認證防火墻](../Page/NuFW.md "wikilink")
-  - [nftables为iptables的后继者](../Page/nftables.md "wikilink")
+  - [NuFW延伸到Netfilter之認證防火墻](https://zh.wikipedia.org/wiki/NuFW "wikilink")
+  - [nftables为iptables的后继者](https://zh.wikipedia.org/wiki/nftables "wikilink")
 
 ### 其它防火墻的解決方案
 
-  - [PF (firewall)](../Page/PF_\(firewall\).md "wikilink")
-  - [ipfirewall](../Page/ipfirewall.md "wikilink")
-  - [ipfilter](../Page/ipfilter.md "wikilink")
+  - [PF
+    (firewall)](https://zh.wikipedia.org/wiki/PF_\(firewall\) "wikilink")
+  - [ipfirewall](https://zh.wikipedia.org/wiki/ipfirewall "wikilink")
+  - [ipfilter](https://zh.wikipedia.org/wiki/ipfilter "wikilink")
 
 ## 外部連結
 

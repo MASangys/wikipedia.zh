@@ -1,9 +1,9 @@
 [YUV_UV_plane.png](https://zh.wikipedia.org/wiki/File:YUV_UV_plane.png "fig:YUV_UV_plane.png")
-**YUV**，是一種[顏色](../Page/顏色.md "wikilink")[編碼方法](../Page/編碼.md "wikilink")。常使用在各個影像處理元件中。
+**YUV**，是一種[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")[編碼方法](https://zh.wikipedia.org/wiki/編碼 "wikilink")。常使用在各個影像處理元件中。
 YUV在對照片或影片編碼時，考慮到人類的感知能力，允許降低色度的頻寬。
 
 YUV是編譯true-color顏色空間（color space）的種類，Y'UV, YUV,
-[YCbCr](../Page/YCbCr.md "wikilink")，[YPbPr等專有名詞都可以稱為YUV](../Page/YPbPr.md "wikilink")，彼此有重疊。「Y」表示**[明亮度](../Page/流明.md "wikilink")**（Luminance、Luma），「U」和「V」則是**[色度](../Page/色度_\(色彩学\).md "wikilink")**、**[濃度](../Page/濃度_\(色彩學\).md "wikilink")**（Chrominance、Chroma），
+[YCbCr](../Page/YCbCr.md "wikilink")，[YPbPr等專有名詞都可以稱為YUV](https://zh.wikipedia.org/wiki/YPbPr "wikilink")，彼此有重疊。「Y」表示**[明亮度](../Page/流明.md "wikilink")**（Luminance、Luma），「U」和「V」則是**[色度](https://zh.wikipedia.org/wiki/色度_\(色彩学\) "wikilink")**、**[濃度](https://zh.wikipedia.org/wiki/濃度_\(色彩學\) "wikilink")**（Chrominance、Chroma），
 
 Y′UV, YUV, YCbCr,
 YPbPr所指涉的範圍，常有混淆或重疊的情況。從歷史的演變來說，其中YUV和Y'UV通常用來編碼電視的類比訊號，而YCbCr則是用來描述數位的影像訊號，適合影片與圖片壓縮以及傳輸，例如MPEG、JPEG。
@@ -15,7 +15,7 @@ Y'代表明亮度(luma; brightness)而U與V儲存色度(色訊; chrominance; col
 YUV Formats分成兩個格式：
 
   - 緊縮格式（packed formats）：將Y、U、V值儲存成Macro
-    Pixels陣列，和[RGB的存放方式類似](../Page/RGB.md "wikilink")。
+    Pixels陣列，和[RGB的存放方式類似](https://zh.wikipedia.org/wiki/RGB "wikilink")。
   - 平面格式（planar formats）：將Y、U、V的三個分量分別存放在不同的矩陣中。
 
 緊縮格式（packed
@@ -26,12 +26,12 @@ format）有I420（4:2:0）、YV12、IYUV等。
 ## 歷史
 
 [Barn-yuv.png](https://zh.wikipedia.org/wiki/File:Barn-yuv.png "fig:Barn-yuv.png")
-Y'UV的發明是由於[彩色電視與](../Page/彩色電視.md "wikilink")[黑白電視的過渡時期](../Page/黑白電視.md "wikilink")\[1\]。黑白視訊只有Y（Luma，Luminance）視訊，也就是灰階值。到了彩色電視規格的制定，是以YUV/[YIQ的格式來處理彩色電視圖像](../Page/YIQ.md "wikilink")，把UV視作表示彩度的C（Chrominance或Chroma），如果忽略C訊號，那麼剩下的Y（Luma）訊號就跟之前的黑白電視訊號相同，這樣一來便解決彩色電視機與黑白電視機的相容問題。Y'UV最大的優點在於只需佔用極少的頻寬。
+Y'UV的發明是由於[彩色電視與](../Page/彩色電視.md "wikilink")[黑白電視的過渡時期](https://zh.wikipedia.org/wiki/黑白電視 "wikilink")\[1\]。黑白視訊只有Y（Luma，Luminance）視訊，也就是灰階值。到了彩色電視規格的制定，是以YUV/[YIQ的格式來處理彩色電視圖像](https://zh.wikipedia.org/wiki/YIQ "wikilink")，把UV視作表示彩度的C（Chrominance或Chroma），如果忽略C訊號，那麼剩下的Y（Luma）訊號就跟之前的黑白電視訊號相同，這樣一來便解決彩色電視機與黑白電視機的相容問題。Y'UV最大的優點在於只需佔用極少的頻寬。
 
 因為UV分別代表不同顏色訊號，所以直接使用R與B訊號表示色度的UV。 也就是說UV訊號告訴了電視要偏移某象素的的顏色，而不改變其亮度。
 或者UV訊號告訴了顯示器使得某個顏色亮度依某個基準偏移。 UV的值越高，代表該像素會有更飽和的顏色。
 
-彩色圖像記錄的格式，常見的有[RGB](../Page/RGB.md "wikilink")、YUV、[CMYK等](../Page/CMYK.md "wikilink")。彩色電視最早的構想是使用RGB三原色來同時傳輸。這種設計方式是原來黑白頻寬的3倍，在當時並不是很好的設計。RGB訴求於人眼對色彩的感應，YUV則著重於視覺對於亮度的敏感程度，Y代表的是亮度，UV代表的是彩度（因此黑白電影可省略UV，相近於RGB），分別用Cr和Cb來表示，因此YUV的記錄通常以Y:UV的格式呈現。
+彩色圖像記錄的格式，常見的有[RGB](https://zh.wikipedia.org/wiki/RGB "wikilink")、YUV、[CMYK等](https://zh.wikipedia.org/wiki/CMYK "wikilink")。彩色電視最早的構想是使用RGB三原色來同時傳輸。這種設計方式是原來黑白頻寬的3倍，在當時並不是很好的設計。RGB訴求於人眼對色彩的感應，YUV則著重於視覺對於亮度的敏感程度，Y代表的是亮度，UV代表的是彩度（因此黑白電影可省略UV，相近於RGB），分別用Cr和Cb來表示，因此YUV的記錄通常以Y:UV的格式呈現。
 
 ## 常用的YUV格式
 
@@ -125,8 +125,8 @@ bits），即每4個Y，配上4個U，還有4個V；YUV422則是在UV格式上�
 
 \[V = 0.615 \times R - 0.515 \times G - 0.100 \times B\]
 
-在早期的非[SIMD](../Page/SIMD.md "wikilink")（non-SIMD）構造中，floating point
-arithmetic會比fixed-point arithmetic稍慢，所以有一替代公式如下：
+在早期的非[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")（non-SIMD）構造中，floating
+point arithmetic會比fixed-point arithmetic稍慢，所以有一替代公式如下：
 
 \[C = Y' - 16\]
 
@@ -184,7 +184,8 @@ Cr = Cr - 128; Cb = Cb - 128;
 `rgb1 = Y'UV444toRGB888(y1, u, v);`
 `rgb2 = Y'UV444toRGB888(y2, u, v);`
 
-Y'UV422可被表達成Y'UY'2 [FourCC格式碼](../Page/FourCC.md "wikilink")。意思是2
+Y'UV422可被表達成Y'UY'2
+[FourCC格式碼](https://zh.wikipedia.org/wiki/FourCC "wikilink")。意思是2
 pixels將被定義成each macropixel (four bytes) treated in the image.
 [Yuv422_yuy2.svg](https://zh.wikipedia.org/wiki/File:Yuv422_yuy2.svg "fig:Yuv422_yuy2.svg")
 
@@ -209,7 +210,7 @@ transferred data to half and with quite good loss of quality.
 ### YV12
 
 The Y'V12的格式相當類似Y'UV420p，但U與V資料反轉：Y'跟隨著V,
-U殿後。Y'UV420p與Y'V12使用相同演算法。許多重要的編碼器都採用YV12空間存儲視頻：MPEG-4（[x264](../Page/x264.md "wikilink")，[XviD](../Page/XviD.md "wikilink")，[DivX](../Page/DivX.md "wikilink")），DVD-Video存儲格式MPEG-2，MPEG-1以及MJPEG。
+U殿後。Y'UV420p與Y'V12使用相同演算法。許多重要的編碼器都採用YV12空間存儲視頻：MPEG-4（[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")，[XviD](https://zh.wikipedia.org/wiki/XviD "wikilink")，[DivX](../Page/DivX.md "wikilink")），DVD-Video存儲格式MPEG-2，MPEG-1以及MJPEG。
 
 將Y'UV420p轉換成RGB
 
@@ -228,7 +229,7 @@ U殿後。Y'UV420p與Y'V12使用相同演算法。許多重要的編碼器都採
 
 ## 參見
 
-  - [色度抽樣](../Page/色度抽樣.md "wikilink")
+  - [色度抽樣](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")
 
 ## 外部連結
 

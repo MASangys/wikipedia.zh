@@ -1,7 +1,7 @@
 **MIT
-OpenCourseWare**是由[麻省理工學院在](../Page/麻省理工學院.md "wikilink")2002年創始的一項計畫。它的目標是在2007年年底以前，讓所有大學生和研究生課程能夠在線上自由的被任何人從任何地點取用。MIT開放式課程也可以被視為一項龐大的、網路出版的MIT教材。這個計畫由William
+OpenCourseWare**是由[麻省理工學院在](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")2002年創始的一項計畫。它的目標是在2007年年底以前，讓所有大學生和研究生課程能夠在線上自由的被任何人從任何地點取用。MIT開放式課程也可以被視為一項龐大的、網路出版的MIT教材。這個計畫由William
 and Flora Hewlett Foundation、Andrew W. Mellon
-Foundation、[麻省理工學院共同主持](../Page/麻省理工學院.md "wikilink")。之後，這個計畫更激勵了不少機構將他們的教材轉變為[開放教育資源](../Page/開放教育資源.md "wikilink")。
+Foundation、[麻省理工學院共同主持](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")。之後，這個計畫更激勵了不少機構將他們的教材轉變為[開放教育資源](../Page/開放教育資源.md "wikilink")。
 
 2007年11月，已經有超過1800個課程在線上。其中少數僅是書單和討論主題，大多數會提供課後問題、考試（通常附有解答）以及演講筆記。某些課程甚至提供互動式的示範程式、MIT教授寫的教科書、串流影音格式的演講影片。
 

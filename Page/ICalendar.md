@@ -1,25 +1,26 @@
-**iCalendar**是“[日曆數據交換](../Page/日曆.md "wikilink")”的標準（RFC 5545）。
-此標準有時指的是“iCal”，即[蘋果公司的出品的一款同名日曆軟件](../Page/蘋果公司.md "wikilink")（見[iCal](../Page/行事曆_\(Apple\).md "wikilink")），這個軟件也是此標準的一種實現方式。
+**iCalendar**是“[日曆數據交換](https://zh.wikipedia.org/wiki/日曆 "wikilink")”的標準（RFC
+5545）。
+此標準有時指的是“iCal”，即[蘋果公司的出品的一款同名日曆軟件](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（見[iCal](https://zh.wikipedia.org/wiki/行事曆_\(Apple\) "wikilink")），這個軟件也是此標準的一種實現方式。
 
 iCalendar允許用戶通過電子郵件的方式發送“會議請求”或“任務”。收信人使用支持iCalendar郵件客戶端，便可以很方便地回應發件人，接受請求或另外提議一個新的會議時間。
 
-iCalendar已得到很多產品的支持。通常情況下，iCalendar數據是使用電子郵件交換，但它也可以獨立使用，而不局限於某種傳輸協議。例如，可以通過[WebDav伺服器或](../Page/WebDav.md "wikilink")[SyncML來進行共享與修改](../Page/SyncML.md "wikilink")。簡單的網頁伺服器（只使用HTTP協議）也常常被用來分發公共事件的iCalendar數據，或發佈個人的時間謀劃安排。發佈者可以使用[hCalendar把iCalendar數據嵌入到網頁中](../Page/hCalendar.md "wikilink")。（hCalendar是一種通過[（X）](../Page/XHTML.md "wikilink")[HTML來表現iCalendar的](../Page/HTML.md "wikilink")[微格式](../Page/微格式.md "wikilink")）
+iCalendar已得到很多產品的支持。通常情況下，iCalendar數據是使用電子郵件交換，但它也可以獨立使用，而不局限於某種傳輸協議。例如，可以通過[WebDav伺服器或](https://zh.wikipedia.org/wiki/WebDav "wikilink")[SyncML來進行共享與修改](../Page/SyncML.md "wikilink")。簡單的網頁伺服器（只使用HTTP協議）也常常被用來分發公共事件的iCalendar數據，或發佈個人的時間謀劃安排。發佈者可以使用[hCalendar把iCalendar數據嵌入到網頁中](https://zh.wikipedia.org/wiki/hCalendar "wikilink")。（hCalendar是一種通過[（X）](../Page/XHTML.md "wikilink")[HTML來表現iCalendar的](../Page/HTML.md "wikilink")[微格式](../Page/微格式.md "wikilink")）
 
 ## 歷史與設計
 
-iCalendar是由[互联网工程任务组的](../Page/互联网工程任务组.md "wikilink")[日曆與計劃工作組設計](../Page/日曆與計劃工作組.md "wikilink")（OpenText公司的Anik
-Ganguly主導），並由[蓮花公司的Frank](../Page/蓮花公司.md "wikilink")
-Dawson和[微軟的Derik](../Page/微軟.md "wikilink")
-Stenerson發表。iCalendar本身是基於[互聯網郵件協會（IMC）的](../Page/互聯網郵件協會（IMC）.md "wikilink")[vCalendar開發設計而來的](../Page/vCalendar.md "wikilink")。它通常是以文件名後綴為.ics或.ifb的文本文件保存的。現有標准是於2009年九月發布的\[<http://tools.ietf.org/html/rfc5545>|
+iCalendar是由[互联网工程任务组的](../Page/互联网工程任务组.md "wikilink")[日曆與計劃工作組設計](https://zh.wikipedia.org/wiki/日曆與計劃工作組 "wikilink")（OpenText公司的Anik
+Ganguly主導），並由[蓮花公司的Frank](https://zh.wikipedia.org/wiki/蓮花公司 "wikilink")
+Dawson和[微軟的Derik](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+Stenerson發表。iCalendar本身是基於[互聯網郵件協會（IMC）的](https://zh.wikipedia.org/wiki/互聯網郵件協會（IMC） "wikilink")[vCalendar開發設計而來的](https://zh.wikipedia.org/wiki/vCalendar "wikilink")。它通常是以文件名後綴為.ics或.ifb的文本文件保存的。現有標准是於2009年九月發布的\[<http://tools.ietf.org/html/rfc5545>|
 RFC 5545\]，上一個標準是\[<http://tools.ietf.org/html/rfc2445>| RFC 2445\]。
 
 以.ics為後綴名的文件（在Apple
 Mac系統中使用"iCal"類型代碼），表示該文件包含了日曆和計劃信息。而以.ifb為後綴名的文件（在Apple
 Mac系統中使用"iFBf"類型代碼），表示該文件包含 了空閒和忙碌時間信息。
 
-通常iCalendar使用[UTF-8字符編碼](../Page/UTF-8.md "wikilink")；但也可以使用[MIME中的charset參數來指其它的字符編碼](../Page/MIME.md "wikilink")（如果它的傳送協議支持MIME的話）。
+通常iCalendar使用[UTF-8字符編碼](../Page/UTF-8.md "wikilink")；但也可以使用[MIME中的charset參數來指其它的字符編碼](https://zh.wikipedia.org/wiki/MIME "wikilink")（如果它的傳送協議支持MIME的話）。
 
-在iCalendar文件中，每一行必須以[CR+LF](../Page/CR+LF.md "wikilink")（十六進制代碼為0D0A）為結尾。每一行不得超過75[字節](../Page/字節.md "wikilink")/[八位元組](../Page/八位元組.md "wikilink")。如果一行數據長於這個限制，則必須換行；後面一行使用空格符（十六進制代碼為20）或者制表符（十六進制代碼為09）作開始，以表示本行內容是上面一行內容的繼續。內容數據中的換行符，可以反斜杠符'/'後跟數字（UTF-8中為5C
+在iCalendar文件中，每一行必須以[CR+LF](https://zh.wikipedia.org/wiki/CR+LF "wikilink")（十六進制代碼為0D0A）為結尾。每一行不得超過75[字節](https://zh.wikipedia.org/wiki/字節 "wikilink")/[八位元組](../Page/八位元組.md "wikilink")。如果一行數據長於這個限制，則必須換行；後面一行使用空格符（十六進制代碼為20）或者制表符（十六進制代碼為09）作開始，以表示本行內容是上面一行內容的繼續。內容數據中的換行符，可以反斜杠符'/'後跟數字（UTF-8中為5C
 6E或5C 4E）來表示。
 
 iCalendar的MIME類型被定義為*text/calendar*。
@@ -30,15 +31,15 @@ iCalendar格式只是被設計用來傳送日曆和計劃表數據，如事件�
 
 iCalendar本意是提供一種公共格式來定義開放的互聯網可交換的日曆和計劃表數據。當這些特性被廣泛支持應用後，很多性能問題逐漸顯現出來了。比如，大多數應用都不支持旅行（VJOURNAL）。"在標準中，循環重復的會議有一些含糊不清，這導致在現有不同的應用之間仍然無法真正地互動。"
 
-iCalendar中的日曆無法兼容非[格里高利曆](../Page/格里高利曆.md "wikilink")，比如[以色列的](../Page/以色列.md "wikilink")[希伯來曆和](../Page/希伯來曆.md "wikilink")[沙特阿拉伯的](../Page/沙特阿拉伯.md "wikilink")[伊斯曆都是](../Page/伊斯曆.md "wikilink")[陰曆](../Page/陰曆.md "wikilink")。
+iCalendar中的日曆無法兼容非[格里高利曆](https://zh.wikipedia.org/wiki/格里高利曆 "wikilink")，比如[以色列的](../Page/以色列.md "wikilink")[希伯來曆和](../Page/希伯來曆.md "wikilink")[沙特阿拉伯的](../Page/沙特阿拉伯.md "wikilink")[伊斯曆都是](https://zh.wikipedia.org/wiki/伊斯曆 "wikilink")[陰曆](https://zh.wikipedia.org/wiki/陰曆 "wikilink")。
 
 “日曆訪問協議”備忘錄（\[<http://tools.ietf.org/html/rfc4324>| RFC
 4324\]）首次嘗試建立一個統一的創建實時日曆系統。可能是因為過於複雜，這個協議最終被放棄了。
 
-無論如何，像[GroupDav和](../Page/GroupDav.md "wikilink")[CalDAV這些基於iCalendar的協議已經越來越廣泛地應用在客戶端和服務端軟件包中了](../Page/CalDAV.md "wikilink")。
+無論如何，像[GroupDav和](https://zh.wikipedia.org/wiki/GroupDav "wikilink")[CalDAV這些基於iCalendar的協議已經越來越廣泛地應用在客戶端和服務端軟件包中了](https://zh.wikipedia.org/wiki/CalDAV "wikilink")。
 
 互联网工程任务组的日曆與計劃工作組
-已經提交了關於iCalendar標准的附加修改提案。但這個工作組於2011年一月份被解散了。他們大部分工作重心轉移到了前一個標准的條款解釋。而後續的創新工作由[日曆和計劃協會](../Page/日曆和計劃協會.md "wikilink")（簡稱為Calconnect）來完成。
+已經提交了關於iCalendar標准的附加修改提案。但這個工作組於2011年一月份被解散了。他們大部分工作重心轉移到了前一個標准的條款解釋。而後續的創新工作由[日曆和計劃協會](https://zh.wikipedia.org/wiki/日曆和計劃協會 "wikilink")（簡稱為Calconnect）來完成。
 
 ## 技術標準
 
@@ -51,8 +52,9 @@ iCalendar中的頂級元素是日曆和計劃核心對象，一組日曆和計�
 icalbody由一系列日曆屬性和一個以上的日曆組件組成。日曆屬性被應用於整個日曆。日曆組件則是由若干日曆屬性描述成的一個日曆語義。比如，日曆組件可以指定一個事件、一個待辦事項列表、一個旅行事項、時區信息、繁忙/空閒時間信息，或者一個警報。在許多協議實現（比如Google
 Calendar）中不允許出現空行。
 
-下在是一個簡單的iCalendar對象示例，它描述了[法国国庆日](../Page/法国国庆日.md "wikilink")，即從1997年七月14日
-17:00到1997年七月15日 03:59:59的[巴士底日](../Page/巴士底日.md "wikilink")。
+下在是一個簡單的iCalendar對象示例，它描述了[法国国庆日](https://zh.wikipedia.org/wiki/法国国庆日 "wikilink")，即從1997年七月14日
+17:00到1997年七月15日
+03:59:59的[巴士底日](https://zh.wikipedia.org/wiki/巴士底日 "wikilink")。
 
 `BEGIN:VCALENDAR`
 `VERSION:2.0`
@@ -115,7 +117,7 @@ VTODO描述一條待辦事項。
 
 VJOURNAL是一個旅行事項。它們將一段描述文字關聯一個詳細的日曆日期上，這可以被用戶記錄活動和成長日誌，或者描述待辦事項的進展。VJOURNAL日曆組件不會影響日曆上的時間狀況，所以不會對空閒和繁忙狀態有任何影響。在實踐上，有很少的程序支持VJOURNAL項，不過也有存在一些實現。比如：Plum
 Canary's
-Chirp軟件將VJOURNAL和VTODO一起使用。KDE中的[KOrganizer也支持VJOURNAL](../Page/KOrganizer.md "wikilink")。
+Chirp軟件將VJOURNAL和VTODO一起使用。KDE中的[KOrganizer也支持VJOURNAL](https://zh.wikipedia.org/wiki/KOrganizer "wikilink")。
 
 下面就是旅行事項的例子
 
@@ -170,7 +172,7 @@ VFREEBUSY被用在 空闲/繁忙时间 设置请求，这种请求的回应，�
 
 ### 发布更新
 
-当计划事件更改，UID字段将发布更新。首先事件创建时会生成一个[全局唯一标识符作为UID](../Page/UUID.md "wikilink")。之后当有一个事件跟随这个UID发布，则认为这是早先事件的修改版本，并替换掉它。
+当计划事件更改，UID字段将发布更新。首先事件创建时会生成一个[全局唯一标识符作为UID](https://zh.wikipedia.org/wiki/UUID "wikilink")。之后当有一个事件跟随这个UID发布，则认为这是早先事件的修改版本，并替换掉它。
 
 ### 日历扩展
 

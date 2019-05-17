@@ -1,27 +1,27 @@
 **Apache
-Derby**是[Apache軟件基金會所研發的開放源碼](../Page/Apache軟件基金會.md "wikilink")[資料庫管理系統](../Page/資料庫管理系統.md "wikilink")；由於Derby是一個純[Java程式](../Page/Java.md "wikilink")，因此只需要[操作系統支援](../Page/操作系統.md "wikilink")[Java虛擬機](../Page/Java虛擬機.md "wikilink")，Derby便可執行。
+Derby**是[Apache軟件基金會所研發的開放源碼](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[資料庫管理系統](https://zh.wikipedia.org/wiki/資料庫管理系統 "wikilink")；由於Derby是一個純[Java程式](../Page/Java.md "wikilink")，因此只需要[操作系統支援](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[Java虛擬機](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")，Derby便可執行。
 
 ## 特性
 
-Derby是特別地為Java環境進行優化，Derby本身不僅是一個純Java程式，而且Derby在執行用戶的[SQL程式時](../Page/SQL.md "wikilink")，能夠把SQL[編譯成Java](../Page/編譯.md "wikilink")
+Derby是特別地為Java環境進行優化，Derby本身不僅是一個純Java程式，而且Derby在執行用戶的[SQL程式時](../Page/SQL.md "wikilink")，能夠把SQL[編譯成Java](https://zh.wikipedia.org/wiki/編譯 "wikilink")
 bytecode並以系統的Java虛擬機執行。由於SQL程式轉成的Java
-bytecode能被[JIT動態翻譯](../Page/JIT.md "wikilink")，因此Derby可能比傳統的資料庫管理系統更佳的性能。
+bytecode能被[JIT動態翻譯](https://zh.wikipedia.org/wiki/JIT "wikilink")，因此Derby可能比傳統的資料庫管理系統更佳的性能。
 
 其他特性包括：
 
-  - 支援[主從架構或](../Page/客戶端/服務器結構.md "wikilink")
-    [嵌入環境](../Page/嵌入式系統.md "wikilink")
-  - [多線程](../Page/多線程.md "wikilink")
+  - 支援[主從架構或](https://zh.wikipedia.org/wiki/客戶端/服務器結構 "wikilink")
+    [嵌入環境](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")
+  - [多線程](https://zh.wikipedia.org/wiki/多線程 "wikilink")
   - [ACID](../Page/ACID.md "wikilink")
-  - [Java數據庫連接](../Page/Java數據庫連接.md "wikilink")（JDBC）
+  - [Java數據庫連接](https://zh.wikipedia.org/wiki/Java數據庫連接 "wikilink")（JDBC）
   - 低系統需求：約佔2
-    [MB的硬盤空間](../Page/Mebibyte.md "wikilink")，[壓縮後更只是](../Page/壓縮.md "wikilink")600[KB](../Page/KB.md "wikilink")
+    [MB的硬盤空間](../Page/Mebibyte.md "wikilink")，[壓縮後更只是](https://zh.wikipedia.org/wiki/壓縮 "wikilink")600[KB](https://zh.wikipedia.org/wiki/KB "wikilink")
     \[1\]
 
 ## 商業的版本
 
   - Cloudscape － [IBM的Derby版本](../Page/IBM.md "wikilink")。
-  - Java DB － [昇陽電腦自Java](../Page/昇陽.md "wikilink")
+  - Java DB － [昇陽電腦自Java](https://zh.wikipedia.org/wiki/昇陽 "wikilink")
     6把Derby包括於[JDK](../Page/JDK.md "wikilink")。
 
 ## 安装
@@ -179,7 +179,7 @@ public class NetworkServerDerbyTester {
 ## [Schema实现](../Page/Schema_\(数据库\).md "wikilink")
 
 [Apache Derby数据库](../Page/Apache_Derby.md "wikilink")（即[Java
-DB](../Page/Java_DB.md "wikilink")）的任何connection的当前[schema](../Page/Schema_\(数据库\).md "wikilink")，默认是对应于该用户名的一个schema。如果无用户名被提供，那么当前用户名与当前schema缺省是APP。
+DB](https://zh.wikipedia.org/wiki/Java_DB "wikilink")）的任何connection的当前[schema](../Page/Schema_\(数据库\).md "wikilink")，默认是对应于该用户名的一个schema。如果无用户名被提供，那么当前用户名与当前schema缺省是APP。
 
 但即使当前schema被设置为用户名，这个schema仍然可能不存在。一个schema只能被创建：通过CREATE
 SCHEMA语句显式创建或者创建一个对象（例如表等）来隐式创建。
@@ -215,6 +215,6 @@ APP schema总是存在，不需要创建。
 
 1.
 2.  [[Apache Derby数据库](../Page/Apache_Derby.md "wikilink")（即[Java
-    DB](../Page/Java_DB.md "wikilink")） Frequently Asked Questions 5.3.
-    Why do I get the error 'schema does not
+    DB](https://zh.wikipedia.org/wiki/Java_DB "wikilink")） Frequently
+    Asked Questions 5.3. Why do I get the error 'schema does not
     exist'?](http://db.apache.org/derby/faq.html)

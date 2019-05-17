@@ -1,12 +1,12 @@
 《**Full House
-Kiss**》（）是在2004年7月22日由[CAPCOM發售](../Page/CAPCOM.md "wikilink")[PS2用的](../Page/PS2.md "wikilink")[恋爱冒险游戏](../Page/恋爱冒险游戏.md "wikilink")。正式種類名稱為戀愛女佣。人物設計與原畫是由少女漫畫家[佑羽栞擔任](../Page/佑羽栞.md "wikilink")。繼承登場人物的续篇[Full
+Kiss**》（）是在2004年7月22日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為戀愛女佣。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。繼承登場人物的续篇[Full
 House Kiss2在](../Page/Full_House_Kiss2.md "wikilink")2006年2月23日發售。media
 mix企画、佑羽栞作画的漫画版在[白泉社的](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》上連載。
 
 ## 簡介
 
 15歲的少女為了探聽姐姐的去向，白天在名門高中「祥慶學園」當美術老師，夜晚在祥慶學園的「La
-Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/ADV.md "wikilink")，晚上是女佣部分，游戏由這二個部分構成。
+Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](https://zh.wikipedia.org/wiki/ADV "wikilink")，晚上是女佣部分，游戏由這二個部分構成。
 
 ## 故事内容
 
@@ -21,7 +21,7 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/AD
 <!-- end list -->
 
   -
-    聲：[荻原秀樹](../Page/荻原秀樹.md "wikilink")
+    聲：[荻原秀樹](https://zh.wikipedia.org/wiki/荻原秀樹 "wikilink")
     2月18日生，17歳，A型，身高178cm。世界的大企業御堂集團的獨生子，祥慶學園3年級，La
     Prince之一。經常冷靜沉著於怎樣才不會把事情弄得亂七八糟，不管什麼事都能處理，只有家事好像比較沒輒，在麦來到一哉家之前一直在髒亂得像垃圾堆的房間生活。雖然是高中生，但已經是6個集團企業中具有實權的社長，是集團下屆總司令的接班人。現在的家是讀高中獨立的時候父母留給他的，一個人和同居人生活居住的地方。祖父是御堂集團現任總司令、父親是NASA諾貝爾獎的學者、母親則是服裝設計師。
 
@@ -56,7 +56,7 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/AD
 ### 其他角色
 
   -
-    聲：[增田由纪](../Page/增田由纪.md "wikilink")
+    聲：[增田由纪](https://zh.wikipedia.org/wiki/增田由纪 "wikilink")
     19歳，162cm。麦的姐姐。某日突然留下字条后就神秘失蹤。
 
 <!-- end list -->
@@ -68,19 +68,19 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/AD
 <!-- end list -->
 
   -
-    聲：[浜田賢二](../Page/浜田賢二.md "wikilink")
+    聲：[浜田賢二](https://zh.wikipedia.org/wiki/浜田賢二 "wikilink")
     35歳，182cm。幫助麦探聽苗失蹤事件的雜誌記者。
 
 <!-- end list -->
 
   -
-    聲：[中田譲治](../Page/中田譲治.md "wikilink")
+    聲：[中田譲治](https://zh.wikipedia.org/wiki/中田譲治 "wikilink")
     40歳，177cm。被谜团所包围的祥慶學園理事長。
 
 <!-- end list -->
 
   -
-    聲：[渡边美佐](../Page/渡边美佐.md "wikilink")
+    聲：[渡边美佐](https://zh.wikipedia.org/wiki/渡边美佐 "wikilink")
     23歳，167cm。祥慶學園的德語教師。
 
 <!-- end list -->
@@ -122,7 +122,7 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/AD
 <!-- end list -->
 
   -
-    聲：[上田陽司](../Page/上田陽司.md "wikilink")
+    聲：[上田陽司](https://zh.wikipedia.org/wiki/上田陽司 "wikilink")
     56歳，160cm。溫厚穩健的祥慶學園學園長。和善地关注着麦的工作。
 
 <!-- end list -->
@@ -134,7 +134,7 @@ Prince」4人組的家做家庭女傭的工作。白天是[ADV部分](../Page/AD
 <!-- end list -->
 
   -
-    声：[楠見尚己](../Page/楠見尚己.md "wikilink")
+    声：[楠見尚己](https://zh.wikipedia.org/wiki/楠見尚己 "wikilink")
     38歳，180cm。谜之男。
 
 ## 关联商品

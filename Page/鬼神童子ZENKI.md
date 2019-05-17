@@ -1,12 +1,12 @@
-是[-{谷}-菊秀原作](../Page/谷菊秀.md "wikilink")、[黑岩善宏負責繪製的](../Page/黑岩善宏.md "wikilink")[日本漫畫](../Page/日本漫畫.md "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](../Page/單行本.md "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](../Page/台灣.md "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
+是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏負責繪製的](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
 
-媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](../Page/#電視動畫.md "wikilink")，1997年發行[OVA的外傳動畫](../Page/#OVA.md "wikilink")。
+媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/#OVA "wikilink")。
 
 ## 劇情概要
 
   - 原作
-    [役小角是日本最偉大的降魔師](../Page/役小角.md "wikilink")，他役使「前鬼」（又名「朱鬼神」）對抗世上的邪惡。小角逝世之前，把前鬼封印在一個石碑中，並留下一個護法輪。此石碑被封印在的「役咒法堂」正殿。當災難出現、護法輪發出光芒時，就對著天空畫[五芒星](../Page/五芒星.md "wikilink")，唸小角秘傳的咒語，使前鬼甦醒。
-    在千年以後的鬼神鎮，貓丸與犬丸為了尋找傳說中「役小角的祕寶」而來到鬼神鎮，想以此「祕寶」成為[億萬富翁](../Page/億萬富翁.md "wikilink")。他們趁夜侵入役咒法堂正殿，破壞了結界，撕除了「祕寶」盒上的符咒，打開盒蓋一看，裡面是一顆。寄生果看起來像是一顆眼球，會附身在被強烈慾望薰心的身上，然後依不同的欲望變成不同的。小角的後代役小明，擁有能力讓前鬼解除封印，以前鬼的力量消滅寄生獸、解救被寄生果附身的人。
+    [役小角是日本最偉大的降魔師](../Page/役小角.md "wikilink")，他役使「前鬼」（又名「朱鬼神」）對抗世上的邪惡。小角逝世之前，把前鬼封印在一個石碑中，並留下一個護法輪。此石碑被封印在的「役咒法堂」正殿。當災難出現、護法輪發出光芒時，就對著天空畫[五芒星](https://zh.wikipedia.org/wiki/五芒星 "wikilink")，唸小角秘傳的咒語，使前鬼甦醒。
+    在千年以後的鬼神鎮，貓丸與犬丸為了尋找傳說中「役小角的祕寶」而來到鬼神鎮，想以此「祕寶」成為[億萬富翁](https://zh.wikipedia.org/wiki/億萬富翁 "wikilink")。他們趁夜侵入役咒法堂正殿，破壞了結界，撕除了「祕寶」盒上的符咒，打開盒蓋一看，裡面是一顆。寄生果看起來像是一顆眼球，會附身在被強烈慾望薰心的身上，然後依不同的欲望變成不同的。小角的後代役小明，擁有能力讓前鬼解除封印，以前鬼的力量消滅寄生獸、解救被寄生果附身的人。
 
 <!-- end list -->
 
@@ -30,7 +30,7 @@
 
     在故事開頭遭到寄生獸的攻擊，千鈞一髮之際解開了前鬼的第一段封印，並得到能役使前鬼的「護法輪」，其後與前鬼為祛除邪惡而戰。故事中，逐漸學會各種咒術，如「火炎咒」、「烈風咒」。直呼前鬼與後鬼，不尊稱「前鬼殿下」、「後鬼殿下」。
 
-    在原作及電視動畫版中提供最多[殺必死](../Page/殺必死.md "wikilink")，包括[全裸入浴及出浴](../Page/全裸.md "wikilink")\[1\]、被寄生獸割掉[比基尼泳衣上半部](../Page/比基尼泳衣.md "wikilink")\[2\]等。
+    在原作及電視動畫版中提供最多[殺必死](../Page/殺必死.md "wikilink")，包括[全裸入浴及出浴](https://zh.wikipedia.org/wiki/全裸 "wikilink")\[1\]、被寄生獸割掉[比基尼泳衣上半部](../Page/比基尼泳衣.md "wikilink")\[2\]等。
 
     在電視動畫版中以單手畫五芒星解開前鬼第二段封印，所用咒語全文依中視版譯詞如下：廣東話版咒語如下:
 
@@ -73,24 +73,24 @@
     在原作中，她在小明幼時即退休、離開鬼神鎮，在日本各地尋找高強法師共同對付魔神獸；在電視動畫版中，她大部分時間都在鬼神鎮。
 
   -
-    小鬼的弟弟，是一位老[僧侶](../Page/僧侶.md "wikilink")，為「麒麟寺」[住持](../Page/住持.md "wikilink")。雖已[出家多年](../Page/出家.md "wikilink")，但性格好色。擅長武術為。尊稱前鬼「前鬼殿下」，尊稱後鬼「後鬼殿下」。
+    小鬼的弟弟，是一位老[僧侶](https://zh.wikipedia.org/wiki/僧侶 "wikilink")，為「麒麟寺」[住持](../Page/住持.md "wikilink")。雖已[出家多年](../Page/出家.md "wikilink")，但性格好色。擅長武術為。尊稱前鬼「前鬼殿下」，尊稱後鬼「後鬼殿下」。
 
   -
     小明千年前的祖先。咒力高深，能役使前鬼，是真實存在的歷史人物。千年前成功以五芒星結界封印寄生樹。他能預知小明的時代將發生的事情，死後仍在關鍵時刻顯靈啟示役家後代，被役家後代尊稱「小角祖先」。
 
   -
-    在原作中，為千年前役小角的式神的轉世，幼時父母雙亡，由神仙坊扶養長大。覺醒前性格膽怯，覺醒後性格與後鬼融合而立即轉為成熟。以守護役使者為己任，性格溫厚，可自行解除封印變回原貌，原貌比平時多了[虎牙與雙尖角](../Page/虎牙.md "wikilink")。加以小明的力量，能使前鬼進化成「超鬼神」，而獲得所向披靡的力量。尊稱小明。
+    在原作中，為千年前役小角的式神的轉世，幼時父母雙亡，由神仙坊扶養長大。覺醒前性格膽怯，覺醒後性格與後鬼融合而立即轉為成熟。以守護役使者為己任，性格溫厚，可自行解除封印變回原貌，原貌比平時多了[虎牙與雙尖角](https://zh.wikipedia.org/wiki/虎牙 "wikilink")。加以小明的力量，能使前鬼進化成「超鬼神」，而獲得所向披靡的力量。尊稱小明。
 
     招式為與。「守護天蓋」能造出結界抵擋攻擊，「不動龍棍」能化土為棍用以攻擊。
 
   -
-    影高野的退魔師，是一個英俊的[密宗僧侶](../Page/密宗.md "wikilink")，頭戴[墨鏡](../Page/墨鏡.md "wikilink")，使用以咒力化成的「退魔劍」戰鬥。在電視動畫版中，為尋找安久的下落而出走影高野，後來與小明和前鬼相遇，進而並肩作戰。
+    影高野的退魔師，是一個英俊的[密宗僧侶](../Page/密宗.md "wikilink")，頭戴[墨鏡](https://zh.wikipedia.org/wiki/墨鏡 "wikilink")，使用以咒力化成的「退魔劍」戰鬥。在電視動畫版中，為尋找安久的下落而出走影高野，後來與小明和前鬼相遇，進而並肩作戰。
 
   -
     壽海的徒弟，麒麟寺的年輕僧侶。在電視動畫版中，他是小明的[青梅竹馬](../Page/青梅竹馬.md "wikilink")，出場率大增，曾因暗戀小明而遭寄生果附身。其原型以及名字由來是七龍珠的克林。
 
   -
-    在原作中，後鬼丸的監護人，扶養後鬼丸長大。長鴻版單行本改譯為「深仙坊」。原型為[水戶黃門的](../Page/水戶黃門.md "wikilink")。
+    在原作中，後鬼丸的監護人，扶養後鬼丸長大。長鴻版單行本改譯為「深仙坊」。原型為[水戶黃門的](https://zh.wikipedia.org/wiki/水戶黃門 "wikilink")。
 
   -
     小明的同學，暱稱「小清」。在動畫版中是唯一能理解犬神狼的人，因暗戀犬神狼而被羯磨果附身。尊稱犬神狼「犬神先生」。
@@ -99,10 +99,10 @@
     小明的同學。
 
   -
-    [平安時代人物](../Page/平安時代.md "wikilink")，紀州高野的高僧，為告知役小綾黃金斧的秘密而來，後協助小明一行人見到黃金龍取得黃金斧。
+    [平安時代人物](https://zh.wikipedia.org/wiki/平安時代 "wikilink")，紀州高野的高僧，為告知役小綾黃金斧的秘密而來，後協助小明一行人見到黃金龍取得黃金斧。
 
   -
-    外型酷似眼球，會附身到有著強烈慾望的生物上，並擴大其慾望。當吸收寄主足夠慾望或受到邪力催化時，寄生果會轉化成寄生獸，吞噬寄主意識；然而只要在寄主未被完全支配前打倒寄生獸，寄生果就會與寄主分離，寄主就不會有生命危險。一個寄生果只能附身在一個寄主身上。同一個寄生果，無論更換多少個寄主，都只能轉化成同一隻寄生獸，寄生獸的力量隨寄主而異。在原作中，寄生果附身時及轉化成寄生獸時，會以[心電感應向寄主傳達簡短的訊息](../Page/心電感應.md "wikilink")（例如「我會實現你的願望」之類）；在電視動畫版中則無。
+    外型酷似眼球，會附身到有著強烈慾望的生物上，並擴大其慾望。當吸收寄主足夠慾望或受到邪力催化時，寄生果會轉化成寄生獸，吞噬寄主意識；然而只要在寄主未被完全支配前打倒寄生獸，寄生果就會與寄主分離，寄主就不會有生命危險。一個寄生果只能附身在一個寄主身上。同一個寄生果，無論更換多少個寄主，都只能轉化成同一隻寄生獸，寄生獸的力量隨寄主而異。在原作中，寄生果附身時及轉化成寄生獸時，會以[心電感應向寄主傳達簡短的訊息](https://zh.wikipedia.org/wiki/心電感應 "wikilink")（例如「我會實現你的願望」之類）；在電視動畫版中則無。
 
     在電視動畫版故事中期，羯磨死後殘存的怨念，使寄生果進化成，寄生獸轉化成更強大的。
 
@@ -122,7 +122,7 @@
 ### 犬神篇
 
   -
-    犬神軍團首領，其式神為「黑帝」，初次現身在前鬼眾人面前即展現壓倒性的實力。在原作中，他只有17歲，在[大阪擁有自己的大樓](../Page/大阪.md "wikilink")，為了讓黑帝進化成魔神獸而積極尋找寄生果，大本營設在該大樓內。
+    犬神軍團首領，其式神為「黑帝」，初次現身在前鬼眾人面前即展現壓倒性的實力。在原作中，他只有17歲，在[大阪擁有自己的大樓](https://zh.wikipedia.org/wiki/大阪 "wikilink")，為了讓黑帝進化成魔神獸而積極尋找寄生果，大本營設在該大樓內。
     在原作中，他藉由魔神獸繭之力變身為「魔神犬神狼」，最後被前鬼以極霸光消滅。
     在電視動畫版中，他是黃泉國國王閻凱之子，為了讓黑帝進化成魔神獸而積極尋找羯磨果；但在黑帝進化成魔神獸以後，他遭影虎謀害未成，轉而在黑帝進化成魔神獸之後協助前鬼眾人消滅魔神獸。
   -
@@ -195,7 +195,7 @@
 #### 其他角色
 
   -
-    聖尼斯克大學文理學院[心理學](../Page/心理學.md "wikilink")-{系}-教授，主要研究心靈考古學與超心理學，對與羯磨果相關的事非常感興趣。
+    聖尼斯克大學文理學院[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")-{系}-教授，主要研究心靈考古學與超心理學，對與羯磨果相關的事非常感興趣。
   -
     桑折教授的助手。受到後藤恭司委託，前往後藤家調查靈異現象，而遭到羯磨獸攻擊，與小晶在逃亡中，被小明眾人拯救。
   -
@@ -223,8 +223,8 @@ Comics〉發行新書版，全7冊。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -335,10 +335,10 @@ Comics〉發行新書版，全7冊。
 
 ## 電視動畫
 
-日本國內，1995年1月9日起至同年12月25日為止，毎週一的晚間18時00分至18時30分（[日本標準時間](../Page/日本標準時間.md "wikilink")）在[東京電視網](../Page/東京電視網.md "wikilink")（TXN）首播。全51話。此外該動畫也是日本至今唯一一部仍在播出的少年漫畫改編動畫。並在首播期間曾經錄製成[VHS和](../Page/VHS.md "wikilink")[LD](../Page/LD.md "wikilink")，均由[Pony
-Canyon發行](../Page/波麗佳音.md "wikilink")。
+日本國內，1995年1月9日起至同年12月25日為止，毎週一的晚間18時00分至18時30分（[日本標準時間](../Page/日本標準時間.md "wikilink")）在[東京電視網](../Page/東京電視網.md "wikilink")（TXN）首播。全51話。此外該動畫也是日本至今唯一一部仍在播出的少年漫畫改編動畫。並在首播期間曾經錄製成[VHS和](../Page/VHS.md "wikilink")[LD](https://zh.wikipedia.org/wiki/LD "wikilink")，均由[Pony
+Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
-台灣方面，台灣首播權則由[中國電視公司取得](../Page/中國電視公司.md "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視重播時另外製作國語配音](../Page/八大電視.md "wikilink")（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[6\]。
+台灣方面，台灣首播權則由[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視重播時另外製作國語配音](../Page/八大電視.md "wikilink")（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[6\]。
 
 動畫版的基本設定大都忠實於漫畫原作，與漫畫版不一樣的是各回登場的角色、憑依獸有些微的不同。而主要角色後鬼的設定也和漫畫版大不同。由於漫畫版有很多[殺必死](../Page/殺必死.md "wikilink")（[露內褲](../Page/裙底風光.md "wikilink")、露出[乳頭](../Page/乳頭.md "wikilink")）、[性描寫及血腥殘虐的成人畫面](../Page/性感.md "wikilink")，因此動畫播出時則是將這些成人畫面予以控制注\[7\]。還有，動畫版第3話的內容改編自短篇版、第31話的內容改編自漫畫連載期間發表的外傳。
 
@@ -347,11 +347,11 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 
 ### 製作人員
 
-  - 原作：-{谷}-菊秀、[黑岩善宏](../Page/黑岩善宏.md "wikilink")
+  - 原作：-{谷}-菊秀、[黑岩善宏](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")
   - 執行製作：伊地智啓
   - 企劃：岩田圭介（東京電視台）、大野實（讀賣廣告社）、田原正利
   - 導演：[西村純二](../Page/西村純二.md "wikilink")
-  - 劇本統籌：[山口亮太](../Page/山口亮太.md "wikilink")
+  - 劇本統籌：[山口亮太](https://zh.wikipedia.org/wiki/山口亮太 "wikilink")
   - 人物設定：
   - 視覺強化工作：[中嶋敦子](../Page/中嶋敦子.md "wikilink")
   - 機械設定：
@@ -372,8 +372,8 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   - 動畫製片人：豐住政弘
   - 製作人：小林教子→吉澤有（東京電視台）、今井修二→位下博一（讀賣廣告社）、朝倉千代子→千葉行利（K-Factory）
   - 動畫製作：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
-  - 製作：東京電視台、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")、[Kitty
-    Film](../Page/Kitty_Film.md "wikilink")（後期改名K-Factory）
+  - 製作：東京電視台、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")、[Kitty
+    Film](https://zh.wikipedia.org/wiki/Kitty_Film "wikilink")（後期改名K-Factory）
 
 ### 主題歌
 
@@ -398,18 +398,19 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 
 :; 「<small>（）</small>」（第1話－第21話）
 
-:: 作詞：白峰美津子，作曲、編曲－津野剛司，主唱：[瀧本瞳](../Page/瀧本瞳.md "wikilink")
+::
+作詞：白峰美津子，作曲、編曲－津野剛司，主唱：[瀧本瞳](https://zh.wikipedia.org/wiki/瀧本瞳 "wikilink")
 
 :; 「<small>（）</small>」（第22話－第38話）
 
-:: 作詞：，作曲、編曲：，主唱：[橫山智佐](../Page/橫山智佐.md "wikilink")
+:: 作詞：，作曲、編曲：，主唱：[橫山智佐](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")
 
 :; 「<small>（）</small>」（第39話－第49話）
 
   -
 
       -
-        作詞：[黑岩善宏](../Page/黑岩善宏.md "wikilink")，作曲、編曲：[天野正道](../Page/天野正道.md "wikilink")，主唱：橫山智佐、[緒方惠美](../Page/緒方惠美.md "wikilink")
+        作詞：[黑岩善宏](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")，作曲、編曲：[天野正道](../Page/天野正道.md "wikilink")，主唱：橫山智佐、[緒方惠美](../Page/緒方惠美.md "wikilink")
 
 ### 各話標題
 
@@ -436,7 +437,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>}}</p></td>
 <td><p>鬼神顯靈！我就是傳聞中的前鬼</p></td>
 <td></td>
-<td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山口亮太" title="wikilink">山口亮太</a></p></td>
 <td><p><a href="../Page/西村純二.md" title="wikilink">西村純二</a></p></td>
 <td><p>橫山廣行</p></td>
 </tr>
@@ -458,7 +459,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>小明危險了 小心快門按下去的那一刻！</p></td>
 <td><p>時村尚</p></td>
 <td><p>小川浩司</p></td>
-<td><p><a href="../Page/龜垣一.md" title="wikilink">龜垣一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龜垣一" title="wikilink">龜垣一</a></p></td>
 <td><p>憑依獸·蛇爬（）</p></td>
 <td></td>
 </tr>
@@ -467,7 +468,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>4</p></td>
 <td></td>
 <td><p>慾望之壺 鬼神鎮黃金計劃</p></td>
-<td><p><a href="../Page/十川誠志.md" title="wikilink">十川誠志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/十川誠志" title="wikilink">十川誠志</a></p></td>
 <td><p>松本佳久</p></td>
 <td><p>青木哲朗</p></td>
 <td><p>憑依獸·邪光猿（）</p></td>
@@ -479,7 +480,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td></td>
 <td><p>食慾魔神 前鬼的味道是幾星級？</p></td>
 <td><p>植田浩二</p></td>
-<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
 <td><p>守岡博</p></td>
 <td><p><a href="../Page/山本泰一郎.md" title="wikilink">山本泰一郎</a></p></td>
 <td><p>憑依獸·威嚇（）</p></td>
@@ -670,7 +671,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>時村尚</p></td>
 <td><p>渡邊哲哉</p></td>
 <td><p>牛草健</p></td>
-<td><p><a href="../Page/柳澤哲也.md" title="wikilink">柳澤哲也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳澤哲也" title="wikilink">柳澤哲也</a></p></td>
 <td><p>巨大山椒魚</p></td>
 </tr>
 <tr class="odd">
@@ -1007,7 +1008,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>所屬聯播網</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -1034,7 +1035,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
 <td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
 <td></td>
 <td></td>
@@ -1042,14 +1043,14 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a><br />
-<a href="../Page/香川縣.md" title="wikilink">香川縣</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
 <td><p><a href="../Page/瀨戶內電視台.md" title="wikilink">瀨戶內電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TXN九州</a></p></td>
 <td><p>同時播出<br />
 現已改名：TVQ九州放送</p></td>
@@ -1058,105 +1059,105 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a></p></td>
-<td><p><a href="../Page/青森電視台.md" title="wikilink">青森電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青森電視台" title="wikilink">青森電視台</a></p></td>
 <td><p><a href="../Page/日本新聞網_(TBS).md" title="wikilink">TBS系列</a></p></td>
 <td><p>星期五 16時00分－16時30分</p></td>
 <td><p>延遲播出</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></p></td>
-<td><p><a href="../Page/東日本放送.md" title="wikilink">東日本放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東日本放送" title="wikilink">東日本放送</a></p></td>
 <td><p><a href="../Page/全日本新聞網.md" title="wikilink">朝日電視網</a></p></td>
 <td><p>星期二 17時00分－17時30分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/山形縣.md" title="wikilink">山形縣</a></p></td>
-<td><p><a href="../Page/TVU山形.md" title="wikilink">TVU山形</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TVU山形" title="wikilink">TVU山形</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期五 16時55分－17時25分</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福島縣.md" title="wikilink">福島縣</a></p></td>
-<td><p><a href="../Page/福島電視台.md" title="wikilink">福島電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島電視台" title="wikilink">福島電視台</a></p></td>
 <td><p><a href="../Page/富士電視網.md" title="wikilink">富士電視網</a></p></td>
 <td><p>星期一 16時30分－17時00分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣</a></p></td>
-<td><p><a href="../Page/富山電視台.md" title="wikilink">富山電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富山電視台" title="wikilink">富山電視台</a></p></td>
 <td><p>星期二 16時30分－17時00分</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/石川縣.md" title="wikilink">石川縣</a></p></td>
-<td><p><a href="../Page/金澤電視台.md" title="wikilink">金澤電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金澤電視台" title="wikilink">金澤電視台</a></p></td>
 <td><p><a href="../Page/日本電視網協議會.md" title="wikilink">日本電視網</a></p></td>
 <td><p>星期二 17時00分－17時30分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井縣.md" title="wikilink">福井縣</a></p></td>
-<td><p><a href="../Page/福井電視台.md" title="wikilink">福井電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福井電視台" title="wikilink">福井電視台</a></p></td>
 <td><p>富士電視網</p></td>
 <td><p>星期二 16時30分－17時00分</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/山梨縣.md" title="wikilink">山梨縣</a></p></td>
-<td><p><a href="../Page/山梨電視台.md" title="wikilink">山梨電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山梨電視台" title="wikilink">山梨電視台</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期三 15時55分－16時25分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/長野縣.md" title="wikilink">長野縣</a></p></td>
-<td><p><a href="../Page/長野放送.md" title="wikilink">長野放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長野放送" title="wikilink">長野放送</a></p></td>
 <td><p>富士電視網</p></td>
 <td><p>星期四 16時30分－17時00分</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鳥取縣.md" title="wikilink">鳥取縣</a><br />
-<a href="../Page/島根縣.md" title="wikilink">島根縣</a></p></td>
-<td><p><a href="../Page/山陰放送.md" title="wikilink">山陰放送</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/島根縣" title="wikilink">島根縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山陰放送" title="wikilink">山陰放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期一 17時30分－18時00分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/廣島縣.md" title="wikilink">廣島縣</a></p></td>
-<td><p><a href="../Page/新廣島電視台.md" title="wikilink">新廣島電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新廣島電視台" title="wikilink">新廣島電視台</a></p></td>
 <td><p>富士電視網</p></td>
 <td><p>星期五 17時25分－17時55分</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/愛媛縣.md" title="wikilink">愛媛縣</a></p></td>
-<td><p><a href="../Page/愛電視台.md" title="wikilink">愛電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛電視台" title="wikilink">愛電視台</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期日 6時00分－6時30分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高知縣.md" title="wikilink">高知縣</a></p></td>
-<td><p><a href="../Page/高知電視台.md" title="wikilink">高知電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高知縣" title="wikilink">高知縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高知電視台" title="wikilink">高知電視台</a></p></td>
 <td><p>星期二 16時30分－17時00分|</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/佐賀縣.md" title="wikilink">佐賀縣</a></p></td>
-<td><p><a href="../Page/佐賀電視台.md" title="wikilink">佐賀電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐賀縣" title="wikilink">佐賀縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐賀電視台" title="wikilink">佐賀電視台</a></p></td>
 <td><p>富士電視網</p></td>
 <td><p>星期六 6時45分－7時15分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/長崎縣.md" title="wikilink">長崎縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長崎縣" title="wikilink">長崎縣</a></p></td>
 <td><p><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期日 17時00分－17時30分</p></td>
@@ -1164,7 +1165,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 </tr>
 <tr class="even">
 <td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a></p></td>
-<td><p><a href="../Page/熊本電視台.md" title="wikilink">熊本電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊本電視台" title="wikilink">熊本電視台</a></p></td>
 <td><p>富士電視網</p></td>
 <td><p>星期六 6時45分－7時15分</p></td>
 <td></td>
@@ -1179,7 +1180,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鹿兒島縣.md" title="wikilink">鹿兒島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島縣</a></p></td>
 <td><p><a href="../Page/南日本放送.md" title="wikilink">南日本放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td><p>星期三 16時24分－16時54分</p></td>
@@ -1187,7 +1188,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a></p></td>
-<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
 <td><p>星期四 16時30分－17時00分</p></td>
 <td></td>
 <td></td>
@@ -1204,7 +1205,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <!-- end list -->
 
   - 導演、分鏡：[西村純二](../Page/西村純二.md "wikilink")
-  - 編劇：[山口亮太](../Page/山口亮太.md "wikilink")
+  - 編劇：[山口亮太](https://zh.wikipedia.org/wiki/山口亮太 "wikilink")
   - 人物設定、作畫監督：
   - 演出：白旗伸朗
   - 美術監督：小山俊久
@@ -1214,7 +1215,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   - 錄音演出：[若林和弘](../Page/若林和弘.md "wikilink")
   - 製作人：小暮一雄、稻垣高廣
   - 動畫製作：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
-  - 製作：[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[K-Factory](../Page/Kitty_Film.md "wikilink")
+  - 製作：[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[K-Factory](https://zh.wikipedia.org/wiki/Kitty_Film "wikilink")
 
 <!-- end list -->
 
@@ -1227,7 +1228,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 ## 遊戲軟體
 
   - 《**鬼神童子ZENKI
-    烈鬥雷傳**<small>（）</small>》：1995年8月4日發售，對應機種為[SFC](../Page/超級任天堂.md "wikilink")，[Hudson製作發行](../Page/株式會社哈德森.md "wikilink")，類型為動作類遊戲。
+    烈鬥雷傳**<small>（）</small>》：1995年8月4日發售，對應機種為[SFC](../Page/超級任天堂.md "wikilink")，[Hudson製作發行](https://zh.wikipedia.org/wiki/株式會社哈德森 "wikilink")，類型為動作類遊戲。
   - 《**鬼神童子ZENKI**<small>（）</small>》：1995年9月1日發售，對應機種為[Game
     Gear](../Page/Game_Gear.md "wikilink")，[Sega製作發行](../Page/世嘉.md "wikilink")，類型為動作類遊戲。
   - 《**鬼神童子ZENKI
@@ -1296,7 +1297,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 4.  同時還有收錄短篇版的「鬼神童子ZENKI」。
 
 5.
-6.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](../Page/周麟_\(藝人\).md "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一介紹了接下來將要播放的](../Page/鄭進一.md "wikilink")《鬼神童子ZENKI》。1997年8月，[中華電視公司週六晚間綜藝節目](../Page/中華電視公司.md "wikilink")《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](../Page/柔道英雌.md "wikilink")》各一集。
+6.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](https://zh.wikipedia.org/wiki/周麟_\(藝人\) "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一介紹了接下來將要播放的](../Page/鄭進一.md "wikilink")《鬼神童子ZENKI》。1997年8月，[中華電視公司週六晚間綜藝節目](../Page/中華電視公司.md "wikilink")《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")》各一集。
 
 7.  不過只有第1集一直到故事終盤性描寫的表現大多集中在主角役小明身上。
 

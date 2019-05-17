@@ -1,15 +1,15 @@
-**Navman**（纳维特）是一家[新西兰的](../Page/新西兰.md "wikilink")[卫星导航系统制造商](../Page/卫星导航系统.md "wikilink")，成立于1988年，产品线覆盖一体式[GPS设备](../Page/GPS.md "wikilink")、[OEM](../Page/OEM.md "wikilink")
-GPS模块、[Palm](../Page/Palm.md "wikilink")[掌上电脑和](../Page/掌上电脑.md "wikilink")[Pocket
-PC使用的GPS软件](../Page/Pocket_PC.md "wikilink")、[车载导航系统和航海导航系统](../Page/车载导航系统.md "wikilink")。
+**Navman**（纳维特）是一家[新西兰的](../Page/新西兰.md "wikilink")[卫星导航系统制造商](../Page/卫星导航系统.md "wikilink")，成立于1988年，产品线覆盖一体式[GPS设备](https://zh.wikipedia.org/wiki/GPS "wikilink")、[OEM](https://zh.wikipedia.org/wiki/OEM "wikilink")
+GPS模块、[Palm](../Page/Palm.md "wikilink")[掌上电脑和](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")[Pocket
+PC使用的GPS软件](../Page/Pocket_PC.md "wikilink")、[车载导航系统和航海导航系统](https://zh.wikipedia.org/wiki/车载导航系统 "wikilink")。
 
 [j32_1_small.jpg](https://zh.wikipedia.org/wiki/File:j32_1_small.jpg "fig:j32_1_small.jpg")
-2004年6月，Brunswick公司收购Navman。2007年2月22日，Brunswick宣布，已经签署协议，将便携式导航设备部门出售给[台湾的](../Page/台湾.md "wikilink")[神達電腦](../Page/神達電腦.md "wikilink")。2008年，[宇達電通的Mio與Navman品牌正式合併](../Page/宇達電通.md "wikilink")，以Mio為存續品牌。
+2004年6月，Brunswick公司收购Navman。2007年2月22日，Brunswick宣布，已经签署协议，将便携式导航设备部门出售给[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")[神達電腦](../Page/神達電腦.md "wikilink")。2008年，[宇達電通的Mio與Navman品牌正式合併](../Page/宇達電通.md "wikilink")，以Mio為存續品牌。
 
-Navman海洋设备部设计制造[探鱼器](../Page/探鱼器.md "wikilink")、[声呐](../Page/声呐.md "wikilink")、[甚高频](../Page/甚高频.md "wikilink")[电台](../Page/电台.md "wikilink")、自动导航航行设备，这个部门2007年4月卖给了[挪威公司Navico](../Page/挪威.md "wikilink")。
+Navman海洋设备部设计制造[探鱼器](https://zh.wikipedia.org/wiki/探鱼器 "wikilink")、[声呐](https://zh.wikipedia.org/wiki/声呐 "wikilink")、[甚高频](https://zh.wikipedia.org/wiki/甚高频 "wikilink")[电台](https://zh.wikipedia.org/wiki/电台 "wikilink")、自动导航航行设备，这个部门2007年4月卖给了[挪威公司Navico](../Page/挪威.md "wikilink")。
 
 Navman有雇员300多人，主要设计研发和生产GPS卫星接收器、航行规划设备、燃料流量计、船速计、深度计，风速计和探鱼器等。
 
-[卫星导航技术是Navman产品的核心技术](../Page/卫星导航.md "wikilink")，其三个部门是海洋导航、车载导航和无线电跟踪。
+[卫星导航技术是Navman产品的核心技术](https://zh.wikipedia.org/wiki/卫星导航 "wikilink")，其三个部门是海洋导航、车载导航和无线电跟踪。
 
 ## 车载导航系统
 
@@ -33,7 +33,7 @@ Marelli）.
 ### 700系列
 
 2005年，Navman的600系列被**700系列**取代，这一系列有2款iCN 720和iCN
-750。这两款的唯一区别就是存储介质。720使用[SD卡](../Page/SD卡.md "wikilink")，750使用内置的4GB[微硬盘](../Page/微硬盘.md "wikilink")。这一系列使用宽触摸屏，无需手写笔，机身上有最近加油站和停车场按键，也是第一个使用NavPix技术的产品系列。
+750。这两款的唯一区别就是存储介质。720使用[SD卡](../Page/SD卡.md "wikilink")，750使用内置的4GB[微硬盘](https://zh.wikipedia.org/wiki/微硬盘 "wikilink")。这一系列使用宽触摸屏，无需手写笔，机身上有最近加油站和停车场按键，也是第一个使用NavPix技术的产品系列。
 
 ### F系列
 
@@ -66,11 +66,11 @@ iCN产品线一览：
 
 ## 特性
 
-Navman的公司口号是：终极导航，也正是他们所努力设计制造可靠的，富有创新的简单易用的导航产品的体现。因此在Navman的产品里不会象其他竞争者那样集成[收音机](../Page/收音机.md "wikilink")，[Mp3播放器](../Page/Mp3.md "wikilink")。相反，他们竭尽所能发挥产品的导航功能。Navman的产品一般小巧便于携带，屏幕显示清晰锐利。所有产品的机身上都有最近加油站和停车场这两个按键。
+Navman的公司口号是：终极导航，也正是他们所努力设计制造可靠的，富有创新的简单易用的导航产品的体现。因此在Navman的产品里不会象其他竞争者那样集成[收音机](../Page/收音机.md "wikilink")，[Mp3播放器](https://zh.wikipedia.org/wiki/Mp3 "wikilink")。相反，他们竭尽所能发挥产品的导航功能。Navman的产品一般小巧便于携带，屏幕显示清晰锐利。所有产品的机身上都有最近加油站和停车场这两个按键。
 
 ## NavPix
 
-Navman2006年将“[NavPix](../Page/NavPix.md "wikilink")”技术引入700系列便携式导航设备中。NavPix技术可以将数码照片和地理信息数据集成起来生成NavPix图片，这样图片的精确位置就保存起来。720和750是使用这一技术的最初型号，这两款机器配备了130万像素摄像头。
+Navman2006年将“[NavPix](https://zh.wikipedia.org/wiki/NavPix "wikilink")”技术引入700系列便携式导航设备中。NavPix技术可以将数码照片和地理信息数据集成起来生成NavPix图片，这样图片的精确位置就保存起来。720和750是使用这一技术的最初型号，这两款机器配备了130万像素摄像头。
 
 NavPix提供给使用者除了输入地址和邮政编码外，以另一种方式导航。
 在N系列产品中从2006年9月开始也陆续有了支持这一技术的产品：N40i和宽屏的N60i。这两款都内置了摄像头，N20型号可以使用NavPix的存档但是本身不带摄像头。
@@ -87,6 +87,6 @@ NavPix提供给使用者除了输入地址和邮政编码外，以另一种方�
 ## 参看
 
   - [卫星导航系统](../Page/卫星导航系统.md "wikilink")
-  - [GPS](../Page/GPS.md "wikilink")
+  - [GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")
 
 [Category:卫星导航](https://zh.wikipedia.org/wiki/Category:卫星导航 "wikilink")

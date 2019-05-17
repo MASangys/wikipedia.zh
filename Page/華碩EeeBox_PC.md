@@ -1,7 +1,8 @@
 [2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg](https://zh.wikipedia.org/wiki/File:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg "fig:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg")
-**Eee BOX**，[華碩電腦](../Page/華碩電腦.md "wikilink")（ASUSTeK Computer
-Inc.）繼推出[小筆電](../Page/小筆電.md "wikilink")[Eee
-PC](../Page/Eee_PC.md "wikilink")，於2008年7月30日以「**易學、易玩、亦迷你**」為訴求，推出全世界最小的[桌上電腦主機](../Page/桌上電腦.md "wikilink")。
+**Eee
+BOX**，[華碩電腦](https://zh.wikipedia.org/wiki/華碩電腦 "wikilink")（ASUSTeK
+Computer Inc.）繼推出[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[Eee
+PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，於2008年7月30日以「**易學、易玩、亦迷你**」為訴求，推出全世界最小的[桌上電腦主機](https://zh.wikipedia.org/wiki/桌上電腦 "wikilink")。
 
 ## 特色
 
@@ -61,7 +62,7 @@ PC](../Page/Eee_PC.md "wikilink")，於2008年7月30日以「**易學、易玩�
 
 ## 內部連結
 
-  - [Eee PC](../Page/Eee_PC.md "wikilink")
+  - [Eee PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")
 
 ## 外部連結
 

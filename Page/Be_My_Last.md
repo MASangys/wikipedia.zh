@@ -8,7 +8,7 @@ Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光的第](..
   - 本曲為2005年10月上映的電影[春之雪主題曲](../Page/春之雪.md "wikilink")，《如願以償》後連續第二首電影主題曲。
   - 本曲封面與PV都是在[捷克的](../Page/捷克.md "wikilink")[布拉格拍攝](../Page/布拉格.md "wikilink")，封面左方的黑色城堡就是有名的世界最大古堡[布拉格城堡](../Page/布拉格城堡.md "wikilink")。
   - 於2005年11月11日播放的「[Music
-    Station](../Page/Music_Station.md "wikilink")」，只使用大提琴伴奏演唱了本曲。其後於「[UTADA
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")」，只使用大提琴伴奏演唱了本曲。其後於「[UTADA
     UNITED 2006](../Page/UTADA_UNITED_2006.md "wikilink")」演唱會中同樣演唱此版本。
   - 伴奏只使用一支[吉他的簡單樂曲](../Page/吉他.md "wikilink")\[1\]，其唯一一首沒有使用鍵盤作編曲的歌曲。
 

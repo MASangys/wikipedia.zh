@@ -12,14 +12,14 @@
 為加爾迪羅貝學園的預備生，制服為紅色，就讀一年後就可升為珍珠乙姬。（後來畢業的不會顯示在此）
 
   - 愛爾斯汀．賀（　Erstin Ho）
-    聲：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+    聲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
     出生國家：安南
     亞里香以前的同班同學，服侍茜，性格非常溫馴，被亞里香和妮娜的外向個性所吸引。自少被教育成黑團的信徒。擁有奴獸，為了要讓真白女王投降而召喚出奴獸，在保護亞里香時，奴獸遭妮娜擊破，自己亦隨之而消失。最後她的遺物對妮娜有很大的影響。
 
 <!-- end list -->
 
   - 伊莉娜．伍茲（　Irina Woods）
-    聲：[比嘉久美子](../Page/比嘉久美子.md "wikilink")
+    聲：[比嘉久美子](https://zh.wikipedia.org/wiki/比嘉久美子 "wikilink")
     出生國家：愛瑞斯共和國
     亞里香以前的同班同學，茜的服務員，對機械十分有興趣，由於風華事變時擔心亞里香的去向，但後來也協助奪回城堡，戰後平安晉級珍珠，畢業後是加爾迪羅貝的研究員，擔任陽子老師的助手。
 
@@ -131,7 +131,7 @@
 ### 學園教職員
 
   - 瑪利亞．葛蕾斯伯（　Maria Graceburt）
-    聲：[松岡洋子](../Page/松岡洋子.md "wikilink")
+    聲：[松岡洋子](https://zh.wikipedia.org/wiki/松岡洋子 "wikilink")
     出生國家：古羅繆勒斯
     擁有GEM・稱號：久遠之碧玉（Eternal Recurrence Jasper，起源：古羅繆勒斯）
     主人：真祖—二三．姬野
@@ -177,7 +177,7 @@
 <!-- end list -->
 
   - 真白‧布蘭‧杜‧溫德布倫（　Mashiro Blan de Windbloom）
-    聲：[野上尤加奈](../Page/野上尤加奈.md "wikilink")；台灣：[雷碧文](../Page/雷碧文.md "wikilink")
+    聲：[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")；台灣：[雷碧文](../Page/雷碧文.md "wikilink")
     出生國家：？
     擁有GEM：蒼天之青玉
     契約的乙HiME：夢宮．亞里香
@@ -186,7 +186,7 @@
 <!-- end list -->
 
   - 命（貓）（　Mikoto）
-    聲：[清水愛](../Page/清水愛.md "wikilink")
+    聲：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
     出生國家：黑谷
     真白的寵物，命的「眼」，從小就被真白飼養著，與真白和亞里香的感情很好，很愛吃蘑菇。擁有神秘力量的貓，左耳上的環是物質化的媒介，物質化後，舞鬥服為加爾迪羅貝學員學生的舞鬥服，是隻母貓？（特典第七卷出現的劇情，真實性有待商榷。）
 
@@ -217,7 +217,7 @@
 <!-- end list -->
 
   - 咪咪（　Mimi）
-    聲：[清水愛](../Page/清水愛.md "wikilink")
+    聲：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
     出生國家：？
     在21集被奴獸擊中，傷重不治。
 
@@ -241,7 +241,7 @@
 <span style="font-size:smaller;">台譯：命</span>
 
   -
-    聲：[清水愛](../Page/清水愛.md "wikilink")
+    聲：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")
     出生國家：？
     擁有GEM：炎綬之紅玉
     契約的乙HiME：鴇羽舞衣
@@ -250,7 +250,7 @@
 <!-- end list -->
 
   - Ribbon chan（　Ribbon Chan）
-    聲：[栗林美奈實](../Page/栗林美奈實.md "wikilink")
+    聲：[栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
     出生國家：黑谷
     Schwarz的女孩，在舞衣的拉麵店幫忙。
 
@@ -261,7 +261,7 @@
 位於風花王國北方的強大軍事國家。
 
   - 凪．戴．阿爾泰（ Nagi．Dai．Altai）
-    聲：[石田彰](../Page/石田彰.md "wikilink")；台灣：[劉傑](../Page/劉傑.md "wikilink")
+    聲：[石田彰](../Page/石田彰.md "wikilink")；台灣：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")
     出生國家：阿爾泰公國
     擁有GEM：漆黑之金剛石
     契約的乙HiME：妮娜．翁
@@ -309,7 +309,7 @@
 <!-- end list -->
 
   - 千繪．海拉德（ Chie Hallard）
-    聲：[齋賀觀月](../Page/齋賀觀月.md "wikilink")
+    聲：[齋賀觀月](https://zh.wikipedia.org/wiki/齋賀觀月 "wikilink")
     出生國家：愛瑞斯共和國
     擁有GEM・稱號：？(unnamed，一顆藍色的GEM)
     主人：愛瑞斯共和國中校—勃曼中校（波曼准將）
@@ -378,7 +378,7 @@
 王家代代相傳的GEM為「清戀之孔雀石」、「深淵之翡翠」和「螺旋之蛇紋石」。
 
   - 查理夏爾洛八世（ Charles Guinel Roy d'Florince VIII ）
-    聲：[岩尾萬太郎](../Page/岩尾萬太郎.md "wikilink")
+    聲：[岩尾萬太郎](https://zh.wikipedia.org/wiki/岩尾萬太郎 "wikilink")
     出生國家：佛羅倫斯
     擁有GEM：清戀之孔雀石→深淵之翡翠→螺旋之蛇紋石
     契約的乙HiME：羅莎麗．克勞迪爾→詩帆．尤伊
@@ -458,7 +458,7 @@
 不確定正確名稱。
 
   - Nyugen Bao（ Nyugen Bao）
-    聲：[宮下榮治](../Page/宮下榮治.md "wikilink")
+    聲：[宮下榮治](https://zh.wikipedia.org/wiki/宮下榮治 "wikilink")
     出生國家：安南
     擁有GEM：慧命之藍銅礦
     契約的乙HiME：阿因．Lu
@@ -480,7 +480,7 @@
 在東方邊境的國家，有著獨特的文化和技術，在風華事變時是提供愛瑞斯超級潛入沙軍艦航空母艦—珠洲城的建材，王家代代相傳的GEM為「炎綬之紅玉」。
 
   - 鴇羽巧海（ Tokiha Takumi）
-    聲：[高橋裕吾](../Page/高橋裕吾.md "wikilink")
+    聲：[高橋裕吾](https://zh.wikipedia.org/wiki/高橋裕吾 "wikilink")
     出生國家：日邦格
     日邦國將軍的兒子，舞衣的弟弟，患有先天性胃病，一日吃三次藥往往是不可或缺的習慣，認真誠實，不過不能從舞衣的身邊離開，在簧風琴啟動後，提供愛瑞斯超級潛入沙軍艦航空母艦—珠洲城的建材，戰後與舞衣平安相見。
 
@@ -513,7 +513,7 @@
 <!-- end list -->
 
   - 黎人（ Rad）
-    聲優：[關俊彦](../Page/關俊彦.md "wikilink")
+    聲優：[關俊彦](https://zh.wikipedia.org/wiki/關俊彦 "wikilink")
     出生國家：黑谷
     控制獸（子獸）：？
     是陽子的愛人，原來也是人，但因簧風琴所遺留的病，而改造成改造人，在15年前擊敗了蒼天之青玉蕾娜．賽雅斯，在卡迪亞一役受了重傷，但被陽子救回，在風華事變中作為掩護，事後知道當年蕾娜．賽雅斯的真相。
@@ -521,7 +521,7 @@
 <!-- end list -->
 
   - 魯曼（ Lumen）
-    聲：[内田直哉](../Page/内田直哉.md "wikilink")
+    聲：[内田直哉](https://zh.wikipedia.org/wiki/内田直哉 "wikilink")
     出生國家：黑谷
     和黎人一樣在卡迪亞一役受傷。
 
@@ -532,7 +532,7 @@
 神秘的邪惡團體，想要復興地球時代的科學技術，對隱藏技術的加爾迪羅貝學園和溫德布倫王國圖謀不軌，既奪取科學技術，也利用獨自的技術分析研究出了特殊的GEM，操控著巨大怪物奴獸（Slave）。收到黑信的團員必須執行信內的指示。黑團在風花事變後交由貓神山管理。
 
   - 約翰・史密斯（ John・Smith）
-    聲：[内田直哉](../Page/内田直哉.md "wikilink")
+    聲：[内田直哉](https://zh.wikipedia.org/wiki/内田直哉 "wikilink")
     出生國家：？
     是黑團的首領，也是暗中幫助颯的人。在加爾迪羅貝畢業舞鬥時使用被改造的風華宮攻擊。十五年前奪取蕾娜．賽雅斯的遺體，並製造了詛咒之黑曜石。後來原本要殺謝爾蓋，結果反而被殺。
 

@@ -1,10 +1,10 @@
 《**Full House
-Kiss2**》（）是2006年2月23日由[CAPCOM發售](../Page/CAPCOM.md "wikilink")[PS2用的](../Page/PS2.md "wikilink")[恋爱冒险游戏](../Page/恋爱冒险游戏.md "wikilink")。正式種類名稱為恋爱女佣。前作是[Full
+Kiss2**》（）是2006年2月23日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為恋爱女佣。前作是[Full
 House
-Kiss](../Page/Full_House_Kiss.md "wikilink")。人物設計與原畫是由少女漫畫家[佑羽栞擔任](../Page/佑羽栞.md "wikilink")。media
+Kiss](../Page/Full_House_Kiss.md "wikilink")。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。media
 mix企画、佑羽刊作画的漫画版在[白泉社的](../Page/白泉社.md "wikilink")《[花與夢](../Page/花與夢.md "wikilink")》上連載。繼承登場人物的續編《[Full
 House
-Kiss2～戀愛迷宮～](../Page/Full_House_Kiss2～戀愛迷宮～.md "wikilink")》從2007年12月20日開始由daletto（）配信。
+Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛迷宮～ "wikilink")》從2007年12月20日開始由daletto（）配信。
 
 ## 簡介
 
@@ -18,7 +18,7 @@ Kiss2～戀愛迷宮～](../Page/Full_House_Kiss2～戀愛迷宮～.md "wikilink
     聲：[小林沙苗](../Page/小林沙苗.md "wikilink")※仅广播剧CD
     7月9日生，16歳，O型，161cm。女主角。不論何時總是元氣十足，是個好勝的女孩子。一哉曰「是個橫衝直撞的笨蛋」。相當擅長家務。在前作的事件解決後便回到自己的家生活，由於一哉的請求再次到御堂家住且擔任女佣的工作，還成為了東條葵的秘書……
   -
-    声：[荻原秀樹](../Page/荻原秀樹.md "wikilink")
+    声：[荻原秀樹](https://zh.wikipedia.org/wiki/荻原秀樹 "wikilink")
     2月18日生，17歳，A型，178cm。祥慶學園3年級，La
     Prince之一。世界的大企業御堂集團的獨生子。一出生便成為集團的接班人，7歲就隻身到英國留學學習帝王學。高中生時已經是六個企業有實權的社長。具有名聲與實權，冷靜沉著且傲慢不遜，不過卻是個認真溫柔的笨蛋。在頭腦明晰成績優秀體育萬能稱譽「完整無缺的領袖人物的超级魅力高中生」的背後，其實对掃除和整理之类的工作很不擅长应付。在本作中，成为某人暗杀的对象，出事故重傷3個月。
     ※遊戲中的生日为「2月19日」是制作方的小疏漏。
@@ -42,7 +42,7 @@ Kiss2～戀愛迷宮～](../Page/Full_House_Kiss2～戀愛迷宮～.md "wikilink
     11月3日生，35歳，A型，178cm。自前作的追隨校園事件后，被派遣代替櫻木永世，成为年輕的祥慶學園理事長。前職是大學副教授。言行舉止溫和，是個穩重親切的成年男子。
   -
     声：[岸尾大輔](../Page/岸尾大輔.md "wikilink")
-    24歳，172cm。不知道要「安定」，得意樣樣的祥慶學園體育教師。從前作開始就中意身为女教師的麦，死心眼地深信她也能感受到所谓的“[灵魂伴侣](../Page/灵魂伴侣.md "wikilink")”，像[跟踪狂一样追踪着她](../Page/跟踪狂.md "wikilink")。愛好寫詩。
+    24歳，172cm。不知道要「安定」，得意樣樣的祥慶學園體育教師。從前作開始就中意身为女教師的麦，死心眼地深信她也能感受到所谓的“[灵魂伴侣](../Page/灵魂伴侣.md "wikilink")”，像[跟踪狂一样追踪着她](https://zh.wikipedia.org/wiki/跟踪狂 "wikilink")。愛好寫詩。
 
 ### 其他角色
 
@@ -62,16 +62,16 @@ Kiss2～戀愛迷宮～](../Page/Full_House_Kiss2～戀愛迷宮～.md "wikilink
     声：[小野大輔](../Page/小野大輔.md "wikilink")
     18歳，177cm。祥慶學園罕見的不良學生。從前作的女教師时代開始就把麦视为眼中釘……
   -
-    声：[大橋隆昌](../Page/大橋隆昌.md "wikilink")
+    声：[大橋隆昌](https://zh.wikipedia.org/wiki/大橋隆昌 "wikilink")
     17歳。祥慶學園的學生，學生會书记。家里經營製藥公司。有點神經質。
   -
-    声：[渡边英雄](../Page/渡边英雄.md "wikilink")
+    声：[渡边英雄](https://zh.wikipedia.org/wiki/渡边英雄 "wikilink")
     18歳。祥慶學園的學生，與江見瞳子是青梅竹馬也是戀人，不過當初被彼此的父母拼命反對。以醫生作為目標。
   -
-    声：[細野雅世](../Page/細野雅世.md "wikilink")
+    声：[細野雅世](https://zh.wikipedia.org/wiki/細野雅世 "wikilink")
     18歳。祥慶學園的學生，與五寶直士是青梅竹馬也是戀人，被父母認同交往，決定跟五寶直士一樣向醫學的道路前進。
   -
-    声：[上田陽司](../Page/上田陽司.md "wikilink")
+    声：[上田陽司](https://zh.wikipedia.org/wiki/上田陽司 "wikilink")
     56歳，160cm。溫厚穩健的祥慶學園學園長。和善地关注着麦的工作。
   -
     声：[友永朱音](../Page/友永朱音.md "wikilink")

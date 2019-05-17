@@ -9,9 +9,9 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 80年代，出崎統與[杉野昭夫退出MADHOUSE另外成立](../Page/杉野昭夫.md "wikilink")『』；丸山正雄就任社長，開始主要以林太郎監督、角川書店製作的劇場版動畫及OVA作品。
 
-90年代，從89年的[柔道英雌開始](../Page/柔道英雌.md "wikilink")，正式展開自己的電視動畫作品。98年推出[淺香守生監督的](../Page/淺香守生.md "wikilink")[庫洛魔法使後](../Page/庫洛魔法使.md "wikilink")，其製作水準讓原本主要製作OVA與劇場版的Madhouse更廣為人知。
+90年代，從89年的[柔道英雌開始](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")，正式展開自己的電視動畫作品。98年推出[淺香守生監督的](../Page/淺香守生.md "wikilink")[庫洛魔法使後](https://zh.wikipedia.org/wiki/庫洛魔法使 "wikilink")，其製作水準讓原本主要製作OVA與劇場版的Madhouse更廣為人知。
 
-2000年以後持續製作多元動畫，除了知名導演[川尻善昭和](../Page/川尻善昭.md "wikilink")[今敏等人的電影外](../Page/今敏.md "wikilink")，也經手[駭客任務動畫外傳等高藝術性的作品](../Page/駭客任務動畫外傳.md "wikilink")，或是富娛樂性的[銀河天使等](../Page/銀河天使.md "wikilink")。
+2000年以後持續製作多元動畫，除了知名導演[川尻善昭和](../Page/川尻善昭.md "wikilink")[今敏等人的電影外](../Page/今敏.md "wikilink")，也經手[駭客任務動畫外傳等高藝術性的作品](https://zh.wikipedia.org/wiki/駭客任務動畫外傳 "wikilink")，或是富娛樂性的[銀河天使等](../Page/銀河天使.md "wikilink")。
 
 ## 作品一覽
 
@@ -25,22 +25,22 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - （）（總承包商：東京電影新社，1975年）
 
-  - [大空魔龍](../Page/大空魔龍.md "wikilink")（）（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，協力製作，1976年－1977年）
+  - [大空魔龍](../Page/大空魔龍.md "wikilink")（）（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，協力製作，1976年－1977年）
 
   - （）（總承包商：，負責全127集之中的第1－52集，1976－1977年）
 
-  - [咪咪流浪記](../Page/咪咪流浪記.md "wikilink")（）（總承包商：東京電影新社，1977－1978年）
+  - [咪咪流浪記](https://zh.wikipedia.org/wiki/咪咪流浪記 "wikilink")（）（總承包商：東京電影新社，1977－1978年）
 
-  - [無敵小超人](../Page/鐵臂馬魯斯.md "wikilink")（）（總承包商：東映動畫，協力製作，1977年）
+  - [無敵小超人](https://zh.wikipedia.org/wiki/鐵臂馬魯斯 "wikilink")（）（總承包商：東映動畫，協力製作，1977年）
 
   - [金銀島](../Page/金銀島_\(動畫\).md "wikilink")（）（總承包商：東京電影新社，1978年－1979年）
 
-  - [馬可·波羅遊記](../Page/馬可·波羅遊記.md "wikilink")（）（1979年－1980年）
+  - [馬可·波羅遊記](https://zh.wikipedia.org/wiki/馬可·波羅遊記 "wikilink")（）（1979年－1980年）
 
 #### 1980年代
 
-  - [柔道英雌](../Page/以柔克剛.md "wikilink")，又譯**以柔克剛**（）（總承包商：[Kitty
-    film](../Page/Kitty_film.md "wikilink")，1989年－1992年）
+  - [柔道英雌](https://zh.wikipedia.org/wiki/以柔克剛 "wikilink")，又譯**以柔克剛**（）（總承包商：[Kitty
+    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，1989年－1992年）
 
   - （）（總承包商：Kitty film，1989年－1990年）
 
@@ -51,25 +51,26 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [DNA²](../Page/DNA².md "wikilink")（）（與[STUDIO
     DEEN共同製作](../Page/STUDIO_DEEN.md "wikilink")，1994年－1995年）
 
-  - [幽☆遊☆白書](../Page/幽遊白書.md "wikilink")（總承包商：[Studio
+  - [幽☆遊☆白書](https://zh.wikipedia.org/wiki/幽遊白書 "wikilink")（總承包商：[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")，背景\[2\]、動畫
     ，1992年－1995年）
 
-  - [小紅豆](../Page/小紅豆_\(漫畫\).md "wikilink")（）（1995年－1998年）
+  - [小紅豆](https://zh.wikipedia.org/wiki/小紅豆_\(漫畫\) "wikilink")（）（1995年－1998年）
 
-  - [炸彈人 彈珠人爆外傳](../Page/炸彈人_彈珠人爆外傳.md "wikilink")（）（1998年－1999年）
+  - [炸彈人
+    彈珠人爆外傳](https://zh.wikipedia.org/wiki/炸彈人_彈珠人爆外傳 "wikilink")（）（1998年－1999年）
 
   - [槍神Trigun](../Page/槍神Trigun.md "wikilink")（）（1998年）
 
-  - [庫洛魔法使](../Page/百變小櫻.md "wikilink")（）（1998年－2000年）
+  - [庫洛魔法使](https://zh.wikipedia.org/wiki/百變小櫻 "wikilink")（）（1998年－2000年）
 
-  - [危險調查員](../Page/危險調查員.md "wikilink")（）（1998年－1999年）
+  - [危險調查員](https://zh.wikipedia.org/wiki/危險調查員 "wikilink")（）（1998年－1999年）
 
   - [麗佳公主](../Page/麗佳公主.md "wikilink")（）（協力製作：→[SSJ](../Page/Synergy_SP.md "wikilink")，1998年－1999年）
 
   - [亞歷山大戰記](../Page/亞歷山大戰記.md "wikilink")（）（製作人，1999年）
 
-  - [蠟筆小新](../Page/蠟筆小新.md "wikilink")（）（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，各話協力製作，1999年）
+  - [蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")（）（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，各話協力製作，1999年）
 
   - （與[TRIANGLE STAFF共同製作](../Page/TRIANGLE_STAFF.md "wikilink")，1999年）
 
@@ -77,7 +78,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [十兵衛 心形眼罩的秘密](../Page/十兵衛.md "wikilink")（）（1999年）
 
-  - [恐怖寵物店](../Page/恐怖寵物店.md "wikilink")（）（1999年）
+  - [恐怖寵物店](https://zh.wikipedia.org/wiki/恐怖寵物店 "wikilink")（）（1999年）
 
   - [鈴鐺貓娘系列](../Page/Di_Gi_Charat.md "wikilink")（）
 
@@ -94,20 +95,22 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 <!-- end list -->
 
-  - [幻影死神](../Page/幻影死神.md "wikilink")（）（協力製作：TRIANGLE STAFF）
+  - [幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")（）（協力製作：TRIANGLE
+    STAFF）
 
   - （）
 
   - （）
 
-  - [櫻花大戰TV](../Page/櫻花大戰_\(電視動畫\).md "wikilink")（）（協力製作：TRIANGLE STAFF）
+  - [櫻花大戰TV](https://zh.wikipedia.org/wiki/櫻花大戰_\(電視動畫\) "wikilink")（）（協力製作：TRIANGLE
+    STAFF）
 
   - [第一神拳系列](../Page/第一神拳.md "wikilink")（）
 
       - 第1季（2000年－2002年）
       - 第2季：第一神拳 新挑戰者（）（2009年）
       - 第3季：第一神拳
-        Rising（）（與[MAPPA共同製作](../Page/MAPPA.md "wikilink")，2013年－2014年）
+        Rising（）（與[MAPPA共同製作](https://zh.wikipedia.org/wiki/MAPPA "wikilink")，2013年－2014年）
 
   - （總承包商：，2000年－2003年）
 
@@ -122,7 +125,8 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [銀河天使](../Page/銀河天使.md "wikilink")（）（2001年－2004年）
 
-  - （）（與[TNK共同製作](../Page/TNK.md "wikilink")，協立製作：Studio Matrix）
+  - （）（與[TNK共同製作](https://zh.wikipedia.org/wiki/TNK "wikilink")，協立製作：Studio
+    Matrix）
 
   - （）
 
@@ -144,9 +148,9 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [Chobits](../Page/Chobits.md "wikilink")（）
   - [水瓶戰記Sign for Evolution](../Page/水瓶戰記.md "wikilink")（）
   - [炎之蜃氣樓](../Page/炎之蜃氣樓.md "wikilink")（）（協力製作：Studio Matrix）
-  - [爆彈小新娘](../Page/爆彈小新娘.md "wikilink")（）（與共同製作，協力製作：）
-  - [花田少年史](../Page/花田少年史.md "wikilink")（2002年－2003年）
-  - [阿倍野橋魔法商店街](../Page/阿倍野橋魔法商店街.md "wikilink")（）（共同製作：[GAINAX](../Page/GAINAX.md "wikilink")）
+  - [爆彈小新娘](https://zh.wikipedia.org/wiki/爆彈小新娘 "wikilink")（）（與共同製作，協力製作：）
+  - [花田少年史](https://zh.wikipedia.org/wiki/花田少年史 "wikilink")（2002年－2003年）
+  - [阿倍野橋魔法商店街](https://zh.wikipedia.org/wiki/阿倍野橋魔法商店街 "wikilink")（）（共同製作：[GAINAX](../Page/GAINAX.md "wikilink")）
 
 <!-- end list -->
 
@@ -159,12 +163,12 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   -
   - [神槍少女](../Page/神槍少女.md "wikilink")（）（2003年－2004年）
 
-  - [槍墓](../Page/槍墓.md "wikilink")（）（2003年－2004年）
+  - [槍墓](https://zh.wikipedia.org/wiki/槍墓 "wikilink")（）（2003年－2004年）
 
   - [星球流浪記](../Page/星球流浪記.md "wikilink")（）（與共同製作，2003年－2004年）
 
   - （總承包商：[Studio
-    Fantasia](../Page/Studio_Fantasia.md "wikilink")，各話協力製作）
+    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")，各話協力製作）
 
   - （）
 
@@ -181,17 +185,17 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - （）
 
-  - [MONSTER](../Page/MONSTER.md "wikilink")（2004年－2005年）
+  - [MONSTER](https://zh.wikipedia.org/wiki/MONSTER "wikilink")（2004年－2005年）
 
   - [十兵衛2 西伯利亞柳生的逆襲](../Page/十兵衛.md "wikilink")（）
 
   - [妄想代理人](../Page/妄想代理人.md "wikilink")
 
-  - [BECK](../Page/BECK_\(漫畫\).md "wikilink")（）（2004年－2005年）
+  - [BECK](https://zh.wikipedia.org/wiki/BECK_\(漫畫\) "wikilink")（）（2004年－2005年）
 
-  - [琉球武士瘋雲錄](../Page/琉球武士瘋雲錄.md "wikilink")（）（總承包商：[Manglobe](../Page/Manglobe.md "wikilink")，OP協力）
+  - [琉球武士瘋雲錄](https://zh.wikipedia.org/wiki/琉球武士瘋雲錄 "wikilink")（）（總承包商：[Manglobe](../Page/Manglobe.md "wikilink")，OP協力）
 
-  - [薔薇少女](../Page/薔薇少女.md "wikilink")（）（總承包商：[NOMAD](../Page/Nomad_\(公司\).md "wikilink")，各話協力製作）
+  - [薔薇少女](../Page/薔薇少女.md "wikilink")（）（總承包商：[NOMAD](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，各話協力製作）
 
   - [抓鬼天狗幫](../Page/抓鬼天狗幫.md "wikilink")（）（總承包商：STUDIO
     DEEN，協助各集原畫、動畫，2004年－2005年）
@@ -202,8 +206,8 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 <!-- end list -->
 
-  - [草莓100%](../Page/草莓100%.md "wikilink")（TV版）（）（協力製作：STUDIO MATRIX、DR
-    TOKYO）
+  - [草莓100%](https://zh.wikipedia.org/wiki/草莓100% "wikilink")（TV版）（）（協力製作：STUDIO
+    MATRIX、DR TOKYO）
   - [天國之吻](../Page/天國之吻.md "wikilink")（）
   - [我太太是高中生](../Page/我太太是高中生.md "wikilink")（）（協力製作：IMAGIN）
   - [鬥牌傳說](../Page/鬥牌傳說.md "wikilink")（）（協力製作：DR MOVIE，2005－2006年）
@@ -216,7 +220,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [NANA](../Page/NANA.md "wikilink")（2006年－2007年）
 
-  - [草莓狂熱](../Page/草莓狂熱.md "wikilink")（）（協助製作：IMAGIN）
+  - [草莓狂熱](https://zh.wikipedia.org/wiki/草莓狂熱 "wikilink")（）（協助製作：IMAGIN）
 
   - [彩雲國物語](../Page/彩雲國物語.md "wikilink")（）（協力製作：IMAGIN，2006年－2008年）
 
@@ -244,16 +248,17 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [大江戶火箭](../Page/大江戶火箭.md "wikilink")（）
   - [怪物王女](../Page/怪物王女.md "wikilink")（2007年，協助製作：IMAGIN）
   - [惡魔獵人](../Page/惡魔獵人系列.md "wikilink")（）
-  - [劍豪生死鬥](../Page/劍豪生死鬥.md "wikilink")（）
+  - [劍豪生死鬥](https://zh.wikipedia.org/wiki/劍豪生死鬥 "wikilink")（）
   - [獵魔戰記](../Page/獵魔戰記.md "wikilink")（）（協力製作：DR MOVIE）
-  - [電腦線圈](../Page/電腦線圈.md "wikilink")（）
-  - [賭博默示錄](../Page/賭博默示錄.md "wikilink")（）（協助製作：DR MOVIE，2007年－2008年）
-  - [魔人偵探腦嚙涅羅](../Page/魔人偵探腦嚙涅羅.md "wikilink")（）（協助製作：Studio
+  - [電腦線圈](https://zh.wikipedia.org/wiki/電腦線圈 "wikilink")（）
+  - [賭博默示錄](https://zh.wikipedia.org/wiki/賭博默示錄 "wikilink")（）（協助製作：DR
+    MOVIE，2007年－2008年）
+  - [魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")（）（協助製作：Studio
     Live，2007年－2008年）
   - [楓之谷](../Page/新楓之谷.md "wikilink")（）
       - 第1季（2007－2008年）
       - 第2季：破戒録篇（2011年）
-  - [意外](../Page/意外.md "wikilink")（）（與[手塚製作公司共同製作](../Page/手塚製作公司.md "wikilink")，2007年－2008年）
+  - [意外](https://zh.wikipedia.org/wiki/意外 "wikilink")（）（與[手塚製作公司共同製作](../Page/手塚製作公司.md "wikilink")，2007年－2008年）
 
 <!-- end list -->
 
@@ -261,7 +266,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 <!-- end list -->
 
-  - [假面女僕衛士](../Page/假面女僕衛士.md "wikilink")（）（協力製作：IMAGIN）
+  - [假面女僕衛士](https://zh.wikipedia.org/wiki/假面女僕衛士 "wikilink")（）（協力製作：IMAGIN）
 
   - [奇奇的異想世界系列](../Page/奇奇的異想世界.md "wikilink")（）
 
@@ -270,13 +275,13 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [艾莉森與莉莉亞](../Page/艾莉森與莉莉亞.md "wikilink")（）（協力製作：手塚製作公司）
 
-  - [最高機密](../Page/秘密_〜The_Revelation〜.md "wikilink")（）（協力製作：）
+  - [最高機密](https://zh.wikipedia.org/wiki/秘密_〜The_Revelation〜 "wikilink")（）（協力製作：）
 
-  - [海馬](../Page/海馬_\(電視動畫\).md "wikilink")（）
+  - [海馬](https://zh.wikipedia.org/wiki/海馬_\(電視動畫\) "wikilink")（）
 
   - （）（協力製作：手塚製作公司）
 
-  - [魍魎之匣](../Page/魍魎之匣.md "wikilink")（）（2008年）
+  - [魍魎之匣](https://zh.wikipedia.org/wiki/魍魎之匣 "wikilink")（）（2008年）
 
   - [ONE OUTS 超智遊戲](../Page/ONE_OUTS.md "wikilink")（）（2008年－2009年）
 
@@ -297,11 +302,11 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 <!-- end list -->
 
-  - [背騎少女](../Page/背騎少女.md "wikilink")（）
+  - [背騎少女](https://zh.wikipedia.org/wiki/背騎少女 "wikilink")（）
   - [蒼天航路](../Page/蒼天航路.md "wikilink")（協力製作：）
   - [超能力大戰](../Page/超能力大戰.md "wikilink")（）（協力製作：IMAGIN）
-  - [青澀文學系列](../Page/青澀文學系列.md "wikilink")（）（2009年）
-  - [奇蹟少女KOBATO](../Page/奇蹟少女KOBATO.md "wikilink")（）（2009年－2010年）
+  - [青澀文學系列](https://zh.wikipedia.org/wiki/青澀文學系列 "wikilink")（）（2009年）
+  - [奇蹟少女KOBATO](https://zh.wikipedia.org/wiki/奇蹟少女KOBATO "wikilink")（）（2009年－2010年）
 
 #### 2010年代前半
 
@@ -318,7 +323,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
       - [鋼鐵人](../Page/鋼鐵人.md "wikilink")（）（）（[漫威娛樂](../Page/漫威娛樂.md "wikilink")，協力製作：DR
         MOVIE）
       - [金鋼狼](../Page/金鋼狼.md "wikilink")（）（）（2011年）
-      - [X戰警](../Page/X戰警.md "wikilink")（）（）（2011年）
+      - [X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")（）（）（2011年）
       - [刀鋒戰士](../Page/幽靈刺客.md "wikilink")（[2011年電視動畫](../Page/刀锋战士_\(2011年动画\).md "wikilink")）（）（2011年）
 
 <!-- end list -->
@@ -327,13 +332,13 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 <!-- end list -->
 
-  - [魔法少女小圓](../Page/魔法少女小圓.md "wikilink")（）（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，各話協力製作企劃）
+  - [魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")（）（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，各話協力製作企劃）
   - [A頻道](../Page/A頻道.md "wikilink")（）（總承包商：[Studio五組](../Page/Studio五組.md "wikilink")，各話協力製作）
-  - [花牌情緣系列](../Page/花牌情緣.md "wikilink")（）
+  - [花牌情緣系列](https://zh.wikipedia.org/wiki/花牌情緣 "wikilink")（）
       - 第1季（2011年－2012年）
       - 第2季（2013年）
   - [HUNTER×HUNTER
-    (2011年日本電視台版)](../Page/HUNTER×HUNTER.md "wikilink")（協力製作：Studio
+    (2011年日本電視台版)](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（協力製作：Studio
     Live，2011年－2014年）
 
 <!-- end list -->
@@ -359,7 +364,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（）
   - [神不在的星期天](../Page/神不在的星期天.md "wikilink")（）
-  - [鑽石王牌](../Page/鑽石王牌.md "wikilink")（）（與[Production
+  - [鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（）（與[Production
     I.G共同製作](../Page/Production_I.G.md "wikilink")）
       - 第1季（2013年－2015年）
       - 第2季（2015年－2016年）
@@ -371,10 +376,11 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <!-- end list -->
 
   - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（）
-  - [魔法科高中的劣等生](../Page/魔法科高中的劣等生.md "wikilink")（）
+  - [魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")（）
   - [NO GAME NO LIFE 遊戲人生](../Page/NO_GAME_NO_LIFE_遊戲人生.md "wikilink")（）
   - [花舞少女](../Page/花舞少女.md "wikilink")（）
-  - [寄生獸 生命的準則](../Page/寄生獸.md "wikilink")（）（2014年－2015年）
+  - [寄生獸
+    生命的準則](https://zh.wikipedia.org/wiki/寄生獸 "wikilink")（）（2014年－2015年）
 
 #### 2010年代後半
 
@@ -385,7 +391,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [死亡遊行](../Page/死亡遊行.md "wikilink")（）
   - [俺物語！！](../Page/俺物語！！.md "wikilink")（）
   - [OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")（）
-  - [一拳超人系列](../Page/一拳超人.md "wikilink")（）
+  - [一拳超人系列](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")（）
       - 第一季（2015年）
 
 <!-- end list -->
@@ -420,7 +426,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ACCA13區監察課.md" title="wikilink">ACCA13區監察課</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ACCA13區監察課" title="wikilink">ACCA13區監察課</a></p></td>
 <td></td>
 <td><p>1月10日－3月28日</p></td>
 <td><p><a href="../Page/夏目真悟.md" title="wikilink">夏目真悟</a></p></td>
@@ -428,11 +434,11 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/漫威未來復仇者.md" title="wikilink">漫威未來復仇者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/漫威未來復仇者" title="wikilink">漫威未來復仇者</a></p></td>
 <td></td>
 <td><p>2017年7月22日－<br />
 2018年1月20日</p></td>
-<td><p><a href="../Page/佐藤雄三.md" title="wikilink">佐藤雄三</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤雄三" title="wikilink">佐藤雄三</a></p></td>
 <td><p>原創</p></td>
 <td><p>Season 1</p></td>
 </tr>
@@ -445,15 +451,15 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/比宇宙還遠的地方.md" title="wikilink">比宇宙還遠的地方</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比宇宙還遠的地方" title="wikilink">比宇宙還遠的地方</a></p></td>
 <td></td>
 <td><p>1月2日－3月27日</p></td>
-<td><p><a href="../Page/石塚敦子.md" title="wikilink">石塚敦子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石塚敦子" title="wikilink">石塚敦子</a></p></td>
 <td><p>原創</p></td>
 <td><p>rowspan="2" </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/庫洛魔法使_透明牌篇.md" title="wikilink">庫洛魔法使 透明牌篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/庫洛魔法使_透明牌篇" title="wikilink">庫洛魔法使 透明牌篇</a></p></td>
 <td></td>
 <td><p>1月7日－6月10日</p></td>
 <td><p><a href="../Page/淺香守生.md" title="wikilink">淺香守生</a></p></td>
@@ -464,12 +470,12 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p><a href="../Page/OVERLORD_(小說).md" title="wikilink">OVERLORDⅡ</a></p></td>
 <td></td>
 <td><p>1月9日－4月3日</p></td>
-<td><p><a href="../Page/伊藤尚往.md" title="wikilink">伊藤尚往</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤尚往" title="wikilink">伊藤尚往</a></p></td>
 <td><p>小說</p></td>
 <td><p>第2期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/溫泉屋小女將.md" title="wikilink">溫泉屋小女將</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/溫泉屋小女將" title="wikilink">溫泉屋小女將</a></p></td>
 <td></td>
 <td><p>4月8日－9月23日</p></td>
 <td><p>增原光幸、谷東</p></td>
@@ -477,7 +483,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中間管理錄利根川.md" title="wikilink">中間管理錄利根川</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中間管理錄利根川" title="wikilink">中間管理錄利根川</a></p></td>
 <td></td>
 <td><p>7月4日－12月25日</p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
@@ -488,7 +494,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p>OVERLORDⅢ</p></td>
 <td></td>
 <td><p>7月10日－10月2日</p></td>
-<td><p><a href="../Page/伊藤尚往.md" title="wikilink">伊藤尚往</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤尚往" title="wikilink">伊藤尚往</a></p></td>
 <td><p>小說</p></td>
 <td><p>第3期</p></td>
 </tr>
@@ -509,7 +515,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/不吉波普不笑.md" title="wikilink">不吉波普不笑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不吉波普不笑" title="wikilink">不吉波普不笑</a></p></td>
 <td></td>
 <td><p>1月5日－<strong>播放中</strong></p></td>
 <td><p>-</p></td>
@@ -525,7 +531,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/花牌情緣.md" title="wikilink">花牌情緣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花牌情緣" title="wikilink">花牌情緣</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -533,7 +539,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p>第3期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/消滅都市.md" title="wikilink">消滅都市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/消滅都市" title="wikilink">消滅都市</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -553,7 +559,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - （1993年8月6日）
 
-  - [柔道英雌特別篇](../Page/以柔克剛#電視動畫特別篇.md "wikilink")（）（1996年7月19日）
+  - [柔道英雌特別篇](https://zh.wikipedia.org/wiki/以柔克剛#電視動畫特別篇 "wikilink")（）（1996年7月19日）
 
   - [第一神拳TV特別版『冠軍之路』](../Page/第一神拳.md "wikilink")（）（2003年4月18日）
 
@@ -584,17 +590,18 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - （）（[三麗鷗](../Page/三麗鷗.md "wikilink")，1981年3月14日）
 
-  - （[東映動畫](../Page/東映動畫.md "wikilink")，1981年3月20日）
+  - （[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1981年3月20日）
 
   - （東映動畫，1982年4月24日）
 
-  - [幻魔大戰](../Page/幻魔大戰.md "wikilink")（，1983年3月12日）
+  - [幻魔大戰](https://zh.wikipedia.org/wiki/幻魔大戰 "wikilink")（，1983年3月12日）
 
   - （）（三麗鷗，1983年7月16日）
 
-  - [赤腳小元](../Page/赤足小子.md "wikilink")（）（GEN PRODUCTION，1983年7月21日）
+  - [赤腳小元](https://zh.wikipedia.org/wiki/赤足小子 "wikilink")（）（GEN
+    PRODUCTION，1983年7月21日）
 
-  - [透鏡人](../Page/銀河戰士.md "wikilink")（）（[講談社](../Page/講談社.md "wikilink")，1984年7月7日）
+  - [透鏡人](../Page/銀河戰士.md "wikilink")（）（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")，1984年7月7日）
 
   - （1985年3月9日）
 
@@ -602,7 +609,8 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - 赤腳小元2（）（GEN PRODUCTION，1986年6月14日）
 
-  - [火鳥 鳳凰篇](../Page/火鳥_\(漫畫\).md "wikilink")（）（角川春樹事務所／，1986年12月20日）
+  - [火鳥
+    鳳凰篇](https://zh.wikipedia.org/wiki/火鳥_\(漫畫\) "wikilink")（）（角川春樹事務所／，1986年12月20日）
 
   - （角川春樹事務所／[角川書店](../Page/角川書店.md "wikilink")，1986年12月20日）
 
@@ -635,7 +643,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [超時空甩尾](../Page/超時空甩尾.md "wikilink")（）（2010年10月9日）
 
-  - 藏獒多吉（與[中國電影集團共同製作](../Page/中國電影集團.md "wikilink")，2011年）
+  - 藏獒多吉（與[中國電影集團共同製作](https://zh.wikipedia.org/wiki/中國電影集團 "wikilink")，2011年）
 
   - （總承包商：Studio Pierrot，協力製作，2011年4月29日）
 
@@ -648,9 +656,9 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - （總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，協力製作，2012年11月10日）
 
   - [劇場版 HUNTER×HUNTER
-    緋色幻影](../Page/HUNTER×HUNTER.md "wikilink")（）（2013年1月12日）
+    緋色幻影](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（）（2013年1月12日）
 
-  - [死亡遊行](../Page/死亡遊行.md "wikilink")（）（[青年動畫製作者育成計劃的作品](../Page/青年動畫製作者育成計劃.md "wikilink")，2013年3月2日）
+  - [死亡遊行](../Page/死亡遊行.md "wikilink")（）（[青年動畫製作者育成計劃的作品](https://zh.wikipedia.org/wiki/青年動畫製作者育成計劃 "wikilink")，2013年3月2日）
 
   - [輝耀姬物語](../Page/輝耀姬物語.md "wikilink")（）（總承包商：吉卜力工作室，協力作畫，2013年11月23日）
 
@@ -668,20 +676,22 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <!-- end list -->
 
   - 追傷人（ 1986年）
-  - [火鳥](../Page/火鳥_\(漫畫\).md "wikilink")
+  - [火鳥](https://zh.wikipedia.org/wiki/火鳥_\(漫畫\) "wikilink")
       - 大和篇（ 1987年）
       - 宇宙篇（ 1987年）
   - （ 1987年）
-  - [JUNK BOY](../Page/JUNK_BOY.md "wikilink")（1987年）： ；極品男孩。
+  - [JUNK
+    BOY](https://zh.wikipedia.org/wiki/JUNK_BOY "wikilink")（1987年）：
+    ；極品男孩。
   - [宮澤賢治作品集](../Page/宮澤賢治.md "wikilink")
       - 風之又三郎（ 1988年）
       - 橡子與山貓（ 1988年）
-  - [惡魔的新娘～蘭之組曲](../Page/惡魔的新娘.md "wikilink")（ 1988年）
-  - [魔界都市 新宿](../Page/魔界都市_新宿.md "wikilink")（ 1988年）
+  - [惡魔的新娘～蘭之組曲](https://zh.wikipedia.org/wiki/惡魔的新娘 "wikilink")（ 1988年）
+  - [魔界都市 新宿](https://zh.wikipedia.org/wiki/魔界都市_新宿 "wikilink")（ 1988年）
   - （ 1988年）
-  - [妖精王](../Page/妖精王.md "wikilink")（1988年）
-  - [午夜之眼](../Page/午夜之眼.md "wikilink")（ 1989年）
-  - [福星小子系列](../Page/福星小子#OVA.md "wikilink")
+  - [妖精王](https://zh.wikipedia.org/wiki/妖精王 "wikilink")（1988年）
+  - [午夜之眼](https://zh.wikipedia.org/wiki/午夜之眼 "wikilink")（ 1989年）
+  - [福星小子系列](https://zh.wikipedia.org/wiki/福星小子#OVA "wikilink")
       - 和羊笑一個（ 1989年）
       - 抓住愛人的心（ 1989年）
       - 恐怖的少女麻疹（ 1991年）
@@ -700,37 +710,42 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - （NINETEEN 19 1990年）
   - [森林大帝](../Page/森林大帝.md "wikilink")（ 1991年，參與製作；原製作承攬：手塚製作）
   - [帝都物語](../Page/帝都物語.md "wikilink")（1991年－1992年）
-  - [OZ VOL.1～VOL.2](../Page/OZ.md "wikilink")（1992年）
+  - [OZ VOL.1～VOL.2](https://zh.wikipedia.org/wiki/OZ "wikilink")（1992年）
   - [絕愛-1989-](../Page/尾崎南.md "wikilink")（ 1992年）
-  - [東京巴比倫](../Page/東京巴比倫.md "wikilink")（東京BABYLON 1992年，參與製作）
+  - [東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")（東京BABYLON
+    1992年，參與製作）
   - （ 1992年）
-  - [魔物獵人妖子系列](../Page/魔物獵人妖子.md "wikilink")（ 1992年－1995年）
+  - [魔物獵人妖子系列](https://zh.wikipedia.org/wiki/魔物獵人妖子 "wikilink")（
+    1992年－1995年）
   - （ 1993年）
   - （SINGLES 1993年）
-  - [銃夢](../Page/銃夢.md "wikilink")（ 1993年）
+  - [銃夢](https://zh.wikipedia.org/wiki/銃夢 "wikilink")（ 1993年）
   - （POPS 1993年）
   - （ 1993年）
   - （ 1993年）
-  - [人魚傷痕](../Page/人魚森林.md "wikilink")（ 1993年）
+  - [人魚傷痕](https://zh.wikipedia.org/wiki/人魚森林 "wikilink")（ 1993年）
   - （A-Girl 1993年）
   - （ 1994年，短篇中的1集）
-  - [嬌娃夏生之危機](../Page/嬌娃夏生之危機.md "wikilink")（ 1994年）
-  - [東京巴比倫2](../Page/東京巴比倫.md "wikilink")（東京BABYLON2 1994年，參與製作）
-  - [最終幻想：水晶傳說](../Page/最終幻想：水晶傳說.md "wikilink")（FINAL FANTASY 1994年）
+  - [嬌娃夏生之危機](https://zh.wikipedia.org/wiki/嬌娃夏生之危機 "wikilink")（ 1994年）
+  - [東京巴比倫2](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")（東京BABYLON2
+    1994年，參與製作）
+  - [最終幻想：水晶傳說](https://zh.wikipedia.org/wiki/最終幻想：水晶傳說 "wikilink")（FINAL
+    FANTASY 1994年）
   - [孔雀王](../Page/孔雀王.md "wikilink")（真·孔雀王 1994年）
   - （BRONZE KOJI NANJO cathexis 1994年）
   - CLAMP夢遊仙境（CLAMP IN WONDERLAND 1994年）
-  - [幽幻怪社](../Page/幽幻怪社.md "wikilink")（1994年－1995年）
+  - [幽幻怪社](https://zh.wikipedia.org/wiki/幽幻怪社 "wikilink")（1994年－1995年）
   - [DNA²](../Page/DNA².md "wikilink")（ 1995年）
-  - [美幸夢遊仙境](../Page/美幸夢遊仙境.md "wikilink")（ 1995年）
-  - [鐵腕女警](../Page/鐵腕女警.md "wikilink")（ 1996年－1997年）
-  - [魔獸之狩](../Page/魔獸之狩.md "wikilink")（ 1997年）
+  - [美幸夢遊仙境](https://zh.wikipedia.org/wiki/美幸夢遊仙境 "wikilink")（ 1995年）
+  - [鐵腕女警](https://zh.wikipedia.org/wiki/鐵腕女警 "wikilink")（ 1996年－1997年）
+  - [魔獸之狩](https://zh.wikipedia.org/wiki/魔獸之狩 "wikilink")（ 1997年）
   - [魔域幽靈](../Page/魔域幽靈.md "wikilink")（VAMPIRE HUNTER The Animated
     Series 1997年－1998年）
   - （ 1998年）
   - （ 1999年）
   - 亞歷山大戰記（ 1999年）
-  - [危險調查員](../Page/危險調查員.md "wikilink")（MASTER KEATON（OVA版）1999年）
+  - [危險調查員](https://zh.wikipedia.org/wiki/危險調查員 "wikilink")（MASTER
+    KEATON（OVA版）1999年）
 
 <!-- end list -->
 
@@ -741,44 +756,51 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - （TRAVA FIST PLANET episode1 2001年）
   - [銀河天使](../Page/銀河天使.md "wikilink")（ 2002年－2003年）
   - [Di Gi Charat](../Page/Di_Gi_Charat.md "wikilink")（ 2002年）
-  - [駭客任務動畫外傳](../Page/駭客任務動畫外傳.md "wikilink")（ANIMATRIX 2003年）
+  - [駭客任務動畫外傳](https://zh.wikipedia.org/wiki/駭客任務動畫外傳 "wikilink")（ANIMATRIX
+    2003年）
   - [羔羊之歌](../Page/羔羊之歌.md "wikilink")（ 2003年－2004年）
   - [第一神拳OVA版『柴間VS木村 死刑執行』](../Page/第一神拳.md "wikilink")（ 2003年）
   - [炎之蜃氣樓](../Page/炎之蜃氣樓.md "wikilink")（ 2004年）
-  - [童話槍手小紅帽](../Page/童話槍手小紅帽#OVA.md "wikilink")（2005年）
+  - [童話槍手小紅帽](https://zh.wikipedia.org/wiki/童話槍手小紅帽#OVA "wikilink")（2005年）
   - [天上天下 ULTIMATE FIGHT](../Page/天上天下.md "wikilink")（2005年）
-  - [草莓100%](../Page/草莓100%#OVA標題.md "wikilink")（ 2005年）
-  - [最終幻想VII：最終密令](../Page/最終幻想VII：最終密令.md "wikilink")（[LAST ORDER FINAL
-    FANTASY VII](../Page/最终命令_-最终幻想VII-.md "wikilink") 2005年）
+  - [草莓100%](https://zh.wikipedia.org/wiki/草莓100%#OVA標題 "wikilink")（
+    2005年）
+  - [最終幻想VII：最終密令](https://zh.wikipedia.org/wiki/最終幻想VII：最終密令 "wikilink")（[LAST
+    ORDER FINAL FANTASY VII](../Page/最终命令_-最终幻想VII-.md "wikilink")
+    2005年）
   - （ 2005年－2006年）
   - （ 2007年）
   - CLAMP夢遊仙境（CLAMP IN WONDERLAND 2 1995-2006 2007年）
 
 ### 其他動畫
 
-  - [池田聰](../Page/池田聰.md "wikilink")/Je Reviens 音樂影像特輯插播動畫（1987年）
+  - [池田聰](https://zh.wikipedia.org/wiki/池田聰 "wikilink")/Je Reviens
+    音樂影像特輯插播動畫（1987年）
   - Let's Talk\!（瀬戸大橋博'88・NTT「宇宙帆船NTT号」内宣傳動畫）（1988年）
-  - PlayStation電玩[狂野兵器內插播動畫](../Page/狂野兵器系列.md "wikilink")（1996年）
+  - PlayStation電玩[狂野兵器內插播動畫](https://zh.wikipedia.org/wiki/狂野兵器系列 "wikilink")（1996年）
   - 龍神沼（石ノ森萬画館館內宣傳主題動畫 2001年）
   - 消えた赤ずきんちゃん（石ノ森萬画館館內宣傳主題動畫 2001年）
   - 小川のメダカ（石ノ森萬画館館內宣傳主題動畫 2002年）
-  - MMORPG[仙境傳說](../Page/仙境傳說.md "wikilink")（網絡遊戲宣傳動畫 2002年）
-  - Playstation2電玩[狂野兵器F內插播動畫](../Page/狂野兵器系列.md "wikilink")（2003年）
+  - MMORPG[仙境傳說](https://zh.wikipedia.org/wiki/仙境傳說 "wikilink")（網絡遊戲宣傳動畫
+    2002年）
+  - Playstation2電玩[狂野兵器F內插播動畫](https://zh.wikipedia.org/wiki/狂野兵器系列 "wikilink")（2003年）
   - [Young Alive\!
-    iPS細胞がひらく未来](../Page/Young_Alive!_iPS細胞がひらく未来.md "wikilink")
-    （[日本科学未来館館內宣傳動畫](../Page/日本科学未来館.md "wikilink") 2010年）
-  - NintendoDS電玩[天空機器人](../Page/天空機器人.md "wikilink")（[Solatorobo
-    それからCODAへ內插播動畫](../Page/Solatorobo_それからCODAへ.md "wikilink")
+    iPS細胞がひらく未来](https://zh.wikipedia.org/wiki/Young_Alive!_iPS細胞がひらく未来 "wikilink")
+    （[日本科学未来館館內宣傳動畫](https://zh.wikipedia.org/wiki/日本科学未来館 "wikilink")
     2010年）
-  - 柏青歌遊藝機[侍魂主題動畫](../Page/侍魂.md "wikilink")（2011年）
-  - [株式会社明治Tweet](../Page/株式会社明治.md "wikilink") Love Story動畫廣告（2011年）
-  - [学校法人モード学園](../Page/学校法人モード学園.md "wikilink") HAL TVCM「強く望め」篇
-    動畫廣告（2011年）
-  - [のらのらの〜ら電視綜藝特邀製作動畫項目](../Page/声優バラエティー_SAY!YOU!SAY!ME!#のらのらの〜ら.md "wikilink")（2011年）
+  - NintendoDS電玩[天空機器人](https://zh.wikipedia.org/wiki/天空機器人 "wikilink")（[Solatorobo
+    それからCODAへ內插播動畫](https://zh.wikipedia.org/wiki/Solatorobo_それからCODAへ "wikilink")
+    2010年）
+  - 柏青歌遊藝機[侍魂主題動畫](https://zh.wikipedia.org/wiki/侍魂 "wikilink")（2011年）
+  - [株式会社明治Tweet](https://zh.wikipedia.org/wiki/株式会社明治 "wikilink") Love
+    Story動畫廣告（2011年）
+  - [学校法人モード学園](https://zh.wikipedia.org/wiki/学校法人モード学園 "wikilink") HAL
+    TVCM「強く望め」篇 動畫廣告（2011年）
+  - [のらのらの〜ら電視綜藝特邀製作動畫項目](https://zh.wikipedia.org/wiki/声優バラエティー_SAY!YOU!SAY!ME!#のらのらの〜ら "wikilink")（2011年）
 
 ## 相關項目
 
-  - [MAPPA](../Page/MAPPA.md "wikilink")－由MADHOUSE創設元老之一的[丸山正雄退職之後創社](../Page/丸山正雄.md "wikilink")，2011年6月成立\[4\]。
+  - [MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")－由MADHOUSE創設元老之一的[丸山正雄退職之後創社](../Page/丸山正雄.md "wikilink")，2011年6月成立\[4\]。
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 參考文獻
@@ -790,7 +812,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   -
 
   - [MADHOUSE官方頻道](http://ch.nicovideo.jp/channel/ch266)
-    －[niconico頻道](../Page/niconico頻道.md "wikilink")
+    －[niconico頻道](https://zh.wikipedia.org/wiki/niconico頻道 "wikilink")
 
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
 [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink")

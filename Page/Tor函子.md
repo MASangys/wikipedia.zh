@@ -1,23 +1,26 @@
 在[交換代數中](../Page/交換代數.md "wikilink")，**Tor
-函子**是[張量積的](../Page/張量積.md "wikilink")[導函子](../Page/導函子.md "wikilink")。此函子起初是為了表述[代數拓撲中的](../Page/代數拓撲.md "wikilink")
-Künneth 定理與[普遍係數定理而定義](../Page/普遍係數定理.md "wikilink")。
+函子**是[張量積的](https://zh.wikipedia.org/wiki/張量積 "wikilink")[導函子](https://zh.wikipedia.org/wiki/導函子 "wikilink")。此函子起初是為了表述[代數拓撲中的](https://zh.wikipedia.org/wiki/代數拓撲 "wikilink")
+Künneth 定理與[普遍係數定理而定義](https://zh.wikipedia.org/wiki/普遍係數定理 "wikilink")。
 
 ## 定義
 
-設 \(R\) 為[環](../Page/環.md "wikilink")。令 \(R-\mathbf{Mod}\) 為左 \(R\)-模範疇、
-\(\mathbf{Mod}-R\) 為右 \(R\)-模範疇（若 \(R\)
-為[交換環](../Page/交換環.md "wikilink")，則兩者等價）。固定一對象
+設 \(R\) 為[環](https://zh.wikipedia.org/wiki/環 "wikilink")。令
+\(R-\mathbf{Mod}\) 為左 \(R\)-模範疇、 \(\mathbf{Mod}-R\) 為右 \(R\)-模範疇（若 \(R\)
+為[交換環](https://zh.wikipedia.org/wiki/交換環 "wikilink")，則兩者等價）。固定一對象
 \(B \in R-\mathbf{Mod}\)，考慮函子
 
   -
     \(T_B(-) := - \otimes_R B\)
 
-這是從 \(\mathbf{Mod}-R\) 至[阿貝爾群範疇](../Page/阿貝爾群.md "wikilink")
+這是從 \(\mathbf{Mod}-R\)
+至[阿貝爾群範疇](https://zh.wikipedia.org/wiki/阿貝爾群 "wikilink")
 \(\mathbf{Ab}\) 的右[正合函子](../Page/正合函子.md "wikilink")（若 \(R\) 為交換環，則它是映至
-\(R-\mathbf{Mod}\) 的右正合函子），因此能考慮其左[導函子](../Page/導函子.md "wikilink")
+\(R-\mathbf{Mod}\)
+的右正合函子），因此能考慮其左[導函子](https://zh.wikipedia.org/wiki/導函子 "wikilink")
 \(L_\bullet T_B\)，記為 \(\mathrm{Tor}_\bullet^R(-,B)\)。
 
-換言之，對任一左 \(R\)-模 \(A\) 取[射影分解](../Page/射影分解.md "wikilink")
+換言之，對任一左 \(R\)-模 \(A\)
+取[射影分解](https://zh.wikipedia.org/wiki/射影分解 "wikilink")
 
   -
     \(\cdots\rightarrow P_3 \rightarrow P_2 \rightarrow P_1 \rightarrow A\rightarrow 0\)
@@ -44,12 +47,12 @@ Künneth 定理與[普遍係數定理而定義](../Page/普遍係數定理.md "w
 
   - 對任何 \(n \geq 1\)，\(\mathrm{Tor}_n^R\) 是從
     \((\mathbf{Mod}-R) \times (R-\mathbf{Mod})\) 到 \(\mathbf{Ab}\)
-    的[加法函子](../Page/加法函子.md "wikilink")。若 \(R\) 是交換環，則它是從
-    \((R-\mathbf{Mod}) \times (R-\mathbf{Mod})\) 到 \(R-\mathbf{Mod}\)
-    的加法函子。
-  - 依據導函子性質，每個[短正合序列](../Page/短正合序列.md "wikilink")
+    的[加法函子](https://zh.wikipedia.org/wiki/加法函子 "wikilink")。若
+    \(R\) 是交換環，則它是從 \((R-\mathbf{Mod}) \times (R-\mathbf{Mod})\) 到
+    \(R-\mathbf{Mod}\) 的加法函子。
+  - 依據導函子性質，每個[短正合序列](https://zh.wikipedia.org/wiki/短正合序列 "wikilink")
     \(0\rightarrow K\rightarrow L\rightarrow M\rightarrow 0\)
-    導出[長正合序列](../Page/長正合序列.md "wikilink")：
+    導出[長正合序列](https://zh.wikipedia.org/wiki/長正合序列 "wikilink")：
 
 <!-- end list -->
 
@@ -69,7 +72,7 @@ Künneth 定理與[普遍係數定理而定義](../Page/普遍係數定理.md "w
 
 <!-- end list -->
 
-  - 由於[阿貝爾群皆有長度不超過二的](../Page/阿貝爾群.md "wikilink")[自由分解](../Page/自由分解.md "wikilink")（因為自由阿貝爾群的子群皆為自由的），此時對所有
+  - 由於[阿貝爾群皆有長度不超過二的](https://zh.wikipedia.org/wiki/阿貝爾群 "wikilink")[自由分解](https://zh.wikipedia.org/wiki/自由分解 "wikilink")（因為自由阿貝爾群的子群皆為自由的），此時對所有
     \(n \geq 2\)，有 \(\mathrm{Tor}_n^\Z(-,-) = 0\)。
 
 ## 譜序列
@@ -79,8 +82,8 @@ Künneth 定理與[普遍係數定理而定義](../Page/普遍係數定理.md "w
   -
     \((- \otimes_A B) \otimes_B M = - \otimes_A M\)
 
-由此導出[格羅滕迪克譜序列](../Page/格羅滕迪克譜序列.md "wikilink")：對任何 \(A\)-模
-\(N\)，有[譜序列](../Page/譜序列.md "wikilink")
+由此導出[格羅滕迪克譜序列](https://zh.wikipedia.org/wiki/格羅滕迪克譜序列 "wikilink")：對任何
+\(A\)-模 \(N\)，有[譜序列](../Page/譜序列.md "wikilink")
 
   -
     \(E^2_{pq} = \mathrm{Tor}_p^B(\mathrm{Tor}_q^A (N,B), M) \Rightarrow \mathrm{Tor}_{p+q}^A(N, M)\)
@@ -91,7 +94,7 @@ Künneth 定理與[普遍係數定理而定義](../Page/普遍係數定理.md "w
 \(\mathrm{Tor}_1^R(M,-)=0\)。此時可推出
 \(\forall n \geq 1, \; \mathrm{Tor}_n^R(M,-)=0\)。左 \(R\)-模的情況準此可知。事實上，計算
 Tor
-函子時可以用[平坦分解代替射影分解](../Page/平坦分解.md "wikilink")；凡射影分解必為平坦分解，反之則不然；平坦分解在技術上較富彈性。
+函子時可以用[平坦分解代替射影分解](https://zh.wikipedia.org/wiki/平坦分解 "wikilink")；凡射影分解必為平坦分解，反之則不然；平坦分解在技術上較富彈性。
 
 ## 文獻
 

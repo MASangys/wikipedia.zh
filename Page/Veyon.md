@@ -1,5 +1,5 @@
-**Veyon**（，原称iTALC，的縮寫，即**智能電腦教學及學習**系統）是一個[自由的](../Page/自由軟件.md "wikilink")[開源](../Page/開源軟件.md "wikilink")[課室管理系統](../Page/課室管理系統.md "wikilink")，可在[Linux及](../Page/Linux.md "wikilink")[Microsoft
-Windows環境下操作](../Page/Microsoft_Windows.md "wikilink")，主要用於管理電腦室內的課堂學習。透過iTALC，教師可以從教師電腦遙距操控電腦室內的學生電腦，包括以下動作：監察、控制、關閉、演示及開機/關機等。軟件的設計是用作[MasterEye](../Page/MasterEye.md "wikilink")\[1\]的替代品。
+**Veyon**（，原称iTALC，的縮寫，即**智能電腦教學及學習**系統）是一個[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[開源](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[課室管理系統](https://zh.wikipedia.org/wiki/課室管理系統 "wikilink")，可在[Linux及](../Page/Linux.md "wikilink")[Microsoft
+Windows環境下操作](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，主要用於管理電腦室內的課堂學習。透過iTALC，教師可以從教師電腦遙距操控電腦室內的學生電腦，包括以下動作：監察、控制、關閉、演示及開機/關機等。軟件的設計是用作[MasterEye](https://zh.wikipedia.org/wiki/MasterEye "wikilink")\[1\]的替代品。
 
 iTALC最初開發時，只有Linux版本。及至2006年中，由於其核心程式庫[Qt4被移植到Windows](../Page/Qt.md "wikilink")
 NT平台，所以iTALC亦開始開發出對應Windows平台的版本，不過其安裝方法及操作仍然保留有很濃重的Linux操作習慣，這使一般只會Windows操作的用戶（特別是教師）感到難以操控。不過，正因為其跨平台的特色，使教室可達至跨平台的操控，例如：在一個同時有Windows及Linux作業系統的教室裡，都可以透過同一部教師電腦來操控。
@@ -8,18 +8,18 @@ NT平台，所以iTALC亦開始開發出對應Windows平台的版本，不過其
 
 iTALC是一個專門為學校使用而設計的軟件，因此提供了各種方便教師在課室進行授課的特別功能，例如\[2\]\[3\]：
 
-  - 概觀模式：透過[畫中畫功能](../Page/畫中畫.md "wikilink")，讓教師在主電腦能夠同時查看課室內所有學生電腦，並能夠擷取螢幕；
+  - 概觀模式：透過[畫中畫功能](https://zh.wikipedia.org/wiki/畫中畫 "wikilink")，讓教師在主電腦能夠同時查看課室內所有學生電腦，並能夠擷取螢幕；
   - 遠端控制：透過遠端控制，為學生提供支援或指導；
   - 演示模式：可以以全螢幕或畫中畫形式，強制把教師電腦的螢幕在學生電腦上顯示，又或把指定學生的電腦螢幕轉發至其他學生的電腦螢幕上；
   - 文字信息：透過軟件向學生傳送文字信息；
   - 封鎖電腦：對於不專心的學生，可以透過封鎖他們的電腦，讓他們專心上課，而不能利用電腦作其他課堂以外的功能；
   - 遠端開關：能夠透過[Wake on
-    LAN功能使課室內的電腦同時開啟](../Page/Wake_on_LAN.md "wikilink")，亦能同時關閉或重新啟動所有電腦；
+    LAN功能使課室內的電腦同時開啟](https://zh.wikipedia.org/wiki/Wake_on_LAN "wikilink")，亦能同時關閉或重新啟動所有電腦；
   - 遠端取證：當有學生違規使用電腦，可以即時擷取畫面作為證據；
-  - [在家學習](../Page/在家自學.md "wikilink")：由於iTALC採用了[SSH認證而不是其他遠端操控軟體的密碼控制](../Page/SSH.md "wikilink")，使網路上存取教學資源更安心。而iTALC亦支援[VPN連線](../Page/VPN.md "wikilink")；
-  - 線程優化：透過對軟件的[線程化](../Page/線程.md "wikilink")，iTALC在[多核心系統上的運行得到優化](../Page/多核心.md "wikilink")。
-  - 常駐電腦：與其他的MUSE或[TightVNC不同的是](../Page/TightVNC.md "wikilink")，iTALC常駐在電腦之後，無法直接從Taskbar或Task
-    Manager關閉，免除學生透過停止程式而規避監管。另外，程式的反安裝亦無法從[控制台執行](../Page/控制台.md "wikilink")，而要執行特別的命令。
+  - [在家學習](../Page/在家自學.md "wikilink")：由於iTALC採用了[SSH認證而不是其他遠端操控軟體的密碼控制](https://zh.wikipedia.org/wiki/SSH "wikilink")，使網路上存取教學資源更安心。而iTALC亦支援[VPN連線](https://zh.wikipedia.org/wiki/VPN "wikilink")；
+  - 線程優化：透過對軟件的[線程化](https://zh.wikipedia.org/wiki/線程 "wikilink")，iTALC在[多核心系統上的運行得到優化](https://zh.wikipedia.org/wiki/多核心 "wikilink")。
+  - 常駐電腦：與其他的MUSE或[TightVNC不同的是](https://zh.wikipedia.org/wiki/TightVNC "wikilink")，iTALC常駐在電腦之後，無法直接從Taskbar或Task
+    Manager關閉，免除學生透過停止程式而規避監管。另外，程式的反安裝亦無法從[控制台執行](https://zh.wikipedia.org/wiki/控制台 "wikilink")，而要執行特別的命令。
   - 遠端登入：透過指定的命令能夠遠端使所有學生電腦以指定的登入信息登入網路，這對低小年級學生最有幫助，因為一年級的學生很多時對鍵盤不熟習，需要花很多時間於電腦的登入；
 
 ## 相容性
@@ -27,12 +27,12 @@ iTALC是一個專門為學校使用而設計的軟件，因此提供了各種方
 ### 跨平台相容性
 
 iTALC採用了[Qt](../Page/Qt.md "wikilink")
-[Trolltech](../Page/Trolltech.md "wikilink")/C++編寫，所以可以在32-bit-Windows及[GNU](../Page/GNU.md "wikilink")/[Linux平台上運行](../Page/Linux.md "wikilink")。由於[Edubuntu和](../Page/Edubuntu.md "wikilink")[Skolelinux](../Page/Skolelinux.md "wikilink")（一個專門為教學用途而修訂的Debian版本）包含了iTALC軟件，使用戶可以建立一個世界性的[自由](../Page/自由軟件.md "wikilink")[學校網路](../Page/學校網路.md "wikilink")。
+[Trolltech](https://zh.wikipedia.org/wiki/Trolltech "wikilink")/C++編寫，所以可以在32-bit-Windows及[GNU](../Page/GNU.md "wikilink")/[Linux平台上運行](../Page/Linux.md "wikilink")。由於[Edubuntu和](../Page/Edubuntu.md "wikilink")[Skolelinux](../Page/Skolelinux.md "wikilink")（一個專門為教學用途而修訂的Debian版本）包含了iTALC軟件，使用戶可以建立一個世界性的[自由](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[學校網路](https://zh.wikipedia.org/wiki/學校網路 "wikilink")。
 
 ### 與其他軟體相衝
 
 不過，由於iTALC會使用5800及5900端口（辨識代號："ISD
-001.000"），若電腦已安裝有[WinVNC](../Page/WinVNC.md "wikilink")、[TightVNC等軟件](../Page/TightVNC.md "wikilink")，則必須先行解安裝，或在設定時使用其他端口，否則會造成相衝。另外，當廣播學生電腦時，課室所有電腦會連接到有關學生電腦的5858埠，所以需要設定防毒軟件，避免因為不能連線而使系統凍結。
+001.000"），若電腦已安裝有[WinVNC](https://zh.wikipedia.org/wiki/WinVNC "wikilink")、[TightVNC等軟件](https://zh.wikipedia.org/wiki/TightVNC "wikilink")，則必須先行解安裝，或在設定時使用其他端口，否則會造成相衝。另外，當廣播學生電腦時，課室所有電腦會連接到有關學生電腦的5858埠，所以需要設定防毒軟件，避免因為不能連線而使系統凍結。
 
 ### 屏幕大小問題
 

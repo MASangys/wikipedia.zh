@@ -1,5 +1,5 @@
 **Samantha**（中譯：珊曼莎）單曲，為[木村KAELA個人的第九張單曲](../Page/木村KAELA.md "wikilink")，
-2007年7月18日由所屬唱片公司[哥倫比亞音樂發行](../Page/哥倫比亞音樂.md "wikilink")。此次單曲為雙A（雙主打）。
+2007年7月18日由所屬唱片公司[哥倫比亞音樂發行](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")。此次單曲為雙A（雙主打）。
 
 ## 曲目
 
@@ -12,7 +12,7 @@
 
 ## 解説
 
-  - 在2007年6月6日先行配送[原音鈴聲](../Page/原音鈴聲.md "wikilink")
+  - 在2007年6月6日先行配送[原音鈴聲](https://zh.wikipedia.org/wiki/原音鈴聲 "wikilink")
   - 曲名『**Samantha**』的由來、是以70年代西洋影集「神仙家庭」女主角「珊曼莎」為曲名。
   - 初回限定內附Samantha全彩紋身貼紙。
   - 第二主打『**Honey

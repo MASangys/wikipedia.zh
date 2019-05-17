@@ -3,7 +3,7 @@ Freak**（）是[日本遊戲開發](../Page/日本.md "wikilink")、發行商�
 
 ## 概略
 
-公司成立前是由[田尻智領導的同人誌組織](../Page/田尻智.md "wikilink")，1989年為發行它們第一款[FC遊戲](../Page/FC遊戲機.md "wikilink")[Quinty前創立](../Page/Quinty.md "wikilink")。自從1996年發售第一款[精靈寶可夢遊戲系列紅](../Page/精靈寶可夢遊戲列表.md "wikilink")、綠版本大受歡迎，自此以後集中開發該遊戲系列。此外還成立子公司[精靈寶可夢有限公司](../Page/精靈寶可夢_\(企業\).md "wikilink")。本质上Game
+公司成立前是由[田尻智領導的同人誌組織](../Page/田尻智.md "wikilink")，1989年為發行它們第一款[FC遊戲](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[Quinty前創立](https://zh.wikipedia.org/wiki/Quinty "wikilink")。自從1996年發售第一款[精靈寶可夢遊戲系列紅](https://zh.wikipedia.org/wiki/精靈寶可夢遊戲列表 "wikilink")、綠版本大受歡迎，自此以後集中開發該遊戲系列。此外還成立子公司[精靈寶可夢有限公司](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")。本质上Game
 Freak并不是任天堂的子公司，它也为手机平台甚至其他游戏主机平台制作游戏作品。\[1\]
 
 ## 開發作品列表
@@ -20,44 +20,44 @@ Freak并不是任天堂的子公司，它也为手机平台甚至其他游戏主
 <tbody>
 <tr class="odd">
 <td><p>1989年</p></td>
-<td><p><em><a href="../Page/Quinty.md" title="wikilink">Quinty</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Quinty" title="wikilink">Quinty</a></em></p></td>
 <td><p>日本：<a href="../Page/南梦宫.md" title="wikilink">南梦宫</a> 北美：<a href="../Page/Hudson_Soft.md" title="wikilink">Hudson Soft</a></p></td>
 <td><p>FC</p></td>
 </tr>
 <tr class="even">
 <td><p>1991年</p></td>
-<td><p><em><a href="../Page/Jerry_Boy.md" title="wikilink">Jerry Boy</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Jerry_Boy" title="wikilink">Jerry Boy</a></em></p></td>
 <td><p><a href="../Page/索尼.md" title="wikilink">索尼</a></p></td>
 <td><p>超级任天堂</p></td>
 </tr>
 <tr class="odd">
 <td><p>1991年</p></td>
-<td><p><em><a href="../Page/耀西的蛋.md" title="wikilink">耀西的蛋</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/耀西的蛋" title="wikilink">耀西的蛋</a></em></p></td>
 <td><p>任天堂</p></td>
 <td><p>FC<br />
 Game Boy</p></td>
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td><p><em><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></em></p></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/神通小精靈" title="wikilink">神通小精靈</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>Mega Drive</p></td>
 </tr>
 <tr class="odd">
 <td><p>1993年</p></td>
-<td><p><a href="../Page/马里奥和瓦里奥.md" title="wikilink">马里奥和瓦里奥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马里奥和瓦里奥" title="wikilink">马里奥和瓦里奥</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>超级任天堂</p></td>
 </tr>
 <tr class="even">
 <td><p>1994年</p></td>
 <td><p><em>Nontan to Issho! Kuru-Kuru Puzzle</em></p></td>
-<td><p><a href="../Page/Victor_Interactive.md" title="wikilink">Victor Interactive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Victor_Interactive" title="wikilink">Victor Interactive</a></p></td>
 <td><p>Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><em><a href="../Page/Pulseman.md" title="wikilink">Pulseman</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pulseman" title="wikilink">Pulseman</a></em></p></td>
 <td><p>世嘉</p></td>
 <td><p>Mega Drive</p></td>
 </tr>
@@ -94,18 +94,18 @@ Game Boy</p></td>
 <tr class="odd">
 <td><p>1996年</p></td>
 <td><p><em>Bazaar de Gosāru no Game de Gosāru</em></p></td>
-<td><p><a href="../Page/NEC.md" title="wikilink">NEC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NEC" title="wikilink">NEC</a></p></td>
 <td><p>PC Engine</p></td>
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
 <td><p><em>Bushi Seiryūden: Futari no Yūsha</em></p></td>
-<td><p><a href="../Page/T&amp;E_Soft.md" title="wikilink">T&amp;E Soft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/T&amp;E_Soft" title="wikilink">T&amp;E Soft</a></p></td>
 <td><p>超级任天堂</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年</p></td>
-<td><p><a href="../Page/Game_Boy_Camera.md" title="wikilink">Game Boy Camera</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Boy_Camera" title="wikilink">Game Boy Camera</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Game Boy</p></td>
 </tr>
@@ -153,7 +153,7 @@ Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年</p></td>
-<td><p><em><a href="../Page/Drill_Dozer.md" title="wikilink">Drill Dozer</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Drill_Dozer" title="wikilink">Drill Dozer</a></em></p></td>
 <td><p>任天堂</p></td>
 <td><p>Game Boy Advance</p></td>
 </tr>
@@ -189,7 +189,7 @@ Game Boy</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
-<td><p><em><a href="../Page/HarmoKnight.md" title="wikilink">HarmoKnight</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/HarmoKnight" title="wikilink">HarmoKnight</a></em></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>
@@ -209,7 +209,7 @@ Android</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/精靈寶可夢_終結紅寶石·初始藍寶石.md" title="wikilink">精靈寶可夢 終結紅寶石·初始藍寶石</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_終結紅寶石·初始藍寶石" title="wikilink">精靈寶可夢 終結紅寶石·初始藍寶石</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>
@@ -223,7 +223,7 @@ Windows</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/精靈寶可夢_太陽·月亮.md" title="wikilink">精靈寶可夢 太陽·月亮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_太陽·月亮" title="wikilink">精靈寶可夢 太陽·月亮</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>
@@ -235,13 +235,13 @@ Windows</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/精靈寶可夢_究極之日·究極之月.md" title="wikilink">精靈寶可夢 究極之日·究極之月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_究極之日·究極之月" title="wikilink">精靈寶可夢 究極之日·究極之月</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo 3DS</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/寶可夢探險尋寶.md" title="wikilink">寶可夢探險尋寶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寶可夢探險尋寶" title="wikilink">寶可夢探險尋寶</a></p></td>
 <td><p>The Pokémon Company</p></td>
 <td><p>Nintendo Switch<br />
 iOS<br />
@@ -249,7 +249,7 @@ Android</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布.md" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo Switch</p></td>
 </tr>
@@ -264,10 +264,10 @@ Android</p></td>
 
 ## 主要職員
 
-  - [杉森健](../Page/杉森健.md "wikilink")
+  - [杉森健](https://zh.wikipedia.org/wiki/杉森健 "wikilink")
   - [增田順一](../Page/增田順一.md "wikilink")
-  - [森本茂樹](../Page/森本茂樹.md "wikilink")
-  - [藤原基史](../Page/藤原基史.md "wikilink")
+  - [森本茂樹](https://zh.wikipedia.org/wiki/森本茂樹 "wikilink")
+  - [藤原基史](https://zh.wikipedia.org/wiki/藤原基史 "wikilink")
 
 ## 參考資料
 

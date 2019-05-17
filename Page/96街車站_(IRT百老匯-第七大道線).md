@@ -1,6 +1,6 @@
-**96街車站**（）是[紐約地鐵](../Page/紐約地鐵.md "wikilink")[IRT百老匯-第七大道線的一個快車](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](../Page/地鐵站.md "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[上西城](../Page/上西城.md "wikilink")及[百老匯交界](../Page/百老匯.md "wikilink")，設有[1號線](../Page/紐約地鐵1號線.md "wikilink")、[2號線與](../Page/紐約地鐵2號線.md "wikilink")[3號線](../Page/紐約地鐵3號線.md "wikilink")（均為任何時候停站）列車服務。
+**96街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線的一個快車](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[上西城](../Page/上西城.md "wikilink")及[百老匯交界](../Page/百老匯.md "wikilink")，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")、[2號線與](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")[3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")（均為任何時候停站）列車服務。
 
-96街車站曾為一部分，並於1904年10月27日啟用\[1\]。當時車站是同時是快慢車的總站，而快車會以慢車繼續北行至[145街](../Page/145街車站_\(IRT百老匯-第七大道線\).md "wikilink")\[2\]。
+96街車站曾為一部分，並於1904年10月27日啟用\[1\]。當時車站是同時是快慢車的總站，而快車會以慢車繼續北行至[145街](https://zh.wikipedia.org/wiki/145街車站_\(IRT百老匯-第七大道線\) "wikilink")\[2\]。
 
 ## 車站結構
 
@@ -25,7 +25,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/威克菲爾德-241街車站_(IRT白原路線).md" title="wikilink">241街</a>）<small>（<a href="../Page/103街車站_(IRT百老匯-第七大道線).md" title="wikilink">103街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">241街</a>）<small>（<a href="https://zh.wikipedia.org/wiki/103街車站_(IRT百老匯-第七大道線)" title="wikilink">103街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -35,14 +35,14 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>北行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/威克菲爾德-241街車站_(IRT白原路線).md" title="wikilink">威克菲爾德-241街</a><small>（<a href="../Page/中央公園北-110街車站_(IRT萊諾克斯大道線).md" title="wikilink">110街</a>）</small><br />
-<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="../Page/哈萊姆-148街車站_(IRT萊諾克斯大道線).md" title="wikilink">哈萊姆-148街</a><small>（110街）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/威克菲爾德-241街車站_(IRT白原路線)" title="wikilink">威克菲爾德-241街</a><small>（<a href="https://zh.wikipedia.org/wiki/中央公園北-110街車站_(IRT萊諾克斯大道線)" title="wikilink">110街</a>）</small><br />
+<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/哈萊姆-148街車站_(IRT萊諾克斯大道線)" title="wikilink">哈萊姆-148街</a><small>（110街）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行快速</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="../Page/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線).md" title="wikilink">夫拉特布殊大道</a><small>（<a href="../Page/72街車站_(IRT百老匯-第七大道線).md" title="wikilink">72街</a>）</small><br />
-<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="../Page/新地段大道車站_(IRT新地段線).md" title="wikilink">新地段大道</a>（深夜時往<a href="../Page/時報廣場-42街車站_(IRT百老匯-第七大道線).md" title="wikilink">時報廣場-42街</a>）<small>（72街）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道</a><small>（<a href="https://zh.wikipedia.org/wiki/72街車站_(IRT百老匯-第七大道線)" title="wikilink">72街</a>）</small><br />
+<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-3.svg" title="fig:纽约地铁3号线">纽约地铁3号线</a> 往<a href="https://zh.wikipedia.org/wiki/新地段大道車站_(IRT新地段線)" title="wikilink">新地段大道</a>（深夜時往<a href="https://zh.wikipedia.org/wiki/時報廣場-42街車站_(IRT百老匯-第七大道線)" title="wikilink">時報廣場-42街</a>）<small>（72街）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -52,7 +52,7 @@
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|red}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/南碼頭車站_(IRT百老匯-第七大道線).md" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往夫拉特布殊大道）<small>（<a href="../Page/86街車站_(IRT百老匯-第七大道線).md" title="wikilink">86街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭車站_(IRT百老匯-第七大道線)" title="wikilink">南碼頭</a>（深夜時<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往夫拉特布殊大道）<small>（<a href="https://zh.wikipedia.org/wiki/86街車站_(IRT百老匯-第七大道線)" title="wikilink">86街</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -63,19 +63,19 @@
 </tbody>
 </table>
 
-現時，96街如同其他一般快車車站營運\[3\]。車站設有兩個容許上一行快慢車互相[跨月台轉乘的](../Page/跨月台轉乘.md "wikilink")[島式月台](../Page/島式月台.md "wikilink")\[4\]。
+現時，96街如同其他一般快車車站營運\[3\]。車站設有兩個容許上一行快慢車互相[跨月台轉乘的](https://zh.wikipedia.org/wiki/跨月台轉乘 "wikilink")[島式月台](../Page/島式月台.md "wikilink")\[4\]。
 
 正常情況下，南行慢車使用B1軌道而快車使用B2軌道。北行快車使用B3軌道而慢車使用B4軌道。這些編號並不在車站內展示，但用作各自獨立軌道的，量度地鐵列車距離\[5\]。
 
-96街北面，快車軌道下沉並東轉至西104街，並在[中央公園向東北運行](../Page/中央公園.md "wikilink")，於西110街接上[IRT萊諾克斯大道線](../Page/IRT萊諾克斯大道線.md "wikilink")。上層其餘的慢車軌道前往。快車軌道分離後，現時一條不使用的中央軌道於100街開始。由於後期設計改為北行加入第三軌道，亦考慮將來下層萊諾克斯支線會興建第三軌道，因此車站附近有較大空間。
+96街北面，快車軌道下沉並東轉至西104街，並在[中央公園向東北運行](../Page/中央公園.md "wikilink")，於西110街接上[IRT萊諾克斯大道線](https://zh.wikipedia.org/wiki/IRT萊諾克斯大道線 "wikilink")。上層其餘的慢車軌道前往。快車軌道分離後，現時一條不使用的中央軌道於100街開始。由於後期設計改為北行加入第三軌道，亦考慮將來下層萊諾克斯支線會興建第三軌道，因此車站附近有較大空間。
 
-車站月台於1950年延長和擴閣以便停靠更長的列車。現時延長的部分清𥇦可見，因新舊部分的裝修並不使用相同的風格，牆壁和天花板在車站南端均可看見差異。此外，94街的新入口導致與[91街車站距離過近](../Page/91街車站_\(IRT百老匯-第七大道線\).md "wikilink")，最後該站關閉\[6\]。
+車站月台於1950年延長和擴閣以便停靠更長的列車。現時延長的部分清𥇦可見，因新舊部分的裝修並不使用相同的風格，牆壁和天花板在車站南端均可看見差異。此外，94街的新入口導致與[91街車站距離過近](https://zh.wikipedia.org/wiki/91街車站_\(IRT百老匯-第七大道線\) "wikilink")，最後該站關閉\[6\]。
 
 ### 不使用的側式月台
 
-車站原初設計為從百老匯的行人路經樓梯進入車站，到了[側式月台的最北端](../Page/側式月台.md "wikilink")，再經地下道前往中央島式月台\[7\]。時至2010年4月5日，一個位於介乎95街和96街的百老匯的新車站建築令這些出入口變得多餘。中央車站建築設立了新的樓梯的升降機前往月台，位於96街以北百老匯的舊公廁現時被用作社區中心，但有時被誤認為舊車站建築，事實上此建築是地鐵站完工以後數十年才興建，更貼近其他紐約市的公廁設計而不是IRT地鐵車站建築如[72街車站的設計](../Page/72街車站_\(IRT百老匯-第七大道線\).md "wikilink")\[8\]。
+車站原初設計為從百老匯的行人路經樓梯進入車站，到了[側式月台的最北端](../Page/側式月台.md "wikilink")，再經地下道前往中央島式月台\[7\]。時至2010年4月5日，一個位於介乎95街和96街的百老匯的新車站建築令這些出入口變得多餘。中央車站建築設立了新的樓梯的升降機前往月台，位於96街以北百老匯的舊公廁現時被用作社區中心，但有時被誤認為舊車站建築，事實上此建築是地鐵站完工以後數十年才興建，更貼近其他紐約市的公廁設計而不是IRT地鐵車站建築如[72街車站的設計](https://zh.wikipedia.org/wiki/72街車站_\(IRT百老匯-第七大道線\) "wikilink")\[8\]。
 
-車站同時設有島式月台和側式月台的配置在紐約地鐵並不常見。原初的設計為島式月台作為快慢車的轉車之用，而較短的側式月台為從街道到慢車提供更方便的路徑。此設計亦用於[IRT萊辛頓大道線的](../Page/IRT萊辛頓大道線.md "wikilink")[布魯克林橋-市政府車站與](../Page/布魯克林橋-市政府/錢伯斯街車站.md "wikilink")[14街-聯合廣場車站](../Page/14街-聯合廣場車站.md "wikilink")。地鐵通車初期一度出現兩側同時開門的情況。然而這種做法在現代化列車進行已經不合時宜，最後只有面向島式月台的一側繼續使用，而側式月台則被廢棄\[9\]。
+車站同時設有島式月台和側式月台的配置在紐約地鐵並不常見。原初的設計為島式月台作為快慢車的轉車之用，而較短的側式月台為從街道到慢車提供更方便的路徑。此設計亦用於[IRT萊辛頓大道線的](../Page/IRT萊辛頓大道線.md "wikilink")[布魯克林橋-市政府車站與](https://zh.wikipedia.org/wiki/布魯克林橋-市政府/錢伯斯街車站 "wikilink")[14街-聯合廣場車站](https://zh.wikipedia.org/wiki/14街-聯合廣場車站 "wikilink")。地鐵通車初期一度出現兩側同時開門的情況。然而這種做法在現代化列車進行已經不合時宜，最後只有面向島式月台的一側繼續使用，而側式月台則被廢棄\[9\]。
 
 現時正在進行將不使用的側式月台和舊出入口改為儲藏室和辦公室。西面的側式月台隔壁的新窗戶可以見到系統轉換的面板。
 
@@ -93,8 +93,9 @@ Metropolitan Transportation Authority; April 16, 2010; 2:14 YouTube clip
   -
   - [MTA Opens New UWS Subway
     Entrance](https://archive.is/20130130112900/http://www.ny1.com/5-manhattan-news-content/top_stories/116435/mta-opens-new-uws-subway-entrance).
-    [NY1 local news channel](../Page/NY1.md "wikilink"). Retrieved April
-    5, 2010.
+    [NY1 local news
+    channel](https://zh.wikipedia.org/wiki/NY1 "wikilink"). Retrieved
+    April 5, 2010.
 
   - Station Reporter – [1
     Train](https://web.archive.org/web/20141010102251/http://www.stationreporter.net/1train.htm)

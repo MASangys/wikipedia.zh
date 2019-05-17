@@ -1,9 +1,9 @@
-《**遊戲王5D's**》（）是《[遊戲王](../Page/遊戲王.md "wikilink")》系列動畫之一，自2008年4月2日起在日本首播，於2011年3月30日完結，全劇154集。它的前作是《[遊戲王GX](../Page/遊戲王GX.md "wikilink")》，接檔作品是《[遊戲王ZEXAL](../Page/遊戲王ZEXAL.md "wikilink")》。
+《**遊戲王5D's**》（）是《[遊戲王](../Page/遊戲王.md "wikilink")》系列動畫之一，自2008年4月2日起在日本首播，於2011年3月30日完結，全劇154集。它的前作是《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》，接檔作品是《[遊戲王ZEXAL](https://zh.wikipedia.org/wiki/遊戲王ZEXAL "wikilink")》。
 
 ## 概要
 
-本作是[遊戲王系列作](../Page/遊戲王.md "wikilink")（繼《[遊戲王－怪獸之決鬥](../Page/遊戲王－怪獸之決鬥.md "wikilink")》、《[遊戲王GX](../Page/遊戲王GX.md "wikilink")》）的第三部作品，同時也是[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》創刊40周年及《[V
-Jump](../Page/V_Jump.md "wikilink")》15周年紀念作品。與前兩作不同，本作的舞臺是以[武藤遊戲所在年代數十年後的童實野市為背景](../Page/武藤遊戲.md "wikilink")，名叫“新童實野市”。這裡是一個根據身份高低分為上層地帶和下層地帶的階級社會，流行用“**D輪**（D
+本作是[遊戲王系列作](../Page/遊戲王.md "wikilink")（繼《[遊戲王－怪獸之決鬥](https://zh.wikipedia.org/wiki/遊戲王－怪獸之決鬥 "wikilink")》、《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》）的第三部作品，同時也是[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》創刊40周年及《[V
+Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》15周年紀念作品。與前兩作不同，本作的舞臺是以[武藤遊戲所在年代數十年後的童實野市為背景](../Page/武藤遊戲.md "wikilink")，名叫“新童實野市”。這裡是一個根據身份高低分為上層地帶和下層地帶的階級社會，流行用“**D輪**（D
 Wheel）”之稱的摩托車型決鬥裝置來進行“騎乘決鬥（Riding
 Duel）”。劇中「騎著摩托車決鬥」的概念造成了話題。雖然本作是以騎著摩托車進行決鬥的「騎乘決鬥（Riding
 Duel）」為主，但並不是所有決鬥都是騎著摩托車進行，系列作以往的站立式決鬥也會出現。
@@ -12,15 +12,15 @@ Duel）」為主，但並不是所有決鬥都是騎著摩托車進行，系列�
 Monsters）」字樣，「遊戲王」LOGO也使用了全新的設計，雖然如此本作也繼承了將這個世界裏的卡片遊戲稱為「怪獸之決鬥」的說法。至今為止在動畫裏被使用過的卡片不久後會在公式化裏出現，然而本作的主角們使用的卡片有可能同一時間在公式化中也能玩到。因此與「遊戲王5D's
 Official Card Game」的綁定性也提高了。
 
-舞台設定以及構想基礎皆來自「[遊戲王](../Page/遊戲王.md "wikilink")」原作者[高橋和希的初案](../Page/高橋和希.md "wikilink")，高橋也著手於主要角色、主要怪獸卡、D輪等設計。「讓舞台擴大到世界規模，其移動手段是必要的準備」、「前兩作普通決鬥已經淋漓盡致了，若要做續篇的話，想挑戰新的決鬥方式」等理由讓D輪以及騎乘決鬥成為本作主軸而被製作出來\[1\]\[2\]。高橋自己打算在前作「[GX](../Page/遊戲王GX.md "wikilink")」中為「[遊戲王](../Page/遊戲王.md "wikilink")」做結尾，但系列作發展超過高橋一人的範圍，牽涉到跨媒體的平台（[ACG](../Page/ACG.md "wikilink")、原聲帶、集換式卡片），又因為和動畫製作組有熟識，各個原因之下，以最終工作的精神承接本作\[3\]。
+舞台設定以及構想基礎皆來自「[遊戲王](../Page/遊戲王.md "wikilink")」原作者[高橋和希的初案](../Page/高橋和希.md "wikilink")，高橋也著手於主要角色、主要怪獸卡、D輪等設計。「讓舞台擴大到世界規模，其移動手段是必要的準備」、「前兩作普通決鬥已經淋漓盡致了，若要做續篇的話，想挑戰新的決鬥方式」等理由讓D輪以及騎乘決鬥成為本作主軸而被製作出來\[1\]\[2\]。高橋自己打算在前作「[GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")」中為「[遊戲王](../Page/遊戲王.md "wikilink")」做結尾，但系列作發展超過高橋一人的範圍，牽涉到跨媒體的平台（[ACG](../Page/ACG.md "wikilink")、原聲帶、集換式卡片），又因為和動畫製作組有熟識，各個原因之下，以最終工作的精神承接本作\[3\]。
 
-故事原案是高橋以前繪製的漫畫草案。此時已奠定「燃燒的[納斯卡線不斷冒出巨大的敵方同時對著五個騎車馳聘的戰士戰鬥](../Page/納斯卡線.md "wikilink")」的概念，五個戰士會被下一代繼承也是共通的設定。此外，高橋提供的想法僅到黑暗者篇為止，WRGP故事的部分全由動畫製作組去著手。高橋以「故事最終的高潮讓人相當欽佩」等話來評價動畫製作組\[4\]。
+故事原案是高橋以前繪製的漫畫草案。此時已奠定「燃燒的[納斯卡線不斷冒出巨大的敵方同時對著五個騎車馳聘的戰士戰鬥](https://zh.wikipedia.org/wiki/納斯卡線 "wikilink")」的概念，五個戰士會被下一代繼承也是共通的設定。此外，高橋提供的想法僅到黑暗者篇為止，WRGP故事的部分全由動畫製作組去著手。高橋以「故事最終的高潮讓人相當欽佩」等話來評價動畫製作組\[4\]。
 
 ## 故事大綱
 
 ### 設定
 
-《遊戲王5D's》的故事主要發生在新童實野市裡，除了在〈毀滅鎮〉篇裡場景短暫轉往毀滅鎮之外，多數的情節都發生在該市的不同區域\[5\]。新童實野市是《[遊戲王－怪獸之決鬥](../Page/遊戲王－怪獸之決鬥.md "wikilink")》裡的童實野市經過數十年後的模樣，呈現階級社會。市內被分為數個區域，頂級區為尊、衛星區為卑。由治安維持局管理。在新童實野市裡盛行騎乘決鬥（），決鬥者駕駛著一種名為「D輪」的摩托車型決鬥盤，同時進行駕駛和決鬥。整個城市的能源建立於之上，永轉機是主角不動遊星的父親──不動博士開發、海馬娛樂集團管理的能源系統，是決鬥盤、D輪、立體影像系統的動力來源。而故事開始的17年前，因為第1號永轉機控制系統不完全運轉而引發的事故，造成鄰近的市區與衛星區地面裂開，身為負責人的遊星雙親死亡，主角也因此成為孤兒。
+《遊戲王5D's》的故事主要發生在新童實野市裡，除了在〈毀滅鎮〉篇裡場景短暫轉往毀滅鎮之外，多數的情節都發生在該市的不同區域\[5\]。新童實野市是《[遊戲王－怪獸之決鬥](https://zh.wikipedia.org/wiki/遊戲王－怪獸之決鬥 "wikilink")》裡的童實野市經過數十年後的模樣，呈現階級社會。市內被分為數個區域，頂級區為尊、衛星區為卑。由治安維持局管理。在新童實野市裡盛行騎乘決鬥（），決鬥者駕駛著一種名為「D輪」的摩托車型決鬥盤，同時進行駕駛和決鬥。整個城市的能源建立於之上，永轉機是主角不動遊星的父親──不動博士開發、海馬娛樂集團管理的能源系統，是決鬥盤、D輪、立體影像系統的動力來源。而故事開始的17年前，因為第1號永轉機控制系統不完全運轉而引發的事故，造成鄰近的市區與衛星區地面裂開，身為負責人的遊星雙親死亡，主角也因此成為孤兒。
 
 ### 情節
 
@@ -1792,7 +1792,7 @@ Park Chi Man</p></td>
 ## 製作人員
 
   - 原作：[高橋和希](../Page/高橋和希.md "wikilink")
-  - 連載：集英社「[V Jump](../Page/V_Jump.md "wikilink")」
+  - 連載：集英社「[V Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")」
   - 企劃：川崎由紀夫、松下洋子→山崎立士
   - 監督：小野勝巳、菱川直樹（第86話－92話）
   - 總監督：小野勝巳（第86話－92話）
@@ -1831,35 +1831,48 @@ Park Chi Man</p></td>
 
 ### 片头曲
 
-1.  「绊－キズナ（羈絆）－」 歌：[Kra](../Page/Kra.md "wikilink")(1话 - 26话)
+1.  「绊－キズナ（羈絆）－」
+    歌：[Kra](https://zh.wikipedia.org/wiki/Kra "wikilink")(1话 -
+    26话)
 2.  「LAST TRAIN－－」作詞・作曲：ＫＥＩＴ
-    歌：[knotlamp](../Page/knotlamp.md "wikilink")(27话 - 64话）
-3.  「FREEDOM」歌：[La-vie](../Page/La-vie.md "wikilink") (65话 - 103话)
-4.  「BELIEVE IN NEXUS」歌：[远藤正明](../Page/远藤正明.md "wikilink") (104话 - 129話)
+    歌：[knotlamp](https://zh.wikipedia.org/wiki/knotlamp "wikilink")(27话
+    - 64话）
+3.  「FREEDOM」歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink")
+    (65话 - 103话)
+4.  「BELIEVE IN
+    NEXUS」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
+    (104话 - 129話)
 5.  「明日への道（通向明日之道）～Going my
-    way\!\!～」歌：[远藤正明](../Page/远藤正明.md "wikilink")
+    way\!\!～」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
     (130话 - 154話)
 
 ### 片尾曲
 
-1.  「START」 歌：[中河内雅贵](../Page/中河内雅贵.md "wikilink") （1话 - 26话)
-2.  「CROSS GAME」 歌：[alice nine.](../Page/alice_nine..md "wikilink") （27话
-    - 64话)
-3.  「-OZONE-」 歌：[vistlip](../Page/vistlip.md "wikilink")（65话 - 103话)
+1.  「START」 歌：[中河内雅贵](https://zh.wikipedia.org/wiki/中河内雅贵 "wikilink")
+    （1话 - 26话)
+2.  「CROSS GAME」 歌：[alice
+    nine.](https://zh.wikipedia.org/wiki/alice_nine. "wikilink") （27话 -
+    64话)
+3.  「-OZONE-」
+    歌：[vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")（65话
+    - 103话)
 4.  「Close to you」 歌：[ALvino\~Alchemy vision
-    normal\~](../Page/ALvino~Alchemy_vision_normal~.md "wikilink")(104话
+    normal\~](https://zh.wikipedia.org/wiki/ALvino~Alchemy_vision_normal~ "wikilink")(104话
     - 129話)
 5.  「みらいいろ（未來的顏色）」 歌：[プラスティックトゥリー(Plastic
-    Tree)](../Page/プラスティックトゥリー\(Plastic_Tree\).md "wikilink")(130话
+    Tree)](https://zh.wikipedia.org/wiki/プラスティックトゥリー\(Plastic_Tree\) "wikilink")(130话
     - 154話)
 
 ### 插曲
 
-1.  「You say…明日へ（邁向明日）」 歌：[La-vie](../Page/La-vie.md "wikilink")
+1.  「You say…明日へ（邁向明日）」
+    歌：[La-vie](https://zh.wikipedia.org/wiki/La-vie "wikilink")
     （72,90,92话)
-2.  「Clear Mind（澄淨之心）」 歌：[远藤正明](../Page/远藤正明.md "wikilink")
+2.  「Clear Mind（澄淨之心）」
+    歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")
     （109,110,122,129,134,154话)
-3.  「YAKUSOKU NO MELODY」歌：[远藤正明](../Page/远藤正明.md "wikilink")（154話）
+3.  「YAKUSOKU NO
+    MELODY」歌：[远藤正明](https://zh.wikipedia.org/wiki/远藤正明 "wikilink")（154話）
 
 ## 出版書籍
 
@@ -1876,7 +1889,7 @@ Park Chi Man</p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

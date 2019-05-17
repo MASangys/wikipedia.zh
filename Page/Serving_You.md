@@ -1,5 +1,5 @@
 **《Serving
-You》**為[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[衛蘭第四張個人大碟](../Page/衛蘭.md "wikilink")，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
+You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭第四張個人大碟](../Page/衛蘭.md "wikilink")，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
 
 ## 簡介
 
@@ -9,7 +9,7 @@ You》**為[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.m
 You》，曾多次被外國歌手凱西·特羅克利（Kathy
 Troccoli）、喬蒂·華特利（Jody Watley）、「布萊恩·瓊斯城大屠殺」樂團（[Brian
 Jonestown
-Massacre](../Page/Brian_Jonestown_Massacre.md "wikilink")）、[菲絲·希爾](../Page/菲絲·希爾.md "wikilink")（Faith
+Massacre](https://zh.wikipedia.org/wiki/Brian_Jonestown_Massacre "wikilink")）、[菲絲·希爾](https://zh.wikipedia.org/wiki/菲絲·希爾 "wikilink")（Faith
 Hill）翻唱，而日本歌手[伊藤由奈亦翻唱此曲](../Page/伊藤由奈.md "wikilink")（名為《Endless
 Story》），台灣歌手[張惠春翻唱此曲為](../Page/張惠春.md "wikilink")《想念你的歌》。
 
@@ -17,22 +17,22 @@ Story》），台灣歌手[張惠春翻唱此曲為](../Page/張惠春.md "wikil
 
 碟內收錄了14首歌曲，包括：
 
-| 次序   | 歌名            | 作曲                                                       | 填詞                                               | 編曲                                                   | 監製            |
-| ---- | ------------- | -------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------- | ------------- |
-| 1\.  | 就算世界無童話       | [雷頌德](../Page/雷頌德.md "wikilink")                         | [林夕](../Page/林夕.md "wikilink")                   | 雷頌德                                                  | 雷頌德           |
-| 2\.  | My Cookie Can | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 3\.  | 陰天假期          | Thomas Dawn Ann                                          | [林若寧](../Page/林若寧.md "wikilink")                 | 雷頌德、[John Laudon](../Page/John_Laudon.md "wikilink") | 雷頌德           |
-| 4\.  | 雜技            | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 5\.  | 你知道我在等你們分手嗎？  | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 6\.  | 如水            | [伍仲衡](../Page/伍仲衡.md "wikilink")                         | 林夕                                               | 伍仲衡                                                  | 伍仲衡           |
-| 7\.  | 愛深過做人         | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 8\.  | 我愛呼吸          | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 9\.  | 比我想像中愛你       | Kim Wang Jin、Lee So Ra                                   | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 10\. | 寒命            | 伍仲衡                                                      | 林夕                                               | [Adrian Chan](../Page/Adrian_Chan.md "wikilink")     | 伍仲衡           |
-| 11\. | 退             | 雷頌德                                                      | [黃仲凱](../Page/黃仲凱.md "wikilink")                 | 雷頌德                                                  | 雷頌德           |
-| 12\. | 主角愛我          | 雷頌德                                                      | 林夕                                               | 雷頌德                                                  | 雷頌德           |
-| 13\. | Reality（英）    | [Vladimir Cosma](../Page/Vladimir_Cosma.md "wikilink")   | [Jeff Jorden](../Page/Jeff_Jorden.md "wikilink") | John Laudonon@On Your Mark                           | John Laudonon |
-| 14\. | 無所謂           | Benjamin Manuel Raffaelli、Hocine Hallaf、Nicolas Neidhart | 林夕                                               | 雷頌德                                                  | 雷頌德           |
+| 次序   | 歌名            | 作曲                                                                        | 填詞                                                                  | 編曲                                                                      | 監製            |
+| ---- | ------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------- |
+| 1\.  | 就算世界無童話       | [雷頌德](../Page/雷頌德.md "wikilink")                                          | [林夕](../Page/林夕.md "wikilink")                                      | 雷頌德                                                                     | 雷頌德           |
+| 2\.  | My Cookie Can | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 3\.  | 陰天假期          | Thomas Dawn Ann                                                           | [林若寧](../Page/林若寧.md "wikilink")                                    | 雷頌德、[John Laudon](https://zh.wikipedia.org/wiki/John_Laudon "wikilink") | 雷頌德           |
+| 4\.  | 雜技            | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 5\.  | 你知道我在等你們分手嗎？  | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 6\.  | 如水            | [伍仲衡](../Page/伍仲衡.md "wikilink")                                          | 林夕                                                                  | 伍仲衡                                                                     | 伍仲衡           |
+| 7\.  | 愛深過做人         | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 8\.  | 我愛呼吸          | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 9\.  | 比我想像中愛你       | Kim Wang Jin、Lee So Ra                                                    | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 10\. | 寒命            | 伍仲衡                                                                       | 林夕                                                                  | [Adrian Chan](https://zh.wikipedia.org/wiki/Adrian_Chan "wikilink")     | 伍仲衡           |
+| 11\. | 退             | 雷頌德                                                                       | [黃仲凱](https://zh.wikipedia.org/wiki/黃仲凱 "wikilink")                 | 雷頌德                                                                     | 雷頌德           |
+| 12\. | 主角愛我          | 雷頌德                                                                       | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
+| 13\. | Reality（英）    | [Vladimir Cosma](https://zh.wikipedia.org/wiki/Vladimir_Cosma "wikilink") | [Jeff Jorden](https://zh.wikipedia.org/wiki/Jeff_Jorden "wikilink") | John Laudonon@On Your Mark                                              | John Laudonon |
+| 14\. | 無所謂           | Benjamin Manuel Raffaelli、Hocine Hallaf、Nicolas Neidhart                  | 林夕                                                                  | 雷頌德                                                                     | 雷頌德           |
 
 ## 派台歌曲及四台成績
 
@@ -127,9 +127,11 @@ Cookie Can》、《愛深過做人》。
   - 2008香港數碼音樂頒獎典禮 - 《雜技》
   - 第六屆《勁歌王》全球華人樂壇年度總選 - 勁歌K歌金曲 - 《就算世界無童話》
   - 第六屆《勁歌王》全球華人樂壇年度總選 - 粵語金曲獎 - 《就算世界無童話》
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")2009
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
     - 最高收聽率二十大歌曲 - 《就算世界無童話》
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")2009
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")2009
     - 十大最高銷量歌曲 - 《就算世界無童話》
   - 2010數碼音樂頒獎禮 - 最高使用次數電話接駁鈴聲歌曲 - 《就算世界無童話》
   - 2010數碼音樂頒獎禮 - 數碼原點歌曲獎 - 《就算世界無童話》

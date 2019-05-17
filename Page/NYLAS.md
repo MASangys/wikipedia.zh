@@ -1,4 +1,4 @@
-**NYLAS**是一個活躍於[台灣的電子樂團](../Page/台灣.md "wikilink")，目前由LABI（[主唱](../Page/歌手.md "wikilink")）、ARNY（[電腦](../Page/電腦.md "wikilink")．[鍵盤手](../Page/鍵盤.md "wikilink")）組成，兩位皆是樂團[草莓救星的團員](../Page/草莓救星.md "wikilink")，但是參與了法雅客書店所主辦的**第二屆
+**NYLAS**是一個活躍於[台灣的電子樂團](https://zh.wikipedia.org/wiki/台灣 "wikilink")，目前由LABI（[主唱](../Page/歌手.md "wikilink")）、ARNY（[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")．[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")）組成，兩位皆是樂團[草莓救星的團員](https://zh.wikipedia.org/wiki/草莓救星 "wikilink")，但是參與了法雅客書店所主辦的**第二屆
 注意新秀**比賽獲得優勝，因此兩人成立了NYLAS。
 
 ## 簡介
@@ -19,63 +19,64 @@
 
   - 2004年
       - 1月6日　發表第一張迷你專輯《[Where Are You My Dear Uncle
-        K?](../Page/Where_Are_You_My_Dear_Uncle_K?.md "wikilink")》
-      - 12月4日　以電影《[神的孩子](../Page/神的孩子.md "wikilink")》入圍[第41屆金馬獎](../Page/第41屆金馬獎.md "wikilink")**最佳短片**及**最佳視覺效果**\[2\]
+        K?](https://zh.wikipedia.org/wiki/Where_Are_You_My_Dear_Uncle_K? "wikilink")》
+      - 12月4日　以電影《[神的孩子](https://zh.wikipedia.org/wiki/神的孩子 "wikilink")》入圍[第41屆金馬獎](https://zh.wikipedia.org/wiki/第41屆金馬獎 "wikilink")**最佳短片**及**最佳視覺效果**\[2\]
 
 <!-- end list -->
 
   - 2006年
       - 10月27日　參與電影《[一年之初](../Page/一年之初.md "wikilink")》的配樂（與[林強合作](../Page/林強.md "wikilink")）
-      - 12月25日　以電影《[一年之初](../Page/一年之初.md "wikilink")》榮獲[第43屆金馬獎](../Page/第43屆金馬獎.md "wikilink")**最佳電影原創音樂**\[3\]
+      - 12月25日　以電影《[一年之初](../Page/一年之初.md "wikilink")》榮獲[第43屆金馬獎](https://zh.wikipedia.org/wiki/第43屆金馬獎 "wikilink")**最佳電影原創音樂**\[3\]
 
 <!-- end list -->
 
   - 2007年
-      - 7月11日　發表第一張單曲《[太陽馬戲班](../Page/太陽馬戲班.md "wikilink")》
+      - 7月11日　發表第一張單曲《[太陽馬戲班](https://zh.wikipedia.org/wiki/太陽馬戲班 "wikilink")》
       - 11月2日　發表第二張單曲《[Here you are\! My Dear Uncle
-        K\!](../Page/Here_you_are!_My_Dear_Uncle_K!.md "wikilink")》
+        K\!](https://zh.wikipedia.org/wiki/Here_you_are!_My_Dear_Uncle_K! "wikilink")》
 
 <!-- end list -->
 
   - 2009年
-      - 3月6日　發表第二張專輯／首張完整專輯《[Nylas](../Page/Nylas_\(專輯\).md "wikilink")》
+      - 3月6日　發表第二張專輯／首張完整專輯《[Nylas](https://zh.wikipedia.org/wiki/Nylas_\(專輯\) "wikilink")》
 
 ## 樂團成員
 
   - LaBi（[主唱](../Page/歌手.md "wikilink")）
-  - ArNy（[電腦](../Page/電腦.md "wikilink")．[鍵盤手](../Page/鍵盤.md "wikilink")）
+  - ArNy（[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")．[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")）
 
 ## 音樂作品
 
 **單曲**
 
-1.  [太陽馬戲班](../Page/太陽馬戲班.md "wikilink")（2007年7月11日）
+1.  [太陽馬戲班](https://zh.wikipedia.org/wiki/太陽馬戲班 "wikilink")（2007年7月11日）
 2.  [Here you are\! My Dear Uncle
-    K\!](../Page/Here_you_are!_My_Dear_Uncle_K!.md "wikilink")（2007年11月2日）
+    K\!](https://zh.wikipedia.org/wiki/Here_you_are!_My_Dear_Uncle_K! "wikilink")（2007年11月2日）
 
 **專輯**
 
 1.  [Where Are You My Dear Uncle
-    K?](../Page/Where_Are_You_My_Dear_Uncle_K?.md "wikilink")（2004年1月6日）
-2.  [Nylas](../Page/Nylas_\(專輯\).md "wikilink")（2009年3月6日）
+    K?](https://zh.wikipedia.org/wiki/Where_Are_You_My_Dear_Uncle_K? "wikilink")（2004年1月6日）
+2.  [Nylas](https://zh.wikipedia.org/wiki/Nylas_\(專輯\) "wikilink")（2009年3月6日）
 
 <!-- end list -->
 
-1.  [獨立潮流](../Page/獨立潮流.md "wikilink")（2004年12月29日）
+1.  [獨立潮流](https://zh.wikipedia.org/wiki/獨立潮流 "wikilink")（2004年12月29日）
       - 收錄曲：魔鬼之家
-2.  [FC5 - 118](../Page/FC5_-_118.md "wikilink")（2005年6月27日）
+2.  [FC5 -
+    118](https://zh.wikipedia.org/wiki/FC5_-_118 "wikilink")（2005年6月27日）
       - 收錄曲：白馬敗家子
-3.  [草地音樂同學會](../Page/草地音樂同學會.md "wikilink")（2007年6月1日）（[默契音樂](../Page/默契音樂.md "wikilink")）
+3.  [草地音樂同學會](https://zh.wikipedia.org/wiki/草地音樂同學會 "wikilink")（2007年6月1日）（[默契音樂](https://zh.wikipedia.org/wiki/默契音樂 "wikilink")）
       - 收錄曲：Love For Free
 4.  [卡夫卡不插電
-    vol.2](../Page/卡夫卡不插電_vol.2.md "wikilink")（2008年9月2日）（[喜馬拉雅唱片](../Page/喜馬拉雅唱片.md "wikilink")）
+    vol.2](https://zh.wikipedia.org/wiki/卡夫卡不插電_vol.2 "wikilink")（2008年9月2日）（[喜馬拉雅唱片](https://zh.wikipedia.org/wiki/喜馬拉雅唱片 "wikilink")）
       - 收錄曲：Love for free、Through the night
-5.  [風和日麗連連看](../Page/風和日麗連連看.md "wikilink")（2020年2月）
+5.  [風和日麗連連看](https://zh.wikipedia.org/wiki/風和日麗連連看 "wikilink")（2020年2月）
       - 收錄曲：美好時光
 
 **電影配樂**
 
-  - 「[神的孩子](../Page/神的孩子.md "wikilink")」
+  - 「[神的孩子](https://zh.wikipedia.org/wiki/神的孩子 "wikilink")」
   - 「[一年之初](../Page/一年之初.md "wikilink") - 電影音樂概念專輯」與林強合作
 
 ## 獲獎紀錄
@@ -83,9 +84,9 @@
   - 2003年
       - 參加法雅客書店(FNAC)所主辦的「第二屆 注意新秀」(Attention telents)獲得**優勝**
   - 2004年
-      - 12月4日　以電影《[神的孩子](../Page/神的孩子.md "wikilink")》入圍[第41屆金馬獎](../Page/第41屆金馬獎.md "wikilink")**最佳短片**及**最佳視覺效果**
+      - 12月4日　以電影《[神的孩子](https://zh.wikipedia.org/wiki/神的孩子 "wikilink")》入圍[第41屆金馬獎](https://zh.wikipedia.org/wiki/第41屆金馬獎 "wikilink")**最佳短片**及**最佳視覺效果**
   - 2006年
-      - 12月25日　以電影《[一年之初](../Page/一年之初.md "wikilink")》榮獲[第43屆金馬獎](../Page/第43屆金馬獎.md "wikilink")**最佳電影原創音樂**（參與合作）
+      - 12月25日　以電影《[一年之初](../Page/一年之初.md "wikilink")》榮獲[第43屆金馬獎](https://zh.wikipedia.org/wiki/第43屆金馬獎 "wikilink")**最佳電影原創音樂**（參與合作）
 
 ## 參考資料
 

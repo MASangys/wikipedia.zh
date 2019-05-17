@@ -1,28 +1,28 @@
 **Aqua
-timez**（暱稱「」）是日本[搖滾](../Page/搖滾.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")，由五位成員組成：太志、大介、OKP-STAR、mayuko、TASSHI，為[EPIC
+timez**（暱稱「」）是日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由五位成員組成：太志、大介、OKP-STAR、mayuko、TASSHI，為[EPIC
 Records Japan
-Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊在地下時期和主流出道時期皆能獲得專輯週榜首位的樂隊。
+Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。他們是第一隊在地下時期和主流出道時期皆能獲得專輯週榜首位的樂隊。
 
 ## 成員介紹
 
 **太志（）**
 
   -
-    1980年5月10日出生（38歲），男性，出身於[岐阜縣](../Page/岐阜縣.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")。
+    1980年5月10日出生（38歲），男性，出身於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")。
     擔任樂團主唱，負責大部分作詞與作曲。
 
 **大介（）**
 
   -
     本名「長谷川大介」。
-    1977年4月12日出生（41歲），男性，出身於[福島縣](../Page/福島縣.md "wikilink")[富岡町](../Page/富岡町.md "wikilink")。
+    1977年4月12日出生（41歲），男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[富岡町](https://zh.wikipedia.org/wiki/富岡町 "wikilink")。
     擔任樂團吉他手，負責吉他伴奏與Programming。
 
 **OKP-STAR（）**
 
   -
     本名「岡田知久」。
-    1977年3月25日出生（41歲），男性，出身於[福島縣](../Page/福島縣.md "wikilink")[磐城市](../Page/磐城市.md "wikilink")。
+    1977年3月25日出生（41歲），男性，出身於[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[磐城市](../Page/磐城市.md "wikilink")。
     擔任樂團貝斯手，負責低音與和音伴奏。
 
 **mayuko（）**
@@ -35,7 +35,7 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 
   -
     本名「田島智之」。
-    1978年8月21日出生（40歲），男性，出身於[高知縣](../Page/高知縣.md "wikilink")[須崎市](../Page/須崎市.md "wikilink")。
+    1978年8月21日出生（40歲），男性，出身於[高知縣](https://zh.wikipedia.org/wiki/高知縣 "wikilink")[須崎市](../Page/須崎市.md "wikilink")。
     擔任樂團鼓手。
     在退出樂團後，OKP-STAR去電邀請TASSHI加入樂團。
 
@@ -44,7 +44,7 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 ****
 
   -
-    2月21日出生，男性，出身於[三重県](../Page/三重県.md "wikilink")[熊野市](../Page/熊野市.md "wikilink")。
+    2月21日出生，男性，出身於[三重県](https://zh.wikipedia.org/wiki/三重県 "wikilink")[熊野市](https://zh.wikipedia.org/wiki/熊野市 "wikilink")。
     擔任樂團鼓手。
     於發行迷你專輯『（七彩的塗鴉）』後退出樂團。
 
@@ -55,7 +55,7 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 <!-- end list -->
 
   - Aqua
-    Times組成，由**主唱太志**、**吉他手大介**、**貝斯手OKP-STAR**、**鍵盤手Mayuko**及**鼓手**五人所組成的樂團，正式出道前主要以[東京為中心](../Page/東京.md "wikilink")，活躍於地下樂團活動。
+    Times組成，由**主唱太志**、**吉他手大介**、**貝斯手OKP-STAR**、**鍵盤手Mayuko**及**鼓手**五人所組成的樂團，正式出道前主要以[東京為中心](https://zh.wikipedia.org/wiki/東京 "wikilink")，活躍於地下樂團活動。
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 
 <!-- end list -->
 
-  - 起連續兩年獲得日本新星堂樂團大賽最優秀大獎，並開始在[吉祥寺](../Page/吉祥寺.md "wikilink")、[涉谷](../Page/涉谷.md "wikilink")、[大宮等地開始街頭演唱](../Page/大宮.md "wikilink")，累積了許多演唱經驗及固定的歌迷。
+  - 起連續兩年獲得日本新星堂樂團大賽最優秀大獎，並開始在[吉祥寺](https://zh.wikipedia.org/wiki/吉祥寺 "wikilink")、[涉谷](https://zh.wikipedia.org/wiki/涉谷 "wikilink")、[大宮等地開始街頭演唱](https://zh.wikipedia.org/wiki/大宮 "wikilink")，累積了許多演唱經驗及固定的歌迷。
 
 <!-- end list -->
 
@@ -81,8 +81,8 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 
   - 4月5日　推出迷你專輯『**七彩的塗鴉**』，正式主流出道。Aqua
     Timez以人的喜怒哀樂為主要創作題材，以朗朗上口的旋律、令人感同身受的歌詞，加上主唱太志給予人勇氣與溫暖的唱腔，及完美的演奏，根據調查，最受到10幾到20幾歲的年輕人的認同，正式出道後立即受到[日本年輕歌迷的喜愛](../Page/日本.md "wikilink")。另**鼓手**於本張專輯發行時離開樂團，**TASSHI**加入樂團、擔任鼓手位置。
-  - 12月6日　在日本推出首張創作專輯『**追風之歌**』，專輯收錄之前地下樂團時期多首膾炙人口的創作歌曲，如電影【[勇者物語](../Page/勇者物語.md "wikilink")】的主題曲「**迎向朝陽**」、[SONY](../Page/SONY.md "wikilink")
-    walkman廣告曲「**夜夜夜夜**」等多首歌曲，同年首度登上第57回[NHK](../Page/NHK.md "wikilink")[紅白歌合戰的舞台](../Page/紅白歌合戰.md "wikilink")，在2007年年初的ORICON公信榜前100名中，寫下共有2張單曲及2張專輯共計4張作品同時在榜內的紀錄。
+  - 12月6日　在日本推出首張創作專輯『**追風之歌**』，專輯收錄之前地下樂團時期多首膾炙人口的創作歌曲，如電影【[勇者物語](../Page/勇者物語.md "wikilink")】的主題曲「**迎向朝陽**」、[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")
+    walkman廣告曲「**夜夜夜夜**」等多首歌曲，同年首度登上第57回[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[紅白歌合戰的舞台](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，在2007年年初的ORICON公信榜前100名中，寫下共有2張單曲及2張專輯共計4張作品同時在榜內的紀錄。
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ Inc旗下藝人](../Page/史诗唱片日本.md "wikilink")。他們是第一隊�
 <!-- end list -->
 
   - 推出單曲「**虹**」停留在公信榜第二名兩週，連續六週前十名，數位手機下載超過200萬次。
-  - 12月31日　二度登上[紅白歌合戰的舞台](../Page/紅白歌合戰.md "wikilink")。
+  - 12月31日　二度登上[紅白歌合戰的舞台](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。
 
 <!-- end list -->
 

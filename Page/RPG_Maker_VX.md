@@ -65,7 +65,7 @@ Ace，日文版於2011年12月15日發售，國際版於2012年3月15日發售�
 RPG Maker VX Ace 基本上是 RPG Maker VX 的加強版，改進的部分有：
 
   - 使用[RGSS](../Page/RGSS.md "wikilink")3作為引擎，改進前作的RGSS2而來。
-  - 附帶[紙娃娃系統的角色生成器](../Page/紙娃娃系統.md "wikilink")。
+  - 附帶[紙娃娃系統的角色生成器](https://zh.wikipedia.org/wiki/紙娃娃系統 "wikilink")。
   - 取消地圖圖塊（Tilesets）的限制。
   - 增加第三圖層，在地圖上可以在頂部堆疊更多的圖塊。
   - [Ruby](../Page/Ruby.md "wikilink")[直譯器更新到](../Page/直譯器.md "wikilink")1.9版（VX為1.8.3版），處理密集指令時速度有顯著提升。
@@ -77,24 +77,24 @@ RPG Maker VX Ace 基本上是 RPG Maker VX 的加強版，改進的部分有：
   - 新增「影片播放」功能，支援[Ogg與](../Page/Ogg.md "wikilink")[Ogv格式](../Page/Ogg.md "wikilink")。
   - 新增「地圖特性」系統，能夠設定傷害地形和梯子等特性。
   - 設置「陰影」變得更簡單。
-  - 支援[DLL格式加強系統](../Page/DLL.md "wikilink")。
+  - 支援[DLL格式加強系統](https://zh.wikipedia.org/wiki/DLL "wikilink")。
   - 更改了預設視窗的顏色。
   - 戰鬥背景與標題畫面由前景與背景組成，能更有彈性的設置。
   - 標題畫面能夠添加文字、地圖能夠顯示名稱。
   - 擴充預設素材的數量。
 
 雖然 RPG Maker VX Ace 無法直接相容 RPG Maker VX
-的檔案；但是透過更改副檔名，能夠[向下相容地圖檔案](../Page/向下相容.md "wikilink")。
+的檔案；但是透過更改副檔名，能夠[向下相容地圖檔案](https://zh.wikipedia.org/wiki/向下相容 "wikilink")。
 
 在2012年12月10日，RPG Maker VX
 Ace在[Steam平台上發布](../Page/Steam.md "wikilink")，該版本能夠在Steam工作坊上分享自己製作的遊戲與資源。
-官方也提供[DLC資源](../Page/追加下載內容.md "wikilink")，但需要額外購買。
+官方也提供[DLC資源](https://zh.wikipedia.org/wiki/追加下載內容 "wikilink")，但需要額外購買。
 
 ### 體驗版
 
 官方網站上有提供體驗版的 RPG Maker VX Ace Lite，可以免費試用30天，但使用上也有限制：如
 
-  - 開啟程式時，也會有[提醒視窗出現來呼籲購買](../Page/嘮叨軟體.md "wikilink")。
+  - 開啟程式時，也會有[提醒視窗出現來呼籲購買](https://zh.wikipedia.org/wiki/嘮叨軟體 "wikilink")。
   - 事件中沒有呼叫腳本的功能。
   - 無法編輯腳本，只能查看預設腳本內容。
   - 能夠輸出遊戲，但不能加密。
@@ -102,10 +102,10 @@ Ace在[Steam平台上發布](../Page/Steam.md "wikilink")，該版本能夠在St
   - 預設素材的數量大幅減少。
 
 另外也在日本釋出 **RPG Maker VX Ace Lite NicoNico Edtion**
-的特殊體驗版，是由[niconico動畫發布的特殊體驗版](../Page/niconico動畫.md "wikilink")\[1\]，特性有：
+的特殊體驗版，是由[niconico動畫發布的特殊體驗版](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[1\]，特性有：
 
   - 授權發布在 NICONICO JISAKU GAME FES 或非商業用途。
-  - 附帶[niconico動畫的圖樣以及圖片資源](../Page/niconico動畫.md "wikilink")。
+  - 附帶[niconico動畫的圖樣以及圖片資源](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。
   - 無法使用影片撥放功能。
 
 ### 系統需求

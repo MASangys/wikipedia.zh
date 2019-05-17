@@ -1,7 +1,7 @@
 **亨利·哈米尔·福勒**（**Henry Hammill
-Fowler**，1908年9月5日[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")[罗阿诺克](../Page/罗阿诺克_\(弗吉尼亚州\).md "wikilink")
+Fowler**，1908年9月5日[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")[罗阿诺克](https://zh.wikipedia.org/wiki/罗阿诺克_\(弗吉尼亚州\) "wikilink")
 -
-2000年1月3日），[美国律师](../Page/美国.md "wikilink")、政治家，[美国民主党成员](../Page/美国民主党.md "wikilink")，曾任[美国财政部长](../Page/美国财政部长.md "wikilink")（1965年-1968年）。
+2000年1月3日），[美国律师](../Page/美国.md "wikilink")、政治家，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国财政部长](../Page/美国财政部长.md "wikilink")（1965年-1968年）。
 
 ## 參考資料
 

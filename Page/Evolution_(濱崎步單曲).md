@@ -11,7 +11,7 @@
 1.  **evolution "Original Mix"**
       -
         作詞：濱崎步 / 作曲：[CREA](../Page/CREA.md "wikilink") /
-        編曲：[HΛL](../Page/HΛL.md "wikilink")
+        編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
         KOSÉ「VISÉE」廣告歌曲
 2.  **evolution "Dub's Floor Remix Transport 004"**
 3.  **evolution "DJ REMO-CON REMIX"**

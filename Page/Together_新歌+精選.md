@@ -1,4 +1,4 @@
-《**Together**》是[台灣女子組合](../Page/台灣.md "wikilink")[S.H.E的第四张专辑](../Page/S.H.E.md "wikilink")，亦是首張「新歌+精選」專輯，於2003年1月23日推出，此張專輯取名「Together」，是因為S.H.E這一年半來的演藝成績並不是一個人的功勞，而是S.H.E與工作人員、媒體及歌迷「一起」所創造出來的，而這張專輯向歌迷表示S.H.E的音樂將會脫離「半熟卵」時期，將轉入更成熟的歌唱事業，也是在「轉型」前將出道一年半來在「半熟卵」時期的所有音樂上做一個總整理。首波主打歌為〈Always
+《**Together**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第四张专辑](../Page/S.H.E.md "wikilink")，亦是首張「新歌+精選」專輯，於2003年1月23日推出，此張專輯取名「Together」，是因為S.H.E這一年半來的演藝成績並不是一個人的功勞，而是S.H.E與工作人員、媒體及歌迷「一起」所創造出來的，而這張專輯向歌迷表示S.H.E的音樂將會脫離「半熟卵」時期，將轉入更成熟的歌唱事業，也是在「轉型」前將出道一年半來在「半熟卵」時期的所有音樂上做一個總整理。首波主打歌為〈Always
 On My
 Mind〉是首輕快的曲風，歌詞描述人與人間不得不分開的那種依依不捨，亦是S.H.E告別「半熟卵期」的代表歌曲。此張專輯也附有Bonus
 VCD。
@@ -8,7 +8,7 @@ Fm年度百首單曲的第100位\[1\]。
 
 ## 唱片版本
 
-**※ 以下發行版本皆以當地（[台灣](../Page/台灣.md "wikilink")）為準。**
+**※ 以下發行版本皆以當地（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）為準。**
 
   - 專輯發行前預購時為精裝版，而正式推出後即為平裝版，而預購會附贈預購贈品，正式發行後則無贈品，而預購贈品為資料夾。
 
@@ -92,7 +92,8 @@ style》卡帶紀念組，此張專輯為16週年復刻卡帶紀念組所收錄1
 *[美麗新世界](../Page/美麗新世界_\(專輯\).md "wikilink")*
 2002年8月5日 |width=20% align=center colspan="2"|**第4张专辑**
 **2003年1月23日** |width=40% align=center|**下一張專輯：**
-*[Super Star](../Page/Super_Star_\(S.H.E\).md "wikilink")*
+*[Super
+Star](https://zh.wikipedia.org/wiki/Super_Star_\(S.H.E\) "wikilink")*
 2003年8月22日
 
 [Category:S.H.E音樂專輯](https://zh.wikipedia.org/wiki/Category:S.H.E音樂專輯 "wikilink")

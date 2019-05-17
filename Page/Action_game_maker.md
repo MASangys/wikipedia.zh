@@ -25,9 +25,9 @@
 
   - 可输出为
 
-:\#[WINDOWS可读格式](../Page/Microsoft_Windows.md "wikilink")（EXE格式）
+:\#[WINDOWS可读格式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（EXE格式）
 
-:\#XNA源文件（用于[XBOX360](../Page/XBOX360.md "wikilink")）
+:\#XNA源文件（用于[XBOX360](https://zh.wikipedia.org/wiki/XBOX360 "wikilink")）
 
 :\#SWF文件（[FLASH格式](../Page/Adobe_Flash.md "wikilink")）
 

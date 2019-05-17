@@ -2,7 +2,7 @@
 2000來製作的](../Page/RPG_Maker_2000.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")。這遊戲的世界觀是以[NAMCO
 x
 CAPCOM來作基礎](../Page/NAMCO_x_CAPCOM.md "wikilink")，再加入[哆啦A夢](../Page/哆啦A夢.md "wikilink")、[機動戰士鋼彈SEED
-DESTINY](../Page/機動戰士鋼彈SEED_DESTINY.md "wikilink")、[超級瑪利歐等作品的同人RPG](../Page/超級瑪利歐.md "wikilink")。現在本作進度是**Epsode４～暗黒の黙示録～**的先行版，這遊戲大概是8個月至一年才推出一個Epsode。
+DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")、[超級瑪利歐等作品的同人RPG](https://zh.wikipedia.org/wiki/超級瑪利歐 "wikilink")。現在本作進度是**Epsode４～暗黒の黙示録～**的先行版，這遊戲大概是8個月至一年才推出一個Epsode。
 
 ## 故事
 
@@ -89,9 +89,9 @@ CAPCOM](../Page/NAMCO_x_CAPCOM.md "wikilink")**的兩年後和**のび太戦記�
 
 ## 時間經歴
 
-本作前三年：哆啦A夢引發了月見台大火災，將大雄家人和[静香殺死](../Page/静香.md "wikilink")
+本作前三年：哆啦A夢引發了月見台大火災，將大雄家人和[静香殺死](https://zh.wikipedia.org/wiki/静香 "wikilink")
 
-本作前兩年：[大雄為了擊倒](../Page/大雄.md "wikilink")[哆啦A夢而進行修行](../Page/哆啦A夢.md "wikilink")。同年，**逢魔騷亂時代**(Namco
+本作前兩年：[大雄為了擊倒](https://zh.wikipedia.org/wiki/大雄 "wikilink")[哆啦A夢而進行修行](../Page/哆啦A夢.md "wikilink")。同年，**逢魔騷亂時代**(Namco
 X Capcom的故事)開始。
 
 本作前一年：大雄參加由Ｄカンパニー所主辦的**格鬥王决定戰大會**，並且優勝。同時更將**魔大戰**的兵器邪神**シリヴス**和[哆啦A夢擊倒](../Page/哆啦A夢.md "wikilink")！同年，大雄外出旅行，行途不明
@@ -104,7 +104,8 @@ X Capcom的故事)開始。
 
 **透鏡(レンズ)**
 
-出處：[Tales of Destiny系列](../Page/Tales_of_Destiny.md "wikilink")
+出處：[Tales of
+Destiny系列](https://zh.wikipedia.org/wiki/Tales_of_Destiny "wikilink")
 
 透鏡是一種擁有強大力量的淺藍色鏡子，本作裡只有第一話出現。
 
@@ -122,13 +123,14 @@ X Capcom的故事)開始。
 
 **逢魔騷亂時代**
 
-出處：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")
+出處：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")
 
 兩年前由逢魔以次元轉移所引發的事件。
 
 **劍謢(ソーディアン)**
 
-出處：[Tales of Destiny系列](../Page/Tales_of_Destiny.md "wikilink")
+出處：[Tales of
+Destiny系列](https://zh.wikipedia.org/wiki/Tales_of_Destiny "wikilink")
 
 劍謢(ソーディアン)是可以使用晶術的特殊劍，它們懂以特殊的音波來和**「劍謢者(ソーディアンマスター)」**進行對話。原作(Tales of
 Destiny系列)是有六把劍謢，可是本作和[NAMCO x
@@ -136,33 +138,34 @@ CAPCOM中登場的劍謢只有三把](../Page/NAMCO_x_CAPCOM.md "wikilink")。
 
 **神之眼(神の眼)**
 
-出處：[Tales of Destiny系列](../Page/Tales_of_Destiny.md "wikilink")
+出處：[Tales of
+Destiny系列](https://zh.wikipedia.org/wiki/Tales_of_Destiny "wikilink")
 
 神之眼(神の眼)是直徑６ｍ的透鏡(レンズ)，擁有令幻想界的天空城市的首都**「達伊古羅夫特(ダイクロフト)**復活的力量，在兩年前已毀滅。
 
 **Project‧Neo Century(プロジェクト・ネオセンチュリー)**
 
-出處：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")
+出處：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")
 
 Project‧Neo
 Century(プロジェクト・ネオセンチュリー)是ヘリオス的一個巨大計畫，這計畫的詳細是一切不明，可是已知道的是和**四人之聖女**有關。
 
 **赫里俄斯(ヘリオス)**
 
-出處：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")
+出處：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")
 
 赫里俄斯(ヘリオス)是哆啦A夢在**「物質界」**所設立的犯罪組織，擁有著超越現時**「物質界」**的科技，和各國也沒有這組織的資料。
 
 **迪瑪昴(デマオン)**
 
-出處：[大雄的魔界大冒險](../Page/大雄的魔界大冒險.md "wikilink")、[大雄的新魔界大冒險\~7人的魔法使者\~](../Page/大雄的新魔界大冒險~7人的魔法使者~.md "wikilink")
+出處：[大雄的魔界大冒險](../Page/大雄的魔界大冒險.md "wikilink")、[大雄的新魔界大冒險\~7人的魔法使者\~](https://zh.wikipedia.org/wiki/大雄的新魔界大冒險~7人的魔法使者~ "wikilink")
 
 迪瑪昴(デマオン)在本作是**「魔界」**傳說中的大魔王，和出處的設定有些不同，可是不死身的設定還在。
 本作的**德露雅卡(ドルアーガ)**就是利用了迪瑪昴來復活，雖然是不死身，可是迪瑪昴對胖虎擁有恐怖的感覺，留下了**「銀之飛鏢」(銀のダーツ)**和**「主星」(アルファ星)**的話就離開了他所開設的**德露雅卡之塔(ドルアーガの塔)**。
 
 **Deflector(ディフレクター)**
 
-出處：[洛克人DASH系列](../Page/洛克人DASH系列.md "wikilink")
+出處：[洛克人DASH系列](https://zh.wikipedia.org/wiki/洛克人DASH系列 "wikilink")
 
 內部藏有巨大能量的柱狀結晶體（本人沒有玩洛克人DASH，所以不知道詳情）
 
@@ -174,14 +177,14 @@ Century(プロジェクト・ネオセンチュリー)是ヘリオス的一個�
 
 **Run time package界(ランタイムパッケージ界)**
 
-出處：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")(？)，[Rpg Maker
-2000](../Page/Rpg_Maker_2000.md "wikilink")
+出處：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")(？)，[Rpg
+Maker 2000](https://zh.wikipedia.org/wiki/Rpg_Maker_2000 "wikilink")
 
 Run time package界是艾克斯所居住的世界，因為**沒有明顯的世界觀**，所以能發生一些物質界和幻想界所混合的事情
 
 **太陽の雷(太陽之雷)**
 
-出處：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")
+出處：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")
 
 **太陽の雷(太陽之雷)**是在本作EP1前一年～半年時由**赫里俄斯(ヘリオス)**所引發的世界級規模犯罪襲撃。多個國家同時受到攻撃，從那以後赫里俄斯成為了歷史上最大的犯罪組織
 
@@ -214,7 +217,7 @@ BGM：少年期，？？？
 在天空寺院的激戰中，再一次遇見由自己在一年前擊敗的[出木杉英才](../Page/出木杉英才.md "wikilink")…
 當他和出木杉戰鬥後，看見出木杉在這一次戰鬥的從容態度…就感到那位「朋友」的存在。結果，在和那位「朋友」的戰鬥後…因為大意而被出木杉和那位「朋友」弄至重傷！不久後，他露出了一副凶暴、失去理性的樣子…從各人的面前消失了…
 
-他在失去理性時曾一次在魔界的[龍宮城中和](../Page/龍宮城.md "wikilink")[胖虎見面](../Page/胖虎.md "wikilink")，可是他奪取了黄金の種後，再一次從人們面前消失…
+他在失去理性時曾一次在魔界的[龍宮城中和](../Page/龍宮城.md "wikilink")[胖虎見面](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，可是他奪取了黄金の種後，再一次從人們面前消失…
 
 他為了向那位「朋友」報仇…而捨棄了以前的自己，可是在他本人的心裏卻還存在著被隱藏的以前。 以前的他是一名溫柔的少年，射擊是以百發百中而自豪。
 雖然擁有強大的力量，可是卻沒有察覺
@@ -244,11 +247,11 @@ Namco X Capcon的聲優：[井上和彥](../Page/井上和彥.md "wikilink")
 **物質界的特務機關，「森羅」的諜報員。**
 
 兩年前的戰鬥後，成為「森羅」的最高級諜報員。 本作他最初是和物質界的伙伴們一起以摳捕**三島平八**為目的，可是最後在**吉夫**的礙障下失敗。
-然後，他被「森羅」的總本部長命令前往在不久前發生了「ゆらぎ」的地方…「日本東京都練馬區的月見台」。可是…在中途被大地鋼彈和兩年前的戰鬥中已死亡的「シャドルー」的親衛隊，ユーニ、ユーリ的襲擊。而他和伙伴們在苦戰下令她們撒退了…但是月見台的事件已被[胖虎等人解决了](../Page/胖虎.md "wikilink")，然後他們收到了新命令…要前往令兩年前的戰鬥開始的場所……「封閉指定都市[澀谷](../Page/澀谷.md "wikilink")」。
+然後，他被「森羅」的總本部長命令前往在不久前發生了「ゆらぎ」的地方…「日本東京都練馬區的月見台」。可是…在中途被大地鋼彈和兩年前的戰鬥中已死亡的「シャドルー」的親衛隊，ユーニ、ユーリ的襲擊。而他和伙伴們在苦戰下令她們撒退了…但是月見台的事件已被[胖虎等人解决了](https://zh.wikipedia.org/wiki/胖虎 "wikilink")，然後他們收到了新命令…要前往令兩年前的戰鬥開始的場所……「封閉指定都市[澀谷](../Page/澀谷.md "wikilink")」。
 
 到達[澀谷後](../Page/澀谷.md "wikilink")，他從「森羅」的通信員中得知…ヘリオス已經在澀谷的地底建造了基地！正當他認為這事是不可能時，「森羅」的諜報員…本田和SAT的隊員被一種透明的怪物襲擊而逃來…正當零児等人也沒有對策時，[KOS-MOS等人也到達了澀谷](../Page/KOS-MOS.md "wikilink")、並發動了「希爾伯特效應」。令他們也能將グノーシス擊退！
 
-然後，他們在[小夫從哆啦A夢的道具](../Page/小夫.md "wikilink")——成功進入了ヘリオス的基地……最後在基地的最深部再一次遇見自己的仇敵**「沙夜」**…更和她進行戰鬥！正當他將沙夜擊敗時，**機器人王國**的珍娜卻在他下手之時，出現阻止零児。然後知道了ヘリオス的目的是令世界再一次融合後，更和珍娜進行另一次激戰…正當零児等人以為能將ヘリオス毀滅時…
+然後，他們在[小夫從哆啦A夢的道具](https://zh.wikipedia.org/wiki/小夫 "wikilink")——成功進入了ヘリオス的基地……最後在基地的最深部再一次遇見自己的仇敵**「沙夜」**…更和她進行戰鬥！正當他將沙夜擊敗時，**機器人王國**的珍娜卻在他下手之時，出現阻止零児。然後知道了ヘリオス的目的是令世界再一次融合後，更和珍娜進行另一次激戰…正當零児等人以為能將ヘリオス毀滅時…
 原來……這一切是ヘリオス的計謀！是為了珍娜口中所說的計畫，而需要拉遲時間…將整個往澀谷轉移去魔界！
 
 零児和「小牟」所轉移的地方是一個名為RTP界的世界，在那個世界的勇者**「艾克斯(Alex)」**和魔王的幫助下，而再一次轉移到「閻魔大王」之處！正當他們剛剛到達時，從閻魔大王的口中知道了ヘリオス會襲擊正處於ドルアーガの塔的**基魯加美修**，然後他們就借用閻魔大王的力量去ドルアーガの塔…雖然及時幫助基魯加美修…
@@ -282,7 +285,7 @@ Namco X Capcon的聲優：[南央美](../Page/南央美.md "wikilink")
 
 **隆**(リュウ)
 
-登場作品：[快打旋風](../Page/快打旋風.md "wikilink")(ストリートファイター)系列
+登場作品：[快打旋風](https://zh.wikipedia.org/wiki/快打旋風 "wikilink")(ストリートファイター)系列
 
 BGM：\[ストリートファイターII\]Stage Japan Ryu
 
@@ -290,7 +293,7 @@ Namco X Capcon的聲優：[森川智之](../Page/森川智之.md "wikilink")
 
 Namco X Capcon的年齡：20前後
 
-武器：[空手](../Page/空手.md "wikilink")(拳套)
+武器：[空手](https://zh.wikipedia.org/wiki/空手 "wikilink")(拳套)
 
 登場話數：EP4 第二十七話
 
@@ -310,7 +313,7 @@ Namco X Capcon的聲優：[千葉一伸](../Page/千葉一伸.md "wikilink")
 
 Namco X Capcon的年齡：21
 
-武器：[空手](../Page/空手.md "wikilink")(拳套)
+武器：[空手](https://zh.wikipedia.org/wiki/空手 "wikilink")(拳套)
 
 登場話數：EP2 第十二話
 
@@ -321,11 +324,12 @@ Namco X Capcon的年齡：21
 身懐著名為**「惡魔因子」(デビル因子)**的**物質界**人類，他是因為自己的母親被「鬥神」殺掉，而投身於自己的爺爺**「三島平八」**學習**「三島流喧嘩空手」**。正當他在將「鬥神」擊敗時，因為三島平八想得到
 「鬥神」的力量而從後偷襲仁！然後仁將原本對他爺爺的信賴被背叛，而捨棄學習已久的**「三島流喧嘩空手」**，學習正統的**[空手道](../Page/空手道.md "wikilink")**，為毀滅邪惡的**「三島家」**而參戰！
 
-本作最初出現是第十二話。因為他的性格是不懂得轉彎的關係，而用了直接突破的方法闖入了**「三島財團」**裏，令零児所計畫的潛入行動失敗。在零児等人和三島平八進行激戰時，他一下突入和三島平八之間！然後，因為[吉夫的出現令三島平八逃走了](../Page/吉夫.md "wikilink")。他知道三島平八是從窗戶逃走，所以他也用窗戶去追'''
+本作最初出現是第十二話。因為他的性格是不懂得轉彎的關係，而用了直接突破的方法闖入了**「三島財團」**裏，令零児所計畫的潛入行動失敗。在零児等人和三島平八進行激戰時，他一下突入和三島平八之間！然後，因為[吉夫的出現令三島平八逃走了](https://zh.wikipedia.org/wiki/吉夫 "wikilink")。他知道三島平八是從窗戶逃走，所以他也用窗戶去追'''
 
 **史坦・艾爾隆**(スタン・エルロン)
 
-登場作品：[Tales of Destiny](../Page/Tales_of_Destiny.md "wikilink")
+登場作品：[Tales of
+Destiny](https://zh.wikipedia.org/wiki/Tales_of_Destiny "wikilink")
 
 BGM：Bare its fangs
 
@@ -341,11 +345,12 @@ Namco X Capcon的年齡：19
 
 奧義：殺劇舞荒剣
 
-所持著擁有人格的劍，**劍謢・迪姆羅斯**的人。本作的初段是被基魯加美修所喚到在幻想界的ドルアーガの塔廃墟跡，正當他和**「露蒂‧卡特雷特」**正在等侍基魯加美修時…[吉夫在斯坦爾前出現](../Page/吉夫.md "wikilink")，並命令ヘリオス的士兵將史坦和露蒂所持有的劍**「劍謢(ソーディアン)」**搶走。吉夫的士兵被兩人所擊倒後，吉夫像是感覺到什麼的離開了……然而！ドルアーガ的怪物們出來了！！雖然是ドルアーガ的最低等怪物，可是只有一人來對付數隻怪物也太吃力了！突然，大雄等人的出現替他們解救了這個危機！當他們聽了ワルキューレ的說話後，就决定再一次踏上旅途！
+所持著擁有人格的劍，**劍謢・迪姆羅斯**的人。本作的初段是被基魯加美修所喚到在幻想界的ドルアーガの塔廃墟跡，正當他和**「露蒂‧卡特雷特」**正在等侍基魯加美修時…[吉夫在斯坦爾前出現](https://zh.wikipedia.org/wiki/吉夫 "wikilink")，並命令ヘリオス的士兵將史坦和露蒂所持有的劍**「劍謢(ソーディアン)」**搶走。吉夫的士兵被兩人所擊倒後，吉夫像是感覺到什麼的離開了……然而！ドルアーガ的怪物們出來了！！雖然是ドルアーガ的最低等怪物，可是只有一人來對付數隻怪物也太吃力了！突然，大雄等人的出現替他們解救了這個危機！當他們聽了ワルキューレ的說話後，就决定再一次踏上旅途！
 
 **裘達斯**(ジューダス)
 
-登場作品：[Tales of Destiny 2](../Page/Tales_of_Destiny_2.md "wikilink")
+登場作品：[Tales of Destiny
+2](https://zh.wikipedia.org/wiki/Tales_of_Destiny_2 "wikilink")
 
 BGM：Lion-Irony of fate-
 
@@ -365,7 +370,8 @@ Namco X Capcon的年齡：16(已故)
 
 **露蒂‧卡特雷特**(ルーティ・カトレット)
 
-登場作品：[Tales of Destiny](../Page/Tales_of_Destiny.md "wikilink")
+登場作品：[Tales of
+Destiny](https://zh.wikipedia.org/wiki/Tales_of_Destiny "wikilink")
 
 BGM：無(附助角色)
 
@@ -383,7 +389,7 @@ Namco X Capcon的年齡：18
 
 **ロック・ヴォルナット**(洛克‧伍爾那德)
 
-登場作品：[ロックマンDASH](../Page/ロックマンDASH.md "wikilink")(洛克人DASH)系列
+登場作品：[ロックマンDASH](https://zh.wikipedia.org/wiki/ロックマンDASH "wikilink")(洛克人DASH)系列
 
 BGM：フラッター号 VS ゲゼルシャフト号
 
@@ -405,7 +411,7 @@ Namco X Capcon的年齡：14
 
 **飛竜**(飛竜)
 
-登場作品：[ストライダー飛竜系列](../Page/ストライダー飛竜.md "wikilink")
+登場作品：[ストライダー飛竜系列](https://zh.wikipedia.org/wiki/ストライダー飛竜 "wikilink")
 
 BGM：踏み込め！或是宿命の始末(尙未確定)
 
@@ -413,7 +419,7 @@ Namco X Capcon的聲優：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
 
 Namco X Capcon的年齡：不明
 
-武器：[電漿](../Page/電漿.md "wikilink")(等離子)光劍「サイファー」
+武器：[電漿](https://zh.wikipedia.org/wiki/電漿 "wikilink")(等離子)光劍「サイファー」
 
 登場話數：未登場
 
@@ -445,14 +451,14 @@ BGM：嵐の中で輝いて
 RPG Maker 2000的原設定主人公，本作是居住於名為**『Run time
 package界』(ランタイムパッケージ界)**的勇者。在五年前擊敗了該世界的魔王，而獲得了救世主的名號，在平和的Run
 time package界裡已一名宅男的身份居住在一個小村子裡。由於Run time
-package界是沒有世界觀之故，他家的電腦能接上物質界的[Niconico網站上](../Page/Niconico.md "wikilink")，和能購入[同人誌](../Page/同人誌.md "wikilink")、海報等宅物。在五年前擊敗魔王後，與魔王成為了好友(宿敵)。
+package界是沒有世界觀之故，他家的電腦能接上物質界的[Niconico網站上](https://zh.wikipedia.org/wiki/Niconico "wikilink")，和能購入[同人誌](../Page/同人誌.md "wikilink")、海報等宅物。在五年前擊敗魔王後，與魔王成為了好友(宿敵)。
 
 本作原是和**赫里俄斯(ヘリオス)**沒有關係的，但因為**有栖零兒**和**小牟**的拜訪而再一次的踏上旅途去魔王的城裡替零兒等人找尋回到**物質界**的方法，但因為魔王能力有限，只能轉移到「閻魔大王」之處，魔王的術過於強大的關係而連他轉移過去了。就是這樣，為了找方法回去Run
 time package界而戰
 
-**[本田](../Page/本田.md "wikilink")**(本田)
+**[本田](https://zh.wikipedia.org/wiki/本田 "wikilink")**(本田)
 
-登場作品：[のび太戦記ACE](../Page/のび太戦記ACE.md "wikilink")
+登場作品：[のび太戦記ACE](https://zh.wikipedia.org/wiki/のび太戦記ACE "wikilink")
 
 BGM：無
 
@@ -500,7 +506,7 @@ BGM：四星戰
 
 本作年齡：12 (？)
 
-武器：[小刀](../Page/小刀.md "wikilink")
+武器：[小刀](https://zh.wikipedia.org/wiki/小刀 "wikilink")
 
 登場話數：EP1 第九話，EP2 第十四話，EP3 第十六話、第二十五話
 
@@ -512,7 +518,8 @@ BGM：四星戰
 
 第二次和斯坦爾等人見面時，被胖虎等人擊倒！！被胖虎的一句話「現在的你，大概連大雄也打不蠃」令出木杉第一次露出瘋狂般的表情更說「我絕對不承認這種事啊！！！」！最後…他還食了被哆啦A夢打下去的黃金の種，令自己變得更強！
 
-**※招式的出處是參考[MELTY BLOOD的七夜志貴和遠野志貴](../Page/MELTY_BLOOD.md "wikilink")。**
+**※招式的出處是參考[MELTY
+BLOOD的七夜志貴和遠野志貴](https://zh.wikipedia.org/wiki/MELTY_BLOOD "wikilink")。**
 
 **沙夜**
 
@@ -532,7 +539,7 @@ Namco X Capcon的聲優：[折笠愛](../Page/折笠愛.md "wikilink")
 
 奧義：瞬華終刀
 
-兩年前的戰鬥的起源，原是**「逢魔」**的諜報員。可是在兩年前的戰鬥的最後，因為想完成「[九十九計畫](../Page/九十九.md "wikilink")」而利用自己的身體來連結被封在「時の狭間」的九十九上半身，令其計畫成功！因為零児和小牟在最後使出了威力強大的真羅万象令九十九和沙夜分離，最後零児在沙夜的要求下將她殺死…
+兩年前的戰鬥的起源，原是**「逢魔」**的諜報員。可是在兩年前的戰鬥的最後，因為想完成「[九十九計畫](https://zh.wikipedia.org/wiki/九十九 "wikilink")」而利用自己的身體來連結被封在「時の狭間」的九十九上半身，令其計畫成功！因為零児和小牟在最後使出了威力強大的真羅万象令九十九和沙夜分離，最後零児在沙夜的要求下將她殺死…
 
 本作裡是被[哆啦A夢的力量下再次復活](../Page/哆啦A夢.md "wikilink")，更加入了ヘリオス的精銳部隊**「四星」**，她更將「逢魔」所有的技術全也提供了給哆啦A夢。
 

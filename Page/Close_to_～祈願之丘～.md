@@ -8,7 +8,7 @@
 2平台](../Page/PlayStation_2.md "wikilink")，以《**-{zh:思念的碎片;zh-cn:思念的碎片;zh-tw:思念百分百}-
 -Close
 to-**》（）的標題發行\[2\]，主要新增劇情以及修正圖片。繁體中文版由[英特衛多媒體代理](../Page/英特衛多媒體.md "wikilink")，以[Microsoft
-Windows為平台於](../Page/Microsoft_Windows.md "wikilink")2008年10月10日發售\[3\]。简体中文版由[北京娱乐通代理](../Page/北京娱乐通.md "wikilink")，使用[Mullen游戏引擎](../Page/Mullen游戏引擎.md "wikilink")，定名《**思念的碎片：Close
+Windows為平台於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2008年10月10日發售\[3\]。简体中文版由[北京娱乐通代理](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")，使用[Mullen游戏引擎](https://zh.wikipedia.org/wiki/Mullen游戏引擎 "wikilink")，定名《**思念的碎片：Close
 to**》。
 
 ## 登場人物

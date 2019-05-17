@@ -1,7 +1,8 @@
 **TRON** （The Real-time Operating system
-Nucleus）是一个开放的[实时操作系统](../Page/实时操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。其项目于1984年由[东京大学的](../Page/东京大学.md "wikilink")[坂村健教授发起](../Page/坂村健.md "wikilink")，宗旨是“为全社会的需要创造一套理想的[计算机结构和网络](../Page/计算机结构.md "wikilink")”。\[1\]
+Nucleus）是一个开放的[实时操作系统](../Page/实时操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。其项目于1984年由[东京大学的](../Page/东京大学.md "wikilink")[坂村健教授发起](https://zh.wikipedia.org/wiki/坂村健 "wikilink")，宗旨是“为全社会的需要创造一套理想的[计算机结构和网络](https://zh.wikipedia.org/wiki/计算机结构 "wikilink")”。\[1\]
 
-截止2003年，由其衍生的 [Industrial TRON](../Page/Industrial_TRON.md "wikilink")
+截止2003年，由其衍生的 [Industrial
+TRON](https://zh.wikipedia.org/wiki/Industrial_TRON "wikilink")
 (ITRON)是全世界使用数量最多的操作系统之一，\[2\]遍布于从移动电话、[家用电器甚至到汽车的数十亿电子设备上](../Page/家用电器.md "wikilink")。虽然
 ITRON 主要是被日本公司使用，但也吸引了世界范围内的兴趣。\[3\]然而，据说优质英语文档的缺乏让它没能被更广泛地接受。\[4\]
 
@@ -17,14 +18,14 @@ TRON本身没有具体的内核源代码，而是用来创建内核的“接口�
 
 TRON框架为各种不同的计算单元定义了完整的结构。
 
-  - [ITRON](../Page/ITRON.md "wikilink") (Industrial
+  - [ITRON](https://zh.wikipedia.org/wiki/ITRON "wikilink") (Industrial
     TRON)：运用最广泛的TRON结构。为嵌入式系统设计的实时操作系统结构
-      - [JTRON](../Page/JTRON.md "wikilink") (Java
-        TRON)：支持[Java平台](../Page/Java平台.md "wikilink")
-  - [BTRON](../Page/BTRON.md "wikilink") (Business
-    TRON)：针对[个人电脑](../Page/个人电脑.md "wikilink")，[工作站](../Page/工作站.md "wikilink")，[PDA](../Page/个人数码助理.md "wikilink")，主要作为基于TRON架构的网络中的[人机界面](../Page/人机界面.md "wikilink")
+      - [JTRON](https://zh.wikipedia.org/wiki/JTRON "wikilink") (Java
+        TRON)：支持[Java平台](https://zh.wikipedia.org/wiki/Java平台 "wikilink")
+  - [BTRON](https://zh.wikipedia.org/wiki/BTRON "wikilink") (Business
+    TRON)：针对[个人电脑](../Page/个人电脑.md "wikilink")，[工作站](../Page/工作站.md "wikilink")，[PDA](../Page/个人数码助理.md "wikilink")，主要作为基于TRON架构的网络中的[人机界面](https://zh.wikipedia.org/wiki/人机界面 "wikilink")
   - CTRON (Central and Communications
-    TRON)：针对[大型机](../Page/大型机.md "wikilink")，数字交换机
+    TRON)：针对[大型机](https://zh.wikipedia.org/wiki/大型机 "wikilink")，数字交换机
   - MTRON (Macro TRON)：TRON的不同组件间的内部通信
   - STRON (Silicon TRON)：实时内核的硬件实现。\[6\]
 
@@ -40,18 +41,18 @@ TRON框架为各种不同的计算单元定义了完整的结构。
 
 ### T-Engine
 
-T-Engine论坛是一个[非营利组织](../Page/非营利组织.md "wikilink")，为ITRON，[T-Kernel和普适ID架构开发开放规范](../Page/T-Kernel.md "wikilink")。\[7\]\[8\]其现任主席是[坂村健博士](../Page/坂村健.md "wikilink")，截至2011年7月共有266名会员在其中。执委会会员包括了如富士、日立、[NTT
-DoCoMo和](../Page/NTT_DoCoMo.md "wikilink")[电装等日本巨头](../Page/电装.md "wikilink")。A级会员包括
-eSOL, [NEC](../Page/NEC.md "wikilink")
-和[雅马哈等公司](../Page/雅马哈.md "wikilink")，参与 T-Engine 和
-T-Kernel 规范，或者普适ID技术的设计与开发。B级会员包括
-[ARM](../Page/ARM.md "wikilink")，[Freescale](../Page/Freescale.md "wikilink")，[MIPS科技](../Page/美普思科技.md "wikilink")，[三菱集团](../Page/三菱集团.md "wikilink")，[博世](../Page/罗伯特·博世公司.md "wikilink")，[索尼](../Page/索尼.md "wikilink")，[东芝](../Page/东芝.md "wikilink")，[Xilinx](../Page/赛灵思.md "wikilink")，参与使用T-Engine和T-Kernel的产品的开发。参与论坛的还有赞助会员和学术会员，包括许多大学，如日本的[东京大学](../Page/东京大学.md "wikilink")，中国的[大连海事大学](../Page/大连海事大学.md "wikilink")。\[9\]\[10\]
+T-Engine论坛是一个[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")，为ITRON，[T-Kernel和普适ID架构开发开放规范](https://zh.wikipedia.org/wiki/T-Kernel "wikilink")。\[7\]\[8\]其现任主席是[坂村健博士](https://zh.wikipedia.org/wiki/坂村健 "wikilink")，截至2011年7月共有266名会员在其中。执委会会员包括了如富士、日立、[NTT
+DoCoMo和](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[电装等日本巨头](https://zh.wikipedia.org/wiki/电装 "wikilink")。A级会员包括
+eSOL, [NEC](https://zh.wikipedia.org/wiki/NEC "wikilink")
+和[雅马哈等公司](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")，参与
+T-Engine 和 T-Kernel 规范，或者普适ID技术的设计与开发。B级会员包括
+[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")，[Freescale](https://zh.wikipedia.org/wiki/Freescale "wikilink")，[MIPS科技](../Page/美普思科技.md "wikilink")，[三菱集团](../Page/三菱集团.md "wikilink")，[博世](../Page/罗伯特·博世公司.md "wikilink")，[索尼](../Page/索尼.md "wikilink")，[东芝](../Page/东芝.md "wikilink")，[Xilinx](../Page/赛灵思.md "wikilink")，参与使用T-Engine和T-Kernel的产品的开发。参与论坛的还有赞助会员和学术会员，包括许多大学，如日本的[东京大学](../Page/东京大学.md "wikilink")，中国的[大连海事大学](../Page/大连海事大学.md "wikilink")。\[9\]\[10\]
 
 ### MicroScript
 
-MicroScript是一个图表式的高级[程序语言](../Page/程序语言.md "wikilink")，由 Personal Media
-Corporation
-创造。与[苹果公司的](../Page/苹果公司.md "wikilink")[HyperTalk类似](../Page/HyperTalk.md "wikilink")。意为没有或几乎没有编程经验的终端用户准备，虽然也被专业BTRON程序员当作开发工具来在各种TRON之间移植软件，或者简单快速地为硬件设备编写驱动。MicroScript基于、并且扩展运用了TRON
+MicroScript是一个图表式的高级[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")，由
+Personal Media Corporation
+创造。与[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[HyperTalk类似](https://zh.wikipedia.org/wiki/HyperTalk "wikilink")。意为没有或几乎没有编程经验的终端用户准备，虽然也被专业BTRON程序员当作开发工具来在各种TRON之间移植软件，或者简单快速地为硬件设备编写驱动。MicroScript基于、并且扩展运用了TRON
 Basic 文本编辑器和 Basic Figure 编辑器。
 
 ## 参考

@@ -1,20 +1,21 @@
 **诺基亚 6500s**（****）是一款[诺基亚生产的](../Page/诺基亚.md "wikilink")[Series
-40平台](../Page/Series_40.md "wikilink")[手机](../Page/手机.md "wikilink")，是[诺基亚
-6500c的滑盖版本](../Page/诺基亚_6500c.md "wikilink")。
+40平台](../Page/Series_40.md "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是[诺基亚
+6500c的滑盖版本](https://zh.wikipedia.org/wiki/诺基亚_6500c "wikilink")。
 
 ## 特性
 
   - 通讯
       - 四频
-        [GSM](../Page/GSM.md "wikilink")／[GPRS](../Page/GPRS.md "wikilink")／[EDGE](../Page/EDGE.md "wikilink")：[GSM
-        850](../Page/GSM_850.md "wikilink")，[GSM
-        900](../Page/GSM_900.md "wikilink")，[GSM
-        1800](../Page/GSM_1800.md "wikilink")，[GSM
-        1900](../Page/GSM_1900.md "wikilink")
+        [GSM](../Page/GSM.md "wikilink")／[GPRS](../Page/GPRS.md "wikilink")／[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")：[GSM
+        850](https://zh.wikipedia.org/wiki/GSM_850 "wikilink")，[GSM
+        900](https://zh.wikipedia.org/wiki/GSM_900 "wikilink")，[GSM
+        1800](https://zh.wikipedia.org/wiki/GSM_1800 "wikilink")，[GSM
+        1900](https://zh.wikipedia.org/wiki/GSM_1900 "wikilink")
       - 双频
-        [UMTS](../Page/UMTS.md "wikilink")（[W-CDMA](../Page/W-CDMA.md "wikilink")）:
-        [UMTS 850](../Page/UMTS_850.md "wikilink")，[UMTS
-        2100](../Page/UMTS_2100.md "wikilink")
+        [UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")（[W-CDMA](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")）:
+        [UMTS
+        850](https://zh.wikipedia.org/wiki/UMTS_850 "wikilink")，[UMTS
+        2100](https://zh.wikipedia.org/wiki/UMTS_2100 "wikilink")
 
 <!-- end list -->
 

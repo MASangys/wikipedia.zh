@@ -1,8 +1,8 @@
-《**ID精英**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以紀律部隊作為題材而拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](../Page/劇集.md "wikilink")，全劇共29集，由[郭晉安及](../Page/郭晉安.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，並由[鄧健泓](../Page/鄧健泓.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[姜大偉及](../Page/姜大偉.md "wikilink")[梁靖琪聯合主演](../Page/梁靖琪.md "wikilink")，監製为[羅永賢](../Page/羅永賢.md "wikilink")。
+《**ID精英**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司以紀律部隊作為題材而拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共29集，由[郭晉安及](../Page/郭晉安.md "wikilink")[蒙嘉慧領銜主演](../Page/蒙嘉慧.md "wikilink")，並由[鄧健泓](../Page/鄧健泓.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[姜大偉及](https://zh.wikipedia.org/wiki/姜大偉 "wikilink")[梁靖琪聯合主演](../Page/梁靖琪.md "wikilink")，監製为[羅永賢](../Page/羅永賢.md "wikilink")。
 
 ## 劇情
 
-[入境处专责管制边防治安及验证出入境人士身份](../Page/入境处.md "wikilink")，确保[香港境内安全](../Page/香港.md "wikilink")；身为入境处的纪律人员对身份辨识的敏锐度因而比任何人为高，但单凭一张证件或一纸文件，是否就可百分百道尽事情的真伪呢？方浚杰（[郭晋安](../Page/郭晋安.md "wikilink")）因投考入境处而认识同期学员郑柏宇（[曹永廉](../Page/曹永廉.md "wikilink")）及叶安琪（[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")），三人遂成好友。野心较大的柏宇后转投警队并跃升为重案组高级督察，当调查一命案时，发现黑社会新贵胡杰琛（[黄德斌](../Page/黄德斌.md "wikilink")）因浚杰之妻而杀人，令浚杰生活出现突变。刚与柏宇分手的安琪为帮助好友，主动为浚杰照顾儿子，经常陪伴左右，令二人处于一种非情侣却亲密的微妙关系。另方面，甚欣赏浚杰办事能力的欧顺风（[邓健泓](../Page/邓健泓.md "wikilink")），希望带浚杰走出阴霾，向主管麦启铭（姜大伟）力荐他加入调查组，令倍受关怀的浚杰重新振作，力争上游，顺利加入调查组。不久浚杰便着手彻查一个假证集团，期间竟再度遇上失纵多时的妻子并发现其非比寻常的真正身份……
+[入境处专责管制边防治安及验证出入境人士身份](https://zh.wikipedia.org/wiki/入境处 "wikilink")，确保[香港境内安全](../Page/香港.md "wikilink")；身为入境处的纪律人员对身份辨识的敏锐度因而比任何人为高，但单凭一张证件或一纸文件，是否就可百分百道尽事情的真伪呢？方浚杰（[郭晋安](https://zh.wikipedia.org/wiki/郭晋安 "wikilink")）因投考入境处而认识同期学员郑柏宇（[曹永廉](../Page/曹永廉.md "wikilink")）及叶安琪（[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")），三人遂成好友。野心较大的柏宇后转投警队并跃升为重案组高级督察，当调查一命案时，发现黑社会新贵胡杰琛（[黄德斌](https://zh.wikipedia.org/wiki/黄德斌 "wikilink")）因浚杰之妻而杀人，令浚杰生活出现突变。刚与柏宇分手的安琪为帮助好友，主动为浚杰照顾儿子，经常陪伴左右，令二人处于一种非情侣却亲密的微妙关系。另方面，甚欣赏浚杰办事能力的欧顺风（[邓健泓](https://zh.wikipedia.org/wiki/邓健泓 "wikilink")），希望带浚杰走出阴霾，向主管麦启铭（姜大伟）力荐他加入调查组，令倍受关怀的浚杰重新振作，力争上游，顺利加入调查组。不久浚杰便着手彻查一个假证集团，期间竟再度遇上失纵多时的妻子并发现其非比寻常的真正身份……
 
 ## 演員表
 
@@ -16,14 +16,14 @@
 <td><p><strong>關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/姜大偉.md" title="wikilink">姜大偉</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/姜大偉" title="wikilink">姜大偉</a></strong></p></td>
 <td><p><strong>麥啟銘</strong></p></td>
 <td><p><strong>麥Sir、銘叔</strong><br />
 總入境事務主任（調查組）<br />
-參見<strong><a href="../Page/#麥家.md" title="wikilink">麥家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#麥家" title="wikilink">麥家</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李鴻傑.md" title="wikilink">李鴻傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李鴻傑" title="wikilink">李鴻傑</a></p></td>
 <td><p>沈少強</p></td>
 <td><p>總入境事務主任</p></td>
 </tr>
@@ -88,8 +88,8 @@ B隊主管<br />
 <td><p>總入境事務助理<br />
 「IM95」成員之一<br />
 第15集調往調查組（A隊）<br />
-參見<strong><a href="../Page/#入境事務處（調查組A／B隊）.md" title="wikilink">入境事務處（調查組A／B隊）</a></strong><br />
-參見<strong><a href="../Page/#鍾家.md" title="wikilink">鍾家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#入境事務處（調查組A／B隊）" title="wikilink">入境事務處（調查組A／B隊）</a></strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink">鍾家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李鴻杰.md" title="wikilink">李鴻-{杰}-</a></p></td>
@@ -122,15 +122,15 @@ B隊主管<br />
 高級入境事務助理<br />
 沙田政府合署高級入境事務助理（<a href="../Page/大圍.md" title="wikilink">大圍分局</a>）<br />
 第15集調任入境事務處檢控組<br />
-參見<strong><a href="../Page/#沙田政府合署.md" title="wikilink">沙田政府合署</a></strong><br />
-參見<strong><a href="../Page/#葉家.md" title="wikilink">葉家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#沙田政府合署" title="wikilink">沙田政府合署</a></strong><br />
+參見<strong><a href="https://zh.wikipedia.org/wiki/#葉家" title="wikilink">葉家</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
 <td><p><strong>葉安兒</strong></p></td>
 <td><p><strong>阿兒</strong><br />
 高級入境事務助理<br />
-參見<strong><a href="../Page/#葉家.md" title="wikilink">葉家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#葉家" title="wikilink">葉家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳國邦.md" title="wikilink">陳國邦</a></strong></p></td>
@@ -148,7 +148,7 @@ B隊主管<br />
 <td><p><strong>鍾志欣</strong></p></td>
 <td><p><strong>阿Yan</strong><br />
 高級入境事務助理<br />
-參見<strong><a href="../Page/#鍾家.md" title="wikilink">鍾家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink">鍾家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李天翔.md" title="wikilink">李天翔</a></p></td>
@@ -174,7 +174,7 @@ B隊主管<br />
 方浚杰之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>梁冠豪</p></td>
 <td><p><strong>John</strong><br />
 高級入境事務助理</p></td>
@@ -185,13 +185,13 @@ B隊主管<br />
 <td><p>高級入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳文靜.md" title="wikilink">陳文靜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳文靜" title="wikilink">陳文靜</a></p></td>
 <td><p>蘇芷菁</p></td>
 <td><p>入境事務助理<br />
 方浚杰之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李善恆.md" title="wikilink">李善恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李善恆" title="wikilink">李善恆</a></p></td>
 <td></td>
 <td><p>入境事務助理</p></td>
 </tr>
@@ -206,7 +206,7 @@ B隊主管<br />
 <td><p>入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/歐梓浩.md" title="wikilink">歐梓浩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐梓浩" title="wikilink">歐梓浩</a></p></td>
 <td></td>
 <td><p>入境事務助理</p></td>
 </tr>
@@ -216,12 +216,12 @@ B隊主管<br />
 <td><p>入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/侯建民.md" title="wikilink">侯建民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侯建民" title="wikilink">侯建民</a></p></td>
 <td></td>
 <td><p>入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>郭炳佑</p></td>
 <td><p><strong>Steve</strong><br />
 入境事務助理</p></td>
@@ -233,31 +233,31 @@ B隊主管<br />
 入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/顏桂洲.md" title="wikilink">顏桂洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏桂洲" title="wikilink">顏桂洲</a></p></td>
 <td><p>羅志強</p></td>
 <td><p><strong>C.K</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳蔚而.md" title="wikilink">陳蔚而</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳蔚而" title="wikilink">陳蔚而</a></p></td>
 <td><p>鄧玉英</p></td>
 <td><p><strong>Ellen</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何婷恩.md" title="wikilink">何婷恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何婷恩" title="wikilink">何婷恩</a></p></td>
 <td><p>賀丘柔</p></td>
 <td><p><strong>Y.Y.</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王基信.md" title="wikilink">王基信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王基信" title="wikilink">王基信</a></p></td>
 <td><p>孟景龍</p></td>
 <td><p><strong>Tony</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td><p>譚會東</p></td>
 <td><p><strong>Paul</strong><br />
 入境事務助理</p></td>
@@ -269,13 +269,13 @@ B隊主管<br />
 入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾建文.md" title="wikilink">鍾建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾建文" title="wikilink">鍾建文</a></p></td>
 <td><p>姜道海</p></td>
 <td><p><strong>Jim</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江暉_(演員).md" title="wikilink">江　暉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江暉_(演員)" title="wikilink">江　暉</a></p></td>
 <td><p>何繼昌</p></td>
 <td><p><strong>Michael</strong><br />
 入境事務助理</p></td>
@@ -295,14 +295,14 @@ B隊主管<br />
 麥啟銘、韓永年之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>胡須發</p></td>
 <td><p><strong>Man</strong><br />
 入境事務處職員（B隊）<br />
 麥啟銘、程佩嘉之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/胡麒豐.md" title="wikilink">胡麒豐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/胡麒豐" title="wikilink">胡麒豐</a></p></td>
 <td><p>張兆有</p></td>
 <td><p><strong>David</strong><br />
 入境事務處職員（B隊）<br />
@@ -316,14 +316,14 @@ B隊主管<br />
 麥啟銘、程佩嘉之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳蔚而.md" title="wikilink">陳蔚而</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳蔚而" title="wikilink">陳蔚而</a></p></td>
 <td><p>鄧玉英</p></td>
 <td><p><strong>Ellen</strong><br />
 入境事務處職員（B隊）<br />
 麥啟銘、程佩嘉之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊鴻俊.md" title="wikilink">楊鴻俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊鴻俊" title="wikilink">楊鴻俊</a></p></td>
 <td><p>周正岳</p></td>
 <td><p><strong>Dick</strong><br />
 入境事務處職員（B隊）<br />
@@ -354,7 +354,7 @@ B隊主管<br />
 總入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/柯嵐.md" title="wikilink">柯　嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
 <td><p>Bill</p></td>
 <td><p>高級入境事務主任<br />
 入境事務處檢控官</p></td>
@@ -376,12 +376,12 @@ B隊主管<br />
 <td><p>高級入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td></td>
 <td><p>高級入境事務助理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李善恆.md" title="wikilink">李善恆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李善恆" title="wikilink">李善恆</a></p></td>
 <td></td>
 <td><p>高級入境事務助理</p></td>
 </tr>
@@ -391,13 +391,13 @@ B隊主管<br />
 <td><p>入境事務主任</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>廖可秀</p></td>
 <td><p><strong>Jenny</strong><br />
 入境事務助理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林卓峰.md" title="wikilink">林卓峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林卓峰" title="wikilink">林卓峰</a></p></td>
 <td></td>
 <td><p>入境事務助理</p></td>
 </tr>
@@ -444,7 +444,7 @@ Vincy之男友<br />
 <td><p><strong>鍾志榮</strong></p></td>
 <td><p>CID警長<br />
 鄭柏宇之下屬<br />
-參見<strong><a href="../Page/#鍾家.md" title="wikilink">鍾家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink">鍾家</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張漢斌.md" title="wikilink">張漢斌</a></p></td>
@@ -453,13 +453,13 @@ Vincy之男友<br />
 鄭柏宇之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>郭向勁</p></td>
 <td><p>西九龍重案組探員<br />
 鄭柏宇之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林影紅.md" title="wikilink">林影紅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林影紅" title="wikilink">林影紅</a></p></td>
 <td><p>伍寶靜</p></td>
 <td><p><strong>Suki</strong><br />
 西九龍重案組探員<br />
@@ -472,7 +472,7 @@ Vincy之男友<br />
 鄭柏宇之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃樂兒.md" title="wikilink">黃樂兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃樂兒" title="wikilink">黃樂兒</a></p></td>
 <td><p>任珊瑚</p></td>
 <td><p>西九龍重案組探員<br />
 鄭柏宇之下屬</p></td>
@@ -488,7 +488,7 @@ Vincy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王德基.md" title="wikilink">王德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王德基" title="wikilink">王德基</a></p></td>
 <td><p>孟景龍</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -508,7 +508,7 @@ Vincy之男友<br />
 <td><p>警員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/傅劍虹.md" title="wikilink">傅劍虹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅劍虹" title="wikilink">傅劍虹</a></p></td>
 <td></td>
 <td><p>警員</p></td>
 </tr>
@@ -517,13 +517,13 @@ Vincy之男友<br />
 
 ### 廉政公署
 
-|                                  |        |            |
-| -------------------------------- | ------ | ---------- |
-| **演員**                           | **角色** | **關係**     |
-| [蘇敏聰](../Page/蘇敏聰.md "wikilink") | TK孔    | 廉政公署高級調查主任 |
-| [陳佩思](../Page/陳佩思.md "wikilink") |        | 廉政公署調查助理   |
-| [許明志](../Page/許明志.md "wikilink") |        | 廉政公署調查助理   |
-| [盧永匡](../Page/盧永匡.md "wikilink") |        | 廉政公署調查助理   |
+|                                                     |        |            |
+| --------------------------------------------------- | ------ | ---------- |
+| **演員**                                              | **角色** | **關係**     |
+| [蘇敏聰](https://zh.wikipedia.org/wiki/蘇敏聰 "wikilink") | TK孔    | 廉政公署高級調查主任 |
+| [陳佩思](../Page/陳佩思.md "wikilink")                    |        | 廉政公署調查助理   |
+| [許明志](https://zh.wikipedia.org/wiki/許明志 "wikilink") |        | 廉政公署調查助理   |
+| [盧永匡](https://zh.wikipedia.org/wiki/盧永匡 "wikilink") |        | 廉政公署調查助理   |
 
 ### 葉家
 
@@ -550,7 +550,7 @@ Vincy之男友<br />
 方浚杰之女友</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/唐詩詠.md" title="wikilink">唐詩詠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a></strong></p></td>
 <td><p><strong>葉安兒</strong></p></td>
 <td><p>葉安琪之妹<br />
 葉詩詩之母<br />
@@ -560,7 +560,7 @@ Vincy之男友<br />
 麥子軒之女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王若嵐.md" title="wikilink">王若嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王若嵐" title="wikilink">王若嵐</a></p></td>
 <td><p>葉詩詩</p></td>
 <td><p>葉安兒之女</p></td>
 </tr>
@@ -651,7 +651,7 @@ Vincy之男友<br />
 钟国诚之亲家</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李楓.md" title="wikilink">李　楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李楓" title="wikilink">李　楓</a></p></td>
 <td><p>趙　太</p></td>
 <td><p>趙麗文之母<br />
 钟国诚之亲家</p></td>
@@ -669,7 +669,7 @@ Vincy之男友<br />
 <td><p><strong>關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/姜大偉.md" title="wikilink">姜大偉</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/姜大偉" title="wikilink">姜大偉</a></strong></p></td>
 <td><p><strong>麥啟銘</strong></p></td>
 <td><p>总入境事务主任(调查组)<br />
 汪明慧之夫<br />
@@ -695,7 +695,7 @@ Vincy之男友<br />
 曾誤會韓素貞與其夫有染</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/陳展鵬.md" title="wikilink">陳展鵬</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a></strong></p></td>
 <td><p><strong>麥子軒</strong></p></td>
 <td><p><strong>Kelvin</strong><br />
 麥啟銘、汪明慧之子<br />
@@ -750,7 +750,7 @@ Vincy之男友<br />
 <tr class="odd">
 <td><p><strong><a href="../Page/林漪娸.md" title="wikilink">林漪娸</a></strong></p></td>
 <td><p><strong>汪明慧</strong></p></td>
-<td><p><strong>參見<a href="../Page/#麥家.md" title="wikilink">麥家</a></strong></p></td>
+<td><p><strong>參見<a href="https://zh.wikipedia.org/wiki/#麥家" title="wikilink">麥家</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡康年.md" title="wikilink">蔡康年</a></p></td>
@@ -764,7 +764,7 @@ Vincy之男友<br />
 「汪李何」律師事務所律師</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄭嘉雯.md" title="wikilink">鄭嘉雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭嘉雯" title="wikilink">鄭嘉雯</a></p></td>
 <td><p>真</p></td>
 <td><p>汪生之媳妇<br />
 汪明照之妻<br />
@@ -866,14 +866,14 @@ Vincy之男友<br />
 <td><p>胡傑琛之代表律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃子衡.md" title="wikilink">黃子衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子衡" title="wikilink">黃子衡</a></p></td>
 <td><p>德</p></td>
 <td><p><strong>德哥</strong><br />
 胡傑琛之手下<br />
 於第30集被警方槍傷</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td></td>
 <td><p>麥子軒之朋友<br />
 「Super Club」股東</p></td>
@@ -891,36 +891,36 @@ Vincy之男友<br />
 於第30集被警方槍傷</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙國東.md" title="wikilink">趙國東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙國東" title="wikilink">趙國東</a></p></td>
 <td><p>昇</p></td>
 <td><p>胡傑琛之手下<br />
 於第30集被警方槍傷</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張國洪.md" title="wikilink">張國洪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國洪" title="wikilink">張國洪</a></p></td>
 <td><p>洪</p></td>
 <td><p>叔父東之手下<br />
 於第22集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙敏通.md" title="wikilink">趙敏通</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙敏通" title="wikilink">趙敏通</a></p></td>
 <td><p>Ben</p></td>
 <td><p>麥子軒之朋友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蔡考藍.md" title="wikilink">蔡考藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡考藍" title="wikilink">蔡考藍</a></p></td>
 <td><p>Susan</p></td>
 <td><p>花店店員<br />
 胡傑琛、黃子德之下屬<br />
 張思敏之友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張國強.md" title="wikilink">張國強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張國強" title="wikilink">張國強</a></p></td>
 <td></td>
 <td><p>翻爺之手下</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄒永標.md" title="wikilink">鄒永標</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄒永標" title="wikilink">鄒永標</a></p></td>
 <td></td>
 <td><p>翻爺之手下</p></td>
 </tr>
@@ -952,7 +952,7 @@ Vincy之男友<br />
 於第5集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/湯展維.md" title="wikilink">湯展維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯展維" title="wikilink">湯展維</a></p></td>
 <td><p>陳　南</p></td>
 <td><p>帶三個內地模特兒入港<br />
 於第5集被捕</p></td>
@@ -964,7 +964,7 @@ Vincy之男友<br />
 於第5集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭嫻.md" title="wikilink">彭　嫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭嫻" title="wikilink">彭　嫻</a></p></td>
 <td><p>Rosabell</p></td>
 <td></td>
 </tr>
@@ -991,7 +991,7 @@ Vincy之男友<br />
 <td><p>假證件集團成員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>農大軍</p></td>
 <td></td>
 </tr>
@@ -1004,14 +1004,14 @@ Vincy之男友<br />
 第14集身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃俊伸.md" title="wikilink">黃俊伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃俊伸" title="wikilink">黃俊伸</a></p></td>
 <td></td>
 <td><p>假證件工人</p></td>
 </tr>
 </tbody>
 </table>
 
-#### 偷運[人蛇集團](../Page/人蛇.md "wikilink")
+#### 偷運[人蛇集團](https://zh.wikipedia.org/wiki/人蛇 "wikilink")
 
 <table>
 <tbody>
@@ -1063,12 +1063,12 @@ Vincy之男友<br />
 李小紅之夫</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝兆韻.md" title="wikilink">謝兆韻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝兆韻" title="wikilink">謝兆韻</a></p></td>
 <td><p>李小紅</p></td>
 <td><p>盧啟生之妻</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃鳳瓊.md" title="wikilink">黃鳳瓊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鳳瓊" title="wikilink">黃鳳瓊</a></p></td>
 <td><p>徐二娣</p></td>
 <td><p><strong>娣姐</strong><br />
 「誠記」員工<br />
@@ -1092,7 +1092,7 @@ Vincy之男友<br />
 <td><p><strong>Mary</strong><br />
 前入境事務處助理<br />
 韓永年之妹<br />
-<a href="../Page/精神病.md" title="wikilink">精神病患者</a><br />
+<a href="https://zh.wikipedia.org/wiki/精神病" title="wikilink">精神病患者</a><br />
 喜歡麥啟銘<br />
 汪明慧之情敵兼死敵<br />
 第22集挾持汪明慧要求麥啟銘重頭開始失敗，後被送到澳門接受治療</p></td>
@@ -1110,18 +1110,18 @@ Vincy之男友<br />
 鄭柏宇女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>阿　強</p></td>
 <td><p>前「誠記」員工<br />
 鍾志欣之父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>井艷妮</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁振輝.md" title="wikilink">梁振輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁振輝" title="wikilink">梁振輝</a></p></td>
 <td><p>謝立信</p></td>
 <td></td>
 </tr>
@@ -1131,12 +1131,12 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>威</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>曾　靳</p></td>
 <td></td>
 </tr>
@@ -1157,23 +1157,23 @@ Vincy之男友<br />
 <td><p>上志推廣中心負責人（第3集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/曾瑞珊.md" title="wikilink">曾瑞珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾瑞珊" title="wikilink">曾瑞珊</a></p></td>
 <td><p>-</p></td>
 <td><p>法醫<br />
 李有根墬海案（第7集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張笑千.md" title="wikilink">張笑千</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張笑千" title="wikilink">張笑千</a></p></td>
 <td><p>-</p></td>
 <td><p>船員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td><p>道　友</p></td>
 <td><p>第8集收胡傑琛錢後認罪（馬志樓失足墜樓案）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/龔茜彤.md" title="wikilink">龔茜彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/龔茜彤" title="wikilink">龔茜彤</a></p></td>
 <td><p>晶</p></td>
 <td><p>葉安兒同學</p></td>
 </tr>
@@ -1188,7 +1188,7 @@ Vincy之男友<br />
 <td><p>汪明慧旅法所認識之攝影師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅芷晴.md" title="wikilink">羅芷晴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅芷晴" title="wikilink">羅芷晴</a></p></td>
 <td><p>林雪兒</p></td>
 <td><p><strong>雪兒</strong><br />
 香港居民<br />
@@ -1225,7 +1225,7 @@ Vincy之男友<br />
 <td><p>醫生</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1240,17 +1240,17 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曾婉莎.md" title="wikilink">曾婉莎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾婉莎" title="wikilink">曾婉莎</a></p></td>
 <td></td>
 <td><p>社署職員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃卓慧.md" title="wikilink">黃卓慧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃卓慧" title="wikilink">黃卓慧</a></p></td>
 <td></td>
 <td><p>記者</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁珈詠.md" title="wikilink">梁珈詠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁珈詠" title="wikilink">梁珈詠</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1270,7 +1270,7 @@ Vincy之男友<br />
 <td><p>被拒絕入境者（第15集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳莉敏.md" title="wikilink">陳莉敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳莉敏" title="wikilink">陳莉敏</a></p></td>
 <td></td>
 <td><p>孕婦（第1集）</p></td>
 </tr>
@@ -1280,7 +1280,7 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
 <td><p>陳淑衍</p></td>
 <td></td>
 </tr>
@@ -1295,22 +1295,22 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡曜力.md" title="wikilink">蔡曜力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡曜力" title="wikilink">蔡曜力</a></p></td>
 <td></td>
 <td><p>歐順水男友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何潔宜.md" title="wikilink">何潔宜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何潔宜" title="wikilink">何潔宜</a></p></td>
 <td><p>Lisa</p></td>
 <td><p>葉安兒所請之菲傭</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/裘卓能.md" title="wikilink">裘卓能</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裘卓能" title="wikilink">裘卓能</a></p></td>
 <td><p>王　良</p></td>
 <td><p>圍村黑工</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td><p>向　洋</p></td>
 <td></td>
 </tr>
@@ -1325,12 +1325,12 @@ Vincy之男友<br />
 <td><p>Eddy</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周沂.md" title="wikilink">周　沂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周沂" title="wikilink">周　沂</a></p></td>
 <td><p>老闆娘</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳苑蔚.md" title="wikilink">陳苑蔚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳苑蔚" title="wikilink">陳苑蔚</a></p></td>
 <td></td>
 <td><p>路人（第6集）</p></td>
 </tr>
@@ -1345,17 +1345,17 @@ Vincy之男友<br />
 <td><p>梁智倫債主（第25集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡考藍.md" title="wikilink">蔡考藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡考藍" title="wikilink">蔡考藍</a></p></td>
 <td><p>Susan</p></td>
 <td><p>花店店員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td></td>
 <td><p>律師</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄒永標.md" title="wikilink">鄒永標</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄒永標" title="wikilink">鄒永標</a></p></td>
 <td></td>
 <td><p>古惑仔</p></td>
 </tr>
@@ -1370,18 +1370,18 @@ Vincy之男友<br />
 
 ## 收視
 
-以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/無綫電視.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
+以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
 
-|        |        |                       |                                  |                                  |         |
-| ------ | ------ | --------------------- | -------------------------------- | -------------------------------- | ------- |
-| **週次** | **集數** | **日期**                | **平均收視**                         | **最高收視**                         | **百分比** |
-| 1      | 01—04  | 2009年6月1日—6月4日        | 28[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") | 91%     |
-| 2      | 05—09  | 2009年6月8日—6月12日       | 28[點](../Page/收視點.md "wikilink") | 30[點](../Page/收視點.md "wikilink") | 91%     |
-| 3      | 10—14  | 2009年6月15日—6月19日      | 29[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") | 91%     |
-| 4      | 15—19  | 2009年6月22日—6月26日      | 31[點](../Page/收視點.md "wikilink") |                                  | 91%     |
-| 5      | 20—24  | 2009年6月29日—7月3日       | 32[點](../Page/收視點.md "wikilink") | 34[點](../Page/收視點.md "wikilink") | 93%     |
-| 5      | 25—26  | 2009年7月4日             | 29[點](../Page/收視點.md "wikilink") |                                  | 90%     |
-| 5      | 27     | 2009年7月5日（1.5小時版本大結局） | 38[點](../Page/收視點.md "wikilink") | 41[點](../Page/收視點.md "wikilink") | 88%     |
+|        |        |                       |                                                     |                                                     |         |
+| ------ | ------ | --------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- |
+| **週次** | **集數** | **日期**                | **平均收視**                                            | **最高收視**                                            | **百分比** |
+| 1      | 01—04  | 2009年6月1日—6月4日        | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 2      | 05—09  | 2009年6月8日—6月12日       | 28[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 30[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 3      | 10—14  | 2009年6月15日—6月19日      | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 4      | 15—19  | 2009年6月22日—6月26日      | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     | 91%     |
+| 5      | 20—24  | 2009年6月29日—7月3日       | 32[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 93%     |
+| 5      | 25—26  | 2009年7月4日             | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") |                                                     | 90%     |
+| 5      | 27     | 2009年7月5日（1.5小時版本大結局） | 38[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 41[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 88%     |
 
 ## \-{注}-釋
 
@@ -1408,7 +1408,7 @@ colspan="3"|[老婆大人II](../Page/老婆大人II.md "wikilink")
 6月8日- |- |align="center" colspan="2"|**上一套：**
 [巾幗梟雄](../Page/巾幗梟雄.md "wikilink")
 \-5月29日 |align="center"
-colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2009](../Page/翡翠台電視劇集列表_\(2009年\)#第三線劇集.md "wikilink")）**
+colspan="3"|**翡翠台/高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
 **ID精英**
 6月1日-7月5日 |align="center" colspan="1"|**下一套：**
 [烈火雄心3](../Page/烈火雄心3.md "wikilink")

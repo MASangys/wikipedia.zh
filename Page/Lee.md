@@ -1,5 +1,5 @@
-**Lee**是一個[牛仔褲的品牌](../Page/牛仔褲.md "wikilink")，1889年成立於[美國](../Page/美國.md "wikilink")[肯薩斯州的](../Page/肯薩斯州.md "wikilink")[沙里納](../Page/沙里納.md "wikilink")，目前總部設於[堪薩斯城](../Page/堪薩斯城_\(堪薩斯州\).md "wikilink")，由[VF
-Corporation經營](../Page/VF_Corporation.md "wikilink")。
+**Lee**是一個[牛仔褲的品牌](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")，1889年成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[肯薩斯州的](https://zh.wikipedia.org/wiki/肯薩斯州 "wikilink")[沙里納](https://zh.wikipedia.org/wiki/沙里納 "wikilink")，目前總部設於[堪薩斯城](../Page/堪薩斯城_\(堪薩斯州\).md "wikilink")，由[VF
+Corporation經營](https://zh.wikipedia.org/wiki/VF_Corporation "wikilink")。
 
 ## 歷史
 

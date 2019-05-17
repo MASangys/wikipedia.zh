@@ -1,28 +1,28 @@
-**RubberBand**是一支[香港樂隊](../Page/香港.md "wikilink")，於2004年成立。2007年與唱片公司[金牌大風簽約](../Page/金牌大風.md "wikilink")，2013年2月轉投[寰亞唱片](../Page/寰亞唱片.md "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。
+**RubberBand**是一支[香港樂隊](../Page/香港.md "wikilink")，於2004年成立。2007年與唱片公司[金牌大風簽約](../Page/金牌大風.md "wikilink")，2013年2月轉投[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")\[1\]\[2\]，2016年正式成為獨立樂隊。
 
 ## 簡介
 
 [USCA2012_RubberBand.JPG](https://zh.wikipedia.org/wiki/File:USCA2012_RubberBand.JPG "fig:USCA2012_RubberBand.JPG")
 樂隊成立前，五位成員都在不同的獨立樂隊玩音樂\[3\]
-。主音6號（繆浩昌）在2002年畢業於[香港中文大學](../Page/香港中文大學.md "wikilink")[新聞及傳播學系後](../Page/新聞.md "wikilink")，加入了[香港電台電視部當助導](../Page/香港電台.md "wikilink")\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](../Page/物理及材料科學系.md "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院
+。主音6號（繆浩昌）在2002年畢業於[香港中文大學](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")[新聞及傳播學系後](https://zh.wikipedia.org/wiki/新聞 "wikilink")，加入了[香港電台電視部當助導](../Page/香港電台.md "wikilink")\[4\]，直至2003年五位成員相遇後，於2004年RubberBand正式成立。而另兩位成員泥鯭（黎萬宏），樂隊鼓手畢業於[香港城市大學](../Page/香港城市大學.md "wikilink")[物理及材料科學系碩士](https://zh.wikipedia.org/wiki/物理及材料科學系 "wikilink")，結他手阿正畢業於美國波士頓的伯克利音樂學院
 (Berklee College of Music)主修電影配樂。
 
-2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德賞識](../Page/雷頌德.md "wikilink")，簽進[金牌娛樂](../Page/金牌娛樂.md "wikilink")\[5\]
+2007年，他們拿著自己的作品，尋找唱片公司為他們出唱片。最終得到[雷頌德賞識](../Page/雷頌德.md "wikilink")，簽進[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")\[5\]
 （現稱金牌大風娛樂有限公司）。RubberBand在組團時已定下一個傳統：除了精選碟及EP外，悉數以字母順序來命名唱片。
 
 2008年9月26日，RubberBand推出首張唱片《Apollo
-18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](../Page/2008年度叱吒樂壇流行榜頒獎典禮.md "wikilink")[叱吒樂壇生力軍組合金獎](../Page/2008年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](../Page/林海峰.md "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
+18》，收錄《一早地下鐵》、《遊車河》、《小涼伴》及《Tears》等歌曲。RubberBand於[2008年度叱吒樂壇流行榜頒獎典禮獲得](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮 "wikilink")[叱吒樂壇生力軍組合金獎](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")。同時於頒獎禮上由商台DJ[林海峰擔任該獎項的頒獎嘉賓](https://zh.wikipedia.org/wiki/林海峰 "wikilink")，因為成員泥鯭的模樣與林海峰猶如孖生兄弟。之後兩人出現在EPS廣告，以及RubberBand與林海峰合作歌曲《夾硬泥》。
 
 2009年7月24日，RubberBand推出第二張專輯《Beaming》，收錄歌曲有《天台飛人》、《阿波羅》、《夏令時間》、《夾硬泥》及《衝》等。11月23日，RubberBand在[九龍灣國際展貿中心舉行了他們首個演唱會](../Page/九龍灣國際展貿中心.md "wikilink")－《[RubberBand
-Concert\#1](../Page/RubberBand_Concert#1.md "wikilink")》。RubberBand於2009年樂壇頒獎禮中奪得多個大獎，包括「新城勁爆樂隊」和「叱吒樂壇組合金獎」，他們為人所知的作品《阿波羅》及《發現號》等均成為大熱歌曲。
+Concert\#1](https://zh.wikipedia.org/wiki/RubberBand_Concert#1 "wikilink")》。RubberBand於2009年樂壇頒獎禮中奪得多個大獎，包括「新城勁爆樂隊」和「叱吒樂壇組合金獎」，他們為人所知的作品《阿波羅》及《發現號》等均成為大熱歌曲。
 
-2010年6月，[南非世界杯前夕](../Page/南非世界杯.md "wikilink")，RubberBand推出單曲《細街盃》，歌曲是為了非洲居港移民而寫的\[6\]。
+2010年6月，[南非世界杯前夕](https://zh.wikipedia.org/wiki/南非世界杯 "wikilink")，RubberBand推出單曲《細街盃》，歌曲是為了非洲居港移民而寫的\[6\]。
 
-2010年10月14日，RubberBand於旺角朗豪坊宣傳新碟《Connected》時，表示鍵琴手[藝琛由於壓力及健康問題](../Page/藝琛.md "wikilink")，已退出RubberBand，但同時強調並不存在意見分歧、不和等問題\[7\]。2010年叱咤頒獎禮憑《SimpleLoveSong》榮獲至尊歌曲大獎。
+2010年10月14日，RubberBand於旺角朗豪坊宣傳新碟《Connected》時，表示鍵琴手[藝琛由於壓力及健康問題](https://zh.wikipedia.org/wiki/藝琛 "wikilink")，已退出RubberBand，但同時強調並不存在意見分歧、不和等問題\[7\]。2010年叱咤頒獎禮憑《SimpleLoveSong》榮獲至尊歌曲大獎。
 
-2013年2月，RubberBand加盟[寰亞唱片](../Page/寰亞唱片.md "wikilink")，並簽下經理人合約\[8\]。
+2013年2月，RubberBand加盟[寰亞唱片](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，並簽下經理人合約\[8\]。
 
-2014年[艺琛没有归队](../Page/艺琛.md "wikilink")，转投paco太阳娱乐。同年RubberBand於叱咤樂壇流行榜頒獎典禮中，奪得我最喜愛的歌曲獎，成為唯一達成「叱咤大滿貫」的組合，亦是史上最快達成大滿貫的歌手組合(至尊歌曲大獎2010、至尊唱片大獎2012、我最喜愛的組合獎2010、我最喜愛的歌曲獎2014及組合金奬2009)。
+2014年[艺琛没有归队](https://zh.wikipedia.org/wiki/艺琛 "wikilink")，转投paco太阳娱乐。同年RubberBand於叱咤樂壇流行榜頒獎典禮中，奪得我最喜愛的歌曲獎，成為唯一達成「叱咤大滿貫」的組合，亦是史上最快達成大滿貫的歌手組合(至尊歌曲大獎2010、至尊唱片大獎2012、我最喜愛的組合獎2010、我最喜愛的歌曲獎2014及組合金奬2009)。
 
 2016年RubberBand正式成為獨立樂隊，並於12月13-15日在香港旺角麥花臣場館舉行首個獨立後的演唱會《呢度》。
 
@@ -30,24 +30,25 @@ Concert\#1](../Page/RubberBand_Concert#1.md "wikilink")》。RubberBand於2009�
 RUBBERBAND HOURS
 演唱會。而歌曲《未來見》更大獲好評，成為不少樂評人的年度歌曲，更令RubberBand首次入圍叱咤樂壇我最喜愛的歌曲最後五強，而歌曲《未來見》亦成為至尊歌曲大獎的得獎大熱，可惜𨦫殺而歸，只獲叱咤十大第三位。而當晚亦獲得叱咤樂壇組合金獎，追平[Beyond的紀錄](../Page/Beyond.md "wikilink")。
 
-在同年，RubberBand為電影《[逆流大叔](../Page/逆流大叔.md "wikilink")》配樂並獻唱主題曲《逆流之歌》，令RubberBand榮獲[第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink")「最佳原創電影音樂」以及「最佳原創電影歌曲」。
+在同年，RubberBand為電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》配樂並獻唱主題曲《逆流之歌》，令RubberBand榮獲[第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink")「最佳原創電影音樂」以及「最佳原創電影歌曲」。
 
 ## 名稱
 
-RubberBand名字來自「[橡筋](../Page/橡筋.md "wikilink")」，取其可以將物件[連結起來](../Page/連結.md "wikilink")，同時具高度[彈性之意](../Page/彈性.md "wikilink")。很多人都會將**RubberBand**錯誤分開寫成「Rubber」和「Band」兩個英文字，其實名字正確串法是**RubberBand**。
+RubberBand名字來自「[橡筋](https://zh.wikipedia.org/wiki/橡筋 "wikilink")」，取其可以將物件[連結起來](https://zh.wikipedia.org/wiki/連結 "wikilink")，同時具高度[彈性之意](https://zh.wikipedia.org/wiki/彈性 "wikilink")。很多人都會將**RubberBand**錯誤分開寫成「Rubber」和「Band」兩個英文字，其實名字正確串法是**RubberBand**。
 
 ## 成員
 
   - 主音：[繆浩昌](../Page/繆浩昌.md "wikilink")（6號）
-  - 結他手兼隊長：[馮庭正](../Page/馮庭正.md "wikilink")（阿正）
-  - 低音結他手：[李兆偉](../Page/李兆偉.md "wikilink")（阿偉）
+  - 結他手兼隊長：[馮庭正](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")（阿正）
+  - 低音結他手：[李兆偉](https://zh.wikipedia.org/wiki/李兆偉 "wikilink")（阿偉）
   - 鼓手：[黎萬宏](../Page/黎萬宏.md "wikilink")（泥鯭）
-  - 鍵琴手：[鍾家俊](../Page/鍾家俊.md "wikilink")（[藝琛](../Page/藝琛.md "wikilink")）（2010年10月因健康問題離隊）
+  - 鍵琴手：[鍾家俊](https://zh.wikipedia.org/wiki/鍾家俊 "wikilink")（[藝琛](https://zh.wikipedia.org/wiki/藝琛 "wikilink")）（2010年10月因健康問題離隊）
 
 ## 標誌
 
-樂隊的標誌是一個圓圈內的英文字母**R**，圓圈右上方再加上一個[降音符](../Page/降音符.md "wikilink")（flat），取其似英文字母“**b**”，組成**RB**代號（樂隊簡稱），一般人將標誌唸作“RB”或“R
-flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikilink")》的封面。
+樂隊的標誌是一個圓圈內的英文字母**R**，圓圈右上方再加上一個[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")（flat），取其似英文字母“**b**”，組成**RB**代號（樂隊簡稱），一般人將標誌唸作“RB”或“R
+flat”，最先見於其首張大碟《[Apollo
+18](https://zh.wikipedia.org/wiki/Apollo_18 "wikilink")》的封面。
 
 ## 音樂作品
 
@@ -67,9 +68,9 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p>A: <a href="../Page/Apollo_18.md" title="wikilink">Apollo 18</a></p></td>
+<td style="text-align: left;"><p>A: <a href="https://zh.wikipedia.org/wiki/Apollo_18" title="wikilink">Apollo 18</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/金牌娛樂.md" title="wikilink">金牌娛樂</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/金牌娛樂" title="wikilink">金牌娛樂</a></p></td>
 <td style="text-align: left;"><p>2008年9月26日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -99,7 +100,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p>B: <a href="../Page/Beaming.md" title="wikilink">Beaming</a></p></td>
+<td style="text-align: left;"><p>B: <a href="https://zh.wikipedia.org/wiki/Beaming" title="wikilink">Beaming</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2009年7月24日</p></td>
@@ -155,7 +156,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>4th</p></td>
-<td style="text-align: left;"><p>D: <a href="../Page/Dedicated_To....md" title="wikilink">Dedicated To...</a></p></td>
+<td style="text-align: left;"><p>D: <a href="https://zh.wikipedia.org/wiki/Dedicated_To..." title="wikilink">Dedicated To...</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2011年3月18日</p></td>
@@ -176,7 +177,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>5th</p></td>
-<td style="text-align: left;"><p>E: <a href="../Page/Easy_(RubberBand專輯).md" title="wikilink">Easy</a></p></td>
+<td style="text-align: left;"><p>E: <a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年8月8日</p></td>
@@ -211,7 +212,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>E: <a href="../Page/Easy_(RubberBand專輯).md" title="wikilink">Easy（限量慶功版）</a></p></td>
+<td style="text-align: left;"><p>E: <a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy（限量慶功版）</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年9月28日</p></td>
@@ -248,9 +249,9 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
-<td style="text-align: left;"><p>F: <a href="../Page/Frank.md" title="wikilink">Frank</a></p></td>
+<td style="text-align: left;"><p>F: <a href="https://zh.wikipedia.org/wiki/Frank" title="wikilink">Frank</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/寰亞唱片.md" title="wikilink">寰亞唱片</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2014年4月10日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -276,9 +277,9 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>7th</p></td>
-<td style="text-align: left;"><p>G: <a href="../Page/Gotta_Go.md" title="wikilink">Gotta Go</a></p></td>
+<td style="text-align: left;"><p>G: <a href="https://zh.wikipedia.org/wiki/Gotta_Go" title="wikilink">Gotta Go</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/寰亞唱片.md" title="wikilink">寰亞唱片</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2016年1月8日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -314,9 +315,9 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>8th</p></td>
-<td style="text-align: left;"><p>H: <a href="../Page/Hours.md" title="wikilink">Hours</a></p></td>
+<td style="text-align: left;"><p>H: <a href="https://zh.wikipedia.org/wiki/Hours" title="wikilink">Hours</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
-<td style="text-align: left;"><p><a href="../Page/R_Flat.md" title="wikilink">R Flat</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/R_Flat" title="wikilink">R Flat</a></p></td>
 <td style="text-align: left;"><p>2018年9月28日</p></td>
 <td style="text-align: left;"><ol>
 <li>脫軌時刻</li>
@@ -349,9 +350,9 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="../Page/Frank?.md" title="wikilink">Frank?</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Frank?" title="wikilink">Frank?</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
-<td style="text-align: left;"><p><a href="../Page/寰亞唱片.md" title="wikilink">寰亞唱片</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2014年10月23日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
@@ -369,7 +370,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="../Page/呢度.md" title="wikilink">呢度</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/呢度" title="wikilink">呢度</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p>R Flat</p></td>
 <td style="text-align: left;"><p>2016年12月17日</p></td>
@@ -398,7 +399,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="../Page/橡芽.md" title="wikilink">橡芽</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/橡芽" title="wikilink">橡芽</a></p></td>
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年12月6日</p></td>
@@ -433,7 +434,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="../Page/We_Are_RubberBand.md" title="wikilink">We Are RubberBand</a> (Greatest Hits)</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_Are_RubberBand" title="wikilink">We Are RubberBand</a> (Greatest Hits)</p></td>
 <td style="text-align: left;"><p>精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2015年10月29日</p></td>
@@ -493,7 +494,7 @@ flat”，最先見於其首張大碟《[Apollo 18](../Page/Apollo_18.md "wikili
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="../Page/RubberBand_Concert_#1.md" title="wikilink">RubberBand Concert #1</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/RubberBand_Concert_#1" title="wikilink">RubberBand Concert #1</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2010年1月5日</p></td>
@@ -574,7 +575,7 @@ featuring 6號＠RubberBand</p></td>
 <td><p>2016</p></td>
 <td><p>終於好天氣</p></td>
 <td><p>與<a href="../Page/方皓玟.md" title="wikilink">方皓玟合唱</a></p></td>
-<td><p><a href="../Page/My_Spiritual_Life.md" title="wikilink">My Spiritual Life</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Spiritual_Life" title="wikilink">My Spiritual Life</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -603,7 +604,7 @@ featuring 6號＠RubberBand</p></td>
 <td><p>2008</p></td>
 <td><p>Yes I Do</p></td>
 <td><p><a href="../Page/蘇永康.md" title="wikilink">蘇永康</a></p></td>
-<td><p>編：<a href="../Page/藝琛.md" title="wikilink">藝琛</a>＠RubberBand</p></td>
+<td><p>編：<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>＠RubberBand</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -669,21 +670,21 @@ featuring 6號＠RubberBand</p></td>
 <td><p>同班同學</p></td>
 <td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
 <td><p>曲：藝琛＠RubberBand<br />
-詞：6號＠RubberBand、<a href="../Page/Tim_Lui.md" title="wikilink">Tim Lui</a><br />
+詞：6號＠RubberBand、<a href="https://zh.wikipedia.org/wiki/Tim_Lui" title="wikilink">Tim Lui</a><br />
 編、監：RubberBand</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>萬歲師表</p></td>
-<td><p><a href="../Page/叱吒903.md" title="wikilink">叱吒903眾DJ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/叱吒903" title="wikilink">叱吒903眾DJ</a></p></td>
 <td><p>編、監：RubberBand</p></td>
-<td><p><a href="../Page/香港教育學院.md" title="wikilink">香港教育學院</a>15週年校慶主題曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港教育學院" title="wikilink">香港教育學院</a>15週年校慶主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>家春秋</p></td>
-<td><p><a href="../Page/森美.md" title="wikilink">森美</a>、<a href="../Page/小儀.md" title="wikilink">小儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a></p></td>
 <td><p>曲、編：RubberBand</p></td>
 <td><p><a href="../Page/森美小儀歌劇團.md" title="wikilink">森美小儀歌劇團</a>《加樽抽》主題曲</p></td>
 <td></td>
@@ -691,7 +692,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>不要講很愛我</p></td>
 <td><p><a href="../Page/唐素琪.md" title="wikilink">唐素琪</a></p></td>
-<td><p>編：<a href="../Page/藝琛.md" title="wikilink">藝琛</a>＠RubberBand</p></td>
+<td><p>編：<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>＠RubberBand</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -720,21 +721,21 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>蝸居</p></td>
 <td><p>曲：偉＠RubberBand<br />
-編：<a href="../Page/藝琛.md" title="wikilink">藝琛</a>、偉＠RubberBand</p></td>
+編：<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>、偉＠RubberBand</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>鑽石敗犬</p></td>
-<td><p>編：<a href="../Page/藝琛.md" title="wikilink">藝琛</a>＠RubberBand</p></td>
+<td><p>編：<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>＠RubberBand</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>不必關機</p></td>
-<td><p><a href="../Page/海鳴威.md" title="wikilink">海鳴威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海鳴威" title="wikilink">海鳴威</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -748,7 +749,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>迷幻列車</p></td>
-<td><p><a href="../Page/洪杰.md" title="wikilink">洪-{杰}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪杰" title="wikilink">洪-{杰}-</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -776,14 +777,14 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>我不會哭</p></td>
-<td><p>編：<a href="../Page/李漢文.md" title="wikilink">李漢@Ping Pung</a>、<a href="../Page/藝琛.md" title="wikilink">藝琛</a>＠RubberBand</p></td>
+<td><p>編：<a href="../Page/李漢文.md" title="wikilink">李漢@Ping Pung</a>、<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>＠RubberBand</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>合唱歌</p></td>
-<td><p><a href="../Page/側田.md" title="wikilink">側田</a>、<a href="../Page/G.E.M..md" title="wikilink">G.E.M.</a></p></td>
+<td><p><a href="../Page/側田.md" title="wikilink">側田</a>、<a href="https://zh.wikipedia.org/wiki/G.E.M." title="wikilink">G.E.M.</a></p></td>
 <td><p>編：正＠RubberBand</p></td>
 <td></td>
 <td></td>
@@ -806,7 +807,7 @@ featuring 6號＠RubberBand</p></td>
 <td><p>2011</p></td>
 <td><p>金鐘罩</p></td>
 <td><p><a href="../Page/許志安.md" title="wikilink">許志安</a></p></td>
-<td><p>曲：<a href="../Page/藝琛.md" title="wikilink">藝琛</a>＠RubberBand<br />
+<td><p>曲：<a href="https://zh.wikipedia.org/wiki/藝琛" title="wikilink">藝琛</a>＠RubberBand<br />
 編：RubberBand</p></td>
 <td></td>
 </tr>
@@ -821,7 +822,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>安多芬與我的巴沙諾瓦</p></td>
 <td><p><a href="../Page/林海峰_(香港).md" title="wikilink">林海峰</a></p></td>
-<td><p>監：RubberBand、<a href="../Page/雷柏熹.md" title="wikilink">雷柏熹</a>、<a href="../Page/Ronnie_Cheng.md" title="wikilink">Ronnie Cheng</a></p></td>
+<td><p>監：RubberBand、<a href="https://zh.wikipedia.org/wiki/雷柏熹" title="wikilink">雷柏熹</a>、<a href="https://zh.wikipedia.org/wiki/Ronnie_Cheng" title="wikilink">Ronnie Cheng</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -834,7 +835,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>黃昏音樂會</p></td>
-<td><p>詞：6號＠RubberBand、<a href="../Page/Tim_Lui.md" title="wikilink">Tim Lui</a></p></td>
+<td><p>詞：6號＠RubberBand、<a href="https://zh.wikipedia.org/wiki/Tim_Lui" title="wikilink">Tim Lui</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -872,7 +873,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p>Simple Love Song</p></td>
-<td><p><a href="../Page/黃淑玲.md" title="wikilink">黃淑玲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃淑玲" title="wikilink">黃淑玲</a></p></td>
 <td><p>曲、詞：正＠RubberBand<br />
 編、監：RubberBand</p></td>
 <td></td>
@@ -880,8 +881,8 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>2014</p></td>
 <td><p>外遊尋味</p></td>
-<td><p><a href="../Page/Blaster.md" title="wikilink">Blaster</a></p></td>
-<td><p>監：偉@RubberBand、Blaster、<a href="../Page/Jeremy_Cheng.md" title="wikilink">Jeremy Cheng</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blaster" title="wikilink">Blaster</a></p></td>
+<td><p>監：偉@RubberBand、Blaster、<a href="https://zh.wikipedia.org/wiki/Jeremy_Cheng" title="wikilink">Jeremy Cheng</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -936,7 +937,7 @@ featuring 6號＠RubberBand</p></td>
 <tr class="even">
 <td><p>2015</p></td>
 <td><p>終點</p></td>
-<td><p><a href="../Page/曾詠欣.md" title="wikilink">曾詠欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾詠欣" title="wikilink">曾詠欣</a></p></td>
 <td><p>曲：正＠RubberBand</p></td>
 <td></td>
 </tr>
@@ -949,7 +950,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>星期一太空漫遊</p></td>
-<td><p><a href="../Page/Blaster.md" title="wikilink">Blaster</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blaster" title="wikilink">Blaster</a></p></td>
 <td><p>監：偉@RubberBand、Blaster、Jeremy Cheng</p></td>
 <td></td>
 <td></td>
@@ -977,7 +978,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>Summer Song</p></td>
-<td><p><a href="../Page/Comma.md" title="wikilink">Comma</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Comma" title="wikilink">Comma</a></p></td>
 <td><p>監：偉@RubberBand</p></td>
 <td></td>
 <td></td>
@@ -1038,7 +1039,7 @@ featuring 6號＠RubberBand</p></td>
 </tr>
 <tr class="even">
 <td><p>打嗝歌</p></td>
-<td><p><a href="../Page/尚羚.md" title="wikilink">尚羚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尚羚" title="wikilink">尚羚</a></p></td>
 <td><p>曲：正＠RubberBand、尚羚<br />
 監：正＠RubberBand</p></td>
 <td></td>
@@ -1062,20 +1063,20 @@ featuring 6號＠RubberBand</p></td>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>大雅之堂</p></td>
-<td><p><a href="../Page/葉嘉儀.md" title="wikilink">葉嘉儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉嘉儀" title="wikilink">葉嘉儀</a></p></td>
 <td><p>編、監：偉＠RubberBand</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>未來</p></td>
-<td><p><a href="../Page/Another_Kitchen.md" title="wikilink">Another Kitchen</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Another_Kitchen" title="wikilink">Another Kitchen</a></p></td>
 <td><p>監：Another Kitchen、偉＠RubberBand</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>停半分鐘聽一闋歌</p></td>
-<td><p><a href="../Page/許廷鏗.md" title="wikilink">許廷鏗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a></p></td>
 <td><p>詞：6號＠RubberBand</p></td>
 <td></td>
 <td></td>
@@ -1087,15 +1088,17 @@ featuring 6號＠RubberBand</p></td>
 
 2007年
 
-  - MOOV Live[梁漢文](../Page/梁漢文.md "wikilink")（featuring RubberBand）
-  - 3月17日：[芝華士](../Page/芝華士.md "wikilink")[金牌醇音樂](../Page/金牌.md "wikilink")
+  - MOOV
+    Live[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")（featuring
+    RubberBand）
+  - 3月17日：[芝華士](https://zh.wikipedia.org/wiki/芝華士 "wikilink")[金牌醇音樂](https://zh.wikipedia.org/wiki/金牌 "wikilink")
   - 5月5日
-    ：[孫燕姿](../Page/孫燕姿.md "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
+    ：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
 
 2008年
 
   - MOOV Live[吳雨霏](../Page/吳雨霏.md "wikilink")（featuring RubberBand）
-  - 3月27日：[Nokia我系音樂會](../Page/Nokia.md "wikilink")
+  - 3月27日：[Nokia我系音樂會](https://zh.wikipedia.org/wiki/Nokia "wikilink")
   - 7月25日：[森美移動第一次音樂大戰](../Page/森美移動.md "wikilink")
 
 2009年
@@ -1105,31 +1108,33 @@ featuring 6號＠RubberBand</p></td>
 
 2010年
 
-  - 12月7日：靖 × 膠人人合唱團（featuring [歐陽靖](../Page/歐陽靖.md "wikilink")）
+  - 12月7日：靖 × 膠人人合唱團（featuring
+    [歐陽靖](https://zh.wikipedia.org/wiki/歐陽靖 "wikilink")）
 
 2011年
 
   - 3月19日－23日：RubberBand Caravan Tour 2011
-  - 4月17日：[饑饉三十閉幕禮音樂會](../Page/饑饉三十.md "wikilink")
-  - 4月20日：[芝華士真友情音樂會](../Page/芝華士.md "wikilink")
+  - 4月17日：[饑饉三十閉幕禮音樂會](https://zh.wikipedia.org/wiki/饑饉三十 "wikilink")
+  - 4月20日：[芝華士真友情音樂會](https://zh.wikipedia.org/wiki/芝華士 "wikilink")
   - 5月24日：[謝安琪](../Page/謝安琪.md "wikilink") × RubberBand ×
     [蘇永康](../Page/蘇永康.md "wikilink")[拉闊音樂會](../Page/拉闊音樂會.md "wikilink")
-  - 6月15日至19日：[戀LoveLove舞台劇](../Page/戀LoveLove.md "wikilink")（[泥鯭參與演出](../Page/黎萬宏.md "wikilink")）
+  - 6月15日至19日：[戀LoveLove舞台劇](https://zh.wikipedia.org/wiki/戀LoveLove "wikilink")（[泥鯭參與演出](../Page/黎萬宏.md "wikilink")）
   - 6月26日：澳門勵志青年會勵志青年夢想成真夢成匙Key to Dream音樂會
   - 7月16日：協青社[Parkland Band
-    Show音樂會](../Page/Parkland_Band_Show.md "wikilink")
+    Show音樂會](https://zh.wikipedia.org/wiki/Parkland_Band_Show "wikilink")
   - 7月31日：Ricky Music Factory School Show
   - 8月6日：[新城iDO](../Page/新城電台.md "wikilink") HD 靚聲音樂會（featuring
     [張智霖](../Page/張智霖.md "wikilink")、[許志安](../Page/許志安.md "wikilink")、[曹格及](../Page/曹格.md "wikilink")[蘇永康](../Page/蘇永康.md "wikilink")）
   - 8月14日：元朗圍村文化節閉幕禮
-  - 8月20日：[TVB](../Page/TVB.md "wikilink") Music Battle
+  - 8月20日：[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") Music
+    Battle
   - 8月21日：「[太陽計劃](../Page/太陽計劃.md "wikilink")2011愛在當下為未來」閉幕活動
   - 9月27日：Chris Polanco & Friends Unforgettable Night
   - 10月1日：香港同胞慶祝中華人民共和國成立62週年文藝晚會
   - 10月25日：SPORT b. Plugged Asian Music Festival 2011 – Live Concert in
     Hong Kong（featuring
     [糖兄妹及](../Page/糖兄妹.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")）
-  - 11月8日－9日：[蘇永康給那誰的演唱會](../Page/蘇永康.md "wikilink")2011（[阿正擔任結他手](../Page/馮庭正.md "wikilink")）
+  - 11月8日－9日：[蘇永康給那誰的演唱會](../Page/蘇永康.md "wikilink")2011（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 12月24日：[荃新天地Amazing](../Page/荃新天地.md "wikilink") Circus平安夜倒數派對
   - 12月31日：Rock'n Over狂熱搖滾除夕倒數演唱會2012（featuring
     [太極樂隊](../Page/太極樂隊.md "wikilink")、[Mr.及](../Page/Mr..md "wikilink")[Kolor](../Page/Kolor.md "wikilink")）
@@ -1140,17 +1145,17 @@ featuring 6號＠RubberBand</p></td>
   - 3月31日：RubberBand MOOV LIVE 2012
   - 4月1日：903拉闊理想音樂會（featuring [Dear
     Jane](../Page/Dear_Jane.md "wikilink")、[Mr.](../Page/Mr..md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Peri
-    M](../Page/Peri_M.md "wikilink")、[Rock
-    Sugar](../Page/Rock_Sugar.md "wikilink")、[Supper
-    Moment](../Page/Supper_Moment.md "wikilink")、[Yellow\!](../Page/Yellow!.md "wikilink")）
+    M](https://zh.wikipedia.org/wiki/Peri_M "wikilink")、[Rock
+    Sugar](https://zh.wikipedia.org/wiki/Rock_Sugar "wikilink")、[Supper
+    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
   - 5月4日：[太極Band](../Page/太極樂隊.md "wikilink") of the Town香港演唱會2012 Part
     2
   - 5月16日：[小肥的黃昏音樂會](../Page/小肥.md "wikilink")
   - 5月21日－25日：[黃貫中Paul](../Page/黃貫中.md "wikilink") Wong
-    Rockestra演唱會2012（[阿正擔任結他手](../Page/馮庭正.md "wikilink")）
+    Rockestra演唱會2012（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 6月28日：青苗學界進步獎嘉許禮暨打氣音樂會
   - 7月20日－22日：[衛蘭](../Page/衛蘭.md "wikilink")3000 Day & Night
-    演唱會（[阿正擔任結他手](../Page/馮庭正.md "wikilink")）
+    演唱會（[阿正擔任結他手](https://zh.wikipedia.org/wiki/馮庭正 "wikilink")）
   - 9月1日：「良心話事。守護孩子」公民教育開學禮大集會音樂晚會
   - 10月1日：[嘉士伯Chill](../Page/嘉士伯.md "wikilink") X Rubberband Live
   - 10月26日：[Mikiki](../Page/Mikiki.md "wikilink") X RubberBand【Easy】簽唱會
@@ -1210,72 +1215,72 @@ featuring 6號＠RubberBand</p></td>
 
 ## 派台歌曲成績
 
-| **派台歌曲成績**                                                            |
-| --------------------------------------------------------------------- |
-| 唱片                                                                    |
-| **2007年**                                                             |
-| [Apollo 18](../Page/Apollo_18.md "wikilink")                          |
-| **2008年**                                                             |
-| Apollo 18                                                             |
-| Apollo 18                                                             |
-| Apollo 18                                                             |
-| Apollo 18                                                             |
-| **2009年**                                                             |
-| [Beaming](../Page/Beaming.md "wikilink")                              |
-| Beaming                                                               |
-| Beaming                                                               |
-| Beaming                                                               |
-| [RubberBand Concert \#1](../Page/RubberBand_Concert_#1.md "wikilink") |
-| **2010年**                                                             |
-| [Connected](../Page/Connected.md "wikilink")                          |
-| [LOVE 10情歌集 壓軸篇](../Page/LOVE_10情歌集_壓軸篇.md "wikilink")                |
-| Connected                                                             |
-| Connected                                                             |
-| Connected                                                             |
-| **2011年**                                                             |
-| [Dedicated to...](../Page/Dedicated_to....md "wikilink")              |
-| Dedicated to...                                                       |
-| Dedicated to...                                                       |
-| **2012年**                                                             |
-| [Easy](../Page/Easy_\(RubberBand專輯\).md "wikilink")                   |
-| Easy                                                                  |
-| Easy                                                                  |
-| Easy                                                                  |
-| [橡芽](../Page/橡芽.md "wikilink")                                        |
-| **2013年**                                                             |
-| [Frank](../Page/Frank.md "wikilink")                                  |
-| **2014年**                                                             |
-| Frank                                                                 |
-| Frank                                                                 |
-| Frank                                                                 |
-| Frank                                                                 |
-| Frank                                                                 |
-| [Frank?](../Page/Frank?.md "wikilink")                                |
-| Frank?                                                                |
-|                                                                       |
-| Frank?                                                                |
-| **2015年**                                                             |
-| [Gotta Go](../Page/Gotta_Go.md "wikilink")                            |
-| Gotta Go                                                              |
-| Gotta Go                                                              |
-| Gotta Go                                                              |
-| **2016年**                                                             |
-| [My Spiritual Life](../Page/My_Spiritual_Life.md "wikilink")          |
-| [呢度](../Page/呢度.md "wikilink")                                        |
-| **2017年**                                                             |
-| 呢度                                                                    |
-| 呢度                                                                    |
-|                                                                       |
-| [Hours](../Page/Hours.md "wikilink")                                  |
-| **2018年**                                                             |
-| Hours                                                                 |
-| Hours                                                                 |
-| Hours                                                                 |
-|                                                                       |
-| Hours                                                                 |
-| Hours                                                                 |
-| **2019年**                                                             |
-|                                                                       |
+| **派台歌曲成績**                                                                               |
+| ---------------------------------------------------------------------------------------- |
+| 唱片                                                                                       |
+| **2007年**                                                                                |
+| [Apollo 18](https://zh.wikipedia.org/wiki/Apollo_18 "wikilink")                          |
+| **2008年**                                                                                |
+| Apollo 18                                                                                |
+| Apollo 18                                                                                |
+| Apollo 18                                                                                |
+| Apollo 18                                                                                |
+| **2009年**                                                                                |
+| [Beaming](https://zh.wikipedia.org/wiki/Beaming "wikilink")                              |
+| Beaming                                                                                  |
+| Beaming                                                                                  |
+| Beaming                                                                                  |
+| [RubberBand Concert \#1](https://zh.wikipedia.org/wiki/RubberBand_Concert_#1 "wikilink") |
+| **2010年**                                                                                |
+| [Connected](../Page/Connected.md "wikilink")                                             |
+| [LOVE 10情歌集 壓軸篇](https://zh.wikipedia.org/wiki/LOVE_10情歌集_壓軸篇 "wikilink")                |
+| Connected                                                                                |
+| Connected                                                                                |
+| Connected                                                                                |
+| **2011年**                                                                                |
+| [Dedicated to...](https://zh.wikipedia.org/wiki/Dedicated_to... "wikilink")              |
+| Dedicated to...                                                                          |
+| Dedicated to...                                                                          |
+| **2012年**                                                                                |
+| [Easy](https://zh.wikipedia.org/wiki/Easy_\(RubberBand專輯\) "wikilink")                   |
+| Easy                                                                                     |
+| Easy                                                                                     |
+| Easy                                                                                     |
+| [橡芽](https://zh.wikipedia.org/wiki/橡芽 "wikilink")                                        |
+| **2013年**                                                                                |
+| [Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")                                  |
+| **2014年**                                                                                |
+| Frank                                                                                    |
+| Frank                                                                                    |
+| Frank                                                                                    |
+| Frank                                                                                    |
+| Frank                                                                                    |
+| [Frank?](https://zh.wikipedia.org/wiki/Frank? "wikilink")                                |
+| Frank?                                                                                   |
+|                                                                                          |
+| Frank?                                                                                   |
+| **2015年**                                                                                |
+| [Gotta Go](https://zh.wikipedia.org/wiki/Gotta_Go "wikilink")                            |
+| Gotta Go                                                                                 |
+| Gotta Go                                                                                 |
+| Gotta Go                                                                                 |
+| **2016年**                                                                                |
+| [My Spiritual Life](https://zh.wikipedia.org/wiki/My_Spiritual_Life "wikilink")          |
+| [呢度](https://zh.wikipedia.org/wiki/呢度 "wikilink")                                        |
+| **2017年**                                                                                |
+| 呢度                                                                                       |
+| 呢度                                                                                       |
+|                                                                                          |
+| [Hours](https://zh.wikipedia.org/wiki/Hours "wikilink")                                  |
+| **2018年**                                                                                |
+| Hours                                                                                    |
+| Hours                                                                                    |
+| Hours                                                                                    |
+|                                                                                          |
+| Hours                                                                                    |
+| Hours                                                                                    |
+| **2019年**                                                                                |
+|                                                                                          |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -1290,10 +1295,10 @@ featuring 6號＠RubberBand</p></td>
 
 ### MV
 
-RubberBand共拍攝了多首歌曲的[音樂錄像](../Page/音樂錄像.md "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《SimpleLoveSong》、《More
+RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《SimpleLoveSong》、《More
 than a woman》及《dedicated
-to》等等，所有MV均由主音[6號執導及剪接](../Page/6號.md "wikilink")，其後加入第二導演[Ken
-Tsui](../Page/Ken_Tsui.md "wikilink")。
+to》等等，所有MV均由主音[6號執導及剪接](https://zh.wikipedia.org/wiki/6號 "wikilink")，其後加入第二導演[Ken
+Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
 ### 電視節目
 
@@ -1303,7 +1308,8 @@ Tsui](../Page/Ken_Tsui.md "wikilink")。
 
 2011年
 
-  - 《茜嘉團遊•土耳其》： [J2台播映](../Page/J2台.md "wikilink") \[11\]
+  - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink")
+    \[11\]
   - 《女人多自在》第四部：泥猛飾輝雄
 
 2012年 電影《懸紅》：
@@ -1317,7 +1323,7 @@ Tsui](../Page/Ken_Tsui.md "wikilink")。
 
 ## 展覽
 
-RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](../Page/展覽.md "wikilink")《Behind
+RubberBand於2009年12月1日至12月6日，舉行了為期一星期的[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")《Behind
 the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展出《RubberBand Concert \#1》
 的綵排相片、樂隊成員珍藏如創作手稿及樂器、從未發表的[樣本唱片](../Page/樣本唱片.md "wikilink")（Demo）和播放樂隊的MV
 等等\[12\]。
@@ -1325,16 +1331,18 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 ## 廣告
 
   - 2010年：[EPS](../Page/EPS.md "wikilink")
-    [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](../Page/林海峰.md "wikilink")（電視廣告）\[13\]
+    [泥鯭feat](../Page/黎萬宏.md "wikilink")[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")（電視廣告）\[13\]
   - 2010年：[佐丹奴](../Page/佐丹奴.md "wikilink") [Winter Jackets
-    Live](../Page/Winter_Jackets_Live.md "wikilink")（硬照）\[14\]
-  - 2011年：[JobMarket求職廣場](../Page/JobMarket求職廣場.md "wikilink")（硬照）\[15\]
+    Live](https://zh.wikipedia.org/wiki/Winter_Jackets_Live "wikilink")（硬照）\[14\]
+  - 2011年：[JobMarket求職廣場](https://zh.wikipedia.org/wiki/JobMarket求職廣場 "wikilink")（硬照）\[15\]
   - 2011年：[家居寬頻電視廣告](../Page/3.md "wikilink")（出任代言人）\[16\]
   - 2011年：[香港電腦通訊節2011](../Page/香港電腦通訊節.md "wikilink")（出任電腦大使）\[17\]
   - 2011年：[香港癌症基金會](../Page/香港癌症基金會.md "wikilink")《患癌不是大結局》（出任活動大使）\[18\]
-  - 2011年：[Ellesse Time](../Page/:en:Ellesse.md "wikilink") X
-    RubberBand（第525期《[Milk](../Page/Milk.md "wikilink")》雜誌硬照及訪問）\[19\]
-  - 2011年：Rubberband x [佐丹奴](../Page/Giordano.md "wikilink") 2011
+  - 2011年：[Ellesse
+    Time](https://zh.wikipedia.org/wiki/:en:Ellesse "wikilink") X
+    RubberBand（第525期《[Milk](https://zh.wikipedia.org/wiki/Milk "wikilink")》雜誌硬照及訪問）\[19\]
+  - 2011年：Rubberband x
+    [佐丹奴](https://zh.wikipedia.org/wiki/Giordano "wikilink") 2011
     Thinsulate冬日Live輕。薄。暖（出任代言人)
   - 2012年：T-TECH by TUMI（出任代言人）\[20\]
   - 2012年：[Carlsberg Chill](../Page/嘉士伯.md "wikilink")（出任代言人）\[21\]
@@ -1349,10 +1357,10 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
     年度新人《Apollo 18》
   - Ch\!kinology The 2nd Outstanding Music Awards - Local 2008 年度唱片
     第十位《Apollo 18》
-  - [YAHOO\!搜尋人氣大獎2008](../Page/2008年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    樂壇新勢力（組合）
-  - [2008年度叱吒樂壇流行榜頒獎典禮](../Page/2008年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇生力軍組合 金獎
+  - [YAHOO\!搜尋人氣大獎2008](https://zh.wikipedia.org/wiki/2008年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+    - 樂壇新勢力（組合）
+  - [2008年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2008年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇生力軍組合 金獎
   - [SINA
     Music樂壇民意指數頒獎禮2008](../Page/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")
     - 我最喜愛新組合 銀獎
@@ -1369,10 +1377,10 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆原創歌曲《阿波羅》
   - [新城勁爆頒獎禮2009](../Page/2009年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
-  - [2009年度叱吒樂壇流行榜頒獎典禮](../Page/2009年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介叱吒十大 第二位《阿波羅》
-  - [2009年度叱吒樂壇流行榜頒獎典禮](../Page/2009年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇組合 金獎
+  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 專業推介叱吒十大 第二位《阿波羅》
+  - [2009年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2009年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇組合 金獎
   - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 讀者投選年度組合
   - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 年度組合 銅獎
   - Ch\!kinology The 3rd Outstanding Music Awards - Local 2009 年度歌曲
@@ -1393,22 +1401,22 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第三回](../Page/2010年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
-    得獎歌曲《SimpleLoveSong》
+  - [2010勁歌金曲優秀選第三回](https://zh.wikipedia.org/wiki/2010年勁歌金曲優秀選第三回得獎名單 "wikilink")
+    - 得獎歌曲《SimpleLoveSong》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆歌曲《SimpleLoveSong》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯
     《[Connected](../Page/Connected.md "wikilink")》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
   - Ch\!kinology The 4th ch\!sin music picks - Local 2010 年度組合 銀獎
-  - [2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    至尊歌曲大獎《SimpleLoveSong》
-  - [2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇編曲人大獎
-  - [2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇組合銀獎
-  - [2010年度叱吒樂壇流行榜頒獎典禮](../Page/2010年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇我最喜愛的組合
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 至尊歌曲大獎《SimpleLoveSong》
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇編曲人大獎
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇組合銀獎
+  - [2010年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2010年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇我最喜愛的組合
   - [第三十三屆十大中文金曲頒獎典禮](../Page/第三十三屆十大中文金曲得獎名單.md "wikilink") - 全年最佳進步獎
     金獎
   - [2010年度十大勁歌金曲頒獎典禮](../Page/2010年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
@@ -1427,8 +1435,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") -
     新城國語力歌曲《SimpleLoveSong》
   - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力樂團
-  - [2010勁歌金曲優秀選第二回](../Page/2011年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
-    得獎歌曲《陪著你走》
+  - [2010勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2011年勁歌金曲優秀選第二回得獎名單 "wikilink")
+    - 得獎歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆改編歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
@@ -1444,22 +1452,22 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2012年度
 
-  - [2012勁歌金曲優秀選第一回](../Page/2012年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
-    得獎歌曲《Easy》
+  - [2012勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2012年勁歌金曲優秀選第一回得獎名單 "wikilink")
+    - 得獎歌曲《Easy》
   - [2012年CASH金帆音樂獎](../Page/2012年CASH金帆音樂獎.md "wikilink") -
     最佳樂隊演繹《Easy》
-  - [2012勁歌金曲優秀選第三回](../Page/2012年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
-    得獎歌曲《睜開眼》
+  - [2012勁歌金曲優秀選第三回](https://zh.wikipedia.org/wiki/2012年勁歌金曲優秀選第三回得獎名單 "wikilink")
+    - 得獎歌曲《睜開眼》
   - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
     本地音樂組合
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆原創歌曲《Easy》
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆亞洲創作樂隊大獎
-  - [2012年度叱吒樂壇流行榜頒獎典禮](../Page/2012年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇至尊唱片大獎《[Easy](../Page/Easy.md "wikilink")》
-  - [2012年度叱吒樂壇流行榜頒獎典禮](../Page/2012年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇組合 金獎
+  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱咤樂壇至尊唱片大獎《[Easy](https://zh.wikipedia.org/wiki/Easy "wikilink")》
+  - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇組合 金獎
   - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
     金獎
   - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") -
@@ -1492,21 +1500,22 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆歌曲《成長說明書》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆專輯《[Frank](../Page/Frank.md "wikilink")》
+    新城勁爆專輯《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲樂隊大獎
-  - [2014年度叱吒樂壇流行榜頒獎典禮](../Page/2014年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇至尊唱片大獎《[Frank](../Page/Frank.md "wikilink")》
-  - [2014年度叱吒樂壇流行榜頒獎典禮](../Page/2014年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱吒樂壇組合 金獎
+  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    -
+    叱咤樂壇至尊唱片大獎《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
+  - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱吒樂壇組合 金獎
   - 2014年度叱咤樂壇流行榜頒獎典禮 -
     叱咤樂壇我最喜愛歌曲《[撐起雨傘](../Page/撐起雨傘.md "wikilink")》（6號、泥鯭、阿偉）
   - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    十大銷量廣東唱片《[Frank](../Page/Frank.md "wikilink")》
+    十大銷量廣東唱片《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
   - 快樂的私家播放指數2014 Top 12 Songs \#1《撐起雨傘》（6號、泥鯭、阿偉）
   - Cool Music Forum會員共和榜 2014年度共和唱作人 銀獎
   - Cool Music Forum會員共和榜 2014年度共和組合 金獎
   - Cool Music Forum會員共和榜 2014年度共和唱片
-    銅獎《[Frank](../Page/Frank.md "wikilink")》
+    銅獎《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
   - 當下音樂 一四總結 年度20大 第十位 《你和我》
   - 2014 Music Picks 最喜愛MV 《你和我》
   - 2014 Music Picks 最喜愛30首 《語言藝術》
@@ -1516,8 +1525,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲《挾持》
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲樂隊大獎
-  - [2015年度叱吒樂壇流行榜頒獎典禮](../Page/2015年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介叱吒十大 第七位《挾持》
+  - [2015年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2015年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 專業推介叱吒十大 第七位《挾持》
   - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
     優秀流行國語歌曲獎 銅獎《我是樂隊》
   - [第三十八屆十大中文金曲頒獎音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
@@ -1528,12 +1537,14 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2016年度
 
-  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊 銅獎
-  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆編曲《芝士》
-  - [2016年度叱吒樂壇流行榜頒獎典禮](../Page/2016年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
-    全年最佳樂隊/組合獎 銅獎
+  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
+    - 勁爆樂隊 銅獎
+  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
+    - 勁爆編曲《芝士》
+  - [2016年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
+  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")
+    - 全年最佳樂隊/組合獎 銅獎
   - 快樂的 - 最愛演唱會2016 TOP 3 《呢度RubberBand Live》
   - 斐宇梧的中文唱片架 自選2016年中港台50首最佳歌曲 第十三位 《堅彌地城》（feat. Charatay）
   - 2016 Music Picks 最喜愛歌曲 第六位《堅彌地城》（feat. Charatay）
@@ -1552,15 +1563,16 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2017年度
 
-  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    勁爆合唱歌曲《黑膠》（6號與[李克勤合唱](../Page/李克勤.md "wikilink")）
-  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
-  - [2017年度叱咤樂壇流行榜頒獎典禮](../Page/2017年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 銀獎
+  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
+    - 勁爆合唱歌曲《黑膠》（6號與[李克勤合唱](../Page/李克勤.md "wikilink")）
+  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
+    - 勁爆樂隊
+  - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱咤樂壇組合 銀獎
   - 論盡音樂 第一屆 論盡樂迷大賞 (2006-2016)「論盡樂迷樂隊組合大賞」銅獎
   - 論盡音樂 論盡投票 叱咤三十年 至尊之最「三十年我最 R 頭至尊歌」最後五強 《SimpleLoveSong》
   - 斐宇梧的中文唱片架 自選2017年中港台50首歌曲 第三十四位《一生青春》
-    （與[Yellow\!合唱](../Page/Yellow!.md "wikilink")）
+    （與[Yellow\!合唱](https://zh.wikipedia.org/wiki/Yellow! "wikilink")）
   - 2017年度OnAir Music Award 十大歌曲 第一位《山河故人》
   - 阿權阿樣與阿強【17年結，17首歌】 - 第八位 《山河故人》
   - 講音樂。- 二零一七，我的十五大 \#2 《山河故人》
@@ -1572,10 +1584,10 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2018年度
 
-  - [2018年度叱吒樂壇流行榜頒獎典禮](../Page/2018年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介叱吒十大 第三位《未來見》
-  - [2018年度叱吒樂壇流行榜頒獎典禮](../Page/2018年度叱吒樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇組合 金獎
+  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 專業推介叱吒十大 第三位《未來見》
+  - [2018年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
+    - 叱咤樂壇組合 金獎
   - 香港樂評選2018 年度樂團
   - 香港樂評選2018 年度唱片《Hours》
   - 香港樂評選2018 十碟推薦 第一位《Hours》
@@ -1643,7 +1655,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
   - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") - 最佳原創電影歌曲《逆流之歌》
   - [第38屆香港電影金像獎](../Page/第38屆香港電影金像獎.md "wikilink") -
-    最佳原創電影音樂《[逆流大叔](../Page/逆流大叔.md "wikilink")》
+    最佳原創電影音樂《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》
 
 ## 參考文獻
 

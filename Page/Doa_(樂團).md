@@ -1,6 +1,6 @@
 **doa**（ドーア，讀音：do-a），是[日本的三人搖滾樂團](../Page/日本.md "wikilink")，音樂理念為『Rock
 and
-3Vocal』。其成員包括[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")、。所屬唱片公司為[Being旗下的](../Page/Being_\(公司\).md "wikilink")[GIZA
+3Vocal』。其成員包括[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")、。所屬唱片公司為[Being旗下的](../Page/Being_\(公司\).md "wikilink")[GIZA
 studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 
 ## 成員資料
@@ -10,16 +10,16 @@ studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 <!-- end list -->
 
   -
-    擔任樂團的團長、[主唱](../Page/主唱.md "wikilink")、[貝斯](../Page/電貝斯.md "wikilink")、[吉他](../Page/吉他.md "wikilink")、[鋼琴演奏](../Page/钢琴.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲和](../Page/作曲.md "wikilink")[編曲](../Page/編曲.md "wikilink")。出生於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")。
+    擔任樂團的團長、[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[貝斯](../Page/電貝斯.md "wikilink")、[吉他](../Page/吉他.md "wikilink")、[鋼琴演奏](../Page/钢琴.md "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲和](https://zh.wikipedia.org/wiki/作曲 "wikilink")[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")。出生於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")。
 
 <!-- end list -->
 
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（， - ）
+  - [大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")（， - ）
 
 <!-- end list -->
 
   -
-    擔任樂團的主唱、吉他、作詞、作曲。出生於[日本](../Page/日本.md "wikilink")[愛媛縣](../Page/愛媛縣.md "wikilink")。
+    擔任樂團的主唱、吉他、作詞、作曲。出生於[日本](../Page/日本.md "wikilink")[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")。
 
 <!-- end list -->
 
@@ -28,14 +28,14 @@ studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 <!-- end list -->
 
   -
-    擔任樂團的主唱和作詞，同時也是一名[賽車手](../Page/賽車手.md "wikilink")。出生於[日本](../Page/日本.md "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")。歌手身份活动时名字“大树”的读法从“Hiroki”改为“Daiki”。
+    擔任樂團的主唱和作詞，同時也是一名[賽車手](../Page/賽車手.md "wikilink")。出生於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")。歌手身份活动时名字“大树”的读法从“Hiroki”改为“Daiki”。
 
 ## 簡介
 
-  - 2004年7月，憑借單曲《》出道。由[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")、[吉本大樹三人組成](../Page/吉本大樹.md "wikilink")。三個人共同擔任主唱、演奏、歌曲制作的工作。另外也參與自己的歌的宣傳影像的制作。
-  - 作曲和編曲全部由隊長的德永曉人擔任。doa的歌幾乎沒有Instrumental純音樂版本，第二主打必定會收錄吉本大樹用英語作詞的歌。唱聲則基本是1970年代以[老鷹樂隊](../Page/老鷹樂隊.md "wikilink")（[Eagles](../Page/鵰.md "wikilink")）、為代表的[西岸搖滾為主](../Page/西岸搖滾.md "wikilink")。
+  - 2004年7月，憑借單曲《》出道。由[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")、[吉本大樹三人組成](https://zh.wikipedia.org/wiki/吉本大樹 "wikilink")。三個人共同擔任主唱、演奏、歌曲制作的工作。另外也參與自己的歌的宣傳影像的制作。
+  - 作曲和編曲全部由隊長的德永曉人擔任。doa的歌幾乎沒有Instrumental純音樂版本，第二主打必定會收錄吉本大樹用英語作詞的歌。唱聲則基本是1970年代以[老鷹樂隊](https://zh.wikipedia.org/wiki/老鷹樂隊 "wikilink")（[Eagles](../Page/鵰.md "wikilink")）、為代表的[西岸搖滾為主](https://zh.wikipedia.org/wiki/西岸搖滾 "wikilink")。
   - 時隔一年發表的第10張單曲《》在ORICON每日排行榜獲得初上榜第七位的記錄。在每日排行榜進入前十還是第一次。發表作品時的宣傳活動主要都是靠電台或是現場錄音等，出道後沒參加過音樂節目的演出，最近則在音樂節目《[Music
-    Station](../Page/Music_Station.md "wikilink")》里被介紹到，也陸續頻繁在其他媒體露面了。
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》里被介紹到，也陸續頻繁在其他媒體露面了。
 
 ## 樂團名字的由來
 

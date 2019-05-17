@@ -1,20 +1,21 @@
-**MP4播放器**（在中國常簡稱為**MP4**）是從[中國大陸產生的常見](../Page/中國大陸.md "wikilink")[可攜式媒體播放器市場行銷名詞](../Page/可攜式媒體播放器.md "wikilink")。\[1\]與MP3播放器這類幾乎廣泛播放[MPEG-1
+**MP4播放器**（在中國常簡稱為**MP4**）是從[中國大陸產生的常見](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[可攜式媒體播放器市場行銷名詞](../Page/可攜式媒體播放器.md "wikilink")。\[1\]與MP3播放器這類幾乎廣泛播放[MPEG-1
 Audio Layer
-3音樂檔的設備不同](../Page/MPEG-1_Audio_Layer_3.md "wikilink")，MP4播放器跟[MPEG-4
+3音樂檔的設備不同](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_3 "wikilink")，MP4播放器跟[MPEG-4
 Part
-14格式並沒有直接關係](../Page/MPEG-4_Part_14.md "wikilink")。相反地，它被市場認定為是[MP3播放器的](../Page/MP3播放器.md "wikilink")“下一代”（3+1=4）。現在已有廠商發行MP4播放器的繼承者──**MP5播放器**。MP4播放器仍是目前市場的大宗，而各個廠商也製造了各式各樣的[MP5播放器](../Page/MP5.md "wikilink")。但是MP5播放器并没有明确的定义，而一些中国厂商已经开始制造所谓的“MP6”甚至“MP7”。\[2\]
+14格式並沒有直接關係](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")。相反地，它被市場認定為是[MP3播放器的](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")“下一代”（3+1=4）。現在已有廠商發行MP4播放器的繼承者──**MP5播放器**。MP4播放器仍是目前市場的大宗，而各個廠商也製造了各式各樣的[MP5播放器](https://zh.wikipedia.org/wiki/MP5 "wikilink")。但是MP5播放器并没有明确的定义，而一些中国厂商已经开始制造所谓的“MP6”甚至“MP7”。\[2\]
 
 ## 晶片組
 
-[瑞芯微電子的影片處理晶片](../Page/瑞芯微電子.md "wikilink")「Rockchip」被引入至眾多MP4播放器，支援不含[B畫格](../Page/視訊壓縮圖像類型.md "wikilink")[Xvid解碼器的](../Page/Xvid.md "wikilink")[AVI影片](../Page/AVI.md "wikilink")，並同時使用[MP2](../Page/MP2.md "wikilink")（MPEG-1
+[瑞芯微電子的影片處理晶片](https://zh.wikipedia.org/wiki/瑞芯微電子 "wikilink")「Rockchip」被引入至眾多MP4播放器，支援不含[B畫格](../Page/視訊壓縮圖像類型.md "wikilink")[Xvid解碼器的](../Page/Xvid.md "wikilink")[AVI影片](https://zh.wikipedia.org/wiki/AVI "wikilink")，並同時使用[MP2](https://zh.wikipedia.org/wiki/MP2 "wikilink")（MPEG-1
 Audio Layer II）音訊壓縮。\[3\]某些如Onda
-VX979+這類的播放器，使用[北京君正生產的晶片組可支援](../Page/北京君正.md "wikilink")[RealNetworks影片格式](../Page/RealNetworks.md "wikilink")。\[4\]使用[SigmaTel技術的播放器可以支援SMV](../Page/SigmaTel.md "wikilink")（SigmaTel影片）。
+VX979+這類的播放器，使用[北京君正生產的晶片組可支援](https://zh.wikipedia.org/wiki/北京君正 "wikilink")[RealNetworks影片格式](../Page/RealNetworks.md "wikilink")。\[4\]使用[SigmaTel技術的播放器可以支援SMV](https://zh.wikipedia.org/wiki/SigmaTel "wikilink")（SigmaTel影片）。
 
 ## AMV
 
 雖然這是MP4播放器的主要格式之一，但此格式的影像壓縮運算法則\[5\]以現代標準來看效率十分低落（每位元組4像素，而[MPEG-2 / DVD影片普遍超過](../Page/MPEG-2.md "wikilink")10像素）。解析度範圍為96
-× 96至208 × 176像素，[幀率為每秒](../Page/幀率.md "wikilink")12或16張，一部30分鐘解析度160 ×
-120像素的影片檔案大小大約100MB。\[6\]
+× 96至208 ×
+176像素，[幀率為每秒](https://zh.wikipedia.org/wiki/幀率 "wikilink")12或16張，一部30分鐘解析度160
+× 120像素的影片檔案大小大約100MB。\[6\]
 
 ## MTV
 
@@ -22,7 +23,7 @@ VX979+這類的播放器，使用[北京君正生產的晶片組可支援](../Pa
 
 ## 其它格式
 
-现在亦有大量MP4播放器支持[FLV](../Page/FLV.md "wikilink")、[WMV](../Page/WMV.md "wikilink")、[MPEG及](../Page/MPEG.md "wikilink")[RMVB等格式](../Page/RMVB.md "wikilink")。
+现在亦有大量MP4播放器支持[FLV](https://zh.wikipedia.org/wiki/FLV "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG及](../Page/MPEG.md "wikilink")[RMVB等格式](../Page/RMVB.md "wikilink")。
 
 ## 操作手冊
 

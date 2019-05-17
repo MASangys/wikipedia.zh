@@ -1,8 +1,8 @@
 [Armagetron.png](https://zh.wikipedia.org/wiki/File:Armagetron.png "fig:Armagetron.png")
 ***Armagetron
 Advanced***采用电影《[電子世界爭霸戰](../Page/電子世界爭霸戰.md "wikilink")》\[1\]的创意，支持
-[Mac OS X](../Page/Mac_OS_X.md "wikilink")，[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[Linux](../Page/Linux.md "wikilink")
+[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")
 and [OpenBSD](../Page/OpenBSD.md "wikilink")。
 
 ## 游戏基本
@@ -41,7 +41,7 @@ and [OpenBSD](../Page/OpenBSD.md "wikilink")。
 ## 另外
 
   - [GLtron](http://www.gltron.org/) - 一个类似的游戏但是没有联网功能
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

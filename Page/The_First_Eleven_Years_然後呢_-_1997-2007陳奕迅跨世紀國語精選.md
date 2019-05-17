@@ -1,9 +1,9 @@
 《**The First Eleven Years 然後呢 -
-1997-2007陳奕迅跨世紀國語精選**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2008年[國語](../Page/國語.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")，於2008年3月31日發行。
+1997-2007陳奕迅跨世紀國語精選**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2008年[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月31日發行。
 
 ## 專輯簡介
 
-這是陳奕迅加入[環球唱片後第一張](../Page/環球唱片.md "wikilink")[國語](../Page/國語.md "wikilink")[精選輯](../Page/精選輯.md "wikilink")，但當時陳奕迅經環球唱片出版的國語專輯只有兩張（《[怎麼樣](../Page/怎麼樣.md "wikilink")》及《[認了吧](../Page/認了吧.md "wikilink")》），連帶[粵語專輯](../Page/粵語.md "wikilink")《U87》附送的兩首國語歌曲，只有合共20首國語歌曲，推出國語精選輯根本是不夠數量。於是環球唱片特地購下了陳奕迅在[台灣的舊公司](../Page/台灣.md "wikilink")[艾迴及](../Page/艾迴.md "wikilink")[立得推出的國語歌曲的版權](../Page/立得.md "wikilink")，連同公司現有的國語歌曲，選出30首陳奕迅在10年內最令人難忘的國語歌曲，造成了這張「跨世紀」的國語精選輯。精選輯在台灣推出後反應非常理想，進佔台灣[G-music台灣風雲榜長達](../Page/G-music.md "wikilink")16週（12-27週），最高位置達第二位。
+這是陳奕迅加入[環球唱片後第一張](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，但當時陳奕迅經環球唱片出版的國語專輯只有兩張（《[怎麼樣](../Page/怎麼樣.md "wikilink")》及《[認了吧](../Page/認了吧.md "wikilink")》），連帶[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")《U87》附送的兩首國語歌曲，只有合共20首國語歌曲，推出國語精選輯根本是不夠數量。於是環球唱片特地購下了陳奕迅在[台灣的舊公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[艾迴及](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[立得推出的國語歌曲的版權](https://zh.wikipedia.org/wiki/立得 "wikilink")，連同公司現有的國語歌曲，選出30首陳奕迅在10年內最令人難忘的國語歌曲，造成了這張「跨世紀」的國語精選輯。精選輯在台灣推出後反應非常理想，進佔台灣[G-music台灣風雲榜長達](https://zh.wikipedia.org/wiki/G-music "wikilink")16週（12-27週），最高位置達第二位。
 
 ## 曲目
 
@@ -45,7 +45,7 @@
 
 ## 相關條目
 
-[G-music](../Page/G-music.md "wikilink")
+[G-music](https://zh.wikipedia.org/wiki/G-music "wikilink")
 
 [Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
 [Category:陳奕迅國語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅國語專輯 "wikilink")

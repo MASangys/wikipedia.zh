@@ -4,11 +4,12 @@ Zale所開發，後來被[Borland買下](../Page/Borland.md "wikilink")。當Bor
 
 這個軟體在1987-1988年期間，和Borland的[Turbo
 Pascal](../Page/Turbo_Pascal.md "wikilink") 4.0, [Turbo
-C](../Page/Turbo_C.md "wikilink") 1.0/1.5，與[Turbo
-Prolog](../Page/Turbo_Prolog.md "wikilink") 1.1相似，以"black
-screen"為特徵。到了1989年推出Turbo C 2.0, Turbo C++
+C](https://zh.wikipedia.org/wiki/Turbo_C "wikilink") 1.0/1.5，與[Turbo
+Prolog](https://zh.wikipedia.org/wiki/Turbo_Prolog "wikilink")
+1.1相似，以"black screen"為特徵。到了1989年推出Turbo C 2.0, Turbo C++
 1.1，……等時，Borland便不再沒有採取它註冊商標式的"blue screen"
-[IDE](../Page/集成开发环境.md "wikilink")。在這時，Turbo Basic與Turbo Prolog不再販賣。
+[IDE](../Page/集成开发环境.md "wikilink")。在這時，Turbo Basic與Turbo
+Prolog不再販賣。
 
 與這個時期的多數BASIC編輯器不同的是，Turbo
 BASIC是個完整的編譯器，能編譯出MS-DOS底下的原生程式碼。其它編輯器或許是直譯器，或者是大量依賴於執行函式庫。Turbo
@@ -22,7 +23,7 @@ BASIC。在Turbo Basic的IDE编辑环境中，甚至在Turbo Basic所编译出�
 ## 程式碼範例
 
 下面的程式例子是Turbo
-Basic所支援的類似[ALGOL之BASIC語法](../Page/ALGOL.md "wikilink")。與傳統使用行號的，而控制結構有限且不支援類似[ALGOL之副程式的BASIC程式語言不同的是](../Page/ALGOL.md "wikilink")，在這個時期出現的現代BASIC編輯器的功能擴充了，放棄了行號，加入了結構化程式設計所需的控制結構與副程式定義，使得這類語言符合現代的[結構化編程理論](../Page/結構化編程.md "wikilink")。
+Basic所支援的類似[ALGOL之BASIC語法](../Page/ALGOL.md "wikilink")。與傳統使用行號的，而控制結構有限且不支援類似[ALGOL之副程式的BASIC程式語言不同的是](../Page/ALGOL.md "wikilink")，在這個時期出現的現代BASIC編輯器的功能擴充了，放棄了行號，加入了結構化程式設計所需的控制結構與副程式定義，使得這類語言符合現代的[結構化編程理論](https://zh.wikipedia.org/wiki/結構化編程 "wikilink")。
 
 ``` qbasic
 INPUT "What is your name:", A$

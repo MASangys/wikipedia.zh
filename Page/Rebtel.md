@@ -1,4 +1,4 @@
-**Rebtel**是一家从事[网络电话](../Page/网络电话.md "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）业务的国际性[通信企业](../Page/通信企业.md "wikilink")，为有长时间国际长途通话需要的个人及企业提供的廉价甚至免费的[国际长途电话服务](../Page/国际长途电话.md "wikilink")。其所提供的国际长途电话服务无需对你现有的通讯方式进行修改或下载专用[软件](../Page/软件.md "wikilink")，适用于任何类型的[移动电话以及](../Page/移动电话.md "wikilink")[座机](../Page/座机.md "wikilink")。
+**Rebtel**是一家从事[网络电话](https://zh.wikipedia.org/wiki/网络电话 "wikilink")（[VoIP](../Page/VoIP.md "wikilink")）业务的国际性[通信企业](https://zh.wikipedia.org/wiki/通信企业 "wikilink")，为有长时间国际长途通话需要的个人及企业提供的廉价甚至免费的[国际长途电话服务](https://zh.wikipedia.org/wiki/国际长途电话 "wikilink")。其所提供的国际长途电话服务无需对你现有的通讯方式进行修改或下载专用[软件](../Page/软件.md "wikilink")，适用于任何类型的[移动电话以及](../Page/移动电话.md "wikilink")[座机](https://zh.wikipedia.org/wiki/座机 "wikilink")。
 
 ## 服務模式
 

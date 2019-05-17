@@ -2,21 +2,21 @@
 
 ## 內建模組
 
-[RSS](../Page/RSS.md "wikilink")／[Atom饋送閱讀器](../Page/Atom.md "wikilink")、天氣資訊、支援[iCal的月曆](../Page/iCal.md "wikilink")、書籤、多個網頁搜尋器、支援[POP3](../Page/POP3.md "wikilink")、[IMAP4](../Page/IMAP.md "wikilink")、數種[網頁郵件包括](../Page/Webmail.md "wikilink")[Hotmail](../Page/Hotmail.md "wikilink")、[Yahoo\!
-Mail](../Page/Yahoo!_Mail.md "wikilink")、[GMail等的郵件閱讀器](../Page/GMail.md "wikilink")、[Box.net網上儲存](../Page/Box.net.md "wikilink")、[del.icio.us](../Page/del.icio.us.md "wikilink")、[Meebo](../Page/Meebo.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、支援[Podcast的媒體播放器等](../Page/Podcast.md "wikilink")。
+[RSS](../Page/RSS.md "wikilink")／[Atom饋送閱讀器](https://zh.wikipedia.org/wiki/Atom "wikilink")、天氣資訊、支援[iCal的月曆](https://zh.wikipedia.org/wiki/iCal "wikilink")、書籤、多個網頁搜尋器、支援[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")、[IMAP4](https://zh.wikipedia.org/wiki/IMAP "wikilink")、數種[網頁郵件包括](../Page/Webmail.md "wikilink")[Hotmail](https://zh.wikipedia.org/wiki/Hotmail "wikilink")、[Yahoo\!
+Mail](../Page/Yahoo!_Mail.md "wikilink")、[GMail等的郵件閱讀器](https://zh.wikipedia.org/wiki/GMail "wikilink")、[Box.net網上儲存](https://zh.wikipedia.org/wiki/Box.net "wikilink")、[del.icio.us](https://zh.wikipedia.org/wiki/del.icio.us "wikilink")、[Meebo](../Page/Meebo.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、支援[Podcast的媒體播放器等](https://zh.wikipedia.org/wiki/Podcast "wikilink")。
 
 ## 生態系統
 
-用戶可以把個人化的頁籤、饋送、模組經Netvibes的[生態系統（Ecosystem）](http://eco.netvibes.com)與其他用戶分享。生態系統集合各用戶發送的頁籤、饋送、模組、[Podcast](../Page/Podcast.md "wikilink")、事件和「宇宙」。
+用戶可以把個人化的頁籤、饋送、模組經Netvibes的[生態系統（Ecosystem）](http://eco.netvibes.com)與其他用戶分享。生態系統集合各用戶發送的頁籤、饋送、模組、[Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")、事件和「宇宙」。
 
 ## 宇宙
 
-Netvibes的「宇宙」是可以讓所有人看見的個人化頁面，每個宇宙為了一個品牌、媒體等建立的，現時有的「宇宙」有[時代雜誌](../Page/時代雜誌.md "wikilink")、[Mandy
-Moore等](../Page/Mandy_Moore.md "wikilink")。在將來，每個用戶亦可設計自己的「宇宙」。
+Netvibes的「宇宙」是可以讓所有人看見的個人化頁面，每個宇宙為了一個品牌、媒體等建立的，現時有的「宇宙」有[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")、[Mandy
+Moore等](https://zh.wikipedia.org/wiki/Mandy_Moore "wikilink")。在將來，每個用戶亦可設計自己的「宇宙」。
 
 ## API
 
-早期Netvibes已經提供了一系列[API供用戶設計自己的模組](../Page/API.md "wikilink")；但現時Netvibes推出Universal
+早期Netvibes已經提供了一系列[API供用戶設計自己的模組](https://zh.wikipedia.org/wiki/API "wikilink")；但現時Netvibes推出Universal
 Widget API（通用模組API，UWA），用戶使用UWA寫出的模組除了可以用於Netvibes本身，亦可在其他平台。
 
 ## 獎項
@@ -27,8 +27,9 @@ Widget API（通用模組API，UWA），用戶使用UWA寫出的模組除了可�
 
 ## 參閱
 
-  - [iGoogle](../Page/iGoogle.md "wikilink") - Google與Netvibes性質相似的服務
-  - [Live.com](../Page/Live.com.md "wikilink")
+  - [iGoogle](https://zh.wikipedia.org/wiki/iGoogle "wikilink") -
+    Google與Netvibes性質相似的服務
+  - [Live.com](https://zh.wikipedia.org/wiki/Live.com "wikilink")
 
 ## 參考資料
 

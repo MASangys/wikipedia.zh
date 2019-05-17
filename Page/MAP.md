@@ -4,8 +4,8 @@
 
 ## 電腦
 
-  - [移动应用部分](../Page/移动应用部分.md "wikilink")（Mobile Application Part）,
-    一种手机网络协议
+  - [移动应用部分](https://zh.wikipedia.org/wiki/移动应用部分 "wikilink")（Mobile
+    Application Part）, 一种手机网络协议
 
   - Multiple Address and Port, a feature of  products
 
@@ -19,7 +19,7 @@
 
 ## 數學及程式
 
-  - [映射](../Page/映射.md "wikilink")（Map）
+  - [映射](https://zh.wikipedia.org/wiki/映射 "wikilink")（Map）
 
   - , used to apply a function to a list of values and return another
     list with the results
@@ -76,7 +76,7 @@
 
   - , an enzyme
 
-  - [威尔金森微波各向异性探测器](../Page/威尔金森微波各向异性探测器.md "wikilink")（Microwave
+  - [威尔金森微波各向异性探测器](https://zh.wikipedia.org/wiki/威尔金森微波各向异性探测器 "wikilink")（Microwave
     Anisotropy Probe）：an unmanned space mission
 
   - , in aviation
@@ -91,7 +91,7 @@
 
   - 《[愛探險的朵拉](../Page/愛探險的朵拉.md "wikilink")》中的其中一集。
 
-  - ，一個位於[加州的獨立樂團](../Page/加州.md "wikilink")。
+  - ，一個位於[加州的獨立樂團](https://zh.wikipedia.org/wiki/加州 "wikilink")。
 
 ## 其他用法
 
@@ -106,8 +106,8 @@
     for countries that are on their way to joining NATO
 
   - [Ministry of Aviation
-    Industry](../Page/Ministry_of_Aviation_Industry.md "wikilink"), a
-    former
+    Industry](https://zh.wikipedia.org/wiki/Ministry_of_Aviation_Industry "wikilink"),
+    a former
 
   -
   -

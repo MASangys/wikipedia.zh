@@ -5,9 +5,9 @@ Corp](https://web.archive.org/web/20081022130947/http://www.spatial.com.cn/)於1
 
   - 電腦輔助設計（[CAD](../Page/计算机辅助设计.md "wikilink")）
   - 電腦輔助製造（[CAM](../Page/计算机辅助制造.md "wikilink")）
-  - 電腦輔助工程分析（[CAE](../Page/计算机辅助工程.md "wikilink")）
-  - 電腦輔助建築設計（[AEC](../Page/AEC.md "wikilink")）
-  - 座標量測（[CMM](../Page/CMM.md "wikilink")）
+  - 電腦輔助工程分析（[CAE](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")）
+  - 電腦輔助建築設計（[AEC](https://zh.wikipedia.org/wiki/AEC "wikilink")）
+  - 座標量測（[CMM](https://zh.wikipedia.org/wiki/CMM "wikilink")）
   - 立體動畫
 
 ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++架構](../Page/C++.md "wikilink")。軟體開發者可以將ACIS整合在各自的軟體界面之中，開發出獨特的工程應用軟體。產業用戶使用這些應用軟體，來輔助產品設計、分析，加速產品開發程序。汽車、飛機、電氣、建築等等，適用範圍非常廣泛。
@@ -81,7 +81,7 @@ ACIS三維幾何造型組件軟體採用開放式、物件導向語言[C++架構
 <tbody>
 <tr class="odd">
 <td><p>實用三維實體建構方法</p>
-<p><code>架構線組成（</code><a href="../Page/Wireframe.md" title="wikilink"><code>Wireframe</code></a><code> construction）推出架構線建立實體（Extrusion）導角（Round/Fillet）空心（Hollow Body）差集（Boolean Subtract）</code></p></td>
+<p><code>架構線組成（</code><a href="https://zh.wikipedia.org/wiki/Wireframe" title="wikilink"><code>Wireframe</code></a><code> construction）推出架構線建立實體（Extrusion）導角（Round/Fillet）空心（Hollow Body）差集（Boolean Subtract）</code></p></td>
 <td></td>
 </tr>
 </tbody>

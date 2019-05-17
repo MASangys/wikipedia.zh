@@ -1,7 +1,7 @@
 《**Cross
-Romance**》（）是[日本物產株式會社](../Page/日本物產.md "wikilink")（[Nichibutsu](../Page/Nichibutsu.md "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega
-Saturn版](../Page/Sega_Saturn.md "wikilink")，1999年12月22日推出廉價版（2,800日幣）。此遊戲嘗試將戀愛、麻將、花札三個元素集結在一起，並主打14名豪華的聲優陣容。[Sega
-Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md "wikilink")18歲以上的年齡限制。
+Romance**》（）是[日本物產株式會社](https://zh.wikipedia.org/wiki/日本物產 "wikilink")（[Nichibutsu](https://zh.wikipedia.org/wiki/Nichibutsu "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega
+Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，1999年12月22日推出廉價版（2,800日幣）。此遊戲嘗試將戀愛、麻將、花札三個元素集結在一起，並主打14名豪華的聲優陣容。[Sega
+Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")18歲以上的年齡限制。
 
 ## 遊戲概要
 
@@ -44,7 +44,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md
     身高：166cm、體重：49kg
     本次大會的主辦者，桂商業集團的獨生女。自尊心和自我意識很強，討厭暴力，不過卻也認為沒有力量的男生是沒有價值的。對有著相同境遇的繪里香很在意，當她知道繪里香喜歡”庶民”主角時，感到很不可思議。
 
-**大久保 薰**（）聲：[長澤美樹](../Page/長澤美樹.md "wikilink")
+**大久保 薰**（）聲：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
 
   -
     私立西条學園高校2年級
@@ -59,7 +59,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md
     北海道地區的代表
     和主角在一起度過小學幼年的時期，後來因父母親工作因素而轉校。離開前，主角曾和她許過要再次一起玩麻將的約定。為了這約定她努力當上了北海道代表，而沒想到主角事後卻忘記了，所以對主角十分仇視。
 
-**近藤 茜**（）聲：[柊美冬](../Page/柊美冬.md "wikilink")
+**近藤 茜**（）聲：[柊美冬](https://zh.wikipedia.org/wiki/柊美冬 "wikilink")
 
   -
     縣立鏡璃高校3年級
@@ -91,7 +91,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md
     九州地區代表
     在這個時代像「[大和撫子](../Page/大和撫子.md "wikilink")」般的女孩子。九州的本家是歷史上世世代代神社的神主，就小就接受巫女的教育。擁有不可思議的力量，對占卜很拿手。
 
-**艾琳·哈里斯**（）聲：[佐佐木庸子](../Page/佐佐木庸子.md "wikilink")
+**艾琳·哈里斯**（）聲：[佐佐木庸子](https://zh.wikipedia.org/wiki/佐佐木庸子 "wikilink")
 
   -
     私立青葉丘學園高校3年級
@@ -137,7 +137,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md
   - 錄音編輯：宮崎朋彥
   - 主題曲製作人：室井浩太朗
   - 音樂監督：白石慶一
-  - 企劃／制作：[日本物產株式會社](../Page/日本物產株式會社.md "wikilink")
+  - 企劃／制作：[日本物產株式會社](https://zh.wikipedia.org/wiki/日本物產株式會社 "wikilink")
 
 ## 主題曲
 
@@ -154,7 +154,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](../Page/Sega_Saturn.md
 
 ## 相關
 
-  - [麻雀派對跟水著美女打幾圈](../Page/麻雀派對跟水著美女打幾圈.md "wikilink")
+  - [麻雀派對跟水著美女打幾圈](https://zh.wikipedia.org/wiki/麻雀派對跟水著美女打幾圈 "wikilink")
 
 ## 外部連結
 

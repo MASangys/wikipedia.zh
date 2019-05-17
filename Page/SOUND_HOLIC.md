@@ -1,11 +1,11 @@
 **SOUND
-HOLIC**是[日本的一個音樂](../Page/日本.md "wikilink")[同人組織](../Page/同人組織.md "wikilink")。愛稱「サンホリ」（Sanhori）。
+HOLIC**是[日本的一個音樂](../Page/日本.md "wikilink")[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。愛稱「サンホリ」（Sanhori）。
 
 ## 概要
 
 SOUND
-HOLIC以製作[東方Project的](../Page/東方Project.md "wikilink")[背景音樂改編CD為主](../Page/背景音樂.md "wikilink")。組織的管理人為**GUCCI**，現時包括歌手、作詞和作/編曲的成員約有10多人。SOUND
-HOLIC經常與另一組織「[月見堂](../Page/月見堂.md "wikilink")」合作，SOUND
+HOLIC以製作[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂改編CD為主](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")。組織的管理人為**GUCCI**，現時包括歌手、作詞和作/編曲的成員約有10多人。SOUND
+HOLIC經常與另一組織「[月見堂](https://zh.wikipedia.org/wiki/月見堂 "wikilink")」合作，SOUND
 HOLIC的作品插畫多數也是由月見堂擔任制作的。製作的樂曲除了有純音樂和日詞歌曲之外，還有不少都是全曲英文的歌曲。
 
 現時SOUND HOLIC有兩個衍生組織，分別是專門製作爵士樂的「SWING HOLIC」，以及以SOUND
@@ -32,9 +32,9 @@ HOLIC的人參加。
   -
 
       -
-        12月31日－推出[同人動畫](../Page/同人動畫.md "wikilink")「[TOHO PROJECT SIDE
-        STORY
-        星の記憶](../Page/TOHO_PROJECT_SIDE_STORY_星の記憶.md "wikilink")」。
+        12月31日－推出[同人動畫](https://zh.wikipedia.org/wiki/同人動畫 "wikilink")「[TOHO
+        PROJECT SIDE STORY
+        星の記憶](https://zh.wikipedia.org/wiki/TOHO_PROJECT_SIDE_STORY_星の記憶 "wikilink")」。
 
 <!-- end list -->
 
@@ -57,11 +57,11 @@ HOLIC的人參加。
   -
 
       -
-        4月1日－宣佈協助[unicorn-a的](../Page/unicorn-a.md "wikilink")[十八禁遊戲](../Page/十八禁遊戲.md "wikilink")「詩篇II～再誕のカタストロフ～」的全音樂制作\[1\]。其後再宣佈遊戲所有主題曲會由SOUND
-        HOLIC作曲，[高橋菜菜](../Page/高橋菜菜.md "wikilink")（Nana
+        4月1日－宣佈協助[unicorn-a的](https://zh.wikipedia.org/wiki/unicorn-a "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")「詩篇II～再誕のカタストロフ～」的全音樂制作\[1\]。其後再宣佈遊戲所有主題曲會由SOUND
+        HOLIC作曲，[高橋菜菜](https://zh.wikipedia.org/wiki/高橋菜菜 "wikilink")（Nana
         Takahashi）作詞及演唱\[2\]。遊戲於6月19日推出。
         5月24日－與另外兩個同人組織[Silver
-        Forest及](../Page/Silver_Forest.md "wikilink")[SYNC.ART'S舉辦](../Page/SYNC.ART'S.md "wikilink")「[Project.S 2nd
+        Forest及](../Page/Silver_Forest.md "wikilink")[SYNC.ART'S舉辦](https://zh.wikipedia.org/wiki/SYNC.ART'S "wikilink")「[Project.S 2nd
         stage](http://ameblo.jp/projects/)」活動。
         6月6日－參加同人音樂活動「[MEGAPEER](http://megapeer.net/)」。
         8月17日－參加C76第4日舉辦的活動「」。
@@ -93,9 +93,9 @@ HOLIC的人參加。
   - SDHC-005 **[SOUND HOLIC MEETS TOHO
     ～東方的幽幻奏曲集～](http://www.sound-holic.com/_c71.html)**（2006年12月31日，C71）
   - SDHC-006 **[SOUND HOLIC MEETS TOHO
-    ～東方的幽々舞踏劇～](http://www.sound-holic.com/_m3_2007s.html)**（2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
+    ～東方的幽々舞踏劇～](http://www.sound-holic.com/_m3_2007s.html)**（2007年4月29日，[M3](https://zh.wikipedia.org/wiki/M3 "wikilink")-2007春）
   - SDHC-007 **[SOUND HOLIC MEETS TOHO
-    ～東方的夢天幻奏典～](http://www.sound-holic.com/_rei_2007.html)**（2007年5月20日，第4回[博麗神社例大祭](../Page/東方Project#博麗神社例大祭.md "wikilink")）
+    ～東方的夢天幻奏典～](http://www.sound-holic.com/_rei_2007.html)**（2007年5月20日，第4回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）
   - SDHC-008 **[SOUND HOLIC MEETS TOHO
     ～東方的紅蓮烈火弾～](http://www.sound-holic.com/_c72.html)**（2007年8月17日，C72）
   - SDHC-009 **[風
@@ -105,7 +105,7 @@ HOLIC的人參加。
 
   -
     本專輯收錄曲「**平成河童大系**」在C75，由[TETLA
-    POT](http://tetlapot.net/)製作成[Flash動畫](../Page/Flash.md "wikilink")，收錄在另一同人組織「」的遊戲「東方籠奴抄」中。
+    POT](http://tetlapot.net/)製作成[Flash動畫](https://zh.wikipedia.org/wiki/Flash "wikilink")，收錄在另一同人組織「」的遊戲「東方籠奴抄」中。
 
 <!-- end list -->
 
@@ -129,7 +129,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    本專輯收錄曲「****」由月見堂製作成PV，首先於2009年2月27日上載到[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")\[3\]，PV再在5月5日「M3-2009春」修正BUG後，收錄在同人組織「」的DVD「東方咲月起」中。
+    本專輯收錄曲「****」由月見堂製作成PV，首先於2009年2月27日上載到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")\[3\]，PV再在5月5日「M3-2009春」修正BUG後，收錄在同人組織「」的DVD「東方咲月起」中。
     本專輯收錄曲「**Priere -プリエール-**」由月見堂製作成PV，收錄於SOUND HOLIC的DVD「東方PVD」中。
 
 <!-- end list -->
@@ -193,7 +193,8 @@ HOLIC的人參加。
 ### SWING HOLIC音樂CD
 
   - SWHC-001 **VOL.01**（2008年4月10日，[Sunshine
-    Creation](../Page/Sunshine_Creation.md "wikilink") 39）
+    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
+    39）
   - SWHC-002 **VOL.02**（2008年10月13日，M3-2008秋）
   - SWHC-003 **VOL.03**（2008年12月29日，C75）
   - SWHC-004 **VOL.04**（2009年6月21日，第一回東方崇敬祭）
@@ -228,8 +229,8 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    與「[月見堂](../Page/月見堂.md "wikilink")」合作、以東方Project為題材的[同人動畫](../Page/同人動畫.md "wikilink")，故事主要圍繞[月球人侵略](../Page/月球.md "wikilink")[幻想鄉](../Page/幻想鄉.md "wikilink")，永遠亭眾人與月球人首領對抗的情節。起用[植田佳奈](../Page/植田佳奈.md "wikilink")、[榊原由依等人配音](../Page/榊原由依.md "wikilink")，片頭曲、片尾曲分別由[Nana
-    Takahashi及榊原由依演唱](../Page/高橋菜菜.md "wikilink")。是最早的東方[二創動畫](../Page/二次創作.md "wikilink")\[4\]。
+    與「[月見堂](https://zh.wikipedia.org/wiki/月見堂 "wikilink")」合作、以東方Project為題材的[同人動畫](https://zh.wikipedia.org/wiki/同人動畫 "wikilink")，故事主要圍繞[月球人侵略](../Page/月球.md "wikilink")[幻想鄉](../Page/幻想鄉.md "wikilink")，永遠亭眾人與月球人首領對抗的情節。起用[植田佳奈](../Page/植田佳奈.md "wikilink")、[榊原由依等人配音](../Page/榊原由依.md "wikilink")，片頭曲、片尾曲分別由[Nana
+    Takahashi及榊原由依演唱](https://zh.wikipedia.org/wiki/高橋菜菜 "wikilink")。是最早的東方[二創動畫](../Page/二次創作.md "wikilink")\[4\]。
 
 <!-- end list -->
 
@@ -251,7 +252,7 @@ HOLIC的人參加。
 
   - 東方来夢来人（葉月ゆら，2009年8月15日，C76）
 
-  - （[とらのあな](../Page/虎之穴.md "wikilink")，2009年12月30日，C77）
+  - （[とらのあな](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")，2009年12月30日，C77）
 
   - ROKKENJIMA in LOVE（フロンティアワークス，2009年12月30日，C77）
 
@@ -261,7 +262,7 @@ HOLIC的人參加。
 
 #### 遊戲
 
-  - [十八禁遊戲](../Page/十八禁遊戲.md "wikilink")「**[詩篇II～再誕のカタストロフ～](../Page/詩篇II～再誕のカタストロフ～.md "wikilink")**」，[uricorn-a](../Page/uricorn-a.md "wikilink")（音樂）
+  - [十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")「**[詩篇II～再誕のカタストロフ～](https://zh.wikipedia.org/wiki/詩篇II～再誕のカタストロフ～ "wikilink")**」，[uricorn-a](https://zh.wikipedia.org/wiki/uricorn-a "wikilink")（音樂）
 
 ## 成員
 
@@ -278,14 +279,15 @@ HOLIC的人參加。
 
 #### 所屬歌手
 
-  - **Nana Takahashi**（[高橋菜々](../Page/高橋菜菜.md "wikilink")）
+  - **Nana
+    Takahashi**（[高橋菜々](https://zh.wikipedia.org/wiki/高橋菜菜 "wikilink")）
 
 <!-- end list -->
 
   -
     女性，在2007年M3-2007春的專輯「東方的幽々舞踏劇」初出現。在SOUND HOLIC內使用「Nana
     Takahashi」的名義，而在其他場合時則使用「高橋 菜々」的名義。
-    本身是一名作詞、作曲家，向不少的音樂家提供樂曲制作；另外還參與過不少[動畫音樂的製作](../Page/動畫主題曲.md "wikilink")。
+    本身是一名作詞、作曲家，向不少的音樂家提供樂曲制作；另外還參與過不少[動畫音樂的製作](https://zh.wikipedia.org/wiki/動畫主題曲 "wikilink")。
     聲優方面，曾經在SOUND HOLIC的同人動畫「星之記憶」中出演。
 
 <!-- end list -->
@@ -305,8 +307,8 @@ HOLIC的人參加。
 
   -
     女性，在2007年C73的專輯「風-KAZE-」初出現。除了有參與SOUND HOLIC外，亦是SOUND
-    HOLIC另一個以製作[爵士樂為主的組織](../Page/爵士樂.md "wikilink")「[SWING
-    HOLIC](../Page/SWING_HOLIC.md "wikilink")」的主要歌手。
+    HOLIC另一個以製作[爵士樂為主的組織](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")「[SWING
+    HOLIC](https://zh.wikipedia.org/wiki/SWING_HOLIC "wikilink")」的主要歌手。
 
 <!-- end list -->
 
@@ -333,7 +335,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    男性，在2008年C74的專輯「永-TOKOSHIE-」初出現。專門擔任[搖滾樂的演唱及編曲](../Page/搖滾樂.md "wikilink")。在2009年3月8日「第6回博麗神社例大祭」和同年10月11日「東方紅楼夢5」推出的搖滾樂專輯「Wind
+    男性，在2008年C74的專輯「永-TOKOSHIE-」初出現。專門擔任[搖滾樂的演唱及編曲](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")。在2009年3月8日「第6回博麗神社例大祭」和同年10月11日「東方紅楼夢5」推出的搖滾樂專輯「Wind
     Gazer」及「Phantom Dreamer」中，所有收錄歌曲都是由他親自編曲和演唱的。
 
 <!-- end list -->
@@ -371,9 +373,9 @@ HOLIC的人參加。
 
   -
     女性，在2006年C70的專輯「東方的幻想四撃蹴」初出現。自從2008年10月「[Sunshine
-    Creation](../Page/Sunshine_Creation.md "wikilink")
+    Creation](https://zh.wikipedia.org/wiki/Sunshine_Creation "wikilink")
     42」開始便轉為在另一組織「A-One」活動。
-    在2002年至2004年期間曾與另一[鋼琴家](../Page/鋼琴家.md "wikilink")[松本あすか組成名為](../Page/松本あすか.md "wikilink")「しほりとあすか」的團體。2006年時架設官方網站"[Shihori
+    在2002年至2004年期間曾與另一[鋼琴家](https://zh.wikipedia.org/wiki/鋼琴家 "wikilink")[松本あすか組成名為](https://zh.wikipedia.org/wiki/松本あすか "wikilink")「しほりとあすか」的團體。2006年時架設官方網站"[Shihori
     OFFICIAL
     WEBSITE](https://web.archive.org/web/20090814174055/http://shihori.com/index.html)"，定期發表[CM歌曲及音樂專輯](../Page/電視廣告.md "wikilink")，亦曾為收錄於[水樹奈奈的專輯](../Page/水樹奈奈.md "wikilink")[ULTIMATE
     DIAMOND的歌曲](../Page/ULTIMATE_DIAMOND.md "wikilink")「」作詞、作曲。
@@ -413,7 +415,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    女性，在2007年C73的專輯「風-KAZE-」初出現。主要擔任[敘事曲的演唱](../Page/敘事曲.md "wikilink")。現在也較多參與「A-One」的活動。
+    女性，在2007年C73的專輯「風-KAZE-」初出現。主要擔任[敘事曲的演唱](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")。現在也較多參與「A-One」的活動。
 
 #### 非所屬但有參加SOUND HOLIC的歌手
 
@@ -426,7 +428,8 @@ HOLIC的人參加。
 
 <!-- end list -->
 
-  - **Hitomi Harada**（[原田ひとみ](../Page/原田ひとみ.md "wikilink")）
+  - **Hitomi
+    Harada**（[原田ひとみ](https://zh.wikipedia.org/wiki/原田ひとみ "wikilink")）
 
 <!-- end list -->
 
@@ -471,7 +474,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    擅長搖滾風的編曲，也精於[硬搖滾](../Page/硬搖滾.md "wikilink")、[重金屬音樂等](../Page/重金屬音樂.md "wikilink")。
+    擅長搖滾風的編曲，也精於[硬搖滾](https://zh.wikipedia.org/wiki/硬搖滾 "wikilink")、[重金屬音樂等](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。
 
 <!-- end list -->
 
@@ -480,7 +483,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    擅長[POPS等類型編曲](../Page/POP_\(音樂類型\).md "wikilink")。
+    擅長[POPS等類型編曲](https://zh.wikipedia.org/wiki/POP_\(音樂類型\) "wikilink")。
 
 <!-- end list -->
 
@@ -505,7 +508,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    以製作[Eurobeat為主](../Page/歐陸節拍.md "wikilink")。2008年10月與另外兩名成員Yassie、Shihori組成另一同人組織「A-One」與SOUND
+    以製作[Eurobeat為主](https://zh.wikipedia.org/wiki/歐陸節拍 "wikilink")。2008年10月與另外兩名成員Yassie、Shihori組成另一同人組織「A-One」與SOUND
     HOLIC分開活動。
 
 <!-- end list -->
@@ -515,7 +518,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    主要製作[電波音樂](../Page/電波音樂.md "wikilink")。
+    主要製作[電波音樂](https://zh.wikipedia.org/wiki/電波音樂 "wikilink")。
 
 <!-- end list -->
 
@@ -542,7 +545,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    擅長[民族音樂風編曲](../Page/民族音樂.md "wikilink")。現在在「A-One」活動中。
+    擅長[民族音樂風編曲](https://zh.wikipedia.org/wiki/民族音樂 "wikilink")。現在在「A-One」活動中。
 
 <!-- end list -->
 
@@ -552,7 +555,7 @@ HOLIC的人參加。
 
   -
     SOUND
-    HOLIC初成立時已經參加，主要製作[trance音樂](../Page/搖頭風.md "wikilink")。現時為止最後一次參與製作的專輯是「紅
+    HOLIC初成立時已經參加，主要製作[trance音樂](https://zh.wikipedia.org/wiki/搖頭風 "wikilink")。現時為止最後一次參與製作的專輯是「紅
     -KURENAI-」。
 
 <!-- end list -->
@@ -572,7 +575,8 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    擅長[硬搖滾編曲](../Page/硬搖滾.md "wikilink")。現時為止最後一次參與製作的專輯是「紅 -KURENAI-」。
+    擅長[硬搖滾編曲](https://zh.wikipedia.org/wiki/硬搖滾 "wikilink")。現時為止最後一次參與製作的專輯是「紅
+    -KURENAI-」。
 
 <!-- end list -->
 
@@ -662,7 +666,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    主要使用[結他伴奏](../Page/結他.md "wikilink")。
+    主要使用[結他伴奏](https://zh.wikipedia.org/wiki/結他 "wikilink")。
 
 <!-- end list -->
 
@@ -671,7 +675,7 @@ HOLIC的人參加。
 <!-- end list -->
 
   -
-    主要使用[結他伴奏](../Page/結他.md "wikilink")。
+    主要使用[結他伴奏](https://zh.wikipedia.org/wiki/結他 "wikilink")。
 
 <!-- end list -->
 

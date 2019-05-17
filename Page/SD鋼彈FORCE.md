@@ -1,5 +1,5 @@
 《**SD GUNDAM FORCE**》（**Superior Defender Gundam
-Force**）是從2004年1月7日起到2004年12月29日為止在[東京電視台播放的](../Page/東京電視台.md "wikilink")[電視動畫](../Page/電視動畫.md "wikilink")。
+Force**）是從2004年1月7日起到2004年12月29日為止在[東京電視台播放的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 故事簡介
 
@@ -85,7 +85,7 @@ Gundam)（キャプテンガンダム、[聲優](../Page/聲優.md "wikilink")�
   -
     選項Z可以作為背包裝備於超級高達隊長，但前提為隊長必須捨棄已有作戰背包。裝備選項Z的超級高達隊長在火力、機動性上有飛躍的提昇。
 
-**飛鷹高達**(GunEagle)([聲優](../Page/聲優.md "wikilink")：[浪川大輔](../Page/浪川大輔.md "wikilink")／香港：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+**飛鷹高達**(GunEagle)([聲優](../Page/聲優.md "wikilink")：[浪川大輔](../Page/浪川大輔.md "wikilink")／香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
   -
     S.D.G.高達軍團成員，空戰能手。最初看不起來自異世界的零及爆熱丸，後來在危機中，獲得零幫助，才重對其重新改觀，飛鷹高達亦於對總司令一役作為援軍第二梯隊出現。
@@ -114,14 +114,14 @@ Gundam)（キャプテンガンダム、[聲優](../Page/聲優.md "wikilink")�
 <!-- end list -->
 
   -
-    原型為「[SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")」海戰隊成員「靈格斯」（[Re-GZ](../Page/Re-GZ.md "wikilink")），但名稱則沿用另一角色、海軍隊長「GunDiver」。
+    原型為「[SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")」海戰隊成員「靈格斯」（[Re-GZ](https://zh.wikipedia.org/wiki/Re-GZ "wikilink")），但名稱則沿用另一角色、海軍隊長「GunDiver」。
 
 **高達直昇機**(GunCopper)
 
   -
     由潛水大炮改裝而成，可以作七為一體的空中攻擊。配備4管格林機槍及導彈作主要武器，高達直昇機亦於對總司令一役作為援軍第二梯隊出現。
 
-**高達戰車**(GunBake)([聲優](../Page/聲優.md "wikilink")：[柳沢栄治](../Page/柳沢栄治.md "wikilink")／香港：[鄧榮銾](../Page/鄧榮銾.md "wikilink")）
+**高達戰車**(GunBake)([聲優](../Page/聲優.md "wikilink")：[柳沢栄治](https://zh.wikipedia.org/wiki/柳沢栄治 "wikilink")／香港：[鄧榮銾](../Page/鄧榮銾.md "wikilink")）
 
   -
     S.D.G.高達軍團成員，高達戰車為加入了為高達隊長提供戰鬥訓練的機械教官A.Ⅰ.的電單車型機械人。配備SV導彈作主要武器。
@@ -176,7 +176,7 @@ Gundam)（キャプテンガンダム、[聲優](../Page/聲優.md "wikilink")�
 異世界、人類與MS共存的地方，有著魔法、騎士等存在。
 
 **翼之騎士．零式**(Zero The Winged
-Knight)（翼の騎士ゼロ、聲優：[齋賀觀月](../Page/齋賀觀月.md "wikilink")／香港：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+Knight)（翼の騎士ゼロ、聲優：[齋賀觀月](https://zh.wikipedia.org/wiki/齋賀觀月 "wikilink")／香港：[袁淑珍](../Page/袁淑珍.md "wikilink")）
 
   -
     拉古羅亞出身的騎士，拉古羅亞親衛隊成員之一，為找出解除石化的方法而被五賢人及莉莉公主送到新托比亞。其武器為維特利斯聖劍及英皇聖盾。
@@ -211,7 +211,7 @@ Knight)（翼の騎士ゼロ、聲優：[齋賀觀月](../Page/齋賀觀月.md "
         必殺技為「無限之翼」。
 
 **闇之騎士．地獄死神**(Deathscythe The Knight of Darkness)
-(聲優：[伊藤健太郎](../Page/伊藤健太郎.md "wikilink")／香港：[潘文柏](../Page/潘文柏.md "wikilink")）
+(聲優：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")／香港：[潘文柏](../Page/潘文柏.md "wikilink")）
 
   -
     是為事件的幕後黑手，拉古羅亞親衛隊成員之一。為了得到莉莉公主，便將暗黑亞古捷斯引到拉古羅亞，背叛拉古羅亞親衛隊，成為暗黑亞古捷斯的幹部之一。及後假裝成幻影，操縱多魯基斯。為了變成人類及解除莉莉公主的石化，捕捉了寒冰龍及白色巴古巴古。
@@ -260,7 +260,7 @@ Epyon)(聲優：[楠大典](../Page/楠大典.md "wikilink")）
   -
     最后被寒冰龍與零式的合體-銀翼之騎士．零式改摧毁。
 
-**莉莉公主**(聲優：[松来未祐](../Page/松来未祐.md "wikilink")）
+**莉莉公主**(聲優：[松来未祐](https://zh.wikipedia.org/wiki/松来未祐 "wikilink")）
 
   -
     拉古羅亞王國王位首席繼承者，全名為莉莉芝瑪娜.美也.多.拉古羅亞。其任性程度，連零式都無法應付。
@@ -277,7 +277,7 @@ Epyon)(聲優：[楠大典](../Page/楠大典.md "wikilink")）
 原型來自「SD戰國傳」同名國家，一般會視本作的天宮，與原版是平行世界。
 
 **爆熱丸/爆心丸**(Shining Gundam/God Gundam
-聲優：[千葉進歩](../Page/千葉進歩.md "wikilink")／香港：[蘇強文](../Page/蘇強文.md "wikilink")）
+聲優：[千葉進歩](https://zh.wikipedia.org/wiki/千葉進歩 "wikilink")／香港：[蘇強文](../Page/蘇強文.md "wikilink")）
 
   -
     武里天丸的徒弟，使用雙刀流的熱血武者，與騎士飛翼是一對歡喜寃家，有一匹戰馬名為「炎天丸」。
@@ -315,7 +315,7 @@ Gundam)（聲優：[小杉十郎太](../Page/小杉十郎太.md "wikilink")）
 騎馬王丸的軍團。
 
 **騎馬王丸**(GF13-002NGR Zeus
-Gundam)（聲優：[田中正彦](../Page/田中正彦.md "wikilink")／香港：[黃健強](../Page/黃健強.md "wikilink")）
+Gundam)（聲優：[田中正彦](https://zh.wikipedia.org/wiki/田中正彦 "wikilink")／香港：[黃健強](../Page/黃健強.md "wikilink")）
 
   -
     暗黑亞古捷斯的幹部之一(之後退出)。騎馬家的頭領，密謀吞併天宮之國，為求達到目的，決定與暗黑亞古捷斯聯手，並四出尋找啟動傳說巨神「機動武神大神將」，以達成其野心。敗於爆心丸後，知道大勢已去。被阿修告之元氣丸為自己的獨子後，阿修把元氣丸帶來其面前，二人對話後和解。在自護總司令降臨時，決意背離暗黑亞古捷斯，並向眾人道出自護總司令和加貝拉博士的目的，與眾人共同對抗暗黑亞古捷斯。
@@ -331,7 +331,7 @@ Gundam)（聲優：[田中正彦](../Page/田中正彦.md "wikilink")／香港�
 
       -
         **東方不敗．爆霸丸**(GF13-001NHII Master
-        Gundam)（聲優：[小村哲生](../Page/小村哲生.md "wikilink")）
+        Gundam)（聲優：[小村哲生](https://zh.wikipedia.org/wiki/小村哲生 "wikilink")）
           -
             騎馬王眾的首領，為騎馬王丸的左右手。主要使用的武器是槌子。認為爆熱丸很弱，很看不起他。必殺技是「醉舞爆霸槌擊」。
 
@@ -372,7 +372,7 @@ Gundam)（聲優：[田中正彦](../Page/田中正彦.md "wikilink")／香港�
     騎馬王丸的手下。原名「孔雀丸」，是爆熱丸的師弟，在一次被爆熱丸打敗後，因感到受辱，被騎馬王丸利用，決意要向爆熱丸復仇。
 
 **虛武羅丸**、**虛武羅忍群**(GF13-030NIN Cobra Gundam
-聲優：[梁田清之](../Page/梁田清之.md "wikilink")(虛武羅丸)、[加瀬康之](../Page/加瀬康之.md "wikilink")(虛武羅忍群)／香港：[李致林](../Page/李致林.md "wikilink")(虛武羅丸)
+聲優：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")(虛武羅丸)、[加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink")(虛武羅忍群)／香港：[李致林](../Page/李致林.md "wikilink")(虛武羅丸)
 
   -
     騎馬王丸的手下，會使用忍術。其中虛武羅忍群的首領(紫色鎧甲的虛武羅丸)，號稱攻城必破，因多次失手而不被騎馬王丸重視，被元氣丸所救，轉而幫助元氣丸。
@@ -415,7 +415,7 @@ Gundam)（聲優：[田中正彦](../Page/田中正彦.md "wikilink")／香港�
   -
 
       -
-        灰色德卡(聲優：[中嶋聰彥](../Page/中嶋聰彥.md "wikilink"))
+        灰色德卡(聲優：[中嶋聰彥](https://zh.wikipedia.org/wiki/中嶋聰彥 "wikilink"))
 
 <!-- end list -->
 
@@ -466,17 +466,17 @@ Gundam)（聲優：[田中正彦](../Page/田中正彦.md "wikilink")／香港�
       -
         擋在爆熱丸和翼之騎士．零式面前，最後被翼之騎士．零式擊破。
 
-**先鋒渣古**(聲優：[柳沢栄治](../Page/柳沢栄治.md "wikilink")／香港：[梁志達](../Page/梁志達.md "wikilink")）
+**先鋒渣古**(聲優：[柳沢栄治](https://zh.wikipedia.org/wiki/柳沢栄治 "wikilink")／香港：[梁志達](../Page/梁志達.md "wikilink")）
 
   -
     原型角色是「[SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")」中的同名角色。
 
-**戰鬥老虎**(聲優：[岩尾万太郎](../Page/岩尾万太郎.md "wikilink"))
+**戰鬥老虎**(聲優：[岩尾万太郎](https://zh.wikipedia.org/wiki/岩尾万太郎 "wikilink"))
 
   -
     原型角色是「[SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")」中的同名角色。
 
-**毀滅大魔**(聲優：[松本大](../Page/松本大.md "wikilink")／香港：[林保全](../Page/林保全.md "wikilink")）
+**毀滅大魔**(聲優：[松本大](https://zh.wikipedia.org/wiki/松本大 "wikilink")／香港：[林保全](../Page/林保全.md "wikilink")）
 
   -
     原型角色是「[SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")」中的同名角色。

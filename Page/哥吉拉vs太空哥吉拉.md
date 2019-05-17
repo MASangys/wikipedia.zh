@@ -1,4 +1,4 @@
-《**哥吉拉vs太空哥吉拉**》（日文原名：**ゴジラvsスペースゴジラ**）是1994年12月10日上映的[日本](../Page/日本.md "wikilink")[電影](../Page/電影.md "wikilink")，[哥吉拉系列電影的第](../Page/哥吉拉系列電影.md "wikilink")21部作品，日本觀眾人數達到340萬人，票房約33億，片商實盈收入16億5000萬日圓。
+《**哥吉拉vs太空哥吉拉**》（日文原名：**ゴジラvsスペースゴジラ**）是1994年12月10日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")21部作品，日本觀眾人數達到340萬人，票房約33億，片商實盈收入16億5000萬日圓。
 
 ## 劇情概要
 
@@ -12,39 +12,39 @@
 
 ## 登場怪獸
 
-  - [哥吉拉](../Page/哥吉拉.md "wikilink")
-  - [小哥吉拉](../Page/哥斯拉二世.md "wikilink")
-  - [太空哥吉拉](../Page/太空哥吉拉.md "wikilink")
-  - [MOGERA](../Page/摩傑拉.md "wikilink")
+  - [哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")
+  - [小哥吉拉](https://zh.wikipedia.org/wiki/哥斯拉二世 "wikilink")
+  - [太空哥吉拉](https://zh.wikipedia.org/wiki/太空哥吉拉 "wikilink")
+  - [MOGERA](https://zh.wikipedia.org/wiki/摩傑拉 "wikilink")
   - [菲亞利摩斯拉](../Page/摩斯拉.md "wikilink")
 
 ## 演員
 
-  - 新城功二（G-Force隊員）：[橋爪淳](../Page/橋爪淳.md "wikilink")
-  - 佐藤清志（G-Force隊員）：[米山善吉](../Page/米山善吉.md "wikilink")
+  - 新城功二（G-Force隊員）：[橋爪淳](https://zh.wikipedia.org/wiki/橋爪淳 "wikilink")
+  - 佐藤清志（G-Force隊員）：[米山善吉](https://zh.wikipedia.org/wiki/米山善吉 "wikilink")
   - 三枝未希（G研究所心靈感應中心主任）：[小高惠美](../Page/小高惠美.md "wikilink")
-  - 權藤千夏（G研究所生物工學教授、《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》裡陣亡的權藤上校之妹）：[吉川十和子](../Page/吉川十和子.md "wikilink")
-  - 大久保晉（G對策協議會進化生物學博士）：[齊藤洋介](../Page/齊藤洋介.md "wikilink")
-  - 結城晃（G-Force特殊隊員）：[柄本明](../Page/柄本明.md "wikilink")
-  - 麻生孝昭（G-Force司令官）：[中尾彬](../Page/中尾彬.md "wikilink")
-  - 兵藤巖（G-Force兵器開發主任）：[上田耕一](../Page/上田耕一.md "wikilink")
-  - Cosmos：[今村惠子](../Page/今村惠子.md "wikilink")、[大澤さやか](../Page/大澤さやか.md "wikilink")
+  - 權藤千夏（G研究所生物工學教授、《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》裡陣亡的權藤上校之妹）：[吉川十和子](https://zh.wikipedia.org/wiki/吉川十和子 "wikilink")
+  - 大久保晉（G對策協議會進化生物學博士）：[齊藤洋介](https://zh.wikipedia.org/wiki/齊藤洋介 "wikilink")
+  - 結城晃（G-Force特殊隊員）：[柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")
+  - 麻生孝昭（G-Force司令官）：[中尾彬](https://zh.wikipedia.org/wiki/中尾彬 "wikilink")
+  - 兵藤巖（G-Force兵器開發主任）：[上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")
+  - Cosmos：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")
   - 福岡的警官：奈須真司
   - 札幌的上班族（課長）：小堺一機
   - 札幌的上班族：松村邦洋
-  - 哥吉拉：[薩摩劍八郎](../Page/薩摩劍八郎.md "wikilink")
+  - 哥吉拉：[薩摩劍八郎](https://zh.wikipedia.org/wiki/薩摩劍八郎 "wikilink")
   - 太空哥吉拉：播谷亮
   - MOGERA：福田亘
 
 ## 製作人員
 
   - 製作總指揮：[田中友幸](../Page/田中友幸.md "wikilink")
-  - 編劇：[柏原寬司](../Page/柏原寬司.md "wikilink")
-  - 音樂：[服部隆之](../Page/服部隆之.md "wikilink")
+  - 編劇：[柏原寬司](https://zh.wikipedia.org/wiki/柏原寬司 "wikilink")
+  - 音樂：[服部隆之](https://zh.wikipedia.org/wiki/服部隆之 "wikilink")
   - 哥吉拉主題曲：[伊福部昭](../Page/伊福部昭.md "wikilink")
-  - 執行製作：[富山省吾](../Page/富山省吾.md "wikilink")
+  - 執行製作：[富山省吾](https://zh.wikipedia.org/wiki/富山省吾 "wikilink")
   - 特技導演：[川北紘一](../Page/川北紘一.md "wikilink")
-  - 導演：[山下賢章](../Page/山下賢章.md "wikilink")
+  - 導演：[山下賢章](https://zh.wikipedia.org/wiki/山下賢章 "wikilink")
 
 [Category:Godzilla](https://zh.wikipedia.org/wiki/Category:Godzilla "wikilink")
 [Category:Mothra](https://zh.wikipedia.org/wiki/Category:Mothra "wikilink")

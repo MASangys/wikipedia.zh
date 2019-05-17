@@ -53,7 +53,8 @@
 |- |colspan="3" style="text-align:center;"|**佳能 "长焦" 消费数码相机** |-
 
 [en:Canon PowerShot S5
-IS](../Page/en:Canon_PowerShot_S5_IS.md "wikilink") [pl:Canon PowerShot
-S5 IS](../Page/pl:Canon_PowerShot_S5_IS.md "wikilink")
+IS](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_S5_IS "wikilink")
+[pl:Canon PowerShot S5
+IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_S5_IS "wikilink")
 
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

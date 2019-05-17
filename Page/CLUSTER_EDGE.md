@@ -1,5 +1,5 @@
 《**CLUSTER
-EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，由[日昇動畫公司發行](../Page/日昇動畫.md "wikilink")。
+EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫公司發行](../Page/日昇動畫.md "wikilink")。
 
 ## 故事簡介
 
@@ -70,12 +70,12 @@ EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](../
 <!-- end list -->
 
   - 艾瑪塔伊特·穆拉斯柏庫〔Hematite
-    Ramsbeckite---聲優cv：[木內秀信](../Page/木內秀信.md "wikilink")〕
+    Ramsbeckite---聲優cv：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")〕
     23歲，性格懦弱膽小，原和卡魯斯是同一年級的學生，現在擔任CLUSTER學院的教師，家裡是通過制造人造戰士發家的軍火開發商。
 
 <!-- end list -->
 
-  - 貝斯比安〔聲優cv：[齋賀觀月](../Page/齋賀觀月.md "wikilink")〕
+  - 貝斯比安〔聲優cv：[齋賀觀月](https://zh.wikipedia.org/wiki/齋賀觀月 "wikilink")〕
     23歲，性格好勝、不擇手段、腹黑，視卡魯斯為目標一直都贏不了卡魯斯，表面上十分討厭卡魯斯但其實十分喜歡卡魯斯，但漸漸陷入嫉妒與憎恨的旋渦，最終失去自我。在軍隊出人頭地，在軍隊有權力，在碼頭一戰失去自我把卡魯斯擊毀，親手殺死卡魯斯；對阿加特的力量非常感興趣，欲把其力量佔為己有，把人類的嫉妒與仇恨等負面感情灌輸給阿加特，使其成為真正的人類令‘毀滅之神’的力量完全甦醒過來，非常滿足能替卡魯斯令阿加特變成完整的人類，因為‘毀滅之神’的力量衝擊使其下半身癱瘓。在劇終時與艾瑪於卡魯斯墓前懺悔……
 
 ## OVA
@@ -89,7 +89,8 @@ EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](../
 
   - 片頭曲
 
-:; 「[FLY HIGH](../Page/FLY_HIGH_\(SURFACE單曲\).md "wikilink")」（第1話－第14話）
+:; 「[FLY
+HIGH](https://zh.wikipedia.org/wiki/FLY_HIGH_\(SURFACE單曲\) "wikilink")」（第1話－第14話）
 
 :: 作詞：，作曲、編曲：椎名慶治、永谷喬夫，主唱：
 

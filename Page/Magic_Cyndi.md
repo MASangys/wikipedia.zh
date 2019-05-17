@@ -1,5 +1,5 @@
 《**Magic
-Cyndi**》[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌的第五張](../Page/王心凌.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")。共有兩版，一版為Magic
+Cyndi**》[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌的第五張](../Page/王心凌.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。共有兩版，一版為Magic
 Cyndi，於2007年4月30日正式發行。「Magic
 Cyndi」，共有10首歌以及加贈純真輕熟豪華尺寸寫真海報。預購附送粉红爱神与酷黑精灵双封面歌词写真。一版為「Magic
 Cyndi（衣櫥的秘密冠軍影音CD+DVD）」，在2007年6月2日發行。王心凌在此專輯中首次作曲「衣櫥的秘密」。
@@ -24,7 +24,7 @@ Cyndi（衣櫥的秘密冠軍影音CD+DVD）」，在2007年6月2日發行。王
 <tbody>
 <tr class="odd">
 <td><p>愛的天靈靈</p></td>
-<td><p><a href="../Page/賴偉康.md" title="wikilink">賴偉康</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賴偉康" title="wikilink">賴偉康</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -34,7 +34,7 @@ Cyndi（衣櫥的秘密冠軍影音CD+DVD）」，在2007年6月2日發行。王
 </tr>
 <tr class="odd">
 <td><p>原來這才是真的你</p></td>
-<td><p><a href="../Page/林錦和.md" title="wikilink">林錦和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林錦和" title="wikilink">林錦和</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -45,7 +45,7 @@ Cyndi（衣櫥的秘密冠軍影音CD+DVD）」，在2007年6月2日發行。王
 <tr class="odd">
 <td><p>蝴蝶</p></td>
 <td><p>賴偉康<br />
-<a href="../Page/周小民.md" title="wikilink">周小民</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/周小民" title="wikilink">周小民</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

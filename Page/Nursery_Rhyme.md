@@ -1,5 +1,5 @@
 是[日本](../Page/日本.md "wikilink")[Lump of
-Sugar公司於](../Page/Lump_of_Sugar.md "wikilink")2005年11月25日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Lump
+Sugar公司於](../Page/Lump_of_Sugar.md "wikilink")2005年11月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Lump
 of Sugar的第一部作品。\[1\]
 
 ## 概要
@@ -18,20 +18,20 @@ game）作為遊戲的類型\[3\]。
 ### 主要角色
 
   -
-    聲：[中村俊洋](../Page/中村俊洋.md "wikilink")（廣播劇CD）
+    聲：[中村俊洋](https://zh.wikipedia.org/wiki/中村俊洋 "wikilink")（廣播劇CD）
     本作的主人公，的男生，成績優秀及忠厚老實的少年。
   -
-    聲：[金田真晝](../Page/金田真晝.md "wikilink")
+    聲：[金田真晝](https://zh.wikipedia.org/wiki/金田真晝 "wikilink")
     將星學園體育系1年E班的女生，種族是，性格開朗。魔法球的體育活動的運動員。很擅長運動，但是不擅長學習和家務事。
   -
     聲：[松永雪希](../Page/松永雪希.md "wikilink")
     真紀奈的[雙胞胎姐姐](../Page/雙胞胎.md "wikilink")，學園普通系1年A班，靜真的同班同學。和真紀奈相反，性格老實及善於烹調。愛好是[園藝](../Page/园艺.md "wikilink")。
   -
-    聲：[吉川華生](../Page/吉川華生.md "wikilink")（遊戲）/[櫻庭若菜](../Page/櫻庭若菜.md "wikilink")（廣播劇CD）
+    聲：[吉川華生](https://zh.wikipedia.org/wiki/吉川華生 "wikilink")（遊戲）/[櫻庭若菜](https://zh.wikipedia.org/wiki/櫻庭若菜 "wikilink")（廣播劇CD）
     人類的少女，靜真的同班班長。巴家的鄰人，又是巴姐妹的[青梅竹馬](../Page/青梅竹馬.md "wikilink")。父親是大財團「Brandt
     Corporation」的[總經理](../Page/总经理.md "wikilink")。文武雙全，[傲嬌](../Page/傲嬌.md "wikilink")。
   -
-    聲：[西田小麥](../Page/西田小麥.md "wikilink")
+    聲：[西田小麥](https://zh.wikipedia.org/wiki/西田小麥 "wikilink")
     的天才少女，將星學園魔法系2年G班。愛好是讀書，沉默寡言。
   -
     聲：[松田理沙](../Page/松田理沙.md "wikilink")
@@ -43,16 +43,16 @@ game）作為遊戲的類型\[3\]。
     聲：[松永雪希](../Page/松永雪希.md "wikilink")
     真紀奈和有希奈的母親，[寡婦](../Page/寡妇.md "wikilink")。靜真和Krile和凛奇宿在巴家裡。
   -
-    聲：[水鏡](../Page/水鏡_\(配音員\).md "wikilink")
+    聲：[水鏡](https://zh.wikipedia.org/wiki/水鏡_\(配音員\) "wikilink")
     絨布黑貓，Krile的朋友。能說語言（但是刻薄話）。
   -
     聲：[神村比奈](../Page/神村比奈.md "wikilink")
     人類的女生，將星學園普通系2年級，Krile的親密朋友。與Krile一樣，喜歡看書。
   -
-    聲：[西田小麥](../Page/西田小麥.md "wikilink")
+    聲：[西田小麥](https://zh.wikipedia.org/wiki/西田小麥 "wikilink")
     獸耳種族的女生，真紀奈的同班同學，屬於索菲羅斯部。與真紀奈一樣，性格開朗。
   -
-    聲：[石川大介](../Page/石川大介.md "wikilink")
+    聲：[石川大介](https://zh.wikipedia.org/wiki/石川大介 "wikilink")
     耳長種族的男生，靜真的朋友。學園體育系1年E班，真紀奈的同班同學，屬於[足球部](../Page/足球.md "wikilink")。喜歡勾引少女。
   -
     聲：[中村悠一](../Page/中村悠一.md "wikilink")
@@ -64,7 +64,7 @@ game）作為遊戲的類型\[3\]。
 
   - [原畫](../Page/原画.md "wikilink")、[人物設計](../Page/人物設計.md "wikilink")：[萌木原文武](../Page/萌木原文武.md "wikilink")
   - [腳本](../Page/剧本.md "wikilink")：-{澁澤晴明}-、大三元、高島榮二、秋史恭
-  - [音樂](../Page/音樂.md "wikilink")：[ave;new](../Page/ave;new.md "wikilink")
+  - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")：[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")
   - [主題曲](../Page/主題曲.md "wikilink")[歌手](../Page/歌手.md "wikilink")：[佐倉紗織](../Page/佐倉紗織.md "wikilink")
       - 片頭曲「[true my heart](../Page/True_My_Heart.md "wikilink")」
       - 片尾曲「Dearness」

@@ -6,8 +6,8 @@ RFC 2616 规范定义的，并得到 RFC 2518、RFC 2817、RFC 2295、RFC 2774 �
 HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网号码分配局.md "wikilink")（Internet
 Assigned Numbers Authority）维护。\[2\]
 
-微软[互联网信息服务](../Page/互联网信息服务.md "wikilink") （Microsoft Internet
-Information
+微软[互联网信息服务](https://zh.wikipedia.org/wiki/互联网信息服务 "wikilink") （Microsoft
+Internet Information
 Services）有时会使用额外的十进制子代码来获取更多具体信息，\[3\]但是这些子代码仅出现在响应有效内容和文档中，而不是代替实际的HTTP状态代码。
 
 ## 1xx消息
@@ -23,11 +23,13 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
   - 101 Switching Protocols
     服务器已经理解了客户端的请求，并将通过Upgrade消息头通知客户端采用不同的协议来完成这个请求。在发送完这个响应最后的空行后，服务器将会切换到在Upgrade消息头中定义的那些协议。\[6\]
-    只有在切换新的协议更有好处的时候才应该采取类似措施。例如，切换到新的HTTP版本（如[HTTP/2](../Page/HTTP/2.md "wikilink")）比旧版本更有优势，或者切换到一个实时且同步的协议（如[WebSocket](../Page/WebSocket.md "wikilink")）以传送利用此类特性的资源。
+    只有在切换新的协议更有好处的时候才应该采取类似措施。例如，切换到新的HTTP版本（如[HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")）比旧版本更有优势，或者切换到一个实时且同步的协议（如[WebSocket](../Page/WebSocket.md "wikilink")）以传送利用此类特性的资源。
 
 <!-- end list -->
 
-  - 102 Processing（[WebDAV](../Page/WebDAV.md "wikilink")；RFC 2518）
+  - 102
+    Processing（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
+    2518）
     WebDAV请求可能包含许多涉及文件操作的子请求，需要很长时间才能完成请求。该代码表示​​服务器已经收到并正在处理请求，但无响应可用。\[7\]这样可以防止客户端超时，并假设请求丢失。
 
 ## 2xx成功
@@ -40,8 +42,8 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 201 Created
-    请求已经被实现，而且有一个新的资源已经依据请求的需要而建立，且其[URI已经随Location头信息返回](../Page/URI.md "wikilink")。假如需要的资源无法及时建立的话，应当返回'[202
-    Accepted](../Page/#202.md "wikilink")'。\[10\]
+    请求已经被实现，而且有一个新的资源已经依据请求的需要而建立，且其[URI已经随Location头信息返回](https://zh.wikipedia.org/wiki/URI "wikilink")。假如需要的资源无法及时建立的话，应当返回'[202
+    Accepted](https://zh.wikipedia.org/wiki/#202 "wikilink")'。\[10\]
 
 <!-- end list -->
 
@@ -52,7 +54,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
   - 203 Non-Authoritative Information（自HTTP / 1.1起）
     服务器是一个转换代理服务器（transforming
-    proxy，例如[网络加速器](../Page/网络加速器.md "wikilink")），以`200
+    proxy，例如[网络加速器](https://zh.wikipedia.org/wiki/网络加速器 "wikilink")），以`200
     OK`状态码为起源，但回应了原始响应的修改版本。\[12\]\[13\]
 
 <!-- end list -->
@@ -68,7 +70,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 206 Partial Content（RFC 7233）
-    服务器已经成功处理了部分GET请求。类似于[FlashGet或者](../Page/FlashGet.md "wikilink")[迅雷这类的HTTP](../Page/迅雷.md "wikilink")
+    服务器已经成功处理了部分GET请求。类似于[FlashGet或者](https://zh.wikipedia.org/wiki/FlashGet "wikilink")[迅雷这类的HTTP](../Page/迅雷.md "wikilink")
     [下载工具都是使用此类响应实现断点续传或者将一个大文档分解为多个下载段同时下载](https://zh.wikipedia.org/wiki/Category:下载工具 "wikilink")。\[16\]
 
 <!-- end list -->
@@ -90,19 +92,19 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 这类状态码代表需要客户端采取进一步的操作才能完成请求。通常，这些状态码用来重定向，后续的请求地址（重定向目标）在本次响应的Location域中指明。\[19\]
 
-当且仅当后续的请求所使用的方法是GET或者HEAD时，用户[浏览器才可以在没有用户介入的情况下自动提交所需要的后续请求](../Page/浏览器.md "wikilink")。客户端应当自动监测[无限循环重定向](../Page/死循环.md "wikilink")（例如：A→B→C→……→A或A→A），因为这会导致服务器和客户端大量不必要的资源消耗。按照HTTP/1.0版规范的建议，浏览器不应自动访问超过5次的重定向。\[20\]
+当且仅当后续的请求所使用的方法是GET或者HEAD时，用户[浏览器才可以在没有用户介入的情况下自动提交所需要的后续请求](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。客户端应当自动监测[无限循环重定向](https://zh.wikipedia.org/wiki/死循环 "wikilink")（例如：A→B→C→……→A或A→A），因为这会导致服务器和客户端大量不必要的资源消耗。按照HTTP/1.0版规范的建议，浏览器不应自动访问超过5次的重定向。\[20\]
 
   - 300 Multiple Choices
     被请求的资源有一系列可供选择的回馈信息，每个都有自己特定的地址和浏览器驱动的商议信息。用户或浏览器能够自行选择一个首选的地址进行重定向。\[21\]
     除非这是一个HEAD请求，否则该响应应当包括一个资源特性及地址的列表的实体，以便用户或浏览器从中选择最合适的重定向地址。这个实体的格式由Content-Type定义的格式所决定。浏览器可能根据响应的格式以及浏览器自身能力，自动作出最合适的选择。当然，RFC
     2616规范并没有规定这样的自动选择该如何进行。
-    如果服务器本身已经有了首选的回馈选择，那么在Location中应当指明这个回馈的[URI](../Page/URI.md "wikilink")；浏览器可能会将这个Location值作为自动重定向的地址。此外，除非额外指定，否则这个响应也是可缓存的。
+    如果服务器本身已经有了首选的回馈选择，那么在Location中应当指明这个回馈的[URI](https://zh.wikipedia.org/wiki/URI "wikilink")；浏览器可能会将这个Location值作为自动重定向的地址。此外，除非额外指定，否则这个响应也是可缓存的。
 
 <!-- end list -->
 
   - [301 Moved Permanently](../Page/HTTP_301.md "wikilink")
     被请求的资源已永久移动到新位置，并且将来任何对此资源的引用都应该使用本响应返回的若干个URI之一。如果可能，拥有链接编辑功能的客户端应当自动把请求的地址修改为从服务器反馈回来的地址。\[22\]除非额外指定，否则这个响应也是可缓存的。
-    新的永久性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的[超链接及简短说明](../Page/超链接.md "wikilink")。
+    新的永久性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的[超链接及简短说明](https://zh.wikipedia.org/wiki/超链接 "wikilink")。
     如果这不是一个GET或者HEAD请求，那么浏览器禁止自动进行重定向，除非得到用户的确认，因为请求的条件可能因此发生变化。
     注意：对于某些使用HTTP/1.0协议的浏览器，当它们发送的POST请求得到了一个301响应的话，接下来的重定向请求将会变成GET方式。
 
@@ -114,7 +116,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
     新的临时性的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。
     如果这不是一个GET或者HEAD请求，那么浏览器禁止自动进行重定向，除非得到用户的确认，因为请求的条件可能因此发生变化。
     注意：虽然RFC 1945和RFC
-    2068规范不允许客户端在重定向时改变请求的方法，但是很多现存的浏览器将302响应视作为[303响应](../Page/#303.md "wikilink")，并且使用GET方式访问在Location中规定的URI，而无视原先请求的方法。\[24\]因此状态码303和[307被添加了进来](../Page/#307.md "wikilink")，用以明确服务器期待客户端进行何种反应。\[25\]
+    2068规范不允许客户端在重定向时改变请求的方法，但是很多现存的浏览器将302响应视作为[303响应](https://zh.wikipedia.org/wiki/#303 "wikilink")，并且使用GET方式访问在Location中规定的URI，而无视原先请求的方法。\[24\]因此状态码303和[307被添加了进来](https://zh.wikipedia.org/wiki/#307 "wikilink")，用以明确服务器期待客户端进行何种反应。\[25\]
 
 <!-- end list -->
 
@@ -122,7 +124,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
     对应当前请求的响应可以在另一个URI上被找到，当响应于POST（或PUT /
     DELETE）接收到响应时，客户端应该假定服务器已经收到数据，并且应该使用单独的GET消息发出重定向。\[26\]这个方法的存在主要是为了允许由脚本激活的POST请求输出重定向到一个新的资源。这个新的URI不是原始资源的替代引用。同时，303响应禁止被缓存。当然，第二个请求（重定向）可能被缓存。
     新的URI应当在响应的Location域中返回。除非这是一个HEAD请求，否则响应的实体中应当包含指向新的URI的超链接及简短说明。
-    注意：许多HTTP/1.1版以前的浏览器不能正确理解303状态。如果需要考虑与这些浏览器之间的互动，[302状态码应该可以胜任](../Page/#302.md "wikilink")，因为大多数的浏览器处理302响应时的方式恰恰就是上述规范要求客户端处理303响应时应当做的。
+    注意：许多HTTP/1.1版以前的浏览器不能正确理解303状态。如果需要考虑与这些浏览器之间的互动，[302状态码应该可以胜任](https://zh.wikipedia.org/wiki/#302 "wikilink")，因为大多数的浏览器处理302响应时的方式恰恰就是上述规范要求客户端处理303响应时应当做的。
 
 <!-- end list -->
 
@@ -143,7 +145,8 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 <!-- end list -->
 
-  - [307 Temporary Redirect](../Page/HTTP_307.md "wikilink")
+  - [307 Temporary
+    Redirect](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
     在这种情况下，请求应该与另一个URI重复，但后续的请求应仍使用原始的URI。 与302相反，当重新发出原始请求时，不允许更改请求方法。
     例如，应该使用另一个POST请求来重复POST请求。\[31\]
 
@@ -157,7 +160,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 这类的状态码代表了客户端看起来可能发生了错误，妨碍了服务器的处理。除非响应的是一个HEAD请求，否则服务器就应该返回一个解释当前错误状况的实体，以及这是临时的还是永久性的状况。这些状态码适用于任何请求方法。浏览器应当向用户显示任何包含在此类错误响应中的实体内容。\[33\]
 
-如果错误发生时客户端正在传送数据，那么使用[TCP的服务器实现应当仔细确保在关闭客户端与服务器之间的连接之前](../Page/TCP.md "wikilink")，客户端已经收到了包含错误信息的[数据包](../Page/数据包.md "wikilink")。如果客户端在收到错误信息后继续向服务器发送数据，服务器的TCP栈将向客户端发送一个重置数据包，以清除该客户端所有还未识别的输入[缓冲](../Page/缓冲.md "wikilink")，以免这些数据被服务器上的[应用程序读取并干扰后者](../Page/应用程序.md "wikilink")。
+如果错误发生时客户端正在传送数据，那么使用[TCP的服务器实现应当仔细确保在关闭客户端与服务器之间的连接之前](https://zh.wikipedia.org/wiki/TCP "wikilink")，客户端已经收到了包含错误信息的[数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")。如果客户端在收到错误信息后继续向服务器发送数据，服务器的TCP栈将向客户端发送一个重置数据包，以清除该客户端所有还未识别的输入[缓冲](https://zh.wikipedia.org/wiki/缓冲 "wikilink")，以免这些数据被服务器上的[应用程序读取并干扰后者](../Page/应用程序.md "wikilink")。
 
   - 400 Bad Request
     由于明显的客户端错误（例如，格式错误的请求语法，太大的大小，无效的请求消息或欺骗性路由请求），服务器不能或不会处理该请求。\[34\]
@@ -170,7 +173,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
         参见：[HTTP基本认证](../Page/HTTP基本认证.md "wikilink")、[HTTP摘要认证](../Page/HTTP摘要认证.md "wikilink")
 
     类似于403
-    Forbidden，401语义即“[未认证](../Page/身份验证.md "wikilink")”，即用户没有必要的凭据。\[35\]该状态码表示当前请求需要用户验证。该响应必须包含一个适用于被请求资源的WWW-Authenticate信息头用以询问用户信息。客户端可以重复提交一个包含恰当的Authorization头信息的请求。\[36\]如果当前请求已经包含了Authorization证书，那么401响应代表着服务器验证已经拒绝了那些证书。如果401响应包含了与前一个响应相同的身份验证询问，且浏览器已经至少尝试了一次验证，那么浏览器应当向用户展示响应中包含的实体信息，因为这个实体信息中可能包含了相关诊断信息。
+    Forbidden，401语义即“[未认证](https://zh.wikipedia.org/wiki/身份验证 "wikilink")”，即用户没有必要的凭据。\[35\]该状态码表示当前请求需要用户验证。该响应必须包含一个适用于被请求资源的WWW-Authenticate信息头用以询问用户信息。客户端可以重复提交一个包含恰当的Authorization头信息的请求。\[36\]如果当前请求已经包含了Authorization证书，那么401响应代表着服务器验证已经拒绝了那些证书。如果401响应包含了与前一个响应相同的身份验证询问，且浏览器已经至少尝试了一次验证，那么浏览器应当向用户展示响应中包含的实体信息，因为这个实体信息中可能包含了相关诊断信息。
 
     注意：当网站（通常是网站域名）禁止IP地址时，有些网站状态码显示的401，表示该特定地址被拒绝访问网站。
 
@@ -178,7 +181,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
   - 402 Payment Required
     该状态码是为了将来可能的需求而预留的。该状态码最初的意图可能被用作某种形式的数字现金或在线支付方案的一部分，但几乎没有哪家服务商使用，而且这个状态码通常不被使用。如果特定开发人员已超过请求的每日限制，[Google
-    Developers](../Page/Google_Developers.md "wikilink")
+    Developers](https://zh.wikipedia.org/wiki/Google_Developers "wikilink")
     API会使用此状态码。\[37\]
 
 <!-- end list -->
@@ -188,7 +191,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   -
-    服务器已经理解请求，但是拒绝执行它。与[401响应不同的是](../Page/#401.md "wikilink")，身份验证并不能提供任何帮助，而且这个请求也不应该被重复提交。如果这不是一个HEAD请求，而且服务器希望能够讲清楚为何请求不能被执行，那么就应该在实体内描述拒绝的原因。当然服务器也可以返回一个[404响应](../Page/#404.md "wikilink")，假如它不希望让客户端获得任何信息。
+    服务器已经理解请求，但是拒绝执行它。与[401响应不同的是](https://zh.wikipedia.org/wiki/#401 "wikilink")，身份验证并不能提供任何帮助，而且这个请求也不应该被重复提交。如果这不是一个HEAD请求，而且服务器希望能够讲清楚为何请求不能被执行，那么就应该在实体内描述拒绝的原因。当然服务器也可以返回一个[404响应](https://zh.wikipedia.org/wiki/#404 "wikilink")，假如它不希望让客户端获得任何信息。
 
 <!-- end list -->
 
@@ -197,20 +200,20 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   -
-    请求失败，请求所希望得到的资源未被在服务器上发现，但允许用户的后续请求。\[38\]没有信息能够告诉用户这个状况到底是暂时的还是永久的。假如服务器知道情况的话，应当使用[410状态码来告知旧资源因为某些内部的配置机制问题](../Page/#410.md "wikilink")，已经永久的不可用，而且没有任何可以跳转的地址。404这个状态码被广泛应用于当服务器不想揭示到底为何请求被拒绝或者没有其他适合的响应可用的情况下。
+    请求失败，请求所希望得到的资源未被在服务器上发现，但允许用户的后续请求。\[38\]没有信息能够告诉用户这个状况到底是暂时的还是永久的。假如服务器知道情况的话，应当使用[410状态码来告知旧资源因为某些内部的配置机制问题](https://zh.wikipedia.org/wiki/#410 "wikilink")，已经永久的不可用，而且没有任何可以跳转的地址。404这个状态码被广泛应用于当服务器不想揭示到底为何请求被拒绝或者没有其他适合的响应可用的情况下。
 
 <!-- end list -->
 
   - 405 Method Not Allowed
     请求行中指定的请求方法不能被用于请求相应的资源。该响应必须返回一个Allow头信息用以表示出当前资源能够接受的请求方法的列表。例如，需要通过POST呈现数据的表单上的GET请求，或只读资源上的PUT请求。
-    鉴于PUT，DELETE方法会对服务器上的资源进行写操作，因而绝大部分的[网页服务器都不支持或者在默认配置下不允许上述请求方法](../Page/网页服务器.md "wikilink")，对于此类请求均会返回405错误。
+    鉴于PUT，DELETE方法会对服务器上的资源进行写操作，因而绝大部分的[网页服务器都不支持或者在默认配置下不允许上述请求方法](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")，对于此类请求均会返回405错误。
 
 <!-- end list -->
 
   - 406 Not Acceptable
 
       -
-        参见：[内容协商](../Page/内容协商.md "wikilink")
+        参见：[内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink")
 
     请求的资源的内容特性无法满足请求头中的条件，因而无法生成响应实体，该请求不可接受。\[39\]
 
@@ -219,7 +222,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 407 Proxy Authentication Required（RFC 2617）
-    与[401响应类似](../Page/#401.md "wikilink")，只不过客户端必须在代理服务器上进行身份验证。\[40\]代理服务器必须返回一个Proxy-Authenticate用以进行身份询问。客户端可以返回一个Proxy-Authorization信息头用以验证。
+    与[401响应类似](https://zh.wikipedia.org/wiki/#401 "wikilink")，只不过客户端必须在代理服务器上进行身份验证。\[40\]代理服务器必须返回一个Proxy-Authenticate用以进行身份询问。客户端可以返回一个Proxy-Authorization信息头用以验证。
 
 <!-- end list -->
 
@@ -236,7 +239,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
   - 410 Gone
     表示所请求的资源不再可用，将不再可用。当资源被有意地删除并且资源应被清除时，应该使用这个。在收到410状态码后，用户应停止再次请求资源。<ref name="HTTP_410">
 
-</ref>但大多数服务端不会使用此状态码，而是直接使用[404状态码](../Page/#404.md "wikilink")。
+</ref>但大多数服务端不会使用此状态码，而是直接使用[404状态码](https://zh.wikipedia.org/wiki/#404 "wikilink")。
 
   - 411 Length Required
     服务器拒绝在没有定义Content-Length头的情况下接受请求。在添加了表明请求消息体长度的有效Content-Length头之后，客户端可以再次提交该请求。\[42\]
@@ -260,7 +263,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
     Long”，\[45\]表示请求的URI长度超过了服务器能够解释的长度，因此服务器拒绝对该请求提供服务。通常将太多数据的结果编码为GET请求的查询字符串，在这种情况下，应将其转换为POST请求。\[46\]这比较少见，通常的情况包括：
       - 本应使用POST方法的表单提交变成了GET方法，导致过长。
       - 重定向URI“黑洞”，例如每次重定向把旧的URI作为新的URI的一部分，导致在若干次重定向后URI超长。
-      - 客户端正在尝试利用某些服务器中存在的[安全漏洞攻击服务器](../Page/安全漏洞.md "wikilink")。这类服务器使用固定长度的缓冲读取或操作请求的URI，当GET后的参数超过某个数值后，可能会产生缓冲区溢出，导致任意代码被执行\[47\]。没有此类漏洞的服务器，应当返回414状态码。
+      - 客户端正在尝试利用某些服务器中存在的[安全漏洞攻击服务器](https://zh.wikipedia.org/wiki/安全漏洞 "wikilink")。这类服务器使用固定长度的缓冲读取或操作请求的URI，当GET后的参数超过某个数值后，可能会产生缓冲区溢出，导致任意代码被执行\[47\]。没有此类漏洞的服务器，应当返回414状态码。
 
 <!-- end list -->
 
@@ -281,9 +284,9 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 418 I'm a teapot（RFC 2324）
-    本操作码是在1998年作为[IETF的传统](../Page/IETF.md "wikilink")[愚人节笑话](../Page/恶搞RFC.md "wikilink"),
+    本操作码是在1998年作为[IETF的传统](https://zh.wikipedia.org/wiki/IETF "wikilink")[愚人节笑话](https://zh.wikipedia.org/wiki/恶搞RFC "wikilink"),
     在RFC
-    2324[超文本咖啡壶控制协议](../Page/超文本咖啡壶控制协议.md "wikilink")'中定义的，并不需要在真实的HTTP服务器中定义。當一個控制茶壺的[HTCPCP收到BREW或POST指令要求其煮咖啡時應當回傳此錯誤](../Page/HTCPCP.md "wikilink")。\[51\]这个HTTP状态码在某些网站（包括Google.com）與項目（如[Node.js](../Page/Node.js.md "wikilink")、[ASP.NET和](../Page/ASP.NET.md "wikilink")[Go語言](../Page/Go語言.md "wikilink")）中用作[彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")。\[52\]
+    2324[超文本咖啡壶控制协议](../Page/超文本咖啡壶控制协议.md "wikilink")'中定义的，并不需要在真实的HTTP服务器中定义。當一個控制茶壺的[HTCPCP收到BREW或POST指令要求其煮咖啡時應當回傳此錯誤](https://zh.wikipedia.org/wiki/HTCPCP "wikilink")。\[51\]这个HTTP状态码在某些网站（包括Google.com）與項目（如[Node.js](../Page/Node.js.md "wikilink")、[ASP.NET和](../Page/ASP.NET.md "wikilink")[Go語言](https://zh.wikipedia.org/wiki/Go語言 "wikilink")）中用作[彩蛋](../Page/彩蛋_\(媒体\).md "wikilink")。\[52\]
 
 <!-- end list -->
 
@@ -297,18 +300,22 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 <!-- end list -->
 
-  - 422 Unprocessable Entity（[WebDAV](../Page/WebDAV.md "wikilink")；RFC
+  - 422 Unprocessable
+    Entity（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
     4918 ）
-    请求格式正确，但是由于含有[语义错误](../Page/语义.md "wikilink")，无法响应。\[54\]
+    请求格式正确，但是由于含有[语义错误](https://zh.wikipedia.org/wiki/语义 "wikilink")，无法响应。\[54\]
 
 <!-- end list -->
 
-  - 423 Locked（[WebDAV](../Page/WebDAV.md "wikilink")；RFC 4918）
+  - 423
+    Locked（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
+    4918）
     当前资源被锁定。\[55\]
 
 <!-- end list -->
 
-  - 424 Failed Dependency（[WebDAV](../Page/WebDAV.md "wikilink")；RFC
+  - 424 Failed
+    Dependency（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
     4918）
     由于之前的某个请求发生的错误，导致当前请求失败，例如PROPPATCH。\[56\]
 
@@ -321,7 +328,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 426 Upgrade Required（RFC 2817）
-    客户端应当切换到[TLS/1.0](../Page/传输层安全.md "wikilink")，并在中给出。\[57\]
+    客户端应当切换到[TLS/1.0](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")，并在中给出。\[57\]
 
 <!-- end list -->
 
@@ -355,7 +362,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   -
-    该访问因[法律的要求而被拒絕](../Page/法律.md "wikilink")，由[IETF在](../Page/IETF.md "wikilink")2015核准后新增加。\[61\]\[62\]\[63\]
+    该访问因[法律的要求而被拒絕](../Page/法律.md "wikilink")，由[IETF在](https://zh.wikipedia.org/wiki/IETF "wikilink")2015核准后新增加。\[61\]\[62\]\[63\]
 
 <!-- end list -->
 
@@ -382,13 +389,13 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 503 Service Unavailable
-    由于临时的服务器维护或者[过载](../Page/过载.md "wikilink")，服务器当前无法处理请求。这个状况是暂时的，并且将在一段时间以后恢复。\[69\]如果能够预计延迟时间，那么响应中可以包含一个Retry-After头用以标明这个延迟时间。如果没有给出这个Retry-After信息，那么客户端应当以处理[500响应的方式处理它](../Page/500_Internal_Error.md "wikilink")。
+    由于临时的服务器维护或者[过载](https://zh.wikipedia.org/wiki/过载 "wikilink")，服务器当前无法处理请求。这个状况是暂时的，并且将在一段时间以后恢复。\[69\]如果能够预计延迟时间，那么响应中可以包含一个Retry-After头用以标明这个延迟时间。如果没有给出这个Retry-After信息，那么客户端应当以处理[500响应的方式处理它](https://zh.wikipedia.org/wiki/500_Internal_Error "wikilink")。
 
 <!-- end list -->
 
   - 504 Gateway Timeout
-    作为网关或者代理工作的服务器尝试执行请求时，未能及时从上游服务器（URI标识出的服务器，例如[HTTP](../Page/HTTP.md "wikilink")、[FTP](../Page/FTP.md "wikilink")、[LDAP](../Page/LDAP.md "wikilink")）或者辅助服务器（例如[DNS](../Page/DNS.md "wikilink")）收到响应。\[70\]
-    注意：某些代理服务器在DNS查询[超时时会返回](../Page/超时.md "wikilink")[400或者](../Page/#400.md "wikilink")[500错误](../Page/#500.md "wikilink")。
+    作为网关或者代理工作的服务器尝试执行请求时，未能及时从上游服务器（URI标识出的服务器，例如[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")）或者辅助服务器（例如[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）收到响应。\[70\]
+    注意：某些代理服务器在DNS查询[超时时会返回](https://zh.wikipedia.org/wiki/超时 "wikilink")[400或者](https://zh.wikipedia.org/wiki/#400 "wikilink")[500错误](https://zh.wikipedia.org/wiki/#500 "wikilink")。
 
 <!-- end list -->
 
@@ -403,15 +410,18 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 <!-- end list -->
 
-  - 507 Insufficient Storage（[WebDAV](../Page/WebDAV.md "wikilink")；RFC
+  - 507 Insufficient
+    Storage（[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
     4918）
     服务器无法存储完成请求所必须的内容。这个状况被认为是临时的。\[73\]
 
 <!-- end list -->
 
-  - 508 Loop Detected （[WebDAV](../Page/WebDAV.md "wikilink")；RFC
+  - 508 Loop Detected
+    （[WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")；RFC
     5842）
-    服务器在处理请求时陷入死循环。 （可代替 [208状态码](../Page/#208.md "wikilink")）
+    服务器在处理请求时陷入死循环。 （可代替
+    [208状态码](https://zh.wikipedia.org/wiki/#208 "wikilink")）
 
 <!-- end list -->
 
@@ -421,7 +431,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 <!-- end list -->
 
   - 511 Network Authentication Required （RFC 6585）
-    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](../Page/热点_\(Wi-Fi\).md "wikilink")）\[75\]
+    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")）\[75\]
 
 ## 非官方状态码
 
@@ -448,7 +458,7 @@ Cloudflare 會用的未知錯誤。
 
   - [超文本传输协议](../Page/超文本传输协议.md "wikilink")
 
-  - [HTTP头字段列表](../Page/HTTP头字段列表.md "wikilink")
+  - [HTTP头字段列表](https://zh.wikipedia.org/wiki/HTTP头字段列表 "wikilink")
 
   -
 ## 参考文献

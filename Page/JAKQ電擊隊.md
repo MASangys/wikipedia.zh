@@ -1,8 +1,8 @@
-《**JAKQ電擊隊**》（原題：）是日本[東映公司在](../Page/東映.md "wikilink")1977年製作的「[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")」第2部[特攝作品](../Page/特攝.md "wikilink")（但與同為[石森章太郎原作的](../Page/石之森章太郎.md "wikilink")《[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")》，均為事後予以追認納入系列中的作品）。1977年4月9日～12月24日於[朝日電視台播出](../Page/朝日電視台.md "wikilink")，共35集。主要角色的特點，在於使用[撲克牌的四種](../Page/撲克牌.md "wikilink")[花色當作戰士的造型符碼](../Page/花色.md "wikilink")。
+《**JAKQ電擊隊**》（原題：）是日本[東映公司在](../Page/東映.md "wikilink")1977年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第2部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")（但與同為[石森章太郎原作的](../Page/石之森章太郎.md "wikilink")《[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")》，均為事後予以追認納入系列中的作品）。1977年4月9日～12月24日於[朝日電視台播出](../Page/朝日電視台.md "wikilink")，共35集。主要角色的特點，在於使用[撲克牌的四種](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")[花色當作戰士的造型符碼](../Page/花色.md "wikilink")。
 
 台灣並未播出本作，但1970年代見於書籍媒體的翻譯名稱為《**撲克神功雷擊隊**》。
 
-香港於1981年至1982年，由麗的電視台（現：[亞洲電視台](../Page/亞洲電視台.md "wikilink")）以《**皇牌突擊隊**》譯名播出，其他相關譯名有《**皇牌特擊隊**》、《**皇牌電擊隊**》、《**加卡電擊隊**》。
+香港於1981年至1982年，由麗的電視台（現：[亞洲電視台](https://zh.wikipedia.org/wiki/亞洲電視台 "wikilink")）以《**皇牌突擊隊**》譯名播出，其他相關譯名有《**皇牌特擊隊**》、《**皇牌電擊隊**》、《**加卡電擊隊**》。
 
 ## 劇情大綱
 
@@ -25,7 +25,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 
 ## 特色
 
-  - 本作首次以《[撲克牌](../Page/撲克牌.md "wikilink")》為主题。
+  - 本作首次以《[撲克牌](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")》為主题。
   - 本作是第一部戰士名稱中不存在顏色或數字名詞的戰隊作品，取而代之的是「圖案」+「單字字母」。
   - 本作首次出現追加戰士的戰隊\[1\]。
   - 本作首次出現無黄色戰士之設定的戰隊。
@@ -49,7 +49,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/丹波義隆.md" title="wikilink"><span style="color: white">丹波義隆</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丹波義隆" title="wikilink"><span style="color: white">丹波義隆</span></a></p></td>
 <td><p>1955/7/13</p></td>
 <td><p>東京都</p></td>
 <td><p>黑桃A</p></td>
@@ -97,7 +97,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伊東平山.md" title="wikilink"><span style="color: white">伊東平山</span></a>[5]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊東平山" title="wikilink"><span style="color: white">伊東平山</span></a>[5]</p></td>
 <td><p>1951/9/13</p></td>
 <td><p>秋田縣</p></td>
 <td><p>方塊J</p></td>
@@ -148,7 +148,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Mitchi_Love.md" title="wikilink"><span style="color: black">Mitchi Love</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mitchi_Love" title="wikilink"><span style="color: black">Mitchi Love</span></a></p></td>
 <td><p>1960/8/5</p></td>
 <td><p>神奈川縣</p></td>
 <td><p>紅心Q</p></td>
@@ -192,7 +192,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>演員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/風戶佑介.md" title="wikilink"><span style="color: white">風戶佑介</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/風戶佑介" title="wikilink"><span style="color: white">風戶佑介</span></a></p></td>
 <td><p>1953/3/21</p></td>
 <td><p>大分縣</p></td>
 <td><p>梅花K</p></td>
@@ -239,7 +239,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/宮內洋.md" title="wikilink"><span style="color: red">宮內洋</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮內洋" title="wikilink"><span style="color: red">宮內洋</span></a></p></td>
 <td><p>1947/6/14</p></td>
 <td><p>東京都</p></td>
 <td><p>Big One</p></td>
@@ -284,7 +284,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/田中浩.md" title="wikilink"><span style="color: #ddaa00">田中浩</span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中浩" title="wikilink"><span style="color: #ddaa00">田中浩</span></a></p></td>
 <td><p>1934/1/1</p></td>
 <td><p>1993/1/2</p></td>
 <td><p>京都府</p></td>
@@ -311,7 +311,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 
 ## 製作群
 
-  - 原作：[石森章太郎](../Page/石森章太郎.md "wikilink")
+  - 原作：[石森章太郎](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")
   - 製作人：荻野隆史（テレビ朝日）、小泉美明（テレビ朝日，第23～35集）、吉川進
   - 攝影：原秀夫、山沢義一、加藤弘章、小林武治
   - 燈光：戸塚和夫、吉山清二
@@ -347,9 +347,9 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
   - 大平特殊効果：菊地潔
   - カー・プロジェクト：室町健三
   - 制作担当：伊東暉雄
-  - 音樂：[渡邊宙明](../Page/渡邊宙明.md "wikilink")
-  - 編劇：[上原正三](../Page/上原正三.md "wikilink")、押川国秋、曽田博久、高久進、新井光、平山公夫、長坂秀佳
-  - 導演：[竹本弘一](../Page/竹本弘一.md "wikilink")、奥中惇夫、平山公夫、[田口勝彥](../Page/田口勝彥.md "wikilink")、[山田稔](../Page/山田稔_\(導演\).md "wikilink")
+  - 音樂：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink")
+  - 編劇：[上原正三](https://zh.wikipedia.org/wiki/上原正三 "wikilink")、押川国秋、曽田博久、高久進、新井光、平山公夫、長坂秀佳
+  - 導演：[竹本弘一](https://zh.wikipedia.org/wiki/竹本弘一 "wikilink")、奥中惇夫、平山公夫、[田口勝彥](https://zh.wikipedia.org/wiki/田口勝彥 "wikilink")、[山田稔](https://zh.wikipedia.org/wiki/山田稔_\(導演\) "wikilink")
   - 製作：テレビ朝日、東映
 
 ## 播放列表
@@ -374,7 +374,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>4カード</p></td>
 <td><p>切り札はJAKQ</p></td>
 <td><ul>
-<li>デビルキラー（声：<a href="../Page/飯塚昭三.md" title="wikilink">飯塚昭三</a>）</li>
+<li>デビルキラー（声：<a href="https://zh.wikipedia.org/wiki/飯塚昭三" title="wikilink">飯塚昭三</a>）</li>
 </ul></td>
 <td><p>上原正三</p></td>
 </tr>
@@ -444,7 +444,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>6ターゲット</p></td>
 <td><p>爆発する花</p></td>
 <td><ul>
-<li>デビルフラワー（声：<a href="../Page/依田英助.md" title="wikilink">依田英助</a>）</li>
+<li>デビルフラワー（声：<a href="https://zh.wikipedia.org/wiki/依田英助" title="wikilink">依田英助</a>）</li>
 </ul></td>
 <td><p>押川国秋</p></td>
 </tr>
@@ -464,7 +464,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>11コレクション</p></td>
 <td><p>幸福への招待</p></td>
 <td><ul>
-<li>デビルケーン（声：<a href="../Page/大宮悌二.md" title="wikilink">大宮悌二</a>）</li>
+<li>デビルケーン（声：<a href="https://zh.wikipedia.org/wiki/大宮悌二" title="wikilink">大宮悌二</a>）</li>
 </ul></td>
 <td><p>曽田博久</p></td>
 </tr>
@@ -485,7 +485,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>10ピラミッド</p></td>
 <td><p>黄金仮面の迷路</p></td>
 <td><ul>
-<li>デビルスフィンクス（声：<a href="../Page/青森伸.md" title="wikilink">青森伸</a>）</li>
+<li>デビルスフィンクス（声：<a href="https://zh.wikipedia.org/wiki/青森伸" title="wikilink">青森伸</a>）</li>
 </ul></td>
 <td><p>上原正三</p></td>
 </tr>
@@ -729,19 +729,19 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
   - 片頭曲：『ジャッカー電撃隊』
 
 :\* 作詞：石森章太郎（[石之森章太郎](../Page/石之森章太郎.md "wikilink")） / 作曲、編曲：渡邊宙明 /
-歌：[佐佐木功](../Page/佐佐木功.md "wikilink")、[蟋蟀'73](../Page/蟋蟀'73.md "wikilink")
+歌：[佐佐木功](../Page/佐佐木功.md "wikilink")、[蟋蟀'73](https://zh.wikipedia.org/wiki/蟋蟀'73 "wikilink")
 
   - 片尾曲：『いつか、花は咲くだろう』
 
-:\* 作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲、編曲：渡邊宙明 /
-歌：[佐佐木功](../Page/佐佐木功.md "wikilink")
+:\* 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") /
+作曲、編曲：渡邊宙明 / 歌：[佐佐木功](../Page/佐佐木功.md "wikilink")
 
 ### 插曲
 
   - 『J.A.K.Q. 進めジャッカー』
 
 :\* 作詞：八手三郎 / 作曲、編曲：渡邊宙明 / 歌：佐佐木功、蟋蟀'73、[The
-Chirps](../Page/The_Chirps.md "wikilink")
+Chirps](https://zh.wikipedia.org/wiki/The_Chirps "wikilink")
 
   - 『スペードエース若き獅子』
 
@@ -750,7 +750,7 @@ Chirps](../Page/The_Chirps.md "wikilink")
   - 『それが始まりだった』
 
 :\* 作詞：石森章太郎 / 作曲：渡邊宙明 / 編曲：武市昌久（いちひさし） /
-歌：[前川陽子](../Page/前川陽子.md "wikilink")
+歌：[前川陽子](https://zh.wikipedia.org/wiki/前川陽子 "wikilink")
 
   - 『ジャッカーコバック』
 
@@ -787,7 +787,7 @@ Chirps](../Page/The_Chirps.md "wikilink")
 2.  除Big One外的原本四人共花上1分鐘30秒
 3.  宮內洋繼前作的青連者後，再次於本作飾演Big One
 4.  是配有核能的鞭子，能變形為弓箭。
-5.  後改藝名為「[吾羽七朗](../Page/吾羽七朗.md "wikilink")」。
+5.  後改藝名為「[吾羽七朗](https://zh.wikipedia.org/wiki/吾羽七朗 "wikilink")」。
 6.  配有電能的長細劍，伸縮自如，能變為短劍。
 7.  右手中指內藏的切割器，能割開厚壁。
 8.  右手中指內藏的雷射砲，有切割功能，能供給汽車能源。

@@ -1,28 +1,31 @@
 **Okular**、Piotr Szymanski由2005年[Google Summer of
-Code开发的项目](../Page/Google_Summer_of_Code.md "wikilink")、以[KPDF为基础](../Page/KPDF.md "wikilink")、并代替[KPDF](../Page/KPDF.md "wikilink")、[KGhostView](../Page/KGhostView.md "wikilink")、[KFax](../Page/KFax.md "wikilink")、[KFaxview](../Page/KFaxview.md "wikilink")、与[KDVI](../Page/KDVI.md "wikilink")，成为[KDE
-4的文档查看器](../Page/KDE_4.md "wikilink")\[1\]\[2\]。
+Code开发的项目](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")、以[KPDF为基础](../Page/KPDF.md "wikilink")、并代替[KPDF](../Page/KPDF.md "wikilink")、[KGhostView](https://zh.wikipedia.org/wiki/KGhostView "wikilink")、[KFax](https://zh.wikipedia.org/wiki/KFax "wikilink")、[KFaxview](https://zh.wikipedia.org/wiki/KFaxview "wikilink")、与[KDVI](https://zh.wikipedia.org/wiki/KDVI "wikilink")，成为[KDE
+4的文档查看器](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")\[1\]\[2\]。
 
 Okular可以支持下述的文件格式\[3\]：
 
   - [Portable Document
-    Format](../Page/Portable_Document_Format.md "wikilink")
+    Format](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")
     (PDF)（[Poppler后端](../Page/Poppler.md "wikilink")）
-  - [PostScript](../Page/PostScript.md "wikilink")（[libgs后端](../Page/libgs.md "wikilink")）
+  - [PostScript](../Page/PostScript.md "wikilink")（[libgs后端](https://zh.wikipedia.org/wiki/libgs "wikilink")）
   - [Tagged Image File
-    Format](../Page/Tagged_Image_File_Format.md "wikilink")
-    (TIFF)（[libTIFF后端](../Page/libTIFF.md "wikilink")）
-  - [HTML Help](../Page/HTML_Help.md "wikilink")
-    (CHM)（[libCHM后端](../Page/libCHM.md "wikilink")）
-  - [DjVu](../Page/DjVu.md "wikilink")（[DjVuLibre后端](../Page/DjVuLibre.md "wikilink")）
+    Format](https://zh.wikipedia.org/wiki/Tagged_Image_File_Format "wikilink")
+    (TIFF)（[libTIFF后端](https://zh.wikipedia.org/wiki/libTIFF "wikilink")）
+  - [HTML Help](https://zh.wikipedia.org/wiki/HTML_Help "wikilink")
+    (CHM)（[libCHM后端](https://zh.wikipedia.org/wiki/libCHM "wikilink")）
+  - [DjVu](../Page/DjVu.md "wikilink")（[DjVuLibre后端](https://zh.wikipedia.org/wiki/DjVuLibre "wikilink")）
   - [Device independent file
-    format](../Page/Device_independent_file_format.md "wikilink") (DVI)
+    format](https://zh.wikipedia.org/wiki/Device_independent_file_format "wikilink")
+    (DVI)
   - [开放XML纸张规范](../Page/XML纸张规范.md "wikilink") (XPS)
-  - [OpenDocument](../Page/OpenDocument.md "wikilink") format (ODF)
+  - [OpenDocument](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")
+    format (ODF)
   - [FictionBook](../Page/FictionBook.md "wikilink")
-  - [Comicbook](../Page/Comicbook.md "wikilink")
-  - [Plucker](../Page/Plucker.md "wikilink")
+  - [Comicbook](https://zh.wikipedia.org/wiki/Comicbook "wikilink")
+  - [Plucker](https://zh.wikipedia.org/wiki/Plucker "wikilink")
   - [EPUB](../Page/EPUB.md "wikilink")
-  - [mobi](../Page/mobi.md "wikilink") (amazon kindle的电子书格式)
+  - [mobi](https://zh.wikipedia.org/wiki/mobi "wikilink") (amazon
+    kindle的电子书格式)
 
 ## 参考文献
 

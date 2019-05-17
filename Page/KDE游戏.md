@@ -5,101 +5,106 @@ Environment的游戏](../Page/KDE.md "wikilink")，有多种类型：大体分�
 
 ### 新的 kdegames 4.1
 
-  - [Kollision](../Page/Kollision.md "wikilink") - 机巧游戏，控制蓝色球避开红色球
-  - [KBlocks](../Page/KBlocks.md "wikilink") -
-    [俄罗斯方块](../Page/俄罗斯方块.md "wikilink")[克隆](../Page/克隆.md "wikilink")
-  - [Kubrick](../Page/Kubrick.md "wikilink") -
+  - [Kollision](https://zh.wikipedia.org/wiki/Kollision "wikilink") -
+    机巧游戏，控制蓝色球避开红色球
+  - [KBlocks](https://zh.wikipedia.org/wiki/KBlocks "wikilink") -
+    [俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")[克隆](../Page/克隆.md "wikilink")
+  - [Kubrick](https://zh.wikipedia.org/wiki/Kubrick "wikilink") -
     [魔方游戏](../Page/魔方.md "wikilink")
-  - [KDiamond](../Page/KDiamond.md "wikilink") -
-    [宝石迷阵游戏](../Page/Bejeweled.md "wikilink")-类似[Gweled](../Page/Gweled.md "wikilink")
-  - [KBreakout](../Page/KBreakout.md "wikilink") -
-    [打砖块类游戏](../Page/打砖块.md "wikilink")
-  - [Ksirk](../Page/Ksirk.md "wikilink") -
-    [战国风云](../Page/战国风云.md "wikilink")[克隆](../Page/克隆.md "wikilink")
+  - [KDiamond](https://zh.wikipedia.org/wiki/KDiamond "wikilink") -
+    [宝石迷阵游戏](https://zh.wikipedia.org/wiki/Bejeweled "wikilink")-类似[Gweled](https://zh.wikipedia.org/wiki/Gweled "wikilink")
+  - [KBreakout](https://zh.wikipedia.org/wiki/KBreakout "wikilink") -
+    [打砖块类游戏](https://zh.wikipedia.org/wiki/打砖块 "wikilink")
+  - [Ksirk](https://zh.wikipedia.org/wiki/Ksirk "wikilink") -
+    [战国风云](https://zh.wikipedia.org/wiki/战国风云 "wikilink")[克隆](../Page/克隆.md "wikilink")
 
 ### kdegames 4.0
 
 #### 动作
 
-  - [KBounce](../Page/KBounce.md "wikilink") -
-    的[复刻](../Page/复刻.md "wikilink")
-  - [KGoldRunner](../Page/KGoldRunner.md "wikilink") -
-    [淘金者的](../Page/淘金者.md "wikilink")[复刻](../Page/复刻.md "wikilink")
-  - [KLines](../Page/KLines.md "wikilink") -
-    的[复刻](../Page/复刻.md "wikilink")
-  - [Kolf](../Page/Kolf.md "wikilink") -
-    [迷你高尔夫](../Page/迷你高尔夫.md "wikilink")[模拟游戏](../Page/模拟游戏.md "wikilink")
-  - [KSameGame](../Page/KSameGame.md "wikilink") - 复刻
-  - [KSpaceDuel](../Page/KSpaceDuel.md "wikilink") - 世界最早的电子游戏[太空戰爭
-    (遊戲)的改版](../Page/太空戰爭_\(遊戲\).md "wikilink")
+  - [KBounce](https://zh.wikipedia.org/wiki/KBounce "wikilink") -
+    的[复刻](https://zh.wikipedia.org/wiki/复刻 "wikilink")
+  - [KGoldRunner](https://zh.wikipedia.org/wiki/KGoldRunner "wikilink")
+    -
+    [淘金者的](https://zh.wikipedia.org/wiki/淘金者 "wikilink")[复刻](https://zh.wikipedia.org/wiki/复刻 "wikilink")
+  - [KLines](https://zh.wikipedia.org/wiki/KLines "wikilink") -
+    的[复刻](https://zh.wikipedia.org/wiki/复刻 "wikilink")
+  - [Kolf](https://zh.wikipedia.org/wiki/Kolf "wikilink") -
+    [迷你高尔夫](https://zh.wikipedia.org/wiki/迷你高尔夫 "wikilink")[模拟游戏](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")
+  - [KSameGame](https://zh.wikipedia.org/wiki/KSameGame "wikilink") - 复刻
+  - [KSpaceDuel](https://zh.wikipedia.org/wiki/KSpaceDuel "wikilink") -
+    世界最早的电子游戏[太空戰爭 (遊戲)的改版](../Page/太空戰爭_\(遊戲\).md "wikilink")
 
 #### 棋盘
 
   - Bovo - [五子棋](../Page/五子棋.md "wikilink")
   - KBattleship - [海战棋](../Page/海战_\(游戏\).md "wikilink")
   - KMahjongg - [四川省类游戏](../Page/四川省.md "wikilink")
-  - [Shisen-Sho](../Page/Shisen-Sho.md "wikilink") -
+  - [Shisen-Sho](https://zh.wikipedia.org/wiki/Shisen-Sho "wikilink") -
     [麻将](../Page/麻将.md "wikilink")[连连看](../Page/连连看.md "wikilink")
   - KReversi - [黑白棋](../Page/黑白棋.md "wikilink")
-  - KFourInLine - [四子棋游戏](../Page/四子棋.md "wikilink")，曾经名为KWin4
+  - KFourInLine -
+    [四子棋游戏](https://zh.wikipedia.org/wiki/四子棋 "wikilink")，曾经名为KWin4
 
 #### 纸牌
 
-  - [KPatience](../Page/KPatience.md "wikilink") -
-    包含[接龙](../Page/接龙.md "wikilink")，[蜘蛛纸牌](../Page/蜘蛛纸牌.md "wikilink")，[新接龙和其他扑克牌游戏](../Page/新接龙.md "wikilink")
-  - [Lt. Skat](../Page/Lt._Skat.md "wikilink")
+  - [KPatience](https://zh.wikipedia.org/wiki/KPatience "wikilink") -
+    包含[接龙](https://zh.wikipedia.org/wiki/接龙 "wikilink")，[蜘蛛纸牌](https://zh.wikipedia.org/wiki/蜘蛛纸牌 "wikilink")，[新接龙和其他扑克牌游戏](https://zh.wikipedia.org/wiki/新接龙 "wikilink")
+  - [Lt. Skat](https://zh.wikipedia.org/wiki/Lt._Skat "wikilink")
 
 #### 骰子
 
-  - [KJumpingCube](../Page/KJumpingCube.md "wikilink") -
-    棋盘游戏，玩家试图改变盒子的颜色占领整个棋盘。
-  - [Kiriki](../Page/Kiriki.md "wikilink") -
+  - [KJumpingCube](https://zh.wikipedia.org/wiki/KJumpingCube "wikilink")
+    - 棋盘游戏，玩家试图改变盒子的颜色占领整个棋盘。
+  - [Kiriki](https://zh.wikipedia.org/wiki/Kiriki "wikilink") -
     [快艇骰子](../Page/快艇骰子.md "wikilink")
 
 #### 逻辑
 
-  - [KAtomic](../Page/KAtomic.md "wikilink")－20世纪90年代游戏[Atomix的克隆](../Page/Atomix.md "wikilink")
-  - [KBlackBox](../Page/KBlackBox.md "wikilink") - 把射线投入黑盒子寻找球。
-  - [KMines](../Page/KMines.md "wikilink") -
-    [扫雷](../Page/扫雷.md "wikilink")
-  - [KNetwalk](../Page/KNetwalk.md "wikilink")
-  - [KSquares](../Page/KSquares.md "wikilink") - **平面连线**游戏
-  - KSudoku - [数独](../Page/数独.md "wikilink")
+  - [KAtomic](https://zh.wikipedia.org/wiki/KAtomic "wikilink")－20世纪90年代游戏[Atomix的克隆](https://zh.wikipedia.org/wiki/Atomix "wikilink")
+  - [KBlackBox](https://zh.wikipedia.org/wiki/KBlackBox "wikilink") -
+    把射线投入黑盒子寻找球。
+  - [KMines](https://zh.wikipedia.org/wiki/KMines "wikilink") -
+    [扫雷](https://zh.wikipedia.org/wiki/扫雷 "wikilink")
+  - [KNetwalk](https://zh.wikipedia.org/wiki/KNetwalk "wikilink")
+  - [KSquares](https://zh.wikipedia.org/wiki/KSquares "wikilink") -
+    **平面连线**游戏
+  - KSudoku - [数独](https://zh.wikipedia.org/wiki/数独 "wikilink")
 
 #### 策略
 
-  - [Konquest](../Page/Konquest.md "wikilink") - 太空征服
+  - [Konquest](https://zh.wikipedia.org/wiki/Konquest "wikilink") - 太空征服
 
 #### 小玩意儿
 
-  - [KTuberling](../Page/KTuberling.md "wikilink") -
-    [土豆先生的变脸游戏](../Page/土豆先生.md "wikilink")
+  - [KTuberling](https://zh.wikipedia.org/wiki/KTuberling "wikilink") -
+    [土豆先生的变脸游戏](https://zh.wikipedia.org/wiki/土豆先生 "wikilink")
 
 ### 仅在 kdegames 3 中
 
 KDE3游戏，因为缺少维护者，未出现在KDE4：
 
-  - [KPoker](../Page/KPoker.md "wikilink")
-  - [KAsteroids](../Page/KAsteroids.md "wikilink") –
-    [爆破彗星克隆](../Page/爆破彗星.md "wikilink")
-  - [KFoulEggs](../Page/KFoulEggs.md "wikilink") –
-    [泡泡龙游戏](../Page/泡泡龙.md "wikilink")
-  - KSirtet – [俄罗斯方块](../Page/俄罗斯方块.md "wikilink")
-  - [KSmileTris](../Page/KSmileTris.md "wikilink") –
-    改版的[俄罗斯方块](../Page/俄罗斯方块.md "wikilink")
-  - [KSnake](../Page/KSnake.md "wikilink") – [Rattler
-    Race](../Page/Rattler_Race.md "wikilink")（[贪食蛇的变体](../Page/贪食蛇.md "wikilink")）的变体
-  - [KTron](../Page/KTron.md "wikilink") – 克隆
-  - [Atlantik](../Page/Atlantik.md "wikilink") –
-    [地产大亨](../Page/地产大亨.md "wikilink")
-  - [KBackgammon](../Page/KBackgammon.md "wikilink") –
-    [雙陸棋](../Page/雙陸棋.md "wikilink")
-  - [KenolabA](../Page/KenolabA.md "wikilink") –
+  - [KPoker](https://zh.wikipedia.org/wiki/KPoker "wikilink")
+  - [KAsteroids](https://zh.wikipedia.org/wiki/KAsteroids "wikilink") –
+    [爆破彗星克隆](https://zh.wikipedia.org/wiki/爆破彗星 "wikilink")
+  - [KFoulEggs](https://zh.wikipedia.org/wiki/KFoulEggs "wikilink") –
+    [泡泡龙游戏](https://zh.wikipedia.org/wiki/泡泡龙 "wikilink")
+  - KSirtet – [俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")
+  - [KSmileTris](https://zh.wikipedia.org/wiki/KSmileTris "wikilink") –
+    改版的[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")
+  - [KSnake](https://zh.wikipedia.org/wiki/KSnake "wikilink") – [Rattler
+    Race](https://zh.wikipedia.org/wiki/Rattler_Race "wikilink")（[贪食蛇的变体](https://zh.wikipedia.org/wiki/贪食蛇 "wikilink")）的变体
+  - [KTron](https://zh.wikipedia.org/wiki/KTron "wikilink") – 克隆
+  - [Atlantik](https://zh.wikipedia.org/wiki/Atlantik "wikilink") –
+    [地产大亨](https://zh.wikipedia.org/wiki/地产大亨 "wikilink")
+  - [KBackgammon](https://zh.wikipedia.org/wiki/KBackgammon "wikilink")
+    – [雙陸棋](../Page/雙陸棋.md "wikilink")
+  - [KenolabA](https://zh.wikipedia.org/wiki/KenolabA "wikilink") –
     [Abalone](../Page/角力棋.md "wikilink")
-  - [Klickety](../Page/Klickety.md "wikilink") – 糅合clickomania / 类似
-    KSameGame.
-  - [KSokoban](../Page/KSokoban.md "wikilink") –
-    [仓库番](../Page/仓库番.md "wikilink")
+  - [Klickety](https://zh.wikipedia.org/wiki/Klickety "wikilink") –
+    糅合clickomania / 类似 KSameGame.
+  - [KSokoban](https://zh.wikipedia.org/wiki/KSokoban "wikilink") –
+    [仓库番](https://zh.wikipedia.org/wiki/仓库番 "wikilink")
 
 ## 引用
 

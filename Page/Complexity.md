@@ -1,7 +1,7 @@
 **Los Angeles Complexity**，又稱**Complexity Gaming**，**Team
-compLexity**，**compLexity**，**coL**。是一支美國[電子競技的隊伍](../Page/電子競技.md "wikilink")，創立於[美國](../Page/美國.md "wikilink")[加州](../Page/加州.md "wikilink")[洛杉磯](../Page/洛杉磯.md "wikilink")，創辦人為[傑森·雷克](../Page/傑森·雷克.md "wikilink")（代號**1**）於2004年成立。目前隊伍中包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、生死格鬥4、世界街頭賽車3以及[FIFA
-2007的電子遊戲隊伍](../Page/FIFA_2007.md "wikilink")。舊有的隊伍遊戲項目包括[絕對武力](../Page/絕對武力.md "wikilink")、[決勝時刻](../Page/決勝時刻.md "wikilink")、[DotA
-Allstars](../Page/DotA_Allstars.md "wikilink")、[雷神之鎚4](../Page/雷神之鎚4.md "wikilink")、[決勝之日以及](../Page/勝利日.md "wikilink")[決勝之日：次世代](../Page/勝利日：起源.md "wikilink")。
+compLexity**，**compLexity**，**coL**。是一支美國[電子競技的隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，創立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，創辦人為[傑森·雷克](https://zh.wikipedia.org/wiki/傑森·雷克 "wikilink")（代號**1**）於2004年成立。目前隊伍中包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、生死格鬥4、世界街頭賽車3以及[FIFA
+2007的電子遊戲隊伍](https://zh.wikipedia.org/wiki/FIFA_2007 "wikilink")。舊有的隊伍遊戲項目包括[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")、[決勝時刻](https://zh.wikipedia.org/wiki/決勝時刻 "wikilink")、[DotA
+Allstars](https://zh.wikipedia.org/wiki/DotA_Allstars "wikilink")、[雷神之鎚4](https://zh.wikipedia.org/wiki/雷神之鎚4 "wikilink")、[決勝之日以及](https://zh.wikipedia.org/wiki/勝利日 "wikilink")[決勝之日：次世代](https://zh.wikipedia.org/wiki/勝利日：起源 "wikilink")。
 目前Complexity也是美國G7隊伍中的一員。
 
 ## 現役隊員
@@ -68,7 +68,7 @@ Allstars](../Page/DotA_Allstars.md "wikilink")、[雷神之鎚4](../Page/雷神�
 </table>
 
 <table>
-<caption><strong><em><a href="../Page/世界街頭賽車3.md" title="wikilink">世界街頭賽車3</a></em></strong></caption>
+<caption><strong><em><a href="https://zh.wikipedia.org/wiki/世界街頭賽車3" title="wikilink">世界街頭賽車3</a></em></strong></caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -91,7 +91,7 @@ Allstars](../Page/DotA_Allstars.md "wikilink")、[雷神之鎚4](../Page/雷神�
 </table>
 
 <table>
-<caption><strong><em><a href="../Page/FIFA_2007.md" title="wikilink">FIFA 2007</a></em></strong></caption>
+<caption><strong><em><a href="https://zh.wikipedia.org/wiki/FIFA_2007" title="wikilink">FIFA 2007</a></em></strong></caption>
 <thead>
 <tr class="header">
 <th></th>

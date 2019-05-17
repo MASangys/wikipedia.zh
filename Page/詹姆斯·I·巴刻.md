@@ -1,5 +1,5 @@
 **詹姆斯·恩尼爾·巴刻**（或譯**占士·I·巴刻**，簡稱**巴刻**；**James Innell Packer**，簡稱 **J. I.
-Packer**，），是著名[基督教](../Page/基督教.md "wikilink")[神學家](../Page/神學家.md "wikilink")。
+Packer**，），是著名[基督教](../Page/基督教.md "wikilink")[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")。
 他是加拿大英屬哥倫比亞省維真學院的教授，被公認為是當代最具影響力的[福音派領袖](../Page/福音派.md "wikilink").\[1\]
 。 他獲得文學學士 (1948)，文學碩士(1952)和哲學博士(1955)\[2\]。
 他的神學思想深受其牛津大學教授[C·S·路易斯影響](../Page/C·S·路易斯.md "wikilink")。
@@ -21,18 +21,18 @@ Packer受僱於鐵路公司，母親Dorothy Mary Harris 則是一名小學教師
   - 1978年，他簽署了聖經無誤的芝加哥聲明，申明聖經無誤的立場。
   - 1979年，他到[溫哥華](../Page/溫哥華.md "wikilink")[維真神學院執教](../Page/維真神學院.md "wikilink")，後來被選為
     Sangwoo Youtong Chee 神學教授，直到退休。
-  - 2008年，巴刻博士與另外十位加拿大卑詩省的聖公會神職人員，退出了普世[聖公宗](../Page/聖公宗.md "wikilink")[加拿大聖公會](../Page/加拿大聖公會.md "wikilink")，加入普世聖公宗南美洲南錐教省。\[5\]同年4月23日，巴刻退還他的牧者牌照給加拿大聖公會新西敏教區主教，以示他堅決反對加拿大聖公會為同性婚姻祝聖。\[6\]
+  - 2008年，巴刻博士與另外十位加拿大卑詩省的聖公會神職人員，退出了普世[聖公宗](../Page/聖公宗.md "wikilink")[加拿大聖公會](https://zh.wikipedia.org/wiki/加拿大聖公會 "wikilink")，加入普世聖公宗南美洲南錐教省。\[5\]同年4月23日，巴刻退還他的牧者牌照給加拿大聖公會新西敏教區主教，以示他堅決反對加拿大聖公會為同性婚姻祝聖。\[6\]
 
 ## 著作
 
 巴刻博士著作頗多，包括
 
-  - [基督徒須知](../Page/基督徒須知.md "wikilink")
-  - [認識神](../Page/認識神.md "wikilink")
+  - [基督徒須知](https://zh.wikipedia.org/wiki/基督徒須知 "wikilink")
+  - [認識神](https://zh.wikipedia.org/wiki/認識神 "wikilink")
   - 字裡藏珍
-  - [活在聖靈中](../Page/活在聖靈中.md "wikilink")
+  - [活在聖靈中](https://zh.wikipedia.org/wiki/活在聖靈中 "wikilink")
   - 生命的重整
-  - [傳福音與神的主權](../Page/傳福音與神的主權.md "wikilink")
+  - [傳福音與神的主權](https://zh.wikipedia.org/wiki/傳福音與神的主權 "wikilink")
 
 ## 参考文献
 

@@ -1,9 +1,9 @@
 ***Sauerbraten***（也是*Cube 2* 或
 *Sauer*，[德语的](../Page/德语.md "wikilink")“[sour
-roast](../Page/酸味燉牛肉.md "wikilink")”）是一个免费的[跨平台的](../Page/跨平台.md "wikilink")3D引擎，也是同名基于这个引擎的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。运行在[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD或](../Page/FreeBSD.md "wikilink")[Mac
+roast](https://zh.wikipedia.org/wiki/酸味燉牛肉 "wikilink")”）是一个免费的[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D引擎，也是同名基于这个引擎的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。运行在[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD或](../Page/FreeBSD.md "wikilink")[Mac
 OS
-X上](../Page/Mac_OS_X.md "wikilink")，使用[OpenGL和](../Page/OpenGL.md "wikilink")[SDL技术](../Page/Simple_DirectMedia_Layer.md "wikilink")。最强大的地方在于即时修改地图的能力。此[游戏引擎是](../Page/游戏引擎.md "wikilink")[自由软件授权为](../Page/自由软件.md "wikilink")[Zlib](../Page/Zlib.md "wikilink")，\[1\]有着开发者公司的商业支持，[Dot3
+X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用[OpenGL和](../Page/OpenGL.md "wikilink")[SDL技术](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。最强大的地方在于即时修改地图的能力。此[游戏引擎是](../Page/游戏引擎.md "wikilink")[自由软件授权为](../Page/自由软件.md "wikilink")[Zlib](../Page/Zlib.md "wikilink")，\[1\]有着开发者公司的商业支持，[Dot3
 Labs](http://dot3labs.com/)。\[2\]
 
 本作是**Cube**的后继产品，2004年5月4日发布第一个版本，最新的「Trooper Edition」於\`2009年5月4日放出。
@@ -18,7 +18,7 @@ Sauerbraten承继Cube的设计，但是使用[八叉树模型](../Page/八叉树
 
 ### 渲染引擎
 
-大量几何信息贮存在GPU单元内存中。引擎使用[lightmap处理光源](../Page/lightmap.md "wikilink")，并且使用导向模块充分应用[着色器](../Page/着色器.md "wikilink")。
+大量几何信息贮存在GPU单元内存中。引擎使用[lightmap处理光源](https://zh.wikipedia.org/wiki/lightmap "wikilink")，并且使用导向模块充分应用[着色器](../Page/着色器.md "wikilink")。
 
 ### 游戏特点
 
@@ -27,9 +27,9 @@ Sauerbraten本身也是个多人为主的游戏，拥有几个单人关卡，还
 ## 其他同引擎的项目
 
   - [Red
-    Eclipse](../Page/Red_Eclipse.md "wikilink")：一个全新基于此引擎的游戏，反馈了很多代码，完成后会开放全部资源
+    Eclipse](https://zh.wikipedia.org/wiki/Red_Eclipse "wikilink")：一个全新基于此引擎的游戏，反馈了很多代码，完成后会开放全部资源
   - [Platinum Arts
-    Sandbox](../Page/Platinum_Arts_Sandbox.md "wikilink")：沙盒，创建游戏以及地图
+    Sandbox](https://zh.wikipedia.org/wiki/Platinum_Arts_Sandbox "wikilink")：沙盒，创建游戏以及地图
 
 ## 参考
 

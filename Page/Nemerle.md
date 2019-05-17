@@ -6,7 +6,7 @@ Moskal、Prof. Leszek Pacholski、Paweł Olszt等人發明。
 ### Hello, World\!
 
 一個傳統的["Hello
-World\!"可以被寫成C](../Page/Hello_world_program.md "wikilink")\#-like的風格：
+World\!"可以被寫成C](https://zh.wikipedia.org/wiki/Hello_world_program "wikilink")\#-like的風格：
 
 `class Hello {`
 `  static Main () : void {`
@@ -98,7 +98,7 @@ Nemerle可以被直接嵌入ASP.NET:
 ### PInvoke
 
 Nemerle有更多**原生平台函式庫**（native platform
-libraries）。風格非常類似C\#'s和其它[.NET平台上的語言](../Page/Microsoft_.NET.md "wikilink")。下面是最簡單的例子：
+libraries）。風格非常類似C\#'s和其它[.NET平台上的語言](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。下面是最簡單的例子：
 
 `using System;`
 `using System.Runtime.InteropServices;`

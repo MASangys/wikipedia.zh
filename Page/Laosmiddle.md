@@ -1,7 +1,7 @@
 [Langham_Place_Laosmiddle_closed_201307.jpg](https://zh.wikipedia.org/wiki/File:Langham_Place_Laosmiddle_closed_201307.jpg "fig:Langham_Place_Laosmiddle_closed_201307.jpg")分店，門口張貼通告\]\]
 **Laosmiddle**
 (LML)是一間[香港已結業的本地潮流服飾品牌](../Page/香港.md "wikilink")，在1997年創立。主要銷售給[香港青年顧客](../Page/香港.md "wikilink")，它們主要銷售不同類型的背包、側袋、斜袋、運動袋等。現時有8間專門店，7間於香港及1間於廣州。曾與[Hello
-Kitty](../Page/Hello_Kitty.md "wikilink")﹑[華納等crossover推出產品](../Page/華納.md "wikilink")。該品牌已於2013年年中已經消失，其facebook
+Kitty](../Page/Hello_Kitty.md "wikilink")﹑[華納等crossover推出產品](https://zh.wikipedia.org/wiki/華納 "wikilink")。該品牌已於2013年年中已經消失，其facebook
 專頁最後更新日期為同年5月。
 
 ## 分店地址及營業時間
@@ -19,7 +19,8 @@ Kitty](../Page/Hello_Kitty.md "wikilink")﹑[華納等crossover推出產品](../
 \*元朗青山公路249-251號元朗[元朗廣場](../Page/元朗廣場.md "wikilink")2樓226號舖 11:30 –
 21:30
 
-  - 新界將軍澳常寧街2號[厚德商場](../Page/厚德商場.md "wikilink")1樓L121號舖 11:30 – 21:30
+  - 新界將軍澳常寧街2號[厚德商場](https://zh.wikipedia.org/wiki/厚德商場 "wikilink")1樓L121號舖
+    11:30 – 21:30
   - 大嶼山[香港國際機場](../Page/香港國際機場.md "wikilink")[翔天廊](../Page/翔天廊.md "wikilink")5樓5P018號舖
     09:30 – 20:00
   - 新界[屯門時代廣場南翼](../Page/屯門時代廣場.md "wikilink")3樓24號舖 11:00 – 22:00

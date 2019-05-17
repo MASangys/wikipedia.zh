@@ -1,23 +1,25 @@
 **ScienceBlogs**是一個只接受邀請者寫作的[網誌平台與](../Page/網誌.md "wikilink")[虛擬社群](../Page/虛擬社群.md "wikilink")，
-由 [Seed Media Group](../Page/Seed_\(magazine\).md "wikilink") 於2006年
-創立，目的在於增進大眾對
-[科學知識的認知](../Page/科學.md "wikilink")。\[1\]截至2008年三月，ScienceBlogs擁有70網誌，分屬於不同的研究領域。每個網誌有不同的主題、特色與作者群，內容不受平台提供者的限制。作者是來自各領域的[科學家](../Page/科學家.md "wikilink")，包含工業界專家、大學教授、專業作家、大學研究生與博士後。
+由 [Seed Media
+Group](https://zh.wikipedia.org/wiki/Seed_\(magazine\) "wikilink")
+於2006年 創立，目的在於增進大眾對
+[科學知識的認知](https://zh.wikipedia.org/wiki/科學 "wikilink")。\[1\]截至2008年三月，ScienceBlogs擁有70網誌，分屬於不同的研究領域。每個網誌有不同的主題、特色與作者群，內容不受平台提供者的限制。作者是來自各領域的[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，包含工業界專家、大學教授、專業作家、大學研究生與博士後。
 
 根據
-[Technorati調查](../Page/Technorati.md "wikilink")，截至2007年7月7日，ScienceBlogs共有9581作者，被引用連結的數目在網誌世界排名第三十七。\[2\]截至2008年3月14日，[Quantcast](http://www.quantcast.com)指出該網站每月有超過1,100,000個訪客，其中65%來自[美國](../Page/美國.md "wikilink")。\[3\]
+[Technorati調查](../Page/Technorati.md "wikilink")，截至2007年7月7日，ScienceBlogs共有9581作者，被引用連結的數目在網誌世界排名第三十七。\[2\]截至2008年3月14日，[Quantcast](http://www.quantcast.com)指出該網站每月有超過1,100,000個訪客，其中65%來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。\[3\]
 
 ## 歷史
 
 ScienceBlogs成立於2006年一月，初期共有15個網誌。這些創始的網誌由科學雜誌出版商[Seed Media
-Group邀請各領域知名的科學家](../Page/Seed_Media_Group.md "wikilink")，對於擅長的領域，發表文章。網站收入來自於廣告服務。
+Group邀請各領域知名的科學家](https://zh.wikipedia.org/wiki/Seed_Media_Group "wikilink")，對於擅長的領域，發表文章。網站收入來自於廣告服務。
 
 ScienceBlogs與Seed Media Group在創始的第一年得到許多著名的獎，包括2006年 [UTNE Independent
-Press Award](../Page/UTNE_Independent_Press_Award.md "wikilink")
+Press
+Award](https://zh.wikipedia.org/wiki/UTNE_Independent_Press_Award "wikilink")
 的最佳科學與科技報導。除此之外，該站的[Pharyngula](http://www.scienceblogs.com/pharyngula)得到最佳科學網誌，[Respectful
 Insolence](http://www.scienceblogs.com/insolence)得到最佳醫療保健議題網誌。
 
 在2008年，ScienceBlogs與[Hubert Burda
-Media合作](../Page/Hubert_Burda_Media.md "wikilink")，創辦了德文版的網站[ScienceBlogs.de](http://www.scienceblogs.de)。至2008年三月，該站共有25網誌。
+Media合作](https://zh.wikipedia.org/wiki/Hubert_Burda_Media "wikilink")，創辦了德文版的網站[ScienceBlogs.de](http://www.scienceblogs.de)。至2008年三月，該站共有25網誌。
 
 ## 內容
 

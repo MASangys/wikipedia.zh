@@ -1,5 +1,5 @@
 《**LOVE
-LETTER**》是[大塚愛的第五張專輯](../Page/大塚愛.md "wikilink")。正式發行日期是2008年12月17日。該專輯包含《[口袋](../Page/口袋_\(單曲\).md "wikilink")》至《[水母、流星](../Page/水母、流星.md "wikilink")》期間的單曲，並收錄造成話題的日本生命廣告歌曲「愛」以及在NHK（BS）「」的主題曲「LOVE
+LETTER**》是[大塚愛的第五張專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。正式發行日期是2008年12月17日。該專輯包含《[口袋](../Page/口袋_\(單曲\).md "wikilink")》至《[水母、流星](../Page/水母、流星.md "wikilink")》期間的單曲，並收錄造成話題的日本生命廣告歌曲「愛」以及在NHK（BS）「」的主題曲「LOVE
 LETTER」。
 
 初回限定特製背面以情書信封樣式為設計。
@@ -21,7 +21,7 @@ LETTER」。
 3.  掰掰
       - 作詞・作曲：愛／編曲：愛×Ikoman
 4.  [水母、流星](../Page/水母、流星.md "wikilink")
-      - 作詞・作曲：愛／編曲：愛×Ikoman／[弦樂團编曲](../Page/弦樂團.md "wikilink")：
+      - 作詞・作曲：愛／編曲：愛×Ikoman／[弦樂團编曲](https://zh.wikipedia.org/wiki/弦樂團 "wikilink")：
     <!-- end list -->
       -
         「マイナビ2010」電視廣告曲

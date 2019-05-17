@@ -1,25 +1,25 @@
 《**PRISM ARK**》（プリズム・アーク 〜プリズム・ハート エピソード2〜）是日本PAJAMAS
-SOFT在2006年8月25日發售的[戰略角色扮演類型](../Page/戰略角色扮演.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，是2000年發售的《[PRISM
-HEART](../Page/PRISM_HEART.md "wikilink")》的續作。\[1\]前作角色的下一代為今作的主要角色。在[Comic
+SOFT在2006年8月25日發售的[戰略角色扮演類型](https://zh.wikipedia.org/wiki/戰略角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，是2000年發售的《[PRISM
+HEART](https://zh.wikipedia.org/wiki/PRISM_HEART "wikilink")》的續作。\[1\]前作角色的下一代為今作的主要角色。在[Comic
 Market](../Page/Comic_Market.md "wikilink") 71中限量發售公式通販本作的[Fan
-disc](../Page/Fan_disc.md "wikilink")《**THERESA to
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**THERESA to
 HEART**》（テレサとハート）\[2\]。2008年1月25日發售[Fan
-disc](../Page/Fan_disc.md "wikilink")《**LOVE<sup>2</sup>
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**LOVE<sup>2</sup>
 MAXIMUM\!**》（プリズム・アーク
 らぶらぶマキシマム\!）\[3\]。電視動畫版於2007年10月7日開始播放。2008年4月24日發售PS2移植版《**PRISM
 ARK -AWAKE-**》。在[Comic Market](../Page/Comic_Market.md "wikilink")
 73中發售[Fan
-disc](../Page/Fan_disc.md "wikilink")《**じゃらじゃらアーク**》\[4\]\[5\]。在[Comic
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**じゃらじゃらアーク**》\[4\]\[5\]。在[Comic
 Market](../Page/Comic_Market.md "wikilink") 74中發售[Fan
-disc](../Page/Fan_disc.md "wikilink")《**lovely HELL
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**lovely HELL
 tan**》（らぶり～ヘルたん）\[6\]。在[Comic
 Market](../Page/Comic_Market.md "wikilink") 75中發售[Fan
-disc](../Page/Fan_disc.md "wikilink")《**SPRING has
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**SPRING has
 COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》（)\[8\]。
 
 ## 遊戲系統
 
-系統以對立體角色輸入指令而行動的[SRPG部份以及基本劇本的](../Page/SRPG.md "wikilink")[ADV部份複合構成](../Page/冒險遊戲.md "wikilink")。ADV部份會因應選擇分歧的結果而影響角色的好感度，進而進入不同的結局路線。
+系統以對立體角色輸入指令而行動的[SRPG部份以及基本劇本的](https://zh.wikipedia.org/wiki/SRPG "wikilink")[ADV部份複合構成](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。ADV部份會因應選擇分歧的結果而影響角色的好感度，進而進入不同的結局路線。
 
 ## 故事
 
@@ -32,10 +32,10 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 ### 主要角色
 
   -
-    總是無憂無慮的[主角](../Page/主角.md "wikilink")。雖然是主要角色但並非全語音，只有ADV中的一些部份和戰鬥部份有語音。雖然基本上是個劍士，但一般人只能擁有其中一種的攻擊魔法和回復魔法，他卻擁有能同時掌握兩種魔法的稀有天賦。似乎是個特別的存在，雖然故事中並沒有明言，但在VISUAL
+    總是無憂無慮的[主角](https://zh.wikipedia.org/wiki/主角 "wikilink")。雖然是主要角色但並非全語音，只有ADV中的一些部份和戰鬥部份有語音。雖然基本上是個劍士，但一般人只能擁有其中一種的攻擊魔法和回復魔法，他卻擁有能同時掌握兩種魔法的稀有天賦。似乎是個特別的存在，雖然故事中並沒有明言，但在VISUAL
     FAN BOOK內作出了一點補完。
     依據該書所述，他似乎是與同為「神」的存在。在前作中登場的與是他的義祖父母（在18年前（動畫是16年前）從天而降的男嬰的他由撫養成人）。
-    名字是日文[耶和華的](../Page/耶和華.md "wikilink")[易位構詞](../Page/易位構詞遊戲.md "wikilink")。
+    名字是日文[耶和華的](../Page/耶和華.md "wikilink")[易位構詞](https://zh.wikipedia.org/wiki/易位構詞遊戲 "wikilink")。
   -
     傲氣的公主，動畫版的女主角。雖然劍術高超，但是性格彆扭，對神樂以外的人會很急性子而刻薄。在學校中流傳著「她會不會是失蹤的溫特蘭德公主」的傳聞。
     實際上並非公主，而是扮演公主的替身角色，表現出公主般的姿態行為舉止以吸引敵人的注目。實際上是奇札羅夫的女兒，本名。有時（興奮、混亂等的時候）會跟父親一樣說反語。她的主線故事完後，由於讓位給奇札羅夫，她亦成為了真正的公主殿下。
@@ -57,7 +57,7 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
     MAXIMUM\!》中取回了治療能力，而且可以隨意與肉體強化模式（俗稱「地獄模式」）互相轉換。
     發售前的官方人氣投票中全女角色第1位，因此製作以她為主角的FAN DISC「」（但是沒有語音）。在《LOVE<sup>2</sup>
     MAXIMUM\!》發售的人氣投票中亦再次得到第1位。
-    全名。名字是從真實人物「[德蕾莎修女](../Page/德蕾莎修女.md "wikilink")」而來。
+    全名。名字是從真實人物「[德蕾莎修女](https://zh.wikipedia.org/wiki/德蕾莎修女 "wikilink")」而來。
   -
     蘿莉眼鏡教師。雖擁有天才般的頭腦與知識，但無論外表和性格都很像小孩子，冒失娘屬性。被說像小孩子時會放聲大哭
     。擅長魔法攻擊，也可利用兩塊飄浮魔法石「」和「」投向對手作物理攻擊。
@@ -111,7 +111,8 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 <!-- end list -->
 
   -
-    作詞：KOTOKO　作曲/編曲：C.G mix　歌：[KOTOKO](../Page/KOTOKO.md "wikilink")
+    作詞：KOTOKO　作曲/編曲：C.G
+    mix　歌：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
 
 <!-- end list -->
 
@@ -120,7 +121,7 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 <!-- end list -->
 
   -
-    作詞：畑亜貴　作曲/編曲：黒須克彦　歌：[Chico](../Page/Chico.md "wikilink")
+    作詞：畑亜貴　作曲/編曲：黒須克彦　歌：[Chico](https://zh.wikipedia.org/wiki/Chico "wikilink")
 
 <!-- end list -->
 
@@ -138,7 +139,7 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 <!-- end list -->
 
   -
-    作詞：みるくくるみ　作曲：大藤史　編曲：鈴木達也　歌：[中原涼](../Page/中原涼.md "wikilink")
+    作詞：みるくくるみ　作曲：大藤史　編曲：鈴木達也　歌：[中原涼](https://zh.wikipedia.org/wiki/中原涼 "wikilink")
 
   - プリズム・アーク らぶらぶマキシマム！
 
@@ -149,7 +150,7 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 <!-- end list -->
 
   -
-    作詞：桃井晴子　作曲/編曲：OdiakeS　歌：[榊原ゆい](../Page/榊原ゆい.md "wikilink")、[こやまきみこ](../Page/こやまきみこ.md "wikilink")
+    作詞：桃井晴子　作曲/編曲：OdiakeS　歌：[榊原ゆい](https://zh.wikipedia.org/wiki/榊原ゆい "wikilink")、[こやまきみこ](https://zh.wikipedia.org/wiki/こやまきみこ "wikilink")
 
 <!-- end list -->
 
@@ -180,11 +181,11 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 
 ## 工作人員
 
-  - 原畫：[大野哲也](../Page/大野哲也.md "wikilink")
-  - SD原畫：[娘太丸](../Page/娘太丸.md "wikilink")
-  - 劇本：[亞麻矢幹](../Page/亞麻矢幹.md "wikilink")
+  - 原畫：[大野哲也](https://zh.wikipedia.org/wiki/大野哲也 "wikilink")
+  - SD原畫：[娘太丸](https://zh.wikipedia.org/wiki/娘太丸 "wikilink")
+  - 劇本：[亞麻矢幹](https://zh.wikipedia.org/wiki/亞麻矢幹 "wikilink")
   - 音樂：[I've
-    Sound](../Page/I've.md "wikilink")／[OdiakeS](../Page/OdiakeS.md "wikilink")
+    Sound](../Page/I've.md "wikilink")／[OdiakeS](https://zh.wikipedia.org/wiki/OdiakeS "wikilink")
 
 ## 電視動畫
 
@@ -193,7 +194,7 @@ COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》
 ### 主題曲
 
   - 片頭曲「」（第2話 – 第11話）
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")　編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")　歌：[榊原由依](../Page/榊原由依.md "wikilink")
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")　編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")　歌：[榊原由依](../Page/榊原由依.md "wikilink")
     第1話中作為片尾曲使用。第12話沒有片頭曲。
   - 片尾曲「」（第2話 – 第12話）
     作詞、作曲：志倉千代丸　編曲：磯江俊道　歌：[momo-i](../Page/桃井晴子.md "wikilink")
@@ -381,15 +382,15 @@ Jung Gee Hee</p></td>
 
 ### 電視台
 
-| 播放地區                               | 電視台                                        | 播放期間                  | 播放時間            | [電視聯播網](../Page/電視聯播網.md "wikilink")   |
-| ---------------------------------- | ------------------------------------------ | --------------------- | --------------- | -------------------------------------- |
-| [千葉縣](../Page/千葉縣.md "wikilink")   | [千葉テレビ](../Page/千葉テレビ.md "wikilink")       | 2007年10月7日－12月23日     | 星期日 24:30－25:00 | [獨立UHF局](../Page/獨立UHF局.md "wikilink") |
-| [神奈川縣](../Page/神奈川縣.md "wikilink") | [tvk](../Page/tvk.md "wikilink")           | 星期日 25:30－26:00       |                 |                                        |
-| [東京都](../Page/東京都.md "wikilink")   | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 2007年10月9日－12月25日     | 星期二 25:30－26:00 |                                        |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")   | [サンテレビ](../Page/サンテレビ.md "wikilink")       | 2007年10月10日－12月26日    | 星期三 26:10－26:40 |                                        |
-| [愛知縣](../Page/愛知縣.md "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")       | 2007年10月11日－12月27日    | 星期四 25:58－26:28 | [テレビ東京系列](../Page/TXN.md "wikilink")   |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")   | [テレビ埼玉](../Page/テレビ埼玉.md "wikilink")       | 2007年10月12日－12月28日    | 星期五 25:30－26:00 | 獨立UHF局                                 |
-| 日本全國                               | [AT-X](../Page/AT-X.md "wikilink")         | 2007年10月15日－2008年1月3日 | 星期一 17:00－17:30 | [CS放送](../Page/CS放送.md "wikilink")     |
+| 播放地區                                                | 電視台                                                           | 播放期間                  | 播放時間            | [電視聯播網](../Page/電視聯播網.md "wikilink")                      |
+| --------------------------------------------------- | ------------------------------------------------------------- | --------------------- | --------------- | --------------------------------------------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉テレビ](https://zh.wikipedia.org/wiki/千葉テレビ "wikilink")       | 2007年10月7日－12月23日     | 星期日 24:30－25:00 | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [tvk](https://zh.wikipedia.org/wiki/tvk "wikilink")           | 星期日 25:30－26:00       |                 |                                                           |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2007年10月9日－12月25日     | 星期二 25:30－26:00 |                                                           |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [サンテレビ](https://zh.wikipedia.org/wiki/サンテレビ "wikilink")       | 2007年10月10日－12月26日    | 星期三 26:10－26:40 |                                                           |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [テレビ愛知](https://zh.wikipedia.org/wiki/テレビ愛知 "wikilink")       | 2007年10月11日－12月27日    | 星期四 25:58－26:28 | [テレビ東京系列](https://zh.wikipedia.org/wiki/TXN "wikilink")   |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [テレビ埼玉](https://zh.wikipedia.org/wiki/テレビ埼玉 "wikilink")       | 2007年10月12日－12月28日    | 星期五 25:30－26:00 | 獨立UHF局                                                    |
+| 日本全國                                                | [AT-X](../Page/AT-X.md "wikilink")                            | 2007年10月15日－2008年1月3日 | 星期一 17:00－17:30 | [CS放送](https://zh.wikipedia.org/wiki/CS放送 "wikilink")     |
 
 ## 網路廣播
 
@@ -402,7 +403,7 @@ Jung Gee Hee</p></td>
   - プリズムナイトIII-ドライ-
     2008年2月29日到8月1日的隔週星期五在遊戲官方網站中發佈共6回，由榊原ゆい（プリーシア）、こやまきみこ（リッテ）擔任主持人。
   - プリズムアウェイク
-    2008年1月3日到3月27日毎週星期四26:00～27:00在[文化放送的](../Page/文化放送.md "wikilink")「**白石涼子の聞かなきゃ☆そん♪Song！**」節目中播放12回，由桃井はるこ（フィーリア）、村田あゆみ擔任主持人。\[13\]
+    2008年1月3日到3月27日毎週星期四26:00～27:00在[文化放送的](https://zh.wikipedia.org/wiki/文化放送 "wikilink")「**白石涼子の聞かなきゃ☆そん♪Song！**」節目中播放12回，由桃井はるこ（フィーリア）、村田あゆみ擔任主持人。\[13\]
 
 ## 相關商品
 
@@ -419,8 +420,8 @@ Jung Gee Hee</p></td>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/MEDIA_FACTORY.md" title="wikilink">MEDIA FACTORY</a></p></th>
-<th><p><a href="../Page/尖端出版社.md" title="wikilink">尖端出版社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/MEDIA_FACTORY" title="wikilink">MEDIA FACTORY</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尖端出版社" title="wikilink">尖端出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -666,7 +667,7 @@ Jung Gee Hee</p></td>
 ## 評價
 
 PRISM
-ARK在《2006年[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")》中獲得繪畫獎、最佳角色獎、廣告獎。\[16\]《[ファミ通](../Page/ファミ通.md "wikilink")》1011號的クロスレビュー對《PRISM
+ARK在《2006年[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")》中獲得繪畫獎、最佳角色獎、廣告獎。\[16\]《[ファミ通](https://zh.wikipedia.org/wiki/ファミ通 "wikilink")》1011號的クロスレビュー對《PRISM
 ARK -AWAKE-》給予24/40分。\[17\]
 
 ## 參考來源
@@ -684,7 +685,7 @@ ARK -AWAKE-》給予24/40分。\[17\]
   - [動畫官方網站](http://www.p-ark.tv/)
   - [動畫官方網站](http://www.mxtv.co.jp/prismark/)[東京都會電視台](../Page/東京都會電視台.md "wikilink")
   - [動畫官方網站](http://www.mediafactory.co.jp/anime/p-ark/index.html)[MEDIA
-    FACTORY](../Page/MEDIA_FACTORY.md "wikilink")
+    FACTORY](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")
   - [動畫官方網站](http://www.marv.jp/special/prism_ark/)[MMV](../Page/Marvelous.md "wikilink")
   - [プリズム・ナイト](http://www.pajamas.ne.jp/prismark/radio/index.html)PAJAMAS
     SOFT
@@ -725,10 +726,11 @@ ARK -AWAKE-》給予24/40分。\[17\]
     らぶらぶマキシマム！](http://erogetrailers.com/soft/4935)ErogeTrailers
 11. [Prism Ark
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7471)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 12. [プリズム・アーク
     ラジオ](http://www.mediafactory.co.jp/anime/p-ark/radio/radio.html)[MEDIA
-    FACTORY](../Page/MEDIA_FACTORY.md "wikilink")
+    FACTORY](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")
 13. [PRISM ARK -AWAKE- SPECIAL Web
     Radio](http://5pb.jp/games/prismark/sp_radio.html)[5pb.](../Page/5pb..md "wikilink")
 14. [プリズム・アーク(1)](http://mediafactory.jp/Form/Product/ProductDetail.aspx?shop=0&pid=9784840119795&vid=&cat=&swrd=%E3%83%97%E3%83%AA%E3%82%BA%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AF)MEDIA

@@ -1,11 +1,11 @@
-《**沙羅曼蛇**》（），是改編自日本遊戲公司[柯拿米所發行之橫向捲軸射擊遊戲](../Page/柯拿米.md "wikilink")《**[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")**》的[OVA作品](../Page/OVA.md "wikilink")，由[Studio
-Pierrot所製作](../Page/Studio_Pierrot.md "wikilink")，為《**沙羅曼蛇三部曲**》的首部曲，不過發行日期較《沙羅曼蛇二部曲》晚。於1988年11月30日發行[錄影帶](../Page/錄影帶.md "wikilink")，1989年3月21日發行影碟，[臺灣的](../Page/臺灣.md "wikilink")[霹靂衛星電視台以及](../Page/霹靂衛星電視台.md "wikilink")[衛視電影台都曾經播出](../Page/衛視電影台.md "wikilink")。
+《**沙羅曼蛇**》（），是改編自日本遊戲公司[柯拿米所發行之橫向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/柯拿米 "wikilink")《**[沙羅曼蛇](https://zh.wikipedia.org/wiki/沙羅曼蛇 "wikilink")**》的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[Studio
+Pierrot所製作](../Page/Studio_Pierrot.md "wikilink")，為《**沙羅曼蛇三部曲**》的首部曲，不過發行日期較《沙羅曼蛇二部曲》晚。於1988年11月30日發行[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，1989年3月21日發行影碟，[臺灣的](../Page/臺灣.md "wikilink")[霹靂衛星電視台以及](https://zh.wikipedia.org/wiki/霹靂衛星電視台 "wikilink")[衛視電影台都曾經播出](../Page/衛視電影台.md "wikilink")。
 
 ## 劇情概要
 
-Gradius星的**馬克貝因**主席所搭乘的[太空船被不名的](../Page/太空船.md "wikilink")[宇宙氣團吸入後](../Page/宇宙.md "wikilink")，便失去了連絡與行蹤。Gradius軍派遣**丹恩**、**史蒂芬妮**（麥克貝因主席的女兒）、**艾迪**三名駕駛前去失蹤地點調查。雖然沒有發現失蹤的太空船，但卻發現了一個逃生艇上的搭乘員**帕歐拉**。
+Gradius星的**馬克貝因**主席所搭乘的[太空船被不名的](https://zh.wikipedia.org/wiki/太空船 "wikilink")[宇宙氣團吸入後](../Page/宇宙.md "wikilink")，便失去了連絡與行蹤。Gradius軍派遣**丹恩**、**史蒂芬妮**（麥克貝因主席的女兒）、**艾迪**三名駕駛前去失蹤地點調查。雖然沒有發現失蹤的太空船，但卻發現了一個逃生艇上的搭乘員**帕歐拉**。
 
-帕歐拉表示，她原本所居住的[星球被一個不明](../Page/星球.md "wikilink")[生命體](../Page/生命體.md "wikilink")「**Bacterion**」所毀滅，而她是該星球上的唯一生還者。她希望可以及時警告Gradius星球上的人們關於Bacterion的威脅。但是除了同樣是過去逃難至Gradius的艾迪之外，幾乎沒有人相信她所說的話。
+帕歐拉表示，她原本所居住的[星球被一個不明](https://zh.wikipedia.org/wiki/星球 "wikilink")[生命體](https://zh.wikipedia.org/wiki/生命體 "wikilink")「**Bacterion**」所毀滅，而她是該星球上的唯一生還者。她希望可以及時警告Gradius星球上的人們關於Bacterion的威脅。但是除了同樣是過去逃難至Gradius的艾迪之外，幾乎沒有人相信她所說的話。
 
 過不了多久，Bacterion果然開始向Gradius星接近了。Gradius星高層派遣丹恩、史蒂芬妮、艾迪三人前去偵查Bacterion軍團。在偵查的時候史蒂芬妮覺得自己似乎聽到了有人在呼喚她。而艾迪覺得事有蹊蹺，因此便獨自駕駛戰機前去深入調查並攻擊敵機，結果發現Bacterion軍的戰機似乎由某種核心控制著全軍的行動。但是艾迪卻也因此而構成了違反命令，而遭降級。
 
@@ -53,13 +53,13 @@ Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍
 
 ## 製作團隊
 
-  - 導演: [鳥海永行](../Page/鳥海永行.md "wikilink")
+  - 導演: [鳥海永行](https://zh.wikipedia.org/wiki/鳥海永行 "wikilink")
   - 人物設定: [美樹本晴彥](../Page/美樹本晴彥.md "wikilink")
-  - 機械設定: [森木靖泰](../Page/森木靖泰.md "wikilink")
+  - 機械設定: [森木靖泰](https://zh.wikipedia.org/wiki/森木靖泰 "wikilink")
   - 作畫監督: 岡田敏靖
   - 劇本: 久島一仁
-  - 演出: [玉野陽美](../Page/玉野陽美.md "wikilink")
-  - 配樂: [梅垣達志](../Page/梅垣達志.md "wikilink")
+  - 演出: [玉野陽美](https://zh.wikipedia.org/wiki/玉野陽美 "wikilink")
+  - 配樂: [梅垣達志](https://zh.wikipedia.org/wiki/梅垣達志 "wikilink")
   - 動畫製作: [Studio Pierrot](../Page/Studio_Pierrot.md "wikilink")
 
 ## 主要出演聲優
@@ -68,14 +68,14 @@ Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍
   - 史蒂芬妮 - [日高範子](../Page/日高範子.md "wikilink")
   - 艾迪 - [井上和彥](../Page/井上和彥.md "wikilink")
   - 帕歐拉 - [島本須美](../Page/島本須美.md "wikilink")
-  - 馬克貝因主席 - [筈見純](../Page/筈見純.md "wikilink")
-  - 史達巴克代理主席 - [村山明](../Page/村山明.md "wikilink")
-  - 電子腦 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
-  - 司令官 - [神山卓三](../Page/神山卓三.md "wikilink")
+  - 馬克貝因主席 - [筈見純](https://zh.wikipedia.org/wiki/筈見純 "wikilink")
+  - 史達巴克代理主席 - [村山明](https://zh.wikipedia.org/wiki/村山明 "wikilink")
+  - 電子腦 - [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - 司令官 - [神山卓三](https://zh.wikipedia.org/wiki/神山卓三 "wikilink")
   - [二又一成](../Page/二又一成.md "wikilink")
   - [子安武人](../Page/子安武人.md "wikilink")
   - [幹本雄之](../Page/幹本雄之.md "wikilink")
-  - [中村大樹](../Page/中村大樹.md "wikilink")
+  - [中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")
   - [石野龍三](../Page/石野龍三.md "wikilink")
   - 澤井幸子
 
@@ -85,7 +85,7 @@ Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍
     1985」(第一關的配樂)。
   - [宇宙巡航艦的機體如超時空戰鬥機Vic](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")
     Viper以及敵方主力戰艦Big
-    Core(在動畫中改為[航空母艦](../Page/航空母艦.md "wikilink"))都有於作品中登場。
+    Core(在動畫中改為[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink"))都有於作品中登場。
   - [遊戲中的最後關卡雖為要塞](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")，但是本作品改成了遊戲封面上的綠色戰艦，同時也是登場於「宇宙巡航艦Ⅱ：高弗的野望」最後一關的敵軍母艦。
   - 片尾的背景畫面改自於[遊戲中的最後關卡之背景畫面](../Page/宇宙巡航艦_\(遊戲\).md "wikilink")。
 

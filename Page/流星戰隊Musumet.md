@@ -1,4 +1,4 @@
-《**流星戰隊Musumet**》（）為日本2004年10月至12月播放的[獨立UHF電視台](../Page/獨立UHF電視台.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，全13話。原作為《[Megami
+《**流星戰隊Musumet**》（）為日本2004年10月至12月播放的[獨立UHF電視台](https://zh.wikipedia.org/wiki/獨立UHF電視台 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全13話。原作為《[Megami
 MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》自2004年1月號起連載的讀者參加企劃「**Musumet
 RGB**」。
 
@@ -26,7 +26,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 
 <!-- end list -->
 
-  - 靈感來自[色光三原色的](../Page/顏色.md "wikilink")[紅](../Page/紅.md "wikilink")、[綠](../Page/綠.md "wikilink")、[藍](../Page/藍.md "wikilink")。
+  - 靈感來自[色光三原色的](https://zh.wikipedia.org/wiki/顏色 "wikilink")[紅](https://zh.wikipedia.org/wiki/紅 "wikilink")、[綠](https://zh.wikipedia.org/wiki/綠 "wikilink")、[藍](https://zh.wikipedia.org/wiki/藍 "wikilink")。
 
 ### Otomet
 
@@ -44,7 +44,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 早乙女家握有雄厚的資產，操控著整個地球的食衣住行。
 還有，她們三人都是同父異母的姊妹，是她們的日本人父親分別和美國人、巴西人、中國人的母親生下的混血兒。
 
-  - 靈感來自[印刷三原色的](../Page/顏色.md "wikilink")[青](../Page/青.md "wikilink")、[洋紅](../Page/品紅色.md "wikilink")、[黃](../Page/黃.md "wikilink")。
+  - 靈感來自[印刷三原色的](https://zh.wikipedia.org/wiki/顏色 "wikilink")[青](https://zh.wikipedia.org/wiki/青 "wikilink")、[洋紅](https://zh.wikipedia.org/wiki/品紅色 "wikilink")、[黃](https://zh.wikipedia.org/wiki/黃 "wikilink")。
 
 ### 其他登場人物
 
@@ -64,21 +64,21 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 
   - 企劃原作：Wonder Farm
   - 監修：
-  - 原作：[六月十三](../Page/六月十三_\(原作者\).md "wikilink")
-  - 製作人：[服部街宇](../Page/服部街宇.md "wikilink")
-  - 監督：[木宮茂](../Page/木宮茂.md "wikilink")
-  - 人物原案：[長谷川光司](../Page/長谷川光司.md "wikilink")
-  - 人物設定、總作畫監督：[原將治](../Page/原將治.md "wikilink")
-  - 系列構成：[瀧晃一](../Page/瀧晃一.md "wikilink")
-  - 機械設定：[宮豐](../Page/宮豐.md "wikilink")
-  - 美術監督：[森元茂](../Page/森元茂.md "wikilink")
+  - 原作：[六月十三](https://zh.wikipedia.org/wiki/六月十三_\(原作者\) "wikilink")
+  - 製作人：[服部街宇](https://zh.wikipedia.org/wiki/服部街宇 "wikilink")
+  - 監督：[木宮茂](https://zh.wikipedia.org/wiki/木宮茂 "wikilink")
+  - 人物原案：[長谷川光司](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")
+  - 人物設定、總作畫監督：[原將治](https://zh.wikipedia.org/wiki/原將治 "wikilink")
+  - 系列構成：[瀧晃一](https://zh.wikipedia.org/wiki/瀧晃一 "wikilink")
+  - 機械設定：[宮豐](https://zh.wikipedia.org/wiki/宮豐 "wikilink")
+  - 美術監督：[森元茂](https://zh.wikipedia.org/wiki/森元茂 "wikilink")
   - 彩色設計：植木義則
   - 撮影監督：久保博志
-  - 音響監督：[高橋秀雄](../Page/高橋秀雄.md "wikilink")
-  - 執行製作人：[加藤長輝](../Page/加藤長輝.md "wikilink")
-  - 動畫製作：[TNK](../Page/TNK.md "wikilink")
-  - 製作：「Musumet」製作委員會（[TWOMAX](../Page/TWOMAX.md "wikilink")、Prime
-    Direction、[Ponycanyon](../Page/波麗佳音.md "wikilink")、Ponycanyon
+  - 音響監督：[高橋秀雄](https://zh.wikipedia.org/wiki/高橋秀雄 "wikilink")
+  - 執行製作人：[加藤長輝](https://zh.wikipedia.org/wiki/加藤長輝 "wikilink")
+  - 動畫製作：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")
+  - 製作：「Musumet」製作委員會（[TWOMAX](https://zh.wikipedia.org/wiki/TWOMAX "wikilink")、Prime
+    Direction、[Ponycanyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Ponycanyon
     Enterprise）
 
 ## 主題歌
@@ -92,7 +92,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <!-- end list -->
 
   -
-    作詞：六月十三、作曲、編曲：[酒井良](../Page/酒井良.md "wikilink")、歌：Musumet（由松本彩乃、大澤千秋、川瀨晶子組成的3人團體）
+    作詞：六月十三、作曲、編曲：[酒井良](https://zh.wikipedia.org/wiki/酒井良 "wikilink")、歌：Musumet（由松本彩乃、大澤千秋、川瀨晶子組成的3人團體）
 
 <!-- end list -->
 
@@ -101,7 +101,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <!-- end list -->
 
   -
-    作詞：六月十三、作曲、編曲：[原田末秋](../Page/原田末秋.md "wikilink")、歌：Otomet（由淺野真澄、榎本溫子、桃井晴子組成的3人團體）
+    作詞：六月十三、作曲、編曲：[原田末秋](https://zh.wikipedia.org/wiki/原田末秋 "wikilink")、歌：Otomet（由淺野真澄、榎本溫子、桃井晴子組成的3人團體）
 
   - 片尾曲
 
@@ -112,7 +112,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <!-- end list -->
 
   -
-    作詞、作曲：桃井晴子、編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")、歌：[SD☆Children](../Page/SD☆Children.md "wikilink")（由松來未祐、[金田朋子組成的團體](../Page/金田朋子.md "wikilink")）
+    作詞、作曲：桃井晴子、編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")、歌：[SD☆Children](https://zh.wikipedia.org/wiki/SD☆Children "wikilink")（由松來未祐、[金田朋子組成的團體](../Page/金田朋子.md "wikilink")）
 
 ## 各話標題
 
@@ -171,7 +171,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <td></td>
 <td><p>佐藤勝一</p></td>
 <td><p>葛谷直行</p></td>
-<td><p><a href="../Page/後信治.md" title="wikilink">後信治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/後信治" title="wikilink">後信治</a></p></td>
 <td><p>添田直子</p></td>
 </tr>
 <tr class="even">
@@ -180,7 +180,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <td></td>
 <td><p>瀧晃一</p></td>
 <td><p>藤原良二</p></td>
-<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
 <td><p>吉田潤</p></td>
 </tr>
 <tr class="odd">
@@ -197,7 +197,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <td><p>第8話</p></td>
 <td></td>
 <td><p>南出祐司</p></td>
-<td><p><a href="../Page/奥村吉昭.md" title="wikilink">奥村吉昭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥村吉昭" title="wikilink">奥村吉昭</a></p></td>
 <td><p>原口浩</p></td>
 <td><p>内原茂</p></td>
 </tr>
@@ -256,13 +256,13 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 
   - 看光光☆Musumet（）
       - 於[Animete
-        TV上發布的](../Page/Animete_TV.md "wikilink")[網路電視節目](../Page/網路電視.md "wikilink")。
+        TV上發布的](https://zh.wikipedia.org/wiki/Animete_TV "wikilink")[網路電視節目](https://zh.wikipedia.org/wiki/網路電視 "wikilink")。
       - 發布期間：2004年10月～2005年3月
       - 主演：松本彩乃、大澤千秋、川瀨晶子、井上奈奈
 
 ## 播放頻道
 
-[千葉電視台](../Page/千葉電視台.md "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[SUN電視台](../Page/SUN電視台.md "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[Animax](../Page/Animax.md "wikilink")
+[千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")、[神奈川電視台](../Page/神奈川電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[埼玉電視台](../Page/埼玉電視台.md "wikilink")、[Animax](../Page/Animax.md "wikilink")
 
 另外，為配合故事情節（因為Musumet與Otomet對決的結果是Musumet落敗的關係），標題從第9話至11話之間變更為「**流星戰隊Otomet**（）」（Musumet再次與Otomet交戰獲得勝利後，標題又改為「**流星戰隊Musumet歸來**（）」）。
 

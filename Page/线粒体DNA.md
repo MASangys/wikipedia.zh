@@ -6,33 +6,33 @@
 [http://www.biomedcentral.com/1741-7007/2/9|last2=Kimura](http://www.biomedcentral.com/1741-7007/2/9%7Clast2=Kimura)
 |last3=Cook }}</ref>\]\]
 
-**粒線體DNA**（，[縮寫作](../Page/縮寫.md "wikilink")****）指一些位於[粒線體內的](../Page/粒線體.md "wikilink")[DNA](../Page/DNA.md "wikilink")，與一般位於[細胞核內的DNA有不同的](../Page/細胞核.md "wikilink")[演化起源](../Page/演化.md "wikilink")，可能是源自早期[細菌](../Page/細菌.md "wikilink")。雖然現存生物體中絕大多數作用於粒線體的蛋白質，是由細胞核DNA所製造，但這些基因中有一些可能是源於細菌，並於演化過程中轉移到細胞核中，稱為。
+**粒線體DNA**（，[縮寫作](../Page/縮寫.md "wikilink")****）指一些位於[粒線體內的](https://zh.wikipedia.org/wiki/粒線體 "wikilink")[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")，與一般位於[細胞核內的DNA有不同的](https://zh.wikipedia.org/wiki/細胞核 "wikilink")[演化起源](../Page/演化.md "wikilink")，可能是源自早期[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")。雖然現存生物體中絕大多數作用於粒線體的蛋白質，是由細胞核DNA所製造，但這些基因中有一些可能是源於細菌，並於演化過程中轉移到細胞核中，稱為。
 
-現今人類體內的每個[細胞中](../Page/細胞.md "wikilink")，大約有1000到10000個粒線體，而每一個粒線體內，則大約有2到10組mtDNA，每個mtDNA共包含16569個鹼基對，其中有37個基因，可用來製造13種蛋白質、22種[tRNA與兩種](../Page/tRNA.md "wikilink")[rRNA](../Page/rRNA.md "wikilink")。其中的[內含子較細胞核基因少](../Page/內含子.md "wikilink")，且有些不含內含子，如tRNA基因。
+現今人類體內的每個[細胞中](https://zh.wikipedia.org/wiki/細胞 "wikilink")，大約有1000到10000個粒線體，而每一個粒線體內，則大約有2到10組mtDNA，每個mtDNA共包含16569個鹼基對，其中有37個基因，可用來製造13種蛋白質、22種[tRNA與兩種](https://zh.wikipedia.org/wiki/tRNA "wikilink")[rRNA](https://zh.wikipedia.org/wiki/rRNA "wikilink")。其中的[內含子較細胞核基因少](https://zh.wikipedia.org/wiki/內含子 "wikilink")，且有些不含內含子，如tRNA基因。
 
 ## 突變速率
 
-動物體內的粒線體DNA並不會經過[遺傳重組](../Page/遺傳重組.md "wikilink")，因此與細胞核DNA相較之下有較高的[突變速率](../Page/突變.md "wikilink")（重組有修復突變的功能）；而植物與真菌類體內的mtDNA則存在著重組現象，其中植物的mtDNA突變速率高於細胞核DNA；真菌方面的mtDNA突變速率則尚未明瞭\[1\]。
+動物體內的粒線體DNA並不會經過[遺傳重組](https://zh.wikipedia.org/wiki/遺傳重組 "wikilink")，因此與細胞核DNA相較之下有較高的[突變速率](https://zh.wikipedia.org/wiki/突變 "wikilink")（重組有修復突變的功能）；而植物與真菌類體內的mtDNA則存在著重組現象，其中植物的mtDNA突變速率高於細胞核DNA；真菌方面的mtDNA突變速率則尚未明瞭\[1\]。
 
-由於動物的mtDNA的突變速率高於細胞核DNA，較為容易測量計算，使mtDNA成為用來追溯動物[母系族譜的有效工具](../Page/母系族譜.md "wikilink")，例如許多物種在數百個世代以前的祖先。此外，人類的mtDNA也可用來進行個體辨識。
+由於動物的mtDNA的突變速率高於細胞核DNA，較為容易測量計算，使mtDNA成為用來追溯動物[母系族譜的有效工具](https://zh.wikipedia.org/wiki/母系族譜 "wikilink")，例如許多物種在數百個世代以前的祖先。此外，人類的mtDNA也可用來進行個體辨識。
 
 ## 粒線體DNA起源
 
-[內共生理論認為](../Page/內共生理論.md "wikilink")[真核細胞最早的起源](../Page/真核細胞.md "wikilink")，是因為[原核細胞](../Page/原核細胞.md "wikilink")（細菌等）被吸收到另外一個細胞中，而沒有被消化。而這兩個細胞之後產生了[共生關係](../Page/共生.md "wikilink")，使最早的[細胞器誕生](../Page/細胞器.md "wikilink")，此胞器後來成為現今的粒線體，其基因組也在演化過程中轉變成粒線體DNA。
+[內共生理論認為](https://zh.wikipedia.org/wiki/內共生理論 "wikilink")[真核細胞最早的起源](https://zh.wikipedia.org/wiki/真核細胞 "wikilink")，是因為[原核細胞](https://zh.wikipedia.org/wiki/原核細胞 "wikilink")（細菌等）被吸收到另外一個細胞中，而沒有被消化。而這兩個細胞之後產生了[共生關係](../Page/共生.md "wikilink")，使最早的[細胞器誕生](../Page/細胞器.md "wikilink")，此胞器後來成為現今的粒線體，其基因組也在演化過程中轉變成粒線體DNA。
 
 ## 粒線體遺傳
 
-對動物而言，[受精卵中的mtDNA主要遺傳自母親](../Page/受精卵.md "wikilink")；而對[植物來說略有變異](../Page/植物.md "wikilink")，但仍然以母系遺傳為主；[真菌則源自雙親](../Page/真菌.md "wikilink")。
+對動物而言，[受精卵中的mtDNA主要遺傳自母親](../Page/受精卵.md "wikilink")；而對[植物來說略有變異](../Page/植物.md "wikilink")，但仍然以母系遺傳為主；[真菌則源自雙親](https://zh.wikipedia.org/wiki/真菌 "wikilink")。
 
 ### 雌性遺傳
 
 正常狀況下，粒線體只會遺傳自母親，以哺乳類而言，一般在受精之後，卵子細胞就會將[精子中的粒線體摧毀](../Page/精子.md "wikilink")\[2\]。1999年發表的研究中顯示，父系精子粒線體（含有mtDNA）帶有[泛素](../Page/泛素.md "wikilink")（ubiquitin）標記，因而在胚胎中會被挑選出來，進而遭到摧毀\[3\]。不過某些細胞外的人工受精技術可直接將精子注入卵子細胞內，可能會干擾摧毀精子粒線體的過程。
 
-由於母系遺傳的特性，使得研究者能夠藉由粒線體DNA，追溯長時間的母系族譜（與之相對的為專門用來追溯父系族譜的[Y染色體](../Page/Y染色體.md "wikilink")）。人類的粒線體DNA中累積了一些[高度變異控制區域](../Page/高度變異控制區域.md "wikilink")（hypervariable
+由於母系遺傳的特性，使得研究者能夠藉由粒線體DNA，追溯長時間的母系族譜（與之相對的為專門用來追溯父系族譜的[Y染色體](../Page/Y染色體.md "wikilink")）。人類的粒線體DNA中累積了一些[高度變異控制區域](https://zh.wikipedia.org/wiki/高度變異控制區域 "wikilink")（hypervariable
 control
 region；包括HVR1與HVR2），在HVR1中含有大約440個鹼基對，這些鹼基對可用來與其他個體（特定人士或資料庫中的訊息）的控制區作比對，進而測定出母系族譜。Vilà等人的研究中回溯了家犬與狼的母系祖先，同樣的分析方式也導出了[粒線體夏娃概念](../Page/粒線體夏娃.md "wikilink")，用於研究人類起源。
 
-由於mtDNA並非高度保守，而是擁有較快的突變速率，因此可用來研究[種系發生學](../Page/種系發生學.md "wikilink")，生物學家挑選少量不同物種的基因，分析其序列的保留與變異程度，可建立出演化樹。
+由於mtDNA並非高度保守，而是擁有較快的突變速率，因此可用來研究[種系發生學](https://zh.wikipedia.org/wiki/種系發生學 "wikilink")，生物學家挑選少量不同物種的基因，分析其序列的保留與變異程度，可建立出演化樹。
 
 ### 雄性遺傳
 
@@ -42,31 +42,31 @@ region；包括HVR1與HVR2），在HVR1中含有大約440個鹼基對，這些�
 
 ## 遺傳疾病
 
-粒線體DNA的突變可造成許多的疾病，如[運動障礙](../Page/運動障礙.md "wikilink")（exercise
-intolerance）或[凱塞症候群](../Page/凱塞症候群.md "wikilink")（Kearns-Sayre
+粒線體DNA的突變可造成許多的疾病，如[運動障礙](https://zh.wikipedia.org/wiki/運動障礙 "wikilink")（exercise
+intolerance）或[凱塞症候群](https://zh.wikipedia.org/wiki/凱塞症候群 "wikilink")（Kearns-Sayre
 syndrome，KSS），一種可使患者心臟、眼睛與肌肉完全失去运动功能的疾病。
 
 ## 遺傳密碼
 
-真菌、原生生物和人以及其它动物的粒線體中的[遺傳密碼與標準遺傳密碼的差異](../Page/遺傳密碼.md "wikilink")，主要變化如下：
+真菌、原生生物和人以及其它动物的粒線體中的[遺傳密碼與標準遺傳密碼的差異](https://zh.wikipedia.org/wiki/遺傳密碼 "wikilink")，主要變化如下：
 
-|         |                                      |                                      |                                                                        |
-| ------- | ------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------- |
-| **密碼子** | **通常的作用**                            | **例外的作用**                            | **所属的生物**                                                              |
-| UGA     | 中止編碼                                 | [色氨酸編碼](../Page/色氨酸.md "wikilink")   | 人、牛、酵母线粒体，[支原体](../Page/支原体.md "wikilink")(Mycoplasma)核基因组，如Capricolum |
-| AGR     | [精氨酸編碼](../Page/精氨酸.md "wikilink")   | 中止編碼                                 | 大部分动物线粒体，脊椎动物线粒体                                                       |
-| AGA     | [精氨酸編碼](../Page/精氨酸.md "wikilink")   | [丝氨酸編碼](../Page/丝氨酸.md "wikilink")   | 果蝇线粒体                                                                  |
-| AUA     | [異亮氨酸編碼](../Page/異亮氨酸.md "wikilink") | [蛋氨酸編碼](../Page/蛋氨酸.md "wikilink")   | 一些动物和酵母线粒体                                                             |
-| AAA     | [赖氨酸編碼](../Page/赖氨酸.md "wikilink")   | [天冬氨酸編碼](../Page/天冬氨酸.md "wikilink") | 一些动物的线粒体，果蝇线粒体                                                         |
-| CUN     | [亮氨酸編碼](../Page/亮氨酸.md "wikilink")   | [苏氨酸編碼](../Page/苏氨酸.md "wikilink")   | 酵母线粒体                                                                  |
+|         |                                                       |                                                       |                                                                                           |
+| ------- | ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **密碼子** | **通常的作用**                                             | **例外的作用**                                             | **所属的生物**                                                                                 |
+| UGA     | 中止編碼                                                  | [色氨酸編碼](../Page/色氨酸.md "wikilink")                    | 人、牛、酵母线粒体，[支原体](https://zh.wikipedia.org/wiki/支原体 "wikilink")(Mycoplasma)核基因组，如Capricolum |
+| AGR     | [精氨酸編碼](../Page/精氨酸.md "wikilink")                    | 中止編碼                                                  | 大部分动物线粒体，脊椎动物线粒体                                                                          |
+| AGA     | [精氨酸編碼](../Page/精氨酸.md "wikilink")                    | [丝氨酸編碼](https://zh.wikipedia.org/wiki/丝氨酸 "wikilink") | 果蝇线粒体                                                                                     |
+| AUA     | [異亮氨酸編碼](../Page/異亮氨酸.md "wikilink")                  | [蛋氨酸編碼](https://zh.wikipedia.org/wiki/蛋氨酸 "wikilink") | 一些动物和酵母线粒体                                                                                |
+| AAA     | [赖氨酸編碼](https://zh.wikipedia.org/wiki/赖氨酸 "wikilink") | [天冬氨酸編碼](../Page/天冬氨酸.md "wikilink")                  | 一些动物的线粒体，果蝇线粒体                                                                            |
+| CUN     | [亮氨酸編碼](../Page/亮氨酸.md "wikilink")                    | [苏氨酸編碼](https://zh.wikipedia.org/wiki/苏氨酸 "wikilink") | 酵母线粒体                                                                                     |
 
 ## 參見
 
-  - [人类粒线体DNA单倍体群](../Page/人类粒线体DNA单倍体群.md "wikilink")
-  - [單一起源說](../Page/單一起源說.md "wikilink")
+  - [人类粒线体DNA单倍体群](https://zh.wikipedia.org/wiki/人类粒线体DNA单倍体群 "wikilink")
+  - [單一起源說](https://zh.wikipedia.org/wiki/單一起源說 "wikilink")
   - [粒線體夏娃](../Page/粒線體夏娃.md "wikilink")
-  - [叶绿体DNA](../Page/叶绿体DNA.md "wikilink")
-  - [粒線體基因組](../Page/粒線體基因組.md "wikilink")
+  - [叶绿体DNA](https://zh.wikipedia.org/wiki/叶绿体DNA "wikilink")
+  - [粒線體基因組](https://zh.wikipedia.org/wiki/粒線體基因組 "wikilink")
 
 ## 參考文獻
 

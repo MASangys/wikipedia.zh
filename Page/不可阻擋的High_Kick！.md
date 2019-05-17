@@ -1,13 +1,13 @@
 《**不可阻擋的High
-Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[MBC出品的长篇](../Page/文化廣播_\(韓國\).md "wikilink")[家庭情景喜剧](../Page/家庭情景喜剧.md "wikilink")。该剧采用全新的喜剧模式，利用了[夸张](../Page/夸张.md "wikilink")[搞笑的方式来诠释了](../Page/搞笑.md "wikilink")[爱情](../Page/爱情.md "wikilink")、[亲情](../Page/亲情.md "wikilink")、[友情](../Page/友情.md "wikilink")、[间谍](../Page/间谍.md "wikilink")、[失业](../Page/失业.md "wikilink")、[同学关系](../Page/同学关系.md "wikilink")、[婆媳关系等等看似复杂的一切](../Page/婆媳关系.md "wikilink")，同时该剧的作为MBC继《[大長今](../Page/大长今_\(電視劇\).md "wikilink")》、《[男生女生向前走](../Page/男生女生向前走.md "wikilink")》之后在2006－2007年的又一大力作，不仅有老一代[李顺載](../Page/李顺載.md "wikilink")、[羅文姬等演员的参与](../Page/羅文姬.md "wikilink")，还使得[丁一宇](../Page/丁一宇.md "wikilink")、-{[金汎](../Page/金汎.md "wikilink")}-、[朴敏英等的新秀走红](../Page/朴敏英.md "wikilink")，并开始走上明星演员的道路。
+Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[MBC出品的长篇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[家庭情景喜剧](https://zh.wikipedia.org/wiki/家庭情景喜剧 "wikilink")。该剧采用全新的喜剧模式，利用了[夸张](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式来诠释了](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、[间谍](../Page/间谍.md "wikilink")、[失业](https://zh.wikipedia.org/wiki/失业 "wikilink")、[同学关系](https://zh.wikipedia.org/wiki/同学关系 "wikilink")、[婆媳关系等等看似复杂的一切](https://zh.wikipedia.org/wiki/婆媳关系 "wikilink")，同时该剧的作为MBC继《[大長今](https://zh.wikipedia.org/wiki/大长今_\(電視劇\) "wikilink")》、《[男生女生向前走](../Page/男生女生向前走.md "wikilink")》之后在2006－2007年的又一大力作，不仅有老一代[李顺載](https://zh.wikipedia.org/wiki/李顺載 "wikilink")、[羅文姬等演员的参与](../Page/羅文姬.md "wikilink")，还使得[丁一宇](../Page/丁一宇.md "wikilink")、-{[金汎](../Page/金汎.md "wikilink")}-、[朴敏英等的新秀走红](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")，并开始走上明星演员的道路。
 
 ## 剧名含义及译名
 
-该剧的[韩文原名为](../Page/韩文.md "wikilink")「」，英文名为「」，实际上名字的意义和该剧的剧情看似几乎无关，但也可以说是紧密相连。该剧主要介绍了韩医院一家人和他们朋友们夸张，搞笑、幸福、亲密的一家人，所以中国大陆和台湾在引进时官方将该剧命名为《[搞笑一家人](../Page/不可阻擋的High_Kick！.md "wikilink")》与《[搞笑一家亲](../Page/搞笑一家亲.md "wikilink")》，译名与原名没有任何关系。中国大陆的网友尤其是制作方将该剧稱为《不可阻挡的一家人\!》或者類似于該意思的名稱，基本上屬於直译，因这一译名可以寓意该剧想表达的不要放弃，勇往直前的精神。
+该剧的[韩文原名为](https://zh.wikipedia.org/wiki/韩文 "wikilink")「」，英文名为「」，实际上名字的意义和该剧的剧情看似几乎无关，但也可以说是紧密相连。该剧主要介绍了韩医院一家人和他们朋友们夸张，搞笑、幸福、亲密的一家人，所以中国大陆和台湾在引进时官方将该剧命名为《[搞笑一家人](../Page/不可阻擋的High_Kick！.md "wikilink")》与《[搞笑一家亲](https://zh.wikipedia.org/wiki/搞笑一家亲 "wikilink")》，译名与原名没有任何关系。中国大陆的网友尤其是制作方将该剧稱为《不可阻挡的一家人\!》或者類似于該意思的名稱，基本上屬於直译，因这一译名可以寓意该剧想表达的不要放弃，勇往直前的精神。
 
 ### 搞笑一家人
 
-《搞笑一家人》是中国大陆电视台使用的劇名，也是中国大陆官方劇名，是该剧2007年曾被[中国大陆引进时配音制作的用名](../Page/中国大陆.md "wikilink")。该剧也曾在各个地方电视台播出，如[吉林教育电视台](../Page/吉林教育电视台.md "wikilink")\[1\]等。
+《搞笑一家人》是中国大陆电视台使用的劇名，也是中国大陆官方劇名，是该剧2007年曾被[中国大陆引进时配音制作的用名](../Page/中国大陆.md "wikilink")。该剧也曾在各个地方电视台播出，如[吉林教育电视台](https://zh.wikipedia.org/wiki/吉林教育电视台 "wikilink")\[1\]等。
 
 ### 不可阻挡的一家人
 
@@ -21,7 +21,7 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 
 ### 剧情背景
 
-故事发生在[韩国首都](../Page/韩国.md "wikilink")[首尔的](../Page/首尔.md "wikilink")[黑石洞](../Page/黑石洞.md "wikilink")，民永和申智正式[离婚](../Page/离婚.md "wikilink")，申智留下孩子前往[俄罗斯进修](../Page/俄罗斯.md "wikilink")，将房子租给同学敏静，民永因此在父母家过起偷居过程，后因申智在俄罗斯遭[小偷变得身无分文无奈回国](../Page/小偷.md "wikilink")，并与敏静一同生活；文姬再次成了照顾孩子的[保姆](../Page/保姆.md "wikilink")，并同时忍受顺才和海美；充满[神秘的由美一家搬到了黑石洞附近](../Page/神秘.md "wikilink")，被由美打动的敏浩开起了自己的初恋之门；民永因无法忍受嫂子侵犯自己的隐私权经常与其展开不可阻挡的家庭搞笑战争；新老师敏静渐渐爱上了好友的前夫民永，允浩则愛上了自己的老师敏静……
+故事发生在[韩国首都](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的](https://zh.wikipedia.org/wiki/首尔 "wikilink")[黑石洞](https://zh.wikipedia.org/wiki/黑石洞 "wikilink")，民永和申智正式[离婚](https://zh.wikipedia.org/wiki/离婚 "wikilink")，申智留下孩子前往[俄罗斯进修](../Page/俄罗斯.md "wikilink")，将房子租给同学敏静，民永因此在父母家过起偷居过程，后因申智在俄罗斯遭[小偷变得身无分文无奈回国](https://zh.wikipedia.org/wiki/小偷 "wikilink")，并与敏静一同生活；文姬再次成了照顾孩子的[保姆](https://zh.wikipedia.org/wiki/保姆 "wikilink")，并同时忍受顺才和海美；充满[神秘的由美一家搬到了黑石洞附近](https://zh.wikipedia.org/wiki/神秘 "wikilink")，被由美打动的敏浩开起了自己的初恋之门；民永因无法忍受嫂子侵犯自己的隐私权经常与其展开不可阻挡的家庭搞笑战争；新老师敏静渐渐爱上了好友的前夫民永，允浩则愛上了自己的老师敏静……
 
 ### 李家世系图
 
@@ -51,18 +51,18 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李顺载.md" title="wikilink">李顺载</a><br />
-青年时期：<a href="../Page/李敏豪.md" title="wikilink">李敏豪</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李顺载" title="wikilink">李顺载</a><br />
+青年时期：<a href="https://zh.wikipedia.org/wiki/李敏豪" title="wikilink">李敏豪</a></p></td>
 <td><p>李顺才</p></td>
-<td><p><a href="../Page/孫德成.md" title="wikilink">孫德成</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫德成" title="wikilink">孫德成</a></p></td>
 <td><p>陆建艺</p></td>
 <td><p>70岁</p></td>
 <td><p>韓医院院长，孩子们的爷爷，俊河和民永的爸爸。是名义上的一家之主，實際上是大兒媳朴海美，除了儿媳经常对子孙打骂，虽是专制保守的父亲，却不失单纯的性格，价值观还是以金钱为准，对世俗的权威永远信任着。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/罗文姬.md" title="wikilink">罗文姬</a><br />
-青年时期：<a href="../Page/郑智安.md" title="wikilink">郑智安</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/罗文姬" title="wikilink">罗文姬</a><br />
+青年时期：<a href="https://zh.wikipedia.org/wiki/郑智安" title="wikilink">郑智安</a></p></td>
 <td><p>罗文姬</p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 <td><p>李蕴杰</p></td>
@@ -71,7 +71,7 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/郑俊河.md" title="wikilink">郑俊河</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/郑俊河" title="wikilink">郑俊河</a></p></td>
 <td><p>李俊河</p></td>
 <td><p><a href="../Page/林協忠.md" title="wikilink">林協忠</a></p></td>
 <td><p>陆揆</p></td>
@@ -85,16 +85,16 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 <td><p><a href="../Page/郭馨雅.md" title="wikilink">郭馨雅</a></p></td>
 <td><p>林兰</p></td>
 <td><p>45岁</p></td>
-<td><p>韓醫師，敏浩允浩的妈妈。能力强，经常充满自信！是实际上的一家之主，在所有人都畏懼的公公順才面前，是唯一能夠充滿自信说出自己主张的家庭成员，经常打断别人说话，对任何人都以自我為中心，包括公婆，感情丰富，言行很酷，口头禅是“OK!”。却患有严重的<a href="../Page/躁郁症.md" title="wikilink">躁郁症</a>，喜欢幫別人伴唱。</p></td>
+<td><p>韓醫師，敏浩允浩的妈妈。能力强，经常充满自信！是实际上的一家之主，在所有人都畏懼的公公順才面前，是唯一能夠充滿自信说出自己主张的家庭成员，经常打断别人说话，对任何人都以自我為中心，包括公婆，感情丰富，言行很酷，口头禅是“OK!”。却患有严重的<a href="https://zh.wikipedia.org/wiki/躁郁症" title="wikilink">躁郁症</a>，喜欢幫別人伴唱。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/崔民永.md" title="wikilink">崔民永</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/崔民永" title="wikilink">崔民永</a></p></td>
 <td><p>李民永</p></td>
 <td><p><a href="../Page/賀宇傑.md" title="wikilink">賀宇傑</a></p></td>
 <td><p>田波</p></td>
 <td><p>27岁</p></td>
-<td><p>是顺才40多岁生的小儿子，是敏浩、允浩讀的風坡高中的体育老师。大學畢業後不顧家人反對與同校學妹申智結了婚，兩年後又離了婚。剛開始因為前妻將他的房子意外出租給敏静只好搬回父母家，將剛出生的兒子交由母親照顧，為了避開父親，他躲到閣樓生活。是家里唯一一个对嫂子海美提出不满的家庭成员，从小到大一直喜欢向文姬撒娇，感性幽默却又有点刻薄的性格使他有<a href="../Page/布拉德·皮特.md" title="wikilink">布莱德皮特的称呼</a>，跟嫂子的家庭争斗又显得叛逆，可爱。</p></td>
+<td><p>是顺才40多岁生的小儿子，是敏浩、允浩讀的風坡高中的体育老师。大學畢業後不顧家人反對與同校學妹申智結了婚，兩年後又離了婚。剛開始因為前妻將他的房子意外出租給敏静只好搬回父母家，將剛出生的兒子交由母親照顧，為了避開父親，他躲到閣樓生活。是家里唯一一个对嫂子海美提出不满的家庭成员，从小到大一直喜欢向文姬撒娇，感性幽默却又有点刻薄的性格使他有<a href="https://zh.wikipedia.org/wiki/布拉德·皮特" title="wikilink">布莱德皮特的称呼</a>，跟嫂子的家庭争斗又显得叛逆，可爱。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -103,41 +103,41 @@ Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[M
 <td><p><a href="../Page/曾允凡.md" title="wikilink">曾允凡</a></p></td>
 <td><p>纪元</p></td>
 <td><p>26岁</p></td>
-<td><p>演唱广告歌曲的歌手，民永的前妻，俊儿的妈妈。為人不諳世事、不成熟。父母居住在美國。是民永的大学社团同学，两人相恋并结婚，但申智由于民永的关系，使自己丧失了很多工作机会，最终因工作意见不合二人选择離婚；离婚后開始留学生活并没有很好，与前<a href="../Page/婆婆.md" title="wikilink">婆婆文姬的关系很好</a>，最终又重新爱上民永，但此时民永已有新欢……</p></td>
+<td><p>演唱广告歌曲的歌手，民永的前妻，俊儿的妈妈。為人不諳世事、不成熟。父母居住在美國。是民永的大学社团同学，两人相恋并结婚，但申智由于民永的关系，使自己丧失了很多工作机会，最终因工作意见不合二人选择離婚；离婚后開始留学生活并没有很好，与前<a href="https://zh.wikipedia.org/wiki/婆婆" title="wikilink">婆婆文姬的关系很好</a>，最终又重新爱上民永，但此时民永已有新欢……</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/金彗星.md" title="wikilink">金彗星</a></p></td>
 <td><p>李敏浩</p></td>
-<td><p><a href="../Page/張哲誠.md" title="wikilink">張哲誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張哲誠" title="wikilink">張哲誠</a></p></td>
 <td><p>边江</p></td>
 <td><p>17岁</p></td>
 <td><p>高一生，俊河的长子。学习成绩优异，却对打架一窍不通，所以性格有些懦弱，但很单纯，受到全家人的喜欢，尤其是爷爷顺才，母亲海美；经常受到弟弟允浩的欺负，长相可以用俊俏来形容，可是女生緣一直不好，羨慕著弟弟允浩擁有高個子、好體格以及良好的女生綠,友美的男友,對剛搬家,第一次到他家的友美一見鍾情,起初忌妒弟弟允豪喜歡友美,後來跟友美交往。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a> 青年时期：<a href="../Page/趙榮旻.md" title="wikilink">趙榮旻</a></p></td>
+<p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a> 青年时期：<a href="https://zh.wikipedia.org/wiki/趙榮旻" title="wikilink">趙榮旻</a></p></td>
 <td><p>李允浩</p></td>
-<td><p><a href="../Page/黃乾師.md" title="wikilink">黃乾師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃乾師" title="wikilink">黃乾師</a></p></td>
 <td><p><a href="../Page/姜广涛.md" title="wikilink">姜广涛</a></p></td>
 <td><p>16岁</p></td>
 <td><p>高一生，俊河的次子，敏浩的弟弟。是一个长相帅气，肌肉发达，头脑简单。擅长用High Kick（高踢腿）打架却对学习一窍不通，從小發育就快，因為7歲入學，和敏浩同一年级，並且被分到同一班。小学时学习很好，初中后开始对摩托车感兴趣而分散了精力。喜欢年长的姐姐，也经常受年长的姐姐的喜爱，第一次由美到她家的時候對她一見鍾情過,因為發現跟哥哥親吻,以為由美玩弄她,很生氣,後來就沒有繼續喜歡由美，後來愛上老師敏靜，与班主任徐敏静发生了一段令人难忘的师生恋。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/徐敏静.md" title="wikilink">徐敏静</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/徐敏静" title="wikilink">徐敏静</a></p></td>
 <td><p>徐敏静<br />
 [6]</p></td>
-<td><p><a href="../Page/林凱羚.md" title="wikilink">林凱羚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林凱羚" title="wikilink">林凱羚</a></p></td>
 <td><p>张铠</p></td>
 <td><p>26岁</p></td>
 <td><p>申智的好友，民永的女友。被分配到民永所在的風坡高中，成為了敏浩允浩班級的英文老师以及班主任，為人樂觀经常帶著灿烂的微笑，却总是意外的摔倒，与其说是老师倒不如说是孩子们的姐姐，基本没有威严，但偶尔也会体罚学生。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/朴敏英.md" title="wikilink">朴敏英</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a></p></td>
 <td><p>姜由美</p></td>
-<td><p><a href="../Page/潘慕嫻.md" title="wikilink">潘慕嫻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘慕嫻" title="wikilink">潘慕嫻</a></p></td>
 <td><p>纪元</p></td>
 <td><p>17岁</p></td>
 <td><p>实际年龄20岁，敏浩的女友，母亲是海美的同学好友。搬家後與敏浩家成了鄰居，非常漂亮，,一開始對允浩一見鍾情,哥哥敏浩對她一见钟情，看似温和，却有着<a href="../Page/间谍.md" title="wikilink">间谍身份和非常凶的个性</a>，擅长跑步，却经常装作无知、不懂英语，身份充满神秘。</p></td>
@@ -187,13 +187,13 @@ Kick在韩国MBC电视台缔造了又一次的收视狂潮，该台黄金时段�
 
 ## 翻拍
 
-2011年获得韩国MBC电视台授权后，由高亚麟导演翻拍了中国大陆版的《搞笑一家人》，故事以及人物设定基本与韩国原版相同，演员大部分来自大陆著名情景喜剧《[炊事班的故事](../Page/炊事班的故事.md "wikilink")》《[家有儿女](../Page/家有儿女.md "wikilink")》《[武林外传](../Page/武林外传.md "wikilink")》。总共40集\[9\],剧情则只进展到原版的一半。目前在大陆网络上由[芒果TV](../Page/芒果TV.md "wikilink")、乐视TV播放。
+2011年获得韩国MBC电视台授权后，由高亚麟导演翻拍了中国大陆版的《搞笑一家人》，故事以及人物设定基本与韩国原版相同，演员大部分来自大陆著名情景喜剧《[炊事班的故事](https://zh.wikipedia.org/wiki/炊事班的故事 "wikilink")》《[家有儿女](../Page/家有儿女.md "wikilink")》《[武林外传](../Page/武林外传.md "wikilink")》。总共40集\[9\],剧情则只进展到原版的一半。目前在大陆网络上由[芒果TV](https://zh.wikipedia.org/wiki/芒果TV "wikilink")、乐视TV播放。
 
 ### 演员对应
 
   - [高亚麟](../Page/高亚麟.md "wikilink")-李正勋（李俊河）
-  - [牛莉](../Page/牛莉.md "wikilink")-白梦（朴海美）
-  - [白志迪](../Page/白志迪.md "wikilink")-李保泰（李顺才）
+  - [牛莉](https://zh.wikipedia.org/wiki/牛莉 "wikilink")-白梦（朴海美）
+  - [白志迪](https://zh.wikipedia.org/wiki/白志迪 "wikilink")-李保泰（李顺才）
   - 宫景华-罗淑珍（罗文姬）
   - 侯凯-李正元（李民勇）
   - 杨梅-沈玲（申智）
@@ -212,8 +212,8 @@ Kick在韩国MBC电视台缔造了又一次的收视狂潮，该台黄金时段�
   - [刘亚津](../Page/刘亚津.md "wikilink")-教导主任（教导主任）
   - 殷桃-电台编导
   - 娄明-小时工（钟点工），奶奶罢工时爷爷请来的小时工。
-  - [李彬](../Page/李彬.md "wikilink")&刘刚-节目主持人
-  - [毛孩](../Page/毛孩.md "wikilink")-跆拳道高手（大军儿子？）
+  - [李彬](https://zh.wikipedia.org/wiki/李彬 "wikilink")&刘刚-节目主持人
+  - [毛孩](https://zh.wikipedia.org/wiki/毛孩 "wikilink")-跆拳道高手（大军儿子？）
   - 顾宇峰-韩瑛明（韩英民）
   - 王磊-王三石（李瑞贤警官）
   - 洪剑涛-文工团艺术总监

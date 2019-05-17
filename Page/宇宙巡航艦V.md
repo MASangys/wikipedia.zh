@@ -1,9 +1,9 @@
-是一款日本遊戲公司[Treasure所開發](../Page/:en:Treasure_\(company\).md "wikilink")，由[科樂美發行之射擊遊戲](../Page/科樂美.md "wikilink")，屬於橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》的作品，於2004年7月22日在日本上市。本作是第一部宇宙巡航艦的本傳作品直接跳過街機而發行於家用平台上之遊戲，並於遊戲中加入了些過去家用版作品的要素。
+是一款日本遊戲公司[Treasure所開發](https://zh.wikipedia.org/wiki/:en:Treasure_\(company\) "wikilink")，由[科樂美發行之射擊遊戲](../Page/科樂美.md "wikilink")，屬於橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》的作品，於2004年7月22日在日本上市。本作是第一部宇宙巡航艦的本傳作品直接跳過街機而發行於家用平台上之遊戲，並於遊戲中加入了些過去家用版作品的要素。
 
 ## 劇情
 
 Gradius曆8010年以Big Core Mk-I Rev 1.2及大量Zeros
-Force所構成的新生Bacterion軍團突然自Gradius星軌道上脫離超空間航行，並對[軌道宇宙站進行奇襲](../Page/太空站.md "wikilink")，造成嚴重打擊。Gradius軍立即開始進行反擊，並對超時空戰鬥機Vic
+Force所構成的新生Bacterion軍團突然自Gradius星軌道上脫離超空間航行，並對[軌道宇宙站進行奇襲](https://zh.wikipedia.org/wiki/太空站 "wikilink")，造成嚴重打擊。Gradius軍立即開始進行反擊，並對超時空戰鬥機Vic
 Viper T-301下達緊急出動命令。
 
 ## 遊戲系統
@@ -44,7 +44,7 @@ Viper T-301下達緊急出動命令。
   -
     子機與自機上下一字型排開，按住子機操作鍵可以自由變換各子機之間的距離。除了固定式以外的子機在不使用子機操作鍵的時候都與過去的作品一樣，會跟著自機移動。源於《高弗的野望二部曲》
     (GOFER's Ambition Episode II)中的固定式(Fixed)，並導入了[Thunder
-    Cross的四架子機可變稱行距的操作](../Page/:en:Thunder_Cross_\(arcade_game\).md "wikilink")。
+    Cross的四架子機可變稱行距的操作](https://zh.wikipedia.org/wiki/:en:Thunder_Cross_\(arcade_game\) "wikilink")。
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@ Viper T-301下達緊急出動命令。
 <!-- end list -->
 
   - 導入《沙羅曼蛇》的要素
-    本遊戲導入了兩項來自《[沙羅曼蛇](../Page/沙羅曼蛇.md "wikilink")》的要素：
+    本遊戲導入了兩項來自《[沙羅曼蛇](https://zh.wikipedia.org/wiki/沙羅曼蛇 "wikilink")》的要素：
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@ Viper T-301下達緊急出動命令。
 <!-- end list -->
 
   -
-    兩發子彈從自機前方成45度角發射。來自《[宇宙巡航艦Ⅲ](../Page/宇宙巡航艦Ⅲ_-從傳說到神話-.md "wikilink")》（Gradius
+    兩發子彈從自機前方成45度角發射。來自《[宇宙巡航艦Ⅲ](https://zh.wikipedia.org/wiki/宇宙巡航艦Ⅲ_-從傳說到神話- "wikilink")》（Gradius
     III）武器編輯功能中的同名武器，但本遊戲中並無二段強化。
 
 *雷射武器*
@@ -367,7 +367,7 @@ Last Enemy</p></td>
 
 <!-- end list -->
 
-  - 第七關的高速關卡，參考了SFC上所發行的《[宇宙巡航艦Ⅲ](../Page/宇宙巡航艦Ⅲ_-從傳說到神話-.md "wikilink")》第七關，一樣是高速關卡，且頭目也一樣是畢肯()。
+  - 第七關的高速關卡，參考了SFC上所發行的《[宇宙巡航艦Ⅲ](https://zh.wikipedia.org/wiki/宇宙巡航艦Ⅲ_-從傳說到神話- "wikilink")》第七關，一樣是高速關卡，且頭目也一樣是畢肯()。
 
 ## 得獎情報
 

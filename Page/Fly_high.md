@@ -1,223 +1,42 @@
 《**Fly
-High**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE
-H的首張迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2013年1月11日發行。唱片公司為[Woollim娛樂](https://zh.wikipedia.org/wiki/Woollim娛樂 "wikilink")。
+high**》（高飛）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilink")13張單曲，2000年2月9日於日本發售。
 
-## 概要
+## 說明
 
-  - 「Fly High」是Infinite的子團體Infinite H的第1枚迷你專輯。
-  - 「Special Girl」為此專輯的主打曲目。
-  - 此專輯由Primary、Zion.T和[Dynamic
-    Duo的Gaeko等多位知名音樂人創作](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")，以Hip
-    Hop為主的音樂類型。
+  - 本作為去年11月10日發行第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》的重發單曲。為完全限定生產30萬張。CD殼為粉紅半透明殼。
+  - 本作最後一音軌《Fly high "Vocal Track"》乃為廣為募集混音作品之目的所收錄。
+  - 歌詞紙為塑膠製透明材質。
+  - 本作除重發自去年11月10日發行第二張原創專輯《[LOVEppears](../Page/LOVEppears.md "wikilink")》外的單曲版本未收錄於之後的精選輯之中。
+  - 本作收錄的混音歌曲除了《Fly
+    high》外，尚有第11張單曲《[appears](https://zh.wikipedia.org/wiki/appears "wikilink")》及第12張單曲《[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")》的混音版本。
+  - 本作拍攝[音樂錄影帶收錄的是第一音軌的單曲版本](../Page/音樂錄影帶.md "wikilink")。
 
-## 收錄內容
+## 收錄歌曲
 
-### CD
-
-1.  **Victorious Way**
-2.  **Special Girl**（feat. Bumky）
+1.  **Fly high "HΛL's MIX 2000"**
       -
-        1st迷你專輯「Fly High」主打曲目
-3.  **Without You**（feat. Zion.T）
-4.  **I Can't Tell You**（feat. Gaeko Of Dynamic Duo）
-5.  **Fly High**（feat. Baby Soul）
+        作曲：[D・A・I](../Page/長尾大.md "wikilink")
+        編曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")
+        [LYCOS廣告歌曲](https://zh.wikipedia.org/wiki/LYCOS "wikilink")
+2.  **Fly high "SAMPLE MADNESS REMIX"**
+3.  **Fly high "Supreme Mix"**
+4.  **Fly high "Acoustic Orchestra Version"**
+5.  **Fly high "SHARP BOYS U.K. VOCAL MIX"**
+6.  **Fly high "Saturation Remix"**
+7.  **[appears](https://zh.wikipedia.org/wiki/appears "wikilink") "HW
+    Club Mix"**
+8.  **Fly high "Dub's F Remix"**
+9.  **Fly high -NON STOP MIX- "N.S DANCE MEGA MIX"**
+10. **[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
+    "fake compilation"**
+11. **Fly high "Album Version" -Instrumental-**
+12. **Fly high "Vocal Track"**
 
-## 成績
+## 參考資料
 
-### 專輯
+<references/>
 
-<table>
-<thead>
-<tr class="header">
-<th><p>排行榜</p></th>
-<th><p>最高<br />
-位置</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><em>Gaon</em> 每週專輯排行榜[1]</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p><em>Gaon</em> 每月專輯排行榜[2]</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p><em>Hanteo</em> 每日專輯排行榜[3]</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td><p><em>Hanteo</em> 每週專輯排行榜[4]</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="odd">
-<td><p><em>Hanteo</em> 每月專輯排行榜[5]</p></td>
-<td><p>4</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+[en:Fly High](https://zh.wikipedia.org/wiki/en:Fly_High "wikilink")
 
-### 音源排名
-
-<table>
-<thead>
-<tr class="header">
-<th><p>歌曲名稱</p></th>
-<th><p>最高位置</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>melon排行榜<br />
-</p></td>
-<td><p>Mnet排行榜<br />
-</p></td>
-</tr>
-<tr class="even">
-<td><p>Special Girl (feat. Bumky)</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Without You (feat. Zion.T)</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### Gaon榜
-
-***Special Girl (feat. Bumky)***
-
-<table>
-<thead>
-<tr class="header">
-<th><p>排行榜</p></th>
-<th><p>最高位置<br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Gaon綜合單曲週榜[6]</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="even">
-<td><p>Gaon韓國國內單曲週榜[7]</p></td>
-<td><p>5</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gaon音源線上播放榜[8]</p></td>
-<td><p>10</p></td>
-</tr>
-<tr class="even">
-<td><p>Gaon音源下載榜[9]</p></td>
-<td><p>3</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gaon BGM榜[10]</p></td>
-<td><p>2</p></td>
-</tr>
-<tr class="even">
-<td><p>Gaon手機鈴聲銷售量榜[11]</p></td>
-<td><p>6</p></td>
-</tr>
-</tbody>
-</table>
-
-***Without You (feat. Zion.T)***
-
-<table>
-<thead>
-<tr class="header">
-<th><p>排行榜</p></th>
-<th><p>最高位置<br />
-</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Gaon綜合單曲週榜[12]</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="even">
-<td><p>Gaon韓國國內單曲週榜[13]</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gaon音源線上播放榜[14]</p></td>
-<td><p>49</p></td>
-</tr>
-<tr class="even">
-<td><p>Gaon音源下載榜[15]</p></td>
-<td><p>22</p></td>
-</tr>
-<tr class="odd">
-<td><p>Gaon BGM榜[16]</p></td>
-<td><p>11</p></td>
-</tr>
-</tbody>
-</table>
-
-## 發行歷史
-
-<table>
-<thead>
-<tr class="header">
-<th><p>國家</p></th>
-<th><p>日期</p></th>
-<th><p>唱片公司</p></th>
-<th><p>形式</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a></p></td>
-<td><center>
-<p>2013年1月11日</p>
-</center></td>
-<td><center>
-<p>LOEN Entertainment</p>
-</center></td>
-<td><center>
-<p>數碼下載</p>
-</center></td>
-</tr>
-<tr class="even">
-<td><center>
-<p>CD</p>
-</center></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 参考文獻
-
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:INFINITE_H音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE_H音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-
-1.
-
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+[Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
+[Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

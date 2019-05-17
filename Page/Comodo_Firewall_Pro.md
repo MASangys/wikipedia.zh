@@ -1,5 +1,5 @@
 **Comodo Firewall
-Pro**是美国[科摩多集團开发的一款免费的](../Page/科摩多集團.md "wikilink")[防火墙软件](../Page/防火墙.md "wikilink")。
+Pro**是美国[科摩多集團开发的一款免费的](https://zh.wikipedia.org/wiki/科摩多集團 "wikilink")[防火墙软件](../Page/防火墙.md "wikilink")。
 
 ## 特点
 
@@ -7,13 +7,16 @@ Pro**是美国[科摩多集團开发的一款免费的](../Page/科摩多集團.
     Firewall自身集成了COMODO已认证程序数据库，包括了近20,000个通过认证的可执行文件的数字认证（校验）信息。
   - 提供两层保护，对外的网络防火墙和对内的应用程序防火墙（应用程序＋组件检测）。
   - 提供多种语言界面，其中包含简体及繁体中文版。\[1\]
-  - 5.0版本开始加入了[云分析](../Page/云计算.md "wikilink")（Cloud）。
+  - 5.0版本开始加入了[云分析](https://zh.wikipedia.org/wiki/云计算 "wikilink")（Cloud）。
 
 ## 參見
 
-  - [Comodo Group](../Page/Comodo_Group.md "wikilink")
-  - [Comodo AntiVirus](../Page/Comodo_AntiVirus.md "wikilink")
-  - [Comodo Dragon](../Page/Comodo_Dragon.md "wikilink")
+  - [Comodo
+    Group](https://zh.wikipedia.org/wiki/Comodo_Group "wikilink")
+  - [Comodo
+    AntiVirus](https://zh.wikipedia.org/wiki/Comodo_AntiVirus "wikilink")
+  - [Comodo
+    Dragon](https://zh.wikipedia.org/wiki/Comodo_Dragon "wikilink")
 
 ## 注釋
 

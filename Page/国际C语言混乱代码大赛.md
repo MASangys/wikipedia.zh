@@ -1,14 +1,14 @@
 **国际C语言混乱代码大赛**（IOCCC, The International Obfuscated C Code
-Contest）是一项国际[程式設計赛事](../Page/程式設計.md "wikilink")。从1984年开始，本赛事每年举办一次（1997年、1999年、2002年、2003年和2006年例外）\[1\]。本赛事的目的是写出最有创意和最让人难以理解的[C语言代碼](../Page/C语言.md "wikilink")。
+Contest）是一项国际[程式設計赛事](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。从1984年开始，本赛事每年举办一次（1997年、1999年、2002年、2003年和2006年例外）\[1\]。本赛事的目的是写出最有创意和最让人难以理解的[C语言代碼](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
-從線上提交开始，作品需要經過好幾回合的裁判審核。评判作品的标准基於濫用混亂代碼的程度（以及濫用程度的創造性）。通過最後一輪審核的作品會被歸成特別的一類以示嘉獎，例如「最濫用C[预處理器](../Page/预處理器.md "wikilink")」或者「最古怪的行為」，並且發表在官方IOCCC網站。获胜作品将被公示于IOCCC网站，并以此作为奖赏。
+從線上提交开始，作品需要經過好幾回合的裁判審核。评判作品的标准基於濫用混亂代碼的程度（以及濫用程度的創造性）。通過最後一輪審核的作品會被歸成特別的一類以示嘉獎，例如「最濫用C[预處理器](https://zh.wikipedia.org/wiki/预處理器 "wikilink")」或者「最古怪的行為」，並且發表在官方IOCCC網站。获胜作品将被公示于IOCCC网站，并以此作为奖赏。
 
 ## 歷史
 
-IOCCC是由[藍登·克特·諾爾](../Page/藍登·克特·諾爾.md "wikilink")（Landon Curt
-Noll）與[拉里·貝索](../Page/拉里·貝索.md "wikilink")（Larry
-Bassel）在1984年受雇於[國家半導體](../Page/國家半導體.md "wikilink")（National
-Semiconductor）的[Genix程式移植事業群時開始的](../Page/Genix.md "wikilink")。比賽的點子是來自他們倆比較彼此有關於它們得修正的某些寫得很爛的程式碼筆記\[2\]。
+IOCCC是由[藍登·克特·諾爾](https://zh.wikipedia.org/wiki/藍登·克特·諾爾 "wikilink")（Landon
+Curt Noll）與[拉里·貝索](https://zh.wikipedia.org/wiki/拉里·貝索 "wikilink")（Larry
+Bassel）在1984年受雇於[國家半導體](https://zh.wikipedia.org/wiki/國家半導體 "wikilink")（National
+Semiconductor）的[Genix程式移植事業群時開始的](https://zh.wikipedia.org/wiki/Genix "wikilink")。比賽的點子是來自他們倆比較彼此有關於它們得修正的某些寫得很爛的程式碼筆記\[2\]。
 
 ## 規則
 
@@ -18,31 +18,31 @@ Semiconductor）的[Genix程式移植事業群時開始的](../Page/Genix.md "wi
 
 ## 被使用過的混亂規則
 
-出于該賽事的本質，作品通常运用奇怪或者不尋常的語法竅門，如利用C[预處理器去做不合设计本意的事](../Page/预處理器.md "wikilink")、或者避免C程式語言正常使用的建構式，以用更曖昧難解的方式來達到同樣效果。舉例來說，下面是2004年得獎作品裡的引言：
+出于該賽事的本質，作品通常运用奇怪或者不尋常的語法竅門，如利用C[预處理器去做不合设计本意的事](https://zh.wikipedia.org/wiki/预處理器 "wikilink")、或者避免C程式語言正常使用的建構式，以用更曖昧難解的方式來達到同樣效果。舉例來說，下面是2004年得獎作品裡的引言：
 
   - 為了讓事情簡單點，得避免经过C预處理器以及其他刁鑽的敘述如「if」、「for」、「do」、「while」、「switch」、以及「goto」\[3\]。
   - 人們還是不太確定這是否是个個有用的程式，不過這是IOCCC首見的核裂變反應\[4\]。
   - 為何不用程式來把另一段程式藏在程式中？這在當下看起來一定相當合理\[5\]。
-  - 該程式在C预處理器裡實現了11位元的[算數邏輯單元](../Page/算數邏輯單元.md "wikilink")\[6\]。
+  - 該程式在C预處理器裡實現了11位元的[算數邏輯單元](https://zh.wikipedia.org/wiki/算數邏輯單元 "wikilink")\[6\]。
   - 人們找到自我递归超過650萬次的用来計算從1到1024間質數的程式\[7\]。
 
 許多卓著的貢獻包括：
 
-  - 將程式碼排成圖形或文字，如同[ASCII藝術](../Page/ASCII藝術.md "wikilink")。
+  - 將程式碼排成圖形或文字，如同[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")。
   - 使用預處理器讓代碼難以閱讀。
-  - [自我修改代碼](../Page/程序自修改.md "wikilink")。
+  - [自我修改代碼](https://zh.wikipedia.org/wiki/程序自修改 "wikilink")。
   - 最大限度濫用規則。許多年來，某些參賽作品如此公然謬用規則導致IOCCC需要於下年度重新定義某些規則。不容置疑的這是一種高度榮譽。一個範例是世界最短的[自我繁殖程式](../Page/自產生程式.md "wikilink")。該作品是為零位元長度的程式，如果執行列印零位元到螢幕上（這需要某具有創造力的對[makefile應用才能讓它執行正確](../Page/Make.md "wikilink")）\[8\]。
 
 本競賽有著自然而然在C語言標準規範邊際遊走的編程本質，或者觸發極少用到的編譯器編譯後代碼路徑。這導致許多過去的作品可能無法直接通過當代編譯器，並且某些可能甚至造成該程式崩潰。
 
 ## 範例
 
-在程式碼限定於區區幾千位元組條件下，參賽者得想盡辦法做複雜的事——例如某2004年大賽得獎者代碼實際上是個[作業系統](../Page/作業系統.md "wikilink")\[9\]。
+在程式碼限定於區區幾千位元組條件下，參賽者得想盡辦法做複雜的事——例如某2004年大賽得獎者代碼實際上是個[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[9\]。
 
 ### 計算圓周率
 
-下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](../Page/面積.md "wikilink")[圓周率](../Page/圓周率.md "wikilink")\[10\]，該作品是以[K\&R
-C寫成](../Page/K&R_C.md "wikilink")；代碼得做些小修改才能在[ANSI
+下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](https://zh.wikipedia.org/wiki/面積 "wikilink")[圓周率](https://zh.wikipedia.org/wiki/圓周率 "wikilink")\[10\]，該作品是以[K\&R
+C寫成](https://zh.wikipedia.org/wiki/K&R_C "wikilink")；代碼得做些小修改才能在[ANSI
 C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
 
 ``` c
@@ -137,8 +137,8 @@ C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
 
 ## 參見
 
-  - [混亂Perl代碼大賽](../Page/混亂Perl代碼大賽.md "wikilink")
-  - [卑劣C代碼大賽](../Page/卑劣C代碼大賽.md "wikilink")
+  - [混亂Perl代碼大賽](https://zh.wikipedia.org/wiki/混亂Perl代碼大賽 "wikilink")
+  - [卑劣C代碼大賽](https://zh.wikipedia.org/wiki/卑劣C代碼大賽 "wikilink")
 
 ## 參考資料
 

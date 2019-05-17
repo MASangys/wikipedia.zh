@@ -1,5 +1,5 @@
 **TJS2**，即是第二代 TJS ，是種一由 W.Dee
-開發，主要用於[吉里吉里的](../Page/吉里吉里.md "wikilink")[內嵌式](../Page/腳本語言#扩展/可嵌入语言.md "wikilink")[腳本](../Page/腳本語言.md "wikilink")[程式設計語言](../Page/程式設計語言.md "wikilink")。
+開發，主要用於[吉里吉里的](../Page/吉里吉里.md "wikilink")[內嵌式](https://zh.wikipedia.org/wiki/腳本語言#扩展/可嵌入语言 "wikilink")[腳本](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")。
 
 ## 概述
 
@@ -31,13 +31,13 @@ TJS2 是一種弱類型動態物件導向語言。支持：
 
 ### 跨平臺性
 
-TJS2本身是[跨平臺的](../Page/跨平臺.md "wikilink")，但其宿主程式[吉里吉里2的框架暫時不是](../Page/吉里吉里2.md "wikilink")[跨平臺而依賴於Windows作業系統](../Page/跨平臺.md "wikilink")。
+TJS2本身是[跨平臺的](../Page/跨平臺.md "wikilink")，但其宿主程式[吉里吉里2的框架暫時不是](https://zh.wikipedia.org/wiki/吉里吉里2 "wikilink")[跨平臺而依賴於Windows作業系統](../Page/跨平臺.md "wikilink")。
 
 ## 產品
 
 ### KAG3
 
-由W.Dee氏開發的[KAG3系統](../Page/吉里吉里#KAG3.md "wikilink")，主要用於開發視覺化文字[冒險遊戲](../Page/冒險遊戲.md "wikilink")（AVG），也可以用於開發[養成遊戲或其他種類的電子遊戲](../Page/養成遊戲.md "wikilink")。
+由W.Dee氏開發的[KAG3系統](https://zh.wikipedia.org/wiki/吉里吉里#KAG3 "wikilink")，主要用於開發視覺化文字[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")（AVG），也可以用於開發[養成遊戲或其他種類的電子遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。
 
 ## 外部連結
 

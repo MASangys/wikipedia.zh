@@ -1,4 +1,4 @@
-《**王菀之Ivana首張國語創作專輯**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第三張錄音室專輯](../Page/王菀之.md "wikilink")、首張[國語](../Page/國語.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，台灣版發行日期為2007年12月6日，香港版發行日期為2007年12月18日，第二版發行於2008年2月15日。第一版包括一隻CD，共收錄了十一首新歌及兩首Bonus
+《**王菀之Ivana首張國語創作專輯**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第三張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、首張[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，台灣版發行日期為2007年12月6日，香港版發行日期為2007年12月18日，第二版發行於2008年2月15日。第一版包括一隻CD，共收錄了十一首新歌及兩首Bonus
 Track。\[1\]
 除了四首歌曲為全新創作外，其餘歌曲均從王菀之舊作改編。香港版特別收錄全新廣東歌《奇異恩典》；第二版包括一隻CD及一隻DVD，DVD中收錄了三首新歌的MV。全碟歌曲均由王菀之作曲（《奇異恩典》除外）。
 
@@ -7,14 +7,14 @@ Track。\[1\]
 **备注:**
 
   - 《是爱》的英语版本为《Love Has It All》。
-  - 《爱与奇异果》的粤语版本为[杨千嬅主唱的](../Page/杨千嬅.md "wikilink")《郎来了》。
+  - 《爱与奇异果》的粤语版本为[杨千嬅主唱的](https://zh.wikipedia.org/wiki/杨千嬅 "wikilink")《郎来了》。
   - 《自娱》的粤语版本为《诗情》。
   - 《揣摩》的粤语版本为《融了钟的时间》。
   - 《自从》的粤语版本为《把戏》。
   - 《流转摩天轮》的粤语版本为《(巴黎没有)摩天轮》。
   - 《迷湖》的粤语版本为《面具》。
   - 《Why Aren't You
-    Here?》是薛凯琪主唱的《冬眠》[demo版本](../Page/样本唱片.md "wikilink")。
+    Here?》是薛凯琪主唱的《冬眠》[demo版本](https://zh.wikipedia.org/wiki/样本唱片 "wikilink")。
   - 《Where Is My Teddy?》 是《恨也讲资格》demo版本。
 
 ## 音樂排行榜

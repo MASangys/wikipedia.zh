@@ -3,13 +3,13 @@
 ## 描述
 
 是[IBM公司为在Linux系统上运行如](../Page/IBM.md "wikilink")[Lotus
-Notes等软件而在](../Page/Lotus_Notes.md "wikilink")[Red Hat
-Enterprise
+Notes等软件而在](https://zh.wikipedia.org/wiki/Lotus_Notes "wikilink")[Red
+Hat Enterprise
 Linux基础上开发的操作系统](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
 
 ## 特点
 
-提供对应于[fedora](../Page/fedora.md "wikilink")9,[ubuntu](../Page/ubuntu.md "wikilink")8,[SELD的layer](../Page/SELD.md "wikilink")，这个layer简单的解释就是在原[linux套件基础上安装一些IBM的商业软件](../Page/linux套件.md "wikilink")。
+提供对应于[fedora](https://zh.wikipedia.org/wiki/fedora "wikilink")9,[ubuntu](https://zh.wikipedia.org/wiki/ubuntu "wikilink")8,[SELD的layer](https://zh.wikipedia.org/wiki/SELD "wikilink")，这个layer简单的解释就是在原[linux套件基础上安装一些IBM的商业软件](https://zh.wikipedia.org/wiki/linux套件 "wikilink")。
 
 ## 版本
 
@@ -23,7 +23,7 @@ Linux基础上开发的操作系统](../Page/Red_Hat_Enterprise_Linux.md "wikili
 
 ## 参见
 
-  - [Linux套件列表](../Page/Linux套件列表.md "wikilink")
+  - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
 
 ## 外部链接
 

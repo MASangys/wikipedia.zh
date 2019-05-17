@@ -1,14 +1,16 @@
 《**Passion**》是[宇多田光第](../Page/宇多田光.md "wikilink")15張日語單曲，於2005年12月14日發行，初動5萬張，累計銷售11萬張。
 
-本曲的英文版為《Sanctuary》，為[王國之心 II全球版的主題曲](../Page/王國之心_II.md "wikilink")。
+本曲的英文版為《Sanctuary》，為[王國之心
+II全球版的主題曲](https://zh.wikipedia.org/wiki/王國之心_II "wikilink")。
 
 對本曲內容，她提到：
 
 ## 概要
 
-  - [史克威爾艾尼克斯的遊戲軟體](../Page/史克威爾艾尼克斯.md "wikilink")「[王國之心
-    II](../Page/王國之心_II.md "wikilink")」的主題曲，是繼《[光](../Page/光_\(宇多田光單曲\).md "wikilink")》及《[Simple
-    And Clean](../Page/COLORS_\(單曲\).md "wikilink")》後，繼續採用為同一系列的主題曲。
+  - [史克威爾艾尼克斯的遊戲軟體](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[王國之心
+    II](https://zh.wikipedia.org/wiki/王國之心_II "wikilink")」的主題曲，是繼《[光](../Page/光_\(宇多田光單曲\).md "wikilink")》及《[Simple
+    And
+    Clean](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")》後，繼續採用為同一系列的主題曲。
   - 最初「CD」版預定於12月7日發售，而「CD+DVD」於12月14日發售，但因為「王國之心
     II」延期而推遲。同時收錄遊戲內的「\~after the
     battle\~」版。
@@ -23,8 +25,8 @@ know"，"I need true emotions" 以及 "So many ups and downs"。
 
 ## MV
 
-本曲MV中實體拍攝是在[中國](../Page/中國.md "wikilink")[北京進行](../Page/北京.md "wikilink")。宇多田光本人在[Music
-Station上笑著提到](../Page/Music_Station.md "wikilink")「因為人事成本較低...這次拍攝需要很多演員，如果在日本拍攝預算可能會不足夠。另一方面也是為了拍攝大草原的景。」
+本曲MV中實體拍攝是在[中國](../Page/中國.md "wikilink")[北京進行](https://zh.wikipedia.org/wiki/北京 "wikilink")。宇多田光本人在[Music
+Station上笑著提到](https://zh.wikipedia.org/wiki/Music_Station "wikilink")「因為人事成本較低...這次拍攝需要很多演員，如果在日本拍攝預算可能會不足夠。另一方面也是為了拍攝大草原的景。」
 
 MV同樣是由其前夫[紀里谷和明執導](../Page/紀里谷和明.md "wikilink")，而MV中動畫部分是由[森本晃司製作](../Page/森本晃司.md "wikilink")，其中主角由她本人為原型。
 
@@ -46,7 +48,8 @@ MV同樣是由其前夫[紀里谷和明執導](../Page/紀里谷和明.md "wikil
 
 《**Sanctuary**》是《Passion》的英文版本，及海外版「王國之心
 II」的主題歌。在編曲上與《Passion》有少許不同，而《Sanctuary》過去則沒有收錄在任何CD中。直至2009年，宇多田光以「Utada」名義推出第二張英文專輯《[This
-Is The One](../Page/This_Is_The_One.md "wikilink")》時，才收錄在該專輯的美國版中。
+Is The
+One](https://zh.wikipedia.org/wiki/This_Is_The_One "wikilink")》時，才收錄在該專輯的美國版中。
 
 此曲亦同時在2009年7月22日以音樂下載限定的方式發行單曲。
 

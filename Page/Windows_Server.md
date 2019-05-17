@@ -1,6 +1,6 @@
 **Windows
 Server**是[微软发布的一系列](../Page/微软.md "wikilink")[服务器](../Page/服务器.md "wikilink")[操作系统的品牌名](../Page/操作系统.md "wikilink")，它包括所有以“Windows
-Server”为品牌发布的[Windows操作系统](../Page/Microsoft_Windows.md "wikilink")。
+Server”为品牌发布的[Windows操作系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 首个使用此品牌发布的Windows服务器系统是[Windows Server
 2003](../Page/Windows_Server_2003.md "wikilink")。然而，[Windows NT
@@ -28,11 +28,11 @@ Directory](../Page/Active_Directory.md "wikilink")、[DNS服务器](../Page/域�
   - [Windows Server
     2012](../Page/Windows_Server_2012.md "wikilink")（2012年8月）
   - [Windows Server 2012
-    R2](../Page/Windows_Server_2012_R2.md "wikilink")（2013年10月）
+    R2](https://zh.wikipedia.org/wiki/Windows_Server_2012_R2 "wikilink")（2013年10月）
   - [Windows Server
     2016](../Page/Windows_Server_2016.md "wikilink")（2016年10月12日）
   - [Windows Server
-    2019](../Page/Windows_Server_2019.md "wikilink")（2018年10月2日）
+    2019](https://zh.wikipedia.org/wiki/Windows_Server_2019 "wikilink")（2018年10月2日）
 
 并非所有该品牌下的操作系统名称都以Windows Server开头。例如，截至目前，所有的Windows Server都有Windows
 Storage Server Edition版本。还有其他类似的例子，比如说[Windows Home
@@ -40,7 +40,7 @@ Server和](../Page/Windows_Home_Server.md "wikilink")[Windows HPC
 Server](../Page/Windows_HPC_Server_2008.md "wikilink")。
 
 微软还发布了[Windows Server
-Essentials](../Page/Windows_Server_Essentials.md "wikilink")（原先称为Windows
+Essentials](https://zh.wikipedia.org/wiki/Windows_Server_Essentials "wikilink")（原先称为Windows
 Small Business Server）和[Windows Essential Business
 Server](../Page/Windows_Essential_Business_Server.md "wikilink")（已终止），软件包提供了一个受限制的Windows
 Server操作系统及其他一些[Microsoft
@@ -50,10 +50,10 @@ Servers产品](../Page/Microsoft_Servers.md "wikilink")。\[3\]\[4\]\[5\]
 
   - [Microsoft Servers](../Page/Microsoft_Servers.md "wikilink")
   - 其他的微软服务器操作系统：[Windows NT
-    3.1](../Page/Windows_NT_3.1.md "wikilink")、[3.5](../Page/Windows_NT_3.5.md "wikilink")、[3.51](../Page/Windows_NT_3.51.md "wikilink")、[4.0和](../Page/Windows_NT_4.0.md "wikilink")[Windows
+    3.1](../Page/Windows_NT_3.1.md "wikilink")、[3.5](../Page/Windows_NT_3.5.md "wikilink")、[3.51](https://zh.wikipedia.org/wiki/Windows_NT_3.51 "wikilink")、[4.0和](../Page/Windows_NT_4.0.md "wikilink")[Windows
     2000 Server](../Page/Windows_2000.md "wikilink")
-  - [Linux\#服务器、主机和超级计算机](../Page/Linux#服务器、主机和超级计算机.md "wikilink")
-  - [NetWare及](../Page/NetWare.md "wikilink")
+  - [Linux\#服务器、主机和超级计算机](https://zh.wikipedia.org/wiki/Linux#服务器、主机和超级计算机 "wikilink")
+  - [NetWare及](https://zh.wikipedia.org/wiki/NetWare "wikilink")
 
 ## 参考资料
 

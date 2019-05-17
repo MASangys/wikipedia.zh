@@ -1,18 +1,18 @@
 [Hdcam.jpg](https://zh.wikipedia.org/wiki/File:Hdcam.jpg "fig:Hdcam.jpg")
 [Sony_BCT-40SR_20060616.jpg](https://zh.wikipedia.org/wiki/File:Sony_BCT-40SR_20060616.jpg "fig:Sony_BCT-40SR_20060616.jpg")
 
-**HDCAM**於1997年推出，是[高畫質版本的](../Page/高畫質.md "wikilink")[Digital
-Betacam](../Page/Betacam.md "wikilink")，使用8位元[DCT](../Page/DCT.md "wikilink")
-3:1:1抽樣壓縮，在1440×1080下降取樣[1080i相容的](../Page/1080i.md "wikilink")[解像度](../Page/解像度.md "wikilink")，及在後期型號加入24p及23.976
+**HDCAM**於1997年推出，是[高畫質版本的](https://zh.wikipedia.org/wiki/高畫質 "wikilink")[Digital
+Betacam](../Page/Betacam.md "wikilink")，使用8位元[DCT](https://zh.wikipedia.org/wiki/DCT "wikilink")
+3:1:1抽樣壓縮，在1440×1080下降取樣[1080i相容的](https://zh.wikipedia.org/wiki/1080i "wikilink")[解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink")，及在後期型號加入24p及23.976
 PsF模式。HDCAM編解碼器使用非正方形像素及在播放1440×1080錄影內容時上升取樣至1920×1080格式播放。錄影位元率為144
 Mbit/s，音訊近乎一樣，以4聲道AES/EBU 20-bit/48 kHz數碼音訊收錄。
 
 如[Betacam一樣](../Page/Betacam.md "wikilink")，HDCAM影帶有小型及大型兩款，外型如Betamax一樣。
 
-HDCAM的主要競爭對手為[Panasonic的DVCPRO](../Page/Panasonic.md "wikilink")
+HDCAM的主要競爭對手為[Panasonic的DVCPRO](https://zh.wikipedia.org/wiki/Panasonic "wikilink")
 HD格式，它使用相似的壓縮系統，位元率則視乎影格速率，由40至100 Mbit/s不等。
 
-它亦用在[Sony電影用的CineAlta系列產品](../Page/Sony.md "wikilink")。
+它亦用在[Sony電影用的CineAlta系列產品](https://zh.wikipedia.org/wiki/Sony "wikilink")。
 
 ## HDCAM SR
 

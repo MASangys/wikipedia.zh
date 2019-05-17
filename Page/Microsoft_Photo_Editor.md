@@ -1,7 +1,7 @@
 **Microsoft Photo Editor** 是原本包含于[Microsoft
 Office](../Page/Microsoft_Office.md "wikilink")
 97–XP版本中的图形编辑软件，该软件目前已被[Microsoft
-Office图片管理器所取代](../Page/Microsoft_Office图片管理器.md "wikilink")，不过Photo
+Office图片管理器所取代](https://zh.wikipedia.org/wiki/Microsoft_Office图片管理器 "wikilink")，不过Photo
 Editor的某些功能并未包含在图片管理器中。\[1\]
 
 该程序可用于进行光栅图形编辑，并包含材质、负片、Gamma控制、GIF透明等功能。该软件基于Media Cybernetics,
@@ -14,9 +14,9 @@ L.P的HALO Desktop Imager开发而来。
 ## 参阅
 
   - [List of raster graphics
-    editors](../Page/List_of_raster_graphics_editors.md "wikilink")：光栅图形编辑器软件列表
+    editors](https://zh.wikipedia.org/wiki/List_of_raster_graphics_editors "wikilink")：光栅图形编辑器软件列表
   - [Comparison of raster graphics
-    editors](../Page/Comparison_of_raster_graphics_editors.md "wikilink")：光栅图形编辑器对比
+    editors](https://zh.wikipedia.org/wiki/Comparison_of_raster_graphics_editors "wikilink")：光栅图形编辑器对比
 
 ## 参考
 
@@ -34,10 +34,11 @@ L.P的HALO Desktop Imager开发而来。
     比较Photo Editor和Office图片管理器，作者Herb Tyson
 
 | screenshot = | caption = 运行在Windows XP上的Photo Editor程序界面 | developer =
-[Microsoft](../Page/Microsoft.md "wikilink") | operating_system =
-[Microsoft Windows](../Page/Microsoft_Windows.md "wikilink") | genre =
-[光栅图形编辑器](../Page/光栅图形编辑器.md "wikilink") | license =
-[专有软件](../Page/专有软件.md "wikilink") | website = [Microsoft
+[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") |
+operating_system = [Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") |
+genre = [光栅图形编辑器](https://zh.wikipedia.org/wiki/光栅图形编辑器 "wikilink") |
+license = [专有软件](../Page/专有软件.md "wikilink") | website = [Microsoft
 Photo Editor知识库文章](http://support.microsoft.com/kb/169938) }}--\>
 
 [Category:Discontinued_Microsoft_software](https://zh.wikipedia.org/wiki/Category:Discontinued_Microsoft_software "wikilink")

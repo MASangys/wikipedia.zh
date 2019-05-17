@@ -5,7 +5,7 @@
 
 **米多羅篇**中只可以獨立合成卡組的軍團包括：電導師、貝獸軍團、雷克斯軍團、武器黨、影忍軍、劍人黨、時空罪犯、魔導眾、闇外道、鬼道眾、外星客、字獄組，而可以與其他普通召喚師合作做卡組的軍團成員則包括：馭龍者、獸操縱師、魚操縱師、鳥操縱師、蟲操縱師、黑魔術師、白魔術師、T·P、面具族、變身客、力量團
 
-**米多羅篇**有一種獨特的軍團制度，就是只要50張召喚卡都是米多羅篇的卡時，可以在上述的軍團中選一個，5個召喚師中有至少一個屬於米多羅篇的，來自同一軍團但是在其他篇章的召喚師可以加入此卡組。這類軍團包括：影忍軍、劍人黨、魔導眾、闇外道、鬼道眾、外星客、馭龍者、獸操縱師、魚操縱師、鳥操縱師和蟲操縱師。在說明書上寫著的規則所示，[黑](../Page/黑色.md "wikilink")、[白](../Page/白色.md "wikilink")[魔術師並不可以使用此制度](../Page/魔術師.md "wikilink")。
+**米多羅篇**有一種獨特的軍團制度，就是只要50張召喚卡都是米多羅篇的卡時，可以在上述的軍團中選一個，5個召喚師中有至少一個屬於米多羅篇的，來自同一軍團但是在其他篇章的召喚師可以加入此卡組。這類軍團包括：影忍軍、劍人黨、魔導眾、闇外道、鬼道眾、外星客、馭龍者、獸操縱師、魚操縱師、鳥操縱師和蟲操縱師。在說明書上寫著的規則所示，[黑](../Page/黑色.md "wikilink")、[白](../Page/白色.md "wikilink")[魔術師並不可以使用此制度](https://zh.wikipedia.org/wiki/魔術師 "wikilink")。
 
 ## 召喚師卡
 
@@ -15,17 +15,17 @@
 <thead>
 <tr class="header">
 <th><p>編號</p></th>
-<th><p><a href="../Page/姓名.md" title="wikilink">姓名</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/姓名" title="wikilink">姓名</a></p></th>
 <th><p>軍團</p></th>
 <th><p>等級</p></th>
 <th><p>屬性</p></th>
-<th><p><a href="../Page/年齡.md" title="wikilink">年齡</a></p></th>
-<th><p><a href="../Page/性別.md" title="wikilink">性別</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/年齡" title="wikilink">年齡</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/性別" title="wikilink">性別</a></p></th>
 <th><p><a href="../Page/速度.md" title="wikilink">速度</a></p></th>
 <th><p>修正值</p></th>
-<th><p><a href="../Page/左.md" title="wikilink">左</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/左" title="wikilink">左</a></p></th>
 <th><p><a href="../Page/天空.md" title="wikilink">天</a></p></th>
-<th><p><a href="../Page/右.md" title="wikilink">右</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/右" title="wikilink">右</a></p></th>
 <th><p>珍貴度</p></th>
 <th><p>章</p></th>
 </tr>
@@ -1137,7 +1137,7 @@
 </tr>
 <tr class="even">
 <td><p>MS207</p></td>
-<td><p><a href="../Page/電王.md" title="wikilink">電王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電王" title="wikilink">電王</a></p></td>
 <td><p>–</p></td>
 <td><p>LV∞</p></td>
 <td><p>電氣</p></td>
@@ -1553,7 +1553,7 @@
 </tr>
 <tr class="even">
 <td><p>MS066</p></td>
-<td><p><a href="../Page/拉比.md" title="wikilink">拉比</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉比" title="wikilink">拉比</a></p></td>
 <td><p>雷克斯軍團</p></td>
 <td><p>LV3</p></td>
 <td><p>貝</p></td>
@@ -1569,7 +1569,7 @@
 </tr>
 <tr class="odd">
 <td><p>MS066B</p></td>
-<td><p><a href="../Page/拉比.md" title="wikilink">拉比</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉比" title="wikilink">拉比</a></p></td>
 <td><p>雷克斯軍團</p></td>
 <td><p>LV3</p></td>
 <td><p>貝</p></td>
@@ -2097,7 +2097,7 @@
 </tr>
 <tr class="even">
 <td><p>S215</p></td>
-<td><p><a href="../Page/火影.md" title="wikilink">火影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火影" title="wikilink">火影</a></p></td>
 <td><p>影忍軍</p></td>
 <td><p>LV6</p></td>
 <td><p>火</p></td>
@@ -2129,7 +2129,7 @@
 </tr>
 <tr class="even">
 <td><p>MS093</p></td>
-<td><p><a href="../Page/電影.md" title="wikilink">電影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電影" title="wikilink">電影</a></p></td>
 <td><p>影忍軍</p></td>
 <td><p>LV6</p></td>
 <td><p>電氣</p></td>
@@ -2289,7 +2289,7 @@
 </tr>
 <tr class="even">
 <td><p>S372</p></td>
-<td><p><a href="../Page/奧斯卡.md" title="wikilink">奧斯卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡" title="wikilink">奧斯卡</a></p></td>
 <td><p>劍人黨</p></td>
 <td><p>LV3</p></td>
 <td><p>火</p></td>
@@ -4322,7 +4322,7 @@
 </tr>
 <tr class="odd">
 <td><p>S256</p></td>
-<td><p><a href="../Page/絲.md" title="wikilink">絲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/絲" title="wikilink">絲</a></p></td>
 <td><p>魚操縱師</p></td>
 <td><p>LV7</p></td>
 <td><p>水</p></td>
@@ -4338,7 +4338,7 @@
 </tr>
 <tr class="even">
 <td><p>S451</p></td>
-<td><p><a href="../Page/巴爾.md" title="wikilink">巴爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴爾" title="wikilink">巴爾</a></p></td>
 <td><p>魚操縱師</p></td>
 <td><p>LV7</p></td>
 <td><p>水</p></td>
@@ -4450,7 +4450,7 @@
 </tr>
 <tr class="odd">
 <td><p>MS127</p></td>
-<td><p><a href="../Page/巴志.md" title="wikilink">巴志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴志" title="wikilink">巴志</a></p></td>
 <td><p>鳥操縱師</p></td>
 <td><p>LV5</p></td>
 <td><p>大氣</p></td>
@@ -5026,7 +5026,7 @@
 </tr>
 <tr class="odd">
 <td><p>MS172</p></td>
-<td><p><a href="../Page/古田.md" title="wikilink">古田</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古田" title="wikilink">古田</a></p></td>
 <td><p>Ｔ·Ｐ</p></td>
 <td><p>LV5</p></td>
 <td><p>電氣</p></td>
@@ -5042,7 +5042,7 @@
 </tr>
 <tr class="even">
 <td><p>MS163</p></td>
-<td><p><a href="../Page/中村.md" title="wikilink">中村</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中村" title="wikilink">中村</a></p></td>
 <td><p>Ｔ·Ｐ</p></td>
 <td><p>LV5</p></td>
 <td><p>電氣</p></td>

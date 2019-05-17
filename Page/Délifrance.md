@@ -1,27 +1,27 @@
 [HK_Worldwide_Hse_60422_inside.jpg](https://zh.wikipedia.org/wiki/File:HK_Worldwide_Hse_60422_inside.jpg "fig:HK_Worldwide_Hse_60422_inside.jpg")分店\]\]
 [Delifrance.jpg](https://zh.wikipedia.org/wiki/File:Delifrance.jpg "fig:Delifrance.jpg")分店\]\]
-****（**法國麵包店餐廳**）是[跨國公司](../Page/跨國公司.md "wikilink")[麵包](../Page/麵包.md "wikilink")[食物](../Page/食物.md "wikilink")[速食](../Page/速食.md "wikilink")[餐廳](../Page/餐廳.md "wikilink")，創立於1983年，其分店遍佈世界各地50多個國家。法國麵包店餐廳的[母公司在](../Page/母公司.md "wikilink")[法國](../Page/法國.md "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
+****（**法國麵包店餐廳**）是[跨國公司](../Page/跨國公司.md "wikilink")[麵包](../Page/麵包.md "wikilink")[食物](../Page/食物.md "wikilink")[速食](https://zh.wikipedia.org/wiki/速食 "wikilink")[餐廳](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，創立於1983年，其分店遍佈世界各地50多個國家。法國麵包店餐廳的[母公司在](https://zh.wikipedia.org/wiki/母公司 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
 
 ## 食品及飲品
 
   - 各種法式麵包
-  - [焗薯](../Page/焗薯.md "wikilink")
+  - [焗薯](https://zh.wikipedia.org/wiki/焗薯 "wikilink")
   - [意式麵食](../Page/意式麵食.md "wikilink")
-  - [飯](../Page/飯.md "wikilink")
+  - [飯](https://zh.wikipedia.org/wiki/飯 "wikilink")
   - [蛋糕](../Page/蛋糕.md "wikilink")
   - [咖啡](../Page/咖啡.md "wikilink")
-  - [紅茶](../Page/紅茶.md "wikilink")
-  - [可樂](../Page/可樂.md "wikilink")
+  - [紅茶](https://zh.wikipedia.org/wiki/紅茶 "wikilink")
+  - [可樂](https://zh.wikipedia.org/wiki/可樂 "wikilink")
   - [奶茶](../Page/奶茶.md "wikilink")
-  - [鮮奶](../Page/鮮奶.md "wikilink")
-  - [果撻](../Page/果撻.md "wikilink")
+  - [鮮奶](https://zh.wikipedia.org/wiki/鮮奶 "wikilink")
+  - [果撻](https://zh.wikipedia.org/wiki/果撻 "wikilink")
   - [馬卡龍](../Page/馬卡龍.md "wikilink")
 
 ## 歷史
 
 自從1995年，法國麵包店餐廳（亞洲）是由[英國保誠資產管理有限公司全資管有](../Page/英國保誠.md "wikilink")。
 
-[2007年8月](../Page/2007年8月.md "wikilink")，[力寶華潤拥有](../Page/力寶華潤.md "wikilink")49.3%之权益，Auric
+[2007年8月](../Page/2007年8月.md "wikilink")，[力寶華潤拥有](https://zh.wikipedia.org/wiki/力寶華潤 "wikilink")49.3%之权益，Auric
 Pacific Group Limited收购Delifrance Asia Limited（「Delifrance
 Asia」）之控股公司EdmontorInvestments Pte Ltd。
 

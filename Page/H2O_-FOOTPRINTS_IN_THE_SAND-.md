@@ -1,8 +1,8 @@
 《**H<sub>2</sub>O -FOOTPRINTS IN THE
-SAND-**》是日本遊戲公司**[枕](../Page/枕_\(公司\).md "wikilink")**開發的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來發售[PlayStation
+SAND-**》是日本遊戲公司**[枕](https://zh.wikipedia.org/wiki/枕_\(公司\) "wikilink")**開發的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來發售[PlayStation
 2版](../Page/PlayStation_2.md "wikilink")《H2O+》和外傳《√<span style="text-decoration:overline;">after
 and
-another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")。
+another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")。
 
 由動畫第一話末尾的介紹，標題的H2O是來自三個女主角名字的第一個字母（**H**ayami, **H**inata, **O**toha），
 而Footprints來自一首詩《》，此詩的前半部分在動畫第一話的開頭出現，全詩亦在最後一話出現。
@@ -14,7 +14,7 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
   - 2007年1月26日
     漫畫版《H<sub>2</sub>O -FOOTPRINTS IN THE SAND-》開始（2008年2月26日結束）
   - 2007年10月26日
-    PC版遊戲的[外傳故事](../Page/外傳.md "wikilink")（Fan
+    PC版遊戲的[外傳故事](https://zh.wikipedia.org/wiki/外傳 "wikilink")（Fan
     Disc）《√<span style="text-decoration:overline;">after and
     another</span>》（\(\sqrt{\mathrm{after\ and\ another}}\)）發售（枕的第二部作品）
   - 2008年1月3日
@@ -69,7 +69,7 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 
   -
     聲：[成瀨未亞](../Page/成瀨未亞.md "wikilink")
-    不可思議的少女，性格開朗，自稱時之音的「[精靈](../Page/精靈.md "wikilink")」。[僕娘](../Page/僕娘.md "wikilink")。
+    不可思議的少女，性格開朗，自稱時之音的「[精靈](../Page/精靈.md "wikilink")」。[僕娘](https://zh.wikipedia.org/wiki/僕娘 "wikilink")。
     本名神樂 雛田，有一個叫神樂
     螢的妹妹，幼年時因為一場意外死亡。死後的靈魂因聽到妹妹的哭聲而不願離開，後來又為妹妹因「成為像自己一樣的好孩子」而與小日向早美絕交，心存執念、變成在當地的幽靈。
     努力為妹妹與早美的和好而奔波，不過只有「約定之人」弘瀨琢磨才能感知她。經常神出鬼沒的來嚇琢磨，做事情非常大膽，在動畫第八集變身成魔法美少女來回報琢磨。動畫結局中變成更小的蘿莉出現在琢磨眼前告知「這次要好好的照顧她」的話後離開。身高136cm。血型AB型。
@@ -77,7 +77,7 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 ### 次要角色
 
   -
-    聲：[矢澤泉](../Page/矢澤泉.md "wikilink")（PC）/[安田未央](../Page/安田未央.md "wikilink")（PS2、動畫）
+    聲：[矢澤泉](https://zh.wikipedia.org/wiki/矢澤泉 "wikilink")（PC）/[安田未央](../Page/安田未央.md "wikilink")（PS2、動畫）
     琢磨的同班同學。個性強勢，典型的傲嬌，雖然毒舌但有著認真的一面，經常欺辱早美，稱她為「[蟑螂](../Page/蟑螂.md "wikilink")」。小時候因為自己的祖父被小日向家的人害死所以痛恨早美，之後在山裡遇難被早美所帶回，彼此關係有比較改善。
 
 <!-- end list -->
@@ -89,19 +89,19 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 <!-- end list -->
 
   -
-    聲：[高城流依](../Page/高城流依.md "wikilink")（PC）/[本多陽子](../Page/本多陽子.md "wikilink")（動畫）
+    聲：[高城流依](https://zh.wikipedia.org/wiki/高城流依 "wikilink")（PC）/[本多陽子](../Page/本多陽子.md "wikilink")（動畫）
     琢磨的同班同學，濱路的朋友。經常被拿來當作背景人物看待。在動畫結局中與濱路結婚有孩子。
 
 <!-- end list -->
 
   -
-    聲：[高城流依](../Page/高城流依.md "wikilink")（PC）
+    聲：[高城流依](https://zh.wikipedia.org/wiki/高城流依 "wikilink")（PC）
     枕的第三部作品的女主角。本作品中客串轉校生，幫助男主角在音羽線中回憶起音羽。
 
 <!-- end list -->
 
   -
-    聲：[川津泰彥](../Page/川津泰彥.md "wikilink")（動畫）
+    聲：[川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")（動畫）
     琢磨的叔叔，好幾次要偷襲剛起床的琢磨，人不在時還會聞琢磨的床單味道，總之有點變態的叔叔。在重要時刻還是會變成非常可靠的人。
 
 ### √的新增角色
@@ -128,11 +128,12 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 
 ## 製作人員
 
-  - [原畫](../Page/原畫.md "wikilink")、[人物設計](../Page/人物設計.md "wikilink")：基4%、月音、硯、籠目、SCA-自、砌煉炭
-  - [腳本](../Page/劇本.md "wikilink")：藤倉絢一、SCA-自、柚鈴
-  - [主題曲](../Page/主題曲.md "wikilink")：[作曲](../Page/作曲家.md "wikilink") -
-    [PixelBee](../Page/PixelBee.md "wikilink")、[歌手](../Page/歌手.md "wikilink")
-    - [monet](../Page/monet.md "wikilink")
+  - [原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")、[人物設計](../Page/人物設計.md "wikilink")：基4%、月音、硯、籠目、SCA-自、砌煉炭
+  - [腳本](https://zh.wikipedia.org/wiki/劇本 "wikilink")：藤倉絢一、SCA-自、柚鈴
+  - [主題曲](../Page/主題曲.md "wikilink")：[作曲](https://zh.wikipedia.org/wiki/作曲家 "wikilink")
+    -
+    [PixelBee](https://zh.wikipedia.org/wiki/PixelBee "wikilink")、[歌手](../Page/歌手.md "wikilink")
+    - [monet](https://zh.wikipedia.org/wiki/monet "wikilink")
       - 《H<sub>2</sub>O -FOOTPRINTS IN THE SAND-》
           - 「H<sub>2</sub>O」
           - 「DREAM」
@@ -153,7 +154,7 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 
 ### 製作人員
 
-  - 原作：[枕](../Page/枕_\(公司\).md "wikilink")
+  - 原作：[枕](https://zh.wikipedia.org/wiki/枕_\(公司\) "wikilink")
   - 導演：橘秀樹
   - 系列構成：花田十輝
   - [人物設計](../Page/人物設計.md "wikilink")：奧田淳
@@ -161,7 +162,7 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
   - 美術監督：高橋和博
   - 音響監督：高寺健（）
   - 音響製作：HALF H.P STUDIO
-  - 編輯：田熊純（[Actas編輯室](../Page/Actas.md "wikilink")）
+  - 編輯：田熊純（[Actas編輯室](https://zh.wikipedia.org/wiki/Actas "wikilink")）
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 ### 主題曲
@@ -402,91 +403,91 @@ another</span>》，並有改編成[漫畫和](../Page/漫畫.md "wikilink")[電
 <td><p><a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台</a></p></td>
 <td><p>2008年1月3日－2008年3月20日</p></td>
 <td><p>木曜 25時30分 - 26時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/奈良縣.md" title="wikilink">奈良縣</a></p></td>
-<td><p><a href="../Page/奈良電視台.md" title="wikilink">奈良電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良電視台" title="wikilink">奈良電視台</a></p></td>
 <td><p>2008年1月3日－2008年3月20日</p></td>
 <td><p>木曜 25時30分 - 26時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2008年1月3日－2008年3月20日</p></td>
 <td><p>木曜 26時30分 - 27時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/東京都會電視台.md" title="wikilink">東京都會電視台</a></p></td>
 <td><p>2008年1月3日－2008年3月20日</p></td>
 <td><p>木曜 26時30分 - 27時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/京都府.md" title="wikilink">京都府</a></p></td>
-<td><p><a href="../Page/KBS京都.md" title="wikilink">KBS京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS京都" title="wikilink">KBS京都</a></p></td>
 <td><p>2008年1月4日－2008年3月21日</p></td>
 <td><p>金曜 26時00分 - 26時30分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/長野縣.md" title="wikilink">長野縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a></p></td>
 <td><p><a href="../Page/信越放送.md" title="wikilink">信越放送</a></p></td>
 <td><p>2008年1月4日－2008年3月21日</p></td>
 <td><p>金曜 26時45分 - 27時15分</p></td>
-<td><p><a href="../Page/JNN.md" title="wikilink">JNN系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JNN" title="wikilink">JNN系列</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
 <td><p><a href="../Page/神奈川電視台.md" title="wikilink">神奈川電視台</a></p></td>
 <td><p>2008年1月5日－2008年3月22日</p></td>
 <td><p>土曜 27時30分 - 28時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/群馬縣.md" title="wikilink">群馬縣</a></p></td>
-<td><p><a href="../Page/群馬電視台.md" title="wikilink">群馬電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/群馬電視台" title="wikilink">群馬電視台</a></p></td>
 <td><p>2008年1月6日－2008年3月23日</p></td>
 <td><p>日曜 25時30分 - 26時00分</p></td>
-<td><p><a href="../Page/全國獨立UHF放送協議會.md" title="wikilink">獨立UHF系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會" title="wikilink">獨立UHF系列</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/福岡縣.md" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
 <td><p>2008年1月9日－2008年3月26日</p></td>
 <td><p>水曜 27時38分 - 28時08分</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">TXN系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">TXN系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/TV北海道.md" title="wikilink">TV北海道</a></p></td>
 <td><p>2008年1月10日－2008年3月27日</p></td>
 <td><p>木曜 26時30分 - 27時00分</p></td>
-<td><p><a href="../Page/TXN.md" title="wikilink">TXN系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">TXN系列</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/福井縣.md" title="wikilink">福井縣</a></p></td>
-<td><p><a href="../Page/福井電視台.md" title="wikilink">福井電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福井電視台" title="wikilink">福井電視台</a></p></td>
 <td><p>2008年1月17日－2008年4月3日</p></td>
 <td><p>木曜 25時20分 - 25時50分</p></td>
-<td><p><a href="../Page/FNS.md" title="wikilink">FNS系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNS" title="wikilink">FNS系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a></p></td>
-<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
 <td><p>2008年1月28日－2008年4月14日</p></td>
 <td><p>月曜 26時20分 - 26時50分</p></td>
-<td><p><a href="../Page/JNN.md" title="wikilink">JNN系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JNN" title="wikilink">JNN系列</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/BS朝日.md" title="wikilink">BS朝日</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS朝日" title="wikilink">BS朝日</a></p></td>
 <td><p>2008年2月4日－2008年4月21日</p></td>
 <td><p>月曜 26時00分 - 26時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">BS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">BS放送</a></p></td>
 </tr>
 </tbody>
 </table>

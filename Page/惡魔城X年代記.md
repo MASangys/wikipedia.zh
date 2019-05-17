@@ -1,13 +1,14 @@
-《**惡魔城X年代記**》（日文：）是[日本](../Page/日本.md "wikilink")[科樂美集團下遊戲部門所開發的](../Page/科樂美.md "wikilink")[惡魔城系列其中一作](../Page/惡魔城系列.md "wikilink")，於2007年發售的[PlayStation
+《**惡魔城X年代記**》（日文：）是[日本](../Page/日本.md "wikilink")[科樂美集團下遊戲部門所開發的](../Page/科樂美.md "wikilink")[惡魔城系列其中一作](https://zh.wikipedia.org/wiki/惡魔城系列 "wikilink")，於2007年發售的[PlayStation
 Portable遊戲](../Page/PlayStation_Portable.md "wikilink")，《[惡魔城X
 血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的重製版並且收錄原作和《[惡魔城X
 月下夜想曲](../Page/惡魔城X_月下夜想曲.md "wikilink")》。\[1\]\[2\]
 
 ## 遊戲前提
 
-本作是改編自於NEC [PC-Engine](../Page/PC-Engine.md "wikilink") SUPER
+本作是改編自於NEC
+[PC-Engine](https://zh.wikipedia.org/wiki/PC-Engine "wikilink") SUPER
 CD-ROM²主機上，於1993年10月29日發售的惡魔城系列作遊戲《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》，使用[三維計算機圖形技術來進行遊戲的攝影角度捕捉](../Page/三維計算機圖形.md "wikilink")、人物模樣與環境景觀的架構、動態生物及靜態環境的活動執導，遊戲的本質仍舊維持在2D橫向捲軸動作遊戲上，強化了在2D圖像技術比較難表現的物質立體感、環境深度及環境演出，使得新作的風格有別於舊作，表現出豐富而細膩的感覺。
+血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》，使用[三維計算機圖形技術來進行遊戲的攝影角度捕捉](https://zh.wikipedia.org/wiki/三維計算機圖形 "wikilink")、人物模樣與環境景觀的架構、動態生物及靜態環境的活動執導，遊戲的本質仍舊維持在2D橫向捲軸動作遊戲上，強化了在2D圖像技術比較難表現的物質立體感、環境深度及環境演出，使得新作的風格有別於舊作，表現出豐富而細膩的感覺。
 
 除了強化舊作原有的視覺演出外，新作尚包含以下特點
 
@@ -30,7 +31,7 @@ CD-ROM²主機上，於1993年10月29日發售的惡魔城系列作遊戲《[惡
 
 而這個能力還不錯的新部下，打聽了一些情報，告訴他的上司德古拉說：現在貝爾蒙多家族只剩下一個年輕的後裔，現在在邊境的鄰近國家出公差中，據說有兩位女孩除了跟他有關聯外還住在城鎮上，綁架過來威脅他來讓他不戰而屈，而德古拉也滿意這個以前幹過的好事其想法，於是特遣隊大亂城鎮並放火後，德古拉親自下場迎接了其中一位在慌亂中而腳受傷的女孩，這個貝爾蒙多家未來的「妻子」到城堡作客...
 
-只是，德古拉雖然感覺到貝爾蒙多家的力量現在正火速殺回[特蘭西瓦尼亞](../Page/特蘭西瓦尼亞.md "wikilink")，但是其味道跟以前那一票肌肉大漢祖先不太一樣....
+只是，德古拉雖然感覺到貝爾蒙多家的力量現在正火速殺回[特蘭西瓦尼亞](https://zh.wikipedia.org/wiki/特蘭西瓦尼亞 "wikilink")，但是其味道跟以前那一票肌肉大漢祖先不太一樣....
 
 ## 角色
 
@@ -84,7 +85,7 @@ crush亦同；按下+跳躍鍵可往前撲倒，在空中時按跳躍鈕可「�
   - [官方網站](http://www.konami.jp/gs/game/dracula_psp/)
 
 [en:Castlevania: Rondo of Blood\#Versions and
-re-releases](../Page/en:Castlevania:_Rondo_of_Blood#Versions_and_re-releases.md "wikilink")
+re-releases](https://zh.wikipedia.org/wiki/en:Castlevania:_Rondo_of_Blood#Versions_and_re-releases "wikilink")
 
 [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
 [Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")

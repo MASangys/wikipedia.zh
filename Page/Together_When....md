@@ -31,7 +31,7 @@ Store、USEN等。根據recochoku數據，本作下載次數，連同手機鈴�
 
 <references/>
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

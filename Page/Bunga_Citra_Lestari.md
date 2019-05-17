@@ -1,4 +1,4 @@
-**本娥·奇特拉**（，简称：**BCL**，）是一位[印尼知名女歌手及演員](../Page/印尼.md "wikilink")。出生於印尼[雅加達](../Page/雅加達.md "wikilink")。
+**本娥·奇特拉**（，简称：**BCL**，）是一位[印尼知名女歌手及演員](https://zh.wikipedia.org/wiki/印尼 "wikilink")。出生於印尼[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")。
 
 ## 演藝事業
 
@@ -9,10 +9,16 @@ Lestari也嘗試演出戲劇與電影都非常成功.
 
 ## 唱片
 
-  - [Ost. Dealova](../Page/Ost._Dealova.md "wikilink") (2005)
-  - [Cinta Pertama](../Page/Cinta_Pertama.md "wikilink") (2006)
-  - [The Best of](../Page/The_Best_of.md "wikilink") (2007)
-  - [Tentang Kamu](../Page/Tentang_Kamu.md "wikilink") (2008)
+  - [Ost.
+    Dealova](https://zh.wikipedia.org/wiki/Ost._Dealova "wikilink")
+    (2005)
+  - [Cinta
+    Pertama](https://zh.wikipedia.org/wiki/Cinta_Pertama "wikilink")
+    (2006)
+  - [The Best of](https://zh.wikipedia.org/wiki/The_Best_of "wikilink")
+    (2007)
+  - [Tentang
+    Kamu](https://zh.wikipedia.org/wiki/Tentang_Kamu "wikilink") (2008)
 
 ## 電影
 

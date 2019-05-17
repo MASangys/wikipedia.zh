@@ -7,11 +7,12 @@ PowerShot 500系列里比较奇怪的一款机器，
 一方面，
 
   - 对象素进行了升级，相对A510/A520，A530/A540分别多出二百万象素；
-  - 图象处理器由原来的[DIGIC升级为DIGIC](../Page/DIGIC.md "wikilink") II。
+  - 图象处理器由原来的[DIGIC升级为DIGIC](https://zh.wikipedia.org/wiki/DIGIC "wikilink")
+    II。
 
 另外一方面，
 
-  - LCD屏幕质量下降，仅7.7万象素，比[A70都不及](../Page/Canon_PowerShot_A70.md "wikilink")；
+  - LCD屏幕质量下降，仅7.7万象素，比[A70都不及](https://zh.wikipedia.org/wiki/Canon_PowerShot_A70 "wikilink")；
   - 最小ISO提升至80；
   - 取消了快门优先与光圈优先模式；
   - 自从A70以来倍受好评的预留镜头转接环也消失了，使得A530不能如其他500系列的相机一样加装滤镜。
@@ -19,28 +20,30 @@ PowerShot 500系列里比较奇怪的一款机器，
 佳能在A530/A540及PowerShot
 600系列上开始使用[树脂镜头](../Page/树脂.md "wikilink")，推测可能是处于成本考虑，但这一举措在爱好者中产生不满，认为树脂镜头透光不好，有老化问题，有部分用户反应图象有暗斑，怀疑与镜头质量不稳定有关。
 
-2006年下半年，由于发现编号前两位为21、22、23、24的部分A530和[A540由于电池盖的弹簧过长](../Page/Canon_PowerShot_A540.md "wikilink")，使得相机会出现电池短路而造成过热，佳能对这部分相机进行召回。
+2006年下半年，由于发现编号前两位为21、22、23、24的部分A530和[A540由于电池盖的弹簧过长](https://zh.wikipedia.org/wiki/Canon_PowerShot_A540 "wikilink")，使得相机会出现电池短路而造成过热，佳能对这部分相机进行召回。
 
 ## 主要参数
 
-  - 五百万有效[象素](../Page/象素.md "wikilink")
-  - 4倍光学[变焦](../Page/变焦.md "wikilink")
-  - 1/2.5 英寸 [CCD](../Page/CCD.md "wikilink")
+  - 五百万有效[象素](https://zh.wikipedia.org/wiki/象素 "wikilink")
+  - 4倍光学[变焦](https://zh.wikipedia.org/wiki/变焦 "wikilink")
+  - 1/2.5 英寸 [CCD](https://zh.wikipedia.org/wiki/CCD "wikilink")
   - 1.8寸TFT液晶屏，分辨率7.7万象素
   - 快门：15～1/2000秒
-  - [ISO](../Page/ISO.md "wikilink")：80/100/200/400/800
-  - 9点智能[对焦](../Page/对焦.md "wikilink")
+  - [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")：80/100/200/400/800
+  - 9点智能[对焦](https://zh.wikipedia.org/wiki/对焦 "wikilink")
   - 有声短片记录（[Motion JPEG编码与单声道音频](../Page/Motion_JPEG.md "wikilink")）
-  - 使用[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](../Page/MMC卡.md "wikilink")
-  - 使用[DIGIC II数字处理芯片](../Page/DIGIC.md "wikilink")
-  - 使用2节[AA电池](../Page/AA电池.md "wikilink")
+  - 使用[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")
+  - 使用[DIGIC II数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")
+  - 使用2节[AA电池](https://zh.wikipedia.org/wiki/AA电池 "wikilink")
   - [Exif 2.2](../Page/EXIF.md "wikilink")
   - 不带电池约170克
 
 ## 参见
 
-  - [Canon PowerShot](../Page/Canon_PowerShot.md "wikilink")
-  - [Canon PowerShot A540](../Page/Canon_PowerShot_A540.md "wikilink")
+  - [Canon
+    PowerShot](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")
+  - [Canon PowerShot
+    A540](https://zh.wikipedia.org/wiki/Canon_PowerShot_A540 "wikilink")
 
 ## 外部链接
 

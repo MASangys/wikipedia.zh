@@ -1,7 +1,7 @@
 ESRI
-Shapefile（shp），或简称shapefile，是[美国环境系统研究所公司](../Page/美国环境系统研究所公司.md "wikilink")（ESRI）开发的空间数据开放格式。\[1\]目前，该文件格式已经成为了地理信息软件界的开放标准，这表明ESRI公司在全球的地理信息系统市场的重要性。Shapefile也是重要的交换格式，能够在ESRI与其他公司的产品之间进行数据互操作。
+Shapefile（shp），或简称shapefile，是[美国环境系统研究所公司](https://zh.wikipedia.org/wiki/美国环境系统研究所公司 "wikilink")（ESRI）开发的空间数据开放格式。\[1\]目前，该文件格式已经成为了地理信息软件界的开放标准，这表明ESRI公司在全球的地理信息系统市场的重要性。Shapefile也是重要的交换格式，能够在ESRI与其他公司的产品之间进行数据互操作。
 
-Shapefile文件用于描述几何体对象：[点](../Page/点.md "wikilink")、折线与[多边形](../Page/多边形.md "wikilink")。例如，Shapefile文件可以存储[井](../Page/井.md "wikilink")、河流、[湖泊等空间对象的几何位置](../Page/湖泊.md "wikilink")。除了几何位置，shp文件也可以存储这些空间对象的属性，例如河流的名字、城市的温度等等。
+Shapefile文件用于描述几何体对象：[点](../Page/点.md "wikilink")、折线与[多边形](../Page/多边形.md "wikilink")。例如，Shapefile文件可以存储[井](https://zh.wikipedia.org/wiki/井 "wikilink")、河流、[湖泊等空间对象的几何位置](../Page/湖泊.md "wikilink")。除了几何位置，shp文件也可以存储这些空间对象的属性，例如河流的名字、城市的温度等等。
 
 ## 概览
 
@@ -13,7 +13,7 @@ Shapefile是一种比较原始的矢量数据存储方式，它仅仅能够存�
 Shapefile文件指的是一种文件存储的方法，实际上该种文件格式是由多个文件组成的。其中，要组成一个Shapefile，有三个文件是必不可少的，它们分别是"`.shp`",
 "`.shx`"与
 "`.dbf`"文件。表示同一数据的一组文件其文件名前缀应该相同。例如，存储一个关于湖的几何与属性数据，就必须有lake.shp，lake.shx与lake.dbf三个文件。而其中“真正”的Shapefile的后缀为shp，然而仅有这个文件数据是不完整的，必须要把其他两个附带上才能构成一组完整的地理数据。除了这三个必须的文件以外，还有八个可选的文件，使用它们可以增强空间数据的表达能力。所有的文件名都必须遵循MS
-DOS的[8.3文件名标准](../Page/8.3.md "wikilink")（文件前缀名8个字符，后缀名3个字符，如`shapefil.shp`），以方便与一些老的应用程序保持兼容性，尽管现在许多新的程序都能够支持长文件名。此外，所有的文件都必须位于同一个目录之中。
+DOS的[8.3文件名标准](https://zh.wikipedia.org/wiki/8.3 "wikilink")（文件前缀名8个字符，后缀名3个字符，如`shapefil.shp`），以方便与一些老的应用程序保持兼容性，尽管现在许多新的程序都能够支持长文件名。此外，所有的文件都必须位于同一个目录之中。
 
 必须的文件:
 
@@ -24,7 +24,7 @@ DOS的[8.3文件名标准](../Page/8.3.md "wikilink")（文件前缀名8个字�
 其他可选的文件：
 
   - `.prj` — 投影格式，用于保存地理坐标系统与投影信息，是一个存储[well-known
-    text投影描述符的文本文件](../Page/well-known_text.md "wikilink")。
+    text投影描述符的文本文件](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。
   - `.sbn` and `.sbx` — 几何体的空间索引
   - `.fbn` and `.fbx` — 只读的Shapefiles的几何体的空间索引
   - `.ain` and `.aih` — 列表中活动字段的属性索引。
@@ -47,18 +47,18 @@ Shapefile格式的主文件包含了地理参照数据。该文件由一个定�
 Shapefile技术描述*.\[2\]提供。注意，虽然Shapefile文件的后缀名与[AutoCAD的图形字体源格式它们的文件后缀名相同的](../Page/AutoCAD.md "wikilink")，都是`.shp`
 ，请不要把它们混淆。
 
-主文件头包含17个字段，共100个字节，其中包含九个4字节（32位有符号整数，int32）整数字段，紧接着是八个8字节（[双精度浮点数](../Page/双精度浮点数.md "wikilink")）有符号浮点数字段。
+主文件头包含17个字段，共100个字节，其中包含九个4字节（32位有符号整数，int32）整数字段，紧接着是八个8字节（[双精度浮点数](https://zh.wikipedia.org/wiki/双精度浮点数 "wikilink")）有符号浮点数字段。
 
-| 字节    | 类型     | [字节序](../Page/字节序.md "wikilink") | 用途                                                                                                              |
-| ----- | ------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 0–3   | int32  | 大端序                              | 文件编号 (永远是十六进制数0x0000270a)                                                                                       |
-| 4–23  | int32  | 大端序                              | 五个没有被使用的32位整数                                                                                                   |
-| 24–27 | int32  | 大端序                              | 文件长度，包括文件头。（用16位整数表示）                                                                                           |
-| 28–31 | int32  | 小端序                              | 版本                                                                                                              |
-| 32–35 | int32  | 小端序                              | 图形类型（参见下面）                                                                                                      |
-| 36–67 | double | 小端序                              | [最小外接矩形](../Page/最小外接矩形.md "wikilink") (MBR)，也就是一个包含shapefile之中所有图形的矩形。以四个浮点数表示，分别是X坐标最小值，Y坐标最小值,X坐标最大值，Y坐标最大值。 |
-| 68–83 | double | 小端序                              | Z坐标值的范围。以两个浮点数表示，分别是Z坐标的最小值与Z坐标的最大值。                                                                            |
-| 84–99 | double | 小端序                              | M坐标值的范围。以两个浮点数表示，分别是M坐标的最小值与M坐标的最大值。                                                                            |
+| 字节    | 类型     | [字节序](../Page/字节序.md "wikilink") | 用途                                                                                                                                 |
+| ----- | ------ | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 0–3   | int32  | 大端序                              | 文件编号 (永远是十六进制数0x0000270a)                                                                                                          |
+| 4–23  | int32  | 大端序                              | 五个没有被使用的32位整数                                                                                                                      |
+| 24–27 | int32  | 大端序                              | 文件长度，包括文件头。（用16位整数表示）                                                                                                              |
+| 28–31 | int32  | 小端序                              | 版本                                                                                                                                 |
+| 32–35 | int32  | 小端序                              | 图形类型（参见下面）                                                                                                                         |
+| 36–67 | double | 小端序                              | [最小外接矩形](https://zh.wikipedia.org/wiki/最小外接矩形 "wikilink") (MBR)，也就是一个包含shapefile之中所有图形的矩形。以四个浮点数表示，分别是X坐标最小值，Y坐标最小值,X坐标最大值，Y坐标最大值。 |
+| 68–83 | double | 小端序                              | Z坐标值的范围。以两个浮点数表示，分别是Z坐标的最小值与Z坐标的最大值。                                                                                               |
+| 84–99 | double | 小端序                              | M坐标值的范围。以两个浮点数表示，分别是M坐标的最小值与M坐标的最大值。                                                                                               |
 
 然后这个文件包含不定数目的变长数据记录，每个数据记录以一个8字节记录头开始：
 
@@ -180,14 +180,14 @@ Shapefile的文件索引包含与`.shp`文件相同的100个字节的文件头�
 
 ### Shapefile属性格式(`.dbf`)
 
-每个图形的属性数据存储在[dBase格式的数据表之中](../Page/dBase.md "wikilink")。属性数据也可以存储在另一种开放的数据表格式[xBase格式之中](../Page/xBase.md "wikilink")。在[开源Shapefile](../Page/开源.md "wikilink")[函式库Shapefile](../Page/函式库.md "wikilink")
+每个图形的属性数据存储在[dBase格式的数据表之中](https://zh.wikipedia.org/wiki/dBase "wikilink")。属性数据也可以存储在另一种开放的数据表格式[xBase格式之中](https://zh.wikipedia.org/wiki/xBase "wikilink")。在[开源Shapefile](https://zh.wikipedia.org/wiki/开源 "wikilink")[函式库Shapefile](https://zh.wikipedia.org/wiki/函式库 "wikilink")
 C library\[3\]中就是这样存储。
 
 ### Shapefile投影格式(`.prj`)
 
 `.prj`文件中的信息包含了`.shp`文件中几何数据所使用的[经纬度坐标系统](../Page/经纬度.md "wikilink")。尽管这个文件不是必须的，一般使用都会提供它，这样用户就无需猜测所给的坐标的经纬度系统。ArcGIS
 Desktop 9及以后的版本使用[well-known
-text格式来生成坐标系统描述信息](../Page/well-known_text.md "wikilink")。以前的ArcGIS版本和某些第三方软件通常生成如下的这种格式：
+text格式来生成坐标系统描述信息](https://zh.wikipedia.org/wiki/well-known_text "wikilink")。以前的ArcGIS版本和某些第三方软件通常生成如下的这种格式：
 
 老的投影文件格式样例：
 
@@ -211,14 +211,14 @@ Parameters
 
 </tt> 新的WKT格式样例：
 
-`GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT`[`"Degree",0.0174532925199433`](../Page/"Degree",0.0174532925199433.md "wikilink")
+`GEOGCS["GCS_North_American_1927",DATUM["D_North_American_1927",SPHEROID["Clarke_1866",6378206.4,294.9786982]],PRIMEM["Greenwich",0],UNIT`[`"Degree",0.0174532925199433`](https://zh.wikipedia.org/wiki/"Degree",0.0174532925199433 "wikilink")
 
 `.prj`文件中包含以下信息：
 
   - [经纬度坐标系统或](../Page/经纬度.md "wikilink")[地图投影的名称](../Page/地图投影.md "wikilink")
-  - [测量基准](../Page/测量基准.md "wikilink")
-  - [椭球体参数](../Page/椭球体.md "wikilink")
-  - [本初子午线](../Page/本初子午线.md "wikilink")
+  - [测量基准](https://zh.wikipedia.org/wiki/测量基准 "wikilink")
+  - [椭球体参数](https://zh.wikipedia.org/wiki/椭球体 "wikilink")
+  - [本初子午线](https://zh.wikipedia.org/wiki/本初子午线 "wikilink")
   - 所使用的单位
   - 用于定义[地图投影的参数](../Page/地图投影.md "wikilink")，例如：
       - 纬度原点
@@ -230,14 +230,14 @@ Parameters
 
 ### Shapefile空间索引格式(`.sbn`)
 
-这是一个二进制的[空间索引文件](../Page/空间索引.md "wikilink")，仅仅可以应用在ESRI的软件之中。其文件格式没有公开的文档，其他厂商也没有实现这个文件。`.sbn`并不是必须的，因为`.shp`文件之中已经包含了所有的解析空间数据所需的信息。
+这是一个二进制的[空间索引文件](https://zh.wikipedia.org/wiki/空间索引 "wikilink")，仅仅可以应用在ESRI的软件之中。其文件格式没有公开的文档，其他厂商也没有实现这个文件。`.sbn`并不是必须的，因为`.shp`文件之中已经包含了所有的解析空间数据所需的信息。
 
 ## 限制
 
 ### Shapefile与拓扑
 
 Shapefile无法存储拓扑信息。在ESRI的文件格式中，ArcInfo
-的Coverage、以及Personal/File/Enterprise[地理数据库](../Page/地理数据库.md "wikilink")，能够保存地理要素的拓扑信息。
+的Coverage、以及Personal/File/Enterprise[地理数据库](https://zh.wikipedia.org/wiki/地理数据库 "wikilink")，能够保存地理要素的拓扑信息。
 
 ### 空间表达
 
@@ -248,10 +248,10 @@ Shapefile无法存储拓扑信息。在ESRI的文件格式中，ArcInfo
 `.shp`文件或`.dbf`文件最大的体积不能够超过2
 GB（或2<sup>31</sup>位）。也就是说，一个shapefile最多只能够存储七千万个点坐标。\[4\]文件所能够存储的几何体的数目取决于单个要素所使用的顶点的数目。
 
-属性数据库格式所使用的`.dbf`文件基于一个比较古老的[dBase标准](../Page/dBase.md "wikilink")。这种数据库格式天生有许多限制，例如：\[5\]
+属性数据库格式所使用的`.dbf`文件基于一个比较古老的[dBase标准](https://zh.wikipedia.org/wiki/dBase "wikilink")。这种数据库格式天生有许多限制，例如：\[5\]
 
-  - 无法存储[空值](../Page/空值_\(SQL\).md "wikilink")。这对于数量数据来说是一个严重的问题，因为空值通常都用0来代替，这样会歪曲很多统计表达的结果。
-  - 对字段名或存储值中的[Unicode支持不理想](../Page/Unicode.md "wikilink")。
+  - 无法存储[空值](https://zh.wikipedia.org/wiki/空值_\(SQL\) "wikilink")。这对于数量数据来说是一个严重的问题，因为空值通常都用0来代替，这样会歪曲很多统计表达的结果。
+  - 对字段名或存储值中的[Unicode支持不理想](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
   - 字段名最多只能够有10个字符。
   - 最多只能够有255个字段。
   - 只支持以下的数据类型：浮点类型（13字节存储空间），整数（4或9字节存储空间），日期（不能够存储时间，8字节存储空间）和文本（最大254字节存储空间）
@@ -280,7 +280,7 @@ GB（或2<sup>31</sup>位）。也就是说，一个shapefile最多只能够存�
   - [shapelib.maptools.org](http://shapelib.maptools.org/) -
     开放的shapefile读写C函数库
   - [Python Shapefile 函数库](http://code.google.com/p/pyshp/) -
-    开源的（[MIT许可证](../Page/MIT许可证.md "wikilink")）shapefile读写Python函数库
+    开源的（[MIT许可证](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")）shapefile读写Python函数库
 
 [Category:图形文件格式](https://zh.wikipedia.org/wiki/Category:图形文件格式 "wikilink")
 

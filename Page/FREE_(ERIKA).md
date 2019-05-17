@@ -1,11 +1,11 @@
-《**FREE**》是[日本歌手](../Page/日本.md "wikilink")[澤尻英龍華以](../Page/澤尻英龍華.md "wikilink")**ERIKA**之名所發行的[單曲](../Page/單曲.md "wikilink")，於2007年7月4日由[Sony
-Music發行](../Page/日本新力音樂.md "wikilink")。發行首日及首週均登上日本[Oricon公信榜單曲冠軍](../Page/Oricon.md "wikilink")。
+《**FREE**》是[日本歌手](../Page/日本.md "wikilink")[澤尻英龍華以](../Page/澤尻英龍華.md "wikilink")**ERIKA**之名所發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2007年7月4日由[Sony
+Music發行](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。發行首日及首週均登上日本[Oricon公信榜單曲冠軍](../Page/Oricon.md "wikilink")。
 
 ## 概述
 
 澤尻英龍華繼首張單曲《太陽之歌》以她在[太陽之歌中所演出的角色](../Page/太陽之歌.md "wikilink")「雨音薰」之名發行，創下日本公信榜女演員首張單曲首週銷售紀錄（150,056張）及名列公信榜2006年十大單曲後，此次改以「與澤尻英龍華同年同月同日生，長相酷似澤尻英龍華的法國女子」**ERIKA**之名發行本張單曲。在與同日發行單曲的[絢香的激烈競爭下](../Page/絢香.md "wikilink")，仍奪下發行首週冠軍，成為繼[藥師丸博子後第二位出道後連續兩張單曲發行首週奪下公信榜冠軍的非團體單飛女歌手](../Page/藥師丸博子.md "wikilink")。
 
-本張單曲分為初回限定版及普通版，初回限定版附有[DVD](../Page/DVD.md "wikilink")，收錄主打曲[MV](../Page/MV.md "wikilink")，兩種版本除DVD及封面外，內容均相同。
+本張單曲分為初回限定版及普通版，初回限定版附有[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄主打曲[MV](https://zh.wikipedia.org/wiki/MV "wikilink")，兩種版本除DVD及封面外，內容均相同。
 
 ## 曲目
 

@@ -1,7 +1,7 @@
 **General MIDI Level
 2**，簡稱**GM2**，是[MIDI的標準規格](../Page/MIDI.md "wikilink")。它的基礎是[General
 MIDI以及](../Page/General_MIDI.md "wikilink")[GS
-extensions](../Page/GS_extensions.md "wikilink")。在1999年被[MIDI制造商协会](../Page/MIDI制造商协会.md "wikilink")(MMA)所採用。
+extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年被[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")(MMA)所採用。
 
 ## 最低需求條件
 
@@ -15,7 +15,8 @@ extensions](../Page/GS_extensions.md "wikilink")。在1999年被[MIDI制造商�
 ### 音色及群組轉換事件（Program and bank change events）
 
 General MIDI 2相容的合成器透過設定cc\#0 (Bank Select MSB)至121並使用cc\#32 (Bank
-Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所有的聲音組](../Page/GM.md "wikilink")。
+Select
+LSB)在音色轉換之前去選定各個群組。群組0包含了原本[GM中所有的聲音組](https://zh.wikipedia.org/wiki/GM "wikilink")。
 
 ### 旋律音色
 
@@ -45,7 +46,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>Acoustic Grand Piano</p></td>
-<td><p><a href="../Page/鋼琴.md" title="wikilink">平臺鋼琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋼琴" title="wikilink">平臺鋼琴</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
@@ -63,7 +64,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>Bright Acoustic Piano</p></td>
-<td><p><a href="../Page/鋼琴.md" title="wikilink">亮音鋼琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋼琴" title="wikilink">亮音鋼琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -87,7 +88,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>4</p></td>
 <td><p>0</p></td>
 <td><p>Honky-tonk Piano</p></td>
-<td><p><a href="../Page/叮噹琴.md" title="wikilink">叮噹琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/叮噹琴" title="wikilink">叮噹琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -207,13 +208,13 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>11</p></td>
 <td><p>0</p></td>
 <td><p>Music Box</p></td>
-<td><p><a href="../Page/音樂盒.md" title="wikilink">音樂盒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂盒" title="wikilink">音樂盒</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>0</p></td>
 <td><p>Vibraphone</p></td>
-<td><p><a href="../Page/顫音琴.md" title="wikilink">顫音琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顫音琴" title="wikilink">顫音琴</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
@@ -225,7 +226,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>13</p></td>
 <td><p>0</p></td>
 <td><p>Marimba</p></td>
-<td><p><a href="../Page/馬林巴琴.md" title="wikilink">馬林巴琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬林巴琴" title="wikilink">馬林巴琴</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
@@ -243,7 +244,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>15</p></td>
 <td><p>0</p></td>
 <td><p>Tubular Bell</p></td>
-<td><p><a href="../Page/管鐘.md" title="wikilink">管鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/管鐘" title="wikilink">管鐘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -261,7 +262,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>16</p></td>
 <td><p>0</p></td>
 <td><p>Dulcimer</p></td>
-<td><p><a href="../Page/洋琴.md" title="wikilink">洋琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洋琴" title="wikilink">洋琴</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Organ（風 琴）</p></td>
@@ -321,42 +322,42 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>20</p></td>
 <td><p>0</p></td>
 <td><p>Church Organ 1</p></td>
-<td><p><a href="../Page/管風琴.md" title="wikilink">教堂管風琴</a>1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/管風琴" title="wikilink">教堂管風琴</a>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>Church Organ 2</p></td>
-<td><p><a href="../Page/管風琴.md" title="wikilink">教堂管風琴</a>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/管風琴" title="wikilink">教堂管風琴</a>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>Church Organ 3</p></td>
-<td><p><a href="../Page/管風琴.md" title="wikilink">教堂管風琴</a>3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/管風琴" title="wikilink">教堂管風琴</a>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>0</p></td>
 <td><p>Reed Organ</p></td>
-<td><p><a href="../Page/簧風琴.md" title="wikilink">簧風琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/簧風琴" title="wikilink">簧風琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Puff Organ</p></td>
-<td><p><a href="../Page/吹氣風琴.md" title="wikilink">吹氣風琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吹氣風琴" title="wikilink">吹氣風琴</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>0</p></td>
 <td><p>French Accordion</p></td>
-<td><p>法國<a href="../Page/手風琴.md" title="wikilink">手風琴</a></p></td>
+<td><p>法國<a href="https://zh.wikipedia.org/wiki/手風琴" title="wikilink">手風琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Italian Accordion</p></td>
-<td><p>義大利<a href="../Page/手風琴.md" title="wikilink">手風琴</a></p></td>
+<td><p>義大利<a href="https://zh.wikipedia.org/wiki/手風琴" title="wikilink">手風琴</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -531,7 +532,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>33</p></td>
 <td><p>0</p></td>
 <td><p>Acoustic Bass</p></td>
-<td><p><a href="../Page/貝斯.md" title="wikilink">貝斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
@@ -590,7 +591,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>Clavi Bass</p></td>
-<td><p><a href="../Page/翼琴.md" title="wikilink">翼琴貝斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翼琴" title="wikilink">翼琴貝斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -819,25 +820,25 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>58</p></td>
 <td><p>0</p></td>
 <td><p>Trombone</p></td>
-<td><p><a href="../Page/長號.md" title="wikilink">長號</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長號" title="wikilink">長號</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Trombone 2</p></td>
-<td><p><a href="../Page/長號.md" title="wikilink">長號</a>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長號" title="wikilink">長號</a>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>Bright Trombone</p></td>
-<td><p>亮音<a href="../Page/長號.md" title="wikilink">長號</a></p></td>
+<td><p>亮音<a href="https://zh.wikipedia.org/wiki/長號" title="wikilink">長號</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>59</p></td>
 <td><p>0</p></td>
 <td><p>Tuba</p></td>
-<td><p><a href="../Page/大號.md" title="wikilink">大號</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大號" title="wikilink">大號</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>60</p></td>
@@ -867,30 +868,30 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>62</p></td>
 <td><p>0</p></td>
 <td><p>Brass Section 1</p></td>
-<td><p><a href="../Page/銅管樂.md" title="wikilink">銅管樂</a>1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銅管樂" title="wikilink">銅管樂</a>1</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Brass Section 2</p></td>
-<td><p><a href="../Page/銅管樂.md" title="wikilink">銅管樂</a>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銅管樂" title="wikilink">銅管樂</a>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>0</p></td>
 <td><p>Synth Brass 1</p></td>
-<td><p>合成<a href="../Page/銅管.md" title="wikilink">銅管</a>1</p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>1</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Synth Brass 3</p></td>
-<td><p>合成<a href="../Page/銅管.md" title="wikilink">銅管</a>3</p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>Analog Brass 1</p></td>
-<td><p>類比<a href="../Page/銅管.md" title="wikilink">銅管</a>1</p></td>
+<td><p>類比<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>1</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -903,18 +904,18 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>64</p></td>
 <td><p>0</p></td>
 <td><p>Synth Brass 2</p></td>
-<td><p>合成<a href="../Page/銅管.md" title="wikilink">銅管</a>2</p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>2</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Synth Brass 4</p></td>
-<td><p>合成<a href="../Page/銅管.md" title="wikilink">銅管</a>4</p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>4</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>Analog Brass 2</p></td>
-<td><p>類比<a href="../Page/銅管.md" title="wikilink">銅管</a>2</p></td>
+<td><p>類比<a href="https://zh.wikipedia.org/wiki/銅管" title="wikilink">銅管</a>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -957,19 +958,19 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>70</p></td>
 <td><p>0</p></td>
 <td><p>English Horn</p></td>
-<td><p><a href="../Page/英國管.md" title="wikilink">英國管</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/英國管" title="wikilink">英國管</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>71</p></td>
 <td><p>0</p></td>
 <td><p>Bassoon</p></td>
-<td><p><a href="../Page/低音簧.md" title="wikilink">低音簧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/低音簧" title="wikilink">低音簧</a></p></td>
 </tr>
 <tr class="even">
 <td><p>72</p></td>
 <td><p>0</p></td>
 <td><p>Clarinet</p></td>
-<td><p><a href="../Page/單簧管.md" title="wikilink">單簧管</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單簧管" title="wikilink">單簧管</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Wind（管 樂 器）</p></td>
@@ -987,7 +988,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>74</p></td>
 <td><p>0</p></td>
 <td><p>Flute</p></td>
-<td><p><a href="../Page/長笛.md" title="wikilink">長笛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長笛" title="wikilink">長笛</a></p></td>
 </tr>
 <tr class="even">
 <td><p>75</p></td>
@@ -999,13 +1000,13 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>76</p></td>
 <td><p>0</p></td>
 <td><p>Pan Flute</p></td>
-<td><p><a href="../Page/排笛.md" title="wikilink">排笛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/排笛" title="wikilink">排笛</a></p></td>
 </tr>
 <tr class="even">
 <td><p>77</p></td>
 <td><p>0</p></td>
 <td><p>Bottle Blow</p></td>
-<td><p><a href="../Page/瓶笛.md" title="wikilink">瓶笛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瓶笛" title="wikilink">瓶笛</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>78</p></td>
@@ -1017,7 +1018,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>79</p></td>
 <td><p>0</p></td>
 <td><p>Whistle</p></td>
-<td><p><a href="../Page/哨子_(器物).md" title="wikilink">哨子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哨子_(器物)" title="wikilink">哨子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>80</p></td>
@@ -1046,7 +1047,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>Sine Wave</p></td>
-<td><p><a href="../Page/正弦波.md" title="wikilink">正弦波</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/正弦波" title="wikilink">正弦波</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1058,7 +1059,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>Saw Wave</p></td>
-<td><p><a href="../Page/鋸齒波.md" title="wikilink">鋸齒波</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋸齒波" title="wikilink">鋸齒波</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1083,7 +1084,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>83</p></td>
 <td><p>0</p></td>
 <td><p>Synth Calliope</p></td>
-<td><p>合成<a href="../Page/汽笛風琴.md" title="wikilink">汽笛風琴</a></p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/汽笛風琴" title="wikilink">汽笛風琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>84</p></td>
@@ -1095,7 +1096,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>85</p></td>
 <td><p>0</p></td>
 <td><p>Charang</p></td>
-<td><p>合成<a href="../Page/電吉他.md" title="wikilink">電吉他</a></p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/電吉他" title="wikilink">電吉他</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -1220,7 +1221,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Synth Mallet</p></td>
-<td><p>合成<a href="../Page/音槌.md" title="wikilink">音槌</a></p></td>
+<td><p>合成<a href="https://zh.wikipedia.org/wiki/音槌" title="wikilink">音槌</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1275,61 +1276,61 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>105</p></td>
 <td><p>0</p></td>
 <td><p>Sitar</p></td>
-<td><p><a href="../Page/西塔琴.md" title="wikilink">西塔琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西塔琴" title="wikilink">西塔琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Sitar 2</p></td>
-<td><p><a href="../Page/西塔琴.md" title="wikilink">西塔琴</a>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西塔琴" title="wikilink">西塔琴</a>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>106</p></td>
 <td><p>0</p></td>
 <td><p>Banjo</p></td>
-<td><p><a href="../Page/五絃琴.md" title="wikilink">五絃琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/五絃琴" title="wikilink">五絃琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>107</p></td>
 <td><p>0</p></td>
 <td><p>Shamisen</p></td>
-<td><p><a href="../Page/三味線.md" title="wikilink">三味線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三味線" title="wikilink">三味線</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>108</p></td>
 <td><p>0</p></td>
 <td><p>Koto</p></td>
-<td><p><a href="../Page/十三絃琴.md" title="wikilink">十三絃琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/十三絃琴" title="wikilink">十三絃琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>Taisho Koto</p></td>
-<td><p><a href="../Page/大正琴.md" title="wikilink">大正琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大正琴" title="wikilink">大正琴</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>109</p></td>
 <td><p>0</p></td>
 <td><p>Kalimba</p></td>
-<td><p><a href="../Page/卡利瑪鐘琴.md" title="wikilink">卡利瑪鐘琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡利瑪鐘琴" title="wikilink">卡利瑪鐘琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>110</p></td>
 <td><p>0</p></td>
 <td><p>Bagpipe</p></td>
-<td><p><a href="../Page/蘇格蘭風笛.md" title="wikilink">蘇格蘭風笛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇格蘭風笛" title="wikilink">蘇格蘭風笛</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>111</p></td>
 <td><p>0</p></td>
 <td><p>Fiddle</p></td>
-<td><p><a href="../Page/古提琴.md" title="wikilink">古提琴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古提琴" title="wikilink">古提琴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>112</p></td>
 <td><p>0</p></td>
 <td><p>Shanai</p></td>
-<td><p><a href="../Page/嗩吶.md" title="wikilink">嗩吶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/嗩吶" title="wikilink">嗩吶</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Percussive（打 擊 樂 器）</p></td>
@@ -1341,25 +1342,25 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>113</p></td>
 <td><p>0</p></td>
 <td><p>Tinkle Bell</p></td>
-<td><p><a href="../Page/叮噹鈴.md" title="wikilink">叮噹鈴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/叮噹鈴" title="wikilink">叮噹鈴</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>114</p></td>
 <td><p>0</p></td>
 <td><p>Agogo</p></td>
-<td><p><a href="../Page/阿哥哥鼓.md" title="wikilink">阿哥哥鼓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿哥哥鼓" title="wikilink">阿哥哥鼓</a></p></td>
 </tr>
 <tr class="even">
 <td><p>115</p></td>
 <td><p>0</p></td>
 <td><p>Steel Drums</p></td>
-<td><p><a href="../Page/鋼鼓.md" title="wikilink">鋼鼓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋼鼓" title="wikilink">鋼鼓</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>116</p></td>
 <td><p>0</p></td>
 <td><p>Woodblock</p></td>
-<td><p><a href="../Page/木魚.md" title="wikilink">木魚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木魚" title="wikilink">木魚</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -1371,7 +1372,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <td><p>117</p></td>
 <td><p>0</p></td>
 <td><p>Taiko</p></td>
-<td><p><a href="../Page/太鼓.md" title="wikilink">太鼓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太鼓" title="wikilink">太鼓</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -1544,7 +1545,7 @@ Select LSB)在音色轉換之前去選定各個群組。群組0包含了原本[G
 <tr class="even">
 <td><p>5</p></td>
 <td><p>Wind Chimes</p></td>
-<td><p><a href="../Page/風鈴.md" title="wikilink">風鈴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/風鈴" title="wikilink">風鈴</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

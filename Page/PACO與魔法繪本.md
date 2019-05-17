@@ -1,5 +1,6 @@
-，是以2004年在[日本全國](../Page/日本.md "wikilink")8城市公演的[舞台劇](../Page/舞台劇.md "wikilink")「**MIDSUMMER
-CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電影.md "wikilink")。
+，是以2004年在[日本全國](../Page/日本.md "wikilink")8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER
+CAROL
+青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 簡介
 
@@ -19,7 +20,8 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 <!-- end list -->
 
-  - 帕科 ：[Ayaka Wilson](../Page/Ayaka_Wilson.md "wikilink")
+  - 帕科 ：[Ayaka
+    Wilson](https://zh.wikipedia.org/wiki/Ayaka_Wilson "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +57,7 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 <!-- end list -->
 
-  - 木之元（青蛙王子的母親）：[國村隼](../Page/國村隼.md "wikilink")
+  - 木之元（青蛙王子的母親）：[國村隼](https://zh.wikipedia.org/wiki/國村隼 "wikilink")
 
 <!-- end list -->
 
@@ -64,7 +66,7 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 <!-- end list -->
 
-  - 龍門寺（豉蟲）: [山內圭哉](../Page/山內圭哉.md "wikilink")
+  - 龍門寺（豉蟲）: [山內圭哉](https://zh.wikipedia.org/wiki/山內圭哉 "wikilink")
 
 <!-- end list -->
 
@@ -73,7 +75,7 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 <!-- end list -->
 
-  - 滝田（魚）：[劇団一人](../Page/劇団一人.md "wikilink")
+  - 滝田（魚）：[劇団一人](https://zh.wikipedia.org/wiki/劇団一人 "wikilink")
 
 <!-- end list -->
 
@@ -91,7 +93,7 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 <!-- end list -->
 
-  - 雅美（沼澤蝦的魔女）：[小池榮子](../Page/小池榮子.md "wikilink")
+  - 雅美（沼澤蝦的魔女）：[小池榮子](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")
 
 <!-- end list -->
 
@@ -105,7 +107,7 @@ CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](../Page/電�
 
 ## 主題歌
 
-[memories](../Page/Moustache/memories.md "wikilink")／[木村KAELA](../Page/木村KAELA.md "wikilink")
+[memories](https://zh.wikipedia.org/wiki/Moustache/memories "wikilink")／[木村KAELA](../Page/木村KAELA.md "wikilink")
 
 ## 外部連結
 

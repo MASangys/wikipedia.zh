@@ -1,17 +1,17 @@
-《**G-taste**》是日本漫畫家[八神浩樹的](../Page/八神浩樹.md "wikilink")[青年漫畫作品](../Page/青年漫畫.md "wikilink")，於1996年在[講談社](../Page/講談社.md "wikilink")《[MISTER
-MAGAZINE](../Page/MISTER_MAGAZINE.md "wikilink")》開始連載，但因該雜誌停刊而於2000年1月暫停連載。2000年5月改在講談社《[Young
+《**G-taste**》是日本漫畫家[八神浩樹的](https://zh.wikipedia.org/wiki/八神浩樹 "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於1996年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER
+MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》開始連載，但因該雜誌停刊而於2000年1月暫停連載。2000年5月改在講談社《[Young
 Magazine
-Uppers](../Page/Young_Magazine_Uppers.md "wikilink")》（）繼續連載，但因為該雜誌停刊而再次中斷連載。2010年9月改在講談社《[月刊Young
-Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中文版由[尖端出版發行](../Page/尖端出版.md "wikilink")。後來改編成電視劇、OVA、遊戲等相關作品。
+Uppers](https://zh.wikipedia.org/wiki/Young_Magazine_Uppers "wikilink")》（）繼續連載，但因為該雜誌停刊而再次中斷連載。2010年9月改在講談社《[月刊Young
+Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（）繼續連載，中文版由[尖端出版發行](../Page/尖端出版.md "wikilink")。後來改編成電視劇、OVA、遊戲等相關作品。
 
 ## 概要
 
-標題中的「G」指「Girl」，「taste」代表[味道](../Page/味道.md "wikilink")，涵義是將男性對女性各種角色的[慾望具體化](../Page/慾望.md "wikilink")。本作主線劇情薄弱，而是以介紹各種各樣具魅力的女主角為主，被歸類為[Cosplay的類型](../Page/Cosplay.md "wikilink")。由漫畫改編的[電視劇於](../Page/電視劇.md "wikilink")2001年4月至7月的每個星期五凌晨3點14分在[朝日電視台播放](../Page/朝日電視台.md "wikilink")。由[釋由美子擔任](../Page/釋由美子.md "wikilink")[說書人](../Page/說書人.md "wikilink")，以一集一個主題的方式，每一集邀請人氣偶像穿上各種職業的服裝大受歡迎。
+標題中的「G」指「Girl」，「taste」代表[味道](https://zh.wikipedia.org/wiki/味道 "wikilink")，涵義是將男性對女性各種角色的[慾望具體化](https://zh.wikipedia.org/wiki/慾望 "wikilink")。本作主線劇情薄弱，而是以介紹各種各樣具魅力的女主角為主，被歸類為[Cosplay的類型](../Page/Cosplay.md "wikilink")。由漫畫改編的[電視劇於](https://zh.wikipedia.org/wiki/電視劇 "wikilink")2001年4月至7月的每個星期五凌晨3點14分在[朝日電視台播放](../Page/朝日電視台.md "wikilink")。由[釋由美子擔任](../Page/釋由美子.md "wikilink")[說書人](https://zh.wikipedia.org/wiki/說書人 "wikilink")，以一集一個主題的方式，每一集邀請人氣偶像穿上各種職業的服裝大受歡迎。
 
 ## 角色
 
   - 黃金水教授
-    用燒瓶、試管製作性感服裝的教授。名字中的黃金水意即[尿液](../Page/尿液.md "wikilink")。
+    用燒瓶、試管製作性感服裝的教授。名字中的黃金水意即[尿液](https://zh.wikipedia.org/wiki/尿液 "wikilink")。
 
 <!-- end list -->
 
@@ -31,17 +31,17 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 ### 諸位美女
 
   - 神無月舞
-    紅色套裝秘書，水谷和森村的上司。向面具男爵虛報[腰圍](../Page/三圍.md "wikilink")。自尊心很高，興趣是騎馬。
+    紅色套裝秘書，水谷和森村的上司。向面具男爵虛報[腰圍](https://zh.wikipedia.org/wiki/三圍 "wikilink")。自尊心很高，興趣是騎馬。
 
 <!-- end list -->
 
   - 森村奈奈
-    黑色短髮[女僕](../Page/女僕.md "wikilink")，性格較為害羞。
+    黑色短髮[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")，性格較為害羞。
 
 <!-- end list -->
 
   - 水谷理沙
-    棕色長髮[女僕](../Page/女僕.md "wikilink")，森村奈奈的前輩。
+    棕色長髮[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")，森村奈奈的前輩。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 <!-- end list -->
 
   - 瀬能明日香
-    黑髮短髮[護士](../Page/護士.md "wikilink")。
+    黑髮短髮[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 <!-- end list -->
 
   - 風吹京花
-    [醫師](../Page/醫師.md "wikilink")，性格強勢。
+    [醫師](https://zh.wikipedia.org/wiki/醫師 "wikilink")，性格強勢。
 
 <!-- end list -->
 
@@ -81,12 +81,12 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 <!-- end list -->
 
   - 四方堂由姫
-    [旗袍](../Page/旗袍.md "wikilink")、[裸體圍裙](../Page/裸體圍裙.md "wikilink")、[馬尾](../Page/馬尾.md "wikilink")、[人妻](../Page/人妻.md "wikilink")。
+    [旗袍](../Page/旗袍.md "wikilink")、[裸體圍裙](https://zh.wikipedia.org/wiki/裸體圍裙 "wikilink")、[馬尾](https://zh.wikipedia.org/wiki/馬尾 "wikilink")、[人妻](../Page/人妻.md "wikilink")。
 
 <!-- end list -->
 
   - 森野聖美
-    [耶誕老人服](../Page/耶誕老人.md "wikilink")。
+    [耶誕老人服](https://zh.wikipedia.org/wiki/耶誕老人 "wikilink")。
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 <!-- end list -->
 
   - 毛利未織
-    [羊毛](../Page/羊毛.md "wikilink")[毛衣](../Page/毛衣.md "wikilink")。
+    [羊毛](../Page/羊毛.md "wikilink")[毛衣](https://zh.wikipedia.org/wiki/毛衣 "wikilink")。
 
 <!-- end list -->
 
@@ -116,22 +116,22 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 <!-- end list -->
 
   - 多崎川鈴
-    [OL](../Page/OL.md "wikilink")，[姊姊](../Page/姊姊.md "wikilink")。
+    [OL](https://zh.wikipedia.org/wiki/OL "wikilink")，[姊姊](https://zh.wikipedia.org/wiki/姊姊 "wikilink")。
 
 <!-- end list -->
 
   - 如月里緒菜
-    [丁字褲與](../Page/丁字褲.md "wikilink")[吊帶](../Page/吊襪帶.md "wikilink")[絲襪](../Page/絲襪.md "wikilink")。
+    [丁字褲與](https://zh.wikipedia.org/wiki/丁字褲 "wikilink")[吊帶](https://zh.wikipedia.org/wiki/吊襪帶 "wikilink")[絲襪](../Page/絲襪.md "wikilink")。
 
 <!-- end list -->
 
   - 如月麻里菜
-    [鬼面具](../Page/鬼.md "wikilink")，[巫女服](../Page/巫女#.E5.B7.AB.E5.A5.B3.E6.9C.8D.md "wikilink")，[龜甲縛](../Page/龜甲縛.md "wikilink")。
+    [鬼面具](../Page/鬼.md "wikilink")，[巫女服](https://zh.wikipedia.org/wiki/巫女#.E5.B7.AB.E5.A5.B3.E6.9C.8D "wikilink")，[龜甲縛](https://zh.wikipedia.org/wiki/龜甲縛 "wikilink")。
 
 <!-- end list -->
 
   - 仁科葵
-    [巴士](../Page/巴士.md "wikilink")[車掌](../Page/車掌.md "wikilink")。
+    [巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")[車掌](https://zh.wikipedia.org/wiki/車掌 "wikilink")。
 
 ## 單行本
 
@@ -180,9 +180,9 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
 
 <!-- end list -->
 
-  - 原作：[八神浩樹](../Page/八神浩樹.md "wikilink")
+  - 原作：[八神浩樹](https://zh.wikipedia.org/wiki/八神浩樹 "wikilink")
   - 導演：
-  - 人物設計：清丸悟（如月里緒菜）、佐藤陵（四方堂由姫）、[山内則康](../Page/山内則康.md "wikilink")（森村奈奈）、櫻井正明（瀨能明日香）、加藤真人（神無月舞）
+  - 人物設計：清丸悟（如月里緒菜）、佐藤陵（四方堂由姫）、[山内則康](https://zh.wikipedia.org/wiki/山内則康 "wikilink")（森村奈奈）、櫻井正明（瀨能明日香）、加藤真人（神無月舞）
   - 美術指導：糸満昭
   - 色彩設計：三笠修
   - 綜合總監：津田涼介
@@ -192,7 +192,7 @@ Magazine](../Page/月刊Young_Magazine.md "wikilink")》（）繼續連載，中
   - 動畫製作人：黄樹貳悠、先川幸矢
   - 製作人：安永尚人、細谷祐介、半田有美
   - 動畫製作：[AIC PLUS+](../Page/動畫國際公司.md "wikilink")
-  - 製作：[講談社](../Page/講談社.md "wikilink")
+  - 製作：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
 
 <!-- end list -->
 

@@ -11,7 +11,7 @@ Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/
 
 ## 故事大綱
 
-總是會在工作時翹一下班到海濱公園偷閒的保，經常使用設置在觀光地的投幣式[望遠鏡觀賞海邊景色](../Page/望遠鏡.md "wikilink")。但在一次觀賞時，突然看到了一位正在[裸泳的](../Page/裸泳.md "wikilink")[少女](../Page/少女.md "wikilink")。保忍不住倒抽一口氣地觀看著，但這時望遠鏡剛好使用時間到了。保慌忙下趕緊投入[硬幣](../Page/硬幣.md "wikilink")，但在另一頭的少女卻已經失去蹤跡。
+總是會在工作時翹一下班到海濱公園偷閒的保，經常使用設置在觀光地的投幣式[望遠鏡觀賞海邊景色](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")。但在一次觀賞時，突然看到了一位正在[裸泳的](https://zh.wikipedia.org/wiki/裸泳 "wikilink")[少女](https://zh.wikipedia.org/wiki/少女 "wikilink")。保忍不住倒抽一口氣地觀看著，但這時望遠鏡剛好使用時間到了。保慌忙下趕緊投入[硬幣](../Page/硬幣.md "wikilink")，但在另一頭的少女卻已經失去蹤跡。
 
 於是接著前往常常光顧的咖啡店的保，吃驚地察覺到在咖啡店裡面竟然出了在海濱公園見到的少女。根據店的老闆所說，是他暑假時從鄉下來到這裡的孫子並且在這段時間幫忙店裡的工作。於是這名看起來人見人愛的孩子就拜託阿保帶他出去遊玩。
 
@@ -44,7 +44,7 @@ Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/
   - 影像編輯：ナカジマりょう
   - 動畫製作：シュガーボーイ、ブルーキャッツ、[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 製片人：GOLDENBOYこと金子政路
-  - 導演：[谷田部勝義](../Page/谷田部勝義.md "wikilink")
+  - 導演：[谷田部勝義](https://zh.wikipedia.org/wiki/谷田部勝義 "wikilink")
   - 製作・著作・受審・発售：NaturalHigh
   - 製作：シュガーボーイ
   - 販售公司：[Soft On Demand](../Page/Soft_On_Demand.md "wikilink")
@@ -59,8 +59,8 @@ Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/
 ## 得獎
 
   - [Soft On Demand](../Page/Soft_On_Demand.md "wikilink")2006年9月銷售第一位
-  - [amazon.co.jp成人動畫排行榜瞬間順位第](../Page/amazon.co.jp.md "wikilink")1位
-  - [amazon.co.jp](../Page/amazon.co.jp.md "wikilink")2006年9月第2週成人部門第1位
+  - [amazon.co.jp成人動畫排行榜瞬間順位第](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")1位
+  - [amazon.co.jp](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")2006年9月第2週成人部門第1位
 
 ## 關連項目
 
@@ -82,6 +82,7 @@ Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/
 
 1.  [My Pico
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6908)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [ぼくのぴこ
     シリーズぴこ1](http://www.getchu.com/soft.phtml?id=283925)Getchu.com

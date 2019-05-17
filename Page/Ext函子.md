@@ -1,17 +1,17 @@
 在[同調代數中](../Page/同調代數.md "wikilink")，**Ext 函子**是 Hom
-函子的導函子。此函子首見於[代數拓撲](../Page/代數拓撲.md "wikilink")，但其應用遍佈許多領域。
+函子的導函子。此函子首見於[代數拓撲](https://zh.wikipedia.org/wiki/代數拓撲 "wikilink")，但其應用遍佈許多領域。
 
 ## 定義
 
 設 \(\mathcal{C}\)
-為有充足內射元的[阿貝爾範疇](../Page/阿貝爾範疇.md "wikilink")，例如一個[環](../Page/環.md "wikilink")
+為有充足內射元的[阿貝爾範疇](../Page/阿貝爾範疇.md "wikilink")，例如一個[環](https://zh.wikipedia.org/wiki/環 "wikilink")
 \(R\) 上的左[模範疇](../Page/模.md "wikilink") \(R-\mathbf{Mod}\)。固定一對象
 \(A\)，定義函子
-\(T_A(-) := \mathrm{Hom}_\mathcal{C}(A,-)\)，此為左[正合函子](../Page/正合函子.md "wikilink")，故存在右[導函子](../Page/導函子.md "wikilink")
+\(T_A(-) := \mathrm{Hom}_\mathcal{C}(A,-)\)，此為左[正合函子](../Page/正合函子.md "wikilink")，故存在右[導函子](https://zh.wikipedia.org/wiki/導函子 "wikilink")
 \(R^\bullet T_A(-)\)，記為 \(\mathrm{Ext}_\mathcal{C}^\bullet(A,-)\)。當
 \(\mathcal{C}=R-\mathbf{Mod}\) 時，常記之為 \(\mathrm{Ext}_R^\bullet(A,-)\)。
 
-根據定義，取 \(B\) 的[內射分解](../Page/內射分解.md "wikilink")
+根據定義，取 \(B\) 的[內射分解](https://zh.wikipedia.org/wiki/內射分解 "wikilink")
 
   -
     \(J(B)\longleftarrow B\longleftarrow 0\)
@@ -28,7 +28,7 @@
 \(G_B(-) := \mathrm{Hom}_\mathcal{C}(-,B)\) 及其左導函子
 \(L_\bullet G_B(-)\)，可證明存在自然同構
 \(L_\bullet G_B(A) = \mathrm{Ext}^\bullet_\mathcal{C}(A,B)\)。換言之，對 \(A\)
-取[射影分解](../Page/射影分解.md "wikilink")：
+取[射影分解](https://zh.wikipedia.org/wiki/射影分解 "wikilink")：
 
   -
     \(P(A) \longrightarrow A \longrightarrow 0\)
@@ -43,17 +43,17 @@
 
 ## 基本性質
 
-  - 若 \(A\) 是[射影對象或](../Page/射影對象.md "wikilink") \(B\)
-    是[內射對象](../Page/內射對象.md "wikilink")，則對所有 \(i>0\) 有
-    \(\mathrm{Ext}^i_\mathcal{C}(A,B) = 0\)。
+  - 若 \(A\) 是[射影對象或](https://zh.wikipedia.org/wiki/射影對象 "wikilink")
+    \(B\) 是[內射對象](https://zh.wikipedia.org/wiki/內射對象 "wikilink")，則對所有
+    \(i>0\) 有 \(\mathrm{Ext}^i_\mathcal{C}(A,B) = 0\)。
   - 反之，若 \(\mathrm{Ext}^1_\mathcal{C}(A,-)=0\)，則 \(A\)
-    是[射影對象](../Page/射影對象.md "wikilink")。若
+    是[射影對象](https://zh.wikipedia.org/wiki/射影對象 "wikilink")。若
     \(\mathrm{Ext}^1_\mathcal{C}(-,B)=0\)，則 \(B\)
-    是[內射對象](../Page/內射對象.md "wikilink")。
+    是[內射對象](https://zh.wikipedia.org/wiki/內射對象 "wikilink")。
   - \(\mathrm{Ext}^\bullet_\mathcal{C}(\bigoplus_i A_i, B) = \coprod_i \mathrm{Ext}^\bullet_\mathcal{C}(A_i, B)\)
   - \(\mathrm{Ext}^\bullet_\mathcal{C}(A, \prod_j B_j) = \prod_j \mathrm{Ext}^\bullet_\mathcal{C}(A, B_j)\)
-  - 根據[導函子性質](../Page/導函子.md "wikilink")，對每個[短正合序列](../Page/短正合序列.md "wikilink")
-    \(0 \to B' \to B \to B'' \to 0\)，有[長正合序列](../Page/長正合序列.md "wikilink")：
+  - 根據[導函子性質](https://zh.wikipedia.org/wiki/導函子 "wikilink")，對每個[短正合序列](https://zh.wikipedia.org/wiki/短正合序列 "wikilink")
+    \(0 \to B' \to B \to B'' \to 0\)，有[長正合序列](https://zh.wikipedia.org/wiki/長正合序列 "wikilink")：
 
 <!-- end list -->
 
@@ -72,14 +72,14 @@
 
 ## 譜序列
 
-今設 \(A,B\) 為含單位元的[環](../Page/環.md "wikilink")，並固定一環同態
+今設 \(A,B\) 為含單位元的[環](https://zh.wikipedia.org/wiki/環 "wikilink")，並固定一環同態
 \(A \to B\)。則由雙函子的自然同構
 
   -
     \(\mathrm{Hom}_B(-, \mathrm{Hom}_A(B,-)) \simeq \mathrm{Hom}_A(-, -)\)
 
-導出[格羅滕迪克譜序列](../Page/格羅滕迪克譜序列.md "wikilink")：對每個 \(B\)-模 \(M\) 及 \(A\)-模
-\(N\)，有[譜序列](../Page/譜序列.md "wikilink")
+導出[格羅滕迪克譜序列](https://zh.wikipedia.org/wiki/格羅滕迪克譜序列 "wikilink")：對每個
+\(B\)-模 \(M\) 及 \(A\)-模 \(N\)，有[譜序列](../Page/譜序列.md "wikilink")
 
   -
     \(E_2^{pq} = \mathrm{Ext}_B^p(M, \mathrm{Ext}^q_A(B, N)) \Rightarrow \mathrm{Ext}_A^{p+q}(M, N)\)
@@ -127,12 +127,15 @@ n-擴張的等價類上構成一個群運算，此群自然同構於
 
   - 設 \(G\) 為群，取環
     \(R :=\Z G\)，可以得到[群上同調](../Page/群上同調.md "wikilink")：\(\mathrm{Ext}_{\Z G}^\bullet (\Z, M ) = H^\bullet(G,M)\)。
-  - 設 \(\mathcal{C}\) 為[局部賦環空間](../Page/局部賦環空間.md "wikilink") \(X\) 上的
-    \(\mathcal{O}_X\)-模範疇，可以得到[層上同調](../Page/層上同調.md "wikilink")：\(\mathrm{Ext}_\mathcal{C}^\bullet(\mathcal{O}_X, \mathcal{F}) = H^\bullet(X, \mathcal{F})\)。
+  - 設 \(\mathcal{C}\)
+    為[局部賦環空間](https://zh.wikipedia.org/wiki/局部賦環空間 "wikilink")
+    \(X\) 上的
+    \(\mathcal{O}_X\)-模範疇，可以得到[層上同調](https://zh.wikipedia.org/wiki/層上同調 "wikilink")：\(\mathrm{Ext}_\mathcal{C}^\bullet(\mathcal{O}_X, \mathcal{F}) = H^\bullet(X, \mathcal{F})\)。
   - 設 \(\mathfrak{g}\) 為[李代數](../Page/李代數.md "wikilink")，取環
     \(R := U(\mathfrak{g})\)
-    為其[泛包絡代數](../Page/泛包絡代數.md "wikilink")，可以得到[李代數上同調](../Page/李代數上同調.md "wikilink")：\(\mathrm{Ext}_R^\bullet(R, M) = H^\bullet(\mathfrak{g}, M)\)。
-  - 設 \(k\) 為域，\(A\) 為 \(k\)-[代數](../Page/交換環上的代數.md "wikilink")，取環
+    為其[泛包絡代數](../Page/泛包絡代數.md "wikilink")，可以得到[李代數上同調](https://zh.wikipedia.org/wiki/李代數上同調 "wikilink")：\(\mathrm{Ext}_R^\bullet(R, M) = H^\bullet(\mathfrak{g}, M)\)。
+  - 設 \(k\) 為域，\(A\) 為
+    \(k\)-[代數](https://zh.wikipedia.org/wiki/交換環上的代數 "wikilink")，取環
     \(R := A \times A^\mathrm{op}\)，\(A\) 帶有自然的 \(R\)-模結構，此時得到
     Hochschild 上同調：\(\mathrm{Ext}^\bullet_R(A, M) = HH^\bullet(A, M)\)。
 

@@ -1,5 +1,5 @@
 **《Code Geass 娜娜莉的梦魇》**是动画[Code Geass
-反叛的鲁路修的改編漫画](../Page/Code_Geass_反叛的鲁路修.md "wikilink")，自2006年开始在[月刊CompAce上进行连载](../Page/月刊CompAce.md "wikilink")。
+反叛的鲁路修的改編漫画](https://zh.wikipedia.org/wiki/Code_Geass_反叛的鲁路修 "wikilink")，自2006年开始在[月刊CompAce上进行连载](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")。
 
 故事原案[大河內一樓](../Page/大河內一樓.md "wikilink")、[谷口悟朗](../Page/谷口悟朗.md "wikilink")，由担任作画，CompAce
 Vol.10开始连载。
@@ -9,7 +9,7 @@ Vol.10开始连载。
   -
     由娜娜莉擔任主角的另一個原創故事。
     譯名為「CODE GEASS Nightmare of
-    Nunnally」。前述的「Nightmare」是指[惡夢](../Page/惡夢.md "wikilink")，而非擁有騎士牡馬與惡夢等多重含意的「KnightMare」。
+    Nunnally」。前述的「Nightmare」是指[惡夢](https://zh.wikipedia.org/wiki/惡夢 "wikilink")，而非擁有騎士牡馬與惡夢等多重含意的「KnightMare」。
     克洛維斯為了隱藏秘密而向新宿难民营發射了飛彈，導致魯路修下落不明。前往尋找魯路修的娜娜莉隨後獲得了「**看出未來線**」的Geass力量，搭乘[增益](../Page/增益.md "wikilink")50倍以上的異形Knightmare
     Frame「馬可尼莫（Mark Nemo）」。她在搭乘時所顯現的好戰性格與平時的娜娜莉判若兩人。劇情的走向與動畫版的劇情發展完全不同。
     「魔導器尼莫（、Nemo，在拉丁文中「Nemo」是「無名的人物」
@@ -94,7 +94,7 @@ Zero」不明（據說可以將一切化為虛無，也就是說可以讓所有�
 <tbody>
 <tr class="odd">
 <td><p>發售日</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日</p></td>
 </tr>
 <tr class="even">

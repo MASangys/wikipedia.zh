@@ -1,9 +1,9 @@
-**UVERworld**（ウーバーワールド），[滋賀縣出身的日本](../Page/滋賀縣.md "wikilink")6人組團體，於2005年[夏季出道](../Page/夏季.md "wikilink")，[日本](../Page/日本.md "wikilink")[混音](../Page/混音.md "wikilink")、[流行](../Page/流行.md "wikilink")、[搖滾](../Page/搖滾.md "wikilink")[樂團](../Page/樂團.md "wikilink")。
+**UVERworld**（ウーバーワールド），[滋賀縣出身的日本](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")6人組團體，於2005年[夏季出道](../Page/夏季.md "wikilink")，[日本](../Page/日本.md "wikilink")[混音](../Page/混音.md "wikilink")、[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
-UVER是[德語über和英语over的混合](../Page/德語.md "wikilink")，UVERworld＝OVER THE
-WORLD（超越自己的世界），他們懷著此一信念，樂隊名稱也因此而來。
+UVER是[德語über和英语over的混合](https://zh.wikipedia.org/wiki/德語 "wikilink")，UVERworld＝OVER
+THE WORLD（超越自己的世界），他們懷著此一信念，樂隊名稱也因此而來。
 
-UVERworld的前身為[sound極road](../Page/sound極road.md "wikilink")，結成於2000年6月。當時一共有7位團員，除了2014年3月26日前的5位正式成員，還有另一個主唱、薩克斯風手（SEIKA）、小號手。
+UVERworld的前身為[sound極road](https://zh.wikipedia.org/wiki/sound極road "wikilink")，結成於2000年6月。當時一共有7位團員，除了2014年3月26日前的5位正式成員，還有另一個主唱、薩克斯風手（SEIKA）、小號手。
 
 SEIKA之前(2014年3月26日前)雖然沒有正式加入樂團，但是在LIVE TOUR時，都會跟隨表演。
 
@@ -13,8 +13,8 @@ SEIKA之前(2014年3月26日前)雖然沒有正式加入樂團，但是在LIVE T
 
 ### TAKUYA∞
 
-  - 本名：[清水琢也](../Page/清水琢也.md "wikilink")
-  - [主唱](../Page/主唱.md "wikilink")、[編製程序](../Page/編製程序.md "wikilink")（programming）
+  - 本名：[清水琢也](https://zh.wikipedia.org/wiki/清水琢也 "wikilink")
+  - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[編製程序](https://zh.wikipedia.org/wiki/編製程序 "wikilink")（programming）
   - 生日：12月21日
   - 星座：射手座
   - 血型：B型
@@ -29,7 +29,7 @@ SEIKA之前(2014年3月26日前)雖然沒有正式加入樂團，但是在LIVE T
 
 ### 克哉（katsuya）
 
-  - [吉他手](../Page/吉他手.md "wikilink")
+  - [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
   - 生日：2月22日
   - 星座：雙魚座
   - 受會彈吉他的姐姐影響，對音樂懷有興趣。除了吉他外也會彈奏電子琴跟打爵士鼓等樂器。曾經有擔任一段時間的主唱經驗。
@@ -39,25 +39,25 @@ SEIKA之前(2014年3月26日前)雖然沒有正式加入樂團，但是在LIVE T
 
 ### 彰（akira）
 
-  - [吉他手](../Page/吉他手.md "wikilink")
+  - [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
   - 生日：3月8日
   - 星座：雙魚座
 
 ### 信人（nobuto）
 
-  - [貝斯手](../Page/貝斯.md "wikilink")
+  - [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
   - 生日：2月14日
   - 星座：水瓶座
 
 ### 真太郎（shintaro）
 
-  - [鼓手](../Page/鼓手.md "wikilink")
+  - [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
   - 生日：11月5日
   - 星座：天蠍座
 
 ### 誠果（SEIKA）
 
-  - [薩克斯風](../Page/薩克斯風.md "wikilink")、[Manipulator](../Page/Manipulator.md "wikilink")
+  - [薩克斯風](../Page/薩克斯風.md "wikilink")、[Manipulator](https://zh.wikipedia.org/wiki/Manipulator "wikilink")
   - 生日：9月25日
   - 星座：天秤座
   - 出道前夕因為公司緣故被排除在外沒有一起出道（其他成員從頭到尾都堅持說「想要六人一起出道」這樣請求公司）
@@ -76,7 +76,7 @@ SEIKA之前(2014年3月26日前)雖然沒有正式加入樂團，但是在LIVE T
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 <th><p>內容</p></th>
 </tr>
 </thead>
@@ -179,7 +179,7 @@ SRCL-6840（通常盤）</p></td>
 <tr class="even">
 <td><p>12th</p></td>
 <td><p>2008年11月19日</p></td>
-<td><p><a href="../Page/儚くも永久のカナシ.md" title="wikilink">儚くも永久のカナシ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/儚くも永久のカナシ" title="wikilink">儚くも永久のカナシ</a></p></td>
 <td><p>CD+DVD<br />
 12cmCD</p></td>
 <td><p>SRCL-6892～6893（初回生産限定盤）<br />
@@ -386,7 +386,7 @@ SRCL-9906（通常盤）</p></td>
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 <th><p>內容</p></th>
 </tr>
 </thead>
@@ -481,7 +481,7 @@ SRCL-9469（通常盤）</p></td>
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 <th><p>內容</p></th>
 </tr>
 </thead>
@@ -506,7 +506,7 @@ SRCL-7175（通常盤）</p></td>
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -623,7 +623,7 @@ DVD<br />
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -688,7 +688,7 @@ DVD<br />
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -723,19 +723,19 @@ DVD<br />
 
 ### artist book
 
-| \!出版日 | 標題         | [ISBN](../Page/ISBN.md "wikilink") |
-| ----- | ---------- | ---------------------------------- |
-| 1st   | 2007年2月20日 | CLASSWORD                          |
-| 2nd   | 2008年3月10日 | GUN-PROGLUTION                     |
-| 3th   | 2011年9月28日 | COREstory,COREability,COREhistory  |
+| \!出版日 | 標題         | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| ----- | ---------- | ----------------------------------------------------- |
+| 1st   | 2007年2月20日 | CLASSWORD                                             |
+| 2nd   | 2008年3月10日 | GUN-PROGLUTION                                        |
+| 3th   | 2011年9月28日 | COREstory,COREability,COREhistory                     |
 
 ### document book
 
-| \!出版日 | 標題         | [ISBN](../Page/ISBN.md "wikilink")          |
-| ----- | ---------- | ------------------------------------------- |
-| 1st   | 2008年7月15日 | UVERworld PROGLUTION TOUR 2008 THE DOCUMENT |
-| 2nd   | 2009年6月30日 | UVERworld AwakEVE Tour 09 THE DOCUMENT      |
-| 3th   | 2013年3月25日 | UVERworld ARENA TOUR 2012 THE DOCUMENT      |
+| \!出版日 | 標題         | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| ----- | ---------- | ----------------------------------------------------- |
+| 1st   | 2008年7月15日 | UVERworld PROGLUTION TOUR 2008 THE DOCUMENT           |
+| 2nd   | 2009年6月30日 | UVERworld AwakEVE Tour 09 THE DOCUMENT                |
+| 3th   | 2013年3月25日 | UVERworld ARENA TOUR 2012 THE DOCUMENT                |
 
 ## 紀錄片
 
@@ -749,7 +749,7 @@ DVD<br />
 <th><p>!發行日</p></th>
 <th><p>標題</p></th>
 <th><p>規格</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">編號</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -771,10 +771,10 @@ DVD<br />
 
 ### Blu-ray
 
-| \!發行日 | 標題         | 規格                             | [編號](../Page/規格編號.md "wikilink") |
-| ----- | ---------- | ------------------------------ | -------------------------------- |
-| 1st   | 2013年4月17日 | UVERworld DOCUMENTARY THE SONG | Blu-ray Dis                      |
-|       |            |                                |                                  |
+| \!發行日 | 標題         | 規格                             | [編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| ----- | ---------- | ------------------------------ | --------------------------------------------------- |
+| 1st   | 2013年4月17日 | UVERworld DOCUMENTARY THE SONG | Blu-ray Dis                                         |
+|       |            |                                |                                                     |
 
 ## 外部链接
 

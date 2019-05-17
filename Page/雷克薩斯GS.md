@@ -2,10 +2,10 @@
 [Toyota_1UR-FSE_Engine.JPG](https://zh.wikipedia.org/wiki/File:Toyota_1UR-FSE_Engine.JPG "fig:Toyota_1UR-FSE_Engine.JPG")
 [Lexus_GS_300_SportDesign_interior_02.JPG](https://zh.wikipedia.org/wiki/File:Lexus_GS_300_SportDesign_interior_02.JPG "fig:Lexus_GS_300_SportDesign_interior_02.JPG")
 **Lexus
-GS**是[豐田旗下的高級品牌](../Page/豐田汽車.md "wikilink")[凌志一款主打企業主管座車市場的中型豪華房車系列](../Page/凌志.md "wikilink")。從1993年開賣，以填補[IS](../Page/凌志IS.md "wikilink")
+GS**是[豐田旗下的高級品牌](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[凌志一款主打企業主管座車市場的中型豪華房車系列](../Page/凌志.md "wikilink")。從1993年開賣，以填補[IS](../Page/凌志IS.md "wikilink")
 和
-[LS之間的市場](../Page/凌志LS.md "wikilink")，也試圖爭取「轎跑車」市場，目前GS共推出到四代。第一代GS主要從[豐田皇冠改裝而來](../Page/豐田皇冠.md "wikilink")，於1993進攻美國歐洲市場，和部分亞洲的訂購市場.
-第二代出現於1997年，使用專屬設計的底盤和首度外銷的[V8日製引擎](../Page/V8.md "wikilink")。2005年後出現的三代GS可選擇[V6](../Page/V6.md "wikilink")、[V8和](../Page/V8.md "wikilink")[油電混合車三種版本](../Page/油電混合車.md "wikilink")，例如GS
+[LS之間的市場](https://zh.wikipedia.org/wiki/凌志LS "wikilink")，也試圖爭取「轎跑車」市場，目前GS共推出到四代。第一代GS主要從[豐田皇冠改裝而來](https://zh.wikipedia.org/wiki/豐田皇冠 "wikilink")，於1993進攻美國歐洲市場，和部分亞洲的訂購市場.
+第二代出現於1997年，使用專屬設計的底盤和首度外銷的[V8日製引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。2005年後出現的三代GS可選擇[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[V8和](https://zh.wikipedia.org/wiki/V8 "wikilink")[油電混合車三種版本](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")，例如GS
 450h就是專屬設計的油電混合型，居於全世界量產車的領先技術。現今2011第四代GS在外型上首度正式採用新一代的Lexus家族語言－紡錘式水箱護罩
 (Spindle Grille)，混合動力版的450h更將引擎換成豐田油電混合系統使用的Atkinson式循環引擎，燃油效率更勝上一代。目前GS
 300h、GS450h皆像[IS F同時推出F](../Page/凌志IS.md "wikilink") Sport運動化套件，GS
@@ -14,7 +14,7 @@ F亦於2015年首度亮相。
 本系列在日本發售則稱為Toyota Aristo，
 首次上市於1991，直到豐田於2005年將凌志品牌引進日本國內後，才正式停用Aristo的名稱。
 雖然大致零件都一樣但是前兩代GS和Aristo在引擎和傳動套件還是小有差異。
-直到三代Lexus奉行[L-finesse哲學重新設計後GS終於和其他豐田車系不再有相關](../Page/L-finesse.md "wikilink")。
+直到三代Lexus奉行[L-finesse哲學重新設計後GS終於和其他豐田車系不再有相關](https://zh.wikipedia.org/wiki/L-finesse "wikilink")。
 
 ## 外銷量
 
@@ -35,20 +35,21 @@ F亦於2015年首度亮相。
 
   - J.D. Power and Associates 最佳中型豪華房車獎 2002, 2003, 2004, 2005
     四年連任.\[1\]\[2\]
-  - [美國汽車協會AAA](../Page/美國汽車協會.md "wikilink") 第三代GS 300
-    得2005年度最佳車款.\[3\]
+  - [美國汽車協會AAA](https://zh.wikipedia.org/wiki/美國汽車協會 "wikilink") 第三代GS
+    300 得2005年度最佳車款.\[3\]
   - *消費報導* GS 得2005高級房車最佳可靠度第一名.\[4\]
   - GS 450h *Lexus 油電混合* 系統獲頒年度Paul Pietsch Prize 2007先進技術獎, 由技術雜誌*Auto
     Motor Und Sport* 雜誌總編選出.\[5\]
   - Lexus GS 450h 得2007德國世界設計論壇 IF產品設計獎.\[6\]
-  - 德國汽車雜誌*[Auto Bild](../Page/Auto_Bild.md "wikilink")* 選出GS 450h 為
-    "Auto 1" 2007年度最佳車款.\[7\]
+  - 德國汽車雜誌*[Auto
+    Bild](https://zh.wikipedia.org/wiki/Auto_Bild "wikilink")* 選出GS 450h
+    為 "Auto 1" 2007年度最佳車款.\[7\]
   - *聰明消費雜誌* GS 為2003-2004 最佳推薦車.\[8\] 2005年GS獲頒最有價值新車.
   - GS系列獲頒[J.D. Power and
-    Associates](../Page/J.D._Power_and_Associates.md "wikilink")
+    Associates](https://zh.wikipedia.org/wiki/J.D._Power_and_Associates "wikilink")
     2001年最關注車輛.\[9\]
   - 第一代GS獲頒[J.D. Power and
-    Associates](../Page/J.D._Power_and_Associates.md "wikilink")
+    Associates](https://zh.wikipedia.org/wiki/J.D._Power_and_Associates "wikilink")
     1994最佳品質提名.
   - Kelley藍皮書雜誌選出GS為1998, 1999, 2000, 2001四年份最佳價值獎.\[10\]
   - 第二代GS為*Motor Trend*選出1998年度重要車輛.
@@ -98,7 +99,7 @@ DC.jpg|2007年款凌志GS 450h
 
 ## 相關
 
-  - [奔馳W212](../Page/奔馳W212.md "wikilink")
+  - [奔馳W212](https://zh.wikipedia.org/wiki/奔馳W212 "wikilink")
 
 [Category:1993年面世的汽車](https://zh.wikipedia.org/wiki/Category:1993年面世的汽車 "wikilink")
 [Category:凌志車輛](https://zh.wikipedia.org/wiki/Category:凌志車輛 "wikilink")

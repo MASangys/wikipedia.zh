@@ -1,8 +1,9 @@
-**Adobe FreeHand**是一款平面[向量繪圖](../Page/向量繪圖.md "wikilink")（[vector
-graphics](../Page/vector_graphics.md "wikilink")）軟件，同時支援Mac OS及MS
-Windows平台，深受專業排版及設計工作者的喜愛。
+**Adobe
+FreeHand**是一款平面[向量繪圖](https://zh.wikipedia.org/wiki/向量繪圖 "wikilink")（[vector
+graphics](https://zh.wikipedia.org/wiki/vector_graphics "wikilink")）軟件，同時支援Mac
+OS及MS Windows平台，深受專業排版及設計工作者的喜愛。
 
-FreeHand由[Altsys公司開發](../Page/Altsys.md "wikilink")（[Fontographer是它的另一傑作](../Page/Fontographer.md "wikilink")），早期均授權予[Aldus公司以Aldus](../Page/Aldus.md "wikilink")
+FreeHand由[Altsys公司開發](https://zh.wikipedia.org/wiki/Altsys "wikilink")（[Fontographer是它的另一傑作](https://zh.wikipedia.org/wiki/Fontographer "wikilink")），早期均授權予[Aldus公司以Aldus](../Page/Aldus.md "wikilink")
 FreeHand名義發行，與當時的同類軟件[Adobe
 Illustrator競爭劇烈](../Page/Adobe_Illustrator.md "wikilink")。
 
@@ -12,7 +13,7 @@ FreeHand能長久迄立不倒，其中最重要的原因是它除了能繪製向
 Virtuoso軟件），使FreeHand成為印刷出版及網站開發的利器。結合Macromedia的產品，包括Flash，Dreamweaver及Fireworks等，更如魚得水。
 
 Macromedia被Adobe收購後，所發行的Macromedia Studio
-8，將FreeHand排除在外，在2007年5月15日，Adobe終於決定把這個[Illustrator的對手從舞台上消失](../Page/Illustrator.md "wikilink")。
+8，將FreeHand排除在外，在2007年5月15日，Adobe終於決定把這個[Illustrator的對手從舞台上消失](https://zh.wikipedia.org/wiki/Illustrator "wikilink")。
 
 ## 參見
 

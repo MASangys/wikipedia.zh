@@ -2,79 +2,117 @@
 [The_Great._Courses_Plus_-_App_Screen_Shot.jpg](https://zh.wikipedia.org/wiki/File:The_Great._Courses_Plus_-_App_Screen_Shot.jpg "fig:The_Great._Courses_Plus_-_App_Screen_Shot.jpg")
 
 **The Teaching Company**
-是一家製造全美國頂級教授演講錄音及錄影的公司。這些教授在華盛頓特區外的一家特別的工作室錄製這些課程，然後課程被轉製成[磁帶](../Page/磁帶.md "wikilink")、[CD](../Page/CD.md "wikilink")、[DVD](../Page/DVD.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP3等格式出售](../Page/MP3.md "wikilink")。
+是一家製造全美國頂級教授演講錄音及錄影的公司。這些教授在華盛頓特區外的一家特別的工作室錄製這些課程，然後課程被轉製成[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")、[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP3等格式出售](../Page/MP3.md "wikilink")。
 
 The Teaching Company公司由[Thomas M.
-Rollins先生創建於](../Page/Thomas_M._Rollins.md "wikilink")1990年，[Thomas
+Rollins先生創建於](https://zh.wikipedia.org/wiki/Thomas_M._Rollins "wikilink")1990年，[Thomas
 M.
-Rollins先生是美國前參議院委員會勞工及人力資源首席顧問](../Page/Thomas_M._Rollins.md "wikilink")，畢業于[哈佛大學法學院](../Page/哈佛大學法學院.md "wikilink")。他在學習過程中注意到，使用录像带學習很有效率。於是他開始嘗試發起一個政府項目，為公眾製作磁帶，但是由於法律的限制而無法實踐。當他離任時，他抱著這個想法而開始搜尋頂級教授來製作課程，並且銷售給公眾。
+Rollins先生是美國前參議院委員會勞工及人力資源首席顧問](https://zh.wikipedia.org/wiki/Thomas_M._Rollins "wikilink")，畢業于[哈佛大學法學院](https://zh.wikipedia.org/wiki/哈佛大學法學院 "wikilink")。他在學習過程中注意到，使用录像带學習很有效率。於是他開始嘗試發起一個政府項目，為公眾製作磁帶，但是由於法律的限制而無法實踐。當他離任時，他抱著這個想法而開始搜尋頂級教授來製作課程，並且銷售給公眾。
 
-截至2007年，這家公司共提供了超過260門課程，內容總時長達3000小時，跨越9門不同學科，分別是：[商業學和](../Page/商業學.md "wikilink")[經濟學](../Page/經濟學.md "wikilink")、[藝術和](../Page/藝術.md "wikilink")[音樂](../Page/音樂.md "wikilink")、[古代史和](../Page/古代史.md "wikilink")[中世紀史](../Page/中世紀史.md "wikilink")、[近代史](../Page/近代史.md "wikilink")、[文學和](../Page/文學.md "wikilink")[英語](../Page/英語.md "wikilink")、[哲學和](../Page/哲學.md "wikilink")[思想史](../Page/思想史.md "wikilink")、[宗教](../Page/宗教.md "wikilink")、[科學和](../Page/科學.md "wikilink")[數學以及](../Page/數學.md "wikilink")[社會科學](../Page/社會科學.md "wikilink")。
+截至2007年，這家公司共提供了超過260門課程，內容總時長達3000小時，跨越9門不同學科，分別是：[商業學和](https://zh.wikipedia.org/wiki/商業學 "wikilink")[經濟學](https://zh.wikipedia.org/wiki/經濟學 "wikilink")、[藝術和](https://zh.wikipedia.org/wiki/藝術 "wikilink")[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[古代史和](../Page/古代史.md "wikilink")[中世紀史](https://zh.wikipedia.org/wiki/中世紀史 "wikilink")、[近代史](../Page/近代史.md "wikilink")、[文學和](../Page/文學.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[哲學和](https://zh.wikipedia.org/wiki/哲學 "wikilink")[思想史](https://zh.wikipedia.org/wiki/思想史 "wikilink")、[宗教](../Page/宗教.md "wikilink")、[科學和](https://zh.wikipedia.org/wiki/科學 "wikilink")[數學以及](https://zh.wikipedia.org/wiki/數學 "wikilink")[社會科學](https://zh.wikipedia.org/wiki/社會科學 "wikilink")。
 
 課程的目標是提供成人教育和終身教育，大學本科非專業的典型知識的教育；不僅如此，他還有一系列為高中生提供的課程。每一門課程都包括一些印有大綱、推薦書目、教授簡介以及思考問題的補充小冊子。此外，課程還提供全文的文本。
 
-課程有多種不同的載體。起初，僅有磁帶或是[VHS錄像帶](../Page/VHS.md "wikilink")。後來，逐漸出現了[CD及](../Page/CD.md "wikilink")[DVD版本](../Page/DVD.md "wikilink")，而現在也能下載到[MP3版本](../Page/MP3.md "wikilink")。
+課程有多種不同的載體。起初，僅有磁帶或是[VHS錄像帶](../Page/VHS.md "wikilink")。後來，逐漸出現了[CD及](../Page/CD.md "wikilink")[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")，而現在也能下載到[MP3版本](../Page/MP3.md "wikilink")。
 
 2006年10月2日，這家公司被一家私募股權投資公司[Brentwood
-Associates收購](../Page/Brentwood_Associates.md "wikilink")。
+Associates收購](https://zh.wikipedia.org/wiki/Brentwood_Associates "wikilink")。
 
 ## 部分授課教授
 
-  - [Arthur T. Benjamin](../Page/Arthur_T._Benjamin.md "wikilink")
-  - [Bob Brier](../Page/Bob_Brier.md "wikilink")
-  - [Sean M. Carroll](../Page/Sean_M._Carroll.md "wikilink")
-  - [Philip Daileader](../Page/Philip_Daileader.md "wikilink")
-  - [Dennis Dalton](../Page/Dennis_Dalton.md "wikilink")
-  - [Malcolm David Eckel](../Page/Malcolm_David_Eckel.md "wikilink")
-  - [Bart D. Ehrman](../Page/Bart_D._Ehrman.md "wikilink")
-  - [John Esposito](../Page/John_Esposito.md "wikilink")
-  - [Brian M. Fagan](../Page/Brian_M._Fagan.md "wikilink")
-  - [J. Rufus Fears](../Page/J._Rufus_Fears.md "wikilink")
-  - [Alexei Filippenko](../Page/Alexei_Filippenko.md "wikilink")
-  - [Sylvester James Gates](../Page/Sylvester_James_Gates.md "wikilink")
-  - [Steven L. Goldman](../Page/Steven_L._Goldman.md "wikilink")
-  - [Anthony A. Goodman](../Page/Anthony_A._Goodman.md "wikilink")
-  - [Robert Greenberg](../Page/Robert_Greenberg.md "wikilink")
-  - [Allen C. Guelzo](../Page/Allen_C._Guelzo.md "wikilink")
+  - [Arthur T.
+    Benjamin](https://zh.wikipedia.org/wiki/Arthur_T._Benjamin "wikilink")
+  - [Bob Brier](https://zh.wikipedia.org/wiki/Bob_Brier "wikilink")
+  - [Sean M.
+    Carroll](https://zh.wikipedia.org/wiki/Sean_M._Carroll "wikilink")
+  - [Philip
+    Daileader](https://zh.wikipedia.org/wiki/Philip_Daileader "wikilink")
+  - [Dennis
+    Dalton](https://zh.wikipedia.org/wiki/Dennis_Dalton "wikilink")
+  - [Malcolm David
+    Eckel](https://zh.wikipedia.org/wiki/Malcolm_David_Eckel "wikilink")
+  - [Bart D.
+    Ehrman](https://zh.wikipedia.org/wiki/Bart_D._Ehrman "wikilink")
+  - [John
+    Esposito](https://zh.wikipedia.org/wiki/John_Esposito "wikilink")
+  - [Brian M.
+    Fagan](https://zh.wikipedia.org/wiki/Brian_M._Fagan "wikilink")
+  - [J. Rufus
+    Fears](https://zh.wikipedia.org/wiki/J._Rufus_Fears "wikilink")
+  - [Alexei
+    Filippenko](https://zh.wikipedia.org/wiki/Alexei_Filippenko "wikilink")
+  - [Sylvester James
+    Gates](https://zh.wikipedia.org/wiki/Sylvester_James_Gates "wikilink")
+  - [Steven L.
+    Goldman](https://zh.wikipedia.org/wiki/Steven_L._Goldman "wikilink")
+  - [Anthony A.
+    Goodman](https://zh.wikipedia.org/wiki/Anthony_A._Goodman "wikilink")
+  - [Robert
+    Greenberg](https://zh.wikipedia.org/wiki/Robert_Greenberg "wikilink")
+  - [Allen C.
+    Guelzo](https://zh.wikipedia.org/wiki/Allen_C._Guelzo "wikilink")
 
 <!-- end list -->
 
   - [James Hall
-    (philosopher)](../Page/James_Hall_\(philosopher\).md "wikilink")
-  - [Ken Hammond](../Page/Ken_Hammond.md "wikilink")
-  - [Kenneth W. Harl](../Page/Kenneth_W._Harl.md "wikilink")
-  - [Peter H. Irons](../Page/Peter_H._Irons.md "wikilink")
-  - [Luke Timothy Johnson](../Page/Luke_Timothy_Johnson.md "wikilink")
-  - [Douglas Kellner](../Page/Douglas_Kellner.md "wikilink")
-  - [Alan Charles Kors](../Page/Alan_Charles_Kors.md "wikilink")
-  - [Edward Larson](../Page/Edward_Larson.md "wikilink")
-  - [Amy-Jill Levine](../Page/Amy-Jill_Levine.md "wikilink")
-  - [Allan Lichtman](../Page/Allan_Lichtman.md "wikilink")
-  - [John McWhorter](../Page/John_McWhorter.md "wikilink")
-  - [Sherwin B. Nuland](../Page/Sherwin_B._Nuland.md "wikilink")
-  - [Joseph Nye](../Page/Joseph_Nye.md "wikilink")
-  - [Robert A. Oden](../Page/Robert_A._Oden.md "wikilink")
-  - [Daniel N. Robinson](../Page/Daniel_N._Robinson.md "wikilink")
-  - [Rick Roderick](../Page/Rick_Roderick.md "wikilink")
+    (philosopher)](https://zh.wikipedia.org/wiki/James_Hall_\(philosopher\) "wikilink")
+  - [Ken Hammond](https://zh.wikipedia.org/wiki/Ken_Hammond "wikilink")
+  - [Kenneth W.
+    Harl](https://zh.wikipedia.org/wiki/Kenneth_W._Harl "wikilink")
+  - [Peter H.
+    Irons](https://zh.wikipedia.org/wiki/Peter_H._Irons "wikilink")
+  - [Luke Timothy
+    Johnson](https://zh.wikipedia.org/wiki/Luke_Timothy_Johnson "wikilink")
+  - [Douglas
+    Kellner](https://zh.wikipedia.org/wiki/Douglas_Kellner "wikilink")
+  - [Alan Charles
+    Kors](https://zh.wikipedia.org/wiki/Alan_Charles_Kors "wikilink")
+  - [Edward
+    Larson](https://zh.wikipedia.org/wiki/Edward_Larson "wikilink")
+  - [Amy-Jill
+    Levine](https://zh.wikipedia.org/wiki/Amy-Jill_Levine "wikilink")
+  - [Allan
+    Lichtman](https://zh.wikipedia.org/wiki/Allan_Lichtman "wikilink")
+  - [John
+    McWhorter](https://zh.wikipedia.org/wiki/John_McWhorter "wikilink")
+  - [Sherwin B.
+    Nuland](https://zh.wikipedia.org/wiki/Sherwin_B._Nuland "wikilink")
+  - [Joseph Nye](https://zh.wikipedia.org/wiki/Joseph_Nye "wikilink")
+  - [Robert A.
+    Oden](https://zh.wikipedia.org/wiki/Robert_A._Oden "wikilink")
+  - [Daniel N.
+    Robinson](https://zh.wikipedia.org/wiki/Daniel_N._Robinson "wikilink")
+  - [Rick
+    Roderick](https://zh.wikipedia.org/wiki/Rick_Roderick "wikilink")
 
 <!-- end list -->
 
-  - [Robert Sapolsky](../Page/Robert_Sapolsky.md "wikilink")
-  - [John Searle](../Page/John_Searle.md "wikilink")
-  - [Jeremy Shearmur](../Page/Jeremy_Shearmur.md "wikilink")
-  - [Seth Shostak](../Page/Seth_Shostak.md "wikilink")
-  - [Robert C. Solomon](../Page/Robert_C._Solomon.md "wikilink")
-  - [Michael Starbird](../Page/Michael_Starbird.md "wikilink")
-  - [Edward B. Burger](../Page/Edward_B._Burger.md "wikilink")
-  - [Jonathan Steinberg](../Page/Jonathan_Steinberg.md "wikilink")
-  - [Steven Strogatz](../Page/Steven_Strogatz.md "wikilink")
+  - [Robert
+    Sapolsky](https://zh.wikipedia.org/wiki/Robert_Sapolsky "wikilink")
+  - [John Searle](https://zh.wikipedia.org/wiki/John_Searle "wikilink")
+  - [Jeremy
+    Shearmur](https://zh.wikipedia.org/wiki/Jeremy_Shearmur "wikilink")
+  - [Seth
+    Shostak](https://zh.wikipedia.org/wiki/Seth_Shostak "wikilink")
+  - [Robert C.
+    Solomon](https://zh.wikipedia.org/wiki/Robert_C._Solomon "wikilink")
+  - [Michael
+    Starbird](https://zh.wikipedia.org/wiki/Michael_Starbird "wikilink")
+  - [Edward B.
+    Burger](https://zh.wikipedia.org/wiki/Edward_B._Burger "wikilink")
+  - [Jonathan
+    Steinberg](https://zh.wikipedia.org/wiki/Jonathan_Steinberg "wikilink")
+  - [Steven
+    Strogatz](https://zh.wikipedia.org/wiki/Steven_Strogatz "wikilink")
   - [Timothy Taylor
-    (economist)](../Page/Timothy_Taylor_\(economist\).md "wikilink")
+    (economist)](https://zh.wikipedia.org/wiki/Timothy_Taylor_\(economist\) "wikilink")
   - [奈爾·德葛拉司·泰森](../Page/奈爾·德葛拉司·泰森.md "wikilink")
-  - [Arnold Weinstein](../Page/Arnold_Weinstein.md "wikilink")
+  - [Arnold
+    Weinstein](https://zh.wikipedia.org/wiki/Arnold_Weinstein "wikilink")
   - [Richard Wolfson
-    (physicist)](../Page/Richard_Wolfson_\(physicist\).md "wikilink")
-  - [Elizabeth Vandiver](../Page/Elizabeth_Vandiver.md "wikilink")
+    (physicist)](https://zh.wikipedia.org/wiki/Richard_Wolfson_\(physicist\) "wikilink")
+  - [Elizabeth
+    Vandiver](https://zh.wikipedia.org/wiki/Elizabeth_Vandiver "wikilink")
 
 ## 參考資料
 

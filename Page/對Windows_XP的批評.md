@@ -5,13 +5,13 @@ XP的严重依赖。
 ## 安全問題
 
 Windows
-XP被批評其易受[惡意軟件](../Page/惡意軟件.md "wikilink")、[電腦病毒](../Page/電腦病毒.md "wikilink")、[特洛伊木馬及](../Page/特洛伊木馬_\(電腦\).md "wikilink")[蠕蟲的感染](../Page/電腦蠕蟲.md "wikilink")。虽然Windows
+XP被批評其易受[惡意軟件](https://zh.wikipedia.org/wiki/惡意軟件 "wikilink")、[電腦病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[特洛伊木馬及](https://zh.wikipedia.org/wiki/特洛伊木馬_\(電腦\) "wikilink")[蠕蟲的感染](../Page/電腦蠕蟲.md "wikilink")。虽然Windows
 XP是第一个使不同用户拥有不同限制的系统权限的Windows系统\[1\]
 ，但用户在默认情况下会使用不受限制的管理员账户，这样一旦账户遭到入侵，那么病毒就可以在系统里畅通无阻。
 
 Windows
 XP在市場上的佔有率很大，已成為病毒創作者眼中誘人的目標之一。安全漏洞在它們被利用前通常是難以發現的，這樣令先發制人的行動變得十分困難。微软表示，系统补丁的发布常常是黑客对那些相应漏洞进行传播利用的来源。黑客通过查明补丁所修复的功能，从而利用存在的漏洞，
-然后对未安装补丁的系统发起攻击。微軟推薦所有系統開啟自動更新以防止系統被通过未修補的隱錯（[BUG](../Page/BUG.md "wikilink")）攻擊，但是一些企業的IT部門需要在更新全面部署到系統前先進行測試，以預測自訂軟件及基礎架構的相容性問題。這種部署的週轉時間會令系統處於不安全狀態的時間延長。
+然后对未安装补丁的系统发起攻击。微軟推薦所有系統開啟自動更新以防止系統被通过未修補的隱錯（[BUG](https://zh.wikipedia.org/wiki/BUG "wikilink")）攻擊，但是一些企業的IT部門需要在更新全面部署到系統前先進行測試，以預測自訂軟件及基礎架構的相容性問題。這種部署的週轉時間會令系統處於不安全狀態的時間延長。
 
 在2001年發佈的XP內置[Internet Explorer
 6](../Page/Internet_Explorer_6.md "wikilink")，這個瀏覽器在現在已經不安全且過時。自2010年2月起，微軟鼓勵所有使用者升級到[Internet
@@ -46,11 +46,10 @@ XP都未更正这一翻译错误。
 ## 向前相容性
 
 一些从Windows 9x转移到XP的用户不喜欢Windows XP缺少原生DOS支持。虽然XP能够通过一个DOS虚拟机和
-[COMMAND.COM](../Page/COMMAND.COM.md "wikilink") 运行一些 DOS
-程序，但它仍然不能运行许多较老的 DOS 程序。这主要是因为 XP 是基于 NT
-内核的，而不是用 DOS
-作为基础。一些不能原生运行在XP的DOS程序（主要是需要直接读取硬件的）可以运行在[DOSBox类的DOS](../Page/DOSBox.md "wikilink")[模拟器或](../Page/模拟器.md "wikilink")[VMware](../Page/VMware.md "wikilink")、[Virtual
-PC类的](../Page/Virtual_PC.md "wikilink")[虚拟机中](../Page/虚拟机.md "wikilink")。这也适用于程序去直接读取模拟出来的硬件对象。
+[COMMAND.COM](https://zh.wikipedia.org/wiki/COMMAND.COM "wikilink") 运行一些
+DOS 程序，但它仍然不能运行许多较老的 DOS 程序。这主要是因为 XP 是基于 NT 内核的，而不是用 DOS
+作为基础。一些不能原生运行在XP的DOS程序（主要是需要直接读取硬件的）可以运行在[DOSBox类的DOS](../Page/DOSBox.md "wikilink")[模拟器或](https://zh.wikipedia.org/wiki/模拟器 "wikilink")[VMware](../Page/VMware.md "wikilink")、[Virtual
+PC类的](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink")[虚拟机中](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。这也适用于程序去直接读取模拟出来的硬件对象。
 
 ## 產品啟用及驗證
 
@@ -66,7 +65,7 @@ XP引進產品啟用。產品啟用需要電腦或使用者在一定時間內透
 ### 產品金鑰測試
 
 除了產品啟用外，Windows
-XP服務包會拒絕安裝在帶有已知被廣泛使用作未經授權安裝的[產品金鑰的Windows](../Page/產品金鑰.md "wikilink")
+XP服務包會拒絕安裝在帶有已知被廣泛使用作未經授權安裝的[產品金鑰的Windows](https://zh.wikipedia.org/wiki/產品金鑰 "wikilink")
 XP系統。\[2\]\[3\]这些产品密钥有的只能用于一份系统（来自零售渠道和系统组装商），有的只能用于一家OEM厂商（用于BIOS绑定版系统），有的只能用于一家公司（用于批量授权版系统），且直接包含在产品中。但是有許多批量授權的產品金鑰（如上面所提到可以避免產品啟用）被放上互聯網，並被用作大量未經授權的安裝。服務包中有一張清單包含了這些金鑰，並且不會為使用這些金鑰的Windows
 XP進行更新。
 
@@ -94,16 +93,16 @@ Explorer 7、Windows Media Player 11、Windows Defender及Microsoft Office
 7的安裝中移除了WGA驗證，這項改變的目的是為了使IE7提供給所有Windows用戶。\[5\]\[6\]
 
 如果产品密钥被认定为盗版，系统将每隔一段时间提示用户从微软购买正版授权。\[7\] 另外，用户只能从[Microsoft
-Update获得高危安全更新](../Page/Microsoft_Update.md "wikilink")，增强功能的新版本软件和其他微软产品同样不能被下载和安装。在2008年8月26日，微軟發佈了一個新的WGA驗證程式。如果電腦不能通過其驗證，桌面背景將會顯示為全黑色。使用者可以變更桌面背景，但是背景會在一小時後重設為黑色。\[8\]
+Update获得高危安全更新](https://zh.wikipedia.org/wiki/Microsoft_Update "wikilink")，增强功能的新版本软件和其他微软产品同样不能被下载和安装。在2008年8月26日，微軟發佈了一個新的WGA驗證程式。如果電腦不能通過其驗證，桌面背景將會顯示為全黑色。使用者可以變更桌面背景，但是背景會在一小時後重設為黑色。\[8\]
 
-WGA有幾個普遍的批評。WGA被列為一個「重要安全性更新」，在預設情況下，使用者無需干涉，自動更新會自動下載它。這種行為就像在后台連線通訊的[間諜軟件](../Page/間諜軟件.md "wikilink")，每當電腦連接互聯網，就會在使用者不知情的情形之下祕密連接微軟。一旦安裝，WGA並不會知會使用者它會做甚麼（於2006年的一次更新中改正了）。\[9\]在beta測試期間，WGA也沒有提供一個恰當的-{zh-hant:解除安裝;zh-hans:卸载;}-方法（提供了一個手動移除方法給使用者，但在最終無效）。WGA也對硬件的改變很敏感，使部份開發者手中的系統需要反複重新啟用。如果使用者沒有互聯網或電話連接，將會難以在正常情況下啟用。
+WGA有幾個普遍的批評。WGA被列為一個「重要安全性更新」，在預設情況下，使用者無需干涉，自動更新會自動下載它。這種行為就像在后台連線通訊的[間諜軟件](https://zh.wikipedia.org/wiki/間諜軟件 "wikilink")，每當電腦連接互聯網，就會在使用者不知情的情形之下祕密連接微軟。一旦安裝，WGA並不會知會使用者它會做甚麼（於2006年的一次更新中改正了）。\[9\]在beta測試期間，WGA也沒有提供一個恰當的-{zh-hant:解除安裝;zh-hans:卸载;}-方法（提供了一個手動移除方法給使用者，但在最終無效）。WGA也對硬件的改變很敏感，使部份開發者手中的系統需要反複重新啟用。如果使用者沒有互聯網或電話連接，將會難以在正常情況下啟用。
 
-嚴格來說，即使該通知是強制性下載或安裝，使用者也能夠改變他們的自動更新設定以容許他們選擇哪些更新需要下載或安裝。如果該更新已經下載，使用者也可以選擇不接受該通知附加的[終端使用者許可協定](../Page/終端使用者許可協定.md "wikilink")（EULA）規定。在兩種情況下，使用者也能夠要求該更新不再出現，把該更新隱藏並不會影響到安裝新的安全性更新。但是，這個設定只對現行版本的通知作出影響，故此有新版本時，它會再次出現。在2006年后，微软牵涉到一桩在加州的[集体诉讼](../Page/集体诉讼.md "wikilink")，被指控其WGA程序违反了间谍软件法。\[10\]
+嚴格來說，即使該通知是強制性下載或安裝，使用者也能夠改變他們的自動更新設定以容許他們選擇哪些更新需要下載或安裝。如果該更新已經下載，使用者也可以選擇不接受該通知附加的[終端使用者許可協定](https://zh.wikipedia.org/wiki/終端使用者許可協定 "wikilink")（EULA）規定。在兩種情況下，使用者也能夠要求該更新不再出現，把該更新隱藏並不會影響到安裝新的安全性更新。但是，這個設定只對現行版本的通知作出影響，故此有新版本時，它會再次出現。在2006年后，微软牵涉到一桩在加州的[集体诉讼](https://zh.wikipedia.org/wiki/集体诉讼 "wikilink")，被指控其WGA程序违反了间谍软件法。\[10\]
 
 ### 保護制度破解
 
 「序號產生器」（Key
-generator）程式，一般稱為「[註冊機](../Page/註冊機.md "wikilink")」（keygens），能夠隨機產生Windows
+generator）程式，一般稱為「[註冊機](https://zh.wikipedia.org/wiki/註冊機 "wikilink")」（keygens），能夠隨機產生Windows
 XP 產品金鑰並且不經由連絡微軟便能啟用產品。這未必一定允許使用者獲得更新，雖然微軟允許重要的安全性更新能夠經由其下載網址或[Windows
 Update來下載及應用](../Page/Windows_Update.md "wikilink")，即使一些翻版或並非真品的Windows。\[11\]另外，一系列的破解及WGA的破解產生，使用戶能夠在一台运行非真品的Windows被檢查為正版的Windows系統，並允許盜用微軟的更新及增強。
 
@@ -116,8 +115,9 @@ XP的使用量。
 
 ## 參看
 
-  - [對微軟的批評](../Page/對微軟的批評.md "wikilink")
-  - [對Internet Explorer的批評](../Page/對Internet_Explorer的批評.md "wikilink")
+  - [對微軟的批評](https://zh.wikipedia.org/wiki/對微軟的批評 "wikilink")
+  - [對Internet
+    Explorer的批評](https://zh.wikipedia.org/wiki/對Internet_Explorer的批評 "wikilink")
   - [對Windows Vista的批評](../Page/對Windows_Vista的批評.md "wikilink")
 
 ## 參考資料

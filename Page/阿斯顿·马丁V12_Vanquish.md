@@ -1,6 +1,6 @@
 **阿斯顿·马丁V12 Vanquish**（Aston Martin V12
-Vanquish）是伊恩・卡勒姆所設計的當家豪華旗艦GT高性能[跑車](../Page/跑車.md "wikilink")，2001年發售，2007年停產。停產後由[阿斯顿·马丁DBS
-V12暫時取代它的地位](../Page/阿斯顿·马丁DBS_V12.md "wikilink")，正式的版本將在2010年登場。
+Vanquish）是伊恩・卡勒姆所設計的當家豪華旗艦GT高性能[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")，2001年發售，2007年停產。停產後由[阿斯顿·马丁DBS
+V12暫時取代它的地位](https://zh.wikipedia.org/wiki/阿斯顿·马丁DBS_V12 "wikilink")，正式的版本將在2010年登場。
 
 2012年再度登場,取代Aston Martin DBS旗艦車.並且用上新一代V12引擎,代號AM11.馬力有565匹
 

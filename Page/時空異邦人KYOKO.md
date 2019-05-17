@@ -1,4 +1,4 @@
-《**時空異邦人KYOKO**》是由**[種村有菜](../Page/種村有菜.md "wikilink")**在[集英社](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載，[少女](../Page/少女漫畫.md "wikilink")、[奇幻漫畫作品](../Page/奇幻漫畫.md "wikilink")。
+《**時空異邦人KYOKO**》是由**[種村有菜](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")**在[集英社](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載，[少女](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")、[奇幻漫畫作品](../Page/奇幻漫畫.md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 ### 異邦人
 
   -
-    6月10日生，[A型](../Page/ABO血型系統.md "wikilink")，**地球國**的公主，憂的義雙胞胎姐姐，其實不是真正的王族，不是人類。身為異邦人的領導者，喜歡逆瀧，個性開朗，時常裝可愛，也是位體貼的好公主。
+    6月10日生，[A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")，**地球國**的公主，憂的義雙胞胎姐姐，其實不是真正的王族，不是人類。身為異邦人的領導者，喜歡逆瀧，個性開朗，時常裝可愛，也是位體貼的好公主。
   -
     7月21日生，A型，龍族的皇子，響古的保鑣，冰月的弟弟，做事負責，愛碎碎唸，有點遲鈍又少根經。喜歡響古。擁有變成一條迷你龍的能力。
   -
@@ -21,7 +21,7 @@
   -
     4月17日生，O型，蛇族的首領，曉良的弟弟，喜歡水乃，心直口快的搞笑男。
   -
-    2月1日生，B型，銀牙的妹妹，魚族的首領，是個戀兄情結的[人魚](../Page/人魚.md "wikilink")，是作者[種村有菜最喜歡的角色](../Page/種村有菜.md "wikilink")。
+    2月1日生，B型，銀牙的妹妹，魚族的首領，是個戀兄情結的[人魚](../Page/人魚.md "wikilink")，是作者[種村有菜最喜歡的角色](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")。
   -
     樹族的首領，溫柔個性好，怕死。
   -

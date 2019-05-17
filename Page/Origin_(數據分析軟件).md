@@ -1,16 +1,16 @@
-**Origin**是由[OriginLab公司开发的一个科学绘图](../Page/OriginLab.md "wikilink")、数据分析软件，支持在Microsoft
-Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的[曲线拟合是采用基于](../Page/曲线拟合.md "wikilink")[Levernberg-Marquardt算法](../Page/Levernberg-Marquardt算法.md "wikilink")（LMA）的非线性[最小二乘法拟合](../Page/最小二乘法.md "wikilink")。Origin强大的数据导入功能，支持多种格式的数据，包括[ASCII](../Page/ASCII.md "wikilink")、[Excel](../Page/Excel.md "wikilink")、NI
+**Origin**是由[OriginLab公司开发的一个科学绘图](https://zh.wikipedia.org/wiki/OriginLab "wikilink")、数据分析软件，支持在Microsoft
+Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的[曲线拟合是采用基于](https://zh.wikipedia.org/wiki/曲线拟合 "wikilink")[Levernberg-Marquardt算法](https://zh.wikipedia.org/wiki/Levernberg-Marquardt算法 "wikilink")（LMA）的非线性[最小二乘法拟合](../Page/最小二乘法.md "wikilink")。Origin强大的数据导入功能，支持多种格式的数据，包括[ASCII](../Page/ASCII.md "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、NI
 TDM、DIADem、[NetCDF](../Page/NetCDF.md "wikilink")、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
 
 ## 界面
 
 [Cshome_price_sparklines.jpg](https://zh.wikipedia.org/wiki/File:Cshome_price_sparklines.jpg "fig:Cshome_price_sparklines.jpg")的大致形状，而不需要画图后再进行观察。\]\]
 
-Origin是一个具有[电子数据表前端的](../Page/电子试算表.md "wikilink")[图形化用户界面软件](../Page/图形用户界面.md "wikilink")。与常用的电子制表软件不同，如[Excel](../Page/Excel.md "wikilink")。Origin的工作表是以列为对象的，每一列具有相应的属性，例如名称，数量单位，以及其他用户自定义标识。Origin以列计算式取代数据单元计算式进行计算。Origin可使用自身的[脚本语言](../Page/脚本语言.md "wikilink")（[LabTalk](http://wiki.originlab.com/~originla/wiki/index.php?title=Category:LabTalk)）去控制软件，该语言可使用Origin
+Origin是一个具有[电子数据表前端的](https://zh.wikipedia.org/wiki/电子试算表 "wikilink")[图形化用户界面软件](../Page/图形用户界面.md "wikilink")。与常用的电子制表软件不同，如[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")。Origin的工作表是以列为对象的，每一列具有相应的属性，例如名称，数量单位，以及其他用户自定义标识。Origin以列计算式取代数据单元计算式进行计算。Origin可使用自身的[脚本语言](../Page/脚本语言.md "wikilink")（[LabTalk](http://wiki.originlab.com/~originla/wiki/index.php?title=Category:LabTalk)）去控制软件，该语言可使用Origin
 C进行扩展。Origin
-C是内置的基于[C](../Page/C语言.md "wikilink")/[C++的编译语言](../Page/C++.md "wikilink")。
+C是内置的基于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++的编译语言](../Page/C++.md "wikilink")。
 
-值得注意的是，Origin可以作为一个[COM服务器](../Page/COM.md "wikilink")，通过[VB.NET](../Page/Visual_Basic_.NET.md "wikilink"),
+值得注意的是，Origin可以作为一个[COM服务器](https://zh.wikipedia.org/wiki/COM "wikilink")，通过[VB.NET](../Page/Visual_Basic_.NET.md "wikilink"),
 [C\#](../Page/C♯.md "wikilink"),
 [LabVIEW等程序进行调用](../Page/LabVIEW.md "wikilink")。
 
@@ -55,7 +55,7 @@ Origin最初是一个专门为微型热量计设计的软件工具，是由Micro
 
 ## 其他相關軟體
 
-由於Origin的功能較為尋常，專案檔（.pro）是封閉格式，並且只支援Windows這個作業系統，是其較大的缺點。因此網路上也有不少免費及開源或自由軟體實作出類似功能的軟體。其中以[LabPlot](../Page/LabPlot.md "wikilink")[1](http://labplot.sourceforge.net/)（基於KDE函式庫）以及[QtiPlot](../Page/QtiPlot.md "wikilink")[2](https://web.archive.org/web/20100619210744/http://soft.proindependent.com/qtiplot.html)（基於QT開發的）為最知名的同類軟體，因此在實驗室數據分析方面的工作，這兩套軟體是不錯的替代選擇。
+由於Origin的功能較為尋常，專案檔（.pro）是封閉格式，並且只支援Windows這個作業系統，是其較大的缺點。因此網路上也有不少免費及開源或自由軟體實作出類似功能的軟體。其中以[LabPlot](https://zh.wikipedia.org/wiki/LabPlot "wikilink")[1](http://labplot.sourceforge.net/)（基於KDE函式庫）以及[QtiPlot](../Page/QtiPlot.md "wikilink")[2](https://web.archive.org/web/20100619210744/http://soft.proindependent.com/qtiplot.html)（基於QT開發的）為最知名的同類軟體，因此在實驗室數據分析方面的工作，這兩套軟體是不錯的替代選擇。
 
 ## 参考文献
 

@@ -1,10 +1,10 @@
-《**MM一族**》（），是[松野秋鳴的](../Page/松野秋鳴.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，插畫家是[QP:flapper](../Page/QP:flapper.md "wikilink")（），由[MF文庫J出版](../Page/MF文庫J.md "wikilink")，並改編成同名電視動畫。
+《**MM一族**》（），是[松野秋鳴的](https://zh.wikipedia.org/wiki/松野秋鳴 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，插畫家是[QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")（），由[MF文庫J出版](../Page/MF文庫J.md "wikilink")，並改編成同名電視動畫。
 
 2011年4月26日，Media Factory公告作者松野秋鳴於4月18日突然逝世，死因未說明，是否找其他人代筆仍不明\[1\]。
 
 ## 故事簡介
 
-砂戶太郎是被女性虐待就會覺得很爽的[被虐狂](../Page/施虐與受虐.md "wikilink")。認為在這樣下去一輩子就別想談戀愛的太郎，決定向專門實現學生願望的第二義工社求助。第二義工社的體質改善作戰能夠拯救太郎嗎？
+砂戶太郎是被女性虐待就會覺得很爽的[被虐狂](https://zh.wikipedia.org/wiki/施虐與受虐 "wikilink")。認為在這樣下去一輩子就別想談戀愛的太郎，決定向專門實現學生願望的第二義工社求助。第二義工社的體質改善作戰能夠拯救太郎嗎？
 
 ## 登場人物
 
@@ -13,7 +13,7 @@
 
   -
     本作主角。一年級生。只要被親戚以外的女性虐待、毆打就會覺得很爽，特別是美少女這類的還會感到幸福，是典型的被虐體質。一旦內心的滑鼠箭頭點選了「超M開關」就會忍不住的想要享受被虐的快感，就算知道自己的特殊體質是個非常糟糕的人還是會非常的興奮且無法控制。初中的時候M體質的事情被人發現，辰吉是唯一一個平靜的接納他的人，心想有一天如果辰吉出了什麼事情就輪到自己來接納他了。非常注重身旁的人，經常有替重要的人或朋友兩肋插刀的熱血舉動。
-    最初為了向單戀對象『志穗璃公主』告白，決定要改變自己的[被虐狂體質](../Page/施虐與受虐.md "wikilink")（小說內稱之為「超M體質」），因而來到第二義工社，也因為這個因緣知道了辰吉異服癖的秘密同時初戀也告吹了。被美緒帶入第二義工社成為社員，目的是為了治療超M體質，然而他每天被美緒辱罵、毆打的生活開始了，距離被虐體質的改善尚未出現一絲曙光，路途坎坷。
+    最初為了向單戀對象『志穗璃公主』告白，決定要改變自己的[被虐狂體質](https://zh.wikipedia.org/wiki/施虐與受虐 "wikilink")（小說內稱之為「超M體質」），因而來到第二義工社，也因為這個因緣知道了辰吉異服癖的秘密同時初戀也告吹了。被美緒帶入第二義工社成為社員，目的是為了治療超M體質，然而他每天被美緒辱罵、毆打的生活開始了，距離被虐體質的改善尚未出現一絲曙光，路途坎坷。
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    太郎的同學與朋友。從前為了防止被欺負，打扮成不良少年來嚇唬對手。個性認真，成績優秀，興趣是做料理。小時候受鄰居影響而有[女裝癖](../Page/變裝癖.md "wikilink")，被打工店長取名為，也是太郎的初戀情人（單戀），一直想告訴太郎自己的身分卻害怕說出來以後會背叛太郎對他的信任，直到美緒說太郎絕不是那種會因為女裝癖而討厭好友的人，才主動告訴太郎「志穗璃公主」的身分。
+    太郎的同學與朋友。從前為了防止被欺負，打扮成不良少年來嚇唬對手。個性認真，成績優秀，興趣是做料理。小時候受鄰居影響而有[女裝癖](https://zh.wikipedia.org/wiki/變裝癖 "wikilink")，被打工店長取名為，也是太郎的初戀情人（單戀），一直想告訴太郎自己的身分卻害怕說出來以後會背叛太郎對他的信任，直到美緒說太郎絕不是那種會因為女裝癖而討厭好友的人，才主動告訴太郎「志穗璃公主」的身分。
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   -
-    太郎學校的校醫，跟美緒關係就跟姐妹一樣，平時的表情變化不大，對沒興趣的人相當冷淡。不管是誰一旦踏入保健室裡面就等於是進入了她的地盤，想把學生怎麼樣都是她的自由，對於頂撞她的人絕對毫不手軟。興趣是幫可愛的女生[角色扮演與拍照](../Page/角色扮演.md "wikilink")。
+    太郎學校的校醫，跟美緒關係就跟姐妹一樣，平時的表情變化不大，對沒興趣的人相當冷淡。不管是誰一旦踏入保健室裡面就等於是進入了她的地盤，想把學生怎麼樣都是她的自由，對於頂撞她的人絕對毫不手軟。興趣是幫可愛的女生[角色扮演與拍照](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")。
     駕駛汽車的技術非常差，連正常普通的直線道路都會略為蛇行，且速度非常快，甚至把油門板當成剎車板踩。
 
 <!-- end list -->
@@ -107,7 +107,7 @@
 <!-- end list -->
 
   -
-    小說第六卷後半登場（動畫目前只到六卷前半）。國中生，超級裝乖女，裝乖時乖巧可愛到讓人有心噗通噗通的跳的感覺，但本性極其[腹黑](../Page/腹黑.md "wikilink")，小說裡對太郎微度好感。
+    小說第六卷後半登場（動畫目前只到六卷前半）。國中生，超級裝乖女，裝乖時乖巧可愛到讓人有心噗通噗通的跳的感覺，但本性極其[腹黑](https://zh.wikipedia.org/wiki/腹黑 "wikilink")，小說裡對太郎微度好感。
 
 <!-- end list -->
 
@@ -132,7 +132,7 @@
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -210,7 +210,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>Media Factory</p></th>
-<th><p><a href="../Page/尖端出版社.md" title="wikilink">尖端出版社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尖端出版社" title="wikilink">尖端出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -259,15 +259,15 @@
 
 ## 電視動畫
 
-2010年10月2日[AT-X](../Page/AT-X.md "wikilink")、[獨立UHF放送局的](../Page/獨立UHF放送局.md "wikilink")[千葉電視台播放](../Page/千葉電視台.md "wikilink")。
+2010年10月2日[AT-X](../Page/AT-X.md "wikilink")、[獨立UHF放送局的](https://zh.wikipedia.org/wiki/獨立UHF放送局 "wikilink")[千葉電視台播放](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")。
 
 ### 製作人員
 
   - 原作 - 松野秋鳴（「MM一族\!」系列 MF文庫J／[Media
     Factory刊](../Page/Media_Factory.md "wikilink")）
   - 角色原案 - QP:flapper（さくら小春・小原トメ太）
-  - 監督 - [長澤剛](../Page/長澤剛.md "wikilink")
-  - 系列構成 - [小鹿りえ](../Page/小鹿りえ.md "wikilink")
+  - 監督 - [長澤剛](https://zh.wikipedia.org/wiki/長澤剛 "wikilink")
+  - 系列構成 - [小鹿りえ](https://zh.wikipedia.org/wiki/小鹿りえ "wikilink")
   - 美術監督 - 堀妙子
   - 動畫製作 - [XEBEC](../Page/XEBEC.md "wikilink")
   - 製作 - MM一族！製作委員會
@@ -278,16 +278,16 @@
 
 :;「[HELP\!\! -Hell side-](../Page/HELP!!.md "wikilink")」（第1話-第4話）
 
-:: 作詞 - [こだまさおり](../Page/こだまさおり.md "wikilink") / 作曲・編曲 - corin. / 歌 -
-石動美緒（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
+:: 作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") /
+作曲・編曲 - corin. / 歌 - 石動美緒（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）
 
 :;「[HELP\!\! -Heaven side-](../Page/HELP!!.md "wikilink")」（第5話-第12話）
 
   -
 
       -
-        作詞 - [こだまさおり](../Page/こだまさおり.md "wikilink") / 作曲・編曲 - corin. / 歌
-        -
+        作詞 - [こだまさおり](https://zh.wikipedia.org/wiki/こだまさおり "wikilink") /
+        作曲・編曲 - corin. / 歌 -
         石動美緒（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、結野嵐子（[早見沙織](../Page/早見沙織.md "wikilink")）
 
   - 片尾曲
@@ -295,12 +295,12 @@
 :;「[More-more
 LOVERS\!\!](../Page/More-more_LOVERS!!.md "wikilink")」（第1話-第11話）
 
-:: 作詞 - [畑亜貴](../Page/畑亜貴.md "wikilink") / 作曲・編曲 -
+:: 作詞 - [畑亜貴](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink") / 作曲・編曲 -
 [前山田健一](../Page/前山田健一.md "wikilink") / 歌 -
 [麻生夏子](../Page/麻生夏子.md "wikilink")
 
 :; 「[Happy Birthday, my holy
-day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
+day](https://zh.wikipedia.org/wiki/MM一族_角色CD#美緒様CD "wikilink")」（第12話）
 
   -
 
@@ -350,7 +350,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td><p>第2話</p></td>
 <td></td>
 <td><p>相似者的距离</p></td>
-<td><p><a href="../Page/竹内浩志.md" title="wikilink">竹内浩志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹内浩志" title="wikilink">竹内浩志</a></p></td>
 <td><p><a href="../Page/上田茂.md" title="wikilink">上田茂</a></p></td>
 <td><p>鎌田祐輔</p></td>
 <td></td>
@@ -363,7 +363,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td><p>因你而有的Dog Fight</p></td>
 <td><p>黑田幸生</p></td>
 <td><p>小林浩輔</p></td>
-<td><p><a href="../Page/龟谷響子.md" title="wikilink">龟谷響子</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/龟谷響子" title="wikilink">龟谷響子</a><br />
 手島典子<br />
 細川修平</p></td>
 <td><p>堀妙子<br />
@@ -387,7 +387,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td></td>
 <td><p>天才少女的暴走</p></td>
 <td><p>丸川直子</p></td>
-<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
 <td><p>橋口洋介</p></td>
 <td><p>清水勝祐</p></td>
 <td><p>泷山真哲<br />
@@ -463,7 +463,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td><p>第11話</p></td>
 <td></td>
 <td><p>失去的记忆</p></td>
-<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
 <td><p>近藤一英</p></td>
 <td><p>小宮山由美子<br />
 河玄鳥<br />
@@ -498,7 +498,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬電視網</p></th>
 </tr>
 </thead>
@@ -509,14 +509,14 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td><p>2010年10月2日 - 12月18日</p></td>
 <td><p>星期六 9時30分 - 10時00分<br />
 （有重播）</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">CS放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2010年10月3日 - 12月19日</p></td>
 <td><p>星期日 24時00分 - 24時30分</p></td>
-<td><p><a href="../Page/独立UHF局.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/独立UHF局" title="wikilink">独立UHF局</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
@@ -533,8 +533,8 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td><p>2010年10月5日 - 12月21日</p></td>
 <td><p>星期二 24時00分 - 24時30分</p></td>
 <td></td>
@@ -558,11 +558,11 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 
 ### 相關CD
 
-| 名稱                                                                          | 發售日         | [規格編號](../Page/規格編號.md "wikilink") | 備考                                 |
-| --------------------------------------------------------------------------- | ----------- | ---------------------------------- | ---------------------------------- |
-| [美緒様CD](../Page/MM一族_角色CD#美緒様CD.md "wikilink")                              | 2010年12月15日 | LASM-4088                          | [角色歌曲](../Page/角色歌曲.md "wikilink") |
-| [MM\! ORIGINAL SOUND TRACK](../Page/MM!_ORIGINAL_SOUND_TRACK.md "wikilink") | 2010年12月22日 | LASA-5074                          | [原聲音樂](../Page/原聲音樂.md "wikilink") |
-| [嵐子CD](../Page/MM一族_角色CD#嵐子CD.md "wikilink")                                | 2011年1月26日  | LASM-4094                          | 角色歌曲                               |
+| 名稱                                                                          | 發售日         | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 備考                                                    |
+| --------------------------------------------------------------------------- | ----------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| [美緒様CD](https://zh.wikipedia.org/wiki/MM一族_角色CD#美緒様CD "wikilink")           | 2010年12月15日 | LASM-4088                                             | [角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink") |
+| [MM\! ORIGINAL SOUND TRACK](../Page/MM!_ORIGINAL_SOUND_TRACK.md "wikilink") | 2010年12月22日 | LASA-5074                                             | [原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink") |
+| [嵐子CD](https://zh.wikipedia.org/wiki/MM一族_角色CD#嵐子CD "wikilink")             | 2011年1月26日  | LASM-4094                                             | 角色歌曲                                                  |
 
 ### DVD、Blu-ray Disc
 
@@ -574,7 +574,7 @@ day](../Page/MM一族_角色CD#美緒様CD.md "wikilink")」（第12話）
 <th><p>卷數</p></th>
 <th><p>發售日</p></th>
 <th><p>收錄内容</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 </tr>
 </thead>
 <tbody>

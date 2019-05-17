@@ -1,13 +1,13 @@
 《**BRAVE10**》（真田十勇士）是[霜月灰吏的漫畫作品](../Page/霜月灰吏.md "wikilink")，於2007年10月開始在[Media
-Factory的雜誌](../Page/Media_Factory.md "wikilink")[COMIC-FLAPPER上連載](../Page/COMIC-FLAPPER.md "wikilink")。
+Factory的雜誌](../Page/Media_Factory.md "wikilink")[COMIC-FLAPPER上連載](https://zh.wikipedia.org/wiki/COMIC-FLAPPER "wikilink")。
 
 於2007年11月21日Marine
-Entertainment發售[廣播劇CD](../Page/廣播劇CD.md "wikilink")。[TMS
-Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動畫化消息，於2012年1月7日開始播放。
+Entertainment發售[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。[TMS
+Entertainment於](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")2011年7月發佈動畫化消息，於2012年1月7日開始播放。
 
 ## 故事
 
-以日本歷史上著名的[真田十勇士為中心展開的故事](../Page/真田十勇士.md "wikilink")，故事發生在[關原之戰開始的](../Page/關原之戰.md "wikilink")1年前，出雲神社突然遭受不明忍者的襲擊，而出雲巫女伊佐那海也遭到了襲擊，在她逃亡的途中遇到了伊賀的忍者霧隱才藏，得到了才藏的幫助的那海拜託才藏帶她去找信州的上田城主真田幸村。經歷了波折後，兩人終於加入到幸村的麾下。而當集結了十位勇士，天下無敵軍團也就誕生了！
+以日本歷史上著名的[真田十勇士為中心展開的故事](https://zh.wikipedia.org/wiki/真田十勇士 "wikilink")，故事發生在[關原之戰開始的](../Page/關原之戰.md "wikilink")1年前，出雲神社突然遭受不明忍者的襲擊，而出雲巫女伊佐那海也遭到了襲擊，在她逃亡的途中遇到了伊賀的忍者霧隱才藏，得到了才藏的幫助的那海拜託才藏帶她去找信州的上田城主真田幸村。經歷了波折後，兩人終於加入到幸村的麾下。而當集結了十位勇士，天下無敵軍團也就誕生了！
 
 ## 人物介紹
 
@@ -15,17 +15,17 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 ### 真田家
 
-  - [真田幸村](../Page/真田幸村.md "wikilink")
+  - [真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")
     （聲優：[平田廣明](../Page/平田廣明.md "wikilink")/[森川智之](../Page/森川智之.md "wikilink")）
     上田城的城主，是個留著懶散的鬍鬚，手上常拿著煙斗的男人。他收留著了伊佐那海。而他身邊有一批熟練的忍者，說著需要十位同伴。為了查明徳川所尋求的東西而派才藏他們前往出雲。
     與[直江兼續和](../Page/直江兼續.md "wikilink")[石田三成是友人](../Page/石田三成.md "wikilink")。
 
 <!-- end list -->
 
-  - [霧隱才藏](../Page/霧隱才藏.md "wikilink")（きりがくれ さいぞう）
+  - [霧隱才藏](https://zh.wikipedia.org/wiki/霧隱才藏 "wikilink")（きりがくれ さいぞう）
     （聲優：[森川智之](../Page/森川智之.md "wikilink")/[小野大輔](../Page/小野大輔.md "wikilink")）
     本作的主角。19歲、身高：178cm、體重：66kg（根據作者的官方網站日記）
-    伊賀的忍者、從伊賀之里（才藏自稱殺人之鄉）出身。與被人襲擊的伊佐那海相遇，並幫助她逃亡。送她到上田城及一些波折後，成為真田十勇士之一。他又稱[摩利支天](../Page/摩利支天.md "wikilink")，以暗殺為業。武器為稱為摩利大劍的巨大苦無和細苦無。使用術時要念出[真言](../Page/真言.md "wikilink")。
+    伊賀的忍者、從伊賀之里（才藏自稱殺人之鄉）出身。與被人襲擊的伊佐那海相遇，並幫助她逃亡。送她到上田城及一些波折後，成為真田十勇士之一。他又稱[摩利支天](../Page/摩利支天.md "wikilink")，以暗殺為業。武器為稱為摩利大劍的巨大苦無和細苦無。使用術時要念出[真言](https://zh.wikipedia.org/wiki/真言 "wikilink")。
     把三十歲以上的人通稱為大叔。
     一開始時非常討厭身為甲賀忍者的佐助。是十根源之力中「光」之力的代表。
     絕技是奧義天唾返、瞬光、忍法五月雨、伊賀流投術光陰、一閃、忍法霧隱式炎陽斬、忍法隼落、忍法霧隱式碎冰斬
@@ -34,10 +34,10 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
   - 伊佐那海（いさなみ）
     （聲優：[植田佳奈](../Page/植田佳奈.md "wikilink")/[佐藤利奈](../Page/佐藤利奈.md "wikilink")）
-    真田十勇士。本作的女主角。名字參考[三好伊三入道](../Page/三好伊三入道.md "wikilink")（三好清海入道的弟弟）。
+    真田十勇士。本作的女主角。名字參考[三好伊三入道](https://zh.wikipedia.org/wiki/三好伊三入道 "wikilink")（三好清海入道的弟弟）。
     還是嬰兒的時候，被扔棄在[出雲大社前](../Page/出雲大社.md "wikilink")，於是主祭把她養育成人。但出雲大社被刺客襲擊，被燒成頹垣敗瓦，之後便逃往信州找真田幸村。
     當危急時能使用黑色的圓球（奇魂）保護自己，但她本人也不知道怎麼使用。擅長跳舞，食量極大，最愛吃蕎麥麵。
-    真身為邪神[伊邪那美命](../Page/伊邪那美命.md "wikilink")，而奇魂真正的作用是保護世間不受其侵害。是十根源之力中「闇」之力的代表。
+    真身為邪神[伊邪那美命](https://zh.wikipedia.org/wiki/伊邪那美命 "wikilink")，而奇魂真正的作用是保護世間不受其侵害。是十根源之力中「闇」之力的代表。
 
 <!-- end list -->
 
@@ -51,9 +51,9 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 <!-- end list -->
 
-  - [海野六郎](../Page/海野六郎.md "wikilink")
+  - [海野六郎](https://zh.wikipedia.org/wiki/海野六郎 "wikilink")
     （聲優：[木内秀信](../Page/木内秀信.md "wikilink")/[神谷浩史](../Page/神谷浩史.md "wikilink")）
-    真田十勇士之一，是真田幸村的[小姓](../Page/小姓.md "wikilink")，用繃帶遮住右眼。
+    真田十勇士之一，是真田幸村的[小姓](https://zh.wikipedia.org/wiki/小姓 "wikilink")，用繃帶遮住右眼。
     常常責備輕浮的幸村。海野家是為世代服侍真田家的秘傳術師家族。擁有「水紋之右眼」而作為繼承人，得有家傳的寶物「蒼玉髓」。有個雙胞胎弟弟七隈。
     口腔能發出超聲波。成為幸村與十勇士們行為不檢或起爭執時的處罰招式，大家都不敢招惹。
     平時遮住的右眼能記下書信裡的文字，也能讀取他人看過的東西。是十根源之力中「水」之力的代表。
@@ -61,25 +61,25 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 <!-- end list -->
 
-  - 安娜塔西雅（アナスタシア）（聲優：[近野真晝](../Page/近野真晝.md "wikilink")/[淺川悠](../Page/淺川悠.md "wikilink")）
-    真田十勇士之一。也是伊賀異形五人眾之一，名字參考[穴山小助](../Page/穴山小助.md "wikilink")（穴山小助-**あな**やまこすけ
+  - 安娜塔西雅（アナスタシア）（聲優：[近野真晝](https://zh.wikipedia.org/wiki/近野真晝 "wikilink")/[淺川悠](../Page/淺川悠.md "wikilink")）
+    真田十勇士之一。也是伊賀異形五人眾之一，名字參考[穴山小助](https://zh.wikipedia.org/wiki/穴山小助 "wikilink")（穴山小助-**あな**やまこすけ
     的 あな-安娜）。
     藍眼金髪的美女，又稱冰華·安娜塔西雅，因能使用冰之術而得名。
     伊賀女忍者，與同鄉出身的才藏是青梅竹馬。周圍的人常簡稱她為安娜。原本是異國的公主，為了復國而為服部半藏做事。
     本來是來暗殺真田幸村，暗殺失敗後假意投降真田家，其實一直是服部半藏的間諜。離開時想要帶走六郎右眼裡的秘密，但是以失敗收場。
-    在漫畫第八卷中被[根津甚八打敗後](../Page/根津甚八.md "wikilink")，第二部第九卷中跌入深谷，行蹤不明。
+    在漫畫第八卷中被[根津甚八打敗後](https://zh.wikipedia.org/wiki/根津甚八 "wikilink")，第二部第九卷中跌入深谷，行蹤不明。
     絕技是伊賀亞流冰術絕海、伊賀亞流冰術搶冰華、伊賀亞流冰術極冰棺、伊賀亞流冰術冰葬、伊賀亞流冰術獄冰荀、伊賀亞流冰術奧義永久凍土。
 
 <!-- end list -->
 
-  - [筧十藏](../Page/筧十藏.md "wikilink")
+  - [筧十藏](https://zh.wikipedia.org/wiki/筧十藏 "wikilink")
     （聲優：[藤原啟治](../Page/藤原啟治.md "wikilink")/[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
     真田十勇士之一。擅長火繩鎗的射擊及狙擊，使用的愛鎗名為沙綾（さあや）。有畏高症，是個大酒桶。
     幸村的命令其到各國巡查後回到上田城。後來因為清海將其心愛的鐵炮弄壞後為了尋求新的鐵炮再度旅行，途中與根津甚八相遇。兩人意氣相投，結為義兄弟。是十根源之力中「金」之力的代表。
 
 <!-- end list -->
 
-  - [由利鎌之介](../Page/由利鎌之介.md "wikilink")
+  - [由利鎌之介](https://zh.wikipedia.org/wiki/由利鎌之介 "wikilink")
     （聲優：無/[高城元氣](../Page/高城元氣.md "wikilink")）
     真田十勇士之一，前往出雲的途中遇到的山賊，他打扮成腳部受傷女性，在吊橋襲擊才藏他們。
     本身是個追求殺戮、嗜血成性的變態。才藏離開時對他說：「對女人下手只會讓我想吐」，真實性別是男
@@ -92,7 +92,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 <!-- end list -->
 
-  - [根津甚八](../Page/根津甚八.md "wikilink")
+  - [根津甚八](https://zh.wikipedia.org/wiki/根津甚八 "wikilink")
     （聲優：無/[中井和哉](../Page/中井和哉.md "wikilink")）
     真田十勇士之一，原本是海盜，後來與出外修行的筧十藏成為義兄弟，幫助被德川家康追捕的真田幸村逃跑後，被真田幸村賞識，機緣巧合下成為真田十勇士。飼養一頭黑豹為寵物。
     擁有怪力，可以只用一隻手就擋下三好清海入道的攻擊。
@@ -101,8 +101,8 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 <!-- end list -->
 
-  - [三好清海入道](../Page/三好清海入道.md "wikilink")
-    （聲優：無/[田中一成](../Page/田中一成.md "wikilink")）
+  - [三好清海入道](https://zh.wikipedia.org/wiki/三好清海入道 "wikilink")
+    （聲優：無/[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")）
     真田十勇士之一，伊那佐海以前在出雲社的哥哥（沒血緣關係）。伊佐那海被棄於神社前時正是被他所發現。
     15歲開始周遊列國修行，於漫畫第4本與伊那佐海重逢，但剛開始伊那佐海根本認不出來（三好清海入道也承認以前到現在變強壯很多）跟15歲時清秀的哥哥判若兩人。
     對於跟妹妹太親近的才藏非常火大，但自身十分聽從妹妹的話，甚至表現害怕，而被才藏嘲諷 。
@@ -112,7 +112,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 <!-- end list -->
 
-  - [弁丸](../Page/弁丸.md "wikilink")
+  - [弁丸](https://zh.wikipedia.org/wiki/弁丸 "wikilink")
     （聲優：無/[橘田泉](../Page/橘田泉.md "wikilink")）
     真田十勇士之一。以侍奉幸村為目標的少年，毒舌。原名為望月六郎，因為名字與海野六郎相同，被真田幸村改名，之後名字變成弁丸。（弁丸為真田幸村幼名。）
     擅長設下陷阱埋伏敵人，最得意的武器是弁丸式機巧炸裂拳火之迦具土。是十根源之力中「火」之力的代表。
@@ -142,11 +142,11 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
   - [石川五右衛門](../Page/石川五右衛門.md "wikilink")
     [片倉景綱麾下忍者](../Page/片倉景綱.md "wikilink")，石川五右衛門的兒子，為了逃避追捕裝扮成女人，石川組首領。
     父親是真正的石川五右衛門，父親被殺後，因遭到追捕而一直逃走，之後被[片倉景綱收養](../Page/片倉景綱.md "wikilink")，陪訓成為忍者。
-    受[片倉景綱指示](../Page/片倉景綱.md "wikilink")，帶領石川組到上田城偷取奇魂，之後不敵[霧隱才藏等忍者](../Page/霧隱才藏.md "wikilink")，石川組連同[石川五右衛門全滅](../Page/石川五右衛門.md "wikilink")。於動畫版中沒有出場。
+    受[片倉景綱指示](../Page/片倉景綱.md "wikilink")，帶領石川組到上田城偷取奇魂，之後不敵[霧隱才藏等忍者](https://zh.wikipedia.org/wiki/霧隱才藏 "wikilink")，石川組連同[石川五右衛門全滅](../Page/石川五右衛門.md "wikilink")。於動畫版中沒有出場。
 
 <!-- end list -->
 
-  - 壹丸 （聲優：無/[淺利遼太](../Page/淺利遼太.md "wikilink")）
+  - 壹丸 （聲優：無/[淺利遼太](https://zh.wikipedia.org/wiki/淺利遼太 "wikilink")）
     與貳虎同樣原為伊達家忍者，後回到伊達家。
 
 <!-- end list -->
@@ -161,11 +161,11 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
 ### 德川家
 
-  - [徳川家康](../Page/徳川家康.md "wikilink")
+  - [徳川家康](https://zh.wikipedia.org/wiki/徳川家康 "wikilink")
     （聲優：無/[石塚運昇](../Page/石塚運昇.md "wikilink"))
     徳川家康，官位為內大臣，想取代豐臣家成為天下人，一直用懷柔手段拉攏其他大名支持自己。
     認為得到奇魂就可取得天下，所以對奇魂很有與趣。
-    徳川家康知道奇魂在出雲大社的傳聞後，立即下令就算燒毀出雲大社都要得到奇魂，令[真田幸村等人對其十分反感](../Page/真田幸村.md "wikilink")。
+    徳川家康知道奇魂在出雲大社的傳聞後，立即下令就算燒毀出雲大社都要得到奇魂，令[真田幸村等人對其十分反感](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")。
     為了向大名們誇示自己的強大，曾在京都召集諸大名開展茶會。
 
 <!-- end list -->
@@ -177,7 +177,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <!-- end list -->
 
   - [服部半藏](../Page/服部半藏.md "wikilink")
-    （聲優：無/[樱井孝宏](../Page/樱井孝宏.md "wikilink")）
+    （聲優：無/[樱井孝宏](https://zh.wikipedia.org/wiki/樱井孝宏 "wikilink")）
     德川家的忍者，伊賀異形五人眾之首，表面上對德川家十分忠心，其實野心極大，想暗地裹操控掌權者。以偽造的王族信物欺騙安娜作為手下。
     擁有高超的忍術，在漫畫版故事前中期曾經輕易打敗霧隱才藏。但動畫版中實力變得與霧隱才藏不分上下。
     絕技是奧義 火生三昧、業火。
@@ -213,7 +213,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 
   - [石田三成](../Page/石田三成.md "wikilink")（聲優：無/[綠川光](../Page/綠川光.md "wikilink")）
     被封在佐和山城的大名，忠於豐臣家的大名，口下不留德，反對徳川家康用懷柔手段拉攏其他大名支持自己的做法，一直想對抗徳川家康。
-    與[直江兼續和](../Page/直江兼續.md "wikilink")[真田幸村是友人](../Page/真田幸村.md "wikilink")。
+    與[直江兼續和](../Page/直江兼續.md "wikilink")[真田幸村是友人](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")。
     樣子十分清秀，像少女一般。
 
 <!-- end list -->
@@ -222,7 +222,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
     德川家曾利用上杉家在自己領地築城的事，說上杉家想謀反，所以直江兼續對德川家的行為十分反感。
     留了一把長髮。
     言論十分毒辣，比三成還毒舌，連真田幸村都不敢跟他理論。
-    與[石田三成和](../Page/石田三成.md "wikilink")[真田幸村是友人](../Page/真田幸村.md "wikilink")。
+    與[石田三成和](../Page/石田三成.md "wikilink")[真田幸村是友人](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")。
 
 <!-- end list -->
 
@@ -273,14 +273,14 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="../Page/MEDIA_FACTORY.md" title="wikilink">MEDIA FACTORY</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/MEDIA_FACTORY" title="wikilink">MEDIA FACTORY</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -386,24 +386,24 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 ### 製作團隊
 
   - 原作 - [霜月灰吏](../Page/霜月灰吏.md "wikilink")（[MEDIA
-    FACTORY](../Page/MEDIA_FACTORY.md "wikilink")）
+    FACTORY](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")）
   - 監督 - [佐山聖子](../Page/佐山聖子.md "wikilink")
-  - 系列構成 - [池田眞美子](../Page/池田眞美子.md "wikilink")
-  - 人物設計、總作畫監督 - [番由紀子](../Page/番由紀子.md "wikilink")
+  - 系列構成 - [池田眞美子](https://zh.wikipedia.org/wiki/池田眞美子 "wikilink")
+  - 人物設計、總作畫監督 - [番由紀子](https://zh.wikipedia.org/wiki/番由紀子 "wikilink")
   - 動作監修 - 南伸一郎
   - 武器設定 - 村松尚雄
-  - 動物設定 - [增田敏彦](../Page/增田敏彦.md "wikilink")
+  - 動物設定 - [增田敏彦](https://zh.wikipedia.org/wiki/增田敏彦 "wikilink")
   - 美術監督 - 渡辺幸浩
   - 美術設定 - 児玉陽平
   - 色彩設計 - 川上善美
   - 撮影監督 - 設楽希
   - 編輯 - 森田清次
-  - 音響監督 - [本山哲](../Page/本山哲_\(音響監督\).md "wikilink")
-  - 音樂 - [長岡成貢](../Page/長岡成貢.md "wikilink")
+  - 音響監督 - [本山哲](https://zh.wikipedia.org/wiki/本山哲_\(音響監督\) "wikilink")
+  - 音樂 - [長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
   - 製作人 - 宮本秀晃、河本紗知、梅田ノリカツ
   - 動畫製作 - TMS Entertainment
   - 製作 - [TMS娛樂](../Page/TMS娛樂.md "wikilink")、MEDIA
-    FACTORY、[青二娛樂](../Page/青二製作.md "wikilink")、[高尾](../Page/高尾.md "wikilink")
+    FACTORY、[青二娛樂](../Page/青二製作.md "wikilink")、[高尾](https://zh.wikipedia.org/wiki/高尾 "wikilink")
 
 ### 主題曲
 
@@ -425,7 +425,8 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
         [森川智之](../Page/森川智之.md "wikilink")&[神谷浩史](../Page/神谷浩史.md "wikilink")
 
   - 片尾曲「艶男。-adeosu-」
-    作詞・作曲 - 福助。 / 編曲・歌 - [ADAPTER。](../Page/ADAPTER。.md "wikilink")
+    作詞・作曲 - 福助。 / 編曲・歌 -
+    [ADAPTER。](https://zh.wikipedia.org/wiki/ADAPTER。 "wikilink")
 
 ### 各話列表
 
@@ -446,7 +447,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <td><p>其之壹</p></td>
 <td></td>
 <td><p>命運的兩人</p></td>
-<td><p><a href="../Page/池田真美子.md" title="wikilink">池田真美子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池田真美子" title="wikilink">池田真美子</a></p></td>
 <td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
 <td><p>鶴田仁美</p></td>
 <td></td>
@@ -459,7 +460,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <td><p>佐山聖子</p></td>
 <td><p>佐藤清光</p></td>
 <td><p>山田裕子<br />
-<a href="../Page/佐佐木睦美.md" title="wikilink">佐佐木睦美</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/佐佐木睦美" title="wikilink">佐佐木睦美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>其之參</p></td>
@@ -477,7 +478,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <td><p>神之魂</p></td>
 <td><p>廣田光毅</p></td>
 <td><p>西本由紀夫</p></td>
-<td><p><a href="../Page/山口賴房.md" title="wikilink">山口賴房</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山口賴房" title="wikilink">山口賴房</a></p></td>
 <td><p>中村純子<br />
 高橋賢</p></td>
 </tr>
@@ -572,7 +573,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -583,20 +584,20 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <td><p><a href="../Page/神奈川電視台.md" title="wikilink">神奈川電視台</a></p></td>
 <td><p>2012年1月7日 - 3月24日</p></td>
 <td><p>星期六 26:00 - 26:30</p></td>
-<td><p><a href="../Page/獨立UHF局.md" title="wikilink">獨立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
-<td><p><a href="../Page/SUN電視台.md" title="wikilink">SUN電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUN電視台" title="wikilink">SUN電視台</a></p></td>
 <td><p>2012年1月9日 - 3月26日</p></td>
 <td><p>星期一 24:35 - 25:05</p></td>
 <td></td>
@@ -612,7 +613,7 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2012年1月10日 -</p></td>
 <td><p>星期二 26:00 - 26:30</p></td>
 <td></td>
@@ -627,19 +628,19 @@ Entertainment於](../Page/TMS_Entertainment.md "wikilink")2011年7月發佈動�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/日本全域.md" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本全域" title="wikilink">日本全域</a></p></td>
 <td><p><a href="../Page/Animax.md" title="wikilink">Animax</a></p></td>
 <td><p>2012年1月12日 -</p></td>
 <td><p>星期四 22:00 - 24:00</p></td>
-<td><p><a href="../Page/Sky_PerfecTV!.md" title="wikilink">Sky PerfecTV!</a><br />
-（<a href="../Page/衛星電視.md" title="wikilink">CS/BS衛星放送</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sky_PerfecTV!" title="wikilink">Sky PerfecTV!</a><br />
+（<a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">CS/BS衛星放送</a>）</p></td>
 <td><p>有重播</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/日本BS放送.md" title="wikilink">BS11</a></p></td>
 <td><p>2012年1月13日 -</p></td>
 <td><p>星期五 24:00 - 24:30</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">BS衛星放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">BS衛星放送</a></p></td>
 <td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
 <td></td>
 </tr>

@@ -1,13 +1,13 @@
-**BOBO組合**，由[井柏然](../Page/井柏然.md "wikilink")、[付辛博兩人組成的雙人](../Page/付辛博.md "wikilink")[男子團體](../Page/男子團體.md "wikilink")，[華誼兄弟音乐公司旗下藝人](../Page/華誼兄弟.md "wikilink")。其粉絲團體被稱爲[薄荷](../Page/薄荷.md "wikilink")，簡稱[BH](../Page/BH.md "wikilink")，應援色爲薄荷綠。
+**BOBO組合**，由[井柏然](../Page/井柏然.md "wikilink")、[付辛博兩人組成的雙人](../Page/付辛博.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，[華誼兄弟音乐公司旗下藝人](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。其粉絲團體被稱爲[薄荷](../Page/薄荷.md "wikilink")，簡稱[BH](https://zh.wikipedia.org/wiki/BH "wikilink")，應援色爲薄荷綠。
 
 ## 簡介
 
 ### 團體由來
 
-2007年，[井柏然](../Page/井柏然.md "wikilink")、[付辛博共同參加了](../Page/付辛博.md "wikilink")，由[上海東方衛視主辦的的選秀節目](../Page/上海東方衛視.md "wikilink")[加油好男兒](../Page/加油好男兒.md "wikilink")。比賽早期，兩人在不同賽區沒有太多交集。2007年5月8日，由於一次錄制《新娛樂大都會》節目的機會，兩人開始結爲朋友。比賽期間[井柏然與](../Page/井柏然.md "wikilink")[付辛博感情甚好](../Page/付辛博.md "wikilink")，由於名字中各帶有個〈BO〉字，fans將兩人戲稱爲「BOBO」。伴隨比賽的深入，兩人之間的感情越發堅固，喊出了「BOBO永在」的口號。2007年7月21日，好男兒王戰，[井柏然](../Page/井柏然.md "wikilink")、[付辛博分別奪得冠軍和季軍](../Page/付辛博.md "wikilink")。決賽當日，[華誼兄弟總裁](../Page/華誼兄弟.md "wikilink")[王中磊上臺正式宣佈](../Page/王中磊.md "wikilink")，將其二人打造成爲BoBo組合。組合在2007年8月31日正式簽約華誼兄弟，從此踏入娛樂圈，BOBO組合則是內地第一支花美男式的組合。2007年到2010年間共發行了光榮、世界之大、Let's
+2007年，[井柏然](../Page/井柏然.md "wikilink")、[付辛博共同參加了](../Page/付辛博.md "wikilink")，由[上海東方衛視主辦的的選秀節目](https://zh.wikipedia.org/wiki/上海東方衛視 "wikilink")[加油好男兒](https://zh.wikipedia.org/wiki/加油好男兒 "wikilink")。比賽早期，兩人在不同賽區沒有太多交集。2007年5月8日，由於一次錄制《新娛樂大都會》節目的機會，兩人開始結爲朋友。比賽期間[井柏然與](../Page/井柏然.md "wikilink")[付辛博感情甚好](../Page/付辛博.md "wikilink")，由於名字中各帶有個〈BO〉字，fans將兩人戲稱爲「BOBO」。伴隨比賽的深入，兩人之間的感情越發堅固，喊出了「BOBO永在」的口號。2007年7月21日，好男兒王戰，[井柏然](../Page/井柏然.md "wikilink")、[付辛博分別奪得冠軍和季軍](../Page/付辛博.md "wikilink")。決賽當日，[華誼兄弟總裁](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")[王中磊上臺正式宣佈](../Page/王中磊.md "wikilink")，將其二人打造成爲BoBo組合。組合在2007年8月31日正式簽約華誼兄弟，從此踏入娛樂圈，BOBO組合則是內地第一支花美男式的組合。2007年到2010年間共發行了光榮、世界之大、Let's
 BoBo、青春進行時、微客帝國、全城熱戀等影視歌作品。
 
-2010年9月1日，成員[井柏然在北京和](../Page/井柏然.md "wikilink")[種子音樂正式簽約](../Page/種子音樂.md "wikilink")，同年12月，並和同公司的師姐[郭書瑤一同發行了](../Page/郭書瑤.md "wikilink")[暖暖手EP](../Page/暖暖手.md "wikilink")，其專輯內並收入一首由井柏然獨唱的井字遊戲正式進軍台灣市場；2011年3月6日，另一位成員[付辛博則在北京和](../Page/付辛博.md "wikilink")[金牌大風簽約](../Page/金牌大風.md "wikilink")。同月，將發行首本付辛博寫真暫停的時光，BoBo組合正式宣告解散。
+2010年9月1日，成員[井柏然在北京和](../Page/井柏然.md "wikilink")[種子音樂正式簽約](../Page/種子音樂.md "wikilink")，同年12月，並和同公司的師姐[郭書瑤一同發行了](../Page/郭書瑤.md "wikilink")[暖暖手EP](https://zh.wikipedia.org/wiki/暖暖手 "wikilink")，其專輯內並收入一首由井柏然獨唱的井字遊戲正式進軍台灣市場；2011年3月6日，另一位成員[付辛博則在北京和](../Page/付辛博.md "wikilink")[金牌大風簽約](../Page/金牌大風.md "wikilink")。同月，將發行首本付辛博寫真暫停的時光，BoBo組合正式宣告解散。
 
 ## 作品
 
@@ -27,16 +27,16 @@ BoBo、青春進行時、微客帝國、全城熱戀等影視歌作品。
 <td><p>2009</p></td>
 <td><p>東方衛視（中國）<br />
 MBC（韓國）</p></td>
-<td><p><a href="../Page/青春進行時.md" title="wikilink">青春進行時</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青春進行時" title="wikilink">青春進行時</a></p></td>
 <td><p>井柏然<br />
 付辛博</p></td>
 <td></td>
-<td><p><a href="../Page/張馨予.md" title="wikilink">張馨予</a>、<a href="../Page/何琢言.md" title="wikilink">何琢言</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張馨予" title="wikilink">張馨予</a>、<a href="../Page/何琢言.md" title="wikilink">何琢言</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p>（中國）</p></td>
-<td><p><a href="../Page/兩個女孩的那些事.md" title="wikilink">兩個女孩的那些事</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兩個女孩的那些事" title="wikilink">兩個女孩的那些事</a></p></td>
 <td><p>考官</p></td>
 <td><p>客串演出</p></td>
 <td></td>
@@ -60,15 +60,15 @@ MBC（韓國）</p></td>
 <td><p>2008</p></td>
 <td><p>各大衛視（中國）<br />
 各大地方台（中國）</p></td>
-<td><p><a href="../Page/向周星馳致敬先之女孩衝衝衝.md" title="wikilink">向周星馳致敬先之女孩衝衝衝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/向周星馳致敬先之女孩衝衝衝" title="wikilink">向周星馳致敬先之女孩衝衝衝</a></p></td>
 <td><p>井小喬</p></td>
 <td><p>獲獎戲劇</p></td>
-<td><p><a href="../Page/黃聖依.md" title="wikilink">黃聖依</a>、<a href="../Page/楊子.md" title="wikilink">楊子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃聖依" title="wikilink">黃聖依</a>、<a href="https://zh.wikipedia.org/wiki/楊子" title="wikilink">楊子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p>超視（台灣）</p></td>
-<td><p><a href="../Page/Yo天使.md" title="wikilink">Yo天使</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yo天使" title="wikilink">Yo天使</a></p></td>
 <td><p>張承佑</p></td>
 <td><p>33故事館<br />
 音樂特辑</p></td>
@@ -99,7 +99,7 @@ MBC（韓國）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td><p><a href="../Page/美味情歌.md" title="wikilink">美味情歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美味情歌" title="wikilink">美味情歌</a></p></td>
 <td><p>張哲(井)<br />
 張藝男(付)</p></td>
 <td></td>
@@ -107,11 +107,11 @@ MBC（韓國）</p></td>
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="../Page/全城熱戀.md" title="wikilink">全城熱戀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全城熱戀" title="wikilink">全城熱戀</a></p></td>
 <td><p>小方(井)<br />
 大福(付)</p></td>
 <td></td>
-<td><p><a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/張學友.md" title="wikilink">張學友</a>、<a href="../Page/劉若英.md" title="wikilink">劉若英</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="../Page/徐熙媛.md" title="wikilink">徐熙媛</a>、<a href="../Page/段奕宏.md" title="wikilink">段奕宏</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a></p></td>
+<td><p><a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a>、<a href="https://zh.wikipedia.org/wiki/劉若英" title="wikilink">劉若英</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="../Page/徐熙媛.md" title="wikilink">徐熙媛</a>、<a href="../Page/段奕宏.md" title="wikilink">段奕宏</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -120,23 +120,23 @@ MBC（韓國）</p></td>
 
   - 截至現在井柏然**個人**曾參與1部電影演出，依上映年份如下：
 
-|        |                                    |        |        |                                                                                                                                                                                                                                                    |
-| ------ | ---------------------------------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **年份** | **影片名稱**                           | **角色** | **備註** | **同片演員**                                                                                                                                                                                                                                           |
-| 2011   | [全球熱戀](../Page/全球熱戀.md "wikilink") | 聞風     |        | [劉若英](../Page/劉若英.md "wikilink")、[郭富城](../Page/郭富城.md "wikilink")、[桂綸鎂](../Page/桂綸鎂.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[徐帆](../Page/徐帆.md "wikilink")、[劉金山](../Page/劉金山.md "wikilink")、[Angelababy](../Page/Angelababy.md "wikilink") |
+|        |                                    |        |        |                                                                                                                                                                                                                                                                                          |
+| ------ | ---------------------------------- | ------ | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **年份** | **影片名稱**                           | **角色** | **備註** | **同片演員**                                                                                                                                                                                                                                                                                 |
+| 2011   | [全球熱戀](../Page/全球熱戀.md "wikilink") | 聞風     |        | [劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")、[郭富城](../Page/郭富城.md "wikilink")、[桂綸鎂](../Page/桂綸鎂.md "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[徐帆](../Page/徐帆.md "wikilink")、[劉金山](https://zh.wikipedia.org/wiki/劉金山 "wikilink")、[Angelababy](../Page/Angelababy.md "wikilink") |
 
 #### 付辛博個人
 
   - 截至現在付辛博**個人**曾參與1部電影演出，依上映年份如下：
 
-|        |                                    |        |        |                                                               |
-| ------ | ---------------------------------- | ------ | ------ | ------------------------------------------------------------- |
-| **年份** | **影片名稱**                           | **角色** | **備註** | **同片演員**                                                      |
-| 2008   | [微客帝國](../Page/微客帝國.md "wikilink") | 王少雄    |        | [陸毅](../Page/陸毅.md "wikilink")、[黄渤](../Page/黄渤.md "wikilink") |
+|        |                                                       |        |        |                                                                                  |
+| ------ | ----------------------------------------------------- | ------ | ------ | -------------------------------------------------------------------------------- |
+| **年份** | **影片名稱**                                              | **角色** | **備註** | **同片演員**                                                                         |
+| 2008   | [微客帝國](https://zh.wikipedia.org/wiki/微客帝國 "wikilink") | 王少雄    |        | [陸毅](https://zh.wikipedia.org/wiki/陸毅 "wikilink")、[黄渤](../Page/黄渤.md "wikilink") |
 
 ### 專輯
 
-  - [好男兒站出來](../Page/好男兒站出來.md "wikilink")（合輯）（2007）
+  - [好男兒站出來](https://zh.wikipedia.org/wiki/好男兒站出來 "wikilink")（合輯）（2007）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -148,7 +148,7 @@ MBC（韓國）</p></td>
 
 </div>
 
-  - [光榮](../Page/光榮.md "wikilink")（EP）（2007）
+  - [光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")（EP）（2007）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -161,7 +161,8 @@ MBC（韓國）</p></td>
 
 </div>
 
-  - [世界之大](../Page/世界之大.md "wikilink") (Q版本\&Cool版本)（2008）
+  - [世界之大](https://zh.wikipedia.org/wiki/世界之大 "wikilink")
+    (Q版本\&Cool版本)（2008）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -187,7 +188,8 @@ MBC（韓國）</p></td>
 
 </div>
 
-  - [Let’s bobo](../Page/Let’s_bobo.md "wikilink")（2010）
+  - [Let’s
+    bobo](https://zh.wikipedia.org/wiki/Let’s_bobo "wikilink")（2010）
 
 <div class="NavFrame" style="text-align: left; width:50%">
 
@@ -221,10 +223,10 @@ MBC（韓國）</p></td>
 
 ## 廣告代言
 
-  - 常州[中華恐龍園](../Page/中華恐龍園.md "wikilink")
+  - 常州[中華恐龍園](https://zh.wikipedia.org/wiki/中華恐龍園 "wikilink")
   - [資生堂](../Page/資生堂.md "wikilink")－水之印
-  - [NOKIA](../Page/NOKIA.md "wikilink") 3500c
-  - [Azzaro](../Page/Azzaro.md "wikilink") Now香水
+  - [NOKIA](https://zh.wikipedia.org/wiki/NOKIA "wikilink") 3500c
+  - [Azzaro](https://zh.wikipedia.org/wiki/Azzaro "wikilink") Now香水
   - OPPO Real 音乐手机 T5 T9
   - OPPO首款触控高清MP4 S39
   - 百事美年达

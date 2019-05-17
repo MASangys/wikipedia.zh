@@ -1,5 +1,5 @@
 **SIG P250**是[Swiss
-Arms生產的](../Page/Swiss_Arms.md "wikilink")[9×19毫米口徑緊湊型](../Page/9×19mm鲁格弹.md "wikilink")[手槍](../Page/手槍.md "wikilink")。
+Arms生產的](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")[9×19毫米口徑緊湊型](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")。
 
 ## 設計
 
@@ -29,15 +29,15 @@ ACTION 4 NP 的彈藥的SIG Sauer PPNL 手槍。\]\]
   - 緊湊型
   - 袖珍型
   - PPNL (Politie Pistool Nederland - Police Pistol
-    Netherlands)：採用[RUAG](../Page/RUAG.md "wikilink") ACTION 4
-    NP的彈藥的P250，已經停產。
+    Netherlands)：採用[RUAG](https://zh.wikipedia.org/wiki/RUAG "wikilink")
+    ACTION 4 NP的彈藥的P250，已經停產。
 
 ## 採用
 
   - ： [警務處刑事部絕大部份部門](../Page/香港警務處.md "wikilink")
 
       - [有組織罪案及三合會調查科](../Page/有組織罪案及三合會調查科.md "wikilink")
-      - [重案組](../Page/重案組_\(香港\).md "wikilink")
+      - [重案組](https://zh.wikipedia.org/wiki/重案組_\(香港\) "wikilink")
       - [刑事情報科](../Page/刑事情報科.md "wikilink")
       - [商業罪案調查科](../Page/商業罪案調查科.md "wikilink")
       - [毒品調查科](../Page/毒品調查科.md "wikilink")\[2\]\[3\]\[4\]\[5\]
@@ -50,7 +50,7 @@ ACTION 4 NP 的彈藥的SIG Sauer PPNL 手槍。\]\]
 
   - ：[內政部警政署](../Page/內政部警政署.md "wikilink"),改採用[瓦爾特PPQ手槍](../Page/瓦爾特PPQ手槍.md "wikilink")。
 
-  - ：[聯邦航空警察](../Page/:en:_Federal_Air_Marshal_Service.md "wikilink")，以取代[SIG
+  - ：[聯邦航空警察](https://zh.wikipedia.org/wiki/:en:_Federal_Air_Marshal_Service "wikilink")，以取代[SIG
     P229手槍](../Page/SIG_P229手槍.md "wikilink")
 
 ## 流行文化
@@ -59,13 +59,14 @@ ACTION 4 NP 的彈藥的SIG Sauer PPNL 手槍。\]\]
 
   - 2012年—《[寒戰](../Page/寒戰.md "wikilink")》（Cold War）：型號為P250
     Dcc，被劉傑輝（[郭富城飾演](../Page/郭富城.md "wikilink")）、徐永基（[錢嘉樂飾演](../Page/錢嘉樂.md "wikilink")）和李文彬（[梁家輝飾演](../Page/梁家輝.md "wikilink")）所使用。
-  - 2017年—《[寒戰II](../Page/寒戰II.md "wikilink")》（Cold War II）：型號為P250
+  - 2017年—《[寒戰II](https://zh.wikipedia.org/wiki/寒戰II "wikilink")》（Cold
+    War II）：型號為P250
     Dcc，被劉傑輝（[郭富城飾演](../Page/郭富城.md "wikilink")）和李文彬（[梁家輝飾演](../Page/梁家輝.md "wikilink")）所使用。
 
 ### 電子遊戲
 
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
-    zh-hant:絕對武力：全球攻勢;}-](../Page/反恐精英：全球攻勢.md "wikilink")》（Counter-Strike:
+    zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/反恐精英：全球攻勢 "wikilink")》（Counter-Strike:
     Global Offensive）：為CS:GO新加入的武器，用以替代過往作品中的[SIG
     P228手槍](../Page/SIG_P228手槍.md "wikilink")。
 

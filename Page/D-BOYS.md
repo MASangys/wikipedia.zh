@@ -1,6 +1,6 @@
-**D-BOYS**—日本[渡邊娛樂所屬的偶像男演員團體](../Page/渡邊娛樂.md "wikilink")。
+**D-BOYS**—日本[渡邊娛樂所屬的偶像男演員團體](https://zh.wikipedia.org/wiki/渡邊娛樂 "wikilink")。
 
-D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery（發現）、Development（成長）的意思。所屬成員大多有出演[網球王子舞台劇和](../Page/網球王子舞台劇.md "wikilink")[特攝片的經驗](../Page/特攝.md "wikilink")。
+D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery（發現）、Development（成長）的意思。所屬成員大多有出演[網球王子舞台劇和](../Page/網球王子舞台劇.md "wikilink")[特攝片的經驗](https://zh.wikipedia.org/wiki/特攝 "wikilink")。
 
 ## 概要
 
@@ -67,7 +67,7 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
 <!-- end list -->
 
   -
-    D-BOYS首次的正規節目「DD-BOYS」（[EX](../Page/朝日電視.md "wikilink")）開始播映。
+    D-BOYS首次的正規節目「DD-BOYS」（[EX](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")）開始播映。
 
 <!-- end list -->
 
@@ -160,12 +160,15 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
   - [三上真史](../Page/三上真史.md "wikilink")（Mikami Masashi、1983年6月20日）
   - [鈴木裕樹](../Page/鈴木裕樹.md "wikilink")（Suzuki Hiroki、1983年10月3日）
   - [牧田哲也](../Page/牧田哲也.md "wikilink")（Makita Tetsuya、1984年6月7日）
-  - [柳浩太郎](../Page/柳浩太郎.md "wikilink")（Yanagi Koutarou、1985年12月21日）（副隊長）
-  - [山田悠介](../Page/山田悠介.md "wikilink")（Yamada Yusuke、1987年7月29日）
+  - [柳浩太郎](https://zh.wikipedia.org/wiki/柳浩太郎 "wikilink")（Yanagi
+    Koutarou、1985年12月21日）（副隊長）
+  - [山田悠介](https://zh.wikipedia.org/wiki/山田悠介 "wikilink")（Yamada
+    Yusuke、1987年7月29日）
   - [瀨戶康史](../Page/瀨戶康史.md "wikilink")（Seto Kouji、1988年5月18日）
   - [柳下大](../Page/柳下大.md "wikilink")（Yanagishita Tomo、1988年6月3日）
   - [宮崎秋人](../Page/宮崎秋人.md "wikilink")（Shuto Miyazaki、1990年9月3日）
-  - [前山剛久](../Page/前山剛久.md "wikilink")（Maeyama Takahisa、1991年2月7日）
+  - [前山剛久](https://zh.wikipedia.org/wiki/前山剛久 "wikilink")（Maeyama
+    Takahisa、1991年2月7日）
   - [橋本汰斗](../Page/橋本汰斗.md "wikilink")（Hashimoto Taito、1991年11月1日）
   - [碓井將大](../Page/碓井將大.md "wikilink")（Usui Masahiro、1991年12月3日）
   - [堀井新太](../Page/堀井新太.md "wikilink")（Horii Arata、1992年6月26日）
@@ -233,7 +236,7 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
 
 鈴木裕樹PCBG.10841／荒木宏文PCBG.10842／瀬戸康史PCBG.10843（2007年7月21日）
 
-  - DD-BOYS（発売元：[ContentsLeague](../Page/ContentsLeague.md "wikilink")）
+  - DD-BOYS（発売元：[ContentsLeague](https://zh.wikipedia.org/wiki/ContentsLeague "wikilink")）
       - vol.1（2006年10月27日）VIBZ-5006
       - vol.2（2006年10月27日）VIBZ-5007
       - vol.3（2006年10月27日）VIBZ-5009
@@ -244,7 +247,7 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
 <!-- end list -->
 
   - D-BOYS
-    STAGE（発売元：[ContentsLeague](../Page/ContentsLeague.md "wikilink")）
+    STAGE（発売元：[ContentsLeague](https://zh.wikipedia.org/wiki/ContentsLeague "wikilink")）
       - vol.1（2007年10月24日）VIBZ-5039\~40
       - vol.2（2008年9月24日）VIBZ-5097\~8
       - vol.3 鴉～KARASU～ 04（2009年7月24日、発売予定）CLVS-1013
@@ -252,7 +255,7 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
 <!-- end list -->
 
   - D-BOYS BOY FRIEND
-    series（販売元：[ジェネオン・ユニバーサル・エンターテイメントジャパン](../Page/ジェネオン・ユニバーサル・エンターテイメントジャパン.md "wikilink")）
+    series（販売元：[ジェネオン・ユニバーサル・エンターテイメントジャパン](https://zh.wikipedia.org/wiki/ジェネオン・ユニバーサル・エンターテイメントジャパン "wikilink")）
       - vol.1「五十嵐隼士 NO-FICTION」（2009年6月24日、発売予定）CLVS-1008
       - vol.2「中村優一 タイトル未定」（2009年8月21日、発売予定）
 

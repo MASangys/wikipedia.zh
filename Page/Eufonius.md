@@ -1,10 +1,10 @@
-**eufonius**（）是[日本的樂團組合](../Page/日本.md "wikilink")。在[網際網路相識而組成](../Page/網際網路.md "wikilink")。組合名是來源自「[euphonious](../Page/:en:wiktionary:euphonious.md "wikilink")（悅耳）」。滿溢透明感的歌聲．具有抑揚特徵的和弦．現場樂器，加上預先輸入的演奏曲調而合成的編曲風格，創造了獨特的世界。在音樂即售會M3、[Comic
+**eufonius**（）是[日本的樂團組合](../Page/日本.md "wikilink")。在[網際網路相識而組成](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。組合名是來源自「[euphonious](https://zh.wikipedia.org/wiki/:en:wiktionary:euphonious "wikilink")（悅耳）」。滿溢透明感的歌聲．具有抑揚特徵的和弦．現場樂器，加上預先輸入的演奏曲調而合成的編曲風格，創造了獨特的世界。在音樂即售會M3、[Comic
 Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可是透過提供樂曲、發表單曲「」等，已經開始在商業方面進出。
 
 ## 成員
 
-  - [菊地創](../Page/菊地創.md "wikilink")（きくちはじめ）作曲、編曲、部分作詞、鍵盤手
-  - [riya](../Page/riya.md "wikilink")（りや）作詞・主唱、部分作曲
+  - [菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")（きくちはじめ）作曲、編曲、部分作詞、鍵盤手
+  - [riya](https://zh.wikipedia.org/wiki/riya "wikilink")（りや）作詞・主唱、部分作曲
 
 ## 作品
 
@@ -15,7 +15,7 @@ Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可�
 <tr class="header">
 <th><p>!發售日</p></th>
 <th><p>名稱</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高排名</p></th>
 </tr>
 </thead>
@@ -144,7 +144,7 @@ Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可�
 <tr class="header">
 <th><p>!發售日</p></th>
 <th><p>名稱</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高位</p></th>
 </tr>
 </thead>
@@ -232,7 +232,7 @@ Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可�
 
 ### 其他
 
-  - 動畫《[雙戀](../Page/雙戀.md "wikilink")》主題歌單曲（2005年4月27日發售・Starchild）
+  - 動畫《[雙戀](https://zh.wikipedia.org/wiki/雙戀 "wikilink")》主題歌單曲（2005年4月27日發售・Starchild）
 
 <!-- end list -->
 
@@ -250,7 +250,7 @@ Market等](../Page/Comic_Market.md "wikilink")，雖然仍在獨立活動，可�
 
 <!-- end list -->
 
-  - 動畫《[sola](../Page/sola.md "wikilink")》印象曲專輯“oratorio”（2007年8月8日發售・[Lantis](../Page/Lantis.md "wikilink")）
+  - 動畫《[sola](https://zh.wikipedia.org/wiki/sola "wikilink")》印象曲專輯“oratorio”（2007年8月8日發售・[Lantis](../Page/Lantis.md "wikilink")）
 
 <!-- end list -->
 

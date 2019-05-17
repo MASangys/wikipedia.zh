@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                 |
 
 **GN-001 能天使GUNDAM（Gundam
-Exia）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Exia）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由剎那·F·塞耶所駕駛。
 
@@ -34,7 +34,7 @@ Sword）」，可根據不同任務或狀況時使用。而能天使GUNDAM的開
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[能天使](../Page/能天使.md "wikilink")（Exusiai）」。
+    名稱源自於九大天使階級之一的「[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）」。
 
 ## 重要戰鬥史
 
@@ -100,7 +100,7 @@ Sword）」，可根據不同任務或狀況時使用。而能天使GUNDAM的開
 
   -
     在四年前大戰後至今僅做簡單修補（GN-001RE），於宇宙殖民地「榮耀」的搶救作戰中被A-Laws新型機[GNX-704T
-    先驅式重創](../Page/GNX-704T_先驅式.md "wikilink")，於即將敗陣時被熾天使GUNDAM救下。
+    先驅式重創](https://zh.wikipedia.org/wiki/GNX-704T_先驅式 "wikilink")，於即將敗陣時被熾天使GUNDAM救下。
     其GN-Drive裝於後繼機[GN-0000 00
     GUNDAM中](../Page/GN-0000_00_GUNDAM.md "wikilink")。
 
@@ -335,7 +335,7 @@ Mode，同時廢除了腕部和足部的插槽。
 在修改機體的同時整理了武裝，將七劍減少為三劍。主武裝為改良過的GN劍——GN劍改，使得機體的基准性能获得提升。尤其强化了贯彻“一击脱离”战术的作战能力。本機原本可以裝備GN盾牌，但是由於裝備其會使使用雙手武器的格鬥戰受到影響，所以最終戰時沒有裝備。
 
 GN劍改是與[GN-0000+GNR-010
-00強化模組的追加武裝GN劍](../Page/GN-0000_00_GUNDAM#GN-0000+GNR-010_00強化模組（00_Raiser）.md "wikilink")Ⅲ同時開發的新武裝。切換GN劍和GN粒子束步槍的模式轉換性能沒有改變，而在進行格鬥的GN劍部份，採用了新開發的素材並對劍身及劍刃進行強化，使其有了更高的破壞力。
+00強化模組的追加武裝GN劍](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#GN-0000+GNR-010_00強化模組（00_Raiser） "wikilink")Ⅲ同時開發的新武裝。切換GN劍和GN粒子束步槍的模式轉換性能沒有改變，而在進行格鬥的GN劍部份，採用了新開發的素材並對劍身及劍刃進行強化，使其有了更高的破壞力。
 
   - 高度：18.3公尺
   - 重量：53.9噸
@@ -413,9 +413,10 @@ R3于此次武力介入中，故意将光束击偏，以GN粒子构成的光束�
 
 ## 參見
 
-  - [機動戰士GUNDAM 00登場機體列表](../Page/機動戰士GUNDAM_00登場機體列表.md "wikilink")
+  - [機動戰士GUNDAM
+    00登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場機體列表 "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")
 

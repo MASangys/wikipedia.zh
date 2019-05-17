@@ -1,5 +1,5 @@
 《**BASTARD\!\!
-－暗黑的破壞神－**》（）是漫畫家[萩原一至於](../Page/萩原一至.md "wikilink")1988年開始在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的漫畫作品，在[台灣出過三次](../Page/台灣.md "wikilink")[中文版](../Page/中文.md "wikilink")：[東立出版社在](../Page/東立出版社.md "wikilink")[WTO無版權前出版未授權版最早書名翻譯](../Page/WTO.md "wikilink")《邪神劍》，[大然文化出版第一次授權版](../Page/大然文化.md "wikilink")，[尖端出版出版第二次授權版](../Page/尖端出版.md "wikilink")。[香港中文版由](../Page/香港.md "wikilink")[天下出版出版](../Page/天下出版.md "wikilink")。下列中文譯名及用語，以尖端版為準。
+－暗黑的破壞神－**》（）是漫畫家[萩原一至於](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")1988年開始在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的漫畫作品，在[台灣出過三次](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")：[東立出版社在](../Page/東立出版社.md "wikilink")[WTO無版權前出版未授權版最早書名翻譯](https://zh.wikipedia.org/wiki/WTO "wikilink")《邪神劍》，[大然文化出版第一次授權版](../Page/大然文化.md "wikilink")，[尖端出版出版第二次授權版](../Page/尖端出版.md "wikilink")。[香港中文版由](../Page/香港.md "wikilink")[天下出版出版](../Page/天下出版.md "wikilink")。下列中文譯名及用語，以尖端版為準。
 
 ## 概覽
 
@@ -59,18 +59,18 @@
 
 ### 主要登場人物
 
-  - 達克·休奈達（[OVA配音](../Page/OVA.md "wikilink")：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）
+  - 達克·休奈達（[OVA配音](https://zh.wikipedia.org/wiki/OVA "wikilink")：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）
 
 <!-- end list -->
 
   -
-    簡稱「D·S」、「達休」。個性極端[自戀](../Page/自戀.md "wikilink")、好色、殘暴，以征服世界、[享盡天下美女為終極目標](../Page/後宮型作品.md "wikilink")，戰鬥時對敵人毫不手軟。絕招「爆靈地獄」可讓敵人瞬間全身爆裂、血肉模糊、骨肉分離，甚至死得只剩一堆白骨。
-    達克·休奈達被大神官吉歐·諾特·索特長期封印於路歇·連連體內。解除封印的方法是：一個[處女](../Page/處女.md "wikilink")（例如陽子或希拉）以口對口方式吻他，同時唸咒語「封印啊，快退下！」，即可解除封印、喚醒達克·休奈達。
+    簡稱「D·S」、「達休」。個性極端[自戀](../Page/自戀.md "wikilink")、好色、殘暴，以征服世界、[享盡天下美女為終極目標](https://zh.wikipedia.org/wiki/後宮型作品 "wikilink")，戰鬥時對敵人毫不手軟。絕招「爆靈地獄」可讓敵人瞬間全身爆裂、血肉模糊、骨肉分離，甚至死得只剩一堆白骨。
+    達克·休奈達被大神官吉歐·諾特·索特長期封印於路歇·連連體內。解除封印的方法是：一個[處女](https://zh.wikipedia.org/wiki/處女 "wikilink")（例如陽子或希拉）以口對口方式吻他，同時唸咒語「封印啊，快退下！」，即可解除封印、喚醒達克·休奈達。
     由於被長期封印於路歇體內，達克·休奈達的性格稍微受到路歇的影響。陽子首次解除封印以後，達克·休奈達就可以在路歇睡著以後操縱路歇的身體，自行解除封印。
 
 <!-- end list -->
 
-  - 迪亞·諾特·陽子（OVA配音：[小山裕香](../Page/小山裕香.md "wikilink")；[廣播劇CD第](../Page/廣播劇CD.md "wikilink")4卷配音：[白鳥由里](../Page/白鳥由里.md "wikilink")）
+  - 迪亞·諾特·陽子（OVA配音：[小山裕香](https://zh.wikipedia.org/wiki/小山裕香 "wikilink")；[廣播劇CD第](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")4卷配音：[白鳥由里](../Page/白鳥由里.md "wikilink")）
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - 魯協·威廉（OVA配音：[淵崎有里子](../Page/淵崎有里子.md "wikilink")）
+  - 魯協·威廉（OVA配音：[淵崎有里子](https://zh.wikipedia.org/wiki/淵崎有里子 "wikilink")）
 
 <!-- end list -->
 
@@ -158,11 +158,11 @@
 <!-- end list -->
 
   -
-    梅塔·利卡那王國的第一王子，魔操兵戰爭五英雄之一。初登場時只是一隻小[翼龍](../Page/翼龍.md "wikilink")，主要吐槽達克·休奈達；後隨劇情發展，變回原貌。
+    梅塔·利卡那王國的第一王子，魔操兵戰爭五英雄之一。初登場時只是一隻小[翼龍](https://zh.wikipedia.org/wiki/翼龍 "wikilink")，主要吐槽達克·休奈達；後隨劇情發展，變回原貌。
 
 <!-- end list -->
 
-  - 吉歐·諾特·索特（OVA配音：[田中信夫](../Page/田中信夫.md "wikilink")；廣播劇CD第2至3卷配音：[岡部政明](../Page/岡部政明.md "wikilink")）
+  - 吉歐·諾特·索特（OVA配音：[田中信夫](../Page/田中信夫.md "wikilink")；廣播劇CD第2至3卷配音：[岡部政明](https://zh.wikipedia.org/wiki/岡部政明 "wikilink")）
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@
 
 <!-- end list -->
 
-  - 希拉·梅塔·利卡那（OVA配音：[吉田古奈美](../Page/吉田小南美.md "wikilink")）
+  - 希拉·梅塔·利卡那（OVA配音：[吉田古奈美](https://zh.wikipedia.org/wiki/吉田小南美 "wikilink")）
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@
 
 <!-- end list -->
 
-  - 三大臣（OVA配音：[梅津秀行](../Page/梅津秀行.md "wikilink")、[梁田清之](../Page/梁田清之.md "wikilink")、[櫻井敏治](../Page/櫻井敏治.md "wikilink")）
+  - 三大臣（OVA配音：[梅津秀行](../Page/梅津秀行.md "wikilink")、[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")、[櫻井敏治](https://zh.wikipedia.org/wiki/櫻井敏治 "wikilink")）
 
 <!-- end list -->
 
@@ -312,9 +312,9 @@
 
 <!-- end list -->
 
-  - 官方[十八禁](../Page/十八禁.md "wikilink")[同人誌](../Page/同人誌.md "wikilink")
-    萩原一至的[同人組織](../Page/同人.md "wikilink")「Studio Loud in
-    School」發行的2本官方十八禁同人誌：
+  - 官方[十八禁](https://zh.wikipedia.org/wiki/十八禁 "wikilink")[同人誌](../Page/同人誌.md "wikilink")
+    萩原一至的[同人組織](https://zh.wikipedia.org/wiki/同人 "wikilink")「Studio Loud
+    in School」發行的2本官方十八禁同人誌：
 
 <!-- end list -->
 
@@ -328,23 +328,24 @@
 ### 製作人員
 
   - 原作 - 萩原一至
-  - 導演 - [秋山勝仁](../Page/秋山勝仁.md "wikilink")
+  - 導演 - [秋山勝仁](https://zh.wikipedia.org/wiki/秋山勝仁 "wikilink")
   - 人物設定 - [北爪宏幸](../Page/北爪宏幸.md "wikilink")
-  - 概念設計 - [幡池裕行](../Page/幡池裕行.md "wikilink")
+  - 概念設計 - [幡池裕行](https://zh.wikipedia.org/wiki/幡池裕行 "wikilink")
   - 美術監督 - 池田繁美
   - 色彩設定 - 中山久美子
   - 攝影監督 - 小西一廣
   - 音樂 - [田中公平](../Page/田中公平.md "wikilink")
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
-  - 音效製作人 - [中野徹](../Page/中野徹.md "wikilink")
+  - 音效製作人 - [中野徹](https://zh.wikipedia.org/wiki/中野徹 "wikilink")
   - 製作人 - 三浦亨、大德哲雄
-  - 動畫製作 - [AIC](../Page/AIC.md "wikilink")
+  - 動畫製作 - [AIC](https://zh.wikipedia.org/wiki/AIC "wikilink")
   - 製作 - 集英社
 
 ### 主題曲
 
   - 片尾曲「黑白煩惱」（モノクロームトラブル）
-    作詞：米倉利徳、真間稜 / 作曲・編曲：関根安里 / 主唱：[米倉利紀](../Page/米倉利紀.md "wikilink")
+    作詞：米倉利徳、真間稜 / 作曲・編曲：関根安里 /
+    主唱：[米倉利紀](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")
 
 ### 各話標題
 
@@ -365,9 +366,9 @@
 <td><p>第1話</p></td>
 <td><p>爆炎の魔術師</p></td>
 <td><p>爆炎之魔術師</p></td>
-<td><p><a href="../Page/山口宏_(脚本家).md" title="wikilink">山口宏</a></p></td>
-<td><p><a href="../Page/秋山勝仁.md" title="wikilink">秋山勝仁</a><br />
-<a href="../Page/吉田徹.md" title="wikilink">吉田徹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山口宏_(脚本家)" title="wikilink">山口宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋山勝仁" title="wikilink">秋山勝仁</a><br />
+<a href="https://zh.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a></p></td>
 <td><p>吉田徹</p></td>
 <td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a><br />
 <a href="../Page/木村貴宏.md" title="wikilink">木村貴宏</a></p></td>
@@ -376,7 +377,7 @@
 <td><p>第2話</p></td>
 <td><p>火炎魔神イーフリート</p></td>
 <td></td>
-<td><p><a href="../Page/井出安軌.md" title="wikilink">井出安軌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井出安軌" title="wikilink">井出安軌</a></p></td>
 <td><p>奥田淳<br />
 阿部邦博</p></td>
 <td></td>
@@ -386,9 +387,9 @@
 <td><p>第3話</p></td>
 <td><p>ニンジャマスター・ガラ</p></td>
 <td></td>
-<td><p><a href="../Page/越智博之.md" title="wikilink">越智博之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越智博之" title="wikilink">越智博之</a></p></td>
 <td><p>越智博之<br />
-<a href="../Page/橋本敬史.md" title="wikilink">橋本敬史</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/橋本敬史" title="wikilink">橋本敬史</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -400,14 +401,14 @@
 中山岳洋</p></td>
 <td><p>藤原洋英</p></td>
 <td><p>中山岳洋<br />
-<a href="../Page/西井正典.md" title="wikilink">西井正典</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/西井正典" title="wikilink">西井正典</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第5話</p></td>
 <td><p>雷帝アーシェス・ネイ</p></td>
 <td></td>
-<td><p><a href="../Page/大張正己.md" title="wikilink">大張正己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大張正己" title="wikilink">大張正己</a></p></td>
 <td><p><a href="../Page/恩田尚之.md" title="wikilink">恩田尚之</a><br />
 越智博之<br />
 阿部邦博</p></td>
@@ -437,17 +438,17 @@
 
   - BASTARD\!\!
     -暗黒の破壊神-（[SFC用對戰型動作遊戲](../Page/超級任天堂.md "wikilink")，[Cobra
-    Team](../Page/Cobra_Team.md "wikilink")1994年1月28日發售）
+    Team](https://zh.wikipedia.org/wiki/Cobra_Team "wikilink")1994年1月28日發售）
   - BASTARD\!\!
     -虚ろなる神々の器-（[PS用](../Page/PlayStation_\(遊戲機\).md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，1996年12月26日發售）
   - [BASTARD\!\!
-    -ONLINE-](../Page/BASTARD!!_-ONLINE-.md "wikilink")（[TECMO開發](../Page/TECMO.md "wikilink")，2009年中止開發。）
+    -ONLINE-](../Page/BASTARD!!_-ONLINE-.md "wikilink")（[TECMO開發](https://zh.wikipedia.org/wiki/TECMO "wikilink")，2009年中止開發。）
 
 ## 侵權事件
 
 漫畫當初在《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》連載時，漫畫中有一隻加上手腳的巨大眼球怪「」；可是此名稱早已被D\&D遊戲的日本代理商所使用，因此引發侵權爭議。
-之後由此漫畫的責任編輯『鈴木さん』以[土下座向該遊戲的代理商道歉](../Page/土下座.md "wikilink")。
-之後在此漫畫的[單行本與其衍生作品裡](../Page/單行本.md "wikilink")，此眼球怪正式更名為「鈴木土下座ェ門」，作為永久紀念。
+之後由此漫畫的責任編輯『鈴木さん』以[土下座向該遊戲的代理商道歉](https://zh.wikipedia.org/wiki/土下座 "wikilink")。
+之後在此漫畫的[單行本與其衍生作品裡](https://zh.wikipedia.org/wiki/單行本 "wikilink")，此眼球怪正式更名為「鈴木土下座ェ門」，作為永久紀念。
 
 ## 外部連結
 

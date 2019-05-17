@@ -10,7 +10,7 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 <!-- end list -->
 
   -
-    乐队队长，担任主唱、[吉他手](../Page/吉他手.md "wikilink")，1968年12月7日生于[北海道](../Page/北海道.md "wikilink")。
+    乐队队长，担任主唱、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，1968年12月7日生于[北海道](../Page/北海道.md "wikilink")。
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 <!-- end list -->
 
   -
-    担任[吉他手](../Page/吉他手.md "wikilink")，录音时也参与混音，1962年10月2日生于北海道。
+    担任[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，录音时也参与混音，1962年10月2日生于北海道。
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 <!-- end list -->
 
   -
-    担任[鼓手](../Page/鼓手.md "wikilink")，1964年8月16日生于[茨城县](../Page/茨城县.md "wikilink")。
+    担任[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，1964年8月16日生于[茨城县](https://zh.wikipedia.org/wiki/茨城县 "wikilink")。
 
 ### 现任支援成员
 
@@ -37,7 +37,7 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 <!-- end list -->
 
   -
-    担任[贝司手](../Page/贝司手.md "wikilink")（2015年－），1969年12月25日生于福岡県。
+    担任[贝司手](https://zh.wikipedia.org/wiki/贝司手 "wikilink")（2015年－），1969年12月25日生于福岡県。
 
 ### 已离开成员
 
@@ -49,12 +49,12 @@ Pillows**是一个于1989年组成的日本的[摇滚乐队](../Page/摇滚.md "
 
 ### 已离开支援成员
 
-  - [鹿島達也](../Page/鹿島達也.md "wikilink")
+  - [鹿島達也](https://zh.wikipedia.org/wiki/鹿島達也 "wikilink")
 
 <!-- end list -->
 
   -
-    担任贝司手（1994年－1999年），1962年8月20日生于[东京都](../Page/东京都.md "wikilink")。
+    担任贝司手（1994年－1999年），1962年8月20日生于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")。
 
 <!-- end list -->
 

@@ -1,20 +1,21 @@
-**vz. 59**（[捷克語](../Page/捷克語.md "wikilink")：又名UK
-59）是[捷克斯洛伐克在](../Page/捷克斯洛伐克.md "wikilink")1959年將vz.52型輕機槍加以改良並大型化後開始生產的[通用機槍](../Page/通用機槍.md "wikilink")。
+**vz. 59**（[捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink")：又名UK
+59）是[捷克斯洛伐克在](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")1959年將vz.52型輕機槍加以改良並大型化後開始生產的[通用機槍](../Page/通用機槍.md "wikilink")。
 
 ## 設計及歷史
 
 vz.
-59是[捷克斯洛伐克在](../Page/捷克斯洛伐克.md "wikilink")1959年開始生產並加以裝備成為軍方制式機槍，並在1960年代時取代當時口徑為7.62×45
+59是[捷克斯洛伐克在](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")1959年開始生產並加以裝備成為軍方制式機槍，並在1960年代時取代當時口徑為7.62×45
 Czhech的[vz.
-52及](../Page/vz._52/57.md "wikilink")[7.62×39毫米的](../Page/7.62×39mm.md "wikilink")[vz.
-52/57通用機槍](../Page/vz._52/57.md "wikilink")\[1\]，以使用7.62×54R的大口徑華沙制式彈藥。在捷克斯洛伐克解體後，捷克陸軍直至現在仍有裝備，阿富汗聯軍亦有採用。
+52及](https://zh.wikipedia.org/wiki/vz._52/57 "wikilink")[7.62×39毫米的](../Page/7.62×39mm.md "wikilink")[vz.
+52/57通用機槍](https://zh.wikipedia.org/wiki/vz._52/57 "wikilink")\[1\]，以使用7.62×54R的大口徑華沙制式彈藥。在捷克斯洛伐克解體後，捷克陸軍直至現在仍有裝備，阿富汗聯軍亦有採用。
 
 vz.
-59採用導氣式設計、開放式槍機，而其槍機容納部下方的握柄同時具有槍機拉柄的功能，只要移動此握柄，便可讓槍機上膛。彈鏈從[機匣右面供彈](../Page/機匣.md "wikilink")，輕型機槍模式時配用輕槍管、[兩腳架及](../Page/兩腳架.md "wikilink")50發連結式金屬彈鏈裝的發箱，而中型機槍模式時會配用重槍管、250發彈鏈及三腳架。
+59採用導氣式設計、開放式槍機，而其槍機容納部下方的握柄同時具有槍機拉柄的功能，只要移動此握柄，便可讓槍機上膛。彈鏈從[機匣右面供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")，輕型機槍模式時配用輕槍管、[兩腳架及](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")50發連結式金屬彈鏈裝的發箱，而中型機槍模式時會配用重槍管、250發彈鏈及三腳架。
 
 ## 型號
 
-  - vz. 59 - 原型版本，發射[7.62×54毫米口徑彈藥](../Page/7.62×54R子彈.md "wikilink")。
+  - vz. 59 -
+    原型版本，發射[7.62×54毫米口徑彈藥](https://zh.wikipedia.org/wiki/7.62×54R子彈 "wikilink")。
   - vz. 59L - 輕槍管版本，口徑相同。
   - vz. 59T - vz. 59的同軸機槍版本，口徑相同，附有螺形線圈。
   - vz. 59N（又名cz. 68）-
@@ -38,7 +39,7 @@ vz.
 
   - [PK通用機槍](../Page/PK通用機槍.md "wikilink")
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")
-  - [67式機槍](../Page/67式機槍.md "wikilink")
+  - [67式機槍](https://zh.wikipedia.org/wiki/67式機槍 "wikilink")
 
 ## 參見
 

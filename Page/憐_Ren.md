@@ -1,5 +1,5 @@
 《**憐
-Ren**》是[水口敬文撰寫](../Page/水口敬文.md "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")，由[角川Sneaker文庫出版](../Page/角川Sneaker文庫.md "wikilink")，中文版則由[台灣角川出版發行](../Page/台灣角川.md "wikilink")。
+Ren**》是[水口敬文撰寫](https://zh.wikipedia.org/wiki/水口敬文 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")，由[角川Sneaker文庫出版](../Page/角川Sneaker文庫.md "wikilink")，中文版則由[台灣角川出版發行](../Page/台灣角川.md "wikilink")。
 
 本作為第九屆[Sneaker大賞獎勵賞得獎作品](../Page/Sneaker大賞.md "wikilink")，投稿時的標題為《》。
 
@@ -90,22 +90,22 @@ Ren**》是[水口敬文撰寫](../Page/水口敬文.md "wikilink")、負責插�
 
 ### 工作人員
 
-  - 劇本：[尾上史高](../Page/尾上史高.md "wikilink")
-  - 導演：[堀偵一](../Page/堀偵一.md "wikilink")
-  - 企劃：[井戶剛](../Page/井戶剛.md "wikilink")／[岩瀨貞行](../Page/岩瀨貞行.md "wikilink")
+  - 劇本：[尾上史高](https://zh.wikipedia.org/wiki/尾上史高 "wikilink")
+  - 導演：[堀偵一](https://zh.wikipedia.org/wiki/堀偵一 "wikilink")
+  - 企劃：[井戶剛](https://zh.wikipedia.org/wiki/井戶剛 "wikilink")／[岩瀨貞行](https://zh.wikipedia.org/wiki/岩瀨貞行 "wikilink")
   - 製作：
 
 ### 演員
 
-  - 朝槻憐：[岡本玲](../Page/岡本玲.md "wikilink")
-  - 鳴瀨玲人：[馬場徹](../Page/馬場徹.md "wikilink")
-  - 七緒修司：[中山麻聖](../Page/中山麻聖.md "wikilink")
+  - 朝槻憐：[岡本玲](https://zh.wikipedia.org/wiki/岡本玲 "wikilink")
+  - 鳴瀨玲人：[馬場徹](https://zh.wikipedia.org/wiki/馬場徹 "wikilink")
+  - 七緒修司：[中山麻聖](https://zh.wikipedia.org/wiki/中山麻聖 "wikilink")
   - 上原朋香：[鈴木霞](../Page/鈴木霞.md "wikilink")
-  - 江之森仁美：[齋藤夢愛](../Page/齋藤夢愛.md "wikilink")
-  - 和久井和彦：[千葉惠佑](../Page/千葉惠佑.md "wikilink")
-  - 草島五朗：[Lee.](../Page/Lee..md "wikilink")
-  - 朝槻里子：[宮下順子](../Page/宮下順子.md "wikilink")
-  - マリ：[金子りえ](../Page/金子りえ.md "wikilink")
+  - 江之森仁美：[齋藤夢愛](https://zh.wikipedia.org/wiki/齋藤夢愛 "wikilink")
+  - 和久井和彦：[千葉惠佑](https://zh.wikipedia.org/wiki/千葉惠佑 "wikilink")
+  - 草島五朗：[Lee.](https://zh.wikipedia.org/wiki/Lee. "wikilink")
+  - 朝槻里子：[宮下順子](https://zh.wikipedia.org/wiki/宮下順子 "wikilink")
+  - マリ：[金子りえ](https://zh.wikipedia.org/wiki/金子りえ "wikilink")
 
 ### 主題曲
 

@@ -1,8 +1,8 @@
 **rhythm
-zone**是[愛貝克思](../Page/愛貝克思.md "wikilink")[音樂廠牌之一](../Page/音樂廠牌.md "wikilink")。1999年成立。音樂風格以[節奏藍調與](../Page/節奏藍調.md "wikilink")[嘻哈音樂為主](../Page/嘻哈音樂.md "wikilink")。所屬藝人有[放浪兄弟](../Page/放浪兄弟.md "wikilink")、[倖田來未](../Page/倖田來未.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[隕-浮流](../Page/隕-浮流.md "wikilink")（m-flo）等等。
+zone**是[愛貝克思](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[音樂廠牌之一](https://zh.wikipedia.org/wiki/音樂廠牌 "wikilink")。1999年成立。音樂風格以[節奏藍調與](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[嘻哈音樂為主](../Page/嘻哈音樂.md "wikilink")。所屬藝人有[放浪兄弟](../Page/放浪兄弟.md "wikilink")、[倖田來未](../Page/倖田來未.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[隕-浮流](https://zh.wikipedia.org/wiki/隕-浮流 "wikilink")（m-flo）等等。
 
 2006年，由於[RYO the
-SKYWALKER的加入](../Page/RYO_the_SKYWALKER.md "wikilink")，rhythm
+SKYWALKER的加入](https://zh.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink")，rhythm
 zone設立了專門發行雷鬼音樂的衍生廠牌**RIDDIM ZONE**。
 
 ## 旗下藝人
@@ -16,14 +16,14 @@ zone設立了專門發行雷鬼音樂的衍生廠牌**RIDDIM ZONE**。
   - BRIGHT
   - Caravan
   - dorlis
-  - [Dream](../Page/Dream.md "wikilink")
+  - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")
   - EMMA
   - [EXILE](../Page/放浪兄弟.md "wikilink")（放浪兄弟）
   - Giant Swing
   - 施鐘泰(JONTE)
   - LISA
   - MASAYA
-  - [m-flo](../Page/m-flo.md "wikilink")（[隕浮流](../Page/隕浮流.md "wikilink")）
+  - [m-flo](https://zh.wikipedia.org/wiki/m-flo "wikilink")（[隕浮流](https://zh.wikipedia.org/wiki/隕浮流 "wikilink")）
   - May J.
   - MICRON' STUFF
   - MINI☆BOX
@@ -38,7 +38,8 @@ zone設立了專門發行雷鬼音樂的衍生廠牌**RIDDIM ZONE**。
   - [Super Junior](../Page/Super_Junior.md "wikilink")
   - THE CHILL
   - The Phanky Okstra
-  - [THE SECOND from EXILE](../Page/THE_SECOND_from_EXILE.md "wikilink")
+  - [THE SECOND from
+    EXILE](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")
   - twenty4-7
   - Warp-generation
       - NEVER LAND

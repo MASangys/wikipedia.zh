@@ -7,10 +7,10 @@
 Being），200年前（22世紀初）由科學家——伊歐利亞·修罕貝克創立的私設武裝組織，其理念是「使用武力根絕戰爭」。擁有多台以獨有技術開發而成的MS——「GUNDAM」。
 [Celestial_being_logo.jpg](https://zh.wikipedia.org/wiki/File:Celestial_being_logo.jpg "fig:Celestial_being_logo.jpg")
 
-在[拉格朗日點](../Page/拉格朗日點.md "wikilink")3的地方有著一個殖民地，名稱為「天都」。
+在[拉格朗日點](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")3的地方有著一個殖民地，名稱為「天都」。
 
 天人的組織系統龐大，除了有無數個科學家為天人進行研發工作（據動畫第一季日本JNN報社的報導），也有無數個大財團為其提供龐大的資金（如軌道電梯公司、科納家、王家的財團等等），所以才能發展成如此規模龐大的私設武裝組織。
-整個組織則是由一台名為「Veda」（[-{Veda}-](../Page/吠陀.md "wikilink")，梵語「知識、啟示」之意）的量子型演算處理系統的[超級電腦領導](../Page/超級電腦.md "wikilink")。根據官方外傳Gundam
+整個組織則是由一台名為「Veda」（[-{Veda}-](../Page/吠陀.md "wikilink")，梵語「知識、啟示」之意）的量子型演算處理系統的[超級電腦領導](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。根據官方外傳Gundam
 00F中的描述，天人組織的運作是由Veda直接給予眾部門指示，其中包括實際行動部隊如托勒密、座天使、還有座天使部隊，另外還有王留美所在的支援部隊，其中包括情報、福利（負責照顧天上人工作人員及其家屬和提供醫療服務等等）、以及技術研發部門。除此之外，Veda還會親自指派「變革體」來收集世界各地的資訊，也會指派其中某部分的變革體作為GUNDAM駕駛員，像是「里朋斯·阿爾馬克」、「提耶利亞·厄德」等人。然而組織裡唯一能夠與Veda的命令抗衡的就是監視者如「亞歷漢卓·科納」和「拉古納·哈維」等人，雖然他們權力很大能夠否決Veda的命令，但卻無法指揮托勒密和其他支援部隊。因此他們透過自己的力量創立了「座天使部隊」，表面上是和托勒密一樣接受吠陀的指令，但其實私底下其實是遵照「亞歷漢卓·科納」和「拉古納·哈維」等人的命令行事。
 
 天人的創建者「伊歐利亞·修罕貝克」的最終目的就是希望能夠靠「天人」的力量在矛盾中讓世界大統，就算是犧牲也必須實現人類意志的統一。原因是為了防止人類懷著紛爭的火種進入外太空，這樣才能夠和平的與宇宙中的其他種族接觸。因此人類必須互相了解，透過GN粒子讓人們的意識擴張並且促進腦量子波進化，也能使人們細胞和各項體能強化，讓人類能夠進化成為新的種族－「變革者」。
@@ -23,35 +23,35 @@ Being），200年前（22世紀初）由科學家——伊歐利亞·修罕貝�
 
 在2314年復活，並且以三台GUNDAM（獵犬高達，特殊突襲型基路迪高達和屠龍聖劍型艾里昂斯高達）作為主力MS，而每台GUNDAM都在不同環境下使用，如此安排是因為高達在地球聯邦嚴密地監視軌道電梯下無法進行移動。
 
-<span style="font-size:smaller;">英文原名「Fereshte」在[波斯語中有](../Page/波斯語.md "wikilink")「天使」之意。</span>
+<span style="font-size:smaller;">英文原名「Fereshte」在[波斯語中有](https://zh.wikipedia.org/wiki/波斯語 "wikilink")「天使」之意。</span>
 
 ### 天使宮
 
 天使宮（Krung Thep，又譯作「天城」）\[1\]，機動戰士GUNDAM
 00P中登場，是天上人在拉格朗日點3設立的殖民地。在00P主篇第二季中被破壞。
 
-為了測試GUNDAM，連[人工湖都有](../Page/人工湖.md "wikilink")，但仍比不上地球的環境。
+為了測試GUNDAM，連[人工湖都有](https://zh.wikipedia.org/wiki/人工湖 "wikilink")，但仍比不上地球的環境。
 
 表面上的建造理由是為了建造地球環境中無法製造的特殊材料，而建造者是天人的一名華裔探員。
 
 <span style="font-size:smaller;">英文原名「Krung
-Thep」，是[泰國城市](../Page/泰國.md "wikilink")[曼谷的全名開頭兩字](../Page/曼谷.md "wikilink")，意為「天使之城」。</span>
+Thep」，是[泰國城市](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷的全名開頭兩字](../Page/曼谷.md "wikilink")，意為「天使之城」。</span>
 
 ## 太陽能與自由國家聯合
 
 太陽能與自由國家聯合（Union of Solar Energy and Free
-Nations，又稱「世界經濟聯合」，簡稱「聯合」、「Union」），以[美國為主導的](../Page/美國.md "wikilink")[自由民主國家群](../Page/民主.md "wikilink")，參加國單[南美洲及](../Page/南美洲.md "wikilink")[大洋洲為中心就超過](../Page/大洋洲.md "wikilink")50個，[日本也作為經濟特區加入其中](../Page/日本.md "wikilink")。
+Nations，又稱「世界經濟聯合」，簡稱「聯合」、「Union」），以[美國為主導的](https://zh.wikipedia.org/wiki/美國 "wikilink")[自由民主國家群](../Page/民主.md "wikilink")，參加國單[南美洲及](../Page/南美洲.md "wikilink")[大洋洲為中心就超過](../Page/大洋洲.md "wikilink")50個，[日本也作為經濟特區加入其中](../Page/日本.md "wikilink")。
 
 經濟、軍事力量凌駕於人革聯、AEU，因此軌道電梯也最早完成，領導Union的美國甚至以「世界警察」自居並介入其他國家的紛爭。
 
 最初對於天上人是靜觀其變的態度，但後來為了改善與塔利比亞共和國的關係而利用了他們。另外，在MSWAD內設立了GUNDAM調查隊，專門負責對抗GUNDAM。
 
-Union的軌道電梯坐落於南美洲的-{[亞馬遜河](../Page/亞馬遜河.md "wikilink")}-上游附近。
+Union的軌道電梯坐落於南美洲的-{[亞馬遜河](https://zh.wikipedia.org/wiki/亞馬遜河 "wikilink")}-上游附近。
 
 ### 經濟特區·日本
 
 經濟特區·日本（Special Economic Zone
-Japan），在Union下發展的[經濟特區](../Page/經濟特區.md "wikilink")。
+Japan），在Union下發展的[經濟特區](https://zh.wikipedia.org/wiki/經濟特區 "wikilink")。
 
 由於距離人革聯很近，所以有作為「經濟特區」的地域特性，和人革聯以及AEU的交流和招商等商業活動都在繁盛地進行。
 
@@ -73,7 +73,7 @@ Taribia），位於[南美洲北部且隸屬於Union的國家](../Page/南美洲
 該國的領土內有種植大規模的[大麻](../Page/大麻.md "wikilink")，因此被天上人認定為戰亂根源而派遣[GN-003
 主天使GUNDAM將大麻燃燒殆盡](../Page/GN-003_主天使GUNDAM.md "wikilink")。
 
-曾在第一季第四話從Union中[獨立出來](../Page/獨立.md "wikilink")，但因利用天上人的攻擊，在第一季第五話與Union和解，重新成為Union的國家成員，亦取得國民對美國的認同。
+曾在第一季第四話從Union中[獨立出來](https://zh.wikipedia.org/wiki/獨立 "wikilink")，但因利用天上人的攻擊，在第一季第五話與Union和解，重新成為Union的國家成員，亦取得國民對美國的認同。
 
 ### 軍隊
 
@@ -99,23 +99,23 @@ Squad），是Union為了對天上人的高機動性能MS——「GUNDAM」的�
 #### 艾莉絲公司
 
 艾莉絲公司（Iris
-Company），位於聯合的[美國](../Page/美國.md "wikilink")[愛荷華州的民間軍火公司](../Page/愛荷華州.md "wikilink")，工作的都是平民。
+Company），位於聯合的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[愛荷華州的民間軍火公司](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")，工作的都是平民。
 
 旗幟式的線性步槍就是艾利斯公司開發的。
 
 在[GNW-001
-座天使GUNDAM一型的武力介入中受到了嚴重的損害](../Page/GNW-001_座天使GUNDAM一型.md "wikilink")，死傷者超過800人。
+座天使GUNDAM一型的武力介入中受到了嚴重的損害](https://zh.wikipedia.org/wiki/GNW-001_座天使GUNDAM一型 "wikilink")，死傷者超過800人。
 
 ## 人類革新聯盟
 
 人類革新聯盟（Human Reform
-League，簡稱「人革聯」），西元2297年創立，是以亞洲的國家群為中心組成的組織，國內實行[全民皆兵制度](../Page/國民經濟軍事化.md "wikilink")。國家包括有[中國](../Page/中國.md "wikilink")、[俄羅斯等舊](../Page/俄羅斯.md "wikilink")[共產國家](../Page/共產.md "wikilink")、[孟加拉](../Page/孟加拉.md "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊爾](../Page/尼泊爾.md "wikilink")、[不丹](../Page/不丹.md "wikilink")、部分[中亞國家](../Page/中亞.md "wikilink")（除了[阿富汗和](../Page/阿富汗.md "wikilink")[巴基斯坦](../Page/巴基斯坦.md "wikilink")）、[蒙古](../Page/蒙古.md "wikilink")、[東南亞國協成員國](../Page/東南亞國協.md "wikilink")、[東帝汶](../Page/東帝汶.md "wikilink")、[巴布亞新幾內亞](../Page/巴布亞新幾內亞.md "wikilink")、[朝鮮半島](../Page/朝鮮半島.md "wikilink")、[台澎金马等地區](../Page/台澎金马.md "wikilink")。\[2\]
+League，簡稱「人革聯」），西元2297年創立，是以亞洲的國家群為中心組成的組織，國內實行[全民皆兵制度](https://zh.wikipedia.org/wiki/國民經濟軍事化 "wikilink")。國家包括有[中國](../Page/中國.md "wikilink")、[俄羅斯等舊](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[共產國家](https://zh.wikipedia.org/wiki/共產 "wikilink")、[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")、[印度](../Page/印度.md "wikilink")、[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")、[不丹](../Page/不丹.md "wikilink")、部分[中亞國家](https://zh.wikipedia.org/wiki/中亞 "wikilink")（除了[阿富汗和](../Page/阿富汗.md "wikilink")[巴基斯坦](../Page/巴基斯坦.md "wikilink")）、[蒙古](https://zh.wikipedia.org/wiki/蒙古 "wikilink")、[東南亞國協成員國](https://zh.wikipedia.org/wiki/東南亞國協 "wikilink")、[東帝汶](https://zh.wikipedia.org/wiki/東帝汶 "wikilink")、[巴布亞新幾內亞](https://zh.wikipedia.org/wiki/巴布亞新幾內亞 "wikilink")、[朝鮮半島](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")、[台澎金马等地區](https://zh.wikipedia.org/wiki/台澎金马 "wikilink")。\[2\]
 
 組織是以建設軌道電梯為目的而組成，軌道電梯完成的時間較Union略晚，但太陽能也在十年前開始供應地面需求（第一季第一話於靜止軌道的慶祝會即為慶祝天梯正式發電十週年）。
 
 對Union抱有強烈的競爭心，對技術落後於Union而感到焦慮，因此熱衷於計畫捕獲GUNDAM。
 
-人革聯的軌道電梯建立在[所羅門群島北邊](../Page/所羅門群島.md "wikilink")。
+人革聯的軌道電梯建立在[所羅門群島北邊](https://zh.wikipedia.org/wiki/所羅門群島 "wikilink")。
 
 ### 軍隊
 
@@ -142,9 +142,9 @@ League，簡稱「人革聯」），西元2297年創立，是以亞洲的國家�
 ## 新歐洲共同體
 
 新歐洲共同體（Advanced European
-Union，簡稱「AEU」），是以[歐盟為母體](../Page/歐盟.md "wikilink")，以加強發展和合作為目標而組成的組織。會員國除了[歐洲地區及](../Page/歐洲.md "wikilink")[格陵蘭](../Page/格陵蘭.md "wikilink")、從[俄羅斯獨立出來的](../Page/俄羅斯.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")（即[俄國](../Page/俄國.md "wikilink")[烏拉爾山脈與](../Page/烏拉爾山脈.md "wikilink")[高加索山脈之間的地區](../Page/高加索山脈.md "wikilink")）加入之外，實際上也支配了[非洲](../Page/非洲.md "wikilink")。
+Union，簡稱「AEU」），是以[歐盟為母體](https://zh.wikipedia.org/wiki/歐盟 "wikilink")，以加強發展和合作為目標而組成的組織。會員國除了[歐洲地區及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[格陵蘭](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")、從[俄羅斯獨立出來的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")（即[俄國](https://zh.wikipedia.org/wiki/俄國 "wikilink")[烏拉爾山脈與](https://zh.wikipedia.org/wiki/烏拉爾山脈 "wikilink")[高加索山脈之間的地區](https://zh.wikipedia.org/wiki/高加索山脈 "wikilink")）加入之外，實際上也支配了[非洲](../Page/非洲.md "wikilink")。
 
-與[中央集權的Union總統](../Page/中央集權.md "wikilink")、人革聯[國家主席相比](../Page/國家主席.md "wikilink")，AEU是採用五大國（[英國](../Page/英國.md "wikilink")、[法國](../Page/法國.md "wikilink")、[德國](../Page/德國.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[義大利](../Page/義大利.md "wikilink")）聯合，發言權等同的議會制度。
+與[中央集權的Union總統](https://zh.wikipedia.org/wiki/中央集權 "wikilink")、人革聯[國家主席相比](https://zh.wikipedia.org/wiki/國家主席 "wikilink")，AEU是採用五大國（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")）聯合，發言權等同的議會制度。
 
 AEU的軌道電梯建立在[非洲的](../Page/非洲.md "wikilink")[維多利亞湖西方](../Page/維多利亞湖.md "wikilink")，但是尚未完工，因此在政治、經濟等影響力皆劣於Union及人革聯。
 
@@ -154,25 +154,25 @@ AEU的軌道電梯建立在[非洲的](../Page/非洲.md "wikilink")[維多利�
 
 摩拉利亞共和國（Republic of Moralia），第一季第六話首次登場。
 
-位於歐洲南部的一個國家（其地理位置相當於[摩納哥](../Page/摩納哥.md "wikilink")），以軍需產業為[經濟命脈](../Page/經濟.md "wikilink")，是民營軍事企業PMC
+位於歐洲南部的一個國家（其地理位置相當於[摩納哥](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")），以軍需產業為[經濟命脈](https://zh.wikipedia.org/wiki/經濟 "wikilink")，是民營軍事企業PMC
 Trust的基地。
 
 在其軍事演習期間，被天上人認定為戰亂根源，並派遣四架GUNDAM進行破壞。
 
 ## 聯合國
 
-[聯合國](../Page/聯合國.md "wikilink")（United
+[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")（United
 Nations），20世紀成立的組織聯合國目前依然存在，但已經無力遏止戰爭，只能充當類似於救援機構的角色\[3\]。
 
 原為天上人效力的特使亞歷漢卓·科納為聯合國的代表，而到了最後亞歷漢卓就以聯合國所開發的MS-[GNX-603T
-厄運式反過來對付天上人](../Page/GNX-603T_厄運式.md "wikilink")。
+厄運式反過來對付天上人](https://zh.wikipedia.org/wiki/GNX-603T_厄運式 "wikilink")。
 
 ### 國聯軍（United Nations Force）
 
 在天人部隊武力介入的中期，在人革聯的推動下，聯合、人革聯與AEU在中國境內的塔克拉瑪干沙漠舉行三軍聯合軍事演習，雖以演習為名，實質是俘獲高達作戰，而三大國家都出動大規模的軍隊。雖然是失敗收場，但聯合、人革聯與AEU首次合作，背後意義重大，其實已成為國聯軍的雛型。
 
 其後天人部隊武力介入的末期，天上人監視者亞歷漢卓·科納的策劃下，將30台擬似太陽爐搭載型MS：[GNX-603T
-厄運式](../Page/GNX-603T_厄運式.md "wikilink")（GN-X）分配給聯合、人革聯與AEU。然後三國組成一支聯軍，分別在地球、宇宙進行殲滅高達作戰，而部隊的特色是成員全都是聯合、人革聯與AEU的精英，戰績比起以往採用的舊世代機體戰鬥效果較為完美，幾乎令天人部隊陷入絕境（雖然國聯軍的損失也不輕），而國聯軍可以說是地球聯邦軍的前身。
+厄運式](https://zh.wikipedia.org/wiki/GNX-603T_厄運式 "wikilink")（GN-X）分配給聯合、人革聯與AEU。然後三國組成一支聯軍，分別在地球、宇宙進行殲滅高達作戰，而部隊的特色是成員全都是聯合、人革聯與AEU的精英，戰績比起以往採用的舊世代機體戰鬥效果較為完美，幾乎令天人部隊陷入絕境（雖然國聯軍的損失也不輕），而國聯軍可以說是地球聯邦軍的前身。
 
 ### 地球聯邦/地球聯邦軍
 
@@ -185,7 +185,7 @@ Federation），於動畫第二季開始前所成立的新組織，為聯合、�
 
 在獨立維持治安部隊A-Laws被收回軍權後，地球聯邦軍重新建立，停止以高壓政策打擊反聯邦勢力，並以融和政策作為管治方針。
 
-在其後對ELS之戰時，地球聯邦軍投入所有可以調動的軍力在宇宙設置【絕對防衛線】阻止ELS入侵，【絕對防衛線】指揮官是地球聯邦軍是卡蒂·馬涅欽准將。並且和天上人共同合作保衞[地球與](../Page/地球.md "wikilink")[人類的宇宙最終戰爭](../Page/人類.md "wikilink")，對抗企圖霸佔地球與毀滅人類的未知物體－[ELS](../Page/ELS.md "wikilink")（Extraterrestrial
+在其後對ELS之戰時，地球聯邦軍投入所有可以調動的軍力在宇宙設置【絕對防衛線】阻止ELS入侵，【絕對防衛線】指揮官是地球聯邦軍是卡蒂·馬涅欽准將。並且和天上人共同合作保衞[地球與](../Page/地球.md "wikilink")[人類的宇宙最終戰爭](../Page/人類.md "wikilink")，對抗企圖霸佔地球與毀滅人類的未知物體－[ELS](https://zh.wikipedia.org/wiki/ELS "wikilink")（Extraterrestrial
 Livingmetal
 Shapeshifter）。但由於地球聯邦軍數目上不及ELS，其後在抗戰末期，【絕對防衛線】面臨崩潰之際（地球聯邦軍已損失大約75％的戰力），天上人鋼彈尖兵剎那·F·塞耶成功與ELS進行對話，ELS停止入侵，並且ELS變成一朵[花狀物體](../Page/花.md "wikilink")，ELS戰爭結束，地球的危機解除。
 
@@ -197,7 +197,7 @@ Shapeshifter）。但由於地球聯邦軍數目上不及ELS，其後在抗戰�
 Squadron）是地球聯邦軍的特務部隊，隊長為Union的葛拉漢·耶卡少校。
 
 有6名駕駛員，而他們大多來自Union或AEU。部隊特色是機體是採用比性能厄運式IV高的MS－[GNX-Y903
-勇者式](../Page/GNX-Y903VS_勇者式一般用試驗機.md "wikilink")。
+勇者式](https://zh.wikipedia.org/wiki/GNX-Y903VS_勇者式一般用試驗機 "wikilink")。
 
 他們所駕駛的座機是GNX-Y903VS勇者式一般用試驗機，而葛拉漢所駕駛的座機是GNX-Y903VW勇者式指揮官用試驗機。
 
@@ -227,11 +227,11 @@ Katharon擁有獨自的資訊傳輸管道，能夠突破地球聯邦對中東地
 
 Katharon與天上人的第一個交集就是**萊爾·狄蘭迪**（洛克昂的後繼者，原先是Katharon成員），其代號是Gene 1。
 
-另外，此組織名稱「Katharon」在[希臘語有](../Page/希臘語.md "wikilink")「純真」之意。
+另外，此組織名稱「Katharon」在[希臘語有](https://zh.wikipedia.org/wiki/希臘語 "wikilink")「純真」之意。
 
 ## 變革者
 
-變革者（Innovator），為數名疑似[人造人組成的組織](../Page/人造人.md "wikilink")，創立者為里朋斯·阿爾馬克。變革者成員能像提耶利亞一樣有與Veda直接對連的能力，並且能與其他變革者成員利用腦量子於腦中直接溝通。
+變革者（Innovator），為數名疑似[人造人組成的組織](https://zh.wikipedia.org/wiki/人造人 "wikilink")，創立者為里朋斯·阿爾馬克。變革者成員能像提耶利亞一樣有與Veda直接對連的能力，並且能與其他變革者成員利用腦量子於腦中直接溝通。
 
 自稱是忠實執行伊奥利亞·舒恩伯格的三階段計畫：
 
@@ -253,11 +253,11 @@ Katharon與天上人的第一個交集就是**萊爾·狄蘭迪**（洛克昂的
 ### 阿札迪斯坦王國
 
 阿札迪斯坦王國（Kingdom of
-Azadistan），是2301年吸收鄰國庫爾吉斯共和國，統合而成的中東新興國家（現實中的位置接近[伊朗](../Page/伊朗.md "wikilink")，名稱來自19世紀波斯自由運動時期建立的短暫政權「Azadistan」，波斯語意為「自由之地」。）
+Azadistan），是2301年吸收鄰國庫爾吉斯共和國，統合而成的中東新興國家（現實中的位置接近[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，名稱來自19世紀波斯自由運動時期建立的短暫政權「Azadistan」，波斯語意為「自由之地」。）
 
 以前中東各國藉由[石油輸出取得了龐大的利益](../Page/石油.md "wikilink")，隨著軌道電梯的興建，石油能源被取代，整個地區的經濟形勢嚴重惡化。阿札迪斯坦王國不僅受這種風潮影響，且由於以前沒有參與軌道電梯建造計劃，因此沒有取得太陽能的供給權。為了解決經濟危機與能源枯竭，以國民推崇的第一公主瑪莉娜·伊士麥為代表，以重建國家為首要目標。
 
-國家內分為「[保守派](../Page/保守派.md "wikilink")」和「[改革派](../Page/改革派.md "wikilink")」兩大派系，由於意見不合而經常發生紛爭，使整個國家瀕臨解體。
+國家內分為「[保守派](https://zh.wikipedia.org/wiki/保守派 "wikilink")」和「[改革派](https://zh.wikipedia.org/wiki/改革派 "wikilink")」兩大派系，由於意見不合而經常發生紛爭，使整個國家瀕臨解體。
 
 軍事技術嚴重落後，主力MS為人革聯的舊型機種「長鼻式」。
 
@@ -286,7 +286,7 @@ Azadistan），是2301年吸收鄰國庫爾吉斯共和國，統合而成的中�
 ### 里切拉王國
 
 里切拉王國（Kingdom of
-Richiera），中東國家之一，其軍事基地旁有著百萬人規模的[難民營](../Page/難民營.md "wikilink")。
+Richiera），中東國家之一，其軍事基地旁有著百萬人規模的[難民營](https://zh.wikipedia.org/wiki/難民營 "wikilink")。
 
 2312年時，在里切拉王國的軍事基地被地球聯邦的衛星兵器「死兆砲」選定為第二個攻擊目標後，難民們只見到光束從天而降，在一眨眼之間，包含老弱婦孺在內的一百萬難民們都在高熱下被燒成了焦炭。
 
@@ -294,15 +294,15 @@ Richiera），中東國家之一，其軍事基地旁有著百萬人規模的[�
 
 ### 真愛爾蘭共和軍
 
-亦即現實武裝組織[愛爾蘭共和軍](../Page/愛爾蘭共和軍.md "wikilink")（Real
-IRA），於[北愛爾蘭發動恐怖襲擊](../Page/北愛爾蘭.md "wikilink")。
+亦即現實武裝組織[愛爾蘭共和軍](https://zh.wikipedia.org/wiki/愛爾蘭共和軍 "wikilink")（Real
+IRA），於[北愛爾蘭發動恐怖襲擊](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink")。
 
 故事中該組織因害怕天上人的介入，於2307年宣佈無條件投降。
 
 ### PMC Trust
 
 民營軍事企業（Private Military
-Company），主要負責派遣[傭兵](../Page/僱傭兵.md "wikilink")、培養[士兵](../Page/軍人.md "wikilink")、[軍隊維護](../Page/武裝力量.md "wikilink")、[兵器運輸以及兵器開發](../Page/武器.md "wikilink")，以商業形式接受委託。
+Company），主要負責派遣[傭兵](../Page/僱傭兵.md "wikilink")、培養[士兵](https://zh.wikipedia.org/wiki/軍人 "wikilink")、[軍隊維護](https://zh.wikipedia.org/wiki/武裝力量 "wikilink")、[兵器運輸以及兵器開發](../Page/武器.md "wikilink")，以商業形式接受委託。
 
 本作中PMC Trust的基地位於摩拉利亞共和國──一個在2284年建國，人口只有18萬，卻有300萬外國勞動者居住的國家。
 
@@ -312,9 +312,10 @@ Company），主要負責派遣[傭兵](../Page/僱傭兵.md "wikilink")、培�
 
 ### La Edenra
 
-La Edenra，主要活動據點在歐洲的[恐怖組織](../Page/恐怖組織.md "wikilink")。
+La
+Edenra，主要活動據點在歐洲的[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")。
 
-為了阻止天上人介入各國的事務而在全球各大都市引發[恐怖攻擊事件](../Page/恐怖活動.md "wikilink")，但由於各國刻意的洩漏情報，因此隨即遭天上人殲滅。
+為了阻止天上人介入各國的事務而在全球各大都市引發[恐怖攻擊事件](https://zh.wikipedia.org/wiki/恐怖活動 "wikilink")，但由於各國刻意的洩漏情報，因此隨即遭天上人殲滅。
 
 ### KPSA
 
@@ -322,7 +323,7 @@ KPSA，由阿里·亞爾·沙瑟斯創立，成員大多來自戰亂中的國家
 
 剎那·F·塞耶以前是KPSA的游擊隊成員之一。
 
-KPSA在許多地區策動恐怖攻擊事件，例如在[愛爾蘭](../Page/愛爾蘭.md "wikilink")[都柏林的大規模自殺炸彈攻擊](../Page/都柏林.md "wikilink")，這次事件死傷人數破千，洛克昂·史特拉托斯的家人也在此事件中喪生。
+KPSA在許多地區策動恐怖攻擊事件，例如在[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林的大規模自殺炸彈攻擊](../Page/都柏林.md "wikilink")，這次事件死傷人數破千，洛克昂·史特拉托斯的家人也在此事件中喪生。
 
 在庫爾吉斯滅國後，KPSA解散。
 
@@ -332,8 +333,8 @@ KPSA在許多地區策動恐怖攻擊事件，例如在[愛爾蘭](../Page/愛�
 
   - [GUNDAM系列登場組織列表](../Page/GUNDAM系列登場組織列表.md "wikilink")
 
-[en:List_of_Mobile_Suit_Gundam_00_factions](../Page/en:List_of_Mobile_Suit_Gundam_00_factions.md "wikilink")
-[ja:機動戦士ガンダム00\#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.E3.83.BB.E7.B5.84.E7.B9.94](../Page/ja:機動戦士ガンダム00#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.E3.83.BB.E7.B5.84.E7.B9.94.md "wikilink")
+[en:List_of_Mobile_Suit_Gundam_00_factions](https://zh.wikipedia.org/wiki/en:List_of_Mobile_Suit_Gundam_00_factions "wikilink")
+[ja:機動戦士ガンダム00\#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.E3.83.BB.E7.B5.84.E7.B9.94](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00#.E7.99.BB.E5.A0.B4.E4.BA.BA.E7.89.A9.E3.83.BB.E7.B5.84.E7.B9.94 "wikilink")
 
 [Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink")
 [Category:GUNDAM組織](https://zh.wikipedia.org/wiki/Category:GUNDAM組織 "wikilink")

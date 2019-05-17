@@ -1,6 +1,6 @@
 **Mastercard
-Contactless**，前稱PayPass，是[万事达卡組織推出的非接觸式](../Page/万事达卡.md "wikilink")[信用卡及](../Page/信用卡.md "wikilink")[扣賬卡系統](../Page/扣賬卡.md "wikilink")，带有EMV芯片的非接觸式万事达信用卡及扣賬卡不必接觸刷卡機就可以完成交易。同類系統有[Visa
-payWave及](../Page/Visa_payWave.md "wikilink")[銀聯](../Page/銀聯.md "wikilink")[閃付](../Page/閃付.md "wikilink")。
+Contactless**，前稱PayPass，是[万事达卡組織推出的非接觸式](../Page/万事达卡.md "wikilink")[信用卡及](../Page/信用卡.md "wikilink")[扣賬卡系統](https://zh.wikipedia.org/wiki/扣賬卡 "wikilink")，带有EMV芯片的非接觸式万事达信用卡及扣賬卡不必接觸刷卡機就可以完成交易。同類系統有[Visa
+payWave及](../Page/Visa_payWave.md "wikilink")[銀聯](https://zh.wikipedia.org/wiki/銀聯 "wikilink")[閃付](https://zh.wikipedia.org/wiki/閃付 "wikilink")。
 
 ## 使用
 
@@ -76,7 +76,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="odd">
 <td></td>
 <td><p>大新ANA World萬事達卡</p></td>
-<td><p><a href="../Page/全日空.md" title="wikilink">全日空</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全日空" title="wikilink">全日空</a></p></td>
 <td></td>
 <td><p>*<a href="https://www.dahsing.com/html/tc/credit_card/card_products/co_brand/ana_card.html">5</a></p></td>
 <td></td>
@@ -108,7 +108,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="odd">
 <td></td>
 <td><p>tiramisu 信用卡</p></td>
-<td><p><a href="../Page/中國建設銀行（亞洲）.md" title="wikilink">中國建設銀行（亞洲）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="http://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tiramisu_credit_card.html">9</a></p></td>
@@ -149,7 +149,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <td></td>
 <td><p>中銀Esso萬事達白金卡</p></td>
 <td><p><a href="../Page/埃克森美孚.md" title="wikilink">埃克森美孚旗下</a><a href="../Page/加油站.md" title="wikilink">加油站</a></p>
-<p><a href="../Page/埃索.md" title="wikilink">埃索</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/埃索" title="wikilink">埃索</a></p></td>
 <td></td>
 <td><p><a href="https://www.boci.com.hk/chi/creditcard/boci_cc_sc_esso.html">14</a></p></td>
 <td></td>
@@ -157,7 +157,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="odd">
 <td></td>
 <td><p>東亞銀行i-Titanium卡</p></td>
-<td><p><a href="../Page/東亞銀行.md" title="wikilink">東亞銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東亞銀行" title="wikilink">東亞銀行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.hkbea.com/html/tc/bea-i-titanium-card.html">15</a></p></td>
@@ -285,7 +285,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="odd">
 <td></td>
 <td><p>香港中文大學信用卡</p></td>
-<td><p><a href="../Page/香港中文大學.md" title="wikilink">香港中文大學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港中文大學" title="wikilink">香港中文大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/chinese-university-card">31</a></p></td>
 <td></td>
@@ -373,7 +373,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <tr class="even">
 <td></td>
 <td><p>AEON Card JAL 萬事達卡</p></td>
-<td><p><a href="../Page/Aeon信貸.md" title="wikilink">Aeon信貸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/日本航空.md" title="wikilink">日本航空</a></p></td>
 <td></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure_aeon_card_jal_mastercard.html">42</a></p></td>
@@ -438,7 +438,7 @@ University)網上罪行及電腦保安中心發表報告，揭示感應式（非
 <td><p>2015年</p></td>
 <td><p><a href="../Page/拍住賞.md" title="wikilink">拍住賞MasterCard</a></p></td>
 <td><p>HKT Payment Limited <a href="../Page/香港電訊.md" title="wikilink">香港電訊</a></p></td>
-<td><p><a href="../Page/香港移動通訊.md" title="wikilink">香港移動通訊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港移動通訊" title="wikilink">香港移動通訊</a></p></td>
 <td><p>預付卡，儲值支付工具牌照號碼：SVF0002</p></td>
 <td><p>*<a href="https://www.tapngo.com.hk/chi/index.html">50</a></p></td>
 </tr>

@@ -1,6 +1,6 @@
 **Windows Movie Maker**（包括前稱**Windows Live Movie
-Maker**的版本；開發代碼為***Sundance***）[微軟](../Page/微軟.md "wikilink")[Windows
-Live開發的影片編輯軟體](../Page/Windows_Live.md "wikilink")，可以製作、編輯及分享家庭[影片](../Page/影片.md "wikilink")，並新增特殊效果、[音樂及](../Page/音樂.md "wikilink")[旁白](../Page/旁白.md "wikilink")，然後透過[網路](../Page/網路.md "wikilink")、[電子郵件或](../Page/電子郵件.md "wikilink")[CD分享您製作的電影](../Page/CD.md "wikilink")，對家庭用戶來說，這個入門級是簡單易學的。
+Maker**的版本；開發代碼為***Sundance***）[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
+Live開發的影片編輯軟體](../Page/Windows_Live.md "wikilink")，可以製作、編輯及分享家庭[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，並新增特殊效果、[音樂及](https://zh.wikipedia.org/wiki/音樂 "wikilink")[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")，然後透過[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")、[電子郵件或](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[CD分享您製作的電影](../Page/CD.md "wikilink")，對家庭用戶來說，這個入門級是簡單易學的。
 
 曾一度推出改名**Windows Live Movie Maker**的版本\[1\]。“Windows Live Movie
 Maker”於2008年9月17日在 Windows Live 系列 Wave 3 測試版發布。正式版本于2009年8月19正式推出。
@@ -14,7 +14,7 @@ XP安裝](../Page/Windows_XP.md "wikilink")\[2\]。
 ## 概要
 
 Windows Movie
-Maker可以將[音訊和](../Page/音訊.md "wikilink")[視訊從](../Page/視訊.md "wikilink")[數位攝影機擷取到電腦](../Page/數位攝影機.md "wikilink")，然後將所擷取的內容運用在電影中。除此之外，亦可以將現有的音訊、視訊或[圖片匯入至Windows](../Page/圖片.md "wikilink")
+Maker可以將[音訊和](https://zh.wikipedia.org/wiki/音訊 "wikilink")[視訊從](https://zh.wikipedia.org/wiki/視訊 "wikilink")[數位攝影機擷取到電腦](https://zh.wikipedia.org/wiki/數位攝影機 "wikilink")，然後將所擷取的內容運用在電影中。除此之外，亦可以將現有的音訊、視訊或[圖片匯入至Windows](https://zh.wikipedia.org/wiki/圖片 "wikilink")
 Movie Maker，以用於所建立的電影中。
 
 在Windows Movie
@@ -30,28 +30,28 @@ Maker中的集合窗格，卻使得其不再容易整理匯入的影片，且由
 
 [Windows_Movie_Maker_on_Vista.png](https://zh.wikipedia.org/wiki/File:Windows_Movie_Maker_on_Vista.png "fig:Windows_Movie_Maker_on_Vista.png")中的Windows
 Movie Maker\]\] Windows Movie Maker最初內置於[Windows
-ME](../Page/Windows_ME.md "wikilink")。其後，版本1.1內置在[Windows
+ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")。其後，版本1.1內置在[Windows
 XP](../Page/Windows_XP.md "wikilink")。2002年11月，Windows Movie
 Maker2.0版本發布並且增加了一些新的特點。2.1版本，包含一些小更新，內置於Windows XP Service Pack
 2。[Windows XP Media Center
-Edition](../Page/Windows_XP_Media_Center_Edition.md "wikilink")
+Edition](https://zh.wikipedia.org/wiki/Windows_XP_Media_Center_Edition "wikilink")
 2005內置了2.5版本。[Windows
 Vista中](../Page/Windows_Vista.md "wikilink")，Windows Movie
 Maker內置2.6版。
 
-|            |                                                                                                                                                       |                                                                                                                                            |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2000年      |                                                                                                                                                       | Windows Movie Maker 1.0內置[Windows Me](../Page/Windows_Me.md "wikilink")                                                                    |
-| 2001年      |                                                                                                                                                       | Windows Movie Maker 1.1內置[Windows XP](../Page/Windows_XP.md "wikilink")                                                                    |
-| 2002年      |                                                                                                                                                       | Windows Movie Maker 2.0執行於[Windows XP](../Page/Windows_XP.md "wikilink")                                                                   |
-| 2004年      | [Windows Movie Maker2.1](https://zh.wikipedia.org/wiki/File:Windows_Movie_Maker2.1.jpg "fig:Windows Movie Maker2.1")                                  | Windows Movie Maker 2.1內置[Windows XP](../Page/Windows_XP.md "wikilink") SP2                                                                |
-| 2004年      |                                                                                                                                                       | Windows Movie Maker 2.5內置[Windows XP Media Center Edition](../Page/Windows_XP_Media_Center_Edition.md "wikilink") 2005                     |
-| 2006年      |                                                                                                                                                       | Windows Movie Maker 2.6執行於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                             |
-| 2007年      | [Windows_Movie_Maker_icon.png](https://zh.wikipedia.org/wiki/File:Windows_Movie_Maker_icon.png "fig:Windows_Movie_Maker_icon.png")                 | Windows Movie Maker內置於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                                 |
-| 2008年9月17日 | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Live Movie Maker執行於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                            |
-| 2010年6月20日 | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Live Movie Maker 2011 (Wave 4)執行於[Windows Vista及](../Page/Windows_Vista.md "wikilink")[Windows 7](../Page/Windows_7.md "wikilink") |
-| 2012年8月7日  | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Movie Maker 2012 (Wave 5)執行於[Windows 7及](../Page/Windows_7.md "wikilink")[Windows 8](../Page/Windows_8.md "wikilink")              |
-|            |                                                                                                                                                       |                                                                                                                                            |
+|            |                                                                                                                                                       |                                                                                                                                                                     |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2000年      |                                                                                                                                                       | Windows Movie Maker 1.0內置[Windows Me](../Page/Windows_Me.md "wikilink")                                                                                             |
+| 2001年      |                                                                                                                                                       | Windows Movie Maker 1.1內置[Windows XP](../Page/Windows_XP.md "wikilink")                                                                                             |
+| 2002年      |                                                                                                                                                       | Windows Movie Maker 2.0執行於[Windows XP](../Page/Windows_XP.md "wikilink")                                                                                            |
+| 2004年      | [Windows Movie Maker2.1](https://zh.wikipedia.org/wiki/File:Windows_Movie_Maker2.1.jpg "fig:Windows Movie Maker2.1")                                  | Windows Movie Maker 2.1內置[Windows XP](../Page/Windows_XP.md "wikilink") SP2                                                                                         |
+| 2004年      |                                                                                                                                                       | Windows Movie Maker 2.5內置[Windows XP Media Center Edition](https://zh.wikipedia.org/wiki/Windows_XP_Media_Center_Edition "wikilink") 2005                           |
+| 2006年      |                                                                                                                                                       | Windows Movie Maker 2.6執行於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                                                      |
+| 2007年      | [Windows_Movie_Maker_icon.png](https://zh.wikipedia.org/wiki/File:Windows_Movie_Maker_icon.png "fig:Windows_Movie_Maker_icon.png")                 | Windows Movie Maker內置於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                                                          |
+| 2008年9月17日 | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Live Movie Maker執行於[Windows Vista](../Page/Windows_Vista.md "wikilink")                                                                                     |
+| 2010年6月20日 | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Live Movie Maker 2011 (Wave 4)執行於[Windows Vista及](../Page/Windows_Vista.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")       |
+| 2012年8月7日  | [Windows_Live_Movie_Maker_logo.png](https://zh.wikipedia.org/wiki/File:Windows_Live_Movie_Maker_logo.png "fig:Windows_Live_Movie_Maker_logo.png") | Windows Movie Maker 2012 (Wave 5)執行於[Windows 7及](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") |
+|            |                                                                                                                                                       |                                                                                                                                                                     |
 
 ## 偽造木馬軟體
 
@@ -62,7 +62,7 @@ Maker的时候用户需要支付29.95美元才能享受“完整版本”。但�
 Movie Maker是完全免费的。
 
 除了谷歌搜索网站之外，有一陣子在用户在Microsoft
-Store上搜索这款视频编辑应用也會找到，虽然名字相同，但是它完全不具备微软官方应用的编辑功能。\[3\]另外，即使是微软自家的[bing](../Page/bing.md "wikilink")，冒牌网站也堂而皇之的现身结果第一页。安全公司[ESET在最新的](../Page/ESET.md "wikilink")2017年11月防病毒威胁报告中，将山寨Windows
+Store上搜索这款视频编辑应用也會找到，虽然名字相同，但是它完全不具备微软官方应用的编辑功能。\[3\]另外，即使是微软自家的[bing](https://zh.wikipedia.org/wiki/bing "wikilink")，冒牌网站也堂而皇之的现身结果第一页。安全公司[ESET在最新的](../Page/ESET.md "wikilink")2017年11月防病毒威胁报告中，将山寨Windows
 Movie
 Maker列为全球TOP3威胁之一（Win32/Hoax.MovieMaker），其中以色列地区受损最严重（第一位），另外，从2017年11月6日开始，菲律宾、丹麦、芬兰等地也开始出现大面积中招反馈。\[4\]
 
@@ -84,14 +84,16 @@ Maker列为全球TOP3威胁之一（Win32/Hoax.MovieMaker），其中以色列�
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink")
 
-1.  類似[Windows Live 影像中心取代](../Page/Windows_Live_影像中心.md "wikilink")
-    [Windows 相片圖庫](../Page/Windows_相片圖庫.md "wikilink")；如同[Windows Live
-    Mail來取代](../Page/Windows_Live_Mail.md "wikilink") [Windows
+1.  類似[Windows Live
+    影像中心取代](https://zh.wikipedia.org/wiki/Windows_Live_影像中心 "wikilink")
+    [Windows
+    相片圖庫](https://zh.wikipedia.org/wiki/Windows_相片圖庫 "wikilink")；如同[Windows
+    Live Mail來取代](../Page/Windows_Live_Mail.md "wikilink") [Windows
     Mail的名稱](../Page/Windows_Mail.md "wikilink")。但在2012年8月7日“Windows
     Live 影像中心”改稱“Windows 影像中心”，而“Windows Live Movie Maker”也改稱“**Windows
     Movie Maker**”。
 2.  參見 [Windows Live
     程式集系統需求](http://windows.microsoft.com/zh-TW/windows/Windows-Essentials-2012-system-requirements)
-3.  [虚假微软应用借助Google搜索引擎传播勒索病毒](http://tech.sina.com.cn/i/2017-11-10/doc-ifynsait6883823.shtml).[新浪科技](../Page/新浪科技.md "wikilink").\[2017-11-10\]
+3.  [虚假微软应用借助Google搜索引擎传播勒索病毒](http://tech.sina.com.cn/i/2017-11-10/doc-ifynsait6883823.shtml).[新浪科技](https://zh.wikipedia.org/wiki/新浪科技 "wikilink").\[2017-11-10\]
 4.  [神伪装！冒牌Windows Movie
-    Maker网络肆虐：密集中招](http://tech.qianlong.com/2017/1110/2163465.shtml).[千龙网](../Page/千龙网.md "wikilink").\[2017-11-10\]
+    Maker网络肆虐：密集中招](http://tech.qianlong.com/2017/1110/2163465.shtml).[千龙网](https://zh.wikipedia.org/wiki/千龙网 "wikilink").\[2017-11-10\]

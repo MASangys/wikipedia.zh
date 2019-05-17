@@ -2,13 +2,13 @@
 Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。**[Pico系列](../Page/Pico系列.md "wikilink")**的第二集、正式的名稱為『Pico系列2
 Pico和Chico』。\[1\]
 
-同日也發售了一千五百個裝有各式各樣的特典的『Pico和Chico滿足BOX』。除了放入本作『Pico和Chico』和第一集的『[我的Pico](../Page/我的Pico.md "wikilink")』，也有Pico和Chico的[公仔和](../Page/手辦.md "wikilink")「[Pico和Chico台詞CD](../Page/Pico和Chico台詞CD.md "wikilink")」等商品。
+同日也發售了一千五百個裝有各式各樣的特典的『Pico和Chico滿足BOX』。除了放入本作『Pico和Chico』和第一集的『[我的Pico](../Page/我的Pico.md "wikilink")』，也有Pico和Chico的[公仔和](https://zh.wikipedia.org/wiki/手辦 "wikilink")「[Pico和Chico台詞CD](https://zh.wikipedia.org/wiki/Pico和Chico台詞CD "wikilink")」等商品。
 
 ## 故事大綱
 
-有一位[裸體的](../Page/裸體.md "wikilink")[少年正在](../Page/少年.md "wikilink")[林中的](../Page/森林.md "wikilink")[小河玩水](../Page/小河.md "wikilink")。那個姿態被正在騎腳踏車的Pico看見並且少年還朝著Pico微笑了一下。2人很快就打成一片成為好友，這名少年Chico也帶Pico來到自己的[別墅居住](../Page/別墅.md "wikilink")。
+有一位[裸體的](https://zh.wikipedia.org/wiki/裸體 "wikilink")[少年正在](https://zh.wikipedia.org/wiki/少年 "wikilink")[林中的](../Page/森林.md "wikilink")[小河玩水](https://zh.wikipedia.org/wiki/小河 "wikilink")。那個姿態被正在騎腳踏車的Pico看見並且少年還朝著Pico微笑了一下。2人很快就打成一片成為好友，這名少年Chico也帶Pico來到自己的[別墅居住](https://zh.wikipedia.org/wiki/別墅 "wikilink")。
 
-於是在這個[暑假](../Page/暑假.md "wikilink")，Pico和Chico每天不斷地大鬧這座別墅。有一天，Chico帶Pico來到了他位於別墅屋頂裡面的[秘密基地](../Page/秘密基地.md "wikilink")，Chico每天都在這裡從基地地板的細縫中偷看在這裡幫傭的女僕姐姐[自慰的樣子](../Page/自慰.md "wikilink")。
+於是在這個[暑假](../Page/暑假.md "wikilink")，Pico和Chico每天不斷地大鬧這座別墅。有一天，Chico帶Pico來到了他位於別墅屋頂裡面的[秘密基地](https://zh.wikipedia.org/wiki/秘密基地 "wikilink")，Chico每天都在這裡從基地地板的細縫中偷看在這裡幫傭的女僕姐姐[自慰的樣子](../Page/自慰.md "wikilink")。
 
 跟著Chico一起看見這種事的Pico一邊暗示著大姐姐做的事情，一方面卻又與Chico開始了一場禁忌的遊戲。
 
@@ -59,7 +59,7 @@ Pico和Chico』。\[1\]
   - 動畫製作：シュガーボーイ、ブルーキャッツ、[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 製作製片人：青木健
   - 製片人：GOLDENBOYこと金子政路
-  - 導演：[谷田部勝義](../Page/谷田部勝義.md "wikilink")
+  - 導演：[谷田部勝義](https://zh.wikipedia.org/wiki/谷田部勝義 "wikilink")
   - 製作・著作・受審・発售：NaturalHigh
   - 製作：シュガーボーイ
   - 販售公司：Soft On Demand
@@ -84,10 +84,10 @@ Pico和Chico』。\[1\]
     Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月23日分售上第1位・第4位（『Pico和Chico滿足BOX（初回限定）』、『Pico和Chico』）
   - [Soft On
     Demand](../Page/Soft_On_Demand.md "wikilink")2007年4月第4週銷售第1名
-  - [樂天](../Page/樂天.md "wikilink")[ぐるぐる王国初回限定排行榜](../Page/ぐるぐる王国.md "wikilink")2007年2月上半期初登場第五名（『Pico和Chico滿足BOX（初回限定）』）
+  - [樂天](https://zh.wikipedia.org/wiki/樂天 "wikilink")[ぐるぐる王国初回限定排行榜](https://zh.wikipedia.org/wiki/ぐるぐる王国 "wikilink")2007年2月上半期初登場第五名（『Pico和Chico滿足BOX（初回限定）』）
   - 樂天ぐるぐる王国動畫總合排行榜2007年3月上半期瞬間順位第1名（『Pico和Chico滿足BOX（初回限定）』）
-  - [amazon.co.jp成人動畫排行榜瞬間順位第](../Page/amazon.co.jp.md "wikilink")2名（『Pico和Chico』）
-  - [DMM動畫排行榜瞬間順位第](../Page/DMM.md "wikilink")1名・第2名（『Pico和Chico滿足BOX（初回限定）』、『Pico和Chico』）
+  - [amazon.co.jp成人動畫排行榜瞬間順位第](https://zh.wikipedia.org/wiki/amazon.co.jp "wikilink")2名（『Pico和Chico』）
+  - [DMM動畫排行榜瞬間順位第](https://zh.wikipedia.org/wiki/DMM "wikilink")1名・第2名（『Pico和Chico滿足BOX（初回限定）』、『Pico和Chico』）
 
 ## 參考來源
 
@@ -105,4 +105,5 @@ Pico和Chico』。\[1\]
 
 1.  [Pico & Chico
     (OAV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=8647)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")

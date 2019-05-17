@@ -1,10 +1,10 @@
 《**Myself ;
 Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發的一套於](../Page/Regista.md "wikilink")[PlayStation
-2平台的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月20日發售。\[1\]並於2007年10月播出了[電視動畫](../Page/電視動畫.md "wikilink")。[人物設計由曾擔任](../Page/人物設計.md "wikilink")《[歡樂課程](../Page/歡樂課程.md "wikilink")》、《[双恋](../Page/双恋.md "wikilink")》等遊戲的畫家[佐佐木睦美擔任](../Page/佐佐木睦美_\(插畫家\).md "wikilink")。
+2平台的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月20日發售。\[1\]並於2007年10月播出了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[人物設計由曾擔任](../Page/人物設計.md "wikilink")《[歡樂課程](../Page/歡樂課程.md "wikilink")》、《[双恋](../Page/双恋.md "wikilink")》等遊戲的畫家[佐佐木睦美擔任](../Page/佐佐木睦美_\(插畫家\).md "wikilink")。
 
 ## 情節簡介
 
-主人公日高佐菜是一位正在就讀公立高中的的16歲少年。他在[小學五年級以前一直生活在小鎮](../Page/小學.md "wikilink")，後來因為父母的工作關係而搬家到[東京](../Page/東京.md "wikilink")。然後，他在高中二年時再次回到這個小鎮，故事就在那裡開始。經過5年的歲月，依舊的東西跟已經變化的東西，毫不客氣地出現在他面前－在小時候經常衝去的小山丘所看到的風景，還有在海邊被感受著海風吹著口哨，小學的校庭的鐵欄的高度，在晴朗的夜晚可以見到很多的星星，然後是曾經是損友的健康的少年，還有曾經是初戀對象的少女，過去那閃亮的瞳孔。記憶跟現實的之間，或許就是一個鴻溝，各種各樣的東西不斷地在他面前出現，然後消失。各種各樣的變化，如同尖刺一樣刺向他的心。出現在少年的眼中的人，物，事件，回憶……
+主人公日高佐菜是一位正在就讀公立高中的的16歲少年。他在[小學五年級以前一直生活在小鎮](https://zh.wikipedia.org/wiki/小學 "wikilink")，後來因為父母的工作關係而搬家到[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。然後，他在高中二年時再次回到這個小鎮，故事就在那裡開始。經過5年的歲月，依舊的東西跟已經變化的東西，毫不客氣地出現在他面前－在小時候經常衝去的小山丘所看到的風景，還有在海邊被感受著海風吹著口哨，小學的校庭的鐵欄的高度，在晴朗的夜晚可以見到很多的星星，然後是曾經是損友的健康的少年，還有曾經是初戀對象的少女，過去那閃亮的瞳孔。記憶跟現實的之間，或許就是一個鴻溝，各種各樣的東西不斷地在他面前出現，然後消失。各種各樣的變化，如同尖刺一樣刺向他的心。出現在少年的眼中的人，物，事件，回憶……
 在已經過去的時間裡，在新的學園生活中，他失去了什麼，得到了什麼。我本身，你本身原來的我，原來的你我還是我，你還是你生活在這個世界，當發覺誰跟自己很相符，他的人生踏進了新的一步。
 
 故事便由一個誤會的一個巴掌所展開－－
@@ -46,8 +46,8 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 
   -
     作詞．作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")（[5pb.](../Page/5pb..md "wikilink")）
-    編曲：[TARAWO](../Page/TARAWO.md "wikilink")
-    歌：[KAORI](../Page/KAORI.md "wikilink")
+    編曲：[TARAWO](https://zh.wikipedia.org/wiki/TARAWO "wikilink")
+    歌：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")
 
 <!-- end list -->
 
@@ -57,8 +57,8 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 
   -
     作詞．作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")（[5pb.](../Page/5pb..md "wikilink")）
-    編曲：[上野浩司](../Page/上野浩司.md "wikilink")
-    歌：[いとうかなこ](../Page/いとうかなこ.md "wikilink")
+    編曲：[上野浩司](https://zh.wikipedia.org/wiki/上野浩司 "wikilink")
+    歌：[いとうかなこ](https://zh.wikipedia.org/wiki/いとうかなこ "wikilink")
 
 <!-- end list -->
 
@@ -67,17 +67,17 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 <!-- end list -->
 
   -
-    作詞．[近藤ナツコ](../Page/近藤ナツコ.md "wikilink")
-    作曲：[尾飛良幸](../Page/尾飛良幸.md "wikilink")
-    編曲：[尾飛良幸](../Page/尾飛良幸.md "wikilink")
-    歌：[小清水亜美](../Page/小清水亜美.md "wikilink")
+    作詞．[近藤ナツコ](https://zh.wikipedia.org/wiki/近藤ナツコ "wikilink")
+    作曲：[尾飛良幸](https://zh.wikipedia.org/wiki/尾飛良幸 "wikilink")
+    編曲：[尾飛良幸](https://zh.wikipedia.org/wiki/尾飛良幸 "wikilink")
+    歌：[小清水亜美](https://zh.wikipedia.org/wiki/小清水亜美 "wikilink")
 
 ## 電視動畫
 
 ### 製作人員
 
   - 企劃：松本慶明、鈴木徑男、志倉千代丸、渡邊正弘
-  - 系列構成、劇本：[雜破業](../Page/雜破業.md "wikilink")
+  - 系列構成、劇本：[雜破業](https://zh.wikipedia.org/wiki/雜破業 "wikilink")
   - 監督：QZo（黑田やすひろ）
   - 人物原案：[佐佐木睦美](../Page/佐佐木睦美_\(插畫家\).md "wikilink")
   - 人物設定：平塚知哉
@@ -85,8 +85,8 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
   - 美術監督：高須賀真二
   - 色彩設計：石黒けい
   - 攝影監督：伊藤邦彥
-  - 音響監督：[濱野一三](../Page/濱野一三.md "wikilink")
-  - 音樂：[5zizz](../Page/5zizz.md "wikilink")
+  - 音響監督：[濱野一三](https://zh.wikipedia.org/wiki/濱野一三 "wikilink")
+  - 音樂：[5zizz](https://zh.wikipedia.org/wiki/5zizz "wikilink")
   - 音樂製作人：富士丸翔
   - 音樂指導：高井麗
   - 音響效果：長谷川卓也
@@ -359,9 +359,9 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
   -
     作詞．作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")
 
-    編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
+    編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
 
-    歌：[KAORI](../Page/KAORI.md "wikilink")
+    歌：[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")
 
   - 片尾曲
 
@@ -373,19 +373,19 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 
   -
     作詞．作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")
-    編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
-    歌：[いとうかなこ](../Page/いとうかなこ.md "wikilink")
+    編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
+    歌：[いとうかなこ](https://zh.wikipedia.org/wiki/いとうかなこ "wikilink")
 
 ### 播放電視台
 
-| 播映地域                               | 電視台\[6\]                               | 播映期間                   | 播映時間\[7\]          | 所屬聯播網                                         |
-| ---------------------------------- | -------------------------------------- | ---------------------- | ------------------ | --------------------------------------------- |
-| [神奈川縣](../Page/神奈川縣.md "wikilink") | [神奈川電視台](../Page/神奈川電視台.md "wikilink") | 2007年10月2日－2007年12月25日 | 火曜26時15分 - 26時45分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [千葉縣](../Page/千葉縣.md "wikilink")   | [千葉電視台](../Page/千葉電視台.md "wikilink")   | 2007年10月3日－2007年12月26日 | 水曜 26時00分 - 26時30分 | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")   | 2007年10月4日－2007年12月27日 | 木曜26時00分 - 26時30分  | [獨立UHF系列](../Page/全國獨立UHF放送協議會.md "wikilink") |
-| [愛知縣](../Page/愛知縣.md "wikilink")   | [愛知電視台](../Page/愛知電視台.md "wikilink")   | 2007年10月4日－2007年12月27日 | 木曜26時58分 - 27時28分  | [TXN系列](../Page/TXN.md "wikilink")            |
-| [大阪府](../Page/大阪府.md "wikilink")   | [大阪電視台](../Page/大阪電視台.md "wikilink")   | 2007年10月5日－2007年12月28日 | 金曜28時05分 - 28時35分  | [TXN系列](../Page/TXN.md "wikilink")            |
-|                                    |                                        |                        |                    |                                               |
+| 播映地域                                                | 電視台\[6\]                                                | 播映期間                   | 播映時間\[7\]          | 所屬聯播網                                                            |
+| --------------------------------------------------- | ------------------------------------------------------- | ---------------------- | ------------------ | ---------------------------------------------------------------- |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                  | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                  | 2007年10月2日－2007年12月25日 | 火曜26時15分 - 26時45分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink") | 2007年10月3日－2007年12月26日 | 水曜 26時00分 - 26時30分 | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                    | 2007年10月4日－2007年12月27日 | 木曜26時00分 - 26時30分  | [獨立UHF系列](https://zh.wikipedia.org/wiki/全國獨立UHF放送協議會 "wikilink") |
+| [愛知縣](../Page/愛知縣.md "wikilink")                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                    | 2007年10月4日－2007年12月27日 | 木曜26時58分 - 27時28分  | [TXN系列](https://zh.wikipedia.org/wiki/TXN "wikilink")            |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink") | [大阪電視台](../Page/大阪電視台.md "wikilink")                    | 2007年10月5日－2007年12月28日 | 金曜28時05分 - 28時35分  | [TXN系列](https://zh.wikipedia.org/wiki/TXN "wikilink")            |
+|                                                     |                                                         |                        |                    |                                                                  |
 
 ### 節目變遷
 
@@ -412,9 +412,9 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 <!-- end list -->
 
   - **Tears
-    Infection/Day-break**（動畫OP／遊戲第一OP，[KAORI](../Page/KAORI.md "wikilink")，2007年10月24日發售，有附帶DVD的初回限定盤）
+    Infection/Day-break**（動畫OP／遊戲第一OP，[KAORI](https://zh.wikipedia.org/wiki/KAORI "wikilink")，2007年10月24日發售，有附帶DVD的初回限定盤）
 
-  - （動畫EDマ／遊戲第二OP，[いとうかなこ](../Page/いとうかなこ.md "wikilink")，2007年10月24日發售）
+  - （動畫EDマ／遊戲第二OP，[いとうかなこ](https://zh.wikipedia.org/wiki/いとうかなこ "wikilink")，2007年10月24日發售）
 
   - 角色曲
 

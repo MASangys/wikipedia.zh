@@ -1,8 +1,8 @@
-**APA格式**是一個為廣泛接受的研究論文撰寫格式，特別針對[社會科學領域的研究](../Page/社會科學.md "wikilink")，規範學術文獻的[引用和](../Page/引用.md "wikilink")[參考文獻的撰寫方法](../Page/參考文獻.md "wikilink")，以及[表格](../Page/表格.md "wikilink")、[圖表](../Page/圖表.md "wikilink")、[註腳和](../Page/註腳.md "wikilink")[附錄的編排方式](../Page/附錄.md "wikilink")。
+**APA格式**是一個為廣泛接受的研究論文撰寫格式，特別針對[社會科學領域的研究](https://zh.wikipedia.org/wiki/社會科學 "wikilink")，規範學術文獻的[引用和](../Page/引用.md "wikilink")[參考文獻的撰寫方法](https://zh.wikipedia.org/wiki/參考文獻 "wikilink")，以及[表格](https://zh.wikipedia.org/wiki/表格 "wikilink")、[圖表](https://zh.wikipedia.org/wiki/圖表 "wikilink")、[註腳和](https://zh.wikipedia.org/wiki/註腳 "wikilink")[附錄的編排方式](https://zh.wikipedia.org/wiki/附錄 "wikilink")。
 
-正式來說，APA格式指的就是[美國心理學會](../Page/美國心理學會.md "wikilink")（**A**merican
+正式來說，APA格式指的就是[美國心理學會](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")（**A**merican
 **P**sychological **A**ssociation）出版的《美國心理協會刊物準則》，目前已出版至第六版（ISBN
-9781433805615），總頁數272頁，而此協會是目前在[美國具有權威性的](../Page/美國.md "wikilink")[心理學學者組織](../Page/心理學.md "wikilink")。APA格式起源於1929年，當時只有7頁，被刊登在《心理學期刊（Psychological
+9781433805615），總頁數272頁，而此協會是目前在[美國具有權威性的](https://zh.wikipedia.org/wiki/美國 "wikilink")[心理學學者組織](https://zh.wikipedia.org/wiki/心理學 "wikilink")。APA格式起源於1929年，當時只有7頁，被刊登在《心理學期刊（Psychological
 Bulletin）》\[1\]。
 
 ## 格式
@@ -39,7 +39,7 @@ Bulletin）》\[1\]。
 
 ## 文獻引用
 
-**文獻引用**是在一篇文章的段落或文字之中「參考來源」的標註。APA格式使用[哈佛大學文章引用格式](../Page/哈佛大學.md "wikilink")，通常來說，一個引用包含了作者名和發表日期，以**括號**夾註（有時會再加上頁數），放在引用文字或句子之後。
+**文獻引用**是在一篇文章的段落或文字之中「參考來源」的標註。APA格式使用[哈佛大學文章引用格式](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")，通常來說，一個引用包含了作者名和發表日期，以**括號**夾註（有時會再加上頁數），放在引用文字或句子之後。
 
 詳細的引用或參考資料則放在位於文章最後的「參考文獻」或「Works
 Cited」部分。APA格式明確的定義「參考文獻」只放入文章內容引用的來源，所以有些文章才會有「參考文獻（Reference）」和「Bibliography」的分別。（Bibliography另外包含了作者背景知識的來源，不一定是直接被引用的文獻。）
@@ -61,7 +61,7 @@ Cited」部分。APA格式明確的定義「參考文獻」只放入文章內容
 
 **3至5位作者**
 第一次引用時需列舉全部的作者，往後若引用相同的文獻，只需舉出最主要的作者，再加上「[et
-al.](../Page/et_al..md "wikilink")」。但是，在參考文獻部分，全部作者的姓名皆須列舉出來。
+al.](https://zh.wikipedia.org/wiki/et_al. "wikilink")」。但是，在參考文獻部分，全部作者的姓名皆須列舉出來。
 
   - A recent study found a possible genetic cause of alcoholism
     (Pauling, Liu, & Guo, 2005).
@@ -193,7 +193,7 @@ Nix, G. (2002). Lirael, Daughter of the Clayr \[Cassette Recording No.
 
 ## 相關條目
 
-  - [MLA格式](../Page/MLA格式.md "wikilink")
+  - [MLA格式](https://zh.wikipedia.org/wiki/MLA格式 "wikilink")
 
 ## 外部連結
 

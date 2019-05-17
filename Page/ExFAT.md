@@ -1,9 +1,9 @@
 **exFAT**（**Extended File Allocation
-Table**），又名**FAT64**，是一種[微軟公司](../Page/微軟公司.md "wikilink")（Microsoft）開發的[檔案系統](../Page/檔案系統.md "wikilink")，最先從該公司的[Windows
+Table**），又名**FAT64**，是一種[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）開發的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最先從該公司的[Windows
 Embedded CE
 6.0作業系統引入這種檔案系統](../Page/Windows_Embedded_CE_6.0.md "wikilink")，後又延伸到[Windows
 Vista](../Page/Windows_Vista.md "wikilink") Service Pack
-1作業系統中\[1\]。由於[NTFS檔案系統的一些資料格式規定所限](../Page/NTFS.md "wikilink")，對[快閃記憶體而言exFAT顯得更具優勢](../Page/快閃記憶體.md "wikilink")，是一種較適合於快閃記憶體的檔案系統。
+1作業系統中\[1\]。由於[NTFS檔案系統的一些資料格式規定所限](../Page/NTFS.md "wikilink")，對[快閃記憶體而言exFAT顯得更具優勢](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，是一種較適合於快閃記憶體的檔案系統。
 
 ## 優點
 
@@ -14,17 +14,17 @@ exFAT相較於之前[FAT檔案系統的優勢在於](../Page/FAT.md "wikilink")�
     1），而FAT32檔案系统中單一檔案限制大小為2<sup>32</sup>
     - 1位元組（4 GiB）。
   - 對於單檔超過4 GB的跨系統使用者來說，exFAT提供了很好的解決方案。
-  - [叢集大小最大可為每](../Page/叢集.md "wikilink")[扇區](../Page/扇區.md "wikilink")2<sup>25</sup>位元組，最大32
+  - [叢集大小最大可為每](https://zh.wikipedia.org/wiki/叢集 "wikilink")[扇區](https://zh.wikipedia.org/wiki/扇區 "wikilink")2<sup>25</sup>位元組，最大32
     MB。
-  - 由於採用了[空餘空間尋址](../Page/空餘空間尋址.md "wikilink")，空間分配和刪除的性能得以改進。
+  - 由於採用了[空餘空間尋址](https://zh.wikipedia.org/wiki/空餘空間尋址 "wikilink")，空間分配和刪除的性能得以改進。
   - 在單一檔案夾內支援超過2<sup>16</sup>個檔案。
-  - 支援[存取控制清單](../Page/存取控制清單.md "wikilink")（但在Windows Vista
-    SP1中尚未支援）\[2\]。
+  - 支援[存取控制清單](https://zh.wikipedia.org/wiki/存取控制清單 "wikilink")（但在Windows
+    Vista SP1中尚未支援）\[2\]。
   - 提供給OEM的可定義參數可以使這個檔案系統適應不同特色的設備。
-  - 支持[熱插拔資料完整無損機制](../Page/熱插拔.md "wikilink")[Transaction-Safe
-    FAT](../Page/TFAT.md "wikilink")（TFAT，在[WinCE中可選的功能](../Page/WinCE.md "wikilink")）。
-  - 時間戳記能夠使用[UTC](../Page/UTC.md "wikilink")\[3\]時間而不僅僅是所在[時區](../Page/時區.md "wikilink")（從[Vista
-    SP2開始](../Page/Windows_Vista#Service_Pack_2.md "wikilink")）
+  - 支持[熱插拔資料完整無損機制](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")[Transaction-Safe
+    FAT](https://zh.wikipedia.org/wiki/TFAT "wikilink")（TFAT，在[WinCE中可選的功能](https://zh.wikipedia.org/wiki/WinCE "wikilink")）。
+  - 時間戳記能夠使用[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")\[3\]時間而不僅僅是所在[時區](https://zh.wikipedia.org/wiki/時區 "wikilink")（從[Vista
+    SP2開始](https://zh.wikipedia.org/wiki/Windows_Vista#Service_Pack_2 "wikilink")）
 
 ## 缺點
 
@@ -37,7 +37,7 @@ exFAT比過去的[FAT文件系統的劣勢在於](../Page/FAT.md "wikilink")：
 
 </ref>
 
-  - 專利授權方式不明確。[夏普](../Page/夏普公司.md "wikilink")、[RIM](../Page/Research_In_Motion.md "wikilink")<ref>
+  - 專利授權方式不明確。[夏普](https://zh.wikipedia.org/wiki/夏普公司 "wikilink")、[RIM](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")<ref>
 
 </ref>分别和微軟达成了exFAT授權協議。存在專利費。微軟曾經為[FAT的一部分申請專利](../Page/FAT.md "wikilink")。\[4\]曾经有用户从三星的Android中分离出不基于[FUSE实现的exFat内核模块代码并按照Linux的GPL协议释放出来](../Page/FUSE.md "wikilink")，被认为三星得到微软支持下开发的。\[5\]之后三星也正式释放了相应模块代码。
 
@@ -48,7 +48,7 @@ exFAT比過去的[FAT文件系統的劣勢在於](../Page/FAT.md "wikilink")：
 ## 參見
 
   - [文件系统的对比](../Page/文件系统的对比.md "wikilink")
-  - [檔案系統列表](../Page/檔案系統列表.md "wikilink")
+  - [檔案系統列表](https://zh.wikipedia.org/wiki/檔案系統列表 "wikilink")
   - [SDXC](../Page/SDXC.md "wikilink")
 
 ## 參考資料
@@ -65,7 +65,7 @@ exFAT比過去的[FAT文件系統的劣勢在於](../Page/FAT.md "wikilink")：
     System](http://msdn2.microsoft.com/en-us/library/aa914353.aspx)
 
 [de:File Allocation
-Table\#exFAT](../Page/de:File_Allocation_Table#exFAT.md "wikilink")
+Table\#exFAT](https://zh.wikipedia.org/wiki/de:File_Allocation_Table#exFAT "wikilink")
 
 [Category:Windows_CE](https://zh.wikipedia.org/wiki/Category:Windows_CE "wikilink")
 [Category:快閃記憶體檔案系統](https://zh.wikipedia.org/wiki/Category:快閃記憶體檔案系統 "wikilink")

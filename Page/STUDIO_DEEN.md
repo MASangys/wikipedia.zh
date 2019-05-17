@@ -5,13 +5,13 @@ DEEN**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](
 ## 概要、沿革
 
 STUDIO
-DEEN的前身是[日昇動畫內部專門負責上色的工作室](../Page/日昇動畫.md "wikilink")。1975年3月14日\[2\]，由當時「日昇工作室（<small></small>）」（今日昇動畫）擔任機器人主題電視動畫《[勇者萊汀](../Page/勇者萊汀.md "wikilink")》負責上色檢查的長谷川洋。從協助日昇動畫作品的上色工作起家，並以當時承包作品名稱的最後一個字「汀」做命名\[3\]，正式成立「**有限公司STUDIO
+DEEN的前身是[日昇動畫內部專門負責上色的工作室](../Page/日昇動畫.md "wikilink")。1975年3月14日\[2\]，由當時「日昇工作室（<small></small>）」（今日昇動畫）擔任機器人主題電視動畫《[勇者萊汀](https://zh.wikipedia.org/wiki/勇者萊汀 "wikilink")》負責上色檢查的長谷川洋。從協助日昇動畫作品的上色工作起家，並以當時承包作品名稱的最後一個字「汀」做命名\[3\]，正式成立「**有限公司STUDIO
 DEEN**（<small></small>，以下用DEEN簡稱）｣。
 
 1982年，STUDIO
-DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](../Page/SHIN-EI動畫.md "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(1979年電視動畫\).md "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio
-Pierrot](../Page/Studio_Pierrot.md "wikilink")）轉換成DEEN負責。至1990年代前半，DEEN承包了《[相聚一刻](../Page/相聚一刻.md "wikilink")》、《》、《[亂馬½](../Page/亂馬½.md "wikilink")》、《》等等電影公司[Kitty
-film作品的動畫實質製作](../Page/Kitty_film.md "wikilink")。
+DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(1979年電視動畫\) "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio
+Pierrot](../Page/Studio_Pierrot.md "wikilink")）轉換成DEEN負責。至1990年代前半，DEEN承包了《[相聚一刻](../Page/相聚一刻.md "wikilink")》、《》、《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》、《》等等電影公司[Kitty
+film作品的動畫實質製作](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")。
 
 1994年4月登記變更成為**株式會社**。2005年，迎接STUDIO
 DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.md "wikilink")[杉並區搬遷至東京都](../Page/杉並區.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[4\]。
@@ -20,20 +20,20 @@ DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.m
 DEEN社長，轉任Ima Group的顧問。
 
 STUDIO DEEN也有專屬的攝影部門與3DCG製作部門，而且還有替部門取名字。攝影部門取名叫做「組\[6\]」，但在製作《[莉露莉露妖精
-～妖精之門～](../Page/莉露莉露妖精.md "wikilink")》（2016年）開始改用「DEEN
-digital」。而3DCG製作部門（2004年開設）取名叫做「[海鳥](../Page/海鳥.md "wikilink")（<small></small>）」。
+～妖精之門～](https://zh.wikipedia.org/wiki/莉露莉露妖精 "wikilink")》（2016年）開始改用「DEEN
+digital」。而3DCG製作部門（2004年開設）取名叫做「[海鳥](https://zh.wikipedia.org/wiki/海鳥 "wikilink")（<small></small>）」。
 
 國外方面，STUDIO
-DEEN擁有一家在[中國的](../Page/中國.md "wikilink")[子公司](../Page/子公司.md "wikilink")「蘇州丹尼動畫有限公司（簡稱丹尼動畫，舊名：蘇州工作室）」。作畫和上色方面，與[韓國的動畫公司](../Page/大韓民國.md "wikilink")建立其協助關係。
+DEEN擁有一家在[中國的](../Page/中國.md "wikilink")[子公司](../Page/子公司.md "wikilink")「蘇州丹尼動畫有限公司（簡稱丹尼動畫，舊名：蘇州工作室）」。作畫和上色方面，與[韓國的動畫公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")建立其協助關係。
  2013年9月，STUDIO DEEN繼承母公司Ima Group旗下音樂公司「Cosmic
 Record」的經營權，負責音樂CD的企劃、總企劃製作的職務。
 
 STUDIO
 DEEN另外還有事角色製作和授權管理，並專注於自家開發的內容作為角色業務。因此目前正在跟[株式會社Surfersparadise](http://www.surpara.com/)共同以「i-style
 Project」企劃的名義進行[VOCALOID3角色蒼姬琉璃與Merli](../Page/VOCALOID.md "wikilink")，以及「[Project
-Yumenikki](../Page/夢日記.md "wikilink")」的媒體混合展開。還有與中國跨國共同企劃製作播映的電視動畫《[靈劍山](../Page/從前有座靈劍山#電視動畫.md "wikilink")》，並負責在國內出周邊商品與相關的授權管理\[7\]。
+Yumenikki](../Page/夢日記.md "wikilink")」的媒體混合展開。還有與中國跨國共同企劃製作播映的電視動畫《[靈劍山](https://zh.wikipedia.org/wiki/從前有座靈劍山#電視動畫 "wikilink")》，並負責在國內出周邊商品與相關的授權管理\[7\]。
 
-此外。代表作品方面，有[漫畫家](../Page/漫畫家.md "wikilink")[高橋留美子的](../Page/高橋留美子.md "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](../Page/逮捕令_\(動畫\).md "wikilink")》、《[浪客劍心](../Page/浪客劍心.md "wikilink")》、《[今日大魔王](../Page/魔之系列#電視動畫.md "wikilink")》、《[地獄少女](../Page/地獄少女.md "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](../Page/導演.md "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](../Page/閃靈二人組.md "wikilink")[古橋一浩和擔任](../Page/古橋一浩.md "wikilink")[原畫及](../Page/原畫師.md "wikilink")[人物設計的](../Page/人物設計.md "wikilink")[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO
+此外。代表作品方面，有[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](https://zh.wikipedia.org/wiki/逮捕令_\(動畫\) "wikilink")》、《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")[古橋一浩和擔任](../Page/古橋一浩.md "wikilink")[原畫及](https://zh.wikipedia.org/wiki/原畫師 "wikilink")[人物設計的](../Page/人物設計.md "wikilink")[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO
 DEEN。
 
 ## 作品列表
@@ -82,7 +82,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>1989年</p></td>
-<td><p><a href="../Page/亂馬½.md" title="wikilink">亂馬½</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亂馬½" title="wikilink">亂馬½</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -154,7 +154,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/逮捕令_(動畫)#第1期.md" title="wikilink">逮捕令</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)#第1期" title="wikilink">逮捕令</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -196,7 +196,7 @@ DEEN。
 <tr class="odd">
 <td><p>1997年</p></td>
 <td><p>1998年</p></td>
-<td><p><a href="../Page/浪客劍心.md" title="wikilink">浪客劍心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪客劍心" title="wikilink">浪客劍心</a></p></td>
 <td></td>
 <td><p>從第67話開始，第66話以前由<a href="../Page/GALLOP_(動畫工作室).md" title="wikilink">GALLOP製作</a>。</p></td>
 <td></td>
@@ -250,7 +250,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">仙界傳 封神演義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">仙界傳 封神演義</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/萬有引力_(漫畫).md" title="wikilink">萬有引力</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬有引力_(漫畫)" title="wikilink">萬有引力</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -323,7 +323,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/逮捕令_(動畫)#第2期.md" title="wikilink">逮捕令 Second Season</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)#第2期" title="wikilink">逮捕令 Second Season</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -331,7 +331,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/幻影天使.md" title="wikilink">幻影天使 (2001年版)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/幻影天使" title="wikilink">幻影天使 (2001年版)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -339,7 +339,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/心之圖書館.md" title="wikilink">心之圖書館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/心之圖書館" title="wikilink">心之圖書館</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,7 +363,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/盜賊王JING.md" title="wikilink">盜賊王JING</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盜賊王JING" title="wikilink">盜賊王JING</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -381,13 +381,13 @@ DEEN。
 <tr class="even">
 <td><p>2002年</p></td>
 <td><p>2003年</p></td>
-<td><p><a href="../Page/閃靈二人組.md" title="wikilink">閃靈二人組</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/閃靈二人組" title="wikilink">閃靈二人組</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/BOM_BOM彈珠人太空戰士.md" title="wikilink">Bom Bom 彈珠人太空戰士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BOM_BOM彈珠人太空戰士" title="wikilink">Bom Bom 彈珠人太空戰士</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,7 +443,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/瑪莉亞的凝望.md" title="wikilink">瑪莉亞的凝望、瑪莉亞的凝望 ～春～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪莉亞的凝望" title="wikilink">瑪莉亞的凝望、瑪莉亞的凝望 ～春～</a></p></td>
 <td><p>、</p></td>
 <td><p>小說</p></td>
 <td><p>2季都在2004年內播出。</p></td>
@@ -453,7 +453,7 @@ DEEN。
 <tr class="odd">
 <td><p>2004年</p></td>
 <td><p>2005年</p></td>
-<td><p><a href="../Page/魔之系列#電視動畫.md" title="wikilink">今日大魔王！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔之系列#電視動畫" title="wikilink">今日大魔王！</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -467,7 +467,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/次元艦隊.md" title="wikilink">次元艦隊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/次元艦隊" title="wikilink">次元艦隊</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -508,7 +508,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/極樂天師.md" title="wikilink">極樂天師</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/極樂天師" title="wikilink">極樂天師</a></p></td>
 <td><p>{{lang|ja|あまえないでよっ</p></td>
 <td><p>}}</p></td>
 <td></td>
@@ -516,7 +516,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/地獄少女.md" title="wikilink">地獄少女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/地獄少女" title="wikilink">地獄少女</a></p></td>
 <td><p>原創</p></td>
 <td></td>
 <td></td>
@@ -548,7 +548,7 @@ DEEN。
 <td><p>}}</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Fate/stay_night.md" title="wikilink">Fate/stay night</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/stay_night" title="wikilink">Fate/stay night</a></p></td>
 <td><p>遊戲</p></td>
 <td></td>
 <td></td>
@@ -556,7 +556,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/備長炭_(動畫).md" title="wikilink">小小備長炭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/備長炭_(動畫)" title="wikilink">小小備長炭</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -605,7 +605,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
-<td><p><a href="../Page/光明之淚X風.md" title="wikilink">光明之淚X風</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光明之淚X風" title="wikilink">光明之淚X風</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -654,7 +654,7 @@ DEEN。
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p>2008年</p></td>
-<td><p><a href="../Page/逮捕令_(動畫)#第3期.md" title="wikilink">逮捕令 全速前進</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)#第3期" title="wikilink">逮捕令 全速前進</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -805,7 +805,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/逆轉監督.md" title="wikilink">逆轉監督</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逆轉監督" title="wikilink">逆轉監督</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -813,7 +813,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/薄櫻鬼_～新选组奇谭～.md" title="wikilink">薄櫻鬼、薄櫻鬼 碧血錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薄櫻鬼_～新选组奇谭～" title="wikilink">薄櫻鬼、薄櫻鬼 碧血錄</a></p></td>
 <td><p>、</p></td>
 <td><p>遊戲</p></td>
 <td><p>2季都在2010年內播出。</p></td>
@@ -837,7 +837,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Dragon_crisis!.md" title="wikilink">Dragon crisis！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dragon_crisis!" title="wikilink">Dragon crisis！</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -925,7 +925,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/眼鏡部！.md" title="wikilink">眼鏡部！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/眼鏡部！" title="wikilink">眼鏡部！</a></p></td>
 <td></td>
 <td><p>|原創</p></td>
 <td></td>
@@ -941,7 +941,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/pupa.md" title="wikilink">pupa</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/pupa" title="wikilink">pupa</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1046,7 +1046,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/從前有座靈劍山.md" title="wikilink">從前有座靈劍山 星塵之宴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/從前有座靈劍山" title="wikilink">從前有座靈劍山 星塵之宴</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1056,7 +1056,7 @@ DEEN。
 <tr class="odd">
 <td><p>2016年</p></td>
 <td><p>2017年</p></td>
-<td><p><a href="../Page/莉露莉露妖精～妖精之門～.md" title="wikilink">莉露莉露妖精 ～妖精之門～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莉露莉露妖精～妖精之門～" title="wikilink">莉露莉露妖精 ～妖精之門～</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td><p>三麗鷗與SEGA Toys原案的遊戲原作衍生動畫系列。</p></td>
@@ -1110,7 +1110,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/青鬼.md" title="wikilink">青鬼 ～真·動畫～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青鬼" title="wikilink">青鬼 ～真·動畫～</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1142,7 +1142,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/從前有座靈劍山.md" title="wikilink">從前有座靈劍山 通往叡智的資格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/從前有座靈劍山" title="wikilink">從前有座靈劍山 通往叡智的資格</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1158,7 +1158,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/青春歌舞伎.md" title="wikilink">青春歌舞伎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青春歌舞伎" title="wikilink">青春歌舞伎</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1185,13 +1185,13 @@ DEEN。
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹 第貳期</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>第1期原由<a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO製作</a>。</p></td>
+<td><p>第1期原由<a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO製作</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/伊藤潤二驚選集.md" title="wikilink">伊藤潤二驚選集</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤潤二驚選集" title="wikilink">伊藤潤二驚選集</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1206,7 +1206,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/錢進球場.md" title="wikilink">錢進球場 (第1～2期)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錢進球場" title="wikilink">錢進球場 (第1～2期)</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1214,7 +1214,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/音樂少女.md" title="wikilink">音樂少女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂少女" title="wikilink">音樂少女</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -1231,7 +1231,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/魔法律事務所.md" title="wikilink">魔法律事務所</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法律事務所" title="wikilink">魔法律事務所</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1278,7 +1278,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/廚病激發Boy.md" title="wikilink">廚病激發Boy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廚病激發Boy" title="wikilink">廚病激發Boy</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1286,7 +1286,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 諸神的逆鱗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/七大罪_(漫畫)" title="wikilink">七大罪 諸神的逆鱗</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td><p>第1～2期原由<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures製作</a>。</p></td>
@@ -1362,14 +1362,14 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>1994年－1995年</p></td>
-<td><p><a href="../Page/逮捕令_(動畫)#OVA.md" title="wikilink">逮捕令</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)#OVA" title="wikilink">逮捕令</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1995年</p></td>
-<td><p><a href="../Page/無責任艦長.md" title="wikilink">無責任艦長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無責任艦長" title="wikilink">無責任艦長</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -1390,7 +1390,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>1999年</p></td>
-<td><p><a href="../Page/浪客劍心#追憶篇.md" title="wikilink">浪客劍心 追憶篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪客劍心#追憶篇" title="wikilink">浪客劍心 追憶篇</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1403,7 +1403,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/浪客劍心#星霜篇.md" title="wikilink">浪客劍心 星霜篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪客劍心#星霜篇" title="wikilink">浪客劍心 星霜篇</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1411,7 +1411,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>2006年－2007年</p></td>
-<td><p><a href="../Page/瑪莉亞的凝望.md" title="wikilink">瑪莉亞的凝望 3rd Season</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/瑪莉亞的凝望" title="wikilink">瑪莉亞的凝望 3rd Season</a></p></td>
 <td></td>
 <td><p>小說</p></td>
 <td></td>
@@ -1453,13 +1453,13 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
-<td><p><a href="../Page/薄櫻鬼_～新選組奇譚～.md" title="wikilink">薄櫻鬼 雪華錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薄櫻鬼_～新選組奇譚～" title="wikilink">薄櫻鬼 雪華錄</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/浪客劍心#新京都篇.md" title="wikilink">浪客劍心 新京都篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪客劍心#新京都篇" title="wikilink">浪客劍心 新京都篇</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1546,14 +1546,14 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>1999年</p></td>
-<td><p><a href="../Page/逮捕令_(動畫)#劇場版.md" title="wikilink">逮捕令 the MOVIE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逮捕令_(動畫)#劇場版" title="wikilink">逮捕令 the MOVIE</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2000年</p></td>
-<td><p><a href="../Page/六門天外#電影版.md" title="wikilink">劇場版 六門天外 ～傳說的火焰龍～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/六門天外#電影版" title="wikilink">劇場版 六門天外 ～傳說的火焰龍～</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -1567,13 +1567,13 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>2010年</p></td>
-<td><p><a href="../Page/Fate/stay_night.md" title="wikilink">Fate/stay night Unlimited Blade Works</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/stay_night" title="wikilink">Fate/stay night Unlimited Blade Works</a></p></td>
 <td><p>遊戲</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/義呆利_Axis_Powers#電影.md" title="wikilink">銀幕意呆利Axis Powers Paint it, White（塗成白色吧！）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/義呆利_Axis_Powers#電影" title="wikilink">銀幕意呆利Axis Powers Paint it, White（塗成白色吧！）</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1581,7 +1581,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
-<td><p><a href="../Page/薄櫻鬼_～新選組奇譚～.md" title="wikilink">劇場版 薄櫻鬼 第一章 京都亂舞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/薄櫻鬼_～新選組奇譚～" title="wikilink">劇場版 薄櫻鬼 第一章 京都亂舞</a></p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -1602,10 +1602,10 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="../Page/音樂少女#短片電影動畫.md" title="wikilink">音樂少女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音樂少女#短片電影動畫" title="wikilink">音樂少女</a></p></td>
 <td></td>
 <td><p>原創</p></td>
-<td><p><a href="../Page/青年動畫製作者育成計劃.md" title="wikilink">動畫未來</a>2015出品作。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青年動畫製作者育成計劃" title="wikilink">動畫未來</a>2015出品作。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/明治東京戀伽.md" title="wikilink">劇場版『明治東亰戀伽』</a></p></td>
@@ -1623,7 +1623,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/青鬼.md" title="wikilink">青鬼 THE ANIMATION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青鬼" title="wikilink">青鬼 THE ANIMATION</a></p></td>
 <td><p>遊戲</p></td>
 <td></td>
 <td></td>
@@ -1663,9 +1663,9 @@ DEEN。
 <tr class="odd">
 <td><p>1979年</p></td>
 <td><p>2005年</p></td>
-<td><p><a href="../Page/哆啦A夢_(1979年電視動畫).md" title="wikilink">哆啦A夢 (1979年版)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哆啦A夢_(1979年電視動畫)" title="wikilink">哆啦A夢 (1979年版)</a></p></td>
 <td></td>
-<td><p><a href="../Page/SHIN-EI動畫.md" title="wikilink">SHIN-EI動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHIN-EI動畫" title="wikilink">SHIN-EI動畫</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -1707,7 +1707,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>1987年</p></td>
-<td><p><a href="../Page/小超人.md" title="wikilink">小超人帕門 (1983年版)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小超人" title="wikilink">小超人帕門 (1983年版)</a></p></td>
 <td></td>
 <td><p>SHIN-EI動畫</p></td>
 <td><p>漫畫</p></td>
@@ -1789,7 +1789,7 @@ DEEN。
 <tr class="even">
 <td><p>1992年－</p></td>
 <td><p><strong>播出中</strong></p></td>
-<td><p><a href="../Page/蠟筆小新.md" title="wikilink">蠟筆小新</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
 <td></td>
 <td><p>SHIN-EI動畫</p></td>
 <td><p>漫畫</p></td>
@@ -1824,7 +1824,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
-<td><p><a href="../Page/城市獵人#電視動畫特別篇.md" title="wikilink">城市獵人特別篇：再見我的甜心</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/城市獵人#電視動畫特別篇" title="wikilink">城市獵人特別篇：再見我的甜心</a></p></td>
 <td></td>
 <td><p>日昇動畫</p></td>
 <td></td>
@@ -1844,7 +1844,7 @@ DEEN。
 <td><p>1999年</p></td>
 <td><p><a href="../Page/天生一對_(漫畫).md" title="wikilink">天生一對</a></p></td>
 <td></td>
-<td><p><a href="../Page/J.C.STAFF.md" title="wikilink">J.C.STAFF</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/J.C.STAFF" title="wikilink">J.C.STAFF</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1869,7 +1869,7 @@ DEEN。
 </tr>
 <tr class="odd">
 <td><p>2001年</p></td>
-<td><p><a href="../Page/HUNTER×HUNTER.md" title="wikilink">HUNTER×HUNTER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">HUNTER×HUNTER</a></p></td>
 <td><p><a href="../Page/日本動畫公司.md" title="wikilink">日本動畫公司</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1904,7 +1904,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/怪醫黑傑克_(動畫)#特別篇《4個生命奇蹟》.md" title="wikilink">怪醫黑傑克2小時特別篇 4個生命奇蹟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怪醫黑傑克_(動畫)#特別篇《4個生命奇蹟》" title="wikilink">怪醫黑傑克2小時特別篇 4個生命奇蹟</a></p></td>
 <td></td>
 <td><p><a href="../Page/手塚製作公司.md" title="wikilink">手塚製作公司</a></p></td>
 <td><p>漫畫</p></td>
@@ -2012,7 +2012,7 @@ DEEN。
 <tbody>
 <tr class="odd">
 <td><p>1992年</p></td>
-<td><p><a href="../Page/偵探物語.md" title="wikilink">偵探物語 ～殺意的領域～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/偵探物語" title="wikilink">偵探物語 ～殺意的領域～</a></p></td>
 <td></td>
 <td><p><a href="../Page/安利美特.md" title="wikilink">animate</a></p></td>
 <td><p>漫畫</p></td>
@@ -2020,7 +2020,7 @@ DEEN。
 </tr>
 <tr class="even">
 <td><p>1998年</p></td>
-<td><p><a href="../Page/鐵拳系列.md" title="wikilink">鐵拳 -TEKKEN-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鐵拳系列" title="wikilink">鐵拳 -TEKKEN-</a></p></td>
 <td></td>
 <td><p>Four-Some</p></td>
 <td><p>遊戲</p></td>
@@ -2217,9 +2217,9 @@ DEEN。
 
 <!-- end list -->
 
-  - [無敵超人贊波3](../Page/無敵超人贊波3.md "wikilink")（1977年－1978年）
+  - [無敵超人贊波3](https://zh.wikipedia.org/wiki/無敵超人贊波3 "wikilink")（1977年－1978年）
 
-  - [無敵鋼人泰坦3](../Page/無敵鋼人泰坦3.md "wikilink")（1978年－1979年）
+  - [無敵鋼人泰坦3](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")（1978年－1979年）
 
   - [機動戰士鋼彈](../Page/機動戰士GUNDAM.md "wikilink")（1979年－1980年）
 
@@ -2229,7 +2229,7 @@ DEEN。
 
   - [太陽之牙](../Page/太陽之牙.md "wikilink")（1981年－1983年）
 
-  - [最強機器人大王者](../Page/最強機器_大王者.md "wikilink")（1981年－1982年）
+  - [最強機器人大王者](https://zh.wikipedia.org/wiki/最強機器_大王者 "wikilink")（1981年－1982年）
 
   - [戰鬥裝甲Xabungle](../Page/戰鬥裝甲Xabungle.md "wikilink")（1982年－1983年）
 
@@ -2239,7 +2239,7 @@ DEEN。
 
   - （1984年－1985年）
 
-  - [城市獵人系列](../Page/城市獵人.md "wikilink")
+  - [城市獵人系列](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")
 
       - 城市獵人（1987年－1988年）
       - 城市獵人2（1988年－1989年）
@@ -2258,11 +2258,11 @@ DEEN。
 
   - （總承包商：[土田製作公司](../Page/土田製作公司.md "wikilink")，1980年－1982年）
 
-  - [超能力魔美](../Page/超能力魔美.md "wikilink")（總承包商：[SHIN-EI動畫](../Page/SHIN-EI動畫.md "wikilink")，1987年－1989年）
+  - [超能力魔美](../Page/超能力魔美.md "wikilink")（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1987年－1989年）
 
-  - [北斗神拳2](../Page/北斗神拳.md "wikilink")（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，1987年－1988年）
+  - [北斗神拳2](../Page/北斗神拳.md "wikilink")（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，1987年－1988年）
 
-  - [新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")（總承包商：[GAINAX](../Page/GAINAX.md "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1995年－1996年）
+  - [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（總承包商：[GAINAX](../Page/GAINAX.md "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，1995年－1996年）
 
 #### 電影動畫
 
@@ -2278,7 +2278,7 @@ DEEN。
 
   - （1988年）
 
-  - [螢火蟲之墓](../Page/螢火蟲之墓.md "wikilink")（1988年）
+  - [螢火蟲之墓](https://zh.wikipedia.org/wiki/螢火蟲之墓 "wikilink")（1988年）
 
   - [蒸汽男孩](../Page/蒸汽男孩.md "wikilink")（2004年）
 
@@ -2286,7 +2286,7 @@ DEEN。
 
 #### 電視動畫
 
-  - [來玩遊戲吧](../Page/來玩遊戲吧.md "wikilink")（負責攝影（DEEN
+  - [來玩遊戲吧](https://zh.wikipedia.org/wiki/來玩遊戲吧 "wikilink")（負責攝影（DEEN
     digital名義），總承包商：[Lerche](../Page/雲雀工作室.md "wikilink")，2018年）
 
 ## 相關人物
@@ -2299,7 +2299,7 @@ DEEN。
 
   - 岡戶智凱
 
-  - [岡真里子](../Page/岡真里子.md "wikilink")
+  - [岡真里子](https://zh.wikipedia.org/wiki/岡真里子 "wikilink")
 
   - 奧田泰弘
 
@@ -2352,7 +2352,7 @@ DEEN。
 
   - [上田茂](../Page/上田茂.md "wikilink")
   - [川瀨敏文](../Page/川瀨敏文.md "wikilink")
-  - [今千秋](../Page/今千秋.md "wikilink")
+  - [今千秋](https://zh.wikipedia.org/wiki/今千秋 "wikilink")
   - [西村純二](../Page/西村純二.md "wikilink")
   - 畠山守
   - [古橋一浩](../Page/古橋一浩.md "wikilink")
@@ -2363,9 +2363,9 @@ DEEN。
 
   - 鮑伯白旗
   - [元永慶太郎](../Page/元永慶太郎.md "wikilink")
-  - [柳澤哲也](../Page/柳澤哲也.md "wikilink")
+  - [柳澤哲也](https://zh.wikipedia.org/wiki/柳澤哲也 "wikilink")
   - 吉田俊司
-  - [渡邊浩](../Page/渡邊浩.md "wikilink")
+  - [渡邊浩](https://zh.wikipedia.org/wiki/渡邊浩 "wikilink")
   - [押井守](../Page/押井守.md "wikilink")
 
 </div>

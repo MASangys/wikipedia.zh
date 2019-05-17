@@ -3,9 +3,10 @@ JUNO**是[日本的女性](../Page/日本.md "wikilink")[創作歌手](../Page/�
 
 ## 概要
 
-主要唱英文歌、以强有力的高声和精致的合唱为特色。以前当过演员。退日本的動作班之后在广东省深圳读书、回到日本才開始写曲。JUNO受影响的是1970年代西方摇滚乐、歌声有1980年代美国[硬摇滚的味道](../Page/硬摇滚.md "wikilink")。有許多合作乐曲。[新海誠的CG动畫](../Page/新海誠.md "wikilink")《[星之聲](../Page/星之聲.md "wikilink")》的主题曲是JUNO作词的，但歌曲的印象和她以往的風格根本不一样。2011年参加[日本重金属乐队](../Page/日本重金属.md "wikilink")
-**CLOUD FOREST**（**板倉淳** [Marino](../Page/Marino.md "wikilink"),[Terra
-Roza](../Page/Terra_Roza.md "wikilink") / **宇都宮LEO**
+主要唱英文歌、以强有力的高声和精致的合唱为特色。以前当过演员。退日本的動作班之后在广东省深圳读书、回到日本才開始写曲。JUNO受影响的是1970年代西方摇滚乐、歌声有1980年代美国[硬摇滚的味道](https://zh.wikipedia.org/wiki/硬摇滚 "wikilink")。有許多合作乐曲。[新海誠的CG动畫](../Page/新海誠.md "wikilink")《[星之聲](../Page/星之聲.md "wikilink")》的主题曲是JUNO作词的，但歌曲的印象和她以往的風格根本不一样。2011年参加[日本重金属乐队](../Page/日本重金属.md "wikilink")
+**CLOUD FOREST**（**板倉淳**
+[Marino](https://zh.wikipedia.org/wiki/Marino "wikilink"),[Terra
+Roza](https://zh.wikipedia.org/wiki/Terra_Roza "wikilink") / **宇都宮LEO**
 Oil,Belladonna,Jesus / **井本ETSU** Belladonna / **前田RICHI**）。
 
 ## 唱片
@@ -35,11 +36,13 @@ Oil,Belladonna,Jesus / **井本ETSU** Belladonna / **前田RICHI**）。
       - <small>2007</small> 夜を越えて（1 new / 2 remix /
         全8首）[片霧烈火等](../Page/片霧烈火.md "wikilink")
       - <small>2006</small> WHITE AVALON（4 new / 全22首）*plus AVALON
-        avalon all [mp3](../Page/mp3.md "wikilink") data*
+        avalon all [mp3](https://zh.wikipedia.org/wiki/mp3 "wikilink")
+        data*
       - <small>2006</small> ARIA（1 new / 全14首）
       - <small>2005</small> Caldes（3 new / 全16首）
       - <small>2004</small> Avalon（3 new / 全16首）*"[Fate/stay
-        night](../Page/Fate/stay_night.md "wikilink")"翻唱 新編曲/歌詞*
+        night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")"翻唱
+        新編曲/歌詞*
       - <small>2004</small> もうなかないで（2 new / 全9首）*有日文歌*
       - <small>2004</small> voyager (1 new / 1 remix / 10首 plus bonus)
       - <small>2003</small> Feline Groove II（1 new / 全16首）
@@ -69,9 +72,10 @@ Oil,Belladonna,Jesus / **井本ETSU** Belladonna / **前田RICHI**）。
 
 <!-- end list -->
 
-  - **[新海诚](../Page/新海诚.md "wikilink")**
+  - **[新海诚](https://zh.wikipedia.org/wiki/新海诚 "wikilink")**
       - <small>2002</small> [星之聲](../Page/星之聲.md "wikilink") 主題曲「THROUGH
-        THE YEARS AND FAR AWAY」填词（作曲 [天門](../Page/天門.md "wikilink")）
+        THE YEARS AND FAR AWAY」填词（作曲
+        [天門](https://zh.wikipedia.org/wiki/天門 "wikilink")）
 
 ## 照片
 

@@ -1,15 +1,15 @@
 [VAX_11-780_intero.jpg](https://zh.wikipedia.org/wiki/File:VAX_11-780_intero.jpg "fig:VAX_11-780_intero.jpg")
 **VAX**（Virtual Address
-eXtension）是一種可以支持[機器語言和](../Page/機器語言.md "wikilink")[虛擬地址的](../Page/虛擬地址.md "wikilink")[32位](../Page/32位.md "wikilink")[小型計算機](../Page/小型計算機.md "wikilink")。VAX最初由[迪吉多電腦公司](../Page/迪吉多.md "wikilink")（DEC）在二十世紀七十年代初發明。
+eXtension）是一種可以支持[機器語言和](https://zh.wikipedia.org/wiki/機器語言 "wikilink")[虛擬地址的](https://zh.wikipedia.org/wiki/虛擬地址 "wikilink")[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[小型計算機](https://zh.wikipedia.org/wiki/小型計算機 "wikilink")。VAX最初由[迪吉多電腦公司](../Page/迪吉多.md "wikilink")（DEC）在二十世紀七十年代初發明。
 
 ## 命名
 
 VAX是Virtual Address
-eXtension的簡稱。主要因其為[16位的](../Page/16位.md "wikilink")[PDP-11擴展版本](../Page/PDP-11.md "wikilink")，及較早應用虛擬内存管理地址空間而命名。早期的VAX處理器同時可以兼容PDP-11的指令。甚至事實上有時會被叫做VAX-11，以彰顯其與PDP-11的淵源和兼容性。之後的版本去掉了同PDP-11的兼容模式。
+eXtension的簡稱。主要因其為[16位的](https://zh.wikipedia.org/wiki/16位 "wikilink")[PDP-11擴展版本](../Page/PDP-11.md "wikilink")，及較早應用虛擬内存管理地址空間而命名。早期的VAX處理器同時可以兼容PDP-11的指令。甚至事實上有時會被叫做VAX-11，以彰顯其與PDP-11的淵源和兼容性。之後的版本去掉了同PDP-11的兼容模式。
 
 ## 作業系統
 
-VAX推出時，配備系統是[DEC的](../Page/DEC.md "wikilink")[VAX/VMS](../Page/OpenVMS.md "wikilink")，後來許多[UNIX版本也支援VAX](../Page/UNIX.md "wikilink")。
+VAX推出時，配備系統是[DEC的](https://zh.wikipedia.org/wiki/DEC "wikilink")[VAX/VMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")，後來許多[UNIX版本也支援VAX](../Page/UNIX.md "wikilink")。
 
 ## 歷史
 

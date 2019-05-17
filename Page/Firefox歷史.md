@@ -1,7 +1,7 @@
 **[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")**[網頁瀏覽器最初是由](../Page/網頁瀏覽器.md "wikilink")[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")**[網頁瀏覽器最初是由](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[Mozilla
 Application
-Suite所分支的的實驗性專案](../Page/Mozilla_Application_Suite.md "wikilink")，由[戴夫·海厄特及](../Page/戴夫·海厄特.md "wikilink")[布雷克·罗斯所](../Page/布雷克·罗斯.md "wikilink")-{zh-hans:创建;
+Suite所分支的的實驗性專案](../Page/Mozilla_Application_Suite.md "wikilink")，由[戴夫·海厄特及](../Page/戴夫·海厄特.md "wikilink")[布雷克·罗斯所](https://zh.wikipedia.org/wiki/布雷克·罗斯 "wikilink")-{zh-hans:创建;
 zh-hant:建立}-。Firefox 1.0於2004年11月9日發行。
 
 ## 命名過程
@@ -10,15 +10,15 @@ zh-hant:建立}-。Firefox 1.0於2004年11月9日發行。
 
 [Phoenix_0.1.png](https://zh.wikipedia.org/wiki/File:Phoenix_0.1.png "fig:Phoenix_0.1.png")
 Firefox起源於叫做「m／b」（或稱mozilla／browser）的[Mozilla
-Suite實驗性分支](../Page/Mozilla_Suite.md "wikilink")，2002年9月，以Phoenix為名，釋出測試用執行檔而正式問世。Phoenix朝著和其上游的Mozilla
+Suite實驗性分支](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，2002年9月，以Phoenix為名，釋出測試用執行檔而正式問世。Phoenix朝著和其上游的Mozilla
 Suite完全不同的開發方向進行。相較於Mozilla
 Suite是以資深工程師為首，組織大型開發團隊的大型應用軟體，Phoenix的開發成員，則是特別專注於網頁瀏覽功能的小型核心式團隊。這種小型志願專案的形式源自於更早期，[戴夫·海厄特與](../Page/戴夫·海厄特.md "wikilink")[本·古德傑以](../Page/本·古德傑.md "wikilink")[Netscape和](../Page/網景_\(瀏覽器\).md "wikilink")[Internet
-Explorer為基礎](../Page/Internet_Explorer.md "wikilink")，使用[C♯和](../Page/C♯.md "wikilink")[.NET語言撰寫的Manticore瀏覽器](../Page/.NET.md "wikilink")。Manticore意在以精幹的軟體型態，提供基本瀏覽功能；而[布雷克·羅斯和戴夫](../Page/布雷克·羅斯.md "wikilink")·海厄特的Phoenix計畫，則著眼於瀏覽體驗的創新。致力於將安全及效能作為支柱，且不被Netscape的商業心態的約束，才能開發出一個「完全替終端使用者量身訂造」的瀏覽器。Phoenix這個名字一直使用至2003年4月14日，因為與[BIOS製造商Phoenix](../Page/BIOS.md "wikilink")
+Explorer為基礎](../Page/Internet_Explorer.md "wikilink")，使用[C♯和](../Page/C♯.md "wikilink")[.NET語言撰寫的Manticore瀏覽器](https://zh.wikipedia.org/wiki/.NET "wikilink")。Manticore意在以精幹的軟體型態，提供基本瀏覽功能；而[布雷克·羅斯和戴夫](../Page/布雷克·羅斯.md "wikilink")·海厄特的Phoenix計畫，則著眼於瀏覽體驗的創新。致力於將安全及效能作為支柱，且不被Netscape的商業心態的約束，才能開發出一個「完全替終端使用者量身訂造」的瀏覽器。Phoenix這個名字一直使用至2003年4月14日，因為與[BIOS製造商Phoenix](../Page/BIOS.md "wikilink")
 Technologies的商標糾紛而更名\[1\]\[2\]。
 
 ### Firebird
 
-在2003年4月，Mozilla宣佈他們的新瀏覽器將命名為Firebird，以避開與Phoenix的爭議。Firebird是個通過自焚重生的神話生物[不死鳥](../Page/不死鳥.md "wikilink")，有時也被認為是[鳳凰的別稱](../Page/鳳凰.md "wikilink")。這個新名字引起了許多不同的反應，特別是激起了早以[Firebird為名的自由軟體資料庫專案強烈反彈](../Page/Firebird_\(資料庫\).md "wikilink")。因應於此，[Mozilla基金會亦表示他們將會永遠使用](../Page/Mozilla基金會.md "wikilink")「Mozilla
+在2003年4月，Mozilla宣佈他們的新瀏覽器將命名為Firebird，以避開與Phoenix的爭議。Firebird是個通過自焚重生的神話生物[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，有時也被認為是[鳳凰的別稱](https://zh.wikipedia.org/wiki/鳳凰 "wikilink")。這個新名字引起了許多不同的反應，特別是激起了早以[Firebird為名的自由軟體資料庫專案強烈反彈](https://zh.wikipedia.org/wiki/Firebird_\(資料庫\) "wikilink")。因應於此，[Mozilla基金會亦表示他們將會永遠使用](../Page/Mozilla基金會.md "wikilink")「Mozilla
 Firebird」的名稱，以避免和Firebird資料庫混淆\[3\]\[4\]。
 
 ### Firefox
@@ -26,19 +26,19 @@ Firebird」的名稱，以避免和Firebird資料庫混淆\[3\]\[4\]。
 來自Firebird社群的持續壓力，迫使2004年2月9日的另一次改變，Mozilla Phoenix計劃再次更名成Mozilla
 Firefox（簡稱Firefox）。「Firefox」是「小熊貓」的暱稱，因為它和「Firebird」的相似性、以及它在資訊產業中的獨特性而雀屏中選。
 
-為了確保不會再有變更名稱的問題，Mozilla基金會在2003年12月向[美國專利商標局申請註冊Firefox商標](../Page/美國專利商標局.md "wikilink")\[5\]。不幸的是此時發現，在英國Firefox已是Charlton
+為了確保不會再有變更名稱的問題，Mozilla基金會在2003年12月向[美國專利商標局申請註冊Firefox商標](https://zh.wikipedia.org/wiki/美國專利商標局 "wikilink")\[5\]。不幸的是此時發現，在英國Firefox已是Charlton
 Company軟體公司的註冊商標。這個問題導致Firefox 0.8延遲了幾個月釋出，在Mozilla基金會取得Charlton
 Company的歐洲商標使用權後順利解決\[6\]\[7\]。
 
-Mozilla官方建議的Firefox縮寫为[Fx或fx](../Page/Mozilla_Firefox.md "wikilink")\[8\]，但一般大眾有時寫成而并非想当然的[FF](../Page/FF.md "wikilink")
-\[9\]。雖然firefox在英文俗語中指的是[小熊貓](../Page/小熊貓.md "wikilink")，但[吉祥物及官方圖示都是](../Page/吉祥物.md "wikilink")[狐狸](../Page/狐狸.md "wikilink")。
+Mozilla官方建議的Firefox縮寫为[Fx或fx](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[8\]，但一般大眾有時寫成而并非想当然的[FF](https://zh.wikipedia.org/wiki/FF "wikilink")
+\[9\]。雖然firefox在英文俗語中指的是[小熊貓](https://zh.wikipedia.org/wiki/小熊貓 "wikilink")，但[吉祥物及官方圖示都是](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[狐狸](https://zh.wikipedia.org/wiki/狐狸 "wikilink")。
 
 ## 早期版本
 
 Firefox保留Mozilla Application
-Suite原有的跨平台特性，使用了[XUL使用者介面語言](../Page/XUL.md "wikilink")。XUL的運用使得能利用[佈景主題與擴充套件來延伸瀏覽器功能](../Page/皮肤_\(电脑\).md "wikilink")。然而附加元件的開發與安裝衍生了一些安全性問題，因此在Firefox
+Suite原有的跨平台特性，使用了[XUL使用者介面語言](../Page/XUL.md "wikilink")。XUL的運用使得能利用[佈景主題與擴充套件來延伸瀏覽器功能](https://zh.wikipedia.org/wiki/皮肤_\(电脑\) "wikilink")。然而附加元件的開發與安裝衍生了一些安全性問題，因此在Firefox
 0.9釋出時，Mozilla基金會同時公開Mozilla Update網站（即後來的[Mozilla
-Add-ons網站](../Page/Mozilla_Add-ons.md "wikilink")）來提供「合法的」佈景主題與擴充套件。XUL的運用將Firefox從其它使用Gecko排版引擎開發的瀏覽器（如[Galeon](../Page/Galeon.md "wikilink")、[Epiphany使用](../Page/Epiphany.md "wikilink")[GTK+](../Page/GTK+.md "wikilink")、[K-Meleon使用](../Page/K-Meleon.md "wikilink")[MFC與](../Page/MFC.md "wikilink")[Camino使用](../Page/Camino.md "wikilink")[Cocoa](../Page/Cocoa.md "wikilink")）及大多數其它使用原生作業系統介面的瀏覽器中區別開來。
+Add-ons網站](https://zh.wikipedia.org/wiki/Mozilla_Add-ons "wikilink")）來提供「合法的」佈景主題與擴充套件。XUL的運用將Firefox從其它使用Gecko排版引擎開發的瀏覽器（如[Galeon](../Page/Galeon.md "wikilink")、[Epiphany使用](https://zh.wikipedia.org/wiki/Epiphany "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[K-Meleon使用](../Page/K-Meleon.md "wikilink")[MFC與](https://zh.wikipedia.org/wiki/MFC "wikilink")[Camino使用](../Page/Camino.md "wikilink")[Cocoa](../Page/Cocoa.md "wikilink")）及大多數其它使用原生作業系統介面的瀏覽器中區別開來。
 
 2004年2月5日，商業和IT顧問公司AMS將Mozilla Firefox（當時稱為Firebird）歸類為「Tier
 1」（最佳的）等級的開放原始碼產品，AMS認為Firebird擁有優秀的技術和幾乎沒有風險\[10\]。
@@ -60,7 +60,7 @@ Firefox
 早期的Firefox使用者一定記得，Firefox
 0.9的選項對話方塊中，在設定[Cookie的地方是這樣解釋Cookie的](../Page/Cookie.md "wikilink")：「Cookie是精緻的美味。」（"Cookies
 are delicious
-delicacies."）。這個解釋如傳奇一般流傳開來，它讓開發人員感覺到幽默和傳神，但是卻令普通使用者如墜雲霧。實際上，布雷克·羅斯當時只是一時找不到一句簡短的描述來解釋Cookie，便隨手寫下了這句話放在這裡占位置。他後來解釋道：「在這麼小的空間裡面解釋這麼複雜的東西，坦白的說，我想最後我可能要重寫整個Cookie管理器」。這個對普通使用者不友好的特性後來作為一個[Bug被提出到](../Page/Bug.md "wikilink")[Bugzilla資料庫](../Page/Bugzilla.md "wikilink")，並在2004年7月被「修正」\[14\]\[15\]。現在，這個文字被取代成了索然無味的：「Cookie是網站在您的電腦中儲存的訊息『片段』。一般用來記住登入訊息或其它資料。」。不過故事並沒有結束，「精緻美味」傳說的終結引起了一些人的不滿，於是Jesse
+delicacies."）。這個解釋如傳奇一般流傳開來，它讓開發人員感覺到幽默和傳神，但是卻令普通使用者如墜雲霧。實際上，布雷克·羅斯當時只是一時找不到一句簡短的描述來解釋Cookie，便隨手寫下了這句話放在這裡占位置。他後來解釋道：「在這麼小的空間裡面解釋這麼複雜的東西，坦白的說，我想最後我可能要重寫整個Cookie管理器」。這個對普通使用者不友好的特性後來作為一個[Bug被提出到](https://zh.wikipedia.org/wiki/Bug "wikilink")[Bugzilla資料庫](../Page/Bugzilla.md "wikilink")，並在2004年7月被「修正」\[14\]\[15\]。現在，這個文字被取代成了索然無味的：「Cookie是網站在您的電腦中儲存的訊息『片段』。一般用來記住登入訊息或其它資料。」。不過故事並沒有結束，「精緻美味」傳說的終結引起了一些人的不滿，於是Jesse
 Ruderman專門開發了一個Delicious
 Delicacies擴充套件用來將那個描述取消復原成原來的文字\[16\]。在中文版本中，一直到1.5版本，這個著名的句子才被取代掉。
 
@@ -77,13 +77,13 @@ Firefox 2.0發表於2006年10月24日。Firefox 2.0.0.20是該系列的最後一
 
 Firefox 3.0發表於2008年6月17日\[19\]。該版本修正了非常多錯誤，也增加對網頁標準的相容性，還有許多新的Web
 APIs提供開發者使用。其他新功能包括重新設計的下載管理員、新的“Place”系統來儲存書籤和瀏覽記錄以及在各種作業系統上有一致性的佈景主題。Firefox
-3發布創下一天內超過800萬下載次數的[金氏世界紀錄](../Page/金氏世界紀錄.md "wikilink")\[20\]。當天，微軟Internet
+3發布創下一天內超過800萬下載次數的[金氏世界紀錄](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")\[20\]。當天，微軟Internet
 Explorer團隊再次送上蛋糕，祝賀Firefox 3發佈\[21\]。
 
 ### Firefox 3.5
 
 Firefox
-3.5的開發代號為Shiretoko。初期的版本號為3.1，但為了反應出大幅度的改善以及增加的新功能，正式版本命名為3.5。其中最大的革新是加入了全新的JavaScript引擎[TraceMonkey](../Page/TraceMonkey.md "wikilink")，大幅提高頁面渲染的速度。並且支援了-{zh-hans:隐私;
+3.5的開發代號為Shiretoko。初期的版本號為3.1，但為了反應出大幅度的改善以及增加的新功能，正式版本命名為3.5。其中最大的革新是加入了全新的JavaScript引擎[TraceMonkey](https://zh.wikipedia.org/wiki/TraceMonkey "wikilink")，大幅提高頁面渲染的速度。並且支援了-{zh-hans:隐私;
 zh-tw:私密}-瀏覽功能，Firefox圖示也重新繪製\[22\]\[23\]\[24\]。
 
 ### Firefox 3.6
@@ -100,14 +100,14 @@ Player這類的外掛程式將隔離到另一個獨立的](../Page/Adobe_Flash_P
 Mozilla技術長[布蘭登·艾克提出了](../Page/布蘭登·艾克.md "wikilink")「Mozilla
 2」的計劃，指的是對目前Firefox和其他產品（自推出以來）的一次最全面的更替\[27\]。這個計劃大多數特性已從Firefox
 3.0、3.5及3.6版本開始納入，不過當中最大的改變被延遲到Firefox 4.0。Firefox
-4.0的新特性包括全新的使用者介面\[28\]\[29\]\[30\]、新的JavaScript引擎[JägerMonkey](../Page/JägerMonkey.md "wikilink")\[31\]、分頁群組、應用程式分頁、重新設計的附加元件管理員、整合[Firefox同步以及支援螢幕多點觸控等](../Page/Firefox同步.md "wikilink")\[32\]\[33\]\[34\]\[35\]。發布後當天，微軟Internet
+4.0的新特性包括全新的使用者介面\[28\]\[29\]\[30\]、新的JavaScript引擎[JägerMonkey](https://zh.wikipedia.org/wiki/JägerMonkey "wikilink")\[31\]、分頁群組、應用程式分頁、重新設計的附加元件管理員、整合[Firefox同步以及支援螢幕多點觸控等](https://zh.wikipedia.org/wiki/Firefox同步 "wikilink")\[32\]\[33\]\[34\]\[35\]。發布後當天，微軟Internet
 Explorer團隊再次獻上蛋糕，祝賀Firefox 4.0發佈\[36\]。
 
 ## 快速釋出週期
 
 2011年4月，開發過程分成幾個“頻道”，每個頻道在不同的[開發階段進行建構](../Page/軟件版本週期.md "wikilink")：
 
-  - 每夜版（Nightly）：汇集每天源代码的改动，提供最新的尚未被Mozilla[品質保证團隊測試的新功能](../Page/品質保证.md "wikilink")，不保证稳定性。
+  - 每夜版（Nightly）：汇集每天源代码的改动，提供最新的尚未被Mozilla[品質保证團隊測試的新功能](https://zh.wikipedia.org/wiki/品質保证 "wikilink")，不保证稳定性。
   - 曙光版（Aurora）：亦每天均有更新，每六周合并一次来自Nightly的最新代码，它将修复在Nightly中出现的关键问题，能在基本稳定的前提下提供新功能，自35版起，被更名為*Developer
     Edition*，54版推出*Developer Edition*的最後一個版本。
   - 測試版（Beta）：会不定期快速更新，它经过廣泛的品質測試，预计可提供给一千万用户所使用\[37\]以进一步测试其稳定性。从Beta开始，Mozilla会提供包含数字签名的安装包及可执行程序，并使用正式的Firefox名称及标志。
@@ -121,7 +121,7 @@ Chrome等其他瀏覽器進行較量\[41\]。
 #### Firefox 5.0
 
 Firefox 5.0正式版发布于2011年6月21日，除了保留了Firefox
-4的全新界面，还在前版本的基础上增加了“禁止网站追踪功能”（[请勿跟踪](../Page/请勿跟踪.md "wikilink")）
+4的全新界面，还在前版本的基础上增加了“禁止网站追踪功能”（[请勿跟踪](https://zh.wikipedia.org/wiki/请勿跟踪 "wikilink")）
 \[42\]。
 
 發布後，微軟IE团队送上一个小杯子蛋糕\[43\]。
@@ -162,7 +162,7 @@ Firefox
 Firefox 9.0正式版发布于2011年12月20日。Firefox
 9加入了类型推断技术，从而在JavaScript的性能上有了30%的提升。对[Mac
 OS
-X有了更佳的支援](../Page/Mac_OS_X.md "wikilink")，使用者可通過雙指滑動手勢更加方便的瀏覽網頁。此外，新版本对网页开发者的工作也提供了更好之支持，在处理大量数据或是使用
+X有了更佳的支援](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用者可通過雙指滑動手勢更加方便的瀏覽網頁。此外，新版本对网页开发者的工作也提供了更好之支持，在处理大量数据或是使用
 AJAX 技术的网站时加载速度更快，不用等待所有下载完成就可以显示相关内容。\[54\]
 
 ### Firefox 10–16
@@ -175,7 +175,8 @@ Firefox 10.0正式版发布于2012年1月31日。 特性\[55\]\[56\]
   - 預設隱藏至下一頁按鈕，除非執行了回到上一頁操作
   - 支援[WebGL反鋸齒](../Page/WebGL.md "wikilink")
   - 全螢幕APIs支援創建可全螢幕的web應用
-  - 支援[CSS3](../Page/CSS3.md "wikilink") 3D-Transforms
+  - 支援[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")
+    3D-Transforms
   - 為開發增加了高亮顯示內容的檢測工具，博阿凱CSS Style Inspector，新增了IndexedDB APIs
   - 修復了部分用戶移動標籤時遭遇的崩潰的問題
   - 首個“長期支持版本”（Extended Support
@@ -206,8 +207,9 @@ Firefox 11.0正式版发布于2012年3月13日。 特性\[57\]
 
 Firefox 12.0正式版发布于2012年4月24日。 特性\[58\]
 
-  - 在[微軟](../Page/微軟.md "wikilink")[Windows](../Page/Windows.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")：Firefox更新時，現在可以減少一次使用者帳戶控制設定（[User
-    Account Control](../Page/User_Account_Control.md "wikilink")）
+  - 在[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Firefox更新時，現在可以減少一次使用者帳戶控制設定（[User
+    Account
+    Control](https://zh.wikipedia.org/wiki/User_Account_Control "wikilink")）
   - 查看網頁源碼時加入行數
   - 標題（Title attribute）現在支援換行（Line breaks）
   - 改善「網頁搜尋」功能，搜尋結果現會置中
@@ -215,7 +217,8 @@ Firefox 12.0正式版发布于2012年4月24日。 特性\[58\]
   - 支援CSS的column-fill元素（須要 -moz- 前綴）
   - 支援CSS的text-align-last元素
   - 實施ECMAScript 6 Map and Set的測試性支援
-  - 在[Mac OS X作業系統](../Page/Mac_OS_X.md "wikilink")：修正在某些硬件上WebGL表現下降的問題
+  - 在[Mac OS
+    X作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")：修正在某些硬件上WebGL表現下降的問題
 
 #### Firefox 13.0
 
@@ -243,7 +246,8 @@ Firefox安卓版 14.0发布于2012年6月26日。\[67\]
 
 特性\[68\]
 
-  - 採用 [HTTPS](../Page/HTTPS.md "wikilink") 進行 Google 搜尋
+  - 採用 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 進行 Google
+    搜尋
   - Mac OS X Lion 的全螢幕支援\[69\]
   - 可以設定外掛程式，改為點選一下才載入（需調整一個 <about:config> 設定\[70\]）
   - 智慧網址列輸入時的 自動完成 URL\[71\] 功能
@@ -304,7 +308,7 @@ Firefox 16.0正式版发布于2012年10月9日。 特性\[87\]
 
   - Mac OS X 版本的 Firefox 已初步支援 VoiceOver，且預設\[88\]即啟用
   - 開始支援 web app\[89\]
-    ([Windows](../Page/Windows.md "wikilink")/[Mac](../Page/Mac.md "wikilink")/[Linux](../Page/Linux.md "wikilink"))。
+    ([Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")/[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")/[Linux](../Page/Linux.md "wikilink"))。
   - 新增 Acholi 及 Kazakh 語系支援。
   - 藉由增量垃圾回收（incremental garbage collection\[90\]）增進
     [JavaScript](../Page/JavaScript.md "wikilink") 回應速度。
@@ -337,12 +341,12 @@ Firefox 17.0正式版发布于2012年11月20日。 特性\[98\]
   - 修正Pointer lock 在 web app 中無法使用的問題。（ bug 769150\[102\]）
   - 修正在有固定置頂元素網頁的頁面的捲動問題。（bug 780345\[103\]）
   - Mozilla已在2012年11月釋出的Firefox
-    17版修補該漏洞。起因美國國安局（[NSA](../Page/NSA.md "wikilink")）及英國政府通訊總部（Government
+    17版修補該漏洞。起因美國國安局（[NSA](https://zh.wikipedia.org/wiki/NSA "wikilink")）及英國政府通訊總部（Government
     Communications Headquarter，GCHQ）於2012年6月發佈名為Tor
     Stinks的簡報檔，檔案中兩國政府單位提及監聽[Tor網路困難重重](../Page/Tor.md "wikilink")，文中表示「無法辨識出所有Tor用戶的身份。而以人工分析後，我們得以辨識非常小部份的Tor用戶。」然而對特定呼叫有回應的用戶，國安單位未成功辨識出任何身份。
     之後利用代號為「EgotisticalGiraffe」的技術（靠入侵[Tor](../Page/Tor.md "wikilink")
     Browser
-    Bundle軟體漏洞，特別是Firefox），NSA在用戶可能造訪的網站或[論壇植入](../Page/論壇.md "wikilink")[惡意程式](../Page/惡意程式.md "wikilink")，然後趁用戶造訪時植入其電腦，並藉此蒐集資料，監聽[Tor網路](../Page/Tor.md "wikilink")（The
+    Bundle軟體漏洞，特別是Firefox），NSA在用戶可能造訪的網站或[論壇植入](https://zh.wikipedia.org/wiki/論壇 "wikilink")[惡意程式](https://zh.wikipedia.org/wiki/惡意程式 "wikilink")，然後趁用戶造訪時植入其電腦，並藉此蒐集資料，監聽[Tor網路](../Page/Tor.md "wikilink")（The
     Onion
     Router）。雖然NSA表示這是為了瞄準恐怖份子或有組織的罪犯，但《[衛報](../Page/衛報.md "wikilink")》表示，這類攻擊也可能傷害到新聞記者、研究人員，或是不小心造訪這些網站的人。
     \[104\]
@@ -456,13 +460,14 @@ Firefox 22.0正式版发布于2013年6月25日。 特性\[143\]
   - 可以變更 [HTML5](../Page/HTML5.md "wikilink") audio/video 的播放速度。
   - 附加元件管理員中實作了社交服務的管理功能。
   - 啟用 asm.js
-    最佳化功能（[OdinMonkey](../Page/SpiderMonkey#OdinMonkey.md "wikilink")\[145\]）而達到重大效能改善。\[146\]
+    最佳化功能（[OdinMonkey](https://zh.wikipedia.org/wiki/SpiderMonkey#OdinMonkey "wikilink")\[145\]）而達到重大效能改善。\[146\]
   - 藉由非同步 canvas 更新\[147\]改善 WebGL 描繪效能。
   - 在 Firefox 中顯示的純文字檔案，現在會 word-wrap（折行）顯示。
   - 安全性考量，web 內容不再能夠存取 |Components| 物件。
   - 即使不在全螢幕中，仍可使用 Pointer Lock API。
   - 改善描繪圖片時的記憶體用量與顯示時間\[148\]。
-  - 實作 [CSS3](../Page/CSS3.md "wikilink") Flexbox\[149\]，且預設就是啟用的
+  - 實作 [CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")
+    Flexbox\[149\]，且預設就是啟用的
   - 實作了新的 Web Notifications API。
   - 新增 clipboardData API，讓 JavaScript 得以存取使用者剪貼簿。
   - 內建新的字型檢測器。
@@ -578,10 +583,11 @@ Firefox 28.0正式版发布于2014年3月18日。 特性\[195\]
   - 支援 [VP9](../Page/VP9.md "wikilink") 影像解碼。
   - Mac OS X: 在通知中心顯示 Web Notification。
   - HTML5 audio/video 音量控制。
-  - WebM 的 [Opus](../Page/Opus.md "wikilink") 支援。
+  - WebM 的 [Opus](https://zh.wikipedia.org/wiki/Opus "wikilink") 支援。
   - 支援 [spdy](../Page/SPDY.md "wikilink")/3，並移除 spdy/2 支援。不使用 spdy/3
     的伺服器仍將順暢地以 http/1 進行通訊。
-  - 支援 [MathML](../Page/MathML.md "wikilink") 2.0 'mathvariant' 屬性。
+  - 支援 [MathML](https://zh.wikipedia.org/wiki/MathML "wikilink") 2.0
+    'mathvariant' 屬性。
   - 背景[-{A停滯報告](../Page/线程.md "wikilink")。
   - 支援多行 flexbox 配置。
   - 支援使用[-{A](../Page/手柄.md "wikilink")（Gamepad）來操控網頁遊戲：在瀏覽列輸入「about:config」進入控制台，然後在「dom.gamepad.enabled」欄位修改設定為
@@ -702,7 +708,7 @@ Firefox 32.0正式版发布于2014年9月2日。 特性\[231\]
 Firefox 33.0正式版发布于2014年10月14日。 特性\[248\]
 
   - 支援
-    [OpenH264](../Page/OpenH264.md "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
+    [OpenH264](https://zh.wikipedia.org/wiki/OpenH264 "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
   - 改善網址列的搜尋使用體驗\[250\]。
   - 更加輕巧快速的 JavaScript 字串\[251\]。
   - Firefox 開始頁（about:home）和新分頁（about:newtab）開始支援搜尋建議功能。
@@ -710,7 +716,8 @@ Firefox 33.0正式版发布于2014年10月14日。 特性\[248\]
   - 新的 CSP（）後端。
   - 支援以 HTTPS 連線至 HTTP proxy。
   - 改善還原瀏覽分頁\[253\]的可靠性。
-  - 新增[亞塞拜然](../Page/亞塞拜然.md "wikilink")（Azerbaijani, az）語系支援。
+  - 新增[亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")（Azerbaijani,
+    az）語系支援。
   - 移除 window.crypto 屬性與函數。
   - 移除 JSD（JavaScript Debugger Service）\[254\]，以 Debugger 介面取代。
   - 實作 [CSS3 Counter Styles 標準的](../Page/瀏覽器引擎CSS支援比較.md "wikilink")
@@ -732,15 +739,14 @@ Firefox 34.0正式版发布于2014年12月1日。 特性\[265\]
   - 將白俄羅斯、哈薩克和俄羅斯語系的預設搜尋引擎改為[Yandex](../Page/Yandex.md "wikilink")。
   - 改善搜尋列功能（限 en-US 語系）。
   - Firefox Hello\[266\]\[267\]\[268\]即時通訊客戶端。
-  - 在自訂模式中輕鬆切換佈景主題／[Persona](../Page/附加组件_\(Mozilla\)#主题.md "wikilink")\[269\]。
-  - [英文維基百科搜尋改用](../Page/英文維基百科.md "wikilink")[HTTPS進行安全搜尋](../Page/HTTPS.md "wikilink")（限
+  - 在自訂模式中輕鬆切換佈景主題／[Persona](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\)#主题 "wikilink")\[269\]。
+  - [英文維基百科搜尋改用](https://zh.wikipedia.org/wiki/英文維基百科 "wikilink")[HTTPS進行安全搜尋](https://zh.wikipedia.org/wiki/HTTPS "wikilink")（限
     en-US 語系）。
-  - [HTTP/2](../Page/HTTP/2.md "wikilink")（draft 14）和
-    [ALPN](../Page/ALPN.md "wikilink") 實作。
-  - 在[Windows版](../Page/Windows.md "wikilink")「Firefox
-    已在執行中」對話框內，可選擇關閉鎖定的 Firefox
-    程序並重新啟動。
-  - 停用[SSL](../Page/SSL.md "wikilink") v3。
+  - [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")（draft 14）和
+    [ALPN](https://zh.wikipedia.org/wiki/ALPN "wikilink") 實作。
+  - 在[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")「Firefox
+    已在執行中」對話框內，可選擇關閉鎖定的 Firefox 程序並重新啟動。
+  - 停用[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink") v3。
   - 重新啟用 window.crypto 屬性與函數（將於 Firefox 35 移除）。
   - 取得 Apple OS X version 2 簽署。
   - 實作 [ECMAScript](../Page/ECMAScript.md "wikilink") 6 WeakSet\[270\]。
@@ -768,7 +774,8 @@ Firefox 35.0正式版发布于2015年1月13日。
   - 從工具選單「應用程式」或工具列按鈕存取Firefox Marketplace\[277\]。
   - 在[Mac OS X Snow
     Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）以上，藉由原生API提供內建的H264（MP4）支援。
-  - 在[OS X使用tiled](../Page/OS_X.md "wikilink") rendering。
+  - 在[OS X使用tiled](https://zh.wikipedia.org/wiki/OS_X "wikilink")
+    rendering。
   - 改善高品質圖片縮放的效能。
   - 改善對動態樣式變更的處理，以增進反應速度。
   - 實作HTTP Public Key Pinning Extension\[278\]，為加密連線提供更好的認證。
@@ -791,7 +798,7 @@ Firefox 35.0正式版发布于2015年1月13日。
 
 Firefox 36.0正式版发布于2015年2月24日。 特性\[283\]
 
-  - 完整支援[HTTP/2](../Page/HTTP/2.md "wikilink")
+  - 完整支援[HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink")
   - 各種安全性修正\[284\]。
 
 #### Firefox 37.0
@@ -816,7 +823,7 @@ Firefox 39.0正式版发布于2015年7月2日。 特性\[289\]
 
   - 在對話框中直接將Firefox Hello連結分享至社群網路的連結。
   - 在[Mac OS
-    X及](../Page/Mac_OS_X.md "wikilink")[Linux的版本中啟用惡意軟體的偵測功能](../Page/Linux.md "wikilink")。
+    X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux的版本中啟用惡意軟體的偵測功能](../Page/Linux.md "wikilink")。
   - 支援Unicode 8.0的emoji。
   - 各種安全性修正\[290\]。
 
@@ -926,7 +933,7 @@ Firefox 54.0正式版發布於2017年6月13日。 特性\[305\]
 
 Firefox 55.0正式版發布於2017年8月8日。 特性\[306\]
 
-  - 支持[WebVR](../Page/WebVR.md "wikilink")。
+  - 支持[WebVR](https://zh.wikipedia.org/wiki/WebVR "wikilink")。
 
 #### Firefox 56.0
 
@@ -987,7 +994,7 @@ Firefox 63.0正式版發布於2018年10月23日。特性\[315\]
 Firefox 64.0正式版發布於2018年12月11日。特性\[316\]
 
   - 使用多標籤頁選取功能，一次移動多個分頁標籤，方便使用者管理開啟許多頁面的視窗
-  - 終止支援[賽門鐵克](../Page/賽門鐵克.md "wikilink")[憑證](../Page/憑證.md "wikilink")。
+  - 終止支援[賽門鐵克](https://zh.wikipedia.org/wiki/賽門鐵克 "wikilink")[憑證](https://zh.wikipedia.org/wiki/憑證 "wikilink")。
 
 #### Firefox 65.0
 
@@ -1039,7 +1046,7 @@ ESR版本列表
   - [Squarefree.com](http://www.squarefree.com/burningedge/releases/)
     非官方更新日誌
   - [RapidRelease -
-    MozillaWiki](../Page/:mozillawiki:RapidRelease/Calendar.md "wikilink")
+    MozillaWiki](https://zh.wikipedia.org/wiki/:mozillawiki:RapidRelease/Calendar "wikilink")
     快速釋出週期日程表
   - [MozillaZine
     Weblogs](https://web.archive.org/web/20060208030104/http://weblogs.mozillazine.org/ben/archives/009698.html)
@@ -1049,7 +1056,8 @@ ESR版本列表
 
 ## 相關條目
 
-  - [Mozilla Firefox版本歷史](../Page/Mozilla_Firefox版本歷史.md "wikilink")
+  - [Mozilla
+    Firefox版本歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox版本歷史 "wikilink")
 
 [Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
 [Category:互联网的歷史](https://zh.wikipedia.org/wiki/Category:互联网的歷史 "wikilink")
@@ -1107,7 +1115,7 @@ ESR版本列表
     Logos](http://www.mozilla.org/en-US/firefox/brand/identity/)Firefox
     brand toolkit
 
-25. [Firefox/Namoroka](../Page/:mozillawiki:Firefox/Namoroka.md "wikilink")
+25. [Firefox/Namoroka](https://zh.wikipedia.org/wiki/:mozillawiki:Firefox/Namoroka "wikilink")
 
 26. news.cnet.com/8301-30685_3-10433844-264.html
 
@@ -1217,7 +1225,7 @@ ESR版本列表
 69. [11](https://bugzilla.mozilla.org/show_bug.cgi?id=639705)
 
 70. [Opt-in activation for
-    plugins](../Page/:mozillawiki:Opt-in_activation_for_plugins.md "wikilink")
+    plugins](https://zh.wikipedia.org/wiki/:mozillawiki:Opt-in_activation_for_plugins "wikilink")
 
 71. [12](https://bugzilla.mozilla.org/show_bug.cgi?id=566489)
 
@@ -1289,7 +1297,7 @@ ESR版本列表
 103. [41](https://bugzilla.mozilla.org/show_bug.cgi?id=780345)
 
 104. [美、英政府利用Firefox漏洞監聽反追蹤軟體Tor](http://www.ithome.com.tw/itadm/article.php?c=83018)
-     ，即時新聞，[iThome](../Page/iThome.md "wikilink")
+     ，即時新聞，[iThome](https://zh.wikipedia.org/wiki/iThome "wikilink")
      online，文：林妍溱，2013-10-07
 
 105. [Firefox Release Notes

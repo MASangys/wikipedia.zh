@@ -1,4 +1,4 @@
-**DEEN**，是[日本的一個搖滾樂團](../Page/日本.md "wikilink")，現在團員為[池森秀一](../Page/池森秀一.md "wikilink")、[山根公路](../Page/山根公路.md "wikilink")。
+**DEEN**，是[日本的一個搖滾樂團](../Page/日本.md "wikilink")，現在團員為[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")、[山根公路](https://zh.wikipedia.org/wiki/山根公路 "wikilink")。
 
 ## 經歷
 
@@ -7,7 +7,7 @@ DEEN係於1993年由池森秀一、山根公路、中居辰磨、倉澤圭介所
 1997年12月17日發行了大家耳熟能詳的第13張單曲《夢であるように》這張單曲除了是DEEN第一次全員合作所作曲的外，也是DEEN第一次出現在電玩界的音樂，成為[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")《Tales
 of Destiny》的主題曲。
 
-1999年底宇津本直紀突然宣布退出，并于5年后创立新的乐队名为[Croon](../Page/Croon.md "wikilink")。演唱會則有支援性的鼓手HIDE，以及貝斯手宮野和也加入。
+1999年底宇津本直紀突然宣布退出，并于5年后创立新的乐队名为[Croon](https://zh.wikipedia.org/wiki/Croon "wikilink")。演唱會則有支援性的鼓手HIDE，以及貝斯手宮野和也加入。
 
 2001年開始，池森秀一會不定時以「SHU」的名義進行單獨活動。
 
@@ -63,7 +63,8 @@ of Destiny》的主題曲。
 **1998年**
 
   - 14.在遙遠的天空下 02/18
-  - 15.只要有你 05/27（動畫[中華一番](../Page/中華一番.md "wikilink")3rd片頭曲）
+  - 15.只要有你
+    05/27（動畫[中華一番](https://zh.wikipedia.org/wiki/中華一番 "wikilink")3rd片頭曲）
   - 16.沒有回應的愛 11/18
 
 **1999年**

@@ -1,14 +1,14 @@
-是由[Google開發的](../Page/Google.md "wikilink")[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")\[1\]。Chrome是[化學元素](../Page/化學元素.md "wikilink")「[鉻](../Page/鉻.md "wikilink")」的英文名稱，過去也用Chrome稱呼瀏覽器的外框\[2\]\[3\]\[4\]\[5\]。Chrome相应的[開放原始碼計劃名為](../Page/開源軟體.md "wikilink")[Chromium](../Page/Chromium_\(瀏覽器\).md "wikilink")\[6\]\[7\]，而Google
-Chrome本身是[非自由軟體](../Page/非自由軟體.md "wikilink")，未開放全部[原始碼](../Page/原始碼.md "wikilink")\[8\]\[9\]。
+是由[Google開發的](../Page/Google.md "wikilink")[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。Chrome是[化學元素](../Page/化學元素.md "wikilink")「[鉻](https://zh.wikipedia.org/wiki/鉻 "wikilink")」的英文名稱，過去也用Chrome稱呼瀏覽器的外框\[2\]\[3\]\[4\]\[5\]。Chrome相应的[開放原始碼計劃名為](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Chromium](https://zh.wikipedia.org/wiki/Chromium_\(瀏覽器\) "wikilink")\[6\]\[7\]，而Google
+Chrome本身是[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，未開放全部[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")\[8\]\[9\]。
 
 Chrome程式碼是基於其他開放原始碼軟體所撰寫，包括[Apple
-WebKit和](../Page/Apple_WebKit.md "wikilink")[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")，並開發出稱為「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」的高效能[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")\[10\]。Google
+WebKit和](https://zh.wikipedia.org/wiki/Apple_WebKit "wikilink")[Mozilla
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，並開發出稱為「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」的高效能[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")\[10\]。Google
 Chrome的整體發展目標是提升穩定性、速度和安全性，並創造出簡單且有效率的使用介面\[11\]。[CNET旗下的](../Page/CNET.md "wikilink")[Download.com網站評出的](../Page/Download.com.md "wikilink")2008年6月最佳Windows應用程序，其中Google
 Chrome排名首位\[12\]。
 
 據[StatCounter統計](../Page/StatCounter.md "wikilink")，截至2018年第一季度，Google
-Chrome在全球桌面瀏覽器的[網頁瀏覽器的使用分布為](../Page/網頁瀏覽器的使用分布.md "wikilink")66%
+Chrome在全球桌面瀏覽器的[網頁瀏覽器的使用分布為](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分布 "wikilink")66%
 \[13\]。
 
 Chrome 50结束了对[Windows XP与](../Page/Windows_XP.md "wikilink")[Windows
@@ -16,29 +16,29 @@ Vista系统的支持](../Page/Windows_Vista.md "wikilink")\[14\]，这两个系�
 
 ## 歷史
 
-Google執行長[艾立克·史密特有六年時間都在反對開發網頁瀏覽器](../Page/艾立克·史密特.md "wikilink")。他表示：「當時Google是一家小公司，他不想在[瀏覽器大戰中輸得鼻青臉腫](../Page/瀏覽器大戰.md "wikilink")。」但是經過聯合創始人[謝爾蓋·布林和](../Page/謝爾蓋·布林.md "wikilink")[賴利·佩吉聘用了幾位](../Page/賴利·佩吉.md "wikilink")[Mozilla
-Firefox開發人員演示Chrome的原型後](../Page/Mozilla_Firefox.md "wikilink")\[16\]\[17\]，史密特承認：「這太好了，我不得不改變我的想法。」\[18\]
+Google執行長[艾立克·史密特有六年時間都在反對開發網頁瀏覽器](https://zh.wikipedia.org/wiki/艾立克·史密特 "wikilink")。他表示：「當時Google是一家小公司，他不想在[瀏覽器大戰中輸得鼻青臉腫](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")。」但是經過聯合創始人[謝爾蓋·布林和](https://zh.wikipedia.org/wiki/謝爾蓋·布林 "wikilink")[賴利·佩吉聘用了幾位](https://zh.wikipedia.org/wiki/賴利·佩吉 "wikilink")[Mozilla
+Firefox開發人員演示Chrome的原型後](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[16\]\[17\]，史密特承認：「這太好了，我不得不改變我的想法。」\[18\]
 
 ### 發布
 
-發布公告原本預定於2008年9月3日舉行，並將寄給記者和部落客一則解說新瀏覽器功能的漫畫，該漫畫由所繪製\[19\]。由於要送往[歐洲的信件提早寄出](../Page/歐洲.md "wikilink")，因此部落格的[德國作者菲利普](../Page/德國.md "wikilink")·藍森（Philipp
+發布公告原本預定於2008年9月3日舉行，並將寄給記者和部落客一則解說新瀏覽器功能的漫畫，該漫畫由所繪製\[19\]。由於要送往[歐洲的信件提早寄出](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，因此部落格的[德國作者菲利普](https://zh.wikipedia.org/wiki/德國 "wikilink")·藍森（Philipp
 Lenssen）\[20\]在2008年9月1日收到漫畫後就掃描並放上自己的網站\[21\]。隨後Google就將這則漫畫放到[Google
-Books](../Page/Google_Books.md "wikilink")\[22\]，並在自家的部落格中說明了提早釋出的原因\[23\]。
+Books](https://zh.wikipedia.org/wiki/Google_Books "wikilink")\[22\]，並在自家的部落格中說明了提早釋出的原因\[23\]。
 
 [File-Chromium-Linux-Alpha.png](https://zh.wikipedia.org/wiki/File:File-Chromium-Linux-Alpha.png "fig:File-Chromium-Linux-Alpha.png")
-2008年9月1日，Google官方網誌撰文說，將於第二天在超過100個國家同時發布Chrome的[測試版](../Page/軟件版本週期#Beta.md "wikilink")\[24\]。2008年9月2日，Google官方網誌宣布Chrome測試版已經開放下載。首次發布的第一個測試版本僅提供43種語言版本，並只適用於[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink") [XP
+2008年9月1日，Google官方網誌撰文說，將於第二天在超過100個國家同時發布Chrome的[測試版](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")\[24\]。2008年9月2日，Google官方網誌宣布Chrome測試版已經開放下載。首次發布的第一個測試版本僅提供43種語言版本，並只適用於[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") [XP
 SP2以上版本](../Page/Windows_XP.md "wikilink")\[25\]。
 
 Chrome迅速獲得約1%的使用率\[26\]\[27\]\[28\]\[29\]。在最初的激增之後，使用率下降，直到2008年10月達到0.69%的低點。然後再次開始上漲，到了2008年12月，Chrome再次超過了1%的門檻。
 
 2009年6月4日，正式發布首個在[Mac OS
-X和](../Page/Mac_OS_X.md "wikilink")[Linux作業系統的開發者預覽版本](../Page/Linux.md "wikilink")，官方部落格聲稱由於遺漏許多功能，只作為早期反饋用途而非日常使用\[30\]，同年12月，發布第一個同時支援Windows，Mac
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux作業系統的開發者預覽版本](../Page/Linux.md "wikilink")，官方部落格聲稱由於遺漏許多功能，只作為早期反饋用途而非日常使用\[30\]，同年12月，發布第一個同時支援Windows，Mac
 OS
 X和Linux作業系統的測試版\[31\]\[32\]。2010年5月25日，發布的5.0版是第一個同時支持該三個作業系統的穩定版本\[33\]。
 
 Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink")[Microsoft
-Windows使用者的](../Page/Microsoft_Windows.md "wikilink")[十二種瀏覽器其中之一](../Page/BrowserChoice.eu.md "wikilink")\[34\]。
+Windows使用者的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[十二種瀏覽器其中之一](https://zh.wikipedia.org/wiki/BrowserChoice.eu "wikilink")\[34\]。
 
 在2012年2月7日，Google發布了Chrome於Android的測試版\[35\]，該軟體只能在[Android](../Page/Android.md "wikilink")
 4.0以上系统上運行。6月28日，Chrome的Android版本正式在[Google
@@ -76,14 +76,14 @@ Play上架](../Page/Google_Play.md "wikilink")\[36\]。
 ### 佔有率
 
 發佈首日佔有率達3％，其後一度跌至1％，但稍後仍緩步上升。2009年Google
-Chrome佔有率共上升3.60％（取各大機構平均值），成為全年佔有率上升幅度最大的[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")。\[39\]
+Chrome佔有率共上升3.60％（取各大機構平均值），成為全年佔有率上升幅度最大的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。\[39\]
 2010年2月，統計數據顯示Google
-Chrome在瀏覽器市場佔有率為6.16％（取各大機構平均值），超越老字號[Opera與](../Page/Opera.md "wikilink")[Safari](../Page/Safari.md "wikilink")。
+Chrome在瀏覽器市場佔有率為6.16％（取各大機構平均值），超越老字號[Opera與](https://zh.wikipedia.org/wiki/Opera "wikilink")[Safari](../Page/Safari.md "wikilink")。
 截至2011年1月，統計數據顯示Google
-Chrome的[市場佔有率達](../Page/市場佔有率.md "wikilink")10.70％，僅次於[Internet
+Chrome的[市場佔有率達](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")10.70％，僅次於[Internet
 Explorer和](../Page/Internet_Explorer.md "wikilink")[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")，排名第3，較2010年12月上升了0.72個百分點。除2010年7月曾下跌0.08％外，Google
-Chrome在每月統計的[市場佔有率未曾下跌](../Page/市場佔有率.md "wikilink")。2011年7月11日，Chrome在英國的市場份額達到22.12%，而[Firefox仅占](../Page/Firefox.md "wikilink")21.65%，這是Chrome首次在地區的統計中超越[Firefox](../Page/Firefox.md "wikilink")。\[40\]2012年5月21日，Chrome在全球范围内占有率達到33%，超越IE位居首位\[41\]，而此紀錄持續時間至今，仍然一直上升，紀錄不斷，2018年7月下旬Google
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，排名第3，較2010年12月上升了0.72個百分點。除2010年7月曾下跌0.08％外，Google
+Chrome在每月統計的[市場佔有率未曾下跌](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")。2011年7月11日，Chrome在英國的市場份額達到22.12%，而[Firefox仅占](../Page/Firefox.md "wikilink")21.65%，這是Chrome首次在地區的統計中超越[Firefox](../Page/Firefox.md "wikilink")。\[40\]2012年5月21日，Chrome在全球范围内占有率達到33%，超越IE位居首位\[41\]，而此紀錄持續時間至今，仍然一直上升，紀錄不斷，2018年7月下旬Google
 Chrome的市場占有率達到67.6%。\[42\]
 
 ### 版本歷史
@@ -92,19 +92,19 @@ Chrome的市場占有率達到67.6%。\[42\]
 
   - 黑名单（Blacklists）
     「Google
-    Chrome」會定期地更新防止[網路釣魚和](../Page/釣魚式攻擊.md "wikilink")[惡意軟體的](../Page/惡意軟體.md "wikilink")[黑名單](../Page/黑名單.md "wikilink")，並在使用者試圖瀏覽可能造成電腦損害的網站時予以警告。這項服務也可透過使用其他的免費自由[應用程式介面來取得](../Page/應用程式介面.md "wikilink")。在更新維護這些黑名單的同時，Google也會通知被列入的網站，以避免網站持有者本身不知道網站存有[惡意軟體](../Page/惡意軟體.md "wikilink")。\[43\]
+    Chrome」會定期地更新防止[網路釣魚和](https://zh.wikipedia.org/wiki/釣魚式攻擊 "wikilink")[惡意軟體的](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")[黑名單](../Page/黑名單.md "wikilink")，並在使用者試圖瀏覽可能造成電腦損害的網站時予以警告。這項服務也可透過使用其他的免費自由[應用程式介面來取得](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。在更新維護這些黑名單的同時，Google也會通知被列入的網站，以避免網站持有者本身不知道網站存有[惡意軟體](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")。\[43\]
 
 <!-- end list -->
 
   - 沙箱（Sandboxing）
     「Google
-    Chrome」中的每一個分頁都是一個[沙箱](../Page/沙盒_\(計算機安全\).md "wikilink")，以防止「惡意軟體破壞用戶系統」或「利用分頁影響其他標簽頁」。遵守[最小許可權原則](../Page/最小許可權原則.md "wikilink")，每個動作的權限都會被限制，僅能運算而無法寫入檔案和從敏感區域讀取檔案（如我的文件、桌面）。\[44\]沙盒小組（*Sandbox
+    Chrome」中的每一個分頁都是一個[沙箱](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")，以防止「惡意軟體破壞用戶系統」或「利用分頁影響其他標簽頁」。遵守[最小許可權原則](https://zh.wikipedia.org/wiki/最小許可權原則 "wikilink")，每個動作的權限都會被限制，僅能運算而無法寫入檔案和從敏感區域讀取檔案（如我的文件、桌面）。\[44\]沙盒小組（*Sandbox
     Team*）表示他們「使用了現有的執行程序限制，並讓這些限制變成一座監獄」，例如在其中一個分頁運作的惡意軟體，將無法竊取信用卡號碼、干擾滑鼠運作，或告訴系統在啟動時執行某個程序，並且惡意軟體會在分頁關閉時立即中止。\[45\]
 
 <!-- end list -->
 
   - 外掛程式（Plugins）
-    [外掛程式通常並沒有統一的標準](../Page/外掛程式.md "wikilink")，且無法像分頁般沙盒化。這些通常需要執行在瀏覽器本身的安全等級或更高的等級。為了降低被攻擊的風險，外掛程式是獨立運行的。\[46\]
+    [外掛程式通常並沒有統一的標準](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，且無法像分頁般沙盒化。這些通常需要執行在瀏覽器本身的安全等級或更高的等級。為了降低被攻擊的風險，外掛程式是獨立運行的。\[46\]
     從5.0版本起，「Google Chrome」內置[Adobe Flash
     Player以確保使用的為最新版本降低被攻擊的風險](../Page/Adobe_Flash_Player.md "wikilink")。其後在9.0版本將Flash播放器內建在沙盒中獨立運行。這項技術是Chrome安全性進步的一座里程碑。對Windows
     XP用戶特別重要，因為它是平台上唯一提供Flash嵌入沙盒執行的瀏覽器。
@@ -118,7 +118,7 @@ Chrome的市場占有率達到67.6%。\[42\]
 <!-- end list -->
 
   - 工作管理員（Task Manager）
-    非常有特色的工具，用戶可以查看哪些網站佔用了最多的[記憶體](../Page/記憶體.md "wikilink")、下載流量和CPU資源，有利於管理各個分頁與-{zh-hans:插件;zh-hk:外掛;zh-tw:外掛;}-，也便於用戶終止惡意操作。\[47\]。
+    非常有特色的工具，用戶可以查看哪些網站佔用了最多的[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、下載流量和CPU資源，有利於管理各個分頁與-{zh-hans:插件;zh-hk:外掛;zh-tw:外掛;}-，也便於用戶終止惡意操作。\[47\]。
 
 <!-- end list -->
 
@@ -136,7 +136,7 @@ Chrome的市場占有率達到67.6%。\[42\]
 
   - 無痕模式（Incognito mode）
     Google Chrome包含了「-{zh-hans:隐身模式;
-    zh-hant:無痕模式}-」（私密瀏覽（incognito），與[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Opera的](../Page/Opera.md "wikilink")「私密瀏覽」和[Internet
+    zh-hant:無痕模式}-」（私密瀏覽（incognito），與[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Opera的](https://zh.wikipedia.org/wiki/Opera "wikilink")「私密瀏覽」和[Internet
     Explorer的](../Page/Internet_Explorer.md "wikilink")「InPrivate」類似），這個模式可以「讓您在視窗內檢視的網頁不會在瀏覽記錄或搜尋記錄中顯示，關閉無痕式視窗後，也不會在電腦上留下其他痕跡，例如[Cookie](../Page/Cookie.md "wikilink")。但是，您下載的任何檔案或建立的書籤都會保留下來。並且這不意味著您完全隱身，您的互聯網服務提供商、雇主及網站本身依然能夠看見您的瀏覽活動並進行追踪。\[48\]」\[49\]\[50\]在新標籤頁頁面上，「Google
     Chrome」亦提示用戶要小心：
 
@@ -179,7 +179,7 @@ Chrome的市場占有率達到67.6%。\[42\]
 ## 性能
 
   - JavaScript
-    利用內置獨立的[JavaScript](../Page/JavaScript.md "wikilink")[虛擬機](../Page/虛擬機.md "wikilink")「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」來提高運行[JavaScript的速度](../Page/JavaScript.md "wikilink")。（通过[即時編譯](../Page/即時編譯.md "wikilink")\[51\][JavaScript代碼为機器碼](../Page/JavaScript.md "wikilink")，内联，类型转换，垃圾收集等特性\[52\]。）
+    利用內置獨立的[JavaScript](../Page/JavaScript.md "wikilink")[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」來提高運行[JavaScript的速度](../Page/JavaScript.md "wikilink")。（通过[即時編譯](../Page/即時編譯.md "wikilink")\[51\][JavaScript代碼为機器碼](../Page/JavaScript.md "wikilink")，内联，类型转换，垃圾收集等特性\[52\]。）
 
 <!-- end list -->
 
@@ -219,11 +219,11 @@ Chrome的市場占有率達到67.6%。\[42\]
 
   - 互動智慧搜尋（Instant，這個功能於研究室畢業）
     從9.0版本起，使用者可設定類似[Google
-    Instant的互動智慧搜尋](../Page/Google_Instant.md "wikilink")，即頁面會即時載入使用者在搜尋與位址列組合（Omnibox）中輸入的搜尋內容或網址，搜尋期間會提供橫向搜尋建議並會自動完成。
+    Instant的互動智慧搜尋](https://zh.wikipedia.org/wiki/Google_Instant "wikilink")，即頁面會即時載入使用者在搜尋與位址列組合（Omnibox）中輸入的搜尋內容或網址，搜尋期間會提供橫向搜尋建議並會自動完成。
 
 <!-- end list -->
 
-  - [GPU硬件加速](../Page/GPU.md "wikilink")
+  - [GPU硬件加速](https://zh.wikipedia.org/wiki/GPU "wikilink")
     當啟用GPU硬體加速時，使用「Google
     Chrome」瀏覽那些含有大量圖片之網站時可以更快渲染完成並使頁面滾動時不會出現影像破裂的問題。
 
@@ -233,13 +233,13 @@ Chrome的市場占有率達到67.6%。\[42\]
 
   - 新分頁頁面（New Tab Page）
     顧名思義，「新分頁」就是使用者在「Google Chrome」中開啟新分頁時所顯示的頁面。「Google
-    Chrome」藉由這個設計取代了傳統瀏覽器在新開分頁時載入[首頁](../Page/首頁.md "wikilink")，快速開啟喜愛的應用程式及網站。
+    Chrome」藉由這個設計取代了傳統瀏覽器在新開分頁時載入[首頁](https://zh.wikipedia.org/wiki/首頁 "wikilink")，快速開啟喜愛的應用程式及網站。
     「新分頁」分開3個部分：
       - 應用程式
     <!-- end list -->
       -
         從7.0版本起，在新分頁頁面中顯示會顯示已從「[Chrome Web
-        Store](../Page/Chrome_Web_Store.md "wikilink")」安裝的「應用程式（Apps）」的圖示。只要按一下圖示，即可開啟應用程式。
+        Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」安裝的「應用程式（Apps）」的圖示。只要按一下圖示，即可開啟應用程式。
         從10.0版本起，使用者可以隨意調整應用程式次序。
     <!-- end list -->
       - 常用網頁
@@ -278,30 +278,30 @@ Chrome的市場占有率達到67.6%。\[42\]
 
   - 分頁（Tabs）
     分頁是「Google
-    Chrome」[使用者界面中最重要的元素](../Page/使用者界面.md "wikilink")，為梯形設計，其位於視窗的最上方而非控制按鈕的下方。這項改變與許多目前的主流分頁瀏覽器做法不同。不同視窗的分頁可輕易的利用拖曳的方式交換位置。每一個標籤頁都有自己的控制按鈕組，包含稱為「Omnibox」的網址列\[58\]。
+    Chrome」[使用者界面中最重要的元素](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")，為梯形設計，其位於視窗的最上方而非控制按鈕的下方。這項改變與許多目前的主流分頁瀏覽器做法不同。不同視窗的分頁可輕易的利用拖曳的方式交換位置。每一個標籤頁都有自己的控制按鈕組，包含稱為「Omnibox」的網址列\[58\]。
 
 <!-- end list -->
 
   - 主題（Theme）
     從3.0版本起，使用者可為瀏覽器增添有趣的主題，讓瀏覽器的外表更漂亮。主題會出現在瀏覽器四週的邊緣，並成為「新分頁」頁面的背景。在[官方主題庫](https://chrome.google.com/webstore/category/themes)或「[Chrome
     Web
-    Store](../Page/Chrome_Web_Store.md "wikilink")」的[主題分類](https://chrome.google.com/webstore?category=theme)中當使用者找到喜歡的主題時，按一下主題庫網頁上的「套用主題」/「安裝」，主題便會立刻出現。如果使用者此時改變主意，只需按一下出現在分頁頂端的訊息列中的「取消」，即可回復到前一個主題。整個過程無需重新啟動瀏覽器。
+    Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」的[主題分類](https://chrome.google.com/webstore?category=theme)中當使用者找到喜歡的主題時，按一下主題庫網頁上的「套用主題」/「安裝」，主題便會立刻出現。如果使用者此時改變主意，只需按一下出現在分頁頂端的訊息列中的「取消」，即可回復到前一個主題。整個過程無需重新啟動瀏覽器。
 
 <!-- end list -->
 
   - 彈出式視窗（Popups）
-    [彈出式視窗會在分頁內顯示](../Page/彈出式廣告.md "wikilink")，並不會在分頁內以外的地方出現，除非使用者將視窗拖曳至別處。\[59\]
+    [彈出式視窗會在分頁內顯示](https://zh.wikipedia.org/wiki/彈出式廣告 "wikilink")，並不會在分頁內以外的地方出現，除非使用者將視窗拖曳至別處。\[59\]
 
 <!-- end list -->
 
   - 網路應用程式捷徑（Application Shortcut）
-    [網路應用程式可在特殊的簡化視窗中開啟網站](../Page/網路應用程式.md "wikilink")，該簡化視窗不會顯示分頁、按鈕、網址列或選單\[60\]。
+    [網路應用程式可在特殊的簡化視窗中開啟網站](https://zh.wikipedia.org/wiki/網路應用程式 "wikilink")，該簡化視窗不會顯示分頁、按鈕、網址列或選單\[60\]。
     現時只有Windows和Linux平台的「Google Chrome」才提供這項功能。
 
 <!-- end list -->
 
   - Gears（已停止開發）
-    Chrome包含了[Gears](../Page/Gears.md "wikilink")，研發者可利用這項功能製作[網頁應用程式](../Page/網頁應用程式.md "wikilink")（web
+    Chrome包含了[Gears](../Page/Gears.md "wikilink")，研發者可利用這項功能製作[網頁應用程式](https://zh.wikipedia.org/wiki/網頁應用程式 "wikilink")（web
     applications，包含離線支援）\[61\]。
     由於大部份[Gears的功能HTML](../Page/Gears.md "wikilink")
     5都支援，[Google已停止開發Gears的新功能](../Page/Google.md "wikilink")。
@@ -332,22 +332,24 @@ Chrome的市場占有率達到67.6%。\[42\]
 
 <!-- end list -->
 
-  - [Chrome Web Store](../Page/Chrome_Web_Store.md "wikilink")
+  - [Chrome Web
+    Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")
     **Chrome Web Store**，前稱「Google Chrome擴充功能中心」。
     2009年12月9日，官方「Google Chrome擴充功能中心」（測試版）已有超過300款擴充功能\[63\]。
     隨著4.0穩定版本發佈，官方「Google
     Chrome擴充功能中心」\[64\]在2010年1月25日正式上線，並擁有超過1500款擴充套件\[65\]。
     2010年5月19日，[Google在](../Page/Google.md "wikilink")[Google
-    I/O宣布](../Page/Google_I/O.md "wikilink")「Chrome Web Store」。
+    I/O宣布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")「Chrome
+    Web Store」。
     截至2010年6月22日，官方擴充功能中心已有超過5000款擴充功能\[66\]，其中25款為Google官方開發的擴充功能\[67\]。
     2010年8月19日，[Google宣布官方](../Page/Google.md "wikilink")「Google
     Chrome擴充功能中心」向開發者註冊費用為一次性收取5美元。開發者在發布擴充功能、主題，以及未來的Web
     Apps之前必須繳納這筆費用。不過如果你在太平洋時間8月19日11:00前已經註冊了開發者帳號的話，可以不用繳交這US$5，不但之前上傳的擴充功能可以繼續維護，新上傳的也是沒有問題的。另外，「Google
     Chrome擴充功能中心」加入**域名驗證系統**（類似[Twitter官方驗證帳號](../Page/Twitter.md "wikilink")），在新上傳的擴充功能開發者須將他們的作品與[Webmaster
-    Tools中的域名關聯](../Page/Google網站管理員.md "wikilink")\[68\]。
+    Tools中的域名關聯](https://zh.wikipedia.org/wiki/Google網站管理員 "wikilink")\[68\]。
     2010年8月19日，[Google宣布官方](../Page/Google.md "wikilink")「Google
     Chrome擴充功能中心」將被「[Chrome Web
-    Store](../Page/Chrome_Web_Store.md "wikilink")」取代，而中心內的擴充功能將連同官方主題庫內的主題移到「Chrome
+    Store](https://zh.wikipedia.org/wiki/Chrome_Web_Store "wikilink")」取代，而中心內的擴充功能將連同官方主題庫內的主題移到「Chrome
     Web Store」\[69\]。
     2010年12月7日，「Chrome Web Store」正式上線。
     2011年12月9日，官方「Chrome Web
@@ -367,7 +369,7 @@ Chrome的市場占有率達到67.6%。\[42\]
 :;同步功能
 
 ::從4.1版本起，「Google
-Chrome」加入同步功能，將瀏覽器內的資料透過[Google帳戶同步到](../Page/Google帳戶.md "wikilink")[Google文件內](../Page/Google文件.md "wikilink")。
+Chrome」加入同步功能，將瀏覽器內的資料透過[Google帳戶同步到](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")[Google文件內](../Page/Google文件.md "wikilink")。
 
 ::現時可選擇同步的資料型有：
 
@@ -399,7 +401,7 @@ Chrome」加入同步功能，將瀏覽器內的資料透過[Google帳戶同步�
 
       -
         從10.0版本起，「Google Chrome」提供印表機與「[Google Cloud
-        Print](../Page/Google_Cloud_Print.md "wikilink")」的連線。當在設定中啟用「Google雲端列印連接器」，印表機就會自動設定完成，讓您可以透過支援「Google雲端列印」功能的網路與行動應用程式輕鬆進行列印工作。
+        Print](https://zh.wikipedia.org/wiki/Google_Cloud_Print "wikilink")」的連線。當在設定中啟用「Google雲端列印連接器」，印表機就會自動設定完成，讓您可以透過支援「Google雲端列印」功能的網路與行動應用程式輕鬆進行列印工作。
 
 ### <Chrome://flags（研究室>）
 
@@ -412,9 +414,10 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
 以下為將加入Chrome的功能（目前是獨立的開源項目）；除了用於Chrome內，亦同時可以整合到其他軟件。
 
   - [LevelDB](../Page/LevelDB.md "wikilink") - 嵌入式鍵／值對（Key/Value
-    Pair）[數據庫管理系統編程庫](../Page/數據庫管理系統.md "wikilink")，用以支援HTML5的IndexedDB
-  - [Google Native Client](../Page/Google_Native_Client.md "wikilink") -
-    類似ActiveX技術，但運用沙盒和機器碼驗證器技術來兼顧安全性
+    Pair）[數據庫管理系統編程庫](https://zh.wikipedia.org/wiki/數據庫管理系統 "wikilink")，用以支援HTML5的IndexedDB
+  - [Google Native
+    Client](https://zh.wikipedia.org/wiki/Google_Native_Client "wikilink")
+    - 類似ActiveX技術，但運用沙盒和機器碼驗證器技術來兼顧安全性
 
 ## 其他
 
@@ -544,7 +547,7 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
 
 38. [1](http://blog.chromium.org/2010/08/google-chrome-in-coal-mine.html)
 
-39. 参见[網頁瀏覽器的使用分佈条目](../Page/網頁瀏覽器的使用分佈.md "wikilink")
+39. 参见[網頁瀏覽器的使用分佈条目](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分佈 "wikilink")
 
 40.
 

@@ -2,7 +2,7 @@
 
 ## 經歷
 
-**2007年**由日本知名雜誌「[JUNON](../Page/JUNON.md "wikilink")」舉辦的第19屆「[JUNON
+**2007年**由日本知名雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」舉辦的第19屆「[JUNON
 SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組成。
 
 ## 成員
@@ -13,44 +13,46 @@ SUPER BOY](../Page/JUNON_SUPER_BOY.md "wikilink")」比賽獲獎參賽者所組�
 
   -
     [Ever Green
-    Entertainment所屬藝人](../Page/Ever_Green_Entertainment.md "wikilink")。
+    Entertainment所屬藝人](https://zh.wikipedia.org/wiki/Ever_Green_Entertainment "wikilink")。
 
 <!-- end list -->
 
-  - [池田純](../Page/池田純.md "wikilink")（1992年10月27日－）準最高獎獲獎
-
-<!-- end list -->
-
-  -
-    [スピードハウス所屬藝人](../Page/スピードハウス.md "wikilink")。
-
-<!-- end list -->
-
-  - [久保翔](../Page/久保翔.md "wikilink")（1989年5月25日－）評審特別獎獲獎
+  - [池田純](https://zh.wikipedia.org/wiki/池田純 "wikilink")（1992年10月27日－）準最高獎獲獎
 
 <!-- end list -->
 
   -
-    [Stardust Promotion所屬藝人](../Page/Stardust_Promotion.md "wikilink")。
+    [スピードハウス所屬藝人](https://zh.wikipedia.org/wiki/スピードハウス "wikilink")。
 
 <!-- end list -->
 
-  - [標永久](../Page/標永久.md "wikilink")（1989年12月3日－）最終選拔出場
+  - [久保翔](https://zh.wikipedia.org/wiki/久保翔 "wikilink")（1989年5月25日－）評審特別獎獲獎
+
+<!-- end list -->
+
+  -
+    [Stardust
+    Promotion所屬藝人](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
+
+<!-- end list -->
+
+  - [標永久](https://zh.wikipedia.org/wiki/標永久 "wikilink")（1989年12月3日－）最終選拔出場
 
 <!-- end list -->
 
   -
     [PLATINUM
-    PRODUCTION所屬藝人](../Page/PLATINUM_PRODUCTION.md "wikilink")。
+    PRODUCTION所屬藝人](https://zh.wikipedia.org/wiki/PLATINUM_PRODUCTION "wikilink")。
 
 <!-- end list -->
 
-  - [小堀慎平](../Page/小堀慎平.md "wikilink")（1987年6月23日－）最終選拔出場
+  - [小堀慎平](https://zh.wikipedia.org/wiki/小堀慎平 "wikilink")（1987年6月23日－）最終選拔出場
 
 <!-- end list -->
 
   -
-    [VISION FACTORY所屬藝人](../Page/VISION_FACTORY.md "wikilink")。
+    [VISION
+    FACTORY所屬藝人](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")。
 
 ## 外部連結
 

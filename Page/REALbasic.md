@@ -2,9 +2,10 @@
 [Tour-linux-1-windoweditor.jpg](https://zh.wikipedia.org/wiki/File:Tour-linux-1-windoweditor.jpg "fig:Tour-linux-1-windoweditor.jpg")中使用REALbasic的畫面\]\]
 [Tour-win-1-windoweditor.jpg](https://zh.wikipedia.org/wiki/File:Tour-win-1-windoweditor.jpg "fig:Tour-win-1-windoweditor.jpg")中使用REALbasic的畫面\]\]
 **REALbasic**又名[Real
-Studio是一個基於](../Page/Real_Studio.md "wikilink")[BASIC語言的編程語言及](../Page/BASIC.md "wikilink")[跨平臺開發工具](../Page/跨平臺.md "wikilink")，由[REAL
-Software, Inc.的Andrew](../Page/REAL_Software,_Inc..md "wikilink")
-Barry于1997年6月12日于官方網站公佈，原名「CrossBASIC」\[1\]。REALbasic能够在[Windows](../Page/Windows.md "wikilink")、[Mac及](../Page/Mac.md "wikilink")[Linux這三种](../Page/Linux.md "wikilink")[操作系統上运行](../Page/操作系統.md "wikilink")\[2\]，并能生成本机代码，即原生的应用程序。此外，还能生成Web程序，并将支持iOS等移动平台。由于除了兼容部分BASIC语言的语法之外，这款开发工具已经与过气的老式BASIC语言渐行渐远，因此于2013年的第一个发行版开始产品名称、企业名称均更名为[Xojo](../Page/Xojo.md "wikilink")（音近"啁啾"）。
+Studio是一個基於](https://zh.wikipedia.org/wiki/Real_Studio "wikilink")[BASIC語言的編程語言及](../Page/BASIC.md "wikilink")[跨平臺開發工具](../Page/跨平臺.md "wikilink")，由[REAL
+Software,
+Inc.的Andrew](https://zh.wikipedia.org/wiki/REAL_Software,_Inc. "wikilink")
+Barry于1997年6月12日于官方網站公佈，原名「CrossBASIC」\[1\]。REALbasic能够在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac及](https://zh.wikipedia.org/wiki/Mac "wikilink")[Linux這三种](../Page/Linux.md "wikilink")[操作系統上运行](https://zh.wikipedia.org/wiki/操作系統 "wikilink")\[2\]，并能生成本机代码，即原生的应用程序。此外，还能生成Web程序，并将支持iOS等移动平台。由于除了兼容部分BASIC语言的语法之外，这款开发工具已经与过气的老式BASIC语言渐行渐远，因此于2013年的第一个发行版开始产品名称、企业名称均更名为[Xojo](../Page/Xojo.md "wikilink")（音近"啁啾"）。
 
 ## REALbasic的特徵
 
@@ -14,20 +15,20 @@ Barry于1997年6月12日于官方網站公佈，原名「CrossBASIC」\[1\]。RE
 
   - 是一款快速开发环境，提供了对多平台API和界面功能的包装
   - 为所有平台编译CPU可直接执行的指令代码，不需要任何解释器、虚拟机或运行时，执行速度较慢
-  - REALbasic是一個完全根據[事件驅動程式設計設計的](../Page/事件驅動程式設計.md "wikilink")[面向对象程序设计式](../Page/面向对象程序设计.md "wikilink")[編程語言](../Page/編程語言.md "wikilink")。
-  - REALbasic是一個不必[運行庫而可製作](../Page/運行庫.md "wikilink")[軟件的](../Page/軟件.md "wikilink")[编译器](../Page/编译器.md "wikilink")。
+  - REALbasic是一個完全根據[事件驅動程式設計設計的](../Page/事件驅動程式設計.md "wikilink")[面向对象程序设计式](../Page/面向对象程序设计.md "wikilink")[編程語言](https://zh.wikipedia.org/wiki/編程語言 "wikilink")。
+  - REALbasic是一個不必[運行庫而可製作](https://zh.wikipedia.org/wiki/運行庫 "wikilink")[軟件的](https://zh.wikipedia.org/wiki/軟件 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。
   - 和[Perl一樣的方式](../Page/Perl.md "wikilink")——[正则表达式的](../Page/正则表达式.md "wikilink")[方法尋找文字列](../Page/方法_\(電腦科學\).md "wikilink")。
   - 不必學會[Macintosh
-    Toolbox也可操作](../Page/Macintosh_Toolbox.md "wikilink")。
-  - 比較適合／擅長于[多媒體軟件的開發](../Page/多媒體.md "wikilink")。
+    Toolbox也可操作](https://zh.wikipedia.org/wiki/Macintosh_Toolbox "wikilink")。
+  - 比較適合／擅長于[多媒體軟件的開發](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。
   - 參照計數器方式的[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。
-  - 完全支持[Unicode](../Page/Unicode.md "wikilink")。
+  - 完全支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
   - 備有通訊簿（只限Mac）。
   - 支持[QuickTime](../Page/QuickTime.md "wikilink")（只限Windows及Mac）。
   - 有聲。
-  - 支持[3D設計](../Page/3D.md "wikilink")。
-  - 支持[HTTP](../Page/HTTP.md "wikilink")、[POP3](../Page/POP3.md "wikilink")、[SMTP](../Page/SMTP.md "wikilink")、[XML及](../Page/XML.md "wikilink")[SOAP](../Page/SOAP.md "wikilink")。
-  - [SSL](../Page/SSL.md "wikilink")（只限專業版）
+  - 支持[3D設計](https://zh.wikipedia.org/wiki/3D "wikilink")。
+  - 支持[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")、[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[XML及](../Page/XML.md "wikilink")[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
+  - [SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")（只限專業版）
   - 備有[字典](../Page/字典.md "wikilink")。
   - 備有[Visual Basic的數據兼容性](../Page/Visual_Basic.md "wikilink")。
   - 可以製造有[插件的軟件](../Page/插件.md "wikilink")。
@@ -39,12 +40,12 @@ Barry于1997年6月12日于官方網站公佈，原名「CrossBASIC」\[1\]。RE
 
 ## 技能
 
-  - 雖然可以不必學通常在[Mac中學習](../Page/Mac.md "wikilink")[編程語言時需要學的](../Page/編程語言.md "wikilink")[Macintosh
-    Toolbox也可以製造軟件](../Page/Macintosh_Toolbox.md "wikilink")，但是不能製造比較複雜的軟件。因此，爲了滿足這些需要開發較爲複雜的軟件的人而可以製造有插件及有3D圖像／動畫的軟件。
+  - 雖然可以不必學通常在[Mac中學習](https://zh.wikipedia.org/wiki/Mac "wikilink")[編程語言時需要學的](https://zh.wikipedia.org/wiki/編程語言 "wikilink")[Macintosh
+    Toolbox也可以製造軟件](https://zh.wikipedia.org/wiki/Macintosh_Toolbox "wikilink")，但是不能製造比較複雜的軟件。因此，爲了滿足這些需要開發較爲複雜的軟件的人而可以製造有插件及有3D圖像／動畫的軟件。
 
 ## 評價
 
-被稱爲「[Mac中的](../Page/Mac.md "wikilink")[Visual
+被稱爲「[Mac中的](https://zh.wikipedia.org/wiki/Mac "wikilink")[Visual
 Basic](../Page/Visual_Basic.md "wikilink")」。\[3\]
 
 ## 參考資料

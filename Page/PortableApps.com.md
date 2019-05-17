@@ -1,5 +1,5 @@
 **PortableApps.com
-Platform**是一個提供各種[可攜式軟體的網站](../Page/可攜式軟體.md "wikilink")。PortableApps.com是由John
+Platform**是一個提供各種[可攜式軟體的網站](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。PortableApps.com是由John
 T.
 Haller所成立的。所有PortableApps.com提供的軟體均為[免費軟體](../Page/免費軟體.md "wikilink")。PortableApps.com
 Platform同時也支援多種語言。

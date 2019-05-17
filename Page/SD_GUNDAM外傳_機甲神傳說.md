@@ -1,7 +1,7 @@
 **SD高達外傳
 機甲神傳說**是SD高達外傳第四作，以「機動戰士．影子方程式」以及「高達0083．星塵之回憶」為主要角色藍本。故事圍統神秘騎士新高達以及其兄長月神高達、以及傳說中六部機甲神，對抗被捷古自謢附身的騎士GP02。
 
-而本作主要是惡搞「[美少女戰士](../Page/美少女戰士.md "wikilink")」以及「[六神合體](../Page/六神合體.md "wikilink")」的人物設定。
+而本作主要是惡搞「[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")」以及「[六神合體](../Page/六神合體.md "wikilink")」的人物設定。
 
 ## 主要人物
 
@@ -19,11 +19,12 @@
 
 新高達的孿生兄長，以幪面騎士（仮面騎士）身份，潛入度拉斯王國，同時又以薔薇騎士身份，暗中協助新高達。
 
-薔薇騎士，原型為「[美少女戰士](../Page/美少女戰士.md "wikilink")」角色「禮服幪面俠」。而孿生兄長身份，角色相對為[六神合體的馬古](../Page/六神合體.md "wikilink")（マーグ）
+薔薇騎士，原型為「[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")」角色「禮服幪面俠」。而孿生兄長身份，角色相對為[六神合體的馬古](../Page/六神合體.md "wikilink")（マーグ）
 
 #### 機甲神
 
-**神秘機兵．傳說蓋亞(EL-GAIA/エルガイヤー)**([Z Gundam](../Page/MSZ-006.md "wikilink"))
+**神秘機兵．傳說蓋亞(EL-GAIA/エルガイヤー)**([Z
+Gundam](https://zh.wikipedia.org/wiki/MSZ-006 "wikilink"))
 
 超機甲神核心、出現在喪失記憶的新高達面前，掌握著「6」的關鍵。
 
@@ -224,7 +225,8 @@
 
 ## 參考書目
 
-  - 單行本「SD高達外傳 機甲神傳說」（[ほしの竜一著](../Page/ほしの竜一.md "wikilink")）
+  - 單行本「SD高達外傳
+    機甲神傳說」（[ほしの竜一著](https://zh.wikipedia.org/wiki/ほしの竜一 "wikilink")）
 
 <!-- end list -->
 
@@ -236,9 +238,11 @@
 
 ## 相關連結
 
-  - [SD高達外傳](../Page/SD高達外傳.md "wikilink")
-  - [SD高達外傳 圓桌騎士編](../Page/SD高達外傳_圓桌騎士編.md "wikilink")
-  - [SD高達外傳 聖機兵物語](../Page/SD高達外傳_聖機兵物語.md "wikilink")
+  - [SD高達外傳](https://zh.wikipedia.org/wiki/SD高達外傳 "wikilink")
+  - [SD高達外傳
+    圓桌騎士編](https://zh.wikipedia.org/wiki/SD高達外傳_圓桌騎士編 "wikilink")
+  - [SD高達外傳
+    聖機兵物語](https://zh.wikipedia.org/wiki/SD高達外傳_聖機兵物語 "wikilink")
 
 ## 參見
 

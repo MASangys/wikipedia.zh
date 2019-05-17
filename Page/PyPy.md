@@ -1,4 +1,4 @@
-**PyPy**是用[Python实现的Python](../Page/Python.md "wikilink")[解释器](../Page/解释器.md "wikilink")。
+**PyPy**是用[Python实现的Python](../Page/Python.md "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")。
 
 ## 项目背景
 
@@ -8,7 +8,7 @@ Python创建的项目。此外，PyPy比[CPython更灵活](../Page/CPython.md "w
 ## 项目现状
 
 PyPy是[Armin
-Rigo开发的](../Page/Armin_Rigo.md "wikilink")，[Python语言的动态编译器](../Page/Python.md "wikilink")，是[Psyco的后继项目](../Page/Psyco.md "wikilink")。PyPy的目的是，做到[Psyco没有做到的](../Page/Psyco.md "wikilink")[动态编译](../Page/动态编译.md "wikilink")。
+Rigo开发的](https://zh.wikipedia.org/wiki/Armin_Rigo "wikilink")，[Python语言的动态编译器](../Page/Python.md "wikilink")，是[Psyco的后继项目](../Page/Psyco.md "wikilink")。PyPy的目的是，做到[Psyco没有做到的](../Page/Psyco.md "wikilink")[动态编译](https://zh.wikipedia.org/wiki/动态编译 "wikilink")。
 
 PyPy开始只是研究性质的项目。但是开发非常成熟，在2007年中旬发布了1.0
 Release版本后，大家关注的焦点是，能否在2008年出现可供生产环境使用的版本。
@@ -16,19 +16,19 @@ Release版本后，大家关注的焦点是，能否在2008年出现可供生产
 它支持Python语言的所有核心部分以及大多数的Python语言标准库函数模块，并且通过了Python语言的test
 suite。与CPython的区别可以去看它的[兼容性](http://www.pypy.org/compat.html)页面.
 
-PyPy还提供了[JIT编译器和](../Page/JIT.md "wikilink")[沙盒功能](../Page/沙盒.md "wikilink")，因此运行速度比CPython要快，以及可以安全地运行一些不被信任的代码。PyPy还有一个单独的支持[微线程的版本](../Page/微线程.md "wikilink")。
+PyPy还提供了[JIT编译器和](https://zh.wikipedia.org/wiki/JIT "wikilink")[沙盒功能](https://zh.wikipedia.org/wiki/沙盒 "wikilink")，因此运行速度比CPython要快，以及可以安全地运行一些不被信任的代码。PyPy还有一个单独的支持[微线程的版本](https://zh.wikipedia.org/wiki/微线程 "wikilink")。
 
 另外，PyPy也有[每夜构建](http://buildbot.pypy.org/nightly/trunk/)版本供开发者测试。
 
-PyPy是作为（特定领域研究项目）从2004年12月到2007年3月\[2\]，开始接受[欧盟的援助](../Page/欧盟.md "wikilink")。
+PyPy是作为（特定领域研究项目）从2004年12月到2007年3月\[2\]，开始接受[欧盟的援助](https://zh.wikipedia.org/wiki/欧盟 "wikilink")。
 
 ## PyPy的实现与原理
 
 PyPy的第一部分：用[Python实现的](../Page/Python.md "wikilink")[Python](../Page/Python.md "wikilink")
 
-其实这么说并不准确，准确地说应该是用[rPython实现的](../Page/rPython.md "wikilink")[Python](../Page/Python.md "wikilink")，rPython是Python的一个子集，虽然rPython不是完整的Python，但用rPython写的这个Python实现却是可以解释完整的Python语言。
+其实这么说并不准确，准确地说应该是用[rPython实现的](https://zh.wikipedia.org/wiki/rPython "wikilink")[Python](../Page/Python.md "wikilink")，rPython是Python的一个子集，虽然rPython不是完整的Python，但用rPython写的这个Python实现却是可以解释完整的Python语言。
 
-PyPy的第二部分：[编译器](../Page/编译器.md "wikilink")
+PyPy的第二部分：[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")
 
 这是一个编译rPython的编译器，或者说这个编译器有一个rPython的前端，目前也只有这么一个前端，不过它的后端却是不少，也就是说这个编译器支持许多的目标语言，比较重要的有：C，[CIL](../Page/通用中间语言.md "wikilink")，Javascript
 ...

@@ -2,9 +2,9 @@
 [Bill_Clinton_talking_at_TED_2007.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton_talking_at_TED_2007.jpg "fig:Bill_Clinton_talking_at_TED_2007.jpg")在2007年TED大会上发表演讲\]\]
 
 **TED Conference LLC.**（指**T**echnology, **E**ntertainment,
-**D**esign在英语中的缩写，即[技术](../Page/技术.md "wikilink")、[娱乐](../Page/娱乐.md "wikilink")、[设计](../Page/设计.md "wikilink")）是美国的一家私有[非营利机构](../Page/非营利机构.md "wikilink")，该机构以它组织的TED大会著称。TED诞生于1984年，其創辦人是。
+**D**esign在英语中的缩写，即[技术](../Page/技术.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")）是美国的一家私有[非营利机构](https://zh.wikipedia.org/wiki/非营利机构 "wikilink")，该机构以它组织的TED大会著称。TED诞生于1984年，其創辦人是。
 
-2002年起，克里斯·安德森\[1\]接管TED，创立了[种子基金会](../Page/种子基金会.md "wikilink")（），并营运TED大会。每年3月，TED大会在美国召集众多科学、设计、文学、音乐等领域的杰出人物，分享他们关于技术、社会、人的思考和探索。
+2002年起，克里斯·安德森\[1\]接管TED，创立了[种子基金会](https://zh.wikipedia.org/wiki/种子基金会 "wikilink")（），并营运TED大会。每年3月，TED大会在美国召集众多科学、设计、文学、音乐等领域的杰出人物，分享他们关于技术、社会、人的思考和探索。
 
 TED环球会议是TED大会的子会议。2005年，第一届TED环球会议在英国召开\[2\]。2007年，TED非洲大会在坦桑尼亚召开。2008年9月，第二届TED非洲大会于南非召开。
 
@@ -60,15 +60,16 @@ TED大奖（）\[12\]是TED大会最激动人心的一部分，它于2005年开�
   - 2006年：传染病控制专家，纪录片制作人耶汉·娜简儿（），建筑师喀麦龙·辛卡莱（）
   - 2007年：美国前总统克林顿（），生物学家威尔逊（），摄影师詹姆斯·纳特威（）\[13\].
   - 2008年：物理学家尼尔·图洛克（），作家大卫·艾格斯（）\[14\]，作家凯伦·阿姆斯特朗（）
-  - 2009年：音乐家何塞·阿布吕尔（），天文学家[吉尔·塔特](../Page/吉尔·塔特.md "wikilink")，海洋学家席薇亚·厄尔（）
-  - 2010年：厨师[傑米·奧利弗](../Page/傑米·奧利弗.md "wikilink")（）
-  - 2011年：艺术家[JR](../Page/JR_\(艺术家\).md "wikilink")
+  - 2009年：音乐家何塞·阿布吕尔（），天文学家[吉尔·塔特](https://zh.wikipedia.org/wiki/吉尔·塔特 "wikilink")，海洋学家席薇亚·厄尔（）
+  - 2010年：厨师[傑米·奧利弗](https://zh.wikipedia.org/wiki/傑米·奧利弗 "wikilink")（）
+  - 2011年：艺术家[JR](https://zh.wikipedia.org/wiki/JR_\(艺术家\) "wikilink")
   - 2012年：The City 2.0
   - 2013年：教育研究者Sugata Mitra博士
   - 2014年：反腐敗活動家Charmian Gooch
   - 2015年：StoryCorps創辦人Dave Isay
   - 2016年：太空考古學家莎拉帕爾卡
-  - 2017年：[哈佛大學醫學院Raj](../Page/哈佛大學.md "wikilink") Panjabi醫生
+  - 2017年：[哈佛大學醫學院Raj](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")
+    Panjabi醫生
 
 ### TED协会（TED Institute）
 
@@ -79,7 +80,7 @@ TED大奖（）\[12\]是TED大会最激动人心的一部分，它于2005年开�
 
 ## 参看
 
-  - [TED演讲嘉宾列表](../Page/TED演讲嘉宾列表.md "wikilink")
+  - [TED演讲嘉宾列表](https://zh.wikipedia.org/wiki/TED演讲嘉宾列表 "wikilink")
 
 ## 注释
 

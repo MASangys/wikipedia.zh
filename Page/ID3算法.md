@@ -1,7 +1,7 @@
 **ID3**算法（Iterative Dichotomiser 3 迭代二叉树3代）是一个由[Ross
-Quinlan发明的用于](../Page/Ross_Quinlan.md "wikilink")[决策树的](../Page/决策树.md "wikilink")[算法](../Page/算法.md "wikilink")。
+Quinlan发明的用于](https://zh.wikipedia.org/wiki/Ross_Quinlan "wikilink")[决策树的](../Page/决策树.md "wikilink")[算法](../Page/算法.md "wikilink")。
 
-这个算法是建立在[奥卡姆剃刀的基础上](../Page/奥卡姆剃刀.md "wikilink")：越是小型的决策树越优于大的决策树（简单理论）。尽管如此，该算法也不是总是生成最小的树形结构。而是一个[启发式算法](../Page/启发式算法.md "wikilink")。奥卡姆剃刀阐述了一个[信息熵的概念](../Page/信息熵.md "wikilink")：
+这个算法是建立在[奥卡姆剃刀的基础上](../Page/奥卡姆剃刀.md "wikilink")：越是小型的决策树越优于大的决策树（简单理论）。尽管如此，该算法也不是总是生成最小的树形结构。而是一个[启发式算法](https://zh.wikipedia.org/wiki/启发式算法 "wikilink")。奥卡姆剃刀阐述了一个[信息熵的概念](https://zh.wikipedia.org/wiki/信息熵 "wikilink")：
 
 \[I_{E}(i) = - \sum^{m}_{j=1}  f (i,j) \log_{2} f (i, j).\]
 
@@ -11,11 +11,11 @@ Quinlan发明的用于](../Page/Ross_Quinlan.md "wikilink")[决策树的](../Pag
 2.  选取其中熵值最小的属性
 3.  生成包含该属性的节点
 
-关于ID3算法的实现可以参考[C4.5算法](../Page/C4.5.md "wikilink")，它同时也是ID3的升级版。
+关于ID3算法的实现可以参考[C4.5算法](https://zh.wikipedia.org/wiki/C4.5 "wikilink")，它同时也是ID3的升级版。
 
 ## 相关主题
 
-  - [C4.5算法](../Page/C4.5.md "wikilink")
+  - [C4.5算法](https://zh.wikipedia.org/wiki/C4.5 "wikilink")
 
 ## 参考文献
 

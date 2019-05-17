@@ -1,12 +1,12 @@
-是[日本](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[超时空要塞](../Page/超时空要塞.md "wikilink")》系列的電視動畫第三作，亦是《超時空要塞》系列25周年的紀念作品。於2008年4月在日本開始播放，全25話。另有[劇場版二部](../Page/劇場版.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[超时空要塞](../Page/超时空要塞.md "wikilink")》系列的電視動畫第三作，亦是《超時空要塞》系列25周年的紀念作品。於2008年4月在日本開始播放，全25話。另有[劇場版二部](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 ## 概要
 
   - 在2007年8月18日举行的《Minmay meets fire bomber》MACROSS
-    25周年纪念演唱会正式公布了此部新Macross[電視動畫作品](../Page/電視動畫.md "wikilink")。[河森正治和](../Page/河森正治.md "wikilink")[速水奖共同宣布](../Page/速水奖.md "wikilink")[菅野洋子担当Macross新電影動畫系列的音乐监督一职](../Page/菅野洋子.md "wikilink")，并同時宣佈劇中主角-歌姬兰花·李的配音兼歌曲演唱，由先前在“Macross
+    25周年纪念演唱会正式公布了此部新Macross[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[河森正治和](../Page/河森正治.md "wikilink")[速水奖共同宣布](https://zh.wikipedia.org/wiki/速水奖 "wikilink")[菅野洋子担当Macross新電影動畫系列的音乐监督一职](../Page/菅野洋子.md "wikilink")，并同時宣佈劇中主角-歌姬兰花·李的配音兼歌曲演唱，由先前在“Macross
     25周年纪念
-    新歌姬选拔活动”中，约5,000名合格候选者中脱颖而出的[中島愛擔當](../Page/中島愛.md "wikilink")。歌姬雪露·諾姆採用《[Macross
-    7](../Page/Macross_7.md "wikilink")》的手法，聲音與歌手分開，配音由聲優[遠藤綾擔當](../Page/遠藤綾.md "wikilink"),歌曲演唱由歌手[May'n負責](../Page/May'n.md "wikilink")。
+    新歌姬选拔活动”中，约5,000名合格候选者中脱颖而出的[中島愛擔當](https://zh.wikipedia.org/wiki/中島愛 "wikilink")。歌姬雪露·諾姆採用《[Macross
+    7](https://zh.wikipedia.org/wiki/Macross_7 "wikilink")》的手法，聲音與歌手分開，配音由聲優[遠藤綾擔當](../Page/遠藤綾.md "wikilink"),歌曲演唱由歌手[May'n負責](../Page/May'n.md "wikilink")。
 
 <!-- end list -->
 
@@ -15,7 +15,7 @@
 <!-- end list -->
 
   - 系列構成[吉野弘幸在雜誌訪談表示](../Page/吉野弘幸.md "wikilink")，原本河森正治意採《[Macross
-    Plus](../Page/Macross_Plus.md "wikilink")》兩男一女的三角關係；但從小就是《超時空要塞》[粉絲的吉野弘幸改成兩女一男](../Page/粉絲.md "wikilink")，劇場版與電視動畫版[明美的對決](../Page/鈴明美.md "wikilink")。\[1\]
+    Plus](../Page/Macross_Plus.md "wikilink")》兩男一女的三角關係；但從小就是《超時空要塞》[粉絲的吉野弘幸改成兩女一男](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，劇場版與電視動畫版[明美的對決](https://zh.wikipedia.org/wiki/鈴明美 "wikilink")。\[1\]
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
     Galaxy，绰号“银河妖精”的人氣偶像歌手。有著一頭淡粉色的頭髮。對有人抱有好感，個性堅毅積極且帶有強勢的作風，被同校同學戲稱為「女王」。對Macross
     Galaxy抱有既討厭又關心的矛盾感情。后入读美星学园飞行员科，與有人等人成為同學。
     和《Macross
-    Zero》的瑪歐諾姆擁有同一個姓氏，在24話的劇情中確認其為瑪奧的孫女，繼承了「風之引導者」的血統，即比普通人擁有更接近[原始文化](../Page/原始文化_\(超時空要塞\).md "wikilink")（Protoculture）的遺傳基因（同樣接近原初文明遺傳基因的還有[傑特拉帝人](../Page/傑特拉帝人.md "wikilink")）。鑲有Fold
+    Zero》的瑪歐諾姆擁有同一個姓氏，在24話的劇情中確認其為瑪奧的孫女，繼承了「風之引導者」的血統，即比普通人擁有更接近[原始文化](https://zh.wikipedia.org/wiki/原始文化_\(超時空要塞\) "wikilink")（Protoculture）的遺傳基因（同樣接近原初文明遺傳基因的還有[傑特拉帝人](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")）。鑲有Fold
     Quartz的耳環為瑪奧寄給她的護身符。其父母具體狀況不明。
     雪露小時候在Macross
     Galaxy貧民窟流浪期間遇上葛雷絲。葛雷絲利用她作V型傳染病的人體實驗對像，並於2053年發表相關論文，之後一直沒有根治該病，只以藥物抑制體內的Vajra細菌。透過她體內的Vajra細菌和Fold
@@ -86,7 +86,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   -
     女主角之一，16岁\[4\]，在中餐馆“娘娘”打工的绿色头发的高中生少女，爱好唱歌，是雪露·諾姆的超级歌迷。在翻拍Macross
     Zero 故事“鸟之人”中出演飾演瑪奧·諾姆並主唱「アイモ」後一路走紅，被称为“超时空灰姑娘”、“希望歌姬”。
-    拥有四分之一[傑特拉帝人血统](../Page/傑特拉帝人.md "wikilink")，所有家人在11年前第117次大规模调查船团遇难事件中遭Vajra袭击遇难或下落不明，兰花本人是幸存者之一。其母藍雪‧美在研究Vajra時罹患V型傳染病并生下蘭花，蘭花因而與Vajra細菌的共生。117船团事故後蘭花患有解离性失忆症（Psychogenic
+    拥有四分之一[傑特拉帝人血统](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，所有家人在11年前第117次大规模调查船团遇难事件中遭Vajra袭击遇难或下落不明，兰花本人是幸存者之一。其母藍雪‧美在研究Vajra時罹患V型傳染病并生下蘭花，蘭花因而與Vajra細菌的共生。117船团事故後蘭花患有解离性失忆症（Psychogenic
     amnesia），失去所有关于117船团事故前的记忆，只记得“”这首歌。
     奥兹马在此事件后以兄长名义收养了兰花，并不是她的亲哥哥。
     第21話後藉由布雷拉的協助離開Frontier尋求過去的記憶。后確認布雷拉是其失蹤的哥哥。
@@ -100,7 +100,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   -
     昵称米歇尔（ミシェル），早乙女的同级生兼竞争对手，S.M.S Skull小隊所屬，階級少尉。代号SK-2。
-    拥有[傑特拉帝人血统](../Page/傑特拉帝人.md "wikilink")，尖耳，视力优于常人，战斗中利用其优点担当远距离[狙擊手](../Page/狙擊手.md "wikilink")。同时有严厉的一面，和格蘭是[青梅竹馬](../Page/青梅竹馬.md "wikilink")。
+    拥有[傑特拉帝人血统](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，尖耳，视力优于常人，战斗中利用其优点担当远距离[狙擊手](../Page/狙擊手.md "wikilink")。同时有严厉的一面，和格蘭是[青梅竹馬](../Page/青梅竹馬.md "wikilink")。
 
 <!-- end list -->
 
@@ -148,15 +148,15 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <!-- end list -->
 
   -
-    [傑特拉帝人女军官](../Page/傑特拉帝人.md "wikilink")，S.M.S
-    Pixy小隊所屬，階級大尉。正常形态下为成熟的[傑特拉帝人女性姿态](../Page/傑特拉帝人.md "wikilink")，微型化时却看上去像个矮小的小女孩，和米歇爾是青梅竹马。
+    [傑特拉帝人女军官](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，S.M.S
+    Pixy小隊所屬，階級大尉。正常形态下为成熟的[傑特拉帝人女性姿态](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，微型化时却看上去像个矮小的小女孩，和米歇爾是青梅竹马。
     於20話Vajra幼蟲突襲時，聽到米歇爾死前的告白。
     劇場版年齡設定變更，就讀美星學園，專攻生物學
 
 <!-- end list -->
 
   -
-    PIXIE小队所属的卡忒兰・蕾雅驾驶员，桃色长髮的乖巧女孩。身为[傑特拉帝人却没有什么斗争心的温柔性格](../Page/傑特拉帝人.md "wikilink")，将格兰称为“姐姐大人”而仰慕着。
+    PIXIE小队所属的卡忒兰・蕾雅驾驶员，桃色长髮的乖巧女孩。身为[傑特拉帝人却没有什么斗争心的温柔性格](https://zh.wikipedia.org/wiki/傑特拉帝人 "wikilink")，将格兰称为“姐姐大人”而仰慕着。
 
 <!-- end list -->
 
@@ -181,7 +181,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
     S.M.S所属，军阶中尉，实际担任军医职务的黑人女性，正式身份是Koenig Monster的女性驾驶员。
   -
     S.M.S所属的Macross
-    Quarter的操作员，虽然看起来是豪放的大叔，实际上是内心温柔的[同性恋](../Page/同性恋.md "wikilink")，加入SMS前就是名化妆师。和奧茲馬十分要好，经常为他排解烦恼，同时也暗恋着他。对SMS的女性成员来说近乎于“贴心大姐”的地位。
+    Quarter的操作员，虽然看起来是豪放的大叔，实际上是内心温柔的[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")，加入SMS前就是名化妆师。和奧茲馬十分要好，经常为他排解烦恼，同时也暗恋着他。对SMS的女性成员来说近乎于“贴心大姐”的地位。
 
 <!-- end list -->
 
@@ -294,7 +294,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   -
     [Macross
-    Zero女主角之一](../Page/Macross_Zero.md "wikilink")，玛雅岛原住民，雪露·諾姆的祖母。後取得博士學位並成為研究原始文明的著名學者，擔任117調查艦隊團長前往宇宙，在此發表Vajra與V型感染病的第一篇研究論文。
+    Zero女主角之一](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")，玛雅岛原住民，雪露·諾姆的祖母。後取得博士學位並成為研究原始文明的著名學者，擔任117調查艦隊團長前往宇宙，在此發表Vajra與V型感染病的第一篇研究論文。
 
 <!-- end list -->
 
@@ -342,11 +342,11 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   - S.M.S
     全名**Strategic Millitary
-    Services**，駐留於Frontier的[私人军事服务公司](../Page/私人军事服务公司.md "wikilink")（對外宣稱與軍方合作的民間運輸公司），主要任務包括船團航線偵查、新型武裝測試、重要人士護衛等工作；原本以民間公司的立場而言應該是輔助軍方工作，但由於軍方派系鬥爭因此S.M.S收留不少統合軍退役的熟練戰鬥機駕駛員，加上背後的政經實力S.M.S裝備了比新統合軍先进的武裝，在小規模作戰上反客為主成為超越統合軍的精銳作戰部隊。
+    Services**，駐留於Frontier的[私人军事服务公司](https://zh.wikipedia.org/wiki/私人军事服务公司 "wikilink")（對外宣稱與軍方合作的民間運輸公司），主要任務包括船團航線偵查、新型武裝測試、重要人士護衛等工作；原本以民間公司的立場而言應該是輔助軍方工作，但由於軍方派系鬥爭因此S.M.S收留不少統合軍退役的熟練戰鬥機駕駛員，加上背後的政經實力S.M.S裝備了比新統合軍先进的武裝，在小規模作戰上反客為主成為超越統合軍的精銳作戰部隊。
     由於契約因素SMS並沒有完整對外公布業務內容，戰死者也僅會以事故死亡之因素私下處理，特殊狀況下無法任意離隊的契約造就了成員生死與共的強大凝聚力。
     目前S.M.S以停泊在Island1的Macross
     Quarter為主基地，下轄**骷髏小隊**（隊長奧茲馬李[少校](../Page/少校.md "wikilink")，使用機種VF-25、VB-6）、**妖精小隊**（隊長格蘭葛蘭[上尉](../Page/上尉.md "wikilink")，使用機種卡忒蘭・蕾雅）
-    小說版中提到SMS還有**藍**、**朱紅**、**紫**這三個戰鬥機小隊，使用機種不明，僅確定各小隊皆配備1架與RVF-25相同裝備之[VF-22S](../Page/YF-21/VF-22雨燕.md "wikilink")。
+    小說版中提到SMS還有**藍**、**朱紅**、**紫**這三個戰鬥機小隊，使用機種不明，僅確定各小隊皆配備1架與RVF-25相同裝備之[VF-22S](https://zh.wikipedia.org/wiki/YF-21/VF-22雨燕 "wikilink")。
 
 <!-- end list -->
 
@@ -372,8 +372,8 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### 战斗机
 
   - [VF-25 彌賽亞](../Page/VF-25彌賽亞.md "wikilink")（）
-    新統合軍的次世代[可变形战斗机候選機](../Page/可变形战斗机.md "wikilink")，由L.A.I公司藉由銀河網路取得YF-24設計為核心架構開發完成，目前S.M.S以政治手段與開發單位合作取得一定數量的VF-25進行實戰測驗，目前S.M.S至少同時有4個小隊（16架）使用此款新型戰機。機體繼承了以往的可變戰鬥機特性，可加掛各種武裝背包輔助戰鬥，不過強化裝備有區域性限制，部分裝備無法在大氣圈內使用。
-    [彌賽亞此名稱為官方網站公開募集下選出之名](../Page/彌賽亞.md "wikilink")，原本出處為[聖經記載末日來臨時之救世主](../Page/聖經.md "wikilink")。「」一詞亦出現在初代林明美所唱之「小白龍」中。
+    新統合軍的次世代[可变形战斗机候選機](https://zh.wikipedia.org/wiki/可变形战斗机 "wikilink")，由L.A.I公司藉由銀河網路取得YF-24設計為核心架構開發完成，目前S.M.S以政治手段與開發單位合作取得一定數量的VF-25進行實戰測驗，目前S.M.S至少同時有4個小隊（16架）使用此款新型戰機。機體繼承了以往的可變戰鬥機特性，可加掛各種武裝背包輔助戰鬥，不過強化裝備有區域性限制，部分裝備無法在大氣圈內使用。
+    [彌賽亞此名稱為官方網站公開募集下選出之名](../Page/彌賽亞.md "wikilink")，原本出處為[聖經記載末日來臨時之救世主](https://zh.wikipedia.org/wiki/聖經 "wikilink")。「」一詞亦出現在初代林明美所唱之「小白龍」中。
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
     S.M.S於故事初期遇到的不明可變戰鬥機正式名稱，由Macross
     Galaxy船團以YF-24為基礎進行修改製造，可說是VF-25的姐妹機種。不過因為要求更高等級的作戰效能因此在機體性能上也有所提升，包括腦波操作座艙、重粒子光束槍(有機槍及光束槍形態,機槍是否使用實彈不明,光束槍形態不可連射,2槍相間時間大約等同VF-25G狙擊槍)、三維式向量噴嘴、固定式強化設備(加上了小型機槍,是否使用實彈不明)，擁有比VF-25更上一層的作戰能力；左腕也如同VF-25裝備盾牌以及格鬥武裝，格鬥武裝裝備了可伸縮式大型劍，也如同VF-25的戰鬥刀加裝了針點系統增強破壞力。但為了適應機體的高性能因此駕駛員無法如同VF-25般以EX-GEAR輔助即足夠，而是直接改造成半機械化肉體適應機體操作負荷。
     [路西法此名稱為PSP遊戲](../Page/路西法.md "wikilink")「Macross Ace
-    Frontier」追加之名，原本出處為[聖經記載之墮落天使](../Page/聖經.md "wikilink")。
+    Frontier」追加之名，原本出處為[聖經記載之墮落天使](https://zh.wikipedia.org/wiki/聖經 "wikilink")。
 
 <!-- end list -->
 
@@ -452,7 +452,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - Macross Quarter
     S.M.S所操作的战舰，同時也是S.M.S的基地。
 
-    雖然全長僅為400公尺大小的戰艦（與[初代Macross登場的ARMD級宇宙航母大小接近](../Page/超時空要塞.md "wikilink")），但具有與Macross類似的變形機構可變形為人型強攻模式進行突擊，除此外右舷安裝小型化的Macross
+    雖然全長僅為400公尺大小的戰艦（與[初代Macross登場的ARMD級宇宙航母大小接近](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")），但具有與Macross類似的變形機構可變形為人型強攻模式進行突擊，除此外右舷安裝小型化的Macross
     Cannon（重量子反應炮），並可自由操控針點防禦系統的範圍使用Macross
     Attack，機動性和火力與同等大小戰艦相比顯得十分強大。
 
@@ -464,7 +464,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
   - 關塔那摩（，Guantanamo）級航空母艦
     Frontier船团护卫战舰中出現的戰艦，在[Macross
     Plus及](../Page/Macross_Plus.md "wikilink")[Macross
-    7中均曾經出現](../Page/超時空要塞_7.md "wikilink")，目前故事中Frontier船团艦載機皆由此級航空母艦搭載出擊。
+    7中均曾經出現](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，目前故事中Frontier船团艦載機皆由此級航空母艦搭載出擊。
 
 <!-- end list -->
 
@@ -475,7 +475,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   - 浦賀（，Uraga）級突擊空母
     同樣在[Macross
-    7中曾經出現之突擊空母](../Page/超時空要塞_7.md "wikilink")，Frontier船团护卫艦隊也裝備此艦種。
+    7中曾經出現之突擊空母](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，Frontier船团护卫艦隊也裝備此艦種。
 
 <!-- end list -->
 
@@ -489,7 +489,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
 <!-- end list -->
 
-  - [Macross改級](../Page/SDF-1_Macross.md "wikilink")（）移民調查船四號艦Global
+  - [Macross改級](https://zh.wikipedia.org/wiki/SDF-1_Macross "wikilink")（）移民調查船四號艦Global
     第117次探索船團旗艦，2048年船團於[行星Galia](../Page/行星.md "wikilink")4上遭Vajra襲擊後在此地廢棄\[6\]，最後在Vajra母船覺醒後遭到撞擊解體。
 
 <!-- end list -->
@@ -543,29 +543,30 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ## 製作人員
 
   - 原作：[河森正治](../Page/河森正治.md "wikilink")、[Studio
-    Nue](../Page/Studio_Nue.md "wikilink")
+    Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")
   - 總監督、故事構成：河森正治
   - 監督：[菊地康仁](../Page/菊地康仁.md "wikilink")
-  - 製片人：國崎久德、[丸山博雄](../Page/丸山博雄.md "wikilink")、諸富洋史（MBS）、平井伸一、葛西勵
-  - 執行製片人：大西加紋、川城和實、[竹田青滋](../Page/竹田青滋.md "wikilink")（MBS）、佐藤道明
+  - 製片人：國崎久德、[丸山博雄](https://zh.wikipedia.org/wiki/丸山博雄 "wikilink")、諸富洋史（MBS）、平井伸一、葛西勵
+  - 執行製片人：大西加紋、川城和實、[竹田青滋](https://zh.wikipedia.org/wiki/竹田青滋 "wikilink")（MBS）、佐藤道明
   - 系列構成：[吉野弘幸](../Page/吉野弘幸.md "wikilink")
-  - 人物設定：[江端里沙](../Page/江端里沙.md "wikilink")、[高橋裕一](../Page/高橋裕一.md "wikilink")
+  - 人物設定：[江端里沙](https://zh.wikipedia.org/wiki/江端里沙 "wikilink")、[高橋裕一](https://zh.wikipedia.org/wiki/高橋裕一 "wikilink")
   - 可變形戰鬥機設定：河森正治
-  - 機甲設定：[石垣純哉](../Page/石垣純哉.md "wikilink")、[高倉武史](../Page/高倉武史.md "wikilink")
-  - 機甲描繪：[天神英貴](../Page/天神英貴.md "wikilink")
-  - 概念設定：[宮武一貴](../Page/宮武一貴.md "wikilink")
+  - 機甲設定：[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")、[高倉武史](https://zh.wikipedia.org/wiki/高倉武史 "wikilink")
+  - 機甲描繪：[天神英貴](https://zh.wikipedia.org/wiki/天神英貴 "wikilink")
+  - 概念設定：[宮武一貴](https://zh.wikipedia.org/wiki/宮武一貴 "wikilink")
   - 動畫：笹倉逸郎、HIBIKI
   - 美術設定：平澤晃弘
   - 色彩設計：中山久美子
   - 色彩設計補佐：竹澤聰
   - 装置装飾：BRUNET STANISLAS
   - 音樂：[菅野洋子](../Page/菅野洋子.md "wikilink")
-  - 音樂製片人：[佐佐木史郎](../Page/佐佐木史郎.md "wikilink")、太田敏明
+  - 音樂製片人：[佐佐木史郎](https://zh.wikipedia.org/wiki/佐佐木史郎 "wikilink")、太田敏明
   - 音樂導演：井上裕香子
-  - 音樂制作：[flyingDOG](../Page/flyingDOG.md "wikilink")/JVC
-    Music、[BorderLine](../Page/BorderLine.md "wikilink")
+  - 音樂制作：[flyingDOG](https://zh.wikipedia.org/wiki/flyingDOG "wikilink")/JVC
+    Music、[BorderLine](https://zh.wikipedia.org/wiki/BorderLine "wikilink")
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
-  - 音響制作：[Techno Sound](../Page/Techno_Sound.md "wikilink")
+  - 音響制作：[Techno
+    Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
   - 動畫製作：[SATELIGHT](../Page/SATELIGHT.md "wikilink")
   - 製作：Macross Frontier制作委员会、BigWest、每日放送
 
@@ -575,8 +576,8 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 
   - 「」(Triangular / 三角的關係)（第1話～第16話）
     作詞：[Gabriela
-    Robin](../Page/Gabriela_Robin.md "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-    歌：[坂本真绫](../Page/坂本真绫.md "wikilink")
+    Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
+    歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
   - 「」（第17话）\[9\]
     作词：松本隆，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛
   - 「」(Lion / 獅子 / 獅子座Leo)（第18話～第24話）
@@ -586,10 +587,11 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 ### 片尾曲
 
   - 「」(Love．Do you remember / 愛．可有記起)（SP，第12話）
-    作詞：安井，作曲：加藤和彥，編曲：菅野洋子，歌：Ranka Lee=[中島愛](../Page/中島愛.md "wikilink")
+    作詞：安井，作曲：加藤和彥，編曲：菅野洋子，歌：Ranka
+    Lee=[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
   - 「」(Diamond crevasse / 鑽石裂縫)（第2话～第14话, 第20话）
-    作詞：[hal](../Page/hal.md "wikilink")，作曲/編曲：菅野洋子，歌：Sheryl Nome
-    starring [May'n](../Page/中林芽依.md "wikilink")
+    作詞：[hal](https://zh.wikipedia.org/wiki/hal "wikilink")，作曲/編曲：菅野洋子，歌：Sheryl
+    Nome starring [May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")
   - 「」(AIMO / 您啊)（第1话，第7话）
     作詞：Gabriela Robin，作曲/編曲：菅野洋子，歌：Ranka Lee=中島愛
   - 「」(您啊～鳥之人 / 劇中Macross Zero 故事"鳥之人"主題曲版本)（第10话）
@@ -602,10 +604,11 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
     作詞：岩里祐穂、Gabriela Robin，作曲/編曲：菅野洋子，歌：Sheryl Nome starring May'n
   - 「」(Triangular / 三角的"關係")（第19話）
     作詞：[Gabriela
-    Robin](../Page/Gabriela_Robin.md "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
-    歌：[坂本真绫](../Page/坂本真绫.md "wikilink")
+    Robin](https://zh.wikipedia.org/wiki/Gabriela_Robin "wikilink")，作曲/编曲：[菅野洋子](../Page/菅野洋子.md "wikilink")
+    歌：[坂本真绫](https://zh.wikipedia.org/wiki/坂本真绫 "wikilink")
   - 「」(蒼之Ether / 蒼藍之以太)（第21話）
-    作詞：[坂本真綾](../Page/坂本真綾.md "wikilink")，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛
+    作詞：[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")，作曲/编曲：菅野洋子，歌：Ranka
+    Lee=中島愛
   - 「」 (Triangular / 三角的"關係" (在舞台上戰鬥版本) )（第25話）
     作詞：Gabriela Robin，作曲/编曲：菅野洋子，歌：Ranka Lee=中島愛、Sheryl Nome starring
     May'n
@@ -689,7 +692,7 @@ Frontier卫星内部，威胁着少女兰花的生命，这时候，有一架受
 <a href="../Page/河森正治.md" title="wikilink">河森正治</a></p></td>
 <td><p>田中孝行</p></td>
 <td><p>高橋裕一<br />
-<a href="../Page/江端里沙.md" title="wikilink">江端里沙</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/江端里沙" title="wikilink">江端里沙</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -969,7 +972,9 @@ KIM YONG-SIK</p></td>
 
 ### 單曲CD
 
-**\* 「[トライアングラー](../Page/トライアングラー.md "wikilink")」歌：坂本真綾 2008年4月23日發售
+**\*
+「[トライアングラー](https://zh.wikipedia.org/wiki/トライアングラー "wikilink")」歌：坂本真綾
+2008年4月23日發售
 ** 1. トライアングラー
 2\. ことみち
 3\. トライアングラー (w/o maaya)
@@ -1139,7 +1144,7 @@ KIM YONG-SIK</p></td>
     收錄 第1話 **近距離接觸** ( Yack Deculture edition 32分鐘, Deculture edition
     27分鐘 )
     音聲特典：實況解說
-    出演：[遠藤綾](../Page/遠藤綾.md "wikilink")、[中島愛](../Page/中島愛.md "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
+    出演：[遠藤綾](../Page/遠藤綾.md "wikilink")、[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")、[河森正治](../Page/河森正治.md "wikilink")
 
 <!-- end list -->
 
@@ -1226,18 +1231,18 @@ KIM YONG-SIK</p></td>
 
 ## 播放電視台
 
-| 播放地區                                                              | 播放電視台                                         | 播放日期                | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬電視網 |
-| ----------------------------------------------------------------- | --------------------------------------------- | ------------------- | ----------------------------------------------------------------------- | ----- |
-| [近畿广域圈](../Page/近畿广域圈.md "wikilink")                              | [毎日放送](../Page/毎日放送.md "wikilink")（MBS）       | 2008年4月3日 -         | 星期四 25時25分 - 25時55分                                                     | 制作局   |
-| [中京广域圈](../Page/中京广域圈.md "wikilink")                              | [中部日本放送](../Page/中部日本放送.md "wikilink")（CBC）   | 星期四 26時30分 - 27時00分 |                                                                         |       |
-| [关东广域圈](../Page/关东广域圈.md "wikilink")                              | [東京放送](../Page/東京放送.md "wikilink")（TBS）       | 2008年4月4日 -         | 星期五 25時55分 - 26時25分                                                     |       |
-| [宫城县](../Page/宫城县.md "wikilink")                                  | [東北放送](../Page/東北放送.md "wikilink")（TBC）       | 星期五 26時15分 - 26時45分 |                                                                         |       |
-| [静冈县](../Page/静冈县.md "wikilink")                                  | [静岡放送](../Page/静岡放送.md "wikilink")（SBS）       |                     |                                                                         |       |
-| [广岛县](../Page/广岛县.md "wikilink")                                  | [中国放送](../Page/中国放送.md "wikilink")（RCC）       | 2008年4月5日 -         | 星期六 26時40分 - 27時10分                                                     |       |
-| [熊本县](../Page/熊本县.md "wikilink")                                  | [熊本放送](../Page/熊本放送.md "wikilink")（RKK）       | 2008年4月6日 -         | 星期日 25時50分 - 26時20分                                                     |       |
-| [北海道](../Page/北海道.md "wikilink")                                  | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）     | 2008年4月7日 -         | 星期一 26時25分 - 26時55分                                                     |       |
-| [冈山县](../Page/冈山县.md "wikilink")・[香川县](../Page/香川县.md "wikilink") | [山陽放送](../Page/山陽放送.md "wikilink") (RSK)      |                     |                                                                         |       |
-| [福冈县](../Page/福冈县.md "wikilink")                                  | [RKB每日放送](../Page/RKB每日放送.md "wikilink")（rkb） | 星期一 26時30分 - 27時00分 |                                                                         |       |
+| 播放地區                                                                                 | 播放電視台                                                       | 播放日期                | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬電視網 |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- | ----- |
+| [近畿广域圈](https://zh.wikipedia.org/wiki/近畿广域圈 "wikilink")                              | [毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")（MBS）  | 2008年4月3日 -         | 星期四 25時25分 - 25時55分                                                                                           | 制作局   |
+| [中京广域圈](https://zh.wikipedia.org/wiki/中京广域圈 "wikilink")                              | [中部日本放送](../Page/中部日本放送.md "wikilink")（CBC）                 | 星期四 26時30分 - 27時00分 |                                                                                                               |       |
+| [关东广域圈](https://zh.wikipedia.org/wiki/关东广域圈 "wikilink")                              | [東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")（TBS）  | 2008年4月4日 -         | 星期五 25時55分 - 26時25分                                                                                           |       |
+| [宫城县](https://zh.wikipedia.org/wiki/宫城县 "wikilink")                                  | [東北放送](https://zh.wikipedia.org/wiki/東北放送 "wikilink")（TBC）  | 星期五 26時15分 - 26時45分 |                                                                                                               |       |
+| [静冈县](https://zh.wikipedia.org/wiki/静冈县 "wikilink")                                  | [静岡放送](https://zh.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）  |                     |                                                                                                               |       |
+| [广岛县](https://zh.wikipedia.org/wiki/广岛县 "wikilink")                                  | [中国放送](https://zh.wikipedia.org/wiki/中国放送 "wikilink")（RCC）  | 2008年4月5日 -         | 星期六 26時40分 - 27時10分                                                                                           |       |
+| [熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")                                  | [熊本放送](https://zh.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）  | 2008年4月6日 -         | 星期日 25時50分 - 26時20分                                                                                           |       |
+| [北海道](../Page/北海道.md "wikilink")                                                     | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                   | 2008年4月7日 -         | 星期一 26時25分 - 26時55分                                                                                           |       |
+| [冈山县](https://zh.wikipedia.org/wiki/冈山县 "wikilink")・[香川县](../Page/香川县.md "wikilink") | [山陽放送](https://zh.wikipedia.org/wiki/山陽放送 "wikilink") (RSK) |                     |                                                                                                               |       |
+| [福冈县](../Page/福冈县.md "wikilink")                                                     | [RKB每日放送](../Page/RKB每日放送.md "wikilink")（rkb）               | 星期一 26時30分 - 27時00分 |                                                                                                               |       |
 
 ## 注釋
 

@@ -1,15 +1,15 @@
-《**FRESH光之美少女！**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](../Page/動畫.md "wikilink")，為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六季作品，屬第四代光之美少女。於2009年2月起於[ABC](../Page/朝日放送.md "wikilink")、[朝日電視台播出](../Page/朝日電視台.md "wikilink")。台灣與香港分別由[東森幼幼台與](../Page/東森幼幼台.md "wikilink")[翡翠台代理](../Page/翡翠台.md "wikilink")，以「**幸福精靈**」的名義分別於2011年5月27日及12月10日播出。
+《**FRESH光之美少女！**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六季作品，屬第四代光之美少女。於2009年2月起於[ABC](../Page/朝日放送.md "wikilink")、[朝日電視台播出](../Page/朝日電視台.md "wikilink")。台灣與香港分別由[東森幼幼台與](../Page/東森幼幼台.md "wikilink")[翡翠台代理](../Page/翡翠台.md "wikilink")，以「**幸福精靈**」的名義分別於2011年5月27日及12月10日播出。
 
 ## 本作概要
 
 繼前作《[Yes\!
 光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")》後，本作再由新角色和故事所構成。為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六部作品，內容上則是第四代光之美少女。
 
-被破壞的地方不會[還原](../Page/還原.md "wikilink")：無論在前作還是後作，被魔物破壞的周圍環境，戰後便會還原，但此作不會。
+被破壞的地方不會[還原](https://zh.wikipedia.org/wiki/還原 "wikilink")：無論在前作還是後作，被魔物破壞的周圍環境，戰後便會還原，但此作不會。
 
-漫畫版於2009年3月在《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》（[講談社](../Page/講談社.md "wikilink")）開始連載。原作[東堂泉](../Page/東堂泉.md "wikilink")，作畫與先前同樣是[上北雙子](../Page/上北雙子.md "wikilink")。
+漫畫版於2009年3月在《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）開始連載。原作[東堂泉](../Page/東堂泉.md "wikilink")，作畫與先前同樣是[上北雙子](../Page/上北雙子.md "wikilink")。
 
-最初[光之美少女系列主要的觀眾是從](../Page/光之美少女.md "wikilink")4到6歲的女孩，不過至今她們已經從幼稚園畢業升學。為了讓既有觀眾與廣泛的年齡層享受同樣故事性，設計「第四名光之美少女」與秘密裝置「無限記憶體」等設定、並加入少女關心的跳舞、流行、戀愛元素等，人物設定得更加成熟、故事亦比之前更貼近現實\[1\]\[2\]。朝日放送（ABC）的製片人[吉田健一郎亦說](../Page/吉田健一郎.md "wikilink")「讓從光之美少女畢業的舊雨新知和大人一起收看的節目作為目標」。新的敵人設定也從以往「怪物」變成「人」、描寫為純粹的「惡」，並塑造敵人形象和態度探討影響，與作為本次主題的「幸福」結合。
+最初[光之美少女系列主要的觀眾是從](../Page/光之美少女.md "wikilink")4到6歲的女孩，不過至今她們已經從幼稚園畢業升學。為了讓既有觀眾與廣泛的年齡層享受同樣故事性，設計「第四名光之美少女」與秘密裝置「無限記憶體」等設定、並加入少女關心的跳舞、流行、戀愛元素等，人物設定得更加成熟、故事亦比之前更貼近現實\[1\]\[2\]。朝日放送（ABC）的製片人[吉田健一郎亦說](https://zh.wikipedia.org/wiki/吉田健一郎 "wikilink")「讓從光之美少女畢業的舊雨新知和大人一起收看的節目作為目標」。新的敵人設定也從以往「怪物」變成「人」、描寫為純粹的「惡」，並塑造敵人形象和態度探討影響，與作為本次主題的「幸福」結合。
 
 ## 故事簡介
 
@@ -105,7 +105,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     14歲，基督教系私立白詰草女子學院中等部2年級生。其暱稱為「小吹（）」（中文譯為「小祈」）。為人大方，但對自己沒自信。為了改變這樣的自己而在桃園愛的鼓勵下加入舞團。學習雖好，但卻沒有多少社會常識。由於家中經營動物醫院，所以對動物了解甚詳，夢想是繼承家裏的動物醫院並成為一名出色的獸醫。很喜歡動物，但唯一的例外是雪貂，也因此很害怕跟塔多接觸，第十話後才在機緣巧合下消除了對雪貂的恐懼並與塔多成為好友。口頭禪是「我始終相信著！」
 
-    為了拯救遭到敵人操縱的自家醫院顧客，以「祈願」的力量醒覺而變身成鳳梨天使，跟她相配的鑰匙是深黃色（日文又稱[山吹色](../Page/棣棠花.md "wikilink")）的「Kirun（奇嚕）」
+    為了拯救遭到敵人操縱的自家醫院顧客，以「祈願」的力量醒覺而變身成鳳梨天使，跟她相配的鑰匙是深黃色（日文又稱[山吹色](https://zh.wikipedia.org/wiki/棣棠花 "wikilink")）的「Kirun（奇嚕）」
 
     變身咒語為「幸福精靈變身 Beat up！（Change！ Precure Beat up！）」\[5\]
 
@@ -220,7 +220,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 ### 甜蜜王國（Sweets Kingdom）
 
   -
-    位於不同於主角世界的另一次元，國內主要居民為妖精，其方言接近日本的[關西腔](../Page/關西腔.md "wikilink")。
+    位於不同於主角世界的另一次元，國內主要居民為妖精，其方言接近日本的[關西腔](https://zh.wikipedia.org/wiki/關西腔 "wikilink")。
 
 <!-- end list -->
 
@@ -228,7 +228,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     甜蜜王國的使者，前來尋找傳說戰士光之美少女並負責照顧希風。有著類似雪貂的外形，平時以桃園家的寵物身分作為掩護，另外在薰仔的店耍雜攬客以賺取甜甜圈。常杞人憂天，但聽到感人故事就會落淚，也很憂心主角們是否能兼顧戰士的使命與跳舞願景。其實際身分為甜蜜王國的王子。
 
-    名稱源自於英文「[撻](../Page/撻.md "wikilink")」。
+    名稱源自於英文「[撻](https://zh.wikipedia.org/wiki/撻 "wikilink")」。
 
 <!-- end list -->
 
@@ -241,7 +241,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
     故事後期不幸儲存計儲滿後顯現本身擁有無限記憶體（Infinity），在不幸時會維持喪失意識的夢遊狀態，可使用幸運草寶盒暫時復原。最後被光之美少女
     真愛之心 Fresh 給恢復正常，並以後不再受到迷宮的控制。
 
-    名稱源自於英文「[戚風蛋糕](../Page/戚風蛋糕.md "wikilink")」。
+    名稱源自於英文「[戚風蛋糕](https://zh.wikipedia.org/wiki/戚風蛋糕 "wikilink")」。
 
 <!-- end list -->
 
@@ -261,7 +261,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     台灣與香港代理譯名為「**阿茲娜**」。
 
-    名稱源自於日文「[豆沙](../Page/豆沙.md "wikilink")(Azuki)」。
+    名稱源自於日文「[豆沙](https://zh.wikipedia.org/wiki/豆沙 "wikilink")(Azuki)」。
 
 <!-- end list -->
 
@@ -277,7 +277,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     甜蜜王國王后。沃夫之妻。
 
-    名稱源自於法文「[瑪德蓮蛋糕](../Page/瑪德蓮蛋糕.md "wikilink")」。
+    名稱源自於法文「[瑪德蓮蛋糕](https://zh.wikipedia.org/wiki/瑪德蓮蛋糕 "wikilink")」。
 
 ### 管理國家「迷宮」（Labyrinth）
 
@@ -292,7 +292,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     真正身份是一部由「迷宮」國民製造出來的超級電腦，因認為「迷宮」的人太依賴他而決定乾脆「管理」他們，製造出諾莎（植物類）、克萊（爬蟲類）。最後進行自爆以圖消滅光之美少女（但失敗，因為光之美少女在爆炸前最後一刻逃脫）。
 
-    後來在[STMM中被索爾希埃爾的魔力以一般型態復活](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")，最終與杜恩一同現身並自爆。
+    後來在[STMM中被索爾希埃爾的魔力以一般型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，最終與杜恩一同現身並自爆。
 
     其名字源自數學上代表無窮大的[莫比乌斯带](../Page/莫比乌斯带.md "wikilink")（Möbius
     strip或者Möbius band）。
@@ -303,7 +303,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 
     總統梅比斯的左右手，負責監視收集不幸的幹部並向梅比斯報告其戰績與收集的光之美少女情報。外貌是中年男子，衣著與韋斯達同樣是黃黑相間，胸口的那基華米基菱形為深藍色，戰鬥時會變作龍的樣子，實力高強，曾令光之美少女陷於苦戰。
 
-    名字的由來可能是英文「哭泣（crying）」，另一說法是取自提出無定向性平面「[克萊因瓶](../Page/克萊因瓶.md "wikilink")」的德國數學家菲利斯‧克萊因。
+    名字的由來可能是英文「哭泣（crying）」，另一說法是取自提出無定向性平面「[克萊因瓶](https://zh.wikipedia.org/wiki/克萊因瓶 "wikilink")」的德國數學家菲利斯‧克萊因。
 
 <!-- end list -->
 
@@ -323,7 +323,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 #### 三幹部
 
   -
-    [\#光之美少女（Precure）参照](../Page/#光之美少女（Precure）.md "wikilink")。
+    [\#光之美少女（Precure）参照](https://zh.wikipedia.org/wiki/#光之美少女（Precure） "wikilink")。
 
 <!-- end list -->
 
@@ -594,7 +594,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 <td></td>
 <td><p>愛情精靈Fresh！Cure Peach誕生！！</p></td>
 <td><p>前川淳</p></td>
-<td><p><a href="../Page/志水淳兒.md" title="wikilink">志水淳兒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/志水淳兒" title="wikilink">志水淳兒</a></p></td>
 <td><p>爲我井克美</p></td>
 <td><p>行信三</p></td>
 <td><p><strong>2009年</strong><br />
@@ -1259,16 +1259,16 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
   - 企畫：西出將之（ABC）、松下洋子（ADK）、關弘美
   - 製作人：吉田健一郎（ABC）、鶴崎りか（ADK）、梅澤淳稔
   - 原作：[東堂泉](../Page/東堂泉.md "wikilink")
-  - 連載：[講談社](../Page/講談社.md "wikilink")《》（漫画：[上北雙子](../Page/上北雙子.md "wikilink")）
-  - 系列導演：[志水淳兒](../Page/志水淳兒.md "wikilink")、座古明史（第16話起）
-  - [系列構成](../Page/系列構成.md "wikilink")：前川淳
+  - 連載：[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》（漫画：[上北雙子](../Page/上北雙子.md "wikilink")）
+  - 系列導演：[志水淳兒](https://zh.wikipedia.org/wiki/志水淳兒 "wikilink")、座古明史（第16話起）
+  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")：前川淳
   - 音樂：[高梨康治](../Page/高梨康治.md "wikilink")
   - 製作擔當：坂井和男
   - 美術設計：行信三
   - 彩色設計：佐久間子
   - 人物設計：香川久
   - 制作協力：[東映](../Page/東映.md "wikilink")
-  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](../Page/ADK.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+  - 制作：[ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 主題曲
 
@@ -1321,7 +1321,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
   -
 
       -
-        作詞：六見純代，作曲：marhy，編曲：龜山耕一郎，主唱：[蔡頤榛](../Page/蔡頤榛.md "wikilink")、[蔡芷紜](../Page/蔡芷紜.md "wikilink")
+        作詞：六見純代，作曲：marhy，編曲：龜山耕一郎，主唱：[蔡頤榛](../Page/蔡頤榛.md "wikilink")、[蔡芷紜](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")
 
 <!-- end list -->
 
@@ -1384,7 +1384,8 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")
+    主條目：[All Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
@@ -1410,9 +1411,9 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
     [光之美少女 All Stars
     春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")
+    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
 
 ## 註解
 
@@ -1429,13 +1430,13 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
   - [幸福精靈FRESH！ -
     FUNBOX麗嬰國際玩具](http://www.funbox.com.tw/funbox/_freshprettycure/index.html)
 
-| 播放地區                                                              | 播放電視台                                  | 播放日期                    | 播放時間              | 所屬聯播網   | 備註   |
-| ----------------------------------------------------------------- | -------------------------------------- | ----------------------- | ----------------- | ------- | ---- |
-| [近畿廣域圈](../Page/近畿廣域圈.md "wikilink")                              | [朝日放送](../Page/朝日放送.md "wikilink")     | 2009年2月1日 - 2010年1月31日  | 星期日 8:30 - 9:00   | 朝日電視台系列 | 同時   |
-| [關東廣域圈](../Page/關東廣域圈.md "wikilink")                              | [朝日電視台](../Page/朝日電視台.md "wikilink")   |                         |                   |         |      |
-| [中京廣域圈](../Page/中京廣域圈.md "wikilink")                              | [名古屋電視台](../Page/名古屋電視台.md "wikilink") |                         |                   |         |      |
-| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](../Page/島根縣.md "wikilink") | [山陰放送](../Page/山陰放送.md "wikilink")     | 2009年2月7日 - 2010年2月6日   | 星期六 11:15 - 11:45 | TBS系列   | 延遲6日 |
-| [宮崎縣](../Page/宮崎縣.md "wikilink")                                  | [宮崎放送](../Page/宮崎放送.md "wikilink")     | 2009年7月21日 - 2010年7月13日 | 星期二 15:30 - 16:00 | 延遲170日  |      |
+| 播放地區                                                                                 | 播放電視台                                                 | 播放日期                    | 播放時間              | 所屬聯播網   | 備註   |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------- | ----------------------- | ----------------- | ------- | ---- |
+| [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink")                              | [朝日放送](../Page/朝日放送.md "wikilink")                    | 2009年2月1日 - 2010年1月31日  | 星期日 8:30 - 9:00   | 朝日電視台系列 | 同時   |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                              | [朝日電視台](../Page/朝日電視台.md "wikilink")                  |                         |                   |         |      |
+| [中京廣域圈](https://zh.wikipedia.org/wiki/中京廣域圈 "wikilink")                              | [名古屋電視台](../Page/名古屋電視台.md "wikilink")                |                         |                   |         |      |
+| [鳥取縣](../Page/鳥取縣.md "wikilink")、[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink") | [山陰放送](https://zh.wikipedia.org/wiki/山陰放送 "wikilink") | 2009年2月7日 - 2010年2月6日   | 星期六 11:15 - 11:45 | TBS系列   | 延遲6日 |
+| [宮崎縣](../Page/宮崎縣.md "wikilink")                                                     | [宮崎放送](https://zh.wikipedia.org/wiki/宮崎放送 "wikilink") | 2009年7月21日 - 2010年7月13日 | 星期二 15:30 - 16:00 | 延遲170日  |      |
 
 [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
 [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")

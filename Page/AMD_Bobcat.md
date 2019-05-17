@@ -1,19 +1,19 @@
 **Bobcat**
-**（山貓）**是一個[中央處理器的代號](../Page/中央處理器.md "wikilink")，由[AMD設計](../Page/AMD.md "wikilink")，是[x86-64架構](../Page/x86-64.md "wikilink")，採用812针[BGA封裝](../Page/BGA.md "wikilink")\[1\]。它主要用於[UMPC或小型電腦中](../Page/UMPC.md "wikilink")，定位與[Intel
-Atom相同](../Page/Intel_Atom.md "wikilink")，預計會於2008年第四季推出。它擁有一個核心，核心頻率是1GHz。核心集成了128K
+**（山貓）**是一個[中央處理器的代號](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，由[AMD設計](https://zh.wikipedia.org/wiki/AMD "wikilink")，是[x86-64架構](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，採用812针[BGA封裝](https://zh.wikipedia.org/wiki/BGA "wikilink")\[1\]。它主要用於[UMPC或小型電腦中](https://zh.wikipedia.org/wiki/UMPC "wikilink")，定位與[Intel
+Atom相同](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")，預計會於2008年第四季推出。它擁有一個核心，核心頻率是1GHz。核心集成了128K
 L1 Cache和256K L2
 Cache。[HyperTransport技術方面採用](../Page/HyperTransport.md "wikilink")1.0版本，頻率是800
-MHz。與AMD自家的桌面處理器一樣，Bobcat會內建系統記憶體控制器，規格是單通道DDR2-400。處理器[TDP大約是](../Page/TDP.md "wikilink")8W，比Atom的2.5W-4W大\[2\]。但由於[晶片組比較先進](../Page/晶片組.md "wikilink")，所以平台整體的功耗與[Intel方案相差不大](../Page/Intel.md "wikilink")。\[3\]
-晶片方面，可能與[Geode相輔相成](../Page/Geode.md "wikilink")。
+MHz。與AMD自家的桌面處理器一樣，Bobcat會內建系統記憶體控制器，規格是單通道DDR2-400。處理器[TDP大約是](https://zh.wikipedia.org/wiki/TDP "wikilink")8W，比Atom的2.5W-4W大\[2\]。但由於[晶片組比較先進](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，所以平台整體的功耗與[Intel方案相差不大](https://zh.wikipedia.org/wiki/Intel "wikilink")。\[3\]
+晶片方面，可能與[Geode相輔相成](https://zh.wikipedia.org/wiki/Geode "wikilink")。
 
-有關Bobcat處理器的計劃於2007年的[台北國際電腦展覽會中首次披露](../Page/台北國際電腦展覽會.md "wikilink")，目標是[UMPC市場](../Page/UMPC.md "wikilink")。\[4\]\[5\]
-由於沒有後續消息，有人認為該計劃已被取消。但[AMD更換](../Page/AMD.md "wikilink")[CEO後](../Page/CEO.md "wikilink")，新任的CEO－Dirk
+有關Bobcat處理器的計劃於2007年的[台北國際電腦展覽會中首次披露](../Page/台北國際電腦展覽會.md "wikilink")，目標是[UMPC市場](https://zh.wikipedia.org/wiki/UMPC "wikilink")。\[4\]\[5\]
+由於沒有後續消息，有人認為該計劃已被取消。但[AMD更換](https://zh.wikipedia.org/wiki/AMD "wikilink")[CEO後](https://zh.wikipedia.org/wiki/CEO "wikilink")，新任的CEO－Dirk
 Meyer重申計劃存在，公司亦會在2008年11月公佈更詳細的資料。\[6\]
 
 另外，在2008年9月，AMD推出了Ultra-Value
-Clinet方案。此計劃將[K8核心重新打造](../Page/K8.md "wikilink")，有單核心和雙核心形號，用作對抗[VIA
+Clinet方案。此計劃將[K8核心重新打造](https://zh.wikipedia.org/wiki/K8 "wikilink")，有單核心和雙核心形號，用作對抗[VIA
 Nano和](../Page/VIA_Nano.md "wikilink")[Intel
-Atom](../Page/Intel_Atom.md "wikilink")。AMD稱利用740G晶片組，可以提供更好的多媒體體驗。\[7\]
+Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。AMD稱利用740G晶片組，可以提供更好的多媒體體驗。\[7\]
 
 ## 參考資料
 
@@ -21,10 +21,10 @@ Atom](../Page/Intel_Atom.md "wikilink")。AMD稱利用740G晶片組，可以提�
 
 ## 其他連結
 
-  - [AMD Fusion](../Page/AMD_Fusion.md "wikilink")
-  - [Intel Atom](../Page/Intel_Atom.md "wikilink")
-  - [VIA Isaiah](../Page/VIA_Isaiah.md "wikilink")
-  - [APX 2500](../Page/APX_2500.md "wikilink")
+  - [AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
+  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")
+  - [VIA Isaiah](https://zh.wikipedia.org/wiki/VIA_Isaiah "wikilink")
+  - [APX 2500](https://zh.wikipedia.org/wiki/APX_2500 "wikilink")
 
 [Category:AMD](https://zh.wikipedia.org/wiki/Category:AMD "wikilink")
 [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

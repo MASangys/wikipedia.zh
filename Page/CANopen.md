@@ -1,8 +1,8 @@
-**CANopen**是一種架構在[控制器區域網路](../Page/控制器區域網路.md "wikilink")（Controller
+**CANopen**是一種架構在[控制器區域網路](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")（Controller
 Area Network,
-CAN）上的高層[通訊協定](../Page/通訊協定.md "wikilink")，包括通訊子協定及設備子協定常在[嵌入式系統中使用](../Page/嵌入式系統.md "wikilink")，也是工業控制常用到的一種[現場總線](../Page/現場總線.md "wikilink")。
+CAN）上的高層[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")，包括通訊子協定及設備子協定常在[嵌入式系統中使用](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，也是工業控制常用到的一種[現場總線](../Page/現場總線.md "wikilink")。
 
-CANopen實作了[OSI模型中的](../Page/OSI模型.md "wikilink")[網路層以上](../Page/網路層.md "wikilink")（包括網路層）的協定。CANopen標準包括定址方案、數個小的通訊子協定及由設備子協定所定義的[應用層](../Page/應用層.md "wikilink")。CANopen支援網路管理、設備監控及節點間的通訊，其中包括一個簡易的[傳輸層](../Page/傳輸層.md "wikilink")，可處理資料的分段傳送及其組合。一般而言[資料鏈結層及](../Page/資料鏈結層.md "wikilink")[實體層會用CAN來實作](../Page/實體層.md "wikilink")。除了CANopen外，也有其他的通訊協定（如[POWERLINK及](../Page/POWERLINK.md "wikilink")[EtherCAT](../Page/EtherCAT.md "wikilink")）實作CANopen的設備子協定。
+CANopen實作了[OSI模型中的](../Page/OSI模型.md "wikilink")[網路層以上](https://zh.wikipedia.org/wiki/網路層 "wikilink")（包括網路層）的協定。CANopen標準包括定址方案、數個小的通訊子協定及由設備子協定所定義的[應用層](https://zh.wikipedia.org/wiki/應用層 "wikilink")。CANopen支援網路管理、設備監控及節點間的通訊，其中包括一個簡易的[傳輸層](https://zh.wikipedia.org/wiki/傳輸層 "wikilink")，可處理資料的分段傳送及其組合。一般而言[資料鏈結層及](https://zh.wikipedia.org/wiki/資料鏈結層 "wikilink")[實體層會用CAN來實作](https://zh.wikipedia.org/wiki/實體層 "wikilink")。除了CANopen外，也有其他的通訊協定（如[POWERLINK及](https://zh.wikipedia.org/wiki/POWERLINK "wikilink")[EtherCAT](../Page/EtherCAT.md "wikilink")）實作CANopen的設備子協定。
 
 基本的CANopen設備及通訊子協定定義在CAN in Automation (CiA) draft standard
 301.\[1\]。針對個別設備的子協定以CiA
@@ -43,7 +43,7 @@ CANopen設備都需要具備物件字典，用來設定設備組態及進行非�
 | ...    |      |                          |            |    |     |
 
 若配合適當的工具，可以用編輯電子資料表（electronic data sheet,
-EDS)檔案的方式規劃一個設備，並且將變數的數值上傳到設備中。EDS檔案的格式通常會是[INI檔](../Page/INI檔.md "wikilink")。
+EDS)檔案的方式規劃一個設備，並且將變數的數值上傳到設備中。EDS檔案的格式通常會是[INI檔](https://zh.wikipedia.org/wiki/INI檔 "wikilink")。
 
 ## 通訊
 
@@ -169,7 +169,7 @@ PDO可以用同步或非同步的方式傳送：同步的PDO是由SYNC訊息觸�
 
 #### 時間標記物件（TIME）協定
 
-一般而言，時間標記物件的內容是從1984年1月1日午夜之後到現在之間經過的時間，單位為[毫秒](../Page/毫秒.md "wikilink")。為一個48位元（6位元組）的數值。
+一般而言，時間標記物件的內容是從1984年1月1日午夜之後到現在之間經過的時間，單位為[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")。為一個48位元（6位元組）的數值。
 
 不過有些應用會要求時間要非常精確，這種情形會需要精準的同步，尤其是在大型網路，通訊速度受限時更是如此。此時需要將各設備的時鐘同步，精準度要到毫秒的等級。這個要求可透過高解析度的同步信號達成，在同步信號中也包括了另一種時間標記，可供各設備調整時鐘用。
 
@@ -181,12 +181,12 @@ PDO可以用同步或非同步的方式傳送：同步的PDO是由SYNC訊息觸�
 
 以下是在master初始化2個壓力感測器（ID分別為1和2）中，通訊的資料。
 
-| CAN ID | 資料長度 | 資料          | 說明                                                                     |
-| ------ | ---- | ----------- | ---------------------------------------------------------------------- |
-| 0x0    | 2    | 1 0         | master將系統設定為operational mode                                           |
-| 0x80   | 0    |             | Master送出SYNC訊息，使設備送出資料                                                 |
-| 0x181  | 4    | CD 82 01 00 | ID 1的節點（CID-0x180），讀到的壓力為0x0182CD (99021) [帕](../Page/帕.md "wikilink") |
-| 0x182  | 4    | E5 83 01 00 | ID 2的節點（CID-0x181），讀到的壓力為0x0183E5 (99301) [帕](../Page/帕.md "wikilink") |
+| CAN ID | 資料長度 | 資料          | 說明                                                                                        |
+| ------ | ---- | ----------- | ----------------------------------------------------------------------------------------- |
+| 0x0    | 2    | 1 0         | master將系統設定為operational mode                                                              |
+| 0x80   | 0    |             | Master送出SYNC訊息，使設備送出資料                                                                    |
+| 0x181  | 4    | CD 82 01 00 | ID 1的節點（CID-0x180），讀到的壓力為0x0182CD (99021) [帕](https://zh.wikipedia.org/wiki/帕 "wikilink") |
+| 0x182  | 4    | E5 83 01 00 | ID 2的節點（CID-0x181），讀到的壓力為0x0183E5 (99301) [帕](https://zh.wikipedia.org/wiki/帕 "wikilink") |
 
 ## CANopen專有名詞
 
@@ -199,7 +199,7 @@ PDO可以用同步或非同步的方式傳送：同步的PDO是由SYNC訊息觸�
 
 ## 參照
 
-  - [控制器區域網路](../Page/控制器區域網路.md "wikilink")（CAN）
+  - [控制器區域網路](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")（CAN）
   - [DeviceNet](../Page/DeviceNet.md "wikilink")（另一種使用CAN的工業通訊定）
 
 ## 參考資料

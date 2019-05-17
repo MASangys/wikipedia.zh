@@ -6,7 +6,7 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
   -
     劇場版故事開始時已16歲，是聯合宇宙軍史上最年輕[少校](../Page/少校.md "wikilink")，並成為戰艦「撫子B」艦長。和以前相比，面容顯得稍為寬容，而且開始浮現出一般人的喜怒哀樂表情。心裡依然懷念以前撫子的一切，尤其是「他」……。故事開始時，她被宇宙軍任命，往殖民星「天照」追查和「葫蘆計劃」有關的研究地神秘遇襲的事。現在的琉璃，已以「電子妖精」、「史上最年輕美少女艦長」等名號而聞名於世。
   -
-    劇場版故事開始時23歲，木連之戰結束後不久便和百合香結婚，但在新婚旅行中遭遇太空船意外而宣告死亡；但其實是被一個神秘組織「火星的後繼者」俘虜，並成為他們的實驗體，弄至[味覺等多種](../Page/味覺.md "wikilink")[感官幾近全失](../Page/感官.md "wikilink")，最後被尼路加秘密行動組救出。在劇場版中作為拯救百合香的「王子」，他披上黑衣，成為一個面容冷漠、從地獄深淵而來的復仇鬼；這便是標題“the
+    劇場版故事開始時23歲，木連之戰結束後不久便和百合香結婚，但在新婚旅行中遭遇太空船意外而宣告死亡；但其實是被一個神秘組織「火星的後繼者」俘虜，並成為他們的實驗體，弄至[味覺等多種](https://zh.wikipedia.org/wiki/味覺 "wikilink")[感官幾近全失](../Page/感官.md "wikilink")，最後被尼路加秘密行動組救出。在劇場版中作為拯救百合香的「王子」，他披上黑衣，成為一個面容冷漠、從地獄深淵而來的復仇鬼；這便是標題“the
     prince of darkness”的由來。
   -
     劇場版故事開始時25歲，和明人的新婚旅行事故中同樣宣告死亡；但其實亦是被「火星的後繼者」所擒，並以最新技術把她和遺跡結合在一起，以「人型翻譯機」的姿態沉睡於其中，把[玻色子跳躍的影像傳入遺跡中心](../Page/玻色子.md "wikilink")。不像明人，今次的實驗成功了，而她的腦和感官均安然無恙。
@@ -90,12 +90,12 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 <!-- end list -->
 
   - 視窗的文字
-    電影中不時出現的各種視窗，視窗中的文字都用了不同字體。其中撫子B、C用的是[POP體](../Page/POP體.md "wikilink")，統合軍用的是[極太明朝體](../Page/極太明朝體.md "wikilink")。
+    電影中不時出現的各種視窗，視窗中的文字都用了不同字體。其中撫子B、C用的是[POP體](https://zh.wikipedia.org/wiki/POP體 "wikilink")，統合軍用的是[極太明朝體](https://zh.wikipedia.org/wiki/極太明朝體 "wikilink")。
 
 <!-- end list -->
 
   - 天然荔枝
-    遊戲機中心中光和涼子所玩的格鬥遊戲的女主角，同時她也是人氣動畫《[魔女公主天然荔枝](../Page/魔女公主天然荔枝.md "wikilink")》的女主角。惠也曾在此動畫中為一敵方角色配音。另外，天然荔枝的說話是由涼子的聲優[橫山智佐配音](../Page/橫山智佐.md "wikilink")，她以前也曾為《[魔法少女砂沙美](../Page/魔法少女砂沙美.md "wikilink")》配音。
+    遊戲機中心中光和涼子所玩的格鬥遊戲的女主角，同時她也是人氣動畫《[魔女公主天然荔枝](https://zh.wikipedia.org/wiki/魔女公主天然荔枝 "wikilink")》的女主角。惠也曾在此動畫中為一敵方角色配音。另外，天然荔枝的說話是由涼子的聲優[橫山智佐配音](https://zh.wikipedia.org/wiki/橫山智佐 "wikilink")，她以前也曾為《[魔法少女砂沙美](../Page/魔法少女砂沙美.md "wikilink")》配音。
 
 <!-- end list -->
 
@@ -106,7 +106,7 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 ## 主題曲
 
   - 片尾曲 《**Dearest**》
-    作詞：有森聰美／作曲・編曲：大森俊之／主唱：[松澤由美](../Page/松澤由美.md "wikilink")
+    作詞：有森聰美／作曲・編曲：大森俊之／主唱：[松澤由美](https://zh.wikipedia.org/wiki/松澤由美 "wikilink")
 
 ## 參考來源
 
@@ -117,5 +117,6 @@ darkness**》是在1998年8月8日上映的科幻動畫電影\[1\]，電視動�
 
 1.  [Martian Successor Nadesico: The Motion Picture - Prince of
     Darkness](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1010)[Anime
-    News Network](../Page/Anime_News_Network.md "wikilink")
+    News
+    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")
 2.  [機動戰艦(電影版)](http://www.etaipei.com.tw/main/qtylist.asp?r=103810)台灣區家用影片資料館

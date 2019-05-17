@@ -1,6 +1,6 @@
-《**至Net奇兵：山拿的末日**》（''，）是[至Net奇兵系列的第三款遊戲](../Page/至Net奇兵.md "wikilink")，為《[至Net奇兵](../Page/至Net奇兵_\(遊戲\).md "wikilink")》的續作，由[The
+《**至Net奇兵：山拿的末日**》（''，）是[至Net奇兵系列的第三款遊戲](../Page/至Net奇兵.md "wikilink")，為《[至Net奇兵](https://zh.wikipedia.org/wiki/至Net奇兵_\(遊戲\) "wikilink")》的續作，由[The
 Game
-Factory製作](../Page/The_Game_Factory.md "wikilink")，在2008年6月20日於美國推出在[任天堂DS平臺的](../Page/任天堂DS.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。此遊戲的故事情節和《[至Net奇兵：追求無限](../Page/至Net奇兵：追求無限.md "wikilink")》一樣概括《[至NET奇兵](../Page/至NET奇兵.md "wikilink")》[動畫版的第四輯](../Page/動畫.md "wikilink")。
+Factory製作](https://zh.wikipedia.org/wiki/The_Game_Factory "wikilink")，在2008年6月20日於美國推出在[任天堂DS平臺的](../Page/任天堂DS.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。此遊戲的故事情節和《[至Net奇兵：追求無限](../Page/至Net奇兵：追求無限.md "wikilink")》一樣概括《[至NET奇兵](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")》[動畫版的第四輯](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 故事
 

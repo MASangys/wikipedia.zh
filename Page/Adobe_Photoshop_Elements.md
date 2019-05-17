@@ -1,9 +1,9 @@
 __NOTOC__  **Adobe Photoshop Elements**是[Adobe
-Photoshop](../Page/Adobe_Photoshop.md "wikilink")[光栅图编辑产品的消费版本](../Page/光栅图.md "wikilink")，售价为专业版产品的一小部分（大概六分之一）或者与相关硬件捆绑，如[打印机和](../Page/打印机.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")。它包含了专业版的大多数特性，但是只有少量的简化选项。这个程序允许用户在同一产品中创建、编辑、组织和共享图像。
+Photoshop](../Page/Adobe_Photoshop.md "wikilink")[光栅图编辑产品的消费版本](https://zh.wikipedia.org/wiki/光栅图 "wikilink")，售价为专业版产品的一小部分（大概六分之一）或者与相关硬件捆绑，如[打印机和](../Page/打印机.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")。它包含了专业版的大多数特性，但是只有少量的简化选项。这个程序允许用户在同一产品中创建、编辑、组织和共享图像。
 
 最初Photoshop Elements与 [Photoshop](../Page/Adobe_Photoshop.md "wikilink")
 7一起发行，面向摄影爱好者，因此缺少许多对于专业出版环境有用的特性。例如，Photoshop
-Elements不能以[CMYK色彩模式导出文件](../Page/CMYK.md "wikilink")，只支持简化的色彩管理系统，并且不包含细节软打样。它还去除了所有的或只提供简单版本的插件，对象为非专业人员（如移除[红眼或改变照片中的肤色](../Page/红眼现象.md "wikilink")）。一些版本还可以打开、编辑和保存[PDF文件](../Page/PDF.md "wikilink")。
+Elements不能以[CMYK色彩模式导出文件](https://zh.wikipedia.org/wiki/CMYK "wikilink")，只支持简化的色彩管理系统，并且不包含细节软打样。它还去除了所有的或只提供简单版本的插件，对象为非专业人员（如移除[红眼或改变照片中的肤色](https://zh.wikipedia.org/wiki/红眼现象 "wikilink")）。一些版本还可以打开、编辑和保存[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 Photoshop LE（Limited
 Edition，受限版本）是Adobe在Elements推出前發行的消費版點陣圖編輯軟體。Photoshop
@@ -11,9 +11,9 @@ LE的使用限制和Elements相似。
 
 ## Macintosh版本
 
-[Macintosh版本的Photoshop](../Page/Macintosh.md "wikilink")
+[Macintosh版本的Photoshop](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
 Elements自从2006年第一季度的4.0版以后就没有更新过，这使得[Intel
-Mac用户没有原生解决方案](../Page/蘋果的英特爾平台遷移.md "wikilink")。这是由于[iPhoto带来了许多特性并且免费包含在每个Mac上](../Page/iPhoto.md "wikilink")，这就阻碍了第三方产品的成功。
+Mac用户没有原生解决方案](https://zh.wikipedia.org/wiki/蘋果的英特爾平台遷移 "wikilink")。这是由于[iPhoto带来了许多特性并且免费包含在每个Mac上](https://zh.wikipedia.org/wiki/iPhoto "wikilink")，这就阻碍了第三方产品的成功。
 但是在2008年3月24日，Adobe还是决定为Macintosh平台发布Elements 6.0版本。\[1\]
 
 ### Mac版发行历史
@@ -49,7 +49,7 @@ Mac用户没有原生解决方案](../Page/蘋果的英特爾平台遷移.md "wi
 
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
   - [Adobe Premiere
-    Elements](../Page/Adobe_Premiere_Elements.md "wikilink")
+    Elements](https://zh.wikipedia.org/wiki/Adobe_Premiere_Elements "wikilink")
 
 ## 外部链接
 

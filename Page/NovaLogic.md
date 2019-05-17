@@ -1,15 +1,15 @@
-**Novalogic**是成立於1985年的軟體開發商和出版商。總部位於[美國](../Page/美國.md "wikilink")[加州Agoura](../Page/加州.md "wikilink")
+**Novalogic**是成立於1985年的軟體開發商和出版商。總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州Agoura](https://zh.wikipedia.org/wiki/加州 "wikilink")
 Hills，目前公司的執行長是John A. Garcia。
 
-  - Novalogic最知名的遊戲為[三角洲部隊一系列的遊戲](../Page/三角洲部隊_\(遊戲\).md "wikilink")
-  - 1994年Novalogic在[英國](../Page/英國.md "wikilink")[倫敦成立歐洲辦公室](../Page/倫敦.md "wikilink")
+  - Novalogic最知名的遊戲為[三角洲部隊一系列的遊戲](https://zh.wikipedia.org/wiki/三角洲部隊_\(遊戲\) "wikilink")
+  - 1994年Novalogic在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦成立歐洲辦公室](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
   - 1997年Novalogic首先成立免費的大型線上對戰平台NovaWorld
   - 2004年Novalogic開發了联合进攻：飓风来袭（Joint Operations: Typhoon
     Rising），於多人遊戲模式中允許150個玩家進行對戰，為當時最大的非捐款FPS比賽。
   - 2005年Novalogic開發了三角洲部隊：黑鷹計劃（Delta Force: Black Hawk
-    Down）[Xbox版本](../Page/Xbox.md "wikilink")，於多人遊戲模式中允許50個玩家進行對戰，打破當時的紀錄。
+    Down）[Xbox版本](https://zh.wikipedia.org/wiki/Xbox "wikilink")，於多人遊戲模式中允許50個玩家進行對戰，打破當時的紀錄。
   - 2016年10月31日，[THQ
-    Nordic已完成對Novalogic的收購](../Page/THQ_Nordic.md "wikilink")，並取得Novalogic旗下全系列遊戲品牌特許經營權。\[1\]
+    Nordic已完成對Novalogic的收購](https://zh.wikipedia.org/wiki/THQ_Nordic "wikilink")，並取得Novalogic旗下全系列遊戲品牌特許經營權。\[1\]
 
 ## Novalogic出版和開發的遊戲
 

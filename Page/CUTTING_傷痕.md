@@ -1,6 +1,6 @@
 《**CUTTING
-傷痕**》（）是由[翅田大介撰寫](../Page/翅田大介.md "wikilink")、由插畫的[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。第一屆[Novel
-JAPAN小說大獎得獎作品](../Page/Novel_JAPAN小說大獎.md "wikilink")。中文版由[東立出版社發行](../Page/東立出版社.md "wikilink")。
+傷痕**》（）是由[翅田大介撰寫](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")、由插畫的[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")。第一屆[Novel
+JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說大獎 "wikilink")。中文版由[東立出版社發行](../Page/東立出版社.md "wikilink")。
 
 ## 故事簡介
 
@@ -35,7 +35,7 @@ JAPAN小說大獎得獎作品](../Page/Novel_JAPAN小說大獎.md "wikilink")。
 <!-- end list -->
 
   -
-    和也國中時代的同學，現在就讀不同高中。在和也與澪約會時偶然碰面，和也把澪介紹給她。國中時擔任女子網球社社長，由於雙親不和而不斷[割腕](../Page/割腕.md "wikilink")。
+    和也國中時代的同學，現在就讀不同高中。在和也與澪約會時偶然碰面，和也把澪介紹給她。國中時擔任女子網球社社長，由於雙親不和而不斷[割腕](https://zh.wikipedia.org/wiki/割腕 "wikilink")。
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@ JAPAN小說大獎得獎作品](../Page/Novel_JAPAN小說大獎.md "wikilink")。
 <!-- end list -->
 
   -
-    敬一郎伯父，前[新聞記者](../Page/新聞記者.md "wikilink")。地方上有名的資產家紅條家長男，卻放棄繼承權，入贅到妻子家中。宗次郎死亡前把巴託付給他。
+    敬一郎伯父，前[新聞記者](https://zh.wikipedia.org/wiki/新聞記者 "wikilink")。地方上有名的資產家紅條家長男，卻放棄繼承權，入贅到妻子家中。宗次郎死亡前把巴託付給他。
 
 <!-- end list -->
 

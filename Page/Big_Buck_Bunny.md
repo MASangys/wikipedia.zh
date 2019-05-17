@@ -1,10 +1,11 @@
-**大雄兔**（）是[Blender基金會第](../Page/Blender基金會.md "wikilink")2部[開放授權](../Page/內容開放.md "wikilink")、[創作共用的](../Page/創作共用.md "wikilink")[動畫電影](../Page/動畫電影.md "wikilink")，代号Peach。片長10分鐘，Big
+**大雄兔**（）是[Blender基金會第](https://zh.wikipedia.org/wiki/Blender基金會 "wikilink")2部[開放授權](https://zh.wikipedia.org/wiki/內容開放 "wikilink")、[創作共用的](https://zh.wikipedia.org/wiki/創作共用 "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，代号Peach。片長10分鐘，Big
 Buck
-Bunny全部使用[開放源碼軟件製作](../Page/開放源碼.md "wikilink")（如[Blender](../Page/Blender.md "wikilink")、[Linux](../Page/Linux.md "wikilink")），[渲染的](../Page/渲染.md "wikilink")[計算機集群使用](../Page/計算機集群.md "wikilink")[昇陽電腦公司的Sun](../Page/昇陽電腦公司.md "wikilink")
-Grid亦是[開放源碼的](../Page/開放源碼.md "wikilink")（如：[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[Sun
-Grid Engine等](../Page/Sun_Grid_Engine.md "wikilink")）\[1\]
+Bunny全部使用[開放源碼軟件製作](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")（如[Blender](../Page/Blender.md "wikilink")、[Linux](../Page/Linux.md "wikilink")），[渲染的](../Page/渲染.md "wikilink")[計算機集群使用](https://zh.wikipedia.org/wiki/計算機集群 "wikilink")[昇陽電腦公司的Sun](https://zh.wikipedia.org/wiki/昇陽電腦公司 "wikilink")
+Grid亦是[開放源碼的](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")（如：[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[Sun
+Grid
+Engine等](https://zh.wikipedia.org/wiki/Sun_Grid_Engine "wikilink")）\[1\]
 \[2\]製作技術和素材徹底公開。不同于上一个项目[Elephants
-Dream](../Page/Elephants_Dream.md "wikilink")，本篇全程无语音。本片完成之后，其素材适用在Blender官方的游戏项目[Yo
+Dream](https://zh.wikipedia.org/wiki/Elephants_Dream "wikilink")，本篇全程无语音。本片完成之后，其素材适用在Blender官方的游戏项目[Yo
 Frankie\!之中](../Page/Yo_Frankie!.md "wikilink")，反派Frankie这次成为主角。
 
 ## 圖集
@@ -29,7 +30,7 @@ Frankie\!之中](../Page/Yo_Frankie!.md "wikilink")，反派Frankie这次成为�
 
   - Apricot：衍生项目[Yo Frankie\!的代号](../Page/Yo_Frankie!.md "wikilink")
   - [Elephants
-    Dream](../Page/Elephants_Dream.md "wikilink")：blender基金会的第一个开源电影项目
+    Dream](https://zh.wikipedia.org/wiki/Elephants_Dream "wikilink")：blender基金会的第一个开源电影项目
 
 ## 外部連結
 

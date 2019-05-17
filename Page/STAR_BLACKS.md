@@ -1,5 +1,5 @@
 《**STAR
-BLACKS**》是由[槙陽子在](../Page/槙陽子.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》所連載的[少女漫畫作品](../Page/少女漫畫.md "wikilink")。自2005年4月號至12月號。作品標題取自[星巴克](../Page/星巴克.md "wikilink")（）的諧音。
+BLACKS**》是由[槙陽子在](../Page/槙陽子.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》所連載的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。自2005年4月號至12月號。作品標題取自[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")（）的諧音。
 
 ## 概要
 

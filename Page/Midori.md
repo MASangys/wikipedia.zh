@@ -1,28 +1,29 @@
-**Midori**，是一個輕量級的[跨平台](../Page/跨平台.md "wikilink")[網絡瀏覽器](../Page/網絡瀏覽器.md "wikilink")。用[C語言編寫](../Page/C語言.md "wikilink")，使用[GTK+
-2](../Page/GTK+_2.md "wikilink")，搜索部分基於[OpenSearch的搜索框](../Page/OpenSearch.md "wikilink")。其名稱來自於[日文的](../Page/日文.md "wikilink")「」（）。是[Xfce的一部分](../Page/Xfce.md "wikilink")。
+**Midori**，是一個輕量級的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網絡瀏覽器](https://zh.wikipedia.org/wiki/網絡瀏覽器 "wikilink")。用[C語言編寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")，使用[GTK+
+2](https://zh.wikipedia.org/wiki/GTK+_2 "wikilink")，搜索部分基於[OpenSearch的搜索框](https://zh.wikipedia.org/wiki/OpenSearch "wikilink")。其名稱來自於[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（）。是[Xfce的一部分](../Page/Xfce.md "wikilink")。
 
 ## 特點
 
   - 使用[WebKit](../Page/WebKit.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。
-  - 擴展使用[C語言編寫](../Page/C語言.md "wikilink")
+  - 擴展使用[C語言編寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")
 
-:\*自帶的包括[鼠標手勢](../Page/鼠標手勢.md "wikilink")，彩色標籤頁，廣告過濾等。
+:\*自帶的包括[鼠標手勢](https://zh.wikipedia.org/wiki/鼠標手勢 "wikilink")，彩色標籤頁，廣告過濾等。
 
-  - 全面整合[GTK+ 2和](../Page/GTK+#GTK+_2.md "wikilink")[GTK+
-    3](../Page/GTK+.md "wikilink")。
+  - 全面整合[GTK+
+    2和](https://zh.wikipedia.org/wiki/GTK+#GTK+_2 "wikilink")[GTK+
+    3](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。
   - 支持用戶腳本和用戶樣式
   - 支持標籤分頁
-  - 支持[html5和部份](../Page/html5.md "wikilink")[CSS3](../Page/CSS3.md "wikilink")
+  - 支持[html5和部份](https://zh.wikipedia.org/wiki/html5 "wikilink")[CSS3](https://zh.wikipedia.org/wiki/CSS3 "wikilink")
 
 :\*使用者可自由決定要不要啟用html5的localStorage和sessionStorage，默認為否。
 
-  - 支持[國際化域名](../Page/國際化域名.md "wikilink")
-  - 支持[快速撥號](../Page/快速撥號.md "wikilink")
+  - 支持[國際化域名](https://zh.wikipedia.org/wiki/國際化域名 "wikilink")
+  - 支持[快速撥號](https://zh.wikipedia.org/wiki/快速撥號 "wikilink")
 
 ## 參見
 
-  - [網頁瀏覽器列表](../Page/網頁瀏覽器列表.md "wikilink")
-  - [網頁瀏覽器比較](../Page/網頁瀏覽器比較.md "wikilink")
+  - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
+  - [網頁瀏覽器比較](https://zh.wikipedia.org/wiki/網頁瀏覽器比較 "wikilink")
 
 ## 外部連結
 

@@ -11,11 +11,11 @@ DVD，收錄了兩首新曲以及13首精選歌的MV作品。
 | 3\.  | 小學館（與[吳浩康](../Page/吳浩康.md "wikilink")、[泳兒](../Page/泳兒.md "wikilink")、[鍾舒漫合唱](../Page/鍾舒漫.md "wikilink")） |
 | 4\.  | Book B                                                                                                   |
 | 5\.  | 預言書                                                                                                      |
-| 6\.  | 3+1=1（與[Sun Boy'z合唱](../Page/Sun_Boy'z.md "wikilink")）                                                   |
+| 6\.  | 3+1=1（與[Sun Boy'z合唱](https://zh.wikipedia.org/wiki/Sun_Boy'z "wikilink")）                                |
 | 7\.  | 助聽器                                                                                                      |
 | 8\.  | 再見．美惠 (Radio Mix)                                                                                        |
 | 9\.  | 閒人勿近                                                                                                     |
-| 10\. | 良心發現（與[鍾欣桐合唱](../Page/鍾欣桐.md "wikilink")）                                                                |
+| 10\. | 良心發現（與[鍾欣桐合唱](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")）                                             |
 | 11\. | 靈犀                                                                                                       |
 | 12\. | 月光光 (Radio Mix)                                                                                          |
 | 13\. | Let It Be                                                                                                |

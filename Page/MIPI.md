@@ -8,9 +8,9 @@ Interface**的缩写。该缩写的特定用途包括：
 
 ## MIPI联盟
 
-MIPI联盟是一个开放的会员制组织。2003年7月，由[美国](../Page/美国.md "wikilink")[德州仪器](../Page/德州仪器.md "wikilink")（TI）、[意法半导体](../Page/意法半导体.md "wikilink")（ST）、[英国](../Page/英国.md "wikilink")[ARM和](../Page/安谋国际科技.md "wikilink")[芬兰](../Page/芬兰.md "wikilink")[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）4家公司共同成立。MIPI联盟旨在推进手机应用处理器接口的[标准化](../Page/标准化.md "wikilink")。
+MIPI联盟是一个开放的会员制组织。2003年7月，由[美国](../Page/美国.md "wikilink")[德州仪器](../Page/德州仪器.md "wikilink")（TI）、[意法半导体](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")（ST）、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[ARM和](https://zh.wikipedia.org/wiki/安谋国际科技 "wikilink")[芬兰](../Page/芬兰.md "wikilink")[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）4家公司共同成立。MIPI联盟旨在推进手机应用处理器接口的[标准化](../Page/标准化.md "wikilink")。
 
-MIPI联盟鼓励所有[手机行业内的公司加入](../Page/手机.md "wikilink")，包括：[手机设备制造商](../Page/手机设备.md "wikilink")、[半导体厂商](../Page/半导体.md "wikilink")、[软件厂商](../Page/软件.md "wikilink")、[系统供应商](../Page/系统.md "wikilink")、[外围设备制造商](../Page/外围设备.md "wikilink")、[知识产权提供商](../Page/知识产权.md "wikilink")、其他公司。
+MIPI联盟鼓励所有[手机行业内的公司加入](https://zh.wikipedia.org/wiki/手机 "wikilink")，包括：[手机设备制造商](https://zh.wikipedia.org/wiki/手机设备 "wikilink")、[半导体厂商](../Page/半导体.md "wikilink")、[软件厂商](../Page/软件.md "wikilink")、[系统供应商](https://zh.wikipedia.org/wiki/系统 "wikilink")、[外围设备制造商](https://zh.wikipedia.org/wiki/外围设备 "wikilink")、[知识产权提供商](../Page/知识产权.md "wikilink")、其他公司。
 
 MIPI联盟下设工作组，负责具体事务\[1\]。
 
@@ -30,11 +30,11 @@ MIPI联盟下设工作组，负责具体事务\[1\]。
 
 ## MIPI成员
 
-任何[手机行业内的公司都可以申请加入MIPI联盟](../Page/手机.md "wikilink")。
+任何[手机行业内的公司都可以申请加入MIPI联盟](https://zh.wikipedia.org/wiki/手机 "wikilink")。
 
 MIPI联盟将成员分为4种类型：使用者、贡献者、推进者、创办者。
 
-目前，MIPI联盟的董事成员包括[英特尔](../Page/英特尔.md "wikilink")、[诺基亚](../Page/诺基亚.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[意法半导体](../Page/意法半导体.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")\[2\]。
+目前，MIPI联盟的董事成员包括[英特尔](../Page/英特尔.md "wikilink")、[诺基亚](../Page/诺基亚.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[意法半导体](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")\[2\]。
 
 ## MIPI规范
 
@@ -137,7 +137,7 @@ MIPI联盟将成员分为4种类型：使用者、贡献者、推进者、创办
 ## 参见
 
   - [OMAP](../Page/OMAP.md "wikilink")
-  - [MDDI](../Page/MDDI.md "wikilink")
+  - [MDDI](https://zh.wikipedia.org/wiki/MDDI "wikilink")
 
 ## 外部链接
 

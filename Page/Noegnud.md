@@ -1,5 +1,5 @@
 ***noegnud*** ("dungeon" in
-reverse)是*[NetHack](../Page/NetHack.md "wikilink")*和*[Slash'EM](../Page/Slash'EM.md "wikilink")*的[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")[图形界面有下面几种模式](../Page/图形界面.md "wikilink")：
+reverse)是*[NetHack](../Page/NetHack.md "wikilink")*和*[Slash'EM](https://zh.wikipedia.org/wiki/Slash'EM "wikilink")*的[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")[图形界面有下面几种模式](https://zh.wikipedia.org/wiki/图形界面 "wikilink")：
 
   - 角色视角
   - 普通上下2D视角
@@ -11,8 +11,8 @@ reverse)是*[NetHack](../Page/NetHack.md "wikilink")*和*[Slash'EM](../Page/Slas
 ## 特殊
 
 2004年 *noegnud*
-酝酿了一场针对[伊拉克战争的抗议](../Page/伊拉克战争.md "wikilink")——改变了软件[授权协议](../Page/授权.md "wikilink")，让这个项目的授权直接对抗[美国法律](../Page/美国.md "wikilink")，从而不能让任何美国商人获益\[1\]。
-[Sourceforge](../Page/Sourceforge.md "wikilink")，但这样协议有悖
+酝酿了一场针对[伊拉克战争的抗议](../Page/伊拉克战争.md "wikilink")——改变了软件[授权协议](https://zh.wikipedia.org/wiki/授权 "wikilink")，让这个项目的授权直接对抗[美国法律](../Page/美国.md "wikilink")，从而不能让任何美国商人获益\[1\]。
+[Sourceforge](https://zh.wikipedia.org/wiki/Sourceforge "wikilink")，但这样协议有悖
 [自由软件](../Page/自由软件.md "wikilink")，[开源软件的定义](../Page/开源软件.md "wikilink")。
 
 ## 参考

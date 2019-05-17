@@ -1,8 +1,8 @@
-《**仙劍Online**》（以下简称**仙劍OL**）是由[大宇資訊](../Page/大宇資訊.md "wikilink")[台灣](../Page/台灣.md "wikilink")[台北研發總部以](../Page/台北.md "wikilink")[單機遊戲](../Page/单人电子游戏.md "wikilink")《[仙劍奇俠傳系列](../Page/仙劍奇俠傳系列.md "wikilink")》的故事设定为背景开发的一款[網路遊戲](../Page/網路遊戲.md "wikilink")（[MMORPG](../Page/MMORPG.md "wikilink")）。目前此遊戲已結束營運。
+《**仙劍Online**》（以下简称**仙劍OL**）是由[大宇資訊](../Page/大宇資訊.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北研發總部以](https://zh.wikipedia.org/wiki/台北 "wikilink")[單機遊戲](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink")《[仙劍奇俠傳系列](../Page/仙劍奇俠傳系列.md "wikilink")》的故事设定为背景开发的一款[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")（[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")）。目前此遊戲已結束營運。
 
 ## 遊戲世界觀
 
-《仙劍Online》的遊戲世界觀是中國[武俠與](../Page/武俠.md "wikilink")[神話的結合](../Page/神話.md "wikilink")，[盤古開天闢地後](../Page/盤古.md "wikilink")，其精、氣、神分化成為“三皇”，也就是[伏羲](../Page/伏羲.md "wikilink")、[神農和](../Page/神農.md "wikilink")[女媧](../Page/女媧.md "wikilink")。“三皇”各依自己的喜好，創造了神、人、獸三種生靈。而原本蘊藏在盤古身體內的“靈力”逸散，分解為水、火、雷、風、土“五靈”，散於天地之間。
+《仙劍Online》的遊戲世界觀是中國[武俠與](https://zh.wikipedia.org/wiki/武俠 "wikilink")[神話的結合](https://zh.wikipedia.org/wiki/神話 "wikilink")，[盤古開天闢地後](https://zh.wikipedia.org/wiki/盤古 "wikilink")，其精、氣、神分化成為“三皇”，也就是[伏羲](../Page/伏羲.md "wikilink")、[神農和](https://zh.wikipedia.org/wiki/神農 "wikilink")[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")。“三皇”各依自己的喜好，創造了神、人、獸三種生靈。而原本蘊藏在盤古身體內的“靈力”逸散，分解為水、火、雷、風、土“五靈”，散於天地之間。
 
 在幾經紛爭與五靈之力影響，整個世界被分成神、魔、仙、妖、人、鬼六界，其中神、魔、鬼居於整個世界的外層，神與魔是正負相對的兩面，而鬼是所有生靈的終結之地，也是誕生起點。
 
@@ -14,7 +14,7 @@
 
 [Chinese_Paladin_Online_2.0_LOGO.jpg](https://zh.wikipedia.org/wiki/File:Chinese_Paladin_Online_2.0_LOGO.jpg "fig:Chinese_Paladin_Online_2.0_LOGO.jpg")
 
-  - [李憶如](../Page/李憶如.md "wikilink")
+  - [李憶如](https://zh.wikipedia.org/wiki/李憶如 "wikilink")
 
 現年16歲，李逍遙與趙靈兒之女，女媧族後裔，本身有著強大的靈力潛能卻尚未開發。在李大娘細心的教導下，養成了爽朗率直、胸襟寬大的個性。好奇心強，愛好和平，厭惡爭鬥，對人沒戒心，是個調皮可愛，無心機的可愛女孩。
 
@@ -36,7 +36,7 @@
 
 仙剑奇侠传初代女主角，李逍遥之妻、李忆如养母，在一代结局以傀儡之躯出现，于二代结局彻底复活。在本作中，作为蜀山掌门夫人随玩家一同展开新的故事。
 
-  - [阿奴](../Page/阿奴.md "wikilink")
+  - [阿奴](https://zh.wikipedia.org/wiki/阿奴 "wikilink")
 
 仙剑奇侠传初代女主角，在一代中暗恋李逍遥，后斩断姻缘终身不嫁，在二代中成为白苗族族长。在本作中，以白苗族族长的身份随玩家一同历险。
 
@@ -46,7 +46,7 @@
 
 ## 遊戲音樂
 
-《仙劍Online》的音樂依舊延續仙劍奇俠傳單機系列，由第四十五屆台北國際華文電影“[金馬獎](../Page/金馬獎.md "wikilink")”最佳電影原創歌曲《國境之南》作曲人[曾志豪還有與仙劍一同成長的Musit繆斯特音樂工作室共同打造仙劍Online的音樂](../Page/曾志豪.md "wikilink")。
+《仙劍Online》的音樂依舊延續仙劍奇俠傳單機系列，由第四十五屆台北國際華文電影“[金馬獎](../Page/金馬獎.md "wikilink")”最佳電影原創歌曲《國境之南》作曲人[曾志豪還有與仙劍一同成長的Musit繆斯特音樂工作室共同打造仙劍Online的音樂](https://zh.wikipedia.org/wiki/曾志豪 "wikilink")。
 
 ## 重要版本更新
 
@@ -310,7 +310,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    在大陆地区，[久游網最初预计将仙剑OL以](../Page/久游网.md "wikilink")[CD-KEY及道具收费方式运营](../Page/CD_key.md "wikilink")，每个CD-KEY激活一个游戏帐号，每个CD-KEY售价30[人民币](../Page/人民币.md "wikilink")。2009年1月10日公测第二天，久游方面宣布在线人数达到50万，这遭到玩家普遍质疑。有玩家将仙剑的道具收费项目罗列出来，道具价格偏高。11日中午，久游宣布每个CD-KEY可以获赠5个亲友CD-KEY，官方的解释是庆祝[春节](../Page/春节.md "wikilink")，而玩家表示这损害了第一批玩家的利益。12日，久游再次宣布免费发放2009个免费CD-KEY，共持续约4小时。13日，官方发放888个免费CD-KEY，15日，官方宣布开放免费游戏区，原CD-KEY玩家升级为VIP玩家。有愤怒的玩家认为这是久游的欺骗行为，并投诉到315电子投诉网。\[5\]22日，久游对游戏进行大规模更新，称之为“新春版”，并宣布这是公测，而1月9日的测试只是开放性测试。对于提供免费激活帐号的做法，官方解释为营造“全民仙剑时代”。
+    在大陆地区，[久游網最初预计将仙剑OL以](../Page/久游网.md "wikilink")[CD-KEY及道具收费方式运营](https://zh.wikipedia.org/wiki/CD_key "wikilink")，每个CD-KEY激活一个游戏帐号，每个CD-KEY售价30[人民币](../Page/人民币.md "wikilink")。2009年1月10日公测第二天，久游方面宣布在线人数达到50万，这遭到玩家普遍质疑。有玩家将仙剑的道具收费项目罗列出来，道具价格偏高。11日中午，久游宣布每个CD-KEY可以获赠5个亲友CD-KEY，官方的解释是庆祝[春节](https://zh.wikipedia.org/wiki/春节 "wikilink")，而玩家表示这损害了第一批玩家的利益。12日，久游再次宣布免费发放2009个免费CD-KEY，共持续约4小时。13日，官方发放888个免费CD-KEY，15日，官方宣布开放免费游戏区，原CD-KEY玩家升级为VIP玩家。有愤怒的玩家认为这是久游的欺骗行为，并投诉到315电子投诉网。\[5\]22日，久游对游戏进行大规模更新，称之为“新春版”，并宣布这是公测，而1月9日的测试只是开放性测试。对于提供免费激活帐号的做法，官方解释为营造“全民仙剑时代”。
 
 <!-- end list -->
 
@@ -379,10 +379,10 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2009年4月9日，仙剑OL[台港澳地区开始封测](../Page/台港澳.md "wikilink")，[遊戲新幹線也正式釋出](../Page/遊戲新幹線.md "wikilink")《仙劍Online》30秒電視廣告版，搶先在網路上放映
+    2009年4月9日，仙剑OL[台港澳地区开始封测](https://zh.wikipedia.org/wiki/台港澳 "wikilink")，[遊戲新幹線也正式釋出](../Page/遊戲新幹線.md "wikilink")《仙劍Online》30秒電視廣告版，搶先在網路上放映
     30
-    秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲與](../Page/黃韻玲.md "wikilink")[林俊逸為](../Page/林俊逸.md "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於
-    [Pixnet](../Page/Pixnet.md "wikilink")
+    秒版本[蝶戀](http://www.youtube.com/watch?v=4RJ4BCF4vgs)的感人情節。此外，藝人[黃韻玲與](../Page/黃韻玲.md "wikilink")[林俊逸為](https://zh.wikipedia.org/wiki/林俊逸 "wikilink")《仙劍Online》所演唱主題曲《[蝶戀](http://www.youtube.com/watch?v=FYlG7ujWc1c)》也同步於
+    [Pixnet](https://zh.wikipedia.org/wiki/Pixnet "wikilink")
     [痞客幫上首度播映](../Page/痞客邦.md "wikilink")。
 
 <!-- end list -->
@@ -392,8 +392,8 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2010年1月7日，在[蘋果日報的報導中提及](../Page/蘋果日報台灣版.md "wikilink")**仙劍Online**將於1月底推出仙劍2.0改版。\[16\]其後遊戲新幹線更釋出[仙劍2.0
-    Online改版專區](../Page/仙劍2.0_Online.md "wikilink")，\[17\]包含了轉生系統，幻化系統，二轉御靈等重大內容更新。
+    2010年1月7日，在[蘋果日報的報導中提及](https://zh.wikipedia.org/wiki/蘋果日報台灣版 "wikilink")**仙劍Online**將於1月底推出仙劍2.0改版。\[16\]其後遊戲新幹線更釋出[仙劍2.0
+    Online改版專區](https://zh.wikipedia.org/wiki/仙劍2.0_Online "wikilink")，\[17\]包含了轉生系統，幻化系統，二轉御靈等重大內容更新。
 
 <!-- end list -->
 
@@ -411,7 +411,7 @@ PVE服务器：彩衣</p></td>
 <!-- end list -->
 
   -
-    2011年4月15日，大宇資訊公布仙劍Online在星馬地區開始封測，並預載2.0版本\[19\]，由[馬來西亞CiB](../Page/馬來西亞.md "wikilink")
+    2011年4月15日，大宇資訊公布仙劍Online在星馬地區開始封測，並預載2.0版本\[19\]，由[馬來西亞CiB](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")
     Net公司代理。\[20\]
 
 <!-- end list -->
@@ -425,7 +425,7 @@ PVE服务器：彩衣</p></td>
 
 ### 侵權與模仿
 
-  - 「[完美時空](../Page/完美时空.md "wikilink")」公司於中國大陸搶先登記「仙劍」二字商標。
+  - 「[完美時空](https://zh.wikipedia.org/wiki/完美时空 "wikilink")」公司於中國大陸搶先登記「仙劍」二字商標。
 
 <!-- end list -->
 

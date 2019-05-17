@@ -1,8 +1,9 @@
 **Windows Installer**是在[Windows
-2000時提出](../Page/Windows_2000.md "wikilink")，作為[微軟](../Page/微軟.md "wikilink")[作業系統中的](../Page/作業系統.md "wikilink")[安裝程式開發標準的作業系統服務](../Page/安裝程式.md "wikilink")。它可以支援安裝程式所需要的許多功能，並且可以支援交易式安裝（Committable
+2000時提出](../Page/Windows_2000.md "wikilink")，作為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統中的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[安裝程式開發標準的作業系統服務](../Page/安裝程式.md "wikilink")。它可以支援安裝程式所需要的許多功能，並且可以支援交易式安裝（Committable
 Installation），當安裝程式發現錯誤或問題時，可以將安裝程序中所做的任何修改（包含複製檔案、修改組態等）全部回溯為未變更的狀態。
 
-目前Windows Installer最新[版本為](../Page/軟體版本號.md "wikilink")5.0版。
+目前Windows
+Installer最新[版本為](https://zh.wikipedia.org/wiki/軟體版本號 "wikilink")5.0版。
 
 ## 組成
 
@@ -96,9 +97,9 @@ Windows Server 2008[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.0</p></td>
-<td><p><a href="../Page/Windows_7.md" title="wikilink">Windows 7</a> RTM<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a> RTM<br />
 <a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a> RTM<br />
-<a href="../Page/Windows_8.md" title="wikilink">Windows 8</a> RTM <a href="../Page/Windows_10.md" title="wikilink">Winodws 10</a><br />
+<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a> RTM <a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Winodws 10</a><br />
 </p></td>
 <td></td>
 </tr>
@@ -128,21 +129,21 @@ Windows Installer 5.0會與Windows Server 2008 R2及Windows 7一起發佈\[4\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Install_Time.md" title="wikilink">Install Time</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Install_Time" title="wikilink">Install Time</a></p></td>
 <td><p>Savage Fly Corp.</p></td>
 <td><p>A full featured commercial installer and packaging tool for Windows Installe installations. Can create, validate and edit .msi packages.</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Advanced_Installer.md" title="wikilink">Advanced Installer</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Advanced_Installer" title="wikilink">Advanced Installer</a></p></td>
 <td><p>Caphyon Ltd.</p></td>
 <td><p>An installer that features one freeware edition and four commercial editions. Can create, validate and edit .msi packages.</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/InstallAware.md" title="wikilink">InstallAware</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/InstallAware" title="wikilink">InstallAware</a></p></td>
 <td><p>InstallAware Software</p></td>
 <td><p>A commercial setup creator that comes in four commercial editions</p></td>
 <td></td>
@@ -150,20 +151,20 @@ Windows Installer 5.0會與Windows Server 2008 R2及Windows 7一起發佈\[4\]
 </tr>
 <tr class="even">
 <td><p><a href="../Page/InstallShield.md" title="wikilink">InstallShield</a></p></td>
-<td><p><a href="../Page/Flexera_Software.md" title="wikilink">Flexera Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Flexera_Software" title="wikilink">Flexera Software</a></p></td>
 <td><p>InstallShield is a software tool for creating installers or software packages primarily used for installing software for Microsoft Windows desktop and server platforms.</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/InstEdit.md" title="wikilink">InstEdit</a></p></td>
-<td><p><a href="../Page/Google_Code.md" title="wikilink">Google Code</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/InstEdit" title="wikilink">InstEdit</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Google_Code" title="wikilink">Google Code</a></p></td>
 <td><p>InstEd is a free .msi editor. Paid version with more features available also.</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IsWiX.md" title="wikilink">IsWiX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IsWiX" title="wikilink">IsWiX</a></p></td>
 <td><p><a href="../Page/CodePlex.md" title="wikilink">CodePlex</a></p></td>
 <td><p>Industrial Strength Windows Installer XML (IsWiX) is a document editor based on the Fireworks Application Framework. IsWiX enables non-setup developers to collaborate with setup developers using WiX projects.</p></td>
 <td></td>
@@ -171,29 +172,29 @@ Windows Installer 5.0會與Windows Server 2008 R2及Windows 7一起發佈\[4\]
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_Visual_Studio.md" title="wikilink">Microsoft Visual Studio</a></p></td>
-<td><p><a href="../Page/Microsoft.md" title="wikilink">Microsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft" title="wikilink">Microsoft</a></p></td>
 <td><p>Microsoft Visual Studio is capable of building Windows Installer Deployment projects that can create installer packages.[5]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MSI_Studio.md" title="wikilink">MSI Studio</a></p></td>
-<td><p><a href="../Page/ScriptLogic.md" title="wikilink">ScriptLogic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MSI_Studio" title="wikilink">MSI Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ScriptLogic" title="wikilink">ScriptLogic</a></p></td>
 <td><p>An .msi editor aim towards system administrators who wish to repackage installation packages or optimize the installation for their own environment/needs.</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/WiX.md" title="wikilink">WiX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WiX" title="wikilink">WiX</a></p></td>
 <td><p><a href="../Page/CodePlex.md" title="wikilink">CodePlex</a></p></td>
-<td><p>WiX (Windows Installer XML) is a <a href="../Page/free_and_open-source.md" title="wikilink">free and open-source</a> set of tools that helps build a Windows Installer packages from an <a href="../Page/XML.md" title="wikilink">XML</a> document. It can be either used from command-line or integrated into Microsoft Visual Studio. <a href="../Page/SharpDevelop.md" title="wikilink">SharpDevelop</a>, a free and open-source alternative to Visual Studio has adopted WiX.[6]</p></td>
+<td><p>WiX (Windows Installer XML) is a <a href="https://zh.wikipedia.org/wiki/free_and_open-source" title="wikilink">free and open-source</a> set of tools that helps build a Windows Installer packages from an <a href="../Page/XML.md" title="wikilink">XML</a> document. It can be either used from command-line or integrated into Microsoft Visual Studio. <a href="../Page/SharpDevelop.md" title="wikilink">SharpDevelop</a>, a free and open-source alternative to Visual Studio has adopted WiX.[6]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/7-Zip.md" title="wikilink">7-Zip</a></p></td>
 <td><p><a href="../Page/SourceForge.md" title="wikilink">SourceForge</a></p></td>
-<td><p>7-Zip is an <a href="../Page/open_source.md" title="wikilink">open source</a> <a href="../Page/file_archiver.md" title="wikilink">file archiver</a> utility, and can extract the contents of MSI files.[7]</p></td>
+<td><p>7-Zip is an <a href="https://zh.wikipedia.org/wiki/open_source" title="wikilink">open source</a> <a href="https://zh.wikipedia.org/wiki/file_archiver" title="wikilink">file archiver</a> utility, and can extract the contents of MSI files.[7]</p></td>
 <td></td>
 <td></td>
 </tr>

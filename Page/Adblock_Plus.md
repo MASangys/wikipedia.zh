@@ -1,10 +1,10 @@
 **Adblock Plus**（**ABP**）是一個由Eyeo GmbH公司（Wladimir
 Palant）開發的開放原始碼\[1\]\[2\]附加元件。現已支援[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")（含[Firefox行動版](../Page/Firefox_for_mobile.md "wikilink")）、[Google
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（含[Firefox行動版](https://zh.wikipedia.org/wiki/Firefox_for_mobile "wikilink")）、[Google
 Chrome](../Page/Google_Chrome.md "wikilink")、[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](../Page/Opera.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Microsoft
+Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Microsoft
 Edge](../Page/Microsoft_Edge.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Yandex
-Browser和](../Page/Yandex_Browser.md "wikilink")[傲遊瀏覽器](../Page/傲遊瀏覽器.md "wikilink")。
+Browser和](https://zh.wikipedia.org/wiki/Yandex_Browser "wikilink")[傲遊瀏覽器](https://zh.wikipedia.org/wiki/傲遊瀏覽器 "wikilink")。
 
 ## 历史
 
@@ -36,7 +36,7 @@ McDonald接手了Adblock Plus並重寫了代碼庫，**Adblock Plus
 
 Michael McDonald开发的Adblock Plus 0.5，并通过以下功能对原始版本的Adblock进行改进：
 
-  - [白名单](../Page/黑名單#電腦應用.md "wikilink")
+  - [白名单](https://zh.wikipedia.org/wiki/黑名單#電腦應用 "wikilink")
   - 支持过滤背景图像
   - 固定网址的过滤器订阅并自动更新
   - 隐藏[HTML元素的功能可以过滤更多的文字](../Page/HTML.md "wikilink")、图像及其它内容
@@ -54,7 +54,7 @@ Chrome版本自2010年12月推出以來，擁有超過1000萬使用者\[15\]。�
 ## 操作
 
 和Mozilla内置的图像过滤器一样，Adblock
-Plus根据内容的源地址拦截[HTTP及](../Page/HTTP.md "wikilink")[HTTPS请求](../Page/HTTPS.md "wikilink")，并可过滤[iframe](../Page/HTML元素.md "wikilink")、[script及](../Page/JavaScript.md "wikilink")[Flash](../Page/Adobe_Flash.md "wikilink")。它也可以用自动生成的用户样式表来隐藏包括文字广告在内的页面元素。这个功能称为元素隐藏，它将拦截内容换成了隐藏内容\[17\]。
+Plus根据内容的源地址拦截[HTTP及](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS请求](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，并可过滤[iframe](../Page/HTML元素.md "wikilink")、[script及](../Page/JavaScript.md "wikilink")[Flash](../Page/Adobe_Flash.md "wikilink")。它也可以用自动生成的用户样式表来隐藏包括文字广告在内的页面元素。这个功能称为元素隐藏，它将拦截内容换成了隐藏内容\[17\]。
 
 ### 过滤规则
 
@@ -64,9 +64,10 @@ Plus也支持更复杂的语法来对过滤器进行更精确的控制\[18\]。
 ### 过滤规则列表订阅
 
 用户可以增加额外的过滤列表。Adblock
-Plus可以使用一个或多个外部过滤规则订阅，并自动进行更新。[Filterset.G为这一软件并不兼容](../Page/Filterset.G.md "wikilink")（Adblock
+Plus可以使用一个或多个外部过滤规则订阅，并自动进行更新。[Filterset.G为这一软件并不兼容](https://zh.wikipedia.org/wiki/Filterset.G "wikilink")（Adblock
 Plus也特别建议不要使用Filterset.G，并给出了相应的理由\[19\]），但其它的过滤集可以通过输入网址来添加。Adblock
-Plus的[官方网站提供了已知的Adblock](../Page/#外部链接.md "wikilink") Plus订阅列表。
+Plus的[官方网站提供了已知的Adblock](https://zh.wikipedia.org/wiki/#外部链接 "wikilink")
+Plus订阅列表。
 
 ## 批评
 
@@ -85,7 +86,8 @@ AdSense廣告白名單而遭到嚴厲批評](../Page/Google_AdSense.md "wikilink
 ## 相關條目
 
   - [AdBlock](../Page/AdBlock.md "wikilink")
-  - [uBlock Origin](../Page/uBlock_Origin.md "wikilink")
+  - [uBlock
+    Origin](https://zh.wikipedia.org/wiki/uBlock_Origin "wikilink")
 
 ## 参考文献
 

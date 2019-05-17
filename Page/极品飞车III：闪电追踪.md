@@ -1,18 +1,18 @@
 **极品飞车 III：闪电追踪**（**Need for Speed III: Hot
 Pursuit**，副标题也译作**热力追踪**，在日本又称作**Over
 Drivin' III: Hot
-Pursuit**），是[美国艺电EA](../Page/美国艺电.md "wikilink")）推出的《[极品飞车](../Page/极品飞车系列.md "wikilink")》系列赛车游戏之一，于1998年推出。
+Pursuit**），是[美国艺电EA](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")）推出的《[极品飞车](../Page/极品飞车系列.md "wikilink")》系列赛车游戏之一，于1998年推出。
 
 ## 出场车型
 
-本作中登场的车辆几乎都是90年代的世界名车，只有两辆例外：[兰博基尼Countach](../Page/兰博基尼.md "wikilink")
+本作中登场的车辆几乎都是90年代的世界名车，只有两辆例外：[兰博基尼Countach](https://zh.wikipedia.org/wiki/兰博基尼 "wikilink")
 25周年版本，诞生于80年代；终极奖励跑车El Nino，为科幻虚构。
 
 登场的车辆被分为A,B,C三个级别。其中，A级为超级跑车（Supercar），B级为高性能运动跑车（Sportscar），C级为大马力豪华轿跑车。以下是登场车辆清单：
 
 A级：
 
-  - [奔驰CLK](../Page/奔驰.md "wikilink")-GTR \* (1997)
+  - [奔驰CLK](https://zh.wikipedia.org/wiki/奔驰 "wikilink")-GTR \* (1997)
   - [捷豹XJR](../Page/捷豹.md "wikilink")-15 \* （1991）
   - 兰博基尼Diablo SV \*\*（1995）
   - [法拉利](../Page/法拉利汽車.md "wikilink")550 Maranello （1996）
@@ -23,8 +23,8 @@ B级：
 
   - 兰博基尼Countach 25周年纪念款（1988）
   - 法拉利F355 F1 (1997)
-  - [雪弗莱Corvette](../Page/雪弗兰.md "wikilink") C5 \*\* \*\*\*
-    \*\*\*\*（1996）
+  - [雪弗莱Corvette](https://zh.wikipedia.org/wiki/雪弗兰 "wikilink") C5 \*\*
+    \*\*\* \*\*\*\*（1996）
 
 C级：
 
@@ -39,12 +39,16 @@ C级：
 C5仅出现于早期的[沃尔玛特别版中](../Page/沃尔玛.md "wikilink")，而大陆引进的早期盗版，多属此版，因而有此型车。除了涂装不同及不能变换颜色，实际性能与标准版毫无二致。
 "\*\*\*\*" C5的手动版和自动版装备了不同的变速箱，自动为4速，手动为6速，显然后者的性能更佳，这是符合事实的。
 
-“下载新车”功能是当年EA重点宣传的一大功能，玩家可通过国际互联网，下载到[EA官方推出的增补车辆](../Page/EA.md "wikilink")，甚至包括相关的车辆介绍和影集（Showcase），这些“新车”至今能从EA的FTP上下载到，他们分别是：
+“下载新车”功能是当年EA重点宣传的一大功能，玩家可通过国际互联网，下载到[EA官方推出的增补车辆](https://zh.wikipedia.org/wiki/EA "wikilink")，甚至包括相关的车辆介绍和影集（Showcase），这些“新车”至今能从EA的FTP上下载到，他们分别是：
 
-  - [Lister Storm](../Page/Lister_Storm.md "wikilink") (1994, A级）
-  - [法拉利 456M GT](../Page/法拉利_456M_GT.md "wikilink") （1999，B级）
-  - [捷豹XKR](../Page/捷豹XKR.md "wikilink") （1998，C级）
-  - [Spectre R42](../Page/Spectre_R42.md "wikilink") (1999, C级）
+  - [Lister
+    Storm](https://zh.wikipedia.org/wiki/Lister_Storm "wikilink") (1994,
+    A级）
+  - [法拉利 456M GT](https://zh.wikipedia.org/wiki/法拉利_456M_GT "wikilink")
+    （1999，B级）
+  - [捷豹XKR](https://zh.wikipedia.org/wiki/捷豹XKR "wikilink") （1998，C级）
+  - [Spectre R42](https://zh.wikipedia.org/wiki/Spectre_R42 "wikilink")
+    (1999, C级）
 
 ## 游戏音轨
 

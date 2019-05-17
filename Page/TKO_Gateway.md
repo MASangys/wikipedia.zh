@@ -1,7 +1,7 @@
 [TKO_Gateway_West_Wing_Atrium.jpg](https://zh.wikipedia.org/wiki/File:TKO_Gateway_West_Wing_Atrium.jpg "fig:TKO_Gateway_West_Wing_Atrium.jpg")
 [TKO_Gateway_East_Wing_Atrium.jpg](https://zh.wikipedia.org/wiki/File:TKO_Gateway_East_Wing_Atrium.jpg "fig:TKO_Gateway_East_Wing_Atrium.jpg")
 **TKO
-Gateway**（前稱**厚德商場**）是[香港的一個](../Page/香港.md "wikilink")[公共屋邨商場](../Page/公共屋邨.md "wikilink")，位於[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[坑口](../Page/坑口.md "wikilink")[重華路](../Page/重華路.md "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[將軍澳綫](../Page/將軍澳綫.md "wikilink")[坑口站](../Page/坑口站_\(香港\).md "wikilink")，為[厚德邨的附屬商場](../Page/厚德邨.md "wikilink")。商場於1994年落成，原為[香港房屋委員會轄下商場](../Page/香港房屋委員會.md "wikilink")，現為[領展](../Page/領展房地產投資信託基金.md "wikilink")（）旗下。
+Gateway**（前稱**厚德商場**）是[香港的一個](../Page/香港.md "wikilink")[公共屋邨商場](https://zh.wikipedia.org/wiki/公共屋邨 "wikilink")，位於[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[坑口](https://zh.wikipedia.org/wiki/坑口 "wikilink")[重華路](https://zh.wikipedia.org/wiki/重華路 "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[將軍澳綫](../Page/將軍澳綫.md "wikilink")[坑口站](../Page/坑口站_\(香港\).md "wikilink")，為[厚德邨的附屬商場](../Page/厚德邨.md "wikilink")。商場於1994年落成，原為[香港房屋委員會轄下商場](../Page/香港房屋委員會.md "wikilink")，現為[領展](../Page/領展房地產投資信託基金.md "wikilink")（）旗下。
 
 TKO Gateway
 分為東翼及西翼，共有4個樓層，可出租面積為14,800平方米，附設有停車場623個車位\[1\]及位於商場地下的[TKO街市](../Page/TKO街市.md "wikilink")
@@ -12,12 +12,12 @@ TKO Gateway
 ## 商場與周邊環境
 
 TKO
-Gateway與位於坑口中心地帶，並與另一大型商場[東港城相隔着](../Page/東港城.md "wikilink")[重華路](../Page/重華路.md "wikilink")，以天橋與[東港城和](../Page/東港城.md "wikilink")[港鐵公司旗下的](../Page/香港鐵路有限公司.md "wikilink")[連理街](../Page/連理街.md "wikilink")（[蔚藍灣畔基座商場](../Page/蔚藍灣畔.md "wikilink")）相連，沿着天橋系統更可前往坑口其他商場，形成一個以天橋貫通的購物圈。此外各商場樓上皆為密度甚高的大型住宅物業，加上接連港鐵站，故此[人流較高](../Page/人流.md "wikilink")，且非常集中。TKO
+Gateway與位於坑口中心地帶，並與另一大型商場[東港城相隔着](../Page/東港城.md "wikilink")[重華路](https://zh.wikipedia.org/wiki/重華路 "wikilink")，以天橋與[東港城和](../Page/東港城.md "wikilink")[港鐵公司旗下的](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink")[連理街](https://zh.wikipedia.org/wiki/連理街 "wikilink")（[蔚藍灣畔基座商場](../Page/蔚藍灣畔.md "wikilink")）相連，沿着天橋系統更可前往坑口其他商場，形成一個以天橋貫通的購物圈。此外各商場樓上皆為密度甚高的大型住宅物業，加上接連港鐵站，故此[人流較高](https://zh.wikipedia.org/wiki/人流 "wikilink")，且非常集中。TKO
 Gateway更曾為領展旗下表現最好的商場之一\[2\]，是領展幾個重點發展商場之一。
 
 TKO
-Gateway亦因鄰近商場[東港城的租金而較昂貴](../Page/東港城.md "wikilink")，而不少連鎖食肆選擇在商場開業。而由於領展接手後進行改革，以引入大型連鎖店來提升競爭力，增加租金收益，當中包括消費較高的[星巴克咖啡店](../Page/星巴克咖啡店.md "wikilink")、[百佳咖啡餐廳](../Page/百佳咖啡餐廳.md "wikilink")（Pokka
-Cafe）和[元氣壽司等](../Page/元氣壽司.md "wikilink")，據統計東翼的連鎖店比例就高達93%。2007年中，連接前厚德商場兩翼的天橋的舊式商鋪已不獲續租，全數結業。前厚德商場西翼的舊式商鋪大部份已不獲續租，二樓商鋪於2008年4月結業。民間組織[領匯監察就批評領展藉詞重新發展](../Page/領匯監察.md "wikilink")、改善商場，另一方面卻以加租的手段企圖令小商戶被迫搬遷或結束營業，例子見領展拒絕承諾目前的商舖可在商場翻新工程後繼續經營\[3\]。
+Gateway亦因鄰近商場[東港城的租金而較昂貴](../Page/東港城.md "wikilink")，而不少連鎖食肆選擇在商場開業。而由於領展接手後進行改革，以引入大型連鎖店來提升競爭力，增加租金收益，當中包括消費較高的[星巴克咖啡店](https://zh.wikipedia.org/wiki/星巴克咖啡店 "wikilink")、[百佳咖啡餐廳](https://zh.wikipedia.org/wiki/百佳咖啡餐廳 "wikilink")（Pokka
+Cafe）和[元氣壽司等](../Page/元氣壽司.md "wikilink")，據統計東翼的連鎖店比例就高達93%。2007年中，連接前厚德商場兩翼的天橋的舊式商鋪已不獲續租，全數結業。前厚德商場西翼的舊式商鋪大部份已不獲續租，二樓商鋪於2008年4月結業。民間組織[領匯監察就批評領展藉詞重新發展](https://zh.wikipedia.org/wiki/領匯監察 "wikilink")、改善商場，另一方面卻以加租的手段企圖令小商戶被迫搬遷或結束營業，例子見領展拒絕承諾目前的商舖可在商場翻新工程後繼續經營\[3\]。
 
 Hau Tak Shopping Centre.jpg|俯瞰前厚德商場（2006年） TKOview1
 20070621.jpg|前厚德商場西翼外貌（2007年） Hau Tak Shopping Centre
@@ -50,24 +50,24 @@ Tunes 幸福之旅」，吸引遊客到訪。
 ##### 一樓
 
 [TKO_Gateway_Level_1_East_access_201705.jpg](https://zh.wikipedia.org/wiki/File:TKO_Gateway_Level_1_East_access_201705.jpg "fig:TKO_Gateway_Level_1_East_access_201705.jpg")
-2015年3月起，領展率先開始在來往二樓扶手電梯的位置及附近鋪位進行還原工程。其中[聖安娜餅屋](../Page/聖安娜餅屋.md "wikilink")、[中國移動](../Page/中國移動.md "wikilink")、[香港寬頻及Jeanswest均陸續遷出](../Page/香港寬頻.md "wikilink")，配合二樓的[稻香超級漁港及迎囍大酒樓的同步遷出](../Page/稻香超級漁港.md "wikilink")，然後隨即圍封受影響範圍，並進行重新裝修及間隔工程。
+2015年3月起，領展率先開始在來往二樓扶手電梯的位置及附近鋪位進行還原工程。其中[聖安娜餅屋](../Page/聖安娜餅屋.md "wikilink")、[中國移動](https://zh.wikipedia.org/wiki/中國移動 "wikilink")、[香港寬頻及Jeanswest均陸續遷出](https://zh.wikipedia.org/wiki/香港寬頻 "wikilink")，配合二樓的[稻香超級漁港及迎囍大酒樓的同步遷出](https://zh.wikipedia.org/wiki/稻香超級漁港 "wikilink")，然後隨即圍封受影響範圍，並進行重新裝修及間隔工程。
 
 在此次工程中，原有隔着一樓通道及來往二樓的扶手電梯的牆璧被打通，並擴大了扶手電梯外公眾通道的面積，亦更換了受影響範圍內的天花板及地板。
 
 受影響範圍經重新間隔後，得來兩個位處扶手電梯兩旁的全新鋪位（E146 & E147），由M3
-Sports及[百佳超級廣場](../Page/百佳超級廣場.md "wikilink")（麵包、餅亁及糖果部門）承租，先後於2015年11月及2016年1月中開幕。
+Sports及[百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")（麵包、餅亁及糖果部門）承租，先後於2015年11月及2016年1月中開幕。
 
-隨着百佳超級廣場新店開幕，領展先後收回百佳超級廣場舊位、美心小品以及[唐記包點的鋪位](../Page/唐記包點.md "wikilink")，並封閉原有停車場通道、男、女洗手間，以及暢通易達洗手間的位置，然後隨即圍封受影響範圍，並進行還原工程。
+隨着百佳超級廣場新店開幕，領展先後收回百佳超級廣場舊位、美心小品以及[唐記包點的鋪位](https://zh.wikipedia.org/wiki/唐記包點 "wikilink")，並封閉原有停車場通道、男、女洗手間，以及暢通易達洗手間的位置，然後隨即圍封受影響範圍，並進行還原工程。
 
 在此次工程中，上述三個鋪位，與原有停車場通道及洗手間位置互相打通，並在前唐記包點位置設置全新客戶服務中心、女洗手間及育嬰間，於升降機旁設有全新暢通易達洗手間，以及於原有百佳後門通道設有全新男洗手間。此外，除原有百佳門口、停車場通道及及美心小品鋪位經重新間隔外，亦打通了兩條全新通道，分別位於停車場門口至東港城天橋，以及升降機至前述通道，通道兩旁皆設有全新鋪位，於2016年10月開放使用。
 
 此次工程中，得來的全新商戶有15間，包括123... by ELLA、Alliya、Baby Choice、Chow Chow、EG Mix &
-Match、J.Closet、你想Teen地、科泰表行、[中國移動](../Page/中國移動.md "wikilink")、[華潤堂](../Page/華潤堂.md "wikilink")、[盞記](../Page/盞記.md "wikilink")、美心小品、[翠華餐廳及](../Page/翠華餐廳.md "wikilink")[肯德基](../Page/肯德基.md "wikilink")，陸續於2016年10月起開幕。
+Match、J.Closet、你想Teen地、科泰表行、[中國移動](https://zh.wikipedia.org/wiki/中國移動 "wikilink")、[華潤堂](https://zh.wikipedia.org/wiki/華潤堂 "wikilink")、[盞記](https://zh.wikipedia.org/wiki/盞記 "wikilink")、美心小品、[翠華餐廳及](https://zh.wikipedia.org/wiki/翠華餐廳 "wikilink")[肯德基](../Page/肯德基.md "wikilink")，陸續於2016年10月起開幕。
 
 ##### 二樓
 
 [Parknshop_HomeFurniture_E203.jpg](https://zh.wikipedia.org/wiki/File:Parknshop_HomeFurniture_E203.jpg "fig:Parknshop_HomeFurniture_E203.jpg")\]\]
-2015年5月，隨著[稻香超級漁港及迎喜大酒樓遷出](../Page/稻香超級漁港.md "wikilink")（其中稻香遷往鄰近的[南豐廣場繼續營業](../Page/南豐廣場.md "wikilink")），圍封二樓全層並進行還原工程。此次工程中，二樓樓面進行重新間隔及裝修後，全新鋪位（E203）由[百佳超級廣場承租](../Page/百佳超級廣場.md "wikilink")，用作售賣新鮮食品、有機食品、糧油雜貨及家居用品的部門，於2016年1月中開幕。
+2015年5月，隨著[稻香超級漁港及迎喜大酒樓遷出](https://zh.wikipedia.org/wiki/稻香超級漁港 "wikilink")（其中稻香遷往鄰近的[南豐廣場繼續營業](../Page/南豐廣場.md "wikilink")），圍封二樓全層並進行還原工程。此次工程中，二樓樓面進行重新間隔及裝修後，全新鋪位（E203）由[百佳超級廣場承租](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")，用作售賣新鮮食品、有機食品、糧油雜貨及家居用品的部門，於2016年1月中開幕。
 
 2016年7月，因應東港城Taste分店被業主收回，宣佈於8月14日結束營業，百佳超級廣場進行擴充工程，當中包括縮小兩大貨倉面積、店鋪格局重整、增加收銀處數目等，於8月中旬完成。
 
@@ -79,15 +79,16 @@ Match、J.Closet、你想Teen地、科泰表行、[中國移動](../Page/中國�
 
 2015年3月起，一樓中庭周圍的鋪位及公眾通道進行還原工程。其中活力眼鏡、菲碧美容健美中心、生活提案、[創興銀行](../Page/創興銀行.md "wikilink")、千年店及奇異店均陸續遷出，然後隨即圍封受影響範圍，並進行重新裝修及間隔工程。
 
-在此次工程中，沿着一樓中庭鋪位外的公眾通道面積被縮小，而中庭的假天花、受影響範圍內的地板及天花板亦予以更換。受影響範圍經重新間隔後，得來的全新四個鋪位（W102-W105）由[麥當勞](../Page/麥當勞.md "wikilink")
+在此次工程中，沿着一樓中庭鋪位外的公眾通道面積被縮小，而中庭的假天花、受影響範圍內的地板及天花板亦予以更換。受影響範圍經重新間隔後，得來的全新四個鋪位（W102-W105）由[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
 /
 [McCafé](../Page/McCafé.md "wikilink")、MX、[吉野家及品味](../Page/吉野家.md "wikilink")1+1承租，陸續於2015年10月初至12月尾開幕。
 
-2015年12月起，領展在介乎西翼一樓至天橋購物廊通道兩旁的鋪位，以及來往二樓扶手電梯的位置進行還原工程。其中[吉野家](../Page/吉野家.md "wikilink")、[麥當勞](../Page/麥當勞.md "wikilink")、[McCafé](../Page/McCafé.md "wikilink")、Little
-Room、美琪、[屈臣氏](../Page/屈臣氏.md "wikilink")、[豐澤電器](../Page/豐澤電器.md "wikilink")、椰林閣、臺樓及Casablanca均全部遷出。
+2015年12月起，領展在介乎西翼一樓至天橋購物廊通道兩旁的鋪位，以及來往二樓扶手電梯的位置進行還原工程。其中[吉野家](../Page/吉野家.md "wikilink")、[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、[McCafé](../Page/McCafé.md "wikilink")、Little
+Room、美琪、[屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")、[豐澤電器](../Page/豐澤電器.md "wikilink")、椰林閣、臺樓及Casablanca均全部遷出。
 
 在此次工程中，丟空了的鋪位經重新間隔之後，得來的全新商戶有十七間，包括季悅餐館、名鑽軒、Baleno、高清視力、天上野開心廚房、億世家、青越.越南優閒餐廳、電器之家、Casablanca、家多啲
-HOME MORE、HAIR ONE、[海馬牌](../Page/海馬牌.md "wikilink")、NPC
+HOME MORE、HAIR
+ONE、[海馬牌](https://zh.wikipedia.org/wiki/海馬牌 "wikilink")、NPC
 健美用品、PanaShop及千年店，陸續於2016年10月起開幕。
 
 ##### 二樓
@@ -104,7 +105,7 @@ HOME MORE、HAIR ONE、[海馬牌](../Page/海馬牌.md "wikilink")、NPC
 
 #### 裝修
 
-翻新後原來的天花及橙色燈箱都被更換，而原來的橙色天花指示牌亦更換為藍、白色為主的設計，以配合[領展新的標誌](../Page/領展.md "wikilink")。
+翻新後原來的天花及橙色燈箱都被更換，而原來的橙色天花指示牌亦更換為藍、白色為主的設計，以配合[領展新的標誌](https://zh.wikipedia.org/wiki/領展 "wikilink")。
 
 ### 第三次（街市及美食區）
 
@@ -116,27 +117,27 @@ Gateway及尚德街市的穿梭巴士服務，以方便顧客到街市買餸。
 
 ## 火災事件
 
-商場及街市部份曾發生[三級火](../Page/三級火.md "wikilink")。2007年3月29日，厚德街市發生嚴重的三級火事故，火警最終歷時14個小時才撲熄，[消防處共動員逾](../Page/消防處.md "wikilink")100名消防員、5條滅火喉及10隊煙帽隊協助。火災導致街市內絕大部份商店遭焚毀，而濃煙亦影響到樓上商場的30家食肆和店舖\[5\]\[6\]。事件發生時商場翻新工程外判商在翻新工程進行時關上消防灑水系統，最終令火勢未能在初期受到控制\[7\]。街市至及後2個多月亦未能完成修復，致使商戶蒙受莫大損失，部份商戶更因此只好在街市外冒險違法擺賣\[8\]\[9\]。
+商場及街市部份曾發生[三級火](https://zh.wikipedia.org/wiki/三級火 "wikilink")。2007年3月29日，厚德街市發生嚴重的三級火事故，火警最終歷時14個小時才撲熄，[消防處共動員逾](https://zh.wikipedia.org/wiki/消防處 "wikilink")100名消防員、5條滅火喉及10隊煙帽隊協助。火災導致街市內絕大部份商店遭焚毀，而濃煙亦影響到樓上商場的30家食肆和店舖\[5\]\[6\]。事件發生時商場翻新工程外判商在翻新工程進行時關上消防灑水系統，最終令火勢未能在初期受到控制\[7\]。街市至及後2個多月亦未能完成修復，致使商戶蒙受莫大損失，部份商戶更因此只好在街市外冒險違法擺賣\[8\]\[9\]。
 
 ## 協同效應
 
-領展在2011年先後購入鄰近的[南豐廣場商業部分及](../Page/南豐廣場.md "wikilink")[海悅豪園購物商場及停車場](../Page/海悅豪園.md "wikilink")，以產生協同效應。
+領展在2011年先後購入鄰近的[南豐廣場商業部分及](../Page/南豐廣場.md "wikilink")[海悅豪園購物商場及停車場](https://zh.wikipedia.org/wiki/海悅豪園 "wikilink")，以產生協同效應。
 
 ## 鄰近
 
   - [港鐵](../Page/港鐵.md "wikilink")[坑口站](../Page/坑口站_\(香港\).md "wikilink")
   - [東港城](../Page/東港城.md "wikilink")
-  - [蔚藍灣畔](../Page/蔚藍灣畔.md "wikilink")、[連理街](../Page/連理街.md "wikilink")
-  - [海悅豪園](../Page/海悅豪園.md "wikilink")
+  - [蔚藍灣畔](../Page/蔚藍灣畔.md "wikilink")、[連理街](https://zh.wikipedia.org/wiki/連理街 "wikilink")
+  - [海悅豪園](https://zh.wikipedia.org/wiki/海悅豪園 "wikilink")
   - [新寶城](../Page/新寶城.md "wikilink")
   - [南豐廣場](../Page/南豐廣場.md "wikilink")
   - [厚德邨](../Page/厚德邨.md "wikilink")、頌明苑、裕明苑
   - [安寧花園](../Page/安寧花園.md "wikilink")
   - [富寧花園](../Page/富寧花園.md "wikilink")
   - [明德邨](../Page/明德邨.md "wikilink")、明德商場
-  - [顯明苑](../Page/顯明苑.md "wikilink")
-  - [煜明苑](../Page/煜明苑.md "wikilink")
-  - [和明苑](../Page/和明苑.md "wikilink")
+  - [顯明苑](https://zh.wikipedia.org/wiki/顯明苑 "wikilink")
+  - [煜明苑](https://zh.wikipedia.org/wiki/煜明苑 "wikilink")
+  - [和明苑](https://zh.wikipedia.org/wiki/和明苑 "wikilink")
   - [樂頤居](../Page/樂頤居.md "wikilink")
 
 ## 交通
@@ -161,7 +162,7 @@ Gateway及尚德街市的穿梭巴士服務，以方便顧客到街市買餸。
 
 </dl>
 <dl>
-<dt><a href="../Page/香港小巴.md" title="wikilink">專線小巴</a></dt>
+<dt><a href="https://zh.wikipedia.org/wiki/香港小巴" title="wikilink">專線小巴</a></dt>
 
 </dl></td>
 </tr>
@@ -182,7 +183,7 @@ Gateway及尚德街市的穿梭巴士服務，以方便顧客到街市買餸。
 
   - [領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")
   - [厚德邨](../Page/厚德邨.md "wikilink")
-  - [厚德街市](../Page/厚德街市.md "wikilink")
+  - [厚德街市](https://zh.wikipedia.org/wiki/厚德街市 "wikilink")
 
 ## 外部連結
 

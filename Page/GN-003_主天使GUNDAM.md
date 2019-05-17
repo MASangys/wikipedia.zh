@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                   |
 
 **GN-003 主天使GUNDAM（Gundam
-Kyrios）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Kyrios）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由阿雷路亞·帕普提茲姆所駕駛。
 
@@ -34,7 +34,7 @@ Unit）」以對應各種任務，於戰場中擅長利用飛行形態下的超�
 <!-- end list -->
 
   -
-    名稱源自於九大天使階級之一的「[主天使](../Page/主天使.md "wikilink")（Kyriotetes）」。
+    名稱源自於九大天使階級之一的「[主天使](https://zh.wikipedia.org/wiki/主天使 "wikilink")（Kyriotetes）」。
 
 ## 重要戰鬥史
 
@@ -70,7 +70,7 @@ Unit）」以對應各種任務，於戰場中擅長利用飛行形態下的超�
 <!-- end list -->
 
   -
-    在塔克拉馬干沙漠被聯合國軍伙伏擊，於被俘虜途中因[座天使二型介入而成功逃出](../Page/GNW-002_座天使GUNDAM二型.md "wikilink")．
+    在塔克拉馬干沙漠被聯合國軍伙伏擊，於被俘虜途中因[座天使二型介入而成功逃出](https://zh.wikipedia.org/wiki/GNW-002_座天使GUNDAM二型 "wikilink")．
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@ Unit）」以對應各種任務，於戰場中擅長利用飛行形態下的超�
 <!-- end list -->
 
   -
-    在去除加農砲型尾部組件下再度迎戰聯合國厄運式部隊，遭MA[阿爾瓦特雷所發射的主砲波及](../Page/阿爾瓦特雷.md "wikilink")，機體右臂及右腿被燒毀。
+    在去除加農砲型尾部組件下再度迎戰聯合國厄運式部隊，遭MA[阿爾瓦特雷所發射的主砲波及](https://zh.wikipedia.org/wiki/阿爾瓦特雷 "wikilink")，機體右臂及右腿被燒毀。
 
 <!-- end list -->
 
@@ -162,7 +162,7 @@ GUNDAM待機時使用，使機體成隱形狀態。
 陣風裝備賦予了主天使GUNDAM更為優秀的機動力和遠距離攻擊能力，及能夠在廣域的大氣圈內戰鬥（從地表到大氣層都可以，甚至能夠單機突破大氣層）。
 
 本機體首次被世界所知是在「流星之夜（Meteor
-Night）」，Union的資源衛星群墜落事故中。當時用於殖民衛星建設而運到了[拉格朗日點L](../Page/拉格朗日點.md "wikilink")1的小行星的一部分，不知什麼原因開始向地球墜落（現在其原因仍未確定）。天上人在這場事故中行動了，使用超遠距離射擊裝備的力天使GUNDAM從地面將突入大氣層的巨大小行星殘骸射擊粉碎，而剩餘的碎片就由能夠在大氣層中飛行的陣風型主天使GUNDAM破壞了。
+Night）」，Union的資源衛星群墜落事故中。當時用於殖民衛星建設而運到了[拉格朗日點L](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")1的小行星的一部分，不知什麼原因開始向地球墜落（現在其原因仍未確定）。天上人在這場事故中行動了，使用超遠距離射擊裝備的力天使GUNDAM從地面將突入大氣層的巨大小行星殘骸射擊粉碎，而剩餘的碎片就由能夠在大氣層中飛行的陣風型主天使GUNDAM破壞了。
 
   - 高度：31.2公尺
   - 重量：84.2公噸（陣風型裝備重量29.4公噸）
@@ -206,8 +206,9 @@ Night）」，Union的資源衛星群墜落事故中。當時用於殖民衛星�
 
 ## 參見
 
-  - [機動戰士GUNDAM 00兵器列表](../Page/機動戰士GUNDAM_00兵器列表.md "wikilink")
+  - [機動戰士GUNDAM
+    00兵器列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00兵器列表 "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第3世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第3世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

@@ -1,21 +1,22 @@
 **Super
-A'can**是[臺灣](../Page/臺灣.md "wikilink")[敦煌科技推出的家用](../Page/敦煌科技.md "wikilink")[電子遊樂器](../Page/電子遊樂器.md "wikilink")，於1995年10月25日開始販售，英文代号F-16，中文名敦煌。製造商為[聯華電子](../Page/聯華電子.md "wikilink")。
+A'can**是[臺灣](../Page/臺灣.md "wikilink")[敦煌科技推出的家用](https://zh.wikipedia.org/wiki/敦煌科技 "wikilink")[電子遊樂器](https://zh.wikipedia.org/wiki/電子遊樂器 "wikilink")，於1995年10月25日開始販售，英文代号F-16，中文名敦煌。製造商為[聯華電子](../Page/聯華電子.md "wikilink")。
 
 ## 特色
 
-Super A'Can[主機和搖捍模仿了美版超級任天堂](../Page/主機.md "wikilink")。机器核心是[Sega
+Super
+A'Can[主機和搖捍模仿了美版超級任天堂](https://zh.wikipedia.org/wiki/主機 "wikilink")。机器核心是[Sega
 Genesis](../Page/Mega_Drive.md "wikilink")／[Mega
 Drive或](../Page/Mega_Drive.md "wikilink")[SNK](../Page/SNK.md "wikilink")
 Neo Geo使用的[Motorola
-68000](../Page/Motorola_68000.md "wikilink")。因此A'can有世嘉MD的處理[速度](../Page/速度.md "wikilink")，和任天堂超任的色彩豔麗，堪稱是16
-[BIT主機裡最強](../Page/位元.md "wikilink")。遊戲採用全[中文介面](../Page/中文.md "wikilink")。
+68000](https://zh.wikipedia.org/wiki/Motorola_68000 "wikilink")。因此A'can有世嘉MD的處理[速度](../Page/速度.md "wikilink")，和任天堂超任的色彩豔麗，堪稱是16
+[BIT主機裡最強](../Page/位元.md "wikilink")。遊戲採用全[中文介面](https://zh.wikipedia.org/wiki/中文 "wikilink")。
 
 ## 历史
 
-1995年7月发布，定位对应超任等机型。对比当时的超任是旗鼓相当的机型，但由于市场操作失误及新一代主机的到来而走向失败。最後，A'can在虧損了超過六百萬的美金下結束了它短暫的生命，聯華電子則全面銷毀所有相關開發和製作零件，而剩下的主機被當成[垃圾賣給了](../Page/垃圾.md "wikilink")[美國](../Page/美國.md "wikilink")。A'can是2000年以前聯華電子旗下損失最嚴重的[産品](../Page/産品.md "wikilink")，据报道，联华为此损失6百万美元。\[1\]
+1995年7月发布，定位对应超任等机型。对比当时的超任是旗鼓相当的机型，但由于市场操作失误及新一代主机的到来而走向失败。最後，A'can在虧損了超過六百萬的美金下結束了它短暫的生命，聯華電子則全面銷毀所有相關開發和製作零件，而剩下的主機被當成[垃圾賣給了](../Page/垃圾.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。A'can是2000年以前聯華電子旗下損失最嚴重的[産品](https://zh.wikipedia.org/wiki/産品 "wikilink")，据报道，联华为此损失6百万美元。\[1\]
 
 Super
-A'Can的失败原因有几点。首先其本身机能虽可以媲美超級任天堂，但其上市已经是1995年，这时超級任天堂的机能已经落后。相较[Sony的](../Page/Sony.md "wikilink")[Playstation等大量应用](../Page/Playstation.md "wikilink")[3D技术的游戏机](../Page/3D.md "wikilink")，Super
+A'Can的失败原因有几点。首先其本身机能虽可以媲美超級任天堂，但其上市已经是1995年，这时超級任天堂的机能已经落后。相较[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[Playstation等大量应用](https://zh.wikipedia.org/wiki/Playstation "wikilink")[3D技术的游戏机](https://zh.wikipedia.org/wiki/3D "wikilink")，Super
 A'Can就更加落伍了。游戏机本身上市价也太高，定位不明确。对于生产商方面，由于上游的晶片订单和任天堂的订单相抵触，受到任天堂方面的撤单压力。对开发者，只能使用次等开放软件开发，制作过程也过于紧凑。此外台湾以外的地区也没有为之配合的第三方软件开发商。在软件数量不足，市场惨淡的情况下，Super
 A'Can也就只能淡出市场。
 
@@ -25,12 +26,13 @@ A'Can也就只能淡出市场。
 
 ### CPU
 
-  - [摩托罗拉68000](../Page/摩托罗拉68000.md "wikilink")10.6Mhz
+  - [摩托罗拉68000](https://zh.wikipedia.org/wiki/摩托罗拉68000 "wikilink")10.6Mhz
   - [MOS 6502](../Page/MOS_6502.md "wikilink") 3.58Mhz
 
 ### 記憶體
 
-  - 主頻為10.6 MHZ，[VRAM為](../Page/VRAM.md "wikilink")128K，DMA高達8組。
+  - 主頻為10.6
+    MHZ，[VRAM為](https://zh.wikipedia.org/wiki/VRAM "wikilink")128K，DMA高達8組。
 
 ### 解析度
 
@@ -38,11 +40,11 @@ A'Can也就只能淡出市场。
 
 ### 主角尺寸
 
-  - [主角尺寸最大](../Page/主角.md "wikilink")256×256，主角[顏色](../Page/顏色.md "wikilink")256色。
+  - [主角尺寸最大](https://zh.wikipedia.org/wiki/主角 "wikilink")256×256，主角[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")256色。
 
 ### 背景
 
-  - [背景最多有四層](../Page/背景.md "wikilink")，主角和背景均可實現[透明](../Page/透明.md "wikilink")、迴旋、[放縮](../Page/縮放.md "wikilink")、[馬賽克功能](../Page/馬賽克_\(消歧義\).md "wikilink")。
+  - [背景最多有四層](https://zh.wikipedia.org/wiki/背景 "wikilink")，主角和背景均可實現[透明](../Page/透明.md "wikilink")、迴旋、[放縮](https://zh.wikipedia.org/wiki/縮放 "wikilink")、[馬賽克功能](https://zh.wikipedia.org/wiki/馬賽克_\(消歧義\) "wikilink")。
 
 ### 周邊設備
 

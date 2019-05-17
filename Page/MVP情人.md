@@ -1,10 +1,10 @@
-《**MVP情人**》（）。2002年[三立電視華人電視劇週日十點檔系列的第二部作品](../Page/三立電視.md "wikilink")，全劇共18集，接檔《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》。製作團隊為2001年三立電視[偶像劇](../Page/偶像劇.md "wikilink")《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》的原班人馬。由[孫協志](../Page/孫協志.md "wikilink")、[張韶涵和](../Page/張韶涵.md "wikilink")[顏行書領銜主演](../Page/顏行書.md "wikilink")，是第一部以[籃球為主題的偶像劇](../Page/籃球.md "wikilink")。值得一提的是，本劇男主角之一的顏行書除了在劇中為籃球員，現實中也是臺灣籃球國手。並由於此劇的故事發展主要圍繞籃球比賽，在播放期間更捲起了當時台灣的籃球熱。
+《**MVP情人**》（）。2002年[三立電視華人電視劇週日十點檔系列的第二部作品](../Page/三立電視.md "wikilink")，全劇共18集，接檔《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》。製作團隊為2001年三立電視[偶像劇](../Page/偶像劇.md "wikilink")《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》的原班人馬。由[孫協志](../Page/孫協志.md "wikilink")、[張韶涵和](../Page/張韶涵.md "wikilink")[顏行書領銜主演](https://zh.wikipedia.org/wiki/顏行書 "wikilink")，是第一部以[籃球為主題的偶像劇](https://zh.wikipedia.org/wiki/籃球 "wikilink")。值得一提的是，本劇男主角之一的顏行書除了在劇中為籃球員，現實中也是臺灣籃球國手。並由於此劇的故事發展主要圍繞籃球比賽，在播放期間更捲起了當時台灣的籃球熱。
 
 2002年7月21日起於[華視首播](../Page/華視主頻.md "wikilink")，[三立都會台也於](../Page/三立都會台.md "wikilink")2002年7月27日起首播。
 
 ## 劇情概要
 
-臣風駕重型機車趕往全國高中籃球聯賽的途中，不小心撞倒了對手Iceman的妹妹Angel，令她下半身癱瘓。雖然臣風在這次比賽中成為[MVP](../Page/最有價值球員.md "wikilink")，卻感到很內咎，因為是他令Iceman不能完成比賽（當聽到Angel意外的消息，Iceman中途離場趕去醫院）。臣風為了彌補這個過失，決定放棄籃球，放棄保送國外球隊的資格，和女朋友小希，全心全意去照顧Angel……
+臣風駕重型機車趕往全國高中籃球聯賽的途中，不小心撞倒了對手Iceman的妹妹Angel，令她下半身癱瘓。雖然臣風在這次比賽中成為[MVP](https://zh.wikipedia.org/wiki/最有價值球員 "wikilink")，卻感到很內咎，因為是他令Iceman不能完成比賽（當聽到Angel意外的消息，Iceman中途離場趕去醫院）。臣風為了彌補這個過失，決定放棄籃球，放棄保送國外球隊的資格，和女朋友小希，全心全意去照顧Angel……
 
 最後臣風在兩年後與小希在太子的看板上重逢後破鏡重圓。
 
@@ -20,13 +20,13 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/顏行書.md" title="wikilink">顏行書</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/顏行書" title="wikilink">顏行書</a></p></td>
 <td><center>
 <p>段臣風<br />
 (流川風)</p></td>
 <td><p>先天资质优良加上后天努力的优质球员，是防守、助攻、近投、三分、篮板的全能型球员。他是启穗中学二年级学生，个性冷淡，不苟言笑，在感情上做得多说得少。喜欢安静孤独，却能包容小希的活泼热情。在赶往全国联赛的路上，骑车撞伤ANGEL，造成ANGEL下半身短暂瘫痪，臣风承诺ANGEL要照顾她到底，因而不得不与青梅竹马的小希分手，其实他内心极为不舍及悔恨，後與小希複合。</p></td>
 <td><center>
-<p><a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -71,7 +71,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/高天騏.md" title="wikilink">高天騏</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/高天騏" title="wikilink">高天騏</a></p></td>
 <td><center>
 <p>高興</p></td>
 <td><p>有着非常优秀的篮球技术，是初中时的MVP球员，但因为一次比赛的重伤而自暴自弃。此后与不良少年有过一段时间的接触，进入启穗高中后开始重拾对篮球的热情，外表看起来很酷，但却是铁汉柔情。</p></td>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/陳宇凡.md" title="wikilink">陳宇凡</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳宇凡" title="wikilink">陳宇凡</a></p></td>
 <td><center>
 <p>明安<br />
 (ICE MAN)</p></td>
@@ -169,21 +169,26 @@
 
 <!-- end list -->
 
-  - 01\. Break\! Go\!／[Da Pump](../Page/Da_Pump.md "wikilink")
-  - 02\. So Tell Me／[Heartsdales](../Page/Heartsdales.md "wikilink")
+  - 01\. Break\! Go\!／[Da
+    Pump](https://zh.wikipedia.org/wiki/Da_Pump "wikilink")
+  - 02\. So Tell
+    Me／[Heartsdales](https://zh.wikipedia.org/wiki/Heartsdales "wikilink")
   - 03\. Tangerine Dream／[Do As
-    Infinity](../Page/Do_As_Infinity.md "wikilink")
+    Infinity](https://zh.wikipedia.org/wiki/Do_As_Infinity "wikilink")
   - 04\. Fat Free／[Hitomi](../Page/Hitomi.md "wikilink")
   - 05\. Boy Meets Girl (DJ Koo Remix)／[TRF](../Page/TRF.md "wikilink")
-  - 06\. Gamble Rumble／[move](../Page/move.md "wikilink")
-  - 07\. InJury／[駭物樂團](../Page/駭物樂團.md "wikilink")
-  - 08\. The Shining／[K Dub Shine](../Page/K_Dub_Shine.md "wikilink")
-  - 09\. No.1／[BoA](../Page/BoA.md "wikilink")
+  - 06\. Gamble
+    Rumble／[move](https://zh.wikipedia.org/wiki/move "wikilink")
+  - 07\. InJury／[駭物樂團](https://zh.wikipedia.org/wiki/駭物樂團 "wikilink")
+  - 08\. The Shining／[K Dub
+    Shine](https://zh.wikipedia.org/wiki/K_Dub_Shine "wikilink")
+  - 09\. No.1／[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")
   - 10\. Waiting…／BoA
-  - 11\. Perfect Man／[Shinhwa](../Page/Shinhwa.md "wikilink")
+  - 11\. Perfect
+    Man／[Shinhwa](https://zh.wikipedia.org/wiki/Shinhwa "wikilink")
   - 12\. Shout／Shinhwa
   - 13\. Sea Of Love／[Fly To The
-    Sky](../Page/Fly_To_The_Sky.md "wikilink")
+    Sky](https://zh.wikipedia.org/wiki/Fly_To_The_Sky "wikilink")
 
 ## 外部連結
 

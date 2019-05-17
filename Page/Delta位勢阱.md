@@ -1,29 +1,29 @@
-[Deltawell.png](https://zh.wikipedia.org/wiki/File:Deltawell.png "fig:Deltawell.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](../Page/行進波.md "wikilink")。用來計算[透射係數與](../Page/透射係數.md "wikilink")[反射係數的](../Page/反射係數.md "wikilink")[行進波都以紅色表示](../Page/行進波.md "wikilink")。\]\]
-在[量子力學裏](../Page/量子力學.md "wikilink")，**Delta位勢阱**是一個[阱內位勢為負](../Page/势阱.md "wikilink")[狄拉克Delta函數](../Page/狄拉克Delta函數.md "wikilink")，阱外位勢為0的位勢阱。**Delta位勢阱問題**專門研討，在這種位勢的作用中，一個粒子的量子行為。這是一個常見的理論問題。假若，粒子的能量是正值的，我們想要知道的是，在被Delta位勢壘[散射的狀況下](../Page/散射.md "wikilink")，粒子的[反射係數與](../Page/反射係數.md "wikilink")[透射係數](../Page/透射係數.md "wikilink")。假若，粒子的能量是負值的，這粒子會被束縛於Delta位勢阱的阱內。這時，我們想要知道的是粒子的能量與束縛的量子態。
+[Deltawell.png](https://zh.wikipedia.org/wiki/File:Deltawell.png "fig:Deltawell.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數與](../Page/透射係數.md "wikilink")[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\]
+在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢阱**是一個[阱內位勢為負](../Page/势阱.md "wikilink")[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，阱外位勢為0的位勢阱。**Delta位勢阱問題**專門研討，在這種位勢的作用中，一個粒子的量子行為。這是一個常見的理論問題。假若，粒子的能量是正值的，我們想要知道的是，在被Delta位勢壘[散射的狀況下](../Page/散射.md "wikilink")，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。假若，粒子的能量是負值的，這粒子會被束縛於Delta位勢阱的阱內。這時，我們想要知道的是粒子的能量與束縛的量子態。
 
 ## 定義
 
-一個粒子獨立於[時間的](../Page/時間.md "wikilink")[薛丁格方程為](../Page/薛丁格方程.md "wikilink")
+一個粒子獨立於[時間的](https://zh.wikipedia.org/wiki/時間 "wikilink")[薛丁格方程為](https://zh.wikipedia.org/wiki/薛丁格方程 "wikilink")
 
 \[- \frac{\hbar^2}{2m}\frac{d^2\psi(x)}{dx^2}+V(x)\psi(x)= E\psi(x)\,\!\]；
 
-其中，\(\hbar\,\!\)是[約化普朗克常數](../Page/約化普朗克常數.md "wikilink")，\(m\,\!\)是粒子質量，\(x\,\!\)是粒子位置，\(E\,\!\)是能量，\(\psi(x)\,\!\)是[波函數](../Page/波函數.md "wikilink")，\(V(x)\,\!\)是位勢，表達為
+其中，\(\hbar\,\!\)是[約化普朗克常數](https://zh.wikipedia.org/wiki/約化普朗克常數 "wikilink")，\(m\,\!\)是粒子質量，\(x\,\!\)是粒子位置，\(E\,\!\)是能量，\(\psi(x)\,\!\)是[波函數](https://zh.wikipedia.org/wiki/波函數 "wikilink")，\(V(x)\,\!\)是位勢，表達為
 
 \[V(x)= - \lambda\delta(x)\,\!\]；
 
-其中，\(\delta(x)\,\!\)是[狄拉克Delta函數](../Page/狄拉克Delta函數.md "wikilink")，\(\lambda\,\!\)是狄拉克Delta函數的強度。
+其中，\(\delta(x)\,\!\)是[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，\(\lambda\,\!\)是狄拉克Delta函數的強度。
 
 ## 導引
 
-這位勢阱將一維空間分為兩個區域：\(x<0\,\!\)與\(x>0\,\!\)。在任何一個區域內，位勢為常數，薛丁格方程的解答可以寫為往右與往左傳播的波函數的的[疊加](../Page/態疊加原理.md "wikilink")（參閱[自由粒子](../Page/自由粒子.md "wikilink")）：
+這位勢阱將一維空間分為兩個區域：\(x<0\,\!\)與\(x>0\,\!\)。在任何一個區域內，位勢為常數，薛丁格方程的解答可以寫為往右與往左傳播的波函數的的[疊加](https://zh.wikipedia.org/wiki/態疊加原理 "wikilink")（參閱[自由粒子](../Page/自由粒子.md "wikilink")）：
 
 \[\psi_L(x)= A_r e^{i k x} + A_l e^{-ikx}\quad x<0 \,\!\]，
 
 \[\psi_R(x)= B_r e^{i k x} + B_l e^{-ikx}\quad x>0\,\!\]；
 
-其中，\(A_r\,\!\)、\(A_l\,\!\)、\(B_r\,\!\)、\(B_l\,\!\)都是必須由[邊界條件決定的常數](../Page/邊界條件.md "wikilink")，下標\(r\,\!\)與\(l\,\!\)分別標記波函數往右或往左的方向。\(k=\sqrt{2m E/\hbar^{2}}\,\!\)是[波數](../Page/波數.md "wikilink")。
+其中，\(A_r\,\!\)、\(A_l\,\!\)、\(B_r\,\!\)、\(B_l\,\!\)都是必須由[邊界條件決定的常數](https://zh.wikipedia.org/wiki/邊界條件 "wikilink")，下標\(r\,\!\)與\(l\,\!\)分別標記波函數往右或往左的方向。\(k=\sqrt{2m E/\hbar^{2}}\,\!\)是[波數](../Page/波數.md "wikilink")。
 
-當\(E>0\,\!\)時，\(\psi_L\,\!\)與\(\psi_R\,\!\)都是[行進波](../Page/行進波.md "wikilink")。可是，當\(E<0\,\!\)時，\(\psi_L\,\!\)與\(\psi_R\,\!\)都隨著座標\(x\,\!\)呈指數遞減或指數遞增。
+當\(E>0\,\!\)時，\(\psi_L\,\!\)與\(\psi_R\,\!\)都是[行進波](https://zh.wikipedia.org/wiki/行進波 "wikilink")。可是，當\(E<0\,\!\)時，\(\psi_L\,\!\)與\(\psi_R\,\!\)都隨著座標\(x\,\!\)呈指數遞減或指數遞增。
 
 在\(x=0\,\!\)处，邊界條件是：
 
@@ -47,7 +47,7 @@
 
 \[- \frac{\hbar^2}{2 m} \left( \frac{d\psi_R}{dx}\bigg|_{\epsilon} - \frac{d\psi_L}{dx}\bigg|_{ - \epsilon} \right) + \lambda\int_{-\epsilon}^{\epsilon}\delta(x) \psi \, dx = 0\,\!\]<span style="position:absolute;right:15%">(3)</span>
 
-根據[狄拉克Delta函數的定義](../Page/狄拉克Delta函數.md "wikilink")，
+根據[狄拉克Delta函數的定義](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，
 
 \[\int_{-\epsilon}^{\epsilon}\delta(x) \psi \, dx =\psi_R(0)\,\!\]。<span style="position:absolute;right:15%">(4)</span>
 
@@ -71,7 +71,7 @@
 
 [Deltapotwell.PNG](https://zh.wikipedia.org/wiki/File:Deltapotwell.PNG "fig:Deltapotwell.PNG")
 
-假若，能量是正值的，粒子可以自由的移動於位勢阱外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。在這裏，粒子的量子行為主要是由Delta位勢阱造成的[散射行為](../Page/散射.md "wikilink")。稱這粒子的[量子態為](../Page/量子態.md "wikilink")**散射態**。設定粒子從左邊入射。在Delta位勢阱，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](../Page/反射係數.md "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
+假若，能量是正值的，粒子可以自由的移動於位勢阱外的兩個半空間，\(x<0\,\!\)或\(x>0\,\!\)。在這裏，粒子的量子行為主要是由Delta位勢阱造成的[散射行為](../Page/散射.md "wikilink")。稱這粒子的[量子態為](../Page/量子態.md "wikilink")**散射態**。設定粒子從左邊入射。在Delta位勢阱，粒子可能會被反射回去，或者會被透射過去。我們想要知道散射的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。設定\(A_r=1\,\!\)，\(A_l=r\,\!\)，\(B_l=0\,\!\)，\(B_r=t\,\!\)。求算反射的[機率幅](../Page/機率幅.md "wikilink")\(r\,\!\)與透射的[機率幅](../Page/機率幅.md "wikilink")\(t\,\!\)：
 
 \[r= -\ \cfrac{1}{\cfrac{i\hbar^2 k}{m\lambda} + 1}\,\!\]，
 
@@ -94,7 +94,7 @@
 
 [DeltaF-WaveSolution.png](https://zh.wikipedia.org/wiki/File:DeltaF-WaveSolution.png "fig:DeltaF-WaveSolution.png")
 
-每一個一維的吸引位勢，都至少會存在著一個[束縛態](../Page/束縛態.md "wikilink")（）。由於\(E<0\,\!\)，波數變為複數。設定\(\kappa= - ik=\sqrt{2m |E|/\hbar^2}\,\!\)。前述的振盪的波函數\(\psi_L\,\!\)與\(\psi_R\,\!\)，現在卻隨著座標\(x\,\!\)呈指數遞減或指數遞增。為了要符合物理的真實性，我們要求波函數不[發散於](../Page/發散級數.md "wikilink")\(x\to\pm \infty\,\!\)。那麼，\(A_r\,\!\)與\(B_l\,\!\)必須被設定為0。波函數變為
+每一個一維的吸引位勢，都至少會存在著一個[束縛態](https://zh.wikipedia.org/wiki/束縛態 "wikilink")（）。由於\(E<0\,\!\)，波數變為複數。設定\(\kappa= - ik=\sqrt{2m |E|/\hbar^2}\,\!\)。前述的振盪的波函數\(\psi_L\,\!\)與\(\psi_R\,\!\)，現在卻隨著座標\(x\,\!\)呈指數遞減或指數遞增。為了要符合物理的真實性，我們要求波函數不[發散於](https://zh.wikipedia.org/wiki/發散級數 "wikilink")\(x\to\pm \infty\,\!\)。那麼，\(A_r\,\!\)與\(B_l\,\!\)必須被設定為0。波函數變為
 
 \[\psi_L(x)=  A_l e^{\kappa x}\,\!\]，
 

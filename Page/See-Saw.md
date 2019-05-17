@@ -1,4 +1,4 @@
-**See-Saw**是[日本的](../Page/日本.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")。其英文有「相見・相會」的意思，並且字面由「see」和它的過去式「saw」組合而成。“SeeSaw”一詞亦有“[蹺蹺板](../Page/蹺蹺板.md "wikilink")”之意。該團體曾經解散於1995年，不過在2001年又再次重組。
+**See-Saw**是[日本的](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。其英文有「相見・相會」的意思，並且字面由「see」和它的過去式「saw」組合而成。“SeeSaw”一詞亦有“[蹺蹺板](https://zh.wikipedia.org/wiki/蹺蹺板 "wikilink")”之意。該團體曾經解散於1995年，不過在2001年又再次重組。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 「See-Saw」曾擔任許多動畫的片頭和片尾主題曲以及插曲的製作，其中包括《[.hack/SIGN](../Page/.hack.md "wikilink")》和《[.hack/Liminality](../Page/.hack.md "wikilink")》，《[NOIR](../Page/NOIR.md "wikilink")》的兩首插曲，《[機動戰士GUNDAM
+  - 「See-Saw」曾擔任許多動畫的片頭和片尾主題曲以及插曲的製作，其中包括《[.hack/SIGN](https://zh.wikipedia.org/wiki/.hack "wikilink")》和《[.hack/Liminality](https://zh.wikipedia.org/wiki/.hack "wikilink")》，《[NOIR](../Page/NOIR.md "wikilink")》的兩首插曲，《[機動戰士GUNDAM
     SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的1st片尾曲和《[機動戰士GUNDAM
     SEED
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》的4th片尾曲。
@@ -119,7 +119,7 @@
 
 1.  Obsession
 
-      - 電視動畫『[.hack//SIGN](../Page/.hack.md "wikilink")』片頭主題歌
+      - 電視動畫『[.hack//SIGN](https://zh.wikipedia.org/wiki/.hack "wikilink")』片頭主題歌
       - 作詞・作曲・編曲：梶浦由記
 
 2.    - 電視動畫『.hack//SIGN』片尾主題歌
@@ -137,7 +137,7 @@
 <!-- end list -->
 
 1.  edge
-      - OVA『[.hack//Liminality](../Page/.hack.md "wikilink")』vol.1片頭主題歌
+      - OVA『[.hack//Liminality](https://zh.wikipedia.org/wiki/.hack "wikilink")』vol.1片頭主題歌
       - 作詞・作曲・編曲：梶浦由記
 2.  黄昏之海
       - OVA『.hack//Liminality』片尾主題歌
@@ -177,7 +177,7 @@
 
 2.  Emerald Green
 
-      - 電視動畫『[.hack//黄昏の腕輪伝説](../Page/.hack.md "wikilink")』片尾主題歌
+      - 電視動畫『[.hack//黄昏の腕輪伝説](https://zh.wikipedia.org/wiki/.hack "wikilink")』片尾主題歌
       - 作詞：石川智晶
       - 作曲・編曲：梶浦由記
 

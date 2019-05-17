@@ -1,24 +1,24 @@
-是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](../Page/PlayStation.md "wikilink")，后又推出了[Sega
-Saturn版](../Page/Sega_Saturn.md "wikilink")。該作品为《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](../Page/类银河战士恶魔城游戏.md "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時橫向卷軸遊戲之創舉，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
+是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，后又推出了[Sega
+Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X
+血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](https://zh.wikipedia.org/wiki/类银河战士恶魔城游戏 "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時橫向卷軸遊戲之創舉，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
 
 ## 角色介绍
 
   - 艾卡多（アルカード；Alucard）
     全名：安德烈‧菲倫海斯‧戴普斯（アドリアン・ファーレンハイツ・ツェペシュ、Adrian Farenheights Tepes）
     配音：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
-    本作的主人公，[德古拉伯爵與人類女子麗莎所生之子](../Page/德古拉伯爵.md "wikilink")，屬於[半吸血鬼](../Page/半吸血鬼.md "wikilink")；曾經與拉爾夫‧貝爾蒙多一起打倒自己的父親，隨後即進入長眠。最近卻由於正邪力量的平衡被破壞而被震醒。為了再次阻止父親而獨自闖入惡魔城探險。
+    本作的主人公，[德古拉伯爵與人類女子麗莎所生之子](https://zh.wikipedia.org/wiki/德古拉伯爵 "wikilink")，屬於[半吸血鬼](https://zh.wikipedia.org/wiki/半吸血鬼 "wikilink")；曾經與拉爾夫‧貝爾蒙多一起打倒自己的父親，隨後即進入長眠。最近卻由於正邪力量的平衡被破壞而被震醒。為了再次阻止父親而獨自闖入惡魔城探險。
   - 弗拉德‧戴普斯（ヴラド・ツェペシュ、Vlad Tepes）
     配音：[若本規夫](../Page/若本規夫.md "wikilink")
     另號德古拉（ドラキュラ），傳奇的吸血鬼之王，艾卡多的生父；數年前被里希達‧貝爾蒙多所封印但再次復活，為本遊戲隱藏的真正大BOSS。
   - 瑪莉雅‧雷納德（マリア・ラーネッド、Maria Renard）
     配音：[横山智佐](../Page/横山智佐.md "wikilink")
     里希達‧貝爾蒙多的戀人安妮特‧雷納德（アネット・ラーネッド、Annette
-    Renard）之妹，具有操控東方[四聖獸的特殊力量](../Page/四聖獸.md "wikilink")。
+    Renard）之妹，具有操控東方[四聖獸的特殊力量](https://zh.wikipedia.org/wiki/四聖獸 "wikilink")。
     一年前里希達失蹤之後她開始四處尋找其下落，遇到惡魔城之後，她相信里希達就在這裡，因此自己闖了進來。
   - 里希達‧貝爾蒙多（リヒター‧ベルモント、Richter Belmont）
-    配音：[梁田清之](../Page/梁田清之.md "wikilink")
-    五年前成功封印德古拉伯爵的最強吸血鬼獵人。但是在一年前的一個[月圓之夜受到夏福特控制成為表惡魔城主](../Page/月圓.md "wikilink")，被外界誤認失蹤下落不明，作為城中的大BOSS迎戰艾卡多。
+    配音：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
+    五年前成功封印德古拉伯爵的最強吸血鬼獵人。但是在一年前的一個[月圓之夜受到夏福特控制成為表惡魔城主](https://zh.wikipedia.org/wiki/月圓 "wikilink")，被外界誤認失蹤下落不明，作為城中的大BOSS迎戰艾卡多。
   - 夏福特（シャフト、Shaft）
     配音：梁田清之
     本為教會的牧師，後來背叛信仰成為德古拉的心腹。五年前他將德古拉復活後，里希特‧貝爾蒙多雖然把主僕兩人打得淒慘不堪，夏福特卻死裡逃生逃過一劫，後來他暗地把黑暗力量回聚重建惡魔城後，控制里希達掃平入侵者，爭取時間讓德古拉復活。
@@ -32,7 +32,7 @@ Saturn版](../Page/Sega_Saturn.md "wikilink")。該作品为《[惡魔城X
     本作的商店看管人，除了可以從他這裡買到裝備和藥品，還可以賣給他寶石指環換錢，以及觀看戰鬥指南，查看敵人的圖鑒等。
   - 莉莎‧菲倫海斯（リサ・ファーレンハイツ、Lisa Farenheights）
     配音：[深見梨加](../Page/深見梨加.md "wikilink")
-    艾卡多的生母，是平凡的人類，她與德古拉伯爵相愛結合並生下艾卡多，後來莉莎離開家庭後在人世間研究醫藥相關的領域，因此被教會認定為魔女而處以[火刑](../Page/火刑.md "wikilink")。德古拉因此憎惡人類，發誓要將人類毀滅。而艾卡多謹記其“不要怨恨人類”的臨終教誨，走上了與父親為敵，阻止父親的道路。
+    艾卡多的生母，是平凡的人類，她與德古拉伯爵相愛結合並生下艾卡多，後來莉莎離開家庭後在人世間研究醫藥相關的領域，因此被教會認定為魔女而處以[火刑](https://zh.wikipedia.org/wiki/火刑 "wikilink")。德古拉因此憎惡人類，發誓要將人類毀滅。而艾卡多謹記其“不要怨恨人類”的臨終教誨，走上了與父親為敵，阻止父親的道路。
   - 魅魔（サキュバス、Succubus）
     配音：深見梨加
     能夠變化成被害者所愛的人的樣子，並趁其不備偷襲的惡魔。
@@ -75,15 +75,15 @@ Saturn版](../Page/Sega_Saturn.md "wikilink")。該作品为《[惡魔城X
 
 ## 發售
 
-游戏的[Sony](../Page/Sony.md "wikilink")[PlayStation版本发行于](../Page/PlayStation.md "wikilink")1997年，相应的[Sega
-Saturn版本发行于](../Page/Sega_Saturn.md "wikilink")1998年。2007年3月，移植至[Xbox
+游戏的[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")[PlayStation版本发行于](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1997年，相应的[Sega
+Saturn版本发行于](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")1998年。2007年3月，移植至[Xbox
 360平台](../Page/Xbox_360.md "wikilink")。2007年10月，《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》於[PlayStation
 Portable平台發售](../Page/PlayStation_Portable.md "wikilink")，其中也收錄了PS版的月下。2018年10月26日，《惡魔城X
 精選集：月下夜想曲＆血之輪迴》於[PlayStation
 4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PSP版遊戲，提供更高的解析度。\[1\]。PlayStation
 Portable與PlayStation
-4版基本上皆以[PlayStation版本進行移植](../Page/PlayStation.md "wikilink")，沒有[Sega
-Saturn版本新增的地圖內容](../Page/Sega_Saturn.md "wikilink")。
+4版基本上皆以[PlayStation版本進行移植](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，沒有[Sega
+Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。
 
 ## 版本差異
 
@@ -107,7 +107,9 @@ Saturn版本新增的地圖內容](../Page/Sega_Saturn.md "wikilink")。
 
 <!-- end list -->
 
-  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、PS one Books版）
+  - 改良版（[The
+    Best版](https://zh.wikipedia.org/wiki/The_Best "wikilink")、PS one
+    Books版）
 
 <!-- end list -->
 
@@ -134,9 +136,9 @@ Saturn版本新增的地圖內容](../Page/Sega_Saturn.md "wikilink")。
 ### Xbox 360版
 
   - 僅透過[Xbox Live
-    Arcade發售](../Page/Xbox_Live_Arcade.md "wikilink")，完整移植自PS改良版。
+    Arcade發售](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")，完整移植自PS改良版。
   - 提供原始版&抗鋸齒兩種畫面模式。
-  - 新增排行榜與[成就功能](../Page/成就_\(電子遊戲\).md "wikilink")。\[4\]
+  - 新增排行榜與[成就功能](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[4\]
 
 ### PSP版
 
@@ -149,7 +151,7 @@ Saturn版本新增的地圖內容](../Page/Sega_Saturn.md "wikilink")。
 ### PS4版
 
 收錄於2018年的《惡魔城X
-精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援PSN[獎盃](../Page/成就_\(電子遊戲\).md "wikilink")。\[7\]
+精選集：月下夜想曲＆血之輪迴》，PS4版的月下基本上與PSP《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》收錄的內容相同，差異在於解析度提升、支援PSN[獎盃](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")。\[7\]
 
 ## 評價
 

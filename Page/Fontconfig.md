@@ -1,5 +1,5 @@
-**Fontconfig**是字體相關的[计算机程序库](../Page/计算机程序库.md "wikilink")，用于配置、定制全系统的[字体](../Page/电脑字体.md "wikilink")，或將字體提供給应用程序使用。此庫最初是由[Keith
-Packard开发维护的](../Page/Keith_Packard.md "wikilink")，现由维护。
+**Fontconfig**是字體相關的[计算机程序库](https://zh.wikipedia.org/wiki/计算机程序库 "wikilink")，用于配置、定制全系统的[字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，或將字體提供給应用程序使用。此庫最初是由[Keith
+Packard开发维护的](https://zh.wikipedia.org/wiki/Keith_Packard "wikilink")，现由维护。
 
 Fontconfig是[自由软件](../Page/自由软件.md "wikilink")，采用[宽松开放版权许可证](../Page/寬鬆自由軟體授權條款.md "wikilink")。\[1\]
 
@@ -11,12 +11,12 @@ Fontconfig是[自由软件](../Page/自由软件.md "wikilink")，采用[宽松�
 2.  模式匹配。 Fontconfig 将返回和指定模式最匹配的字体。
 
 为了进行字体匹配，fontconfig
-保存所有已经安装字体的大量排版信息，例如[字体名称](../Page/字体.md "wikilink")、风格、大小、[DPI](../Page/dpi.md "wikilink")、[Unicode覆盖范围等](../Page/Unicode.md "wikilink")。这些信息也被用来执行字体替换。
+保存所有已经安装字体的大量排版信息，例如[字体名称](../Page/字体.md "wikilink")、风格、大小、[DPI](https://zh.wikipedia.org/wiki/dpi "wikilink")、[Unicode覆盖范围等](https://zh.wikipedia.org/wiki/Unicode "wikilink")。这些信息也被用来执行字体替换。
 
 ## 文件
 
 Fontconfig使用[XML格式的配置文件](../Page/XML.md "wikilink")。
-Fontconfig的[DTD文件通常位于](../Page/文件类型描述.md "wikilink")`/etc/fonts/fonts.dtd`。
+Fontconfig的[DTD文件通常位于](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")`/etc/fonts/fonts.dtd`。
 
 主配置文件是`/etc/fonts/fonts.conf`，引用少量的其他配置文件（有可能不存在）:
 
@@ -46,17 +46,17 @@ fontconfig提供了8个命令行工具来管理字体配置：
 
   - *fc-list*：列出fontconfig知道的所有和模式匹配的字体。
   - *fc-match*：匹配字体模式（默认为空模式），使用正常的fontconfig匹配规则来寻找最合适的字体。
-  - *fc-cache*：创建一个所有[FreeType于指定目录](../Page/FreeType.md "wikilink")（或者[配置文件中指定的所有目录](../Page/#文件.md "wikilink")）中可读字体的[缓存](../Page/Cache.md "wikilink")。
+  - *fc-cache*：创建一个所有[FreeType于指定目录](../Page/FreeType.md "wikilink")（或者[配置文件中指定的所有目录](https://zh.wikipedia.org/wiki/#文件 "wikilink")）中可读字体的[缓存](https://zh.wikipedia.org/wiki/Cache "wikilink")。
   - *fc-cat*：从缓存文件或者相关字体目录中读取字体信息，并且以[ASCII格式输出](../Page/ASCII.md "wikilink")。
   - *fc-query*：查询字体文件并报告产生的模式。
   - *fc-scan*：扫描字体文件和目录并报告产生的模式。
   - *fc-pattern*：列举匹配提供模式的最佳字体。
   - *fc-validate*：验证字体文件并报告结果。
 
-Fontconfig建立在[FreeType](../Page/FreeType.md "wikilink")（一个字体渲染器）和[expat](../Page/Expat_\(XML\).md "wikilink")（一个XML解析库）之上，这两个都是[自由软件](../Page/自由软件.md "wikilink")。
+Fontconfig建立在[FreeType](../Page/FreeType.md "wikilink")（一个字体渲染器）和[expat](https://zh.wikipedia.org/wiki/Expat_\(XML\) "wikilink")（一个XML解析库）之上，这两个都是[自由软件](../Page/自由软件.md "wikilink")。
 
-[Fontmatrix](../Page/Fontmatrix.md "wikilink")
-是一个有[图形用户接口的交互工具](../Page/GUI.md "wikilink")，可以使用fontconfig列出可用的字体以及显示信息。
+[Fontmatrix](https://zh.wikipedia.org/wiki/Fontmatrix "wikilink")
+是一个有[图形用户接口的交互工具](https://zh.wikipedia.org/wiki/GUI "wikilink")，可以使用fontconfig列出可用的字体以及显示信息。
 
 ## 版本號說明
 

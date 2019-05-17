@@ -24,7 +24,7 @@ Vanguard」片尾曲）及「TRANSMIGRATION」的2007年重新編譯版「TRANSM
 5.  STUDIO LIVE「Justice to Believe」
       - （from 「」）
 
-[分類:精選輯](../Page/分類:精選輯.md "wikilink")
+[分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
 [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
 [Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink")

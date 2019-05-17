@@ -1,5 +1,5 @@
 **一二走航空269號班機**（OG
-269）是一班由泰國[曼谷廊曼機場飛往泰國](../Page/曼谷國際機場.md "wikilink")[布吉國際機場的](../Page/布吉國際機場.md "wikilink")[一二走航空國內線定期航班](../Page/一二走航空.md "wikilink")。2007年9月16日下午14:00-15:20，該機由曼谷飛往[布吉途中疑遇上](../Page/布吉.md "wikilink")[風切變](../Page/風切變.md "wikilink")，降落布吉機場時滑出[跑道撞向大樹](../Page/跑道.md "wikilink")，機身斷成兩截，[爆炸](../Page/爆炸.md "wikilink")[着火](../Page/火災.md "wikilink")，至少89人[死亡](../Page/死亡.md "wikilink")。
+269）是一班由泰國[曼谷廊曼機場飛往泰國](https://zh.wikipedia.org/wiki/曼谷國際機場 "wikilink")[布吉國際機場的](https://zh.wikipedia.org/wiki/布吉國際機場 "wikilink")[一二走航空國內線定期航班](https://zh.wikipedia.org/wiki/一二走航空 "wikilink")。2007年9月16日下午14:00-15:20，該機由曼谷飛往[布吉途中疑遇上](https://zh.wikipedia.org/wiki/布吉 "wikilink")[風切變](https://zh.wikipedia.org/wiki/風切變 "wikilink")，降落布吉機場時滑出[跑道撞向大樹](../Page/跑道.md "wikilink")，機身斷成兩截，[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")[着火](../Page/火災.md "wikilink")，至少89人[死亡](../Page/死亡.md "wikilink")。
 
 ## 其他
 
@@ -15,8 +15,8 @@
 
 ## 相關條目
 
-  - [空難列表](../Page/空難列表.md "wikilink")
-  - [風切變](../Page/風切變.md "wikilink")
+  - [空難列表](https://zh.wikipedia.org/wiki/空難列表 "wikilink")
+  - [風切變](https://zh.wikipedia.org/wiki/風切變 "wikilink")
   - [微下擊暴流](../Page/微下擊暴流.md "wikilink")
   - [地面迫近警告系統](../Page/地面迫近警告系統.md "wikilink")
 

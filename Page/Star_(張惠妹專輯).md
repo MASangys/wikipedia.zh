@@ -1,4 +1,4 @@
-《**Star**》是台灣歌手[張惠妹發行第十四張國語專輯](../Page/張惠妹.md "wikilink")，《Star》為張惠妹加盟[科藝百代後發行首張個人專輯](../Page/科藝百代.md "wikilink")，2007年8月3日發行。
+《**Star**》是台灣歌手[張惠妹發行第十四張國語專輯](../Page/張惠妹.md "wikilink")，《Star》為張惠妹加盟[科藝百代後發行首張個人專輯](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")，2007年8月3日發行。
 
 ## 曲目
 

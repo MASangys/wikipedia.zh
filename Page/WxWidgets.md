@@ -1,48 +1,59 @@
-**wxWidgets**（，原名**wxWindows**\[1\]）是一個[開放原始碼且](../Page/開放原始碼.md "wikilink")[跨平台的](../Page/跨平台.md "wikilink")[物件工具集](../Page/部件工具箱.md "wikilink")（widget
-toolkit），其[函式庫可用來建立基本的](../Page/函式庫.md "wikilink")[圖形使用者介面](../Page/圖形使用者介面.md "wikilink")（GUI）。wxWidgets由Julian
+**wxWidgets**（，原名**wxWindows**\[1\]）是一個[開放原始碼且](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[物件工具集](../Page/部件工具箱.md "wikilink")（widget
+toolkit），其[函式庫可用來建立基本的](../Page/函式庫.md "wikilink")[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")（GUI）。wxWidgets由Julian
 Smart於1992年首先開發。
 
-wxWidgets標榜使用其函式庫所開發的[軟體只需要對](../Page/軟體.md "wikilink")[原始碼做少量更改](../Page/原始碼.md "wikilink")（或者完全不用更改），就能在各種不同的作業平台上編譯並執行。目前可支援[Windows](../Page/Windows.md "wikilink")、[Apple
-Macintosh](../Page/Apple_Macintosh.md "wikilink")、[Linux](../Page/Linux.md "wikilink")／[Unix](../Page/Unix.md "wikilink")（轉譯成[X11](../Page/X11.md "wikilink")、[GTK+](../Page/GTK+.md "wikilink")、[Motif等函式庫](../Page/Motif.md "wikilink")）、[OpenVMS](../Page/OpenVMS.md "wikilink")、以及[OS/2](../Page/OS/2.md "wikilink")。[嵌入式的版本也正在開發中](../Page/嵌入式系統.md "wikilink")\[2\]。
+wxWidgets標榜使用其函式庫所開發的[軟體只需要對](https://zh.wikipedia.org/wiki/軟體 "wikilink")[原始碼做少量更改](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（或者完全不用更改），就能在各種不同的作業平台上編譯並執行。目前可支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Apple
+Macintosh](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")、[Linux](../Page/Linux.md "wikilink")／[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（轉譯成[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")、[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[Motif等函式庫](../Page/Motif.md "wikilink")）、[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、以及[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")。[嵌入式的版本也正在開發中](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")\[2\]。
 
-函式庫本身使用[C++語言開發](../Page/C++.md "wikilink")，但也有其它不同[程式語言的](../Page/程式語言.md "wikilink")[綁紮](../Page/綁紮.md "wikilink")，例如：[Python](../Page/Python.md "wikilink")（wxPython）、[Lua](../Page/Lua.md "wikilink")(wxlua)、[Perl](../Page/Perl.md "wikilink")（wxPerl）、[Ruby](../Page/Ruby.md "wikilink")（wxRuby）、[Smalltalk](../Page/Smalltalk.md "wikilink")（wxSmalltalk）、[Java](../Page/Java.md "wikilink")（wx4j）、甚至是[JavaScript](../Page/JavaScript.md "wikilink")（wxjs）等。
+函式庫本身使用[C++語言開發](../Page/C++.md "wikilink")，但也有其它不同[程式語言的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[綁紮](../Page/綁紮.md "wikilink")，例如：[Python](../Page/Python.md "wikilink")（wxPython）、[Lua](../Page/Lua.md "wikilink")(wxlua)、[Perl](../Page/Perl.md "wikilink")（wxPerl）、[Ruby](../Page/Ruby.md "wikilink")（wxRuby）、[Smalltalk](../Page/Smalltalk.md "wikilink")（wxSmalltalk）、[Java](../Page/Java.md "wikilink")（wx4j）、甚至是[JavaScript](../Page/JavaScript.md "wikilink")（wxjs）等。
 
 使用wxWidgets開發的軟體不需經過諸如[虛擬機器的技術就能執行](../Page/虛擬機器.md "wikilink")，雖然在不同平台可使用相近甚至相同的原始碼，但其最終轉譯並生成的執行檔是完全基於作業平台的。
 
-另外，wxWidgets不只可以用來建立GUI，它也內建了基於[ODBC的](../Page/ODBC.md "wikilink")[資料庫函式](../Page/資料庫.md "wikilink")、[行程間通訊以及網路socket函式等的支援](../Page/行程間通訊.md "wikilink")。
+另外，wxWidgets不只可以用來建立GUI，它也內建了基於[ODBC的](../Page/ODBC.md "wikilink")[資料庫函式](https://zh.wikipedia.org/wiki/資料庫 "wikilink")、[行程間通訊以及網路socket函式等的支援](../Page/行程間通訊.md "wikilink")。
 
-wxWidgets的授權許可證是經過[開放原始碼促進會認證](../Page/開放原始碼促進會.md "wikilink")，其本質等同於[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")（LGPL）。然而一個例外是wxWidgets授權允許修改者以自己的許可證發佈。
+wxWidgets的授權許可證是經過[開放原始碼促進會認證](https://zh.wikipedia.org/wiki/開放原始碼促進會 "wikilink")，其本質等同於[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")（LGPL）。然而一個例外是wxWidgets授權允許修改者以自己的許可證發佈。
 
 ## 使用wxWidgets開發的軟體
 
   - [Amaya網頁編輯工具](../Page/Amaya.md "wikilink")
-  - [aMule](../Page/aMule.md "wikilink")
-    基於[eMule的跨平台](../Page/eMule.md "wikilink")[P2P軟體](../Page/P2P.md "wikilink")。
+  - [aMule](https://zh.wikipedia.org/wiki/aMule "wikilink")
+    基於[eMule的跨平台](https://zh.wikipedia.org/wiki/eMule "wikilink")[P2P軟體](https://zh.wikipedia.org/wiki/P2P "wikilink")。
   - [Audacity](../Page/Audacity.md "wikilink") 跨平台且開放原始碼的聲音編輯器。
-  - [BitTorrent點對點檔案分享peer](../Page/BitTorrent.md "wikilink")-to-peer
+  - [BitTorrent點對點檔案分享peer](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")-to-peer
     file sharing application
   - [FileZilla](../Page/FileZilla.md "wikilink") -
-    跨平台且開放原始碼的[FTP軟體](../Page/FTP.md "wikilink")。
-  - [Code::Blocks](../Page/Code::Blocks.md "wikilink") C/C++ IDE
-  - [CodeLite](../Page/CodeLite.md "wikilink") C/C++ IDE
-  - [ionCube](../Page/ionCube.md "wikilink") PHP編碼器
+    跨平台且開放原始碼的[FTP軟體](https://zh.wikipedia.org/wiki/FTP "wikilink")。
+  - [Code::Blocks](https://zh.wikipedia.org/wiki/Code::Blocks "wikilink")
+    C/C++ IDE
+  - [CodeLite](https://zh.wikipedia.org/wiki/CodeLite "wikilink") C/C++
+    IDE
+  - [ionCube](https://zh.wikipedia.org/wiki/ionCube "wikilink") PHP編碼器
   - [PTGui](../Page/PTGui.md "wikilink") 照片拼接軟件
-  - [RapidSVN](../Page/RapidSVN.md "wikilink") Subversion用戶端
-  - [TortoiseCVS](../Page/TortoiseCVS.md "wikilink") CVS用戶端
-  - [wxDownload Fast](../Page/wxDownload_Fast.md "wikilink") 下載管理員
+  - [RapidSVN](https://zh.wikipedia.org/wiki/RapidSVN "wikilink")
+    Subversion用戶端
+  - [TortoiseCVS](https://zh.wikipedia.org/wiki/TortoiseCVS "wikilink")
+    CVS用戶端
+  - [wxDownload
+    Fast](https://zh.wikipedia.org/wiki/wxDownload_Fast "wikilink")
+    下載管理員
   - [wxMaxima](../Page/Maxima.md "wikilink") 電腦代數系統
-  - [MadEdit](../Page/MadEdit.md "wikilink") 文本/十六进制编辑器
-  - [FreeFileSync](../Page/FreeFileSync.md "wikilink") 文件同步工具
-  - [smartCOM](../Page/smartCOM.md "wikilink") 串口调试工具，支持LINUX与WINDOWS
-  - [HeeksCAD](../Page/HeeksCAD.md "wikilink") 三维CAD软件
-  - [wxMP3gain](../Page/wxMP3gain.md "wikilink") MP3gain的图形界面前端程序
+  - [MadEdit](https://zh.wikipedia.org/wiki/MadEdit "wikilink")
+    文本/十六进制编辑器
+  - [FreeFileSync](https://zh.wikipedia.org/wiki/FreeFileSync "wikilink")
+    文件同步工具
+  - [smartCOM](https://zh.wikipedia.org/wiki/smartCOM "wikilink")
+    串口调试工具，支持LINUX与WINDOWS
+  - [HeeksCAD](https://zh.wikipedia.org/wiki/HeeksCAD "wikilink")
+    三维CAD软件
+  - [wxMP3gain](https://zh.wikipedia.org/wiki/wxMP3gain "wikilink")
+    MP3gain的图形界面前端程序
 
 ## 參見
 
   - [Microsoft Foundation Class
-    Library](../Page/Microsoft_Foundation_Class_Library.md "wikilink")
+    Library](https://zh.wikipedia.org/wiki/Microsoft_Foundation_Class_Library "wikilink")
   - [Qt](../Page/Qt.md "wikilink")
-  - [GTK+](../Page/GTK+.md "wikilink")
+  - [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")
 
 ## 外部連結
 
@@ -87,7 +98,8 @@ wxWidgets的授權許可證是經過[開放原始碼促進會認證](../Page/開
   - [wxFormBuilder](http://www.wxformbuilder.org)，由C++
     寫成、開放原始碼的wxWidgets GUI設計工具。
   - [wxVS2008Integration](http://priyank.co.in/wxVS2008Integration.php)，[Visual
-    Studio .NET](../Page/Visual_Studio_.NET.md "wikilink")
+    Studio
+    .NET](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")
     2008的wxWidgets專案與類別精靈。
   - [PythonCard](http://sourceforge.net/project/showfiles.php?group_id=19015)，跨平台GUI建立工具。
 
@@ -116,7 +128,7 @@ wxWidgets的授權許可證是經過[開放原始碼促進會認證](../Page/開
     wxWidgets](https://web.archive.org/web/20070928164931/http://priyank.co.in/articles.php?cat_id=1)
     - 給初學者的wxWidgets跨平台（Windows/Linux）開發教學。
   - [wx-sdl](http://code.technoplaza.net/wx-sdl/) -
-    wxWidgets與[SDL整合教學](../Page/SDL.md "wikilink")。
+    wxWidgets與[SDL整合教學](https://zh.wikipedia.org/wiki/SDL "wikilink")。
   - [The sbVB wxWidgets
     course](https://web.archive.org/web/20071007065226/http://www.sbvb.com.br/cgi-bin/index.cgi?p=3)
     - 教學文件。

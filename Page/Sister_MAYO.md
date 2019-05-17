@@ -1,10 +1,10 @@
 **Sister
 MAYO**（），原名**澤田雅世**，是[日本的女性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，主要唱的是動畫及遊戲歌曲。現在她是[Columbia
 Music
-Entertainment属下的](../Page/Columbia_Music_Entertainment.md "wikilink")[Cyber
+Entertainment属下的](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")[Cyber
 Nation
-Network及](../Page/Cyber_Nation_Network.md "wikilink")[Project.R成員之一](../Page/Project.R.md "wikilink")，另外她也是原[X
-Japan](../Page/X_Japan.md "wikilink")[貝斯手](../Page/貝斯手.md "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。
+Network及](https://zh.wikipedia.org/wiki/Cyber_Nation_Network "wikilink")[Project.R成員之一](../Page/Project.R.md "wikilink")，另外她也是原[X
+Japan](../Page/X_Japan.md "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。
 
 ## 音樂作品
 
@@ -19,14 +19,15 @@ Japan](../Page/X_Japan.md "wikilink")[貝斯手](../Page/貝斯手.md "wikilink"
   -
     c/w：瞳の中のオアシス
     1997年1月21日
-    遊戲『[Queens Road](../Page/Queens_Road.md "wikilink")』片頭曲及片尾曲
+    遊戲『[Queens
+    Road](https://zh.wikipedia.org/wiki/Queens_Road "wikilink")』片頭曲及片尾曲
     發行：[Bandai Music
-    Entertainment](../Page/Bandai_Music_Entertainment.md "wikilink")
+    Entertainment](https://zh.wikipedia.org/wiki/Bandai_Music_Entertainment "wikilink")
 
 ### Sister MAYO名義
 
 在Sister MAYO名義的歌曲之中，全部由[Columbia Music
-Entertainment發行](../Page/Columbia_Music_Entertainment.md "wikilink")。
+Entertainment發行](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")。
 
 #### 單曲
 
@@ -37,7 +38,7 @@ Entertainment發行](../Page/Columbia_Music_Entertainment.md "wikilink")。
   -
     c/w：ふしぎなジャングル（歌：ジャック・伝ヨール）
     2001年5月19日
-    動畫『[熱帶雨林的爆笑生活](../Page/熱帶雨林的爆笑生活.md "wikilink")』片頭曲
+    動畫『[熱帶雨林的爆笑生活](https://zh.wikipedia.org/wiki/熱帶雨林的爆笑生活 "wikilink")』片頭曲
 
 <!-- end list -->
 
@@ -81,7 +82,7 @@ Entertainment發行](../Page/Columbia_Music_Entertainment.md "wikilink")。
   -
     c/w：小さな勲章
     2006年9月20日
-    動畫『[パッタ・ポッタ・モン太](../Page/パッタ・ポッタ・モン太.md "wikilink")』片頭曲及片尾曲
+    動畫『[パッタ・ポッタ・モン太](https://zh.wikipedia.org/wiki/パッタ・ポッタ・モン太 "wikilink")』片頭曲及片尾曲
 
 <!-- end list -->
 
@@ -92,12 +93,12 @@ Entertainment發行](../Page/Columbia_Music_Entertainment.md "wikilink")。
   -
     c/w：しずくの森からこんにちは
     2006年11月22日
-    動畫『[ぷるるんっ\!しずくちゃん](../Page/ぷるるんっ!しずくちゃん.md "wikilink")』片頭曲及片尾曲
+    動畫『[ぷるるんっ\!しずくちゃん](https://zh.wikipedia.org/wiki/ぷるるんっ!しずくちゃん "wikilink")』片頭曲及片尾曲
 
 #### 其他
 
   - 動畫『[Master Mosquiton
-    '99](../Page/Master_Mosquiton_'99.md "wikilink")』音樂大辭典Vol.3～ALL
+    '99](https://zh.wikipedia.org/wiki/Master_Mosquiton_'99 "wikilink")』音樂大辭典Vol.3～ALL
     SONGS\&EXTRA BGM～
 
 <!-- end list -->
@@ -129,7 +130,7 @@ Entertainment發行](../Page/Columbia_Music_Entertainment.md "wikilink")。
 
 <!-- end list -->
 
-  - 動畫『[ぷるるんっ\!しずくちゃん](../Page/ぷるるんっ!しずくちゃん.md "wikilink")』Song
+  - 動畫『[ぷるるんっ\!しずくちゃん](https://zh.wikipedia.org/wiki/ぷるるんっ!しずくちゃん "wikilink")』Song
     Collection しずくの森のヒットパレード\!\!
 
 <!-- end list -->

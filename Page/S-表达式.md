@@ -1,7 +1,8 @@
 [Corrected_S-expression_tree_2.png](https://zh.wikipedia.org/wiki/File:Corrected_S-expression_tree_2.png "fig:Corrected_S-expression_tree_2.png")
-[data structure](../Page/data_structure.md "wikilink") representing the
-s-expression for `(* 2 (+ 3 4))` \]\]
-所谓“S-[表达式](../Page/表达式.md "wikilink")/[運算式](../Page/運算式.md "wikilink")”（S-expression）或“sexp”（其中“S”代表“符号的”），是指一种以人类可读的文本形式表达[半结构化数据的约定](../Page/半结构化数据.md "wikilink")。S-表达式可能以其在[Lisp家族的编程语言中的使用而为人所知](../Page/Lisp.md "wikilink")。其他应用则见于由Lisp衍生的语言，如，以及如[IMAP之类通信协议中作为标记出现和](../Page/Internet_Message_Access_Protocol.md "wikilink")[约翰·麦卡锡的](../Page/约翰·麦卡锡.md "wikilink")。语法细节和所支持的数据类型虽因语言而异，但这些语言间最通用的特性则是使用S-表达式作为括号化的前缀表示法（有时亦作剑桥[波兰表示法](../Page/波兰表示法.md "wikilink")）。
+[data
+structure](https://zh.wikipedia.org/wiki/data_structure "wikilink")
+representing the s-expression for `(* 2 (+ 3 4))` \]\]
+所谓“S-[表达式](https://zh.wikipedia.org/wiki/表达式 "wikilink")/[運算式](https://zh.wikipedia.org/wiki/運算式 "wikilink")”（S-expression）或“sexp”（其中“S”代表“符号的”），是指一种以人类可读的文本形式表达[半结构化数据的约定](https://zh.wikipedia.org/wiki/半结构化数据 "wikilink")。S-表达式可能以其在[Lisp家族的编程语言中的使用而为人所知](https://zh.wikipedia.org/wiki/Lisp "wikilink")。其他应用则见于由Lisp衍生的语言，如，以及如[IMAP之类通信协议中作为标记出现和](https://zh.wikipedia.org/wiki/Internet_Message_Access_Protocol "wikilink")[约翰·麦卡锡的](../Page/约翰·麦卡锡.md "wikilink")。语法细节和所支持的数据类型虽因语言而异，但这些语言间最通用的特性则是使用S-表达式作为括号化的前缀表示法（有时亦作剑桥[波兰表示法](../Page/波兰表示法.md "wikilink")）。
 
 ## 數據類型和語法
 
@@ -21,8 +22,8 @@ Expressions
 S-表达式的解释器，以 S-表达式编码 M-表达式，而Lisp程序员很快习惯于对代码和数据都使用 S-表达式。
 
 S-表达式可以是如数字这样的单个对象，包括特殊原子`nil`和`t`在内的，或写作 `(x . y)`的[cons
-pair](../Page/列表構造函數.md "wikilink")。更长的列表则由嵌套的cons pair组成，例如`(1 . (2 .
-(3 . nil)))`（，亦可写作更易理解的`(1 2 3)`）。
+pair](https://zh.wikipedia.org/wiki/列表構造函數 "wikilink")。更长的列表则由嵌套的cons
+pair组成，例如`(1 . (2 . (3 . nil)))`（，亦可写作更易理解的`(1 2 3)`）。
 
 使用前缀表示法，程序代码可写作
 S-表达式。书写Lisp程序中额外的[语法糖则是](../Page/语法糖.md "wikilink")，一般的表达式`(quote
@@ -116,11 +117,12 @@ S-表达式，另一种交换格式“canonical presentation”仅允许逐字�
 
 ## 相关条目
 
-  - [M-表达式](../Page/M-表达式.md "wikilink")
+  - [M-表达式](https://zh.wikipedia.org/wiki/M-表达式 "wikilink")
 
-  - [CAR and CDR](../Page/:en:CAR_and_CDR.md "wikilink")
+  - [CAR and
+    CDR](https://zh.wikipedia.org/wiki/:en:CAR_and_CDR "wikilink")
 
-  - [列表構造函數](../Page/列表構造函數.md "wikilink")
+  - [列表構造函數](https://zh.wikipedia.org/wiki/列表構造函數 "wikilink")
 
   -
 ## 外部链接
@@ -130,7 +132,7 @@ S-表达式，另一种交换格式“canonical presentation”仅允许逐字�
   - [sfsexp](http://sexpr.sourceforge.net/) 小且快速的“s表达式”库（C/C++）
   - [minilisp](http://leon.bottou.org/projects/minilisp), by Léon
     Bottou.
-  - [libcurie](http://becquerel.org/curie)一个小的[libc替换](../Page/libc.md "wikilink"),依赖“s表达式”。
+  - [libcurie](http://becquerel.org/curie)一个小的[libc替换](https://zh.wikipedia.org/wiki/libc "wikilink"),依赖“s表达式”。
 
 [Category:LISP程式語言](https://zh.wikipedia.org/wiki/Category:LISP程式語言 "wikilink")
 [Category:数据序列化格式](https://zh.wikipedia.org/wiki/Category:数据序列化格式 "wikilink")

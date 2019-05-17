@@ -1,6 +1,6 @@
 是一款在[PlayStation
-Portable平臺上的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。它是[皇牌空戰系列中的第七作](../Page/皇牌空戰系列.md "wikilink")，也是本系列第一作出現在[PlayStation
-Portable系統里面](../Page/PlayStation_Portable.md "wikilink")，和本系列第二次在[便攜式遊戲機上出現的作品](../Page/便攜式遊戲機.md "wikilink")。它在[美國于](../Page/美國.md "wikilink")2006年10月24日首次發行。
+Portable平臺上的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。它是[皇牌空戰系列中的第七作](https://zh.wikipedia.org/wiki/皇牌空戰系列 "wikilink")，也是本系列第一作出現在[PlayStation
+Portable系統里面](../Page/PlayStation_Portable.md "wikilink")，和本系列第二次在[便攜式遊戲機上出現的作品](https://zh.wikipedia.org/wiki/便攜式遊戲機 "wikilink")。它在[美國于](https://zh.wikipedia.org/wiki/美國 "wikilink")2006年10月24日首次發行。
 
 ## 故事劇情
 

@@ -1,9 +1,9 @@
 **SoulJa**（）是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[說唱](../Page/饒舌.md "wikilink")（Rap）歌手。2007年，日本環球唱片與他簽約，分屬G.P.R事務所。SoulJa
-原名中野和雄，母親是[比利時人](../Page/比利時.md "wikilink")。
+原名中野和雄，母親是[比利時人](https://zh.wikipedia.org/wiki/比利時 "wikilink")。
 
 ## 唱片目錄
 
-### [單曲](../Page/單曲.md "wikilink")
+### [單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")
 
 1.  DOGG POUND（2007年2月28日）
 
@@ -19,7 +19,7 @@
 
 7.  （2010年4月14日）
 
-### [專輯](../Page/專輯.md "wikilink")
+### [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")
 
 1.  First Contact（2005年11月1日）
 2.  First Contact (2nd)（2006年1月11日）

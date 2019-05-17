@@ -1,5 +1,5 @@
 **Eiffel 65**
-是一支来自[意大利城市](../Page/意大利.md "wikilink")[都灵的](../Page/都灵.md "wikilink")3人音乐组合。他们主要以[电子乐](../Page/电子乐.md "wikilink")、[eurodance](../Page/eurodance.md "wikilink")、[italodance的风格为主](../Page/italodance.md "wikilink")。最为有名的曲目是：《Blue
+是一支来自[意大利城市](../Page/意大利.md "wikilink")[都灵的](../Page/都灵.md "wikilink")3人音乐组合。他们主要以[电子乐](../Page/电子乐.md "wikilink")、[eurodance](https://zh.wikipedia.org/wiki/eurodance "wikilink")、[italodance的风格为主](https://zh.wikipedia.org/wiki/italodance "wikilink")。最为有名的曲目是：《Blue
 (Da Ba Dee)》。
 
 ## 成员
@@ -51,7 +51,7 @@
   - *Eiffel 65*（2003年6月）
   - *Eiffel 65 - Special Edition*（2004年3月）
   - *Crash Test 01*（2006年10月）- als [Bloom
-    06](../Page/Bloom_06.md "wikilink")
+    06](https://zh.wikipedia.org/wiki/Bloom_06 "wikilink")
 
 ## 专辑排行
 

@@ -1,5 +1,5 @@
 **金肉人二世**（**** Kinnikuman
-Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[蚵仔煎](../Page/Yudetamago.md "wikilink")（）的[漫畫作品](../Page/漫畫.md "wikilink")、亦是原作與[動畫作品及](../Page/動畫.md "wikilink")[主角的名字](../Page/主角.md "wikilink")。
+Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[蚵仔煎](https://zh.wikipedia.org/wiki/Yudetamago "wikilink")（）的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、亦是原作與[動畫作品及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主角的名字](https://zh.wikipedia.org/wiki/主角 "wikilink")。
 
 《[金肉人](../Page/金肉人.md "wikilink")》連載完後多年，作者蚵仔煎於1998年在[集英社的青年雜誌](../Page/集英社.md "wikilink")《週刊Playboy》上開始連載金肉人二世至今。
 
@@ -38,7 +38,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    金肉人一世，金肉萬太郎的[爸爸](../Page/爸爸.md "wikilink")。
+    金肉人一世，金肉萬太郎的[爸爸](https://zh.wikipedia.org/wiki/爸爸 "wikilink")。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    雷克斯人和將軍人的[師父](../Page/師父.md "wikilink")。
+    雷克斯人和將軍人的[師父](https://zh.wikipedia.org/wiki/師父 "wikilink")。
 
 <!-- end list -->
 
@@ -100,7 +100,8 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 
 <!-- end list -->
 
-  - **[瞪羚人](../Page/瞪羚.md "wikilink")**(Gazelleman)( Gazeruman)
+  - **[瞪羚人](https://zh.wikipedia.org/wiki/瞪羚 "wikilink")**(Gazelleman)(
+    Gazeruman)
 
 <!-- end list -->
 
@@ -132,7 +133,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    特徵是果凍身體，手部能變成劍，胸前能變成[凸透鏡](../Page/凸透鏡.md "wikilink")，也能變身成[烏賊和](../Page/烏賊.md "wikilink")[水母等](../Page/水母.md "wikilink")[軟體動物](../Page/軟體動物.md "wikilink")。
+    特徵是果凍身體，手部能變成劍，胸前能變成[凸透鏡](https://zh.wikipedia.org/wiki/凸透鏡 "wikilink")，也能變身成[烏賊和](https://zh.wikipedia.org/wiki/烏賊 "wikilink")[水母等](../Page/水母.md "wikilink")[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")。
 
 <!-- end list -->
 
@@ -141,7 +142,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    全身都是[交通標誌](../Page/交通標誌.md "wikilink")，還可以旋轉成圓鋸。
+    全身都是[交通標誌](https://zh.wikipedia.org/wiki/交通標誌 "wikilink")，還可以旋轉成圓鋸。
 
 <!-- end list -->
 
@@ -196,7 +197,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    萬太郎的[女友](../Page/女友.md "wikilink")。時常對萬太郎的花心感到不滿，內心有點暗戀傑德。
+    萬太郎的[女友](https://zh.wikipedia.org/wiki/女友 "wikilink")。時常對萬太郎的花心感到不滿，內心有點暗戀傑德。
 
 <!-- end list -->
 
@@ -240,7 +241,8 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 
 <!-- end list -->
 
-  - **[行動電話人](../Page/行動電話.md "wikilink")**(Tel-Tel Boy)( Teru Teru Bōi)
+  - **[行動電話人](https://zh.wikipedia.org/wiki/行動電話 "wikilink")**(Tel-Tel
+    Boy)( Teru Teru Bōi)
 
 <!-- end list -->
 
@@ -274,7 +276,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    [西洋棋化身的惡行超人](../Page/西洋棋.md "wikilink")，萬太郎於魔鬼工廠之戰的最後一位對手。初登場態度頗為囂張，還對其師父陽光人直接拳打腳踢，令在場觀眾甚至連小孩子都看不下去。被萬太郎擊敗後，陽光人將他帶離治療，直到萬太郎與目中無人三人組的第一場對戰時再度出現，不過此時的他早已改邪歸正，變成正義超人，並時常待在萬太郎一行人身邊。與最兇惡行超人軍的第二戰時還中途干涉，幫忙瞪羚人與海象人對付彈力勇士與青蛙鬥士。
+    [西洋棋化身的惡行超人](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")，萬太郎於魔鬼工廠之戰的最後一位對手。初登場態度頗為囂張，還對其師父陽光人直接拳打腳踢，令在場觀眾甚至連小孩子都看不下去。被萬太郎擊敗後，陽光人將他帶離治療，直到萬太郎與目中無人三人組的第一場對戰時再度出現，不過此時的他早已改邪歸正，變成正義超人，並時常待在萬太郎一行人身邊。與最兇惡行超人軍的第二戰時還中途干涉，幫忙瞪羚人與海象人對付彈力勇士與青蛙鬥士。
     能按下雙肩上的西洋棋按鈕變成馬匹及城堡；變成馬匹時能展開強大的踢擊力；變成城堡時擁有絕佳的防禦力，而且還能使身體分裂、壓制住敵人，必殺技是藉由同時按下雙肩上的西洋棋按鈕變成城堡人馬所使出的「駿馬榮譽攻擊」。
 
 #### 目中無人三人組（NO RESPECT）
@@ -360,7 +362,7 @@ Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.m
 <!-- end list -->
 
   -
-    萬太郎的對手，平時外表看似[魔術師](../Page/魔術師.md "wikilink")。是最兇惡行超人軍中的最強者，擁有隱形能力及超快移動速度，還可以二度進化，進化之後不僅實力同時跟著增強，就連體型也會跟著變大，一度把萬太郎打到昏迷不醒，必殺技是「巴隆龍捲風」。
+    萬太郎的對手，平時外表看似[魔術師](https://zh.wikipedia.org/wiki/魔術師 "wikilink")。是最兇惡行超人軍中的最強者，擁有隱形能力及超快移動速度，還可以二度進化，進化之後不僅實力同時跟著增強，就連體型也會跟著變大，一度把萬太郎打到昏迷不醒，必殺技是「巴隆龍捲風」。
 
 <table>
 <thead>

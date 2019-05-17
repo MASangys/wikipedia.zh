@@ -1,6 +1,6 @@
 [Boeing_737-300_TNT.jpg](https://zh.wikipedia.org/wiki/File:Boeing_737-300_TNT.jpg "fig:Boeing_737-300_TNT.jpg")的波音737-300\]\]
 
-**ASL比利時航空**，前身為TNT航空，是貨物和搭載乘客的[包機航空](../Page/包機.md "wikilink")，樞紐在[比利時的](../Page/比利時.md "wikilink")[列日](../Page/列日.md "wikilink")。於1999年由[TNT集团成立](../Page/TNT集团.md "wikilink")。這也是[TNT快递的一部分](../Page/TNT快递.md "wikilink")。TNT航空每天有超過67個貨物航線到各地機場
+**ASL比利時航空**，前身為TNT航空，是貨物和搭載乘客的[包機航空](../Page/包機.md "wikilink")，樞紐在[比利時的](https://zh.wikipedia.org/wiki/比利時 "wikilink")[列日](../Page/列日.md "wikilink")。於1999年由[TNT集团成立](../Page/TNT集团.md "wikilink")。這也是[TNT快递的一部分](https://zh.wikipedia.org/wiki/TNT快递 "wikilink")。TNT航空每天有超過67個貨物航線到各地機場
 。在2004年5月他們開始操作乘客包機服務。
 
 ## 機隊
@@ -16,7 +16,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/空中巴士A300.md" title="wikilink">空中巴士A300B4-200F</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/空中巴士A300" title="wikilink">空中巴士A300B4-200F</a></p></td>
 <td><div style='text-align: center;'>
 <p>6</p>
 </div></td>
@@ -24,7 +24,7 @@
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BAe_146.md" title="wikilink">BAe 146-200QT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BAe_146" title="wikilink">BAe 146-200QT</a></p></td>
 <td><div style='text-align: center;'>
 <p>9</p>
 </div></td>
@@ -32,7 +32,7 @@
 </div></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/BAe_146.md" title="wikilink">BAe 146-200QC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BAe_146" title="wikilink">BAe 146-200QC</a></p></td>
 <td><div style='text-align: center;'>
 <p>2</p>
 </div></td>
@@ -40,7 +40,7 @@
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/BAe_146.md" title="wikilink">BAe 146-300QT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BAe_146" title="wikilink">BAe 146-300QT</a></p></td>
 <td><div style='text-align: center;'>
 <p>8</p>
 </div></td>
@@ -72,7 +72,7 @@
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/波音747-400.md" title="wikilink">波音747-400ERF</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波音747-400" title="wikilink">波音747-400ERF</a></p></td>
 <td><div style='text-align: center;'>
 <p>4</p>
 </div></td>
@@ -89,16 +89,16 @@
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Tu-204.md" title="wikilink">圖波列夫204-120C</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tu-204" title="wikilink">圖波列夫204-120C</a></p></td>
 <td><div style='text-align: center;'>
 <p>2</p>
 </div></td>
 <td><div style='text-align: center;'>
-<p>從<a href="../Page/開羅航空.md" title="wikilink">開羅航空租借</a></p>
+<p>從<a href="https://zh.wikipedia.org/wiki/開羅航空" title="wikilink">開羅航空租借</a></p>
 </div></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/波音777.md" title="wikilink">波音777-FHT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波音777" title="wikilink">波音777-FHT</a></p></td>
 <td></td>
 <td></td>
 </tr>

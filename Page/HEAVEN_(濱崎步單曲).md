@@ -2,7 +2,8 @@
 
 2007年2月28日发售《[A BEST
 2](../Page/A_BEST_2.md "wikilink")》时特别架设的网站上举办了人气投票，《HEAVEN》是人气投票中的亞军，亦爲《[A
-BEST 2 -BLACK-](../Page/A_BEST_2_-BLACK-.md "wikilink")》收錄曲中的冠軍。\[1\]
+BEST 2
+-BLACK-](https://zh.wikipedia.org/wiki/A_BEST_2_-BLACK- "wikilink")》收錄曲中的冠軍。\[1\]
 
 ## 收錄歌曲
 
@@ -19,7 +20,8 @@ BEST 2 -BLACK-](../Page/A_BEST_2_-BLACK-.md "wikilink")》收錄曲中的冠軍�
         作曲：[CREA](../Page/CREA.md "wikilink") +
         [D・A・I](../Page/長尾大.md "wikilink")／編曲：tasuku
         Panasonic「LUMIX FX9」廣告歌曲 (由本人演出)
-3.  **[alterna](../Page/fairyland.md "wikilink") "Orchestra Version"**
+3.  **[alterna](https://zh.wikipedia.org/wiki/fairyland "wikilink")
+    "Orchestra Version"**
 4.  **HEAVEN "Piano Version"**
 5.  **HEAVEN "Original Mix -Instrumental-"**
 6.  **Will "Original Mix -Instrumental-"**

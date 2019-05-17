@@ -19,17 +19,17 @@
 <thead>
 <tr class="header">
 <th><p>編號</p></th>
-<th><p><a href="../Page/姓名.md" title="wikilink">姓名</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/姓名" title="wikilink">姓名</a></p></th>
 <th><p>軍團</p></th>
 <th><p>等級</p></th>
 <th><p>屬性</p></th>
-<th><p><a href="../Page/年齡.md" title="wikilink">年齡</a></p></th>
-<th><p><a href="../Page/性別.md" title="wikilink">性別</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/年齡" title="wikilink">年齡</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/性別" title="wikilink">性別</a></p></th>
 <th><p><a href="../Page/速度.md" title="wikilink">速度</a></p></th>
 <th><p>修正值</p></th>
-<th><p><a href="../Page/左.md" title="wikilink">左</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/左" title="wikilink">左</a></p></th>
 <th><p><a href="../Page/天空.md" title="wikilink">天</a></p></th>
-<th><p><a href="../Page/右.md" title="wikilink">右</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/右" title="wikilink">右</a></p></th>
 <th><p>珍貴度</p></th>
 <th><p>章</p></th>
 </tr>
@@ -472,7 +472,7 @@
 </tr>
 <tr class="even">
 <td><p>S134</p></td>
-<td><p><a href="../Page/拉比.md" title="wikilink">拉比</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉比" title="wikilink">拉比</a></p></td>
 <td><p>–</p></td>
 <td><p>LV2</p></td>
 <td><p>貝</p></td>
@@ -1673,7 +1673,7 @@
 </tr>
 <tr class="odd">
 <td><p>S215</p></td>
-<td><p><a href="../Page/火影.md" title="wikilink">火影</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火影" title="wikilink">火影</a></p></td>
 <td><p>影忍軍</p></td>
 <td><p>LV6</p></td>
 <td><p>火</p></td>

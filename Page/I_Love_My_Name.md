@@ -1,9 +1,9 @@
 
 
 **《I Love My
-Name》**是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](../Page/王菀之.md "wikilink")[粵語](../Page/粵語.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，與其首張[EP](../Page/EP.md "wikilink")《[Ivana](../Page/Ivana.md "wikilink")》同樣是以代表王菀之的小鳥圖案作封面設計，發行日期為2005年11月11日。《I
+Name》**是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，與其首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《[Ivana](../Page/Ivana.md "wikilink")》同樣是以代表王菀之的小鳥圖案作封面設計，發行日期為2005年11月11日。《I
 Love My
-Name》AVCD於2006年3月發行，於[豐澤電器隨](../Page/豐澤電器.md "wikilink")[Motorola](../Page/Motorola.md "wikilink")
+Name》AVCD於2006年3月發行，於[豐澤電器隨](../Page/豐澤電器.md "wikilink")[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")
 A732手機贈送。大碟名稱來自歌曲《多得你夢》的其中一句歌詞。
 專輯中收錄了十一首歌，全部歌曲均由王菀之作曲作詞。《雷電》的法文demo在其首張個人專輯《[Ivana](../Page/Ivana.md "wikilink")》裡以Hidden
 Track形式收錄，已於此大碟正式推出歌曲的廣東版full version。《多得你夢》是王菀之為服裝品牌Heroic Rendezvous
@@ -26,15 +26,17 @@ Track形式收錄，已於此大碟正式推出歌曲的廣東版full version。
   - [柳重言](../Page/柳重言.md "wikilink") – 編曲 <small>(6、9-10)</small>
   - 馮志麗 – 作詞 <small>(6)</small>
   - 褚鎮東 – 編曲 <small>(6)</small>
-  - [劉志遠](../Page/劉志遠.md "wikilink") – 編曲 <small>(8)</small>、鍵盤
-    <small>(8)</small>、電腦程式 <small>(8)</small>、所有樂器 <small>(8)</small>
+  - [劉志遠](https://zh.wikipedia.org/wiki/劉志遠 "wikilink") – 編曲
+    <small>(8)</small>、鍵盤 <small>(8)</small>、電腦程式
+    <small>(8)</small>、所有樂器 <small>(8)</small>
   - 符元偉 – 編曲 <small>(9)</small>
-  - [張敬軒](../Page/張敬軒.md "wikilink") – 主音 <small>(11)</small>
+  - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") – 主音
+    <small>(11)</small>
   - Anthony Chue – 額外電腦程式 <small>(6)</small>
   - Ronald Fu – 吉他 <small>(9)</small>
   - Jim – 鍵盤 <small>(6、9)</small>、電腦程式 <small>(6、9)</small>、吉他
     <small>(6、9)</small>
-  - [C.Y. Kong](../Page/C.Y._Kong.md "wikilink") – 編曲
+  - [C.Y. Kong](https://zh.wikipedia.org/wiki/C.Y._Kong "wikilink") – 編曲
     <small>(4)</small>、鍵盤 <small>(4)</small>、所有樂器 <small>(4)</small>
   - Anna Kwan – 大提琴 <small>(6、9)</small>、弦樂 <small>(10)</small>
   - Danny Leung – 吉他 <small>(10)</small>
@@ -117,7 +119,8 @@ Track形式收錄，已於此大碟正式推出歌曲的廣東版full version。
 
 ## 得獎紀錄
 
-  - [SINA Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")
+  - [SINA
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
     2005「最佳現場演繹大獎」《手望(守望版)》
   - 廣州9+2音樂先鋒榜2005年度頒獎典禮「最佳對唱歌曲獎」《手望(守望版)》
   - 第六屆全球華語歌曲排行榜頒獎典禮「最受歡迎對唱金曲獎」《手望(守望版)》

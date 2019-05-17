@@ -1,42 +1,47 @@
 **HTC
-Phoebus**，是台灣[宏達電公司所推出的](../Page/宏達電.md "wikilink")[智慧型手機](../Page/智慧型手機.md "wikilink")，其中T-Mobile
+Phoebus**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，其中T-Mobile
 Shadow搭載微軟Windows Mobile 6，採用客制化的Neo介面，所有設計均由微軟亞洲設計中心（ATC
 Studios）完成。設計師朱印（Robin Zhu）為主導設計師。2007年10月首度發表。客製版本Dopod
 C750，T-Mobile Shadow。
 
 ## T-Mobile Shadow技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：TI OMAP850 201MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：Windows Mobile 6.0
-    Standard，客制化Neo介面
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：256MB，RAM：128MB
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：TI OMAP850
+    201MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows Mobile
+    6.0 Standard，客制化Neo介面
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：256MB，RAM：128MB
   - 尺寸：105mm X 54mm X 15mm
   - 重量：150g（含電池）
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.6 吋 TFT-LCD 螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.6 吋
+    TFT-LCD 螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")：IEEE 802.11 b/g
   - [藍牙](../Page/藍牙.md "wikilink")：Bluetooth 2.0
-  - [相機](../Page/相機.md "wikilink")：200萬畫素相機，支援自動對焦功能
-  - [電池](../Page/電池.md "wikilink")：920mAh充電式鋰或鋰聚合物電池
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：200萬畫素相機，支援自動對焦功能
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：920mAh充電式鋰或鋰聚合物電池
 
 ## Dopod C750技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：TI OMAP850 201MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：Windows Mobile 6.0 Standard
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：128MB，RAM：64MB
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：TI OMAP850
+    201MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows Mobile
+    6.0 Standard
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：128MB，RAM：64MB
   - 尺寸：103mm X 52mm X 15.5mm
   - 重量：150g（含電池）
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.6 吋 TFT-LCD 螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.6 吋
+    TFT-LCD 螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/GPRS/EDGE/WCDMA/HSDPA
   - [藍牙](../Page/藍牙.md "wikilink")：Bluetooth 2.0
-  - [相機](../Page/相機.md "wikilink")：200萬畫素相機，支援自動對焦功能
-  - [電池](../Page/電池.md "wikilink")：920mAh充電式鋰或鋰聚合物電池
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：200萬畫素相機，支援自動對焦功能
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：920mAh充電式鋰或鋰聚合物電池
 
 ## 參見
 
-  - [HTC](../Page/HTC.md "wikilink")
+  - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [Qtek](../Page/Qtek.md "wikilink")
-  - [Dopod](../Page/Dopod.md "wikilink")
+  - [Dopod](https://zh.wikipedia.org/wiki/Dopod "wikilink")
   - [TouchFLO](../Page/TouchFLO.md "wikilink")
 
 ## 外部連結

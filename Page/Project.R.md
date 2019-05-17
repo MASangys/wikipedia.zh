@@ -1,6 +1,6 @@
-**Project.R**（）是[日本的](../Page/日本.md "wikilink")[樂隊](../Page/樂隊.md "wikilink")，2008年結成。他們主要作的是2000年代末至今的[超級戰隊系列](../Page/超級戰隊系列.md "wikilink")[特攝主題曲](../Page/特攝.md "wikilink")。現在他們是[Columbia
+**Project.R**（）是[日本的](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，2008年結成。他們主要作的是2000年代末至今的[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[特攝主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")。現在他們是[Columbia
 Music
-Entertainment属下的其餘藝人之一](../Page/Columbia_Music_Entertainment.md "wikilink")。
+Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")。
 
 而Project.R的「R」字頭，即是代表「連者」（Ranger）的意思。
 
@@ -9,13 +9,14 @@ Entertainment属下的其餘藝人之一](../Page/Columbia_Music_Entertainment.m
 ### 歌手
 
   - **高橋秀幸**（たかはし ひでゆき、1973年4月12日 - ）
-      - [山形縣出身](../Page/山形縣.md "wikilink")。他是所屬的藝人。
+      - [山形縣出身](https://zh.wikipedia.org/wiki/山形縣 "wikilink")。他是所屬的藝人。
   - **[谷本貴義](../Page/谷本貴義.md "wikilink")**（たにもと たかよし、1975年4月14日 - ）
       - 他是『[獸拳戰隊激氣連者](../Page/獸拳戰隊激氣連者.md "wikilink")』（2007年）的片頭曲及插曲「高みの空へ」的主唱。
   - **[Sister MAYO](../Page/Sister_MAYO.md "wikilink")**（7月26日-）
       - 原名**澤田雅世**，是日本搖滾組合[X
-        JAPAN貝斯手](../Page/X_JAPAN.md "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。她是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』（2005年）片尾曲「呪文降臨～マジカル・フォース」的主唱。
-  - **[NoB](../Page/NoB.md "wikilink")**（1964年1月20日 - ）
+        JAPAN貝斯手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[澤田泰司的妹妹](../Page/澤田泰司.md "wikilink")。她是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』（2005年）片尾曲「呪文降臨～マジカル・フォース」的主唱。
+  - **[NoB](https://zh.wikipedia.org/wiki/NoB "wikilink")**（1964年1月20日 -
+    ）
       - 原名**山田信夫**，他是『[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")』的片頭曲主唱。
   - **[岩崎貴文](../Page/岩崎貴文.md "wikilink")**（いわさき たかふみ、1976年8月29日 - ）
       - 他是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』的片頭曲主唱。
@@ -23,46 +24,49 @@ Entertainment属下的其餘藝人之一](../Page/Columbia_Music_Entertainment.m
       - 他是『[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")』（2002年）的片頭曲「ハリケンジャー参上！」主唱。
   - **[五條真由美](../Page/五條真由美.md "wikilink")**（ごじょう まゆみ、1972年2月12日 - ）
       - 她是『[魔法戰隊魔法連者](../Page/魔法戰隊魔法連者.md "wikilink")』的插曲「永遠に・・・」的主唱。
-  - **[IMAJO](../Page/IMAJO.md "wikilink")** （1977年1月18日 - ）
+  - **[IMAJO](https://zh.wikipedia.org/wiki/IMAJO "wikilink")**
+    （1977年1月18日 - ）
       - 原名**今城龍寛**，他是[PSYCHIC
         LOVER的吉他手和主音](../Page/PSYCHIC_LOVER.md "wikilink")。
-  - **[YOFFY](../Page/YOFFY.md "wikilink")**（10月11日 - ）
+  - **[YOFFY](https://zh.wikipedia.org/wiki/YOFFY "wikilink")**（10月11日 -
+    ）
       - 原名**和田よしゆき**，他是[PSYCHIC
         LOVER的主音](../Page/PSYCHIC_LOVER.md "wikilink")。主唱『特搜戰隊刑事連者』（2004年）的片頭曲及『轟轟戰隊冒險者』的片尾曲「冒險者
         ON THE ROAD」。
   - **[松原剛志](../Page/松原剛志.md "wikilink")**（まつばら つよし、1979年1月2日 - ）
       - 2009年加入，他是樂隊[Project
-        DMM的成員](../Page/Project_DMM.md "wikilink")，主唱『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』插曲「六人の侍」及『[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")』（2011年）的片頭曲。
+        DMM的成員](https://zh.wikipedia.org/wiki/Project_DMM "wikilink")，主唱『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』插曲「六人の侍」及『[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")』（2011年）的片頭曲。
   - **押谷沙樹**
       - 2011年加入，她是『[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")』角色歌曲的作曲。在Project.R中是『[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")』（2011年）片尾曲的主唱之一。
 
 ### 作詞家／作曲家
 
   - **Mike Sugiyama**
-      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE屬下的動畫作曲家及編曲家](../Page/IMAGINE.md "wikilink")。
-  - **[大石憲一郎](../Page/大石憲一郎.md "wikilink")**（おおいし けんいちろう、1973年9月14日－）
-      - [静岡縣出身](../Page/静岡縣.md "wikilink")。他是90年代中期著名的作曲家、編曲家、吉他手和鼓手。
+      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE屬下的動畫作曲家及編曲家](https://zh.wikipedia.org/wiki/IMAGINE "wikilink")。
+  - **[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")**（おおいし
+    けんいちろう、1973年9月14日－）
+      - [静岡縣出身](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")。他是90年代中期著名的作曲家、編曲家、吉他手和鼓手。
   - **宮葉勝行**（みやば かつゆき、1964年6月27日 - ）
-      - [東京都](../Page/東京都.md "wikilink")[杉並區出身](../Page/杉並區.md "wikilink")，[早稻田大學文學部畢業](../Page/早稻田大學.md "wikilink")。他是90年代及2000年代著名的作曲家及編曲家。在2011年加入。
+      - [東京都](../Page/東京都.md "wikilink")[杉並區出身](../Page/杉並區.md "wikilink")，[早稻田大學文學部畢業](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")。他是90年代及2000年代著名的作曲家及編曲家。在2011年加入。
   - **[大橋惠](../Page/大橋惠.md "wikilink")**（おおはし めぐみ、1975年3月2日－）
-      - 她是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](../Page/羽田健太郎.md "wikilink")
+      - 她是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")
         Healthy Wings」成員合作。她也是[Face
-        Music屬下的動畫作曲家及編曲家](../Page/Face_Music.md "wikilink")。
+        Music屬下的動畫作曲家及編曲家](https://zh.wikipedia.org/wiki/Face_Music "wikilink")。
   - **高木洋**
-      - 2010年加入，他是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](../Page/羽田健太郎.md "wikilink")
+      - 2010年加入，他是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的作曲者，曾與「[羽田健太郎with](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")
         Healthy Wings」成員合作。
   - **籠島裕昌**（かごしま ひろし、1966年7月21日-）
       - [神奈川縣出身](../Page/神奈川縣.md "wikilink")。以前他是『[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")』的主題曲編曲家。他也是與高取秀明共同合作的「Z旗」演奏家。
   - **[三宅一德](../Page/三宅一德.md "wikilink")**
       - 2010年加入，以前他是『[激走戰隊車連者](../Page/激走戰隊車連者.md "wikilink")』的插入曲作曲家。
   - **[山下康介](../Page/山下康介.md "wikilink")**
-      - 2011年加入，以前他是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的背景音樂，與「[羽田健太郎with](../Page/羽田健太郎.md "wikilink")
+      - 2011年加入，以前他是『[爆龍戰隊暴連者](../Page/爆龍戰隊暴連者.md "wikilink")』的背景音樂，與「[羽田健太郎with](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")
         Healthy Wings」成員合作。
-  - **[龜山耕一郎](../Page/龜山耕一郎.md "wikilink")**
-      - 2011年加入，以前他是『[激走戰隊車連者](../Page/激走戰隊車連者.md "wikilink")』、『[未來戰隊時連者](../Page/未來戰隊時連者.md "wikilink")』及『[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")』的背景音樂、作曲家及編曲家。
-  - **[鈴木盛廣](../Page/鈴木盛廣.md "wikilink")**
+  - **[龜山耕一郎](https://zh.wikipedia.org/wiki/龜山耕一郎 "wikilink")**
+      - 2011年加入，以前他是『[激走戰隊車連者](../Page/激走戰隊車連者.md "wikilink")』、『[未來戰隊時連者](https://zh.wikipedia.org/wiki/未來戰隊時連者 "wikilink")』及『[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")』的背景音樂、作曲家及編曲家。
+  - **[鈴木盛廣](https://zh.wikipedia.org/wiki/鈴木盛廣 "wikilink")**
       - 2011年加入，以前他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的插入曲作曲家、編曲家。
-  - **[Z旗](../Page/Z旗.md "wikilink")**
+  - **[Z旗](https://zh.wikipedia.org/wiki/Z旗 "wikilink")**
       - 高取秀明及籠島裕昌共同屬下的搖滾樂隊。在Project.R中，他們是擔任主題曲、插入曲的歌唱及演奏。
 
 ## 歌曲
@@ -72,13 +76,13 @@ Entertainment属下的其餘藝人之一](../Page/Columbia_Music_Entertainment.m
   - 「炎神戦隊ゴーオンジャー」（片頭曲）
 
 :\* 作詞：[Mike
-Sugiyama](../Page/Mike_Sugiyama.md "wikilink")／作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink")（Project.R）／編曲：Project.R（大石憲一郎、岩崎貴文）／歌：高橋秀幸（Project.R）
+Sugiyama](https://zh.wikipedia.org/wiki/Mike_Sugiyama "wikilink")／作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink")（Project.R）／編曲：Project.R（大石憲一郎、岩崎貴文）／歌：高橋秀幸（Project.R）
 
   - 「炎神ファーストラップ -Type Normal-」（1 - 21話、26話、47 - 49話片尾曲）
 
-:\* 作詞：[八手三郎](../Page/八手三郎.md "wikilink")、Mike
-Sugiyama／作曲・編曲：大石憲一郎（Project.R）／歌：Project.R（谷本貴義、Sister
-MAYO、大石憲一郎）with 炎神キッズ
+:\* 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")、Mike
+Sugiyama／作曲・編曲：大石憲一郎（Project.R）／歌：Project.R（谷本貴義、Sister MAYO、大石憲一郎）with
+炎神キッズ
 
   - 「炎神セカンドラップ -TURBO CUSTOM-」（22話、27 - 30話、32 - 35話、46話片尾曲）
 
@@ -91,14 +95,14 @@ MAYO、大石憲一郎） with 炎神キッズ
 MAYO、大石憲一郎）
 
   - 「炎神フォーメーションラップ -劇場BANG\!
-    Custom-」（[劇場版片頭曲](../Page/炎神戰隊轟音者_BUNBUN!BANBAN!劇場BANG!!.md "wikilink")、25話片尾曲）
+    Custom-」（[劇場版片頭曲](https://zh.wikipedia.org/wiki/炎神戰隊轟音者_BUNBUN!BANBAN!劇場BANG!! "wikilink")、25話片尾曲）
 
 :\* 作詞：Mike Sugiyama／作曲・編曲：大石憲一郎／歌：Project.R with 炎神キッズ
 
   - 「G3プリンセスラップ -PRETTY LOVE☆Limited-」（31話片尾曲、31話・45話插曲）
 
 :\* 作詞：Mike Sugiyama／作曲・編曲：大石憲一郎／
-歌：[G3プリンセス](../Page/G3プリンセス.md "wikilink")（[逢澤莉娜](../Page/逢澤莉娜.md "wikilink")、[杉本有美](../Page/杉本有美.md "wikilink")、[及川奈央](../Page/及川奈央.md "wikilink")）
+歌：[G3プリンセス](https://zh.wikipedia.org/wiki/G3プリンセス "wikilink")（[逢澤莉娜](../Page/逢澤莉娜.md "wikilink")、[杉本有美](../Page/杉本有美.md "wikilink")、[及川奈央](../Page/及川奈央.md "wikilink")）
 
   - 「炎神サードラップ-AERO Dynamic CUSTOM-」（36 - 41話片尾曲）
 
@@ -114,7 +118,7 @@ MAYO、大石憲一郎）with 炎神キッズ
   - 「G5プリンスラップ -BONバイエ★Limited-」（45話片尾曲）
 
 :\* 作詞：Mike
-Sugiyama／作曲・編曲：大石憲一郎／歌：[G5プリンス](../Page/G5プリンス.md "wikilink")（[古原靖久](../Page/古原靖久.md "wikilink")、[片岡信和](../Page/片岡信和.md "wikilink")、[碓井將大](../Page/碓井將大.md "wikilink")、[海老澤健次](../Page/海老澤健次.md "wikilink")、[德山秀典](../Page/德山秀典.md "wikilink")）with
+Sugiyama／作曲・編曲：大石憲一郎／歌：[G5プリンス](https://zh.wikipedia.org/wiki/G5プリンス "wikilink")（[古原靖久](../Page/古原靖久.md "wikilink")、[片岡信和](../Page/片岡信和.md "wikilink")、[碓井將大](../Page/碓井將大.md "wikilink")、[海老澤健次](../Page/海老澤健次.md "wikilink")、[德山秀典](../Page/德山秀典.md "wikilink")）with
 ボンパー（[中川亞紀子](../Page/中川亞紀子.md "wikilink")）
 
   - 「炎神ウィニングラン -Type Formla-」（50話(最終話)片尾曲）
@@ -125,12 +129,12 @@ MAYO、大石憲一郎）with 炎神キッズ
   - 「BANG！BANG！ゴーオンジャー」（插曲）
 
 :\* 作詞：Mike
-Sugiyama／作曲：[古家學](../Page/古家學.md "wikilink")／編曲：[TAKKARATTS](../Page/TAKKARATTS.md "wikilink")／歌：NoB（Project.R）
+Sugiyama／作曲：[古家學](https://zh.wikipedia.org/wiki/古家學 "wikilink")／編曲：[TAKKARATTS](https://zh.wikipedia.org/wiki/TAKKARATTS "wikilink")／歌：NoB（Project.R）
 
   - 「炎神合体！エンジンオー」（插曲）
 
 :\* 作詞：Mike
-Sugiyama／作曲：大橋惠（Project.R）／編曲：Project.R（大橋惠、大石憲一郎）／歌：[石原慎一](../Page/石原慎一.md "wikilink")
+Sugiyama／作曲：大橋惠（Project.R）／編曲：Project.R（大橋惠、大石憲一郎）／歌：[石原慎一](https://zh.wikipedia.org/wiki/石原慎一 "wikilink")
 
   - 「明日もゴーオンジャー」（插曲）
 
@@ -147,7 +151,7 @@ LOVER（Project.R）／歌：PSYCHIC LOVER（Project.R）
   - 「四六時夢中シンケンジャー」（片尾曲）
 
 :\*
-作詞：藤林聖子／作曲：高取秀明／編曲：籠島裕昌（Project.R）／演奏：[Z旗](../Page/Z旗.md "wikilink")／歌：高取秀明（Project.R）
+作詞：藤林聖子／作曲：高取秀明／編曲：籠島裕昌（Project.R）／演奏：[Z旗](https://zh.wikipedia.org/wiki/Z旗 "wikilink")／歌：高取秀明（Project.R）
 
   - 「斗え\!シンケンジャー」（插曲）
 
@@ -156,12 +160,12 @@ LOVER（Project.R）／歌：PSYCHIC LOVER（Project.R）
   - 「侍合体\!シンケンオー」（插曲）
 
 :\*
-作詞：[桑原永江](../Page/桑原永江.md "wikilink")／作曲：[高木洋](../Page/高木洋.md "wikilink")（Project.R）／編曲：Project.R（大石憲一郎）／歌：[串田晃](../Page/串田晃.md "wikilink")
+作詞：[桑原永江](https://zh.wikipedia.org/wiki/桑原永江 "wikilink")／作曲：[高木洋](https://zh.wikipedia.org/wiki/高木洋 "wikilink")（Project.R）／編曲：Project.R（大石憲一郎）／歌：[串田晃](../Page/串田晃.md "wikilink")
 
   - 「モヂカラ大行進」（插曲）
 
 :\* 作詞：藤林聖子／作曲、編曲：鈴木盛廣／歌：[Young
-Fresh](../Page/Young_Fresh.md "wikilink")、高橋秀幸（Project.R）
+Fresh](https://zh.wikipedia.org/wiki/Young_Fresh "wikilink")、高橋秀幸（Project.R）
 
   - 「どこまでもシンケンジャー」（插曲）
 
@@ -192,12 +196,12 @@ Fresh、志葉丈瑠（[松坂桃李](../Page/松坂桃李.md "wikilink")）
   - 「青浪（あおなみ）世直し」（角色歌曲）
 
 :\*
-作詞：藤林聖子／作曲：高取秀明／編曲：[真崎修](../Page/真崎修.md "wikilink")／歌：池波流之介（[相葉弘樹](../Page/相葉弘樹.md "wikilink")）
+作詞：藤林聖子／作曲：高取秀明／編曲：[真崎修](https://zh.wikipedia.org/wiki/真崎修 "wikilink")／歌：池波流之介（[相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink")）
 
   - 「ナデシコ真剣 花吹雪」（角色歌曲）
 
 :\*
-作詞：藤林聖子／作曲：[押谷沙樹](../Page/押谷沙樹.md "wikilink")／編曲：[龜山耕一郎](../Page/龜山耕一郎.md "wikilink")／歌：白石茉子（[高梨臨](../Page/高梨臨.md "wikilink")）
+作詞：藤林聖子／作曲：[押谷沙樹](https://zh.wikipedia.org/wiki/押谷沙樹 "wikilink")／編曲：[龜山耕一郎](https://zh.wikipedia.org/wiki/龜山耕一郎 "wikilink")／歌：白石茉子（[高梨臨](../Page/高梨臨.md "wikilink")）
 
   - 「シンケンデイズ Never give up 道中」（角色歌曲）
 
@@ -209,14 +213,15 @@ Fresh、志葉丈瑠（[松坂桃李](../Page/松坂桃李.md "wikilink")）
 
   - 「ゴールド人情 一本締め」（角色歌曲）
 
-:\* 作詞：藤林聖子／作曲、編曲：岩崎貴文／歌：梅盛源太（[相馬圭祐](../Page/相馬圭祐.md "wikilink")）
+:\*
+作詞：藤林聖子／作曲、編曲：岩崎貴文／歌：梅盛源太（[相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink")）
 
 ### 2010年度（『天裝戰隊護星者』）
 
   - 「天装戦隊ゴセイジャー」（片頭曲）
 
 :\*
-作詞：[吉元由美](../Page/吉元由美.md "wikilink")／作曲：[YOFFY](../Page/PSYCHIC_LOVER.md "wikilink")／編曲：籠島裕昌（Project.R）／歌：[NoB](../Page/山田信夫.md "wikilink")（Project.R）
+作詞：[吉元由美](https://zh.wikipedia.org/wiki/吉元由美 "wikilink")／作曲：[YOFFY](../Page/PSYCHIC_LOVER.md "wikilink")／編曲：籠島裕昌（Project.R）／歌：[NoB](../Page/山田信夫.md "wikilink")（Project.R）
 
   - 「ガッチャ☆ゴセイジャー」（片尾曲）
 
@@ -258,22 +263,21 @@ Fresh、志葉丈瑠（[松坂桃李](../Page/松坂桃李.md "wikilink")）
   - 「Over The Rainbow」（插曲）
 
 :\* 作詞：八手三郎 / 作曲：鈴木盛廣 / 編曲：Project.R /
-歌：護星者（[千葉雄大](../Page/千葉雄大.md "wikilink")、[佐藤里香](../Page/佐藤里香.md "wikilink")、[濱尾京介](../Page/濱尾京介.md "wikilink")、[丹羽未来帆](../Page/丹羽未来帆.md "wikilink")、[小野健斗](../Page/小野健斗.md "wikilink")）
+歌：護星者（[千葉雄大](../Page/千葉雄大.md "wikilink")、[佐藤里香](https://zh.wikipedia.org/wiki/佐藤里香 "wikilink")、[濱尾京介](../Page/濱尾京介.md "wikilink")、[丹羽未来帆](https://zh.wikipedia.org/wiki/丹羽未来帆 "wikilink")、[小野健斗](https://zh.wikipedia.org/wiki/小野健斗 "wikilink")）
 
 ### 2010年度（『超級戰隊VS系列劇場』）
 
   - 「バーサス\!スーパー戦隊」（主題曲）
 
-:\* 作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲：高木洋 /
-編曲：Project.R(高木洋、大石憲一郎) /
-歌：Project.R（高取ヒデアキ、YOFFY、谷本貴義）
+:\* 作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") / 作曲：高木洋 /
+編曲：Project.R(高木洋、大石憲一郎) / 歌：Project.R（高取ヒデアキ、YOFFY、谷本貴義）
 
 ### 2011年度（『海賊戰隊豪快者』）
 
   - 「海賊戦隊ゴーカイジャー」（片頭曲）
 
-:\* 作詞：[岩里祐穗](../Page/岩里祐穗.md "wikilink") /
-作曲：[持田裕輔](../Page/持田裕輔.md "wikilink") /
+:\* 作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink") /
+作曲：[持田裕輔](https://zh.wikipedia.org/wiki/持田裕輔 "wikilink") /
 編曲：籠島裕昌（Project.R） / 歌：松原剛志 (Project.R)
 
   - 「スーパー戦隊 ヒーローゲッター」（片尾曲）
@@ -293,8 +297,9 @@ MAYO、谷本貴義、NoB、岩崎貴文、大石憲一郎、籠島裕昌）
 
   - 「派手に行くぜ\!」（插曲）
 
-:\* 作詞：[井上望](../Page/井上望.md "wikilink") / 作曲・編曲：岩崎貴文（Project.R） /
-歌：[安崎求](../Page/安崎求.md "wikilink")、阿部誠司
+:\* 作詞：[井上望](https://zh.wikipedia.org/wiki/井上望 "wikilink") /
+作曲・編曲：岩崎貴文（Project.R） /
+歌：[安崎求](https://zh.wikipedia.org/wiki/安崎求 "wikilink")、阿部誠司
 
   - 「鋼の心 ゴーカイシルバー」（插曲）
 
@@ -303,7 +308,7 @@ MAYO、谷本貴義、NoB、岩崎貴文、大石憲一郎、籠島裕昌）
   - 「お宝を探せ\!」（插曲）
 
 :\* 作詞・作曲：高取秀明 / 編曲：籠島裕昌（Project.R） /
-歌・演奏：[Z旗](../Page/Z旗.md "wikilink")（Project.R）
+歌・演奏：[Z旗](https://zh.wikipedia.org/wiki/Z旗 "wikilink")（Project.R）
 
   - 「完成\! 豪獣神」（插曲）
 
@@ -323,7 +328,7 @@ MAYO、谷本貴義、NoB、岩崎貴文、大石憲一郎、籠島裕昌）
 歌：[佐佐木功](../Page/佐佐木功.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、松原剛志
 
   - 「JUMP」（[海賊戰隊豪快者VS宇宙刑事卡邦 THE
-    MOVIE主題曲](../Page/海賊戰隊豪快者VS宇宙刑事卡邦_THE_MOVIE.md "wikilink")）
+    MOVIE主題曲](https://zh.wikipedia.org/wiki/海賊戰隊豪快者VS宇宙刑事卡邦_THE_MOVIE "wikilink")）
 
 :\* 作詞：岩里祐穗 / 作曲：持田裕輔 / 編曲：籠島裕昌（Project.R） / 歌：松原剛志、串田晃
 
@@ -342,11 +347,12 @@ MAYO、谷本貴義、NoB、岩崎貴文、大石憲一郎、籠島裕昌）
   - 「キズナ〜ゴーバスターズ\!」（片尾曲）
 
 :\* 作詞：藤林聖子 / 作曲・編曲：大石憲一郎（Project.R） /
-歌：[謎の新ユニットSTA☆MEN](../Page/謎の新ユニットSTA☆MEN.md "wikilink")
+歌：[謎の新ユニットSTA☆MEN](https://zh.wikipedia.org/wiki/謎の新ユニットSTA☆MEN "wikilink")
 
   - 「Perfect Mission」（插曲）
 
-:\* 作詞：藤林聖子 / 作曲：NoB / 編曲：[河野陽吾](../Page/河野陽吾.md "wikilink")
+:\* 作詞：藤林聖子 / 作曲：NoB /
+編曲：[河野陽吾](https://zh.wikipedia.org/wiki/河野陽吾 "wikilink")
 歌：NoB（Project.R）
 
   - 「One wish,One day」（角色歌曲／片尾曲）
@@ -356,7 +362,8 @@ Nick（CV:[鈴木勝大](../Page/鈴木勝大.md "wikilink")&[藤原啟治](../P
 
   - 「バスターマシン、発進せよ\!」（插曲）
 
-:\* 作詞：八手三郎 / 作曲・編曲：大橋恵 / 歌：[山形ユキオ](../Page/山形ユキオ.md "wikilink")
+:\* 作詞：八手三郎 / 作曲・編曲：大橋恵 /
+歌：[山形ユキオ](https://zh.wikipedia.org/wiki/山形ユキオ "wikilink")
 
   - 「Boost Up\! ビートバスター」（插曲）
 
@@ -384,11 +391,12 @@ Banana（CV:[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](..
 ## 主要活動
 
   - [超級戰隊“魂”III2008
-    21世紀編](../Page/超級戰隊“魂”#21世紀編.md "wikilink")（2008年11月30日）
+    21世紀編](https://zh.wikipedia.org/wiki/超級戰隊“魂”#21世紀編 "wikilink")（2008年11月30日）
   - Project.R 1st Live～歌曲大賽～（2009年2月11日）
   - [超級戰隊“魂”IV
-    2010](../Page/超級戰隊“魂”#超級戰隊“魂”IV_2010.md "wikilink")（2010年11月14日、2010年11月14日）
-  - [超級英雄音樂工作室](../Page/超級英雄音樂工作室.md "wikilink")（2010年11月 - ）
+    2010](https://zh.wikipedia.org/wiki/超級戰隊“魂”#超級戰隊“魂”IV_2010 "wikilink")（2010年11月14日、2010年11月14日）
+  - [超級英雄音樂工作室](https://zh.wikipedia.org/wiki/超級英雄音樂工作室 "wikilink")（2010年11月
+    - ）
 
 ## 外部連結
 

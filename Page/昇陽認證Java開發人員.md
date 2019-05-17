@@ -8,7 +8,9 @@ Java 開發應用程式的獨立作業能力，而這通常也是大多數使用
 
 ## 前置需求
 
-SCJD 要求考生必須要先通過[SCJP以證明考生具備基本的](../Page/SCJP.md "wikilink") Java 程式開發能力。
+SCJD
+要求考生必須要先通過[SCJP以證明考生具備基本的](https://zh.wikipedia.org/wiki/SCJP "wikilink")
+Java 程式開發能力。
 
 ## 考試方式
 
@@ -33,22 +35,22 @@ Java SE 來開發應用程式，並且提交回昇陽，然後報名與完成論
 是允許使用的：
 
   - java.lang.Thread 類別庫，處理執行緒處理及同步
-  - [Swing](../Page/Swing.md "wikilink")（以及支援Swing所需要的AWT）
+  - [Swing](https://zh.wikipedia.org/wiki/Swing "wikilink")（以及支援Swing所需要的AWT）
   - 標準檔案IO (java.io，而不是java.nio)
   - Socket-based 網路程式設計加上下列技術擇一：
       - Java Serialization
-      - [Java RMI](../Page/Java_RMI.md "wikilink") (Java Remote Method
-        Invocation)。
+      - [Java RMI](https://zh.wikipedia.org/wiki/Java_RMI "wikilink")
+        (Java Remote Method Invocation)。
 
 而下列 API 則是被禁用的：
 
   - [Enterprise JavaBeans](../Page/EJB.md "wikilink")。
-  - [Servlet](../Page/Servlet.md "wikilink")、[JSP技術](../Page/JSP.md "wikilink")、或任何其他web導向API。
+  - [Servlet](https://zh.wikipedia.org/wiki/Servlet "wikilink")、[JSP技術](../Page/JSP.md "wikilink")、或任何其他web導向API。
   - java.nio 類別庫。
   - Java DataBase
-    Connectivity（[JDBC](../Page/JDBC.md "wikilink")）及[SQL](../Page/SQL.md "wikilink")。
+    Connectivity（[JDBC](https://zh.wikipedia.org/wiki/JDBC "wikilink")）及[SQL](../Page/SQL.md "wikilink")。
   - Java IDL API及[CORBA](../Page/CORBA.md "wikilink")。
-  - 協力廠商軟體程式庫或工具（例如[瀏覽器](../Page/瀏覽器.md "wikilink")）。
+  - 協力廠商軟體程式庫或工具（例如[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")）。
 
 #### 考試期間
 
@@ -62,9 +64,9 @@ Java SE 來開發應用程式，並且提交回昇陽，然後報名與完成論
 
 1.  一般考量：此類別涵蓋的評分標準為您的程式碼是否容易使用及維護，本項評分滿分為 70 分。
 2.  文件：包括您的使用者操作說明、Javadoc工具、及註解，本項評分滿分為 50 分。
-3.  [物件導向設計](../Page/OOP.md "wikilink")：包括您的物件導向設計品質，特別是您的類別結構所呈現的內容，以及變數與方法的使用，本項評分滿分為
+3.  [物件導向設計](https://zh.wikipedia.org/wiki/OOP "wikilink")：包括您的物件導向設計品質，特別是您的類別結構所呈現的內容，以及變數與方法的使用，本項評分滿分為
     50 分。
-4.  [GUI](../Page/GUI.md "wikilink")：此類別將針對您的GUI是否遵照規格，以及您的GUI是否容易使用，本項評分滿分為
+4.  [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")：此類別將針對您的GUI是否遵照規格，以及您的GUI是否容易使用，本項評分滿分為
     70 分。
 5.  鎖定：此類別包括鎖定scheme的實作，您的指派工作文件中有詳細的資訊。您的指派工作中的這一部份與多重執行緒程式碼有關，本項評分滿分為
     80 分。

@@ -1,6 +1,6 @@
 《**First
 Love**》是日本歌手[宇多田光於](../Page/宇多田光.md "wikilink")1999年4月28日發行的第三張單曲，日劇《[魔女的條件](../Page/魔女的條件.md "wikilink")》主題曲。本曲為「single-cut」，已收錄在先前3月10日發行的同名專輯《[First
-Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")》中，但單曲仍賣出80萬張，留名歷代single-cut銷售前十。2000年日本[春季甲子園大賽入場曲](../Page/春季甲子園.md "wikilink")。
+Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")》中，但單曲仍賣出80萬張，留名歷代single-cut銷售前十。2000年日本[春季甲子園大賽入場曲](https://zh.wikipedia.org/wiki/春季甲子園 "wikilink")。
 
 ## 曲目
 
@@ -21,7 +21,7 @@ Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")》中，但單曲
 
 1.  First Love
 2.  First Love（featuring [David
-    Sanborn](../Page/David_Sanborn.md "wikilink")）
+    Sanborn](https://zh.wikipedia.org/wiki/David_Sanborn "wikilink")）
 3.  First Love (Strings Mix)
 4.  First Love (John Luongo Mix)
 

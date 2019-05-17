@@ -19,24 +19,24 @@
 |                                                                     |
 
 **VF-0**是出現在日本科幻戰爭動畫[Macross
-Zero中的可變式戰鬥機](../Page/Macross_Zero.md "wikilink")，VF-0在設計上是[VF-1女武神的預產機](../Page/VF-1.md "wikilink")，是故事系列中統合政府第一款投入實戰用的可變形戰鬥機，由於本機在開發後就直接參與被統合政府列入機密任務的遺蹟爭奪戰爭，在戰爭結束後不久即被正式成軍的[VF-1完全取代](../Page/VF-1.md "wikilink")，因此VF-0並不為世人所知。
+Zero中的可變式戰鬥機](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")，VF-0在設計上是[VF-1女武神的預產機](https://zh.wikipedia.org/wiki/VF-1 "wikilink")，是故事系列中統合政府第一款投入實戰用的可變形戰鬥機，由於本機在開發後就直接參與被統合政府列入機密任務的遺蹟爭奪戰爭，在戰爭結束後不久即被正式成軍的[VF-1完全取代](https://zh.wikipedia.org/wiki/VF-1 "wikilink")，因此VF-0並不為世人所知。
 
 直到2059年工藤真的傳記問世後，原始文化遺跡爭奪戰的故事和VF-0才在眾人面前揭開神秘面目。
 
 ## 起源
 
-2008年由於反統合同盟軍擁有已經開發成功的可變式機體SV-51，使得統合軍部隊在掃蕩戰中蒙受巨大的損失，為應付SV-51又迫於[熱核引擎小型化的研發進度嚴重落後](../Page/OTM_\(超時空要塞\)#小型熱核引擎.md "wikilink")\[1\]，統合軍只得將30架正在研發中的VF-X1搭配當時[渦輪扇發動機中出力最大的EGF](../Page/渦輪扇發動機.md "wikilink")127引擎組裝成VF-0並且加以生產，由於使用傳統石化燃料，使得VF-0的續航力和作戰時間並不長，也因EFG127發動機先天上的出力限制使得「SWAG能量轉換型裝甲」強度並不如預期理想，VF-0無法在1.6[馬赫以上的高速飛行中變形](../Page/馬赫.md "wikilink")，[Macross
-Zero中的主角工藤真在作戰時必須靠](../Page/Macross_Zero.md "wikilink")[眼鏡蛇動作](../Page/普加乔夫眼镜蛇机动.md "wikilink")（Pugachev's
-Cobra）閃避追擊並藉此減速後才能變形成半人型型態進行攻擊，原設計可做為宇宙戰因此氣密性良好可在水中進行短暫數分鐘的作戰，並有簡易的[匿蹤性](../Page/匿蹤.md "wikilink")，因適用於變形戰機的[航空電子尚未研發成熟所以一般飛行員較難操控](../Page/航空電子.md "wikilink")。
+2008年由於反統合同盟軍擁有已經開發成功的可變式機體SV-51，使得統合軍部隊在掃蕩戰中蒙受巨大的損失，為應付SV-51又迫於[熱核引擎小型化的研發進度嚴重落後](https://zh.wikipedia.org/wiki/OTM_\(超時空要塞\)#小型熱核引擎 "wikilink")\[1\]，統合軍只得將30架正在研發中的VF-X1搭配當時[渦輪扇發動機中出力最大的EGF](../Page/渦輪扇發動機.md "wikilink")127引擎組裝成VF-0並且加以生產，由於使用傳統石化燃料，使得VF-0的續航力和作戰時間並不長，也因EFG127發動機先天上的出力限制使得「SWAG能量轉換型裝甲」強度並不如預期理想，VF-0無法在1.6[馬赫以上的高速飛行中變形](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，[Macross
+Zero中的主角工藤真在作戰時必須靠](https://zh.wikipedia.org/wiki/Macross_Zero "wikilink")[眼鏡蛇動作](../Page/普加乔夫眼镜蛇机动.md "wikilink")（Pugachev's
+Cobra）閃避追擊並藉此減速後才能變形成半人型型態進行攻擊，原設計可做為宇宙戰因此氣密性良好可在水中進行短暫數分鐘的作戰，並有簡易的[匿蹤性](https://zh.wikipedia.org/wiki/匿蹤 "wikilink")，因適用於變形戰機的[航空電子尚未研發成熟所以一般飛行員較難操控](https://zh.wikipedia.org/wiki/航空電子 "wikilink")。
 
 由於開發年代的緣故，VF-0是統和軍中極少數沒被以女武神的名稱來稱呼的可變形戰機，但是VF-0的駕駛員和其他軍方人士並沒有以研發代號鳳凰來稱呼VF-0，而是直接以「Zero」來稱呼本機。
 
 ## 衍生型號
 
   - VF-0A
-    單人座可變形戰機，頭部配備一門[雷射機槍](../Page/雷射.md "wikilink")，只生產24架，大多在與SV-51作戰中損毀。
+    單人座可變形戰機，頭部配備一門[雷射機槍](https://zh.wikipedia.org/wiki/雷射 "wikilink")，只生產24架，大多在與SV-51作戰中損毀。
   - VF-0S
-    指揮官型機，除頭部[雷射機槍增為兩門以外](../Page/雷射.md "wikilink")，其餘性能與A型大致相同，但將系統的預設限制解除提供給優秀的飛行員，一共只生產4架，一架於遺跡爭奪戰時遭擊墜。
+    指揮官型機，除頭部[雷射機槍增為兩門以外](https://zh.wikipedia.org/wiki/雷射 "wikilink")，其餘性能與A型大致相同，但將系統的預設限制解除提供給優秀的飛行員，一共只生產4架，一架於遺跡爭奪戰時遭擊墜。
   - VF-0B
     雙人座可變形戰機，性能與A型大致相同，但補足A型所不足的航程與電子作戰能力，編入宇宙實驗機隊代替VF-1做為機體資料蒐集；OVA中骷髏小隊成員除佛卡以外其餘隊員皆駕駛此型號戰機。
   - VF-0D
@@ -56,17 +56,17 @@ Cobra）閃避追擊並藉此減速後才能變形成半人型型態進行攻擊
 ## 後繼機型
 
   - **[VF-1女武神](../Page/VF-1女武神.md "wikilink")**
-  - **[VF-4閃電三式](../Page/VF-4閃電三式.md "wikilink")**
+  - **[VF-4閃電三式](https://zh.wikipedia.org/wiki/VF-4閃電三式 "wikilink")**
   - **[VF-11雷霆式](../Page/VF-11雷霆式戰鬥機.md "wikilink")**
   - **[VF-14吸血鬼式](../Page/VF-14吸血鬼戰鬥機.md "wikilink")**
-  - **[YF-19/VF-19王者之劍](../Page/YF-19/VF-19王者之劍.md "wikilink")**
-  - **[YF-21/VF-22雨燕](../Page/YF-21/VF-22雨燕.md "wikilink")**
+  - **[YF-19/VF-19王者之劍](https://zh.wikipedia.org/wiki/YF-19/VF-19王者之劍 "wikilink")**
+  - **[YF-21/VF-22雨燕](https://zh.wikipedia.org/wiki/YF-21/VF-22雨燕 "wikilink")**
   - **[VF-17夢魘](../Page/VF-17夢魘.md "wikilink")**
   - **[VF-25彌賽亞](../Page/VF-25彌賽亞.md "wikilink")**
-  - **[VF-27路西法](../Page/VF-27路西法.md "wikilink")**
-  - **[YF-29杜蘭朵](../Page/YF-29杜蘭朵.md "wikilink")**
-  - **[YF-30柯羅諾斯](../Page/YF-30柯羅諾斯.md "wikilink")**
-  - **[VF-31齊格飛](../Page/VF-31齊格飛.md "wikilink")**
+  - **[VF-27路西法](https://zh.wikipedia.org/wiki/VF-27路西法 "wikilink")**
+  - **[YF-29杜蘭朵](https://zh.wikipedia.org/wiki/YF-29杜蘭朵 "wikilink")**
+  - **[YF-30柯羅諾斯](https://zh.wikipedia.org/wiki/YF-30柯羅諾斯 "wikilink")**
+  - **[VF-31齊格飛](https://zh.wikipedia.org/wiki/VF-31齊格飛 "wikilink")**
 
 ## 註解／參考來源
 

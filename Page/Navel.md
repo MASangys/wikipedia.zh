@@ -1,4 +1,4 @@
-**Navel**（），是[日本制作](../Page/日本.md "wikilink")[十八禁](../Page/成人游戏.md "wikilink")[美少女游戏的](../Page/美少女游戏.md "wikilink")[公司](../Page/公司.md "wikilink")「Omegavision」旗下十八禁美少女游戏[品牌](../Page/品牌.md "wikilink")，於2003年成立，該[視覺小說開發公司主要產品集中在](../Page/視覺小說.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")，並且在推出《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》和《[俺たちに翼はない](../Page/俺たちに翼はない.md "wikilink")》等著名的遊戲作品而成名。因其[logo中有一个](../Page/logo.md "wikilink")[橘子](../Page/橘子.md "wikilink")，常被称作「橘子公司」。
+**Navel**（），是[日本制作](../Page/日本.md "wikilink")[十八禁](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")[美少女游戏的](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")[公司](../Page/公司.md "wikilink")「Omegavision」旗下十八禁美少女游戏[品牌](../Page/品牌.md "wikilink")，於2003年成立，該[視覺小說開發公司主要產品集中在](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")，並且在推出《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》和《[俺たちに翼はない](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")》等著名的遊戲作品而成名。因其[logo中有一个](https://zh.wikipedia.org/wiki/logo "wikilink")[橘子](https://zh.wikipedia.org/wiki/橘子 "wikilink")，常被称作「橘子公司」。
 
 ## 沿革
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - 2012年10月26日，發售的Navel10周年記念作『月に寄りそう乙女の作法』斬獲[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")2013大賞。\[1\]
+  - 2012年10月26日，發售的Navel10周年記念作『月に寄りそう乙女の作法』斬獲[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2013大賞。\[1\]
 
 <!-- end list -->
 
@@ -40,19 +40,20 @@
   - 2005年9月16日－[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")
   - 2006年11月24日－[Really?
     Really\!](../Page/Really?_Really!.md "wikilink")
-  - 2008年6月28日－[俺たちに翼はない～Prelude～](../Page/俺たちに翼はない.md "wikilink")
-  - 2009年1月30日－[俺たちに翼はない](../Page/俺たちに翼はない.md "wikilink")
+  - 2008年6月28日－[俺たちに翼はない～Prelude～](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
+  - 2009年1月30日－[俺たちに翼はない](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
   - 2009年10月30日－[SHUFFLE\! Essence+](../Page/SHUFFLE!.md "wikilink")
   - 2010年6月25日－[Soul Link ULTIMATE](../Page/Soul_Link.md "wikilink")
-  - 2010年7月30日－[俺たちに翼はない AfterStory](../Page/俺たちに翼はない.md "wikilink")
-  - 2010年12月24日－[世界征服彼女](../Page/世界征服彼女.md "wikilink")
+  - 2010年7月30日－[俺たちに翼はない
+    AfterStory](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
+  - 2010年12月24日－[世界征服彼女](https://zh.wikipedia.org/wiki/世界征服彼女 "wikilink")
   - 2011年4月28日－[SHUFFLE\! Love
     Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")
-  - 2011年6月24日－[俺たちに翼はないR](../Page/俺たちに翼はない.md "wikilink")
+  - 2011年6月24日－[俺たちに翼はないR](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
   - 2011年10月28日－[World Wide Love\!
-    世界征服彼女ファンディスク](../Page/World_Wide_Love!_世界征服彼女ファンディスク.md "wikilink")
+    世界征服彼女ファンディスク](https://zh.wikipedia.org/wiki/World_Wide_Love!_世界征服彼女ファンディスク "wikilink")
   - 2012年2月24日－
-  - 2012年10月26日－[月に寄りそう乙女の作法](../Page/月に寄りそう乙女の作法.md "wikilink")
+  - 2012年10月26日－[月に寄りそう乙女の作法](https://zh.wikipedia.org/wiki/月に寄りそう乙女の作法 "wikilink")
   - 2013年7月26日－
   - 2014年12月19日－
   - 2016年5月27日－

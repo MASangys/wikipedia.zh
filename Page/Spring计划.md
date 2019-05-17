@@ -1,4 +1,4 @@
-**Spring**计划力求创造一个超越[横扫千军的](../Page/横扫千军.md "wikilink")[即时战略](../Page/即时战略.md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。代码授权为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，继承大量横扫千军的特性，地图数据结构相近、使用[lua建立界面](../Page/lua.md "wikilink")。
+**Spring**计划力求创造一个超越[横扫千军的](../Page/横扫千军.md "wikilink")[即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。代码授权为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，继承大量横扫千军的特性，地图数据结构相近、使用[lua建立界面](https://zh.wikipedia.org/wiki/lua "wikilink")。
 
 ## 特性
 
@@ -9,7 +9,7 @@
 
 ## 游戏
 
-基于Spring的游戏，尽管其中多数使用或者基于[横扫千军及其](../Page/横扫千军.md "wikilink")[Mod的数据文件](../Page/Mod.md "wikilink")，有法律问题。
+基于Spring的游戏，尽管其中多数使用或者基于[横扫千军及其](../Page/横扫千军.md "wikilink")[Mod的数据文件](https://zh.wikipedia.org/wiki/Mod "wikilink")，有法律问题。
 
 [KernelPanic.jpg](https://zh.wikipedia.org/wiki/File:KernelPanic.jpg "fig:KernelPanic.jpg")
 

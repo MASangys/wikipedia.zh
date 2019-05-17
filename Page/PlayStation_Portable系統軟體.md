@@ -1,7 +1,7 @@
 [PSP_svenska_menyer.jpg](https://zh.wikipedia.org/wiki/File:PSP_svenska_menyer.jpg "fig:PSP_svenska_menyer.jpg")
 **PlayStation Portable系統軟體**（PlayStation Portable System
 Software）是執行控制[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）的[系統軟體](../Page/系統軟體.md "wikilink")。
+Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）的[系統軟體](https://zh.wikipedia.org/wiki/系統軟體 "wikilink")。
 
 PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線LAN功能，進行網路更新。
 
@@ -10,84 +10,137 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
 ## 沿革
 
   - 2015年
-      - 1月15日－[版本6.61](../Page/#6.61版.md "wikilink") 开始提供更新
+      - 1月15日－[版本6.61](https://zh.wikipedia.org/wiki/#6.61版 "wikilink")
+        开始提供更新
   - 2011年
-      - 8月10日－[版本6.60](../Page/#6.60版.md "wikilink") 開始提供更新
-      - 5月24日－[版本6.39](../Page/#6.39版.md "wikilink") 開始提供更新
-      - 4月12日－[版本6.38](../Page/#6.38版.md "wikilink") 開始提供更新
-      - 1月20日－[版本6.37](../Page/#6.37版.md "wikilink") 開始提供更新
+      - 8月10日－[版本6.60](https://zh.wikipedia.org/wiki/#6.60版 "wikilink")
+        開始提供更新
+      - 5月24日－[版本6.39](https://zh.wikipedia.org/wiki/#6.39版 "wikilink")
+        開始提供更新
+      - 4月12日－[版本6.38](https://zh.wikipedia.org/wiki/#6.38版 "wikilink")
+        開始提供更新
+      - 1月20日－[版本6.37](https://zh.wikipedia.org/wiki/#6.37版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2010年
-      - 日期未知－[版本6.36](../Page/#6.36版.md "wikilink") 開始提供更新
-      - 11月24日－[版本6.35](../Page/#6.35版.md "wikilink") 開始提供更新
-      - 7月29日－[版本6.31](../Page/#6.31版.md "wikilink") 開始提供更新
-      - 6月29日－[版本6.30](../Page/#6.30版.md "wikilink") 開始提供更新
+      - 日期未知－[版本6.36](https://zh.wikipedia.org/wiki/#6.36版 "wikilink")
+        開始提供更新
+      - 11月24日－[版本6.35](https://zh.wikipedia.org/wiki/#6.35版 "wikilink")
+        開始提供更新
+      - 7月29日－[版本6.31](https://zh.wikipedia.org/wiki/#6.31版 "wikilink")
+        開始提供更新
+      - 6月29日－[版本6.30](https://zh.wikipedia.org/wiki/#6.30版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2009年
-      - 11月19日－[版本6.20](../Page/#6.20版.md "wikilink") 開始提供更新
-      - 10月1日－[版本6.10](../Page/#6.10版.md "wikilink") 開始提供更新
-      - 9月10日－[版本6.00](../Page/#6.00版.md "wikilink") 開始提供更新
-      - 日期未知－[版本5.55](../Page/#5.55版.md "wikilink") 開始提供更新
-      - 6月11日－[版本5.51](../Page/#5.51版.md "wikilink") 開始提供更新
-      - 4月21日－[版本5.50](../Page/#5.50版.md "wikilink") 開始提供更新
-      - 日期未知－[版本5.05](../Page/#5.05版.md "wikilink") 開始提供更新
-      - 1月20日－[版本5.03](../Page/#5.03版.md "wikilink") 開始提供更新
+      - 11月19日－[版本6.20](https://zh.wikipedia.org/wiki/#6.20版 "wikilink")
+        開始提供更新
+      - 10月1日－[版本6.10](https://zh.wikipedia.org/wiki/#6.10版 "wikilink")
+        開始提供更新
+      - 9月10日－[版本6.00](https://zh.wikipedia.org/wiki/#6.00版 "wikilink")
+        開始提供更新
+      - 日期未知－[版本5.55](https://zh.wikipedia.org/wiki/#5.55版 "wikilink")
+        開始提供更新
+      - 6月11日－[版本5.51](https://zh.wikipedia.org/wiki/#5.51版 "wikilink")
+        開始提供更新
+      - 4月21日－[版本5.50](https://zh.wikipedia.org/wiki/#5.50版 "wikilink")
+        開始提供更新
+      - 日期未知－[版本5.05](https://zh.wikipedia.org/wiki/#5.05版 "wikilink")
+        開始提供更新
+      - 1月20日－[版本5.03](https://zh.wikipedia.org/wiki/#5.03版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2008年
-      - 11月20日－[版本5.02](../Page/#5.02版.md "wikilink") 開始提供更新
-      - 10月22日－[版本5.01](../Page/#5.01版.md "wikilink") 開始提供更新
-      - 10月15日－[版本5.00](../Page/#5.00版.md "wikilink") 開始提供更新
-      - 7月14日－[版本4.05](../Page/#4.05版.md "wikilink") 開始提供更新
-      - 6月25日－[版本4.01](../Page/#4.01版.md "wikilink") 開始提供更新
-      - 6月18日－[版本4.00](../Page/#4.00版.md "wikilink") 開始提供更新
-      - 4月8日－[版本3.95](../Page/#3.95版.md "wikilink") 開始提供更新
-      - 3月18日－[版本3.93](../Page/#3.93版.md "wikilink") 開始提供更新
-      - 1月30日－[版本3.90](../Page/#3.90版.md "wikilink") 開始提供更新
+      - 11月20日－[版本5.02](https://zh.wikipedia.org/wiki/#5.02版 "wikilink")
+        開始提供更新
+      - 10月22日－[版本5.01](https://zh.wikipedia.org/wiki/#5.01版 "wikilink")
+        開始提供更新
+      - 10月15日－[版本5.00](https://zh.wikipedia.org/wiki/#5.00版 "wikilink")
+        開始提供更新
+      - 7月14日－[版本4.05](https://zh.wikipedia.org/wiki/#4.05版 "wikilink")
+        開始提供更新
+      - 6月25日－[版本4.01](https://zh.wikipedia.org/wiki/#4.01版 "wikilink")
+        開始提供更新
+      - 6月18日－[版本4.00](https://zh.wikipedia.org/wiki/#4.00版 "wikilink")
+        開始提供更新
+      - 4月8日－[版本3.95](https://zh.wikipedia.org/wiki/#3.95版 "wikilink")
+        開始提供更新
+      - 3月18日－[版本3.93](https://zh.wikipedia.org/wiki/#3.93版 "wikilink")
+        開始提供更新
+      - 1月30日－[版本3.90](https://zh.wikipedia.org/wiki/#3.90版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2007年
-      - 11月30日－[版本3.80](../Page/#3.80版.md "wikilink") 開始提供更新
-      - 11月29日－[版本3.73](../Page/#3.73版.md "wikilink") 開始提供更新
-      - 10月30日－[版本3.72](../Page/#3.72版.md "wikilink") 開始提供更新
-      - 9月13日－[版本3.71](../Page/#3.71版.md "wikilink") 開始提供更新
-      - 9月11日－[版本3.70](../Page/#3.70版.md "wikilink") 開始提供更新
-      - 9月10日－[版本3.60](../Page/#3.60版.md "wikilink") 開始提供更新
-      - 5月31日－[版本3.50](../Page/#3.50版.md "wikilink") 開始提供更新
-      - 4月19日－[版本3.40](../Page/#3.40版.md "wikilink") 開始提供更新
-      - 3月28日－[版本3.30](../Page/#3.30版.md "wikilink") 開始提供更新
-      - 2月8日－[版本3.11](../Page/#3.11版.md "wikilink") 開始提供更新
-      - 1月30日－[版本3.10](../Page/#3.10版.md "wikilink") 開始提供更新
+      - 11月30日－[版本3.80](https://zh.wikipedia.org/wiki/#3.80版 "wikilink")
+        開始提供更新
+      - 11月29日－[版本3.73](https://zh.wikipedia.org/wiki/#3.73版 "wikilink")
+        開始提供更新
+      - 10月30日－[版本3.72](https://zh.wikipedia.org/wiki/#3.72版 "wikilink")
+        開始提供更新
+      - 9月13日－[版本3.71](https://zh.wikipedia.org/wiki/#3.71版 "wikilink")
+        開始提供更新
+      - 9月11日－[版本3.70](https://zh.wikipedia.org/wiki/#3.70版 "wikilink")
+        開始提供更新
+      - 9月10日－[版本3.60](https://zh.wikipedia.org/wiki/#3.60版 "wikilink")
+        開始提供更新
+      - 5月31日－[版本3.50](https://zh.wikipedia.org/wiki/#3.50版 "wikilink")
+        開始提供更新
+      - 4月19日－[版本3.40](https://zh.wikipedia.org/wiki/#3.40版 "wikilink")
+        開始提供更新
+      - 3月28日－[版本3.30](https://zh.wikipedia.org/wiki/#3.30版 "wikilink")
+        開始提供更新
+      - 2月8日－[版本3.11](https://zh.wikipedia.org/wiki/#3.11版 "wikilink")
+        開始提供更新
+      - 1月30日－[版本3.10](https://zh.wikipedia.org/wiki/#3.10版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2006年
-      - 12月20日－[版本3.03](../Page/#3.03版.md "wikilink") 開始提供更新
-      - 12月6日－[版本3.02](../Page/#3.02版.md "wikilink") 開始提供更新
-      - 11月22日－[版本3.01](../Page/#3.01版.md "wikilink") 開始提供更新
-      - 11月21日－[版本3.00](../Page/#3.00版.md "wikilink") 開始提供更新
-      - 10月26日－[版本2.82](../Page/#2.82版.md "wikilink") 開始提供更新
-      - 9月7日－[版本2.81](../Page/#2.81版.md "wikilink") 開始提供更新
-      - 7月27日－[版本2.80](../Page/#2.80版.md "wikilink") 開始提供更新
-      - 6月1日－[版本2.71](../Page/#2.71版.md "wikilink") 開始提供更新
-      - 4月25日－[版本2.70](../Page/#2.70版.md "wikilink") 開始提供更新
+      - 12月20日－[版本3.03](https://zh.wikipedia.org/wiki/#3.03版 "wikilink")
+        開始提供更新
+      - 12月6日－[版本3.02](https://zh.wikipedia.org/wiki/#3.02版 "wikilink")
+        開始提供更新
+      - 11月22日－[版本3.01](https://zh.wikipedia.org/wiki/#3.01版 "wikilink")
+        開始提供更新
+      - 11月21日－[版本3.00](https://zh.wikipedia.org/wiki/#3.00版 "wikilink")
+        開始提供更新
+      - 10月26日－[版本2.82](https://zh.wikipedia.org/wiki/#2.82版 "wikilink")
+        開始提供更新
+      - 9月7日－[版本2.81](https://zh.wikipedia.org/wiki/#2.81版 "wikilink")
+        開始提供更新
+      - 7月27日－[版本2.80](https://zh.wikipedia.org/wiki/#2.80版 "wikilink")
+        開始提供更新
+      - 6月1日－[版本2.71](https://zh.wikipedia.org/wiki/#2.71版 "wikilink")
+        開始提供更新
+      - 4月25日－[版本2.70](https://zh.wikipedia.org/wiki/#2.70版 "wikilink")
+        開始提供更新
 
 <!-- end list -->
 
   - 2005年
-      - 11月29日－[版本2.60](../Page/#2.60版.md "wikilink") 開始提供更新
-      - 10月14日－[版本2.50](../Page/#2.50版.md "wikilink") 開始提供更新
-      - 10月3日－[版本2.01](../Page/#2.01版.md "wikilink") 開始提供更新
-      - 9月2日－[版本2.00](../Page/#2.00版.md "wikilink") 開始提供更新
-      - 6月8日－[版本1.52](../Page/#1.52版.md "wikilink") 開始提供更新
-      - 5月11日－[版本1.51](../Page/#1.51版.md "wikilink") 開始提供更新
-      - 3月24日－[版本1.50](../Page/#1.50版.md "wikilink") 開始提供更新
+      - 11月29日－[版本2.60](https://zh.wikipedia.org/wiki/#2.60版 "wikilink")
+        開始提供更新
+      - 10月14日－[版本2.50](https://zh.wikipedia.org/wiki/#2.50版 "wikilink")
+        開始提供更新
+      - 10月3日－[版本2.01](https://zh.wikipedia.org/wiki/#2.01版 "wikilink")
+        開始提供更新
+      - 9月2日－[版本2.00](https://zh.wikipedia.org/wiki/#2.00版 "wikilink")
+        開始提供更新
+      - 6月8日－[版本1.52](https://zh.wikipedia.org/wiki/#1.52版 "wikilink")
+        開始提供更新
+      - 5月11日－[版本1.51](https://zh.wikipedia.org/wiki/#1.51版 "wikilink")
+        開始提供更新
+      - 3月24日－[版本1.50](https://zh.wikipedia.org/wiki/#1.50版 "wikilink")
+        開始提供更新
 
 ## 版本
 
@@ -126,7 +179,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
 2011年1月20日發布
 
   - \[遊戲\]
-      - 堵住《[大眾來爽快](../Page/全民都爽快.md "wikilink")》（）遊戲體驗版漏洞
+      - 堵住《[大眾來爽快](https://zh.wikipedia.org/wiki/全民都爽快 "wikilink")》（）遊戲體驗版漏洞
 
 #### 6.36版
 
@@ -156,7 +209,8 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
   - \[遊戲\]
       - \[资料夹分类\]
           - 新增“依格式排列”。
-  - 堵住《[戰鼓啪打碰2](../Page/戰鼓啪打碰.md "wikilink")》（*Patapon 2*）遊戲體驗版的漏洞
+  - 堵住《[戰鼓啪打碰2](https://zh.wikipedia.org/wiki/戰鼓啪打碰 "wikilink")》（*Patapon
+    2*）遊戲體驗版的漏洞
 
 #### 6.20版
 
@@ -173,10 +227,10 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
             Reader”项目，利用该项目，用户可以阅读漫画，所有漫画均需要事先通过PSN网络商店在线购买并下载保存至PSP，漫画单行本售价在420日元（含税）左右，单话连载在50至150日元（含税）之间。
           - 自2009年12月10日起，SCE在PSN网络商店中提供大量漫画的付费下载。该服务面向PSP所有系列型号。
           - 已提供漫画下载服务的漫画提供商有：[ASCII MEDIA
-            WORKS](../Page/ASCII_MEDIA_WORKS.md "wikilink")、[ENTERBRAIN](../Page/ENTERBRAIN.md "wikilink")、[SQUARE-ENIX](../Page/SQUARE-ENIX.md "wikilink")、[Bandai
-            Visual](../Page/Bandai_Visual.md "wikilink")、[SOFTBANK
-            Creative](../Page/SOFTBANK_Creative.md "wikilink")（[Harlequin
-            Comics](../Page/Harlequin_Comics.md "wikilink")）、[角川书店](../Page/角川书店.md "wikilink")、[讲谈社](../Page/讲谈社.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[小学馆](../Page/小学馆.md "wikilink")、[白泉社](../Page/白泉社.md "wikilink")、[富士见书房](../Page/富士见书房.md "wikilink")、[双叶社](../Page/双叶社.md "wikilink")、[文华社](../Page/文华社.md "wikilink")
+            WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")、[ENTERBRAIN](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")、[SQUARE-ENIX](https://zh.wikipedia.org/wiki/SQUARE-ENIX "wikilink")、[Bandai
+            Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[SOFTBANK
+            Creative](https://zh.wikipedia.org/wiki/SOFTBANK_Creative "wikilink")（[Harlequin
+            Comics](https://zh.wikipedia.org/wiki/Harlequin_Comics "wikilink")）、[角川书店](https://zh.wikipedia.org/wiki/角川书店 "wikilink")、[讲谈社](../Page/讲谈社.md "wikilink")、[集英社](../Page/集英社.md "wikilink")、[小学馆](https://zh.wikipedia.org/wiki/小学馆 "wikilink")、[白泉社](../Page/白泉社.md "wikilink")、[富士见书房](https://zh.wikipedia.org/wiki/富士见书房 "wikilink")、[双叶社](https://zh.wikipedia.org/wiki/双叶社 "wikilink")、[文华社](https://zh.wikipedia.org/wiki/文华社 "wikilink")
   - \[照片\]
       - \[摄像头\]
           - 增加对210万像素及320万像素摄像头的支持。
@@ -212,7 +266,8 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
           - \[關閉螢幕蓋時\]
               - “標準”的效果已更新了。(僅支援PSP-N1000系列)
   - \[音樂\]
-      - [SensMe™ channels](../Page/SensMe™_channels.md "wikilink")（新增）
+      - [SensMe™
+        channels](https://zh.wikipedia.org/wiki/SensMe™_channels "wikilink")（新增）
           - 此功能需另外下载对应软件方可使用。
           - 支持播放音樂及通过电脑端软件[Media
             Go导入音乐播放列表](../Page/Media_Go.md "wikilink")。
@@ -275,7 +330,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
 
 #### 5.05版
 
-於遊戲《[偶像大師](../Page/偶像大師.md "wikilink")》SP遊戲UMD發佈
+於遊戲《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》SP遊戲UMD發佈
 
   - 未知
 
@@ -283,7 +338,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
 
 2009年1月20日發佈
 
-  - 改善使用某些機能時系統軟件之安定性（封堵《[爆衝賽車](../Page/爆衝賽車.md "wikilink")》（*GripShift*）存檔漏洞https://web.archive.org/web/20090220002245/http://psp.tgbus.com/pspgame/psp3000/200901/20090113153404.shtml
+  - 改善使用某些機能時系統軟件之安定性（封堵《[爆衝賽車](https://zh.wikipedia.org/wiki/爆衝賽車 "wikilink")》（*GripShift*）存檔漏洞https://web.archive.org/web/20090220002245/http://psp.tgbus.com/pspgame/psp3000/200901/20090113153404.shtml
     ）
 
 #### 5.02版
@@ -323,7 +378,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
         640 x 480 pixels）
   - \[遊戲\]（PSP-2000 系列適用）
       - 更新了在電視機輸出PlayStation®規格軟件的影像（可使用影像色差連接線，S視頻連接線，AV連接線）
-      - 可使用支援Interlace（交錯掃瞄）輸出的電視機及連接線，輸出[PlayStation®規格軟件的影像](../Page/PlayStation.md "wikilink")。
+      - 可使用支援Interlace（交錯掃瞄）輸出的電視機及連接線，輸出[PlayStation®規格軟件的影像](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
   - 其他
       - 更新[XMB™的原始主题](../Page/XMB.md "wikilink")
           - 原来的原始主题更名为经典主题。
@@ -379,7 +434,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
 #### 3.96版
 
 於遊戲Hot Shots Golf 2發佈
-是[Sony首次只以](../Page/Sony.md "wikilink")[UMD發佈](../Page/UMD.md "wikilink")
+是[Sony首次只以](https://zh.wikipedia.org/wiki/Sony "wikilink")[UMD發佈](https://zh.wikipedia.org/wiki/UMD "wikilink")
 
   - 遊戲
       - 強化了遊玩PlayStation Network 遊戲的機能。
@@ -548,7 +603,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
   - \[设定\]
       - \[聲音設定\]
           - \[Dynamic Normalizer\]（新增）
-              - 使用[动态均衡器使支持在随机播放歌曲时](../Page/动态均衡器.md "wikilink")，系统会自动减小每首歌曲之间的音量差距。
+              - 使用[动态均衡器使支持在随机播放歌曲时](https://zh.wikipedia.org/wiki/动态均衡器 "wikilink")，系统会自动减小每首歌曲之间的音量差距。
   - \[遊戲\]
       - 已強化PLAYSTATION®Network專用遊戲的支援機能。
   - \[网络\]
@@ -735,7 +790,7 @@ Ridge Racer 2(實感賽車2)
 #### 2.00版
 
 2005年7月27日發佈。
-該版本增加了網路瀏覽器、桌面圖示更改、[AAC格式文件播放等功能](../Page/AAC.md "wikilink")，大大增強了系統的性能。
+該版本增加了網路瀏覽器、桌面圖示更改、[AAC格式文件播放等功能](https://zh.wikipedia.org/wiki/AAC "wikilink")，大大增強了系統的性能。
 
   - \[设定\]
       - \[主机设定\]
@@ -750,10 +805,10 @@ Ridge Racer 2(實感賽車2)
       - \[網路設定\]
           - 安全設置中增加 WPA-PSK(TKIP)方式。
   - \[相片\]
-      - 增加對[TIFF](../Page/TIFF.md "wikilink")、[GIF](../Page/GIF.md "wikilink")、[PNG](../Page/PNG.md "wikilink")、[BMP的支援](../Page/BMP.md "wikilink")。
+      - 增加對[TIFF](../Page/TIFF.md "wikilink")、[GIF](../Page/GIF.md "wikilink")、[PNG](../Page/PNG.md "wikilink")、[BMP的支援](https://zh.wikipedia.org/wiki/BMP "wikilink")。
       - 支援透過紅外線傳輸圖片。
   - \[音乐\]
-      - 支援[AAC格式的音頻文件](../Page/AAC.md "wikilink")。
+      - 支援[AAC格式的音頻文件](https://zh.wikipedia.org/wiki/AAC "wikilink")。
       - 播放 UMD MUSIC 時增加跳轉功能
   - \[影片\]
       - 播放 UMD VIDEO 時增加跳轉功能。
@@ -787,7 +842,7 @@ Ridge Racer 2(實感賽車2)
 
 2005年3月24日，索尼發佈了固件1.5版的升級軟體。主要內容如下所示。
 
-  - 在原有的[日語](../Page/日語.md "wikilink")、[英語的基礎上](../Page/英語.md "wikilink")，增加了[德語](../Page/德語.md "wikilink")、[西班牙語](../Page/西班牙語.md "wikilink")、[法語](../Page/法語.md "wikilink")、[意大利語](../Page/意大利語.md "wikilink")、[荷蘭語](../Page/荷蘭語.md "wikilink")、[葡萄牙語](../Page/葡萄牙語.md "wikilink")、[俄語的支援](../Page/俄語.md "wikilink")。
+  - 在原有的[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[英語的基礎上](https://zh.wikipedia.org/wiki/英語 "wikilink")，增加了[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")、[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")、[意大利語](https://zh.wikipedia.org/wiki/意大利語 "wikilink")、[荷蘭語](../Page/荷蘭語.md "wikilink")、[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")、[俄語的支援](https://zh.wikipedia.org/wiki/俄語 "wikilink")。
   - 增加了播放影片和音樂時的恢復功能。（從休眠狀態恢復時能夠從停止的位置繼續播放）
   - 更換影片播放內容時保持原來的顯示模式。
   - 檔案名稱和資料夾名稱支援帶聲調的字母。
@@ -812,15 +867,16 @@ Ridge Racer 2(實感賽車2)
     Lite](../Page/PlayStation_Portable_Slim_&_Lite.md "wikilink")（PSP-2000
     系列）
   - [PlayStation
-    Portable自製系統軟體](../Page/PlayStation_Portable自製系統軟體.md "wikilink")
+    Portable自製系統軟體](https://zh.wikipedia.org/wiki/PlayStation_Portable自製系統軟體 "wikilink")
   - [PlayStation Vita系统软件](../Page/PlayStation_Vita系统软件.md "wikilink")
   - [PlayStation Network](../Page/PlayStation_Network.md "wikilink")
   - [XMB](../Page/XMB.md "wikilink")
   - [PlayStation 3系统软件](../Page/PlayStation_3系统软件.md "wikilink")
   - [PlayStation 4系统软件](../Page/PlayStation_4系统软件.md "wikilink")
-  - [Wii系统软件](../Page/Wii系统软件.md "wikilink")
+  - [Wii系统软件](https://zh.wikipedia.org/wiki/Wii系统软件 "wikilink")
   - [Xbox 360系统软件](../Page/Xbox_360系统软件.md "wikilink")
-  - [Xbox One系统软件](../Page/Xbox_One系统软件.md "wikilink")
+  - [Xbox
+    One系统软件](https://zh.wikipedia.org/wiki/Xbox_One系统软件 "wikilink")
   - [任天堂DSi系统软件](../Page/任天堂DSi系统软件.md "wikilink")
   - [任天堂3DS系统软件](../Page/任天堂3DS系统软件.md "wikilink")
 

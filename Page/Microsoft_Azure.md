@@ -1,7 +1,8 @@
-**Microsoft Azure** 是[微軟的公用雲端服務](../Page/微軟.md "wikilink") (Public Cloud
-Service) 平台，是微軟線上服務 (Microsoft Online Services) 的一部份，自 2008
-年開始發展，2010年2月份正式推出，目前全球有54座資料中心以及44個CDN跳躍點
-(POP)，並且於2015年時被 Gartner 列為雲端運算的領先者\[1\]。
+**Microsoft Azure**
+是[微軟的公用雲端服務](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+(Public Cloud Service) 平台，是微軟線上服務 (Microsoft Online Services) 的一部份，自
+2008 年開始發展，2010年2月份正式推出，目前全球有54座資料中心以及44個CDN跳躍點 (POP)，並且於2015年時被 Gartner
+列為雲端運算的領先者\[1\]。
 
 目前 Microsoft Azure 已包含 30 餘種服務，數百項功能，並且為微軟帶來了12億美元的獲利 (2015年度)
 已规划网络基础结构并确定了要迁移到云的数台 VM。 可以选择多种方法创建 VM。
@@ -22,23 +23,23 @@ Red Dog 的計畫，該計畫要解決的是：
 
 經過數年的開發，Azure平台於2010年2月正式推出公開服務版 (General Availability)，當時的名稱為 Azure
 Service Platform，包含 [Azure Cloud
-Service](../Page/Microsoft_Azure_Cloud_Service.md "wikilink")、[Azure
-Storage](../Page/Microsoft_Azure_Storage.md "wikilink")、[SQL
-Azure](../Page/SQL_Azure.md "wikilink") 與 AppFabric
-四種服務，且僅提供[平台服務](../Page/PaaS.md "wikilink")
+Service](https://zh.wikipedia.org/wiki/Microsoft_Azure_Cloud_Service "wikilink")、[Azure
+Storage](https://zh.wikipedia.org/wiki/Microsoft_Azure_Storage "wikilink")、[SQL
+Azure](https://zh.wikipedia.org/wiki/SQL_Azure "wikilink") 與 AppFabric
+四種服務，且僅提供[平台服務](https://zh.wikipedia.org/wiki/PaaS "wikilink")
 (PaaS) 一種。
 
 2010年下半年更新管理介面為[Microsoft
-Silverlight開發的管理介面](../Page/Microsoft_Silverlight.md "wikilink")，並新增
+Silverlight開發的管理介面](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")，並新增
 VM Role
-([虛擬機器的前身](../Page/Microsoft_Azure_Virtual_Machine.md "wikilink"))，以及
+([虛擬機器的前身](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink"))，以及
 Azure Connect (Azure 虛擬網路的 VPN 連線的前身)。
 
 2012 年是 Azure 發展的里程碑之一，共做了下列改變：
 
   - 更新管理介面，採用 HTML5 技術。
-  - 首次發行[基礎建設服務](../Page/IaaS.md "wikilink")
-    (IaaS)，包含[虛擬機器與](../Page/Microsoft_Azure_Virtual_Machine.md "wikilink")[虛擬網路](../Page/Microsoft_Azure_Virtual_Network.md "wikilink")。
+  - 首次發行[基礎建設服務](https://zh.wikipedia.org/wiki/IaaS "wikilink")
+    (IaaS)，包含[虛擬機器與](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink")[虛擬網路](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Network "wikilink")。
   - 發行 Website 服務，並首次支援 .NET 以外的平台。
   - 發行 Media Service 服務。
   - 2014 年下半年發行 Mobile Service，提供行動應用必須的後台服務，包含資料、識別、通知以及 API 等。
@@ -99,9 +100,10 @@ upgrade）時，Fabric Controller也負責即地更新的協調工作，以保�
 
 RDFE (Red Dog's Front-End) 是 Azure 的前端介面，負責接取來自任何存取 Azure
 的應用程式的命令，它是一組可控制與管理 Azure 服務的
-[REST](../Page/REST.md "wikilink") APIs，對外接受應用程式的要求並回應，對內則是扮演大腦的角色，Azure
-資源的配置策略與方式均是由 RDFE 所進行，包含虛擬機器的 Fault Domain (失效域) 與 Upgrade Domain (更新域)
-的配置與計算都是由 RDFE 處理。
+[REST](https://zh.wikipedia.org/wiki/REST "wikilink")
+APIs，對外接受應用程式的要求並回應，對內則是扮演大腦的角色，Azure
+資源的配置策略與方式均是由 RDFE 所進行，包含虛擬機器的 Fault Domain (失效域) 與 Upgrade
+Domain (更新域) 的配置與計算都是由 RDFE 處理。
 
 ### 網路基礎建設
 
@@ -128,10 +130,11 @@ ECMP)](../Page/等價多路徑路由.md "wikilink")，用來減少因網路擴�
 虛擬網路的整合)，微軟開始發展適用於資料中心的網路相關技術，並設計相關輔助資源。2015年微軟在
 提出了數個重要設計成果 \[5\]：
 
-  - Azure 智慧網路卡 (Azure SmartNIC)，它採用了 [FPGA](../Page/FPGA.md "wikilink")
-    晶片輔助 CPU 進行網路流量的處理，可支援加密與遠端記憶體直接存取
-    ([RDMA](../Page/远程直接内存访问.md "wikilink")) 的功能，降低 RDMA
-    花費在 CPU 上的運算時間。
+  - Azure 智慧網路卡 (Azure SmartNIC)，它採用了
+    [FPGA](https://zh.wikipedia.org/wiki/FPGA "wikilink") 晶片輔助 CPU
+    進行網路流量的處理，可支援加密與遠端記憶體直接存取
+    ([RDMA](https://zh.wikipedia.org/wiki/远程直接内存访问 "wikilink")) 的功能，降低
+    RDMA 花費在 CPU 上的運算時間。
   - 虛擬過濾平台 (Virtual Filtering Platform)，使用於 Azure Hyper-V 內的 VMSwitch
     元件，它可以在網路流量進入網路實體層前先進行處理，包括存取控制表、網路安全、虛擬網路與軟體負載平衡等作業，並且支援
     40GbE 以上的高速網路。
@@ -148,63 +151,63 @@ Microsoft Azure 目前於全球有54個資料中心 (另有6個正興建中)，�
 Azure 服務區域有分為三種：
 
   - Azure Cloud: 意指全球的資料中心，共有 54 個據點：
-      - 位於澳洲的資料中心，共有4座，分別位於[新南威爾斯與](../Page/新南威爾斯.md "wikilink")[維多利亞](../Page/維多利亞.md "wikilink")
+      - 位於澳洲的資料中心，共有4座，分別位於[新南威爾斯與](https://zh.wikipedia.org/wiki/新南威爾斯 "wikilink")[維多利亞](https://zh.wikipedia.org/wiki/維多利亞 "wikilink")
         (位於坎培拉的兩座正興建中)。
-      - 位於印度的資料中心，共有3座，分別位於[孟買](../Page/孟買.md "wikilink")、[金奈與](../Page/金奈.md "wikilink")[浦那](../Page/浦那.md "wikilink")，必須是於由印度微軟認可的大量授權客戶與合作夥伴才能使用，線上申請預計於2016開放。
-      - 位於德國的資料中心，共有2座，分別位於[馬德堡與](../Page/馬德堡.md "wikilink")[法蘭克福](../Page/法蘭克福.md "wikilink")，於資料信任者模式
+      - 位於印度的資料中心，共有3座，分別位於[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")、[金奈與](https://zh.wikipedia.org/wiki/金奈 "wikilink")[浦那](../Page/浦那.md "wikilink")，必須是於由印度微軟認可的大量授權客戶與合作夥伴才能使用，線上申請預計於2016開放。
+      - 位於德國的資料中心，共有2座，分別位於[馬德堡與](https://zh.wikipedia.org/wiki/馬德堡 "wikilink")[法蘭克福](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")，於資料信任者模式
         (Data Trustee Model) 下提供服務。
   - Azure China:
-    意思位於中國的資料中心，共有2座，分別位於[北京與](../Page/北京.md "wikilink")[上海](../Page/上海.md "wikilink")，且並非由微軟直接經營，而是由中國代理商世紀互聯公司
+    意思位於中國的資料中心，共有2座，分別位於[北京與](https://zh.wikipedia.org/wiki/北京 "wikilink")[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，且並非由微軟直接經營，而是由中國代理商世紀互聯公司
     (21vianet) 所經營，因此可用服務會比全球的服務要少，更新也較慢。
   - Azure Government Cloud (GOV):
     負責管理政府雲端服務的資料中心，共有6座，目前僅美國境內設置，且具有政府等級的資訊安全規範。
 
-| 洲別                               | 地區(中文)                             | 地區(英文)               | 區域別\[8\]               | 地理位置                                                          | 說明                              |
-| -------------------------------- | ---------------------------------- | -------------------- | ---------------------- | ------------------------------------------------------------- | ------------------------------- |
-| [北美洲](../Page/北美洲.md "wikilink") | [美國中部](../Page/美國.md "wikilink")   | Central US           | Azure Cloud (Region 1) | [愛荷華州](../Page/愛荷華州.md "wikilink")                            |                                 |
-| 北美洲                              | 美國東部                               | East US              | Azure Cloud (Region 1) | [維吉尼亞州](../Page/維吉尼亞州.md "wikilink")                          |                                 |
-| 北美洲                              | 美國東部2                              | East US 2            | Azure Cloud (Region 1) | [維吉尼亞州](../Page/維吉尼亞州.md "wikilink")                          |                                 |
-| 北美洲                              | 美國政府機構愛荷華州                         | Central US GOV       | Azure Government Cloud | [愛荷華州](../Page/愛荷華州.md "wikilink")                            | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
-| 北美洲                              | 美國政府機構維吉尼亞州                        | East US GOV          | Azure Government Cloud | [維吉尼亞州](../Page/維吉尼亞州.md "wikilink")                          | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
-| 北美洲                              | 美國政府機構亞利桑那州                        | Arizona US GOV       | Azure Government Cloud | [亞利桑那州](../Page/亞利桑那州.md "wikilink")                          | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
-| 北美洲                              | 美國政府機構德克薩斯州                        | Texas US GOV         | Azure Government Cloud | [德克薩斯州](../Page/德克薩斯州.md "wikilink")                          | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
-| 北美洲                              | 美國國防部東部                            | US DoD East          | Azure Government Cloud | (未公布)                                                         | 專供美國國防部使用                       |
-| 北美洲                              | 美國國防部中部                            | US DoD Central       | Azure Government Cloud | (未公布)                                                         | 專供美國國防部使用                       |
-| 北美洲                              | 美國中部                               | Central US           | Azure Cloud (Region 1) | [愛荷華州](../Page/愛荷華州.md "wikilink")                            |                                 |
-| 北美洲                              | 美國中北部                              | North Central US     | Azure Cloud (Region 1) | [伊利諾州](../Page/伊利諾州.md "wikilink")                            |                                 |
-| 北美洲                              | 美國中南部                              | South Central US     | Azure Cloud (Region 1) | [德克薩斯州](../Page/德克薩斯州.md "wikilink")                          |                                 |
-| 北美洲                              | 美國中西部                              | West Central US      | Azure Cloud (Region 1) | (未公布)                                                         |                                 |
-| 北美洲                              | 美國西部                               | West US              | Azure Cloud (Region 1) | [加利福尼亞州](../Page/加利福尼亞州.md "wikilink")                        |                                 |
-| 北美洲                              | 美國西部2                              | West US 2            | Azure Cloud (Region 1) | (未公布)                                                         |                                 |
-| 北美洲                              | [加拿大中部](../Page/加拿大.md "wikilink") | Central Canada       | Azure Cloud (Region 1) | [多倫多](../Page/多倫多.md "wikilink")                              |                                 |
-| 北美洲                              | 加拿大東部                              | East Canada          | Azure Cloud (Region 1) | [魁北克](../Page/魁北克.md "wikilink")                              |                                 |
-| [歐洲](../Page/歐洲.md "wikilink")   | 北歐                                 | North Europe         | Azure Cloud (Region 1) | [愛爾蘭](../Page/愛爾蘭.md "wikilink")                              |                                 |
-| 歐洲                               | 西歐                                 | West Europe          | Azure Cloud (Region 1) | [荷蘭](../Page/荷蘭.md "wikilink")                                |                                 |
-| 歐洲                               | [德國中部](../Page/德國.md "wikilink")   | West Europe          | Azure Cloud (Region 1) | [法蘭克福](../Page/法蘭克福.md "wikilink")                            | 僅設籍於德國的公司可申請使用                  |
-| 歐洲                               | 德國東北部                              | West Europe          | Azure Cloud (Region 1) | [馬德堡](../Page/馬德堡.md "wikilink")                              | 僅設籍於德國的公司可申請使用                  |
-| 歐洲                               | [英國南部](../Page/英國.md "wikilink")   | United Kingdom South | Azure Cloud (Region 1) | [倫敦](../Page/倫敦.md "wikilink")                                |                                 |
-| 歐洲                               | 英國西部                               | United Kingdom West  | Azure Cloud (Region 1) | [卡地夫](../Page/卡地夫.md "wikilink")                              |                                 |
-| 歐洲                               | [法國中部](../Page/法國.md "wikilink")   | France Central       | Azure Cloud (Region 1) | (尚未宣佈)                                                        | (興建中)                           |
-| 歐洲                               | 法國南部                               | France South         | Azure Cloud (Region 1) | (尚未宣佈)                                                        | (興建中)                           |
-| [亞洲](../Page/亞洲.md "wikilink")   | 東亞                                 | East Asia            | Azure Cloud (Region 2) | [香港](../Page/香港特別行政區.md "wikilink")                           |                                 |
-| 亞洲                               | 東南亞                                | Southeast Asia       | Azure Cloud (Region 2) | [新加坡](../Page/新加坡.md "wikilink")                              |                                 |
-| 亞洲                               | [日本東部](../Page/日本.md "wikilink")   | Japan East           | Azure Cloud (Region 2) | [東京](../Page/東京.md "wikilink")，[埼玉](../Page/埼玉.md "wikilink") |                                 |
-| 亞洲                               | 日本西部                               | Japan West           | Azure Cloud (Region 2) | [大阪](../Page/大阪.md "wikilink")                                |                                 |
-| 亞洲                               | [印度中部](../Page/印度.md "wikilink")   | Central India        | Azure Cloud (Region 2) | [浦那](../Page/浦那.md "wikilink")                                |                                 |
-| 亞洲                               | 印度西部                               | South India          | Azure Cloud (Region 2) | [孟買](../Page/孟買.md "wikilink")                                |                                 |
-| 亞洲                               | 印度南部                               | West India           | Azure Cloud (Region 2) | [清奈](../Page/清奈.md "wikilink")                                |                                 |
-| 亞洲                               | [中國東部](../Page/中國.md "wikilink")   | China East           | Azure China            | [上海](../Page/上海.md "wikilink")                                | 由世紀互聯 (21Vianet) 代理營運           |
-| 亞洲                               | 中國北部                               | China North          | Azure China            | [北京](../Page/北京.md "wikilink")                                | 由世紀互聯 (21Vianet) 代理營運           |
-| 亞洲                               | [韓國中部](../Page/韓國.md "wikilink")   | Central Korea        | Azure Cloud (Region 2) | [首爾](../Page/首爾.md "wikilink")                                |                                 |
-| 亞洲                               | 韓國南部                               | South Korea          | Azure Cloud (Region 2) | [釜山](../Page/釜山.md "wikilink")                                |                                 |
-| [大洋洲](../Page/大洋洲.md "wikilink") | [澳洲東部](../Page/澳洲.md "wikilink")   | Australia East       | Azure Cloud (Region 2) | [新南威爾斯](../Page/新南威爾斯.md "wikilink")                          |                                 |
-| 大洋洲                              | 澳洲東南部                              | Australia Southeast  | Azure Cloud (Region 2) | [維多利亞](../Page/維多利亞.md "wikilink")                            |                                 |
-| 大洋洲                              | 澳洲中部                               | Australia Central    | \-                     | [坎培拉](../Page/坎培拉.md "wikilink")                              | 興建中                             |
-| 大洋洲                              | 澳洲中部2                              | Australia Central 2  | \-                     | [坎培拉](../Page/坎培拉.md "wikilink")                              | 興建中                             |
-| [南美洲](../Page/南美洲.md "wikilink") | 巴西南部                               | Brazil South         | Azure Cloud (Region 3) | [聖保羅州](../Page/聖保羅州.md "wikilink")                            |                                 |
-| [非洲](../Page/非洲.md "wikilink")   | 南非西部                               | South Africa West    | \-                     | [開普敦](../Page/開普敦.md "wikilink")                              | 興建中                             |
-| [非洲](../Page/非洲.md "wikilink")   | 南非北部                               | South Africa North   | \-                     | [約翰尼斯堡](../Page/約翰尼斯堡.md "wikilink")                          | 興建中                             |
-|                                  |                                    |                      |                        |                                                               |                                 |
+| 洲別                                                | 地區(中文)                                              | 地區(英文)               | 區域別\[8\]               | 地理位置                                                                                                | 說明                              |
+| ------------------------------------------------- | --------------------------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------- |
+| [北美洲](../Page/北美洲.md "wikilink")                  | [美國中部](https://zh.wikipedia.org/wiki/美國 "wikilink") | Central US           | Azure Cloud (Region 1) | [愛荷華州](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")                                               |                                 |
+| 北美洲                                               | 美國東部                                                | East US              | Azure Cloud (Region 1) | [維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")                                             |                                 |
+| 北美洲                                               | 美國東部2                                               | East US 2            | Azure Cloud (Region 1) | [維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")                                             |                                 |
+| 北美洲                                               | 美國政府機構愛荷華州                                          | Central US GOV       | Azure Government Cloud | [愛荷華州](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")                                               | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
+| 北美洲                                               | 美國政府機構維吉尼亞州                                         | East US GOV          | Azure Government Cloud | [維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")                                             | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
+| 北美洲                                               | 美國政府機構亞利桑那州                                         | Arizona US GOV       | Azure Government Cloud | [亞利桑那州](../Page/亞利桑那州.md "wikilink")                                                                | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
+| 北美洲                                               | 美國政府機構德克薩斯州                                         | Texas US GOV         | Azure Government Cloud | [德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")                                             | 專供美國聯邦政府、州政府、地方政府、原住民政府及其合作夥伴使用 |
+| 北美洲                                               | 美國國防部東部                                             | US DoD East          | Azure Government Cloud | (未公布)                                                                                               | 專供美國國防部使用                       |
+| 北美洲                                               | 美國國防部中部                                             | US DoD Central       | Azure Government Cloud | (未公布)                                                                                               | 專供美國國防部使用                       |
+| 北美洲                                               | 美國中部                                                | Central US           | Azure Cloud (Region 1) | [愛荷華州](https://zh.wikipedia.org/wiki/愛荷華州 "wikilink")                                               |                                 |
+| 北美洲                                               | 美國中北部                                               | North Central US     | Azure Cloud (Region 1) | [伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")                                               |                                 |
+| 北美洲                                               | 美國中南部                                               | South Central US     | Azure Cloud (Region 1) | [德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")                                             |                                 |
+| 北美洲                                               | 美國中西部                                               | West Central US      | Azure Cloud (Region 1) | (未公布)                                                                                               |                                 |
+| 北美洲                                               | 美國西部                                                | West US              | Azure Cloud (Region 1) | [加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")                                           |                                 |
+| 北美洲                                               | 美國西部2                                               | West US 2            | Azure Cloud (Region 1) | (未公布)                                                                                               |                                 |
+| 北美洲                                               | [加拿大中部](../Page/加拿大.md "wikilink")                  | Central Canada       | Azure Cloud (Region 1) | [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")                                                 |                                 |
+| 北美洲                                               | 加拿大東部                                               | East Canada          | Azure Cloud (Region 1) | [魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")                                                 |                                 |
+| [歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink") | 北歐                                                  | North Europe         | Azure Cloud (Region 1) | [愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")                                                 |                                 |
+| 歐洲                                                | 西歐                                                  | West Europe          | Azure Cloud (Region 1) | [荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")                                                   |                                 |
+| 歐洲                                                | [德國中部](https://zh.wikipedia.org/wiki/德國 "wikilink") | West Europe          | Azure Cloud (Region 1) | [法蘭克福](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")                                               | 僅設籍於德國的公司可申請使用                  |
+| 歐洲                                                | 德國東北部                                               | West Europe          | Azure Cloud (Region 1) | [馬德堡](https://zh.wikipedia.org/wiki/馬德堡 "wikilink")                                                 | 僅設籍於德國的公司可申請使用                  |
+| 歐洲                                                | [英國南部](https://zh.wikipedia.org/wiki/英國 "wikilink") | United Kingdom South | Azure Cloud (Region 1) | [倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")                                                   |                                 |
+| 歐洲                                                | 英國西部                                                | United Kingdom West  | Azure Cloud (Region 1) | [卡地夫](https://zh.wikipedia.org/wiki/卡地夫 "wikilink")                                                 |                                 |
+| 歐洲                                                | [法國中部](https://zh.wikipedia.org/wiki/法國 "wikilink") | France Central       | Azure Cloud (Region 1) | (尚未宣佈)                                                                                              | (興建中)                           |
+| 歐洲                                                | 法國南部                                                | France South         | Azure Cloud (Region 1) | (尚未宣佈)                                                                                              | (興建中)                           |
+| [亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink") | 東亞                                                  | East Asia            | Azure Cloud (Region 2) | [香港](https://zh.wikipedia.org/wiki/香港特別行政區 "wikilink")                                              |                                 |
+| 亞洲                                                | 東南亞                                                 | Southeast Asia       | Azure Cloud (Region 2) | [新加坡](../Page/新加坡.md "wikilink")                                                                    |                                 |
+| 亞洲                                                | [日本東部](../Page/日本.md "wikilink")                    | Japan East           | Azure Cloud (Region 2) | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")，[埼玉](https://zh.wikipedia.org/wiki/埼玉 "wikilink") |                                 |
+| 亞洲                                                | 日本西部                                                | Japan West           | Azure Cloud (Region 2) | [大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")                                                   |                                 |
+| 亞洲                                                | [印度中部](../Page/印度.md "wikilink")                    | Central India        | Azure Cloud (Region 2) | [浦那](../Page/浦那.md "wikilink")                                                                      |                                 |
+| 亞洲                                                | 印度西部                                                | South India          | Azure Cloud (Region 2) | [孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")                                                   |                                 |
+| 亞洲                                                | 印度南部                                                | West India           | Azure Cloud (Region 2) | [清奈](https://zh.wikipedia.org/wiki/清奈 "wikilink")                                                   |                                 |
+| 亞洲                                                | [中國東部](../Page/中國.md "wikilink")                    | China East           | Azure China            | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
+| 亞洲                                                | 中國北部                                                | China North          | Azure China            | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
+| 亞洲                                                | [韓國中部](https://zh.wikipedia.org/wiki/韓國 "wikilink") | Central Korea        | Azure Cloud (Region 2) | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")                                                   |                                 |
+| 亞洲                                                | 韓國南部                                                | South Korea          | Azure Cloud (Region 2) | [釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")                                                   |                                 |
+| [大洋洲](../Page/大洋洲.md "wikilink")                  | [澳洲東部](https://zh.wikipedia.org/wiki/澳洲 "wikilink") | Australia East       | Azure Cloud (Region 2) | [新南威爾斯](https://zh.wikipedia.org/wiki/新南威爾斯 "wikilink")                                             |                                 |
+| 大洋洲                                               | 澳洲東南部                                               | Australia Southeast  | Azure Cloud (Region 2) | [維多利亞](https://zh.wikipedia.org/wiki/維多利亞 "wikilink")                                               |                                 |
+| 大洋洲                                               | 澳洲中部                                                | Australia Central    | \-                     | [坎培拉](https://zh.wikipedia.org/wiki/坎培拉 "wikilink")                                                 | 興建中                             |
+| 大洋洲                                               | 澳洲中部2                                               | Australia Central 2  | \-                     | [坎培拉](https://zh.wikipedia.org/wiki/坎培拉 "wikilink")                                                 | 興建中                             |
+| [南美洲](../Page/南美洲.md "wikilink")                  | 巴西南部                                                | Brazil South         | Azure Cloud (Region 3) | [聖保羅州](https://zh.wikipedia.org/wiki/聖保羅州 "wikilink")                                               |                                 |
+| [非洲](../Page/非洲.md "wikilink")                    | 南非西部                                                | South Africa West    | \-                     | [開普敦](../Page/開普敦.md "wikilink")                                                                    | 興建中                             |
+| [非洲](../Page/非洲.md "wikilink")                    | 南非北部                                                | South Africa North   | \-                     | [約翰尼斯堡](https://zh.wikipedia.org/wiki/約翰尼斯堡 "wikilink")                                             | 興建中                             |
+|                                                   |                                                     |                      |                        |                                                                                                     |                                 |
 
 ## 管理模式
 
@@ -234,7 +237,7 @@ Azure Quickstart Template \[9\]供入門的系統管理人員使用。
 ## 服務
 
 Microsoft Azure 現已包含 30
-餘種服務，以及數百項功能，針對雲端以及[物聯網與](../Page/物聯網.md "wikilink")[大數據等所需要的各類型服務提供](../Page/大數據.md "wikilink")。
+餘種服務，以及數百項功能，針對雲端以及[物聯網與](https://zh.wikipedia.org/wiki/物聯網 "wikilink")[大數據等所需要的各類型服務提供](../Page/大數據.md "wikilink")。
 
 ### 運算服務
 
@@ -255,8 +258,9 @@ Machine) 所組成的服務群，其主要功能是提供 CPU、記憶體等具�
       - Service Fabric: 提供標準的作業系統映像，開發人員可使用 Azure Service Fabric SDK
         開發微服務 (Microservice) 應用程式，可視為下一代的 Azure Cloud Service。
       - Azure Kubernetes Service (AKS): 提供以
-        [Docker](../Page/Docker.md "wikilink") 容器格式為基礎，並由微軟維運
-        [Kubernetes](../Page/Kubernetes.md "wikilink")
+        [Docker](https://zh.wikipedia.org/wiki/Docker "wikilink")
+        容器格式為基礎，並由微軟維運
+        [Kubernetes](https://zh.wikipedia.org/wiki/Kubernetes "wikilink")
         叢集，用以支援容器部署，調度與管理功能。
       - Azure Application Services，提佈署網頁應用程式的 Web Apps, 以及具無伺服器
         (Serverless) 應用開發能力的 Logic Apps 與 Functions 服務。
@@ -284,12 +288,12 @@ Azure)，儲存服務提供了 Blob、Table 和 Queue 分別管理非結構化�
 服務，以支援在雲端虛擬機器間的快速資料共享。
 
 資料庫服務 SQL Azure 為 SQL Server as a Service，提供大部份在地端的 [SQL
-Server](../Page/SQL_Server.md "wikilink") 資料庫的能力，2013 年微軟將 SQL Azure 正名為
-Azure SQL Database，以提升品牌識別度，2014 年新增依交易量計費的 DTU 模式，以及新一代資料庫引擎
-V12，強化資料庫的功能與效率，2015 年更提出了許多資料庫的企業級應用，如 Elastic
-Pooling、SQL Data Warehouse 與和 SQL Server 2016 配合的 SQL Database Strerch
-Database 功能，使 SQL Database 更適合企業的應用。2017 年將 Database as a Service 擴大支援
-[MySQL](../Page/MySQL.md "wikilink") 與
+Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink") 資料庫的能力，2013
+年微軟將 SQL Azure 正名為 Azure SQL Database，以提升品牌識別度，2014 年新增依交易量計費的 DTU
+模式，以及新一代資料庫引擎 V12，強化資料庫的功能與效率，2015 年更提出了許多資料庫的企業級應用，如
+Elastic Pooling、SQL Data Warehouse 與和 SQL Server 2016 配合的 SQL Database
+Strerch Database 功能，使 SQL Database 更適合企業的應用。2017 年將 Database as a
+Service 擴大支援 [MySQL](../Page/MySQL.md "wikilink") 與
 [PostgreSQL](../Page/PostgreSQL.md "wikilink") 等資料庫系統，2018 年新增依虛擬核心數計費的
 vCore 模式，讓用戶更容易對應在原本伺服器環境的硬體規格。
 
@@ -313,7 +317,7 @@ Azure Table API, Mongo API, Cassandra API, DocumentDB SQL 與 Graph API
     處理資料的轉換；Azure Stream Analytics 處理在資料流動過程中的特徵分析。
   - 資料分析：Azure HDInsights 支援以 [Apache
     Hadoop](../Page/Apache_Hadoop.md "wikilink") 為主的技術集合所支援的資料分析，包含
-    [MapReduce](../Page/MapReduce.md "wikilink")、[HDFS](../Page/HDFS.md "wikilink")、[HBase](../Page/HBase.md "wikilink")、[Pig](../Page/Pig.md "wikilink")
+    [MapReduce](../Page/MapReduce.md "wikilink")、[HDFS](https://zh.wikipedia.org/wiki/HDFS "wikilink")、[HBase](https://zh.wikipedia.org/wiki/HBase "wikilink")、[Pig](https://zh.wikipedia.org/wiki/Pig "wikilink")
     等技術；Azure Machine Learning 支援以模型為主的資料分析與推斷能力。
   - 資料儲存：Azure Data Lake 支援各種類型的資料，無上限的資料儲存能力。
 
@@ -322,8 +326,9 @@ Azure Table API, Mongo API, Cassandra API, DocumentDB SQL 與 Graph API
 網路服務是 Microsoft Azure 對外通訊與內部各類服務之間的資料通訊基礎建設，也是 Azure IaaS 的重要成員之一。
 
 Azure 虛擬網路可允許組織或企業在雲端建置自己的網路基礎建設，包含子網路、IP配置、負載平衡器與網路安全原則等，同時可以建置
-[VPN](../Page/VPN.md "wikilink") 以串連企業網路與其他區域的虛擬網路，也可以利用 P2S VPN
-串接個人用戶端與虛擬網路。
+[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")
+以串連企業網路與其他區域的虛擬網路，也可以利用 P2S
+VPN 串接個人用戶端與虛擬網路。
 
 為了要加速網路速度、隔離用戶與 Internet 網路環境，Azure 提供 ExpressRoute 給用戶以支援專屬性
 (Dedicated) 的 Azure 資料中心間通訊。
@@ -335,12 +340,13 @@ Azure 虛擬網路可允許組織或企業在雲端建置自己的網路基礎�
 
 Azure AD (Active Directory) 是 Microsoft Azure 上主要的身份識別與存取服務，是基於 HTTP
 之業界標準 OAUTH 2.0 與 OpendID 協定的雲端身分驗證服務，由於傳統使用
-[LDAP](../Page/LDAP.md "wikilink")/Kerberos 驗證協定的 Windows Server [Active
+[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")/Kerberos 驗證協定的
+Windows Server [Active
 Directory](../Page/Active_Directory.md "wikilink")
 不易用於網際網路與行動裝置環境上身分驗證，因此微軟提供
 Azure AD Connect 服務以處理 Windows Server Active Directory \<-\> Azure
 Active Directory 的帳戶同步功能。Azure AD
-也提供了[多重要素驗證](../Page/多重要素驗證.md "wikilink")
+也提供了[多重要素驗證](https://zh.wikipedia.org/wiki/多重要素驗證 "wikilink")
 (Multi-Factor Authentication) 能力以支援需要多重方法驗證的應用，Azure AD
 的應用程式連結功能則提供了軟體服務 (SaaS) 整合所需的身份驗證能力。
 
@@ -414,21 +420,24 @@ Azure，或是認可 Microsoft Azure 在資訊安全上的努力 \[10\]。
 ## 工具
 
 Microsoft Azure 在早期只能使用 Web-based 管理工具存取，在 2012 年開始提供
-[PowerShell](../Page/PowerShell.md "wikilink") 指令介面，並進一步於 2013
-年起開始提供指令介面，以支援非 Windows 作業系統的使用者 (Azure
-CLI)，而微軟也開放了服務管理介面 (RDFE 的 API) 供開發人員使用，因此能管理與存取
-Microsoft Azure 的工具相當多。
+[PowerShell](https://zh.wikipedia.org/wiki/PowerShell "wikilink")
+指令介面，並進一步於 2013 年起開始提供指令介面，以支援非 Windows 作業系統的使用者 (Azure
+CLI)，而微軟也開放了服務管理介面 (RDFE 的 API) 供開發人員使用，因此能管理與存取 Microsoft Azure 的工具相當多。
 
   - [Microsoft Visual
     Studio](../Page/Microsoft_Visual_Studio.md "wikilink")，配合 Azure SDK
     for .NET，可直接部署、管理與新增相關專案。
-  - [Azure PowerShell](../Page/Azure_PowerShell.md "wikilink")，提供 IT
-    人員管理 Azure 所需的 PowerShell 指令介面。
-  - [Azure CLI](../Page/Azure_CLI.md "wikilink")，舊稱
+  - [Azure
+    PowerShell](https://zh.wikipedia.org/wiki/Azure_PowerShell "wikilink")，提供
+    IT 人員管理 Azure 所需的 PowerShell 指令介面。
+  - [Azure CLI](https://zh.wikipedia.org/wiki/Azure_CLI "wikilink")，舊稱
     Xplat-CLI，提供跨平台的指令管理介面。
-  - [Azure 服務管理 APIs](../Page/Azure_RDFE_API.md "wikilink")，為
-    [REST](../Page/REST.md "wikilink") API，由開發人員編寫程式存取 \[16\]。
-  - [System Center](../Page/System_Center.md "wikilink") App
+  - [Azure 服務管理
+    APIs](https://zh.wikipedia.org/wiki/Azure_RDFE_API "wikilink")，為
+    [REST](https://zh.wikipedia.org/wiki/REST "wikilink")
+    API，由開發人員編寫程式存取 \[16\]。
+  - [System
+    Center](https://zh.wikipedia.org/wiki/System_Center "wikilink") App
     Controller，可在企業內管理與部署 Azure 資源 \[17\]。
   - Azure Storage Explorer，由社群開發，支援 Azure Storage 的存取 (除 Azure File 外)
     \[18\]。

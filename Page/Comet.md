@@ -1,9 +1,9 @@
 <div class="notice metadata" id="disambig">
 
 [Disambig.svg](https://zh.wikipedia.org/wiki/File:Disambig.svg "fig:Disambig.svg")
-<small>本條目是指[韓國歌手](../Page/韓國.md "wikilink")[高潤荷的專輯](../Page/高潤荷.md "wikilink")。
+<small>本條目是指[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[高潤荷的專輯](../Page/高潤荷.md "wikilink")。
 關於縮寫為CoMET、由世界數個大型[都市鐵道參與的組織](../Page/城市軌道交通.md "wikilink")，請參見**[國際地鐵聯盟](../Page/國際地鐵聯盟.md "wikilink")**。
-關於英文的comet(即彗星)，請參見[彗星](../Page/彗星.md "wikilink")。</small>
+關於英文的comet(即彗星)，請參見[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")。</small>
 
 <div style="font-size: small;">
 
@@ -11,7 +11,7 @@
 
 </div>
 
-**Comet**是[高润荷于](../Page/Younha.md "wikilink")2007年10月23日所推出的第2张韩语专辑。
+**Comet**是[高润荷于](https://zh.wikipedia.org/wiki/Younha "wikilink")2007年10月23日所推出的第2张韩语专辑。
 
 ## 曲目列表
 

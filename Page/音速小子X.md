@@ -1,8 +1,8 @@
 「**音速小子 X**」（英文：Sonic X　日文：ソニック エックス）是一部由[日本](../Page/日本.md "wikilink")
 [東京電視台和](../Page/東京電視台.md "wikilink")[TMS
-Entertainment製作的動畫](../Page/TMS_Entertainment.md "wikilink")，改編自著名電玩[音速小子](../Page/音速小子.md "wikilink")，總共三季，每季26集，第三季未在日本放映，有日文配音。[日本於](../Page/日本.md "wikilink")2003年4月6日至2004年3月28日於[東京電視台播放第一季和第二季](../Page/東京電視台.md "wikilink")，而第三季始終未播放。
+Entertainment製作的動畫](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")，改編自著名電玩[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")，總共三季，每季26集，第三季未在日本放映，有日文配音。[日本於](../Page/日本.md "wikilink")2003年4月6日至2004年3月28日於[東京電視台播放第一季和第二季](../Page/東京電視台.md "wikilink")，而第三季始終未播放。
 
-[香港在](../Page/香港.md "wikilink")2005年1月3日至3月17日於[無綫電視翡翠台首播第一季與第二季](../Page/無綫電視翡翠台.md "wikilink")（1\~52集），其後在2005年10月5日至11月14日播放第三季（53\~78集）。[台灣的第一季到第三季都在](../Page/台灣.md "wikilink")[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")。
+[香港在](../Page/香港.md "wikilink")2005年1月3日至3月17日於[無綫電視翡翠台首播第一季與第二季](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")（1\~52集），其後在2005年10月5日至11月14日播放第三季（53\~78集）。[台灣的第一季到第三季都在](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")。
 
 ## 故事大意
 
@@ -12,9 +12,9 @@ Entertainment製作的動畫](../Page/TMS_Entertainment.md "wikilink")，改編�
 蛋頭博士企圖利用這股力量統治世界，但音速小子卻總是破壞他的計畫。在一次的對決中，音速小子把蛋頭博士的機器弄壞了，而蛋頭博士在混亂之下，按下了機器的開關，使得故障的機器啟動了渾沌制御(Chaos
 Control)，造成時空扭轉，把音速小子與他的夥伴們送往另一個世界。在這個世界，音速小子認識了一名叫克里斯的少年，與他成為莫逆之交，也在克里斯的幫助下，找回失散的同伴，但蛋頭博士仍不放棄征服世界的野心，再度與音速小子展開死鬥。
 
-※："Chaos"在英文的原意為渾沌(亦寫作混沌)，指的是[虛空](../Page/虛空.md "wikilink")，或者沒有結構的均勻狀態。“卡歐斯”是“Chaos”音譯成日文“カオス”再音譯成中文的翻譯。[Sega似乎在音速小子大冒險](../Page/Sega.md "wikilink")2(Sonic
+※："Chaos"在英文的原意為渾沌(亦寫作混沌)，指的是[虛空](https://zh.wikipedia.org/wiki/虛空 "wikilink")，或者沒有結構的均勻狀態。“卡歐斯”是“Chaos”音譯成日文“カオス”再音譯成中文的翻譯。[Sega似乎在音速小子大冒險](https://zh.wikipedia.org/wiki/Sega "wikilink")2(Sonic
 Adventure 2，DC/GC的電玩)中，將之定義為時間與空間的渾沌能量。
-“Emerald”的原意是綠寶石或翡翠，但是渾沌寶石只有一顆是綠色，所以翻作寶石，這是[Sega一直以來的誤用](../Page/Sega.md "wikilink")。
+“Emerald”的原意是綠寶石或翡翠，但是渾沌寶石只有一顆是綠色，所以翻作寶石，這是[Sega一直以來的誤用](https://zh.wikipedia.org/wiki/Sega "wikilink")。
 “Chaos Control”算是一種動作或是現象，不算是機器，只是蛋頭博士必須靠著機器的力量去使用而已。
 
 ### 第二季（第27 - 52集）
@@ -63,10 +63,10 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 
   -  - Knuckles the Echidna
     古代的戰鬥名族 -
-    納寇茲的末裔，因為是末裔，所以用族民作自己的名字。腦袋不大靈光，但是非常善良，永不放棄希望。容易受騙上當，常常被蛋頭博士欺騙，音速小子他們常嘲笑他是單細胞生物。納寇茲不是土撥鼠，是[針鼴](../Page/針鼴.md "wikilink")，這種生物挖的洞不深，所以納寇茲才會需要鐵鍬爪(Shovel
+    納寇茲的末裔，因為是末裔，所以用族民作自己的名字。腦袋不大靈光，但是非常善良，永不放棄希望。容易受騙上當，常常被蛋頭博士欺騙，音速小子他們常嘲笑他是單細胞生物。納寇茲不是土撥鼠，是[針鼴](https://zh.wikipedia.org/wiki/針鼴 "wikilink")，這種生物挖的洞不深，所以納寇茲才會需要鐵鍬爪(Shovel
     Claw)。
     ※："Knuckles"的原意是指關節，但日本人常將之用為揍人拳頭(從Sega製作的遊戲Bare
-    Knuckles可知)。因為音速小子本是以美國文化為主，固"納寇茲"是英文音譯，日文音譯為"納克魯茲"(ナックルズ)，[台灣地區則譯為](../Page/台灣地區.md "wikilink")"納克"。
+    Knuckles可知)。因為音速小子本是以美國文化為主，固"納寇茲"是英文音譯，日文音譯為"納克魯茲"(ナックルズ)，[台灣地區則譯為](https://zh.wikipedia.org/wiki/台灣地區 "wikilink")"納克"。
 
 <!-- end list -->
 
@@ -289,7 +289,7 @@ Emerald"翻作"綠寶石之母"比較不恰當，它的意思應該是指"渾沌
 
 ## 製作人員
 
-  - 原案: [SEGA](../Page/世嘉公司.md "wikilink") [Sonic
+  - 原案: [SEGA](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink") [Sonic
     Team](../Page/Sonic_Team.md "wikilink")、日本咕嚕咕嚕漫畫月刊、日本咕嚕咕嚕漫畫別冊
   - 企劃：SONIC Project
   - 監製：中裕司

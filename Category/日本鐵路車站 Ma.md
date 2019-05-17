@@ -14,7 +14,7 @@
 </tbody>
 </table>
 
-本分類收錄[日本](../Page/日本.md "wikilink")[鐵路車站中](../Page/鐵路車站.md "wikilink")，站名拼音以**Ma**（）開頭的各車站。
+本分類收錄[日本](../Page/日本.md "wikilink")[鐵路車站中](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，站名拼音以**Ma**（）開頭的各車站。
 
 ## 羅馬拼音
 

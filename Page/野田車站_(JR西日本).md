@@ -1,7 +1,7 @@
-**野田車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](../Page/鐵路車站.md "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區吉野三丁目](../Page/福島區.md "wikilink")。野田車站是JR西日本所屬的[大阪環狀線沿線車站](../Page/大阪環狀線.md "wikilink")，也是JR西日本旗下大阪近郊鐵路路線群[都市網路](../Page/都市網路.md "wikilink")（，Urban
-Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區市內制度](../Page/特定都區市內制度.md "wikilink")，被劃分為「大阪市內」的車站之一。
+**野田車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區吉野三丁目](../Page/福島區.md "wikilink")。野田車站是JR西日本所屬的[大阪環狀線沿線車站](../Page/大阪環狀線.md "wikilink")，也是JR西日本旗下大阪近郊鐵路路線群[都市網路](https://zh.wikipedia.org/wiki/都市網路 "wikilink")（，Urban
+Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區市內制度](https://zh.wikipedia.org/wiki/特定都區市內制度 "wikilink")，被劃分為「大阪市內」的車站之一。
 
-距離野田車站最近的轉車站，是[大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink")[千日前線沿線的](../Page/千日前線.md "wikilink")[玉川站](../Page/玉川站_\(大阪府\).md "wikilink")。除此之外，[阪神電氣鐵道也擁有一個同樣名叫](../Page/阪神電氣鐵道.md "wikilink")[野田的車站](../Page/野田車站_\(阪神\).md "wikilink")，距離本站約500公尺。
+距離野田車站最近的轉車站，是[大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink")[千日前線沿線的](../Page/千日前線.md "wikilink")[玉川站](https://zh.wikipedia.org/wiki/玉川站_\(大阪府\) "wikilink")。除此之外，[阪神電氣鐵道也擁有一個同樣名叫](../Page/阪神電氣鐵道.md "wikilink")[野田的車站](https://zh.wikipedia.org/wiki/野田車站_\(阪神\) "wikilink")，距離本站約500公尺。
 
 ## 車站結構
 
@@ -9,10 +9,10 @@ Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區
 
 ### 月台配置
 
-| 月台 | 路線         | 方向                                                                        | 目的地                                                                   |
-| -- | ---------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 1  | **** 大阪環狀線 | 內環                                                                        | [西九條](../Page/西九條站.md "wikilink")、[新今宮方向](../Page/新今宮站.md "wikilink") |
-| 2  | 外環         | [大阪](../Page/大阪站.md "wikilink")、[京橋方向](../Page/京橋站_\(大阪府\).md "wikilink") |                                                                       |
+| 月台 | 路線         | 方向                                                                                                              | 目的地                                                                                                         |
+| -- | ---------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1  | **** 大阪環狀線 | 內環                                                                                                              | [西九條](https://zh.wikipedia.org/wiki/西九條站 "wikilink")、[新今宮方向](https://zh.wikipedia.org/wiki/新今宮站 "wikilink") |
+| 2  | 外環         | [大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")、[京橋方向](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink") |                                                                                                             |
 
 ## 相鄰車站
 
@@ -28,7 +28,7 @@ Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區
         區間快速、直通快速、普通
 
           -
-            [福島](../Page/福島站_\(JR西日本\).md "wikilink")（JR-O12）－**野田（JR-O13）**－[西九條](../Page/西九條站.md "wikilink")（JR-O14）
+            [福島](https://zh.wikipedia.org/wiki/福島站_\(JR西日本\) "wikilink")（JR-O12）－**野田（JR-O13）**－[西九條](https://zh.wikipedia.org/wiki/西九條站 "wikilink")（JR-O14）
 
 ## 外部連結
 

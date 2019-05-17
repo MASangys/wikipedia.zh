@@ -1,6 +1,6 @@
-**貓國物語NEARGO**（）系列繪本，是由[莫莉薊野](../Page/莫莉薊野.md "wikilink")（）原著，包括：貓國物語、子貓絮語、貓城小事、我最愛的貓國、花貓幻語五集。貓國物語是以「真實加虛構」的手法寫、畫的，每一本書都會留有篇幅介紹貓國，故事中虛構的貓國Neargo位於[義大利](../Page/義大利.md "wikilink")[熱那亞附近](../Page/熱那亞.md "wikilink")，以貓多出名。前兩集的內容偏重於[貓的生活故事](../Page/貓.md "wikilink")，貓城小事的內容則以Neargo城為重點。
+**貓國物語NEARGO**（）系列繪本，是由[莫莉薊野](https://zh.wikipedia.org/wiki/莫莉薊野 "wikilink")（）原著，包括：貓國物語、子貓絮語、貓城小事、我最愛的貓國、花貓幻語五集。貓國物語是以「真實加虛構」的手法寫、畫的，每一本書都會留有篇幅介紹貓國，故事中虛構的貓國Neargo位於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[熱那亞附近](https://zh.wikipedia.org/wiki/熱那亞 "wikilink")，以貓多出名。前兩集的內容偏重於[貓的生活故事](https://zh.wikipedia.org/wiki/貓 "wikilink")，貓城小事的內容則以Neargo城為重點。
 
-日文原作於2001年開始出版，繁體中文版由[台灣](../Page/台灣.md "wikilink")[積木文化於](../Page/積木文化.md "wikilink")2007年開始出版，胡儀芳譯。中国大陆由[南海出版社出版](../Page/南海出版社.md "wikilink")。
+日文原作於2001年開始出版，繁體中文版由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[積木文化於](https://zh.wikipedia.org/wiki/積木文化 "wikilink")2007年開始出版，胡儀芳譯。中国大陆由[南海出版社出版](https://zh.wikipedia.org/wiki/南海出版社 "wikilink")。
 
 ## 故事
 
@@ -30,9 +30,9 @@
 
   - Neargo城
 
-貓國物語中雖然在書中聲明NEARGO是現實社會中存在於[義大利](../Page/義大利.md "wikilink")[米蘭南方](../Page/米蘭.md "wikilink")145[公里](../Page/公里.md "wikilink")，人口20000人，面積44[平方公里的一個真實的城市](../Page/平方公里.md "wikilink")，但實際上義大利並沒有名為「Neargo」的城市。
+貓國物語中雖然在書中聲明NEARGO是現實社會中存在於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭南方](../Page/米蘭.md "wikilink")145[公里](../Page/公里.md "wikilink")，人口20000人，面積44[平方公里的一個真實的城市](https://zh.wikipedia.org/wiki/平方公里 "wikilink")，但實際上義大利並沒有名為「Neargo」的城市。
 
-故事中，Neargo以中央大橋與義大利連接，是獨立的國家，擁有自己的貨幣~~Ｎ~~。城中的道路有曼其肯大道、索馬利大道、哈瓦納大道、Bricks大道。該國官方語言為[英語](../Page/英語.md "wikilink")，但街上也隨處可見[義大利文的招牌或路標](../Page/義大利文.md "wikilink")。島上居住了兩萬兩千隻貓。
+故事中，Neargo以中央大橋與義大利連接，是獨立的國家，擁有自己的貨幣~~Ｎ~~。城中的道路有曼其肯大道、索馬利大道、哈瓦納大道、Bricks大道。該國官方語言為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，但街上也隨處可見[義大利文的招牌或路標](https://zh.wikipedia.org/wiki/義大利文 "wikilink")。島上居住了兩萬兩千隻貓。
 
 故事內設定的歷史在14世紀初，跟著建造納貝爾克城的納貝爾伯爵移居到Neargo
 的50多隻貓，就是該地貓咪的祖先。不久由老鼠引發的「黑死病」肆虐島上，最後有賴被移居至島上的貓消滅。從此之後貓被島上的人民視為英雄，從此被稱為"Brave

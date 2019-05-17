@@ -1,10 +1,10 @@
 《**魔王 JUVENILE
 REMIX**》（）是在2007年27號開始連載於[週刊少年Sunday上的漫畫作品](../Page/週刊少年Sunday.md "wikilink")，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠作畫](../Page/大須賀惠.md "wikilink")。
 
-由伊坂幸太郎的小說《[魔王](../Page/魔王_\(小說\).md "wikilink")》改編，將內容大幅度加工成為適合的少年漫畫，所以標題加上JUVENILE
-REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另一本小說《[-{蚱蜢}-](../Page/蚱蜢_\(小說\).md "wikilink")》（中文版由獨步文化出版）的人物故事，除了《-{蚱蜢}-》伊坂其他作品的關鍵字亦會出現。
+由伊坂幸太郎的小說《[魔王](https://zh.wikipedia.org/wiki/魔王_\(小說\) "wikilink")》改編，將內容大幅度加工成為適合的少年漫畫，所以標題加上JUVENILE
+REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另一本小說《[-{蚱蜢}-](https://zh.wikipedia.org/wiki/蚱蜢_\(小說\) "wikilink")》（中文版由獨步文化出版）的人物故事，除了《-{蚱蜢}-》伊坂其他作品的關鍵字亦會出現。
 
-雖然在[小學館的雜誌上連載](../Page/小學館.md "wikilink")，但原作小說由其他公司出版的情況較為罕見（《魔王》為[講談社](../Page/講談社.md "wikilink")、《-{蚱蜢}-》則為[角川書店](../Page/角川書店.md "wikilink")）。
+雖然在[小學館的雜誌上連載](../Page/小學館.md "wikilink")，但原作小說由其他公司出版的情況較為罕見（《魔王》為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、《-{蚱蜢}-》則為[角川書店](../Page/角川書店.md "wikilink")）。
 
 在前傳漫畫《[Waltz](../Page/Waltz_\(漫画\).md "wikilink")》日文版第6卷的初回限定版中，附贈的廣播劇CD有著本作一部分的配音劇情。
 
@@ -34,10 +34,11 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
     口頭禪是「-{zh-hans:想一想; zh-tw:想一想;
     zh-hk:想一下吧}-」。這個口頭禪來自年幼時憧憬的電視節目《[-{zh-hans:百战天龙;
     zh-tw:百戰天龍;
-    zh-hk:玉面飛龍}-](../Page/百戰天龍.md "wikilink")》主角[麥基華](../Page/麥基華.md "wikilink")（MacGyver）的口頭禪。很熟悉《[-{zh-hans:寅次郎的故事;
+    zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角[麥基華](../Page/麥基華.md "wikilink")（MacGyver）的口頭禪。很熟悉《[-{zh-hans:寅次郎的故事;
     zh-tw:寅次郎的故事;
     zh-hk:男人之苦}-](../Page/寅次郎的故事.md "wikilink")》和《[-{zh-hans:假面骑士;
-    zh-tw:假面騎士; zh-hk:幪面超人}-](../Page/假面骑士系列.md "wikilink")》。
+    zh-tw:假面騎士;
+    zh-hk:幪面超人}-](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")》。
     原作為上班族。
 
 <!-- end list -->
@@ -53,7 +54,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 ### 猫田东高中
 
   -
-    安藤的朋友。在開雑誌密封的書頁技術相當了得，非常喜歡[黃色笑話](../Page/黃色笑話.md "wikilink")。是安藤在學校內被孤立仍與他接觸的朋友。
+    安藤的朋友。在開雑誌密封的書頁技術相當了得，非常喜歡[黃色笑話](https://zh.wikipedia.org/wiki/黃色笑話 "wikilink")。是安藤在學校內被孤立仍與他接觸的朋友。
     第二章中，在Duce处做兼职，并且加入了「草蜢」。被千金误以为「与润也一同杀死了店长」，在拷问后被杀害。
     原作是安藤大学时代的朋友，相隔5年后再遇。
 
@@ -67,7 +68,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 <!-- end list -->
 
   -
-    安藤兄弟所属的新聞部的副部長，亦是两人的前輩。非常美麗，在學校中就像[偶像一樣](../Page/偶像.md "wikilink")。看上去性格好像很輕浮，但她很有看人的能力。常常差遣其他部員。由於受到黃蜂所傷而不能上學。
+    安藤兄弟所属的新聞部的副部長，亦是两人的前輩。非常美麗，在學校中就像[偶像一樣](https://zh.wikipedia.org/wiki/偶像 "wikilink")。看上去性格好像很輕浮，但她很有看人的能力。常常差遣其他部員。由於受到黃蜂所傷而不能上學。
     第二章中，是大学1年级生。
     原作為安藤的同事。带过安藤去摇滚演唱会。
 
@@ -80,13 +81,13 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
     第二章中，协助润也调查安藤死亡的真相。同时也被润也拜托保护诗织等人。
     原作是归化日本的美国人。在安藤住所附近開設英語會話教室。跟漫画版一样被人纵火。
     名字来由推测为《[-{zh-hans:百战天龙; zh-tw:百戰天龍;
-    zh-hk:玉面飛龍}-](../Page/百戰天龍.md "wikilink")》主角的扮演者[Richard
+    zh-hk:玉面飛龍}-](https://zh.wikipedia.org/wiki/百戰天龍 "wikilink")》主角的扮演者[Richard
     Dean Anderson](../Page/李察·狄恩·安德森.md "wikilink")。
 
 <!-- end list -->
 
   -
-    参照[\#草蜢](../Page/#草蜢.md "wikilink")。
+    参照[\#草蜢](https://zh.wikipedia.org/wiki/#草蜢 "wikilink")。
 
 <!-- end list -->
 
@@ -136,7 +137,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 <!-- end list -->
 
   -
-    参照[\#殺手](../Page/#殺手.md "wikilink")。
+    参照[\#殺手](https://zh.wikipedia.org/wiki/#殺手 "wikilink")。
 
 <!-- end list -->
 
@@ -204,7 +205,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 
   - 黑衣男子
     安藤临死前在其身边调查的神秘人物。
-    根据他的行事作风，推测是伊坂幸太郎的小说《[死神的精确度](../Page/死神的精确度.md "wikilink")》的主角千叶。该角色在原著小说《魔王》中也有登场。
+    根据他的行事作风，推测是伊坂幸太郎的小说《[死神的精确度](https://zh.wikipedia.org/wiki/死神的精确度 "wikilink")》的主角千叶。该角色在原著小说《魔王》中也有登场。
 
 ### 劇團
 
@@ -296,9 +297,9 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
     要非常喜欢的角色。
   -
     在很多地方都有出现（比如第1话中润也的衣服上）。
-    是伊坂幸太郎的小说《[奥杜邦的祈祷](../Page/奥杜邦的祈祷.md "wikilink")》中登场的稻草人。
+    是伊坂幸太郎的小说《[奥杜邦的祈祷](https://zh.wikipedia.org/wiki/奥杜邦的祈祷 "wikilink")》中登场的稻草人。
   -
-    店长经营的咖啡店。第二章起草蜢的成员跟岛也有在这里工作。Duce在意大利语中是领袖的意思。意大利独裁者[墨索里尼曾经得到过这个称号](../Page/墨索里尼.md "wikilink")。
+    店长经营的咖啡店。第二章起草蜢的成员跟岛也有在这里工作。Duce在意大利语中是领袖的意思。意大利独裁者[墨索里尼曾经得到过这个称号](https://zh.wikipedia.org/wiki/墨索里尼 "wikilink")。
   -
     墨索里尼的情人。出自「抚平克拉莉塔的裙摆」。
   -
@@ -322,7 +323,7 @@ REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另�
 
 ## 關連閱讀
 
-  - [Waltz (漫畫)](../Page/Waltz_\(漫畫\).md "wikilink")
+  - [Waltz (漫畫)](https://zh.wikipedia.org/wiki/Waltz_\(漫畫\) "wikilink")
 
 ## 外部連結
 

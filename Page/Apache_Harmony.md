@@ -1,26 +1,29 @@
 {{ Infobox_Software | name = Apache Harmony | logo = | developer =
 [Apache Software
-Foundation](../Page/Apache_Software_Foundation.md "wikilink") | status =
-停止开发\[1\] | latest_release_version = 5.0M15
+Foundation](https://zh.wikipedia.org/wiki/Apache_Software_Foundation "wikilink")
+| status = 停止开发\[1\] | latest_release_version = 5.0M15
 6.0M3 | latest_release_date =  | operating_system =
-[Windows](../Page/Windows.md "wikilink") and
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") and
 [Linux](../Page/Linux.md "wikilink") | programming_language =
 [C++](../Page/C++.md "wikilink") and [Java](../Page/Java.md "wikilink")
 | genre = [Java Virtual
-Machine](../Page/Java_Virtual_Machine.md "wikilink") and Java
-[类库](../Page/类库_\(computer_science\).md "wikilink") | license =
-[Apache许可证](../Page/Apache许可证.md "wikilink")2.0 | website =
+Machine](https://zh.wikipedia.org/wiki/Java_Virtual_Machine "wikilink")
+and Java
+[类库](https://zh.wikipedia.org/wiki/类库_\(computer_science\) "wikilink")
+| license = [Apache许可证](../Page/Apache许可证.md "wikilink")2.0 | website =
 <http://harmony.apache.org> }}
 
 **Apache
-Harmony**是[Apache軟件基金會主導的](../Page/Apache軟件基金會.md "wikilink")[開放原始碼專案](../Page/開放原始碼.md "wikilink")，是自由Java實作計劃（Free
-Java implementations）的一部份。基於[Java SE](../Page/Java_SE.md "wikilink")
-5與6，目標是以開放原始碼方式，實作出Java SDK。该项目已于2011年10月宣布停止开发。
+Harmony**是[Apache軟件基金會主導的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，是自由Java實作計劃（Free
+Java implementations）的一部份。基於[Java
+SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink")
+5與6，目標是以開放原始碼方式，實作出Java
+SDK。该项目已于2011年10月宣布停止开发。
 
 这个项目的目标是营造一个大型的、健康的社区，这个社区由那些对运行是平台感兴趣的人组成。他们的任务是完成：
 
 1.  一个兼容的、独立的Java SE 5 JDK的实现，并根据Apache License v2发布；
-2.  一个由社区开发的模块化的运行时（包括[Java虚拟机和](../Page/Java虚拟机.md "wikilink")[类库](../Page/类库.md "wikilink")）体系结构。
+2.  一个由社区开发的模块化的运行时（包括[Java虚拟机和](../Page/Java虚拟机.md "wikilink")[类库](https://zh.wikipedia.org/wiki/类库 "wikilink")）体系结构。
 
 该项目期望支持尽可能多的不同平台。一个特定的平台是否被支持，主要取决于参与者能在这个平台上定期运行测试、报告编译安装的情况，以及为该平台除虫，等等。
 
@@ -42,13 +45,13 @@ Apache Harmony一直在稳步前进：
 2.  JRE可以运行一些流行的应用如Apache Tomcat, Eclipse, Maven, Derby, Ant
 3.  完成了99%的Java 5 API
 4.  超过125万行的代码
-5.  Harmony[类库于](../Page/类库.md "wikilink")2007年底被Google
-    Android采用为其[类库](../Page/类库.md "wikilink")
+5.  Harmony[类库于](https://zh.wikipedia.org/wiki/类库 "wikilink")2007年底被Google
+    Android采用为其[类库](https://zh.wikipedia.org/wiki/类库 "wikilink")
 6.  2007年，IBM宣布在其JDK6.0中使用了部分Harmony代码
 
 ### Android
 
-[Dalvik虛擬機](../Page/Dalvik虛擬機.md "wikilink"),
+[Dalvik虛擬機](https://zh.wikipedia.org/wiki/Dalvik虛擬機 "wikilink"),
 [Google](../Page/Google.md "wikilink")
 [Android平台所使用的虛擬機](../Page/Android.md "wikilink")，使用了Harmony部份的子集，作為它核心的類別函式庫。
 
@@ -56,7 +59,8 @@ Apache Harmony一直在稳步前进：
 
 如果需要成为一个带有Java
 logo标志的，可以声称自己兼容Sun公司实现的JDK，需要通过[JCP](../Page/JCP.md "wikilink")（Java
-Community Process）对其拥有的[TCK](../Page/TCK.md "wikilink")（Technology
+Community
+Process）对其拥有的[TCK](https://zh.wikipedia.org/wiki/TCK "wikilink")（Technology
 Compatibility Kit）的测试。Apache
 Harmony项目一直在努力争取获得[JCP的授权](../Page/JCP.md "wikilink")。
 

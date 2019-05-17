@@ -1,9 +1,10 @@
 **Tux
-Paint**是一个主要面对少年儿童的[位图绘图软件](../Page/位图.md "wikilink")，程序使用[C语言开发](../Page/C.md "wikilink")，使用各种[自由软件](../Page/自由软件.md "wikilink")[库主要是](../Page/库.md "wikilink")[SDL](../Page/SDL.md "wikilink")。
+Paint**是一个主要面对少年儿童的[位图绘图软件](../Page/位图.md "wikilink")，程序使用[C语言开发](../Page/C.md "wikilink")，使用各种[自由软件](../Page/自由软件.md "wikilink")[库主要是](https://zh.wikipedia.org/wiki/库 "wikilink")[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")。
 
 除了[Linux和各种](../Page/Linux.md "wikilink")[BSD](../Page/BSD.md "wikilink")，此软件还支持[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[Apple Mac OS
-X](../Page/Mac_OS_X.md "wikilink")，[BeOS](../Page/BeOS.md "wikilink")（见
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Apple
+Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[BeOS](../Page/BeOS.md "wikilink")（见
 [Tux Paint 下载页](http://www.tuxpaint.org/download/)）。
 
 软件可以从[GCompris中调用](../Page/GCompris.md "wikilink")，另外，有专门的stamp图章包，含有各式各样的图片，部分附带声效。

@@ -5,10 +5,10 @@ you**”是日本唱作女歌手[YUI的第六張單曲碟](../Page/YUI.md "wikil
 
 1.  **I remember you**
       -
-        作詞・作曲：YUI　編曲：[northa+](../Page/northa+.md "wikilink")
+        作詞・作曲：YUI　編曲：[northa+](https://zh.wikipedia.org/wiki/northa+ "wikilink")
     <!-- end list -->
       - 同樣是以 YUI
-        參演的電影「[太陽之歌](../Page/太陽之歌.md "wikilink")」為主題，但以戀人[藤代孝治的角度而寫的歌曲](../Page/藤代孝治.md "wikilink")，另收錄於第二張專輯「[CAN'T
+        參演的電影「[太陽之歌](../Page/太陽之歌.md "wikilink")」為主題，但以戀人[藤代孝治的角度而寫的歌曲](https://zh.wikipedia.org/wiki/藤代孝治 "wikilink")，另收錄於第二張專輯「[CAN'T
         BUY MY LOVE](../Page/CAN'T_BUY_MY_LOVE.md "wikilink")」。
 2.  '''Cloudy '''
       -

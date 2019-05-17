@@ -12,18 +12,18 @@ Acoustic》曲式。
 
 ## 曲目
 
-| 曲序 | 曲名                           | 作曲                               | 作詞                                   | 編曲                                     | 監製     | 備註        |
-| -- | ---------------------------- | -------------------------------- | ------------------------------------ | -------------------------------------- | ------ | --------- |
-| 01 | 迷戀（梳乎里Mix）                   | [貝祖貽](../Page/貝祖貽.md "wikilink") | 貝祖貽、[黃曉暉](../Page/黃曉暉.md "wikilink") | [Zarahn](../Page/Zarahn.md "wikilink") | Zarahn | 唯一一首派台歌曲。 |
-| 02 | 天使                           | [周國賢](../Page/周國賢.md "wikilink") | 周國賢                                  | Zarahn                                 | Zarahn |           |
-| 03 | 跳海                           | 貝祖貽                              | 貝祖貽                                  | Zarahn                                 | Zarahn |           |
-| 04 | Too Much Porno Makes Me Sick | 貝祖貽                              | \-                                   | Zarahn                                 | Zarahn |           |
-| 05 | BB Rock                      | 貝祖貽                              | 黃曉暉                                  | Zarahn                                 | Zarahn |           |
-| 06 | 搖滾小學                         | Zarahn                           | [黃偉文](../Page/黃偉文.md "wikilink")     | Zarahn                                 | Zarahn |           |
-| 07 | Maybe                        | 貝祖貽                              | 貝祖貽                                  | Zarahn                                 | Zarahn |           |
-| 08 | 藍雪糕                          | 周國賢                              | 周國賢                                  | Zarahn                                 | Zarahn |           |
-| 09 | Out of Ctrl                  | 周國賢                              | [李倩菱](../Page/李倩菱.md "wikilink")     | Zarahn                                 | Zarahn | 為特別收錄歌曲。  |
-|    |                              |                                  |                                      |                                        |        |           |
+| 曲序 | 曲名                           | 作曲                                                  | 作詞                                                      | 編曲                                     | 監製     | 備註        |
+| -- | ---------------------------- | --------------------------------------------------- | ------------------------------------------------------- | -------------------------------------- | ------ | --------- |
+| 01 | 迷戀（梳乎里Mix）                   | [貝祖貽](https://zh.wikipedia.org/wiki/貝祖貽 "wikilink") | 貝祖貽、[黃曉暉](https://zh.wikipedia.org/wiki/黃曉暉 "wikilink") | [Zarahn](../Page/Zarahn.md "wikilink") | Zarahn | 唯一一首派台歌曲。 |
+| 02 | 天使                           | [周國賢](../Page/周國賢.md "wikilink")                    | 周國賢                                                     | Zarahn                                 | Zarahn |           |
+| 03 | 跳海                           | 貝祖貽                                                 | 貝祖貽                                                     | Zarahn                                 | Zarahn |           |
+| 04 | Too Much Porno Makes Me Sick | 貝祖貽                                                 | \-                                                      | Zarahn                                 | Zarahn |           |
+| 05 | BB Rock                      | 貝祖貽                                                 | 黃曉暉                                                     | Zarahn                                 | Zarahn |           |
+| 06 | 搖滾小學                         | Zarahn                                              | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")     | Zarahn                                 | Zarahn |           |
+| 07 | Maybe                        | 貝祖貽                                                 | 貝祖貽                                                     | Zarahn                                 | Zarahn |           |
+| 08 | 藍雪糕                          | 周國賢                                                 | 周國賢                                                     | Zarahn                                 | Zarahn |           |
+| 09 | Out of Ctrl                  | 周國賢                                                 | [李倩菱](https://zh.wikipedia.org/wiki/李倩菱 "wikilink")     | Zarahn                                 | Zarahn | 為特別收錄歌曲。  |
+|    |                              |                                                     |                                                         |                                        |        |           |
 
 ## 派台歌成績
 

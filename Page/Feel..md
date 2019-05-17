@@ -1,11 +1,11 @@
-**有限会社feel.**是以[動畫的企劃](../Page/動畫.md "wikilink")、制作為主要營業項目的[日本企業](../Page/日本.md "wikilink")。
+**有限会社feel.**是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作為主要營業項目的[日本企業](../Page/日本.md "wikilink")。
 
 ## 概要
 
 **Feel.**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。由[Studio
 Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧ヶ崎誠和上坂陽一郎等人，於2002年12月在[東京都](../Page/東京都.md "wikilink")[武藏野市正式創立](../Page/武藏野市.md "wikilink")。
 
-2003年初，由[名和宗則等製作人員](../Page/名和宗則.md "wikilink")[統包演出](../Page/統包.md "wikilink")、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
+2003年初，由[名和宗則等製作人員](https://zh.wikipedia.org/wiki/名和宗則 "wikilink")[統包演出](../Page/統包.md "wikilink")、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
 
 2005年開始以統包方式製作《[人機系列](../Page/人機系列.md "wikilink")》。之後主要以統包動畫公司的動畫作品之事業為中心。2007年左右搬遷至東京都[小金井市至今](../Page/小金井市.md "wikilink")。
 
@@ -24,7 +24,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
       - [初音島II](../Page/初音島II.md "wikilink")（）（2007年）
       - 初音島II 第二季（）（2008年）
   - [JINKI:EXTEND](../Page/人機系列.md "wikilink")（2005年）
-  - [少女愛上大姐姐](../Page/處女愛上姊姊#動畫.md "wikilink")（）（2006年）
+  - [少女愛上大姐姐](https://zh.wikipedia.org/wiki/處女愛上姊姊#動畫 "wikilink")（）（2006年）
   - [藍蘭島漂流記](../Page/藍蘭島漂流記.md "wikilink")（）（2007年）
   - [加奈日記](../Page/加奈日記.md "wikilink")（）（2009年）
 
@@ -35,15 +35,15 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <!-- end list -->
 
   - [Kiss×sis 親吻姊姊](../Page/Kiss×sis.md "wikilink")（2010年）
-  - [緣之空](../Page/緣之空.md "wikilink")（）（2010年）
-  - [迷茫管家与膽怯的我](../Page/迷茫管家与膽怯的我.md "wikilink")（）（2011年）
+  - [緣之空](https://zh.wikipedia.org/wiki/緣之空 "wikilink")（）（2010年）
+  - [迷茫管家与膽怯的我](https://zh.wikipedia.org/wiki/迷茫管家与膽怯的我 "wikilink")（）（2011年）
   - [要聽爸爸的話！](../Page/要聽爸爸的話！.md "wikilink")（）（2012年）
   - [美少女死神 還我H之魂！](../Page/美少女死神_還我H之魂！.md "wikilink")（）（2012年）
   - [南家三姊妹 我回來了](../Page/南家三姊妹.md "wikilink")（）（2013年）
   - [萌萌侵略者 OUTBREAK
     COMPANY](../Page/萌萌侵略者_OUTBREAK_COMPANY.md "wikilink")（）（2013年）
-  - [普通女高中生要做當地偶像](../Page/普通女高中生要做當地偶像.md "wikilink")（）（2014年）
-  - [人生諮詢電視動畫「人生」](../Page/人生_\(輕小說\).md "wikilink")（）（2014年）
+  - [普通女高中生要做當地偶像](https://zh.wikipedia.org/wiki/普通女高中生要做當地偶像 "wikilink")（）（2014年）
+  - [人生諮詢電視動畫「人生」](https://zh.wikipedia.org/wiki/人生_\(輕小說\) "wikilink")（）（2014年）
   - [尋找失去的未來](../Page/尋找失去的未來.md "wikilink")（）（2014年）
   - [果然我的青春戀愛喜劇搞錯了。續](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（）（2015年）
   - [洲崎西 THE ANIMATION](../Page/洲崎西.md "wikilink")（2015年）
@@ -63,10 +63,10 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <tbody>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="../Page/粗點心戰爭.md" title="wikilink">粗點心戰爭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/粗點心戰爭" title="wikilink">粗點心戰爭</a></p></td>
 <td></td>
 <td><p>1月7日－3月31日</p></td>
-<td><p><a href="../Page/高柳滋仁.md" title="wikilink">高柳滋仁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高柳滋仁" title="wikilink">高柳滋仁</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -74,23 +74,23 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td><p><a href="../Page/百無禁忌！女高中生私房話.md" title="wikilink">百無禁忌！女高中生私房話</a></p></td>
 <td></td>
 <td><p>1月8日－3月25日</p></td>
-<td><p><a href="../Page/藤崎賢二.md" title="wikilink">藤崎賢二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤崎賢二" title="wikilink">藤崎賢二</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/這個美術社大有問題！.md" title="wikilink">這個美術社大有問題！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/這個美術社大有問題！" title="wikilink">這個美術社大有問題！</a></p></td>
 <td></td>
 <td><p>7月7日－9月22日</p></td>
-<td><p><a href="../Page/及川啟.md" title="wikilink">及川啟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/及川啟" title="wikilink">及川啟</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="../Page/月色真美.md" title="wikilink">月色真美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/月色真美" title="wikilink">月色真美</a></p></td>
 <td></td>
 <td><p>4月6日－6月29日</p></td>
 <td><p><a href="../Page/岸誠二.md" title="wikilink">岸誠二</a></p></td>
@@ -99,7 +99,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="../Page/極道超女.md" title="wikilink">極道超女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/極道超女" title="wikilink">極道超女</a></p></td>
 <td></td>
 <td><p>4月6日－</p></td>
 <td><p>及川啟</p></td>
@@ -107,7 +107,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ISLAND_(遊戲).md" title="wikilink">ISLAND</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISLAND_(遊戲)" title="wikilink">ISLAND</a></p></td>
 <td><p>7月1日－9月16日</p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
 <td><p>遊戲</p></td>
@@ -117,7 +117,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
 <td></td>
 <td><p>4月－預定</p></td>
 <td><p>　</p></td>
@@ -130,7 +130,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 #### 共同製作
 
   - [雙戀
-    Alternative](../Page/雙戀_Alternative.md "wikilink")（）（與[ufotable](../Page/ufotable.md "wikilink")、共同製作，2005年）
+    Alternative](../Page/雙戀_Alternative.md "wikilink")（）（與[ufotable](https://zh.wikipedia.org/wiki/ufotable "wikilink")、共同製作，2005年）
   - [屍姬系列](../Page/屍姬.md "wikilink")（與[GAINAX共同製作](../Page/GAINAX.md "wikilink")）
       - 屍姫 赫（2008年）
       - 屍姫 玄（2009年）
@@ -148,14 +148,16 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
   - [拘束衣](../Page/拘束衣.md "wikilink")（）（2007年）
   - [Kiss×sis 親親姊姊](../Page/Kiss×sis.md "wikilink")（2008年－2015年）
-  - [南家三姐妹 久候多時](../Page/南家三姐妹.md "wikilink")（）（2012年）
-  - [南家三姐妹 夏日假期](../Page/南家三姐妹.md "wikilink")（）（2013年）
-  - [水母食堂](../Page/水母食堂.md "wikilink")（2016年）
+  - [南家三姐妹
+    久候多時](https://zh.wikipedia.org/wiki/南家三姐妹 "wikilink")（）（2012年）
+  - [南家三姐妹
+    夏日假期](https://zh.wikipedia.org/wiki/南家三姐妹 "wikilink")（）（2013年）
+  - [水母食堂](https://zh.wikipedia.org/wiki/水母食堂 "wikilink")（2016年）
   - [果然我的青春戀愛喜劇搞錯了。續](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（2016年）
 
 ### 網絡動畫
 
-  - [擴張少女系三重奏](../Page/擴張少女系三重奏.md "wikilink")（）（2016年）
+  - [擴張少女系三重奏](https://zh.wikipedia.org/wiki/擴張少女系三重奏 "wikilink")（）（2016年）
 
 ### 協力製作
 
@@ -170,20 +172,20 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
   - [校園迷糊大王 二學期](../Page/校園迷糊大王.md "wikilink")（）（總承包商：[STUDIO
     COMET](../Page/STUDIO_COMET.md "wikilink")，2006年）
 
-  - [魔法老師！？](../Page/魔法老師_\(電視\).md "wikilink")（）（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，協力製作，2007年）
+  - [魔法老師！？](https://zh.wikipedia.org/wiki/魔法老師_\(電視\) "wikilink")（）（總承包商：[SHAFT](../Page/SHAFT.md "wikilink")，協力製作，2007年）
 
-  - [七色★星露](../Page/七色★星露.md "wikilink")（）（總承包商：[stbarcelona](../Page/diomedéa.md "wikilink")，各話協力製作，2007年）
+  - [七色★星露](../Page/七色★星露.md "wikilink")（）（總承包商：[stbarcelona](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，各話協力製作，2007年）
 
-  - [乃木坂春香的秘密Purezza♪](../Page/乃木坂春香的秘密.md "wikilink")（）（總承包商：[diomedéa](../Page/diomedéa.md "wikilink")，各話協力製作，2009年）
+  - [乃木坂春香的秘密Purezza♪](../Page/乃木坂春香的秘密.md "wikilink")（）（總承包商：[diomedéa](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，各話協力製作，2009年）
 
   - [鶺鴒女神〜Pure Engagement〜](../Page/鶺鴒女神.md "wikilink")（）（總承包商：[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")，各話協力製作，2010年）
 
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（）（總承包商：ZEXCS，各話協力製作，2013年）
 
-  - [美食獵人](../Page/美食獵人.md "wikilink")×[ONE
-    PIECE](../Page/ONE_PIECE_\(動畫\).md "wikilink")×[七龍珠Z](../Page/七龍珠Z.md "wikilink")
-    超夢幻合作特別篇！！（）（總承包商：[東映動畫](../Page/東映動畫.md "wikilink")，原畫，2013年）
+  - [美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")×[ONE
+    PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")×[七龍珠Z](../Page/七龍珠Z.md "wikilink")
+    超夢幻合作特別篇！！（）（總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，原畫，2013年）
 
   - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（）（總承包商：ZEXCS、STUDIO
     COMET，片頭曲協力製作，2014年）
@@ -197,7 +199,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
 ## 參見
 
-  - [日本动画工作室列表](../Page/日本动画工作室列表.md "wikilink")
+  - [日本动画工作室列表](https://zh.wikipedia.org/wiki/日本动画工作室列表 "wikilink")
 
 ## 外部連結
 

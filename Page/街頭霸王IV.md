@@ -1,6 +1,6 @@
-**街頭霸王Ⅳ**（，），简称**街霸Ⅳ**（，），是於2008年由在主機推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，使用框體。這款[投幣式街機遊戲於](../Page/街機遊戲.md "wikilink")2008年6月18日在日本發行，於同年8月引進北美市場。\[1\][PlayStation
+**街頭霸王Ⅳ**（，），简称**街霸Ⅳ**（，），是於2008年由在主機推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，使用框體。這款[投幣式街機遊戲於](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")2008年6月18日在日本發行，於同年8月引進北美市場。\[1\][PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
-360的](../Page/Xbox_360.md "wikilink")[電視遊樂器版本預計在](../Page/電視遊樂器.md "wikilink")2009年2月12日於日本發行，2月17日於北美發行，2月20日於歐洲發行。\[2\][Windows版本於](../Page/Microsoft_Windows.md "wikilink")2009年7月發行。\[3\]
+360的](../Page/Xbox_360.md "wikilink")[電視遊樂器版本預計在](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")2009年2月12日於日本發行，2月17日於北美發行，2月20日於歐洲發行。\[2\][Windows版本於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2009年7月發行。\[3\]
 
 ## 街頭霸王Ⅱ (Street Fighter II) 原創角色
 
@@ -26,10 +26,10 @@
 <td><p><small><sup></sup>Ryu (Ryu Hoshi)[4]<br />
 Ryū (Hoshi Ryū)<br />
 リュウ（隆）（ほし リュウ、ほし 隆）</p></td>
-<td><p><small><sup></sup><strong>英語音譯</strong>：<a href="../Page/隆.md" title="wikilink">隆</a>（保志 隆／星 隆）<br />
-<strong>日語音譯</strong>：<a href="../Page/隆.md" title="wikilink">隆</a>（保志 隆／星 隆[5]）<br />
+<td><p><small><sup></sup><strong>英語音譯</strong>：<a href="https://zh.wikipedia.org/wiki/隆" title="wikilink">隆</a>（保志 隆／星 隆）<br />
+<strong>日語音譯</strong>：<a href="https://zh.wikipedia.org/wiki/隆" title="wikilink">隆</a>（保志 隆／星 隆[5]）<br />
 <strong>意譯</strong>：</p></td>
-<td><p><small><sup></sup><a href="../Page/隆.md" title="wikilink">隆</a>（保志 隆／星 隆）</p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/隆" title="wikilink">隆</a>（保志 隆／星 隆）</p></td>
 <td></td>
 <td><p><small><sup></sup><a href="../Page/高橋廣樹.md" title="wikilink">高橋廣樹</a></p></td>
 <td></td>
@@ -48,7 +48,7 @@ Ken (Ken Masutāzu)<br />
 <td><p><small><sup></sup>肯（肯·馬斯特斯）<br />
 拳（拳·馬斯特斯）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/岸祐二.md" title="wikilink">岸祐二</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/岸祐二" title="wikilink">岸祐二</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -59,10 +59,10 @@ Ken (Ken Masutāzu)<br />
 <td><p><small><sup></sup>Chun-Li[8](Chun Li)/(Chun-Li Zang[9]/Chun-Li Xiang[10]<br />
 Chun Rī (Tsu~an Chun Rī/Shian Chun Rī)<br />
 春麗（チュン・リー）／臧春麗／項春麗（ツァン・チュンリー／シアン・チュンリー）</p></td>
-<td><p><small><sup></sup><strong>英語音譯</strong>:<a href="../Page/春麗.md" title="wikilink">春麗</a>（臧春麗／項春麗）<br />
-<strong>日語音譯</strong>:<a href="../Page/春麗.md" title="wikilink">春麗</a>（臧春麗／項春麗）<br />
+<td><p><small><sup></sup><strong>英語音譯</strong>:<a href="https://zh.wikipedia.org/wiki/春麗" title="wikilink">春麗</a>（臧春麗／項春麗）<br />
+<strong>日語音譯</strong>:<a href="https://zh.wikipedia.org/wiki/春麗" title="wikilink">春麗</a>（臧春麗／項春麗）<br />
 <strong>意譯</strong>:</p></td>
-<td><p><small><sup></sup><a href="../Page/春麗.md" title="wikilink">春麗</a>（張春麗／項春麗）</p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/春麗" title="wikilink">春麗</a>（張春麗／項春麗）</p></td>
 <td><p><br />
 （→）[11]</p></td>
 <td><p><small><sup></sup><a href="../Page/折笠富美子.md" title="wikilink">折笠富美子</a></p></td>
@@ -99,7 +99,7 @@ Buranka/Jimī (Jimī Buranka/Karurosu"Chārī"Buranka)<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>布蘭卡／吉米（吉米·布蘭卡／卡洛斯“查理”布蘭卡）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/うえだゆうじ.md" title="wikilink">うえだゆうじ</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/うえだゆうじ" title="wikilink">うえだゆうじ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -134,7 +134,7 @@ Darushimu<br />
 <td><p><small><sup></sup>達爾西姆<br />
 達爾錫</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/江川大輔.md" title="wikilink">江川大輔</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/江川大輔" title="wikilink">江川大輔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -150,7 +150,7 @@ E. Honda (Edomondo Honda)<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>Ｅ·本田（埃德蒙·本田）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/永野善一.md" title="wikilink">永野善一</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/永野善一" title="wikilink">永野善一</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -167,7 +167,7 @@ M. Baison (Maiku Baison)/Bokusā<br />
 <td><p><small><sup></sup>Ｍ·拜森（邁克·拜森）<br />
 Ｍ·比森（邁克·比森）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/鶴岡聡.md" title="wikilink">鶴岡聡</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/鶴岡聡" title="wikilink">鶴岡聡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -201,7 +201,7 @@ Sagatto (Bikutā Sagatto)<br />
 <td><p><small><sup></sup>沙加特／（维克托·沙加特）<br />
 沙蓋特／（维克托·沙蓋特）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/遠藤大輔.md" title="wikilink">遠藤大輔</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/遠藤大輔" title="wikilink">遠藤大輔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -259,7 +259,7 @@ Aberu<br />
 <td><p><small><sup></sup>阿貝爾<br />
 亞伯</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/高橋研二.md" title="wikilink">高橋研二</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/高橋研二" title="wikilink">高橋研二</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -275,7 +275,7 @@ C. Vaipā (Kurimuzon Vaipā)/Maya (Maya Sunī/Maya Suniru)<br />
 <strong>意譯</strong>：Ｃ·毒蛇（深紅毒蛇）</p></td>
 <td><p><small><sup></sup>Ｃ·毒蛇（深紅毒蛇）／瑪婭（瑪婭·蘇妮／瑪雅·桑尼）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/園崎未恵.md" title="wikilink">園崎未恵</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/園崎未恵" title="wikilink">園崎未恵</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -291,7 +291,7 @@ Rūfasu<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>魯弗斯</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/羽多野渉.md" title="wikilink">羽多野渉</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/羽多野渉" title="wikilink">羽多野渉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -361,7 +361,7 @@ Gōki<br />
 <strong>意譯</strong>：豪鬼／惡魔</p></td>
 <td><p><small><sup></sup>豪鬼</p></td>
 <td><p>[27]</p></td>
-<td><p><small><sup></sup><a href="../Page/武虎.md" title="wikilink">武虎</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -431,7 +431,7 @@ Dan (Hibiki Dan)<br />
 <strong>意譯</strong>:</p></td>
 <td><p><small><sup></sup>彈（火引 彈）</p></td>
 <td><p>→[28]</p></td>
-<td><p><small><sup></sup><a href="../Page/楠田敏之.md" title="wikilink">楠田敏之</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/楠田敏之" title="wikilink">楠田敏之</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -550,7 +550,7 @@ Dī Jei<br />
 <strong>意譯</strong>：黑鳥</p></td>
 <td><p><small><sup></sup>迪·傑</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/浜田賢二.md" title="wikilink">浜田賢二</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/浜田賢二" title="wikilink">浜田賢二</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -566,7 +566,7 @@ Kōdī (Kōdī Torabāzu)<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>科迪（科迪·特拉弗斯）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/岸尾だいすけ.md" title="wikilink">岸尾だいすけ</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/岸尾だいすけ" title="wikilink">岸尾だいすけ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -582,7 +582,7 @@ Gai<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>凱</p></td>
 <td><p>→[33]</p></td>
-<td><p><small><sup></sup><a href="../Page/最上嗣生.md" title="wikilink">最上嗣生</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/最上嗣生" title="wikilink">最上嗣生</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -615,7 +615,7 @@ Ibuki<br />
 <td><p><small><sup></sup>伊吹<br />
 息吹</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/藤村歩.md" title="wikilink">藤村歩</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/藤村歩" title="wikilink">藤村歩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -632,7 +632,7 @@ Daddorī<br />
 <td><p><small><sup></sup>達德利<br />
 杜德利</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/楠見尚己.md" title="wikilink">楠見尚己</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/楠見尚己" title="wikilink">楠見尚己</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -667,7 +667,7 @@ Hakan<br />
 哈剛<br />
 哈根</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/大畑伸太郎.md" title="wikilink">大畑伸太郎</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/大畑伸太郎" title="wikilink">大畑伸太郎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -723,7 +723,7 @@ Rī Yun<br />
 <td><p><small><sup></sup>雲（李 雲）<br />
 陰（李 陰）</p></td>
 <td><p>（）</p></td>
-<td><p><small><sup></sup><a href="../Page/伊藤健太郎.md" title="wikilink">伊藤健太郎</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/伊藤健太郎" title="wikilink">伊藤健太郎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -740,7 +740,7 @@ Rī Yan<br />
 <td><p><small><sup></sup>陽（李 陽）<br />
 揚（李 揚）</p></td>
 <td><p>（）</p></td>
-<td><p><small><sup></sup><a href="../Page/鈴木正和.md" title="wikilink">鈴木正和</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/鈴木正和" title="wikilink">鈴木正和</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -756,7 +756,7 @@ Satsui no hadō ni mezameta Ryū<br />
 <strong>意譯</strong>:殺意隆</p></td>
 <td><p><small><sup></sup>殺意隆</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/高橋広樹.md" title="wikilink">高橋広樹</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/高橋広樹" title="wikilink">高橋広樹</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -772,7 +772,7 @@ Oni (Kuruoshiki Oni)<br />
 <strong>意譯</strong>:</p></td>
 <td><p><small><sup></sup>狂鬼[37]</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/武虎.md" title="wikilink">武虎</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -812,7 +812,7 @@ Dikāpuri<br />
 <td><p><small><sup></sup>迪卡普莉<br />
 迪卡普麗</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="../Page/泽城美雪.md" title="wikilink">泽城美雪</a></p></td>
+<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/泽城美雪" title="wikilink">泽城美雪</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -1,11 +1,11 @@
 **Wings
 3D**是一个[开源的](../Page/开源软件.md "wikilink")[三维计算机图形软件](../Page/三维计算机图形软件.md "wikilink")，适合创建[细分曲面](../Page/细分曲面.md "wikilink")[模型](../Page/三维模型.md "wikilink")。Wings
-3D的名字来源于它用于存储坐标系和临近数据所使用的[翼边数据结构](../Page/翼边.md "wikilink")，构思取于Izware的Nendo和Mirai。支持多种[操作系统](../Page/操作系统.md "wikilink")，包括[Linux](../Page/Linux.md "wikilink")、[Mac和](../Page/Mac.md "wikilink")[Windows](../Page/Windows.md "wikilink")。基于[Erlang环境](../Page/Erlang.md "wikilink")。
+3D的名字来源于它用于存储坐标系和临近数据所使用的[翼边数据结构](https://zh.wikipedia.org/wiki/翼边 "wikilink")，构思取于Izware的Nendo和Mirai。支持多种[操作系统](../Page/操作系统.md "wikilink")，包括[Linux](../Page/Linux.md "wikilink")、[Mac和](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。基于[Erlang环境](../Page/Erlang.md "wikilink")。
 
 ## 简介
 
 Wings
-3D可以创建中低精度多边形模型和纹理，但不支持动画，虽然可以输出到[POV-Ray和](../Page/POV-Ray.md "wikilink")[YafRay等外部渲染器](../Page/YafRay.md "wikilink")，但它本身只有基本的OpenGL渲染功能。不过，Wings
+3D可以创建中低精度多边形模型和纹理，但不支持动画，虽然可以输出到[POV-Ray和](../Page/POV-Ray.md "wikilink")[YafRay等外部渲染器](https://zh.wikipedia.org/wiki/YafRay "wikilink")，但它本身只有基本的OpenGL渲染功能。不过，Wings
 3D经常和其他软件一起使用，比如把Wings
 3D里建立的模型导出到专门用于动画和渲染的软件如[Blender](../Page/Blender.md "wikilink")。
 
@@ -13,7 +13,7 @@ Wings
 
 Wings 3D使用上下文相关的菜单，而不是更为图形化、有图标的界面。在Wings
 3D里建模有四种选择模式：顶点、边、面和体，一般使用鼠标和键盘选择和修改这些元素来更改模型。这四种模式各有其自身的模型工具，每种工具都有基本和高级用法，因此允许用户指定矢量或点以使工具对模型产生不同的修改。Wings
-3D可以添加纹理和材质，并有自动UV[映射功能](../Page/纹理映射.md "wikilink")。
+3D可以添加纹理和材质，并有自动UV[映射功能](https://zh.wikipedia.org/wiki/纹理映射 "wikilink")。
 
 ## 特性
 
@@ -63,7 +63,7 @@ Wings 3D使用上下文相关的菜单，而不是更为图形化、有图标的
 
 ## 参见
 
-  - [K3D](../Page/K3D.md "wikilink")
+  - [K3D](https://zh.wikipedia.org/wiki/K3D "wikilink")
   - [Blender](../Page/Blender.md "wikilink")
 
 ## 外部链接
@@ -91,8 +91,8 @@ Wings 3D使用上下文相关的菜单，而不是更为图形化、有图标的
   - [The Brazilian language Wings 3D
     Community](http://www.wings3d.com.br/)
 
-  - [Wings 3D](../Page/Unreal:_Wings3D.md "wikilink") on the
-    BeyondUnreal.com Wiki
+  - [Wings 3D](https://zh.wikipedia.org/wiki/Unreal:_Wings3D "wikilink")
+    on the BeyondUnreal.com Wiki
 
 
 

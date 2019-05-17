@@ -1,7 +1,7 @@
 **星空傳奇 LIVE
-Concert**是[臺灣歌手](../Page/臺灣.md "wikilink")[楊宗緯](../Page/楊宗緯.md "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](../Page/臺北小巨蛋.md "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](../Page/賈斯汀.md "wikilink")《SEXY
+Concert**是[臺灣歌手](../Page/臺灣.md "wikilink")[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY
 BACK》
-，[王力宏的](../Page/王力宏.md "wikilink")《龍的傳人》，[張國榮的](../Page/張國榮.md "wikilink")《Monica》，與[張學友的](../Page/張學友.md "wikilink")《天氣這麼熱》。
+，[王力宏的](../Page/王力宏.md "wikilink")《龍的傳人》，[張國榮的](../Page/張國榮.md "wikilink")《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
 
 ## 完整演唱會曲目
 
@@ -12,14 +12,16 @@ BACK》
   - 《Because You're Good To
     Me》{{〈}}原唱：[陳奕迅](../Page/陳奕迅.md "wikilink"){{〉}}
   - 《Monica》 {{〈}}原唱：[張國榮](../Page/張國榮.md "wikilink"){{〉}}
-  - 《天氣這麼熱》 {{〈}}原唱：[張學友](../Page/張學友.md "wikilink"){{〉}}
+  - 《天氣這麼熱》
+    {{〈}}原唱：[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink"){{〉}}
   - 《美麗的稻穗》 {{〈}}原唱：[紀曉君](../Page/紀曉君.md "wikilink"){{〉}}
   - 《月夜愁》
   - 《》{{〈}}原唱：[桑田佳祐](../Page/桑田佳祐.md "wikilink"){{〉}}
   - 《阿牛》{{〈}}原唱：[陳奕迅](../Page/陳奕迅.md "wikilink"){{〉}}
   - 《多餘》
   - 《幸福的風》
-  - 《Sexy Back》 {{〈}}原唱：[賈斯汀](../Page/賈斯汀.md "wikilink"){{〉}}
+  - 《Sexy Back》
+    {{〈}}原唱：[賈斯汀](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink"){{〉}}
   - 《龍的傳人》 {{〈}}原唱：[王力宏](../Page/王力宏.md "wikilink"){{〉}}
   - 《愛我的請舉手》{{〈}}原唱：[莫文蔚](../Page/莫文蔚.md "wikilink"){{〉}}
   - 《對愛渴望》
@@ -36,7 +38,7 @@ BACK》
     {{〈}}原唱：[張韶涵與](../Page/張韶涵.md "wikilink")[蘇打綠](../Page/蘇打綠.md "wikilink"){{〉}}
     **（未收錄）**(feat:[盧學叡](../Page/盧學叡.md "wikilink"))'''
   - 《流浪記》{{〈}}原唱：[紀曉君](../Page/紀曉君.md "wikilink"){{〉}}**(feat:盧學叡爸爸)**
-  - 《遇見＋迴旋木馬的終端》{{〈}}原唱：[孫燕姿](../Page/孫燕姿.md "wikilink")＋[梁詠琪](../Page/梁詠琪.md "wikilink"){{〉}}
+  - 《遇見＋迴旋木馬的終端》{{〈}}原唱：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")＋[梁詠琪](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink"){{〉}}
   - 《鴿子》
   - 《哭了》 {{〈}}原唱：[范曉萱](../Page/范曉萱.md "wikilink"){{〉}}
   - 《人質》 {{〈}}原唱：[張惠妹](../Page/張惠妹.md "wikilink"){{〉}}
@@ -75,8 +77,8 @@ BACK》
 
 ## 相關連結
 
-  - [星光同學會-超級星光大道10強紀念合輯](../Page/星光同學會-超級星光大道10強紀念合輯.md "wikilink")。
-  - [愛星光精選-昨天今天明天](../Page/愛星光精選-昨天今天明天.md "wikilink")
+  - [星光同學會-超級星光大道10強紀念合輯](https://zh.wikipedia.org/wiki/星光同學會-超級星光大道10強紀念合輯 "wikilink")。
+  - [愛星光精選-昨天今天明天](https://zh.wikipedia.org/wiki/愛星光精選-昨天今天明天 "wikilink")
   - [鴿子 (專輯)](../Page/鴿子_\(專輯\).md "wikilink")
 
 ## 外部連結

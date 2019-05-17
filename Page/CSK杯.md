@@ -1,4 +1,4 @@
-**CSK杯亚洲四强赛**，由[日本棋院和](../Page/日本棋院.md "wikilink")[冲绳](../Page/冲绳.md "wikilink")[CSK集团主办的](../Page/CSK集团.md "wikilink")[围棋团体赛](../Page/围棋.md "wikilink")，[中国](../Page/中国.md "wikilink")，[日本](../Page/日本.md "wikilink")，[韩国和](../Page/韩国.md "wikilink")[中華台北各派五名棋手参赛](../Page/中華台北.md "wikilink")。每方保留时间是2小时。比赛按积分排名次；若积分相同，胜局数多者排前；若前两种方法均不能决定名次，从主将到第五将依次排序对比，胜局数多者排名靠前。第一至第四名的奖金额分别为2000万、1000万、600万、400万[日元](../Page/日元.md "wikilink")。2002年開辦，2006年停辦。
+**CSK杯亚洲四强赛**，由[日本棋院和](../Page/日本棋院.md "wikilink")[冲绳](https://zh.wikipedia.org/wiki/冲绳 "wikilink")[CSK集团主办的](https://zh.wikipedia.org/wiki/CSK集团 "wikilink")[围棋团体赛](../Page/围棋.md "wikilink")，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")，[日本](../Page/日本.md "wikilink")，[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[中華台北各派五名棋手参赛](https://zh.wikipedia.org/wiki/中華台北 "wikilink")。每方保留时间是2小时。比赛按积分排名次；若积分相同，胜局数多者排前；若前两种方法均不能决定名次，从主将到第五将依次排序对比，胜局数多者排名靠前。第一至第四名的奖金额分别为2000万、1000万、600万、400万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。2002年開辦，2006年停辦。
 
 ## 歷年成績
 
@@ -18,7 +18,7 @@
 <tr class="odd">
 <td><p>第1届</p></td>
 <td><p>2002年</p></td>
-<td><p>日本冲绳<a href="../Page/那霸.md" title="wikilink">那霸</a></p></td>
+<td><p>日本冲绳<a href="https://zh.wikipedia.org/wiki/那霸" title="wikilink">那霸</a></p></td>
 <td><p>韩国队</p></td>
 <td><p>中华台北队</p></td>
 <td><p>中国队</p></td>
@@ -45,7 +45,7 @@
 <tr class="even">
 <td><p>第4届</p></td>
 <td><p>2005年</p></td>
-<td><p>韩国<a href="../Page/汉城.md" title="wikilink">汉城</a></p></td>
+<td><p>韩国<a href="https://zh.wikipedia.org/wiki/汉城" title="wikilink">汉城</a></p></td>
 <td><p>韩国队</p></td>
 <td><p>日本队</p></td>
 <td><p>中国队</p></td>
@@ -54,7 +54,7 @@
 <tr class="odd">
 <td><p>第5届</p></td>
 <td><p>2006年</p></td>
-<td><p>日本<a href="../Page/大分县.md" title="wikilink">大分县</a><a href="../Page/别府市.md" title="wikilink">别府市</a></p></td>
+<td><p>日本<a href="../Page/大分县.md" title="wikilink">大分县</a><a href="https://zh.wikipedia.org/wiki/别府市" title="wikilink">别府市</a></p></td>
 <td><p>中国队</p></td>
 <td><p>韩国队</p></td>
 <td><p>日本队</p></td>
@@ -76,14 +76,14 @@
 
   - 半决赛（2002年3月22日）
 
-| 中华台北队                                | 3:2    | 中国队                                |  | 韩国队                                  | 5:0    | 日本队                                |
-| ------------------------------------ | ------ | ---------------------------------- |  | ------------------------------------ | ------ | ---------------------------------- |
-| **[林海峰](../Page/林海峰.md "wikilink")** | 执黑2目半胜 | [馬曉春](../Page/馬曉春.md "wikilink")   |  | **[曹薰鉉](../Page/曹薰鉉.md "wikilink")** | 执白中盘胜  | [大竹英雄](../Page/大竹英雄.md "wikilink") |
-| [楊嘉源](../Page/楊嘉源.md "wikilink")     | 执黑中盘负  | **[俞斌](../Page/俞斌.md "wikilink")** |  | **[李世乭](../Page/李世乭.md "wikilink")** | 执白4目半胜 | [羽根直樹](../Page/羽根直樹.md "wikilink") |
-| **[王銘琬](../Page/王銘琬.md "wikilink")** | 执白3目半胜 | [常昊](../Page/常昊.md "wikilink")     |  | **[朴永訓](../Page/朴永訓.md "wikilink")** | 执白1目半胜 | [本田邦久](../Page/本田邦久.md "wikilink") |
-| **[周俊勳](../Page/周俊勳.md "wikilink")** | 执白2目半胜 | [邵煒剛](../Page/邵煒剛.md "wikilink")   |  | **[李昌鎬](../Page/李昌鎬.md "wikilink")** | 执黑1目半胜 | [依田紀基](../Page/依田紀基.md "wikilink") |
-| [林至涵](../Page/林至涵.md "wikilink")     | 执黑中盘负  | **[王磊](../Page/王磊.md "wikilink")** |  | **[劉昌赫](../Page/劉昌赫.md "wikilink")** | 执黑8目半胜 | [淡路修三](../Page/淡路修三.md "wikilink") |
-|                                      |        |                                    |  |                                      |        |                                    |
+| 中华台北队                                                   | 3:2    | 中国队                                                   |  | 韩国队                                                     | 5:0    | 日本队                                                   |
+| ------------------------------------------------------- | ------ | ----------------------------------------------------- |  | ------------------------------------------------------- | ------ | ----------------------------------------------------- |
+| **[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")** | 执黑2目半胜 | [馬曉春](https://zh.wikipedia.org/wiki/馬曉春 "wikilink")   |  | **[曹薰鉉](https://zh.wikipedia.org/wiki/曹薰鉉 "wikilink")** | 执白中盘胜  | [大竹英雄](../Page/大竹英雄.md "wikilink")                    |
+| [楊嘉源](https://zh.wikipedia.org/wiki/楊嘉源 "wikilink")     | 执黑中盘负  | **[俞斌](../Page/俞斌.md "wikilink")**                    |  | **[李世乭](../Page/李世乭.md "wikilink")**                    | 执白4目半胜 | [羽根直樹](https://zh.wikipedia.org/wiki/羽根直樹 "wikilink") |
+| **[王銘琬](../Page/王銘琬.md "wikilink")**                    | 执白3目半胜 | [常昊](../Page/常昊.md "wikilink")                        |  | **[朴永訓](https://zh.wikipedia.org/wiki/朴永訓 "wikilink")** | 执白1目半胜 | [本田邦久](../Page/本田邦久.md "wikilink")                    |
+| **[周俊勳](../Page/周俊勳.md "wikilink")**                    | 执白2目半胜 | [邵煒剛](https://zh.wikipedia.org/wiki/邵煒剛 "wikilink")   |  | **[李昌鎬](../Page/李昌鎬.md "wikilink")**                    | 执黑1目半胜 | [依田紀基](https://zh.wikipedia.org/wiki/依田紀基 "wikilink") |
+| [林至涵](../Page/林至涵.md "wikilink")                        | 执黑中盘负  | **[王磊](https://zh.wikipedia.org/wiki/王磊 "wikilink")** |  | **[劉昌赫](https://zh.wikipedia.org/wiki/劉昌赫 "wikilink")** | 执黑8目半胜 | [淡路修三](../Page/淡路修三.md "wikilink")                    |
+|                                                         |        |                                                       |  |                                                         |        |                                                       |
 
   - 决赛（2002年3月23日）
 

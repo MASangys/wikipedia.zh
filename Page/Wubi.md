@@ -1,22 +1,22 @@
-**Wubi**（基于Windows的Ubuntu安装程序，）是使用[GPL协议进行发布的一个Ubuntu自由软件安装程序](../Page/GPL.md "wikilink")，并得到了Ubuntu的官方支持\[1\]。
+**Wubi**（基于Windows的Ubuntu安装程序，）是使用[GPL协议进行发布的一个Ubuntu自由软件安装程序](https://zh.wikipedia.org/wiki/GPL "wikilink")，并得到了Ubuntu的官方支持\[1\]。
 
 Wubi最初是作为一个独立的项目出现的，其中7.04和7.10都不是官方发布。但8.04起，Wubi的代码就合并到Ubuntu中。8.04的alpha
 5版，在Ubuntu Live CD中就可以看到Wubi的身影\[2\]。同时，Ubuntu 7.10 Gutsy
 Gibbon发行版也开始包含了Wubi\[3\]\[4\]。
 
-这个项目的目标是帮助不熟悉[Linux的Windows用户在试用Ubuntu时](../Page/Linux.md "wikilink")，无需对硬盘进行[格式化或重新](../Page/格式化.md "wikilink")[分区](../Page/分区.md "wikilink")。Wubi也可以在Windows里对Ubuntu进行[卸载](../Page/卸载.md "wikilink")。
+这个项目的目标是帮助不熟悉[Linux的Windows用户在试用Ubuntu时](../Page/Linux.md "wikilink")，无需对硬盘进行[格式化或重新](https://zh.wikipedia.org/wiki/格式化 "wikilink")[分区](https://zh.wikipedia.org/wiki/分区 "wikilink")。Wubi也可以在Windows里对Ubuntu进行[卸载](https://zh.wikipedia.org/wiki/卸载 "wikilink")。
 
-Wubi并不是[虚拟机](../Page/虚拟机.md "wikilink")，但它会在一个虚拟设备中创建一个独立的安装。Wubi本身也不是一个[Linux发行版而只是](../Page/Linux发行版.md "wikilink")[Ubuntu的一个安装程序](../Page/Ubuntu.md "wikilink")\[5\]。
+Wubi并不是[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，但它会在一个虚拟设备中创建一个独立的安装。Wubi本身也不是一个[Linux发行版而只是](../Page/Linux发行版.md "wikilink")[Ubuntu的一个安装程序](../Page/Ubuntu.md "wikilink")\[5\]。
 
 Wubi会在Windows的启动菜单中添加一个项目来允许你运行Linux。Ubuntu安装在Windows文件系统的一个文件中（比如c:\\ubuntu\\disks\\root.disk），而不是单独的分区中。这个文件在Linux下被视为真实的硬盘\[6\]。
 
 另外一个类似的项目使用Linux作为主系统，称为Lubi\[7\]。一个以[Mac
-OS以主系统的版本Mubi](../Page/Mac_OS.md "wikilink")，最终也会得到支持\[8\]。
+OS以主系统的版本Mubi](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，最终也会得到支持\[8\]。
 Ubuntu 13.04停止支持Wubi。
 
 ## 桌面
 
-用户可以在Wubi里选择桌面环境。但由于每个桌面环境都有一个应用程序包，一般建议用户直接安装Ubuntu（默认选项）然后再安装其它桌面环境。当用户[登录时](../Page/登录.md "wikilink")，可以重新选择需要使用的桌面环境\[9\]。
+用户可以在Wubi里选择桌面环境。但由于每个桌面环境都有一个应用程序包，一般建议用户直接安装Ubuntu（默认选项）然后再安装其它桌面环境。当用户[登录时](https://zh.wikipedia.org/wiki/登录 "wikilink")，可以重新选择需要使用的桌面环境\[9\]。
 
 ## 局限
 
@@ -25,12 +25,12 @@ Ubuntu 13.04停止支持Wubi。
 
 ## 影响
 
-Wubi依赖于其它开源项目：[Debian-Installer](../Page/Debian-Installer.md "wikilink")、[Migration-Assistant](../Page/Migration-Assistant.md "wikilink")、[Grub4Dos](../Page/Grub4Dos.md "wikilink")、[NTFS-3G](../Page/NTFS-3G.md "wikilink")、[NSIS及](../Page/NSIS.md "wikilink")[Metalink](../Page/Metalink.md "wikilink")。
+Wubi依赖于其它开源项目：[Debian-Installer](https://zh.wikipedia.org/wiki/Debian-Installer "wikilink")、[Migration-Assistant](https://zh.wikipedia.org/wiki/Migration-Assistant "wikilink")、[Grub4Dos](../Page/Grub4Dos.md "wikilink")、[NTFS-3G](../Page/NTFS-3G.md "wikilink")、[NSIS及](https://zh.wikipedia.org/wiki/NSIS "wikilink")[Metalink](https://zh.wikipedia.org/wiki/Metalink "wikilink")。
 
 ## 开发
 
 领导开发的程序员为Agostino Russo、Geza Kovacs、Oliver
-Mattos及Ecology2007\[12\]，主要在开发在[Launchpad上进行](../Page/Launchpad.md "wikilink")\[13\]并由Lupin通过最初的Ubuntu蓝图\[14\]及新的Wubi\[15\]、Lubi\[16\]、Lupin\[17\]及LVPM\[18\]项目页\[19\]领导。
+Mattos及Ecology2007\[12\]，主要在开发在[Launchpad上进行](https://zh.wikipedia.org/wiki/Launchpad "wikilink")\[13\]并由Lupin通过最初的Ubuntu蓝图\[14\]及新的Wubi\[15\]、Lubi\[16\]、Lupin\[17\]及LVPM\[18\]项目页\[19\]领导。
 
 最初认为Wubi的功能将整合到Ubuntu 7.10(代号"Gutsy
 Gibbon")中\[20\]\[21\]，但没有及时完成\[22\]。Gutsy的[Live
@@ -39,14 +39,14 @@ Wubi 8.04在测试时已经可以使用并整合到Ubuntu 8.04 Alpha 5\[27\]。
 
 ## 硬件支持
 
-虽然安装程序可以在32位[i386和](../Page/i386.md "wikilink")64位[amd64的主操作系统下运行](../Page/amd64.md "wikilink")，目前只有i386（32位[x86](../Page/x86.md "wikilink")）的Ubuntu发行版得到Wubi和Lubi的官方支持。最新的Alpha版增加了安装64位Ubuntu的功能。
+虽然安装程序可以在32位[i386和](https://zh.wikipedia.org/wiki/i386 "wikilink")64位[amd64的主操作系统下运行](https://zh.wikipedia.org/wiki/amd64 "wikilink")，目前只有i386（32位[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")）的Ubuntu发行版得到Wubi和Lubi的官方支持。最新的Alpha版增加了安装64位Ubuntu的功能。
 
 ## 历史
 
 最初的想法由Agostino
-Russo从[Topologilinux及Instlux获得并提出](../Page/Topologilinux.md "wikilink")，这两个项目都提供了简单的Windows前端程序。这两个想法被合并成使用Windows安装程序将Ubuntu安装到虚拟设备的主意\[28\]。
+Russo从[Topologilinux及Instlux获得并提出](https://zh.wikipedia.org/wiki/Topologilinux "wikilink")，这两个项目都提供了简单的Windows前端程序。这两个想法被合并成使用Windows安装程序将Ubuntu安装到虚拟设备的主意\[28\]。
 Geza Kovacs后来定义了整个规范\[29\]并提供了第一个原型并展示这个想法是可行的\[30\]。Oliver
-Mattos使用[NSIS编写了最初的用户界面](../Page/NSIS.md "wikilink")。
+Mattos使用[NSIS编写了最初的用户界面](https://zh.wikipedia.org/wiki/NSIS "wikilink")。
 
 Agostino
 Russo后来定义了虚拟设备安装的概念，从一个预先做好的简单的虚拟设备镜像文件变成动态变化的镜像并提供了与真实安装相接近的用户体验。Lupin项目也因此产生。Agostino
@@ -58,15 +58,15 @@ Kovacs\[31\]创建。
 
 ## 类似项目
 
-  - [andLinux](../Page/andLinux.md "wikilink")：使用[coLinux在Windows下运行](../Page/coLinux.md "wikilink")。
-  - [Topologilinux](../Page/Topologilinux.md "wikilink")：使用[coLinux在Windows下运行](../Page/coLinux.md "wikilink")。
-  - Instlux，包含在[openSUSE中](../Page/openSUSE.md "wikilink")（10.3版起）\[32\]
-  - [Win32-Loader](../Page/Win32-Loader.md "wikilink")。
+  - [andLinux](https://zh.wikipedia.org/wiki/andLinux "wikilink")：使用[coLinux在Windows下运行](https://zh.wikipedia.org/wiki/coLinux "wikilink")。
+  - [Topologilinux](https://zh.wikipedia.org/wiki/Topologilinux "wikilink")：使用[coLinux在Windows下运行](https://zh.wikipedia.org/wiki/coLinux "wikilink")。
+  - Instlux，包含在[openSUSE中](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（10.3版起）\[32\]
+  - [Win32-Loader](https://zh.wikipedia.org/wiki/Win32-Loader "wikilink")。
   - [UNetbootin](../Page/UNetbootin.md "wikilink")。
 
 ## 参见
 
-  - [NSIS](../Page/NSIS.md "wikilink")
+  - [NSIS](https://zh.wikipedia.org/wiki/NSIS "wikilink")
 
 ## 参考文献
 

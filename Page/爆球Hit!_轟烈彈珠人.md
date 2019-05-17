@@ -1,9 +1,9 @@
-《**爆球Hit！轟烈彈珠人**》（）是[倉谷友也的作品](../Page/倉谷友也.md "wikilink")，在[小學館的漫畫雜誌](../Page/小學館.md "wikilink")[快樂快樂月刊中連載](../Page/快樂快樂月刊.md "wikilink")，此外根據本作改編的[電視動畫作品於](../Page/電視動畫.md "wikilink")2006年1月9日到同年12月25日期間在[東京電視台播放](../Page/東京電視台.md "wikilink")。
+《**爆球Hit！轟烈彈珠人**》（）是[倉谷友也的作品](https://zh.wikipedia.org/wiki/倉谷友也 "wikilink")，在[小學館的漫畫雜誌](../Page/小學館.md "wikilink")[快樂快樂月刊中連載](../Page/快樂快樂月刊.md "wikilink")，此外根據本作改編的[電視動畫作品於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2006年1月9日到同年12月25日期間在[東京電視台播放](../Page/東京電視台.md "wikilink")。
 
 ## 登場人物
 
   - 玉賀
-    必人（配音員：[笹島かほる](../Page/笹島かほる.md "wikilink")／臺：[王瑞芹](../Page/王瑞芹.md "wikilink")／港：[顧詠雪](../Page/顧詠雪.md "wikilink")）
+    必人（配音員：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")／臺：[王瑞芹](../Page/王瑞芹.md "wikilink")／港：[顧詠雪](../Page/顧詠雪.md "wikilink")）
 
 <!-- end list -->
 
@@ -15,7 +15,7 @@
 <!-- end list -->
 
   - 藏木
-    古道（配音員：[高乃麗](../Page/高乃麗.md "wikilink")／臺：[劉傑](../Page/劉傑.md "wikilink")／港：[譚淑英](../Page/譚淑英.md "wikilink")）
+    古道（配音員：[高乃麗](../Page/高乃麗.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[譚淑英](../Page/譚淑英.md "wikilink")）
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - 仙堂
-    娜娜（配音員：[神田朱未](../Page/神田朱未.md "wikilink")／臺：[林美秀](../Page/林美秀.md "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+    娜娜（配音員：[神田朱未](../Page/神田朱未.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   - 月野
-    金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](../Page/陳雪瑩.md "wikilink")）
+    金太（配音員：[福圓美里](../Page/福圓美里.md "wikilink")／臺：[雷碧文](../Page/雷碧文.md "wikilink")／港：[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")）
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - 真田
-    銃兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")、[松本さち](../Page/松本さち.md "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
+    銃兵衛（配音員：[小山力也](../Page/小山力也.md "wikilink")、[松本さち](https://zh.wikipedia.org/wiki/松本さち "wikilink")（少年）／臺：[梁興昌](../Page/梁興昌.md "wikilink")）
 
 <!-- end list -->
 
@@ -59,7 +59,7 @@
 
 <!-- end list -->
 
-  - 卡拉修（配音員：[松本吉朗](../Page/松本吉朗.md "wikilink")／臺：[劉傑](../Page/劉傑.md "wikilink")）
+  - 卡拉修（配音員：[松本吉朗](https://zh.wikipedia.org/wiki/松本吉朗 "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
 
 <!-- end list -->
 
@@ -92,12 +92,12 @@
 <!-- end list -->
 
   - 波平
-    海人（配音員：[淺野麻由美](../Page/淺野麻由美.md "wikilink")／臺：[林美秀](../Page/林美秀.md "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+    海人（配音員：[淺野麻由美](../Page/淺野麻由美.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")／港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
   - 玉賀
-    光太郎（配音員：[白鳥修馬](../Page/白鳥修馬.md "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")）／港：[陳偉權](../Page/陳偉權.md "wikilink")）
+    光太郎（配音員：[白鳥修馬](https://zh.wikipedia.org/wiki/白鳥修馬 "wikilink")／臺：[梁興昌](../Page/梁興昌.md "wikilink")）／港：[陳偉權](../Page/陳偉權.md "wikilink")）
 
 <!-- end list -->
 
@@ -106,25 +106,25 @@
 
 <!-- end list -->
 
-  - 鳥賀教授（配音員：[麦人](../Page/麦人.md "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[陳偉權](../Page/陳偉權.md "wikilink")）
+  - 鳥賀教授（配音員：[麦人](https://zh.wikipedia.org/wiki/麦人 "wikilink")／臺：[黃天佑](../Page/黃天佑.md "wikilink")／港：[陳偉權](../Page/陳偉權.md "wikilink")）
 
 <!-- end list -->
 
-  - 神秘老人（配音員：[宮澤正](../Page/宮澤正.md "wikilink")）／港：陳健豪）
+  - 神秘老人（配音員：[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")）／港：陳健豪）
 
 <!-- end list -->
 
-  - 卡拉修BB（配音員：[KOUSAKU](../Page/KOUSAKU.md "wikilink")／臺：[劉傑](../Page/劉傑.md "wikilink")）
+  - 卡拉修BB（配音員：[KOUSAKU](https://zh.wikipedia.org/wiki/KOUSAKU "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
 
 <!-- end list -->
 
   - 玉賀
-    隼人（配音員：[野田圭一](../Page/野田圭一.md "wikilink")、[笹島かほる](../Page/笹島かほる.md "wikilink")（少年）
+    隼人（配音員：[野田圭一](https://zh.wikipedia.org/wiki/野田圭一 "wikilink")、[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")（少年）
 
 <!-- end list -->
 
   - 月野
-    周太（配音員：[魚建](../Page/魚建.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")（少年））
+    周太（配音員：[魚建](https://zh.wikipedia.org/wiki/魚建 "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")（少年））
 
 <!-- end list -->
 
@@ -133,11 +133,11 @@
 
 <!-- end list -->
 
-  - 月野 春子（配音員：[水原薫](../Page/水原薫.md "wikilink")）
+  - 月野 春子（配音員：[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")）
 
 <!-- end list -->
 
-  - 月野 夏子（配音員：[土谷麻貴](../Page/土谷麻貴.md "wikilink")）
+  - 月野 夏子（配音員：[土谷麻貴](https://zh.wikipedia.org/wiki/土谷麻貴 "wikilink")）
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 <!-- end list -->
 
   - 美吉
-    数馬（配音員：[水島大宙](../Page/水島大宙.md "wikilink")／臺：[劉傑](../Page/劉傑.md "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+    数馬（配音員：[水島大宙](../Page/水島大宙.md "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -155,7 +155,7 @@
 <!-- end list -->
 
   - 黒駒
-    虎鉄（配音員：[大畑伸太郎](../Page/大畑伸太郎.md "wikilink")／臺：[劉傑](../Page/劉傑.md "wikilink")）
+    虎鉄（配音員：[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")／臺：[劉傑](https://zh.wikipedia.org/wiki/劉傑 "wikilink")）
 
 <!-- end list -->
 
@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - 大黒 銀蔵（配音員：[永野善一](../Page/永野善一.md "wikilink")）
+  - 大黒 銀蔵（配音員：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")）
 
 <!-- end list -->
 
@@ -171,7 +171,7 @@
 
 <!-- end list -->
 
-  - 審判少年（配音員：[出村貴](../Page/出村貴.md "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+  - 審判少年（配音員：[出村貴](https://zh.wikipedia.org/wiki/出村貴 "wikilink")／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -179,14 +179,14 @@
 
 <!-- end list -->
 
-  - 釧路 和夫（配音員：[永野善一](../Page/永野善一.md "wikilink")）
+  - 釧路 和夫（配音員：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")）
 
 <!-- end list -->
 
-  - 釧路 彌生（配音員：[瀨戶奈保子](../Page/瀨戶奈保子.md "wikilink")）
-  - 釧路 葉月（配音員：[吉原ナツキ](../Page/吉原ナツキ.md "wikilink")）
+  - 釧路 彌生（配音員：[瀨戶奈保子](https://zh.wikipedia.org/wiki/瀨戶奈保子 "wikilink")）
+  - 釧路 葉月（配音員：[吉原ナツキ](https://zh.wikipedia.org/wiki/吉原ナツキ "wikilink")）
   - 釧路
-    慎一郎（配音員：[桑島三幸](../Page/桑島三幸.md "wikilink")）／港：[陳健豪](../Page/陳健豪.md "wikilink")）
+    慎一郎（配音員：[桑島三幸](https://zh.wikipedia.org/wiki/桑島三幸 "wikilink")）／港：[陳健豪](../Page/陳健豪.md "wikilink")）
 
 <!-- end list -->
 
@@ -194,11 +194,11 @@
 
 <!-- end list -->
 
-  - 次郎（配音員：[吉原ナツキ](../Page/吉原ナツキ.md "wikilink")）
+  - 次郎（配音員：[吉原ナツキ](https://zh.wikipedia.org/wiki/吉原ナツキ "wikilink")）
 
 <!-- end list -->
 
-  - 大会委員長（配音員：[齊藤貴美子](../Page/齊藤貴美子.md "wikilink")）
+  - 大会委員長（配音員：[齊藤貴美子](https://zh.wikipedia.org/wiki/齊藤貴美子 "wikilink")）
 
 <!-- end list -->
 
@@ -215,7 +215,7 @@
 <!-- end list -->
 
   - 西島
-    荒（配音員：[芝原チヤコ](../Page/芝原チヤコ.md "wikilink")、港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+    荒（配音員：[芝原チヤコ](https://zh.wikipedia.org/wiki/芝原チヤコ "wikilink")、港：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -230,7 +230,7 @@
 <!-- end list -->
 
   - 竹市
-    伴平（配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")／臺：[林美秀](../Page/林美秀.md "wikilink")）
+    伴平（配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")／臺：[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")）
 
 <!-- end list -->
 
@@ -410,7 +410,7 @@
 ### 播出時間
 
   - 日本
-      - [東京電視系](../Page/TXN.md "wikilink")
+      - [東京電視系](https://zh.wikipedia.org/wiki/TXN "wikilink")
           - 2006年1月9日－2006年3月27日（第1集－第11集）每週一 18:00－18:30
           - 2006年4月3日－2006年12月25日（第12集－第50集）每週一 17:30－18:00
   - 台灣
@@ -691,7 +691,7 @@
 
 ## 節目的變遷
 
-[分類:亞洲電視外購動畫](../Page/分類:亞洲電視外購動畫.md "wikilink")
+[分類:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/分類:亞洲電視外購動畫 "wikilink")
 
 [Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink")
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

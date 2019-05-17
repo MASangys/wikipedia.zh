@@ -1,28 +1,28 @@
 **Linux兼容内核（Linux Unified Kernel，亦称
-Longene）**，是一个[二进制兼容](../Page/二进制.md "wikilink")[Windows和](../Page/Windows.md "wikilink")[Linux应用软件和设备驱动程序的](../Page/Linux.md "wikilink")[计算机](../Page/计算机.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。它试图在Linux内核的基础上利用Linux内核材料构建MS
+Longene）**，是一个[二进制兼容](https://zh.wikipedia.org/wiki/二进制 "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux应用软件和设备驱动程序的](../Page/Linux.md "wikilink")[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。它试图在Linux内核的基础上利用Linux内核材料构建MS
 Windows内核功能模块从而扩充Linux内核的支持能力使之同时支持Linux和Windows的应用程序和设备驱动。
 
-兼容内核主要以[C语言编写](../Page/C语言.md "wikilink")，以[GNU通用公共许可证授权使用](../Page/GNU.md "wikilink")。虽然兼容内核还处在初期开发阶段，但许多Windows程序已经可以在其上运行。與其相反但類似概念的是
-[coLinux](../Page/:Cooperative_Linux.md "wikilink")。[coLinux](../Page/:Cooperative_Linux.md "wikilink")
-是在[Windows上運行](../Page/Windows.md "wikilink")[Linux应用软件](../Page/Linux.md "wikilink")。
+兼容内核主要以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，以[GNU通用公共许可证授权使用](../Page/GNU.md "wikilink")。虽然兼容内核还处在初期开发阶段，但许多Windows程序已经可以在其上运行。與其相反但類似概念的是
+[coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink")。[coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink")
+是在[Windows上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux应用软件](../Page/Linux.md "wikilink")。
 
 ## 特性
 
-兼容内核项目在Linux内核的基础上利用Linux内核材料构建一个Windows内核环境（包括[进程管理](../Page/进程管理.md "wikilink")、[线程管理](../Page/线程管理.md "wikilink")、对象管理、[虚拟内存管理](../Page/虚拟内存.md "wikilink")、同步、系统调用、系统注册机制和设备驱动程序框架等Windows系统内核机制），形成一个新的内核，使Linux和Windows应用程序和设备驱动程序能够直接在其上运行。
+兼容内核项目在Linux内核的基础上利用Linux内核材料构建一个Windows内核环境（包括[进程管理](https://zh.wikipedia.org/wiki/进程管理 "wikilink")、[线程管理](https://zh.wikipedia.org/wiki/线程管理 "wikilink")、对象管理、[虚拟内存管理](../Page/虚拟内存.md "wikilink")、同步、系统调用、系统注册机制和设备驱动程序框架等Windows系统内核机制），形成一个新的内核，使Linux和Windows应用程序和设备驱动程序能够直接在其上运行。
 
-兼容内核不是Linux内核和Windows内核的简单堆砌。为了防止兼容内核变得臃肿，如果一个功能可以用利用[ReactOS](../Page/ReactOS.md "wikilink")（Windows的开源仿制品）代码实现，也可以利用Linux内核函数通过编程实现（ReactOS、Wine、NDISwrapper代码作为参考），兼容内核倾向采用后一种实现方法。
+兼容内核不是Linux内核和Windows内核的简单堆砌。为了防止兼容内核变得臃肿，如果一个功能可以用利用[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")（Windows的开源仿制品）代码实现，也可以利用Linux内核函数通过编程实现（ReactOS、Wine、NDISwrapper代码作为参考），兼容内核倾向采用后一种实现方法。
 
 兼容内核有两套系统调用（syscalls）及其相应的系统调用表（syscall
 table）：一套为Windows系统调用，另一套为Linux系统调用。Windows应用程序通过软中断“int
 0x2e”访问系统调用表进行Windows系统调用。Linux应用软件则通过软中断“int 0x80”访问系统调用表进行Linux系统调用。
 
-兼容内核项目不计划开发Windows和Linux的在用户空间运行的[库文件](../Page/库文件.md "wikilink")（.dll和.so文件）。这些库文件由[Wine项目](../Page/Wine.md "wikilink")（或MS
+兼容内核项目不计划开发Windows和Linux的在用户空间运行的[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")（.dll和.so文件）。这些库文件由[Wine项目](../Page/Wine.md "wikilink")（或MS
 Windows/ReactOS项目）和Linux项目提供。
 
 ## 在Linux核内空间实现Windows内核机制方案的优点
 
   - 开发快速。Linux内核已有成熟的CPU管理、内存管理、磁盘管理和外围硬件管理等功能模块及其实现函数。采用扩充Linux内核，通过嫁接（重定向）或重用Linux内核相关功能函数等方法实现Windows内核功能的方案要比从零开始编码实现Windows内核的方案要快很多。
-  - 兼容性好，效率高。在核内空间实现Windows内核机制比在核外实现能够达到更大的兼容性。相比在核外利用宿主操作系统的[API来构建Windows的API](../Page/API.md "wikilink")，在核内空间可以利用细小的内核材料来实现Windows的API。因内核函数颗粒度比API小，其灵活性更大仿制能力更强因而能够达到更好的兼容性。另外，Windows进程、线程、系统调用等在核内运行能够避免在核外运行带来的用户空间到内核切换额外的消耗，因而相比更有效率。在核内实现Windows内核机制与原生的Windows内核开发方法是一致的，能够克服核外无法实现Windows某些功能的缺点。
+  - 兼容性好，效率高。在核内空间实现Windows内核机制比在核外实现能够达到更大的兼容性。相比在核外利用宿主操作系统的[API来构建Windows的API](https://zh.wikipedia.org/wiki/API "wikilink")，在核内空间可以利用细小的内核材料来实现Windows的API。因内核函数颗粒度比API小，其灵活性更大仿制能力更强因而能够达到更好的兼容性。另外，Windows进程、线程、系统调用等在核内运行能够避免在核外运行带来的用户空间到内核切换额外的消耗，因而相比更有效率。在核内实现Windows内核机制与原生的Windows内核开发方法是一致的，能够克服核外无法实现Windows某些功能的缺点。
   - 能够实现Windows驱动。
   - 能够使用全套MS Windows库文件。Linux和MS Windows库文件是通过软中断（Linux为“int 0x80”，MS
     Windows为“int 0x2e”）进入核内进行系统调用的。兼容内核在内核开发能够为之设置与Linux和MS
@@ -107,7 +107,7 @@ Windows/ReactOS项目）和Linux项目提供。
 <td><p>2006年12月31日</p></td>
 <td><ul>
 <li>實現了Windows的進程/線程創建</li>
-<li>執行部分Windows的<a href="../Page/APC.md" title="wikilink">APC機制</a></li>
+<li>執行部分Windows的<a href="https://zh.wikipedia.org/wiki/APC" title="wikilink">APC機制</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -118,15 +118,15 @@ Windows/ReactOS项目）和Linux项目提供。
 <li>虛擬內存管理</li>
 <li>同步管理</li>
 <li>對象管理</li>
-<li>加載<a href="../Page/EXE.md" title="wikilink">EXE功能</a></li>
+<li>加載<a href="https://zh.wikipedia.org/wiki/EXE" title="wikilink">EXE功能</a></li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>0.2.2</p></td>
 <td><p>2008年10月31日</p></td>
 <td><ul>
-<li><a href="../Page/Software_token.md" title="wikilink">Token機制</a></li>
-<li><a href="../Page/GUI.md" title="wikilink">GUI安裝程序</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Software_token" title="wikilink">Token機制</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/GUI" title="wikilink">GUI安裝程序</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -156,15 +156,15 @@ Windows/ReactOS项目）和Linux项目提供。
 <td><p>0.2.4.1</p></td>
 <td><p>2009年8月31日</p></td>
 <td><ul>
-<li>基於<a href="../Page/Linux內核.md" title="wikilink">Linux內核</a>2.6.30</li>
-<li>支持新的<a href="../Page/文件系統.md" title="wikilink">文件系統</a> (<a href="../Page/ext4.md" title="wikilink">ext4及其他</a>)</li>
+<li>基於<a href="https://zh.wikipedia.org/wiki/Linux內核" title="wikilink">Linux內核</a>2.6.30</li>
+<li>支持新的<a href="https://zh.wikipedia.org/wiki/文件系統" title="wikilink">文件系統</a> (<a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4及其他</a>)</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>0.3</p></td>
 <td><p>2010年5月31日</p></td>
 <td><ul>
-<li>移植所有<a href="../Page/wineserver.md" title="wikilink">wineserver的功能到內核及擺脫wineserver</a></li>
+<li>移植所有<a href="https://zh.wikipedia.org/wiki/wineserver" title="wikilink">wineserver的功能到內核及擺脫wineserver</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -236,7 +236,7 @@ kernel、Reactos、Wine、kernel-win32和NDISwrapper等\[5\]，它们都是开�
 
 <!-- end list -->
 
-  - [ReactOS](../Page/ReactOS.md "wikilink")
+  - [ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")
 
 <!-- end list -->
 
@@ -268,7 +268,7 @@ kernel、Reactos、Wine、kernel-win32和NDISwrapper等\[5\]，它们都是开�
 
 <!-- end list -->
 
-  - [NDISwrapper](../Page/NDISwrapper.md "wikilink")
+  - [NDISwrapper](https://zh.wikipedia.org/wiki/NDISwrapper "wikilink")
 
 <!-- end list -->
 
@@ -293,10 +293,11 @@ kernel、Reactos、Wine、kernel-win32和NDISwrapper等\[5\]，它们都是开�
 
 ### 架构支持
 
-  - [IA-32](../Page/IA-32.md "wikilink") (支援中)
-  - [x86-64](../Page/x86-64.md "wikilink") (不支援, 計劃中)
-  - [龍芯](../Page/龍芯.md "wikilink")3 (不支援, 計劃中) -- Loongson 3是一种MIPS-64
-    64-bit构架的通用CPU，它计划包含二百多条指令以便硬件仿真x86 CPU指令，从而使其能够运行Windows。
+  - [IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink") (支援中)
+  - [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") (不支援, 計劃中)
+  - [龍芯](https://zh.wikipedia.org/wiki/龍芯 "wikilink")3 (不支援, 計劃中) --
+    Loongson 3是一种MIPS-64 64-bit构架的通用CPU，它计划包含二百多条指令以便硬件仿真x86
+    CPU指令，从而使其能够运行Windows。
 
 ## 參考資料
 

@@ -1,19 +1,19 @@
 是由[暴雪娛樂于](../Page/暴雪娛樂.md "wikilink")2000年6月29日發行的一款PC及Mac
-OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是《[暗黑破壞神系列](../Page/暗黑破壞神系列.md "wikilink")》的第二代。故事紧随前作1996年发行的《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》。其[資料片](../Page/資料片.md "wikilink")《[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")》于2001年6月29日發行。
+OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是《[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")》的第二代。故事紧随前作1996年发行的《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》。其[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")《[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")》于2001年6月29日發行。
 
-玩家可在單人模式及多人模式進行遊戲以及在[战网與其他玩家共同遊玩](../Page/战网.md "wikilink")。
+玩家可在單人模式及多人模式進行遊戲以及在[战网與其他玩家共同遊玩](https://zh.wikipedia.org/wiki/战网 "wikilink")。
 
 ## 游戏方式
 
-《暗黑破坏神II》中共设置五种不同的角色，四个[关卡](../Page/关卡_\(电子游戏\).md "wikilink")，每个关卡有六或三个任务。玩家通过[鼠标和](../Page/鼠标.md "wikilink")[键盘控制自己所创建职业的角色](../Page/键盘.md "wikilink")。在各个关卡的大部分地区内，[地图是随机生成的](../Page/地图.md "wikilink")，玩家通过杀掉关卡中地牢、荒野等地方的怪物来获得[经验值从而](../Page/经验值.md "wikilink")[升级](../Page/等級提升.md "wikilink")、学习[技能和添加](../Page/技能.md "wikilink")[任务属性值](../Page/任务.md "wikilink")，并通过该途径得到更好的[装备甚至收集完整的套装](../Page/装备.md "wikilink")。在此过程中，玩家还可以使用随从的雇佣兵来协助自己攻击怪物。在每个关卡的最后，玩家都需要击败一个强大的妖怪[头目从而进入下一关卡](../Page/头目_\(角色类型\).md "wikilink")。
+《暗黑破坏神II》中共设置五种不同的角色，四个[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，每个关卡有六或三个任务。玩家通过[鼠标和](../Page/鼠标.md "wikilink")[键盘控制自己所创建职业的角色](https://zh.wikipedia.org/wiki/键盘 "wikilink")。在各个关卡的大部分地区内，[地图是随机生成的](../Page/地图.md "wikilink")，玩家通过杀掉关卡中地牢、荒野等地方的怪物来获得[经验值从而](https://zh.wikipedia.org/wiki/经验值 "wikilink")[升级](https://zh.wikipedia.org/wiki/等級提升 "wikilink")、学习[技能和添加](https://zh.wikipedia.org/wiki/技能 "wikilink")[任务属性值](https://zh.wikipedia.org/wiki/任务 "wikilink")，并通过该途径得到更好的[装备甚至收集完整的套装](https://zh.wikipedia.org/wiki/装备 "wikilink")。在此过程中，玩家还可以使用随从的雇佣兵来协助自己攻击怪物。在每个关卡的最后，玩家都需要击败一个强大的妖怪[头目从而进入下一关卡](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")。
 
 另外，游戏共有三个难度级别：普通、噩梦、地狱。当完成本难度级别第四个关卡最后一个任务后，即结束当前难度级别的游戏，可进入下一难度级别进行新的游戏或继续在本难度级别中游戏。虽然各个难度级别中的任务与怪物相同，但难度却有明显上升。
 
-为了满足玩家对游戏难度的追求，玩家在创造职业角色时，可以选择[专家级职业](../Page/专家级.md "wikilink")；专家级职业人物若在游戏过程中死亡，该角色将无法再次进行游戏。同时，专家级人物的储物箱空间较普通角色的要小很多。同时，为了增加游戏的可玩性，游戏中允许玩家将[宝石](../Page/宝石.md "wikilink")、[钻石等游戏物品和装备进行组合](../Page/钻石.md "wikilink")，来使装备具有独一无二的属性；同样的，游戏中的[赫拉迪克方块让自由合成物品也成为了可能](../Page/赫拉迪克方块.md "wikilink")，但成功合成物品的前提是玩家积累了足够的物品[合成公式](../Page/合成公式.md "wikilink")。
+为了满足玩家对游戏难度的追求，玩家在创造职业角色时，可以选择[专家级职业](https://zh.wikipedia.org/wiki/专家级 "wikilink")；专家级职业人物若在游戏过程中死亡，该角色将无法再次进行游戏。同时，专家级人物的储物箱空间较普通角色的要小很多。同时，为了增加游戏的可玩性，游戏中允许玩家将[宝石](https://zh.wikipedia.org/wiki/宝石 "wikilink")、[钻石等游戏物品和装备进行组合](../Page/钻石.md "wikilink")，来使装备具有独一无二的属性；同样的，游戏中的[赫拉迪克方块让自由合成物品也成为了可能](https://zh.wikipedia.org/wiki/赫拉迪克方块 "wikilink")，但成功合成物品的前提是玩家积累了足够的物品[合成公式](https://zh.wikipedia.org/wiki/合成公式 "wikilink")。
 
 ### 角色職業
 
-《暗黑破坏神II》中提供五個職業供玩家選擇，每个职业都有其独一无二的样貌、[技能樹甚至是部分](../Page/技能.md "wikilink")[NPC对话](../Page/NPC.md "wikilink")，游戏中，在使用某些通用装备的同时，每个职业都有专属的物品，这极大提高了游戏的特性。虽然各个职业相差悬殊，但是其最高等级均为99级。
+《暗黑破坏神II》中提供五個職業供玩家選擇，每个职业都有其独一无二的样貌、[技能樹甚至是部分](https://zh.wikipedia.org/wiki/技能 "wikilink")[NPC对话](https://zh.wikipedia.org/wiki/NPC "wikilink")，游戏中，在使用某些通用装备的同时，每个职业都有专属的物品，这极大提高了游戏的特性。虽然各个职业相差悬殊，但是其最高等级均为99级。
 
   - 亞馬遜（Amazon）
     亞馬遜人是來自雙子海中島嶼的民族，善用弓箭、長矛以及標槍，利用這些武器達到最佳的戰鬥效果。將消滅三個罪惡之源（Prime
@@ -30,7 +30,7 @@ OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikil
     聖騎士—屬於李奧瑞克所帶領的衛斯馬屈騎士團（Knights of Westmarch）中的精英士兵，接受的是撒卡蘭姆 - 信仰聖光的教派
     - 的光明教導，他只為他自己的信念而戰。雖然聖騎士們有點狂熱過頭了，但是他們依然追隨著聖光在行動。
 
-而在資料片[暗黑破壞神II：毀滅之王則另外增加以下兩個職業](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：[德鲁伊和](../Page/德鲁伊.md "wikilink")[刺客](../Page/刺客.md "wikilink")
+而在資料片[暗黑破壞神II：毀滅之王則另外增加以下兩個職業](../Page/暗黑破壞神II：毀滅之王.md "wikilink")：[德鲁伊和](https://zh.wikipedia.org/wiki/德鲁伊 "wikilink")[刺客](https://zh.wikipedia.org/wiki/刺客 "wikilink")
 
 ### 多人游戏
 

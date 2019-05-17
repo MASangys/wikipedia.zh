@@ -1,14 +1,14 @@
 **Google协作平台**（**Google
 Sites**）是[Google用来取代](../Page/Google.md "wikilink")[Google
 Page
-Creator的一款基于](../Page/Google_Page_Creator.md "wikilink")[Wiki的在线网站制作系统](../Page/Wiki.md "wikilink")，为[Google
-Apps的一部分](../Page/Google_Apps.md "wikilink")，其目标是任何人都能够创建一个团队为导向的网站，其中多人可以协作和共享文件。\[1\]
+Creator的一款基于](https://zh.wikipedia.org/wiki/Google_Page_Creator "wikilink")[Wiki的在线网站制作系统](../Page/Wiki.md "wikilink")，为[Google
+Apps的一部分](https://zh.wikipedia.org/wiki/Google_Apps "wikilink")，其目标是任何人都能够创建一个团队为导向的网站，其中多人可以协作和共享文件。\[1\]
 
 ## 综览
 
-Google协作平台基本沿用了Google网页编辑器的一贯风格，同时支持[HTML代码中body部分的代码编辑](../Page/HTML.md "wikilink")。支持用户上传图片及文件(不支援[.html](../Page/html.md "wikilink")
-[.htm](../Page/html.md "wikilink")
-[.php網頁文件](../Page/php.md "wikilink"))，最大达100MB。
+Google协作平台基本沿用了Google网页编辑器的一贯风格，同时支持[HTML代码中body部分的代码编辑](../Page/HTML.md "wikilink")。支持用户上传图片及文件(不支援[.html](https://zh.wikipedia.org/wiki/html "wikilink")
+[.htm](https://zh.wikipedia.org/wiki/html "wikilink")
+[.php網頁文件](https://zh.wikipedia.org/wiki/php "wikilink"))，最大达100MB。
 
 Google协作平台企业版同时也作为Google企业套件的一部分，企业版支持高达10GB的存储空间。
 
@@ -29,7 +29,7 @@ Google协作平台除了基本的网页以外还支持列表式网页，同时�
 ## 封锁
 
   - 土耳其区域法院的裁决，自2009年6月24日開始在Google网站上托管的Google
-    協作平台被封锁。\[5\]因为其中一个页面含有侮辱土耳其创始人[穆斯塔法·凯末尔](../Page/穆斯塔法·凯末尔.md "wikilink")。
+    協作平台被封锁。\[5\]因为其中一个页面含有侮辱土耳其创始人[穆斯塔法·凯末尔](https://zh.wikipedia.org/wiki/穆斯塔法·凯末尔 "wikilink")。
   - Google协作平台于2009年10月12日被中国[防火长城封锁](../Page/防火长城.md "wikilink")，使用的手段包含但不限于域名劫持、URL过滤、IP地址封锁。\[6\]
 
 ## Google Sites:Windows(Closed Beta)
@@ -39,16 +39,17 @@ Google协作平台除了基本的网页以外还支持列表式网页，同时�
 在[Google
 Site:Windows](https://web.archive.org/web/20100103221007/http://code.google.com/events/io/)中，它內置了
 一些 [Google
-Desktop的功能](../Page/Google_Desktop.md "wikilink"),並且能夠以[軟件方法來編寫網站](../Page/軟件.md "wikilink"),它能夠以[HTML或標準版面直接編寫](../Page/HTML.md "wikilink")。它和Google
+Desktop的功能](https://zh.wikipedia.org/wiki/Google_Desktop "wikilink"),並且能夠以[軟件方法來編寫網站](https://zh.wikipedia.org/wiki/軟件 "wikilink"),它能夠以[HTML或標準版面直接編寫](../Page/HTML.md "wikilink")。它和Google
 Site網絡版本大部分的環境相同。可惜在測試版本表現冷淡,情況較不理想,經[Google研討後最後於](../Page/Google.md "wikilink")[Google
-I/O大會宣佈終止支緩](../Page/Google_I/O.md "wikilink")。
+I/O大會宣佈終止支緩](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。
 
 ## 參見
 
   - [Google产品列表](../Page/Google产品列表.md "wikilink")
-  - [Google App Engine](../Page/Google_App_Engine.md "wikilink")
+  - [Google App
+    Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")
   - [APSoft DownFreeware
-    WEB](../Page/APSoft_DownFreeware_WEB.md "wikilink")
+    WEB](https://zh.wikipedia.org/wiki/APSoft_DownFreeware_WEB "wikilink")
 
 ## 參考文獻
 

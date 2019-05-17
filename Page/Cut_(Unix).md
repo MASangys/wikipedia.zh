@@ -1,6 +1,6 @@
-在電腦使用上，**cut**是一種[Unix](../Page/Unix.md "wikilink")[命令行程式](../Page/命令行界面.md "wikilink")。它常用來截取每行輸入──通常是[檔案](../Page/電腦檔案.md "wikilink")──的片段。
+在電腦使用上，**cut**是一種[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令行程式](../Page/命令行界面.md "wikilink")。它常用來截取每行輸入──通常是[檔案](../Page/電腦檔案.md "wikilink")──的片段。
 
-一般截取行片段可以透過[位元](../Page/位元.md "wikilink")（`-b`）、[字符](../Page/字符.md "wikilink")、或者以分隔字符（`-d`—預設為[跳位字元](../Page/跳位字元.md "wikilink")）分隔的欄位（`-f`）達成。每次做截取都必須給定範圍，包括下面四種之一：`N`,
+一般截取行片段可以透過[位元](../Page/位元.md "wikilink")（`-b`）、[字符](../Page/字符.md "wikilink")、或者以分隔字符（`-d`—預設為[跳位字元](https://zh.wikipedia.org/wiki/跳位字元 "wikilink")）分隔的欄位（`-f`）達成。每次做截取都必須給定範圍，包括下面四種之一：`N`,
 `N-M,` `N-`（`N`到行尾），或者`-M`（行頭到`M`）。
 
 ## 範例
@@ -34,8 +34,8 @@
 ## 參見
 
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
-  - [grep](../Page/grep.md "wikilink")
-  - [paste](../Page/paste_\(Unix\).md "wikilink")
+  - [grep](https://zh.wikipedia.org/wiki/grep "wikilink")
+  - [paste](https://zh.wikipedia.org/wiki/paste_\(Unix\) "wikilink")
 
 ## 外部連結
 

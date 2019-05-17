@@ -1,14 +1,14 @@
 **True My
-Heart**是2007年9月5日發售的[單曲](../Page/單曲.md "wikilink")，歌手為「[ave;new](../Page/ave;new.md "wikilink")
+Heart**是2007年9月5日發售的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，歌手為「[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink")
 feat. [佐倉紗織](../Page/佐倉紗織.md "wikilink")」。
 
 ## 簡介
 
-  - 收錄2005年發售的[十八禁遊戲](../Page/十八禁遊戲.md "wikilink")《[Nursery
+  - 收錄2005年發售的[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")《[Nursery
     Rhyme](../Page/Nursery_Rhyme.md "wikilink")》的主題曲「True My
     Heart」混音版和B-side的「kiss my lips -Lovers EDIT-」。
   - 2007年春天，「True My
-    Heart」因[空耳歌詞而在](../Page/幻聽歌詞.md "wikilink")[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")、[YouTube等影片網站引起話題](../Page/YouTube.md "wikilink")。歌詞中的「」和「」聽起來像「」（一種料理，[名古屋特產](../Page/名古屋.md "wikilink")），因此「True
+    Heart」因[空耳歌詞而在](https://zh.wikipedia.org/wiki/幻聽歌詞 "wikilink")[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")、[YouTube等影片網站引起話題](../Page/YouTube.md "wikilink")。歌詞中的「」和「」聽起來像「」（一種料理，[名古屋特產](https://zh.wikipedia.org/wiki/名古屋 "wikilink")），因此「True
     My Heart」亦有「」的別稱\[1\]\[2\]
   - 2007年9月9日，a.k.a.dRESS以[角色主唱系列的](../Page/角色主唱系列.md "wikilink")翻唱「True
     My Heart」\[3\]\[4\]，再次於NICONICO動畫引起話題。

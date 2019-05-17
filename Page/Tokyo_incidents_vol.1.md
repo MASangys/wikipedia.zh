@@ -1,8 +1,8 @@
 《**Tokyo incidents vol.1**》（，*Tokyo Incidents
-Vol.1*）是[東京事變的第一張](../Page/東京事變.md "wikilink")[DVD](../Page/DVD.md "wikilink")，於2004年12月8日發行。發行當週即賣出2.2萬張，總計銷售額4.2萬張。初回限定為「彩色照片印刷DVD
+Vol.1*）是[東京事變的第一張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2004年12月8日發行。發行當週即賣出2.2萬張，總計銷售額4.2萬張。初回限定為「彩色照片印刷DVD
 」。
 
-此張DVD共收錄六首音樂錄影帶，包括四首來自單曲《[群青日和](../Page/群青日和.md "wikilink")》、《[遭難](../Page/遭難.md "wikilink")》內的曲目，一首翻唱曲，最後的則來自於首張專輯《[教育](../Page/教育_\(東京事變專輯\).md "wikilink")》。
+此張DVD共收錄六首音樂錄影帶，包括四首來自單曲《[群青日和](../Page/群青日和.md "wikilink")》、《[遭難](../Page/遭難.md "wikilink")》內的曲目，一首翻唱曲，最後的則來自於首張專輯《[教育](https://zh.wikipedia.org/wiki/教育_\(東京事變專輯\) "wikilink")》。
 
 ## 簡介
 
@@ -12,7 +12,7 @@ Vol.1*）是[東京事變的第一張](../Page/東京事變.md "wikilink")[DVD](
 
 「遭難～炸藥」音樂錄影帶中，「遭難」部分，椎名林檎頂著紅花彈吉他，淡淡地露出其女人味，而監督內野政明利用旋轉的概念，將團員層層堆疊，完成此首歌的音樂錄影帶。而「炸藥」的部分，椎名林檎不但以兩套紅、黑性感緊身小禮服的裝扮，歌唱著英文歌詞，更扭腰擺臀地大跳百老匯歌曲的舞步\[1\]。而椎名林檎本身對於這兩支音樂錄影帶也相當滿意，她表示「這完全表現出東京事變風味\[2\]。」
 
-此張DVD也是東京事變成立以來，連續四個月發表作品。（09月《[群青日和](../Page/群青日和.md "wikilink")》、10月《[遭難](../Page/遭難.md "wikilink")》、11月《[教育](../Page/教育_\(東京事變專輯\).md "wikilink")》）
+此張DVD也是東京事變成立以來，連續四個月發表作品。（09月《[群青日和](../Page/群青日和.md "wikilink")》、10月《[遭難](../Page/遭難.md "wikilink")》、11月《[教育](https://zh.wikipedia.org/wiki/教育_\(東京事變專輯\) "wikilink")》）
 
 ## 曲目
 
@@ -107,7 +107,7 @@ Tokyo incidents vol.1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Soundscan.md" title="wikilink">Soundscan</a>：DVD Top 20</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Soundscan" title="wikilink">Soundscan</a>：DVD Top 20</p></td>
 <td><p>#4[6]</p></td>
 <td><p>17,723</p></td>
 <td><p>#4</p></td>

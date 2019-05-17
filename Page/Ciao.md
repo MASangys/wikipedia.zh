@@ -5,41 +5,41 @@
 
 ## 目前連載作品
 
-  - [ボーイフレンド](../Page/ボーイフレンド.md "wikilink")
-    [森田友希](../Page/森田友希.md "wikilink")
-  - [こっちむいて\!みいこ](../Page/こっちむいて!みいこ.md "wikilink")
-    [おのえりこ](../Page/おのえりこ.md "wikilink")
+  - [ボーイフレンド](https://zh.wikipedia.org/wiki/ボーイフレンド "wikilink")
+    [森田友希](https://zh.wikipedia.org/wiki/森田友希 "wikilink")
+  - [こっちむいて\!みいこ](https://zh.wikipedia.org/wiki/こっちむいて!みいこ "wikilink")
+    [おのえりこ](https://zh.wikipedia.org/wiki/おのえりこ "wikilink")
   - [12歲。](../Page/12歲。.md "wikilink")
-    [米田菜穗](../Page/米田菜穗.md "wikilink")
-  - [Honey Days](../Page/Honey_Days.md "wikilink")
+    [米田菜穗](https://zh.wikipedia.org/wiki/米田菜穗 "wikilink")
+  - [Honey Days](https://zh.wikipedia.org/wiki/Honey_Days "wikilink")
     [八神千歲](../Page/八神千歲.md "wikilink")
-  - [ひかりオンステージ](../Page/ひかりオンステージ.md "wikilink")
-    [中原杏](../Page/中原杏.md "wikilink")
-  - [ゲキカワデビル](../Page/ゲキカワデビル.md "wikilink")
+  - [ひかりオンステージ](https://zh.wikipedia.org/wiki/ひかりオンステージ "wikilink")
+    [中原杏](https://zh.wikipedia.org/wiki/中原杏 "wikilink")
+  - [ゲキカワデビル](https://zh.wikipedia.org/wiki/ゲキカワデビル "wikilink")
     [藪內優](../Page/藪內優.md "wikilink")
-  - [世界末日戀上你](../Page/世界末日戀上你.md "wikilink")
-    [能登山圭子](../Page/能登山圭子.md "wikilink")
-  - [閃亮和美妙頻道](../Page/閃亮和美妙頻道.md "wikilink")
-    [達永羊](../Page/達永羊.md "wikilink")
-  - [偶像活動Friends\!](../Page/偶像活動Friends!.md "wikilink")
-    [小森千尋](../Page/小森千尋.md "wikilink")
+  - [世界末日戀上你](https://zh.wikipedia.org/wiki/世界末日戀上你 "wikilink")
+    [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
+  - [閃亮和美妙頻道](https://zh.wikipedia.org/wiki/閃亮和美妙頻道 "wikilink")
+    [達永羊](https://zh.wikipedia.org/wiki/達永羊 "wikilink")
+  - [偶像活動Friends\!](https://zh.wikipedia.org/wiki/偶像活動Friends! "wikilink")
+    [小森千尋](https://zh.wikipedia.org/wiki/小森千尋 "wikilink")
 
 ## 過去連載作品
 
-  - [愛天使傳說](../Page/愛天使傳說.md "wikilink")（原作：[富田祐弘](../Page/富田祐弘.md "wikilink")・作画：[谷澤直](../Page/谷澤直.md "wikilink")）
-  - [雙子公主](../Page/雙子公主.md "wikilink")（[阿南滿雪](../Page/阿南滿雪.md "wikilink")）
+  - [愛天使傳說](../Page/愛天使傳說.md "wikilink")（原作：[富田祐弘](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")・作画：[谷澤直](https://zh.wikipedia.org/wiki/谷澤直 "wikilink")）
+  - [雙子公主](https://zh.wikipedia.org/wiki/雙子公主 "wikilink")（[阿南滿雪](https://zh.wikipedia.org/wiki/阿南滿雪 "wikilink")）
   - [水色時代](../Page/水色時代.md "wikilink")（[藪內優](../Page/藪內優.md "wikilink")）
   - [魔法咪路咪路](../Page/魔法咪路咪路.md "wikilink")（[篠塚廣夢](../Page/篠塚廣夢.md "wikilink")）
-  - [牛奶糖之吻](../Page/牛奶糖之吻.md "wikilink")（[八神千歲](../Page/八神千歲.md "wikilink")）
-  - [暴走少女沙耶加](../Page/暴走少女沙耶加.md "wikilink")（[和央明](../Page/和央明.md "wikilink")）
-  - [星夢天使](../Page/星夢天使.md "wikilink")（[中原杏](../Page/中原杏.md "wikilink")）
+  - [牛奶糖之吻](https://zh.wikipedia.org/wiki/牛奶糖之吻 "wikilink")（[八神千歲](../Page/八神千歲.md "wikilink")）
+  - [暴走少女沙耶加](https://zh.wikipedia.org/wiki/暴走少女沙耶加 "wikilink")（[和央明](https://zh.wikipedia.org/wiki/和央明 "wikilink")）
+  - [星夢天使](https://zh.wikipedia.org/wiki/星夢天使 "wikilink")（[中原杏](https://zh.wikipedia.org/wiki/中原杏 "wikilink")）
   - [魔法少女隊](../Page/魔法少女隊.md "wikilink")
-  - [金色のガッシュベル\!\!](../Page/魔法少年賈修.md "wikilink")（原作：[雷句誠](../Page/雷句誠.md "wikilink")・作画：[牧原若菜](../Page/牧原若菜.md "wikilink")）
+  - [金色のガッシュベル\!\!](../Page/魔法少年賈修.md "wikilink")（原作：[雷句誠](../Page/雷句誠.md "wikilink")・作画：[牧原若菜](https://zh.wikipedia.org/wiki/牧原若菜 "wikilink")）
   - [飛天少女豬](../Page/飛天少女豬.md "wikilink")
   - [阿爾卑斯玫瑰 (漫畫)](../Page/阿爾卑斯玫瑰_\(漫畫\).md "wikilink")
   - [戀愛占卜師](../Page/戀愛占卜師.md "wikilink")
-  - [你是我的小宇宙](../Page/你是我的小宇宙.md "wikilink")
-    [能登山圭子](../Page/能登山圭子.md "wikilink")
+  - [你是我的小宇宙](https://zh.wikipedia.org/wiki/你是我的小宇宙 "wikilink")
+    [能登山圭子](https://zh.wikipedia.org/wiki/能登山圭子 "wikilink")
 
 ## 發行數
 

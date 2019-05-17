@@ -1,15 +1,15 @@
 [2006JASGripen3JM.jpg](https://zh.wikipedia.org/wiki/File:2006JASGripen3JM.jpg "fig:2006JASGripen3JM.jpg")
 [JAS_39_pair_HuAF_Kecskemét_2007.JPG](https://zh.wikipedia.org/wiki/File:JAS_39_pair_HuAF_Kecskemét_2007.JPG "fig:JAS_39_pair_HuAF_Kecskemét_2007.JPG")
 [Saab_JAS-39_Gripen.jpg](https://zh.wikipedia.org/wiki/File:Saab_JAS-39_Gripen.jpg "fig:Saab_JAS-39_Gripen.jpg")
-**JAS 39“鹰狮”**（[瑞典语](../Page/瑞典语.md "wikilink")：**JAS 39
-Gripen**，[英文](../Page/英文.md "wikilink")：**JAS 39
-Griffin**或**Gryphon**，中文又譯**“狮鹫”**）是一款由瑞典[紳寶集團研制的](../Page/紳寶集團.md "wikilink")[第四代戰機](../Page/第四代戰機.md "wikilink")，JAS
+**JAS 39“鹰狮”**（[瑞典语](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")：**JAS
+39 Gripen**，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**JAS 39
+Griffin**或**Gryphon**，中文又譯**“狮鹫”**）是一款由瑞典[紳寶集團研制的](https://zh.wikipedia.org/wiki/紳寶集團 "wikilink")[第四代戰機](https://zh.wikipedia.org/wiki/第四代戰機 "wikilink")，JAS
 39具有多功能、高适应性特点，这关键在于先进科技与有效的人机工程相配合。轻巧而结实的結構（有1／4的複合材料），三角翼设计，人工强化与全天候線傳飛控的飞行操纵，包含后燃器的發動機RM12（GEF404），高性能的輕型的雷達及其它系统，都以适于飞行员操作的方式结合在一起。
 
-目前JAS-39已服役於[瑞典](../Page/瑞典.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[匈牙利等國空軍](../Page/匈牙利.md "wikilink")，並正於[南非空軍中成軍](../Page/南非.md "wikilink")。2007年10月，[泰國政府也決定採購JAS](../Page/泰國.md "wikilink")-39取代其服役中的[F-5自由鬥士戰鬥機](../Page/F-5自由鬥士戰鬥機.md "wikilink")。目前泰國國會也已批准首批六架JAS-39戰機訂單。
+目前JAS-39已服役於[瑞典](../Page/瑞典.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[匈牙利等國空軍](../Page/匈牙利.md "wikilink")，並正於[南非空軍中成軍](https://zh.wikipedia.org/wiki/南非 "wikilink")。2007年10月，[泰國政府也決定採購JAS](https://zh.wikipedia.org/wiki/泰國 "wikilink")-39取代其服役中的[F-5自由鬥士戰鬥機](https://zh.wikipedia.org/wiki/F-5自由鬥士戰鬥機 "wikilink")。目前泰國國會也已批准首批六架JAS-39戰機訂單。
 
 Gripen NG中的"NG"指Next Generation。2013年12月，巴西政府決定採購36架Gripen
-NG戰鬥機，同時參與競標的還有美國[F/A-18E/F戰機與與法國達梭的飆風戰機](../Page/F/A-18E/F.md "wikilink")[Rafale](../Page/Rafale.md "wikilink")。
+NG戰鬥機，同時參與競標的還有美國[F/A-18E/F戰機與與法國達梭的飆風戰機](https://zh.wikipedia.org/wiki/F/A-18E/F "wikilink")[Rafale](https://zh.wikipedia.org/wiki/Rafale "wikilink")。
 
 ## 概要
 
@@ -28,7 +28,7 @@ Viggen的氣動型式](../Page/SAAB_37战斗机.md "wikilink")，結構上廣泛
 
 可收放前三點式的主起落架爲單輪式，向前收入機艙；可轉向前起落架爲雙輪式，向後收入機身下部。機輪和輪胎有碳圓盤刹車及防滑裝置。採用帶有覆面層隔板的楔形進氣道。機身內裝自封式主油箱和集油油箱，採用燃油綜合管理系統控制。
 
-JAS-39採用座椅向後傾斜28°，類似美製[F-16](../Page/F-16.md "wikilink")，使駕駛員可承受更大G力。水滴狀座艙蓋及單片式曲面風擋玻璃。主要機載設備有PS-50/A多功能脈衝都卜勒雷達，具有目標搜索／截獲和地面檢視／攻擊能力。D80中央電腦系統，3條STD1553B數據匯流排，雷射慣性導航系統和雷達高度表，EP17座艙電子顯示系統，以及先進的電子反制系統等。EP17包括一台衍射光學[抬頭顯示器](../Page/抬頭顯示器.md "wikilink")、三台儀錶顯示器、一台FD5040錄像錄影機，以及少量備用常規儀錶組成。
+JAS-39採用座椅向後傾斜28°，類似美製[F-16](https://zh.wikipedia.org/wiki/F-16 "wikilink")，使駕駛員可承受更大G力。水滴狀座艙蓋及單片式曲面風擋玻璃。主要機載設備有PS-50/A多功能脈衝都卜勒雷達，具有目標搜索／截獲和地面檢視／攻擊能力。D80中央電腦系統，3條STD1553B數據匯流排，雷射慣性導航系統和雷達高度表，EP17座艙電子顯示系統，以及先進的電子反制系統等。EP17包括一台衍射光學[抬頭顯示器](../Page/抬頭顯示器.md "wikilink")、三台儀錶顯示器、一台FD5040錄像錄影機，以及少量備用常規儀錶組成。
 
 PS-05/A多工模式脈衝都卜勒雷達和前視紅外線設備莢艙組成了JAS-39的偵測系統。紅外線前視外掛莢艙掛在發動機右側進氣道下方，夜間和執行偵察任務時，通過駕駛艙右側地面顯示器上顯示目標熱視圖像。空戰時，探測系統負責目標搜索，在遠距離內跟踪數個目標，在近距離內廣角快速掃瞄及鎖定，控制飛彈和機炮射擊。對地攻擊時，該系統探測海面及地面上的目標，繪製高分辨率地圖，控制飛彈和其它攻擊武器的發射，同時規避障礙和導航。該脈衝都卜勒雷達的功能遠遠超過以往的瑞典戰鬥機雷達，而且體積只有以往型號的60％。
 
@@ -89,44 +89,44 @@ Sea Gripen:
 
 [Gripen_users.PNG](https://zh.wikipedia.org/wiki/File:Gripen_users.PNG "fig:Gripen_users.PNG")
 
-  - [瑞典空軍](../Page/瑞典空軍.md "wikilink")：訂購204架，28架雙座機，已有138架服役中。其中的28架（4架雙座機）將租賃給捷克空軍和匈牙利空軍。其餘的飛機仍分批運交中，已服役的飛機分批升級成E/F。
+  - [瑞典空軍](https://zh.wikipedia.org/wiki/瑞典空軍 "wikilink")：訂購204架，28架雙座機，已有138架服役中。其中的28架（4架雙座機）將租賃給捷克空軍和匈牙利空軍。其餘的飛機仍分批運交中，已服役的飛機分批升級成E/F。
 
-  - [捷克空軍](../Page/捷克空軍.md "wikilink")：租賃14架，2架雙座型，2005年8月完成交機。
+  - [捷克空軍](https://zh.wikipedia.org/wiki/捷克空軍 "wikilink")：租賃14架，2架雙座型，2005年8月完成交機。
 
-  - [匈牙利空軍](../Page/匈牙利空軍.md "wikilink")：租賃14架，2架雙座型。
+  - [匈牙利空軍](https://zh.wikipedia.org/wiki/匈牙利空軍 "wikilink")：租賃14架，2架雙座型。
 
-  - [南非空軍](../Page/南非空軍.md "wikilink")：訂購28架，9架雙座機，用於汰換美洲豹C/D戰鬥機。
+  - [南非空軍](https://zh.wikipedia.org/wiki/南非空軍 "wikilink")：訂購28架，9架雙座機，用於汰換美洲豹C/D戰鬥機。
 
-  - [英國](../Page/英國.md "wikilink")[帝國試飛員學校](../Page/帝國試飛員學校.md "wikilink")（Empire
+  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[帝國試飛員學校](https://zh.wikipedia.org/wiki/帝國試飛員學校 "wikilink")（Empire
     Test Pilots' School）。
 
-  - [泰國皇家空軍](../Page/泰國皇家空軍.md "wikilink")：至2013年4月止共12架JAS-39C/D。
+  - [泰國皇家空軍](https://zh.wikipedia.org/wiki/泰國皇家空軍 "wikilink")：至2013年4月止共12架JAS-39C/D。
 
-  - [巴西空軍](../Page/巴西空軍.md "wikilink")：巴西於2014年10月27日正式與SAAB簽署正式合同，購買36架鷹獅NG型戰機，價值45億美元。
+  - [巴西空軍](https://zh.wikipedia.org/wiki/巴西空軍 "wikilink")：巴西於2014年10月27日正式與SAAB簽署正式合同，購買36架鷹獅NG型戰機，價值45億美元。
 
 ### 過往出口案和採購意向
 
-  - [瑞士空军](../Page/瑞士空军.md "wikilink")：2011年11月，瑞士宣佈訂購22架JAS-39E/F，單價1.48億美元（包含研製費用分攤以及零部件、訓練和修護等費用）。但在2014年5月18日的瑞士公投中，約百分之五十三點四的瑞士公民反對瑞士購買新型戰機計劃，因此瑞士計劃遭否決。
+  - [瑞士空军](https://zh.wikipedia.org/wiki/瑞士空军 "wikilink")：2011年11月，瑞士宣佈訂購22架JAS-39E/F，單價1.48億美元（包含研製費用分攤以及零部件、訓練和修護等費用）。但在2014年5月18日的瑞士公投中，約百分之五十三點四的瑞士公民反對瑞士購買新型戰機計劃，因此瑞士計劃遭否決。
 
 <!-- end list -->
 
-  - [芬蘭空軍](../Page/芬蘭空軍.md "wikilink")：2015年10月20日，芬蘭國防部宣佈展開HX計劃，五年內揀選新一代[戰鬥機取代現役](../Page/戰鬥機.md "wikilink")60餘架[F/A-18C/D戰鬥攻擊機](../Page/F/A-18.md "wikilink")。
+  - [芬蘭空軍](https://zh.wikipedia.org/wiki/芬蘭空軍 "wikilink")：2015年10月20日，芬蘭國防部宣佈展開HX計劃，五年內揀選新一代[戰鬥機取代現役](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")60餘架[F/A-18C/D戰鬥攻擊機](https://zh.wikipedia.org/wiki/F/A-18 "wikilink")。
     \[3\]
-    國防部點名七款戰鬥機作初步評估，包括[陣風戰鬥機](../Page/陣風戰鬥機.md "wikilink")、[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")、[F-15鷹式戰鬥機](../Page/F-15鷹式戰鬥機.md "wikilink")、[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")、[F/A-18E/F超級大黃蜂](../Page/F/A-18E/F超級大黃蜂式打擊戰鬥機.md "wikilink")、[F-35閃電II戰鬥機及](../Page/F-35閃電II戰鬥機.md "wikilink")**JAS
+    國防部點名七款戰鬥機作初步評估，包括[陣風戰鬥機](../Page/陣風戰鬥機.md "wikilink")、[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")、[F-15鷹式戰鬥機](../Page/F-15鷹式戰鬥機.md "wikilink")、[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")、[F/A-18E/F超級大黃蜂](https://zh.wikipedia.org/wiki/F/A-18E/F超級大黃蜂式打擊戰鬥機 "wikilink")、[F-35閃電II戰鬥機及](../Page/F-35閃電II戰鬥機.md "wikilink")**JAS
     39獅鷲戰鬥機**。 當局預計2025年起汰除現役F-18C/D戰機，並於隨後15年內完成替換。\[4\]
 
 <!-- end list -->
 
-  - [塞爾維亞空防軍](../Page/塞爾維亞空防軍.md "wikilink")：塞爾維亞政府宣布有意從[F-16戰鬥機](../Page/F-16戰鬥機.md "wikilink")、[F-18戰鬥機](../Page/F-18戰鬥機.md "wikilink")、[疾風戰鬥機](../Page/疾風戰鬥機.md "wikilink")、[JAS
-    39戰鬥機](../Page/JAS_39戰鬥機.md "wikilink")、[颱風戰機](../Page/颱風戰機.md "wikilink")、[Su-30或](../Page/Su-30.md "wikilink")[MiG-29M中揀選一種並訂購](../Page/MiG-29.md "wikilink")12～16架戰機以替換老舊的[MiG-21和](../Page/MiG-21.md "wikilink")[MiG-29](../Page/MiG-29.md "wikilink")。\[5\]\[6\]
+  - [塞爾維亞空防軍](https://zh.wikipedia.org/wiki/塞爾維亞空防軍 "wikilink")：塞爾維亞政府宣布有意從[F-16戰鬥機](https://zh.wikipedia.org/wiki/F-16戰鬥機 "wikilink")、[F-18戰鬥機](https://zh.wikipedia.org/wiki/F-18戰鬥機 "wikilink")、[疾風戰鬥機](https://zh.wikipedia.org/wiki/疾風戰鬥機 "wikilink")、[JAS
+    39戰鬥機](https://zh.wikipedia.org/wiki/JAS_39戰鬥機 "wikilink")、[颱風戰機](https://zh.wikipedia.org/wiki/颱風戰機 "wikilink")、[Su-30或](https://zh.wikipedia.org/wiki/Su-30 "wikilink")[MiG-29M中揀選一種並訂購](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")12～16架戰機以替換老舊的[MiG-21和](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")[MiG-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")。\[5\]\[6\]
 
 ## 國際任務
 
-  - [北大西洋公約組織](../Page/北大西洋公約組織.md "wikilink")：捷克空軍派出JAS-39戰機往冰島，執行的北極圈監控巡邏任務。\[7\]
+  - [北大西洋公約組織](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")：捷克空軍派出JAS-39戰機往冰島，執行的北極圈監控巡邏任務。\[7\]
 
-  - [北大西洋公約組織](../Page/北大西洋公約組織.md "wikilink")：瑞典空軍派出JAS-39往利比亞執行代號[Operation
+  - [北大西洋公約組織](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")：瑞典空軍派出JAS-39往利比亞執行代號[Operation
     Unified
-    Protector的禁飛行動](../Page/Operation_Unified_Protector.md "wikilink")。\[8\]該行動獲聯合國安全理事會授權。\[9\]
+    Protector的禁飛行動](https://zh.wikipedia.org/wiki/Operation_Unified_Protector "wikilink")。\[8\]該行動獲聯合國安全理事會授權。\[9\]
 
 ## 技術規格（Gripen NG）
 
@@ -137,12 +137,12 @@ Sea Gripen:
 ### 一般規格
 
   - 乘員：1-2名
-  - [長度](../Page/長度.md "wikilink")：15.2米
-  - [翼展](../Page/翼展.md "wikilink")：8.6米
+  - [長度](https://zh.wikipedia.org/wiki/長度 "wikilink")：15.2米
+  - [翼展](https://zh.wikipedia.org/wiki/翼展 "wikilink")：8.6米
   - 空重：7,000公斤
   - 內部燃油量：3400公斤
-  - [最大起飛重量](../Page/最大起飛重量.md "wikilink")：16,500公斤
-  - [引擎](../Page/引擎.md "wikilink")：1具[奇異公司的](../Page/奇異.md "wikilink")[F414G渦輪扇發動機](../Page/F414G渦輪扇發動機.md "wikilink")
+  - [最大起飛重量](https://zh.wikipedia.org/wiki/最大起飛重量 "wikilink")：16,500公斤
+  - [引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")：1具[奇異公司的](https://zh.wikipedia.org/wiki/奇異 "wikilink")[F414G渦輪扇發動機](https://zh.wikipedia.org/wiki/F414G渦輪扇發動機 "wikilink")
 
 :\* 軍用推力：每具約57.8千牛頓
 
@@ -150,8 +150,8 @@ Sea Gripen:
 
 ### 性能
 
-  - 最高速度：2[馬赫](../Page/馬赫.md "wikilink")
-  - [巡航速度](../Page/巡航速度.md "wikilink")：1.2[馬赫](../Page/馬赫.md "wikilink")\[11\]
+  - 最高速度：2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")
+  - [巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：1.2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")\[11\]
 
 <!-- end list -->
 
@@ -160,10 +160,10 @@ Sea Gripen:
 
 <!-- end list -->
 
-  - [航程](../Page/航程.md "wikilink")：4,000公里
-  - [作戰半徑](../Page/作戰半徑.md "wikilink")：926公里（500海里）
-  - [極限](../Page/極限.md "wikilink")：+9G/-3G
-  - [推重比](../Page/推重比.md "wikilink")：0.9:1
+  - [航程](https://zh.wikipedia.org/wiki/航程 "wikilink")：4,000公里
+  - [作戰半徑](https://zh.wikipedia.org/wiki/作戰半徑 "wikilink")：926公里（500海里）
+  - [極限](https://zh.wikipedia.org/wiki/極限 "wikilink")：+9G/-3G
+  - [推重比](https://zh.wikipedia.org/wiki/推重比 "wikilink")：0.9:1
 
 ### 武器
 
@@ -186,35 +186,35 @@ Sea Gripen:
 
 ::\* [雲母飛彈](../Page/雲母飛彈.md "wikilink")
 
-::\* [流星飛彈](../Page/流星飛彈.md "wikilink")
+::\* [流星飛彈](https://zh.wikipedia.org/wiki/流星飛彈 "wikilink")
 
-:\* [空对地导弹](../Page/空对地导弹.md "wikilink")：
+:\* [空对地导弹](https://zh.wikipedia.org/wiki/空对地导弹 "wikilink")：
 
 ::\* [AGM-65小牛飛彈](../Page/AGM-65小牛飛彈.md "wikilink")
 
-::\* [金牛座飛彈](../Page/金牛座KEPD_350飛彈.md "wikilink")
+::\* [金牛座飛彈](https://zh.wikipedia.org/wiki/金牛座KEPD_350飛彈 "wikilink")
 
 ::\* KEPD350距外攻陸武器
 
-::\*[AGM-154聯合戰區外武器](../Page/AGM-154聯合戰區外武器.md "wikilink")
+::\*[AGM-154聯合戰區外武器](https://zh.wikipedia.org/wiki/AGM-154聯合戰區外武器 "wikilink")
 
 :\* [反艦飛彈](../Page/反艦飛彈.md "wikilink")：
 
-::\* [RBS-15飛彈](../Page/RBS-15飛彈.md "wikilink")
+::\* [RBS-15飛彈](https://zh.wikipedia.org/wiki/RBS-15飛彈 "wikilink")
 
 ## 類似機種
 
-  - [Yak-38戰鬥機](../Page/Yak-38戰鬥機.md "wikilink")
-  - [Yak-141](../Page/Yak-141.md "wikilink")
-  - [XFV-12](../Page/XFV-12.md "wikilink")
-  - [AV-8](../Page/AV-8.md "wikilink")
-  - [F-35](../Page/F-35.md "wikilink")
+  - [Yak-38戰鬥機](https://zh.wikipedia.org/wiki/Yak-38戰鬥機 "wikilink")
+  - [Yak-141](https://zh.wikipedia.org/wiki/Yak-141 "wikilink")
+  - [XFV-12](https://zh.wikipedia.org/wiki/XFV-12 "wikilink")
+  - [AV-8](https://zh.wikipedia.org/wiki/AV-8 "wikilink")
+  - [F-35](https://zh.wikipedia.org/wiki/F-35 "wikilink")
 
 ## 相關連結
 
-  - [法國](../Page/法國.md "wikilink")[疾風戰鬥機](../Page/陣風戰鬥機.md "wikilink")（Dassault
+  - [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[疾風戰鬥機](../Page/陣風戰鬥機.md "wikilink")（Dassault
     Rafale）
-  - [歐洲](../Page/歐洲.md "wikilink")[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")（Eurofighter
+  - [歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")（Eurofighter
     Typhoon）
 
 ## 外部連結

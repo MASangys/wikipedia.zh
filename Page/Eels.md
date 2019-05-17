@@ -1,5 +1,5 @@
 **Eels**（亦作 **eels** 或 **EELS**）是由[Mark Oliver
-Everett组建的美国摇滚乐队](../Page/Mark_Oliver_Everett.md "wikilink")，也名
+Everett组建的美国摇滚乐队](https://zh.wikipedia.org/wiki/Mark_Oliver_Everett "wikilink")，也名
 **A Man Called E**, **Mr. E**，或者简单地缩写为**E**.
 
 ## 专辑列表
@@ -53,6 +53,7 @@ Everett组建的美国摇滚乐队](../Page/Mark_Oliver_Everett.md "wikilink")�
 
   - [Rocking Eels](http://www.rockingeels.com/) - 歌迷網站
 
-[simple:Eels (band)](../Page/simple:Eels_\(band\).md "wikilink")
+[simple:Eels
+(band)](https://zh.wikipedia.org/wiki/simple:Eels_\(band\) "wikilink")
 
 [Category:美国摇滚乐团](https://zh.wikipedia.org/wiki/Category:美国摇滚乐团 "wikilink")

@@ -1,9 +1,9 @@
-**G.711**是一種由國際電信聯盟（[ITU-T](../Page/ITU-T.md "wikilink")）訂定音頻編碼方式，又稱為ITU-T
+**G.711**是一種由國際電信聯盟（[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")）訂定音頻編碼方式，又稱為ITU-T
 G.711。
 
 ## 形式
 
-G.711使用64Kbps的[帶寬](../Page/帶寬.md "wikilink")，可將14bits轉換成8bits。目前G.711有兩個編碼方式，A-law以及μ-law。2008年3月國際電信聯盟正式發布了最新的寬帶語音編解碼標準G.711.1。
+G.711使用64Kbps的[帶寬](https://zh.wikipedia.org/wiki/帶寬 "wikilink")，可將14bits轉換成8bits。目前G.711有兩個編碼方式，A-law以及μ-law。2008年3月國際電信聯盟正式發布了最新的寬帶語音編解碼標準G.711.1。
 
 ## G.711 A-Law
 
@@ -34,17 +34,17 @@ A-law 編碼是以 13-bit 帶符號的線性音效樣品輸入並轉換成 8 bit
 
 ## 參見
 
-  - [G.718](../Page/G.718.md "wikilink")
-  - [G.719](../Page/G.719.md "wikilink")
-  - [G.722](../Page/G.722.md "wikilink")
-  - [G.722.1](../Page/G.722.1.md "wikilink")
-  - [G.722.2](../Page/G.722.2.md "wikilink")
-  - [G.723](../Page/G.723.md "wikilink")
-  - [G.723.1](../Page/G.723.1.md "wikilink")
-  - [G.726](../Page/G.726.md "wikilink")
-  - [G.728](../Page/G.728.md "wikilink")
-  - [G.729](../Page/G.729.md "wikilink")
-  - [G.729a](../Page/G.729a.md "wikilink")
+  - [G.718](https://zh.wikipedia.org/wiki/G.718 "wikilink")
+  - [G.719](https://zh.wikipedia.org/wiki/G.719 "wikilink")
+  - [G.722](https://zh.wikipedia.org/wiki/G.722 "wikilink")
+  - [G.722.1](https://zh.wikipedia.org/wiki/G.722.1 "wikilink")
+  - [G.722.2](https://zh.wikipedia.org/wiki/G.722.2 "wikilink")
+  - [G.723](https://zh.wikipedia.org/wiki/G.723 "wikilink")
+  - [G.723.1](https://zh.wikipedia.org/wiki/G.723.1 "wikilink")
+  - [G.726](https://zh.wikipedia.org/wiki/G.726 "wikilink")
+  - [G.728](https://zh.wikipedia.org/wiki/G.728 "wikilink")
+  - [G.729](https://zh.wikipedia.org/wiki/G.729 "wikilink")
+  - [G.729a](https://zh.wikipedia.org/wiki/G.729a "wikilink")
   - [編解碼器列表](../Page/編解碼器列表.md "wikilink")
 
 ## 外部連結

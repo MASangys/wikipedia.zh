@@ -1,5 +1,5 @@
 《**real
-world**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](../Page/EXILE.md "wikilink")（放浪兄弟）的第15張[單曲](../Page/單曲.md "wikilink")。2004年6月30日於日本發行。Oricon最高排行第1、初動銷量7.7萬張、累計銷量12.6萬張
+world**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年6月30日於日本發行。Oricon最高排行第1、初動銷量7.7萬張、累計銷量12.6萬張
 
 ## 概要
 
@@ -7,7 +7,7 @@ world**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](../Page/E
 2004》的形象曲，第二首歌是SHUN為個人活動佈局的第1彈《[清木場俊介](../Page/清木場俊介.md "wikilink")》名義的歌曲《謝謝》。所以發行前評價很高，加上前作《Carry
 On/命運註定》廣受好評，因而獲得EXILE第一次的[Oricon公信榜單曲榜第](../Page/Oricon公信榜.md "wikilink")1名。但之後銷量並未延伸，累計停在約12萬張。
 
-2007年[波士頓紅襪隊的](../Page/波士頓紅襪.md "wikilink")[松坂大輔在](../Page/松坂大輔.md "wikilink")[美國聯盟的決賽最終戰先發上投手丘的時候使用的入場歌曲](../Page/美國聯盟.md "wikilink")。理由據說是因為歌詞不錯，《如果不拿出成果
+2007年[波士頓紅襪隊的](../Page/波士頓紅襪.md "wikilink")[松坂大輔在](../Page/松坂大輔.md "wikilink")[美國聯盟的決賽最終戰先發上投手丘的時候使用的入場歌曲](https://zh.wikipedia.org/wiki/美國聯盟 "wikilink")。理由據說是因為歌詞不錯，《如果不拿出成果
 那一切都將在這裡結束》這段歌詞相當符合自己的處境。
 
 松坂大輔特別演出2008年3月發售、收錄在精選專輯《[EXILE CATCHY
@@ -18,9 +18,11 @@ BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")》版本的PV。AKIRA說《因為
 ## 收錄歌曲
 
 1.  **real world**
-      - 作詞：[Kenn Kato](../Page/Kenn_Kato.md "wikilink") /
-        作曲：[山口寛雄](../Page/山口寛雄.md "wikilink") /
-        編曲：[原田憲](../Page/原田憲_\(ミュージシャン\).md "wikilink")
+      - 作詞：[Kenn
+        Kato](https://zh.wikipedia.org/wiki/Kenn_Kato "wikilink") /
+        作曲：[山口寛雄](https://zh.wikipedia.org/wiki/山口寛雄 "wikilink")
+        /
+        編曲：[原田憲](https://zh.wikipedia.org/wiki/原田憲_\(ミュージシャン\) "wikilink")
     <!-- end list -->
       -
         PV是以棒球為主題製作的，後來再次拍攝的PV還請[松坂大輔客串](../Page/松坂大輔.md "wikilink")。
@@ -34,7 +36,7 @@ BEST](../Page/EXILE_CATCHY_BEST.md "wikilink")》版本的PV。AKIRA說《因為
       - 作詞：Kenn Kato / 作曲：山口寛雄 / 編曲：YUKIYOSHI
     <!-- end list -->
       -
-        纯音樂。加入了日本音樂樂器樂隊[ZAN的演奏](../Page/ZAN.md "wikilink")。
+        纯音樂。加入了日本音樂樂器樂隊[ZAN的演奏](https://zh.wikipedia.org/wiki/ZAN "wikilink")。
 4.  **real world（Instrumental）**
 5.  **ありがとう（伴唱版）**
 

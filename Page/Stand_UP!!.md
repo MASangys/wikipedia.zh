@@ -1,7 +1,7 @@
 **Stand
-Up\!\!**（[日語](../Page/日語.md "wikilink")：****）是[日本](../Page/日本.md "wikilink")[TBS電視台的一部](../Page/TBS電視台.md "wikilink")[電視連續劇](../Page/日本電視劇.md "wikilink")，從2003年7月4日開始到2003年9月12日止播出，共11集。背景是描寫日本[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")[戶越的](../Page/戶越.md "wikilink")[高中生們的青春喜劇](../Page/高中生.md "wikilink")。
+Up\!\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[TBS電視台的一部](../Page/TBS電視台.md "wikilink")[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，從2003年7月4日開始到2003年9月12日止播出，共11集。背景是描寫日本[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")[戶越的](../Page/戶越.md "wikilink")[高中生們的青春喜劇](https://zh.wikipedia.org/wiki/高中生 "wikilink")。
 
-海外播出方面，[台灣分別由](../Page/台灣.md "wikilink")[TVBS-G與](../Page/TVBS歡樂台.md "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")，於2004年5月29日晚間7時及2008年2月19日晚間8時播出。2003年12月19日在日本發售『Stand
+海外播出方面，[台灣分別由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS-G與](../Page/TVBS歡樂台.md "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")，於2004年5月29日晚間7時及2008年2月19日晚間8時播出。2003年12月19日在日本發售『Stand
 Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ## 主要角色
@@ -52,7 +52,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ### DB4的家人
 
-  - **淺井京平**：[段田安則飾](../Page/段田安則.md "wikilink")
+  - **淺井京平**：[段田安則飾](https://zh.wikipedia.org/wiki/段田安則 "wikilink")
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **淺井倫子**：[片平渚飾](../Page/片平渚.md "wikilink")
+  - **淺井倫子**：[片平渚飾](https://zh.wikipedia.org/wiki/片平渚 "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **淺井百合子**：[西田尚美飾](../Page/西田尚美.md "wikilink")
+  - **淺井百合子**：[西田尚美飾](https://zh.wikipedia.org/wiki/西田尚美 "wikilink")
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **岩崎君子**：[杉田薰飾](../Page/杉田薰.md "wikilink")
+  - **岩崎君子**：[杉田薰飾](https://zh.wikipedia.org/wiki/杉田薰 "wikilink")
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **江波昌司**：[清水章吾飾](../Page/清水章吾.md "wikilink")
+  - **江波昌司**：[清水章吾飾](https://zh.wikipedia.org/wiki/清水章吾 "wikilink")
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **佐佐木留美子**：[加藤貴子飾](../Page/加藤貴子.md "wikilink")
+  - **佐佐木留美子**：[加藤貴子飾](https://zh.wikipedia.org/wiki/加藤貴子 "wikilink")
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 ### 高中同學
 
-  - **加賀艾蓮**：[Becky飾](../Page/Becky_\(日本藝人\).md "wikilink")
+  - **加賀艾蓮**：[Becky飾](https://zh.wikipedia.org/wiki/Becky_\(日本藝人\) "wikilink")
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **藤澤園子**：[上野なつひ飾](../Page/上野なつひ.md "wikilink")
+  - **藤澤園子**：[上野なつひ飾](https://zh.wikipedia.org/wiki/上野なつひ "wikilink")
 
 <!-- end list -->
 
@@ -151,8 +151,8 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **倉田美智子**：[邑野未亜](../Page/邑野未亜.md "wikilink")（現・[邑野みあ](../Page/邑野みあ.md "wikilink")）
-  - **齊藤輝美**：[水野はるか](../Page/水野はるか.md "wikilink")（現・[水野友加里](../Page/水野友加里.md "wikilink")）
+  - **倉田美智子**：[邑野未亜](https://zh.wikipedia.org/wiki/邑野未亜 "wikilink")（現・[邑野みあ](https://zh.wikipedia.org/wiki/邑野みあ "wikilink")）
+  - **齊藤輝美**：[水野はるか](https://zh.wikipedia.org/wiki/水野はるか "wikilink")（現・[水野友加里](https://zh.wikipedia.org/wiki/水野友加里 "wikilink")）
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **櫻井真紀子**：[AKINA飾](../Page/AKINA.md "wikilink")（Folder5）
+  - **櫻井真紀子**：[AKINA飾](https://zh.wikipedia.org/wiki/AKINA "wikilink")（Folder5）
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **濱野恭子**：[香子飾](../Page/香子.md "wikilink")（ちぇきな）
+  - **濱野恭子**：[香子飾](https://zh.wikipedia.org/wiki/香子 "wikilink")（ちぇきな）
 
 <!-- end list -->
 
@@ -188,7 +188,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **木田亜紀子**：[真琴飾](../Page/真琴.md "wikilink")（ちぇきな）
+  - **木田亜紀子**：[真琴飾](https://zh.wikipedia.org/wiki/真琴 "wikilink")（ちぇきな）
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **富永志保**：[松本莉緒飾](../Page/松本莉緒.md "wikilink")
+  - **富永志保**：[松本莉緒飾](https://zh.wikipedia.org/wiki/松本莉緒 "wikilink")
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - **水澤**：[郭智博飾](../Page/郭智博.md "wikilink")
+  - **水澤**：[郭智博飾](https://zh.wikipedia.org/wiki/郭智博 "wikilink")
 
 <!-- end list -->
 
@@ -234,7 +234,7 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 <!-- end list -->
 
   - **美由紀**：[水川麻美飾](../Page/水川麻美.md "wikilink")
-  - **シン**：[DAIGO飾](../Page/DAIGO.md "wikilink")
+  - **シン**：[DAIGO飾](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
 
 <!-- end list -->
 
@@ -243,20 +243,21 @@ Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。
 
 <!-- end list -->
 
-  - [丸岡槳詞](../Page/丸岡槳詞.md "wikilink")
-  - [清水恵美](../Page/清水恵美.md "wikilink")
-  - [おかやまはじめ](../Page/おかやまはじめ.md "wikilink")
-  - [勝又ユキ](../Page/勝又ユキ.md "wikilink")
+  - [丸岡槳詞](https://zh.wikipedia.org/wiki/丸岡槳詞 "wikilink")
+  - [清水恵美](https://zh.wikipedia.org/wiki/清水恵美 "wikilink")
+  - [おかやまはじめ](https://zh.wikipedia.org/wiki/おかやまはじめ "wikilink")
+  - [勝又ユキ](https://zh.wikipedia.org/wiki/勝又ユキ "wikilink")
   - [山本梓](../Page/山本梓.md "wikilink")
-  - [石川佳奈](../Page/石川佳奈.md "wikilink")
+  - [石川佳奈](https://zh.wikipedia.org/wiki/石川佳奈 "wikilink")
 
 ## 製作團隊
 
-  - 劇本：[金子亞里沙](../Page/金子亞里沙.md "wikilink")
-  - 製作人：[石丸彰彥](../Page/石丸彰彥.md "wikilink")
-  - 導演：[堤幸彥](../Page/堤幸彥.md "wikilink")、[加藤新](../Page/加藤新.md "wikilink")、[平川雄一朗](../Page/平川雄一朗.md "wikilink")
-  - 企画：[植田博樹](../Page/植田博樹.md "wikilink")
-  - 制作：[TBS ENTERTAINMENT](../Page/TBS電視.md "wikilink")
+  - 劇本：[金子亞里沙](https://zh.wikipedia.org/wiki/金子亞里沙 "wikilink")
+  - 製作人：[石丸彰彥](https://zh.wikipedia.org/wiki/石丸彰彥 "wikilink")
+  - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")、[加藤新](https://zh.wikipedia.org/wiki/加藤新 "wikilink")、[平川雄一朗](../Page/平川雄一朗.md "wikilink")
+  - 企画：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
+  - 制作：[TBS
+    ENTERTAINMENT](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")
   - 製作著作：TBS
 
 ## 主題曲

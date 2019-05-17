@@ -1,13 +1,13 @@
 [位於銅鑼灣皇室堡的Freshness_Burger分店.JPG](https://zh.wikipedia.org/wiki/File:位於銅鑼灣皇室堡的Freshness_Burger分店.JPG "fig:位於銅鑼灣皇室堡的Freshness_Burger分店.JPG")
 
 **鮮堡**，英文名：**Freshness
-Burger**，是一家[日本](../Page/日本.md "wikilink")[快餐](../Page/快餐.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")，於1992年成立。它主要售賣[漢堡包](../Page/漢堡包.md "wikilink")，也售賣[三文治](../Page/三文治.md "wikilink")、[沙律及](../Page/沙律.md "wikilink")[咖啡飲料](../Page/咖啡.md "wikilink")。
+Burger**，是一家[日本](../Page/日本.md "wikilink")[快餐](../Page/快餐.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")，於1992年成立。它主要售賣[漢堡包](../Page/漢堡包.md "wikilink")，也售賣[三文治](https://zh.wikipedia.org/wiki/三文治 "wikilink")、[沙律及](../Page/沙律.md "wikilink")[咖啡飲料](../Page/咖啡.md "wikilink")。
 
-它也在[新加玻](../Page/新加玻.md "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[南韓及](../Page/南韓.md "wikilink")[日本擁有](../Page/日本.md "wikilink")177家分店。分店擴張以[特許經營權方式](../Page/特許經營權.md "wikilink")。
+它也在[新加玻](https://zh.wikipedia.org/wiki/新加玻 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[南韓及](https://zh.wikipedia.org/wiki/南韓 "wikilink")[日本擁有](../Page/日本.md "wikilink")177家分店。分店擴張以[特許經營權方式](https://zh.wikipedia.org/wiki/特許經營權 "wikilink")。
 
 2007年正式登陸香港，現時分店包括：有分並先後在以下地方開設分店：
 
-  - [旺角](../Page/旺角.md "wikilink")[新世紀廣場](../Page/新世紀廣場.md "wikilink")
+  - [旺角](../Page/旺角.md "wikilink")[新世紀廣場](https://zh.wikipedia.org/wiki/新世紀廣場 "wikilink")
 
 亦曾於香港以下地方開設分店，但現已結業：
 
@@ -17,16 +17,16 @@ Burger**，是一家[日本](../Page/日本.md "wikilink")[快餐](../Page/快�
   - [銅鑼灣](../Page/銅鑼灣.md "wikilink")[皇室堡](../Page/皇室堡.md "wikilink")
   - [半山區般咸道近](../Page/半山區.md "wikilink")[聖保羅書院](../Page/聖保羅書院.md "wikilink")/[香港大學](../Page/香港大學.md "wikilink")
   - [荃灣遠東帝豪大廈](../Page/荃灣.md "wikilink")
-  - [沙田](../Page/沙田.md "wikilink")[連城廣場](../Page/連城廣場.md "wikilink")
+  - [沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[連城廣場](https://zh.wikipedia.org/wiki/連城廣場 "wikilink")
 
 2009年正式登陸[澳門](../Page/澳門.md "wikilink")
 
 ## 同類競爭對手
 
   - [摩斯漢堡](../Page/摩斯漢堡.md "wikilink")
-  - [麥當勞](../Page/麥當勞.md "wikilink")
+  - [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
   - [漢堡王](../Page/漢堡王.md "wikilink")
-  - [温娣漢堡](../Page/温娣漢堡.md "wikilink")
+  - [温娣漢堡](https://zh.wikipedia.org/wiki/温娣漢堡 "wikilink")
 
 ## 外部連結
 

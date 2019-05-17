@@ -1,5 +1,5 @@
 《**-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-**》是以漫畫《[BLEACH](../Page/BLEACH.md "wikilink")》為原作，[Studio
-Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台聯播網播放](../Page/東京電視台.md "wikilink")。台灣[八大綜合台自](../Page/八大綜合台.md "wikilink")2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](../Page/中視數位台.md "wikilink")2012年4月30日、[衛視電影台自](../Page/衛視電影台.md "wikilink")2012年8月20日播放。香港[J2電視台自](../Page/J2.md "wikilink")2008年4月30日、Animax自2010年1月4日播放。
+Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台聯播網播放](../Page/東京電視台.md "wikilink")。台灣[八大綜合台自](../Page/八大綜合台.md "wikilink")2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台自](../Page/衛視電影台.md "wikilink")2012年8月20日播放。香港[J2電視台自](../Page/J2.md "wikilink")2008年4月30日、Animax自2010年1月4日播放。
 
 ## 概要
 
@@ -17,7 +17,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 
 ## 製作人員
 
-  - 原作：[久保帶人](../Page/久保帶人.md "wikilink")（集英社「週刊少年Jump」連載）
+  - 原作：[久保帶人](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")（集英社「週刊少年Jump」連載）
   - 製作人：小林教子→青木俊志→奈良初男（東京電視台）、杉山豐→吉村行夫→溝淵絢→長井舞（電通）、萩野賢（Studio Pierrot）
   - 系列構成：十川诚志→木田刚→下山健人
   - 人物設定：工藤昌史
@@ -31,7 +31,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
   - 音樂製作人：木村唯人→谷澤嘉信、大山良→佐藤成俊
   - 音樂製作：[Aniplex](../Page/Aniplex.md "wikilink")
   - 監督：[阿部記之](../Page/阿部記之.md "wikilink")
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](../Page/電通.md "wikilink")、[Studio
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")
 
 ## 主題曲
@@ -122,7 +122,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <dd>作詞：Skoop On Somebody、小林夏海，作曲：Skoop On Somebody，編曲：Skoop On Somebody、spamKASUGAI，
 </dd>
 </dl>
-<p>歌：<a href="../Page/Skoop_On_Somebody.md" title="wikilink">Skoop On Somebody</a></p>
+<p>歌：<a href="https://zh.wikipedia.org/wiki/Skoop_On_Somebody" title="wikilink">Skoop On Somebody</a></p>
 </div></td>
 <td><div style="text-align: center;">
 <p>（第39話 - 第51話）</p>
@@ -134,7 +134,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong><a href="../Page/LIFE_(YUI單曲).md" title="wikilink">LIFE</a></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：YUI，編曲：northa+，歌：<a href="../Page/YUI_(藝人).md" title="wikilink">YUI</a>
+<dd>作詞、作曲：YUI，編曲：northa+，歌：<a href="https://zh.wikipedia.org/wiki/YUI_(藝人)" title="wikilink">YUI</a>
 </div>
 </dd>
 </dl></td>
@@ -148,7 +148,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：石田順三，編曲：坂本昌之、SunSet Swish，歌：<a href="../Page/SunSet_Swish.md" title="wikilink">SunSet Swish</a>
+<dd>作詞、作曲：石田順三，編曲：坂本昌之、SunSet Swish，歌：<a href="https://zh.wikipedia.org/wiki/SunSet_Swish" title="wikilink">SunSet Swish</a>
 </div>
 </dd>
 </dl></td>
@@ -188,7 +188,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong>Baby It's You</strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：立田野純，作曲：，編曲：OCTOPUSSY，歌：<a href="../Page/JUNE_(歌手).md" title="wikilink">JUNE</a>
+<dd>作詞：立田野純，作曲：，編曲：OCTOPUSSY，歌：<a href="https://zh.wikipedia.org/wiki/JUNE_(歌手)" title="wikilink">JUNE</a>
 </div>
 </dd>
 </dl></td>
@@ -202,7 +202,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：星村麻衣，編曲：Falsetto de Es，歌：<a href="../Page/星村麻衣.md" title="wikilink">星村麻衣</a>
+<dd>作詞、作曲：星村麻衣，編曲：Falsetto de Es，歌：<a href="https://zh.wikipedia.org/wiki/星村麻衣" title="wikilink">星村麻衣</a>
 </div>
 </dd>
 </dl></td>
@@ -216,7 +216,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：，作曲：，編曲、歌：<a href="../Page/オレスカバンド.md" title="wikilink">オレスカバンド</a>
+<dd>作詞：，作曲：，編曲、歌：<a href="https://zh.wikipedia.org/wiki/オレスカバンド" title="wikilink">オレスカバンド</a>
 </div>
 </dd>
 </dl></td>
@@ -230,7 +230,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：橋本繪莉子，編曲、歌：<a href="../Page/chatmonchy.md" title="wikilink">chatmonchy</a>
+<dd>作詞、作曲：橋本繪莉子，編曲、歌：<a href="https://zh.wikipedia.org/wiki/chatmonchy" title="wikilink">chatmonchy</a>
 </div>
 </dd>
 </dl></td>
@@ -258,7 +258,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：RSP、Adam、Akira，作曲：DJ TAKI-SHIT、Adam、Akira，歌：<a href="../Page/RSP_(樂團).md" title="wikilink">RSP</a>
+<dd>作詞：RSP、Adam、Akira，作曲：DJ TAKI-SHIT、Adam、Akira，歌：<a href="https://zh.wikipedia.org/wiki/RSP_(樂團)" title="wikilink">RSP</a>
 </div>
 </dd>
 </dl></td>
@@ -272,7 +272,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：MIE、AILA，作曲、編曲：黑光雄輝，歌：<a href="../Page/Lil&#39;B.md" title="wikilink">Lil'B</a>
+<dd>作詞：MIE、AILA，作曲、編曲：黑光雄輝，歌：<a href="https://zh.wikipedia.org/wiki/Lil&#39;B" title="wikilink">Lil'B</a>
 </div>
 </dd>
 </dl></td>
@@ -286,7 +286,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：suzumoku，作曲：Ohyama"B.M.W"Wataru，歌：<a href="../Page/PE&#39;Z.md" title="wikilink">pe'zmoku</a>
+<dd>作詞：suzumoku，作曲：Ohyama"B.M.W"Wataru，歌：<a href="https://zh.wikipedia.org/wiki/PE&#39;Z" title="wikilink">pe'zmoku</a>
 </div>
 </dd>
 </dl></td>
@@ -300,7 +300,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：AIMI，編曲、歌：<a href="../Page/stereopony.md" title="wikilink">stereopony</a>
+<dd>作詞、作曲：AIMI，編曲、歌：<a href="https://zh.wikipedia.org/wiki/stereopony" title="wikilink">stereopony</a>
 </div>
 </dd>
 </dl></td>
@@ -314,7 +314,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：辻詩音，編曲：mw，歌：<a href="../Page/辻詩音.md" title="wikilink">辻詩音</a>
+<dd>作詞、作曲：辻詩音，編曲：mw，歌：<a href="https://zh.wikipedia.org/wiki/辻詩音" title="wikilink">辻詩音</a>
 </div>
 </dd>
 </dl></td>
@@ -328,7 +328,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：山口隆，編曲、歌：<a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a>
+<dd>作詞、作曲：山口隆，編曲、歌：<a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a>
 </div>
 </dd>
 </dl></td>
@@ -342,7 +342,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲、編曲、歌：<a href="../Page/淺井健一.md" title="wikilink">淺井健一</a>
+<dd>作詞、作曲、編曲、歌：<a href="https://zh.wikipedia.org/wiki/淺井健一" title="wikilink">淺井健一</a>
 </div>
 </dd>
 </dl></td>
@@ -356,7 +356,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：石田順三，編曲：坂本昌之，歌：<a href="../Page/SunSet_Swish(SMEレコーズ).md" title="wikilink">SunSet Swish(SMEレコーズ)</a>
+<dd>作詞、作曲：石田順三，編曲：坂本昌之，歌：<a href="https://zh.wikipedia.org/wiki/SunSet_Swish(SMEレコーズ)" title="wikilink">SunSet Swish(SMEレコーズ)</a>
 </div>
 </dd>
 </dl></td>
@@ -370,7 +370,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：kanako kato/RSP，作曲、編曲：Jeff Miyahara，歌：<a href="../Page/RSP_(樂團).md" title="wikilink">RSP</a>
+<dd>作詞：kanako kato/RSP，作曲、編曲：Jeff Miyahara，歌：<a href="https://zh.wikipedia.org/wiki/RSP_(樂團)" title="wikilink">RSP</a>
 </div>
 </dd>
 </dl></td>
@@ -384,7 +384,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong>STAY BEAUTIFUL</strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：Diggy－MO'，作曲、編曲：Diggy－MO',JUNKOO，歌：<a href="../Page/Diggy－MO&#39;.md" title="wikilink">Diggy－MO'</a>
+<dd>作詞：Diggy－MO'，作曲、編曲：Diggy－MO',JUNKOO，歌：<a href="https://zh.wikipedia.org/wiki/Diggy－MO&#39;" title="wikilink">Diggy－MO'</a>
 </div>
 </dd>
 </dl></td>
@@ -440,7 +440,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong>アオイ卜リ</strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：田中秀典, 大西省吾，作曲：大西省吾，編曲：玉井健二, 釣俊輔，歌：<a href="../Page/fumika.md" title="wikilink">fumika</a>
+<dd>作詞：田中秀典, 大西省吾，作曲：大西省吾，編曲：玉井健二, 釣俊輔，歌：<a href="https://zh.wikipedia.org/wiki/fumika" title="wikilink">fumika</a>
 </div>
 </dd>
 </dl></td>
@@ -454,7 +454,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong>ハルカカナタ</strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞：郡島陽子，作曲：清水葉子，編曲：UNLIMITS，歌：<a href="../Page/UNLIMITS.md" title="wikilink">UNLIMITS</a>
+<dd>作詞：郡島陽子，作曲：清水葉子，編曲：UNLIMITS，歌：<a href="https://zh.wikipedia.org/wiki/UNLIMITS" title="wikilink">UNLIMITS</a>
 </div>
 </dd>
 </dl></td>
@@ -522,11 +522,11 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
   - **[BLEACH
     漂靈：劇場版－別處的記憶](../Page/BLEACH_漂靈：劇場版－別處的記憶.md "wikilink")**（2006年）
   - **[BLEACH
-    漂靈：劇場版－鑽石星塵的反叛](../Page/BLEACH_漂靈：劇場版－鑽石星塵的反叛.md "wikilink")**〔****〕（2007年）
+    漂靈：劇場版－鑽石星塵的反叛](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－鑽石星塵的反叛 "wikilink")**〔****〕（2007年）
   - **[BLEACH
-    漂靈：劇場版－呼喚你的名字](../Page/BLEACH_漂靈：劇場版－呼喚你的名字.md "wikilink")**〔****〕（2008年）
+    漂靈：劇場版－呼喚你的名字](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－呼喚你的名字 "wikilink")**〔****〕（2008年）
   - **[BLEACH
-    漂靈：劇場版－地獄篇](../Page/BLEACH_漂靈：劇場版－地獄篇.md "wikilink")**（2010年）
+    漂靈：劇場版－地獄篇](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－地獄篇 "wikilink")**（2010年）
 
 ## 參考資料
 

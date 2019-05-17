@@ -1,8 +1,8 @@
-**FREEDOM-PROJECT**（自由計劃）是[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與漫畫家](../Page/杯麵.md "wikilink")[大友克洋合作的宣傳計劃](../Page/大友克洋.md "wikilink")，主要製作電視廣告、OVA及輕小說等。
+**FREEDOM-PROJECT**（自由計劃）是[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與漫畫家](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋合作的宣傳計劃](../Page/大友克洋.md "wikilink")，主要製作電視廣告、OVA及輕小說等。
 
 ## 概要
 
-本計劃的世界舞台是以[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與](../Page/杯麵.md "wikilink")[大友克洋的](../Page/大友克洋.md "wikilink")「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
+本計劃的世界舞台是以[日清食品的](../Page/日清食品.md "wikilink")[合味道](../Page/合味道.md "wikilink")[杯麵與](https://zh.wikipedia.org/wiki/杯麵 "wikilink")[大友克洋的](../Page/大友克洋.md "wikilink")「FREEDOM：自由」為主題，拍攝全10支的廣告系列，並製作全6集+1集後續篇的OVA動畫。動畫會先在Yahoo\!動畫上作網上播放，其後會以標題「**FREEDOM**」作DVD發售。。
 
   - 口號：「FREEDOM 抓緊自由。」
   - 動畫制作：[日昇動畫](../Page/日昇動畫.md "wikilink")
@@ -29,19 +29,19 @@
   - 比斯：[山口勝平](../Page/山口勝平.md "wikilink")
     身高160cm　15歳
     本名為比斯馬爾克，是武和和馬的好友，性格羞怯。雖說操控「Vehicle」不太好，但在機械上他是一位專家。
-  - Junk屋的大叔：[松本大](../Page/松本大.md "wikilink")
+  - Junk屋的大叔：[松本大](https://zh.wikipedia.org/wiki/松本大 "wikilink")
     Vehicle專門店「Moonraker」的老闆，免費借車庫給武他們的一位大叔。
-  - 泰那：[桐本琢也](../Page/桐本琢也.md "wikilink")
+  - 泰那：[桐本琢也](https://zh.wikipedia.org/wiki/桐本琢也 "wikilink")
     身長171cm　15歳
     帶領纏繞著武的Vehicle隊伍「Moon shine」的隊長。確信地球已經滅亡，常侮辱武。
-  - 亞蘭：[加藤精三](../Page/加藤精三.md "wikilink")
+  - 亞蘭：[加藤精三](https://zh.wikipedia.org/wiki/加藤精三 "wikilink")
     負責伊甸計劃DOM區的管理者，是一位知識淵博的老人。他對伊甸內部情況相當了解，亦協助武他們前往地球。
   - 相片中的少女：[小林沙苗](../Page/小林沙苗.md "wikilink")
-    武在做義工時拾到的照片中的少女，照片中像是地球「[佛羅里達](../Page/佛羅里達.md "wikilink")」的地方。武對這位少女一見鍾情，決定要以前往地球遇見她為目標。
+    武在做義工時拾到的照片中的少女，照片中像是地球「[佛羅里達](https://zh.wikipedia.org/wiki/佛羅里達 "wikilink")」的地方。武對這位少女一見鍾情，決定要以前往地球遇見她為目標。
 
 ## 伊甸（EDEN）的歷史
 
-  - 1969年 [阿波羅11號登陸月球](../Page/阿波羅11號.md "wikilink")。
+  - 1969年 [阿波羅11號登陸月球](https://zh.wikipedia.org/wiki/阿波羅11號 "wikilink")。
   - 2035年 FREEDOM project開始。
   - 2041年 宇宙Station FREEPORT完成。月面都市『FREEWAY』開始建造。
   - 2048年 FIRSTBASE完成。
@@ -95,7 +95,7 @@
 
   - 企劃・原案：高松聰
   - 監督：森田修平
-  - 系列構成：[佐藤大](../Page/佐藤大_\(編劇\).md "wikilink")・[千葉克彥](../Page/千葉克彥.md "wikilink")
+  - 系列構成：[佐藤大](https://zh.wikipedia.org/wiki/佐藤大_\(編劇\) "wikilink")・[千葉克彥](https://zh.wikipedia.org/wiki/千葉克彥 "wikilink")
   - 人物及機械設計：[大友克洋](../Page/大友克洋.md "wikilink")
   - 人物設計：桟敷大祐・入江篤
   - 機械設計：末武康光

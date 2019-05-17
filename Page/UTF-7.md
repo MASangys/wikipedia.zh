@@ -1,8 +1,8 @@
-**UTF-7**（全称：7位元Unicode轉換格式）是一種可變長度字元編碼方式，用以將[Unicode字元以](../Page/Unicode.md "wikilink")[ASCII編碼的字元串來呈現](../Page/ASCII.md "wikilink")，可以應用在[電子郵件傳輸之類的應用](../Page/電子郵件.md "wikilink")。
+**UTF-7**（全称：7位元Unicode轉換格式）是一種可變長度字元編碼方式，用以將[Unicode字元以](https://zh.wikipedia.org/wiki/Unicode "wikilink")[ASCII編碼的字元串來呈現](../Page/ASCII.md "wikilink")，可以應用在[電子郵件傳輸之類的應用](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。
 
-[SMTP為基本的](../Page/SMTP.md "wikilink")[電子郵件傳輸標準之一](../Page/電子郵件.md "wikilink")，其指明了傳輸格式為[US-ASCII](../Page/ASCII.md "wikilink")，並且不允許超過ASCII所定義的字元範圍以外的位元值，也就是說八位元的字串將無法正常的被傳輸。[MIME](../Page/MIME.md "wikilink")（RFC
+[SMTP為基本的](https://zh.wikipedia.org/wiki/SMTP "wikilink")[電子郵件傳輸標準之一](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")，其指明了傳輸格式為[US-ASCII](../Page/ASCII.md "wikilink")，並且不允許超過ASCII所定義的字元範圍以外的位元值，也就是說八位元的字串將無法正常的被傳輸。[MIME](https://zh.wikipedia.org/wiki/MIME "wikilink")（RFC
 2045 \~
-2049）擴展了網路郵件以支援不同的[媒體類型以及](../Page/媒體.md "wikilink")[字元集](../Page/字元集.md "wikilink")，包含[UTF-8與](../Page/UTF-8.md "wikilink")[UTF-16的字元集皆可被指定使用](../Page/UTF-16.md "wikilink")。但由於MIME並未明確將Unicode定義為可支援的字元集，並且也沒有說明其應如何編碼，這使得既有的SMTP傳輸架構下仍舊無法保證可正確的處理8位元資料。[base64編碼也有其問題](../Page/base64.md "wikilink")，例如甚至連純英文的[US-ASCII字元也可能會變成不可辨認](../Page/ASCII.md "wikilink")；至於像是UTF-8與[quoted-printable的編碼結合](../Page/quoted-printable.md "wikilink")，則需要6～9個位元來為非ASCII的字元（Unicode的[基本多文種平面中定義的字元](../Page/基本多文種平面.md "wikilink")）進行編碼，至於在基本多文種平面（BMP）以外的字原則需要多達12位元的長度才能完成編碼
+2049）擴展了網路郵件以支援不同的[媒體類型以及](https://zh.wikipedia.org/wiki/媒體 "wikilink")[字元集](https://zh.wikipedia.org/wiki/字元集 "wikilink")，包含[UTF-8與](../Page/UTF-8.md "wikilink")[UTF-16的字元集皆可被指定使用](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。但由於MIME並未明確將Unicode定義為可支援的字元集，並且也沒有說明其應如何編碼，這使得既有的SMTP傳輸架構下仍舊無法保證可正確的處理8位元資料。[base64編碼也有其問題](https://zh.wikipedia.org/wiki/base64 "wikilink")，例如甚至連純英文的[US-ASCII字元也可能會變成不可辨認](../Page/ASCII.md "wikilink")；至於像是UTF-8與[quoted-printable的編碼結合](https://zh.wikipedia.org/wiki/quoted-printable "wikilink")，則需要6～9個位元來為非ASCII的字元（Unicode的[基本多文種平面中定義的字元](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")）進行編碼，至於在基本多文種平面（BMP）以外的字原則需要多達12位元的長度才能完成編碼
 
 ## 簡介
 
@@ -27,13 +27,13 @@ characters」的使用雖可減少空間的使用也可增加人的可閱讀性�
 
 空白字元、Tab字元、以及換行字元一般雖也可直接是為單一的ASCII字元來使用，然而，若是郵件中有使用了編碼過的字串，則必須特別注意這些字元有無被使用在其他地方。而加號字元`+`的一種編碼方式*可以*是`+-`。
 
-其他的字元則必須被編碼成UTF-16然後轉換為[修改的Base64](../Page/Base64#UTF-7.md "wikilink")。這些區塊的開頭會以`+`符號來標示，結尾則以任何不在Base64裡定義的字元來標示。若是在Base64區塊之後使用`-`([連字暨減號](../Page/連字暨減號.md "wikilink"))標示為結束的話，則解碼器會從下個字元繼續解碼，反之則用此字元當非Base64的區塊的開頭繼續解碼。
+其他的字元則必須被編碼成UTF-16然後轉換為[修改的Base64](https://zh.wikipedia.org/wiki/Base64#UTF-7 "wikilink")。這些區塊的開頭會以`+`符號來標示，結尾則以任何不在Base64裡定義的字元來標示。若是在Base64區塊之後使用`-`([連字暨減號](https://zh.wikipedia.org/wiki/連字暨減號 "wikilink"))標示為結束的話，則解碼器會從下個字元繼續解碼，反之則用此字元當非Base64的區塊的開頭繼續解碼。
 
 ## 範例
 
   - "`Hello, World!`"會被編碼為"`Hello, World!`"
   - "`1 + 1 = 2`"會被編碼為"`1 +- 1 +AD0 2`"
-  - "`£1`"會被編碼為"`+AKM-1`".第一個字元£（英鎊的符號）的Unicode碼為U+00A3（在UTF-16即為`00A3`<sub>16</sub>），接著轉換至[修改的Base64格式](../Page/Base64#UTF-7.md "wikilink")，如同下表。表中可見有兩個位元多了出來，被以0填補上。
+  - "`£1`"會被編碼為"`+AKM-1`".第一個字元£（英鎊的符號）的Unicode碼為U+00A3（在UTF-16即為`00A3`<sub>16</sub>），接著轉換至[修改的Base64格式](https://zh.wikipedia.org/wiki/Base64#UTF-7 "wikilink")，如同下表。表中可見有兩個位元多了出來，被以0填補上。
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ UTF-7由於允許將相同來源的字串從base64的模式被平移，而顯得
 
 有些可應用於電信電報領域的UTF-6和UTF-5提案已經被提出\[2\]\[3\]，然而，截至2006年止，這些提案尚未被正式的制定出來。
 
-這些提案與[Punycode並無相關](../Page/Punycode.md "wikilink")。
+這些提案與[Punycode並無相關](https://zh.wikipedia.org/wiki/Punycode "wikilink")。
 
 ## 參考
 

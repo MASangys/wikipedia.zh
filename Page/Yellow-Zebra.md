@@ -1,10 +1,10 @@
-**Yellow-Zebra**（）是設立於[福岡的一個](../Page/福岡.md "wikilink")[日本個人](../Page/日本.md "wikilink")[同人組織](../Page/同人組織.md "wikilink")。
+**Yellow-Zebra**（）是設立於[福岡的一個](https://zh.wikipedia.org/wiki/福岡 "wikilink")[日本個人](../Page/日本.md "wikilink")[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。
 
 ## 概要
 
-組織主要由**芳葉**（，）及**らんてぃ**（）兩名男性營運，主要以製作[同人](../Page/同人.md "wikilink")[音樂專輯及](../Page/音樂專輯.md "wikilink")[廣播劇CD為主](../Page/廣播劇.md "wikilink")。在2007年，Yellow-Zebra因推出[漫才廣播劇](../Page/漫才.md "wikilink")『第2回東方M-1漫才大獎賽』（）而一舉成為知名的同人組織之一。
+組織主要由**芳葉**（，）及**らんてぃ**（）兩名男性營運，主要以製作[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[音樂專輯及](../Page/音樂專輯.md "wikilink")[廣播劇CD為主](../Page/廣播劇.md "wikilink")。在2007年，Yellow-Zebra因推出[漫才廣播劇](../Page/漫才.md "wikilink")『第2回東方M-1漫才大獎賽』（）而一舉成為知名的同人組織之一。
 
-音樂專輯主要是收錄一些由[東方Project的](../Page/東方Project.md "wikilink")[背景音樂改編](../Page/背景音樂.md "wikilink")，再由歌手演唱的歌曲，另外還會收錄製作員之間的對談內容。
+音樂專輯主要是收錄一些由[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[背景音樂改編](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")，再由歌手演唱的歌曲，另外還會收錄製作員之間的對談內容。
 
 2009年6月16日，Yellow Zebra宣佈姐妹組織「False\&Trues」建成\[1\]。這組織主要擔當電子風歌曲的製作。
 
@@ -33,7 +33,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    5月20日－在第4回[博麗神社例大祭發佈漫才廣播劇CD](../Page/東方Project#博麗神社例大祭.md "wikilink")『東方M-1漫才大獎賽』。
+    5月20日－在第4回[博麗神社例大祭發佈漫才廣播劇CD](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")『東方M-1漫才大獎賽』。
     12月31日－在C73發佈『第2回東方M-1漫才大獎賽』。
 
 <!-- end list -->
@@ -52,7 +52,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    2月18日－宣佈協助[世嘉於](../Page/世嘉.md "wikilink")3月5日推出的遊戲『[第七龙神](../Page/第七龙神.md "wikilink")』的宣傳活動\[3\]。
+    2月18日－宣佈協助[世嘉於](../Page/世嘉.md "wikilink")3月5日推出的遊戲『[第七龙神](https://zh.wikipedia.org/wiki/第七龙神 "wikilink")』的宣傳活動\[3\]。
     6月16日－宣佈建立新的姊妹組織「False\&Trues」\[4\]。
 
 ## 主要作品一覽
@@ -70,7 +70,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
     Blood〜](http://www.yellow-zebra.com/cd/yzcd0007.php)（Comic1☆2）
   - [東方絢彩歌 ～Touch of
     Air～](http://www.yellow-zebra.com/cd/yzcd0008.php)（例大祭5）
-  - [東方ASSOCIATION](https://archive.is/20130428162354/http://sp.yellow-zebra.com/yzsp0001.html)（例大祭5，與另一同人組織[電開製作所合作](../Page/電開製作所.md "wikilink")）
+  - [東方ASSOCIATION](https://archive.is/20130428162354/http://sp.yellow-zebra.com/yzsp0001.html)（例大祭5，與另一同人組織[電開製作所合作](https://zh.wikipedia.org/wiki/電開製作所 "wikilink")）
   - [SENSEASONS](http://www.yellow-zebra.com/cd/yzcd0009.php)（C74）
   - [東方輪衝歌 ～Moment of
     Impulse～](http://www.yellow-zebra.com/cd/yzcd0010.php)（C75）
@@ -81,10 +81,10 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
   - [いえろ～ぜぶら　あーかいぶ](http://www.yellow-zebra.com/cd/yzex0001.php)（C77）
   - [東方星聖歌 ～Decision of
     Purpose～](http://www.yellow-zebra.com/cd/yzcd0013.php)（例大祭7）
-  - [東方ESCALATION](https://archive.is/20130428164421/http://sp.yellow-zebra.com/yzsp0002.html)（例大祭7，與另一同人組織[有限会社るざりん合作](../Page/有限会社るざりん.md "wikilink")）
+  - [東方ESCALATION](https://archive.is/20130428164421/http://sp.yellow-zebra.com/yzsp0002.html)（例大祭7，與另一同人組織[有限会社るざりん合作](https://zh.wikipedia.org/wiki/有限会社るざりん "wikilink")）
   - [東方愁爽歌 ～Landing of
     Truth～](http://www.yellow-zebra.com/cd/yzcd0014.php)（C78）
-  - [東方TRITONATION](https://web.archive.org/web/20080820074509/http://sp.yellow-zebra.com/)（C78，與[有限会社るざりん合作](../Page/有限会社るざりん.md "wikilink")）
+  - [東方TRITONATION](https://web.archive.org/web/20080820074509/http://sp.yellow-zebra.com/)（C78，與[有限会社るざりん合作](https://zh.wikipedia.org/wiki/有限会社るざりん "wikilink")）
 
 ### False\&Trues 音樂專輯
 
@@ -93,7 +93,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
 ### 東方M-1漫才大獎賽系列
 
-**東方M-1漫才大獎賽**（）是以[東方Project的角色為題材的](../Page/東方Project.md "wikilink")[漫才廣播劇CD及](../Page/漫才.md "wikilink")[DVD系列](../Page/DVD.md "wikilink")。第一集的名稱是『東方M-1漫才大獎賽』，但多數人都稱之為『第1回東方M-1漫才大獎賽』與其他的集數作區分。
+**東方M-1漫才大獎賽**（）是以[東方Project的角色為題材的](https://zh.wikipedia.org/wiki/東方Project "wikilink")[漫才廣播劇CD及](../Page/漫才.md "wikilink")[DVD系列](https://zh.wikipedia.org/wiki/DVD "wikilink")。第一集的名稱是『東方M-1漫才大獎賽』，但多數人都稱之為『第1回東方M-1漫才大獎賽』與其他的集數作區分。
 
   - [東方M-1漫才大獎賽](https://web.archive.org/web/20100322230026/http://yellow-zebra.com/cd/yzcd0003.php)（2007年5月20日，例大祭4）
   - [第2回東方M‐1漫才大獎賽](https://web.archive.org/web/20100323074302/http://yellow-zebra.com/cd/yzcd0006.php)（2007年12月31日，C73）
@@ -118,8 +118,8 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     男性。在Yellow
-    Zebra內主要擔任音樂[作詞](../Page/作詞.md "wikilink")、[作](../Page/作曲.md "wikilink")/[編曲及](../Page/編曲.md "wikilink")[樂器演奏](../Page/樂器演奏.md "wikilink")\[5\]。在東方M-1漫才大獎賽系列擔任[旁白](../Page/旁白.md "wikilink")。
-    自12歲就已經作為一名[結他手參加過不同的組合](../Page/結他.md "wikilink")，並且因為興趣而接觸過更多的樂器\[6\]。現在本人在一個原創樂隊中擔任歌手、結他手、作詞、作曲以及[鼓手等等](../Page/鼓.md "wikilink")，還作為一名作詞家為其他個人樂曲或團體作詞\[7\]。
+    Zebra內主要擔任音樂[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作](https://zh.wikipedia.org/wiki/作曲 "wikilink")/[編曲及](https://zh.wikipedia.org/wiki/編曲 "wikilink")[樂器演奏](https://zh.wikipedia.org/wiki/樂器演奏 "wikilink")\[5\]。在東方M-1漫才大獎賽系列擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
+    自12歲就已經作為一名[結他手參加過不同的組合](https://zh.wikipedia.org/wiki/結他 "wikilink")，並且因為興趣而接觸過更多的樂器\[6\]。現在本人在一個原創樂隊中擔任歌手、結他手、作詞、作曲以及[鼓手等等](../Page/鼓.md "wikilink")，還作為一名作詞家為其他個人樂曲或團體作詞\[7\]。
 
 <!-- end list -->
 
@@ -129,8 +129,8 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     男性。在Yellow Zebra內主要擔任編曲及音響工程師。在東方M-1漫才大獎賽系列出演**森近霖之助**。
-    過去曾在某[製造商內擔任背景音樂](../Page/製造商.md "wikilink")、聲效製作，現在則作為一名自由身的音樂創作者參與各錄音BGM的編曲參作\[8\]。另外本人也隸屬於一個[搞笑團體](../Page/搞笑團體.md "wikilink")，定期舉行表演\[9\]。
-    在『[第七龙神](../Page/第七龙神.md "wikilink")』的漫才廣告動畫之中聲演****、****等角色。
+    過去曾在某[製造商內擔任背景音樂](https://zh.wikipedia.org/wiki/製造商 "wikilink")、聲效製作，現在則作為一名自由身的音樂創作者參與各錄音BGM的編曲參作\[8\]。另外本人也隸屬於一個[搞笑團體](https://zh.wikipedia.org/wiki/搞笑團體 "wikilink")，定期舉行表演\[9\]。
+    在『[第七龙神](https://zh.wikipedia.org/wiki/第七龙神 "wikilink")』的漫才廣告動畫之中聲演****、****等角色。
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
     因為在製作者對談中經常都很活躍發言，所以芳葉和らんてぃ說她是「說很多話的歌手」（）。當對談中有人問「藤宮由季是怎樣的人啊？」（）時，Yellow
     Zebra同組織所屬的ねね就形容她是「喜歡掛上紅眼鏡的小貓的人」（）「經常散發粉紅之氣的人」（）「如其聲所示之人」（）等等。
     此外，由季本人居住在首都圈之中，只有錄音的時候才會前往Yellow Zebra所在的福岡。
-    在『[第七龙神](../Page/第七龙神.md "wikilink")』的漫才廣告動畫之中聲演****。
+    在『[第七龙神](https://zh.wikipedia.org/wiki/第七龙神 "wikilink")』的漫才廣告動畫之中聲演****。
 
 <!-- end list -->
 
@@ -153,11 +153,11 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <!-- end list -->
 
   -
-    女性，本名為**內園明希**（）\[10\]，Yellow-Zebra看板歌手之一。出身於[福岡縣](../Page/福岡縣.md "wikilink")[北九州市](../Page/北九州市.md "wikilink")\[11\]，生日是11月29日\[12\]。
+    女性，本名為**內園明希**（）\[10\]，Yellow-Zebra看板歌手之一。出身於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[北九州市](../Page/北九州市.md "wikilink")\[11\]，生日是11月29日\[12\]。
     うっちー的官方網站為「[王娘](https://web.archive.org/web/20110107083122/http://wan--nyan.net/)」。「王娘」曾經有一段時間停止活動，直至2009年5月31日宣佈同年6月20日再有表演\[13\]。
     與藤宮由季不同，うっちー完全沒有出演過『東方M-1漫才大獎賽』系列。另外也甚少於製作者對談之中發言，當初發言的時候更因大家都不知她是誰，而被戲稱為「[VOCALOID](../Page/VOCALOID.md "wikilink")」。樣貌年輕，但歌唱上與由季相反，擅長低音，聲線較為有力，雖然有翻唱過不少由季唱過的歌曲，不過因為她的聲質和唱法也不同，所以即使是同一首歌給人的印象也完全不同。唱的時候很多時都不跟從指示而以自己的方法唱歌\[14\]，常給製作人芳葉和らんてぃ意想不到的驚喜。
-    她曾在製作者的對談中說過，她的年齡與年輕的藤宮由季的相差不短，與芳葉及らんてぃ都是出身於[紅白機世代](../Page/紅白機.md "wikilink")，現在仍然非常喜歡遊玩紅白機遊戲。
-    音樂方面則較愛好[節奏藍調及](../Page/節奏藍調.md "wikilink")[演歌](../Page/演歌.md "wikilink")。人物方面則尊敬[成龍](../Page/成龍.md "wikilink")。
+    她曾在製作者的對談中說過，她的年齡與年輕的藤宮由季的相差不短，與芳葉及らんてぃ都是出身於[紅白機世代](https://zh.wikipedia.org/wiki/紅白機 "wikilink")，現在仍然非常喜歡遊玩紅白機遊戲。
+    音樂方面則較愛好[節奏藍調及](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[演歌](../Page/演歌.md "wikilink")。人物方面則尊敬[成龍](../Page/成龍.md "wikilink")。
 
 ### 其他成員
 
@@ -196,7 +196,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     現擔任『東方M-1漫才大獎賽』系列的動畫製作。過往的名義為「**沌x**」。
-    最初在2008年初時並不屬社內成員，當時他以原本『第2回東方M-1漫才大獎賽』的音源配以本人製作的動畫，在[NICONICO動畫上投稿](../Page/NICONICO動畫.md "wikilink")。其精細製作的動畫使得『東方M-1漫才大獎賽』系列大受歡迎，沌本人還受到Yellow-Zebra的電郵聯絡加入作為繪師的邀請。到『第3回東方M-1漫才大獎賽』時，「沌x」的名字出現在製作名單之中\[15\]。
+    最初在2008年初時並不屬社內成員，當時他以原本『第2回東方M-1漫才大獎賽』的音源配以本人製作的動畫，在[NICONICO動畫上投稿](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其精細製作的動畫使得『東方M-1漫才大獎賽』系列大受歡迎，沌本人還受到Yellow-Zebra的電郵聯絡加入作為繪師的邀請。到『第3回東方M-1漫才大獎賽』時，「沌x」的名字出現在製作名單之中\[15\]。
 
 <!-- end list -->
 
@@ -374,7 +374,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <tr class="even">
 <td><p>愛莉絲·瑪嘉托洛伊德</p></td>
 <td></td>
-<td><p><a href="../Page/藤宮由季.md" title="wikilink">藤宮由季</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤宮由季" title="wikilink">藤宮由季</a></p></td>
 <td><p>1,3</p></td>
 <td></td>
 </tr>
@@ -416,7 +416,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <tr class="even">
 <td><p>八雲藍</p></td>
 <td></td>
-<td><p><a href="../Page/藤宮由季.md" title="wikilink">藤宮由季</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤宮由季" title="wikilink">藤宮由季</a></p></td>
 <td><p>1,2,3,4,5,6</p></td>
 <td></td>
 </tr>
@@ -673,7 +673,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/旁白.md" title="wikilink">旁白</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/旁白" title="wikilink">旁白</a></p></td>
 <td></td>
 <td></td>
 <td><p>1,2,3,4,5,6</p></td>
@@ -689,7 +689,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 <tr class="odd">
 <td><p>人形魔理沙</p></td>
 <td></td>
-<td><p><a href="../Page/藤宮由季.md" title="wikilink">藤宮由季</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤宮由季" title="wikilink">藤宮由季</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
@@ -781,7 +781,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     女性。在東方M-1漫才大獎賽系列主要演出**莉莉卡·普莉茲姆利巴**等角色。
-    她是一名半職業聲優，在[NICONICO動畫上活躍](../Page/NICONICO動畫.md "wikilink")，亦在劇團「」中活躍演出\[17\]。
+    她是一名半職業聲優，在[NICONICO動畫上活躍](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，亦在劇團「」中活躍演出\[17\]。
 
 <!-- end list -->
 
@@ -881,7 +881,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     女性。在第3回東方M-1漫才大獎賽演出**霧雨魔理沙**，並在第4回演出**火焰貓燐**。
-    在『[第七龙神](../Page/第七龙神.md "wikilink")』的漫才廣告動畫之中聲演****。
+    在『[第七龙神](https://zh.wikipedia.org/wiki/第七龙神 "wikilink")』的漫才廣告動畫之中聲演****。
 
 <!-- end list -->
 
@@ -900,7 +900,7 @@ Zebra，且都分別只參加過一次Yellow Zebra的音樂專輯製作，現時
 
   -
     女性。隸屬[Dwango Artist
-    Production的聲優](../Page/Dwango_Artist_Production.md "wikilink")。在第4回東方M-1漫才大獎賽演出**鍵山雛**及**古明地覺**。
+    Production的聲優](https://zh.wikipedia.org/wiki/Dwango_Artist_Production "wikilink")。在第4回東方M-1漫才大獎賽演出**鍵山雛**及**古明地覺**。
 
 <!-- end list -->
 

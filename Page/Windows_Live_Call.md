@@ -1,7 +1,7 @@
-**Windows Live Call**是[微軟](../Page/微軟.md "wikilink")[Windows
-Live服務的一部分](../Page/Windows_Live.md "wikilink")。它被整合到[Windows
-Live
-Messenger之中](../Page/Windows_Live_Messenger.md "wikilink")，允許使用者進行「電腦對電腦」和「電腦對電話」間的語音和視訊通話。而[微軟透過和世界各國的電話業者合作](../Page/微軟.md "wikilink")，讓使用者可以藉由[電腦設備](../Page/電腦.md "wikilink")、[麥克風](../Page/麥克風.md "wikilink")、[喇叭以及高速](../Page/喇叭.md "wikilink")[網路便能和世界各地的一般市話進行通話](../Page/網路.md "wikilink")。
+**Windows Live
+Call**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
+Live服務的一部分](../Page/Windows_Live.md "wikilink")。它被整合到[Windows Live
+Messenger之中](../Page/Windows_Live_Messenger.md "wikilink")，允許使用者進行「電腦對電腦」和「電腦對電話」間的語音和視訊通話。而[微軟透過和世界各國的電話業者合作](https://zh.wikipedia.org/wiki/微軟 "wikilink")，讓使用者可以藉由[電腦設備](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、[喇叭以及高速](https://zh.wikipedia.org/wiki/喇叭 "wikilink")[網路便能和世界各地的一般市話進行通話](https://zh.wikipedia.org/wiki/網路 "wikilink")。
 
 Windows Live Call提供了三種方式的通話：
 
@@ -26,7 +26,8 @@ remaining balance by June 1st, 2010.’
   - [Windows Live](../Page/Windows_Live.md "wikilink")
   - [Windows Live
     Messenger](../Page/Windows_Live_Messenger.md "wikilink")
-  - [Windows Live TV](../Page/Windows_Live_TV.md "wikilink")
+  - [Windows Live
+    TV](https://zh.wikipedia.org/wiki/Windows_Live_TV "wikilink")
   - [Yahoo\! Voice](../Page/Yahoo!_Voice.md "wikilink")
   - [VoIP軟體的比較](../Page/VoIP軟體的比較.md "wikilink")
 

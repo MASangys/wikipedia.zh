@@ -1,5 +1,5 @@
 __NOINDEX__
-<small>請參考[刪除指導以獲取更多資料](../Page/維基百科:刪除指導.md "wikilink")。</small>
+<small>請參考[刪除指導以獲取更多資料](https://zh.wikipedia.org/wiki/維基百科:刪除指導 "wikilink")。</small>
 }}{{\#ifeq:x|x||{{\#if:||}}}}
 [The_Hennessy_Podium_Garden_2013.jpg](https://zh.wikipedia.org/wiki/File:The_Hennessy_Podium_Garden_2013.jpg "fig:The_Hennessy_Podium_Garden_2013.jpg")
 
@@ -9,12 +9,12 @@ Hennessy**前稱**TwoFiveSix**，為[香港的一座商業大廈](../Page/香港
 ## 設計
 
 大廈由CL3 Architect Ltd設計，採用Loft
-Style的[紐約風格](../Page/紐約.md "wikilink")，每層樓高4.8米及裝設落地玻璃。位於二樓花園平台，可看到城市景色。\[1\]大廈在2009年獲得「第十七屆亞太室內設計大獎-公共空間」冠軍。\[2\]
+Style的[紐約風格](https://zh.wikipedia.org/wiki/紐約 "wikilink")，每層樓高4.8米及裝設落地玻璃。位於二樓花園平台，可看到城市景色。\[1\]大廈在2009年獲得「第十七屆亞太室內設計大獎-公共空間」冠軍。\[2\]
 
 ## 租戶
 
 租戶包括多間餐飲食肆，位於3樓、22樓、25樓、30至31樓，而商鋪包括[759阿信屋](../Page/759阿信屋.md "wikilink")、[759
-Kawaiiland以及樂家浴具陳列室ROCA](../Page/759_Kawaiiland.md "wikilink")。\[3\]
+Kawaiiland以及樂家浴具陳列室ROCA](https://zh.wikipedia.org/wiki/759_Kawaiiland "wikilink")。\[3\]
 
 ## 交通
 
@@ -27,7 +27,7 @@ Kawaiiland以及樂家浴具陳列室ROCA](../Page/759_Kawaiiland.md "wikilink")
 <!-- end list -->
 
   - [電車](../Page/電車.md "wikilink")
-    [巴士](../Page/巴士.md "wikilink")
+    [巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")
 
 ## 參考
 

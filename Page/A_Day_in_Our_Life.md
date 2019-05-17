@@ -1,10 +1,10 @@
 《**a Day in Our
-Life**》是[嵐的第七枚](../Page/嵐.md "wikilink")[單曲](../Page/單曲.md "wikilink")。於2002年2月6日發行。唱片公司為[J
+Life**》是[嵐的第七枚](../Page/嵐.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年2月6日發行。唱片公司為[J
 Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說
 
-  - 2002年首張單曲。在本作之前的作品屬[波麗佳音所有](../Page/波麗佳音.md "wikilink")，之後的則屬事務所設立的J
+  - 2002年首張單曲。在本作之前的作品屬[波麗佳音所有](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，之後的則屬事務所設立的J
     Storm。
   - 與市面上一般的Maxi Single不同，此為重返1990年代便已消失匿跡的8cm
     CD出版的單曲。此外，歌詞卡折疊的用法則成為了特色。市面上的Maxi
@@ -18,7 +18,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 1.  **a Day in Our Life**
     （作詞、作曲、編曲：SHUN、SHUYA）
       -
-        [東京廣播公司連續劇](../Page/東京廣播公司.md "wikilink")「[木更津貓眼](../Page/木更津貓眼.md "wikilink")」主題曲（[V6](../Page/V6.md "wikilink")[岡田准一主演](../Page/岡田准一.md "wikilink")，[櫻井翔演出](../Page/櫻井翔.md "wikilink")）
+        [東京廣播公司連續劇](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")「[木更津貓眼](../Page/木更津貓眼.md "wikilink")」主題曲（[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[岡田准一主演](../Page/岡田准一.md "wikilink")，[櫻井翔演出](../Page/櫻井翔.md "wikilink")）
 2.  a Day in Our Life -instrumental-
 3.  talk
       -

@@ -1,8 +1,8 @@
-**紅白FLASH合戰**為日本[2ch的Flash板於年末舉辦之比賽活動](../Page/2ch.md "wikilink")。仿照[電視節目](../Page/電視節目.md "wikilink")[紅白歌唱大賽的形式](../Page/紅白歌唱大賽.md "wikilink")，將參賽者分為紅與白兩組，以一對一[Flash作品對抗的方式進行網路投票](../Page/Flash.md "wikilink")，最後總票數最高的組別為勝利組。
+**紅白FLASH合戰**為日本[2ch的Flash板於年末舉辦之比賽活動](https://zh.wikipedia.org/wiki/2ch "wikilink")。仿照[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[紅白歌唱大賽的形式](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")，將參賽者分為紅與白兩組，以一對一[Flash作品對抗的方式進行網路投票](https://zh.wikipedia.org/wiki/Flash "wikilink")，最後總票數最高的組別為勝利組。
 
 ## 簡介
 
-首屆紅白FLASH合戰於2002年開始，由日本[2ch的Flash板板主發起](../Page/2ch.md "wikilink")，主要目的為募集各方[Flash好手](../Page/Flash.md "wikilink")，一同競技。
+首屆紅白FLASH合戰於2002年開始，由日本[2ch的Flash板板主發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，主要目的為募集各方[Flash好手](https://zh.wikipedia.org/wiki/Flash "wikilink")，一同競技。
 
 參賽的題材內容不拘（惟禁止18禁作品參賽），不過大多參賽者皆有在作品中套用2ch代表物**貓**的習慣。而創作類型則是Flash動畫。
 
@@ -24,11 +24,11 @@
   - 2002年，****發起活動，由**FLASH50**提供營運相關資源。
   - 2003年，**FLASH50**擔任主辦人，因為有上一屆的紀錄，此屆的參賽者及觀眾皆增加許多，紅白FLASH合戰也變的較廣為人知。
   - 2004年，為最後一屆紅白FLASH合戰，同時也是參賽者最多的一屆。
-  - 2005年，由[FLASH★BOMB取代](../Page/FLASH★BOMB.md "wikilink")。在這期間，同類型的[紅白闇鍋祭](../Page/紅白闇鍋祭.md "wikilink")，以及模仿[slashup的](../Page/slashup.md "wikilink")[naname
-    up展開](../Page/naname_up.md "wikilink")。
-  - 2007年，紅白FLASH合戰復出，與[紅白闇鍋祭](../Page/紅白闇鍋祭.md "wikilink")、[naname
-    up一同成為Flash板的三大盛事](../Page/naname_up.md "wikilink")。
-  - 2008年，與[Niconico動畫合作舉行](../Page/ニコニコ動画.md "wikilink")。
+  - 2005年，由[FLASH★BOMB取代](https://zh.wikipedia.org/wiki/FLASH★BOMB "wikilink")。在這期間，同類型的[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")，以及模仿[slashup的](https://zh.wikipedia.org/wiki/slashup "wikilink")[naname
+    up展開](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
+  - 2007年，紅白FLASH合戰復出，與[紅白闇鍋祭](https://zh.wikipedia.org/wiki/紅白闇鍋祭 "wikilink")、[naname
+    up一同成為Flash板的三大盛事](https://zh.wikipedia.org/wiki/naname_up "wikilink")。
+  - 2008年，與[Niconico動畫合作舉行](https://zh.wikipedia.org/wiki/ニコニコ動画 "wikilink")。
   - 2009年，以新生迎接第三回的「紅白FLASH合戦2009 -再燐-」，以新的管理人員與嶄新的管理方案營運。
   - 2010年，第四回「紅白FLASH合戰2010」，由於投票系統出問題，紅白雙組不分勝負。
   - 2011年，第五回「紅白FLASH合戰2011」，

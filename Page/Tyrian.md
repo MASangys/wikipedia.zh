@@ -1,6 +1,6 @@
 《**Tyrian**》是由[Eclipse
-Productions所開發的縱向捲軸射擊遊戲](../Page/Eclipse_Productions.md "wikilink")，於1995年由[Epic
-MegaGames發行](../Page/Epic_MegaGames.md "wikilink")。遊戲中玩家操縱一艘具有多種武器的船艦，玩家透過摧毀敵人或吃掉獎勵物品來賺取分數，而這些分數可以用來升級武器、防護盾、船艦……等。遊戲屬於快節奏且玩家將面對大量的敵人。
+Productions所開發的縱向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Eclipse_Productions "wikilink")，於1995年由[Epic
+MegaGames發行](https://zh.wikipedia.org/wiki/Epic_MegaGames "wikilink")。遊戲中玩家操縱一艘具有多種武器的船艦，玩家透過摧毀敵人或吃掉獎勵物品來賺取分數，而這些分數可以用來升級武器、防護盾、船艦……等。遊戲屬於快節奏且玩家將面對大量的敵人。
 
 《Tyrian》於2005年釋出為免費軟體（Freeware），遊戲內的物件圖像於2007年4月以內容開放（Open
 license）的方式釋出。《Tyrian》由Jason Emery進行-{zh-hans:編程;
@@ -25,7 +25,7 @@ mines）……等。除了武器的升級外，玩家也可以更換船艦來換
 ## 劇情
 
 遊戲背景設在20,031年，玩家扮演名為[Trent
-Hawkins的駕駛員](../Page/Trent_Hawkins.md "wikilink")，被派遣至探索新發現的星球上可居住的區域，他的最後一項任務是行星*Tyrian*，這顆星球坐落於接近一個似[蜥蜴型種族](../Page/蜥蜴.md "wikilink")（[Hazudra](../Page/Hazudra.md "wikilink")）的領土附近。
+Hawkins的駕駛員](https://zh.wikipedia.org/wiki/Trent_Hawkins "wikilink")，被派遣至探索新發現的星球上可居住的區域，他的最後一項任務是行星*Tyrian*，這顆星球坐落於接近一個似[蜥蜴型種族](../Page/蜥蜴.md "wikilink")（[Hazudra](https://zh.wikipedia.org/wiki/Hazudra "wikilink")）的領土附近。
 
 某日，Trent的朋友Buce
 Quesillac被一名機器人射殺，當Buce倒臥在地上時，他告知Trent這件事情是全是Microsol的計畫，Microsol是個巨大的集團並主導星球Tyrian的開發計畫，由於Buce對於一種稱為Gravitium的物質具有豐富的知識，他們必須殺了Buce。Gravitium是一種只在Tyrian上發現的物質，這種物質具有控制[引力的能力](../Page/引力.md "wikilink")。Microsol試圖將Gravitium應用在他們的船艦上，並企圖殲滅任何一個知道此物質存在的人，而Trent正是這名單上其中一員，Buce要Trent逃至Savara，一個自由的世界。Trent成功的弄來了一艘船艦並向Savara啟程。玩家的第一個任務便是從Tyrian逃出，隨著遊戲的進行，玩家收到各式從友方及敵方所傳來的訊息，最終Trent與Microsol的勁敵──Gencore聯繫上，並摧毀了Microsol的主要船艦。
@@ -33,11 +33,11 @@ Quesillac被一名機器人射殺，當Buce倒臥在地上時，他告知Trent�
 在第四部分的任務裡，Microsol啟動了位於Ixmucane星球地底的外星裝置，這個裝置被用來將整顆行星改造成一顆恆星，但創造者從來沒有啟動它過。玩家必須在系統全部啟動前摧毀它，Microsol才不會得到更多的力量，此外，許多重要的科學家被困在地底，如果系統成功啟動將會殺死所有的科學家。任務結束後，Trent已經厭倦接受任務並冒著生命危險來達成它，他將飛船的目的地設在100光年外的地球並用[人體冷凍技術將自己冷凍](../Page/人體冷凍技術.md "wikilink")。
 
 Tyrian
-2000中新增了第五部份的任務，Hazudra在Trent的船艦附近引爆了一枚炸彈，將船艦帶至另外一個空間中，他們要Trent逐出Zinglonites──利用[水果侵略的種族](../Page/水果.md "wikilink")，同時也增加了新的飛船及武器供玩家達成目標。
+2000中新增了第五部份的任務，Hazudra在Trent的船艦附近引爆了一枚炸彈，將船艦帶至另外一個空間中，他們要Trent逐出Zinglonites──利用[水果侵略的種族](https://zh.wikipedia.org/wiki/水果 "wikilink")，同時也增加了新的飛船及武器供玩家達成目標。
 
 ## 遊戲發展
 
-2007年，作者把Pascal写成的源代码授权给一个小组的成员以便他们改写成C语言，这个改写后的引擎便是之后的OpenTyrian\[1\]，小组以[GPL授权将其释放](../Page/GPL.md "wikilink")。用于增强和移植这个经典游戏到其他平台，支持的包括Linux，PSP，Mac
+2007年，作者把Pascal写成的源代码授权给一个小组的成员以便他们改写成C语言，这个改写后的引擎便是之后的OpenTyrian\[1\]，小组以[GPL授权将其释放](https://zh.wikipedia.org/wiki/GPL "wikilink")。用于增强和移植这个经典游戏到其他平台，支持的包括Linux，PSP，Mac
 OS X，Windows，Amiga, Dreamcast, DS, GameCube, Gizmondo, GP2X, Nokia
 Internet Tablets, Wii。不过只支持Tyrian 2.1的数据文件。\[2\]
 

@@ -1,7 +1,7 @@
-**SEXXY-FUNИY-COOL**是[香港三人女子跳舞歌唱組合](../Page/香港.md "wikilink")[HotCha的第二張專輯](../Page/HotCha.md "wikilink")，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色背景為主的SEXXY](../Page/白色.md "wikilink")（SEXY）版、以[啡色背景為主的FUNИY](../Page/啡色.md "wikilink")（FUNNY）版及以[黑色背景為主的COOL版](../Page/黑色.md "wikilink")。
+**SEXXY-FUNИY-COOL**是[香港三人女子跳舞歌唱組合](../Page/香港.md "wikilink")[HotCha的第二張專輯](../Page/HotCha.md "wikilink")，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色背景為主的SEXXY](../Page/白色.md "wikilink")（SEXY）版、以[啡色背景為主的FUNИY](https://zh.wikipedia.org/wiki/啡色 "wikilink")（FUNNY）版及以[黑色背景為主的COOL版](../Page/黑色.md "wikilink")。
 
 這張專輯的主打歌為《了了》、《小野蠻》及《You Are My Best
-Friend》，而隨碟附送的[DVD收錄了四首新歌](../Page/DVD.md "wikilink")[MV](../Page/MV.md "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。
+Friend》，而隨碟附送的[DVD收錄了四首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。
 
 限定特別版以紅底白字為封面，內頁卻包含一套三款第一版的封面，並只發行500套。而熱舞版則以她們的首個公開售票演唱會「YOU ARE MY
 HotCha Debut Dance LIVE」的宣傳海報為封面。
@@ -34,19 +34,19 @@ are My Best Friend》於2008年度十大勁歌金曲頒獎典禮獲得「最受�
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>我要最喜愛的</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp;<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp;<br />
 Charles Lee</p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
 <td><p>Randy Chow, Mica &amp;<br />
-<a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>然後會想起你</p></td>
-<td><p><a href="../Page/楊鎮邦.md" title="wikilink">楊鎮邦</a>@<a href="../Page/宇宙大爆炸.md" title="wikilink">宇宙大爆炸</a></p></td>
+<td><p><a href="../Page/楊鎮邦.md" title="wikilink">楊鎮邦</a>@<a href="https://zh.wikipedia.org/wiki/宇宙大爆炸" title="wikilink">宇宙大爆炸</a></p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
 <td><p>Randy Chow, Mica &amp;<br />
-<a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
@@ -58,53 +58,53 @@ Charles Lee</p></td>
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>小野蠻</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp;<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp;<br />
 Charles Lee</p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
 <td><p>Randy Chow, Mica &amp;<br />
-<a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
 <td><p>You Are My Best Friend</p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp;<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp;<br />
 Charles Lee</p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
-<td><p><a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a> &amp;<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a> &amp;<br />
 Charles Lee</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
 <td><p>簡簡單單</p></td>
-<td><p><a href="../Page/Victor_Lau.md" title="wikilink">Victor Lau</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Victor_Lau" title="wikilink">Victor Lau</a></p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
 <td><p>Randy Chow, Mica &amp;<br />
-<a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>一二三</p></td>
-<td><p><a href="../Page/方大同.md" title="wikilink">方大同</a>，<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a>，<br />
 Edward Chan &amp;<br />
 Charles Lee</p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
-<td><p><a href="../Page/方大同.md" title="wikilink">方大同</a> &amp;<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/方大同" title="wikilink">方大同</a> &amp;<br />
 Edward Chan</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
 <td><p>八八伴</p></td>
 <td><p>方樹樑</p></td>
-<td><p><a href="../Page/農夫_(樂隊).md" title="wikilink">農夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/農夫_(樂隊)" title="wikilink">農夫</a></p></td>
 <td><p>Randy Chow, Mica &amp;<br />
-<a href="../Page/Edward_Chan.md" title="wikilink">Edward Chan</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
 <td><p>旅行的意義<br />
 <small>（電影《<a href="../Page/渺渺.md" title="wikilink">渺渺</a>》插曲）</small></p></td>
 <td><p><a href="../Page/陳綺貞.md" title="wikilink">陳綺貞</a></p></td>
-<td><p><a href="../Page/陳少琪.md" title="wikilink">陳少琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少琪" title="wikilink">陳少琪</a></p></td>
 <td><p>Johnny Yim</p></td>
 </tr>
 <tr class="even">

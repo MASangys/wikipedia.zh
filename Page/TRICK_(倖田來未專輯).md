@@ -1,6 +1,6 @@
 《**TRICK**》（魔幻把戲）是[日本歌手](../Page/日本.md "wikilink")[倖田來未的第](../Page/倖田來未.md "wikilink")7張個人原創專輯，收錄《[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")》、《[TABOO](../Page/TABOO.md "wikilink")（禁忌）》及《[stay
 with
-me](../Page/stay_with_me.md "wikilink")》，3張A面單曲。額外曲目「Venus」是翻唱歌曲，因為在吉列
+me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")》，3張A面單曲。額外曲目「Venus」是翻唱歌曲，因為在吉列
 venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄為bonus曲目。
 
 ## 解說
@@ -75,7 +75,7 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
       -
         專輯的opening。有歌詞但未記載在歌詞本上。
         本作的Live Version收錄在「[Alive/Physical
-        thing](../Page/Alive/Physical_thing.md "wikilink")（生存/本能慾望）」的CD
+        thing](https://zh.wikipedia.org/wiki/Alive/Physical_thing "wikilink")（生存/本能慾望）」的CD
         ONLY初回限定盤。
 2.  **[TABOO](../Page/TABOO.md "wikilink")**
       -
@@ -85,7 +85,8 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
 4.  **Your Love**
       -
         トステム住研groupフィアスホーム 電視廣告曲。
-5.  **[stay with me](../Page/stay_with_me.md "wikilink")**
+5.  **[stay with
+    me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")**
       -
         42nd單曲。
 6.  **This is not a love song**
@@ -105,12 +106,13 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
       -
         本作首次揭露於『[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")』。
         本作的Live Version收錄在「[Alive/Physical
-        thing](../Page/Alive/Physical_thing.md "wikilink")（生存/本能慾望）」的CD
+        thing](https://zh.wikipedia.org/wiki/Alive/Physical_thing "wikilink")（生存/本能慾望）」的CD
         ONLY初回限定盤。
 14. **愛のことば（愛語）**
 15. **Venus（Bonus track）**
       -
-        [P\&G](../Page/P&G.md "wikilink")「吉列 Venus」廣告曲。
+        [P\&G](https://zh.wikipedia.org/wiki/P&G "wikilink")「吉列
+        Venus」廣告曲。
         「CD＋2DVD」的「HAPPY TRICK預購版」限定收錄。
 
 ### DVD Disc1
@@ -147,26 +149,28 @@ venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄�
 <!-- end list -->
 
 1.  **[Cherry Girl-Space Cowboy
-    Remix-](../Page/Cherry_Girl/命運.md "wikilink")**
+    Remix-](https://zh.wikipedia.org/wiki/Cherry_Girl/命運 "wikilink")**
 2.  **[D.D.D.](../Page/D.D.D._feat._SOULHEAD.md "wikilink")**
 3.  **[Shake It Up -Kazz Caribbean
-    Remix-](../Page/Shake_It_Up.md "wikilink")**
+    Remix-](https://zh.wikipedia.org/wiki/Shake_It_Up "wikilink")**
 4.  **[Always](../Page/TABOO.md "wikilink")**
 5.  **\[\[affection|come back**\]\]'''
 6.  **[Butterfly](../Page/Butterfly_\(倖田來未單曲\).md "wikilink")**
-7.  '''[Bounce](../Page/anytime.md "wikilink") '''
-8.  **[BUT](../Page/BUT/愛的證明.md "wikilink")**
+7.  '''[Bounce](https://zh.wikipedia.org/wiki/anytime "wikilink") '''
+8.  **[BUT](https://zh.wikipedia.org/wiki/BUT/愛的證明 "wikilink")**
 9.  **[Teaser Feat.Clench &
-    Blistah](../Page/grow_into_one.md "wikilink")**
+    Blistah](https://zh.wikipedia.org/wiki/grow_into_one "wikilink")**
 10. '''[Hot Stuff feat.
     KM-MARKIT](../Page/Hot_Stuff_feat._KM-MARKIT.md "wikilink") '''
 11. **[甘い罠（甜蜜陷阱）](../Page/Kingdom_\(倖田來未專輯\).md "wikilink")**
-12. **[華](../Page/feel_my_mind.md "wikilink")**
+12. **[華](https://zh.wikipedia.org/wiki/feel_my_mind "wikilink")**
 13. **[Candy feat.Mr.Blistah -Mad reggaeton
-    remix-](../Page/Candy_feat.Mr._Blistah.md "wikilink")**
-14. **[Selfish](../Page/倖感機密.md "wikilink") ～[the meaning of
-    peace](../Page/the_meaning_of_peace.md "wikilink")**
-15. '''[WIND -PORTABLE WIND MIX-](../Page/WIND.md "wikilink") '''
+    remix-](https://zh.wikipedia.org/wiki/Candy_feat.Mr._Blistah "wikilink")**
+14. **[Selfish](https://zh.wikipedia.org/wiki/倖感機密 "wikilink") ～[the
+    meaning of
+    peace](https://zh.wikipedia.org/wiki/the_meaning_of_peace "wikilink")**
+15. '''[WIND -PORTABLE WIND
+    MIX-](https://zh.wikipedia.org/wiki/WIND "wikilink") '''
 
 <!-- end list -->
 

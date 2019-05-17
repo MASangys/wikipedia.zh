@@ -1,4 +1,4 @@
-是一款基於著名[第一人稱射擊遊戲](../Page/第一人稱射擊遊戲.md "wikilink")《[反恐精英](../Page/絕對武力.md "wikilink")》的改編作，以[反恐精英：零點行動的](../Page/絕對武力：一觸即發.md "wikilink")[GoldSrc引擎為基礎製作而成的FPS類](../Page/GoldSrc引擎.md "wikilink")[網絡遊戲](../Page/網路遊戲.md "wikilink")，主要目的是為了進一步拓展亞洲的[FPS市場](../Page/第一人稱射擊遊戲.md "wikilink")，由原反恐精英研發商[Valve與](../Page/維爾福.md "wikilink")[韓國的](../Page/大韓民國.md "wikilink")[Nexon公司合作](../Page/Nexon.md "wikilink")，在2007年12月於[韓國首度發行](../Page/大韓民國.md "wikilink")。
+是一款基於著名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[反恐精英](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》的改編作，以[反恐精英：零點行動的](../Page/絕對武力：一觸即發.md "wikilink")[GoldSrc引擎為基礎製作而成的FPS類](../Page/GoldSrc引擎.md "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，主要目的是為了進一步拓展亞洲的[FPS市場](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，由原反恐精英研發商[Valve與](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[韓國的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Nexon公司合作](../Page/Nexon.md "wikilink")，在2007年12月於[韓國首度發行](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
 
 2012年4月5日NEXON宣布將和Valve再次合作，採用新版本的Source引擎開發續作《[反恐精英Online
 2](../Page/絕對武力_Online_2.md "wikilink")》\[1\]。
@@ -18,13 +18,13 @@
 <tr class="odd">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><p><a href="../Page/NEXON.md" title="wikilink">NEXON</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/NEXON" title="wikilink">NEXON</a></p></td>
 <td style="text-align: left;"><p>營運日期：2007年12月20日~</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="../Page/大陆.md" title="wikilink">大陆</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/大陆" title="wikilink">大陆</a></p></td>
 <td style="text-align: left;"><p>-{反恐精英Online}-</p></td>
-<td style="text-align: left;"><p><a href="../Page/世纪天成.md" title="wikilink">世纪天成</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/世纪天成" title="wikilink">世纪天成</a></p></td>
 <td style="text-align: left;"><p>營運日期：2008年11月18日~</p></td>
 </tr>
 <tr class="odd">
@@ -36,7 +36,7 @@
 <tr class="even">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><p><a href="../Page/NEXON.md" title="wikilink">NEXON</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/NEXON" title="wikilink">NEXON</a></p></td>
 <td style="text-align: left;"><p>營運日期：2009年8月12日<br />
 結束營運：2019年3月6日</p></td>
 </tr>
@@ -85,11 +85,11 @@
 </tbody>
 </table>
 
-本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港地區由](../Page/香港.md "wikilink")[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](../Page/中國大陸.md "wikilink")[世紀天成代理](../Page/世紀天成.md "wikilink")\[3\]。
+本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港地區由](../Page/香港.md "wikilink")[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。
 
 另外，本游戏在歐美地區以《Counter-Strike
 Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink")，但只對歐美地區開放，並由[Nexon
-Europe經營](../Page/Nexon#歐洲.md "wikilink")\[4\]
+Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
 
 ## 遊戲命名
 
@@ -115,9 +115,9 @@ Counter-Strike 系列中的遊戲，而是一款獨立的網絡遊戲。
 
 ## 參見
 
-  - [絕對武力](../Page/絕對武力.md "wikilink")
+  - [絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")
   - [絕對武力：一觸即發](../Page/絕對武力：一觸即發.md "wikilink")
-  - [維爾福](../Page/維爾福.md "wikilink")
+  - [維爾福](https://zh.wikipedia.org/wiki/維爾福 "wikilink")
 
 ## 參考文獻
 

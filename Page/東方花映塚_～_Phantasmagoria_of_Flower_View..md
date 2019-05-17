@@ -1,16 +1,16 @@
 [Phantasmagoria_of_Flower_View.jpg](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Flower_View.jpg "fig:Phantasmagoria_of_Flower_View.jpg")
-是由[同人組織](../Page/同人組織.md "wikilink")[上海愛莉絲幻樂團所製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第九個作品](../Page/東方Project.md "wikilink")。作品標題中的英文部分是參照東方系列第3作《[東方夢時空
+是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團所製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第九個作品](https://zh.wikipedia.org/wiki/東方Project "wikilink")。作品標題中的英文部分是參照東方系列第3作《[東方夢時空
 ～ Phantasmagoria of
 Dim.Dream.](../Page/東方夢時空_～_Phantasmagoria_of_Dim.Dream..md "wikilink")》而來的，但兩個作品中的故事並無關連。
 
 ## 概要
 
 [Th09_gameplay.png](https://zh.wikipedia.org/wiki/File:Th09_gameplay.png "fig:Th09_gameplay.png")
-本作於2005年4月1日發表推出的情報，在第2次「[博麗神社例大祭](../Page/博麗神社例大祭.md "wikilink")」（5月4日）發佈有[.wav版背景音樂的體驗版plus](../Page/.wav.md "wikilink")，6月12日開放網上下載體驗版，並在8月14日[Comic
+本作於2005年4月1日發表推出的情報，在第2次「[博麗神社例大祭](https://zh.wikipedia.org/wiki/博麗神社例大祭 "wikilink")」（5月4日）發佈有[.wav版背景音樂的體驗版plus](https://zh.wikipedia.org/wiki/.wav "wikilink")，6月12日開放網上下載體驗版，並在8月14日[Comic
 Market](../Page/Comic_Market.md "wikilink")
-68正式發售。同年9月17日開始在[同人商店](../Page/同人商店.md "wikilink")[委託販賣](../Page/委託販賣.md "wikilink")。除此之外，本作的體驗版plus的CD也有收錄在東方Project的書籍作品[東方文花帖
+68正式發售。同年9月17日開始在[同人商店](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")。除此之外，本作的體驗版plus的CD也有收錄在東方Project的書籍作品[東方文花帖
 ～ Bohemian Archive in Japanese
-Red.的](../Page/東方文花帖_～_Bohemian_Archive_in_Japanese_Red..md "wikilink")[CD-ROM內](../Page/CD-ROM.md "wikilink")。
+Red.的](https://zh.wikipedia.org/wiki/東方文花帖_～_Bohemian_Archive_in_Japanese_Red. "wikilink")[CD-ROM內](../Page/CD-ROM.md "wikilink")。
 
 本作系統與前三作不同，為一隻類似《》的對戰射擊遊戲。遊戲模式分別有全9關的故事模式、可以選擇任何一個角色對戰的對戰模式（Match
 Mode），還有滿足一定條件後可以開放挑戰的Extra
@@ -18,7 +18,7 @@ Mode。在對戰模式中，除了可與電腦、玩家對戰外，本作的最�
 
 ## 故事
 
-[春天到臨](../Page/春天.md "wikilink")，百花盛放…這一年裏，所有不同季節盛開的花都一概在同一個季節內盛放。[幻想鄉的所有少女們很快就察覺到這次異變的發生](../Page/幻想鄉.md "wikilink")。為了解決異變，有些是因為好奇，有些是因為感到有責任，還有些因為覺得很沉悶，大家都各自出發尋找解決辦法。很快地，少女們都在紅魔館附近的「霧之湖」處出發，開始四處探求異變的解決方法。
+[春天到臨](https://zh.wikipedia.org/wiki/春天 "wikilink")，百花盛放…這一年裏，所有不同季節盛開的花都一概在同一個季節內盛放。[幻想鄉的所有少女們很快就察覺到這次異變的發生](../Page/幻想鄉.md "wikilink")。為了解決異變，有些是因為好奇，有些是因為感到有責任，還有些因為覺得很沉悶，大家都各自出發尋找解決辦法。很快地，少女們都在紅魔館附近的「霧之湖」處出發，開始四處探求異變的解決方法。
 
 ## 遊戲系統
 
@@ -121,32 +121,34 @@ Mode。在對戰模式中，除了可與電腦、玩家對戰外，本作的最�
 
 <!-- end list -->
 
-  - [十六夜 咲夜](../Page/十六夜咲夜.md "wikilink")（，，Izayoi Sakuya）
-    紅魔館的[女僕](../Page/女僕.md "wikilink")。她也是為找尋異變起因出發，但比起好奇心，更因為這異變是一場危機。
+  - [十六夜 咲夜](https://zh.wikipedia.org/wiki/十六夜咲夜 "wikilink")（，，Izayoi
+    Sakuya）
+    紅魔館的[女僕](https://zh.wikipedia.org/wiki/女僕 "wikilink")。她也是為找尋異變起因出發，但比起好奇心，更因為這異變是一場危機。
 
 <!-- end list -->
 
-  - [魂魄 妖夢](../Page/魂魄妖夢.md "wikilink")（，，Konpaku Youmu）
-    西行寺的庭師。她一邊觀賞百花齊開的盛況，一邊在思索異變的因由，只是她無法找到線索，所以只能一直在四處散步等候。不過在其他人沒有注意到的情況下，她卻留意到有些[幽靈憑依了在花朵之中](../Page/幽靈.md "wikilink")。
+  - [魂魄 妖夢](https://zh.wikipedia.org/wiki/魂魄妖夢 "wikilink")（，，Konpaku
+    Youmu）
+    西行寺的庭師。她一邊觀賞百花齊開的盛況，一邊在思索異變的因由，只是她無法找到線索，所以只能一直在四處散步等候。不過在其他人沒有注意到的情況下，她卻留意到有些[幽靈憑依了在花朵之中](https://zh.wikipedia.org/wiki/幽靈 "wikilink")。
 
 <!-- end list -->
 
-  - [鈴仙·優曇華院·因幡](../Page/東方永夜抄_～_Imperishable_Night.#鈴仙·優曇華院·因幡.md "wikilink")(或譯作稲葉)（，Reisen
+  - [鈴仙·優曇華院·因幡](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#鈴仙·優曇華院·因幡 "wikilink")(或譯作稲葉)（，Reisen
     Udongein Inaba）
     月兔。雖然她沒甚麼擔心花朵的盛放會帶來甚麼影響，但是後來發覺因為永遠亭的[兔都因為那些花的緣故而四處吵鬧](../Page/兔.md "wikilink")，因此唯有出發。最重要的是為了找帝回到永遠亭之中。
 
 <!-- end list -->
 
-  - [琪露諾](../Page/琪露諾.md "wikilink")（，Cirno）
-    以霧之湖作為根據地的[妖精](../Page/妖精.md "wikilink")。雖然平時琪露諾的頭腦很差，但是在這次異變中，她不是只留意著花的開放，她更留意到60年前的1945年也有類似的異變發生。也許是她見妖精們都非常活潑起來，所以認為這次是妖精所為。只不過她似乎不太關心這次異變，和以往一樣，都只是想在異變之中喧鬧一番而已。
+  - [琪露諾](https://zh.wikipedia.org/wiki/琪露諾 "wikilink")（，Cirno）
+    以霧之湖作為根據地的[妖精](https://zh.wikipedia.org/wiki/妖精 "wikilink")。雖然平時琪露諾的頭腦很差，但是在這次異變中，她不是只留意著花的開放，她更留意到60年前的1945年也有類似的異變發生。也許是她見妖精們都非常活潑起來，所以認為這次是妖精所為。只不過她似乎不太關心這次異變，和以往一樣，都只是想在異變之中喧鬧一番而已。
     在本作的介绍图中，琪露诺被放在⑨的位置上，并以“⑨笨蛋”的介绍简单带过。此后“⑨”在爱好者之间成为了“笨蛋”的代名词。
 
 <!-- end list -->
 
-  - [普利森瑞柏三姐妹](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#普利森瑞柏三姐妹.md "wikilink")（，Prismriver
+  - [普利森瑞柏三姐妹](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#普利森瑞柏三姐妹 "wikilink")（，Prismriver
     Sisters）
 
-:;[莉莉卡·普利森瑞柏](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#莉莉卡·普利森瑞柏.md "wikilink")（，Lyrica
+:;[莉莉卡·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#莉莉卡·普利森瑞柏 "wikilink")（，Lyrica
 Prismriver）
 
   -
@@ -154,7 +156,7 @@ Prismriver）
       -
         普莉茲姆利巴三姐妹之中的三女。和其他兩名姐姐不同，在她們之中，唯獨是她自己因為在這場異變中發現了合心意的獨奏場地和新的音響而感到有興趣。可惜，她一路上都被古怪的東西所擾亂，連路也迷失了。
 
-:;[梅露蘭·普利森瑞柏](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#梅露蘭·普利森瑞柏.md "wikilink")（，Merlin
+:;[梅露蘭·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#梅露蘭·普利森瑞柏 "wikilink")（，Merlin
 Prismriver）
 
   -
@@ -162,7 +164,7 @@ Prismriver）
       -
         普莉茲姆利巴三姐妹之中的次女。對這次異變完全不感興趣。
 
-:;[露娜薩·普利森瑞柏](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#露娜薩·普利森瑞柏.md "wikilink")（，Lunasa
+:;[露娜薩·普利森瑞柏](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#露娜薩·普利森瑞柏 "wikilink")（，Lunasa
 Prismriver）
 
   -
@@ -172,13 +174,14 @@ Prismriver）
 
 <!-- end list -->
 
-  - [米斯蒂姬·蘿蕾拉](../Page/東方永夜抄_～_Imperishable_Night.#米斯蒂姬·蘿蕾拉.md "wikilink")（，Mystia
+  - [米斯蒂姬·蘿蕾拉](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#米斯蒂姬·蘿蕾拉 "wikilink")（，Mystia
     Lorelei）
     夜雀。與莉莉卡相似地，她也是想找一個適合演唱的地方，向他人披露自己的歌藝。
 
 <!-- end list -->
 
-  - [因幡 帝](../Page/東方永夜抄_～_Imperishable_Night.#因幡_帝.md "wikilink")（，
+  - [因幡
+    帝](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.#因幡_帝 "wikilink")（，
     Inaba Tewi（Inaba Tei））
     居住在永遠亭，作為地上兔的首領的妖怪兔。在這次異變中，她與一眾地上兔一起四處喧鬧起來。
 
@@ -322,7 +325,7 @@ Prismriver）
     **主題曲**
       - 　第六十年的東方裁判　～ Fate of Sixty Year（《花映塚》）
 
-小野塚小町的上司。四季映姬是名字，幻想鄉閻王（）則是官職名。是[梵文](../Page/梵文.md "wikilink")「[閻羅王](../Page/閻羅王.md "wikilink")」的意思，則是英語「樂園（幻想鄉）」的意思\[5\]。她是一名說教魔，「花映塚」中對來訪無緣塚的人類與妖怪們進行了「積德」的說教，EX時則視察她們有沒有在積德。在官方小說「紫香花」的描述中，八雲紫似乎不擅長與像四季映姬的人打交道，結果在四季映姬到達之前，八雲紫就離開了。在《求聞史記》則提到幻想鄉的妖怪都很怕她，只要她一出現妖怪都會藏起來。平時工作是負責給死者定罪。
+小野塚小町的上司。四季映姬是名字，幻想鄉閻王（）則是官職名。是[梵文](https://zh.wikipedia.org/wiki/梵文 "wikilink")「[閻羅王](../Page/閻羅王.md "wikilink")」的意思，則是英語「樂園（幻想鄉）」的意思\[5\]。她是一名說教魔，「花映塚」中對來訪無緣塚的人類與妖怪們進行了「積德」的說教，EX時則視察她們有沒有在積德。在官方小說「紫香花」的描述中，八雲紫似乎不擅長與像四季映姬的人打交道，結果在四季映姬到達之前，八雲紫就離開了。在《求聞史記》則提到幻想鄉的妖怪都很怕她，只要她一出現妖怪都會藏起來。平時工作是負責給死者定罪。
 
 ## 曲目一覽
 
@@ -496,4 +499,4 @@ Prismriver）
 3.
 4.  根據花映塚中與映姬的對話，以及求聞史記。
 
-5.  根據《[求聞史紀](../Page/東方求聞史紀_〜_Perfect_Memento_in_Strict_Sense..md "wikilink")》的附錄的角色頁中記述。
+5.  根據《[求聞史紀](https://zh.wikipedia.org/wiki/東方求聞史紀_〜_Perfect_Memento_in_Strict_Sense. "wikilink")》的附錄的角色頁中記述。

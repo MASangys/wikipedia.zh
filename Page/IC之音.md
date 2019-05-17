@@ -1,13 +1,14 @@
-**IC之音（竹科廣播股份有限公司）**是[台灣的](../Page/台灣.md "wikilink")[廣播電台](../Page/廣播電台.md "wikilink")，於2002年2月25日開播，是由91位服務於[新竹科學工業園區的](../Page/新竹科學工業園區.md "wikilink")[企業主管集資成立的廣播電台](../Page/企業主管.md "wikilink")，廣播地區為[新竹](../Page/新竹都會區.md "wikilink")、[桃園](../Page/桃園市.md "wikilink")、[苗栗](../Page/苗栗縣.md "wikilink")，部份台北地區
-收聽[頻率為](../Page/頻率.md "wikilink")[FM](../Page/調頻.md "wikilink") 97.5。
+**IC之音（竹科廣播股份有限公司）**是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，於2002年2月25日開播，是由91位服務於[新竹科學工業園區的](../Page/新竹科學工業園區.md "wikilink")[企業主管集資成立的廣播電台](https://zh.wikipedia.org/wiki/企業主管 "wikilink")，廣播地區為[新竹](../Page/新竹都會區.md "wikilink")、[桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")、[苗栗](../Page/苗栗縣.md "wikilink")，部份台北地區
+收聽[頻率為](https://zh.wikipedia.org/wiki/頻率 "wikilink")[FM](https://zh.wikipedia.org/wiki/調頻 "wikilink")
+97.5。
 
-IC之音致力於[財經](../Page/財經.md "wikilink")[科技與](../Page/科技.md "wikilink")[人文](../Page/人文.md "wikilink")[藝術的內容製作](../Page/藝術.md "wikilink")，榮獲24座金鐘獎肯定，節目製播方針為「資訊國際化」、「內容社群化」、「音樂心靈化」，並於2018年4月23日啟動台灣[第一個行動音頻](https://www.ic975.com/)。
+IC之音致力於[財經](https://zh.wikipedia.org/wiki/財經 "wikilink")[科技與](https://zh.wikipedia.org/wiki/科技 "wikilink")[人文](https://zh.wikipedia.org/wiki/人文 "wikilink")[藝術的內容製作](https://zh.wikipedia.org/wiki/藝術 "wikilink")，榮獲24座金鐘獎肯定，節目製播方針為「資訊國際化」、「內容社群化」、「音樂心靈化」，並於2018年4月23日啟動台灣[第一個行動音頻](https://www.ic975.com/)。
 
-在跨媒體方面：IC之音與[天下雜誌群](../Page/天下雜誌群.md "wikilink")（[天下雜誌](../Page/天下雜誌.md "wikilink")、[康健雜誌](../Page/康健雜誌.md "wikilink")、[Cheers快樂工作人雜誌](../Page/Cheers快樂工作人雜誌.md "wikilink")、[e天下雜誌](../Page/e天下雜誌.md "wikilink")）合作。
+在跨媒體方面：IC之音與[天下雜誌群](https://zh.wikipedia.org/wiki/天下雜誌群 "wikilink")（[天下雜誌](../Page/天下雜誌.md "wikilink")、[康健雜誌](../Page/康健雜誌.md "wikilink")、[Cheers快樂工作人雜誌](../Page/Cheers快樂工作人雜誌.md "wikilink")、[e天下雜誌](https://zh.wikipedia.org/wiki/e天下雜誌 "wikilink")）合作。
 
-在製播節目方面：在[台中地區](../Page/台中.md "wikilink")，IC之音與[全國廣播](../Page/全國廣播.md "wikilink")、[太陽廣播電台合作](../Page/太陽廣播電台.md "wikilink")。
+在製播節目方面：在[台中地區](https://zh.wikipedia.org/wiki/台中 "wikilink")，IC之音與[全國廣播](../Page/全國廣播.md "wikilink")、[太陽廣播電台合作](https://zh.wikipedia.org/wiki/太陽廣播電台 "wikilink")。
 
-在各[大專院校方面](../Page/大專院校.md "wikilink")：IC之音與[政大之聲](../Page/政大之聲.md "wikilink")（[國立政治大學](../Page/國立政治大學.md "wikilink")）、[清華電台](../Page/清華電台.md "wikilink")（[國立清華大學](../Page/國立清華大學.md "wikilink")）、[松濤電台](../Page/松濤電台.md "wikilink")（[國立中央大學](../Page/國立中央大學.md "wikilink")）、[輔大之聲](../Page/輔大之聲.md "wikilink")（[天主教輔仁大學](../Page/天主教輔仁大學.md "wikilink")）、[長榮之聲](../Page/長榮之聲.md "wikilink")（[長榮大學](../Page/長榮大學.md "wikilink")）合作。
+在各[大專院校方面](https://zh.wikipedia.org/wiki/大專院校 "wikilink")：IC之音與[政大之聲](../Page/政大之聲.md "wikilink")（[國立政治大學](../Page/國立政治大學.md "wikilink")）、[清華電台](https://zh.wikipedia.org/wiki/清華電台 "wikilink")（[國立清華大學](../Page/國立清華大學.md "wikilink")）、[松濤電台](https://zh.wikipedia.org/wiki/松濤電台 "wikilink")（[國立中央大學](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")）、[輔大之聲](https://zh.wikipedia.org/wiki/輔大之聲 "wikilink")（[天主教輔仁大學](https://zh.wikipedia.org/wiki/天主教輔仁大學 "wikilink")）、[長榮之聲](https://zh.wikipedia.org/wiki/長榮之聲 "wikilink")（[長榮大學](https://zh.wikipedia.org/wiki/長榮大學 "wikilink")）合作。
 
 ## 緣起
 

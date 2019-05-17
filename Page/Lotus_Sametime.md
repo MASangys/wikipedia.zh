@@ -1,5 +1,5 @@
 **Lotus
-Sametime**是一套企業用的[即時通訊應用程式](../Page/即時通訊.md "wikilink")，同時也是一套網頁型網路會議[應用程式](../Page/应用软件.md "wikilink")，Lotus
+Sametime**是一套企業用的[即時通訊應用程式](../Page/即時通訊.md "wikilink")，同時也是一套網頁型網路會議[應用程式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，Lotus
 Sametime是由[IBM公司的Lotus軟體部門所研發](../Page/IBM.md "wikilink")、銷售。
 
 Lotus Sametime能提供企業各種即時通訊的功效，包括顯示聯絡人的線上狀態（如離線、忙碌等）、用瀏覽器的網頁來進行遠端會議等。Lotus
@@ -14,23 +14,23 @@ Sametime。
 
 有關此，IBM第一家收併的業者為美國的Databeam，該公司提出一種資訊架構，透過該架構為用戶代管會議系統，如此用戶可以進行網路會議，例如透過網頁進行文字訊息的交談，以及用H.323協定來進行多媒體性的網路會議。
 
-另一家被收併的業者是[以色列的公司](../Page/以色列.md "wikilink")，該公司專長於聯絡人狀態的感知技術，透過該軟體技術可以知道網路另一端的聯絡人是在[線上](../Page/在线.md "wikilink")（Online）還是正在開會（Conferencing）等。
+另一家被收併的業者是[以色列的公司](../Page/以色列.md "wikilink")，該公司專長於聯絡人狀態的感知技術，透過該軟體技術可以知道網路另一端的聯絡人是在[線上](https://zh.wikipedia.org/wiki/在线 "wikilink")（Online）還是正在開會（Conferencing）等。
 
 ## 支援的作業系統
 
 Lotus
-Sametime分成伺服端與用戶端，用戶端部分可安裝在各種作業系統上執行，包括[Windows](../Page/Microsoft_Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
-OS等](../Page/Mac_OS.md "wikilink")；伺服端方面也同樣支援多種作業系統，包括Windows、Linux、[Solaris](../Page/Solaris.md "wikilink")、[AIX](../Page/AIX.md "wikilink")、i5/OS等。
+Sametime分成伺服端與用戶端，用戶端部分可安裝在各種作業系統上執行，包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+OS等](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")；伺服端方面也同樣支援多種作業系統，包括Windows、Linux、[Solaris](../Page/Solaris.md "wikilink")、[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")、i5/OS等。
 
 ## 運用閘道器與其他即訊軟體互通
 
 2007年4月IBM推出新版的Lotus Sametime：7.5.1版，新版具有多種新功效與新特點，其中一項新特點稱為Lotus
 Sametime Gateway（閘道器），透過閘道器Lotus
-Sametime能夠與[AIM](../Page/AOL即時通訊.md "wikilink")、[Yahoo\!
-Messenger](../Page/雅虎通.md "wikilink")、[Google
+Sametime能夠與[AIM](https://zh.wikipedia.org/wiki/AOL即時通訊 "wikilink")、[Yahoo\!
+Messenger](https://zh.wikipedia.org/wiki/雅虎通 "wikilink")、[Google
 Talk等其他即時通訊軟體進行通訊](../Page/Google_Talk.md "wikilink")。由於Google
-Talk用的是[XMPP通訊協定](../Page/XMPP.md "wikilink")，Lotus
-Sametime能透過XMPP的軟體工具（如[Jabber](../Page/Jabber.md "wikilink")）來與Google
+Talk用的是[XMPP通訊協定](https://zh.wikipedia.org/wiki/XMPP "wikilink")，Lotus
+Sametime能透過XMPP的軟體工具（如[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")）來與Google
 Talk互動。值得注意的是，Google Talk也是近陣子Lotus Sametime
 Gateway所唯一正式承認能夠互通的XMPP系統（或稱XMPP協定的應用程式）。
 
@@ -51,10 +51,10 @@ Sametime的本體程式就具有封存歸檔功效後，此2套管理工具的�
 
 ## 相關條目
 
-  - [GroupWise](../Page/GroupWise.md "wikilink") -
+  - [GroupWise](https://zh.wikipedia.org/wiki/GroupWise "wikilink") -
     [網威（Novell）公司推出的群組軟體](../Page/Novell.md "wikilink")，該軟體也具有即時訊息功效。
   - [Microsoft Office Live Communications
-    Server](../Page/Microsoft_Office_Live_Communications_Server.md "wikilink")
+    Server](https://zh.wikipedia.org/wiki/Microsoft_Office_Live_Communications_Server "wikilink")
     - [微軟（Microsoft）公司推出的即時傳訊伺服端軟體](../Page/微软.md "wikilink")。
 
 ## 參考資料
@@ -88,7 +88,7 @@ Sametime的本體程式就具有封存歸檔功效後，此2套管理工具的�
     [Trillian軟體的的外掛程式](../Page/Trillian.md "wikilink")，Trillian軟體加裝此外掛程式後即可與Sametime互通
 
   - [Meanwhile Project](http://meanwhile.sourceforge.net/) -
-    Meanwhile專案，該專案發展出可相容於Sametime的函式庫，並採[LGPL方式授權](../Page/LGPL.md "wikilink")
+    Meanwhile專案，該專案發展出可相容於Sametime的函式庫，並採[LGPL方式授權](https://zh.wikipedia.org/wiki/LGPL "wikilink")
 
   - [1](https://web.archive.org/web/20070927195615/http://forums.miranda-im.org/showthread.php?s=9bd1e19eb21ba4ccc86425dd3c14cbe9&t=4477)
     - [Miranda IM的外掛程式](../Page/Miranda_IM.md "wikilink")，可讓Miranda

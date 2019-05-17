@@ -3,11 +3,13 @@ Scratch**》（**LFS**）是等人编写的安装[Linux的教科书](../Page/Lin
 From Scratch网站上免费下载到，当前最新的版本为8.3\[1\]。
 
 为了保持LFS的基本性和专注性，另一本书《[Beyond Linux From
-Scratch](../Page/BLFS.md "wikilink")》（BLFS）提供了在LFS的基础上，进一步完善Linux基本系统的指引。在BLFS中，读者可以学习到如何为系统增加网络、[X桌面](../Page/X_Window系统.md "wikilink")、声音、打印机和扫描仪支持。从5.0版开始，BLFS开始与LFS的版本号保持同步。\[2\]
+Scratch](https://zh.wikipedia.org/wiki/BLFS "wikilink")》（BLFS）提供了在LFS的基础上，进一步完善Linux基本系统的指引。在BLFS中，读者可以学习到如何为系统增加网络、[X桌面](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")、声音、打印机和扫描仪支持。从5.0版开始，BLFS开始与LFS的版本号保持同步。\[2\]
 
-除了LFS和BLFS，还有描述[交叉编译的](../Page/交叉编译.md "wikilink")《[Cross Linux from
-Scratch](../Page/CLFS.md "wikilink")》（CLFS）以及专注于安全的《[Hardened Linux From
-Scratch](../Page/HLFS.md "wikilink")》（HLFS）。
+除了LFS和BLFS，还有描述[交叉编译的](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")《[Cross
+Linux from
+Scratch](https://zh.wikipedia.org/wiki/CLFS "wikilink")》（CLFS）以及专注于安全的《[Hardened
+Linux From
+Scratch](https://zh.wikipedia.org/wiki/HLFS "wikilink")》（HLFS）。
 
 ## 步骤
 
@@ -34,7 +36,7 @@ Scratch](../Page/HLFS.md "wikilink")》（HLFS）。
 采用Sysroot的方法来进行编译，好处是软件包的编译次数可以减少，坏处是不能支持在编译后对软件进行测试，必须要启动到目标平台上才能测试。
 
 :\*CLFS Embedded
-一般用于极小系统以及嵌入式系统。为此，它使用[uclibc而不是一般LFS使用的](../Page/uclibc.md "wikilink")[glibc](../Page/glibc.md "wikilink")。
+一般用于极小系统以及嵌入式系统。为此，它使用[uclibc而不是一般LFS使用的](https://zh.wikipedia.org/wiki/uclibc "wikilink")[glibc](https://zh.wikipedia.org/wiki/glibc "wikilink")。
 
 :\*该项目已停止维护，其官网已无法访问
 
@@ -62,63 +64,63 @@ BLFS）的项目，该项目实际是一个Wiki网站，依靠网友的自发贡
 <li><a href="../Page/Bash.md" title="wikilink">Bash</a> 3.1</li>
 <li><a href="../Page/Bash.md" title="wikilink">Bash</a> Documentation 3.1</li>
 <li><a href="../Page/Berkeley_DB.md" title="wikilink">Berkeley DB</a> 4.4.20</li>
-<li><a href="../Page/Binutils.md" title="wikilink">Binutils</a> 2.16.1</li>
-<li><a href="../Page/GNU_Bison.md" title="wikilink">Bison</a> 2.2</li>
+<li><a href="https://zh.wikipedia.org/wiki/Binutils" title="wikilink">Binutils</a> 2.16.1</li>
+<li><a href="https://zh.wikipedia.org/wiki/GNU_Bison" title="wikilink">Bison</a> 2.2</li>
 <li><a href="../Page/Bzip2.md" title="wikilink">Bzip2</a> 1.0.3</li>
-<li><a href="../Page/Coreutils.md" title="wikilink">Coreutils</a> 5.96</li>
-<li><a href="../Page/DejaGnu.md" title="wikilink">DejaGNU</a> 1.4.4</li>
-<li><a href="../Page/Diff.md" title="wikilink">Diffutils</a> 2.8.1</li>
+<li><a href="https://zh.wikipedia.org/wiki/Coreutils" title="wikilink">Coreutils</a> 5.96</li>
+<li><a href="https://zh.wikipedia.org/wiki/DejaGnu" title="wikilink">DejaGNU</a> 1.4.4</li>
+<li><a href="https://zh.wikipedia.org/wiki/Diff" title="wikilink">Diffutils</a> 2.8.1</li>
 <li><a href="../Page/E2fsprogs.md" title="wikilink">E2fsprogs</a> 1.39</li>
 <li><a href="../Page/Expect.md" title="wikilink">Expect</a> 5.43.0</li>
-<li><a href="../Page/file_(Unix).md" title="wikilink">File</a> 4.17</li>
-<li><a href="../Page/Find.md" title="wikilink">Findutils</a> 4.2.27</li>
-<li><a href="../Page/Flex_lexical_analyser.md" title="wikilink">Flex</a> 2.5.33</li>
-<li><a href="../Page/Gawk.md" title="wikilink">Gawk</a> 3.1.5</li>
-<li><a href="../Page/GNUコンパイラコレクション.md" title="wikilink">GCC</a> 4.0.3</li>
+<li><a href="https://zh.wikipedia.org/wiki/file_(Unix)" title="wikilink">File</a> 4.17</li>
+<li><a href="https://zh.wikipedia.org/wiki/Find" title="wikilink">Findutils</a> 4.2.27</li>
+<li><a href="https://zh.wikipedia.org/wiki/Flex_lexical_analyser" title="wikilink">Flex</a> 2.5.33</li>
+<li><a href="https://zh.wikipedia.org/wiki/Gawk" title="wikilink">Gawk</a> 3.1.5</li>
+<li><a href="https://zh.wikipedia.org/wiki/GNUコンパイラコレクション" title="wikilink">GCC</a> 4.0.3</li>
 <li><a href="../Page/Gettext.md" title="wikilink">Gettext</a> 0.14.5</li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/Glibc.md" title="wikilink">Glibc</a> 2.3.6</li>
+<li><a href="https://zh.wikipedia.org/wiki/Glibc" title="wikilink">Glibc</a> 2.3.6</li>
 <li>Glibc LibIDN add-on 2.3.6</li>
 <li><a href="../Page/Grep.md" title="wikilink">Grep</a> 2.5.1a</li>
-<li><a href="../Page/Groff_(software).md" title="wikilink">Groff</a> 1.18.1.1</li>
-<li><a href="../Page/GRUB.md" title="wikilink">GRUB</a> 0.97</li>
+<li><a href="https://zh.wikipedia.org/wiki/Groff_(software)" title="wikilink">Groff</a> 1.18.1.1</li>
+<li><a href="https://zh.wikipedia.org/wiki/GRUB" title="wikilink">GRUB</a> 0.97</li>
 <li><a href="../Page/Gzip.md" title="wikilink">Gzip</a> 1.3.5</li>
 <li>Iana-Etc 2.10</li>
 <li>Inetutils 1.4.2</li>
-<li><a href="../Page/iproute2.md" title="wikilink">IPRoute2</a> 2.6.16-060323</li>
+<li><a href="https://zh.wikipedia.org/wiki/iproute2" title="wikilink">IPRoute2</a> 2.6.16-060323</li>
 <li>Kbd 1.12</li>
-<li><a href="../Page/Less.md" title="wikilink">Less</a> 394</li>
+<li><a href="https://zh.wikipedia.org/wiki/Less" title="wikilink">Less</a> 394</li>
 <li>LFS-Bootscripts 6.2</li>
 <li><a href="../Page/Libtool.md" title="wikilink">Libtool</a> 1.5.22</li>
-<li><a href="../Page/Linux_kernel.md" title="wikilink">Linux</a> 2.6.16.27</li>
+<li><a href="https://zh.wikipedia.org/wiki/Linux_kernel" title="wikilink">Linux</a> 2.6.16.27</li>
 <li>Linux-Libc-Headers 2.6.12.0</li>
-<li><a href="../Page/M4.md" title="wikilink">M4</a> 1.4.4</li>
-<li><a href="../Page/make_(software).md" title="wikilink">Make</a> 3.80</li>
+<li><a href="https://zh.wikipedia.org/wiki/M4" title="wikilink">M4</a> 1.4.4</li>
+<li><a href="https://zh.wikipedia.org/wiki/make_(software)" title="wikilink">Make</a> 3.80</li>
 <li>Man-DB 2.4.3</li>
-<li><a href="../Page/Man_pages.md" title="wikilink">Man-pages</a> 2.34</li>
+<li><a href="https://zh.wikipedia.org/wiki/Man_pages" title="wikilink">Man-pages</a> 2.34</li>
 </ul></td>
 <td><ul>
 <li>Mktemp 1.5</li>
 <li>Module-Init-Tools 3.2.2</li>
 <li><a href="../Page/Ncurses.md" title="wikilink">Ncurses</a> 5.5</li>
-<li><a href="../Page/Patch.md" title="wikilink">Patch</a> 2.5.4</li>
+<li><a href="https://zh.wikipedia.org/wiki/Patch" title="wikilink">Patch</a> 2.5.4</li>
 <li><a href="../Page/Perl.md" title="wikilink">Perl</a> 5.8.8</li>
 <li>Procps 3.2.6</li>
 <li>Psmisc 22.2</li>
-<li><a href="../Page/Readline.md" title="wikilink">Readline</a> 5.1</li>
+<li><a href="https://zh.wikipedia.org/wiki/Readline" title="wikilink">Readline</a> 5.1</li>
 <li><a href="../Page/Sed.md" title="wikilink">Sed</a> 4.1.5</li>
-<li><a href="../Page/Shadow.md" title="wikilink">Shadow</a> 4.0.15</li>
+<li><a href="https://zh.wikipedia.org/wiki/Shadow" title="wikilink">Shadow</a> 4.0.15</li>
 <li>Sysklogd 1.4.1</li>
-<li><a href="../Page/Sysvinit.md" title="wikilink">Sysvinit</a> 2.86</li>
-<li><a href="../Page/tar.md" title="wikilink">tar</a> 1.15.1</li>
+<li><a href="https://zh.wikipedia.org/wiki/Sysvinit" title="wikilink">Sysvinit</a> 2.86</li>
+<li><a href="https://zh.wikipedia.org/wiki/tar" title="wikilink">tar</a> 1.15.1</li>
 <li><a href="../Page/Tcl.md" title="wikilink">Tcl</a> 8.4.13</li>
-<li><a href="../Page/Texinfo.md" title="wikilink">Texinfo</a> 4.8</li>
+<li><a href="https://zh.wikipedia.org/wiki/Texinfo" title="wikilink">Texinfo</a> 4.8</li>
 <li><a href="../Page/Udev.md" title="wikilink">Udev</a> 096</li>
 <li><a href="../Page/Udev.md" title="wikilink">Udev</a> Configuration Tarball</li>
 <li><a href="../Page/Util-linux.md" title="wikilink">Util-linux</a> 2.12r</li>
 <li><a href="../Page/Vim.md" title="wikilink">Vim</a> 7.0</li>
-<li><a href="../Page/Vim.md" title="wikilink">Vim</a> 7.0 <a href="../Page/language.md" title="wikilink">language</a> files (optional)</li>
+<li><a href="../Page/Vim.md" title="wikilink">Vim</a> 7.0 <a href="https://zh.wikipedia.org/wiki/language" title="wikilink">language</a> files (optional)</li>
 <li><a href="../Page/Zlib.md" title="wikilink">Zlib</a> 1.2.3</li>
 </ul></td>
 </tr>

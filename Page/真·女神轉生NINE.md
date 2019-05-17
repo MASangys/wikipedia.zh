@@ -6,7 +6,7 @@
 
 ## 相關條目
 
-  - [女神轉生](../Page/女神轉生.md "wikilink")
+  - [女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")
 
 [Category:女神轉生系列電子遊戲](https://zh.wikipedia.org/wiki/Category:女神轉生系列電子遊戲 "wikilink")
 

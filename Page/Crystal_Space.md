@@ -1,17 +1,17 @@
 **Crystal
-Space**是[3D构架](../Page/3D.md "wikilink")，用[C++语言编写](../Page/C++.md "wikilink")。开发者包括[Jorrit
-Tyberghein](../Page/Jorrit_Tyberghein.md "wikilink")。首个公开版本发布于1997年8月26日\[1\]通常用于电子游戏目的。是使用[GNU
+Space**是[3D构架](https://zh.wikipedia.org/wiki/3D "wikilink")，用[C++语言编写](../Page/C++.md "wikilink")。开发者包括[Jorrit
+Tyberghein](https://zh.wikipedia.org/wiki/Jorrit_Tyberghein "wikilink")。首个公开版本发布于1997年8月26日\[1\]通常用于电子游戏目的。是使用[GNU
 Lesser General Public
-License协议的](../Page/GNU_Lesser_General_Public_License.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，作为[SourceForge.net](../Page/SourceForge.net.md "wikilink")
+License协议的](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")[自由软件](../Page/自由软件.md "wikilink")，作为[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")
 2003年2月月度项目\[2\]
 
 可用[OpenGL](../Page/OpenGL.md "wikilink")（全平台）,
-[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")（全SDL平台），[X11](../Page/X11.md "wikilink")（Unix和GNU/Linux）或[SVGALib](../Page/SVGALib.md "wikilink")（GNU/Linux）。
+[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")（全SDL平台），[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")（Unix和GNU/Linux）或[SVGALib](https://zh.wikipedia.org/wiki/SVGALib "wikilink")（GNU/Linux）。
 
 ## 引擎设计
 
 Crystal
-Space使用[面向对象程序设计C](../Page/面向对象程序设计.md "wikilink")++编写。模块化程度高，多少的独立插件。[客户端程序通过Crystal](../Page/客户端程序.md "wikilink")
+Space使用[面向对象程序设计C](../Page/面向对象程序设计.md "wikilink")++编写。模块化程度高，多少的独立插件。[客户端程序通过Crystal](https://zh.wikipedia.org/wiki/客户端程序 "wikilink")
 Space的*Shared Class
 Facility*（SCF）使用[插件](../Page/插件.md "wikilink")，比如OpenGL
 3D渲染器，.
@@ -30,8 +30,9 @@ Space拥有2D和3D模块，声音，物理特性由[ODE或](../Page/Open_Dynamic
 
   - [游戏引擎](../Page/游戏引擎.md "wikilink")
   - [Yo Frankie\!](../Page/Yo_Frankie!.md "wikilink")
-  - [Crystal Entity Layer](../Page/Crystal_Entity_Layer.md "wikilink")
-  - [CELstart](../Page/CELstart.md "wikilink")
+  - [Crystal Entity
+    Layer](https://zh.wikipedia.org/wiki/Crystal_Entity_Layer "wikilink")
+  - [CELstart](https://zh.wikipedia.org/wiki/CELstart "wikilink")
 
 ## 引用
 
@@ -54,6 +55,6 @@ Space拥有2D和3D模块，声音，物理特性由[ODE或](../Page/Open_Dynamic
 
 1.  [Release history of Crystal
     Space](https://web.archive.org/web/20071021012040/http://gothapedia.com/manual/root/home/user/development/cs-SVN/trunk-old/docs/history.old)。记录于[Internet
-    Archive](../Page/Internet_Archive.md "wikilink")
+    Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")
 2.  [SourceForge.net Project of the Month,
     February 2003](http://sourceforge.net/potm/potm-2003-02.php)

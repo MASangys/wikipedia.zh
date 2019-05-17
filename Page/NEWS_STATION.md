@@ -3,7 +3,7 @@
 
 ## 另見
 
-  - [報導STATION](../Page/報導STATION.md "wikilink")（）
+  - [報導STATION](https://zh.wikipedia.org/wiki/報導STATION "wikilink")（）
 
 [Category:朝日電視台新聞節目](https://zh.wikipedia.org/wiki/Category:朝日電視台新聞節目 "wikilink")
 [Category:1985年日本電視節目](https://zh.wikipedia.org/wiki/Category:1985年日本電視節目 "wikilink")

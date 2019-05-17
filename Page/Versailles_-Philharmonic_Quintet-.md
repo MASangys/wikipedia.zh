@@ -1,12 +1,12 @@
 **Versailles -Philharmonic
-Quintet-**，[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](../Page/樂團.md "wikilink")。
-2007年3月，由[主唱](../Page/主唱.md "wikilink")[KAMIJO與](../Page/Kamijo.md "wikilink")[吉他手](../Page/吉他手.md "wikilink")[HIZAKI](http://en.wikipedia.org/wiki/Hizaki)為中心結成。
+Quintet-**，[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
+2007年3月，由[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[KAMIJO與](../Page/Kamijo.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[HIZAKI](http://en.wikipedia.org/wiki/Hizaki)為中心結成。
 加上之前HIZAKI自組團「HIZAKI grace
-project」中的[貝斯手Jasmine](../Page/貝斯手.md "wikilink")
-You與[藍華柳的吉他手TERU以及目黑鹿鳴館推薦的](../Page/藍華柳.md "wikilink")[鼓手YUKI](../Page/鼓手.md "wikilink")。
+project」中的[貝斯手Jasmine](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")
+You與[藍華柳的吉他手TERU以及目黑鹿鳴館推薦的](https://zh.wikipedia.org/wiki/藍華柳 "wikilink")[鼓手YUKI](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。
 
 剛出道的時候團名叫做**Versailles**
-，不過因為跟[美國某樂團同名](../Page/美國.md "wikilink")，故把名字改成Versailles
+，不過因為跟[美國某樂團同名](https://zh.wikipedia.org/wiki/美國 "wikilink")，故把名字改成Versailles
 -Philharmonic Quintet-（不過目前大部分的人都還是習慣只寫
 Versailles）。2009年6月24日以「ASCENDEAD MASTER」一曲正式出道。
 
@@ -14,7 +14,7 @@ Versailles）。2009年6月24日以「ASCENDEAD MASTER」一曲正式出道。
 You驚傳過世消息。由於當時新專輯正在錄製中，因此現在的BASS部分是由吉他手HIZAKI錄製，原本預定8月發行的新專輯也因此延到2010年1月20日發行。
 
 樂團於09年的[V-Rock
-Festival正式恢復活動](../Page/V-Rock_Festival.md "wikilink")，於2010年2月28日展開世界巡迴演唱會。
+Festival正式恢復活動](https://zh.wikipedia.org/wiki/V-Rock_Festival "wikilink")，於2010年2月28日展開世界巡迴演唱會。
 
 2010年9月4日支援貝斯手masashi正式加入，並改名為MASASHI。
 
@@ -180,7 +180,9 @@ A Noble was Born in Chaos (會場限定作品) - 2008年3月19日
 
 PRINCE & PRINCESS - 2008年12月10日（同年9月13日PRINCE一曲開放線上免費下載）
 
-[ASCENDEAD MASTER](../Page/ASCENDEAD_MASTER.md "wikilink") - 2009年6月24日
+[ASCENDEAD
+MASTER](https://zh.wikipedia.org/wiki/ASCENDEAD_MASTER "wikilink") -
+2009年6月24日
 
 DESTINY -THE LOVERS- - 2010年10月27日
 
@@ -188,18 +190,21 @@ Philia - 2011年3月16日
 
 Rhapsody of the Darkness - 2012年4月25日
 
-[ROSE](../Page/ROSE.md "wikilink") - 2012年7月4日
+[ROSE](https://zh.wikipedia.org/wiki/ROSE "wikilink") - 2012年7月4日
 
 ### 錄音室專輯
 
-[NOBLE](../Page/NOBLE.md "wikilink")【日本盤】（2008年7月16日）－2008年10月22日通常盤再發售。
+[NOBLE](https://zh.wikipedia.org/wiki/NOBLE "wikilink")【日本盤】（2008年7月16日）－2008年10月22日通常盤再發售。
 【世界盤】（2008年7月30日）
 
-[JUBILEE](../Page/JUBILEE.md "wikilink") （2010年1月20日）oricon專輯排行榜初登場4位
+[JUBILEE](https://zh.wikipedia.org/wiki/JUBILEE "wikilink")
+（2010年1月20日）oricon專輯排行榜初登場4位
 
-[Holy Grail](../Page/Holy_Grail_\(專輯\).md "wikilink") （2011年6月15日）
+[Holy Grail](https://zh.wikipedia.org/wiki/Holy_Grail_\(專輯\) "wikilink")
+（2011年6月15日）
 
-[Versailles](../Page/Versailles_\(專輯\).md "wikilink") （2012年9月26日）
+[Versailles](https://zh.wikipedia.org/wiki/Versailles_\(專輯\) "wikilink")
+（2012年9月26日）
 
 The Greatest Hits 2007-2016（2016年9月14日）
 
@@ -213,7 +218,8 @@ Lyrical Sympathy -Live- （2010年9月1日） Noble -Live- （2010年9月1日）
 
 ### EP
 
-[Lyrical Sympathy](../Page/Lyrical_Sympathy.md "wikilink")（2007年10月31日）-
+[Lyrical
+Sympathy](https://zh.wikipedia.org/wiki/Lyrical_Sympathy "wikilink")（2007年10月31日）-
 海外盤附加《Shout & Bites》PV收錄的DVD。
 
 ### DVD

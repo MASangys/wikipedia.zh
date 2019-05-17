@@ -1,29 +1,29 @@
 {{ otheruses | subject=一種軟體開發流程| other=橄欖球運動裡的爭球方法|列陣爭球}}
 [缩略图](https://zh.wikipedia.org/wiki/File:ScrumKim.png "fig:缩略图")
 
-**Scrum**是一种[敏捷软件开发的](../Page/敏捷软件开发.md "wikilink")[方法學](../Page/方法學.md "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](../Page/橄榄球.md "wikilink")[列陣爭球的意思](../Page/列陣爭球.md "wikilink")。
+**Scrum**是一种[敏捷软件开发的](../Page/敏捷软件开发.md "wikilink")[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球的意思](https://zh.wikipedia.org/wiki/列陣爭球 "wikilink")。
 
-虽然Scrum是为[管理软件开发项目而开发的](../Page/管理软件.md "wikilink")，它同样可以用于运行软件维护团队，或者作为计划管理方法。Scrum之间的合作称为“Scrum
+虽然Scrum是为[管理软件开发项目而开发的](https://zh.wikipedia.org/wiki/管理软件 "wikilink")，它同样可以用于运行软件维护团队，或者作为计划管理方法。Scrum之间的合作称为“Scrum
 of Scrums”。
 
 ## 历史
 
-  - 1986年，[竹内弘高和](../Page/竹内弘高.md "wikilink")[野中郁次郎阐述了一种新的](../Page/野中郁次郎.md "wikilink")[整体性的方法](../Page/整体论.md "wikilink")
-    ，该方法能够提高商业[新产品开发的速度和灵活性](../Page/新产品开发.md "wikilink")：\[1\]
-      - 他们将这种新的*整体性方法*与*[橄榄球](../Page/聯合式橄欖球.md "wikilink")*相比较，前者各阶段相互重叠，并且由一个跨职能团队在不同的阶段完成整个过程，而团队“作为一个整体前进，把球传来传去”。
+  - 1986年，[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")[野中郁次郎阐述了一种新的](../Page/野中郁次郎.md "wikilink")[整体性的方法](https://zh.wikipedia.org/wiki/整体论 "wikilink")
+    ，该方法能够提高商业[新产品开发的速度和灵活性](https://zh.wikipedia.org/wiki/新产品开发 "wikilink")：\[1\]
+      - 他们将这种新的*整体性方法*与*[橄榄球](https://zh.wikipedia.org/wiki/聯合式橄欖球 "wikilink")*相比较，前者各阶段相互重叠，并且由一个跨职能团队在不同的阶段完成整个过程，而团队“作为一个整体前进，把球传来传去”。
       - 他们对来自汽车，照片机器，计算机和打印机等产业的案例进行了研究。
 
 <!-- end list -->
 
   - 1991年，DeGrace和Stahl在《Wicked Problems, Righteous
-    Solutions》\[2\]一书中将这种方法称为[scrum](../Page/列陣爭球.md "wikilink")，在[竹内弘高和](../Page/竹内弘高.md "wikilink")
+    Solutions》\[2\]一书中将这种方法称为[scrum](https://zh.wikipedia.org/wiki/列陣爭球 "wikilink")，在[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")
     [野中郁次郎的文章中提到的橄榄球术语](../Page/野中郁次郎.md "wikilink")。
-  - 1990年代初，[肯·施瓦伯在其公司使用了一种方法Advanced](../Page/肯·施瓦伯.md "wikilink")
+  - 1990年代初，[肯·施瓦伯在其公司使用了一种方法Advanced](https://zh.wikipedia.org/wiki/肯·施瓦伯 "wikilink")
     Development Methods（先进开发方法），这种方法后来发展为Scrum。
-  - 同时，[杰夫·萨瑟兰在Easel公司开发了一种类似的方法](../Page/杰夫·萨瑟兰.md "wikilink")，并首次称之为Scrum。\[3\]
+  - 同时，[杰夫·萨瑟兰在Easel公司开发了一种类似的方法](https://zh.wikipedia.org/wiki/杰夫·萨瑟兰 "wikilink")，并首次称之为Scrum。\[3\]
   - 1995年，在奥斯汀举办的[OOPSLA
-    '95上](../Page/OOPSLA.md "wikilink")，萨瑟兰和施瓦伯联合发表了论文首次提出了Scrum概念。施瓦伯和萨瑟兰在接下的几年里合作，将上述的文章，他们的经验，以及业界的最佳实践融合起来，形成我们现在所知的Scrum。
-  - 2001年，施瓦伯与[麦克·比窦](../Page/麦克·比窦.md "wikilink")（Mike
+    '95上](https://zh.wikipedia.org/wiki/OOPSLA "wikilink")，萨瑟兰和施瓦伯联合发表了论文首次提出了Scrum概念。施瓦伯和萨瑟兰在接下的几年里合作，将上述的文章，他们的经验，以及业界的最佳实践融合起来，形成我们现在所知的Scrum。
+  - 2001年，施瓦伯与[麦克·比窦](https://zh.wikipedia.org/wiki/麦克·比窦 "wikilink")（Mike
     Beedle）合著了《敏捷软件开发-使用Scrum过程》一书，介绍了Scrum方法。
 
 ## Scrum的特性
@@ -33,7 +33,7 @@ of Scrums”。
 Scrum是一个包括了一系列实践和预定义角色的过程骨架。Scrum中的主要角色包括：
 
 1.  **Scrum Master**是Scrum教练和团队带头人，确保团队合理的运作Scrum，并帮助团队扫除实施中的障碍；
-2.  **产品负责人**，确定产品的方向和愿景，定义产品发布的内容、优先级及交付时间，为产品[投資報酬率负责](../Page/投資報酬率.md "wikilink")；
+2.  **产品负责人**，确定产品的方向和愿景，定义产品发布的内容、优先级及交付时间，为产品[投資報酬率负责](https://zh.wikipedia.org/wiki/投資報酬率 "wikilink")；
 3.  **开发团队**，一个跨职能的小团队，人数5-9人，团队拥有交付可用软件需要的各种技能。
 
 在每一次冲刺或迭代（一个15到30天的周期，其长度由开发团队决定）当中，开发团队创建可用的（可以随时推出）软件的一个增量。每一个迭代所要实现的功能来自产品订单。产品订单按照优先级排列工作需求。在迭代计划会议中，产品负责人告诉开发团队需要完成产品订单中的哪些订单项。开发团队决定在下一次迭代中他们能够承诺完成多少订单项。\[4\]
@@ -43,7 +43,7 @@ Scrum是一个包括了一系列实践和预定义角色的过程骨架。Scrum�
 
 ## Scrum中的角色
 
-Scrum当中定义了许多角色。按照对开发过程的参与情况，这些角色被分为两组，即[猪组和](../Page/猪.md "wikilink")[鸡组](../Page/鸡.md "wikilink")。这个分组方法的由来是一个关于猪和鸡合伙开餐馆的笑话\[5\]：
+Scrum当中定义了许多角色。按照对开发过程的参与情况，这些角色被分为两组，即[猪组和](https://zh.wikipedia.org/wiki/猪 "wikilink")[鸡组](../Page/鸡.md "wikilink")。这个分组方法的由来是一个关于猪和鸡合伙开餐馆的笑话\[5\]：
 
 > 一天，一头猪和一只鸡在路上散步。鸡对猪说：“嗨，我们合伙开一家餐馆怎么样？”猪回头看了一下鸡说：“好主意，那你准备给餐馆起什么名字呢？”鸡想了想说：“叫‘火腿和鸡蛋’怎么样？”“那可不行”，猪说：“我把自己全搭进去了，而你只是参与而已。”
 
@@ -51,8 +51,9 @@ Scrum当中定义了许多角色。按照对开发过程的参与情况，这些
 
 *猪*是在Scrum过程中全身投入專案的各种人物，他们在專案中承担实际工作。他们有些像上边那个笑话里的猪，要把自己身上的肉贡献出来。
 
-  - [产品负责人](../Page/CSPO.md "wikilink")（product owner）
-    产品负责人代表了客户的意愿。这保证了Scrum团队在做从业务角度来说正确的事情。产品负责人编写[用户故事](../Page/用户故事.md "wikilink")，排出优先级，并放入产品订单。
+  - [产品负责人](https://zh.wikipedia.org/wiki/CSPO "wikilink")（product
+    owner）
+    产品负责人代表了客户的意愿。这保证了Scrum团队在做从业务角度来说正确的事情。产品负责人编写[用户故事](https://zh.wikipedia.org/wiki/用户故事 "wikilink")，排出优先级，并放入产品订单。
   - [Scrum主管](../Page/CSM.md "wikilink")（或促进者）（scrum master）
     Scrum主管促进
     *Scrum*过程，他的主要工作是去除那些影响团队交付冲刺目标的障碍。Scrum主管并非团队的领导（因为团队是自我组织的），而是一个负责屏蔽外界对开发团队的干扰的角色。Scrum主管确保Scrum过程被按照初衷使用。Scrum主管是规则的执行者。
@@ -61,7 +62,7 @@ Scrum当中定义了许多角色。按照对开发过程的参与情况，这些
 
 ### 鸡组的成员
 
-*雞*並不是實際Scrum過程的一部分，但是必须考慮他們。[敏捷方法的一個重要方面是使得用戶和利益相關](../Page/敏捷軟件開發.md "wikilink")​​者參與到過程中的實踐。參與每一個衝刺的評審和計劃，並提供反饋對於這些人來說是非常重要的。
+*雞*並不是實際Scrum過程的一部分，但是必须考慮他們。[敏捷方法的一個重要方面是使得用戶和利益相關](https://zh.wikipedia.org/wiki/敏捷軟件開發 "wikilink")​​者參與到過程中的實踐。參與每一個衝刺的評審和計劃，並提供反饋對於這些人來說是非常重要的。
 
   - 用户
     軟件是為了人而開發的。有人說，“假如森林裡有一棵樹倒下了，但沒有被人聽到，那麼它算是發出了聲音嗎？”同樣地，人們可以說，“假如軟件沒有被使用，那麼它算是被開發出來了麼？”
@@ -159,11 +160,11 @@ chart）是一个公开展示的图表，显示当前冲刺中未完成的任务
 ### Scrum用于产品开发
 
 将Scrum应用于产品开发是在《T新新产品开发游戏》（哈佛商业评论 86116:137-146,
-1986年）第一次提出，之后[野中郁次郎和](../Page/野中郁次郎.md "wikilink")[竹内弘高合著的](../Page/竹内弘高.md "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
+1986年）第一次提出，之后[野中郁次郎和](../Page/野中郁次郎.md "wikilink")[竹内弘高合著的](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")《创造知识的企业》（牛津大学出版社，1995年）进行了详细的阐述。今天Scrum被用于开发金融产品，互联网产品，以及医药产品。
 
 ### Scrum用作营销项目管理方法
 
-由于[市场营销通常以專案的方式运作](../Page/市场营销.md "wikilink")，许多一般專案管理的原则应用在市场营销上。市场营销也可以像[專案管理技术那样进行优化](../Page/專案管理.md "wikilink")。以Scrum方法进行市场营销被认为有助于克服市场营销经理们所遇到的问题。短时和固定的会议对于小的市场营销团队来说很重要，这是因为团队的每一个成员都可以了解其他人在做些什么，以及整个团队在朝着什么方向前进。Scrum在市场营销中应用可以：
+由于[市场营销通常以專案的方式运作](../Page/市场营销.md "wikilink")，许多一般專案管理的原则应用在市场营销上。市场营销也可以像[專案管理技术那样进行优化](https://zh.wikipedia.org/wiki/專案管理 "wikilink")。以Scrum方法进行市场营销被认为有助于克服市场营销经理们所遇到的问题。短时和固定的会议对于小的市场营销团队来说很重要，这是因为团队的每一个成员都可以了解其他人在做些什么，以及整个团队在朝着什么方向前进。Scrum在市场营销中应用可以：
 
   - 在早期发现可能的问题，可以更快地，最小损失地应对问题。 根据Scrum的主要原则
     “没有问题被扫入地毯下”，Scrum鼓励每一个团队成员描述他所遇到的困难，而这个困难可能会对整个团队的工作造成影响。
@@ -176,7 +177,7 @@ chart）是一个公开展示的图表，显示当前冲刺中未完成的任务
 
   - [改善法](../Page/改善法.md "wikilink")
 
-  - [用户故事](../Page/用户故事.md "wikilink")
+  - [用户故事](https://zh.wikipedia.org/wiki/用户故事 "wikilink")
 
   -
   - [极限编程](../Page/极限编程.md "wikilink") (**XP**) - 通常由Scrum驱动
@@ -232,17 +233,20 @@ chart）是一个公开展示的图表，显示当前冲刺中未完成的任务
   - [(PDF) Rising, L., Janoff, N.S. (2000). *The Scrum Software
     Development Process for Small
     Teams*](https://web.archive.org/web/20100821032618/http://members.cox.net/risingl1/Articles/IEEEScrum.pdf)
-    Retrieved [March 15](../Page/March_15.md "wikilink")，2007
+    Retrieved [March
+    15](https://zh.wikipedia.org/wiki/March_15 "wikilink")，2007
   - [(PDF) Schwaber, K. Advanced Development Methods. *SCRUM Development
     Process*](http://jeffsutherland.com/oopsla/schwapub.pdf) Retrieved
-    [August 15](../Page/August_15.md "wikilink")，2006
+    [August 15](https://zh.wikipedia.org/wiki/August_15 "wikilink")，2006
   - [(video) Jeff Sutherland in *Scrum Tuning: Lessons learned from
     Scrum implementation at
     Google*](http://video.google.com/videoplay?docid=8795214308797356840)
-    Retrieved [2007-12-15](../Page/2007-12-15.md "wikilink")
+    Retrieved
+    [2007-12-15](https://zh.wikipedia.org/wiki/2007-12-15 "wikilink")
   - [(video) Ken Schwaber in *Scrum et
     al.*](http://video.google.com/videoplay?docid=2531954797594836634)
-    Retrieved [2008-01-19](../Page/2008-01-19.md "wikilink")
+    Retrieved
+    [2008-01-19](https://zh.wikipedia.org/wiki/2008-01-19 "wikilink")
 
 [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
 [Category:管理学](https://zh.wikipedia.org/wiki/Category:管理学 "wikilink")

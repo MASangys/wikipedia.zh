@@ -1,13 +1,13 @@
 **BMC Software,
-Inc.**，是一家美国[企业管理软件提供商](../Page/企业战略管理.md "wikilink")，致力于IT基础设施应用软件。BMC创建于1980年，总部在[得克萨斯的](../Page/得克萨斯.md "wikilink")[休斯顿](../Page/休斯顿.md "wikilink")。
+Inc.**，是一家美国[企业管理软件提供商](https://zh.wikipedia.org/wiki/企业战略管理 "wikilink")，致力于IT基础设施应用软件。BMC创建于1980年，总部在[得克萨斯的](https://zh.wikipedia.org/wiki/得克萨斯 "wikilink")[休斯顿](https://zh.wikipedia.org/wiki/休斯顿 "wikilink")。
 
-BMC自称为业务服务管理（[BSM](../Page/BSM.md "wikilink")）概念的先导者，企业通过BSM提供软件解决方案，从而可以使企业从业务视角管理他们的IT基础设施。\[1\]
+BMC自称为业务服务管理（[BSM](https://zh.wikipedia.org/wiki/BSM "wikilink")）概念的先导者，企业通过BSM提供软件解决方案，从而可以使企业从业务视角管理他们的IT基础设施。\[1\]
 
 BMC的组织分为两个主要的业务部门，主机服务管理（Mainframe Service Management
 MSM）和企业服务管理（Enterprise Service Management ESM）.
-MSM部门包括现在的主机管理部门和他的企业工作计划与产出管理产品线。ESM部门包括包括他的服务管理和[身份管理业务](../Page/身份管理.md "wikilink")，分布式系统管理，和BMC性能管理产品线，还有2006年5月因合并[Identify
+MSM部门包括现在的主机管理部门和他的企业工作计划与产出管理产品线。ESM部门包括包括他的服务管理和[身份管理业务](https://zh.wikipedia.org/wiki/身份管理 "wikilink")，分布式系统管理，和BMC性能管理产品线，还有2006年5月因合并[Identify
 Software,
-Ltd.而出现的事务管理产品线](../Page/Identify_Software,_Ltd..md "wikilink")\[2\]
+Ltd.而出现的事务管理产品线](https://zh.wikipedia.org/wiki/Identify_Software,_Ltd. "wikilink")\[2\]
 
 ## BMC概览
 
@@ -91,11 +91,10 @@ Ltd.而出现的事务管理产品线](../Page/Identify_Software,_Ltd..md "wikil
 ## 简史
 
 1970年代末这段时间，BMC Software的创始人 Scott Boulett, [John
-Moores](../Page/John_Moores.md "wikilink")，和 Dan Cloer
-建立了一个合伙的编程伙伴，运作在得克萨斯的休斯顿附近。直到1980年，这个公司才正式依照法律成立，并正式命名为
-BMC Software, Inc.
-Moores是公司的第一任CEO，用他在壳牌石油做程序员的经验来改善为IBM主机提供的软件--当时的工业标准。
-1988年7月，BMC在[NASDAQ首次公开募股](../Page/NASDAQ.md "wikilink")（[IPO](../Page/IPO.md "wikilink")）.
+Moores](https://zh.wikipedia.org/wiki/John_Moores "wikilink")，和 Dan
+Cloer 建立了一个合伙的编程伙伴，运作在得克萨斯的休斯顿附近。直到1980年，这个公司才正式依照法律成立，并正式命名为 BMC
+Software, Inc. Moores是公司的第一任CEO，用他在壳牌石油做程序员的经验来改善为IBM主机提供的软件--当时的工业标准。
+1988年7月，BMC在[NASDAQ首次公开募股](https://zh.wikipedia.org/wiki/NASDAQ "wikilink")（[IPO](https://zh.wikipedia.org/wiki/IPO "wikilink")）.
 
 Moores在1987年从执行董事长和CEO的位置上卸任，由Max Watson继任。Moores
 1992年从BMC主席的位置上退休下来，那时候Watson也被认为会是主席的位置。
@@ -105,7 +104,7 @@ Moores在1987年从执行董事长和CEO的位置上卸任，由Max Watson继任
 Watson的继任者是BMC前负责产品管理和开发的高级副董事长Robert Beauchamp.
 在他任BMC的董事长和CEO期间，预见了很多重要的商业变革，例如把BMC的股票转移到纽约证券交易所[New
 York Stock
-Exchange](../Page/New_York_Stock_Exchange.md "wikilink")（[NYSE](../Page/NYSE.md "wikilink")），把BMC重组成11个业务单元；
+Exchange](https://zh.wikipedia.org/wiki/New_York_Stock_Exchange "wikilink")（[NYSE](https://zh.wikipedia.org/wiki/NYSE "wikilink")），把BMC重组成11个业务单元；
 精简销售和市场过程的策略，还有提出了业务服务管理（Business Service
 Management）的概念；从业务的角度来管理IT的方法。\[4\]
 
@@ -124,9 +123,9 @@ Management）的概念；从业务的角度来管理IT的方法。\[4\]
 
   - **IT服务管理**
 
-这一类软件提供，改进，并最大化驱动业务的IT服务的交付，包括[操作请求系统和Remedy](../Page/操作请求系统.md "wikilink")
+这一类软件提供，改进，并最大化驱动业务的IT服务的交付，包括[操作请求系统和Remedy](https://zh.wikipedia.org/wiki/操作请求系统 "wikilink")
 Help Desk服务支持解决方案（原来是由[Remedy
-Corporation开发的](../Page/Remedy_Corporation.md "wikilink")）和BMC的服务交付解决方案如BMC事件管理器和企业性能保证。
+Corporation开发的](https://zh.wikipedia.org/wiki/Remedy_Corporation "wikilink")）和BMC的服务交付解决方案如BMC事件管理器和企业性能保证。
 
   - **应用管理**
 
@@ -142,42 +141,49 @@ BMC应用管理解决方案把用户放到一个应用的环境里，而不用�
   - RealOps, Inc.－2009年7月
   - ProactiveNet, Inc.－2009年6月
   - [Identify Software
-    Ltd.](../Page/Identify_Software_Ltd..md "wikilink")－2009年5月
-  - [KMXperts](../Page/KMXperts.md "wikilink")－2009年8月
-  - [OpenNetwork](../Page/OpenNetwork.md "wikilink")－2009年3月
-  - [Calendra](../Page/Calendra.md "wikilink")－2009年1月
+    Ltd.](https://zh.wikipedia.org/wiki/Identify_Software_Ltd. "wikilink")－2009年5月
+  - [KMXperts](https://zh.wikipedia.org/wiki/KMXperts "wikilink")－2009年8月
+  - [OpenNetwork](https://zh.wikipedia.org/wiki/OpenNetwork "wikilink")－2009年3月
+  - [Calendra](https://zh.wikipedia.org/wiki/Calendra "wikilink")－2009年1月
   - Viadyne－2009年7月
   - Marimba－2009年7月
-  - [Magic Solutions](../Page/Magic_Solutions.md "wikilink")－2009年2月
-  - [ASA Knowledge](../Page/ASA_Knowledge.md "wikilink")－2009年1月
-  - [IT Masters](../Page/IT_Masters.md "wikilink")－2009年3月
+  - [Magic
+    Solutions](https://zh.wikipedia.org/wiki/Magic_Solutions "wikilink")－2009年2月
+  - [ASA
+    Knowledge](https://zh.wikipedia.org/wiki/ASA_Knowledge "wikilink")－2009年1月
+  - [IT
+    Masters](https://zh.wikipedia.org/wiki/IT_Masters "wikilink")－2009年3月
   - [Action Request
-    System](../Page/Action_Request_System.md "wikilink")，assets from
-    Peregrine Systems－2009年11月
+    System](https://zh.wikipedia.org/wiki/Action_Request_System "wikilink")，assets
+    from Peregrine Systems－2009年11月
   - Simulus Limited－2009年4月
   - AgentSpring－2009年3月
-  - [Perform, SA](../Page/Perform,_SA.md "wikilink")－2009年2月
+  - [Perform,
+    SA](https://zh.wikipedia.org/wiki/Perform,_SA "wikilink")－2009年2月
   - [Sylvain Faust,
-    Inc.](../Page/Sylvain_Faust,_Inc..md "wikilink")－2009年10月
+    Inc.](https://zh.wikipedia.org/wiki/Sylvain_Faust,_Inc. "wikilink")－2009年10月
   - [OptiSystems
-    Solutions](../Page/OptiSystems_Solutions.md "wikilink")－2009年8月
-  - [Evity Inc.](../Page/Evity_Inc..md "wikilink")－2009年4月
+    Solutions](https://zh.wikipedia.org/wiki/OptiSystems_Solutions "wikilink")－2009年8月
+  - [Evity
+    Inc.](https://zh.wikipedia.org/wiki/Evity_Inc. "wikilink")－2009年4月
   - OTL Software－1999年11月
   - [New Dimension
-    Software](../Page/New_Dimension_Software.md "wikilink")－1999年4月
+    Software](https://zh.wikipedia.org/wiki/New_Dimension_Software "wikilink")－1999年4月
   - [Boole & Babbage,
-    Inc.](../Page/Boole_&_Babbage,_Inc..md "wikilink")－1999年3月
-  - [BGS Systems](../Page/BGS_Systems.md "wikilink")－1998年3月
-  - [DataTools](../Page/DataTools.md "wikilink")－1997年5月
+    Inc.](https://zh.wikipedia.org/wiki/Boole_&_Babbage,_Inc. "wikilink")－1999年3月
+  - [BGS
+    Systems](https://zh.wikipedia.org/wiki/BGS_Systems "wikilink")－1998年3月
+  - [DataTools](https://zh.wikipedia.org/wiki/DataTools "wikilink")－1997年5月
   - HawkNet, Inc.－1996年1月
   - Peer Networks, Inc.－1995年11月
   - [PATROL
-    Software](../Page/PATROL_Software.md "wikilink")－1994年1月\[6\]
+    Software](https://zh.wikipedia.org/wiki/PATROL_Software "wikilink")－1994年1月\[6\]
 
 ## 参考
 
-  - [CONTROL-M](../Page/CONTROL-M.md "wikilink")
-  - [Remedy Corporation](../Page/Remedy_Corporation.md "wikilink")
+  - [CONTROL-M](https://zh.wikipedia.org/wiki/CONTROL-M "wikilink")
+  - [Remedy
+    Corporation](https://zh.wikipedia.org/wiki/Remedy_Corporation "wikilink")
 
 ## 参考资料
 

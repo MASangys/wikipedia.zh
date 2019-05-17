@@ -1,11 +1,11 @@
 《**BZFlag**》 ( ***B**attle **Z**one capture the **Flag***)
 是三维第一人称坦克射击游戏。Chris
 Schoeneman原为SGI系列计算机编写，基于经典游戏
-[Battlezone](../Page/Battlezone.md "wikilink")。[Tim
-Riker和一个团队维护现在的版本](../Page/Tim_Riker.md "wikilink")，而且已经开源了。这个项目的资源都在[SourceForge.net](../Page/SourceForge.net.md "wikilink")。虽然以前位[SGI](../Page/Silicon_Graphics.md "wikilink")
-计算机运行的[IRIX设计](../Page/IRIX.md "wikilink")，现在已经支持[Windows](../Page/Microsoft_Windows.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
+[Battlezone](https://zh.wikipedia.org/wiki/Battlezone "wikilink")。[Tim
+Riker和一个团队维护现在的版本](https://zh.wikipedia.org/wiki/Tim_Riker "wikilink")，而且已经开源了。这个项目的资源都在[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")。虽然以前位[SGI](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink")
+计算机运行的[IRIX设计](../Page/IRIX.md "wikilink")，现在已经支持[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris](../Page/Solaris.md "wikilink")，和其他平台。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris](../Page/Solaris.md "wikilink")，和其他平台。
 
 BZFlag相当流行，2004年12月11日，成为SourceForge.net第三个下载量突破100万的游戏项目。任何时候都有至少250个活动的服务器，
 10-20%有玩家\[1\]2008年10月31日，有21300多玩家在官方论坛注册。
@@ -22,9 +22,11 @@ BZFlag 曾是 SourceForge.net的 Project of the Month for April 2004。\[3\]
 
 游戏风格可以改变游戏目标。游戏风格是服务端决定，由服务端管理者选择。如果没有管理指定，那么目标就是杀死对立的坦克，称为"free for
 all"，简写为 "FFA"。 3种其他目标和与之相称的风格（共4种）:*“夺旗模式”"capture-the-flag"* ( "CTF")
-夺取对话搜的旗帜带回己方**基地**； "[rabbit](../Page/rabbit.md "wikilink") chase"
-任何猎人去破坏一个白色坦克，叫做"rabbit"； "King of the Hill"，坦克滞留在一定区域而不被杀死，"The
-King of the Hill"。
+夺取对话搜的旗帜带回己方**基地**；
+"[rabbit](https://zh.wikipedia.org/wiki/rabbit "wikilink") chase"
+任何猎人去破坏一个白色坦克，叫做"rabbit"； "King of the
+Hill"，坦克滞留在一定区域而不被杀死，"The King of the
+Hill"。
 
 服务器自定义游戏模式和设置。包括信息过滤，反作弊。
 
@@ -38,17 +40,17 @@ King of the Hill"。
 
 BZFlag包括三个程序：
 
-  - BZFS - [服务端](../Page/服务端.md "wikilink")
-  - BZFlag - [客户端](../Page/客户端.md "wikilink")
+  - BZFS - [服务端](https://zh.wikipedia.org/wiki/服务端 "wikilink")
+  - BZFlag - [客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")
   - BZAdmin - 轻量级控制台程序
 
 手册（使用 \*nix
-[Manpage格式](../Page/Manpage.md "wikilink")），数据文件和配置文件生成器（[HTML](../Page/HTML.md "wikilink")）辅助建立[服务器](../Page/服务器.md "wikilink")。
+[Manpage格式](https://zh.wikipedia.org/wiki/Manpage "wikilink")），数据文件和配置文件生成器（[HTML](../Page/HTML.md "wikilink")）辅助建立[服务器](../Page/服务器.md "wikilink")。
 Microsoft Windows版本中，BZFS开始就有默认设置。
 
 ### 翻译
 
-除了英语，BZFlag使用12种[语言](../Page/语言.md "wikilink")：[捷克语](../Page/捷克语.md "wikilink")，[丹麦语](../Page/丹麦语.md "wikilink")，[挪威语](../Page/挪威语.md "wikilink")，[德语](../Page/德语.md "wikilink")，[Leet](../Page/Leet.md "wikilink")，[西班牙语](../Page/西班牙语.md "wikilink")，[法语](../Page/法语.md "wikilink")，[意大利语](../Page/意大利语.md "wikilink")，[刚果语](../Page/刚果语.md "wikilink")，[立陶宛语](../Page/立陶宛语.md "wikilink")，[波兰语](../Page/波兰语.md "wikilink")，[瑞典语](../Page/瑞典语.md "wikilink")，北美乡间语言。
+除了英语，BZFlag使用12种[语言](https://zh.wikipedia.org/wiki/语言 "wikilink")：[捷克语](../Page/捷克语.md "wikilink")，[丹麦语](../Page/丹麦语.md "wikilink")，[挪威语](../Page/挪威语.md "wikilink")，[德语](../Page/德语.md "wikilink")，[Leet](../Page/Leet.md "wikilink")，[西班牙语](../Page/西班牙语.md "wikilink")，[法语](../Page/法语.md "wikilink")，[意大利语](../Page/意大利语.md "wikilink")，[刚果语](../Page/刚果语.md "wikilink")，[立陶宛语](../Page/立陶宛语.md "wikilink")，[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")，[瑞典语](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")，北美乡间语言。
 
 ### 组队
 
@@ -59,16 +61,16 @@ Microsoft Windows版本中，BZFS开始就有默认设置。
 "rabbit-hunt"游戏中的"rabbit"对抗其他所有玩家——棕黄色的 "hunters"。
 
 "capture-the-flag“中团队必要，但rogue也可以进入游戏（加入管理者允许），做什么都是自己的自由。
-有些玩家不懂得组队，进入游戏后滥杀队友，故有些服务器设置**[屏蔽](../Page/屏蔽.md "wikilink")"ban"**。
+有些玩家不懂得组队，进入游戏后滥杀队友，故有些服务器设置**[屏蔽](https://zh.wikipedia.org/wiki/屏蔽 "wikilink")"ban"**。
 
 ### 人工智能
 
-BZFlag有两种[人工智能](../Page/人工智能.md "wikilink")：选择[自动驾驶或者机器人](../Page/自动驾驶.md "wikilink")。后者使用所有人类拥有的功能，但是它们不能对时机做出判断，比如选择性的跳跃－所有存活的久的bot往往是因为[lag](../Page/lag.md "wikilink")。
+BZFlag有两种[人工智能](../Page/人工智能.md "wikilink")：选择[自动驾驶或者机器人](https://zh.wikipedia.org/wiki/自动驾驶 "wikilink")。后者使用所有人类拥有的功能，但是它们不能对时机做出判断，比如选择性的跳跃－所有存活的久的bot往往是因为[lag](https://zh.wikipedia.org/wiki/lag "wikilink")。
 
 ### 发行
 
 BZFlag目前在[GNU Lesser General Public
-License下发行](../Page/GNU_Lesser_General_Public_License.md "wikilink")，网站设在SourceForge，大部分Linux
+License下发行](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")，网站设在SourceForge，大部分Linux
 BSD发行版都有此游戏。
 
 ## 服务器情况
@@ -83,15 +85,16 @@ BZFlag随机地图常见。
 
 BZFlag 使用 [C++](../Page/C++.md "wikilink") 开发
 [OpenGL](../Page/OpenGL.md "wikilink")
-渲染。音频和文件管理之类针对专门的系统编写。较新的版本使用[SDL适应多数平台](../Page/Simple_DirectMedia_Layer.md "wikilink")，除了Microsoft
-Windows。[Texture使用](../Page/Texture.md "wikilink")[PNG格式](../Page/PNG.md "wikilink")，音频使用[WAV](../Page/WAV.md "wikilink")。C语言编写的[Zlib解压档案](../Page/Zlib.md "wikilink")。
+渲染。音频和文件管理之类针对专门的系统编写。较新的版本使用[SDL适应多数平台](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，除了Microsoft
+Windows。[Texture使用](https://zh.wikipedia.org/wiki/Texture "wikilink")[PNG格式](../Page/PNG.md "wikilink")，音频使用[WAV](../Page/WAV.md "wikilink")。C语言编写的[Zlib解压档案](../Page/Zlib.md "wikilink")。
 
 ### 开发者
 
 开发者迅速增长，但是只有64人名单，比实际贡献者人数少很多。 Tim Riker进行主要维护兼之 [David
-Trowbridge和](../Page/David_Trowbridge.md "wikilink")[Sean
-Morrison提供帮助](../Page/Sean_Morrison.md "wikilink")。 原作者 [Chris
-Schoeneman不再管理了](../Page/Chris_Schoeneman.md "wikilink")。
+Trowbridge和](https://zh.wikipedia.org/wiki/David_Trowbridge "wikilink")[Sean
+Morrison提供帮助](https://zh.wikipedia.org/wiki/Sean_Morrison "wikilink")。
+原作者 [Chris
+Schoeneman不再管理了](https://zh.wikipedia.org/wiki/Chris_Schoeneman "wikilink")。
 
 ### 官方IRC
 

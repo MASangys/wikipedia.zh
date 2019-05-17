@@ -1,11 +1,11 @@
-**星河頻道**（）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司擁有的一條以](../Page/電視廣播\(國際\)有限公司.md "wikilink")[華語廣播而經營的衛星頻道](../Page/華語.md "wikilink")，該頻道每日以[粤語及](../Page/粤語.md "wikilink")[國語廣播播放](../Page/國語.md "wikilink")[香港無綫電視所製播的電視劇為主](../Page/香港無綫電視.md "wikilink")。
+**星河頻道**（）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司擁有的一條以](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[華語廣播而經營的衛星頻道](https://zh.wikipedia.org/wiki/華語 "wikilink")，該頻道每日以[粤語及](https://zh.wikipedia.org/wiki/粤語 "wikilink")[國語廣播播放](https://zh.wikipedia.org/wiki/國語 "wikilink")[香港無綫電視所製播的電視劇為主](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")。
 
 於1998年12月7日，**電視廣播（衛星）有限公司**成立，是唯一一個為進軍海外中文衛星電視市場，以華語廣播的**星河頻道**開播，該頻道及同屬的[TVB8獲](../Page/TVB8.md "wikilink")[中華人民共和國國家廣播電影電視總局批准在中國大陸境内落地收看](../Page/国家广播电影电视总局.md "wikilink")，為三星或以上級別酒店和涉外單位提供服務。2018年1月1日此頻道全新改版。
 
 ## 節目
 
 [TVB_Xing_He_logo.svg](https://zh.wikipedia.org/wiki/File:TVB_Xing_He_logo.svg "fig:TVB_Xing_He_logo.svg")
-TVB星河頻道除了大部分時間以[粤語及](../Page/粤語.md "wikilink")[國語廣播播放](../Page/國語.md "wikilink")[香港無綫電視所製播的電視劇之外](../Page/香港無綫電視.md "wikilink")，其餘時間播放少量香港無綫電視節目、該頻道自製節目以及外購中國大陸電視劇（現已取消）。
+TVB星河頻道除了大部分時間以[粤語及](https://zh.wikipedia.org/wiki/粤語 "wikilink")[國語廣播播放](https://zh.wikipedia.org/wiki/國語 "wikilink")[香港無綫電視所製播的電視劇之外](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")，其餘時間播放少量香港無綫電視節目、該頻道自製節目以及外購中國大陸電視劇（現已取消）。
 
 ### 自製節目
 
@@ -91,11 +91,11 @@ TVB星河頻道把每日所播放的劇集編排分為不同系列
 
 ## 各地版本播放
 
-**星河頻道**共分為兩個地區播放版本：亞太版本在[香港以外的](../Page/香港.md "wikilink")[中國大陸](../Page/中國大陸.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](../Page/馬來西亞.md "wikilink")[澳洲收看](../Page/澳洲.md "wikilink")；泰國版本僅在[泰國透過](../Page/泰國.md "wikilink")[TrueVisions收看](../Page/TrueVisions.md "wikilink")。
+**星河頻道**共分為兩個地區播放版本：亞太版本在[香港以外的](../Page/香港.md "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[澳洲收看](https://zh.wikipedia.org/wiki/澳洲 "wikilink")；泰國版本僅在[泰國透過](https://zh.wikipedia.org/wiki/泰國 "wikilink")[TrueVisions收看](../Page/TrueVisions.md "wikilink")。
 
-亞太版本現時在[中國大陸](../Page/中國大陸.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](../Page/馬來西亞.md "wikilink")[澳洲收看](../Page/澳洲.md "wikilink")，該版本與泰國版本所播放的節目內容不同。另外，某些直播商可能会在[六合彩开奖时段将频道切换为](../Page/六合彩.md "wikilink")[J2](../Page/J2.md "wikilink")，节目结束后切回星河频道。
+亞太版本現時在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[澳洲收看](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，該版本與泰國版本所播放的節目內容不同。另外，某些直播商可能会在[六合彩开奖时段将频道切换为](../Page/六合彩.md "wikilink")[J2](../Page/J2.md "wikilink")，节目结束后切回星河频道。
 
-泰國版本現時僅在[泰國收看](../Page/泰國.md "wikilink")，該版本與亞太版本所播放的節目內容不同，泰國版本主要以亞太版本的節目為基礎，再進行重新編排播放，其播放節目均以泰語廣播為主，不提供字幕。
+泰國版本現時僅在[泰國收看](https://zh.wikipedia.org/wiki/泰國 "wikilink")，該版本與亞太版本所播放的節目內容不同，泰國版本主要以亞太版本的節目為基礎，再進行重新編排播放，其播放節目均以泰語廣播為主，不提供字幕。
 
 ## 參考資料
 

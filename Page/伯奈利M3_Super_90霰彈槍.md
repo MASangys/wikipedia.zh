@@ -1,5 +1,5 @@
 **伯奈利M3（Super90）**（[英文](../Page/英语.md "wikilink")：**Benelli M3 Super
-90**）是一種可半自動可[泵動式兩用](../Page/泵動式.md "wikilink")[霰彈槍](../Page/霰彈槍.md "wikilink")，發射[12鉛徑霰彈](../Page/12鉛徑霰彈.md "wikilink")。由[意大利槍支製造商](../Page/意大利.md "wikilink")[伯奈利](../Page/伯奈利.md "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察部隊和民間運動員喜愛](../Page/警察.md "wikilink")。
+90**）是一種可半自動可[泵動式兩用](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利槍支製造商](../Page/意大利.md "wikilink")[伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察部隊和民間運動員喜愛](../Page/警察.md "wikilink")。
 
 ## 衍生型
 
@@ -10,9 +10,9 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
 
   -
   -   - 警察單位
-      - [加拿大武裝部隊](../Page/加拿大軍事.md "wikilink")[第二聯合特遣部隊](../Page/第二聯合特遣部隊.md "wikilink")
+      - [加拿大武裝部隊](https://zh.wikipedia.org/wiki/加拿大軍事 "wikilink")[第二聯合特遣部隊](../Page/第二聯合特遣部隊.md "wikilink")
 
-  -   - [克羅地亞共和國武裝部隊](../Page/克羅地亞共和國武裝部隊.md "wikilink")
+  -   - [克羅地亞共和國武裝部隊](https://zh.wikipedia.org/wiki/克羅地亞共和國武裝部隊 "wikilink")
 
   -   - [特種部隊單位](../Page/特種部隊.md "wikilink")（M3T）\[1\]
 
@@ -22,7 +22,7 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
 
   -   - [德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")
 
-      - [特別行動突擊隊](../Page/特別行動突擊隊.md "wikilink")
+      - [特別行動突擊隊](https://zh.wikipedia.org/wiki/特別行動突擊隊 "wikilink")
 
   -   - 特警單位
       - 特種部隊單位
@@ -31,11 +31,11 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
 
       - （M3T）\[4\]
 
-  -   - [愛爾蘭陸軍遊騎兵](../Page/愛爾蘭陸軍遊騎兵.md "wikilink")（M3T）
-      - [愛爾蘭和平衛隊](../Page/愛爾蘭和平衛隊.md "wikilink")
+  -   - [愛爾蘭陸軍遊騎兵](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")（M3T）
+      - [愛爾蘭和平衛隊](https://zh.wikipedia.org/wiki/愛爾蘭和平衛隊 "wikilink")
 
   -   -
-      - [義大利武裝部隊](../Page/義大利軍事.md "wikilink")單位\[5\]
+      - [義大利武裝部隊](https://zh.wikipedia.org/wiki/義大利軍事 "wikilink")單位\[5\]
 
   -   - [海上自衛隊](../Page/海上自衛隊.md "wikilink")（M3T Super 90）
 
@@ -43,15 +43,15 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
 
   -   - \[6\]\[7\]\[8\]
 
-  -   - [馬來西亞皇家警察](../Page/馬來西亞皇家警察.md "wikilink")[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")
+  -   - [馬來西亞皇家警察](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")[特別行動指揮部](../Page/特別行動指揮部.md "wikilink")
 
-  -   - [新西蘭國防軍](../Page/新西蘭國防軍.md "wikilink")
+  -   - [新西蘭國防軍](https://zh.wikipedia.org/wiki/新西蘭國防軍 "wikilink")
 
   -   -
   -
   -   - \[9\]
 
-  -   - [特別行動組](../Page/特別行動組_\(葡萄牙\).md "wikilink")
+  -   - [特別行動組](https://zh.wikipedia.org/wiki/特別行動組_\(葡萄牙\) "wikilink")
 
       -
   -   - 特警單位
@@ -59,11 +59,11 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
   -
   -
   -
-  -   - [警政署](../Page/警政署.md "wikilink")[維安特勤隊](../Page/維安特勤隊.md "wikilink")
+  -   - [警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[維安特勤隊](../Page/維安特勤隊.md "wikilink")
       - [中華民國國軍](../Page/中華民國國軍.md "wikilink")
           - [中華民國憲兵](../Page/中華民國憲兵.md "wikilink")
 
-  -   - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")
+  -   - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](https://zh.wikipedia.org/wiki/專業槍械司令部 "wikilink")
 
   -   - 部份地方警察局的[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")
 
@@ -78,11 +78,11 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
   - 2015年—《[-{zh-hans:彩虹六号：围攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow
     Six: Siege）：命名為「Super
-    90」，被[第二联合特遣部队所使用](../Page/第二联合特遣部队.md "wikilink")。
+    90」，被[第二联合特遣部队所使用](https://zh.wikipedia.org/wiki/第二联合特遣部队 "wikilink")。
 
 ## 參見
 
-  - [伯奈利](../Page/伯奈利.md "wikilink")
+  - [伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")
   - [伯奈利M1](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，前身。
   - [伯奈利M2](../Page/伯奈利M2_Super_90半自動霰彈槍.md "wikilink")，前身。
   - [伯奈利M4](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")，本槍的後繼槍，被美軍採用並命名為**M1014戰鬥霰彈槍**。
@@ -94,7 +94,7 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
   - [伯奈利拉斐爾CrioComfort](../Page/伯奈利拉斐爾CrioComfort半自動霰彈槍.md "wikilink")
   - [伯奈利達文西](../Page/伯奈利達文西半自動霰彈槍.md "wikilink")
   - [伯奈利超級達文西](../Page/伯奈利超級達文西半自動霰彈槍.md "wikilink")
-  - [戰鬥霰彈槍](../Page/戰鬥霰彈槍.md "wikilink")
+  - [戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")
 
 ## 参考文献
 

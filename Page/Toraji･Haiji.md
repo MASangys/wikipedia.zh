@@ -1,5 +1,5 @@
-**Toraji·Haiji**是[傑尼斯事務所旗下](../Page/傑尼斯事務所.md "wikilink")[傑尼斯娛樂所屬期間限定兩人組合](../Page/傑尼斯娛樂.md "wikilink")。由鯉之堀Toraji（[TOKIO的](../Page/TOKIO.md "wikilink")[國分太一](../Page/國分太一.md "wikilink")）和「鯉之堀Haiji」（[KinKi
-Kids的](../Page/KinKi_Kids.md "wikilink")[堂本剛](../Page/堂本剛.md "wikilink")）所組成。這是繼[J-FRIENDS後](../Page/J-FRIENDS.md "wikilink")，傑尼斯事務所相隔7年後再次推出的跨團體組合。\[1\]\[2\]
+**Toraji·Haiji**是[傑尼斯事務所旗下](../Page/傑尼斯事務所.md "wikilink")[傑尼斯娛樂所屬期間限定兩人組合](../Page/傑尼斯娛樂.md "wikilink")。由鯉之堀Toraji（[TOKIO的](https://zh.wikipedia.org/wiki/TOKIO "wikilink")[國分太一](https://zh.wikipedia.org/wiki/國分太一 "wikilink")）和「鯉之堀Haiji」（[KinKi
+Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")[堂本剛](../Page/堂本剛.md "wikilink")）所組成。這是繼[J-FRIENDS後](../Page/J-FRIENDS.md "wikilink")，傑尼斯事務所相隔7年後再次推出的跨團體組合。\[1\]\[2\]
 
 在這次跨組合組成的團體之後，下一隊同樣跨組合組成的團體是[修二與彰](../Page/修二與彰.md "wikilink")。
 
@@ -50,8 +50,8 @@ of Fantastipo』。
 
 ## 參閱
 
-  - [TOKIO](../Page/TOKIO.md "wikilink")
-  - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")
+  - [TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")
+  - [KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")
   - [修二與彰](../Page/修二與彰.md "wikilink")
 
 [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")

@@ -1,33 +1,33 @@
-在[至NET奇兵中](../Page/至NET奇兵.md "wikilink")，有很多首不同的歌曲，這條目是列出[至NET奇兵中的歌曲](../Page/至NET奇兵.md "wikilink")。
+在[至NET奇兵中](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，有很多首不同的歌曲，這條目是列出[至NET奇兵中的歌曲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")。
 
 ## 主題曲
 
 ### Un Monde Sans Danger
 
 Un Monde Sans
-Danger是[至NET奇兵的法文版主題曲](../Page/至NET奇兵.md "wikilink")，由[Franck
-Keller及](../Page/Franck_Keller.md "wikilink")[Ygal
-Amar作曲](../Page/Ygal_Amar.md "wikilink")，主唱為[Julien
-Lamassonne](../Page/Julien_Lamassonne.md "wikilink")，而[至NET奇兵動畫的法文版中播放的片頭曲是這首主題曲的濃縮版](../Page/至NET奇兵.md "wikilink")。
+Danger是[至NET奇兵的法文版主題曲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，由[Franck
+Keller及](https://zh.wikipedia.org/wiki/Franck_Keller "wikilink")[Ygal
+Amar作曲](https://zh.wikipedia.org/wiki/Ygal_Amar "wikilink")，主唱為[Julien
+Lamassonne](https://zh.wikipedia.org/wiki/Julien_Lamassonne "wikilink")，而[至NET奇兵動畫的法文版中播放的片頭曲是這首主題曲的濃縮版](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")。
 
 ### A World Without Danger
 
 A World Without
-Danger是[至NET奇兵的英文版主題曲](../Page/至NET奇兵.md "wikilink")，由[Franck
-Keller及](../Page/Franck_Keller.md "wikilink")[Ygal
-Amar作曲](../Page/Ygal_Amar.md "wikilink")，主唱及作詞為[Noam
-Kaniel](../Page/Noam_Kaniel.md "wikilink")，而[至NET奇兵動畫的英文版中播放的片頭曲是這首主題曲的濃縮版](../Page/至NET奇兵.md "wikilink")。
+Danger是[至NET奇兵的英文版主題曲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，由[Franck
+Keller及](https://zh.wikipedia.org/wiki/Franck_Keller "wikilink")[Ygal
+Amar作曲](https://zh.wikipedia.org/wiki/Ygal_Amar "wikilink")，主唱及作詞為[Noam
+Kaniel](https://zh.wikipedia.org/wiki/Noam_Kaniel "wikilink")，而[至NET奇兵動畫的英文版中播放的片頭曲是這首主題曲的濃縮版](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")。
 
 ## 片尾曲
 
 ### 第一輯片尾曲
 
-[至NET奇兵動畫第一輯的片尾曲是一首大約有](../Page/至NET奇兵.md "wikilink")10秒的音樂，而這首音樂是「Un
+[至NET奇兵動畫第一輯的片尾曲是一首大約有](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")10秒的音樂，而這首音樂是「Un
 Monde Sans Danger」及「A World Without Danger」的純音樂濃縮版。
 
 ### 第二至四輯片尾曲
 
-[至NET奇兵動畫第二至四輯的片尾曲是一首大約有](../Page/至NET奇兵.md "wikilink")30秒的音樂，而這首音樂是「S'envoler」及「Break
+[至NET奇兵動畫第二至四輯的片尾曲是一首大約有](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")30秒的音樂，而這首音樂是「S'envoler」及「Break
 Away」的純音樂濃縮版。
 
 ## 其他歌曲
@@ -35,14 +35,14 @@ Away」的純音樂濃縮版。
 ### Code Lyoko Featuring Subdigitals
 
 「Code Lyoko Featuring
-Subdigitals」是[至NET奇兵的唱片集](../Page/至NET奇兵.md "wikilink")，共有12首歌曲，是[門士戈夫為](../Page/門士戈夫.md "wikilink")[Subdigitals這隊](../Page/Subdigitals.md "wikilink")[至NET奇兵動畫中的虛構樂隊請來音樂人製作的唱片集](../Page/至NET奇兵.md "wikilink")，由Debra
+Subdigitals」是[至NET奇兵的唱片集](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，共有12首歌曲，是[門士戈夫為](https://zh.wikipedia.org/wiki/門士戈夫 "wikilink")[Subdigitals這隊](https://zh.wikipedia.org/wiki/Subdigitals "wikilink")[至NET奇兵動畫中的虛構樂隊請來音樂人製作的唱片集](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，由Debra
 Reynolds和Noam Kaniel所主唱。
-這唱片集先在2006年11月20日於[法國以法文推出](../Page/法國.md "wikilink"),
-其後在2007年6月19日於[美國以英文推出](../Page/美國.md "wikilink")。而這唱片集內，其中一首名叫「Planet
-Net」的歌曲配有一套音樂影片用來推廣這首音樂，另外[至NET奇兵的主題曲](../Page/至NET奇兵.md "wikilink")「Un
+這唱片集先在2006年11月20日於[法國以法文推出](https://zh.wikipedia.org/wiki/法國 "wikilink"),
+其後在2007年6月19日於[美國以英文推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。而這唱片集內，其中一首名叫「Planet
+Net」的歌曲配有一套音樂影片用來推廣這首音樂，另外[至NET奇兵的主題曲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")「Un
 Monde Sans Danger」及「A World Without Danger」也包含在這唱片集中。而「Planet
 Net」及「S'envoler/Break
-Away」曾於[至NET奇兵第](../Page/至NET奇兵.md "wikilink")89集「音樂淨化野獸」中變為濃縮版作插曲使用。
+Away」曾於[至NET奇兵第](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")89集「音樂淨化野獸」中變為濃縮版作插曲使用。
 
 「Code Lyoko Featuring Subdigitals」法英文歌名：
 

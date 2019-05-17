@@ -1,5 +1,5 @@
 **GI WINNING
-SIRE**是由[科樂美於](../Page/科樂美.md "wikilink")2002年發售的[代幣遊戲](../Page/代幣遊戲.md "wikilink")、[賽馬遊戲](../Page/賽馬.md "wikilink")。
+SIRE**是由[科樂美於](../Page/科樂美.md "wikilink")2002年發售的[代幣遊戲](https://zh.wikipedia.org/wiki/代幣遊戲 "wikilink")、[賽馬遊戲](../Page/賽馬.md "wikilink")。
 
 Ver.2於2003年發售。
 
@@ -8,7 +8,7 @@ Ver.2於2003年發售。
 ## 概要
 
 根據2001年日本中央競馬會的比賽日程表，來循環進行真實存在的草地賽賽事。亦保留了[GI LEADING
-SIRE的順時針及逆時針方向不同的賽道方向](../Page/GI_LEADING_SIRE.md "wikilink")。馬和騎師全部都用真名登場。OPEN賽是6匹、GIII、GII賽是8匹馬，GI賽是10匹馬作賽。實況在Ver.1是由[短波電台的](../Page/日經電台社.md "wikilink")[白川次郎作廣播員](../Page/白川次郎.md "wikilink")，Ver.2則是由[山本直也作廣播](../Page/山本直也.md "wikilink")。
+SIRE的順時針及逆時針方向不同的賽道方向](https://zh.wikipedia.org/wiki/GI_LEADING_SIRE "wikilink")。馬和騎師全部都用真名登場。OPEN賽是6匹、GIII、GII賽是8匹馬，GI賽是10匹馬作賽。實況在Ver.1是由[短波電台的](https://zh.wikipedia.org/wiki/日經電台社 "wikilink")[白川次郎作廣播員](https://zh.wikipedia.org/wiki/白川次郎 "wikilink")，Ver.2則是由[山本直也作廣播](https://zh.wikipedia.org/wiki/山本直也 "wikilink")。
 
 ## 遊戲內容
 
@@ -16,7 +16,7 @@ SIRE的順時針及逆時針方向不同的賽道方向](../Page/GI_LEADING_SIRE
 
   - 投注
       -
-        有[獨贏](../Page/獨贏.md "wikilink")、[馬單和](../Page/馬單.md "wikilink")[連贏三種投注方式](../Page/連贏.md "wikilink")，賠率由1.7倍到5000倍。有獎分（Bouns
+        有[獨贏](https://zh.wikipedia.org/wiki/獨贏 "wikilink")、[馬單和](https://zh.wikipedia.org/wiki/馬單 "wikilink")[連贏三種投注方式](../Page/連贏.md "wikilink")，賠率由1.7倍到5000倍。有獎分（Bouns
         Point）制度，贏了的分數會以相同的分數加進獎分，達到一定的獎分時在養成遊戲中可以使用特別訓練。最多可以儲存到兩次特別訓練。
 
 <!-- end list -->
@@ -42,11 +42,14 @@ SIRE的順時針及逆時針方向不同的賽道方向](../Page/GI_LEADING_SIRE
 
 ## 關聯作品
 
-  - [GI CLASSIC](../Page/GI_CLASSIC.md "wikilink")
-  - [GI CLASSIC WINDS](../Page/GI_CLASSIC_WINDS.md "wikilink")
-  - [GI CLASSIC EX](../Page/GI_CLASSIC_EX.md "wikilink")
-  - [GI LEADING SIRE](../Page/GI_LEADING_SIRE.md "wikilink")
-  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
+  - [GI CLASSIC](https://zh.wikipedia.org/wiki/GI_CLASSIC "wikilink")
+  - [GI CLASSIC
+    WINDS](https://zh.wikipedia.org/wiki/GI_CLASSIC_WINDS "wikilink")
+  - [GI CLASSIC
+    EX](https://zh.wikipedia.org/wiki/GI_CLASSIC_EX "wikilink")
+  - [GI LEADING
+    SIRE](https://zh.wikipedia.org/wiki/GI_LEADING_SIRE "wikilink")
+  - [GI TURFWILD](https://zh.wikipedia.org/wiki/GI_TURFWILD "wikilink")
 
 ## 外部連結
 

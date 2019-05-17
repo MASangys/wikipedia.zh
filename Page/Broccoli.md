@@ -1,5 +1,5 @@
-**株式會社Broccoli**（；[英語](../Page/英語.md "wikilink")：Broccoli
-Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主要以[動畫](../Page/動畫.md "wikilink")、[漫畫](../Page/漫畫.md "wikilink")、[遊戲的商品企劃](../Page/遊戲.md "wikilink")、製作以及精品銷售連鎖店[Gamers](../Page/Gamers.md "wikilink")。
+**株式會社Broccoli**（；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Broccoli
+Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主要以[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲的商品企劃](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、製作以及精品銷售連鎖店[Gamers](https://zh.wikipedia.org/wiki/Gamers "wikilink")。
 
 ## 概要
 
@@ -12,15 +12,16 @@ Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主�
   - [水瓶戰記](../Page/水瓶戰記.md "wikilink")
   - 銀河天使系列
       - [銀河天使](../Page/銀河天使.md "wikilink")
-      - [銀河天使II](../Page/銀河天使II.md "wikilink")
+      - [銀河天使II](https://zh.wikipedia.org/wiki/銀河天使II "wikilink")
 
 ### 交換卡片遊戲
 
-  - [Dimension0](../Page/Dimension0.md "wikilink")
-  - [Lycee](../Page/Lycee.md "wikilink")
-  - [仙境傳說卡片遊戲](../Page/仙境傳說卡片遊戲.md "wikilink")
+  - [Dimension0](https://zh.wikipedia.org/wiki/Dimension0 "wikilink")
+  - [Lycee](https://zh.wikipedia.org/wiki/Lycee "wikilink")
+  - [仙境傳說卡片遊戲](https://zh.wikipedia.org/wiki/仙境傳說卡片遊戲 "wikilink")
   - [RumblingAngel](../Page/RumblingAngel.md "wikilink")
-  - [PROJECT REVOLUTION](../Page/PROJECT_REVOLUTION.md "wikilink")
+  - [PROJECT
+    REVOLUTION](https://zh.wikipedia.org/wiki/PROJECT_REVOLUTION "wikilink")
   - [Monster Collection](../Page/Monster_Collection.md "wikilink")
   - [家庭教師ヒットマンREBORN\!CCG（キャラクターカードゲーム）](../Page/家庭教师HITMAN_REBORN!_CCG.md "wikilink")
   - [家庭教師ヒットマンREBORN\!CCGX（キャラクターカードゲーム
@@ -28,29 +29,33 @@ Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主�
 
 ### 電腦遊戲
 
-  - [Prism Palette](../Page/Prism_Palette.md "wikilink")
-  - [Princess concerto](../Page/Princess_concerto.md "wikilink")
-  - [First Kiss☆物語](../Page/First_Kiss☆物語.md "wikilink")
+  - [Prism
+    Palette](https://zh.wikipedia.org/wiki/Prism_Palette "wikilink")
+  - [Princess
+    concerto](https://zh.wikipedia.org/wiki/Princess_concerto "wikilink")
+  - [First
+    Kiss☆物語](https://zh.wikipedia.org/wiki/First_Kiss☆物語 "wikilink")
   - [伊希歐之夢](../Page/伊希歐之夢.md "wikilink")
-  - [新世紀福音戰士](../Page/新世紀福音戰士.md "wikilink")
+  - [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")
       -
       - 綾波育成計畫with明日香補完計畫
 
       - [新世紀福音戰士：Battle
-        Orchestra](../Page/新世紀福音戰士：Battle_Orchestra.md "wikilink")
+        Orchestra](https://zh.wikipedia.org/wiki/新世紀福音戰士：Battle_Orchestra "wikilink")
   - Sweets團隊作品
-      - [Gift -Prism-](../Page/Gift_\(遊戲\).md "wikilink")
+      - [Gift
+        -Prism-](https://zh.wikipedia.org/wiki/Gift_\(遊戲\) "wikilink")
       - [水夏A.S+ Eternal Name](../Page/水夏.md "wikilink")
       - 最終試験くじら
       - [D.C.the Origin](../Page/初音島.md "wikilink")
       - [真實之淚 true tears](../Page/真實之淚_true_tears.md "wikilink")（PS2版）
   - La'cryma團隊作品
       - [真實之淚 true tears](../Page/真實之淚_true_tears.md "wikilink")
-      - [空を飛ぶ、3つの方法。](../Page/空を飛ぶ、3つの方法。.md "wikilink")
+      - [空を飛ぶ、3つの方法。](https://zh.wikipedia.org/wiki/空を飛ぶ、3つの方法。 "wikilink")
 
 ## 參見
 
-  - [Gamers](../Page/Gamers.md "wikilink")
+  - [Gamers](https://zh.wikipedia.org/wiki/Gamers "wikilink")
 
 ## 外部連結
 

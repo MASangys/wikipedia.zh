@@ -1,23 +1,23 @@
-**LSI公司**（）是一家[总部位于](../Page/总部.md "wikilink")[美國](../Page/美國.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖荷西的](../Page/聖荷西_\(加利福尼亚州\).md "wikilink")[电子](../Page/电子.md "wikilink")[公司](../Page/公司.md "wikilink")，其主要业务是[设计](../Page/设计.md "wikilink")[ASIC](../Page/ASIC.md "wikilink")、主机总线适配器、RAID适配器、存储系统和计算机网络产品。公司在台湾使用中文名为“美商艾薩股份有限公司”，其在中国上海的分公司名为“艾萨华科技（上海）有限公司”。
+**LSI公司**（）是一家[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖荷西的](https://zh.wikipedia.org/wiki/聖荷西_\(加利福尼亚州\) "wikilink")[电子](../Page/电子.md "wikilink")[公司](../Page/公司.md "wikilink")，其主要业务是[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")[ASIC](https://zh.wikipedia.org/wiki/ASIC "wikilink")、主机总线适配器、RAID适配器、存储系统和计算机网络产品。公司在台湾使用中文名为“美商艾薩股份有限公司”，其在中国上海的分公司名为“艾萨华科技（上海）有限公司”。
 
 ## 历史
 
 Wilfred Corrigan于1979年辞掉快捷半导体公司（Fairchild
 Semiconductor）的首席执行官职务后，开始着手在加利福尼亚州的米尔皮塔斯(Milpitas)创建LSI公司，当时公司的主要业务是[半导体ASIC](../Page/半导体.md "wikilink")。公司的其他三位创始人还包括Bill
 O'Meara（负责市场营销与销售）、Rob Walker（负责工程设计）及Mitchell "Mick"
-Bohn（负责财务）。\[1\]公司于1981\[2\]年宣布正式成立，起始[资金为](../Page/资金.md "wikilink")600万美元，来自红杉资本（Sequoia
+Bohn（负责财务）。\[1\]公司于1981\[2\]年宣布正式成立，起始[资金为](https://zh.wikipedia.org/wiki/资金 "wikilink")600万美元，来自红杉资本（Sequoia
 Capital）等著名风险投资公司。截至1982年3月，公司完成了第二轮引资工作，又筹集了1600万美元。1983年5月13日星期五，公司在[纳斯达克](../Page/纳斯达克.md "wikilink")（Nasdaq）[股票交易所上市](../Page/股票.md "wikilink")，股票代号为LSI，IPO市值高达1.53亿美元，创下了当时有史以来最大规模的技术公司IPO市值记录。
 
 LSI在米尔皮塔斯拥有自己的晶圆制造厂、封装和测试设施，并利用东芝公司的富余生产能力制造产品，因此也是早期无工厂半导体制造模式的践行者之一。LSI
-Logic在[日本](../Page/日本.md "wikilink")、[欧洲和](../Page/欧洲.md "wikilink")[加拿大建立了独立的](../Page/加拿大.md "wikilink")[联营公司](../Page/联营.md "wikilink")，将业务范围扩展到全球。位于日本东京的Nihon
+Logic在[日本](../Page/日本.md "wikilink")、[欧洲和](../Page/欧洲.md "wikilink")[加拿大建立了独立的](../Page/加拿大.md "wikilink")[联营公司](https://zh.wikipedia.org/wiki/联营 "wikilink")，将业务范围扩展到全球。位于日本东京的Nihon
 LSI
-Logic公司于1984年4月以私募方式成功融资了2000万美元。位于[英国布拉克内尔的LSI](../Page/英国.md "wikilink")
+Logic公司于1984年4月以私募方式成功融资了2000万美元。位于[英国布拉克内尔的LSI](https://zh.wikipedia.org/wiki/英国 "wikilink")
 Logic公司于1984年6月以私募方式成功融资了2000万美元。位于加拿大阿尔伯塔（Alberta）卡尔加里（Calgary）的 LSI
 Logic
-Canada公司则在多伦多股票交易所上市。各联营公司均通过联盟、收购或独立发展的模式努力开发自己的制造能力。LSI于1985年与日本第三大钢铁制造商川崎钢铁公司成立合资公司，投资1亿美元在[日本筑波Tsukuba建立](../Page/日本.md "wikilink")[晶片制造厂](../Page/晶片.md "wikilink")。
+Canada公司则在多伦多股票交易所上市。各联营公司均通过联盟、收购或独立发展的模式努力开发自己的制造能力。LSI于1985年与日本第三大钢铁制造商川崎钢铁公司成立合资公司，投资1亿美元在[日本筑波Tsukuba建立](../Page/日本.md "wikilink")[晶片制造厂](https://zh.wikipedia.org/wiki/晶片 "wikilink")。
 
 LSI推出业界首款ASIC系列产品，可帮助客户利用最先进的专用CAD工具（Logic Design
-System，简写LDS）设计定制“閘阵列”[芯片](../Page/芯片.md "wikilink")。最初的产品线采用射极耦合逻辑（ECL）技术，不过很快就转而采用高速互补金属氧化物半导体（CMOS）技术，有助于帮助系统设计人员降低成本和功耗。随着时间的推移，LSI
+System，简写LDS）设计定制“閘阵列”[芯片](https://zh.wikipedia.org/wiki/芯片 "wikilink")。最初的产品线采用射极耦合逻辑（ECL）技术，不过很快就转而采用高速互补金属氧化物半导体（CMOS）技术，有助于帮助系统设计人员降低成本和功耗。随着时间的推移，LSI
 Logic通过在标准电池、结构化阵列、DSP和微处理器（如MIPS与SPARC）领域长期开展先锋研发工作，不断丰富产品系列和IP库，逐渐实现了“系统單晶片”解决方案的全方位设计开发。
 
 [LSI_MUSE-B282-NL_OA71256_1147CS.jpg](https://zh.wikipedia.org/wiki/File:LSI_MUSE-B282-NL_OA71256_1147CS.jpg "fig:LSI_MUSE-B282-NL_OA71256_1147CS.jpg")
@@ -26,12 +26,12 @@ Logic在微处理器、通信设备和MPEG视频压缩设备等核心技术方�
 Logic。2006年，公司迎来了成立25周年纪念。 LSI于2007年4月2日成功完成了与Agere Systems的合并，将公司名称从LSI
 Logic公司正式更名为LSI公司。LSI公司在[纽约证券交易所股票上市](../Page/纽约证券交易所.md "wikilink")，代号为LSI。
 
-2008年4月，LSI与Nortel公司、Accton科技公司、Telrad网络公司、Aricent公司、Nakina系统公司、Dimark技术公司、VIA科技公司、Infineon科技公司以及Mediatrix电信联合成立了[:MSBG联盟](../Page/:MSBG.md "wikilink")。
+2008年4月，LSI与Nortel公司、Accton科技公司、Telrad网络公司、Aricent公司、Nakina系统公司、Dimark技术公司、VIA科技公司、Infineon科技公司以及Mediatrix电信联合成立了[:MSBG联盟](https://zh.wikipedia.org/wiki/:MSBG "wikilink")。
 
 2012年4月，LSI宣布已經買下聖荷西Ridder Park
 Drive上的兩棟相連的大樓，作為新的總部，並將於2013年初完成搬遷，不再租用米尔皮塔斯的三個據點。2012年12月19日，LSI轉回至[纳斯达克掛牌](../Page/纳斯达克.md "wikilink")，股票代号依然为LSI。
 
-2013年12月，[安華高科技](../Page/安華高科技.md "wikilink")（Avago
+2013年12月，[安華高科技](https://zh.wikipedia.org/wiki/安華高科技 "wikilink")（Avago
 Technologies）宣布以66亿美元全面收购LSI。[1](https://web.archive.org/web/20131223092358/http://www.eettaiwan.com/ART_8800693229_480702_NT_62a69439.HTM)
 
 ## 产品

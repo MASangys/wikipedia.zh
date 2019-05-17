@@ -1,5 +1,5 @@
 《**Orange
-Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Page/東京放送.md "wikilink")2004年4月11日[周日劇場推出的](../Page/周日劇場.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，總數11集。本劇平均[收視率](../Page/收視率.md "wikilink")17.23%，最高收視率為完結篇的23%，因劇情貼近學生生活，在日本播出時獲得廣大迴響。
+Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https://zh.wikipedia.org/wiki/東京放送 "wikilink")2004年4月11日[周日劇場推出的](../Page/周日劇場.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，總數11集。本劇平均[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")17.23%，最高收視率為完結篇的23%，因劇情貼近學生生活，在日本播出時獲得廣大迴響。
 
 ## 劇情大綱
 
@@ -22,7 +22,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 <!-- end list -->
 
   -
-    明青學院大學文學部[心理學科社會福祉心理學系](../Page/心理學.md "wikilink")4年級學生。有一個就讀大學1年級的妹妹愛（岡步飾演）。畢業後成為職能治療師。
+    明青學院大學文學部[心理學科社會福祉心理學系](https://zh.wikipedia.org/wiki/心理學 "wikilink")4年級學生。有一個就讀大學1年級的妹妹愛（岡步飾演）。畢業後成為職能治療師。
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 <!-- end list -->
 
   -
-    明青學院大學文學部文藝學科[文化人類學](../Page/文化人類學.md "wikilink")4年級學生。畢業後成為東京巨蛋飯店的駐場鋼琴演奏家。
+    明青學院大學文學部文藝學科[文化人類學](https://zh.wikipedia.org/wiki/文化人類學 "wikilink")4年級學生。畢業後成為東京巨蛋飯店的駐場鋼琴演奏家。
 
 <!-- end list -->
 
@@ -40,7 +40,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 <!-- end list -->
 
   -
-    明青學院大學文學部[美學美術史學科](../Page/美學美術史學.md "wikilink")4年級學生，櫂的朋友。畢業後成為攝影師。
+    明青學院大學文學部[美學美術史學科](https://zh.wikipedia.org/wiki/美學美術史學 "wikilink")4年級學生，櫂的朋友。畢業後成為攝影師。
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 <!-- end list -->
 
   -
-    明青學院大學文學部[日本文學科](../Page/日本文學.md "wikilink")4年級學生，沙繪高中（明青學院高等部）同學。畢業後成為導遊。
+    明青學院大學文學部[日本文學科](https://zh.wikipedia.org/wiki/日本文學 "wikilink")4年級學生，沙繪高中（明青學院高等部）同學。畢業後成為導遊。
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 <!-- end list -->
 
   -
-    明青學院大學文學部[法語文學科年級學生](../Page/法語文學.md "wikilink")，櫂的朋友。畢業後成為婚禮秘書。
+    明青學院大學文學部[法語文學科年級學生](https://zh.wikipedia.org/wiki/法語文學 "wikilink")，櫂的朋友。畢業後成為婚禮秘書。
 
 <!-- end list -->
 
@@ -109,18 +109,18 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
 
   - 編劇：[北川悅吏子](../Page/北川悅吏子.md "wikilink")
   - 音樂：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
-  - 製作人：[植田博樹](../Page/植田博樹.md "wikilink")
-  - 導演：[生野慈朗](../Page/生野慈朗.md "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")
+  - 製作人：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
+  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](https://zh.wikipedia.org/wiki/土井裕泰 "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
   - 手語指導：南留花、佐藤由紀惠、鹽谷武志
   - 拍攝場地提供：東洋英和女學院大學、橫濱國立大學、東海大學醫學院附屬八王子醫院 等
 
 ## 主題曲及插曲
 
-  - 主題曲：[Mr.Children](../Page/Mr.Children.md "wikilink")「[Sign](../Page/Sign（Mr.Children單曲）.md "wikilink")」
+  - 主題曲：[Mr.Children](../Page/Mr.Children.md "wikilink")「[Sign](https://zh.wikipedia.org/wiki/Sign（Mr.Children單曲） "wikilink")」
   - 挿曲：[ORANGE
-    RANGE](../Page/ORANGE_RANGE.md "wikilink")「[上海ハニー](../Page/上海ハニー.md "wikilink")」（上海甜心）
-  - 挿曲：[轉轉圈樂團](../Page/轉轉圈樂團.md "wikilink")「[ばらの花](../Page/ばらの花.md "wikilink")」（荊棘之花）
-  - 挿曲：[蕭邦](../Page/蕭邦.md "wikilink")「[英雄波蘭舞曲](../Page/英雄波蘭舞曲.md "wikilink")」
+    RANGE](https://zh.wikipedia.org/wiki/ORANGE_RANGE "wikilink")「[上海ハニー](https://zh.wikipedia.org/wiki/上海ハニー "wikilink")」（上海甜心）
+  - 挿曲：[轉轉圈樂團](https://zh.wikipedia.org/wiki/轉轉圈樂團 "wikilink")「[ばらの花](https://zh.wikipedia.org/wiki/ばらの花 "wikilink")」（荊棘之花）
+  - 挿曲：[蕭邦](https://zh.wikipedia.org/wiki/蕭邦 "wikilink")「[英雄波蘭舞曲](https://zh.wikipedia.org/wiki/英雄波蘭舞曲 "wikilink")」
 
 ## 得獎記錄
 
@@ -132,7 +132,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](../Pag
     最佳男主角：[妻夫木聰](../Page/妻夫木聰.md "wikilink")
     最佳歌曲：〈[Sign](../Page/Sign_\(Mr.Children單曲\).md "wikilink")〉[Mr.Children](../Page/Mr.Children.md "wikilink")
     最佳導演：生野慈朗、土井裕泰、今井夏木
-    最佳編劇：[北川悦吏子](../Page/北川悦吏子.md "wikilink")
+    最佳編劇：[北川悦吏子](https://zh.wikipedia.org/wiki/北川悦吏子 "wikilink")
     最佳片頭：生野慈朗
     最佳卡司
     特別賞：[手語指導](../Page/手語.md "wikilink")（南留花、佐藤由紀惠、鹽谷武志）

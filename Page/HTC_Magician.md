@@ -1,5 +1,5 @@
 **HTC
-Magician**（研發代號），是台灣[宏達電公司所推出的](../Page/宏達電.md "wikilink")[智慧型手機](../Page/智慧型手機.md "wikilink")，曾是全球最迷你的PDA
+Magician**（研發代號），是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，曾是全球最迷你的PDA
 Phone。適合女性消費者的PDA手機，2004年9月於歐洲首度發表，2005年3月推出適合男性消費者的升級版Magician Refresh。
 
 已知客製版本：
@@ -12,39 +12,43 @@ Compact，Krome Spy
 
 ## Magician技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：Intel XScale PXA270 416MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：Windows Mobile 2003 Pocket PC
-    Phone Second Edition
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：64MB，RAM：64MB
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：Intel XScale
+    PXA270 416MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows Mobile
+    2003 Pocket PC Phone Second Edition
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：64MB，RAM：64MB
   - 尺寸：108.2 毫米 X 58 毫米 X 18.2 毫米
   - 重量：150g（含電池）
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.8 吋 TFT-LCD 平面式觸控感應螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/GPRS
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.8 吋
+    TFT-LCD 平面式觸控感應螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/GPRS
   - [藍牙](../Page/藍牙.md "wikilink")：Bluetooth 1.2
-  - [相機](../Page/相機.md "wikilink")：130萬畫素相機
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：130萬畫素相機
   - 擴充：支援MMC/SDIO介面記憶卡
-  - [電池](../Page/電池.md "wikilink")：1200mAh充電式鋰或鋰聚合物電池
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：1200mAh充電式鋰或鋰聚合物電池
 
 ## Magician Refresh技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：Intel XScale PXA270 416MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：Windows Mobile 2003 Pocket PC
-    Phone Second Edition
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：64MB，RAM：128MB
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：Intel XScale
+    PXA270 416MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：Windows Mobile
+    2003 Pocket PC Phone Second Edition
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：64MB，RAM：128MB
   - 尺寸：108.2mm X 58mm X 18.2mm
   - 重量：150g（含電池）
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.8 吋 TFT-LCD 平面式觸控感應螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/GPRS
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.8 吋
+    TFT-LCD 平面式觸控感應螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/GPRS
   - [藍牙](../Page/藍牙.md "wikilink")：Bluetooth 1.2
-  - [相機](../Page/相機.md "wikilink")：130萬畫素相機
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：130萬畫素相機
   - 擴充：支援MMC/SDIO介面記憶卡
-  - [電池](../Page/電池.md "wikilink")：1200mAh充電式鋰或鋰聚合物電池
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：1200mAh充電式鋰或鋰聚合物電池
 
 ## 參見
 
-  - [HTC](../Page/HTC.md "wikilink")
+  - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [Qtek](../Page/Qtek.md "wikilink")
-  - [Dopod](../Page/Dopod.md "wikilink")
+  - [Dopod](https://zh.wikipedia.org/wiki/Dopod "wikilink")
 
 ## 外部連結
 

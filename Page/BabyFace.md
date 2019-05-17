@@ -1,4 +1,4 @@
-**BabyFace**，台灣藝人團體，成立於2006年2月14日，原團名為『阿嬤嬤』。是由女主唱[吳汶芳搭配男和聲兼伴奏](../Page/吳汶芳.md "wikilink")[謝廣太一男一女的清新組合](../Page/謝廣太.md "wikilink")，以吉他組合搭上清新和搖滾的創作曲風,組團的構想來自艾薇兒·拉維尼，艾薇兒的演出方式和當時她的吉他手[埃文·陶本菲德以木吉他做一個不同於樂團的演出風格](../Page/埃文·陶本菲德.md "wikilink")，看完演出影片的廣太進而邀汶芳一同組團。因為謝廣太入伍服役而決定解散，吳汶芳重新參加[超級偶像第四季比賽](../Page/超級偶像.md "wikilink")。
+**BabyFace**，台灣藝人團體，成立於2006年2月14日，原團名為『阿嬤嬤』。是由女主唱[吳汶芳搭配男和聲兼伴奏](../Page/吳汶芳.md "wikilink")[謝廣太一男一女的清新組合](https://zh.wikipedia.org/wiki/謝廣太 "wikilink")，以吉他組合搭上清新和搖滾的創作曲風,組團的構想來自艾薇兒·拉維尼，艾薇兒的演出方式和當時她的吉他手[埃文·陶本菲德以木吉他做一個不同於樂團的演出風格](../Page/埃文·陶本菲德.md "wikilink")，看完演出影片的廣太進而邀汶芳一同組團。因為謝廣太入伍服役而決定解散，吳汶芳重新參加[超級偶像第四季比賽](../Page/超級偶像.md "wikilink")。
 
 ## 成員資料
 
@@ -19,7 +19,7 @@
 <td><p>45kg</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/謝廣太.md" title="wikilink">謝廣太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/謝廣太" title="wikilink">謝廣太</a></p></td>
 <td></td>
 <td><p>171cm</p></td>
 <td><p>59kg</p></td>
@@ -29,7 +29,7 @@
 
 ## 比賽經歷
 
-  - [超級偶像](../Page/超級偶像.md "wikilink")[第二屆第五名](../Page/超級偶像_\(第二屆\).md "wikilink")
+  - [超級偶像](../Page/超級偶像.md "wikilink")[第二屆第五名](https://zh.wikipedia.org/wiki/超級偶像_\(第二屆\) "wikilink")
 
 ### 超偶二比賽曲目
 
@@ -170,17 +170,17 @@
 
 ### 2006年
 
-  - [高雄新光三越樂團大賽](../Page/高雄新光三越樂團大賽.md "wikilink")－第二名
-  - [大電視之星全國創作組](../Page/大電視之星全國創作組.md "wikilink")－第二名
+  - [高雄新光三越樂團大賽](https://zh.wikipedia.org/wiki/高雄新光三越樂團大賽 "wikilink")－第二名
+  - [大電視之星全國創作組](https://zh.wikipedia.org/wiki/大電視之星全國創作組 "wikilink")－第二名
 
 ### 2007年
 
-  - [HIGH浪獨立音樂大賽](../Page/HIGH浪獨立音樂大賽.md "wikilink")－優良團隊
-  - [第三屆台北捷運盃樂團大賽](../Page/第三屆台北捷運盃樂團大賽.md "wikilink")－優勝團隊
+  - [HIGH浪獨立音樂大賽](https://zh.wikipedia.org/wiki/HIGH浪獨立音樂大賽 "wikilink")－優良團隊
+  - [第三屆台北捷運盃樂團大賽](https://zh.wikipedia.org/wiki/第三屆台北捷運盃樂團大賽 "wikilink")－優勝團隊
 
 ### 2008年
 
-  - [超級偶像](../Page/超級偶像.md "wikilink")[第二屆](../Page/超級偶像_\(第二屆\).md "wikilink")－第五名
+  - [超級偶像](../Page/超級偶像.md "wikilink")[第二屆](https://zh.wikipedia.org/wiki/超級偶像_\(第二屆\) "wikilink")－第五名
 
 [Category:台灣獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣獨立搖滾樂團 "wikilink")
 [Category:超級偶像](https://zh.wikipedia.org/wiki/Category:超級偶像 "wikilink")

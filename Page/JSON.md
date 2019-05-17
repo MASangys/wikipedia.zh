@@ -1,11 +1,11 @@
 **JSON**（**J**ava**S**cript **O**bject
-**N**otation，JavaScript物件表示法）是一種由[道格拉斯·克羅克福特構想和設計](../Page/道格拉斯·克羅克福特.md "wikilink")、輕量級的[資料交換語言](../Page/資料交換語言.md "wikilink")，该语言以易於讓人閱讀的文字為基礎，用来传输由属性值或者序列性的值组成的数据对象。儘管JSON是[JavaScript的一個子集](../Page/JavaScript.md "wikilink")，但JSON是獨立於語言的[文本格式](../Page/文本文件.md "wikilink")，並且採用了類似於[C語言家族的一些習慣](../Page/C語言.md "wikilink")。
+**N**otation，JavaScript物件表示法）是一種由[道格拉斯·克羅克福特構想和設計](../Page/道格拉斯·克羅克福特.md "wikilink")、輕量級的[資料交換語言](https://zh.wikipedia.org/wiki/資料交換語言 "wikilink")，该语言以易於讓人閱讀的文字為基礎，用来传输由属性值或者序列性的值组成的数据对象。儘管JSON是[JavaScript的一個子集](../Page/JavaScript.md "wikilink")，但JSON是獨立於語言的[文本格式](../Page/文本文件.md "wikilink")，並且採用了類似於[C語言家族的一些習慣](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
 JSON
 数据格式与语言无关，脱胎自[JavaScript](../Page/JavaScript.md "wikilink")，但目前很多[编程语言都支持](../Page/编程语言.md "wikilink")
-JSON 格式数据的生成和[解析](../Page/语法分析器.md "wikilink")。JSON 的官方 [MIME
-类型是](../Page/互联网媒体类型.md "wikilink") `application/json`，文件扩展名是
-`.json`。
+JSON 格式数据的生成和[解析](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")。JSON
+的官方 [MIME 类型是](../Page/互联网媒体类型.md "wikilink")
+`application/json`，文件扩展名是 `.json`。
 
 ## 簡介
 
@@ -52,7 +52,7 @@ JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在
 
 ### NoSQL数据库
 
-相对于传统的[关系型数据库](../Page/关系型数据库.md "wikilink")，一些基于文档存储的[NoSQL非关系型数据库选择JSON作为其数据存储格式](../Page/NoSQL.md "wikilink")，比较出名的产品有：[MongoDB](../Page/MongoDB.md "wikilink")、[CouchDB](../Page/CouchDB.md "wikilink")、[RavenDB等](../Page/RavenDB.md "wikilink")。
+相对于传统的[关系型数据库](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")，一些基于文档存储的[NoSQL非关系型数据库选择JSON作为其数据存储格式](../Page/NoSQL.md "wikilink")，比较出名的产品有：[MongoDB](../Page/MongoDB.md "wikilink")、[CouchDB](https://zh.wikipedia.org/wiki/CouchDB "wikilink")、[RavenDB等](https://zh.wikipedia.org/wiki/RavenDB "wikilink")。
 
 ## 举例
 
@@ -83,7 +83,7 @@ JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在
  }
 ```
 
-这种JSON格式也被[Minecraft游戏用来当作的部分数据存储的格式](../Page/Minecraft.md "wikilink")：
+这种JSON格式也被[Minecraft游戏用来当作的部分数据存储的格式](https://zh.wikipedia.org/wiki/Minecraft "wikilink")：
 
 ``` javascript numberLines
 [
@@ -137,13 +137,13 @@ zh-tw:程式碼;}-，這樣就更安全。但由於這是用模擬的方式讀�
 ### 跨站存取問題
 
 另外一個安全上的問題則是[跨站請求偽造](../Page/跨站请求伪造.md "wikilink")（Cross-site request
-forgery，簡稱CSRF或XSRF）。這個問題在Javascript中的狀況是，由於Javascript採用了稱為「[沙盒](../Page/沙盒_\(計算機安全\).md "wikilink")」的機制，這種機制限制Javascript引擎僅能引入同一個站點的程式碼，因而某種程度上提高了安全性。
+forgery，簡稱CSRF或XSRF）。這個問題在Javascript中的狀況是，由於Javascript採用了稱為「[沙盒](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")」的機制，這種機制限制Javascript引擎僅能引入同一個站點的程式碼，因而某種程度上提高了安全性。
 
 ## 與其他格式的比較
 
 ### XML
 
-JSON與XML最大的不同在於XML是一個完整的[標記語言](../Page/標記語言.md "wikilink")，而JSON不是。這使得XML在程式判讀上需要比較多的功夫。主要的原因在於XML的設計理念與JSON不同。XML利用標記語言的特性提供了絕佳的延展性（如[XPath](../Page/XPath.md "wikilink")），在数据存储，扩展及高级检索方面具备对JSON的优势，而JSON则由于比XML更加小巧，以及浏览器的内建快速解析支持，使得其更适用于网络数据传输领域。
+JSON與XML最大的不同在於XML是一個完整的[標記語言](https://zh.wikipedia.org/wiki/標記語言 "wikilink")，而JSON不是。這使得XML在程式判讀上需要比較多的功夫。主要的原因在於XML的設計理念與JSON不同。XML利用標記語言的特性提供了絕佳的延展性（如[XPath](../Page/XPath.md "wikilink")），在数据存储，扩展及高级检索方面具备对JSON的优势，而JSON则由于比XML更加小巧，以及浏览器的内建快速解析支持，使得其更适用于网络数据传输领域。
 
 ### MessagePack
 
@@ -163,7 +163,7 @@ zh-tw:使用線上;}-JSON格式化工具，来更方便的对JSON数据进行节
   - [AJAX](../Page/AJAX.md "wikilink")
   - [JavaScript](../Page/JavaScript.md "wikilink")
   - [YAML](../Page/YAML.md "wikilink")
-  - [HOCON](../Page/HOCON.md "wikilink")
+  - [HOCON](https://zh.wikipedia.org/wiki/HOCON "wikilink")
 
 ## 外部連結
 

@@ -25,8 +25,8 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
 ## 出場人物
 
   -
-    本作男主角，以前是擅長[自由潛海](../Page/自由潛海.md "wikilink")（Free
-    Diving）的專業[潛水員](../Page/潛水員.md "wikilink")，是一位生於1980年4月1日的老人。在2012年進行的一次觀測實驗中被捲進「海燃燒」現象，因而發生了嚴重的意外，此事件令波留喪失意識長達50年。已接受電子腦，在真實的世界正是一位81歲的坐在輪椅上生活的老人家，必需依賴水面和赫倫的照顧。但在電子腦的世界裡（即Metal裡），卻是行動自如且身手不凡的電腦Diver。在進行潛腦活動時，會回復成50年前年輕時候的姿態。第一人稱是「我」（日文作）。
+    本作男主角，以前是擅長[自由潛海](https://zh.wikipedia.org/wiki/自由潛海 "wikilink")（Free
+    Diving）的專業[潛水員](https://zh.wikipedia.org/wiki/潛水員 "wikilink")，是一位生於1980年4月1日的老人。在2012年進行的一次觀測實驗中被捲進「海燃燒」現象，因而發生了嚴重的意外，此事件令波留喪失意識長達50年。已接受電子腦，在真實的世界正是一位81歲的坐在輪椅上生活的老人家，必需依賴水面和赫倫的照顧。但在電子腦的世界裡（即Metal裡），卻是行動自如且身手不凡的電腦Diver。在進行潛腦活動時，會回復成50年前年輕時候的姿態。第一人稱是「我」（日文作）。
     在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為與水面一起解決了停電事件，因而成為電理研的特殊調查人員。
     「波留真理」這個名字，原應讀作「Haru Masamichi」（男性化的名字），但時常被誤讀作「Haru
     Mari」（日文讀音為「」；日本常有女子以「真理」作為名字，此時「真理」的發音為「Mari」，而非「Masamichi」），因而時常被誤會為女性，直到水面她們看見了本人，才相信波留是位男性。沙也加和雪乃也因為名字的問題一直稱呼波留為「Haru
@@ -37,8 +37,8 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
 
   -
     本作女主角，15歲的中學生。生於2045年7月21日。
-    在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為幫忙波留解決停電事件，因而成為波留的Buddy（電理研的工作人員，專門負責照顧電腦Diver並對腦潛的工作提供協助）。強烈地想以Buddy的身份待命在波留身邊，好好地做好Buddy的工作。好奇心很強，一旦遇上有興趣的事情，便會有一頭栽進去的傾向。身體的運動能力很高，甚至可以跟上[程式設計的](../Page/程式設計.md "wikilink")[仿生機械人](../Page/仿生人.md "wikilink")（Android）的動作能力，能穿著[暴走鞋](../Page/暴走鞋.md "wikilink")（roller
-    skate）在難以立足之處疾跑。但是，在[澳大利亞內陸成長的水面好像並不擅長游泳](../Page/澳大利亞.md "wikilink")。討厭[青椒](../Page/青椒.md "wikilink")，說話帶點幼稚的感覺。沒有進行義體化和電腦化。被沙也加愛稱為「妮雅茉」（Nyamo，日文原文為「」；這名稱是日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")[笑園漫畫大王的簡稱](../Page/笑園漫畫大王.md "wikilink")）。
+    在那次人工島發生「海燃燒」現象而令至全島停電的時候，因為幫忙波留解決停電事件，因而成為波留的Buddy（電理研的工作人員，專門負責照顧電腦Diver並對腦潛的工作提供協助）。強烈地想以Buddy的身份待命在波留身邊，好好地做好Buddy的工作。好奇心很強，一旦遇上有興趣的事情，便會有一頭栽進去的傾向。身體的運動能力很高，甚至可以跟上[程式設計的](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[仿生機械人](https://zh.wikipedia.org/wiki/仿生人 "wikilink")（Android）的動作能力，能穿著[暴走鞋](https://zh.wikipedia.org/wiki/暴走鞋 "wikilink")（roller
+    skate）在難以立足之處疾跑。但是，在[澳大利亞內陸成長的水面好像並不擅長游泳](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。討厭[青椒](https://zh.wikipedia.org/wiki/青椒 "wikilink")，說話帶點幼稚的感覺。沒有進行義體化和電腦化。被沙也加愛稱為「妮雅茉」（Nyamo，日文原文為「」；這名稱是日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")[笑園漫畫大王的簡稱](../Page/笑園漫畫大王.md "wikilink")）。
     极度仰慕波留真理，即使對方是个81岁的老人。
 
 <!-- end list -->
@@ -69,7 +69,7 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
     I.G](../Page/Production_I.G.md "wikilink")
   - 原著協作：Crossroad
   - 監督：[古橋一浩](../Page/古橋一浩.md "wikilink")
-  - 企劃：奧田誠治（[NTV](../Page/NTV.md "wikilink")）、平山博志（[VAP](../Page/VAP.md "wikilink")）、石川光久（[Production
+  - 企劃：奧田誠治（[NTV](https://zh.wikipedia.org/wiki/NTV "wikilink")）、平山博志（[VAP](../Page/VAP.md "wikilink")）、石川光久（[Production
     I.G](../Page/Production_I.G.md "wikilink")）
   - 監製：中谷敏夫（NTV）、笠原陽介（NTV）、植田泰生（VAP）、和田丈嗣（Production I.G）
   - 系列構成：藤咲淳一
@@ -93,27 +93,27 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
   - 動畫監製：中武哲也
   - 製作：[Production I.G](../Page/Production_I.G.md "wikilink")
   - 製作、著作：[RD
-    潛腦調査室製作委員會](../Page/製作委員會方式.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、D.N.
+    潛腦調査室製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、D.N.
     Dream Partner、VAP、Production I.G）
 
 ## 主題曲
 
 ### 片頭曲
 
-  - 「[Wanderland](../Page/Supernova/Wanderland.md "wikilink")」
+  - 「[Wanderland](https://zh.wikipedia.org/wiki/Supernova/Wanderland "wikilink")」
     作詞 - 菅原卓郎 / 作曲 - 滝善充 / 歌 - [9mm Parabellum
-    Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
+    Bullet](https://zh.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")（[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")）
 
 ### 片尾曲
 
   - 「」
     作詞・作曲 - 松村孝彦 / 歌 - [LAST
-    ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")（[VAP](../Page/VAP.md "wikilink")）
+    ALLIANCE](https://zh.wikipedia.org/wiki/LAST_ALLIANCE "wikilink")（[VAP](../Page/VAP.md "wikilink")）
 
 ### 插入曲
 
   - 「」
-    歌 - [矢沢永吉](../Page/矢沢永吉.md "wikilink")
+    歌 - [矢沢永吉](https://zh.wikipedia.org/wiki/矢沢永吉 "wikilink")
       - 第13話「另一片海（）」使用的是演唱版。
 
 ## 各話列表
@@ -139,9 +139,9 @@ Shell」來隔絕保護人類的記憶資料不受駭客的攻擊與竊取，但
 <td><p><br />
 island</p></td>
 <td><p>龍宮之旅 x 人工島</p></td>
-<td><p><a href="../Page/藤咲淳一.md" title="wikilink">藤咲淳一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤咲淳一" title="wikilink">藤咲淳一</a></p></td>
 <td><p><a href="../Page/古橋一浩.md" title="wikilink">古橋一浩</a></p></td>
-<td><p><a href="../Page/金子拓.md" title="wikilink">金子拓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金子拓" title="wikilink">金子拓</a></p></td>
 <td><p><strong>2008年</strong><br />
 4月8日</p></td>
 <td></td>
@@ -174,7 +174,7 @@ identity</p></td>
 inside</p></td>
 <td><p>欲望的環礁 x 內裡</p></td>
 <td><p>初見浩一</p></td>
-<td><p><a href="../Page/高橋英樹_(アニメーター).md" title="wikilink">高橋英樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋英樹_(アニメーター)" title="wikilink">高橋英樹</a></p></td>
 <td><p>4月29日</p></td>
 <td></td>
 <td></td>
@@ -184,7 +184,7 @@ inside</p></td>
 <td><p><br />
 item</p></td>
 <td><p>SOUS-MARIN x 道具</p></td>
-<td><p><a href="../Page/武藤やすゆき.md" title="wikilink">武藤やすゆき</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/武藤やすゆき" title="wikilink">武藤やすゆき</a></p></td>
 <td><p>矢萩利幸</p></td>
 <td><p>大久保徹</p></td>
 <td><p>5月6日</p></td>
@@ -217,7 +217,7 @@ i am a dog</p></td>
 <td><p><br />
 ideal</p></td>
 <td><p>沒有朋友 x 理想</p></td>
-<td><p><a href="../Page/櫻井圭記.md" title="wikilink">櫻井圭記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻井圭記" title="wikilink">櫻井圭記</a></p></td>
 <td><p>佐佐木奈奈子</p></td>
 <td><p>金子拓</p></td>
 <td><p>5月27日</p></td>
@@ -227,7 +227,7 @@ ideal</p></td>
 <td><p>9</p></td>
 <td><p><br />
 I/O</p></td>
-<td><p>事業 x <a href="../Page/I/O.md" title="wikilink">I/O</a></p></td>
+<td><p>事業 x <a href="https://zh.wikipedia.org/wiki/I/O" title="wikilink">I/O</a></p></td>
 <td><p>藤咲淳一</p></td>
 <td><p>長沼範裕</p></td>
 <td><p>浅野恭司</p></td>
@@ -362,7 +362,7 @@ identity</p></td>
 infinity</p></td>
 <td><p>永遠 x 無限</p></td>
 <td><p>藤咲淳一</p></td>
-<td><p><a href="../Page/西村博之_(イラストレーター).md" title="wikilink">西村博之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西村博之_(イラストレーター)" title="wikilink">西村博之</a></p></td>
 <td><p>許琮</p></td>
 <td><p>高橋英樹</p></td>
 <td><p>8月26日</p></td>
@@ -427,7 +427,7 @@ i</p></td>
 </tbody>
 </table>
 
-  - 第5話的標題「」（Sous-Marin）原為[法文中](../Page/法文.md "wikilink")[潛水艇的意思](../Page/潛水艇.md "wikilink")，是一個著名太陽眼鏡品牌名稱。
+  - 第5話的標題「」（Sous-Marin）原為[法文中](https://zh.wikipedia.org/wiki/法文 "wikilink")[潛水艇的意思](https://zh.wikipedia.org/wiki/潛水艇 "wikilink")，是一個著名太陽眼鏡品牌名稱。
   - 第7話・第15話、場景總作畫監督：高橋英樹
   - 第18話、場景監修：[荒川眞嗣](../Page/荒川真嗣.md "wikilink")
 
@@ -445,28 +445,28 @@ i</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></p></td>
 <td><p>2008年4月8日 - 9月30日</p></td>
 <td><p>星期二 24時59分 - 25時29分</p></td>
 <td><p><strong>參與製作委員會</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
-<td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国放送" title="wikilink">日本全域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GYAO!" title="wikilink">GYAO!</a></p></td>
 <td><p>2008年4月9日 - 10月1日</p></td>
 <td><p>星期三 正午 更新</p></td>
-<td><p><a href="../Page/網路廣播.md" title="wikilink">網路廣播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路廣播" title="wikilink">網路廣播</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
-<td><p><a href="../Page/札幌電視台.md" title="wikilink">札幌電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/札幌電視台" title="wikilink">札幌電視台</a></p></td>
 <td><p>2008年4月15日 - 10月7日</p></td>
 <td><p>星期二 25時28分 - 25時58分</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/中京電視台.md" title="wikilink">中京電視台</a></p></td>
 <td><p>2008年4月23日 - 10月22日</p></td>
 <td><p>星期三 26時09分 - 26時39分</p></td>
@@ -474,37 +474,37 @@ i</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2008年5月9日 - 10月31日</p></td>
 <td><p>星期五 22時00分 - 22時30分<br />
 有重播</p></td>
-<td><p><a href="../Page/專門頻道.md" title="wikilink">CS頻道</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/專門頻道" title="wikilink">CS頻道</a><br />
 ｢LEVEL 22｣頻道</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p>2008年5月19日 - 11月10日</p></td>
 <td><p>星期一 25時29分 - 25時59分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a></p></td>
 <td><p>2008年5月19日 - 11月24日</p></td>
 <td><p>星期一 26時09分 - 26時39分</p></td>
-<td><p><a href="../Page/MANPA.md" title="wikilink">MONDAY PARK頻道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MANPA" title="wikilink">MONDAY PARK頻道</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/長野縣.md" title="wikilink">長野縣</a></p></td>
-<td><p><a href="../Page/信州電視台.md" title="wikilink">信州電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/信州電視台" title="wikilink">信州電視台</a></p></td>
 <td><p>2008年7月19日 - 2009年1月24日</p></td>
 <td><p>星期六 25時55分 - 26時25分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a></p></td>
-<td><p><a href="../Page/栃木電視台.md" title="wikilink">栃木電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/栃木電視台" title="wikilink">栃木電視台</a></p></td>
 <td><p>2009年4月11日 - 10月10日</p></td>
 <td><p>星期六 22時30分 - 23時00分</p></td>
 <td><p>栃木縣内實質再放送</p></td>
@@ -525,7 +525,7 @@ i</p></td>
   - 漫畫版
 
 該動畫改編的，由[Production
-I.G和](../Page/Production_I.G.md "wikilink")[士郎正宗擔任原作](../Page/士郎正宗.md "wikilink")、宮野桃太郎作畫的[漫畫在](../Page/漫畫.md "wikilink")2008年4月26日發售的講談社雜誌《月刊
+I.G和](../Page/Production_I.G.md "wikilink")[士郎正宗擔任原作](../Page/士郎正宗.md "wikilink")、宮野桃太郎作畫的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2008年4月26日發售的講談社雜誌《月刊
 Magazine Z》2008年6月號開始連載\[2\]。
 
 ## 參考文獻

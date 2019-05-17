@@ -1,9 +1,10 @@
-《**Binary**》是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[謝安琪的第五張個人](../Page/謝安琪.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2008年7月24日發行。專輯銷量達白金，並在HMV上榜22星期及連續3週銷量冠軍，創下其個人的銷量紀錄。
+《**Binary**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[謝安琪的第五張個人](../Page/謝安琪.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2008年7月24日發行。專輯銷量達白金，並在HMV上榜22星期及連續3週銷量冠軍，創下其個人的銷量紀錄。
 
 本唱片一如以往，大部分歌曲都由[周博賢作曲及填詞](../Page/周博賢.md "wikilink")。而本唱片於該年度獲得多個大獎，包括叱咤樂壇至尊唱片大獎、四台聯頒音樂大獎-大碟獎等等。
 
 歌曲《[囍帖街](../Page/囍帖街_\(歌曲\).md "wikilink")》是大碟的第一首歌，亦是焦點歌曲，獲得多個大獎，包括叱咤樂壇至尊歌曲大獎、四台聯頒音樂大獎
-- 歌曲獎等，成為謝安琪的其中一首經典歌曲，同時亦成為[香港樂壇標誌性歌曲](../Page/香港樂壇.md "wikilink")。
+-
+歌曲獎等，成為謝安琪的其中一首經典歌曲，同時亦成為[香港樂壇標誌性歌曲](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")。
 
 ## 專輯簡介
 
@@ -23,8 +24,8 @@
 
 ## 翻唱歌曲
 
-  - [黃碧蓮](../Page/黃碧蓮.md "wikilink")、[李雯希](../Page/李雯希.md "wikilink") 清唱
-    囍帖街 ABC TV國際電視台 Music 音樂節目 The Music Show。
+  - [黃碧蓮](../Page/黃碧蓮.md "wikilink")、[李雯希](https://zh.wikipedia.org/wiki/李雯希 "wikilink")
+    清唱 囍帖街 ABC TV國際電視台 Music 音樂節目 The Music Show。
 
 ## 相關獎項及提名
 
@@ -66,14 +67,14 @@
 <td><p>馬來西亞</p></td>
 <td><p>2008年</p></td>
 <td><p>CD</p></td>
-<td><p><a href="../Page/環球唱片.md" title="wikilink">環球唱片</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/環球唱片" title="wikilink">環球唱片</a></p></td>
 <td><p>加收《鐘無艷》《神奇女俠的退休生活》</p></td>
 </tr>
 <tr class="even">
 <td><p>中國大陸[3]</p></td>
 <td><p>2008年</p></td>
 <td><p>CD</p></td>
-<td><p><a href="../Page/天凱唱片.md" title="wikilink">天凱唱片</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天凱唱片" title="wikilink">天凱唱片</a></p></td>
 <td><p>專輯名《<strong>二元素</strong>》<br />
 《十字架》改名為《单情路》<br />
 封底曲目列表無列出《烏托邦》，但實際有收錄</p></td>

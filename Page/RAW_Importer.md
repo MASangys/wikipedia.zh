@@ -1,5 +1,5 @@
 **StepOK RAW 导入器**（**RAW Importer**）是一个由[Step
-OK图形工作室出品的具备导入](../Page/Step_OK.md "wikilink")、转换[RAW图形格式文件的](../Page/RAW.md "wikilink")[免费软件](../Page/免费软件.md "wikilink")。
+OK图形工作室出品的具备导入](https://zh.wikipedia.org/wiki/Step_OK "wikilink")、转换[RAW图形格式文件的](../Page/RAW.md "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
 
 最新版本为1.2。
 
@@ -14,19 +14,19 @@ Digital Negative）等。
 
   - [Adobe](../Page/Adobe.md "wikilink")：Digital Negative（DNG）
   - [佳能](../Page/佳能.md "wikilink")：CR2, CRW
-  - [卡西欧](../Page/卡西欧.md "wikilink") RAW
-  - [康泰时](../Page/康泰时.md "wikilink") RAW
-  - [富士](../Page/富士.md "wikilink")：RAF
-  - [柯尼卡美能达](../Page/柯尼卡美能达.md "wikilink")：MRW
-  - [徕卡](../Page/徕卡.md "wikilink") RAW
+  - [卡西欧](https://zh.wikipedia.org/wiki/卡西欧 "wikilink") RAW
+  - [康泰时](https://zh.wikipedia.org/wiki/康泰时 "wikilink") RAW
+  - [富士](https://zh.wikipedia.org/wiki/富士 "wikilink")：RAF
+  - [柯尼卡美能达](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")：MRW
+  - [徕卡](https://zh.wikipedia.org/wiki/徕卡 "wikilink") RAW
   - [尼康](../Page/尼康.md "wikilink")：NEF
-  - [奥林巴斯](../Page/奥林巴斯.md "wikilink")：ORF
+  - [奥林巴斯](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")：ORF
   - [索尼](../Page/索尼.md "wikilink")：ARW, SR2, SRF
 
 ## 参见
 
   - [RAW](../Page/RAW.md "wikilink")
-  - [Step OK](../Page/Step_OK.md "wikilink")
+  - [Step OK](https://zh.wikipedia.org/wiki/Step_OK "wikilink")
   - [Picasa](../Page/Picasa.md "wikilink")
 
 ## 外部链接

@@ -3,12 +3,12 @@
 [W_Hotel_Hong_Kong_Bar.jpg](https://zh.wikipedia.org/wiki/File:W_Hotel_Hong_Kong_Bar.jpg "fig:W_Hotel_Hong_Kong_Bar.jpg")
 
 **香港W酒店**（**W Hong
-Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](../Page/九龍站.md "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](../Page/柯士甸道西.md "wikilink")1號[天璽](../Page/天璽_\(香港\).md "wikilink")1至38樓，是[新鴻基地產的物業](../Page/新鴻基地產.md "wikilink")，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。W酒店[總統套房位於](../Page/總統套房.md "wikilink")38樓高層（E-WOW），佔地2,152方呎，報稱日租4萬多港元。
+Kong**），是一所位於[香港](../Page/香港.md "wikilink")[九龍站的一間酒店](https://zh.wikipedia.org/wiki/九龍站 "wikilink")，於2008年1月末試業，於2008年8月8日正式開業。酒店位於[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[天璽](../Page/天璽_\(香港\).md "wikilink")1至38樓，是[新鴻基地產的物業](../Page/新鴻基地產.md "wikilink")，酒店的建築為一座[摩天大樓](../Page/摩天大樓.md "wikilink")，合共設有393間客房，部份客房可觀賞海景。W酒店[總統套房位於](https://zh.wikipedia.org/wiki/總統套房 "wikilink")38樓高層（E-WOW），佔地2,152方呎，報稱日租4萬多港元。
 
 ## 設計
 
 香港W酒店以自然及五行（金、木、水、火、土）作設計概念，並由澳洲室內設計公司g+a（nicholas graham +
-associates），以及日本的Glamorous包辦設計。W酒店與一般酒店最大差別，是每間客房有不同風格各異的主題設計。客房還配備[i-Pod外接裝置及多線道IP電話連視像會議設備](../Page/i-Pod.md "wikilink")\[1\]。
+associates），以及日本的Glamorous包辦設計。W酒店與一般酒店最大差別，是每間客房有不同風格各異的主題設計。客房還配備[i-Pod外接裝置及多線道IP電話連視像會議設備](https://zh.wikipedia.org/wiki/i-Pod "wikilink")\[1\]。
 
 ## 設施
 
@@ -39,7 +39,7 @@ Yin），於11月29日開業。
 
 ## 參見
 
-  - [喜達屋酒店及度假酒店國際集團](../Page/喜達屋酒店及度假酒店國際集團.md "wikilink")－[W酒店](../Page/W酒店.md "wikilink")
+  - [喜達屋酒店及度假酒店國際集團](../Page/喜達屋酒店及度假酒店國際集團.md "wikilink")－[W酒店](https://zh.wikipedia.org/wiki/W酒店 "wikilink")
 
 ## 參考文獻
 

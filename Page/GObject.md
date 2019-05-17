@@ -1,11 +1,11 @@
 [GObject_example.png](https://zh.wikipedia.org/wiki/File:GObject_example.png "fig:GObject_example.png")
 
-**[GLib对象系统](../Page/GLib.md "wikilink")**，或者说**GObject**，是一个在[LGPL下发布的](../Page/LGPL.md "wikilink")[自由](../Page/自由软件.md "wikilink")[软件库](../Page/软件库.md "wikilink")，它提供了一个轻便的[对象系统并支持透明的多语言互通](../Page/对象系统.md "wikilink")。GObject被设计为可以直接使用在[C程序中](../Page/C语言.md "wikilink")，也[封装至其他语言](../Page/封装.md "wikilink")。
+**[GLib对象系统](../Page/GLib.md "wikilink")**，或者说**GObject**，是一个在[LGPL下发布的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由](../Page/自由软件.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/软件库 "wikilink")，它提供了一个轻便的[对象系统并支持透明的多语言互通](https://zh.wikipedia.org/wiki/对象系统 "wikilink")。GObject被设计为可以直接使用在[C程序中](https://zh.wikipedia.org/wiki/C语言 "wikilink")，也[封装至其他语言](https://zh.wikipedia.org/wiki/封装 "wikilink")。
 
 ## 历史
 
-GObject仅依赖于[GLib和](../Page/GLib.md "wikilink")[libc](../Page/libc.md "wikilink")。它是[GNOME的基石并且在](../Page/GNOME.md "wikilink")[GTK+](../Page/GTK+.md "wikilink")，[Pango](../Page/Pango.md "wikilink")，[Accessibility
-Toolkit和大多数](../Page/Accessibility_Toolkit.md "wikilink")[GNOME的高级库和应用程序中被广泛使用](../Page/GNOME.md "wikilink")。在GTK+
+GObject仅依赖于[GLib和](../Page/GLib.md "wikilink")[libc](https://zh.wikipedia.org/wiki/libc "wikilink")。它是[GNOME的基石并且在](../Page/GNOME.md "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，[Pango](../Page/Pango.md "wikilink")，[Accessibility
+Toolkit和大多数](https://zh.wikipedia.org/wiki/Accessibility_Toolkit "wikilink")[GNOME的高级库和应用程序中被广泛使用](../Page/GNOME.md "wikilink")。在GTK+
 2.0之前，GObject代码是GTK+的一部分。（现在GObject这个名字已经不在GTK+中了──取代它的基本类型叫做`GtkObject`。）
 
 由于对象系统适用的范围更广，较有一般性，所以在GTK+2.0发布时，对象系统被分离了出來，改放到了另一個函数库。GtkObject在Gtk演进的过程里，大部分与GUI不相关的部份都移到了GObject里，造就了新的共用基础类型GObject的诞生。从2002年3月11日（也就是GTK+
@@ -20,9 +20,9 @@ Distro的作法也是把GObject包在GLib裡（舉例來說，Debian把GObject�
 ## 類型系統
 
 GObject框架的基層主要依靠泛型與動態型別，稱作GType。GType系統保留所有物件的執行時期描述以讓glue
-code能方便地與其他語言作連結。[類型系統可以處理任何單一繼承的類別架構以及非類別的型別](../Page/類型系統.md "wikilink")，如[不透明指標](../Page/不透明指標.md "wikilink")、字串跟各種長度的整數與浮點數。
+code能方便地與其他語言作連結。[類型系統可以處理任何單一繼承的類別架構以及非類別的型別](../Page/類型系統.md "wikilink")，如[不透明指標](https://zh.wikipedia.org/wiki/不透明指標 "wikilink")、字串跟各種長度的整數與浮點數。
 
-[類型系統知道如何複製](../Page/類型系統.md "wikilink")、指派和釋放屬於任何已註冊類型的值。這對像整數這種不是[參考計數](../Page/參考計數.md "wikilink")（reference-counted）的型別來說是很瑣碎的事情，但是對於其他是參考計數的複雜物件來說，是必要的。當[類型系統複製了一個參考計數的物件](../Page/類型系統.md "wikilink")，它僅僅只是增加該物件的參考計數，對複製一個複雜、不是參考計數的物件時，則是以配置記憶體的方式建立副本。
+[類型系統知道如何複製](../Page/類型系統.md "wikilink")、指派和釋放屬於任何已註冊類型的值。這對像整數這種不是[參考計數](https://zh.wikipedia.org/wiki/參考計數 "wikilink")（reference-counted）的型別來說是很瑣碎的事情，但是對於其他是參考計數的複雜物件來說，是必要的。當[類型系統複製了一個參考計數的物件](../Page/類型系統.md "wikilink")，它僅僅只是增加該物件的參考計數，對複製一個複雜、不是參考計數的物件時，則是以配置記憶體的方式建立副本。
 
 這項基本的能力被實作在GValue，GValue是一個泛型容器的型別，裡面可以用來保存註冊在[類型系統裡的型別的值](../Page/類型系統.md "wikilink")。這樣的容器在與動態型別語言溝通時，特別地有用。
 
@@ -44,7 +44,8 @@ code能方便地與其他語言作連結。[類型系統可以處理任何單一
   - 單精度與雙精度的[IEEE浮點數](../Page/IEEE_754.md "wikilink")，對應到C的float跟double(G_TYPE_FLOAT
     and G_TYPE_DOUBLE）;
   - 字串類型，對應到C的char \* (G_TYPE_STRING);
-  - [不透明指標](../Page/不透明指標.md "wikilink")，對應到C的void \*（G_TYPE_POINTER）。
+  - [不透明指標](https://zh.wikipedia.org/wiki/不透明指標 "wikilink")，對應到C的void
+    \*（G_TYPE_POINTER）。
 
 類別內建的基礎類型有：
 
@@ -68,7 +69,7 @@ code能方便地與其他語言作連結。[類型系統可以處理任何單一
     不透明的指標類型（Opaque pointer
     types）:有時候，物件既不需要複製也不需要作參考計數或釋放。這樣的物件在GObject裡，可以當作是不透明指標（`G_TYPE_POINTER`）。通常被用來參考到特定種類的物件。
     類別與介面類型:
-    GObject應用程式裡的大部分類型都是類別，直接或間接地繼承自根類別：`GObject`。是的，GObject裡也可以使用類似[Java的介面](../Page/Java_\(程式語言\).md "wikilink")（interface），雖然很少被使用到。很少使用到的原因可能是因為介面是在GLib
+    GObject應用程式裡的大部分類型都是類別，直接或間接地繼承自根類別：`GObject`。是的，GObject裡也可以使用類似[Java的介面](https://zh.wikipedia.org/wiki/Java_\(程式語言\) "wikilink")（interface），雖然很少被使用到。很少使用到的原因可能是因為介面是在GLib
     2.4（在2004年3月16日釋出）才被加進去。[GIMP就有使用到GObject的介面](../Page/GIMP.md "wikilink")。
 
 ## 訊息系統
@@ -87,7 +88,7 @@ GObject訊息系統由兩個互補的部份所組成：closures與信號。
 
 每個GObject類別必須包含至少兩個結構：類別結構與實體結構。
 
-  - 類別結構:類別結構相當於C++類別的vtable。第一個元素必須是父類別的類別結構。裡面包含一組函式指標，也就是類別的[虛擬方法](../Page/虛擬函式.md "wikilink")。放在這裡的變數，就像是C++類別裡的const或類別層級的成員。
+  - 類別結構:類別結構相當於C++類別的vtable。第一個元素必須是父類別的類別結構。裡面包含一組函式指標，也就是類別的[虛擬方法](https://zh.wikipedia.org/wiki/虛擬函式 "wikilink")。放在這裡的變數，就像是C++類別裡的const或類別層級的成員。
     實體結構:每個物件實體都將會是這個實體結構的副本，同樣地，第一個元素，必須是實體結構的父類別（這可以確保每個實體都有個指標可以指向類別結構，所有的基礎類別也同樣如此），在歸入父類別之後，可以在結構內放其他的變數，這就相當於C++的成員變數。
 
 C結構沒有像"public",
@@ -109,7 +110,7 @@ GObject應用程式在執行時期為類別和介面所建立的元物件提供�
 
 ## 與其他物件系統比較
 
-GObject為C提供了近乎完整的物件系統，所以使用C語言配合GObject，可以做為使用其他從C分支出去的語言，像C++和Objective-C，的替代方案。（不過C++和Objective-C其實各自有很多其他特色，而不是只有差在物件系統。）　最明顯也最簡單的不同，是GObject跟Java一樣，不支援[多重繼承](../Page/多重繼承.md "wikilink")。
+GObject為C提供了近乎完整的物件系統，所以使用C語言配合GObject，可以做為使用其他從C分支出去的語言，像C++和Objective-C，的替代方案。（不過C++和Objective-C其實各自有很多其他特色，而不是只有差在物件系統。）　最明顯也最簡單的不同，是GObject跟Java一樣，不支援[多重繼承](https://zh.wikipedia.org/wiki/多重繼承 "wikilink")。
 
 另一個重要的不同，GObject僅僅只是一個函式庫，而C++和Objective-C的編譯器還額外提供了新的語法或特性。
 
@@ -118,7 +119,7 @@ C++編譯器所編譯的程式呼叫。如果需要這樣的相容性，C++的�
 mangling）以確保輸出符號的獨一性。(這是必要的，舉例來說，不同的類別可能會有一樣名稱的成員函式、被覆載許多次的函式名稱，或者出現在多個命名空間但同名的函式，但在輸出為目的檔時，這些代碼都是獨立的，如果名稱都一樣，會被視為同一份代碼，因此需要對名稱作特殊處理。）對照C來看，C不支援任何形式的覆載或名稱特殊處理，C函式庫的作者永遠只能使用明確的前置名以確保輸出名稱的全域獨一性。因此，以C撰寫的GObject基底的函式庫將不會有名稱特殊處理的問題，也不會受到編譯器的影響。
 
 最後，"信號"（signal）可以說是更容易被發現的相異點了（在其他語言被稱作事件）。這當然是因為GObject最早被設計用在GUI工具箱上。的確，許多物件導向語言都已經有現成的信號函式庫，但GObject是被內建在物件系統裡的。因此，GObject應用程式與其他非GObject應用程式比起來，會傾向於去使用信號來實作。這使得GObject
-[元件](../Page/基于组件的软件工程.md "wikilink")，相較於純C++或Java寫的元件，更易於封裝，也容易被重複使用。不過該注意的是，在幾乎所有的平台都可以使用信號，但有時其實需要額外的函式庫支援，例如可用於C++的Boost.Signals2。
+[元件](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")，相較於純C++或Java寫的元件，更易於封裝，也容易被重複使用。不過該注意的是，在幾乎所有的平台都可以使用信號，但有時其實需要額外的函式庫支援，例如可用於C++的Boost.Signals2。
 
 ## 外部連結
 

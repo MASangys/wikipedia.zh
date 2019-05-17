@@ -4,17 +4,20 @@
 
   -  – a quarter-inch video cassette format
 
-  - [Card verification code](../Page/信用卡安全码.md "wikilink") – a security
-    feature on credit cards
+  - [Card verification
+    code](https://zh.wikipedia.org/wiki/信用卡安全码 "wikilink") –
+    a security feature on credit cards
 
   -  – a format for digital certificates usable by smart cards
 
   -
-  - [中心靜脈導管](../Page/中心靜脈導管.md "wikilink")（central venous catheter）
+  - [中心靜脈導管](https://zh.wikipedia.org/wiki/中心靜脈導管 "wikilink")（central
+    venous catheter）
 
   - The
 
-  - [Current-voltage characteristic](../Page/电流-电压特性曲线.md "wikilink")
+  - [Current-voltage
+    characteristic](https://zh.wikipedia.org/wiki/电流-电压特性曲线 "wikilink")
 
   - complex
 
@@ -25,17 +28,17 @@
 ## 電腦
 
   - Code Verification Certificate - a
-    [x.509](../Page/x.509.md "wikilink")
-    [PKI](../Page/公開金鑰基礎建設.md "wikilink") certificate
-    used in cable modems to verify code images before accepting them
+    [x.509](https://zh.wikipedia.org/wiki/x.509 "wikilink")
+    [PKI](../Page/公開金鑰基礎建設.md "wikilink") certificate used in cable
+    modems to verify code images before accepting them
 
 ## 法律
 
   -
 ## 語言
 
-  - Consonant–vowel–consonant [syllable](../Page/音节.md "wikilink")
-    pattern
+  - Consonant–vowel–consonant
+    [syllable](https://zh.wikipedia.org/wiki/音节 "wikilink") pattern
   - a variationist sociolinguistics conference in Canada
 
 | URL                                                                                                                                               | 年分   | 地點                                                                                    |
@@ -53,7 +56,8 @@
   - Citigroup Venture Capital Equity Partners – a U.S. based private
     equity firm renamed  and spun out of Citigroup in 2006
 
-  - [CVC Capital Partners](../Page/CVC_Capital_Partners.md "wikilink") –
+  - [CVC Capital
+    Partners](https://zh.wikipedia.org/wiki/CVC_Capital_Partners "wikilink") –
     a European private equity firm
 
   - [美国在线](../Page/美国在线.md "wikilink")（Control Video Corporation）：a
@@ -87,13 +91,13 @@
   - in Southern Ontario
 
   - [Crime Victims
-    Compensation](../Page/Crime_Victims_Compensation.md "wikilink") in
-    United States
+    Compensation](https://zh.wikipedia.org/wiki/Crime_Victims_Compensation "wikilink")
+    in United States
 
   - Canterbury Velo Club -based in Canterbury, Kent. 100km ride most
     Saturdays from Longport at 10:00am
 
-  - [CVC广播电台](../Page/CVC广播电台.md "wikilink")
+  - [CVC广播电台](https://zh.wikipedia.org/wiki/CVC广播电台 "wikilink")
 
 ## 建築
 
@@ -105,6 +109,6 @@
 
 ## 軍事
 
-  - [戰鬥車輛](../Page/戰鬥車輛.md "wikilink")（Combat Vehicle Crewman）：referring
-    to persons who man armored fighting vehicles as well as their
-    clothing and equipment.
+  - [戰鬥車輛](https://zh.wikipedia.org/wiki/戰鬥車輛 "wikilink")（Combat Vehicle
+    Crewman）：referring to persons who man armored fighting vehicles as
+    well as their clothing and equipment.

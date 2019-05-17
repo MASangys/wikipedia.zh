@@ -1,8 +1,8 @@
 **Y染色體亞當**（Y-chromosomal
-Adam），或稱**Y-MRCA**，在[遺傳學上](../Page/遺傳學.md "wikilink")，由[人類Y染色體DNA單倍型類群推測出的所有現存](../Page/人類Y染色體DNA單倍型類群.md "wikilink")[男性在](../Page/男性.md "wikilink")[父系上的](../Page/父系.md "wikilink")[最近共同祖先](../Page/最近共同祖先.md "wikilink")，從他遺傳[Y染色體](../Page/Y染色體.md "wikilink")。Y染色體亞當相對於[粒線體夏娃](../Page/粒線體夏娃.md "wikilink")。
+Adam），或稱**Y-MRCA**，在[遺傳學上](https://zh.wikipedia.org/wiki/遺傳學 "wikilink")，由[人類Y染色體DNA單倍型類群推測出的所有現存](https://zh.wikipedia.org/wiki/人類Y染色體DNA單倍型類群 "wikilink")[男性在](../Page/男性.md "wikilink")[父系上的](https://zh.wikipedia.org/wiki/父系 "wikilink")[最近共同祖先](../Page/最近共同祖先.md "wikilink")，從他遺傳[Y染色體](../Page/Y染色體.md "wikilink")。Y染色體亞當相對於[粒線體夏娃](../Page/粒線體夏娃.md "wikilink")。
 
-從[世界上所有地區的人類](../Page/世界.md "wikilink")[DNA分析中](../Page/DNA.md "wikilink")，[遺傳學家](../Page/遺傳學家.md "wikilink")[史賓賽·韋爾斯](../Page/史賓賽·韋爾斯.md "wikilink")（Spencer
-Wells）結論出所有今天的人類都是生存於6萬年前[非洲大陆的男人的後裔](../Page/非洲大陆.md "wikilink")\[1\]。
+從[世界上所有地區的人類](../Page/世界.md "wikilink")[DNA分析中](https://zh.wikipedia.org/wiki/DNA "wikilink")，[遺傳學家](https://zh.wikipedia.org/wiki/遺傳學家 "wikilink")[史賓賽·韋爾斯](https://zh.wikipedia.org/wiki/史賓賽·韋爾斯 "wikilink")（Spencer
+Wells）結論出所有今天的人類都是生存於6萬年前[非洲大陆的男人的後裔](https://zh.wikipedia.org/wiki/非洲大陆 "wikilink")\[1\]。
 
 ## 命名
 
@@ -10,11 +10,11 @@ Y染色體亞當虽然是以《[創世記](../Page/創世記.md "wikilink")》�
 
 ## 時間框
 
-根據[分子鐘及](../Page/分子鐘.md "wikilink")[遺傳標記的研究](../Page/遺傳標記.md "wikilink")，Y染色體亞當可能生存於6萬至9萬年前。雖然Y染色體亞當與[粒線體夏娃的後裔變得親密](../Page/粒線體夏娃.md "wikilink")，但他們卻相隔了最少3萬年([粒線體夏娃較早](../Page/粒線體夏娃.md "wikilink"))，或可能是1000代。這是從男性及女性的[生殖方法差異而發現的](../Page/生殖.md "wikilink")。
+根據[分子鐘及](https://zh.wikipedia.org/wiki/分子鐘 "wikilink")[遺傳標記的研究](https://zh.wikipedia.org/wiki/遺傳標記 "wikilink")，Y染色體亞當可能生存於6萬至9萬年前。雖然Y染色體亞當與[粒線體夏娃的後裔變得親密](../Page/粒線體夏娃.md "wikilink")，但他們卻相隔了最少3萬年([粒線體夏娃較早](../Page/粒線體夏娃.md "wikilink"))，或可能是1000代。這是從男性及女性的[生殖方法差異而發現的](https://zh.wikipedia.org/wiki/生殖 "wikilink")。
 
-Y染色體亞當較粒線體夏娃為近期，對應[舊石器時代有後代的男人比當時有後代的女人的](../Page/舊石器時代.md "wikilink")[概率分佈有更大的差異](../Page/概率分佈.md "wikilink")。正常生育女人有接近相等的機會產下一定數量能正常生育的後代，而正常生育男人則較參差，有些沒有兒子，或有些則有很多。
+Y染色體亞當較粒線體夏娃為近期，對應[舊石器時代有後代的男人比當時有後代的女人的](https://zh.wikipedia.org/wiki/舊石器時代 "wikilink")[概率分佈有更大的差異](https://zh.wikipedia.org/wiki/概率分佈 "wikilink")。正常生育女人有接近相等的機會產下一定數量能正常生育的後代，而正常生育男人則較參差，有些沒有兒子，或有些則有很多。
 
-Y染色體亞當在[人類歷史中的亞當並非同一人](../Page/人類.md "wikilink")，所有現今人類的Y染色體亞當有可能會與過去或未來人類的Y染色體亞當有所不同。如果其中一支较远的Y染色体单倍群在后来失传，一個較近期的人就會成為新的Y染色體亞當。在迅速人口增長的時代，父系分支對比[人口瓶頸時較難消失](../Page/人口瓶頸.md "wikilink")。
+Y染色體亞當在[人類歷史中的亞當並非同一人](../Page/人類.md "wikilink")，所有現今人類的Y染色體亞當有可能會與過去或未來人類的Y染色體亞當有所不同。如果其中一支较远的Y染色体单倍群在后来失传，一個較近期的人就會成為新的Y染色體亞當。在迅速人口增長的時代，父系分支對比[人口瓶頸時較難消失](https://zh.wikipedia.org/wiki/人口瓶頸 "wikilink")。
 
 ## 參考文献
 

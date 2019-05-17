@@ -4,9 +4,10 @@ xi.wang 等人。
 
 ## 特性
 
-  - 快速文字渲染，使用 [Core Text](../Page/Core_Text.md "wikilink") 技术\[1\]
+  - 快速文字渲染，使用 [Core
+    Text](https://zh.wikipedia.org/wiki/Core_Text "wikilink") 技术\[1\]
   - 标签式浏览
-  - [URL](../Page/URL.md "wikilink")  智慧识别
+  - [URL](https://zh.wikipedia.org/wiki/URL "wikilink")  智慧识别
   - 具有 [EXIF](../Page/EXIF.md "wikilink") 信息的图片预览
   - 全螢幕模式
   - 强大的讯息（水球）功能
@@ -18,11 +19,12 @@ xi.wang 等人。
   - 多语种界面
   - 自动更新
   - [Cover Flow](../Page/Cover_Flow.md "wikilink")
-  - 支持 ANSI 彩色的文本编辑器，并可直接粘贴[富文本](../Page/富文本.md "wikilink")。
+  - 支持 ANSI
+    彩色的文本编辑器，并可直接粘贴[富文本](https://zh.wikipedia.org/wiki/富文本 "wikilink")。
   - 鼠标浏览
   - 自动登录
   - 矩形选择
-  - [URL](../Page/URL.md "wikilink") 模式
+  - [URL](https://zh.wikipedia.org/wiki/URL "wikilink") 模式
   - 使用代理服务器
   - 直接彩色粘贴
   - 自动生成 [RSS](../Page/RSS.md "wikilink") Feed

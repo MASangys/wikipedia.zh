@@ -1,5 +1,5 @@
 《**Battle Spirits
-少年突破馬神**》（）是一套由2008年9月至2009年6月間，開始在[日本播放的](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")。為[SUNRISE改編自](../Page/SUNRISE.md "wikilink")[萬代與魔法風雲會製作組共同出品的CARDDAS系列](../Page/萬代.md "wikilink")30周年紀念的卡片遊戲動畫作品。
+少年突破馬神**》（）是一套由2008年9月至2009年6月間，開始在[日本播放的](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[SUNRISE改編自](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")[萬代與魔法風雲會製作組共同出品的CARDDAS系列](../Page/萬代.md "wikilink")30周年紀念的卡片遊戲動畫作品。
 
 ## 故事概要
 
@@ -729,7 +729,7 @@
 ## 動畫製作群
 
   - 企畫：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
   - 首席製作人：寶田壽也、尾崎雅之
   - 系列構成：佐藤大
   - 棋譜演出：譽田晶子
@@ -805,7 +805,7 @@
 ## 漫畫
 
   - 於2008年7月至2009年10月間，[角川書店所出版](../Page/角川書店.md "wikilink")[KEROKERO
-    ACE刊載](../Page/KEROKERO_ACE.md "wikilink")，台灣中文版由[青文代理](../Page/青文.md "wikilink")，香港中文版由[正文社代理出版](../Page/正文社.md "wikilink")。
+    ACE刊載](../Page/KEROKERO_ACE.md "wikilink")，台灣中文版由[青文代理](https://zh.wikipedia.org/wiki/青文 "wikilink")，香港中文版由[正文社代理出版](../Page/正文社.md "wikilink")。
 
 <table>
 <thead>
@@ -850,10 +850,10 @@
 ## 小說
 
   - **Battle Spirits ショーメン偵探團！**　
-      - 原作：[矢立肇](../Page/矢立肇.md "wikilink")　
+      - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")　
       - 著作：濱崎達也　
       - 繪製：[藤異秀明](../Page/藤異秀明.md "wikilink")　
-      - 監修：[SUNRISE](../Page/SUNRISE.md "wikilink")
+      - 監修：[SUNRISE](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")
 
 ## 相關系列
 

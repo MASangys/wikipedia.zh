@@ -1,5 +1,5 @@
 **GNOME Chess**,
-**Glchess**[国际象棋](../Page/国际象棋.md "wikilink")，是[Gnome游戏的一部分](../Page/Gnome游戏.md "wikilink")。\[1\]支持2D或3D界面。
+**Glchess**[国际象棋](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")，是[Gnome游戏的一部分](https://zh.wikipedia.org/wiki/Gnome游戏 "wikilink")。\[1\]支持2D或3D界面。
 
 ## 外部链接
 

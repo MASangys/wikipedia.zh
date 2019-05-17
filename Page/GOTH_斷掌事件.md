@@ -1,5 +1,5 @@
 《**GOTH
-斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](../Page/小說家.md "wikilink")[乙一的](../Page/乙一.md "wikilink")[小說](../Page/小說.md "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](../Page/漫畫.md "wikilink")[電影](../Page/電影.md "wikilink")。
+斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一的](../Page/乙一.md "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 出版資訊
 
@@ -55,35 +55,35 @@
 
 ## 電影
 
-2007年7月27日攝影開始，8月18日結束（撮影期21日）。攝影結束後，前製片人[山田俊輔被證明用虛偽報告從](../Page/山田俊輔.md "wikilink")[角川映畫詐取電影版權後逃跑](../Page/角川映畫.md "wikilink")，製作中斷。2008年5月23日在前製片人失蹤狀態下完成製作。2008年12月20日在日本上映。
+2007年7月27日攝影開始，8月18日結束（撮影期21日）。攝影結束後，前製片人[山田俊輔被證明用虛偽報告從](https://zh.wikipedia.org/wiki/山田俊輔 "wikilink")[角川映畫詐取電影版權後逃跑](../Page/角川映畫.md "wikilink")，製作中斷。2008年5月23日在前製片人失蹤狀態下完成製作。2008年12月20日在日本上映。
 
 ### 演員
 
-  - 神山樹：[本鄉奏多](../Page/本鄉奏多.md "wikilink")
+  - 神山樹：[本鄉奏多](https://zh.wikipedia.org/wiki/本鄉奏多 "wikilink")
   - 森野夜：[高梨臨](../Page/高梨臨.md "wikilink")
-  - 間宮（喫茶店の常連客）：[松尾敏伸](../Page/松尾敏伸.md "wikilink")
-  - 神山櫻（樹の妹）：[柳生みゆ](../Page/柳生みゆ.md "wikilink")
-  - 秋元（喫茶店の常連客）：[山中聰](../Page/山中聰.md "wikilink")
-  - 杉浦（喫茶店の常連客）：[鳥肌実](../Page/鳥肌実.md "wikilink")
-  - 君塚（喫茶店の常連客）：[夏生ゆうな](../Page/夏生ゆうな.md "wikilink")
-  - （喫茶店の常連客）：[中田圭](../Page/中田圭.md "wikilink")
-  - 喫茶店の店主：[長塚圭史](../Page/長塚圭史.md "wikilink")
+  - 間宮（喫茶店の常連客）：[松尾敏伸](https://zh.wikipedia.org/wiki/松尾敏伸 "wikilink")
+  - 神山櫻（樹の妹）：[柳生みゆ](https://zh.wikipedia.org/wiki/柳生みゆ "wikilink")
+  - 秋元（喫茶店の常連客）：[山中聰](https://zh.wikipedia.org/wiki/山中聰 "wikilink")
+  - 杉浦（喫茶店の常連客）：[鳥肌実](https://zh.wikipedia.org/wiki/鳥肌実 "wikilink")
+  - 君塚（喫茶店の常連客）：[夏生ゆうな](https://zh.wikipedia.org/wiki/夏生ゆうな "wikilink")
+  - （喫茶店の常連客）：[中田圭](https://zh.wikipedia.org/wiki/中田圭 "wikilink")
+  - 喫茶店の店主：[長塚圭史](https://zh.wikipedia.org/wiki/長塚圭史 "wikilink")
 
 ### 製作
 
   - 原作：[乙一](../Page/乙一.md "wikilink")
-  - 導演・編劇：[高橋玄](../Page/高橋玄.md "wikilink")
-  - 作劇：[柏田道夫](../Page/柏田道夫.md "wikilink")、[高橋玄](../Page/高橋玄.md "wikilink")、[堀田尚志](../Page/堀田尚志.md "wikilink")、[齊藤翠](../Page/齊藤翠.md "wikilink")、[Gram](../Page/Gram.md "wikilink")
-  - 撮影：[釘宮慎治](../Page/釘宮慎治.md "wikilink")
-  - 照明：[田邊浩](../Page/田邊浩.md "wikilink")
-  - 録音：[岩丸恒](../Page/岩丸恒.md "wikilink")
-  - 美術：[安宅紀史](../Page/安宅紀史.md "wikilink")
-  - 編集：[矢船陽介](../Page/矢船陽介.md "wikilink")
-  - 音楽：[村上純](../Page/村上純.md "wikilink")
-  - 助監督：[崎田憲一](../Page/崎田憲一.md "wikilink")
-  - 制作担当：[新井聰](../Page/新井聰.md "wikilink")
-  - 製作人：[上野境介](../Page/上野境介.md "wikilink")
-  - 製作：[大橋孝史](../Page/大橋孝史.md "wikilink")
+  - 導演・編劇：[高橋玄](https://zh.wikipedia.org/wiki/高橋玄 "wikilink")
+  - 作劇：[柏田道夫](https://zh.wikipedia.org/wiki/柏田道夫 "wikilink")、[高橋玄](https://zh.wikipedia.org/wiki/高橋玄 "wikilink")、[堀田尚志](https://zh.wikipedia.org/wiki/堀田尚志 "wikilink")、[齊藤翠](https://zh.wikipedia.org/wiki/齊藤翠 "wikilink")、[Gram](https://zh.wikipedia.org/wiki/Gram "wikilink")
+  - 撮影：[釘宮慎治](https://zh.wikipedia.org/wiki/釘宮慎治 "wikilink")
+  - 照明：[田邊浩](https://zh.wikipedia.org/wiki/田邊浩 "wikilink")
+  - 録音：[岩丸恒](https://zh.wikipedia.org/wiki/岩丸恒 "wikilink")
+  - 美術：[安宅紀史](https://zh.wikipedia.org/wiki/安宅紀史 "wikilink")
+  - 編集：[矢船陽介](https://zh.wikipedia.org/wiki/矢船陽介 "wikilink")
+  - 音楽：[村上純](https://zh.wikipedia.org/wiki/村上純 "wikilink")
+  - 助監督：[崎田憲一](https://zh.wikipedia.org/wiki/崎田憲一 "wikilink")
+  - 制作担当：[新井聰](https://zh.wikipedia.org/wiki/新井聰 "wikilink")
+  - 製作人：[上野境介](https://zh.wikipedia.org/wiki/上野境介 "wikilink")
+  - 製作：[大橋孝史](https://zh.wikipedia.org/wiki/大橋孝史 "wikilink")
 
 ### 外部連結
 

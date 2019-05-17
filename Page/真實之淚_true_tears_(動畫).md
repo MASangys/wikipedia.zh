@@ -1,11 +1,11 @@
 《**真實之淚 true
-tears**》是由[P.A.WORKS所製作的](../Page/P.A.WORKS.md "wikilink")[日本的](../Page/日本.md "wikilink")[電視動畫作品](../Page/電視動畫.md "wikilink")\[1\]。
+tears**》是由[P.A.WORKS所製作的](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[日本的](../Page/日本.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
 
 ## 概要
 
-本作自2008年1月开始播放，以[富山县为舞台](../Page/富山县.md "wikilink")（担当动画制作的[P.A.WORKS社址就在富山县](../Page/P.A.WORKS.md "wikilink")[南砺市](../Page/南砺市.md "wikilink")），故事觀與[同名遊戲相同](../Page/真實之淚_true_tears.md "wikilink")，但角色和剧情均为原创\[2\]。
+本作自2008年1月开始播放，以[富山县为舞台](https://zh.wikipedia.org/wiki/富山县 "wikilink")（担当动画制作的[P.A.WORKS社址就在富山县](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[南砺市](../Page/南砺市.md "wikilink")），故事觀與[同名遊戲相同](../Page/真實之淚_true_tears.md "wikilink")，但角色和剧情均为原创\[2\]。
 
-[DVD于](../Page/DVD.md "wikilink")2008年发售，[Blu-ray](../Page/Blu-ray.md "wikilink")
+[DVD于](https://zh.wikipedia.org/wiki/DVD "wikilink")2008年发售，[Blu-ray](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")
 BOX则是在2010年3月26日发售。
 
 ## 故事
@@ -31,7 +31,7 @@ BOX则是在2010年3月26日发售。
 ### 次要角色
 
   -
-    石動乃绘的哥哥。螢川高校3年級生，籃球部4號球員，俊秀的面容與挺拔的運動身材讓他在女學生間相當有人氣。而家庭狀況使得他非常照顧且疼愛妹妹乃繪，被比呂美稱作[妹控](../Page/妹控.md "wikilink")。但其實他對妹妹的感情深厚到甚至超越了親情，愛上了乃繪，卻沒發現，還以為這樣是保護。無論什麼事決定，眼中只有妹妹，除了乃繪以外，其他人事物都不重要。看出乃絵喜歡上真一郎，逼迫真一郎與乃絵交往，以此為條件，自己與比呂美交往。但最终被比吕美看出是妹控而被拒絕。
+    石動乃绘的哥哥。螢川高校3年級生，籃球部4號球員，俊秀的面容與挺拔的運動身材讓他在女學生間相當有人氣。而家庭狀況使得他非常照顧且疼愛妹妹乃繪，被比呂美稱作[妹控](https://zh.wikipedia.org/wiki/妹控 "wikilink")。但其實他對妹妹的感情深厚到甚至超越了親情，愛上了乃繪，卻沒發現，還以為這樣是保護。無論什麼事決定，眼中只有妹妹，除了乃繪以外，其他人事物都不重要。看出乃絵喜歡上真一郎，逼迫真一郎與乃絵交往，以此為條件，自己與比呂美交往。但最终被比吕美看出是妹控而被拒絕。
     最后祭典時在打工的店裏表达出了自己對乃繪的爱，並告诉了乃繪自己的感情。
   -
     真一郎的父親，家傳酒業「仲上酒廠」的廠長，沈默寡言的個性給人嚴厲父親的形象，實際上卻是溫和而善解人意，對於真一郎不繼承家業而以插畫家為目標的事情表示理解與支持，把比呂美當作自己的孩子一樣對待。與比呂美的父母親是舊識。
@@ -61,18 +61,20 @@ BOX则是在2010年3月26日发售。
   - 音響制作：Fonisia
   - 音樂：菊地創
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
-  - 製作：[永谷敬之](../Page/永谷敬之.md "wikilink")、伊藤善之、平光良介、[堀川憲司](../Page/堀川憲司.md "wikilink")
-  - 動畫制作：[P.A. Works](../Page/P.A._Works.md "wikilink")
-  - 製作：[true tears製作委員會](../Page/製作委員會方式.md "wikilink")、Bandai
+  - 製作：[永谷敬之](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")、伊藤善之、平光良介、[堀川憲司](../Page/堀川憲司.md "wikilink")
+  - 動畫制作：[P.A.
+    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
+  - 製作：[true
+    tears製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、Bandai
     Visual、[Lantis](../Page/Lantis.md "wikilink")
 
 ## 主題曲
 
   - 片頭曲：
-    作詞：[riya](../Page/riya.md "wikilink")　作曲、編曲：菊地創
-    歌：[eufonius](../Page/eufonius.md "wikilink")
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")　作曲、編曲：菊地創
+    歌：[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")
   - 片尾曲：
-    作詞：[畑亚贵](../Page/畑亚贵.md "wikilink")　作曲、編曲：末廣健一郎
+    作詞：[畑亚贵](https://zh.wikipedia.org/wiki/畑亚贵 "wikilink")　作曲、編曲：末廣健一郎
     歌：
   - 插入歌：（第10话）
     作词：riya　作曲、編曲：菊地创
@@ -267,32 +269,32 @@ BOX则是在2010年3月26日发售。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/神奈川县.md" title="wikilink">神奈川县</a></p></td>
-<td><p><a href="../Page/神奈川电视台.md" title="wikilink">神奈川电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神奈川电视台" title="wikilink">神奈川电视台</a></p></td>
 <td><p>2008年1月5日 - 3月29日</p></td>
 <td><p>星期六 25時00分 - 25時30分</p></td>
-<td><p><a href="../Page/全国独立UHF放送協議会.md" title="wikilink">独立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立UHF放送協議会" title="wikilink">独立UHF局</a></p></td>
 <td><p>幹事局</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/关西电视台.md" title="wikilink">关西电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/关西电视台" title="wikilink">关西电视台</a></p></td>
 <td><p>2008年1月8日 - 4月1日</p></td>
 <td><p>星期二 26時45分 - 27時15分</p></td>
-<td><p><a href="../Page/FNS.md" title="wikilink">富士电视系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNS" title="wikilink">富士电视系</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/千葉县.md" title="wikilink">千葉县</a></p></td>
-<td><p><a href="../Page/千叶电视台.md" title="wikilink">千叶电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉县" title="wikilink">千葉县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千叶电视台" title="wikilink">千叶电视台</a></p></td>
 <td><p>2008年1月9日 - 4月2日</p></td>
 <td><p>星期三 25時30分 - 26時00分</p></td>
 <td><p>独立UHF局</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/埼玉县.md" title="wikilink">埼玉县</a></p></td>
-<td><p><a href="../Page/埼玉电视台.md" title="wikilink">埼玉电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埼玉县" title="wikilink">埼玉县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埼玉电视台" title="wikilink">埼玉电视台</a></p></td>
 <td><p>2008年1月10日 - 4月3日</p></td>
 <td><p>星期四 26時00分 - 26時30分</p></td>
 <td></td>
@@ -300,15 +302,15 @@ BOX则是在2010年3月26日发售。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/东海电视台.md" title="wikilink">东海电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东海电视台" title="wikilink">东海电视台</a></p></td>
 <td><p>星期四 27時35分 - 28時05分</p></td>
 <td><p>富士电视系</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/富山县.md" title="wikilink">富山县</a></p></td>
-<td><p><a href="../Page/富山电视台.md" title="wikilink">富山电视台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富山县" title="wikilink">富山县</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富山电视台" title="wikilink">富山电视台</a></p></td>
 <td><p>2008年4月7日 - 6月30日</p></td>
 <td><p>星期一 26時05分 - 26時35分</p></td>
 <td><p>P.A.WORKS的所在地<br />
@@ -324,7 +326,7 @@ BOX则是在2010年3月26日发售。
 <td><p>『<a href="../Page/ANIME+.md" title="wikilink">ANIME+</a>』节目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/KIDS_STATION.md" title="wikilink">KIDS STATION</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KIDS_STATION" title="wikilink">KIDS STATION</a></p></td>
 <td><p>星期五 24時00分 - 24時30分</p></td>
 <td><p><a href="../Page/卫星电视.md" title="wikilink">CS放送</a></p></td>
 <td><p>有重播</p></td>
@@ -335,7 +337,7 @@ BOX则是在2010年3月26日发售。
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2008年1月18日 - 4月18日</p></td>
 <td><p>星期五 12時00分更新</p></td>
-<td><p><a href="../Page/网络放送.md" title="wikilink">网络放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/网络放送" title="wikilink">网络放送</a></p></td>
 <td><p>收费</p></td>
 <td></td>
 </tr>

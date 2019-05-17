@@ -1,6 +1,6 @@
 **NEPOMUK**(Networked Environment for Personalized, Ontology-based
 Management of Unified Knowledge)
-是一個開源軟件規範，特別關注社會性語義學桌面發展，將從不同的桌面應用程序來的豐富和互連的數據使用語義學[元數據存儲成](../Page/元數據.md "wikilink")[RDF](../Page/RDF.md "wikilink")。在最初是
+是一個開源軟件規範，特別關注社會性語義學桌面發展，將從不同的桌面應用程序來的豐富和互連的數據使用語義學[元數據存儲成](https://zh.wikipedia.org/wiki/元數據 "wikilink")[RDF](https://zh.wikipedia.org/wiki/RDF "wikilink")。在最初是
 NEPOMUK 專案\[1\]開發，花費一千七百萬歐元，其中一千一百五十萬是由歐盟資助\[2\]。
 
 ## 實現
@@ -11,7 +11,8 @@ NEPOMUK 專案\[1\]開發，花費一千七百萬歐元，其中一千一百五�
 
 ### KDE
 
-*NEPOMUK-KDE*\[3\]是[KDE 4新技術中的特色之一](../Page/KDE_4.md "wikilink")。它採用了
+*NEPOMUK-KDE*\[3\]是[KDE
+4新技術中的特色之一](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。它採用了
 [Soprano](../Page/Soprano_\(KDE\).md "wikilink") 儲存
 RDF。並就技術層面而言，使元數據關聯一般桌面用戶的各個項目，如文件、書籤、電子郵件和日曆條目。元數據可以是任意的RDF；在KDE
 4中，標記是用戶最常見的元數據應用。

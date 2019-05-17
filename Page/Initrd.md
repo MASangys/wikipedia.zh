@@ -1,9 +1,9 @@
 **Initrd
-ramdisk**或者**initrd**是指一个临时[文件系统](../Page/文件系统.md "wikilink")，它在启动阶段被[Linux内核调用](../Page/Linux内核.md "wikilink")。initrd主要用于当[“根”文件系统被](../Page/根目录.md "wikilink")[挂载之前](../Page/Mount_\(Unix\).md "wikilink")，进行准备工作。\[1\]
+ramdisk**或者**initrd**是指一个临时[文件系统](../Page/文件系统.md "wikilink")，它在启动阶段被[Linux内核调用](../Page/Linux内核.md "wikilink")。initrd主要用于当[“根”文件系统被](https://zh.wikipedia.org/wiki/根目录 "wikilink")[挂载之前](../Page/Mount_\(Unix\).md "wikilink")，进行准备工作。\[1\]
 
 ## 基本原理
 
-同其他[Unix系统一样](../Page/Unix.md "wikilink")，[Linux操作系统首先要将内核引导入内存](../Page/Linux.md "wikilink")。内核驻留于操作系统与应用程序的整个活动周期，其中应用程序（软件）在“用户空间”内运行，位于内核控制之下。
+同其他[Unix系统一样](https://zh.wikipedia.org/wiki/Unix "wikilink")，[Linux操作系统首先要将内核引导入内存](../Page/Linux.md "wikilink")。内核驻留于操作系统与应用程序的整个活动周期，其中应用程序（软件）在“用户空间”内运行，位于内核控制之下。
 
 為了使載入記憶體最小化，一些核心 Linux 程式轉化成模組形式，可以動態載入系統中。
 
@@ -14,11 +14,11 @@ bootloader(LILO, GRUB) 來告知核心 initrd
 
 ## initramfs 與 initrd
 
-[initramfs是initrd的一个替代品](../Page/initramfs.md "wikilink")，以另外一种方式实现了曾经initrd的功能。initrd是一个被加载的块设备，内部有[ext2一类文件系统的存在](../Page/ext2.md "wikilink")，于是由于Linux内核的缓存机制，其中的内容还会被缓存到内存上，造成一定的内存空间浪费。而initramfs本身就是一个[tmpfs的内存盘](../Page/tmpfs.md "wikilink")，拥有最小化的设计，绕过了缓存机制，也消除了多余的内存占用。\[2\]
+[initramfs是initrd的一个替代品](https://zh.wikipedia.org/wiki/initramfs "wikilink")，以另外一种方式实现了曾经initrd的功能。initrd是一个被加载的块设备，内部有[ext2一类文件系统的存在](https://zh.wikipedia.org/wiki/ext2 "wikilink")，于是由于Linux内核的缓存机制，其中的内容还会被缓存到内存上，造成一定的内存空间浪费。而initramfs本身就是一个[tmpfs的内存盘](https://zh.wikipedia.org/wiki/tmpfs "wikilink")，拥有最小化的设计，绕过了缓存机制，也消除了多余的内存占用。\[2\]
 
 initramfs的生成方式也远比initrd简单。对于initramfs，只需 `geninitramfs() { cd "$1"; find
 . -depth| cpio -o -H newc | ${3-cat}> "$2"; }`
-就可以利用[cpio生成这样一个文件](../Page/cpio.md "wikilink")，同时使用一些程序进行压缩（通过额外的管道实现，其中使用cat仅用于无压缩时转发输出，可省去）。对于initrd，则涉及生成一定大小的空文件，然后创建文件系统，挂载并添加文件等等诸多步骤。
+就可以利用[cpio生成这样一个文件](https://zh.wikipedia.org/wiki/cpio "wikilink")，同时使用一些程序进行压缩（通过额外的管道实现，其中使用cat仅用于无压缩时转发输出，可省去）。对于initrd，则涉及生成一定大小的空文件，然后创建文件系统，挂载并添加文件等等诸多步骤。
 
 ## 最终用户端实现
 
@@ -42,7 +42,7 @@ script 當成第一個程序。
 有一些 Linux 發行版將會建立客製化只包含必要元件的的 initrd 映像檔，例如只包含 ATA, SCSI以及檔案系統核心模組。
 
 有一些 Linux 發行版（例如 Fefora 或 Ubuntu）會建立較一般化的 initrd，他們會用裝置檔來啟動檔案系統（或是使用
-[UUID](../Page/UUID.md "wikilink")），大部分的裝置都在開機階段來做尋找，如此，開機會造成較複雜的開機掛載檔案系統過程：
+[UUID](https://zh.wikipedia.org/wiki/UUID "wikilink")），大部分的裝置都在開機階段來做尋找，如此，開機會造成較複雜的開機掛載檔案系統過程：
 
   - 任何硬體驅動程式的載入與否是在開機時期來決定，一般的作法是將常見的儲存裝置的核心模組放在 initrd，接著呼叫 hotplug
     來決定載入偵測到的硬體所對應的驅動程式。
@@ -61,8 +61,8 @@ script 當成第一個程序。
     /bin/ash）與一些必要的 user-space 工具程式（通常是 BusyBox
     工具），所使用的一些空間用量較小的的函式庫（例如用 gcc -Os
     選項編譯的函式庫），例如一些 c 函式庫，
-    [dietlibc](../Page/dietlibc.md "wikilink") 或
-    [klibc](../Page/klibc.md "wikilink")。
+    [dietlibc](https://zh.wikipedia.org/wiki/dietlibc "wikilink") 或
+    [klibc](https://zh.wikipedia.org/wiki/klibc "wikilink")。
 
 ## 参考
 

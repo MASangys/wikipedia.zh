@@ -1,9 +1,9 @@
 **OL日本**（OLにっぽん）是2008年10月8日开始毎周三的22:00 - 22:54 (JST)
-在[日本电视台放送的](../Page/日本电视台.md "wikilink")[电视连续剧](../Page/电视连续剧.md "wikilink")。又名《日本[女白领](../Page/办公室女职员.md "wikilink")》或《日本[女职员](../Page/办公室女职员.md "wikilink")》。2009年6月5日[緯來日本台以](../Page/緯來日本台.md "wikilink")**《OL生存戰》**首播。
+在[日本电视台放送的](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")。又名《日本[女白领](../Page/办公室女职员.md "wikilink")》或《日本[女职员](../Page/办公室女职员.md "wikilink")》。2009年6月5日[緯來日本台以](../Page/緯來日本台.md "wikilink")**《OL生存戰》**首播。
 
 ## 概要
 
-[編劇是同时段电视剧](../Page/編劇.md "wikilink")「[派遣员的品格](../Page/派遣员的品格.md "wikilink")」（2007年1月期）的主刀[中園美保](../Page/中園美保.md "wikilink")。[觀月亞里莎主演](../Page/觀月亞里莎.md "wikilink")，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
+[編劇是同时段电视剧](../Page/編劇.md "wikilink")「[派遣员的品格](https://zh.wikipedia.org/wiki/派遣员的品格 "wikilink")」（2007年1月期）的主刀[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")。[觀月亞里莎主演](../Page/觀月亞里莎.md "wikilink")，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
 
 该电视剧是描写关于活跃于「[外判](../Page/外判.md "wikilink")」（工作外包）[办公室女职员们的悲喜剧](../Page/办公室女职员.md "wikilink")。
 
@@ -13,28 +13,28 @@
 
 ## 演员
 
-  - 神崎岛子：[观月亚里莎](../Page/观月亚里莎.md "wikilink")
+  - 神崎岛子：[观月亚里莎](https://zh.wikipedia.org/wiki/观月亚里莎 "wikilink")
     本剧主人公。31歳。東慶商事・总务課的[OL](../Page/办公室女职员.md "wikilink")。责任心强不服输。能出色完成上司交给的工作并有自知之明。实际上是个结婚欲望很强的[女性](../Page/女性.md "wikilink")。和小旗这个人物对立。
-  - 小旗健太：[阿部贞夫](../Page/阿部贞夫.md "wikilink")
-    海外[外包业务的中方经理](../Page/外包.md "wikilink")。35歳。理解中国研修生们勤奋与艰辛，实际上是个不考虑[国籍](../Page/国籍.md "wikilink")，持有[中立思想的人物](../Page/中立.md "wikilink")。
+  - 小旗健太：[阿部贞夫](https://zh.wikipedia.org/wiki/阿部贞夫 "wikilink")
+    海外[外包业务的中方经理](https://zh.wikipedia.org/wiki/外包 "wikilink")。35歳。理解中国研修生们勤奋与艰辛，实际上是个不考虑[国籍](https://zh.wikipedia.org/wiki/国籍 "wikilink")，持有[中立思想的人物](https://zh.wikipedia.org/wiki/中立 "wikilink")。
   - 矢部樱：[美波](../Page/美波.md "wikilink")
     新人[OL](../Page/办公室女职员.md "wikilink")。22歳。虽为日本出身，但受四分之一宽裕教育的影响，经常被中国研修生指出日语使用方面的错误，工作处于被动地位。
-  - 都留康介：[井上芳雄](../Page/井上芳雄.md "wikilink")
+  - 都留康介：[井上芳雄](https://zh.wikipedia.org/wiki/井上芳雄 "wikilink")
     島子的後輩社員。29歳。受到良好的教育，常有自己的一套，做事欠考虑型。经常希望得到岛子的认可。歌唱能力超群。
-  - 朝比奈国彦：[東幹久](../Page/東幹久.md "wikilink")
+  - 朝比奈国彦：[東幹久](https://zh.wikipedia.org/wiki/東幹久 "wikilink")
     总务课长。39歳。服从上司，是公司的重要人物。对下级温顺，说话方式鼓励而不伤人，对岛子有好感。
-  - 富士田弥生：[浅野裕子](../Page/浅野裕子.md "wikilink")
-    总务部长。48歳。[关西出身](../Page/关西.md "wikilink")。工龄26年的资质女[白领](../Page/白领.md "wikilink")，刀子嘴型。
-  - 張琳：[唐加思](../Page/唐加思.md "wikilink")
-    中国研修生。22歳。家在[农村](../Page/农村.md "wikilink")。持有[日本语能力考试一级证书但不擅于会话](../Page/日本语能力考试.md "wikilink")。学习过三个月的电脑操作，纯朴并且和气。
+  - 富士田弥生：[浅野裕子](https://zh.wikipedia.org/wiki/浅野裕子 "wikilink")
+    总务部长。48歳。[关西出身](https://zh.wikipedia.org/wiki/关西 "wikilink")。工龄26年的资质女[白领](https://zh.wikipedia.org/wiki/白领 "wikilink")，刀子嘴型。
+  - 張琳：[唐加思](https://zh.wikipedia.org/wiki/唐加思 "wikilink")
+    中国研修生。22歳。家在[农村](https://zh.wikipedia.org/wiki/农村 "wikilink")。持有[日本语能力考试一级证书但不擅于会话](https://zh.wikipedia.org/wiki/日本语能力考试 "wikilink")。学习过三个月的电脑操作，纯朴并且和气。
   - 楊洋：[陈怡](../Page/陈怡_\(艺人\).md "wikilink")
     中国研修生。21歳。生长于上海的富裕家庭，傲慢自大，有说就说，能够立即认识到日本的好处和自己的不足。经常与野吕吵架。
   - 李大龍：[胡兵](../Page/胡兵.md "wikilink")（友情演出）
-    中国研修生。28歳。本来是教师。和小旗是功夫至友。认真但生气时很可怕。和小旗一起[研修经理人职位](../Page/研修.md "wikilink")。
-  - 野呂昭和：[师冈三智雄](../Page/师冈三智雄.md "wikilink")
+    中国研修生。28歳。本来是教师。和小旗是功夫至友。认真但生气时很可怕。和小旗一起[研修经理人职位](https://zh.wikipedia.org/wiki/研修 "wikilink")。
+  - 野呂昭和：[师冈三智雄](https://zh.wikipedia.org/wiki/师冈三智雄 "wikilink")
     总务課主任。51歳。虽然过去在北京分公司工作过、但有过不愉快的遭遇，所以很讨厌中国。
-  - 木村红叶：[前田知恵](../Page/前田知恵.md "wikilink")
-    无比喜好[漫画](../Page/漫画.md "wikilink")，常在工作空闲之时作画。26岁，不自发工作，常被人要求做事。
+  - 木村红叶：[前田知恵](https://zh.wikipedia.org/wiki/前田知恵 "wikilink")
+    无比喜好[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")，常在工作空闲之时作画。26岁，不自发工作，常被人要求做事。
 
 <table cellpadding="3">
 
@@ -42,29 +42,29 @@
 
 <td>
 
-  - 大澤香：[宮地真緒](../Page/宮地真緒.md "wikilink")
-  - 小川繪理香：[秋田真琴](../Page/秋田真琴.md "wikilink")
-  - [OL](../Page/办公室女职员.md "wikilink")：[福井仁美](../Page/福井仁美.md "wikilink")
-  - 安田徹：[奥田崇](../Page/奥田崇.md "wikilink")
-  - 今村真一：[豬岐英人](../Page/豬岐英人.md "wikilink")
-  - 白領族：[土井俊明](../Page/土井俊明.md "wikilink")
-  - 白領族：[岡村風助](../Page/岡村風助.md "wikilink")
-  - 粉領族：[福田溫子](../Page/福田溫子.md "wikilink")
-  - 白領族：[野中伸二](../Page/野中伸二.md "wikilink")
+  - 大澤香：[宮地真緒](https://zh.wikipedia.org/wiki/宮地真緒 "wikilink")
+  - 小川繪理香：[秋田真琴](https://zh.wikipedia.org/wiki/秋田真琴 "wikilink")
+  - [OL](../Page/办公室女职员.md "wikilink")：[福井仁美](https://zh.wikipedia.org/wiki/福井仁美 "wikilink")
+  - 安田徹：[奥田崇](https://zh.wikipedia.org/wiki/奥田崇 "wikilink")
+  - 今村真一：[豬岐英人](https://zh.wikipedia.org/wiki/豬岐英人 "wikilink")
+  - 白領族：[土井俊明](https://zh.wikipedia.org/wiki/土井俊明 "wikilink")
+  - 白領族：[岡村風助](https://zh.wikipedia.org/wiki/岡村風助 "wikilink")
+  - 粉領族：[福田溫子](https://zh.wikipedia.org/wiki/福田溫子 "wikilink")
+  - 白領族：[野中伸二](https://zh.wikipedia.org/wiki/野中伸二 "wikilink")
 
 </td>
 
 <td>
 
-  - 中山瞳：[稻葉小百合](../Page/稻葉小百合.md "wikilink")
-  - 梅田學：[小堀慎平](../Page/小堀慎平.md "wikilink")
-  - 伊藤沙織：[佐佐木麻美](../Page/佐佐木麻美.md "wikilink")
-  - 鈴木亮介：[藤原新太](../Page/藤原新太.md "wikilink")
-  - 白領族：[宗村嘉英](../Page/宗村嘉英.md "wikilink")
-  - 白領族：[向井恭介](../Page/向井恭介.md "wikilink")
-  - 粉領族：[石川美佳](../Page/石川美佳.md "wikilink")
-  - 白領族：[越智俊光](../Page/越智俊光.md "wikilink")
-  - 社員：[沖崎裕一郎](../Page/沖崎裕一郎.md "wikilink")
+  - 中山瞳：[稻葉小百合](https://zh.wikipedia.org/wiki/稻葉小百合 "wikilink")
+  - 梅田學：[小堀慎平](https://zh.wikipedia.org/wiki/小堀慎平 "wikilink")
+  - 伊藤沙織：[佐佐木麻美](https://zh.wikipedia.org/wiki/佐佐木麻美 "wikilink")
+  - 鈴木亮介：[藤原新太](https://zh.wikipedia.org/wiki/藤原新太 "wikilink")
+  - 白領族：[宗村嘉英](https://zh.wikipedia.org/wiki/宗村嘉英 "wikilink")
+  - 白領族：[向井恭介](https://zh.wikipedia.org/wiki/向井恭介 "wikilink")
+  - 粉領族：[石川美佳](https://zh.wikipedia.org/wiki/石川美佳 "wikilink")
+  - 白領族：[越智俊光](https://zh.wikipedia.org/wiki/越智俊光 "wikilink")
+  - 社員：[沖崎裕一郎](https://zh.wikipedia.org/wiki/沖崎裕一郎 "wikilink")
 
 </td>
 
@@ -74,17 +74,17 @@
 
 ## 製作人員
 
-  - 編劇：[中園美保](../Page/中園美保.md "wikilink")
-  - 音樂：[池賴廣](../Page/池賴廣.md "wikilink")
-  - 導演：[岩本仁志](../Page/岩本仁志.md "wikilink")、[大谷太郎](../Page/大谷太郎.md "wikilink")、[本間美由紀](../Page/本間美由紀.md "wikilink")
-  - 製作人：[西憲彥](../Page/西憲彥.md "wikilink")、[渡邊浩仁](../Page/渡邊浩仁.md "wikilink")
-  - 製作協力：[AXON](../Page/AXON.md "wikilink")
+  - 編劇：[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")
+  - 音樂：[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 導演：[岩本仁志](https://zh.wikipedia.org/wiki/岩本仁志 "wikilink")、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")、[本間美由紀](https://zh.wikipedia.org/wiki/本間美由紀 "wikilink")
+  - 製作人：[西憲彥](https://zh.wikipedia.org/wiki/西憲彥 "wikilink")、[渡邊浩仁](https://zh.wikipedia.org/wiki/渡邊浩仁 "wikilink")
+  - 製作協力：[AXON](https://zh.wikipedia.org/wiki/AXON "wikilink")
   - 製作：[日本電視台](../Page/日本電視台.md "wikilink")
 
 ## 主題曲
 
   - [SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")「あしたの空」（明天的天空）（[SONIC
-    GROOVE](../Page/SONIC_GROOVE.md "wikilink")）
+    GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")）
 
 ## 播放
 

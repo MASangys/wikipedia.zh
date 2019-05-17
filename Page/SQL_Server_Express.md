@@ -1,8 +1,9 @@
 **SQL Server Express** 是由Microsoft所開發的[SQL
-Server的其中一個版本](../Page/SQL_Server.md "wikilink")，這個版本是免費且可自由轉散布（需經註冊），並且可和商用程式一起使用的小型資料庫管理系統，它繼承了多數的SQL
+Server的其中一個版本](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")，這個版本是免費且可自由轉散布（需經註冊），並且可和商用程式一起使用的小型資料庫管理系統，它繼承了多數的SQL
 Server功能與特性，像是[Transact-SQL](../Page/Transact-SQL.md "wikilink")、[SQL
 CLR等](../Page/SQL_CLR.md "wikilink")，相當適合使用在小型的網站，或者是小型的桌面型應用程式，它也可以和
-SQL Server 整合，作為[資料庫複製](../Page/資料庫複製.md "wikilink")（Replication）的訂閱端。
+SQL Server
+整合，作為[資料庫複製](https://zh.wikipedia.org/wiki/資料庫複製 "wikilink")（Replication）的訂閱端。
 
 ## 功能与限制
 
@@ -14,21 +15,22 @@ SQL Server 整合，作為[資料庫複製](../Page/資料庫複製.md "wikilink
     2016 Express单个資料庫的大小限制最大為 10G。這個大小的限制只有在資料檔案上，交易記錄檔則不受此限。
 2.  只能使用一個 CPU 來運算，這在多個 CPU 的電腦上會造成浪費。
 3.  可使用的記憶體量最高只有 1GB。而全功能标准版至少使用4GB内存。
-4.  沒有 [SQL Agent服务](../Page/SQL_Agent.md "wikilink")，若要做排程服務必須自己寫程式。
+4.  沒有 [SQL
+    Agent服务](https://zh.wikipedia.org/wiki/SQL_Agent "wikilink")，若要做排程服務必須自己寫程式。
 
-注意，它的前身[MSDE有一个并发工作负债监控器并限制在少量用户并发访问](../Page/MSDE.md "wikilink")，SQL
+注意，它的前身[MSDE有一个并发工作负债监控器并限制在少量用户并发访问](https://zh.wikipedia.org/wiki/MSDE "wikilink")，SQL
 Server Express没有这个并发限制。
 
 SQL Server Express包括了几个数据库管理的图形用户界面工具：
 
   - [SQL Server Management Studio
-    Express](../Page/SQL_Server_Management_Studio_Express.md "wikilink")
+    Express](https://zh.wikipedia.org/wiki/SQL_Server_Management_Studio_Express "wikilink")
   - [SQL Server Configuration
-    Manager](../Page/SQL_Server_Configuration_Manager.md "wikilink")
+    Manager](https://zh.wikipedia.org/wiki/SQL_Server_Configuration_Manager "wikilink")
   - [SQL Server Surface Area Configuration
-    tool](../Page/SQL_Server_Surface_Area_Configuration_tool.md "wikilink")
+    tool](https://zh.wikipedia.org/wiki/SQL_Server_Surface_Area_Configuration_tool "wikilink")
   - SQL Server [Business Intelligence Development
-    Studio](../Page/Business_Intelligence_Development_Studio.md "wikilink")
+    Studio](https://zh.wikipedia.org/wiki/Business_Intelligence_Development_Studio "wikilink")
 
 SQL Server Express不包括全功能标准版的几个工具：
 
@@ -40,7 +42,7 @@ SQL Server Express的各版本是可以远程连接的，但需要用户做一�
 ## 授權範圍(來自MicroSoft) 注意 它不是完全免費的
 
 軟體係授權使用，而非出售賣斷。本合約僅提供貴用戶使用軟體的部分權利。Microsoft
-保留所有其他權利。除非相關法律賦予貴用戶超出本合約限制的其他權利，否則貴用戶僅得在本合約明示許可之範圍內使用軟體。因此，貴用戶必須遵守只允許以特定方式使用軟體的科技保護措施。[貴用戶不得](../Page/貴用戶不得.md "wikilink")
+保留所有其他權利。除非相關法律賦予貴用戶超出本合約限制的其他權利，否則貴用戶僅得在本合約明示許可之範圍內使用軟體。因此，貴用戶必須遵守只允許以特定方式使用軟體的科技保護措施。[貴用戶不得](https://zh.wikipedia.org/wiki/貴用戶不得 "wikilink")
 
 1.  在未取得 Microsoft 事先書面同意前，將軟體之基準測試結果揭露予第三人；
 2.  規避軟體中所包含的科技保護措施；

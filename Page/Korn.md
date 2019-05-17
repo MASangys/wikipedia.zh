@@ -1,5 +1,5 @@
 **Korn**（为了符合官方网站logo，经常被拼作**KoЯn**）是成立于1993年，來自[貝克斯菲爾德
-(加利福尼亞州)的音樂團體](../Page/貝克斯菲爾德_\(加利福尼亞州\).md "wikilink")。擅长金属的他们，被公認為創造[新金屬](../Page/新金屬.md "wikilink")（Nu-Metal）以及將其發揚光大的重要推手。與同時代的其他團體從1990年代至今啟發了許多[新金屬以及](../Page/新金屬.md "wikilink")[另類金屬的後進團體](../Page/另類金屬.md "wikilink")。\[1\]
+(加利福尼亞州)的音樂團體](https://zh.wikipedia.org/wiki/貝克斯菲爾德_\(加利福尼亞州\) "wikilink")。擅长金属的他们，被公認為創造[新金屬](../Page/新金屬.md "wikilink")（Nu-Metal）以及將其發揚光大的重要推手。與同時代的其他團體從1990年代至今啟發了許多[新金屬以及](../Page/新金屬.md "wikilink")[另類金屬的後進團體](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")。\[1\]
 
 ## 成员
 

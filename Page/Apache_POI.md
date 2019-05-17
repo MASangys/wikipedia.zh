@@ -1,5 +1,5 @@
 **Apache
-POI**是[Apache軟件基金會的開放源碼](../Page/Apache軟件基金會.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，POI提供API給[Java程式對](../Page/Java.md "wikilink")[Microsoft
+POI**是[Apache軟件基金會的開放源碼](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[函式庫](../Page/函式庫.md "wikilink")，POI提供API給[Java程式對](../Page/Java.md "wikilink")[Microsoft
 Office格式檔案讀和寫的功能](../Page/Microsoft_Office.md "wikilink")。
 .NET的開發人員則可以利用NPOI（POI for .NET）來存取POI的功能。
 
@@ -7,14 +7,14 @@ Office格式檔案讀和寫的功能](../Page/Microsoft_Office.md "wikilink")。
 
   - HSSF － 提供讀寫[Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")
     XLS格式檔案的功能。
-  - XSSF － 提供讀寫Microsoft Excel [OOXML](../Page/OOXML.md "wikilink")
-    XLSX格式檔案的功能。
+  - XSSF － 提供讀寫Microsoft Excel
+    [OOXML](https://zh.wikipedia.org/wiki/OOXML "wikilink") XLSX格式檔案的功能。
   - HWPF － 提供讀寫[Microsoft Word](../Page/Microsoft_Word.md "wikilink")
     DOC格式檔案的功能。
   - HSLF － 提供讀寫[Microsoft
     PowerPoint格式檔案的功能](../Page/Microsoft_PowerPoint.md "wikilink")。
   - HDGF － 提供讀[Microsoft
-    Visio格式檔案的功能](../Page/Microsoft_Visio.md "wikilink")。
+    Visio格式檔案的功能](https://zh.wikipedia.org/wiki/Microsoft_Visio "wikilink")。
   - HPBF － 提供讀[Microsoft
     Publisher格式檔案的功能](../Page/Microsoft_Publisher.md "wikilink")。
   - HSMF － 提供讀[Microsoft

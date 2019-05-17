@@ -1,12 +1,12 @@
 《**AURA
-～魔龍院光牙最後的戰鬥～**》（）是[田中羅密歐撰寫](../Page/田中羅密歐.md "wikilink")，[mebae負責插畫的](../Page/mebae.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，由[小學館的](../Page/小學館.md "wikilink")[Gagaga文庫出版](../Page/Gagaga文庫.md "wikilink")。作者將以前在《PC
+～魔龍院光牙最後的戰鬥～**》（）是[田中羅密歐撰寫](../Page/田中羅密歐.md "wikilink")，[mebae負責插畫的](https://zh.wikipedia.org/wiki/mebae "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，由[小學館的](../Page/小學館.md "wikilink")[Gagaga文庫出版](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")。作者將以前在《PC
 Angel neo》連載的專欄改寫成小說而成為本作。
 
 一部動畫電影於2013年4月13日首映。
 
 ## 故事簡介
 
-剛升上[高中一年級的佐藤一郎](../Page/高中.md "wikilink")，某天在晚上潛入學校拿東西時，遇見了身穿藍色[斗篷](../Page/斗篷.md "wikilink")，拿著金屬杖的美少女。自從遇到她之後，佐藤期望的平穩學生生活漸漸的離他而去。
+剛升上[高中一年級的佐藤一郎](https://zh.wikipedia.org/wiki/高中 "wikilink")，某天在晚上潛入學校拿東西時，遇見了身穿藍色[斗篷](https://zh.wikipedia.org/wiki/斗篷 "wikilink")，拿著金屬杖的美少女。自從遇到她之後，佐藤期望的平穩學生生活漸漸的離他而去。
 
 ## 登場人物
 
@@ -55,12 +55,12 @@ Angel neo》連載的專欄改寫成小說而成為本作。
 
 ### 輕小說
 
-2008年7月18日由[小學館的](../Page/小學館.md "wikilink")[Gagaga文庫發售一本名為](../Page/Gagaga文庫.md "wikilink")《》的[輕小說](../Page/輕小說.md "wikilink")（ISBN
+2008年7月18日由[小學館的](../Page/小學館.md "wikilink")[Gagaga文庫發售一本名為](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")《》的[輕小說](../Page/輕小說.md "wikilink")（ISBN
 978-4-09-451080-5）。\[1\]
 
 ### 動畫電影
 
-改編的[動畫電影於](../Page/動畫電影.md "wikilink")2013年4月13日上映\[2\]，並於2013年9月18日發售[DVD和](../Page/DVD.md "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")\[3\]。
+改編的[動畫電影於](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")2013年4月13日上映\[2\]，並於2013年9月18日發售[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")\[3\]。
 
 ## 參考
 

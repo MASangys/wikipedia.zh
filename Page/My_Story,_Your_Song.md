@@ -1,5 +1,5 @@
 **My Story, Your Song
-經典全記錄**為[孫燕姿的精選輯](../Page/孫燕姿.md "wikilink")，於2006年9月26日正式發行，這是孫燕姿在[華納唱片發行的最後一張作品](../Page/華納唱片.md "wikilink")，此時孫燕姿已經離開華納唱片。由於作品暢銷，唱片公司對此精選集進行過多次改版，前後共推出過6個版本。在華語樂壇，對於一張合約期外，並無歌手參與宣傳的精選集進行多次改版，這種情況極為罕見。
+經典全記錄**為[孫燕姿的精選輯](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")，於2006年9月26日正式發行，這是孫燕姿在[華納唱片發行的最後一張作品](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，此時孫燕姿已經離開華納唱片。由於作品暢銷，唱片公司對此精選集進行過多次改版，前後共推出過6個版本。在華語樂壇，對於一張合約期外，並無歌手參與宣傳的精選集進行多次改版，這種情況極為罕見。
 
 ## 唱片版本
 
@@ -195,7 +195,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/黄中平.md" title="wikilink">黄中平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄中平" title="wikilink">黄中平</a></p></td>
 <td><p>2017年7月21日</p></td>
 <td></td>
 </tr>
@@ -207,13 +207,13 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/黄中平.md" title="wikilink">黄中平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黄中平" title="wikilink">黄中平</a></p></td>
 <td><p>2017年7月21日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/金卓.md" title="wikilink">金卓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金卓" title="wikilink">金卓</a></p></td>
 <td><p>2017年7月21日</p></td>
 <td></td>
 </tr>

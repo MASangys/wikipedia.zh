@@ -2,21 +2,23 @@
 MRG-7100BJ-1AJF\]\]
 [Casio_Mudman_3031.jpg](https://zh.wikipedia.org/wiki/File:Casio_Mudman_3031.jpg "fig:Casio_Mudman_3031.jpg")
 
-**G-Shock**，是[日本](../Page/日本.md "wikilink")[卡西欧所生产的一個](../Page/卡西欧.md "wikilink")[手表](../Page/手表.md "wikilink")[品牌](../Page/品牌.md "wikilink")，亦為當中最知名的品牌，強調耐衝擊，適合於[運動](../Page/運動.md "wikilink")、[戶外探險以至於](../Page/戶外.md "wikilink")[軍事等場合用途](../Page/軍事.md "wikilink")。自1983年問世至2014年，G-Shock於全世界共出售達7,000萬隻。
+**G-Shock**，是[日本](../Page/日本.md "wikilink")[卡西欧所生产的一個](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")[手表](../Page/手表.md "wikilink")[品牌](../Page/品牌.md "wikilink")，亦為當中最知名的品牌，強調耐衝擊，適合於[運動](https://zh.wikipedia.org/wiki/運動 "wikilink")、[戶外探險以至於](https://zh.wikipedia.org/wiki/戶外 "wikilink")[軍事等場合用途](../Page/軍事.md "wikilink")。自1983年問世至2014年，G-Shock於全世界共出售達7,000萬隻。
 
 ## 主要系列
 
   - G steel
   - MR-G 顶级全[金属系列](../Page/金属.md "wikilink")
-  - MT-G 顶级[商务系列](../Page/商务.md "wikilink")
+  - MT-G 顶级[商务系列](https://zh.wikipedia.org/wiki/商务 "wikilink")
   - GIEZ 顶级潮流系列
   - G-COOL 顶级概念系列
   - STANDARD 标准系列
-  - COCKPIT [赛车计时系列](../Page/赛车.md "wikilink")
-  - BABY-G [女士系列](../Page/女士.md "wikilink")
-  - FROGMAN（フロッグマン） [蛙人系列](../Page/蛙人.md "wikilink")（老款停产，新款在售）
+  - COCKPIT [赛车计时系列](https://zh.wikipedia.org/wiki/赛车 "wikilink")
+  - BABY-G [女士系列](https://zh.wikipedia.org/wiki/女士 "wikilink")
+  - FROGMAN（フロッグマン）
+    [蛙人系列](https://zh.wikipedia.org/wiki/蛙人 "wikilink")（老款停产，新款在售）
   - MUDMAN（マッドマン） 泥人系列（老款停产，新款在售）
-  - FISHERMAN（フィッシャーマン） [渔人系列](../Page/渔人.md "wikilink")（停产）
+  - FISHERMAN（フィッシャーマン）
+    [渔人系列](https://zh.wikipedia.org/wiki/渔人 "wikilink")（停产）
   - RANGEMAN
   - RISEMAN（ライズマン） 飞人系列（老款停产，新款在售）
   - GAUSSMAN（ガウスマン） 磁人系列（停产）
@@ -30,15 +32,19 @@ MRG-7100BJ-1AJF\]\]
   - FOX FIRE（フォックスファイア） 狐火系列（日本本土代号）
   - nexax（ネグザクス） 概念系列（停产）
   - CODE NAME（コードネーム） 代号系列（停产）
-  - X-treme（エクストリーム） [极限系列](../Page/极限.md "wikilink")（停产）
-  - G-LIDE（Gライド） [冲浪系列](../Page/冲浪.md "wikilink")（老款停产，新款在售）
+  - X-treme（エクストリーム）
+    [极限系列](https://zh.wikipedia.org/wiki/极限 "wikilink")（停产）
+  - G-LIDE（Gライド）
+    [冲浪系列](https://zh.wikipedia.org/wiki/冲浪 "wikilink")（老款停产，新款在售）
   - G’MIX（Gミックス） [音乐系列](../Page/音乐.md "wikilink")（停产）
-  - TACTICIAN（タクティシャン） [技师系列](../Page/技师.md "wikilink")（停产）
-  - SILENCER（サイレンサー） [消音系列](../Page/消音.md "wikilink")（老款停产，新款在售）
+  - TACTICIAN（タクティシャン）
+    [技师系列](https://zh.wikipedia.org/wiki/技师 "wikilink")（停产）
+  - SILENCER（サイレンサー）
+    [消音系列](https://zh.wikipedia.org/wiki/消音 "wikilink")（老款停产，新款在售）
 
 ## 歷史
 
-G-Shock由[日本](../Page/日本.md "wikilink")[工程師伊部菊雄設計](../Page/工程師.md "wikilink")，首隻於1983年問世\[1\]。
+G-Shock由[日本](../Page/日本.md "wikilink")[工程師伊部菊雄設計](https://zh.wikipedia.org/wiki/工程師 "wikilink")，首隻於1983年問世\[1\]。
 
 2014年，G-Shock推出了首個女性系列──S，性能與男性系列一樣，差別在於錶殼尺寸縮小，而且顏色款式更加豐富，並且增添時尚風格\[2\]。
 

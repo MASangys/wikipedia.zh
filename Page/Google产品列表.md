@@ -1,4 +1,4 @@
-这个**Google产品列表**列出了[Google所有重要的自行开发或通过并购获得的桌面软件](../Page/Google.md "wikilink")、手机、和互联网产品。这些产品或者是已经正式上线，或者在公测之中（Beta版），或者是[Google实验室的试验产品](../Page/Google实验室.md "wikilink")。下面的列表还包括以前的已经被合并、放弃或更名的产品。产品的功能，比如网络-{A|zh:搜索;
+这个**Google产品列表**列出了[Google所有重要的自行开发或通过并购获得的桌面软件](../Page/Google.md "wikilink")、手机、和互联网产品。这些产品或者是已经正式上线，或者在公测之中（Beta版），或者是[Google实验室的试验产品](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")。下面的列表还包括以前的已经被合并、放弃或更名的产品。产品的功能，比如网络-{A|zh:搜索;
 zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 ## 网络产品
@@ -27,7 +27,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google资讯](../Page/Google资讯.md "wikilink")**[2](http://news.google.com/nwshp)
+  - **[Google资讯](https://zh.wikipedia.org/wiki/Google资讯 "wikilink")**[2](http://news.google.com/nwshp)
 
 <!-- end list -->
 
@@ -46,7 +46,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   - **[News Archive
-    Search](../Page/Google_News#News_Archive_Search.md "wikilink")**
+    Search](https://zh.wikipedia.org/wiki/Google_News#News_Archive_Search "wikilink")**
     [4](http://news.google.com/archivesearch)
 
 <!-- end list -->
@@ -56,7 +56,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Patent Search](../Page/Google_Patent_Search.md "wikilink")**
+  - **[Patent
+    Search](https://zh.wikipedia.org/wiki/Google_Patent_Search "wikilink")**
     [5](http://www.google.com/patents)
 
 <!-- end list -->
@@ -66,7 +67,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Product Search](../Page/Google_Product_Search.md "wikilink")**
+  - **[Product
+    Search](https://zh.wikipedia.org/wiki/Google_Product_Search "wikilink")**
     [6](http://www.google.com/products)（Previously Froogle）
 
 <!-- end list -->
@@ -146,7 +148,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   -
-    是由[Google公司于](../Page/Google.md "wikilink")2009年12月15日推出的縮短網址服務\[1\]，并于2011年1月11日发布了官方[API](../Page/API.md "wikilink")\[2\]。域名為goo.gl。現在開始，將停止支援goo.gl
+    是由[Google公司于](../Page/Google.md "wikilink")2009年12月15日推出的縮短網址服務\[1\]，并于2011年1月11日发布了官方[API](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]。域名為goo.gl。現在開始，將停止支援goo.gl
     Google URL
     Shortener。從2018年4月13日起，只有現有用戶才能在goo.gl控制台上創建短鏈接。您能夠查看您的縮碼並以csv格式下載短鏈接信息長達一年，直到2019年3月30日。
 
@@ -217,8 +219,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[图书](../Page/Google图书.md "wikilink")/Previously Google
-    Print**[21](http://books.google.com/)
+  - **[图书](https://zh.wikipedia.org/wiki/Google图书 "wikilink")/Previously
+    Google Print**[21](http://books.google.com/)
 
 <!-- end list -->
 
@@ -227,14 +229,14 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Checkout](../Page/Google_Checkout.md "wikilink")**
+  - **[Checkout](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")**
     [22](https://swap.stanford.edu/20140131180147/https://checkout.google.com/)
 
 <!-- end list -->
 
   -
     Google的网上付款服务，旨在简化网上购物的付款流程。网站站长可以使用这项功能为网站提供的服务收费。（合併至[Google
-    Wallet](../Page/Google_Wallet.md "wikilink")）
+    Wallet](https://zh.wikipedia.org/wiki/Google_Wallet "wikilink")）
 
 <!-- end list -->
 
@@ -311,7 +313,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[265上网导航](../Page/265导航.md "wikilink")/[谷歌中国](../Page/谷歌中国.md "wikilink")**[31](http://www.265.com/)
+  - **[265上网导航](https://zh.wikipedia.org/wiki/265导航 "wikilink")/[谷歌中国](../Page/谷歌中国.md "wikilink")**[31](http://www.265.com/)
 
 <!-- end list -->
 
@@ -320,7 +322,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google时惠](../Page/谷歌时惠.md "wikilink")**[32](https://web.archive.org/web/20130826121621/http://www.google.cn/shihui)（[谷歌中国](../Page/谷歌中国.md "wikilink")）
+  - **[Google时惠](https://zh.wikipedia.org/wiki/谷歌时惠 "wikilink")**[32](https://web.archive.org/web/20130826121621/http://www.google.cn/shihui)（[谷歌中国](../Page/谷歌中国.md "wikilink")）
 
 <!-- end list -->
 
@@ -329,12 +331,12 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google问答](../Page/Google问答.md "wikilink")**[33](http://www.google.com/baraza/)
+  - **[Google问答](https://zh.wikipedia.org/wiki/Google问答 "wikilink")**[33](http://www.google.com/baraza/)
 
 <!-- end list -->
 
   -
-    中文版\[[https://web.archive.org/web/20110207052028/http://wenda.google.com.hk/wenda/\]于2010年7月27日上线，由谷歌中国团队独立研发，是“Commnunity社区”系列产品之一。7月30日被](https://web.archive.org/web/20110207052028/http://wenda.google.com.hk/wenda/%5D于2010年7月27日上线，由谷歌中国团队独立研发，是“Commnunity社区”系列产品之一。7月30日被)[GFW屏蔽](../Page/GFW.md "wikilink")，屏蔽的关键字是.google.com.hk/wenda。2007年，Google在俄罗斯网站上已推出俄语的问答服务[34](https://web.archive.org/web/20080416221259/http://otvety.google.ru/otvety/)，其外观与谷歌问答几乎一样，亦由谷歌中国团队开发，数据库与中文版问答相通。现亦有英文、越南文\[[https://archive.is/20130114062055/http://www.google.com.vn/giaidap/\]版本](https://archive.is/20130114062055/http://www.google.com.vn/giaidap/%5D版本)。
+    中文版\[[https://web.archive.org/web/20110207052028/http://wenda.google.com.hk/wenda/\]于2010年7月27日上线，由谷歌中国团队独立研发，是“Commnunity社区”系列产品之一。7月30日被](https://web.archive.org/web/20110207052028/http://wenda.google.com.hk/wenda/%5D于2010年7月27日上线，由谷歌中国团队独立研发，是“Commnunity社区”系列产品之一。7月30日被)[GFW屏蔽](https://zh.wikipedia.org/wiki/GFW "wikilink")，屏蔽的关键字是.google.com.hk/wenda。2007年，Google在俄罗斯网站上已推出俄语的问答服务[34](https://web.archive.org/web/20080416221259/http://otvety.google.ru/otvety/)，其外观与谷歌问答几乎一样，亦由谷歌中国团队开发，数据库与中文版问答相通。现亦有英文、越南文\[[https://archive.is/20130114062055/http://www.google.com.vn/giaidap/\]版本](https://archive.is/20130114062055/http://www.google.com.vn/giaidap/%5D版本)。
 
 <!-- end list -->
 
@@ -366,7 +368,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[谷歌音乐](../Page/谷歌音乐.md "wikilink")**（部分已關閉）[38](https://web.archive.org/web/20091113034659/http://www.google.cn/music/)
+  - **[谷歌音乐](https://zh.wikipedia.org/wiki/谷歌音乐 "wikilink")**（部分已關閉）[38](https://web.archive.org/web/20091113034659/http://www.google.cn/music/)
 
 <!-- end list -->
 
@@ -394,18 +396,18 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 ### 广告产品
 
-  - **[AdSense](../Page/AdSense.md "wikilink")**
+  - **[AdSense](https://zh.wikipedia.org/wiki/AdSense "wikilink")**
     [40](http://google.com/adsense/)
 
 <!-- end list -->
 
   -
-    为网站拥有者提供的[广告盈利计划](../Page/广告.md "wikilink")。网站拥有者通过按点击计费或按千次显示计费的广告产生收入。广告投放者为Google
+    为网站拥有者提供的[广告盈利计划](https://zh.wikipedia.org/wiki/广告 "wikilink")。网站拥有者通过按点击计费或按千次显示计费的广告产生收入。广告投放者为Google
     AdWords计划的用户。投放的广告与网页内容相关。
 
 <!-- end list -->
 
-  - **[AdWords](../Page/AdWords.md "wikilink")**
+  - **[AdWords](https://zh.wikipedia.org/wiki/AdWords "wikilink")**
     [41](http://adwords.google.com/)
 
 <!-- end list -->
@@ -447,7 +449,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   -
-    为[非盈利性组织提供的](../Page/非盈利性组织.md "wikilink")，免费在AdWords广告网络投放按点击付费广告的服务。
+    为[非盈利性组织提供的](https://zh.wikipedia.org/wiki/非盈利性组织 "wikilink")，免费在AdWords广告网络投放按点击付费广告的服务。
 
 <!-- end list -->
 
@@ -495,11 +497,11 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   -
-    [博客发布工具](../Page/博客.md "wikilink")。用户可以创建一个自己的博客，由Google托管。功能包括：照片发布、留言、博客组、个人档案、手机发布等。对用户技术要求很低。
+    [博客发布工具](https://zh.wikipedia.org/wiki/博客 "wikilink")。用户可以创建一个自己的博客，由Google托管。功能包括：照片发布、留言、博客组、个人档案、手机发布等。对用户技术要求很低。
 
 <!-- end list -->
 
-  - **[日历](../Page/Google日历.md "wikilink")**[51](http://google.com/calendar)
+  - **[日历](https://zh.wikipedia.org/wiki/Google日历 "wikilink")**[51](http://google.com/calendar)
 
 <!-- end list -->
 
@@ -508,7 +510,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[文档](../Page/Google文档.md "wikilink")**[52](http://docs.google.com)
+  - **[文档](https://zh.wikipedia.org/wiki/Google文档 "wikilink")**[52](http://docs.google.com)
 
 <!-- end list -->
 
@@ -518,17 +520,17 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Dodgeball](../Page/Dodgeball.md "wikilink")**
+  - **[Dodgeball](https://zh.wikipedia.org/wiki/Dodgeball "wikilink")**
     [53](https://web.archive.org/web/20090430083341/http://www.dodgeball.com/)
 
 <!-- end list -->
 
   -
-    针对手机用户的一个社会化网络站点。用户用[短信发送他们的所在地点](../Page/短信.md "wikilink")，这个服务发回正身处附近的意中人、朋友、朋友的朋友、其他有趣的活动的信息。被[Google定位取代](../Page/Google定位.md "wikilink")。
+    针对手机用户的一个社会化网络站点。用户用[短信发送他们的所在地点](https://zh.wikipedia.org/wiki/短信 "wikilink")，这个服务发回正身处附近的意中人、朋友、朋友的朋友、其他有趣的活动的信息。被[Google定位取代](../Page/Google定位.md "wikilink")。
 
 <!-- end list -->
 
-  - **[FeedBurner](../Page/FeedBurner.md "wikilink")**
+  - **[FeedBurner](https://zh.wikipedia.org/wiki/FeedBurner "wikilink")**
     [54](http://www.feedburner.com)
 
 <!-- end list -->
@@ -553,7 +555,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   -
-    免费网络[电子邮件和](../Page/电子邮件.md "wikilink")[POP邮件服务](../Page/POP.md "wikilink")。以充足的存储空间和超群的用户界面著称。于2004年4月1日推出，当时只能受邀请的用户才能使用。功能还包括通过手机使用和与Google
+    免费网络[电子邮件和](../Page/电子邮件.md "wikilink")[POP邮件服务](https://zh.wikipedia.org/wiki/POP "wikilink")。以充足的存储空间和超群的用户界面著称。于2004年4月1日推出，当时只能受邀请的用户才能使用。功能还包括通过手机使用和与Google
     Talk的集成。
 
 <!-- end list -->
@@ -577,7 +579,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[iGoogle](../Page/iGoogle.md "wikilink")**
+  - **[iGoogle](https://zh.wikipedia.org/wiki/iGoogle "wikilink")**
     [59](http://google.com/ig)（原Google个性化主页）
 
 <!-- end list -->
@@ -588,27 +590,27 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[JogaTV](../Page/JogaTV.md "wikilink")**
+  - **[JogaTV](https://zh.wikipedia.org/wiki/JogaTV "wikilink")**
     [60](https://web.archive.org/web/20080511180133/http://www.joga.com/)
 
 <!-- end list -->
 
   -
-    [足球社区网站](../Page/足球.md "wikilink")。类似[MySpace](../Page/MySpace.md "wikilink")，每个用户有自己的个人档案，可以根据共同的兴趣加入小组。通过这个服务，球迷可以互相结识、组成俱乐部、了解Nike签约球员信息、并可以观看和上载视频和照片。
+    [足球社区网站](../Page/足球.md "wikilink")。类似[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")，每个用户有自己的个人档案，可以根据共同的兴趣加入小组。通过这个服务，球迷可以互相结识、组成俱乐部、了解Nike签约球员信息、并可以观看和上载视频和照片。
 
 <!-- end list -->
 
-  - **[JotSpot](../Page/JotSpot.md "wikilink")**
+  - **[JotSpot](https://zh.wikipedia.org/wiki/JotSpot "wikilink")**
 
 <!-- end list -->
 
   -
-    Google于2006年10月31日收购的[wiki服务提供商](../Page/wiki.md "wikilink")。为中小企业企业提供维基平台服务。创始人包括Joe
+    Google于2006年10月31日收购的[wiki服务提供商](https://zh.wikipedia.org/wiki/wiki "wikilink")。为中小企业企业提供维基平台服务。创始人包括Joe
     Kraus和Graham Spencer（的创始人之一）。
 
 <!-- end list -->
 
-  - **[笔记本](../Page/Google笔记本.md "wikilink")**[61](http://www.google.com/notebook)
+  - **[笔记本](https://zh.wikipedia.org/wiki/Google笔记本 "wikilink")**[61](http://www.google.com/notebook)
 
 <!-- end list -->
 
@@ -635,7 +637,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Page Creator](../Page/Google_Page_Creator.md "wikilink")**
+  - **[Page
+    Creator](https://zh.wikipedia.org/wiki/Google_Page_Creator "wikilink")**
     [63](https://web.archive.org/web/20111118235135/http://pages.google.com/)
 
 <!-- end list -->
@@ -711,7 +714,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google Wave](../Page/Google_Wave.md "wikilink")**
+  - **[Google
+    Wave](https://zh.wikipedia.org/wiki/Google_Wave "wikilink")**
     [70](http://wave.google.com/)
 
 <!-- end list -->
@@ -744,16 +748,18 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google Chrome OS](../Page/Google_Chrome_OS.md "wikilink")**
+  - **[Google Chrome
+    OS](https://zh.wikipedia.org/wiki/Google_Chrome_OS "wikilink")**
 
 <!-- end list -->
 
   -
-    設計給[小筆電使用的](../Page/小筆電.md "wikilink")[開源](../Page/開放源代碼.md "wikilink")[雲端](../Page/雲端運算.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")。
+    設計給[小筆電使用的](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[開源](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")[雲端](../Page/雲端運算.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 <!-- end list -->
 
-  - **[App Engine](../Page/Google_App_Engine.md "wikilink")**
+  - **[App
+    Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")**
     [72](http://appengine.google.com/)
 
 <!-- end list -->
@@ -763,7 +769,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[代码](../Page/Google代码.md "wikilink")**[73](http://code.google.com/)
+  - **[代码](https://zh.wikipedia.org/wiki/Google代码 "wikilink")**[73](http://code.google.com/)
 
 <!-- end list -->
 
@@ -781,7 +787,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Google Web Toolkit](../Page/Google_Web_Toolkit.md "wikilink")**
+  - **[Google Web
+    Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")**
     [75](https://web.archive.org/web/20080507204239/http://code.google.com/webtoolkit/)
 
 <!-- end list -->
@@ -805,7 +812,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[网站管理员工具](../Page/Google网站管理员.md "wikilink")**[78](http://www.google.com/webmasters)（Previously
+  - **[网站管理员工具](https://zh.wikipedia.org/wiki/Google网站管理员 "wikilink")**[78](http://www.google.com/webmasters)（Previously
     Google Sitemaps）
 
 <!-- end list -->
@@ -815,7 +822,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 ### 地图
 
-  - **[Maps](../Page/Google_Maps.md "wikilink")**
+  - **[Maps](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")**
     [79](http://maps.google.com)
 
 <!-- end list -->
@@ -825,7 +832,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Mars](../Page/Google_Mars.md "wikilink")**
+  - **[Mars](https://zh.wikipedia.org/wiki/Google_Mars "wikilink")**
     [80](http://google.com/mars)
 
 <!-- end list -->
@@ -836,7 +843,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Moon](../Page/Google_Moon.md "wikilink")**
+  - **[Moon](https://zh.wikipedia.org/wiki/Google_Moon "wikilink")**
     [81](http://moon.google.com)
 
 <!-- end list -->
@@ -867,7 +874,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   - **[Ride
-    Finder](../Page/Google_Maps#Google_Ride_Finder.md "wikilink")**
+    Finder](https://zh.wikipedia.org/wiki/Google_Maps#Google_Ride_Finder "wikilink")**
 
 <!-- end list -->
 
@@ -876,7 +883,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Transit](../Page/Google_Maps#Google_Transit.md "wikilink")**
+  - **[Transit](https://zh.wikipedia.org/wiki/Google_Maps#Google_Transit "wikilink")**
     [84](http://google.com/transit)
 
 <!-- end list -->
@@ -895,7 +902,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
     为用户规划到某个城市旅游的游览路线。
 
 （对于Google
-Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB.8B.E5.BA.94.E7.94.A8.E7.A8.8B.E5.BA.8F.md "wikilink")”）
+Earth，参见“[獨立應用程序](https://zh.wikipedia.org/wiki/Google产品列表#.E7.8B.AC.E7.AB.8B.E5.BA.94.E7.94.A8.E7.A8.8B.E5.BA.8F "wikilink")”）
 
 ### 统计
 
@@ -918,7 +925,7 @@ Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB
 
 <!-- end list -->
 
-  - **[趋势](../Page/Google趋势.md "wikilink")**[88](http://google.com/trends)
+  - **[趋势](https://zh.wikipedia.org/wiki/Google趋势 "wikilink")**[88](http://google.com/trends)
 
 <!-- end list -->
 
@@ -933,9 +940,9 @@ Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB
 <!-- end list -->
 
   -
-    而字詞*Zeitgeist*（流行品味）是一个来自于[德语的短语](../Page/德语.md "wikilink")，表示一个时代特有的知识、[道德和](../Page/道德.md "wikilink")[文化](../Page/文化.md "wikilink")，即“时代精神”。是Google开发的一款网络查询分析程序。它对每天上百万次的Google查询进行统计，收集人们最关心的[关键词](../Page/关键词.md "wikilink")，并在[web页面中列举出来](../Page/web.md "wikilink")。Google
+    而字詞*Zeitgeist*（流行品味）是一个来自于[德语的短语](../Page/德语.md "wikilink")，表示一个时代特有的知识、[道德和](../Page/道德.md "wikilink")[文化](../Page/文化.md "wikilink")，即“时代精神”。是Google开发的一款网络查询分析程序。它对每天上百万次的Google查询进行统计，收集人们最关心的[关键词](https://zh.wikipedia.org/wiki/关键词 "wikilink")，并在[web页面中列举出来](https://zh.wikipedia.org/wiki/web "wikilink")。Google
     Zeitgeist提供热点关键字的每周列表，每月列表和年度列表，还提供不同主题和国家的列表。这项服务在2007年5月22日停止更新，被[Google
-    Trends的](../Page/Google搜索趋势.md "wikilink")[Google搜尋趨勢服务代替](../Page/Google搜尋趨勢.md "wikilink")。
+    Trends的](https://zh.wikipedia.org/wiki/Google搜索趋势 "wikilink")[Google搜尋趨勢服务代替](../Page/Google搜尋趨勢.md "wikilink")。
 
 ## 桌面软件产品
 
@@ -972,13 +979,16 @@ Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB
   - [Nexus 6](../Page/Nexus_6.md "wikilink")
   - [Nexus 5X](../Page/Nexus_5X.md "wikilink")
   - [Nexus 6P](../Page/Nexus_6P.md "wikilink")
-  - [Google Pixel](../Page/Google_Pixel.md "wikilink")
-  - [Google Pixel 2](../Page/Google_Pixel_2.md "wikilink")
-  - [Google Pixel 3](../Page/Google_Pixel_3.md "wikilink")
+  - [Google
+    Pixel](https://zh.wikipedia.org/wiki/Google_Pixel "wikilink")
+  - [Google Pixel
+    2](https://zh.wikipedia.org/wiki/Google_Pixel_2 "wikilink")
+  - [Google Pixel
+    3](https://zh.wikipedia.org/wiki/Google_Pixel_3 "wikilink")
 
 #### 平板
 
-  - [Nexus 7](../Page/Nexus_7.md "wikilink")
+  - [Nexus 7](https://zh.wikipedia.org/wiki/Nexus_7 "wikilink")
   - [Nexus 7 第二代](../Page/Nexus_7_\(2013\).md "wikilink")
   - [Nexus 9](../Page/Nexus_9.md "wikilink")
   - [Nexus 10](../Page/Nexus_10.md "wikilink")
@@ -986,8 +996,8 @@ Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB
 
 #### 智能移动终端
 
-  - [谷歌眼镜](../Page/谷歌眼镜.md "wikilink")（[Google
-    Glass](../Page/Google_Glass.md "wikilink")）
+  - [谷歌眼镜](https://zh.wikipedia.org/wiki/谷歌眼镜 "wikilink")（[Google
+    Glass](https://zh.wikipedia.org/wiki/Google_Glass "wikilink")）
 
 #### 網絡電視裝置
 
@@ -1001,7 +1011,7 @@ Earth，参见“[獨立應用程序](../Page/Google产品列表#.E7.8B.AC.E7.AB
 ### 移动服务
 
 这些产品可以通过-{A|zh:移动设备;
-zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏览器.md "wikilink")，如[Firefox](../Page/Firefox.md "wikilink")。
+zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，如[Firefox](../Page/Firefox.md "wikilink")。
 
   - **移动Blogger**
     [91](http://help.blogger.com/bin/answer.py?answer=42448)
@@ -1019,7 +1029,7 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 
   -
     从移动设备上阅读所有[Google
-    Calendar事件列表](../Page/Google_Calendar.md "wikilink")。这也是向你的个人日历中快速添加事件的一种选择。
+    Calendar事件列表](https://zh.wikipedia.org/wiki/Google_Calendar "wikilink")。这也是向你的个人日历中快速添加事件的一种选择。
 
 <!-- end list -->
 
@@ -1039,7 +1049,7 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 
   -
     使用移动设备中比完整的在线应用程序更简单的界面来访问[Google
-    News](../Page/Google_News.md "wikilink")。
+    News](https://zh.wikipedia.org/wiki/Google_News "wikilink")。
 
 <!-- end list -->
 
@@ -1052,15 +1062,14 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 
 <!-- end list -->
 
-  - **[iGoogle](../Page/iGoogle.md "wikilink")**
+  - **[iGoogle](https://zh.wikipedia.org/wiki/iGoogle "wikilink")**
     [96](http://www.google.com/ig/cp)
 
 <!-- end list -->
 
   -
-    简易版的[iGoogle](../Page/iGoogle.md "wikilink") -
-    你需要访问信息页选择对你的个人移动设备-{A|zh:兼容;
-    zh-cn:兼容; zh-tw:相容}-的模块。
+    简易版的[iGoogle](https://zh.wikipedia.org/wiki/iGoogle "wikilink") -
+    你需要访问信息页选择对你的个人移动设备-{A|zh:兼容; zh-cn:兼容; zh-tw:相容}-的模块。
 
 <!-- end list -->
 
@@ -1079,7 +1088,8 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <!-- end list -->
 
   -
-    在移动设备里阅读[Google Reader](../Page/Google_Reader.md "wikilink")。
+    在移动设备里阅读[Google
+    Reader](https://zh.wikipedia.org/wiki/Google_Reader "wikilink")。
 
 <!-- end list -->
 
@@ -1157,7 +1167,7 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <!-- end list -->
 
   -
-    针对Android、黑莓[智能手机的](../Page/智能手机.md "wikilink")[IP电话应用](../Page/IP电话.md "wikilink")。
+    针对Android、黑莓[智能手机的](../Page/智能手机.md "wikilink")[IP电话应用](https://zh.wikipedia.org/wiki/IP电话 "wikilink")。
 
 <!-- end list -->
 
@@ -1185,49 +1195,49 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <tbody>
 <tr class="odd">
 <td><p>AdWords编辑器</p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a> (10.5+), <a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a> (10.5+), <a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a></p></td>
 <td><p>用户可以使用这个桌面应用程序管理自己的<a href="../Page/Google_AdWords.md" title="wikilink">Google AdWords账户</a>。更改自己账户和广告投放计划的-{A|zh:数据; zh-cn:数据; zh-tw:資料}-，然后使数据与线上的服务同步。</p></td>
 <td><p>2006年1月24日[3]</p></td>
 <td><p><a href="http://www.google.com/adwordseditor/">109</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Google_Chrome.md" title="wikilink">Chrome</a></p></td>
-<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.6+),<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a>，<a href="../Page/Android.md" title="wikilink">Android</a>，<a href="../Page/iOS.md" title="wikilink">iOS</a></p></td>
+<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.6+),<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>，<a href="../Page/Android.md" title="wikilink">Android</a>，<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td><p>网页浏览器</p></td>
 <td><p>2008年9月2日</p></td>
 <td><p><a href="http://www.google.com/chrome/">110</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Google桌面.md" title="wikilink">桌面</a></p></td>
-<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.4+)，<a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>(SP3+)/<a href="../Page/Windows_XP.md" title="wikilink">XP</a>(SP2+)/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a></p></td>
+<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.4+)，<a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>(SP3+)/<a href="../Page/Windows_XP.md" title="wikilink">XP</a>(SP2+)/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></p></td>
 <td><p>桌面搜索程序，检索用户的<a href="../Page/电子邮件.md" title="wikilink">电子邮件</a>、-{A|zh:文档; zh-cn:文档; zh-tw:文件}-、音乐、照片、网络浏览历史、聊天和其他-{A|zh:文件; zh-cn:文件; zh-tw:檔案}-。并且可以在其中安装。(已停止開發)</p></td>
 <td><p>2004年10月14日[4]</p></td>
 <td><p><a href="http://desktop.google.com/">111</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Google地球.md" title="wikilink">地球</a></p></td>
-<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>(2.4+), <a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.6+)，<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a></p></td>
-<td><p>利用卫星照片、航拍和<a href="../Page/GIS.md" title="wikilink">GIS</a>（地理-{A|zh:信息; zh-cn:信息; zh-tw:資訊}-系统，geography Information System）显示的虚拟<a href="../Page/地球.md" title="wikilink">地球</a>。</p></td>
-<td><p>2004年从<a href="../Page/Keyhole公司.md" title="wikilink">Keyhole公司获得</a></p></td>
+<td><p><a href="../Page/Linux.md" title="wikilink">Linux</a>(2.4+), <a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.6+)，<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a></p></td>
+<td><p>利用卫星照片、航拍和<a href="https://zh.wikipedia.org/wiki/GIS" title="wikilink">GIS</a>（地理-{A|zh:信息; zh-cn:信息; zh-tw:資訊}-系统，geography Information System）显示的虚拟<a href="../Page/地球.md" title="wikilink">地球</a>。</p></td>
+<td><p>2004年从<a href="https://zh.wikipedia.org/wiki/Keyhole公司" title="wikilink">Keyhole公司获得</a></p></td>
 <td><p><a href="http://earth.google.com/">112</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Gmail通知程序／Google通知程序</p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.4+), <a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.4+), <a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
 <td><p>当有<a href="../Page/Gmail.md" title="wikilink">Gmail来信时通知用户</a>。</p></td>
 <td></td>
 <td><p><a href="http://mail.google.com/mail/help/notifier/">113</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Picasa.md" title="wikilink">Hello</a></p></td>
-<td><p><a href="../Page/Windows_98.md" title="wikilink">Windows 98</a>／<a href="../Page/Windows_ME.md" title="wikilink">ME</a>／<a href="../Page/Windows_2000.md" title="wikilink">2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
-<td><p>由google收购的<a href="../Page/Picasa.md" title="wikilink">Picasa公司开发</a>。用户用这个服务可以通过互联网发送照片并在<a href="../Page/博客.md" title="wikilink">-{A上发表</a>。(已停止開發)</p></td>
+<td><p><a href="../Page/Windows_98.md" title="wikilink">Windows 98</a>／<a href="https://zh.wikipedia.org/wiki/Windows_ME" title="wikilink">ME</a>／<a href="../Page/Windows_2000.md" title="wikilink">2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
+<td><p>由google收购的<a href="../Page/Picasa.md" title="wikilink">Picasa公司开发</a>。用户用这个服务可以通过互联网发送照片并在<a href="https://zh.wikipedia.org/wiki/博客" title="wikilink">-{A上发表</a>。(已停止開發)</p></td>
 <td></td>
 <td><p><a href="http://www.hello.com/">114</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Google软件包.md" title="wikilink">Google软件包</a>／Google更新器</p></td>
-<td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Google软件包" title="wikilink">Google软件包</a>／Google更新器</p></td>
+<td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a></p></td>
 <td><p>若干软件应用的集合。包括Google和其他公司的产品：<a href="../Page/Google地球.md" title="wikilink">Google地球</a>、桌面搜索、<a href="../Page/Picasa.md" title="wikilink">Picasa图片管理软件</a>、<a href="../Page/Google_Talk.md" title="wikilink">Google Talk和</a><a href="../Page/Firefox.md" title="wikilink">Firefox浏览器等</a>。</p></td>
 <td><p>2006年1月6日[5]</p></td>
 <td><p><a href="https://web.archive.org/web/20060110050124/http://pack.google.com/">115</a></p></td>
@@ -1235,13 +1245,13 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <tr class="even">
 <td><p>Google Pack Screensaver</p></td>
 <td></td>
-<td><p>这是Google软件包的一部分。<a href="../Page/螢幕保護裝置.md" title="wikilink">-{A的图片可以来自本地硬盘</a>，或<a href="../Page/RSS.md" title="wikilink">RSS及</a><a href="../Page/Atom.md" title="wikilink">Atom</a> Feed。</p></td>
+<td><p>这是Google软件包的一部分。<a href="../Page/螢幕保護裝置.md" title="wikilink">-{A的图片可以来自本地硬盘</a>，或<a href="../Page/RSS.md" title="wikilink">RSS及</a><a href="https://zh.wikipedia.org/wiki/Atom" title="wikilink">Atom</a> Feed。</p></td>
 <td></td>
 <td><p><a href="https://web.archive.org/web/20080316103047/http://pack.google.com/intl/en/product_info.html?ss">116</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Picasa.md" title="wikilink">Picasa</a></p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.5+) , <a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.5+) , <a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></p></td>
 <td><p>照片管理和编辑软件。提供照片库和简单的显示效果功能。</p></td>
 <td><p>2004年7月</p></td>
 <td><p><a href="http://picasa.google.com/">117</a></p></td>
@@ -1249,8 +1259,8 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <tr class="even">
 <td><p>Picasa网络相册上载器<br />
 (Picasa Web Albums Uploader)</p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a></p></td>
-<td><p>帮助用户把照片上传到Picasa网上相册。包括一个<a href="../Page/iPhone.md" title="wikilink">iPhone插件和一个单独的应用程序</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
+<td><p>帮助用户把照片上传到Picasa网上相册。包括一个<a href="https://zh.wikipedia.org/wiki/iPhone" title="wikilink">iPhone插件和一个单独的应用程序</a>。</p></td>
 <td></td>
 <td><p><a href="https://web.archive.org/web/20081119234918/http://picasa.google.com./web/mac_tools.html">118</a></p></td>
 </tr>
@@ -1258,47 +1268,47 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <td><p>安全接入<br />
 （Secure Access）</p></td>
 <td><p><a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>/<a href="../Page/Windows_XP.md" title="wikilink">XP</a></p></td>
-<td><p>给不能使用<a href="../Page/WPA.md" title="wikilink">WPA或</a><a href="../Page/IEEE_802.1X.md" title="wikilink">802.1x协议的</a><a href="../Page/Google_WiFi.md" title="wikilink">Google WiFi接入的用户提供的</a><a href="../Page/VPN.md" title="wikilink">VPN客户端程序</a>。</p></td>
+<td><p>给不能使用<a href="../Page/WPA.md" title="wikilink">WPA或</a><a href="../Page/IEEE_802.1X.md" title="wikilink">802.1x协议的</a><a href="https://zh.wikipedia.org/wiki/Google_WiFi" title="wikilink">Google WiFi接入的用户提供的</a><a href="https://zh.wikipedia.org/wiki/VPN" title="wikilink">VPN客户端程序</a>。</p></td>
 <td></td>
 <td><p><a href="https://web.archive.org/web/20081023122801/https://wifi.google.com/gsa/faq.html">119</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/SketchUp.md" title="wikilink">SketchUp</a></p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.5+), <a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>(SP2+)/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.5+), <a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>(SP2+)/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></p></td>
 <td><p>简单易用的三维构图程序。有独特的拖曳界面和与Google地球的集成。</p></td>
 <td><p>2006年3月14日购得软件[6]</p></td>
 <td><p><a href="http://sketchup.google.com/">120</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Google_Talk.md" title="wikilink">Google Talk</a></p></td>
-<td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a>，<a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a>(10.4+)</p></td>
-<td><p>网上即时聊天和通过<a href="../Page/VoIP.md" title="wikilink">VoIP通话的软件</a>。包括上述服务，和一个客户端程序用于使用这个服务。使用<a href="../Page/XMPP.md" title="wikilink">XMPP协议</a>。(已停止開發)</p></td>
+<td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>，<a href="../Page/Linux.md" title="wikilink">Linux</a>，<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a>(10.4+)</p></td>
+<td><p>网上即时聊天和通过<a href="../Page/VoIP.md" title="wikilink">VoIP通话的软件</a>。包括上述服务，和一个客户端程序用于使用这个服务。使用<a href="https://zh.wikipedia.org/wiki/XMPP" title="wikilink">XMPP协议</a>。(已停止開發)</p></td>
 <td><p>2005年8月24日[7]</p></td>
 <td><p><a href="http://www.google.com/talk/">121</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Visigami</p></td>
-<td><p><a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a></p></td>
 <td><p>一个图片搜索的屏幕保护。从<a href="../Page/Google图片搜索.md" title="wikilink">Google图片</a>，<a href="../Page/Picasa.md" title="wikilink">Picasa和</a><a href="../Page/Flickr.md" title="wikilink">Flickr搜索文件</a>。(已停止開發)</p></td>
 <td><p>2008年4月23日</p></td>
 <td><p><a href="http://code.google.com/p/visigami/">122</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Google_Web_Accelerator.md" title="wikilink">Web Accelerator</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Google_Web_Accelerator" title="wikilink">Web Accelerator</a></p></td>
 <td><p><a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a>(SP3+)/<a href="../Page/Windows_XP.md" title="wikilink">XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a></p></td>
-<td><p>使用<a href="../Page/缓存.md" title="wikilink">-{A技术来加速</a><a href="../Page/网页.md" title="wikilink">网页浏览的速度</a>。(已停止開發)</p></td>
+<td><p>使用<a href="../Page/缓存.md" title="wikilink">-{A技术来加速</a><a href="https://zh.wikipedia.org/wiki/网页" title="wikilink">网页浏览的速度</a>。(已停止開發)</p></td>
 <td><p>2005年5月4日</p></td>
 <td><p><a href="https://web.archive.org/web/20050505061702/http://webaccelerator.google.com/">123</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/谷歌拼音输入法.md" title="wikilink">谷歌拼音输入法</a></p></td>
-<td><p><a href="../Page/Windows_XP.md" title="wikilink">XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="../Page/Windows_7.md" title="wikilink">7</a>/<a href="../Page/Windows_8.md" title="wikilink">8</a>/<a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷歌拼音输入法" title="wikilink">谷歌拼音输入法</a></p></td>
+<td><p><a href="../Page/Windows_XP.md" title="wikilink">XP</a>/<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>/<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>/<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>/<a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p>通过拼音输入汉字。</p></td>
 <td><p>2007年4月2日[8]</p></td>
 <td><p><a href="https://web.archive.org/web/20080507210121/http://tools.google.com/pinyin/">124</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/谷歌粤语输入法.md" title="wikilink">谷歌粤语输入法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷歌粤语输入法" title="wikilink">谷歌粤语输入法</a></p></td>
 <td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p>通过软键盘输入粤语。</p></td>
 <td><p>2013年10月17日</p></td>
@@ -1346,12 +1356,12 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 <tr class="even">
 <td><p>Send to Phone</p></td>
 <td><p><a href="https://web.archive.org/web/20080507180348/http://toolbar.google.com/send/sms/index.php">网页</a>和Firefox扩展</p></td>
-<td><p>用户可以通过这个服务可以给美国的<a href="../Page/手机.md" title="wikilink">手机发送有关网上内容的</a><a href="../Page/短信.md" title="wikilink">短信</a>。</p></td>
+<td><p>用户可以通过这个服务可以给美国的<a href="https://zh.wikipedia.org/wiki/手机" title="wikilink">手机发送有关网上内容的</a><a href="https://zh.wikipedia.org/wiki/短信" title="wikilink">短信</a>。</p></td>
 <td></td>
 <td><p><a href="http://www.google.com/tools/firefox/sendtophone/index.html">129</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Google工具栏.md" title="wikilink">Google工具栏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Google工具栏" title="wikilink">Google工具栏</a></p></td>
 <td><p>Firefox和<a href="../Page/Internet_Explorer.md" title="wikilink">Internet Explorer扩展</a></p></td>
 <td><p>安装在浏览器上的工具栏。功能包括Google搜索框、网络欺诈保护、阻拦弹窗及可以添加自定义的按钮。</p></td>
 <td><p>2000年12月11日[9]</p></td>
@@ -1373,7 +1383,7 @@ zh-cn:移动设备;zh-tw:行動裝置}-或桌面[浏览器来访问](../Page/浏
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Chrome.md" title="wikilink">Chrome扩展</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chrome" title="wikilink">Chrome扩展</a></p></td>
 <td><p>可以让用户输入各种语言。</p></td>
 <td><p>2012年</p></td>
 <td><p><a href="https://chrome.google.com/webstore/detail/mclkkofklkfljcocdinagocijmpgbhab?utm_source=chrome-ntp-icon">133</a></p></td>

@@ -1,4 +1,4 @@
-**MARMALADE**（）是[日本成人遊戲的品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]2007年5月18日到10月19日在[音泉](../Page/音泉.md "wikilink")[網路電台播放節目](../Page/網路電台.md "wikilink")《**ま〜まれぇど放送局
+**MARMALADE**（）是[日本成人遊戲的品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]2007年5月18日到10月19日在[音泉](../Page/音泉.md "wikilink")[網路電台播放節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《**ま〜まれぇど放送局
 サクラサク♪さくらじお**》。
 
 ## 主要作品
@@ -16,7 +16,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/みけおう.md" title="wikilink">みけおう</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/みけおう" title="wikilink">みけおう</a></p></td>
 <td><p>瀬尾じゅん、鈴木慎次郎</p></td>
 <td><p>浅野彰</p></td>
 <td><p>2004年10月29日</p></td>
@@ -31,7 +31,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/LYRICAL_LYRIC.md" title="wikilink">LYRICAL LYRIC</a></p></td>
-<td><p>みけおう、<a href="../Page/フミオ.md" title="wikilink">フミオ</a>、ちこたむ</p></td>
+<td><p>みけおう、<a href="https://zh.wikipedia.org/wiki/フミオ" title="wikilink">フミオ</a>、ちこたむ</p></td>
 <td><p>黒白線</p></td>
 <td><p>浅野彰</p></td>
 <td><p>2007年7月27日</p></td>
@@ -61,7 +61,7 @@ Oじろー、フレーム</p></td>
 <td><p>2011年9月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戀色婚姻.md" title="wikilink">戀色婚姻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀色婚姻" title="wikilink">戀色婚姻</a></p></td>
 <td><p>さそりがため、ちこたむ<br />
 村上水軍、ここのか（SD）</p></td>
 <td><p>吉川芳佳、三日堂</p></td>

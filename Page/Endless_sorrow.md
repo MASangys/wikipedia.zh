@@ -10,11 +10,12 @@ sorrow**》（無盡傷悲）是日本歌手[濱崎步第](../Page/濱崎步.md 
   - 本作雖收錄於2002年1月1日發售的第四張原創專輯《[I
     am...](../Page/I_am....md "wikilink")》當中，但收錄版本為重新混音、演唱的《Endless
     Sorrow \~gone with the wind ver.\~》。原始版本則收錄於2007年2月28日發售的精選集《[A BEST
-    2 -BLACK-](../Page/A_BEST_2_-BLACK-.md "wikilink")》及2008年發售的單曲精選輯《[A
+    2
+    -BLACK-](https://zh.wikipedia.org/wiki/A_BEST_2_-BLACK- "wikilink")》及2008年發售的單曲精選輯《[A
     COMPLETE \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》當中。
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中。
   - 本作收錄的混音歌曲除了《Endless
-    sorrow》外，尚有第14張單曲《[vogue](../Page/vogue.md "wikilink")》及第21張單曲《[NEVER
+    sorrow》外，尚有第14張單曲《[vogue](https://zh.wikipedia.org/wiki/vogue "wikilink")》及第21張單曲《[NEVER
     EVER](../Page/NEVER_EVER.md "wikilink")》的混音版本。
 
 ## 收錄歌曲
@@ -22,10 +23,10 @@ sorrow**》（無盡傷悲）是日本歌手[濱崎步第](../Page/濱崎步.md 
 1.  **Endless sorrow "Original Mix"**
       -
         作曲:[CREA](../Page/CREA.md "wikilink") /
-        編曲:[CMJK](../Page/CMJK.md "wikilink")、[松田純一](../Page/松田純一.md "wikilink")
+        編曲:[CMJK](https://zh.wikipedia.org/wiki/CMJK "wikilink")、[松田純一](https://zh.wikipedia.org/wiki/松田純一 "wikilink")
         TBS電視台「舊情人」主題曲
-2.  **[vogue](../Page/vogue_\(濱崎步單曲\).md "wikilink") "Kirari Natsu Ayu
-    Mix"**
+2.  **[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    "Kirari Natsu Ayu Mix"**
       -
         KOSÉ「VISÉE」廣告歌曲 (由本人演出)
 3.  **Endless sorrow "Natural Green Dub Mix"**

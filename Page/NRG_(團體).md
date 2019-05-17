@@ -1,5 +1,5 @@
 **NRG**（New Radiancy
-Group，），是[韓國第一代偶像團體](../Page/韓國.md "wikilink")，五人[男子音樂組合](../Page/男子音樂組合.md "wikilink")，於1997年出道，初期主要在[中國發展](../Page/中國.md "wikilink")。2005年發表正規七輯後，轉以個人活動為主，但並未解散。2017年，為迎接出道二十週年，NRG暌違12年發行新作，並舉行回歸
+Group，），是[韓國第一代偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，五人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於1997年出道，初期主要在[中國發展](../Page/中國.md "wikilink")。2005年發表正規七輯後，轉以個人活動為主，但並未解散。2017年，為迎接出道二十週年，NRG暌違12年發行新作，並舉行回歸
 Showcase重啟活動。\[1\]
 
 NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재일우）**。
@@ -30,7 +30,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第一張專輯《''' New Radiancy Group '''》</p>
 <ul>
 <li>發行日期：1997.11.01</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -39,7 +39,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第二張專輯《''' Race '''》</p>
 <ul>
 <li>發行日期：1998.08.01</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -48,7 +48,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第三張專輯《<strong>NRG 003</strong>》</p>
 <ul>
 <li>發行日期：1999.11.04</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -57,7 +57,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第四張專輯《<strong>비(悲)</strong>》</p>
 <ul>
 <li>發行日期：2001.06.04</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -66,7 +66,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第五張專輯《<strong>HIT SONG</strong>》</p>
 <ul>
 <li>發行日期：2003.02.07</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -75,7 +75,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第六張專輯《<strong>NR6G - 대한건아만세</strong>》</p>
 <ul>
 <li>發行日期：2004.04.30</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -84,7 +84,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第七張專輯《<strong>One of Five : 따로 또 같이</strong>》</p>
 <ul>
 <li>發行日期：2005.11.22</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -107,7 +107,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第一張專輯《<strong>Season Greetings - NRG</strong>》</p>
 <ul>
 <li>發行日期：1998.11.01</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -116,7 +116,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>第二張專輯《<strong>Kiss in christmas - NRG</strong>》</p>
 <ul>
 <li>發行日期：1999.11.25</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -125,7 +125,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <td style="text-align: left;"><p>二十週年專輯《<strong>20世紀</strong>》</p>
 <ul>
 <li>發行日期：2017.10.28</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -192,7 +192,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <tr class="odd">
 <td><p>2004年</p></td>
 <td><p>3月22日</p></td>
-<td><p><a href="../Page/MBC.md" title="wikilink">MBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td></td>
 <td><p>Hit song</p></td>
 <td><p>1位</p></td>
@@ -200,7 +200,7 @@ NRG的官方應援色為粉紅色，官方粉絲名稱為**千載一遇（천재
 <tr class="even">
 <td><p>3月23日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/SBS人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>

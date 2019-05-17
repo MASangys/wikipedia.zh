@@ -1,6 +1,6 @@
 [Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg](https://zh.wikipedia.org/wiki/File:Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg "fig:Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg")
 **亞歷山大丹尼士Enviro
-300**是一款由[英國](../Page/英國.md "wikilink")[亞歷山大丹尼士生產的兩軸單層巴士](../Page/亞歷山大丹尼士.md "wikilink")，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。它於2001年面世，主要取代ALX300車身。
+300**是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士生產的兩軸單層巴士](../Page/亞歷山大丹尼士.md "wikilink")，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。它於2001年面世，主要取代ALX300車身。
 
 ## 設計
 
@@ -9,7 +9,7 @@ Enviro
 DIWA854.5四前速波箱或者ZF Ecolife 6AP1200B六前速波箱及Allison T280R五前速波箱。
 
 Enviro
-300的車身採用[鋁製支架](../Page/鋁.md "wikilink")，[玻璃纖維外殼](../Page/玻璃纖維.md "wikilink")，亦可以安裝在[猛獅](../Page/猛獅.md "wikilink")18.240、[富豪B7RLE或](../Page/富豪B7RLE.md "wikilink")[斯堪尼亞K230UB底盤上](../Page/斯堪尼亞K230UB.md "wikilink")。
+300的車身採用[鋁製支架](https://zh.wikipedia.org/wiki/鋁 "wikilink")，[玻璃纖維外殼](https://zh.wikipedia.org/wiki/玻璃纖維 "wikilink")，亦可以安裝在[猛獅](https://zh.wikipedia.org/wiki/猛獅 "wikilink")18.240、[富豪B7RLE或](https://zh.wikipedia.org/wiki/富豪B7RLE "wikilink")[斯堪尼亞K230UB底盤上](../Page/斯堪尼亞K230UB.md "wikilink")。
 
 2011年，Enviro 300改成符合歐洲委員會的Whole Vehicle Type Approval標準（簡稱ECWVTA）。
 
@@ -19,7 +19,7 @@ K270UB底盤及Enviro 300車身。
 ### Enviro 300車身配其他底盤
 
 2008年，英國Stagecoach購入超過200輛裝配Enviro 300車身的猛獅18.240。同年，首批共45輛配Enviro
-300車身的富豪B7RLE付運予[北愛爾蘭的巴士公司Ulsterbus](../Page/北愛爾蘭.md "wikilink")。
+300車身的富豪B7RLE付運予[北愛爾蘭的巴士公司Ulsterbus](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink")。
 
 Stagecoach於2011年開始接收首50輛Scania K230UB/Enviro 300。
 
@@ -35,7 +35,8 @@ Stagecoach於2011年開始接收首50輛Scania K230UB/Enviro 300。
   - [飛鏢SLF](../Page/丹尼士飛鏢巴士.md "wikilink")
   - [三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")
   - [Enviro 200 Dart](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")
-  - [Enviro 350H](../Page/亞歷山大丹尼士Enviro_350H.md "wikilink")
+  - [Enviro
+    350H](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_350H "wikilink")
   - [Enviro 400](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")
   - [Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")
 

@@ -1,5 +1,5 @@
 **innocent
-starter**，是[水树奈奈第](../Page/水树奈奈.md "wikilink")10张单曲CD，2004年10月6日发售，商品編号KICM-1115。這首單曲是動畫《[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink")》的主題曲。在[Oricon公信榜周排行榜上](../Page/Oricon.md "wikilink")，获得第九位的成绩，也是水樹首次進入公信榜前10名的單曲作品。
+starter**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")10张单曲CD，2004年10月6日发售，商品編号KICM-1115。這首單曲是動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》的主題曲。在[Oricon公信榜周排行榜上](../Page/Oricon.md "wikilink")，获得第九位的成绩，也是水樹首次進入公信榜前10名的單曲作品。
 
 ## 收錄曲
 
@@ -7,18 +7,18 @@ starter**，是[水树奈奈第](../Page/水树奈奈.md "wikilink")10张单曲C
 
       - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
       - 作曲、編曲：[大平勉](../Page/大平勉.md "wikilink")
-      - 電視動畫《[魔法少女奈葉](../Page/魔法少女奈葉.md "wikilink")》主題曲
+      - 電視動畫《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》主題曲
       - 收錄于水樹奈奈個人專輯《[ALIVE\&KICKING](../Page/ALIVE&KICKING.md "wikilink")》和精選集《[THE
         MUSEUM](../Page/THE_MUSEUM.md "wikilink")》中
 
 2.  Open Your Heart
 
       - 作詞：[水樹奈奈](../Page/水樹奈奈.md "wikilink")
-      - 作曲、編曲：[飯田高廣](../Page/飯田高廣.md "wikilink")
+      - 作曲、編曲：[飯田高廣](https://zh.wikipedia.org/wiki/飯田高廣 "wikilink")
 
 3.    - 作詞、作曲：[大平勉](../Page/大平勉.md "wikilink")
-      - 編曲：[飯田高廣](../Page/飯田高廣.md "wikilink")
-      - PS2遊戲《[秋之回忆：从今以后](../Page/秋之回忆：从今以后.md "wikilink")》主題曲（新錄音）
+      - 編曲：[飯田高廣](https://zh.wikipedia.org/wiki/飯田高廣 "wikilink")
+      - PS2遊戲《[秋之回忆：从今以后](https://zh.wikipedia.org/wiki/秋之回忆：从今以后 "wikilink")》主題曲（新錄音）
 
 4.  innocent starter (Off Vocal Version)
 

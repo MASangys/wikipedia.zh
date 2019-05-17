@@ -37,9 +37,9 @@ JAAS的主要目標是分開使用者認證的議題，這樣就可以個別地�
 
 ## 参见
 
-  - [可插入的认证模块](../Page/可插入的认证模块.md "wikilink")（）
+  - [可插入的认证模块](https://zh.wikipedia.org/wiki/可插入的认证模块 "wikilink")（）
   - [Apache Shiro](../Page/Apache_Shiro.md "wikilink")
-  - [EJB\#安全](../Page/EJB#安全.md "wikilink")
+  - [EJB\#安全](https://zh.wikipedia.org/wiki/EJB#安全 "wikilink")
 
 ## 外部链接
 

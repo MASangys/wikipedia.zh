@@ -1,10 +1,10 @@
 《**MTV崩潰邊緣**》（*Boiling
-Points*）是美國MTV頻道所播出的[真人情境節目](../Page/真人秀.md "wikilink")，主要是利用隱藏式攝影機，加上工作人員與整人者對無知路人的捉弄。只要被整者超過時間仍未發怒，即可獲得100[美金的獎勵](../Page/美金.md "wikilink")，可說是典型的整人節目。節目的口號，是「有耐心就有回報」。
+Points*）是美國MTV頻道所播出的[真人情境節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，主要是利用隱藏式攝影機，加上工作人員與整人者對無知路人的捉弄。只要被整者超過時間仍未發怒，即可獲得100[美金的獎勵](https://zh.wikipedia.org/wiki/美金 "wikilink")，可說是典型的整人節目。節目的口號，是「有耐心就有回報」。
 
 ## 節目標誌與名稱
 
-節目標誌使用兩個點燃[引信的](../Page/導火線.md "wikilink")[炸彈作為雙](../Page/炸彈.md "wikilink")[眼](../Page/眼.md "wikilink")、一個黑色的橢圓形作為[嘴巴](../Page/嘴巴.md "wikilink")，象徵快要被動怒的人。而名稱「Boiling
-Points」，原意是「-{[沸點](../Page/沸點.md "wikilink")}-」，引申被整者能否於時限內不被激怒的用法。
+節目標誌使用兩個點燃[引信的](https://zh.wikipedia.org/wiki/導火線 "wikilink")[炸彈作為雙](https://zh.wikipedia.org/wiki/炸彈 "wikilink")[眼](https://zh.wikipedia.org/wiki/眼 "wikilink")、一個黑色的橢圓形作為[嘴巴](https://zh.wikipedia.org/wiki/嘴巴 "wikilink")，象徵快要被動怒的人。而名稱「Boiling
+Points」，原意是「-{[沸點](https://zh.wikipedia.org/wiki/沸點 "wikilink")}-」，引申被整者能否於時限內不被激怒的用法。
 
 ## 節目概要
 

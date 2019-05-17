@@ -5,22 +5,23 @@ Project**，是一個免費公開來源碼的程式設計網站，主要的使�
 
 The Code Project 包含下列語言的文章與程式碼：
 
-  - [C](../Page/C语言.md "wikilink")／[C++](../Page/C++.md "wikilink")（特別是
-    [MFC](../Page/MFC.md "wikilink")）
-  - [C\#](../Page/C_Sharp.md "wikilink")
+  - [C](https://zh.wikipedia.org/wiki/C语言 "wikilink")／[C++](../Page/C++.md "wikilink")（特別是
+    [MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")）
+  - [C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")
   - [Visual Basic](../Page/Visual_Basic.md "wikilink")
-  - [ASP](../Page/ASP.md "wikilink")
+  - [ASP](https://zh.wikipedia.org/wiki/ASP "wikilink")
   - [AJAX](../Page/AJAX.md "wikilink")
   - [SQL](../Page/SQL.md "wikilink")
 
 ## 類似的網站
 
-  - [Bytes(曾用名TheScripts)](../Page/Bytes\(曾用名TheScripts\).md "wikilink")
-  - [CodeGuru](../Page/CodeGuru.md "wikilink")
-  - [DevX](../Page/DevX.md "wikilink")
+  - [Bytes(曾用名TheScripts)](https://zh.wikipedia.org/wiki/Bytes\(曾用名TheScripts\) "wikilink")
+  - [CodeGuru](https://zh.wikipedia.org/wiki/CodeGuru "wikilink")
+  - [DevX](https://zh.wikipedia.org/wiki/DevX "wikilink")
   - [Experts-Exchange](../Page/Experts-Exchange.md "wikilink")
-  - [CodeComments](../Page/CodeComments.md "wikilink")
-  - [Planet Source Code](../Page/Planet_Source_Code.md "wikilink")
+  - [CodeComments](https://zh.wikipedia.org/wiki/CodeComments "wikilink")
+  - [Planet Source
+    Code](https://zh.wikipedia.org/wiki/Planet_Source_Code "wikilink")
 
 ## 外部連結
 

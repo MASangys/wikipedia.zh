@@ -1,27 +1,28 @@
 </ref> | latest preview version = | latest preview date =  | status = |
 programming language =
-[C\#](../Page/C_Sharp_\(programming_language\).md "wikilink") |
-operating system = | platform = [.NET
-Framework](../Page/.NET_Framework.md "wikilink") | size = | language = |
-language count = | language footnote = | genre =
-[物件關聯對應](../Page/對象關係映射.md "wikilink") (O/R
+[C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink")
+| operating system = | platform = [.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink") |
+size = | language = | language count = | language footnote = | genre =
+[物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink") (O/R
 Mapping) | license = [Apache
-License](../Page/Apache_License.md "wikilink") | alexa = | website =  |
-standard = | AsOf = | logo_size = | logo_alt = }} **Entity Framework**
-(又稱ADO.NET Entity Framework) 是微軟以 ADO.NET
-為基礎所發展出來的**[物件關聯對應](../Page/對象關係映射.md "wikilink")
+License](https://zh.wikipedia.org/wiki/Apache_License "wikilink") |
+alexa = | website =  | standard = | AsOf = | logo_size = | logo_alt =
+}} **Entity Framework** (又稱ADO.NET Entity Framework) 是微軟以 ADO.NET
+為基礎所發展出來的**[物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")
 (O/R Mapping)** 解決方案，早期被稱為 ObjectSpace，現已經包含在 Visual Studio 2008 Service
 Pack 1 以及 .NET Framework 3.5 Service Pack 1 中發表。
 
 ADO.NET Entity Framework 以 Entity Data Model (EDM) 為主，將資料邏輯層切分為三塊，分別為
 Conceptual Schema, Mapping Schema 與 Storage Schema 三層，其上還有 Entity
-Client，Object Context 以及 [LINQ](../Page/LINQ.md "wikilink") 可以使用。
+Client，Object Context 以及
+[LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink") 可以使用。
 
 ## 背景
 
 長久以來，程式設計師和資料庫總是保持著一種微妙的關係，在商用應用程式中，資料庫一定是不可或缺的元件，這讓程式設計師一定要為了連接與存取資料庫而去學習
 [SQL](../Page/SQL.md "wikilink")
-指令，因此在資訊業中有很多人都在研究如何將程式設計模型和資料庫整合在一起，[物件關聯對應](../Page/對象關係映射.md "wikilink")
+指令，因此在資訊業中有很多人都在研究如何將程式設計模型和資料庫整合在一起，[物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")
 (Object-Relational Mapping)
 的技術就是由此而生，像[Hibernate或](../Page/Hibernate.md "wikilink")[NHibernate都是這個技術下的產物](../Page/NHibernate.md "wikilink")，而微軟雖然有了[ADO.NET這個資料存取的利器](../Page/ADO.NET.md "wikilink")，但卻沒有像NHibernate這樣的物件對應工具，因此微軟在.NET
 Framework
@@ -95,7 +96,7 @@ Specification Language) 所撰寫\[2\]。
 
 ### 儲存層結構
 
-儲存層結構是負責與[資料庫管理系統](../Page/資料庫管理系統.md "wikilink")（[DBMS](../Page/DBMS.md "wikilink")）中的資料表做實體對應
+儲存層結構是負責與[資料庫管理系統](https://zh.wikipedia.org/wiki/資料庫管理系統 "wikilink")（[DBMS](https://zh.wikipedia.org/wiki/DBMS "wikilink")）中的資料表做實體對應
 (Physical Mapping)，讓資料可以輸入正確的資料來源中，或者由正確的資料來源取出。它是由 SSDL (Storage Schema
 Definition Language) 所撰寫\[3\]。
 
@@ -206,17 +207,17 @@ ObjectQuery<Contact> contactQuery = context.Contact
 [ADONET_EntityDesigner.png](https://zh.wikipedia.org/wiki/File:ADONET_EntityDesigner.png "fig:ADONET_EntityDesigner.png")
 
 目前 ADO.NET Entity Framework 的開發，在 [Visual
-Studio](../Page/Visual_Studio.md "wikilink") 2008 中有充分的支援，在安裝 Visual
-Studio 2008 Service Pack 1 後，檔案範本中即會出現 ADO.NET 實體資料模型 (ADO.NET Entity
-Data Model) 可讓開發人員利用 Entity Model Designer 來設計 EDM，EDM
-亦可由Windows記事本等文字編輯器所編輯。
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink") 2008
+中有充分的支援，在安裝 Visual Studio 2008 Service Pack 1 後，檔案範本中即會出現
+ADO.NET 實體資料模型 (ADO.NET Entity Data Model) 可讓開發人員利用 Entity Model
+Designer 來設計 EDM，EDM 亦可由Windows記事本等文字編輯器所編輯。
 
 ## 衍生服務
 
 微軟特別針對了網路上各種不同的應用程式（例如
-[AJAX](../Page/AJAX.md "wikilink")，[Silverlight](../Page/Silverlight.md "wikilink")，[Mashup](../Page/Mashup.md "wikilink")
+[AJAX](../Page/AJAX.md "wikilink")，[Silverlight](https://zh.wikipedia.org/wiki/Silverlight "wikilink")，[Mashup](https://zh.wikipedia.org/wiki/Mashup "wikilink")
 應用程式）開發了一個基於 ADO.NET Entity Framework 之上的服務，稱為 [ADO.NET Data
-Services](../Page/ADO.NET_Data_Services.md "wikilink")（專案代號為
+Services](https://zh.wikipedia.org/wiki/ADO.NET_Data_Services "wikilink")（專案代號為
 **Astoria**），並與 ADO.NET Entity Framework 一起包裝在 .NET Framework 3.5
 Service Pack 1 中發表。
 

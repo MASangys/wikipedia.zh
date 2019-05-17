@@ -1,13 +1,13 @@
-**TARAKO**（，），[日本資深女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](../Page/旁白.md "wikilink")、[演員](../Page/演員.md "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](../Page/太田市.md "wikilink")\[1\]\[2\]
-。[身高](../Page/身高.md "wikilink")158cm。AB型[血](../Page/血型.md "wikilink")\[3\]。
+**TARAKO**（，），[日本資深女性](../Page/日本.md "wikilink")[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[創作歌手](../Page/創作歌手.md "wikilink")、[編劇](../Page/編劇.md "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")[太田市](https://zh.wikipedia.org/wiki/太田市 "wikilink")\[1\]\[2\]
+。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")158cm。AB型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 人物簡介
 
 所屬\[4\]。畢業。
 
-為人熟悉的代表配音作品是長壽動畫系列《[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")》主角[櫻桃子](../Page/櫻桃子.md "wikilink")\[5\]。
+為人熟悉的代表配音作品是長壽動畫系列《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》主角[櫻桃子](../Page/櫻桃子.md "wikilink")\[5\]。
 
-聲線為A～C\#（[假聲](../Page/假聲.md "wikilink")～E）\[6\]。興趣有[寫詩](../Page/寫詩.md "wikilink")、看[天空](../Page/天空.md "wikilink")\[7\]。
+聲線為A～C\#（[假聲](../Page/假聲.md "wikilink")～E）\[6\]。興趣有[寫詩](https://zh.wikipedia.org/wiki/寫詩 "wikilink")、看[天空](../Page/天空.md "wikilink")\[7\]。
 
 ## 演出作品
 
@@ -22,16 +22,17 @@
   - [VS騎士檸檬汽水&40炎](../Page/VS騎士檸檬汽水&40炎.md "wikilink")（蛇魚子）
   - [機動警察](../Page/機動警察.md "wikilink")（進士多美子）
   - [貓眼三姐妹](../Page/貓眼三姐妹.md "wikilink")（ユウイチ）
-  - [金田一少年之事件簿](../Page/金田一少年之事件簿.md "wikilink")（港屋明日香）
+  - [金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")（港屋明日香）
   - [妙廚老爹](../Page/妙廚老爹.md "wikilink")（太田太一）
   - [摩登原始人](../Page/摩登原始人.md "wikilink")（バンバン）
   - [甲蟲王者](../Page/甲蟲王者.md "wikilink")（チビキング）
   - [森林大帝](../Page/森林大帝.md "wikilink")（ルル他）
-  - *[櫻桃小丸子](../Page/櫻桃小丸子.md "wikilink")*（**[櫻桃子](../Page/櫻桃子.md "wikilink")**〈**小丸子**〉）
+  - *[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")*（**[櫻桃子](../Page/櫻桃子.md "wikilink")**〈**小丸子**〉）
   - [NOIR](../Page/NOIR.md "wikilink")（阿爾蒂娜）
-  - [Hunter × Hunter](../Page/Hunter_×_Hunter.md "wikilink")（センリツ）
+  - [Hunter ×
+    Hunter](https://zh.wikipedia.org/wiki/Hunter_×_Hunter "wikilink")（センリツ）
   - [聖魔大戰](../Page/聖魔大戰.md "wikilink")（酔助、ジケシーン）
-  - [愛麗絲夢遊仙境](../Page/愛麗絲夢遊仙境.md "wikilink")（愛麗絲）
+  - [愛麗絲夢遊仙境](https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境 "wikilink")（愛麗絲）
   - [冒險遊記](../Page/冒險遊記Pluster_World.md "wikilink")（摩利）
   - [蜜柑繪日記](../Page/蜜柑繪日記.md "wikilink")（橘子（みかん））
   - [相聚一刻](../Page/相聚一刻.md "wikilink")（麻美、ホステスのアケミ）
@@ -46,7 +47,7 @@
     愛の嵐大作戰（蛇魚子）
   - [NG騎士檸檬汽水&40](../Page/NG騎士檸檬汽水&40.md "wikilink") DX ワクワク時空
     炎の大搜査戰（蛇魚子）
-  - [HUNTER×HUNTEROVA](../Page/HUNTER×HUNTER.md "wikilink")（センリツ）
+  - [HUNTER×HUNTEROVA](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")（センリツ）
 
 ### 電影動畫
 
@@ -54,7 +55,7 @@
 
 <!-- end list -->
 
-  - [風之谷](../Page/風之谷.md "wikilink")（少年）
+  - [風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")（少年）
 
 <!-- end list -->
 
@@ -70,7 +71,7 @@
 
 <!-- end list -->
 
-  - [龍貓](../Page/龍貓.md "wikilink")（朋友B）
+  - [龍貓](https://zh.wikipedia.org/wiki/龍貓 "wikilink")（朋友B）
 
 <!-- end list -->
 
@@ -86,7 +87,7 @@
 
 <!-- end list -->
 
-  - [櫻桃小丸子：我最喜歡的歌](../Page/櫻桃小丸子：我最喜歡的歌.md "wikilink")（**櫻桃子**〈**小丸子**〉）
+  - [櫻桃小丸子：我最喜歡的歌](https://zh.wikipedia.org/wiki/櫻桃小丸子：我最喜歡的歌 "wikilink")（**櫻桃子**〈**小丸子**〉）
 
 <!-- end list -->
 
@@ -95,7 +96,7 @@
 <!-- end list -->
 
   - [劇場版 光之美少女Splash
-    Star：滴嗒危機一髮！](../Page/光之美少女Splash_Star#劇場版.md "wikilink")（分針子）
+    Star：滴嗒危機一髮！](https://zh.wikipedia.org/wiki/光之美少女Splash_Star#劇場版 "wikilink")（分針子）
 
 <!-- end list -->
 
@@ -111,7 +112,7 @@
 
 <!-- end list -->
 
-  - [櫻桃小丸子：來自義大利的少年](../Page/櫻桃小丸子：來自義大利的少年.md "wikilink")（**櫻桃子**〈**小丸子**〉\[10\]）
+  - [櫻桃小丸子：來自義大利的少年](https://zh.wikipedia.org/wiki/櫻桃小丸子：來自義大利的少年 "wikilink")（**櫻桃子**〈**小丸子**〉\[10\]）
 
 <!-- end list -->
 
@@ -166,7 +167,7 @@
 <tbody>
 <tr class="odd">
 <td><p>夢/夢</p></td>
-<td><p><a href="../Page/波麗佳音.md" title="wikilink">Canyon（今Pony Canyon）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">Canyon（今Pony Canyon）</a></p></td>
 <td><p>1983年10月</p></td>
 <td></td>
 </tr>
@@ -190,7 +191,7 @@
 </tr>
 <tr class="odd">
 <td><p>大好/笑</p></td>
-<td><p><a href="../Page/BMG_JAPAN.md" title="wikilink">BMG VICTOR（今BMG JAPAN）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMG_JAPAN" title="wikilink">BMG VICTOR（今BMG JAPAN）</a></p></td>
 <td><p>1990年11月7日</p></td>
 <td></td>
 </tr>
@@ -238,7 +239,7 @@
 </tr>
 <tr class="odd">
 <td><p>文</p></td>
-<td><p><a href="../Page/波麗佳音.md" title="wikilink">今Pony Canyon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">今Pony Canyon</a></p></td>
 <td><p>2004年7月10日</p></td>
 <td><p>與（）跨部合作。</p></td>
 </tr>
@@ -258,7 +259,7 @@
 <tbody>
 <tr class="odd">
 <td><p>瞬間</p></td>
-<td><p><a href="../Page/波麗佳音.md" title="wikilink">Canyon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波麗佳音" title="wikilink">Canyon</a></p></td>
 <td><p>1983年6月21日</p></td>
 </tr>
 <tr class="even">
@@ -283,7 +284,7 @@
 </tr>
 <tr class="even">
 <td><p>大好</p></td>
-<td><p><a href="../Page/BMG_JAPAN.md" title="wikilink">BMG VICTOR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BMG_JAPAN" title="wikilink">BMG VICTOR</a></p></td>
 <td><p>1990年11月21日</p></td>
 </tr>
 <tr class="odd">
@@ -316,12 +317,12 @@
 
 ### 作詞
 
-  - [高帽子的梅莫兒](../Page/外星小美兒.md "wikilink")（[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")，1984年3月21日。歌唱：[山野智子](../Page/山野智子.md "wikilink")）
+  - [高帽子的梅莫兒](https://zh.wikipedia.org/wiki/外星小美兒 "wikilink")（[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")，1984年3月21日。歌唱：[山野智子](../Page/山野智子.md "wikilink")）
 
 ### LIVE影像
 
   - 「大好」'91 in KUDAN KAIKAN（[BMG
-    VICTOR](../Page/BMG_JAPAN.md "wikilink")，1991年6月21日，VHS）
+    VICTOR](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")，1991年6月21日，VHS）
 
 ## 腳註
 

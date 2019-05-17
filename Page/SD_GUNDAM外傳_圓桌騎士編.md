@@ -1,5 +1,5 @@
 **SD高達外傳
-圓桌騎士編**是SD高達外傳第二作。與前作「捷古自護編」不同，本故事是根據英國歷史人物[阿瑟王及其麾下十二人](../Page/阿瑟王.md "wikilink")，後世稱為「圓桌騎士團」為藍本，講述落難王子皇騎士，在復國路上遇到的種種經歷、以及重新建立新圓桌騎士團的奮鬥史。
+圓桌騎士編**是SD高達外傳第二作。與前作「捷古自護編」不同，本故事是根據英國歷史人物[阿瑟王及其麾下十二人](https://zh.wikipedia.org/wiki/阿瑟王 "wikilink")，後世稱為「圓桌騎士團」為藍本，講述落難王子皇騎士，在復國路上遇到的種種經歷、以及重新建立新圓桌騎士團的奮鬥史。
 
 ## 主要人物
 
@@ -16,7 +16,7 @@
 
   -
     相傳「超機動大將軍編」中武者鷺主的聖劍，亦是由他所賜予。（詳見[SD戰國傳
-    超機動大將軍篇](../Page/SD戰國傳_超機動大將軍篇.md "wikilink")）
+    超機動大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍篇 "wikilink")）
 
 **勇劍士Plus／勇騎士Plus**(勇剣士プラス)
 
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    角色原型來自「圓桌騎士」的著名魔法師[梅林](../Page/梅林.md "wikilink")。
+    角色原型來自「圓桌騎士」的著名魔法師[梅林](https://zh.wikipedia.org/wiki/梅林 "wikilink")。
 
 **麗騎士Red Warrior／麗紅騎士Red Warrior**
 
@@ -63,7 +63,7 @@
   -
     在BB戰士世界，身份頗為特殊：與影舞亂夢的赤龍頑馱無是相識，而子孫「海賊騎士Red
     Warrior」更活躍於「G-ARMS」之中。（同時參考[SD戰國傳
-    地上最強篇](../Page/SD戰國傳_地上最強篇.md "wikilink")）
+    地上最強篇](https://zh.wikipedia.org/wiki/SD戰國傳_地上最強篇 "wikilink")）
 
 **剛戰士Heavy Gundam／重騎士Heavy Gundam**
 
@@ -119,16 +119,16 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    角色原型來自「圓桌騎士」角色[蘭斯洛特](../Page/蘭斯洛特.md "wikilink")。
+    角色原型來自「圓桌騎士」角色[蘭斯洛特](https://zh.wikipedia.org/wiki/蘭斯洛特 "wikilink")。
 
 #### 其他角色
 
-**戰士[力奇．戴亞斯](../Page/力奇．戴亞斯.md "wikilink")**（戦士リックディアス）
+**戰士[力奇．戴亞斯](https://zh.wikipedia.org/wiki/力奇．戴亞斯 "wikilink")**（戦士リックディアス）
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，透過說服而加入的同伴之一。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，透過說服而加入的同伴之一。
 
-**盜賊[丹尼](../Page/丹尼.md "wikilink")／凱**（盗賊カイ）
+**盜賊[丹尼](https://zh.wikipedia.org/wiki/丹尼 "wikilink")／凱**（盗賊カイ）
 
   -
     與皇騎士住在同一村莊的盜賊。
@@ -136,7 +136,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，最初盜取「龍之首飾」，最後被皇騎士救走，而加入的同伴之一。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，最初盜取「龍之首飾」，最後被皇騎士救走，而加入的同伴之一。
 
 **賢者安東尼/提姆**（賢者アントニオ）
 
@@ -146,12 +146,12 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    賢者的角色「提姆」，為「機動戰士高達」中[阿寶．尼爾的父親](../Page/阿寶．尼爾.md "wikilink")，也是高達的設計者之一。
+    賢者的角色「提姆」，為「機動戰士高達」中[阿寶．尼爾的父親](https://zh.wikipedia.org/wiki/阿寶．尼爾 "wikilink")，也是高達的設計者之一。
 
 **道士訓練型吉姆**（道士ジムトレーナー）
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，曾追捕盜賊丹尼，最後將他收監。是透過說服而加入的同伴之一。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，曾追捕盜賊丹尼，最後將他收監。是透過說服而加入的同伴之一。
 
 **兵士吉姆**（兵士ジムライト）
 
@@ -161,7 +161,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，與勇劍士PLUS守城的其中一名，可以透過說服而加入成為一員。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，與勇劍士PLUS守城的其中一名，可以透過說服而加入成為一員。
 
 **騎士Djen**（騎士ディジェ）
 
@@ -171,7 +171,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，將他從監牢裡釋放，便可成為同伴。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，將他從監牢裡釋放，便可成為同伴。
 
 **鬥士雷姆雷射炮**（闘士Gディテクター）
 
@@ -183,39 +183,39 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 **戰士隼人（小林隼人）**（戦士ハヤト）
 
   -
-    [SFC遊戲中未有出場](../Page/SFC.md "wikilink")。
+    [SFC遊戲中未有出場](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **戰士阿龍**（戦士リュウ）
 
   -
-    [SFC遊戲中未有出場](../Page/SFC.md "wikilink")。
+    [SFC遊戲中未有出場](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **騎士加普蘭**（騎士ギャプラン）
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，可選擇打敗或說降。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，可選擇打敗或說降。
 
 **黑魔道士姬斯**（黒魔道士クェス）
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，只要答應她的要求，將聖者之杖贈送，便會加入成為同伴。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，只要答應她的要求，將聖者之杖贈送，便會加入成為同伴。
 
 **鬥士Heavy Gun**（闘士ヘビーガン）
 
 **戰士阿保尼**（戦士アポリー）
 
   -
-    [SFC遊戲中未有出場](../Page/SFC.md "wikilink")。
+    [SFC遊戲中未有出場](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **戰士羅拔**（戦士ロベルト）
 
   -
-    [SFC遊戲中未有出場](../Page/SFC.md "wikilink")。
+    [SFC遊戲中未有出場](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **咒術師阿科**（呪術師フォウ）
 
   -
-    [SFC遊戲中可選擇打敗她或者說服她成為同伴](../Page/SFC.md "wikilink")。
+    [SFC遊戲中可選擇打敗她或者說服她成為同伴](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **騎士露莎美**（剣士ロザミア，鎧甲﹕重高達MK-II）
 
@@ -234,7 +234,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 **戰士比紀特**（戦士ビルギット）
 
   -
-    [SFC遊戲中未有出場](../Page/SFC.md "wikilink")。
+    [SFC遊戲中未有出場](https://zh.wikipedia.org/wiki/SFC "wikilink")。
 
 **銀騎士維娜．基娜**（銀騎士ビギナ・ギナ）
 
@@ -244,7 +244,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    [SFC遊戲中](../Page/SFC.md "wikilink")，在聖山內出現，並且可以說服加入。
+    [SFC遊戲中](https://zh.wikipedia.org/wiki/SFC "wikilink")，在聖山內出現，並且可以說服加入。
 
 ##### 初代圓桌騎士團
 
@@ -296,7 +296,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
   -
     在「薩比羅尼亞王國」入侵中戰死，臨終前將額上羽飾託付予白金卿。（類似設定，亦曾出現在同月推出的[BB戰士三國傳
-    英雄激突編模型漫畫當中](../Page/BB戰士三國傳_英雄激突編.md "wikilink")，呂蒙將故人鄧當的額上羽飾鑲在面具上。）
+    英雄激突編模型漫畫當中](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")，呂蒙將故人鄧當的額上羽飾鑲在面具上。）
 
 **銀騎士Z高達**（實驗型Z高達—X2百式型）
 
@@ -312,26 +312,26 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
   -
     舊圓桌騎士之一、也是日後「[SD高達外傳
-    騎士高達物語](../Page/SD高達外傳_騎士高達物語.md "wikilink")」龍騎士零高達之父，後來被魔獸寄生，成為幻魔王。布禮斯特陷落時，與假面騎士一同到「グラナダ地方」調查各地怪異事件。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」龍騎士零高達之父，後來被魔獸寄生，成為幻魔王。布禮斯特陷落時，與假面騎士一同到「グラナダ地方」調查各地怪異事件。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 **仮面騎士ジェイバー**
 
   -
     舊圓桌騎士之一、也是日後「[SD高達外傳
-    騎士高達物語](../Page/SD高達外傳_騎士高達物語.md "wikilink")」中出場的騎士團長，有專用的「假面機兵」。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場的騎士團長，有專用的「假面機兵」。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 **騎士司令高達**（騎士コナンガンダム）
 
   -
     與武者頑星刃（參考[新SD戰國傳
-    傳說之大將軍編](../Page/新SD戰國傳_傳說之大將軍編.md "wikilink")）相似，異世界出身的G-ARMS最高司令官。由非正規角色升格而成。曾在「[SD高達外傳
-    騎士高達物語](../Page/SD高達外傳_騎士高達物語.md "wikilink")」中出場。
+    傳說之大將軍編](https://zh.wikipedia.org/wiki/新SD戰國傳_傳說之大將軍編 "wikilink")）相似，異世界出身的G-ARMS最高司令官。由非正規角色升格而成。曾在「[SD高達外傳
+    騎士高達物語](https://zh.wikipedia.org/wiki/SD高達外傳_騎士高達物語 "wikilink")」中出場。
 
 **法術士流星高達／魔法劍士流星高達（魔法剣士メテオガンダム）**（HI-Nu高達）
 
   -
     [SD高達外傳
-    機甲神傳說登場](../Page/SD高達外傳_機甲神傳說.md "wikilink")，達巴王國出身的魔法劍士。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
+    機甲神傳說登場](https://zh.wikipedia.org/wiki/SD高達外傳_機甲神傳說 "wikilink")，達巴王國出身的魔法劍士。08年Carddass推出，被重新劃歸為舊圓桌騎士團成員之一。
 
 '''騎士アーサーガンダム '''
 
@@ -433,11 +433,12 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 **戰士居勒．德卡**（戦士ギラ・ドーガ）
 
-'''戰士[加羅波的β](../Page/加羅波的.md "wikilink") '''（戦士ガルバルディβ）
+'''戰士[加羅波的β](https://zh.wikipedia.org/wiki/加羅波的 "wikilink")
+'''（戦士ガルバルディβ）
 
-**鬥士[茲沙](../Page/茲沙.md "wikilink")**（闘士ズサ）
+**鬥士[茲沙](https://zh.wikipedia.org/wiki/茲沙 "wikilink")**（闘士ズサ）
 
-**鬥士[R．查查](../Page/R．查查.md "wikilink")**（闘士R・ジャジャ）
+**鬥士[R．查查](https://zh.wikipedia.org/wiki/R．查查 "wikilink")**（闘士R・ジャジャ）
 
 **騎士雅典娜**（騎士パラスアテネ）
 
@@ -445,7 +446,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 **重戰士鐵．奧**（重戦士ジ・オ）
 
-**騎士[卡碧妮](../Page/卡碧妮.md "wikilink")**（騎士キュベレ）
+**騎士[卡碧妮](https://zh.wikipedia.org/wiki/卡碧妮 "wikilink")**（騎士キュベレ）
 
 '''魔術師バウンドドッグ '''
 
@@ -470,7 +471,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 **獣騎士ベルガ・ダラス**
 
-**魔術師[勇士鐳射炮](../Page/勇士鐳射炮.md "wikilink")**（魔術師ゲルググキャノン）
+**魔術師[勇士鐳射炮](https://zh.wikipedia.org/wiki/勇士鐳射炮 "wikilink")**（魔術師ゲルググキャノン）
 
 '''戦士クランプ '''
 
@@ -492,19 +493,19 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 **重闘士ゲーマルク**
 
-**恐鬥士[沙煞比](../Page/沙煞比.md "wikilink")**（恐闘士サザビー）
+**恐鬥士[沙煞比](https://zh.wikipedia.org/wiki/沙煞比 "wikilink")**（恐闘士サザビー）
 
-**騎士[勇士J](../Page/勇士.md "wikilink")**（騎士ゲルググJ）
+**騎士[勇士J](https://zh.wikipedia.org/wiki/勇士 "wikilink")**（騎士ゲルググJ）
 
-**騎士[渣古IIIR](../Page/渣古III.md "wikilink")**（騎士ザクⅢR）
+**騎士[渣古IIIR](https://zh.wikipedia.org/wiki/渣古III "wikilink")**（騎士ザクⅢR）
 
-**邪騎士[京寶梵](../Page/京寶梵.md "wikilink")**（邪騎士ケンプファー）
+**邪騎士[京寶梵](https://zh.wikipedia.org/wiki/京寶梵 "wikilink")**（邪騎士ケンプファー）
 
 **魔騎士ヤクト・ドーガ**
 
 **妖騎士ヤクト・ドーガ**
 
-**悪道士α・瓦索龍**（惡道士[α・アジール](../Page/α・アジール.md "wikilink")）
+**悪道士α・瓦索龍**（惡道士[α・アジール](https://zh.wikipedia.org/wiki/α・アジール "wikilink")）
 
 '''呪術師ギガン '''
 
@@ -623,7 +624,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    外形與[鐳射唱片一樣](../Page/鐳射唱片.md "wikilink")。
+    外形與[鐳射唱片一樣](https://zh.wikipedia.org/wiki/鐳射唱片 "wikilink")。
 
 **聖杯**
 
@@ -660,7 +661,7 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 <!-- end list -->
 
   -
-    名稱是來自[機動戰士高達中阿寶與](../Page/機動戰士高達.md "wikilink")「青之巨星」賴巴在酒吧首次相遇的沙漠城鎮。
+    名稱是來自[機動戰士高達中阿寶與](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")「青之巨星」賴巴在酒吧首次相遇的沙漠城鎮。
 
 **布禮斯特城**(ブリティス城)
 
@@ -679,12 +680,12 @@ D型）、**法術士F-90／僧侶F-90**\*（F-90 A型）
 
 ## 其他資料
 
-  - 「圓桌騎士團」未有如前作「SD高達外傳」及後作「聖機兵物語」一樣動畫化，據說是由於製作單位，認為主角「皇帝高達II世」細節太多，難以繪畫，加上合共十三名主角，以當時（90年代）仍以[膠片動畫為主流來說](../Page/膠片動畫.md "wikilink")，全以人手繪製的話，並不容易。所以除了電視廣告外，並無將故事改編成動畫版。
+  - 「圓桌騎士團」未有如前作「SD高達外傳」及後作「聖機兵物語」一樣動畫化，據說是由於製作單位，認為主角「皇帝高達II世」細節太多，難以繪畫，加上合共十三名主角，以當時（90年代）仍以[膠片動畫為主流來說](https://zh.wikipedia.org/wiki/膠片動畫 "wikilink")，全以人手繪製的話，並不容易。所以除了電視廣告外，並無將故事改編成動畫版。
 
 <!-- end list -->
 
   - [SD GUNDAM
-    FORCE中](../Page/SD_GUNDAM_FORCE.md "wikilink")，主角之一翼之騎士．零專用武器「Vadora之劍」（ヴァドラスソード）及盾牌「Buritisu之盾」（ブリティスシールド），與皇騎士的武器為同一名稱。
+    FORCE中](https://zh.wikipedia.org/wiki/SD_GUNDAM_FORCE "wikilink")，主角之一翼之騎士．零專用武器「Vadora之劍」（ヴァドラスソード）及盾牌「Buritisu之盾」（ブリティスシールド），與皇騎士的武器為同一名稱。
 
 ## 相關連結
 

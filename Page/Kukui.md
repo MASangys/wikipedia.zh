@@ -1,10 +1,10 @@
-**kukui**（发音：）是由myu與[霜月遥组成的](../Page/霜月遥.md "wikilink")[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂.md "wikilink")。隸屬於MellowHead。
+**kukui**（发音：）是由myu與[霜月遥组成的](https://zh.wikipedia.org/wiki/霜月遥 "wikilink")[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")。隸屬於MellowHead。
 
 ## 概要
 
 ### 來歷
 
-本來是由**myu**與**[riya](../Page/riya.md "wikilink")**的組合「**refio**」開始，後來riya與菊地創組成「[eufonius](../Page/eufonius.md "wikilink")」的組合，從「refio」退出。其後，「refio」成為myu的個人組織，歌手**霜月はるか**加入之後，便以「**refio＋霜月はるか**」名義發售「透明シェルター」的單曲。伴隨著此，組合更名為「**kukui**」開始活動。因為迷你專輯「光の螺旋律」而重新被人認識。歌曲以幻想的歌詞、平穩的曲調、[前衛搖滾為多](../Page/前衛搖滾.md "wikilink")。
+本來是由**myu**與**[riya](https://zh.wikipedia.org/wiki/riya "wikilink")**的組合「**refio**」開始，後來riya與菊地創組成「[eufonius](https://zh.wikipedia.org/wiki/eufonius "wikilink")」的組合，從「refio」退出。其後，「refio」成為myu的個人組織，歌手**霜月はるか**加入之後，便以「**refio＋霜月はるか**」名義發售「透明シェルター」的單曲。伴隨著此，組合更名為「**kukui**」開始活動。因為迷你專輯「光の螺旋律」而重新被人認識。歌曲以幻想的歌詞、平穩的曲調、[前衛搖滾為多](../Page/前衛搖滾.md "wikilink")。
 
 ### 成員
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-1.  透明シェルター：[動畫](../Page/動畫.md "wikilink")『[薔薇少女](../Page/薔薇少女.md "wikilink")』片尾曲[主題歌](../Page/主題歌.md "wikilink")
+1.  透明シェルター：[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")『[薔薇少女](../Page/薔薇少女.md "wikilink")』片尾曲[主題歌](https://zh.wikipedia.org/wiki/主題歌 "wikilink")
 2.  はちみつ
 3.  モノクロセカイ
 4.  透明シェルター（off vocal）
@@ -109,11 +109,11 @@
 11. アマヤドリ
 12. 二重奏
 13. Little Primrose：『[鍵姫物語
-    永久アリス輪舞曲](../Page/鍵姫物語_永久アリス輪舞曲.md "wikilink")』片頭曲
+    永久アリス輪舞曲](https://zh.wikipedia.org/wiki/鍵姫物語_永久アリス輪舞曲 "wikilink")』片頭曲
 
 ### 其他
 
-  - 動畫『[sola](../Page/sola.md "wikilink")』印象曲專輯“**oratorio**”（2007年8月8日發售）
+  - 動畫『[sola](https://zh.wikipedia.org/wiki/sola "wikilink")』印象曲專輯“**oratorio**”（2007年8月8日發售）
 
 <!-- end list -->
 

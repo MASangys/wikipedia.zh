@@ -1,10 +1,10 @@
 《**Tick\!
-Tack\!**》是由[Navel在](../Page/Navel.md "wikilink")2005年9月16日发售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表正中发射出的二个箭头](../Page/怀表.md "wikilink")，分别写着Tick和Tack，暗示着本作是跟时间有关。
+Tack\!**》是由[Navel在](../Page/Navel.md "wikilink")2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表正中发射出的二个箭头](../Page/怀表.md "wikilink")，分别写着Tick和Tack，暗示着本作是跟时间有关。
 
 ## 概要
 
 原本是要做成[Fan
-disc](../Page/Fan_disc.md "wikilink")，但由于內容膨大到和獨立企劃作品相當而變成以独立作品的形式上市。製作上继承了SHUFFLE\!的架構，並追加了新的登场人物。
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，但由于內容膨大到和獨立企劃作品相當而變成以独立作品的形式上市。製作上继承了SHUFFLE\!的架構，並追加了新的登场人物。
 
 故事舞台是聶琳涅结局一年后，一行人穿越时空到達的20年前魔界，內容揭露了魔王弗貝西的妻子和家族成员的故事。因『SHUFFLE\!』的另一位腳色設計兼原画的[西又葵沒有參與製作](../Page/西又葵.md "wikilink")，故本作以[鈴平裕笔下的人物为中心](../Page/鈴平裕.md "wikilink")，登场人物比SHUFFLE\!要少。
 2005年9月16日发售了Limited Edition版\[1\]，10月21日发售了Standard
@@ -41,7 +41,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 <!-- end list -->
 
   -
-    服侍魔殿下弗貝西的女僕，紅眼黑髮，身材嬌小，對弗貝西有好感卻說不出口。將女僕的工作視為驕傲，每天勤奮不休的工作著。對弗貝西因興趣搶做家事和自己是[贫乳的事非常煩惱](../Page/贫乳.md "wikilink")。生氣時爆出的「」有著連岩石都能擊碎的威力。
+    服侍魔殿下弗貝西的女僕，紅眼黑髮，身材嬌小，對弗貝西有好感卻說不出口。將女僕的工作視為驕傲，每天勤奮不休的工作著。對弗貝西因興趣搶做家事和自己是[贫乳的事非常煩惱](https://zh.wikipedia.org/wiki/贫乳 "wikilink")。生氣時爆出的「」有著連岩石都能擊碎的威力。
     依照原本的歷史，未來會當上魔王妃並成為聶琳涅的母親。但因禀等人的到訪，造成弗貝西向她求婚的歷史改變，甚至依照玩家的選擇而有和禀發展成戀愛關係的可能。在没有被变动历史的世界中，作为聶琳涅的母亲登场时还是穿着女僕服，除了头发留長外，基本的性格和身姿完全没有变化。
     名字从「[鼠尾草](../Page/鼠尾草.md "wikilink")」而来。花的象征语是『幸福的家庭』。
 
@@ -61,7 +61,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 ### 其他人物
 
   -
-    禀的同班同学。常为自己是[贫乳而烦恼](../Page/贫乳.md "wikilink")。非常喜欢有趣的事物，一時好奇亂碰聶琳涅家的魔法镜子而成為這次骚动的元兇。
+    禀的同班同学。常为自己是[贫乳而烦恼](https://zh.wikipedia.org/wiki/贫乳 "wikilink")。非常喜欢有趣的事物，一時好奇亂碰聶琳涅家的魔法镜子而成為這次骚动的元兇。
 
 <!-- end list -->
 
@@ -96,7 +96,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
   - 制造合作：[Lantis](../Page/Lantis.md "wikilink")
   - 导演：まさ
   - 营业·宣传：AlAi、みずのまみ
-  - 特别感謝：FlyingShine、[CIRCUS](../Page/CIRCUS_\(公司\).md "wikilink")、[MOONSTONE等等](../Page/MOONSTONE.md "wikilink")
+  - 特别感謝：FlyingShine、[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")、[MOONSTONE等等](../Page/MOONSTONE.md "wikilink")
 
 ## 相关商品
 
@@ -130,7 +130,7 @@ Edition版\[2\]，2008年3月28日发售了Anniversary Edition版\[3\]，三個�
 ### 书籍
 
   - 漫画《Tick\! Tack\! -NEVER SAY GOODBYE-》
-      - [單行本](../Page/單行本.md "wikilink")　日文版：2007年8月7日發售\[7\]\<ISBN
+      - [單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")　日文版：2007年8月7日發售\[7\]\<ISBN
         978-4-04-713956-5\> 、 中文版：2009年11月24日發售 \<ISBN
         978-986-237-379-8\>
       - 從2006年3月到2007年4月在日本『[月刊Comp

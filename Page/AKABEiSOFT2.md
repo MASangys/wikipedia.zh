@@ -1,8 +1,8 @@
-**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](../Page/福岡縣.md "wikilink")[福岡市的](../Page/福岡市.md "wikilink")[成人遊戲製作公司](../Page/成人遊戲.md "wikilink")，旗下有、、、曉WORKS黑的品牌，和的姊妹品牌、、。
+**AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市的](../Page/福岡市.md "wikilink")[成人遊戲製作公司](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，旗下有、、、曉WORKS黑的品牌，和的姊妹品牌、、。
 
 ## 歷史
 
-AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同人遊戲的團體](../Page/同人遊戲.md "wikilink")「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](../Page/戲仿.md "wikilink")。2004年冬季，把[一次和](../Page/原創.md "wikilink")[二次創作物的發行分別分拆為](../Page/二次創作.md "wikilink")「**AKABEiSOFT**」和「****」，翌年把前者[法人化](../Page/法人.md "wikilink")，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。2007年，再設立****、**曉WORKS**兩品牌。社內公司株式會社エフォルダム旗下品牌エフォルダムソフト於2014年4月16日解散。\[1\]
+AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同人遊戲的團體](../Page/同人遊戲.md "wikilink")「**AKABEiSOFT**」（），作品多有《[校園迷糊大王](../Page/校園迷糊大王.md "wikilink")》的[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。2004年冬季，把[一次和](https://zh.wikipedia.org/wiki/原創 "wikilink")[二次創作物的發行分別分拆為](../Page/二次創作.md "wikilink")「**AKABEiSOFT**」和「****」，翌年把前者[法人化](../Page/法人.md "wikilink")，社名登記為「有限公司AKABEiSOFT2」，品牌名稱則為「（一樣的意思和讀法）」。伴隨法人化，同人團體的「AKABEiSOFT」合併至「有葉與愉快的夥伴們」，而負責原畫的有葉（）則自成個人團體，亦結束開發同人遊戲，同人創作只剩下同人誌方面。2007年，再設立****、**曉WORKS**兩品牌。社內公司株式會社エフォルダム旗下品牌エフォルダムソフト於2014年4月16日解散。\[1\]
 
 ## 作品列表
 
@@ -15,7 +15,7 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
 
   - 2004年12月30日 - SCHOOL×SCHOOL
       -
-        改編自《校園迷糊大王》的十八禁[冒險遊戲](../Page/冒險遊戲.md "wikilink")，於[C67預先發售](../Page/Comic_Market.md "wikilink")，2005年1月20日委託部分書店發售。
+        改編自《校園迷糊大王》的十八禁[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於[C67預先發售](../Page/Comic_Market.md "wikilink")，2005年1月20日委託部分書店發售。
 
 ### mixed up×AKABEiSOFT
 
@@ -143,7 +143,7 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
 <td><p>2010年5月27日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>有葉、ikki</p></td>
-<td><p><a href="../Page/健速.md" title="wikilink">健速</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/健速" title="wikilink">健速</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -251,9 +251,10 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
   - 2013年4月26日 - [LOVELY×CATION2](../Page/LOVELY×CATION2.md "wikilink")
   - 2014年4月25日 - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
   - 2015年4月24日 - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - 2016年4月29日 - [PURELY×CATION](../Page/PURELY×CATION.md "wikilink")
+  - 2016年4月29日 -
+    [PURELY×CATION](https://zh.wikipedia.org/wiki/PURELY×CATION "wikilink")
   - 2017年4月28日 -
-    [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
+    [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
   - 2017年12月22日 -
   - 2018年4月27日 -
 
@@ -286,7 +287,8 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
   - 2012年6月29日 -
   - 2012年7月27日 -
   - 2014年2月28日 -
-  - 2014年8月29日 - [できない私が、くり返す。](../Page/できない私が、くり返す。.md "wikilink")
+  - 2014年8月29日 -
+    [できない私が、くり返す。](https://zh.wikipedia.org/wiki/できない私が、くり返す。 "wikilink")
   - 2015年9月18日 -
   - 2015年12月11日 -
   - 2016年1月29日 -
@@ -333,7 +335,8 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
         由ArielWave發售角色歌
   - 2009年4月24日 -
       -
-        由Five Records發售[原聲音樂](../Page/原聲音樂.md "wikilink")
+        由Five
+        Records發售[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")
 
 ## 主要的工作人員
 

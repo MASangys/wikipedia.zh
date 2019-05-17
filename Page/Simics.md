@@ -1,5 +1,5 @@
 **Simics**
-是一种完整系统模拟技术，为软件和系统开发人员、架构师、测试工程师提供为各种目的构建和使用[虚拟系统或创建多个虚拟连接系统的方法](../Page/虚拟系统.md "wikilink")。\[1\]Simics最初由瑞典计算机科学研究院（SICS）开发，后于1998年派生出Virtutech公司进行商业化开发
+是一种完整系统模拟技术，为软件和系统开发人员、架构师、测试工程师提供为各种目的构建和使用[虚拟系统或创建多个虚拟连接系统的方法](https://zh.wikipedia.org/wiki/虚拟系统 "wikilink")。\[1\]Simics最初由瑞典计算机科学研究院（SICS）开发，后于1998年派生出Virtutech公司进行商业化开发
 \[2\]。现在是风河公司的产品\[3\]。
 
 Simics能仿真诸如Alpha、AMD64、ARM、ARM64、EM64T、IA-64、MIPS（32位和64位）、MSP430、Powerpc（32位和64位）、POWER、SPARC-V8/V9、x86等多种系统，并且可以在这些仿真硬件上运行多种操作系统，包括MS-DOS、Windows、Vxworks、OSE、Solaris、FreeBSD、Linux、QNX和RTEMS等。NetBSD公司的AMD64接口在芯片公开发行之前最初是用Simics开发的。\[4\]用Simics进行仿真的目的经常是使用Simics虚拟一些特定类型的嵌入式硬件平台来开发软件。

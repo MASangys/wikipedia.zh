@@ -7,7 +7,7 @@ WALTZ**》是由[Will公司的旗下遊戲品牌](../Page/WillPlus.md "wikilink"
 CENTRAL）」王子訂婚的[王后席位](../Page/王后.md "wikilink")，六個國家的公主以作為爭奪戰的ELDHILAND的一大儀式「PRNICESS
 WALTZ」，和被牽連入事件中的現實世界少年體驗到的戀愛和戰鬥的故事。
 
-遊戲內容分為透過跟登場角色們溝通而發展出故事的[ADV線和與公主們一起戰鬥的](../Page/冒險遊戲.md "wikilink")[SLG線兩個部份](../Page/模擬遊戲.md "wikilink")。雖然會因應主要的ADV線部份選擇的分歧而使部份的段落內容和事件產生變化，但故事的主線只有一個，而結局也只有一種。
+遊戲內容分為透過跟登場角色們溝通而發展出故事的[ADV線和與公主們一起戰鬥的](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[SLG線兩個部份](../Page/模擬遊戲.md "wikilink")。雖然會因應主要的ADV線部份選擇的分歧而使部份的段落內容和事件產生變化，但故事的主線只有一個，而結局也只有一種。
 
 ## 故事
 
@@ -99,14 +99,14 @@ WALTZ」，最終得知自己出生的秘密，還有PRINCESS WALTZ隱藏著的�
 ### 概要
 
 PRINCESS
-WALTZ是決定成為跟主角新等人所住的現實世界不同的次元，[異世界](../Page/異世界.md "wikilink")「ELDHILAND」的中心「七央」王子的王后而戰的一大儀式。
+WALTZ是決定成為跟主角新等人所住的現實世界不同的次元，[異世界](https://zh.wikipedia.org/wiki/異世界 "wikilink")「ELDHILAND」的中心「七央」王子的王后而戰的一大儀式。
 ELDHILAND中除七央外還存在有6個國家，而WALTZ的參加者是分別代表各國的6位公主。WALTZ中勝出的公主會成為七央的王妃，而出了王紀的國家在ELDHILAND的政治上也變得有特別的發言權。儀式是在執掌管理和進行儀式的「裁定者」的監督之下，嚴格遵從定下來的規則（PRINCESS
 WALTZ憲章）來進行。
 還有，ELDHILAND包括在本編中成為舞台的現實世界在內，有著聯繫著幾千個異世界的叫做「森之門」的地方，會反覆地選擇異世界作為WALTZ的舞台。
 
 ### 基本規則
 
-WALTZ在原則上是裁定者出席的情況下，公主之間以一對一[決鬥進行](../Page/決鬥.md "wikilink")（*憲章第四條、第九條*）。參加WALTZ的公主們各自可任意地預約決鬥，被挑戰的一方原則上是不可以拒絕那場決鬥。但是，決鬥的日期、時間和地點都是由被挑戰的一方決定（*第七條*）。決鬥的時候，各國的公主們穿著可讓能力大幅上升的「禮服」。禮服是由各國的王家代代相傳下來，也是象徵著國家的穿著。跟禮服一樣公主要控制身上戴著[冕狀頭飾](../Page/冕狀頭飾.md "wikilink")，以這個「冕狀頭飾」的損壞來決定勝負（*第十一條*）。落敗的公主會失去以後的參加資格，被送回ELDHILAND。最後剩下來的一位即成為最終的勝利者。
+WALTZ在原則上是裁定者出席的情況下，公主之間以一對一[決鬥進行](../Page/決鬥.md "wikilink")（*憲章第四條、第九條*）。參加WALTZ的公主們各自可任意地預約決鬥，被挑戰的一方原則上是不可以拒絕那場決鬥。但是，決鬥的日期、時間和地點都是由被挑戰的一方決定（*第七條*）。決鬥的時候，各國的公主們穿著可讓能力大幅上升的「禮服」。禮服是由各國的王家代代相傳下來，也是象徵著國家的穿著。跟禮服一樣公主要控制身上戴著[冕狀頭飾](https://zh.wikipedia.org/wiki/冕狀頭飾 "wikilink")，以這個「冕狀頭飾」的損壞來決定勝負（*第十一條*）。落敗的公主會失去以後的參加資格，被送回ELDHILAND。最後剩下來的一位即成為最終的勝利者。
 
 ## ELDHILAND
 
@@ -125,9 +125,9 @@ WALTZ在原則上是裁定者出席的情況下，公主之間以一對一[決�
 ## 主題曲
 
   - 片頭曲：「dissonant chord」（不協和和弦）
-      - [作詞](../Page/作詞.md "wikilink")：[kanoko](../Page/kanoko.md "wikilink")　[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[上松範康](../Page/上松範康.md "wikilink")　[歌](../Page/歌手.md "wikilink")：[NANA](../Page/NANA_\(歌手\).md "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[kanoko](https://zh.wikipedia.org/wiki/kanoko "wikilink")　[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[上松範康](../Page/上松範康.md "wikilink")　[歌](../Page/歌手.md "wikilink")：[NANA](https://zh.wikipedia.org/wiki/NANA_\(歌手\) "wikilink")
   - 片尾曲1：「月下の邂逅」（月下的邂逅）
-      - 作詞：[外山堅](../Page/外山堅.md "wikilink")　作曲、編曲：[石川直人](../Page/石川直人.md "wikilink")　歌：[月子](../Page/月子.md "wikilink")
+      - 作詞：[外山堅](https://zh.wikipedia.org/wiki/外山堅 "wikilink")　作曲、編曲：[石川直人](https://zh.wikipedia.org/wiki/石川直人 "wikilink")　歌：[月子](https://zh.wikipedia.org/wiki/月子 "wikilink")
   - 片尾曲2：「Dawn walker」（破曉時的漫步者）
       - 作詞：kanoko　作曲、編曲：[藤田淳平](../Page/藤田淳平.md "wikilink")　歌：NANA
 

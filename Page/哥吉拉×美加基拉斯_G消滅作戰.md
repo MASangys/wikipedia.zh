@@ -1,5 +1,5 @@
 《**哥吉拉×美加基拉斯
-G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink")[電影](../Page/電影.md "wikilink")，[哥吉拉系列電影的第](../Page/哥吉拉系列電影.md "wikilink")24集，[東寶電影公司製作](../Page/東寶電影公司.md "wikilink")、發行，日本票房收入12億日圓，觀眾人次約135萬。導演[手塚昌明曾擔任](../Page/手塚昌明.md "wikilink")《[摩斯拉2
+G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")24集，[東寶電影公司製作](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")、發行，日本票房收入12億日圓，觀眾人次約135萬。導演[手塚昌明曾擔任](https://zh.wikipedia.org/wiki/手塚昌明 "wikilink")《[摩斯拉2
 海底大決戰](../Page/摩斯拉2_海底大決戰.md "wikilink")》及《[摩斯拉3
 王者基多拉來襲](../Page/摩斯拉3_王者基多拉來襲.md "wikilink")》的副導演，本片是他首次擔任導演的作品。
 
@@ -26,36 +26,36 @@ G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink"
 
 ## 登場怪獸
 
-  - [哥吉拉](../Page/哥吉拉.md "wikilink")
-  - 美加努龍（翔龍幼蟲）：1956年《[空中大怪獸拉頓](../Page/空中大怪獸拉頓.md "wikilink")》中登場的角色，確實存在於[白堊紀的巨大蜻蜓幼蟲](../Page/白堊紀.md "wikilink")（水蠆），學名是Meganeuro。
+  - [哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")
+  - 美加努龍（翔龍幼蟲）：1956年《[空中大怪獸拉頓](../Page/空中大怪獸拉頓.md "wikilink")》中登場的角色，確實存在於[白堊紀的巨大蜻蜓幼蟲](https://zh.wikipedia.org/wiki/白堊紀 "wikilink")（水蠆），學名是Meganeuro。
   - 美加紐拉（翔龍）：翔龍幼蟲「美加努龍」脫皮後成長的巨大蜻蜓，翼長5米。以群體行動襲擊哥吉拉，目的在吸收哥吉拉的能量後注入美加基拉斯體內。
-  - [美加基拉斯](../Page/美加基拉斯.md "wikilink")（超翔龍）：吸收哥吉拉能量而羽化誕生的巨大昆蟲型怪獸。翼長80米，全長50米，體重1萬2千噸。
+  - [美加基拉斯](https://zh.wikipedia.org/wiki/美加基拉斯 "wikilink")（超翔龍）：吸收哥吉拉能量而羽化誕生的巨大昆蟲型怪獸。翼長80米，全長50米，體重1萬2千噸。
 
 ## 演員
 
-  - 辻森桐子：[田中美里](../Page/田中美里.md "wikilink")
+  - 辻森桐子：[田中美里](https://zh.wikipedia.org/wiki/田中美里 "wikilink")
   - 工藤元：[谷原章介](../Page/谷原章介.md "wikilink")
-  - 新倉誠：[勝村政信](../Page/勝村政信.md "wikilink")
-  - 美馬和男：[池內萬作](../Page/池內萬作.md "wikilink")
-  - 早坂淳：[鈴木博之](../Page/鈴木博之.md "wikilink")
-  - 細野精一：[山口馬木也](../Page/山口馬木也.md "wikilink")
-  - 奧村知治：[山下徹大](../Page/山下徹大.md "wikilink")
-  - 宮川卓也：[永島敏行](../Page/永島敏行.md "wikilink")
+  - 新倉誠：[勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 美馬和男：[池內萬作](https://zh.wikipedia.org/wiki/池內萬作 "wikilink")
+  - 早坂淳：[鈴木博之](https://zh.wikipedia.org/wiki/鈴木博之 "wikilink")
+  - 細野精一：[山口馬木也](https://zh.wikipedia.org/wiki/山口馬木也 "wikilink")
+  - 奧村知治：[山下徹大](https://zh.wikipedia.org/wiki/山下徹大 "wikilink")
+  - 宮川卓也：[永島敏行](https://zh.wikipedia.org/wiki/永島敏行 "wikilink")
   - 杉浦基彥：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
   - 吉澤佳乃：[星由里子](../Page/星由里子.md "wikilink")
-  - 海自幹部：[黑部進](../Page/黑部進.md "wikilink")
+  - 海自幹部：[黑部進](https://zh.wikipedia.org/wiki/黑部進 "wikilink")
   - 旁白：[屋良有作](../Page/屋良有作.md "wikilink")
-  - 哥吉拉：[喜多川務](../Page/喜多川務.md "wikilink")
+  - 哥吉拉：[喜多川務](https://zh.wikipedia.org/wiki/喜多川務 "wikilink")
   - 美加基拉斯：渡邊實
 
 ## 製作人員
 
-  - 導演：[手塚昌明](../Page/手塚昌明.md "wikilink")
-  - 劇本：[柏原寬司](../Page/柏原寬司.md "wikilink")、[三村涉](../Page/三村涉.md "wikilink")
-  - 特殊技術：[鈴木健二](../Page/鈴木健二.md "wikilink")
+  - 導演：[手塚昌明](https://zh.wikipedia.org/wiki/手塚昌明 "wikilink")
+  - 劇本：[柏原寬司](https://zh.wikipedia.org/wiki/柏原寬司 "wikilink")、[三村涉](https://zh.wikipedia.org/wiki/三村涉 "wikilink")
+  - 特殊技術：[鈴木健二](https://zh.wikipedia.org/wiki/鈴木健二 "wikilink")
   - 角色設計：西川伸司
-  - 製作：[富山省吾](../Page/富山省吾.md "wikilink")
-  - 音樂：[大島ミチル](../Page/大島ミチル.md "wikilink")
+  - 製作：[富山省吾](https://zh.wikipedia.org/wiki/富山省吾 "wikilink")
+  - 音樂：[大島ミチル](https://zh.wikipedia.org/wiki/大島ミチル "wikilink")
   - 哥吉拉主題曲：[伊福部昭](../Page/伊福部昭.md "wikilink")
 
 ## 參考文獻

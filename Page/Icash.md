@@ -1,4 +1,4 @@
-**icash**是一種[電子錢包](../Page/電子錢包.md "wikilink")，功能為預付[儲值卡](../Page/儲值卡.md "wikilink")，由[臺灣的](../Page/臺灣.md "wikilink")[愛金卡股份有限公司發行](../Page/愛金卡公司.md "wikilink")，可取代零錢付賬，並省去收取金錢的時間及程序。icash無使用期限，可在[統一超商門市等地購買](../Page/統一超商.md "wikilink")、並進行儲值作業，儲值金額上限為新台幣一萬元。
+**icash**是一種[電子錢包](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")，功能為預付[儲值卡](https://zh.wikipedia.org/wiki/儲值卡 "wikilink")，由[臺灣的](../Page/臺灣.md "wikilink")[愛金卡股份有限公司發行](../Page/愛金卡公司.md "wikilink")，可取代零錢付賬，並省去收取金錢的時間及程序。icash無使用期限，可在[統一超商門市等地購買](../Page/統一超商.md "wikilink")、並進行儲值作業，儲值金額上限為新台幣一萬元。
 
 ## 簡介與歷史
 
@@ -6,19 +6,19 @@
   - iCash卡可透過[統一超商實體門市等地點購得](../Page/統一超商.md "wikilink")，或是自行上傳圖像進行訂製；統一超商轉投資成立愛金卡公司發行iCash
     2.0後，亦開始針對iCash 2.0提供個性化客製卡服務及網路限定卡面。
   - 2004年12月，[中國信託商業銀行與統一超商共同開辦icash電子錢包服務](../Page/中國信託商業銀行.md "wikilink")。2007年4月1日，中國信託商業銀行與統一超商合作發行icashwave聯名[信用卡](../Page/信用卡.md "wikilink")，係將icash結合[Visa
-    Wave信用卡與中國信託商業銀行](../Page/Visa_Wave.md "wikilink")「Q-PAY」電子錢包服務。
+    Wave信用卡與中國信託商業銀行](https://zh.wikipedia.org/wiki/Visa_Wave "wikilink")「Q-PAY」電子錢包服務。
   - 2010年4月，統一超商推出兼具icash與[悠遊卡功能的整合卡](../Page/悠遊卡.md "wikilink")，稱為「icash悠遊卡」，同時也開放悠遊卡於統一超商購物，但icash卡與icash悠遊卡的活動不一定相同，而悠遊卡的促銷活動與icash亦有所不同。
   - 2012年1月1日，中國信託商業銀行終止icashwave Q-PAY的自動儲值和消費扣款，統一超商同步停止電子錢包信用卡交易。
   - 2014年，因應iCash服務升格為2.0版，加上點數優惠調整與虛擬通路整合的關係，針對iCash悠遊卡的所有優惠亦於該年底終止。
-  - 2015年3月16日：icash2.0可用於搭乘[汎航通運路線](../Page/汎航通運.md "wikilink")，但icash
+  - 2015年3月16日：icash2.0可用於搭乘[汎航通運路線](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")，但icash
     2.0餘額低於新台幣40元時無法持卡乘車。
-  - 2016年5月11日，icash2.0可用於搭乘[臺灣鐵路管理局列車](../Page/臺灣鐵路管理局.md "wikilink")。
+  - 2016年5月11日，icash2.0可用於搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
   - 2016年6月1日，[國立傳統藝術中心停用icash](../Page/國立傳統藝術中心.md "wikilink")。\[1\]
-  - 2016年7月1日，icash2.0可搭乘[高雄捷運](../Page/高雄捷運.md "wikilink")（[輕軌除外](../Page/環狀輕軌.md "wikilink")）。
-  - 2016年12月1日，[馬祖公車上線使用](../Page/馬祖.md "wikilink")。\[2\]
+  - 2016年7月1日，icash2.0可搭乘[高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")（[輕軌除外](https://zh.wikipedia.org/wiki/環狀輕軌 "wikilink")）。
+  - 2016年12月1日，[馬祖公車上線使用](https://zh.wikipedia.org/wiki/馬祖 "wikilink")。\[2\]
   - 2017年1月1日，新北市瑞芳第二市場停用icash\[3\]、高鐵・台鐵車票可支付代收代售\[4\]
-  - 2017年2月10日，icash2.0可搭乘[台北捷運及](../Page/台北捷運.md "wikilink")[臺北聯營公車](../Page/臺北聯營公車.md "wikilink")。
-  - 2017年6月29日，[中華電信旗下電子錢包服務](../Page/中華電信.md "wikilink")[Hami
+  - 2017年2月10日，icash2.0可搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
+  - 2017年6月29日，[中華電信旗下電子錢包服務](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[Hami
     Wallet](http://hamipay.emome.net/)(現改名[Hami
     Pay](http://hamipay.emome.net/))與愛金卡公司合作，提供手機icash2.0行動支付功能。\[5\]
 
@@ -46,24 +46,24 @@
 
 由銀行信用卡製發特製卡片，除Icash卡片功能外，結合信用卡以及Icash自動加值功能，不定期提供優惠活動，也可享現金或紅利回饋。
 
-2016年5月11日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡進站搭乘[臺灣鐵路管理局列車](../Page/臺灣鐵路管理局.md "wikilink")。
+2016年5月11日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡進站搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
 
-2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](../Page/台北捷運.md "wikilink")[高雄捷運及](../Page/高雄捷運.md "wikilink")[臺北聯營公車](../Page/臺北聯營公車.md "wikilink")。
+2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高雄捷運及](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
 
-| 種類                         | 合作發卡機構銀行                               | 感應方式   | 備註 |
-| -------------------------- | -------------------------------------- | ------ | -- |
-| @GoGo icash聯名卡(VISA)       | [台新銀行](../Page/台新銀行.md "wikilink")     | 非接觸式接式 |    |
-| 玉山icash聯名(VISA)            | [玉山銀行](../Page/玉山銀行.md "wikilink")     |        |    |
-| 玉山icash聯名(JCB)             |                                        |        |    |
-| 玉山統一時代icash聯名卡(JCB)        |                                        |        |    |
-| 玉山家樂福icash聯名卡              |                                        |        |    |
-| icash聯名JCB晶緻卡(手繪版)         | [第一銀行](../Page/第一商業銀行.md "wikilink")   |        |    |
-| icash聯名JCB晶緻卡 (OPEN小將版)    |                                        |        |    |
-| 富邦富利生活icash聯名卡(MasterCard) | [台北富邦銀行](../Page/台北富邦銀行.md "wikilink") |        |    |
-| 財神icash鈦金卡(MasterCard)     |                                        |        |    |
-| icash愛現鈦金卡                 | [大眾銀行](../Page/大眾銀行.md "wikilink")     |        |    |
-| icash樂享晶緻卡                 |                                        |        |    |
-| icash愛現晶緻卡                 |                                        |        |    |
+| 種類                         | 合作發卡機構銀行                                                  | 感應方式   | 備註 |
+| -------------------------- | --------------------------------------------------------- | ------ | -- |
+| @GoGo icash聯名卡(VISA)       | [台新銀行](https://zh.wikipedia.org/wiki/台新銀行 "wikilink")     | 非接觸式接式 |    |
+| 玉山icash聯名(VISA)            | [玉山銀行](https://zh.wikipedia.org/wiki/玉山銀行 "wikilink")     |        |    |
+| 玉山icash聯名(JCB)             |                                                           |        |    |
+| 玉山統一時代icash聯名卡(JCB)        |                                                           |        |    |
+| 玉山家樂福icash聯名卡              |                                                           |        |    |
+| icash聯名JCB晶緻卡(手繪版)         | [第一銀行](../Page/第一商業銀行.md "wikilink")                      |        |    |
+| icash聯名JCB晶緻卡 (OPEN小將版)    |                                                           |        |    |
+| 富邦富利生活icash聯名卡(MasterCard) | [台北富邦銀行](https://zh.wikipedia.org/wiki/台北富邦銀行 "wikilink") |        |    |
+| 財神icash鈦金卡(MasterCard)     |                                                           |        |    |
+| icash愛現鈦金卡                 | [大眾銀行](../Page/大眾銀行.md "wikilink")                        |        |    |
+| icash樂享晶緻卡                 |                                                           |        |    |
+| icash愛現晶緻卡                 |                                                           |        |    |
 
 ## 使用
 
@@ -72,15 +72,15 @@
 **購卡**
 
   - icash2.0卡販售特約機構
-      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
-      - [桃園捷運各車站服務台](../Page/桃園捷運.md "wikilink")
+      - [高雄捷運各車站服務台](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+      - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+      - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - [統一超商（7-11）](../Page/統一超商.md "wikilink")
-      - [21世紀風味館](../Page/21世紀風味館.md "wikilink")
+      - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
       - [統一多拿滋](../Page/統一多拿滋.md "wikilink")
   - 個性化icash2.0卡販售特約機構
       - [博客來](../Page/博客來網路書店.md "wikilink")
-      - [ibon mart](../Page/統一超商線上購物中心.md "wikilink")
+      - [ibon mart](https://zh.wikipedia.org/wiki/統一超商線上購物中心 "wikilink")
       - 愛金卡
 
 **加值**
@@ -88,12 +88,13 @@
   - 生活百貨
       - [統一超商（7-11）](../Page/統一超商.md "wikilink")
       - [家樂福](../Page/家樂福.md "wikilink")
-      - [全聯](../Page/全聯.md "wikilink")
+      - [全聯](https://zh.wikipedia.org/wiki/全聯 "wikilink")
   - 交通運輸
-      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
-      - [臺北捷運各車站服務台](../Page/臺北捷運.md "wikilink")
-      - [桃園捷運各車站服務台](../Page/桃園捷運.md "wikilink")
-      - \* [臺灣鐵路管理局](../Page/臺灣鐵路管理局.md "wikilink")：Icash適用範圍內之連線售票車站
+      - [高雄捷運各車站服務台](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+      - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+      - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
+      - \*
+        [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：Icash適用範圍內之連線售票車站
       - 臺北捷運單程票自動售票/加值機（ATIM）
       - 高雄捷運單程票自動售票/加值機（ATIM）
       - 桃園捷運單程票自動售票/加值機（ATIM）
@@ -107,24 +108,24 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 #### 小額消費
 
   - [統一超商（7-11）](../Page/統一超商.md "wikilink")
-  - [康是美](../Page/康是美.md "wikilink")
-  - [酷聖石](../Page/酷聖石.md "wikilink")
+  - [康是美](https://zh.wikipedia.org/wiki/康是美 "wikilink")
+  - [酷聖石](https://zh.wikipedia.org/wiki/酷聖石 "wikilink")
   - [統一多拿滋](../Page/統一多拿滋.md "wikilink")
-  - [21世紀風味館](../Page/21世紀風味館.md "wikilink")
-  - [聖娜多堡](../Page/聖娜多堡.md "wikilink")
-  - [星巴克](../Page/星巴克.md "wikilink")
-  - [統一精工速邁樂](../Page/統一精工.md "wikilink")
+  - [21世紀風味館](https://zh.wikipedia.org/wiki/21世紀風味館 "wikilink")
+  - [聖娜多堡](https://zh.wikipedia.org/wiki/聖娜多堡 "wikilink")
+  - [星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")
+  - [統一精工速邁樂](https://zh.wikipedia.org/wiki/統一精工 "wikilink")
   - [家樂福](../Page/家樂福.md "wikilink")
-  - [夢時代指定櫃位](../Page/夢時代.md "wikilink")\[9\]
-  - [統一時代百貨指定櫃位](../Page/統一時代百貨.md "wikilink")\[10\]
-  - [統一超商廣場指定通路](../Page/統一超商廣場.md "wikilink")\[11\]
-  - [大學眼鏡](../Page/大學眼鏡.md "wikilink")
-  - [良興電子](../Page/良興電子.md "wikilink")
-  - [光南大批發](../Page/光南大批發.md "wikilink")
-  - [中華電信多卡通電話機](../Page/中華電信.md "wikilink")
-  - [聖德科斯生機食品](../Page/聖德科斯生機食品.md "wikilink")
-  - [布萊恩紅茶](../Page/布萊恩紅茶.md "wikilink")
-  - [麥當勞](../Page/麥當勞.md "wikilink")
+  - [夢時代指定櫃位](https://zh.wikipedia.org/wiki/夢時代 "wikilink")\[9\]
+  - [統一時代百貨指定櫃位](https://zh.wikipedia.org/wiki/統一時代百貨 "wikilink")\[10\]
+  - [統一超商廣場指定通路](https://zh.wikipedia.org/wiki/統一超商廣場 "wikilink")\[11\]
+  - [大學眼鏡](https://zh.wikipedia.org/wiki/大學眼鏡 "wikilink")
+  - [良興電子](https://zh.wikipedia.org/wiki/良興電子 "wikilink")
+  - [光南大批發](https://zh.wikipedia.org/wiki/光南大批發 "wikilink")
+  - [中華電信多卡通電話機](https://zh.wikipedia.org/wiki/中華電信 "wikilink")
+  - [聖德科斯生機食品](https://zh.wikipedia.org/wiki/聖德科斯生機食品 "wikilink")
+  - [布萊恩紅茶](https://zh.wikipedia.org/wiki/布萊恩紅茶 "wikilink")
+  - [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
 
 #### 交通運輸
 
@@ -132,12 +133,12 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
 
 <!-- end list -->
 
-  - [臺灣鐵路管理局](../Page/臺灣鐵路管理局.md "wikilink")：使用方式參見電子票證規範
+  - [臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")：使用方式參見電子票證規範
 
-:\*車票：可支付代收代售於[ibon](../Page/ibon.md "wikilink")（列印・ibon
+:\*車票：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon
 APP、icash・icash2.0）
 
-  - [台灣高速鐵路車票](../Page/台灣高速鐵路.md "wikilink")：可支付代收代售於[ibon](../Page/ibon.md "wikilink")（列印・ibon
+  - [台灣高速鐵路車票](https://zh.wikipedia.org/wiki/台灣高速鐵路 "wikilink")：可支付代收代售於[ibon](https://zh.wikipedia.org/wiki/ibon "wikilink")（列印・ibon
     APP、icash・icash2.0）
 
 <!-- end list -->
@@ -146,9 +147,9 @@ APP、icash・icash2.0）
 
 <!-- end list -->
 
-  - [高雄捷運](../Page/高雄捷運.md "wikilink")
-  - [臺北捷運](../Page/臺北捷運.md "wikilink")
-  - [桃園捷運](../Page/桃園捷運.md "wikilink")\[12\]
+  - [高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+  - [臺北捷運](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
+  - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")\[12\]
 
 <!-- end list -->
 
@@ -165,12 +166,12 @@ APP、icash・icash2.0）
 <!-- end list -->
 
   - [新北市公車](../Page/新北市公車.md "wikilink")
-  - [臺北聯營公車](../Page/臺北聯營公車.md "wikilink")
+  - [臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")
   - [基隆市公車](../Page/基隆市公車.md "wikilink")\[14\]
   - [桃園市市區公車](../Page/桃園市市區公車.md "wikilink")：統聯客運
-  - [台中市公車](../Page/台中市公車.md "wikilink")
+  - [台中市公車](https://zh.wikipedia.org/wiki/台中市公車 "wikilink")
   - [彰化縣公車](../Page/彰化縣公車.md "wikilink")
-  - [南投縣公車](../Page/南投縣市區公車.md "wikilink")
+  - [南投縣公車](https://zh.wikipedia.org/wiki/南投縣市區公車 "wikilink")
   - [大台南公車](../Page/大台南公車.md "wikilink")\[15\]
   - [高雄市公車](../Page/高雄市公車.md "wikilink")\[16\]
   - [屏東縣公車](../Page/屏東縣市區公車.md "wikilink")
@@ -183,7 +184,7 @@ APP、icash・icash2.0）
 <!-- end list -->
 
   - [葛瑪蘭客運](../Page/葛瑪蘭客運.md "wikilink")
-  - [汎航通運](../Page/汎航通運.md "wikilink")
+  - [汎航通運](https://zh.wikipedia.org/wiki/汎航通運 "wikilink")
   - [太魯閣客運](../Page/太魯閣客運.md "wikilink")\[17\]
   - [鼎東客運](../Page/鼎東客運.md "wikilink")\[18\]
   - [福和客運](../Page/福和客運.md "wikilink")\[19\]
@@ -203,13 +204,13 @@ APP、icash・icash2.0）
 
 <!-- end list -->
 
-  - 臺北市：[<font color="#888888">YouBike微笑單車</font>](../Page/臺北市公共自行車租賃系統.md "wikilink")
+  - 臺北市：[<font color="#888888">YouBike微笑單車</font>](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")
   - 新北市：[<font color="#888888">YouBike微笑單車</font>](../Page/新北市公共自行車租賃系統.md "wikilink")
 
 #### 休閒遊憩
 
   - [統一獅](../Page/統一獅.md "wikilink")
-  - [麗寶樂園](../Page/麗寶樂園.md "wikilink")
+  - [麗寶樂園](https://zh.wikipedia.org/wiki/麗寶樂園 "wikilink")
   - [劍湖山世界](../Page/劍湖山世界.md "wikilink")
 
 ## 參考資料

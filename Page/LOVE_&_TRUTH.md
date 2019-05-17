@@ -1,9 +1,9 @@
 “**LOVE &
-TRUTH**”是[日本唱作女歌手](../Page/日本.md "wikilink")[YUI](../Page/YUI.md "wikilink")，于2007年9月26日所推出的第十張[單曲碟](../Page/單曲.md "wikilink")。由[STUDIOSEVEN
-Recordings发行](../Page/STUDIOSEVEN_Recordings.md "wikilink")。YUI的最新單曲「LOVE
+TRUTH**”是[日本唱作女歌手](../Page/日本.md "wikilink")[YUI](../Page/YUI.md "wikilink")，于2007年9月26日所推出的第十張[單曲碟](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[STUDIOSEVEN
+Recordings发行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。YUI的最新單曲「LOVE
 &
-TRUTH」為由[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")、[竹內結子和](../Page/竹內結子.md "wikilink")[伊勢谷友介主演的新片](../Page/伊勢谷友介.md "wikilink")《[Closed
-Note](../Page/Closed_Note.md "wikilink")》的主題曲。YUI在看過原作和劇本之後，便立即創作出這首主題曲。「LOVE
+TRUTH」為由[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")、[竹內結子和](../Page/竹內結子.md "wikilink")[伊勢谷友介主演的新片](https://zh.wikipedia.org/wiki/伊勢谷友介 "wikilink")《[Closed
+Note](https://zh.wikipedia.org/wiki/Closed_Note "wikilink")》的主題曲。YUI在看過原作和劇本之後，便立即創作出這首主題曲。「LOVE
 & TRUTH」的曲風與YUI以的作品大為不同，在弦樂中加入搖滾的色彩。
 
 ## 收錄歌曲

@@ -6,7 +6,7 @@
 [EMax_MaxHome_Level_6_View_201406.jpg](https://zh.wikipedia.org/wiki/File:EMax_MaxHome_Level_6_View_201406.jpg "fig:EMax_MaxHome_Level_6_View_201406.jpg")
 [HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg](https://zh.wikipedia.org/wiki/File:HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg "fig:HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg")
 
-**E-Max**為一個位於[香港](../Page/香港.md "wikilink")[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[九龍灣國際展貿中心的商場](../Page/九龍灣國際展貿中心.md "wikilink")，大廈原於1998年7月22日入-{伙}-，發展商為[合和實業](../Page/合和實業.md "wikilink")。E-Max是翻新後的名稱，2007年7月14日開幕。大廈由國際建築事務所[Aedas負責設計](../Page/Aedas.md "wikilink")。
+**E-Max**為一個位於[香港](../Page/香港.md "wikilink")[九龍灣展貿徑一號](../Page/九龍灣.md "wikilink")[九龍灣國際展貿中心的商場](../Page/九龍灣國際展貿中心.md "wikilink")，大廈原於1998年7月22日入-{伙}-，發展商為[合和實業](../Page/合和實業.md "wikilink")。E-Max是翻新後的名稱，2007年7月14日開幕。大廈由國際建築事務所[Aedas負責設計](https://zh.wikipedia.org/wiki/Aedas "wikilink")。
 
 ## 起源
 
@@ -15,21 +15,21 @@ Maximized的縮寫，「E」字代表娛樂，亦代表活力（Energy），非�
 
 ## 歷史
 
-2006年10月10日，[合和實業為配合](../Page/合和實業.md "wikilink")[東九龍未來人口增長及迅速發展](../Page/東九龍.md "wikilink")，計劃將位於九龍灣的[香港國際展貿中心發展成為一個集](../Page/九龍灣國際展貿中心.md "wikilink")[會議](../Page/會議.md "wikilink")、[展覽](../Page/展覽.md "wikilink")、演唱活動及娛樂美食及主題購物中心，即現時的E-Max。\[2\]
+2006年10月10日，[合和實業為配合](../Page/合和實業.md "wikilink")[東九龍未來人口增長及迅速發展](https://zh.wikipedia.org/wiki/東九龍 "wikilink")，計劃將位於九龍灣的[香港國際展貿中心發展成為一個集](../Page/九龍灣國際展貿中心.md "wikilink")[會議](../Page/會議.md "wikilink")、[展覽](https://zh.wikipedia.org/wiki/展覽 "wikilink")、演唱活動及娛樂美食及主題購物中心，即現時的E-Max。\[2\]
 
 2016年，[合和實業耗資](../Page/合和實業.md "wikilink")1.5億港元將其中3層打造成九展名店倉E-Max
 WearHouse，涉約30萬方呎，其中第一期已於同年11月開幕，第二期於2018年開業。當中包括已結業多年的[歡樂天地回歸](../Page/歡樂天地.md "wikilink")。
 
 ## 簡介
 
-商場佔九龍灣國際展貿中心一共8層，包括B3、B1、地下至5樓及13樓，樓面面積共80萬[平方呎](../Page/平方呎.md "wikilink")\[3\]。B1及B3約25萬呎樓面為名車城，地下至4樓商舖類別包括零售、食肆、娛樂及攝影，4樓部分樓面及5樓全層為「家居中心」，13樓為酒樓。商場每層樓面面積達12萬至23萬平方呎，商場由國際商業室內設計公司[凱達環球有限公司設計](../Page/凱達環球.md "wikilink")，設有12部全新扶手電梯及觀光電梯，部分面積打通成為中庭。
+商場佔九龍灣國際展貿中心一共8層，包括B3、B1、地下至5樓及13樓，樓面面積共80萬[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")\[3\]。B1及B3約25萬呎樓面為名車城，地下至4樓商舖類別包括零售、食肆、娛樂及攝影，4樓部分樓面及5樓全層為「家居中心」，13樓為酒樓。商場每層樓面面積達12萬至23萬平方呎，商場由國際商業室內設計公司[凱達環球有限公司設計](../Page/凱達環球.md "wikilink")，設有12部全新扶手電梯及觀光電梯，部分面積打通成為中庭。
 
 2007年4月19日，商場舉行開幕儀式，商場引入12部兩輪行走的電動代步車，作為顧客服務設備。
 
 ### B3及B1
 
 汽車展銷中心佔地逾25萬平方呎，專營世界各地一手及二手名車，並有汽車配套和零件銷售。MP
-Mall位於B1，提供免稅精品包括家庭電器、手提電腦及床上用品給旅港遊客選購，原為位於二樓的[都會國際免稅廣場](../Page/都會國際免稅廣場.md "wikilink")。
+Mall位於B1，提供免稅精品包括家庭電器、手提電腦及床上用品給旅港遊客選購，原為位於二樓的[都會國際免稅廣場](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")。
 
 地庫1樓及地庫3樓樓面於2017年4月開始工程，改為「九展名店倉E-Max
 WearHouse」，到2018年8月開幕。主要租戶包括Dr.Martens、Descente、Royal
@@ -39,11 +39,11 @@ Sporting House、Adidas、New Balance、PUMA，Reebok等。
 
 ### 地下
 
-商場地下設有[大力游泳會及多間零售店](../Page/大力游泳會.md "wikilink")，包括[7-11便利店](../Page/7-11.md "wikilink")、[萬寧及POPi時裝店等](../Page/萬寧.md "wikilink")，亦有服飾品牌開設特賣場，包括Baleno、Footspot等。食肆包括[Hot
+商場地下設有[大力游泳會及多間零售店](https://zh.wikipedia.org/wiki/大力游泳會 "wikilink")，包括[7-11便利店](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[萬寧及POPi時裝店等](https://zh.wikipedia.org/wiki/萬寧 "wikilink")，亦有服飾品牌開設特賣場，包括Baleno、Footspot等。食肆包括[Hot
 Dog
-Formula](../Page/Hot_Dog_Formula.md "wikilink")、[星巴克](../Page/星巴克.md "wikilink")、東昇有機農場餐廳、囍筷自家菜、Bentou豚肉飯專門店等，[Subway](../Page/賽百味.md "wikilink")、[麥當勞](../Page/麥當勞.md "wikilink")、台灣麵及759車仔麵亦於2014年陸續開業。
+Formula](https://zh.wikipedia.org/wiki/Hot_Dog_Formula "wikilink")、[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")、東昇有機農場餐廳、囍筷自家菜、Bentou豚肉飯專門店等，[Subway](https://zh.wikipedia.org/wiki/賽百味 "wikilink")、[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、台灣麵及759車仔麵亦於2014年陸續開業。
 
-已結業商戶包括[都會國際免稅廣場糖果店及零食店](../Page/都會國際免稅廣場.md "wikilink")、[Chickeeduck](../Page/Chickeeduck.md "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](../Page/香港保齡球城.md "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](../Page/星影匯.md "wikilink")」，於2014年2月14日開幕。\[4\]
+已結業商戶包括[都會國際免稅廣場糖果店及零食店](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")、[Chickeeduck](https://zh.wikipedia.org/wiki/Chickeeduck "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](https://zh.wikipedia.org/wiki/香港保齡球城 "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](https://zh.wikipedia.org/wiki/星影匯 "wikilink")」，於2014年2月14日開幕。\[4\]
 \[5\] \[6\]
 
 到2016年，合和耗資1.5億港元將商場轉型為Outlet E-Max
@@ -53,7 +53,7 @@ E-Max表演場地和[ViuTV佔地](../Page/ViuTV.md "wikilink")36,100平方呎的
 
 ### 2樓
 
-全層曾為[都會國際免稅廣場](../Page/都會國際免稅廣場.md "wikilink")，現已搬到B1層繼續營業，2樓部份範圍則開設[759阿信屋](../Page/759阿信屋.md "wikilink")。759阿信屋於2014年7月26日開業，面積約1萬呎，為全港最大型分店。分店以小型百貨式經營，售賣零食、急凍食品、糧油雜貨、住宅用品、家庭小電器等，亦設有759
+全層曾為[都會國際免稅廣場](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")，現已搬到B1層繼續營業，2樓部份範圍則開設[759阿信屋](../Page/759阿信屋.md "wikilink")。759阿信屋於2014年7月26日開業，面積約1萬呎，為全港最大型分店。分店以小型百貨式經營，售賣零食、急凍食品、糧油雜貨、住宅用品、家庭小電器等，亦設有759
 Kawaiiland化妝品專區、酒類專區及首次設有的嬰兒用品專區。
 
 到2017年，合和將商場逾3萬方呎樓面改為美食廣場，亦開設百佳超級市場。
@@ -61,8 +61,8 @@ Kawaiiland化妝品專區、酒類專區及首次設有的嬰兒用品專區。
 ### 3樓
 
 設有Life
-Studio攝影室及食肆包括[豐膳西餐廳](../Page/豐膳西餐廳.md "wikilink")、[喜善中餐廳及](../Page/喜善中餐廳.md "wikilink")[Pacific
-Coffee](../Page/Pacific_Coffee.md "wikilink")。
+Studio攝影室及食肆包括[豐膳西餐廳](https://zh.wikipedia.org/wiki/豐膳西餐廳 "wikilink")、[喜善中餐廳及](https://zh.wikipedia.org/wiki/喜善中餐廳 "wikilink")[Pacific
+Coffee](https://zh.wikipedia.org/wiki/Pacific_Coffee "wikilink")。
 
 ### 4樓
 
@@ -128,7 +128,7 @@ E-Max於2007年6月26日加入[幻彩詠香江匯演行列](../Page/幻彩詠香
 
 <!-- end list -->
 
-  - [展貿徑](../Page/展貿徑.md "wikilink")
+  - [展貿徑](https://zh.wikipedia.org/wiki/展貿徑 "wikilink")
 
 <!-- end list -->
 
@@ -136,7 +136,7 @@ E-Max於2007年6月26日加入[幻彩詠香江匯演行列](../Page/幻彩詠香
 
 <!-- end list -->
 
-  - [宏光道](../Page/宏光道.md "wikilink")
+  - [宏光道](https://zh.wikipedia.org/wiki/宏光道 "wikilink")
 
 </div>
 
@@ -155,9 +155,9 @@ E-Max於2007年6月26日加入[幻彩詠香江匯演行列](../Page/幻彩詠香
 ## 相關條目
 
   - [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")
-  - [星影匯](../Page/星影匯.md "wikilink")
+  - [星影匯](https://zh.wikipedia.org/wiki/星影匯 "wikilink")
 
-[分類:香港表演場館](../Page/分類:香港表演場館.md "wikilink")
+[分類:香港表演場館](https://zh.wikipedia.org/wiki/分類:香港表演場館 "wikilink")
 
 [Category:九龍灣](https://zh.wikipedia.org/wiki/Category:九龍灣 "wikilink")
 [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink")

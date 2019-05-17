@@ -3,32 +3,32 @@ CEO大堂\]\]
 [Novotel_Century_Hong_Kong_Neway_2018.jpg](https://zh.wikipedia.org/wiki/File:Novotel_Century_Hong_Kong_Neway_2018.jpg "fig:Novotel_Century_Hong_Kong_Neway_2018.jpg")
 [HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg](https://zh.wikipedia.org/wiki/File:HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg "fig:HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg")樂成分店\]\]
 
-**Neway**（前稱**新時代卡拉OK**）是[香港一家](../Page/香港.md "wikilink")[卡拉OK集團](../Page/卡拉OK.md "wikilink")，目前共有18間分店，於1993年開設首間分店\[1\]，現今Neway在[澳門](../Page/澳門.md "wikilink")、[中國大陸和](../Page/中國大陸.md "wikilink")[馬來西亞亦有業務](../Page/馬來西亞.md "wikilink")。
+**Neway**（前稱**新時代卡拉OK**）是[香港一家](../Page/香港.md "wikilink")[卡拉OK集團](../Page/卡拉OK.md "wikilink")，目前共有18間分店，於1993年開設首間分店\[1\]，現今Neway在[澳門](../Page/澳門.md "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[馬來西亞亦有業務](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 Neway於2000年代成立[Neway
-Star](../Page/Neway_Star.md "wikilink")，成為香港首間由卡拉OK開設的[唱片及](../Page/唱片.md "wikilink")[經理人公司](../Page/經理人公司.md "wikilink")，旗下首位藝人為[王浩信](../Page/王浩信.md "wikilink")，後來[HotCha及](../Page/HotCha.md "wikilink")[胡杏兒亦相繼加入](../Page/胡杏兒.md "wikilink")[Neway
-Star](../Page/Neway_Star.md "wikilink")。
+Star](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")，成為香港首間由卡拉OK開設的[唱片及](https://zh.wikipedia.org/wiki/唱片 "wikilink")[經理人公司](https://zh.wikipedia.org/wiki/經理人公司 "wikilink")，旗下首位藝人為[王浩信](../Page/王浩信.md "wikilink")，後來[HotCha及](../Page/HotCha.md "wikilink")[胡杏兒亦相繼加入](../Page/胡杏兒.md "wikilink")[Neway
+Star](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")。
 
 ## 歷史
 
 [卡拉OK是源於](../Page/卡拉OK.md "wikilink")[日本的娛樂文化](../Page/日本.md "wikilink")，1990年代，卡拉OK熱潮席捲香港，當時本地卡拉OK主要以酒廊為經營模式，但普遍不以獨立房間形式經營。Neway看準市場商機，在1993年於人流暢旺的[香港市區](../Page/香港市區.md "wikilink")，如[尖沙咀](../Page/尖沙咀.md "wikilink")、[旺角](../Page/旺角.md "wikilink")、[銅鑼灣和](../Page/銅鑼灣.md "wikilink")[灣仔等地開設首家卡拉OK店](../Page/灣仔.md "wikilink")，其後業務擴充至[新市鎮](../Page/新市鎮.md "wikilink")\[2\]。
 
-Neway曾和[加州紅合伙成立](../Page/加州紅.md "wikilink")[同成發展有限公司](../Page/同成發展有限公司.md "wikilink")，爭取[東亞唱片及](../Page/東亞唱片_\(集團\).md "wikilink")[環球唱片等公司的新歌試唱](../Page/環球唱片_\(香港\).md "wikilink")，後於2008年拆伙。由於同成發展實際運作由[加州紅負責](../Page/加州紅.md "wikilink")，故此Neway曾一度失去[東亞唱片等公司的獨家試唱權](../Page/東亞唱片_\(集團\).md "wikilink")。
+Neway曾和[加州紅合伙成立](../Page/加州紅.md "wikilink")[同成發展有限公司](https://zh.wikipedia.org/wiki/同成發展有限公司 "wikilink")，爭取[東亞唱片及](../Page/東亞唱片_\(集團\).md "wikilink")[環球唱片等公司的新歌試唱](../Page/環球唱片_\(香港\).md "wikilink")，後於2008年拆伙。由於同成發展實際運作由[加州紅負責](../Page/加州紅.md "wikilink")，故此Neway曾一度失去[東亞唱片等公司的獨家試唱權](../Page/東亞唱片_\(集團\).md "wikilink")。
 
 2008年底，Neway取得[金牌大風新歌的獨家試唱權](../Page/金牌大風.md "wikilink")。2009年，更先後取得[東亞唱片
 (集團)以及](../Page/東亞唱片_\(集團\).md "wikilink")[東亞唱片
 (製作)新歌的獨家試唱權](../Page/東亞唱片_\(製作\).md "wikilink")。
 
-除本身的品牌外，Neway亦營運CEO，以較高級的服務去吸引高消費顧客。CEO除以獨立品牌運作外，每個房間亦加設獨立[洗手間](../Page/洗手間.md "wikilink")，大部份房間設有[觸控螢幕點歌功能](../Page/觸控螢幕.md "wikilink")，並且加設多部電視以營造[立體影像](../Page/立體.md "wikilink")，裝潢亦較Neway豪華。至於以[Neway
-City營運的店舖則以多](../Page/Neway_City.md "wikilink")[卡拉OK房間運作](../Page/卡拉OK.md "wikilink")，實際上與Neway大同小異。
+除本身的品牌外，Neway亦營運CEO，以較高級的服務去吸引高消費顧客。CEO除以獨立品牌運作外，每個房間亦加設獨立[洗手間](https://zh.wikipedia.org/wiki/洗手間 "wikilink")，大部份房間設有[觸控螢幕點歌功能](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")，並且加設多部電視以營造[立體影像](https://zh.wikipedia.org/wiki/立體 "wikilink")，裝潢亦較Neway豪華。至於以[Neway
+City營運的店舖則以多](https://zh.wikipedia.org/wiki/Neway_City "wikilink")[卡拉OK房間運作](../Page/卡拉OK.md "wikilink")，實際上與Neway大同小異。
 
 ### 收購同業
 
-1990年代末，隨着香港幾家卡拉OK集團的惡性競爭並相繼倒閉，最終剩下Neway和[加州紅兩個集團](../Page/加州紅.md "wikilink")，形成[寡頭壟斷](../Page/寡頭壟斷.md "wikilink")。
+1990年代末，隨着香港幾家卡拉OK集團的惡性競爭並相繼倒閉，最終剩下Neway和[加州紅兩個集團](../Page/加州紅.md "wikilink")，形成[寡頭壟斷](https://zh.wikipedia.org/wiki/寡頭壟斷 "wikilink")。
 
 2010年2月22日，有傳Neway將收購加州紅\[3\]，終於3月7日完成收購，初期以兩個品牌繼續運作，外界預料Neway將會壟斷香港卡拉OK行業\[4\]。
 
-Neway於收購後開始將舊有加州紅的品牌轉為Neway名下或CEO。於同年5月31日將最後一間位於[元朗的](../Page/元朗.md "wikilink")[加州紅關閉裝修](../Page/加州紅.md "wikilink")（於2010年重新裝修成為[CEO](../Page/CEO.md "wikilink")，於同年11月開業），後來由於[Red
+Neway於收購後開始將舊有加州紅的品牌轉為Neway名下或CEO。於同年5月31日將最後一間位於[元朗的](../Page/元朗.md "wikilink")[加州紅關閉裝修](../Page/加州紅.md "wikilink")（於2010年重新裝修成為[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")，於同年11月開業），後來由於[Red
 MR成立](../Page/紅人派對.md "wikilink")，壟斷局面才稍微緩和，後者現在成為Neway的主要競爭對手。
 
 **Neway App**
@@ -63,10 +63,10 @@ Neway K-fun
 
 ## 重要人物
 
-  - [薛濟傑](../Page/薛濟傑.md "wikilink")：[中星集團前主席兼創辦人](../Page/中星集團.md "wikilink")
-  - [薛世恆](../Page/薛世恆.md "wikilink")：負責打理Neway卡拉OK、[星娛樂](../Page/星娛樂.md "wikilink")、[Neway
-    Star](../Page/Neway_Star.md "wikilink")。
-  - [薛嘉麟](../Page/薛嘉麟.md "wikilink")：薛世恆弟，[中星集團主席](../Page/中星集團.md "wikilink")，妻子為[模特兒](../Page/模特兒.md "wikilink")[諸葛紫岐](../Page/諸葛紫岐.md "wikilink")。
+  - [薛濟傑](https://zh.wikipedia.org/wiki/薛濟傑 "wikilink")：[中星集團前主席兼創辦人](../Page/中星集團.md "wikilink")
+  - [薛世恆](https://zh.wikipedia.org/wiki/薛世恆 "wikilink")：負責打理Neway卡拉OK、[星娛樂](https://zh.wikipedia.org/wiki/星娛樂 "wikilink")、[Neway
+    Star](https://zh.wikipedia.org/wiki/Neway_Star "wikilink")。
+  - [薛嘉麟](https://zh.wikipedia.org/wiki/薛嘉麟 "wikilink")：薛世恆弟，[中星集團主席](../Page/中星集團.md "wikilink")，妻子為[模特兒](../Page/模特兒.md "wikilink")[諸葛紫岐](../Page/諸葛紫岐.md "wikilink")。
 
 ## Neway分店
 
@@ -79,7 +79,7 @@ Neway K-fun
 <span style="color: #9F0000">■</span>
 為前[加州紅分店](../Page/加州紅.md "wikilink")(已改以CEO名義營業)；
 <span style="color: #FF3737">■</span> 為前[Red
-Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
+Mr分店](https://zh.wikipedia.org/wiki/Red_Mr "wikilink")(已改以Neway名義營業)；
 <span style="color: #A9A9A9">*灰字斜體*</span>為將開業分店；
 <span style="color: #A9A9A9"><s>灰字刪除線</s></span>為已結業分店</span></span>
 
@@ -103,8 +103,8 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
 
 ### 中國大陸
 
-  - [廣州](../Page/廣州.md "wikilink")：花都馨庭<span style="color: #8B00FF">■</span>、北京路<span style="color: #8B00FF">■</span>、康王路<span style="color: #33005E">■</span>
-  - [深圳](../Page/深圳.md "wikilink")：<span style="color: #A9A9A9"><s>廬山</s></span><span style="color: #8B00FF">■</span>
+  - [廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")：花都馨庭<span style="color: #8B00FF">■</span>、北京路<span style="color: #8B00FF">■</span>、康王路<span style="color: #33005E">■</span>
+  - [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")：<span style="color: #A9A9A9"><s>廬山</s></span><span style="color: #8B00FF">■</span>
 
 ### 馬來西亞
 
@@ -113,28 +113,29 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
     Plaza<span style="color: #8B00FF">■</span>
   - [八打灵再也](../Page/八打灵再也.md "wikilink")：1
     Utama<span style="color: #8B00FF">■</span>、SS2<span style="color: #33005E">■</span>
-  - [蒲种](../Page/蒲种.md "wikilink")：Casa
+  - [蒲种](https://zh.wikipedia.org/wiki/蒲种 "wikilink")：Casa
     Square<span style="color: #8B00FF">■</span>
-  - [巴生](../Page/巴生.md "wikilink")：Centro
+  - [巴生](https://zh.wikipedia.org/wiki/巴生 "wikilink")：Centro
     Mall<span style="color: #8B00FF">■</span>
   - [新山](../Page/新山.md "wikilink")：City
     Square<span style="color: #8B00FF">■</span>
   - [梳邦](../Page/梳邦.md "wikilink")：Jaya
     Square<span style="color: #8B00FF">■</span>
-  - [檳城](../Page/檳城.md "wikilink")：Queensbay
+  - [檳城](https://zh.wikipedia.org/wiki/檳城 "wikilink")：Queensbay
     Mall<span style="color: #8B00FF">■</span>
 
 ## 目前向Neway提供新歌試唱的唱片公司
 
   - [英皇娛樂](../Page/英皇娛樂.md "wikilink")（Neway獨家）
 
-  - [寰亞音樂](../Page/寰亞唱片.md "wikilink")／[東亞唱片
-    (集團)](../Page/東亞唱片_\(集團\).md "wikilink")／[華星唱片](../Page/華星唱片.md "wikilink")（Neway獨家）
+  - [寰亞音樂](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")／[東亞唱片
+    (集團)](../Page/東亞唱片_\(集團\).md "wikilink")／[華星唱片](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")（Neway獨家）
 
   - [TVB](../Page/電視廣播有限公司.md "wikilink")（Neway獨家）
 
-      - [星夢娛樂](../Page/星夢娛樂.md "wikilink")（Neway獨家）
-      - [TVB Music](../Page/正視音樂.md "wikilink")（Neway獨家）
+      - [星夢娛樂](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")（Neway獨家）
+      - [TVB
+        Music](https://zh.wikipedia.org/wiki/正視音樂 "wikilink")（Neway獨家）
 
   - [Gain Capital](../Page/中星集團.md "wikilink")
 
@@ -148,7 +149,7 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
 
   - [A Music](../Page/東亞唱片_\(製作\).md "wikilink")（Neway獨家）
 
-  - [musicNEXT](../Page/環星音樂.md "wikilink")（Neway獨家）
+  - [musicNEXT](https://zh.wikipedia.org/wiki/環星音樂 "wikilink")（Neway獨家）
 
   - [維高文化](../Page/維高文化.md "wikilink")（Neway獨家）
 
@@ -161,21 +162,22 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
 
   - [大國文化](../Page/大國文化集團.md "wikilink")
 
-  - [耀榮文化](../Page/耀榮文化.md "wikilink")
+  - [耀榮文化](https://zh.wikipedia.org/wiki/耀榮文化 "wikilink")
 
   - [Hummingbird Music](../Page/蜂鳥音樂.md "wikilink")
 
-  - [大名娛樂](../Page/大名娛樂.md "wikilink")
+  - [大名娛樂](https://zh.wikipedia.org/wiki/大名娛樂 "wikilink")
 
   -   - [環球唱片](../Page/環球唱片_\(香港\).md "wikilink")（2000年或之前）
           - [新藝寶唱片](../Page/新藝寶唱片.md "wikilink")（2013年或之前）
           - [正東唱片](../Page/正東唱片.md "wikilink")（2013年或之前）
           - [上華唱片 (香港)](../Page/上華唱片.md "wikilink")（2013年或之前）
-          - [寶麗金唱片](../Page/寶麗金唱片.md "wikilink")（2013年或之前）
+          - [寶麗金唱片](https://zh.wikipedia.org/wiki/寶麗金唱片 "wikilink")（2013年或之前）
       - [百代唱片](../Page/百代唱片_\(香港\).md "wikilink")
-      - [華納唱片](../Page/華納唱片_\(香港\).md "wikilink")
+      - [華納唱片](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")
           - [金牌大風](../Page/金牌大風.md "wikilink")
-      - [索尼音樂娛樂 (香港)](../Page/索尼音樂娛樂_\(香港\).md "wikilink")
+      - [索尼音樂娛樂
+        (香港)](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")
           - [杰威爾音樂](../Page/杰威爾音樂.md "wikilink")
 
 <!-- end list -->
@@ -185,7 +187,7 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
 
   - 自選卡拉OK
   - 膳食（K-lunch、K-buffet）
-  - 免費[無線上網](../Page/無線區域網路.md "wikilink")
+  - 免費[無線上網](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")
   - 房間桌面電視（只限部分分店）
   - 自選電視頻道
   - 獨立洗手間（只限Neway CEO及部分分店）
@@ -202,8 +204,8 @@ Mr分店](../Page/Red_Mr.md "wikilink")(已改以Neway名義營業)；
   - [Neway卡拉OK Facebook](http://www.facebook.com/newaykaraokebox)
 
   -
-[分類:香港卡拉OK公司](../Page/分類:香港卡拉OK公司.md "wikilink")
-[分類:中星集團](../Page/分類:中星集團.md "wikilink")
+[分類:香港卡拉OK公司](https://zh.wikipedia.org/wiki/分類:香港卡拉OK公司 "wikilink")
+[分類:中星集團](https://zh.wikipedia.org/wiki/分類:中星集團 "wikilink")
 
 1.  [Neway-集團簡介](http://www.newaykb.com/newsite/about.php)
 

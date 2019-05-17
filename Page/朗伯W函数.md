@@ -1,10 +1,10 @@
 [lambertw.png](https://zh.wikipedia.org/wiki/File:lambertw.png "fig:lambertw.png")
 
-**朗伯W函数**（，又称为**欧米加函数**或**乘积对数**），是*f*(*w*) = *we*<sup>*w*</sup>的[反函数](../Page/反函数.md "wikilink")，其中*e*<sup>*w*</sup>是[指数函数](../Page/指数函数.md "wikilink")，*w*是任意复数。对于任何复数*z*，都有：
+**朗伯W函数**（，又称为**欧米加函数**或**乘积对数**），是*f*(*w*) = *we*<sup>*w*</sup>的[反函数](https://zh.wikipedia.org/wiki/反函数 "wikilink")，其中*e*<sup>*w*</sup>是[指数函数](../Page/指数函数.md "wikilink")，*w*是任意复数。对于任何复数*z*，都有：
 
 \[z = W(z)e^{W(z)}.\]
 
-由于函数*f*不是[单射](../Page/单射.md "wikilink")，因此函数*W*是[多值的](../Page/多值函数.md "wikilink")（除了0以外）。如果我们把*x*限制为实数，并要求*w*是实数，那么函数仅对于*x*
+由于函数*f*不是[单射](../Page/单射.md "wikilink")，因此函数*W*是[多值的](https://zh.wikipedia.org/wiki/多值函数 "wikilink")（除了0以外）。如果我们把*x*限制为实数，并要求*w*是实数，那么函数仅对于*x*
 ≥ −1/*e*有定义，在(−1/*e*, 0)内是多值的；如果加上*w* ≥
 −1的限制，则定义了一个单值函数*W*<sub>0</sub>(*x*)（见图）。我们有*W*<sub>0</sub>(0)
 = 0，*W*<sub>0</sub>(−1/*e*) = −1。而在\[−1/*e*, 0)内的*w* ≤
@@ -362,7 +362,7 @@
 
 Lambert W 函數之一般化\[1\]\[2\]\[3\] 包括:
 
-  - 一項在低維空間內[廣義相對論與](../Page/廣義相對論.md "wikilink")[量子力學的應用](../Page/量子力學.md "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的
+  - 一項在低維空間內[廣義相對論與](../Page/廣義相對論.md "wikilink")[量子力學的應用](https://zh.wikipedia.org/wiki/量子力學 "wikilink")（[量子引力](../Page/量子引力.md "wikilink")），實際上一種以前未知的
     連結 於此二區域中，如 “Journal of Classical and Quantum Gravity”\[4\] 所示其 (1)
     的右邊式現為二維多項式 x：
 
@@ -379,7 +379,7 @@ Lambert W 函數之一般化\[1\]\[2\]\[3\] 包括:
 
 <!-- end list -->
 
-  - 量子力學的一特例特徵能的分析解三體問題，亦即（三維）[氢分子離子](../Page/氢分子离子.md "wikilink")。\[5\]於此
+  - 量子力學的一特例特徵能的分析解三體問題，亦即（三維）[氢分子離子](https://zh.wikipedia.org/wiki/氢分子离子 "wikilink")。\[5\]於此
     (1)（或 (2)）的右手邊現為無限級數多項式之比於 *x*：
 
 \[e^{-c x} = a_o \frac{\prod_{i=1}^{\infty} (x-r_i )}{ \prod_{i=1}^{\infty} (x-s_i)} \qquad \qquad\qquad(3)\]
@@ -400,7 +400,7 @@ Image:LambertWAll.png
 
 ## 计算
 
-*W*函数可以用以下的[递推关系算出](../Page/递推关系.md "wikilink")：
+*W*函数可以用以下的[递推关系算出](https://zh.wikipedia.org/wiki/递推关系 "wikilink")：
 
 \[w_{j+1}=w_j-\frac{w_j e^{w_j}-z}{e^{w_j}(w_j+1)-\frac{(w_j+2)(w_je^{w_j}-z)}
 {2w_j+2}}\]

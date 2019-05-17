@@ -1,5 +1,5 @@
 **Home 2
-Home**是[香港一家](../Page/香港.md "wikilink")[酒店連鎖集團](../Page/酒店.md "wikilink")，在[香港地區擁有](../Page/香港.md "wikilink")4家精品酒店，主要經營[港島昂貴地價月租酒店服務](../Page/港島.md "wikilink")。而每間[酒店只設有](../Page/酒店.md "wikilink")6-52間房間不等。
+Home**是[香港一家](../Page/香港.md "wikilink")[酒店連鎖集團](../Page/酒店.md "wikilink")，在[香港地區擁有](../Page/香港.md "wikilink")4家精品酒店，主要經營[港島昂貴地價月租酒店服務](https://zh.wikipedia.org/wiki/港島 "wikilink")。而每間[酒店只設有](../Page/酒店.md "wikilink")6-52間房間不等。
 
 ## 歷史
 
@@ -13,42 +13,42 @@ Home 2 Home
 [Home_2_Home_Ovolo_logo.gif](https://zh.wikipedia.org/wiki/File:Home_2_Home_Ovolo_logo.gif "fig:Home_2_Home_Ovolo_logo.gif")
 
   - Home 2 Home Ovolo
-    位於[港島](../Page/港島.md "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")2號，為一三星級酒店，於2002年開幕，是**Home
-    2 Home**的成員之一，鄰近[蘭桂芳](../Page/蘭桂芳.md "wikilink")。
+    位於[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")2號，為一三星級酒店，於2002年開幕，是**Home
+    2 Home**的成員之一，鄰近[蘭桂芳](https://zh.wikipedia.org/wiki/蘭桂芳 "wikilink")。
     Home 2 Home
-    Ovolo共設21間客房，分為單人房及雙人房，每間客房均大約有46.47-92.94[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](../Page/上網.md "wikilink")、[電視](../Page/電視.md "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
+    Ovolo共設21間客房，分為單人房及雙人房，每間客房均大約有46.47-92.94[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
 
 [Home2Home_Erba_logo.gif](https://zh.wikipedia.org/wiki/File:Home2Home_Erba_logo.gif "fig:Home2Home_Erba_logo.gif")
 
   - Home 2 Home Erba
-    位於[港島](../Page/港島.md "wikilink")[中環](../Page/中環.md "wikilink")[皇后大道中](../Page/皇后大道中.md "wikilink")284號，為一三星級酒店，於2005年開幕，是**Home
+    位於[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[中環](../Page/中環.md "wikilink")[皇后大道中](https://zh.wikipedia.org/wiki/皇后大道中 "wikilink")284號，為一三星級酒店，於2005年開幕，是**Home
     2 Home**的成員之一。
     Home 2 Home
-    Erba共設24間客房，分為單人房及雙人房，每間客房均大約有46.47-92.94[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](../Page/上網.md "wikilink")、[電視](../Page/電視.md "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
+    Erba共設24間客房，分為單人房及雙人房，每間客房均大約有46.47-92.94[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
 
 <!-- end list -->
 
   - Home 2 Home Abeo
-    位於[港島](../Page/港島.md "wikilink")[香港仔](../Page/香港仔.md "wikilink")[石排灣道](../Page/石排灣道.md "wikilink")100號，為一三星級酒店，於2007年開幕，是**Home
+    位於[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[香港仔](../Page/香港仔.md "wikilink")[石排灣道](../Page/石排灣道.md "wikilink")100號，為一三星級酒店，於2007年開幕，是**Home
     2 Home**的成員之一。
     Home 2 Home
-    Abeo共設52間客房，為集團現時最多房間的酒店，分為單人房及雙人房，每間客房均大約有18.59[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](../Page/上網.md "wikilink")、[電視等服務](../Page/電視.md "wikilink")。
+    Abeo共設52間客房，為集團現時最多房間的酒店，分為單人房及雙人房，每間客房均大約有18.59[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")、[電視等服務](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
 [Home_2_Home_Shiu_King_Court_logo.gif](https://zh.wikipedia.org/wiki/File:Home_2_Home_Shiu_King_Court_logo.gif "fig:Home_2_Home_Shiu_King_Court_logo.gif")
 
   - Home 2 Home Shiu King Court
-    位於[港島](../Page/港島.md "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")4-8號，為一三星級酒店，於2008年開幕，是**Home
-    2 Home**的成員之一，鄰近[蘭桂芳](../Page/蘭桂芳.md "wikilink")。
+    位於[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")4-8號，為一三星級酒店，於2008年開幕，是**Home
+    2 Home**的成員之一，鄰近[蘭桂芳](https://zh.wikipedia.org/wiki/蘭桂芳 "wikilink")。
     Home 2 Home Shiu King
-    Court共設15間客房，分為單人房及雙人房，每間客房均大約有60.41[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](../Page/上網.md "wikilink")、[電視](../Page/電視.md "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
+    Court共設15間客房，分為單人房及雙人房，每間客房均大約有60.41[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
 
 [Bel_Mount_Garden_logo.gif](https://zh.wikipedia.org/wiki/File:Bel_Mount_Garden_logo.gif "fig:Bel_Mount_Garden_logo.gif")
 
   - Home 2 Home Bel Mount Garden
-    位於[港島](../Page/港島.md "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")15號，為一三星級酒店，於2008年開幕，是**Home
-    2 Home**的成員之一，鄰近[蘭桂芳](../Page/蘭桂芳.md "wikilink")。
+    位於[港島](https://zh.wikipedia.org/wiki/港島 "wikilink")[中環亞畢諾道](../Page/中環.md "wikilink")15號，為一三星級酒店，於2008年開幕，是**Home
+    2 Home**的成員之一，鄰近[蘭桂芳](https://zh.wikipedia.org/wiki/蘭桂芳 "wikilink")。
     Home 2 Home Bel Mount
-    Garden共設6間客房，分為單人房及雙人房，每間客房均大約有65.06[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](../Page/上網.md "wikilink")、[電視](../Page/電視.md "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
+    Garden共設6間客房，分為單人房及雙人房，每間客房均大約有65.06[平方米](../Page/平方米.md "wikilink")，內裏設有[寬頻](../Page/寬頻.md "wikilink")[上網](https://zh.wikipedia.org/wiki/上網 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廚房等服務](../Page/廚房.md "wikilink")。
 
 ## 外部參考
 

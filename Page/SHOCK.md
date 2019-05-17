@@ -1,4 +1,4 @@
-『**SHOCK**』是由日本[傑尼斯事務所旗下藝人](../Page/傑尼斯事務所.md "wikilink")**[堂本光一](../Page/堂本光一.md "wikilink")**擔任座長，負責企劃、構思、監製、音樂及主演，並由事務所社長[Johnny喜多川從旁輔導的](../Page/Johnny喜多川.md "wikilink")[音樂劇系列總稱](../Page/音樂劇.md "wikilink")。該劇最初是以1991年[少年隊主演的音樂劇](../Page/少年隊.md "wikilink")『PLAYZONE
+『**SHOCK**』是由日本[傑尼斯事務所旗下藝人](../Page/傑尼斯事務所.md "wikilink")**[堂本光一](../Page/堂本光一.md "wikilink")**擔任座長，負責企劃、構思、監製、音樂及主演，並由事務所社長[Johnny喜多川從旁輔導的](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")[音樂劇系列總稱](../Page/音樂劇.md "wikilink")。該劇最初是以1991年[少年隊主演的音樂劇](../Page/少年隊.md "wikilink")『PLAYZONE
 '91 SHOCK』為基礎改編，但自2000年11月，『MILLENNIUM
 SHOCK』在「[帝國劇場](../Page/帝國劇場.md "wikilink")」首次公演之後，為追求更好的舞台效果，每年都會針對名稱、表演內容及演員陣容進行調整，現已呈現完全不同的風貌，迄今固定在帝國劇場公演，成為一年一度的盛事。2005年演出該系列第五個版本時，更宣布定名為『Endless
 SHOCK』，內容也作了大幅更新。由於該劇內容精彩、佳評如潮，經常造成一票難求的盛況，被日本媒體譽為『最難買到票的舞台劇』。
@@ -39,17 +39,20 @@ SHOCK』也因此被公認是「日本最難買到票的舞台劇」以及「傑
 ### 演員
 
   - [堂本光一](../Page/堂本光一.md "wikilink")（[KinKi
-    Kids](../Page/KinKi_Kids.md "wikilink")）
-  - [東山紀之](../Page/東山紀之.md "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）
+    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）
+  - [東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）
   - [今井翼](../Page/今井翼.md "wikilink")（[瀧與翼](../Page/瀧與翼.md "wikilink")）
-  - [赤坂晃](../Page/赤坂晃.md "wikilink")（前[光GENJI](../Page/光GENJI.md "wikilink")）
-  - [鈴木ほのか](../Page/鈴木ほのか.md "wikilink")
-  - [篠井英介](../Page/篠井英介.md "wikilink")
-  - [秋山純](../Page/秋山純.md "wikilink")（[Musical
+  - [赤坂晃](https://zh.wikipedia.org/wiki/赤坂晃 "wikilink")（前[光GENJI](../Page/光GENJI.md "wikilink")）
+  - [鈴木ほのか](https://zh.wikipedia.org/wiki/鈴木ほのか "wikilink")
+  - [篠井英介](https://zh.wikipedia.org/wiki/篠井英介 "wikilink")
+  - [秋山純](https://zh.wikipedia.org/wiki/秋山純 "wikilink")（[Musical
     Academy](../Page/Musical_Academy.md "wikilink")）
-  - [町田慎吾](../Page/町田慎吾.md "wikilink")（Musical Academy）
-  - [米花剛史](../Page/米花剛史.md "wikilink")（Musical Academy）
-  - [屋良朝幸](../Page/屋良朝幸.md "wikilink")（Musical Academy）
+  - [町田慎吾](https://zh.wikipedia.org/wiki/町田慎吾 "wikilink")（Musical
+    Academy）
+  - [米花剛史](https://zh.wikipedia.org/wiki/米花剛史 "wikilink")（Musical
+    Academy）
+  - [屋良朝幸](https://zh.wikipedia.org/wiki/屋良朝幸 "wikilink")（Musical
+    Academy）
   - [上田龍也](../Page/上田龍也.md "wikilink")（[KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - [中丸雄一](../Page/中丸雄一.md "wikilink")（KAT-TUN）
   - [赤西仁](../Page/赤西仁.md "wikilink")（KAT-TUN）
@@ -72,23 +75,23 @@ must go on』的舞台精神，放下嫂嫂、嫂嫂現任丈夫與失意的翼�
 ### 演員
 
   - [堂本光一](../Page/堂本光一.md "wikilink")([KinKi
-    Kids](../Page/KinKi_Kids.md "wikilink"))
-  - [樹里咲穂](../Page/樹里咲穂.md "wikilink")
+    Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink"))
+  - [樹里咲穂](https://zh.wikipedia.org/wiki/樹里咲穂 "wikilink")
   - [今井翼](../Page/今井翼.md "wikilink")([瀧與翼](../Page/瀧與翼.md "wikilink"))
-  - [錦戸亮](../Page/錦戸亮.md "wikilink")([関ジャニ∞](../Page/関ジャニ∞.md "wikilink"))
-  - [今拓哉](../Page/今拓哉.md "wikilink")
-  - [秋山純](../Page/秋山純.md "wikilink")
-  - [町田慎吾](../Page/町田慎吾.md "wikilink")
-  - [米花剛史](../Page/米花剛史.md "wikilink")
-  - [屋良朝幸](../Page/屋良朝幸.md "wikilink")
+  - [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")([関ジャニ∞](https://zh.wikipedia.org/wiki/関ジャニ∞ "wikilink"))
+  - [今拓哉](https://zh.wikipedia.org/wiki/今拓哉 "wikilink")
+  - [秋山純](https://zh.wikipedia.org/wiki/秋山純 "wikilink")
+  - [町田慎吾](https://zh.wikipedia.org/wiki/町田慎吾 "wikilink")
+  - [米花剛史](https://zh.wikipedia.org/wiki/米花剛史 "wikilink")
+  - [屋良朝幸](https://zh.wikipedia.org/wiki/屋良朝幸 "wikilink")
   - [龜梨和也](../Page/龜梨和也.md "wikilink")([KAT-TUN](../Page/KAT-TUN.md "wikilink")）
   - [赤西仁](../Page/赤西仁.md "wikilink")
   - [田中聖](../Page/田中聖.md "wikilink")
   - [田口淳之介](../Page/田口淳之介.md "wikilink")
-  - [長谷川純](../Page/長谷川純.md "wikilink")
-  - [戸塚祥太](../Page/戸塚祥太.md "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
-  - [東新良和](../Page/東新良和.md "wikilink")
-  - [辰巳雄大](../Page/辰巳雄大.md "wikilink")（[4U](../Page/4U.md "wikilink")）
+  - [長谷川純](https://zh.wikipedia.org/wiki/長谷川純 "wikilink")
+  - [戸塚祥太](https://zh.wikipedia.org/wiki/戸塚祥太 "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
+  - [東新良和](https://zh.wikipedia.org/wiki/東新良和 "wikilink")
+  - [辰巳雄大](https://zh.wikipedia.org/wiki/辰巳雄大 "wikilink")（[4U](../Page/4U.md "wikilink")）
   - [小山慶一郎](../Page/小山慶一郎.md "wikilink")（[NEWS](../Page/NEWS.md "wikilink")）
 
 ## SHOCK is Real Shock（2003年）
@@ -104,9 +107,9 @@ must go on』的舞台精神，放下嫂嫂、嫂嫂現任丈夫與失意的翼�
 ### 演員
 
   - 堂本光一（KinKi Kids）
-  - [未唯](../Page/未唯.md "wikilink")
+  - [未唯](https://zh.wikipedia.org/wiki/未唯 "wikilink")
   - [生田斗真](../Page/生田斗真.md "wikilink")
-  - [井上順](../Page/井上順.md "wikilink")
+  - [井上順](https://zh.wikipedia.org/wiki/井上順 "wikilink")
   - 秋山純（Musical Academy）
   - 町田慎吾（Musical Academy）
   - 米花剛史（Musical Academy）
@@ -130,8 +133,8 @@ must go on』的舞台精神，放下嫂嫂、嫂嫂現任丈夫與失意的翼�
 
   - 堂本光一（KinKi Kids）
   - 今井翼（瀧與翼）
-  - [伊織直加](../Page/伊織直加.md "wikilink")
-  - [尾藤イサオ](../Page/尾藤イサオ.md "wikilink")
+  - [伊織直加](https://zh.wikipedia.org/wiki/伊織直加 "wikilink")
+  - [尾藤イサオ](https://zh.wikipedia.org/wiki/尾藤イサオ "wikilink")
   - 東新良和
   - 秋山純（Musical Academy）
   - 町田慎吾（Musical Academy）
@@ -171,20 +174,23 @@ must go on』的信念，竟在舞台演出時，把原本要砍向光一的道�
 
   - [堂本光一](../Page/堂本光一.md "wikilink")（KinKi Kids）
   - 今井翼（瀧與翼）－2005、6年 飾演 翼（與 錦戸亮 分飾一角）
-  - [錦戸亮](../Page/錦戸亮.md "wikilink")（NEWS、[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")）－2005、6年
+  - [錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")（NEWS、[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")）－2005、6年
     飾演 亮（與 今井翼 分飾一角）
   - 生田斗真－2007年 飾演 斗真
   - 屋良朝幸（Musical Academy）－2008、9年 飾演 屋良
   - [黑木美沙](../Page/黑木美沙.md "wikilink")－2005年 飾演 Rika（與 小宮山實花 分飾一角）
-  - [小宮山實花](../Page/小宮山實花.md "wikilink")－2005年 飾演 Rika（與 黑木美沙 分飾一角）
-  - [田畑亞彌](../Page/田畑亞彌.md "wikilink")－2006年 飾演 Rika
+  - [小宮山實花](https://zh.wikipedia.org/wiki/小宮山實花 "wikilink")－2005年 飾演
+    Rika（與 黑木美沙 分飾一角）
+  - [田畑亞彌](https://zh.wikipedia.org/wiki/田畑亞彌 "wikilink")－2006年 飾演 Rika
   - [松本真理香](../Page/松本真理香.md "wikilink")－2007年 飾演 Rika
-  - [RiRiKA](../Page/RiRiKA.md "wikilink")－2008年 飾演 Rika
-  - [佐藤めぐみ](../Page/佐藤めぐみ.md "wikilink")－2009、10年 飾演 Rika
+  - [RiRiKA](https://zh.wikipedia.org/wiki/RiRiKA "wikilink")－2008年 飾演
+    Rika
+  - [佐藤めぐみ](https://zh.wikipedia.org/wiki/佐藤めぐみ "wikilink")－2009、10年 飾演
+    Rika
   - 原田夏希 - 2010年 飾演 Rika
   - 神田沙也加 - 2012年 飾演 Rika
   - [梅田彩佳](../Page/梅田彩佳.md "wikilink") - 2019年 飾演 Rika
-  - [石川直](../Page/石川直.md "wikilink")
+  - [石川直](https://zh.wikipedia.org/wiki/石川直 "wikilink")
   - 秋山純（原Musical Academy）－2005、6、7年 飾演 秋山
   - [大倉忠義](../Page/大倉忠義.md "wikilink")（關西傑尼斯8）－2008年 飾演 大倉
   - [植草克秀](../Page/植草克秀.md "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）－2009年
@@ -192,10 +198,10 @@ must go on』的信念，竟在舞台演出時，把原本要砍向光一的道�
   - 町田慎吾（Musical Academy）
   - 米花剛史（Musical Academy）
   - 屋良朝幸（Musical Academy）
-  - [福田悠太](../Page/福田悠太.md "wikilink")（M.A.D.）
-  - [松崎祐介](../Page/松崎祐介.md "wikilink")（M.A.D.）
+  - [福田悠太](https://zh.wikipedia.org/wiki/福田悠太 "wikilink")（M.A.D.）
+  - [松崎祐介](https://zh.wikipedia.org/wiki/松崎祐介 "wikilink")（M.A.D.）
   - 辰巳雄大（M.A.D.）
-  - [越岡裕貴](../Page/越岡裕貴.md "wikilink")（M.A.D.）
+  - [越岡裕貴](https://zh.wikipedia.org/wiki/越岡裕貴 "wikilink")（M.A.D.）
   - [A.B.C](../Page/A.B.C-Z.md "wikilink")
 
 ## 劇中劇
@@ -204,7 +210,7 @@ must go on』的信念，竟在舞台演出時，把原本要砍向光一的道�
 
   - [哈姆雷特](../Page/哈姆雷特.md "wikilink")
   - 理查三世（莎士比亞劇 King Richard III）
-  - [羅密歐與茱麗葉](../Page/羅密歐與茱麗葉.md "wikilink")
+  - [羅密歐與茱麗葉](https://zh.wikipedia.org/wiki/羅密歐與茱麗葉 "wikilink")
   - Elektra（希臘神話）
   - 曾根崎心中
   - [新選組](../Page/新選組.md "wikilink")
@@ -217,7 +223,7 @@ must go on』的信念，竟在舞台演出時，把原本要砍向光一的道�
 ## 使用樂曲
 
   - Take the 'A' Train
-  - [布蘭詩歌](../Page/布蘭詩歌.md "wikilink")
+  - [布蘭詩歌](https://zh.wikipedia.org/wiki/布蘭詩歌 "wikilink")
   - BROADWAY MELODY　等，其餘大部分使用原創歌曲。
 
 ## 相關商品

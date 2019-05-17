@@ -1,4 +1,4 @@
-本列表為[日本](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》及其所有外傳的登場機體。
 
 ## 天上人（Celestial Being）
@@ -20,7 +20,7 @@
 
   -
     粒子束軍刀（Beam Saber）
-    [粒子束槍](../Page/射束.md "wikilink")（Beam Gun）
+    [粒子束槍](https://zh.wikipedia.org/wiki/射束 "wikilink")（Beam Gun）
     GUNDAM盾牌（Gundam Shield）
 
 <!-- end list -->
@@ -31,7 +31,8 @@
 
   -
     GN羽翼（GN Feathers）
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")（0 Gundam Type A.C.D.）
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")（0
+    Gundam Type A.C.D.）
 
 <!-- end list -->
 
@@ -74,7 +75,7 @@
   -
     GN粒子束軍刀（GN Beam Saber）x2
     GN火神炮（GN Vulcan）x2
-    GN[粒子束](../Page/射束.md "wikilink")[步槍](../Page/步槍.md "wikilink")（GN
+    GN[粒子束](https://zh.wikipedia.org/wiki/射束 "wikilink")[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")（GN
     Beam Rifle）
     原型GN劍（Proto GN Sword）
     GN基礎盾牌（GN Basic Shield）
@@ -89,7 +90,7 @@
   -
     公式外傳「機動戰士GUNDAM 00P」登場。第一世代的0
     GUNDAM發展型，第二世代GUNDAM的一號機，也是第三世代的能天使GUNDAM原型機。外觀有如0GUNDAM和能天使GUNDAM的折衷版。
-    「Astraea」之名源自於塔羅牌的「正義」，在希臘神話中是正義女神[阿斯特賴亞](../Page/阿斯特賴亞.md "wikilink")（處女座）。
+    「Astraea」之名源自於塔羅牌的「正義」，在希臘神話中是正義女神[阿斯特賴亞](https://zh.wikipedia.org/wiki/阿斯特賴亞 "wikilink")（處女座）。
 
 <!-- end list -->
 
@@ -111,12 +112,13 @@
     \*機體武裝：
     :GN粒子束軍刀（GN Beam Saber）x2
     :GN火神炮（GN Vulcan）x2
-    :GN[粒子束步槍](../Page/射束.md "wikilink")（GN Beam Rifle）
+    :GN[粒子束步槍](https://zh.wikipedia.org/wiki/射束 "wikilink")（GN Beam
+    Rifle）
     :原型GN劍（Proto GN Sword）
     :GN盾牌（GN Shield）
     :GN砲（GN Launcher）x2－雙管GN砲（Double GN Launcher）
     \*特殊裝置：
-    :[Trans-AM系統](../Page/機動戰士GUNDAM_00用語列表#Trans-AM.md "wikilink")（Trans-AM
+    :[Trans-AM系統](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00用語列表#Trans-AM "wikilink")（Trans-AM
     System）
     \*簡介：
     :公式外傳「機動戰士GUNDAM
@@ -140,7 +142,7 @@
 <!-- end list -->
 
   - \*特殊裝置：
-    :[Trans-AM系統](../Page/機動戰士GUNDAM_00用語列表#Trans-AM.md "wikilink")（Trans-AM
+    :[Trans-AM系統](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00用語列表#Trans-AM "wikilink")（Trans-AM
     System）
     :GN折射罩(機動戰士GUNDAM 00F 第4集)
     \*簡介：
@@ -178,7 +180,8 @@
     \*機體武裝：
     :GN粒子束軍刀（GN Beam Saber）x2
     :GN火神炮（GN Vulcan）x2
-    :GN[粒子束步槍](../Page/射束.md "wikilink")（GN Beam Rifle）
+    :GN[粒子束步槍](https://zh.wikipedia.org/wiki/射束 "wikilink")（GN Beam
+    Rifle）
     :原型GN劍（Proto GN Sword)
     :GN盾牌（GN Shield）
     :GN砲（GN Launcher）x4－雙管GN砲（Double GN Launcher）x2
@@ -228,7 +231,7 @@
   -
     公式外傳「機動戰士GUNDAM
     00P」登場。第二世代GUNDAM之二號機，第三世代的力天使GUNDAM原形機，武裝只有可變換子彈型步槍，且裝甲薄弱到完全不適合實戰，因此本機在開發之時只是為了測試各方向的感應器而已。
-    「Sadalsuud」是來自於[阿拉伯文的](../Page/阿拉伯文.md "wikilink")「幸運者」，也指水瓶座的β恆星，也是指舀水的女神。
+    「Sadalsuud」是來自於[阿拉伯文的](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")「幸運者」，也指水瓶座的β恆星，也是指舀水的女神。
 
 <!-- end list -->
 
@@ -297,7 +300,7 @@
 <!-- end list -->
 
   -
-    [電漿](../Page/電漿.md "wikilink")[引擎](../Page/引擎.md "wikilink")（Plasma
+    [電漿](https://zh.wikipedia.org/wiki/電漿 "wikilink")[引擎](https://zh.wikipedia.org/wiki/引擎 "wikilink")（Plasma
     Engine）x2
 
 <!-- end list -->
@@ -310,7 +313,7 @@
     公式外傳「機動戰士GUNDAM
     00P」登場。第二世代GUNDAM之三號機，第三世代主天使GUNDAM原型機。無法完全變形成MS形態是與主天使GUNDAM的最大不同之處，且戰機機首才是機體真正的頭部。推力可切換GN動力和等離子噴射引擎，變形後能令飛行形態下不可能的AMBAC（憑質量移動控制姿勢）和氣動控制成為可能。
     「Abul
-    Hool」源自於[阿拉伯文的](../Page/阿拉伯文.md "wikilink")[人面獅身像](../Page/人面獅身像.md "wikilink")。
+    Hool」源自於[阿拉伯文的](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")[人面獅身像](https://zh.wikipedia.org/wiki/人面獅身像 "wikilink")。
 
 <!-- end list -->
 
@@ -458,7 +461,7 @@
 
   -
     公式外傳「機動戰士GUNDAM 00P」登場，外型酷似[蜜蜂](../Page/蜜蜂.md "wikilink")。
-    「Artemie」之名取自於希臘神話的「[阿耳忒彌斯](../Page/阿耳忒彌斯.md "wikilink")（月之女神）」。
+    「Artemie」之名取自於希臘神話的「[阿耳忒彌斯](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")（月之女神）」。
 
 <!-- end list -->
 
@@ -504,7 +507,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
 
 <!-- end list -->
 
@@ -547,7 +550,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - 設計者：海老川兼武
-  - 命名：九天使階級中排第六的[能天使](../Page/能天使.md "wikilink")（Exusiai）
+  - 命名：九天使階級中排第六的[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）
 
 <!-- end list -->
 
@@ -586,7 +589,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
 
 <!-- end list -->
 
@@ -619,7 +622,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - 設計者：柳瀨敬之
-  - 命名：英文的Dynames為九天使階級中[能天使](../Page/能天使.md "wikilink")（Exusiai）的別名（Dynamis）,但[力天使](../Page/力天使.md "wikilink")（Dynamis）與[德天使](../Page/德天使.md "wikilink")（Virtues）所指的其實同是階級排第五的天使
+  - 命名：英文的Dynames為九天使階級中[能天使](https://zh.wikipedia.org/wiki/能天使 "wikilink")（Exusiai）的別名（Dynamis）,但[力天使](../Page/力天使.md "wikilink")（Dynamis）與[德天使](https://zh.wikipedia.org/wiki/德天使 "wikilink")（Virtues）所指的其實同是階級排第五的天使
 
 <!-- end list -->
 
@@ -659,7 +662,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
 
 <!-- end list -->
 
@@ -686,7 +689,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - 設計者：柳瀨敬之
-  - 命名：九天使階級中排第四的[主天使](../Page/主天使.md "wikilink")（Kyriotetes）
+  - 命名：九天使階級中排第四的[主天使](https://zh.wikipedia.org/wiki/主天使 "wikilink")（Kyriotetes）
 
 <!-- end list -->
 
@@ -716,7 +719,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
 
 <!-- end list -->
 
@@ -740,12 +743,13 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - 設計者：柳瀨敬之
-  - 命名：九天使階級中排第五的[德天使](../Page/德天使.md "wikilink")（Virtues）
+  - 命名：九天使階級中排第五的[德天使](https://zh.wikipedia.org/wiki/德天使 "wikilink")（Virtues）
 
 <!-- end list -->
 
-  - [GN-004 中性鋼彈](../Page/GN-004_中性鋼彈.md "wikilink")\[6\]（GN-004 Gundam
-    Nadleeh）
+  - [GN-004
+    中性鋼彈](https://zh.wikipedia.org/wiki/GN-004_中性鋼彈 "wikilink")\[6\]（GN-004
+    Gundam Nadleeh）
 
 <!-- end list -->
 
@@ -771,7 +775,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     審判系統（Trial System）
 
 <!-- end list -->
@@ -800,7 +804,7 @@ GUNDAM均內藏多個GN容器（GN Condenser）於機體各部位，容器大小
 <!-- end list -->
 
   - [-{GN-X}-XX
-    秘天使GUNDAM](../Page/GN-XXX_秘天使GUNDAM.md "wikilink")\[7\]（Gundam
+    秘天使GUNDAM](https://zh.wikipedia.org/wiki/GN-XXX_秘天使GUNDAM "wikilink")\[7\]（Gundam
     Rasiel）
 
 <!-- end list -->
@@ -870,7 +874,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     高速狙擊運算螢幕 （Holoscreen）
 
 <!-- end list -->
@@ -939,7 +943,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
 
 <!-- end list -->
 
@@ -1007,7 +1011,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     臉型粒子爆發模式（Face Burst Mode）
     隱藏手臂（Hidden Arms）x4
 
@@ -1040,7 +1044,8 @@ Condenser）於機體各部位。
 
 <!-- end list -->
 
-  - [GN-009 天使長GUNDAM](../Page/GN-009_天使長GUNDAM.md "wikilink")（Seraphim
+  - [GN-009
+    天使長GUNDAM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")（Seraphim
     Gundam）
 
 <!-- end list -->
@@ -1075,7 +1080,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     審判領域（Trial Field）
     臉型粒子爆發模式（Face Burst Mode）
 
@@ -1129,7 +1134,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     雙重動力系統（Twin-Drive System）
 
 <!-- end list -->
@@ -1169,7 +1174,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   - [GN-0000+GNR-010 00強化模組（00
-    Raiser）](../Page/GN-0000_00_GUNDAM#GN-0000.2BGNR-010_00.E5.BC.B7.E5.8C.96.E6.A8.A1.E7.B5.84.EF.BC.8800_Raiser.EF.BC.89.md "wikilink")（00
+    Raiser）](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#GN-0000.2BGNR-010_00.E5.BC.B7.E5.8C.96.E6.A8.A1.E7.B5.84.EF.BC.8800_Raiser.EF.BC.89 "wikilink")（00
     Raiser）
 
 <!-- end list -->
@@ -1205,9 +1210,9 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")
     [TRAMS-AM BURST
-    系統](../Page/GN-0000_00_GUNDAM#Trans-AM_Burst.md "wikilink")
+    系統](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#Trans-AM_Burst "wikilink")
 
 <!-- end list -->
 
@@ -1226,7 +1231,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   - ;[GN-0000RE+GNR-010 00強化模組粒子儲藏槽型（00 Raiser Condenser
-    Type）](../Page/GN-0000_00_GUNDAM#GN-0000RE.2BGNR-010_00.E5.BC.B7.E5.8C.96.E6.A8.A1.E7.B5.84GN.E9.9B.BB.E5.AE.B9.E5.99.A8.E5.9E.8B.EF.BC.8800_Raiser_GN_Condenser_Type.EF.BC.89.md "wikilink")\[10\]
+    Type）](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM#GN-0000RE.2BGNR-010_00.E5.BC.B7.E5.8C.96.E6.A8.A1.E7.B5.84GN.E9.9B.BB.E5.AE.B9.E5.99.A8.E5.9E.8B.EF.BC.8800_Raiser_GN_Condenser_Type.EF.BC.89 "wikilink")\[10\]
     在上次大战后天人组织损失了00 GUNDAM的全部两具GN太阳炉，在量子型00尚未开发完毕且急需补充战力的情况下对00
     Raiser进行修补后的形态，动力源改为两具GN容器。由于沙慈离开天人后无人操控0 Raiser，因此将0
     Raiser无人化并以固定装备形式安装于00 GUNDAM之上。
@@ -1271,7 +1276,8 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   -
-    [TRANS-AM系統](../Page/TRANS-AM系統.md "wikilink")（Trans-AM System）
+    [TRANS-AM系統](https://zh.wikipedia.org/wiki/TRANS-AM系統 "wikilink")（Trans-AM
+    System）
     雙重動力系統（Twin-Drive System）
     量子系統（Quantum System）
 
@@ -1349,9 +1355,9 @@ Condenser）於機體各部位。
 
   -
     智天使GUNDAM後繼機。駕駛艙內可搭載兩個哈囉（黄色及藍色）作輔助。
-    全身裝甲均裝有GN[導彈箱](../Page/導彈.md "wikilink")（可撘載76枚GN導彈），繫於左右腰後之GN浮游盾型位元除可作盾牌使用外也可收納GN步槍Bit，其可以拆開成GN浮游手槍位元（槍管下方裝有接近戰用的刀刃），兩者均可作全方位或手持武器使用。
+    全身裝甲均裝有GN[導彈箱](https://zh.wikipedia.org/wiki/導彈 "wikilink")（可撘載76枚GN導彈），繫於左右腰後之GN浮游盾型位元除可作盾牌使用外也可收納GN步槍Bit，其可以拆開成GN浮游手槍位元（槍管下方裝有接近戰用的刀刃），兩者均可作全方位或手持武器使用。
     此機體是以萊爾·狄蘭迪的戰鬥數據所製作的專用GUNDAM，除了頭上狙擊用鏡頭，腳部和肩部均裝上隱藏鏡頭，可透過全方位螢幕畫面瞄準單一或多重目標；所以駕駛艙內廢除了步槍型的狙擊瞄準器，操縱杆亦換成了手槍形。
-    『Zabanya』為[伊斯蘭教之](../Page/伊斯蘭教.md "wikilink")《[可蘭經](../Page/可蘭經.md "wikilink")》中管理地獄的天使，有『狂亂的突擊者』之意思，港釋GUNDAM沙巴尼亞。
+    『Zabanya』為[伊斯蘭教之](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")《[可蘭經](https://zh.wikipedia.org/wiki/可蘭經 "wikilink")》中管理地獄的天使，有『狂亂的突擊者』之意思，港釋GUNDAM沙巴尼亞。
 
 <!-- end list -->
 
@@ -1424,7 +1430,7 @@ Condenser）於機體各部位。
 <!-- end list -->
 
   - ;GN-011 妖天使鋼彈（最終決戰型態）（Gundam Harute（Final Mission Type））
-    在與[ELS的最終戰鬥中於雙腳裝備承襲自GN](../Page/ELS.md "wikilink")-003/af-G02
+    在與[ELS的最終戰鬥中於雙腳裝備承襲自GN](https://zh.wikipedia.org/wiki/ELS "wikilink")-003/af-G02
     陣風型主天使GUNDAM的GN推進器組件的形态，同時裝備於膝蓋的貨櫃之中也內藏有GN剪刀Bit\[23\]。
 
 <!-- end list -->
@@ -1467,13 +1473,13 @@ Condenser）於機體各部位。
 
   -
     熾天使GUNDAM後繼機，由與天上人超級電腦Veda合為一體的提耶利亞於天上人母艦[CBS
-    天上人號中獨自開發組裝的機體](../Page/CBS_天上人號.md "wikilink")。
+    天上人號中獨自開發組裝的機體](https://zh.wikipedia.org/wiki/CBS_天上人號 "wikilink")。
     基本架構為準變革者機體[GNZ-003
-    加迪薩](../Page/GNZ-003_加迪薩.md "wikilink")，背上的追加裝備以於前次大戰中破損的[GN-008
+    加迪薩](https://zh.wikipedia.org/wiki/GNZ-003_加迪薩 "wikilink")，背上的追加裝備以於前次大戰中破損的[GN-008
     熾天使GUNDAM修補而成](../Page/GN-008_熾天使GUNDAM.md "wikilink")。
     動力源為三具擬似太陽爐，分別搭載於熾天使GUNDAM組件的背部與GN大型加農砲上\[25\]。
     武裝包括GN光束步槍，背上熾天使GUNDAMⅡ型組件之兩門（可變型成GN爪）的GN大型加農砲（熾天使GUNDAMⅡ型雙腿變形而成）及背上熾天使GUNDAMⅡ型組件之兩門GN火箭砲II。
-    『Raphael』（中譯[拉菲爾](../Page/拉菲爾.md "wikilink")）為[猶太教](../Page/猶太教.md "wikilink")、[基督教及伊斯蘭教中其中一位天使長](../Page/基督教.md "wikilink")，與『Michael』、『Gabriel』一同被稱為三大天使，港釋拉斐爾GUNDAM。
+    『Raphael』（中譯[拉菲爾](https://zh.wikipedia.org/wiki/拉菲爾 "wikilink")）為[猶太教](https://zh.wikipedia.org/wiki/猶太教 "wikilink")、[基督教及伊斯蘭教中其中一位天使長](../Page/基督教.md "wikilink")，與『Michael』、『Gabriel』一同被稱為三大天使，港釋拉斐爾GUNDAM。
 
 <!-- end list -->
 
@@ -1551,7 +1557,7 @@ GNR-000 GN典籍戰機\[27\]（GN Sefer）
     Rasiel，天使拉結爾之書）」，藉此提升秘天使GUNDAM的機動力和戰鬥力，這個概念最後發展成為了O強化戰機。
     本機可分為GN飛艇、核心區塊及左右GN原型Bit四個部分，GN原型Bit及核心區塊可按需要增加。本機除可變為機動艇形態，也能與天上人第三世代GUNDAM合體，是天上人中少有之量產機體。
     GN飛艇於戰鬥時能遮斷敵方通訊。
-    「Sefer」來自於[希伯來文的](../Page/希伯來文.md "wikilink")「[書](../Page/書.md "wikilink")」。
+    「Sefer」來自於[希伯來文的](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")「[書](https://zh.wikipedia.org/wiki/書 "wikilink")」。
 
 <!-- end list -->
 
@@ -1635,7 +1641,8 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     GN火神砲（GN Vulcan）x4
-    GN粒子束[機槍](../Page/機槍.md "wikilink")（GN Beam Machinegun）x2
+    GN粒子束[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")（GN Beam
+    Machinegun）x2
     GN小型飛彈（GN Micro Missile）x8
 
 <!-- end list -->
@@ -1719,7 +1726,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     以月之女神鋼彈為基礎研發的墮天使鋼彈專用可變形強化支援機，可以MS型態作戰，但與墮天使進行聯攜戰鬥才能發揮最大的戰術價值。機體名稱讀作「Gun
     Archer」。
     GN電容器內粒子量低下時可與墮天使鋼彈連結並進行充填。
-    「Archer」來自於[英文的](../Page/英文.md "wikilink")「[弓兵](../Page/弓兵.md "wikilink")」。
+    「Archer」來自於[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")「[弓兵](https://zh.wikipedia.org/wiki/弓兵 "wikilink")」。
 
 <!-- end list -->
 
@@ -1886,7 +1893,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     公式外傳「機動戰士GUNDAM 00F」中登場，天上人分支天使之母艦，由馮恩˙史帕克啟動。
     艦橋橋樑形狀與天上人母艦托勒密號相同，擁有8條操作臂作修理及補給船艦之用。當巨大的上下操作臂張開時，能收納修理托勒密號。加上左右操作臂時，能收納托勒密號Ⅱ型。
     有4個GN推進器（GN Vernier）和等離子引擎以控制工作艦，各操作臂可獨立運作。
-    「Euclides」為[歐幾里得英語拼法](../Page/歐幾里得.md "wikilink")。
+    「Euclides」為[歐幾里得英語拼法](https://zh.wikipedia.org/wiki/歐幾里得 "wikilink")。
 
 <!-- end list -->
 
@@ -1921,13 +1928,13 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
   -
     第一季天上人GUNDAM專用戰艦，最多可裝備4座GUNDAM用格納庫。不過除防禦用之GN力場外並不裝備有任何重型武裝，於裝備強襲裝載運輸機（Assault
     Container）才擁有武裝，最多可裝備4台（取代4座GUNDAM用格納庫），能與艦體分離直接作出攻擊。
-    主艦橋設置在彈射器上方，以天上人戰術預報士[皇·李·諾瑞加為中心進行任務](../Page/皇·李·諾瑞加.md "wikilink")。和艦艇運作無關的Gundam
+    主艦橋設置在彈射器上方，以天上人戰術預報士[皇·李·諾瑞加為中心進行任務](https://zh.wikipedia.org/wiki/皇·李·諾瑞加 "wikilink")。和艦艇運作無關的Gundam
     Meister並沒有席位，但可使用收納在牆壁中的預備座椅。
     格納庫位於以艦艇為中心公轉的構造上，轉至位於艦橋上方的格納庫能把GUNDAM直接送到艦內再以彈射器出擊。各GUNDAM也可從格納庫直接出擊、歸艦，也考慮到打開倉蓋，把GUNDAM用作托勒密的武裝這樣的機能。
     本艦擁有使用GN粒子的推進系統，在同規模的輸送艦中擁有難以想像的高速，但由於沒有搭載獨立的GN動力裝置，必須依賴各GUNDAM的太陽爐補充GN粒子，如果缺少GUNDAM內裝的太陽爐就無法長時間活動（根據動畫第一季第3話中，阿雷路亞所指出）。
     本艦在第一季第24話被一台[GNX-603T
-    厄運式擊毀艦橋](../Page/GNX-603T_厄運式.md "wikilink")，使得當時在架橋內的里希特及克莉絲壯烈犧牲。
-    「Ptolemaios」為「[托勒密](../Page/托勒密.md "wikilink")」的古希臘文唸法。
+    厄運式擊毀艦橋](https://zh.wikipedia.org/wiki/GNX-603T_厄運式 "wikilink")，使得當時在架橋內的里希特及克莉絲壯烈犧牲。
+    「Ptolemaios」為「[托勒密](https://zh.wikipedia.org/wiki/托勒密 "wikilink")」的古希臘文唸法。
 
 <!-- end list -->
 
@@ -2085,7 +2092,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    九天使階級中排第三的[座天使](../Page/座天使.md "wikilink")（thronus）。
+    九天使階級中排第三的[座天使](https://zh.wikipedia.org/wiki/座天使 "wikilink")（thronus）。
 
 <!-- end list -->
 
@@ -2128,7 +2135,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    九天使階級中排第三的[座天使](../Page/座天使.md "wikilink")（thronus）。
+    九天使階級中排第三的[座天使](https://zh.wikipedia.org/wiki/座天使 "wikilink")（thronus）。
 
 <!-- end list -->
 
@@ -2180,7 +2187,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    九天使階級中排第三的[座天使](../Page/座天使.md "wikilink")（thronus）。
+    九天使階級中排第三的[座天使](https://zh.wikipedia.org/wiki/座天使 "wikilink")（thronus）。
 
 <!-- end list -->
 
@@ -2290,7 +2297,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :GN粒子束軍刀（GN Beam Saber）x1
     \*簡介：
     :於第一季第25話登場，搭載擬似太陽爐的旗幟式（因此俗稱為「GN旗幟式」）
-    :沒有任何遠戰用武裝，擬似太陽爐輸出之能量僅使用在GN粒子束軍刀（該GN光束軍刀是從[座天使GUNDAM一型奪取的](../Page/GNW-001_座天使GUNDAM一型.md "wikilink")）及非戰鬥時的飛行上，尚未能完全取代傳統能源。
+    :沒有任何遠戰用武裝，擬似太陽爐輸出之能量僅使用在GN粒子束軍刀（該GN光束軍刀是從[座天使GUNDAM一型奪取的](https://zh.wikipedia.org/wiki/GNW-001_座天使GUNDAM一型 "wikilink")）及非戰鬥時的飛行上，尚未能完全取代傳統能源。
     :由於要把擬似太陽爐裝設在機體上，必須把飛行組件移除，所以本機不能變形。
     :值得一提的是，葛拉漢·耶卡要比利·片桐製造本機是要替霍華德·梅森及戴瑞爾·道奇報仇，也是為了在霍華德目前立下的「以旗幟式擊敗鋼彈」的約定。
     :原本本機可以啟動GN力場，但由於部件在匆忙之中製成，所以令GN力場的質素有參差。
@@ -2342,10 +2349,10 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :30mm機槍（30mm Machine Gun）
     :太空型200mmx25口徑滑膛砲（200mmx25 Caliber Smooth-bore Gun(Space Type)）
     \*簡介：
-    :人革聯超兵－索瑪·皮利斯的專用機，塗裝為[粉紅色](../Page/粉紅色.md "wikilink")，可於太空與陸上的使用的兩用機(而不須換裝)。
+    :人革聯超兵－索瑪·皮利斯的專用機，塗裝為[粉紅色](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")，可於太空與陸上的使用的兩用機(而不須換裝)。
     :二肩可動裝甲部與小腿部裝置大型推力偏向推進器，全身各處也裝置了較小型的推進器，擁有高於一般鐵人的機動性。
     :頭部裝備兩台監視器，初登場時由於有測試的性質，仍然使用頭帶式顯示器。
-    :不過由於不能阻隔駕駛員索瑪和高達使者阿雷路亞的[腦量子波](../Page/腦量子波.md "wikilink")，在安全的建議下，於第一季第9話起裝上全方位投影系統及新型（阻隔腦量子波）駕駛員用太空服。
+    :不過由於不能阻隔駕駛員索瑪和高達使者阿雷路亞的[腦量子波](https://zh.wikipedia.org/wiki/腦量子波 "wikilink")，在安全的建議下，於第一季第9話起裝上全方位投影系統及新型（阻隔腦量子波）駕駛員用太空服。
     :本機之操作負擔非常沉重，除超兵外一般駕駛員均被認定是無法駕駛。
     :「Taozi」為「桃子」之中文讀音。
     \*設計者：寺岡賢司
@@ -2378,8 +2385,8 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     \*駕駛員：謝爾蓋·斯米爾諾夫
     \*機體武裝：
     :30mm機槍（30mm Machine Gun）
-    :非太陽爐搭載機用GN粒子束[步槍](../Page/步槍.md "wikilink")（Advanced GN Beam
-    Rifle）
+    :非太陽爐搭載機用GN粒子束[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")（Advanced
+    GN Beam Rifle）
     \*簡介：
     :第二季第16話登場，謝爾蓋·斯米爾諾夫專用鐵人式桃子，塗裝為[藍色](../Page/藍色.md "wikilink")。
     :桃子的一般兵型，也同樣被暱稱成\[桃子\]。二肩可動裝甲部與小腿部裝置大型推力偏向推進器，全身各處也裝置了較小型的推進器，推進系統強化到可以在大氣圈內飛行。
@@ -2509,10 +2516,11 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    [等-{}-離子力場](../Page/等離子.md "wikilink")（Plasma Field）
+    [等-{}-離子力場](https://zh.wikipedia.org/wiki/等離子 "wikilink")（Plasma
+    Field）
     電漿加農砲（Plasma Cannon）
     線性加農砲（Linear Cannon）
-    碳纖維[爪](../Page/爪.md "wikilink")（Carbon Claw）x2
+    碳纖維[爪](https://zh.wikipedia.org/wiki/爪 "wikilink")（Carbon Claw）x2
 
 <!-- end list -->
 
@@ -2531,7 +2539,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     世界各國捲入太陽能戰爭時，AEU軍所開發出來的MA。機體上部與MS合體，從上部的暴徒式駕駛員進行操縱。本機是以輸送與補給作為基本目的所開發。
-    本體內部，有著足以運送兩架可變MS或是一輛氣墊戰車的空間。此外，本體中央部左右的突起處，是電力接收用天線，能夠直接接受發電衛星以[微波形式發出的電力補給](../Page/微波.md "wikilink")。
+    本體內部，有著足以運送兩架可變MS或是一輛氣墊戰車的空間。此外，本體中央部左右的突起處，是電力接收用天線，能夠直接接受發電衛星以[微波形式發出的電力補給](https://zh.wikipedia.org/wiki/微波 "wikilink")。
     除了氣墊式移動之外，也能夠增設多腳組件，發揮機械化步兵的移動前線基地兼壓制據點用MA的機能。多腳組件的前端部分，能夠產生線性力場，獲得與接地部分之間的反作用力，僅靠小面積的接地面就能夠支撐本身重量而不會沉入地面。
     此機體存在有許多種類的衍生版本，「7型」是屬於防禦軌道電梯用的類型，單獨一架也具有強大的戰鬥能力。
     最大的特長，是能在腿部包圍的範圍內發出等離子力場，可以利用此裝置先封住敵機行動，之後再用等離子加農砲來進行攻擊。
@@ -2556,7 +2564,8 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   -
-    [等-{}-離子力場](../Page/等離子.md "wikilink")（Plasma Field）
+    [等-{}-離子力場](https://zh.wikipedia.org/wiki/等離子 "wikilink")（Plasma
+    Field）
 
 <!-- end list -->
 
@@ -2575,15 +2584,15 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     世界各國捲入太陽能戰爭時，AEU軍所開發出來的MA。機體上部與MS合體，從上部的制定式駕駛員進行操縱。本機是以輸送與補給作為基本目的所開發。
-    本體內部，有著足以運送兩架可變MS或是一輛氣墊戰車的空間。此外，本體中央部左右的突起處，是電力接收用天線，能夠直接接受發電衛星以[微波形式發出的電力補給](../Page/微波.md "wikilink")。
+    本體內部，有著足以運送兩架可變MS或是一輛氣墊戰車的空間。此外，本體中央部左右的突起處，是電力接收用天線，能夠直接接受發電衛星以[微波形式發出的電力補給](https://zh.wikipedia.org/wiki/微波 "wikilink")。
     由於攻擊手法非常殘忍而遭國際禁用，不過AEU暗地中使用。
     亞格利莎的體積龐大，足以裝載二台MS，因此也能做為運輸工具。
     表面佈滿能夠改變塗裝色調及迷彩分布的奈米機器。腳部為選配裝備，也可以換成其他裝備。
     13型的多腳組件為六足設計。
     在第一季第14話被交給阿里·亞爾·沙瑟斯，並在第一季第15話以等離子力場攻擊正在撤退的[GN-001
     能天使GUNDAM時被新型](../Page/GN-001_能天使GUNDAM.md "wikilink")[GNW-003
-    座天使GUNDAM三型擊毀](../Page/GNW-003_座天使GUNDAM三型.md "wikilink")，而搭載的[AEU-09Y812/A
-    阿里·亞爾·沙瑟斯專用AEU制定式亞格利莎型則在爆炸前與本機分離](../Page/AEU-09Y812/A_阿里·亞爾·沙瑟斯專用AEU制定式亞格利莎型.md "wikilink")。
+    座天使GUNDAM三型擊毀](https://zh.wikipedia.org/wiki/GNW-003_座天使GUNDAM三型 "wikilink")，而搭載的[AEU-09Y812/A
+    阿里·亞爾·沙瑟斯專用AEU制定式亞格利莎型則在爆炸前與本機分離](https://zh.wikipedia.org/wiki/AEU-09Y812/A_阿里·亞爾·沙瑟斯專用AEU制定式亞格利莎型 "wikilink")。
 
 <!-- end list -->
 
@@ -2621,7 +2630,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     公式外傳「機動戰士GUNDAM
     00V」中登場，首先搭載「Tau（希臘字母T）」型GN-Drive之機體，也是三台座天使鋼彈的後繼機及厄運式的原型試作機，駕駛倉由胸前改至腰前。
     上下共四根明顯突出物為GN粒子生成裝置之一部分，可使不熟悉利用GN粒子做為動力的機體的駕駛員能夠在空戰時更容易駕馭機體。
-    「Varanus」取自[阿拉伯文的](../Page/阿拉伯文.md "wikilink")「」，意思為監控。
+    「Varanus」取自[阿拉伯文的](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")「」，意思為監控。
 
 <!-- end list -->
 
@@ -2646,7 +2655,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :本機顧慮到可能會由不熟悉太陽爐的駕駛員所操控，因此在頭部搭載了「子控制系統（sub-control
     system）」，因此厄運式的頭部有兩組主攝影機、四隻眼以輔助迴避、瞄準等基本操作。操作系統也為配合各駕駛員而施加了特化改造，能以近似舊機體的操作方式進行操縱。因此雖然厄運式的性能仍遜於天上人的GUNDAM，但仍能與GUNDAM戰得不分高下。
     :打敗天上人的4年之後，在地球聯邦成立之時，軍方仍繼續使用不斷改良的厄運式。
-    :「-{GN-X}-」唸作「Jinx」，意思為[厄運](../Page/厄運.md "wikilink")。
+    :「-{GN-X}-」唸作「Jinx」，意思為[厄運](https://zh.wikipedia.org/wiki/厄運 "wikilink")。
 
 <!-- end list -->
 
@@ -2700,7 +2709,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :GN爪（GN Claw）x2
     \*簡介：
     :厄運式Ⅱ型之近戰特化型，與[GNW-002
-    座天使GUNDAM二型同樣擁有巨型GN實體劍](../Page/GNW-002_座天使GUNDAM二型.md "wikilink")，GN巨劍可產生GN力場，攻擊能力也有所提高，通過增強GN力場能當作盾牌使用。
+    座天使GUNDAM二型同樣擁有巨型GN實體劍](https://zh.wikipedia.org/wiki/GNW-002_座天使GUNDAM二型 "wikilink")，GN巨劍可產生GN力場，攻擊能力也有所提高，通過增強GN力場能當作盾牌使用。
     :其裝備的GN巨劍，經天上人技師伊恩改造後成為後來七劍型00GUNDAM的GN破壞巨劍Ⅱ型。
     \*設計者：海老川兼武
 
@@ -2818,7 +2827,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 <!-- end list -->
 
   - [GNMS-XCVII
-    阿爾瓦亞隆](../Page/GNMA-XCVII_阿爾瓦特雷#變化型.md "wikilink")（Alvaaron）
+    阿爾瓦亞隆](https://zh.wikipedia.org/wiki/GNMA-XCVII_阿爾瓦特雷#變化型 "wikilink")（Alvaaron）
 
 <!-- end list -->
 
@@ -2928,7 +2937,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :GN盾牌（GN Shield）
     \*簡介：
     :先驅式之特化型試作機之一，屬近戰用機體。
-    :外觀與武裝參考古代[日本武士](../Page/日本武士.md "wikilink")，為喜愛近戰用的武士道先生（葛拉漢·耶卡）所專用的先驅式。
+    :外觀與武裝參考古代[日本武士](https://zh.wikipedia.org/wiki/日本武士 "wikilink")，為喜愛近戰用的武士道先生（葛拉漢·耶卡）所專用的先驅式。
     :頭部後方伸出之電纜可供應能量予追加裝備。
     :「Sakigake」來自日本漢字「先驅」。
     \*設計者：寺岡賢司
@@ -2952,7 +2961,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     :火箭推進器組件（Thruster Unit）
     \*簡介：
     :先驅式之特化型試作機之一，屬高機動性機體。
-    :以對應可使用[腦量子波的駕駛員為前提](../Page/腦量子波.md "wikilink")，機體之操作及裝備均可由腦量子波控制。
+    :以對應可使用[腦量子波的駕駛員為前提](https://zh.wikipedia.org/wiki/腦量子波 "wikilink")，機體之操作及裝備均可由腦量子波控制。
     :本機在索瑪·皮利斯離開A-Laws後交由露意絲·哈利維駕駛。
     :背部火箭推進器組件可作360角度旋轉以改變運動性能，偽裝迷彩力場能偽裝成附近物體以欺騙雷達及光學掃瞄。
     :「Smultron」來自瑞典語「野草莓」，含有「理想的地方」之意。
@@ -3010,7 +3019,8 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
 <!-- end list -->
 
-  - [GNX-U02X 豪傑式](../Page/GNX-U02X_豪傑式.md "wikilink")（Masurao）
+  - [GNX-U02X
+    豪傑式](https://zh.wikipedia.org/wiki/GNX-U02X_豪傑式 "wikilink")（Masurao）
 
 <!-- end list -->
 
@@ -3038,12 +3048,12 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
 <!-- end list -->
 
-  - 設計者：[福地仁](../Page/福地仁.md "wikilink")
+  - 設計者：[福地仁](https://zh.wikipedia.org/wiki/福地仁 "wikilink")
 
 <!-- end list -->
 
   - ;[GNX-Y901TW
-    須佐之男](../Page/GNX-Y901TW_須佐之男.md "wikilink")（Susanowo）
+    須佐之男](https://zh.wikipedia.org/wiki/GNX-Y901TW_須佐之男 "wikilink")（Susanowo）
     \*類型：高速格鬥型MS
     \*駕駛員：武士道先生（葛拉漢·耶卡）
 
@@ -3076,17 +3086,22 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     \*類型：標準型MS
     \*駕駛員：太陽勇者隊成員
     \*機體武裝：
-    :GN粒子束[步槍](../Page/步槍.md "wikilink")（GN Beam Rifle）
-    :GN粒子束[機槍](../Page/機槍.md "wikilink")（GN Beam Machinegun）x2
+    :GN粒子束[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")（GN Beam
+    Rifle）
+    :GN粒子束[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")（GN Beam
+    Machinegun）x2
     :GN加農砲（GN Cannon）x2
-    :GN粒子束[軍刀](../Page/軍刀.md "wikilink")（GN Beam Saber）x2
-    :GN[導彈](../Page/導彈.md "wikilink")（GN Missile）x2
-    :30mm[機槍](../Page/機槍.md "wikilink")（30mm Machinegun）x2
+    :GN粒子束[軍刀](https://zh.wikipedia.org/wiki/軍刀 "wikilink")（GN Beam
+    Saber）x2
+    :GN[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")（GN Missile）x2
+    :30mm[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")（30mm
+    Machinegun）x2
     :三連舍娑曩喃（Tri Punisher）
-    :輪刃[手榴彈](../Page/手榴彈.md "wikilink")（Chakram Grenade）
+    :輪刃[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")（Chakram
+    Grenade）
     \*簡介：
     :於『劇場版』中登場，由[GNX-U02X
-    豪傑式所發展的地球聯邦軍次期主力候補機之一](../Page/GNX-U02X_豪傑式.md "wikilink")，以原屬Union及AEU的技術人員為中心所開發的機體。
+    豪傑式所發展的地球聯邦軍次期主力候補機之一](https://zh.wikipedia.org/wiki/GNX-U02X_豪傑式 "wikilink")，以原屬Union及AEU的技術人員為中心所開發的機體。
     :外觀、變型機構及武裝皆承襲了兩大陣營機體（旗幟式及制定式）之特徵（繼承了旗幟式的變形機構，制定式的綠色塗裝以及兩機的駕駛艙）。
     :目前配備了6架（其中一架為指揮官用試驗機）於太陽勇者隊中進行實際運用的性能驗證。
     :由於太陽勇者隊在[火星戰線的表現以及在同時所驗證得到的長距離快速反應能力](../Page/火星.md "wikilink")，使得該6架機體於對ELS的最終防衛戰中被編入了實戰部隊，而在同時機體的開發用型式編號中也去除了代表為試作機體的「Y」，成為了GNX-903VS與GNX-903VW\[47\]。
@@ -3100,19 +3115,24 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     \*類型：指揮官用MS
     \*駕駛員：葛拉漢·耶卡
     \*機體武裝：
-    :GN粒子束[步槍](../Page/步槍.md "wikilink")（GN Beam Rifle）
-    :GN粒子束[機槍](../Page/機槍.md "wikilink")（GN Beam Machinegun）×2
+    :GN粒子束[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")（GN Beam
+    Rifle）
+    :GN粒子束[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")（GN Beam
+    Machinegun）×2
     :GN加農砲（GN Cannon）×2
-    :GN粒子束[軍刀](../Page/軍刀.md "wikilink")（GN Beam Saber）×2
-    :GN[導彈](../Page/導彈.md "wikilink")（GN Missile）×2
-    :30mm[機槍](../Page/機槍.md "wikilink")（30mm Machinegun）×2
+    :GN粒子束[軍刀](https://zh.wikipedia.org/wiki/軍刀 "wikilink")（GN Beam
+    Saber）×2
+    :GN[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")（GN Missile）×2
+    :30mm[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")（30mm
+    Machinegun）×2
     :三連舍娑曩喃（Tri Punisher）
-    :輪刃[手榴彈](../Page/手榴彈.md "wikilink")（Chakram Grenade）
+    :輪刃[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")（Chakram
+    Grenade）
     \*簡介：
     :為指揮官用的上位機種，搭載兩具擬似太陽爐（分別置於左右平衡推進翼上），為一般駕駛員難以駕馭的高出力機體。
-    :頭部有著與一般試驗用機相異的左右對稱型大型[天線以及與旗幟式相似的感測素子](../Page/天線.md "wikilink")。
+    :頭部有著與一般試驗用機相異的左右對稱型大型[天線以及與旗幟式相似的感測素子](https://zh.wikipedia.org/wiki/天線 "wikilink")。
     :由於在太陽勇者隊中僅有葛拉漢·耶卡搭乘，本機在實質上為其專用機，而[武器皆為左腕所持](../Page/武器.md "wikilink")（皆因為葛拉漢·耶卡為[左撇子](../Page/利手.md "wikilink")）。
-    :在於ELS的最終決戰中，葛拉漢·耶卡以在Trans-AM狀態時讓擬似太陽爐超載的方式對超大型ELS進行了[特攻](../Page/特攻.md "wikilink")，壯烈犧牲（在之後的設定中，葛拉漢因為和ELS融合而得以生還）。
+    :在於ELS的最終決戰中，葛拉漢·耶卡以在Trans-AM狀態時讓擬似太陽爐超載的方式對超大型ELS進行了[特攻](https://zh.wikipedia.org/wiki/特攻 "wikilink")，壯烈犧牲（在之後的設定中，葛拉漢因為和ELS融合而得以生還）。
 
 <!-- end list -->
 
@@ -3137,9 +3157,9 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     劇場版結尾2364年時外太空航行船「皇」所搭載的量產型機體，為地球聯邦所開發的[GUNDAM型MS](../Page/GUNDAM.md "wikilink")。
-    以太空探查用為前提設計所以沒有武裝，同時配色以GUNDAM的紅藍白為主，此外設計思想與[工程機器人類似](../Page/工程機器人.md "wikilink")，因此有很多衍生機種(例如擬似太陽爐型，ELS型，人類型和GN電容器型等)。
+    以太空探查用為前提設計所以沒有武裝，同時配色以GUNDAM的紅藍白為主，此外設計思想與[工程機器人類似](https://zh.wikipedia.org/wiki/工程機器人 "wikilink")，因此有很多衍生機種(例如擬似太陽爐型，ELS型，人類型和GN電容器型等)。
     僅有搭載原型太陽爐型機體擁有進行量子跳躍的機能，能像量子型00一樣進行[行星間的跳躍](../Page/行星.md "wikilink")。
-    原型太陽爐和擬似太陽爐的設計資料及製造雖已交給了民間，但原型太陽爐依舊是稀少且貴重的動力源，而擬似太陽爐也受到了相當程度的管理，絕大多數的機體皆是使用具有便利性的[GN電容器作為動力來源](../Page/GN電容器.md "wikilink")(頭部內藏的ELS同時被去除)，但不能像撘載了原型太陽爐的前兆式一樣進行[行星間的跳躍](../Page/行星.md "wikilink")。
+    原型太陽爐和擬似太陽爐的設計資料及製造雖已交給了民間，但原型太陽爐依舊是稀少且貴重的動力源，而擬似太陽爐也受到了相當程度的管理，絕大多數的機體皆是使用具有便利性的[GN電容器作為動力來源](https://zh.wikipedia.org/wiki/GN電容器 "wikilink")(頭部內藏的ELS同時被去除)，但不能像撘載了原型太陽爐的前兆式一樣進行[行星間的跳躍](../Page/行星.md "wikilink")。
     機體有著頭部可內藏ELS的特別規格，可讓機體由人類和ELS共同協力操作，同時尚存在著由人類或ELS單獨操作的規格。
 
 <!-- end list -->
@@ -3161,7 +3181,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
   -
     搭載7個擬似太陽爐的大型MA，機身以金色為主，釋放出的GN粒子顏色為紅色，第一季第24話首次出擊。
     GN粒子束砲火力足以一擊重創天上人母艦托勒密號及鋼殫，GN力場防禦力足以抵擋突襲用貨櫃之炮擊，巨型手臂可應對近身格鬥戰（甚至能和[GNR-001E
-    GN裝甲模組E型的GN爪抗衡](../Page/GNR-001E_GN裝甲模組E型.md "wikilink")）。
+    GN裝甲模組E型的GN爪抗衡](https://zh.wikipedia.org/wiki/GNR-001E_GN裝甲模組E型 "wikilink")）。
     位於前方的兩門GN粒子束步槍為隱藏MS－GNMS-XCVII阿爾瓦亞隆所用。
 
 <!-- end list -->
@@ -3235,7 +3255,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
     考慮到將來會有更多的變革者成為戰力，機體上搭載了多種實驗性質的裝備\[50\]\[51\]，但因目前地球聯邦軍之中僅發現笛卡兒·雪曼一位變革者，此MA在實質上為其專用機\[52\]。
     動力源為直列型太陽爐兩組（每組各有三具擬似太陽爐），內藏於機身內部的預備用擬似太陽爐一具及在大型GN獠牙所藏的14枚擬似太陽爐，總共有21枚擬似太陽爐，在MA中擁有最多擬似太陽爐。
     大型GN獠牙具有一般MS的尺寸，各自搭載一具擬似太陽爐及10枚小型GN獠牙\[53\]，在運用上的規模等同於六台勇者式與一艘母艦\[54\]。
-    所有獠牙共154個都能對笛卡兒·雪曼有雙向反應，是指獠牙和加迪拉薩機身中裝設的[腦量子波同諧系統](../Page/腦量子波同諧系統.md "wikilink")(Quantum
+    所有獠牙共154個都能對笛卡兒·雪曼有雙向反應，是指獠牙和加迪拉薩機身中裝設的[腦量子波同諧系統](https://zh.wikipedia.org/wiki/腦量子波同諧系統 "wikilink")(Quantum
     Brainwaves Synchronizing System)與笛卡兒·雪曼之間連結的影響。
     在對ELS之戰中地球聯邦以此機及駕駛員的腦量子波作為誘餌攻擊ELS時被侵蝕同化，駕駛員笛卡兒·雪曼陣亡。
     於『00I 2314』的尾聲中有2架隸屬於舊人類軍的同型機體登場。
@@ -3416,7 +3436,7 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     地球聯邦軍在2364年所使用的大型外太空航行船，以天上人指揮官皇·李·諾瑞加命名。
-    以太空探查用為前提設計所以沒有武裝，同時配色以高達的[紅色和](../Page/紅色.md "wikilink")[白色為主](../Page/白色.md "wikilink")。
+    以太空探查用為前提設計所以沒有武裝，同時配色以高達的[紅色和](https://zh.wikipedia.org/wiki/紅色 "wikilink")[白色為主](../Page/白色.md "wikilink")。
     擁有進行量子跳躍的機能，能像量子型00和前兆式一樣進行[行星間的跳躍](../Page/行星.md "wikilink")。
 
 <!-- end list -->
@@ -3482,8 +3502,8 @@ GN武裝戰機均內藏GN容器（GN Condenser）於機體，容器大小及位�
 
   -
     A-Laws使用的對人戰用無人兵器，由先驅式的集裝箱搭載由駕駛員操控。
-    能以四腳走動或以腳部之輪子滑行，並擁有耐[手槍](../Page/手槍.md "wikilink")[子彈的裝甲](../Page/子彈.md "wikilink")，但無法抵禦炸弹、步槍及MS的攻擊。
-    腳部能變成[插頭並能進行快速](../Page/插頭.md "wikilink")[電腦入侵行動](../Page/電子計算機.md "wikilink")。
+    能以四腳走動或以腳部之輪子滑行，並擁有耐[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈的裝甲](../Page/子彈.md "wikilink")，但無法抵禦炸弹、步槍及MS的攻擊。
+    腳部能變成[插頭並能進行快速](https://zh.wikipedia.org/wiki/插頭 "wikilink")[電腦入侵行動](../Page/電子計算機.md "wikilink")。
     每台先驅式可攜帶一個自動機械人收納艙，而每個收納艙能容納12台自動機械人。
     A-Laws解散後，此兵器被改成作業用機械人，並由原來的黑色變成黃色。
 
@@ -3533,7 +3553,8 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 變革者由於擁有Veda支援，能夠獲得Veda在2307年後提供的新GN技術，令GNZ系機體擁有壓倒天人自行研發的新世代GUNDAM的戰鬥力，即使是擁有「伊歐利亞的遺產」的[GN-0000
 00 GUNDAM亦能戰得勢均力敵](../Page/GN-0000_00_GUNDAM.md "wikilink")。
 
-  - [GNZ-001 鎮魂犬GUNDAM](../Page/GNZ-001_鎮魂犬GUNDAM.md "wikilink")（GRM
+  - [GNZ-001
+    鎮魂犬GUNDAM](https://zh.wikipedia.org/wiki/GNZ-001_鎮魂犬GUNDAM "wikilink")（GRM
     Gundam）
 
 <!-- end list -->
@@ -3583,7 +3604,7 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
     Gadessa）帶過，詳細設定發表於外傳00V第18回。鎮魂犬GUNDAM於00I第12集為利傑尼·瑞傑塔的MS登場，在00I
     2314已成為天使所用的3台GUNDAM之一(在軌道電梯使用)，由尼奧·吉克（前人革聯軍超兵李奧納多·范恩斯）駕駛。
     GRM（全稱為「Generation of Reborn
-    MS」）讀作「Garm」，是北歐神話中出現的地獄巨犬[加姆](../Page/加姆.md "wikilink")。
+    MS」）讀作「Garm」，是北歐神話中出現的地獄巨犬[加姆](https://zh.wikipedia.org/wiki/加姆 "wikilink")。
 
 <!-- end list -->
 
@@ -3611,7 +3632,8 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
 <!-- end list -->
 
-  - [GNZ-003 加迪薩](../Page/GNZ-003_加迪薩.md "wikilink")（Gadessa）
+  - [GNZ-003
+    加迪薩](https://zh.wikipedia.org/wiki/GNZ-003_加迪薩 "wikilink")（Gadessa）
 
 <!-- end list -->
 
@@ -3627,7 +3649,8 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
 <!-- end list -->
 
-  - [GNZ-004 加格](../Page/GNZ-004_加格.md "wikilink")（Gaga）
+  - [GNZ-004
+    加格](https://zh.wikipedia.org/wiki/GNZ-004_加格 "wikilink")（Gaga）
 
 <!-- end list -->
 
@@ -3653,7 +3676,8 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
 <!-- end list -->
 
-  - [GNZ-005 加萊佐](../Page/GNZ-005_加萊佐.md "wikilink")（Garazzo）
+  - [GNZ-005
+    加萊佐](https://zh.wikipedia.org/wiki/GNZ-005_加萊佐 "wikilink")（Garazzo）
 
 <!-- end list -->
 
@@ -3669,7 +3693,8 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
 <!-- end list -->
 
-  - [GNZ-007 加迪斯](../Page/GNZ-007_加迪斯.md "wikilink")\[58\]（Gaddess）
+  - [GNZ-007
+    加迪斯](https://zh.wikipedia.org/wiki/GNZ-007_加迪斯 "wikilink")\[58\]（Gaddess）
 
 <!-- end list -->
 
@@ -3686,7 +3711,7 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 ### MS
 
   - [GNW-20000
-    權天使GUNDAM](../Page/GNW-20000_權天使GUNDAM.md "wikilink")（Arche
+    權天使GUNDAM](https://zh.wikipedia.org/wiki/GNW-20000_權天使GUNDAM "wikilink")（Arche
     Gundam）
 
 <!-- end list -->
@@ -3748,12 +3773,12 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
     此模式偏重强化遠距離射擊能力，擅長遠距離攻擊。
     使用了[GN-005
     德天使GUNDAM的設計資料](../Page/GN-005_德天使GUNDAM.md "wikilink")。頭部的内置感應器採用[GNX-607T/BW
-    厄運式Ⅱ砲擊戰型的感應器](../Page/GNX-607T/BW_厄運式Ⅱ砲擊戰型.md "wikilink")。
+    厄運式Ⅱ砲擊戰型的感應器](https://zh.wikipedia.org/wiki/GNX-607T/BW_厄運式Ⅱ砲擊戰型 "wikilink")。
     駕駛員為里朋斯·阿爾馬克。
     使用在天上人超級電腦Veda內累積的MS技術製作的機體，一面為擅長遠距離攻擊的加農型態，另一面為擅長近距離纏鬥戰的GUNDAM型態。基礎設計在相當早的階段就已完成，把鋼彈，GN加農及坦克模式結合成單一可變型專用MS，但自變革者成員艾紐·利特納從天上人母艦CBS-74托勒密號Ⅱ型盜取了雙動力系統（Twin
     Drive
     System）的資料後，坦克模式被廢除且把GUNDAM模式背上的單一GN-Drive改為兩顆並分別裝在左右手肘部，從而成為了現在的形式。機能、性能，或是武裝都無可挑剔，可說是繼承直到目前為止所有GUNDAM的全部特徵的完美機體。由於技術的革新，原版GN-Drive與τ型的性能差異，大體上已經不再存在。本機可切換與Veda的連結，因此能不受審判領域影響。
-    第二季第24話時，以再生加農形態登場，擊墜正在使用審判系統的[天使長GUNDAM](../Page/天使長GUNDAM.md "wikilink")。第二季第25話時，以再生GUNDAM形態與00強化模組展開最終決鬥，右腿及右前臂被相繼破壞，雙方啟動Trans-AM系統後機體背部被斬破，同時把00強化模組左臂斬落並把其原版GN-Drive奪去，但機體也因嚴重受損而不得不拋棄。
+    第二季第24話時，以再生加農形態登場，擊墜正在使用審判系統的[天使長GUNDAM](https://zh.wikipedia.org/wiki/天使長GUNDAM "wikilink")。第二季第25話時，以再生GUNDAM形態與00強化模組展開最終決鬥，右腿及右前臂被相繼破壞，雙方啟動Trans-AM系統後機體背部被斬破，同時把00強化模組左臂斬落並把其原版GN-Drive奪去，但機體也因嚴重受損而不得不拋棄。
 
 <!-- end list -->
 
@@ -3782,7 +3807,7 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
   -
     再生GUNDAM－GUNDAM模式原型機，也是[GN-000 0
-    鋼彈的後繼機](../Page/O鋼彈.md "wikilink")，昰以準變革者做為鋼彈尖兵為前題，而專為準變革者打造的專用機。外觀與能天使GUNDAM相近。本機仍未獲得雙重動力系統技術，因此只在背上搭載一個GN-Drive。兩把GN粒子束軍刀位於左右手肘部的GN容器裡。
+    鋼彈的後繼機](https://zh.wikipedia.org/wiki/O鋼彈 "wikilink")，昰以準變革者做為鋼彈尖兵為前題，而專為準變革者打造的專用機。外觀與能天使GUNDAM相近。本機仍未獲得雙重動力系統技術，因此只在背上搭載一個GN-Drive。兩把GN粒子束軍刀位於左右手肘部的GN容器裡。
     本機名稱中的「1」讀作「ai（）」。
 
 <!-- end list -->
@@ -3829,7 +3854,7 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
     :在里朋斯·阿爾馬克的想法下，所有倖存的變革者都駕駛1.5GUNDAM黑暗型作加格部隊的指揮官機之用，自己則駕駛再生GUNDAM作戰。
     :但由於里朋斯正在進行CB-0000G/C 再生鋼彈(Reborn鋼彈)的雙重動力測試再加上里朋斯決定將GNZ-004
     加格成為主力量產令[CBS
-    天上人號的MS工廠已沒有多餘空間進行](../Page/CBS_天上人號.md "wikilink")1.5GUNDAM黑暗型的量產，此計劃只好作罷。
+    天上人號的MS工廠已沒有多餘空間進行](https://zh.wikipedia.org/wiki/CBS_天上人號 "wikilink")1.5GUNDAM黑暗型的量產，此計劃只好作罷。
     :本機名稱中的「1.5」讀作「ais（）」。
 
 <!-- end list -->
@@ -4286,7 +4311,7 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 
   -
     托勒密上所撘載的小型機械人。
-    有由[哈囉駕駛或](../Page/哈囉.md "wikilink")[無人駕駛兩種模式](../Page/無人駕駛.md "wikilink")。
+    有由[哈囉駕駛或](https://zh.wikipedia.org/wiki/哈囉 "wikilink")[無人駕駛兩種模式](https://zh.wikipedia.org/wiki/無人駕駛 "wikilink")。
     用來協助維修托勒密及整備四部鋼彈。
 
 ## 參考資料
@@ -4294,11 +4319,14 @@ Unit）作長距離移動之用，機體大小則以配合地球聯邦基地或�
 ## 相關條目
 
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")
-  - [機動戰士GUNDAM 00角色列表](../Page/機動戰士GUNDAM_00角色列表.md "wikilink")
   - [機動戰士GUNDAM
-    00登場國家及組織列表](../Page/機動戰士GUNDAM_00登場國家及組織列表.md "wikilink")
-  - [機動戰士GUNDAM 00用語列表](../Page/機動戰士GUNDAM_00用語列表.md "wikilink")
-  - [機動戰士GUNDAM 00專輯列表](../Page/機動戰士GUNDAM_00專輯列表.md "wikilink")
+    00角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00角色列表 "wikilink")
+  - [機動戰士GUNDAM
+    00登場國家及組織列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表 "wikilink")
+  - [機動戰士GUNDAM
+    00用語列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00用語列表 "wikilink")
+  - [機動戰士GUNDAM
+    00專輯列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00專輯列表 "wikilink")
 
 [Category:GUNDAM_00](https://zh.wikipedia.org/wiki/Category:GUNDAM_00 "wikilink")
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

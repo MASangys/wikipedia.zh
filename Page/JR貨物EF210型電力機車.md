@@ -1,9 +1,9 @@
-**EF210型電力機車**，是供[日本貨物鐵道](../Page/日本貨物鐵道.md "wikilink")(JR貨物)使用的[交流傳動六軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[直流電化區段](../Page/直流電.md "wikilink")，這款機車的暱稱為「ECO-POWER
+**EF210型電力機車**，是供[日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")(JR貨物)使用的[交流傳動六軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[直流電化區段](../Page/直流電.md "wikilink")，這款機車的暱稱為「ECO-POWER
 [桃太郎](../Page/桃太郎.md "wikilink")」。
 
 ## 概要
 
-這款機車由[川崎重工業及](../Page/川崎重工業.md "wikilink")[三菱電機負責製造](../Page/三菱電機.md "wikilink")，用作取代車齡漸高的[EF65型電力機車](../Page/日本國鐵EF65型電力機車.md "wikilink")，首台試製車（EF210-901）於1996年3月由川崎廠房下線，1998年開始量產，編號由1開始。全數早期版本的EF210均使用雙臂PS22D型[集電弓](../Page/集電弓.md "wikilink")，牽引逆變器使用[GTO元件](../Page/可關斷晶閘管.md "wikilink")。
+這款機車由[川崎重工業及](../Page/川崎重工業.md "wikilink")[三菱電機負責製造](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")，用作取代車齡漸高的[EF65型電力機車](../Page/日本國鐵EF65型電力機車.md "wikilink")，首台試製車（EF210-901）於1996年3月由川崎廠房下線，1998年開始量產，編號由1開始。全數早期版本的EF210均使用雙臂PS22D型[集電弓](../Page/集電弓.md "wikilink")，牽引逆變器使用[GTO元件](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")。
 
 至2000年推出改良版本，編號由101開始。新車的牽引變流裝置使用[IGBT模塊](../Page/絕緣柵雙極晶體管.md "wikilink")。另外自109號及其後出廠的新車均改用了單臂FPS-4型集電弓。
 

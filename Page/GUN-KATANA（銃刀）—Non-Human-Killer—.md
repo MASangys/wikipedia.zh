@@ -1,5 +1,5 @@
 《**GUN-KATANA（銃刀）―Non-Human-Killer―**》是[Black
-Cyc開發並於](../Page/Cyc_\(公司\).md "wikilink")2007年8月31日發售的[十八禁](../Page/十八禁遊戲.md "wikilink")[冒險遊戲及](../Page/冒險遊戲.md "wikilink")[第一人稱射擊遊戲](../Page/第一人稱射擊遊戲.md "wikilink")，是十八禁遊戲史上第一套真正的第一人稱射擊遊戲\[1\]。
+Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年8月31日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲及](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是十八禁遊戲史上第一套真正的第一人稱射擊遊戲\[1\]。
 
 ## 故事簡介
 
@@ -29,7 +29,7 @@ Cyc開發並於](../Page/Cyc_\(公司\).md "wikilink")2007年8月31日發售的[
   -
     絕對服從上級命令的典型軍人，從Justine年少時一直看顧她到現在。
 
-  - DP（聲：[奇怪星人](../Page/奇怪星人.md "wikilink")）
+  - DP（聲：[奇怪星人](https://zh.wikipedia.org/wiki/奇怪星人 "wikilink")）
 
 #### GoI日本支部
 
@@ -65,7 +65,7 @@ Cyc開發並於](../Page/Cyc_\(公司\).md "wikilink")2007年8月31日發售的[
   -
     戰鬥能力非常高的Non-Human，把Anes當作戀人。
   -
-    [女裝少年](../Page/女裝.md "wikilink")，不滿Beatrice。
+    [女裝少年](https://zh.wikipedia.org/wiki/女裝 "wikilink")，不滿Beatrice。
   -
     混入私立百合杏女學園當教師的Non-Human，擅長操縱屍體。
   -
@@ -89,7 +89,7 @@ Cyc開發並於](../Page/Cyc_\(公司\).md "wikilink")2007年8月31日發售的[
 ## 用語及設定
 
   - Non-Human
-    於20世紀末突然出現的生命體，平時的外貌和人類沒有差別，但身體能力、各種感官（包括[第六感](../Page/第六感.md "wikilink")）也比人類強，身體於十至二十歲左右急速減慢生長，現時最年長的第一代已接近300歲。
+    於20世紀末突然出現的生命體，平時的外貌和人類沒有差別，但身體能力、各種感官（包括[第六感](https://zh.wikipedia.org/wiki/第六感 "wikilink")）也比人類強，身體於十至二十歲左右急速減慢生長，現時最年長的第一代已接近300歲。
 
   - Slayer
     殺戮Non-Human的人或部隊，一般分為「FR Slayer」、「傭兵Slayer」和正式部隊「Saints」。
@@ -118,7 +118,7 @@ Cyc開發並於](../Page/Cyc_\(公司\).md "wikilink")2007年8月31日發售的[
     Slayer的價值和權利，可用於換取生活必需品和戰鬥裝備品。「七賢人」和部分GoI高層人員可以隨意改變數值，或除去殺戮計數器本身。
 
   -
-    由馬渕昇平製造的[超能力少女集團](../Page/超能力.md "wikilink")。超能力的力量來自[性興奮](../Page/性興奮.md "wikilink")。
+    由馬渕昇平製造的[超能力少女集團](../Page/超能力.md "wikilink")。超能力的力量來自[性興奮](https://zh.wikipedia.org/wiki/性興奮 "wikilink")。
 
   -
 

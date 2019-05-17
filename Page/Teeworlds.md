@@ -1,10 +1,10 @@
-**Teeworlds**是一个快节奏横向卷轴[多人](../Page/多人游戏.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。具有卡通化的画面和物理引擎、来自经典游戏的武器系统，操控受到[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")、动作游戏特别是[雷神之锤系列启发](../Page/雷神之锤系列.md "wikilink")。0.4.0开始名字从
+**Teeworlds**是一个快节奏横向卷轴[多人](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。具有卡通化的画面和物理引擎、来自经典游戏的武器系统，操控受到[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")、动作游戏特别是[雷神之锤系列启发](../Page/雷神之锤系列.md "wikilink")。0.4.0开始名字从
 **Teewars** 改为 **Teeworlds**，开发者引用了严重的法律问题。\[1\]
 
 支持[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")。2007年12月，源代码被[Linux众多发行版中的](../Page/Linux.md "wikilink")[Debian认可并开源协议放出](../Page/Debian.md "wikilink")。产生了大量[MOD](../Page/MOD.md "wikilink")。
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。2007年12月，源代码被[Linux众多发行版中的](../Page/Linux.md "wikilink")[Debian认可并开源协议放出](../Page/Debian.md "wikilink")。产生了大量[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")。
 
 ## 游戏
 
@@ -12,9 +12,9 @@ Teeworlds使用FPS风格的各种游戏设置，包括键位和移动和武器�
 
 ## 模式
 
-Teeworlds支持[死亡竞赛](../Page/死亡竞赛.md "wikilink")，[团队死亡竞赛](../Page/团队死亡竞赛.md "wikilink"),[夺取旗帜](../Page/夺取旗帜.md "wikilink")。一个非官方的模式是竞速模式，隐藏的旗帜使得只有别的团队能得分。第一个接触可见旗帜的团队获胜。
+Teeworlds支持[死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink")，[团队死亡竞赛](https://zh.wikipedia.org/wiki/团队死亡竞赛 "wikilink"),[夺取旗帜](https://zh.wikipedia.org/wiki/夺取旗帜 "wikilink")。一个非官方的模式是竞速模式，隐藏的旗帜使得只有别的团队能得分。第一个接触可见旗帜的团队获胜。
 
-官方模式:DM[死亡竞赛](../Page/死亡竞赛.md "wikilink").TDM[团队死亡竞赛](../Page/团队死亡竞赛.md "wikilink").CTF[夺取旗帜](../Page/夺取旗帜.md "wikilink")
+官方模式:DM[死亡竞赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink").TDM[团队死亡竞赛](https://zh.wikipedia.org/wiki/团队死亡竞赛 "wikilink").CTF[夺取旗帜](https://zh.wikipedia.org/wiki/夺取旗帜 "wikilink")
 
 非官方模式
 
@@ -40,7 +40,7 @@ War:玩家开局可在聊天框输入/healer,/soldier或/wizard
 
   - [Liero](../Page/Liero.md "wikilink")
   - [Soldat](../Page/Soldat.md "wikilink")
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

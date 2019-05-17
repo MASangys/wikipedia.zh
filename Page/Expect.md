@@ -1,4 +1,4 @@
-**Expect**是[Unix系统中用来进行自动化控制和测试的软件工具](../Page/Unix.md "wikilink")，由制作，作为[Tcl脚本语言的一个扩展](../Page/Tcl.md "wikilink")，应用在交互式[软件中如](../Page/软件.md "wikilink")[telnet](../Page/telnet.md "wikilink")，[ftp](../Page/文件传输协议.md "wikilink")，[Passwd](../Page/Passwd.md "wikilink")，，，，[ssh等等](../Page/Secure_Shell.md "wikilink")。该工具利用Unix伪终端包装其子进程，允许任意程序通过终端接入进行自动化控制；也可利用[Tk工具](../Page/Tk.md "wikilink")，将交互程序包装在[X11的](../Page/X11.md "wikilink")[图形用户界面中](../Page/图形用户界面.md "wikilink")。
+**Expect**是[Unix系统中用来进行自动化控制和测试的软件工具](https://zh.wikipedia.org/wiki/Unix "wikilink")，由制作，作为[Tcl脚本语言的一个扩展](../Page/Tcl.md "wikilink")，应用在交互式[软件中如](../Page/软件.md "wikilink")[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")，[ftp](../Page/文件传输协议.md "wikilink")，[Passwd](https://zh.wikipedia.org/wiki/Passwd "wikilink")，，，，[ssh等等](../Page/Secure_Shell.md "wikilink")。该工具利用Unix伪终端包装其子进程，允许任意程序通过终端接入进行自动化控制；也可利用[Tk工具](../Page/Tk.md "wikilink")，将交互程序包装在[X11的](https://zh.wikipedia.org/wiki/X11 "wikilink")[图形用户界面中](../Page/图形用户界面.md "wikilink")。
 
 ## 基本介绍
 
@@ -61,7 +61,7 @@ Expect主要应用涉及商用软件产品。很多这类的产品都会提供�
 中。这允许脚本收集这些信息给用户以相应的反馈，同时也允许根据当前情况**发送**相对应的指令。
 
 Expect通常用来建立一组[测试套件](../Page/测试套件.md "wikilink")，可以用在程序、组件或者嵌入式系统中。就是利用Expect写成的一组测试套件。它被大量地应用于测试
-[gcc](../Page/gcc.md "wikilink")，对于远程目标的测试例如嵌入式开发也是非常合适的。
+[gcc](https://zh.wikipedia.org/wiki/gcc "wikilink")，对于远程目标的测试例如嵌入式开发也是非常合适的。
 
 你可以利用一种叫作"autoexpect"的工具，自动生成expect脚本。这个工具观测你的操作，并利用启发性知识生成expect脚本。尽管生成的代码可能会很长，含义上有点模糊，你可以修改生成的脚本使它成为你需要的代码。
 
@@ -69,7 +69,7 @@ Expect通常用来建立一组[测试套件](../Page/测试套件.md "wikilink")
 
 ### 利
 
-Expect可通过[cron封装系统管理任务](../Page/cron.md "wikilink")，在规定的时期运行。能够这样做是因为Expect仅仅使用已经安装在主机中的系统管理工具，不需要学习额外的工具。如果程序员学过[Tcl](../Page/Tcl.md "wikilink")，那么转移到Expect是一件非常简单的工作，相同的编程结构和语法，再加上一些内置的额外功能。
+Expect可通过[cron封装系统管理任务](https://zh.wikipedia.org/wiki/cron "wikilink")，在规定的时期运行。能够这样做是因为Expect仅仅使用已经安装在主机中的系统管理工具，不需要学习额外的工具。如果程序员学过[Tcl](../Page/Tcl.md "wikilink")，那么转移到Expect是一件非常简单的工作，相同的编程结构和语法，再加上一些内置的额外功能。
 
 业界对室内管理任务使用Expect提供了很大的支持。Expect在很多的公司广泛使用，例如Silicon Graphics, IBM, HP,
 Sun, Xerox, Amdahl, Tektronix, AT\&T,
@@ -79,9 +79,9 @@ Expect已经以多种模块的方式移植到Python和Perl语言中。Expect命�
 
 ### 弊
 
-Expect继承了Tcl的语法规范，对于使用其它脚本语言的人来说这是相当陌生的。和其它语言如[bash](../Page/bash.md "wikilink")、和[Perl相比](../Page/Perl.md "wikilink")，Expect的语法模式是不同的。就像有时候一个变量的前缀冠以"$"，有时候又不需要。有些版本的Expect和[Perl](../Page/Perl.md "wikilink")、[Python语言的语法倒是很相似的](../Page/Python.md "wikilink")。
+Expect继承了Tcl的语法规范，对于使用其它脚本语言的人来说这是相当陌生的。和其它语言如[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、和[Perl相比](../Page/Perl.md "wikilink")，Expect的语法模式是不同的。就像有时候一个变量的前缀冠以"$"，有时候又不需要。有些版本的Expect和[Perl](../Page/Perl.md "wikilink")、[Python语言的语法倒是很相似的](../Page/Python.md "wikilink")。
 
-另一个缺陷是在不同的平台移植Expect脚本很难。例如，一个Expect脚本使用基于Unix的工具，就不可能适合移植到Windows平台。如果可能的话，程序员必须找到相应的命令行程序，能够提供相同的信息，这就可能需要修改expect脚本的send部分，而这部分恰恰就是整个脚本的核心。如果你使用的是tcl,perl或者python这些独立于平台的工具，使用它们各自的[POSIX接口访问文件](../Page/POSIX.md "wikilink")、对远端交互进行标准的POSIX处理（telnet,ftp等等），就不会出现上述问题。
+另一个缺陷是在不同的平台移植Expect脚本很难。例如，一个Expect脚本使用基于Unix的工具，就不可能适合移植到Windows平台。如果可能的话，程序员必须找到相应的命令行程序，能够提供相同的信息，这就可能需要修改expect脚本的send部分，而这部分恰恰就是整个脚本的核心。如果你使用的是tcl,perl或者python这些独立于平台的工具，使用它们各自的[POSIX接口访问文件](https://zh.wikipedia.org/wiki/POSIX "wikilink")、对远端交互进行标准的POSIX处理（telnet,ftp等等），就不会出现上述问题。
 
 一个不明显的缺陷是，有时Expect可能并不是解决问题的最好方法。例如，一个系统管理员需要登录到多个服务器，这些自动的操作要使用Expect就得配以保存的密码，而不是更安全的解决方案采用[ssh代理密钥](../Page/Secure_Shell.md "wikilink")。虽然这种自动交互工具很吸引人，但是还是有很多其它的办法可以更安全稳定地解决同样的问题。
 

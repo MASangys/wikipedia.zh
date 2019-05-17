@@ -1,5 +1,5 @@
-**[DOS](../Page/DOS.md "wikilink")**條目描述的是由[微軟開發的用於](../Page/微軟.md "wikilink")[IBM
-PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")。
+**[DOS](../Page/DOS.md "wikilink")**條目描述的是由[微軟開發的用於](https://zh.wikipedia.org/wiki/微軟 "wikilink")[IBM
+PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 **DOS**或**DoS**还可能指以下含义：
 
@@ -10,25 +10,27 @@ PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](../Pa
 
 ## 電腦系統類
 
-**DOS**是[磁碟](../Page/磁碟機.md "wikilink")[作業系統](../Page/操作系统.md "wikilink")（Disk
+**DOS**是[磁碟](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")[作業系統](../Page/操作系统.md "wikilink")（Disk
 Operating System）的縮寫。
 
   - 1966年[IBM](../Page/IBM.md "wikilink")[大型主機電腦上的磁碟作業系統](../Page/大型计算机.md "wikilink")，後來稱為。
 
 <!-- end list -->
 
-  - 基於[Intel](../Page/Intel.md "wikilink")
-    [8086家族](../Page/X86.md "wikilink")[微處理器的一類磁碟作業系統](../Page/微處理器.md "wikilink")。他們的正式名稱除了DOS之外還有其他字母。
-      - [M-DOS](../Page/M-DOS.md "wikilink")（始於1979年，也稱為MIDAS）
+  - 基於[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+    [8086家族](../Page/X86.md "wikilink")[微處理器的一類磁碟作業系統](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。他們的正式名稱除了DOS之外還有其他字母。
+      - [M-DOS](https://zh.wikipedia.org/wiki/M-DOS "wikilink")（始於1979年，也稱為MIDAS）
 
-      - [86-DOS](../Page/86-DOS.md "wikilink")（也稱為QDOS, 始於1980年）
+      - [86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink")（也稱為QDOS,
+        始於1980年）
 
       - [MS-DOS](../Page/MS-DOS.md "wikilink")（始於1981年）
 
       - [IBM](../Page/IBM.md "wikilink") 的 [PC
-        DOS](../Page/PC_DOS.md "wikilink")（始於1981年）
+        DOS](https://zh.wikipedia.org/wiki/PC_DOS "wikilink")（始於1981年）
 
-      - [DOS Plus](../Page/DOS_Plus.md "wikilink")（始於1985年）
+      - [DOS
+        Plus](https://zh.wikipedia.org/wiki/DOS_Plus "wikilink")（始於1985年）
 
       - [DR-DOS](../Page/DR-DOS.md "wikilink")（始於1988年）
 
@@ -36,46 +38,48 @@ Operating System）的縮寫。
 
       - （始於 1990）：IBM為日本市場所開發，可顯示雙位元組日文字元的一種特殊IBM-DOS/MS-DOS版本。
 
-      - [PTS-DOS](../Page/PTS-DOS.md "wikilink")（始於1991年）
+      - [PTS-DOS](https://zh.wikipedia.org/wiki/PTS-DOS "wikilink")（始於1991年）
 
       - [FreeDOS](../Page/FreeDOS.md "wikilink")（始於1994年）
 
 <!-- end list -->
 
   - 與上述系統無關的其他電腦作業系統
-      - [AmigaDOS](../Page/AmigaDOS.md "wikilink")
+      - [AmigaDOS](https://zh.wikipedia.org/wiki/AmigaDOS "wikilink")
 
-      - [AMSDOS](../Page/AMSDOS.md "wikilink")
+      - [AMSDOS](https://zh.wikipedia.org/wiki/AMSDOS "wikilink")
 
-      - [ANDOS](../Page/ANDOS.md "wikilink")
+      - [ANDOS](https://zh.wikipedia.org/wiki/ANDOS "wikilink")
 
       - ，用於蘋果的[Apple II等型電腦](../Page/Apple_II.md "wikilink")
 
-      - [Apple ProDOS](../Page/Apple_ProDOS.md "wikilink")
+      - [Apple
+        ProDOS](https://zh.wikipedia.org/wiki/Apple_ProDOS "wikilink")
 
-      - [Atari DOS](../Page/Atari_DOS.md "wikilink")
+      - [Atari DOS](https://zh.wikipedia.org/wiki/Atari_DOS "wikilink")
 
-      - [Commodore DOS](../Page/Commodore_DOS.md "wikilink")，又稱CBM
+      - [Commodore
+        DOS](https://zh.wikipedia.org/wiki/Commodore_DOS "wikilink")，又稱CBM
         DOS，用於Commodore的8位元電腦，如[Commodore
-        64](../Page/Commodore_64.md "wikilink")
+        64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")
 
-      - [CSI-DOS](../Page/CSI-DOS.md "wikilink")
+      - [CSI-DOS](https://zh.wikipedia.org/wiki/CSI-DOS "wikilink")
 
       - ，16位元迷你電腦上的作業系統
 
-      - [IS-DOS](../Page/IS-DOS.md "wikilink")
+      - [IS-DOS](https://zh.wikipedia.org/wiki/IS-DOS "wikilink")
 
-      - [MSX-DOS](../Page/MSX-DOS.md "wikilink")
+      - [MSX-DOS](https://zh.wikipedia.org/wiki/MSX-DOS "wikilink")
 
       -   - Real-time Disk Operating System，1972年推出，用於Data
             General的Nova與[Eclipse上的作業系統](../Page/Eclipse.md "wikilink")
           - Leif Ekblad，為i386嵌入式平台所作的開放原始碼作業系統
 
-      - [TRS-DOS](../Page/TRS-DOS.md "wikilink")
+      - [TRS-DOS](https://zh.wikipedia.org/wiki/TRS-DOS "wikilink")
 
 ## 語言類
 
-  - dos是[西班牙语中的](../Page/西班牙语.md "wikilink")[2](../Page/2.md "wikilink")，見[西班牙语\#西班牙语数字](../Page/西班牙语#西班牙语数字.md "wikilink")
+  - dos是[西班牙语中的](../Page/西班牙语.md "wikilink")[2](../Page/2.md "wikilink")，見[西班牙语\#西班牙语数字](https://zh.wikipedia.org/wiki/西班牙语#西班牙语数字 "wikilink")
   - dos 或 do's 是 do（名詞）的複數
 
 ## 組織類
@@ -86,5 +90,5 @@ Operating System）的縮寫。
   -
 ## 科學類
 
-  - [狀態密度](../Page/狀態密度.md "wikilink")（，DOS），一個[量子力学中的名詞](../Page/量子力学.md "wikilink")。
+  - [狀態密度](https://zh.wikipedia.org/wiki/狀態密度 "wikilink")（，DOS），一個[量子力学中的名詞](../Page/量子力学.md "wikilink")。
   - [禮炮計劃中的轨道空间站](../Page/禮炮計劃.md "wikilink")（DOS）

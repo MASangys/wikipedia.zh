@@ -1,4 +1,4 @@
-**雷克托街車站**（）是[紐約地鐵](../Page/紐約地鐵.md "wikilink")[IRT百老匯-第七大道線一個](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](../Page/地鐵站.md "wikilink")，位於[曼哈頓下城雷克托街與](../Page/曼哈頓下城.md "wikilink")[格林尼治街交界](../Page/格林尼治街.md "wikilink")，任何時候都設有[1號線列車服務](../Page/紐約地鐵1號線.md "wikilink")。
+**雷克托街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線一個](../Page/IRT百老匯-第七大道線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓下城雷克托街與](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[格林尼治街交界](../Page/格林尼治街.md "wikilink")，任何時候都設有[1號線列車服務](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")。
 
 ## 車站結構
 
@@ -18,12 +18,12 @@
 </tr>
 <tr class="odd">
 <td><p>&lt;span style=color:#&gt;<strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/范科特蘭公園-242街車站_(IRT百老匯-第七大道線).md" title="wikilink">范科特蘭公園-242街</a><small>（<a href="../Page/世貿科特蘭車站_(IRT百老匯-第七大道線).md" title="wikilink">世貿科特蘭</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/范科特蘭公園-242街車站_(IRT百老匯-第七大道線)" title="wikilink">范科特蘭公園-242街</a><small>（<a href="../Page/世貿科特蘭車站_(IRT百老匯-第七大道線).md" title="wikilink">世貿科特蘭</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="../Page/南碼頭-白廳街車站.md" title="wikilink">南碼頭</a><small>（終點站）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-1.svg" title="fig:纽约地铁1号线">纽约地铁1号线</a> 往<a href="https://zh.wikipedia.org/wiki/南碼頭-白廳街車站" title="wikilink">南碼頭</a><small>（終點站）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -34,9 +34,9 @@
 </tbody>
 </table>
 
-此地下車站於1918年7月1日啟用，設有兩個[側式月台和兩條軌道](../Page/側式月台.md "wikilink")。[九一一襲擊事件發生後](../Page/九一一襲擊事件.md "wikilink")，位於[科特蘭街車站附近的地鐵隧道倒塌](../Page/世貿科特蘭車站_\(IRT百老匯-第七大道線\).md "wikilink")，路線停運直至2002年9月15日。在停運期間，車站亦進行了翻新。
+此地下車站於1918年7月1日啟用，設有兩個[側式月台和兩條軌道](../Page/側式月台.md "wikilink")。[九一一襲擊事件發生後](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")，位於[科特蘭街車站附近的地鐵隧道倒塌](../Page/世貿科特蘭車站_\(IRT百老匯-第七大道線\).md "wikilink")，路線停運直至2002年9月15日。在停運期間，車站亦進行了翻新。
 
-由於受[颶風桑迪帶來的雨水破壞](../Page/颶風桑迪.md "wikilink")，所有1號線列車以此站作總站，直至2013年4月4日舊的[南碼頭迴圈總站重開](../Page/南碼頭-白廳街車站#舊站.md "wikilink")\[1\]。
+由於受[颶風桑迪帶來的雨水破壞](../Page/颶風桑迪.md "wikilink")，所有1號線列車以此站作總站，直至2013年4月4日舊的[南碼頭迴圈總站重開](https://zh.wikipedia.org/wiki/南碼頭-白廳街車站#舊站 "wikilink")\[1\]。
 
 ## 參考資料
 

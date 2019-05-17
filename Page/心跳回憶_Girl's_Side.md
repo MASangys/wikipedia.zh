@@ -1,13 +1,13 @@
 《**心跳回憶 Girl's
-Side**》是在2002年6月20日由[科樂美公司發售的](../Page/科樂美.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")，略稱為「GS1」，是《[心跳回憶
+Side**》是在2002年6月20日由[科樂美公司發售的](../Page/科樂美.md "wikilink")[女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS1」，是《[心跳回憶
 Girl's Side
-系列](../Page/心跳回憶_Girl's_Side_系列.md "wikilink")》的第1彈。本作的推出時間距離《[心跳回憶3](../Page/心跳回憶3.md "wikilink")》發售時間不過半年。
+系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第1彈。本作的推出時間距離《[心跳回憶3](https://zh.wikipedia.org/wiki/心跳回憶3 "wikilink")》發售時間不過半年。
 
 雖然最初銷量比不過《心跳回憶3》，卻因為豐富的遊戲性和豪華的[聲優陣容而廣受好評](../Page/聲優.md "wikilink")。2007年3月15日發售[任天堂DS版](../Page/任天堂DS.md "wikilink")《心跳回憶
 Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲的全語音版《心跳回憶 Girl's Side
 1st Love Plus》。
 
-和《[心跳回憶系列](../Page/心跳回憶系列.md "wikilink")》之前三部一樣，本作也有一個“傳說之地”，是學校校園內的小教堂。
+和《[心跳回憶系列](https://zh.wikipedia.org/wiki/心跳回憶系列 "wikilink")》之前三部一樣，本作也有一個“傳說之地”，是學校校園內的小教堂。
 
 ## 遊戲內容
 
@@ -36,9 +36,9 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 <!-- end list -->
 
   - 服飾
-    服裝是極為重要的一個元素。服裝的搭配分四類，購買的時候只能從外表判斷，不會從文字上得知是哪種類型。服裝飾品會對男性角色的好感度有著潛移默化的影響，因此投其所好才會事半功倍。在特殊的日子穿特殊的服裝（例如新年參拜的[着物](../Page/着物.md "wikilink")，夏日祭的[浴衣](../Page/浴衣.md "wikilink")，聖誕晚會的[晚禮服](../Page/晚禮服.md "wikilink")）會增加男主角好感。另外男主角好感度高的時候可能會在特殊的日子會送飾品，可以戴在身上。
+    服裝是極為重要的一個元素。服裝的搭配分四類，購買的時候只能從外表判斷，不會從文字上得知是哪種類型。服裝飾品會對男性角色的好感度有著潛移默化的影響，因此投其所好才會事半功倍。在特殊的日子穿特殊的服裝（例如新年參拜的[着物](https://zh.wikipedia.org/wiki/着物 "wikilink")，夏日祭的[浴衣](../Page/浴衣.md "wikilink")，聖誕晚會的[晚禮服](https://zh.wikipedia.org/wiki/晚禮服 "wikilink")）會增加男主角好感。另外男主角好感度高的時候可能會在特殊的日子會送飾品，可以戴在身上。
     服裝的要素判斷分為類型，顏色，流行等。如果是搭配不當或者是喜好不合，男主角的好感會下降，但並不會取消約會。
-    有的時候會在一些場合出售[科樂美其他遊戲中角色的服飾](../Page/科樂美.md "wikilink")（就是[cosplay服](../Page/cosplay.md "wikilink")），除了純粹收藏和令玩家會心一笑外並無實質功用，也會招致男主角的反感。DS版本取消了這個設定。
+    有的時候會在一些場合出售[科樂美其他遊戲中角色的服飾](../Page/科樂美.md "wikilink")（就是[cosplay服](https://zh.wikipedia.org/wiki/cosplay "wikilink")），除了純粹收藏和令玩家會心一笑外並無實質功用，也會招致男主角的反感。DS版本取消了這個設定。
     服裝飾品店的名字基本都是取自[科樂美公司的其他作品](../Page/科樂美.md "wikilink")。
 
 <!-- end list -->
@@ -122,7 +122,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
   -
     生日是1986年10月16日（天秤座），血型是A型，身高178cm。
-    本集王子型的主角，也是受歡迎的高中生[模特兒](../Page/模特兒.md "wikilink")。由於祖父是[德國人](../Page/德國.md "wikilink")，擁有1/4德國人血統。父母都在海外，獨自在日本居住。
+    本集王子型的主角，也是受歡迎的高中生[模特兒](../Page/模特兒.md "wikilink")。由於祖父是[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")，擁有1/4德國人血統。父母都在海外，獨自在日本居住。
     成績優秀及運動萬能的高材生，外表俊秀。未加入任何社團。
     嗜好是睡覺，期末考試的時候可能會出現因為在答題中睡著而得0分的狀況。很喜歡小貓，和學校體育館後面的小貓一家關係十分要好。
     平時沉默寡言，最初認識他時會覺得他很傲慢。但隨著交往越深，他會親切起來且十分溫柔，並訴說自己的內心世界。性格與其說是「酷」，不如說是有些[天然呆](../Page/天然呆.md "wikilink")。
@@ -142,7 +142,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
   -
     生日是1987年1月15日（摩羯座）。血型是AB型。身高174cm。隸屬美術社。
-    受到世界的注目的天才少年[藝術家](../Page/藝術家.md "wikilink")，他的作品全部都達到世界級數。在臨海公園以及美術館都有他的藝術作品。
+    受到世界的注目的天才少年[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，他的作品全部都達到世界級數。在臨海公園以及美術館都有他的藝術作品。
     因為思考方式獨特，言行舉止有時令人難以理解。隸屬於美術社，
     雖有頗自戀的一面，但是是和平主義者、博愛主義者，擁有相當天真純潔的性格。是不食人間煙火的大孩子。
     愛一切美麗的事物，不論是大自然的美或是人工的美都愛。意外地喜歡坐雲霄飛車和玩高空彈跳這類刺激的東西。
@@ -151,9 +151,9 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 <!-- end list -->
 
   -
-    生日是1986年12月4日（射手座）。血型是B型。身高171cm。隸屬[籃球隊](../Page/籃球.md "wikilink")。
+    生日是1986年12月4日（射手座）。血型是B型。身高171cm。隸屬[籃球隊](https://zh.wikipedia.org/wiki/籃球 "wikilink")。
     性格率直的籃球隊運動少年，由一年生開始便是正選，擁有一定的實力。但在比賽中有太多表演動作而令監督憤怒。
-    夢想是「去[美國打籃球](../Page/美國.md "wikilink")」，但又似乎有點在意自己身高不夠。
+    夢想是「去[美國打籃球](https://zh.wikipedia.org/wiki/美國 "wikilink")」，但又似乎有點在意自己身高不夠。
     受到好評的“[傲嬌](../Page/傲嬌.md "wikilink")”-{系}-角色之一：在和主角關係不夠好的時候，會比較冷漠；一旦和主角親近起來，一下子就會變得手足無措。容易衝動又有些執拗。
     名字的來歷是“馬＋鹿”（「馬鹿」是日語「笨蛋」之意）。
 
@@ -161,7 +161,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
   -
     生日是1986年6月18日（双子座）。血型是A型。身高185cm。未加入任何社團。在[加油站工作](../Page/加油站.md "wikilink")。
-    [關西腔男生](../Page/關西腔.md "wikilink")，只要是可愛的女孩便會過去打招呼的輕佻傢伙。為人很爽朗又健談，對於玩的事情很熱衷，所以很受女孩子歡迎，因為經常在公園裏和小孩子玩，所以在小孩中也很有人氣。
+    [關西腔男生](https://zh.wikipedia.org/wiki/關西腔 "wikilink")，只要是可愛的女孩便會過去打招呼的輕佻傢伙。為人很爽朗又健談，對於玩的事情很熱衷，所以很受女孩子歡迎，因為經常在公園裏和小孩子玩，所以在小孩中也很有人氣。
     雖然背景像是富有家庭，但他其實是一個人生活。母親去世，因為執意要自立，所以和父親關係不佳。現在正住在一間倉庫改造的屋子裏，前輩轉讓給他的一輛摩托車是他的寶物。獨立生活的緣故擅長烹飪。
     在遊戲中是屬於“很容易作朋友，不容易作戀人”的類型（意思是，到“友好”很容易，但到“喜歡”則需要一定時間）。
 
@@ -171,7 +171,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
     生日是1987年9月4日（处女座）。血型是O型。身高163cm。隸屬棒球隊。
     比主角遲一年入學的學弟。很尊敬葉月，想拜葉月為師，但是被冷淡地拒絕了。
     為了要變得像葉月那麼帥，日夜都在努力中。在拜過許多老師之後，似乎是師從了主人公的弟弟尽。
-    目標是成為“真正的男人”，夢想是成為[職業棒球員後與女](../Page/職業棒球.md "wikilink")[播音員結婚](../Page/播音員.md "wikilink")。
+    目標是成為“真正的男人”，夢想是成為[職業棒球員後與女](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")[播音員結婚](../Page/播音員.md "wikilink")。
     雖然看起來很孩子氣，但成為學長之後也很受學妹們的歡迎。把主角當成可以信賴的朋友，而主人公對其的評價也是“比起尽更有弟弟模樣”。
     很喜歡骷髏小熊（心跳回憶GS系列的象徵物之一）。
     有個名為“步”的妹妹，正在上小學。
@@ -180,11 +180,11 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
   -
     生日是1975年11月6日（天蝎座）。血型是A型。身高188cm。吹奏樂社的顧問。
-    主角三年間的班導師，任教的科目是[數學](../Page/數學.md "wikilink")。
+    主角三年間的班導師，任教的科目是[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")。
     十分討厭浪費時間和懶惰的人。經常都很冷靜，而且說話的語調很嚴厲，令人留下恐怖的印象。對於違反他的原則的事物，絕不姑息。
     但當二人相處時，會見到他溫柔的一面。實際上也是不善表達感情而且不夠坦率的“傲嬌系”。送給他的最佳生日禮物都是不花錢的作業論文等，也成為津津樂道的話題。
     平時開車上下班，車子的型號是[瑪莎拉蒂](../Page/瑪莎拉蒂.md "wikilink")3000。不同于一般日本車，方向盤在左側。
-    十分擅長彈鋼琴，無論是[古典音樂還是](../Page/古典音樂.md "wikilink")[爵士樂](../Page/爵士樂.md "wikilink")。在假期似乎會去他朋友的酒吧內演奏。
+    十分擅長彈鋼琴，無論是[古典音樂還是](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[爵士樂](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。在假期似乎會去他朋友的酒吧內演奏。
     是《心跳回憶Girl's Side 2nd Kiss》冰上格的親戚，在行事作風上對冰上格的影響不淺，也深受冰上的尊敬。
 
 <!-- end list -->
@@ -193,7 +193,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
     生日是1966年2月5日（水瓶座）。血型是B型。身高182cm。
     學園的理事長。
     最初是以身份不明的公子登場，但是後來主角會知道他的身份。夢想是靠自己培育淑女。
-    每一年[耶誕節都會在自己的宅邸舉辦聖誕晚會](../Page/耶誕節.md "wikilink")，與學校眾師生共渡佳節。
+    每一年[耶誕節都會在自己的宅邸舉辦聖誕晚會](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")，與學校眾師生共渡佳節。
     與世界知名的服裝設計師花椿吾郎是多年的好友，對他的任性無能為力。
 
 <!-- end list -->
@@ -227,7 +227,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
     天之橋的好友，冰室兒時傾聽的對象，《[心跳回憶 Girl's Side 2nd
     Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")》中登场的花椿姬子与《[心跳回忆
     Girl's Side 3rd
-    Story](../Page/心跳回忆_Girl's_Side_3rd_Story.md "wikilink")》中登场的花椿卡莲的親戚。
+    Story](https://zh.wikipedia.org/wiki/心跳回忆_Girl's_Side_3rd_Story "wikilink")》中登场的花椿卡莲的親戚。
     在服飾搭配方面對主角有著很大的幫助。
     如果主角立志走相關的道路且沒有和其他的角色有結局，那麼就可能會有跟隨他學習的結局。滿足了他的條件後，save icon也會變成他的。
 
@@ -321,9 +321,9 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 主題歌：[B'z](../Page/B'z.md "wikilink")（VERMILLION RECORDS）
 
   - OP「SIGNAL」
-    演唱：[B'z](../Page/B'z.md "wikilink")，作詞：[稻葉浩志](../Page/稻葉浩志.md "wikilink")，作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")，編曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、[稻葉浩志](../Page/稻葉浩志.md "wikilink")、[徳永曉人](../Page/徳永曉人.md "wikilink")
+    演唱：[B'z](../Page/B'z.md "wikilink")，作詞：[稻葉浩志](../Page/稻葉浩志.md "wikilink")，作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")，編曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、[稻葉浩志](../Page/稻葉浩志.md "wikilink")、[徳永曉人](https://zh.wikipedia.org/wiki/徳永曉人 "wikilink")
   - ED「」
-    演唱：[B'z](../Page/B'z.md "wikilink")，作詞：[稻葉浩志](../Page/稻葉浩志.md "wikilink")，作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")，編曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、[稻葉浩志](../Page/稻葉浩志.md "wikilink")、[池田大介](../Page/池田大介.md "wikilink")
+    演唱：[B'z](../Page/B'z.md "wikilink")，作詞：[稻葉浩志](../Page/稻葉浩志.md "wikilink")，作曲：[松本孝弘](../Page/松本孝弘.md "wikilink")，編曲：[松本孝弘](../Page/松本孝弘.md "wikilink")、[稻葉浩志](../Page/稻葉浩志.md "wikilink")、[池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")
 
 <!-- end list -->
 
@@ -342,7 +342,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 <!-- end list -->
 
   - 心跳回忆 Girl's Side
-    Typing（[Win](../Page/Microsoft_Windows.md "wikilink")・[Mac](../Page/Macintosh.md "wikilink")）
+    Typing（[Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")）
 
 <!-- end list -->
 
@@ -351,7 +351,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
 <!-- end list -->
 
-  - 心跳工厂（[Win](../Page/Microsoft_Windows.md "wikilink")・[Mac](../Page/Macintosh.md "wikilink")）
+  - 心跳工厂（[Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")）
 
 <!-- end list -->
 
@@ -399,7 +399,7 @@ Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲�
 
 ## 相關項目
 
-  - [心跳回憶](../Page/心跳回憶.md "wikilink")
+  - [心跳回憶](https://zh.wikipedia.org/wiki/心跳回憶 "wikilink")
   - [心跳回憶 Girl's Side 2nd
     Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")
   - [心跳回憶 Girl's Side 3rd

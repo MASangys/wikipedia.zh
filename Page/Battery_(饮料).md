@@ -1,12 +1,12 @@
 [Battery_logo.png](https://zh.wikipedia.org/wiki/File:Battery_logo.png "fig:Battery_logo.png")
 **Battery**是[芬兰Oy](../Page/芬兰.md "wikilink")
-[Sinebrychoff](../Page/Sinebrychoff.md "wikilink")
-Ab公司出品的一款[机能性饮料](../Page/机能性饮料.md "wikilink")。
+[Sinebrychoff](https://zh.wikipedia.org/wiki/Sinebrychoff "wikilink")
+Ab公司出品的一款[机能性饮料](https://zh.wikipedia.org/wiki/机能性饮料 "wikilink")。
 
 ## 配方
 
-[软饮料包含了](../Page/软饮料.md "wikilink")[水](../Page/水.md "wikilink")、[糖](../Page/糖.md "wikilink")、[糊精](../Page/糊精.md "wikilink")、[牛磺酸](../Page/牛磺酸.md "wikilink")、[柠檬酸](../Page/柠檬酸.md "wikilink")、[咖啡因](../Page/咖啡因.md "wikilink")、[瓜拿納种子精华](../Page/瓜拿納.md "wikilink")、[维生素B](../Page/维生素B.md "wikilink")、香精、色素和[防腐剂](../Page/防腐剂.md "wikilink")。
-在芬兰包含咖啡因产品较为常见，官方网站宣称Battery饮料“每100厘升中包含着320毫升”。这一咖啡因含量比例和一杯[浓缩咖啡相近](../Page/浓缩咖啡.md "wikilink")。
+[软饮料包含了](https://zh.wikipedia.org/wiki/软饮料 "wikilink")[水](../Page/水.md "wikilink")、[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")、[糊精](../Page/糊精.md "wikilink")、[牛磺酸](../Page/牛磺酸.md "wikilink")、[柠檬酸](https://zh.wikipedia.org/wiki/柠檬酸 "wikilink")、[咖啡因](../Page/咖啡因.md "wikilink")、[瓜拿納种子精华](../Page/瓜拿納.md "wikilink")、[维生素B](https://zh.wikipedia.org/wiki/维生素B "wikilink")、香精、色素和[防腐剂](../Page/防腐剂.md "wikilink")。
+在芬兰包含咖啡因产品较为常见，官方网站宣称Battery饮料“每100厘升中包含着320毫升”。这一咖啡因含量比例和一杯[浓缩咖啡相近](https://zh.wikipedia.org/wiki/浓缩咖啡 "wikilink")。
 
 ## 口味
 

@@ -1,21 +1,22 @@
-《**supercell**》是音樂製作團體[supercell的第一張](../Page/supercell_\(樂團\).md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，在2009年3月4日由[GT
+《**supercell**》是音樂製作團體[supercell的第一張](https://zh.wikipedia.org/wiki/supercell_\(樂團\) "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，在2009年3月4日由[GT
 music品牌發行](../Page/Sony_Music_Direct.md "wikilink")。
 
 ## 概要
 
-歌手使用了[語音合成](../Page/語音合成.md "wikilink")[軟體](../Page/軟體.md "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」，supercell的出道專輯。把在2008年於[Comike74發表的自主製作盤的音源再混音](../Page/Comike74.md "wikilink")，增加了《》及《》兩首歌。\[1\]初回限定版及一般版都有附有[CD及](../Page/CD.md "wikilink")[DVD](../Page/DVD.md "wikilink")，初回版付屬名為「supercell
-works」的畫集。另外在[animate](../Page/animate.md "wikilink")、[虎之穴](../Page/虎之穴.md "wikilink")、[Gamers買入會贈送](../Page/Gamers.md "wikilink")[海報](../Page/海報.md "wikilink")（繪圖各自不同）\[2\]\[3\]\[4\]，Sony
-Music Shop則附送特製的[滑鼠墊](../Page/滑鼠墊.md "wikilink")\[5\]。
+歌手使用了[語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」，supercell的出道專輯。把在2008年於[Comike74發表的自主製作盤的音源再混音](https://zh.wikipedia.org/wiki/Comike74 "wikilink")，增加了《》及《》兩首歌。\[1\]初回限定版及一般版都有附有[CD及](../Page/CD.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，初回版付屬名為「supercell
+works」的畫集。另外在[animate](https://zh.wikipedia.org/wiki/animate "wikilink")、[虎之穴](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")、[Gamers買入會贈送](https://zh.wikipedia.org/wiki/Gamers "wikilink")[海報](https://zh.wikipedia.org/wiki/海報 "wikilink")（繪圖各自不同）\[2\]\[3\]\[4\]，Sony
+Music
+Shop則附送特製的[滑鼠墊](https://zh.wikipedia.org/wiki/滑鼠墊 "wikilink")\[5\]。
 
 2012年8月12日，本专辑在中国大陆上市，成为中国大陆引进的首张初音未来的音乐专辑；惟中国大陆版专辑只包含了Disc.01（CD）而没有附带原版专辑所含的Disc.02（DVD）。
 
 ## 銷量
 
-於2009年3月3日的[ORICON每天計算的排行榜中錄得](../Page/ORICON.md "wikilink")2.0萬張銷量，初登場第2位的記錄\[6\]\[7\]。同年3月16日的一周計算排行榜中錄得5.6萬張銷量，初登場第4位的記錄\[8\]。亦因如此，[livetune](../Page/livetune.md "wikilink")
-feat.初音未來的《[Re:package](../Page/Re:package.md "wikilink")》在一周排名亦升上第5位，刷新了初音未來關連CD的最高銷量記錄。\[9\]。已登場3星期3月30日的排行榜錄得24位，銷量突破7萬張\[10\]。而且在發行後第4周4月6日的排行榜亦錄得第36位，與livetune
-feat.初音未來《[Re:MIKUS](../Page/Re:MIKUS.md "wikilink")》、doriko
-feat.初音未來《unformed》、Super Producers feat.初音未來《EXIT TUNES
-PRESENTS Vocarhythm
+於2009年3月3日的[ORICON每天計算的排行榜中錄得](https://zh.wikipedia.org/wiki/ORICON "wikilink")2.0萬張銷量，初登場第2位的記錄\[6\]\[7\]。同年3月16日的一周計算排行榜中錄得5.6萬張銷量，初登場第4位的記錄\[8\]。亦因如此，[livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
+feat.初音未來的《[Re:package](https://zh.wikipedia.org/wiki/Re:package "wikilink")》在一周排名亦升上第5位，刷新了初音未來關連CD的最高銷量記錄。\[9\]。已登場3星期3月30日的排行榜錄得24位，銷量突破7萬張\[10\]。而且在發行後第4周4月6日的排行榜亦錄得第36位，與livetune
+feat.初音未來《[Re:MIKUS](https://zh.wikipedia.org/wiki/Re:MIKUS "wikilink")》、doriko
+feat.初音未來《unformed》、Super Producers feat.初音未來《EXIT TUNES PRESENTS
+Vocarhythm
 feat.初音未來》，合共4張初音未來關鍵作品均得到了在100位裡入榜的成就。\[11\]。本專輯在網上預約的男女比為55比45\[12\]，作為製作人的清水一光對這數字表示「網絡系的商品男性的預約佔9成也不會奇怪，女性算是非常支持」\[13\]。
 
 ## 收錄曲目

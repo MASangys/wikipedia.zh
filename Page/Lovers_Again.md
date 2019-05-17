@@ -1,12 +1,12 @@
 《**Lovers
-Again**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](../Page/EXILE.md "wikilink")（放浪兄弟）的第22張[單曲](../Page/單曲.md "wikilink")。2007年1月17日於日本發行。Oricon最高排行第2、初動銷量13.3萬張、累計銷量25.9萬張
+Again**》為[日本音樂團體](../Page/日本.md "wikilink")[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年1月17日於日本發行。Oricon最高排行第2、初動銷量13.3萬張、累計銷量25.9萬張
 
 ## 概要
 
 新主唱TAKAHIRO、表演者AKIRA加入的EXILE**第二章**第二張單曲。
 連續3個月發行單曲的第2彈。第一次出現是在發行約1個月前於2006年12月16日舉辦的現場演唱會「Rhythm
 Nation」。 單曲以「[CD](../Page/CD.md "wikilink")
-only」和「CD+[DVD](../Page/DVD.md "wikilink")」兩種形式發售，封面也有所不同。初回盤附有以附加曲方式收錄了於9月22日在[日本武道館演出的最終選拔的](../Page/日本武道館.md "wikilink")6人（順序為TAKA、WARNER、田﨑敬浩、前田雄一郎、施鐘泰、Nesmith）所演唱的「Lovers
+only」和「CD+[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」兩種形式發售，封面也有所不同。初回盤附有以附加曲方式收錄了於9月22日在[日本武道館演出的最終選拔的](../Page/日本武道館.md "wikilink")6人（順序為TAKA、WARNER、田﨑敬浩、前田雄一郎、施鐘泰、Nesmith）所演唱的「Lovers
 Again」的現場版。此曲的影像收錄在第5張專輯《[EXILE
 EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的完全限定盤的DVD裡。
 
@@ -30,7 +30,7 @@ only版本中收錄了附加曲「Lovers again-Orchestra Version-」。
 
 有與「Lovers Again」相反，以與戀人分手的女性為觀點唱的歌，其為女歌手DOUBLE所演唱的「餘火-eternal
 BED-」，作詞作曲為「Lovers
-Again」的同製作人。因此歌詞及曲調十分相似。另外[紅白歌唱大賽有演出Lovers](../Page/紅白歌唱大賽.md "wikilink")
+Again」的同製作人。因此歌詞及曲調十分相似。另外[紅白歌唱大賽有演出Lovers](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")
 Again紅白版，前半部分有重新編曲。
 
 「Lovers
@@ -68,7 +68,7 @@ Mind」是首敘述與戀人宣告分手，因想脫離孤獨而委身於街頭�
 
 ## 備註
 
-[分類:NHK紅白歌合戰演唱歌曲](../Page/分類:NHK紅白歌合戰演唱歌曲.md "wikilink")
+[分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 [Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")
 [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")

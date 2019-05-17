@@ -1,11 +1,11 @@
-**極限體能王**（**SASUKE**）是[日本](../Page/日本.md "wikilink")[TBS電視台不定期播出的](../Page/TBS電視台.md "wikilink")[運動](../Page/体育.md "wikilink")[娛樂](../Page/娛樂節目.md "wikilink")[特別節目](../Page/特別節目.md "wikilink")。
+**極限體能王**（**SASUKE**）是[日本](../Page/日本.md "wikilink")[TBS電視台不定期播出的](../Page/TBS電視台.md "wikilink")[運動](../Page/体育.md "wikilink")[娛樂](https://zh.wikipedia.org/wiki/娛樂節目 "wikilink")[特別節目](https://zh.wikipedia.org/wiki/特別節目 "wikilink")。
 
 正式名稱是「終極的生存遊戲SASUKE」。SASUKE的名稱是由[猿飛佐助的典故而來](../Page/猿飛佐助.md "wikilink")。第1回是在1997年秋天播出，當初是《[挑戰冠軍王](../Page/筋肉擂台.md "wikilink")》中的特別節目。『挑戰冠軍王』因為某些意外而在2002年5月停止播出。但由於SASUKE深受觀眾喜愛，從2002年秋天的第10回大會起以獨立節目的型態繼續播出（其間也有兩度以大型節目中的特別單元形式播出）。
 
 每次節目一播出，主持人古舘伊知郎總是會說「」。之後，這段話便成為本節目的重要象徵。
 
 極限體能王類似體能動作遊戲，共分四個舞台，每個舞台內都設有多項需要以體能克服的關卡。凡是中途掉下、落水或是超過時間限制者就被淘汰。每回大會有100位選手出場，通常能通過第一舞台的只有十幾位左右，極少數人才能到達第四舞台。將四個舞台全破的話可以得到200萬元日幣的獎金（第24回多贈送[NISSAN
-FUGA汽車](../Page/日產Fuga.md "wikilink")1輛）。但節目開播以來，共3500人次的挑戰者中（35回大會），總共只有4位完成全破的壯舉。
+FUGA汽車](https://zh.wikipedia.org/wiki/日產Fuga "wikilink")1輛）。但節目開播以來，共3500人次的挑戰者中（35回大會），總共只有4位完成全破的壯舉。
 
 極限體能王每集的製作成本超過一百萬元日幣。挑戰者除了必須擁有過人的體能之外，心理層面的強度更為重要，須先瞭解破關的竅門，正確運用力量，同時保持冷靜的頭腦和判斷力，才能過關。
 
@@ -20,7 +20,7 @@ SASUKE極限體能王共有四個舞台及18道關卡（第14回開始有24道�
 
 除了SASUKE之外，還有給女性挑戰的「KUNOICHI」（[女子版極限體能王](../Page/女子版極限體能王.md "wikilink")）。
 
-SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999年秋天（第4回大會）的[秋山和彦](../Page/秋山和彦.md "wikilink")、第二位是在2006年秋天（第17回大會）的[長野誠](../Page/長野誠.md "wikilink")、第三位是在2010年元旦（第24回大會）及2011年秋天（第27回大會）破關2次的[漆原裕治以及在](../Page/漆原裕治.md "wikilink")2015年夏天（第31回大會）的[森本裕介](../Page/森本裕介.md "wikilink")。
+SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999年秋天（第4回大會）的[秋山和彦](https://zh.wikipedia.org/wiki/秋山和彦 "wikilink")、第二位是在2006年秋天（第17回大會）的[長野誠](../Page/長野誠.md "wikilink")、第三位是在2010年元旦（第24回大會）及2011年秋天（第27回大會）破關2次的[漆原裕治以及在](../Page/漆原裕治.md "wikilink")2015年夏天（第31回大會）的[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")。
 
 ## 極限體能王SASUKE主持人、播報員（實況轉播）、旁白
 
@@ -60,7 +60,7 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 <!-- end list -->
 
   - 第32回～
-      - [小崇小敏](../Page/小崇小敏.md "wikilink")
+      - [小崇小敏](https://zh.wikipedia.org/wiki/小崇小敏 "wikilink")
 
 ### 播報員（實況轉播）
 
@@ -130,19 +130,19 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 
   -   - 第1回旁白
 
-  - [垂木勉](../Page/垂木勉.md "wikilink")
+  - [垂木勉](https://zh.wikipedia.org/wiki/垂木勉 "wikilink")
 
       - 第2\~15回旁白
 
   -   - 第16回旁白
 
-  - [小林清志](../Page/小林清志.md "wikilink")
+  - [小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink")
 
       - 第17\~27回旁白
 
   -   - 第28\~35回旁白（第30回第一、二舞台、第三舞台前半段、第35回第二、三舞台、最終舞台旁白）
 
-  - [小原雅人](../Page/小原雅人.md "wikilink")
+  - [小原雅人](https://zh.wikipedia.org/wiki/小原雅人 "wikilink")
 
       - 第30回第三舞台後半段、最終舞台旁白
 
@@ -160,7 +160,7 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 
 極限體能王史上唯一一次在體育館內舉行的大會。第一舞台過關者有23人，第二舞台過關者在6人後就停滯不前了。
 
-此大會登場的有名選手有[山田勝己](../Page/山田勝己.md "wikilink")、[山本進悟](../Page/山本進悟.md "wikilink")、[Ken小杉](../Page/Ken小杉.md "wikilink")、[大森晃](../Page/大森晃.md "wikilink")、[三浦英一](../Page/三浦英一.md "wikilink")、[飯島豐久](../Page/飯島豐久.md "wikilink")、[立川福裕等](../Page/立川福裕.md "wikilink")。
+此大會登場的有名選手有[山田勝己](../Page/山田勝己.md "wikilink")、[山本進悟](../Page/山本進悟.md "wikilink")、[Ken小杉](https://zh.wikipedia.org/wiki/Ken小杉 "wikilink")、[大森晃](https://zh.wikipedia.org/wiki/大森晃 "wikilink")、[三浦英一](https://zh.wikipedia.org/wiki/三浦英一 "wikilink")、[飯島豐久](https://zh.wikipedia.org/wiki/飯島豐久 "wikilink")、[立川福裕等](https://zh.wikipedia.org/wiki/立川福裕 "wikilink")。
 
 此大會第一舞台大部分的選手都在瀑布爬坡、瀑布下坡、自由攀爬和攀岩道路出局。
 
@@ -178,9 +178,8 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 此次大會很特別的隔了一年才舉行
 
 此大會開始都是在戶外舉行，場地為TBS位於[橫濱市](../Page/横滨市.md "wikilink")[青葉區的](../Page/青葉區_\(橫濱市\).md "wikilink")，簡稱「綠山」）。第一、第二舞台關卡跟以前一樣，第三舞台新設了地獄滑桿的難關，許多選手都在此出局。其實此大會，所有在第三舞台失敗的選手都在這裡失敗。
-此大會[西村知惠是全世界SASUKE](../Page/西村知惠.md "wikilink")/Ninja
-Warrior所有17个国家的版本中第一位通过第一舞台的女性（第二位是American Ninja
-Warrior的Jessie
+此大會[西村知惠是全世界SASUKE](https://zh.wikipedia.org/wiki/西村知惠 "wikilink")/Ninja
+Warrior所有17个国家的版本中第一位通过第一舞台的女性（第二位是American Ninja Warrior的Jessie
 Graff，2017年達成），但是在第二舞台一開始的蜘蛛步道因為手腳不夠長而無法過關。[秋山和彥也首次出場](../Page/秋山和彥.md "wikilink")。不過由於下雨的關係，對挑戰者還是多多少少會有一些影響。
 
   - 總合第1名（97）田中光、（99）大森晃，F-18 最後之繩。
@@ -236,13 +235,13 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
 **第一時期的代表性選手**
 
   - [秋山和彥](../Page/秋山和彥.md "wikilink")，**完全制霸（剩餘6秒0）**。
-  - [大森晃](../Page/大森晃.md "wikilink")，連續3次進入最終舞台（第1～3回）。
-  - [山田勝己](../Page/山田勝己.md "wikilink")，第3回差30公分就可以碰到最終舞台的按鈕，被稱為「[離全破最近的男人](../Page/離全破最近的男人.md "wikilink")」。
+  - [大森晃](https://zh.wikipedia.org/wiki/大森晃 "wikilink")，連續3次進入最終舞台（第1～3回）。
+  - [山田勝己](../Page/山田勝己.md "wikilink")，第3回差30公分就可以碰到最終舞台的按鈕，被稱為「[離全破最近的男人](https://zh.wikipedia.org/wiki/離全破最近的男人 "wikilink")」。
   - [山本進悟](../Page/山本進悟.md "wikilink")，連續3回闖過第一舞台（第1～3回）、第3回進入最終舞台。
   - 長谷川健，連續3次進入第3舞台（第1～3回）。
   - 三浦英一，二度闖進第3舞台（第2、4回）。
   - 川島孝幸，史上最年輕闖進最終舞台（18歲）。
-  - [西村知惠](../Page/西村知惠.md "wikilink")（[田邊知惠](../Page/田邊知惠.md "wikilink")），史上第一位闖過第1舞台的[女性](../Page/女性.md "wikilink")（第2回）。
+  - [西村知惠](https://zh.wikipedia.org/wiki/西村知惠 "wikilink")（[田邊知惠](https://zh.wikipedia.org/wiki/田邊知惠 "wikilink")），史上第一位闖過第1舞台的[女性](../Page/女性.md "wikilink")（第2回）。
 
 ### 第二時期（第5回大會\~第17回大會）
 
@@ -469,7 +468,7 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
 
 ### 第三時期（第18回大會\~第24回大會）
 
-史上第二次大幅度更新。要闖過第1舞台難上加難。第1舞台的地板顏色由黑色轉變成紅色，意味著「魔物棲息之地」。23回為止，只有[漆原裕治](../Page/漆原裕治.md "wikilink")、[菅野仁志還有](../Page/菅野仁志.md "wikilink")[長野誠](../Page/長野誠.md "wikilink")3人闖入最終舞台，24回更是史上新改版後頭一遭，連續5人（橋本亘司、李恩至、漆原裕治、高橋賢次、奧山義行）進入最終舞台，是繼第三回的相同紀錄。此時期由[漆原裕治的完全制霸而結束](../Page/漆原裕治.md "wikilink")。
+史上第二次大幅度更新。要闖過第1舞台難上加難。第1舞台的地板顏色由黑色轉變成紅色，意味著「魔物棲息之地」。23回為止，只有[漆原裕治](../Page/漆原裕治.md "wikilink")、[菅野仁志還有](https://zh.wikipedia.org/wiki/菅野仁志 "wikilink")[長野誠](../Page/長野誠.md "wikilink")3人闖入最終舞台，24回更是史上新改版後頭一遭，連續5人（橋本亘司、李恩至、漆原裕治、高橋賢次、奧山義行）進入最終舞台，是繼第三回的相同紀錄。此時期由[漆原裕治的完全制霸而結束](../Page/漆原裕治.md "wikilink")。
 
 **第18回大會** 新SASUKE2007春（2007年3月21日播出）
 
@@ -527,7 +526,7 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
 
 **第22回大會** SASUKE2009春（2009年3月30日播出）
 
-這次的節目是「[JNN](../Page/日本新聞網.md "wikilink")50周年記念特番・ハイパーバラエティウィーク（超級黃金週）」中的一部份。在比賽之前舉辦了SASUKE預賽選拔2009春，總共7人過關。
+這次的節目是「[JNN](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")50周年記念特番・ハイパーバラエティウィーク（超級黃金週）」中的一部份。在比賽之前舉辦了SASUKE預賽選拔2009春，總共7人過關。
 
 此大會第一舞台新設了旋轉悍馬，把鋼管迷宮去除，圓木滑降變成了第3道關卡，另外也把飛越大峽谷去除，改成滑降飛抓，第18回改版時出現的9個新關卡，現在只剩5個。李維在滑降飛抓失敗。
 
@@ -595,14 +594,14 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
   - [漆原裕治](../Page/漆原裕治.md "wikilink")，
     **完全制霸（剩餘3.57秒）**（第24回）、史上第一位闖進新改版的最終舞台、史上第一位闖進最終舞台的預賽選手（第22回）、史上唯一一位兩次闖進新改版的第3舞台而都沒有失敗過的選手（第22、24回）。
   - [李恩至](../Page/李恩至.md "wikilink")，成為史上第二位闖進最終舞台的外國選手（[台灣人](../Page/臺灣.md "wikilink")，第24回）、第18回改版後唯一1位連續四次闖進第2舞台的選手（第21\~24回）。
-  - [奧山義行](../Page/奧山義行.md "wikilink")，史上最年長闖進第3舞台及最終舞台的選手（39歲）、自改版後唯一1位連續3屆闖進第3舞台（第22\~24回）。
+  - [奧山義行](https://zh.wikipedia.org/wiki/奧山義行 "wikilink")，史上最年長闖進第3舞台及最終舞台的選手（39歲）、自改版後唯一1位連續3屆闖進第3舞台（第22\~24回）。
   - 佐藤弘道，史上第一位闖過兩次第四時期第1舞台的藝人（第22、24回）
   - [長野誠](../Page/長野誠.md "wikilink")，史上第一位制霸後又闖進最終舞台的參賽者（第23回）。
   - 菅野仁志，自改版已以來最年輕的最終舞台選手（24歲）（第23回）。
   - 伊藤圭紀，史上最年輕闖進第四時期第1舞台的參賽者（剛滿18歲又2天）（第23回）。
   - [竹田敏浩](../Page/竹田敏浩.md "wikilink")，首位闖過新巔峰戰士的選手（第21回）。
   - 白鳥文平，第一位以超過40歲的年齡闖過新改版第1舞台的選手（第21回）。
-  - [李維·謬恩巴克](../Page/李維·謬恩巴克.md "wikilink")，史上第一位總合第一名的外國選手（第20回）。
+  - [李維·謬恩巴克](https://zh.wikipedia.org/wiki/李維·謬恩巴克 "wikilink")，史上第一位總合第一名的外國選手（第20回）。
   - 鷲見裕二，改版後2007年大會唯一一位連續2次闖過第1舞台的選手（第18、19回）。
   - 長崎剛政，第一位闖過第四時期第1舞台的參賽者。
 
@@ -621,7 +620,7 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
 
 第三舞台如同剛開始第三時期（18回）一樣在新設的巔峰戰士全滅。而李恩至成為史上第二位外國人之總合第一名。
 
-另外，由於此時正好舉辦[2010年冬季奧林匹克運動會](../Page/2010年冬季奧林匹克運動會.md "wikilink")，所以主要的播報員暫時換成佐藤文康，次要實況由伊藤隆佑代替。
+另外，由於此時正好舉辦[2010年冬季奧林匹克運動會](https://zh.wikipedia.org/wiki/2010年冬季奧林匹克運動會 "wikilink")，所以主要的播報員暫時換成佐藤文康，次要實況由伊藤隆佑代替。
 
 但是，由於[極限體能王全明星中的](../Page/極限體能王全明星.md "wikilink")[山田勝己缺席](../Page/山田勝己.md "wikilink")，而導致本屆大會的收視率為所有系列節目中最慘澹的一次。
 
@@ -639,7 +638,7 @@ SASUKE1999秋（1999年10月16日播出）[完整影片](http://www.tudou.com/pr
 
 **第26回大會** SASUKE2011謹賀新年（2010年10月19日錄影、2011年1月2日播出）
 
-[極限體能王全明星中](../Page/極限體能王全明星.md "wikilink")，從首次登場以來從未缺席過的竹田敏浩，這次意外缺席。此外第24回大會後退隱的山田勝己再次復活。另外，[EXILE](../Page/EXILE.md "wikilink")（放浪兄弟）中的隊員、同時也是第三代J
+[極限體能王全明星中](../Page/極限體能王全明星.md "wikilink")，從首次登場以來從未缺席過的竹田敏浩，這次意外缺席。此外第24回大會後退隱的山田勝己再次復活。另外，[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）中的隊員、同時也是第三代J
 Soul Brothers的隊長NAOTO為本回大會的矚目焦點。
 
 由於上次大會的收視率非常的差，所以本次大會再次做小幅度的改版。第一舞台的地毯變回紅色，而且起跑點加大。這次是由四個新設關卡、復活關卡兩個，以及上次留下來的三道關卡所組成。其中的新關卡滾圓板導致全明星的山本進悟、上次闖進第三舞台的高橋賢次，以及眾多實力堅強的選手紛紛落水。而極限體能王全明星三度全軍覆沒，新星也都面臨危機。
@@ -674,7 +673,7 @@ Warrior」中，播出美國10位預選代表的表現。
 最終舞台，雖然又地諒失敗，不過漆原裕治卻創下**史上首次二度完全制霸**的壯舉，且留下6.71秒為**史上最高紀錄**。
 才**三次大會**便出現完全制霸者，為史上最快的一次。
 
-從第17回大會以來，擔任旁白的小林清志，在本次大會結束後就遭到替換。然後，從[挑戰冠軍王開始](../Page/挑戰冠軍王.md "wikilink")，到Monster9倒閉以前都不曾大幅更動過的製作單位，也在下次的第28回大會時進行大幅度改組。
+從第17回大會以來，擔任旁白的小林清志，在本次大會結束後就遭到替換。然後，從[挑戰冠軍王開始](https://zh.wikipedia.org/wiki/挑戰冠軍王 "wikilink")，到Monster9倒閉以前都不曾大幅更動過的製作單位，也在下次的第28回大會時進行大幅度改組。
 
   - 總合第1名 （99）[漆原裕治](../Page/漆原裕治.md "wikilink")，**完全制霸（剩餘6.71秒）**。
   - 總合第2名 （62）又地諒，F-23 20公尺攀繩〔約1公尺〕。
@@ -700,9 +699,9 @@ Warrior」中，播出美國10位預選代表的表現。
   - [漆原裕治](../Page/漆原裕治.md "wikilink")，**完全制霸（剩餘6.71秒）**、完全制霸**史上最快**紀錄、首位兩度完全制霸的選手、第二位完全制霸後闖入最終舞台的選手、挑戰最終舞台三次成為第二高挑戰最終舞台紀錄、第三舞台過關率100%
   - 奧山義行，首位40歲以上闖入第三舞台，成為史上最年長的總和第一名（第26回）、第18回大改版後唯一連續6次闖入第三舞台（第22\~27回）。
   - [李恩至](../Page/李恩至.md "wikilink")，成為史上第二位總和第一的外國人（[台灣人](../Page/臺灣.md "wikilink")）、首位連續兩次總和第一的外國人（第25、26回）、第18回大改版後連續6次闖過第一舞台（第21\~26回）。
-  - [橋本亘司](../Page/橋本亘司.md "wikilink")，首位闖過終極巔峰戰士的選手（第27回）。
-  - [又地諒](../Page/又地諒.md "wikilink")，首位闖過改版後的第三舞台（第27回）。
-  - [布萊恩.歐洛斯科](../Page/布萊恩.歐洛斯科.md "wikilink")，首位連續兩次闖入第三舞台的美國人（第25、26回）。
+  - [橋本亘司](https://zh.wikipedia.org/wiki/橋本亘司 "wikilink")，首位闖過終極巔峰戰士的選手（第27回）。
+  - [又地諒](https://zh.wikipedia.org/wiki/又地諒 "wikilink")，首位闖過改版後的第三舞台（第27回）。
+  - [布萊恩.歐洛斯科](https://zh.wikipedia.org/wiki/布萊恩.歐洛斯科 "wikilink")，首位連續兩次闖入第三舞台的美國人（第25、26回）。
   - 佐藤淳，首位闖過改版後的第一舞台。
 
 ### 第五時期（第28回大會\~第31回大會）
@@ -713,7 +712,7 @@ Warrior」中，播出美國10位預選代表的表現。
 
 2012年9月底出場募集，10月底於東京、大阪兩地進行審查，11月18日節目正式錄影，2012年12月27日撥出。
 
-由於上次漆原裕治二度達成完全制霸，本次大會再度進行大幅度改版，畫面右上角的剩餘時間也改成[七段顯示器模式](../Page/七段顯示器.md "wikilink")。本次關卡雖較之前的要少，但是難度相對的提高，進入第二舞台的僅有五人，且90號以後的選手（包含全明星在內）在第一舞台全滅，是繼第22回大會以來的第三次。而且[李恩至](../Page/李恩至.md "wikilink")、橋本亘司、[秋山和彥等有名的選手都在鐘擺橋這關提前落水](../Page/秋山和彥.md "wikilink")。本次[極限體能王全明星中的](../Page/極限體能王全明星.md "wikilink")[山田勝己](../Page/山田勝己.md "wikilink")、[秋山和彥兩位都表明是退休前最後一次挑戰](../Page/秋山和彥.md "wikilink")。
+由於上次漆原裕治二度達成完全制霸，本次大會再度進行大幅度改版，畫面右上角的剩餘時間也改成[七段顯示器模式](https://zh.wikipedia.org/wiki/七段顯示器 "wikilink")。本次關卡雖較之前的要少，但是難度相對的提高，進入第二舞台的僅有五人，且90號以後的選手（包含全明星在內）在第一舞台全滅，是繼第22回大會以來的第三次。而且[李恩至](../Page/李恩至.md "wikilink")、橋本亘司、[秋山和彥等有名的選手都在鐘擺橋這關提前落水](../Page/秋山和彥.md "wikilink")。本次[極限體能王全明星中的](../Page/極限體能王全明星.md "wikilink")[山田勝己](../Page/山田勝己.md "wikilink")、[秋山和彥兩位都表明是退休前最後一次挑戰](../Page/秋山和彥.md "wikilink")。
 
 第二舞台首次新增水上關卡，限制時間也增加為有史以來最多的135秒。第三舞台只有菅野仁志、漆原裕治與朝一眞獲得挑戰權，如同第三、第四時期剛開始，於新設的瘋狂巔峰戰士全滅。漆原裕治
 第四次總和第一/菅野仁志 第二次。
@@ -727,8 +726,9 @@ Warrior」中，播出美國10位預選代表的表現。
 
 **第29回大會** SASUKE RISING 2013（2013年6月27日播出）
 
-本次大會開賽原因，是為了要選出11月於[馬來西亞](../Page/馬來西亞.md "wikilink")[吉隆坡舉辦的](../Page/吉隆坡.md "wikilink")「SASUKE
-ASEAN OPEN CUP 2013」（極限體能王[東南亞國協開幕盃](../Page/東南亞國協.md "wikilink")）之日本代表。
+本次大會開賽原因，是為了要選出11月於[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡舉辦的](../Page/吉隆坡.md "wikilink")「SASUKE
+ASEAN OPEN CUP
+2013」（極限體能王[東南亞國協開幕盃](https://zh.wikipedia.org/wiki/東南亞國協 "wikilink")）之日本代表。
 
 4月底開始預選，上回宣佈引退的山本進悟收回引退決定，參加預選並獲得正式挑戰資格，保持參賽全勤。這回大會有不少隔了很久沒參賽的選手出席，包括小林正明和長崎峻侑以及鷲見裕二，全明星則另外還有竹田敏浩和長野誠參賽。山田勝己雖然沒參賽，但訓練了四名選手參加這次大會,組成了黑虎軍團。
 
@@ -792,7 +792,8 @@ ASEAN OPEN CUP
 
 第三舞台與上回一樣，全員皆抵達瘋狂巔峰戰士，但只有森本裕介、菅野仁志二人突破。其中菅野仁志第四度挑戰瘋狂巔峰戰士才終於突破，但在下一關垂直極限改版落水；而森本裕介則是雪恥成功，除突破第三舞台外，首次進入最終舞台便順利過關，成為史上第四位完全制霸者。
 
-  - 總合第1名 （91）[森本裕介](../Page/森本裕介.md "wikilink")，**完全制霸（剩餘2.59秒）**。
+  - 總合第1名
+    （91）[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")，**完全制霸（剩餘2.59秒）**。
   - 總合第2名 （96）菅野仁志，3-20 垂直極限 改〔第1→2段間隔〕。
   - 總合第3名 （31）日置將士、（89）高橋賢次、（94）杜魯.德雷契爾、（95）朝一真、（97）川口朋廣，3-19
     瘋狂巔峰戰士〔第3→4段落水〕。
@@ -806,12 +807,12 @@ ASEAN OPEN CUP
 
 **第五時期的代表性選手**
 
-  - [森本裕介](../Page/森本裕介.md "wikilink")，**完全制霸（剩餘2.59秒）**、史上最年輕的完全制霸者、唯一二度闖過瘋狂巔峰戰士的選手（第29、31回）、首位闖過瘋狂巔峰戰士的選手（第29回）。
-  - [川口朋廣](../Page/川口朋廣.md "wikilink")，首位突破第三舞台的選手、瘋狂巔峰戰士過關者（第30回）。
-  - [又地諒](../Page/又地諒.md "wikilink")，改版後再度闖進最終舞台者、瘋狂巔峰戰士過關者（第30回）。
-  - [朝一真](../Page/朝一真.md "wikilink")，連續四次大會闖進第三舞台（第28～31回）。
-  - [菅野仁志](../Page/菅野仁志.md "wikilink")，連續四次大會闖進第三舞台、瘋狂巔峰戰士過關者（第28～31回）。
-  - [岸本真彌](../Page/岸本真彌.md "wikilink")，瘋狂巔峰戰士過關者（第30回）。
+  - [森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")，**完全制霸（剩餘2.59秒）**、史上最年輕的完全制霸者、唯一二度闖過瘋狂巔峰戰士的選手（第29、31回）、首位闖過瘋狂巔峰戰士的選手（第29回）。
+  - [川口朋廣](https://zh.wikipedia.org/wiki/川口朋廣 "wikilink")，首位突破第三舞台的選手、瘋狂巔峰戰士過關者（第30回）。
+  - [又地諒](https://zh.wikipedia.org/wiki/又地諒 "wikilink")，改版後再度闖進最終舞台者、瘋狂巔峰戰士過關者（第30回）。
+  - [朝一真](https://zh.wikipedia.org/wiki/朝一真 "wikilink")，連續四次大會闖進第三舞台（第28～31回）。
+  - [菅野仁志](https://zh.wikipedia.org/wiki/菅野仁志 "wikilink")，連續四次大會闖進第三舞台、瘋狂巔峰戰士過關者（第28～31回）。
+  - [岸本真彌](https://zh.wikipedia.org/wiki/岸本真彌 "wikilink")，瘋狂巔峰戰士過關者（第30回）。
   - 染谷幸喜，首位突破改版後第一舞台。
 
 ### 第六時期（第32回大會～）
@@ -925,7 +926,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 ### [極限體能王全明星](../Page/極限體能王全明星.md "wikilink")
 
   - 1\. [山田勝己](../Page/山田勝己.md "wikilink")（出場27回
-    瓦斯搬運工→無職→[鐵](../Page/铁.md "wikilink")[工廠臨時工](../Page/工廠.md "wikilink")→鐵工廠社長、極限體能王先生）
+    瓦斯搬運工→無職→[鐵](https://zh.wikipedia.org/wiki/铁 "wikilink")[工廠臨時工](../Page/工廠.md "wikilink")→鐵工廠社長、極限體能王先生）
 
 <!-- end list -->
 
@@ -945,13 +946,13 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
   - 3\. [秋山和彥](../Page/秋山和彥.md "wikilink")（出場20回
-    前捕毛蟹漁夫→蓬和[治療院院長](../Page/治療.md "wikilink")、第4回大會完全制霸者）
+    前捕毛蟹漁夫→蓬和[治療院院長](https://zh.wikipedia.org/wiki/治療 "wikilink")、第4回大會完全制霸者）
 
 <!-- end list -->
 
   -
     現有四位完全制霸者之一，是「挑戰冠軍王」舉辦的Quick
-    Muscle（三分鍾[伏地挺身](../Page/俯卧撑.md "wikilink")）的紀錄保持者。由於因為[弱視只好放棄漁師及參加奧林匹克的夢](../Page/弱視.md "wikilink")。第4回時以**殘餘6秒**的時間達成首次完全制霸的壯舉。但是之後又因[弱視原因](../Page/弱視.md "wikilink")，連續五次在第一舞台出局。第11、12回復活，進入第三舞台。最後還是在地獄滑桿終點出局，自長野誠完全制霸後的第17回他向[工作人員表示退隱的決定](../Page/工作人員.md "wikilink")。但是他始終無法放棄極限體能王，向工作人員宣布退隱之後，仍舊在家默默的苦練，於是在第20回後復出，繼續挑戰極限體能王。但是他在復活之後，就再也沒有闖過第一舞台。第20回在乘風破浪抓住繩子後落水，第22回在乘風破浪意外滑倒出局，第24回和第25回都在聳立之牆時間到出局。第28回在鐘擺橋出局，賽後正式引退。
+    Muscle（三分鍾[伏地挺身](../Page/俯卧撑.md "wikilink")）的紀錄保持者。由於因為[弱視只好放棄漁師及參加奧林匹克的夢](../Page/弱視.md "wikilink")。第4回時以**殘餘6秒**的時間達成首次完全制霸的壯舉。但是之後又因[弱視原因](../Page/弱視.md "wikilink")，連續五次在第一舞台出局。第11、12回復活，進入第三舞台。最後還是在地獄滑桿終點出局，自長野誠完全制霸後的第17回他向[工作人員表示退隱的決定](https://zh.wikipedia.org/wiki/工作人員 "wikilink")。但是他始終無法放棄極限體能王，向工作人員宣布退隱之後，仍舊在家默默的苦練，於是在第20回後復出，繼續挑戰極限體能王。但是他在復活之後，就再也沒有闖過第一舞台。第20回在乘風破浪抓住繩子後落水，第22回在乘風破浪意外滑倒出局，第24回和第25回都在聳立之牆時間到出局。第28回在鐘擺橋出局，賽後正式引退。
 
 <!-- end list -->
 
@@ -991,7 +992,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 ### 全明星以外過去有過最終舞台經驗者
 
   - [川島孝幸](../Page/川島孝幸.md "wikilink")（出場9回
-    1995年雜技[體操世界選手權總和第六名](../Page/体操.md "wikilink")）
+    1995年雜技[體操世界選手權總和第六名](https://zh.wikipedia.org/wiki/体操 "wikilink")）
 
 <!-- end list -->
 
@@ -1001,8 +1002,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [楊崇](../Page/楊崇.md "wikilink")（出場2回
-    [中國](../Page/中国.md "wikilink")[武術](../Page/武術.md "wikilink")[教練](../Page/教練.md "wikilink")）
+  - [楊崇](https://zh.wikipedia.org/wiki/楊崇 "wikilink")（出場2回
+    [中國](https://zh.wikipedia.org/wiki/中国 "wikilink")[武術](../Page/武術.md "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")）
 
 <!-- end list -->
 
@@ -1011,7 +1012,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [長谷川健](../Page/長谷川健.md "wikilink")（出場3回
+  - [長谷川健](https://zh.wikipedia.org/wiki/長谷川健 "wikilink")（出場3回
     [日光](../Page/日光.md "wikilink")[江戶](../Page/江戶.md "wikilink")[村](../Page/村.md "wikilink")·[忍者](../Page/忍者.md "wikilink")）
 
 <!-- end list -->
@@ -1023,7 +1024,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [大森晃](../Page/大森晃.md "wikilink")（[モンキッキー](../Page/モンキッキー.md "wikilink")）（出場9回
+  - [大森晃](https://zh.wikipedia.org/wiki/大森晃 "wikilink")（[モンキッキー](https://zh.wikipedia.org/wiki/モンキッキー "wikilink")）（出場9回
     搞笑[藝人](../Page/艺人.md "wikilink")）
 
 <!-- end list -->
@@ -1034,8 +1035,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [田中光](../Page/田中光.md "wikilink")（出場2回
-    1996年[亞特蘭大](../Page/亚特兰大.md "wikilink")[奧林匹克](../Page/奥林匹克运动会.md "wikilink")[雙槓](../Page/双杠.md "wikilink")[選手](../Page/選手.md "wikilink")）
+  - [田中光](https://zh.wikipedia.org/wiki/田中光 "wikilink")（出場2回
+    1996年[亞特蘭大](../Page/亚特兰大.md "wikilink")[奧林匹克](../Page/奥林匹克运动会.md "wikilink")[雙槓](../Page/双杠.md "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")）
 
 <!-- end list -->
 
@@ -1045,7 +1046,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [松本稔](../Page/松本稔.md "wikilink")（出場1回 建築工人）
+  - [松本稔](https://zh.wikipedia.org/wiki/松本稔 "wikilink")（出場1回 建築工人）
 
 <!-- end list -->
 
@@ -1054,7 +1055,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [山本達也](../Page/山本達也.md "wikilink")（出場2回
+  - [山本達也](https://zh.wikipedia.org/wiki/山本達也 "wikilink")（出場2回
     [木工](../Page/木工.md "wikilink")）
 
 <!-- end list -->
@@ -1064,8 +1065,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [約旦.尤布契夫](../Page/約旦.尤布契夫.md "wikilink")（出場7回
-    [雅典奧運](../Page/雅典奧運.md "wikilink")[吊環銀牌](../Page/吊环.md "wikilink")、地板[銅牌獎](../Page/铜牌.md "wikilink")；連續參加五屆[奧運](../Page/奥林匹克运动会.md "wikilink")）
+  - [約旦.尤布契夫](https://zh.wikipedia.org/wiki/約旦.尤布契夫 "wikilink")（出場7回
+    [雅典奧運](https://zh.wikipedia.org/wiki/雅典奧運 "wikilink")[吊環銀牌](../Page/吊环.md "wikilink")、地板[銅牌獎](https://zh.wikipedia.org/wiki/铜牌 "wikilink")；連續參加五屆[奧運](../Page/奥林匹克运动会.md "wikilink")）
 
 <!-- end list -->
 
@@ -1074,19 +1075,19 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [Ken小杉](../Page/Ken小杉.md "wikilink")（出場5回
-    [演員](../Page/演員.md "wikilink")）
+  - [Ken小杉](https://zh.wikipedia.org/wiki/Ken小杉 "wikilink")（出場5回
+    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
 
 <!-- end list -->
 
   -
     第1回首次出場闖進第三舞台，在希臘圓柱脫落（No.89）。第4回在第三舞台新設的巔峰戰士脫落（No.97）。第6回時在跳躍懸吊時差點抓到最上段，本次大會第一舞台以殘存14秒為最快紀錄，在第三舞台人體支架脫落（No.98）。第7回時在跳躍懸吊時抓到最上段成功，本次大會第一舞台以殘存16秒6過關，可惜在第二舞台更新的蜘蛛步道脫落（No.98），弟弟Shane小杉則是闖進第三舞台。
-    在颱風接近的第8回，看到弟弟Shane在第一舞台失敗的流淚，說「要連Shane的份一起努力」，在第一舞台慎重的以10秒5過關。在第三舞台，曾經失敗過的人體支架與巔峰戰士都過關了，在地獄滑桿跳出去時，跟[約旦由布契夫同樣](../Page/約旦由布契夫.md "wikilink")，以雙腳夾住終點而闖到最終舞台。不過，在最終舞台時下大雨，雖然通過了蜘蛛攀爬，但在攀繩時時間用盡，在雨中流下英雄淚（No.91）。之後再也沒有來參加極限體能王。
+    在颱風接近的第8回，看到弟弟Shane在第一舞台失敗的流淚，說「要連Shane的份一起努力」，在第一舞台慎重的以10秒5過關。在第三舞台，曾經失敗過的人體支架與巔峰戰士都過關了，在地獄滑桿跳出去時，跟[約旦由布契夫同樣](https://zh.wikipedia.org/wiki/約旦由布契夫 "wikilink")，以雙腳夾住終點而闖到最終舞台。不過，在最終舞台時下大雨，雖然通過了蜘蛛攀爬，但在攀繩時時間用盡，在雨中流下英雄淚（No.91）。之後再也沒有來參加極限體能王。
 
 <!-- end list -->
 
-  - [朝岡弘行](../Page/朝岡弘行.md "wikilink")（出場10回
-    [小學](../Page/小学.md "wikilink")[老師](../Page/老师.md "wikilink")→[繪本](../Page/繪本.md "wikilink")[作家志願](../Page/作家.md "wikilink")）
+  - [朝岡弘行](https://zh.wikipedia.org/wiki/朝岡弘行 "wikilink")（出場10回
+    [小學](../Page/小学.md "wikilink")[老師](https://zh.wikipedia.org/wiki/老师 "wikilink")→[繪本](../Page/繪本.md "wikilink")[作家志願](https://zh.wikipedia.org/wiki/作家 "wikilink")）
 
 <!-- end list -->
 
@@ -1095,13 +1096,13 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [長崎峻侑](../Page/長崎峻侑.md "wikilink")（出場14回
-    世界冠軍團體日本代表獲得了[銀牌的彈簧床](../Page/银牌.md "wikilink")[運動員](../Page/运动员.md "wikilink")、[國士館大學體育系](../Page/國士館大學.md "wikilink")→彈簧床[表演者](../Page/表演者.md "wikilink")）
+  - [長崎峻侑](https://zh.wikipedia.org/wiki/長崎峻侑 "wikilink")（出場14回
+    世界冠軍團體日本代表獲得了[銀牌的彈簧床](https://zh.wikipedia.org/wiki/银牌 "wikilink")[運動員](https://zh.wikipedia.org/wiki/运动员 "wikilink")、[國士館大學體育系](../Page/國士館大學.md "wikilink")→彈簧床[表演者](https://zh.wikipedia.org/wiki/表演者 "wikilink")）
 
 <!-- end list -->
 
   -
-    [北京奧運彈簧床項目指定強化選手](../Page/2008年夏季奥林匹克运动会.md "wikilink")。初出場在第14回，當時他是高二生，成為本大會率先通過第一舞台者，在芝麻開門時間到（No.67）。第15回也是第一位過第一舞台者，在巔峰戰士第1格脫落（No.65）。第16回在巔峰戰士第2格脫落（No.89）。2006年春天上大學，第17回以殘存17秒67最快通過第一舞台，在通過巔峰戰士後剩餘的關卡也通過，與[長野誠闖進最終舞台](../Page/長野誠.md "wikilink")（No.87）。第18回與弟弟剛政一起出場，兄弟倆都闖過第一舞台，在第三舞台的新巔峰戰士第2→3個空格脫落（No.97）。第19回也是兄弟一起出場，在飛越大峽谷脫落，首次在第一舞台失敗（No.97）。第29回相隔10回再度參加，在第二舞台開牆步道第一道牆後時間到（No.93）。第30回在瘋狂巔峰戰士落水（中途剪接，No.2986）。第31回在三重拓克號太多體力，在聳立之牆陷入苦戰，最後在直壁攀牆耗盡時間（畫面全剪，No.88）。第32回在鋼管飛移落水（No.87）。第33回也在鋼管飛移落水（2→3段，No.98）。第34回卻在蜘蛛步道意外落水（中途剪接，No.95）。第35回因前一選手於蜘蛛迫降落水而過度謹慎，意外於相同地方落水（No.92）。第36回大會則在第一舞台馴龍高手落水（著地失敗
+    [北京奧運彈簧床項目指定強化選手](https://zh.wikipedia.org/wiki/2008年夏季奥林匹克运动会 "wikilink")。初出場在第14回，當時他是高二生，成為本大會率先通過第一舞台者，在芝麻開門時間到（No.67）。第15回也是第一位過第一舞台者，在巔峰戰士第1格脫落（No.65）。第16回在巔峰戰士第2格脫落（No.89）。2006年春天上大學，第17回以殘存17秒67最快通過第一舞台，在通過巔峰戰士後剩餘的關卡也通過，與[長野誠闖進最終舞台](../Page/長野誠.md "wikilink")（No.87）。第18回與弟弟剛政一起出場，兄弟倆都闖過第一舞台，在第三舞台的新巔峰戰士第2→3個空格脫落（No.97）。第19回也是兄弟一起出場，在飛越大峽谷脫落，首次在第一舞台失敗（No.97）。第29回相隔10回再度參加，在第二舞台開牆步道第一道牆後時間到（No.93）。第30回在瘋狂巔峰戰士落水（中途剪接，No.2986）。第31回在三重拓克號太多體力，在聳立之牆陷入苦戰，最後在直壁攀牆耗盡時間（畫面全剪，No.88）。第32回在鋼管飛移落水（No.87）。第33回也在鋼管飛移落水（2→3段，No.98）。第34回卻在蜘蛛步道意外落水（中途剪接，No.95）。第35回因前一選手於蜘蛛迫降落水而過度謹慎，意外於相同地方落水（No.92）。第36回大會則在第一舞台馴龍高手落水（著地失敗
     No.94）。曾在白鳥文平家做過幾次練習，自己家有巔峰戰士的組套，兄弟一起練習著。
 
 <!-- end list -->
@@ -1113,24 +1114,25 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
   -
     現有的四位完全制霸者之三，極限體能王挑戰最終舞台第二多次的選手（與大森晃相同紀錄）。因為對[極限體能王全明星有著憧憬與崇拜](../Page/極限體能王全明星.md "wikilink")，所以參加過無數次的預選賽。從第11回開賽前「[體育王國](../Page/體育王國.md "wikilink")」舉辦的Monkey
-    Bars、第13回前「[黃金筋肉](../Page/黃金筋肉.md "wikilink")」舉辦的「SASUKE
-    TRIAL」（在跳躍懸吊落下）、[東京](../Page/東京.md "wikilink")[台場筋肉公園的預選賽](../Page/台場.md "wikilink")，到第20回前的預選賽中，沒有一次過關。2008年時在[山田勝己故鄉舉辦的](../Page/山田勝己.md "wikilink")「SASUKE祭2008」中終於完全制霸，因此獲得了第21回的參賽權，但卻在第一舞台的飛越大峽谷脫落（畫面全剪，No.72，在日本節目『サスケマニア』公開）。第22回時也通過了預選賽，在第一舞台中以7.51秒之最快紀錄過關，也比全明星搶先一步闖過改版的第三舞台，成為極限體能王第二度大幅度改版首位闖入最終舞台者，最後在攀繩終點前時間到，雖然沒有達成第三人的完全制霸，但還是到了最終舞台的頂點上（No.77）。第23回卻在第2舞台新設的搖擺危橋著陸時一時大意落水（No.99）。第24回時，在第一舞台中以24.35秒之最快紀錄過關，成為了最終舞台5人中的其中一人
+    Bars、第13回前「[黃金筋肉](https://zh.wikipedia.org/wiki/黃金筋肉 "wikilink")」舉辦的「SASUKE
+    TRIAL」（在跳躍懸吊落下）、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場筋肉公園的預選賽](https://zh.wikipedia.org/wiki/台場 "wikilink")，到第20回前的預選賽中，沒有一次過關。2008年時在[山田勝己故鄉舉辦的](../Page/山田勝己.md "wikilink")「SASUKE祭2008」中終於完全制霸，因此獲得了第21回的參賽權，但卻在第一舞台的飛越大峽谷脫落（畫面全剪，No.72，在日本節目『サスケマニア』公開）。第22回時也通過了預選賽，在第一舞台中以7.51秒之最快紀錄過關，也比全明星搶先一步闖過改版的第三舞台，成為極限體能王第二度大幅度改版首位闖入最終舞台者，最後在攀繩終點前時間到，雖然沒有達成第三人的完全制霸，但還是到了最終舞台的頂點上（No.77）。第23回卻在第2舞台新設的搖擺危橋著陸時一時大意落水（No.99）。第24回時，在第一舞台中以24.35秒之最快紀錄過關，成為了最終舞台5人中的其中一人
     ,
     達成了史上第三人的完全制霸（No.93）。第25回時，首次背上100號的重擔，在[秋山和彥](../Page/秋山和彥.md "wikilink")、[長野誠接連失敗的壓力之下](../Page/長野誠.md "wikilink")，通過了第一舞台。但他卻在第二舞台的雙鯉魚躍龍門的第一排往第二排進行跳躍時，橫桿撞擊掛勾，導致整根桿子垂直吊在半空，因此腳沾到水出局，也因此，三位完全制霸者全軍覆沒。第26回在第一關蜘蛛跳躍差點出局，後來因為壓力過大，於飛簷走壁迴盪兩次，著陸時不穩而落水（No.100）。第27回達成了史上第四次的完全制霸，也成為史上第一位達成**2次完全制霸**的選手（No.99），留下6.71秒為史上最快。第28回於第三舞台的瘋狂巔峰戰士落水，首次於第三舞台出局（No.88）。第29回於第二舞台的逆流水道出局（No.99）。第30回於第二舞台的芝麻開門出局（No.2993）。第31回在聳立高牆時間到（因為前一道關卡消耗太多體力，導致爬不上聳立高牆，No.99）。第32回在雙重擺盪落水（No.89）。第33回在滾輪山丘落水（No.89）。第34回在第二舞台逆向輸送帶爬完後時間到（No.99）。第35回再度因三重拓克耗費腳力，於聳立高牆時間到（No.95）。第36回大會相隔6年再度闖進第三舞台，於從未挑戰過的垂直極限第三段落水（No.95）。
 
 <!-- end list -->
 
-  - [菅野仁志](../Page/菅野仁志.md "wikilink")（出場14回
+  - [菅野仁志](https://zh.wikipedia.org/wiki/菅野仁志 "wikilink")（出場14回
     [國士館大學體操部出身](../Page/國士館大學.md "wikilink")→[飛特族](../Page/飛特族.md "wikilink")→銀飾品設計師）
 
 <!-- end list -->
 
   -
-    第20回首次出場，在第一舞台的蜘蛛跳躍出局（畫面全剪，No.1976）。第22回時，以預選賽代表的身分出場，在第一舞台率先過關，在第三舞台成為史上第3位闖過新巔峰戰士的選手，但在後半段的蜘蛛換面因抓到關卡外的鋼架而犯規出局（No.49）。第23回時，則與[長野誠共同闖進了最終舞台](../Page/長野誠.md "wikilink")，最後在攀繩時因力氣已耗盡而時間到出局（No.96）。第24回時，與山本進悟一樣在乘風破浪多來回盪了2次，之後又在聳立之牆拖太多時間，最後在泰山之繩前時間到（No.99）。第25回闖進第二舞台，又與[山本進悟一樣](../Page/山本進悟.md "wikilink")，意外的在平衡水槽出局（No.89）。第26回與[山本進悟及](../Page/山本進悟.md "wikilink")[高橋賢次犯同樣錯誤](../Page/高橋賢次.md "wikilink")，在第一舞台新關卡滾圓板因旋轉過快被甩入水中（中途剪接，No.93）。第27回在滑行迫降因手摔傷而棄權（No.1）。第28屆到第30屆都在瘋狂巔峰戰士落水（No.89）（No.97）（No.2996），第31屆終於闖過瘋狂巔峰戰士在垂直極限落水（No.96）。第32回在聳立之牆爬上後肩膀脫臼時間到（No.96）。第33回在滾輪山丘著陸失敗（No.92）。第34回缺席。第35回在新關卡馴龍高手著地失敗落水（No.72）。第36回缺席。
+    第20回首次出場，在第一舞台的蜘蛛跳躍出局（畫面全剪，No.1976）。第22回時，以預選賽代表的身分出場，在第一舞台率先過關，在第三舞台成為史上第3位闖過新巔峰戰士的選手，但在後半段的蜘蛛換面因抓到關卡外的鋼架而犯規出局（No.49）。第23回時，則與[長野誠共同闖進了最終舞台](../Page/長野誠.md "wikilink")，最後在攀繩時因力氣已耗盡而時間到出局（No.96）。第24回時，與山本進悟一樣在乘風破浪多來回盪了2次，之後又在聳立之牆拖太多時間，最後在泰山之繩前時間到（No.99）。第25回闖進第二舞台，又與[山本進悟一樣](../Page/山本進悟.md "wikilink")，意外的在平衡水槽出局（No.89）。第26回與[山本進悟及](../Page/山本進悟.md "wikilink")[高橋賢次犯同樣錯誤](https://zh.wikipedia.org/wiki/高橋賢次 "wikilink")，在第一舞台新關卡滾圓板因旋轉過快被甩入水中（中途剪接，No.93）。第27回在滑行迫降因手摔傷而棄權（No.1）。第28屆到第30屆都在瘋狂巔峰戰士落水（No.89）（No.97）（No.2996），第31屆終於闖過瘋狂巔峰戰士在垂直極限落水（No.96）。第32回在聳立之牆爬上後肩膀脫臼時間到（No.96）。第33回在滾輪山丘著陸失敗（No.92）。第34回缺席。第35回在新關卡馴龍高手著地失敗落水（No.72）。第36回缺席。
 
 <!-- end list -->
 
-  - [橋本亘司](../Page/橋本亘司.md "wikilink")（出場9回 健身房教練→體育協會體操指導員）
+  - [橋本亘司](https://zh.wikipedia.org/wiki/橋本亘司 "wikilink")（出場9回
+    健身房教練→體育協會體操指導員）
 
 <!-- end list -->
 
@@ -1139,7 +1141,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [高橋賢次](../Page/高橋賢次.md "wikilink")（出場21回 佐川急便駕駛→運送業）
+  - [高橋賢次](https://zh.wikipedia.org/wiki/高橋賢次 "wikilink")（出場21回
+    佐川急便駕駛→運送業）
 
 <!-- end list -->
 
@@ -1153,7 +1156,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [奧山義行](../Page/奧山義行.md "wikilink")（出場10回 1991年世界田徑錦標賽200m日本代表→運動教練）
+  - [奧山義行](https://zh.wikipedia.org/wiki/奧山義行 "wikilink")（出場10回
+    1991年世界田徑錦標賽200m日本代表→運動教練）
 
 <!-- end list -->
 
@@ -1163,7 +1167,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [又地諒](../Page/又地諒.md "wikilink")（出場13回 塗装工→無職→配管工）
+  - [又地諒](https://zh.wikipedia.org/wiki/又地諒 "wikilink")（出場13回
+    塗装工→無職→配管工）
 
 <!-- end list -->
 
@@ -1176,7 +1181,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [川口朋廣](../Page/川口朋廣.md "wikilink")（出場12回 運送業→混凝土攪拌車司機→登山鞋製作總監）
+  - [川口朋廣](https://zh.wikipedia.org/wiki/川口朋廣 "wikilink")（出場12回
+    運送業→混凝土攪拌車司機→登山鞋製作總監）
 
 <!-- end list -->
 
@@ -1185,8 +1191,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [森本裕介](../Page/森本裕介.md "wikilink")（出場13回
-    [學生](../Page/學生.md "wikilink")→IDEC軟體工程師、第31回大會完全制霸者）
+  - [森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")（出場13回
+    [學生](https://zh.wikipedia.org/wiki/學生 "wikilink")→IDEC軟體工程師、第31回大會完全制霸者）
 
 <!-- end list -->
 
@@ -1195,7 +1201,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 實力堅強的選手（有過第三舞台經驗者）
 
-  - [三浦英一](../Page/三浦英一.md "wikilink")（出場9回 建築工人）
+  - [三浦英一](https://zh.wikipedia.org/wiki/三浦英一 "wikilink")（出場9回 建築工人）
 
 <!-- end list -->
 
@@ -1204,7 +1210,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [上田拓右](../Page/上田拓右.md "wikilink") （出場2回 攀石專家、網絡供應商）
+  - [上田拓右](https://zh.wikipedia.org/wiki/上田拓右 "wikilink") （出場2回
+    攀石專家、網絡供應商）
 
 <!-- end list -->
 
@@ -1213,7 +1220,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [海老原匡一](../Page/海老原匡一.md "wikilink")（出場1回 佐川急便司機）
+  - [海老原匡一](https://zh.wikipedia.org/wiki/海老原匡一 "wikilink")（出場1回 佐川急便司機）
 
 <!-- end list -->
 
@@ -1222,7 +1229,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [吉崎浩亮](../Page/吉崎浩亮.md "wikilink")（出場5回 製藥研究員）
+  - [吉崎浩亮](https://zh.wikipedia.org/wiki/吉崎浩亮 "wikilink")（出場5回 製藥研究員）
 
 <!-- end list -->
 
@@ -1231,8 +1238,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [Shane小杉](../Page/Shane小杉.md "wikilink")（出場7回
-    [演員](../Page/演員.md "wikilink")、Ken小杉的弟弟）
+  - [Shane小杉](https://zh.wikipedia.org/wiki/Shane小杉 "wikilink")（出場7回
+    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、Ken小杉的弟弟）
 
 <!-- end list -->
 
@@ -1241,7 +1248,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [池谷直樹](../Page/池谷直樹.md "wikilink")（出場20回 怪物跳箱世界紀錄保持者、演員）
+  - [池谷直樹](https://zh.wikipedia.org/wiki/池谷直樹 "wikilink")（出場20回
+    怪物跳箱世界紀錄保持者、演員）
 
 <!-- end list -->
 
@@ -1250,7 +1258,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [中村繁之](../Page/中村繁之.md "wikilink")（出場2回 演員）
+  - [中村繁之](https://zh.wikipedia.org/wiki/中村繁之 "wikilink")（出場2回 演員）
 
 <!-- end list -->
 
@@ -1259,7 +1267,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [蔡維斯.亞倫.史瑞德](../Page/蔡維斯.亞倫.史瑞德.md "wikilink")（出場2回 作業潛水員）
+  - [蔡維斯.亞倫.史瑞德](https://zh.wikipedia.org/wiki/蔡維斯.亞倫.史瑞德 "wikilink")（出場2回
+    作業潛水員）
 
 <!-- end list -->
 
@@ -1268,7 +1277,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [岡田英次（James岡田）](../Page/岡田英次（James岡田）.md "wikilink")（出場3回
+  - [岡田英次（James岡田）](https://zh.wikipedia.org/wiki/岡田英次（James岡田） "wikilink")（出場3回
     SHO小杉塾第一期畢業生）
 
 <!-- end list -->
@@ -1278,7 +1287,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [久保木浩功](../Page/久保木浩功.md "wikilink")（出場3回 東大體操部、極限體能王分析家）
+  - [久保木浩功](https://zh.wikipedia.org/wiki/久保木浩功 "wikilink")（出場3回
+    東大體操部、極限體能王分析家）
 
 <!-- end list -->
 
@@ -1287,8 +1297,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [畠田好章](../Page/畠田好章.md "wikilink")（出場1回
-    [巴塞隆納奧運體操](../Page/1992年夏季奥林匹克运动会.md "wikilink")[銅牌得主](../Page/铜牌.md "wikilink")）
+  - [畠田好章](https://zh.wikipedia.org/wiki/畠田好章 "wikilink")（出場1回
+    [巴塞隆納奧運體操](https://zh.wikipedia.org/wiki/1992年夏季奥林匹克运动会 "wikilink")[銅牌得主](https://zh.wikipedia.org/wiki/铜牌 "wikilink")）
 
 <!-- end list -->
 
@@ -1297,7 +1307,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [照英](../Page/照英.md "wikilink")（出場3回
+  - [照英](https://zh.wikipedia.org/wiki/照英 "wikilink")（出場3回
     [模特兒](../Page/模特兒.md "wikilink")）
 
 <!-- end list -->
@@ -1307,8 +1317,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [中田大輔](../Page/中田大輔.md "wikilink")（出場9回
-    職業彈簧床[運動員](../Page/运动员.md "wikilink")）
+  - [中田大輔](https://zh.wikipedia.org/wiki/中田大輔 "wikilink")（出場9回
+    職業彈簧床[運動員](https://zh.wikipedia.org/wiki/运动员 "wikilink")）
 
 <!-- end list -->
 
@@ -1317,7 +1327,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [佐藤學](../Page/佐藤學.md "wikilink") （出場3回 器械體操歷11年）
+  - [佐藤學](https://zh.wikipedia.org/wiki/佐藤學 "wikilink") （出場3回 器械體操歷11年）
 
 <!-- end list -->
 
@@ -1326,7 +1336,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [小林信治](../Page/小林信治.md "wikilink")（出場10回 廢棄物搬運業者）
+  - [小林信治](https://zh.wikipedia.org/wiki/小林信治 "wikilink")（出場10回 廢棄物搬運業者）
 
 <!-- end list -->
 
@@ -1336,7 +1346,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [山田康司](../Page/山田康司.md "wikilink")（出場7回 岐阜縣郡上市消防員）
+  - [山田康司](https://zh.wikipedia.org/wiki/山田康司 "wikilink")（出場7回
+    岐阜縣郡上市消防員）
 
 <!-- end list -->
 
@@ -1346,7 +1357,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [石川輝一](../Page/石川輝一.md "wikilink") （出場8回 筋肉歌舞秀演員）
+  - [石川輝一](https://zh.wikipedia.org/wiki/石川輝一 "wikilink") （出場8回 筋肉歌舞秀演員）
 
 <!-- end list -->
 
@@ -1355,7 +1366,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [鈴木祐輔](../Page/鈴木祐輔.md "wikilink") （出場9回 體育老師，第三代極限體能王老師）
+  - [鈴木祐輔](https://zh.wikipedia.org/wiki/鈴木祐輔 "wikilink") （出場9回
+    體育老師，第三代極限體能王老師）
 
 <!-- end list -->
 
@@ -1364,8 +1376,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [保羅.安東尼.垂克](../Page/保羅.安東尼.垂克.md "wikilink")（出場4回
-    [雅典奧運](../Page/雅典奧運.md "wikilink")10項全能代表）
+  - [保羅.安東尼.垂克](https://zh.wikipedia.org/wiki/保羅.安東尼.垂克 "wikilink")（出場4回
+    [雅典奧運](https://zh.wikipedia.org/wiki/雅典奧運 "wikilink")10項全能代表）
 
 <!-- end list -->
 
@@ -1374,7 +1386,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [布萊恩.歐洛斯科](../Page/布萊恩.歐洛斯科.md "wikilink")（出場5回
+  - [布萊恩.歐洛斯科](https://zh.wikipedia.org/wiki/布萊恩.歐洛斯科 "wikilink")（出場5回
     [跑酷](../Page/跑酷.md "wikilink")（Free Running）選手）
 
 <!-- end list -->
@@ -1384,7 +1396,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [李維.謬恩巴克](../Page/李維.謬恩巴克.md "wikilink")（出場5回 跑酷選手）
+  - [李維.謬恩巴克](https://zh.wikipedia.org/wiki/李維.謬恩巴克 "wikilink")（出場5回
+    跑酷選手）
 
 <!-- end list -->
 
@@ -1393,7 +1406,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [宮崎大輔](../Page/宮崎大輔.md "wikilink")（出場4回
+  - [宮崎大輔](https://zh.wikipedia.org/wiki/宮崎大輔 "wikilink")（出場4回
     職業[手球選手](../Page/手球.md "wikilink")）
 
 <!-- end list -->
@@ -1403,17 +1416,17 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [佐藤惇](../Page/佐藤惇.md "wikilink")（出場9回 日本首位跑酷指導員）
+  - [佐藤惇](https://zh.wikipedia.org/wiki/佐藤惇 "wikilink")（出場9回 日本首位跑酷指導員）
 
 <!-- end list -->
 
   -
-    第21回高中二年級時以預選會第五名通過預賽首度參賽，於圓木滑降落水（中途剪接，No.44）。第22回缺席。第23回以預選會第一名身分參賽，首次闖過第一舞台，於第二舞台鯉魚躍龍門落水（中途剪接，No.50）。第24回因在第一舞台傷到肩膀，再度於第二舞台鯉魚躍龍門落水（No.78）。第25回終於如願闖過鯉魚躍龍門，卻在搖擺危橋落水（No.18）。接著連續在第26～31回缺席（第29回有參加預選會沒通過）。第32回以跑酷指導員身分相隔六年參賽，並首次闖進第三舞台，且創下該回日本人最佳成績，於無敵瘋狂巔峰戰士落水（中途剪接，No.76）。第33回第一舞台以最快速度通過，於前回大會有過的鋼管飛躍落水（No.97）。第34回大會於第二舞台以最快速度通過，再度於無敵瘋狂巔峰戰士落水（中途剪接，No.96），由於該回個舞台挑戰時都是中途剪接的畫面，加上前幾回也時常都是中途剪接掉，因此引發觀眾與網友不滿爭議，播出後SASUKE的演出[乾雅人在推特上表示是因家庭的因素而剪接的](../Page/乾雅人.md "wikilink")\[2\]。第35回大會播出挑戰全程畫面，並做出賽前CM場景重現，並再度成為最快通過第一舞台者，於第三舞台無敵瘋狂巔峰戰士再度落水（No.97）。第36回大會也以很快的速度闖過一二舞台，但又於第三舞台無敵瘋狂顛翻戰士落水（No.96）。
+    第21回高中二年級時以預選會第五名通過預賽首度參賽，於圓木滑降落水（中途剪接，No.44）。第22回缺席。第23回以預選會第一名身分參賽，首次闖過第一舞台，於第二舞台鯉魚躍龍門落水（中途剪接，No.50）。第24回因在第一舞台傷到肩膀，再度於第二舞台鯉魚躍龍門落水（No.78）。第25回終於如願闖過鯉魚躍龍門，卻在搖擺危橋落水（No.18）。接著連續在第26～31回缺席（第29回有參加預選會沒通過）。第32回以跑酷指導員身分相隔六年參賽，並首次闖進第三舞台，且創下該回日本人最佳成績，於無敵瘋狂巔峰戰士落水（中途剪接，No.76）。第33回第一舞台以最快速度通過，於前回大會有過的鋼管飛躍落水（No.97）。第34回大會於第二舞台以最快速度通過，再度於無敵瘋狂巔峰戰士落水（中途剪接，No.96），由於該回個舞台挑戰時都是中途剪接的畫面，加上前幾回也時常都是中途剪接掉，因此引發觀眾與網友不滿爭議，播出後SASUKE的演出[乾雅人在推特上表示是因家庭的因素而剪接的](https://zh.wikipedia.org/wiki/乾雅人 "wikilink")\[2\]。第35回大會播出挑戰全程畫面，並做出賽前CM場景重現，並再度成為最快通過第一舞台者，於第三舞台無敵瘋狂巔峰戰士再度落水（No.97）。第36回大會也以很快的速度闖過一二舞台，但又於第三舞台無敵瘋狂顛翻戰士落水（No.96）。
 
 <!-- end list -->
 
-  - [大衛.坎貝爾](../Page/大衛.坎貝爾.md "wikilink")（出場3回
-    [音樂家](../Page/音乐家.md "wikilink")）
+  - [大衛.坎貝爾](https://zh.wikipedia.org/wiki/大衛.坎貝爾 "wikilink")（出場3回
+    [音樂家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")）
 
 <!-- end list -->
 
@@ -1422,8 +1435,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [日置將士](../Page/日置將士.md "wikilink")（出場11回
-    [電器店長](../Page/電器店.md "wikilink")）
+  - [日置將士](https://zh.wikipedia.org/wiki/日置將士 "wikilink")（出場11回
+    [電器店長](https://zh.wikipedia.org/wiki/電器店 "wikilink")）
 
 <!-- end list -->
 
@@ -1433,8 +1446,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [岸本真彌](../Page/岸本真彌.md "wikilink")（出場7回
-    [業務員](../Page/業務.md "wikilink")）
+  - [岸本真彌](https://zh.wikipedia.org/wiki/岸本真彌 "wikilink")（出場7回
+    [業務員](https://zh.wikipedia.org/wiki/業務 "wikilink")）
 
 <!-- end list -->
 
@@ -1443,7 +1456,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [布列特.史帝芬森](../Page/布列特.史帝芬森.md "wikilink")（出場3回
+  - [布列特.史帝芬森](https://zh.wikipedia.org/wiki/布列特.史帝芬森 "wikilink")（出場3回
     [特技演員](../Page/特技演員.md "wikilink")）
 
 <!-- end list -->
@@ -1453,8 +1466,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [杜魯.德雷契爾](../Page/杜魯.德雷契爾.md "wikilink") （出場8回 美國New Era
-    Ninjas教練、Real Life Academy擁有者）
+  - [杜魯.德雷契爾](https://zh.wikipedia.org/wiki/杜魯.德雷契爾 "wikilink") （出場8回
+    美國New Era Ninjas教練、Real Life Academy擁有者）
 
 <!-- end list -->
 
@@ -1464,7 +1477,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [拉基瓦爾.阿納斯塔](../Page/拉基瓦爾.阿納斯塔.md "wikilink")（出場4回
+  - [拉基瓦爾.阿納斯塔](https://zh.wikipedia.org/wiki/拉基瓦爾.阿納斯塔 "wikilink")（出場4回
     [大溪地舞老師](../Page/大溪地.md "wikilink")）
 
 <!-- end list -->
@@ -1474,7 +1487,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [小畑仁志](../Page/小畑仁志.md "wikilink")（出場4回
+  - [小畑仁志](https://zh.wikipedia.org/wiki/小畑仁志 "wikilink")（出場4回
     [海苔機器維修工](../Page/海苔.md "wikilink")）
 
 <!-- end list -->
@@ -1484,7 +1497,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [安德列.席姆](../Page/安德列.席姆.md "wikilink") （出場1回
+  - [安德列.席姆](https://zh.wikipedia.org/wiki/安德列.席姆 "wikilink") （出場1回
     [瑞典跑酷達人](../Page/瑞典.md "wikilink")）
 
 <!-- end list -->
@@ -1496,7 +1509,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 ### 臺灣選手
 
   - [陳子強](../Page/陳子強.md "wikilink")（出場1回
-    [演員](../Page/演員.md "wikilink")，台灣藝人[傅天穎丈夫](../Page/傅天穎.md "wikilink")）
+    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，台灣藝人[傅天穎丈夫](https://zh.wikipedia.org/wiki/傅天穎 "wikilink")）
 
 <!-- end list -->
 
@@ -1539,7 +1552,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 :\*儘管常常過完第一舞台時，所剩的時間都不到5秒（第25和29回大會除外），但第18回大改版以來，連續6屆大會闖過第一舞台（第21\~26回）。
 
-  - [洪恭芹](../Page/洪恭芹.md "wikilink")（出場3回 英語教師）
+  - [洪恭芹](https://zh.wikipedia.org/wiki/洪恭芹 "wikilink")（出場3回 英語教師）
 
 <!-- end list -->
 
@@ -1550,7 +1563,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [廖龒隼](../Page/廖龒隼.md "wikilink")（出場4回 健身教練）
+  - [廖龒隼](https://zh.wikipedia.org/wiki/廖龒隼 "wikilink")（出場4回 健身教練）
 
 <!-- end list -->
 
@@ -1566,8 +1579,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 出場10回以上
 
-  - [立川福裕](../Page/立川福裕.md "wikilink")（出場10回
-    [保險公司](../Page/保險公司.md "wikilink")[員工](../Page/員工.md "wikilink")）
+  - [立川福裕](https://zh.wikipedia.org/wiki/立川福裕 "wikilink")（出場10回
+    [保險公司](https://zh.wikipedia.org/wiki/保險公司 "wikilink")[員工](https://zh.wikipedia.org/wiki/員工 "wikilink")）
 
 <!-- end list -->
 
@@ -1576,8 +1589,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [飯島豐久](../Page/飯島豐久.md "wikilink")（出場13回
-    [演員](../Page/演員.md "wikilink")）
+  - [飯島豐久](https://zh.wikipedia.org/wiki/飯島豐久 "wikilink")（出場13回
+    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
 
 <!-- end list -->
 
@@ -1586,17 +1599,18 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [高橋博光](../Page/高橋博光.md "wikilink")（出場11回 古典芭蕾舞者）
+  - [高橋博光](https://zh.wikipedia.org/wiki/高橋博光 "wikilink")（出場11回 古典芭蕾舞者）
 
 <!-- end list -->
 
   -
-    在「筋肉歌舞劇團」、「[富士海筋肉王](../Page/富士海筋肉王.md "wikilink")」活躍。又稱「野生芭蕾舞者」、「丁字褲先生」。第7回首次出場，難關跳躍懸吊過關後，在聳立之牆出局（No.9）。第8回在跳躍懸吊像在跳水似的出局，實況指出「果然是追求美麗的芭蕾舞者，這肯定是史上最美的跳水。」（No.11），第9回（No.11）、第10回都在跳躍懸吊出局（No.945）。第11回在滾圓木著陸之後，由於反作用力太強，頭上腳下的落水（No.34）。第12回大會也在跳躍懸吊出局（No.61）。第7回首次出場之後，永遠也突破不了跳躍懸吊。隨後[黃金筋肉舉辦的極限體能王預選會](../Page/黃金筋肉.md "wikilink")，兩次挑戰皆在跳躍懸吊出局。雖然得到了第13回大會的出賽權，也好不容易闖過跳躍懸吊並且突破聳立之牆來到了攀繩，但是在電視中卻全被剪掉。
+    在「筋肉歌舞劇團」、「[富士海筋肉王](../Page/富士海筋肉王.md "wikilink")」活躍。又稱「野生芭蕾舞者」、「丁字褲先生」。第7回首次出場，難關跳躍懸吊過關後，在聳立之牆出局（No.9）。第8回在跳躍懸吊像在跳水似的出局，實況指出「果然是追求美麗的芭蕾舞者，這肯定是史上最美的跳水。」（No.11），第9回（No.11）、第10回都在跳躍懸吊出局（No.945）。第11回在滾圓木著陸之後，由於反作用力太強，頭上腳下的落水（No.34）。第12回大會也在跳躍懸吊出局（No.61）。第7回首次出場之後，永遠也突破不了跳躍懸吊。隨後[黃金筋肉舉辦的極限體能王預選會](https://zh.wikipedia.org/wiki/黃金筋肉 "wikilink")，兩次挑戰皆在跳躍懸吊出局。雖然得到了第13回大會的出賽權，也好不容易闖過跳躍懸吊並且突破聳立之牆來到了攀繩，但是在電視中卻全被剪掉。
     和吾空同樣，每次都穿著丁字褲前來挑戰。第20回是相隔四年半的出場，首次穿上衣服挑戰。難關蜘蛛跳躍一舉闖過，卻也成為了飛簷走壁出界事件的犧牲者之一（No.1951）。第21回也是在飛簷走壁脫落（No.51）。第22回在聳立之牆時間到（片段全剪，No.51）。第23回再在窗簾滑行出局（片段全剪，No.60）。第24回在聳立之牆時間到（中途剪接，No.不明）。
 
 <!-- end list -->
 
-  - [中山肌肉君](../Page/中山肌肉君.md "wikilink")（出場12回 肉體派搞笑藝人）
+  - [中山肌肉君](https://zh.wikipedia.org/wiki/中山肌肉君 "wikilink")（出場12回
+    肉體派搞笑藝人）
 
 <!-- end list -->
 
@@ -1605,7 +1619,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [長澤秀則](../Page/長澤秀則.md "wikilink")（出場10回
+  - [長澤秀則](https://zh.wikipedia.org/wiki/長澤秀則 "wikilink")（出場10回
     [捷豹修車廠維修員](../Page/捷豹.md "wikilink")）
 
 <!-- end list -->
@@ -1615,7 +1629,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 出場6～9回
 
-  - [吉永克己](../Page/吉永克己.md "wikilink")（出場8回
+  - [吉永克己](https://zh.wikipedia.org/wiki/吉永克己 "wikilink")（出場8回
     日體大學陸上部→小學生教師→中學生教師，首代極限體能王老師）
 
 <!-- end list -->
@@ -1625,8 +1639,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [妃羽理](../Page/妃羽理.md "wikilink")（[伊賀野ひばり](../Page/伊賀野ひばり.md "wikilink")）（出場8回
-    動作女[演員](../Page/演員.md "wikilink")）
+  - [妃羽理](https://zh.wikipedia.org/wiki/妃羽理 "wikilink")（[伊賀野ひばり](https://zh.wikipedia.org/wiki/伊賀野ひばり "wikilink")）（出場8回
+    動作女[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
 
 <!-- end list -->
 
@@ -1635,8 +1649,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [鷲見裕二](../Page/鷲見裕二.md "wikilink")（出場9回
-    [汽車廠維修員](../Page/汽车.md "wikilink")、前[國際](../Page/國際.md "wikilink")[機車](../Page/機車.md "wikilink")[騎士A級](../Page/骑士.md "wikilink")）
+  - [鷲見裕二](https://zh.wikipedia.org/wiki/鷲見裕二 "wikilink")（出場9回
+    [汽車廠維修員](../Page/汽车.md "wikilink")、前[國際](https://zh.wikipedia.org/wiki/國際 "wikilink")[機車](https://zh.wikipedia.org/wiki/機車 "wikilink")[騎士A級](../Page/骑士.md "wikilink")）
 
 <!-- end list -->
 
@@ -1645,8 +1659,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [川原拓也](../Page/川原拓也.md "wikilink")（出場9回
-    駒澤大學[體操部](../Page/體操.md "wikilink")→筋肉歌舞秀演員）
+  - [川原拓也](https://zh.wikipedia.org/wiki/川原拓也 "wikilink")（出場9回
+    駒澤大學[體操部](https://zh.wikipedia.org/wiki/體操 "wikilink")→筋肉歌舞秀演員）
 
 <!-- end list -->
 
@@ -1655,8 +1669,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [佐藤弘道](../Page/佐藤弘道.md "wikilink")（出場9回
-    [NHK第](../Page/NHK.md "wikilink")10代體操大哥）
+  - [佐藤弘道](https://zh.wikipedia.org/wiki/佐藤弘道 "wikilink")（出場9回
+    [NHK第](https://zh.wikipedia.org/wiki/NHK "wikilink")10代體操大哥）
 
 <!-- end list -->
 
@@ -1665,7 +1679,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [瓦基](../Page/瓦基.md "wikilink")（出場9回 搞笑藝人、藝能界No.1的運動員）
+  - [瓦基](https://zh.wikipedia.org/wiki/瓦基 "wikilink")（出場9回
+    搞笑藝人、藝能界No.1的運動員）
 
 <!-- end list -->
 
@@ -1674,7 +1689,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [山本浩茂](../Page/山本浩茂.md "wikilink")（出場7回 SEGA遊戲中心職員）
+  - [山本浩茂](https://zh.wikipedia.org/wiki/山本浩茂 "wikilink")（出場7回
+    SEGA遊戲中心職員）
 
 <!-- end list -->
 
@@ -1683,8 +1699,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 出場3～5回
 
-  - [新一郎](../Page/新一郎.md "wikilink")（出場4回
-    [潛水](../Page/潜水.md "wikilink")[教練](../Page/教練.md "wikilink")）
+  - [新一郎](https://zh.wikipedia.org/wiki/新一郎 "wikilink")（出場4回
+    [潛水](../Page/潜水.md "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")）
 
 <!-- end list -->
 
@@ -1693,16 +1709,16 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [坂本隆](../Page/坂本隆.md "wikilink")（出場5回 隸屬JRC特技演員）
+  - [坂本隆](https://zh.wikipedia.org/wiki/坂本隆 "wikilink")（出場5回 隸屬JRC特技演員）
 
 <!-- end list -->
 
   -
-    號稱「最厲害的特技演員」。第1回首次出場，當年的他是31歲，剩下六秒多率先通過第一舞台，闖到了第二舞台的五連鎚（No.22）。之後對於平衡感勤加練習，挑戰第2回大會。當然這次也闖過第一舞台，不過在第二舞台蜘蛛步道速度太快，在後半段的蜘蛛攀爬落下（No.11）。第3回為了首次闖過第二舞台而來，很意外的和[三浦英一一樣在滾木坡失敗](../Page/三浦英一.md "wikilink")，對他而言是一大創傷。之後從事特技工作的同時，也不時練習各種極限體能王關卡，相隔四年後的第11回大會，他已經37歲了。這次他在聳立之牆一次也爬不上去，再次嘗到屈辱（外部情報，No.80）。第16回大會他也有來參加，但是他又在聳立之牆陷入苦戰，好不容易爬上去時，在攀繩前面的泰山跳躍時間到（No.61），從此再也沒參加極限體能王。
+    號稱「最厲害的特技演員」。第1回首次出場，當年的他是31歲，剩下六秒多率先通過第一舞台，闖到了第二舞台的五連鎚（No.22）。之後對於平衡感勤加練習，挑戰第2回大會。當然這次也闖過第一舞台，不過在第二舞台蜘蛛步道速度太快，在後半段的蜘蛛攀爬落下（No.11）。第3回為了首次闖過第二舞台而來，很意外的和[三浦英一一樣在滾木坡失敗](https://zh.wikipedia.org/wiki/三浦英一 "wikilink")，對他而言是一大創傷。之後從事特技工作的同時，也不時練習各種極限體能王關卡，相隔四年後的第11回大會，他已經37歲了。這次他在聳立之牆一次也爬不上去，再次嘗到屈辱（外部情報，No.80）。第16回大會他也有來參加，但是他又在聳立之牆陷入苦戰，好不容易爬上去時，在攀繩前面的泰山跳躍時間到（No.61），從此再也沒參加極限體能王。
 
 <!-- end list -->
 
-  - [安東弘樹](../Page/安東弘樹.md "wikilink")（出場3回
+  - [安東弘樹](https://zh.wikipedia.org/wiki/安東弘樹 "wikilink")（出場3回
     [TBS](../Page/TBS.md "wikilink")[電視台](../Page/电视台.md "wikilink")[播報員](../Page/播音員.md "wikilink")）
 
 <!-- end list -->
@@ -1712,8 +1728,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [波立紀夫](../Page/波立紀夫.md "wikilink")（出場5回
-    前[日本職業足球甲級聯賽選手](../Page/日本職業足球甲級聯賽.md "wikilink")）
+  - [波立紀夫](https://zh.wikipedia.org/wiki/波立紀夫 "wikilink")（出場5回
+    前[日本職業足球甲級聯賽選手](https://zh.wikipedia.org/wiki/日本職業足球甲級聯賽 "wikilink")）
 
 <!-- end list -->
 
@@ -1722,7 +1738,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [長崎剛政](../Page/長崎剛政.md "wikilink")（出場4回 國際武道大學一年級、長崎峻侑的弟弟）
+  - [長崎剛政](https://zh.wikipedia.org/wiki/長崎剛政 "wikilink")（出場4回
+    國際武道大學一年級、長崎峻侑的弟弟）
 
 <!-- end list -->
 
@@ -1731,7 +1748,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 出場1～2回
 
-  - [田中智和](../Page/田中智和.md "wikilink")（出場1回
+  - [田中智和](https://zh.wikipedia.org/wiki/田中智和 "wikilink")（出場1回
     [空手道家](../Page/空手道.md "wikilink")）
 
 <!-- end list -->
@@ -1745,7 +1762,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [井上清海](../Page/井上清海.md "wikilink")（出場2回
+  - [井上清海](https://zh.wikipedia.org/wiki/井上清海 "wikilink")（出場2回
     [衝浪](../Page/衝浪.md "wikilink")）
 
 <!-- end list -->
@@ -1755,8 +1772,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [秋山公宏](../Page/秋山公宏.md "wikilink")（出場2回
-    [干貝漁師](../Page/干貝.md "wikilink")）
+  - [秋山公宏](https://zh.wikipedia.org/wiki/秋山公宏 "wikilink")（出場2回
+    [干貝漁師](https://zh.wikipedia.org/wiki/干貝 "wikilink")）
 
 <!-- end list -->
 
@@ -1765,7 +1782,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ## 印象深刻的女性挑戰者們
 
-  - [田邊知惠](../Page/田邊知惠.md "wikilink")（出場2回 史上最強的主婦、前特技演員、現名西村知惠）
+  - [田邊知惠](https://zh.wikipedia.org/wiki/田邊知惠 "wikilink")（出場2回
+    史上最強的主婦、前特技演員、現名西村知惠）
 
 <!-- end list -->
 
@@ -1774,8 +1792,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [泉美香](../Page/泉美香.md "wikilink")（出場7回
-    第3回KUNOICHI最終舞台選手、[爵士舞](../Page/爵士舞.md "wikilink")[教練](../Page/教練.md "wikilink")、現名渡邊美香）
+  - [泉美香](https://zh.wikipedia.org/wiki/泉美香 "wikilink")（出場7回
+    第3回KUNOICHI最終舞台選手、[爵士舞](https://zh.wikipedia.org/wiki/爵士舞 "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")、現名渡邊美香）
 
 <!-- end list -->
 
@@ -1784,8 +1802,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [山田海峰](../Page/山田海峰.md "wikilink")（出場1回
-    1996年[亞特蘭大奧運](../Page/1996年夏季奥林匹克运动会.md "wikilink")、2000年[雪梨奧運](../Page/2000年夏季奥林匹克运动会.md "wikilink")[新體操](../Page/新體操.md "wikilink")[日本代表](../Page/日本.md "wikilink")）
+  - [山田海峰](https://zh.wikipedia.org/wiki/山田海峰 "wikilink")（出場1回
+    1996年[亞特蘭大奧運](https://zh.wikipedia.org/wiki/1996年夏季奥林匹克运动会 "wikilink")、2000年[雪梨奧運](https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会 "wikilink")[新體操](https://zh.wikipedia.org/wiki/新體操 "wikilink")[日本代表](../Page/日本.md "wikilink")）
 
 <!-- end list -->
 
@@ -1794,7 +1812,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [露西.隆伯格](../Page/露西.隆伯格.md "wikilink")（出場2回
+  - [露西.隆伯格](https://zh.wikipedia.org/wiki/露西.隆伯格 "wikilink")（出場2回
     美國[特技演員](../Page/特技演員.md "wikilink")）
 
 <!-- end list -->
@@ -1804,8 +1822,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [小宮理英](../Page/小宮理英.md "wikilink")（出場5回
-    第5回KUNOICHI最終舞台選手、第8回KUNOICHI完全制霸者、筋肉歌舞劇[演員](../Page/演員.md "wikilink")）
+  - [小宮理英](https://zh.wikipedia.org/wiki/小宮理英 "wikilink")（出場5回
+    第5回KUNOICHI最終舞台選手、第8回KUNOICHI完全制霸者、筋肉歌舞劇[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
 
 <!-- end list -->
 
@@ -1814,7 +1832,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [島田裕代](../Page/島田裕代.md "wikilink")（出場3回 筋肉歌舞劇演員）
+  - [島田裕代](https://zh.wikipedia.org/wiki/島田裕代 "wikilink")（出場3回 筋肉歌舞劇演員）
 
 <!-- end list -->
 
@@ -1823,7 +1841,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [門井佐登美](../Page/門井佐登美.md "wikilink")（出場1回 第8回KUNOICHI完全制霸者）
+  - [門井佐登美](https://zh.wikipedia.org/wiki/門井佐登美 "wikilink")（出場1回
+    第8回KUNOICHI完全制霸者）
 
 <!-- end list -->
 
@@ -1832,7 +1851,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [大島綾乃](../Page/大島綾乃.md "wikilink")（[大島あやの](../Page/大島あやの.md "wikilink")）（出場1回
+  - [大島綾乃](https://zh.wikipedia.org/wiki/大島綾乃 "wikilink")（[大島あやの](https://zh.wikipedia.org/wiki/大島あやの "wikilink")）（出場1回
     日本女子體育大學）
 
 <!-- end list -->
@@ -1842,7 +1861,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [室伏由佳](../Page/室伏由佳.md "wikilink")（出場1回 日本女子鐵餅、鏈球紀錄保持者、室伏廣治的妹妹）
+  - [室伏由佳](https://zh.wikipedia.org/wiki/室伏由佳 "wikilink")（出場1回
+    日本女子鐵餅、鏈球紀錄保持者、室伏廣治的妹妹）
 
 <!-- end list -->
 
@@ -1851,8 +1871,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [凱西.卡坦茲亞洛](../Page/凱西.卡坦茲亞洛.md "wikilink")（出場1回 美國女子代表、American
-    Ninja Warrior首位女子予選過關者，现WWE摔角運動員）
+  - [凱西.卡坦茲亞洛](https://zh.wikipedia.org/wiki/凱西.卡坦茲亞洛 "wikilink")（出場1回
+    美國女子代表、American Ninja Warrior首位女子予選過關者，现WWE摔角運動員）
 
 <!-- end list -->
 
@@ -1861,8 +1881,8 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [潔西.葛拉夫](../Page/潔西.葛拉夫.md "wikilink")（出場1回 美國女子代表、American Ninja
-    Warrior首位女子第1舞台過關者）
+  - [潔西.葛拉夫](https://zh.wikipedia.org/wiki/潔西.葛拉夫 "wikilink")（出場1回
+    美國女子代表、American Ninja Warrior首位女子第1舞台過關者）
 
 <!-- end list -->
 
@@ -2077,7 +2097,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <span style="color: Green;">**（聳立之牆）【5公尺：5～17，5.2公尺：19～27，5.5公尺：31～】**</span>
 
   - 跑上圓弧狀的聳立牆壁，然後抓到牆壁的最上端，第5至17回時高度5公尺，第19至27回則為5.2公尺，第31回起為5.5公尺，出局者多。
-  - 全明星除了山本進悟，全員都有在此失敗的經驗（山本進悟在「[黃金筋肉](../Page/黃金筋肉.md "wikilink")」有失敗過，正式比賽沒有），強棒池谷直樹（第5、15、22回）、奧山義行（第19、21回）、佐藤弘道（第21回）曾在此出局。
+  - 全明星除了山本進悟，全員都有在此失敗的經驗（山本進悟在「[黃金筋肉](https://zh.wikipedia.org/wiki/黃金筋肉 "wikilink")」有失敗過，正式比賽沒有），強棒池谷直樹（第5、15、22回）、奧山義行（第19、21回）、佐藤弘道（第21回）曾在此出局。
   - 山田勝己（第17、23回）、竹田敏浩（第7、19回）、池谷直樹（第12、24回）、長崎剛政、佐藤弘道（以上是第20回）、山本進悟、菅野仁志（以上是第24回）曾經在此關卡拖太多時間，導致時間不夠而失敗。
   - 另外，山田勝己跟秋山和彥是最不擅長這關的全明星選手。
   - 第28回變為挑戰者需連續闖過兩面聳立牆壁。
@@ -2199,7 +2219,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <span style="color: Green;">**（蜘蛛跳躍）【18～24、26～27】**</span>
 
   -
-    蜘蛛步道的進化版本，利用彈簧床飛身躍過水潭，在空中張開雙手雙腳撐住前方的兩個牆面以免落水，接著如「蜘蛛步道」關卡般通過牆面。全明星白鳥文平（第18回）、山本進悟（第19回）、山田勝己（第19、20、22、26回）、竹田敏浩（第22回）、長野誠（第24、26回）曾在此落下，以及[台灣代表李恩至](../Page/台灣.md "wikilink")（第18回）、[美國代表保羅](../Page/美國.md "wikilink")·安東尼·垂克（第19回）也在此失敗過。闖過此關卡的女性有：路西·隆柏格、島田裕代、小宮理英、有松知美4人。第26回大會再次復活。
+    蜘蛛步道的進化版本，利用彈簧床飛身躍過水潭，在空中張開雙手雙腳撐住前方的兩個牆面以免落水，接著如「蜘蛛步道」關卡般通過牆面。全明星白鳥文平（第18回）、山本進悟（第19回）、山田勝己（第19、20、22、26回）、竹田敏浩（第22回）、長野誠（第24、26回）曾在此落下，以及[台灣代表李恩至](https://zh.wikipedia.org/wiki/台灣 "wikilink")（第18回）、[美國代表保羅](https://zh.wikipedia.org/wiki/美國 "wikilink")·安東尼·垂克（第19回）也在此失敗過。闖過此關卡的女性有：路西·隆柏格、島田裕代、小宮理英、有松知美4人。第26回大會再次復活。
 
 <span style="color: Green;">**（橡皮筋之橋）【18】**</span>
 
@@ -2227,7 +2247,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <span style="color: Green;">**（乘風破浪）【19～24、26～27】**</span>
 
-  - 跑上半圓形的牆壁，然後抓住從空中垂下的繩子，一路飛到對岸。全明星的秋山和彥（第20、22回）、山本進悟（第20、22回）在此落下，以及[藝人瓦基](../Page/藝人.md "wikilink")（第20回）、強棒川原拓也（第20回）、鷲見裕二（第20回）、宮崎大輔（第20回）也曾在此失敗（著陸失敗），在24回此關脫落者非常的多。第26回大會再次復活。第27回著陸點改為一塊十分小的板，並改為用圓木連接到下一關卡。
+  - 跑上半圓形的牆壁，然後抓住從空中垂下的繩子，一路飛到對岸。全明星的秋山和彥（第20、22回）、山本進悟（第20、22回）在此落下，以及[藝人瓦基](https://zh.wikipedia.org/wiki/藝人 "wikilink")（第20回）、強棒川原拓也（第20回）、鷲見裕二（第20回）、宮崎大輔（第20回）也曾在此失敗（著陸失敗），在24回此關脫落者非常的多。第26回大會再次復活。第27回著陸點改為一塊十分小的板，並改為用圓木連接到下一關卡。
   - 此關卡曾出現多個[中文名稱](../Page/汉语.md "wikilink")，第19回時叫「飛簷走壁」，第20回時叫「飛越半管」，第21回以後都叫「乘風破浪」。
 
 <span style="color: Green;">**サークルハンマー（旋轉悍馬）【22】**</span>
@@ -2446,7 +2466,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <span style="color: Blue;">**（開牆步道）【28～29】**</span>
 
   -
-    先舉起第一道重達30公斤的門閘，門閘下面的中間通空並有軟塊阻隔，軟塊左右各留一條縫隙，通過時頭有可能會被軟塊擋住；通過後再左右拉開第二道40公斤的橫門，通過後再舉起第三道50公斤門牆後通過。三道牆為銀色，上面寫有[日文數字](../Page/日文數字.md "wikilink")。
+    先舉起第一道重達30公斤的門閘，門閘下面的中間通空並有軟塊阻隔，軟塊左右各留一條縫隙，通過時頭有可能會被軟塊擋住；通過後再左右拉開第二道40公斤的橫門，通過後再舉起第三道50公斤門牆後通過。三道牆為銀色，上面寫有[日文數字](https://zh.wikipedia.org/wiki/日文數字 "wikilink")。
 
 ### 3rd STAGE（第三舞台）
 
@@ -2815,7 +2835,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 第一次參賽・舞台首次挑戰的紀錄
 
-  - 最終舞台首次挑戰即過關者：[秋山和彥](../Page/秋山和彥.md "wikilink")（第4屆）、[森本裕介](../Page/森本裕介.md "wikilink")（第31屆）
+  - 最終舞台首次挑戰即過關者：[秋山和彥](../Page/秋山和彥.md "wikilink")（第4屆）、[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")（第31屆）
   - 第一次參賽就挑戰最後一關的人：[川島孝幸](../Page/川島孝幸.md "wikilink")、楊崇 、長谷川健 、大森晃
     ﹝以上都是第1屆﹞，田中光﹝第2屆﹞，松本稔﹝第3屆﹞，約旦尤布契夫﹝第8屆﹞。
   - 第一次參賽就創下第一舞台最快紀錄者：宮城英和（第1屆）、蔡維斯·亞倫·史瑞德（第4屆）、佐川隆一（第8屆）、李維·謬恩巴克（第20屆）。
@@ -2839,7 +2859,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
   - 最多次連續闖過第一舞台的人：竹田敏浩、長野誠（都是從第11屆至第18屆），連續8次。
   - 最多次連續闖過第二舞台的人：竹田敏浩（第11屆至第17屆），連續7次。
-  - 最多次連續闖過第三舞台的人（最多次連續闖到最終舞台的人）：[大森晃](../Page/大森晃.md "wikilink")（第1屆至第3屆）、長野誠（第11屆至第13屆），連續3次。
+  - 最多次連續闖過第三舞台的人（最多次連續闖到最終舞台的人）：[大森晃](https://zh.wikipedia.org/wiki/大森晃 "wikilink")（第1屆至第3屆）、長野誠（第11屆至第13屆），連續3次。
   - 最多次連續闖過第一舞台的外國人：李恩至（第21屆至第26屆）、杜魯‧德雷契爾（第30屆至第36屆），連續7次。
   - 最多次連續闖過第二舞台的外國人：杜魯‧德雷契爾（第30屆至第35屆），連續6次。
 
@@ -2848,23 +2868,23 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
   - 最年輕的參賽者：尾上彩（第4屆時），當時才12歳
   - 最年輕的第一舞台過關者：鈴鹿龍吾（第4屆時）、本間晃汰（第17屆時），當時才16歳（高中一年級）。
   - 最年長的第一舞台過關者：井上清海（第1屆時），當時已經44歳。
-  - 最年輕的第二舞台過關者：[川島孝幸](../Page/川島孝幸.md "wikilink")（第1屆時）、[長崎峻侑](../Page/長崎峻侑.md "wikilink")（第15屆時），當時才18歳。
-  - 最年長的第二舞台過關者：[奥山義行](../Page/奥山義行.md "wikilink")（第27屆時），當時已經41歳。
+  - 最年輕的第二舞台過關者：[川島孝幸](../Page/川島孝幸.md "wikilink")（第1屆時）、[長崎峻侑](https://zh.wikipedia.org/wiki/長崎峻侑 "wikilink")（第15屆時），當時才18歳。
+  - 最年長的第二舞台過關者：[奥山義行](https://zh.wikipedia.org/wiki/奥山義行 "wikilink")（第27屆時），當時已經41歳。
   - 最年輕的最終舞台挑戰者：川島孝幸（第1屆時），當時才18歳。
   - 最年長的最終舞台挑戰者：奧山義行（第24屆時），當時已經39歳。
-  - 總和第一名中，最年輕的人：[長崎峻侑](../Page/長崎峻侑.md "wikilink")（第18屆，第三舞台的新巔峰戰士，過了18道關卡），當時才19歳。
-  - 總和第一名中，最年長的人：[奧山義行](../Page/奧山義行.md "wikilink")（第26屆，第三舞台的終極巔峰戰士，過了21道關卡），當時已經40歳。
+  - 總和第一名中，最年輕的人：[長崎峻侑](https://zh.wikipedia.org/wiki/長崎峻侑 "wikilink")（第18屆，第三舞台的新巔峰戰士，過了18道關卡），當時才19歳。
+  - 總和第一名中，最年長的人：[奧山義行](https://zh.wikipedia.org/wiki/奧山義行 "wikilink")（第26屆，第三舞台的終極巔峰戰士，過了21道關卡），當時已經40歳。
 
 ### 其他記錄
 
-  - 總和第一名的外國人：[李維‧缪恩巴克](../Page/李維‧缪恩巴克.md "wikilink")（第20回）、[李恩至](../Page/李恩至.md "wikilink")（第25回、第26回）、[杜魯‧德雷契爾](../Page/杜魯‧德雷契爾.md "wikilink")（第32回、第33回）。
-  - 闖到最終舞台的外國人：[約旦尤布契夫](../Page/約旦尤布契夫.md "wikilink")（第8回）、李恩至（第24回）。
-  - 第一舞台最快紀錄者：[大衛·坎貝爾](../Page/大衛·坎貝爾.md "wikilink")（44秒32，27屆）
-  - 第二舞台最快紀錄者：[李維·謬恩巴克](../Page/李維·謬恩巴克.md "wikilink")（38秒5，20屆）
+  - 總和第一名的外國人：[李維‧缪恩巴克](https://zh.wikipedia.org/wiki/李維‧缪恩巴克 "wikilink")（第20回）、[李恩至](../Page/李恩至.md "wikilink")（第25回、第26回）、[杜魯‧德雷契爾](https://zh.wikipedia.org/wiki/杜魯‧德雷契爾 "wikilink")（第32回、第33回）。
+  - 闖到最終舞台的外國人：[約旦尤布契夫](https://zh.wikipedia.org/wiki/約旦尤布契夫 "wikilink")（第8回）、李恩至（第24回）。
+  - 第一舞台最快紀錄者：[大衛·坎貝爾](https://zh.wikipedia.org/wiki/大衛·坎貝爾 "wikilink")（44秒32，27屆）
+  - 第二舞台最快紀錄者：[李維·謬恩巴克](https://zh.wikipedia.org/wiki/李維·謬恩巴克 "wikilink")（38秒5，20屆）
   - 第一舞台剩下最少時間通關者：約旦由布契夫（0秒00，8屆）
-  - 第二舞台剩下最少時間通關者：[石川輝一](../Page/石川輝一.md "wikilink")（0秒06，27屆）
-  - 最快的[完全制霸](../Page/完全制霸.md "wikilink")：[漆原裕治](../Page/漆原裕治.md "wikilink")（6秒71，27屆）
-  - 剩下最少時間的[完全制霸](../Page/完全制霸.md "wikilink")：[長野誠](../Page/長野誠.md "wikilink")（2秒56，17屆）
+  - 第二舞台剩下最少時間通關者：[石川輝一](https://zh.wikipedia.org/wiki/石川輝一 "wikilink")（0秒06，27屆）
+  - 最快的[完全制霸](https://zh.wikipedia.org/wiki/完全制霸 "wikilink")：[漆原裕治](../Page/漆原裕治.md "wikilink")（6秒71，27屆）
+  - 剩下最少時間的[完全制霸](https://zh.wikipedia.org/wiki/完全制霸 "wikilink")：[長野誠](../Page/長野誠.md "wikilink")（2秒56，17屆）
 
 ## 節目錄影、播放日期
 
@@ -2889,7 +2909,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <td><p>19:00 - 20:54</p></td>
 <td><p>16.3%</p></td>
 <td></td>
-<td><p><a href="../Page/JET日本台.md" title="wikilink">JET日本台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JET日本台" title="wikilink">JET日本台</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2969,7 +2989,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <td><p>19.7%</p></td>
 <td></td>
 <td><p>JET日本台</p></td>
-<td><p><a href="../Page/挑戰冠軍王.md" title="wikilink">挑戰冠軍王時代最終回</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/挑戰冠軍王" title="wikilink">挑戰冠軍王時代最終回</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3261,11 +3281,11 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
 1.  第3回大會 [GBC](../Page/Game_Boy_Color.md "wikilink")
-2.  第4回大會 [PS](../Page/PlayStation.md "wikilink")
-3.  第6回大會 [GB](../Page/GB.md "wikilink")
+2.  第4回大會 [PS](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+3.  第6回大會 [GB](https://zh.wikipedia.org/wiki/GB "wikilink")
 4.  第6回大會 [PS2](../Page/PlayStation_2.md "wikilink")
 5.  第7回大會 [GBA](../Page/Game_Boy_Advance.md "wikilink")
-6.  [GC](../Page/Game_Cube.md "wikilink")
+6.  [GC](https://zh.wikipedia.org/wiki/Game_Cube "wikilink")
 
 ## 來源
 

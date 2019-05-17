@@ -9,7 +9,7 @@ RIVER後](../Page/DEEP_RIVER.md "wikilink")，第四度拿下日本公信榜年�
 ## 概要
 
   - 收錄了從出道單曲"[Automatic/time will
-    tell](../Page/Automatic/time_will_tell.md "wikilink")"到"[COLORS](../Page/COLORS_\(單曲\).md "wikilink")"所有單曲的A面曲，並重新後製。曲目編排基本上依發售日順序排列。唯一例外是《Automatic/time
+    tell](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink")"到"[COLORS](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")"所有單曲的A面曲，並重新後製。曲目編排基本上依發售日順序排列。唯一例外是《Automatic/time
     will tell》單曲中兩曲的曲順對換了。因其本人認為當年《time will
     tell》在電台的大量播放才是自己走紅的最初關鍵，而《Automatic》是稍後的事。
 
@@ -26,7 +26,7 @@ RIVER後](../Page/DEEP_RIVER.md "wikilink")，第四度拿下日本公信榜年�
 ## 曲目
 
 全曲作詞、作曲：宇多田光 （除「Time
-Limit」是本人與[GLAY的](../Page/GLAY.md "wikilink")[TAKURO先生共作](../Page/TAKURO.md "wikilink")。）
+Limit」是本人與[GLAY的](../Page/GLAY.md "wikilink")[TAKURO先生共作](https://zh.wikipedia.org/wiki/TAKURO "wikilink")。）
 
 ## 銷售榜
 

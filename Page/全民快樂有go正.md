@@ -1,9 +1,10 @@
-《**全民快樂有go正**》（[英語](../Page/英語.md "wikilink")：*Happy Go Go
-Go*）是大東影藝製作、[中華電視公司監製的](../Page/中華電視公司.md "wikilink")[台灣](../Page/台灣.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目自2009年3月7日起的每星期六20時整至22時整（[臺灣時間](../Page/臺灣時間.md "wikilink")）於華視主頻道播出，2009年9月11日起改成每星期五20時整至22時整（[臺灣時間](../Page/臺灣時間.md "wikilink")）播出。該節目是《[快樂有go正](../Page/快樂有go正.md "wikilink")》的續作，節目中的特點，除了沿襲《快樂有go正》一部分的單元外，一度新增《快樂有go正》沒有的單元。
+《**全民快樂有go正**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Happy
+Go Go
+Go*）是大東影藝製作、[中華電視公司監製的](../Page/中華電視公司.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目自2009年3月7日起的每星期六20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）於華視主頻道播出，2009年9月11日起改成每星期五20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）播出。該節目是《[快樂有go正](../Page/快樂有go正.md "wikilink")》的續作，節目中的特點，除了沿襲《快樂有go正》一部分的單元外，一度新增《快樂有go正》沒有的單元。
 
 ## 主持人
 
-初期主持人為[謝震武](../Page/謝震武.md "wikilink")、[劉真](../Page/劉真.md "wikilink")、[唐從聖](../Page/唐從聖.md "wikilink")。2009年5月30日起，原在固定班底中的[阿Ben](../Page/白吉勝.md "wikilink")、[張克帆](../Page/張克帆.md "wikilink")、[王彩樺及](../Page/王彩樺.md "wikilink")[白雲加入主持群](../Page/白雲_\(台灣藝人\).md "wikilink")。固定班底如[NONO](../Page/NONO.md "wikilink")、[包偉銘](../Page/包偉銘.md "wikilink")、[Terry](../Page/江莛鈞.md "wikilink")、[宋新妮等](../Page/宋新妮.md "wikilink")，也都會固定或不定時於此節目現身登場。
+初期主持人為[謝震武](../Page/謝震武.md "wikilink")、[劉真](https://zh.wikipedia.org/wiki/劉真 "wikilink")、[唐從聖](../Page/唐從聖.md "wikilink")。2009年5月30日起，原在固定班底中的[阿Ben](../Page/白吉勝.md "wikilink")、[張克帆](../Page/張克帆.md "wikilink")、[王彩樺及](../Page/王彩樺.md "wikilink")[白雲加入主持群](../Page/白雲_\(台灣藝人\).md "wikilink")。固定班底如[NONO](../Page/NONO.md "wikilink")、[包偉銘](../Page/包偉銘.md "wikilink")、[Terry](https://zh.wikipedia.org/wiki/江莛鈞 "wikilink")、[宋新妮等](../Page/宋新妮.md "wikilink")，也都會固定或不定時於此節目現身登場。
 
 ## 節目單元
 
@@ -25,9 +26,9 @@ Go*）是大東影藝製作、[中華電視公司監製的](../Page/中華電視
 
 ### 爆笑寫真館
 
-〈爆笑寫真館〉是由現場來賓共同「演出」於「一張[照片](../Page/照片.md "wikilink")」的一個單元，此單元從第一集開始正式播出。唐從聖於該單元，自稱「瞎掰從」，並且搭配奇特的造型。
+〈爆笑寫真館〉是由現場來賓共同「演出」於「一張[照片](https://zh.wikipedia.org/wiki/照片 "wikilink")」的一個單元，此單元從第一集開始正式播出。唐從聖於該單元，自稱「瞎掰從」，並且搭配奇特的造型。
 
-此單元是由一群來賓，均必須盡量以「靜止不動」的樣子，於一個「框」內，呈現出事發前的兩個[時間單位](../Page/時間.md "wikilink")，與事發後的一個時間單位（或者三張均為事發前照片），三張「照片」不會完全相同，故須由其他未演出的參賽來賓作答主持人所發問的問題。
+此單元是由一群來賓，均必須盡量以「靜止不動」的樣子，於一個「框」內，呈現出事發前的兩個[時間單位](https://zh.wikipedia.org/wiki/時間 "wikilink")，與事發後的一個時間單位（或者三張均為事發前照片），三張「照片」不會完全相同，故須由其他未演出的參賽來賓作答主持人所發問的問題。
 
 由於是真人演出的「照片」，而「人物」又不能隨意移動，因此有時候唐從聖會拿著一根棒子，並「亂入」到該「照片」內，對著事件內的「人物」玩「戳戳樂」或「指指點點」，即使說出的話或一些表情容易讓「人物」，甚至「人物」會因為受到外力的刺激或感到疼痛，「照片」中的「人物」，也不能反應太大，或者吭一聲，仍然必須保持靜止狀態。
 
@@ -39,17 +40,17 @@ mode）。所以，每一位飾演照片中「人物」的演員，必須要熟�
 
 下列的集數，各別以「事發前二張照片與事發後一張照片」，以及「事發前三張照片」為例子：
 
-  - 第一集的第一個事件，發生場景位於[醫院內](../Page/醫院.md "wikilink")，其問題是「哪一位得到了[痔瘡](../Page/痔瘡.md "wikilink")」，其中，有由張克帆、鍾欣凌，以及[王耀慶等人飾演的病人](../Page/王耀慶.md "wikilink")，還有[醫生](../Page/醫生.md "wikilink")、[護士小姐等人](../Page/護士.md "wikilink")，共同呈現於一張「照片」中。而三個時間單位，是「事發前一分鐘」、「事發前十五秒」，以及「事發後三十秒」。根據三張照片的線索，答案是「鍾欣凌得到了痔瘡」。
+  - 第一集的第一個事件，發生場景位於[醫院內](../Page/醫院.md "wikilink")，其問題是「哪一位得到了[痔瘡](https://zh.wikipedia.org/wiki/痔瘡 "wikilink")」，其中，有由張克帆、鍾欣凌，以及[王耀慶等人飾演的病人](../Page/王耀慶.md "wikilink")，還有[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")、[護士小姐等人](https://zh.wikipedia.org/wiki/護士 "wikilink")，共同呈現於一張「照片」中。而三個時間單位，是「事發前一分鐘」、「事發前十五秒」，以及「事發後三十秒」。根據三張照片的線索，答案是「鍾欣凌得到了痔瘡」。
 
 <!-- end list -->
 
-  - 第二集的第二個事件，發生場景位於[餐廳內](../Page/餐廳.md "wikilink")，其問題是「哪一位是[第三者](../Page/第三者_\(愛情\).md "wikilink")」，其中，有由高山峰、劉真、Terry、鍾欣凌、Jason、王彩樺、蔡頭（本名蔡斯文），以及包偉銘等人飾演的事件人物，共同呈現於一張「照片」中。其中三個時間單位，為「事發前五分鐘」、「事發前二分鐘」，以及「事發前一分鐘」。根據三張照片的線索，答案是「劉真是第三者」。
+  - 第二集的第二個事件，發生場景位於[餐廳內](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，其問題是「哪一位是[第三者](https://zh.wikipedia.org/wiki/第三者_\(愛情\) "wikilink")」，其中，有由高山峰、劉真、Terry、鍾欣凌、Jason、王彩樺、蔡頭（本名蔡斯文），以及包偉銘等人飾演的事件人物，共同呈現於一張「照片」中。其中三個時間單位，為「事發前五分鐘」、「事發前二分鐘」，以及「事發前一分鐘」。根據三張照片的線索，答案是「劉真是第三者」。
 
 第十集之後無此單元。
 
 ## 收視率
 
-下表列出[AC尼爾森針對四歲以上觀眾調查之收視率](../Page/AC尼爾森.md "wikilink")\[1\]。
+下表列出[AC尼爾森針對四歲以上觀眾調查之收視率](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")\[1\]。
 
 |            |             |                                 |
 | :--------: | :---------: | :-----------------------------: |
@@ -129,14 +130,14 @@ mode）。所以，每一位飾演照片中「人物」的演員，必須要熟�
 ## 參見
 
   - 前作：《[快樂有go正](../Page/快樂有go正.md "wikilink")》
-  - 同時段不同台競爭節目《[百萬小學堂](../Page/百萬小學堂.md "wikilink")》、《[青梅竹馬](../Page/青梅竹馬.md "wikilink")》、《[夜市人生](../Page/夜市人生.md "wikilink")》
+  - 同時段不同台競爭節目《[百萬小學堂](../Page/百萬小學堂.md "wikilink")》、《[青梅竹馬](../Page/青梅竹馬.md "wikilink")》、《[夜市人生](https://zh.wikipedia.org/wiki/夜市人生 "wikilink")》
 
 ## 註解
 
 ## 作品的變遷
 
-[C全](../Page/分類:停播台灣綜藝節目.md "wikilink")
-[C全](../Page/分類:華視電視節目.md "wikilink")
+[C全](https://zh.wikipedia.org/wiki/分類:停播台灣綜藝節目 "wikilink")
+[C全](https://zh.wikipedia.org/wiki/分類:華視電視節目 "wikilink")
 
 [Category:聯利媒體外購電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體外購電視節目 "wikilink")
 

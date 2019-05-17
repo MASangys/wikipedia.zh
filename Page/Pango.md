@@ -1,15 +1,15 @@
-**Pango**（）是一个[开放源代码的](../Page/开放源代码.md "wikilink")[自由文本布局库](../Page/自由软件.md "wikilink")，通过使用[HarfBuzz文本塑形库](../Page/HarfBuzz.md "wikilink")-{A|zh-hans:渲染;zh-hant:描繪}-多语种的文字。\[1\]全功能文本渲染和跨平台支持在Pango与各平台的API或诸如[Uniscribe和](../Page/Uniscribe.md "wikilink")[FreeType作为文本渲染](../Page/FreeType.md "wikilink")[后端的第三方库使用时呈现](../Page/后端.md "wikilink")。Pango处理的文本会表现出在不同平台之下运行时的相近效果。
+**Pango**（）是一个[开放源代码的](../Page/开放源代码.md "wikilink")[自由文本布局库](../Page/自由软件.md "wikilink")，通过使用[HarfBuzz文本塑形库](../Page/HarfBuzz.md "wikilink")-{A|zh-hans:渲染;zh-hant:描繪}-多语种的文字。\[1\]全功能文本渲染和跨平台支持在Pango与各平台的API或诸如[Uniscribe和](../Page/Uniscribe.md "wikilink")[FreeType作为文本渲染](../Page/FreeType.md "wikilink")[后端的第三方库使用时呈现](https://zh.wikipedia.org/wiki/后端 "wikilink")。Pango处理的文本会表现出在不同平台之下运行时的相近效果。
 
-Pango是一种特定用途的文本函式库，而不是像同样能被Pango所用的通用图形渲染库[Cairo只具备最简单的文本渲染](../Page/Cairo_\(绘图\).md "wikilink")。实际上Cairo技术文档推荐使用Pango来渲染文本。
+Pango是一种特定用途的文本函式库，而不是像同样能被Pango所用的通用图形渲染库[Cairo只具备最简单的文本渲染](https://zh.wikipedia.org/wiki/Cairo_\(绘图\) "wikilink")。实际上Cairo技术文档推荐使用Pango来渲染文本。
 
-Pango的名称出自[希腊语](../Page/希腊语.md "wikilink")“”（*pan*，所有）和[日语](../Page/日语.md "wikilink")“”（*go*，[语言](../Page/语言.md "wikilink")）。\[2\]
+Pango的名称出自[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink")“”（*pan*，所有）和[日语](../Page/日语.md "wikilink")“”（*go*，[语言](https://zh.wikipedia.org/wiki/语言 "wikilink")）。\[2\]
 
 ## 应用
 
 Pango已经被整合到多数Linux发行版中，并在[Fedora
-Core](../Page/Fedora_Core.md "wikilink")
-6被用于[Firefox网页浏览器和](../Page/Firefox.md "wikilink")[Thunderbird邮件客户端的文字渲染](../Page/Thunderbird.md "wikilink")。虽然在Mozilla的源代码里并没有包含Pango，但Fedora
-Core得到了[Mozilla基金会的特别许可](../Page/Mozilla基金会.md "wikilink")\[3\]。同样，Debian的[Iceweasel](../Page/Iceweasel.md "wikilink")、IceDove和IceApe也使用了Pango。
+Core](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")
+6被用于[Firefox网页浏览器和](../Page/Firefox.md "wikilink")[Thunderbird邮件客户端的文字渲染](https://zh.wikipedia.org/wiki/Thunderbird "wikilink")。虽然在Mozilla的源代码里并没有包含Pango，但Fedora
+Core得到了[Mozilla基金会的特别许可](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")\[3\]。同样，Debian的[Iceweasel](../Page/Iceweasel.md "wikilink")、IceDove和IceApe也使用了Pango。
 
 ## 对OpenType功能的支持
 
@@ -32,12 +32,13 @@ Pango 1.0.0 版于2002年3月11日发布。\[13\]\[14\]
   - \- Macintosh过去使用的Unicode文字渲染引擎
 
   - \- 现代化多语种文字渲染引擎，[Mac OS X
-    10.5引入](../Page/Mac_OS_X_10.5.md "wikilink")
+    10.5引入](https://zh.wikipedia.org/wiki/Mac_OS_X_10.5 "wikilink")
 
   - [Graphite](../Page/Graphite.md "wikilink") -
-    [跨平台的开源智能字体渲染引擎](../Page/跨平台.md "wikilink")
+    [跨平台的开源智能字体渲染引擎](https://zh.wikipedia.org/wiki/跨平台 "wikilink")
 
-  - [Cairo](../Page/Cairo_\(繪圖\).md "wikilink") - 一个矢量图形库
+  - [Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink") -
+    一个矢量图形库
 
 ## 参考文献
 

@@ -1,7 +1,7 @@
-《**霹靂MIT**》（），是由[八大電視與](../Page/八大電視.md "wikilink")[三匠影視繼](../Page/三匠影視.md "wikilink")《[愛殺17](../Page/愛殺17.md "wikilink")》後再度合作開拍的懸疑[偶像劇](../Page/偶像劇.md "wikilink")。2007年12月18日開鏡。男女主角為[飛輪海成員](../Page/飛輪海.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")、前[黑Girl成員](../Page/黑Girl.md "wikilink")[吳映潔（鬼鬼）以及](../Page/吳映潔.md "wikilink")[黃鴻升
-(小鬼)](../Page/黃鴻升.md "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")。原先[楊士萱所飾演角色改由](../Page/楊士萱.md "wikilink")[陸廷威扮演](../Page/陸廷威.md "wikilink")。本劇已在台灣及香港的有線電視播畢。《霹靂MIT》以每集一推理單元為結構，喜劇成分背後隱含充滿寫實與深刻的人心刻畫，諷刺現代社會的教育政策與社會價值觀。
+《**霹靂MIT**》（），是由[八大電視與](../Page/八大電視.md "wikilink")[三匠影視繼](https://zh.wikipedia.org/wiki/三匠影視 "wikilink")《[愛殺17](../Page/愛殺17.md "wikilink")》後再度合作開拍的懸疑[偶像劇](../Page/偶像劇.md "wikilink")。2007年12月18日開鏡。男女主角為[飛輪海成員](../Page/飛輪海.md "wikilink")[炎亞綸](../Page/炎亞綸.md "wikilink")、前[黑Girl成員](../Page/黑Girl.md "wikilink")[吳映潔（鬼鬼）以及](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")[黃鴻升
+(小鬼)](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")。原先[楊士萱所飾演角色改由](../Page/楊士萱.md "wikilink")[陸廷威扮演](../Page/陸廷威.md "wikilink")。本劇已在台灣及香港的有線電視播畢。《霹靂MIT》以每集一推理單元為結構，喜劇成分背後隱含充滿寫實與深刻的人心刻畫，諷刺現代社會的教育政策與社會價值觀。
 
-電視劇以高畫質拍攝播送，且受[行政院新聞局](../Page/行政院新聞局.md "wikilink")[台灣優質高畫質電視節目補助](../Page/台灣優質高畫質電視節目補助.md "wikilink")。
+電視劇以高畫質拍攝播送，且受[行政院新聞局](../Page/行政院新聞局.md "wikilink")[台灣優質高畫質電視節目補助](https://zh.wikipedia.org/wiki/台灣優質高畫質電視節目補助 "wikilink")。
 
 ## 播出時間
 
@@ -29,25 +29,25 @@
 <td><p>每週六23：00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/公視HD台.md" title="wikilink">公視HD台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公視HD台" title="wikilink">公視HD台</a></p></td>
 <td></td>
 <td><p>2008年12月27日</p></td>
 <td><p>每週六～日20：00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/香港有線電視娛樂台.md" title="wikilink">香港有線電視娛樂台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港有線電視娛樂台" title="wikilink">香港有線電視娛樂台</a></p></td>
 <td></td>
 <td><p>2009年3月9日</p></td>
 <td><p>每週一至五11：00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/香港有線電視第1台.md" title="wikilink">香港有線電視第1台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港有線電視第1台" title="wikilink">香港有線電視第1台</a></p></td>
 <td></td>
 <td><p>2009年3月9日</p></td>
 <td><p>每週一至五23：00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/星空傳媒#旗下頻道.md" title="wikilink">星空衛視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星空傳媒#旗下頻道" title="wikilink">星空衛視</a></p></td>
 <td></td>
 <td><p>2009年4月30日</p></td>
 <td><p>每週一至五21：00</p></td>
@@ -59,7 +59,7 @@
 <td><p>每週一至五19：30</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Astro双星.md" title="wikilink">Astro双星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Astro双星" title="wikilink">Astro双星</a></p></td>
 <td></td>
 <td><p>2009年?月?日</p></td>
 <td><p>每週一至五22：00</p></td>
@@ -113,13 +113,13 @@ MIT任務，即將出發……
 卻又對她有莫名的在意<br />
 後來慢慢喜歡上她<br />
 最後和天魔星成了男女朋友</p></td>
-<td><p>絕頂聰明，個性天生冷漠，是某名高校的天才資優生，但為了考上警察大學，壓力太大，而得了<a href="../Page/美尼爾氏症.md" title="wikilink">美尼爾氏症</a>。曾是煉獄天使，而他會玩煉獄天使是因為他爸，因為007得了美尼爾氏症，在進警察大學體檢就被刷下來而放棄他，所以他才想出煉獄天使的遊戲。<br />
+<td><p>絕頂聰明，個性天生冷漠，是某名高校的天才資優生，但為了考上警察大學，壓力太大，而得了<a href="https://zh.wikipedia.org/wiki/美尼爾氏症" title="wikilink">美尼爾氏症</a>。曾是煉獄天使，而他會玩煉獄天使是因為他爸，因為007得了美尼爾氏症，在進警察大學體檢就被刷下來而放棄他，所以他才想出煉獄天使的遊戲。<br />
 於第12集與李曉星成為男女朋友。<br />
 <strong>第14集玩家 第1,6,7,16集挑戰者</strong></p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/吳映潔.md" title="wikilink">吳映潔（鬼鬼）</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/吳映潔" title="wikilink">吳映潔（鬼鬼）</a></p></td>
 <td><center>
 <p>ID：天魔星<br />
 李曉星<br />
@@ -157,7 +157,7 @@ MIT任務，即將出發……
 <tbody>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/黃鴻升.md" title="wikilink">黃鴻升（小鬼）</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃鴻升" title="wikilink">黃鴻升（小鬼）</a></p></td>
 <td><center>
 <p>ID：747<br />
 黃輝宏</p></td>
@@ -196,19 +196,19 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/張善傑.md" title="wikilink">張善傑</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/張善傑" title="wikilink">張善傑</a></p></td>
 <td><center>
 <p>陸克英</p></td>
 <td><center>
 <p>天使老師之子</p></td>
-<td><p>天魔星之雙胞胎哥哥，Cherry老師之同父異母的弟弟。表面是柔弱的乖學生，常被欺負。實際缺乏父愛，有<a href="../Page/品行障礙.md" title="wikilink">品行障礙</a>。事後與父母到美國醫病。<br />
+<td><p>天魔星之雙胞胎哥哥，Cherry老師之同父異母的弟弟。表面是柔弱的乖學生，常被欺負。實際缺乏父愛，有<a href="https://zh.wikipedia.org/wiki/品行障礙" title="wikilink">品行障礙</a>。事後與父母到美國醫病。<br />
 <strong>第16集玩家(遊戲大魔頭)</strong></p></td>
 <td><center>
 <p>第1-6,8-9.11-16集</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/田麗.md" title="wikilink">田麗</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/田麗" title="wikilink">田麗</a></p></td>
 <td><center>
 <p>天使老師<br />
 陸雅琪</p></td>
@@ -290,7 +290,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/黃婉婷.md" title="wikilink">婉兒</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/黃婉婷" title="wikilink">婉兒</a><br />
 （KUSO美眉）</p></td>
 <td><center>
 <p>林宜庭</p></td>
@@ -313,7 +313,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/羅淑幃.md" title="wikilink">幃幃</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/羅淑幃" title="wikilink">幃幃</a></p></td>
 <td><center>
 <p>林莉娜</p></td>
 <td><center>
@@ -324,7 +324,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/黃士耕.md" title="wikilink">蠍子</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃士耕" title="wikilink">蠍子</a></p></td>
 <td><center>
 <p>林敦昌</p></td>
 <td><center>
@@ -335,7 +335,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/蔡芷紜.md" title="wikilink">蔡芷紜</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/蔡芷紜" title="wikilink">蔡芷紜</a></p></td>
 <td><center>
 <p>黃心怡<br />
 狗狗</p></td>
@@ -348,7 +348,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/黃文炫.md" title="wikilink">黃文炫</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃文炫" title="wikilink">黃文炫</a></p></td>
 <td><center>
 <p>劉冠志</p></td>
 <td><center>
@@ -359,7 +359,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/陳子孺.md" title="wikilink">陳子孺</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳子孺" title="wikilink">陳子孺</a></p></td>
 <td><center>
 <p>李子傑</p></td>
 <td><center>
@@ -370,7 +370,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/米兒.md" title="wikilink">米兒</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/米兒" title="wikilink">米兒</a><br />
 （KUSO美眉）</p></td>
 <td><center>
 <p>女學生甲</p></td>
@@ -382,7 +382,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/羽兒.md" title="wikilink">羽兒</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/羽兒" title="wikilink">羽兒</a><br />
 （KUSO美眉）</p></td>
 <td><center>
 <p>女學生乙</p></td>
@@ -394,7 +394,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/蔣美恩.md" title="wikilink">米恩</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/蔣美恩" title="wikilink">米恩</a></p></td>
 <td><center>
 <p>女學生丙</p></td>
 <td><center>
@@ -415,7 +415,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/陳盈君.md" title="wikilink">小林王子</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陳盈君" title="wikilink">小林王子</a></p></td>
 <td><center>
 <p>沈修君<br />
 咪露</p></td>
@@ -427,7 +427,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/高聖雲.md" title="wikilink">高聖雲</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/高聖雲" title="wikilink">高聖雲</a></p></td>
 <td><center>
 <p>張玄惠</p></td>
 <td><center>
@@ -473,7 +473,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/游定剛.md" title="wikilink">游定剛</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/游定剛" title="wikilink">游定剛</a></p></td>
 <td><center>
 <p>戴志勛<br />
 雙面人</p></td>
@@ -486,7 +486,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/郭承霖.md" title="wikilink">郭承霖</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/郭承霖" title="wikilink">郭承霖</a></p></td>
 <td><center>
 <p>羅家豪</p></td>
 <td><center>
@@ -520,7 +520,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/相博濤.md" title="wikilink">相博濤</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/相博濤" title="wikilink">相博濤</a></p></td>
 <td><center>
 <p>007</p></td>
 <td><center>
@@ -544,7 +544,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/袁振銓.md" title="wikilink">元太</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/袁振銓" title="wikilink">元太</a><br />
 （翼勢力）</p></td>
 <td><center>
 <p>戴明哲</p></td>
@@ -593,7 +593,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/謝易穎.md" title="wikilink">謝易穎</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/謝易穎" title="wikilink">謝易穎</a></p></td>
 <td><center>
 <p>杜明威</p></td>
 <td><center>
@@ -618,7 +618,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/彭博劭.md" title="wikilink">彭博劭</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/彭博劭" title="wikilink">彭博劭</a></p></td>
 <td><center>
 <p>鄭文龍</p></td>
 <td><center>
@@ -630,7 +630,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/林昀希.md" title="wikilink">林昀希</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/林昀希" title="wikilink">林昀希</a></p></td>
 <td><center>
 <p>姚千慧</p></td>
 <td><center>
@@ -688,7 +688,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/丘家維.md" title="wikilink">丘家維</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/丘家維" title="wikilink">丘家維</a></p></td>
 <td><center>
 <p>187</p></td>
 <td><center>
@@ -699,7 +699,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/彭武駿.md" title="wikilink">彭武駿</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/彭武駿" title="wikilink">彭武駿</a></p></td>
 <td><center>
 <p>陳彥翔</p></td>
 <td><center>
@@ -801,24 +801,24 @@ MIT任務，即將出發……
 
 ## 大事紀
 
-  - 在《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》劇中「冷冽」一角本來由[炎亞綸](../Page/炎亞綸.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）擔綱演出，但經由[可米製作和](../Page/可米製作.md "wikilink")[八大協議過後](../Page/八大電視.md "wikilink")，以雙方的角色交換過後會比較適合為由，決定將原本要演出《霹靂MIT》主角的[唐禹哲請來演出](../Page/唐禹哲.md "wikilink")「冷冽」一角，而[炎亞綸則演出](../Page/炎亞綸.md "wikilink")《霹靂MIT》的詹士德。
+  - 在《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》劇中「冷冽」一角本來由[炎亞綸](../Page/炎亞綸.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）擔綱演出，但經由[可米製作和](https://zh.wikipedia.org/wiki/可米製作 "wikilink")[八大協議過後](../Page/八大電視.md "wikilink")，以雙方的角色交換過後會比較適合為由，決定將原本要演出《霹靂MIT》主角的[唐禹哲請來演出](../Page/唐禹哲.md "wikilink")「冷冽」一角，而[炎亞綸則演出](../Page/炎亞綸.md "wikilink")《霹靂MIT》的詹士德。
 
 <!-- end list -->
 
-  - 由[汪東城](../Page/汪東城.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）主演的《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》開播後收視不如預期，外傳已危及到[炎亞綸初挑大樑的](../Page/炎亞綸.md "wikilink")《霹靂MIT》，據悉雖已拍畢，無線台播映權至2008年5月仍乏人問津，仍未拍板定案，原先傳出由[華視頻道播出](../Page/華視.md "wikilink")，後被[楊丞琳](../Page/楊丞琳.md "wikilink")、[潘瑋柏主演的](../Page/潘瑋柏.md "wikilink")《[不良笑花](../Page/不良笑花.md "wikilink")》捷足先登。\[1\]
+  - 由[汪東城](../Page/汪東城.md "wikilink")（[飛輪海成員](../Page/飛輪海.md "wikilink")）主演的《[翻滾吧！蛋炒飯](../Page/翻滾吧！蛋炒飯.md "wikilink")》開播後收視不如預期，外傳已危及到[炎亞綸初挑大樑的](../Page/炎亞綸.md "wikilink")《霹靂MIT》，據悉雖已拍畢，無線台播映權至2008年5月仍乏人問津，仍未拍板定案，原先傳出由[華視頻道播出](https://zh.wikipedia.org/wiki/華視 "wikilink")，後被[楊丞琳](../Page/楊丞琳.md "wikilink")、[潘瑋柏主演的](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")《[不良笑花](../Page/不良笑花.md "wikilink")》捷足先登。\[1\]
 
 <!-- end list -->
 
   - 由 \[<http://stars.udn.com/>
-    「聯合追星網」舉辦的「新上檔或預定即上檔偶像劇，你最想看哪一部」[偶像劇大調查活動](../Page/偶像劇.md "wikilink")（投票期間：2008年7月1日至2008年7月15日），2008年7月16日凌晨揭曉票選結果，是由[炎亞綸](../Page/炎亞綸.md "wikilink")、[吳映潔（鬼鬼）主演的](../Page/吳映潔.md "wikilink")《霹靂MIT》（38143票）奪下冠軍。其中，[明道和](../Page/明道.md "wikilink")[郭品超主演的](../Page/郭品超.md "wikilink")《[敲敲愛上你](../Page/敲敲愛上你.md "wikilink")》（26949票）及[言承旭](../Page/言承旭.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[吳尊主演的](../Page/吳尊.md "wikilink")《[籃球火](../Page/籃球火.md "wikilink")》（21433票）分佔最受期待的第二名和第三名。\[2\]
+    「聯合追星網」舉辦的「新上檔或預定即上檔偶像劇，你最想看哪一部」[偶像劇大調查活動](../Page/偶像劇.md "wikilink")（投票期間：2008年7月1日至2008年7月15日），2008年7月16日凌晨揭曉票選結果，是由[炎亞綸](../Page/炎亞綸.md "wikilink")、[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《霹靂MIT》（38143票）奪下冠軍。其中，[明道和](https://zh.wikipedia.org/wiki/明道 "wikilink")[郭品超主演的](../Page/郭品超.md "wikilink")《[敲敲愛上你](../Page/敲敲愛上你.md "wikilink")》（26949票）及[言承旭](../Page/言承旭.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[吳尊主演的](../Page/吳尊.md "wikilink")《[籃球火](../Page/籃球火.md "wikilink")》（21433票）分佔最受期待的第二名和第三名。\[2\]
 
 ### 換角事件
 
 [楊士萱拍攝期間傳出因與媽媽發生爭執](../Page/楊士萱.md "wikilink")，加上當時服用抗憂鬱藥物，在精神狀況恍惚之下，於2008年1月15日晚間9點尾隨1名女大學生返家，在台北某大樓強對被害人掀裙、撕破褲襪、作勢拍照，後逃離現場，因現場遺留皮夾內證件而暴露身分。
 
-起初[楊士萱否認涉案](../Page/楊士萱.md "wikilink")，但27日由[經紀人和](../Page/經紀人.md "wikilink")[律師陪同召開記者會公開坦承犯行](../Page/律師.md "wikilink")，1月29日事件進入司法程序。他參與演出的《霹靂MIT》製作單位三匠影視與[八大電視高層經開會討論](../Page/八大電視.md "wikilink")，28日發表正式聲明，確定換角，原本楊士萱出演的角色將改由曾同台合作拍攝《[愛殺17](../Page/愛殺17.md "wikilink")》的新人[陸廷威演出](../Page/陸廷威.md "wikilink")。
+起初[楊士萱否認涉案](../Page/楊士萱.md "wikilink")，但27日由[經紀人和](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[律師陪同召開記者會公開坦承犯行](../Page/律師.md "wikilink")，1月29日事件進入司法程序。他參與演出的《霹靂MIT》製作單位三匠影視與[八大電視高層經開會討論](../Page/八大電視.md "wikilink")，28日發表正式聲明，確定換角，原本楊士萱出演的角色將改由曾同台合作拍攝《[愛殺17](../Page/愛殺17.md "wikilink")》的新人[陸廷威演出](../Page/陸廷威.md "wikilink")。
 
-[士林地方法院於同年](../Page/臺灣士林地方法院.md "wikilink")7月16日審結此案，認為楊未觸及被害人身體，同意楊的「變態行為」辯解，不構成[性騷擾](../Page/性騷擾.md "wikilink")、猥褻罪，改依強制罪判其徒刑6個月、得易科罰金。
+[士林地方法院於同年](../Page/臺灣士林地方法院.md "wikilink")7月16日審結此案，認為楊未觸及被害人身體，同意楊的「變態行為」辯解，不構成[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")、猥褻罪，改依強制罪判其徒刑6個月、得易科罰金。
 
 ### 八大官網洩露劇情
 
@@ -830,7 +830,7 @@ MIT任務，即將出發……
 
 ### 結局伏筆
 
-大結局劇情中有一句話是：『遊戲結束了嗎？其實才剛開始！』，引起網友們推測是否會拍攝《霹靂MIT》的續集，但三匠影視已宣佈不會拍攝續集。有部分網友則是希望同樣由[炎亞綸跟](../Page/炎亞綸.md "wikilink")[吳映潔（鬼鬼）主演的](../Page/吳映潔.md "wikilink")《[桃花愛無敵](../Page/桃花愛無敵.md "wikilink")》能趕快復拍。但是《[桃花愛無敵](../Page/桃花愛無敵.md "wikilink")》已经改名为《[桃花小妹](../Page/桃花小妹.md "wikilink")》，由[王心凌和](../Page/王心凌.md "wikilink")[汪东城主演](../Page/汪东城.md "wikilink")。
+大結局劇情中有一句話是：『遊戲結束了嗎？其實才剛開始！』，引起網友們推測是否會拍攝《霹靂MIT》的續集，但三匠影視已宣佈不會拍攝續集。有部分網友則是希望同樣由[炎亞綸跟](../Page/炎亞綸.md "wikilink")[吳映潔（鬼鬼）主演的](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》能趕快復拍。但是《[桃花愛無敵](https://zh.wikipedia.org/wiki/桃花愛無敵 "wikilink")》已经改名为《[桃花小妹](https://zh.wikipedia.org/wiki/桃花小妹 "wikilink")》，由[王心凌和](../Page/王心凌.md "wikilink")[汪东城主演](https://zh.wikipedia.org/wiki/汪东城 "wikilink")。
 
 ## 週邊商品
 

@@ -1,6 +1,6 @@
-\-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂團](../Page/搖滾樂團.md "wikilink")，在2006年8月於[大阪組成](../Page/大阪.md "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](../Page/美國.md "wikilink")、[法國](../Page/法國.md "wikilink")、[香港等日本海外地方演出](../Page/香港.md "wikilink")。2008年3月她們跟[Kitty
-Records和](../Page/Kitty_film.md "wikilink")[Tower
-Records簽約](../Page/TOWER_RECORDS.md "wikilink")。2008年10月，SCANDAL以單曲《[DOLL](../Page/DOLL.md "wikilink")》正式出道。2010年，SCANDAL的一些歌曲被起用為動畫歌曲，例如《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《[鋼之鍊金術師
+\-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，在2006年8月於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[香港等日本海外地方演出](../Page/香港.md "wikilink")。2008年3月她們跟[Kitty
+Records和](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")[Tower
+Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。2008年10月，SCANDAL以單曲《[DOLL](../Page/DOLL.md "wikilink")》正式出道。2010年，SCANDAL的一些歌曲被起用為動畫歌曲，例如《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《[鋼之鍊金術師
 FULLMETAL
 ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》等等，令樂團人氣急速上升。2012年3月28日，SCANDAL成功在[日本武道館開辦個人演唱會](../Page/日本武道館.md "wikilink")，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團。2015年1月SCANDAL舉辦了
 SCANDAL WORLD TOUR 2015「HELLO
@@ -29,7 +29,7 @@ SCANDAL TOUR 2016「YELLOW」世界巡回演唱會。
 <tbody>
 <tr class="odd">
 <td><p><strong>HARUNA</strong></p></td>
-<td><p><a href="../Page/主唱.md" title="wikilink">主音</a>、<a href="../Page/吉他.md" title="wikilink">吉他</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/主唱" title="wikilink">主音</a>、<a href="../Page/吉他.md" title="wikilink">吉他</a></p></td>
 <td><p>小野春菜<br />
 </p></td>
 <td><p>1988年8月10日</p></td>
@@ -51,22 +51,22 @@ SCANDAL TOUR 2016「YELLOW」世界巡回演唱會。
 </tr>
 <tr class="odd">
 <td><p><strong>TOMOMI</strong></p></td>
-<td><p><a href="../Page/貝斯.md" title="wikilink">貝斯</a>、第二主音</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a>、第二主音</p></td>
 <td><p>小川智美<br />
 </p></td>
 <td><p>1990年5月31日</p></td>
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
 <td><p>157cm</p></td>
 <td><p>A型</p></td>
 <td><p>雙子座</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>RINA</strong></p></td>
-<td><p><a href="../Page/鼓.md" title="wikilink">爵士鼓</a>、<a href="../Page/合聲.md" title="wikilink">和聲</a></p></td>
+<td><p><a href="../Page/鼓.md" title="wikilink">爵士鼓</a>、<a href="https://zh.wikipedia.org/wiki/合聲" title="wikilink">和聲</a></p></td>
 <td><p>鈴木理菜<br />
 </p></td>
 <td><p>1991年8月21日</p></td>
-<td><p><a href="../Page/奈良縣.md" title="wikilink">奈良縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良縣</a></p></td>
 <td><p>160cm</p></td>
 <td><p>B型</p></td>
 <td><p>獅子座</p></td>
@@ -103,22 +103,22 @@ SCANDAL在樂團組成之前她們都會經常去一間位於日本大阪市都�
 
 ### 組成樂團
 
-2006年8月，SCANDAL於[大阪成立](../Page/大阪.md "wikilink")，成員包括主唱HARUNA，[吉他手MAMI](../Page/吉他.md "wikilink")、[貝斯手TOMOMI和鼓手RINA](../Page/貝斯.md "wikilink")。TOMOMI和RINA來自一所聲樂及舞蹈學校的大阪分校，HARUNA和MAMI則來自[名古屋分校](../Page/名古屋.md "wikilink")\[2\]。成員當中只有MAMI曾於高中時擔任樂團鼓手\[3\]，其他成員均不懂得演奏樂器\[4\]。樂團成立一周後便有一場現場表演，她們為此每天在錄音室練習12小時\[5\]。在8月下旬，她們將樂團命名為「-{SCANDAL}-」\[6\]。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演，亦時會到[關西的一些場地表演](../Page/近畿地方.md "wikilink")\[7\]\[8\]。由於她們當時表演的地方跟大型表演場地[大阪城大廳](../Page/大阪城大廳.md "wikilink")（）相當接近，所以她們自組成以來一直希望在那裏開演唱會\[9\]。2007年8月，她們獲邀到[澀谷Club](../Page/澀谷.md "wikilink")
-asia的一個活動上表演，這是樂團首次離開關西，並在[東京演出](../Page/東京.md "wikilink")\[10\]\[11\]。據SCANDAL所講，由於場上有來自唱片公司的人，所以該次表演對她們出道的影響十分重大\[12\]。她們幾個月後跟[Kitty
-Records和](../Page/Kitty_film.md "wikilink")[Tower
-Records簽約](../Page/TOWER_RECORDS.md "wikilink")。
+2006年8月，SCANDAL於[大阪成立](https://zh.wikipedia.org/wiki/大阪 "wikilink")，成員包括主唱HARUNA，[吉他手MAMI](../Page/吉他.md "wikilink")、[貝斯手TOMOMI和鼓手RINA](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。TOMOMI和RINA來自一所聲樂及舞蹈學校的大阪分校，HARUNA和MAMI則來自[名古屋分校](https://zh.wikipedia.org/wiki/名古屋 "wikilink")\[2\]。成員當中只有MAMI曾於高中時擔任樂團鼓手\[3\]，其他成員均不懂得演奏樂器\[4\]。樂團成立一周後便有一場現場表演，她們為此每天在錄音室練習12小時\[5\]。在8月下旬，她們將樂團命名為「-{SCANDAL}-」\[6\]。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演，亦時會到[關西的一些場地表演](../Page/近畿地方.md "wikilink")\[7\]\[8\]。由於她們當時表演的地方跟大型表演場地[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）相當接近，所以她們自組成以來一直希望在那裏開演唱會\[9\]。2007年8月，她們獲邀到[澀谷Club](../Page/澀谷.md "wikilink")
+asia的一個活動上表演，這是樂團首次離開關西，並在[東京演出](https://zh.wikipedia.org/wiki/東京 "wikilink")\[10\]\[11\]。據SCANDAL所講，由於場上有來自唱片公司的人，所以該次表演對她們出道的影響十分重大\[12\]。她們幾個月後跟[Kitty
+Records和](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")[Tower
+Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。
 
 ### 獨立製作時期
 
 [SCANDAL_set2_20080705_Japan_Expo_033.jpg](https://zh.wikipedia.org/wiki/File:SCANDAL_set2_20080705_Japan_Expo_033.jpg "fig:SCANDAL_set2_20080705_Japan_Expo_033.jpg")。\]\]
 2008年，Tower
-Records獨家發行了三張SCANDAL的[單曲](../Page/單曲.md "wikilink")\[13\]。第1張單曲《[Space
-Ranger](../Page/Space_Ranger_\(SCANDAL單曲\).md "wikilink")》於TOWER獨立製作排行榜（）上得第2名，第2張《[戀模樣](../Page/戀模樣_\(單曲\).md "wikilink")》和第3張《[蜉蝣](../Page/蜉蝣_\(SCANDAL單曲\).md "wikilink")》則得首名\[14\]。同年8月，SCANDAL發行了其首張迷你專輯《[YAH\!YAH\!YAH\!
+Records獨家發行了三張SCANDAL的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[13\]。第1張單曲《[Space
+Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")》於TOWER獨立製作排行榜（）上得第2名，第2張《[戀模樣](https://zh.wikipedia.org/wiki/戀模樣_\(單曲\) "wikilink")》和第3張《[蜉蝣](https://zh.wikipedia.org/wiki/蜉蝣_\(SCANDAL單曲\) "wikilink")》則得首名\[14\]。同年8月，SCANDAL發行了其首張迷你專輯《[YAH\!YAH\!YAH\!
 HELLO SCANDAL](../Page/YAH!YAH!YAH!_HELLO_SCANDAL.md "wikilink")》\[15\]。
 
-另外，SCANDAL亦開始到日本海外表演。在發行第1張單曲後的3月下旬，她們到了[美國參與了](../Page/美國.md "wikilink")「Japan
+另外，SCANDAL亦開始到日本海外表演。在發行第1張單曲後的3月下旬，她們到了[美國參與了](https://zh.wikipedia.org/wiki/美國 "wikilink")「Japan
 Nite US tour
-2008」的演出\[16\]，然後於美國[西雅圖的日本文化及動畫展](../Page/西雅圖.md "wikilink")「[Sakura-Con](../Page/Sakura-Con.md "wikilink")」演出\[17\]\[18\]。同年7月，她們參演了於[法國](../Page/法國.md "wikilink")[巴黎舉辦的](../Page/巴黎.md "wikilink")[日本博覽會](../Page/日本博覽會.md "wikilink")\[19\]。8月1日和2日，她們於[香港](../Page/香港.md "wikilink")[動漫電玩節演出](../Page/香港動漫電玩節.md "wikilink")\[20\]。其後，她們於8月18日至29日期間舉辦了其首次全國巡迴演出「SCANDAL
+2008」的演出\[16\]，然後於美國[西雅圖的日本文化及動畫展](../Page/西雅圖.md "wikilink")「[Sakura-Con](https://zh.wikipedia.org/wiki/Sakura-Con "wikilink")」演出\[17\]\[18\]。同年7月，她們參演了於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎舉辦的](../Page/巴黎.md "wikilink")[日本博覽會](../Page/日本博覽會.md "wikilink")\[19\]。8月1日和2日，她們於[香港](../Page/香港.md "wikilink")[動漫電玩節演出](../Page/香港動漫電玩節.md "wikilink")\[20\]。其後，她們於8月18日至29日期間舉辦了其首次全國巡迴演出「SCANDAL
 - Give me P.P. Tour 2008 -」\[21\]。
 
 ### 正式出道
@@ -126,10 +126,10 @@ Nite US tour
   - 2008年－2009年
 
 2008年10月，SCANDAL正式出道，經[Epic Records
-Japan發行其出道作](../Page/Epic_Records_Japan.md "wikilink")《[DOLL](../Page/DOLL.md "wikilink")》。這張單曲於[Oricon公信榜上得第](../Page/Oricon公信榜.md "wikilink")26名\[22\]，於[Japan
+Japan發行其出道作](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")《[DOLL](../Page/DOLL.md "wikilink")》。這張單曲於[Oricon公信榜上得第](../Page/Oricon公信榜.md "wikilink")26名\[22\]，於[Japan
 Hot
-100取得第](../Page/Japan_Hot_100.md "wikilink")5名\[23\]。她們自此得以出現在主流媒體，例如出席音樂節目《[MUSIC
-STATION](../Page/MUSIC_STATION.md "wikilink")》等等\[24\]。2009年3月，SCANDAL發行第2張單曲，名為《[SAKURA再見](../Page/SAKURA再見.md "wikilink")》，以紀念TOMOMI和MAMI兩名成員的高中畢業\[25\]。4月，她們的《[少女S](../Page/少女S.md "wikilink")》被採用為[動畫](../Page/日本電視動畫.md "wikilink")《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十首主題曲\[26\]。這首歌於兩個月後作為她們的第3張單曲發行，於Oricon公信榜單曲周榜上取得第6名\[27\]。這是她們當時取得過的最高排名，也是她們首次打進周榜頭十名\[28\]。10月，在第4張單曲《[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")》發行一週後\[29\]，她們發行了其首張專輯《[BEST★SCANDAL](../Page/BEST★SCANDAL.md "wikilink")》，並取得Oricon公信榜專輯周榜第5名，為該排行榜7年半來再次有女子樂團的首張專輯取得5名以內（上一張是[ZONE的](../Page/ZONE.md "wikilink")《[Z](../Page/Z_\(專輯\).md "wikilink")》，第2位）\[30\]。12月，SCANDAL舉辦了正式出道以來首次全國巡迴演出「（First
+100取得第](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")5名\[23\]。她們自此得以出現在主流媒體，例如出席音樂節目《[MUSIC
+STATION](../Page/MUSIC_STATION.md "wikilink")》等等\[24\]。2009年3月，SCANDAL發行第2張單曲，名為《[SAKURA再見](../Page/SAKURA再見.md "wikilink")》，以紀念TOMOMI和MAMI兩名成員的高中畢業\[25\]。4月，她們的《[少女S](../Page/少女S.md "wikilink")》被採用為[動畫](../Page/日本電視動畫.md "wikilink")《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十首主題曲\[26\]。這首歌於兩個月後作為她們的第3張單曲發行，於Oricon公信榜單曲周榜上取得第6名\[27\]。這是她們當時取得過的最高排名，也是她們首次打進周榜頭十名\[28\]。10月，在第4張單曲《[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")》發行一週後\[29\]，她們發行了其首張專輯《[BEST★SCANDAL](../Page/BEST★SCANDAL.md "wikilink")》，並取得Oricon公信榜專輯周榜第5名，為該排行榜7年半來再次有女子樂團的首張專輯取得5名以內（上一張是[ZONE的](../Page/ZONE.md "wikilink")《[Z](https://zh.wikipedia.org/wiki/Z_\(專輯\) "wikilink")》，第2位）\[30\]。12月，SCANDAL舉辦了正式出道以來首次全國巡迴演出「（First
 One-man Live
 Tour）」\[31\]。12月30日，她們獲得第51屆[日本唱片大獎新人獎](../Page/日本唱片大獎.md "wikilink")\[32\]。
 
@@ -137,12 +137,12 @@ Tour）」\[31\]。12月30日，她們獲得第51屆[日本唱片大獎新人獎
 
 2010年，SCANDAL的第5張單曲《[多愁善感的瞬間](../Page/多愁善感的瞬間.md "wikilink")》被起用為動畫《[鋼之鍊金術師
 FULLMETAL
-ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的片尾曲\[33\]。同年4月21日，SCANDAL[翻唱ZONE的](../Page/翻唱.md "wikilink")《[Secret
+ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的片尾曲\[33\]。同年4月21日，SCANDAL[翻唱ZONE的](https://zh.wikipedia.org/wiki/翻唱 "wikilink")《[Secret
 base
 ～你給我的東西～](../Page/Secret_base_～你給我的東西～.md "wikilink")》，以網上下載鈴聲形式發行\[34\]。6月，她們發行了第6張單曲《[太陽與你所描繪的STORY](../Page/太陽與你所描繪的STORY.md "wikilink")》\[35\]和其首張演唱會DVD《SCANDAL
 FIRST LIVE - BEST★SCANDAL 2009
 -》，其中DVD獲得了Oricon公信榜DVD綜合榜第5名\[36\]。第7張單曲《[遺憾的眼淚](../Page/遺憾的眼淚.md "wikilink")》於7月發行，為樂團首張抒情單曲\[37\]。8月，第2張專輯《[TEMPTATION
-BOX](../Page/TEMPTATION_BOX.md "wikilink")》於全球42個國家發行\[38\]。這張專輯取得Oricon公信榜第3名，為自2009年[Chatmonchy](../Page/Chatmonchy.md "wikilink")（）的《告白》以來，再次有女子樂團專輯打進該榜頭三名\[39\]。SCANDAL於10月發行她們2010年最後一張單曲《[踢飛醜聞](../Page/踢飛醜聞.md "wikilink")》\[40\]，並憑該單曲於公信榜單曲周榜上取得第3位\[41\]，為樂團當時於該榜的最高名次。11月，她們發行其首張翻唱專輯《[R-GIRL's
+BOX](../Page/TEMPTATION_BOX.md "wikilink")》於全球42個國家發行\[38\]。這張專輯取得Oricon公信榜第3名，為自2009年[Chatmonchy](https://zh.wikipedia.org/wiki/Chatmonchy "wikilink")（）的《告白》以來，再次有女子樂團專輯打進該榜頭三名\[39\]。SCANDAL於10月發行她們2010年最後一張單曲《[踢飛醜聞](../Page/踢飛醜聞.md "wikilink")》\[40\]，並憑該單曲於公信榜單曲周榜上取得第3位\[41\]，為樂團當時於該榜的最高名次。11月，她們發行其首張翻唱專輯《[R-GIRL's
 ROCK\!](../Page/R-GIRL's_ROCK!.md "wikilink")》，翻唱多首女歌手的歌曲\[42\]。
 
 [SCANDAL_band_at_AFA-X_2010_Singapore.jpg](https://zh.wikipedia.org/wiki/File:SCANDAL_band_at_AFA-X_2010_Singapore.jpg "fig:SCANDAL_band_at_AFA-X_2010_Singapore.jpg")。\]\]
@@ -150,30 +150,30 @@ ROCK\!](../Page/R-GIRL's_ROCK!.md "wikilink")》，翻唱多首女歌手的歌�
 MUSIX FALL
 2010」演唱會，演唱了多首歌曲，亦跟歌手[中川翔子合唱了](../Page/中川翔子.md "wikilink")《[Don't
 say
-"lazy"](../Page/Don't_say_"lazy".md "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡舉辦的大型動漫活動](../Page/新加坡.md "wikilink")[亞洲動漫節](../Page/亞洲動漫節.md "wikilink")（AFA）演出\[46\]。
+"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡舉辦的大型動漫活動](../Page/新加坡.md "wikilink")[亞洲動漫節](https://zh.wikipedia.org/wiki/亞洲動漫節 "wikilink")（AFA）演出\[46\]。
 
   - 2011年
 
 2011年2月，SCANDAL發行了其該年首張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》，收錄了首次由成員自己作曲和填詞的歌曲《Emotion》\[47\]。兩個月後，第10張單曲《[遙遠](../Page/遙遠_\(SCANDAL單曲\).md "wikilink")》於4月發行，並取得公信榜周榜第3名\[48\]，平了自己《踢飛醜聞》的紀錄。之後，她們在分別在7月和8月發行了其第11張單曲《[LOVE
 SURVIVE](../Page/LOVE_SURVIVE.md "wikilink")》和第3張原創專輯《[BABY
-ACTION](../Page/BABY_ACTION.md "wikilink")》\[49\]。在專輯發行後，SCANDAL於9月舉辦了首次[亞洲巡迴演唱會](../Page/亞洲.md "wikilink")「SCANDAL
+ACTION](../Page/BABY_ACTION.md "wikilink")》\[49\]。在專輯發行後，SCANDAL於9月舉辦了首次[亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/亞洲 "wikilink")「SCANDAL
 ASIA TOUR 2011『BABY
-ACTION』」，到[台北](../Page/台北.md "wikilink")、香港和新加坡三個亞洲城市演出；以及於10月至12月舉辦自身首個日本國內Hall
+ACTION』」，到[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、香港和新加坡三個亞洲城市演出；以及於10月至12月舉辦自身首個日本國內Hall
 Tour「SCANDAL VIRGIN HALL TOUR 2011『BABY ACTION』」\[50\]。
 
   - 2012年
 
 [SCANDAL_(17872878628).jpg](https://zh.wikipedia.org/wiki/File:SCANDAL_\(17872878628\).jpg "fig:SCANDAL_(17872878628).jpg")
-2012年2月，SCANDAL的第12張單曲《[HARUKAZE](../Page/HARUKAZE.md "wikilink")》發行。《HARUKAZE》一曲被採用為《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十五首主題曲，為樂團第二次為該動畫提供歌曲\[51\]。接下來的3月，她們發行了其首張[精選輯](../Page/精選輯.md "wikilink")《[SCANDAL
+2012年2月，SCANDAL的第12張單曲《[HARUKAZE](../Page/HARUKAZE.md "wikilink")》發行。《HARUKAZE》一曲被採用為《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》的第十五首主題曲，為樂團第二次為該動畫提供歌曲\[51\]。接下來的3月，她們發行了其首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")《[SCANDAL
 SHOW](../Page/SCANDAL_SHOW.md "wikilink")》；其中收錄了經常在演唱會上表演，但從未發行過的歌曲《SCANDAL的主題曲》（）\[52\]。第13張單曲《[太陽Scandalous](../Page/太陽Scandalous.md "wikilink")》則於7月發行，得公信榜第2名\[53\]，為她們至今最高的單曲周榜名次。同年9月，她們的第四張專輯《》發行，並取得Oricon公信榜第4名。截至當時為止的4張原創專輯都獲得公信榜5名以內，為該榜史上首隊女子樂團達成此紀錄\[54\]。9月，她們2012年最後一張單曲《[高跟鞋踩浪](../Page/高跟鞋踩浪.md "wikilink")》發行\[55\]。
 
 同年3月28日，SCANDAL成功在[日本武道館開辦個人演唱會](../Page/日本武道館.md "wikilink")「SCANDAL vs
-BUDOKAN」。門票於開始發售15分鐘後售罄\[56\]。此時她們組成樂團已約5年7個月。以組成樂團的時間計算，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團\[57\]。8月26日，她們於舊日經常作街頭表演的[大阪城公園作現場演出](../Page/大阪城公園.md "wikilink")，共有3000名歌迷到場。SCANDAL當時宣佈了將於來年3月於大阪城公園中的[大阪城大廳開演唱會](../Page/大阪城大廳.md "wikilink")，一償多年來的心願\[58\]。12月1日，SCANDAL首次到[馬來西亞舉辦個唱](../Page/馬來西亞.md "wikilink")，現場共有1600名觀眾\[59\]。
+BUDOKAN」。門票於開始發售15分鐘後售罄\[56\]。此時她們組成樂團已約5年7個月。以組成樂團的時間計算，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團\[57\]。8月26日，她們於舊日經常作街頭表演的[大阪城公園作現場演出](../Page/大阪城公園.md "wikilink")，共有3000名歌迷到場。SCANDAL當時宣佈了將於來年3月於大阪城公園中的[大阪城大廳開演唱會](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")，一償多年來的心願\[58\]。12月1日，SCANDAL首次到[馬來西亞舉辦個唱](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，現場共有1600名觀眾\[59\]。
 
 SCANDAL的《Satisfaction》（）於同年10月被採用為[Windows
-8的廣告歌曲](../Page/Windows_8.md "wikilink")，為首次有日本人的歌曲用於[Microsoft
-Windows的廣告](../Page/Microsoft_Windows.md "wikilink")\[60\]\[61\]。她們的另一首歌曲《Happy
-Collector》（）被用作於12月上映的電影《[今日開始談戀愛](../Page/今日開始談戀愛#真人電影版.md "wikilink")》的12首主題曲之一\[62\]\[63\]。
+8的廣告歌曲](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，為首次有日本人的歌曲用於[Microsoft
+Windows的廣告](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[60\]\[61\]。她們的另一首歌曲《Happy
+Collector》（）被用作於12月上映的電影《[今日開始談戀愛](https://zh.wikipedia.org/wiki/今日開始談戀愛#真人電影版 "wikilink")》的12首主題曲之一\[62\]\[63\]。
 
 ### 夢想實現
 
@@ -183,7 +183,7 @@ Collector》（）被用作於12月上映的電影《[今日開始談戀愛](../
 SHOW](../Page/ENCORE_SHOW.md "wikilink")》發行，跟上一張精選輯《SCANDAL
 SHOW》一樣取得Oricon公信榜第3名\[64\]。
 
-3月3日SCANDAL終於一償多年來的心願，在大阪城公園中的[大阪城大廳](../Page/大阪城大廳.md "wikilink")（）舉辦了
+3月3日SCANDAL終於一償多年來的心願，在大阪城公園中的[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）舉辦了
 SCANDAL OSAKA-JO HALL 2013「Wonderful
 Tonight」演唱會，實現了當初在[大阪城公園開始街頭表演時一直以來的夢想](../Page/大阪城公園.md "wikilink")。演唱會當晚大約有10000
 名粉絲到場支持，這也是截至當時為止樂團有史以來最大規模的個別演唱會。
@@ -191,7 +191,8 @@ Tonight」演唱會，實現了當初在[大阪城公園開始街頭表演時一
 同年5月22日發行了第15張的單曲《[應該不會再見了、要保重喔](../Page/應該不會再見了、要保重喔.md "wikilink")》。8月14日亦發行了第16張的單曲《[下弦之月](../Page/下弦之月_\(SCANDAL單曲\).md "wikilink")》，該單曲中的B面曲《キミと未来と完全同期》為
 グランフロント大阪『ロボット・スキャンダル』項目的合作歌曲\[65\]。由貝斯手TOMOMI負責填詞。
 
-9月18日發行了第17張的單曲《[OVER DRIVE](../Page/OVER_DRIVE.md "wikilink")》其中歌曲《OVER
+9月18日發行了第17張的單曲《[OVER
+DRIVE](https://zh.wikipedia.org/wiki/OVER_DRIVE "wikilink")》其中歌曲《OVER
 DRIVE》由[中田康貴作詞](../Page/中田康貴.md "wikilink"),作曲及編曲。同年10月2日發行了第五張創作專輯《[STANDARD](../Page/STANDARD.md "wikilink")》，並取得了Oricon公信榜第3名。
 
 ### 風格改變
@@ -203,9 +204,9 @@ ZERO | Runners high ～戦国BASARA4 EP～》\[66\]。
 
 4月23日，SCANDAL發行了第18張單曲《[Departure](../Page/Departure_\(SCANDAL單曲\).md "wikilink")》，該曲的歌曲風格與以往的截然不同，由結他手MAMI擔任作曲填詞。該曲也是在同年3月3日，以限定一天的形式，突然出現在YouTube上的歌曲，當日樂迷的反應十分熱烈，也感到很驚喜，因為2014年初主音HARUNA一直都集中在舞台劇『銀河英雄傳說
 第四章後篇
-激突』上的演出，所以那個時期SCANDAL一直也沒有機會參與音樂上的活動。而3月3日，正是SCANDAL進軍獨立音樂界的日子，也是她們實現最大的夢想之一、在[大阪城大廳](../Page/大阪城大廳.md "wikilink")（）舉辦演唱會的一天，可說是充滿回憶的日期。主音HARUNA表示《Departure》這首歌曲是一首對SCANDAL很重要的歌曲，這也是一首見證了她們成長的歌曲，亦希望該曲可以讓樂迷認識一個全新的SCANDAL\[67\]。
+激突』上的演出，所以那個時期SCANDAL一直也沒有機會參與音樂上的活動。而3月3日，正是SCANDAL進軍獨立音樂界的日子，也是她們實現最大的夢想之一、在[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）舉辦演唱會的一天，可說是充滿回憶的日期。主音HARUNA表示《Departure》這首歌曲是一首對SCANDAL很重要的歌曲，這也是一首見證了她們成長的歌曲，亦希望該曲可以讓樂迷認識一個全新的SCANDAL\[67\]。
 
-6月22日SCANDAL第二次踏進夢之舞台[大阪城大廳](../Page/大阪城大廳.md "wikilink")（），舉辦了『SCANDAL
+6月22日SCANDAL第二次踏進夢之舞台[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（），舉辦了『SCANDAL
 ARENA LIVE 2014「360ﾟ」』演唱會。同月28及29日SCANDAL 亦在橫濱體育館舉辦一連兩日的『SCANDAL ARENA
 LIVE 2014 「FESTIVAL」』演唱會\[68\]。
 
@@ -221,7 +222,7 @@ WORLD](../Page/HELLO_WORLD_\(SCANDAL專輯\).md "wikilink")》，該專輯亦跟
 1月24日開始，SCANDAL樂團舉辦了SCANDAL HELLO WORLD
 世界巡回演唱會，除了日本地區公演外，亦去了不少國家如美國，英國，德國，法國，墨西哥，新加坡，台湾和香港等地巡演，向全世界樂迷展示出全新風格的SCANDAL。
 
-巡回演唱會過後，SCANDAL在7月22日發行了第21張的單曲《[Stamp\!](../Page/Stamp!.md "wikilink")》。同年9月9日再發行了第22張的單曲《Sisters》。團員表示新曲的靈感來自於剛完成的世界巡回演唱會。
+巡回演唱會過後，SCANDAL在7月22日發行了第21張的單曲《[Stamp\!](https://zh.wikipedia.org/wiki/Stamp! "wikilink")》。同年9月9日再發行了第22張的單曲《Sisters》。團員表示新曲的靈感來自於剛完成的世界巡回演唱會。
 
 10月17日公開上映了『**SCANDAL Documentary film「HELLO
 WORLD」**』電影，內容主要是SCANDAL在2015年初舉辦的HELLO WORLD
@@ -240,11 +241,11 @@ ARENA TOUR 2015-2016 「PERFECT
 WORLD」』演唱會，以答謝支持了她們十年的樂迷，主音HARUNA表示這是一個幸福的時刻\[71\]。
 
 1月30日公佈新曲《[Morning
-sun》將會擔任電影](../Page/Morning_sun.md "wikilink")《[猫なんかよんでもこない](../Page/猫なんかよんでもこない.md "wikilink")》的主題曲\[72\]。
+sun》將會擔任電影](https://zh.wikipedia.org/wiki/Morning_sun "wikilink")《[猫なんかよんでもこない](https://zh.wikipedia.org/wiki/猫なんかよんでもこない "wikilink")》的主題曲\[72\]。
 
 2月26日SCANDAL演出的「フェットチーネグミ」電視廣告正式放送，新曲《Love Me Do》亦擔任了其廣告歌曲\[73\]。
 
-3月2日SCANDAL發行了第7張原創專輯《[YELLOW](../Page/YELLOW_\(SCANDAL專輯\).md "wikilink")》，該專輯收錄了《[Stamp\!](../Page/Stamp!.md "wikilink")》，《Sisters》，《Love
+3月2日SCANDAL發行了第7張原創專輯《[YELLOW](../Page/YELLOW_\(SCANDAL專輯\).md "wikilink")》，該專輯收錄了《[Stamp\!](https://zh.wikipedia.org/wiki/Stamp! "wikilink")》，《Sisters》，《Love
 Me Do》及《SUKI-SUKI》等主打歌曲，亦收錄了SCANDAL首次嘗試創作的純音樂作品《Room
 No.7》，止專輯亦是首張所有作品皆由SCANDAL團員全權負責創作的專輯。該專輯取得了Oricon公信榜第2名，刷新了樂團有史以來公信榜的最高紀錄\[74\]。另外截至當時為止樂團全部七張原創專輯及兩張精選專輯都獲得Oricon公信榜5名以內。
 
@@ -256,11 +257,11 @@ No.7》，止專輯亦是首張所有作品皆由SCANDAL團員全權負責創作
 
 樂風可說是顏值搖滾。
 
-「[校服](../Page/日本學生服.md "wikilink")」是SCANDAL甫出道時的一個重大特色。雖然如此，她們並非為打造一支「校服樂團」而這樣做。據她們所講，組成樂團時全部成員都還是學生，經常穿著校服練習，因此於正式演出時仍穿上校服，減輕自己的緊張\[76\]。由於服裝上予人相當強烈的[偶像形象](../Page/日本偶像.md "wikilink")，剛開始的技術也不夠，所以曾引來「是否真的在演奏」等的質疑\[77\]\[78\]。現時樂團的服裝不再以校服為主調。她們由第9張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》（2011年2月）起開始不留黑長直髮\[79\]。她們表示不希望人們只看見校服的部分，故不在意因此流失一些歌迷\[80\]。
+「[校服](https://zh.wikipedia.org/wiki/日本學生服 "wikilink")」是SCANDAL甫出道時的一個重大特色。雖然如此，她們並非為打造一支「校服樂團」而這樣做。據她們所講，組成樂團時全部成員都還是學生，經常穿著校服練習，因此於正式演出時仍穿上校服，減輕自己的緊張\[76\]。由於服裝上予人相當強烈的[偶像形象](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，剛開始的技術也不夠，所以曾引來「是否真的在演奏」等的質疑\[77\]\[78\]。現時樂團的服裝不再以校服為主調。她們由第9張單曲《[Pride](../Page/Pride_\(SCANDAL單曲\).md "wikilink")》（2011年2月）起開始不留黑長直髮\[79\]。她們表示不希望人們只看見校服的部分，故不在意因此流失一些歌迷\[80\]。
 
-SCANDAL曾說過她們受到一些[美國樂團的影響](../Page/美國.md "wikilink")，包括[嗆辣紅椒和](../Page/嗆辣紅椒.md "wikilink")[超脫樂團等等](../Page/超脫樂團.md "wikilink")\[81\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉等女歌手](../Page/麥莉·希拉.md "wikilink")，RINA舉出[Maximum
+SCANDAL曾說過她們受到一些[美國樂團的影響](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括[嗆辣紅椒和](../Page/嗆辣紅椒.md "wikilink")[超脫樂團等等](https://zh.wikipedia.org/wiki/超脫樂團 "wikilink")\[81\]。在2008年一次訪問中，當她們被問及受到哪些藝人影響時，HARUNA舉出[YUI](../Page/YUI.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")、[麥莉·希拉等女歌手](../Page/麥莉·希拉.md "wikilink")，RINA舉出[Maximum
 The Hormone的鼓手](../Page/Maximum_The_Hormone.md "wikilink")和美國音樂人[Steve
-Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](../Page/討伐體制樂團.md "wikilink")\[82\]。
+Gadd](https://zh.wikipedia.org/wiki/Steve_Gadd "wikilink")，TOMOMI則舉出[討伐體制樂團](../Page/討伐體制樂團.md "wikilink")\[82\]。
 
 ## 音樂作品
 
@@ -286,19 +287,19 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><a href="../Page/Space_Ranger_(SCANDAL單曲).md" title="wikilink">Space Ranger</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Space_Ranger_(SCANDAL單曲)" title="wikilink">Space Ranger</a></p></td>
 <td><p>2008年3月3日</p></td>
 <td><p>第186名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="../Page/戀模樣_(單曲).md" title="wikilink">戀模樣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀模樣_(單曲)" title="wikilink">戀模樣</a></p></td>
 <td><p>2008年4月4日</p></td>
 <td><p>第150名</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/蜉蝣_(SCANDAL單曲).md" title="wikilink">蜉蝣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蜉蝣_(SCANDAL單曲)" title="wikilink">蜉蝣</a></p></td>
 <td><p>2008年5月5日</p></td>
 <td><p>第122名</p></td>
 </tr>
@@ -400,55 +401,55 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
-<td><p><a href="../Page/下弦月_(SCANDAL單曲).md" title="wikilink">下弦之月</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下弦月_(SCANDAL單曲)" title="wikilink">下弦之月</a></p></td>
 <td><p>2013年8月14日</p></td>
 <td><p>第5名</p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
-<td><p><a href="../Page/OVER_DRIVE.md" title="wikilink">OVER DRIVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OVER_DRIVE" title="wikilink">OVER DRIVE</a></p></td>
 <td><p>2013年9月18日</p></td>
 <td><p>第7名</p></td>
 </tr>
 <tr class="odd">
 <td><p>18th</p></td>
-<td><p><a href="../Page/Departure.md" title="wikilink">Departure</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Departure" title="wikilink">Departure</a></p></td>
 <td><p>2014年4月23日</p></td>
 <td><p>第5名</p></td>
 </tr>
 <tr class="even">
 <td><p>19th</p></td>
-<td><p><a href="../Page/夜明けの流星群.md" title="wikilink">夜明けの流星群</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夜明けの流星群" title="wikilink">夜明けの流星群</a></p></td>
 <td><p>2014年7月16日</p></td>
 <td><p>第5名</p></td>
 </tr>
 <tr class="odd">
 <td><p>20th</p></td>
-<td><p><a href="../Page/Image.md" title="wikilink">Image</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Image" title="wikilink">Image</a></p></td>
 <td><p>2014年11月19日</p></td>
 <td><p>第14名</p></td>
 </tr>
 <tr class="even">
 <td><p>21th</p></td>
-<td><p><a href="../Page/Stamp!.md" title="wikilink">Stamp!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stamp!" title="wikilink">Stamp!</a></p></td>
 <td><p>2015年7月22日</p></td>
 <td><p>第5名</p></td>
 </tr>
 <tr class="odd">
 <td><p>22th</p></td>
-<td><p><a href="../Page/Sisters.md" title="wikilink">Sisters</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sisters" title="wikilink">Sisters</a></p></td>
 <td><p>2015年9月9日</p></td>
 <td><p>第9名</p></td>
 </tr>
 <tr class="even">
 <td><p>23th</p></td>
-<td><p><a href="../Page/Take_Me_Out_(SCANDAL單曲).md" title="wikilink">Take Me Out</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Take_Me_Out_(SCANDAL單曲)" title="wikilink">Take Me Out</a></p></td>
 <td><p>2016年7月27日</p></td>
 <td><p>第11名</p></td>
 </tr>
 <tr class="odd">
 <td><p>24th</p></td>
-<td><p><a href="../Page/マスターピース_/_まばたき.md" title="wikilink">マスターピース / まばたき</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/マスターピース_/_まばたき" title="wikilink">マスターピース / まばたき</a></p></td>
 <td><p>2019年3月27日</p></td>
 <td><p>-</p></td>
 </tr>
@@ -548,7 +549,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/SCANDAL_(SCANDAL的專輯).md" title="wikilink">SCANDAL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCANDAL_(SCANDAL的專輯)" title="wikilink">SCANDAL</a></p></td>
 <td><p>2017年2月15日</p></td>
 <td><p>第2名</p></td>
 </tr>
@@ -672,10 +673,10 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 
 </dl>
 <ul>
-<li>12月4日 名古屋 <a href="../Page/CLUB_QUATTRO.md" title="wikilink">CLUB QUATTRO</a> (BEST★NAGOYA)</li>
+<li>12月4日 名古屋 <a href="https://zh.wikipedia.org/wiki/CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a> (BEST★NAGOYA)</li>
 <li>12月5日 心斎橋 CLUB QUATTRO (BEST★OSAKA)</li>
 <li>12月12日 渋谷 CLUB QUATTR (BEST★TOKYO)</li>
-<li>12月24日 恵比寿 <a href="../Page/LIQUIDROOM.md" title="wikilink">LIQUIDROOM</a> (BEST★Xmas,追加公演)</li>
+<li>12月24日 恵比寿 <a href="https://zh.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a> (BEST★Xmas,追加公演)</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -707,7 +708,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 <li>9月18日 福岡DRUM LOGOS</li>
 <li>9月20日 広島CLUB QUATTRO</li>
 <li>9月23日 PENNY LANE 24</li>
-<li>9月26日 <a href="../Page/Zepp.md" title="wikilink">Zepp</a> Sendai</li>
+<li>9月26日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp</a> Sendai</li>
 <li>9月29日 Zepp Nagoya</li>
 <li>9月30日 Zepp Osaka</li>
 <li>10月2日 Zepp Tokyo</li>
@@ -764,21 +765,21 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 
 </dl>
 <ul>
-<li>10月13日 <a href="../Page/神戸文化ホール.md" title="wikilink">神戸文化ホール中ホール</a></li>
-<li>10月15日 <a href="../Page/福岡市民会館.md" title="wikilink">福岡市民会館</a></li>
-<li>10月17日 <a href="../Page/香川県県民ホール.md" title="wikilink">香川県県民ホール</a></li>
+<li>10月13日 <a href="https://zh.wikipedia.org/wiki/神戸文化ホール" title="wikilink">神戸文化ホール中ホール</a></li>
+<li>10月15日 <a href="https://zh.wikipedia.org/wiki/福岡市民会館" title="wikilink">福岡市民会館</a></li>
+<li>10月17日 <a href="https://zh.wikipedia.org/wiki/香川県県民ホール" title="wikilink">香川県県民ホール</a></li>
 <li>10月21日 浜松市福祉交流センター</li>
-<li>10月23日 広島<a href="../Page/アステールプラザ.md" title="wikilink">アステールプラザ大ホール</a></li>
-<li>10月24日 <a href="../Page/倉敷市芸文館.md" title="wikilink">倉敷市芸文館</a></li>
-<li>10月26日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></li>
-<li>10月28日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a></li>
-<li>10月30日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a></li>
-<li>11月4日 <a href="../Page/札幌市教育文化会館.md" title="wikilink">札幌市教育文化会館大ホール</a></li>
-<li>11月11日 <a href="../Page/NHK大阪ホール.md" title="wikilink">NHK大阪ホール</a></li>
-<li>11月13日 <a href="../Page/名古屋市公会堂.md" title="wikilink">名古屋市公会堂</a></li>
-<li>11月16日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></li>
-<li>11月23日 <a href="../Page/仙台市民会館.md" title="wikilink">仙台市民会館大ホール</a></li>
-<li>12月1日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></li>
+<li>10月23日 広島<a href="https://zh.wikipedia.org/wiki/アステールプラザ" title="wikilink">アステールプラザ大ホール</a></li>
+<li>10月24日 <a href="https://zh.wikipedia.org/wiki/倉敷市芸文館" title="wikilink">倉敷市芸文館</a></li>
+<li>10月26日 <a href="https://zh.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></li>
+<li>10月28日 <a href="https://zh.wikipedia.org/wiki/新潟県民会館" title="wikilink">新潟県民会館</a></li>
+<li>10月30日 <a href="https://zh.wikipedia.org/wiki/金沢市文化ホール" title="wikilink">金沢市文化ホール</a></li>
+<li>11月4日 <a href="https://zh.wikipedia.org/wiki/札幌市教育文化会館" title="wikilink">札幌市教育文化会館大ホール</a></li>
+<li>11月11日 <a href="https://zh.wikipedia.org/wiki/NHK大阪ホール" title="wikilink">NHK大阪ホール</a></li>
+<li>11月13日 <a href="https://zh.wikipedia.org/wiki/名古屋市公会堂" title="wikilink">名古屋市公会堂</a></li>
+<li>11月16日 <a href="https://zh.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></li>
+<li>11月23日 <a href="https://zh.wikipedia.org/wiki/仙台市民会館" title="wikilink">仙台市民会館大ホール</a></li>
+<li>12月1日 <a href="https://zh.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -801,7 +802,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 <li>6月8日 Zepp Tokyo</li>
 <li>6月11日 長野JUNK BOX</li>
 <li>6月13日 新潟LOTS</li>
-<li>6月14日 仙台<a href="../Page/RENSA.md" title="wikilink">RENSA</a></li>
+<li>6月14日 仙台<a href="https://zh.wikipedia.org/wiki/RENSA" title="wikilink">RENSA</a></li>
 <li>6月16日 札幌PENNY LANE24</li>
 <li>6月17日 札幌PENNY LANE24</li>
 </ul></td>
@@ -901,7 +902,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 
 </dl>
 <ul>
-<li>10月19日 <a href="../Page/かつしかシンフォニーヒルズ.md" title="wikilink">かつしかシンフォニーヒルズ</a></li>
+<li>10月19日 <a href="https://zh.wikipedia.org/wiki/かつしかシンフォニーヒルズ" title="wikilink">かつしかシンフォニーヒルズ</a></li>
 <li>10月22日 金沢市文化ホール</li>
 <li>10月24日 センチュリーホール</li>
 <li>10月26日 福岡市民会館</li>
@@ -947,7 +948,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 
 </dl>
 <ul>
-<li>6月28日 <a href="../Page/横浜アリーナ.md" title="wikilink">横浜アリーナ</a></li>
+<li>6月28日 <a href="https://zh.wikipedia.org/wiki/横浜アリーナ" title="wikilink">横浜アリーナ</a></li>
 <li>6月29日 横浜アリーナ</li>
 </ul></td>
 </tr>
@@ -964,7 +965,7 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 <li>9月17日 赤坂BLITZ</li>
 <li>9月18日 赤坂BLITZ</li>
 <li>9月19日 赤坂BLITZ</li>
-<li>9月23日 <a href="../Page/堂島リバーフォーラム.md" title="wikilink">堂島リバーフォーラム</a></li>
+<li>9月23日 <a href="https://zh.wikipedia.org/wiki/堂島リバーフォーラム" title="wikilink">堂島リバーフォーラム</a></li>
 <li>9月24日 堂島リバーフォーラム</li>
 <li>9月26日 堂島リバーフォーラム</li>
 <li>9月27日 堂島リバーフォーラム</li>
@@ -985,10 +986,10 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 <li>2月1日 結城市民文化センターアクロス 大ホール</li>
 <li>2月7日 千葉県文化会館</li>
 <li>2月10日 ホルトホール大分 大ホール</li>
-<li>2月11日 <a href="../Page/市民会館崇城大学ホール.md" title="wikilink">市民会館崇城大学ホール</a></li>
+<li>2月11日 <a href="https://zh.wikipedia.org/wiki/市民会館崇城大学ホール" title="wikilink">市民会館崇城大学ホール</a></li>
 <li>2月14日 上野学園ホール</li>
 <li>2月15日 上野学園ホール</li>
-<li>2月21日 <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a></li>
+<li>2月21日 <a href="https://zh.wikipedia.org/wiki/オリックス劇場" title="wikilink">オリックス劇場</a></li>
 <li>2月22日 オリックス劇場</li>
 <li>2月26日 サンポートホール高松</li>
 <li>2月28日 福岡サンパレス</li>
@@ -1010,9 +1011,9 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 <li>4月11日 東京国際フォーラム ホールA</li>
 <li>4月12日 東京国際フォーラム ホールA</li>
 <li>4月19日 沖縄ナムラホール</li>
-<li>4月25日 Le Bataclan (<a href="../Page/パリ.md" title="wikilink">パリ</a>)</li>
-<li>4月26日 O2 Academy Islington (<a href="../Page/ロンドン.md" title="wikilink">ロンドン</a>)</li>
-<li>4月30日 Weststadthaalle (<a href="../Page/エッセン.md" title="wikilink">エッセン</a>)</li>
+<li>4月25日 Le Bataclan (<a href="https://zh.wikipedia.org/wiki/パリ" title="wikilink">パリ</a>)</li>
+<li>4月26日 O2 Academy Islington (<a href="https://zh.wikipedia.org/wiki/ロンドン" title="wikilink">ロンドン</a>)</li>
+<li>4月30日 Weststadthaalle (<a href="https://zh.wikipedia.org/wiki/エッセン" title="wikilink">エッセン</a>)</li>
 <li>5月10日 THE WALL (台北)</li>
 <li>5月29日 Macpherson Stadium (香港)</li>
 </ul></td>
@@ -1254,32 +1255,32 @@ Gadd](../Page/Steve_Gadd.md "wikilink")，TOMOMI則舉出[討伐體制樂團](..
 
 ### 单独演唱会
 
-| 年份              | 日程                                                | 名称                                                          | 会場                                                     |
-| --------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
-| ワンマンライブ         |                                                   |                                                             |                                                        |
-| 2010年           | 6月14日                                             | **雨上がりの決戦 〜江戸編〜 「絶対に負けられない戦いがここにはある」**                      | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")         |
-| 6月16日           | **雨上がりの決戦 〜浪速編〜 「絶対に負けられない戦いがここにはある」**            | [なんばHatch](../Page/なんばHatch.md "wikilink")                  |                                                        |
-| 8月1日            | **SCANDAL Live in Hong Kong 2010**                | HITEC Auditorium（香港）                                        |                                                        |
-| 12月24日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 2」**            | [恵比寿 The Garden Hall](../Page/恵比寿ガーデンプレイス.md "wikilink")    |                                                        |
-| 2011年           | 12月22日                                            | **SCANDAL SPECIAL LIVE 「BEST★Xmas 3」**                      | [なんばHatch](../Page/なんばHatch.md "wikilink")             |
-| 2012年           | 3月28日                                             | **SCANDAL JAPAN TITLE MATCH LIVE 2012「SCANDAL vs BUDOKAN」** | [日本武道館](../Page/日本武道館.md "wikilink")                   |
-| 8月29日           | **「夏の終わりのスキャンダル 〜いつもより若干のしっとりさを添えて〜」**            | 音霊 SEA STUDIO                                               |                                                        |
-| 12月1日           | **SCANDAL SPECIAL LIVE IN MALAYSIA 2012**         | KL Live Concert Hall ([マレーシア](../Page/マレーシア.md "wikilink")) |                                                        |
-| 12月23日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 4」**            | 恵比寿 The Garden Hall                                         |                                                        |
-| 2013年           | 1月19日                                             | **S(CANDAL) M(ANIA) SONIC 2013 -Hello,New Year-**           | [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")               |
-| 3月3日            | **SCANDAL OSAKA-JO HALL 2013「Wonderful Tonight」** | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                      |                                                        |
-| 12月23日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 5」**            | SHIBUYA-AX                                                  |                                                        |
-| 2014年           | 6月22日                                             | **SCANDAL ARENA LIVE 2014「360°」**                           | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                 |
-| 2016年           | 8月21日                                             | **SCANDAL 10th ANNIVERSARY FESTIVAL『2006-2016』**            | [泉大津フェニックス（大阪）](../Page/泉大津フェニックス（大阪）.md "wikilink")   |
-| もう...マニアなんだからっ！ |                                                   |                                                             |                                                        |
-| 2010年           | 12月11日                                            | **Vol.1**                                                   | 原宿アストロホール                                              |
-| 2011年           | 3月21日                                             | **Vol.2**（昼夜公演）                                             | [ESPエンタテインメント](../Page/専門学校ESPエンタテインメント.md "wikilink") |
-| 7月23日           | **Vol.3**（昼夜公演）                                   | 名古屋 ell.FITSALL                                             |                                                        |
-| 11月2日           | **Vol.4**                                         | 札幌KRAPS HALL                                                |                                                        |
-| 2012年           | 5月23日                                             | Vol.5                                                       | DRUM Be-1（福岡）                                          |
-| 11月9日           | Vol.6                                             | 広島ナミキジャンクション                                                |                                                        |
-| 2013年           | 6月12日                                             | Vol.7                                                       | 仙台MACANA                                               |
-|                 |                                                   |                                                             |                                                        |
+| 年份              | 日程                                                | 名称                                                                             | 会場                                                                        |
+| --------------- | ------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| ワンマンライブ         |                                                   |                                                                                |                                                                           |
+| 2010年           | 6月14日                                             | **雨上がりの決戦 〜江戸編〜 「絶対に負けられない戦いがここにはある」**                                         | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")                            |
+| 6月16日           | **雨上がりの決戦 〜浪速編〜 「絶対に負けられない戦いがここにはある」**            | [なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")                  |                                                                           |
+| 8月1日            | **SCANDAL Live in Hong Kong 2010**                | HITEC Auditorium（香港）                                                           |                                                                           |
+| 12月24日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 2」**            | [恵比寿 The Garden Hall](https://zh.wikipedia.org/wiki/恵比寿ガーデンプレイス "wikilink")    |                                                                           |
+| 2011年           | 12月22日                                            | **SCANDAL SPECIAL LIVE 「BEST★Xmas 3」**                                         | [なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")             |
+| 2012年           | 3月28日                                             | **SCANDAL JAPAN TITLE MATCH LIVE 2012「SCANDAL vs BUDOKAN」**                    | [日本武道館](../Page/日本武道館.md "wikilink")                                      |
+| 8月29日           | **「夏の終わりのスキャンダル 〜いつもより若干のしっとりさを添えて〜」**            | 音霊 SEA STUDIO                                                                  |                                                                           |
+| 12月1日           | **SCANDAL SPECIAL LIVE IN MALAYSIA 2012**         | KL Live Concert Hall ([マレーシア](https://zh.wikipedia.org/wiki/マレーシア "wikilink")) |                                                                           |
+| 12月23日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 4」**            | 恵比寿 The Garden Hall                                                            |                                                                           |
+| 2013年           | 1月19日                                             | **S(CANDAL) M(ANIA) SONIC 2013 -Hello,New Year-**                              | [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")               |
+| 3月3日            | **SCANDAL OSAKA-JO HALL 2013「Wonderful Tonight」** | [大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")                      |                                                                           |
+| 12月23日          | **SCANDAL SPECIAL LIVE 「BEST★Xmas 5」**            | SHIBUYA-AX                                                                     |                                                                           |
+| 2014年           | 6月22日                                             | **SCANDAL ARENA LIVE 2014「360°」**                                              | [大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")                 |
+| 2016年           | 8月21日                                             | **SCANDAL 10th ANNIVERSARY FESTIVAL『2006-2016』**                               | [泉大津フェニックス（大阪）](https://zh.wikipedia.org/wiki/泉大津フェニックス（大阪） "wikilink")   |
+| もう...マニアなんだからっ！ |                                                   |                                                                                |                                                                           |
+| 2010年           | 12月11日                                            | **Vol.1**                                                                      | 原宿アストロホール                                                                 |
+| 2011年           | 3月21日                                             | **Vol.2**（昼夜公演）                                                                | [ESPエンタテインメント](https://zh.wikipedia.org/wiki/専門学校ESPエンタテインメント "wikilink") |
+| 7月23日           | **Vol.3**（昼夜公演）                                   | 名古屋 ell.FITSALL                                                                |                                                                           |
+| 11月2日           | **Vol.4**                                         | 札幌KRAPS HALL                                                                   |                                                                           |
+| 2012年           | 5月23日                                             | Vol.5                                                                          | DRUM Be-1（福岡）                                                             |
+| 11月9日           | Vol.6                                             | 広島ナミキジャンクション                                                                   |                                                                           |
+| 2013年           | 6月12日                                             | Vol.7                                                                          | 仙台MACANA                                                                  |
+|                 |                                                   |                                                                                |                                                                           |
 
 ## 獎項
 

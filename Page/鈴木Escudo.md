@@ -1,12 +1,12 @@
-**鈴木Escudo**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](../Page/鈴木公司.md "wikilink")1988年起開發生產的[SUV或](../Page/運動型多用途車.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，車名由來為19世紀[西班牙在](../Page/西班牙.md "wikilink")[中南美洲](../Page/中南美洲.md "wikilink")[殖民地所使用的](../Page/殖民地.md "wikilink")[貨幣](../Page/貨幣.md "wikilink")「[escudo](../Page/escudo.md "wikilink")」\[1\]。
+**鈴木Escudo**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1988年起開發生產的[SUV或](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，車名由來為19世紀[西班牙在](../Page/西班牙.md "wikilink")[中南美洲](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")[殖民地所使用的](../Page/殖民地.md "wikilink")[貨幣](../Page/貨幣.md "wikilink")「[escudo](https://zh.wikipedia.org/wiki/escudo "wikilink")」\[1\]。
 
 ## 歷史
 
-這部擁有越野能力的[四輪驅動車在全球各地出現不同的名稱](../Page/四輪驅動.md "wikilink")：1988年至1998年間在[北美洲地區被稱為](../Page/北美洲.md "wikilink")**鈴木Sidekick**，1999年起在[美國](../Page/美國.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")、[玻利維亞](../Page/玻利維亞.md "wikilink")、[厄瓜多爾](../Page/厄瓜多爾.md "wikilink")、[菲律賓](../Page/菲律賓.md "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣等地稱為](../Page/臺灣.md "wikilink")**鈴木Vitara**，[英國](../Page/英國.md "wikilink")、部分[東南亞國家](../Page/東南亞.md "wikilink")、[南非](../Page/南非.md "wikilink")、[伊朗](../Page/伊朗.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳洲等地則稱](../Page/澳洲.md "wikilink")**鈴木Grand
+這部擁有越野能力的[四輪驅動車在全球各地出現不同的名稱](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")：1988年至1998年間在[北美洲地區被稱為](../Page/北美洲.md "wikilink")**鈴木Sidekick**，1999年起在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[玻利維亞](../Page/玻利維亞.md "wikilink")、[厄瓜多爾](https://zh.wikipedia.org/wiki/厄瓜多爾 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣等地稱為](../Page/臺灣.md "wikilink")**鈴木Vitara**，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、部分[東南亞國家](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳洲等地則稱](https://zh.wikipedia.org/wiki/澳洲 "wikilink")**鈴木Grand
 Vitara**。此外，臺灣[太子汽車將之國產化時命名為](../Page/太子汽車.md "wikilink")**吉星**，亦成為該地市場之慣稱\[2\]。
 
-此外，鈴木公司亦利用這款車替其他汽車廠[OEM代工](../Page/换牌工程.md "wikilink")，換上其他車廠的[品牌](../Page/品牌.md "wikilink")[標誌](../Page/標誌.md "wikilink")，因此出現眾多兄弟車。在日本國內，[馬自達Proceed
-Levante即是以第一代Escudo稍事修改而成](../Page/馬自達Proceed_Levante.md "wikilink")。1980年代美國汽車巨擘[通用汽車購入鈴木公司之](../Page/通用汽車.md "wikilink")[股權](../Page/股票.md "wikilink")，雙方展開合作關係，這款車在美國市場換牌成吉優Tracker（因[吉優汽車併入](../Page/吉優汽車.md "wikilink")[雪佛蘭汽車](../Page/雪佛蘭.md "wikilink")，1998年後改稱），在加拿大市場換牌成吉姆西Tracker、雪佛蘭Tracker、亞蘇那Sunrunner、龐帝克Sunrunner等。[西班牙車廠](../Page/西班牙.md "wikilink")亦曾引進，命名為桑塔納300/350等。
+此外，鈴木公司亦利用這款車替其他汽車廠[OEM代工](../Page/换牌工程.md "wikilink")，換上其他車廠的[品牌](../Page/品牌.md "wikilink")[標誌](https://zh.wikipedia.org/wiki/標誌 "wikilink")，因此出現眾多兄弟車。在日本國內，[馬自達Proceed
+Levante即是以第一代Escudo稍事修改而成](../Page/馬自達Proceed_Levante.md "wikilink")。1980年代美國汽車巨擘[通用汽車購入鈴木公司之](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[股權](../Page/股票.md "wikilink")，雙方展開合作關係，這款車在美國市場換牌成吉優Tracker（因[吉優汽車併入](../Page/吉優汽車.md "wikilink")[雪佛蘭汽車](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")，1998年後改稱），在加拿大市場換牌成吉姆西Tracker、雪佛蘭Tracker、亞蘇那Sunrunner、龐帝克Sunrunner等。[西班牙車廠](../Page/西班牙.md "wikilink")亦曾引進，命名為桑塔納300/350等。
 
 ### 第一代（1988年-1997年）
 
@@ -14,28 +14,29 @@ Levante即是以第一代Escudo稍事修改而成](../Page/馬自達Proceed_Leva
 
 1988年 -
 5月正式以三門硬頂敞篷車型在日本問世。彼時[SUV風潮尚未成形](../Page/运动型多用途车.md "wikilink")，這款車以1.6L直列四缸SOHC
-[G16A型](../Page/鈴木G族引擎#G16A型.md "wikilink")、2.0L直列四缸DOHC
-[J20A型及](../Page/鈴木J族引擎#J20/J20A型.md "wikilink")2.5L V型六缸DOHC
-H25A型等三種動力，搭配[麥花臣獨立式前懸吊附下A臂支撐和外獨立懸架式後懸吊](../Page/麥弗遜懸吊.md "wikilink")，[底盤為高剛性梯形大樑](../Page/底盤.md "wikilink")，加上可切換2WD/4WD的驅動模式。
+[G16A型](https://zh.wikipedia.org/wiki/鈴木G族引擎#G16A型 "wikilink")、2.0L直列四缸DOHC
+[J20A型及](https://zh.wikipedia.org/wiki/鈴木J族引擎#J20/J20A型 "wikilink")2.5L
+V型六缸DOHC
+H25A型等三種動力，搭配[麥花臣獨立式前懸吊附下A臂支撐和外獨立懸架式後懸吊](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，[底盤為高剛性梯形大樑](https://zh.wikipedia.org/wiki/底盤 "wikilink")，加上可切換2WD/4WD的驅動模式。
 
 1989年 - 在日本市場與運動用品製造商異業結盟，5月與[挪威商](../Page/挪威.md "wikilink")合作推出「Helly
 Hansen Limited」、10月則推「Goldwin Limited」等特仕車。同年正式在北美洲市場上市，共有雙門敞篷、硬頂敞篷等版本。
 
 1990年 -
-8月進行小改款，[SOHC構造的](../Page/顶置凸轮轴#单顶置凸轮轴（SOHC）.md "wikilink")[G16A型引擎從](../Page/鈴木G族引擎#G16A型.md "wikilink")8汽門改為16汽門，於是[馬力從](../Page/馬力.md "wikilink")82hp提升至100hp；同時3速自排變速箱改為4速自排。同年9月追加5門車型並賦予「Nomade」副車名，含有[遊牧民族的意味](../Page/遊牧民族.md "wikilink")，銷往[中南美洲亦採用此副車名](../Page/中南美洲.md "wikilink")。
+8月進行小改款，[SOHC構造的](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")[G16A型引擎從](https://zh.wikipedia.org/wiki/鈴木G族引擎#G16A型 "wikilink")8汽門改為16汽門，於是[馬力從](../Page/馬力.md "wikilink")82hp提升至100hp；同時3速自排變速箱改為4速自排。同年9月追加5門車型並賦予「Nomade」副車名，含有[遊牧民族的意味](../Page/遊牧民族.md "wikilink")，銷往[中南美洲亦採用此副車名](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")。
 
-同年正式由[太子汽車導入臺灣國產化](../Page/太子汽車.md "wikilink")，成為第10家國產汽車廠\[3\]，依照1.6L、2.0L、2.5L的動力分別命名為「吉星」、「金吉星」及「超級金吉星」。這部車是臺灣車壇最早出現的SUV車款\[4\]，也是國產車中第一輛具有[四輪傳動加力箱的裝置](../Page/四輪傳動.md "wikilink")。
+同年正式由[太子汽車導入臺灣國產化](../Page/太子汽車.md "wikilink")，成為第10家國產汽車廠\[3\]，依照1.6L、2.0L、2.5L的動力分別命名為「吉星」、「金吉星」及「超級金吉星」。這部車是臺灣車壇最早出現的SUV車款\[4\]，也是國產車中第一輛具有[四輪傳動加力箱的裝置](https://zh.wikipedia.org/wiki/四輪傳動 "wikilink")。
 
 1994年 - 12月進行第二度小改款，原本方正的內裝改得較為圓潤，同時動力心臟新增2.0L V型六缸DOHC
-[H20A型及](../Page/鈴木H族引擎#H20A型.md "wikilink")2.0L直列四缸SOHC
-[RF型](../Page/馬自達柴油引擎#RF型.md "wikilink")[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")。對應馬力增大，原廠強化了Escudo車體、增加拉桿、[輪胎規格尺寸及前後保桿亦增大](../Page/輪胎.md "wikilink")，不過車室容積維持不變。RF型渦輪增壓柴油引擎由[馬自達供應](../Page/馬自達.md "wikilink")，相對地鈴木公司幫忙OEM代工[馬自達Proceed
+[H20A型及](https://zh.wikipedia.org/wiki/鈴木H族引擎#H20A型 "wikilink")2.0L直列四缸SOHC
+[RF型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#RF型 "wikilink")[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")。對應馬力增大，原廠強化了Escudo車體、增加拉桿、[輪胎規格尺寸及前後保桿亦增大](../Page/輪胎.md "wikilink")，不過車室容積維持不變。RF型渦輪增壓柴油引擎由[馬自達供應](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，相對地鈴木公司幫忙OEM代工[馬自達Proceed
 Levante交由馬自達販售](../Page/馬自達Proceed_Levante.md "wikilink")。
 
 1995年 -
 10月以北美洲市場為目標對象的衍生車款[鈴木X-90上市](../Page/鈴木X-90.md "wikilink")，基本機械構造和Escudo相同，卻設定成二人座。不過這輛車在日本本土的口碑不佳，僅售出1,348輛。
 
 1996年 - 追加2.5L V型六缸DOHC
-[H25A型引擎](../Page/鈴木H族引擎#H25A型.md "wikilink")，2.0L則改成直列四缸DOHC構造的[J20A型](../Page/鈴木J族引擎#J20/J20A型.md "wikilink")。同時取消「Nomade」副車名，僅以三門、五門稱呼。
+[H25A型引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H25A型 "wikilink")，2.0L則改成直列四缸DOHC構造的[J20A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J20/J20A型 "wikilink")。同時取消「Nomade」副車名，僅以三門、五門稱呼。
 
 Image:Suzuki Sidekick JX 4-door.jpg|美規Sidekick五門版 Image:1992-1994 Suzuki
 Vitara (SE416C Type2) JX softtop 02.jpg|澳規Viatara三門敞篷軟頂版 Image:Suzuki
@@ -56,17 +57,19 @@ Front.jpg|兄弟車桑塔納350
 
 1997年 -
 11月7日第二代大改款的Escudo在日本上市，車身仍跟第一代一樣採車體與車架分體式結構（body-on-frame），後[懸吊系統則改成非獨立五連桿式](../Page/懸吊系統.md "wikilink")。後座改為可六四分離，亦增加許多實用的置物空間。動力方面，共有1.6L直列四缸SOHC
-[G16B型](../Page/鈴木G族引擎#G16B型.md "wikilink")、2.0L直列四缸DOHC
-[J20A型](../Page/鈴木J族引擎#J20/J20A型.md "wikilink")、2.5L V型六缸DOHC
-[H25A型](../Page/鈴木H族引擎#H25A型.md "wikilink")、2.0L直列四缸SOHC
-[RF型](../Page/馬自達柴油引擎#RF型.md "wikilink")[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎等選擇](../Page/柴油引擎.md "wikilink")。至於替[馬自達的OEM代工仍持續發行](../Page/馬自達.md "wikilink")[第二代Proceed
-Levante](../Page/馬自達Proceed_Levante#第二代（1997年-1999年）.md "wikilink")，直到2000年[第一代Tribute問世以填補SUV產品空缺](../Page/馬自達Tribute#第一代（2000年-2006年）.md "wikilink")。
+[G16B型](https://zh.wikipedia.org/wiki/鈴木G族引擎#G16B型 "wikilink")、2.0L直列四缸DOHC
+[J20A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J20/J20A型 "wikilink")、2.5L
+V型六缸DOHC
+[H25A型](https://zh.wikipedia.org/wiki/鈴木H族引擎#H25A型 "wikilink")、2.0L直列四缸SOHC
+[RF型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#RF型 "wikilink")[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎等選擇](../Page/柴油引擎.md "wikilink")。至於替[馬自達的OEM代工仍持續發行](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[第二代Proceed
+Levante](https://zh.wikipedia.org/wiki/馬自達Proceed_Levante#第二代（1997年-1999年） "wikilink")，直到2000年[第一代Tribute問世以填補SUV產品空缺](https://zh.wikipedia.org/wiki/馬自達Tribute#第一代（2000年-2006年） "wikilink")。
 
-1998年 - 追加3排座位、7人座、換裝2.7L [V型六缸DOHC](../Page/V6发动机.md "wikilink")
-[H27A型引擎的](../Page/鈴木H族引擎#H27A型.md "wikilink")[鈴木Grand
-Escudo](../Page/鈴木Grand_Escudo.md "wikilink")，銷往[北美洲和](../Page/北美洲.md "wikilink")[智利市場的稱作](../Page/智利.md "wikilink")「鈴木XL-7」\[5\]，銷往[歐洲](../Page/歐洲.md "wikilink")、[澳洲等市場的則叫](../Page/澳洲.md "wikilink")「鈴木Grand
+1998年 - 追加3排座位、7人座、換裝2.7L
+[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+[H27A型引擎的](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")[鈴木Grand
+Escudo](../Page/鈴木Grand_Escudo.md "wikilink")，銷往[北美洲和](../Page/北美洲.md "wikilink")[智利市場的稱作](../Page/智利.md "wikilink")「鈴木XL-7」\[5\]，銷往[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲等市場的則叫](https://zh.wikipedia.org/wiki/澳洲 "wikilink")「鈴木Grand
 Vitara XL-7」。同年10月15日推出「Escudo V6 Special」特仕車，針對2.5L
-V6車型推出專屬空力套件、運動化[碳纖維內裝飾板](../Page/碳纖維.md "wikilink")、白色[儀表板](../Page/汽車儀表.md "wikilink")、皮革製[方向盤及排檔桿頭等配備](../Page/方向盤.md "wikilink")，總共限量300部。同年11月20日另外推出限量1千輛的「G-Limited」特仕車，具有運動化空力套件、多樣化儀表等配備。
+V6車型推出專屬空力套件、運動化[碳纖維內裝飾板](../Page/碳纖維.md "wikilink")、白色[儀表板](../Page/汽車儀表.md "wikilink")、皮革製[方向盤及排檔桿頭等配備](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，總共限量300部。同年11月20日另外推出限量1千輛的「G-Limited」特仕車，具有運動化空力套件、多樣化儀表等配備。
 
 2000年 - 4月13日實施小改款，廢除部分車型但新增1.6L
 2WD三門新車型，形成三門車型搭載1.6L引擎，五門車型則搭載2.0L或2.5L
@@ -78,14 +81,14 @@ Hansen Limited」，限量500部。外觀方面含有重新設計的前後保險
 HANSEN」字樣的車尾備胎罩殼等配備，內裝則以黑色皮革為主。
 
 2002年 -
-1月9日推出由著名[時裝設計師](../Page/時裝設計.md "wikilink")針對2.0L五門車型的外型與內裝重新設計的「KANSAI」特別式樣車。座椅皮革、[方向盤](../Page/方向盤.md "wikilink")、排檔桿等處皆換上山本設計的樣式，中控台及車門飾板也以木紋處理，並且換裝2DIN
-[CD](../Page/CD.md "wikilink")/[MD音響](../Page/MD.md "wikilink")。同年6月25日再度推出限量500部的「Helly
+1月9日推出由著名[時裝設計師](https://zh.wikipedia.org/wiki/時裝設計 "wikilink")針對2.0L五門車型的外型與內裝重新設計的「KANSAI」特別式樣車。座椅皮革、[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、排檔桿等處皆換上山本設計的樣式，中控台及車門飾板也以木紋處理，並且換裝2DIN
+[CD](../Page/CD.md "wikilink")/[MD音響](https://zh.wikipedia.org/wiki/MD "wikilink")。同年6月25日再度推出限量500部的「Helly
 Hansen
 Limited」特仕車，前保桿、進氣壩、大燈罩、車側踏板、車尾備胎罩殼等皆重新設計；內裝方面則有CD/MD專屬音響系統、白色儀表板等。11月18日實施第二次小改款，廢除1.6L三門車型，變更中控台和座椅樣式。同時因應[國際滑雪聯合會當年度在日本舉辦FIS滑雪大賽](../Page/國際滑雪聯合會.md "wikilink")，推出「FIS
 Free Style World Cup
 Limited」特仕車，具有專屬的車身同色進氣壩、前下巴等外觀，專屬排檔桿頭、方向盤及附DSP功能的CD/MD音響系統等內裝。
 
-這款車在北美洲市場[換牌成](../Page/换牌工程.md "wikilink")「」販售，並於2002年和2004年小改款了兩次。在[墨西哥市場](../Page/墨西哥.md "wikilink")，鈴木和[雪佛蘭各自以Grand](../Page/雪佛蘭.md "wikilink")
+這款車在北美洲市場[換牌成](../Page/换牌工程.md "wikilink")「」販售，並於2002年和2004年小改款了兩次。在[墨西哥市場](../Page/墨西哥.md "wikilink")，鈴木和[雪佛蘭各自以Grand](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")
 Vitara及Tracker兩款車販售；但到了其他[拉丁美洲國家則僅有雪佛蘭Tracker單一車款](../Page/拉丁美洲.md "wikilink")。至於[智利當地](../Page/智利.md "wikilink")，則將五門車型稱作「鈴木Grand
 Nomade」。至於[中國市場則遲至](../Page/中國.md "wikilink")2007年4月才正式引進第二代Escudo，稱之為「超級維特拉」，共引進1.6L三門手排、2.0L五門自排等二種車型。
 
@@ -101,20 +104,21 @@ Vitara rear 20080820.jpg|三門敞篷車型車尾 Image:Suzuki Grand Vitara.jpg
 ### 第三代（2005年-2017年）
 
 2005年 -
-5月16日發表全新大改款的第三代。車體構造迥異於前二代，將梯型車架與車身一體化，成為整合式梯型大樑車架[底盤結構](../Page/底盤.md "wikilink")，特點是越野行駛時可承受較大的動力輸出。其次是補強車門鈑件的開口及使用輕量高張力鋼板，故車體抗扭曲剛性比前一代提升了二倍。前後輪的[懸吊系統全面更新](../Page/懸吊系統.md "wikilink")，採前[麥花臣支柱式](../Page/麥弗遜懸吊.md "wikilink")、後多連桿設定；特別在後懸吊的部分，從前代車型的非獨立式五連桿設計大幅改成獨立多連桿式的設定。除了維持一貫的越野能力，更強化在一般道路高速行駛的穩定性和舒適性。
+5月16日發表全新大改款的第三代。車體構造迥異於前二代，將梯型車架與車身一體化，成為整合式梯型大樑車架[底盤結構](https://zh.wikipedia.org/wiki/底盤 "wikilink")，特點是越野行駛時可承受較大的動力輸出。其次是補強車門鈑件的開口及使用輕量高張力鋼板，故車體抗扭曲剛性比前一代提升了二倍。前後輪的[懸吊系統全面更新](../Page/懸吊系統.md "wikilink")，採前[麥花臣支柱式](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")、後多連桿設定；特別在後懸吊的部分，從前代車型的非獨立式五連桿設計大幅改成獨立多連桿式的設定。除了維持一貫的越野能力，更強化在一般道路高速行駛的穩定性和舒適性。
 
-在[四輪驅動系統也出現重大變革](../Page/四輪驅動.md "wikilink")，前一代本來藉由加力箱切換二驅或四驅模式，本代起改為全時四驅。LSD[限滑差速器可在一側驅動輪打滑空轉時](../Page/限滑差速器.md "wikilink")，讓尚有抓地力的另一側車輪保有驅動力。中央差速器並可完全鎖定傳動軸，使前後輪轉速一致，當後輪發生打滑時，前輪仍保有驅動力讓車子脫困。而且這套全時四驅系統配備旋鈕式電子切換加力箱，可設定四種傳動模式來應對各種地形。動力心臟有2.0L直列四缸DOHC
-[J20A型](../Page/鈴木J族引擎#J20/J20A型.md "wikilink")、2.7L V型六缸DOHC
-[H27A型等兩種引擎](../Page/鈴木H族引擎#H27A型.md "wikilink")，搭配五速手排或五速自排變速箱。
+在[四輪驅動系統也出現重大變革](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，前一代本來藉由加力箱切換二驅或四驅模式，本代起改為全時四驅。LSD[限滑差速器可在一側驅動輪打滑空轉時](../Page/限滑差速器.md "wikilink")，讓尚有抓地力的另一側車輪保有驅動力。中央差速器並可完全鎖定傳動軸，使前後輪轉速一致，當後輪發生打滑時，前輪仍保有驅動力讓車子脫困。而且這套全時四驅系統配備旋鈕式電子切換加力箱，可設定四種傳動模式來應對各種地形。動力心臟有2.0L直列四缸DOHC
+[J20A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J20/J20A型 "wikilink")、2.7L
+V型六缸DOHC
+[H27A型等兩種引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")，搭配五速手排或五速自排變速箱。
 
 2006年 - 1月正式引進臺灣，為了與仍繼續販售的第二代Grand Vitara區隔，稱之為「Grand Vitara
 JP」。動力來源為2.7L V型六缸DOHC
-[H27A型](../Page/鈴木H族引擎#H27A型.md "wikilink")，標準配備有keyless免鑰匙系統、恆溫空調、多功能三幅式方向盤、電動調整附電熱功能座椅、[巡航定速](../Page/巡航定速.md "wikilink")、附[衛星導航功能的觸控式DVD影音系統等](../Page/卫星导航系统.md "wikilink")\[6\]。
+[H27A型](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")，標準配備有keyless免鑰匙系統、恆溫空調、多功能三幅式方向盤、電動調整附電熱功能座椅、[巡航定速](../Page/巡航定速.md "wikilink")、附[衛星導航功能的觸控式DVD影音系統等](../Page/卫星导航系统.md "wikilink")\[6\]。
 
 同年6月12日日本市場實施部份改良（第2型），新增搭載1.6L直列四缸DOHC
-[M16A型引擎](../Page/鈴木M族引擎#M16A型.md "wikilink")、減少副變速箱、原本以外銷為主的三門「1.6XG」車型。此外也推出「Super
+[M16A型引擎](https://zh.wikipedia.org/wiki/鈴木M族引擎#M16A型 "wikilink")、減少副變速箱、原本以外銷為主的三門「1.6XG」車型。此外也推出「Super
 Sound
-Edition」特仕車，具有高級音響系統、專屬進氣壩及鋁合金輪圈等配備。12月5日與[法國運動用品商](../Page/法國.md "wikilink")合作，推出限量750部的「Salomon
+Edition」特仕車，具有高級音響系統、專屬進氣壩及鋁合金輪圈等配備。12月5日與[法國運動用品商](https://zh.wikipedia.org/wiki/法國 "wikilink")合作，推出限量750部的「Salomon
 Limited」特仕車。
 
 2007年 - 5月15日實行部份改良（第3型）；6月5日推出「Helly Hansen
@@ -122,17 +126,18 @@ Limited」特仕車，含有alcantara皮革座椅、專屬進氣壩、電動天�
 Limited」特仕車，具有防水功能、繡有「SALOMON」字樣的皮革座椅。
 
 2008年 - 6月26日實施小改款（第4型），動力輸出改為2.4L直列四缸DOHC
-[J24B型](../Page/鈴木J族引擎#J24B型.md "wikilink")、3.2L V型六缸DOHC
-[N32A型等二具引擎](../Page/鈴木N族引擎#N32A型.md "wikilink")，修整前保桿和進氣壩的造型，並新增多功能行車資訊顯示螢幕。[底盤設定也有小幅度更動](../Page/底盤.md "wikilink")：將變速箱和加力箱置於車輛後方，使車輛重心接近車體中心，達到前後配重比50：50。同時也發售「2.4L
+[J24B型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J24B型 "wikilink")、3.2L
+V型六缸DOHC
+[N32A型等二具引擎](https://zh.wikipedia.org/wiki/鈴木N族引擎#N32A型 "wikilink")，修整前保桿和進氣壩的造型，並新增多功能行車資訊顯示螢幕。[底盤設定也有小幅度更動](https://zh.wikipedia.org/wiki/底盤 "wikilink")：將變速箱和加力箱置於車輛後方，使車輛重心接近車體中心，達到前後配重比50：50。同時也發售「2.4L
 Helly Hansen
 Limited」特仕車，具有電動天窗、ESP[車身動態穩定系統等配備](../Page/电子稳定程序.md "wikilink")。同年9月10日小改款Escudo引進中國市場，仍稱「超級維特拉」，2.4L或3.2L引擎可搭配四速自排或五速手排變速箱。同年11月5日日本當地第3度發行限量1,000輛的「Salomon
 Limited」特仕車，以2.4L車型為主，裝上前下巴、尾翼、進氣壩、18吋[鋁合金輪圈](../Page/鋁合金.md "wikilink")、電動天窗、ESP[車身動態穩定系統等配備](../Page/电子稳定程序.md "wikilink")。
 
 2009年 - 臺灣引進小改款，動力為2.4L直列四缸DOHC
-[J24B型引擎並搭配四速自排變速系統](../Page/鈴木J族引擎#J24B型.md "wikilink")。新增後視鏡方向燈組、兼具音響控制鍵與[巡航定速控制鍵的](../Page/巡航定速.md "wikilink")[方向盤](../Page/方向盤.md "wikilink")、6片[CD](../Page/CD.md "wikilink")+[MP3播放功能音響](../Page/MP3.md "wikilink")、7支立體環繞音場喇叭等配備。在安全配備方面，則有ESP車身動態穩定系統、TCS循跡防滑控制系統、STC穩定行駛控制系統、整合式ABS+EBS+BAS煞車系統、TECT高剛性籠形鋼骨結構、6具[安全輔助氣囊等](../Page/安全氣囊.md "wikilink")。
+[J24B型引擎並搭配四速自排變速系統](https://zh.wikipedia.org/wiki/鈴木J族引擎#J24B型 "wikilink")。新增後視鏡方向燈組、兼具音響控制鍵與[巡航定速控制鍵的](../Page/巡航定速.md "wikilink")[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、6片[CD](../Page/CD.md "wikilink")+[MP3播放功能音響](../Page/MP3.md "wikilink")、7支立體環繞音場喇叭等配備。在安全配備方面，則有ESP車身動態穩定系統、TCS循跡防滑控制系統、STC穩定行駛控制系統、整合式ABS+EBS+BAS煞車系統、TECT高剛性籠形鋼骨結構、6具[安全輔助氣囊等](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。
 
 2012年 -
-7月11日再度小改款（第5型），主要換上全新設計的前保桿、水箱罩、燻黑頭燈組、17吋鋁合金輪圈，並於車側下方加入兩道鍍鉻飾條來提升質感。同一時間發售「X-Adventure」特仕車，附有電動天窗、[LED霧燈](../Page/LED.md "wikilink")、ESP車身動態穩定系統、18吋鋁合金鋼圈等配備。
+7月11日再度小改款（第5型），主要換上全新設計的前保桿、水箱罩、燻黑頭燈組、17吋鋁合金輪圈，並於車側下方加入兩道鍍鉻飾條來提升質感。同一時間發售「X-Adventure」特仕車，附有電動天窗、[LED霧燈](https://zh.wikipedia.org/wiki/LED "wikilink")、ESP車身動態穩定系統、18吋鋁合金鋼圈等配備。
 
 2013年 -
 2月1日日規版車型重新調校引擎，以符合（第6型）。3月18日臺灣[金鈴汽車正式引進小改款的第](../Page/金鈴汽車.md "wikilink")5型車型，主要改變在於前保桿、水箱罩、燻黑頭燈組、17吋鋁合金輪圈、車門鍍鉻飾條等\[7\]。
@@ -166,24 +171,25 @@ front.JPG|日規五門車型車頭 Image:Suzuki Grand Vitara 1.6 GLX 2007
 10月3日於[巴黎車展公開新一代Vitara](../Page/巴黎車展.md "wikilink")\[8\]，宣告2015年第一季正式於[匈牙利的](../Page/匈牙利.md "wikilink")[馬札爾鈴木公司投產](../Page/馬札爾鈴木公司.md "wikilink")。
 
 2015年 -
-3月5日馬札爾鈴木公司下線投產，並陸續於[歐洲各國市場開賣](../Page/歐洲.md "wikilink")。車頭採雙橫柵水箱護罩，保桿下方以大型銀色防撞飾板點綴，兩側以ㄈ字型霧黑飾板搭配[LED晝行燈組和圓形霧燈](../Page/LED.md "wikilink")。內崁雙圓燈的頭燈組、[蚌殼式引擎蓋造型也是大改款的重點之一](../Page/蚌.md "wikilink")。跟上一代相比，[軸距縮短](../Page/軸距.md "wikilink")140mm，長度及寬度亦分別縮減325mm及35mm，車高也出現85mm的降幅。內裝方面引進家族化設計的三輻式跑車化[方向盤及雙環式儀表](../Page/方向盤.md "wikilink")，冷氣出風口改採圓形設計，在中控台上方採用三圓式設計，中央則納入圓形指針式時鐘，中控台也採用黑色鋼琴烤漆提升質感，而原廠更提供青色、白色、橙色、鋼琴黑色烤漆的內裝飾板選擇。動力方面以五速手排或六速自排等二種傳動方式，搭配1.6L直列四缸DOHC
-[M16A型或](../Page/鈴木M族引擎#M16A型.md "wikilink")1.6L直列四缸DOHC
-DDiS型[柴油引擎](../Page/柴油引擎.md "wikilink")。除了[前置前驅車型外](../Page/前置前驅.md "wikilink")，原廠另提供「AllGrip智能全時4WD系统」，可在前輪發生打滑時將更多的扭力分配至後輪，藉此強化車輛循跡性的表現，並提供了Snow雪地、Sport運動、Auto自動、Lock鎖定等四種切換模式。同年9月增加一具新開發的1.4L直列四缸DOHC缸內直噴[K14C-DITC型](../Page/鈴木K族引擎#K14C-DITC型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，可輸出最大馬力140ps
+3月5日馬札爾鈴木公司下線投產，並陸續於[歐洲各國市場開賣](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。車頭採雙橫柵水箱護罩，保桿下方以大型銀色防撞飾板點綴，兩側以ㄈ字型霧黑飾板搭配[LED晝行燈組和圓形霧燈](https://zh.wikipedia.org/wiki/LED "wikilink")。內崁雙圓燈的頭燈組、[蚌殼式引擎蓋造型也是大改款的重點之一](https://zh.wikipedia.org/wiki/蚌 "wikilink")。跟上一代相比，[軸距縮短](https://zh.wikipedia.org/wiki/軸距 "wikilink")140mm，長度及寬度亦分別縮減325mm及35mm，車高也出現85mm的降幅。內裝方面引進家族化設計的三輻式跑車化[方向盤及雙環式儀表](https://zh.wikipedia.org/wiki/方向盤 "wikilink")，冷氣出風口改採圓形設計，在中控台上方採用三圓式設計，中央則納入圓形指針式時鐘，中控台也採用黑色鋼琴烤漆提升質感，而原廠更提供青色、白色、橙色、鋼琴黑色烤漆的內裝飾板選擇。動力方面以五速手排或六速自排等二種傳動方式，搭配1.6L直列四缸DOHC
+[M16A型或](https://zh.wikipedia.org/wiki/鈴木M族引擎#M16A型 "wikilink")1.6L直列四缸DOHC
+DDiS型[柴油引擎](../Page/柴油引擎.md "wikilink")。除了[前置前驅車型外](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")，原廠另提供「AllGrip智能全時4WD系统」，可在前輪發生打滑時將更多的扭力分配至後輪，藉此強化車輛循跡性的表現，並提供了Snow雪地、Sport運動、Auto自動、Lock鎖定等四種切換模式。同年9月增加一具新開發的1.4L直列四缸DOHC缸內直噴[K14C-DITC型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14C-DITC型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，可輸出最大馬力140ps
 / 5,500rpm、最大扭力22.4kg·m / 1,700-4,000rpm。
 
-同年11月30日[長安鈴木公司發表](../Page/長安鈴木.md "wikilink")「鈴木維特拉」，動力來源可以1.4L直列四缸DOHC缸內直噴[K14C-DITC型](../Page/鈴木K族引擎#K14C-DITC型.md "wikilink")[渦輪增壓引擎搭配六速手排或自排變速箱](../Page/渦輪增壓器.md "wikilink")，或者自然進氣的1.6L直列四缸DOHC
-[M16A型引擎搭配五速手排變速箱](../Page/鈴木M族引擎#M16A型.md "wikilink")。
+同年11月30日[長安鈴木公司發表](https://zh.wikipedia.org/wiki/長安鈴木 "wikilink")「鈴木維特拉」，動力來源可以1.4L直列四缸DOHC缸內直噴[K14C-DITC型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14C-DITC型 "wikilink")[渦輪增壓引擎搭配六速手排或自排變速箱](../Page/渦輪增壓器.md "wikilink")，或者自然進氣的1.6L直列四缸DOHC
+[M16A型引擎搭配五速手排變速箱](https://zh.wikipedia.org/wiki/鈴木M族引擎#M16A型 "wikilink")。
 
-2016年 - 3月[紐西蘭市場推出限量的](../Page/紐西蘭.md "wikilink")「Boulevard
+2016年 -
+3月[紐西蘭市場推出限量的](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")「Boulevard
 Edition」特仕車，包含白底綴黑帶車色塗裝、綴有[白色Boulevard](../Page/白色.md "wikilink")
-Edition字樣的皮椅、駕駛座加熱功能、19吋鋁合金輪框、電動天窗、尾翼、[衛星導航系統](../Page/衛星導航系統.md "wikilink")、倒車顯影、[藍牙](../Page/藍牙.md "wikilink")、[巡航定速等配備](../Page/巡航定速.md "wikilink")。同年9月6日，臺灣[金鈴汽車引進匈牙利](../Page/金鈴汽車.md "wikilink")[馬札爾鈴木公司製造的鈴木Vitara](../Page/馬札爾鈴木公司.md "wikilink")\[9\]，入門級GLX車型配置1.6L直列四缸DOHC
-[M16A型引擎](../Page/鈴木M族引擎#M16A型.md "wikilink")，中高階S、S
-AllGrip（[4WD](../Page/四輪驅動.md "wikilink")）則配置1.4L直列四缸DOHC缸內直噴[K14C-DITC型](../Page/鈴木K族引擎#K14C-DITC型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，皆配合六速手自排變速箱附換檔撥片。全車系將感應式頭燈與雨刷、Keyless免鑰匙感應門鎖系統與Push
-Start引擎啟動按鈕、[巡航定速](../Page/巡航定速.md "wikilink")、[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")、HHC斜坡起步輔助系統、恆溫空調、ABS+EBD煞車系統、ESP[車身動態穩定系統](../Page/电子稳定程序.md "wikilink")、TPMS[胎壓偵測系統](../Page/胎壓偵測系統.md "wikilink")、7具[安全氣囊納為標準配備](../Page/安全氣囊.md "wikilink")，頂級S
-AllGrip款則外加[LED頭燈](../Page/LED.md "wikilink")、[紅色縫線麂皮座椅](../Page/紅色.md "wikilink")、HDC陡坡緩降系統、AllGrip智能全時4WD系统等配備；另可加價[新台幣](../Page/新台幣.md "wikilink")1萬選購雙色車身。
+Edition字樣的皮椅、駕駛座加熱功能、19吋鋁合金輪框、電動天窗、尾翼、[衛星導航系統](https://zh.wikipedia.org/wiki/衛星導航系統 "wikilink")、倒車顯影、[藍牙](../Page/藍牙.md "wikilink")、[巡航定速等配備](../Page/巡航定速.md "wikilink")。同年9月6日，臺灣[金鈴汽車引進匈牙利](../Page/金鈴汽車.md "wikilink")[馬札爾鈴木公司製造的鈴木Vitara](../Page/馬札爾鈴木公司.md "wikilink")\[9\]，入門級GLX車型配置1.6L直列四缸DOHC
+[M16A型引擎](https://zh.wikipedia.org/wiki/鈴木M族引擎#M16A型 "wikilink")，中高階S、S
+AllGrip（[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")）則配置1.4L直列四缸DOHC缸內直噴[K14C-DITC型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14C-DITC型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")，皆配合六速手自排變速箱附換檔撥片。全車系將感應式頭燈與雨刷、Keyless免鑰匙感應門鎖系統與Push
+Start引擎啟動按鈕、[巡航定速](../Page/巡航定速.md "wikilink")、[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")、HHC斜坡起步輔助系統、恆溫空調、ABS+EBD煞車系統、ESP[車身動態穩定系統](../Page/电子稳定程序.md "wikilink")、TPMS[胎壓偵測系統](../Page/胎壓偵測系統.md "wikilink")、7具[安全氣囊納為標準配備](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")，頂級S
+AllGrip款則外加[LED頭燈](https://zh.wikipedia.org/wiki/LED "wikilink")、[紅色縫線麂皮座椅](https://zh.wikipedia.org/wiki/紅色 "wikilink")、HDC陡坡緩降系統、AllGrip智能全時4WD系统等配備；另可加價[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")1萬選購雙色車身。
 
 2017年 -
-7月26日日本市場追加1.4L直列四缸DOHC缸內直噴[K14C-DITC型](../Page/鈴木K族引擎#K14C-DITC型.md "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")\[10\]，內外裝也與1.6L車型做出區隔。
+7月26日日本市場追加1.4L直列四缸DOHC缸內直噴[K14C-DITC型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14C-DITC型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")\[10\]，內外裝也與1.6L車型做出區隔。
 
 Image:Suzuki ESCUDO (DBA-YE21S) front.JPG Image:Suzuki ESCUDO
 (DBA-YE21S) rear.JPG Image:Suzuki Vitara 1.6 Comfort+ (IV) –
@@ -199,10 +205,10 @@ Boulevard Edition Interior.jpg|紐西蘭Boulevard Edition內裝
 
 #### 競速賽事
 
-這部為了參加[美國](../Page/美國.md "wikilink")[派克峰國際爬山賽而特別打造的特製賽車](../Page/派克峰國際爬山賽.md "wikilink")，設計者與[賽車手皆為](../Page/賽車手.md "wikilink")[田嶋伸博](../Page/田嶋伸博.md "wikilink")。動力心臟為特製的2,736c.c.水冷式V型6缸DOHC
-[H27A型引擎](../Page/鈴木H族引擎#H27A型.md "wikilink")，在雙[渦輪增壓器的加持下](../Page/渦輪增壓器.md "wikilink")，可輸出940ps
+這部為了參加[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[派克峰國際爬山賽而特別打造的特製賽車](../Page/派克峰國際爬山賽.md "wikilink")，設計者與[賽車手皆為](../Page/賽車手.md "wikilink")[田嶋伸博](../Page/田嶋伸博.md "wikilink")。動力心臟為特製的2,736c.c.水冷式V型6缸DOHC
+[H27A型引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")，在雙[渦輪增壓器的加持下](../Page/渦輪增壓器.md "wikilink")，可輸出940ps
 / 8,400rpm的最大[馬力和](../Page/馬力.md "wikilink")91.0kg-m / 6,280rpm
-的扭力峰值。為了輕量化，[底盤車架以中空管打造](../Page/底盤.md "wikilink")，車體總[重量刻意壓低至](../Page/重量.md "wikilink")1,030[公斤](../Page/公斤.md "wikilink")。
+的扭力峰值。為了輕量化，[底盤車架以中空管打造](https://zh.wikipedia.org/wiki/底盤 "wikilink")，車體總[重量刻意壓低至](../Page/重量.md "wikilink")1,030[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")。
 
 2006年賽事舉辦時天候狀況相當不穩定，起點處一片晴朗，但山頂也就是終點處卻有積雪。於是主辦單位決定縮短賽程距離，使得距離僅有往年的三分之二。事實上，1995年田嶋參加時也曾遇上該比賽79年來首度降雪的狀況\[11\]。
 {{-}}

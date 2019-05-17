@@ -1,10 +1,10 @@
 《**月刊GANGAN
-JOKER**》（）是由[史克威爾艾尼克斯發行](../Page/史克威爾艾尼克斯.md "wikilink")，並於2009年4月22日創刊的[日本](../Page/日本.md "wikilink")[月刊](../Page/月刊.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
+JOKER**》（）是由[史克威爾艾尼克斯發行](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，並於2009年4月22日創刊的[日本](../Page/日本.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 ## 概要
 
 JOKER是發行到2009年為止的《[GANGAN
-POWERED](../Page/GANGAN_POWERED.md "wikilink")》（《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》增刊）和《[月刊GANGAN
+POWERED](https://zh.wikipedia.org/wiki/GANGAN_POWERED "wikilink")》（《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》增刊）和《[月刊GANGAN
 WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 
 2009年2月13日官方網站設立時僅僅告知了雜誌名和預定創刊日期，未明確透露細節。但是在2月21日發售的POWERED
@@ -56,7 +56,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <td><p>祁答院慎（原作、監修）</p></td>
 <td><p>2009.05</p></td>
 <td><p>2012.11</p></td>
-<td><p>←《<a href="../Page/GANGAN_POWERED.md" title="wikilink">GANGAN POWERED</a>》</p></td>
+<td><p>←《<a href="https://zh.wikipedia.org/wiki/GANGAN_POWERED" title="wikilink">GANGAN POWERED</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
@@ -88,7 +88,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <tr class="odd">
 <td><p>06</p></td>
 <td><p><a href="../Page/夏日風暴！.md" title="wikilink">夏日風暴！</a></p></td>
-<td><p><a href="../Page/小林盡.md" title="wikilink">小林盡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小林盡" title="wikilink">小林盡</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.05</p></td>
 <td><p>2010.10</p></td>
@@ -118,10 +118,10 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <td><p><a href="../Page/文學少女.md" title="wikilink">文學少女與渴望死亡的小丑</a></p></td>
 <td><p>（作畫）</p></td>
 <td><p><a href="../Page/野村美月.md" title="wikilink">野村美月</a>（原作）<br />
-<a href="../Page/竹岡美穗.md" title="wikilink">竹岡美穗</a>（角色原案）</p></td>
+<a href="https://zh.wikipedia.org/wiki/竹岡美穗" title="wikilink">竹岡美穗</a>（角色原案）</p></td>
 <td><p>2009.05</p></td>
 <td><p>2010.11</p></td>
-<td><p>←《<a href="../Page/GANGAN_POWERED.md" title="wikilink">GANGAN POWERED</a>》</p></td>
+<td><p>←《<a href="https://zh.wikipedia.org/wiki/GANGAN_POWERED" title="wikilink">GANGAN POWERED</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
@@ -152,12 +152,12 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="even">
 <td><p>13</p></td>
-<td><p><a href="../Page/海貓悲鳴時_episode1_-_Legend_of_the_golden_witch.md" title="wikilink">海貓悲鳴時 episode1 - Legend of the golden witch</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海貓悲鳴時_episode1_-_Legend_of_the_golden_witch" title="wikilink">海貓悲鳴時 episode1 - Legend of the golden witch</a></p></td>
 <td><p><a href="../Page/夏海慧.md" title="wikilink">夏海慧</a>（作畫）</p></td>
 <td><p><a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a>（原作、監修）</p></td>
 <td><p>2009.05</p></td>
 <td><p>2009.09</p></td>
-<td><p>←《<a href="../Page/GANGAN_POWERED.md" title="wikilink">GANGAN POWERED</a>》</p></td>
+<td><p>←《<a href="https://zh.wikipedia.org/wiki/GANGAN_POWERED" title="wikilink">GANGAN POWERED</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
@@ -166,7 +166,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <td><p><a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a>（原作、監修）</p></td>
 <td><p>2009.05</p></td>
 <td><p>2011.05</p></td>
-<td><p>←《<a href="../Page/GANGAN_POWERED.md" title="wikilink">GANGAN POWERED</a>》</p></td>
+<td><p>←《<a href="https://zh.wikipedia.org/wiki/GANGAN_POWERED" title="wikilink">GANGAN POWERED</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -189,7 +189,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <tr class="even">
 <td><p>17</p></td>
 <td><p><strong><a href="../Page/EIGHTH.md" title="wikilink">EIGHTH</a></strong></p></td>
-<td><p><a href="../Page/河內和泉.md" title="wikilink">河內和泉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/河內和泉" title="wikilink">河內和泉</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.08</p></td>
 <td><p>連載中</p></td>
@@ -207,7 +207,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 <tr class="even">
 <td><p>19</p></td>
 <td></td>
-<td><p><a href="../Page/唐沢一義.md" title="wikilink">唐沢一義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/唐沢一義" title="wikilink">唐沢一義</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.09</p></td>
 <td><p>2010.07</p></td>
@@ -215,7 +215,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p><a href="../Page/海貓悲鳴時_episode3_-_Banquet_of_the_golden_witch.md" title="wikilink">海貓悲鳴時 episode3 - Banquet of the golden witch</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海貓悲鳴時_episode3_-_Banquet_of_the_golden_witch" title="wikilink">海貓悲鳴時 episode3 - Banquet of the golden witch</a></p></td>
 <td><p><a href="../Page/夏海慧.md" title="wikilink">夏海慧</a>（作畫）</p></td>
 <td><p><a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a>（原作、監修）</p></td>
 <td><p>2009.10</p></td>
@@ -224,7 +224,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p><a href="../Page/向死神許下最後的願望.md" title="wikilink">向死神許下最後的願望</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/向死神許下最後的願望" title="wikilink">向死神許下最後的願望</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2009.11</p></td>
@@ -278,7 +278,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p><a href="../Page/我家賣A書的.md" title="wikilink">我家賣A書的</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我家賣A書的" title="wikilink">我家賣A書的</a></p></td>
 <td><p><a href="../Page/横山知生.md" title="wikilink">横山知生</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.02</p></td>
@@ -296,7 +296,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》的繼刊。
 </tr>
 <tr class="even">
 <td><p>28</p></td>
-<td><p><a href="../Page/皇帝的花嫁_(漫畫).md" title="wikilink">皇帝的花嫁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皇帝的花嫁_(漫畫)" title="wikilink">皇帝的花嫁</a></p></td>
 <td><p><a href="../Page/CHuN.md" title="wikilink">CHuN</a>（作畫）<br />
 友善文創（協力）</p></td>
 <td><p>Antikim（原作、短篇小說構成）<br />
@@ -336,7 +336,7 @@ Avra（原作、劇本）</p></td>
 <td><p>32</p></td>
 <td><p><a href="../Page/花開物語.md" title="wikilink">花開物語</a></p></td>
 <td><p>千田衛人（作畫）</p></td>
-<td><p><a href="../Page/P.A._Works.md" title="wikilink">P.A. Works</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/P.A._Works" title="wikilink">P.A. Works</a>（原作）</p></td>
 <td><p>2010.12</p></td>
 <td><p>2012.10</p></td>
 <td></td>
@@ -364,7 +364,7 @@ Avra（原作、劇本）</p></td>
 <td><p><a href="../Page/文學少女.md" title="wikilink">文學少女與渴求真愛的幽靈</a></p></td>
 <td><p>（作畫）</p></td>
 <td><p><a href="../Page/野村美月.md" title="wikilink">野村美月</a>（原作）<br />
-<a href="../Page/竹岡美穂.md" title="wikilink">竹岡美穂</a>（角色原案）</p></td>
+<a href="https://zh.wikipedia.org/wiki/竹岡美穂" title="wikilink">竹岡美穂</a>（角色原案）</p></td>
 <td><p>2011.01</p></td>
 <td><p>2013.09</p></td>
 <td></td>
@@ -393,14 +393,14 @@ Avra（原作、劇本）</p></td>
 <td><p><a href="../Page/我女友與青梅竹馬的慘烈修羅場.md" title="wikilink">-{zh-hans:我女友和青梅竹马的各种修罗场;zh-hant:我女友與青梅竹馬的慘烈修羅場;}-</a></p></td>
 <td><p>七介（作畫）</p></td>
 <td><p>裕時悠示（原作）<br />
-<a href="../Page/LLO.md" title="wikilink">LLO</a>（角色原案）</p></td>
+<a href="https://zh.wikipedia.org/wiki/LLO" title="wikilink">LLO</a>（角色原案）</p></td>
 <td><p>2011.07</p></td>
 <td><p>2014.04</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>38</p></td>
-<td><p><a href="../Page/寒蟬鳴泣之時禮_賽殺篇.md" title="wikilink">-{zh-hans:寒蝉鸣泣之时礼 赛杀篇;zh-hant:暮蟬悲鳴時禮 賽殺篇;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寒蟬鳴泣之時禮_賽殺篇" title="wikilink">-{zh-hans:寒蝉鸣泣之时礼 赛杀篇;zh-hant:暮蟬悲鳴時禮 賽殺篇;}-</a></p></td>
 <td><p><a href="../Page/鈴羅木花梨.md" title="wikilink">鈴羅木花梨</a>（作畫）</p></td>
 <td><p><a href="../Page/龍騎士07.md" title="wikilink">龍騎士07</a>（原作、監修）</p></td>
 <td><p>2011.07</p></td>
@@ -418,7 +418,7 @@ Avra（原作、劇本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p><strong><a href="../Page/電波少女與錢仙大人.md" title="wikilink">電波少女與錢仙大人</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/電波少女與錢仙大人" title="wikilink">電波少女與錢仙大人</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2011.08</p></td>
@@ -450,16 +450,16 @@ Avra（原作、劇本）</p></td>
 <td><p>－</p></td>
 <td><p>2012.01</p></td>
 <td><p>2014.08</p></td>
-<td><p>由<a href="../Page/讀切.md" title="wikilink">讀切昇格</a></p></td>
+<td><p>由<a href="https://zh.wikipedia.org/wiki/讀切" title="wikilink">讀切昇格</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>43</p></td>
 <td><p><strong><a href="../Page/一週的朋友.md" title="wikilink">一週的朋友</a></strong></p></td>
-<td><p><a href="../Page/葉月抹茶.md" title="wikilink">葉月抹茶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉月抹茶" title="wikilink">葉月抹茶</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.02</p></td>
 <td><p>連載中</p></td>
-<td><p>由<a href="../Page/讀切.md" title="wikilink">讀切昇格</a></p></td>
+<td><p>由<a href="https://zh.wikipedia.org/wiki/讀切" title="wikilink">讀切昇格</a></p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
@@ -494,7 +494,7 @@ tanu（角色原案）<br />
 <td><p>47</p></td>
 <td><p><a href="../Page/偶像大师_灰姑娘女孩.md" title="wikilink">偶像大師 灰姑娘女孩 New Generations</a></p></td>
 <td><p>namo（作畫）</p></td>
-<td><p><a href="../Page/萬代南夢宮遊戲.md" title="wikilink">萬代南夢宮遊戲</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/萬代南夢宮遊戲" title="wikilink">萬代南夢宮遊戲</a>（原作）</p></td>
 <td><p>2012.10</p></td>
 <td><p>2013.11</p></td>
 <td></td>
@@ -551,7 +551,7 @@ tanu（角色原案）<br />
 <td><p>－</p></td>
 <td><p>2013.06</p></td>
 <td><p>連載中</p></td>
-<td><p>由<a href="../Page/讀切.md" title="wikilink">讀切昇格</a></p></td>
+<td><p>由<a href="https://zh.wikipedia.org/wiki/讀切" title="wikilink">讀切昇格</a></p></td>
 </tr>
 <tr class="even">
 <td><p>53</p></td>
@@ -564,7 +564,7 @@ tanu（角色原案）<br />
 </tr>
 <tr class="odd">
 <td><p>54</p></td>
-<td><p><strong><a href="../Page/魔法少女與惡曾是敵人.md" title="wikilink">魔法少女與惡曾是敵人</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/魔法少女與惡曾是敵人" title="wikilink">魔法少女與惡曾是敵人</a></strong></p></td>
 <td><p><a href="../Page/藤原可可亞.md" title="wikilink">藤原可可亞</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.10</p></td>
@@ -573,12 +573,12 @@ tanu（角色原案）<br />
 </tr>
 <tr class="even">
 <td><p>55</p></td>
-<td><p><a href="../Page/月夜田定拯救世界的方式.md" title="wikilink">月夜田定拯救世界的方式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/月夜田定拯救世界的方式" title="wikilink">月夜田定拯救世界的方式</a></p></td>
 <td><p>雨水龍（作畫）</p></td>
 <td><p>志賀伯（原作）</p></td>
 <td><p>2013.10</p></td>
 <td><p>2014.06</p></td>
-<td><p>由<a href="../Page/讀切.md" title="wikilink">讀切昇格</a></p></td>
+<td><p>由<a href="https://zh.wikipedia.org/wiki/讀切" title="wikilink">讀切昇格</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>56</p></td>
@@ -609,7 +609,7 @@ tanu（角色原案）<br />
 </tr>
 <tr class="even">
 <td><p>58</p></td>
-<td><p><strong><a href="../Page/殺意之戰鬼.md" title="wikilink">殺意之戰鬼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/殺意之戰鬼" title="wikilink">殺意之戰鬼</a></strong></p></td>
 <td><p>小林大樹</p></td>
 <td><p>－</p></td>
 <td><p>2014.04</p></td>
@@ -627,7 +627,7 @@ tanu（角色原案）<br />
 </tr>
 <tr class="even">
 <td><p>60</p></td>
-<td><p><strong><a href="../Page/期待在地下城邂逅有錯嗎.md" title="wikilink">期待在地下城邂逅有錯嗎 外傳 Sword Oratoria</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/期待在地下城邂逅有錯嗎" title="wikilink">期待在地下城邂逅有錯嗎 外傳 Sword Oratoria</a></strong></p></td>
 <td><p>矢樹貴（作畫）</p></td>
 <td><p>（原作）<br />
 <a href="../Page/灰村清孝.md" title="wikilink">灰村清孝</a>、<a href="../Page/安田典生.md" title="wikilink">安田典生</a>（角色原案）</p></td>
@@ -637,12 +637,12 @@ tanu（角色原案）<br />
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p><strong><a href="../Page/招恨、戀、恨戀。.md" title="wikilink">招恨、戀、恨戀。</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/招恨、戀、恨戀。" title="wikilink">招恨、戀、恨戀。</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2014.07</p></td>
 <td><p>連載中</p></td>
-<td><p>由<a href="../Page/讀切.md" title="wikilink">讀切昇格</a></p></td>
+<td><p>由<a href="https://zh.wikipedia.org/wiki/讀切" title="wikilink">讀切昇格</a></p></td>
 </tr>
 <tr class="even">
 <td><p>62</p></td>
@@ -655,8 +655,8 @@ tanu（角色原案）<br />
 </tr>
 <tr class="odd">
 <td><p>63</p></td>
-<td><p><strong><a href="../Page/制服的吸血鬼女王.md" title="wikilink">制服的吸血鬼女王</a></strong></p></td>
-<td><p><a href="../Page/松本智樹.md" title="wikilink">松本智樹</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/制服的吸血鬼女王" title="wikilink">制服的吸血鬼女王</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松本智樹" title="wikilink">松本智樹</a></p></td>
 <td><p>－</p></td>
 <td><p>2014.09</p></td>
 <td><p>連載中</p></td>
@@ -664,7 +664,7 @@ tanu（角色原案）<br />
 </tr>
 <tr class="even">
 <td><p>64</p></td>
-<td><p><strong><a href="../Page/那個吸血鬼做著不正確的夢.md" title="wikilink">那個吸血鬼做著不正確的夢</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/那個吸血鬼做著不正確的夢" title="wikilink">那個吸血鬼做著不正確的夢</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2014.09</p></td>
@@ -694,7 +694,8 @@ tanu（角色原案）<br />
 
 ## 相關條目
 
-  - [Fresh GANGAN](../Page/Fresh_GANGAN.md "wikilink")
+  - [Fresh
+    GANGAN](https://zh.wikipedia.org/wiki/Fresh_GANGAN "wikilink")
 
 ## 外部連結
 

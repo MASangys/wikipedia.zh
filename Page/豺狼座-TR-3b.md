@@ -17,8 +17,8 @@
     RESULTS AND LESSONS |
     url=<http://www.iop.org/EJ/abstract/1538-3881/137/5/4368> |
     author=Bayliss *et al.* | journal= [The Astronomical
-    Journal](../Page/The_Astronomical_Journal.md "wikilink") | year=2009
-    | volume=137 | issue=5 | pages=4368–4376 |
+    Journal](https://zh.wikipedia.org/wiki/The_Astronomical_Journal "wikilink")
+    | year=2009 | volume=137 | issue=5 | pages=4368–4376 |
     doi=10.1088/0004-6256/137/5/4368 | last2=Weldrake | first2=David T.
     F. | last3=Sackett | first3=Penny D. | last4=Tingley |
     first4=Brandon W. | last5=Lewis | first5=Karen M. |

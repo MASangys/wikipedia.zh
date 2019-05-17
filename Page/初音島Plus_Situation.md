@@ -9,9 +9,9 @@ Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラ�
 
 ## 概要
 
-原畫由[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](../Page/影崎夕那.md "wikilink")（影崎由那、影山由多）、[igul](../Page/igul.md "wikilink")、[谷原夏樹](../Page/谷原夏樹.md "wikilink")、[秋蕎麦](../Page/秋蕎麦.md "wikilink")、和擔當。劇本由、[御巫紫苑](../Page/御巫紫苑.md "wikilink")、[長嶋日出晴](../Page/長嶋日出晴.md "wikilink")、[鈴木雅詞和](../Page/鈴木雅詞.md "wikilink")[鈴木達也擔當](../Page/鈴木達也.md "wikilink")。
+原畫由[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://zh.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那、影山由多）、[igul](https://zh.wikipedia.org/wiki/igul "wikilink")、[谷原夏樹](https://zh.wikipedia.org/wiki/谷原夏樹 "wikilink")、[秋蕎麦](https://zh.wikipedia.org/wiki/秋蕎麦 "wikilink")、和擔當。劇本由、[御巫紫苑](https://zh.wikipedia.org/wiki/御巫紫苑 "wikilink")、[長嶋日出晴](https://zh.wikipedia.org/wiki/長嶋日出晴 "wikilink")、[鈴木雅詞和](https://zh.wikipedia.org/wiki/鈴木雅詞 "wikilink")[鈴木達也擔當](https://zh.wikipedia.org/wiki/鈴木達也 "wikilink")。
 
-舞台是被稱為初音島的神奇之島，島上的[櫻花在](../Page/櫻花.md "wikilink")1年中持續不間斷地盛開著。男主角能夠用手變出[和菓子和看見他人的夢境](../Page/和菓子.md "wikilink")，故事描述男主角在風見學園的戀愛冒險經歷。
+舞台是被稱為初音島的神奇之島，島上的[櫻花在](https://zh.wikipedia.org/wiki/櫻花 "wikilink")1年中持續不間斷地盛開著。男主角能夠用手變出[和菓子和看見他人的夢境](../Page/和菓子.md "wikilink")，故事描述男主角在風見學園的戀愛冒險經歷。
 
 ## 與[初音島的不同之處](../Page/初音島.md "wikilink")
 
@@ -27,16 +27,16 @@ Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラ�
 ## 主題歌
 
   - 片頭曲「」
-      - 作詞・作曲：[tororo](../Page/tororo.md "wikilink")、編曲：[Angel
-        Note](../Page/Angel_Note.md "wikilink")、歌：[yozuca\*](../Page/yozuca*.md "wikilink")
+      - 作詞・作曲：[tororo](https://zh.wikipedia.org/wiki/tororo "wikilink")、編曲：[Angel
+        Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")
   - 片尾曲「Dream ～The ally of～」
-      - 作詞：tororo、作曲・編曲：[長田直之](../Page/長田直之.md "wikilink")、歌：[rino](../Page/rino.md "wikilink")
+      - 作詞：tororo、作曲・編曲：[長田直之](https://zh.wikipedia.org/wiki/長田直之 "wikilink")、歌：[rino](https://zh.wikipedia.org/wiki/rino "wikilink")
   - 片尾曲「Dream ～The other side～」
-      - 作詞：tororo、作曲：[東隆行](../Page/東隆行.md "wikilink")、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")、歌：yozuca\*
+      - 作詞：tororo、作曲：[東隆行](https://zh.wikipedia.org/wiki/東隆行 "wikilink")、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")、歌：yozuca\*
   - 插入曲「」
-      - 作詞・作曲：rino、編曲：[大久保薫](../Page/大久保薫.md "wikilink")、歌：rino
+      - 作詞・作曲：rino、編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")、歌：rino
   - 插入曲「[Small Cherry ～promised
-    bell～](../Page/Small_Cherry_～promised_bell～.md "wikilink")」
+    bell～](https://zh.wikipedia.org/wiki/Small_Cherry_～promised_bell～ "wikilink")」
       - 作詞：tororo、作曲・編曲：Angel Note、歌：rino
   - 插入曲「」
       - 作詞・作曲：rino、編曲：大久保薫、歌：[堀江由衣](../Page/堀江由衣.md "wikilink")

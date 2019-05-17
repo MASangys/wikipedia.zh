@@ -1,13 +1,13 @@
 [Wikipedia_favicon_in_Firefox_on_KDE.png](https://zh.wikipedia.org/wiki/File:Wikipedia_favicon_in_Firefox_on_KDE.png "fig:Wikipedia_favicon_in_Firefox_on_KDE.png")顯示維基百科的favicon\]\]
 
 **Favicon**是*favorites icon*的缩写，亦被称为**website icon**（网页图标）、**page
-icon**（页面图标）或**urlicon**（[URL图标](../Page/URL.md "wikilink")）。Favicon是与某个[网站或](../Page/网站.md "wikilink")[网页相关联的](../Page/网页.md "wikilink")[图标](../Page/图标.md "wikilink")。网站设计者可以多种方式建立这种图标，而目前也有很多[网页浏览器支持此功能](../Page/网页浏览器.md "wikilink")。浏览器可以将favicon显示于浏览器的地址栏中，也可置于书签列表的网站名前，还可以放在标签式浏览界面中的页标题前。
+icon**（页面图标）或**urlicon**（[URL图标](https://zh.wikipedia.org/wiki/URL "wikilink")）。Favicon是与某个[网站或](https://zh.wikipedia.org/wiki/网站 "wikilink")[网页相关联的](https://zh.wikipedia.org/wiki/网页 "wikilink")[图标](https://zh.wikipedia.org/wiki/图标 "wikilink")。网站设计者可以多种方式建立这种图标，而目前也有很多[网页浏览器支持此功能](../Page/网页浏览器.md "wikilink")。浏览器可以将favicon显示于浏览器的地址栏中，也可置于书签列表的网站名前，还可以放在标签式浏览界面中的页标题前。
 
-最初，定义一个favicon的方法是将一个名为“favicon.ico”的[文件置于](../Page/计算机文件.md "wikilink")[Web服务器的](../Page/网络服务器.md "wikilink")[根目录下](../Page/根目录.md "wikilink")，[Internet
+最初，定义一个favicon的方法是将一个名为“favicon.ico”的[文件置于](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[Web服务器的](https://zh.wikipedia.org/wiki/网络服务器 "wikilink")[根目录下](https://zh.wikipedia.org/wiki/根目录 "wikilink")，[Internet
 Explorer的收藏夹](../Page/Internet_Explorer.md "wikilink")（即书签）可以自动显示该文件。\[1\]
 后来出现了一种更为灵活的方法，即使用[HTML来为任何一个网页指示其图标所存储的位置](../Page/HTML.md "wikilink")。这种方法是通过在页面的`<head>`部分添加两个link元件来实现的。这样，任何一个适当大小的（16×16[像素或更大](../Page/像素.md "wikilink")）的图像都可以用作favicon。尽管如此，多数情况下仍然使用[ICO格式](../Page/ICO.md "wikilink")。其他网页浏览器现在也支持[PNG](../Page/PNG.md "wikilink")（便携式网络图片）格式，和[GIF](../Page/GIF.md "wikilink")（图形交换格式）动画图像格式。
 
-市面上多数浏览器同时支持上述两种方法。正因此，网络服务器要接受很多对“favicon.ico”文件的请求，即使该文件根本不存在。网站管理员对此很不满，因为这样会增加大量的[服务器日志项](../Page/服务器日志.md "wikilink")，并导致很多不必要的[磁盘读取和](../Page/磁盘.md "wikilink")[CPU](../Page/CPU.md "wikilink")、网络资源的占用。另一个常见的问题是，当清除浏览器的[缓存后](../Page/缓存.md "wikilink")，favicon可能会消失。
+市面上多数浏览器同时支持上述两种方法。正因此，网络服务器要接受很多对“favicon.ico”文件的请求，即使该文件根本不存在。网站管理员对此很不满，因为这样会增加大量的[服务器日志项](https://zh.wikipedia.org/wiki/服务器日志 "wikilink")，并导致很多不必要的[磁盘读取和](https://zh.wikipedia.org/wiki/磁盘 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、网络资源的占用。另一个常见的问题是，当清除浏览器的[缓存后](../Page/缓存.md "wikilink")，favicon可能会消失。
 
 ## 歷史
 
@@ -23,7 +23,7 @@ Consortium（W3C，万维网联盟）的HTML建议](../Page/万维网联盟.md "
 
   - `rel`属性必须包含一个用空格作分隔符的link类型的列表，所以一个包含两词的link类型不能被遵守标准的浏览器理解。
   - “[.ico](../Page/ICO.md "wikilink")”文件类型（一种用于Microsoft
-    [Windows上图标的](../Page/Windows.md "wikilink")[光栅格式](../Page/光栅.md "wikilink")）没有一个注册的MIME类型，而且似乎在当时也不能被多数浏览器理解。然而2003年，这一格式在[IANA获得注册](../Page/IANA.md "wikilink")，其MIME类型是*image/vnd.microsoft.icon*，进而消除了此问题的第一部分。
+    [Windows上图标的](https://zh.wikipedia.org/wiki/Windows "wikilink")[光栅格式](https://zh.wikipedia.org/wiki/光栅 "wikilink")）没有一个注册的MIME类型，而且似乎在当时也不能被多数浏览器理解。然而2003年，这一格式在[IANA获得注册](https://zh.wikipedia.org/wiki/IANA "wikilink")，其MIME类型是*image/vnd.microsoft.icon*，进而消除了此问题的第一部分。
   - 在网站上使用*保留地址（reserved location）*与[Architecture of the World Wide
     Web（互联网的结构）](http://www.w3.org/TR/webarch/)矛盾，同时被认为是*link
     squatting（链接劫持）*或*URI squatting（URI劫持）*。
@@ -94,14 +94,14 @@ your Site》](http://www.w3.org/2005/10/howto-favicon)。
   - 图像通常可以使用任何被浏览器支持的图像格式。
   - `.ico`文件格式通常可以被所有可以显示favicon的浏览器读取。
   - 设置-{zh-cn:服务器;
-    zh-tw:伺服器;}-，以发送正确的[MIME标识](../Page/MIME.md "wikilink")：
+    zh-tw:伺服器;}-，以发送正确的[MIME标识](https://zh.wikipedia.org/wiki/MIME "wikilink")：
       - ICO 文件 `image/vnd.microsoft.icon`（或者亦可出于-{zh-cn:兼容性;
         zh-tw:相容性;}-原因使用`image/x-icon`。然而最好使用[IANA注册的MIME类型](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)，因为多数主流浏览器现在支持它）
       - GIF 文件 `image/gif`
       - PNG 文件 `image/png`
-  - 使用适当的[分辨率和](../Page/分辨率.md "wikilink")[色深](../Page/色深.md "wikilink")。
+  - 使用适当的[分辨率和](../Page/分辨率.md "wikilink")[色深](https://zh.wikipedia.org/wiki/色深 "wikilink")。
       - ICO：包括多种分辨率（最常使用的是16×16和32×32，[Mac OS
-        X有时使用](../Page/Mac_OS_X.md "wikilink")64×64和128×128）以及位深（比特每像素）（多数使用4、8、24
+        X有时使用](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")64×64和128×128）以及位深（比特每像素）（多数使用4、8、24
         bpp，即16、256和1600万色）。
       - GIF：使用16×16，256色。
       - PNG：使用16×16，256色或24位。

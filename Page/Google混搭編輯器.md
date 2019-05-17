@@ -4,11 +4,12 @@ Editor**是Google提供的一个[混搭创作服务](../Page/混搭_\(互聯網\
 在關閉前，Google Mashup Editor还是一个限制性的服务，只提供给少数的开发者。要使用Google Mashup
 Editor，首先需要申请邀请。
 
-它是[Yahoo\! Pipes与](../Page/Yahoo!_Pipes.md "wikilink")[Microsoft
-Popfly的直接竞争对手](../Page/Microsoft_Popfly.md "wikilink")。
+它是[Yahoo\!
+Pipes与](https://zh.wikipedia.org/wiki/Yahoo!_Pipes "wikilink")[Microsoft
+Popfly的直接竞争对手](https://zh.wikipedia.org/wiki/Microsoft_Popfly "wikilink")。
 
 该服务已经於2009年关闭，Google希望其用户转移到[Google App
-Engine](../Page/Google_App_Engine.md "wikilink")。\[1\]
+Engine](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")。\[1\]
 
 ## 参见
 
@@ -20,8 +21,10 @@ Engine](../Page/Google_App_Engine.md "wikilink")。\[1\]
 
   - [混搭](../Page/混搭_\(互聯網\).md "wikilink")
   - [Web 2.0](../Page/Web_2.0.md "wikilink")
-  - [Yahoo\! Pipes](../Page/Yahoo!_Pipes.md "wikilink")
-  - [Microsoft Popfly](../Page/Microsoft_Popfly.md "wikilink")
+  - [Yahoo\!
+    Pipes](https://zh.wikipedia.org/wiki/Yahoo!_Pipes "wikilink")
+  - [Microsoft
+    Popfly](https://zh.wikipedia.org/wiki/Microsoft_Popfly "wikilink")
 
 [Category:已終止的Google服務](https://zh.wikipedia.org/wiki/Category:已終止的Google服務 "wikilink")
 

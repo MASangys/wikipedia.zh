@@ -4,14 +4,14 @@
 
 ## 音樂錄影帶
 
-| 歌名        | 導演                               |
-| --------- | -------------------------------- |
-| 灰姑娘的眼淚    | [鄺盛](../Page/鄺盛.md "wikilink")   |
-| Beauty    | [賴偉康](../Page/賴偉康.md "wikilink") |
-| 當你        | [黃中平](../Page/黃中平.md "wikilink") |
-| On My Way | 鄺盛                               |
-| 我以為       |                                  |
-|           |                                  |
+| 歌名        | 導演                                                  |
+| --------- | --------------------------------------------------- |
+| 灰姑娘的眼淚    | [鄺盛](https://zh.wikipedia.org/wiki/鄺盛 "wikilink")   |
+| Beauty    | [賴偉康](https://zh.wikipedia.org/wiki/賴偉康 "wikilink") |
+| 當你        | [黃中平](../Page/黃中平.md "wikilink")                    |
+| On My Way | 鄺盛                                                  |
+| 我以為       |                                                     |
+|           |                                                     |
 
 ## 版本
 

@@ -1,24 +1,24 @@
 **Microsoft SharePoint
-Designer**，簡稱SPD，是一款由[微軟公司推出的](../Page/微軟公司.md "wikilink")[網頁製作軟件](../Page/網頁.md "wikilink")，前身是[Microsoft
+Designer**，簡稱SPD，是一款由[微軟公司推出的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[網頁製作軟件](../Page/網頁.md "wikilink")，前身是[Microsoft
 FrontPage](../Page/Microsoft_FrontPage.md "wikilink")。
 
 ## 過去版本
 
 2006年，微軟公司宣布Microsoft FrontPage將會被本軟件和[Microsoft Expression
-Web兩款新產品替代](../Page/Microsoft_Expression_Studio#應用程式.md "wikilink")。這兩款正在開發中的軟件都是部分基於Microsoft
+Web兩款新產品替代](https://zh.wikipedia.org/wiki/Microsoft_Expression_Studio#應用程式 "wikilink")。這兩款正在開發中的軟件都是部分基於Microsoft
 FrontPage的。SharePoint Designer2007在FrontPage2003後改變了：
 
   - 无法在SharePoint
-    Designer中預覽，用戶需要在[網頁瀏覽器中預覽](../Page/網頁瀏覽器.md "wikilink")。
+    Designer中預覽，用戶需要在[網頁瀏覽器中預覽](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。
   - 對製成[HTML做出更改](../Page/HTML.md "wikilink")，使其更符合[XHTML標準](../Page/XHTML.md "wikilink")。
   - 取消了插入快取圖案及文字藝術師等功能。須從其他Office軟件複製。
 
 ## 软件特性
 
-  - [所见即所得](../Page/所见即所得.md "wikilink")
-  - 集成了[编辑](../Page/编辑.md "wikilink")、[代码](../Page/代码.md "wikilink")，也可以使用「分割」排版同時查看2種。
+  - [所见即所得](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")
+  - 集成了[编辑](https://zh.wikipedia.org/wiki/编辑 "wikilink")、[代码](../Page/代码.md "wikilink")，也可以使用「分割」排版同時查看2種。
   - 与[Microsoft Office各软件无缝连接](../Page/Microsoft_Office.md "wikilink")
-  - [表格控制能力](../Page/表格.md "wikilink")
+  - [表格控制能力](https://zh.wikipedia.org/wiki/表格 "wikilink")
 
 ## 版本歷史
 

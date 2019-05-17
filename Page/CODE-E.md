@@ -1,5 +1,5 @@
-《**CODE-E**》是一部[日本](../Page/日本.md "wikilink")[電視動畫作品](../Page/電視動畫.md "wikilink")，並由[STUDIO
-DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為主](../Page/榊一郎.md "wikilink")，導演為[加藤敏幸](../Page/加藤敏幸.md "wikilink")。第一季總共有12集，並於2007年7月3日到2007年9月23日期間播放。第二季《**Mission-E**》於2008年7月開始播放。
+《**CODE-E**》是一部[日本](../Page/日本.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並由[STUDIO
+DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為主](../Page/榊一郎.md "wikilink")，導演為[加藤敏幸](https://zh.wikipedia.org/wiki/加藤敏幸 "wikilink")。第一季總共有12集，並於2007年7月3日到2007年9月23日期間播放。第二季《**Mission-E**》於2008年7月開始播放。
 
 ## 作品概要
 
@@ -62,7 +62,7 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為
 <!-- end list -->
 
   -
-    亞特魯・布林貝爾格是[德國](../Page/德國.md "wikilink")[間諜](../Page/間諜.md "wikilink")，並且是蜜莉絲的孿生弟弟。
+    亞特魯・布林貝爾格是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[間諜](https://zh.wikipedia.org/wiki/間諜 "wikilink")，並且是蜜莉絲的孿生弟弟。
 
 <!-- end list -->
 
@@ -144,7 +144,7 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為
   - 監督：加藤敏幸
   - 制片人：松田桂一、飯泉朝一
   - 人物設計・總作畫監督：斎藤哲人
-  - 機械設計：[菅沼栄治](../Page/菅沼栄治.md "wikilink")
+  - 機械設計：[菅沼栄治](https://zh.wikipedia.org/wiki/菅沼栄治 "wikilink")
   - 美術監督：伊東和宏
   - 色彩設計：もちだたけし
   - 撮影監督：森下成一
@@ -310,7 +310,7 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為
 #### 片頭曲
 
   - **『』**
-    作曲、編曲：[かの香織](../Page/かの香織.md "wikilink")
+    作曲、編曲：[かの香織](https://zh.wikipedia.org/wiki/かの香織 "wikilink")
 
 #### 片尾曲
 
@@ -328,7 +328,7 @@ DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎的原作為
 #### 片頭曲
 
   - **『』**
-    作曲、編曲：[かの香織](../Page/かの香織.md "wikilink")
+    作曲、編曲：[かの香織](https://zh.wikipedia.org/wiki/かの香織 "wikilink")
 
 #### 片尾曲
 

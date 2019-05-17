@@ -1,17 +1,19 @@
 **cpio**
-是[UNIX作業系統的一個檔案](../Page/UNIX.md "wikilink")[備份程式及](../Page/備份.md "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。這項工具最初出現於[PWB/UNIX](../Page/PWB/UNIX.md "wikilink")，係用於備份[磁帶](../Page/磁帶.md "wikilink")，後來也被引進到[UNIX
-System III及](../Page/UNIX_System_III.md "wikilink")[System
-V](../Page/System_V.md "wikilink")，並流行開來。
+是[UNIX作業系統的一個檔案](../Page/UNIX.md "wikilink")[備份程式及](https://zh.wikipedia.org/wiki/備份 "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。這項工具最初出現於[PWB/UNIX](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")，係用於備份[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")，後來也被引進到[UNIX
+System
+III及](https://zh.wikipedia.org/wiki/UNIX_System_III "wikilink")[System
+V](https://zh.wikipedia.org/wiki/System_V "wikilink")，並流行開來。
 
-cpio 可以从 cpio 或 [tar](../Page/tar_\(计算机科学\).md "wikilink")
-格式的归档包中存入和读取文件, 归档包是一种包含其他文件和有关信息的文件。
-有关信息包括：文件名, 属主, 时标(timestamp), 和访问权限。 归档包可以是磁盘上的 其他文件,
-也可以是磁带或管道.
+cpio 可以从 cpio 或
+[tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")
+格式的归档包中存入和读取文件, 归档包是一种包含其他文件和有关信息的文件。 有关信息包括：文件名, 属主, 时标(timestamp),
+和访问权限。 归档包可以是磁盘上的 其他文件, 也可以是磁带或管道.
 
 ## 示例操作和归档格式
 
 cpio 设计的初衷，是用于在磁带设备上，以顺序、连续的方式保存备份的文件归档。cpio 本身不会对任何归档内容进行压缩，为了便于传输，对于
-cpio 的输出归档人们经常会使用 [gzip](../Page/gzip.md "wikilink") 等外部程序进行压缩。
+cpio 的输出归档人们经常会使用 [gzip](https://zh.wikipedia.org/wiki/gzip "wikilink")
+等外部程序进行压缩。
 
 ### 创建归档
 
@@ -31,9 +33,10 @@ $ cpio -i -vd < archive.cpio
 命令行标识  告诉 cpio 按需重建目录。指定命令行标识  (verbose) 时，提取文件会同时打印其文件名。
 
 除了选项标识外，其余所有命令行参数都是类 shell 的
-[globbing](../Page/globbing.md "wikilink")-模式，归档中，只有文件名匹配的文件才会从中提取出来。下面这个示例从归档
+[globbing](https://zh.wikipedia.org/wiki/globbing "wikilink")-模式，归档中，只有文件名匹配的文件才会从中提取出来。下面这个示例从归档
 *archive.cpio* 中提取文件
-*[Cpio//etc/fstab](../Page/Cpio/etc/fstab.md "wikilink")* ：
+*[Cpio//etc/fstab](https://zh.wikipedia.org/wiki/Cpio/etc/fstab "wikilink")*
+：
 
 ``` console
 $ cpio -i -d /etc/fstab < archive.cpio

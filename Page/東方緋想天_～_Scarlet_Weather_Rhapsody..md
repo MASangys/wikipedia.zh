@@ -1,12 +1,12 @@
 [Strange_Weather_Rhapsody.jpg](https://zh.wikipedia.org/wiki/File:Strange_Weather_Rhapsody.jpg "fig:Strange_Weather_Rhapsody.jpg")
-是由[上海愛莉絲幻樂團與](../Page/上海愛莉絲幻樂團.md "wikilink")[黃昏邊境共同製作的](../Page/黃昏邊境.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](../Page/東方Project.md "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
+是由[上海愛莉絲幻樂團與](../Page/上海愛莉絲幻樂團.md "wikilink")[黃昏邊境共同製作的](../Page/黃昏邊境.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")10.5作。當初此作預定是被稱為9.8作，後來則轉為10.5作。
 
 ## 概要
 
 本作的體驗版最初與《[東方風神錄 ～ Mountain of
 Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》的正式版同時在2007年8月17日（[Comic
 Market](../Page/Comic_Market.md "wikilink")
-72）發佈，其後在2008年4月29日在網上開放下載體驗版，最後在5月25日（第5回[博麗神社例大祭](../Page/東方Project#博麗神社例大祭.md "wikilink")）正式發售。東方緋想天是一隻以[東方Project的角色為主題的對戰型](../Page/東方Project.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。遊戲製作主要由[黃昏邊境擔當](../Page/黃昏邊境.md "wikilink")，劇本、新角色設定及音樂等則交由[ZUN作負責](../Page/ZUN.md "wikilink")。本作的前作可算是同屬對戰型格鬥遊戲的《[東方萃夢想
+72）發佈，其後在2008年4月29日在網上開放下載體驗版，最後在5月25日（第5回[博麗神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博麗神社例大祭 "wikilink")）正式發售。東方緋想天是一隻以[東方Project的角色為主題的對戰型](https://zh.wikipedia.org/wiki/東方Project "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。遊戲製作主要由[黃昏邊境擔當](../Page/黃昏邊境.md "wikilink")，劇本、新角色設定及音樂等則交由[ZUN作負責](../Page/ZUN.md "wikilink")。本作的前作可算是同屬對戰型格鬥遊戲的《[東方萃夢想
 ～ Immaterial and Missing
 Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")》，本作登場的角色除了有《萃夢想》有故事模式的10名外，還新增了《永夜抄》的「鈴仙·優曇華院·因幡」、《花映塚》的「射命丸文」以及「小野塚小町」，加上本作新登場的2名，總共有15名登場角色。
 
@@ -69,7 +69,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
 
 ## 卡系統
 
-《緋想天》的[符卡系統](../Page/符卡#遊戲系統.md "wikilink")，與其他彈幕射擊作品比較有很大分別。
+《緋想天》的[符卡系統](https://zh.wikipedia.org/wiki/符卡#遊戲系統 "wikilink")，與其他彈幕射擊作品比較有很大分別。
 
 ### 系統概要
 
@@ -107,7 +107,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
 
 或稱為**天氣系統**，是本作最大的特色之一。戰鬥中的時候，天候會隨時間不斷轉變。戰鬥畫面在上方會有現在的天候和氣質值的顯示，氣質值上升逾50%開始「天氣預報」，達到100%時即會使天候改變，隨後氣質值會逐漸降回0%。在故事模式以外的模式中，天候能為角色付加能力。而在故事模式中，每個天候各有其對應的角色，不過在實際作用上則只有畫面上的效果，不會對戰況有改變。
 
-共有15種天候，不同的天候有不同的效果（最後第16種為特殊天候，僅出現於故事模式中）；另《非想天則》中有所改變的天候效果一併列於此（《非想天則》新增的5種天候則見[東方非想天則\#天候](../Page/東方非想天則#天候.md "wikilink")），細節省略：
+共有15種天候，不同的天候有不同的效果（最後第16種為特殊天候，僅出現於故事模式中）；另《非想天則》中有所改變的天候效果一併列於此（《非想天則》新增的5種天候則見[東方非想天則\#天候](https://zh.wikipedia.org/wiki/東方非想天則#天候 "wikilink")），細節省略：
 
 <table>
 <thead>
@@ -295,7 +295,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
 <!-- end list -->
 
   - 射命丸 文
-    [鴉天狗](../Page/鴉天狗.md "wikilink")，與登上山上的人決鬥。在文的故事模式中，則是由於新聞取材的關係而出發了。
+    [鴉天狗](https://zh.wikipedia.org/wiki/鴉天狗 "wikilink")，與登上山上的人決鬥。在文的故事模式中，則是由於新聞取材的關係而出發了。
 
 <!-- end list -->
 
@@ -350,8 +350,8 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
       - 《緋想天》《非想天則》《憑依華》可用角色
       - 《心綺樓》觀眾
       - 《[Double Spoiler ～
-        东方文花帖](../Page/Double_Spoiler_～_东方文花帖.md "wikilink")》Lv10头目
-      - 《[彈幕天邪鬼](../Page/彈幕天邪鬼.md "wikilink")》最終日頭目
+        东方文花帖](https://zh.wikipedia.org/wiki/Double_Spoiler_～_东方文花帖 "wikilink")》Lv10头目
+      - 《[彈幕天邪鬼](https://zh.wikipedia.org/wiki/彈幕天邪鬼 "wikilink")》最終日頭目
     **主題曲**
       - 　有頂天變　～ Wonderful Heaven（《緋想天》）
 
@@ -359,7 +359,7 @@ Power.](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")
 
 住在天界的天人。其家族比那名居一族是管理幻想乡一带地震的神官名居一族的部下。当名居一族飞升成为天人的时候，比那名居一族因为侍奉名居一族有功而到了天界居住。但由于没有像其他天人那样经过修炼断绝七情六欲，因此在天人当中会被称为“缺陷天人”。
 
-温室培育的花朵，随心所欲，我行我素。對自己的能力有絕對的自信，轻视自身以外的存在，因此事情进展不顺或能力被人瞧不起时就會很激動。可以說是不像天人的世俗而沒有威嚴。這也是應該的，畢竟本人沒有天人的自覺，只是因為父母侍奉的神官成為神，自己家族也就順便成為天人而已。這太過舒服的環境也對愛玩的天子造成不好的影響，做事完全不考慮別人可以說就是其中之一。[ZUN曾经谈到](../Page/ZUN.md "wikilink")，有缺陷的天人反倒有一股人情味，反过来说，她可能还是天界的一块[绿洲呢](../Page/绿洲.md "wikilink")。
+温室培育的花朵，随心所欲，我行我素。對自己的能力有絕對的自信，轻视自身以外的存在，因此事情进展不顺或能力被人瞧不起时就會很激動。可以說是不像天人的世俗而沒有威嚴。這也是應該的，畢竟本人沒有天人的自覺，只是因為父母侍奉的神官成為神，自己家族也就順便成為天人而已。這太過舒服的環境也對愛玩的天子造成不好的影響，做事完全不考慮別人可以說就是其中之一。[ZUN曾经谈到](../Page/ZUN.md "wikilink")，有缺陷的天人反倒有一股人情味，反过来说，她可能还是天界的一块[绿洲呢](https://zh.wikipedia.org/wiki/绿洲 "wikilink")。
 
 能鎮壓地震，也能引發地震。雖然範圍狭窄，但在幻想鄉范围內的話也可以遠距離撼動地面。而造成地層下陷或土石流等災害也是易如反掌。以要石和绯想之剑作为武器，前者只有比那名居一族能在幻想乡拔插，后者是能确实掌握对手的弱点只有天人可以使用的剑。天子认为只要有要石和绯想之剑，就能够驾驭天·地·人的一切。帽子上的桃子，饿的时候可以拿下来吃，天界的食物有锻炼身体的功效，这使得她的身体非常结实，连咲夜的飞刀都扎不动。
 

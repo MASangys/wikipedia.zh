@@ -1,5 +1,5 @@
 **《誅仙
-Online**》是[完美世界互動科技股份有限公司开发的一款](../Page/完美世界.md "wikilink")[3D](../Page/3D.md "wikilink")[大型多人線上角色扮演遊戲](../Page/大型多人線上角色扮演遊戲.md "wikilink")，於[2007年4月](../Page/2007年4月.md "wikilink")[大陆开始内测](../Page/大陆.md "wikilink")。形象代言人为[任贤齐](../Page/任贤齐.md "wikilink")。
+Online**》是[完美世界互動科技股份有限公司开发的一款](https://zh.wikipedia.org/wiki/完美世界 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，於[2007年4月](../Page/2007年4月.md "wikilink")[大陆开始内测](https://zh.wikipedia.org/wiki/大陆 "wikilink")。形象代言人为[任贤齐](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")。
 [Zhu_xian.jpg](https://zh.wikipedia.org/wiki/File:Zhu_xian.jpg "fig:Zhu_xian.jpg")
 
 ## 游戏介绍
@@ -8,7 +8,7 @@ Online**》是[完美世界互動科技股份有限公司开发的一款](../Pag
 
 ### 游戏特色
 
-系统采用了与同公司开发的[完美世界](../Page/完美世界.md "wikilink")、[武林外传相同的引擎](../Page/武林外传.md "wikilink")，特别是与武林外传的画面与系统十分相似。
+系统采用了与同公司开发的[完美世界](https://zh.wikipedia.org/wiki/完美世界 "wikilink")、[武林外传相同的引擎](../Page/武林外传.md "wikilink")，特别是与武林外传的画面与系统十分相似。
 
 #### 升級
 

@@ -1,21 +1,22 @@
-**Tony**，本名**田中貴之**，毕业于[宫城县](../Page/宫城县.md "wikilink")[仙台市的美术专门学校](../Page/仙台市.md "wikilink")，[日本](../Page/日本.md "wikilink")[插畫家](../Page/插畫家.md "wikilink")、[原畫家](../Page/原畫家.md "wikilink")、[人物設計師](../Page/人物設計師.md "wikilink")。現任[rpm](../Page/rpm_\(公司\).md "wikilink")[有限公司](../Page/有限公司.md "wikilink")[執行董事](../Page/執行董事.md "wikilink")。
+**Tony**，本名**田中貴之**，毕业于[宫城县](https://zh.wikipedia.org/wiki/宫城县 "wikilink")[仙台市的美术专门学校](../Page/仙台市.md "wikilink")，[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[原畫家](https://zh.wikipedia.org/wiki/原畫家 "wikilink")、[人物設計師](https://zh.wikipedia.org/wiki/人物設計師 "wikilink")。現任[rpm](https://zh.wikipedia.org/wiki/rpm_\(公司\) "wikilink")[有限公司](../Page/有限公司.md "wikilink")[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")。
 
-原為[廣告設計員](../Page/廣告設計.md "wikilink")，後來轉職為插畫家。因[十八禁遊戲的繪畫原畫的工作較多而越趨知名](../Page/十八禁遊戲.md "wikilink")。
+原為[廣告設計員](https://zh.wikipedia.org/wiki/廣告設計 "wikilink")，後來轉職為插畫家。因[十八禁遊戲的繪畫原畫的工作較多而越趨知名](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。
 
 ## 作品一覽
 
 ### 一般遊戲
 
-  - [西風狂詩曲2：暴風雨](../Page/西風狂詩曲2：暴風雨.md "wikilink")（TEMPEST）（[Softmax](../Page/Softmax_\(游戏开发商\).md "wikilink")1998年12月17日發售，[旭力亞](../Page/旭力亞.md "wikilink")2000年發售）\[1\]
-  - [小秘書Lina](../Page/小秘書Lina.md "wikilink")（Room with Lina）（株式會社[Visual
-    Lab](../Page/Visual_Lab.md "wikilink")1999年6月24日發售，[遊戲橘子](../Page/遊戲橘子.md "wikilink")2000年9月26日發售）\[2\]
+  - [西風狂詩曲2：暴風雨](https://zh.wikipedia.org/wiki/西風狂詩曲2：暴風雨 "wikilink")（TEMPEST）（[Softmax](https://zh.wikipedia.org/wiki/Softmax_\(游戏开发商\) "wikilink")1998年12月17日發售，[旭力亞](https://zh.wikipedia.org/wiki/旭力亞 "wikilink")2000年發售）\[1\]
+  - [小秘書Lina](https://zh.wikipedia.org/wiki/小秘書Lina "wikilink")（Room
+    with Lina）（株式會社[Visual
+    Lab](https://zh.wikipedia.org/wiki/Visual_Lab "wikilink")1999年6月24日發售，[遊戲橘子](../Page/遊戲橘子.md "wikilink")2000年9月26日發售）\[2\]
   - [光明之淚](../Page/光明之淚.md "wikilink")
   - [光明之風](../Page/光明之風.md "wikilink")
   - [光明之心](../Page/光明之心.md "wikilink")
   - [光明之刃](../Page/光明之刃.md "wikilink")
   - [光明之舟](../Page/光明之舟.md "wikilink")
   - [光明之響](../Page/光明之響.md "wikilink")
-  - [Exstetra](../Page/Exstetra.md "wikilink")
+  - [Exstetra](https://zh.wikipedia.org/wiki/Exstetra "wikilink")
 
 ### 十八禁遊戲
 
@@ -24,12 +25,12 @@
   -
   -
   - [Ciel Limited Collector's Box ～Tony Illustration
-    Games～](../Page/Ciel_Limited_Collector's_Box_～Tony_Illustration_Games～.md "wikilink")
+    Games～](https://zh.wikipedia.org/wiki/Ciel_Limited_Collector's_Box_～Tony_Illustration_Games～ "wikilink")
 
   - [After… -Story
-    Edition-](../Page/After…_-Story_Edition-.md "wikilink")
+    Edition-](https://zh.wikipedia.org/wiki/After…_-Story_Edition- "wikilink")
 
-  - [After…](../Page/After….md "wikilink")
+  - [After…](https://zh.wikipedia.org/wiki/After… "wikilink")
 
   -
   -
@@ -56,7 +57,8 @@
   -
 ### 個人画集
 
-  - Tony's Art Works Graph I〜IV（[台湾限定販售](../Page/台湾.md "wikilink")）
+  - Tony's Art Works Graph
+    I〜IV（[台湾限定販售](https://zh.wikipedia.org/wiki/台湾 "wikilink")）
 
   - COLLECT1 Tony同人畫集總集篇（C76販售）
 

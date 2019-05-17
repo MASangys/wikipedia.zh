@@ -1,6 +1,6 @@
 [PIC_microcontrollers.jpg](https://zh.wikipedia.org/wiki/File:PIC_microcontrollers.jpg "fig:PIC_microcontrollers.jpg")
 **PIC微控制器**（PIC
-microcontroller），是一種使用[哈佛結構的](../Page/哈佛結構.md "wikilink")[精簡指令集微控制器](../Page/精簡指令集.md "wikilink")，由[Microchip公司研發而成](../Page/Microchip.md "wikilink")。
+microcontroller），是一種使用[哈佛結構的](https://zh.wikipedia.org/wiki/哈佛結構 "wikilink")[精簡指令集微控制器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，由[Microchip公司研發而成](https://zh.wikipedia.org/wiki/Microchip "wikilink")。
 
 PIC的架構是明顯的最低限度。它具有以下特點：
 
@@ -74,8 +74,8 @@ PIC 的產品線寬廣，型號眾多，現有數百種，各主要系列如下�
 
 ### 32-bit（資料寬度）微控制器
 
-  - PIC32 : 採用 [MIPS](../Page/MIPS科技公司.md "wikilink") 的 M4K 內核，與其他 PIC
-    不同。
+  - PIC32 : 採用 [MIPS](https://zh.wikipedia.org/wiki/MIPS科技公司 "wikilink")
+    的 M4K 內核，與其他 PIC 不同。
 
 ### dsPIC 微控制器（16-bit 資料寬度）
 
@@ -84,7 +84,7 @@ PIC 的產品線寬廣，型號眾多，現有數百種，各主要系列如下�
 
 ## 8-bit PIC 的指令集
 
-PIC的指令十分精簡，只有35個，簡單易學，故執行速度比[8051快](../Page/8051.md "wikilink")。其指令集又分成12-bit
+PIC的指令十分精簡，只有35個，簡單易學，故執行速度比[8051快](https://zh.wikipedia.org/wiki/8051 "wikilink")。其指令集又分成12-bit
 PIC instruction set，和14-bit PIC instruction set.
 
 | Opcode（二進制）      | 助記體        | 說明                                           |

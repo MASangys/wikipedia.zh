@@ -1,8 +1,8 @@
 《**Infinity
-Journey**》（）是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第四張錄音室專輯](../Page/王菀之.md "wikilink")、第三張[粵語](../Page/粵語.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，於2008年10月10日發行，並於12月3日推出第二版，此專輯已達到金唱片銷量\[1\]。專輯內含CD和DVD各一張，CD中收錄了三首新歌，以及八首王菀之創作給其他歌手的歌曲，經過重新編曲後，由她重新演繹。全碟歌曲均由王菀之作曲。
+Journey**》（）是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第四張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、第三張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2008年10月10日發行，並於12月3日推出第二版，此專輯已達到金唱片銷量\[1\]。專輯內含CD和DVD各一張，CD中收錄了三首新歌，以及八首王菀之創作給其他歌手的歌曲，經過重新編曲後，由她重新演繹。全碟歌曲均由王菀之作曲。
 
 《我來自火星》分為兩個版本，其中《我來自火星（Infinity Journey
-Mix）》是[英國混音的](../Page/英國.md "wikilink")。另外，《玻璃色》是王菀之及[藍奕邦首次合作的作品](../Page/藍奕邦.md "wikilink")\[2\]。派台歌曲有《我來自火星》、《永遠幾遠》、《多愁善感》及《玻璃色》。
+Mix）》是[英國混音的](https://zh.wikipedia.org/wiki/英國 "wikilink")。另外，《玻璃色》是王菀之及[藍奕邦首次合作的作品](../Page/藍奕邦.md "wikilink")\[2\]。派台歌曲有《我來自火星》、《永遠幾遠》、《多愁善感》及《玻璃色》。
 
 ## 曲目
 
@@ -11,8 +11,9 @@ Mix）》是[英國混音的](../Page/英國.md "wikilink")。另外，《玻璃
 出自《Infinity Journey》第二版專輯內頁。\[3\]
 **音樂**
 
-  - [王菀之](../Page/王菀之.md "wikilink") – 主音 <small>(所有歌曲)</small>、作曲
-    <small>(所有歌曲)</small>、和音 <small>(所有歌曲)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
+    <small>(所有歌曲)</small>、作曲 <small>(所有歌曲)</small>、和音
+    <small>(所有歌曲)</small>
   - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲
     <small>(1-3、5-7、10-12)</small>、所有樂器
     <small>(1、5-7、11)</small>、鋼琴 <small>(2)</small>、和音
@@ -20,9 +21,11 @@ Mix）》是[英國混音的](../Page/英國.md "wikilink")。另外，《玻璃
   - [陳奐仁](../Page/陳奐仁.md "wikilink") – 吉他 <small>(1、5)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(1-2、4-6、9-10、12)</small>
   - [藍奕邦](../Page/藍奕邦.md "wikilink") – 作詞 <small>(3)</small>
-  - [黃偉文](../Page/黃偉文.md "wikilink") – 作詞 <small>(7)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
+    <small>(7)</small>
   - 林嘉恆 – 作詞 <small>(8)</small>
-  - [黃俊郎](../Page/黃俊郎.md "wikilink") – 作詞 <small>(11)</small>
+  - [黃俊郎](https://zh.wikipedia.org/wiki/黃俊郎 "wikilink") – 作詞
+    <small>(11)</small>
   - 謝浩文 – 混音 <small>(1)</small>、所有樂器 <small>(8-9)</small>、電腦程式
     <small>(8-9)</small>、編曲 <small>(8-9)</small>
   - 吳偉賢 – 所有樂器 <small>(4)</small>、編曲 <small>(4)</small>

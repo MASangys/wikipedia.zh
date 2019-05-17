@@ -1,11 +1,11 @@
 [Face.png](https://zh.wikipedia.org/wiki/File:Face.png "fig:Face.png")
-《**FACE**》為香港一份已停刊的[繁體中文雜誌](../Page/繁體中文.md "wikilink")，屬[壹傳媒旗下](../Page/壹傳媒.md "wikilink")，由大股東[黎智英創辦](../Page/黎智英.md "wikilink")，主要以年青讀者和中學生為對象。
+《**FACE**》為香港一份已停刊的[繁體中文雜誌](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，屬[壹傳媒旗下](../Page/壹傳媒.md "wikilink")，由大股東[黎智英創辦](../Page/黎智英.md "wikilink")，主要以年青讀者和中學生為對象。
 
 ## 歷史
 
 《FACE》由《[壹本便利](../Page/壹本便利.md "wikilink")》（1991年9月13日－2007年5月23日）易名而成。
 
-該雜誌在對外發售前，在香港《[蘋果日報](../Page/蘋果日報.md "wikilink")》（2007年5月28日）刊登廣告。廣告由[黎智英演繹受傷造型](../Page/黎智英.md "wikilink")，宣傳由雜誌《[壹本便利](../Page/壹本便利.md "wikilink")》，易名為《FACE》。雜誌出版初期，以「洗心革面，便利換FACE」為宣傳口號，謀求改革雜誌形象。
+該雜誌在對外發售前，在香港《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》（2007年5月28日）刊登廣告。廣告由[黎智英演繹受傷造型](../Page/黎智英.md "wikilink")，宣傳由雜誌《[壹本便利](../Page/壹本便利.md "wikilink")》，易名為《FACE》。雜誌出版初期，以「洗心革面，便利換FACE」為宣傳口號，謀求改革雜誌形象。
 
 傳媒權威刊物《Media》，在《2007年度亞太區十大最佳印刷媒體》選舉活動，《FACE》排名第二，僅次於《Vogue》印度版。《Media》評審團認為，從富爭議性的《壹本便利》轉換成《FACE》的宣傳手法，形象新鮮兼消去過去負面印象。\[1\]
 
@@ -25,9 +25,9 @@ Limited」名義出版第801期，連同《FACE》創刊號一併出售，其後
 ### 《FACE》
 
 《**FACE**》內容以娛樂、消閑、[動漫等潮流資訊為主](../Page/動漫.md "wikilink")，亦會報導藝人緋聞等花邊消息。2011年2月加入大專校園版。2010年開始舉辦FACE
-USTAR大專校花校草大選，入圍和勝出者不少加入了演藝界、模特兒界等，如[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、周雅霏、[李任燊](../Page/李任燊.md "wikilink")、[何艷娟](../Page/何艷娟.md "wikilink")、[邱念恩](../Page/邱念恩.md "wikilink")、[湯加文](../Page/湯加文.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、
-[陳詩欣](../Page/陳詩欣.md "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink")、[羅堃尉](../Page/羅堃尉.md "wikilink")、[李嘉豪](../Page/李嘉豪.md "wikilink")、[鍾名山](../Page/鍾名山.md "wikilink")、[黃凱逸](../Page/黃凱逸.md "wikilink")、[蔡寶欣](../Page/蔡寶欣.md "wikilink")、[吳子冲](../Page/吳子冲.md "wikilink")、[梁嘉琬](../Page/梁嘉琬.md "wikilink")、[蔡嘉欣](../Page/蔡嘉欣.md "wikilink")、[趙詠瑤](../Page/趙詠瑤.md "wikilink")、[馬俊怡](../Page/馬俊怡.md "wikilink")、[張鴻熙](../Page/張鴻熙.md "wikilink")、[鄧鈞耀](../Page/鄧鈞耀.md "wikilink")、[Faith
-(組合)](../Page/Faith_\(組合\).md "wikilink")、[何艷娟](../Page/何艷娟.md "wikilink")、[阮嘉敏](../Page/阮嘉敏.md "wikilink")、[關嘉敏](../Page/關嘉敏.md "wikilink")、[黃鍵安](../Page/黃鍵安.md "wikilink")、[劉頌鵬](../Page/劉頌鵬.md "wikilink")、[吳啟洋](../Page/吳啟洋.md "wikilink")、[袁學謙](../Page/袁學謙.md "wikilink")、[易佩詩](../Page/易佩詩.md "wikilink")、[蘇順敏等等](../Page/蘇順敏.md "wikilink")。
+USTAR大專校花校草大選，入圍和勝出者不少加入了演藝界、模特兒界等，如[陳婉婷](../Page/陳婉婷_\(演員\).md "wikilink")、周雅霏、[李任燊](https://zh.wikipedia.org/wiki/李任燊 "wikilink")、[何艷娟](../Page/何艷娟.md "wikilink")、[邱念恩](https://zh.wikipedia.org/wiki/邱念恩 "wikilink")、[湯加文](../Page/湯加文.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、
+[陳詩欣](https://zh.wikipedia.org/wiki/陳詩欣 "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink")、[羅堃尉](https://zh.wikipedia.org/wiki/羅堃尉 "wikilink")、[李嘉豪](https://zh.wikipedia.org/wiki/李嘉豪 "wikilink")、[鍾名山](https://zh.wikipedia.org/wiki/鍾名山 "wikilink")、[黃凱逸](https://zh.wikipedia.org/wiki/黃凱逸 "wikilink")、[蔡寶欣](../Page/蔡寶欣.md "wikilink")、[吳子冲](https://zh.wikipedia.org/wiki/吳子冲 "wikilink")、[梁嘉琬](https://zh.wikipedia.org/wiki/梁嘉琬 "wikilink")、[蔡嘉欣](https://zh.wikipedia.org/wiki/蔡嘉欣 "wikilink")、[趙詠瑤](https://zh.wikipedia.org/wiki/趙詠瑤 "wikilink")、[馬俊怡](https://zh.wikipedia.org/wiki/馬俊怡 "wikilink")、[張鴻熙](https://zh.wikipedia.org/wiki/張鴻熙 "wikilink")、[鄧鈞耀](https://zh.wikipedia.org/wiki/鄧鈞耀 "wikilink")、[Faith
+(組合)](../Page/Faith_\(組合\).md "wikilink")、[何艷娟](../Page/何艷娟.md "wikilink")、[阮嘉敏](https://zh.wikipedia.org/wiki/阮嘉敏 "wikilink")、[關嘉敏](https://zh.wikipedia.org/wiki/關嘉敏 "wikilink")、[黃鍵安](https://zh.wikipedia.org/wiki/黃鍵安 "wikilink")、[劉頌鵬](../Page/劉頌鵬.md "wikilink")、[吳啟洋](https://zh.wikipedia.org/wiki/吳啟洋 "wikilink")、[袁學謙](https://zh.wikipedia.org/wiki/袁學謙 "wikilink")、[易佩詩](https://zh.wikipedia.org/wiki/易佩詩 "wikilink")、[蘇順敏等等](https://zh.wikipedia.org/wiki/蘇順敏 "wikilink")。
 
 ### 《交易通》(Trading Express)
 
@@ -37,7 +37,7 @@ USTAR大專校花校草大選，入圍和勝出者不少加入了演藝界、模
 ### 《搵車快線》(Auto Express)
 
 [float](https://zh.wikipedia.org/wiki/File:Logo_auto.jpg "fig:float")
-《**搵車快線**》主要報導汽車資訊、新車和[電玩測試](../Page/電玩.md "wikilink")、求助信箱、買賣情報、易手車及其配件等買賣資訊。
+《**搵車快線**》主要報導汽車資訊、新車和[電玩測試](https://zh.wikipedia.org/wiki/電玩 "wikilink")、求助信箱、買賣情報、易手車及其配件等買賣資訊。
 
 ### 《Ketchup》
 
@@ -55,7 +55,7 @@ USTAR大專校花校草大選，入圍和勝出者不少加入了演藝界、模
 
 ## 參見
 
-  - [壹傳媒有限公司](../Page/壹傳媒有限公司.md "wikilink")
+  - [壹傳媒有限公司](https://zh.wikipedia.org/wiki/壹傳媒有限公司 "wikilink")
   - [壹本便利](../Page/壹本便利.md "wikilink")
 
 ## 参考資料

@@ -1,9 +1,9 @@
 **Opera**（又稱：**Opera瀏覽器**；前稱：**Opera
-Mobile**），是[Opera軟件為](../Page/Opera軟件.md "wikilink")[智能手機和](../Page/智能手機.md "wikilink")[個人數碼助理推出的](../Page/個人數碼助理.md "wikilink")[行動瀏覽器](../Page/行動瀏覽器.md "wikilink")。
+Mobile**），是[Opera軟件為](../Page/Opera軟件.md "wikilink")[智能手機和](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[個人數碼助理推出的](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")。
 
 ## 功能
 
-Opera所用的引擎是自主開發的[Presto](../Page/Presto.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，後被[Webkit取代](../Page/Webkit.md "wikilink")，支援多種網路標準，如[XMS](../Page/XMS.md "wikilink")、[Ajax等](../Page/Ajax.md "wikilink")。
+Opera所用的引擎是自主開發的[Presto](../Page/Presto.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，後被[Webkit取代](https://zh.wikipedia.org/wiki/Webkit "wikilink")，支援多種網路標準，如[XMS](https://zh.wikipedia.org/wiki/XMS "wikilink")、[Ajax等](https://zh.wikipedia.org/wiki/Ajax "wikilink")。
 
 此外，Opera
 Turbo網頁壓縮技術藉由該公司的網頁伺服器來壓縮網頁大小，藉此降低用戶端下載傳輸量，頁面加載時間得到了改善，帶寬消耗降低了80%。它使用Opera的小屏幕渲染（SSR）技術和文字換行，瀏覽器可以動態地重新格式化小屏幕網頁，還可以通過在觸摸屏或鍵盤上使用手指觸摸或觸筆來使用，並且縱向和橫向模式顯示\[1\]。
@@ -12,9 +12,9 @@ Turbo網頁壓縮技術藉由該公司的網頁伺服器來壓縮網頁大小，
 
 Opera
 Mobile是[UIQ和Plaszma操作系统的預置瀏覽器](../Page/UIQ.md "wikilink")，所有這兩種系統的手機都默認包含Opera
-Mobile。除此之外，Opera也為[Symbian和](../Page/Symbian.md "wikilink")[Windows
+Mobile。除此之外，Opera也為[Symbian和](https://zh.wikipedia.org/wiki/Symbian "wikilink")[Windows
 Embedded
-Compact手機製造商提供預裝定制服務](../Page/Windows_Embedded_Compact.md "wikilink")。值得注意的是，[聯發科技和](../Page/聯發科技.md "wikilink")[BREW版本的Opera](../Page/BREW.md "wikilink")
+Compact手機製造商提供預裝定制服務](../Page/Windows_Embedded_Compact.md "wikilink")。值得注意的是，[聯發科技和](../Page/聯發科技.md "wikilink")[BREW版本的Opera](https://zh.wikipedia.org/wiki/BREW "wikilink")
 Mobile只能通過預裝途徑獲得，而不能自主下載\[3\]。
 
 ## 歷史
@@ -22,9 +22,9 @@ Mobile只能通過預裝途徑獲得，而不能自主下載\[3\]。
   - 發佈6.0版本。
   - 2003年6月25日，發佈6.0.1小更新。
   - 2003年10月27日，發佈6.10，更新為多語言版本。
-  - 2005年7月13日，大約兩年之後，發佈8.0，首次支援[DHTML](../Page/DHTML.md "wikilink")。
+  - 2005年7月13日，大約兩年之後，發佈8.0，首次支援[DHTML](https://zh.wikipedia.org/wiki/DHTML "wikilink")。
   - 2005年11月14日，發佈8.5。
-  - 2006年4月5日，發佈8.6，首次支援[SVG](../Page/SVG.md "wikilink")。
+  - 2006年4月5日，發佈8.6，首次支援[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")。
   - 2006年8月29日，發佈8.65，8.6版本的小更新。
   - 2007年2月，宣佈9.0。
   - 2008年7月17日，發佈9.5,
@@ -34,7 +34,7 @@ Mobile只能通過預裝途徑獲得，而不能自主下載\[3\]。
   - 2010年5月11日，第一個[Maemo版本問世](../Page/Maemo.md "wikilink")。
   - 2010年11月9日，第一個可公開下載的[Android版本問世](../Page/Android.md "wikilink")。
   - 2011年3月22日，發布11.0。針對[觸控式螢幕和](../Page/觸控式螢幕.md "wikilink")[平板電腦作出優化](../Page/平板電腦.md "wikilink")；首次支援[HTML5](../Page/HTML5.md "wikilink")；第一個[MeeGo和](../Page/MeeGo.md "wikilink")[Windows
-    7版本問世](../Page/Windows_7.md "wikilink")。
+    7版本問世](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
   - 2011年10月11日，發布11.5。引入流量統計功能\[4\]。
   - 2012年2月27日，發布12.0。首次支援[WebGL](../Page/WebGL.md "wikilink")\[5\]。
 

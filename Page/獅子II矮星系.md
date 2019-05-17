@@ -1,7 +1,7 @@
 **獅子II** （或**Leo
-B**）是[本星系群中的一個](../Page/本星系群.md "wikilink")[矮星系](../Page/矮星系.md "wikilink")，位於[獅子座](../Page/獅子座.md "wikilink")，距離大約701,000[光年](../Page/光年.md "wikilink")（215[Kpc](../Page/秒差距.md "wikilink")），直徑大約4,200光年，是[銀河系的衛星系](../Page/銀河系.md "wikilink")。牠於1950年被[羅伯特
+B**）是[本星系群中的一個](../Page/本星系群.md "wikilink")[矮星系](../Page/矮星系.md "wikilink")，位於[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，距離大約701,000[光年](../Page/光年.md "wikilink")（215[Kpc](../Page/秒差距.md "wikilink")），直徑大約4,200光年，是[銀河系的衛星系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")。牠於1950年被[羅伯特
 G.
-哈靈頓和](../Page/羅伯特_G._哈靈頓.md "wikilink")[艾伯特·喬治·威爾遜在](../Page/艾伯特·喬治·威爾遜.md "wikilink")[加利福尼亞州的](../Page/加利福尼亞州.md "wikilink")[威爾遜山天文台和](../Page/威爾遜山天文台.md "wikilink")[帕洛馬天文台共同發現](../Page/帕洛馬天文台.md "wikilink")。
+哈靈頓和](https://zh.wikipedia.org/wiki/羅伯特_G._哈靈頓 "wikilink")[艾伯特·喬治·威爾遜在](https://zh.wikipedia.org/wiki/艾伯特·喬治·威爾遜 "wikilink")[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[威爾遜山天文台和](https://zh.wikipedia.org/wiki/威爾遜山天文台 "wikilink")[帕洛馬天文台共同發現](https://zh.wikipedia.org/wiki/帕洛馬天文台 "wikilink")。
 
 ## 相關條目
 
@@ -24,7 +24,7 @@ G.
 
   - R. G. Harrington and A. G. Wilson, 1950. "Two New Stellar Systems in
     Leo." *[Publications of the Astronomical Society of the
-    Pacific](../Page/Publications_of_the_Astronomical_Society_of_the_Pacific.md "wikilink")*,
+    Pacific](https://zh.wikipedia.org/wiki/Publications_of_the_Astronomical_Society_of_the_Pacific "wikilink")*,
     Vol. 62, No. 365, p. 118
 
 <div class="references-small">

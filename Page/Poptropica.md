@@ -1,4 +1,4 @@
-**Poptropica**\[1\]是一個大型的多人[線上遊戲及](../Page/線上遊戲.md "wikilink")[虛擬世界](../Page/虛擬世界.md "wikilink")，適合6歲至15歲的[兒童玩耍](../Page/兒童.md "wikilink")。在遊戲中，玩家可以旅行、玩遊戲、跟其他玩家彼此溝通及完成「島嶼任務」。Poptropica是一個由[家庭教育網絡](../Page/家庭教育.md "wikilink")──[Funbrain研發](../Page/Funbrain.md "wikilink")，該公司還擁有孩子們的遊戲學習網站──funbrain.com
+**Poptropica**\[1\]是一個大型的多人[線上遊戲及](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[虛擬世界](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")，適合6歲至15歲的[兒童玩耍](https://zh.wikipedia.org/wiki/兒童 "wikilink")。在遊戲中，玩家可以旅行、玩遊戲、跟其他玩家彼此溝通及完成「島嶼任務」。Poptropica是一個由[家庭教育網絡](../Page/家庭教育.md "wikilink")──[Funbrain研發](https://zh.wikipedia.org/wiki/Funbrain "wikilink")，該公司還擁有孩子們的遊戲學習網站──funbrain.com
 \[2\]。該遊戲的正式發布日期是[2007年9月](../Page/2007年9月.md "wikilink")\[3\]。
 
 ## 角色
@@ -24,7 +24,7 @@ Hippo）。
 ### 早期poptropica
 
 *'
-早期Poptropica*'是Poptropica的第一個島嶼。玩家會遇到原來Poptropica的定居者。他們有一些1980年代的風格特徵。有幾位早期Poptropica的定居者在他們的村莊丟失了一些物品。在主要街道中有一個藝術博物館，當中有不少藝術家的作品，例如[達芬奇和](../Page/達芬奇.md "wikilink")[梵高的](../Page/梵高.md "wikilink")。
+早期Poptropica*'是Poptropica的第一個島嶼。玩家會遇到原來Poptropica的定居者。他們有一些1980年代的風格特徵。有幾位早期Poptropica的定居者在他們的村莊丟失了一些物品。在主要街道中有一個藝術博物館，當中有不少藝術家的作品，例如[達芬奇和](https://zh.wikipedia.org/wiki/達芬奇 "wikilink")[梵高的](https://zh.wikipedia.org/wiki/梵高 "wikilink")。
 
 ### 鯊魚島（Shark Tooth Island）
 
@@ -33,7 +33,7 @@ Island的居民正在被一條活跃的鯊魚困擾。玩家的任務就是幫�
 
 ### 时空错乱島（Time Tangled Island）
 
-**时空错乱島**是Poptropica發布的第三個島嶼。該方案是講述教授的時間機器已經歪曲了過去和將來的歷史，在此玩家需要令時間變回正常。在任務中，用戶會遇到不少例如[愛迪生和](../Page/愛迪生.md "wikilink")[達芬奇等著名的歷史人物](../Page/達芬奇.md "wikilink")。用戶一旦恢復了過去，就可以到达未來並看到自己50年以後的樣貌。\[4\]。
+**时空错乱島**是Poptropica發布的第三個島嶼。該方案是講述教授的時間機器已經歪曲了過去和將來的歷史，在此玩家需要令時間變回正常。在任務中，用戶會遇到不少例如[愛迪生和](https://zh.wikipedia.org/wiki/愛迪生 "wikilink")[達芬奇等著名的歷史人物](https://zh.wikipedia.org/wiki/達芬奇 "wikilink")。用戶一旦恢復了過去，就可以到达未來並看到自己50年以後的樣貌。\[4\]。
 
 ### 24胡蘿蔔島（24 Carrot Island）
 

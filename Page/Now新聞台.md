@@ -1,29 +1,29 @@
 [HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg")
 [NowNews_Reporter_in_Shanghai.JPG](https://zh.wikipedia.org/wiki/File:NowNews_Reporter_in_Shanghai.JPG "fig:NowNews_Reporter_in_Shanghai.JPG")
-**now新聞台**（），是[香港](../Page/香港.md "wikilink")[now寬頻電視新聞轄下的頻道](../Page/now寬頻電視新聞.md "wikilink")，為香港第5條自製的電視新聞頻道，於2007年10月24日早上6時啟播。now新聞台是24小時的新聞頻道，其新聞中心與[now財經台及](../Page/now財經台.md "wikilink")[無綫港島新聞中心同樣位於](../Page/無綫新聞.md "wikilink")[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](../Page/電訊大廈.md "wikilink")。now新聞台的主要競爭對手包括[有線新聞台](../Page/有線新聞台.md "wikilink")、[無綫新聞台](../Page/無綫新聞台.md "wikilink")。有一特別之處值得一提是，now新聞台於2008年5月27日正式向外公佈其「觀眾報料熱綫」，電話號碼為（852）3656-3452，而電郵為news@nowbnc.com，仿傚[有線新聞的](../Page/有線新聞.md "wikilink")「新聞有線人」。
+**now新聞台**（），是[香港](../Page/香港.md "wikilink")[now寬頻電視新聞轄下的頻道](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，為香港第5條自製的電視新聞頻道，於2007年10月24日早上6時啟播。now新聞台是24小時的新聞頻道，其新聞中心與[now財經台及](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[無綫港島新聞中心同樣位於](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")[香港](../Page/香港.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")。now新聞台的主要競爭對手包括[有線新聞台](../Page/有線新聞台.md "wikilink")、[無綫新聞台](../Page/無綫新聞台.md "wikilink")。有一特別之處值得一提是，now新聞台於2008年5月27日正式向外公佈其「觀眾報料熱綫」，電話號碼為（852）3656-3452，而電郵為news@nowbnc.com，仿傚[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")「新聞有線人」。
 
-此台與[now財經台一樣](../Page/now財經台.md "wikilink")，大部份拍攝畫面會使用[Sony](../Page/Sony.md "wikilink")
+此台與[now財經台一樣](https://zh.wikipedia.org/wiki/now財經台 "wikilink")，大部份拍攝畫面會使用[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")
 [XDCAM拍攝並以](../Page/XDCAM.md "wikilink")[Professional
-Disc媒介儲存](../Page/Professional_Disc.md "wikilink")，雖然XDCAM支援[高清製作](../Page/高清電視.md "wikilink")，但now新聞及財經台只製作[標清節目及高清廣告於其他高清台作廣告用](../Page/標清.md "wikilink")。雖然now新聞及財經台於2015年11月30日升級至16:9製作，但未有同時升級至高清廣播。隨著[有線新聞台於](../Page/有線新聞台.md "wikilink")2015年底升級高清製作，令now新聞台成為香港最後一個非高清的電視新聞頻道，新聞節目初期在高清的[ViuTV播出時需增線至](../Page/ViuTV.md "wikilink")[1080i](../Page/1080i.md "wikilink")。直至2018年8月13日，now新聞台正式改以高清廣播，象徵著香港電視新聞進入全高清的年代。
+Disc媒介儲存](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，雖然XDCAM支援[高清製作](https://zh.wikipedia.org/wiki/高清電視 "wikilink")，但now新聞及財經台只製作[標清節目及高清廣告於其他高清台作廣告用](https://zh.wikipedia.org/wiki/標清 "wikilink")。雖然now新聞及財經台於2015年11月30日升級至16:9製作，但未有同時升級至高清廣播。隨著[有線新聞台於](../Page/有線新聞台.md "wikilink")2015年底升級高清製作，令now新聞台成為香港最後一個非高清的電視新聞頻道，新聞節目初期在高清的[ViuTV播出時需增線至](../Page/ViuTV.md "wikilink")[1080i](https://zh.wikipedia.org/wiki/1080i "wikilink")。直至2018年8月13日，now新聞台正式改以高清廣播，象徵著香港電視新聞進入全高清的年代。
 
-now新聞台於10月24日6時正在[now寬頻電視](../Page/now寬頻電視.md "wikilink")332頻道啟播，首播節目為《[now早晨](../Page/now早晨.md "wikilink")》。[now寬頻電視為宣傳首個自製新聞頻道隆重推出](../Page/now寬頻電視.md "wikilink")，於開播初期安排節目預告頻道（100頻道）同步播放本台節目，所有客戶均可免費試看，而客戶在啟動解碼器後會自動轉至now新聞台（原設定為節目預告頻道）。
+now新聞台於10月24日6時正在[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")332頻道啟播，首播節目為《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》。[now寬頻電視為宣傳首個自製新聞頻道隆重推出](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於開播初期安排節目預告頻道（100頻道）同步播放本台節目，所有客戶均可免費試看，而客戶在啟動解碼器後會自動轉至now新聞台（原設定為節目預告頻道）。
 
-now新聞台在收費計劃上來說會是取代[24小時亞視新聞台](../Page/亞洲電視新聞財經頻道.md "wikilink")，但於10月24日now新聞台啟播至11月21日[24小時亞視新聞台停播期間](../Page/亞洲電視新聞財經頻道.md "wikilink")，原有[24小時亞視新聞台的客戶](../Page/亞洲電視新聞財經頻道.md "wikilink")（不論收費或免費）都可同時收看兩個頻道，直至[24小時亞視新聞台](../Page/亞洲電視新聞財經頻道.md "wikilink")11月21日停止於[now寬頻電視播放](../Page/now寬頻電視.md "wikilink")，上述客戶則會轉為收看now新聞台。
+now新聞台在收費計劃上來說會是取代[24小時亞視新聞台](https://zh.wikipedia.org/wiki/亞洲電視新聞財經頻道 "wikilink")，但於10月24日now新聞台啟播至11月21日[24小時亞視新聞台停播期間](https://zh.wikipedia.org/wiki/亞洲電視新聞財經頻道 "wikilink")，原有[24小時亞視新聞台的客戶](https://zh.wikipedia.org/wiki/亞洲電視新聞財經頻道 "wikilink")（不論收費或免費）都可同時收看兩個頻道，直至[24小時亞視新聞台](https://zh.wikipedia.org/wiki/亞洲電視新聞財經頻道 "wikilink")11月21日停止於[now寬頻電視播放](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，上述客戶則會轉為收看now新聞台。
 
-新收費客戶可以「一站式套餐」優惠訂購[now直播台](../Page/now直播台.md "wikilink")（331頻道）、now新聞台（332頻道）及[now財經台](../Page/now財經台.md "wikilink")（333頻道），收費為25港元；客戶亦可只訂購now新聞台，收費為15港元（訂購合約為12個月）；另外，新訂戶月費滿$48的客戶亦可免費收看。
+新收費客戶可以「一站式套餐」優惠訂購[now直播台](https://zh.wikipedia.org/wiki/now直播台 "wikilink")（331頻道）、now新聞台（332頻道）及[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（333頻道），收費為25港元；客戶亦可只訂購now新聞台，收費為15港元（訂購合約為12個月）；另外，新訂戶月費滿$48的客戶亦可免費收看。
 
 now新聞台（332頻道）現已成為免費頻道。
 
 ## 頻道歷史
 
-  - 2007年10月24日[早上](../Page/早上.md "wikilink")6時正，now新聞台啟播，首個播放的節目為《[now早晨](../Page/now早晨.md "wikilink")》。
-  - 2007年11月21日，隨著[亞洲電視的](../Page/亞洲電視.md "wikilink")[24小時亞視新聞台的停播](../Page/24小時亞視新聞台.md "wikilink")，now新聞台正式成為了[now寬頻電視的重點主打新聞頻道](../Page/now寬頻電視.md "wikilink")。
+  - 2007年10月24日[早上](https://zh.wikipedia.org/wiki/早上 "wikilink")6時正，now新聞台啟播，首個播放的節目為《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》。
+  - 2007年11月21日，隨著[亞洲電視的](../Page/亞洲電視.md "wikilink")[24小時亞視新聞台的停播](https://zh.wikipedia.org/wiki/24小時亞視新聞台 "wikilink")，now新聞台正式成為了[now寬頻電視的重點主打新聞頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。
   - 2008年5月27日向外公佈其「報料熱線」，電話號碼為852-3656
-    3452，而電郵為news@nowbnc.com，即跟[有線新聞的](../Page/有線新聞.md "wikilink")《新聞有線人》的做法異曲同工。
-  - 2008年12月，now新聞台啟播一年，首次參選[亞洲電視大獎](../Page/亞洲電視大獎.md "wikilink")（Asian
+    3452，而電郵為news@nowbnc.com，即跟[有線新聞的](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")《新聞有線人》的做法異曲同工。
+  - 2008年12月，now新聞台啟播一年，首次參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian
     Television
-    Awards）即以[汶川大地震一系列新聞報導奪得](../Page/汶川大地震.md "wikilink")《最佳新聞報導》大獎，脫穎而出於各具實力之[亞太及](../Page/亞太.md "wikilink")[香港電視台](../Page/香港.md "wikilink")；且於同月奪得各亞太地區新聞大獎。
-  - 2009年12月，now新聞台參選[亞洲電視大獎](../Page/亞洲電視大獎.md "wikilink")（Asian
+    Awards）即以[汶川大地震一系列新聞報導奪得](../Page/汶川大地震.md "wikilink")《最佳新聞報導》大獎，脫穎而出於各具實力之[亞太及](https://zh.wikipedia.org/wiki/亞太 "wikilink")[香港電視台](../Page/香港.md "wikilink")；且於同月奪得各亞太地區新聞大獎。
+  - 2009年12月，now新聞台參選[亞洲電視大獎](https://zh.wikipedia.org/wiki/亞洲電視大獎 "wikilink")（Asian
     Television
     Awards），以資訊節目《[六‧四廿週年](../Page/六四事件.md "wikilink")》\[1\]奪得《最佳紀錄片節目》（30分鐘或以下）大獎\[2\]。
   - 2010年3月，now新聞台參選1941年起成立的[皮博迪獎](../Page/皮博迪獎.md "wikilink")（The
@@ -32,14 +32,14 @@ now新聞台（332頻道）現已成為免費頻道。
   - 2010年11月15日，now新聞台重組晚間播放時段，其中《[時事8點鐘](../Page/時事8點鐘.md "wikilink")》簡化為《now新聞報道》，《[大鳴大放](../Page/大鳴大放_\(電視節目\).md "wikilink")》提早於20:30播放，而21:00-21:48的「9點鐘新聞報道」則更名為《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》。
   - 2011年7月，於[now.com](http://news.now.com/)增設新聞影片重溫服務（限香港IP用戶才可收看）。
   - 2011年8月1日及8日，分別播出特備專題節目《血．礦》及《奴．工》。
-  - 2011年8月7日起會於now.com上載當日的《[now午間新聞](../Page/now午間新聞.md "wikilink")》、《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》及《[now深宵新聞](../Page/now深宵新聞.md "wikilink")》（第一組）網上[重溫](http://video.now.com/home/video?portal=news)，此安排已於2018年7月23日起終止。
-  - 2011年10月3日，播出特備專題節目《[門常開](../Page/中區政府合署_\(添馬艦\).md "wikilink")》\[5\]。
+  - 2011年8月7日起會於now.com上載當日的《[now午間新聞](https://zh.wikipedia.org/wiki/now午間新聞 "wikilink")》、《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》及《[now深宵新聞](https://zh.wikipedia.org/wiki/now深宵新聞 "wikilink")》（第一組）網上[重溫](http://video.now.com/home/video?portal=news)，此安排已於2018年7月23日起終止。
+  - 2011年10月3日，播出特備專題節目《[門常開](https://zh.wikipedia.org/wiki/中區政府合署_\(添馬艦\) "wikilink")》\[5\]。
   - 2012年11月5日起，《杏林在線》改為星期二、四21:50首播。
   - 2013年1月7日起，《時事全方位》提早至12:00結束，同時港股交易日《now午間新聞》提早至12:00開始，《杏林在線》由原星期二、四21:50首播改為星期一、四21:50首播，並於翌日12:20、12:50、16:20及16:50重播，而《時事全方位》原有環節《電影館》及《文化多面睇》改為在首節《now午間新聞》後播出。
   - 2013年7月15日起，now新聞台取消在20:30轉播《[大鳴大放](../Page/大鳴大放_\(電視節目\).md "wikilink")》，並改為在now直播台播出。而now新聞台原時段改為重播20:00一節《now新聞報道》。
   - 2013年12月24日至12月29日期間，為配合廠景裝修，所有新聞報道節目改為在《採訪手記》環節所用的訪問直播室作為暫用廠景。然而12月27日當日播出的《時事全方位》則在原廠景錄影，並且當日提前至11:00結束。同年12月30日起，全面更換片頭和廠景，而新廠景更加添置梳化供《now早晨》及《時事全方位》主持使用。
   - 2014年1月27日起，記者在新聞片段完結前會由「now寬頻電視記者×××報道」，改為說「nowTV記者×××報道」。
-  - 2015年11月30日起，now新聞台由[4:3改為以](../Page/長寬比.md "wikilink")16:9標清格式廣播\[6\]，每節新聞亦加上中文字幕。
+  - 2015年11月30日起，now新聞台由[4:3改為以](https://zh.wikipedia.org/wiki/長寬比 "wikilink")16:9標清格式廣播\[6\]，每節新聞亦加上中文字幕。
   - 2016年3月31日起，因應[ViuTV正式試播](../Page/ViuTV.md "wikilink")，部份新聞時段會與ViuTV聯播。每當[八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每半小時新聞第一節會改為播出《風暴消息》，以便ViuTV每半至一小時會同步播出，第二節起回復正常片頭片尾播出安排。
   - 2016年9月11日，now新聞台參選第五屆張國興傑出青年傳播人獎，以資訊節目《中國人民》系列中「癌症村」\[7\]及「舉國體制」\[8\]兩集節目分別奪得新聞組別的金獎及銀獎\[9\]。
   - 2017年5月13日，now新聞台憑《經緯線》的「刀鋒上的公義」一集奪得第21屆人權新聞獎中文廣播傳媒大獎\[10\]。
@@ -75,17 +75,17 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 星期一至五公眾假期播放時間不在以下列出。
 [八號或以上熱帶氣旋警告信號生效時](../Page/八號烈風或暴風信號.md "wikilink")，每半小時新聞第一節會改為播出《風暴消息》。
 
-### 《[now早晨](../Page/now早晨.md "wikilink")》（）
+### 《[now早晨](https://zh.wikipedia.org/wiki/now早晨 "wikilink")》（）
 
   - 播放時間：每日06:00-09:00。
 
-### 《[now新聞報道](../Page/now新聞報道.md "wikilink")》（）
+### 《[now新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》（）
 
   - 播放時間：星期一至二港股交易日：09:00-09:30、10:00-10:10、10:30-10:40、11:00-11:10、11:30-11:40、14:00-14:25、14:30-14:55、15:00-16:20、16:30-16:50、17:00-17:25、17:30-17:55、18:00-21:00、22:00-23:00；
     星期三至五港股交易日：09:00-09:30、10:00-10:10、10:30-10:40、11:00-11:10、11:30-11:40、14:00-14:25、14:30-14:55、15:00-17:25、17:30-17:55、18:00-21:00、22:00-23:00；
     星期六及日09:00-09:20、09:30-09:50、10:00-10:20、10:30-10:50、11:00-11:20、11:30-11:50、14:00-14:20、14:30-14:50、15:00-17:25、17:30-17:55、18:00-23:00。
 
-### 《[now午間新聞](../Page/now午間新聞.md "wikilink")》（）
+### 《[now午間新聞](https://zh.wikipedia.org/wiki/now午間新聞 "wikilink")》（）
 
   - 播放時間：星期一12:00-13:30；星期二至四12:00-12:20、12:30-12:50、13:00-14:00；星期五至日12:00-14:00。
 
@@ -93,7 +93,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
   - 播放時間：星期一、五港股交易日21:00-21:40；星期二至四港股交易日21:00-21:50。（若《體育快訊》暫停播映會相應延長播放時間）
 
-### 《[now深宵新聞](../Page/now深宵新聞.md "wikilink")》（）
+### 《[now深宵新聞](https://zh.wikipedia.org/wiki/now深宵新聞 "wikilink")》（）
 
   - 播放時間（1）：每日23:00-23:30（直播）、00:00-00:30、01:00-01:30、02:00-02:30、03:00-03:30、04:00-04:30、05:00-05:30
   - 播放時間（2）：每日23:30-00:00（直播）、00:30-01:30、01:30-02:00、02:30-03:00、03:30-04:00、04:30-05:00、05:30-06:00
@@ -102,7 +102,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
 ### 《時事全方位》（）
 
-駐台時事評論員[馮振超](../Page/馮振超.md "wikilink")（星期一）／[王慧麟](../Page/王慧麟.md "wikilink")（星期二、四）／[尹志強](../Page/尹志強_\(時事評論員\).md "wikilink")（星期三）／[許楨](../Page/許楨.md "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由主播[黃凱迪](../Page/黃凱迪.md "wikilink")／[劉銘欣](../Page/劉銘欣.md "wikilink")／[李臻頂替](../Page/李臻.md "wikilink")）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
+駐台時事評論員[馮振超](https://zh.wikipedia.org/wiki/馮振超 "wikilink")（星期一）／[王慧麟](../Page/王慧麟.md "wikilink")（星期二、四）／[尹志強](https://zh.wikipedia.org/wiki/尹志強_\(時事評論員\) "wikilink")（星期三）／[許楨](https://zh.wikipedia.org/wiki/許楨 "wikilink")（星期五）與[彭晴](../Page/彭晴.md "wikilink")（如當日請假則由主播[黃凱迪](../Page/黃凱迪.md "wikilink")／[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[李臻頂替](../Page/李臻.md "wikilink")）一起主持的時事節目，與學者、官員、議員，不同立場人士就具爭議性的話題及政府政策，深入討論，剖析背景，讓觀眾可以更加深入了解事件，電視觀眾可致電1833298參與討論。
 
 由2011年3月7日起，環節節目《環球薈報》取消播放。而2015年5月4日起亦停止進行「now互動民調」。
 
@@ -121,7 +121,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
   - 10:30-10:40：《now新聞報道》
   - 10:40-11:00：繼續與嘉賓討論當日的主題（分為兩部分）（如有需要，會改為與另外嘉賓討論其他重要話題）
   - 11:00-11:15：《now新聞報道》
-  - 11:15-11:20：《[中國評論](../Page/#《中國評論》（China_Critic）.md "wikilink")》
+  - 11:15-11:20：《[中國評論](https://zh.wikipedia.org/wiki/#《中國評論》（China_Critic） "wikilink")》
   - 11:20-11:30：主持討論其他話題
   - 11:30-11:40：《now新聞報道》
   - 11:40-12:00：主持討論另外兩個話題（分為兩部分）
@@ -130,7 +130,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
 ### 《中國評論》（）
 
-主持人會電話連線中國評論員[馬鐵穎](../Page/馬鐵穎.md "wikilink")，每日就內地熱門議題進行分析及討論。
+主持人會電話連線中國評論員[馬鐵穎](https://zh.wikipedia.org/wiki/馬鐵穎 "wikilink")，每日就內地熱門議題進行分析及討論。
 
   - 播放時間：《時事全方位》節目時段內11:15-11:20播出。（如馬鐵穎休假，則改為主持討論話題）
 
@@ -138,7 +138,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
 ### 《環球薈報》（）
 
-薈集全球各大報章頭條新聞，揭示不同國度觀點，了解各地不同文化差異。初期循[now財經台隨美股交易日在](../Page/now財經台.md "wikilink")17:00至19:00《[now新聞報道](../Page/now新聞報道.md "wikilink")》內第三部分由兩位（其中一位當值）主播共同主持，以輕鬆手法講述，並於當晚《[環球金融快線](../Page/now財經台.md "wikilink")》第三部分重播。**Now新聞台**啟播後改為隨港股交易日《時事全方位》節目時段內11:40首播、並於14:25獨立重播，另於17:00《now新聞報道》第三部分作為環節節目再次首播。由2011年3月7日起，因《時事全方位》取消播放《環球薈報》，改為在14:00、17:00《now新聞報道》第三部分作為環節節目分別直播；2015年5月18日起從《now新聞報道》時段中抽出，成為獨立環節。
+薈集全球各大報章頭條新聞，揭示不同國度觀點，了解各地不同文化差異。初期循[now財經台隨美股交易日在](https://zh.wikipedia.org/wiki/now財經台 "wikilink")17:00至19:00《[now新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》內第三部分由兩位（其中一位當值）主播共同主持，以輕鬆手法講述，並於當晚《[環球金融快線](https://zh.wikipedia.org/wiki/now財經台 "wikilink")》第三部分重播。**Now新聞台**啟播後改為隨港股交易日《時事全方位》節目時段內11:40首播、並於14:25獨立重播，另於17:00《now新聞報道》第三部分作為環節節目再次首播。由2011年3月7日起，因《時事全方位》取消播放《環球薈報》，改為在14:00、17:00《now新聞報道》第三部分作為環節節目分別直播；2015年5月18日起從《now新聞報道》時段中抽出，成為獨立環節。
 
   - 播放時間：星期一至五港股交易日14:25首播，當日14:55、17:25、17:55重播。
   - 拍攝位置：now新聞台直播室（中間／左方，使用中螢幕／大螢幕）
@@ -153,17 +153,17 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
 ### 《政情》（）
 
-主持：[戴祖而](../Page/戴祖而.md "wikilink")、[吳志賡](../Page/吳志賡.md "wikilink")（如其中一位主持休假或在香港境外採訪，會由其他港聞組記者暫代主持）
+主持：[戴祖而](https://zh.wikipedia.org/wiki/戴祖而 "wikilink")、[吳志賡](https://zh.wikipedia.org/wiki/吳志賡 "wikilink")（如其中一位主持休假或在香港境外採訪，會由其他港聞組記者暫代主持）
 
-  - 播放時間：星期一至五港股交易日於《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》時段內首播，之後於當日《[now深宵新聞](../Page/now深宵新聞.md "wikilink")》時段內及翌日早上《[now新聞報道](../Page/now新聞報道.md "wikilink")》時段內重播。
+  - 播放時間：星期一至五港股交易日於《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》時段內首播，之後於當日《[now深宵新聞](https://zh.wikipedia.org/wiki/now深宵新聞 "wikilink")》時段內及翌日早上《[now新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》時段內重播。
     而每年八月至九月，由於[行政會議及](../Page/香港特別行政區行政會議.md "wikilink")[立法會暑期休假](../Page/香港立法會.md "wikilink")，期間《政情》會暫停播映，直至十月份立法會復會。
-  - 拍攝位置：[now財經台訪問直播室](../Page/now財經台.md "wikilink")（使用中間螢幕）
+  - 拍攝位置：[now財經台訪問直播室](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（使用中間螢幕）
 
 節目網站：[now新聞網站－《政情》重溫](http://news.now.com/home/feature/detail?catCode=124&topicId=611)
 
 ### 《體育快訊》（主持版本）
 
-主持：[宋貴玲](../Page/宋貴玲.md "wikilink")／[郭灝然](../Page/郭灝然.md "wikilink")（如主持休假或在香港境外採訪，會由新聞主播暫代主持）
+主持：[宋貴玲](https://zh.wikipedia.org/wiki/宋貴玲 "wikilink")／[郭灝然](https://zh.wikipedia.org/wiki/郭灝然 "wikilink")（如主持休假或在香港境外採訪，會由新聞主播暫代主持）
 
   - 播放時間：每日18:00（港股交易日則為18:30）起至翌日06:00新聞時段內（通常為最後一節）、港股交易日21:50-22:00。
 
@@ -181,7 +181,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
   - 播放時間：每日07:28、12:58、20:28、22:58。
 
-### 《[氣象冷知識](../Page/氣象冷知識.md "wikilink")》（）
+### 《[氣象冷知識](https://zh.wikipedia.org/wiki/氣象冷知識 "wikilink")》（）
 
 節目由香港天文台製作，以增強公眾對氣象的認識，並希望藉此提升市民的防災意識。
 
@@ -220,7 +220,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
   - 《**西甲Goal Goal Goal**》（）：2016年8月21日起逢星期六、日的賽事日翌日10:10、10:40。
 
 西甲賽事精華片段由[Now
-Sports提供](../Page/Now寬頻電視體育平台.md "wikilink")。而Now新聞網站的「[兩岸國際](http://news.now.com/home/international)」分類亦提供網上重溫。
+Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")。而Now新聞網站的「[兩岸國際](http://news.now.com/home/international)」分類亦提供網上重溫。
 
 ## 曾播映節目
 
@@ -257,30 +257,30 @@ Sports提供](../Page/Now寬頻電視體育平台.md "wikilink")。而Now新聞�
   - 《建國六十年》：2009年10月1日22:30-23:00播出。
   - 《雙城》（共兩集）2010年
   - 《香港貧窮問題》（共四集）2010年
-  - 《[日本大地震之](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")[核危機](../Page/福島第一核電廠事故.md "wikilink")》：2011年3月26日12:30-13:00播出。
+  - 《[日本大地震之](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")[核危機](https://zh.wikipedia.org/wiki/福島第一核電廠事故 "wikilink")》：2011年3月26日12:30-13:00播出。
   - 《日本大地震之世紀災情》：2011年3月27日12:30-13:00播出。
   - 《重返災區》：2011年5月2日12:30-13:00播出。
   - 《血‧礦》：2011年8月1日22:00-22:30播出。
   - 《奴‧工》：2011年8月8日22:00-22:30播出。
   - 《門常開》：2011年10月3日22:30-23:00播出。
   - 《[區選論壇](../Page/2011年香港區議會選舉.md "wikilink")》（共四集）：2011年10月31日至2011年11月4日22:30-23:00播出。
-  - 《[2012行政長官選舉辯論](../Page/2012行政長官選舉辯論.md "wikilink")》：2012年3月16日20:00-22:45、22:45-23:00播出。（20:00-22:45直播有關辯論及之後的記者會，22:45-23:00報道相關新聞）
+  - 《[2012行政長官選舉辯論](https://zh.wikipedia.org/wiki/2012行政長官選舉辯論 "wikilink")》：2012年3月16日20:00-22:45、22:45-23:00播出。（20:00-22:45直播有關辯論及之後的記者會，22:45-23:00報道相關新聞）
   - 《[2012立法會選舉論壇](../Page/2012年香港立法會選舉.md "wikilink")》：2012年8月27日至30日20:30-21:00播出。
     （now新聞台及now財經台只播會計界、教育界、醫學界及法律界功能界別論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
-  - 《走進[鐵幕](../Page/北韓.md "wikilink")》：2013年5月19日11:10-11:25播出。
+  - 《走進[鐵幕](https://zh.wikipedia.org/wiki/北韓 "wikilink")》：2013年5月19日11:10-11:25播出。
   - 《中國人民》（共五集）：2013年10月4日至11月1日逢星期五20:30-21:00播出。
   - 《[政改有偈傾](../Page/2016年及2017年香港政治制度改革.md "wikilink")》：2013年12月16日至2014年1月3日、5月8日至16日於《時事全方位》節目內（10:40-11:00）播出。
-  - 《[佔領大事記](../Page/雨傘革命.md "wikilink")》：2014年12月14日至15日部份新聞時段後播出。
+  - 《[佔領大事記](https://zh.wikipedia.org/wiki/雨傘革命 "wikilink")》：2014年12月14日至15日部份新聞時段後播出。
   - 《抗戰勝利七十周年》：2015年8月29日13:30-14:00播出。
-  - 《[抗戰勝利七十周年閱兵](../Page/紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70周年閱兵式.md "wikilink")》：2015年9月3日09:50-11:40直播。
+  - 《[抗戰勝利七十周年閱兵](https://zh.wikipedia.org/wiki/紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70周年閱兵式 "wikilink")》：2015年9月3日09:50-11:40直播。
   - 《[區議會選舉](../Page/2015年香港區議會選舉.md "wikilink")》：2015年11月22日22:25-23:30直播。
   - 《區議會新兵》：2016年1月8日16:30-17:00播出。
   - 《2016台灣大選》：2016年1月16日16:00-18:00直播。
   - 《[立法會新界東選舉論壇](../Page/2016年香港立法會新界東地方選區補選.md "wikilink")》：2016年2月15日09:30-11:00播出。
-  - 《[2016立法會選舉論壇](../Page/2016年香港立法會選舉.md "wikilink")》：2016年8月29日至9月2日於《時事全方位》節目內（10:30-11:00）播出。（now新聞台只播五個功能界別的論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
-  - 《[2016立法會選舉](../Page/2016年香港立法會選舉.md "wikilink")
+  - 《[2016立法會選舉論壇](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")》：2016年8月29日至9月2日於《時事全方位》節目內（10:30-11:00）播出。（now新聞台只播五個功能界別的論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
+  - 《[2016立法會選舉](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")
     點票直撃》：2016年9月4日22:30至9月5日19:00播出（但9月5日13:00後每半小時最後一節改為報道其他新聞）。
-  - 《[2017行政長官選舉辯論](../Page/2017年行政長官選舉辯論.md "wikilink")》：2017年3月14日20:00-22:00播出。
+  - 《[2017行政長官選舉辯論](https://zh.wikipedia.org/wiki/2017年行政長官選舉辯論 "wikilink")》：2017年3月14日20:00-22:00播出。
 
 ### 大事回顧
 
@@ -318,70 +318,70 @@ Sports提供](../Page/Now寬頻電視體育平台.md "wikilink")。而Now新聞�
 正常情況下新聞報道每半小時一節，並於每小時00及30分開始播映（最大誤差：-2 至
 +2），各節新聞時段如下：（**粗體**表示與[ViuTV聯播](../Page/ViuTV.md "wikilink")）
 
-|       |                                                                                                                                        |                                                                                              |                                                   |     |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------- | --- |
-| 時間    | 港股交易日                                                                                                                                  | 星期一至五公眾假期                                                                                    | 星期六                                               | 星期日 |
-| 06:00 | <span style="color: green;">**《now早晨》</span>**                                                                                         | <span style="color: green;">**《now早晨》</span>**及<span style="color: purple;">重播《新聞智庫》</span>  |                                                   |     |
-| 08:00 | <span style="color: green;">《now早晨》</span>及<span style="color: purple;">重播《新聞智庫》</span>                                                |                                                                                              |                                                   |     |
-| 09:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       |                                                   |     |
-| 09:20 | <span style="color: purple;">重播《[理財有方](../Page/理財有方.md "wikilink")》</span>                                                             | <span style="color: purple;">重播《[商滙大灣區](../Page/商滙大灣區.md "wikilink")》</span>                 |                                                   |     |
-| 09:30 | <span style="color: green;">《時事全方位》</span>及<span style="color: orange;">直播</span>                                                      | <span style="color: blue;">錄播</span>                                                         | <span style="color: blue;">錄播</span>              |     |
-| 09:50 | <span style="color: purple;">重播《理財有方》</span>                                                                                           | <span style="color: purple;">重播《商滙大灣區》</span>                                                |                                                   |     |
-| 10:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       |                                                   |     |
-| 10:15 | <span style="color: purple;">重播《杏林在線》</span>                                                                                           |                                                                                              |                                                   |     |
-| 10:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         |                                                   |     |
-| 10:45 | <span style="color: purple;">重播《杏林在線》</span>                                                                                           |                                                                                              |                                                   |     |
-| 11:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       |                                                   |     |
-| 11:20 | <span style="color: purple;">重播《商滙大灣區》</span>                                                                                          | <span style="color: purple;">重播《理財有方》</span>                                                 |                                                   |     |
-| 11:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         |                                                   |     |
-| 11:50 | <span style="color: purple;">重播《商滙大灣區》</span>                                                                                          | <span style="color: purple;">重播《理財有方》</span>                                                 |                                                   |     |
-| 12:00 | <span style="color: orange;">**直播《now午間新聞》**</span>                                                                                    | <span style="color: orange;">**直播《now午間新聞》**</span>                                          |                                                   |     |
-| 12:20 | <span style="color: purple;">重播：《經緯人·物誌》（星期二）／《都會藍圖/新屋入伙》（星期三）／《示位Show/樓計飾》（星期四）</span>                                                |                                                                                              |                                                   |     |
-| 12:30 | <span style="color: blue;">錄播《now午間新聞》</span>                                                                                          | <span style="color: blue;">錄播《now午間新聞》</span>                                                |                                                   |     |
-| 12:50 | <span style="color: purple;">重播：《經緯人·物誌》（星期二）／《都會藍圖/新屋入伙》（星期三）／《示位Show/樓計飾》（星期四）</span>                                                |                                                                                              |                                                   |     |
-| 13:00 | <span style="color: orange;">直播《now午間新聞》</span>                                                                                        | <span style="color: orange;">直播《now午間新聞》</span>及<span style="color: purple;">重播《新聞智庫》</span> |                                                   |     |
-| 13:30 | <span style="color: red;">《[經緯線](../Page/經緯線_\(電視節目\).md "wikilink")》（星期一）</span>／<span style="color: blue;">錄播《now午間新聞》（星期二至五）</span> | <span style="color: blue;">錄播《now午間新聞》</span>及<span style="color: purple;">重播《新聞智庫》</span>   |                                                   |     |
-| 14:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       | <span style="color: orange;">直播</span>            |     |
-| 14:20 | <span style="color: green;">《環球薈報》</span>                                                                                              | <span style="color: purple;">《示位Show/樓計飾》</span>                                             | <span style="color: purple;">《都會藍圖/新屋入伙》</span>   |     |
-| 14:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         | <span style="color: blue;">錄播</span>              |     |
-| 14:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《示位Show/樓計飾》</span>                                           | <span style="color: purple;">重播《都會藍圖/新屋入伙》</span> |     |
-| 15:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                              |                                                   |     |
-| 15:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                              |                                                   |     |
-| 16:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       |                                                   |     |
-| 16:20 | <span style="color: purple;">重播《杏林在線》（星期一至二）</span>                                                                                    | <span style="color: purple;">重播《新聞智庫》</span>                                                 |                                                   |     |
-| 16:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         |                                                   |     |
-| 16:50 | <span style="color: purple;">重播《杏林在線》（星期二）</span>                                                                                      | <span style="color: purple;">重播《新聞智庫》</span>                                                 |                                                   |     |
-| 17:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                       | <span style="color: orange;">直播</span>            |     |
-| 17:20 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: green;">《[氣象冷知識](../Page/氣象冷知識.md "wikilink")》</span>                    | <span style="color: purple;">重播《新聞智庫》</span>      |     |
-| 17:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         | <span style="color: blue;">錄播</span>              |     |
-| 17:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《氣象冷知識》</span>                                                | <span style="color: purple;">重播《新聞智庫》</span>      |     |
-| 18:00 | <span style="color: orange;">**直播</span>及<span style="color: red;">《新聞智庫》**</span>                                                     | <span style="color: orange;">**直播**</span>                                                   |                                                   |     |
-| 18:30 | <span style="color: orange;">直播</span>及<span style="color: red;">《體育快訊》</span>                                                         | <span style="color: blue;">錄播</span>                                                         |                                                   |     |
-| 19:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                              |                                                   |     |
-| 19:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                              |                                                   |     |
-| 20:00 | <span style="color: orange;">**直播**</span>                                                                                             |                                                                                              |                                                   |     |
-| 20:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                              |                                                   |     |
-| 21:00 | <span style="color: orange;">直播《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》</span>                                                           | <span style="color: orange;">直播</span>                                                       | <span style="color: orange;">直播</span>            |     |
-| 21:20 | <span style="color: red;">《杏林在線》（星期一、五）</span>                                                                                         |                                                                                              |                                                   |     |
-| 21:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                         |                                                   |     |
-| 21:40 | <span style="color: red;">《杏林在線》（星期一、五）</span>                                                                                         |                                                                                              |                                                   |     |
-| 21:50 | <span style="color: purple;">重播《體育快訊》</span>                                                                                           | <span style="color: purple;">重播《杏林在線》（星期一、五）</span>                                          |                                                   |     |
-| 22:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                              |                                                   |     |
-| 22:30 | <span style="color: purple;">重播《經緯線》（星期一）</span>／<span style="color: blue;">錄播（星期二至日）</span>                                           |                                                                                              |                                                   |     |
-| 23:00 | <span style="color: orange;">直播《now深宵新聞》（1）</span>                                                                                     |                                                                                              |                                                   |     |
-| 23:30 | <span style="color: orange;">直播《now深宵新聞》（2）</span>                                                                                     |                                                                                              |                                                   |     |
-| 00:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 00:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
-| 01:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 01:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
-| 02:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 02:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
-| 03:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 03:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
-| 04:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 04:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
-| 05:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                              |                                                   |     |
-| 05:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                              |                                                   |     |
+|       |                                                                                                                                        |                                                                                                 |                                                   |     |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- | --- |
+| 時間    | 港股交易日                                                                                                                                  | 星期一至五公眾假期                                                                                       | 星期六                                               | 星期日 |
+| 06:00 | <span style="color: green;">**《now早晨》</span>**                                                                                         | <span style="color: green;">**《now早晨》</span>**及<span style="color: purple;">重播《新聞智庫》</span>     |                                                   |     |
+| 08:00 | <span style="color: green;">《now早晨》</span>及<span style="color: purple;">重播《新聞智庫》</span>                                                |                                                                                                 |                                                   |     |
+| 09:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          |                                                   |     |
+| 09:20 | <span style="color: purple;">重播《[理財有方](https://zh.wikipedia.org/wiki/理財有方 "wikilink")》</span>                                          | <span style="color: purple;">重播《[商滙大灣區](https://zh.wikipedia.org/wiki/商滙大灣區 "wikilink")》</span> |                                                   |     |
+| 09:30 | <span style="color: green;">《時事全方位》</span>及<span style="color: orange;">直播</span>                                                      | <span style="color: blue;">錄播</span>                                                            | <span style="color: blue;">錄播</span>              |     |
+| 09:50 | <span style="color: purple;">重播《理財有方》</span>                                                                                           | <span style="color: purple;">重播《商滙大灣區》</span>                                                   |                                                   |     |
+| 10:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          |                                                   |     |
+| 10:15 | <span style="color: purple;">重播《杏林在線》</span>                                                                                           |                                                                                                 |                                                   |     |
+| 10:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
+| 10:45 | <span style="color: purple;">重播《杏林在線》</span>                                                                                           |                                                                                                 |                                                   |     |
+| 11:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          |                                                   |     |
+| 11:20 | <span style="color: purple;">重播《商滙大灣區》</span>                                                                                          | <span style="color: purple;">重播《理財有方》</span>                                                    |                                                   |     |
+| 11:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
+| 11:50 | <span style="color: purple;">重播《商滙大灣區》</span>                                                                                          | <span style="color: purple;">重播《理財有方》</span>                                                    |                                                   |     |
+| 12:00 | <span style="color: orange;">**直播《now午間新聞》**</span>                                                                                    | <span style="color: orange;">**直播《now午間新聞》**</span>                                             |                                                   |     |
+| 12:20 | <span style="color: purple;">重播：《經緯人·物誌》（星期二）／《都會藍圖/新屋入伙》（星期三）／《示位Show/樓計飾》（星期四）</span>                                                |                                                                                                 |                                                   |     |
+| 12:30 | <span style="color: blue;">錄播《now午間新聞》</span>                                                                                          | <span style="color: blue;">錄播《now午間新聞》</span>                                                   |                                                   |     |
+| 12:50 | <span style="color: purple;">重播：《經緯人·物誌》（星期二）／《都會藍圖/新屋入伙》（星期三）／《示位Show/樓計飾》（星期四）</span>                                                |                                                                                                 |                                                   |     |
+| 13:00 | <span style="color: orange;">直播《now午間新聞》</span>                                                                                        | <span style="color: orange;">直播《now午間新聞》</span>及<span style="color: purple;">重播《新聞智庫》</span>    |                                                   |     |
+| 13:30 | <span style="color: red;">《[經緯線](../Page/經緯線_\(電視節目\).md "wikilink")》（星期一）</span>／<span style="color: blue;">錄播《now午間新聞》（星期二至五）</span> | <span style="color: blue;">錄播《now午間新聞》</span>及<span style="color: purple;">重播《新聞智庫》</span>      |                                                   |     |
+| 14:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          | <span style="color: orange;">直播</span>            |     |
+| 14:20 | <span style="color: green;">《環球薈報》</span>                                                                                              | <span style="color: purple;">《示位Show/樓計飾》</span>                                                | <span style="color: purple;">《都會藍圖/新屋入伙》</span>   |     |
+| 14:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            | <span style="color: blue;">錄播</span>              |     |
+| 14:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《示位Show/樓計飾》</span>                                              | <span style="color: purple;">重播《都會藍圖/新屋入伙》</span> |     |
+| 15:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                                 |                                                   |     |
+| 15:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                                 |                                                   |     |
+| 16:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          |                                                   |     |
+| 16:20 | <span style="color: purple;">重播《杏林在線》（星期一至二）</span>                                                                                    | <span style="color: purple;">重播《新聞智庫》</span>                                                    |                                                   |     |
+| 16:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
+| 16:50 | <span style="color: purple;">重播《杏林在線》（星期二）</span>                                                                                      | <span style="color: purple;">重播《新聞智庫》</span>                                                    |                                                   |     |
+| 17:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          | <span style="color: orange;">直播</span>            |     |
+| 17:20 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: green;">《[氣象冷知識](https://zh.wikipedia.org/wiki/氣象冷知識 "wikilink")》</span>    | <span style="color: purple;">重播《新聞智庫》</span>      |     |
+| 17:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            | <span style="color: blue;">錄播</span>              |     |
+| 17:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《氣象冷知識》</span>                                                   | <span style="color: purple;">重播《新聞智庫》</span>      |     |
+| 18:00 | <span style="color: orange;">**直播</span>及<span style="color: red;">《新聞智庫》**</span>                                                     | <span style="color: orange;">**直播**</span>                                                      |                                                   |     |
+| 18:30 | <span style="color: orange;">直播</span>及<span style="color: red;">《體育快訊》</span>                                                         | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
+| 19:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                                 |                                                   |     |
+| 19:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                                 |                                                   |     |
+| 20:00 | <span style="color: orange;">**直播**</span>                                                                                             |                                                                                                 |                                                   |     |
+| 20:30 | <span style="color: blue;">錄播</span>                                                                                                   |                                                                                                 |                                                   |     |
+| 21:00 | <span style="color: orange;">直播《[時事9點鐘](../Page/時事9點鐘.md "wikilink")》</span>                                                           | <span style="color: orange;">直播</span>                                                          | <span style="color: orange;">直播</span>            |     |
+| 21:20 | <span style="color: red;">《杏林在線》（星期一、五）</span>                                                                                         |                                                                                                 |                                                   |     |
+| 21:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
+| 21:40 | <span style="color: red;">《杏林在線》（星期一、五）</span>                                                                                         |                                                                                                 |                                                   |     |
+| 21:50 | <span style="color: purple;">重播《體育快訊》</span>                                                                                           | <span style="color: purple;">重播《杏林在線》（星期一、五）</span>                                             |                                                   |     |
+| 22:00 | <span style="color: orange;">直播</span>                                                                                                 |                                                                                                 |                                                   |     |
+| 22:30 | <span style="color: purple;">重播《經緯線》（星期一）</span>／<span style="color: blue;">錄播（星期二至日）</span>                                           |                                                                                                 |                                                   |     |
+| 23:00 | <span style="color: orange;">直播《now深宵新聞》（1）</span>                                                                                     |                                                                                                 |                                                   |     |
+| 23:30 | <span style="color: orange;">直播《now深宵新聞》（2）</span>                                                                                     |                                                                                                 |                                                   |     |
+| 00:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 00:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 01:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 01:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 02:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 02:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 03:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 03:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 04:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 04:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 05:00 | <span style="color: blue;">錄播《now深宵新聞》（1）</span>                                                                                       |                                                                                                 |                                                   |     |
+| 05:30 | <span style="color: blue;">錄播《now深宵新聞》（2）</span>                                                                                       |                                                                                                 |                                                   |     |
 
   - 可對比[ViuTV啟播之前](../Page/ViuTV.md "wikilink")\[18\]及之後\[19\]的now新聞台節目表。
 

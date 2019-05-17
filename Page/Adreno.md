@@ -1,6 +1,6 @@
-**Adreno**是由[高通开发的](../Page/高通.md "wikilink")[SIP核](../Page/IP核.md "wikilink")[GPU并用于其自家的](../Page/GPU.md "wikilink")[SoC](../Page/系统芯片.md "wikilink")，該核心最初作為從事GPU開發工作。
+**Adreno**是由[高通开发的](../Page/高通.md "wikilink")[SIP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")[GPU并用于其自家的](https://zh.wikipedia.org/wiki/GPU "wikilink")[SoC](../Page/系统芯片.md "wikilink")，該核心最初作為從事GPU開發工作。
 
-2006年，BitBoys被[ATI收购开設Imageon产品线](../Page/ATI.md "wikilink")。2006年[AMD收购](../Page/AMD.md "wikilink")[ATI](../Page/ATI.md "wikilink")。2009年1月，[AMD出售Imageon予](../Page/AMD.md "wikilink")[高通](../Page/高通.md "wikilink")\[1\]。随后，Imageon被更名为Adreno。
+2006年，BitBoys被[ATI收购开設Imageon产品线](https://zh.wikipedia.org/wiki/ATI "wikilink")。2006年[AMD收购](https://zh.wikipedia.org/wiki/AMD "wikilink")[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")。2009年1月，[AMD出售Imageon予](https://zh.wikipedia.org/wiki/AMD "wikilink")[高通](../Page/高通.md "wikilink")\[1\]。随后，Imageon被更名为Adreno。
 
 ## Adreno技术信息
 
@@ -10,11 +10,11 @@
 <thead>
 <tr class="header">
 <th><p>名称</p></th>
-<th><p><a href="../Page/微架构.md" title="wikilink">微架构</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></th>
 <th><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></th>
-<th><p>時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></th>
-<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
-<th><p><a href="../Page/FLOPS.md" title="wikilink">GFLOPS</a></p></th>
+<th><p>時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/FLOPS" title="wikilink">GFLOPS</a></p></th>
 <th><p><a href="../Page/应用程序接口.md" title="wikilink">API</a></p></th>
 <th><p>高通芯片中的应用</p></th>
 <th><p>引用</p></th>
@@ -23,13 +23,13 @@
 <tbody>
 <tr class="odd">
 <td><p>架构类型</p></td>
-<td><p><a href="../Page/算术逻辑单元.md" title="wikilink">ALU</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/算术逻辑单元" title="wikilink">ALU</a></p></td>
 <td><p>百万三角形/s</p></td>
 <td><p>像素 (<a href="../Page/像素.md" title="wikilink">GP</a>/s)</p></td>
 <td><p>材质 (<a href="../Page/纹素.md" title="wikilink">GT</a>/s)</p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
-<td><p><a href="../Page/OpenVG.md" title="wikilink">OpenVG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
@@ -67,8 +67,8 @@
 </tr>
 <tr class="odd">
 <td><p>Adreno 200 (AMD Z430)</p></td>
-<td><p><a href="../Page/统一着色器模型.md" title="wikilink">统一着色器模型</a><br />
-5-way <a href="../Page/超长指令字.md" title="wikilink">VLIW</a>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a><br />
+5-way <a href="https://zh.wikipedia.org/wiki/超长指令字" title="wikilink">VLIW</a>[2]</p></td>
 <td><p>8</p></td>
 <td><p>65</p></td>
 <td><p>133</p></td>
@@ -145,7 +145,7 @@
 </tr>
 <tr class="even">
 <td><p>Adreno 302</p></td>
-<td><p><a href="../Page/统一着色器模型.md" title="wikilink">统一着色器模型</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a><br />
 标量指令集[3]</p></td>
 <td><p>24</p></td>
 <td><p>28</p></td>
@@ -164,7 +164,7 @@
 <td></td>
 <td></td>
 <td><p>19.2</p></td>
-<td><p><a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_208.md" title="wikilink">Snapdragon 208</a>, <a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_210_and_212.md" title="wikilink">Snapdragon 210</a>, <a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_210_and_212.md" title="wikilink">Snapdragon 212</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_208" title="wikilink">Snapdragon 208</a>, <a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_210_and_212" title="wikilink">Snapdragon 210</a>, <a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_210_and_212" title="wikilink">Snapdragon 212</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Adreno 305</p></td>
@@ -175,7 +175,7 @@
 <td><p>0.8</p></td>
 <td></td>
 <td><p>19.2/21.6</p></td>
-<td><p>Snapdragon S4 Plus (MSM8x27), <a href="../Page/Snapdragon_400.md" title="wikilink">Snapdragon 400</a>[4] (MSM8x26, MSM8x28, MSM8x30, MSM8x30AB, APQ8026, APQ8030)</p></td>
+<td><p>Snapdragon S4 Plus (MSM8x27), <a href="https://zh.wikipedia.org/wiki/Snapdragon_400" title="wikilink">Snapdragon 400</a>[4] (MSM8x26, MSM8x28, MSM8x30, MSM8x30AB, APQ8026, APQ8030)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Adreno 306</p></td>
@@ -186,7 +186,7 @@
 <td></td>
 <td></td>
 <td><p>21.6</p></td>
-<td><p><a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_410_and_412.md" title="wikilink">Snapdragon 410</a> (MSM8916), <a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_410_and_412.md" title="wikilink">Snapdragon 412</a> (MSM8916v2)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_410_and_412" title="wikilink">Snapdragon 410</a> (MSM8916), <a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_410_and_412" title="wikilink">Snapdragon 412</a> (MSM8916v2)</p></td>
 </tr>
 <tr class="even">
 <td><p>Adreno 308</p></td>
@@ -219,7 +219,7 @@
 <td><p>2.4/2.7</p></td>
 <td></td>
 <td><p>86.4/97.2</p></td>
-<td><p><a href="../Page/Snapdragon_600.md" title="wikilink">Snapdragon 600</a> (APQ8064T, APQ8064AB)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Snapdragon_600" title="wikilink">Snapdragon 600</a> (APQ8064T, APQ8064AB)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Adreno 330</p></td>
@@ -230,7 +230,7 @@
 <td><p>3.6/4.4/4.624</p></td>
 <td></td>
 <td><p>129.8/158.4/166.5</p></td>
-<td><p><a href="../Page/Snapdragon_800.md" title="wikilink">Snapdragon 800</a> (MSM8974, APQ8074), <a href="../Page/List_of_Qualcomm_Snapdragon_devices#Snapdragon_801.md" title="wikilink">Snapdragon 801</a> (MSM8274AB, MSM8974AB, MSM8974AC)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Snapdragon_800" title="wikilink">Snapdragon 800</a> (MSM8974, APQ8074), <a href="https://zh.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_devices#Snapdragon_801" title="wikilink">Snapdragon 801</a> (MSM8274AB, MSM8974AB, MSM8974AC)</p></td>
 </tr>
 <tr class="even">
 <td><p>Adreno 4xx</p></td>
@@ -245,7 +245,7 @@
 </tr>
 <tr class="odd">
 <td><p>Adreno 405</p></td>
-<td><p><a href="../Page/统一着色器模型.md" title="wikilink">统一着色器模型</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a></p></td>
 <td><p>48</p></td>
 <td><p>28</p></td>
 <td><p>550</p></td>
@@ -300,8 +300,8 @@
 </tr>
 <tr class="even">
 <td><p>Adreno 505</p></td>
-<td><p><a href="../Page/统一着色器模型.md" title="wikilink">统一着色器模型</a><br />
-<a href="../Page/共享内存.md" title="wikilink">统一内存</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a><br />
+<a href="https://zh.wikipedia.org/wiki/共享内存" title="wikilink">统一内存</a></p></td>
 <td><p>48</p></td>
 <td><p>28</p></td>
 <td><p>450</p></td>
@@ -400,8 +400,8 @@
 </tr>
 <tr class="odd">
 <td><p>Adreno 605</p></td>
-<td><p><a href="../Page/统一着色器模型.md" title="wikilink">统一着色器模型</a><br />
-<a href="../Page/共享内存.md" title="wikilink">统一内存</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/统一着色器模型" title="wikilink">统一着色器模型</a><br />
+<a href="https://zh.wikipedia.org/wiki/共享内存" title="wikilink">统一内存</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -478,24 +478,24 @@
 </tr>
 <tr class="even">
 <td><p>名称</p></td>
-<td><p><a href="../Page/微架构.md" title="wikilink">微架构</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></td>
 <td><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></td>
-<td><p>時脈 (<a href="../Page/Hertz.md" title="wikilink">MHz</a>)</p></td>
-<td><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></td>
-<td><p><a href="../Page/FLOPS.md" title="wikilink">GFLOPS</a></p></td>
+<td><p>時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FLOPS" title="wikilink">GFLOPS</a></p></td>
 <td><p><a href="../Page/应用程序接口.md" title="wikilink">API</a></p></td>
 <td><p>高通芯片中的应用</p></td>
 <td><p>引用</p></td>
 </tr>
 <tr class="odd">
 <td><p>架构类型</p></td>
-<td><p><a href="../Page/算术逻辑单元.md" title="wikilink">ALU</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/算术逻辑单元" title="wikilink">ALU</a></p></td>
 <td><p>百万三角形/s</p></td>
 <td><p>像素 (<a href="../Page/像素.md" title="wikilink">GP</a>/s)</p></td>
 <td><p>材质 (<a href="../Page/纹素.md" title="wikilink">GT</a>/s)</p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
-<td><p><a href="../Page/OpenVG.md" title="wikilink">OpenVG</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 </tbody>
@@ -504,12 +504,13 @@
 ### 系统支持
 
 由高通提供基于[Linux的](../Page/Linux.md "wikilink")[Android操作系统专有驱动](../Page/Android.md "wikilink")。
-曾经仅能通过[libhybris包装后才能在非](../Page/Hybris_\(软件\).md "wikilink")[Android发行版的](../Page/Android.md "wikilink")[Linux上驱动](../Page/Linux.md "wikilink")。
+曾经仅能通过[libhybris包装后才能在非](https://zh.wikipedia.org/wiki/Hybris_\(软件\) "wikilink")[Android发行版的](../Page/Android.md "wikilink")[Linux上驱动](../Page/Linux.md "wikilink")。
 
 ## 历史
 
-**Imageon**（原 **ATI Imageon**）是由 [ATI](../Page/ATI.md "wikilink")
-开发的为[手机与](../Page/手机.md "wikilink")[PDA设备提供图形加速与其他多媒体特性的核心](../Page/PDA.md "wikilink")。
+**Imageon**（原 **ATI Imageon**）是由
+[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
+开发的为[手机与](https://zh.wikipedia.org/wiki/手机 "wikilink")[PDA设备提供图形加速与其他多媒体特性的核心](https://zh.wikipedia.org/wiki/PDA "wikilink")。
 
 Imageon
 被设计为[SoC](../Page/系统芯片.md "wikilink")。它于2002年发布，面向手持设备、移动电话与平板电脑，为其提供内置图形加速功能（2002年的产品为2D加速，而新型产品为3D加速）。
@@ -539,7 +540,7 @@ Imageon
     M180.
   - **Imageon TV** 发布于2006年2月，其为Imageon系列中首个支持Digital Video Broadcasting
     - Handheld
-    ([DVB-H](../Page/DVB-H.md "wikilink"))信号接收的产品，它使手持设备可以接收[DVB-H信号并观看电视节目](../Page/DVB-H.md "wikilink")。该芯片包含了[天线调谐器](../Page/天线调谐器.md "wikilink")、[解调制](../Page/解调制.md "wikilink")、解码与完整的软件堆栈。
+    ([DVB-H](https://zh.wikipedia.org/wiki/DVB-H "wikilink"))信号接收的产品，它使手持设备可以接收[DVB-H信号并观看电视节目](https://zh.wikipedia.org/wiki/DVB-H "wikilink")。该芯片包含了[天线调谐器](https://zh.wikipedia.org/wiki/天线调谐器 "wikilink")、[解调制](https://zh.wikipedia.org/wiki/解调制 "wikilink")、解码与完整的软件堆栈。
 
 2008年巴塞罗那移动通信大会上更新的Imageon系列芯片：
 
@@ -550,7 +551,7 @@ Imageon
 
   - **Imageon M210 音频处理器**
   - **Imageon Z460 3D图形核心** -
-    这是一个[半导体知识产权核](../Page/IP核.md "wikilink")，用于如[Freescale的](../Page/Freescale.md "wikilink")[i.MX5x系列应用处理器](../Page/I.MX.md "wikilink")
+    这是一个[半导体知识产权核](https://zh.wikipedia.org/wiki/IP核 "wikilink")，用于如[Freescale的](https://zh.wikipedia.org/wiki/Freescale "wikilink")[i.MX5x系列应用处理器](https://zh.wikipedia.org/wiki/I.MX "wikilink")
   - **Imageon Z180 矢量图形核心**
 
 ## 参见
@@ -559,17 +560,23 @@ Imageon
     Technologies](../Page/Imagination_Technologies.md "wikilink")
     研发的移动GPU，用于第三方授权。
   - [Mali](../Page/Mali_\(GPU\).md "wikilink") – [ARM
-    Norway](../Page/ARM_Norway.md "wikilink") 研发的移动GPU，用于第三方授权。
-  - [Vivante](../Page/图芯技术.md "wikilink") –
-    [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
-  - [Tegra](../Page/Tegra.md "wikilink") –
-    [NVIDIA](../Page/NVIDIA.md "wikilink") 研发的移动SoC，不向第三方授权。
-  - [VideoCore](../Page/VideoCore.md "wikilink") –
-    [Broadcom](../Page/Broadcom.md "wikilink") 研发的移动GPU，允许第三方授权。
-  - [Intel Atom](../Page/Intel_Atom.md "wikilink") –
-    [Intel](../Page/Intel.md "wikilink") 计算机处理器产品，不向第三方授权。
+    Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")
+    研发的移动GPU，用于第三方授权。
+  - [Vivante](https://zh.wikipedia.org/wiki/图芯技术 "wikilink") –
+    [图芯技术](https://zh.wikipedia.org/wiki/图芯技术 "wikilink")
+    研发的移动GPU，用于第三方授权。
+  - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") –
+    [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
+    研发的移动SoC，不向第三方授权。
+  - [VideoCore](https://zh.wikipedia.org/wiki/VideoCore "wikilink") –
+    [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
+    研发的移动GPU，允许第三方授权。
+  - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") –
+    [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+    计算机处理器产品，不向第三方授权。
   - [AMD APU](../Page/AMD加速处理器.md "wikilink") –
-    [AMD](../Page/AMD.md "wikilink") 计算机处理器产品，不向第三方授权。
+    [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
+    计算机处理器产品，不向第三方授权。
 
 ## 引用
 

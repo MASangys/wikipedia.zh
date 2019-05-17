@@ -1,12 +1,12 @@
-**TMA**（）是[日本一家](../Page/日本.md "wikilink")[成人视频制造商](../Page/成人视频制造商.md "wikilink")。
+**TMA**（）是[日本一家](../Page/日本.md "wikilink")[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")。
 
 ## 公司简介
 
-TMA于1990年10月成立于[东京都](../Page/东京都.md "wikilink")[丰岛区](../Page/丰岛区.md "wikilink")，主业为拍摄[角色扮演色情影片](../Page/角色扮演色情影片.md "wikilink")\[1\]；其作品大多基于时下流行的漫画或动画\[2\]，如《[幸運☆星](../Page/幸運☆星.md "wikilink")》、《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》以及《[轻音少女](../Page/轻音少女.md "wikilink")》。
+TMA于1990年10月成立于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[丰岛区](https://zh.wikipedia.org/wiki/丰岛区 "wikilink")，主业为拍摄[角色扮演色情影片](https://zh.wikipedia.org/wiki/角色扮演色情影片 "wikilink")\[1\]；其作品大多基于时下流行的漫画或动画\[2\]，如《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》、《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》以及《[轻音少女](https://zh.wikipedia.org/wiki/轻音少女 "wikilink")》。
 
-TMA亦是探索成人色情影片[新媒体的先锋](../Page/新媒体.md "wikilink")。2005年8月12日，TMA发布了适用于[PlayStation
-Portable的以](../Page/PlayStation_Portable.md "wikilink")[通用媒体光盘作为](../Page/通用媒体光盘.md "wikilink")[存储介质的影片](../Page/存储介质.md "wikilink")\[3\]；两年后，当[Blu-ray格式还在与](../Page/Blu-ray.md "wikilink")[HD
-DVD竞争时](../Page/HD_DVD.md "wikilink")，TMA发售了成人色情影片业界第一张[蓝光光碟作品](../Page/蓝光光碟.md "wikilink")，成为日本第一家以蓝光光碟作为存储介质进行成人色情影片发售的公司。\[4\]
+TMA亦是探索成人色情影片[新媒体的先锋](https://zh.wikipedia.org/wiki/新媒体 "wikilink")。2005年8月12日，TMA发布了适用于[PlayStation
+Portable的以](../Page/PlayStation_Portable.md "wikilink")[通用媒体光盘作为](https://zh.wikipedia.org/wiki/通用媒体光盘 "wikilink")[存储介质的影片](https://zh.wikipedia.org/wiki/存储介质 "wikilink")\[3\]；两年后，当[Blu-ray格式还在与](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[HD
+DVD竞争时](../Page/HD_DVD.md "wikilink")，TMA发售了成人色情影片业界第一张[蓝光光碟作品](https://zh.wikipedia.org/wiki/蓝光光碟 "wikilink")，成为日本第一家以蓝光光碟作为存储介质进行成人色情影片发售的公司。\[4\]
 
 TMA现在产量为每个月16部影片。
 
@@ -33,7 +33,7 @@ TMA现在产量为每个月16部影片。
 </tr>
 <tr class="odd">
 <td><p>Faith/stay knight</p></td>
-<td><p><a href="../Page/Fate/stay_night.md" title="wikilink">Fate/stay night</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/stay_night" title="wikilink">Fate/stay night</a></p></td>
 <td><p>Faith/stay knight</p></td>
 </tr>
 <tr class="even">
@@ -118,7 +118,7 @@ TMA现在产量为每个月16部影片。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Steins;Gate.md" title="wikilink">Steins;Gate</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Steins;Gate" title="wikilink">Steins;Gate</a></p></td>
 <td><p>LAYERS;GATE</p></td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@ TMA现在产量为每个月16部影片。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/Fate/Zero.md" title="wikilink">Fate/Zero</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/Zero" title="wikilink">Fate/Zero</a></p></td>
 <td><p>Faith/ero</p></td>
 </tr>
 <tr class="odd">
@@ -163,7 +163,7 @@ TMA现在产量为每个月16部影片。
 </tr>
 <tr class="odd">
 <td><p>Faith/Grand Orgasm</p></td>
-<td><p><a href="../Page/Fate/Grand_Order.md" title="wikilink">Fate/Grand Order</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Fate/Grand_Order" title="wikilink">Fate/Grand Order</a></p></td>
 <td><p>Faith/Grand Orgasm</p></td>
 </tr>
 <tr class="even">

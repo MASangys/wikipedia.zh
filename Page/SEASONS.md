@@ -11,10 +11,10 @@
     BEST](../Page/A_BEST.md "wikilink")》、2003年3月12日發行的抒情精選輯《[A
     BALLADS](../Page/A_BALLADS.md "wikilink")》、2008年發行的單曲精選輯《[A COMPLETE
     \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》和2012年8月8日發行的夏日精選輯《[A
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》和2012年8月8日發行的夏日精選輯《[A
     SUMMER BEST](../Page/A_SUMMER_BEST.md "wikilink")》當中亦收錄了本曲。
   - 本作收录的歌曲《SEASONS》是濱崎步所有歌曲當中混音次數最多的一首。
-  - 濱崎步于2000年12月31日的“[NHK紅白歌合戰](../Page/NHK紅白歌合戰.md "wikilink")”登場演唱《SEASONS》。
+  - 濱崎步于2000年12月31日的“[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")”登場演唱《SEASONS》。
 
 ## 收錄歌曲
 
@@ -38,8 +38,9 @@
         KOSÉ《VISEE 偏光編》廣告歌曲
 9.  **SEASONS "Dub's Rain of duv Remix"**
 10. **SEASONS "Original Mix -Instrumental-"**
-11. **[ever free](../Page/vogue_\(濱崎步單曲\).md "wikilink") "HΛL'S MIX
-    2000"**
+11. **[ever
+    free](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")
+    "HΛL'S MIX 2000"**
 
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

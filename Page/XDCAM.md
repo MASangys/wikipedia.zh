@@ -1,46 +1,47 @@
 [XDCAM_Camcorder_(DVCAM)_PDW-510.jpg](https://zh.wikipedia.org/wiki/File:XDCAM_Camcorder_\(DVCAM\)_PDW-510.jpg "fig:XDCAM_Camcorder_(DVCAM)_PDW-510.jpg")
-**XDCAM**為[Sony在](../Page/Sony.md "wikilink")2003年所推出的無影帶式專業錄影系統。2003年10月開始發售[SD系統商品](../Page/標準畫質電視.md "wikilink")，2006年4月開始發售[HD系統](../Page/標準畫質電視.md "wikilink")。
+**XDCAM**為[Sony在](https://zh.wikipedia.org/wiki/Sony "wikilink")2003年所推出的無影帶式專業錄影系統。2003年10月開始發售[SD系統商品](../Page/標準畫質電視.md "wikilink")，2006年4月開始發售[HD系統](../Page/標準畫質電視.md "wikilink")。
 
 XDCAM的首兩代XDCAM及XDCAM HD，使用[Professional
-Disc作儲存媒體](../Page/Professional_Disc.md "wikilink")，媒體和[Blu-ray
-Disc相似及同樣可儲存](../Page/Blu-ray_Disc.md "wikilink")23 GB（PFD23，單面）或50
-GB（PFD50，雙面）數據。第三代XDCAM
+Disc作儲存媒體](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，媒體和[Blu-ray
+Disc相似及同樣可儲存](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")23
+GB（PFD23，單面）或50 GB（PFD50，雙面）數據。第三代XDCAM
 EX，使用固態SxS記憶卡。在2008年，[JVC宣佈和Sony結盟支援XDCAM](../Page/JVC.md "wikilink")
 EX格式。
 
-為直徑12公分的光碟（付卡式外殼），與[藍光光碟使用相同波長的](../Page/Blu-ray_Disc.md "wikilink")405奈米的[藍光雷射](../Page/藍光雷射.md "wikilink")。記錄格式為[MPEG-2](../Page/MPEG-2.md "wikilink")（[MPEG
-IMX與](../Page/MPEG_IMX.md "wikilink")[MPEG
-HD](../Page/MPEG_HD.md "wikilink")）與[DVCAM](../Page/DVCAM.md "wikilink")，與[BDMV（BD-Video](../Page/BDMV.md "wikilink")（藍光光碟消費級影像格式）沒有互換性。
+為直徑12公分的光碟（付卡式外殼），與[藍光光碟使用相同波長的](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")405奈米的[藍光雷射](https://zh.wikipedia.org/wiki/藍光雷射 "wikilink")。記錄格式為[MPEG-2](../Page/MPEG-2.md "wikilink")（[MPEG
+IMX與](https://zh.wikipedia.org/wiki/MPEG_IMX "wikilink")[MPEG
+HD](https://zh.wikipedia.org/wiki/MPEG_HD "wikilink")）與[DVCAM](https://zh.wikipedia.org/wiki/DVCAM "wikilink")，與[BDMV（BD-Video](https://zh.wikipedia.org/wiki/BDMV "wikilink")（藍光光碟消費級影像格式）沒有互換性。
 
 XDCAM產品範圍包括了[攝影機和](../Page/攝影機.md "wikilink")[錄影機](../Page/錄影機.md "wikilink")，作為突發取代傳統錄影機的格式，容許XDCAM光碟可以應用在傳統影帶式的工作流程。其錄影機亦可作為隨機存取磁碟機，以[IEEE
-1394及](../Page/IEEE_1394.md "wikilink")[以太網等途徑容易匯入錄像到](../Page/以太網.md "wikilink")[非線性編輯系統](../Page/非線性編輯.md "wikilink")。所以與過去使用影帶的錄影機系統比起來，進行非線性編輯更容易。
+1394及](../Page/IEEE_1394.md "wikilink")[以太網等途徑容易匯入錄像到](https://zh.wikipedia.org/wiki/以太網 "wikilink")[非線性編輯系統](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")。所以與過去使用影帶的錄影機系統比起來，進行非線性編輯更容易。
 
 ## 壓縮方式
 
-XDCAM格式使用數種不同的壓縮方式和儲存格式。雖然DVCAM及IMX獨立型號有提供，很多[標清XDCAM攝影機可簡易切換IMX至DVCAM等格式](../Page/標清.md "wikilink")。
+XDCAM格式使用數種不同的壓縮方式和儲存格式。雖然DVCAM及IMX獨立型號有提供，很多[標清XDCAM攝影機可簡易切換IMX至DVCAM等格式](https://zh.wikipedia.org/wiki/標清 "wikilink")。
 
 ### IMX（MPEG IMX）
 
 IMX容許錄影標清視訊，使用MPEG-2編碼，位元率達30、40或50 Mbit/s。
 
 MPEG IMX不使用暫時壓縮，這可適合作剪接格式。50 Mbit/s的品質在視覺上可和[Digital
-Betacam比較](../Page/Betacam#Digital_Betacam.md "wikilink")，及常作電視製作用途，主要是[電子新聞採集](../Page/電子新聞採集.md "wikilink")，因在實際上色彩解像度（DigiBeta的10位元對IMX的8位元）和更低壓縮比比Digital
+Betacam比較](https://zh.wikipedia.org/wiki/Betacam#Digital_Betacam "wikilink")，及常作電視製作用途，主要是[電子新聞採集](https://zh.wikipedia.org/wiki/電子新聞採集 "wikilink")，因在實際上色彩解像度（DigiBeta的10位元對IMX的8位元）和更低壓縮比比Digital
 Betcam更好。
 
 ### DVCAM（DV25）
 
-DVCAM使用標準[DV編碼](../Page/DV.md "wikilink")，位元率高達25 Mbit/s，相容於大部分DV剪接系統。
+DVCAM使用標準[DV編碼](https://zh.wikipedia.org/wiki/DV "wikilink")，位元率高達25
+Mbit/s，相容於大部分DV剪接系統。
 
 ### XDCAM HD（XDCAM HD420, MPEG HD420）
 
 XDCAM HD支援多種品質模式。HQ模式位元率可達35
-Mbit/s，使用可變動位元率（[VBR](../Page/VBR.md "wikilink")）MPEG-2長GOP式壓縮。可選的18
+Mbit/s，使用可變動位元率（[VBR](https://zh.wikipedia.org/wiki/VBR "wikilink")）MPEG-2長GOP式壓縮。可選的18
 Mbit/s（VBR）及25
-Mbit/s（[CBR](../Page/CBR.md "wikilink")）模式可增加錄影時間，相對地減少視訊品質。
+Mbit/s（[CBR](https://zh.wikipedia.org/wiki/CBR "wikilink")）模式可增加錄影時間，相對地減少視訊品質。
 
 ### XDCAM HD422（MPEG HD422）
 
-第三代XDCAM使用4:2:2抽樣的MPEG-2編碼，比以往的格式有雙倍[色度解像度](../Page/色度抽樣.md "wikilink")。為可容納更細緻的色度，最大位元率增加至50
+第三代XDCAM使用4:2:2抽樣的MPEG-2編碼，比以往的格式有雙倍[色度解像度](https://zh.wikipedia.org/wiki/色度抽樣 "wikilink")。為可容納更細緻的色度，最大位元率增加至50
 Mbit/s。
 
 2008年後期，Sony推出了PDW-700攝影機及PDW-HD1500半體積錄影機。同時，Sony亦藉着免費韌體升級，擴展XDCAM
@@ -87,9 +88,9 @@ Disc*](https://web.archive.org/web/20080406123900/http://bssc.sel.sony.com/Broad
 
 ## 沿革
 
-  - 2007年4月15日，於[全美廣播事業者聯盟年會上](../Page/全美廣播事業者聯盟.md "wikilink")，發表了記憶媒體為「SxS
+  - 2007年4月15日，於[全美廣播事業者聯盟年會上](https://zh.wikipedia.org/wiki/全美廣播事業者聯盟 "wikilink")，發表了記憶媒體為「SxS
     Memory
-    Card」（[SONY和](../Page/SONY.md "wikilink")[SanDisk聯合開發之](../Page/SanDisk.md "wikilink")[快閃記憶體](../Page/快閃記憶體.md "wikilink")）之「XDCAM
+    Card」（[SONY和](https://zh.wikipedia.org/wiki/SONY "wikilink")[SanDisk聯合開發之](https://zh.wikipedia.org/wiki/SanDisk "wikilink")[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")）之「XDCAM
     EX」試作機，以及對應雙層Professional Disc之XDCAM\[1\]。
 
 ## 關聯項目

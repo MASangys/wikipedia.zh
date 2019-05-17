@@ -1,4 +1,4 @@
-《****》是於2008年4月25日由[戲畫發售的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。和前兩作一樣，主題曲《》是由[KOTOKO主唱](../Page/KOTOKO.md "wikilink")、[I've製作](../Page/I've.md "wikilink")。
+《****》是於2008年4月25日由[戲畫發售的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。和前兩作一樣，主題曲《》是由[KOTOKO主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、[I've製作](../Page/I've.md "wikilink")。
 
 ## 登場人物
 

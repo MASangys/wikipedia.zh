@@ -1,4 +1,4 @@
-**佳能伊克薩斯系列（IXY/PowerShot）**是[佳能旗下的輕便型](../Page/佳能.md "wikilink")[數碼相機系列](../Page/數碼相機.md "wikilink")。
+**佳能伊克薩斯系列（IXY/PowerShot）**是[佳能旗下的輕便型](../Page/佳能.md "wikilink")[數碼相機系列](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。
 
 ## 旗下產品
 
@@ -12,7 +12,7 @@ Digital ELPH</p></th>
 <th><p>Canon model</p></th>
 <th><p>Release date</p></th>
 <th><p>Sensor<br />
-res., <a href="../Page/Image_sensor_format.md" title="wikilink">size</a></p></th>
+res., <a href="https://zh.wikipedia.org/wiki/Image_sensor_format" title="wikilink">size</a></p></th>
 <th><p>Lens (35mm equiv.)<br />
 zoom, aperture</p></th>
 <th><p>Memory</p></th>
@@ -26,12 +26,12 @@ zoom, aperture</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Digital IXUS<sup><a href="../Page/#fn_1.md" title="wikilink">1</a></sup></p></td>
+<td><p>Digital IXUS<sup><a href="https://zh.wikipedia.org/wiki/#fn_1" title="wikilink">1</a></sup></p></td>
 <td><p>S100</p></td>
 <td><p>IXY Digital</p></td>
 <td><p>PC1001</p></td>
 <td><p>17 May 2000</p></td>
-<td><p>2.0 <a href="../Page/Megapixel.md" title="wikilink">MP</a><br />
+<td><p>2.0 <a href="https://zh.wikipedia.org/wiki/Megapixel" title="wikilink">MP</a><br />
 1600×1200<br />
 1/2.7"</p></td>
 <td><p>35–70 mm (2×)<br />
@@ -125,7 +125,7 @@ f/2.8–4.0</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Canon_Digital_IXUS_400.md" title="wikilink">400</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400" title="wikilink">400</a></p></td>
 <td><p>S400</p></td>
 <td><p>400</p></td>
 <td><p>PC1038</p></td>
@@ -143,7 +143,7 @@ f/2.8–4.9</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Canon_Digital_IXUS_430.md" title="wikilink">430</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430" title="wikilink">430</a></p></td>
 <td><p>S410</p></td>
 <td><p>450</p></td>
 <td><p>PC1086</p></td>
@@ -187,7 +187,7 @@ IXY Digital 500 White Limited: 10,000 units sold in Japan, June 2004[10]</p></td
 <th><p>Canon model</p></th>
 <th><p>Release date</p></th>
 <th><p>Sensor<br />
-res., <a href="../Page/Image_sensor_format.md" title="wikilink">size</a></p></th>
+res., <a href="https://zh.wikipedia.org/wiki/Image_sensor_format" title="wikilink">size</a></p></th>
 <th><p>Lens<br />
 (35 mm equiv.)<br />
 aperture</p></th>
@@ -217,10 +217,10 @@ W×H×D (mm)</p></th>
 f/2.8–3.9</p></td>
 <td><p>2×</p></td>
 <td><p>3.2×</p></td>
-<td><p><a href="../Page/DIGIC.md" title="wikilink">DIGIC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC" title="wikilink">DIGIC</a></p></td>
 <td><p>1.5"<br />
 118,000</p></td>
-<td><p><a href="../Page/Secure_Digital_card.md" title="wikilink">SD</a>, <a href="../Page/MultiMedia_Card.md" title="wikilink">MMC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Secure_Digital_card" title="wikilink">SD</a>, <a href="https://zh.wikipedia.org/wiki/MultiMedia_Card" title="wikilink">MMC</a></p></td>
 <td><p>NB-3L</p></td>
 <td><p>85.0 × 56.0 × 23.9</p></td>
 <td><p>165 g</p></td>
@@ -261,7 +261,7 @@ f/2.8–3.9</p></td>
 f/2.8–4.9</p></td>
 <td><p>3×</p></td>
 <td><p>3.6×</p></td>
-<td><p><a href="../Page/DIGIC_II.md" title="wikilink">DIGIC II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC_II" title="wikilink">DIGIC II</a></p></td>
 <td><p>2.0"<br />
 118,000</p></td>
 <td><p>SD, MMC</p></td>
@@ -467,7 +467,7 @@ f/2.8–5.5</p></td>
 <td><p>90.4 × 56.5 × 26.4</p></td>
 <td><p>165 g</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Ixus800IS.JPG" title="fig:Ixus800IS.JPG">Ixus800IS.JPG</a></p></td>
-<td><p>Introduce <a href="../Page/Image_stabilisation.md" title="wikilink">Image stabilisation</a>[22]</p></td>
+<td><p>Introduce <a href="https://zh.wikipedia.org/wiki/Image_stabilisation" title="wikilink">Image stabilisation</a>[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Digital IXUS</p></td>
@@ -504,10 +504,10 @@ W×H×D (mm)</p></td>
 f/2.8–5.8</p></td>
 <td><p>3.8×</p></td>
 <td><p>4×</p></td>
-<td><p><a href="../Page/DIGIC_III.md" title="wikilink">DIGIC III</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC_III" title="wikilink">DIGIC III</a></p></td>
 <td><p>2.5"<br />
 207,000</p></td>
-<td><p>SD, <a href="../Page/Secure_Digital_card#SDHC.md" title="wikilink">SDHC</a>, MMC</p></td>
+<td><p>SD, <a href="https://zh.wikipedia.org/wiki/Secure_Digital_card#SDHC" title="wikilink">SDHC</a>, MMC</p></td>
 <td><p>NB-5L</p></td>
 <td><p>89.5 × 58.0 × 25.1</p></td>
 <td><p>150 g</p></td>
@@ -598,7 +598,7 @@ f/2.8–4.9</p></td>
 <td><p>2.5"<br />
 230,000</p></td>
 <td><p>SD, SDHC,<br />
-MMC, <a href="../Page/MultiMedia_Card#MMCplus_and_MMCmobile.md" title="wikilink">MMC+, HC MMC+</a></p></td>
+MMC, <a href="https://zh.wikipedia.org/wiki/MultiMedia_Card#MMCplus_and_MMCmobile" title="wikilink">MMC+, HC MMC+</a></p></td>
 <td><p>NB-5L</p></td>
 <td><p>90.4 × 56.5 × 26.4</p></td>
 <td><p>165 g</p></td>
@@ -780,7 +780,7 @@ W×H×D (mm)</p></td>
 f/2.8–5.8</p></td>
 <td><p>4×</p></td>
 <td><p>4×</p></td>
-<td><p><a href="../Page/DIGIC_4.md" title="wikilink">DIGIC 4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC_4" title="wikilink">DIGIC 4</a></p></td>
 <td><p>3.0"<br />
 230,000</p></td>
 <td><p>SD, SDHC,<br />
@@ -951,7 +951,7 @@ MMC, MMC+, HC MMC+</p></td>
 <td><p>99.9 × 53.4 × 22.9</p></td>
 <td><p>130 g</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_IXY_Digital_930_IS.jpg" title="fig:Canon_IXY_Digital_930_IS.jpg">Canon_IXY_Digital_930_IS.jpg</a></p></td>
-<td><p>Introduce 24mm <a href="../Page/wide-angle_lens.md" title="wikilink">wide-angle lens</a> and <a href="../Page/touch-screen.md" title="wikilink">touch-screen</a>[42]</p></td>
+<td><p>Introduce 24mm <a href="https://zh.wikipedia.org/wiki/wide-angle_lens" title="wikilink">wide-angle lens</a> and <a href="https://zh.wikipedia.org/wiki/touch-screen" title="wikilink">touch-screen</a>[42]</p></td>
 </tr>
 <tr class="even">
 <td><p>105</p></td>
@@ -1044,7 +1044,7 @@ MMC, MMC+, HC MMC+</p></td>
 <td><p>100.0 × 54.1 × 23.6</p></td>
 <td><p>175 g</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_IMG_2166.jpg" title="fig:Canon_IMG_2166.jpg">Canon_IMG_2166.jpg</a></p></td>
-<td><p>|First Digital IXUS with <a href="../Page/Active_pixel_sensor.md" title="wikilink">CMOS</a>[47]</p></td>
+<td><p>|First Digital IXUS with <a href="https://zh.wikipedia.org/wiki/Active_pixel_sensor" title="wikilink">CMOS</a>[47]</p></td>
 </tr>
 <tr class="even">
 <td><p>1000 HS</p></td>
@@ -1113,8 +1113,8 @@ MMC, MMC+, HC MMC+</p></td>
 <td><p>92.2 × 55.9 × 19.5</p></td>
 <td><p>141 g</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Canon_IXUS_220_HS.jpg" title="fig:Canon_IXUS_220_HS.jpg">Canon_IXUS_220_HS.jpg</a></p></td>
-<td><p>|Introduced Full-HD (<a href="../Page/1080p.md" title="wikilink">1080p</a>) <a href="../Page/video_recording.md" title="wikilink">video recording</a>[50]<br />
-First IXUS with <a href="../Page/stereo.md" title="wikilink">stereo</a> <a href="../Page/microphone.md" title="wikilink">microphone</a>[51]</p></td>
+<td><p>|Introduced Full-HD (<a href="../Page/1080p.md" title="wikilink">1080p</a>) <a href="https://zh.wikipedia.org/wiki/video_recording" title="wikilink">video recording</a>[50]<br />
+First IXUS with <a href="https://zh.wikipedia.org/wiki/stereo" title="wikilink">stereo</a> <a href="https://zh.wikipedia.org/wiki/microphone" title="wikilink">microphone</a>[51]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1196,10 +1196,10 @@ f/3.0-5.9</p></td>
 f/3.4-5.6</p></td>
 <td><p>12×</p></td>
 <td><p>4×</p></td>
-<td><p><a href="../Page/DIGIC_5.md" title="wikilink">DIGIC 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIGIC_5" title="wikilink">DIGIC 5</a></p></td>
 <td><p>3.0"<br />
 461,000</p></td>
-<td><p><a href="../Page/Secure_Digital#Physical_size.md" title="wikilink">microSD, microSDHC, microSDXC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Secure_Digital#Physical_size" title="wikilink">microSD, microSDHC, microSDXC</a></p></td>
 <td><p>NB-9L</p></td>
 <td><p>87.1 × 53.9 × 19.2</p></td>
 <td><p>155 g</p></td>

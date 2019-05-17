@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                  |
 
 **GN-0000 00鋼彈（00
-Gundam）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由剎那·F·塞耶所駕駛。
 
@@ -81,7 +81,7 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 <!-- end list -->
 
   -
-    在非洲軌道電梯空域首次與武士道先生的[豪傑式交戰](../Page/GNX-U02X_豪傑式.md "wikilink")，這是首次與同樣擁有Trans-AM系統的敵人對戰。
+    在非洲軌道電梯空域首次與武士道先生的[豪傑式交戰](https://zh.wikipedia.org/wiki/GNX-U02X_豪傑式 "wikilink")，這是首次與同樣擁有Trans-AM系統的敵人對戰。
 
 <!-- end list -->
 
@@ -117,7 +117,7 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 <!-- end list -->
 
   -
-    與變革者首腦里朋斯·阿爾馬克的[再生GUNDAM對決](../Page/CB-0000G/C_再生GUNDAM.md "wikilink")，後擊毀再生鋼彈。
+    與變革者首腦里朋斯·阿爾馬克的[再生GUNDAM對決](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")，後擊毀再生鋼彈。
 
 <!-- end list -->
 
@@ -126,13 +126,13 @@ GUNDAM之GN](../Page/GN-000_0_GUNDAM.md "wikilink")-Drive取得最高之共振�
 <!-- end list -->
 
   -
-    在攔截由ELS擬態而成的木星探測船「[木衛二](../Page/木衛二.md "wikilink")」時首度出戰，但因駕駛員剎那感應到ELS的「訊息」而無法攻擊，在左臂被ELS侵蝕時被提耶利亞駕駛的[CB-002
-    療天使GUNDAM所救](../Page/CB-002_療天使GUNDAM.md "wikilink")。
+    在攔截由ELS擬態而成的木星探測船「[木衛二](https://zh.wikipedia.org/wiki/木衛二 "wikilink")」時首度出戰，但因駕駛員剎那感應到ELS的「訊息」而無法攻擊，在左臂被ELS侵蝕時被提耶利亞駕駛的[CB-002
+    療天使GUNDAM所救](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
     在火星之戰中再度出戰，並同時啟動Trans-AM以及Raiser System造成類似Trans-AM
-    Burst的效果枉嘗試和ELS對話，但因為粒子量不足和ELS的訊息量過大，令剎那的左[大腦受損](../Page/大腦.md "wikilink")，本機也被大量ELS侵蝕。最終剎那和本機駕駛艙被提耶利亞遙距控制的[GN-008RE
+    Burst的效果枉嘗試和ELS對話，但因為粒子量不足和ELS的訊息量過大，令剎那的左[大腦受損](https://zh.wikipedia.org/wiki/大腦 "wikilink")，本機也被大量ELS侵蝕。最終剎那和本機駕駛艙被提耶利亞遙距控制的[GN-008RE
     熾天使GUNDAM
-    II拔出並交給洛克昂所駕駛的](../Page/GN-008RE_熾天使GUNDAM_II.md "wikilink")[GN-010
-    獄天使GUNDAM](../Page/GN-010_獄天使GUNDAM.md "wikilink")，本體則連同熾天使II一同自爆。
+    II拔出並交給洛克昂所駕駛的](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")[GN-010
+    獄天使GUNDAM](https://zh.wikipedia.org/wiki/GN-010_獄天使GUNDAM "wikilink")，本體則連同熾天使II一同自爆。
 
 ## 武裝
 
@@ -462,7 +462,7 @@ GUNDAM。GN破壞巨劍II則和GNR-010 0強化戰機一樣，圴裝上安定雙�
 
   - [機動戰士GUNDAM 00 登場機體列表](../Page/機動戰士GUNDAM_00_登場機體列表.md "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第4世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第4世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第4世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第4世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")
 

@@ -1,19 +1,19 @@
-**GS加德士杯**，由[韩国](../Page/韩国.md "wikilink")[每日經濟新聞主辦的](../Page/每日經濟新聞.md "wikilink")[围棋赛](../Page/围棋赛.md "wikilink")。决赛为五番胜负，冠军奖金从5000万[韩元增加到](../Page/韩元.md "wikilink")7000万韩元，亚军奖金从1200万韩元增加到1500万韩元。
+**GS加德士杯**，由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[每日經濟新聞主辦的](https://zh.wikipedia.org/wiki/每日經濟新聞 "wikilink")[围棋赛](https://zh.wikipedia.org/wiki/围棋赛 "wikilink")。决赛为五番胜负，冠军奖金从5000万[韩元增加到](https://zh.wikipedia.org/wiki/韩元 "wikilink")7000万韩元，亚军奖金从1200万韩元增加到1500万韩元。
 原名泰克倫（Tekron）杯，1999年起改名为LG精油（LG-Caltax）杯，2005年起改名为GS加德士杯。比赛用时为每方10分钟，读秒40秒三次的快棋。
 
 ## 历届冠亚军
 
-1.  1996年 [劉昌赫](../Page/劉昌赫.md "wikilink") 3-2
-    [曺薫鉉](../Page/曺薫鉉.md "wikilink")
+1.  1996年 [劉昌赫](https://zh.wikipedia.org/wiki/劉昌赫 "wikilink") 3-2
+    [曺薫鉉](https://zh.wikipedia.org/wiki/曺薫鉉 "wikilink")
 2.  1997年 [李昌鎬](../Page/李昌鎬.md "wikilink") 3-0
-    [崔明勳](../Page/崔明勳.md "wikilink")
+    [崔明勳](https://zh.wikipedia.org/wiki/崔明勳 "wikilink")
 3.  1998年 李昌鎬 3-0 崔明勳
-4.  1999年 [徐奉洙](../Page/徐奉洙.md "wikilink") 3-2 劉昌赫
+4.  1999年 [徐奉洙](https://zh.wikipedia.org/wiki/徐奉洙 "wikilink") 3-2 劉昌赫
 5.  2000年 崔明勳 3-1 [芮迺伟](../Page/芮迺伟.md "wikilink")
 6.  2001年 李昌鎬 3-0 崔明勳
 7.  2002年 [李世乭](../Page/李世乭.md "wikilink") 3-1 崔明勳
-8.  2003年 李昌鎬 3-0 [趙漢乗](../Page/趙漢乗.md "wikilink")
-9.  2004年 李昌鎬 3-0 [朴永訓](../Page/朴永訓.md "wikilink")
+8.  2003年 李昌鎬 3-0 [趙漢乗](https://zh.wikipedia.org/wiki/趙漢乗 "wikilink")
+9.  2004年 李昌鎬 3-0 [朴永訓](https://zh.wikipedia.org/wiki/朴永訓 "wikilink")
 10. 2005年 [崔哲瀚](../Page/崔哲瀚.md "wikilink") 3-2 李昌鎬
 11. 2006年 李世乭 3-0 [崔哲瀚](../Page/崔哲瀚.md "wikilink")
 12. 2007年 朴永訓 3-2 李世乭
@@ -25,9 +25,10 @@
 18. 2013年 金志锡 3-0 李世乭\[2\]
 19. 2014年 金志锡 3-0 崔哲瀚
 20. 2015年 睦鎮碩 3-1 崔哲瀚
-21. 2016年 [李東勳](../Page/李東勳_\(圍棋棋手\).md "wikilink") 3-1 尹燦熙
+21. 2016年 [李東勳](https://zh.wikipedia.org/wiki/李東勳_\(圍棋棋手\) "wikilink")
+    3-1 尹燦熙
 22. 2017年 安國鉉 3-2 [金志錫](../Page/金志錫.md "wikilink")
-23. 2018年 [申真諝](../Page/申真諝.md "wikilink") 3-2 李世石
+23. 2018年 [申真諝](https://zh.wikipedia.org/wiki/申真諝 "wikilink") 3-2 李世石
 
 ## 第14届GS加德士杯
 

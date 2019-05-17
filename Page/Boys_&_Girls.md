@@ -12,7 +12,7 @@ TOGETHER》對打。首週由《BE TOGETHER》勝出奪冠，《Boys & Girls》�
 Girls》銷量並沒有減緩，連續三週都在公信榜上獲得首位，直到濱崎步自己的次作單曲《[A](../Page/A_\(濱崎步單曲\).md "wikilink")》的發行才中斷本作的連冠。本作最終突破百萬，累積銷售超越了同時發行的《BE
 TOGETHER》。
 
-此曲最後在年底奪下第41回日本唱片大賞的優秀作品賞，並於同年12月31日首度出場參加第50屆NHK[紅白歌唱大賽演唱本作](../Page/紅白歌唱大賽.md "wikilink")。
+此曲最後在年底奪下第41回日本唱片大賞的優秀作品賞，並於同年12月31日首度出場參加第50屆NHK[紅白歌唱大賽演唱本作](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")。
 
 ## 收錄歌曲
 
@@ -25,7 +25,7 @@ TOGETHER》。
         花王「AUBE化粧品」廣告歌曲
 3.  **Boys & Girls "Higher Uplift Mix"**
 4.  **[LOVE
-    ～Destiny～](../Page/LOVE_～Destiny～/LOVE_～since_1999～.md "wikilink")
+    ～Destiny～](https://zh.wikipedia.org/wiki/LOVE_～Destiny～/LOVE_～since_1999～ "wikilink")
     "TODD'S LOVERS CONVERSION"**
 5.  **Boys & Girls "HΛL's Mix"**
 6.  **Boys & Girls "Melt Down Dub Mix"**

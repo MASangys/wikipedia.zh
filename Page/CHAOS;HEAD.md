@@ -1,12 +1,12 @@
 [Shibuya_109_Building_Tokyo_January_2006.jpg](https://zh.wikipedia.org/wiki/File:Shibuya_109_Building_Tokyo_January_2006.jpg "fig:Shibuya_109_Building_Tokyo_January_2006.jpg")作為舞台，特別是澀谷交叉口附近一帶\]\]
 [Onomichi_Channel03s3200.jpg](https://zh.wikipedia.org/wiki/File:Onomichi_Channel03s3200.jpg "fig:Onomichi_Channel03s3200.jpg")\]\]
-《**CHAOS;HEAD**》（標誌上寫作**Chäos;HEAd**）是[5pb.原案](../Page/5pb..md "wikilink")、[Nitro+於](../Page/Nitro+.md "wikilink")2008年4月25日发售的[Windows用电脑游戏](../Page/Windows.md "wikilink")。為[妄想科學ADV系列的首部作品](../Page/妄想科學ADV系列.md "wikilink")。游戏的类型是“[妄想科学小说](../Page/冒險遊戲.md "wikilink")”，推荐对象是15岁以上。企劃初期時的公布的遊戲名稱為「」，更早期沒有正式公佈的是「哀SWORD」和「C.O.D.E.」\[1\]。其後發展出[漫畫](../Page/漫畫.md "wikilink")、[動畫等](../Page/動畫.md "wikilink")，並移植遊戲至[Xbox
-360](../Page/Xbox_360.md "wikilink")，標題為「」，2009年2月26日發售，因為折原梢线过于血腥的情节以及画面，被分級為[CERO](../Page/CERO.md "wikilink")
+《**CHAOS;HEAD**》（標誌上寫作**Chäos;HEAd**）是[5pb.原案](../Page/5pb..md "wikilink")、[Nitro+於](../Page/Nitro+.md "wikilink")2008年4月25日发售的[Windows用电脑游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")。為[妄想科學ADV系列的首部作品](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")。游戏的类型是“[妄想科学小说](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")”，推荐对象是15岁以上。企劃初期時的公布的遊戲名稱為「」，更早期沒有正式公佈的是「哀SWORD」和「C.O.D.E.」\[1\]。其後發展出[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[動畫等](https://zh.wikipedia.org/wiki/動畫 "wikilink")，並移植遊戲至[Xbox
+360](../Page/Xbox_360.md "wikilink")，標題為「」，2009年2月26日發售，因為折原梢线过于血腥的情节以及画面，被分級為[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink")
 Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以抑制，分级降为D。iOS版为PSP版的移植。
 
 2010年3月25日在[Xbox 360平台上推出续作CHAOS](../Page/Xbox_360.md "wikilink");HEAD
 らぶChu☆Chu\!，2011年1月27日CHAOS;HEAD
-らぶChu☆Chu\!经移植后在[PSP平台发售](../Page/PSP.md "wikilink")。
+らぶChu☆Chu\!经移植后在[PSP平台发售](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 ## 剧情简介
 
@@ -22,7 +22,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
   -
     生日：6月21日，身高：170cm，體重：54kg，血型：AB型。
-    本作主人公，对三次元的女性没有兴趣，重度[御宅族](../Page/御宅族.md "wikilink")，使用網名是「」（在後作[ROBOTICS;NOTES有再度出現過](../Page/ROBOTICS;NOTES.md "wikilink")）。一星期只維持上學最低要求的2.5天，大部分時間都在家中看[動畫和玩](../Page/動畫.md "wikilink")[網絡遊戲](../Page/網絡遊戲.md "wikilink")。不擅和網絡外的人溝通，特別是女性。頭腦聰明，學校測驗經常獲得高分數。不是和家人同居，住在澀谷區[神泉町](../Page/神泉町.md "wikilink")，父親管理的大厦KURENAI的頂樓中的一個鐵皮箱中。從小就覺得有種「神的視線」在望著他，拓巳在這時多會說「」，但從來沒有向其他人說過，只在年幼時的作文提及過有關字句，而該作文的背面莫名的畫了奇怪機器（實為Noah2的造型）的塗鴉與不明公式「fun^10xint^40=Ir2」。
+    本作主人公，对三次元的女性没有兴趣，重度[御宅族](../Page/御宅族.md "wikilink")，使用網名是「」（在後作[ROBOTICS;NOTES有再度出現過](../Page/ROBOTICS;NOTES.md "wikilink")）。一星期只維持上學最低要求的2.5天，大部分時間都在家中看[動畫和玩](https://zh.wikipedia.org/wiki/動畫 "wikilink")[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")。不擅和網絡外的人溝通，特別是女性。頭腦聰明，學校測驗經常獲得高分數。不是和家人同居，住在澀谷區[神泉町](../Page/神泉町.md "wikilink")，父親管理的大厦KURENAI的頂樓中的一個鐵皮箱中。從小就覺得有種「神的視線」在望著他，拓巳在這時多會說「」，但從來沒有向其他人說過，只在年幼時的作文提及過有關字句，而該作文的背面莫名的畫了奇怪機器（實為Noah2的造型）的塗鴉與不明公式「fun^10xint^40=Ir2」。
     實際上這個拓巳是被將軍（拓巳本體）妄想出來的人物，在一年半前被創造出來，代替真的西條拓巳在外生活，其過去的記憶皆是繼承將軍。由於本身是妄想的存在，所以可以讓物理攻擊無效化，且擁有將軍大半的力量，甚至可窺測他人思維。將軍創造這個妄想拓巳的目的主要是讓他可以替自己破壞即將運作的**Noah2**，同時也是替已病入膏肓的自己製造活下去的未來。最後妄想拓巳將**Noah2**成功破壞後被將軍託付所有的記憶與力量，成了真的西條拓巳。
 
 <!-- end list -->
@@ -89,7 +89,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 <!-- end list -->
 
   -
-    警視庁刑事部捜査一課所属。巡査部長。非常喜歡[電影](../Page/電影.md "wikilink")，特別是《》。
+    警視庁刑事部捜査一課所属。巡査部長。非常喜歡[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，特別是《》。
     實際上是**希望Technology
     Group公司**派來的內奸，觀察警方是否察覺到他們的計謀。是**新世代的瘋狂**事件的真凶之一。最終在執行捕獲西條拓巳的過程中被拓巳以反粒子干涉妄想而打敗。
 
@@ -139,7 +139,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
   - 妄想
     在腦中浮現的想法。
   -
-    可以干涉[狄拉克之海](../Page/狄拉克之海.md "wikilink")，把妄想變成現實的人，在極端的情感波動下有可能這能力會因此覺醒。giga-lo-maniac是比[誇大狂患者](../Page/誇大狂.md "wikilink")（Megalomaniac）程度更強的意思。
+    可以干涉[狄拉克之海](../Page/狄拉克之海.md "wikilink")，把妄想變成現實的人，在極端的情感波動下有可能這能力會因此覺醒。giga-lo-maniac是比[誇大狂患者](https://zh.wikipedia.org/wiki/誇大狂 "wikilink")（Megalomaniac）程度更強的意思。
     本作一共登場八位giga-lo-maniac，分別是西條拓巳、咲畑梨深、西條七海、岸本綾瀨、蒼井瀨名、楠優愛、折原梢和野呂瀨玄一。
   -
     透過[盲點讓周圍的人認知妄想](../Page/盲點_\(眼\).md "wikilink")，把這妄想變成現實。
@@ -147,7 +147,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
     來自狄拉克之海、把妄想變成現實的捷徑，只有giga-lo-maniac看到的時候是發出藍光的劍，Real boot後會再發出紅光。
   -
     將giga-lo-maniac利用公式「fun^10xint^40=Ir2」具現化的機器，由希望Technology
-    Group公司與天成神光會和明和黨聯手測試研發。由一台主機進行運算，再由終端機「Porter」釋放[電磁波改寫讓周圍的人認知](../Page/電磁波.md "wikilink")，可說是人造的giga-lo-maniac。擁有自我保護能力，只有野呂瀨玄一能接近並破壞主機。其設計似乎是[永動機](../Page/永動機.md "wikilink")，因此無法破壞以外的方式停止運作。
+    Group公司與天成神光會和明和黨聯手測試研發。由一台主機進行運算，再由終端機「Porter」釋放[電磁波改寫讓周圍的人認知](https://zh.wikipedia.org/wiki/電磁波 "wikilink")，可說是人造的giga-lo-maniac。擁有自我保護能力，只有野呂瀨玄一能接近並破壞主機。其設計似乎是[永動機](https://zh.wikipedia.org/wiki/永動機 "wikilink")，因此無法破壞以外的方式停止運作。
 
 ## 音樂
 
@@ -156,14 +156,14 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
       -
         歌：[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
-        作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[磯江俊道](../Page/磯江俊道.md "wikilink")
+        作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[磯江俊道](https://zh.wikipedia.org/wiki/磯江俊道 "wikilink")
 
   - 結尾歌曲
     ;「Desire Blue sky」
 
       -
         歌：[伊藤香奈子](../Page/伊藤香奈子.md "wikilink")
-        作詞：[江幡育子](../Page/江幡育子.md "wikilink")，作曲、編曲：磯江俊道
+        作詞：[江幡育子](https://zh.wikipedia.org/wiki/江幡育子 "wikilink")，作曲、編曲：磯江俊道
 
   - ;「」
 
@@ -175,7 +175,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
       -
         歌：[榊原由依](../Page/榊原由依.md "wikilink")
-        作詞：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，作曲、編曲：[林達志](../Page/林達志.md "wikilink")
+        作詞：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，作曲、編曲：[林達志](https://zh.wikipedia.org/wiki/林達志 "wikilink")
 
   - 插入曲
     ;「」
@@ -194,13 +194,14 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
   - 原作：5pb.、Nitroplus、RED FLAGSHIP
   - 監督：
-  - 系列構成、劇本：[井上敏樹](../Page/井上敏樹.md "wikilink")
+  - 系列構成、劇本：[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
   - 人物原案：
-  - 人物設定：[島村秀一](../Page/島村秀一.md "wikilink")
+  - 人物設定：[島村秀一](https://zh.wikipedia.org/wiki/島村秀一 "wikilink")
   - 音響監督：中嶋聰彥
-  - 音響制作：[Techno Sound](../Page/Techno_Sound.md "wikilink")
-  - 音樂：[tOkyO](../Page/tOkyO.md "wikilink")
-  - 動畫製作：[Madhouse](../Page/Madhouse.md "wikilink")
+  - 音響制作：[Techno
+    Sound](https://zh.wikipedia.org/wiki/Techno_Sound "wikilink")
+  - 音樂：[tOkyO](https://zh.wikipedia.org/wiki/tOkyO "wikilink")
+  - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 製作：CHAOS;HEAD製作委員會
 
 ### 主題曲
@@ -255,7 +256,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 <td><p>1</p></td>
 <td><p>起動<br />
 boot up</p></td>
-<td><p><a href="../Page/井上敏樹.md" title="wikilink">井上敏樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井上敏樹" title="wikilink">井上敏樹</a></p></td>
 <td><p>宍戸淳</p></td>
 <td><p>大谷肇</p></td>
 <td><p>大塚美登理<br />
@@ -337,7 +338,7 @@ linkage</p></td>
 <td><p>拒絶<br />
 rejection</p></td>
 <td><p>石山贵明</p></td>
-<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
 <td><p>川島尚</p></td>
 <td></td>
 </tr>
@@ -381,15 +382,15 @@ KWON YONG SANG</p></td>
 
 ### 播放电视台
 
-| 播放地域                               | 电视台                                                | 播放日期                      | 播放时间                | 備注                                           |
-| ---------------------------------- | -------------------------------------------------- | ------------------------- | ------------------- | -------------------------------------------- |
-| [千葉县](../Page/千葉县.md "wikilink")   | [千葉電視台](../Page/千葉電視台.md "wikilink")               | 2008年10月9日 - 12月25日       | 星期四 23時00分 - 23時30分 | [独立UHF系](../Page/全国独立UHF放送協議会.md "wikilink") |
-| [埼玉县](../Page/埼玉县.md "wikilink")   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")               | 星期四 25時30分 - 26時00分       |                     |                                              |
-| [神奈川县](../Page/神奈川县.md "wikilink") | [神奈川電視台](../Page/神奈川電視台.md "wikilink")             | 2008年10月11日-12月27日        | 星期六 25時30分 - 26時00分 |                                              |
-| 全日本                                | [Kids Station](../Page/Kids_Station.md "wikilink") | |2008年10月14日 - 2009年1月6日  | 星期二 24時00分 - 24時30分 | CS放送                                         |
-| [東京都](../Page/東京都.md "wikilink")   | [東京都會電視台](../Page/東京都會電視台.md "wikilink")           | 2008年12月12日 - 2009年2月20日  | 星期二 26時00分 - 26時30分 | 独立UHF系                                       |
-| 日本全国                               | [ShowTime](../Page/ShowTime.md "wikilink")         | |2008年12月12日 - 2009年2月20日 | 星期五 18時00分更新        | [網路電視](../Page/網路電視.md "wikilink")           |
-| [Gyao](../Page/Gyao.md "wikilink") | |2009年1月18日 - 4月6日                                 | 星期日 12時00分更新              |                     |                                              |
+| 播放地域                                                  | 电视台                                                           | 播放日期                      | 播放时间                | 備注                                                              |
+| ----------------------------------------------------- | ------------------------------------------------------------- | ------------------------- | ------------------- | --------------------------------------------------------------- |
+| [千葉县](https://zh.wikipedia.org/wiki/千葉县 "wikilink")   | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | 2008年10月9日 - 12月25日       | 星期四 23時00分 - 23時30分 | [独立UHF系](https://zh.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") |
+| [埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")   | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                          | 星期四 25時30分 - 26時00分       |                     |                                                                 |
+| [神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink") | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        | 2008年10月11日-12月27日        | 星期六 25時30分 - 26時00分 |                                                                 |
+| 全日本                                                   | [Kids Station](../Page/Kids_Station.md "wikilink")            | |2008年10月14日 - 2009年1月6日  | 星期二 24時00分 - 24時30分 | CS放送                                                            |
+| [東京都](../Page/東京都.md "wikilink")                      | [東京都會電視台](../Page/東京都會電視台.md "wikilink")                      | 2008年12月12日 - 2009年2月20日  | 星期二 26時00分 - 26時30分 | 独立UHF系                                                          |
+| 日本全国                                                  | [ShowTime](https://zh.wikipedia.org/wiki/ShowTime "wikilink") | |2008年12月12日 - 2009年2月20日 | 星期五 18時00分更新        | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")           |
+| [Gyao](https://zh.wikipedia.org/wiki/Gyao "wikilink") | |2009年1月18日 - 4月6日                                            | 星期日 12時00分更新              |                     |                                                                 |
 
 ## 漫畫
 
@@ -397,10 +398,10 @@ KWON YONG SANG</p></td>
     於2008年5月21日開始於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》2008年7月號連載，作畫。
   - CHAOS;HEAD～BLUE COMPLEX～
     於2008年9月26日開始於《[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")》2008年11月號連載，[沙垣長子作畫](../Page/沙垣長子.md "wikilink")。
+    Alive](../Page/月刊Comic_Alive.md "wikilink")》2008年11月號連載，[沙垣長子作畫](https://zh.wikipedia.org/wiki/沙垣長子 "wikilink")。
   -
     於2008年9月27日開始於《[月刊Comic
-    Rush](../Page/月刊Comic_Rush.md "wikilink")》2008年11月號連載，作畫。故事並非基於原作，而是愛情喜劇。
+    Rush](https://zh.wikipedia.org/wiki/月刊Comic_Rush "wikilink")》2008年11月號連載，作畫。故事並非基於原作，而是愛情喜劇。
 
 ## 廣播
 
@@ -411,14 +412,14 @@ KWON YONG SANG</p></td>
 
   - Blood Tune THE NOVELIZATION
     2008年11月5日發售的衍生小說《Blood Tune THE
-    NOVELIZATION》，[絲井健一著](../Page/絲井健一.md "wikilink")，插畫，出版。
+    NOVELIZATION》，[絲井健一著](https://zh.wikipedia.org/wiki/絲井健一 "wikilink")，插畫，出版。
   -
-    2008年12月發售的小說《》，絲井健一著，[小形聖史插畫](../Page/小形聖史.md "wikilink")，出版，ISBN
+    2008年12月發售的小說《》，絲井健一著，[小形聖史插畫](https://zh.wikipedia.org/wiki/小形聖史 "wikilink")，出版，ISBN
     978-4-434-12310-8。
 
 ## 关联条目
 
-  - [Steins;Gate](../Page/Steins;Gate.md "wikilink")（以本作之后的世界为舞台的作品）
+  - [Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")（以本作之后的世界为舞台的作品）
   - [ROBOTICS;NOTES](../Page/ROBOTICS;NOTES.md "wikilink")（以Steins;Gate之后的世界为舞台的作品）
 
 ## 参考資料

@@ -1,4 +1,4 @@
-**Kerberos**（）是一种计算机网络授权协议，用来在非安全[网络中](../Page/网络.md "wikilink")，对个人通信以安全的手段进行身份认证。这个词又指[麻省理工学院为这个协议开发的一套计算机软件](../Page/麻省理工学院.md "wikilink")。软件设计上采用[客户端/服务器结构](../Page/客户端/服务器结构.md "wikilink")，并且能够进行相互认证，即客户端和服务器端均可对对方进行身份认证。可以用于防止窃听、防止[重放攻击](../Page/重放攻击.md "wikilink")、保护数据完整性等场合，是一种应用对称密钥体制进行密钥管理的系统。Kerberos的扩展产品也使用[公开密钥加密方法进行认证](../Page/公开密钥加密.md "wikilink")。
+**Kerberos**（）是一种计算机网络授权协议，用来在非安全[网络中](https://zh.wikipedia.org/wiki/网络 "wikilink")，对个人通信以安全的手段进行身份认证。这个词又指[麻省理工学院为这个协议开发的一套计算机软件](../Page/麻省理工学院.md "wikilink")。软件设计上采用[客户端/服务器结构](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")，并且能够进行相互认证，即客户端和服务器端均可对对方进行身份认证。可以用于防止窃听、防止[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")、保护数据完整性等场合，是一种应用对称密钥体制进行密钥管理的系统。Kerberos的扩展产品也使用[公开密钥加密方法进行认证](../Page/公开密钥加密.md "wikilink")。
 
 当有N个人使用该系统时，为确保在任意两个人之间进行秘密对话，系统至少保存有它与每个人的共享密钥，所需的最少会话密钥数为N个。
 
@@ -20,8 +20,8 @@ Kohl和Clifford Neuman设计，在1993年作为 RFC 1510 颁布（在2005年由 
 
 麻省理工在版权许可的情况下，制作一个Kerberos的免费实现工具，这种情况类似于BSD。在2007年，麻省理工组成一个Kerberos协会，以此推动Kerberos的持续发展。
 
-因为使用[数据加密标准](../Page/数据加密标准.md "wikilink")（DES）[加密算法](../Page/加密算法.md "wikilink")（用56
-bit的密钥），[美国出口管制当局把Kerberos归类为军需品](../Page/美国.md "wikilink")，并禁止其出口。一个非美国设计的Kerberos版本4的实现工具KTH-KRB由[瑞典](../Page/瑞典.md "wikilink")[皇家工学院研制](../Page/皇家工学院.md "wikilink")，它使得这套系统在美国更改密码出口管理条例前（大約是在2000年），在美国境外就可以使用。瑞典的实现工具基于一个叫做eBones的版本，而eBones基于麻省理工对外发行的基于Kerberos版本4的补丁9的Bones（跳过加密公式和对它们的函数调用）。这些在一定程度上决定Kerberos为什么没有被叫做eBones版。Kerbberos版本5的实现工具，Heimdal，基本上也是由发布KTH-KRB的同一组人发布。
+因为使用[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")（DES）[加密算法](https://zh.wikipedia.org/wiki/加密算法 "wikilink")（用56
+bit的密钥），[美国出口管制当局把Kerberos归类为军需品](../Page/美国.md "wikilink")，并禁止其出口。一个非美国设计的Kerberos版本4的实现工具KTH-KRB由[瑞典](../Page/瑞典.md "wikilink")[皇家工学院研制](https://zh.wikipedia.org/wiki/皇家工学院 "wikilink")，它使得这套系统在美国更改密码出口管理条例前（大約是在2000年），在美国境外就可以使用。瑞典的实现工具基于一个叫做eBones的版本，而eBones基于麻省理工对外发行的基于Kerberos版本4的补丁9的Bones（跳过加密公式和对它们的函数调用）。这些在一定程度上决定Kerberos为什么没有被叫做eBones版。Kerbberos版本5的实现工具，Heimdal，基本上也是由发布KTH-KRB的同一组人发布。
 
 在2005年，[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）Kerberos工作小组更新了规范，更新包括：
 
@@ -39,7 +39,8 @@ bit的密钥），[美国出口管制当局把Kerberos归类为军需品](../Pag
 4757
 记录整理微软对[RC4密码的使用](../Page/RC4.md "wikilink")。虽然微软使用Kerberos协议，却并没有用麻省理工的软件。
 
-苹果的[Mac OS X也使用Kerberos的客户和服务器版本](../Page/Mac_OS_X.md "wikilink")。[Red
+苹果的[Mac OS
+X也使用Kerberos的客户和服务器版本](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。[Red
 Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
 4和后续的操作系统使用Kerberos的客户和服务器版本。
 
@@ -71,12 +72,12 @@ key，并发还给客户端。客户端将服务请求与该ticket一并发送�
 
 ## 具体流程\[1\]
 
-（注意：此流程使用了[对称加密](../Page/对称加密.md "wikilink")；此流程发生在某**一个**Kerberos**领域**中；小写字母c,d,e,g是客户端发出的消息，大写字母A,B,E,F,H是各个服务器发回的消息。）
+（注意：此流程使用了[对称加密](https://zh.wikipedia.org/wiki/对称加密 "wikilink")；此流程发生在某**一个**Kerberos**领域**中；小写字母c,d,e,g是客户端发出的消息，大写字母A,B,E,F,H是各个服务器发回的消息。）
 
 首先，用户使用客户端（用户自己的机器）上的程序进行登录：
 
 1.  用户输入用户ID和密码到客户端。
-2.  客户端程序运行一个[单向函数](../Page/单向函数.md "wikilink")（大多数为杂凑）把密码转换成密钥，这个就是客户端（用户）的“用户密钥”(user's
+2.  客户端程序运行一个[单向函数](https://zh.wikipedia.org/wiki/单向函数 "wikilink")（大多数为杂凑）把密码转换成密钥，这个就是客户端（用户）的“用户密钥”(user's
     secret key)。
 
 随后，**客户端认证**（客户端(Client)从认证服务器(AS)获取票据的票据（TGT））：
@@ -160,7 +161,7 @@ key，并发还给客户端。客户端将服务请求与该ticket一并发送�
     [MIT](../Page/MIT.md "wikilink") website
   - [Kerberos Working
     Group](https://web.archive.org/web/20040707075602/http://www.ietf.org/html.charters/krb-wg-charter.html)
-    at [IETF](../Page/IETF.md "wikilink") website
+    at [IETF](https://zh.wikipedia.org/wiki/IETF "wikilink") website
   - [Kerberos Sequence
     Diagram](http://www.eventhelix.com/RealtimeMantra/Networking/kerberos/kerberos-sequence-diagram.pdf)
 

@@ -1,29 +1,31 @@
 **LAPACK**，其名為**L**inear **A**lgebra
-**PACK**age的縮寫，是一以[Fortran](../Page/Fortran.md "wikilink")[程式語言寫的](../Page/程式語言.md "wikilink")，用於[數值計算的](../Page/數值計算.md "wikilink")[函式集](../Page/函式集.md "wikilink")。
-LAPACK提供了豐富的[工具函式](../Page/工具函式.md "wikilink")，可用於諸如解多元[線性方程式](../Page/線性方程式.md "wikilink")、[線性系統方程組的](../Page/線性系統.md "wikilink")[最小平方解](../Page/最小二乘法.md "wikilink")、計算[特徵向量](../Page/特徵向量.md "wikilink")、用於計算[矩陣](../Page/矩陣.md "wikilink")[QR分解的](../Page/QR分解.md "wikilink")[Householder轉換](../Page/豪斯霍德变换.md "wikilink")、以及[奇異值分解等問題](../Page/奇異值.md "wikilink")。
-在[NetLib](http://www.netlib.org/lapack95/)亦提供了[API經簡化的](../Page/API.md "wikilink")[Fortran](../Page/Fortran.md "wikilink")
+**PACK**age的縮寫，是一以[Fortran](../Page/Fortran.md "wikilink")[程式語言寫的](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，用於[數值計算的](https://zh.wikipedia.org/wiki/數值計算 "wikilink")[函式集](https://zh.wikipedia.org/wiki/函式集 "wikilink")。
+LAPACK提供了豐富的[工具函式](https://zh.wikipedia.org/wiki/工具函式 "wikilink")，可用於諸如解多元[線性方程式](https://zh.wikipedia.org/wiki/線性方程式 "wikilink")、[線性系統方程組的](../Page/線性系統.md "wikilink")[最小平方解](../Page/最小二乘法.md "wikilink")、計算[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")、用於計算[矩陣](https://zh.wikipedia.org/wiki/矩陣 "wikilink")[QR分解的](../Page/QR分解.md "wikilink")[Householder轉換](https://zh.wikipedia.org/wiki/豪斯霍德变换 "wikilink")、以及[奇異值分解等問題](https://zh.wikipedia.org/wiki/奇異值 "wikilink")。
+在[NetLib](http://www.netlib.org/lapack95/)亦提供了[API經簡化的](https://zh.wikipedia.org/wiki/API "wikilink")[Fortran](../Page/Fortran.md "wikilink")
 95版本的LAPACK95。LAPACK以[BSD授權的方法釋出](../Page/BSD许可证.md "wikilink")。
 
 ## 在其他编程语言中使用LAPACK
 
 很多现今的编程环境都支持C binding 库。LAPACK routines 可以在一定限制及约束下当作C 函数来用。
 一些其他的[language
-binding也是可选的](../Page/language_binding.md "wikilink"):
+binding也是可选的](https://zh.wikipedia.org/wiki/language_binding "wikilink"):
 
   - [Lapack95](http://www.netlib.org/lapack95/) uses features of Fortran
     95 to simplify the interface of the routines
   - [clapack](http://www.netlib.org/clapack/) for
-    [C](../Page/C语言.md "wikilink") (especially useful if there is no
-    [Fortran](../Page/Fortran.md "wikilink") compiler available, as it
-    is already preprocessed with [f2c](../Page/f2c.md "wikilink"))
-  - [LAPACK++](../Page/LAPACK++.md "wikilink") for
+    [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") (especially useful
+    if there is no [Fortran](../Page/Fortran.md "wikilink") compiler
+    available, as it is already preprocessed with
+    [f2c](https://zh.wikipedia.org/wiki/f2c "wikilink"))
+  - [LAPACK++](https://zh.wikipedia.org/wiki/LAPACK++ "wikilink") for
     [C++](../Page/C++.md "wikilink")
-  - [Armadillo](../Page/Armadillo_\(C++_library\).md "wikilink") for
-    [C++](../Page/C++.md "wikilink")
+  - [Armadillo](https://zh.wikipedia.org/wiki/Armadillo_\(C++_library\) "wikilink")
+    for [C++](../Page/C++.md "wikilink")
   - [jlapack](http://www.netlib.org/java/f2j/) for
     [Java](../Page/Java.md "wikilink")
   - [CSLapack](http://www.dotnumerics.com/NumericalLibraries/LinearAlgebra/CSLapack/)
-    for [C\#](../Page/C_Sharp_\(programming_language\).md "wikilink").
+    for
+    [C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink").
     CSLapack is the translation of Fortran to C\# of the LAPACK
     numerical subroutines.
   - [LACAML](https://web.archive.org/web/20080818035500/http://www.ocaml.info/home/ocaml_sources.html#lacaml)

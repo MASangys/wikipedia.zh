@@ -1,13 +1,13 @@
 [SolarWolf-splash.png](https://zh.wikipedia.org/wiki/File:SolarWolf-splash.png "fig:SolarWolf-splash.png")
 
 ***SolarWolf*** 是1983年游戏[Solar
-Fox](../Page/Solar_Fox.md "wikilink")──[Atari
-2600上](../Page/Atari_2600.md "wikilink")[CBS](../Page/CBS.md "wikilink")
+Fox](https://zh.wikipedia.org/wiki/Solar_Fox "wikilink")──[Atari
+2600上](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")[CBS](https://zh.wikipedia.org/wiki/CBS "wikilink")
 Electronics制作的\[1\]
 
-SolarWolf是使用[Pygame的](../Page/Pygame.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。官方站有用于[Windows](../Page/Microsoft_Windows.md "wikilink"),
-[Mac OS X](../Page/Mac_OS_X.md "wikilink"),
-[Linux和](../Page/Linux.md "wikilink")[BeOS的](../Page/BeOS.md "wikilink")[二进制包](../Page/二进制包.md "wikilink")。很多[Linux发行版如](../Page/Linux发行版.md "wikilink")[Debian](../Page/Debian.md "wikilink")
+SolarWolf是使用[Pygame的](../Page/Pygame.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。官方站有用于[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
+[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"),
+[Linux和](../Page/Linux.md "wikilink")[BeOS的](../Page/BeOS.md "wikilink")[二进制包](https://zh.wikipedia.org/wiki/二进制包 "wikilink")。很多[Linux发行版如](../Page/Linux发行版.md "wikilink")[Debian](../Page/Debian.md "wikilink")
 [1](http://packages.debian.org/solarwolf),
 [Ubuntu](../Page/Ubuntu.md "wikilink")
 \[[http://packages.ubuntu.com/solarwolf\]和](http://packages.ubuntu.com/solarwolf%5D和)[Fedora](../Page/Fedora.md "wikilink")

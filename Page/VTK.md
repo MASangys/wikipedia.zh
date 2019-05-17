@@ -1,6 +1,6 @@
 **視覺化工具函式庫**（VTK， Visualization
-Toolkit）是一個[開放源碼](../Page/開放源碼.md "wikilink")，[跨平台](../Page/跨平台.md "wikilink")、支援[平行處理](../Page/平行處理.md "wikilink")（VTK曾用於處理大小近乎1個[Petabyte的資料](../Page/Petabyte.md "wikilink")，其平台為[美國](../Page/美國.md "wikilink")[Los
-Alamos國家實驗室所有的具](../Page/Los_Alamos國家實驗室.md "wikilink")1024個[處理器之大型系統](../Page/處理器.md "wikilink")）的圖形應用函式庫。2005年時曾被美國陸軍研究實驗室用於即時模擬[俄羅斯製反飛彈戰車ZSU](../Page/俄羅斯.md "wikilink")23-4受到平面波攻擊的情形，其計算節點高達2.5兆個之多。
+Toolkit）是一個[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、支援[平行處理](https://zh.wikipedia.org/wiki/平行處理 "wikilink")（VTK曾用於處理大小近乎1個[Petabyte的資料](https://zh.wikipedia.org/wiki/Petabyte "wikilink")，其平台為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Los
+Alamos國家實驗室所有的具](https://zh.wikipedia.org/wiki/Los_Alamos國家實驗室 "wikilink")1024個[處理器之大型系統](https://zh.wikipedia.org/wiki/處理器 "wikilink")）的圖形應用函式庫。2005年時曾被美國陸軍研究實驗室用於即時模擬[俄羅斯製反飛彈戰車ZSU](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")23-4受到平面波攻擊的情形，其計算節點高達2.5兆個之多。
 
 該函式庫以開放源碼的[BSD授權釋出](../Page/BSD许可证.md "wikilink")。
 
@@ -29,7 +29,7 @@ Lorensen三人合著；2004年八月出版。
 
 ## 其他
 
-  - [科學視覺化](../Page/視覺化.md "wikilink")
+  - [科學視覺化](https://zh.wikipedia.org/wiki/視覺化 "wikilink")
 
   -
   - [SIGGRAPH](../Page/SIGGRAPH.md "wikilink")

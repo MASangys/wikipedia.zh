@@ -1,7 +1,7 @@
 《**BALDR
 SKY**》是由[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年宣布製作的遊戲，作品分為兩部分「Dive1
 "LostMemory"」和「Dive2
-"RECORDARE"」，DIVE1於2009年3月27日發售，為[BALDR系列的第五作](../Page/戲畫_\(遊戲品牌\)#BALDR系列.md "wikilink")，屬於[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")，同樣由TEAM
+"RECORDARE"」，DIVE1於2009年3月27日發售，為[BALDR系列的第五作](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")，屬於[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，同樣由TEAM
 BALDRHEAD負責製作。動作遊戲部分不是《[Xross
 Scramble](../Page/Xross_Scramble.md "wikilink")》的新形式，而是基於《[BALDR
 FORCE](../Page/BALDR_FORCE.md "wikilink")》的舊系統發展。2010年9月24日發售Fandisk《BALDR
@@ -15,7 +15,7 @@ SKY Dive X "DREAM WORLD"》。
 
 ## 系統
 
-承續[BALDR系列特有的冒險劇情](../Page/BALDR系列.md "wikilink")+2D戰鬥所構成。
+承續[BALDR系列特有的冒險劇情](https://zh.wikipedia.org/wiki/BALDR系列 "wikilink")+2D戰鬥所構成。
 
 以主角的「過去」以及「現在」二個視點交錯敘述劇情，並且以現實世界的事情與網路虛擬空間，在兩處之間不斷轉換交疊而成的多層故事結構。
 
@@ -80,7 +80,7 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 <!-- end list -->
 
   - 魔狼（フェンリル）
-    當時惡名昭彰的[PMC](../Page/Private_military_company.md "wikilink")，是個只重視金錢而不在乎是非的武裝集團，擅長情報戰及電腦戰。
+    當時惡名昭彰的[PMC](https://zh.wikipedia.org/wiki/Private_military_company "wikilink")，是個只重視金錢而不在乎是非的武裝集團，擅長情報戰及電腦戰。
     由於臭名遠播的關係，絕大多數的城市都不准他們進入，所以表面上他們是以「門倉運輸」的名義活動。
     領導人是甲的父親門倉永二。
 
@@ -93,7 +93,7 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 <!-- end list -->
 
   - 崔斯勒機關（ドレクスラー機関）
-    由統合軍所設立的[奈米機器研究機構](../Page/奈米科技.md "wikilink")。
+    由統合軍所設立的[奈米機器研究機構](https://zh.wikipedia.org/wiki/奈米科技 "wikilink")。
     當時以改善自然環境的第二世代奈米機器的研究為主，但是在「灰色聖誕節」之後下落不明。
 
 ### 名詞
@@ -269,7 +269,7 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 ;
 
   -
-    星修學園講師，同時是崔斯勒機關的研究員，得知甲擁有「」之後，主動傳授關於在電子空間戰鬥的各種相關知識及規則。擅長[二刀流](../Page/二刀流.md "wikilink")
+    星修學園講師，同時是崔斯勒機關的研究員，得知甲擁有「」之後，主動傳授關於在電子空間戰鬥的各種相關知識及規則。擅長[二刀流](https://zh.wikipedia.org/wiki/二刀流 "wikilink")
 
   - ;戰鬥用電子體：
 
@@ -283,7 +283,7 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 ;
 
   -
-    [法國人](../Page/法國.md "wikilink")，。學生時代就讀於鳳翔學園，由於擁有優秀的遺傳因子，看不起其他人，和甲在學生時代有過節，喜歡以人海戰術壓制對方(無論現實或電子戰)，標準的反派角色。
+    [法國人](https://zh.wikipedia.org/wiki/法國 "wikilink")，。學生時代就讀於鳳翔學園，由於擁有優秀的遺傳因子，看不起其他人，和甲在學生時代有過節，喜歡以人海戰術壓制對方(無論現實或電子戰)，標準的反派角色。
 
   - ;現代：
 
@@ -312,7 +312,7 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 ;
 
   -
-    魔狼成員，階級是中尉。擁有[印第安人血統的](../Page/印第安人.md "wikilink")。西塞爾的部下，極少說話，但有口頭禪「」。
+    魔狼成員，階級是中尉。擁有[印第安人血統的](https://zh.wikipedia.org/wiki/印第安人 "wikilink")。西塞爾的部下，極少說話，但有口頭禪「」。
 
   - ;戰鬥用電子體：「」。
 
@@ -428,12 +428,12 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
 ### Dive1
 
   - 主題曲「」
-    作詞、歌唱：[KOTOKO](../Page/KOTOKO.md "wikilink")
-    作曲、編曲：[C.G mix](../Page/C.G_mix.md "wikilink")
+    作詞、歌唱：[KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
+    作曲、編曲：[C.G mix](https://zh.wikipedia.org/wiki/C.G_mix "wikilink")
   - 插入曲「」
     歌唱：[片霧烈火](../Page/片霧烈火.md "wikilink")
     作曲：wight，作曲、編曲：mo2，製作：[Barbarian On The
-    Groove](../Page/Barbarian_On_The_Groove.md "wikilink")
+    Groove](https://zh.wikipedia.org/wiki/Barbarian_On_The_Groove "wikilink")
 
 ### Dive2
 
@@ -451,18 +451,18 @@ Dive1與Dive2都需依照一定順序進行劇情，才能開啟其他女主角�
     歌唱：片霧烈火
     製作：Barbarian On The Groove
   - 結尾曲「Across the Destiny」
-    作詞、歌唱：[仲村芽衣子](../Page/仲村芽衣子.md "wikilink")
+    作詞、歌唱：[仲村芽衣子](https://zh.wikipedia.org/wiki/仲村芽衣子 "wikilink")
     作曲、編曲：
 
 ## 漫畫
 
 漫畫化作品於遊戲發售前，於《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》4月號（2009年2月26日發售）開始連載，[田中康二作畫](../Page/田中康二.md "wikilink")。內容為門倉甲學生時代的故事。
+Ace](../Page/月刊Comp_Ace.md "wikilink")》4月號（2009年2月26日發售）開始連載，[田中康二作畫](https://zh.wikipedia.org/wiki/田中康二 "wikilink")。內容為門倉甲學生時代的故事。
 
 ## 小說
 
 Baldr Sky Another
-Days，於2010年9月24日與DiveX同時發售，由[HARVEST出版發行](../Page/HARVEST出版.md "wikilink")，執筆作家同樣為遊戲劇本家[卑影ムラサキ](../Page/卑影ムラサキ.md "wikilink")。內容為沒有發生灰色聖誕節事件後的故事。
+Days，於2010年9月24日與DiveX同時發售，由[HARVEST出版發行](../Page/HARVEST出版.md "wikilink")，執筆作家同樣為遊戲劇本家[卑影ムラサキ](https://zh.wikipedia.org/wiki/卑影ムラサキ "wikilink")。內容為沒有發生灰色聖誕節事件後的故事。
 
 ## 關聯項目
 

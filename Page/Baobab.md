@@ -5,9 +5,9 @@
 
 ## 参见
 
-  - [Filelight](../Page/Filelight.md "wikilink")，[KDE下类似的应用程序](../Page/KDE.md "wikilink")
+  - [Filelight](https://zh.wikipedia.org/wiki/Filelight "wikilink")，[KDE下类似的应用程序](../Page/KDE.md "wikilink")
   - [GParted](../Page/GParted.md "wikilink")
-  - [SequoiaView](../Page/SequoiaView.md "wikilink")
+  - [SequoiaView](https://zh.wikipedia.org/wiki/SequoiaView "wikilink")
 
 ## 参考资料
 

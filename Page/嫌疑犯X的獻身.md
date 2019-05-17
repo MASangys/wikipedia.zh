@@ -1,7 +1,7 @@
 《**嫌疑犯X的獻身**》（）是[日本作家](../Page/日本.md "wikilink")[東野圭吾的](../Page/東野圭吾.md "wikilink")[長篇](../Page/長篇小說.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，也是「伽利略系列」的第三本小說。2003年起以「**嫌疑犯X**」為題於《》連載。2005年8月於[文藝春秋出版](../Page/文藝春秋.md "wikilink")，出版的時候改成現在的標題。2011年英文版出版，譯名《**The
 Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語言翻譯代理的作品。
 
-電影版於2008年10月4日在日本上映，並由與電視劇《[神探伽利略](../Page/神探伽利略.md "wikilink")》相同的演員主演。同年12月24日在台灣上映。该片亦被提名[2009年香港電影金像獎](../Page/2009年香港電影金像獎.md "wikilink")[最佳亞洲電影獎](../Page/2009年香港電影金像獎#最佳亞洲電影.md "wikilink")。
+電影版於2008年10月4日在日本上映，並由與電視劇《[神探伽利略](../Page/神探伽利略.md "wikilink")》相同的演員主演。同年12月24日在台灣上映。该片亦被提名[2009年香港電影金像獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎 "wikilink")[最佳亞洲電影獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎#最佳亞洲電影 "wikilink")。
 
 ## 出版書籍
 
@@ -12,7 +12,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <th><p>出版日期</p></th>
 <th><p>格式</p></th>
 <th><p>頁數</p></th>
-<th><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></th>
 <th><p>譯者</p></th>
 </tr>
 </thead>
@@ -94,7 +94,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <td><p>2009年12月29日</p></td>
 <td><p>再版</p></td>
 <td><p>366頁</p></td>
-<td><p><a href="../Page/EAN.md" title="wikilink">EAN</a> 4717702069605</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a> 4717702069605</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -138,7 +138,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/阿歇特出版公司.md" title="wikilink">阿歇特出版公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿歇特出版公司" title="wikilink">阿歇特出版公司</a></p></td>
 <td><p>2012年2月2日</p></td>
 <td><p>平裝書</p></td>
 <td><p>374頁</p></td>
@@ -162,7 +162,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Argo.md" title="wikilink">Argo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Argo" title="wikilink">Argo</a></p></td>
 <td><p>2012年11月</p></td>
 <td><p>平裝書</p></td>
 <td><p>284頁</p></td>
@@ -222,16 +222,16 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ## 登場人物
 
-關於[湯川學](../Page/伽利略系列#湯川學.md "wikilink")、[草薙俊平](../Page/伽利略系列#草薙俊平.md "wikilink")、[內海薰等人物請參看](../Page/伽利略系列#內海薰.md "wikilink")「[伽利略系列－登場人物](../Page/伽利略系列#登場人物.md "wikilink")」。
+關於[湯川學](https://zh.wikipedia.org/wiki/伽利略系列#湯川學 "wikilink")、[草薙俊平](https://zh.wikipedia.org/wiki/伽利略系列#草薙俊平 "wikilink")、[內海薰等人物請參看](https://zh.wikipedia.org/wiki/伽利略系列#內海薰 "wikilink")「[伽利略系列－登場人物](https://zh.wikipedia.org/wiki/伽利略系列#登場人物 "wikilink")」。
 
   -
-    高中數學老師，與花岡靖子是同一棟公寓中的鄰居。由於頂著稀疏的頭髮與圓臉，使得看起來较老，实际和湯川、草薙是[帝都大學的同届学生](../Page/帝都大學.md "wikilink")。大學時代被稱為「[達摩石神](../Page/達摩.md "wikilink")」，和湯川一樣都是非常有才華的天才。原本想當一個數學家，卻因為家裡的關係而無法繼續進行研究，最终只能在高中任教。暗中喜歡花岡靖子。
+    高中數學老師，與花岡靖子是同一棟公寓中的鄰居。由於頂著稀疏的頭髮與圓臉，使得看起來较老，实际和湯川、草薙是[帝都大學的同届学生](https://zh.wikipedia.org/wiki/帝都大學 "wikilink")。大學時代被稱為「[達摩石神](https://zh.wikipedia.org/wiki/達摩 "wikilink")」，和湯川一樣都是非常有才華的天才。原本想當一個數學家，卻因為家裡的關係而無法繼續進行研究，最终只能在高中任教。暗中喜歡花岡靖子。
     在小說中他是前柔道部的成員，但在電影中卻將他的興趣改為登山。
 
 <!-- end list -->
 
   -
-    在[赤坂當過](../Page/赤坂.md "wikilink")[陪酒女郎](../Page/陪酒女郎.md "wikilink")，之後在「弁天亭」擔任店員。（在電影中是擔任美里便當店的店長）。第一段婚姻失敗，與第二任丈夫富樫離婚後過著顛沛流離的生活。對總是連累美里感到很抱歉，工藤是她當陪酒女郎時的朋友。
+    在[赤坂當過](../Page/赤坂.md "wikilink")[陪酒女郎](https://zh.wikipedia.org/wiki/陪酒女郎 "wikilink")，之後在「弁天亭」擔任店員。（在電影中是擔任美里便當店的店長）。第一段婚姻失敗，與第二任丈夫富樫離婚後過著顛沛流離的生活。對總是連累美里感到很抱歉，工藤是她當陪酒女郎時的朋友。
 
 <!-- end list -->
 
@@ -252,11 +252,11 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 ## 書籍評價
 
   - 2006年
-    第134回「[直木三十五獎](../Page/直木三十五獎#第131回～第140回.md "wikilink")」　<span style="color:#ff5d22">獲獎</span>
+    第134回「[直木三十五獎](https://zh.wikipedia.org/wiki/直木三十五獎#第131回～第140回 "wikilink")」　<span style="color:#ff5d22">獲獎</span>
   - 2006年
     第6回「[本格推理大獎](../Page/本格推理大獎.md "wikilink")」　<span style="color:#ff5d22">獲獎</span>
   - 2012年
-    「[2012年版週刊文春百大推理小說](../Page/週刊文春百大推理小說#2012年版.md "wikilink")」　<span style="color:#ff5d22">上榜</span>
+    「[2012年版週刊文春百大推理小說](https://zh.wikipedia.org/wiki/週刊文春百大推理小說#2012年版 "wikilink")」　<span style="color:#ff5d22">上榜</span>
   - 2006年 「[週刊文春推理小說 Best
     10](../Page/週刊文春推理小說_Best_10.md "wikilink")」　第1名　<span style="color:#ff5d22">獲獎</span>
   - 2006年
@@ -281,15 +281,15 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 <tr class="odd">
 <td><p><span style="color:#006400">第133回</span><br />
 <a href="../Page/朱川湊人.md" title="wikilink">朱川湊人</a><br />
-《<a href="../Page/花食.md" title="wikilink">花食</a>》</p></td>
+《<a href="https://zh.wikipedia.org/wiki/花食" title="wikilink">花食</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>本格推理大獎</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#006400">第5回</span><br />
-<a href="../Page/法月綸太郎.md" title="wikilink">法月綸太郎</a><br />
-《<a href="../Page/去問人頭吧.md" title="wikilink">去問人頭吧</a>》</p></td>
+<a href="https://zh.wikipedia.org/wiki/法月綸太郎" title="wikilink">法月綸太郎</a><br />
+《<a href="https://zh.wikipedia.org/wiki/去問人頭吧" title="wikilink">去問人頭吧</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -300,7 +300,7 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 《嫌疑犯X的獻身》在2005年出版的本格推理小說中脫穎而出，獲得2006年的「本格推理小說Best10」的第一名。對此推理作家[二階堂黎人在](../Page/二階堂黎人.md "wikilink")[自己的網站上](https://web.archive.org/web/20120627141525/http://homepage1.nifty.com/NIKAIDOU/)提出了疑問。
 
-二階堂認為《嫌疑犯X的獻身》的作者在敘述故事過程中有意隱藏推理的線索，完全不能滿足成為[本格推理小說所要求的條件](../Page/本格派推理小説.md "wikilink")（因此不應該獲得「本格推理小說Best10」第一名）。圍繞這話題眾多作家和評論家在《[EQMM日本版](../Page/艾勒里·昆恩推理雜誌.md "wikilink")》\[4\]上發表了自己的意見，之後展開論戰。過程中雖然二階堂被指其觀點有多處矛盾和判斷錯誤，但二階堂仍然堅持己見。
+二階堂認為《嫌疑犯X的獻身》的作者在敘述故事過程中有意隱藏推理的線索，完全不能滿足成為[本格推理小說所要求的條件](https://zh.wikipedia.org/wiki/本格派推理小説 "wikilink")（因此不應該獲得「本格推理小說Best10」第一名）。圍繞這話題眾多作家和評論家在《[EQMM日本版](https://zh.wikipedia.org/wiki/艾勒里·昆恩推理雜誌 "wikilink")》\[4\]上發表了自己的意見，之後展開論戰。過程中雖然二階堂被指其觀點有多處矛盾和判斷錯誤，但二階堂仍然堅持己見。
 
 這場論戰最終以等權威人士力挺「《嫌疑犯X的獻身》是本格推理小說」的立場、本作在之後的2006年5月獲頒「第六屆本格推理小說大獎」、二階堂的觀點被否定的形式而結束。但笠井批評本作是「標準的面向入門者的本格作品」，因此「缺乏偵探小說的精神核心」，對推理小說相關人士吹捧本作也進行了嚴厲的批判。
 
@@ -310,53 +310,53 @@ Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語
 
 ### 2008年日本版
 
-2008年10月4日上映的日本電影，導演[西谷弘](../Page/西谷弘.md "wikilink")，[福山雅治和](../Page/福山雅治.md "wikilink")[柴崎幸主演](../Page/柴崎幸.md "wikilink")。
+2008年10月4日上映的日本電影，導演[西谷弘](https://zh.wikipedia.org/wiki/西谷弘 "wikilink")，[福山雅治和](../Page/福山雅治.md "wikilink")[柴崎幸主演](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。
 
 ### 2012年韓國版
 
-《**嫌疑犯X**》（韓語：****，英語：****），為2012年10月18日上映的韓國改編電影，导演为[方恩珍](../Page/方恩珍.md "wikilink")，[柳承範](../Page/柳承範.md "wikilink")、[李枖原和](../Page/李枖原.md "wikilink")[趙震雄主演](../Page/趙震雄.md "wikilink")。
+《**嫌疑犯X**》（韓語：****，英語：****），為2012年10月18日上映的韓國改編電影，导演为[方恩珍](https://zh.wikipedia.org/wiki/方恩珍 "wikilink")，[柳承範](../Page/柳承範.md "wikilink")、[李枖原和](../Page/李枖原.md "wikilink")[趙震雄主演](../Page/趙震雄.md "wikilink")。
 
 #### 主演（韓國版）
 
   - 石固 - [柳承範](../Page/柳承範.md "wikilink")
   - 花善 - [李枖原](../Page/李枖原.md "wikilink")
   - 明範 - [趙震雄](../Page/趙震雄.md "wikilink")
-  - 尚俊 - [金胤成](../Page/金胤成.md "wikilink")
+  - 尚俊 - [金胤成](https://zh.wikipedia.org/wiki/金胤成 "wikilink")
   - 允兒 - [金寶拉](../Page/金寶拉.md "wikilink")
-  - 太佑 - [李錫俊](../Page/李錫俊.md "wikilink")
+  - 太佑 - [李錫俊](https://zh.wikipedia.org/wiki/李錫俊 "wikilink")
   - 貞淑 - [林性珉](../Page/林性珉.md "wikilink")
-  - 哲民 - [郭敏昊](../Page/郭敏昊.md "wikilink")
+  - 哲民 - [郭敏昊](https://zh.wikipedia.org/wiki/郭敏昊 "wikilink")
   - 隊長 - [權海驍](../Page/權海驍.md "wikilink")
-  - 科長 - [南閔哲](../Page/南閔哲.md "wikilink")
+  - 科長 - [南閔哲](https://zh.wikipedia.org/wiki/南閔哲 "wikilink")
 
 ### 2017年中國大陸版
 
-2017年3月31日上映的华语電影，导演[蘇有朋](../Page/蘇有朋.md "wikilink")。[王凯](../Page/王凯.md "wikilink")（少年期：[侯明昊](../Page/侯明昊.md "wikilink")）、[张鲁一](../Page/张鲁一.md "wikilink")（少年期：[焉栩嘉](../Page/焉栩嘉.md "wikilink")）、[任熙青](../Page/任熙青.md "wikilink")、[林心如和](../Page/林心如.md "wikilink")[葉祖新主演](../Page/葉祖新.md "wikilink")。
+2017年3月31日上映的华语電影，导演[蘇有朋](../Page/蘇有朋.md "wikilink")。[王凯](https://zh.wikipedia.org/wiki/王凯 "wikilink")（少年期：[侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")）、[张鲁一](../Page/张鲁一.md "wikilink")（少年期：[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")）、[任熙青](https://zh.wikipedia.org/wiki/任熙青 "wikilink")、[林心如和](https://zh.wikipedia.org/wiki/林心如 "wikilink")[葉祖新主演](https://zh.wikipedia.org/wiki/葉祖新 "wikilink")。
 
 ## 舞台劇
 
-由「演劇集團Caramelbox」編成舞台劇。編劇和導演由[成井豐擔任](../Page/成井豐.md "wikilink")。從2009年4月18日起至4月26日在「新神戶
+由「演劇集團Caramelbox」編成舞台劇。編劇和導演由[成井豐擔任](https://zh.wikipedia.org/wiki/成井豐 "wikilink")。從2009年4月18日起至4月26日在「新神戶
 Oriental
-Theatre」公演，同年4月30日至5月24日在[東京](../Page/東京.md "wikilink")[池袋的](../Page/池袋.md "wikilink")「Sunshine劇場」公演。
+Theatre」公演，同年4月30日至5月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[池袋的](../Page/池袋.md "wikilink")「Sunshine劇場」公演。
 
-2012年同樣由「演劇集團Caramelbox」5月12日至6月3日在「Sunshine劇場」演出，同年6月7日至6月12日在大阪「[梅田藝術劇場](../Page/梅田藝術劇場.md "wikilink")」的「シアター・ドラマシティ」廳演出，6月15～16日在[東京](../Page/東京.md "wikilink")[北千住的](../Page/北千住.md "wikilink")「」演出。
+2012年同樣由「演劇集團Caramelbox」5月12日至6月3日在「Sunshine劇場」演出，同年6月7日至6月12日在大阪「[梅田藝術劇場](../Page/梅田藝術劇場.md "wikilink")」的「シアター・ドラマシティ」廳演出，6月15～16日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[北千住的](https://zh.wikipedia.org/wiki/北千住 "wikilink")「」演出。
 
 ### 主演
 
   - 石神哲哉 -
-    [西川浩幸](../Page/西川浩幸.md "wikilink")／[近江谷太朗](../Page/近江谷太朗.md "wikilink")(2012年版)
-  - 花岡靖子 - [西牟田惠](../Page/西牟田惠.md "wikilink")
-  - 花岡美里 - [實川貴美子](../Page/實川貴美子.md "wikilink")
-  - 湯川學 - [岡田達也](../Page/岡田達也.md "wikilink")
+    [西川浩幸](https://zh.wikipedia.org/wiki/西川浩幸 "wikilink")／[近江谷太朗](https://zh.wikipedia.org/wiki/近江谷太朗 "wikilink")(2012年版)
+  - 花岡靖子 - [西牟田惠](https://zh.wikipedia.org/wiki/西牟田惠 "wikilink")
+  - 花岡美里 - [實川貴美子](https://zh.wikipedia.org/wiki/實川貴美子 "wikilink")
+  - 湯川學 - [岡田達也](https://zh.wikipedia.org/wiki/岡田達也 "wikilink")
   - 草薙俊平 -
-    [齋藤步](../Page/齋藤步.md "wikilink")／[小林正寛](../Page/小林正寛.md "wikilink")(2012年版)
-  - 間宮刑警 - [川原和久](../Page/川原和久.md "wikilink")
+    [齋藤步](https://zh.wikipedia.org/wiki/齋藤步 "wikilink")／[小林正寛](https://zh.wikipedia.org/wiki/小林正寛 "wikilink")(2012年版)
+  - 間宮刑警 - [川原和久](https://zh.wikipedia.org/wiki/川原和久 "wikilink")
   - 米沢小代子 -
-    [大森美紀子](../Page/大森美紀子.md "wikilink")／[坂口理惠](../Page/坂口理惠.md "wikilink")(2012年版)
-  - 金子芹香/山邊曜子 - [前田綾](../Page/前田綾.md "wikilink")
-  - 工藤邦明 - [三浦剛](../Page/三浦剛.md "wikilink")
-  - 岸谷由紀夫 - [筒井俊作](../Page/筒井俊作.md "wikilink")
-  - 富樫慎二/学生 - [石原善暢](../Page/石原善暢.md "wikilink")
+    [大森美紀子](https://zh.wikipedia.org/wiki/大森美紀子 "wikilink")／[坂口理惠](https://zh.wikipedia.org/wiki/坂口理惠 "wikilink")(2012年版)
+  - 金子芹香/山邊曜子 - [前田綾](https://zh.wikipedia.org/wiki/前田綾 "wikilink")
+  - 工藤邦明 - [三浦剛](https://zh.wikipedia.org/wiki/三浦剛 "wikilink")
+  - 岸谷由紀夫 - [筒井俊作](https://zh.wikipedia.org/wiki/筒井俊作 "wikilink")
+  - 富樫慎二/学生 - [石原善暢](https://zh.wikipedia.org/wiki/石原善暢 "wikilink")
   - 遊民 - 小林春世/市川草太/鈴木秀明(2012年版)
 
 ## 相關條目
@@ -393,5 +393,5 @@ Theatre」公演，同年4月30日至5月24日在[東京](../Page/東京.md "wik
     Awards](http://www.examiner.com/article/the-nominees-and-winners-for-the-2012-barry-awards)
 3.  [ALA.org » RUSA » RUSA Awards » The Reading List » The 2012
     List](http://www.ala.org/rusa/awards/readinglist/2012)
-4.  1941年在[美國創刊的月刊](../Page/美國.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")[雜誌Ellery](../Page/雜誌.md "wikilink")
+4.  1941年在[美國創刊的月刊](https://zh.wikipedia.org/wiki/美國 "wikilink")[推理小說](../Page/推理小說.md "wikilink")[雜誌Ellery](https://zh.wikipedia.org/wiki/雜誌 "wikilink")
     Queen's Mystery Magazine、簡稱EQMM，有日文版。

@@ -1,12 +1,12 @@
-**Galneryus**，是[日本的](../Page/日本.md "wikilink")[重金屬音樂](../Page/重金屬音樂.md "wikilink")、[力量金屬](../Page/力量金屬.md "wikilink")、[新古典金屬](../Page/新古典金屬.md "wikilink")、[旋律金屬樂隊](../Page/旋律金屬.md "wikilink")。2001年於[大阪組成](../Page/大阪.md "wikilink")，2003年由所屬唱片公司[Vap正式推廌出道](../Page/Vap.md "wikilink")。
+**Galneryus**，是[日本的](../Page/日本.md "wikilink")[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[力量金屬](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")、[新古典金屬](../Page/新古典金屬.md "wikilink")、[旋律金屬樂隊](https://zh.wikipedia.org/wiki/旋律金屬 "wikilink")。2001年於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")，2003年由所屬唱片公司[Vap正式推廌出道](https://zh.wikipedia.org/wiki/Vap "wikilink")。
 
 ## 成員
 
-  - [小野正利](../Page/小野正利.md "wikilink")（[主唱](../Page/主唱.md "wikilink")）
+  - [小野正利](https://zh.wikipedia.org/wiki/小野正利 "wikilink")（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")）
   - [Syu](../Page/Syu.md "wikilink")（[吉他](../Page/吉他.md "wikilink")）
-  - YUHKI（[鍵盤](../Page/鍵盤.md "wikilink")）
+  - YUHKI（[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")）
   - FUMIYA（[鼓](../Page/鼓.md "wikilink")）
-  - TAKA（[貝斯](../Page/貝斯.md "wikilink")）
+  - TAKA（[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")）
 
 ### 舊成員
 
@@ -17,56 +17,57 @@
 
 ## 來歷
 
-「Galneryus」這個名字源自史上最偉大的製琴名家之一，[意大利的](../Page/意大利.md "wikilink")[Guarneri家族製作的](../Page/Guarneri.md "wikilink")[Guarnerius](../Page/Guarnerius.md "wikilink")[小提琴](../Page/小提琴.md "wikilink")，是由雙親均擔任[鋼琴教師](../Page/鋼琴.md "wikilink")，從小在[古典音樂氛圍濃郁的家庭成長起來的SYU所命名](../Page/古典音樂.md "wikilink")，爲了描繪SYU本人對於音樂的理解，并將音樂的美好傳達給樂迷們。
+「Galneryus」這個名字源自史上最偉大的製琴名家之一，[意大利的](../Page/意大利.md "wikilink")[Guarneri家族製作的](https://zh.wikipedia.org/wiki/Guarneri "wikilink")[Guarnerius](https://zh.wikipedia.org/wiki/Guarnerius "wikilink")[小提琴](../Page/小提琴.md "wikilink")，是由雙親均擔任[鋼琴教師](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，從小在[古典音樂氛圍濃郁的家庭成長起來的SYU所命名](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")，爲了描繪SYU本人對於音樂的理解，并將音樂的美好傳達給樂迷們。
 
 在2001年，從小喜愛著[日本](../Page/日本.md "wikilink")[視覺系鼻祖樂隊](../Page/視覺系.md "wikilink")[X
-JAPAN以及其靈魂人物](../Page/X_JAPAN.md "wikilink")[YOSHIKI的SYU](../Page/YOSHIKI.md "wikilink")，將自己的視覺系樂隊「VALKYR」解散了，根據他在採訪中公開的原因是：「隊員的實力不濟，樂隊吸引不了觀眾，視覺系樂隊大多只是看上去很耀目而已」。
+JAPAN以及其靈魂人物](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI的SYU](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，將自己的視覺系樂隊「VALKYR」解散了，根據他在採訪中公開的原因是：「隊員的實力不濟，樂隊吸引不了觀眾，視覺系樂隊大多只是看上去很耀目而已」。
 
 在他流連于LIVE
-HOUSE之際，結識了以「GUNBRIDGE」為名義活動，集[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[演奏](../Page/演奏.md "wikilink")、[演唱于一身的SOLO歌手YAMA](../Page/演唱.md "wikilink")-B（山口將宏），兩人經過一番接觸并合作了一曲[Stratovarius的Father](../Page/Stratovarius.md "wikilink")
+HOUSE之際，結識了以「GUNBRIDGE」為名義活動，集[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[演奏](https://zh.wikipedia.org/wiki/演奏 "wikilink")、[演唱于一身的SOLO歌手YAMA](https://zh.wikipedia.org/wiki/演唱 "wikilink")-B（山口將宏），兩人經過一番接觸并合作了一曲[Stratovarius的Father](https://zh.wikipedia.org/wiki/Stratovarius "wikilink")
 Time后，決定組成 Galneryus。
 
 其後 SYU
-召集了包括其舊識在內的一些不知名樂手作為臨時成員，錄製了樂隊的首隻[單曲](../Page/單曲.md "wikilink")《United
+召集了包括其舊識在內的一些不知名樂手作為臨時成員，錄製了樂隊的首隻[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《United
 Flag》。這支單曲吸引了日後成為 Galneryus
-製作人的日本著名音樂人[久武賴正的目光](../Page/久武賴正.md "wikilink")。樂隊隨後進入他旗下的[品牌](../Page/品牌.md "wikilink")
+製作人的日本著名音樂人[久武賴正的目光](https://zh.wikipedia.org/wiki/久武賴正 "wikilink")。樂隊隨後進入他旗下的[品牌](../Page/品牌.md "wikilink")
 IRON SHOCK，并發行第二張錄音室單曲《Rebel Flag》。這期間，Galneryus
 也積極參加各種規模不等的演出，吸引到了越來越多真正樂迷的關注。2003年
 GALNERYUS 與 VAP 唱片公司簽約，正式出道。
 
-此時，樂隊已經確定了以 SYU 為[吉他手](../Page/吉他手.md "wikilink")，YAMA-B 為主唱，原「ARK
-STORM」的 YUHKI 擔任鍵盤手，原「Concerto Moon」的 JUNICHI SATO 擔任鼓手，以及 TSUI
-擔任貝斯手的正式陣容。從首張專輯《The Flag of
-Punishment》開始，隊邀請了日本著名[插畫家](../Page/插畫家.md "wikilink")[天野喜孝為他們繪製](../Page/天野喜孝.md "wikilink")[唱片](../Page/唱片.md "wikilink")[封面](../Page/封面.md "wikilink")。
+此時，樂隊已經確定了以 SYU
+為[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，YAMA-B
+為主唱，原「ARK STORM」的 YUHKI 擔任鍵盤手，原「Concerto Moon」的 JUNICHI SATO 擔任鼓手，以及
+TSUI 擔任貝斯手的正式陣容。從首張專輯《The Flag of
+Punishment》開始，隊邀請了日本著名[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[天野喜孝為他們繪製](../Page/天野喜孝.md "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[封面](https://zh.wikipedia.org/wiki/封面 "wikilink")。
 
 2006年，經過三張具有震撼性的專輯后，樂隊的知名度和 SYU
-的影響力都達到了一個小高峰，[ESP為其設計的簽名琴CRYING](../Page/ESP.md "wikilink")
+的影響力都達到了一個小高峰，[ESP為其設計的簽名琴CRYING](https://zh.wikipedia.org/wiki/ESP "wikilink")
 STAR登場，在當年LIVE FOR REBIRTH 的巡演中被 SYU 所使用，在逐漸成為 ESP
-頂級[代言人的同時](../Page/代言人.md "wikilink")，日本著名搖滾吉他雜誌《YOUNG
+頂級[代言人的同時](https://zh.wikipedia.org/wiki/代言人 "wikilink")，日本著名搖滾吉他雜誌《YOUNG
 GUITAR》也為 SYU 出版了個人專題的特刊〈SYU 100%〉。
 
 在日本的金屬界里，作為力量金屬的代表性樂隊，GALNERYUS 也以成員過硬強悍的技術，華麗恢弘的編曲，美妙激昂的旋律，以及大量的 SYU
 招牌性的動聽
-SOLO，形成了以自己為標籤的日本[新古典](../Page/新古典.md "wikilink")。在同年的巡演后，貝斯手TSUI
+SOLO，形成了以自己為標籤的日本[新古典](https://zh.wikipedia.org/wiki/新古典 "wikilink")。在同年的巡演后，貝斯手TSUI
 退出樂隊，由和 SYU 有著師徒關係的吉他手 YUTO(Leda) 頂替貝斯手的位置，並在2007年發表了第四張專輯。
 
 由此時開始，GALNERYUS
-的音樂變得更加趨於[簡單和](../Page/簡單.md "wikilink")[大眾化](../Page/大眾化.md "wikilink")，不僅在歌迷中引發[耳語和](../Page/耳語.md "wikilink")[爭議](../Page/爭議.md "wikilink")，2008年，主唱
+的音樂變得更加趨於[簡單和](https://zh.wikipedia.org/wiki/簡單 "wikilink")[大眾化](https://zh.wikipedia.org/wiki/大眾化 "wikilink")，不僅在歌迷中引發[耳語和](https://zh.wikipedia.org/wiki/耳語 "wikilink")[爭議](https://zh.wikipedia.org/wiki/爭議 "wikilink")，2008年，主唱
 YAMA-B 在第五張專輯的錄製中向外公開了“音樂理念不合”，並將在巡演后退出 GALNERYUS 的聲明。一石激起千層浪，樂迷們對 SYU
 的質疑之聲頓時不絕於耳，加之其後不久貝斯手 YUTO(Leda) 也宣佈離隊，外界變開始猜測 GALNERYUS
 將面臨一段遙遙無期的沉寂。
 
 2009年，因為受邀參加 PURE ROCK JAPAN，SYU
-和久武賴正商議后決定邀請日本著名的高音男歌手[小野正利擔任臨時主唱](../Page/小野正利.md "wikilink")，并招募了先前還默默無名的貝斯手
+和久武賴正商議后決定邀請日本著名的高音男歌手[小野正利擔任臨時主唱](https://zh.wikipedia.org/wiki/小野正利 "wikilink")，并招募了先前還默默無名的貝斯手
 TAKA，以便順利出演。
 
 這次演出成為了兩位成員正式加入 GALNERYUS 的契機和試驗。2010年，GALNERYUS
 推出了可能是目前銷量最高的第六張錄音室專輯《Resurrection》，
-在[日本公信榜首周排名](../Page/日本公信榜.md "wikilink")35位，并在一個月後得到了在[NHK電視臺音樂節目](../Page/NHK.md "wikilink")《MUSIC
+在[日本公信榜首周排名](https://zh.wikipedia.org/wiki/日本公信榜 "wikilink")35位，并在一個月後得到了在[NHK電視臺音樂節目](https://zh.wikipedia.org/wiki/NHK "wikilink")《MUSIC
 JAPAN》做現場表演的機會。
 
-2011年，因受311[東日本大地震的影響](../Page/東日本大地震.md "wikilink")，GALNERYUS
-將新專輯的主題定義“為日本加油”，[ORICON](../Page/ORICON.md "wikilink")
+2011年，因受311[東日本大地震的影響](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")，GALNERYUS
+將新專輯的主題定義“為日本加油”，[ORICON](https://zh.wikipedia.org/wiki/ORICON "wikilink")
 初登場17位，有望打破前作的銷量記錄。同時，小野正利作為 SOLO 歌手也在積極開拓個人的事業，并直接為想要開拓音樂版圖，挑戰主流音樂界的
 GALNERYUS 作更多的宣傳。
 
@@ -94,16 +95,17 @@ ANGEL OF SALVATION，驚豔全場。
   - 2005年
   - 2006年
   - 2007年 [ONE FOR ALL - ALL FOR
-    ONE](../Page/ONE_FOR_ALL_-_ALL_FOR_ONE.md "wikilink")
+    ONE](https://zh.wikipedia.org/wiki/ONE_FOR_ALL_-_ALL_FOR_ONE "wikilink")
   - 2008年
-  - 2010年 [Resurrection](../Page/Resurrection.md "wikilink")
+  - 2010年
+    [Resurrection](https://zh.wikipedia.org/wiki/Resurrection "wikilink")
   - 2011年
-  - 2012年 [絆](../Page/絆.md "wikilink")(迷你專輯)
+  - 2012年 [絆](https://zh.wikipedia.org/wiki/絆 "wikilink")(迷你專輯)
   - 2012年
   - 2013年 [THE IRONHEARTED FLAG Vol.1 : REGENERATION
-    SIDE(完全生産限定盤)](../Page/THE_IRONHEARTED_FLAG_Vol.1_:_REGENERATION_SIDE\(完全生産限定盤\).md "wikilink")
+    SIDE(完全生産限定盤)](https://zh.wikipedia.org/wiki/THE_IRONHEARTED_FLAG_Vol.1_:_REGENERATION_SIDE\(完全生産限定盤\) "wikilink")
   - 2013年 [THE IRONHEARTED FLAG Vol.2 : REFORMATION
-    SIDE(完全生産限定盤)](../Page/THE_IRONHEARTED_FLAG_Vol.2_:_REFORMATION_SIDE\(完全生産限定盤\).md "wikilink")
+    SIDE(完全生産限定盤)](https://zh.wikipedia.org/wiki/THE_IRONHEARTED_FLAG_Vol.2_:_REFORMATION_SIDE\(完全生産限定盤\) "wikilink")
   - 2014年
   - 2015年
   - 2017年
@@ -115,22 +117,27 @@ ANGEL OF SALVATION，驚豔全場。
 
 ### 單曲
 
-  - 2001年 [United Flag](../Page/United_Flag.md "wikilink")
-  - 2002年 [Rebel Flag](../Page/Rebel_Flag.md "wikilink")
-  - 2007年 [Everlasting](../Page/Everlasting.md "wikilink")
+  - 2001年 [United
+    Flag](https://zh.wikipedia.org/wiki/United_Flag "wikilink")
+  - 2002年 [Rebel
+    Flag](https://zh.wikipedia.org/wiki/Rebel_Flag "wikilink")
+  - 2007年
+    [Everlasting](https://zh.wikipedia.org/wiki/Everlasting "wikilink")
   - 2008年 [Alsatia /Cause
-    Disarray](../Page/Alsatia_/Cause_Disarray.md "wikilink")（[動畫](../Page/動畫.md "wikilink")《[記憶女神的女兒們](../Page/記憶女神的女兒們.md "wikilink")》片頭曲、片尾曲）
-  - 2008年 [Shining Moments](../Page/Shining_Moments.md "wikilink")
+    Disarray](https://zh.wikipedia.org/wiki/Alsatia_/Cause_Disarray "wikilink")（[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[記憶女神的女兒們](../Page/記憶女神的女兒們.md "wikilink")》片頭曲、片尾曲）
+  - 2008年 [Shining
+    Moments](https://zh.wikipedia.org/wiki/Shining_Moments "wikilink")
   - 2010年 [A FAR-OFF
-    DISTANCE](../Page/A_FAR-OFF_DISTANCE.md "wikilink")（[動畫](../Page/動畫.md "wikilink")《[少年犯罪檔案](../Page/少年犯罪檔案.md "wikilink")》片尾曲）
-  - 2011年 [Future Never Dies](../Page/Future_Never_Dies.md "wikilink")
+    DISTANCE](https://zh.wikipedia.org/wiki/A_FAR-OFF_DISTANCE "wikilink")（[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[少年犯罪檔案](https://zh.wikipedia.org/wiki/少年犯罪檔案 "wikilink")》片尾曲）
+  - 2011年 [Future Never
+    Dies](https://zh.wikipedia.org/wiki/Future_Never_Dies "wikilink")
   - 2011年 [絆 FIST OF THE BLUE
-    SKY](../Page/絆_FIST_OF_THE_BLUE_SKY.md "wikilink")（[柏青哥](../Page/柏青哥.md "wikilink")《ぱちんこ
+    SKY](https://zh.wikipedia.org/wiki/絆_FIST_OF_THE_BLUE_SKY "wikilink")（[柏青哥](https://zh.wikipedia.org/wiki/柏青哥 "wikilink")《ぱちんこ
     CR 蒼天の拳2》主题曲）
   - 2012年 [Hunting For Your
-    Dream](../Page/Hunting_For_Your_Dream.md "wikilink")
+    Dream](https://zh.wikipedia.org/wiki/Hunting_For_Your_Dream "wikilink")
   - 2014年 [ATTITUDE TO
-    LIFE](../Page/ATTITUDE_TO_LIFE.md "wikilink")（[動畫](../Page/動畫.md "wikilink")《[笑傲曇天](../Page/笑傲曇天.md "wikilink")》片尾曲）
+    LIFE](https://zh.wikipedia.org/wiki/ATTITUDE_TO_LIFE "wikilink")（[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[笑傲曇天](../Page/笑傲曇天.md "wikilink")》片尾曲）
 
 ### 其他
 
@@ -155,19 +162,21 @@ ANGEL OF SALVATION，驚豔全場。
 
 ## 關聯樂隊
 
-  - [Animetal](../Page/Animetal.md "wikilink")／Syu
-  - [AUSHVITZ](../Page/AUSHVITZ.md "wikilink")／Syu
-  - [VALKYR](../Page/VALKYR.md "wikilink")／Syu
-  - [GUNBRIDGE](../Page/GUNBRIDGE.md "wikilink")／YAMA-B
-  - [AXBITES](../Page/AXBITES.md "wikilink")／YAMA-B
-  - [ARK STORM](../Page/ARK_STORM.md "wikilink")／YUHKI
-  - [ALHAMBRA](../Page/ALHAMBRA.md "wikilink")／YUHKI
-  - [PROPHESIA](../Page/PROPHESIA.md "wikilink")／YUHKI
-  - [Concerto Moon](../Page/Concerto_Moon.md "wikilink")／JUNICHI（佐藤潤一）
-  - [SOH-BAND](../Page/SOH-BAND.md "wikilink")／JUNICHI（佐藤潤一）
-  - [DELUHI](../Page/DELUHI.md "wikilink")（原為GRAVE
+  - [Animetal](https://zh.wikipedia.org/wiki/Animetal "wikilink")／Syu
+  - [AUSHVITZ](https://zh.wikipedia.org/wiki/AUSHVITZ "wikilink")／Syu
+  - [VALKYR](https://zh.wikipedia.org/wiki/VALKYR "wikilink")／Syu
+  - [GUNBRIDGE](https://zh.wikipedia.org/wiki/GUNBRIDGE "wikilink")／YAMA-B
+  - [AXBITES](https://zh.wikipedia.org/wiki/AXBITES "wikilink")／YAMA-B
+  - [ARK
+    STORM](https://zh.wikipedia.org/wiki/ARK_STORM "wikilink")／YUHKI
+  - [ALHAMBRA](https://zh.wikipedia.org/wiki/ALHAMBRA "wikilink")／YUHKI
+  - [PROPHESIA](https://zh.wikipedia.org/wiki/PROPHESIA "wikilink")／YUHKI
+  - [Concerto
+    Moon](https://zh.wikipedia.org/wiki/Concerto_Moon "wikilink")／JUNICHI（佐藤潤一）
+  - [SOH-BAND](https://zh.wikipedia.org/wiki/SOH-BAND "wikilink")／JUNICHI（佐藤潤一）
+  - [DELUHI](https://zh.wikipedia.org/wiki/DELUHI "wikilink")（原為GRAVE
     SEED）／Yu-to（以Yuuto或LEDA＊的名義）
-  - [UNDIVIDE](../Page/UNDIVIDE.md "wikilink")／Yu-to（以LEDA名義）
+  - [UNDIVIDE](https://zh.wikipedia.org/wiki/UNDIVIDE "wikilink")／Yu-to（以LEDA名義）
   - [BABYMETAL](../Page/BABYMETAL.md "wikilink")／Yu-to（以LEDA名義）
 
 ## 參考資料

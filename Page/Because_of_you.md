@@ -1,5 +1,5 @@
 **because of
-you**，[Stephanie的第二张单曲](../Page/Stephanie.md "wikilink")，商品番号SECL-528。
+you**，[Stephanie的第二张单曲](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，商品番号SECL-528。
 
 ## 作品概要
 
@@ -11,14 +11,15 @@ Oricon排名：最高排名第50位，销量：初期销量2358张，累计销�
 ## 收录曲
 
 1.  because of you
-      - 作詞：[STEPHANIE](../Page/STEPHANIE.md "wikilink") &
-        [矢住夏菜](../Page/矢住夏菜.md "wikilink") 作曲：[Joe
-        Rinoie](../Page/Joe_Rinoie.md "wikilink") 編曲：Joe Rinoie &
-        [長岡成貢](../Page/長岡成貢.md "wikilink")
-      - [东京电视台动画](../Page/东京电视台.md "wikilink")[星界死者之书第二期片尾曲](../Page/星界死者之书.md "wikilink")（ED2）
+      - 作詞：[STEPHANIE](https://zh.wikipedia.org/wiki/STEPHANIE "wikilink")
+        & [矢住夏菜](https://zh.wikipedia.org/wiki/矢住夏菜 "wikilink") 作曲：[Joe
+        Rinoie](https://zh.wikipedia.org/wiki/Joe_Rinoie "wikilink")
+        編曲：Joe Rinoie &
+        [長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
+      - [东京电视台动画](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")[星界死者之书第二期片尾曲](../Page/星界死者之书.md "wikilink")（ED2）
 2.  To. Be. Me.
       - 作詞：STEPHANIE & 矢住夏菜 作曲・編曲：Joe Rinoie &
-        [峰正典](../Page/峰正典.md "wikilink")
+        [峰正典](https://zh.wikipedia.org/wiki/峰正典 "wikilink")
 3.  Ben
       - 作詞・作曲：DON BLACK/WALTER SCHARF 編曲：Joe Rinoie
 

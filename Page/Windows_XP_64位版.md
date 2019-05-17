@@ -1,6 +1,7 @@
-**Windows XP 64-bit Edition**曾是[微軟](../Page/微軟.md "wikilink")[Windows
-XP作業系統的版本之一](../Page/Windows_XP.md "wikilink")，運轉於第一代64位元[Intel](../Page/Intel.md "wikilink")
-[Itanium](../Page/Itanium.md "wikilink")[處理器之上](../Page/處理器.md "wikilink")。它是微軟公司歷史上第一個64位元工作站級別的作業系統，并随32位元版於2001年末發布。2003年支援第二代Itanium处理器的2003版发布，直至2005年7月微軟終止對這個作業系統支援。
+**Windows XP 64-bit
+Edition**曾是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
+XP作業系統的版本之一](../Page/Windows_XP.md "wikilink")，運轉於第一代64位元[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
+[Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")[處理器之上](https://zh.wikipedia.org/wiki/處理器 "wikilink")。它是微軟公司歷史上第一個64位元工作站級別的作業系統，并随32位元版於2001年末發布。2003年支援第二代Itanium处理器的2003版发布，直至2005年7月微軟終止對這個作業系統支援。
 
 ## 支援語言
 
@@ -51,7 +52,7 @@ XP作業系統的版本之一](../Page/Windows_XP.md "wikilink")，運轉於第�
   - 缺少[Windows Movie
     Maker](../Page/Windows_Movie_Maker.md "wikilink")、內置光碟燒錄等家用功能。
   - 缺少[Windows Media
-    Player及](../Page/Windows_Media_Player.md "wikilink")[NetMeeting程式](../Page/NetMeeting.md "wikilink")
+    Player及](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[NetMeeting程式](https://zh.wikipedia.org/wiki/NetMeeting "wikilink")
   - DAO、Jet database等較舊技術的支援被取消。
 
 #### Windows XP 64-Bit Edition, Version 2003

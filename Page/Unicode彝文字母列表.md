@@ -1,4 +1,4 @@
-Unicode的[彝文字母列表](../Page/彝文字母.md "wikilink")（範圍：A000-A48F）。
+Unicode的[彝文字母列表](https://zh.wikipedia.org/wiki/彝文字母 "wikilink")（範圍：A000-A48F）。
 
 | 編碼     | 符號 | 羅馬化拼音 |
 | ------ | -- | ----- |
@@ -1170,6 +1170,6 @@ Unicode的[彝文字母列表](../Page/彝文字母.md "wikilink")（範圍：A0
 
 ## 參見
 
-  - [Unicode字元列表](../Page/Unicode字元列表.md "wikilink")
+  - [Unicode字元列表](https://zh.wikipedia.org/wiki/Unicode字元列表 "wikilink")
 
 [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")

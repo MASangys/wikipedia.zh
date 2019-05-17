@@ -1,4 +1,4 @@
-《**牙狼〈GARO〉**》系列，是2005年10月7日～2006年3月31日，在日本東京電視台每週五深夜時段播出的[特攝劇集](../Page/特攝劇.md "wikilink")，全25集。另於2006年12月15日與12月22日，於衛星頻道「」播出分上下兩集的續集形式特別篇《白夜的魔獸》，並於2010年10月30日推出3D電影版作品《RED
+《**牙狼〈GARO〉**》系列，是2005年10月7日～2006年3月31日，在日本東京電視台每週五深夜時段播出的[特攝劇集](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，全25集。另於2006年12月15日與12月22日，於衛星頻道「」播出分上下兩集的續集形式特別篇《白夜的魔獸》，並於2010年10月30日推出3D電影版作品《RED
 REQUIEM》，另發售OV外傳作品《
 呀〈KIBA〉〜暗黒騎士鎧伝》，其續篇《[牙狼〈GARO〉～魔戒閃騎～](../Page/牙狼〈GARO〉～魔戒閃騎～.md "wikilink")》於2011年10月6日播出。
 
@@ -249,19 +249,19 @@ REQUIEM》，另發售OV外傳作品《
 
   - 冴島鋼牙︰[小西遼生](../Page/小西遼生.md "wikilink")\[3\]、澤畠流星（童年）
   - 御月薰︰[肘井美佳](../Page/肘井美佳.md "wikilink")、甲地夏波（童年）
-  - 倉橋權左︰[螢雪次朗](../Page/螢雪次朗.md "wikilink")
-  - 涼邑零︰[藤田玲](../Page/藤田玲.md "wikilink")
+  - 倉橋權左︰[螢雪次朗](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")
+  - 涼邑零︰[藤田玲](https://zh.wikipedia.org/wiki/藤田玲 "wikilink")
   - 龍崎駈音︰[京本政樹](../Page/京本政樹.md "wikilink")
-  - 三神官・凱爾︰[渡辺けあき](../Page/渡辺けあき.md "wikilink")
+  - 三神官・凱爾︰[渡辺けあき](https://zh.wikipedia.org/wiki/渡辺けあき "wikilink")
   - 三神官・貝爾︰[岡本杏理](../Page/岡本杏理.md "wikilink")
   - 三神官・羅絲︰[柏幸奈](../Page/柏幸奈.md "wikilink")
-  - 阿門法師︰[麿赤児](../Page/麿赤児.md "wikilink")
-  - 邪美︰[佐藤康惠](../Page/佐藤康惠.md "wikilink")
-  - 冴島大河︰[渡邊裕之](../Page/渡邊裕之.md "wikilink")
-  - 木靈︰[マーク武蔵](../Page/マーク武蔵.md "wikilink")
-  - 卡露姆︰[吉野公佳](../Page/吉野公佳.md "wikilink")
+  - 阿門法師︰[麿赤児](https://zh.wikipedia.org/wiki/麿赤児 "wikilink")
+  - 邪美︰[佐藤康惠](https://zh.wikipedia.org/wiki/佐藤康惠 "wikilink")
+  - 冴島大河︰[渡邊裕之](https://zh.wikipedia.org/wiki/渡邊裕之 "wikilink")
+  - 木靈︰[マーク武蔵](https://zh.wikipedia.org/wiki/マーク武蔵 "wikilink")
+  - 卡露姆︰[吉野公佳](https://zh.wikipedia.org/wiki/吉野公佳 "wikilink")
   - メシア︰[西野翔](../Page/西野翔.md "wikilink")
-  - カルマ：[原紗央莉](../Page/原紗央莉.md "wikilink")
+  - カルマ：[原紗央莉](https://zh.wikipedia.org/wiki/原紗央莉 "wikilink")
 
 ### 配音
 
@@ -274,7 +274,7 @@ REQUIEM》，另發售OV外傳作品《
 ### 替身
 
   - 黄金騎士・牙狼：大西雅樹
-  - 銀牙騎士・絶狼：[マーク武蔵](../Page/マーク武蔵.md "wikilink")
+  - 銀牙騎士・絶狼：[マーク武蔵](https://zh.wikipedia.org/wiki/マーク武蔵 "wikilink")
   - 暗黒魔戒騎士・呀：前田浩
   - 魔獸装甲木靈：秋山智彦
   - 獸化卡露姆：八代峯奈
@@ -283,13 +283,14 @@ REQUIEM》，另發售OV外傳作品《
 ## 工作人員／製作團隊
 
   - 製作・著作：Project GARO
-  - 原作・總監督：[雨宮慶太](../Page/雨宮慶太.md "wikilink")
+  - 原作・總監督：[雨宮慶太](https://zh.wikipedia.org/wiki/雨宮慶太 "wikilink")
   - 監製：二宮清隆、久保聡、白石誠
   - 製作人：服部洋之、石田幸一、中川順平
   - 劇情統籌・編劇：梶研吾
   - 編劇：小林雄次、林壮太郎、雨宮慶太、田口恵
   - 設定：田口恵
-  - 武術指導：[横山誠](../Page/横山誠.md "wikilink")（AAC STUNTS）、小池達郎（＃12）
+  - 武術指導：[横山誠](https://zh.wikipedia.org/wiki/横山誠 "wikilink")（AAC
+    STUNTS）、小池達郎（＃12）
   - VFX監督：小坂一順（OMNIBUS JAPAN）
   - 特殊造型監修：竹谷隆之、泉勝洋
   - 怪物設計：[韮澤靖](../Page/韮澤靖.md "wikilink")
@@ -361,7 +362,7 @@ REQUIEM》，另發售OV外傳作品《
 <td><p><strong>晚餐</strong><br />
 （晚餐）</p></td>
 <td><ul>
-<li><p>（立神亮一／<a href="../Page/帕祖祖.md" title="wikilink">パズズ人間体</a>）<br />
+<li><p>（立神亮一／<a href="https://zh.wikipedia.org/wiki/帕祖祖" title="wikilink">パズズ人間体</a>）<br />
 </p></li>
 <li>福井未菜（篠原亞佐美）<br />
 </li>
@@ -392,7 +393,7 @@ REQUIEM》，另發售OV外傳作品《
 <td><p><strong>美貌</strong><br />
 （美貌）</p></td>
 <td><ul>
-<li><a href="../Page/及川奈央.md" title="wikilink">及川奈央</a>（冰見川琴美／<a href="../Page/烏圖庫.md" title="wikilink">ウトック人間体</a>）<br />
+<li><a href="../Page/及川奈央.md" title="wikilink">及川奈央</a>（冰見川琴美／<a href="https://zh.wikipedia.org/wiki/烏圖庫" title="wikilink">ウトック人間体</a>）<br />
 </li>
 <li><p>（冰見川琴美／ウトック人間体）</p></li>
 </ul></td>
@@ -453,7 +454,7 @@ REQUIEM》，另發售OV外傳作品《
 <td><p><strong>遊戲</strong><br />
 （遊戯）</p></td>
 <td><ul>
-<li><p>（椚禮次郎／<a href="../Page/但他林.md" title="wikilink">ダンタリアン人間体</a>）</p></li>
+<li><p>（椚禮次郎／<a href="https://zh.wikipedia.org/wiki/但他林" title="wikilink">ダンタリアン人間体</a>）</p></li>
 </ul></td>
 <td></td>
 </tr>
@@ -531,7 +532,7 @@ REQUIEM》，另發售OV外傳作品《
 <td><ul>
 <li><p>（戸沼充）<br />
 </p></li>
-<li><a href="../Page/Miko.md" title="wikilink">Miko</a>（沙也加／ハル変化体）<br />
+<li><a href="https://zh.wikipedia.org/wiki/Miko" title="wikilink">Miko</a>（沙也加／ハル変化体）<br />
 </li>
 <li><p>（香澄）</p></li>
 </ul></td>
@@ -606,7 +607,7 @@ REQUIEM》，另發售OV外傳作品《
 <td><ul>
 <li>小林健一（魃羅格）<br />
 </li>
-<li><p>（<a href="../Page/加姆.md" title="wikilink">加姆</a>）<br />
+<li><p>（<a href="https://zh.wikipedia.org/wiki/加姆" title="wikilink">加姆</a>）<br />
 </p></li>
 <li><p>（西方監視所神官）<br />
 </p></li>
@@ -670,7 +671,8 @@ REQUIEM》，另發售OV外傳作品《
 <!-- end list -->
 
   -
-    MUSIC：[TRY FORCE](../Page/TRY_FORCE.md "wikilink")、[JAM
+    MUSIC：[TRY
+    FORCE](https://zh.wikipedia.org/wiki/TRY_FORCE "wikilink")、[JAM
     Project](../Page/JAM_Project.md "wikilink")
 
 <!-- end list -->
@@ -734,7 +736,7 @@ REQUIEM》，另發售OV外傳作品《
 
   - 《[牙狼〈GARO〉～魔戒閃騎～](../Page/牙狼〈GARO〉～魔戒閃騎～.md "wikilink")》：2011年推出，《牙狼〈GARO〉》的續篇，電視版第二季。
   - 《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》：2013年推出，電視版第三季。
-  - 《[牙狼〈GARO〉～魔戒之花～](../Page/牙狼〈GARO〉～魔戒之花～.md "wikilink")》：2014年推出，電視版第四季。
+  - 《[牙狼〈GARO〉～魔戒之花～](https://zh.wikipedia.org/wiki/牙狼〈GARO〉～魔戒之花～ "wikilink")》：2014年推出，電視版第四季。
   - 《[牙狼〈GARO〉-GOLDSTORM-
     翔](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》：2015年推出，《牙狼〈GARO〉～照亮黑暗的人～》的續篇，電視版第五季。
   - 《[神之牙-JINGA-](../Page/神之牙-JINGA-.md "wikilink")》︰2018年推出,
@@ -745,15 +747,15 @@ REQUIEM》，另發售OV外傳作品《
   - 《[牙狼〈GARO〉-炎之刻印-](../Page/牙狼〈GARO〉-炎之刻印-.md "wikilink")》：2014年推出。
   - 《[牙狼〈GARO〉-紅蓮之月-](../Page/牙狼〈GARO〉-紅蓮之月-.md "wikilink")》：2015年推出。
   - 《[牙狼〈GARO〉-VANISHING
-    LINE-](../Page/牙狼〈GARO〉-VANISHING_LINE-.md "wikilink")》：2017年推出。
+    LINE-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉-VANISHING_LINE- "wikilink")》：2017年推出。
 
 ### 電影版
 
   - 《[牙狼〈GARO〉 -RED
     REQUIEM-](../Page/牙狼〈GARO〉_-RED_REQUIEM-.md "wikilink")》：2010年推出，《牙狼〈GARO〉～魔戒閃騎～》的前傳電影。
-  - 《[呀〈KIBA〉～暗黒騎士鎧傳](../Page/呀〈KIBA〉～暗黒騎士鎧傳.md "wikilink")》：2011年推出，《牙狼〈GARO〉》的外傳電影。
-  - 《[牙狼〈GARO〉蒼哭·魔龍～](../Page/牙狼〈GARO〉蒼哭·魔龍～.md "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的後傳電影。
-  - 《[牙狼〈GARO〉外傳～桃幻之笛](../Page/牙狼〈GARO〉外傳～桃幻之笛.md "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的外傳電影。
+  - 《[呀〈KIBA〉～暗黒騎士鎧傳](https://zh.wikipedia.org/wiki/呀〈KIBA〉～暗黒騎士鎧傳 "wikilink")》：2011年推出，《牙狼〈GARO〉》的外傳電影。
+  - 《[牙狼〈GARO〉蒼哭·魔龍～](https://zh.wikipedia.org/wiki/牙狼〈GARO〉蒼哭·魔龍～ "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的後傳電影。
+  - 《[牙狼〈GARO〉外傳～桃幻之笛](https://zh.wikipedia.org/wiki/牙狼〈GARO〉外傳～桃幻之笛 "wikilink")》：2013年推出，《牙狼〈GARO〉～魔戒閃騎～》的外傳電影。
   - 《[牙狼＜GARO＞-GOLDSTORM- 翔
     (電影版)](../Page/牙狼〈GARO〉-GOLDSTORM-_翔.md "wikilink")》︰2015年推出，《牙狼〈GARO〉-GOLDSTORM-
     翔》的前傳電影。
@@ -763,9 +765,9 @@ REQUIEM》，另發售OV外傳作品《
 
 ### 特別篇
 
-  - 《[牙狼〈GARO〉～白夜的魔獸](../Page/牙狼〈GARO〉～白夜的魔獸.md "wikilink")》：2006年推出，分成上下兩個單元的《牙狼〈GARO〉》電視特別篇。
+  - 《[牙狼〈GARO〉～白夜的魔獸](https://zh.wikipedia.org/wiki/牙狼〈GARO〉～白夜的魔獸 "wikilink")》：2006年推出，分成上下兩個單元的《牙狼〈GARO〉》電視特別篇。
   - 《[絶狼〈ZERO〉-Black
-    Blood-](../Page/絶狼〈ZERO〉-Black_Blood-.md "wikilink")》：2014年推出、全6集的外傳式電影。
+    Blood-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-Black_Blood- "wikilink")》：2014年推出、全6集的外傳式電影。
 
 ## 週邊產品
 

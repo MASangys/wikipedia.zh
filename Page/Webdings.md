@@ -1,13 +1,13 @@
-**Webdings**是一個[TrueType的](../Page/TrueType.md "wikilink")[dingbat](../Page/dingbat.md "wikilink")[字型](../Page/電腦字型.md "wikilink")，於1997年發表，搭載在其後的[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[視窗系統內](../Page/視窗系統.md "wikilink")。在Unicode
-7.0发布之前，大多的[字形都沒有](../Page/字形.md "wikilink")[Unicode的相對字](../Page/Unicode.md "wikilink")。
+**Webdings**是一個[TrueType的](../Page/TrueType.md "wikilink")[dingbat](https://zh.wikipedia.org/wiki/dingbat "wikilink")[字型](https://zh.wikipedia.org/wiki/電腦字型 "wikilink")，於1997年發表，搭載在其後的[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[視窗系統內](../Page/視窗系統.md "wikilink")。在Unicode
+7.0发布之前，大多的[字形都沒有](../Page/字形.md "wikilink")[Unicode的相對字](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 ## 軼事
 
-使用此字型打上[紐約市](../Page/紐約市.md "wikilink")（New York
-City）的頭字母「NYC」，這三個字分別顯示眼睛（eye）、心（heart）和城市天際線（city
-skyline），暗指「[I love New
-York](../Page/I_love_New_York.md "wikilink")」（我愛紐約），如下圖所示：
+使用此字型打上[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（New York
+City）的頭字母「NYC」，這三個字分別顯示眼睛（eye）、心（heart）和城市天際線（city skyline），暗指「[I love
+New
+York](https://zh.wikipedia.org/wiki/I_love_New_York "wikilink")」（我愛紐約），如下圖所示：
 
 |                                                                                                                                                                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -18,9 +18,9 @@ York](../Page/I_love_New_York.md "wikilink")」（我愛紐約），如下圖所
 
 ## 另見
 
-  - [Wingdings](../Page/Wingdings.md "wikilink")
-  - [Wingdings 2](../Page/Wingdings_2.md "wikilink")
-  - [Wingdings 3](../Page/Wingdings_3.md "wikilink")
+  - [Wingdings](https://zh.wikipedia.org/wiki/Wingdings "wikilink")
+  - [Wingdings 2](https://zh.wikipedia.org/wiki/Wingdings_2 "wikilink")
+  - [Wingdings 3](https://zh.wikipedia.org/wiki/Wingdings_3 "wikilink")
   - [網頁核心字型](../Page/網頁核心字型.md "wikilink")
 
 ## 参考文献

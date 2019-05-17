@@ -4,21 +4,23 @@
 [Puppy_Linux_4.00_Screenshot.png](https://zh.wikipedia.org/wiki/File:Puppy_Linux_4.00_Screenshot.png "fig:Puppy_Linux_4.00_Screenshot.png")
 | caption = Puppy Linux 4.00 运行多个应用程序 | developer = Barry Kauler, et al.
 | family = [Linux](../Page/Linux.md "wikilink") | source_model =
-[开源](../Page/开源.md "wikilink") | working_state = 運作中 |
-latest_release_version = 8.0 | latest_release_date =  | license = 多種
-| website = [www.puppylinux.com](http://www.puppylinux.com/) |
-latest_test_version = | latest_test_date = | marketing_target =
-Live CD and aged systems | language = | kernel_type =
-[宏内核](../Page/宏内核.md "wikilink") | ui =
-[JWM](../Page/JWM.md "wikilink") / [IceWM](../Page/IceWM.md "wikilink")
-+ [ROX Desktop](../Page/ROX_Desktop.md "wikilink") |
+[开源](https://zh.wikipedia.org/wiki/开源 "wikilink") | working_state =
+運作中 | latest_release_version = 8.0 | latest_release_date =  |
+license = 多種 | website =
+[www.puppylinux.com](http://www.puppylinux.com/) | latest_test_version
+= | latest_test_date = | marketing_target = Live CD and aged systems
+| language = | kernel_type =
+[宏内核](https://zh.wikipedia.org/wiki/宏内核 "wikilink") | ui =
+[JWM](https://zh.wikipedia.org/wiki/JWM "wikilink") /
+[IceWM](../Page/IceWM.md "wikilink") + [ROX
+Desktop](https://zh.wikipedia.org/wiki/ROX_Desktop "wikilink") |
 supported_platforms = | updatemodel = | package_manager = PetGet }}
 **Puppy
 Linux**是一个小型的[Linux獨立](../Page/Linux.md "wikilink")(非改良自其它版本)发行版。包含[SeaMonkey](../Page/SeaMonkey.md "wikilink"),
 [AbiWord](../Page/AbiWord.md "wikilink"),
 [Gnumeric](../Page/Gnumeric.md "wikilink"),
-Gxine/[xine等应用程序](../Page/xine.md "wikilink")。 该发行版现由Barry
-Kauler等維護。
+Gxine/[xine等应用程序](https://zh.wikipedia.org/wiki/xine "wikilink")。
+该发行版现由Barry Kauler等維護。
 
 ## 版本歷史
 

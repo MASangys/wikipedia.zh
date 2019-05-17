@@ -1,5 +1,5 @@
 [F9C_Sparrowhawk.jpg](https://zh.wikipedia.org/wiki/File:F9C_Sparrowhawk.jpg "fig:F9C_Sparrowhawk.jpg")
-**F9C雀鷹戰鬥機**是世界上唯一專司[飛船安全的](../Page/飛船.md "wikilink")[雙翼](../Page/雙翼機.md "wikilink")[戰鬥機](../Page/戰鬥機.md "wikilink")，該機當時任務是保護隸屬[美國海軍的兩艘飛船](../Page/美國海軍.md "wikilink")**-{艾克隆}-**（USS
+**F9C雀鷹戰鬥機**是世界上唯一專司[飛船安全的](https://zh.wikipedia.org/wiki/飛船 "wikilink")[雙翼](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，該機當時任務是保護隸屬[美國海軍的兩艘飛船](../Page/美國海軍.md "wikilink")**-{艾克隆}-**（USS
 Akron）及**麥康**（USS Macon）。
 [USS_Macon_F9C.jpg](https://zh.wikipedia.org/wiki/File:USS_Macon_F9C.jpg "fig:USS_Macon_F9C.jpg")
 

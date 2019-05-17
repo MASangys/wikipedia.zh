@@ -1,8 +1,8 @@
-**KEI**是日本男性\[1\][插畫家](../Page/插畫家.md "wikilink")、[漫畫家](../Page/漫畫家.md "wikilink")。工作主要是[輕小說插畫](../Page/輕小說.md "wikilink")、[人物設計](../Page/人物設計.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[千歲市](../Page/千歲市.md "wikilink")\[2\]出身。
+**KEI**是日本男性\[1\][插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。工作主要是[輕小說插畫](../Page/輕小說.md "wikilink")、[人物設計](../Page/人物設計.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[千歲市](../Page/千歲市.md "wikilink")\[2\]出身。
 
 ## 畫風
 
-出道作是[初音未來](../Page/初音未來.md "wikilink")。在接受記者採訪時說，被要求以“[Yamaha生產的](../Page/Yamaha.md "wikilink")[電子樂器為主題](../Page/電子樂器.md "wikilink")”設計一個女性角色，音樂設備知識缺乏使他苦戰。
+出道作是[初音未來](../Page/初音未來.md "wikilink")。在接受記者採訪時說，被要求以“[Yamaha生產的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")[電子樂器為主題](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")”設計一個女性角色，音樂設備知識缺乏使他苦戰。
 
 畫風受作家[天野喜孝影響](../Page/天野喜孝.md "wikilink")，特別關注作家[深崎暮人](../Page/深崎暮人.md "wikilink")。
 
@@ -10,34 +10,35 @@
 
 ### 人物設定
 
-  - [音樂軟件](../Page/音樂軟件.md "wikilink")[角色主唱系列](../Page/角色主唱系列.md "wikilink")：CV01
+  - [音樂軟件](https://zh.wikipedia.org/wiki/音樂軟件 "wikilink")[角色主唱系列](../Page/角色主唱系列.md "wikilink")：CV01
     、CV02 、CV03 （[CRYPTON FUTURE
-    MEDIA](../Page/CRYPTON_FUTURE_MEDIA.md "wikilink")）
-  - [日本偶像](../Page/日本偶像.md "wikilink")： (  )\[3\]\[4\]
-  - [果酒](../Page/果酒.md "wikilink")：[梅酒](../Page/梅酒.md "wikilink")
-    、[日本柚子](../Page/日本柚子.md "wikilink")[果酒](../Page/果酒.md "wikilink")
+    MEDIA](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")）
+  - [日本偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")： (
+    )\[3\]\[4\]
+  - [果酒](../Page/果酒.md "wikilink")：[梅酒](https://zh.wikipedia.org/wiki/梅酒 "wikilink")
+    、[日本柚子](https://zh.wikipedia.org/wiki/日本柚子 "wikilink")[果酒](../Page/果酒.md "wikilink")
     ()\[5\]
   - [世嘉硬件女孩](../Page/世嘉硬件女孩.md "wikilink")（[世嘉](../Page/世嘉.md "wikilink")）
-  - [VOCALOID](../Page/VOCALOID.md "wikilink")：[Galaco](../Page/Galaco.md "wikilink")、[Lily](../Page/Lily_\(VOCALOID\).md "wikilink")
-  - [虚拟YouTuber](../Page/虚拟YouTuber.md "wikilink")：[Mirai
-    Akari](../Page/Mirai_Akari.md "wikilink")
+  - [VOCALOID](../Page/VOCALOID.md "wikilink")：[Galaco](https://zh.wikipedia.org/wiki/Galaco "wikilink")、[Lily](https://zh.wikipedia.org/wiki/Lily_\(VOCALOID\) "wikilink")
+  - [虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")：[Mirai
+    Akari](https://zh.wikipedia.org/wiki/Mirai_Akari "wikilink")
 
 ### 漫畫
 
   - （[COMIC
-    RUSH](../Page/COMIC_RUSH.md "wikilink")2008年1月號開始連載。初音未來的漫畫化作品）
+    RUSH](https://zh.wikipedia.org/wiki/COMIC_RUSH "wikilink")2008年1月號開始連載。初音未來的漫畫化作品）
 
 ### 插畫
 
-  - [奇蹟的表現](../Page/奇蹟的表現.md "wikilink")（[結城充孝著](../Page/結城充孝.md "wikilink")、[電撃文庫](../Page/電撃文庫.md "wikilink")）
+  - [奇蹟的表現](https://zh.wikipedia.org/wiki/奇蹟的表現 "wikilink")（[結城充孝著](https://zh.wikipedia.org/wiki/結城充孝 "wikilink")、[電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")）
 
-  - [魔像怪X少女](../Page/魔像怪X少女.md "wikilink")（[大凹友數著](../Page/大凹友數.md "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[東立出版社](../Page/東立出版社.md "wikilink")）
+  - [魔像怪X少女](https://zh.wikipedia.org/wiki/魔像怪X少女 "wikilink")（[大凹友數著](https://zh.wikipedia.org/wiki/大凹友數 "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[東立出版社](../Page/東立出版社.md "wikilink")）
 
-  - [魔王的憂鬱](../Page/魔王的憂鬱.md "wikilink")（[相川直樹著](../Page/相川直樹.md "wikilink")、[新風舎文庫](../Page/新風舎文庫.md "wikilink")）
+  - [魔王的憂鬱](https://zh.wikipedia.org/wiki/魔王的憂鬱 "wikilink")（[相川直樹著](https://zh.wikipedia.org/wiki/相川直樹 "wikilink")、[新風舎文庫](https://zh.wikipedia.org/wiki/新風舎文庫 "wikilink")）
 
-  - [魔王的復活](../Page/魔王的復活.md "wikilink")（相川直樹著、新風舎文庫）
+  - [魔王的復活](https://zh.wikipedia.org/wiki/魔王的復活 "wikilink")（相川直樹著、新風舎文庫）
 
-  - （[松山剛著](../Page/松山剛.md "wikilink")、新風舎文庫）
+  - （[松山剛著](https://zh.wikipedia.org/wiki/松山剛 "wikilink")、新風舎文庫）
 
   - （著、）
 
@@ -47,13 +48,13 @@
 
 ### 遊戲
 
-  - [NUGA-CEL！](../Page/NUGA-CEL！.md "wikilink")（人物設定）
+  - [NUGA-CEL！](https://zh.wikipedia.org/wiki/NUGA-CEL！ "wikilink")（人物設定）
 
 ### 畫集
 
   - KEI畫廊（）ISBN 978-4861005749
   - KEI畫集
-    mikucolor（[角川書店](../Page/角川書店.md "wikilink")、[天聞角川](../Page/天聞角川.md "wikilink")）ISBN
+    mikucolor（[角川書店](../Page/角川書店.md "wikilink")、[天聞角川](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")）ISBN
     978-4041102121
 
 ## 同人誌

@@ -1,10 +1,10 @@
 **Falcon编程语言**（），又稱**Falcon
-P.L.**、**Falconpl**或**Falcon**，是一个[开源](../Page/开源.md "wikilink")、多范式[编程语言](../Page/编程语言.md "wikilink")，其设计和推廣由Giancarlo
+P.L.**、**Falconpl**或**Falcon**，是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、多范式[编程语言](../Page/编程语言.md "wikilink")，其设计和推廣由Giancarlo
 Niccolai领导。
 
 ## 歷史
 
-Haste於2002年編寫一個小型項目，用以實現一小型[虛擬機](../Page/虛擬機.md "wikilink")，該項目很快的發展成Falcon語言。2008年，此語言以[開源項目的方式成為](../Page/開源項目.md "wikilink")[Ubuntu的附加軟體](../Page/Ubuntu.md "wikilink")，並且被包含在[Kross](../Page/Kross.md "wikilink")。
+Haste於2002年編寫一個小型項目，用以實現一小型[虛擬機](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")，該項目很快的發展成Falcon語言。2008年，此語言以[開源項目的方式成為](https://zh.wikipedia.org/wiki/開源項目 "wikilink")[Ubuntu的附加軟體](../Page/Ubuntu.md "wikilink")，並且被包含在[Kross](../Page/Kross.md "wikilink")。
 
 ## 核心
 
@@ -16,7 +16,7 @@ Haste於2002年編寫一個小型項目，用以實現一小型[虛擬機](../Pa
 
 `> "Hello World!"`
 
-[Unicode支持](../Page/Unicode.md "wikilink")，下面是一个国际化例子的介绍：
+[Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")，下面是一个国际化例子的介绍：
 
 `// International class; name and street`
 `class 国際(なまえ, Straße)`
@@ -81,7 +81,7 @@ if, switch语句）。
 
 ### 函数式
 
-Falcon有个称为Sigma-reductor的求值引擎，它允许程序人员编写纯函数式程序，看起来和用[Lisp没什么不同](../Page/Lisp.md "wikilink")。混合式编程风格允许在函数式语句序列使用不同的范式（例如OOP或者过程化），或者在不同的过程化方式期间中使用函数式求值。
+Falcon有个称为Sigma-reductor的求值引擎，它允许程序人员编写纯函数式程序，看起来和用[Lisp没什么不同](https://zh.wikipedia.org/wiki/Lisp "wikilink")。混合式编程风格允许在函数式语句序列使用不同的范式（例如OOP或者过程化），或者在不同的过程化方式期间中使用函数式求值。
 
 函数式语句序列被描述为标准语言数组；交叉不同的求值和在Sigma-reduction求值方式期间这都意味着语句序列能被程序本身创建，审查和被动态修改。下面的例子在列表循环调用*late
 binding*修改一个指定变量的引用。
@@ -233,7 +233,7 @@ oriented）*，跨线程数据必须通过几种可行共享机制明确地共�
 
 ## 特色
 
-完整地支持[模块化编程](../Page/模块化编程.md "wikilink")，**Falcon**装载着*特色（Feathers）*，标准模块套件。*特色（Feathers）*模块当前包括：
+完整地支持[模块化编程](https://zh.wikipedia.org/wiki/模块化编程 "wikilink")，**Falcon**装载着*特色（Feathers）*，标准模块套件。*特色（Feathers）*模块当前包括：
 
   - 编译器 - 反射型编译器和动态插件引导器。
   - 配置分析器 - 完成配置文件分析支持。
@@ -249,7 +249,7 @@ oriented）*，跨线程数据必须通过几种可行共享机制明确地共�
 ## 可用资源
 
 在[Mac OS
-X和](../Page/Mac_OS_X.md "wikilink")[MS-Windows系统上Falcon通过安装程序发布](../Page/Windows.md "wikilink")，构建和安装是一个清晰的过程，或者在各种开源系统如[Linux或](../Page/Linux.md "wikilink")[OpenSolaris上通过自构建源代码包](../Page/OpenSolaris.md "wikilink")。
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[MS-Windows系统上Falcon通过安装程序发布](https://zh.wikipedia.org/wiki/Windows "wikilink")，构建和安装是一个清晰的过程，或者在各种开源系统如[Linux或](../Page/Linux.md "wikilink")[OpenSolaris上通过自构建源代码包](../Page/OpenSolaris.md "wikilink")。
 
 在后者系统上，*Falcon编程语言*通常支持各种发行版本并保持更新的，其中有：
 
@@ -257,9 +257,9 @@ X和](../Page/Mac_OS_X.md "wikilink")[MS-Windows系统上Falcon通过安装程�
   - [Fedora](../Page/Fedora.md "wikilink")
   - [Gentoo](../Page/Gentoo_Linux.md "wikilink")
   - [Slackware](../Page/Slackware.md "wikilink")
-  - [Arch Linux](../Page/ArchLinux.md "wikilink")
+  - [Arch Linux](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")
 
-在基于[Solaris系统的发行版本上通过](../Page/Solaris.md "wikilink")[Blastwave项目和](../Page/Blastwave.md "wikilink")[OpenSolaris系统的](../Page/OpenSolaris.md "wikilink")
+在基于[Solaris系统的发行版本上通过](../Page/Solaris.md "wikilink")[Blastwave项目和](https://zh.wikipedia.org/wiki/Blastwave "wikilink")[OpenSolaris系统的](../Page/OpenSolaris.md "wikilink")
 \[AuroraUX <http://en.wikipedia.org/wiki/AuroraUX>\] 发行版本Falcon编程语言是可用的。
 
 ## 参考

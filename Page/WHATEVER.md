@@ -2,7 +2,7 @@
 
 本作原先設定由菊地圭介編曲的「version J」做為「Original Mix」，但在宮崎泉製作的混音版本「version
 M」完成後，逆轉收錄為第一音軌。「version
-J」為[J-POP](../Page/J-POP.md "wikilink")（日本流行音樂）的意思，而「version
+J」為[J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink")（日本流行音樂）的意思，而「version
 M」則是以編曲者名字縮寫來命名。
 
 ## 收錄歌曲

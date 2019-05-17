@@ -1,13 +1,13 @@
 **CompTIA**，即**美国计算机行业协会**（,
-[1](http://www.comptia.org/)），自1982年成立之日起，一直致力于通过各种标准、专业能力、教育和商业解决方案促进信息技术（[ICT](../Page/ICT.md "wikilink")）产业及相关从业人员的发展。CompTIA总部设在美国芝加哥，并在阿姆斯特丹、北京、布鲁塞尔、迪拜、杜塞尔多夫、香港、约翰尔斯堡、伦敦、圣保罗、悉尼、东京、多伦多和华盛顿特区开设了办事处。
+[1](http://www.comptia.org/)），自1982年成立之日起，一直致力于通过各种标准、专业能力、教育和商业解决方案促进信息技术（[ICT](https://zh.wikipedia.org/wiki/ICT "wikilink")）产业及相关从业人员的发展。CompTIA总部设在美国芝加哥，并在阿姆斯特丹、北京、布鲁塞尔、迪拜、杜塞尔多夫、香港、约翰尔斯堡、伦敦、圣保罗、悉尼、东京、多伦多和华盛顿特区开设了办事处。
 
 ## 概述
 
-CompTIA是全球最大的独立认证证书提供商，在全球有超过115万的个人拥有CompTIA的资格认证。为了最有效地服务于产业及其会员，CompTIA针对[ICT业主要领域开发了专门的解决方案和项目](../Page/ICT.md "wikilink")，其中包括通信技术、电子商务、IT培训、软件服务、资格认证、公共政策、公共政策和劳动力开发。CompTIA认证是通过考试程序而获得的一种资质证书，用于考核某一特定
-[IT](../Page/IT.md "wikilink")
+CompTIA是全球最大的独立认证证书提供商，在全球有超过115万的个人拥有CompTIA的资格认证。为了最有效地服务于产业及其会员，CompTIA针对[ICT业主要领域开发了专门的解决方案和项目](https://zh.wikipedia.org/wiki/ICT "wikilink")，其中包括通信技术、电子商务、IT培训、软件服务、资格认证、公共政策、公共政策和劳动力开发。CompTIA认证是通过考试程序而获得的一种资质证书，用于考核某一特定
+[IT](https://zh.wikipedia.org/wiki/IT "wikilink")
 技术支持工作范围内需要的知识。所有CompTIA考试均由命题专家开发。CompTIA认证是厂商中立的国际认证，得到业界的广泛认可。
 
-在中国，CompTIA得到众多知名企业认可。[联想](../Page/联想.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[卓越](../Page/卓越.md "wikilink")、[长城](../Page/长城.md "wikilink")、[明基](../Page/明基.md "wikilink")、[清华同方等公司也已经将CompTIA认证作为其技术服务人员必须具备的强制性认证](../Page/清华同方.md "wikilink")。
+在中国，CompTIA得到众多知名企业认可。[联想](https://zh.wikipedia.org/wiki/联想 "wikilink")、[IBM](../Page/IBM.md "wikilink")、[卓越](https://zh.wikipedia.org/wiki/卓越 "wikilink")、[长城](../Page/长城.md "wikilink")、[明基](https://zh.wikipedia.org/wiki/明基 "wikilink")、[清华同方等公司也已经将CompTIA认证作为其技术服务人员必须具备的强制性认证](../Page/清华同方.md "wikilink")。
 
 CompTIA在上海设立了中国第一家认证培训中心，命为“美国计算机行业协会上海环球友好培训中心”(CompTIA Training &
 Certification Center,

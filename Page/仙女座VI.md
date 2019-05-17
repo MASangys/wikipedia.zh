@@ -1,17 +1,17 @@
 **飛馬座矮橢球星系**（也稱為**仙女座 Ⅵ**或縮寫為*Peg
-dSph*）距離270萬[光年](../Page/光年.md "wikilink")，是位於[飛馬座的一個](../Page/飛馬座.md "wikilink")[矮橢球星系](../Page/矮橢球星系.md "wikilink")。飛馬座矮橢球星系是[本星系群的成員](../Page/本星系群.md "wikilink")，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。
+dSph*）距離270萬[光年](../Page/光年.md "wikilink")，是位於[飛馬座的一個](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")。飛馬座矮橢球星系是[本星系群的成員](../Page/本星系群.md "wikilink")，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。
 
 ## 一般資訊
 
 飛馬座矮橢球星系的恆星以貧金屬的星族為主，它的\[Fe/H\] ≃
-−1.3。\[1\]它的位置在[赤經](../Page/赤經.md "wikilink")
-23h51m46.30s，[赤緯](../Page/赤緯.md "wikilink")
-+24d34m57.0s（[赤道座標系統](../Page/赤道座標系統.md "wikilink")，J2000.0[曆元](../Page/曆元.md "wikilink")），距離[地球大約](../Page/地球.md "wikilink")820
+−1.3。\[1\]它的位置在[赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")
+23h51m46.30s，[赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")
++24d34m57.0s（[赤道座標系統](https://zh.wikipedia.org/wiki/赤道座標系統 "wikilink")，J2000.0[曆元](../Page/曆元.md "wikilink")），距離[地球大約](../Page/地球.md "wikilink")820
 ± 20 [千秒差距](../Page/秒差距.md "wikilink")
-，而距離[仙女座大星系大約](../Page/仙女座大星系.md "wikilink")294
+，而距離[仙女座大星系大約](https://zh.wikipedia.org/wiki/仙女座大星系 "wikilink")294
 ± 8千秒差距。
 
-飛馬座矮橢球星系是在1999年由[帕羅馬第二次巡天](../Page/帕羅馬第二次巡天.md "wikilink")（POSS-II））的作者們發現的。
+飛馬座矮橢球星系是在1999年由[帕羅馬第二次巡天](https://zh.wikipedia.org/wiki/帕羅馬第二次巡天 "wikilink")（POSS-II））的作者們發現的。
 [Sky Survey
 (POSS-II)](https://web.archive.org/web/20090516193335/http://www.astro.caltech.edu/~wws/poss2.html)
 films.
@@ -32,7 +32,7 @@ films.
 
   - [仙女座星系的衛星星系](../Page/仙女座星系的衛星星系.md "wikilink")
   - [飛馬座矮不規則星系](../Page/飛馬座矮不規則星系.md "wikilink")（Peg DIG）
-  - [飛馬座星系](../Page/飛馬座星系（星門）.md "wikilink")，科幻小說[亞特蘭提斯星門中虛構的地點](../Page/亞特蘭提斯星門.md "wikilink")（也可能是飛馬座矮不規則星系）。
+  - [飛馬座星系](https://zh.wikipedia.org/wiki/飛馬座星系（星門） "wikilink")，科幻小說[亞特蘭提斯星門中虛構的地點](https://zh.wikipedia.org/wiki/亞特蘭提斯星門 "wikilink")（也可能是飛馬座矮不規則星系）。
 
 ## 註解
 

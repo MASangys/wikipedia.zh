@@ -1,26 +1,30 @@
 **HTC Gene**，原廠型號**HTC P3400，HTC P3400i，HTC
-P3401**，是台灣[宏達電公司所推出的](../Page/宏達電.md "wikilink")[智慧型手機](../Page/智慧型手機.md "wikilink")，採用時脈為200MHz的德州儀器OMAP850處理器，搭載微軟[Windows
-Mobile 5](../Page/Windows_Mobile_5.md "wikilink")（P3400）和[Windows Mobile
-6](../Page/Windows_Mobile_6.md "wikilink")（P3400i），以及2.8英寸的解析度為240×320像素的65K色彩TFT電阻式觸控屏，具有200萬畫素攝像能力的後置攝像頭。面向低端，簡約設計，2007年3月於歐洲首度發表，後陸續推出升級版。還有以[多普達品牌販售的Dopod](../Page/多普達.md "wikilink")
+P3401**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，採用時脈為200MHz的德州儀器OMAP850處理器，搭載微軟[Windows
+Mobile
+5](https://zh.wikipedia.org/wiki/Windows_Mobile_5 "wikilink")（P3400）和[Windows
+Mobile
+6](https://zh.wikipedia.org/wiki/Windows_Mobile_6 "wikilink")（P3400i），以及2.8英寸的解析度為240×320像素的65K色彩TFT電阻式觸控屏，具有200萬畫素攝像能力的後置攝像頭。面向低端，簡約設計，2007年3月於歐洲首度發表，後陸續推出升級版。還有以[多普達品牌販售的Dopod](https://zh.wikipedia.org/wiki/多普達 "wikilink")
 D600，Dopod D600 action version（活力版）。
 
 ## 技術規格
 
-  - [處理器](../Page/處理器.md "wikilink")：TI OMAP 850 201MHz
-  - [作業系統](../Page/作業系統.md "wikilink")：
+  - [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")：TI OMAP 850
+    201MHz
+  - [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")：
       - P3400（包括多普達D600）：Windows Mobile 5.0 PocketPC Phone Edition
       - P3400i（包括多普達D600活力版）：Windows Mobile 6.0 PocketPC Phone
         Edition\[1\]
-  - [記憶體](../Page/記憶體.md "wikilink")：ROM：128MB，RAM：64MB
+  - [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")：ROM：128MB，RAM：64MB
   - 尺寸：109 毫米 X 58 毫米 X 17.65 毫米
   - 重量：126g（含電池）
-  - [螢幕](../Page/螢幕.md "wikilink")：QVGA 解析度、2.8 吋 TFT-LCD 平面式觸控感應螢幕
-  - [網路](../Page/網路.md "wikilink")：GSM/EDGE
+  - [螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")：QVGA 解析度、2.8 吋
+    TFT-LCD 平面式觸控感應螢幕
+  - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink")：GSM/EDGE
   - [藍牙](../Page/藍牙.md "wikilink")：2.0 with EDR
   - [Wi-Fi](../Page/Wi-Fi.md "wikilink")：IEEE 802.11
     b/g，中國大陸發售的版本中Wi-Fi被「閹割」
-  - [相機](../Page/相機.md "wikilink")：200萬畫素相機（CMOS），支援自動對焦功能
-  - [電池](../Page/電池.md "wikilink")：1250mAh充電式鋰或鋰聚合物電池
+  - [相機](https://zh.wikipedia.org/wiki/相機 "wikilink")：200萬畫素相機（CMOS），支援自動對焦功能
+  - [電池](https://zh.wikipedia.org/wiki/電池 "wikilink")：1250mAh充電式鋰或鋰聚合物電池
 
 ## 作業系統升級
 
@@ -41,9 +45,9 @@ Gene/多普達D600使用的Windows Mobile
 
 ## 參見
 
-  - [HTC](../Page/HTC.md "wikilink")
+  - [HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")
   - [Qtek](../Page/Qtek.md "wikilink")
-  - [Dopod](../Page/Dopod.md "wikilink")
+  - [Dopod](https://zh.wikipedia.org/wiki/Dopod "wikilink")
   - [TouchFLO](../Page/TouchFLO.md "wikilink")
 
 ## 資料來源

@@ -1,11 +1,11 @@
-是一款由日本[光榮株式會社在](../Page/光榮株式會社.md "wikilink")2007年發售的[線上遊戲](../Page/線上遊戲.md "wikilink")。真‧三國無雙Online為[PS2上](../Page/PS2.md "wikilink")[真·三國無雙4的改編續作](../Page/真·三國無雙4.md "wikilink")，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](../Page/虛擬寶物.md "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](../Page/PS3.md "wikilink")，並與日本[PC版本使用同樣的伺服器](../Page/PC.md "wikilink")。
+是一款由日本[光榮株式會社在](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")2007年發售的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。真‧三國無雙Online為[PS2上](https://zh.wikipedia.org/wiki/PS2 "wikilink")[真·三國無雙4的改編續作](../Page/真·三國無雙4.md "wikilink")，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](https://zh.wikipedia.org/wiki/虛擬寶物 "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")，並與日本[PC版本使用同樣的伺服器](../Page/PC.md "wikilink")。
 
 2013年7月18日後，各國伺服器先後更新為「真‧三國無雙Online
-Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](../Page/西晉.md "wikilink")」勢力的武將等等，並大幅更新現有系統。
+Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」勢力的武將等等，並大幅更新現有系統。
 
 ## 遊戲特點
 
-  - 由於PS2的[真三國無雙系列銷售長紅](../Page/真三國無雙系列.md "wikilink")，加上現在Online
+  - 由於PS2的[真三國無雙系列銷售長紅](https://zh.wikipedia.org/wiki/真三國無雙系列 "wikilink")，加上現在Online
     game的潮流，光榮於2007年推出真‧三國無雙Online，2008年3月由台灣[紅心辣椒娛樂科技股份有限公司代理並正式販賣](../Page/紅心辣椒.md "wikilink")，讓沒有PS2玩家也能享受此系列的快感。
   - 一般動作遊戲強調複雜、華麗的系統，遊戲主軸在於「讓所有玩家都能上手」讓新手玩家也能上手。真‧三國無雙Online強調簡單的輸入與爽快的「破壞感」，吸引不少輕度玩家，但有時也讓遊戲方式過於單調。
   - 假想人物和人物性格的再創造：儘管以歷史題材為背景，真‧三國無雙Online進行了改造。故事的主角是玩家自己，玩家的角色、臉蛋跟髮型、皮膚的顏色、聲音等、有超過10萬種以上的組合、可以由自己的喜好選擇。使用的武器槍、劍、戟、斧等、也可在眾多的種類當中自由挑選裝備。
@@ -63,7 +63,7 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 <!-- end list -->
 
   -
-    對戰非玩家勢力的模式。最高9999層，破到越高層再下山換的獎品越好，而破關有時間限制，可在關卡中取得「桃符」延長過關時間。在20倍數的山區有機會遇見互為敵對狀態的[伏羲及](../Page/伏羲.md "wikilink")[女媧](../Page/女媧.md "wikilink")。龍神亂舞開始會遇到神獸「[青龍](../Page/青龍.md "wikilink")」、「[朱雀](../Page/朱雀.md "wikilink")」、「[白虎](../Page/白虎.md "wikilink")」、「[玄武](../Page/玄武.md "wikilink")」。
+    對戰非玩家勢力的模式。最高9999層，破到越高層再下山換的獎品越好，而破關有時間限制，可在關卡中取得「桃符」延長過關時間。在20倍數的山區有機會遇見互為敵對狀態的[伏羲及](../Page/伏羲.md "wikilink")[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")。龍神亂舞開始會遇到神獸「[青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")」、「[朱雀](https://zh.wikipedia.org/wiki/朱雀 "wikilink")」、「[白虎](../Page/白虎.md "wikilink")」、「[玄武](../Page/玄武.md "wikilink")」。
 
 <!-- end list -->
 
@@ -188,84 +188,84 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 
 本遊戲主要以六種顏色來區分玩家所屬勢力，各劇本能選擇的勢力均不相同。
 
-|      |      |                                            |                                                                                              |
-| ---- | ---- | ------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| 代表顏色 | 代表神獸 | 勢力名稱                                       | 勢力君主                                                                                         |
-| 藍    | 鳳凰   | 曹操軍、[魏軍](../Page/曹魏.md "wikilink")         | [曹操](../Page/曹操.md "wikilink")、[曹丕](../Page/曹丕.md "wikilink")                                |
-| 紅    | 猛虎   | 孫堅軍、孫策軍、孫權軍、[吳軍](../Page/孫吳.md "wikilink") | [孫堅](../Page/孫堅.md "wikilink")、[孫策](../Page/孫策.md "wikilink")、[孫權](../Page/孫權.md "wikilink") |
-| 綠    | 青龍   | 劉備軍、[蜀軍](../Page/蜀漢.md "wikilink")         | [劉備](../Page/劉備.md "wikilink")、[劉禪](../Page/劉禪.md "wikilink")                                |
-| 水    | 靈龜   | [晉軍](../Page/西晉.md "wikilink")             | [司馬懿](../Page/司馬懿.md "wikilink")                                                             |
-| 黃    | 饕餮   | 袁紹軍                                        | [袁紹](../Page/袁紹.md "wikilink")                                                               |
-| 紫    | 麒麟   | 董卓軍、呂布軍、馬超軍                                | [董卓](../Page/董卓.md "wikilink")、[呂布](../Page/呂布.md "wikilink")、[馬超](../Page/馬超.md "wikilink") |
+|      |      |                                                       |                                                                                                                                                       |
+| ---- | ---- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 代表顏色 | 代表神獸 | 勢力名稱                                                  | 勢力君主                                                                                                                                                  |
+| 藍    | 鳳凰   | 曹操軍、[魏軍](../Page/曹魏.md "wikilink")                    | [曹操](../Page/曹操.md "wikilink")、[曹丕](../Page/曹丕.md "wikilink")                                                                                         |
+| 紅    | 猛虎   | 孫堅軍、孫策軍、孫權軍、[吳軍](../Page/孫吳.md "wikilink")            | [孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")、[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")、[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink") |
+| 綠    | 青龍   | 劉備軍、[蜀軍](https://zh.wikipedia.org/wiki/蜀漢 "wikilink") | [劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")、[劉禪](https://zh.wikipedia.org/wiki/劉禪 "wikilink")                                                   |
+| 水    | 靈龜   | [晉軍](https://zh.wikipedia.org/wiki/西晉 "wikilink")     | [司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")                                                                                                   |
+| 黃    | 饕餮   | 袁紹軍                                                   | [袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")                                                                                                     |
+| 紫    | 麒麟   | 董卓軍、呂布軍、馬超軍                                           | [董卓](../Page/董卓.md "wikilink")、[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")、[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")                    |
 
-| 魏國武將使用                                    | 吳國武將使用                                 | 蜀漢武將使用                                | 晉國武將使用                                | 他國武將使用                                | Online原創 |
-| ----------------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------- | ------------------------------------- | -------- |
-| 朴刀（[夏侯惇](../Page/夏侯惇.md "wikilink")）      | 鐵劍（[周瑜](../Page/周瑜.md "wikilink")）     | 直槍（[趙雲](../Page/趙雲.md "wikilink")）    | 燕扇（[司馬懿](../Page/司馬懿.md "wikilink")）  | 鐵戟（[呂布](../Page/呂布.md "wikilink")）    | 長棍（夏侯邦）  |
-| 鉤鎌刀（[張遼](../Page/張遼.md "wikilink")）       | 甲刀（[甘寧](../Page/甘寧.md "wikilink")）     | 偃月刀（[關羽](../Page/關羽.md "wikilink")）   | 鏢（[王元姬](../Page/王元姬.md "wikilink")）   | 雙錘（[貂蟬](../Page/貂蟬.md "wikilink")）    | 多節鞭（曹文命） |
-| 大斧（[徐晃](../Page/徐晃.md "wikilink")）        | 積刃劍（[孫權](../Page/孫權.md "wikilink")）    | 幻杖（[龐統](../Page/龐統.md "wikilink")）    | 青龍刀（[司馬昭](../Page/司馬昭.md "wikilink")） | 獄刀（[董卓](../Page/董卓.md "wikilink")）    | 戰盤（司馬先）  |
-| 碎棍（[夏侯淵](../Page/夏侯淵.md "wikilink")）      | 雙劍（[陸遜](../Page/陸遜.md "wikilink")）     | 羽扇（[諸葛亮](../Page/諸葛亮.md "wikilink")）  | 螺旋槍（[鄧艾](../Page/鄧艾.md "wikilink")）   | 寶劍（[袁紹](../Page/袁紹.md "wikilink")）    | 麟角刀      |
-| 戰斧（[典韋](../Page/典韋.md "wikilink")）        | 櫻扇（[大喬](../Page/大喬.md "wikilink")）     | 鐵槍（[馬超](../Page/馬超.md "wikilink")）    | 飛翔劍（[鍾會](../Page/鍾會.md "wikilink")）   | 妖杖（[張角](../Page/張角.md "wikilink")）    | 狼牙棒      |
-| 雙戟（[龐德](../Page/龐德_\(東漢\).md "wikilink")） | 鐵鞭（[黃蓋](../Page/黃蓋.md "wikilink")）     | 鐵矛（[張飛](../Page/張飛.md "wikilink")）    | 迅雷劍（[司馬師](../Page/司馬師.md "wikilink")） | 蠻拳（[孟獲](../Page/孟獲.md "wikilink")）    | 蛇劍       |
-| 雙刃劍（[曹丕](../Page/曹丕.md "wikilink")）       | 雙節棍（[凌統](../Page/凌統.md "wikilink")）    | 斬馬刀（[關平](../Page/關平.md "wikilink")）   | 連弩砲（[郭淮](../Page/郭淮.md "wikilink")）   | 投弧刃（[祝融](../Page/祝融夫人.md "wikilink")） | 重手甲      |
-| 鐵鉤（[張郃](../Page/張郃.md "wikilink")）        | 牙劍（[孫堅](../Page/孫堅.md "wikilink")）     | 戰戈（[月英](../Page/黃月英.md "wikilink")）   |                                       | 符咒（[左慈](../Page/左慈.md "wikilink")）    | 穿刃       |
-| 碎棒（[許褚](../Page/許褚.md "wikilink")）        | 雙鞭（[太史慈](../Page/太史慈.md "wikilink")）   | 長雙刀（[魏延](../Page/魏延.md "wikilink")）   |                                       | 巨劍（[伏羲](../Page/伏羲.md "wikilink")）    | 龍牙鉤      |
-| 將劍（[曹操](../Page/曹操.md "wikilink")）        | 弧刀（[周泰](../Page/周泰.md "wikilink")）     | 盤刀（[黃忠](../Page/黃忠.md "wikilink")）    |                                       | 細劍（[女媧](../Page/女媧.md "wikilink")）    | 匕首       |
-| 牙壁（[曹仁](../Page/曹仁.md "wikilink")）        | 旋棍（[孫策](../Page/孫策.md "wikilink")）     | 尖劍（[劉備](../Page/劉備.md "wikilink")）    |                                       | 墮落（[妲己](../Page/妲己.md "wikilink")）    | 雙短銃（曹文命） |
-| 鐵笛（[甄宓](../Page/甄宓.md "wikilink")）        | 桃扇（[小喬](../Page/小喬.md "wikilink")）     | 叉突矛（[星彩](../Page/敬哀皇后.md "wikilink")） |                                       | 野太刀（[森蘭丸](../Page/森蘭丸.md "wikilink")） |          |
-| 雙鉞（新[張遼](../Page/張遼.md "wikilink")）       | 斷戟（[呂蒙](../Page/呂蒙.md "wikilink")）     | 三尖槍（[姜維](../Page/姜維.md "wikilink")）   |                                       | 月香鞭（新[貂蟬](../Page/貂蟬.md "wikilink")）  |          |
-| 飛麗爪（新[張郃](../Page/張郃.md "wikilink")）      | 夏圈（[孫尚香](../Page/孫尚香.md "wikilink")）   | 雷鳴槍（新[姜維](../Page/姜維.md "wikilink")）  |                                       | 方天戟（新[呂布](../Page/呂布.md "wikilink")）  |          |
-| 打球棍（[郭嘉](../Page/郭嘉.md "wikilink")）       | 火焰圈（新[孫尚香](../Page/孫尚香.md "wikilink")） | 龍扇（新[諸葛亮](../Page/諸葛亮.md "wikilink")） |                                       | 錫杖（新[張角](../Page/張角.md "wikilink")）   |          |
-| 大鉞（新[徐晃](../Page/徐晃.md "wikilink")）       | 紅龍刀（新[孫權](../Page/孫權.md "wikilink")）   | 長弓（新[黃忠](../Page/黃忠.md "wikilink")）   |                                       | 導符（新[左慈](../Page/左慈.md "wikilink")）   |          |
-| 麒麟刀（新[夏侯惇](../Page/夏侯惇.md "wikilink")）    | 打雙鞭（新[太史慈](../Page/太史慈.md "wikilink")） | 雙龍劍（新[劉備](../Page/劉備.md "wikilink")）  |                                       | 飛刀（新[祝融](../Page/祝融.md "wikilink")）   |          |
-| 紅蓮笛（新[甄宓](../Page/甄宓.md "wikilink")）      | 旋擊棍（新[孫策](../Page/孫策.md "wikilink")）   | 擊劍（[徐庶](../Page/徐庶.md "wikilink")）    |                                       | 十字戟（[呂玲綺](../Page/呂玲綺.md "wikilink")） |          |
-| 筆架叉（[王異](../Page/王異.md "wikilink")）       | 鐵舟（新[黃蓋](../Page/黃蓋.md "wikilink")）    | 波鬥棍（[關索](../Page/關索.md "wikilink")）   |                                       |                                       |          |
-| 潰棒（新[許褚](../Page/許褚.md "wikilink")）       | 雙杖（新[大喬](../Page/大喬.md "wikilink")）    | 旋刃盤（[鮑三娘](../Page/鮑三娘.md "wikilink")） |                                       |                                       |          |
-| 手斧（新[典韋](../Page/典韋.md "wikilink")）       | 短戟（[韓當](../Page/韓當.md "wikilink")）     | 刺劍（[劉禪](../Page/劉禪.md "wikilink")）    |                                       |                                       |          |
-| 雙斬劍（新[曹丕](../Page/曹丕.md "wikilink")）      | 斷月刃（[丁奉](../Page/丁奉.md "wikilink")）    | 長刀（新[關羽](../Page/關羽.md "wikilink")）   |                                       |                                       |          |
-| 弓箭鞭（新[夏侯淵](../Page/夏侯淵.md "wikilink")）    | 打刀（新[周泰](../Page/周泰.md "wikilink")）    | 龍槍（新[趙雲](../Page/趙雲.md "wikilink")）   |                                       |                                       |          |
-| 雙鉤（[樂進](../Page/樂進.md "wikilink"))        | 鐡扇（新[小喬](../Page/小喬.md "wikilink")）    | 大劍（新[關平](../Page/關平.md "wikilink")）   |                                       |                                       |          |
-|                                           |                                        | 兩刃槍（新[姜維](../Page/姜維.md "wikilink")）  |                                       |                                       |          |
-|                                           |                                        | 刃弩（新[月英](../Page/黃月英.md "wikilink")）  |                                       |                                       |          |
+| 魏國武將使用                                                       | 吳國武將使用                                                    | 蜀漢武將使用                                                   | 晉國武將使用                                                   | 他國武將使用                                                   | Online原創 |
+| ------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------- |
+| 朴刀（[夏侯惇](../Page/夏侯惇.md "wikilink")）                         | 鐵劍（[周瑜](../Page/周瑜.md "wikilink")）                        | 直槍（[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")）    | 燕扇（[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")）  | 鐵戟（[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")）    | 長棍（夏侯邦）  |
+| 鉤鎌刀（[張遼](../Page/張遼.md "wikilink")）                          | 甲刀（[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")）     | 偃月刀（[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")）   | 鏢（[王元姬](../Page/王元姬.md "wikilink")）                      | 雙錘（[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")）    | 多節鞭（曹文命） |
+| 大斧（[徐晃](../Page/徐晃.md "wikilink")）                           | 積刃劍（[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")）    | 幻杖（[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")）    | 青龍刀（[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")） | 獄刀（[董卓](../Page/董卓.md "wikilink")）                       | 戰盤（司馬先）  |
+| 碎棍（[夏侯淵](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")）      | 雙劍（[陸遜](../Page/陸遜.md "wikilink")）                        | 羽扇（[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")）  | 螺旋槍（[鄧艾](https://zh.wikipedia.org/wiki/鄧艾 "wikilink")）   | 寶劍（[袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")）    | 麟角刀      |
+| 戰斧（[典韋](https://zh.wikipedia.org/wiki/典韋 "wikilink")）        | 櫻扇（[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")）     | 鐵槍（[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")）    | 飛翔劍（[鍾會](../Page/鍾會.md "wikilink")）                      | 妖杖（[張角](../Page/張角.md "wikilink")）                       | 狼牙棒      |
+| 雙戟（[龐德](https://zh.wikipedia.org/wiki/龐德_\(東漢\) "wikilink")） | 鐵鞭（[黃蓋](../Page/黃蓋.md "wikilink")）                        | 鐵矛（[張飛](https://zh.wikipedia.org/wiki/張飛 "wikilink")）    | 迅雷劍（[司馬師](../Page/司馬師.md "wikilink")）                    | 蠻拳（[孟獲](../Page/孟獲.md "wikilink")）                       | 蛇劍       |
+| 雙刃劍（[曹丕](../Page/曹丕.md "wikilink")）                          | 雙節棍（[凌統](../Page/凌統.md "wikilink")）                       | 斬馬刀（[關平](../Page/關平.md "wikilink")）                      | 連弩砲（[郭淮](../Page/郭淮.md "wikilink")）                      | 投弧刃（[祝融](https://zh.wikipedia.org/wiki/祝融夫人 "wikilink")） | 重手甲      |
+| 鐵鉤（[張郃](../Page/張郃.md "wikilink")）                           | 牙劍（[孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")）     | 戰戈（[月英](https://zh.wikipedia.org/wiki/黃月英 "wikilink")）   |                                                          | 符咒（[左慈](../Page/左慈.md "wikilink")）                       | 穿刃       |
+| 碎棒（[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")）        | 雙鞭（[太史慈](../Page/太史慈.md "wikilink")）                      | 長雙刀（[魏延](../Page/魏延.md "wikilink")）                      |                                                          | 巨劍（[伏羲](../Page/伏羲.md "wikilink")）                       | 龍牙鉤      |
+| 將劍（[曹操](../Page/曹操.md "wikilink")）                           | 弧刀（[周泰](../Page/周泰.md "wikilink")）                        | 盤刀（[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")）    |                                                          | 細劍（[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")）    | 匕首       |
+| 牙壁（[曹仁](../Page/曹仁.md "wikilink")）                           | 旋棍（[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")）     | 尖劍（[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")）    |                                                          | 墮落（[妲己](../Page/妲己.md "wikilink")）                       | 雙短銃（曹文命） |
+| 鐵笛（[甄宓](https://zh.wikipedia.org/wiki/甄宓 "wikilink")）        | 桃扇（[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")）     | 叉突矛（[星彩](https://zh.wikipedia.org/wiki/敬哀皇后 "wikilink")） |                                                          | 野太刀（[森蘭丸](../Page/森蘭丸.md "wikilink")）                    |          |
+| 雙鉞（新[張遼](../Page/張遼.md "wikilink")）                          | 斷戟（[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")）     | 三尖槍（[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）   |                                                          | 月香鞭（新[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")）  |          |
+| 飛麗爪（新[張郃](../Page/張郃.md "wikilink")）                         | 夏圈（[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")）   | 雷鳴槍（新[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）  |                                                          | 方天戟（新[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")）  |          |
+| 打球棍（[郭嘉](../Page/郭嘉.md "wikilink")）                          | 火焰圈（新[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")） | 龍扇（新[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")） |                                                          | 錫杖（新[張角](../Page/張角.md "wikilink")）                      |          |
+| 大鉞（新[徐晃](../Page/徐晃.md "wikilink")）                          | 紅龍刀（新[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")）   | 長弓（新[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")）   |                                                          | 導符（新[左慈](../Page/左慈.md "wikilink")）                      |          |
+| 麒麟刀（新[夏侯惇](../Page/夏侯惇.md "wikilink")）                       | 打雙鞭（新[太史慈](../Page/太史慈.md "wikilink")）                    | 雙龍劍（新[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")）  |                                                          | 飛刀（新[祝融](../Page/祝融.md "wikilink")）                      |          |
+| 紅蓮笛（新[甄宓](https://zh.wikipedia.org/wiki/甄宓 "wikilink")）      | 旋擊棍（新[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")）   | 擊劍（[徐庶](../Page/徐庶.md "wikilink")）                       |                                                          | 十字戟（[呂玲綺](https://zh.wikipedia.org/wiki/呂玲綺 "wikilink")） |          |
+| 筆架叉（[王異](../Page/王異.md "wikilink")）                          | 鐵舟（新[黃蓋](../Page/黃蓋.md "wikilink")）                       | 波鬥棍（[關索](https://zh.wikipedia.org/wiki/關索 "wikilink")）   |                                                          |                                                          |          |
+| 潰棒（新[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")）       | 雙杖（新[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")）    | 旋刃盤（[鮑三娘](https://zh.wikipedia.org/wiki/鮑三娘 "wikilink")） |                                                          |                                                          |          |
+| 手斧（新[典韋](https://zh.wikipedia.org/wiki/典韋 "wikilink")）       | 短戟（[韓當](../Page/韓當.md "wikilink")）                        | 刺劍（[劉禪](https://zh.wikipedia.org/wiki/劉禪 "wikilink")）    |                                                          |                                                          |          |
+| 雙斬劍（新[曹丕](../Page/曹丕.md "wikilink")）                         | 斷月刃（[丁奉](../Page/丁奉.md "wikilink")）                       | 長刀（新[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")）   |                                                          |                                                          |          |
+| 弓箭鞭（新[夏侯淵](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")）    | 打刀（新[周泰](../Page/周泰.md "wikilink")）                       | 龍槍（新[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")）   |                                                          |                                                          |          |
+| 雙鉤（[樂進](../Page/樂進.md "wikilink"))                           | 鐡扇（新[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")）    | 大劍（新[關平](../Page/關平.md "wikilink")）                      |                                                          |                                                          |          |
+|                                                              |                                                           | 兩刃槍（新[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）  |                                                          |                                                          |          |
+|                                                              |                                                           | 刃弩（新[月英](https://zh.wikipedia.org/wiki/黃月英 "wikilink")）  |                                                          |                                                          |          |
 
 ## 武器終極強化
 
 武器終極強化是強化連擊3次後集滿七顆仙箪可使用的招式。
 
-| 終極強化 | 武器1                                   | 武器2                                       | 武器3                                    | 武器4                                   | 武器5                                    | 終極強化作用                         |
-| ---- | ------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------------------------------- | -------------------------------------- | ------------------------------ |
-| 繚亂   | 直槍（[趙雲](../Page/趙雲.md "wikilink")）    | 長棍（夏侯邦）                                   | 龍槍（新[趙雲](../Page/趙雲.md "wikilink")）    | 雙鉤（新[樂進](../Page/樂進.md "wikilink")）   |                                        | 攻擊範圍增為2倍。                      |
-| 破竹   | 戰斧（[典韋](../Page/典韋.md "wikilink")）    | 雙戟（[龐德](../Page/龐德_\(東漢\).md "wikilink")） | 潰棒（新[許褚](../Page/許褚.md "wikilink")）    | 刃弩（新[月英](../Page/黃月英.md "wikilink")）  |                                        | 攻擊力增為3倍。                       |
-| 粉碎   | 鐵槍（[馬超](../Page/馬超.md "wikilink")）    | 寶劍（[袁紹](../Page/袁紹.md "wikilink")）        |                                        |                                       |                                        | 破壞力增為3倍。                       |
-| 背水   | 多節鞭（曹文命）                              | 戰盤（司馬先）                                   | 斷月刃（[丁奉](../Page/丁奉.md "wikilink")）    | 手斧（新[典韋](../Page/典韋.md "wikilink")）   | 兩刃槍（新[姜維](../Page/姜維.md "wikilink")）   | 防禦力增為3倍。                       |
-| 神力   | 大斧（[徐晃](../Page/徐晃.md "wikilink")）    | 偃月刀（[關羽](../Page/關羽.md "wikilink")）       | 長刀（新[關羽](../Page/關羽.md "wikilink")）    | 大鉞（新[徐晃](../Page/徐晃.md "wikilink")）   | 鞭箭弓（新[夏侯淵](../Page/夏侯淵.md "wikilink")） | 最大體力增為2倍，並回復一定的體力值。            |
-| 亂舞   | 碎棍（[夏侯淵](../Page/夏侯淵.md "wikilink")）  | 雙鞭（[太史慈](../Page/太史慈.md "wikilink")）      | 打雙鞭（新[太史慈](../Page/太史慈.md "wikilink")） |                                       |                                        | 無雙增加速度增為2倍，且無雙會慢慢回覆。           |
-| 堅牢   | 將劍（[曹操](../Page/曹操.md "wikilink")）    | 積刃劍（[孫權](../Page/孫權.md "wikilink")）       | 紅龍刀（新[孫權](../Page/孫權.md "wikilink")）   | 筆架叉（[王異](../Page/王異.md "wikilink")）   |                                        | 我方據點內單位防禦增為1.3倍。               |
-| 鳳凰   | 鐵劍（[周瑜](../Page/周瑜.md "wikilink")）    | 獄刀（[董卓](../Page/董卓.md "wikilink")）        | 匕首                                     |                                       |                                        | 所有攻擊均會附加屬性。                    |
-| 抑制   | 羽扇（[諸葛亮](../Page/諸葛亮.md "wikilink")）  | 投弧刃（[祝融](../Page/祝融夫人.md "wikilink")）     | 龍扇（新[諸葛亮](../Page/諸葛亮.md "wikilink")）  | 迅雷劍（[司馬師](../Page/司馬師.md "wikilink")） | 飛刀（新[祝融](../Page/祝融.md "wikilink")）    | 所有玩家均無法增加無雙值。                  |
-| 神錘   | 碎棒（[許褚](../Page/許褚.md "wikilink")）    | 鐵鞭（[黃蓋](../Page/黃蓋.md "wikilink")）        | 方天戟（新[呂布](../Page/呂布.md "wikilink")）   | 鐵舟（新[黃蓋](../Page/黃蓋.md "wikilink")）   |                                        | 可發動攻擊力2倍的真‧無雙亂舞。               |
-| 神速   | 朴刀（[夏侯惇](../Page/夏侯惇.md "wikilink")）  | 甲刀（[甘寧](../Page/甘寧.md "wikilink")）        | 麒麟刀（新[夏侯惇](../Page/夏侯惇.md "wikilink")） |                                       |                                        | 移動速度變為最大。                      |
-| 孔雀   | 燕扇（[司馬懿](../Page/司馬懿.md "wikilink")）  | 櫻扇（[大喬](../Page/大喬.md "wikilink")）        | 雙杖（新[大喬](../Page/大喬.md "wikilink")）    | 鐡扇（新[小喬](../Page/小喬.md "wikilink")）   |                                        | 強化玩家的攻擊屬性傷害。                   |
-| 鼓舞   | 雙劍（[陸遜](../Page/陸遜.md "wikilink")）    | 雙錘（[貂蟬](../Page/貂蟬.md "wikilink")）        |                                        |                                       |                                        | 恢復除玩家之外的將兵的體力。                 |
-| 守護   | 夏圈（[孫尚香](../Page/孫尚香.md "wikilink")）  | 雙節棍（[凌統](../Page/凌統.md "wikilink")）       | 火焰圈（新[孫尚香](../Page/孫尚香.md "wikilink")） | 波鬥棍（[關索](../Page/關索.md "wikilink")）   |                                        | 我方玩家體力逐漸恢復。                    |
-| 吸收   | 鉤鐮刀（[張遼](../Page/張遼.md "wikilink")）   | 長雙刀（[魏延](../Page/魏延.md "wikilink")）       | 雙鉞（新[張遼](../Page/張遼.md "wikilink")）    | 刺劍（[劉禪](../Page/劉禪.md "wikilink")）    |                                        | 對應攻擊吸收體力。                      |
-| 幻影   | 幻杖（[龐統](../Page/龐統.md "wikilink")）    | 妖杖（[張角](../Page/張角.md "wikilink")）        | 導符（新[左慈](../Page/左慈.md "wikilink")）    |                                       |                                        | 我方玩家小地圖可視範圍全開，敵方玩家小地圖可視範圍歸0。   |
-| 鋼軀   | 鐵鉤（[張郃](../Page/張郃.md "wikilink")）    | 蠻拳（[孟獲](../Page/孟獲.md "wikilink")）        | 飛麗爪（新[張郃](../Page/張郃.md "wikilink")）   | 大劍（新[關平](../Page/關平.md "wikilink")）   |                                        | 玩家身軀強壯程度上升1級。                  |
-| 不屈   | 鐵矛（[張飛](../Page/張飛.md "wikilink")）    | 斬馬刀（[關平](../Page/關平.md "wikilink")）       | 連弩砲（[郭淮](../Page/郭淮.md "wikilink")）    |                                       |                                        | 無視所有的屬性傷害。                     |
-| 威風   | 旋棍（[孫策](../Page/孫策.md "wikilink")）    | 弧刀（[周泰](../Page/周泰.md "wikilink")）        | 旋擊棍（新[孫策](../Page/孫策.md "wikilink")）   | 打刀（新[周泰](../Page/周泰.md "wikilink")）   |                                        | 攻擊、破壞、防禦的能力以自身體力作上下修正，最高提升到2倍。 |
-| 反攻   | 牙壁（[曹仁](../Page/曹仁.md "wikilink")）    | 盤刀（[黃忠](../Page/黃忠.md "wikilink")）        | 長弓（新[黃忠](../Page/黃忠.md "wikilink")）    | 短戟（[韓當](../Page/韓當.md "wikilink")）    |                                        | 自動防禦前方的攻擊，使用屬性反擊時不消耗無雙。        |
-| 天運   | 鐵笛（[甄宓](../Page/甄宓.md "wikilink")）    | 戰戈（[月英](../Page/黃月英.md "wikilink")）       |                                        |                                       |                                        | 所有玩家的終極強化變為隨機。                 |
-| 加速   | 雙刃劍（[曹丕](../Page/曹丕.md "wikilink")）   | 尖劍（[劉備](../Page/劉備.md "wikilink")）        | 雙龍劍（新[劉備](../Page/劉備.md "wikilink")）   | 雙斬劍（新曹丕）                              |                                        | 提昇我方玩家全員的移動速度。                 |
-| 獻身   | 三尖槍（[姜維](../Page/姜維.md "wikilink")）   | 符咒（[左慈](../Page/左慈.md "wikilink")）        | 雷鳴槍（新[姜維](../Page/姜維.md "wikilink")）   | 月香鞭（新[貂蟬](../Page/貂蟬.md "wikilink")）  |                                        | 降低自身能力，提昇我方其他玩家的能力。            |
-| 鐵壁   | 斷戟（[呂蒙](../Page/呂蒙.md "wikilink")）    | 叉突矛（[星彩](../Page/敬哀皇后.md "wikilink")）     |                                        |                                       |                                        | 防禦力增為2倍，遭到敵方攻擊時防禦成功則回復自身血量。    |
-| 鬼迫   | 鐵戟（[呂布](../Page/呂布.md "wikilink")）    | 野太刀（[森蘭丸](../Page/森蘭丸.md "wikilink")）     | 十字戟（[呂玲綺](../Page/呂玲綺.md "wikilink")）  |                                       |                                        | 無視敵方防禦狀態依舊給予傷害。                |
-| 結界   | 巨劍（[伏羲](../Page/伏羲.md "wikilink")）    | 細劍（[女媧](../Page/女媧.md "wikilink")）        | 飛翔劍（[鍾會](../Page/鍾會.md "wikilink")）    | 打球棍（[郭嘉](../Page/郭嘉.md "wikilink")）   |                                        | 可進行全方位防禦，但結界狀態下被攻擊則持續時間會額外減少。  |
-| 迅雷   | 麟角刀                                   | 穿刃                                        | 擊劍（[徐庶](../Page/徐庶.md "wikilink")）     | 旋刃盤（[鮑三娘](../Page/鮑三娘.md "wikilink")） |                                        | 衝刺狀態中可撞飛敵人。                    |
-| 共鳴   | 牙劍（[孫堅](../Page/孫堅.md "wikilink")）    | 桃扇（[小喬](../Page/小喬.md "wikilink")）        |                                        |                                       |                                        | 戰場上拾獲的道具能力可以以平均分配的方式分享給隊友。     |
-| 鎮身   | 狼牙棒                                   | 蛇劍                                        |                                        |                                       |                                        | 隨著體力減少攻擊力增加，身體變得不易浮起。          |
-| 滅殺   | 重手甲                                   | 龍牙鉤                                       |                                        |                                       |                                        | 防禦成功後崩壞敵人的戰鬥姿態，並減少敵人無雙值。       |
-| 神域   | 墮落（[妲己](../Page/妲己.md "wikilink")）    |                                           |                                        |                                       |                                        | 範圍中所有玩家無法跳躍。                   |
-| 毒牙   | 鏢（[王元姬](../Page/王元姬.md "wikilink")）   | 紅蓮笛（新[甄宓](../Page/甄宓.md "wikilink")）      |                                        |                                       |                                        | 被攻擊者持續受到傷害，攻擊、防禦、移動下降。         |
-| 擊碎   | 青龍刀（[司馬昭](../Page/司馬昭.md "wikilink")） | 螺旋槍（[鄧艾](../Page/鄧艾.md "wikilink")）       |                                        |                                       |                                        | 破壞力增為2倍，易武攻擊力增加。               |
+| 終極強化 | 武器1                                                      | 武器2                                                          | 武器3                                                       | 武器4                                                      | 武器5                                                       | 終極強化作用                         |
+| ---- | -------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- | ------------------------------ |
+| 繚亂   | 直槍（[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")）    | 長棍（夏侯邦）                                                      | 龍槍（新[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")）    | 雙鉤（新[樂進](../Page/樂進.md "wikilink")）                      |                                                           | 攻擊範圍增為2倍。                      |
+| 破竹   | 戰斧（[典韋](https://zh.wikipedia.org/wiki/典韋 "wikilink")）    | 雙戟（[龐德](https://zh.wikipedia.org/wiki/龐德_\(東漢\) "wikilink")） | 潰棒（新[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")）    | 刃弩（新[月英](https://zh.wikipedia.org/wiki/黃月英 "wikilink")）  |                                                           | 攻擊力增為3倍。                       |
+| 粉碎   | 鐵槍（[馬超](https://zh.wikipedia.org/wiki/馬超 "wikilink")）    | 寶劍（[袁紹](https://zh.wikipedia.org/wiki/袁紹 "wikilink")）        |                                                           |                                                          |                                                           | 破壞力增為3倍。                       |
+| 背水   | 多節鞭（曹文命）                                                 | 戰盤（司馬先）                                                      | 斷月刃（[丁奉](../Page/丁奉.md "wikilink")）                       | 手斧（新[典韋](https://zh.wikipedia.org/wiki/典韋 "wikilink")）   | 兩刃槍（新[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）   | 防禦力增為3倍。                       |
+| 神力   | 大斧（[徐晃](../Page/徐晃.md "wikilink")）                       | 偃月刀（[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")）       | 長刀（新[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")）    | 大鉞（新[徐晃](../Page/徐晃.md "wikilink")）                      | 鞭箭弓（新[夏侯淵](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")） | 最大體力增為2倍，並回復一定的體力值。            |
+| 亂舞   | 碎棍（[夏侯淵](https://zh.wikipedia.org/wiki/夏侯淵 "wikilink")）  | 雙鞭（[太史慈](../Page/太史慈.md "wikilink")）                         | 打雙鞭（新[太史慈](../Page/太史慈.md "wikilink")）                    |                                                          |                                                           | 無雙增加速度增為2倍，且無雙會慢慢回覆。           |
+| 堅牢   | 將劍（[曹操](../Page/曹操.md "wikilink")）                       | 積刃劍（[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")）       | 紅龍刀（新[孫權](https://zh.wikipedia.org/wiki/孫權 "wikilink")）   | 筆架叉（[王異](../Page/王異.md "wikilink")）                      |                                                           | 我方據點內單位防禦增為1.3倍。               |
+| 鳳凰   | 鐵劍（[周瑜](../Page/周瑜.md "wikilink")）                       | 獄刀（[董卓](../Page/董卓.md "wikilink")）                           | 匕首                                                        |                                                          |                                                           | 所有攻擊均會附加屬性。                    |
+| 抑制   | 羽扇（[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")）  | 投弧刃（[祝融](https://zh.wikipedia.org/wiki/祝融夫人 "wikilink")）     | 龍扇（新[諸葛亮](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")）  | 迅雷劍（[司馬師](../Page/司馬師.md "wikilink")）                    | 飛刀（新[祝融](../Page/祝融.md "wikilink")）                       | 所有玩家均無法增加無雙值。                  |
+| 神錘   | 碎棒（[許褚](https://zh.wikipedia.org/wiki/許褚 "wikilink")）    | 鐵鞭（[黃蓋](../Page/黃蓋.md "wikilink")）                           | 方天戟（新[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")）   | 鐵舟（新[黃蓋](../Page/黃蓋.md "wikilink")）                      |                                                           | 可發動攻擊力2倍的真‧無雙亂舞。               |
+| 神速   | 朴刀（[夏侯惇](../Page/夏侯惇.md "wikilink")）                     | 甲刀（[甘寧](https://zh.wikipedia.org/wiki/甘寧 "wikilink")）        | 麒麟刀（新[夏侯惇](../Page/夏侯惇.md "wikilink")）                    |                                                          |                                                           | 移動速度變為最大。                      |
+| 孔雀   | 燕扇（[司馬懿](https://zh.wikipedia.org/wiki/司馬懿 "wikilink")）  | 櫻扇（[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")）        | 雙杖（新[大喬](https://zh.wikipedia.org/wiki/大喬 "wikilink")）    | 鐡扇（新[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")）   |                                                           | 強化玩家的攻擊屬性傷害。                   |
+| 鼓舞   | 雙劍（[陸遜](../Page/陸遜.md "wikilink")）                       | 雙錘（[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")）        |                                                           |                                                          |                                                           | 恢復除玩家之外的將兵的體力。                 |
+| 守護   | 夏圈（[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")）  | 雙節棍（[凌統](../Page/凌統.md "wikilink")）                          | 火焰圈（新[孫尚香](https://zh.wikipedia.org/wiki/孫尚香 "wikilink")） | 波鬥棍（[關索](https://zh.wikipedia.org/wiki/關索 "wikilink")）   |                                                           | 我方玩家體力逐漸恢復。                    |
+| 吸收   | 鉤鐮刀（[張遼](../Page/張遼.md "wikilink")）                      | 長雙刀（[魏延](../Page/魏延.md "wikilink")）                          | 雙鉞（新[張遼](../Page/張遼.md "wikilink")）                       | 刺劍（[劉禪](https://zh.wikipedia.org/wiki/劉禪 "wikilink")）    |                                                           | 對應攻擊吸收體力。                      |
+| 幻影   | 幻杖（[龐統](https://zh.wikipedia.org/wiki/龐統 "wikilink")）    | 妖杖（[張角](../Page/張角.md "wikilink")）                           | 導符（新[左慈](../Page/左慈.md "wikilink")）                       |                                                          |                                                           | 我方玩家小地圖可視範圍全開，敵方玩家小地圖可視範圍歸0。   |
+| 鋼軀   | 鐵鉤（[張郃](../Page/張郃.md "wikilink")）                       | 蠻拳（[孟獲](../Page/孟獲.md "wikilink")）                           | 飛麗爪（新[張郃](../Page/張郃.md "wikilink")）                      | 大劍（新[關平](../Page/關平.md "wikilink")）                      |                                                           | 玩家身軀強壯程度上升1級。                  |
+| 不屈   | 鐵矛（[張飛](https://zh.wikipedia.org/wiki/張飛 "wikilink")）    | 斬馬刀（[關平](../Page/關平.md "wikilink")）                          | 連弩砲（[郭淮](../Page/郭淮.md "wikilink")）                       |                                                          |                                                           | 無視所有的屬性傷害。                     |
+| 威風   | 旋棍（[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")）    | 弧刀（[周泰](../Page/周泰.md "wikilink")）                           | 旋擊棍（新[孫策](https://zh.wikipedia.org/wiki/孫策 "wikilink")）   | 打刀（新[周泰](../Page/周泰.md "wikilink")）                      |                                                           | 攻擊、破壞、防禦的能力以自身體力作上下修正，最高提升到2倍。 |
+| 反攻   | 牙壁（[曹仁](../Page/曹仁.md "wikilink")）                       | 盤刀（[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")）        | 長弓（新[黃忠](https://zh.wikipedia.org/wiki/黃忠 "wikilink")）    | 短戟（[韓當](../Page/韓當.md "wikilink")）                       |                                                           | 自動防禦前方的攻擊，使用屬性反擊時不消耗無雙。        |
+| 天運   | 鐵笛（[甄宓](https://zh.wikipedia.org/wiki/甄宓 "wikilink")）    | 戰戈（[月英](https://zh.wikipedia.org/wiki/黃月英 "wikilink")）       |                                                           |                                                          |                                                           | 所有玩家的終極強化變為隨機。                 |
+| 加速   | 雙刃劍（[曹丕](../Page/曹丕.md "wikilink")）                      | 尖劍（[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")）        | 雙龍劍（新[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")）   | 雙斬劍（新曹丕）                                                 |                                                           | 提昇我方玩家全員的移動速度。                 |
+| 獻身   | 三尖槍（[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）   | 符咒（[左慈](../Page/左慈.md "wikilink")）                           | 雷鳴槍（新[姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")）   | 月香鞭（新[貂蟬](https://zh.wikipedia.org/wiki/貂蟬 "wikilink")）  |                                                           | 降低自身能力，提昇我方其他玩家的能力。            |
+| 鐵壁   | 斷戟（[呂蒙](https://zh.wikipedia.org/wiki/呂蒙 "wikilink")）    | 叉突矛（[星彩](https://zh.wikipedia.org/wiki/敬哀皇后 "wikilink")）     |                                                           |                                                          |                                                           | 防禦力增為2倍，遭到敵方攻擊時防禦成功則回復自身血量。    |
+| 鬼迫   | 鐵戟（[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")）    | 野太刀（[森蘭丸](../Page/森蘭丸.md "wikilink")）                        | 十字戟（[呂玲綺](https://zh.wikipedia.org/wiki/呂玲綺 "wikilink")）  |                                                          |                                                           | 無視敵方防禦狀態依舊給予傷害。                |
+| 結界   | 巨劍（[伏羲](../Page/伏羲.md "wikilink")）                       | 細劍（[女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")）        | 飛翔劍（[鍾會](../Page/鍾會.md "wikilink")）                       | 打球棍（[郭嘉](../Page/郭嘉.md "wikilink")）                      |                                                           | 可進行全方位防禦，但結界狀態下被攻擊則持續時間會額外減少。  |
+| 迅雷   | 麟角刀                                                      | 穿刃                                                           | 擊劍（[徐庶](../Page/徐庶.md "wikilink")）                        | 旋刃盤（[鮑三娘](https://zh.wikipedia.org/wiki/鮑三娘 "wikilink")） |                                                           | 衝刺狀態中可撞飛敵人。                    |
+| 共鳴   | 牙劍（[孫堅](https://zh.wikipedia.org/wiki/孫堅 "wikilink")）    | 桃扇（[小喬](https://zh.wikipedia.org/wiki/小喬 "wikilink")）        |                                                           |                                                          |                                                           | 戰場上拾獲的道具能力可以以平均分配的方式分享給隊友。     |
+| 鎮身   | 狼牙棒                                                      | 蛇劍                                                           |                                                           |                                                          |                                                           | 隨著體力減少攻擊力增加，身體變得不易浮起。          |
+| 滅殺   | 重手甲                                                      | 龍牙鉤                                                          |                                                           |                                                          |                                                           | 防禦成功後崩壞敵人的戰鬥姿態，並減少敵人無雙值。       |
+| 神域   | 墮落（[妲己](../Page/妲己.md "wikilink")）                       |                                                              |                                                           |                                                          |                                                           | 範圍中所有玩家無法跳躍。                   |
+| 毒牙   | 鏢（[王元姬](../Page/王元姬.md "wikilink")）                      | 紅蓮笛（新[甄宓](https://zh.wikipedia.org/wiki/甄宓 "wikilink")）      |                                                           |                                                          |                                                           | 被攻擊者持續受到傷害，攻擊、防禦、移動下降。         |
+| 擊碎   | 青龍刀（[司馬昭](https://zh.wikipedia.org/wiki/司馬昭 "wikilink")） | 螺旋槍（[鄧艾](https://zh.wikipedia.org/wiki/鄧艾 "wikilink")）       |                                                           |                                                          |                                                           | 破壞力增為2倍，易武攻擊力增加。               |
 
 ## 合作作品
 
@@ -274,38 +274,38 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 
 <!-- end list -->
 
-  - [赤壁](../Page/赤壁_\(電影\).md "wikilink")
-      - [吳宇森執導的電影](../Page/吳宇森.md "wikilink")，可用日本當地的電影票根兌換披風，僅限日版。
+  - [赤壁](https://zh.wikipedia.org/wiki/赤壁_\(電影\) "wikilink")
+      - [吳宇森執導的電影](https://zh.wikipedia.org/wiki/吳宇森 "wikilink")，可用日本當地的電影票根兌換披風，僅限日版。
 
 <!-- end list -->
 
-  - [三國](../Page/三國_\(電視劇\).md "wikilink")
+  - [三國](https://zh.wikipedia.org/wiki/三國_\(電視劇\) "wikilink")
       - 俗稱**新三國**，日本翻譯成**三国志 Three Kingdoms**，可取得該電視劇的週邊家具，僅限日版。
 
 <!-- end list -->
 
-  - [忍者外傳Σ2](../Page/忍者外傳系列#忍者外傳Σ2.md "wikilink")
+  - [忍者外傳Σ2](https://zh.wikipedia.org/wiki/忍者外傳系列#忍者外傳Σ2 "wikilink")
       - 2011年的PS3版4週年紀念包滿足特定條件，可以獲得角色「龍隼」&「綾音」的特殊服裝，僅限日版。台版則有釋出一般品於骨董商，或者戰場取得。
 
 <!-- end list -->
 
-  - [信喵之野望](../Page/信喵之野望.md "wikilink")
+  - [信喵之野望](https://zh.wikipedia.org/wiki/信喵之野望 "wikilink")
       - 同為光榮旗下作品，有[織田信喵的喵紋紀念披風](../Page/織田信長.md "wikilink")。
 
 <!-- end list -->
 
-  - [戰國無雙3](../Page/戰國無雙3.md "wikilink")
-      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[竹中半兵衛](../Page/竹中半兵衛.md "wikilink")」的特殊服裝。
+  - [戰國無雙3](https://zh.wikipedia.org/wiki/戰國無雙3 "wikilink")
+      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[竹中半兵衛](https://zh.wikipedia.org/wiki/竹中半兵衛 "wikilink")」的特殊服裝。
 
 <!-- end list -->
 
   - [無雙OROCHI 2 Hyper](../Page/無雙OROCHI_2.md "wikilink")
-      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[卑彌呼](../Page/卑彌呼.md "wikilink")」的特殊服裝。
+      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[卑彌呼](https://zh.wikipedia.org/wiki/卑彌呼 "wikilink")」的特殊服裝。
 
 <!-- end list -->
 
   - [戰國無雙4](../Page/戰國無雙4.md "wikilink")
-      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[真田幸村](../Page/真田幸村.md "wikilink")」、「[女忍者](../Page/女忍者.md "wikilink")」的特殊服裝。
+      - 同為光榮旗下作品，滿足特定條件可以獲得角色「[真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")」、「[女忍者](../Page/女忍者.md "wikilink")」的特殊服裝。
 
 ## 臺灣方面遊戲主題曲
 
@@ -327,8 +327,8 @@ Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙
 <!-- end list -->
 
   - 結束營運
-      - [南韓](../Page/南韓.md "wikilink")
-      - [歐美](../Page/歐美.md "wikilink")
+      - [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")
+      - [歐美](https://zh.wikipedia.org/wiki/歐美 "wikilink")
       - [臺灣](../Page/臺灣.md "wikilink")
 
 ## 相關條目

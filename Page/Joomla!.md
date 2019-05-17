@@ -1,5 +1,5 @@
-**Joomla\!**是一套[自由](../Page/自由軟體.md "wikilink")、[開放原始碼的](../Page/開放原始碼.md "wikilink")[內容管理系統](../Page/內容管理系統.md "wikilink")，以[PHP撰寫](../Page/PHP.md "wikilink")，用於發佈內容在[万维网與](../Page/万维网.md "wikilink")[内部网](../Page/内部网.md "wikilink")，通常被用來搭建商業網站、個人部落格、資訊管理系統、Web
-服務等，還可以進行二次開發以擴充使用範圍。其功能包含可提高效能的頁面[快取](../Page/快取.md "wikilink")、[RSS饋送](../Page/RSS.md "wikilink")、頁面的可列印版本、新聞摘要、[部落格](../Page/部落格.md "wikilink")、[投票](../Page/舆论调查.md "wikilink")、網站搜尋、與[語言國際化](../Page/国际化与本地化.md "wikilink")。Joomla\!是一套自由的開源軟體，使用[GPL授權](../Page/GNU通用公共许可证.md "wikilink")，任何人隨時都能下載
+**Joomla\!**是一套[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")，以[PHP撰寫](../Page/PHP.md "wikilink")，用於發佈內容在[万维网與](../Page/万维网.md "wikilink")[内部网](https://zh.wikipedia.org/wiki/内部网 "wikilink")，通常被用來搭建商業網站、個人部落格、資訊管理系統、Web
+服務等，還可以進行二次開發以擴充使用範圍。其功能包含可提高效能的頁面[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")、[RSS饋送](../Page/RSS.md "wikilink")、頁面的可列印版本、新聞摘要、[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")、[投票](https://zh.wikipedia.org/wiki/舆论调查 "wikilink")、網站搜尋、與[語言國際化](../Page/国际化与本地化.md "wikilink")。Joomla\!是一套自由的開源軟體，使用[GPL授權](../Page/GNU通用公共许可证.md "wikilink")，任何人隨時都能下載
 Joomla\! 並立即使用它。
 
 ## 歷史
@@ -7,7 +7,7 @@ Joomla\! 並立即使用它。
 Joomla\!在2006年與2011年皆獲得Packt頒發的最佳開源內容管理系統獎。\[1\]
 
 第一個發行版本的Joomla\!
-(1.0.0)發佈[於](https://docs.joomla.org/Release_and_support_cycle)2005年9月16日。是由[Mambo](../Page/曼波.md "wikilink")
+(1.0.0)發佈[於](https://docs.joomla.org/Release_and_support_cycle)2005年9月16日。是由[Mambo](https://zh.wikipedia.org/wiki/曼波 "wikilink")
 4.5.2.3版加上安全性修正後所分支發展的版本。
 
 Joomla\! 1.5 (2007年)則以全新的 MVC 框架為基礎完全重寫程式碼，是當時少數同時兼容 PHP4 與 5
@@ -23,7 +23,8 @@ Joomla\! 2.5
 (2012年)開始支援多種資料庫，並提供更多核心功能的升級，使得2.5成為長期支援版(LTS)，是3.x以前最穩定、使用數量最多的版本。
 
 Joomla\! 3.0 (2012年)引入[Twitter
-Bootstrap](../Page/Twitter_Bootstrap.md "wikilink")，並組成 JUX
+Bootstrap](https://zh.wikipedia.org/wiki/Twitter_Bootstrap "wikilink")，並組成
+JUX
 小組，全面升級系統的前後台UI機制，除了提供大量開發前端工具外，搭配全新設計的isis後台，讓Joomla\!成為世界第一套內建行動版後台的內容管理系統。
 
 Joomla\! 3.1
@@ -34,7 +35,8 @@ HMVC\[3\], Lazy Loading, PSR coding standard, PHP namespace, Autoloader,
 RESTful 等等。
 
 Joomla\! 3.2 (2013年)加入文章版本控管與線上 App store 功能，現在可以從網站後台直接下載安裝擴充套件。除此之外
-CMS 部分開始支援 [PSR-0](../Page/PSR-0.md "wikilink") ，開發者將能夠更輕易整合目前流行的函式庫。
+CMS 部分開始支援 [PSR-0](https://zh.wikipedia.org/wiki/PSR-0 "wikilink")
+，開發者將能夠更輕易整合目前流行的函式庫。
 
 Joomla\! 3.4(2015年二月) 正式版發佈，提供更強大的後台UI，並逐步將核心輕量化，部分核心元件能夠移除或者事後再安裝。
 
@@ -54,8 +56,10 @@ Joomla\! 4 的相容中介層，提供第三方應用遷移的準備時間。
 目前的 Joomla\! 3.x 皆為 STS 短期支援，預計最近的一版 LTS 長期支援版會是 3.5。Joomla\! 4 則預計將移除許多
 PHP 5.2 時代的殘留程式碼，整合前後台 Application 為單一入口，並導入 Composer 與 PSR
 等目前流行的先進開發技術。而從 Joomla\! 3.x 開始加入的 UCM
-([Unified Content Model](../Page/Unified_Content_Model.md "wikilink"))
-統一內容模型將成為往後版本建立 [CCK](../Page/CCK.md "wikilink") 應用的基礎。
+([Unified Content
+Model](https://zh.wikipedia.org/wiki/Unified_Content_Model "wikilink"))
+統一內容模型將成為往後版本建立 [CCK](https://zh.wikipedia.org/wiki/CCK "wikilink")
+應用的基礎。
 
 Joomla\!從2014年4月25日停止分為LTS、STS長短期支援的模式，以求能夠更快的更新系統、加入新的技術，不受LTS的制約，自Joomla\!3.3之後，每一個第二位版號都是穩定版本，並代表著系統的修改，生命盡頭在下一位版號發佈，如3.4版之後就終結3.3版生命週[期](https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F)，第三位版號代表的是更新修正檔發佈，而第一位版號代表的是大幅度的調整更新。
 
@@ -71,7 +75,7 @@ PHP 的開發標準，是自 1.6 以來最大的核心更動。且Joomla\! 4 的
 ## Joomla\! 名稱的由來
 
 Joomla\!
-這個單字來自[斯瓦希里语的](../Page/斯瓦希里语.md "wikilink")[英文串法](../Page/英文.md "wikilink")，意思是「all
+這個單字來自[斯瓦希里语的](../Page/斯瓦希里语.md "wikilink")[英文串法](https://zh.wikipedia.org/wiki/英文 "wikilink")，意思是「all
 together」或「as a whole」。
 
 它不單純只代表內容管理系統，而是一個品牌名稱。除了 Joomla\!CMS 以外，另外還有 Joomla\!Platform 與
@@ -99,8 +103,8 @@ Joomla\!Framework 等相關的開源Web框架專案正在進行中。
 <!-- end list -->
 
   -
-    [PHPMailer](../Page/PHPMailer.md "wikilink"), [Simple
-    Pie等等](../Page/Simple_Pie.md "wikilink")
+    [PHPMailer](https://zh.wikipedia.org/wiki/PHPMailer "wikilink"),
+    [Simple Pie等等](https://zh.wikipedia.org/wiki/Simple_Pie "wikilink")
 
 <!-- end list -->
 
@@ -146,24 +150,24 @@ Joomla\!Framework 等相關的開源Web框架專案正在進行中。
 <!-- end list -->
 
   -
-    集成 [MooTools](../Page/MooTools.md "wikilink"),
-    [jQuery](../Page/jQuery.md "wikilink"), [jQuery
-    UI](../Page/jQuery_UI.md "wikilink"), ,
-    [LESS與](../Page/LESS_\(层叠样式表\).md "wikilink")[IcoMoon等前端輔助框架或工具](../Page/IcoMoon.md "wikilink")，方便設計師設計功能強大的UI
+    集成 [MooTools](https://zh.wikipedia.org/wiki/MooTools "wikilink"),
+    [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink"), [jQuery
+    UI](https://zh.wikipedia.org/wiki/jQuery_UI "wikilink"), ,
+    [LESS與](https://zh.wikipedia.org/wiki/LESS_\(层叠样式表\) "wikilink")[IcoMoon等前端輔助框架或工具](https://zh.wikipedia.org/wiki/IcoMoon "wikilink")，方便設計師設計功能強大的UI
 
 ## 資料庫支援
 
 至2013年推出的3.1版為止，Joomla\!已支援5種資料庫，分別是:
 
   - [MySQL](../Page/MySQL.md "wikilink")
-  - [Oracle](../Page/Oracle.md "wikilink")
+  - [Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")
   - [PostgreSQL](../Page/PostgreSQL.md "wikilink")
-  - [SQL Server](../Page/SQL_Server.md "wikilink")
+  - [SQL Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")
   - [SQLite](../Page/SQLite.md "wikilink") (目前僅框架層支援)
 
 ## 網站伺服器支援
 
-目前Joomla\!直接支援的伺服器软件為[Apache與](../Page/Apache.md "wikilink")[IIS](../Page/IIS.md "wikilink")，除此之外經過簡單配置也可以運行在[nginx與](../Page/nginx.md "wikilink")[Lighttpd上](../Page/Lighttpd.md "wikilink")。
+目前Joomla\!直接支援的伺服器软件為[Apache與](https://zh.wikipedia.org/wiki/Apache "wikilink")[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")，除此之外經過簡單配置也可以運行在[nginx與](https://zh.wikipedia.org/wiki/nginx "wikilink")[Lighttpd上](../Page/Lighttpd.md "wikilink")。
 
 ## 適用範例與實例
 
@@ -219,7 +223,7 @@ Joomla\!系統是一個通用性的網站系統，意指幾乎所有類型的網
 
 ## 相關
 
-  - [內容管理系統列表](../Page/內容管理系統列表.md "wikilink")
+  - [內容管理系統列表](https://zh.wikipedia.org/wiki/內容管理系統列表 "wikilink")
 
 ## 外部連結
 

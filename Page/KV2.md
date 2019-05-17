@@ -48,19 +48,19 @@
 </tbody>
 </table>
 
-**KV2**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是[古埃及](../Page/古埃及.md "wikilink")[第二十王朝](../Page/埃及第二十王朝.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯四世的陵墓](../Page/拉美西斯四世.md "wikilink")，位於[KV7及](../Page/KV7.md "wikilink")[KV1之間](../Page/KV1.md "wikilink")，在古代已經被打開。
+**KV2**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[第二十王朝](../Page/埃及第二十王朝.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯四世的陵墓](../Page/拉美西斯四世.md "wikilink")，位於[KV7及](https://zh.wikipedia.org/wiki/KV7 "wikilink")[KV1之間](../Page/KV1.md "wikilink")，在古代已經被打開。
 
-陵墓內的雕刻幾乎完整無缺，刻有的銘文包括有《[拉之連禱](../Page/拉之連禱.md "wikilink")》、《[洞穴之書](../Page/洞穴之書.md "wikilink")》、《[亡靈書](../Page/亡靈書.md "wikilink")》、《[陰間書](../Page/陰間書.md "wikilink")》（音譯《阿姆達特書》）、《[天堂之書](../Page/天堂之書.md "wikilink")》及《[地獄之書](../Page/地獄之書.md "wikilink")》。\[1\]
+陵墓內的雕刻幾乎完整無缺，刻有的銘文包括有《[拉之連禱](https://zh.wikipedia.org/wiki/拉之連禱 "wikilink")》、《[洞穴之書](https://zh.wikipedia.org/wiki/洞穴之書 "wikilink")》、《[亡靈書](https://zh.wikipedia.org/wiki/亡靈書 "wikilink")》、《[陰間書](https://zh.wikipedia.org/wiki/陰間書 "wikilink")》（音譯《阿姆達特書》）、《[天堂之書](https://zh.wikipedia.org/wiki/天堂之書 "wikilink")》及《[地獄之書](https://zh.wikipedia.org/wiki/地獄之書 "wikilink")》。\[1\]
 
-墓室內的[石棺相信在古時已經破爛](../Page/石棺.md "wikilink")，而拉美西斯四世的木乃伊後來於[KV35發現](../Page/KV35.md "wikilink")，目前藏於開羅的[埃及博物館](../Page/埃及博物館.md "wikilink")。\[2\]
+墓室內的[石棺相信在古時已經破爛](https://zh.wikipedia.org/wiki/石棺 "wikilink")，而拉美西斯四世的木乃伊後來於[KV35發現](https://zh.wikipedia.org/wiki/KV35 "wikilink")，目前藏於開羅的[埃及博物館](../Page/埃及博物館.md "wikilink")。\[2\]
 
 ## 建築特色
 
 拉美西斯四世在位時，埃及國力衰弱，所以KV2的設計簡單。整個陵墓筆直而輕微向下傾斜，入口有兩行樓梯通往地下通道，而該通道可分為三段，經過三段的走廊後便到達前廳，前廳之後是墓室，而墓室的後面是幾間細室。\[3\]
 
-在第一及第二段通道中繪有《拉之連禱》的文字以及法老崇拜[拉的情形](../Page/拉.md "wikilink")，而在天花板上則刻有張開翅膀的[禿鷹](../Page/禿鷹.md "wikilink")、[隼及](../Page/隼.md "wikilink")[聖甲蟲](../Page/聖甲蟲.md "wikilink")。在第三段通道中可找到《洞穴之書》的第一和第二部分，而這兩段通道的天花板畫滿了星星；前廳則刻有《亡靈書》的內容，\[4\]大部分的內容來自第125章，關於法老死後在冥界接受眾神的審判。
+在第一及第二段通道中繪有《拉之連禱》的文字以及法老崇拜[拉的情形](https://zh.wikipedia.org/wiki/拉 "wikilink")，而在天花板上則刻有張開翅膀的[禿鷹](https://zh.wikipedia.org/wiki/禿鷹 "wikilink")、[隼及](../Page/隼.md "wikilink")[聖甲蟲](../Page/聖甲蟲.md "wikilink")。在第三段通道中可找到《洞穴之書》的第一和第二部分，而這兩段通道的天花板畫滿了星星；前廳則刻有《亡靈書》的內容，\[4\]大部分的內容來自第125章，關於法老死後在冥界接受眾神的審判。
 
-經過前廳後就會到達墓室，亦即是放置法老石棺的地方，雖然整個墓室的面積並不是很大，但是石棺卻異常的大。墓室內劇有《地獄之書》的第二、三、四節（《地獄之書》分為十二節，代表了靈魂進入新世界，對應與太陽在夜晚穿過地底世界的旅程）。墓室的天花板裝飾較為特別，一般墓室的天花板通常是以星星圖案作為裝飾，但在KV2的卻描畫了天空女神[努特](../Page/努特.md "wikilink")。墓室內亦可看到《天堂之書》，而墓室後的細室則刻有《洞穴之書》第一部分的的文字，其他細室則繪有祭品，如床、神龕及卡諾匹斯罐（又作坎努帕斯罐）。\[5\]
+經過前廳後就會到達墓室，亦即是放置法老石棺的地方，雖然整個墓室的面積並不是很大，但是石棺卻異常的大。墓室內劇有《地獄之書》的第二、三、四節（《地獄之書》分為十二節，代表了靈魂進入新世界，對應與太陽在夜晚穿過地底世界的旅程）。墓室的天花板裝飾較為特別，一般墓室的天花板通常是以星星圖案作為裝飾，但在KV2的卻描畫了天空女神[努特](https://zh.wikipedia.org/wiki/努特 "wikilink")。墓室內亦可看到《天堂之書》，而墓室後的細室則刻有《洞穴之書》第一部分的的文字，其他細室則繪有祭品，如床、神龕及卡諾匹斯罐（又作坎努帕斯罐）。\[5\]
 
 ## 平面圖
 
@@ -68,7 +68,7 @@ KV2是帝王谷裏其中一個少數留下古代平面圖的陵墓，其中一�
 
 ## 背景歷史
 
-KV2亦成為了早期帝王谷探險家，如[商博良等棲身的地方](../Page/商博良.md "wikilink")，不單是現代的探險家，古時[亞歷山大科普特正教會的教徒也經常來到墓穴中](../Page/亞歷山大科普特正教會.md "wikilink")，現在陵墓中也可看見他們以科普特文及希臘文繪畫的塗鴉。\[8\]
+KV2亦成為了早期帝王谷探險家，如[商博良等棲身的地方](https://zh.wikipedia.org/wiki/商博良 "wikilink")，不單是現代的探險家，古時[亞歷山大科普特正教會的教徒也經常來到墓穴中](../Page/亞歷山大科普特正教會.md "wikilink")，現在陵墓中也可看見他們以科普特文及希臘文繪畫的塗鴉。\[8\]
 
 ## 保護情況
 

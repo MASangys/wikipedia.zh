@@ -1,24 +1,24 @@
 **minori**（）是日本[成人遊戲製作公司](../Page/日本成人遊戲.md "wikilink")。曾是[CoMix
-Wave的軟件部](../Page/CoMix_Wave.md "wikilink")，隨著2007年3月CoMix
+Wave的軟件部](https://zh.wikipedia.org/wiki/CoMix_Wave "wikilink")，隨著2007年3月CoMix
 Wave的分割而在翌月成為正式公司。minori這個公司名是從同公司的口號「We always keep **minori**ty
-spirit.」而來。作品中登場的女性外表多為年少但心理上卻很成熟，而開頭影片多為[新海誠製作](../Page/新海誠.md "wikilink")，作品多是[群像劇和](../Page/群像劇.md "wikilink")[互動小說](../Page/互動小說.md "wikilink")。2019年2月28日宣布解散製作團隊停止開發遊戲。\[1\]\[2\]
+spirit.」而來。作品中登場的女性外表多為年少但心理上卻很成熟，而開頭影片多為[新海誠製作](../Page/新海誠.md "wikilink")，作品多是[群像劇和](https://zh.wikipedia.org/wiki/群像劇 "wikilink")[互動小說](https://zh.wikipedia.org/wiki/互動小說 "wikilink")。2019年2月28日宣布解散製作團隊停止開發遊戲。\[1\]\[2\]
 
-2009年6月25日起，官方网站（同时包括下属所有相关作品的独立子站点）屏蔽日本以外地区的访问。肇因於[Illusion公司的作品](../Page/Illusion.md "wikilink")[电车之狼在](../Page/电车之狼.md "wikilink")[英国](../Page/英国.md "wikilink")[亚马逊网站遭到总部位于英国](../Page/亚马逊.md "wikilink")[伦敦的国际](../Page/伦敦.md "wikilink")[女权组织](../Page/女权.md "wikilink")[Equality
-Now的抗议而下架](../Page/Equality_Now.md "wikilink")。\[3\]随后以minori为代表，众多日本[美少女遊戲公司纷纷跟进效仿](../Page/美少女遊戲.md "wikilink")。目前已有部分公司（如[MOONSTONE](../Page/MOONSTONE.md "wikilink")）解除访问限制。
+2009年6月25日起，官方网站（同时包括下属所有相关作品的独立子站点）屏蔽日本以外地区的访问。肇因於[Illusion公司的作品](https://zh.wikipedia.org/wiki/Illusion "wikilink")[电车之狼在](../Page/电车之狼.md "wikilink")[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[亚马逊网站遭到总部位于英国](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")[伦敦的国际](../Page/伦敦.md "wikilink")[女权组织](https://zh.wikipedia.org/wiki/女权 "wikilink")[Equality
+Now的抗议而下架](https://zh.wikipedia.org/wiki/Equality_Now "wikilink")。\[3\]随后以minori为代表，众多日本[美少女遊戲公司纷纷跟进效仿](../Page/美少女遊戲.md "wikilink")。目前已有部分公司（如[MOONSTONE](../Page/MOONSTONE.md "wikilink")）解除访问限制。
 
 ## 作品列表
 
   - 2001年8月31日－[BITTERSWEET
     FOOLS](../Page/BITTERSWEET_FOOLS.md "wikilink")
   - 2002年4月19日－[Wind -a breath of
-    heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink")
+    heart-](https://zh.wikipedia.org/wiki/Wind_-a_breath_of_heart- "wikilink")
   - 2002年12月27日－
   - 2004年7月23日－[春天的足音](../Page/春天的足音.md "wikilink")（）
   - 2004年11月5日－Wind -a breath of heart- Re:gratitude
   - 2005年3月25日－（以「minori feat. Aeris」的名義發售）
   - 2006年3月31日－
   - [ef - a fairy tale of the
-    two.](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")
+    two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
       - ef - First Fan Disc（先行fandisk）
           - 2006年8月11日－13日
             於[C70先行發售](../Page/Comic_Market.md "wikilink")
@@ -26,13 +26,14 @@ Now的抗议而下架](../Page/Equality_Now.md "wikilink")。\[3\]随后以minor
       - 2006年12月22日－ef - the first tale.（第1部）
       - 2008年5月30日－ef - the latter tale.（第2部）
       - 2010年9月17日－
-  - 2009年9月18日－[eden\*](../Page/eden*.md "wikilink")
+  - 2009年9月18日－[eden\*](https://zh.wikipedia.org/wiki/eden* "wikilink")
   - 2011年12月29日 -  - NICE TO MEET YOU！
   - 2012年5月18日 -  - Alice the magical conductor. STORY\#01 Spring Has
     Come \!
   - 2012年12月21日 - [夏空的英仙座](../Page/夏空的英仙座.md "wikilink")（）
   - 2014年1月31日 -
-  - 2015年2月27日 - [永不落幕的前奏詩](../Page/永不落幕的前奏詩.md "wikilink")（）
+  - 2015年2月27日 -
+    [永不落幕的前奏詩](https://zh.wikipedia.org/wiki/永不落幕的前奏詩 "wikilink")（）
   - 2016年2月26日 -
   - 2017年3月31日 -
   - 2018年1月26日 -

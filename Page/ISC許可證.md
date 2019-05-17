@@ -1,10 +1,11 @@
 {{ Infobox software license | name = ISC授權條款 | image = | caption = |
-author = [ISC](../Page/ISC.md "wikilink") | version = | copyright = |
-date = | OSI approved = 是\[1\] | Debian approved = 是 | Free Software =
-是\[2\] | GPL compatible = 是\[3\] | copyleft = 否 | linking = 是 }}
-**ISC許可證**是一種[開放原始碼](../Page/開放原始碼.md "wikilink")[許可證](../Page/許可證.md "wikilink")，在功能上與兩句版的[BSD許可證相同](../Page/BSD許可證.md "wikilink")。
+author = [ISC](https://zh.wikipedia.org/wiki/ISC "wikilink") | version =
+| copyright = | date = | OSI approved = 是\[1\] | Debian approved = 是 |
+Free Software = 是\[2\] | GPL compatible = 是\[3\] | copyleft = 否 |
+linking = 是 }}
+**ISC許可證**是一種[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[許可證](https://zh.wikipedia.org/wiki/許可證 "wikilink")，在功能上與兩句版的[BSD許可證相同](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。
 
-這份許可證是由[互联网系统协会](../Page/互联网系统协会.md "wikilink")（，）所發明，在ISC釋出軟體時所使用的。不過有許多開放原始碼團體也使用，其中一個有名的例子是[OpenBSD對於新寫的程式碼都會儘量使用ISC許可證](../Page/OpenBSD.md "wikilink")。
+這份許可證是由[互联网系统协会](https://zh.wikipedia.org/wiki/互联网系统协会 "wikilink")（，）所發明，在ISC釋出軟體時所使用的。不過有許多開放原始碼團體也使用，其中一個有名的例子是[OpenBSD對於新寫的程式碼都會儘量使用ISC許可證](../Page/OpenBSD.md "wikilink")。
 
 ISC許可證的樣版如下：
 
@@ -24,7 +25,7 @@ ISC許可證的樣版如下：
 
 ## 參見
 
-  - [開放原始碼](../Page/開放原始碼.md "wikilink")
+  - [開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")
 
 ## 参考资料
 

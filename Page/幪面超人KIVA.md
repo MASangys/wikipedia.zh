@@ -15,11 +15,11 @@
 
 ## 故事
 
-故事關於主角**紅渡**與父親**紅音也**兩個世代的人的故事，播放形式從1986及2008年[時間旅行](../Page/時間旅行.md "wikilink")，給觀眾一種全新體驗。值得一提的是，今次KIVA同樣具有四種不同形態（包括吸血鬼，狼人Garuru，半魚人Bashaa及科學怪人Dogga）。而且今次的變身腰帶罕有地是主角的拍擋。腰帶附有六個笛子。分別可令KIVA使出必殺技（Wake
+故事關於主角**紅渡**與父親**紅音也**兩個世代的人的故事，播放形式從1986及2008年[時間旅行](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")，給觀眾一種全新體驗。值得一提的是，今次KIVA同樣具有四種不同形態（包括吸血鬼，狼人Garuru，半魚人Bashaa及科學怪人Dogga）。而且今次的變身腰帶罕有地是主角的拍擋。腰帶附有六個笛子。分別可令KIVA使出必殺技（Wake
 Up Fuestle），轉換型態（Garulu Saber Fuestle、Basshaa Magnum Fuestle和Dogga
 Hammer Fuestle），召喚[城堡](../Page/城堡.md "wikilink")（Doran
-Fuestle）及強化[電單車](../Page/電單車.md "wikilink")（Buroon
-Fuestle）。另一名和KIVA相對的**假面騎士IXA**的腰帶亦附有六個笛子的[晶片](../Page/芯片.md "wikilink")，不但有著搶奪KIVA武器（Garulu
+Fuestle）及強化[電單車](https://zh.wikipedia.org/wiki/電單車 "wikilink")（Buroon
+Fuestle）。另一名和KIVA相對的**假面騎士IXA**的腰帶亦附有六個笛子的[晶片](https://zh.wikipedia.org/wiki/芯片 "wikilink")，不但有著搶奪KIVA武器（Garulu
 Fake Fuestle、Basshaa Fake Fuestle和Dogga Fake
 Fuestle）的能力，更可令IXA使出必殺技（Knuckle
 Fuestle和Calibur Fuestle）及召喚機械獸（Powerd
@@ -31,7 +31,7 @@ Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧
 
 ### 假面骑士KIVA
 
-  - 替身演員 [高岩成二](../Page/高岩成二.md "wikilink")
+  - 替身演員 [高岩成二](https://zh.wikipedia.org/wiki/高岩成二 "wikilink")
 
 #### 變身模式
 
@@ -84,7 +84,7 @@ Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧
 行動速度：</p>
 <p>100m需時6秒</p></td>
 <td><p>右手和身體裝甲變為綠色</p></td>
-<td><p>武器是魔海<a href="../Page/槍械.md" title="wikilink">槍Bassha</a> Magnum</p></td>
+<td><p>武器是魔海<a href="https://zh.wikipedia.org/wiki/槍械" title="wikilink">槍Bassha</a> Magnum</p></td>
 <td><p>將槍給Kivat Bat三世咬便能發動必殺技<strong>Basshaa Aqua Tornado（半人魚激流旋渦彈/翻浪水龍捲）</strong>。</p></td>
 </tr>
 <tr class="odd">
@@ -98,7 +98,7 @@ Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧
 跳躍力：一跳達10m<br />
 行動速度： 100m需時10秒</p></td>
 <td><p>雙手和身體裝甲變為紫色</p></td>
-<td><p>武器是魔鐵<a href="../Page/鎚.md" title="wikilink">鎚Dogga</a> Hammer。</p></td>
+<td><p>武器是魔鐵<a href="https://zh.wikipedia.org/wiki/鎚" title="wikilink">鎚Dogga</a> Hammer。</p></td>
 <td><p>將大鎚給Kivat Bat 三世咬便能發動必殺技<strong>Dogga Thunder Slap（科學怪人●雷鎚/轟擊雷霆打）</strong>。</p></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@ Fuestle）。而今次KIVA要面對的敵人是以活人的生命能量為食糧
 飛行速度：3.4<br />
 在劇場版中進化成魔皇型態後，再進一步進化成吸血鬼飛翔型態，與再度進化的惡Arc在空中進行決戰，KIVA型態的蝙蝠腳甲由腳升至胸甲，再升至頭部成為頭甲。<br />
 TV版中由KIVA拉奏<a href="../Page/小提琴.md" title="wikilink">小提琴Bloody</a> Rose進化而成，但在第45話中，沒有拉奏小提琴Bloody Rose但也能成功變化成飛翔型態。</p></td>
-<td><p>巨大<a href="../Page/鳥獸.md" title="wikilink">鳥獸的外形</a>，KIVA型態的蝙蝠腳甲由腳升至胸甲，再升至頭部成為頭甲。</p></td>
+<td><p>巨大<a href="https://zh.wikipedia.org/wiki/鳥獸" title="wikilink">鳥獸的外形</a>，KIVA型態的蝙蝠腳甲由腳升至胸甲，再升至頭部成為頭甲。</p></td>
 <td></td>
 <td><p>必杀技是怒血攻击和耀月破。</p></td>
 </tr>
@@ -158,12 +158,12 @@ TV版中由KIVA拉奏<a href="../Page/小提琴.md" title="wikilink">小提琴Bl
 
 ### 假面騎士IXA
 
-  - 替身演員 [岡元次郎](../Page/岡元次郎.md "wikilink")
+  - 替身演員 [岡元次郎](https://zh.wikipedia.org/wiki/岡元次郎 "wikilink")
   - 曾使用IXA腰帶的人（順次序）：次狼（1986年）/音也（86）/ROOK（86）/麻生友里（86）/名護啟介（08）/糸矢僚（蜘蛛牙血鬼）（08）/麻生惠（08）/襟立健吾（08）
 
 假面騎士IXA（第09話登場），與**KIVA**相對的藍色假面騎士，由至上藍天會研發出的假面騎士系統。其開發者之一是麻生友里母親。全名為**Intercept
 X
-Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳腳力](../Page/電力.md "wikilink")。由名護啟介變身（在2008年），次狼及紅音也亦曾變身過（在1986年）。但第一代的IXA由於系統内的強大力量而使用一段時間後令變身者無法承受系統過剩的力量，會自動解除變身的同時也會對變身者造成傷害。結果由第一次起動開始不斷的改良，2008年的是改良的「Ver.X」，而且已經撇除了令變身者無法承受過剩力量的缺點。在第27話更強化為「Ver.XI」。使用必殺技時背後的是[太陽](../Page/太陽.md "wikilink")，代表光明。
+Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳腳力](../Page/電力.md "wikilink")。由名護啟介變身（在2008年），次狼及紅音也亦曾變身過（在1986年）。但第一代的IXA由於系統内的強大力量而使用一段時間後令變身者無法承受系統過剩的力量，會自動解除變身的同時也會對變身者造成傷害。結果由第一次起動開始不斷的改良，2008年的是改良的「Ver.X」，而且已經撇除了令變身者無法承受過剩力量的缺點。在第27話更強化為「Ver.XI」。使用必殺技時背後的是[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")，代表光明。
 身長：220cm 體重：160kg 拳擊力: 7t 腳踢力：3t 跳躍力：一跳達30m
 
 <table>
@@ -185,7 +185,7 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 踢擊力：1.8t<br />
 跳躍力：一跳達18m<br />
 行動速度： 100m需時9.6秒</p></td>
-<td><p>頭部裝甲用全球最堅硬的合金製造。即使用<a href="../Page/手槍子彈列表#0.5_英吋(12.7_毫米)及以上.md" title="wikilink">50口徑的</a><a href="../Page/半自動手槍.md" title="wikilink">自動手槍零距離射擊都不可能損傷</a>。</p></td>
+<td><p>頭部裝甲用全球最堅硬的合金製造。即使用<a href="https://zh.wikipedia.org/wiki/手槍子彈列表#0.5_英吋(12.7_毫米)及以上" title="wikilink">50口徑的</a><a href="../Page/半自動手槍.md" title="wikilink">自動手槍零距離射擊都不可能損傷</a>。</p></td>
 <td><p>劇中不會使用武器，單純以近身肉搏戰鬥，只在發動必殺技時使用IXA Knockle</p></td>
 <td><p>必殺技是以變身器IXA Knockle放出衝擊波的<strong>Broken Fang</strong>（碎裂利牙）。</p></td>
 </tr>
@@ -193,7 +193,7 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 <td><p>style="text-align:center”|<strong>Burst Mode<br />
 爆發模式</strong></p></td>
 <td><p>劇中的主要形態<br />
-四周的<a href="../Page/爆炸.md" title="wikilink">爆炸可謂代表</a><a href="../Page/神.md" title="wikilink">神的憤怒</a>（但是實際上只有爆發一次）<br />
+四周的<a href="https://zh.wikipedia.org/wiki/爆炸" title="wikilink">爆炸可謂代表</a><a href="../Page/神.md" title="wikilink">神的憤怒</a>（但是實際上只有爆發一次）<br />
 身高：220cm<br />
 體重：160kg<br />
 拳擊力：7t<br />
@@ -230,9 +230,9 @@ Attacker（攔截未知攻擊者）**。透過[電力傳導引發出驚人的拳
 
 ### 假面騎士Saga
 
-  - 替身演員 [永德](../Page/永德.md "wikilink")
+  - 替身演員 [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")
 
-第32話登場，裝著者為登太牙，TV版中的第三位假面騎士，設計原型為[蛇](../Page/蛇.md "wikilink")，身體以[銀色為主](../Page/銀色.md "wikilink")。四幹部之王的變身腰帶，頭頂呈皇冠狀。武器紅色劍身的[西洋劍](../Page/西洋劍.md "wikilink")，但又能自由伸縮成鞭子，類似[蛇腹劍](../Page/蛇腹劍.md "wikilink")。覺醒後出招時蛇鞭會貫穿敵人，令敵人不能動彈，接著SAGA跳起穿過在空中出現的大型KIVA圖騰，把鞭子掛在半空的圖騰上，在自身著陸後吊起鞭子另一端的敵人，然後在對方身上引發強烈爆炸，稱為「**Snaking
+第32話登場，裝著者為登太牙，TV版中的第三位假面騎士，設計原型為[蛇](../Page/蛇.md "wikilink")，身體以[銀色為主](https://zh.wikipedia.org/wiki/銀色 "wikilink")。四幹部之王的變身腰帶，頭頂呈皇冠狀。武器紅色劍身的[西洋劍](https://zh.wikipedia.org/wiki/西洋劍 "wikilink")，但又能自由伸縮成鞭子，類似[蛇腹劍](../Page/蛇腹劍.md "wikilink")。覺醒後出招時蛇鞭會貫穿敵人，令敵人不能動彈，接著SAGA跳起穿過在空中出現的大型KIVA圖騰，把鞭子掛在半空的圖騰上，在自身著陸後吊起鞭子另一端的敵人，然後在對方身上引發強烈爆炸，稱為「**Snaking
 Death-Break（蛇行死亡爆破）**」。
 
 身長：205cm 體重：110kg 拳擊力： 12t 腳踢力：35t 跳躍力：一跳達90m 行動速度：100m需時2秒
@@ -260,7 +260,7 @@ Wake up three‧''King"s world End（皇之世界終結）(沒有在劇中使用
 
 KIVA變身成Dogabaki Emperor Form 的新形態， 必杀技是轰吼浪帝王踢。
 
-## [S.I.C. 英雄傳說](../Page/S.I.C._英雄傳說.md "wikilink")
+## [S.I.C. 英雄傳說](https://zh.wikipedia.org/wiki/S.I.C._英雄傳說 "wikilink")
 
 「幪面超人月騎 吸血之帝皇」是延續電視版後的故事，2010年1月至4月於Hobby Japan連載。
 
@@ -360,38 +360,38 @@ Hammer」作戰，但不久即敗陣。
 <!-- end list -->
 
   -
-    作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")　作曲：[鳴瀬シュウヘイ](../Page/鳴瀬シュウヘイ.md "wikilink")　歌：[李榮耀](../Page/李榮耀.md "wikilink")
+    作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")　作曲：[鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/鳴瀬シュウヘイ "wikilink")　歌：[李榮耀](https://zh.wikipedia.org/wiki/李榮耀 "wikilink")
 
 ### 獎項
 
-  - 由[李榮耀演唱之香港區粵語版片頭曲](../Page/李榮耀.md "wikilink")《破格》曾於[新城電台兒童節目](../Page/新城電台.md "wikilink")《星期日大菠蘿》成為環節「勁爆兒歌榜」冠軍歌曲
+  - 由[李榮耀演唱之香港區粵語版片頭曲](https://zh.wikipedia.org/wiki/李榮耀 "wikilink")《破格》曾於[新城電台兒童節目](../Page/新城電台.md "wikilink")《星期日大菠蘿》成為環節「勁爆兒歌榜」冠軍歌曲
 
 ## 演員表
 
-|                |                                        |                                        |                                  |
-| -------------- | -------------------------------------- | -------------------------------------- | -------------------------------- |
-| **角色**         | **演員**                                 | **香港配音員**                              | **台灣配音員**                        |
-| 紅渡             | [瀨戶康史](../Page/瀨戶康史.md "wikilink")     | [曹啟謙](../Page/曹啟謙.md "wikilink")       |                                  |
-| 紅音也            | [武田航平](../Page/武田航平.md "wikilink")     | [胡家豪](../Page/胡家豪.md "wikilink")       | [李景唐](../Page/李景唐.md "wikilink") |
-| 名護啟介           | [加藤慶祐](../Page/加藤慶祐.md "wikilink")     | [梁偉德](../Page/梁偉德.md "wikilink")       | [李景唐](../Page/李景唐.md "wikilink") |
-| 麻生惠            | [柳澤奈奈](../Page/柳澤奈奈.md "wikilink")     | [余欣沛](../Page/余欣沛.md "wikilink")       | [曾允凡](../Page/曾允凡.md "wikilink") |
-| 麻生百合           | [高橋優](../Page/高橋優.md "wikilink")       | [林芷筠](../Page/林芷筠.md "wikilink")       | [錢欣郁](../Page/錢欣郁.md "wikilink") |
-| 野村靜香           | [小池里奈](../Page/小池里奈.md "wikilink")     | [陳皓宜](../Page/陳皓宜.md "wikilink")       | [曾允凡](../Page/曾允凡.md "wikilink") |
-| 襟立健吾           | [熊井幸平](../Page/熊井幸平.md "wikilink")     | [張方正](../Page/張方正.md "wikilink")       | [陳余寬](../Page/陳余寬.md "wikilink") |
-| 登太牙            | [山本匠馬](../Page/山本匠馬.md "wikilink")     | [關令翹](../Page/關令翹.md "wikilink")       |                                  |
-| 木戶明            | [木下ほうか](../Page/木下ほうか.md "wikilink")   | [古明華](../Page/古明華.md "wikilink")       |                                  |
-| 嶋護             | [金山一彥](../Page/金山一彥.md "wikilink")     | [張錦江](../Page/張錦江.md "wikilink")       |                                  |
-| 次狼             | [松田賢二](../Page/松田賢二.md "wikilink")     | [陳廷軒](../Page/陳廷軒.md "wikilink")       |                                  |
-| 螺門             | [小越勇輝](../Page/小越勇輝.md "wikilink")     | [李致林](../Page/李致林.md "wikilink")       |                                  |
-| 力              | [瀧川英治](../Page/瀧川英治.md "wikilink")     | [葉振聲](../Page/葉振聲.md "wikilink")       |                                  |
-| 路克             | [高原知秀](../Page/高原知秀.md "wikilink")     | [黃啟昌](../Page/黃啟昌.md "wikilink")       |                                  |
-| 真夜             | [加賀美早紀](../Page/加賀美早紀.md "wikilink")   | [羅杏芝](../Page/羅杏芝.md "wikilink")       | [曾允凡](../Page/曾允凡.md "wikilink") |
-| 鈴木深央           | [芳賀優里亞](../Page/芳賀優里亞.md "wikilink")   | [何璐怡](../Page/何璐怡.md "wikilink")       | [錢欣郁](../Page/錢欣郁.md "wikilink") |
-| 主教             | [村田充](../Page/村田充.md "wikilink")       | [周倚天](../Page/周倚天.md "wikilink")       | [李景唐](../Page/李景唐.md "wikilink") |
-| KING           | [新納慎也](../Page/新納慎也.md "wikilink")     | [陳欣](../Page/陳欣_\(配音員\).md "wikilink") |                                  |
-| Kivat Bat\[5\] | [杉田智和](../Page/杉田智和.md "wikilink")（配音） | [巫哲棋](../Page/巫哲棋.md "wikilink")       |                                  |
-| Tatsulot       | [石田彰](../Page/石田彰.md "wikilink")（配音）   | [張裕東](../Page/張裕東.md "wikilink")       | [陳余寬](../Page/陳余寬.md "wikilink") |
-|                |                                        |                                        |                                  |
+|                |                                                         |                                                     |                                                     |
+| -------------- | ------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- |
+| **角色**         | **演員**                                                  | **香港配音員**                                           | **台灣配音員**                                           |
+| 紅渡             | [瀨戶康史](../Page/瀨戶康史.md "wikilink")                      | [曹啟謙](../Page/曹啟謙.md "wikilink")                    |                                                     |
+| 紅音也            | [武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")   | [胡家豪](../Page/胡家豪.md "wikilink")                    | [李景唐](../Page/李景唐.md "wikilink")                    |
+| 名護啟介           | [加藤慶祐](../Page/加藤慶祐.md "wikilink")                      | [梁偉德](../Page/梁偉德.md "wikilink")                    | [李景唐](../Page/李景唐.md "wikilink")                    |
+| 麻生惠            | [柳澤奈奈](https://zh.wikipedia.org/wiki/柳澤奈奈 "wikilink")   | [余欣沛](../Page/余欣沛.md "wikilink")                    | [曾允凡](../Page/曾允凡.md "wikilink")                    |
+| 麻生百合           | [高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")     | [林芷筠](../Page/林芷筠.md "wikilink")                    | [錢欣郁](../Page/錢欣郁.md "wikilink")                    |
+| 野村靜香           | [小池里奈](../Page/小池里奈.md "wikilink")                      | [陳皓宜](../Page/陳皓宜.md "wikilink")                    | [曾允凡](../Page/曾允凡.md "wikilink")                    |
+| 襟立健吾           | [熊井幸平](https://zh.wikipedia.org/wiki/熊井幸平 "wikilink")   | [張方正](../Page/張方正.md "wikilink")                    | [陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink") |
+| 登太牙            | [山本匠馬](https://zh.wikipedia.org/wiki/山本匠馬 "wikilink")   | [關令翹](../Page/關令翹.md "wikilink")                    |                                                     |
+| 木戶明            | [木下ほうか](https://zh.wikipedia.org/wiki/木下ほうか "wikilink") | [古明華](../Page/古明華.md "wikilink")                    |                                                     |
+| 嶋護             | [金山一彥](https://zh.wikipedia.org/wiki/金山一彥 "wikilink")   | [張錦江](../Page/張錦江.md "wikilink")                    |                                                     |
+| 次狼             | [松田賢二](../Page/松田賢二.md "wikilink")                      | [陳廷軒](../Page/陳廷軒.md "wikilink")                    |                                                     |
+| 螺門             | [小越勇輝](https://zh.wikipedia.org/wiki/小越勇輝 "wikilink")   | [李致林](../Page/李致林.md "wikilink")                    |                                                     |
+| 力              | [瀧川英治](../Page/瀧川英治.md "wikilink")                      | [葉振聲](../Page/葉振聲.md "wikilink")                    |                                                     |
+| 路克             | [高原知秀](https://zh.wikipedia.org/wiki/高原知秀 "wikilink")   | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink") |                                                     |
+| 真夜             | [加賀美早紀](../Page/加賀美早紀.md "wikilink")                    | [羅杏芝](../Page/羅杏芝.md "wikilink")                    | [曾允凡](../Page/曾允凡.md "wikilink")                    |
+| 鈴木深央           | [芳賀優里亞](../Page/芳賀優里亞.md "wikilink")                    | [何璐怡](../Page/何璐怡.md "wikilink")                    | [錢欣郁](../Page/錢欣郁.md "wikilink")                    |
+| 主教             | [村田充](https://zh.wikipedia.org/wiki/村田充 "wikilink")     | [周倚天](../Page/周倚天.md "wikilink")                    | [李景唐](../Page/李景唐.md "wikilink")                    |
+| KING           | [新納慎也](https://zh.wikipedia.org/wiki/新納慎也 "wikilink")   | [陳欣](../Page/陳欣_\(配音員\).md "wikilink")              |                                                     |
+| Kivat Bat\[5\] | [杉田智和](../Page/杉田智和.md "wikilink")（配音）                  | [巫哲棋](../Page/巫哲棋.md "wikilink")                    |                                                     |
+| Tatsulot       | [石田彰](../Page/石田彰.md "wikilink")（配音）                    | [張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink") | [陳余寬](https://zh.wikipedia.org/wiki/陳余寬 "wikilink") |
+|                |                                                         |                                                     |                                                     |
 
 ## 播放列表
 
@@ -420,7 +420,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>運命・ウェイクアップ!</p></td>
 <td><p>命運・醒覺！（視聴率：7.6℅）</p></td>
 <td><p><a href="../Page/蜘蛛.md" title="wikilink">スパイダーファンガイア</a><br />
-<a href="../Page/馬.md" title="wikilink">ホースファンガイア</a>（人間體:<a href="../Page/姜暢雄.md" title="wikilink">姜暢雄</a>/聲：塩野勝美)</p></td>
+<a href="https://zh.wikipedia.org/wiki/馬" title="wikilink">ホースファンガイア</a>（人間體:<a href="../Page/姜暢雄.md" title="wikilink">姜暢雄</a>/聲：塩野勝美)</p></td>
 <td><p>井上敏樹</p></td>
 <td><p>田﨑竜太</p></td>
 </tr>
@@ -431,7 +431,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>02</p></td>
 <td><p>組曲・親子のバイオリン</p></td>
 <td><p>組曲・父子的小提琴（視聴率：7.3℅）</p></td>
-<td><p><a href="../Page/章魚.md" title="wikilink">オクトパスファンガイア</a>（人間體:<a href="../Page/梅宮万紗子.md" title="wikilink">梅宮万紗子</a>/聲：沖佳苗）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/章魚" title="wikilink">オクトパスファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/梅宮万紗子" title="wikilink">梅宮万紗子</a>/聲：沖佳苗）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -442,7 +442,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>03</p></td>
 <td><p>英雄・パーフェクトハンター</p></td>
 <td><p>英雄・Perfect Hunter（視聴率：7.4℅）</p></td>
-<td><p>モスファンガイア（人間體:<a href="../Page/橘実里.md" title="wikilink">橘実里</a>/聲：山崎依里奈）</p></td>
+<td><p>モスファンガイア（人間體:<a href="https://zh.wikipedia.org/wiki/橘実里" title="wikilink">橘実里</a>/聲：山崎依里奈）</p></td>
 <td><p>石田秀範</p></td>
 <td></td>
 </tr>
@@ -465,7 +465,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>二重奏・ストーカーパニック</p></td>
 <td><p>二重奏・跟蹤狂恐慌（視聴率：7.2℅）</p></td>
 <td><p>スパイダーファンガイア<br />
-<a href="../Page/綿羊.md" title="wikilink">シープファンガイア</a>（人間體:<a href="../Page/篠田光亮.md" title="wikilink">篠田光亮</a>/聲: 塩野勝美）</p></td>
+<a href="../Page/綿羊.md" title="wikilink">シープファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/篠田光亮" title="wikilink">篠田光亮</a>/聲: 塩野勝美）</p></td>
 <td><p>舞原賢三</p></td>
 <td></td>
 </tr>
@@ -487,7 +487,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>07</p></td>
 <td><p>賛歌・三ツ星闇のフルコース</p></td>
 <td><p>贊歌・三星暗夜的盛宴（視聴率：7.5℅）</p></td>
-<td><p><a href="../Page/蝦.md" title="wikilink">プローンファンガイア</a>（人間體:<a href="../Page/榊原利彦.md" title="wikilink">榊原利彦</a>/聲: 塩野勝美）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蝦" title="wikilink">プローンファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/榊原利彦" title="wikilink">榊原利彦</a>/聲: 塩野勝美）</p></td>
 <td><p>田﨑竜太</p></td>
 <td></td>
 </tr>
@@ -510,7 +510,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>09</p></td>
 <td><p>交響・イクサ・フィストオン</p></td>
 <td><p>交響 IXA・FIST ON（視聴率：6.7℅）</p></td>
-<td><p><a href="../Page/青蛙.md" title="wikilink">フロッグファンガイア</a>（人間體、聲: 村井克行）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青蛙" title="wikilink">フロッグファンガイア</a>（人間體、聲: 村井克行）</p></td>
 <td><p>石田秀範</p></td>
 <td></td>
 </tr>
@@ -555,7 +555,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>13</p></td>
 <td><p>未完成・ダディ・ファイト</p></td>
 <td><p>未完成・老爸 出擊（視聴率：6.1℅）</p></td>
-<td><p><a href="../Page/犀牛.md" title="wikilink">ライノセラスファンガイア</a>（人間體:<a href="../Page/神保悟志.md" title="wikilink">神保悟志</a>/聲: <a href="../Page/千々和竜策.md" title="wikilink">千々和竜策</a>）</p></td>
+<td><p><a href="../Page/犀牛.md" title="wikilink">ライノセラスファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/神保悟志" title="wikilink">神保悟志</a>/聲: <a href="https://zh.wikipedia.org/wiki/千々和竜策" title="wikilink">千々和竜策</a>）</p></td>
 <td><p>田村直己</p></td>
 <td></td>
 </tr>
@@ -577,7 +577,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>15</p></td>
 <td><p>復活・チェックメイトフォー</p></td>
 <td><p>復活・象棋四幹部（視聴率：5.9℅）</p></td>
-<td><p><a href="../Page/獅子.md" title="wikilink">ライオンファンガイア</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獅子" title="wikilink">ライオンファンガイア</a></p></td>
 <td><p>長石多可男</p></td>
 <td></td>
 </tr>
@@ -645,7 +645,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>21</p></td>
 <td><p>ラプソディー・指輪の行方</p></td>
 <td><p>狂想曲・命運的戒指（視聴率：6.1℅）</p></td>
-<td><p><a href="../Page/變色龍.md" title="wikilink">カメレオンファンガイア</a>（人間體:<a href="../Page/柳憂怜.md" title="wikilink">柳憂怜</a>/聲: <a href="../Page/酒井敬幸.md" title="wikilink">酒井敬幸</a>）</p></td>
+<td><p><a href="../Page/變色龍.md" title="wikilink">カメレオンファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/柳憂怜" title="wikilink">柳憂怜</a>/聲: <a href="https://zh.wikipedia.org/wiki/酒井敬幸" title="wikilink">酒井敬幸</a>）</p></td>
 <td><p>長石多可男</p></td>
 <td></td>
 </tr>
@@ -667,7 +667,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>23</p></td>
 <td><p>変奏曲・永遠の逃亡者</p></td>
 <td><p>変奏曲・永遠の逃亡者（視聴率：6.4℅）</p></td>
-<td><p><a href="../Page/棕熊.md" title="wikilink">グリズリーファンガイア</a>（人間體、聲: <a href="../Page/水橋研二.md" title="wikilink">水橋研二</a>）</p></td>
+<td><p><a href="../Page/棕熊.md" title="wikilink">グリズリーファンガイア</a>（人間體、聲: <a href="https://zh.wikipedia.org/wiki/水橋研二" title="wikilink">水橋研二</a>）</p></td>
 <td><p>石田秀範</p></td>
 <td></td>
 </tr>
@@ -691,7 +691,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>吹奏樂・覺醒的QUEEN（視聴率：5.0℅）</p></td>
 <td><p>ライオンファンガイア<br />
 スパイダーファンガイア<br />
-<a href="../Page/鯊魚.md" title="wikilink">シャークファンガイア</a>（聲: <a href="../Page/遠藤大輔.md" title="wikilink">遠藤大輔</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/鯊魚" title="wikilink">シャークファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/遠藤大輔" title="wikilink">遠藤大輔</a>）</p></td>
 <td><p>中澤祥次郎</p></td>
 <td></td>
 </tr>
@@ -713,8 +713,8 @@ Hammer」作戰，但不久即敗陣。
 <td><p>27</p></td>
 <td><p>80's・怒れるライジングブルー</p></td>
 <td><p>80年代・憤怒的RISING BLUE（視聴率：7.5℅）</p></td>
-<td><p><a href="../Page/蟬.md" title="wikilink">シケーダファンガイア</a>（聲: <a href="../Page/三戸崇史.md" title="wikilink">三戸崇史</a>）<br />
-<a href="../Page/螃蟹.md" title="wikilink">クラブファンガイア</a>（聲: <a href="../Page/増田隆之.md" title="wikilink">増田隆之</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蟬" title="wikilink">シケーダファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/三戸崇史" title="wikilink">三戸崇史</a>）<br />
+<a href="../Page/螃蟹.md" title="wikilink">クラブファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/増田隆之" title="wikilink">増田隆之</a>）</p></td>
 <td><p>長石多可男</p></td>
 <td></td>
 </tr>
@@ -737,7 +737,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>聖者の行進・我こそキング</p></td>
 <td><p>聖者之行進~我正是王~（視聴率：5.6℅）</p></td>
 <td><p>ライオンファンガイア<br />
-<a href="../Page/疣猪.md" title="wikilink">ウォートホッグファンガイア</a>（人間體、聲: <a href="../Page/窪寺昭.md" title="wikilink">窪寺昭</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/疣猪" title="wikilink">ウォートホッグファンガイア</a>（人間體、聲: <a href="https://zh.wikipedia.org/wiki/窪寺昭" title="wikilink">窪寺昭</a>）</p></td>
 <td><p>石田秀範</p></td>
 <td></td>
 </tr>
@@ -770,9 +770,9 @@ Hammer」作戰，但不久即敗陣。
 <td><p>32</p></td>
 <td><p>新世界・もう一人のキバ</p></td>
 <td><p>新世界・另一個KIVA（視聴率：6.2℅）</p></td>
-<td><p><a href="../Page/珍珠貝.md" title="wikilink">パールシェルファンガイア</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/珍珠貝" title="wikilink">パールシェルファンガイア</a><br />
 <a href="../Page/駝鹿.md" title="wikilink">ムースファンガイア</a>（人間體、聲: 和興）<br />
-<a href="../Page/陸龜.md" title="wikilink">トータスファンガイア</a>（人間體:<a href="../Page/坂本真.md" title="wikilink">坂本真</a>/聲: <a href="../Page/下山吉光.md" title="wikilink">下山吉光</a>）</p></td>
+<a href="../Page/陸龜.md" title="wikilink">トータスファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/坂本真" title="wikilink">坂本真</a>/聲: <a href="https://zh.wikipedia.org/wiki/下山吉光" title="wikilink">下山吉光</a>）</p></td>
 <td><p>田﨑竜太</p></td>
 <td></td>
 </tr>
@@ -794,8 +794,8 @@ Hammer」作戰，但不久即敗陣。
 <td><p>34</p></td>
 <td><p>ノイズ・破壊の旋律</p></td>
 <td><p>紊亂之音・破壞的旋律（視聴率：5.7℅）</p></td>
-<td><p><a href="../Page/虻.md" title="wikilink">ホースフライファンガイア</a>（人間體:<a href="../Page/宮下ともみ.md" title="wikilink">宮下ともみ</a>/聲: <a href="../Page/峯香織.md" title="wikilink">峯香織</a>）<br />
-<a href="../Page/鳳蝶.md" title="wikilink">スワローテイルファンガイア</a></p></td>
+<td><p><a href="../Page/虻.md" title="wikilink">ホースフライファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/宮下ともみ" title="wikilink">宮下ともみ</a>/聲: <a href="https://zh.wikipedia.org/wiki/峯香織" title="wikilink">峯香織</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/鳳蝶" title="wikilink">スワローテイルファンガイア</a></p></td>
 <td><p>長石多可男</p></td>
 <td></td>
 </tr>
@@ -840,7 +840,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>38</p></td>
 <td><p>魔王・母と子の再会</p></td>
 <td><p>魔王・母與子的重逢（視聴率：6.3℅）</p></td>
-<td><p><a href="../Page/螳螂.md" title="wikilink">マンティスファンガイア</a>（聲: <a href="../Page/武虎.md" title="wikilink">武虎</a>）<br />
+<td><p><a href="../Page/螳螂.md" title="wikilink">マンティスファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a>）<br />
 再生ファンガイア軍団</p></td>
 <td><p>田﨑竜太</p></td>
 <td></td>
@@ -866,7 +866,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>40</p></td>
 <td><p>アンコール・名護イクサ爆現</p></td>
 <td><p>重現・名護版ixa爆發（視聴率：5.6℅）</p></td>
-<td><p><a href="../Page/水母.md" title="wikilink">シームーンファンガイア</a>（聲: <a href="../Page/石上裕一.md" title="wikilink">石上裕一</a>）<br />
+<td><p><a href="../Page/水母.md" title="wikilink">シームーンファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/石上裕一" title="wikilink">石上裕一</a>）<br />
 スワローテイルファンガイア</p></td>
 <td><p>石田秀範</p></td>
 <td></td>
@@ -891,8 +891,8 @@ Hammer」作戰，但不久即敗陣。
 <td><p>42</p></td>
 <td><p>パワー・オブ・ラブ・王の怒り</p></td>
 <td><p>Power of love・王的憤怒（視聴率：5.8℅）</p></td>
-<td><p><a href="../Page/大鎧蜥蜴.md" title="wikilink">サンゲイザーファンガイア</a>（聲: 金山一彦・塩野勝美）<br />
-<a href="../Page/蠶.md" title="wikilink">シルクモスファンガイア</a>（聲: <a href="../Page/勝生真沙子.md" title="wikilink">勝生真沙子</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大鎧蜥蜴" title="wikilink">サンゲイザーファンガイア</a>（聲: 金山一彦・塩野勝美）<br />
+<a href="https://zh.wikipedia.org/wiki/蠶" title="wikilink">シルクモスファンガイア</a>（聲: <a href="../Page/勝生真沙子.md" title="wikilink">勝生真沙子</a>）</p></td>
 <td><p>舞原賢三</p></td>
 <td></td>
 </tr>
@@ -916,7 +916,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>44</p></td>
 <td><p>パンク・バックトゥ・ファーザー</p></td>
 <td><p>爆發・back to father（視聴率：5.2℅）</p></td>
-<td><p><a href="../Page/北極熊.md" title="wikilink">ポーラベアーファンガイア</a>（聲: <a href="../Page/江川大輔.md" title="wikilink">江川大輔</a>）<br />
+<td><p><a href="../Page/北極熊.md" title="wikilink">ポーラベアーファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/江川大輔" title="wikilink">江川大輔</a>）<br />
 スワローテイルファンガイア</p></td>
 <td><p>長石多可男</p></td>
 <td></td>
@@ -966,7 +966,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>48</p></td>
 <td><p>フィナーレ・キバを継ぐ者</p></td>
 <td><p>終曲・KIVA繼承者・（視聴率：6.5℅）</p></td>
-<td><p>バットファンガイア・リボーン（聲: <a href="../Page/酒井敬幸.md" title="wikilink">酒井敬幸</a>）<br />
+<td><p>バットファンガイア・リボーン（聲: <a href="https://zh.wikipedia.org/wiki/酒井敬幸" title="wikilink">酒井敬幸</a>）<br />
 スワローテイルファンガイア<br />
 再生ファンガイア軍団<br />
 ネオファンガイア</p></td>
@@ -977,13 +977,13 @@ Hammer」作戰，但不久即敗陣。
 <td><p>2009/08/09</p></td>
 <td><p>劇場版</p></td>
 <td><p>魔界城の王</p></td>
-<td><p><a href="../Page/假面騎士Kiva_魔界城之王.md" title="wikilink">假面騎士Kiva 魔界城之王</a></p></td>
-<td><p><a href="../Page/蟻獅.md" title="wikilink">アントライオンファンガイア</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/假面騎士Kiva_魔界城之王" title="wikilink">假面騎士Kiva 魔界城之王</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蟻獅" title="wikilink">アントライオンファンガイア</a><br />
 <a href="../Page/斑馬.md" title="wikilink">ゼブラファンガイア</a>（人間體、聲: <a href="../Page/關俊彥.md" title="wikilink">關俊彥</a>）<br />
 マミーレジェンドルガ（聲: <a href="../Page/大川透.md" title="wikilink">大川透</a>）<br />
-メデューサレジェンドルガ（人間體:<a href="../Page/曾根菜津子.md" title="wikilink">曾根菜津子</a>/聲：<a href="../Page/篠原恵美.md" title="wikilink">篠原恵美</a>）<br />
+メデューサレジェンドルガ（人間體:<a href="../Page/曾根菜津子.md" title="wikilink">曾根菜津子</a>/聲：<a href="https://zh.wikipedia.org/wiki/篠原恵美" title="wikilink">篠原恵美</a>）<br />
 マンドレイクレジェンドルガ<br />
-ガーゴイルレジェンドルガ（聲: <a href="../Page/藤田圭宣.md" title="wikilink">藤田圭宣</a>）</p></td>
+ガーゴイルレジェンドルガ（聲: <a href="https://zh.wikipedia.org/wiki/藤田圭宣" title="wikilink">藤田圭宣</a>）</p></td>
 <td><p>田﨑竜太</p></td>
 <td></td>
 <td></td>

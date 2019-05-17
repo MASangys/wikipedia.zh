@@ -1,27 +1,27 @@
 **Jiro**（），本名：和山義仁（わやま
-よしひと）[日本著名音樂家](../Page/日本.md "wikilink")。[搖滾樂團](../Page/搖滾樂團.md "wikilink")[GLAY的](../Page/GLAY.md "wikilink")[貝斯手](../Page/貝斯手.md "wikilink")。同時也擔任[THE
-PREDATORS的貝斯手](../Page/THE_PREDATORS.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[函館市出生](../Page/函館市.md "wikilink")。
+よしひと）[日本著名音樂家](../Page/日本.md "wikilink")。[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[GLAY的](../Page/GLAY.md "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")。同時也擔任[THE
+PREDATORS的貝斯手](https://zh.wikipedia.org/wiki/THE_PREDATORS "wikilink")。[北海道](../Page/北海道.md "wikilink")[函館市出生](../Page/函館市.md "wikilink")。
 
-函館大谷高等學校畢業。身高169公分，血型[A型](../Page/A型.md "wikilink")。
+函館大谷高等學校畢業。身高169公分，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
 
 Jiro這個名字的由來，是他在加入[GLAY之前所參加的樂團PIERROT時](../Page/GLAY.md "wikilink")，被主唱問到名字的時候，當時突然就回答對方「JIRO」，之後就一直被叫做Jiro。本人好像也不知道為什麼當時自己要說自己叫做JIRO的樣子。
 
 ## 人物
 
   - 雖然是成員中年紀最小的，但在[GLAY之中卻有第二團長的稱號](../Page/GLAY.md "wikilink")。個性一板一眼，非常認真。之前曾經參加過向[the
-    pillows致敬的專輯製作](../Page/the_pillows.md "wikilink")。
+    pillows致敬的專輯製作](https://zh.wikipedia.org/wiki/the_pillows "wikilink")。
   - 在叫[GLAY團員的時候](../Page/GLAY.md "wikilink")，名字後面一定會加個「君」字。[Takuro就是](../Page/Takuro.md "wikilink")「琢郎君」、[Hisashi就是](../Page/Hisashi.md "wikilink")「Tono君」、而[Teru則是](../Page/Teru.md "wikilink")「Tekko君」。不過在上電視的時候除了Takuro之外，其他兩人就直接以「Hisashi」「Teru」來稱呼。
-  - 只要是自己喜歡的東西就會十分珍惜。只要有工作人員不小心撞到**Jiro**的[貝斯](../Page/貝斯.md "wikilink")，他就會隨即大怒。
-  - 對流行服裝十分有品味。對於搭配衣服向來都很頭痛的[Takuro常常會去問Jiro](../Page/Takuro.md "wikilink")：「我該穿什麼才好？」。也曾經在[代官山被雜誌社的人訪問](../Page/代官山.md "wikilink")，對方沒有發現他是JIRO，還問他要不要參加「流行服裝大賽」。
-  - 興趣是[攝影跟玩](../Page/攝影.md "wikilink")[滑雪板](../Page/滑雪板.md "wikilink")。照相時特別喜歡拍天空或是風景照，在GLAY的歌迷會會報中也設置了一個展示照片的單元。該單元也會訂下題目讓歌迷拍照投稿。
+  - 只要是自己喜歡的東西就會十分珍惜。只要有工作人員不小心撞到**Jiro**的[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，他就會隨即大怒。
+  - 對流行服裝十分有品味。對於搭配衣服向來都很頭痛的[Takuro常常會去問Jiro](../Page/Takuro.md "wikilink")：「我該穿什麼才好？」。也曾經在[代官山被雜誌社的人訪問](https://zh.wikipedia.org/wiki/代官山 "wikilink")，對方沒有發現他是JIRO，還問他要不要參加「流行服裝大賽」。
+  - 興趣是[攝影跟玩](https://zh.wikipedia.org/wiki/攝影 "wikilink")[滑雪板](https://zh.wikipedia.org/wiki/滑雪板 "wikilink")。照相時特別喜歡拍天空或是風景照，在GLAY的歌迷會會報中也設置了一個展示照片的單元。該單元也會訂下題目讓歌迷拍照投稿。
   - 2005年開始，加入[THE
-    PREDATORS](../Page/THE_PREDATORS.md "wikilink")，以[獨立唱片的方式開始](../Page/獨立唱片.md "wikilink")[樂團活動](../Page/樂團.md "wikilink")。
+    PREDATORS](https://zh.wikipedia.org/wiki/THE_PREDATORS "wikilink")，以[獨立唱片的方式開始](https://zh.wikipedia.org/wiki/獨立唱片 "wikilink")[樂團活動](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
   - 在[GLAY和](../Page/GLAY.md "wikilink")[THE
-    PREDATORS中都有獨立作曲的歌曲](../Page/THE_PREDATORS.md "wikilink")。在他做的歌曲裡當中，「SHUTTER
+    PREDATORS中都有獨立作曲的歌曲](https://zh.wikipedia.org/wiki/THE_PREDATORS "wikilink")。在他做的歌曲裡當中，「SHUTTER
     SPEEDSのテーマ」最能炒熱演唱會氣氛。
-  - 跟[HISASHI絕對不是關係惡劣](../Page/HISASHI.md "wikilink")，但不知道為何就常常覺得無法兩個人獨處。此外，正式出道到現在已經十多年，兩個人是到最近才會兩人一起去喝酒。
-  - 曾在[TAKURO將新曲給團員們試聽時說了一句](../Page/TAKURO.md "wikilink")：「好老套！」。該首曲子為TAKURO音樂人生中自己最滿意的一曲，團員們在試聽的時候只有JIRO抱頭沉思。就在TAKURO要靠近團員們想要跟他們說：「這首歌就代表了我！」的時候，JIRO說了一句：「TAKURO君，這首歌很老套耶！」爾後TAKURO說了：「原來我很老套啊…」，JIRO才發現似乎說錯話了。TAKURO曾表示，這是他音樂人生當中最痛苦心酸的一件事。
-  - 本身是[Red_Hot_Chili_Peppers跟](../Page/Red_Hot_Chili_Peppers.md "wikilink")[Radiohead的歌迷](../Page/Radiohead.md "wikilink")。
+  - 跟[HISASHI絕對不是關係惡劣](https://zh.wikipedia.org/wiki/HISASHI "wikilink")，但不知道為何就常常覺得無法兩個人獨處。此外，正式出道到現在已經十多年，兩個人是到最近才會兩人一起去喝酒。
+  - 曾在[TAKURO將新曲給團員們試聽時說了一句](https://zh.wikipedia.org/wiki/TAKURO "wikilink")：「好老套！」。該首曲子為TAKURO音樂人生中自己最滿意的一曲，團員們在試聽的時候只有JIRO抱頭沉思。就在TAKURO要靠近團員們想要跟他們說：「這首歌就代表了我！」的時候，JIRO說了一句：「TAKURO君，這首歌很老套耶！」爾後TAKURO說了：「原來我很老套啊…」，JIRO才發現似乎說錯話了。TAKURO曾表示，這是他音樂人生當中最痛苦心酸的一件事。
+  - 本身是[Red_Hot_Chili_Peppers跟](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink")[Radiohead的歌迷](https://zh.wikipedia.org/wiki/Radiohead "wikilink")。
 
 ## 經歴
 
@@ -107,7 +107,7 @@ Jiro這個名字的由來，是他在加入[GLAY之前所參加的樂團PIERROT�
 
 ## 連載
 
-  - キャラメルBOX（ワッツイン（[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")））
+  - キャラメルBOX（ワッツイン（[ソニー・マガジンズ](https://zh.wikipedia.org/wiki/ソニー・マガジンズ "wikilink")））
 
 ## 書籍
 
@@ -127,7 +127,7 @@ Jiro這個名字的由來，是他在加入[GLAY之前所參加的樂團PIERROT�
 ### 廣播
 
   - [BUGGY CRASH
-    NIGHT](../Page/BUGGY_CRASH_NIGHT.md "wikilink")（[FM802](../Page/FM802.md "wikilink")）毎週六23:00～24:00
+    NIGHT](https://zh.wikipedia.org/wiki/BUGGY_CRASH_NIGHT "wikilink")（[FM802](https://zh.wikipedia.org/wiki/FM802 "wikilink")）毎週六23:00～24:00
 
 ## 相關條目
 
@@ -135,10 +135,11 @@ Jiro這個名字的由來，是他在加入[GLAY之前所參加的樂團PIERROT�
       - [Teru](../Page/Teru.md "wikilink")
       - [Takuro](../Page/Takuro.md "wikilink")
       - [Hisashi](../Page/Hisashi.md "wikilink")
-  - [佐久間正英](../Page/佐久間正英.md "wikilink")
+  - [佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
   - [YUKI](../Page/YUKI_\(歌手\).md "wikilink")
-  - [THE PREDATORS](../Page/THE_PREDATORS.md "wikilink")
-  - [山中さわお](../Page/山中さわお.md "wikilink")
+  - [THE
+    PREDATORS](https://zh.wikipedia.org/wiki/THE_PREDATORS "wikilink")
+  - [山中さわお](https://zh.wikipedia.org/wiki/山中さわお "wikilink")
 
 ## 外部連結
 

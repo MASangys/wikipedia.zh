@@ -1,33 +1,33 @@
 **GameSpot**（[中国大陆](../Page/中国大陆.md "wikilink")：游戏基地），於1996年5月由Pete
 Deemer和Vince
-Broady創立，是一個提供[新聞](../Page/新聞.md "wikilink")、[評論](../Page/評論.md "wikilink")、[預告片](../Page/預告片.md "wikilink")、[下載及其他的相關資訊的](../Page/下載.md "wikilink")[電子遊戲](../Page/電子遊戲.md "wikilink")[網站](../Page/網站.md "wikilink")。GameSpot被一間後來被[CNET收購的企業](../Page/CNET.md "wikilink")[ZDNet所收購](../Page/ZDNet.md "wikilink")。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，GameSpot.com是200個[網路擁擠最嚴重的網站之一](../Page/網路擁擠.md "wikilink")。
+Broady創立，是一個提供[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[評論](https://zh.wikipedia.org/wiki/評論 "wikilink")、[預告片](https://zh.wikipedia.org/wiki/預告片 "wikilink")、[下載及其他的相關資訊的](https://zh.wikipedia.org/wiki/下載 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[網站](../Page/網站.md "wikilink")。GameSpot被一間後來被[CNET收購的企業](../Page/CNET.md "wikilink")[ZDNet所收購](https://zh.wikipedia.org/wiki/ZDNet "wikilink")。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，GameSpot.com是200個[網路擁擠最嚴重的網站之一](https://zh.wikipedia.org/wiki/網路擁擠 "wikilink")。
 
-除了由GameSpot員工創作的內容，網站還允許用戶寫評論、網誌、之後在[網路論壇分享](../Page/網路論壇.md "wikilink")。一些在CNET旗下的[GameFAQs分享](../Page/GameFAQs.md "wikilink")。
+除了由GameSpot員工創作的內容，網站還允許用戶寫評論、網誌、之後在[網路論壇分享](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")。一些在CNET旗下的[GameFAQs分享](../Page/GameFAQs.md "wikilink")。
 
 2004年， GameSpot被[Spike
-TV的觀眾選上](../Page/Spike_TV.md "wikilink")「電子遊戲賞節目」贏得「最傑出遊戲網站。\[1\]其他的遊戲網站還有[IGN](../Page/IGN.md "wikilink")、[1UP.com](../Page/1UP.com.md "wikilink")、[GameSpy是它最大的競爭對手](../Page/GameSpy.md "wikilink")。2008年，根據[Compete.com的統計](../Page/Compete.com.md "wikilink")，「gamespot.com」吸引了最少6000萬人的點擊率。\[2\]
+TV的觀眾選上](https://zh.wikipedia.org/wiki/Spike_TV "wikilink")「電子遊戲賞節目」贏得「最傑出遊戲網站。\[1\]其他的遊戲網站還有[IGN](../Page/IGN.md "wikilink")、[1UP.com](../Page/1UP.com.md "wikilink")、[GameSpy是它最大的競爭對手](../Page/GameSpy.md "wikilink")。2008年，根據[Compete.com的統計](https://zh.wikipedia.org/wiki/Compete.com "wikilink")，「gamespot.com」吸引了最少6000萬人的點擊率。\[2\]
 
-GameSpot的主頁鏈結了到最近新聞、評論、預告、和一些有關遊戲機的入口：[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[電腦遊戲](../Page/電腦遊戲.md "wikilink")、[Xbox
-360](../Page/Xbox_360.md "wikilink")、[PSP](../Page/PSP.md "wikilink")、[PlayStation
+GameSpot的主頁鏈結了到最近新聞、評論、預告、和一些有關遊戲機的入口：[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[Xbox
+360](../Page/Xbox_360.md "wikilink")、[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[PlayStation
 2](../Page/PlayStation_2.md "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")。它還有一列「最受歡迎遊戲名單」，還有給用戶快速獲得遊戲資訊的搜尋器。GameSpot
-還包括一些小範圍的遊戲機：[任天堂64](../Page/任天堂64.md "wikilink")、[GameCube](../Page/GameCube.md "wikilink")、[Game
+還包括一些小範圍的遊戲機：[任天堂64](../Page/任天堂64.md "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Game
 Boy Color](../Page/Game_Boy_Color.md "wikilink")、[Game Boy
-Advance](../Page/Game_Boy_Advance.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[SEGA
-Saturn](../Page/SEGA_Saturn.md "wikilink")、[Dreamcast](../Page/Dreamcast.md "wikilink")、[Neo
+Advance](../Page/Game_Boy_Advance.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[SEGA
+Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")、[Dreamcast](../Page/Dreamcast.md "wikilink")、[Neo
 Geo Pocket
-Color](../Page/Neo_Geo_Pocket_Color.md "wikilink")、[N-Gage](../Page/N-Gage.md "wikilink")、[手機遊戲](../Page/手機遊戲.md "wikilink")。
+Color](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")、[N-Gage](../Page/N-Gage.md "wikilink")、[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
 
 ## 歷史
 
-刚刚成立时，GameSpot仅致力于[电脑游戏的内容](../Page/电脑游戏.md "wikilink")。它的姊妹网站，VideoGameSpot.com，则于1996年12月成立，专注[电视游戏的内容](../Page/电视游戏.md "wikilink")。1997年，VideoGameSpot.com短暂地改名为VideoGames.com，而到了1998年，[电脑游戏和](../Page/电脑游戏.md "wikilink")[电视游戏两个板块被合并到GameSpot](../Page/电视游戏.md "wikilink")。\[3\]
+刚刚成立时，GameSpot仅致力于[电脑游戏的内容](../Page/电脑游戏.md "wikilink")。它的姊妹网站，VideoGameSpot.com，则于1996年12月成立，专注[电视游戏的内容](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")。1997年，VideoGameSpot.com短暂地改名为VideoGames.com，而到了1998年，[电脑游戏和](../Page/电脑游戏.md "wikilink")[电视游戏两个板块被合并到GameSpot](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")。\[3\]
 
 2005年10月3日，GameSpot采用了类似于其姊妹网站TV.com的新设计。\[4\]
 
 ### 國際歷史
 
 GameSpot
-UK（GameSpot[英国版](../Page/英国.md "wikilink")）建立于[1997年10月](../Page/1997年10月.md "wikilink")，并一直工作至2002年年中。GameSpot
+UK（GameSpot[英国版](https://zh.wikipedia.org/wiki/英国 "wikilink")）建立于[1997年10月](https://zh.wikipedia.org/wiki/1997年10月 "wikilink")，并一直工作至2002年年中。GameSpot
 UK提供了侧重于欧洲的游戏新闻，因此与其美国的站点区分开来。在这段时间里，GameSpot
 UK赢得了1999年的PPAi最佳网站奖（Periodical Publishers
 Association interactive award for best website），\[5\]
@@ -36,7 +36,7 @@ UK被合并到美国的主站。但是在2006年4月24日，GameSpot UK重新启
 
 类似地，GameSpot
 AU（GameSpot[澳大利亚版](../Page/澳大利亚.md "wikilink")）在澳大利亚本地存在过，并于2003年终止运行。当CNET的澳大利亚版本，CNET.com.au于2003年成立时，GameSpot
-AU的内容被整合到CNET.com.au中。2006年中期，网站在加入论坛、各游戏的本地评论、[澳元标价](../Page/澳元.md "wikilink")、澳大利亚上市日期和其他更多本地的新闻后重新开放。
+AU的内容被整合到CNET.com.au中。2006年中期，网站在加入论坛、各游戏的本地评论、[澳元标价](https://zh.wikipedia.org/wiki/澳元 "wikilink")、澳大利亚上市日期和其他更多本地的新闻后重新开放。
 
 现今（2016年12月11日）英国版与澳洲版网站均已无法打开。
 
@@ -47,12 +47,16 @@ Japan（GameSpot[日本版](../Page/日本.md "wikilink")）建立于2007年，�
 
 ### 著名的員工
 
-  - [Greg Kasavin](../Page/Greg_Kasavin.md "wikilink") – GameSpot
-    [责任编辑和网页主管](../Page/责任编辑.md "wikilink")，于2007年离开GameSpot，成为了一名游戏开发者。他目前效力于[DICE洛杉磯](../Page/DICE洛杉磯.md "wikilink")(DICE
+  - [Greg
+    Kasavin](https://zh.wikipedia.org/wiki/Greg_Kasavin "wikilink") –
+    GameSpot
+    [责任编辑和网页主管](https://zh.wikipedia.org/wiki/责任编辑 "wikilink")，于2007年离开GameSpot，成为了一名游戏开发者。他目前效力于[DICE洛杉磯](../Page/DICE洛杉磯.md "wikilink")(DICE
     LA)。\[9\]
-  - [Jeff Gerstmann](../Page/Jeff_Gerstmann.md "wikilink") -
-    GameSpot评论主管，于2007年11月28日应为公开的原因被开除。随后，他成立了GiantBomb.com。\[10\]
-  - [Alex Navarro](../Page/Alex_Navarro.md "wikilink") –
+  - [Jeff
+    Gerstmann](https://zh.wikipedia.org/wiki/Jeff_Gerstmann "wikilink")
+    - GameSpot评论主管，于2007年11月28日应为公开的原因被开除。随后，他成立了GiantBomb.com。\[10\]
+  - [Alex
+    Navarro](https://zh.wikipedia.org/wiki/Alex_Navarro "wikilink") –
     网站编辑，由于gerstmann被开除而辞职。目前效力于。
 
 ## 評論和分數系統
@@ -77,32 +81,33 @@ GameSpot有詳細指引說明他們的評論方針，和解答有關評論的常
 
 當GameSpot Complete於2001年推出，舊評論被只限於Complete會員；不過幾個月後，限制被解除。
 
-全部遊戲都以5個標準評審：玩法、畫質、音效、價值、評論員取向。每一項都以[整數](../Page/整數.md "wikilink")1至10評分，5項的平均是為總分。萬一遊戲得到9分以上，將被標榜「一流」和「編輯的選擇」認可。雖然每年都有遊戲達到此境界，但只有6隻遊戲曾在GameSpot得到完美十分：[穿越时空](../Page/穿越时空.md "wikilink")\[12\]、[薩爾達傳說
-時光之笛](../Page/薩爾達傳說_時光之笛.md "wikilink")、\[13\][劍魂](../Page/劍魂.md "wikilink")、\[14\]、[Tony
+全部遊戲都以5個標準評審：玩法、畫質、音效、價值、評論員取向。每一項都以[整數](https://zh.wikipedia.org/wiki/整數 "wikilink")1至10評分，5項的平均是為總分。萬一遊戲得到9分以上，將被標榜「一流」和「編輯的選擇」認可。雖然每年都有遊戲達到此境界，但只有6隻遊戲曾在GameSpot得到完美十分：[穿越时空](../Page/穿越时空.md "wikilink")\[12\]、[薩爾達傳說
+時光之笛](https://zh.wikipedia.org/wiki/薩爾達傳說_時光之笛 "wikilink")、\[13\][劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")、\[14\]、[Tony
 Hawk's Pro Skater
-3](../Page/Tony_Hawk's_Pro_Skater_3.md "wikilink")（[PlayStation
+3](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3 "wikilink")（[PlayStation
 2版本](../Page/PlayStation_2.md "wikilink")\[15\]於舊系統。
-[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")\[16\]和[潛龍諜影4：愛國者之槍](../Page/潛龍諜影4：愛國者之槍.md "wikilink")\[17\]於2007年6月創立的新系統。
+[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")\[16\]和[潛龍諜影4：愛國者之槍](https://zh.wikipedia.org/wiki/潛龍諜影4：愛國者之槍 "wikilink")\[17\]於2007年6月創立的新系統。
 
-7隻遊戲曾得到接近完美的9.9分：[NFL 2K](../Page/ESPN_NFL_2K.md "wikilink")、\[18\][NFL
-2K1](../Page/ESPN_NFL_2K.md "wikilink")、\[19\][Perfect
+7隻遊戲曾得到接近完美的9.9分：[NFL
+2K](https://zh.wikipedia.org/wiki/ESPN_NFL_2K "wikilink")、\[18\][NFL
+2K1](https://zh.wikipedia.org/wiki/ESPN_NFL_2K "wikilink")、\[19\][Perfect
 Dark](../Page/Perfect_Dark.md "wikilink")、\[20\]
-[超級瑪利歐豪華版](../Page/超級瑪利歐.md "wikilink")、\[21\][Tekken
-3](../Page/Tekken_3.md "wikilink")（[PlayStation版本](../Page/PlayStation.md "wikilink")）、\[22\]、[Tony
+[超級瑪利歐豪華版](https://zh.wikipedia.org/wiki/超級瑪利歐 "wikilink")、\[21\][Tekken
+3](https://zh.wikipedia.org/wiki/Tekken_3 "wikilink")（[PlayStation版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")）、\[22\]、[Tony
 Hawk's Pro Skater
-2](../Page/Tony_Hawk's_Pro_Skater_2.md "wikilink")（[Dreamcast和](../Page/Dreamcast.md "wikilink")[Playstation版本](../Page/Playstation.md "wikilink")）。\[23\]\[24\]
+2](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2 "wikilink")（[Dreamcast和](../Page/Dreamcast.md "wikilink")[Playstation版本](https://zh.wikipedia.org/wiki/Playstation "wikilink")）。\[23\]\[24\]
 
 另一方面，[Big Rigs: Over the Road
-Racing是史上唯一得到](../Page/Big_Rigs:_Over_the_Road_Racing.md "wikilink")1分的遊戲（糟透），是最低的評價。\[25\]
+Racing是史上唯一得到](https://zh.wikipedia.org/wiki/Big_Rigs:_Over_the_Road_Racing "wikilink")1分的遊戲（糟透），是最低的評價。\[25\]
 
-當遊戲藉由比較作出評分的同時，同一隻遊戲於不同的[遊戲機版本系統都會被比較](../Page/遊戲機.md "wikilink")。由於不同的控制方法和橾作系統，通常使同款遊戲在各遊戲機的版本得到不同的分數。
+當遊戲藉由比較作出評分的同時，同一隻遊戲於不同的[遊戲機版本系統都會被比較](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")。由於不同的控制方法和橾作系統，通常使同款遊戲在各遊戲機的版本得到不同的分數。
 
 ### 新系統
 
 2007年6月25日，GameSpot開始以0.5單位加減分數取締0.1。\[26\]而且取消給予畫質等細項分數的慣例。取以代之，以用戶評價建基的獎牌系統允許評論員
 to 強調遊戲的特色如：藝術設計、原著音效、困難度。GameSpot認為這比前系統更詳細。第一隻參與新系統的遊戲是[Final Fantasy
 Anniversary
-Edition](../Page/Final_Fantasy_Anniversary_Edition.md "wikilink")（[PSP](../Page/PSP.md "wikilink")）。\[27\]唯一改變的稱號是「精華」給予10.0分，取代「完美」。
+Edition](https://zh.wikipedia.org/wiki/Final_Fantasy_Anniversary_Edition "wikilink")（[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）。\[27\]唯一改變的稱號是「精華」給予10.0分，取代「完美」。
 
 編輯主管Jeff
 Gerstmann在[日誌](http://www.gamespot.com/users/Jeff/show_blog_entry.php?topic_id=m-100-25052667)透露，新系統仍受到批評。
@@ -112,29 +117,35 @@ Gerstmann在[日誌](http://www.gamespot.com/users/Jeff/show_blog_entry.php?topi
 
 每年GameSpot都會舉行「本年度最好和最差遊戲選舉」，肯定遊戲業中的正面和負面成就。（例如：最失望遊戲、極差遊戲、最少人玩遊戲、最卑劣產品）GameSpot還允許用戶在贏家之中選出「讀者的選擇」獎項。
 
-GameSpot至今[本年度遊戲之最得獎者](../Page/本年度遊戲之最.md "wikilink")：
+GameSpot至今[本年度遊戲之最得獎者](https://zh.wikipedia.org/wiki/本年度遊戲之最 "wikilink")：
 
-  - 1996：[暗黑破壞神](../Page/暗黑破壞神_\(遊戲\).md "wikilink")（PC）\[28\]
-  - 1997：[橫掃千軍](../Page/橫掃千軍.md "wikilink")(PC) \[29\]
+  - 1996：[暗黑破壞神](https://zh.wikipedia.org/wiki/暗黑破壞神_\(遊戲\) "wikilink")（PC）\[28\]
+  - 1997：[橫掃千軍](https://zh.wikipedia.org/wiki/橫掃千軍 "wikilink")(PC)
+    \[29\]
   - 1998：[神通鬼大](../Page/神通鬼大.md "wikilink")(PC) \[30\]
-  - 1999：[無盡的任務](../Page/無盡的任務.md "wikilink")(PC) \[31\]
-  - 2000：[模擬市民](../Page/模擬市民.md "wikilink")(PC)
+  - 1999：[無盡的任務](https://zh.wikipedia.org/wiki/無盡的任務 "wikilink")(PC)
+    \[31\]
+  - 2000：[模擬市民](https://zh.wikipedia.org/wiki/模擬市民 "wikilink")(PC)
     \[32\]、[穿越时空](../Page/穿越时空.md "wikilink")(PS) \[33\]
   - 2001：[Serious Sam: The First
-    Encounter](../Page/Serious_Sam:_The_First_Encounter.md "wikilink")(PC)
+    Encounter](https://zh.wikipedia.org/wiki/Serious_Sam:_The_First_Encounter "wikilink")(PC)
     \[34\]、[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")(PS2) \[35\]
   - 2002：[银河战士Prime](../Page/银河战士Prime.md "wikilink")(GameCube) \[36\]
   - 2003：[薩爾達傳說 風之律動](../Page/薩爾達傳說_風之律動.md "wikilink")(GameCube) \[37\]
-  - 2004：[魔獸世界](../Page/魔獸世界.md "wikilink")(PC) \[38\]
-  - 2005：[惡靈古堡4](../Page/惡靈古堡4.md "wikilink")(GameCube) \[39\]
-  - 2006：[戰爭機器](../Page/戰爭機器.md "wikilink")(Xbox 360) \[40\]
-  - 2007：[超级马里奥银河](../Page/超级马里奥银河.md "wikilink")(Wii) \[41\]
+  - 2004：[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wikilink")(PC)
+    \[38\]
+  - 2005：[惡靈古堡4](https://zh.wikipedia.org/wiki/惡靈古堡4 "wikilink")(GameCube)
+    \[39\]
+  - 2006：[戰爭機器](https://zh.wikipedia.org/wiki/戰爭機器 "wikilink")(Xbox 360)
+    \[40\]
+  - 2007：[超级马里奥银河](https://zh.wikipedia.org/wiki/超级马里奥银河 "wikilink")(Wii)
+    \[41\]
 
 ## 社區圈子
 
 ### 網路論壇
 
-GameSpot的[網路論壇初初由ZNet運作](../Page/網路論壇.md "wikilink")，後來則由[Lithium負責](../Page/Lithium_\(forums\).md "wikilink")。GameSpot使用半自動的管理系統，由義工性[板主監視](../Page/板主.md "wikilink")。GameSpot板主是由可信度高的會員自願性參與的工作。可是，由於貼子數量過於龐大和密集，論壇有「舉報系統」，普通會員可以此令管理員得知。這系統節省很多時間、內容更加整理。
+GameSpot的[網路論壇初初由ZNet運作](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，後來則由[Lithium負責](https://zh.wikipedia.org/wiki/Lithium_\(forums\) "wikilink")。GameSpot使用半自動的管理系統，由義工性[板主監視](https://zh.wikipedia.org/wiki/板主 "wikilink")。GameSpot板主是由可信度高的會員自願性參與的工作。可是，由於貼子數量過於龐大和密集，論壇有「舉報系統」，普通會員可以此令管理員得知。這系統節省很多時間、內容更加整理。
 
 其中一個少有的特色是，GameSpot論壇的高階會員可創建自己的用戶板面，可設定私隱性選擇公眾可否觀看。創建人可指示管理員，且可在板面頂端顯示HTML審定。另外，所有會員都可以建立「聯盟」。「聯盟」的首頁含公告皓會員名單。
 
@@ -144,7 +155,7 @@ GameSpot的[網路論壇初初由ZNet運作](../Page/網路論壇.md "wikilink")
 
 ### 用戶資料
 
-已註冊會員可有個人用戶資料檔案，根據他們的喜好，可設定只有自己或好友看到。\[44\]用戶資料檔案是很方便的功能。日誌可利用它建立和更新，在會員的[TV.com](../Page/TV.com.md "wikilink")、[MP3.com](../Page/MP3.com.md "wikilink")、MovieTome分享。
+已註冊會員可有個人用戶資料檔案，根據他們的喜好，可設定只有自己或好友看到。\[44\]用戶資料檔案是很方便的功能。日誌可利用它建立和更新，在會員的[TV.com](../Page/TV.com.md "wikilink")、[MP3.com](https://zh.wikipedia.org/wiki/MP3.com "wikilink")、MovieTome分享。
 
 會員可在用戶資料檔案保存遊戲列表，使他們可從分類得到那些遊戲的資料。「監視中遊戲」提供它們最新消息和公告；「收藏品」是會員擁有的遊戲；「願望表」則是會員想得到的遊戲，已推出、將推出、製作中、將製作的遊戲都可被加入願望表；「正在遊玩」是會員在玩的遊戲。
 
@@ -159,17 +170,17 @@ GameSpot的[網路論壇初初由ZNet運作](../Page/網路論壇.md "wikilink")
 ## 爭議
 
 編輯主管[Jeff
-Gerstmann於](../Page/Jeff_Gerstmann.md "wikilink")2007年11月28日被解僱。\[45\]謠言隨即傳播，聲稱他的免職因[Eidos
-Interactive給予的壓力而起](../Page/Eidos_Interactive.md "wikilink")，他是Gerstmann給予批評和「一般」評價的遊戲[Kane
+Gerstmann於](https://zh.wikipedia.org/wiki/Jeff_Gerstmann "wikilink")2007年11月28日被解僱。\[45\]謠言隨即傳播，聲稱他的免職因[Eidos
+Interactive給予的壓力而起](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")，他是Gerstmann給予批評和「一般」評價的遊戲[Kane
 & Lynch: Dead
-Men的出版者](../Page/Kane_&_Lynch:_Dead_Men.md "wikilink")。\[46\]Gamespot和母公司[CNET表示他的解僱與他的評論無關](../Page/CNET.md "wikilink")，但因合作和法律限制而不能透露原因。\[47\]
+Men的出版者](https://zh.wikipedia.org/wiki/Kane_&_Lynch:_Dead_Men "wikilink")。\[46\]Gamespot和母公司[CNET表示他的解僱與他的評論無關](../Page/CNET.md "wikilink")，但因合作和法律限制而不能透露原因。\[47\]
 \[48\] 解僱一個月後，自由作家評論員Frank
 Provo離開GameSpot，聲明「我相信CNET管理部門解僱Jeff的所有原因都是錯誤的，我認為CNET想軟化網站的風氣使遊戲得到更高的分數，藉此取悅廣告客戶。」\[49\]
 
 GameSpot的編輯Alex Navarro、Jason Ocampo、Ryan Davis、Brad Shoemaker、Vinny
 Caravella也隨Gerstmann解僱而離開。\[50\]\[51\]Davis、
 Shoemaker、Caravella將Gerstmann的未完成計劃[Giant
-Bomb接手](../Page/Giant_Bomb.md "wikilink")，Navarro成為[Harmonix社區管理](../Page/Harmonix.md "wikilink")。Ocampo加入[IGNPC隊](../Page/IGN.md "wikilink")。
+Bomb接手](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")，Navarro成為[Harmonix社區管理](https://zh.wikipedia.org/wiki/Harmonix "wikilink")。Ocampo加入[IGNPC隊](../Page/IGN.md "wikilink")。
 
 ## 捐款
 
@@ -184,14 +195,14 @@ Complete」的代替品，因為該價格依舊是每月＄5.95[美元或每年]
 gum廣告曾經在付費用戶的網站頁面上出現過。
 
 新舊系統的最大分別是缺乏了「GameSpot Complete」在
-[EBGames](../Page/EBGames.md "wikilink").com的九折優惠。這個決定引起了很多不滿。不久後，GameSpot聲稱他們正在新增一項未具體說明的優惠替代品。然而，其後再沒有任何有關消息被公告。
+[EBGames](https://zh.wikipedia.org/wiki/EBGames "wikilink").com的九折優惠。這個決定引起了很多不滿。不久後，GameSpot聲稱他們正在新增一項未具體說明的優惠替代品。然而，其後再沒有任何有關消息被公告。
 
 ## GameCenter
 
 GameCenter（遊戲中心）是一個允許玩家包辦個人化的主機（customized
 servers），用作與朋友聊天、和世界各地的玩家玩各種遊戲、得知其他用家的最近狀況。2006年6月6日，GameCenter捐款系統被中止了，並與「完全權限」服務合併。該措施間接地使GameSpot的GameCenter客戶端服務中上了，但仍會為「完全權限」的用戶舉行聯賽活動。
 
-現時的GameCenter和舊時由[CNET](../Page/CNET.md "wikilink")（作為GameSpot的競爭對手）於1995年至2001的GameCenter已經沒有任何關係。其後2000年，[CNET收購了](../Page/CNET.md "wikilink")[ZDNet和GameSpot](../Page/ZDNet.md "wikilink")，原來的GameCenter被解散了。
+現時的GameCenter和舊時由[CNET](../Page/CNET.md "wikilink")（作為GameSpot的競爭對手）於1995年至2001的GameCenter已經沒有任何關係。其後2000年，[CNET收購了](../Page/CNET.md "wikilink")[ZDNet和GameSpot](https://zh.wikipedia.org/wiki/ZDNet "wikilink")，原來的GameCenter被解散了。
 
 ## 參見
 

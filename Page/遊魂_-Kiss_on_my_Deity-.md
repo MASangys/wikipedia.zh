@@ -2,28 +2,29 @@
 Sugar於](../Page/Lump_of_Sugar.md "wikilink")2008年7月11日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2009年11月5日由[5pb.代理發售](../Page/5pb..md "wikilink")[Xbox
 360版](../Page/Xbox_360.md "wikilink")。\[2\]2009年5月29日[Lump of
 Sugar發售](../Page/Lump_of_Sugar.md "wikilink")[Fan
-disc](../Page/Fan_disc.md "wikilink")《**遊魂 -It's happy
-days-**》（）。2016年9月23日發售續作《[遊魂2 -you're the only
-one-](../Page/遊魂2_-you're_the_only_one-.md "wikilink")》（）\[3\]。標題「」是「」之略、「deity」是「神、女神」之意\[4\]。
+disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**遊魂 -It's
+happy days-**》（）。2016年9月23日發售續作《[遊魂2 -you're the only
+one-](https://zh.wikipedia.org/wiki/遊魂2_-you're_the_only_one- "wikilink")》（）\[3\]。標題「」是「」之略、「deity」是「神、女神」之意\[4\]。
 
 ## 概要
 
 最初2007年9月29日於Lump of
-Sugar官方網站和雜誌《[电击姬](../Page/电击姬.md "wikilink")》11月號公開。繼《[Nursery
+Sugar官方網站和雜誌《[电击姬](https://zh.wikipedia.org/wiki/电击姬 "wikilink")》11月號公開。繼《[Nursery
 Rhyme](../Page/Nursery_Rhyme.md "wikilink")》和《[何時到達那片天空](../Page/何時到達那片天空.md "wikilink")》，Lump
 of
-Sugar的第3作[奇幻系](../Page/奇幻.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，女主角為四人。[人物設計和前兩作同様由](../Page/人物設計.md "wikilink")[萌木原文武擔當](../Page/萌木原文武.md "wikilink")。曾舉行多次活動，2007年10月1日的「」、2008年3月7日至7月27日的「」、2008年5月東京和大阪的DreamParty2008春的「」。又和[AKABEiSOFT2合作](../Page/AKABEiSOFT2.md "wikilink")，在2008年5月29日由AKABEiSOFT2發售的《[G弦上的魔王](../Page/G弦上的魔王.md "wikilink")》中附送《遊魂
+Sugar的第3作[奇幻系](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，女主角為四人。[人物設計和前兩作同様由](../Page/人物設計.md "wikilink")[萌木原文武擔當](../Page/萌木原文武.md "wikilink")。曾舉行多次活動，2007年10月1日的「」、2008年3月7日至7月27日的「」、2008年5月東京和大阪的DreamParty2008春的「」。又和[AKABEiSOFT2合作](../Page/AKABEiSOFT2.md "wikilink")，在2008年5月29日由AKABEiSOFT2發售的《[G弦上的魔王](../Page/G弦上的魔王.md "wikilink")》中附送《遊魂
 -Kiss on my Deity-》的體驗版，而Lump of Sugar則在《遊魂 -Kiss on my
-Deity-》製品版附送AKABEiSOFT2預定發售的作品《[W.L.O.世界戀愛機構](../Page/W.L.O.世界戀愛機構.md "wikilink")》。發售前已引起話題，並登上[Softmap娛樂館的美少女遊戲預訂排名的殿堂級](../Page/Softmap.md "wikilink")，更是2008年5月發售的三本雜誌《DENGEKI
-HIME》、《[PUSH\!\!](../Page/PUSH!!.md "wikilink")》、《[PC Angel
-neo](../Page/PC_Angel_neo.md "wikilink")》的封面。另外，預定會有包括[動畫化的多媒體發展](../Page/動畫.md "wikilink")\[5\]。
+Deity-》製品版附送AKABEiSOFT2預定發售的作品《[W.L.O.世界戀愛機構](https://zh.wikipedia.org/wiki/W.L.O.世界戀愛機構 "wikilink")》。發售前已引起話題，並登上[Softmap娛樂館的美少女遊戲預訂排名的殿堂級](https://zh.wikipedia.org/wiki/Softmap "wikilink")，更是2008年5月發售的三本雜誌《DENGEKI
+HIME》、《[PUSH\!\!](https://zh.wikipedia.org/wiki/PUSH!! "wikilink")》、《[PC
+Angel
+neo](https://zh.wikipedia.org/wiki/PC_Angel_neo "wikilink")》的封面。另外，預定會有包括[動畫化的多媒體發展](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[5\]。
 
 同名电视动画于2009年春季播出\[6\]。
 
 ## 故事簡介
 
-故事舞台為葦原町的「」，學院分為兩個學部，一為[明治時代以來的女校](../Page/明治時代.md "wikilink")「創聖女學院」學部，俗稱「」（來是由[鑽石的淨度級別FL](../Page/鑽石.md "wikilink")（Flawless），指無瑕，是最高級的淨度）；二為近年創立的男女校「創聖一般學部」，俗稱「」（同是來自鑽石的淨度級別，指微瑕疵的SI1和SI2（Slightly
-Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，後者是自由度高、理念革新的學校，兩者幾乎相反。而男主角**泉戶裕理**則是屬於一般學部，並且是八衢神社[宮司](../Page/宮司.md "wikilink")**泉戶裕導**的兒子，並有幾乎如親妹妹一樣的**小鳥遊由美奈**。
+故事舞台為葦原町的「」，學院分為兩個學部，一為[明治時代以來的女校](https://zh.wikipedia.org/wiki/明治時代 "wikilink")「創聖女學院」學部，俗稱「」（來是由[鑽石的淨度級別FL](https://zh.wikipedia.org/wiki/鑽石 "wikilink")（Flawless），指無瑕，是最高級的淨度）；二為近年創立的男女校「創聖一般學部」，俗稱「」（同是來自鑽石的淨度級別，指微瑕疵的SI1和SI2（Slightly
+Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，後者是自由度高、理念革新的學校，兩者幾乎相反。而男主角**泉戶裕理**則是屬於一般學部，並且是八衢神社[宮司](https://zh.wikipedia.org/wiki/宮司 "wikilink")**泉戶裕導**的兒子，並有幾乎如親妹妹一樣的**小鳥遊由美奈**。
 
 裕理與友人**河合亞芽里**和**要三九郎**一起度過升上三年級前的春假，當時學院正進行操場的擴充工程，其間發掘到刻有奇異文字的遺跡，其文字就是裕理家中神社所奉祀的神祇「」。但學院鑑定遺跡並無價值而繼續工程。數日後開學儀式的當日，裕理被女學院學部**如月美冬**質疑是阻止擴充工程的人，裕理雖自身知道無關係，但不能辯駁而逃走。裕理認為破壞遺跡恐怕會有災難發生，遂於深夜潛入學院，進行轉換神祇靈魂的儀式，名為「」、看上去如神一般的純白靈體立刻出現，並述說約五百年前人類與太轉依的共存問題，最後「化成」另一位有狐狸耳和尾的小女孩。之後裕理替其取名為「」。
 
@@ -54,21 +55,21 @@ Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，�
 
   - （同左）
     身高：144.5cm / 生日：1月22日/ 血型：A/ 三圍：B69(AA)/W54/H73
-    創聖女學院學部C課程學生。生於富裕家庭「天見」，但其後天見家沒落，由美奈被托付於泉戶家。一起生活的由美奈已當裕理為哥哥，但因裕理母親的死，而轉為「小鳥遊」家的養女。性格害羞，喜歡繪畫、[料理](../Page/料理.md "wikilink")、[裁縫等可以一人自己做的事](../Page/裁縫.md "wikilink")。和亞芽里相熟並稱之為「姐姐」，非常憧憬創聖女學院學部的「」（總代理）如月美冬。
-    另外，這角色是來自本作擔當原畫的[萌木原文武所屬的](../Page/萌木原文武.md "wikilink")[同人團體](../Page/同人團體.md "wikilink")[ZIP所製作的](../Page/ZIP.md "wikilink")[成人遊戲](../Page/成人遊戲.md "wikilink")《[Purism×Egoist](../Page/Purism×Egoist.md "wikilink")》（2004年4月16日發售）中的角色，有翅膀的[人造人](../Page/人造人.md "wikilink")「」\[7\]。
+    創聖女學院學部C課程學生。生於富裕家庭「天見」，但其後天見家沒落，由美奈被托付於泉戶家。一起生活的由美奈已當裕理為哥哥，但因裕理母親的死，而轉為「小鳥遊」家的養女。性格害羞，喜歡繪畫、[料理](https://zh.wikipedia.org/wiki/料理 "wikilink")、[裁縫等可以一人自己做的事](https://zh.wikipedia.org/wiki/裁縫 "wikilink")。和亞芽里相熟並稱之為「姐姐」，非常憧憬創聖女學院學部的「」（總代理）如月美冬。
+    另外，這角色是來自本作擔當原畫的[萌木原文武所屬的](../Page/萌木原文武.md "wikilink")[同人團體](https://zh.wikipedia.org/wiki/同人團體 "wikilink")[ZIP所製作的](https://zh.wikipedia.org/wiki/ZIP "wikilink")[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")《[Purism×Egoist](https://zh.wikipedia.org/wiki/Purism×Egoist "wikilink")》（2004年4月16日發售）中的角色，有翅膀的[人造人](https://zh.wikipedia.org/wiki/人造人 "wikilink")「」\[7\]。
 
 <!-- end list -->
 
   - （同左）
     身高：169cm / 生日：3月1日/ 血型：AB/ 三圍：B79(B)/W59/H84
-    創聖學院女子學部S課程學生（最上級生）兼貴婦（總代理）。「貴婦」是女子學部中特別優秀的監督生的領導生，需要得到全校學生和教師八成以上的支持才能被選出。美冬生於名家如月家，幼時開始已接受嚴謹的教育。擅長各種武藝，特別是[劍術](../Page/劍術.md "wikilink")。冷靜沉穩而深思熟慮，雖然性格嚴肅但實際心中想逃離這種束縛。興趣是讀書，特別是以「自由戀愛」為題材的故事。意識到由美奈對自己的憧憬。另外，據自己各種推理，認為阻止擴充工程的人是裕理，但其實並無關係。
+    創聖學院女子學部S課程學生（最上級生）兼貴婦（總代理）。「貴婦」是女子學部中特別優秀的監督生的領導生，需要得到全校學生和教師八成以上的支持才能被選出。美冬生於名家如月家，幼時開始已接受嚴謹的教育。擅長各種武藝，特別是[劍術](https://zh.wikipedia.org/wiki/劍術 "wikilink")。冷靜沉穩而深思熟慮，雖然性格嚴肅但實際心中想逃離這種束縛。興趣是讀書，特別是以「自由戀愛」為題材的故事。意識到由美奈對自己的憧憬。另外，據自己各種推理，認為阻止擴充工程的人是裕理，但其實並無關係。
 
 ### 其他配角
 
   -
     三强之一，戰敗後成為如月美冬的朋友。
   -
-    與裕理和亞芽里友好，一樣是創聖學院一般學部的學生，但曾留級一年所以年紀比其他兩人大。說[關西方言](../Page/近畿方言.md "wikilink")，興趣是[樂團活動](../Page/樂團.md "wikilink")，並曾自行發售CD。畢業後準備到[東京進行音樂活動](../Page/東京.md "wikilink")，離開葦原町。
+    與裕理和亞芽里友好，一樣是創聖學院一般學部的學生，但曾留級一年所以年紀比其他兩人大。說[關西方言](../Page/近畿方言.md "wikilink")，興趣是[樂團活動](https://zh.wikipedia.org/wiki/樂團 "wikilink")，並曾自行發售CD。畢業後準備到[東京進行音樂活動](https://zh.wikipedia.org/wiki/東京 "wikilink")，離開葦原町。
   -
     一般學部的教師，裕理等人的班主任，亦是日本文化學科日本史概論的準教授。
     聲線非常接近中瀨雛工時的聲音，中瀨亦說過被如此要求。
@@ -77,14 +78,14 @@ Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，�
   -
     女子學部理事兼女子學部畢業生。把女子學部放在其他一切事物之上，連美冬也說這是視野狹窄。
   -
-    裕理父親。雖然是八衢神社的[神主](../Page/神主.md "wikilink")，但對裕理說不需要繼承神社。被亞芽里稱為「」。
+    裕理父親。雖然是八衢神社的[神主](https://zh.wikipedia.org/wiki/神主 "wikilink")，但對裕理說不需要繼承神社。被亞芽里稱為「」。
 
 ## 主要製作人員
 
   - 原畫：[萌木原文武](../Page/萌木原文武.md "wikilink")
-  - 劇本：[史方千尋](../Page/史方千尋.md "wikilink")
-  - 音樂：[大川茂伸](../Page/大川茂伸.md "wikilink")
-  - 影片：[Mju:z](../Page/Mju:z.md "wikilink") 神月社/
+  - 劇本：[史方千尋](https://zh.wikipedia.org/wiki/史方千尋 "wikilink")
+  - 音樂：[大川茂伸](https://zh.wikipedia.org/wiki/大川茂伸 "wikilink")
+  - 影片：[Mju:z](https://zh.wikipedia.org/wiki/Mju:z "wikilink") 神月社/
   - 製作人：
   - 製作：[Lump of Sugar](../Page/Lump_of_Sugar.md "wikilink")
 
@@ -95,9 +96,9 @@ Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，�
 #### 主題歌
 
   - 第一開頭歌曲「」
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[村上純](../Page/村上純.md "wikilink")，歌：[Kicco](../Page/Kicco.md "wikilink")
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[村上純](https://zh.wikipedia.org/wiki/村上純 "wikilink")，歌：[Kicco](https://zh.wikipedia.org/wiki/Kicco "wikilink")
   - 第二開頭歌曲「」
-    作詞：白峰美津子，作曲：[虹音](../Page/虹音.md "wikilink")，編曲：[井上日德](../Page/井上日德.md "wikilink")，歌：[霜月遙](../Page/霜月遙.md "wikilink")
+    作詞：白峰美津子，作曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")，編曲：[井上日德](https://zh.wikipedia.org/wiki/井上日德 "wikilink")，歌：[霜月遙](../Page/霜月遙.md "wikilink")
   - 結尾歌曲「」
     作詞：白峰美津子，作曲：浅井裕子，編曲：井上日德，歌：霜月遙
 
@@ -124,12 +125,12 @@ Included），比FL低數級）。前者是校風嚴肅的傳統名門學校，�
 #### 主題歌
 
   - 開頭歌曲「」
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[水野大輔](../Page/水野大輔.md "wikilink")，歌：[Kicco](../Page/Kicco.md "wikilink")
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[水野大輔](https://zh.wikipedia.org/wiki/水野大輔 "wikilink")，歌：[Kicco](https://zh.wikipedia.org/wiki/Kicco "wikilink")
 
 ## 電視動畫
 
 同名電視動畫於2009年4月5日開始播放。曾執導過[School
-Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出任本作的監督](../Page/染紅的街道.md "wikilink")。
+Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出任本作的監督](https://zh.wikipedia.org/wiki/染紅的街道 "wikilink")。
 
 ### 製作人員
 
@@ -147,13 +148,14 @@ Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出
   - 音響監督：蝦名恭範
   - 音樂：大川茂伸、蓑部雄崇
   - 音樂制作：[5pb.](../Page/5pb..md "wikilink")
-  - 動畫制作：[SILVER LINK](../Page/SILVER_LINK.md "wikilink")
+  - 動畫制作：[SILVER
+    LINK](https://zh.wikipedia.org/wiki/SILVER_LINK "wikilink")
   - 製作：
 
 ### 主題曲
 
   - 片頭曲 《The fine every day》
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[水野大輔](../Page/水野大輔.md "wikilink")，歌：[Kicco](../Page/Kicco.md "wikilink")
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：[水野大輔](https://zh.wikipedia.org/wiki/水野大輔 "wikilink")，歌：[Kicco](https://zh.wikipedia.org/wiki/Kicco "wikilink")
   - 片尾曲 《》
     作詞：，作曲、編曲：，歌：[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
 
@@ -299,15 +301,15 @@ Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出
 
 ### 播放电视台
 
-| 播放地域                                    | 電視台                                        | 系列                                           | 播放期間                | 播放时间                |
-| --------------------------------------- | ------------------------------------------ | -------------------------------------------- | ------------------- | ------------------- |
-| [千葉縣](../Page/千葉縣.md "wikilink")        | [千葉電視台](../Page/千葉電視台.md "wikilink")       | [独立UHF局](../Page/全国独立UHF放送協議会.md "wikilink") | 2009年4月5日 - 6月21日   | 星期日 24時30分 - 25時00分 |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")      | [神奈川電視台](../Page/神奈川電視台.md "wikilink")     | 星期日 25時30分 - 26時00分                          |                     |                     |
-| [中京廣域圈](../Page/:ja:広域放送.md "wikilink") | [中京電視台](../Page/中京電視台.md "wikilink")       | [日本電視台系列](../Page/日本電視台.md "wikilink")       | 2009年4月6日 - 6月22日   | 星期一 27時15分 - 27時45分 |
-| [東京都](../Page/東京都.md "wikilink")        | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 独立UHF局                                       | 2009年4月7日 - 6月23日   | 星期二 25時30分 - 26時00分 |
-| [兵庫縣](../Page/兵庫縣.md "wikilink")        | [SUN電視台](../Page/SUN電視台.md "wikilink")     | 2009年4月8日 - 6月24日                            | 星期三 26時10分 - 26時40分 |                     |
-| [埼玉縣](../Page/埼玉縣.md "wikilink")        | [埼玉電視台](../Page/埼玉電視台.md "wikilink")       | 2009年4月10日 - 6月26日                           | 星期五 25時00分 - 25時30分 |                     |
-| [全國放送](../Page/:ja:全国放送.md "wikilink")  | [AT-X](../Page/AT-X.md "wikilink")         | [CS放送](../Page/衛星電視.md "wikilink")           | 2009年4月11日 - 6月27日  | 星期六 09時00分 - 09時30分 |
+| 播放地域                                                       | 電視台                                                           | 系列                                                              | 播放期間                | 播放时间                |
+| ---------------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------------------- | ------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                           | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | [独立UHF局](https://zh.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink") | 2009年4月5日 - 6月21日   | 星期日 24時30分 - 25時00分 |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                         | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        | 星期日 25時30分 - 26時00分                                             |                     |                     |
+| [中京廣域圈](https://zh.wikipedia.org/wiki/:ja:広域放送 "wikilink") | [中京電視台](../Page/中京電視台.md "wikilink")                          | [日本電視台系列](../Page/日本電視台.md "wikilink")                          | 2009年4月6日 - 6月22日   | 星期一 27時15分 - 27時45分 |
+| [東京都](../Page/東京都.md "wikilink")                           | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 独立UHF局                                                          | 2009年4月7日 - 6月23日   | 星期二 25時30分 - 26時00分 |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")        | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 2009年4月8日 - 6月24日                                               | 星期三 26時10分 - 26時40分 |                     |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                           | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                          | 2009年4月10日 - 6月26日                                              | 星期五 25時00分 - 25時30分 |                     |
+| [全國放送](https://zh.wikipedia.org/wiki/:ja:全国放送 "wikilink")  | [AT-X](../Page/AT-X.md "wikilink")                            | [CS放送](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")           | 2009年4月11日 - 6月27日  | 星期六 09時00分 - 09時30分 |
 
 ## 關連商品
 
@@ -315,11 +317,11 @@ Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出
       - 「遊魂」資料套（2007年10月14日「DreamParty東京2007秋」中發售，3000日元）
       - 「遊魂 -kiss on my
         deity-」DreamParty東京2008春精品套裝（2008年5月18日「DreamParty東京2008春」中發售，3500日元）
-  - [電話卡](../Page/電話卡.md "wikilink")
+  - [電話卡](https://zh.wikipedia.org/wiki/電話卡 "wikilink")
       - 電擊姬11月號 通販電話卡
       - [Comic Market](../Page/Comic_Market.md "wikilink")73目錄
         [Melonbooks支援活動電話卡](../Page/Melonbooks.md "wikilink")
-      - [萌人通販](../Page/萌人通販.md "wikilink") 真白的模模糊糊電話卡
+      - [萌人通販](https://zh.wikipedia.org/wiki/萌人通販 "wikilink") 真白的模模糊糊電話卡
       - PUSH\!\!6月號 通販電話卡
       - 電擊姬7月號 通販電話卡
   - CD
@@ -332,9 +334,9 @@ Days](../Page/School_Days.md "wikilink")、[染紅的街道的元永慶太郎出
 ## 評價
 
 《遊魂 -Kiss on my
-Deity-》在「[美少女ゲームアワード](../Page/美少女ゲームアワード.md "wikilink")2008」中獲得角色設計獎的金獎\[8\]，《遊魂
+Deity-》在「[美少女ゲームアワード](https://zh.wikipedia.org/wiki/美少女ゲームアワード "wikilink")2008」中獲得角色設計獎的金獎\[8\]，《遊魂
 -It's happy
-days-》在「[萌えゲーアワード](../Page/萌えゲーアワード.md "wikilink")2009」中獲得Fan
+days-》在「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2009」中獲得Fan
 disc獎的銀獎。\[9\]
 
 ## 参考資料

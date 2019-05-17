@@ -1,25 +1,25 @@
 [MKyan.jpg](https://zh.wikipedia.org/wiki/File:MKyan.jpg "fig:MKyan.jpg")
 [3_HK_TST_MK_Boy_Jeans_1sa.jpg](https://zh.wikipedia.org/wiki/File:3_HK_TST_MK_Boy_Jeans_1sa.jpg "fig:3_HK_TST_MK_Boy_Jeans_1sa.jpg")\]\]
 **MK文化**，即[旺角](../Page/旺角.md "wikilink")（Mong
-Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](../Page/潮流.md "wikilink")，亦有很多針對年青人的[娛樂場所](../Page/娛樂.md "wikilink")，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](../Page/格仔店.md "wikilink")[戲院等等](../Page/戲院.md "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會的勝地](../Page/約會.md "wikilink")。其中[瓊華中心和](../Page/瓊華中心.md "wikilink")[潮流特區被認為是MK文化的發源地](../Page/潮流特區.md "wikilink")\[1\]。
+Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](https://zh.wikipedia.org/wiki/潮流 "wikilink")，亦有很多針對年青人的[娛樂場所](https://zh.wikipedia.org/wiki/娛樂 "wikilink")，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](https://zh.wikipedia.org/wiki/格仔店 "wikilink")[戲院等等](https://zh.wikipedia.org/wiki/戲院 "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會的勝地](../Page/約會.md "wikilink")。其中[瓊華中心和](https://zh.wikipedia.org/wiki/瓊華中心 "wikilink")[潮流特區被認為是MK文化的發源地](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")\[1\]。
 
 **MK人**則是指向在旺角地區出沒的部份年青人，但是不一定指向居住於旺角的青少年。一般而言，男性被俗稱為**MK仔**，女性被俗稱為**MK妹**。MK妹年齡必須介乎13歲至29歲之間，30歲及以上的只可以稱之為**中女**。
 
-2007年起，又出現了一個新的詞彙──[潮童](../Page/潮童.md "wikilink")，指向一些特別崇尚名牌或者喜歡穿著特殊服飾的MK人。
+2007年起，又出現了一個新的詞彙──[潮童](https://zh.wikipedia.org/wiki/潮童 "wikilink")，指向一些特別崇尚名牌或者喜歡穿著特殊服飾的MK人。
 在性格方面，與他們不熟悉的人會覺得他們冷酷，關係友好的人會覺得他們瘋狂。 \[2\]。
 
 ## 普遍形象
 
 ### 外表特徵
 
-  - [紋身](../Page/紋身.md "wikilink")
-  - 喜愛穿著全身古怪另類衣服，仿照[香港電影](../Page/香港電影.md "wikilink")[古惑仔的造型](../Page/古惑仔電影系列.md "wikilink")
-  - 受當時潮流所影響[盲目地追隨](../Page/同儕壓力.md "wikilink")
-  - [髮型或髮色誇張](../Page/髮型.md "wikilink")
+  - [紋身](https://zh.wikipedia.org/wiki/紋身 "wikilink")
+  - 喜愛穿著全身古怪另類衣服，仿照[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[古惑仔的造型](../Page/古惑仔電影系列.md "wikilink")
+  - 受當時潮流所影響[盲目地追隨](https://zh.wikipedia.org/wiki/同儕壓力 "wikilink")
+  - [髮型或髮色誇張](https://zh.wikipedia.org/wiki/髮型 "wikilink")
 
 ### 性格
 
-  - [脾氣暴躁](../Page/脾氣.md "wikilink")
+  - [脾氣暴躁](https://zh.wikipedia.org/wiki/脾氣 "wikilink")
   - 不懂得[尊重他人](../Page/尊重.md "wikilink")
   - 黨同伐異
   - 漠視圈子以外的人的關心，也漠視圈子以外的人
@@ -28,21 +28,21 @@ Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明
 
   - 能操流利MK語言
   - 喜歡抽[煙](../Page/香煙.md "wikilink")，或隨地吐痰
-  - 為了彰顯個性，刻意在言語間加插無意義的[粗口](../Page/粗口.md "wikilink")
+  - 為了彰顯個性，刻意在言語間加插無意義的[粗口](https://zh.wikipedia.org/wiki/粗口 "wikilink")
   - 一般教育水平不高 卻有意無意在打字的時侯常充斥大量錯別字
-  - 喜歡創造一些地方的簡稱：如[花園街稱作](../Page/花園街.md "wikilink")「花街」、[港鐵](../Page/港鐵.md "wikilink")[旺角站](../Page/旺角站.md "wikilink")[恒生銀行稱作](../Page/恒生銀行.md "wikilink")「旺地恒」、[潮流特區稱作](../Page/潮流特區.md "wikilink")「潮特」、[旺角中心稱作](../Page/旺角中心.md "wikilink")「旺中、M中」﹑[西九龍中心稱作](../Page/西九龍中心.md "wikilink")｢西九｣
-    （當中部份亦慢慢流行，成為一般港人的[慣用語](../Page/慣用語.md "wikilink")）
-  - 喜歡創造一些一般人不懂的[詞語](../Page/詞語.md "wikilink")，即[潮語](../Page/潮語.md "wikilink")，意指潮流人的用語，當中亦包括[火星文](../Page/火星文.md "wikilink")
-  - 討論話題主要為香港的商業化歌曲、衣著、[低俗笑話](../Page/低俗笑話.md "wikilink")
-  - 喜歡嘲笑[弱勢社群或其他社會人士](../Page/弱勢社群.md "wikilink")
+  - 喜歡創造一些地方的簡稱：如[花園街稱作](../Page/花園街.md "wikilink")「花街」、[港鐵](../Page/港鐵.md "wikilink")[旺角站](../Page/旺角站.md "wikilink")[恒生銀行稱作](../Page/恒生銀行.md "wikilink")「旺地恒」、[潮流特區稱作](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")「潮特」、[旺角中心稱作](../Page/旺角中心.md "wikilink")「旺中、M中」﹑[西九龍中心稱作](../Page/西九龍中心.md "wikilink")｢西九｣
+    （當中部份亦慢慢流行，成為一般港人的[慣用語](https://zh.wikipedia.org/wiki/慣用語 "wikilink")）
+  - 喜歡創造一些一般人不懂的[詞語](https://zh.wikipedia.org/wiki/詞語 "wikilink")，即[潮語](https://zh.wikipedia.org/wiki/潮語 "wikilink")，意指潮流人的用語，當中亦包括[火星文](../Page/火星文.md "wikilink")
+  - 討論話題主要為香港的商業化歌曲、衣著、[低俗笑話](https://zh.wikipedia.org/wiki/低俗笑話 "wikilink")
+  - 喜歡嘲笑[弱勢社群或其他社會人士](https://zh.wikipedia.org/wiki/弱勢社群 "wikilink")
   - 走路的方式囂張：如雙手插袋，但同時昂首挺胸
-  - 不停耍酷（[chok](../Page/chok.md "wikilink")），企圖吸引他人注意，得到注意後卻又冷漠對方
+  - 不停耍酷（[chok](https://zh.wikipedia.org/wiki/chok "wikilink")），企圖吸引他人注意，得到注意後卻又冷漠對方
 
 ### 其他特徵
 
   - 常以群體居集，眼神兇狠及瞪人，卻害怕被他人直視。
 
-  - 由於學歷不高亦無大志又怕艱辛，因此大多選擇在[快餐店或](../Page/快餐店.md "wikilink")[便利店工作](../Page/便利店.md "wikilink")❨也有不少初到社會工作人士會先選擇在上述地方工作適應社會，再為前途鋪路，唯MK男女則選擇安於現狀。❩
+  - 由於學歷不高亦無大志又怕艱辛，因此大多選擇在[快餐店或](../Page/快餐店.md "wikilink")[便利店工作](https://zh.wikipedia.org/wiki/便利店 "wikilink")❨也有不少初到社會工作人士會先選擇在上述地方工作適應社會，再為前途鋪路，唯MK男女則選擇安於現狀。❩
 
   - 對學術及知識內容反感
 
@@ -50,7 +50,7 @@ Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明
 
   - 社交能力低，且圈子狹窄
 
-  - 喜歡在朋輩間比拼男、女朋友的多寡，或炫耀自己的[性經驗](../Page/性經驗.md "wikilink")
+  - 喜歡在朋輩間比拼男、女朋友的多寡，或炫耀自己的[性經驗](https://zh.wikipedia.org/wiki/性經驗 "wikilink")
 
   -
 ### MK人心理分析
@@ -60,8 +60,9 @@ MK人們充滿著青少年反叛心理的色彩，由於他們內心相當脆弱
 ## MK車
 
 以形容一些有MK特質的人（例如 蘇單尼
-）擁有或駕駛的車，以[本田](../Page/本田.md "wikilink")[思域](../Page/思域.md "wikilink")、Integra、[雅阁](../Page/雅阁.md "wikilink")〈CF4,CL7
-& CL9〉、豐田 Corolla AE100及Mark X、[三菱](../Page/三菱.md "wikilink") Lancer MX
+）擁有或駕駛的車，以[本田](https://zh.wikipedia.org/wiki/本田 "wikilink")[思域](https://zh.wikipedia.org/wiki/思域 "wikilink")、Integra、[雅阁](https://zh.wikipedia.org/wiki/雅阁 "wikilink")〈CF4,CL7
+& CL9〉、豐田 Corolla AE100及Mark
+X、[三菱](https://zh.wikipedia.org/wiki/三菱 "wikilink") Lancer MX
 為較常見的型號；最近，有各種跡象顯示，日產的Primera (P11),凌志的IS200,
 福士的Golf及Scirocco車系亦成為新一代流行的MK車。
 
@@ -94,12 +95,12 @@ MK車大部份有改裝過，而且一起步就會發出巨大嘈音或行駛中
 
   - 被廣泛視作帶有「MK文化」的藝人
       - [周柏豪](../Page/周柏豪.md "wikilink")、[E-kids](../Page/E-kids.md "wikilink")
-      - [馮盈盈](../Page/馮盈盈.md "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink")
+      - [馮盈盈](https://zh.wikipedia.org/wiki/馮盈盈 "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink")
   - [MK Pop](../Page/MK_Pop.md "wikilink")
-  - [殺馬特](../Page/殺馬特.md "wikilink")
+  - [殺馬特](https://zh.wikipedia.org/wiki/殺馬特 "wikilink")
   - [台客](../Page/台客.md "wikilink")
 
-[分類:香港特定人群稱謂](../Page/分類:香港特定人群稱謂.md "wikilink")
+[分類:香港特定人群稱謂](https://zh.wikipedia.org/wiki/分類:香港特定人群稱謂 "wikilink")
 
 [Category:香港文化](https://zh.wikipedia.org/wiki/Category:香港文化 "wikilink")
 

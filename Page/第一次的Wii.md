@@ -1,5 +1,5 @@
 是一款[Wii遊戲軟體](../Page/Wii.md "wikilink")。內有9種遊戲和一个[Wii
-Remote](../Page/Wii_Remote.md "wikilink")，為初次玩Wii的玩家所設計，令他們可以輕鬆上手，更快學習操縱Wii
+Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，為初次玩Wii的玩家所設計，令他們可以輕鬆上手，更快學習操縱Wii
 Remote。
 
 ## 遊戲

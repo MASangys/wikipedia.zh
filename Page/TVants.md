@@ -1,18 +1,18 @@
-**TVants**是采用[P2P技术的](../Page/P2P.md "wikilink")[网络电视](../Page/网络电视.md "wikilink")，作为新一代的P2P技术的程序，TVants提供了接收电视节目和对外广播电视节目的双向传播功能。通过TVants可以观看大量电视台，包括一些西方主流媒体，比如[英国广播公司](../Page/英国广播公司.md "wikilink")[BBC](../Page/BBC.md "wikilink")、[英国独立电视台ITV](../Page/英国独立电视台.md "wikilink")，[美国有线电视网CNN](../Page/CNN.md "wikilink")，[探索频道](../Page/探索频道.md "wikilink")，[国家地理频道等](../Page/国家地理频道.md "wikilink")，以及中国大陆和香港、台湾、韩国和日本的电视台。\[1\]
+**TVants**是采用[P2P技术的](https://zh.wikipedia.org/wiki/P2P "wikilink")[网络电视](../Page/网络电视.md "wikilink")，作为新一代的P2P技术的程序，TVants提供了接收电视节目和对外广播电视节目的双向传播功能。通过TVants可以观看大量电视台，包括一些西方主流媒体，比如[英国广播公司](../Page/英国广播公司.md "wikilink")[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")、[英国独立电视台ITV](https://zh.wikipedia.org/wiki/英国独立电视台 "wikilink")，[美国有线电视网CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")，[探索频道](https://zh.wikipedia.org/wiki/探索频道 "wikilink")，[国家地理频道等](https://zh.wikipedia.org/wiki/国家地理频道 "wikilink")，以及中国大陆和香港、台湾、韩国和日本的电视台。\[1\]
 
 ## 提供的主要电视台
 
-  - [英国广播公司BBC](../Page/BBC.md "wikilink")
+  - [英国广播公司BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")
   - [美国广播公司ABC](../Page/ABC.md "wikilink")
-  - [美国有线电视网CNN](../Page/CNN.md "wikilink")
+  - [美国有线电视网CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")
   - [ESPN](../Page/ESPN.md "wikilink")
-  - [探索频道（亚洲）](../Page/探索频道.md "wikilink")
-  - [国家地理频道](../Page/国家地理频道.md "wikilink")
+  - [探索频道（亚洲）](https://zh.wikipedia.org/wiki/探索频道 "wikilink")
+  - [国家地理频道](https://zh.wikipedia.org/wiki/国家地理频道 "wikilink")
   - [凤凰卫视](../Page/凤凰卫视.md "wikilink")
-  - [TVBS](../Page/TVBS.md "wikilink")
-  - [中天新闻台](../Page/中天新闻台.md "wikilink")
-  - [SBS前首尔放送](../Page/SBS.md "wikilink")
-  - [日本放送协会](../Page/NHK.md "wikilink")
+  - [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")
+  - [中天新闻台](https://zh.wikipedia.org/wiki/中天新闻台 "wikilink")
+  - [SBS前首尔放送](https://zh.wikipedia.org/wiki/SBS "wikilink")
+  - [日本放送协会](https://zh.wikipedia.org/wiki/NHK "wikilink")
 
 ## 外部链接
 

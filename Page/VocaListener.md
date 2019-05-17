@@ -1,11 +1,11 @@
-**VocaListener**（簡稱****）是一個自動測定用戶歌聲的[語音合成參數的系統](../Page/語音合成.md "wikilink")，可以簡單地把輸入的歌聲轉換成另一種風格或聲質的技術。技術分為三部分：一是合成歌聲模仿目標歌聲的核心技術「VocaListener-core」，二是編輯目標歌聲的技術「VocaListener-plus」，三是分析歌聲的技術「VocaListener-front-end」。主要由中野倫靖和後藤真孝參與研究，先後以[VOCALOID
-2的](../Page/VOCALOID.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")、[GACKPOID和VOCALOID的](../Page/GACKPOID.md "wikilink")[MEIKO](../Page/MEIKO.md "wikilink")、[KAITO作研究測試](../Page/KAITO.md "wikilink")，採用的原因是因為產品已發放於市場，較容易入手。而音樂採用RWC研究用音樂資料庫（流行音樂）（RWC-MDB-P-2001）。研究目的是希望可以做到輕易合成高品質的歌聲，從而探索動聽歌聲的技巧，並在歌唱中得知人類個人的知覺。
+**VocaListener**（簡稱****）是一個自動測定用戶歌聲的[語音合成參數的系統](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，可以簡單地把輸入的歌聲轉換成另一種風格或聲質的技術。技術分為三部分：一是合成歌聲模仿目標歌聲的核心技術「VocaListener-core」，二是編輯目標歌聲的技術「VocaListener-plus」，三是分析歌聲的技術「VocaListener-front-end」。主要由中野倫靖和後藤真孝參與研究，先後以[VOCALOID
+2的](../Page/VOCALOID.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")、[GACKPOID和VOCALOID的](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")[MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink")、[KAITO作研究測試](https://zh.wikipedia.org/wiki/KAITO "wikilink")，採用的原因是因為產品已發放於市場，較容易入手。而音樂採用RWC研究用音樂資料庫（流行音樂）（RWC-MDB-P-2001）。研究目的是希望可以做到輕易合成高品質的歌聲，從而探索動聽歌聲的技巧，並在歌唱中得知人類個人的知覺。
 
 ## 歷史
 
-技術早於2006年8月已進行研究\[1\]。最初於2008年4月28日公開，於[NICONICO動畫上載](../Page/NICONICO動畫.md "wikilink")[音樂軟件](../Page/音樂軟件.md "wikilink")[初音未來版本的](../Page/初音未來.md "wikilink")《[PROLOGUE](http://www.nicovideo.jp/watch/sm3128145)》，歌曲原唱為[聲優](../Page/聲優.md "wikilink")[緒方智美](../Page/緒方智美.md "wikilink")。但最初只是寫作簡稱「」，並沒有正式發表技術，是一個試驗性質的公開。當時正值初音未來熱潮後不久，其極為自然、非常接近人類的歌聲大大超越初音未來平常歌曲的水準而被稱為「神調教」（把初音未來的歌曲調整得十分自然之意），更引起一段短暫對新技術真相的猜測\[2\]。同年5月2日承認「」就是VocaListener\[3\]。在5月28日的[第75回音樂資訊科學研究會](http://www.ipsj.or.jp/sigmus/SIG/sig200805program.html)正式發表。6月6日再公開鏡音鈴版本的《[Game
+技術早於2006年8月已進行研究\[1\]。最初於2008年4月28日公開，於[NICONICO動畫上載](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[音樂軟件](https://zh.wikipedia.org/wiki/音樂軟件 "wikilink")[初音未來版本的](../Page/初音未來.md "wikilink")《[PROLOGUE](http://www.nicovideo.jp/watch/sm3128145)》，歌曲原唱為[聲優](../Page/聲優.md "wikilink")[緒方智美](https://zh.wikipedia.org/wiki/緒方智美 "wikilink")。但最初只是寫作簡稱「」，並沒有正式發表技術，是一個試驗性質的公開。當時正值初音未來熱潮後不久，其極為自然、非常接近人類的歌聲大大超越初音未來平常歌曲的水準而被稱為「神調教」（把初音未來的歌曲調整得十分自然之意），更引起一段短暫對新技術真相的猜測\[2\]。同年5月2日承認「」就是VocaListener\[3\]。在5月28日的[第75回音樂資訊科學研究會](http://www.ipsj.or.jp/sigmus/SIG/sig200805program.html)正式發表。6月6日再公開鏡音鈴版本的《[Game
 of
-Love](http://www.nicovideo.jp/watch/sm3571447)》，歌曲原唱為[吉井弘美](../Page/吉井弘美.md "wikilink")。9月22日再同時公開KAITO、MEIKO、初音未來、鏡音鈴、連ACT2、GACKPOID和合唱版本的[演歌](../Page/演歌.md "wikilink")《大漁船》，2009年2月6日再公開[巡音流歌的版本](../Page/巡音流歌.md "wikilink")，歌曲原唱為西一男。4月27日開始[Yamaha的](../Page/Yamaha.md "wikilink")「」Alpha版測試，只提供部份功能\[4\]。
+Love](http://www.nicovideo.jp/watch/sm3571447)》，歌曲原唱為[吉井弘美](https://zh.wikipedia.org/wiki/吉井弘美 "wikilink")。9月22日再同時公開KAITO、MEIKO、初音未來、鏡音鈴、連ACT2、GACKPOID和合唱版本的[演歌](../Page/演歌.md "wikilink")《大漁船》，2009年2月6日再公開[巡音流歌的版本](../Page/巡音流歌.md "wikilink")，歌曲原唱為西一男。4月27日開始[Yamaha的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")「」Alpha版測試，只提供部份功能\[4\]。
 
 ## 技術
 
@@ -14,7 +14,7 @@ Love](http://www.nicovideo.jp/watch/sm3571447)》，歌曲原唱為[吉井弘美
 ### VocaListener-core
 
 這是合成歌聲模仿目標歌聲的核心技術，由歌聲分析、歌聲合成、反覆的合成參數更新三種要素組成。歌聲分析的對象不止目標歌聲，亦會對合成後的歌聲作出分析，但分析的使用技術[Viterbi
-alignment會有辨認錯誤的問題](../Page/Viterbi_alignment.md "wikilink")，需要反覆分析，務求兩者的風格盡量相近。判定音高分為[MIDI的音名數值和](../Page/MIDI.md "wikilink")[滑音斜率](../Page/滑音.md "wikilink")。在音名數值中，組合VOCALOID
+alignment會有辨認錯誤的問題](https://zh.wikipedia.org/wiki/Viterbi_alignment "wikilink")，需要反覆分析，務求兩者的風格盡量相近。判定音高分為[MIDI的音名數值和](../Page/MIDI.md "wikilink")[滑音斜率](../Page/滑音.md "wikilink")。在音名數值中，組合VOCALOID
 2滑音斜率（PIT、Pitch Bend）和滑音斜率敏感度（PBS、Pitch Bend
 Sensitivity）最多可以做出高或低兩個[八度的滑音](../Page/八度.md "wikilink")，而音名數值由以下數式選擇（NoteNumber：音名數值、σ=0.03、t是音符長度。）：
 
@@ -28,11 +28,11 @@ Sensitivity）最多可以做出高或低兩個[八度的滑音](../Page/八度.
 
 ### VocaListener-plus
 
-這是編輯目標歌聲的技術，可以令歌聲有更廣闊的種類，但並非一定要使用。技術中分為兩種類，分別是改變[音高和改變歌唱風格的機能](../Page/音高.md "wikilink")。前者的改變音高，用途可以是修正[走音](../Page/走音.md "wikilink")，或可以合成原唱者不能唱出的音高。然而在音符較短的時候，可能會不能修正音高。後者可調整[振音的強弱](../Page/振音.md "wikilink")、音高、[音量的平滑感](../Page/音量.md "wikilink")，藉以改變歌唱風格，甚至加強歌唱的表現。
+這是編輯目標歌聲的技術，可以令歌聲有更廣闊的種類，但並非一定要使用。技術中分為兩種類，分別是改變[音高和改變歌唱風格的機能](../Page/音高.md "wikilink")。前者的改變音高，用途可以是修正[走音](https://zh.wikipedia.org/wiki/走音 "wikilink")，或可以合成原唱者不能唱出的音高。然而在音符較短的時候，可能會不能修正音高。後者可調整[振音的強弱](https://zh.wikipedia.org/wiki/振音 "wikilink")、音高、[音量的平滑感](https://zh.wikipedia.org/wiki/音量 "wikilink")，藉以改變歌唱風格，甚至加強歌唱的表現。
 
 ### VocaListener-front-end
 
-VocaListener-front-end則分為歌聲分析及歌聲合成，在歌聲分析中需要從原歌聲中抽出音高、音量、發音開始時間和[音長](../Page/音長.md "wikilink")。
+VocaListener-front-end則分為歌聲分析及歌聲合成，在歌聲分析中需要從原歌聲中抽出音高、音量、發音開始時間和[音長](https://zh.wikipedia.org/wiki/音長 "wikilink")。
 
   - 音高
     由以下數式轉換為[MIDI的](../Page/MIDI.md "wikilink")[音名數值](../Page/音名.md "wikilink")（fHz：[基本頻率](../Page/基本頻率.md "wikilink")、fNoteNumber：MIDI的音名數值）：
@@ -40,21 +40,21 @@ VocaListener-front-end則分為歌聲分析及歌聲合成，在歌聲分析中�
 \({fNoteNumber}={12}*{\log_2}\frac{fHz}{440}+{69}\)
 
   - 音量
-    由以下數式計算（N：窗幅、x(t)：聲音[波形](../Page/波形.md "wikilink")、h(t)：[窗函數](../Page/窗函數.md "wikilink")）：
+    由以下數式計算（N：窗幅、x(t)：聲音[波形](https://zh.wikipedia.org/wiki/波形 "wikilink")、h(t)：[窗函數](https://zh.wikipedia.org/wiki/窗函數 "wikilink")）：
 
 \(Pow(t)=\sum_{r=t-N/2}^{t+N/2} {\Big(\sqrt{(x(r)*h(r-t))^2}\Big)}\)
 
   -
-    技術中N為2048（約46[毫秒](../Page/毫秒.md "wikilink")）、h(t)為[漢寧（Hanning）窗](../Page/窗函数#Hann窗.md "wikilink")。
+    技術中N為2048（約46[毫秒](https://zh.wikipedia.org/wiki/毫秒 "wikilink")）、h(t)為[漢寧（Hanning）窗](https://zh.wikipedia.org/wiki/窗函数#Hann窗 "wikilink")。
   - 發音開始時間和音長
     使用Viterbi
-    alignment辨認音聲，再從歌詞轉換為[音素](../Page/音素.md "wikilink")，但偶然會有辨認錯誤，需要用戶修正。
+    alignment辨認音聲，再從歌詞轉換為[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")，但偶然會有辨認錯誤，需要用戶修正。
 
 ## 參見
 
-  - [語音合成](../Page/語音合成.md "wikilink")
+  - [語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
-  - [產業技術綜合研究所](../Page/產業技術綜合研究所.md "wikilink")
+  - [產業技術綜合研究所](https://zh.wikipedia.org/wiki/產業技術綜合研究所 "wikilink")
 
 ## 参考資料
 

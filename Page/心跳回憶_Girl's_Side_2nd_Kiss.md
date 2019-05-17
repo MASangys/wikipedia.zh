@@ -1,10 +1,10 @@
 《**心跳回憶 Girl's Side 2nd
-Kiss**》（）是[科樂美數位娛樂在](../Page/科樂美數位娛樂.md "wikilink")2006年8月3日發售的女性向[戀愛模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")，略稱為「GS2」，是《[心跳回憶
+Kiss**》（）是[科樂美數位娛樂在](../Page/科樂美數位娛樂.md "wikilink")2006年8月3日發售的女性向[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS2」，是《[心跳回憶
 Girl's Side
-系列](../Page/心跳回憶_Girl's_Side_系列.md "wikilink")》的第2彈。舞台是跟前作一樣是振翅市，不過主人公就讀的學校變成了「羽崎学園」。
+系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第2彈。舞台是跟前作一樣是振翅市，不過主人公就讀的學校變成了「羽崎学園」。
 
-2007年3月15日發售[PC版打字遊戲](../Page/個人電腦.md "wikilink")《心跳回憶 Girl's Side 2nd
-Kiss
+2007年3月15日發售[PC版打字遊戲](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")《心跳回憶
+Girl's Side 2nd Kiss
 Typing》。而在2008年2月14日發售[任天堂DS版戀愛模擬遊戲](../Page/任天堂DS.md "wikilink")《心跳回憶
 Girl's Side 2nd Season》，並增加新角色和新元素。
 
@@ -18,14 +18,14 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
     身高180cm（第一年：178cm，第二年：179cm），體重62kg。
     本集王子型的主角。成績優秀和運動萬能。跟前作主角葉月珪不同的，是經過後天努力才能成為文武兩道的王子。父母的家是距離振翅市很遠的地方。
     喜歡的顏色是水色。回家社。愛好的衣服是Pure系，其次則是Sexy系。
-    擅長泡咖啡和製作甜品，愛好是衝浪和在早上邊喝咖啡邊看日出。而且喜歡海、玻璃工藝、辛辣的食物（因為其不服輸的性格）。雖然不承認，其實也喜愛大[怪獸的物品](../Page/怪獸.md "wikilink")。另外極度害怕鬼怪，討厭在遊樂園玩鬼屋或到電影院看恐怖片。
+    擅長泡咖啡和製作甜品，愛好是衝浪和在早上邊喝咖啡邊看日出。而且喜歡海、玻璃工藝、辛辣的食物（因為其不服輸的性格）。雖然不承認，其實也喜愛大[怪獸的物品](https://zh.wikipedia.org/wiki/怪獸 "wikilink")。另外極度害怕鬼怪，討厭在遊樂園玩鬼屋或到電影院看恐怖片。
     表面上性格開朗隨和，在學校內外都能跟人（特別是女學生）好好的相處。實際的性格相當彆扭、好勝。討厭被別人看到暗地努力的一面。有時候會使出手刀。因為是處於青春期的少年，有色氣的時候，但總能控制自己不亂來。
     就算是表面上看來自然不造作的髮型，其實暗地每天花至少一小時梳弄。本身有嚴重近視和散光，但因覺得自己戴眼鏡的樣子不好看而配載隱形眼鏡。
     目標是成為咖啡的專門家，同時很重視祖父的咖啡店－珊瑚礁，一直對外隱瞞自己在珊瑚礁幫忙的實情，同時在珊瑚礁裡很受女顧客的歡迎。後來父母利用祖父的高齡和健康狀態作為理由使珊瑚礁關閉，不過，佐伯深明店對祖父包含重大意義，誓要保護店，跟父母對抗並搬到店裡幫忙及居住。並跟傑出人物主義的父母約定，在學校要保持著好成績，也不能在學校出亂子。
     若王子老師是除了女主角之外唯一知道珊瑚礁秘密的人。
     和針谷意外地合得來，並正在跟他學習吉他。但因缺乏節奏感演奏得相當惡劣。此外，對跳舞和唱歌也因此而不擅長。
     在修學旅行中，枕頭大戰的必殺技是「出來喲！大怪獸！makuranoginusu！」
-    在學年話劇中飾演《[人魚公主](../Page/人魚公主.md "wikilink")》的王子。
+    在學年話劇中飾演《[人魚公主](https://zh.wikipedia.org/wiki/人魚公主 "wikilink")》的王子。
     畢業後的出路是進入一流大學，並同時上咖啡專門家的課程。
 
 <!-- end list -->
@@ -44,7 +44,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
     雖然個性沉默，其實很受女同學們的歡迎。似乎與克里斯很合得來；另外天地翔太也似乎很崇拜他；跟哈利常常舉辦克服不拿手的東西的聚會。與真咲元春是兒時玩伴。
     不喜歡讀書，所以成績永遠都不好。
     在修學旅行中，枕頭大戰的必殺技是 「千本打撃」。
-    在學年話劇中飾演《[時代劇](../Page/時代劇.md "wikilink")》的[武士](../Page/武士.md "wikilink")。
+    在學年話劇中飾演《[時代劇](https://zh.wikipedia.org/wiki/時代劇 "wikilink")》的[武士](https://zh.wikipedia.org/wiki/武士 "wikilink")。
     畢業後的理想出路是到一流體育大學就讀。
     為嚇走向主人公搭訕的小混混，曾自稱為「狂犬志波」
 
@@ -61,7 +61,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
     剛登場的時候給人很嚴肅的感覺，但相處久後就能發現他害羞和可愛的一面。
     個性相當的一板一眼，曾被女主角說『像從指導手冊裡跳出來的一樣』。
     在修學旅行中，枕頭大戰的必殺技是 「生徒総会·必殺答辩！」。
-    在學年話劇中飾演《[仲夏夜之夢](../Page/仲夏夜之夢.md "wikilink")》的妖精王[奧布朗](../Page/奧布朗.md "wikilink")（Oberon）。
+    在學年話劇中飾演《[仲夏夜之夢](../Page/仲夏夜之夢.md "wikilink")》的妖精王[奧布朗](https://zh.wikipedia.org/wiki/奧布朗 "wikilink")（Oberon）。
     畢業後的出路是進入一流大學。
 
 <!-- end list -->
@@ -86,13 +86,13 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
     害怕鬼怪，但佐伯比較嚴重。
     對學習沒興趣所以成績不太好。
     在修學旅行中，枕頭大戰的必殺技是 「」。
-    在學年話劇中飾演《[真善美](../Page/真善美.md "wikilink")》的。
+    在學年話劇中飾演《[真善美](https://zh.wikipedia.org/wiki/真善美 "wikilink")》的。
     畢業後繼續進行音樂活動。
 
 <!-- end list -->
 
   - （Christopher Weatherfield）
-    [聲優](../Page/聲優.md "wikilink")：[神原大地](../Page/神原大地.md "wikilink")
+    [聲優](../Page/聲優.md "wikilink")：[神原大地](https://zh.wikipedia.org/wiki/神原大地 "wikilink")
     生日是2月23日，雙魚座。血型O型。
     身高183cm，體重65kg。
     喜歡的顏色是綠色。美術社。喜好的衣著是Sporty系。
@@ -139,7 +139,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
     是學生們的話題之一，經常被討論。例如有學生說喝過若王子老師的咖啡會變得聰明。
     除了主角之外，是學校裡唯一一個知道佐伯瑛的秘密的人。
     在修學旅行中，枕頭大戰的必殺技是 「科学忍法·白衣旋風」。
-    在學年話劇中飾演《[快樂王子](../Page/快樂王子.md "wikilink")》的王子。
+    在學年話劇中飾演《[快樂王子](https://zh.wikipedia.org/wiki/快樂王子 "wikilink")》的王子。
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 <!-- end list -->
 
   -
-    [聲優](../Page/聲優.md "wikilink")：[前田愛](../Page/前田愛.md "wikilink")
+    [聲優](../Page/聲優.md "wikilink")：[前田愛](https://zh.wikipedia.org/wiki/前田愛 "wikilink")
     生日是5月15日。金牛座。血型是A型。喜歡哈利
 
 <!-- end list -->
@@ -219,7 +219,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 ### 其他角色
 
   -
-    [聲優](../Page/聲優.md "wikilink")：[松崎史子](../Page/松崎史子.md "wikilink")
+    [聲優](../Page/聲優.md "wikilink")：[松崎史子](https://zh.wikipedia.org/wiki/松崎史子 "wikilink")
     前作登场的花椿吾郎的侄女。
     會稱主人公為「Daisy」
 
@@ -236,13 +236,13 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 <!-- end list -->
 
   -
-    [声优](../Page/声优.md "wikilink")：[矢田耕司](../Page/矢田耕司.md "wikilink")
+    [声优](https://zh.wikipedia.org/wiki/声优 "wikilink")：[矢田耕司](../Page/矢田耕司.md "wikilink")
     佐伯瑛的祖父，珊瑚礁的老闆。
 
 <!-- end list -->
 
   -
-    [声优](../Page/声优.md "wikilink")：[野上尤加奈](../Page/野上尤加奈.md "wikilink")
+    [声优](https://zh.wikipedia.org/wiki/声优 "wikilink")：[野上尤加奈](https://zh.wikipedia.org/wiki/野上尤加奈 "wikilink")
     前作女性角色之一，在花店打工會看到她。
 
 ## 主題歌
@@ -251,10 +251,12 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
 <!-- end list -->
 
-  - 主題曲 **「Stay」** - 主唱：[大浦祐一](../Page/大浦祐一.md "wikilink")
+  - 主題曲 **「Stay」** -
+    主唱：[大浦祐一](https://zh.wikipedia.org/wiki/大浦祐一 "wikilink")
   - 片尾曲 **「」** - 主唱：[Stardust
-    Revue](../Page/Stardust_Revue.md "wikilink")
-  - 插入歌 **「Lovin' Moon」** - 主唱：[camino](../Page/camino.md "wikilink")
+    Revue](https://zh.wikipedia.org/wiki/Stardust_Revue "wikilink")
+  - 插入歌 **「Lovin' Moon」** -
+    主唱：[camino](https://zh.wikipedia.org/wiki/camino "wikilink")
 
 <!-- end list -->
 
@@ -275,7 +277,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 ## 系列作品
 
   - 心跳回忆Girl's Side 2nd Kiss
-    Typing（[Win](../Page/Microsoft_Windows.md "wikilink")・[Mac](../Page/Macintosh.md "wikilink")）
+    Typing（[Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")・[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")）
   - 心跳回忆 Girl's Side 2nd Season（[NDS](../Page/任天堂DS.md "wikilink")）
 
 ## 关联商品
@@ -317,7 +319,7 @@ Girl's Side 2nd Season》，並增加新角色和新元素。
 
 ## 相關項目
 
-  - [心跳回憶](../Page/心跳回憶.md "wikilink")
+  - [心跳回憶](https://zh.wikipedia.org/wiki/心跳回憶 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
   - [心跳回憶 Girl's Side 3rd
     Story](../Page/心跳回憶_Girl's_Side_3rd_Story.md "wikilink")

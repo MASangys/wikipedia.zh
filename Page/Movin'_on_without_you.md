@@ -1,6 +1,7 @@
 **Movin' on without
 you**是[日本歌手](../Page/日本.md "wikilink")[宇多田光的第二張日文單曲](../Page/宇多田光.md "wikilink")，於1999年2月17日發行，分為兩個版本，8公分和標準的12公分版本。兩版本初動合共47萬，累計銷量122萬，成為年度第7單曲，延續了上張出道單曲{{〈}}[Automatic/time
-will tell](../Page/Automatic/time_will_tell.md "wikilink"){{〉}}的成功。
+will
+tell](https://zh.wikipedia.org/wiki/Automatic/time_will_tell "wikilink"){{〉}}的成功。
 
 ## 曲目
 

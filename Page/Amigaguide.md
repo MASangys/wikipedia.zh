@@ -9,7 +9,8 @@
     [JAGUaR](https://web.archive.org/web/20070312040433/http://home1.swipnet.se/~w-10967/Projex/Jaguar/)
   - [DOS](../Page/DOS.md "wikilink") -
     [AGView](ftp://k332.feld.cvut.cz/pub/local/lemming/AGView/AGview.arj)
-  - [Windows](../Page/Microsoft_Windows.md "wikilink") - [WinGuide (LHA
+  - [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
+    - [WinGuide (LHA
     archive)](http://main.aminet.net/misc/emu/winguide.lha) [WinGuide
     (ZIP
     archive)](http://www.safalra.com/hypertext/amigaguide/winguide.html)
@@ -25,7 +26,7 @@
   - [Amigaguide
     manual](http://www.lysator.liu.se/amiga/code/guide/amigaguide.guide)
 
-[分類:文件格式](../Page/分類:文件格式.md "wikilink")
+[分類:文件格式](https://zh.wikipedia.org/wiki/分類:文件格式 "wikilink")
 
 [Category:超文字](https://zh.wikipedia.org/wiki/Category:超文字 "wikilink")
 

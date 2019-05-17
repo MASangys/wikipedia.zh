@@ -4,25 +4,26 @@
 
 ### 經歷
 
-  - 結成團體的契機是於2004年推出的動畫「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」男主角鳴海孝之的角色歌，當時由鳴海的配音員谷山譜詞、而飯塚負責作、編曲，奠定了二人合作的基礎。而在這之後的一次機會下，遊戲公司「âge」的齊藤K、[Lantis現任副社長兼音樂製作人](../Page/Lantis.md "wikilink")[伊藤善之和谷山一起去唱卡拉OK時](../Page/伊藤善之.md "wikilink")，看到熱情歌唱的谷山後便決定讓這二人組成團體出道。
+  - 結成團體的契機是於2004年推出的動畫「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」男主角鳴海孝之的角色歌，當時由鳴海的配音員谷山譜詞、而飯塚負責作、編曲，奠定了二人合作的基礎。而在這之後的一次機會下，遊戲公司「âge」的齊藤K、[Lantis現任副社長兼音樂製作人](../Page/Lantis.md "wikilink")[伊藤善之和谷山一起去唱卡拉OK時](https://zh.wikipedia.org/wiki/伊藤善之 "wikilink")，看到熱情歌唱的谷山後便決定讓這二人組成團體出道。
   - 所有的作、編曲皆由e-ZUKA操刀，而歌詞除出道曲「[Go For
-    It\!](../Page/Go_For_It!.md "wikilink")」外皆為KISHOW所撰。以兩人偏好的[重金屬音樂](../Page/重金屬.md "wikilink")、[硬式搖滾為主軸](../Page/硬式搖滾.md "wikilink")，另外也在[流行樂](../Page/流行_\(音樂類型\).md "wikilink")、[另類搖滾](../Page/另類搖滾.md "wikilink")、[饒舌金屬](../Page/饒舌金屬.md "wikilink")、、[龐克搖滾](../Page/龐克搖滾.md "wikilink")、、、[放克](../Page/放克.md "wikilink")、[民俗音樂等等領域中製作出多樣的樂曲](../Page/民俗音樂.md "wikilink")。
+    It\!](https://zh.wikipedia.org/wiki/Go_For_It! "wikilink")」外皆為KISHOW所撰。以兩人偏好的[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬 "wikilink")、[硬式搖滾為主軸](../Page/硬式搖滾.md "wikilink")，另外也在[流行樂](../Page/流行_\(音樂類型\).md "wikilink")、[另類搖滾](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")、[饒舌金屬](../Page/饒舌金屬.md "wikilink")、、[龐克搖滾](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")、、、[放克](../Page/放克.md "wikilink")、[民俗音樂等等領域中製作出多樣的樂曲](https://zh.wikipedia.org/wiki/民俗音樂 "wikilink")。
   - 團名最初由KISHOW提名RODEO（英文、西班牙文鬥牛之意）後來因覺得似乎哪裡不夠而加上了GRAN（西班牙文，有大、華麗之意），便成為了現在團名GRANRODEO（グランロデオ），團名考慮時間為一個小時\[1\]。團名提供者除了KISHOW及e-ZUKA外，另一人為上述音樂製作人伊藤善之。（君のぞらじお談）
   - 主要成員雖只有KISHOW、e-ZUKA兩人，但現場演唱會時加入貝斯手、鼓手，以四人團體方式演出。
   - 2005年11月23發行首張單曲Go For It\!，此為動畫「IGPX」片頭主題曲。
   - 2007年7月25日推出首張專輯[RIDE ON THE
     EDGE](../Page/RIDE_ON_THE_EDGE.md "wikilink")，除了收錄以往的單曲外，另外還收錄了重新錄製的「[你所期望的永遠](../Page/你所期望的永遠.md "wikilink")」的角色歌及首張單曲。並在同年8月於橫濱BLITZ舉行首次的演唱會。
-  - 2008年推出第二張專輯[Instinct](../Page/Instinct.md "wikilink")，與首張專輯不同的是，這次為了整張專輯的平衡性，並沒有收錄以往所有的C/W歌曲，反而是增加了原創歌曲。同年年初也開始了首場的全國巡迴演唱會。
+  - 2008年推出第二張專輯[Instinct](https://zh.wikipedia.org/wiki/Instinct "wikilink")，與首張專輯不同的是，這次為了整張專輯的平衡性，並沒有收錄以往所有的C/W歌曲，反而是增加了原創歌曲。同年年初也開始了首場的全國巡迴演唱會。
   - 2008年8月，首度參與日本國內最大的動畫歌曲演唱會[Animelo Summer
     Live](../Page/Animelo_Summer_Live.md "wikilink")（簡稱ASL）
   - 2009年除了舉辦第二次巡迴演唱會外，同樣的也參與了ASL，另外也舉辦了首次的野外演唱會、男生限定演唱會等。10月推出了第三張專輯[BRUSH
-    the SCAR LEMON](../Page/BRUSH_the_SCAR_LEMON.md "wikilink")。
+    the SCAR
+    LEMON](https://zh.wikipedia.org/wiki/BRUSH_the_SCAR_LEMON "wikilink")。
   - 2010年5月3日舉辦成立五周年紀念的武道館演唱會，也是第一位在武道館開唱的男性聲優（全部的聲優為第六位）。
   - 2012年10月10日發售的第五張專輯「CRACK STAR
     FLASH」在10月10日當天的[Oricon公信榜取得專輯部門第一名的成績](../Page/Oricon公信榜.md "wikilink")。
   - 2012年7月1日開設官方FAN CLUB「ロデオ組」。
   - 2013年4月20日與4月21日在[橫濱體育館舉辦單獨演唱會](../Page/橫濱體育館.md "wikilink")。
-  - 預定2014年1月5日於[埼玉超級體育館](../Page/埼玉超級體育館.md "wikilink")，2月16日於大阪城ホール舉辦單獨演唱會。
+  - 預定2014年1月5日於[埼玉超級體育館](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，2月16日於大阪城ホール舉辦單獨演唱會。
   - 2018年3月10、11日與FLOW一同來台進行《FLOW×GRANRODEO 1st LIVE TOUR
     “Howling”》巡迴演唱\[2\]。
 
@@ -35,88 +36,89 @@
 ### 主要成員
 
   - [KISHOW](../Page/谷山紀章.md "wikilink")
-      - [作詞](../Page/作詞.md "wikilink")・[主唱](../Page/主唱.md "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
   - [e-ZUKA](../Page/飯塚昌明.md "wikilink")
-      - [作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[吉他](../Page/吉他.md "wikilink")
+      - [作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")・[吉他](../Page/吉他.md "wikilink")
 
 ### 次要成員
 
-  - [長井"VAL"一郎](../Page/長井"VAL"一郎.md "wikilink")
+  - [長井"VAL"一郎](https://zh.wikipedia.org/wiki/長井"VAL"一郎 "wikilink")
       - [爵士鼓](../Page/爵士鼓.md "wikilink")
-  - [瀧田イサム](../Page/瀧田イサム.md "wikilink")
-      - [貝斯](../Page/貝斯.md "wikilink")
+  - [瀧田イサム](https://zh.wikipedia.org/wiki/瀧田イサム "wikilink")
+      - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
 ## 作品
 
 ### 單曲
 
-※ 「最高名次」的來源為[oricon公信榜的週平均榜單](../Page/oricon公信榜.md "wikilink")。
+※
+「最高名次」的來源為[oricon公信榜的週平均榜單](https://zh.wikipedia.org/wiki/oricon公信榜 "wikilink")。
 
-|       | 發售日         | 標題                                                                       | 規格編號         | 最高名次       |
-| ----- | ----------- | ------------------------------------------------------------------------ | ------------ | ---------- |
-| 初回限定版 | 普通版         | 動畫版                                                                      |              |            |
-| 1st   | 2005年11月23日 | **[Go For It\!](../Page/Go_For_It!.md "wikilink")**                      |              | LACM-4230  |
-| 2nd   | 2006年7月26日  | **[Infinite Love](../Page/Infinite_Love.md "wikilink")**                 | LACM-4765    |            |
-| 3rd   | 2006年8月23日  | **[DECADENCE](../Page/DECADENCE.md "wikilink")**                         | LACM-4285    |            |
-| 4th   | 2007年1月24日  | **[慟哭ノ雨](../Page/慟哭ノ雨.md "wikilink")**                                   | LACM-4336    |            |
-| 5th   | 2007年5月23日  | **[HEAVEN](../Page/HEAVEN_\(GRANRODEO單曲\).md "wikilink")**               | LACM-4369    |            |
-| 6th   | 2007年12月26日 | **[delight song](../Page/delight_song.md "wikilink")**                   | LACM-4446    |            |
-| 7th   | 2008年4月23日  | **[NOT for SALE](../Page/NOT_for_SALE.md "wikilink")**                   | LACM-4482    |            |
-| 8th   | 2008年5月14日  | **[デタラメな残像](../Page/デタラメな残像.md "wikilink")**                             | LACM-4483    |            |
-| 9th   | 2008年12月10日 | **[Darlin'](../Page/Darlin'.md "wikilink")**                             | LACM-4483    |            |
-| 10th  | 2009年4月22日  | **[tRANCE](../Page/tRANCE.md "wikilink")**                               | LACM-4605    |            |
-| 11th  | 2009年7月29日  | **[modern strange cowboy](../Page/modern_strange_cowboy.md "wikilink")** | LASM-4016    |            |
-| 12th  | 2009年12月9日  | **[恋音](../Page/恋音.md "wikilink")**                                       | LASM-4039    |            |
-| 13th  | 2010年4月28日  | **[We wanna R\&R SHOW](../Page/We_wanna_R&R_SHOW.md "wikilink")**        | LASM-4054    |            |
-| 14th  | 2010年10月27日 | **[ROSE HIP-BULLET](../Page/ROSE_HIP-BULLET.md "wikilink")**             | LASM-34078/9 | LASM-4078  |
-| 15th  | 2011年11月23日 | **[愛のWarrior](../Page/愛のWarrior.md "wikilink")**                         | LASM-34120/1 | LASM-4120  |
-| 16th  | 2012年4月18日  | ****                                                                     | LACM-34916/7 | LACM-4916  |
-| 17th  | 2012年7月18日  | ****                                                                     | LACM-34948/9 | LACM-4948  |
-| 18th  | 2012年11月7日  | ****                                                                     | LACM-34020   | LACM-14020 |
-| 19th  | 2013年4月17日  | ****                                                                     | LACM-34066   | LACM-14066 |
-| 20th  | 2013年10月16日 | ****                                                                     | LACM-34140   | LACM-14140 |
-| 21th  | 2014年2月12日  | ****                                                                     | LACM-34189   | LACM-14189 |
-| 22nd  | 2015年1月28日  | ****                                                                     | LACM-34298   | LACM-14298 |
-| 23rd  | 2015年6月3日   | ****                                                                     | LACM-34346   | LACM-14346 |
-| 24th  | 2016年4月13日  | **[TRASH CANDY](../Page/TRASH_CANDY.md "wikilink")**                     | LACM-34465   | LACM-14465 |
-| 25th  | 2016年11月23日 | ****                                                                     | LACM-34555   | LACM-14555 |
-| 26th  | 2017年3月22日  | **[Glorious days](../Page/Glorious_days.md "wikilink")**                 | LACM-34585   | LACM-14585 |
-| 27th  | 2017年8月2日   | **[move on\! イバラミチ](../Page/move_on!_イバラミチ.md "wikilink")**              | LACM-34625   | LACM-14625 |
-| 28th  | 2018年2月21日  | **[Deadly Drive](../Page/Deadly_Drive.md "wikilink")**                   | LACM-34729   | LACM-14729 |
-| 29th  | 2018年7月11日  | **[BEASTFUL](../Page/BEASTFUL.md "wikilink")**                           | LACM-34772   | LACM-14772 |
-| 30th  | 2019年5月8日   | **[セツナの愛](../Page/セツナの愛.md "wikilink")**                                 |              |            |
+|       | 發售日         | 標題                                                                                          | 規格編號         | 最高名次       |
+| ----- | ----------- | ------------------------------------------------------------------------------------------- | ------------ | ---------- |
+| 初回限定版 | 普通版         | 動畫版                                                                                         |              |            |
+| 1st   | 2005年11月23日 | **[Go For It\!](https://zh.wikipedia.org/wiki/Go_For_It! "wikilink")**                      |              | LACM-4230  |
+| 2nd   | 2006年7月26日  | **[Infinite Love](../Page/Infinite_Love.md "wikilink")**                                    | LACM-4765    |            |
+| 3rd   | 2006年8月23日  | **[DECADENCE](https://zh.wikipedia.org/wiki/DECADENCE "wikilink")**                         | LACM-4285    |            |
+| 4th   | 2007年1月24日  | **[慟哭ノ雨](https://zh.wikipedia.org/wiki/慟哭ノ雨 "wikilink")**                                   | LACM-4336    |            |
+| 5th   | 2007年5月23日  | **[HEAVEN](https://zh.wikipedia.org/wiki/HEAVEN_\(GRANRODEO單曲\) "wikilink")**               | LACM-4369    |            |
+| 6th   | 2007年12月26日 | **[delight song](https://zh.wikipedia.org/wiki/delight_song "wikilink")**                   | LACM-4446    |            |
+| 7th   | 2008年4月23日  | **[NOT for SALE](https://zh.wikipedia.org/wiki/NOT_for_SALE "wikilink")**                   | LACM-4482    |            |
+| 8th   | 2008年5月14日  | **[デタラメな残像](https://zh.wikipedia.org/wiki/デタラメな残像 "wikilink")**                             | LACM-4483    |            |
+| 9th   | 2008年12月10日 | **[Darlin'](https://zh.wikipedia.org/wiki/Darlin' "wikilink")**                             | LACM-4483    |            |
+| 10th  | 2009年4月22日  | **[tRANCE](https://zh.wikipedia.org/wiki/tRANCE "wikilink")**                               | LACM-4605    |            |
+| 11th  | 2009年7月29日  | **[modern strange cowboy](https://zh.wikipedia.org/wiki/modern_strange_cowboy "wikilink")** | LASM-4016    |            |
+| 12th  | 2009年12月9日  | **[恋音](../Page/恋音.md "wikilink")**                                                          | LASM-4039    |            |
+| 13th  | 2010年4月28日  | **[We wanna R\&R SHOW](https://zh.wikipedia.org/wiki/We_wanna_R&R_SHOW "wikilink")**        | LASM-4054    |            |
+| 14th  | 2010年10月27日 | **[ROSE HIP-BULLET](../Page/ROSE_HIP-BULLET.md "wikilink")**                                | LASM-34078/9 | LASM-4078  |
+| 15th  | 2011年11月23日 | **[愛のWarrior](https://zh.wikipedia.org/wiki/愛のWarrior "wikilink")**                         | LASM-34120/1 | LASM-4120  |
+| 16th  | 2012年4月18日  | ****                                                                                        | LACM-34916/7 | LACM-4916  |
+| 17th  | 2012年7月18日  | ****                                                                                        | LACM-34948/9 | LACM-4948  |
+| 18th  | 2012年11月7日  | ****                                                                                        | LACM-34020   | LACM-14020 |
+| 19th  | 2013年4月17日  | ****                                                                                        | LACM-34066   | LACM-14066 |
+| 20th  | 2013年10月16日 | ****                                                                                        | LACM-34140   | LACM-14140 |
+| 21th  | 2014年2月12日  | ****                                                                                        | LACM-34189   | LACM-14189 |
+| 22nd  | 2015年1月28日  | ****                                                                                        | LACM-34298   | LACM-14298 |
+| 23rd  | 2015年6月3日   | ****                                                                                        | LACM-34346   | LACM-14346 |
+| 24th  | 2016年4月13日  | **[TRASH CANDY](https://zh.wikipedia.org/wiki/TRASH_CANDY "wikilink")**                     | LACM-34465   | LACM-14465 |
+| 25th  | 2016年11月23日 | ****                                                                                        | LACM-34555   | LACM-14555 |
+| 26th  | 2017年3月22日  | **[Glorious days](https://zh.wikipedia.org/wiki/Glorious_days "wikilink")**                 | LACM-34585   | LACM-14585 |
+| 27th  | 2017年8月2日   | **[move on\! イバラミチ](https://zh.wikipedia.org/wiki/move_on!_イバラミチ "wikilink")**              | LACM-34625   | LACM-14625 |
+| 28th  | 2018年2月21日  | **[Deadly Drive](https://zh.wikipedia.org/wiki/Deadly_Drive "wikilink")**                   | LACM-34729   | LACM-14729 |
+| 29th  | 2018年7月11日  | **[BEASTFUL](https://zh.wikipedia.org/wiki/BEASTFUL "wikilink")**                           | LACM-34772   | LACM-14772 |
+| 30th  | 2019年5月8日   | **[セツナの愛](https://zh.wikipedia.org/wiki/セツナの愛 "wikilink")**                                 |              |            |
 
 ### 專輯
 
 #### 專輯
 
-|       | 發售日         | タイトル                                                           | 規格編號          | 最高名次       |
-| ----- | ----------- | -------------------------------------------------------------- | ------------- | ---------- |
-| 初回限定版 | 普通版         |                                                                |               |            |
-| 1st   | 2007年7月25日  | **[RIDE ON THE EDGE](../Page/RIDE_ON_THE_EDGE.md "wikilink")** | \-            | LACA-5670  |
-| 2nd   | 2008年9月24日  | ****                                                           | LACA-5810     | 第18名       |
-| 3rd   | 2009年10月28日 | ****                                                           | LASA-35024    | LASA-5024  |
-| 4th   | 2011年4月6日   | **[SUPERNOVA](../Page/SUPERNOVA.md "wikilink")**               | LASA-35094/95 | LASA-5094  |
-| 5th   | 2012年10月10日 | ****                                                           | LACA-35240    | LACA-15240 |
-| 6th   | 2014年9月24日  | ****                                                           | LACA-35430    | LACA-15430 |
-| 7th   | 2017年2月8日   | **[Pierrot Dancin'](../Page/Pierrot_Dancin'.md "wikilink")**   | LACA-35640    | LACA-15640 |
-| 8th   | 2019年5月15日  | **[FAB LOVE](../Page/FAB_LOVE.md "wikilink")**                 |               |            |
-|       |             |                                                                |               |            |
+|       | 發售日         | タイトル                                                                            | 規格編號          | 最高名次       |
+| ----- | ----------- | ------------------------------------------------------------------------------- | ------------- | ---------- |
+| 初回限定版 | 普通版         |                                                                                 |               |            |
+| 1st   | 2007年7月25日  | **[RIDE ON THE EDGE](../Page/RIDE_ON_THE_EDGE.md "wikilink")**                  | \-            | LACA-5670  |
+| 2nd   | 2008年9月24日  | ****                                                                            | LACA-5810     | 第18名       |
+| 3rd   | 2009年10月28日 | ****                                                                            | LASA-35024    | LASA-5024  |
+| 4th   | 2011年4月6日   | **[SUPERNOVA](https://zh.wikipedia.org/wiki/SUPERNOVA "wikilink")**             | LASA-35094/95 | LASA-5094  |
+| 5th   | 2012年10月10日 | ****                                                                            | LACA-35240    | LACA-15240 |
+| 6th   | 2014年9月24日  | ****                                                                            | LACA-35430    | LACA-15430 |
+| 7th   | 2017年2月8日   | **[Pierrot Dancin'](https://zh.wikipedia.org/wiki/Pierrot_Dancin' "wikilink")** | LACA-35640    | LACA-15640 |
+| 8th   | 2019年5月15日  | **[FAB LOVE](https://zh.wikipedia.org/wiki/FAB_LOVE "wikilink")**               |               |            |
+|       |             |                                                                                 |               |            |
 
 #### 迷你專輯
 
-|       | 發售日         | 標題                                                        | 規格編號       | 最高名次       |
-| ----- | ----------- | --------------------------------------------------------- | ---------- | ---------- |
-| 初回限定版 | 普通版         |                                                           |            |            |
-| 1st   | 2018年10月24日 | *' [M・S COWBOYの逆襲](../Page/M・S_COWBOYの逆襲.md "wikilink")*' | LACA-35739 | LACA-15739 |
+|       | 發售日         | 標題                                                                           | 規格編號       | 最高名次       |
+| ----- | ----------- | ---------------------------------------------------------------------------- | ---------- | ---------- |
+| 初回限定版 | 普通版         |                                                                              |            |            |
+| 1st   | 2018年10月24日 | *' [M・S COWBOYの逆襲](https://zh.wikipedia.org/wiki/M・S_COWBOYの逆襲 "wikilink")*' | LACA-35739 | LACA-15739 |
 
 #### 精選輯
 
-| 發售日        | 標題                                                                                           | 規格編號         | 最高名次 |
-| ---------- | -------------------------------------------------------------------------------------------- | ------------ | ---- |
-| 2012年2月15日 | **[GRANRODEO B‐side Collection "W"](../Page/GRANRODEO_B‐side_Collection_"W".md "wikilink")** | LASA-9023〜24 | 第25名 |
-| 2013年3月6日  | **GRANRODEO GREATEST HITS 〜GIFT REGISTRY〜**                                                  | LACA-9270〜71 | 第9名  |
-| 2015年9月30日 | **GRANRODEO BEST ALBUM DECADE OF GR**                                                        | LACA-9414/5  | 第5名  |
+| 發售日        | 標題                                                                                                              | 規格編號         | 最高名次 |
+| ---------- | --------------------------------------------------------------------------------------------------------------- | ------------ | ---- |
+| 2012年2月15日 | **[GRANRODEO B‐side Collection "W"](https://zh.wikipedia.org/wiki/GRANRODEO_B‐side_Collection_"W" "wikilink")** | LASA-9023〜24 | 第25名 |
+| 2013年3月6日  | **GRANRODEO GREATEST HITS 〜GIFT REGISTRY〜**                                                                     | LACA-9270〜71 | 第9名  |
+| 2015年9月30日 | **GRANRODEO BEST ALBUM DECADE OF GR**                                                                           | LACA-9414/5  | 第5名  |
 
 ### 參加作品
 
@@ -182,24 +184,24 @@
 
 ### DVD、BD
 
-| 張                                           | 發售日                     | 標題                                                                  | [規格編號](../Page/規格編號.md "wikilink") |
-| ------------------------------------------- | ----------------------- | ------------------------------------------------------------------- | ---------------------------------- |
-| 1                                           | 2007年11月21日             | ''' GRANRODEO First LIVE "RIDE ON THE EDGE" '''                     | LABM-7018〜7019                     |
-| 2                                           | 2008年6月25日              | ''' GRANRODEO First LIVE TOUR "RODEO DELIGHT" '''                   | LABM-7024                          |
-| 3                                           | 2009年5月27日              | ''' GRANRODEO LIVE TOUR 2008-2009 "ROCK INSTINCT" '''               | LASD-7003〜7004                     |
-| 4                                           | 2009年6月24日              | ''' GR-VW01 〜GRANRODEO VISUAL WORKS VOL.01〜 '''                     | LASD-7005                          |
-| 5                                           | 2010年4月28日              | ''' LIVE canned GRANRODEO '''                                       | LASD-7008〜7010                     |
-| 6                                           | 2010年8月25日              | '''GRANRODEO LIVE AT BUDOKAN 〜G5 ROCK★SHOW〜 '''                     | LASD-7011〜7012(DVD)                |
-| 2010年11月23日                                 | LASX-8009〜8010(Blu-ray) |                                                                     |                                    |
-| 7                                           | 2011年9月21日              | ''' GR-VW02 〜GRANRODEO VISUAL WORKS VOL.02〜 '''                     | LASD-7021                          |
-| 8                                           | 2012年3月21日              | ''' GRANRODEO LIVE 2011 G6 ROCK☆SHOW ～SUPERNOVA FEVER～ LIVE DVD ''' | LASD-7030〜7031                     |
-| 9                                           | 2013年9月25日              | ''' GRANRODEO G8 ROCK☆SHOW LIVE DVD '''                             | LABM-7131〜LABM-7133                |
-| ''' GRANRODEO G8 ROCK☆SHOW LIVE Blu-ray ''' | LABX-8039〜LABX-8041     |                                                                     |                                    |
-|                                             |                         |                                                                     |                                    |
-| 10                                          | 2014年10月22日             | ''' GRANRODEO LIVE 2014 G9 ROCK☆SHOW DVD '''                        | LABM-7156〜LABM-7158                |
-| ''' GRANRODEO LIVE 2014 G9 ROCK☆SHOW BD ''' | LABX-8081〜LABX-8083     |                                                                     |                                    |
-|                                             |                         |                                                                     |                                    |
-| 11                                          | 2015年7月19日              | ''' ロデオ倶楽部～season II '''                                            | LZM-2132～LZM-2133                  |
+| 張                                           | 發售日                     | 標題                                                                  | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| ------------------------------------------- | ----------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- |
+| 1                                           | 2007年11月21日             | ''' GRANRODEO First LIVE "RIDE ON THE EDGE" '''                     | LABM-7018〜7019                                        |
+| 2                                           | 2008年6月25日              | ''' GRANRODEO First LIVE TOUR "RODEO DELIGHT" '''                   | LABM-7024                                             |
+| 3                                           | 2009年5月27日              | ''' GRANRODEO LIVE TOUR 2008-2009 "ROCK INSTINCT" '''               | LASD-7003〜7004                                        |
+| 4                                           | 2009年6月24日              | ''' GR-VW01 〜GRANRODEO VISUAL WORKS VOL.01〜 '''                     | LASD-7005                                             |
+| 5                                           | 2010年4月28日              | ''' LIVE canned GRANRODEO '''                                       | LASD-7008〜7010                                        |
+| 6                                           | 2010年8月25日              | '''GRANRODEO LIVE AT BUDOKAN 〜G5 ROCK★SHOW〜 '''                     | LASD-7011〜7012(DVD)                                   |
+| 2010年11月23日                                 | LASX-8009〜8010(Blu-ray) |                                                                     |                                                       |
+| 7                                           | 2011年9月21日              | ''' GR-VW02 〜GRANRODEO VISUAL WORKS VOL.02〜 '''                     | LASD-7021                                             |
+| 8                                           | 2012年3月21日              | ''' GRANRODEO LIVE 2011 G6 ROCK☆SHOW ～SUPERNOVA FEVER～ LIVE DVD ''' | LASD-7030〜7031                                        |
+| 9                                           | 2013年9月25日              | ''' GRANRODEO G8 ROCK☆SHOW LIVE DVD '''                             | LABM-7131〜LABM-7133                                   |
+| ''' GRANRODEO G8 ROCK☆SHOW LIVE Blu-ray ''' | LABX-8039〜LABX-8041     |                                                                     |                                                       |
+|                                             |                         |                                                                     |                                                       |
+| 10                                          | 2014年10月22日             | ''' GRANRODEO LIVE 2014 G9 ROCK☆SHOW DVD '''                        | LABM-7156〜LABM-7158                                   |
+| ''' GRANRODEO LIVE 2014 G9 ROCK☆SHOW BD ''' | LABX-8081〜LABX-8083     |                                                                     |                                                       |
+|                                             |                         |                                                                     |                                                       |
+| 11                                          | 2015年7月19日              | ''' ロデオ倶楽部～season II '''                                            | LZM-2132～LZM-2133                                     |
 
 ## 演出
 
@@ -365,7 +367,7 @@
 <td><p>2010年</p></td>
 <td><p>GRANRODEO 5TH ANNIVERSARY EVENT "GR感謝祭" ～オレとオマエとグランロデオ～</p></td>
 <td><div class="NavContent" style="text-align:center;">
-<p>11月23日　<a href="../Page/NHKホール.md" title="wikilink">NHKホール</a><br />
+<p>11月23日　<a href="https://zh.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a><br />
 </p>
 </div></td>
 </tr>

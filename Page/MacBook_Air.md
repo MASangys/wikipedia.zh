@@ -2,12 +2,12 @@
 Jobs）於2008年1月在Macworld大會上首次展示MacBook Air\]\]
 
 **MacBook
-Air**是[蘋果公司](../Page/蘋果公司.md "wikilink")（Apple）開發的一款超薄型[麥金塔](../Page/麥金塔電腦.md "wikilink")[手提電腦](../Page/手提電腦.md "wikilink")，於2008年1月15日時首次發佈。蘋果公司聲稱這部電腦是「世上最薄的筆記本電腦」\[1\]，最新版本最厚部位只有厚，而最薄部位更只有。但實際上根據量測部位的不同，其他廠商有更薄的手提電腦。\[2\]\[3\]英特尔公司因為受到苹果的MacBook
-Air的影响提出了“[超极本](../Page/超极本.md "wikilink")”的手提电脑架构。
+Air**是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（Apple）開發的一款超薄型[麥金塔](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")[手提電腦](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")，於2008年1月15日時首次發佈。蘋果公司聲稱這部電腦是「世上最薄的筆記本電腦」\[1\]，最新版本最厚部位只有厚，而最薄部位更只有。但實際上根據量測部位的不同，其他廠商有更薄的手提電腦。\[2\]\[3\]英特尔公司因為受到苹果的MacBook
+Air的影响提出了“[超极本](https://zh.wikipedia.org/wiki/超极本 "wikilink")”的手提电脑架构。
 
 2010年10月20日，苹果发布了新款13.3寸MacBook
 Air。新款拥有更轻的外壳，更高分辨率的显示屏，以及更大的电池容量。并使用[固态硬盘取代了传统的硬盘驱动器](../Page/固态硬盘.md "wikilink")。去除了固态硬盘的外壳并将其内部的主控和闪存芯片直接集成在主板上，内存储器芯片也一样，减少了空间占用。同时发布的还有首次被公布的11.6寸型号。變得更轻、更薄、更便宜，性能和电池容量相比13.3寸版有所降低，但仍然比一般[上网本的性能強悍不少](../Page/上网本.md "wikilink")。MacBook
-Air在2011年取代停产的MacBook系列[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")[麥金塔手提电脑](../Page/麥金塔笔记本电脑.md "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]
+Air在2011年取代停产的MacBook系列[聚碳酸酯外壳](../Page/聚碳酸酯.md "wikilink")[麥金塔手提电脑](https://zh.wikipedia.org/wiki/麥金塔笔记本电脑 "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]
 
 2011年7月20日，相隔9個月後，苹果发布了更新的第三代13.3寸及11.6寸MacBook
 Air。在2012年WWDC大会上，苹果发布了升级的第四代MacBook
@@ -21,28 +21,28 @@ Air，配备更新的第四代Intel Core处理器，同時降低了售價。
 
 2018年10月，苹果推出新一代13.3寸MacBook Air，搭载了第八代Intel Core i5
 8210Y处理器、[Retina顯示器](../Page/Retina显示屏.md "wikilink")、[Touch
-ID](../Page/Touch_ID.md "wikilink")、[Thunderbolt
+ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")、[Thunderbolt
 3連接埠和蝶式键盘](../Page/Thunderbolt.md "wikilink")。
 
 ## 特色
 
-作为现代工业设计的领先者，[苹果公司在MacBook](../Page/苹果公司.md "wikilink")
+作为现代工业设计的领先者，[苹果公司在MacBook](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")
 Air上做出了不少大胆创新的设计，有些甚至是前无古人的。
 
-1.  它是很长一段时间内全球最薄的[笔记本电脑之一](../Page/笔记本电脑.md "wikilink")，厚度最薄处约0.11英寸，最厚处约0.68英寸。
+1.  它是很长一段时间内全球最薄的[笔记本电脑之一](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，厚度最薄处约0.11英寸，最厚处约0.68英寸。
 2.  除2018年版本外，使用磁力吸附的MagSafe 2电源接口。
-3.  Multitouch（[多点触控](../Page/多点触控.md "wikilink")）多重触控式触摸板。这和新[MacBook
+3.  Multitouch（[多点触控](https://zh.wikipedia.org/wiki/多点触控 "wikilink")）多重触控式触摸板。这和新[MacBook
     Pro的触摸板一模一样](../Page/MacBook_Pro.md "wikilink")。多重式触摸板不但可以在两只手指并排时轻敲触摸板代替右击，而且还可以让MacBook
-    Air像[iPhone一样自由操控](../Page/iPhone.md "wikilink")。2018版使用了Force Touch
-    压感触摸板。
+    Air像[iPhone一样自由操控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2018版使用了Force
+    Touch 压感触摸板。
 4.  一體成形的機身設計，包含機身本體與顯示螢幕的边框皆以镁铝合金製成。2018版更是100%由回收铝合金制成。
 
 ## 規格
 
-2012版的機種有四种規格，售價從$899[美元到](../Page/美元.md "wikilink")$1499美元不等\[9\]，兩者的[處理器均採用](../Page/處理器.md "wikilink")[英特爾特別為這部超薄電腦所打造的](../Page/英特爾.md "wikilink")[Intel
+2012版的機種有四种規格，售價從$899[美元到](../Page/美元.md "wikilink")$1499美元不等\[9\]，兩者的[處理器均採用](https://zh.wikipedia.org/wiki/處理器 "wikilink")[英特爾特別為這部超薄電腦所打造的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Intel
 Core i5及](../Page/Intel_Core_i5.md "wikilink")[Intel Core
-i7](../Page/Intel_Core_i7.md "wikilink")
-[Haswell雙核心處理器](../Page/Haswell.md "wikilink")。2018版则为$1199起步，采用第八代Intel
+i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")
+[Haswell雙核心處理器](https://zh.wikipedia.org/wiki/Haswell "wikilink")。2018版则为$1199起步，采用第八代Intel
 Core i5处理器。其他机种的詳細規格如下： {{-}}
 
 |  |    |  |    |
@@ -126,12 +126,12 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/前端总线.md" title="wikilink">前端总线</a>/<a href="../Page/DMI.md" title="wikilink">DMI</a></p></td>
-<td><p>800 <a href="../Page/MHz.md" title="wikilink">MHz</a></p></td>
+<td><p><a href="../Page/前端总线.md" title="wikilink">前端总线</a>/<a href="https://zh.wikipedia.org/wiki/DMI" title="wikilink">DMI</a></p></td>
+<td><p>800 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a></p></td>
 <td><p>1066 MHz</p></td>
 <td><p>800 MHz (11") 或 1066 MHz (13")</p></td>
-<td><p>Intel <a href="../Page/DMI.md" title="wikilink">DMI</a> 2.5 GT/s</p></td>
-<td><p>Intel <a href="../Page/DMI.md" title="wikilink">DMI</a> 5 GT/s</p></td>
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/DMI" title="wikilink">DMI</a> 2.5 GT/s</p></td>
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/DMI" title="wikilink">DMI</a> 5 GT/s</p></td>
 <td><p>On Package Interface (OPI) 8.0 GT/s</p></td>
 <td><p>4 GT/s On Package DMI interconnect Interface 3.0 (OPI)</p></td>
 <td></td>
@@ -144,8 +144,8 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/处理器.md" title="wikilink">处理器</a></p></td>
-<td><p>1.6 <a href="../Page/GHz.md" title="wikilink">GHz</a>（P7500）或 1.8 GHz（P7700）<a href="../Page/Intel_Core_2.md" title="wikilink">Intel Core 2 Duo</a>， 4 MB 芯片共享二级缓存</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/处理器" title="wikilink">处理器</a></p></td>
+<td><p>1.6 <a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>（P7500）或 1.8 GHz（P7700）<a href="https://zh.wikipedia.org/wiki/Intel_Core_2" title="wikilink">Intel Core 2 Duo</a>， 4 MB 芯片共享二级缓存</p></td>
 <td><p>1.6 GHz （SL9300） 或 1.86 GHz （SL9400） Intel Core 2 Duo ， 6 MB 芯片共享二级缓存</p></td>
 <td><p>1.86 GHz（SL9400）或 2.13 GHz（SL9600）Intel Core 2 Duo ，6 MB 芯片共享二级缓存</p></td>
 <td><p>1.4 GHz（SU9400）Intel Core 2 Duo，3 MB 芯片共享二级缓存<br />
@@ -190,15 +190,15 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/内存.md" title="wikilink">内存</a></p></td>
-<td><p>2 GB 667 MHz <a href="../Page/DDR2.md" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a></p></td>
-<td><p>2 GB 1066 MHz <a href="../Page/DDR3.md" title="wikilink">DDR3</a> SDRAM</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/内存" title="wikilink">内存</a></p></td>
+<td><p>2 GB 667 MHz <a href="https://zh.wikipedia.org/wiki/DDR2" title="wikilink">DDR2</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a></p></td>
+<td><p>2 GB 1066 MHz <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a> SDRAM</p></td>
 <td><p>2 GB 1066 MHz DDR3 SDRAM<br />
 <span style="color: #969696"><em>可选 4 GB</em></span></p></td>
-<td><p>2 GB (11" 低配机型；<span style="color: #969696"><em>可选 4 GB</em></span>) 或者 4 GB 1333 MHz <a href="../Page/DDR3.md" title="wikilink">DDR3</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>（其余机型）</p></td>
+<td><p>2 GB (11" 低配机型；<span style="color: #969696"><em>可选 4 GB</em></span>) 或者 4 GB 1333 MHz <a href="https://zh.wikipedia.org/wiki/DDR3" title="wikilink">DDR3</a> <a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>（其余机型）</p></td>
 <td><p>4 GB 1600 MHz DDR3L SDRAM<br />
 <span style="color: #969696"><em>可选 8 GB</em></span></p></td>
-<td><p>4 GB 1600 MHz <a href="../Page/LPDDR3.md" title="wikilink">LPDDR3</a> SDRAM<br />
+<td><p>4 GB 1600 MHz <a href="https://zh.wikipedia.org/wiki/LPDDR3" title="wikilink">LPDDR3</a> SDRAM<br />
 <span style="color: #969696"><em>可选 8 GB</em></span></p></td>
 <td><p>8 GB of 1600 MHz LPDDR3 SDRAM</p></td>
 <td><p>8 GB of 2133 MHz LPDDR3 SDRAM<br />
@@ -212,12 +212,12 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/存储设备.md" title="wikilink">存储设备</a></p></td>
-<td><p>80 GB 1.8英寸 <a href="../Page/ATA.md" title="wikilink">ATA</a>，4200-rpm HDD 或者 64 GB <a href="../Page/固态硬碟.md" title="wikilink">固态硬碟</a></p></td>
-<td><p>120<a href="../Page/GB.md" title="wikilink">GB</a> 1.8英寸 4200-rpm Serial <a href="../Page/ATA.md" title="wikilink">ATA</a> 硬碟或 128 <a href="../Page/GB.md" title="wikilink">GB</a> <a href="../Page/固态硬碟.md" title="wikilink">固态硬碟</a></p></td>
-<td><p>64，128 或 256 GB 的<a href="../Page/固态硬碟.md" title="wikilink">固态硬碟</a></p></td>
-<td><p>64，128(<span style="color: #969696"><em>可选 256GB</em></span>) 或 256 GB 的<a href="../Page/固态硬碟.md" title="wikilink">固态硬碟</a></p></td>
-<td><p>64，128(11" 高配机型；<span style="color: #969696"><em>可选 256 GB或 512 GB</em></span>) 或 128，256 GB (13" 高配机型; <span style="color: #969696"><em>可选 512 GB</em></span>)的<a href="../Page/固态硬碟.md" title="wikilink">固态硬碟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/存储设备" title="wikilink">存储设备</a></p></td>
+<td><p>80 GB 1.8英寸 <a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a>，4200-rpm HDD 或者 64 GB <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>120<a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> 1.8英寸 4200-rpm Serial <a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a> 硬碟或 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>64，128 或 256 GB 的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>64，128(<span style="color: #969696"><em>可选 256GB</em></span>) 或 256 GB 的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>64，128(11" 高配机型；<span style="color: #969696"><em>可选 256 GB或 512 GB</em></span>) 或 128，256 GB (13" 高配机型; <span style="color: #969696"><em>可选 512 GB</em></span>)的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
 <td><p>128 GB 或 256 GB PCIe-based SSD <span style="color: #969696"><em>可选 512 GB</em></span></p></td>
 <td><p>128 GB PCIe-based SSD<span style="color: #969696"><em>可选 256GB&amp;512GB&amp;;1.5TB</em></span></p></td>
 <td></td>
@@ -230,7 +230,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/光驱.md" title="wikilink">光驱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光驱" title="wikilink">光驱</a></p></td>
 <td><p>无，<span style="color: #969696"><em>可选外接 <a href="../Page/USB.md" title="wikilink">USB</a> MacBook Air SuperDrive</em></span>或全新的Apple USB SuperDrive。</p></td>
 <td></td>
 <td></td>
@@ -248,7 +248,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/显示屏.md" title="wikilink">显示屏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/显示屏" title="wikilink">显示屏</a></p></td>
 <td><p>13.3", 最大支持 1280 × 800 (16:10)</p></td>
 <td><p>11.6", 最大支持 1366 × 768 (16:9)<br />
 13.3", 最大支持 1440 × 900 (16:10)</p></td>
@@ -267,10 +267,10 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/显卡.md" title="wikilink">显卡</a></p></td>
-<td><p>Intel <a href="../Page/GMA.md" title="wikilink">GMA</a> X3100 图像处理器，与主内存共享的 144 MB DDR2 SDRAM 显存</p></td>
-<td><p><a href="../Page/NVIDIA.md" title="wikilink">NVIDIA</a> <a href="../Page/GeForce_9_系列.md" title="wikilink">GeForce 9400M</a> 图形处理器，与主内存共享的 256 MB DDR3 SDRAM 显存</p></td>
-<td><p>NVIDIA <a href="../Page/GeForce_300系列.md" title="wikilink">GeForce 320M</a> 图形处理器，与主内存共享的 256 MB DDR3 SDRAM 显存</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/显卡" title="wikilink">显卡</a></p></td>
+<td><p>Intel <a href="https://zh.wikipedia.org/wiki/GMA" title="wikilink">GMA</a> X3100 图像处理器，与主内存共享的 144 MB DDR2 SDRAM 显存</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NVIDIA" title="wikilink">NVIDIA</a> <a href="https://zh.wikipedia.org/wiki/GeForce_9_系列" title="wikilink">GeForce 9400M</a> 图形处理器，与主内存共享的 256 MB DDR3 SDRAM 显存</p></td>
+<td><p>NVIDIA <a href="https://zh.wikipedia.org/wiki/GeForce_300系列" title="wikilink">GeForce 320M</a> 图形处理器，与主内存共享的 256 MB DDR3 SDRAM 显存</p></td>
 <td><p>Intel <a href="../Page/Intel_HD_Graphics.md" title="wikilink">HD Graphics 3000</a> 图像处理器，与主内存共享的 384 MB DDR3 SDRAM 显存（11" 低配机型为 256 MB）</p></td>
 <td><p>Intel HD Graphics 4000 图像处理器，与主内存共享的 384 MB DDR3 SDRAM 显存（定制 8 GB 内存后为 512 MB）</p></td>
 <td><p>Intel HD Graphics 5000 图像处理器，与主内存共享LPDDR3 SDRAM 显存，最高可达1 GB</p></td>
@@ -307,13 +307,13 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/無線網絡.md" title="wikilink">無線網絡</a></p></td>
-<td><p>整合<a href="../Page/AirPort#AirPort_Extreme_(802.11n).md" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n（草案）</a></p></td>
-<td><p>整合<a href="../Page/AirPort#AirPort_Extreme_(802.11n).md" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n</a></p></td>
-<td><p>整合<a href="../Page/AirPort#AirPort_Extreme_(802.11n).md" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n</a>（支持2.4Ghz, 5GHz）<br />
-(使用<a href="../Page/Broadcom.md" title="wikilink">Broadcom</a> BCM43224 300 Mbit/s芯片)</p></td>
-<td><p>整合<a href="../Page/AirPort#AirPort_Extreme_(802.11ac).md" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n/ac</a>（支持2.4Ghz, 5GHz）<br />
-(使用<a href="../Page/Broadcom.md" title="wikilink">Broadcom</a> BCM4360 1.3 Gbps 芯片)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無線網絡" title="wikilink">無線網絡</a></p></td>
+<td><p>整合<a href="https://zh.wikipedia.org/wiki/AirPort#AirPort_Extreme_(802.11n)" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n（草案）</a></p></td>
+<td><p>整合<a href="https://zh.wikipedia.org/wiki/AirPort#AirPort_Extreme_(802.11n)" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n</a></p></td>
+<td><p>整合<a href="https://zh.wikipedia.org/wiki/AirPort#AirPort_Extreme_(802.11n)" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n</a>（支持2.4Ghz, 5GHz）<br />
+(使用<a href="https://zh.wikipedia.org/wiki/Broadcom" title="wikilink">Broadcom</a> BCM43224 300 Mbit/s芯片)</p></td>
+<td><p>整合<a href="https://zh.wikipedia.org/wiki/AirPort#AirPort_Extreme_(802.11ac)" title="wikilink">AirPort</a>、支援<a href="../Page/IEEE_802.11.md" title="wikilink">802.11a/b/g/n/ac</a>（支持2.4Ghz, 5GHz）<br />
+(使用<a href="https://zh.wikipedia.org/wiki/Broadcom" title="wikilink">Broadcom</a> BCM4360 1.3 Gbps 芯片)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,8 +348,8 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td><p><strong>可支持的最新<a href="../Page/操作系统.md" title="wikilink">操作系统</a></strong></p></td>
 <td><p><a href="../Page/Mac_OS_X_Lion.md" title="wikilink">OS X 10.7</a> "Lion"</p></td>
 <td><p><a href="../Page/OS_X_Mavericks.md" title="wikilink">OS X 10.11</a> "El Capitan"</p></td>
-<td><p><a href="../Page/macOS_Sierra.md" title="wikilink">macOS 10.12</a> "Sierra"</p></td>
-<td><p><a href="../Page/macOS_Mojave.md" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Sierra" title="wikilink">macOS 10.12</a> "Sierra"</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/macOS_Mojave" title="wikilink">macOS 10.14</a> "Mojave"</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -363,7 +363,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/電池.md" title="wikilink">電池</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/電池" title="wikilink">電池</a><br />
 <span style="color: #969696">(均为不可移出锂聚合物电池)</span></p></td>
 <td><p>37瓦时</p></td>
 <td><p>40瓦时</p></td>
@@ -421,8 +421,8 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蓝牙.md" title="wikilink">蓝牙</a></p></td>
-<td><p>内置蓝牙2.1+<a href="../Page/Enhanced_Data_Rate.md" title="wikilink">EDR</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蓝牙" title="wikilink">蓝牙</a></p></td>
+<td><p>内置蓝牙2.1+<a href="https://zh.wikipedia.org/wiki/Enhanced_Data_Rate" title="wikilink">EDR</a></p></td>
 <td><p>内置蓝牙4.0</p></td>
 <td></td>
 <td></td>
@@ -477,7 +477,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 <tr class="even">
 <td><p>1个 Micro-DVI 接口</p></td>
 <td><p>1个Mini DisplayPort接口（可以通过适配器转换为标准DVI、Dual - Link DVI 或者VGA接口，最大输出分辨率为2560*1600）</p></td>
-<td><p>1个<a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt接口</a>（可以通过适配器转换为标准DVI、Dual - Link DVI 、VGA或<a href="../Page/RJ-45.md" title="wikilink">RJ-45</a><a href="../Page/乙太網路.md" title="wikilink">乙太網路接口</a>，最大顯示输出分辨率为2560*1600）</p></td>
+<td><p>1个<a href="../Page/Thunderbolt.md" title="wikilink">Thunderbolt接口</a>（可以通过适配器转换为标准DVI、Dual - Link DVI 、VGA或<a href="https://zh.wikipedia.org/wiki/RJ-45" title="wikilink">RJ-45</a><a href="https://zh.wikipedia.org/wiki/乙太網路" title="wikilink">乙太網路接口</a>，最大顯示输出分辨率为2560*1600）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -554,7 +554,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 
 ## 召回
 
-[苹果公司在](../Page/苹果公司.md "wikilink")[2013年10月](../Page/2013年10月.md "wikilink")18日发布公告称，搭载64GB、128
+[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[2013年10月](https://zh.wikipedia.org/wiki/2013年10月 "wikilink")18日发布公告称，搭载64GB、128
 GB[固态硬盘的](../Page/固态硬盘.md "wikilink")2012款MacBook
 Air可能会存在某些隱患，在2012年6月至2013年6月期间出售的MacBook
 Air將被召回，用户可选免费更换硬盘或者全额退回以前用于维修硬盘所花的费用。\[10\]\[11\]
@@ -563,7 +563,7 @@ Air將被召回，用户可选免费更换硬盘或者全额退回以前用于�
 
 产品上市前已经引来了大量的评论。既有欢呼和支持的，也有质疑甚至批评的。
 
-  - 由于市面上的计算机（不论是笔记本还是[PDA](../Page/PDA.md "wikilink")）很少有如此轻薄的产品，不少网友在看见实物图或概念图时对MacBook
+  - 由于市面上的计算机（不论是笔记本还是[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")）很少有如此轻薄的产品，不少网友在看见实物图或概念图时对MacBook
     Air的厚度感到非常惊讶。\[12\]為了呈現其輕薄，MacBook
     Air在2008年的問世發表會上，特別置於公文袋中，再由[乔布斯由公文袋中抽出](../Page/史蒂夫·乔布斯.md "wikilink")。
   - 有些人不太认同其轻薄设计，不太赞同苹果为了薄而去除光驱和内置以太网接口，但对苹果的创意表示认同\[13\]。
@@ -580,7 +580,7 @@ Air將被召回，用户可选免费更换硬盘或者全额退回以前用于�
 
   - [MacBook](../Page/MacBook.md "wikilink")
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")
-  - [蘋果電腦機種的比較](../Page/蘋果電腦機種的比較.md "wikilink")
+  - [蘋果電腦機種的比較](https://zh.wikipedia.org/wiki/蘋果電腦機種的比較 "wikilink")
 
 ## 参考文献
 

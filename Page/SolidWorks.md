@@ -1,9 +1,9 @@
 **SolidWorks**是[达索系统](../Page/达索系统.md "wikilink")（Dassault Systemes
-S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的](../Page/微软Windows.md "wikilink")3D机械[CAD软件](../Page/计算机辅助设计.md "wikilink")。SolidWorks是热门的CAD软件之一\[1\]：截至2011年第一季度，全球约有150多万工程师，设计师和约15万家公司是SolidWorks的用户。2010年其总收入达到4.17亿美元。\[2\]台灣地區總代理為[實威國際](../Page/實威國際.md "wikilink")。
+S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的](https://zh.wikipedia.org/wiki/微软Windows "wikilink")3D机械[CAD软件](../Page/计算机辅助设计.md "wikilink")。SolidWorks是热门的CAD软件之一\[1\]：截至2011年第一季度，全球约有150多万工程师，设计师和约15万家公司是SolidWorks的用户。2010年其总收入达到4.17亿美元。\[2\]台灣地區總代理為[實威國際](https://zh.wikipedia.org/wiki/實威國際 "wikilink")。
 
 ## 歷史
 
-SolidWorks公司成立於1993年12月，其總部設在[美國](../Page/美國.md "wikilink")[麻州](../Page/麻州.md "wikilink")[康克爾郡](../Page/康克爾郡.md "wikilink")，西元1995年發表其第一款產品**SolidWorks
+SolidWorks公司成立於1993年12月，其總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[康克爾郡](https://zh.wikipedia.org/wiki/康克爾郡 "wikilink")，西元1995年發表其第一款產品**SolidWorks
 95**，1997年被[达索系统併購](../Page/达索系统.md "wikilink")，SolidWorks公司現在是达索系统的子公司。
 
 ## 市場
@@ -125,8 +125,10 @@ Office Professional add-ins plus the following：
     support.，SolidWorks 2006 SP? Starting to use activation by online）
   - SolidWorks 2007（PDM Enter
       -
-        [2013 Beta](../Page/2013_Beta.md "wikilink")2012/6月發表
-        [2013 SP0](../Page/2013_SP0.md "wikilink") 2012/10月正式發布
+        [2013
+        Beta](https://zh.wikipedia.org/wiki/2013_Beta "wikilink")2012/6月發表
+        [2013 SP0](https://zh.wikipedia.org/wiki/2013_SP0 "wikilink")
+        2012/10月正式發布
   - SolidWorks 2014 -（2013年10月正式发布）
   - SolidWorks 2015 -（2014年9月正式发布）
   - SolidWorks 2016 -（2015年10月正式发布）
@@ -138,7 +140,7 @@ Office Professional add-ins plus the following：
 [CAD_Modeling.gif](https://zh.wikipedia.org/wiki/File:CAD_Modeling.gif "fig:CAD_Modeling.gif")
 [Nockenwelle_ani.gif](https://zh.wikipedia.org/wiki/File:Nockenwelle_ani.gif "fig:Nockenwelle_ani.gif")
 
-SolidWorks是[Parasolid的基礎堅實建模](../Page/Parasolid.md "wikilink")，並採用[參數化特徵為基礎的方法來建立模型和組件](../Page/參數化.md "wikilink")。
+SolidWorks是[Parasolid的基礎堅實建模](https://zh.wikipedia.org/wiki/Parasolid "wikilink")，並採用[參數化特徵為基礎的方法來建立模型和組件](https://zh.wikipedia.org/wiki/參數化 "wikilink")。
 
 參數指的制約，其值確定的形狀或幾何模型或組裝。參數可以是數值參數，如線路長度或直徑圓圈，或幾何參數，如切線，平行，同心，水平或垂直等數字參數可以與對方的關係，通過使用，這使得他們捕捉設計意圖。
 
@@ -152,7 +154,7 @@ SolidWorks的開創能力的用戶回滾透過歷史的一部分，以便進行�
 
 在一個集會，模擬素描關係是隊友。正如素描關係的界定條件，如切，平行，同心度和幾何方面的素描，集會隊友定義等價關係方面的個別部件或組件，使施工簡便的程序集。SolidWorks的還包括其他先進的配套功能，如凸輪從動齒輪和隊友，這讓為藍本，以準確地重現齒輪組件的旋轉運動的一個實際的齒輪火車。
 
-最後，圖紙可以創建或者從零件或組件。點擊自動生成的實體模型，並指出尺寸和公差然後可以很容易地添加到繪圖的需要。該繪圖模塊包括大部分的紙張大小和標準（[ANSI](../Page/ANSI.md "wikilink")、[ISO](../Page/ISO.md "wikilink")、[DIN](../Page/DIN.md "wikilink")、[GOST](../Page/GOST.md "wikilink")、[JIS](../Page/JIS.md "wikilink")、[BSIand](../Page/BSI.md "wikilink")[GB](../Page/GB.md "wikilink")）。
+最後，圖紙可以創建或者從零件或組件。點擊自動生成的實體模型，並指出尺寸和公差然後可以很容易地添加到繪圖的需要。該繪圖模塊包括大部分的紙張大小和標準（[ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink")、[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")、[DIN](https://zh.wikipedia.org/wiki/DIN "wikilink")、[GOST](https://zh.wikipedia.org/wiki/GOST "wikilink")、[JIS](https://zh.wikipedia.org/wiki/JIS "wikilink")、[BSIand](https://zh.wikipedia.org/wiki/BSI "wikilink")[GB](https://zh.wikipedia.org/wiki/GB "wikilink")）。
 
 ## 文件格式
 
@@ -173,26 +175,30 @@ SolidWorks 2017 SP4.1支援下列文件格式：
   - Lib Feat Part（\*.lfp, \*sldlfp）,
   - Template（\*.prtdot, \*.asmdot, \*.drwdot）,
   - Parasolid（\*.x_t, \*.x_b, \*.smt_txt, \*xmt_bin）,
-  - [IGES](../Page/IGES.md "wikilink")（\*.igs, \*.iges）,
-  - [STEP](../Page/ISO_10303.md "wikilink") AP203/214（\*.step, \*.stp）,
-  - [IFC 2x3](../Page/IFC_2x3.md "wikilink")（\*.ifc),
+  - [IGES](https://zh.wikipedia.org/wiki/IGES "wikilink")（\*.igs,
+    \*.iges）,
+  - [STEP](https://zh.wikipedia.org/wiki/ISO_10303 "wikilink")
+    AP203/214（\*.step, \*.stp）,
+  - [IFC 2x3](https://zh.wikipedia.org/wiki/IFC_2x3 "wikilink")（\*.ifc),
   - [ACIS](../Page/ACIS.md "wikilink")（\*.sat）,VDAFS（\*.vda）,
   - VRML（\*.wrl）,STL（\*.stl）,
   - Catia Graphics（\*.cgr）,
   - Catia V5（\*.catpart,\*.catproduct）＊需要另外購買
-  - [ProEngineer](../Page/ProEngineer.md "wikilink") Part（\*.prt,
-    \*.prt.\*, \*.xpr）,
-  - [ProEngineer](../Page/ProEngineer.md "wikilink") Assembly（\*.asm,
-    \*.asm.\*, \*.xas）,
-  - [UGII](../Page/UGII.md "wikilink")（\*.prt）,
-  - [Autodesk Inventor](../Page/Autodesk_Inventor.md "wikilink")
+  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink")
+    Part（\*.prt, \*.prt.\*, \*.xpr）,
+  - [ProEngineer](https://zh.wikipedia.org/wiki/ProEngineer "wikilink")
+    Assembly（\*.asm, \*.asm.\*, \*.xas）,
+  - [UGII](https://zh.wikipedia.org/wiki/UGII "wikilink")（\*.prt）,
+  - [Autodesk
+    Inventor](https://zh.wikipedia.org/wiki/Autodesk_Inventor "wikilink")
     Part（\*.ipt）,
   - Autodesk Assembly（\*.iam）,
   - Solid Edge Part（\*.par, \*.psm）,
   - Solid Edge Assembly（\*.asm）,
   - CADKEY（\*.prt, \*.ckd）,
   - Add-ins（\*.Dynamic-link_library|dll）,
-  - [IDF](../Page/IDF.md "wikilink")（\*.emn, \*.brd, \*.bdf, \*idb）。
+  - [IDF](https://zh.wikipedia.org/wiki/IDF "wikilink")（\*.emn, \*.brd,
+    \*.bdf, \*idb）。
 
 ## SolidWorks的合作夥伴
 
@@ -203,15 +209,16 @@ SolidWorks的合作夥伴與具有黃金夥伴稱號的應用程式都是經由S
 ## 競爭對手
 
   - [CATIA達索系統公司](../Page/CATIA.md "wikilink")
-  - [UGS NX西門子公司](../Page/UGS_NX.md "wikilink")（原屬於UGS公司）
+  - [UGS
+    NX西門子公司](https://zh.wikipedia.org/wiki/UGS_NX "wikilink")（原屬於UGS公司）
   - [Creo
     Parametric](../Page/Creo_Parametric.md "wikilink")（Pro/ENGINEER）PTC公司
   - [AutoCAD](../Page/AutoCAD.md "wikilink")
-    [歐特克](../Page/歐特克.md "wikilink")
-  - [Inventor歐特克](../Page/Inventor.md "wikilink")
+    [歐特克](https://zh.wikipedia.org/wiki/歐特克 "wikilink")
+  - [Inventor歐特克](https://zh.wikipedia.org/wiki/Inventor "wikilink")
   - [Solid Edge西門子公司](../Page/Solid_Edge.md "wikilink")
-  - [SpaceClaim](../Page/SpaceClaim.md "wikilink")
-    [SpaceClaim](../Page/SpaceClaim.md "wikilink")
+  - [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink")
+    [SpaceClaim](https://zh.wikipedia.org/wiki/SpaceClaim "wikilink")
 
 ## 注释
 

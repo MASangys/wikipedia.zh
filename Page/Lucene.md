@@ -1,4 +1,4 @@
-**Lucene**是一套用于[全文检索和](../Page/全文检索.md "wikilink")[搜尋的](../Page/搜尋.md "wikilink")[開放源碼](../Page/開放源碼.md "wikilink")[程式庫](../Page/程式庫.md "wikilink")，由[Apache软件基金会支持和提供](../Page/Apache软件基金会.md "wikilink")。Lucene提供了一個簡單卻強大的應用程式介面，能夠做全文索引和搜尋，在[Java开发环境裡Lucene是一個成熟的免費開放原始碼工具](../Page/Java.md "wikilink")；就其本身而論，Lucene是現在並且是這幾年，最受歡迎的免費Java資訊檢索程式庫。
+**Lucene**是一套用于[全文检索和](https://zh.wikipedia.org/wiki/全文检索 "wikilink")[搜尋的](https://zh.wikipedia.org/wiki/搜尋 "wikilink")[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，由[Apache软件基金会支持和提供](../Page/Apache软件基金会.md "wikilink")。Lucene提供了一個簡單卻強大的應用程式介面，能夠做全文索引和搜尋，在[Java开发环境裡Lucene是一個成熟的免費開放原始碼工具](../Page/Java.md "wikilink")；就其本身而論，Lucene是現在並且是這幾年，最受歡迎的免費Java資訊檢索程式庫。
 
 ## 历史
 
@@ -31,7 +31,8 @@ Cutting所撰寫的，他是一位資深的全文索引及檢索專家，曾經�
 
   - Article "[Behind the Scenes of the SourceForge.net Search
     System](https://web.archive.org/web/20060713193801/http://blog.dev.sf.net/index.php?%2Farchives%2F10-Behind-the-Scenes-of-the-SourceForge.net-Search-System.html)"
-    by [Chris Conrad](../Page/Chris_Conrad.md "wikilink")
+    by [Chris
+    Conrad](https://zh.wikipedia.org/wiki/Chris_Conrad "wikilink")
 
   -
   - [Simple Lucene

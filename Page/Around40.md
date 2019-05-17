@@ -1,25 +1,28 @@
-**《Around40》**為[TBS](../Page/東京廣播.md "wikilink")[週五連續劇](../Page/TBS週五連續劇.md "wikilink")，2008年4月11日至6月20日每週五晚上10點播放。[台灣](../Page/台灣.md "wikilink")[緯來日本台於](../Page/緯來日本台.md "wikilink")2009年1月5日起週一至週五每晚八點播出。
+**《Around40》**為[TBS](https://zh.wikipedia.org/wiki/東京廣播 "wikilink")[週五連續劇](../Page/TBS週五連續劇.md "wikilink")，2008年4月11日至6月20日每週五晚上10點播放。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台於](../Page/緯來日本台.md "wikilink")2009年1月5日起週一至週五每晚八點播出。
 
 ## 簡介
 
-本劇劇名「Around40」意指40歲左右的女性，在[泡沫經濟時期度過求學及社會新鮮人階段的她們](../Page/日本泡沫經濟.md "wikilink")，無論在事業、愛情、婚姻的觀念上都已與以往傳統日本社會大不相同。本劇播出後在日本引起「Around40現象」，劇名的略稱「」更贏得[2008年流行語大賞](../Page/新語、流行語大賞.md "wikilink")，[美國](../Page/美國.md "wikilink")[有線電視新聞網](../Page/有線電視新聞網.md "wikilink")（CNN）也特別為此現象製作專題報導。副標題的「」指的是「要求特多的女人們」，和主標題的「Around40」互相呼應，講的就是現代中年熟女獨立思考的價值觀，已不是以前那種依賴男性或家庭而活的女人了。
+本劇劇名「Around40」意指40歲左右的女性，在[泡沫經濟時期度過求學及社會新鮮人階段的她們](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，無論在事業、愛情、婚姻的觀念上都已與以往傳統日本社會大不相同。本劇播出後在日本引起「Around40現象」，劇名的略稱「」更贏得[2008年流行語大賞](../Page/新語、流行語大賞.md "wikilink")，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視新聞網](https://zh.wikipedia.org/wiki/有線電視新聞網 "wikilink")（CNN）也特別為此現象製作專題報導。副標題的「」指的是「要求特多的女人們」，和主標題的「Around40」互相呼應，講的就是現代中年熟女獨立思考的價值觀，已不是以前那種依賴男性或家庭而活的女人了。
 
 ## 演員
 
-  - 緒方 聰子（おがた さとこ）- [天海祐希](../Page/天海祐希.md "wikilink")
+  - 緒方 聰子（おがた さとこ）-
+    [天海祐希](https://zh.wikipedia.org/wiki/天海祐希 "wikilink")
   - 岡村 恵太朗（おかむら けいたろう）- [藤木直人](../Page/藤木直人.md "wikilink")
   - 森村 奈央（もりむら なお）- [大塚寧寧](../Page/大塚寧寧.md "wikilink")
   - 竹内 瑞恵（たけうち みずえ）- [松下由樹](../Page/松下由樹.md "wikilink")
-  - 大橋 貞夫（おおはし さだお）- [筒井道隆](../Page/筒井道隆.md "wikilink")
+  - 大橋 貞夫（おおはし さだお）-
+    [筒井道隆](https://zh.wikipedia.org/wiki/筒井道隆 "wikilink")
   - 片山 遙（かたやま はるか）- [松本若菜](../Page/松本若菜.md "wikilink")
 
 **緒方家**
 
-  - 緒方達也（おがた たつや）- [AKIRA（EXILE）](../Page/AKIRA（EXILE）.md "wikilink")
+  - 緒方達也（おがた たつや）-
+    [AKIRA（EXILE）](https://zh.wikipedia.org/wiki/AKIRA（EXILE） "wikilink")
 
 聰子的弟弟。職業是美容師。
 
-  - 緒方マキ（おがた マキ）- [さくら](../Page/さくら.md "wikilink")
+  - 緒方マキ（おがた マキ）- [さくら](https://zh.wikipedia.org/wiki/さくら "wikilink")
 
 達也的老婆。職業是美容師。
 
@@ -27,19 +30,20 @@
 
 達也的女兒。
 
-  - 緒方友康（おがた ともやす）- [林隆三](../Page/林隆三.md "wikilink")
+  - 緒方友康（おがた ともやす）- [林隆三](https://zh.wikipedia.org/wiki/林隆三 "wikilink")
 
 聰子的爸爸。內科診所醫生。68歲。
 
-  - 吉永晴子（よしなが はるこ）- [加賀まりこ](../Page/加賀まりこ.md "wikilink")
+  - 吉永晴子（よしなが はるこ）-
+    [加賀まりこ](https://zh.wikipedia.org/wiki/加賀まりこ "wikilink")
 
 聰子的繼母。
 
 ## 幕後人員
 
-  - 制作人：[瀬戸口克陽](../Page/瀬戸口克陽.md "wikilink")、[高成麻畝子](../Page/高成麻畝子.md "wikilink")
-  - 編劇：[橋部敦子](../Page/橋部敦子.md "wikilink")
-  - 導演：[吉田健](../Page/吉田健.md "wikilink")
+  - 制作人：[瀬戸口克陽](https://zh.wikipedia.org/wiki/瀬戸口克陽 "wikilink")、[高成麻畝子](https://zh.wikipedia.org/wiki/高成麻畝子 "wikilink")
+  - 編劇：[橋部敦子](https://zh.wikipedia.org/wiki/橋部敦子 "wikilink")
+  - 導演：[吉田健](https://zh.wikipedia.org/wiki/吉田健 "wikilink")
   - 音樂：[山下康介](../Page/山下康介.md "wikilink")
 
 ## 播放

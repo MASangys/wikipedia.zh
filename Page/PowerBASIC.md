@@ -1,4 +1,4 @@
-**PowerBASIC**由位於[美國](../Page/美國.md "wikilink")[佛羅里達州](../Page/佛羅里達州.md "wikilink")[威尼斯的PowerBASIC公司所製作](../Page/威尼斯.md "wikilink")，為一種[BASIC編譯器](../Page/BASIC.md "wikilink")，分別擁有[DOS版本及](../Page/DOS.md "wikilink")[Windows版本](../Page/Windows.md "wikilink")（其中又有[命令行版本及](../Page/命令行.md "wikilink")[圖形界面開發版本](../Page/圖形界面.md "wikilink")）。DOS版本使用的語法類似[QBasic和](../Page/QBasic.md "wikilink")[QuickBASIC](../Page/QuickBASIC.md "wikilink")，而Windows版本則類似其他程式編譯器，結合標準BASIC語言和[API調用](../Page/API.md "wikilink")。最早發布的版本被稱作BASIC/Z，之後由[Borland發行時叫做](../Page/Borland.md "wikilink")[Turbo
+**PowerBASIC**由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[威尼斯的PowerBASIC公司所製作](../Page/威尼斯.md "wikilink")，為一種[BASIC編譯器](../Page/BASIC.md "wikilink")，分別擁有[DOS版本及](../Page/DOS.md "wikilink")[Windows版本](https://zh.wikipedia.org/wiki/Windows "wikilink")（其中又有[命令行版本及](https://zh.wikipedia.org/wiki/命令行 "wikilink")[圖形界面開發版本](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")）。DOS版本使用的語法類似[QBasic和](https://zh.wikipedia.org/wiki/QBasic "wikilink")[QuickBASIC](../Page/QuickBASIC.md "wikilink")，而Windows版本則類似其他程式編譯器，結合標準BASIC語言和[API調用](https://zh.wikipedia.org/wiki/API "wikilink")。最早發布的版本被稱作BASIC/Z，之後由[Borland發行時叫做](../Page/Borland.md "wikilink")[Turbo
 BASIC](../Page/Turbo_BASIC.md "wikilink")。1989年Borland不再販售Turbo
 BASIC與[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")，Turbo
 BASIC由原開發者成立公司，而以PowerBASIC為名繼續發行。\[1\]
@@ -8,9 +8,9 @@ BASIC由原開發者成立公司，而以PowerBASIC為名繼續發行。\[1\]
 **PowerBASIC**的Windows版本並沒有類似[Visual
 Basic的圖形開發界面](../Page/Visual_Basic.md "wikilink")，取而代之的是一個包含調試工具的純文字開發界面，但官方及其他團體均有提供另外開發的圖形開發界面以解決文字開發界面的不足，例如官方開發的PowerBASIC
 Forms及HelloBasic.com開發的[PwrDev
-Developer等等](../Page/PwrDev_Developer.md "wikilink")。PowerBASIC能編譯出[機器代碼](../Page/機器代碼.md "wikilink")，即不需要[運行庫的程式](../Page/函式庫.md "wikilink")，並以編譯得出程式的體積小與運行速度快作為招徠，試圖擺脫過往BASIC語言運行速度慢的特點，其運行速度甚至比當今流行的語言仍要快，例如Visual
+Developer等等](https://zh.wikipedia.org/wiki/PwrDev_Developer "wikilink")。PowerBASIC能編譯出[機器代碼](https://zh.wikipedia.org/wiki/機器代碼 "wikilink")，即不需要[運行庫的程式](../Page/函式庫.md "wikilink")，並以編譯得出程式的體積小與運行速度快作為招徠，試圖擺脫過往BASIC語言運行速度慢的特點，其運行速度甚至比當今流行的語言仍要快，例如Visual
 Basic,
-[C++](../Page/C++.md "wikilink")。\[2\]同時PowerBASIC支援開發更多範疇的程序，例如[DLL](../Page/DLL.md "wikilink")，[控制台程式甚至](../Page/控制面板.md "wikilink")[驅動程式](../Page/驅動程式.md "wikilink")。
+[C++](../Page/C++.md "wikilink")。\[2\]同時PowerBASIC支援開發更多範疇的程序，例如[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")，[控制台程式甚至](../Page/控制面板.md "wikilink")[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 ## 版本更新\[3\]
 
@@ -64,7 +64,7 @@ Basic,
 <td><p><strong>PB/WIN 9.0</strong></p></td>
 <td><p>2008年8月12日[11]</p></td>
 <td><ol>
-<li>加入對<a href="../Page/物件_(電腦科學).md" title="wikilink">物件的支持</a></li>
+<li>加入對<a href="https://zh.wikipedia.org/wiki/物件_(電腦科學)" title="wikilink">物件的支持</a></li>
 </ol></td>
 <td><p>於2009年3月3日更新9.01版本。[12]</p></td>
 </tr>
@@ -96,9 +96,9 @@ Basic,
 <td><p><strong>PB/WIN 10.0</strong></p></td>
 <td><p>2011年1月29日[17]</p></td>
 <td><ol>
-<li>加入<a href="../Page/靜態連結函式庫.md" title="wikilink">靜態連結庫</a>（.sll）的支持；</li>
-<li>加強對<a href="../Page/Unicode.md" title="wikilink">Unicode字串的支持</a>；</li>
-<li>加強對<a href="../Page/多線程.md" title="wikilink">多線程的支持</a>。</li>
+<li>加入<a href="https://zh.wikipedia.org/wiki/靜態連結函式庫" title="wikilink">靜態連結庫</a>（.sll）的支持；</li>
+<li>加強對<a href="https://zh.wikipedia.org/wiki/Unicode" title="wikilink">Unicode字串的支持</a>；</li>
+<li>加強對<a href="https://zh.wikipedia.org/wiki/多線程" title="wikilink">多線程的支持</a>。</li>
 </ol></td>
 <td><p>尚未有版本更新。</p></td>
 </tr>

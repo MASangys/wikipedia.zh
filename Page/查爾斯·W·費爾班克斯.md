@@ -1,5 +1,5 @@
 **查爾斯·華倫·費爾班克斯**（**Chareles Warren
-Fairbanks**，），[美國政治人物](../Page/美國.md "wikilink")，[共和黨人](../Page/共和黨_\(美國\).md "wikilink")，曾任第26任[美國副總統](../Page/美國副總統.md "wikilink")、聯邦參議員等職。
+Fairbanks**，），[美國政治人物](https://zh.wikipedia.org/wiki/美國 "wikilink")，[共和黨人](../Page/共和黨_\(美國\).md "wikilink")，曾任第26任[美國副總統](https://zh.wikipedia.org/wiki/美國副總統 "wikilink")、聯邦參議員等職。
 
 [阿拉斯加州第二大城市](../Page/阿拉斯加州.md "wikilink")[費爾班克斯即以他命名](../Page/費爾班克斯_\(阿拉斯加州\).md "wikilink")。
 

@@ -1,9 +1,9 @@
 **HK
-MSG90**是[黑克勒-科赫以](../Page/黑克勒-科赫.md "wikilink")[PSG1為基礎所改進的半自動軍用](../Page/HK_PSG1狙擊步槍.md "wikilink")[狙擊步槍](../Page/狙擊步槍.md "wikilink")，口徑為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO](../Page/北大西洋公约组织.md "wikilink")，當中的90解為推出年份（1990年）。
+MSG90**是[黑克勒-科赫以](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[PSG1為基礎所改進的半自動軍用](../Page/HK_PSG1狙擊步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，口徑為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，當中的90解為推出年份（1990年）。
 
 ## 歷史
 
-[黑克勒-科赫公司的](../Page/黑克勒-科赫.md "wikilink")[PSG1狙擊步槍擁有極高的射擊精度而且性能優異](../Page/HK_PSG1狙擊步槍.md "wikilink")，不過其價格太高，重量也太重，且射擊時彈殼彈出的力道太大，射擊後常常找不到彈出的彈殼，雖然這些缺點對於[特警隊而言並不會造成太大的問題](../Page/特警隊.md "wikilink")，但是對軍方在戰場上運用的情形來說，就會造成極大的不便，所以當時的[PSG1並沒有受到](../Page/HK_PSG1狙擊步槍.md "wikilink")[德國聯邦國防軍的採用](../Page/德國聯邦國防軍.md "wikilink")。
+[黑克勒-科赫公司的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[PSG1狙擊步槍擁有極高的射擊精度而且性能優異](../Page/HK_PSG1狙擊步槍.md "wikilink")，不過其價格太高，重量也太重，且射擊時彈殼彈出的力道太大，射擊後常常找不到彈出的彈殼，雖然這些缺點對於[特警隊而言並不會造成太大的問題](https://zh.wikipedia.org/wiki/特警隊 "wikilink")，但是對軍方在戰場上運用的情形來說，就會造成極大的不便，所以當時的[PSG1並沒有受到](../Page/HK_PSG1狙擊步槍.md "wikilink")[德國聯邦國防軍的採用](../Page/德國聯邦國防軍.md "wikilink")。
 
 於是黑克勒-科赫對PSG1開始著手進行改良，試圖讓其符合軍事用途需求，HK將PSG1的設計簡化，減輕槍身各部的重量，並使用輕量化的槍管，達到了降低成本及減輕重量的目標，而成品就是HK
 MSG90。

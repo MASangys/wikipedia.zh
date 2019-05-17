@@ -1,19 +1,19 @@
 **FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI**
 /
-**FT**，是[韓國](../Page/韓國.md "wikilink")[FNC娛樂公司旗下的第一個](../Page/FNC_Entertainment.md "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](../Page/流行樂團.md "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（因醜聞案已退團）、貝斯[李在真](../Page/李在真.md "wikilink")、吉他[宋承炫和鼓手](../Page/宋承炫.md "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
+**FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（因醜聞案已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
 
 樂隊的應援物是小黃旗。歌迷被稱為「**Primadonna**」（義大利文），即「女主角」的意思，簡稱為「**PRI**」。官方應援物名稱：Pentastick。
 
 2007年6月7日正式出道，首張專輯《Cheerful
 Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專輯，以新人之姿橫掃韓國10項音樂大獎。
 
-2009年1月，成員[吳元斌退出](../Page/吳元斌.md "wikilink")，隨後加入新成員[宋承炫](../Page/宋承炫.md "wikilink")。
+2009年1月，成員[吳元斌退出](../Page/吳元斌.md "wikilink")，隨後加入新成員[宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")。
 
-2009年正式成立子團體FT.triple，由團員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](../Page/李在真.md "wikilink")、[崔敏煥所組成](../Page/崔敏煥.md "wikilink")。
+2009年正式成立子團體FT.triple，由團員[崔鍾訓](../Page/崔鍾訓.md "wikilink")、[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、[崔敏煥所組成](../Page/崔敏煥.md "wikilink")。
 
 2009年榮任「首爾東海奉仕團」宣傳大使，並榮獲「韓流觀光之夜 韓國觀光公社」功勞獎。
 
-2010年5月19日，在日本正式出道，其實在出道前曾以地下樂團身分在日本活動，亦已推出許多音樂作品。首張日本正規大碟2011年5月18日發行首週奪得[Oricon公信榜專輯週榜冠軍](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")，讓FTISLAND成為[Oricon公信榜專輯週榜史上第一位憑首張專輯奪冠的外國男歌手](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")。第二張日本正規專輯再次刷新個人首週最高销量纪錄日語唱片的紀錄。在韓國[金唱片獎連三年獲得年度ROCK獎](../Page/金唱片獎.md "wikilink")，分別為2010年、2011年、2012年。
+2010年5月19日，在日本正式出道，其實在出道前曾以地下樂團身分在日本活動，亦已推出許多音樂作品。首張日本正規大碟2011年5月18日發行首週奪得[Oricon公信榜專輯週榜冠軍](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")，讓FTISLAND成為[Oricon公信榜專輯週榜史上第一位憑首張專輯奪冠的外國男歌手](../Page/2011年Oricon專輯週榜冠軍作品列表.md "wikilink")。第二張日本正規專輯再次刷新個人首週最高销量纪錄日語唱片的紀錄。在韓國[金唱片獎連三年獲得年度ROCK獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")，分別為2010年、2011年、2012年。
 
 2015年，發行首次由5位成員共同參與詞曲創作製作的專輯《I
 WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪得3座冠軍，並且受到美國告示牌網站的專文推薦，稱讚有著強烈搖滾節奏的主打歌〈PRAY〉充滿靈魂，整張專輯更展現出FTISLAND不容置疑的音樂才華。
@@ -23,19 +23,19 @@ Sun-勝利門事件](../Page/Burning_Sun-勝利門事件.md "wikilink")，崔鍾
 
 ## 成員資料
 
-| 成員列表                             |
-| -------------------------------- |
-| 本名                               |
-| 漢字                               |
-| [李洪基](../Page/李洪基.md "wikilink") |
-| [李在真](../Page/李在真.md "wikilink") |
-| [宋承炫](../Page/宋承炫.md "wikilink") |
-| [崔敏煥](../Page/崔敏煥.md "wikilink") |
-| 已離開成員                            |
-| 本名                               |
-| 漢字                               |
-| [崔鍾訓](../Page/崔鍾訓.md "wikilink") |
-| [吳元斌](../Page/吳元斌.md "wikilink") |
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 本名                                                  |
+| 漢字                                                  |
+| [李洪基](../Page/李洪基.md "wikilink")                    |
+| [李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink") |
+| [宋承炫](https://zh.wikipedia.org/wiki/宋承炫 "wikilink") |
+| [崔敏煥](../Page/崔敏煥.md "wikilink")                    |
+| 已離開成員                                               |
+| 本名                                                  |
+| 漢字                                                  |
+| [崔鍾訓](../Page/崔鍾訓.md "wikilink")                    |
+| [吳元斌](../Page/吳元斌.md "wikilink")                    |
 
 ### 成員變遷表
 
@@ -118,34 +118,34 @@ LineData =
 
 ### 電視劇
 
-|                                            |                                                                       |                                                                |                                  |      |                    |     |
-| ------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------- | ---- | ------------------ | --- |
-| 年份                                         | 電視台                                                                   | 劇名                                                             | 參演成員                             | 角色   | 性質                 | 集數  |
-| 2002年                                      | [KBS](../Page/韓國放送公社.md "wikilink")                                   | 《[魔法兒童MASURI](../Page/魔法兒童MASURI.md "wikilink")》               | 李洪基                              | 智勛   | 配角                 |     |
-| 2004年                                      | [EBS](../Page/EBS.md "wikilink")                                      | 《[勇敢的女孩](../Page/勇敢的女孩.md "wikilink")》                         |                                  |      |                    |     |
-| 《[指甲邊上有光](../Page/指甲邊上有光.md "wikilink")》   |                                                                       |                                                                |                                  |      |                    |     |
-| 《[冬日孩子](../Page/冬日孩子.md "wikilink")》       |                                                                       |                                                                |                                  |      |                    |     |
-| 2007年                                      | KBS                                                                   | 《[無法阻擋的婚姻](../Page/無法阻擋的婚姻.md "wikilink")》                     | 李在真                              | 王四百  | （FTISLAND全體客串）EP62 |     |
-| 2009年                                      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | 《[On Air](../Page/On_Air.md "wikilink")》                       | 全體                               |      | 客串                 | EP1 |
-| 《[我的老闆是惡魔](../Page/我的老闆是惡魔.md "wikilink")》 |                                                                       | EP6                                                            |                                  |      |                    |     |
-| KBS                                        | 《[幸福的背後](../Page/回家的路_\(2009年電視劇\).md "wikilink")》                    | 崔敏煥                                                            |                                  | 配角   | 全集                 |     |
-| SBS                                        | 《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》                      | 李洪基                                                            | Jeremy                           | 主演   |                    |     |
-| 2010年                                      | [MBC](../Page/文化廣播_\(韓國\).md "wikilink")                              | 《[越看越可愛](../Page/越看越可愛.md "wikilink")》                         |                                  | 客串   | EP111              |     |
-| SBS                                        | 《[我女友是九尾狐](../Page/我女友是九尾狐.md "wikilink")》                            | Jeremy                                                         | EP16                             |      |                    |     |
-| 2011年                                      | [MBS](../Page/每日放送.md "wikilink")/[TBS](../Page/TBS電視台.md "wikilink") | 《[肌肉女孩](../Page/肌肉女孩.md "wikilink")》                           | 柳智浩                              | 主角   | 全集                 |     |
-| KBS                                        | 《[紀子，去首爾吧](../Page/紀子，去首爾吧.md "wikilink")》                            | 金敏赫                                                            |                                  |      |                    |     |
-| 2014年                                      | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                    | 《[百年新娘](../Page/百年新娘.md "wikilink")》                           | 崔江州                              |      |                    |     |
-| SBS                                        | 《[Modern Farmer](../Page/Modern_Farmer.md "wikilink")》                | 李敏基                                                            |                                  |      |                    |     |
-| 2015年                                      | KBS                                                                   | 《[皇太子的王子](../Page/皇太子的王子_\(電視劇\).md "wikilink")》               | 崔鍾訓                              | 朴時賢  | 主角                 |     |
-| 網路劇                                        | 《[馬屁精](../Page/馬屁精_\(電視劇\).md "wikilink")》                            | 李在真                                                            |                                  |      |                    |     |
-| JTBC                                       | 《[英雄們](../Page/英雄們.md "wikilink")》                                    | 崔鍾訓                                                            | 崔熙烈                              | 主角   |                    |     |
-| 2016年                                      | Naver TVcast                                                          | 《[檢察官愛麗絲2](../Page/檢察官愛麗絲2.md "wikilink")》                     | 宋承炫                              | 馬正秀  |                    |     |
-| 《[88號街](../Page/88號街.md "wikilink")》       | 崔鍾訓                                                                   | Marco                                                          | 主角                               |      |                    |     |
-| 《[又甜又辣](../Page/又甜又辣.md "wikilink")》       | 崔敏煥                                                                   | 民俊                                                             |                                  |      |                    |     |
-| 2017年                                      | [Netflix](../Page/Netflix.md "wikilink")                              | 《[My Only Love Song](../Page/My_Only_Love_Song.md "wikilink")》 | 李在真                              | 卞三龍  |                    |     |
-| SBS                                        | 《[姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink")》                              | 羅濟東                                                            | 配角                               |      |                    |     |
-| tvN                                        | 《[花遊記](../Page/花遊記.md "wikilink")》                                    | 李洪基                                                            | [豬八戒](../Page/豬八戒.md "wikilink") | 主要角色 |                    |     |
-| 2018年                                      | [MBN](../Page/每日廣播.md "wikilink")                                     | 《[Rich Man](../Page/Rich_Man.md "wikilink")》                   | 李在真                              | 姜燦秀  | 配角                 |     |
+|                                                               |                                                                           |                                                                                   |                                                     |      |                    |     |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- | ---- | ------------------ | --- |
+| 年份                                                            | 電視台                                                                       | 劇名                                                                                | 參演成員                                                | 角色   | 性質                 | 集數  |
+| 2002年                                                         | [KBS](../Page/韓國放送公社.md "wikilink")                                       | 《[魔法兒童MASURI](https://zh.wikipedia.org/wiki/魔法兒童MASURI "wikilink")》               | 李洪基                                                 | 智勛   | 配角                 |     |
+| 2004年                                                         | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink")                       | 《[勇敢的女孩](https://zh.wikipedia.org/wiki/勇敢的女孩 "wikilink")》                         |                                                     |      |                    |     |
+| 《[指甲邊上有光](https://zh.wikipedia.org/wiki/指甲邊上有光 "wikilink")》   |                                                                           |                                                                                   |                                                     |      |                    |     |
+| 《[冬日孩子](https://zh.wikipedia.org/wiki/冬日孩子 "wikilink")》       |                                                                           |                                                                                   |                                                     |      |                    |     |
+| 2007年                                                         | KBS                                                                       | 《[無法阻擋的婚姻](https://zh.wikipedia.org/wiki/無法阻擋的婚姻 "wikilink")》                     | 李在真                                                 | 王四百  | （FTISLAND全體客串）EP62 |     |
+| 2009年                                                         | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                   | 《[On Air](../Page/On_Air.md "wikilink")》                                          | 全體                                                  |      | 客串                 | EP1 |
+| 《[我的老闆是惡魔](https://zh.wikipedia.org/wiki/我的老闆是惡魔 "wikilink")》 |                                                                           | EP6                                                                               |                                                     |      |                    |     |
+| KBS                                                           | 《[幸福的背後](../Page/回家的路_\(2009年電視劇\).md "wikilink")》                        | 崔敏煥                                                                               |                                                     | 配角   | 全集                 |     |
+| SBS                                                           | 《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》                          | 李洪基                                                                               | Jeremy                                              | 主演   |                    |     |
+| 2010年                                                         | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")               | 《[越看越可愛](../Page/越看越可愛.md "wikilink")》                                            |                                                     | 客串   | EP111              |     |
+| SBS                                                           | 《[我女友是九尾狐](https://zh.wikipedia.org/wiki/我女友是九尾狐 "wikilink")》             | Jeremy                                                                            | EP16                                                |      |                    |     |
+| 2011年                                                         | [MBS](../Page/每日放送.md "wikilink")/[TBS](../Page/TBS電視台.md "wikilink")     | 《[肌肉女孩](../Page/肌肉女孩.md "wikilink")》                                              | 柳智浩                                                 | 主角   | 全集                 |     |
+| KBS                                                           | 《[紀子，去首爾吧](https://zh.wikipedia.org/wiki/紀子，去首爾吧 "wikilink")》             | 金敏赫                                                                               |                                                     |      |                    |     |
+| 2014年                                                         | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                        | 《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》                           | 崔江州                                                 |      |                    |     |
+| SBS                                                           | 《[Modern Farmer](https://zh.wikipedia.org/wiki/Modern_Farmer "wikilink")》 | 李敏基                                                                               |                                                     |      |                    |     |
+| 2015年                                                         | KBS                                                                       | 《[皇太子的王子](../Page/皇太子的王子_\(電視劇\).md "wikilink")》                                  | 崔鍾訓                                                 | 朴時賢  | 主角                 |     |
+| 網路劇                                                           | 《[馬屁精](https://zh.wikipedia.org/wiki/馬屁精_\(電視劇\) "wikilink")》             | 李在真                                                                               |                                                     |      |                    |     |
+| JTBC                                                          | 《[英雄們](https://zh.wikipedia.org/wiki/英雄們 "wikilink")》                     | 崔鍾訓                                                                               | 崔熙烈                                                 | 主角   |                    |     |
+| 2016年                                                         | Naver TVcast                                                              | 《[檢察官愛麗絲2](https://zh.wikipedia.org/wiki/檢察官愛麗絲2 "wikilink")》                     | 宋承炫                                                 | 馬正秀  |                    |     |
+| 《[88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")》       | 崔鍾訓                                                                       | Marco                                                                             | 主角                                                  |      |                    |     |
+| 《[又甜又辣](https://zh.wikipedia.org/wiki/又甜又辣 "wikilink")》       | 崔敏煥                                                                       | 民俊                                                                                |                                                     |      |                    |     |
+| 2017年                                                         | [Netflix](../Page/Netflix.md "wikilink")                                  | 《[My Only Love Song](https://zh.wikipedia.org/wiki/My_Only_Love_Song "wikilink")》 | 李在真                                                 | 卞三龍  |                    |     |
+| SBS                                                           | 《[姐姐風采依舊](https://zh.wikipedia.org/wiki/姐姐風采依舊 "wikilink")》               | 羅濟東                                                                               | 配角                                                  |      |                    |     |
+| tvN                                                           | 《[花遊記](https://zh.wikipedia.org/wiki/花遊記 "wikilink")》                     | 李洪基                                                                               | [豬八戒](https://zh.wikipedia.org/wiki/豬八戒 "wikilink") | 主要角色 |                    |     |
+| 2018年                                                         | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")                      | 《[Rich Man](https://zh.wikipedia.org/wiki/Rich_Man "wikilink")》                   | 李在真                                                 | 姜燦秀  | 配角                 |     |
 
 ### 音樂劇
 
@@ -173,71 +173,71 @@ LineData =
 
 ### 電影
 
-|             |                                                                                                         |      |    |
-| ----------- | ------------------------------------------------------------------------------------------------------- | ---- | -- |
-| 上映日期        | 片名                                                                                                      | 參演成員 | 角色 |
-| 2011年11月10日 | 《[寵物情人](../Page/寵物情人.md "wikilink")》                                                                    | 崔鍾訓  | 恩秀 |
-| 2013年5月30日  | 《[跨樂心天堂：火熱告別曲](../Page/跨樂心天堂：火熱告別曲.md "wikilink")》                                                      | 李洪基  | 忠義 |
-| 2014年11月13日 | 《[Ready Action 青春](../Page/Ready_Action_青春.md "wikilink")》之《[世上沒有可信之人](../Page/世上沒有可信之人.md "wikilink")》 | 宋承炫  |    |
-| 2014年12月31日 | 《[偷狗的完美方法](../Page/偷狗的完美方法.md "wikilink")》                                                              | 李洪基  |    |
-| 2016年10月20日 | 《[步行王](../Page/步行王.md "wikilink")》                                                                      | 李在真  | 孝吉 |
-| 2016年11月7日  | 《[奇怪的解決師](../Page/奇怪的解決師.md "wikilink")》                                                                | 崔敏煥  |    |
+|             |                                                                                                                                               |      |    |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
+| 上映日期        | 片名                                                                                                                                            | 參演成員 | 角色 |
+| 2011年11月10日 | 《[寵物情人](https://zh.wikipedia.org/wiki/寵物情人 "wikilink")》                                                                                       | 崔鍾訓  | 恩秀 |
+| 2013年5月30日  | 《[跨樂心天堂：火熱告別曲](https://zh.wikipedia.org/wiki/跨樂心天堂：火熱告別曲 "wikilink")》                                                                         | 李洪基  | 忠義 |
+| 2014年11月13日 | 《[Ready Action 青春](https://zh.wikipedia.org/wiki/Ready_Action_青春 "wikilink")》之《[世上沒有可信之人](https://zh.wikipedia.org/wiki/世上沒有可信之人 "wikilink")》 | 宋承炫  |    |
+| 2014年12月31日 | 《[偷狗的完美方法](https://zh.wikipedia.org/wiki/偷狗的完美方法 "wikilink")》                                                                                 | 李洪基  |    |
+| 2016年10月20日 | 《[步行王](https://zh.wikipedia.org/wiki/步行王 "wikilink")》                                                                                         | 李在真  | 孝吉 |
+| 2016年11月7日  | 《[奇怪的解決師](https://zh.wikipedia.org/wiki/奇怪的解決師 "wikilink")》                                                                                   | 崔敏煥  |    |
 
 ### 主持
 
-|       |                                         |                      |                                     |                                  |
-| ----- | --------------------------------------- | -------------------- | ----------------------------------- | -------------------------------- |
-| 日期    | 電視台                                     | 節目名稱                 | 集數                                  | 參與成員                             |
-| 2008年 | [MBC](../Page/MBC.md "wikilink")        | 《偶像軍團》               | 第一季 EP02                            |                                  |
-| 2008年 | [MBC](../Page/MBC.md "wikilink")        | 《偶像軍團》               | 第二季 EP01 \~ EP07                    |                                  |
-| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《人氣歌謠》               | 11/01/09 擔任一日MC                     | [李洪基](../Page/李洪基.md "wikilink") |
-| 2012年 | [Mnet](../Page/Mnet.md "wikilink")      | 《M\! Countdown》      | 12/08/30 \~ 12/12/13 新任MC           | [李洪基](../Page/李洪基.md "wikilink") |
-| 2014年 | [Mnet](../Page/Mnet.md "wikilink")      | 《M\! Countdown》十週年特輯 | 14/7/24 擔任一日MC                      | [李洪基](../Page/李洪基.md "wikilink") |
-| 2014年 | [NHK](../Page/NHK.md "wikilink")        | 《テレビでハングル講座》韓語講座     | 14/03/31（EP01） \~ 15/03/16（EP48）    |                                  |
-| 2015年 | [NHK](../Page/NHK.md "wikilink")        | 《テレビでハングル講座》韓語講座     | 15/04/01（EP01） \~ 15/09/23（EP24）    |                                  |
-| 2017年 | [MBC](../Page/MBC.md "wikilink")        | 《黃金漁場 Radio Star》    | Ep488 17/07/12 擔任特別MC               | [李洪基](../Page/李洪基.md "wikilink") |
-| 2017年 | [Mnet](../Page/Mnet.md "wikilink")      | 《M\! Countdown》      | 17/08/06 擔任一日MC                     | [李洪基](../Page/李洪基.md "wikilink") |
-| 2017年 | [JTBC](../Page/JTBC.md "wikilink")      | 《夜行鬼怪》               | EP2 \~ EP32 17/08/06 \~ 18/03/18    | [李洪基](../Page/李洪基.md "wikilink") |
-| 2017年 | [MBC](../Page/MBC.md "wikilink")        | 《哥哥的想法》              | Ep12 \~ 13 17/08/07、17/08/14 擔任特別MC | [李洪基](../Page/李洪基.md "wikilink") |
-| 2017年 | [TV朝鮮](../Page/TV朝鮮.md "wikilink")      | 《傳說的保齡球》             | 17/03/16 \~                         | [李洪基](../Page/李洪基.md "wikilink") |
+|       |                                                       |                      |                                     |                                  |
+| ----- | ----------------------------------------------------- | -------------------- | ----------------------------------- | -------------------------------- |
+| 日期    | 電視台                                                   | 節目名稱                 | 集數                                  | 參與成員                             |
+| 2008年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《偶像軍團》               | 第一季 EP02                            |                                  |
+| 2008年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《偶像軍團》               | 第二季 EP01 \~ EP07                    |                                  |
+| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《人氣歌謠》               | 11/01/09 擔任一日MC                     | [李洪基](../Page/李洪基.md "wikilink") |
+| 2012年 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《M\! Countdown》      | 12/08/30 \~ 12/12/13 新任MC           | [李洪基](../Page/李洪基.md "wikilink") |
+| 2014年 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《M\! Countdown》十週年特輯 | 14/7/24 擔任一日MC                      | [李洪基](../Page/李洪基.md "wikilink") |
+| 2014年 | [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")   | 《テレビでハングル講座》韓語講座     | 14/03/31（EP01） \~ 15/03/16（EP48）    |                                  |
+| 2015年 | [NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")   | 《テレビでハングル講座》韓語講座     | 15/04/01（EP01） \~ 15/09/23（EP24）    |                                  |
+| 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《黃金漁場 Radio Star》    | Ep488 17/07/12 擔任特別MC               | [李洪基](../Page/李洪基.md "wikilink") |
+| 2017年 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《M\! Countdown》      | 17/08/06 擔任一日MC                     | [李洪基](../Page/李洪基.md "wikilink") |
+| 2017年 | [JTBC](../Page/JTBC.md "wikilink")                    | 《夜行鬼怪》               | EP2 \~ EP32 17/08/06 \~ 18/03/18    | [李洪基](../Page/李洪基.md "wikilink") |
+| 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 《哥哥的想法》              | Ep12 \~ 13 17/08/07、17/08/14 擔任特別MC | [李洪基](../Page/李洪基.md "wikilink") |
+| 2017年 | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                    | 《傳說的保齡球》             | 17/03/16 \~                         | [李洪基](../Page/李洪基.md "wikilink") |
 
 ### 電台
 
-|       |                                         |                                                                                |        |
-| ----- | --------------------------------------- | ------------------------------------------------------------------------------ | ------ |
-| 日期    | 電台                                      | 節目名稱                                                                           | 集數     |
-| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")    | 《[娛樂E世代](../Page/娛樂E世代.md "wikilink")》                                         | 100303 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[崔华静的PowerTime](../Page/崔华静的PowerTime.md "wikilink")》                         | 100831 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[希澈的YoungStreet](../Page/希澈的YoungStreet.md "wikilink")》                       | 100901 |
-| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[SweetSorrow's TenTenClub](../Page/SweetSorrow's_TenTenClub.md "wikilink")》   | 100902 |
-| 2010年 | [KBS](../Page/KBS.md "wikilink")        | 《[2FM KTR](../Page/2FM_KTR.md "wikilink")》                                     | 100903 |
-| 2010年 | [KBS](../Page/KBS.md "wikilink")        | 《[洪真京的歌谣广场](../Page/洪真京的歌谣广场.md "wikilink")》                                   | 100910 |
-| 2010年 | [KBS](../Page/KBS.md "wikilink")        | 《[李秀英的music show](../Page/李秀英的music_show.md "wikilink")》                       | 100911 |
-| 2010年 | [MBC](../Page/MBC.md "wikilink")        | 《[深深打破](../Page/深深打破.md "wikilink")》                                           | 100915 |
-| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")    | 《[娛樂E世代](../Page/娛樂E世代.md "wikilink")》                                         | 101224 |
-| 2011年 | [MBC](../Page/MBC.md "wikilink")        | 《[深深打破](../Page/深深打破.md "wikilink")》                                           | 111019 |
-| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[兩點逃脫](../Page/兩點逃脫.md "wikilink")》                                           | 111020 |
-| 2011年 | [KBS](../Page/KBS.md "wikilink")        | 《[Kiss the radio](../Page/Kiss_the_radio.md "wikilink")》                       | 111020 |
-| 2011年 | [MBC](../Page/MBC.md "wikilink")        | 《[星光燦爛的夜晚](../Page/星光燦爛的夜晚.md "wikilink")》                                     | 111024 |
-| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[Old school](../Page/Old_school.md "wikilink")》                               | 111031 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[崔華靜的Power Time](../Page/崔華靜的Power_Time.md "wikilink")》                       | 130528 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](../Page/兩點逃出_Cultwo_Show_두시탈출_컬투쇼.md "wikilink")》 | 130601 |
-| 2013年 | 東北6縣網路電台                                | 《STEPPIN' TOHOKU》                                                              | 130614 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《POWER FM 金昌烈的Old school》                                                      | 130924 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《Power FM Boom's Young Street》                                                 | 131020 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《Power FM 朴素賢的LOVE GAME》                                                       | 131127 |
-| 2013年 | [MBC](../Page/MBC.md "wikilink")        | 《FM 神童-深深打破》                                                                   | 131128 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《Power FM Young Street》                                                        | 131129 |
-| 2013年 | [KBS](../Page/KBS.md "wikilink")        | 《2FM SJ-Kiss The Radio》                                                        | 131129 |
-| 2013年 | [KBS](../Page/KBS.md "wikilink")        | 《Cool FM 李素羅的歌謠廣場》                                                             | 131203 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《Power FM 金昌烈的Old school》                                                      | 131203 |
-| 2015年 | [KBS](../Page/KBS.md "wikilink")        | 《張東民Lady Jane的兩點》                                                              | 130327 |
-| 2015年 | [KBS](../Page/KBS.md "wikilink")        | 《[Kiss the radio](../Page/Kiss_the_radio.md "wikilink")》                       | 150331 |
-| 2015年 | [MBC](../Page/MBC.md "wikilink")        | 《[SUNNY'S FM DATE](../Page/SUNNY'S_FM_DATE.md "wikilink")》                     | 150401 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](../Page/兩點逃出_Cultwo_Show_두시탈출_컬투쇼.md "wikilink")》 | 150402 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](../Page/兩點逃出_Cultwo_Show_두시탈출_컬투쇼.md "wikilink")》 | 150716 |
-| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](../Page/兩點逃出_Cultwo_Show_두시탈출_컬투쇼.md "wikilink")》 | 151119 |
-| 2015年 | [MBC](../Page/MBC.md "wikilink")        | 《[朴京林的兩點約會](../Page/朴京林的兩點約會.md "wikilink")》                                   | 151125 |
+|       |                                                     |                                                                                                   |        |
+| ----- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------ |
+| 日期    | 電台                                                  | 節目名稱                                                                                              | 集數     |
+| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")                | 《[娛樂E世代](https://zh.wikipedia.org/wiki/娛樂E世代 "wikilink")》                                         | 100303 |
+| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[崔华静的PowerTime](https://zh.wikipedia.org/wiki/崔华静的PowerTime "wikilink")》                         | 100831 |
+| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[希澈的YoungStreet](https://zh.wikipedia.org/wiki/希澈的YoungStreet "wikilink")》                       | 100901 |
+| 2010年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[SweetSorrow's TenTenClub](https://zh.wikipedia.org/wiki/SweetSorrow's_TenTenClub "wikilink")》   | 100902 |
+| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[2FM KTR](https://zh.wikipedia.org/wiki/2FM_KTR "wikilink")》                                     | 100903 |
+| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[洪真京的歌谣广场](https://zh.wikipedia.org/wiki/洪真京的歌谣广场 "wikilink")》                                   | 100910 |
+| 2010年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[李秀英的music show](https://zh.wikipedia.org/wiki/李秀英的music_show "wikilink")》                       | 100911 |
+| 2010年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[深深打破](https://zh.wikipedia.org/wiki/深深打破 "wikilink")》                                           | 100915 |
+| 2010年 | [中廣流行網](../Page/中廣流行網.md "wikilink")                | 《[娛樂E世代](https://zh.wikipedia.org/wiki/娛樂E世代 "wikilink")》                                         | 101224 |
+| 2011年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[深深打破](https://zh.wikipedia.org/wiki/深深打破 "wikilink")》                                           | 111019 |
+| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃脫](https://zh.wikipedia.org/wiki/兩點逃脫 "wikilink")》                                           | 111020 |
+| 2011年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Kiss the radio](https://zh.wikipedia.org/wiki/Kiss_the_radio "wikilink")》                       | 111020 |
+| 2011年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[星光燦爛的夜晚](https://zh.wikipedia.org/wiki/星光燦爛的夜晚 "wikilink")》                                     | 111024 |
+| 2011年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[Old school](https://zh.wikipedia.org/wiki/Old_school "wikilink")》                               | 111031 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[崔華靜的Power Time](https://zh.wikipedia.org/wiki/崔華靜的Power_Time "wikilink")》                       | 130528 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 130601 |
+| 2013年 | 東北6縣網路電台                                            | 《STEPPIN' TOHOKU》                                                                                 | 130614 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《POWER FM 金昌烈的Old school》                                                                         | 130924 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM Boom's Young Street》                                                                    | 131020 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM 朴素賢的LOVE GAME》                                                                          | 131127 |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《FM 神童-深深打破》                                                                                      | 131128 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM Young Street》                                                                           | 131129 |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《2FM SJ-Kiss The Radio》                                                                           | 131129 |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《Cool FM 李素羅的歌謠廣場》                                                                                | 131203 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《Power FM 金昌烈的Old school》                                                                         | 131203 |
+| 2015年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《張東民Lady Jane的兩點》                                                                                 | 130327 |
+| 2015年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Kiss the radio](https://zh.wikipedia.org/wiki/Kiss_the_radio "wikilink")》                       | 150331 |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[SUNNY'S FM DATE](https://zh.wikipedia.org/wiki/SUNNY'S_FM_DATE "wikilink")》                     | 150401 |
+| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 150402 |
+| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 150716 |
+| 2015年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[兩點逃出 Cultwo Show 두시탈출 컬투쇼](https://zh.wikipedia.org/wiki/兩點逃出_Cultwo_Show_두시탈출_컬투쇼 "wikilink")》 | 151119 |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[朴京林的兩點約會](https://zh.wikipedia.org/wiki/朴京林的兩點約會 "wikilink")》                                   | 151125 |
 
 ### 代言
 
@@ -265,9 +265,10 @@ LineData =
   - [I Will](../Page/I_WILL_\(FTIsland專輯\).md "wikilink")（2015年）
 
   - [Where's the
-    Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
+    Truth?](https://zh.wikipedia.org/wiki/Where's_the_Truth? "wikilink")（2016年）
 
-  - [Over 10 Years](../Page/OVER_10_YEARS.md "wikilink")（2017年）
+  - [Over 10
+    Years](https://zh.wikipedia.org/wiki/OVER_10_YEARS "wikilink")（2017年）
 
 ### 日語專輯
 
@@ -276,9 +277,10 @@ LineData =
   - [Five Treasure
     Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
 
-  - [20 \[Twenty](../Page/20［twenty］.md "wikilink")\]（2012年）
+  - [20
+    \[Twenty](https://zh.wikipedia.org/wiki/20［twenty］ "wikilink")\]（2012年）
 
-  - [Rated-FT](../Page/RATED-FT.md "wikilink")（2013年）
+  - [Rated-FT](https://zh.wikipedia.org/wiki/RATED-FT "wikilink")（2013年）
 
   - [New Page](../Page/NEW_PAGE.md "wikilink")（2014年）
 
@@ -286,9 +288,11 @@ LineData =
 
   - [N.W.U](../Page/N.W.U.md "wikilink")（2016年）
 
-  - [United Shadows](../Page/UNITED_SHADOWS.md "wikilink")（2017年）
+  - [United
+    Shadows](https://zh.wikipedia.org/wiki/UNITED_SHADOWS "wikilink")（2017年）
 
-  - [Planet Bonds](../Page/Planet_Bonds.md "wikilink")（2018年）
+  - [Planet
+    Bonds](https://zh.wikipedia.org/wiki/Planet_Bonds "wikilink")（2018年）
 
   - Everlasting（2019年）
 
@@ -493,25 +497,25 @@ LineData =
 
   - 2015 FTISLAND LIVE \[We Will\]
 
-|             |           |                                                                                   |
-| ----------- | --------- | --------------------------------------------------------------------------------- |
-| **日期**      | **演唱會站次** | **舉行地點**                                                                          |
-| 2015年5月23日  | 台北站       | [南港展覽館](../Page/台北世界貿易中心南港展覽館.md "wikilink")                                      |
-| 2015年7月4日   | 上海站       | [上海長寧體操中心](../Page/上海長寧體操中心.md "wikilink")                                        |
-| 2015年8月1日   | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Arena                                    |
-| 2015年8月8、9日 | 首爾站       | [首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克大廳](../Page/奧林匹克公園_\(首爾\).md "wikilink") |
-| 2015年8月23日  | 廣州站       | [廣州體育館](../Page/廣州體育館.md "wikilink")2號館                                           |
-| 2015年9月12日  | 曼谷站       | Thunder Dome, Muang Thong Thani                                                   |
+|             |           |                                                                                                      |
+| ----------- | --------- | ---------------------------------------------------------------------------------------------------- |
+| **日期**      | **演唱會站次** | **舉行地點**                                                                                             |
+| 2015年5月23日  | 台北站       | [南港展覽館](https://zh.wikipedia.org/wiki/台北世界貿易中心南港展覽館 "wikilink")                                      |
+| 2015年7月4日   | 上海站       | [上海長寧體操中心](https://zh.wikipedia.org/wiki/上海長寧體操中心 "wikilink")                                        |
+| 2015年8月1日   | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Arena                                                       |
+| 2015年8月8、9日 | 首爾站       | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[奧林匹克公園奧林匹克大廳](../Page/奧林匹克公園_\(首爾\).md "wikilink") |
+| 2015年8月23日  | 廣州站       | [廣州體育館](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")2號館                                           |
+| 2015年9月12日  | 曼谷站       | Thunder Dome, Muang Thong Thani                                                                      |
 
   - 5th Anniversary Arena Tour 2015 "5.....GO"
 
-|                |           |                                            |
-| -------------- | --------- | ------------------------------------------ |
-| **日期**         | **演唱會站次** | **舉行地點**                                   |
-| 2015年5月27日     | 東京站       | [國立代代木競技場](../Page/國立代代木競技場.md "wikilink") |
-| 2015年6月14日     | 大阪站       | [大阪城ホール](../Page/大阪城ホール.md "wikilink")     |
-| 2015年6月20日、21日 | 愛知站       | 日本ガイシホール                                   |
-| 2015年7月20日     | 神奈川站      | [橫濱體育館](../Page/橫濱體育館.md "wikilink")       |
+|                |           |                                                           |
+| -------------- | --------- | --------------------------------------------------------- |
+| **日期**         | **演唱會站次** | **舉行地點**                                                  |
+| 2015年5月27日     | 東京站       | [國立代代木競技場](../Page/國立代代木競技場.md "wikilink")                |
+| 2015年6月14日     | 大阪站       | [大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink") |
+| 2015年6月20日、21日 | 愛知站       | 日本ガイシホール                                                  |
+| 2015年7月20日     | 神奈川站      | [橫濱體育館](../Page/橫濱體育館.md "wikilink")                      |
 
   - FTISLAND 5th Anniversary Autumn Tour 2015 “Where's my PUPPY?”
 
@@ -563,14 +567,14 @@ LineData =
 
   - FTISLAND LIVE \[THE TRUTH\]
 
-|                |           |                                                  |
-| -------------- | --------- | ------------------------------------------------ |
-| **日期**         | **演唱會站次** | **舉行地點**                                         |
-| 2016年8月20日、21日 | 首爾站       | YES24 LIVE HALL                                  |
-| 2016年12月3日     | 台北站       | [台大體育館](../Page/台大體育館.md "wikilink")             |
-| 2016年12月16日    | 上海站       | [上海大舞台](../Page/上海大舞台.md "wikilink")             |
-| 2017年1月21日     | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Hall 10 |
-| 2017年2月11日     | 新加坡站      | Singapore Indoor Stadium                         |
+|                |           |                                                         |
+| -------------- | --------- | ------------------------------------------------------- |
+| **日期**         | **演唱會站次** | **舉行地點**                                                |
+| 2016年8月20日、21日 | 首爾站       | YES24 LIVE HALL                                         |
+| 2016年12月3日     | 台北站       | [台大體育館](https://zh.wikipedia.org/wiki/台大體育館 "wikilink") |
+| 2016年12月16日    | 上海站       | [上海大舞台](https://zh.wikipedia.org/wiki/上海大舞台 "wikilink") |
+| 2017年1月21日     | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Hall 10        |
+| 2017年2月11日     | 新加坡站      | Singapore Indoor Stadium                                |
 
   - FTISLAND Arena Tour 2017 -UNITED SHADOWS -
 
@@ -684,8 +688,8 @@ LineData =
 | 2014年3月16日      | 2013 FNC KINGDOM IN JAPAN - Crazy Day            | [日本武道館](../Page/日本武道館.md "wikilink")（原訂2013/12/28-29西武巨蛋舉行，延後） |
 | 2014年12月20日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:EMERALD 午場 | [幕張展覽館](../Page/幕張展覽館.md "wikilink")(幕張メッセ)                    |
 | 2014年12月20日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:DIAMOND 夜場 | [幕張展覽館](../Page/幕張展覽館.md "wikilink")(幕張メッセ)                    |
-| 2014年12月27日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:EMERALD 午場 | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                         |
-| 2014年12月27日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:DIAMOND 夜場 | [大阪城ホール](../Page/大阪城ホール.md "wikilink")                         |
+| 2014年12月27日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:EMERALD 午場 | [大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")      |
+| 2014年12月27日     | 2014 FNC KINGDOM IN JAPAN - STARLIGHT:DIAMOND 夜場 | [大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")      |
 | 2015年5月2日、3日    | 2015 FNC KINGDOM IN SEOUL                        | 蠶室室內體育館 잠실실내체육관                                                |
 | 2015年5月16日、17日  | 2015 FNC KINGDOM IN HONG KONG                    | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Arena (1號展館)          |
 | 2015年12月12日、13日 | 2015 FNC KINGDOM IN JAPAN                        | [幕張展覽館](../Page/幕張展覽館.md "wikilink")(幕張メッセ)                    |
@@ -827,8 +831,8 @@ LineData =
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p>7月19日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>愛情病</p></td>
 <td><p>1位</p></td>
 </tr>
@@ -843,7 +847,7 @@ LineData =
 <tr class="even">
 <td><p>7月29日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
@@ -866,8 +870,8 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>9月14日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -884,14 +888,14 @@ LineData =
 <td><p>2008年</p></td>
 <td><p>1月6日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>等你回頭</p></td>
 <td><p>1位（Mutizen Song）</p></td>
 </tr>
 <tr class="even">
 <td><p>10月2日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>譃愛</p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -900,22 +904,22 @@ LineData =
 <td><p>2010年</p></td>
 <td><p>9月5日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>Love Love Love</p></td>
 <td><p>1位（Mutizen Song）</p></td>
 </tr>
 <tr class="even">
 <td><p>9月9日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月10日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -923,7 +927,7 @@ LineData =
 <tr class="even">
 <td><p>9月12日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
@@ -938,8 +942,8 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>2月16日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -963,15 +967,15 @@ LineData =
 <tr class="odd">
 <td><p>2月26日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人氣歌謠.md" title="wikilink">人氣歌謠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
 <td></td>
@@ -986,16 +990,16 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>9月20日</p></td>
-<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="../Page/M!_Countdown.md" title="wikilink">M! Countdown</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>I Wish</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月21日</p></td>
-<td><p><a href="../Page/KBS.md" title="wikilink">KBS</a></p></td>
-<td><p><a href="../Page/Music_Bank.md" title="wikilink">Music Bank</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>狠狠愛</p></td>
 <td><p>年终总结 第29位</p></td>
 <td></td>
@@ -1059,25 +1063,25 @@ LineData =
 <td><p>2007年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Cheerful_Sensibility.md" title="wikilink">Cheerful Sensibility</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cheerful_Sensibility" title="wikilink">Cheerful Sensibility</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Cheerful_Sensibility.md" title="wikilink">The Refreshment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cheerful_Sensibility" title="wikilink">The Refreshment</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Colorful_Sensibility.md" title="wikilink">Colorful Sensibility</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Colorful_Sensibility" title="wikilink">Colorful Sensibility</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Colorful_Sensibility.md" title="wikilink">Colorful Sensibility Part 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Colorful_Sensibility" title="wikilink">Colorful Sensibility Part 2</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JUMP_UP_(FTIsland迷你專輯).md" title="wikilink">JUMP UP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JUMP_UP_(FTIsland迷你專輯)" title="wikilink">JUMP UP</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/CROSS_&amp;_CHANGE.md" title="wikilink">CROSS &amp; CHANGE</a></p></td>
@@ -1089,22 +1093,22 @@ LineData =
 <td><p>2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Beautiful_Journey.md" title="wikilink">Beautiful Journey</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beautiful_Journey" title="wikilink">Beautiful Journey</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/RETURN.md" title="wikilink">RETURN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RETURN" title="wikilink">RETURN</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Memory_In_FTIsland.md" title="wikilink">Memory In FTIsland</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Memory_In_FTIsland" title="wikilink">Memory In FTIsland</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/GROWN-UP.md" title="wikilink">GROWN-UP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GROWN-UP" title="wikilink">GROWN-UP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FIVE_TREASURE_BOX.md" title="wikilink">FIVE TREASURE BOX</a></p></td>
@@ -1116,7 +1120,7 @@ LineData =
 <td><p><a href="../Page/THANKS_TO.md" title="wikilink">THANKS TO</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/THE_MOOD.md" title="wikilink">THE MOOD</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_MOOD" title="wikilink">THE MOOD</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -1134,13 +1138,13 @@ LineData =
 <td><p>2016年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Where&#39;s_the_Truth?.md" title="wikilink">Where's the Truth?</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Where&#39;s_the_Truth?" title="wikilink">Where's the Truth?</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/OVER_10_YEARS.md" title="wikilink">OVER 10 YEARS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OVER_10_YEARS" title="wikilink">OVER 10 YEARS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>愛情病</p></td>

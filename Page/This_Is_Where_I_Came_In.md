@@ -1,7 +1,7 @@
 《**This Is Where I Came In**》是[Bee
-Gees的第](../Page/Bee_Gees.md "wikilink")20張原創專輯，也是他們的最後一張全部都是新歌的專輯。發行於2001年，不久後的2003年[莫里斯·吉布病逝](../Page/莫里斯·吉布.md "wikilink")，從此Bee
+Gees的第](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink")20張原創專輯，也是他們的最後一張全部都是新歌的專輯。發行於2001年，不久後的2003年[莫里斯·吉布病逝](../Page/莫里斯·吉布.md "wikilink")，從此Bee
 Gees就停止了運作。專輯中的主打歌《"[This Is Where I Came
-In](../Page/This_Is_Where_I_Came_In_\(歌曲\).md "wikilink")"》就說是表現了Bee
+In](https://zh.wikipedia.org/wiki/This_Is_Where_I_Came_In_\(歌曲\) "wikilink")"》就說是表現了Bee
 Gees樂隊的生涯，曾登上英國音樂排行榜第18位。
 
 ## 簡介
@@ -12,14 +12,14 @@ Lives"》，[羅賓·吉布主唱](../Page/羅賓·吉布.md "wikilink")《"Embr
 in the Middle"》。
 
 這張專輯包含了許多音樂流派的歌曲。《"This Is Where I Came
-In"》的和[獨立搖滾主題與Bee](../Page/獨立搖滾.md "wikilink")
+In"》的和[獨立搖滾主題與Bee](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")
 Gees1960年代的歌曲比較相似；《"She Keeps on Coming"》和《"Voice in the
 Wilderness"》則屬於強搖滾歌曲；《"Sacred Trust"》、《 "Just in
 Case"》和《"Wedding Day"》延續了Bee
 Gees一貫的細膩愛情歌曲的風格。羅賓的兩首歌曲，《"Embrace"》和《"Promise
 The
-Earth"》是[歐洲流行音樂風格的舞曲](../Page/歐洲流行音樂.md "wikilink")。最與眾不同的是《"Technicolor
-Dreams"》，是向1930年代[叮砰巷致敬的歌曲](../Page/叮砰巷.md "wikilink")。
+Earth"》是[歐洲流行音樂風格的舞曲](https://zh.wikipedia.org/wiki/歐洲流行音樂 "wikilink")。最與眾不同的是《"Technicolor
+Dreams"》，是向1930年代[叮砰巷致敬的歌曲](https://zh.wikipedia.org/wiki/叮砰巷 "wikilink")。
 
 Bee Gees在演唱會Live By Request中曾演唱過其中幾首歌。
 

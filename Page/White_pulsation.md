@@ -1,30 +1,31 @@
 《**white
 pulsation**》（）是[日本女歌手](../Page/日本.md "wikilink")[ELISA的第一張個人專輯](../Page/ELISA_\(歌手\).md "wikilink")，由[GENEON
-ENTERTAINMENT發行](../Page/GENEON_ENTERTAINMENT.md "wikilink")。2009年1月21日發行。初回限定盤：GNCA-1198；通常盤：GNCA-1199\[1\]。
+ENTERTAINMENT發行](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")。2009年1月21日發行。初回限定盤：GNCA-1198；通常盤：GNCA-1199\[1\]。
 
 ## 概要
 
   - 「white pulsation」取「白色脈動」之意；
   - 初回限定盘PV收录DVD特典付。
   - 參加專輯曲目制作的有[天門](../Page/天門_\(作曲家\).md "wikilink")、[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")、[志倉千代丸](../Page/志倉千代丸.md "wikilink")、[田代智一](../Page/田代智一.md "wikilink")、[Shusui](../Page/Shusui.md "wikilink")、[Satomi等知名的作曲家和作家團體](../Page/Satomi.md "wikilink")。
+    Garden](../Page/Elements_Garden.md "wikilink")、[志倉千代丸](../Page/志倉千代丸.md "wikilink")、[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")、[Shusui](https://zh.wikipedia.org/wiki/Shusui "wikilink")、[Satomi等知名的作曲家和作家團體](https://zh.wikipedia.org/wiki/Satomi "wikilink")。
 
 ## 收錄曲
 
 1.  Prologue
 
-      - 作曲、編曲：[前嵨康明](../Page/前嵨康明.md "wikilink")
+      - 作曲、編曲：[前嵨康明](https://zh.wikipedia.org/wiki/前嵨康明 "wikilink")
 
-2.  [euphoric field](../Page/euphoric_field.md "wikilink")
+2.  [euphoric
+    field](https://zh.wikipedia.org/wiki/euphoric_field "wikilink")
 
       - 電視動畫《[ef - a tale of
-        memories.](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")》片頭曲
-      - 作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
+        memories.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》片頭曲
+      - 作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
 
 3.  ENDLESS ANTHOLOGY
 
       - 作詞、作曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements
-        Garden](../Page/Elements_Garden.md "wikilink")）；編曲：[菊田大介](../Page/菊田大介.md "wikilink")（Elements
+        Garden](../Page/Elements_Garden.md "wikilink")）；編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements
         Garden）
 
 4.  [HIKARI](../Page/HIKARI_\(ELISA單曲\).md "wikilink")
@@ -38,12 +39,13 @@ ENTERTAINMENT發行](../Page/GENEON_ENTERTAINMENT.md "wikilink")。2009年1月21
 
       - 作詞：西田惠美；作曲：佐伯高志；編曲：前口渉
 
-7.    - 作詞：[及川眠子](../Page/及川眠子.md "wikilink")；作曲：[田代智一](../Page/田代智一.md "wikilink")；編曲：大坪直樹
+7.    - 作詞：[及川眠子](https://zh.wikipedia.org/wiki/及川眠子 "wikilink")；作曲：[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")；編曲：大坪直樹
 
-8.  [ebullient future](../Page/ebullient_future.md "wikilink")
+8.  [ebullient
+    future](https://zh.wikipedia.org/wiki/ebullient_future "wikilink")
 
       - 電視動畫《[ef - a tale of
-        melodies.](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")》片頭曲
+        melodies.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")》片頭曲
       - 作詞：酒井伸和；作曲、編曲：天門、柳英一郎
 
 9.    - 作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")；編曲：水野大輔
@@ -56,7 +58,7 @@ ENTERTAINMENT發行](../Page/GENEON_ENTERTAINMENT.md "wikilink")。2009年1月21
 
       - 作詞、作曲、編曲：上松範康（Elements Garden）
 
-12.   - 作詞：[Satomi](../Page/Satomi.md "wikilink")、作曲：Shusui、編曲：大坪直樹
+12.   - 作詞：[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")、作曲：Shusui、編曲：大坪直樹
 
 13. Epilogue
 

@@ -1,4 +1,4 @@
-***Open*GALEN**是一家非营利性组织。其网站之上提供有一部可供下载的[开源型](../Page/开放源码.md "wikilink")。该术语集是采用一种称为GRAIL（，GALEN概念表达语言）的[形式化语言编制的](../Page/形式语言.md "wikilink")。
+***Open*GALEN**是一家非营利性组织。其网站之上提供有一部可供下载的[开源型](https://zh.wikipedia.org/wiki/开放源码 "wikilink")。该术语集是采用一种称为GRAIL（，GALEN概念表达语言）的[形式化语言编制的](../Page/形式语言.md "wikilink")。
 
 ## 参考资料
 

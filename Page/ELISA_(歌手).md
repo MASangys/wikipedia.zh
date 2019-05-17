@@ -1,6 +1,6 @@
 **ELISA**是於[日本](../Page/日本.md "wikilink")[神奈川縣出身的女性歌手](../Page/神奈川縣.md "wikilink")，所属唱片公司为[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")（至2011年年底为[Geneon
-Universal](../Page/Geneon_Universal.md "wikilink")），於2007年10月以單曲《euphoric
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")（至2011年年底为[Geneon
+Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")），於2007年10月以單曲《euphoric
 field feat. ELISA》出道。
 
 ## 人物經歷
@@ -8,7 +8,7 @@ field feat. ELISA》出道。
   - 2007年7月自「elite MODEL LOOK 2007」應募者3000人入選10人之一。\[1\]
   - 在視聽的審查員詢問到關於模特兒的工作時回答「我並不想成為模特兒，而是歌手」，讓她試唱後就決定一個月後出道。\[2\]
   - 現在就讀大學的英文科，對於英文僅僅是「發音的程度……」。從未住在國外。\[3\]
-  - 对于[相机的使用方法感到困难](../Page/相机.md "wikilink")，曾经在节目中提到，2009年的目标是希望能够熟练掌握相机的使用方法。喜欢[蜂蜜](../Page/蜂蜜.md "wikilink")。在LIVE中自称为「博士」。2010年4月29日举行的ELISA第三次LIVE「Rouge
+  - 对于[相机的使用方法感到困难](https://zh.wikipedia.org/wiki/相机 "wikilink")，曾经在节目中提到，2009年的目标是希望能够熟练掌握相机的使用方法。喜欢[蜂蜜](../Page/蜂蜜.md "wikilink")。在LIVE中自称为「博士」。2010年4月29日举行的ELISA第三次LIVE「Rouge
     Adolescence」中，本人首次作詞作曲的歌曲「真实之証」披露（其后收录于第三张专辑[Lasei中](../Page/Lasei.md "wikilink")）。同年5月15日，官方[Twitter账号开始运行](../Page/Twitter.md "wikilink")。
   - 2011年9月18日，在官网上宣布因为身体原因需要休养，音乐活动暂时休止的公告\[4\]。
   - 2012年4月14日，宣布再次开始音乐活动，6月20日精选集发售。
@@ -17,7 +17,7 @@ field feat. ELISA》出道。
     Heart"將於1月25日於"リスアニ！Vol.12"作為CD特典發佈，同時，官方[Twitter以](../Page/Twitter.md "wikilink")「Elisa_0414」重新運行。
   - 2017年4月，由原先[SME
     Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-    MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[6\]
+    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[6\]
 
 ## 作品
 
@@ -36,19 +36,19 @@ field feat. ELISA》出道。
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2007年10月24日</p></td>
-<td><p><strong><a href="../Page/euphoric_field.md" title="wikilink">euphoric field feat. ELISA</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/euphoric_field" title="wikilink">euphoric field feat. ELISA</a></strong></p></td>
 <td><p>GNCA-0073</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2008年5月21日</p></td>
-<td><p><strong><a href="../Page/HIKARI_(ELISA单曲).md" title="wikilink">HIKARI</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/HIKARI_(ELISA单曲)" title="wikilink">HIKARI</a></strong></p></td>
 <td><p>GNCA-0090</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2008年11月5日</p></td>
-<td><p><strong><a href="../Page/ebullient_future.md" title="wikilink">ebullient future</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ebullient_future" title="wikilink">ebullient future</a></strong></p></td>
 <td><p>GNCA-0122</p></td>
 </tr>
 <tr class="even">
@@ -81,7 +81,7 @@ GNCA-0159（通常盤）</p></td>
 <tr class="even">
 <td><p>※</p></td>
 <td><p>2010年11月3日</p></td>
-<td><p><strong><a href="../Page/God_only_knows～集成電路的夢旅人.md" title="wikilink">God only knows〜集積回路の夢旅人</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/God_only_knows～集成電路的夢旅人" title="wikilink">God only knows〜集積回路の夢旅人</a></strong></p></td>
 <td><p>GNCA-0191</p></td>
 </tr>
 <tr class="odd">
@@ -93,14 +93,14 @@ GNCA-0159（通常盤）</p></td>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2011年8月31日</p></td>
-<td><p><strong><a href="../Page/Invisible_Message.md" title="wikilink">Invisible Message</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Invisible_Message" title="wikilink">Invisible Message</a></strong></p></td>
 <td><p>GNCA-0189（初回盤）<br />
 GNCA-0190（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2011年11月9日</p></td>
-<td><p><strong><a href="../Page/SCARLET_WING.md" title="wikilink">SCARLET WING</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SCARLET_WING" title="wikilink">SCARLET WING</a></strong></p></td>
 <td><p>GNCA-0160</p></td>
 </tr>
 <tr class="even">
@@ -122,7 +122,7 @@ SECL-1403/4（期間限定盤）</p></td>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2014年4月30日</p></td>
-<td><p><strong><a href="../Page/ミレナリオ.md" title="wikilink">ミレナリオ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ミレナリオ" title="wikilink">ミレナリオ</a></strong></p></td>
 <td><p>SECL-1495/6（初回盤）<br />
 SECL-1497（通常盤）<br />
 SECL-1498/9（期間限定盤）</p></td>
@@ -130,7 +130,7 @@ SECL-1498/9（期間限定盤）</p></td>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2014年11月12日</p></td>
-<td><p><strong><a href="../Page/EONIAN_-イオニアン-.md" title="wikilink">EONIAN -イオニアン-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/EONIAN_-イオニアン-" title="wikilink">EONIAN -イオニアン-</a></strong></p></td>
 <td><p><br />
 SECL-1608（通常盤）<br />
 SECL-1606/7（期間限定盤）</p></td>
@@ -138,7 +138,7 @@ SECL-1606/7（期間限定盤）</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2016年8月31日</p></td>
-<td><p><strong><a href="../Page/Rain_or_Shine.md" title="wikilink">Rain or Shine</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Rain_or_Shine" title="wikilink">Rain or Shine</a></strong></p></td>
 <td><p><br />
 SECL-1982（通常盤）<br />
 SECL-1980/1（期間限定盤）</p></td>
@@ -150,19 +150,19 @@ SECL-1980/1（期間限定盤）</p></td>
 
 ### 專輯
 
-| \!发售日期 | 专辑名称       | 规格编号                                                             |
-| ------ | ---------- | ---------------------------------------------------------------- |
-| 1      | 2009年1月21日 | **[white pulsation](../Page/white_pulsation.md "wikilink")**     |
-| 2      | 2010年1月20日 | **[Rouge Adolescence](../Page/Rouge_Adolescence.md "wikilink")** |
-| 3      | 2011年2月16日 | **[Lasei](../Page/Lasei.md "wikilink")**                         |
-| 4      | 2014年6月25日 | **[AS LIFE](../Page/AS_LIFE.md "wikilink")**                     |
+| \!发售日期 | 专辑名称       | 规格编号                                                                            |
+| ------ | ---------- | ------------------------------------------------------------------------------- |
+| 1      | 2009年1月21日 | **[white pulsation](https://zh.wikipedia.org/wiki/white_pulsation "wikilink")** |
+| 2      | 2010年1月20日 | **[Rouge Adolescence](../Page/Rouge_Adolescence.md "wikilink")**                |
+| 3      | 2011年2月16日 | **[Lasei](../Page/Lasei.md "wikilink")**                                        |
+| 4      | 2014年6月25日 | **[AS LIFE](https://zh.wikipedia.org/wiki/AS_LIFE "wikilink")**                 |
 
 ### 精選專輯
 
-| \!发售日期 | 专辑名称       | 规格编号                                                                                                             |
-| ------ | ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1      | 2012年6月20日 | **[rainbow pulsation～THE BEST OF ELISA～](../Page/rainbow_pulsation～THE_BEST_OF_ELISA～.md "wikilink")**           |
-| 2      | 2018年8月29日 | **[DIAMOND MEMORIES ～All Time Best of ELISA～](../Page/DIAMOND_MEMORIES_～All_Time_Best_of_ELISA～.md "wikilink")** |
+| \!发售日期 | 专辑名称       | 规格编号                                                                                                                                |
+| ------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | 2012年6月20日 | **[rainbow pulsation～THE BEST OF ELISA～](https://zh.wikipedia.org/wiki/rainbow_pulsation～THE_BEST_OF_ELISA～ "wikilink")**           |
+| 2      | 2018年8月29日 | **[DIAMOND MEMORIES ～All Time Best of ELISA～](https://zh.wikipedia.org/wiki/DIAMOND_MEMORIES_～All_Time_Best_of_ELISA～ "wikilink")** |
 
 ## 參考資料
 

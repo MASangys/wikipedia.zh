@@ -1,10 +1,10 @@
-**URL重寫**（）是一種[REST的相關技術](../Page/REST.md "wikilink")，它可以在Web
+**URL重寫**（）是一種[REST的相關技術](https://zh.wikipedia.org/wiki/REST "wikilink")，它可以在Web
 Server中，針對使用者所提供的URL進行轉換後，再傳入Web Server中的程式處理器。
 
 ## 範例
 
 最常見的用法，就是將一組URL階層字串，轉換成帶有查询字符串(query
-string)的[URL](../Page/URL.md "wikilink")，或是反向轉換，例如：
+string)的[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，或是反向轉換，例如：
 http://www.somebloghost.com/Blogs/Posts.php?Year=2006\&Month=12\&Day=10
 
 經過URL重寫後，可以變成：
@@ -30,7 +30,7 @@ http://www.somehost.com/Blogs.aspx?year=2006\&month=12
   - [mod_alias](http://httpd.apache.org/docs/2.2/mod/mod_alias.html)，Apache
     1.3的URL別名模組
 
-### [Microsoft Internet Information Server](../Page/IIS.md "wikilink") (IIS)
+### [Microsoft Internet Information Server](https://zh.wikipedia.org/wiki/IIS "wikilink") (IIS)
 
   - URL Rewrite Module for IIS 7.0，由微軟官方發展
   - [IIS
@@ -53,24 +53,24 @@ http://www.somehost.com/Blogs.aspx?year=2006\&month=12
   - [VirtualUrl.NET for
     ASP.NET 2](https://web.archive.org/web/20080102035529/http://www.visionalyse.co.uk/products/VirtualUrl/overview/)。
 
-### [J2EE](../Page/J2EE.md "wikilink") Servlet
+### [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink") Servlet
 
   - [HttpRedirectFilter](http://www.zlatkovic.com/httpredirectfilter.en.html)（開放原始碼）。
   - [UrlRewriteFilter](http://tuckey.org/urlrewrite/)（開放原始碼-BSD）。
 
 ### [Lighttpd](../Page/Lighttpd.md "wikilink") (lighty)
 
-  - [mod_rewrite](http://redmine.lighttpd.net/wiki/lighttpd/Docs:ModRewrite)（[lighttpd是一套開放原始碼的網頁伺服器](../Page/:Lighttpd.md "wikilink")）。
+  - [mod_rewrite](http://redmine.lighttpd.net/wiki/lighttpd/Docs:ModRewrite)（[lighttpd是一套開放原始碼的網頁伺服器](https://zh.wikipedia.org/wiki/:Lighttpd "wikilink")）。
 
 ## 參考資料
 
 ## 參见
 
-  - [REST](../Page/REST.md "wikilink")
-  - [URL](../Page/URL.md "wikilink")
-  - [J2EE](../Page/J2EE.md "wikilink")
+  - [REST](https://zh.wikipedia.org/wiki/REST "wikilink")
+  - [URL](https://zh.wikipedia.org/wiki/URL "wikilink")
+  - [J2EE](https://zh.wikipedia.org/wiki/J2EE "wikilink")
   - [ASP.NET](../Page/ASP.NET.md "wikilink")
-  - [縮址](../Page/縮址.md "wikilink")
+  - [縮址](https://zh.wikipedia.org/wiki/縮址 "wikilink")
 
 ## 外部連結
 

@@ -1,14 +1,14 @@
 **Ulead
-PhotoImpact**（中文名：**Photo硬派**）是一个由[Ulead推出的](../Page/Ulead.md "wikilink")[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")，由[友立資訊於](../Page/友立資訊.md "wikilink")1996年2月開發完成上市，运行于[Windows](../Page/Windows.md "wikilink")[操作系统下](../Page/操作系统.md "wikilink")，以家庭用户為主。
+PhotoImpact**（中文名：**Photo硬派**）是一个由[Ulead推出的](https://zh.wikipedia.org/wiki/Ulead "wikilink")[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")，由[友立資訊於](../Page/友立資訊.md "wikilink")1996年2月開發完成上市，运行于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统下](../Page/操作系统.md "wikilink")，以家庭用户為主。
 
 ## 描述
 
-用户可以在PhotoImpact上处理数字化图像。通过所谓[TWAIN接口](../Page/TWAIN.md "wikilink")，它可以直接从扫描仪或[数码相机调用照片](../Page/数码相机.md "wikilink")。在PhotoImpact的帮助下，用户可以制作自己的[网页](../Page/网页.md "wikilink")。
+用户可以在PhotoImpact上处理数字化图像。通过所谓[TWAIN接口](https://zh.wikipedia.org/wiki/TWAIN "wikilink")，它可以直接从扫描仪或[数码相机调用照片](../Page/数码相机.md "wikilink")。在PhotoImpact的帮助下，用户可以制作自己的[网页](https://zh.wikipedia.org/wiki/网页 "wikilink")。
 
-PhotoImpact支持友立資訊自己的.[UFO格式存储](../Page/UFO_\(消歧义\).md "wikilink")。
+PhotoImpact支持友立資訊自己的.[UFO格式存储](https://zh.wikipedia.org/wiki/UFO_\(消歧义\) "wikilink")。
 
 PhotoImpact与一些图像处理软件如[Corel PaintShop
-Photo定位于同一消费群](../Page/Corel_PaintShop_Photo.md "wikilink")，在一些测试中常进行比较。
+Photo定位于同一消费群](https://zh.wikipedia.org/wiki/Corel_PaintShop_Photo "wikilink")，在一些测试中常进行比较。
 
 友立資訊在2006年底由[Corel控股](../Page/Corel.md "wikilink")，PhotoImpact也成为Corel旗下产品，完善了其产品线。
 
@@ -35,7 +35,7 @@ PaintShop Pro取代。
 ## 参见
 
   - [Corel](../Page/Corel.md "wikilink")
-  - [友立资讯](../Page/友立资讯.md "wikilink")
+  - [友立资讯](https://zh.wikipedia.org/wiki/友立资讯 "wikilink")
 
 ## 外部链接
 

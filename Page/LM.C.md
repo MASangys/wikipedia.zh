@@ -1,32 +1,32 @@
-**LM.C**是[日本的一個](../Page/日本.md "wikilink")[視覺系樂團](../Page/視覺系.md "wikilink")，由[PIERROT的](../Page/PIERROT.md "wikilink")[吉他手Aiji和](../Page/吉他.md "wikilink")[主唱maya以](../Page/主唱.md "wikilink")「新世紀型電子搖滾」為概念所組成。
+**LM.C**是[日本的一個](../Page/日本.md "wikilink")[視覺系樂團](../Page/視覺系.md "wikilink")，由[PIERROT的](../Page/PIERROT.md "wikilink")[吉他手Aiji和](../Page/吉他.md "wikilink")[主唱maya以](https://zh.wikipedia.org/wiki/主唱 "wikilink")「新世紀型電子搖滾」為概念所組成。
 \==簡介==
 maya的前身團－sinners，除了maya以外的成員都是PIERROT的技師，maya與Aiji在前身團皆擔當吉他手的位置，因此而認識。兩人在預約LIVE
 HOUSE時發現沒有樂團名稱無法預約，於是緊急命名。「LM.C」並無實際的意思，原因是不想因為團名作聯想而侷限音樂性質。官網上的網址「lovely-mocochang.com」也不是LM.C的真正涵意，mocochang是maya老家所飼養的喜樂蒂(已故)。
 
-2006年4月2日，在[PIERROT](../Page/PIERROT.md "wikilink")[日比谷野外音樂堂的演唱會](../Page/日比谷野外音樂堂.md "wikilink")，發送了關於LM.C的傳單\[1\]。8月邀請歌迷在東京都內某處拍攝☆Rock
+2006年4月2日，在[PIERROT](../Page/PIERROT.md "wikilink")[日比谷野外音樂堂的演唱會](https://zh.wikipedia.org/wiki/日比谷野外音樂堂 "wikilink")，發送了關於LM.C的傳單\[1\]。8月邀請歌迷在東京都內某處拍攝☆Rock
 the LM.C☆的音樂錄影帶，正式在歌迷面前露面。同年9月，舉辦了4場indies live，場地為[TSUTAYA
 O-EAST與池袋Club](../Page/TSUTAYA_O-EAST.md "wikilink")
 ADDICT。10月，加入[PONY
-CANYON在日本以](../Page/PONY_CANYON.md "wikilink")「Trailers」單曲正式出道，此張單曲共發行了「Gold」與「Silver」2種不同版本。
+CANYON在日本以](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")「Trailers」單曲正式出道，此張單曲共發行了「Gold」與「Silver」2種不同版本。
 
 2007年7月在台灣發行第一張台版專輯「GLITTER LOUD BOX」與單曲「BOYS &
 GIRLS」（[豐華唱片代理](../Page/豐華唱片.md "wikilink")），首次來台就邀請了[月之海的](../Page/月之海.md "wikilink")[真矢](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%9F%A2_\(%E3%83%89%E3%83%A9%E3%83%9E%E3%83%BC\))為支援鼓手，參加丁亥年[野台開唱](../Page/野台開唱.md "wikilink")。台灣成為LM.C第一次造訪的海外國家。
 
 2008年結束台灣與韓國的亞洲巡迴後，同年7月19日於[澀谷公會堂舉辦第一次在HALL場地的演唱會](../Page/澀谷公會堂.md "wikilink")。票在開賣2分內迅速完售。同年11月全世界同時發行首張專輯「GIMMICAL☆IMPACT\!\!／魔幻☆衝擊\!\!」與第二張專輯「SUPER
 GLITTER LOUD
-BOX／超閃爆音盒」，接著也展開國內外的巡迴演唱會。世界巡迴前往[南美](../Page/南美.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")、[亞洲](../Page/亞洲.md "wikilink")，共11個國家13個城市。其中[台北是海外巡迴中唯一舉辦兩天兩場演唱會的城市](../Page/台北.md "wikilink")。
+BOX／超閃爆音盒」，接著也展開國內外的巡迴演唱會。世界巡迴前往[南美](https://zh.wikipedia.org/wiki/南美 "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，共11個國家13個城市。其中[台北是海外巡迴中唯一舉辦兩天兩場演唱會的城市](https://zh.wikipedia.org/wiki/台北 "wikilink")。
 
-2010年在歐洲巡迴結束後即將展開[泰國](../Page/泰國.md "wikilink")、[台灣的亞洲巡迴](../Page/台灣.md "wikilink")，當時人在[德國的LM](../Page/德國.md "wikilink").C遇上[2010年冰島火山爆發](../Page/2010年冰島火山爆發.md "wikilink")，火山灰影響[歐洲航班起降](../Page/歐洲.md "wikilink")，因無法順利抵達台灣與泰國，於是取消2010年的亞洲巡迴。2011年3月日本遭遇[東北地方太平洋近海地震](../Page/東北地方太平洋近海地震.md "wikilink")，使得日本國內巡迴與亞洲巡迴的演唱會延期，在原定日本國內巡迴的當天，舉辦全世界同時的「★BKK-GGL★」\[2\]，與全世界的LM.C歌迷們在推特上進行互動。
+2010年在歐洲巡迴結束後即將展開[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[台灣的亞洲巡迴](https://zh.wikipedia.org/wiki/台灣 "wikilink")，當時人在[德國的LM](https://zh.wikipedia.org/wiki/德國 "wikilink").C遇上[2010年冰島火山爆發](https://zh.wikipedia.org/wiki/2010年冰島火山爆發 "wikilink")，火山灰影響[歐洲航班起降](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，因無法順利抵達台灣與泰國，於是取消2010年的亞洲巡迴。2011年3月日本遭遇[東北地方太平洋近海地震](https://zh.wikipedia.org/wiki/東北地方太平洋近海地震 "wikilink")，使得日本國內巡迴與亞洲巡迴的演唱會延期，在原定日本國內巡迴的當天，舉辦全世界同時的「★BKK-GGL★」\[2\]，與全世界的LM.C歌迷們在推特上進行互動。
 
-出道至今許多作品成為[動畫主題曲](../Page/動畫.md "wikilink")，除《[血色花園](../Page/血色花園.md "wikilink")》外，最有名的就是《[家庭教師HITMAN
-REBORN\!](../Page/家庭教師HITMAN_REBORN!.md "wikilink")》第二季與第四季的片頭曲《BOYS\&GIRLS》、《88》。[《88》](https://ja.wikipedia.org/wiki/88_\(%E6%9B%B2\))是LM.C在日本的第8張單曲，這張單曲受到許多動畫迷的支持，登上ORICON排行榜的第三名。2011年7月發行的[《星辰所在》](https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E5%9C%A8%E5%87%A6%E3%80%82-%E3%83%9B%E3%82%B7%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%AB-)，為動畫《[妖怪少爺千年魔京](../Page/妖怪少爺.md "wikilink")》的片頭曲。這首歌製作於2010年秋天，曾一度打算使用這首歌當作當時主打，但卻希望以後再發行而中止\[3\]，「★BKK-GGL★」結束後，在官方部落格中，首次公布這首歌的名字。
+出道至今許多作品成為[動畫主題曲](https://zh.wikipedia.org/wiki/動畫 "wikilink")，除《[血色花園](../Page/血色花園.md "wikilink")》外，最有名的就是《[家庭教師HITMAN
+REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》第二季與第四季的片頭曲《BOYS\&GIRLS》、《88》。[《88》](https://ja.wikipedia.org/wiki/88_\(%E6%9B%B2\))是LM.C在日本的第8張單曲，這張單曲受到許多動畫迷的支持，登上ORICON排行榜的第三名。2011年7月發行的[《星辰所在》](https://ja.wikipedia.org/wiki/%E6%98%9F%E3%81%AE%E5%9C%A8%E5%87%A6%E3%80%82-%E3%83%9B%E3%82%B7%E3%83%8E%E3%82%A2%E3%83%AA%E3%82%AB-)，為動畫《[妖怪少爺千年魔京](../Page/妖怪少爺.md "wikilink")》的片頭曲。這首歌製作於2010年秋天，曾一度打算使用這首歌當作當時主打，但卻希望以後再發行而中止\[3\]，「★BKK-GGL★」結束後，在官方部落格中，首次公布這首歌的名字。
 
 於2014年2月12日移籍至Victor Entertainment，並發行新專輯『PERFECT FANTASY』的消息。
 活動區域已經不只日本，還包括台灣、韓國等亞洲地區。甚至還被歐洲的J-ROCK樂迷選為「最受矚目的J-ROCK
 Band」，於2009年、2010年、2012年3次舉辦世界巡迴演唱會（哥倫比亞/委內瑞拉/智利/巴西/墨西哥/英國/德國/法國/芬蘭/瑞典/意大利/奧地利/匈牙利/俄羅斯/香港/台灣/韓國）等，在全球都受到高度評價的LM.C。
 具備不受音樂類型所限制音樂性的他們，在新唱片公司的活躍也相當受到期待。
 
-2016年在LM.C成軍10周年之際，於1月28日在官方公布了即將前往台灣海外公演的決定，地點選於[高雄](../Page/高雄.md "wikilink")[駁二藝術特區的LIVE](../Page/駁二藝術特區.md "wikilink")
+2016年在LM.C成軍10周年之際，於1月28日在官方公布了即將前往台灣海外公演的決定，地點選於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[駁二藝術特區的LIVE](../Page/駁二藝術特區.md "wikilink")
 WAREHOUSE(月光劇場)。
 從2012年台灣公演之後，睽違了快4年的海外公演讓原先只預定辦一場的LIVE因票券迅速銷售一空，在2月25日於官方公布再追加中午場，創造了在一天內舉辦兩場的公演紀錄\[4\]。
 
@@ -34,8 +34,8 @@ WAREHOUSE(月光劇場)。
 
 ## 成員
 
-  - **Vocal**：maya（[日本](../Page/日本.md "wikilink")[長野縣出身](../Page/長野縣.md "wikilink")）ex.sinners
-  - **Guitar**：[Aiji](https://ja.wikipedia.org/wiki/Aiji)（[日本](../Page/日本.md "wikilink")[長野縣出身](../Page/長野縣.md "wikilink")）ex.[PIERROT](../Page/PIERROT.md "wikilink")
+  - **Vocal**：maya（[日本](../Page/日本.md "wikilink")[長野縣出身](https://zh.wikipedia.org/wiki/長野縣 "wikilink")）ex.sinners
+  - **Guitar**：[Aiji](https://ja.wikipedia.org/wiki/Aiji)（[日本](../Page/日本.md "wikilink")[長野縣出身](https://zh.wikipedia.org/wiki/長野縣 "wikilink")）ex.[PIERROT](../Page/PIERROT.md "wikilink")
 
 
 **現支援成員**
@@ -69,12 +69,12 @@ WAREHOUSE(月光劇場)。
 ### SINGLE
 
   - **BOYS\&GIRLS** 2007年7月27日（動畫[家庭教師HITMAN
-    REBORN\!第](../Page/家庭教師HITMAN_REBORN!.md "wikilink")2季片頭曲）
+    REBORN\!第](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")2季片頭曲）
   - **LIAR LIAR/Sentimental PIGgy Romance** 2007年10月19日
   - **Bell the CAT** 2007年1月18日
   - **JOHN** 2008年3月21日
   - **88** 2008年6月13日（動畫[家庭教師HITMAN
-    REBORN\!第](../Page/家庭教師HITMAN_REBORN!.md "wikilink")4季片頭曲）
+    REBORN\!第](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")4季片頭曲）
   - **PUNKY♥HEART** 2009年5月22日
   - **GHOST†HEART** 2009年11月6日
   - **LET ME' CRAZY\!\!** 2010年10月25日

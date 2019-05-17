@@ -1,5 +1,5 @@
 **''Liero**''（常見譯名為**虐殺幼蟲**）是一个[芬兰程序员Joosa](../Page/芬兰.md "wikilink")
-Riekkinen在1998年制作的[平台动作射击游戏](../Page/平台动作游戏.md "wikilink")。可以描述为即时版本的《[百战天虫](../Page/百战天虫.md "wikilink")》\[1\]，此游戏模仿了同期芬兰游戏**MoleZ**（比Liero更早）的创意，也深深影响了[Soldat](../Page/Soldat.md "wikilink")。游戏是用C++开发，基于[Allegro](../Page/Allegro.md "wikilink")。
+Riekkinen在1998年制作的[平台动作射击游戏](https://zh.wikipedia.org/wiki/平台动作游戏 "wikilink")。可以描述为即时版本的《[百战天虫](https://zh.wikipedia.org/wiki/百战天虫 "wikilink")》\[1\]，此游戏模仿了同期芬兰游戏**MoleZ**（比Liero更早）的创意，也深深影响了[Soldat](../Page/Soldat.md "wikilink")。游戏是用C++开发，基于[Allegro](../Page/Allegro.md "wikilink")。
 
 ## 游戏方式
 
@@ -7,14 +7,14 @@ Riekkinen在1998年制作的[平台动作射击游戏](../Page/平台动作游�
 
 ## 修改
 
-Liero最后版本1.33在1999年放出，但是作者因硬盘事故丢失了[Pascal写成的源代码](../Page/Pascal.md "wikilink")。不过作者允许社区做出一定修改。
+Liero最后版本1.33在1999年放出，但是作者因硬盘事故丢失了[Pascal写成的源代码](https://zh.wikipedia.org/wiki/Pascal "wikilink")。不过作者允许社区做出一定修改。
 
 ## 前身
 
 ### MoleZ
 
 *MoleZ*在1997年由[FRACTiLE
-Games放出](../Page/FRACTiLE_Games.md "wikilink")，针对[DOS](../Page/DOS.md "wikilink")。1999圣诞节后成为[免费软件](../Page/免费软件.md "wikilink")。相对而言绳子能力比**Liero**差很多。
+Games放出](https://zh.wikipedia.org/wiki/FRACTiLE_Games "wikilink")，针对[DOS](../Page/DOS.md "wikilink")。1999圣诞节后成为[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。相对而言绳子能力比**Liero**差很多。
 
 ## 复刻和重制
 
@@ -22,15 +22,15 @@ Games放出](../Page/FRACTiLE_Games.md "wikilink")，针对[DOS](../Page/DOS.md 
 Xtreme***是非官方***Liero**''后继。为[网络游戏](../Page/网络游戏.md "wikilink")，可定制武器关卡和角色。
 *Liero Xtreme* 是Jason Boettcher用[C++写成](../Page/C++.md "wikilink")。
 Abandonia Reloaded评价*Xtreme*'s 定义和武器从很多游戏如《[-{zh-hans:星际争霸;
-zh-hant:星海爭霸}-](../Page/星际争霸_\(游戏\).md "wikilink")》和《[小蜜蜂](../Page/小蜜蜂_\(游戏\).md "wikilink")》中取得甚多，但是[人工智能是缺陷](../Page/人工智能.md "wikilink")。\[2\]2006年释放源代码后，**[OpenLieroX](../Page/OpenLieroX.md "wikilink")**成为了Liero
+zh-hant:星海爭霸}-](../Page/星际争霸_\(游戏\).md "wikilink")》和《[小蜜蜂](https://zh.wikipedia.org/wiki/小蜜蜂_\(游戏\) "wikilink")》中取得甚多，但是[人工智能是缺陷](../Page/人工智能.md "wikilink")。\[2\]2006年释放源代码后，**[OpenLieroX](https://zh.wikipedia.org/wiki/OpenLieroX "wikilink")**成为了Liero
 Xtreme的继承者，同时前者开发停止，OpenLieroX兼容LieroX的客户端，使用开源协议，3年之后，OpenLieroX已经是***Liero
 Xtreme**''的3倍大小，拥有很多新特性。
 
 [Nil.png](https://zh.wikipedia.org/wiki/File:Nil.png "fig:Nil.png")
 ***NiL*** (定义为*NiL Isn't
-Liero*)是**Liero**克隆，运行在[Linux下](../Page/Linux.md "wikilink")，初始没有[Windows版本](../Page/Microsoft_Windows.md "wikilink")，使用[GNU
+Liero*)是**Liero**克隆，运行在[Linux下](../Page/Linux.md "wikilink")，初始没有[Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，使用[GNU
 General Public
-License协议](../Page/GNU_General_Public_License.md "wikilink")。NiL支持[TCP网络](../Page/Transmission_Control_Protocol.md "wikilink")，和无限制数目的玩家。曾掀起一阵热潮\[3\]
+License协议](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。NiL支持[TCP网络](https://zh.wikipedia.org/wiki/Transmission_Control_Protocol "wikilink")，和无限制数目的玩家。曾掀起一阵热潮\[3\]
 Flemming Frandsen在1999年启动此项目。\[4\]
 
 ## 参考
@@ -39,8 +39,8 @@ Flemming Frandsen在1999年启动此项目。\[4\]
 
   - [Soldat](../Page/Soldat.md "wikilink")
   - [Teeworlds](../Page/Teeworlds.md "wikilink")
-  - [OpenLieroX](../Page/OpenLieroX.md "wikilink") ── Open Liero
-    eXtreme，几乎完全兼容Liero Extreme
+  - [OpenLieroX](https://zh.wikipedia.org/wiki/OpenLieroX "wikilink") ──
+    Open Liero eXtreme，几乎完全兼容Liero Extreme
 
 ## 外部链接
 
@@ -58,7 +58,7 @@ Flemming Frandsen在1999年启动此项目。\[4\]
 
 1.  [Liero Review](http://www.the-underdogs.info/game.php?name=Liero)
     ── [Home of the
-    Underdogs](../Page/Home_of_the_Underdogs.md "wikilink")
+    Underdogs](https://zh.wikipedia.org/wiki/Home_of_the_Underdogs "wikilink")
 
 2.
 

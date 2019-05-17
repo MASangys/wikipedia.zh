@@ -1,25 +1,25 @@
 **NOTAM**是英語「給飛行員通知」（Notice To
-Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的航空部門根據[芝加哥條約第](../Page/芝加哥條約.md "wikilink")15條中關於航空資信服務的格式發出，作用為通知飛行員該空域或機場的特別安排、臨時規定及運作程序的改變等。
+Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的航空部門根據[芝加哥條約第](https://zh.wikipedia.org/wiki/芝加哥條約 "wikilink")15條中關於航空資信服務的格式發出，作用為通知飛行員該空域或機場的特別安排、臨時規定及運作程序的改變等。
 
 ## 發出的原因
 
 發出NOTAM的目的是給飛行員和飛航運作相關單位可以有相同的渠道得悉資料和有一個統一格式的通知，發出NOTAM的原因絕大多數都是：
 
-  - 對飛行構成危險的狀況發生（多會是[火箭發射](../Page/火箭發射.md "wikilink")、[飛行表演及](../Page/飛行表演.md "wikilink")[武裝衝突等](../Page/武裝衝突.md "wikilink")）。
-  - 因應[元首專機的離開或到達而需要關閉](../Page/行政專機.md "wikilink")[空域](../Page/空域.md "wikilink")。
+  - 對飛行構成危險的狀況發生（多會是[火箭發射](https://zh.wikipedia.org/wiki/火箭發射 "wikilink")、[飛行表演及](https://zh.wikipedia.org/wiki/飛行表演 "wikilink")[武裝衝突等](https://zh.wikipedia.org/wiki/武裝衝突 "wikilink")）。
+  - 因應[元首專機的離開或到達而需要關閉](../Page/行政專機.md "wikilink")[空域](https://zh.wikipedia.org/wiki/空域 "wikilink")。
   - 跑道關閉或者是預定跑道會在一段時間關閉。
-  - 地面導航設施（如：[甚高頻全向信標](../Page/甚高頻全向信標.md "wikilink")（VOR）或[無方向性信標](../Page/無方向性信標.md "wikilink")（NDB））因故障或檢修等而暫停使用。
-  - [軍方飛行活動令空域需要關閉](../Page/軍方.md "wikilink")。
-  - 高度障礙物（例如[高樓大厦](../Page/高樓大厦.md "wikilink")）的警示燈故障，令飛機可能撞上有關的障礙物。
-  - 機場附近有突如其來的障礙物，以[鳥類最常見](../Page/鳥類.md "wikilink")，這類的NOTAM又稱為BirdTam。
-  - 機場場面／[滑行道](../Page/滑行道.md "wikilink")／[跑道](../Page/跑道.md "wikilink")／[機坪等有雪和積水](../Page/機坪.md "wikilink")（又稱為SNOWTAM）。
+  - 地面導航設施（如：[甚高頻全向信標](https://zh.wikipedia.org/wiki/甚高頻全向信標 "wikilink")（VOR）或[無方向性信標](https://zh.wikipedia.org/wiki/無方向性信標 "wikilink")（NDB））因故障或檢修等而暫停使用。
+  - [軍方飛行活動令空域需要關閉](https://zh.wikipedia.org/wiki/軍方 "wikilink")。
+  - 高度障礙物（例如[高樓大厦](https://zh.wikipedia.org/wiki/高樓大厦 "wikilink")）的警示燈故障，令飛機可能撞上有關的障礙物。
+  - 機場附近有突如其來的障礙物，以[鳥類最常見](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，這類的NOTAM又稱為BirdTam。
+  - 機場場面／[滑行道](../Page/滑行道.md "wikilink")／[跑道](../Page/跑道.md "wikilink")／[機坪等有雪和積水](https://zh.wikipedia.org/wiki/機坪 "wikilink")（又稱為SNOWTAM）。
   - 出現[火山灰](../Page/火山灰.md "wikilink")。
 
 ## NOTAM的格式
 
-隨着[電腦的普及](../Page/電腦.md "wikilink")，現在的NOTAM多數是以電腦發出，公眾甚至可以在互聯網透過美國政府的網站查讀全世界民航部門發出的NOTAM。
+隨着[電腦的普及](https://zh.wikipedia.org/wiki/電腦 "wikilink")，現在的NOTAM多數是以電腦發出，公眾甚至可以在互聯網透過美國政府的網站查讀全世界民航部門發出的NOTAM。
 
-[國際民航組織有對NOTAM更嚴格的格式規定](../Page/國際民航組織.md "wikilink")，多數的NOTAM都是依這種格式發出，不過有少部分地方發出的NOTAM（例如美國）並不是完全跟隨[ICAO格式](../Page/國際民航組織.md "wikilink")。
+[國際民航組織有對NOTAM更嚴格的格式規定](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")，多數的NOTAM都是依這種格式發出，不過有少部分地方發出的NOTAM（例如美國）並不是完全跟隨[ICAO格式](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")。
 
 就ICAO的格式而言，NOTAM分為六至八段，本文將會順序列出。
 
@@ -27,15 +27,15 @@ Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的
 
 <!-- end list -->
 
-  - 第Q行（第二段）包含一些英文字母編碼顯示其識用範圍，可以在[ICAO的編碼表找到相關的解釋](../Page/國際民航組織.md "wikilink")。
+  - 第Q行（第二段）包含一些英文字母編碼顯示其識用範圍，可以在[ICAO的編碼表找到相關的解釋](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")。
 
 <!-- end list -->
 
-  - 第A行是適用的機場或者是該[飛航情報區](../Page/飛航情報區.md "wikilink")（FIR）的[ICAO的編碼和由該機場作起點的適用範圍](../Page/國際民航組織.md "wikilink")（例如[香港國際機場西南](../Page/香港國際機場.md "wikilink")20公里）。
+  - 第A行是適用的機場或者是該[飛航情報區](../Page/飛航情報區.md "wikilink")（FIR）的[ICAO的編碼和由該機場作起點的適用範圍](https://zh.wikipedia.org/wiki/國際民航組織 "wikilink")（例如[香港國際機場西南](../Page/香港國際機場.md "wikilink")20公里）。
 
 <!-- end list -->
 
-  - 第B及C行就是NOTAM的有效開始時間和完結時間，日期就是跟隨[美國寫法](../Page/时间格式.md "wikilink")（即YY/MM/DD，年/月/日），時間是[世界協調時](../Page/世界協調時.md "wikilink")。
+  - 第B及C行就是NOTAM的有效開始時間和完結時間，日期就是跟隨[美國寫法](https://zh.wikipedia.org/wiki/时间格式 "wikilink")（即YY/MM/DD，年/月/日），時間是[世界協調時](https://zh.wikipedia.org/wiki/世界協調時 "wikilink")。
 
 <!-- end list -->
 
@@ -72,8 +72,8 @@ NOTAM的目的：代替2006年發出的第1212號NOTAM
 
 狀況：關閉（ICAO編碼表中為LC）
 
-適用飛機：[儀器飛行](../Page/儀器飛行.md "wikilink")（IFR，ICAO編碼表中I）和
-[目視飛行](../Page/目視飛行.md "wikilink")（VFR，ICAO編碼表中V）
+適用飛機：[儀器飛行](https://zh.wikipedia.org/wiki/儀器飛行 "wikilink")（IFR，ICAO編碼表中I）和
+[目視飛行](https://zh.wikipedia.org/wiki/目視飛行 "wikilink")（VFR，ICAO編碼表中V）
 
 目的：希望航空公司或飛航營運者即時的注意（ICAO編碼表中N）
 

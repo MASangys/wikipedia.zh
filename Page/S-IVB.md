@@ -32,19 +32,19 @@
 </tbody>
 </table>
 
-**S-IVB**（读作"S-four-B"）是由[道格拉斯飞行器公司制造的火箭级](../Page/道格拉斯飞行器公司.md "wikilink")，使用一台J-2发动机，用作[土星五号第三级和](../Page/土星五号.md "wikilink")[土星一号B的第二级](../Page/土星一号B.md "wikilink")。登月时S-IVB点火两次，一次使飞船[入轨](../Page/近地轨道.md "wikilink")，第二次进行。
+**S-IVB**（读作"S-four-B"）是由[道格拉斯飞行器公司制造的火箭级](../Page/道格拉斯飞行器公司.md "wikilink")，使用一台J-2发动机，用作[土星五号第三级和](https://zh.wikipedia.org/wiki/土星五号 "wikilink")[土星一号B的第二级](https://zh.wikipedia.org/wiki/土星一号B "wikilink")。登月时S-IVB点火两次，一次使飞船[入轨](../Page/近地轨道.md "wikilink")，第二次进行。
 
 ## 历史
 
-S-IVB是从[土星一号的上面级](../Page/土星一号.md "wikilink")，S-IV和研发中的土星五号第一级发展而来，S-IV使用六台液氢液氧发动机，原计划用于C-4火箭的第四级，因此叫做S-IV。
+S-IVB是从[土星一号的上面级](https://zh.wikipedia.org/wiki/土星一号 "wikilink")，S-IV和研发中的土星五号第一级发展而来，S-IV使用六台液氢液氧发动机，原计划用于C-4火箭的第四级，因此叫做S-IV。
 
-在1960年2月29日招标截止日期前，共有11家公司递交了意向书。4月19日，NASA主席[基思·格莱南](../Page/基思·格莱南.md "wikilink")（T.
+在1960年2月29日招标截止日期前，共有11家公司递交了意向书。4月19日，NASA主席[基思·格莱南](https://zh.wikipedia.org/wiki/基思·格莱南 "wikilink")（T.
 Keith
-Glennan）宣布由道格拉斯负责制造，本来[康维尔公司](../Page/康维尔.md "wikilink")（Convair）的标书仅在道格拉斯之下，但康维尔已经获得了[半人马座上面级的订单](../Page/半人马座上面级.md "wikilink")，格莱南不希望康维尔一家垄断液氢火箭市场。
+Glennan）宣布由道格拉斯负责制造，本来[康维尔公司](../Page/康维尔.md "wikilink")（Convair）的标书仅在道格拉斯之下，但康维尔已经获得了[半人马座上面级的订单](https://zh.wikipedia.org/wiki/半人马座上面级 "wikilink")，格莱南不希望康维尔一家垄断液氢火箭市场。
 
-后来，[马歇尔航天飞行中心决定在三级火箭C](../Page/马歇尔航天飞行中心.md "wikilink")-5（即土星五号的前称）的第三级使用增强型S-IV，即S-IVB，只使用一台J-2，而不需要发动机群。由于它和S-IV的相似性，这次生产合同还是交给道格拉斯。同时，另有计划研发使用S-IVB作第二级的C-IB火箭（土星一号B）来将阿波罗飞船发射到地球轨道进行测试。
+后来，[马歇尔航天飞行中心决定在三级火箭C](https://zh.wikipedia.org/wiki/马歇尔航天飞行中心 "wikilink")-5（即土星五号的前称）的第三级使用增强型S-IV，即S-IVB，只使用一台J-2，而不需要发动机群。由于它和S-IV的相似性，这次生产合同还是交给道格拉斯。同时，另有计划研发使用S-IVB作第二级的C-IB火箭（土星一号B）来将阿波罗飞船发射到地球轨道进行测试。
 
-道格拉斯制造了两个截然不同的S-IVB：200系列和500系列。200系列用于土星一号B，没有级间连接延伸体；由于不需要二次启动，因此氦气增压系统数量也比500系列少；它有3个用于级间分离的固体小火箭，而500系列只有2个。200系列也缺少用以二次启动J-2的[加压余量燃料发动机所需的线性APS推进器](../Page/加压余量燃料发动机.md "wikilink")。
+道格拉斯制造了两个截然不同的S-IVB：200系列和500系列。200系列用于土星一号B，没有级间连接延伸体；由于不需要二次启动，因此氦气增压系统数量也比500系列少；它有3个用于级间分离的固体小火箭，而500系列只有2个。200系列也缺少用以二次启动J-2的[加压余量燃料发动机所需的线性APS推进器](https://zh.wikipedia.org/wiki/加压余量燃料发动机 "wikilink")。
 
 [SaturnV_S-IVB.jpg](https://zh.wikipedia.org/wiki/File:SaturnV_S-IVB.jpg "fig:SaturnV_S-IVB.jpg")
 
@@ -52,11 +52,11 @@ S-IVB可携带73,280升（19,359 U.S.加仑）液氧，共重87,200 kg（192,243
 252,750升（66,770 U.S.加仑）液氢，共重18,000 Kg（39,683
 lbs）[1](http://history.nasa.gov/SP-4206/ch6.htm)
 
-一节未使用的S-IVB级被改造为[美国第一座太空站](../Page/美国.md "wikilink")[天空实验室](../Page/天空实验室.md "wikilink")。
+一节未使用的S-IVB级被改造为[美国第一座太空站](../Page/美国.md "wikilink")[天空实验室](https://zh.wikipedia.org/wiki/天空实验室 "wikilink")。
 [As7-3-1545.jpg](https://zh.wikipedia.org/wiki/File:As7-3-1545.jpg "fig:As7-3-1545.jpg")
 [阿波罗13号](../Page/阿波罗13号.md "wikilink")、[阿波罗14号](../Page/阿波罗14号.md "wikilink")、[阿波罗15号](../Page/阿波罗15号.md "wikilink")、[阿波罗16号和](../Page/阿波罗16号.md "wikilink")[阿波罗17号任务期间](../Page/阿波罗17号.md "wikilink")，S-IVB级都坠毁在月球，通过人造“月震”来研究月球内部结构。
 
-研发中的[地球出发级和](../Page/地球出发级.md "wikilink")[战神一号的第二级都将继承S](../Page/战神一号.md "wikilink")-IVB的一些技术，都将采用一台J-2的升级版J-2X发动机，地球出发级的功能也与500系列相似，一次点火使载荷入轨，二次点火进入地月转移轨道。
+研发中的[地球出发级和](../Page/地球出发级.md "wikilink")[战神一号的第二级都将继承S](https://zh.wikipedia.org/wiki/战神一号 "wikilink")-IVB的一些技术，都将采用一台J-2的升级版J-2X发动机，地球出发级的功能也与500系列相似，一次点火使载荷入轨，二次点火进入地月转移轨道。
 
 <center>
 

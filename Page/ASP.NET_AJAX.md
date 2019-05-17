@@ -21,8 +21,8 @@ ASP.NET AJAX 4.0 將於 2010 年上半年與 Visual Studio 2010 和 .NET Framewo
 
 ASP.NET AJAX 的組成為 System.Web.Extension.dll 以及封裝在 ASP.NET AJAX 函式庫中的 AJAX
 Core APIs，System.Web.Extension.dll 是一個 [.NET
-assembly](../Page/.NET_assembly.md "wikilink")，它封裝了四個重要的 ASP.NET AJAX
-控制項：
+assembly](https://zh.wikipedia.org/wiki/.NET_assembly "wikilink")，它封裝了四個重要的
+ASP.NET AJAX 控制項：
 
   - **ScriptManager 控制項**，為 ASP.NET 提供了重要的 JavaScript 以及**部份刷新 (Partial
     Update)** 或**頁面方法 (Page Methods)** 等重要性質的支援。
@@ -34,7 +34,7 @@ assembly](../Page/.NET_assembly.md "wikilink")，它封裝了四個重要的 ASP
 ASP.NET AJAX 和其他瀏覽器一樣，都使用
 [XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink") 來與伺服端溝通，因此
 ASP.NET AJAX 可以適用於許多的瀏覽器，例如
-[Firefox](../Page/Firefox.md "wikilink")，[Opera](../Page/Opera.md "wikilink")
+[Firefox](../Page/Firefox.md "wikilink")，[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")
 與 [Safari](../Page/Safari.md "wikilink") 等，當然也包括了微軟的 [Internet
 Explorer](../Page/Internet_Explorer.md "wikilink") 瀏覽器，但 ASP.NET
 開發人員可以在完全沒有 AJAX 基礎知識的情況下，開發出 AJAX-enabled（具有 AJAX 功能）的

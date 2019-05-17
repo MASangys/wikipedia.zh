@@ -1,11 +1,11 @@
-**X-Moto**是一個免費且[開放原始碼的](../Page/開放原始碼.md "wikilink")2D摩托車電腦遊戲，仿照[Elasto
-Mania](../Page/Elasto_Mania.md "wikilink")。但還有[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac
+**X-Moto**是一個免費且[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")2D摩托車電腦遊戲，仿照[Elasto
+Mania](https://zh.wikipedia.org/wiki/Elasto_Mania "wikilink")。但還有[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、[Windows等版本](../Page/Windows.md "wikilink")。在這個遊戲裡，物理模擬扮演著相當重要的角色。X-Moto從2005年開始開發。\[1\]
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。在這個遊戲裡，物理模擬扮演著相當重要的角色。X-Moto從2005年開始開發。\[1\]
 
 ## 玩法
 
-玩家要先選擇一個關卡並試著蒐集到所有草莓（一定要搜完），接著去觸碰花即可完成一關。阻礙著關卡完成的是一個個具有挑戰性及趣味的地形，還有避開一種稱為「wrecker」的東西，只要身體貨車深的任何一個地方碰到wrecker，或是頭部碰撞倒花和草莓之外的東西。遊戲將會立即結束。「Script關卡」有一大堆可能會動的陷阱或機關，而X-Moto的腳本系統也非常之多變，甚至連[重力常數](../Page/重力.md "wikilink")、[地心引力的方向皆可自訂](../Page/地心引力.md "wikilink")，也造就了這個遊戲的趣味及多變性。不管是輸是贏，都可以把遊戲紀錄儲存成重播紀錄檔觀看，或是用「鬼影模式（Ghost
+玩家要先選擇一個關卡並試著蒐集到所有草莓（一定要搜完），接著去觸碰花即可完成一關。阻礙著關卡完成的是一個個具有挑戰性及趣味的地形，還有避開一種稱為「wrecker」的東西，只要身體貨車深的任何一個地方碰到wrecker，或是頭部碰撞倒花和草莓之外的東西。遊戲將會立即結束。「Script關卡」有一大堆可能會動的陷阱或機關，而X-Moto的腳本系統也非常之多變，甚至連[重力常數](https://zh.wikipedia.org/wiki/重力 "wikilink")、[地心引力的方向皆可自訂](https://zh.wikipedia.org/wiki/地心引力 "wikilink")，也造就了這個遊戲的趣味及多變性。不管是輸是贏，都可以把遊戲紀錄儲存成重播紀錄檔觀看，或是用「鬼影模式（Ghost
 Mode）」可以讓贏得最高紀錄的玩家以半透明顯示在螢幕上，並想辦法再度超越牠。玩家甚至可以把最高紀錄上傳到官方伺服器，並設有排行榜。
 
 X-Moto每次開啟時都會自動下載其他玩家或熱衷者自製的關卡，這些關卡是用[Inkscape的擴充套件來製作](../Page/Inkscape.md "wikilink")。
@@ -13,8 +13,8 @@ X-Moto每次開啟時都會自動下載其他玩家或熱衷者自製的關卡�
 ## 与 *Elasto Mania*
 
 *Elasto Mania* 是中国大陆曾经流行的*疯狂摩托（车）／穿越*
-最显著的地方在于**[授权](../Page/授权.md "wikilink")**，[XMoto是](../Page/XMoto.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，Elasto
-Mania是[共享软件](../Page/共享软件.md "wikilink")。导致两者发展情况不同，前者凭借更多参与者开发。
+最显著的地方在于**[授权](https://zh.wikipedia.org/wiki/授权 "wikilink")**，[XMoto是](https://zh.wikipedia.org/wiki/XMoto "wikilink")[自由软件](../Page/自由软件.md "wikilink")，Elasto
+Mania是[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。导致两者发展情况不同，前者凭借更多参与者开发。
 
 |      |                   |
 | ---- | ----------------- |
@@ -29,13 +29,13 @@ Mania是[共享软件](../Page/共享软件.md "wikilink")。导致两者发展�
 ## 視訊音頻
 
 全2D的簡單畫面，但所有關卡地圖皆為向量形式，3D加速用來快速渲染。如果電腦配備足夠，也能開啟一些特效
-音效很少。只有引擎音效，勝利、失敗和摘取草莓，主菜單等少數效果，且只有一段[原聲音樂](../Page/原聲音樂.md "wikilink")，不過每個關卡都可以有獨自的音樂。
+音效很少。只有引擎音效，勝利、失敗和摘取草莓，主菜單等少數效果，且只有一段[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，不過每個關卡都可以有獨自的音樂。
 到了0.5.0版後，完成了與Chipmunk library的整合，且開始支援多人連線遊戲。
 
 ## 特性
 
   - 高分辨率
-    [2D图像](../Page/二维图像引擎.md "wikilink")，[3D](../Page/3D.md "wikilink")[硬件加速](../Page/硬件加速.md "wikilink")（[OpenGL](../Page/OpenGL.md "wikilink")）快速渲染
+    [2D图像](../Page/二维图像引擎.md "wikilink")，[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[硬件加速](../Page/硬件加速.md "wikilink")（[OpenGL](../Page/OpenGL.md "wikilink")）快速渲染
   - 制作新地图相當容易，支持自动下载
   - 使用[Inkscape和](../Page/Inkscape.md "wikilink") Inksmoto 插件 \[2\]制作地图
   - 使用[Open Dynamics

@@ -1,22 +1,23 @@
 [BlobWarsMBS.png](https://zh.wikipedia.org/wiki/File:BlobWarsMBS.png "fig:BlobWarsMBS.png")
 **Blob Wars**是[Parallel
-Realities制作的开源](../Page/Parallel_Realities.md "wikilink")[动作冒险游戏系列](../Page/动作冒险游戏.md "wikilink")。
+Realities制作的开源](https://zh.wikipedia.org/wiki/Parallel_Realities "wikilink")[动作冒险游戏系列](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。
 
 ## Blob Wars: Metal Blob Solid
 
 **Blob Wars: Metal Blob Solid**很像*[New Zealand
-Story](../Page/New_Zealand_Story.md "wikilink")*又借鉴了*[Ape
-Escape](../Page/Ape_Escape.md "wikilink")*。主要是Blob，名为Bob。
+Story](https://zh.wikipedia.org/wiki/New_Zealand_Story "wikilink")*又借鉴了*[Ape
+Escape](https://zh.wikipedia.org/wiki/Ape_Escape "wikilink")*。主要是Blob，名为Bob。
 
 游戏中Blob必须救援对抗Galdov (Metal Blob)入侵战争中失散的伙伴。*Metal Blob Solid*大约需要九小时完成。
-游戏用[C++写成](../Page/C++.md "wikilink")，使用[SDL调配声音视频和输入](../Page/Simple_DirectMedia_Layer.md "wikilink")。
+游戏用[C++写成](../Page/C++.md "wikilink")，使用[SDL调配声音视频和输入](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。
 
 [Linux](../Page/Linux.md "wikilink"), [Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink"), [Mac OS
-X](../Page/Mac_OS_X.md "wikilink"),
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
+[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"),
 [Amiga](../Page/Amiga.md "wikilink"),
-[BeOS](../Page/BeOS.md "wikilink"), [GP2X](../Page/GP2X.md "wikilink"),
-[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink"),
+[BeOS](../Page/BeOS.md "wikilink"),
+[GP2X](https://zh.wikipedia.org/wiki/GP2X "wikilink"), [PlayStation
+Portable](../Page/PlayStation_Portable.md "wikilink"),
 [Xbox](../Page/Xbox_\(遊戲機\).md "wikilink")
 和[Dreamcast都可以玩](../Page/Dreamcast.md "wikilink")。
 
@@ -32,7 +33,7 @@ Solid的续篇，以3D世界表现。
 故事开始于Metal Blob
 Solid结束的8个月之后。另外，这次Bob不用过多的解救同胞了，反而有个战斗的同伴，就是Teeka这一个伙计会陪你闯到底，他可以掉队的。
 
-游戏开发大约用了2年时间\[1\]，使用[C++和](../Page/C++.md "wikilink")[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")（输入和音频控制），OpenGL视频渲染。
+游戏开发大约用了2年时间\[1\]，使用[C++和](../Page/C++.md "wikilink")[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")（输入和音频控制），OpenGL视频渲染。
 
 ## 参考
 

@@ -33,7 +33,7 @@
 </tbody>
 </table>
 
-**KV1**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是埋葬[古埃及](../Page/古埃及.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯七世的陵墓](../Page/拉美西斯七世.md "wikilink")。KV1在古代已被打開，但在1984年至1985年才被[愛德溫·布羅克正式研究及清理](../Page/愛德溫·布羅克.md "wikilink")。
+**KV1**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，是埋葬[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯七世的陵墓](../Page/拉美西斯七世.md "wikilink")。KV1在古代已被打開，但在1984年至1985年才被[愛德溫·布羅克正式研究及清理](https://zh.wikipedia.org/wiki/愛德溫·布羅克 "wikilink")。
 
 布羅克一直為陵墓進行挖掘工作，直至1995年，陵墓的牆壁才完全被清理，但陵墓中的古代塗鴉也不能保存下來，這也是在帝王谷進行挖掘經常要面對的問題。
 

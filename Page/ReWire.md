@@ -8,69 +8,88 @@ ReWire總線技術上為單聲道形式，目前廣泛使用於麥金塔電腦�
 
   - [Ableton Live](../Page/Ableton_Live.md "wikilink")
   - [Adobe Audition](../Page/Adobe_Audition.md "wikilink")
-  - [Logic Audio](../Page/Logic_Audio.md "wikilink")
-  - [Arturia Storm](../Page/Arturia_Storm.md "wikilink")
+  - [Logic Audio](https://zh.wikipedia.org/wiki/Logic_Audio "wikilink")
+  - [Arturia
+    Storm](https://zh.wikipedia.org/wiki/Arturia_Storm "wikilink")
   - [FL Studio](../Page/FL_Studio.md "wikilink")
-  - [Cakewalk Sonar](../Page/Cakewalk_Sonar.md "wikilink")
-  - [Cockos](../Page/Cockos.md "wikilink")
-    [REAPER](../Page/REAPER.md "wikilink")
+  - [Cakewalk
+    Sonar](https://zh.wikipedia.org/wiki/Cakewalk_Sonar "wikilink")
+  - [Cockos](https://zh.wikipedia.org/wiki/Cockos "wikilink")
+    [REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")
   - [Companion E\&D Intuem
-    RW](../Page/Companion_E&D_Intuem_RW.md "wikilink")
-  - [Cycling '74 Max/MSP](../Page/Max_\(software\).md "wikilink")
-  - [Digidesign](../Page/Digidesign.md "wikilink") [Pro
-    Tools](../Page/Pro_Tools.md "wikilink")
-  - [GarageBand](../Page/GarageBand.md "wikilink")
+    RW](https://zh.wikipedia.org/wiki/Companion_E&D_Intuem_RW "wikilink")
+  - [Cycling '74
+    Max/MSP](https://zh.wikipedia.org/wiki/Max_\(software\) "wikilink")
+  - [Digidesign](https://zh.wikipedia.org/wiki/Digidesign "wikilink")
+    [Pro Tools](../Page/Pro_Tools.md "wikilink")
+  - [GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")
   - [Granted Software
-    ReVision](../Page/Granted_Software_ReVision.md "wikilink")
-  - [Line 6](../Page/Line_6.md "wikilink")
-    [GuitarPort](../Page/GuitarPort.md "wikilink")
-  - [Line 6](../Page/Line_6.md "wikilink")
-    [RiffTracker](../Page/RiffTracker.md "wikilink")
-  - [MOTU](../Page/MOTU.md "wikilink") [Digital
-    Performer](../Page/Digital_Performer.md "wikilink")
-  - [Opcode Vision DSP](../Page/Opcode_Vision_DSP.md "wikilink")
-  - [Opcode Studio Vision](../Page/Opcode_Studio_Vision.md "wikilink")
-  - Plogue [Bidule](../Page/Bidule.md "wikilink")
-  - [Raw Material](../Page/Raw_Material.md "wikilink")
-    [Tracktion](../Page/Tracktion.md "wikilink")
-  - Pro Tools on OS9 using [reFuse](../Page/reFuse.md "wikilink")
-  - [Samplitude 10](../Page/Samplitude_10.md "wikilink")
-  - [Sonoma Wire Works](../Page/Sonoma_Wire_Works.md "wikilink")
-    [RiffWorks](../Page/RiffWorks.md "wikilink")
-  - [Sony ACID Pro](../Page/Sony_ACID_Pro.md "wikilink")
-  - [Steinberg](../Page/Steinberg.md "wikilink")
+    ReVision](https://zh.wikipedia.org/wiki/Granted_Software_ReVision "wikilink")
+  - [Line 6](https://zh.wikipedia.org/wiki/Line_6 "wikilink")
+    [GuitarPort](https://zh.wikipedia.org/wiki/GuitarPort "wikilink")
+  - [Line 6](https://zh.wikipedia.org/wiki/Line_6 "wikilink")
+    [RiffTracker](https://zh.wikipedia.org/wiki/RiffTracker "wikilink")
+  - [MOTU](https://zh.wikipedia.org/wiki/MOTU "wikilink") [Digital
+    Performer](https://zh.wikipedia.org/wiki/Digital_Performer "wikilink")
+  - [Opcode Vision
+    DSP](https://zh.wikipedia.org/wiki/Opcode_Vision_DSP "wikilink")
+  - [Opcode Studio
+    Vision](https://zh.wikipedia.org/wiki/Opcode_Studio_Vision "wikilink")
+  - Plogue [Bidule](https://zh.wikipedia.org/wiki/Bidule "wikilink")
+  - [Raw
+    Material](https://zh.wikipedia.org/wiki/Raw_Material "wikilink")
+    [Tracktion](https://zh.wikipedia.org/wiki/Tracktion "wikilink")
+  - Pro Tools on OS9 using
+    [reFuse](https://zh.wikipedia.org/wiki/reFuse "wikilink")
+  - [Samplitude
+    10](https://zh.wikipedia.org/wiki/Samplitude_10 "wikilink")
+  - [Sonoma Wire
+    Works](https://zh.wikipedia.org/wiki/Sonoma_Wire_Works "wikilink")
+    [RiffWorks](https://zh.wikipedia.org/wiki/RiffWorks "wikilink")
+  - [Sony ACID
+    Pro](https://zh.wikipedia.org/wiki/Sony_ACID_Pro "wikilink")
+  - [Steinberg](https://zh.wikipedia.org/wiki/Steinberg "wikilink")
     [Cubase](../Page/Cubase.md "wikilink")
-  - [Steinberg](../Page/Steinberg.md "wikilink")
-    [Nuendo](../Page/Nuendo.md "wikilink")
-  - [Synapse Audio](../Page/Synapse_Audio.md "wikilink") Orion
+  - [Steinberg](https://zh.wikipedia.org/wiki/Steinberg "wikilink")
+    [Nuendo](https://zh.wikipedia.org/wiki/Nuendo "wikilink")
+  - [Synapse
+    Audio](https://zh.wikipedia.org/wiki/Synapse_Audio "wikilink") Orion
 
 ## Rewire 終端 (音樂產生程式)
 
   - [Ableton Live](../Page/Ableton_Live.md "wikilink")
-  - [ArKaos VJ](../Page/ArKaos_VJ.md "wikilink")
-  - [Arturia](../Page/Arturia.md "wikilink") Storm
-  - [Audionaut](../Page/Audionaut.md "wikilink") Obsession
-  - [Bitheadz](../Page/Bitheadz.md "wikilink") Retro AS-1
-  - [Bitheadz](../Page/Bitheadz.md "wikilink") Unity DS-1
-  - [Cockos](../Page/Cockos.md "wikilink")
-    [REAPER](../Page/REAPER.md "wikilink")
+  - [ArKaos VJ](https://zh.wikipedia.org/wiki/ArKaos_VJ "wikilink")
+  - [Arturia](https://zh.wikipedia.org/wiki/Arturia "wikilink") Storm
+  - [Audionaut](https://zh.wikipedia.org/wiki/Audionaut "wikilink")
+    Obsession
+  - [Bitheadz](https://zh.wikipedia.org/wiki/Bitheadz "wikilink") Retro
+    AS-1
+  - [Bitheadz](https://zh.wikipedia.org/wiki/Bitheadz "wikilink") Unity
+    DS-1
+  - [Cockos](https://zh.wikipedia.org/wiki/Cockos "wikilink")
+    [REAPER](https://zh.wikipedia.org/wiki/REAPER "wikilink")
   - [Digital Salade Toki
-    Shot](../Page/Digital_Salade_Toki_Shot.md "wikilink")
+    Shot](https://zh.wikipedia.org/wiki/Digital_Salade_Toki_Shot "wikilink")
   - [FL Studio](../Page/FL_Studio.md "wikilink")
-  - [Cakewalk](../Page/Cakewalk.md "wikilink") Project 5
-  - [MadTracker](../Page/MadTracker.md "wikilink")
-  - [Cycling '74 Max/MSP](../Page/Max_\(software\).md "wikilink")
-  - [Plogue Bidule](../Page/Plogue_Bidule.md "wikilink")
-  - [Propellerheads](../Page/Propellerheads.md "wikilink")
-    [Reason](../Page/Reason.md "wikilink")
-  - [Propellerheads](../Page/Propellerheads.md "wikilink")
-    [ReBirth](../Page/ReBirth.md "wikilink") RB-338
-  - [Sony ACID Pro](../Page/Sony_ACID_Pro.md "wikilink")
-  - [Speedsoft VSampler](../Page/Speedsoft_VSampler.md "wikilink")
-  - [Tascam](../Page/Tascam.md "wikilink") GigaStudio
+  - [Cakewalk](https://zh.wikipedia.org/wiki/Cakewalk "wikilink")
+    Project 5
+  - [MadTracker](https://zh.wikipedia.org/wiki/MadTracker "wikilink")
+  - [Cycling '74
+    Max/MSP](https://zh.wikipedia.org/wiki/Max_\(software\) "wikilink")
+  - [Plogue
+    Bidule](https://zh.wikipedia.org/wiki/Plogue_Bidule "wikilink")
+  - [Propellerheads](https://zh.wikipedia.org/wiki/Propellerheads "wikilink")
+    [Reason](https://zh.wikipedia.org/wiki/Reason "wikilink")
+  - [Propellerheads](https://zh.wikipedia.org/wiki/Propellerheads "wikilink")
+    [ReBirth](https://zh.wikipedia.org/wiki/ReBirth "wikilink") RB-338
+  - [Sony ACID
+    Pro](https://zh.wikipedia.org/wiki/Sony_ACID_Pro "wikilink")
+  - [Speedsoft
+    VSampler](https://zh.wikipedia.org/wiki/Speedsoft_VSampler "wikilink")
+  - [Tascam](https://zh.wikipedia.org/wiki/Tascam "wikilink") GigaStudio
   - [Toontrack dfh
-    SUPERIOR](../Page/Toontrack_dfh_SUPERIOR.md "wikilink")
-  - [Vocaloid](../Page/Vocaloid.md "wikilink")
+    SUPERIOR](https://zh.wikipedia.org/wiki/Toontrack_dfh_SUPERIOR "wikilink")
+  - [Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")
 
 ## 外部連結
 

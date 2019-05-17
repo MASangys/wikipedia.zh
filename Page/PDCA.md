@@ -1,11 +1,11 @@
 [PDCA_Cycle.svg](https://zh.wikipedia.org/wiki/File:PDCA_Cycle.svg "fig:PDCA_Cycle.svg")
 [PDCA_Process.png](https://zh.wikipedia.org/wiki/File:PDCA_Process.png "fig:PDCA_Process.png")
-**PDCA**（Plan-Do-Check-Act的簡稱）循環式[品質](../Page/品質.md "wikilink")[管理](../Page/管理.md "wikilink")，針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。由美國學者[愛德華茲·戴明提出](../Page/愛德華茲·戴明.md "wikilink")，因此也称**戴明环**。这个四步的循环一般用来提高產品品質和改善产品生产过程。这个过程循环也被人熟知为：Plan-Do-Study-Act（PDSA），戴明圆环（Deming
+**PDCA**（Plan-Do-Check-Act的簡稱）循環式[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")[管理](https://zh.wikipedia.org/wiki/管理 "wikilink")，針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。由美國學者[愛德華茲·戴明提出](../Page/愛德華茲·戴明.md "wikilink")，因此也称**戴明环**。这个四步的循环一般用来提高產品品質和改善产品生产过程。这个过程循环也被人熟知为：Plan-Do-Study-Act（PDSA），戴明圆环（Deming
 cicle/cycle/wheel）或者哈特利圆环。另一个不同的版本是OPDCA，加入了O（observation观察），有些说法认为是获得当前的状况的意思。
 
 ## PDCA的含义
 
-什麼是PDCA？此非新創名詞，而是企業界早已普遍運用的一套「[目標管理](../Page/目標管理.md "wikilink")」流程，透過規劃（Plan）、執行（Do）、查核（Check）、行動（Act）四階段，確保每次的目標都能達成。
+什麼是PDCA？此非新創名詞，而是企業界早已普遍運用的一套「[目標管理](https://zh.wikipedia.org/wiki/目標管理 "wikilink")」流程，透過規劃（Plan）、執行（Do）、查核（Check）、行動（Act）四階段，確保每次的目標都能達成。
 
 ### 規劃
 
@@ -32,7 +32,7 @@ Organum》1620）科学的过程大概可以总结为《假说－实践－进步
 一个基础科学的方法是重复使用PDCA循环；一旦达到了我们制定的第一假说；或者全部推翻了，这时要开始执行下一轮的PDCA循环。这样最终能得到一个非常接近完美的结论。但是必须注意的是，每一个PDCA的循环必须是完全独立的；尤其是P环节的预期目标必须是独立的。如果不这样的话有可能会陷入死循环从而混淆什么是执行过程的缺陷和不可避免的环境变化以及无法消除的系统误差。
 
 PDCA循环也用来指导思维模式的建立。丰田汽车经常引用的一句话“制造汽车前，先要塑造好一个人。”丰田和一些其他的人力培训公司发现使用PDCA进行训练后的人可以系统的以创新的方式顺利的解决问题。从而也创造了一种
-PDCA文化。西格玛6项目中使用“制定－测量－分析－提高－控制”（[DMAIC](../Page/DMAIC.md "wikilink")）来代替了PDCA，并且要求使用者要严格的提出循环的目的。
+PDCA文化。西格玛6项目中使用“制定－测量－分析－提高－控制”（[DMAIC](https://zh.wikipedia.org/wiki/DMAIC "wikilink")）来代替了PDCA，并且要求使用者要严格的提出循环的目的。
 
 戴明提出PDCA应该是一种以螺旋上升的模式展现的形式来表现为了达到某种终极目标的知识的增长模式。每一层都是一个独立的PDCA循环，但是由于每一次从新计划一个循环都会引入上一次的循环的结果做为已知条件，所以可以认为每一次新的循环都比前面一次更接近螺旋结构的顶端的终极目标。每个人生下来所与生俱来的本领都是差不多的但是非常有限的，一些音乐家，科学家等人通过不断的进步终究成为了一代伟人。其过程恰好是一种螺旋上升状的PDACA的表现。这些例子展现了无论如何表达PDCA，这种方式确实能使的我们实现制定的目标。
 
@@ -40,28 +40,28 @@ PDCA文化。西格玛6项目中使用“制定－测量－分析－提高－控
 
 日本暢銷書《鬼速PDCA》出版商Cross
 Media出版社編輯長谷川諒回憶，這個冷冰冰的管理學的暴紅，「故事，大概要從2016年的4月開始說起……。」\[1\]
-當時，一本以日本[軟銀董事長](../Page/軟銀.md "wikilink")[孫正義為主角的新書](../Page/孫正義.md "wikilink")《孫正義十倍速達標學》出版，其第六章就是「高速PDCA」。長谷川諒表示，「大家忽然發現，原來這個企管課本裡的學問，竟然可以用來加強個人競爭力。」，到5月時，一向標榜用PDCA強化品管的[豐田汽車](../Page/豐田汽車.md "wikilink")，公布了史上新高的獲利數字，讓討論熱度持續延燒。
+當時，一本以日本[軟銀董事長](https://zh.wikipedia.org/wiki/軟銀 "wikilink")[孫正義為主角的新書](../Page/孫正義.md "wikilink")《孫正義十倍速達標學》出版，其第六章就是「高速PDCA」。長谷川諒表示，「大家忽然發現，原來這個企管課本裡的學問，竟然可以用來加強個人競爭力。」，到5月時，一向標榜用PDCA強化品管的[豐田汽車](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，公布了史上新高的獲利數字，讓討論熱度持續延燒。
 2017年2月，《解決孫社長所有難題的超厲害PDCA》在日本出版，曾任孫正義貼身祕書多年的作者三木雄信指出，孫正義就是靠PDCA戰勝所有困難，包括如何做到「超乎常人的目標執行力」、「為達目的無所不用其極」、「追蹤數據進而縝密驗證」以及「沒有最好、只有更好」等，而這些正是PDCA的精髓。
 說穿了，PDCA就是一趟修煉，讓人們能夠在一次一次的設定目標與執行過程中，練就凡事精確到位、按部就班的功夫。日本年輕人正在視它為個人進化的新解方，而台灣各大企業也逐漸將其視為員工必備要件。
 
 ## 相关条目
 
-  - [AIDMA](../Page/AIDMA.md "wikilink")
+  - [AIDMA](https://zh.wikipedia.org/wiki/AIDMA "wikilink")
 
-  - [AISAS](../Page/AISAS.md "wikilink")
+  - [AISAS](https://zh.wikipedia.org/wiki/AISAS "wikilink")
 
   - [商业流程改善](../Page/商业流程改善.md "wikilink")
 
-  - [六標準差](../Page/六標準差.md "wikilink")
+  - [六標準差](https://zh.wikipedia.org/wiki/六標準差 "wikilink")
 
-  - [CobiT](../Page/CobiT.md "wikilink")
+  - [CobiT](https://zh.wikipedia.org/wiki/CobiT "wikilink")
 
-  - [质量管理](../Page/质量管理.md "wikilink")
+  - [质量管理](https://zh.wikipedia.org/wiki/质量管理 "wikilink")
 
-  - [OODA循環](../Page/OODA循環.md "wikilink")
+  - [OODA循環](https://zh.wikipedia.org/wiki/OODA循環 "wikilink")
 
   -
-  - [A3報告](../Page/A3報告.md "wikilink")
+  - [A3報告](https://zh.wikipedia.org/wiki/A3報告 "wikilink")
 
 ## 参考文献
 

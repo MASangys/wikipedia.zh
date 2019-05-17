@@ -1,16 +1,16 @@
 [Z-DNA_orbit_animated_small.gif](https://zh.wikipedia.org/wiki/File:Z-DNA_orbit_animated_small.gif "fig:Z-DNA_orbit_animated_small.gif")
 
-**Z-DNA**又稱**Z型DNA**，是DNA雙螺旋結構的一種形式，具有左旋型態的雙股螺旋（與常見的[B-DNA相反](../Page/B-DNA.md "wikilink")），並呈現鋸齒形狀。Z-DNA為三種具生物活性的DNA雙螺旋結構之一，另兩種為[A-DNA與B](../Page/A-DNA.md "wikilink")-DNA。
+**Z-DNA**又稱**Z型DNA**，是DNA雙螺旋結構的一種形式，具有左旋型態的雙股螺旋（與常見的[B-DNA相反](https://zh.wikipedia.org/wiki/B-DNA "wikilink")），並呈現鋸齒形狀。Z-DNA為三種具生物活性的DNA雙螺旋結構之一，另兩種為[A-DNA與B](https://zh.wikipedia.org/wiki/A-DNA "wikilink")-DNA。
 
 ## 歷史
 
-Z-DNA為首先於1979年被解出晶體結構的DNA型態，研究者為[麻省理工大學的Alexander](../Page/麻省理工大學.md "wikilink")
+Z-DNA為首先於1979年被解出晶體結構的DNA型態，研究者為[麻省理工大學的Alexander](https://zh.wikipedia.org/wiki/麻省理工大學 "wikilink")
 Rich等人\[1\]。B型及Z型相互結合時的結晶則解於2005年\[2\]，使科學家了解Z-DNA在細胞中的潛在角色，當一段Z-DNA形成時，其兩端必為B-Z相互結合型態，形成與B-DNA的介面。
 
 ## 結構
 
 [B-,_Z-DNA_junction_2ACJ.png](https://zh.wikipedia.org/wiki/File:B-,_Z-DNA_junction_2ACJ.png "fig:B-,_Z-DNA_junction_2ACJ.png")
-Z-DNA的雙股螺旋為左旋型態，與B-DNA的右旋型態明顯有所差別。其結構每兩個鹼基對重複出現一次。大小螺旋凹槽之間的差別較A型及B型小，只在寬度上有些微差異。這種型態並不常見，但某些特定情況可增加其存在的可能，如[嘌呤](../Page/嘌呤.md "wikilink")-[嘧啶交替序列](../Page/嘧啶.md "wikilink")、[DNA超螺旋](../Page/DNA超螺旋.md "wikilink")，或鹽份與某些[陽離子濃度高時](../Page/陽離子.md "wikilink")。
+Z-DNA的雙股螺旋為左旋型態，與B-DNA的右旋型態明顯有所差別。其結構每兩個鹼基對重複出現一次。大小螺旋凹槽之間的差別較A型及B型小，只在寬度上有些微差異。這種型態並不常見，但某些特定情況可增加其存在的可能，如[嘌呤](../Page/嘌呤.md "wikilink")-[嘧啶交替序列](../Page/嘧啶.md "wikilink")、[DNA超螺旋](../Page/DNA超螺旋.md "wikilink")，或鹽份與某些[陽離子濃度高時](https://zh.wikipedia.org/wiki/陽離子 "wikilink")。
 
 Z-DNA能夠與B-DNA構成相互結合型態，這種結構會使一對鹼基突出於雙螺旋之外。
 
@@ -108,10 +108,10 @@ G: C3'-endo</p></td>
 
 ## 參見
 
-  - [DNA的機械性質](../Page/DNA的機械性質.md "wikilink")
-  - [DNA](../Page/DNA.md "wikilink")
-  - [A-DNA](../Page/A-DNA.md "wikilink")
-  - [B-DNA](../Page/B-DNA.md "wikilink")
+  - [DNA的機械性質](https://zh.wikipedia.org/wiki/DNA的機械性質 "wikilink")
+  - [DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")
+  - [A-DNA](https://zh.wikipedia.org/wiki/A-DNA "wikilink")
+  - [B-DNA](https://zh.wikipedia.org/wiki/B-DNA "wikilink")
 
 ## 參考文獻
 

@@ -1,11 +1,11 @@
-**Mini-DVI**接口用於[蘋果公司的電腦上](../Page/蘋果公司.md "wikilink")，它是[Mini-VGA接口的數字替代接口](../Page/Mini-VGA.md "wikilink")。它的尺寸介於正常[DVI接口與](../Page/DVI.md "wikilink")[Micro-DVI接口之間](../Page/Micro-DVI.md "wikilink")。它被使用在12英吋[PowerBook
+**Mini-DVI**接口用於[蘋果公司的電腦上](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，它是[Mini-VGA接口的數字替代接口](../Page/Mini-VGA.md "wikilink")。它的尺寸介於正常[DVI接口與](../Page/DVI.md "wikilink")[Micro-DVI接口之間](https://zh.wikipedia.org/wiki/Micro-DVI "wikilink")。它被使用在12英吋[PowerBook
 G4](../Page/PowerBook_G4.md "wikilink")，Intel-based
-[iMac](../Page/iMac.md "wikilink")，[MacBook](../Page/MacBook.md "wikilink")
+[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")，[MacBook](../Page/MacBook.md "wikilink")
 Intel-based筆記本以及Intel-based
 [Xserve](../Page/Xserve.md "wikilink")。[MacBook
-Air並不使用這種接口](../Page/MacBook_Air.md "wikilink")。用在蘋果電腦硬件上的Mini-DVI接口能夠通過不同的適配器通過[DDC檢測](../Page/Display_Data_Channel.md "wikilink")[EDID](../Page/Extended_display_identification_data.md "wikilink")（Extended
+Air並不使用這種接口](../Page/MacBook_Air.md "wikilink")。用在蘋果電腦硬件上的Mini-DVI接口能夠通過不同的適配器通過[DDC檢測](https://zh.wikipedia.org/wiki/Display_Data_Channel "wikilink")[EDID](https://zh.wikipedia.org/wiki/Extended_display_identification_data "wikilink")（Extended
 display identification
-data），傳送DVI、[VGA或者電視信號](../Page/VGA.md "wikilink")。這種接口通常是用來代替[DVI接口以減少設備的物理尺寸大小](../Page/DVI.md "wikilink")。它需要一個Mini-DVI適配器來連接其他顯示器。Mini-DVI並不支持雙通道連接因此並不支持高於1920x1200
+data），傳送DVI、[VGA或者電視信號](https://zh.wikipedia.org/wiki/VGA "wikilink")。這種接口通常是用來代替[DVI接口以減少設備的物理尺寸大小](../Page/DVI.md "wikilink")。它需要一個Mini-DVI適配器來連接其他顯示器。Mini-DVI並不支持雙通道連接因此並不支持高於1920x1200
 @60Hz的分辨率。
 
 Mini-DVI適配器有以下幾種：
@@ -24,7 +24,7 @@ Mini-DVI適配器有以下幾種：
 
 對於蘋果公司的Mini-DVI接口，有一些批評的聲音。
 
-  - 蘋果公司的Mini-DVI至DVI-D轉接線不能輸送由蘋果電腦上的mini-DVI接口傳來的模擬信號。這意味著當需要VGA輸出時，用戶不得不額外購買另外一條mini-DVI轉接線，而不能用一條mini-DVI加上一個便宜的DVI至VGA適配器來解決。如果蘋果公司能夠提供mini-DVI至DVI-I轉接線，這种情況完全可以得以解決。[DVI-I的作用就是提供通用的兼容性](../Page/DVI#Connector.md "wikilink")。
+  - 蘋果公司的Mini-DVI至DVI-D轉接線不能輸送由蘋果電腦上的mini-DVI接口傳來的模擬信號。這意味著當需要VGA輸出時，用戶不得不額外購買另外一條mini-DVI轉接線，而不能用一條mini-DVI加上一個便宜的DVI至VGA適配器來解決。如果蘋果公司能夠提供mini-DVI至DVI-I轉接線，這种情況完全可以得以解決。[DVI-I的作用就是提供通用的兼容性](https://zh.wikipedia.org/wiki/DVI#Connector "wikilink")。
 
 <!-- end list -->
 

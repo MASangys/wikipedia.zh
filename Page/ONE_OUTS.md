@@ -1,8 +1,8 @@
 《**ONE
-OUTS**》是[甲斐谷忍的](../Page/甲斐谷忍.md "wikilink")[棒球漫畫](../Page/棒球漫畫.md "wikilink")，正式標題是《**ONE
+OUTS**》是[甲斐谷忍的](../Page/甲斐谷忍.md "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE
 OUTS Nobody wins, but
-I\!**》，[單行本共](../Page/單行本.md "wikilink")19卷，在[集英社的](../Page/集英社.md "wikilink")[青年漫畫雜誌](../Page/青年漫畫.md "wikilink")《[Business
-Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](../Page/電視動畫.md "wikilink")2008年10月起開始播放。
+I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社的](../Page/集英社.md "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business
+Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2008年10月起開始播放。
 
 伴随動畫版的播出，在2008年10月1日發售的《Business Jump》上開始短期集中連載《ONE OUTS
 疑惑的全明星賽篇》，其後作爲漫畫第20卷來發行。
@@ -11,10 +11,10 @@ Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006�
 
 ## 劇情簡介
 
-1998年12月，日本[職業棒球隊](../Page/職業棒球.md "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣行自主訓練](../Page/沖繩縣.md "wikilink")。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One
+1998年12月，日本[職業棒球隊](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")「埼京彩珠Lycaons」（埼京彩珠豺狼隊）的王牌打者兒島弘道與隊上學弟中根及木野崎到[沖繩縣行自主訓練](../Page/沖繩縣.md "wikilink")。而在某一天，中根和木野崎在尋找隊上新投手人才的時候，遇見了一場名為“One
 Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
 
-本作比起棒球漫畫，更像是鬥智漫畫，如同棒球版的[鬥牌傳說](../Page/鬥牌傳說.md "wikilink")。並不注重一般團體運動作品中重視的友情、努力、團隊合作；而是強調計謀、[技術犯規](../Page/技術犯規.md "wikilink")、[心理戰](../Page/心理戰.md "wikilink")、竊聽暗號以及球隊合約等。運用了其他作品中幾乎不會用到的、相當細部的棒球規則來做為比賽與故事的核心，有著許多其他棒球題材作品中完全沒有的要素。
+本作比起棒球漫畫，更像是鬥智漫畫，如同棒球版的[鬥牌傳說](../Page/鬥牌傳說.md "wikilink")。並不注重一般團體運動作品中重視的友情、努力、團隊合作；而是強調計謀、[技術犯規](https://zh.wikipedia.org/wiki/技術犯規 "wikilink")、[心理戰](https://zh.wikipedia.org/wiki/心理戰 "wikilink")、竊聽暗號以及球隊合約等。運用了其他作品中幾乎不會用到的、相當細部的棒球規則來做為比賽與故事的核心，有著許多其他棒球題材作品中完全沒有的要素。
 
   - one out (漫畫1-84話)
   - 新one out (漫畫85-124話)
@@ -25,7 +25,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
 
 ### Lycaons
 
-埼京彩珠豺狼隊，是日本職業棒球「Paradise聯盟」的球隊，以[埼玉縣](../Page/埼玉縣.md "wikilink")[大宮市的大宮棒球場為主場](../Page/大宮市.md "wikilink")，三十年前曾拿過總冠軍，但在之後卻始終敬陪末座；但因為球隊老板有在當地開設棒球場，而且有王牌打者兒島弘道的關係，仍然具有一定程度的人氣，入座率甚至是聯盟中數一數二。但因為球隊老板設立棒球隊完全是為了利益考量，並沒有積極訓練隊員。在聯盟中是唯一一支收支黑字的球隊，因此被「中央聯盟」盯上，意圖阻止其發展。渡久地接手後成為帶領隊伍以一場勝差擊敗Mariners奪冠，並在日本系列賽中以4比2擊敗中央聯盟的Ganalians成為總冠軍。
+埼京彩珠豺狼隊，是日本職業棒球「Paradise聯盟」的球隊，以[埼玉縣](../Page/埼玉縣.md "wikilink")[大宮市的大宮棒球場為主場](https://zh.wikipedia.org/wiki/大宮市 "wikilink")，三十年前曾拿過總冠軍，但在之後卻始終敬陪末座；但因為球隊老板有在當地開設棒球場，而且有王牌打者兒島弘道的關係，仍然具有一定程度的人氣，入座率甚至是聯盟中數一數二。但因為球隊老板設立棒球隊完全是為了利益考量，並沒有積極訓練隊員。在聯盟中是唯一一支收支黑字的球隊，因此被「中央聯盟」盯上，意圖阻止其發展。渡久地接手後成為帶領隊伍以一場勝差擊敗Mariners奪冠，並在日本系列賽中以4比2擊敗中央聯盟的Ganalians成為總冠軍。
 
 #### 球員
 
@@ -48,13 +48,13 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
     在加入Lycaons隊第一年就拿下了新人王，之後更風光奪下打擊王7次、全壘打王5次、打點王8次、3冠王2次，但卻沒帶領過Lycaons得到總冠軍過。為了尋找某種決定性的「取勝元素」而前往沖繩訓練，遇上了渡久地。並以球員生涯來和渡久地打賭，在得知自己沒可能打中球時不惜故意讓自己被球打中而勝出，並帶領渡久地進入職業棒球。
     在常規賽最後一場賽事中在河中手上擊出全壘打，讓Lycaons奪冠。在渡久地消失後退役並接手球隊。
 
-**出口智志**（聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本），[黃乾師](../Page/黃乾師.md "wikilink")（台灣））
+**出口智志**（聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本），[黃乾師](https://zh.wikipedia.org/wiki/黃乾師 "wikilink")（台灣））
 
   -
     背號3號。Lycaons當家捕手，也是隊長。
     除兒島弘道外，最早發現渡久地投球的才能的人。由於需要多次練習如何接住渡久地那沒有任何暗號就發出的投球，慢慢成為渡久地其中一位核心伙伴，經常與渡久地及兒島商議比賽策略。
 
-**吉田**（聲優：[西村朋紘](../Page/西村朋紘.md "wikilink")（日本），[鍾少庭](../Page/鍾少庭.md "wikilink")（台灣））
+**吉田**（聲優：[西村朋紘](../Page/西村朋紘.md "wikilink")（日本），[鍾少庭](https://zh.wikipedia.org/wiki/鍾少庭 "wikilink")（台灣））
 
   -
     背號6號。Lycaons當家游擊手，彩川會長的走狗之一。
@@ -90,7 +90,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     背號15號。隊伍當家三壘手和遊擊手。情緒波動較大，喜怒形如色。曾在對Eagles比賽中獨自取得三重殺。
 
-**藤田晉**（藤田 晋，聲優：[逢坂力](../Page/逢坂力.md "wikilink")）
+**藤田晉**（藤田 晋，聲優：[逢坂力](https://zh.wikipedia.org/wiki/逢坂力 "wikilink")）
 
   -
     背號7號。隊伍當家左外野手。
@@ -116,7 +116,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     球團的行銷部長，看不慣彩川會長的做法，會暗中幫助渡久地。
 
-**三原雄三郎**（聲優：[飯塚昭三](../Page/飯塚昭三.md "wikilink")（日本），[林協忠](../Page/林協忠.md "wikilink")（台灣））
+**三原雄三郎**（聲優：[飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")（日本），[林協忠](../Page/林協忠.md "wikilink")（台灣））
 
   -
     Lycaons總教練，懦弱無能，是彩川會長的走狗。容易被錢牽著鼻子走，劇中也曾被渡久地以五千萬誘惑，條件是必須聽從渡久地的戰術。在渡久地接手後仍然成為總教練，但一樣沒太多實權。
@@ -126,7 +126,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
   -
     Lycaons投手教練。
 
-**中根**（聲優：[高木渉](../Page/高木渉.md "wikilink")（日本），[黃乾師](../Page/黃乾師.md "wikilink")（台灣））
+**中根**（聲優：[高木渉](https://zh.wikipedia.org/wiki/高木渉 "wikilink")（日本），[黃乾師](https://zh.wikipedia.org/wiki/黃乾師 "wikilink")（台灣））
 
   -
     Lycaons二軍投手，和兒島一起在沖繩訓練。在和渡久地的「One Out」遊戲中慘敗。
@@ -164,7 +164,7 @@ Outs”的賭博活動，而和號稱「不敗」的渡久地東亞相遇了。
 
 妖怪隊，聯盟裡戰績倒數的球隊之一。
 
-**城丘克郎**（聲優：[小川真司](../Page/小川真司.md "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
+**城丘克郎**（聲優：[小川真司](https://zh.wikipedia.org/wiki/小川真司 "wikilink")（日本），[李景唐](../Page/李景唐.md "wikilink")（台灣））
 
   -
     屬於謀略型的總教練，因習慣採用一三壘有人來得分的戰術，被稱為「一三壘魔術師」、「智將」。
@@ -177,9 +177,9 @@ Johnson，聲優：[楠大典](../Page/楠大典.md "wikilink")（日本），[�
 
 ### BlueMars
 
-[神戶布爾馬隊](../Page/神戶.md "wikilink")，相當受到當地球迷的歡迎。新上任的球隊老闆將整個球團大規模的改革，主場**神戶馬斯球場**具有和[美國職棒大聯盟球場同等規模大小](../Page/美國職棒大聯盟.md "wikilink")。球團將設立於[多明尼加的棒球學會的球員大量引進日本](../Page/多明尼加.md "wikilink")，再進行培育菁英的計畫，通過測驗而加入球隊的選手將能得到大聯盟級的薪水。也是屬於鹹魚翻身的球隊，主場勝率聯盟第一。然而事實上卻是透過主場作弊來獲得如此佳績，因此其客場勝率不及五成。
+[神戶布爾馬隊](https://zh.wikipedia.org/wiki/神戶 "wikilink")，相當受到當地球迷的歡迎。新上任的球隊老闆將整個球團大規模的改革，主場**神戶馬斯球場**具有和[美國職棒大聯盟球場同等規模大小](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")。球團將設立於[多明尼加的棒球學會的球員大量引進日本](../Page/多明尼加.md "wikilink")，再進行培育菁英的計畫，通過測驗而加入球隊的選手將能得到大聯盟級的薪水。也是屬於鹹魚翻身的球隊，主場勝率聯盟第一。然而事實上卻是透過主場作弊來獲得如此佳績，因此其客場勝率不及五成。
 
-**天堂哲治**（聲優：[喜多川拓郎](../Page/喜多川拓郎.md "wikilink")）
+**天堂哲治**（聲優：[喜多川拓郎](https://zh.wikipedia.org/wiki/喜多川拓郎 "wikilink")）
 
   -
     布爾馬隊新任總教練，生涯877支全壘打，奪下17次全壘打王，無人能及。
@@ -218,23 +218,23 @@ Williams，聲優：[三木真一郎](../Page/三木真一郎.md "wikilink")（�
 
 ### 工作人員
 
-  - 導演 - [佐藤雄三](../Page/佐藤雄三.md "wikilink")
-  - 系列構成 - [高屋敷英夫](../Page/高屋敷英夫.md "wikilink")
-  - 主要人物設計 - [梅原隆弘](../Page/梅原隆弘.md "wikilink")
+  - 導演 - [佐藤雄三](https://zh.wikipedia.org/wiki/佐藤雄三 "wikilink")
+  - 系列構成 - [高屋敷英夫](https://zh.wikipedia.org/wiki/高屋敷英夫 "wikilink")
+  - 主要人物設計 - [梅原隆弘](https://zh.wikipedia.org/wiki/梅原隆弘 "wikilink")
   - 人物設計、總作畫監督 - 櫻井邦彥、高田晴仁、日向正樹
   - 美術監督 - 上野秀行
   - 色彩設計 - 堀川佳典
   - 攝影監督 - 藤田賢治
   - 編集 - 寺內聰
-  - 音樂 - [松本晃彥](../Page/松本晃彥.md "wikilink")
-  - 音響監督 - [本田保則](../Page/本田保則.md "wikilink")
+  - 音樂 - [松本晃彥](https://zh.wikipedia.org/wiki/松本晃彥 "wikilink")
+  - 音響監督 - [本田保則](https://zh.wikipedia.org/wiki/本田保則 "wikilink")
   - 製作人 - 中谷敏夫、田村學
   - 動畫製作人 - 三田圭志
   - 動畫製作 - [MADHOUSE](../Page/MADHOUSE.md "wikilink")
   - 製作著作 - [ONE
-    OUTS製作委員會](../Page/製作委員會方式.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、[D.N.
+    OUTS製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、[D.N.
     Dream
-    Partners](../Page/D.N._Dream_Partners.md "wikilink")、[VAP](../Page/VAP.md "wikilink")、MADHOUSE）
+    Partners](https://zh.wikipedia.org/wiki/D.N._Dream_Partners "wikilink")、[VAP](https://zh.wikipedia.org/wiki/VAP "wikilink")、MADHOUSE）
 
 ### 主題曲
 

@@ -1,7 +1,7 @@
 [Canon_EF_50mm_f_1.0L.JPG](https://zh.wikipedia.org/wiki/File:Canon_EF_50mm_f_1.0L.JPG "fig:Canon_EF_50mm_f_1.0L.JPG")
 **L镜头**是[佳能公司为](../Page/佳能.md "wikilink")[单镜反光相机生产的顶级镜头系列](../Page/单镜反光相机.md "wikilink")。
 
-字母“L”是英文单词“豪华”（Luxury）的第一个字母，L镜头的品質與價格都十分突出。佳能的[变焦和](../Page/變焦鏡.md "wikilink")[定焦L镜头應用于已经淘汰的FD接環以及目前所有EOS相机使用的EF接環](../Page/定焦镜头.md "wikilink")。
+字母“L”是英文单词“豪华”（Luxury）的第一个字母，L镜头的品質與價格都十分突出。佳能的[变焦和](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")[定焦L镜头應用于已经淘汰的FD接環以及目前所有EOS相机使用的EF接環](../Page/定焦镜头.md "wikilink")。
 
 截至2015年，佳能还没有为EF-S接環推出L镜头。有些人认为，佳能的鏡頭產品是否具有“L”的定位，是一个商业推广的问题\[1\]；譬如EF-S
 17-55mm和EF-S 10-22mm两款镜头都配備有L镜头所使用的高品質光學鏡片，並具有与某些L镜头不相上下的画质，却没有被标上“L”。
@@ -16,8 +16,8 @@ L镜头的光学性能都十分突出，一般來說，比佳能的普通镜头�
 大部分L镜头都有如下特征：
 
   - 适合在恶劣环境中使用，如野外。（部分镜头具有防尘防水滴结构）。
-  - 至少一片[萤石或低](../Page/萤石.md "wikilink")[色散](../Page/色散.md "wikilink")（UD或S-UD）镜片，以及[非球面镜片](../Page/非球面镜片.md "wikilink")。
-  - 镜头前端对焦时不旋转，适合使用濾鏡（比如[偏振光镜片](../Page/偏振光镜片.md "wikilink")）。
+  - 至少一片[萤石或低](../Page/萤石.md "wikilink")[色散](https://zh.wikipedia.org/wiki/色散 "wikilink")（UD或S-UD）镜片，以及[非球面镜片](https://zh.wikipedia.org/wiki/非球面镜片 "wikilink")。
+  - 镜头前端对焦时不旋转，适合使用濾鏡（比如[偏振光镜片](https://zh.wikipedia.org/wiki/偏振光镜片 "wikilink")）。
   - 相比于同一焦段的其他佳能镜头，[光圈更大](../Page/光圈.md "wikilink")，变焦镜头采用恒定光圈，大部分L镜头都是圆形光圈。
   - 以环形超声波对焦马达（USM）驅動對焦，並有全时手动对焦（Full-Time Manual Focus）或电子手动对焦的功能。
 
@@ -36,15 +36,18 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
 #### 超廣角/廣角
 
   - [EF 8-15mm f/4L Fisheye USM](../Page/佳能_EF_8-15mm_鏡頭.md "wikilink")
-  - [EF 11-24mm f/4L](../Page/佳能_EF_11-24mm_鏡頭.md "wikilink")
+  - [EF 11-24mm
+    f/4L](https://zh.wikipedia.org/wiki/佳能_EF_11-24mm_鏡頭 "wikilink")
   - [EF 16-35mm f/2.8L USM](../Page/佳能_EF_16-35mm_鏡頭.md "wikilink")（已停產）
   - [EF 16-35mm f/2.8L II
     USM](../Page/佳能_EF_16-35mm_鏡頭.md "wikilink")（已停產）
   - [EF 16-35mm f/2.8L III USM](../Page/佳能_EF_16-35mm_鏡頭.md "wikilink")
   - [EF 16-35mm f/4L IS USM](../Page/佳能_EF_16-35mm_鏡頭.md "wikilink")
-  - [EF 17-35mm f/2.8L USM](../Page/佳能_EF_17-35mm_鏡頭.md "wikilink")（已停產）
+  - [EF 17-35mm f/2.8L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_17-35mm_鏡頭 "wikilink")（已停產）
   - [EF 17-40mm f/4.0L USM](../Page/佳能_EF_17-40mm_鏡頭.md "wikilink")
-  - [EF 20-35mm f/2.8L](../Page/佳能_EF_20-35mm_鏡頭.md "wikilink")（已停產）
+  - [EF 20-35mm
+    f/2.8L](https://zh.wikipedia.org/wiki/佳能_EF_20-35mm_鏡頭 "wikilink")（已停產）
 
 #### 標準
 
@@ -53,9 +56,10 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
   - [EF 24-70mm f/4.0L IS USM](../Page/佳能_EF_24-70mm_鏡頭.md "wikilink")
   - [EF 24-105mm f/4.0L IS
     USM](../Page/佳能_EF_24-105mm_鏡頭.md "wikilink")（已停產）
-  - [EF 28-70mm f/2.8L USM](../Page/佳能_EF_28-70mm_鏡頭.md "wikilink")（已停產）
+  - [EF 28-70mm f/2.8L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_28-70mm_鏡頭 "wikilink")（已停產）
   - [EF 28-80mm f/2.8-4.0L
-    USM](../Page/佳能_EF_28-80mm_鏡頭.md "wikilink")（已停產）
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_28-80mm_鏡頭 "wikilink")（已停產）
 
 #### 远摄
 
@@ -72,8 +76,10 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
     USM](../Page/佳能_EF_70-200mm_鏡頭.md "wikilink")
   - [EF 70-300mm f/4-5.6L IS
     USM](../Page/佳能_EF_70-300mm_鏡頭.md "wikilink")
-  - [EF 80-200mm f/2.8L](../Page/佳能_EF_80-200mm_鏡頭.md "wikilink")（已停產）
-  - [EF 100-300mm f/5.6L](../Page/佳能_EF_100-300mm_鏡頭.md "wikilink")（已停產）
+  - [EF 80-200mm
+    f/2.8L](https://zh.wikipedia.org/wiki/佳能_EF_80-200mm_鏡頭 "wikilink")（已停產）
+  - [EF 100-300mm
+    f/5.6L](https://zh.wikipedia.org/wiki/佳能_EF_100-300mm_鏡頭 "wikilink")（已停產）
   - [EF 100-400mm f/4.5-5.6L IS
     USM](../Page/佳能_EF_100-400mm_鏡頭.md "wikilink")（已停產）
   - [EF 100-400mm f/4.5-5.6L IS II
@@ -82,42 +88,49 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
 #### 超远摄
 
   - [EF 200-400mm f/4L IS USM EXTENDER
-    1.4X](../Page/佳能_EF_200-400mm_鏡頭.md "wikilink")
+    1.4X](https://zh.wikipedia.org/wiki/佳能_EF_200-400mm_鏡頭 "wikilink")
 
 ### 定焦
 
 #### 廣角
 
   - [EF 14mm f/2.8L USM](../Page/佳能_EF_14mm_鏡頭.md "wikilink")
-  - [EF 24mm f/1.4L USM](../Page/佳能_EF_24mm_鏡頭.md "wikilink")
-  - [EF 24mm f/1.4L II USM](../Page/佳能_EF_24mm_鏡頭.md "wikilink")
-  - [EF 35mm f/1.4L USM](../Page/佳能_EF_35mm_鏡頭.md "wikilink")
-  - [EF 35mm f/1.4L II USM](../Page/佳能_EF_35mm_鏡頭.md "wikilink")
+  - [EF 24mm f/1.4L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_24mm_鏡頭 "wikilink")
+  - [EF 24mm f/1.4L II
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_24mm_鏡頭 "wikilink")
+  - [EF 35mm f/1.4L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_35mm_鏡頭 "wikilink")
+  - [EF 35mm f/1.4L II
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_35mm_鏡頭 "wikilink")
 
 #### 標準和中長焦
 
   - [EF 50mm f/1.0L USM](../Page/佳能_EF_50mm_鏡頭.md "wikilink")（已停產）
   - [EF 50mm f/1.2L USM](../Page/佳能_EF_50mm_鏡頭.md "wikilink")
-  - [EF 85mm f/1.2L USM](../Page/佳能_EF_85mm_鏡頭.md "wikilink")（已停產）
-  - [EF 85mm f/1.2L II USM](../Page/佳能_EF_85mm_鏡頭.md "wikilink")
+  - [EF 85mm f/1.2L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_85mm_鏡頭 "wikilink")（已停產）
+  - [EF 85mm f/1.2L II
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_85mm_鏡頭 "wikilink")
 
 #### 長焦
 
   - [EF 135mm f/2.0L
-    USM](../Page/佳能_EF_135mm_f/2_L_USM_鏡頭.md "wikilink")
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_135mm_f/2_L_USM_鏡頭 "wikilink")
   - [EF 200mm f/1.8L USM](../Page/佳能_EF_200mm_鏡頭.md "wikilink")（已停產）
   - [EF 200mm f/2.0L IS USM](../Page/佳能_EF_200mm_鏡頭.md "wikilink")
   - [EF 200mm f/2.8L USM](../Page/佳能_EF_200mm_鏡頭.md "wikilink")（已停產）
   - [EF 200mm f/2.8L II USM](../Page/佳能_EF_200mm_鏡頭.md "wikilink")
   - [EF 300mm f/2.8L
-    USM](../Page/佳能_EF_300mm_f/2.8L_USM鏡頭.md "wikilink")（已停產）
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_300mm_f/2.8L_USM鏡頭 "wikilink")（已停產）
   - [EF 300mm f/2.8L IS
-    USM](../Page/佳能_EF_300mm_f/2.8L_IS_USM鏡頭.md "wikilink")
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_300mm_f/2.8L_IS_USM鏡頭 "wikilink")
   - [EF 300mm f/2.8L IS II
-    USM](../Page/佳能_EF_300mm_f/2.8L_IS_USM鏡頭.md "wikilink")
-  - [EF 300mm f/4.0L USM](../Page/佳能_EF_300mm_鏡頭.md "wikilink")（已停產）
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_300mm_f/2.8L_IS_USM鏡頭 "wikilink")
+  - [EF 300mm f/4.0L
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_300mm_鏡頭 "wikilink")（已停產）
   - [EF 300mm f/4.0L IS
-    USM](../Page/佳能_EF_300mm_f/4L_IS_USM鏡頭.md "wikilink")
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_300mm_f/4L_IS_USM鏡頭 "wikilink")
 
 #### 超長焦
 
@@ -139,15 +152,17 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
 ### 微距
 
   - [EF 100mm f/2.8L IS Macro
-    USM](../Page/佳能_EF_100mm_f/2.8L_Macro_IS_USM_鏡頭.md "wikilink")，首支搭載[複合式防手震](../Page/複合式防手震.md "wikilink")(Hybrid
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_100mm_f/2.8L_Macro_IS_USM_鏡頭 "wikilink")，首支搭載[複合式防手震](https://zh.wikipedia.org/wiki/複合式防手震 "wikilink")(Hybrid
     IS)技術的佳能鏡頭
   - [EF 180mm f/3.5L Macro
-    USM](../Page/佳能_EF_180mm_f/3.5L_Macro_USM_鏡頭.md "wikilink")
+    USM](https://zh.wikipedia.org/wiki/佳能_EF_180mm_f/3.5L_Macro_USM_鏡頭 "wikilink")
 
 ### 移軸
 
-  - [TS-E 17mm f/3.5L](../Page/TS-E_17mm_f/3.5L鏡頭.md "wikilink")
-  - [TS-E 24mm f/3.5L](../Page/TS-E_24mm_f/3.5L鏡頭.md "wikilink")
+  - [TS-E 17mm
+    f/3.5L](https://zh.wikipedia.org/wiki/TS-E_17mm_f/3.5L鏡頭 "wikilink")
+  - [TS-E 24mm
+    f/3.5L](https://zh.wikipedia.org/wiki/TS-E_24mm_f/3.5L鏡頭 "wikilink")
 
 ## 镜头编号
 
@@ -155,9 +170,9 @@ f/1.8L和新推出的200mm f/2.0L IS以外，所有焦距在300mm以下的定焦
 
 比如，UV1212中的字母“U”表示生产厂。第一个字母有三种可能：
 
-1.  U，表示[宇都宫分厂](../Page/宇都宫.md "wikilink")（Utsunomiya）
-2.  F，表示[福岛分厂](../Page/福岛.md "wikilink")（Fukushima）
-3.  O，表示[大分分厂](../Page/大分.md "wikilink")（Oita）
+1.  U，表示[宇都宫分厂](https://zh.wikipedia.org/wiki/宇都宫 "wikilink")（Utsunomiya）
+2.  F，表示[福岛分厂](https://zh.wikipedia.org/wiki/福岛 "wikilink")（Fukushima）
+3.  O，表示[大分分厂](https://zh.wikipedia.org/wiki/大分 "wikilink")（Oita）
 
 第二个字母，比如“V”，代表生产年份：
 

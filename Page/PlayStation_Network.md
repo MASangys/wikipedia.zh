@@ -1,5 +1,5 @@
 **PlayStation
-Network**（簡稱**PSN**）是[索尼互動娛樂提供的数字媒体娱乐服务](../Page/索尼互動娛樂.md "wikilink")。PSN推出于2006年11月，最初为[PlayStation系列游戏机专用](../Page/PlayStation.md "wikilink")，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2018年11月，拥有超过9千万活跃用户\[1\]。
+Network**（簡稱**PSN**）是[索尼互動娛樂提供的数字媒体娱乐服务](../Page/索尼互動娛樂.md "wikilink")。PSN推出于2006年11月，最初为[PlayStation系列游戏机专用](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2018年11月，拥有超过9千万活跃用户\[1\]。
 
 ## 歷史
 
@@ -17,7 +17,7 @@ Network），将PSN包含在内。2015年改以PlayStation
 Network为整个网络媒体服务平台统称，并以「PlayStation」为其中服务的统一前缀。
 
 2012年7月，索尼電腦娛樂收购云游戏服务商，之后又收购了其竞争对手的专利\[3\]。2014年，索尼推出云游戏服务[PlayStation
-Now](../Page/PlayStation_Now.md "wikilink")。
+Now](https://zh.wikipedia.org/wiki/PlayStation_Now "wikilink")。
 
 2018年12月19日，索尼互動娛樂韩国宣布将于2019年4月1日把原由其代营的PSN在韩国的服务转交至位于日本的Sony
 Interactive Entertainment
@@ -29,7 +29,7 @@ Inc.直接运营\[5\]。
 ## PlayStation Store
 
 PlayStation
-Store是PSN中的数字媒体商店，提供包括数字版游戏、[DLC](../Page/可下载内容.md "wikilink")、[游戏试玩版](../Page/游戏演示.md "wikilink")、主题背景、音乐、影视在内的一系列付费及免费内容。
+Store是PSN中的数字媒体商店，提供包括数字版游戏、[DLC](../Page/可下载内容.md "wikilink")、[游戏试玩版](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")、主题背景、音乐、影视在内的一系列付费及免费内容。
 
 ## PlayStation Plus
 
@@ -41,7 +41,7 @@ PlayStation Plus（简称PS Plus）是一种按月付费的订阅服务，付费
   - 额外折扣优惠
   - 额外游戏试玩
   - 部分游戏优先购买权
-  - 在线[游戏存档资料备份](../Page/游戏存档.md "wikilink")（100GB空间）
+  - 在线[游戏存档资料备份](https://zh.wikipedia.org/wiki/游戏存档 "wikilink")（100GB空间）
   - 自动下载与奖杯自动同步功能
 
 ### 每月免費遊戲
@@ -58,7 +58,7 @@ Vita版本的Plus免費遊戲](../Page/PlayStation_Vita.md "wikilink")\[9\]。
 
 ## 奖杯
 
-[獎盃](../Page/成就_\(电子游戏\).md "wikilink")（Trophies）是一個用於紀錄玩家遊戲[成就的系統](../Page/成就_\(电子游戏\).md "wikilink")，獎盃分爲4种不同類型：[銅獎杯](../Page/銅.md "wikilink")（Bronze）、[銀獎杯](../Page/銀.md "wikilink")（Silver）、[金獎杯](../Page/金.md "wikilink")（Gold）以及[白金獎杯](../Page/铂.md "wikilink")（Platinum）。獎杯的獲取方式为玩家在遊戲中完成特定的事件（如過關或者消滅指定數目的敵人等）或者達到遊戲中的目的（如達成一定等級排名等），当玩家解锁所有其它奖杯后（不包括DLC内容新增的奖杯），就会获得白金奖杯。部分规模较小的游戏没有白金奖杯。
+[獎盃](https://zh.wikipedia.org/wiki/成就_\(电子游戏\) "wikilink")（Trophies）是一個用於紀錄玩家遊戲[成就的系統](https://zh.wikipedia.org/wiki/成就_\(电子游戏\) "wikilink")，獎盃分爲4种不同類型：[銅獎杯](https://zh.wikipedia.org/wiki/銅 "wikilink")（Bronze）、[銀獎杯](../Page/銀.md "wikilink")（Silver）、[金獎杯](../Page/金.md "wikilink")（Gold）以及[白金獎杯](../Page/铂.md "wikilink")（Platinum）。獎杯的獲取方式为玩家在遊戲中完成特定的事件（如過關或者消滅指定數目的敵人等）或者達到遊戲中的目的（如達成一定等級排名等），当玩家解锁所有其它奖杯后（不包括DLC内容新增的奖杯），就会获得白金奖杯。部分规模较小的游戏没有白金奖杯。
 
 ### 奖杯卡
 
@@ -79,7 +79,7 @@ Network提供[网络电视服务](../Page/网络电视.md "wikilink")、[影视�
 ## PlayStation App
 
 PlayStation
-App是索尼推出的[Android和](../Page/Android.md "wikilink")[iOS](../Page/iOS.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")，用户可使用它连接PlayStation
+App是索尼推出的[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[应用程序](../Page/应用程序.md "wikilink")，用户可使用它连接PlayStation
 Network。
 
 ## 停止服务
@@ -91,7 +91,7 @@ Home是PSN內一個社交平台，每個玩家有屬於自己的虛擬分身在H
 
 ### PlayStation Mobile
 
-是索尼推出的移动游戏[軟體框架](../Page/軟體框架.md "wikilink")，可使游戏同时兼容[Android系统](../Page/Android.md "wikilink")、[PlayStation
+是索尼推出的移动游戏[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，可使游戏同时兼容[Android系统](../Page/Android.md "wikilink")、[PlayStation
 Vita和](../Page/PlayStation_Vita.md "wikilink")[Vita
 TV](../Page/PlayStation_Vita_TV.md "wikilink")。2015年停止服务\[12\]。
 
@@ -106,7 +106,7 @@ Plus订阅，服务中断前已订阅的用户则获得60天\[15\]。
 ### 受DDoS攻击
 
 2014年12月25日，PSN与[Xbox
-Live同时受到大量](../Page/Xbox_Live.md "wikilink")[DDoS攻击导致服务暂时中断](../Page/拒绝服务攻击.md "wikilink")，于26日恢复\[16\]。2015年1月1日，索尼宣布补偿用户5天免费PS
+Live同时受到大量](../Page/Xbox_Live.md "wikilink")[DDoS攻击导致服务暂时中断](https://zh.wikipedia.org/wiki/拒绝服务攻击 "wikilink")，于26日恢复\[16\]。2015年1月1日，索尼宣布补偿用户5天免费PS
 Plus订阅\[17\]。
 
 ## 注释
@@ -125,7 +125,7 @@ Plus订阅\[17\]。
 
   - [Xbox Live](../Page/Xbox_Live.md "wikilink")
   - [任天堂Network](../Page/任天堂Network.md "wikilink")
-  - [任天堂Switch線上服務](../Page/任天堂Switch線上服務.md "wikilink")
+  - [任天堂Switch線上服務](https://zh.wikipedia.org/wiki/任天堂Switch線上服務 "wikilink")
 
 {{-}}
 

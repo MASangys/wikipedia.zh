@@ -1,12 +1,13 @@
 [Siam_Center_Night_view_201801.jpg](https://zh.wikipedia.org/wiki/File:Siam_Center_Night_view_201801.jpg "fig:Siam_Center_Night_view_201801.jpg")
 [Siam_Center_Void_2018.jpg](https://zh.wikipedia.org/wiki/File:Siam_Center_Void_2018.jpg "fig:Siam_Center_Void_2018.jpg")
 **Siam
-Center**([泰文](../Page/泰文.md "wikilink")：สยามเซ็นเตอร์；[台灣譯為](../Page/台灣.md "wikilink")：暹羅購物中心)與沙炎發現中心
+Center**([泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")：สยามเซ็นเตอร์；[台灣譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")：暹羅購物中心)與沙炎發現中心
 (Siam
-Discovery)是一座雙胞胎的購物中心，它們位於[泰國的](../Page/泰國.md "wikilink")[首都](../Page/首都.md "wikilink")[曼谷之](../Page/曼谷.md "wikilink")[巴吞旺縣的](../Page/巴吞旺縣.md "wikilink")[拉瑪一世路](../Page/拉瑪一世路.md "wikilink")，毗鄰[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")(架空[電車](../Page/電車.md "wikilink"))的[暹羅站](../Page/暹羅站.md "wikilink")，它正位於競爭對手[沙炎商業中心](../Page/沙炎商業中心.md "wikilink")(Siam
-Square)對面，旁邊就是[沙炎模範商業中心](../Page/沙炎模範商業中心.md "wikilink")(Siam
-Paragon)，對角即為老牌[群僑商業中心](../Page/群僑商業中心.md "wikilink") (MBK
-Center)。在四樓設有[天橋連接兩棟商業中心](../Page/天橋.md "wikilink")，兩棟中心之間的空地常用作舉辦音樂會和特別活動。此外，[天橋連接](../Page/天橋.md "wikilink")[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")(架空[電車](../Page/電車.md "wikilink"))的[暹羅站及鄰近的商場](../Page/暹羅站.md "wikilink")。
+Discovery)是一座雙胞胎的購物中心，它們位於[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[首都](../Page/首都.md "wikilink")[曼谷之](../Page/曼谷.md "wikilink")[巴吞旺縣的](https://zh.wikipedia.org/wiki/巴吞旺縣 "wikilink")[拉瑪一世路](https://zh.wikipedia.org/wiki/拉瑪一世路 "wikilink")，毗鄰[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")(架空[電車](../Page/電車.md "wikilink"))的[暹羅站](https://zh.wikipedia.org/wiki/暹羅站 "wikilink")，它正位於競爭對手[沙炎商業中心](https://zh.wikipedia.org/wiki/沙炎商業中心 "wikilink")(Siam
+Square)對面，旁邊就是[沙炎模範商業中心](https://zh.wikipedia.org/wiki/沙炎模範商業中心 "wikilink")(Siam
+Paragon)，對角即為老牌[群僑商業中心](https://zh.wikipedia.org/wiki/群僑商業中心 "wikilink")
+(MBK
+Center)。在四樓設有[天橋連接兩棟商業中心](https://zh.wikipedia.org/wiki/天橋 "wikilink")，兩棟中心之間的空地常用作舉辦音樂會和特別活動。此外，[天橋連接](https://zh.wikipedia.org/wiki/天橋 "wikilink")[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")(架空[電車](../Page/電車.md "wikilink"))的[暹羅站及鄰近的商場](https://zh.wikipedia.org/wiki/暹羅站 "wikilink")。
 
 ## 歷史
 

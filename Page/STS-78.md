@@ -2,18 +2,18 @@
 
 ## 任务成员
 
-  - **[特伦斯·亨里克斯](../Page/特伦斯·亨里克斯.md "wikilink")**（，曾执行、、以及任务），指令长
-  - **[凯文·克雷格](../Page/凯文·克雷格.md "wikilink")**（，曾执行、、以及任务），飞行员
-  - **[苏珊·赫尔姆斯](../Page/苏珊·赫尔姆斯.md "wikilink")**（，曾执行、、、、、以及任务），飞行工程师
-  - **[理查德·林奈](../Page/理查德·林奈.md "wikilink")**（，曾执行、以及任务），任务专家
-  - **[查尔斯·布拉迪](../Page/查尔斯·布拉迪.md "wikilink")**（，、曾执行任务），任务专家
-  - **[让-雅克·法维埃](../Page/让-雅克·法维埃.md "wikilink")**（，[法国宇航员](../Page/法国.md "wikilink")，曾执行任务），有效载荷专家
+  - **[特伦斯·亨里克斯](https://zh.wikipedia.org/wiki/特伦斯·亨里克斯 "wikilink")**（，曾执行、、以及任务），指令长
+  - **[凯文·克雷格](https://zh.wikipedia.org/wiki/凯文·克雷格 "wikilink")**（，曾执行、、以及任务），飞行员
+  - **[苏珊·赫尔姆斯](https://zh.wikipedia.org/wiki/苏珊·赫尔姆斯 "wikilink")**（，曾执行、、、、、以及任务），飞行工程师
+  - **[理查德·林奈](https://zh.wikipedia.org/wiki/理查德·林奈 "wikilink")**（，曾执行、以及任务），任务专家
+  - **[查尔斯·布拉迪](https://zh.wikipedia.org/wiki/查尔斯·布拉迪 "wikilink")**（，、曾执行任务），任务专家
+  - **[让-雅克·法维埃](https://zh.wikipedia.org/wiki/让-雅克·法维埃 "wikilink")**（，[法国宇航员](https://zh.wikipedia.org/wiki/法国 "wikilink")，曾执行任务），有效载荷专家
   - **[罗伯特·瑟斯克](../Page/罗伯特·瑟斯克.md "wikilink")**（，[加拿大宇航员](../Page/加拿大.md "wikilink")，曾执行任务），有效载荷专家
 
 ### 替补有效载荷专家
 
-  - **[佩德罗·杜克](../Page/佩德罗·杜克.md "wikilink")**（，[西班牙宇航员](../Page/西班牙.md "wikilink")，曾执行、[联盟TMA-3以及](../Page/联盟TMA-3.md "wikilink")[联盟TMA-2任务](../Page/联盟TMA-2.md "wikilink")）
-  - **[卢卡·厄巴尼](../Page/卢卡·厄巴尼.md "wikilink")**（，[意大利宇航员](../Page/意大利.md "wikilink")）
+  - **[佩德罗·杜克](https://zh.wikipedia.org/wiki/佩德罗·杜克 "wikilink")**（，[西班牙宇航员](../Page/西班牙.md "wikilink")，曾执行、[联盟TMA-3以及](https://zh.wikipedia.org/wiki/联盟TMA-3 "wikilink")[联盟TMA-2任务](https://zh.wikipedia.org/wiki/联盟TMA-2 "wikilink")）
+  - **[卢卡·厄巴尼](https://zh.wikipedia.org/wiki/卢卡·厄巴尼 "wikilink")**（，[意大利宇航员](../Page/意大利.md "wikilink")）
 
 [Category:1996年佛罗里达州](https://zh.wikipedia.org/wiki/Category:1996年佛罗里达州 "wikilink")
 [Category:1996年科学](https://zh.wikipedia.org/wiki/Category:1996年科学 "wikilink")

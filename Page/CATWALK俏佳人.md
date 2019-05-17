@@ -2,7 +2,7 @@
 
 ## 劇情介紹
 
-故事發生在一間新崛起且甚具規模的模特兒公司，內有股東三人，旗下不乏出色的模特兒。其中一人Teresa（[麥家琪飾](../Page/麥家琪.md "wikilink")）出身大富之家，在一次時裝表演完畢後，汽車遭一神秘人裝置炸彈後爆炸，雖然男逃過，其父卻擔心其安全問題而請來私人保鑣司徒立秋（[陶大宇飾](../Page/陶大宇.md "wikilink")）做貼身的保護，然而怪事並未因此而停止。光正與麗梅為模特兒中心之股東，卻利用麗梅為淫媒，方便自己漁色。麗梅本欲藉一次交易的時機拍下姦宿過程向光正勒索，不料光正卻錯手將模特兒莉莉性虐待至死，並拋海棄屍，不久Teresa等模特兒在採外景，竟發現莉莉浮屍，眾女驚駭意危！梅拿下正犯罪過程的錄影帶，將錯就錯向他勒索，不料臨交易前卻遭神秘人殺害。另一位模特兒Kenix（[郭可盈飾](../Page/郭可盈.md "wikilink")）因其兄當年為臥底警察卻因立秋鋤姦心切而連累喪命，立秋亦因此丟差轉入私人保鑣行業；此番相遇自是狹路難讓，處處針鋒相對。而在連續發生兩件命案後，督察梁世-{杰}-（[林保怡飾](../Page/林保怡.md "wikilink")）、探員龍冠標（[蔣志光飾](../Page/蔣志光_\(藝員\).md "wikilink")）奉命調查，世傑曾為Kenix兄之屬下，亦對立秋心存偏見。Teresa受Kenix影響對立秋更表憎厭，怎料Teresa再次受神秘人襲擊，幸得立秋及時營救，在相處日久後反而不禁心儀起來。模特兒May得表哥麥志堅（[馬德鐘飾](../Page/馬德鐘.md "wikilink")）幫助入行，在圈內逐漸走紅卻對表哥的示愛無動於衷。一方面冠標因查案與May接觸漸多，漸生好感並展開追求，志堅見May投向冠標，醋海生波決殺二人，後卻被冠標設陷捕捉，後志堅承認放炸彈燒Teresa的車，更為報眾模特兒教唆May與他分手之恨，不惜殺害麗梅。志堅被扣壓其間，光正懷疑影帶落在他手，乘看病時盤問志堅，卻在志堅否認時盛怒下殺害逃逸……
+故事發生在一間新崛起且甚具規模的模特兒公司，內有股東三人，旗下不乏出色的模特兒。其中一人Teresa（[麥家琪飾](../Page/麥家琪.md "wikilink")）出身大富之家，在一次時裝表演完畢後，汽車遭一神秘人裝置炸彈後爆炸，雖然男逃過，其父卻擔心其安全問題而請來私人保鑣司徒立秋（[陶大宇飾](../Page/陶大宇.md "wikilink")）做貼身的保護，然而怪事並未因此而停止。光正與麗梅為模特兒中心之股東，卻利用麗梅為淫媒，方便自己漁色。麗梅本欲藉一次交易的時機拍下姦宿過程向光正勒索，不料光正卻錯手將模特兒莉莉性虐待至死，並拋海棄屍，不久Teresa等模特兒在採外景，竟發現莉莉浮屍，眾女驚駭意危！梅拿下正犯罪過程的錄影帶，將錯就錯向他勒索，不料臨交易前卻遭神秘人殺害。另一位模特兒Kenix（[郭可盈飾](../Page/郭可盈.md "wikilink")）因其兄當年為臥底警察卻因立秋鋤姦心切而連累喪命，立秋亦因此丟差轉入私人保鑣行業；此番相遇自是狹路難讓，處處針鋒相對。而在連續發生兩件命案後，督察梁世-{杰}-（[林保怡飾](../Page/林保怡.md "wikilink")）、探員龍冠標（[蔣志光飾](https://zh.wikipedia.org/wiki/蔣志光_\(藝員\) "wikilink")）奉命調查，世傑曾為Kenix兄之屬下，亦對立秋心存偏見。Teresa受Kenix影響對立秋更表憎厭，怎料Teresa再次受神秘人襲擊，幸得立秋及時營救，在相處日久後反而不禁心儀起來。模特兒May得表哥麥志堅（[馬德鐘飾](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")）幫助入行，在圈內逐漸走紅卻對表哥的示愛無動於衷。一方面冠標因查案與May接觸漸多，漸生好感並展開追求，志堅見May投向冠標，醋海生波決殺二人，後卻被冠標設陷捕捉，後志堅承認放炸彈燒Teresa的車，更為報眾模特兒教唆May與他分手之恨，不惜殺害麗梅。志堅被扣壓其間，光正懷疑影帶落在他手，乘看病時盤問志堅，卻在志堅否認時盛怒下殺害逃逸……
 世傑在Kenix兄死後，時常照顧她亦愛苗萌生。後Kenix突然接到一封匿名恐嚇信，讓以為事情已告段落的世傑大為緊張；不久當年Kenix兄被殺案重新翻案，證明立秋為無辜者，令Kenix內疚不已，主動提出關愛。Kenix周旋在Teresa同樣深愛的立秋與世傑中大感矛盾，此一四角關係如何了結？光正的醜聞錄影帶又會為這群模特兒帶來什麼死亡威脅呢？這些錯綜複雜的情感與事業衝擊，將是劇營造懸疑高潮的最大魅力所在！
 
 1993年度港姐麥家琪、郭可盈、陳妙英、林麗薇、周逸鳳、鄧麗文、林佩君、劉海靈，初登螢幕代表作，飾演天橋上的美人兒，她們將以最美麗姿態與觀眾見面。
@@ -19,14 +19,14 @@
 <td><p><strong>關係/暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳梅馨.md" title="wikilink">陳梅馨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳梅馨" title="wikilink">陳梅馨</a></p></td>
 <td><p>方靖文</p></td>
 <td><p>模特兒公司股東<br />
 郭世昌之女友，後分手<br />
 陳國強之女友，後分手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李桂英.md" title="wikilink">李桂英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李桂英" title="wikilink">李桂英</a></p></td>
 <td><p>邵麗梅</p></td>
 <td><p>模特兒公司股東<br />
 被林光正利用作淫媒<br />
@@ -65,7 +65,7 @@ Renee之姐<br />
 龍冠標曾經表白，遭拒絕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧麗文.md" title="wikilink">鄧麗文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧麗文" title="wikilink">鄧麗文</a></p></td>
 <td><p>Rachelle</p></td>
 <td><p>模特兒<br />
 鍾情龍冠標，後為女友</p></td>
@@ -78,12 +78,12 @@ Renee之姐<br />
 Teresa拍外景時發現其屍首</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周逸鳳.md" title="wikilink">周逸鳳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周逸鳳" title="wikilink">周逸鳳</a></p></td>
 <td><p>Yvonne</p></td>
 <td><p>模特兒</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉海靈.md" title="wikilink">劉海靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉海靈" title="wikilink">劉海靈</a></p></td>
 <td><p>Divina</p></td>
 <td><p>模特兒</p></td>
 </tr>
@@ -94,7 +94,7 @@ Teresa拍外景時發現其屍首</p></td>
 客串第1、6集</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/余少寶.md" title="wikilink">余少寶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余少寶" title="wikilink">余少寶</a></p></td>
 <td><p>余少寶</p></td>
 <td></td>
 </tr>
@@ -132,12 +132,12 @@ Kenix之兄<br />
 於第1集開始已死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳曉雲.md" title="wikilink">陳曉雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳曉雲" title="wikilink">陳曉雲</a></p></td>
 <td><p>Irene</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
@@ -147,7 +147,7 @@ Kenix之兄<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃瑋琳.md" title="wikilink">黃瑋琳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃瑋琳" title="wikilink">黃瑋琳</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
@@ -180,7 +180,7 @@ Teresa之心儀對象<br />
 Mariane之男友，於第9集分手</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/馬德鐘.md" title="wikilink">馬德鐘</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></strong></p></td>
 <td><p><strong>麥志堅(Marco)</strong></p></td>
 <td><p>林麗薇之表哥<br />
 機械工程師, 曾參加義勇軍<br />
@@ -189,13 +189,13 @@ Mariane之男友，於第9集分手</p></td>
 於第5集被林光正殺死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李國祥_(歌手).md" title="wikilink">李國祥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李國祥_(歌手)" title="wikilink">李國祥</a></p></td>
 <td><p>陳國強(Sam)</p></td>
 <td><p>Mariane之男友，於第4集分手，第10集復合<br />
 方靖文之男友，後分手。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蔡國權.md" title="wikilink">蔡國權</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蔡國權" title="wikilink">蔡國權</a></p></td>
 <td><p>郭世昌</p></td>
 <td><p>數學老師<br />
 方晴文之前男友<br />
@@ -208,7 +208,7 @@ Mariane之男友，於第9集分手</p></td>
 傾慕郭世昌</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林佩君.md" title="wikilink">林佩君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林佩君" title="wikilink">林佩君</a></p></td>
 <td><p>郭佩君 Renee</p></td>
 <td><p>Kenix之妹<br />
 學生妹<br />
@@ -244,12 +244,12 @@ Martin 妻子<br />
 於第10集被判入獄</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戴少民.md" title="wikilink">戴少民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴少民" title="wikilink">戴少民</a></p></td>
 <td><p>林光正手下</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉煒全.md" title="wikilink">劉煒全</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉煒全" title="wikilink">劉煒全</a></p></td>
 <td><p>林光正手下</p></td>
 <td></td>
 </tr>
@@ -259,28 +259,28 @@ Martin 妻子<br />
 <td><p>私家偵探</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何英偉.md" title="wikilink">何英偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何英偉" title="wikilink">何英偉</a></p></td>
 <td><p>李家達(Martin)</p></td>
 <td><p>Bobo丈夫<br />
 追求Christine，遭拒絕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何浩源.md" title="wikilink">何浩源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何浩源" title="wikilink">何浩源</a></p></td>
 <td><p>Alex</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吳列華.md" title="wikilink">吳列華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳列華" title="wikilink">吳列華</a></p></td>
 <td><p>梅　妹</p></td>
 <td><p>趙麗梅之妹</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李衛民.md" title="wikilink">李衛民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李衛民" title="wikilink">李衛民</a></p></td>
 <td><p>Frankie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張延.md" title="wikilink">張　延</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張延" title="wikilink">張　延</a></p></td>
 <td><p>Caren</p></td>
 <td></td>
 </tr>
@@ -290,12 +290,12 @@ Martin 妻子<br />
 <td><p>殺害郭正康之兇手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張海勤.md" title="wikilink">張海勤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張海勤" title="wikilink">張海勤</a></p></td>
 <td><p>偉　友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅維.md" title="wikilink">羅　維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅維" title="wikilink">羅　維</a></p></td>
 <td><p>偉　友</p></td>
 <td></td>
 </tr>
@@ -310,8 +310,8 @@ Martin 妻子<br />
 ## 插曲
 
   - 歌名：回程吧
-  - 作曲：[劉志宏](../Page/劉志宏.md "wikilink")
-  - 填詞：[陳少琪](../Page/陳少琪.md "wikilink")
+  - 作曲：[劉志宏](https://zh.wikipedia.org/wiki/劉志宏 "wikilink")
+  - 填詞：[陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")
   - 主唱：[蘇永康](../Page/蘇永康.md "wikilink")
   - 歌名：在我眼內唯有你
   - 作曲：Marc Cassandra、Chris Copperfield、Mik Shep Stone

@@ -1,7 +1,7 @@
 《**OTOME
 CRISIS**》（）為[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2008年3月28日發售的遊戲\[1\]，遊戲引擎繼承[DUEL
 SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")／[Xross
-Scramble的橫向](../Page/Xross_Scramble.md "wikilink")2D卷軸式戰鬥，屬於[十八禁](../Page/十八禁遊戲.md "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")。
+Scramble的橫向](../Page/Xross_Scramble.md "wikilink")2D卷軸式戰鬥，屬於[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。
 
 ## 故事
 
@@ -25,14 +25,14 @@ SAVIOR系列中出現過的](../Page/DUEL_SAVIOR.md "wikilink")「根源世界·
 ## 主題曲
 
 片頭曲「CRISIS
-BEAT」是由菊田大介擔任作曲和編曲，ayachi擔任作詞，[Rita擔任主唱](../Page/Rita.md "wikilink")。\[2\]
+BEAT」是由菊田大介擔任作曲和編曲，ayachi擔任作詞，[Rita擔任主唱](https://zh.wikipedia.org/wiki/Rita "wikilink")。\[2\]
 
 ## 工作人員
 
 由TEAM
 BALDRHEAD負責製作，此遊戲有兩名原畫師，分別是[菊池政治及](../Page/菊池政治.md "wikilink")，各自負責一名原創角色設計。於同年9月18日至20日舉行的第46屆Amusement
 Machine
-Show（）中以[街機的形式把動作遊戲的部分參考展出](../Page/街機.md "wikilink")，該版本的可選角色為星咲緋色和淺倉奈緒子。\[3\]
+Show（）中以[街機的形式把動作遊戲的部分參考展出](https://zh.wikipedia.org/wiki/街機 "wikilink")，該版本的可選角色為星咲緋色和淺倉奈緒子。\[3\]
 
   - 原畫：[菊池政治](../Page/菊池政治.md "wikilink")、
   - 劇本：穗波太郎、大月佑佑

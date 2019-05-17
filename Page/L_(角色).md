@@ -1,10 +1,10 @@
-**艾爾·羅萊特**（；）\[1\]，通稱**L**，是[大場鶇和](../Page/大場鶇.md "wikilink")[小畑健所合著的](../Page/小畑健.md "wikilink")[日本漫畫](../Page/日本漫畫.md "wikilink")《[死亡筆記本](../Page/死亡筆記本.md "wikilink")》及其改編作品中的一位虛構偵探角色。他是行徑怪異的天才，被稱為世界上能力最高超的偵探。他與故事的主角[夜神月](../Page/夜神月.md "wikilink")──一位被稱為「奇樂」，企圖以殺人來消除罪惡、並創造[新世界的人](../Page/烏托邦.md "wikilink")──對抗，是故事前半部的主角之一。
+**艾爾·羅萊特**（；）\[1\]，通稱**L**，是[大場鶇和](../Page/大場鶇.md "wikilink")[小畑健所合著的](../Page/小畑健.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[死亡筆記本](https://zh.wikipedia.org/wiki/死亡筆記本 "wikilink")》及其改編作品中的一位虛構偵探角色。他是行徑怪異的天才，被稱為世界上能力最高超的偵探。他與故事的主角[夜神月](../Page/夜神月.md "wikilink")──一位被稱為「奇樂」，企圖以殺人來消除罪惡、並創造[新世界的人](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")──對抗，是故事前半部的主角之一。
 
-在動畫版中、日語配音員為[山口勝平](../Page/山口勝平.md "wikilink")，臺灣版配音員為[曹冀魯](../Page/曹冀魯.md "wikilink")，粵語版配音員為[黃啟昌](../Page/黃啟昌.md "wikilink")，英語版配音員為，電影版演員為[松山研一](../Page/松山研一.md "wikilink")，電視劇版演員為[山崎賢人](../Page/山崎賢人.md "wikilink")，美國電影版演員為[凱斯·史坦費爾德](../Page/凱斯·史坦費爾德.md "wikilink")。
+在動畫版中、日語配音員為[山口勝平](../Page/山口勝平.md "wikilink")，臺灣版配音員為[曹冀魯](../Page/曹冀魯.md "wikilink")，粵語版配音員為[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")，英語版配音員為，電影版演員為[松山研一](../Page/松山研一.md "wikilink")，電視劇版演員為[山崎賢人](../Page/山崎賢人.md "wikilink")，美國電影版演員為[凱斯·史坦費爾德](../Page/凱斯·史坦費爾德.md "wikilink")。
 
 ## 設計
 
-原作[大場鶇將L設計為青年](../Page/大場鶇.md "wikilink")，因為如果年齡比月大太多就不好玩了。為了要隱瞞本名，選擇了語感恰當的L\[2\]。角色外型方面由[小畑健全權負責](../Page/小畑健.md "wikilink")，大場只給了「特殊坐姿、無精打采、英國和某國的混血兒」等設定，愛吃甜食是小畑添加的細節\[3\]，在正式露面以前，大場想將L設計為看起來很酷的青年，但之後又因為要和月有所對比、而將其設計為怪人。為了讓L的臉也有帥氣的一面，小畑為其增加了黑眼圈，因為小畑認為同樣有黑眼圈的《[惡魔人](../Page/惡魔人.md "wikilink")》主角不動明也很帥\[4\]。
+原作[大場鶇將L設計為青年](../Page/大場鶇.md "wikilink")，因為如果年齡比月大太多就不好玩了。為了要隱瞞本名，選擇了語感恰當的L\[2\]。角色外型方面由[小畑健全權負責](../Page/小畑健.md "wikilink")，大場只給了「特殊坐姿、無精打采、英國和某國的混血兒」等設定，愛吃甜食是小畑添加的細節\[3\]，在正式露面以前，大場想將L設計為看起來很酷的青年，但之後又因為要和月有所對比、而將其設計為怪人。為了讓L的臉也有帥氣的一面，小畑為其增加了黑眼圈，因為小畑認為同樣有黑眼圈的《[惡魔人](https://zh.wikipedia.org/wiki/惡魔人 "wikilink")》主角不動明也很帥\[4\]。
 
 在L剛登場的期間，大場擔心這位偵探的舉止會不會過份地可疑，以致當他與月見面時、月會很快地發現他就是L。小畑將雙眼畫成沒有反光的純黑，也不畫眉毛，以表現他的無精打采。整體而言、讓讀者產生一種不知道L在想什麼的神祕感。而由於他漫不經心，因此在服裝上也不會特意選擇，因此為他設計了T恤和牛仔褲這種極其簡單的樣式。\[5\]
 
@@ -41,7 +41,7 @@ Martin讚揚Alessandro Juliani的表現，認為他「補捉到了L的神韻」\
 ## 參考文獻
 
 [pl:Lista bohaterów anime Notatnik śmierci\#Lawliet
-Lawsford](../Page/pl:Lista_bohaterów_anime_Notatnik_śmierci#Lawliet_Lawsford.md "wikilink")
+Lawsford](https://zh.wikipedia.org/wiki/pl:Lista_bohaterów_anime_Notatnik_śmierci#Lawliet_Lawsford "wikilink")
 
 [Category:死亡筆記角色](https://zh.wikipedia.org/wiki/Category:死亡筆記角色 "wikilink")
 [Category:虚构私家侦探](https://zh.wikipedia.org/wiki/Category:虚构私家侦探 "wikilink")

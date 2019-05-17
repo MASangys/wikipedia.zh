@@ -1,18 +1,18 @@
-**CFR克卢日足球俱乐部**（），是一家位于[罗马尼亚](../Page/罗马尼亚.md "wikilink")[克卢日-纳波卡的](../Page/克卢日-纳波卡.md "wikilink")[足球俱乐部](../Page/足球俱乐部.md "wikilink")。CFR克卢日是2007-08赛季[罗马尼亚足球甲级联赛的](../Page/罗马尼亚足球甲级联赛.md "wikilink")[冠军](../Page/冠军.md "wikilink")。这是CFR克卢日的首个国内顶级联赛冠军，也是这一冠军头衔17年来首次由来自[布加勒斯特以外的球队夺得](../Page/布加勒斯特.md "wikilink")。此外，本赛季罗马尼亚首次获得一个直接晋级[欧洲冠军联赛小组赛的名额](../Page/欧洲冠军联赛.md "wikilink")，CFR克卢日也因此成为首支晋级欧洲冠军联赛小组赛的非布加勒斯特球队。这对于克卢日来说是一项非凡的成就，6年前他们还处在罗马尼亚第三级别的联赛。
+**CFR克卢日足球俱乐部**（），是一家位于[罗马尼亚](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[克卢日-纳波卡的](../Page/克卢日-纳波卡.md "wikilink")[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")。CFR克卢日是2007-08赛季[罗马尼亚足球甲级联赛的](https://zh.wikipedia.org/wiki/罗马尼亚足球甲级联赛 "wikilink")[冠军](https://zh.wikipedia.org/wiki/冠军 "wikilink")。这是CFR克卢日的首个国内顶级联赛冠军，也是这一冠军头衔17年来首次由来自[布加勒斯特以外的球队夺得](../Page/布加勒斯特.md "wikilink")。此外，本赛季罗马尼亚首次获得一个直接晋级[欧洲冠军联赛小组赛的名额](../Page/欧洲冠军联赛.md "wikilink")，CFR克卢日也因此成为首支晋级欧洲冠军联赛小组赛的非布加勒斯特球队。这对于克卢日来说是一项非凡的成就，6年前他们还处在罗马尼亚第三级别的联赛。
 
 CFR克卢日足球俱乐部名称中的CFR为[罗马尼亚铁路系统的缩写](../Page/罗马尼亚铁路.md "wikilink")。
 
-2005年，由于在[国际托托杯上的优异表现](../Page/国际托托杯.md "wikilink")，CFR克卢日引起了罗马尼亚国内外的广泛关注。当时，克卢日接连淘汰[毕尔巴鄂竞技和](../Page/毕尔巴鄂竞技.md "wikilink")[圣埃蒂安](../Page/圣埃蒂安足球俱乐部.md "wikilink")，成为首支打进托托杯决赛的罗马尼亚俱乐部。在最后的决赛中，克卢日输给了法国的[朗斯](../Page/朗斯足球俱乐部.md "wikilink")。2008-09赛季，克卢日首次参加欧洲冠军联赛小组赛，就在9月16日的首场比赛中爆冷以2比1战胜冠军联赛的常客[罗马队](../Page/罗马队.md "wikilink")。\[1\]
+2005年，由于在[国际托托杯上的优异表现](https://zh.wikipedia.org/wiki/国际托托杯 "wikilink")，CFR克卢日引起了罗马尼亚国内外的广泛关注。当时，克卢日接连淘汰[毕尔巴鄂竞技和](https://zh.wikipedia.org/wiki/毕尔巴鄂竞技 "wikilink")[圣埃蒂安](https://zh.wikipedia.org/wiki/圣埃蒂安足球俱乐部 "wikilink")，成为首支打进托托杯决赛的罗马尼亚俱乐部。在最后的决赛中，克卢日输给了法国的[朗斯](https://zh.wikipedia.org/wiki/朗斯足球俱乐部 "wikilink")。2008-09赛季，克卢日首次参加欧洲冠军联赛小组赛，就在9月16日的首场比赛中爆冷以2比1战胜冠军联赛的常客[罗马队](https://zh.wikipedia.org/wiki/罗马队 "wikilink")。\[1\]
 
 ## 历史
 
 ### 早期历史
 
-CFR克卢日足球俱乐部成立于1907年；当时的克卢日市还是[奥匈帝国的一部分](../Page/奥匈帝国.md "wikilink")。俱乐部原来的[匈牙利语名称是](../Page/匈牙利语.md "wikilink")*Kolozsvári
+CFR克卢日足球俱乐部成立于1907年；当时的克卢日市还是[奥匈帝国的一部分](https://zh.wikipedia.org/wiki/奥匈帝国 "wikilink")。俱乐部原来的[匈牙利语名称是](../Page/匈牙利语.md "wikilink")*Kolozsvári
 Vasutas Sport Club*
 (K.V.S.C.)，意思是“铁路工人队”。1907至1910年，克卢日参加了Kolozsvár（即现在的克卢日-纳波卡）地区联赛，然而并没有取得引人注目的成绩。
 
-1910年，球队赢得了新创办的[特兰西瓦尼亚联赛冠军](../Page/特兰西瓦尼亚.md "wikilink")，并在1911年至1914年连续四次获得[亚军](../Page/亚军.md "wikilink")。这项赛事随后由于[第一次世界大战而被迫中断](../Page/第一次世界大战.md "wikilink")。战后特兰西瓦尼亚成了罗马尼亚的一部分，因此俱乐部更名为CFR克卢日，保持和国家铁路的关系，并在1918-1919和1919-1920两个赛季中获得地区联赛的冠军头衔。
+1910年，球队赢得了新创办的[特兰西瓦尼亚联赛冠军](../Page/特兰西瓦尼亚.md "wikilink")，并在1911年至1914年连续四次获得[亚军](https://zh.wikipedia.org/wiki/亚军 "wikilink")。这项赛事随后由于[第一次世界大战而被迫中断](../Page/第一次世界大战.md "wikilink")。战后特兰西瓦尼亚成了罗马尼亚的一部分，因此俱乐部更名为CFR克卢日，保持和国家铁路的关系，并在1918-1919和1919-1920两个赛季中获得地区联赛的冠军头衔。
 
 克卢日早期著名球员有：博加（*Boga*），豪洛斯（*Halasz*），巴斯加（*Basga*），西洛吉（*Szilaghi*），韦格（*Vegh*），海格（*Hegh*），卡布佐夫斯基（*Kabuzovsky*），基尼日二世（*Kinizsi
 II*），瑙吉（*Nagy*），乌伊沃里（*Ujvari*），陶考奇一世（*Takacs
@@ -46,8 +46,8 @@ Popescu*），波纳（*Pona*）和斯特拉特（*Strat*）。球员整体比�
 
 1969-1970赛季，克卢日在首轮比赛中2-0战胜ASA[特尔古穆列什](../Page/特尔古穆列什.md "wikilink")（*ASA
 Târgu
-Mureş*）。然而他们接下来几场比赛并不顺利，除了1-0战胜[雅西波利泰尼卡](../Page/雅西.md "wikilink")（*Politehnica
-Iaşi*）之外，他们不断输球，其中包括败给[布加勒斯特星](../Page/布加勒斯特星.md "wikilink")（1-3）和[布加勒斯特迪纳摩](../Page/布加勒斯特迪纳摩.md "wikilink")（0-2）。好在他们在第二年春天再次战胜ASA特尔古穆列什，并大力反弹，最终避免了降级厄运。这个赛季的主力阵容大体上是：莫尔多万（*Moldovan*）－卢普（*Lupu*），德拉戈米尔，索奥斯，罗曼，科若卡鲁（*Cojocaru*），马里乌斯·布雷坦，泰杰安，维桑，O·约内斯库（*O.
+Mureş*）。然而他们接下来几场比赛并不顺利，除了1-0战胜[雅西波利泰尼卡](https://zh.wikipedia.org/wiki/雅西 "wikilink")（*Politehnica
+Iaşi*）之外，他们不断输球，其中包括败给[布加勒斯特星](https://zh.wikipedia.org/wiki/布加勒斯特星 "wikilink")（1-3）和[布加勒斯特迪纳摩](https://zh.wikipedia.org/wiki/布加勒斯特迪纳摩 "wikilink")（0-2）。好在他们在第二年春天再次战胜ASA特尔古穆列什，并大力反弹，最终避免了降级厄运。这个赛季的主力阵容大体上是：莫尔多万（*Moldovan*）－卢普（*Lupu*），德拉戈米尔，索奥斯，罗曼，科若卡鲁（*Cojocaru*），马里乌斯·布雷坦，泰杰安，维桑，O·约内斯库（*O.
 Ionescu*）和什泽凯（*Szőke*）。
 
 第二个赛季初，埃乌真（*Eugen*）接替勒杜莱斯库成为球队主教练，然而他的执教并不让人满意，因此勒杜莱斯库再度被请回。尽管如此，冬歇期前克卢日仍处在积分榜倒数的位置。1971年春天，情况虽然有所好转，克卢日依然要为保级而挣扎。联赛最后一轮与UT阿拉德（*UT
@@ -55,7 +55,7 @@ Arad*）的比赛令人难忘。克卢日以1-0领先结束上半场。然而UT�
 
 1971-1972赛季，克卢日开局不利。输给布加勒斯特迪纳摩（1-3）、[奥拉迪亚克里舒尔](../Page/奥拉迪亚.md "wikilink")（*Crişul
 Oradea*）（0-1，终场前点球失分）和佩特罗沙尼日乌尔（*Jiul
-Petroşani*）（1-2，两粒乌龙球）之后，克卢日在上半程联赛结束后仅积7分，排名垫底。进入下半程，克卢日的反弹相当壮观，尽管并不十分连贯。他们在几场关键比赛中取得了胜利，比如1-0对[克拉约瓦大学](../Page/克拉约瓦.md "wikilink")（*Universitatea
+Petroşani*）（1-2，两粒乌龙球）之后，克卢日在上半程联赛结束后仅积7分，排名垫底。进入下半程，克卢日的反弹相当壮观，尽管并不十分连贯。他们在几场关键比赛中取得了胜利，比如1-0对[克拉约瓦大学](https://zh.wikipedia.org/wiki/克拉约瓦 "wikilink")（*Universitatea
 Craiova*）和3-0对普洛耶什蒂佩特罗卢尔（*Petrolul
 Ploieşti*）。到了赛季末，克卢日仍然在为保级而努力。最后一轮比赛，客场与雅西波利泰尼卡的比赛结束后，保级成功的队伍回到克卢日受到了3000名球迷的热烈欢迎。
 
@@ -101,20 +101,20 @@ Oncică*）各入两球，帮助球队以4-2取得胜利。然而，联赛下半
 
 ### 2005年－2007年
 
-2005年夏天，CFR克卢日发生了非凡的变化。他们首次杀入欧洲赛场，参加了[国际托托杯](../Page/国际托托杯.md "wikilink")。罗马尼亚著名球员[多里内尔·蒙泰亚努](../Page/多里内尔·蒙泰亚努.md "wikilink")（*Dorinel
-Munteanu*）从布加勒斯特星转会而来，在队中扮演球员和教练双重角色。他加盟的首场比赛就创造了克卢日历史上最伟大的一场胜利。克卢日在2005年国际托托杯第二轮首回合1-0战胜了[毕尔巴鄂竞技](../Page/毕尔巴鄂竞技.md "wikilink")（尽管当时毕尔巴鄂竞技的场上队员大多来自预备队）。次回合比赛，克卢日以0-1告负，但仍然通过点球大战进入下一轮。
+2005年夏天，CFR克卢日发生了非凡的变化。他们首次杀入欧洲赛场，参加了[国际托托杯](https://zh.wikipedia.org/wiki/国际托托杯 "wikilink")。罗马尼亚著名球员[多里内尔·蒙泰亚努](https://zh.wikipedia.org/wiki/多里内尔·蒙泰亚努 "wikilink")（*Dorinel
+Munteanu*）从布加勒斯特星转会而来，在队中扮演球员和教练双重角色。他加盟的首场比赛就创造了克卢日历史上最伟大的一场胜利。克卢日在2005年国际托托杯第二轮首回合1-0战胜了[毕尔巴鄂竞技](https://zh.wikipedia.org/wiki/毕尔巴鄂竞技 "wikilink")（尽管当时毕尔巴鄂竞技的场上队员大多来自预备队）。次回合比赛，克卢日以0-1告负，但仍然通过点球大战进入下一轮。
 
-接下来的比赛，克卢日回到主场迎战[圣埃蒂安](../Page/圣埃蒂安足球俱乐部.md "wikilink")。阿德里安·安卡打出了他个人职业生涯中最伟大的一场比赛，尽管比赛的结果是1-1平。上半时，安卡的头球打在横梁上，科斯明·蒂林卡（*Cosmin
+接下来的比赛，克卢日回到主场迎战[圣埃蒂安](https://zh.wikipedia.org/wiki/圣埃蒂安足球俱乐部 "wikilink")。阿德里安·安卡打出了他个人职业生涯中最伟大的一场比赛，尽管比赛的结果是1-1平。上半时，安卡的头球打在横梁上，科斯明·蒂林卡（*Cosmin
 Tilinca*）将反弹回来的皮球补射入网。随后安卡赢得一个点球，可惜没有射进。下半时，安卡再次打中横梁。在法国举行的客场比赛同样是克卢日的一个重要时刻。比赛以2-2结束，克卢日凭借客场进球数的优势晋级下一轮。克卢日开局顺利，克里斯蒂安·科罗伊安将安卡创造的点球罚进。下半场对克卢日并不太顺利。圣埃蒂安队的朱利安·萨布莱（*Julien
 Sablé*）将比分扳平，紧接着克卢日的拉什兹洛·巴林特（*Laszlo
-Balint*）被红牌罚下。科斯明·蒂林卡的进球让克卢日重获希望，最终晋级。下一轮比赛中，克卢日轻松地淘汰[维尔纽斯韦特拉](../Page/维尔纽斯韦特拉.md "wikilink")（客场2-1，主场5-1，总比分7-2）。
+Balint*）被红牌罚下。科斯明·蒂林卡的进球让克卢日重获希望，最终晋级。下一轮比赛中，克卢日轻松地淘汰[维尔纽斯韦特拉](https://zh.wikipedia.org/wiki/维尔纽斯韦特拉 "wikilink")（客场2-1，主场5-1，总比分7-2）。
 
-克卢日的决赛对手是法国的[朗斯](../Page/朗斯足球俱乐部.md "wikilink")。首回合主场比赛，双方各打进一个任意球，比赛以1-1收场。为克卢日进球的是克里斯蒂安·图尔库。次回合客场比赛，面对3万名法国球迷，克卢日球员们似乎十分疲惫，被打进3个球。而蒙泰亚努在第89分钟的进球为本队挽回了一点面子。克卢日的托托杯之旅就此终止。
+克卢日的决赛对手是法国的[朗斯](https://zh.wikipedia.org/wiki/朗斯足球俱乐部 "wikilink")。首回合主场比赛，双方各打进一个任意球，比赛以1-1收场。为克卢日进球的是克里斯蒂安·图尔库。次回合客场比赛，面对3万名法国球迷，克卢日球员们似乎十分疲惫，被打进3个球。而蒙泰亚努在第89分钟的进球为本队挽回了一点面子。克卢日的托托杯之旅就此终止。
 
 克卢日在2005-2006赛季的联赛中排名第五。
 
 2006-2007赛季，克卢日发生了很大变动。蒙泰亚努离开球队，意大利人克里斯蒂亚诺·贝尔戈迪（*Cristiano
-Bergodi*）成为新主教练。球队迎来了很多西欧和南美球员。俱乐部和葡萄牙劲旅[本菲卡签订了合作协议](../Page/本菲卡.md "wikilink")。2007年7月22日，CFR克卢日热烈庆祝其百年诞辰，与本菲卡进行了一场友谊赛，并为球场的新照明系统举行落成仪式。
+Bergodi*）成为新主教练。球队迎来了很多西欧和南美球员。俱乐部和葡萄牙劲旅[本菲卡签订了合作协议](https://zh.wikipedia.org/wiki/本菲卡 "wikilink")。2007年7月22日，CFR克卢日热烈庆祝其百年诞辰，与本菲卡进行了一场友谊赛，并为球场的新照明系统举行落成仪式。
 
 ### 2008年：罗马尼亚甲级联赛冠军
 
@@ -126,11 +126,11 @@ Andone*）接手球队，并将目标定为罗马尼亚甲级联赛冠军。联�
 特里克（*Trică*），达尼（*Dani*），莱昂（*Leão*），库里奥（*Culio*）－
 赛梅多（*Semedo*），法比安尼（*Fabbiani*）。其他球员，比如只打了上半个赛季的迪迪（*Didi*）和冬歇期加盟的鲁伊兹（*Ruiz*）、杜巴尔比尔（*Dubarbier*）同样对球队夺得联赛和杯赛冠军做出了贡献。
 
-[2008-2009赛季的欧洲冠军联赛](../Page/2008/09赛季欧洲冠军联赛.md "wikilink")，克卢日与上赛季亚军[英超的](../Page/英超.md "wikilink")[切尔西](../Page/切尔西足球俱乐部.md "wikilink")、以及[意甲的](../Page/意甲.md "wikilink")[罗马和](../Page/罗马足球俱乐部.md "wikilink")[法甲的](../Page/法甲.md "wikilink")[波尔多同分在A组](../Page/波尔多足球俱乐部.md "wikilink")。2008年9月16日，在他们的冠军联赛处子秀中，克卢日出人意料地以2-1击败了罗马队。库里奥独中两元，成为球队的英雄。
+[2008-2009赛季的欧洲冠军联赛](https://zh.wikipedia.org/wiki/2008/09赛季欧洲冠军联赛 "wikilink")，克卢日与上赛季亚军[英超的](https://zh.wikipedia.org/wiki/英超 "wikilink")[切尔西](https://zh.wikipedia.org/wiki/切尔西足球俱乐部 "wikilink")、以及[意甲的](https://zh.wikipedia.org/wiki/意甲 "wikilink")[罗马和](https://zh.wikipedia.org/wiki/罗马足球俱乐部 "wikilink")[法甲的](https://zh.wikipedia.org/wiki/法甲 "wikilink")[波尔多同分在A组](../Page/波尔多足球俱乐部.md "wikilink")。2008年9月16日，在他们的冠军联赛处子秀中，克卢日出人意料地以2-1击败了罗马队。库里奥独中两元，成为球队的英雄。
 
 ## 球场信息
 
-CFR克卢日的主场为[康斯坦丁·勒杜列斯库博士球场](../Page/康斯坦丁·勒杜列斯库博士球场.md "wikilink")，又名[格鲁亚球场](../Page/格鲁亚球场.md "wikilink")，可容纳25000名球迷。2006年秋至2007年6月，俱乐部投入1000万欧元对球场进行了改造，铺设了高质量草皮，安装了先进的照明系统。所有的改造都是为了庆祝俱乐部的百岁生日。球场改造完成后举行的首场比赛是与[本菲卡的友谊赛](../Page/本菲卡.md "wikilink")。2008年，俱乐部将球场座席扩大到25000。康斯坦丁·勒杜列斯库博士球场现已达到欧足联制定的所有要求，可以承办欧洲冠军联赛的比赛。
+CFR克卢日的主场为[康斯坦丁·勒杜列斯库博士球场](../Page/康斯坦丁·勒杜列斯库博士球场.md "wikilink")，又名[格鲁亚球场](https://zh.wikipedia.org/wiki/格鲁亚球场 "wikilink")，可容纳25000名球迷。2006年秋至2007年6月，俱乐部投入1000万欧元对球场进行了改造，铺设了高质量草皮，安装了先进的照明系统。所有的改造都是为了庆祝俱乐部的百岁生日。球场改造完成后举行的首场比赛是与[本菲卡的友谊赛](https://zh.wikipedia.org/wiki/本菲卡 "wikilink")。2008年，俱乐部将球场座席扩大到25000。康斯坦丁·勒杜列斯库博士球场现已达到欧足联制定的所有要求，可以承办欧洲冠军联赛的比赛。
 
 ## 俱乐部荣誉
 
@@ -149,7 +149,7 @@ CFR克卢日的主场为[康斯坦丁·勒杜列斯库博士球场](../Page/康�
 
 <!-- end list -->
 
-  - [国际托托杯亚军](../Page/国际托托杯.md "wikilink")：1
+  - [国际托托杯亚军](https://zh.wikipedia.org/wiki/国际托托杯 "wikilink")：1
       - 2005
 
 ## 罗马尼亚顶级联赛战绩
@@ -186,36 +186,48 @@ CFR克卢日的主场为[康斯坦丁·勒杜列斯库博士球场](../Page/康�
 
 ## 史上著名球员
 
-  - [伊奥安尼斯·马楚拉基斯](../Page/伊奥安尼斯·马楚拉基斯.md "wikilink")（*Ioannis
+  - [伊奥安尼斯·马楚拉基斯](https://zh.wikipedia.org/wiki/伊奥安尼斯·马楚拉基斯 "wikilink")（*Ioannis
     Matzourakis*）
 
-  - [佩德罗·奥利维拉](../Page/佩德罗·奥利维拉.md "wikilink")（*Pedro Oliveira*）
+  - [佩德罗·奥利维拉](https://zh.wikipedia.org/wiki/佩德罗·奥利维拉 "wikilink")（*Pedro
+    Oliveira*）
 
-  - [纳纳](../Page/纳纳.md "wikilink")（*Naná*）
+  - [纳纳](https://zh.wikipedia.org/wiki/纳纳 "wikilink")（*Naná*）
 
-  - [杜杜](../Page/杜杜.md "wikilink")（*Dudu*）
+  - [杜杜](https://zh.wikipedia.org/wiki/杜杜 "wikilink")（*Dudu*）
 
-  - [阿德里安·安卡](../Page/阿德里安·安卡.md "wikilink")（*Adrian Anca*）
+  - [阿德里安·安卡](https://zh.wikipedia.org/wiki/阿德里安·安卡 "wikilink")（*Adrian
+    Anca*）
 
-  - [马里乌斯·布雷坦](../Page/马里乌斯·布雷坦.md "wikilink")（*Marius Bretan*）
+  - [马里乌斯·布雷坦](https://zh.wikipedia.org/wiki/马里乌斯·布雷坦 "wikilink")（*Marius
+    Bretan*）
 
-  - [克里斯蒂安·科罗伊安](../Page/克里斯蒂安·科罗伊安.md "wikilink")（*Cristian Coroian*）
+  - [克里斯蒂安·科罗伊安](https://zh.wikipedia.org/wiki/克里斯蒂安·科罗伊安 "wikilink")（*Cristian
+    Coroian*）
 
-  - [克里斯蒂安·杜尔卡](../Page/克里斯蒂安·杜尔卡.md "wikilink")（*Cristian Dulca*）
+  - [克里斯蒂安·杜尔卡](https://zh.wikipedia.org/wiki/克里斯蒂安·杜尔卡 "wikilink")（*Cristian
+    Dulca*）
 
-  - [什泰凡·科瓦奇](../Page/什泰凡·科瓦奇.md "wikilink")（*Stefan Kovacs*）
+  - [什泰凡·科瓦奇](https://zh.wikipedia.org/wiki/什泰凡·科瓦奇 "wikilink")（*Stefan
+    Kovacs*）
 
-  - [多里内尔·蒙泰亚努](../Page/多里内尔·蒙泰亚努.md "wikilink")（*Dorinel Munteanu*）
+  - [多里内尔·蒙泰亚努](https://zh.wikipedia.org/wiki/多里内尔·蒙泰亚努 "wikilink")（*Dorinel
+    Munteanu*）
 
-  - [罗梅奥·苏尔杜](../Page/罗梅奥·苏尔杜.md "wikilink")（*Romeo Surdu*）
+  - [罗梅奥·苏尔杜](https://zh.wikipedia.org/wiki/罗梅奥·苏尔杜 "wikilink")（*Romeo
+    Surdu*）
 
-  - [奥古斯汀·泰杰安](../Page/奥古斯汀·泰杰安.md "wikilink")（*Augustin Tegean*）
+  - [奥古斯汀·泰杰安](https://zh.wikipedia.org/wiki/奥古斯汀·泰杰安 "wikilink")（*Augustin
+    Tegean*）
 
-  - [马廷·图多尔](../Page/马廷·图多尔.md "wikilink")（*Martin Tudor*）
+  - [马廷·图多尔](https://zh.wikipedia.org/wiki/马廷·图多尔 "wikilink")（*Martin
+    Tudor*）
 
-  - [维奥雷尔·维桑](../Page/维奥雷尔·维桑.md "wikilink")（*Viorel Visan*）
+  - [维奥雷尔·维桑](https://zh.wikipedia.org/wiki/维奥雷尔·维桑 "wikilink")（*Viorel
+    Visan*）
 
-  - [米盖尔·多尔辛](../Page/米盖尔·多尔辛.md "wikilink")（*Mikael Dorsin*）
+  - [米盖尔·多尔辛](https://zh.wikipedia.org/wiki/米盖尔·多尔辛 "wikilink")（*Mikael
+    Dorsin*）
 
 ## 俱乐部信息
 

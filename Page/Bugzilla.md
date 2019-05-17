@@ -1,9 +1,9 @@
-**Bugzilla**是一款用於[软件缺陷的](../Page/软件缺陷.md "wikilink")[追踪管理網絡程式](../Page/缺陷跟踪管理系统.md "wikilink")，由[Mozilla計劃开发和应用](../Page/Mozilla.md "wikilink")。1998年，[网景公司開放其原始碼後](../Page/网景公司.md "wikilink")，以[Mozilla公共许可证协议授權](../Page/Mozilla公共许可证.md "wikilink")。有许多组织采用其作为旗下软件（特别是[自由软件](../Page/自由软件.md "wikilink")）的产品缺陷追踪系统。
+**Bugzilla**是一款用於[软件缺陷的](https://zh.wikipedia.org/wiki/软件缺陷 "wikilink")[追踪管理網絡程式](../Page/缺陷跟踪管理系统.md "wikilink")，由[Mozilla計劃开发和应用](../Page/Mozilla.md "wikilink")。1998年，[网景公司開放其原始碼後](https://zh.wikipedia.org/wiki/网景公司 "wikilink")，以[Mozilla公共许可证协议授權](../Page/Mozilla公共许可证.md "wikilink")。有许多组织采用其作为旗下软件（特别是[自由软件](../Page/自由软件.md "wikilink")）的产品缺陷追踪系统。
 
 ## 歷史
 
 Bugzilla最初是由Terry
-Weissma於1998年開發隸屬於[Mozilla.org的專案](../Page/Mozilla基金會.md "wikilink")，用於[網景通訊家套件缺陷追蹤的一個](../Page/網景通訊家.md "wikilink")[開放原始碼軟體](../Page/開放原始碼.md "wikilink")。Bugzilla最初是用[Tcl語言開發](../Page/Tcl.md "wikilink")，後來Weissma決定用[Perl語言進行重寫](../Page/Perl.md "wikilink")，因為Perl在當時是一個很流行的語言，希望借此能有更多的人參與到這個專案裡來\[1\]。
+Weissma於1998年開發隸屬於[Mozilla.org的專案](../Page/Mozilla基金會.md "wikilink")，用於[網景通訊家套件缺陷追蹤的一個](../Page/網景通訊家.md "wikilink")[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Bugzilla最初是用[Tcl語言開發](../Page/Tcl.md "wikilink")，後來Weissma決定用[Perl語言進行重寫](../Page/Perl.md "wikilink")，因為Perl在當時是一個很流行的語言，希望借此能有更多的人參與到這個專案裡來\[1\]。
 
 Bugzilla
 2.0就是使用Perl語言開發的，並於第一版通過[CVS匿名發佈](../Page/協作版本系統.md "wikilink")。2000年4月，Terry

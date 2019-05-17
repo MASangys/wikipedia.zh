@@ -1,12 +1,13 @@
 **C
-標準函式庫**（，缩写：）是在[C語言程式設計中](../Page/C語言.md "wikilink")，所有符合標準的[头文件](../Page/头文件.md "wikilink")（）的集合，以及常用的[函式庫實作程序](../Page/函式庫.md "wikilink")（如
+標準函式庫**（，缩写：）是在[C語言程式設計中](https://zh.wikipedia.org/wiki/C語言 "wikilink")，所有符合標準的[头文件](../Page/头文件.md "wikilink")（）的集合，以及常用的[函式庫實作程序](../Page/函式庫.md "wikilink")（如
 [I/O
-輸入輸出和](../Page/I/O.md "wikilink")[字串控制](../Page/字串.md "wikilink")）。不像
+輸入輸出和](https://zh.wikipedia.org/wiki/I/O "wikilink")[字串控制](https://zh.wikipedia.org/wiki/字串 "wikilink")）。不像
 [COBOL](../Page/COBOL.md "wikilink")、[Fortran](../Page/Fortran.md "wikilink")
 和
-[PL/I等](../Page/PL/I.md "wikilink")[程式語言](../Page/程式語言.md "wikilink")，在
-C 語言的工作任務裡不會包含嵌入的[關鍵字](../Page/關鍵字.md "wikilink")，所以幾乎所有的 C
-語言程式都是由標準函式庫的函式來建立的。
+[PL/I等](https://zh.wikipedia.org/wiki/PL/I "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，在
+C
+語言的工作任務裡不會包含嵌入的[關鍵字](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")，所以幾乎所有的
+C 語言程式都是由標準函式庫的函式來建立的。
 
 ## 設計
 
@@ -18,46 +19,46 @@ C 編譯器常會提供一些額外的非 [ANSI C](../Page/ANSI_C.md "wikilink")
 
 大多数 C 標準函式庫設計得很好。有些少部分會為了商業優勢和利益，把某些舊函式視同錯誤或提出警告。字串輸入函式 `gets()` 及
 `scanf()`
-讀取字串輸入的使用是很多[緩衝區溢位的原因](../Page/緩衝區溢位.md "wikilink")，大多数的程式設計指南會建議避免使用。另一個較為奇特的函式是
+讀取字串輸入的使用是很多[緩衝區溢位的原因](https://zh.wikipedia.org/wiki/緩衝區溢位 "wikilink")，大多数的程式設計指南會建議避免使用。另一個較為奇特的函式是
 `strtok()`，它原本是作為早期的[词法分析用途](../Page/词法分析.md "wikilink")，但是它非常容易出錯（），而且很難使用。
 
 ## 历史沿革
 
 [ANSI C共包括](../Page/ANSI_C.md "wikilink")15個表頭檔。1995年，*Normative
 Addendum 1*
-（）批准了3个头文件（`iso646.h`、`wchar.h`和`wctype.h`）增加到C标准函数库中。[C99标准增加了](../Page/C99.md "wikilink")6个头文件（`complex.h`、`fenv.h`、`inttypes.h`、`stdbool.h`、`stdint.h`和`tgmath.h`）。[C11标准中又新增了](../Page/C11.md "wikilink")5个头文件（`stdalign.h`、`stdatomic.h`、`stdnoreturn.h`、`threads.h`和`uchar.h`）。至此，C标准函数库共有29个头文件：
+（）批准了3个头文件（`iso646.h`、`wchar.h`和`wctype.h`）增加到C标准函数库中。[C99标准增加了](https://zh.wikipedia.org/wiki/C99 "wikilink")6个头文件（`complex.h`、`fenv.h`、`inttypes.h`、`stdbool.h`、`stdint.h`和`tgmath.h`）。[C11标准中又新增了](../Page/C11.md "wikilink")5个头文件（`stdalign.h`、`stdatomic.h`、`stdnoreturn.h`、`threads.h`和`uchar.h`）。至此，C标准函数库共有29个头文件：
 
-| 名字                                                       | 源自  | 描述                                                                                                                                                                |
-| -------------------------------------------------------- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [`<assert.h>`](../Page/assert.h.md "wikilink")           |     | 包含[断言宏](../Page/斷言_\(程式\).md "wikilink")，被用来在程序的调试版本中帮助检测逻辑错误以及其他类型的bug。                                                                                          |
-| [`<complex.h>`](../Page/complex.h.md "wikilink")         | C99 | 一组操作[复数的函数](../Page/复数.md "wikilink")。                                                                                                                            |
-| [`<ctype.h>`](../Page/ctype.h.md "wikilink")             |     | 定义了一组函数，用来根据类型来给字符分类，或者进行大小写转换，而不关心所使用的字符集（通常是[ASCII或其扩展](../Page/ASCII.md "wikilink")[字符集](../Page/字符集.md "wikilink")，也有[EBCDIC](../Page/EBCDIC.md "wikilink")）。 |
-| [`<errno.h>`](../Page/errno.h.md "wikilink")             |     | 用来测试由库函数报的错误代码。                                                                                                                                                   |
-| [`<fenv.h>`](../Page/fenv.h.md "wikilink")               | C99 | 定义了一组用来控制[浮点数环境的函数](../Page/浮点数.md "wikilink")。                                                                                                                   |
-| [`<float.h>`](../Page/float.h.md "wikilink")             |     | Defines macro constants specifying the implementation-specific properties of the [浮点数](../Page/浮点数.md "wikilink") library.                                        |
-| [`<inttypes.h>`](../Page/inttypes.h.md "wikilink")       | C99 | Defines exact width integer types.                                                                                                                                |
-| [`<iso646.h>`](../Page/iso646.h.md "wikilink")           | NA1 | Defines several macros that are equivalent to some of the operators in C. For programming in [ISO 646](../Page/ISO_646.md "wikilink") variant character sets.     |
-| [`<limits.h>`](../Page/limits.h.md "wikilink")           |     | Defines macro constants specifying the implementation-specific properties of the [整數](../Page/整數.md "wikilink") types.                                            |
-| [`<locale.h>`](../Page/locale.h.md "wikilink")           |     | 定义C语言本地化函数。                                                                                                                                                       |
-| [`<math.h>`](../Page/math.h.md "wikilink")               |     | 定义C语言数学函数。                                                                                                                                                        |
-| [`<setjmp.h>`](../Page/setjmp.h.md "wikilink")           |     | 定义了[巨集](../Page/巨集.md "wikilink")`setjmp`和`longjmp`，在非局部跳转的时候使用。                                                                                                  |
-| [`<signal.h>`](../Page/signal.h.md "wikilink")           |     | 定义C语言信号处理函数。                                                                                                                                                      |
-| [`<stdalign.h>`](../Page/stdalign.h.md "wikilink")       | C11 | For querying and specifying the data structure alignment of objects.                                                                                              |
-| [`<stdarg.h>`](../Page/stdarg.h.md "wikilink")           |     | For accessing a varying number of arguments passed to functions.                                                                                                  |
-| [`<stdatomic.h>`](../Page/stdatomic.h.md "wikilink")     | C11 | For atomic operations on data shared between threads.                                                                                                             |
-| [`<stdbool.h>`](../Page/stdbool.h.md "wikilink")         | C99 | 定义布尔数据类型。                                                                                                                                                         |
-| [`<stddef.h>`](../Page/stddef.h.md "wikilink")           |     | 定义了几个常见的类型与[巨集](../Page/巨集.md "wikilink")。                                                                                                                        |
-| [`<stdint.h>`](../Page/stdint.h.md "wikilink")           | C99 | Defines exact width integer types.                                                                                                                                |
-| [`<stdio.h>`](../Page/stdio.h.md "wikilink")             |     | 定义输入输出函数。                                                                                                                                                         |
-| [`<stdlib.h>`](../Page/stdlib.h.md "wikilink")           |     | 定义数值转换函数，伪随机数生成函数，动态内存分配函数，过程控制函数。                                                                                                                                |
-| [`<stdnoreturn.h>`](../Page/stdnoreturn.h.md "wikilink") | C11 | For specifying non-returning functions.                                                                                                                           |
-| [`<string.h>`](../Page/string.h.md "wikilink")           |     | 定义C语言字符串处理函数。                                                                                                                                                     |
-| [`<tgmath.h>`](../Page/tgmath.h.md "wikilink")           | C99 | Defines type-generic mathematical functions.                                                                                                                      |
-| [`<threads.h>`](../Page/threads.h.md "wikilink")         | C11 | Defines functions for managing multiple threads as well as mutexes and condition variables.                                                                       |
-| [`<time.h>`](../Page/time.h.md "wikilink")               |     | Defines date and time handling functions                                                                                                                          |
-| [`<uchar.h>`](../Page/uchar.h.md "wikilink")             | C11 | Types and functions for manipulating [Unicode](../Page/Unicode.md "wikilink") characters.                                                                         |
-| [`<wchar.h>`](../Page/wchar.h.md "wikilink")             | NA1 | Defines wide string handling functions.                                                                                                                           |
-| [`<wctype.h>`](../Page/wctype.h.md "wikilink")           | NA1 | Defines set of functions used to classify wide characters by their types or to convert between upper and lower case                                               |
+| 名字                                                                          | 源自  | 描述                                                                                                                                                                                   |
+| --------------------------------------------------------------------------- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [`<assert.h>`](https://zh.wikipedia.org/wiki/assert.h "wikilink")           |     | 包含[断言宏](../Page/斷言_\(程式\).md "wikilink")，被用来在程序的调试版本中帮助检测逻辑错误以及其他类型的bug。                                                                                                             |
+| [`<complex.h>`](https://zh.wikipedia.org/wiki/complex.h "wikilink")         | C99 | 一组操作[复数的函数](https://zh.wikipedia.org/wiki/复数 "wikilink")。                                                                                                                            |
+| [`<ctype.h>`](https://zh.wikipedia.org/wiki/ctype.h "wikilink")             |     | 定义了一组函数，用来根据类型来给字符分类，或者进行大小写转换，而不关心所使用的字符集（通常是[ASCII或其扩展](../Page/ASCII.md "wikilink")[字符集](https://zh.wikipedia.org/wiki/字符集 "wikilink")，也有[EBCDIC](../Page/EBCDIC.md "wikilink")）。 |
+| [`<errno.h>`](https://zh.wikipedia.org/wiki/errno.h "wikilink")             |     | 用来测试由库函数报的错误代码。                                                                                                                                                                      |
+| [`<fenv.h>`](https://zh.wikipedia.org/wiki/fenv.h "wikilink")               | C99 | 定义了一组用来控制[浮点数环境的函数](../Page/浮点数.md "wikilink")。                                                                                                                                      |
+| [`<float.h>`](https://zh.wikipedia.org/wiki/float.h "wikilink")             |     | Defines macro constants specifying the implementation-specific properties of the [浮点数](../Page/浮点数.md "wikilink") library.                                                           |
+| [`<inttypes.h>`](https://zh.wikipedia.org/wiki/inttypes.h "wikilink")       | C99 | Defines exact width integer types.                                                                                                                                                   |
+| [`<iso646.h>`](https://zh.wikipedia.org/wiki/iso646.h "wikilink")           | NA1 | Defines several macros that are equivalent to some of the operators in C. For programming in [ISO 646](https://zh.wikipedia.org/wiki/ISO_646 "wikilink") variant character sets.     |
+| [`<limits.h>`](https://zh.wikipedia.org/wiki/limits.h "wikilink")           |     | Defines macro constants specifying the implementation-specific properties of the [整數](https://zh.wikipedia.org/wiki/整數 "wikilink") types.                                            |
+| [`<locale.h>`](https://zh.wikipedia.org/wiki/locale.h "wikilink")           |     | 定义C语言本地化函数。                                                                                                                                                                          |
+| [`<math.h>`](https://zh.wikipedia.org/wiki/math.h "wikilink")               |     | 定义C语言数学函数。                                                                                                                                                                           |
+| [`<setjmp.h>`](https://zh.wikipedia.org/wiki/setjmp.h "wikilink")           |     | 定义了[巨集](../Page/巨集.md "wikilink")`setjmp`和`longjmp`，在非局部跳转的时候使用。                                                                                                                     |
+| [`<signal.h>`](https://zh.wikipedia.org/wiki/signal.h "wikilink")           |     | 定义C语言信号处理函数。                                                                                                                                                                         |
+| [`<stdalign.h>`](https://zh.wikipedia.org/wiki/stdalign.h "wikilink")       | C11 | For querying and specifying the data structure alignment of objects.                                                                                                                 |
+| [`<stdarg.h>`](https://zh.wikipedia.org/wiki/stdarg.h "wikilink")           |     | For accessing a varying number of arguments passed to functions.                                                                                                                     |
+| [`<stdatomic.h>`](https://zh.wikipedia.org/wiki/stdatomic.h "wikilink")     | C11 | For atomic operations on data shared between threads.                                                                                                                                |
+| [`<stdbool.h>`](https://zh.wikipedia.org/wiki/stdbool.h "wikilink")         | C99 | 定义布尔数据类型。                                                                                                                                                                            |
+| [`<stddef.h>`](https://zh.wikipedia.org/wiki/stddef.h "wikilink")           |     | 定义了几个常见的类型与[巨集](../Page/巨集.md "wikilink")。                                                                                                                                           |
+| [`<stdint.h>`](https://zh.wikipedia.org/wiki/stdint.h "wikilink")           | C99 | Defines exact width integer types.                                                                                                                                                   |
+| [`<stdio.h>`](https://zh.wikipedia.org/wiki/stdio.h "wikilink")             |     | 定义输入输出函数。                                                                                                                                                                            |
+| [`<stdlib.h>`](https://zh.wikipedia.org/wiki/stdlib.h "wikilink")           |     | 定义数值转换函数，伪随机数生成函数，动态内存分配函数，过程控制函数。                                                                                                                                                   |
+| [`<stdnoreturn.h>`](https://zh.wikipedia.org/wiki/stdnoreturn.h "wikilink") | C11 | For specifying non-returning functions.                                                                                                                                              |
+| [`<string.h>`](https://zh.wikipedia.org/wiki/string.h "wikilink")           |     | 定义C语言字符串处理函数。                                                                                                                                                                        |
+| [`<tgmath.h>`](https://zh.wikipedia.org/wiki/tgmath.h "wikilink")           | C99 | Defines type-generic mathematical functions.                                                                                                                                         |
+| [`<threads.h>`](https://zh.wikipedia.org/wiki/threads.h "wikilink")         | C11 | Defines functions for managing multiple threads as well as mutexes and condition variables.                                                                                          |
+| [`<time.h>`](https://zh.wikipedia.org/wiki/time.h "wikilink")               |     | Defines date and time handling functions                                                                                                                                             |
+| [`<uchar.h>`](https://zh.wikipedia.org/wiki/uchar.h "wikilink")             | C11 | Types and functions for manipulating [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") characters.                                                                         |
+| [`<wchar.h>`](https://zh.wikipedia.org/wiki/wchar.h "wikilink")             | NA1 | Defines wide string handling functions.                                                                                                                                              |
+| [`<wctype.h>`](https://zh.wikipedia.org/wiki/wctype.h "wikilink")           | NA1 | Defines set of functions used to classify wide characters by their types or to convert between upper and lower case                                                                  |
 
 ## 参考文献
 
@@ -76,8 +77,8 @@ Addendum 1*
 
 ## 参见
 
-  - [GNU C 函式庫](../Page/GNU_C_函式庫.md "wikilink")
-  - [C++標準程式庫](../Page/C++標準程式庫.md "wikilink")
+  - [GNU C 函式庫](https://zh.wikipedia.org/wiki/GNU_C_函式庫 "wikilink")
+  - [C++標準程式庫](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")
   - [C POSIX library](../Page/C_POSIX_library.md "wikilink")
 
 {{-}}

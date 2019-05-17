@@ -1,4 +1,4 @@
-是一部由[梁柏堅](../Page/梁柏堅.md "wikilink")、[元奎執導的香港電影](../Page/元奎.md "wikilink")，2004年上映。
+是一部由[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[元奎執導的香港電影](../Page/元奎.md "wikilink")，2004年上映。
 
 ## 劇情
 
@@ -10,26 +10,26 @@
 
 ## 角色
 
-|                                      |           |
-| ------------------------------------ | --------- |
-| **演員**                               | **角色**    |
-| **[蔡卓妍](../Page/蔡卓妍.md "wikilink")** | **春十三少**  |
-| **[鍾欣潼](../Page/鍾欣潼.md "wikilink")** | **藍翎**    |
-| **[房祖名](../Page/房祖名.md "wikilink")** | **炭頭**    |
-| **[陳柏霖](../Page/陳柏霖.md "wikilink")** | **柴頭**    |
-| **[甄子丹](../Page/甄子丹.md "wikilink")** | **臥虎藏龍**  |
-| **[吳彥祖](../Page/吳彥祖.md "wikilink")** | **尉繚**    |
-| **[陳冠希](../Page/陳冠希.md "wikilink")** | **桃桃**    |
-| **[瞿　穎](../Page/瞿穎.md "wikilink")**  | **雅歌／雅婷** |
-| **[梁家輝](../Page/梁家輝.md "wikilink")** | 黑木爺       |
-| **[范冰冰](../Page/范冰冰.md "wikilink")** | 紅鷲        |
-| **[梁晶晶](../Page/梁晶晶.md "wikilink")** | 伊波多曼大將軍   |
-| **[成　龍](../Page/成龍.md "wikilink")**  | 石將軍       |
-| **[詹瑞文](../Page/詹瑞文.md "wikilink")** | 遁地族首領     |
-| **[張致恆](../Page/張致恆.md "wikilink")** |           |
-| **[關智斌](../Page/關智斌.md "wikilink")** |           |
-| **[陳宇琛](../Page/陳宇琛.md "wikilink")** |           |
-|                                      |           |
+|                                                         |           |
+| ------------------------------------------------------- | --------- |
+| **演員**                                                  | **角色**    |
+| **[蔡卓妍](../Page/蔡卓妍.md "wikilink")**                    | **春十三少**  |
+| **[鍾欣潼](../Page/鍾欣潼.md "wikilink")**                    | **藍翎**    |
+| **[房祖名](../Page/房祖名.md "wikilink")**                    | **炭頭**    |
+| **[陳柏霖](../Page/陳柏霖.md "wikilink")**                    | **柴頭**    |
+| **[甄子丹](../Page/甄子丹.md "wikilink")**                    | **臥虎藏龍**  |
+| **[吳彥祖](../Page/吳彥祖.md "wikilink")**                    | **尉繚**    |
+| **[陳冠希](../Page/陳冠希.md "wikilink")**                    | **桃桃**    |
+| **[瞿　穎](https://zh.wikipedia.org/wiki/瞿穎 "wikilink")**  | **雅歌／雅婷** |
+| **[梁家輝](../Page/梁家輝.md "wikilink")**                    | 黑木爺       |
+| **[范冰冰](../Page/范冰冰.md "wikilink")**                    | 紅鷲        |
+| **[梁晶晶](https://zh.wikipedia.org/wiki/梁晶晶 "wikilink")** | 伊波多曼大將軍   |
+| **[成　龍](../Page/成龍.md "wikilink")**                     | 石將軍       |
+| **[詹瑞文](../Page/詹瑞文.md "wikilink")**                    | 遁地族首領     |
+| **[張致恆](../Page/張致恆.md "wikilink")**                    |           |
+| **[關智斌](../Page/關智斌.md "wikilink")**                    |           |
+| **[陳宇琛](../Page/陳宇琛.md "wikilink")**                    |           |
+|                                                         |           |
 
 ## 外部链接
 

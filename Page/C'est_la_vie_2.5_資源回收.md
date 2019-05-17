@@ -17,7 +17,7 @@
       - 為男生版
 4.  地球嚇了一跳
       - 作詞：奇哥　作曲：奇哥
-      - 演唱者：餅乾（[熊寶貝主唱](../Page/熊寶貝.md "wikilink")）
+      - 演唱者：餅乾（[熊寶貝主唱](https://zh.wikipedia.org/wiki/熊寶貝 "wikilink")）
 5.  Wake up
       - 作詞：奇哥　作曲：奇哥
 6.  低著頭

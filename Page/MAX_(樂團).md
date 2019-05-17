@@ -10,7 +10,7 @@ Monkeys（スーパーモンキーズ）並未演唱，而是擔任伴舞的角�
 night～」單曲出道，而在1996年12月11號發行了第一張專輯「MAXIMUM」，全部都是輕快的歌曲。
 
 1997年首次的原創曲子「Give me a
-Shake」的這張單曲獲得了[Oricon排行榜初登場第一名](../Page/Oricon.md "wikilink")，這張單曲曲也在[NHK紅白歌唱大賽首次出場](../Page/NHK紅白歌唱大賽.md "wikilink")。
+Shake」的這張單曲獲得了[Oricon排行榜初登場第一名](../Page/Oricon.md "wikilink")，這張單曲曲也在[NHK紅白歌唱大賽首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌唱大賽 "wikilink")。
 
 而在[歌手以外的活動也相當活躍](../Page/歌手.md "wikilink")，**MAX**也主演了1996年的電影「麗霆子（レディース）MAX」和1997年的電影「Give
 me a Shake
@@ -19,7 +19,7 @@ me a Shake
 2002年主唱之一的Mina因為懷孕的關係，同年的三月開始產休。為了彌補這個缺，在同年七月加入了新成員Aki，歌迷也開始有了正負兩端的爭議。之後所屬的經紀公司和成員等人都再也沒有Mina歸隊的消息。
 
 到第27張單曲「Be With You」之前都是由艾迴公司所發行的，第28張單曲「ニライカナイ」開始由SONIC GROOVE
-發行（一樣屬[艾迴公司](../Page/艾迴.md "wikilink")），在[2006年2月發行了睽違](../Page/2006年2月.md "wikilink")4年的專輯。
+發行（一樣屬[艾迴公司](https://zh.wikipedia.org/wiki/艾迴 "wikilink")），在[2006年2月發行了睽違](../Page/2006年2月.md "wikilink")4年的專輯。
 
 2006年以日本人的身份在北京成功進出。
 
@@ -71,8 +71,9 @@ me a Shake
 16. [Never gonna stop
     it](../Page/Never_gonna_stop_it.md "wikilink")（2000/2/16）
 17. MAGIC（2000/5/24）
-18. バラ色の日々（2000/9/6）- [新好男孩輕快曲](../Page/新好男孩.md "wikilink")（原歌名「LARGER
-    THAN LIFE」）。☆[HDCD](../Page/HDCD.md "wikilink")
+18. バラ色の日々（2000/9/6）-
+    [新好男孩輕快曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")（原歌名「LARGER
+    THAN LIFE」）。☆[HDCD](https://zh.wikipedia.org/wiki/HDCD "wikilink")
 19. always love（2001/2/15）
 20. Perfect Love（2001/5/16）☆HDCD
 21. moonlight（2001/9/27）☆HDCD
@@ -185,7 +186,7 @@ me a Shake
   - 麗霆゛子（レディース）MAX
   - Give me a Shake レディースMAX
 
-### [LD](../Page/LD.md "wikilink")・DVD
+### [LD](https://zh.wikipedia.org/wiki/LD "wikilink")・DVD
 
   - LD LIVE
 

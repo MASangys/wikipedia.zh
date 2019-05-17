@@ -1,23 +1,23 @@
 **Netscape Messenger
-9**是由[網景製作的一個](../Page/網景.md "wikilink")[跨平台的獨立](../Page/跨平台.md "wikilink")[電子郵件客戶端及](../Page/電子郵件客戶端.md "wikilink")[新聞群組程式](../Page/新聞群組.md "wikilink")，建構於[Mozilla
+9**是由[網景製作的一個](../Page/網景.md "wikilink")[跨平台的獨立](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[電子郵件客戶端及](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")[新聞群組程式](https://zh.wikipedia.org/wiki/新聞群組 "wikilink")，建構於[Mozilla
 Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")。最初於2007年6月11日公開的時候以**Netscape
 Mercury**之名宣傳，這個郵件程式是設計來搭配網景新公開的瀏覽器[Netscape Navigator
 9用的](../Page/Netscape_Navigator_9.md "wikilink")。\[1\]
 
 最初的名稱*Netscape
-Mercury*其實是來自於[羅馬神話中的傳遞信息的使者](../Page/羅馬神話.md "wikilink")[墨丘利](../Page/墨丘利.md "wikilink")\[2\]，這取代了之前在版本4到7之間所用的[Netscape
+Mercury*其實是來自於[羅馬神話中的傳遞信息的使者](https://zh.wikipedia.org/wiki/羅馬神話 "wikilink")[墨丘利](https://zh.wikipedia.org/wiki/墨丘利 "wikilink")\[2\]，這取代了之前在版本4到7之間所用的[Netscape
 Mail and
-Newsgroups的名稱](../Page/Netscape_Mail_and_Newsgroups.md "wikilink")。
+Newsgroups的名稱](https://zh.wikipedia.org/wiki/Netscape_Mail_and_Newsgroups "wikilink")。
 
 在2007年11月15日，網景公佈了[Linux](../Page/Linux.md "wikilink")、[Mac OS
-X和](../Page/Mac_OS_X.md "wikilink")[Windows用的Alpha](../Page/Windows.md "wikilink")1測試版本\[3\]。
+X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows用的Alpha](https://zh.wikipedia.org/wiki/Windows "wikilink")1測試版本\[3\]。
 
 ## 新功能與特色
 
 Netscape Messenger包含了Mozilla Thunderbird
-2.0.0.9所有的特色，另外整合了[美國線上](../Page/美國線上.md "wikilink")、[AIM](../Page/AIM.md "wikilink")、Netscape.net的郵件帳號。以及擁有一個和[Netscape
+2.0.0.9所有的特色，另外整合了[美國線上](https://zh.wikipedia.org/wiki/美國線上 "wikilink")、[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")、Netscape.net的郵件帳號。以及擁有一個和[Netscape
 Navigator
-9相近的](../Page/Netscape_Navigator_9.md "wikilink")[使用者介面](../Page/使用者介面.md "wikilink")\[4\]。
+9相近的](../Page/Netscape_Navigator_9.md "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")\[4\]。
 
 ## 版本歷史
 
@@ -27,7 +27,7 @@ Navigator
 
 ## 相關文章
 
-  - [Netscape](../Page/Netscape.md "wikilink")
+  - [Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink")
   - [Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")
   - [Netscape Navigator 9](../Page/Netscape_Navigator_9.md "wikilink")
   - [电子邮件客户端比较](../Page/电子邮件客户端比较.md "wikilink")

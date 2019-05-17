@@ -1,20 +1,20 @@
 『**LIFE**』是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年11月9日所推出的單曲碟，並是在[Sony
 Music
-Records旗下的第三張單曲碟](../Page/日本新力音樂.md "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
+Records旗下的第三張單曲碟](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
 
 ## 收錄歌曲
 
 1.  **LIFE**
       -
-        作詞・作曲：YUI　編曲：[northa+](../Page/northa+.md "wikilink")
+        作詞・作曲：YUI　編曲：[northa+](https://zh.wikipedia.org/wiki/northa+ "wikilink")
     <!-- end list -->
-      - [東京電視系動畫](../Page/TXN.md "wikilink")「[死神](../Page/BLEACH.md "wikilink")」的片尾曲，是首次與動漫作品的合作。
+      - [東京電視系動畫](https://zh.wikipedia.org/wiki/TXN "wikilink")「[死神](../Page/BLEACH.md "wikilink")」的片尾曲，是首次與動漫作品的合作。
 2.  **crossroad**
       -
         作詞・作曲：YUI　編曲：
 3.  **Tomorrow's way～YUI Acoustic Version～**
       -
-        作詞・作曲：YUI　編曲：鈴木Daichi秀行　[弦樂團編曲](../Page/弦樂團.md "wikilink")：
+        作詞・作曲：YUI　編曲：鈴木Daichi秀行　[弦樂團編曲](https://zh.wikipedia.org/wiki/弦樂團 "wikilink")：
     <!-- end list -->
       - 每張新單曲會收錄前一單曲的Acoustic Version。
 4.  **LIFE～Instrumental～**

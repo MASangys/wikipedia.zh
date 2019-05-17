@@ -25,14 +25,15 @@
 
 <!-- end list -->
 
-  - 2003年8月 - 9月　「[USO\!?Japan](../Page/USO!?Japan.md "wikilink")
+  - 2003年8月 -
+    9月　「[USO\!?Japan](https://zh.wikipedia.org/wiki/USO!?Japan "wikilink")
     special summer ARASHI 2003 How's it going?」
 
 <!-- end list -->
 
   -
-    節目裡[相葉雅紀為司儀的Count](../Page/相葉雅紀.md "wikilink")
-    Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](../Page/A・RA・SHI.md "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](../Page/松本潤.md "wikilink")、[相葉雅紀](../Page/相葉雅紀.md "wikilink")、[櫻井翔各自個人曲的影像](../Page/櫻井翔.md "wikilink")。
+    節目裡[相葉雅紀為司儀的Count](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")
+    Down（カウントダウン）單元「ズキューンバズーカ」中，大宮SK的歌曲「ズキューンバズーカ」榮登第1名。壓過嵐的「[A・RA・SHI](https://zh.wikipedia.org/wiki/A・RA・SHI "wikilink")」獲得第1名被認為是大宮SK對相葉的賄賂產生效果。當時播放了第3名「O.M.S.K.S」的VTR，現場表演第1名的「ズキューンバズーカ」。該演唱會的最終公演裡，在MC中公開了[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[櫻井翔各自個人曲的影像](../Page/櫻井翔.md "wikilink")。
 
 <!-- end list -->
 
@@ -51,7 +52,7 @@
 <!-- end list -->
 
   -
-    表演了「はちゃめちゃテンガロン」。唱完歌後，表演了不知為何的絕招之後離開。有關於絕招的部份，請參照[**下記項目**](../Page/#絕招.md "wikilink")。
+    表演了「はちゃめちゃテンガロン」。唱完歌後，表演了不知為何的絕招之後離開。有關於絕招的部份，請參照[**下記項目**](https://zh.wikipedia.org/wiki/#絕招 "wikilink")。
 
 <!-- end list -->
 
@@ -62,8 +63,8 @@
 
   -
     表演「千年メドレー」。演唱會前半有忠實重現[少年隊](../Page/少年隊.md "wikilink") PLAY
-    ZONE「MASK」的東山紀之個人「千年メドレー」舞者（兩個黑人）的舞蹈。但是觀眾的理解度過低，於是後半改為大野或二宮跳Jr.時代跳過的[V6](../Page/V6_\(樂團\).md "wikilink")、[KinKi
-    Kids的組曲](../Page/KinKi_Kids.md "wikilink")。原本預定要整[M.A.D.或大S](../Page/M.A.D..md "wikilink")，結果演變成大宮SK被工作人員整。
+    ZONE「MASK」的東山紀之個人「千年メドレー」舞者（兩個黑人）的舞蹈。但是觀眾的理解度過低，於是後半改為大野或二宮跳Jr.時代跳過的[V6](https://zh.wikipedia.org/wiki/V6_\(樂團\) "wikilink")、[KinKi
+    Kids的組曲](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")。原本預定要整[M.A.D.或大S](https://zh.wikipedia.org/wiki/M.A.D. "wikilink")，結果演變成大宮SK被工作人員整。
 
 <!-- end list -->
 
@@ -94,10 +95,10 @@
 
   -
     5月16日、18日-在[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")。
-    5月31日-在[名古屋巨蛋登場](../Page/名古屋巨蛋.md "wikilink")。在大野智的「稍微介紹一下FREESTYLE」VTR中演出之後，登上舞台並做了表演。曲目為叫做「大宮skoshi」的[神轎之歌](../Page/神轎.md "wikilink")。
+    5月31日-在[名古屋巨蛋登場](../Page/名古屋巨蛋.md "wikilink")。在大野智的「稍微介紹一下FREESTYLE」VTR中演出之後，登上舞台並做了表演。曲目為叫做「大宮skoshi」的[神轎之歌](https://zh.wikipedia.org/wiki/神轎 "wikilink")。
     6月14日-在東京巨蛋登場。ユウジ說「不是手越（tegoshi）是神轎（mikoshi）喔（手越じゃないよ神輿だよ）」的時候還出了腳痛的意外。
     6月18、19日　在福岡Yahoo\! JAPAN巨蛋登場。19日的公演中交換了睽違數年的Final
-    Love（[R指定](../Page/R指定.md "wikilink")）。大Sタカ還發生了Kazoo樂器（バズーカ）下端脫落的插曲。
+    Love（[R指定](https://zh.wikipedia.org/wiki/R指定 "wikilink")）。大Sタカ還發生了Kazoo樂器（バズーカ）下端脫落的插曲。
     7月5、6日-在[札幌巨蛋登場](../Page/札幌巨蛋.md "wikilink")。表演了絕招－鋼之腹肌肉和乳頭撥號（ダイヤル）以及乳頭重撥號（リダイヤル），並且發表了解散宣言。
     2012年9月20日於國立舉行"ARAFES"演唱會中大宮SK復活。
 

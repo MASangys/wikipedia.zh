@@ -1,5 +1,5 @@
 **Btrfs**（B-tree檔案系統，通常念成**Butter FS**，**Better FS**或**B-tree
-FS**），一種支持[寫入時複製](../Page/寫入時複製.md "wikilink")（COW）的文件系统，運行在Linux作業系統，採用[GPL授權](../Page/GPL.md "wikilink")。[Oracle于](../Page/Oracle.md "wikilink")2007年對外宣布這項計劃，並釋出原始碼，在2014年8月釋出穩定版。目标是取代[Linux目前的](../Page/Linux.md "wikilink")[ext3文件系统](../Page/ext3.md "wikilink")，改善ext3的限制，特別是单个文件的大小，总文件系统大小或文件检查和加入ext3未支持的功能，像是可写快照（writable
+FS**），一種支持[寫入時複製](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")（COW）的文件系统，運行在Linux作業系統，採用[GPL授權](https://zh.wikipedia.org/wiki/GPL "wikilink")。[Oracle于](https://zh.wikipedia.org/wiki/Oracle "wikilink")2007年對外宣布這項計劃，並釋出原始碼，在2014年8月釋出穩定版。目标是取代[Linux目前的](../Page/Linux.md "wikilink")[ext3文件系统](https://zh.wikipedia.org/wiki/ext3 "wikilink")，改善ext3的限制，特別是单个文件的大小，总文件系统大小或文件检查和加入ext3未支持的功能，像是可写快照（writable
 snapshots）、快照的快照（snapshots of
 snapshots）、内建磁盘阵列（RAID），以及子卷（subvolumes）。Btrfs也宣称专注在“容错、修复及易于管理”。
 
@@ -9,11 +9,11 @@ Btrfs，2007年前，已实现
 
   - 联机碎片整理
   - 联机卷生长和收缩
-  - 联机[块设备增加和删除](../Page/块设备.md "wikilink")
+  - 联机[块设备增加和删除](https://zh.wikipedia.org/wiki/块设备 "wikilink")
   - 联机负载均衡（块设备间的对象移动以达到平衡）
   - 文件系统级的镜像（类RAID-1）、条带（类RAID-0）
   - 子卷（一个或多个单独可挂载基于每个物流分区）
-  - 透明压缩（目前支持[zlib](../Page/zlib.md "wikilink")、[LZO和](../Page/LZO.md "wikilink")[ZSTD](../Page/ZSTD.md "wikilink")
+  - 透明压缩（目前支持[zlib](https://zh.wikipedia.org/wiki/zlib "wikilink")、[LZO和](https://zh.wikipedia.org/wiki/LZO "wikilink")[ZSTD](https://zh.wikipedia.org/wiki/ZSTD "wikilink")
     (從 4.14 開始支援)）
   - 快照（只读和可写，写复制，子卷复制）
   - 文件克隆
@@ -29,8 +29,8 @@ Btrfs，2007年前，已实现
 
   - [文件系统的对比](../Page/文件系统的对比.md "wikilink")
   - [ZFS](../Page/ZFS.md "wikilink")
-  - [ext4](../Page/ext4.md "wikilink")
-  - [Tux3](../Page/Tux3.md "wikilink")
+  - [ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")
+  - [Tux3](https://zh.wikipedia.org/wiki/Tux3 "wikilink")
 
 ## 外部链接
 

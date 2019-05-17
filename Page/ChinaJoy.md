@@ -1,4 +1,4 @@
-**ChinaJoy**，正式名称**中国国际数码互动娱乐展览会**，是[中国大陆继](../Page/中国大陆.md "wikilink")[美国](../Page/美国.md "wikilink")[E3展](../Page/E3.md "wikilink")、[日本](../Page/日本.md "wikilink")[东京电玩展](../Page/东京电玩展.md "wikilink")、[德国](../Page/德国.md "wikilink")[科隆国际游戏展](../Page/科隆国际游戏展.md "wikilink")、[台灣](../Page/中華民國.md "wikilink")[台北國際電玩展之后的又一同类型互动娱乐展](../Page/台北國際電玩展.md "wikilink")，犹以[网络游戏为主](../Page/网络游戏.md "wikilink")。展会自2004年第一届在北京展览馆举行，从第二届起每年在上海浦东新国际博览中心举行。每届有中外游戏厂商参与，各自发布最新游戏及娱乐产品，发放其测试帐号，赠送游戏周边产品，另有[Cosplay表演](../Page/Cosplay.md "wikilink")、互动游戏等。\[1\]
+**ChinaJoy**，正式名称**中国国际数码互动娱乐展览会**，是[中国大陆继](../Page/中国大陆.md "wikilink")[美国](../Page/美国.md "wikilink")[E3展](https://zh.wikipedia.org/wiki/E3 "wikilink")、[日本](../Page/日本.md "wikilink")[东京电玩展](../Page/东京电玩展.md "wikilink")、[德国](../Page/德国.md "wikilink")[科隆国际游戏展](https://zh.wikipedia.org/wiki/科隆国际游戏展 "wikilink")、[台灣](../Page/中華民國.md "wikilink")[台北國際電玩展之后的又一同类型互动娱乐展](../Page/台北國際電玩展.md "wikilink")，犹以[网络游戏为主](../Page/网络游戏.md "wikilink")。展会自2004年第一届在北京展览馆举行，从第二届起每年在上海浦东新国际博览中心举行。每届有中外游戏厂商参与，各自发布最新游戏及娱乐产品，发放其测试帐号，赠送游戏周边产品，另有[Cosplay表演](../Page/Cosplay.md "wikilink")、互动游戏等。\[1\]
 
 ## 历届展会
 
@@ -8,24 +8,24 @@
 
 本届展会主要参展游戏有：
 
-  - [网易游戏](../Page/网易.md "wikilink")《[大话西游Online_II](../Page/大话西游Online_II.md "wikilink")》
+  - [网易游戏](../Page/网易.md "wikilink")《[大话西游Online_II](https://zh.wikipedia.org/wiki/大话西游Online_II "wikilink")》
   - [新浪乐谷](../Page/新浪.md "wikilink")《天堂2》
-  - [光通代理](../Page/中华网游戏集团.md "wikilink")《传奇3》
-  - [盛大](../Page/盛大.md "wikilink")《传奇世界》和《神迹》
-  - [索尼游戏](../Page/索尼.md "wikilink")《[实况足球](../Page/实况足球.md "wikilink")7》等等。\[2\]
+  - [光通代理](https://zh.wikipedia.org/wiki/中华网游戏集团 "wikilink")《传奇3》
+  - [盛大](https://zh.wikipedia.org/wiki/盛大 "wikilink")《传奇世界》和《神迹》
+  - [索尼游戏](../Page/索尼.md "wikilink")《[实况足球](https://zh.wikipedia.org/wiki/实况足球 "wikilink")7》等等。\[2\]
 
 ### 第二届
 
 2004年10月5日至7日，在[上海新国际博览中心举行](../Page/上海新国际博览中心.md "wikilink")。参展厂商总数140家，国内展商126家，国际展商14家；参展游戏167款，国内展品58款，国际展品109款，观众数量约7万。
 
-本届展会有[暴雪](../Page/暴雪娛樂.md "wikilink")《[魔兽世界](../Page/魔兽世界.md "wikilink")》等游戏参展，参展的国外游戏厂商有[索尼](../Page/索尼.md "wikilink")、[育碧](../Page/育碧.md "wikilink")、[暴雪](../Page/暴雪娛樂.md "wikilink")、[唯美德](../Page/唯美德.md "wikilink")、[EA](../Page/EA.md "wikilink")，以及[韩国游戏产业开发院带领的](../Page/韩国.md "wikilink")20家韩国公司，韩国大丘数字产业开发院带领的7家韩国公司等等。而国内游戏则有《[仙剑奇侠传](../Page/仙剑奇侠传.md "wikilink")》、[网易](../Page/网易.md "wikilink")《[梦幻西游](../Page/梦幻西游.md "wikilink")》等等参展。
+本届展会有[暴雪](../Page/暴雪娛樂.md "wikilink")《[魔兽世界](../Page/魔兽世界.md "wikilink")》等游戏参展，参展的国外游戏厂商有[索尼](../Page/索尼.md "wikilink")、[育碧](../Page/育碧.md "wikilink")、[暴雪](../Page/暴雪娛樂.md "wikilink")、[唯美德](https://zh.wikipedia.org/wiki/唯美德 "wikilink")、[EA](https://zh.wikipedia.org/wiki/EA "wikilink")，以及[韩国游戏产业开发院带领的](https://zh.wikipedia.org/wiki/韩国 "wikilink")20家韩国公司，韩国大丘数字产业开发院带领的7家韩国公司等等。而国内游戏则有《[仙剑奇侠传](https://zh.wikipedia.org/wiki/仙剑奇侠传 "wikilink")》、[网易](../Page/网易.md "wikilink")《[梦幻西游](https://zh.wikipedia.org/wiki/梦幻西游 "wikilink")》等等参展。
 
 本届展会中，[Cosplay比赛在第一届的基础上扩大了规模](../Page/Cosplay.md "wikilink")，并吸纳社会团体的表演，吸引了22家游戏厂商参与了比赛。
 \[3\]
 
 ### 第三届
 
-2005年7月20日至23日，在上海新国际博览中心举行。本届展会展位面积25000平米，参展游戏厂商总数156家，国内展商137家，国际展商19家；参展游戏289款，国内展品97款，国际展品192款，观众数量约8万。参展的国外游戏公司有[美国EA公司](../Page/美国.md "wikilink")、[英特尔公司](../Page/英特尔.md "wikilink")；[日本索尼公司](../Page/日本.md "wikilink")、[世嘉公司](../Page/世嘉.md "wikilink")、[光荣公司](../Page/光榮公司.md "wikilink")、[法国育碧公司](../Page/法国.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[斯布卡公司](../Page/斯布卡.md "wikilink")。国内厂商则有盛大、网易、[第九城市等](../Page/第九城市.md "wikilink")。
+2005年7月20日至23日，在上海新国际博览中心举行。本届展会展位面积25000平米，参展游戏厂商总数156家，国内展商137家，国际展商19家；参展游戏289款，国内展品97款，国际展品192款，观众数量约8万。参展的国外游戏公司有[美国EA公司](../Page/美国.md "wikilink")、[英特尔公司](../Page/英特尔.md "wikilink")；[日本索尼公司](../Page/日本.md "wikilink")、[世嘉公司](../Page/世嘉.md "wikilink")、[光荣公司](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")、[法国育碧公司](https://zh.wikipedia.org/wiki/法国 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[斯布卡公司](https://zh.wikipedia.org/wiki/斯布卡 "wikilink")。国内厂商则有盛大、网易、[第九城市等](../Page/第九城市.md "wikilink")。
 
 本届展会的Cosplay嘉年华第一次召开全国海选。\[4\]
 
@@ -35,11 +35,11 @@
 2006年7月28日至30日，在上海新国际博览中心举行。本届游戏展参展厂商总数增加到161家，其中国内展商138家，国际展商23家；
 参展游戏共338款，国内展品138款，国际展品200款；观众134738人。\[5\]
 
-  - 本届展会中《奇迹世界》、《卓越之剑》、《[一骑当千](../Page/一骑当千.md "wikilink")》、《莎木OL》、《苍天》、《[激战](../Page/激战.md "wikilink")》等提供试玩，《剑网3》、《
+  - 本届展会中《奇迹世界》、《卓越之剑》、《[一骑当千](https://zh.wikipedia.org/wiki/一骑当千 "wikilink")》、《莎木OL》、《苍天》、《[激战](https://zh.wikipedia.org/wiki/激战 "wikilink")》等提供试玩，《剑网3》、《
     新大话II》首次曝光，《暗黑之门》正式名公布、《天下贰》发放内测号。
-  - [PS3正式亮相](../Page/PS3.md "wikilink")。
-  - 这一届是国际知名游戏公司参展最多的一届，有[索尼](../Page/索尼.md "wikilink")，[世嘉](../Page/世嘉.md "wikilink")，[KONAMI](../Page/KONAMI.md "wikilink")，[Square
-    Enix](../Page/Square_Enix.md "wikilink")，[EA](../Page/EA.md "wikilink")，[Ubisoft](../Page/Ubisoft.md "wikilink")，[光荣等游戏公司](../Page/光榮公司.md "wikilink")。\[6\]
+  - [PS3正式亮相](https://zh.wikipedia.org/wiki/PS3 "wikilink")。
+  - 这一届是国际知名游戏公司参展最多的一届，有[索尼](../Page/索尼.md "wikilink")，[世嘉](../Page/世嘉.md "wikilink")，[KONAMI](https://zh.wikipedia.org/wiki/KONAMI "wikilink")，[Square
+    Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")，[EA](https://zh.wikipedia.org/wiki/EA "wikilink")，[Ubisoft](https://zh.wikipedia.org/wiki/Ubisoft "wikilink")，[光荣等游戏公司](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")。\[6\]
 
 ### 第五届
 
@@ -47,18 +47,18 @@
 国际展品194款。观众数量约10万。
 
 本届参展的游戏有EA出品的《EA SPORTS TM FIFA
-Online》、《[命令与征服](../Page/命令与征服.md "wikilink")3
+Online》、《[命令与征服](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")3
 泰伯利亚之战》和《[模拟人生
-生活物语](../Page/模擬市民趴趴走：人生大冒險.md "wikilink")》；[网禅的](../Page/网禅.md "wikilink")《[一骑当千](../Page/一骑当千.md "wikilink")》；[世纪天成代理Ndoors的](../Page/世纪天成.md "wikilink")《Koongpa》，以及《[魔兽世界：燃烧的远征](../Page/魔兽世界：燃烧的远征.md "wikilink")》中文版试玩。还有《[仙剑OL](../Page/仙剑OL.md "wikilink")》、《[战锤](../Page/战锤.md "wikilink")》、《DOA
+生活物语](../Page/模擬市民趴趴走：人生大冒險.md "wikilink")》；[网禅的](https://zh.wikipedia.org/wiki/网禅 "wikilink")《[一骑当千](https://zh.wikipedia.org/wiki/一骑当千 "wikilink")》；[世纪天成代理Ndoors的](https://zh.wikipedia.org/wiki/世纪天成 "wikilink")《Koongpa》，以及《[魔兽世界：燃烧的远征](../Page/魔兽世界：燃烧的远征.md "wikilink")》中文版试玩。还有《[仙剑OL](https://zh.wikipedia.org/wiki/仙剑OL "wikilink")》、《[战锤](https://zh.wikipedia.org/wiki/战锤 "wikilink")》、《DOA
 online》、《[FIFA Online 2](../Page/FIFA_Online_2.md "wikilink")》等。\[7\]
 
 ### 第六届
 
-2008年7月17日至19日，在上海新国际博览中心举行。本届展会面积达到了4万平方米，来自[中国](../Page/中国.md "wikilink")、[美国](../Page/美国.md "wikilink")、[日本](../Page/日本.md "wikilink")、[法国](../Page/法国.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳大利亚等国内外的](../Page/澳大利亚.md "wikilink")169家游戏企业参展，其中国内厂商142家，国际厂商27家。展品总数354款，国内展品207款，国际展品147款（这也是首次国内展品数超过国外）。参展产品涵盖了[网络游戏](../Page/网络游戏.md "wikilink")、[PC游戏](../Page/PC游戏.md "wikilink")、[电视游戏](../Page/电视游戏.md "wikilink")、[手机游戏](../Page/手机游戏.md "wikilink")、[街机游戏](../Page/街机游戏.md "wikilink")、[掌机游戏等各类游戏产品](../Page/掌机游戏.md "wikilink")，以及电信增值服务、
-数码消费类电子、游戏周边和[动漫等](../Page/动漫.md "wikilink")。
+2008年7月17日至19日，在上海新国际博览中心举行。本届展会面积达到了4万平方米，来自[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[美国](../Page/美国.md "wikilink")、[日本](../Page/日本.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[澳大利亚等国内外的](../Page/澳大利亚.md "wikilink")169家游戏企业参展，其中国内厂商142家，国际厂商27家。展品总数354款，国内展品207款，国际展品147款（这也是首次国内展品数超过国外）。参展产品涵盖了[网络游戏](../Page/网络游戏.md "wikilink")、[PC游戏](https://zh.wikipedia.org/wiki/PC游戏 "wikilink")、[电视游戏](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")、[手机游戏](../Page/手机游戏.md "wikilink")、[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")、[掌机游戏等各类游戏产品](https://zh.wikipedia.org/wiki/掌机游戏 "wikilink")，以及电信增值服务、
+数码消费类电子、游戏周边和[动漫等](https://zh.wikipedia.org/wiki/动漫 "wikilink")。
 
 本届参展厂商有盛大、
-网易、[第九城市](../Page/第九城市.md "wikilink")、[巨人](../Page/巨人.md "wikilink")、[久游网](../Page/久游网.md "wikilink")、[完美时空](../Page/完美时空.md "wikilink")、[腾讯](../Page/腾讯.md "wikilink")、[金山](../Page/金山軟件公司.md "wikilink")、世纪天成、[联众等知名企业](../Page/联众.md "wikilink")，以及法国育碧公司、日本索尼公司、[加拿大](../Page/加拿大.md "wikilink")[Savannah公司等](../Page/Savannah.md "wikilink")。
+网易、[第九城市](../Page/第九城市.md "wikilink")、[巨人](../Page/巨人.md "wikilink")、[久游网](../Page/久游网.md "wikilink")、[完美时空](https://zh.wikipedia.org/wiki/完美时空 "wikilink")、[腾讯](../Page/腾讯.md "wikilink")、[金山](https://zh.wikipedia.org/wiki/金山軟件公司 "wikilink")、世纪天成、[联众等知名企业](../Page/联众.md "wikilink")，以及法国育碧公司、日本索尼公司、[加拿大](../Page/加拿大.md "wikilink")[Savannah公司等](https://zh.wikipedia.org/wiki/Savannah "wikilink")。
 
 [中华人民共和国新闻出版总署副署长邬书林在本届Chinajoy高峰论坛上公开批评部分网游对](../Page/中华人民共和国新闻出版总署.md "wikilink")[青少年不良影响](../Page/青少年.md "wikilink")，同时不点名指责一些企业恶性竞争。这是新闻出版总署作为展会主办单位以来首次批评游戏厂商。\[8\]
 
@@ -71,20 +71,20 @@ online》、《[FIFA Online 2](../Page/FIFA_Online_2.md "wikilink")》等。\[7\
 
 ### 第八届
 
-2010年7月29日至8月1日，在上海新国际博览中心举行。本届展出面积达到5万平方米，展商总数达到195家，国内展商160家，国际展商35家，其中新企业超过30%；共展出展品407款，国内展品287款，国际展品129款，参观观众约14万人，其中约有2万为专业观众。本次展会以“与[世博同行](../Page/世博.md "wikilink")，共创美好生活”为主题。
+2010年7月29日至8月1日，在上海新国际博览中心举行。本届展出面积达到5万平方米，展商总数达到195家，国内展商160家，国际展商35家，其中新企业超过30%；共展出展品407款，国内展品287款，国际展品129款，参观观众约14万人，其中约有2万为专业观众。本次展会以“与[世博同行](https://zh.wikipedia.org/wiki/世博 "wikilink")，共创美好生活”为主题。
 
   - 本届展会中，[新浪微博首次以展台方式向外界亮相](../Page/新浪微博.md "wikilink")。
-  - [中国移动游戏基地联合](../Page/中国移动.md "wikilink")[盛大旗下华友世纪共同举行](../Page/盛大.md "wikilink")《龙之谷之天空战记》新游首发活动。\[10\]
+  - [中国移动游戏基地联合](https://zh.wikipedia.org/wiki/中国移动 "wikilink")[盛大旗下华友世纪共同举行](https://zh.wikipedia.org/wiki/盛大 "wikilink")《龙之谷之天空战记》新游首发活动。\[10\]
 
 ### 第九届
 
 2011年7月28日至7月31日，在上海新国际博览中心举行。场馆展出面积达到60000平米，参展厂商总数283家，国内展商204家，国际展商79家；参展游戏482款，国内展品307款，国际展品175款，观众数量约15万。
 
-本届参展游戏有[九城的](../Page/九城.md "wikilink")《火瀑》，暴雪的《[魔兽世界](../Page/魔兽世界.md "wikilink")》、《[星际争霸](../Page/星际争霸.md "wikilink")2》，俄罗斯网游《黑金》、《巫师之怒》，日本网游《[最终幻想](../Page/最终幻想.md "wikilink")14》，《[七龙珠OL](../Page/七龙珠.md "wikilink")》及[网龙与EA一同开发的](../Page/网龙.md "wikilink")《地下城守护者OL》等等。\[11\]
+本届参展游戏有[九城的](https://zh.wikipedia.org/wiki/九城 "wikilink")《火瀑》，暴雪的《[魔兽世界](../Page/魔兽世界.md "wikilink")》、《[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")2》，俄罗斯网游《黑金》、《巫师之怒》，日本网游《[最终幻想](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")14》，《[七龙珠OL](../Page/七龙珠.md "wikilink")》及[网龙与EA一同开发的](https://zh.wikipedia.org/wiki/网龙 "wikilink")《地下城守护者OL》等等。\[11\]
 
 ### 第十届
 
-2012年7月26日至7月29日，在上海新国际博览中心举行。\[12\]\[13\]中、美、日、德、韩等20余个国家和地区的300多家互联网娱乐产业相关企业参展，展出面积约为7万平方米。索尼、EA、暴雪、英特尔、[AMD](../Page/AMD.md "wikilink")、[nVIDIA](../Page/nVIDIA.md "wikilink")、[Crytek等厂商参与](../Page/Crytek.md "wikilink")。\[14\]
+2012年7月26日至7月29日，在上海新国际博览中心举行。\[12\]\[13\]中、美、日、德、韩等20余个国家和地区的300多家互联网娱乐产业相关企业参展，展出面积约为7万平方米。索尼、EA、暴雪、英特尔、[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[nVIDIA](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")、[Crytek等厂商参与](../Page/Crytek.md "wikilink")。\[14\]
 
 ### 第十一届
 
@@ -142,7 +142,7 @@ online》、《[FIFA Online 2](../Page/FIFA_Online_2.md "wikilink")》等。\[7\
 ### 指导单位
 
   - [中华人民共和国新闻出版总署](../Page/中华人民共和国新闻出版总署.md "wikilink")
-  - [中华人民共和国国家互联网信息办公室](../Page/中华人民共和国国家互联网信息办公室.md "wikilink")
+  - [中华人民共和国国家互联网信息办公室](https://zh.wikipedia.org/wiki/中华人民共和国国家互联网信息办公室 "wikilink")
   - [中华人民共和国教育部](../Page/中华人民共和国教育部.md "wikilink")
   - [上海市人民政府](../Page/上海市人民政府.md "wikilink")
 
@@ -154,9 +154,9 @@ online》、《[FIFA Online 2](../Page/FIFA_Online_2.md "wikilink")》等。\[7\
 
 <!-- end list -->
 
-  - [国家新闻出版广电总局](../Page/国家新闻出版广电总局.md "wikilink")
-  - [中华人民共和国国家版权局](../Page/中华人民共和国国家版权局.md "wikilink")
-  - [中华人民共和国国家体育总局](../Page/中华人民共和国国家体育总局.md "wikilink")
+  - [国家新闻出版广电总局](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")
+  - [中华人民共和国国家版权局](https://zh.wikipedia.org/wiki/中华人民共和国国家版权局 "wikilink")
+  - [中华人民共和国国家体育总局](https://zh.wikipedia.org/wiki/中华人民共和国国家体育总局 "wikilink")
 
 <!-- end list -->
 

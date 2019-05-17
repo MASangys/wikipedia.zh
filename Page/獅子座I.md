@@ -1,36 +1,40 @@
 {{ Galaxy | | image =
 [Ugc5470.jpg](https://zh.wikipedia.org/wiki/File:Ugc5470.jpg "fig:Ugc5470.jpg")
 |caption =在明亮的軒轅十四右邊的獅子座 I，看似一個暗淡的光斑。創建者：司克托安迪拉 () | name = 獅子座 I |
-epoch = [J2000](../Page/J2000.md "wikilink") | type = E;dSph\[1\] | ra =
-\[2\] | dec = \[3\] | dist_ly = 820 ± 70[kly](../Page/光年.md "wikilink")
-(250 ± 20 [kpc](../Page/秒差距.md "wikilink"))\[4\]\[5\] | z = 285 ± 2
+epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | type =
+E;dSph\[1\] | ra = \[2\] | dec = \[3\] | dist_ly = 820 ±
+70[kly](../Page/光年.md "wikilink") (250 ± 20
+[kpc](../Page/秒差距.md "wikilink"))\[4\]\[5\] | z = 285 ± 2
 [公里](../Page/公里.md "wikilink")/秒\[6\] | appmag_v = 11.2\[7\] |
 size_v = 9′.8 × 7′.4\[8\] | constellation name =
-[獅子座](../Page/獅子座.md "wikilink") | notes = 銀河系的衛星星系 | names
-= [UGC](../Page/Uppsala_General_Catalogue.md "wikilink") 5470,\[9\]
-[PGC](../Page/Principal_Galaxies_Catalogue.md "wikilink") 29488,\[10\]
-[DDO](../Page/David_Dunlap_Observatory_Catalogue.md "wikilink")
+[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") | notes =
+銀河系的衛星星系 | names =
+[UGC](https://zh.wikipedia.org/wiki/Uppsala_General_Catalogue "wikilink")
+5470,\[9\]
+[PGC](https://zh.wikipedia.org/wiki/Principal_Galaxies_Catalogue "wikilink")
+29488,\[10\]
+[DDO](https://zh.wikipedia.org/wiki/David_Dunlap_Observatory_Catalogue "wikilink")
 74,\[11\]
 A1006,\[12\]Harrington-Wilson \#1,\[13\]
 Regulus Dwarf\[14\] }}
 
 **獅子座
-I**是在[獅子座的一個](../Page/獅子座.md "wikilink")[矮橢球星系](../Page/矮橢球星系.md "wikilink")，距離大約820,000光年，是[本星系群的星系](../Page/本星系群.md "wikilink")，也是距離[銀河系最遠的衛星星系](../Page/銀河系.md "wikilink")。它是在1950年被[艾伯特·喬治·威爾遜在](../Page/艾伯特·喬治·威爾遜.md "wikilink")[國家地理學會-帕洛馬巡天](../Page/國家地理學會-帕洛馬巡天.md "wikilink")，使用[帕洛馬天文台](../Page/帕洛馬天文台.md "wikilink")48吋[施密特攝星儀拍攝的](../Page/施密特攝星儀.md "wikilink")[攝影乾版上找到的](../Page/攝影乾版.md "wikilink")\[15\]\[16\]。
+I**是在[獅子座的一個](https://zh.wikipedia.org/wiki/獅子座 "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，距離大約820,000光年，是[本星系群的星系](../Page/本星系群.md "wikilink")，也是距離[銀河系最遠的衛星星系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")。它是在1950年被[艾伯特·喬治·威爾遜在](https://zh.wikipedia.org/wiki/艾伯特·喬治·威爾遜 "wikilink")[國家地理學會-帕洛馬巡天](https://zh.wikipedia.org/wiki/國家地理學會-帕洛馬巡天 "wikilink")，使用[帕洛馬天文台](https://zh.wikipedia.org/wiki/帕洛馬天文台 "wikilink")48吋[施密特攝星儀拍攝的](../Page/施密特攝星儀.md "wikilink")[攝影乾版上找到的](https://zh.wikipedia.org/wiki/攝影乾版 "wikilink")\[15\]\[16\]。
 
 ## 質量
 
 測量在獅子座
-I中一些明亮[紅巨星的](../Page/紅巨星.md "wikilink")[徑向速度](../Page/徑向速度.md "wikilink")，使得他的質量可以被估算。它的質量至少有2.0±
+I中一些明亮[紅巨星的](../Page/紅巨星.md "wikilink")[徑向速度](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")，使得他的質量可以被估算。它的質量至少有2.0±
 1.0×
-10<sup>7</sup>太陽質量，然而這個結果還沒有完全確認，也不能確知是否有[暗物質暈環繞著這個星系](../Page/暗物質.md "wikilink")，而且這個星系似乎是不轉動的\[17\]。
+10<sup>7</sup>太陽質量，然而這個結果還沒有完全確認，也不能確知是否有[暗物質暈環繞著這個星系](https://zh.wikipedia.org/wiki/暗物質 "wikilink")，而且這個星系似乎是不轉動的\[17\]。
 
 也曾有人認為獅子座
-I是[銀河系的](../Page/銀河系.md "wikilink")[銀暈受到潮汐力作用產生的碎片](../Page/銀暈.md "wikilink")，但是這個假說未能得到證明\[18\]。
+I是[銀河系的](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[銀暈受到潮汐力作用產生的碎片](https://zh.wikipedia.org/wiki/銀暈 "wikilink")，但是這個假說未能得到證明\[18\]。
 
 ### 恆星的組成
 
 以典型的矮星系來看，獅子座
-I的[金屬量是非常低的](../Page/金屬量.md "wikilink")，只有[太陽的](../Page/太陽.md "wikilink")1%。Gallart等人從[哈伯太空望遠鏡在](../Page/哈伯太空望遠鏡.md "wikilink")1999年觀測的資料推論那個星系的恆星成員(有70%至80%)
+I的[金屬量是非常低的](../Page/金屬量.md "wikilink")，只有[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")1%。Gallart等人從[哈伯太空望遠鏡在](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")1999年觀測的資料推論那個星系的恆星成員(有70%至80%)
 主要是在60億至20億年前形成的，並且沒有證據顯示有超過100億歲的恆星。大約10 億年前，獅子座
 I的恆星形成速率突然降低至幾乎可以被忽略的比率，一些較低層次的活動可能持續了2億至5億年，所以他可能是銀河系內最年輕，屬於矮橢球星系的衛星星系。另一方面，這個星系可能被與整個星系質量相等的游離氣體雲氣包覆著\[19\]<ref name="Bergh2000">{{
 citation

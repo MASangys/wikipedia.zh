@@ -1,20 +1,20 @@
 [G36_CMag.jpg](https://zh.wikipedia.org/wiki/File:G36_CMag.jpg "fig:G36_CMag.jpg")（並非MG36）\]\]
 
 **C-Mag彈鼓**（Beta C-Mag、Century magazine，意為「世紀彈鼓」，簡稱C-Mag）是由吉姆·蘇利文（Jim
-Sullivan）設計的100發雙室型[彈鼓](../Page/彈鼓.md "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](../Page/9mm鲁格弹.md "wikilink")[口徑的](../Page/口徑.md "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
+Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。
 
 ## 設計
 
 [Evers_magazines_loader_(MP5).svg](https://zh.wikipedia.org/wiki/File:Evers_magazines_loader_\(MP5\).svg "fig:Evers_magazines_loader_(MP5).svg")）\]\]
 
-C-Mag大部份部件以[塑料製造](../Page/塑料.md "wikilink")，雙室左右對稱排列的設計，中間轉為直排彈匣適配器作連接，依靠旋轉彈簧及假彈鏈作推力將[子彈推進至供彈口](../Page/子弹.md "wikilink")，比一般的直排彈匣具有更多的裝彈量。早期型C-Mag採用全啞黑色外殼，而後期型改用了透明的後部外殼以便於射手快速觀看彈藥剩餘量\[2\]，亦有其他顏色的外殼提供。
+C-Mag大部份部件以[塑料製造](../Page/塑料.md "wikilink")，雙室左右對稱排列的設計，中間轉為直排彈匣適配器作連接，依靠旋轉彈簧及假彈鏈作推力將[子彈推進至供彈口](https://zh.wikipedia.org/wiki/子弹 "wikilink")，比一般的直排彈匣具有更多的裝彈量。早期型C-Mag採用全啞黑色外殼，而後期型改用了透明的後部外殼以便於射手快速觀看彈藥剩餘量\[2\]，亦有其他顏色的外殼提供。
 
 以[M16突擊步槍作舉例](../Page/M16突擊步槍.md "wikilink")，一個對應M16、裝有100發5.56x45
 NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作供彈容器](../Page/STANAG彈匣.md "wikilink")，雖然四個共裝100發彈匣仍比裝有100發的C-Mag為輕，但C-Mag可連續發射而30發彈匣卻需更換四次。
 
 ## 缺點
 
-由[美国陆军士兵在阿富汗的試驗中發現](../Page/美国陆军.md "wikilink")：C-Mag在的模擬戰之中是不可靠的，而且經常有供彈的問題。\[3\]這問題在充滿塵埃和沙土的環境中更加嚴重。C-Mag還有彈匣釋放壓力的問題，因為正如上述所指，四個共裝120發彈匣仍比裝有100發的C-Mag為輕。美国陆军[TACOM發出了](../Page/美國陸軍坦克汽車和裝備司令部.md "wikilink")「地面防範文件」（GPM-02-017），並警告在行動期間其使用。\[4\]這個GPM在[伊拉克自由行動前已經啟動](../Page/伊拉克战争.md "wikilink")。至於接受測試的C-Mag是不是在美國軍隊內部廣泛使用，並沒有一個回答。
+由[美国陆军士兵在阿富汗的試驗中發現](../Page/美国陆军.md "wikilink")：C-Mag在的模擬戰之中是不可靠的，而且經常有供彈的問題。\[3\]這問題在充滿塵埃和沙土的環境中更加嚴重。C-Mag還有彈匣釋放壓力的問題，因為正如上述所指，四個共裝120發彈匣仍比裝有100發的C-Mag為輕。美国陆军[TACOM發出了](https://zh.wikipedia.org/wiki/美國陸軍坦克汽車和裝備司令部 "wikilink")「地面防範文件」（GPM-02-017），並警告在行動期間其使用。\[4\]這個GPM在[伊拉克自由行動前已經啟動](../Page/伊拉克战争.md "wikilink")。至於接受測試的C-Mag是不是在美國軍隊內部廣泛使用，並沒有一個回答。
 
 ## 相容C-Mag的槍械
 
@@ -46,16 +46,18 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
 
   - [M1A](../Page/春田M1A半自動步槍.md "wikilink")／[M14](../Page/M14自动步枪.md "wikilink")
   - [HK G3](../Page/HK_G3自動步槍.md "wikilink")／[HK
-    91](../Page/HK_41半自動步槍.md "wikilink")
+    91](https://zh.wikipedia.org/wiki/HK_41半自動步槍 "wikilink")
   - [FN FAL](../Page/FN_FAL自動步槍.md "wikilink")
   - [FN SCAR-H戰鬥步槍](../Page/FN_SCAR突擊步槍.md "wikilink")
-  - [雷明登MSR狙击步枪](../Page/雷明登MSR狙击步枪.md "wikilink")
+  - [雷明登MSR狙击步枪](https://zh.wikipedia.org/wiki/雷明登MSR狙击步枪 "wikilink")
   - [AR-10](../Page/AR-10自動步槍.md "wikilink")
-      - [SIG SG 716戰鬥步槍](../Page/SIG_SG_716戰鬥步槍.md "wikilink")
+      - [SIG SG
+        716戰鬥步槍](https://zh.wikipedia.org/wiki/SIG_SG_716戰鬥步槍 "wikilink")
       - [史密斯威森軍警型M\&P10半自動步槍](../Page/史密斯威森軍警型M&P10半自動步槍.md "wikilink")
       - JP LRP07狙击步枪
       - BAER308狙击步枪
-      - KAC [SR-25狙击步枪](../Page/SR-25狙击步枪.md "wikilink")
+      - KAC
+        [SR-25狙击步枪](https://zh.wikipedia.org/wiki/SR-25狙击步枪 "wikilink")
 
 ## 用戶
 
@@ -65,7 +67,7 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
 
 ### 民間
 
-1994年9月13日，[美國聯邦暴力犯罪控制和执法法案通過](../Page/美國聯邦暴力犯罪控制和执法法案.md "wikilink")，只允許平民使用[彈匣供彈而且彈數必須等於或少於](../Page/彈匣.md "wikilink")10發。在這法案通過以前，民間購買和擁有的C-Mag是合法的，但由於數量有限，在當時的C-Mag比較稀有和昂貴。這項禁令在2004年9月13日開始過期，Beta公司已經恢復了民間市場的C-Mag的生產。\[5\]但是在一些國家、地區之中，已經制定了其對「大容量」彈匣的法律。
+1994年9月13日，[美國聯邦暴力犯罪控制和执法法案通過](https://zh.wikipedia.org/wiki/美國聯邦暴力犯罪控制和执法法案 "wikilink")，只允許平民使用[彈匣供彈而且彈數必須等於或少於](../Page/彈匣.md "wikilink")10發。在這法案通過以前，民間購買和擁有的C-Mag是合法的，但由於數量有限，在當時的C-Mag比較稀有和昂貴。這項禁令在2004年9月13日開始過期，Beta公司已經恢復了民間市場的C-Mag的生產。\[5\]但是在一些國家、地區之中，已經制定了其對「大容量」彈匣的法律。
 
 ## 註釋
 

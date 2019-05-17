@@ -1,10 +1,10 @@
 《**至Net奇兵：追求無限**》（''，）是[至Net奇兵的第二款遊戲](../Page/至Net奇兵.md "wikilink")，由[The
 Game
-Factory製作](../Page/The_Game_Factory.md "wikilink")，在2007年11月16日於美國推出在[Wii平臺的](../Page/Wii.md "wikilink")[動作遊戲](../Page/動作遊戲.md "wikilink")，之後亦於[澳洲及](../Page/澳洲.md "wikilink")[歐洲推出](../Page/歐洲.md "wikilink")。此遊戲的故事情節概括《[至Net奇兵](../Page/至Net奇兵.md "wikilink")》[動畫版的第四輯](../Page/動畫.md "wikilink")。
+Factory製作](https://zh.wikipedia.org/wiki/The_Game_Factory "wikilink")，在2007年11月16日於美國推出在[Wii平臺的](../Page/Wii.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，之後亦於[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[歐洲推出](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。此遊戲的故事情節概括《[至Net奇兵](../Page/至Net奇兵.md "wikilink")》[動畫版的第四輯](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 而這款遊戲在2008年7月21日推出在[Playstation
-Portable及](../Page/Playstation_Portable.md "wikilink")[Playstation
-2這兩個遊戲平臺上](../Page/Playstation_2.md "wikilink")。
+Portable及](https://zh.wikipedia.org/wiki/Playstation_Portable "wikilink")[Playstation
+2這兩個遊戲平臺上](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")。
 
 ## 故事
 

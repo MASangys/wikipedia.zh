@@ -1,6 +1,6 @@
 **Google阅读器**（Google
 Reader）曾是[Google公司旗下一个基于网络的](../Page/Google.md "wikilink")[聚合器](../Page/聚合器.md "wikilink")，能在线或者离线阅读[Atom和](../Page/Atom_\(標準\).md "wikilink")[RSS](../Page/RSS.md "wikilink")。英文版的Google
-Reader于2005年10月7日通过[Google实验室发布](../Page/Google实验室.md "wikilink")，2007年9月17日成为正式版。中文版的Google阅读器大约在2007年9月18日左右发布。
+Reader于2005年10月7日通过[Google实验室发布](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")，2007年9月17日成为正式版。中文版的Google阅读器大约在2007年9月18日左右发布。
 
 2013年3月13日Google宣布，作为第二个春季大扫除计划之一，Google閱讀器因用户数量逐年下降，于2013年7月1日终止服務，用户有3个多月的时间导出自己的数据。\[1\]\[2\]\[3\]\[4\]
 
@@ -16,7 +16,7 @@ Reader也引入了分享功能，用户可以向其他人分享条目。
 
 2007年1月30日，Google
 Reader开始支持来自[YouTube和](../Page/YouTube.md "wikilink")[Google
-Video的视频内容](../Page/Google_Video.md "wikilink")。
+Video的视频内容](https://zh.wikipedia.org/wiki/Google_Video "wikilink")。
 
 2007年9月17日，谷歌产品营销经理、随后成为[Instagram创始人的凯文](../Page/Instagram.md "wikilink")·斯特罗姆（Kevin
 Systrom）宣布，Google Reader从谷歌实验室中毕业。但之后的五年多就再也没发布大的更新。
@@ -30,8 +30,8 @@ Reader所不具有的交友、关注等功能成为短板，但Google Reader仍�
 Reader将于2013年7月1日关闭。\[5\]
 
 与Google
-Reader同时或之后亦有若干具类似功能的服务，如[鲜果阅读器](../Page/鲜果阅读器.md "wikilink")、[Feedly](../Page/Feedly.md "wikilink")、[Inoreader](../Page/Inoreader.md "wikilink")、[Digg
-Reader等](../Page/Digg_Reader.md "wikilink")。但RSS订阅服务的弱化也非常明显，[微博客和](../Page/微博客.md "wikilink")[微信公众号等取代](../Page/微信公众号.md "wikilink")[博客成为流行的内容分享平台](../Page/博客.md "wikilink")，更多的网站通过RSS只提供内容概要，包括[纽约时报中文网](../Page/纽约时报中文网.md "wikilink")、[FT中文网等](../Page/FT中文网.md "wikilink")，[果壳网等网站关闭了RSS订阅服务](../Page/果壳网.md "wikilink")。
+Reader同时或之后亦有若干具类似功能的服务，如[鲜果阅读器](https://zh.wikipedia.org/wiki/鲜果阅读器 "wikilink")、[Feedly](../Page/Feedly.md "wikilink")、[Inoreader](https://zh.wikipedia.org/wiki/Inoreader "wikilink")、[Digg
+Reader等](https://zh.wikipedia.org/wiki/Digg_Reader "wikilink")。但RSS订阅服务的弱化也非常明显，[微博客和](https://zh.wikipedia.org/wiki/微博客 "wikilink")[微信公众号等取代](https://zh.wikipedia.org/wiki/微信公众号 "wikilink")[博客成为流行的内容分享平台](https://zh.wikipedia.org/wiki/博客 "wikilink")，更多的网站通过RSS只提供内容概要，包括[纽约时报中文网](https://zh.wikipedia.org/wiki/纽约时报中文网 "wikilink")、[FT中文网等](https://zh.wikipedia.org/wiki/FT中文网 "wikilink")，[果壳网等网站关闭了RSS订阅服务](../Page/果壳网.md "wikilink")。
 
 ## 特征
 
@@ -40,17 +40,17 @@ Reader等](../Page/Digg_Reader.md "wikilink")。但RSS订阅服务的弱化也�
 谷歌阅读器的界面在2006年9月28日进行了重大调整。产品经理尼克·鲍姆（Nick
 Baum）在接受[罗伯特·斯考伯](../Page/罗伯特·斯考伯.md "wikilink")（Robert
 Scoble）的采访中表示：这次重新设计是一种趋势，条目的聚合应更加适合于公众的口味。\[6\]然而新版本的设计师凯文·福克斯（Kevin
-Fox）发现，对于习惯“流”式阅读（即不分类的浏览所有新消息\[7\]）的用户，原先的版本是最理想的。新版本在设计中考虑了大多数读者的阅读习惯，提供不同的分类阅读方式，包括[消息来源](../Page/消息来源.md "wikilink")、组、[标签](../Page/标签_\(元数据\).md "wikilink")、文件夹或“必须阅读”等。
+Fox）发现，对于习惯“流”式阅读（即不分类的浏览所有新消息\[7\]）的用户，原先的版本是最理想的。新版本在设计中考虑了大多数读者的阅读习惯，提供不同的分类阅读方式，包括[消息来源](https://zh.wikipedia.org/wiki/消息来源 "wikilink")、组、[标签](https://zh.wikipedia.org/wiki/标签_\(元数据\) "wikilink")、文件夹或“必须阅读”等。
 
 新版谷歌阅读器的新功能包括：
 
   - 在首页就可以一览所有未读条目的列表。
-  - 支援导入或导出[OPML格式的订阅列表](../Page/OPML.md "wikilink")。
+  - 支援导入或导出[OPML格式的订阅列表](https://zh.wikipedia.org/wiki/OPML "wikilink")。
   - 为主要功能增设了快捷键。
   - 可选择以“列表”视图（仅显示标题）或“展开”视图（显示各条的详细内容）浏览条目。
   - 在扩展视图中，滚动查看条目时，这些条目会标为已读。（可在设置中关闭）
-  - 允许在所有订阅的所有历史更新中搜索[关键词](../Page/关键词.md "wikilink")。\[8\]
-  - 一个复活节彩蛋，当用户输入[秘籍](../Page/秘籍.md "wikilink")（上上下下左右左右BA）后会看到一个特殊的“忍者”皮肤。\[9\]
+  - 允许在所有订阅的所有历史更新中搜索[关键词](https://zh.wikipedia.org/wiki/关键词 "wikilink")。\[8\]
+  - 一个复活节彩蛋，当用户输入[秘籍](https://zh.wikipedia.org/wiki/秘籍 "wikilink")（上上下下左右左右BA）后会看到一个特殊的“忍者”皮肤。\[9\]
 
 ### 键盘快捷键
 
@@ -58,39 +58,39 @@ Fox）发现，对于习惯“流”式阅读（即不分类的浏览所有新�
 
 ### 管理订阅
 
-在谷歌阅读器中，用户可以既可以直接输入[RSS或](../Page/RSS.md "wikilink")[Atom的](../Page/Atom.md "wikilink")[URL](../Page/URL.md "wikilink")，也可以通过搜索功能添加订阅。每个[消息来源的未读条目数会自动更新并在左栏中显示](../Page/消息来源.md "wikilink")。条目列表可以按日期或相关性进行排序。每个消息来源都可以加上数个用户定义的分类[标签](../Page/标签_\(元数据\).md "wikilink")。被加上星标的条目可以单独列出。
+在谷歌阅读器中，用户可以既可以直接输入[RSS或](../Page/RSS.md "wikilink")[Atom的](https://zh.wikipedia.org/wiki/Atom "wikilink")[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，也可以通过搜索功能添加订阅。每个[消息来源的未读条目数会自动更新并在左栏中显示](https://zh.wikipedia.org/wiki/消息来源 "wikilink")。条目列表可以按日期或相关性进行排序。每个消息来源都可以加上数个用户定义的分类[标签](https://zh.wikipedia.org/wiki/标签_\(元数据\) "wikilink")。被加上星标的条目可以单独列出。
 
 订阅的项目和文件夹可以用上下拖动的方式整理须序。
 
 ### 共享
 
-用户可以在谷歌阅读器中共享订阅的条目。先前版本的共享功能由两种方式实现：一是发送[电子邮件](../Page/电子邮件.md "wikilink")，将共享条目的链接通知给其它用户；二是建立一个[网页列出账户中共享的所有条目](../Page/网页.md "wikilink")。2007年10月，谷歌改变了该共享策略，用户只要将条目标记为共享，用户的[Google
-Talk中所有的联系人就可以看到这些条目](../Page/Google_Talk.md "wikilink")。\[10\]这一功能由于未提供关闭的选项而遭到了用户的批评。\[11\]用户页面中共享条目的[URL含有一个随机的](../Page/URL.md "wikilink")[字符串](../Page/字符串.md "wikilink")，谷歌称这是一种限制共享的方式，只有得到了你给的[链接](../Page/超链接.md "wikilink")，其他用户才能访问你的共享。
+用户可以在谷歌阅读器中共享订阅的条目。先前版本的共享功能由两种方式实现：一是发送[电子邮件](../Page/电子邮件.md "wikilink")，将共享条目的链接通知给其它用户；二是建立一个[网页列出账户中共享的所有条目](https://zh.wikipedia.org/wiki/网页 "wikilink")。2007年10月，谷歌改变了该共享策略，用户只要将条目标记为共享，用户的[Google
+Talk中所有的联系人就可以看到这些条目](../Page/Google_Talk.md "wikilink")。\[10\]这一功能由于未提供关闭的选项而遭到了用户的批评。\[11\]用户页面中共享条目的[URL含有一个随机的](https://zh.wikipedia.org/wiki/URL "wikilink")[字符串](../Page/字符串.md "wikilink")，谷歌称这是一种限制共享的方式，只有得到了你给的[链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")，其他用户才能访问你的共享。
 2011年11月开始，谷歌阅读器进行大规模改版，把[Google+整合进阅读器](../Page/Google+.md "wikilink")。通过新增加的“+1”按钮，用户可直接将在谷歌阅读器中看到的新闻分享给其他Google+好友。“+1”按钮取代了谷歌阅读器中此前已具有的“共享”及“带备注的共享”等按钮。\[12\]
 但这一举动引起了很多老用户的不满。\[13\]
 
 ### 访问方式
 
   - 谷歌阅读器是第一个利用[Google
-    Gears功能的程式](../Page/Google_Gears.md "wikilink")。Google
-    Gears是一个浏览器的插件，它可以使在线程式[离线工作](../Page/离线.md "wikilink")。安装了该插件的用户可以在谷歌阅读器中下载多达2000个条目以脱机阅读。重新上线后谷歌阅读器会更新所有的消息来源。谷歌阅读器的[离线模式只支持英文版本](../Page/离线.md "wikilink")。\[14\]2010年6月1日起，谷歌阅读器不再支持[离线功能](../Page/离线.md "wikilink")。\[15\]
+    Gears功能的程式](https://zh.wikipedia.org/wiki/Google_Gears "wikilink")。Google
+    Gears是一个浏览器的插件，它可以使在线程式[离线工作](https://zh.wikipedia.org/wiki/离线 "wikilink")。安装了该插件的用户可以在谷歌阅读器中下载多达2000个条目以脱机阅读。重新上线后谷歌阅读器会更新所有的消息来源。谷歌阅读器的[离线模式只支持英文版本](https://zh.wikipedia.org/wiki/离线 "wikilink")。\[14\]2010年6月1日起，谷歌阅读器不再支持[离线功能](https://zh.wikipedia.org/wiki/离线 "wikilink")。\[15\]
 
 <!-- end list -->
 
-  - 2006年5月18日，谷歌阅读器发布了[移动版](http://www.google.com/reader/m/view/)界面，它现在可以在支援[XHTML或](../Page/XHTML.md "wikilink")[WAP2.0的设备上使用](../Page/WAP2.0.md "wikilink")。2008年5月12日，谷歌发布了一个专供[iPhone用户使用的谷歌阅读器版本](../Page/iPhone.md "wikilink")。你可以在[这里](http://www.google.com/reader/i/)找到它。\[16\]
+  - 2006年5月18日，谷歌阅读器发布了[移动版](http://www.google.com/reader/m/view/)界面，它现在可以在支援[XHTML或](../Page/XHTML.md "wikilink")[WAP2.0的设备上使用](https://zh.wikipedia.org/wiki/WAP2.0 "wikilink")。2008年5月12日，谷歌发布了一个专供[iPhone用户使用的谷歌阅读器版本](https://zh.wikipedia.org/wiki/iPhone "wikilink")。你可以在[这里](http://www.google.com/reader/i/)找到它。\[16\]
 
 <!-- end list -->
 
-  - 2006年5月4日，谷歌发布了一个新的特性\[17\]，允许用户将在阅读器上订阅的消息来源显示在[iGoogle](../Page/iGoogle.md "wikilink")（谷歌的个性化主页）上。
+  - 2006年5月4日，谷歌发布了一个新的特性\[17\]，允许用户将在阅读器上订阅的消息来源显示在[iGoogle](https://zh.wikipedia.org/wiki/iGoogle "wikilink")（谷歌的个性化主页）上。
 
 <!-- end list -->
 
   - [Mozilla
-    Firefox](../Page/Mozilla_Firefox.md "wikilink")（在2.0或更高的版本中支援）在消息来源的识别功能中加入了谷歌阅读器。当用户在Firefox中点击一个消息来源时，Firefox会自动重定向到谷歌阅读器的“添加订阅”页面。
+    Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（在2.0或更高的版本中支援）在消息来源的识别功能中加入了谷歌阅读器。当用户在Firefox中点击一个消息来源时，Firefox会自动重定向到谷歌阅读器的“添加订阅”页面。
 
 ## 封锁
 
-由于Google阅读器支持[SSL加密连接且其](../Page/SSL.md "wikilink")[服务器不在](../Page/服务器.md "wikilink")[中国大陆境内](../Page/中国大陆.md "wikilink")，故有部分用户通过加密连接来规避[防火长城的内容审查](../Page/防火长城.md "wikilink")，并订阅被防火长城封锁的境外新闻媒体网站。故此当局透过间断性打断[Https连接来干扰用户使用阅读器](../Page/Https.md "wikilink")，并且封锁google.com/reader/view/feed/。
+由于Google阅读器支持[SSL加密连接且其](https://zh.wikipedia.org/wiki/SSL "wikilink")[服务器不在](../Page/服务器.md "wikilink")[中国大陆境内](../Page/中国大陆.md "wikilink")，故有部分用户通过加密连接来规避[防火长城的内容审查](../Page/防火长城.md "wikilink")，并订阅被防火长城封锁的境外新闻媒体网站。故此当局透过间断性打断[Https连接来干扰用户使用阅读器](https://zh.wikipedia.org/wiki/Https "wikilink")，并且封锁google.com/reader/view/feed/。
 
 ## 参见
 

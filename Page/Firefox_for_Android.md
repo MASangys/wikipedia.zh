@@ -1,10 +1,10 @@
 **** （代號****，曾被称为“Firefox for
-Mobile”）是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](../Page/瀏覽器.md "wikilink")[智慧型手機和](../Page/智慧型手機.md "wikilink")[平板電腦等裝置推出的一個瀏覽器版本](../Page/平板電腦.md "wikilink")。
+Mobile”）是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦等裝置推出的一個瀏覽器版本](../Page/平板電腦.md "wikilink")。
 
 Firefox for Android使用和[Mozilla
-Firefox相同的](../Page/Mozilla_Firefox.md "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox
+Firefox相同的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox
 3.6相同的引擎，而4.0以後版本與Firefox
-4.0共享核心代碼。它的功能包括[HTML5支援](../Page/HTML5.md "wikilink")、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](../Page/附加组件_\(Mozilla\).md "wikilink")[分頁式瀏覽](../Page/分頁式瀏覽.md "wikilink")\[1\]。
+4.0共享核心代碼。它的功能包括[HTML5支援](../Page/HTML5.md "wikilink")、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。
 
 ## 命名
 
@@ -20,13 +20,13 @@ Honeycomb預覽版本支援Flash\[5\]。在14.0版本的大多數智能手機已
 
 瀏覽器的版本編號從版本1.0跳到版本4.0，以更緊密地匹配Firefox的桌面版本，因為這兩種瀏覽器中使用的排版引擎是相同的\[7\]。
 
-2014年12月，Mozilla宣佈正在為Firefox設計一個iOS版本，該版本已經發佈。由於[蘋果的應用程式審查政策](../Page/蘋果公司.md "wikilink")，Firefox必須使用內建以[WebKit為基礎的渲染框架](../Page/WebKit.md "wikilink")，而不是Mozilla的Gecko排版引擎\[8\]。然而，2013年4月，時任Mozilla首席執行長[蓋瑞·科瓦克斯曾表示](../Page/蓋瑞·科瓦克斯.md "wikilink")，只要蘋果要求使用WebKit排版引擎，Firefox就不會在iOS上架。儘管如此，2015年，Mozilla依然宣佈將在Firefox於iOS平台取得進展，第一個預覽版於同年9月在紐西蘭發佈\[9\]\[10\]\[11\]。
+2014年12月，Mozilla宣佈正在為Firefox設計一個iOS版本，該版本已經發佈。由於[蘋果的應用程式審查政策](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，Firefox必須使用內建以[WebKit為基礎的渲染框架](../Page/WebKit.md "wikilink")，而不是Mozilla的Gecko排版引擎\[8\]。然而，2013年4月，時任Mozilla首席執行長[蓋瑞·科瓦克斯曾表示](../Page/蓋瑞·科瓦克斯.md "wikilink")，只要蘋果要求使用WebKit排版引擎，Firefox就不會在iOS上架。儘管如此，2015年，Mozilla依然宣佈將在Firefox於iOS平台取得進展，第一個預覽版於同年9月在紐西蘭發佈\[9\]\[10\]\[11\]。
 
 ## 其他平台計劃
 
 在此之前，Firefox for Android有一個不同的名稱——Firefox for Mobile，並且支援其他平台。
 
-官方對[Nokia N900](../Page/Nokia_N900.md "wikilink")
+官方對[Nokia N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink")
 [Maemo設備的支援於版本](../Page/Maemo.md "wikilink")7而終止\[12\]。
 
 2010年2月19日發佈的Windows Mobile
@@ -35,7 +35,7 @@ Phone 7發佈以及微軟決定不發佈原生開發工具包之後，Windows Mo
 Phone作業系統發佈原生開發工具包，Mozilla或許再次考慮為該平台開發Fennec\[16\]。
 
 Mozilla歐洲總裁Tristan Nitot表示，[BlackBerry
-OS版本不太可能推出](../Page/BlackBerry_OS.md "wikilink")，理由是由於BlackBerry作業系統的限制\[17\]。Mozilla並沒有計劃為推出[Symbian或](../Page/Symbian.md "wikilink")[webOS版本](../Page/webOS.md "wikilink")，但是有一個非官方的webOS版本\[18\]。
+OS版本不太可能推出](../Page/BlackBerry_OS.md "wikilink")，理由是由於BlackBerry作業系統的限制\[17\]。Mozilla並沒有計劃為推出[Symbian或](https://zh.wikipedia.org/wiki/Symbian "wikilink")[webOS版本](https://zh.wikipedia.org/wiki/webOS "wikilink")，但是有一個非官方的webOS版本\[18\]。
 
 ## 評價
 
@@ -48,7 +48,7 @@ Android在所有行動以及平板瀏覽器中的使用率僅為0.81%\[24\]。�
 Android仍得到較高的應用程式商店評分，下載量超過一億次\[25\]\[26\]，並且仍然繼續開發中。最新版本支援Android
 4.0及更高版本（48版本於Android 2.3停止支援）\[27\]。
 
-在2015年的Android瀏覽器評選中，西班牙軟體新聞和評論網站[軟體天堂評選Firefox](../Page/軟體天堂.md "wikilink")
+在2015年的Android瀏覽器評選中，西班牙軟體新聞和評論網站[軟體天堂評選Firefox](https://zh.wikipedia.org/wiki/軟體天堂 "wikilink")
 37.0.1為2015年度最佳瀏覽器，評選委員Fabrizio
 Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源性質和獨立性\[28\]。
 
@@ -183,7 +183,8 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
 ## 參見
 
   - [Firefox for iOS](../Page/Firefox_for_iOS.md "wikilink")
-  - [Firefox Focus](../Page/Firefox_Focus.md "wikilink")
+  - [Firefox
+    Focus](https://zh.wikipedia.org/wiki/Firefox_Focus "wikilink")
   - [Minimo](../Page/Minimo.md "wikilink")
 
 ## 外部链接

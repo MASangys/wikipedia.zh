@@ -1,4 +1,4 @@
-**STARHORSE2**是[世嘉開發的](../Page/世嘉.md "wikilink")[賽馬育成街機遊戲](../Page/賽馬.md "wikilink")，是[STARHORSE第五代至第七代](../Page/STARHORSE.md "wikilink")。第一版本NEW
+**STARHORSE2**是[世嘉開發的](../Page/世嘉.md "wikilink")[賽馬育成街機遊戲](../Page/賽馬.md "wikilink")，是[STARHORSE第五代至第七代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。第一版本NEW
 GENERATION在2005年發行。第二版SECOND FUSION在2006年10月發行。第三版本THIRD
 EVOLUTION在2007年11月4日發行。此遊戲獲得2005年Good Design賞商品部門設計獎\[1\]。目前為止THIRD
 EVOLUTION是STARHORSE系列第七套作品。
@@ -19,11 +19,11 @@ STARHORSE2設有九項投注項目，其中七項與日本中央競馬會投注�
 
 ### 騎師育成
 
-玩家可安排策騎自己的騎師（）策騎馬匹出戰比賽，而沒有比賽的日子則可以安排騎師進行訓練，增強騎師的實力，而騎師可安排策騎其他玩家或電腦馬匹，策騎馬匹跑進三甲後，可獲得相應獎金。當騎師達到某個水平後，可以參加[世界超級騎師大賽](../Page/世界超級騎師大賽.md "wikilink")（WSJS）或WBC比賽。而騎師策騎200場賽事後必需退役\[3\]，由另一位騎師繼承前騎師的技術或重新訓練新的騎師。
+玩家可安排策騎自己的騎師（）策騎馬匹出戰比賽，而沒有比賽的日子則可以安排騎師進行訓練，增強騎師的實力，而騎師可安排策騎其他玩家或電腦馬匹，策騎馬匹跑進三甲後，可獲得相應獎金。當騎師達到某個水平後，可以參加[世界超級騎師大賽](https://zh.wikipedia.org/wiki/世界超級騎師大賽 "wikilink")（WSJS）或WBC比賽。而騎師策騎200場賽事後必需退役\[3\]，由另一位騎師繼承前騎師的技術或重新訓練新的騎師。
 
 ### 馬匹育成
 
-馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](../Page/京都新聞盃.md "wikilink").
+馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](https://zh.wikipedia.org/wiki/京都新聞盃 "wikilink").
 Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 生產馬匹後，馬匹將會出戰條件賽，在條件賽勝出3-4場賽事後，玩家就可以真正育成自己的馬匹，玩家可根據每次出賽條件賽的意見，確定馬匹的能力。玩家每次對馬匹可以一次訓練及給予一次飼料。此外，在出賽前，玩家可以為馬匹追加一次訓練，以提升比賽狀態。在投注勝出後滿足某個條件後，可進行極秘訓練，可改變馬匹的腳法。
@@ -32,13 +32,13 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ### 賽事
 
-每年有65週，總共有77場賽事\[5\]，部份賽事每年以交換形式進行，例如今年舉行[京都金盃](../Page/京都金盃.md "wikilink")，下一年將會舉行[中山金盃](../Page/中山金盃.md "wikilink")。賽事包括了[日本中央競馬會分級賽事](../Page/日本中央競馬會.md "wikilink")（有4場WSJS賽事是OP級別），4場WBC系列的虛構比賽，以包3場真實海外賽事。玩家可以在三場比賽前為馬匹報名。報名費為由10credits起。而WBC及殿堂馬賽事則會以招待形式舉辦，達到某條件後不需付費則可參賽。
+每年有65週，總共有77場賽事\[5\]，部份賽事每年以交換形式進行，例如今年舉行[京都金盃](https://zh.wikipedia.org/wiki/京都金盃 "wikilink")，下一年將會舉行[中山金盃](https://zh.wikipedia.org/wiki/中山金盃 "wikilink")。賽事包括了[日本中央競馬會分級賽事](../Page/日本中央競馬會.md "wikilink")（有4場WSJS賽事是OP級別），4場WBC系列的虛構比賽，以包3場真實海外賽事。玩家可以在三場比賽前為馬匹報名。報名費為由10credits起。而WBC及殿堂馬賽事則會以招待形式舉辦，達到某條件後不需付費則可參賽。
 
 同一項賽事最多只能讓10匹馬出賽（同一項賽事一個馬房可派兩匹馬同時出賽），如玩家數目較多時，要儘快報名避免額滿而無法報名。每項賽事最少出馬數為8匹，最多為14匹，而模擬賽事最多出馬18匹。
 
 玩家的馬匹如能走進前三名的話，可以獲得獎金。如能夠在特定賽事稱霸（WBC、雄馬及雌馬三冠）勝出，可以獲外的SH點數，而稱霸所以同級的分級賽，也可獲分數獎勵。
 
-部份賽事因為當年仍未舉辦，會以「虛構」的形式進行，例如是[日本盃泥地大賽](../Page/日本盃泥地大賽.md "wikilink")、[維多利亞一哩賽等](../Page/維多利亞一哩賽.md "wikilink")。
+部份賽事因為當年仍未舉辦，會以「虛構」的形式進行，例如是[日本盃泥地大賽](https://zh.wikipedia.org/wiki/日本盃泥地大賽 "wikilink")、[維多利亞一哩賽等](https://zh.wikipedia.org/wiki/維多利亞一哩賽 "wikilink")。
 
 ### SH商店
 
@@ -48,8 +48,8 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
   - 秋季賽事三連勝：[秋季天皇賞](../Page/天皇賞.md "wikilink")（）、[日本盃](../Page/日本盃.md "wikilink")（）及[有馬紀念賽](../Page/有馬紀念賽.md "wikilink")（）：10000SH。
   - WBC四冠：10000SH。
   - WBC全賽事勝出：20000SH。
-  - 一匹馬奪得雌馬三冠：[櫻花賞](../Page/櫻花賞.md "wikilink")（）、[優駿雌馬](../Page/優駿雌馬.md "wikilink")（）及[秋華賞](../Page/秋華賞.md "wikilink")（），30000SH。
-  - 一匹馬奪得雄馬三冠：[皐月賞](../Page/皐月賞.md "wikilink")（）、[東京優駿](../Page/東京優駿.md "wikilink")（）及[菊花賞](../Page/菊花賞.md "wikilink")（），50000SH。
+  - 一匹馬奪得雌馬三冠：[櫻花賞](https://zh.wikipedia.org/wiki/櫻花賞 "wikilink")（）、[優駿雌馬](https://zh.wikipedia.org/wiki/優駿雌馬 "wikilink")（）及[秋華賞](https://zh.wikipedia.org/wiki/秋華賞 "wikilink")（），30000SH。
+  - 一匹馬奪得雄馬三冠：[皐月賞](https://zh.wikipedia.org/wiki/皐月賞 "wikilink")（）、[東京優駿](../Page/東京優駿.md "wikilink")（）及[菊花賞](https://zh.wikipedia.org/wiki/菊花賞 "wikilink")（），50000SH。
 
 ## 遊戲變化
 
@@ -63,9 +63,9 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
   - 刪除1995年出賽馬匹資料，新增2005年馬匹資料。
 
-  - 首次新增真實外國賽事，為法國的[凱旋門大賽](../Page/凱旋門大賽.md "wikilink")（）。
+  - 首次新增真實外國賽事，為法國的[凱旋門大賽](https://zh.wikipedia.org/wiki/凱旋門大賽 "wikilink")（）。
 
-  - 日本賽事方面，新增[阪神盃](../Page/阪神盃.md "wikilink")（）及[維多利亞一哩賽](../Page/維多利亞一哩賽.md "wikilink")（）。
+  - 日本賽事方面，新增[阪神盃](https://zh.wikipedia.org/wiki/阪神盃 "wikilink")（）及[維多利亞一哩賽](https://zh.wikipedia.org/wiki/維多利亞一哩賽 "wikilink")（）。
 
   - STARHORSE.NET登場，可以使用個人電腦或手提電話查閱資料。
 
@@ -87,9 +87,9 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
   - 每天最多可獲得四個印章，取得分數的方法是「投注」、「投注」命中、出馬獲得獎金。
 
-  - 新增兩項外國賽事，包括英國的[英皇錦標](../Page/英皇錦標.md "wikilink")（）及香港的[香港盃](../Page/香港盃.md "wikilink")（）\[7\]。
+  - 新增兩項外國賽事，包括英國的[英皇錦標](https://zh.wikipedia.org/wiki/英皇錦標 "wikilink")（）及香港的[香港盃](https://zh.wikipedia.org/wiki/香港盃 "wikilink")（）\[7\]。
 
-  - 新增三項日本賽事，包括[天蝎座α星錦標](../Page/天蝎座α星錦標.md "wikilink")（）、[葉森盃](../Page/葉森盃.md "wikilink")（）及[關屋紀念賽](../Page/關屋紀念賽.md "wikilink")（）。不過[雅靈頓盃](../Page/雅靈頓盃.md "wikilink")（）被刪除。
+  - 新增三項日本賽事，包括[天蝎座α星錦標](https://zh.wikipedia.org/wiki/天蝎座α星錦標 "wikilink")（）、[葉森盃](https://zh.wikipedia.org/wiki/葉森盃 "wikilink")（）及[關屋紀念賽](https://zh.wikipedia.org/wiki/關屋紀念賽 "wikilink")（）。不過[雅靈頓盃](https://zh.wikipedia.org/wiki/雅靈頓盃 "wikilink")（）被刪除。
 
   - 長距離賽事刪剪部份共分為兩段。
 
@@ -115,7 +115,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ### FOURTH AMBITION
 
-2008年11月發行，將增加[英國打吡及](../Page/葉森打吡.md "wikilink")[帝王賞兩項賽事](../Page/帝王賞.md "wikilink")。
+2008年11月發行，將增加[英國打吡及](https://zh.wikipedia.org/wiki/葉森打吡 "wikilink")[帝王賞兩項賽事](https://zh.wikipedia.org/wiki/帝王賞 "wikilink")。
 
 ### FIFTH EXPANSION
 
@@ -127,7 +127,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ## 攻略本
 
-2008月3月28日發行第一本攻略本。提供馬匹育方方法，配種馬資料以及隱藏道具出現方法。另外也包括了玩家的心得。還有遊戲評述[杉本清稀有對白](../Page/杉本清.md "wikilink")。
+2008月3月28日發行第一本攻略本。提供馬匹育方方法，配種馬資料以及隱藏道具出現方法。另外也包括了玩家的心得。還有遊戲評述[杉本清稀有對白](https://zh.wikipedia.org/wiki/杉本清 "wikilink")。
 
 ## 参考資料
 

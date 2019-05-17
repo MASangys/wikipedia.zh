@@ -1,6 +1,6 @@
-**MIM-23鷹式飛彈**是[美國](../Page/美國.md "wikilink")[雷神公司研製的中距離](../Page/雷神公司.md "wikilink")[地對空飛彈](../Page/地對空飛彈.md "wikilink")，主要是用來對抗中低空飛行的飛機，填補的防禦空缺。其名稱「鷹式」（HAWK）是「全程歸向殺手」（Homing
+**MIM-23鷹式飛彈**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雷神公司研製的中距離](../Page/雷神公司.md "wikilink")[地對空飛彈](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")，主要是用來對抗中低空飛行的飛機，填補的防禦空缺。其名稱「鷹式」（HAWK）是「全程歸向殺手」（Homing
 All the Way
-Killer）的[縮寫](../Page/縮寫.md "wikilink")。中国音译**霍克导弹**。1994年美軍的鷹式飛彈以[MIM-104愛國者飛彈替換](../Page/MIM-104愛國者飛彈.md "wikilink")，[美國海軍陸戰隊的鷹式飛彈則在](../Page/美國海軍陸戰隊.md "wikilink")2002年以[刺針飛彈替換](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")，目前鷹式飛彈仍在美國以外的盟邦服役，總生產量至少有4萬枚。
+Killer）的[縮寫](../Page/縮寫.md "wikilink")。中国音译**霍克导弹**。1994年美軍的鷹式飛彈以[MIM-104愛國者飛彈替換](https://zh.wikipedia.org/wiki/MIM-104愛國者飛彈 "wikilink")，[美國海軍陸戰隊的鷹式飛彈則在](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")2002年以[刺針飛彈替換](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")，目前鷹式飛彈仍在美國以外的盟邦服役，總生產量至少有4萬枚。
 
 ## 型號
 
@@ -30,7 +30,7 @@ MIM-23M
 
 ## 中華民國服役現況
 
-由於鷹式飛彈服役多年，生產線早已經關閉，零配件取得不易，因此[中華民國國防部計劃在](../Page/中華民國國防部.md "wikilink")2020年前讓所有的鷹式飛彈退役。將由[天弓三型防空飛彈取代](../Page/天弓三型防空飛彈.md "wikilink")。
+由於鷹式飛彈服役多年，生產線早已經關閉，零配件取得不易，因此[中華民國國防部計劃在](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")2020年前讓所有的鷹式飛彈退役。將由[天弓三型防空飛彈取代](../Page/天弓三型防空飛彈.md "wikilink")。
 
 ## 評價
 

@@ -1,4 +1,4 @@
-《**有腦E班**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視製作的一個](../Page/亞洲電視.md "wikilink")[兒童節目](../Page/兒童節目.md "wikilink")，節目每日有不同主題，在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播岀](../Page/本港台.md "wikilink")，此節目接替同類型播了近7年的兒童節目《[亞洲電視兒童台](../Page/亞洲電視兒童台.md "wikilink")》。由[亞洲電視和](../Page/亞洲電視.md "wikilink")[紫荊雜誌社主辦的](../Page/紫荊雜誌社.md "wikilink")“中國改革開放30周年知識競賽”也曾在此節目播出。於2009年4月此節目已被《[媽媽不懂的事](../Page/媽媽不懂的事.md "wikilink")》所取代。
+《**有腦E班**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視製作的一個](../Page/亞洲電視.md "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，節目每日有不同主題，在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台播岀](../Page/本港台.md "wikilink")，此節目接替同類型播了近7年的兒童節目《[亞洲電視兒童台](https://zh.wikipedia.org/wiki/亞洲電視兒童台 "wikilink")》。由[亞洲電視和](../Page/亞洲電視.md "wikilink")[紫荊雜誌社主辦的](https://zh.wikipedia.org/wiki/紫荊雜誌社 "wikilink")“中國改革開放30周年知識競賽”也曾在此節目播出。於2009年4月此節目已被《[媽媽不懂的事](../Page/媽媽不懂的事.md "wikilink")》所取代。
 
 ## 播岀時間
 
@@ -16,36 +16,37 @@
 
   - [伍偉樂](../Page/伍偉樂.md "wikilink") (2007-2009年)
   - [黃慧敏](../Page/黃慧敏.md "wikilink")（2007－2008年）
-  - [翟威廉](../Page/翟鋒.md "wikilink")（2007－2008年）
-    轉投[無線電視](../Page/TVB.md "wikilink")
+  - [翟威廉](https://zh.wikipedia.org/wiki/翟鋒 "wikilink")（2007－2008年）
+    轉投[無線電視](https://zh.wikipedia.org/wiki/TVB "wikilink")
   - [李可瑩](../Page/李可瑩.md "wikilink") (2007－2009年)
   - [何卓瑩](../Page/何卓瑩.md "wikilink") (2008－2009年)
-  - [高思哲](../Page/高思哲.md "wikilink") (2008－2009年)
-  - [譚芷翎](../Page/譚芷翎.md "wikilink") (2008－2009年)
-  - [莊文康](../Page/莊文康.md "wikilink") (2008－2009年)
-  - [林雋健](../Page/林雋健.md "wikilink") (2008－2009年)
-  - [黃倩婷](../Page/黃倩婷.md "wikilink") (2009年)
+  - [高思哲](https://zh.wikipedia.org/wiki/高思哲 "wikilink") (2008－2009年)
+  - [譚芷翎](https://zh.wikipedia.org/wiki/譚芷翎 "wikilink") (2008－2009年)
+  - [莊文康](https://zh.wikipedia.org/wiki/莊文康 "wikilink") (2008－2009年)
+  - [林雋健](https://zh.wikipedia.org/wiki/林雋健 "wikilink") (2008－2009年)
+  - [黃倩婷](https://zh.wikipedia.org/wiki/黃倩婷 "wikilink") (2009年)
 
 ## 小主持
 
-  - [林雅雯](../Page/林雅雯.md "wikilink")（2007－2008年）
-  - [胡希文](../Page/胡希文.md "wikilink")（2007－2008年）
-  - [李用興](../Page/李用興.md "wikilink")（2007－2008年）
-  - [陳德強](../Page/陳德強.md "wikilink")（2007－2008年）
-  - [勞子諾](../Page/勞子諾.md "wikilink")（2008－2009年）
-  - [冼志律](../Page/冼志律.md "wikilink")（2008－2009年）
+  - [林雅雯](https://zh.wikipedia.org/wiki/林雅雯 "wikilink")（2007－2008年）
+  - [胡希文](https://zh.wikipedia.org/wiki/胡希文 "wikilink")（2007－2008年）
+  - [李用興](https://zh.wikipedia.org/wiki/李用興 "wikilink")（2007－2008年）
+  - [陳德強](https://zh.wikipedia.org/wiki/陳德強 "wikilink")（2007－2008年）
+  - [勞子諾](https://zh.wikipedia.org/wiki/勞子諾 "wikilink")（2008－2009年）
+  - [冼志律](https://zh.wikipedia.org/wiki/冼志律 "wikilink")（2008－2009年）
 
 ## 環節
 
-  - [中文加油站](../Page/中文加油站.md "wikilink")
-  - [至Hit新聞眼](../Page/至Hit新聞眼.md "wikilink")
-  - [英語Happy hour](../Page/英語Happy_hour.md "wikilink")
-  - [遊戲基地](../Page/遊戲基地_\(電視節目\).md "wikilink")
-  - [好玩自悠行](../Page/好玩自悠行.md "wikilink")
-  - [英語爬爬網](../Page/英語爬爬網.md "wikilink")
-  - [知趣派](../Page/知趣派.md "wikilink")
-  - [今日Good Show](../Page/今日Good_Show.md "wikilink")
-  - [魔法再現](../Page/魔法再現.md "wikilink")
+  - [中文加油站](https://zh.wikipedia.org/wiki/中文加油站 "wikilink")
+  - [至Hit新聞眼](https://zh.wikipedia.org/wiki/至Hit新聞眼 "wikilink")
+  - [英語Happy
+    hour](https://zh.wikipedia.org/wiki/英語Happy_hour "wikilink")
+  - [遊戲基地](https://zh.wikipedia.org/wiki/遊戲基地_\(電視節目\) "wikilink")
+  - [好玩自悠行](https://zh.wikipedia.org/wiki/好玩自悠行 "wikilink")
+  - [英語爬爬網](https://zh.wikipedia.org/wiki/英語爬爬網 "wikilink")
+  - [知趣派](https://zh.wikipedia.org/wiki/知趣派 "wikilink")
+  - [今日Good Show](https://zh.wikipedia.org/wiki/今日Good_Show "wikilink")
+  - [魔法再現](https://zh.wikipedia.org/wiki/魔法再現 "wikilink")
 
 ## 外部連結
 

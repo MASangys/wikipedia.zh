@@ -1,8 +1,8 @@
-《**美少女戰士SuperS**》（）是1995年3月4日到1996年3月2日播放的[日本動畫作品](../Page/日本動畫.md "wikilink")。
+《**美少女戰士SuperS**》（）是1995年3月4日到1996年3月2日播放的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要
 
-本作品是接續第三作《[美少女戰士S](../Page/美少女戰士S.md "wikilink")》的續作，是[美少女戰士系列的第四部作品](../Page/美少女戰士.md "wikilink")。特色是以[豆釘兔為主角](../Page/豆釘兔.md "wikilink")，描述了她與守護夢想世界的獨角馬之間的一段羅曼史。
+本作品是接續第三作《[美少女戰士S](../Page/美少女戰士S.md "wikilink")》的續作，是[美少女戰士系列的第四部作品](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")。特色是以[豆釘兔為主角](../Page/豆釘兔.md "wikilink")，描述了她與守護夢想世界的獨角馬之間的一段羅曼史。
 
 ## 故事背景
 
@@ -24,15 +24,15 @@
   - [豆釘兔](../Page/豆釘兔.md "wikilink")
   - [地場衛](../Page/地場衛.md "wikilink")
   - [水野亞美](../Page/水野亞美.md "wikilink")
-  - [火野麗](../Page/火野麗.md "wikilink")
+  - [火野麗](https://zh.wikipedia.org/wiki/火野麗 "wikilink")
   - [木野真琴](../Page/木野真琴.md "wikilink")
-  - [愛野美奈子](../Page/愛野美奈子.md "wikilink")
+  - [愛野美奈子](https://zh.wikipedia.org/wiki/愛野美奈子 "wikilink")
   - 艾利歐斯
   - 亞馬遜三重奏 - 禿鷹眼、老虎眼、美魚眼
   - 亞馬遜四重奏 (漫畫版有一設定為豆釘兔的四小行星守護戰士，分別為 Sailor Cereas、Sailor Juno、Sailor
     Pallas、Sailor Vesta)
   - 妮赫蕾妮亞女王
-  - [美少女戰士主要角色列表](../Page/美少女戰士主要角色列表.md "wikilink")
+  - [美少女戰士主要角色列表](https://zh.wikipedia.org/wiki/美少女戰士主要角色列表 "wikilink")
 
 ## 工作人員
 
@@ -85,18 +85,18 @@
   -
     主題曲「[**美少女不朽傳奇**](https://www.youtube.com/watch?v=1BSJyaolJkI)」
       -
-        填詞：[黃捷皓](../Page/黃捷皓.md "wikilink")　作曲：小諸鐵也　編曲：[李啟昌](../Page/李啟昌.md "wikilink")　主唱：[許思行](../Page/許思行.md "wikilink")
+        填詞：[黃捷皓](https://zh.wikipedia.org/wiki/黃捷皓 "wikilink")　作曲：小諸鐵也　編曲：[李啟昌](https://zh.wikipedia.org/wiki/李啟昌 "wikilink")　主唱：[許思行](../Page/許思行.md "wikilink")
     片尾曲「[**月亮下禱告**](https://www.youtube.com/watch?v=8fOW4gPSLXY)」
       -
-        填詞：[陳啟泰](../Page/陳啟泰.md "wikilink")　作曲：井上望　編曲：[李啟昌](../Page/李啟昌.md "wikilink")　主唱：許思行
+        填詞：[陳啟泰](../Page/陳啟泰.md "wikilink")　作曲：井上望　編曲：[李啟昌](https://zh.wikipedia.org/wiki/李啟昌 "wikilink")　主唱：許思行
     片尾曲「\[<https://www.youtube.com/watch?v=jXe5oOu_Sfs>**不必放棄**\]」
       -
-        填詞：[黃捷皓](../Page/黃捷皓.md "wikilink")　作曲：水野雅夫　編曲：Jean Michel
-        Ou　主唱：許思行
+        填詞：[黃捷皓](https://zh.wikipedia.org/wiki/黃捷皓 "wikilink")　作曲：水野雅夫　編曲：Jean
+        Michel Ou　主唱：許思行
 
 ## 獎項
 
-  - [1998年度兒歌金曲頒獎典禮](../Page/1998年度兒歌金曲頒獎典禮得獎名單.md "wikilink")－－「至Net兒歌大獎」-《不必放棄》
+  - [1998年度兒歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/1998年度兒歌金曲頒獎典禮得獎名單 "wikilink")－－「至Net兒歌大獎」-《不必放棄》
 
 ## 各集標題
 

@@ -1,7 +1,8 @@
 本条目记录《[Code Geass
-反叛的鲁路修](../Page/Code_Geass_反叛的鲁路修.md "wikilink")》、《[Code
-Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[Code Geass
-双貌的奥兹](../Page/Code_Geass_双貌的奥兹.md "wikilink")》中的世界观设定及专有名词。
+反叛的鲁路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的鲁路修 "wikilink")》、《[Code
+Geass
+亡國的AKITO](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")》和《[Code
+Geass 双貌的奥兹](../Page/Code_Geass_双貌的奥兹.md "wikilink")》中的世界观设定及专有名词。
 
 ## Geass
 
@@ -38,17 +39,17 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
 ### 动画
 
-  - 第一位證實擁有Geass的是[魯路修·蘭佩洛基](../Page/Code_Geass_人物列表#主角.md "wikilink")，能夠令對方絕對服從自己的命令「**絶對遵守之力**」，契約者為C.C.；
-  - 第二位證實擁有Geass的是[毛](../Page/Code_Geass_人物列表#其他.md "wikilink")，能夠閱讀對方的表層、深層思想「**讀取人心之結界**」，範圍為500米，但使用過多促使暴走關閉不起；導致不停聽取周遭的心聲感到痛苦，契約者為C.C.；
-  - 第三位證實擁有Geass的是[查理斯·D·不列顛尼亞](../Page/Code_Geass_人物列表#神聖不列顛尼亞帝國#皇族.md "wikilink")，能夠篡改、消除對方的任何記憶，契約者為V.V.；
-  - 第四位證實擁有Geass的是[羅洛·蘭佩洛基](../Page/Code_Geass_人物列表#阿什弗德學園#羅洛·蘭佩洛基.md "wikilink")，能夠癱瘓範圍內人們對時間的感官「**絕對靜止之結界**」，有效时间为5秒。他的Geass是研究Geass力量而進行各種人體實驗所產生出來的實驗品，因為只是實驗品，所以羅洛在使用Geass的同時，其心臟會暫時停跳，隨時可能心臟麻痺死亡的狀況\[1\]，发动能力时右眼出现Geass的标志。契約者推測為V.V.；
+  - 第一位證實擁有Geass的是[魯路修·蘭佩洛基](https://zh.wikipedia.org/wiki/Code_Geass_人物列表#主角 "wikilink")，能夠令對方絕對服從自己的命令「**絶對遵守之力**」，契約者為C.C.；
+  - 第二位證實擁有Geass的是[毛](https://zh.wikipedia.org/wiki/Code_Geass_人物列表#其他 "wikilink")，能夠閱讀對方的表層、深層思想「**讀取人心之結界**」，範圍為500米，但使用過多促使暴走關閉不起；導致不停聽取周遭的心聲感到痛苦，契約者為C.C.；
+  - 第三位證實擁有Geass的是[查理斯·D·不列顛尼亞](https://zh.wikipedia.org/wiki/Code_Geass_人物列表#神聖不列顛尼亞帝國#皇族 "wikilink")，能夠篡改、消除對方的任何記憶，契約者為V.V.；
+  - 第四位證實擁有Geass的是[羅洛·蘭佩洛基](https://zh.wikipedia.org/wiki/Code_Geass_人物列表#阿什弗德學園#羅洛·蘭佩洛基 "wikilink")，能夠癱瘓範圍內人們對時間的感官「**絕對靜止之結界**」，有效时间为5秒。他的Geass是研究Geass力量而進行各種人體實驗所產生出來的實驗品，因為只是實驗品，所以羅洛在使用Geass的同時，其心臟會暫時停跳，隨時可能心臟麻痺死亡的狀況\[1\]，发动能力时右眼出现Geass的标志。契約者推測為V.V.；
   - 第五位證實擁有Geass的是Geass向团中的男孩，能力是操纵他人的身体，但被操纵者有自己的意识，发动能力时右眼出现Geass的标志。契约者推测为V.V.；
   - 第六位證實擁有Geass的是C.C.，能力是被他人所愛，契約者為收養她的修女；
   - 第七位證實擁有Geass的是魯路修的母親——瑪利安娜。能力是進入他人的心灵空間（将自己的灵魂，意识等转入到他人身上），只能在臨死前使用的Geass，同時也能回歸死亡的軀體復活，契約者為C.C.；
   - 第八位證實擁有Geass的是俾斯麥·瓦爾德施泰因（Knight of
     One），其能力為看透對手未來幾秒前的動作「**預知未來之力**」，在俾斯麥眼裡看來是對方的殘像先行移動道指定位置，契約者推測為V.V.；
-  - 第九位證實擁有Geass的是《[亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》中的真·日向·夏英格，其能力為操纵他人。契約者不明，推斷為所屬日本宗教團體窩藏的的Code；
-  - 第十位证实拥有Geass的是《[亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》中的莱拉，能力為時空穿梭及心靈共享。契约者为C.C.。
+  - 第九位證實擁有Geass的是《[亡國的AKITO](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")》中的真·日向·夏英格，其能力為操纵他人。契約者不明，推斷為所屬日本宗教團體窩藏的的Code；
+  - 第十位证实拥有Geass的是《[亡國的AKITO](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")》中的莱拉，能力為時空穿梭及心靈共享。契约者为C.C.。
 
 ### 游戏
 
@@ -118,20 +119,20 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 ###
 
   -
-    作品中虛構的超級大國，以現實的[大英帝國為本](../Page/大英帝國.md "wikilink")，地理位置位於[美洲](../Page/美洲.md "wikilink")，首都潘德拉刚（ペンドラゴン）（Pendragon\[4\]），官方語言是[英文](../Page/英文.md "wikilink")，国歌“All
+    作品中虛構的超級大國，以現實的[大英帝國為本](https://zh.wikipedia.org/wiki/大英帝國 "wikilink")，地理位置位於[美洲](../Page/美洲.md "wikilink")，首都潘德拉刚（ペンドラゴン）（Pendragon\[4\]），官方語言是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")，国歌“All
     Hail Britannia\!\!\!”。
-    原本是位於現今[歐洲的](../Page/歐洲.md "wikilink")[大不列顛島地區](../Page/大不列顛島.md "wikilink")，在[特拉法加海戰中敗給了](../Page/特拉法加海戰.md "wikilink")[歐洲的民權主義革命勢力](../Page/歐洲.md "wikilink")，女王伊麗莎白三世在[愛丁堡被革命勢力所包圍](../Page/愛丁堡.md "wikilink")。在此之後，正在美洲進行侵略[印第安人與殖民的貴族不列顛尼亞公爵](../Page/印第安人.md "wikilink")，宣布將不列顛尼亞帝國遷都到[美洲](../Page/美洲.md "wikilink")。
+    原本是位於現今[歐洲的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[大不列顛島地區](../Page/大不列顛島.md "wikilink")，在[特拉法加海戰中敗給了](../Page/特拉法加海戰.md "wikilink")[歐洲的民權主義革命勢力](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，女王伊麗莎白三世在[愛丁堡被革命勢力所包圍](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")。在此之後，正在美洲進行侵略[印第安人與殖民的貴族不列顛尼亞公爵](https://zh.wikipedia.org/wiki/印第安人 "wikilink")，宣布將不列顛尼亞帝國遷都到[美洲](../Page/美洲.md "wikilink")。
 
 #### 不列颠帝国政治体制
 
   -
-    表面上看是由[皇帝一族血親所獨裁的](../Page/英國王室.md "wikilink")[專制國家](../Page/專制.md "wikilink")（註：現今英國實施[君主立憲制](../Page/君主立憲制.md "wikilink")）；而政治方面有別於現今英國實行的[內閣制](../Page/內閣制.md "wikilink")（由執政黨黨魁兼任[首相](../Page/英國首相.md "wikilink")），而[不列顛尼亞帝國內閣總理大臣此一職位由](../Page/英國首相.md "wikilink")[第二皇子修奈傑爾兼任](../Page/約克公爵.md "wikilink")。其地理位置與軍事力量與現實世界的[美國有很多相似之處](../Page/美國.md "wikilink")。
+    表面上看是由[皇帝一族血親所獨裁的](../Page/英國王室.md "wikilink")[專制國家](https://zh.wikipedia.org/wiki/專制 "wikilink")（註：現今英國實施[君主立憲制](https://zh.wikipedia.org/wiki/君主立憲制 "wikilink")）；而政治方面有別於現今英國實行的[內閣制](https://zh.wikipedia.org/wiki/內閣制 "wikilink")（由執政黨黨魁兼任[首相](https://zh.wikipedia.org/wiki/英國首相 "wikilink")），而[不列顛尼亞帝國內閣總理大臣此一職位由](https://zh.wikipedia.org/wiki/英國首相 "wikilink")[第二皇子修奈傑爾兼任](https://zh.wikipedia.org/wiki/約克公爵 "wikilink")。其地理位置與軍事力量與現實世界的[美國有很多相似之處](https://zh.wikipedia.org/wiki/美國 "wikilink")。
     但从R2 TURN
-    4中看出神圣不列颠帝国仍继承了英国的部分政治制度，如[上议院](../Page/英国上议院.md "wikilink")（House
+    4中看出神圣不列颠帝国仍继承了英国的部分政治制度，如[上议院](https://zh.wikipedia.org/wiki/英国上议院 "wikilink")（House
     of
-    Lords）和参议院（Senate），威廉·H·赫尔姆斯利（田纳西州参议院议员）因反对上议院将第八区降级而遭到罗洛暗杀，说明议会有制约皇族的能力\[5\]。所以说神圣不列颠帝国的政治制度更**接近**[二元制君主立宪制](../Page/君主立宪制#二元制君主立憲制.md "wikilink")（或普鲁士宪政制）。
+    Lords）和参议院（Senate），威廉·H·赫尔姆斯利（田纳西州参议院议员）因反对上议院将第八区降级而遭到罗洛暗杀，说明议会有制约皇族的能力\[5\]。所以说神圣不列颠帝国的政治制度更**接近**[二元制君主立宪制](https://zh.wikipedia.org/wiki/君主立宪制#二元制君主立憲制 "wikilink")（或普鲁士宪政制）。
     从《Code Geass
-    亡国的AKITO》中欧洲不列颠的存在说明神圣不列颠帝国**似乎**还存在着[分封制](../Page/封建制度_\(欧洲\).md "wikilink")。
+    亡国的AKITO》中欧洲不列颠的存在说明神圣不列颠帝国**似乎**还存在着[分封制](https://zh.wikipedia.org/wiki/封建制度_\(欧洲\) "wikilink")。
 
 #### 不列颠帝国阶级
 
@@ -169,7 +170,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 <tbody>
 <tr class="odd">
 <td><p>皇历之前</p></td>
-<td><p><a href="../Page/罗马帝国.md" title="wikilink">罗马帝国皇帝</a><a href="../Page/凯撒大帝.md" title="wikilink">凯撒对</a><a href="../Page/大不列顛岛.md" title="wikilink">不列顛尼亞展开侵略</a>，与当时的住民<a href="../Page/凯尔特.md" title="wikilink">凯尔特各部落发生战斗</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗马帝国" title="wikilink">罗马帝国皇帝</a><a href="https://zh.wikipedia.org/wiki/凯撒大帝" title="wikilink">凯撒对</a><a href="https://zh.wikipedia.org/wiki/大不列顛岛" title="wikilink">不列顛尼亞展开侵略</a>，与当时的住民<a href="https://zh.wikipedia.org/wiki/凯尔特" title="wikilink">凯尔特各部落发生战斗</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历元年</p></td>
@@ -178,63 +179,63 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 </tr>
 <tr class="odd">
 <td><p>皇历14－15世纪</p></td>
-<td><p><a href="../Page/大航海时代.md" title="wikilink">大航海时代因为当时风行欧洲的</a><a href="../Page/炼金术.md" title="wikilink">炼金术对于被称为</a><a href="../Page/贤者之石.md" title="wikilink">贤者之石的櫻石作为能源的可行性研究而展开</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/大航海时代" title="wikilink">大航海时代因为当时风行欧洲的</a><a href="../Page/炼金术.md" title="wikilink">炼金术对于被称为</a><a href="https://zh.wikipedia.org/wiki/贤者之石" title="wikilink">贤者之石的櫻石作为能源的可行性研究而展开</a><br />
 在<a href="../Page/马可·波罗.md" title="wikilink">马可·波罗的著作</a>《马可·波罗游记》中提到，东方的岛国日本有大量的櫻石储量。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历1603年</p></td>
 <td><p><a href="../Page/伊丽莎白一世.md" title="wikilink">伊丽莎白一世去世</a>，其子亨利九世继位，其父被认为可能是<br />
-<a href="../Page/第一代莱斯特伯爵.md" title="wikilink">第一代莱斯特伯爵</a><a href="../Page/罗伯特·达德利.md" title="wikilink">罗伯特·达德利</a>、<a href="../Page/伊塞克斯伯爵.md" title="wikilink">伊塞克斯伯爵</a><a href="../Page/罗伯特·德沃罗.md" title="wikilink">罗伯特·德沃罗</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/第一代莱斯特伯爵" title="wikilink">第一代莱斯特伯爵</a><a href="https://zh.wikipedia.org/wiki/罗伯特·达德利" title="wikilink">罗伯特·达德利</a>、<a href="https://zh.wikipedia.org/wiki/伊塞克斯伯爵" title="wikilink">伊塞克斯伯爵</a><a href="https://zh.wikipedia.org/wiki/罗伯特·德沃罗" title="wikilink">罗伯特·德沃罗</a>、<br />
 以及当时的不列顛尼亞公爵卡尔三人中的一人。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历1770年</p></td>
-<td><p><a href="../Page/北美.md" title="wikilink">北美地区爆发了</a><a href="../Page/乔治·华盛顿.md" title="wikilink">华盛顿领导的</a><a href="../Page/美国独立战争.md" title="wikilink">叛乱</a>，当时的不列颠尼亚公爵在巴黎收买策反了大陸架前往<a href="../Page/欧洲.md" title="wikilink">欧洲向法国国王</a><a href="../Page/路易十六.md" title="wikilink">路易十六请求支援的</a><a href="../Page/本杰明·富兰克林.md" title="wikilink">本杰明·富兰克林</a>，使得皇家海軍在百慕大一举击溃前往新约克城支援的法国海军。<br />
-<a href="../Page/大陆军.md" title="wikilink">大陆军在</a><a href="../Page/约克镇.md" title="wikilink">约克镇败北</a>，华盛顿被黑森散兵射杀，英属北美十三州由此開始向<a href="../Page/西部运动.md" title="wikilink">西部运动</a>，富兰克林也因此晋封伯爵爵位，而後主導了伦敦对北美的种植园业与农业政策，成为<a href="../Page/上议院.md" title="wikilink">上议院议员</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北美" title="wikilink">北美地区爆发了</a><a href="../Page/乔治·华盛顿.md" title="wikilink">华盛顿领导的</a><a href="https://zh.wikipedia.org/wiki/美国独立战争" title="wikilink">叛乱</a>，当时的不列颠尼亚公爵在巴黎收买策反了大陸架前往<a href="../Page/欧洲.md" title="wikilink">欧洲向法国国王</a><a href="../Page/路易十六.md" title="wikilink">路易十六请求支援的</a><a href="https://zh.wikipedia.org/wiki/本杰明·富兰克林" title="wikilink">本杰明·富兰克林</a>，使得皇家海軍在百慕大一举击溃前往新约克城支援的法国海军。<br />
+<a href="https://zh.wikipedia.org/wiki/大陆军" title="wikilink">大陆军在</a><a href="https://zh.wikipedia.org/wiki/约克镇" title="wikilink">约克镇败北</a>，华盛顿被黑森散兵射杀，英属北美十三州由此開始向<a href="https://zh.wikipedia.org/wiki/西部运动" title="wikilink">西部运动</a>，富兰克林也因此晋封伯爵爵位，而後主導了伦敦对北美的种植园业与农业政策，成为<a href="https://zh.wikipedia.org/wiki/上议院" title="wikilink">上议院议员</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇歷1789年</p></td>
-<td><p><a href="../Page/法国大革命.md" title="wikilink">法国大革命爆發</a>，欧洲大陆密布在革命的阴云之下，后法王<a href="../Page/路易十六.md" title="wikilink">路易十六被推上断头台</a>，法国召开<a href="../Page/制宪会议.md" title="wikilink">制宪会议</a>，<a href="../Page/法兰西第一共和国.md" title="wikilink">法兰西第一共和国成立</a>。</p></td>
+<td><p><a href="../Page/法国大革命.md" title="wikilink">法国大革命爆發</a>，欧洲大陆密布在革命的阴云之下，后法王<a href="../Page/路易十六.md" title="wikilink">路易十六被推上断头台</a>，法国召开<a href="https://zh.wikipedia.org/wiki/制宪会议" title="wikilink">制宪会议</a>，<a href="../Page/法兰西第一共和国.md" title="wikilink">法兰西第一共和国成立</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历18世纪末~19世纪</p></td>
-<td><p>迫于恐怖组织和雅格兵派，热月党人最终上台，1804年<a href="../Page/拿破仑.md" title="wikilink">拿破仑登上历史舞台</a>，加冕为<a href="../Page/法兰西第一帝国.md" title="wikilink">法兰西第一帝国皇帝</a>，间接控制了莱茵河以西地区（莱茵联邦）和<a href="../Page/撒丁王国.md" title="wikilink">撒丁王国</a>。<a href="../Page/反法同盟.md" title="wikilink">反法同盟组建</a>，共和战争开始。</p></td>
+<td><p>迫于恐怖组织和雅格兵派，热月党人最终上台，1804年<a href="https://zh.wikipedia.org/wiki/拿破仑" title="wikilink">拿破仑登上历史舞台</a>，加冕为<a href="../Page/法兰西第一帝国.md" title="wikilink">法兰西第一帝国皇帝</a>，间接控制了莱茵河以西地区（莱茵联邦）和<a href="https://zh.wikipedia.org/wiki/撒丁王国" title="wikilink">撒丁王国</a>。<a href="../Page/反法同盟.md" title="wikilink">反法同盟组建</a>，共和战争开始。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历1805年</p></td>
-<td><p><a href="../Page/法蘭西第一帝國.md" title="wikilink">法蘭西第一帝國攻下</a><a href="../Page/柯尼斯堡.md" title="wikilink">柯尼斯堡与</a><a href="../Page/罗马.md" title="wikilink">罗马后</a>，法国继承了<a href="../Page/勃兰登堡.md" title="wikilink">勃兰登堡与</a><a href="../Page/那不勒斯.md" title="wikilink">那不勒斯的王位加之先前</a><a href="../Page/半岛战争.md" title="wikilink">半岛战争赢得了</a><a href="../Page/伊比利亚.md" title="wikilink">伊比利亚两国的王位</a>，间接控制了美洲大部分殖民地；法国-西班牙联合舰队在<a href="../Page/特拉法加海战.md" title="wikilink">特拉法加海战中获胜</a>，进而攻向<a href="../Page/伦敦.md" title="wikilink">伦敦与</a><a href="../Page/维也纳.md" title="wikilink">维也纳</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法蘭西第一帝國" title="wikilink">法蘭西第一帝國攻下</a><a href="../Page/柯尼斯堡.md" title="wikilink">柯尼斯堡与</a><a href="../Page/罗马.md" title="wikilink">罗马后</a>，法国继承了<a href="../Page/勃兰登堡.md" title="wikilink">勃兰登堡与</a><a href="../Page/那不勒斯.md" title="wikilink">那不勒斯的王位加之先前</a><a href="../Page/半岛战争.md" title="wikilink">半岛战争赢得了</a><a href="https://zh.wikipedia.org/wiki/伊比利亚" title="wikilink">伊比利亚两国的王位</a>，间接控制了美洲大部分殖民地；法国-西班牙联合舰队在<a href="https://zh.wikipedia.org/wiki/特拉法加海战" title="wikilink">特拉法加海战中获胜</a>，进而攻向<a href="../Page/伦敦.md" title="wikilink">伦敦与</a><a href="https://zh.wikipedia.org/wiki/维也纳" title="wikilink">维也纳</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历1807年</p></td>
 <td><p>随着英格兰的沦陷与布达佩斯的投诚，当时的女王伊丽莎白三世被迫退至<a href="../Page/爱丁堡.md" title="wikilink">爱丁堡地区</a>，被革命市民与军人逮捕，被迫发表废除君主制的宣言，后世人称「爱丁堡之辱」。<br />
-在当时的不列顛尼亞公爵里卡多·冯·不列顛尼亞以及其朋友和部下，当时的第一圆桌骑士里查德·海克特的帮助下，通過<a href="../Page/皇家海軍.md" title="wikilink">皇家海軍</a>（HMS），王室逃往被称为新大陆的北美地区，<a href="../Page/君主制.md" title="wikilink">君主制在</a><a href="../Page/新大陆.md" title="wikilink">新大陆得以继续存在</a>。</p></td>
+在当时的不列顛尼亞公爵里卡多·冯·不列顛尼亞以及其朋友和部下，当时的第一圆桌骑士里查德·海克特的帮助下，通過<a href="https://zh.wikipedia.org/wiki/皇家海軍" title="wikilink">皇家海軍</a>（HMS），王室逃往被称为新大陆的北美地区，<a href="https://zh.wikipedia.org/wiki/君主制" title="wikilink">君主制在</a><a href="https://zh.wikipedia.org/wiki/新大陆" title="wikilink">新大陆得以继续存在</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历1813年</p></td>
 <td><p><a href="../Page/都铎王朝.md" title="wikilink">都铎王朝王室血脉断绝</a>，不列颠尼亚公爵里卡多·冯·不列顛尼亞继位，<br />
-人称不列顛尼亞一世，国家制度由王制改为帝制，国号也改为<a href="../Page/大英帝國.md" title="wikilink">不列顛尼亞帝国</a>，<br />
+人称不列顛尼亞一世，国家制度由王制改为帝制，国号也改为<a href="https://zh.wikipedia.org/wiki/大英帝國" title="wikilink">不列顛尼亞帝国</a>，<br />
 以先祖阿尔温一世即位之年作为帝国皇历元年。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历1841年</p></td>
-<td><p>帝国制度受中华联邦影响（西渡美洲运动），开始<a href="../Page/二元君主制.md" title="wikilink">二元君主制改革</a>，由<a href="../Page/上议院.md" title="wikilink">上议院和</a><a href="../Page/参议院.md" title="wikilink">参议院组成的州制度开始制约皇权</a>。</p></td>
+<td><p>帝国制度受中华联邦影响（西渡美洲运动），开始<a href="https://zh.wikipedia.org/wiki/二元君主制" title="wikilink">二元君主制改革</a>，由<a href="https://zh.wikipedia.org/wiki/上议院" title="wikilink">上议院和</a><a href="https://zh.wikipedia.org/wiki/参议院" title="wikilink">参议院组成的州制度开始制约皇权</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历1853年</p></td>
-<td><p>时任神圣不列颠帝国宰相<a href="../Page/林肯.md" title="wikilink">林肯发表</a><a href="../Page/解放黑奴宣言.md" title="wikilink">解放黑奴宣言</a>，帝国借由进攻<a href="../Page/德克萨斯.md" title="wikilink">德克萨斯公国</a>，其所在政党支持率逐步上升。</p></td>
+<td><p>时任神圣不列颠帝国宰相<a href="https://zh.wikipedia.org/wiki/林肯" title="wikilink">林肯发表</a><a href="https://zh.wikipedia.org/wiki/解放黑奴宣言" title="wikilink">解放黑奴宣言</a>，帝国借由进攻<a href="https://zh.wikipedia.org/wiki/德克萨斯" title="wikilink">德克萨斯公国</a>，其所在政党支持率逐步上升。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历1902~1910年</p></td>
-<td><p>第一次美洲战争爆发，不列颠帝国向南扩展，与欧罗巴共和国革命军在<a href="../Page/古巴.md" title="wikilink">古巴</a>、<a href="../Page/海地.md" title="wikilink">海地与</a><a href="../Page/危地马拉.md" title="wikilink">危地马拉正面作战</a>，最后迫于巴黎方面与巴塞罗那的不合，歐羅巴共和國退出在中美洲和<a href="../Page/大哥伦比亚.md" title="wikilink">大哥伦比亚地区的殖民竞争</a>，次年欧属<a href="../Page/中美洲联邦.md" title="wikilink">中美洲联邦及圣哥伦比亚大公国宣告解散</a>。第一次美洲戰爭爆發六年后，欧属<a href="../Page/巴西.md" title="wikilink">巴西联邦发生由不列颠策划的君主制革命</a>，第二次美洲战争爆发，同年不列颠门罗伯爵发表著名的<a href="../Page/门罗演说.md" title="wikilink">门罗演说</a>，提出以美洲统一主义以及孤立主义为導向的<a href="../Page/门罗主义.md" title="wikilink">门罗主义</a>，帝国军队进驻<a href="../Page/秘鲁.md" title="wikilink">秘鲁与</a><a href="../Page/智利.md" title="wikilink">智利</a>，同时进攻<a href="../Page/圭亚那.md" title="wikilink">圭亚那与</a><a href="../Page/委内瑞拉.md" title="wikilink">委内瑞拉</a>，巴黎派遣地中海舰队与不列颠大西洋皇家海军在<a href="../Page/加勒比海.md" title="wikilink">加勒比海展开了加勒比战役</a>，最终以共和舰队的失败而告终，第二次美洲战争共和国战败，巴黎方面宣布解放所有南美殖民区（实际上已被不列颠帝國接管）。</p></td>
+<td><p>第一次美洲战争爆发，不列颠帝国向南扩展，与欧罗巴共和国革命军在<a href="../Page/古巴.md" title="wikilink">古巴</a>、<a href="../Page/海地.md" title="wikilink">海地与</a><a href="../Page/危地马拉.md" title="wikilink">危地马拉正面作战</a>，最后迫于巴黎方面与巴塞罗那的不合，歐羅巴共和國退出在中美洲和<a href="https://zh.wikipedia.org/wiki/大哥伦比亚" title="wikilink">大哥伦比亚地区的殖民竞争</a>，次年欧属<a href="https://zh.wikipedia.org/wiki/中美洲联邦" title="wikilink">中美洲联邦及圣哥伦比亚大公国宣告解散</a>。第一次美洲戰爭爆發六年后，欧属<a href="../Page/巴西.md" title="wikilink">巴西联邦发生由不列颠策划的君主制革命</a>，第二次美洲战争爆发，同年不列颠门罗伯爵发表著名的<a href="https://zh.wikipedia.org/wiki/门罗演说" title="wikilink">门罗演说</a>，提出以美洲统一主义以及孤立主义为導向的<a href="../Page/门罗主义.md" title="wikilink">门罗主义</a>，帝国军队进驻<a href="../Page/秘鲁.md" title="wikilink">秘鲁与</a><a href="../Page/智利.md" title="wikilink">智利</a>，同时进攻<a href="../Page/圭亚那.md" title="wikilink">圭亚那与</a><a href="https://zh.wikipedia.org/wiki/委内瑞拉" title="wikilink">委内瑞拉</a>，巴黎派遣地中海舰队与不列颠大西洋皇家海军在<a href="../Page/加勒比海.md" title="wikilink">加勒比海展开了加勒比战役</a>，最终以共和舰队的失败而告终，第二次美洲战争共和国战败，巴黎方面宣布解放所有南美殖民区（实际上已被不列颠帝國接管）。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历20世紀</p></td>
-<td><p>北美為不列顛尼亞，故<a href="../Page/黑船事件.md" title="wikilink">黑船事件未發生</a>，日本的<a href="../Page/明治維新.md" title="wikilink">明治維新較晚</a>，故較晚發展成<a href="../Page/帝國主義.md" title="wikilink">帝國主義國家</a><br />
-歐洲強權與不列顛尼亞對立，中國皇權未受歐洲強權挑戰，在<a href="../Page/甲午戰爭.md" title="wikilink">甲午戰爭中戰勝日本</a>。</p></td>
+<td><p>北美為不列顛尼亞，故<a href="https://zh.wikipedia.org/wiki/黑船事件" title="wikilink">黑船事件未發生</a>，日本的<a href="https://zh.wikipedia.org/wiki/明治維新" title="wikilink">明治維新較晚</a>，故較晚發展成<a href="https://zh.wikipedia.org/wiki/帝國主義" title="wikilink">帝國主義國家</a><br />
+歐洲強權與不列顛尼亞對立，中國皇權未受歐洲強權挑戰，在<a href="https://zh.wikipedia.org/wiki/甲午戰爭" title="wikilink">甲午戰爭中戰勝日本</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>皇历2010年</p></td>
-<td><p>不列顛尼亞帝国對日本發動第二次<a href="../Page/太平洋战爭.md" title="wikilink">太平洋战爭</a>，因為新型人形戰爭機甲Kngihtmare的投入，日本随后在一个月内投降，改为不列顛尼亞帝国第11区。</p></td>
+<td><p>不列顛尼亞帝国對日本發動第二次<a href="https://zh.wikipedia.org/wiki/太平洋战爭" title="wikilink">太平洋战爭</a>，因為新型人形戰爭機甲Kngihtmare的投入，日本随后在一个月内投降，改为不列顛尼亞帝国第11区。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历2017年</p></td>
@@ -243,12 +244,12 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 <tr class="odd">
 <td><p>皇历2018年</p></td>
 <td><p>Zero率领黑色骑士团再次出现，并宣布再次成立日本合众国<br />
-不列顛尼亞帝國第98代皇帝查爾斯·Di·不列顛尼亞<a href="../Page/駕崩.md" title="wikilink">駕崩</a>，並由其子魯路修·Vi·不列顛尼亞繼位。</p></td>
+不列顛尼亞帝國第98代皇帝查爾斯·Di·不列顛尼亞<a href="https://zh.wikipedia.org/wiki/駕崩" title="wikilink">駕崩</a>，並由其子魯路修·Vi·不列顛尼亞繼位。</p></td>
 </tr>
 <tr class="even">
 <td><p>皇历2019年</p></td>
 <td><p>零之鎮魂曲，不列顛尼亞帝國第99代皇帝魯路修·Vi·不列顛尼亞駕崩<br />
-其妹娜娜莉·Vi·不列顛尼亞成為由原不列顛尼亞帝國改制的<a href="../Page/大英國協.md" title="wikilink">不列顛尼亞合眾國領導人</a>。</p></td>
+其妹娜娜莉·Vi·不列顛尼亞成為由原不列顛尼亞帝國改制的<a href="https://zh.wikipedia.org/wiki/大英國協" title="wikilink">不列顛尼亞合眾國領導人</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -257,8 +258,8 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
   -
     在《Code Geass
-    反叛的鲁路修》开始时以強大的軍事力征服了世界近3分之1的版圖。主要领土有：现实世界中的整个[美洲](../Page/美洲.md "wikilink")（註：現今美洲大陸只有[加拿大為](../Page/加拿大.md "wikilink")[大英國協的一員](../Page/大英國協.md "wikilink")），亚洲的[日本](../Page/日本.md "wikilink")，以及大洋洲的[新西兰](../Page/新西兰.md "wikilink")（現今亦為[大英國協的一員](../Page/大英國協.md "wikilink")）和歐洲的[冰島](../Page/冰島.md "wikilink")。STAGE
-    5后由柯内莉亚率部占领[中东的](../Page/中东.md "wikilink")[北非地区](../Page/北非.md "wikilink")，之后神圣不列颠帝国在北非、欧洲等地与EU展开激战，最後與EU達成停戰協議。從EU手中奪取了非洲的[北非](../Page/北非.md "wikilink")、[西非](../Page/西非.md "wikilink")、[南非](../Page/南非.md "wikilink")，歐洲的[西](../Page/西班牙.md "wikilink")、[葡](../Page/葡萄牙.md "wikilink")、[低地三小國](../Page/比荷盧三國關稅同盟.md "wikilink")、[俄羅斯](../Page/俄羅斯.md "wikilink")（从EU和中华联邦处夺取了整个西伯利亚地区）等共2分之一的領土。
+    反叛的鲁路修》开始时以強大的軍事力征服了世界近3分之1的版圖。主要领土有：现实世界中的整个[美洲](../Page/美洲.md "wikilink")（註：現今美洲大陸只有[加拿大為](../Page/加拿大.md "wikilink")[大英國協的一員](https://zh.wikipedia.org/wiki/大英國協 "wikilink")），亚洲的[日本](../Page/日本.md "wikilink")，以及大洋洲的[新西兰](../Page/新西兰.md "wikilink")（現今亦為[大英國協的一員](https://zh.wikipedia.org/wiki/大英國協 "wikilink")）和歐洲的[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")。STAGE
+    5后由柯内莉亚率部占领[中东的](../Page/中东.md "wikilink")[北非地区](https://zh.wikipedia.org/wiki/北非 "wikilink")，之后神圣不列颠帝国在北非、欧洲等地与EU展开激战，最後與EU達成停戰協議。從EU手中奪取了非洲的[北非](https://zh.wikipedia.org/wiki/北非 "wikilink")、[西非](../Page/西非.md "wikilink")、[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，歐洲的[西](../Page/西班牙.md "wikilink")、[葡](../Page/葡萄牙.md "wikilink")、[低地三小國](https://zh.wikipedia.org/wiki/比荷盧三國關稅同盟 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")（从EU和中华联邦处夺取了整个西伯利亚地区）等共2分之一的領土。
     超合眾國與不列顛尼亞帝國在東京租界對峙，在魯路修弒父篡位成為不列顛尼亞新皇帝後，不列顛尼亞帝國跟修奈傑爾為首的舊皇帝派與超合眾國展開最終決戰，结果是鲁路修取胜。在Freyja的核威慑下，E.U.最终加入不列颠帝国。
 
 #### 不列顛尼亞帝國佔領區
@@ -273,14 +274,14 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
     《双貌的OZ》小说版第12回的设定中，**[泰国](../Page/泰国.md "wikilink")**是不列颠帝国与中华联邦共同统治的地区。
   -
     現在被不列顛尼亞帝國侵略而亡國，成為由不列顛尼亞帝國直接操控的第11區（Area
-    11），位於[東北亞的](../Page/東北亞.md "wikilink")[島國](../Page/島國.md "wikilink")——**[日本](../Page/日本.md "wikilink")**。
+    11），位於[東北亞的](https://zh.wikipedia.org/wiki/東北亞 "wikilink")[島國](https://zh.wikipedia.org/wiki/島國 "wikilink")——**[日本](../Page/日本.md "wikilink")**。
     本作品的日本，在不列顛尼亞帝國侵略第10區（Area
-    10）前是[中立國](../Page/中立國.md "wikilink")。另外軍隊殘存的反抗勢力所穿的制服不同於[自衛隊的樣式](../Page/自衛隊.md "wikilink")，而是接近於[大日本帝國陸軍的樣式](../Page/大日本帝國陸軍.md "wikilink")。
-    雖然舊政府被不列顛尼亞帝國所征服，但各地的反抗勢力正積極的活躍著，一些反抗勢力在日本各地有著[要塞規模的據點](../Page/要塞.md "wikilink")，另一些則擁有[重兵器甚至是Knightmare機架](../Page/重兵器.md "wikilink")，反抗軍包括了舊政府軍隊殘存份子與新成立的反抗勢力。因此不列顛尼亞帝國並沒有完全掌控日本全土，所以被划分为发展区\[6\]，黑色叛乱后被降级为矫正区\[7\]。
+    10）前是[中立國](../Page/中立國.md "wikilink")。另外軍隊殘存的反抗勢力所穿的制服不同於[自衛隊的樣式](https://zh.wikipedia.org/wiki/自衛隊 "wikilink")，而是接近於[大日本帝國陸軍的樣式](../Page/大日本帝國陸軍.md "wikilink")。
+    雖然舊政府被不列顛尼亞帝國所征服，但各地的反抗勢力正積極的活躍著，一些反抗勢力在日本各地有著[要塞規模的據點](../Page/要塞.md "wikilink")，另一些則擁有[重兵器甚至是Knightmare機架](https://zh.wikipedia.org/wiki/重兵器 "wikilink")，反抗軍包括了舊政府軍隊殘存份子與新成立的反抗勢力。因此不列顛尼亞帝國並沒有完全掌控日本全土，所以被划分为发展区\[6\]，黑色叛乱后被降级为矫正区\[7\]。
   -
-    以當地人的長相，服裝與沙漠地形看來，似乎是位於[中東的](../Page/中東.md "wikilink")[阿拉伯國家](../Page/阿拉伯.md "wikilink")，在STAGE
+    以當地人的長相，服裝與沙漠地形看來，似乎是位於[中東的](https://zh.wikipedia.org/wiki/中東 "wikilink")[阿拉伯國家](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")，在STAGE
     5中與柯內莉亞的侵略部隊展開戰鬥，當地軍隊駕駛著體積龐大的Knightmare仿製品，由於行動遲緩，機動性不足，被柯內莉亞的部隊所消滅並被改成了不列顛尼亞帝國的第18區。
-    《亡国的AKITO》小说版第2回提到第18区是**[北非](../Page/北非.md "wikilink")**。STAGE
+    《亡国的AKITO》小说版第2回提到第18区是**[北非](https://zh.wikipedia.org/wiki/北非 "wikilink")**。STAGE
     9中柯内莉亚提到的不列颠帝国与EU交战的前线——阿拉曼战线也位于北非。
   -
     《双貌的OZ
@@ -290,8 +291,8 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
 ##### 政治與文化
 
-  - 不列顛尼亞帝國雖然表面上種族平等，內部其實存在著極深的種族歧視，日本人飽受不平等待遇，即使是名譽不列顛尼亞人，在軍隊中只能擔任下級士兵，被不列顛尼亞帝國當成[砲灰利用](../Page/砲灰.md "wikilink")。
-  - 不列顛尼亞帝國在文化上也進行侵略與分化政策，抹消日本的[漢字等文字](../Page/漢字.md "wikilink")，改以[英文取而代之](../Page/英文.md "wikilink")，劇中以[片假名稱呼這些被英文取代的文字](../Page/片假名.md "wikilink")。
+  - 不列顛尼亞帝國雖然表面上種族平等，內部其實存在著極深的種族歧視，日本人飽受不平等待遇，即使是名譽不列顛尼亞人，在軍隊中只能擔任下級士兵，被不列顛尼亞帝國當成[砲灰利用](https://zh.wikipedia.org/wiki/砲灰 "wikilink")。
+  - 不列顛尼亞帝國在文化上也進行侵略與分化政策，抹消日本的[漢字等文字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，改以[英文取而代之](https://zh.wikipedia.org/wiki/英文 "wikilink")，劇中以[片假名稱呼這些被英文取代的文字](../Page/片假名.md "wikilink")。
   - 含有日本人血統的藝術家只能參賽，實際上卻沒有得獎機會。
 
 ##### 資源、經濟與兩極化社會
@@ -306,8 +307,8 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
     E.U.在《反叛的鲁路修》称为“Euro
     Universe”。在《亡国的AKITO》中称为「**歐羅巴聯合共和國**」，英文全名「Europia
     United」\[8\]。
-    由歐洲各主要的國家發起，成立的類似[歐洲聯盟之類的多國家鬆散政治組織](../Page/歐洲聯盟.md "wikilink")，首都[巴黎](../Page/巴黎.md "wikilink")，官方语言似乎是法语\[9\]。在不列顛尼亞皇帝的演說中譏為追求「權利平等」而落入「眾愚政治」的[民主主義之國](../Page/民主主義.md "wikilink")。領土包含有歐洲、土耳其、西伯利亞以及整個非洲大陸。在非洲、西伯利亞一帶與不列顛帝國展開激戰，與不列顛帝國長期處于交戰狀態、是與不列顛帝國敵對的兩大國之一。現實世界中的歐洲各國，作為聯邦中的一個自治州(行政、軍事似乎由各州所有)，與中華連邦同為聯邦制國家。
-    《反叛的鲁路修》中E.U.首腦們集會的場所為「[E.U.中央會議場](../Page/歐洲議會.md "wikilink")」。在《亡国的AKITO》中出现“四十人委员会”。“四十人委员会”同时拥有立法和行政职能。现设有总统3名及200人以上的委员\[10\]。总统官邸为[爱丽舍宫](../Page/爱丽舍宫.md "wikilink")\[11\]。
+    由歐洲各主要的國家發起，成立的類似[歐洲聯盟之類的多國家鬆散政治組織](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")，首都[巴黎](../Page/巴黎.md "wikilink")，官方语言似乎是法语\[9\]。在不列顛尼亞皇帝的演說中譏為追求「權利平等」而落入「眾愚政治」的[民主主義之國](https://zh.wikipedia.org/wiki/民主主義 "wikilink")。領土包含有歐洲、土耳其、西伯利亞以及整個非洲大陸。在非洲、西伯利亞一帶與不列顛帝國展開激戰，與不列顛帝國長期處于交戰狀態、是與不列顛帝國敵對的兩大國之一。現實世界中的歐洲各國，作為聯邦中的一個自治州(行政、軍事似乎由各州所有)，與中華連邦同為聯邦制國家。
+    《反叛的鲁路修》中E.U.首腦們集會的場所為「[E.U.中央會議場](https://zh.wikipedia.org/wiki/歐洲議會 "wikilink")」。在《亡国的AKITO》中出现“四十人委员会”。“四十人委员会”同时拥有立法和行政职能。现设有总统3名及200人以上的委员\[10\]。总统官邸为[爱丽舍宫](../Page/爱丽舍宫.md "wikilink")\[11\]。
     E.U.非洲戰線部分有優秀的將領，使交戰中的不列顛帝國軍陷入苦戰中，但最後仍不敵不列顛帝國的強硬軍事侵略而慘敗，喪失許多的領土，失去與不列顛帝國對抗的力量。之後，又因部分的自治州參加超合眾國而完全弱化。在魯路修掌握世界後，批准超合眾國憲章。
     《Code Geass 亡國的AKITO》則透露 E.U.收留很多來自日本的難民，但這些日本難民並沒有因此得到自由，與不列顛帝國一樣，
     E.U.本身也蔑稱這些日本難民為11區人，同時也將這些日本難民隔離起來。
@@ -315,18 +316,18 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 #### E.U.历史年表
 
   - 注：以下年表根据[Code Geass
-    亡國的AKITO加上本篇動畫所述整理而成](../Page/Code_Geass_亡國的AKITO.md "wikilink")，所有历史均为架空虚构，纪年使用革命历表示。
+    亡國的AKITO加上本篇動畫所述整理而成](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")，所有历史均为架空虚构，纪年使用革命历表示。
 
-| 年代                  | 事件                                                                                                                                                                                                                                                                                                                                 |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 革命历元年(1789年)        | 欧洲爆發[革命浪潮](../Page/法国大革命.md "wikilink")，在經過兩次反法同盟戰爭后，所有歐洲大陸國家的[君主制被推翻](../Page/君主制.md "wikilink")，自此以后300年间，一直维持[共和国体制](../Page/共和国.md "wikilink")。                                                                                                                                                                                |
-| 革命历18世纪末－19世纪初      | [拿破仑·波拿巴登上历史舞台](../Page/拿破仑·波拿巴.md "wikilink")，法国在[特拉法加海战中获胜](../Page/特拉法加海战.md "wikilink")，并攻向[伦敦](../Page/伦敦.md "wikilink")，時任英格蘭女王伊麗莎白三世被迫退至愛丁堡城，而後被革命市民与軍人（蘇格蘭共和軍）逮捕，被迫發表廢除君主制的宣言，后世人稱“愛丁堡之辱”。拿破仑因此成为革命战争英雄，但其后却因为[独裁被送上](../Page/独裁.md "wikilink")[断头台](../Page/断头台.md "wikilink")，没有成为[大欧罗巴皇帝](../Page/拿破仑一世.md "wikilink")。 |
-| 革命历228年(不列颠皇历2017年) | [彼得堡被不列颠帝国占领](../Page/圣彼得堡.md "wikilink")，E.U.为夺回该地区在白羅斯及波羅的海沿岸與歐洲不列顛發生激烈交战，wZERO部队為掩護E.U.國民部隊撤離而登上歷史舞台。                                                                                                                                                                                                                           |
-| 革命历229年(不列颠皇历2018年) | E.U.和不列顛帝國的戰況進入膠著狀態，但因圓桌騎士的介入令不列顛帝國獲得優勢。第二皇子修奈傑爾和E.U.政府議和停戰，結果E.U.失去法國、[伊比利亞半島](../Page/伊比利亞.md "wikilink")、俄羅斯及非洲等超過三分之二的領土。接著部份E.U.成員國簽署《超合眾國憲章》加入超合眾國，其餘國家則選擇保持中立。 當皇帝魯路修在富士山之戰中勝出後，E.U.政府允許魯路修簽署《超合眾國憲章》，承認神聖不列顛帝國成為超合眾國的成員國。                                                                                                  |
+| 年代                  | 事件                                                                                                                                                                                                                                                                                                                                                                                          |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 革命历元年(1789年)        | 欧洲爆發[革命浪潮](../Page/法国大革命.md "wikilink")，在經過兩次反法同盟戰爭后，所有歐洲大陸國家的[君主制被推翻](https://zh.wikipedia.org/wiki/君主制 "wikilink")，自此以后300年间，一直维持[共和国体制](https://zh.wikipedia.org/wiki/共和国 "wikilink")。                                                                                                                                                                                                   |
+| 革命历18世纪末－19世纪初      | [拿破仑·波拿巴登上历史舞台](https://zh.wikipedia.org/wiki/拿破仑·波拿巴 "wikilink")，法国在[特拉法加海战中获胜](https://zh.wikipedia.org/wiki/特拉法加海战 "wikilink")，并攻向[伦敦](../Page/伦敦.md "wikilink")，時任英格蘭女王伊麗莎白三世被迫退至愛丁堡城，而後被革命市民与軍人（蘇格蘭共和軍）逮捕，被迫發表廢除君主制的宣言，后世人稱“愛丁堡之辱”。拿破仑因此成为革命战争英雄，但其后却因为[独裁被送上](../Page/独裁.md "wikilink")[断头台](https://zh.wikipedia.org/wiki/断头台 "wikilink")，没有成为[大欧罗巴皇帝](../Page/拿破仑一世.md "wikilink")。 |
+| 革命历228年(不列颠皇历2017年) | [彼得堡被不列颠帝国占领](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")，E.U.为夺回该地区在白羅斯及波羅的海沿岸與歐洲不列顛發生激烈交战，wZERO部队為掩護E.U.國民部隊撤離而登上歷史舞台。                                                                                                                                                                                                                                                                 |
+| 革命历229年(不列颠皇历2018年) | E.U.和不列顛帝國的戰況進入膠著狀態，但因圓桌騎士的介入令不列顛帝國獲得優勢。第二皇子修奈傑爾和E.U.政府議和停戰，結果E.U.失去法國、[伊比利亞半島](https://zh.wikipedia.org/wiki/伊比利亞 "wikilink")、俄羅斯及非洲等超過三分之二的領土。接著部份E.U.成員國簽署《超合眾國憲章》加入超合眾國，其餘國家則選擇保持中立。 當皇帝魯路修在富士山之戰中勝出後，E.U.政府允許魯路修簽署《超合眾國憲章》，承認神聖不列顛帝國成為超合眾國的成員國。                                                                                                                                        |
 
 #### E.U.版图
 
-主要领土：整个**欧洲**（不包括冰岛）与**非洲**还有**西伯利亚**。后西伯利亚南部，外兴安岭与库页岛被中华联邦夺取。在与不列颠帝国停战后，领土只有欧洲的[不列颠群岛](../Page/不列颠群岛.md "wikilink")、北欧（丹麦、挪威、瑞典、芬兰和俄罗斯的[摩尔曼斯克州](../Page/摩尔曼斯克州.md "wikilink")，不含冰岛）、德国、乌克兰，非洲一部（相当于现实中的刚果民主共和国、刚果共和国、安哥拉、加蓬、赤道几内亚）。
+主要领土：整个**欧洲**（不包括冰岛）与**非洲**还有**西伯利亚**。后西伯利亚南部，外兴安岭与库页岛被中华联邦夺取。在与不列颠帝国停战后，领土只有欧洲的[不列颠群岛](https://zh.wikipedia.org/wiki/不列颠群岛 "wikilink")、北欧（丹麦、挪威、瑞典、芬兰和俄罗斯的[摩尔曼斯克州](https://zh.wikipedia.org/wiki/摩尔曼斯克州 "wikilink")，不含冰岛）、德国、乌克兰，非洲一部（相当于现实中的刚果民主共和国、刚果共和国、安哥拉、加蓬、赤道几内亚）。
 
   -
     E.U.的自治州之一。在R2的TURN3中，德意志州部队与意大利州部队在[波尔多共同迎战不列颠军](../Page/波尔多.md "wikilink")，后因不敌驾驶兰斯洛特‧征服者单骑突入阵地的枢木朱雀而战败。法兰西州的巴黎是E.U.首都，四十人委员会和E.U.军统合本部也设在巴黎。
@@ -338,10 +339,10 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 ###
 
   -
-    虽称联邦，实际以[天子為元首](../Page/天子.md "wikilink")，臣民身份平等，實行君主制及[共產主義的政治理念的國家](../Page/共產主義.md "wikilink")。主要的文字是以[繁體中文書寫](../Page/繁體中文.md "wikilink")，而非中國大陸現行使用的[簡體中文](../Page/簡體中文.md "wikilink")。第一季中曾利用日本舊臣的關係趁機會佔領日本的九州地區。第二季中年僅6歲的蔣麗華成為天子後，成了「[大宦官集團](../Page/十常侍.md "wikilink")」的傀儡，由[宦官掌權](../Page/宦官.md "wikilink")、處理政務，由於宦官專政而導致國家開始衰弱。
-    似乎是歷史與政治體制都是與現實中的[中國有所不同的國家](../Page/中國.md "wikilink")。以追求「財富平等」為目標，在不列顛皇帝的演說中譏為「懶惰者之國」，有影射共產主义制度之意。與EU同為不列顛帝國對立的兩大勢力之一，為聯邦制國家，現實中的亞洲各國是聯邦中的省。領土包含有以[中國大陸為中心](../Page/中國大陸.md "wikilink")，支配著[朝鮮半島](../Page/朝鮮半島.md "wikilink")、[中南半島及](../Page/中南半島.md "wikilink")[南洋群島](../Page/南洋群島.md "wikilink")、[印度](../Page/印度.md "wikilink")、[中亞](../Page/中亞.md "wikilink")，現實中由[中華民國實際統治](../Page/中華民國.md "wikilink")[台灣也在其領土之中](../Page/台灣.md "wikilink")，其國都位於[洛陽](../Page/洛陽.md "wikilink")，天子居所稱為「朱禁城」，是世界人口最多的聯邦國家\[12\]。在[中亞沙漠一帶](../Page/中亞.md "wikilink")，隱藏著由Geass嚮團所修建的據點。
+    虽称联邦，实际以[天子為元首](../Page/天子.md "wikilink")，臣民身份平等，實行君主制及[共產主義的政治理念的國家](https://zh.wikipedia.org/wiki/共產主義 "wikilink")。主要的文字是以[繁體中文書寫](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，而非中國大陸現行使用的[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。第一季中曾利用日本舊臣的關係趁機會佔領日本的九州地區。第二季中年僅6歲的蔣麗華成為天子後，成了「[大宦官集團](https://zh.wikipedia.org/wiki/十常侍 "wikilink")」的傀儡，由[宦官掌權](../Page/宦官.md "wikilink")、處理政務，由於宦官專政而導致國家開始衰弱。
+    似乎是歷史與政治體制都是與現實中的[中國有所不同的國家](../Page/中國.md "wikilink")。以追求「財富平等」為目標，在不列顛皇帝的演說中譏為「懶惰者之國」，有影射共產主义制度之意。與EU同為不列顛帝國對立的兩大勢力之一，為聯邦制國家，現實中的亞洲各國是聯邦中的省。領土包含有以[中國大陸為中心](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，支配著[朝鮮半島](https://zh.wikipedia.org/wiki/朝鮮半島 "wikilink")、[中南半島及](../Page/中南半島.md "wikilink")[南洋群島](https://zh.wikipedia.org/wiki/南洋群島 "wikilink")、[印度](../Page/印度.md "wikilink")、[中亞](https://zh.wikipedia.org/wiki/中亞 "wikilink")，現實中由[中華民國實際統治](../Page/中華民國.md "wikilink")[台灣也在其領土之中](https://zh.wikipedia.org/wiki/台灣 "wikilink")，其國都位於[洛陽](https://zh.wikipedia.org/wiki/洛陽 "wikilink")，天子居所稱為「朱禁城」，是世界人口最多的聯邦國家\[12\]。在[中亞沙漠一帶](https://zh.wikipedia.org/wiki/中亞 "wikilink")，隱藏著由Geass嚮團所修建的據點。
     第二季時，中華聯邦接受了黑色騎士團和逃離11區的群眾來到蓬莱島避難，後來在Zero的策略下，推翻專政的宦官集團而成立「中華合眾國」，並進一步成為超合眾國的總部所在。
-    第一季中曾出現過中華聯邦首腦們的集會場所「[咬龍之房](../Page/中國人民政治協商會議.md "wikilink")」，也有類似現今中國[全國人民代表大會的議會場所](../Page/全國人民代表大會.md "wikilink")。
+    第一季中曾出現過中華聯邦首腦們的集會場所「[咬龍之房](https://zh.wikipedia.org/wiki/中國人民政治協商會議 "wikilink")」，也有類似現今中國[全國人民代表大會的議會場所](https://zh.wikipedia.org/wiki/全國人民代表大會 "wikilink")。
 
 #### 中华联邦版图
 
@@ -381,7 +382,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
     C.C是在高文坠机后自己爬上岸的，在海边被华莲发现。
     柯内莉娅是自己辞任11区总督的，之后行踪不明。
     娜娜莉回国的事情并没有立刻向公众公开，在皇室关系上
-    与鲁路修兄妹关系并不好的兄弟姐妹仍然有一些。生性温厚的第一皇子奥德修斯和对任何人都彬彬有礼的第二皇子修奈杰尔则是例外。娜娜莉回国之后所住的[离宫也并不是自己之前的家白羊宫](../Page/离宫.md "wikilink")，而是另一处。
+    与鲁路修兄妹关系并不好的兄弟姐妹仍然有一些。生性温厚的第一皇子奥德修斯和对任何人都彬彬有礼的第二皇子修奈杰尔则是例外。娜娜莉回国之后所住的[离宫也并不是自己之前的家白羊宫](https://zh.wikipedia.org/wiki/离宫 "wikilink")，而是另一处。
     因为娜娜莉没有自己的专属骑士，皇帝特别指派圆桌骑士的第六骑士——阿妮亚·阿尔斯特雷姆卿担任其护卫，这种做法是非常罕见的。娜娜莉总督职位的文官辅佐（同时负责监视）的羅麥雅小姐也是皇帝特别选派的。
     阿妮亚对鲁路修他们以前居住的白羊宫似乎也有印象。
 
@@ -393,11 +394,11 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
   - [租界](../Page/租界.md "wikilink")
     在劇中是不列顛尼亞帝國在征服地區所劃分的殖民地。意思接近於過去列強在[中國劃分的殖民地](../Page/中國.md "wikilink")。
-    **[東京租界](../Page/東京.md "wikilink")**是不列顛尼亞帝國在日本主要的行政中心與殖民地，並被改建成了要塞都市。在STAGE
+    **[東京租界](https://zh.wikipedia.org/wiki/東京 "wikilink")**是不列顛尼亞帝國在日本主要的行政中心與殖民地，並被改建成了要塞都市。在STAGE
     23中，零與反抗軍們在午夜零時開始發動對東京租界的攻勢，而租界的地板也在此刻開始崩落。在STAGE
-    24及R2中還有提到其他租界：**[廣島租界](../Page/廣島.md "wikilink")**、**[札幌租界](../Page/札幌.md "wikilink")**、**[鹿兒島租界](../Page/鹿兒島.md "wikilink")**。
+    24及R2中還有提到其他租界：**[廣島租界](https://zh.wikipedia.org/wiki/廣島 "wikilink")**、**[札幌租界](https://zh.wikipedia.org/wiki/札幌 "wikilink")**、**[鹿兒島租界](https://zh.wikipedia.org/wiki/鹿兒島 "wikilink")**。
   -
-    在劇中是指被不列顛尼亞帝國征服的日本國民所居住的地區，存在著戰爭留下的大量建築物廢墟，居民大多數生活貧困。地名是使用日本實際的地名，但不是用[漢字而是被改用](../Page/漢字.md "wikilink")[片假名來表示](../Page/片假名.md "wikilink")。
+    在劇中是指被不列顛尼亞帝國征服的日本國民所居住的地區，存在著戰爭留下的大量建築物廢墟，居民大多數生活貧困。地名是使用日本實際的地名，但不是用[漢字而是被改用](https://zh.wikipedia.org/wiki/漢字 "wikilink")[片假名來表示](../Page/片假名.md "wikilink")。
     Ghetto原為義大利文，最初指將猶太人隔離居住的地區，轉而也用來稱之為貧民窟、低下階層集中住宅區之意。
   -
     原日本的JR[山手線](../Page/山手線.md "wikilink")。以順時針方向行進，把山手線作為一個圓圈來看，圈內是不列顛尼亞帝國人民的居住的東京租界（），圈外則是破敗貧窮，如同廢墟一般的日本人集住區。是零（ZERO）與華蓮所屬的反抗勢力初次會談的場所。據華蓮說：右手邊看到的是「不列顛尼亞人的城市。建立在我們的犧牲之上的、強盜們的城市」、左手邊看到的是「我們的城市，被不列顛尼亞人所榨乾、成為廢墟的城市」。
@@ -416,17 +417,17 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
     Frame，發動了前所未見的龐大攻勢，準備一舉殲滅日本解放戰線。
   -
     在STAGE
-    15中出現，C.C.與毛約定見面的場所，有著各式各樣的遊樂設施。毛似乎非常喜愛作為遊樂園主要特色的[旋轉木馬這項遊樂設施](../Page/旋轉木馬.md "wikilink")。
+    15中出現，C.C.與毛約定見面的場所，有著各式各樣的遊樂設施。毛似乎非常喜愛作為遊樂園主要特色的[旋轉木馬這項遊樂設施](https://zh.wikipedia.org/wiki/旋轉木馬 "wikilink")。
   - 屋頂花園
     在STAGE
     16中出現，尤菲米雅與柯內莉亞休憩的花園。位在巨大城堡的後側上方，由克洛維斯指示建造。其高度遠遠超過了周圍所有建築的高度，有如在空中一般，因此可以看見一望無際的藍天。
   - 神根島
     在STAGE
-    19中出現的島嶼，設定上在[式根島附近](../Page/式根島.md "wikilink")。零、尤菲米雅、華蓮、朱雀曾在這裡經歷野外求生的冒險。
-    另外島上還有修奈傑爾等不列顛尼亞皇族所尋找的遺跡，奪取這些遺跡也是不列顛尼亞帝國軍隊在世界各地侵略的目的之一。在遺跡深處有能與C.C.進行[心靈感應與對話的人物](../Page/心靈感應.md "wikilink")。
+    19中出現的島嶼，設定上在[式根島附近](https://zh.wikipedia.org/wiki/式根島 "wikilink")。零、尤菲米雅、華蓮、朱雀曾在這裡經歷野外求生的冒險。
+    另外島上還有修奈傑爾等不列顛尼亞皇族所尋找的遺跡，奪取這些遺跡也是不列顛尼亞帝國軍隊在世界各地侵略的目的之一。在遺跡深處有能與C.C.進行[心靈感應與對話的人物](https://zh.wikipedia.org/wiki/心靈感應 "wikilink")。
   -
     位於日本南端、極為靠近中華聯邦。在現實世界的歷史中，由於地理位置的關係，這地區與周圍地帶經常是進攻歐亞大陸的跳板或緩衝區。在STAGE
-    19、20中，中華聯邦趁不列顛尼亞帝國忙著與黑色騎士團交戰而分身乏術之時，派出曹將軍率領[遼東軍管區的部隊](../Page/遼東.md "wikilink")，渡海支援原樞木內閣成員的澤崎敦佔領[福岡基地並成立了政府](../Page/福岡.md "wikilink")。
+    19、20中，中華聯邦趁不列顛尼亞帝國忙著與黑色騎士團交戰而分身乏術之時，派出曹將軍率領[遼東軍管區的部隊](https://zh.wikipedia.org/wiki/遼東 "wikilink")，渡海支援原樞木內閣成員的澤崎敦佔領[福岡基地並成立了政府](https://zh.wikipedia.org/wiki/福岡 "wikilink")。
 
 <!-- end list -->
 
@@ -444,9 +445,9 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 #### 中华联邦
 
   -
-    洛陽即現實世界的[洛陽](../Page/洛陽.md "wikilink")，朱禁城的原型即為[紫禁城](../Page/紫禁城.md "wikilink")，中華聯邦的首都及天子所在地。聯邦及帝國的聯姻在這裡舉行，星刻也在這裡發動政變。
+    洛陽即現實世界的[洛陽](https://zh.wikipedia.org/wiki/洛陽 "wikilink")，朱禁城的原型即為[紫禁城](https://zh.wikipedia.org/wiki/紫禁城 "wikilink")，中華聯邦的首都及天子所在地。聯邦及帝國的聯姻在這裡舉行，星刻也在這裡發動政變。
   -
-    位于[江苏省以东](../Page/江苏省.md "wikilink")，[黃海上的一個用以潮汐发电的人工島](../Page/黃海.md "wikilink")，Zero向中華聯邦租借，並將百萬的日本人安置在這裡。曾被当过日本合众国的首都。
+    位于[江苏省以东](../Page/江苏省.md "wikilink")，[黃海上的一個用以潮汐发电的人工島](https://zh.wikipedia.org/wiki/黃海 "wikilink")，Zero向中華聯邦租借，並將百萬的日本人安置在這裡。曾被当过日本合众国的首都。
     超合众国宪章亦在此地签署。
   -
     是中華聯邦用來供俸歷代天子的地方。Zero將黑騎撤退到此地並展開守備戰。
@@ -464,7 +465,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
   -
     在STAGE
-    9中柯内莉亚向尤菲米亚叮嘱时提到，不列顛尼亞帝國正與EU交戰的前線，位於北非。此地也是現實世界第二次世界大戰中，[纳粹德国名將](../Page/纳粹德国.md "wikilink")，陆军元帅，人称“沙漠之狐”的[埃爾溫·隆美爾與美英聯軍交戰的關鍵戰場](../Page/埃爾溫·隆美爾.md "wikilink")。
+    9中柯内莉亚向尤菲米亚叮嘱时提到，不列顛尼亞帝國正與EU交戰的前線，位於北非。此地也是現實世界第二次世界大戰中，[纳粹德国名將](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")，陆军元帅，人称“沙漠之狐”的[埃爾溫·隆美爾與美英聯軍交戰的關鍵戰場](https://zh.wikipedia.org/wiki/埃爾溫·隆美爾 "wikilink")。
 
 <!-- end list -->
 
@@ -474,14 +475,14 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 #### GEASS相关
 
   -
-    [集體潛意識](../Page/集體潛意識.md "wikilink")，同時也是人類心靈與記憶的集合。是空間的型態，進入了C的世界，也等同於進入了自己與他人的潛意識領域，可以觀察到自己與他人的深層心靈與記憶，例如樞木朱雀，就在C的世界看到了自己的父親--樞木玄武與過去弒父的情景，一時之間受到了很大的打擊。同時在C的世界中，也可以與Code的持有者對話，如瑪麗安娜可以在C的世界中與C.C.對話。
+    [集體潛意識](https://zh.wikipedia.org/wiki/集體潛意識 "wikilink")，同時也是人類心靈與記憶的集合。是空間的型態，進入了C的世界，也等同於進入了自己與他人的潛意識領域，可以觀察到自己與他人的深層心靈與記憶，例如樞木朱雀，就在C的世界看到了自己的父親--樞木玄武與過去弒父的情景，一時之間受到了很大的打擊。同時在C的世界中，也可以與Code的持有者對話，如瑪麗安娜可以在C的世界中與C.C.對話。
     要進入C的世界有許多種方法，包括了（1）接觸C.C. (2)瑪莉安娜的特殊能力
     (3)由散佈世界各地的遺跡入口**黃昏之門**進入阿卡夏之劍系統，再由控制台啟動思考電梯以進入...等方法。
   -
     R2 TURN
     20中玛莉安娜与C.C.接触后进入的空间。被认为是C的世界的一部分，由C.C.过去的记忆构成的模拟空间。在该空间内，C.C.的记忆以绘画的方式呈现。
   -
-    控制C的世界的系統，與散佈世界各地的遺跡入口相連接。阿卡夏是[梵語](../Page/梵語.md "wikilink")，有虛空，以太，以及構成宇宙事物萬象的最基本單位之意。
+    控制C的世界的系統，與散佈世界各地的遺跡入口相連接。阿卡夏是[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")，有虛空，以太，以及構成宇宙事物萬象的最基本單位之意。
     只有得到Code的人才能控制此系統。系統控制台的功能包括啟動思考電梯，將人移動到C的世界（集體潛意識）的指定區域等。另外還有特殊功能，也就是**連接[諸神的黃昏](../Page/諸神的黃昏.md "wikilink")**，透過啟動世界各處的遺跡，由Code持有者操縱控制台，將集體潛意識領域延伸至覆蓋整個世界。
   -
     散佈世界各地的遺跡內部的系統，其功能包括了連接現實世界與C的世界，將人移動到C的世界中之指定區域...等。
@@ -516,7 +517,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
   -
     存在於日本各地，反抗帝國的武裝勢力。日本政府向不列顛尼亞帝國投降之後，散佈於日本的**反抗軍**有著規模不等組織與團體，以打倒帝國為目的，進行了區域游擊戰等各種作戰，其中組織較為龐大的甚至修築了要塞與砲台工事，與帝國軍周旋，除了華蓮所屬的組織之外。中部地區有「大和同盟（）」，「武士之血（）」，原日本軍人所組成的「日本解放戰線」等非常多的組織。
     黑色叛亂中大多反抗軍加入黑色騎士團，參與第一次東京決戰。戰敗後反抗軍基本上停止活動，只有黑色騎士團繼續活動。
-    不列顛尼亞帝國方面則稱這些反抗軍為[恐怖份子](../Page/恐怖份子.md "wikilink")。
+    不列顛尼亞帝國方面則稱這些反抗軍為[恐怖份子](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")。
   -
     魯路修在崎玉集住區的失敗之後，深刻感受到對抗帝國需要有自己的組織。因此以扇要的反抗組織為基礎，成立了聽從自己指揮的組織黑色騎士團。
   -
@@ -532,7 +533,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
     原本魯路修的計畫是利用嚮團及其研究成果，但在夏麗不幸犧牲的事件發生後，魯路修認為追尋Geass力量就是悲劇的起因，於是投入了黑色騎士團零番隊，進行將其內部人員以及研究成果徹底毀滅的作戰；但在場的黑色騎士團士兵也開始對魯路修感情用事以至於血洗嚮團的舉動產生了疑竇，並間接造成日後修奈傑爾成功將黑色騎士團成員離間魯路修的主因。
   - wZERO
     《[Code Geass
-    亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》中登場的EU軍隊，由來11區的難民中徵召青少年組成。在《亡國的AKITO》中，因執行自爆行動而接近全滅，前線部隊只有阿基德生還。w为[飞龙](../Page/飞龙_\(传说生物\).md "wikilink")（wyvern）的首字母。欧洲不列颠称wZERO为“汉尼拔的亡灵”。
+    亡國的AKITO](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")》中登場的EU軍隊，由來11區的難民中徵召青少年組成。在《亡國的AKITO》中，因執行自爆行動而接近全滅，前線部隊只有阿基德生還。w为[飞龙](https://zh.wikipedia.org/wiki/飞龙_\(传说生物\) "wikilink")（wyvern）的首字母。欧洲不列颠称wZERO为“汉尼拔的亡灵”。
 
 <!-- end list -->
 
@@ -564,7 +565,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
 ::在日本被不列颠占领时唯一取胜的一场战斗。
 
-::《亡国的AKITO》小说版第一回提到：在该场战斗中，部分十几岁的女学生和正规军利用樱石进行[自杀式炸弹攻击](../Page/自杀攻击.md "wikilink")。
+::《亡国的AKITO》小说版第一回提到：在该场战斗中，部分十几岁的女学生和正规军利用樱石进行[自杀式炸弹攻击](https://zh.wikipedia.org/wiki/自杀攻击 "wikilink")。
 
 :;远东事变/第二次太平洋战争
 
@@ -628,7 +629,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 <!-- end list -->
 
   -
-    劇中出現的虛構[稀有金屬](../Page/稀有金屬.md "wikilink")，製作[高溫超導電體的重要原料](../Page/高溫超導.md "wikilink")，可說是影響世界各國勢力版圖的極重要物資。最大生產國日本的產量佔了全世界總產量的70％，存在於[富士山周圍](../Page/富士山.md "wikilink")。不列顛尼亞侵略日本的主要原因之一就是為了侵吞這資源。每年都會在日本的河口湖舉行生產國會議，決定各國的分配量。
+    劇中出現的虛構[稀有金屬](https://zh.wikipedia.org/wiki/稀有金屬 "wikilink")，製作[高溫超導電體的重要原料](../Page/高溫超導.md "wikilink")，可說是影響世界各國勢力版圖的極重要物資。最大生產國日本的產量佔了全世界總產量的70％，存在於[富士山周圍](../Page/富士山.md "wikilink")。不列顛尼亞侵略日本的主要原因之一就是為了侵吞這資源。每年都會在日本的河口湖舉行生產國會議，決定各國的分配量。
     並且，櫻石是驅動Knightmare Frame機體的重要能源，可以通過葛冯干扰器，干擾櫻石能源發揮作用，直接使Knightmare
     Frame機體處於無法行動的狀態。
 
@@ -661,33 +662,33 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
   -
     STAGE 20中新闻女主播提到的国际协议。
   -
-    劇中所出現，實際存在的網路[搜索引擎與](../Page/搜索引擎.md "wikilink")[入口網站](../Page/入口網站.md "wikilink")，其名稱意為「大地球」。在劇中時常出現，劇中人物也常常使用它的功能。
+    劇中所出現，實際存在的網路[搜索引擎與](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[入口網站](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，其名稱意為「大地球」。在劇中時常出現，劇中人物也常常使用它的功能。
   -
-    劇中所出現，實際存在的以[美國為中心的](../Page/美國.md "wikilink")[披薩連鎖店](../Page/披薩.md "wikilink")。
+    劇中所出現，實際存在的以[美國為中心的](https://zh.wikipedia.org/wiki/美國 "wikilink")[披薩連鎖店](https://zh.wikipedia.org/wiki/披薩 "wikilink")。
   -
     因為零（ZERO）在所有人面前說"柳橙"是他與傑瑞米亞間的暗號，因而傑瑞米亞被劇中人物與觀眾們取了個叫做**柳橙**的別名。
   -
     在日本人之中蔓延的毒品，其作用是讓人產生回到過去的幻覺，因此廣受處於被不列顛尼亞帝國佔領而亡國的日本人歡迎。使用後會讓人一直處於日本過去的幸福回憶，但其副作用是危害人體的神經系統，讓人反應遲滯、錯誤百出，長期使用的結果甚至會讓人成為廢人。
   - 行政特區「日本」
     在STAGE
-    21中，尤菲米亞所宣布，預定在[富士山周圍地帶成立的](../Page/富士山.md "wikilink")[特別行政區](../Page/特別行政區.md "wikilink")。在此特區中以「日本人」來稱呼被佔領的日本民眾，並取消不列顛尼亞人在這一區域內的特權，但特區外的日本地域似乎仍舊是被不列顛尼亞帝國佔領。以不列顛尼亞帝國的持續侵略與擴張的背景來說，這有如在退潮時出現的一小塊夢幻般的土地，但在漲潮時恐怕就會被淹沒。
-    修奈傑爾與達爾頓把行政特區設在京都六家根據地富士山礦區周圍的目的，是為了讓京都六家[無血開城](../Page/無血開城.md "wikilink")，交出手中大權並離開富士礦山，從而斷絕京都對黑色騎士團的援助，加上可利用日本人恭順派來瓦解黑色騎士團，可說是有多種目的之計畫。
+    21中，尤菲米亞所宣布，預定在[富士山周圍地帶成立的](../Page/富士山.md "wikilink")[特別行政區](https://zh.wikipedia.org/wiki/特別行政區 "wikilink")。在此特區中以「日本人」來稱呼被佔領的日本民眾，並取消不列顛尼亞人在這一區域內的特權，但特區外的日本地域似乎仍舊是被不列顛尼亞帝國佔領。以不列顛尼亞帝國的持續侵略與擴張的背景來說，這有如在退潮時出現的一小塊夢幻般的土地，但在漲潮時恐怕就會被淹沒。
+    修奈傑爾與達爾頓把行政特區設在京都六家根據地富士山礦區周圍的目的，是為了讓京都六家[無血開城](https://zh.wikipedia.org/wiki/無血開城 "wikilink")，交出手中大權並離開富士礦山，從而斷絕京都對黑色騎士團的援助，加上可利用日本人恭順派來瓦解黑色騎士團，可說是有多種目的之計畫。
     在STAGE
     22中，由於魯路修在意外情況下對優菲米亞使用了Geass能力，導致了在開設紀念典禮會場發生的大屠殺，在會場內的日本人恭順派血流成河，不列顛尼亞軍隊並衝出會場對日本人進行大屠殺。特區日本計畫也因此結束。
     在R2中，娜娜莉在當上總督之後，宣布重新啟動特區日本計畫。
   - 世界在撒謊（）
     是R2 TURN
-    7開頭，不列顛帝國皇帝查爾斯所發表演說的主題，似乎與[尼可羅·馬基亞維利之](../Page/尼可羅·馬基亞維利.md "wikilink")[君主論一書有不少相關性](../Page/君主論.md "wikilink")。君主論的重要思想之一，就是「許多國家的首腦們雖然宣揚著種種美德，但其實他們就是用違反這些美德的邪惡手段來謀奪與侵吞它國的領土。」這在君主論的18章有詳細闡述，原文是：「我能夠提出近代無數的實例為證，它們表明：許多和約和許多諾言由於君主們沒有信義而作廢和無效；而深知怎樣做狐狸的人卻獲得最大的成功。但是君主必須深知怎樣掩飾這種獸性，並且必須做一個偉大的偽裝者和假好人。」
+    7開頭，不列顛帝國皇帝查爾斯所發表演說的主題，似乎與[尼可羅·馬基亞維利之](https://zh.wikipedia.org/wiki/尼可羅·馬基亞維利 "wikilink")[君主論一書有不少相關性](https://zh.wikipedia.org/wiki/君主論 "wikilink")。君主論的重要思想之一，就是「許多國家的首腦們雖然宣揚著種種美德，但其實他們就是用違反這些美德的邪惡手段來謀奪與侵吞它國的領土。」這在君主論的18章有詳細闡述，原文是：「我能夠提出近代無數的實例為證，它們表明：許多和約和許多諾言由於君主們沒有信義而作廢和無效；而深知怎樣做狐狸的人卻獲得最大的成功。但是君主必須深知怎樣掩飾這種獸性，並且必須做一個偉大的偽裝者和假好人。」
     查爾斯皇帝在演說中強調，不列顛尼亞帝國將以其軍事力，侵吞世上以偽善作為虛假包裝的弱國們，奪取他們的勞動力，財富與權力。君主論中的原文：「
     一位君主如果能夠征服並且保持那個國家的話，他所採取的手段總是被人們認為是光榮的，並且將受到每一個人的讚揚。因為盲目的群眾總是被外表和事物的結果所吸引，而這個世界裡充滿了盲目的群眾。」劇中不列顛尼亞帝國人民享受了殖民地所提供的勞動力，財富，因而無視道德，讚揚皇帝的成就。另一方面，殖民地的許多人民由於被征服的劣等感與受到不列顛尼亞帝國的外表所吸引，無條件接受不列顛帝國的文化，甚至出賣自己，征服者與被奴役者的道德基礎都在盲目中崩壞，正呼應了「盲目的群眾總是被外表和事物的結果所吸引」這個理論。
   - 合眾國日本
     由零（ZERO）所宣布，將在日本所創設的新國家。其獨立宣言的宗旨，在反抗不列顛尼亞帝國的侵略政策，以及恢復日本人民的權利。
   - 合眾國中華
-    中華聯邦，內有大宦官們唯利是圖地壓榨百姓，外有不列顛尼亞帝國的侵略，這種種因素已讓中華聯邦此一支配系統分崩離析，[印度](../Page/印度.md "wikilink")、[蒙古](../Page/蒙古國.md "wikilink")、[緬甸都對此體制產生了不信任感](../Page/緬甸.md "wikilink")。為了有效對抗不列顛帝國，零（ZERO）向中華聯邦的天子提案，以天子為中心建立新的體制——合眾國中華。合眾國中華除了對內解救民眾的痛苦之外，也加入超合眾國，有效對抗不列顛帝國的侵略。
+    中華聯邦，內有大宦官們唯利是圖地壓榨百姓，外有不列顛尼亞帝國的侵略，這種種因素已讓中華聯邦此一支配系統分崩離析，[印度](../Page/印度.md "wikilink")、[蒙古](https://zh.wikipedia.org/wiki/蒙古國 "wikilink")、[緬甸都對此體制產生了不信任感](https://zh.wikipedia.org/wiki/緬甸 "wikilink")。為了有效對抗不列顛帝國，零（ZERO）向中華聯邦的天子提案，以天子為中心建立新的體制——合眾國中華。合眾國中華除了對內解救民眾的痛苦之外，也加入超合眾國，有效對抗不列顛帝國的侵略。
 
 [Flag_of_the_United_Federation_of_Nations.png](https://zh.wikipedia.org/wiki/File:Flag_of_the_United_Federation_of_Nations.png "fig:Flag_of_the_United_Federation_of_Nations.png")
 
-  - [超合眾國](../Page/聯合國.md "wikilink")
+  - [超合眾國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")
     Zero吸取了黑色叛亂的教訓，了解到世界性的戰略，是對抗不列顛尼亞帝國所不可或缺的。而不列顛尼亞帝國既占有世界1/3以上的領土，又以掠奪佔領地區的經濟資源，勞動力來擴充軍備，進行軍事，經濟上的雙重侵略。因此需要以世界戰略的著眼點出發，首先以合眾國日本、合眾國中華為基礎，聯合前EU會員國共47國，然後逐步建立一個在軍事，經濟，甚至人口上都能與之匹敵的強固軸心，也就是——超合眾國(United
     Federation of Nations)，簡稱UFN。
   -
@@ -695,7 +696,7 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
   - 零之鎮魂曲
     魯路修與朱雀等人策劃的計劃，目的是讓魯路修以暴政、獨裁統一全世界，使全世界的憎恨全部轉移到魯路修身上，後讓朱雀以零(Zero)的身份刺殺自己來改變整個世界。在R2
     FINAL
-    TURN，朱雀扮演零（ZERO）去刺殺魯路修。最後皇帝魯路修[駕崩](../Page/駕崩.md "wikilink")，而朱雀繼續以零(Zero)的身份協助娜娜莉。
+    TURN，朱雀扮演零（ZERO）去刺殺魯路修。最後皇帝魯路修[駕崩](https://zh.wikipedia.org/wiki/駕崩 "wikilink")，而朱雀繼續以零(Zero)的身份協助娜娜莉。
 
 ## 黑色騎士團的宗旨
 
@@ -729,7 +730,8 @@ Geass 亡國的AKITO](../Page/Code_Geass_亡國的AKITO.md "wikilink")》和《[
 
 ## 註解
 
-[ja:コードギアス 反逆のルルーシュ\#世界観](../Page/ja:コードギアス_反逆のルルーシュ#世界観.md "wikilink")
+[ja:コードギアス
+反逆のルルーシュ\#世界観](https://zh.wikipedia.org/wiki/ja:コードギアス_反逆のルルーシュ#世界観 "wikilink")
 
 [Category:Code_Geass](https://zh.wikipedia.org/wiki/Category:Code_Geass "wikilink")
 [Category:动漫用语表](https://zh.wikipedia.org/wiki/Category:动漫用语表 "wikilink")

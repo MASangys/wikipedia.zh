@@ -46,7 +46,7 @@ BEA, IBM, Oracle和SAP共同发布了BPEL4People和WS-HumanTask规范，描述�
     WS-BPEL 2.0 using the Workflow Resource
     Patterns](https://web.archive.org/web/20081121065856/http://is.tm.tue.nl/staff/wvdaalst/BPMcenter/reports/2007/BPM-07-10.pdf)
 
-[分类:Web服务规范](../Page/分类:Web服务规范.md "wikilink")
+[分类:Web服务规范](https://zh.wikipedia.org/wiki/分类:Web服务规范 "wikilink")
 
 [Category:基于XML的标准](https://zh.wikipedia.org/wiki/Category:基于XML的标准 "wikilink")
 [Category:计算机语言](https://zh.wikipedia.org/wiki/Category:计算机语言 "wikilink")

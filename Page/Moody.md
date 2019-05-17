@@ -2,7 +2,7 @@
 
 ## 簡介
 
-1986年，[黃凱芹參加ABU憑](../Page/黃凱芹.md "wikilink")《再遇》正式進軍樂壇，然後加盟[寶麗金唱片公司](../Page/寶麗金.md "wikilink")。翌年甫推出此唱片即達雙白金銷量，歌曲如《傷感的戀人》、《流離所愛》（與[余劍明合唱](../Page/余劍明.md "wikilink")）等廣受歡迎，在1988年[IFPI香港唱片銷量大獎獲得本地白金唱片大獎](../Page/IFPI香港唱片銷量大獎.md "wikilink")，銷量與同於1987年暑假推出的《[Summer
+1986年，[黃凱芹參加ABU憑](../Page/黃凱芹.md "wikilink")《再遇》正式進軍樂壇，然後加盟[寶麗金唱片公司](../Page/寶麗金.md "wikilink")。翌年甫推出此唱片即達雙白金銷量，歌曲如《傷感的戀人》、《流離所愛》（與[余劍明合唱](https://zh.wikipedia.org/wiki/余劍明 "wikilink")）等廣受歡迎，在1988年[IFPI香港唱片銷量大獎獲得本地白金唱片大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")，銷量與同於1987年暑假推出的《[Summer
 Romance](../Page/Summer_Romance.md "wikilink")》、《[再見吧！？浪漫](../Page/再見吧！？浪漫.md "wikilink")》等一線專輯位列五強之內。
 
 ## 曲目

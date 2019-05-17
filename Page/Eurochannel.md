@@ -1,5 +1,5 @@
 **Eurochannel**是一家有线卫星电视台。该台最初由Abril集团于1994在巴西创立，之后在2000年被MultiThematiques
-Inc（[Canal+集团和](../Page/Canal+.md "wikilink")[Vivendi](../Page/Vivendi.md "wikilink")）收购。四年之后，Noos的高级主管Gustavo
+Inc（[Canal+集团和](../Page/Canal+.md "wikilink")[Vivendi](https://zh.wikipedia.org/wiki/Vivendi "wikilink")）收购。四年之后，Noos的高级主管Gustavo
 Vainstein买下了Eurochannel。
 
 ## Eurochannel 欧洲频道
@@ -14,15 +14,15 @@ Vainstein买下了Eurochannel。
 ### 欧洲电影 Eurocinema
 
 一周3部新电影，每月70多部电影，您有机会领略到诸多欧洲著名演员的表演，诸如[Penélope
-Cruz](../Page/Penélope_Cruz.md "wikilink")，[Antonio
-Banderas](../Page/Antonio_Banderas.md "wikilink")，[Gérard
-Depardieu](../Page/Gérard_Depardieu.md "wikilink")，[Catherine
-Deneuve](../Page/Catherine_Deneuve.md "wikilink")，[Marcello
-Mastroianni](../Page/Marcello_Mastroianni.md "wikilink")，[Monica
-Bellucci](../Page/Monica_Bellucci.md "wikilink")，[Olivier
-Martinez](../Page/Olivier_Martinez.md "wikilink")，[Géraldine
-Chaplin](../Page/Géraldine_Chaplin.md "wikilink")，[Anthony
-Hopkins](../Page/Anthony_Hopkins.md "wikilink")，等等。
+Cruz](https://zh.wikipedia.org/wiki/Penélope_Cruz "wikilink")，[Antonio
+Banderas](https://zh.wikipedia.org/wiki/Antonio_Banderas "wikilink")，[Gérard
+Depardieu](https://zh.wikipedia.org/wiki/Gérard_Depardieu "wikilink")，[Catherine
+Deneuve](https://zh.wikipedia.org/wiki/Catherine_Deneuve "wikilink")，[Marcello
+Mastroianni](https://zh.wikipedia.org/wiki/Marcello_Mastroianni "wikilink")，[Monica
+Bellucci](https://zh.wikipedia.org/wiki/Monica_Bellucci "wikilink")，[Olivier
+Martinez](https://zh.wikipedia.org/wiki/Olivier_Martinez "wikilink")，[Géraldine
+Chaplin](https://zh.wikipedia.org/wiki/Géraldine_Chaplin "wikilink")，[Anthony
+Hopkins](https://zh.wikipedia.org/wiki/Anthony_Hopkins "wikilink")，等等。
 
   - 影集专题：捆绑播放4部来自同一导演，同一演员或相同主题的电影
   - 主题夜晚：为纪念一名伟大的演员和导演，播送其相关电影和纪录片。
@@ -30,23 +30,24 @@ Hopkins](../Page/Anthony_Hopkins.md "wikilink")，等等。
   - 小型剧场：“Balzac, une vie de passion”，演员阵容：Gerard Depardieu和Fanny
     Ardant； “L’Enfant des Lumieres”，演员阵容Nathalie Baye；“Rastignac
     ”，演员阵容[Jocelyn
-    Quivrin和](../Page/Jocelyn_Quivrin.md "wikilink")[Flannan
-    Obé](../Page/Flannan_Obé.md "wikilink")；“Les Miserables”，演员阵容Gerard
-    Depardieu，Jeanne Moreau 和John Malkovich；“Le Miroir de
-    l’Eau”，演员阵容Line Renaud和Cristiana Reali。
+    Quivrin和](https://zh.wikipedia.org/wiki/Jocelyn_Quivrin "wikilink")[Flannan
+    Obé](https://zh.wikipedia.org/wiki/Flannan_Obé "wikilink")；“Les
+    Miserables”，演员阵容Gerard Depardieu，Jeanne Moreau 和John Malkovich；“Le
+    Miroir de l’Eau”，演员阵容Line Renaud和Cristiana Reali。
 
 ### 欧洲剧集 Euroseires
 
-  - [辦公室笑雲](../Page/辦公室笑雲.md "wikilink")（[*The
+  - [辦公室笑雲](https://zh.wikipedia.org/wiki/辦公室笑雲 "wikilink")（[*The
     Office*](../Page/办公室风云.md "wikilink")），这是一部震惊英国电视界的连续剧。这部真人秀将故事发生地搬到了那些白领们相当熟悉的办公室场景之中。它获得了2004年金球奖最佳戏剧类连续剧和最佳戏剧类表演奖。
   - 《[冤家成双对](../Page/冤家成双对.md "wikilink")》，这部精彩的电视剧通过简短幽默的对话，展现了一群喜欢在伦敦酒吧里放松消磨时光的年轻人的生活，以及他们之间的错综复杂的关系。
   - *[H](../Page/H.md "wikilink")*：一部充满风趣的法国喜剧，故事发生在一间由疯狂教授Strauss经营的外科整形诊所中。。。
   - *Manchild*：这是一部极具幽默感的电视剧，它描述了四个三十多岁的人绝望的尝试一切可能的方式，试图重回青春的故事。
-  - *[Clara Sheller](../Page/Clara_Sheller.md "wikilink")*：如同“Sex and
-    the City”，Clara Sheller
+  - *[Clara
+    Sheller](https://zh.wikipedia.org/wiki/Clara_Sheller "wikilink")*：如同“Sex
+    and the City”，Clara Sheller
     是一部城市性感女性剧集。该片充满了幽默。这部连续剧荣获2005年Luchon电视节最佳电视剧殊荣。
   - *[Vénus et
-    Apollon](../Page/Vénus_et_Apollon.md "wikilink")*：继电影Venus
+    Apollon](https://zh.wikipedia.org/wiki/Vénus_et_Apollon "wikilink")*：继电影Venus
     Beauté的成功之后，现在终于出现了电视剧版本。在一家安逸粉红色的美容院里，男人和女人相互观察，相互安慰，他们坦白各自的爱情与幻想，并且向对方倾诉。
   - *Le septième ciel*：（2005），由RTBF
     制作的比利时连续剧描述了一群报社编辑们的日常生活。剧中描绘了他们的工作与成功，同时也刻画了他们的失败与艰辛。
@@ -58,15 +59,16 @@ Hopkins](../Page/Anthony_Hopkins.md "wikilink")，等等。
 
 ### 欧洲音乐 Euromusic
 
-音乐会，访谈，纪录片，欧洲流行乐坛的特别报道，艺人相关动态：[U2](../Page/U2.md "wikilink")，[Sting](../Page/Sting.md "wikilink")，[Paul
-McCartney](../Page/Paul_McCartney.md "wikilink")，[Alejandro
-Sanz](../Page/Alejandro_Sanz.md "wikilink")，[Oasis](../Page/Oasis.md "wikilink")，[Fatboy
-Slim](../Page/Fatboy_Slim.md "wikilink")，[Coldplay](../Page/Coldplay.md "wikilink")，[Craig
-David](../Page/Craig_David.md "wikilink")，[Elton
-John](../Page/Elton_John.md "wikilink")，[Blur](../Page/Blur.md "wikilink")，[Stereophonics](../Page/Stereophonics.md "wikilink")，[Rolling
-Stones](../Page/Rolling_Stones.md "wikilink")，[The Chemical
-Brothers](../Page/The_Chemical_Brothers.md "wikilink")，[Robbie
-Williams](../Page/Robbie_Williams.md "wikilink")，[Radiohead](../Page/Radiohead.md "wikilink")，[Texas](../Page/Texas.md "wikilink")，[Jamiroquai](../Page/Jamiroquai.md "wikilink")，[Björk](../Page/Björk.md "wikilink")。Euromusic每周日晚都放送一场盛大的音乐会或特别演出。
+音乐会，访谈，纪录片，欧洲流行乐坛的特别报道，艺人相关动态：[U2](https://zh.wikipedia.org/wiki/U2 "wikilink")，[Sting](https://zh.wikipedia.org/wiki/Sting "wikilink")，[Paul
+McCartney](https://zh.wikipedia.org/wiki/Paul_McCartney "wikilink")，[Alejandro
+Sanz](https://zh.wikipedia.org/wiki/Alejandro_Sanz "wikilink")，[Oasis](https://zh.wikipedia.org/wiki/Oasis "wikilink")，[Fatboy
+Slim](https://zh.wikipedia.org/wiki/Fatboy_Slim "wikilink")，[Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink")，[Craig
+David](https://zh.wikipedia.org/wiki/Craig_David "wikilink")，[Elton
+John](https://zh.wikipedia.org/wiki/Elton_John "wikilink")，[Blur](https://zh.wikipedia.org/wiki/Blur "wikilink")，[Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink")，[Rolling
+Stones](https://zh.wikipedia.org/wiki/Rolling_Stones "wikilink")，[The
+Chemical
+Brothers](https://zh.wikipedia.org/wiki/The_Chemical_Brothers "wikilink")，[Robbie
+Williams](https://zh.wikipedia.org/wiki/Robbie_Williams "wikilink")，[Radiohead](https://zh.wikipedia.org/wiki/Radiohead "wikilink")，[Texas](https://zh.wikipedia.org/wiki/Texas "wikilink")，[Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink")，[Björk](https://zh.wikipedia.org/wiki/Björk "wikilink")。Euromusic每周日晚都放送一场盛大的音乐会或特别演出。
 
 ### 欧洲旅游 Eurotravel
 
@@ -75,13 +77,13 @@ Eurochannel带来欧洲最美丽，最与众不同景点的介绍。在展现最
 ### 欧洲时尚 Eurofashion
 
 时尚届最新的流行咨询，最负盛名的设计师：[Giorgio
-Armani](../Page/Giorgio_Armani.md "wikilink")，[Christian
-Dior](../Page/Christian_Dior.md "wikilink")，Valentino，[Jean-Paul
-Gaultier](../Page/Jean-Paul_Gaultier.md "wikilink")，[Gianni
-Versace](../Page/Gianni_Versace.md "wikilink")，[Karl
-Lagerfeld](../Page/Karl_Lagerfeld.md "wikilink")，Stella
+Armani](https://zh.wikipedia.org/wiki/Giorgio_Armani "wikilink")，[Christian
+Dior](https://zh.wikipedia.org/wiki/Christian_Dior "wikilink")，Valentino，[Jean-Paul
+Gaultier](https://zh.wikipedia.org/wiki/Jean-Paul_Gaultier "wikilink")，[Gianni
+Versace](https://zh.wikipedia.org/wiki/Gianni_Versace "wikilink")，[Karl
+Lagerfeld](https://zh.wikipedia.org/wiki/Karl_Lagerfeld "wikilink")，Stella
 McCartney，[Alexander
-McQueen](../Page/Alexander_McQueen.md "wikilink")，Vivianne
+McQueen](https://zh.wikipedia.org/wiki/Alexander_McQueen "wikilink")，Vivianne
 Westwood，Dolce & Gabanna，Issey Miyake，Julien McDonald，John Galiano。。。
 
   - 著名设计师的详细介绍
@@ -104,7 +106,7 @@ Eurochannel同时有自己的电影制作，名人访谈及纪录片。
   - Europa Paulistana
 
 Eurochannel和Grifa Mixer
-Production（巴西主要制作公司之一）在巴西[圣保罗做了一次特殊的旅行](../Page/圣保罗.md "wikilink")。目的是了解在巴西居住的欧洲移民，他们也被称作Europa
+Production（巴西主要制作公司之一）在巴西[圣保罗做了一次特殊的旅行](https://zh.wikipedia.org/wiki/圣保罗 "wikilink")。目的是了解在巴西居住的欧洲移民，他们也被称作Europa
 Paulistana。
 
 Europa Paulistana讲述了在圣保罗这座迷人城市中，欧洲移民的日常生活习惯，以及他们的诸多喜悦与困难。

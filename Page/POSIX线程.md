@@ -1,10 +1,10 @@
-**POSIX线程**（，常被縮寫為）是[POSIX的](../Page/POSIX.md "wikilink")[线程标准](../Page/线程.md "wikilink")，定义了创建和操纵线程的一套[API](../Page/Application_programming_interface.md "wikilink")。
+**POSIX线程**（，常被縮寫為）是[POSIX的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[线程标准](../Page/线程.md "wikilink")，定义了创建和操纵线程的一套[API](https://zh.wikipedia.org/wiki/Application_programming_interface "wikilink")。
 
 实现POSIX
-线程标准的库常被称作**Pthreads**，一般用于[Unix-like](../Page/Unix-like.md "wikilink")
+线程标准的库常被称作**Pthreads**，一般用于[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
 POSIX 系统，如[Linux](../Page/Linux.md "wikilink")、
 [Solaris](../Page/Solaris.md "wikilink")。但是[Microsoft
-Windows上的实现也存在](../Page/Microsoft_Windows.md "wikilink")，例如直接使用Windows
+Windows上的实现也存在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，例如直接使用Windows
 API实现的第三方库pthreads-w32；而利用Windows的SFU/SUA子系统，则可以使用微软提供的一部分原生POSIX API。
 
 ## API具体内容
@@ -15,11 +15,11 @@ Pthreads API中大致共有100个函数调用，全都以"pthread_"开头，并�
 
   - 线程管理，例如创建线程，等待(join)线程，查询线程状态等。
   - [互斥锁](../Page/互斥锁.md "wikilink")（Mutex）：创建、摧毁、锁定、解锁、设置属性等操作
-  - [条件变量](../Page/条件变量.md "wikilink")（Condition
+  - [条件变量](https://zh.wikipedia.org/wiki/条件变量 "wikilink")（Condition
     Variable）：创建、摧毁、等待、通知、设置与查询属性等操作
-  - 使用了互斥锁的线程间的[同步管理](../Page/同步_\(計算機科學\).md "wikilink")
+  - 使用了互斥锁的线程间的[同步管理](https://zh.wikipedia.org/wiki/同步_\(計算機科學\) "wikilink")
 
-POSIX的[Semaphore](../Page/信号标.md "wikilink")
+POSIX的[Semaphore](https://zh.wikipedia.org/wiki/信号标 "wikilink")
 API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这部分API是以"sem_"打头，而非"pthread_"。
 
 ### 数据类型
@@ -32,9 +32,9 @@ API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这�
         sched_param结构，目前仅有一个sched_priority整型变量表示线程的运行优先级。这个参数仅当调度策略为实时（即SCHED_RR或SCHED_FIFO）时才有效，并可以在运行时通过pthread_setschedparam()函数来改变，缺省为0。系统支持的最大和最小的优先级值可以用函数sched_get_priority_max和sched_get_priority_min得到。
       - __inheritsched，有两种值可供选择：PTHREAD_EXPLICIT_SCHED和PTHREAD_INHERIT_SCHED，前者表示新线程使用显式指定调度策略和调度参数（即attr中的值），而后者表示继承调用者线程的值。缺省为PTHREAD_EXPLICIT_SCHED。
       - __scope，表示线程间竞争CPU的范围，也就是说线程优先级的有效范围。POSIX的标准中定义了两个值：PTHREAD_SCOPE_SYSTEM和PTHREAD_SCOPE_PROCESS，前者表示与系统中所有线程一起竞争CPU时间，后者表示仅与同进程中的线程竞争CPU。目前LinuxThreads仅实现了PTHREAD_SCOPE_SYSTEM一值。
-  - `pthread_barrier_t`：[同步屏障数据类型](../Page/同步屏障.md "wikilink")
-  - `pthread_mutex_t`：[mutex数据类型](../Page/mutex.md "wikilink")
-  - `pthread_cond_t`：[条件变量数据类型](../Page/条件变量.md "wikilink")
+  - `pthread_barrier_t`：[同步屏障数据类型](https://zh.wikipedia.org/wiki/同步屏障 "wikilink")
+  - `pthread_mutex_t`：[mutex数据类型](https://zh.wikipedia.org/wiki/mutex "wikilink")
+  - `pthread_cond_t`：[条件变量数据类型](https://zh.wikipedia.org/wiki/条件变量 "wikilink")
 
 ### 函数
 
@@ -62,7 +62,7 @@ API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这�
   - `pthread_attr_getschedparam()`：获取线程属性变量的schedparam属性，即调用的优先级。
   - `pthread_attr_destroy()`：删除线程的属性，用无效值覆盖
 
-[mutex函数](../Page/mutex.md "wikilink")：
+[mutex函数](https://zh.wikipedia.org/wiki/mutex "wikilink")：
 
   - `pthread_mutex_init()` 初始化互斥锁
   - `pthread_mutex_destroy()` 删除互斥锁
@@ -71,7 +71,7 @@ API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这�
   - `pthread_mutex_unlock()`: 释放互斥锁
   - `pthread_mutexattr_()`: 互斥锁属性相关的函数
 
-[条件变量函数](../Page/条件变量.md "wikilink")：
+[条件变量函数](https://zh.wikipedia.org/wiki/条件变量 "wikilink")：
 
   - `pthread_cond_init()`：初始化条件变量
   - `pthread_cond_destroy()`：销毁条件变量
@@ -121,7 +121,7 @@ API可以和Pthreads协同工作，但这并不是Pthreads的标准。因而这�
   - sem_init：初始化非命名（内存）信号量
   - sem_destroy：摧毁非命名信号量
 
-[共享内存函数](../Page/共享内存.md "wikilink")，包含在`sys/mman.h`中，链接时使用rt库：
+[共享内存函数](https://zh.wikipedia.org/wiki/共享内存 "wikilink")，包含在`sys/mman.h`中，链接时使用rt库：
 
   - mmap：把一个文件或一个POSIX共享内存区对象映射到调用进程的地址空间。使用该函数的目的： 1.使用普通文件以提供内存映射I/O
     2.使用特殊文件以提供匿名内存映射。 3.使用shm_open以提供无亲缘关系进程间的Posix共享内存区。
@@ -197,9 +197,10 @@ int main(void)
   - ：*Programming with POSIX Threads*, Addison-Wesley, ISBN
     0-201-63392-2
 
-  - ，[Dick Buttlar](../Page/Dick_Buttlar.md "wikilink")，[Jacqueline
+  - ，[Dick
+    Buttlar](https://zh.wikipedia.org/wiki/Dick_Buttlar "wikilink")，[Jacqueline
     Proulx
-    Farell](../Page/Jacqueline_Proulx_Farell.md "wikilink")：*Pthreads
+    Farell](https://zh.wikipedia.org/wiki/Jacqueline_Proulx_Farell "wikilink")：*Pthreads
     Programming*, O'Reilly & Associates, ISBN 1-56592-115-1
 
   - ：*Programming with UNIX Threads*, John Wiley & Sons, ISBN
@@ -226,12 +227,14 @@ int main(void)
     Pthreads](http://yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html)
   - Article "[POSIX threads
     explained](http://www.ibm.com/developerworks/library/l-posix1/)" by
-    [Daniel Robbins](../Page/Daniel_Robbins.md "wikilink") ([Gentoo
-    Linux创建者](../Page/Gentoo_Linux.md "wikilink"))
+    [Daniel
+    Robbins](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")
+    ([Gentoo Linux创建者](../Page/Gentoo_Linux.md "wikilink"))
   - Interview "[Ten Questions with David Butenhof about Parallel
     Programming and POSIX
     Threads](http://www.thinkingparallel.com/2007/04/11/ten-questions-with-david-butenhof-about-parallel-programming-and-posix-threads/)"
-    by [Michael Suess](../Page/Michael_Suess.md "wikilink")
+    by [Michael
+    Suess](https://zh.wikipedia.org/wiki/Michael_Suess "wikilink")
   - [Open Source POSIX Threads for
     Win32](http://sources.redhat.com/pthreads-win32/)
   - [The Open Group Base Specifications Issue 6, IEEE

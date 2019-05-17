@@ -1,9 +1,9 @@
 **Pico**(**PI**ne
-**CO**mposer)\[1\]是[Unix操作系统中最常见的三种文字处理软件之一](../Page/Unix.md "wikilink")\[2\]，具有文字编辑、搜索、[拼写检查](../Page/拼写检查.md "wikilink")、文件浏览和段对齐功能\[3\]，适合高效地编辑短小的文件\[4\]。
+**CO**mposer)\[1\]是[Unix操作系统中最常见的三种文字处理软件之一](https://zh.wikipedia.org/wiki/Unix "wikilink")\[2\]，具有文字编辑、搜索、[拼写检查](https://zh.wikipedia.org/wiki/拼写检查 "wikilink")、文件浏览和段对齐功能\[3\]，适合高效地编辑短小的文件\[4\]。
 
-Pico是由华盛顿大学开发的免费软件，随着[pine电子邮件处理软件发布](../Page/pine.md "wikilink")\[5\]。它是在[Emacs的基础上以pine的邮件编辑为目标而开发的](../Page/Emacs.md "wikilink")\[6\]，所以其指令集是Emacs的子集\[7\]，但是由于在界面上有提示[快捷键](../Page/快捷键.md "wikilink")，相对于[vi和](../Page/vi.md "wikilink")[Emacs来说更加容易使用](../Page/Emacs.md "wikilink")\[8\]。
+Pico是由华盛顿大学开发的免费软件，随着[pine电子邮件处理软件发布](https://zh.wikipedia.org/wiki/pine "wikilink")\[5\]。它是在[Emacs的基础上以pine的邮件编辑为目标而开发的](../Page/Emacs.md "wikilink")\[6\]，所以其指令集是Emacs的子集\[7\]，但是由于在界面上有提示[快捷键](../Page/快捷键.md "wikilink")，相对于[vi和](https://zh.wikipedia.org/wiki/vi "wikilink")[Emacs来说更加容易使用](../Page/Emacs.md "wikilink")\[8\]。
 
-由于Pico虽然是免费软件，但是它并不是开源软件，所以很多Linux版本并不包含Pico。这些版本通常提供一个界面类似的开源软件[nano](../Page/nano.md "wikilink")\[9\]。
+由于Pico虽然是免费软件，但是它并不是开源软件，所以很多Linux版本并不包含Pico。这些版本通常提供一个界面类似的开源软件[nano](https://zh.wikipedia.org/wiki/nano "wikilink")\[9\]。
 
 ## 参考和引用
 

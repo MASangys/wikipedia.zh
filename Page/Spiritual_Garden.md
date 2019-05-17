@@ -1,6 +1,6 @@
 **Spiritual
 Garden**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里的第](../Page/田村由香里.md "wikilink")9張單曲，由[科樂美於](../Page/科樂美.md "wikilink")2005年10月26日發行，並由[KING
-RECORDS負責分銷](../Page/KING_RECORDS.md "wikilink")。商品編號為GBCM-7。
+RECORDS負責分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為GBCM-7。
 
 ## 概要
 
@@ -10,8 +10,8 @@ RECORDS負責分銷](../Page/KING_RECORDS.md "wikilink")。商品編號為GBCM-7
 ## 收錄曲目
 
 1.  Spiritual Garden
-      - 作詞：，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")
-      - 動畫「[魔法少女奈葉A's](../Page/魔法少女奈葉A's.md "wikilink")」片尾曲
+      - 作詞：，作曲、編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+      - 動畫「[魔法少女奈葉A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")」片尾曲
 2.  Cutie ♥ Cutie
       - 作詞：，作曲、編曲：[橋本由香利](../Page/橋本由香利.md "wikilink")
       - 田村由香里主持的電台節目「」開首曲（2005年10月－2006年4月）

@@ -1,9 +1,9 @@
 **PL/SQL**（Procedural
-Language/SQL）是[甲骨文公司專有的](../Page/甲骨文公司.md "wikilink")[SQL擴展語言](../Page/SQL.md "wikilink")，應用在[甲骨文公司的](../Page/甲骨文公司.md "wikilink")[Oracle](../Page/Oracle.md "wikilink")[数据库系統](../Page/数据库系統.md "wikilink")。一些的[SQL](../Page/SQL.md "wikilink")[数据库管理系統也提供了類似的](../Page/数据库管理系統.md "wikilink")[擴展SQL語言](../Page/擴展SQL語言.md "wikilink")。PL/SQL的的[語法非常類似於](../Page/語法.md "wikilink")[Ada](../Page/Ada.md "wikilink")，而且像1980年代的[Ada編譯器一樣](../Page/Ada.md "wikilink")，PL/SQL的運作系統使用[Diana作為](../Page/Diana.md "wikilink")[中介語言](../Page/中介語言.md "wikilink")。
+Language/SQL）是[甲骨文公司專有的](../Page/甲骨文公司.md "wikilink")[SQL擴展語言](../Page/SQL.md "wikilink")，應用在[甲骨文公司的](../Page/甲骨文公司.md "wikilink")[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")[数据库系統](https://zh.wikipedia.org/wiki/数据库系統 "wikilink")。一些的[SQL](../Page/SQL.md "wikilink")[数据库管理系統也提供了類似的](https://zh.wikipedia.org/wiki/数据库管理系統 "wikilink")[擴展SQL語言](https://zh.wikipedia.org/wiki/擴展SQL語言 "wikilink")。PL/SQL的的[語法非常類似於](https://zh.wikipedia.org/wiki/語法 "wikilink")[Ada](../Page/Ada.md "wikilink")，而且像1980年代的[Ada編譯器一樣](../Page/Ada.md "wikilink")，PL/SQL的運作系統使用[Diana作為](https://zh.wikipedia.org/wiki/Diana "wikilink")[中介語言](https://zh.wikipedia.org/wiki/中介語言 "wikilink")。
 
-重要的是PL/SQL緊密的結合在[Oracle数据库裡面](../Page/Oracle.md "wikilink")。
+重要的是PL/SQL緊密的結合在[Oracle数据库裡面](https://zh.wikipedia.org/wiki/Oracle "wikilink")。
 
-PL/SQL是[Oracle數據庫使用的三種語言的其中之一](../Page/Oracle.md "wikilink")，另外兩個是[SQL和](../Page/SQL.md "wikilink")[Java](../Page/Java.md "wikilink")。
+PL/SQL是[Oracle數據庫使用的三種語言的其中之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，另外兩個是[SQL和](../Page/SQL.md "wikilink")[Java](../Page/Java.md "wikilink")。
 
 ## 歷史
 
@@ -35,7 +35,7 @@ variable_name number[([P][, S])] := 0;
 ```
 
   - NUMBER可选指定precision (P)与scale
-    (S)。[精度表示十进制有效数字的个数](../Page/精度.md "wikilink")，最多不能超过38个有效数字（实际支持39-40位十进制数字）。Scale的范围为\[-84，127\]。Scale为正数时，表示从小数点到最不重要的十进制有效数字的个数；为负数时，其绝对值表示从最不重要的十进制有效数字到小数点的位数。如果没有指定精度，precision与scale默认为最大的取值区间。如果指定了精度，没有指定scale，scale默认为0。内部存储格式是变长阿拉伯数字的字节数组:
+    (S)。[精度表示十进制有效数字的个数](https://zh.wikipedia.org/wiki/精度 "wikilink")，最多不能超过38个有效数字（实际支持39-40位十进制数字）。Scale的范围为\[-84，127\]。Scale为正数时，表示从小数点到最不重要的十进制有效数字的个数；为负数时，其绝对值表示从最不重要的十进制有效数字到小数点的位数。如果没有指定精度，precision与scale默认为最大的取值区间。如果指定了精度，没有指定scale，scale默认为0。内部存储格式是变长阿拉伯数字的字节数组:
       - 首字节为长度值，最大22；如果为NULL，则该字节值为255(0xFF)
       - 第二字节是符号和指数字节(sign
         bit/exponent)，其最高比特为符号位，1表示正数，0表示负数；其余7比特构成基为100的指数值，取值范围\[-65，62\]，NUMBER数据类型的取值范围为\[10<sup>-130</sup>,10<sup>126</sup>)；
@@ -350,17 +350,17 @@ for...loop循环可以限定循环的次数例如：
 
 ## 類似的語言
 
-功能近似PL/SQL的[程序語言和其他](../Page/程序語言.md "wikilink")[關係型資料庫](../Page/關係型資料庫.md "wikilink")：
+功能近似PL/SQL的[程序語言和其他](https://zh.wikipedia.org/wiki/程序語言 "wikilink")[關係型資料庫](https://zh.wikipedia.org/wiki/關係型資料庫 "wikilink")：
 
   - [Sybase](../Page/Sybase.md "wikilink")
-    [ASE](../Page/ASE.md "wikilink")
+    [ASE](https://zh.wikipedia.org/wiki/ASE "wikilink")
   - [Microsoft SQL
-    Server的](../Page/Microsoft_SQL_Server.md "wikilink")[Transact-SQL](../Page/Transact-SQL.md "wikilink")
-  - [PostgreSQL資料庫的](../Page/PostgreSQL.md "wikilink")[PL/pgSQL](../Page/PL/pgSQL.md "wikilink")（模仿PL/SQL）
+    Server的](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Transact-SQL](../Page/Transact-SQL.md "wikilink")
+  - [PostgreSQL資料庫的](../Page/PostgreSQL.md "wikilink")[PL/pgSQL](https://zh.wikipedia.org/wiki/PL/pgSQL "wikilink")（模仿PL/SQL）
   - [IBM DB2的](../Page/IBM_DB2.md "wikilink")[SQL
-    PL](../Page/SQL_PL.md "wikilink")\[3\]
-  - 符合[ISO](../Page/ISO.md "wikilink")
-    [SQL的](../Page/SQL.md "wikilink")[SQL/PSM標準](../Page/SQL/PSM.md "wikilink")。
+    PL](https://zh.wikipedia.org/wiki/SQL_PL "wikilink")\[3\]
+  - 符合[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")
+    [SQL的](../Page/SQL.md "wikilink")[SQL/PSM標準](https://zh.wikipedia.org/wiki/SQL/PSM "wikilink")。
 
 ## 注释
 
@@ -373,7 +373,7 @@ for...loop循环可以限定循环的次数例如：
   - [Oracle数据库](../Page/Oracle数据库.md "wikilink")
   - [SQL](../Page/SQL.md "wikilink")
   - [Transact-SQL](../Page/Transact-SQL.md "wikilink")
-  - [關聯式資料庫管理系統](../Page/關聯式資料庫管理系統.md "wikilink")
+  - [關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")
 
 {{-}}
 

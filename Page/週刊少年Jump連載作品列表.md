@@ -1,61 +1,62 @@
-**週刊少年Jump連載作品列表**列出所有在[集英社的](../Page/集英社.md "wikilink")[少年漫畫雜誌](../Page/少年漫畫.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（創刊時為「少年Jump」）上連載的[漫畫作品](../Page/漫畫.md "wikilink")（按連載時間順序排列）。
+**週刊少年Jump連載作品列表**列出所有在[集英社的](../Page/集英社.md "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（創刊時為「少年Jump」）上連載的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（按連載時間順序排列）。
 
 ※連載中的作品以**粗體字**標記。
 
 <onlyinclude>{|class="toc plainlinks" style="font-size:small" \!目錄 |-
-|　[連載作品](../Page/#連載作品.md "wikilink") |-
-|　　[1968](../Page/#1968.md "wikilink") -
-[1969](../Page/#1969.md "wikilink") -
-[1970](../Page/#1970.md "wikilink") |-
-|　　[1971](../Page/#1971.md "wikilink") -
-[1972](../Page/#1972.md "wikilink") -
-[1973](../Page/#1973.md "wikilink") -
-[1974](../Page/#1974.md "wikilink") -
-[1975](../Page/#1975.md "wikilink") -
-[1976](../Page/#1976.md "wikilink") -
-[1977](../Page/#1977.md "wikilink") -
-[1978](../Page/#1978.md "wikilink") -
-[1979](../Page/#1979.md "wikilink") -
-[1980](../Page/#1980.md "wikilink")　 |-
-|　　[1981](../Page/#1981.md "wikilink") -
-[1982](../Page/#1982.md "wikilink") -
-[1983](../Page/#1983.md "wikilink") -
-[1984](../Page/#1984.md "wikilink") -
-[1985](../Page/#1985.md "wikilink") -
-[1986](../Page/#1986.md "wikilink") -
-[1987](../Page/#1987.md "wikilink") -
-[1988](../Page/#1988.md "wikilink") -
-[1989](../Page/#1989.md "wikilink") -
-[1990](../Page/#1990.md "wikilink") |-
-|　　[1991](../Page/#1991.md "wikilink") -
-[1992](../Page/#1992.md "wikilink") -
-[1993](../Page/#1993.md "wikilink") -
-[1994](../Page/#1994.md "wikilink") -
-[1995](../Page/#1995.md "wikilink") -
-[1996](../Page/#1996.md "wikilink") -
-[1997](../Page/#1997.md "wikilink") -
-[1998](../Page/#1998.md "wikilink") -
-[1999](../Page/#1999.md "wikilink") -
-[2000](../Page/#2000.md "wikilink") |-
-|　　[2001](../Page/#2001.md "wikilink") -
-[2002](../Page/#2002.md "wikilink") -
-[2003](../Page/#2003.md "wikilink") -
-[2004](../Page/#2004.md "wikilink") -
-[2005](../Page/#2005.md "wikilink") -
-[2006](../Page/#2006.md "wikilink") -
-[2007](../Page/#2007.md "wikilink") -
-[2008](../Page/#2008.md "wikilink") -
-[2009](../Page/#2009.md "wikilink") -
-[2010](../Page/#2010.md "wikilink") |-
-|　　[2011](../Page/#2011.md "wikilink") -
-[2012](../Page/#2012.md "wikilink") -
-[2013](../Page/#2013.md "wikilink") -
-[2014](../Page/#2014.md "wikilink") -
-[2015](../Page/#2015.md "wikilink") -
-[2016](../Page/#2016.md "wikilink") -
-[2017](../Page/#2017.md "wikilink") -
-[2018](../Page/#2018.md "wikilink") -
-[2019](../Page/#2019.md "wikilink") |- |　[參見](../Page/#參見.md "wikilink")
+|　[連載作品](https://zh.wikipedia.org/wiki/#連載作品 "wikilink") |-
+|　　[1968](https://zh.wikipedia.org/wiki/#1968 "wikilink") -
+[1969](https://zh.wikipedia.org/wiki/#1969 "wikilink") -
+[1970](https://zh.wikipedia.org/wiki/#1970 "wikilink") |-
+|　　[1971](https://zh.wikipedia.org/wiki/#1971 "wikilink") -
+[1972](https://zh.wikipedia.org/wiki/#1972 "wikilink") -
+[1973](https://zh.wikipedia.org/wiki/#1973 "wikilink") -
+[1974](https://zh.wikipedia.org/wiki/#1974 "wikilink") -
+[1975](https://zh.wikipedia.org/wiki/#1975 "wikilink") -
+[1976](https://zh.wikipedia.org/wiki/#1976 "wikilink") -
+[1977](https://zh.wikipedia.org/wiki/#1977 "wikilink") -
+[1978](https://zh.wikipedia.org/wiki/#1978 "wikilink") -
+[1979](https://zh.wikipedia.org/wiki/#1979 "wikilink") -
+[1980](https://zh.wikipedia.org/wiki/#1980 "wikilink")　 |-
+|　　[1981](https://zh.wikipedia.org/wiki/#1981 "wikilink") -
+[1982](https://zh.wikipedia.org/wiki/#1982 "wikilink") -
+[1983](https://zh.wikipedia.org/wiki/#1983 "wikilink") -
+[1984](https://zh.wikipedia.org/wiki/#1984 "wikilink") -
+[1985](https://zh.wikipedia.org/wiki/#1985 "wikilink") -
+[1986](https://zh.wikipedia.org/wiki/#1986 "wikilink") -
+[1987](https://zh.wikipedia.org/wiki/#1987 "wikilink") -
+[1988](https://zh.wikipedia.org/wiki/#1988 "wikilink") -
+[1989](https://zh.wikipedia.org/wiki/#1989 "wikilink") -
+[1990](https://zh.wikipedia.org/wiki/#1990 "wikilink") |-
+|　　[1991](https://zh.wikipedia.org/wiki/#1991 "wikilink") -
+[1992](https://zh.wikipedia.org/wiki/#1992 "wikilink") -
+[1993](https://zh.wikipedia.org/wiki/#1993 "wikilink") -
+[1994](https://zh.wikipedia.org/wiki/#1994 "wikilink") -
+[1995](https://zh.wikipedia.org/wiki/#1995 "wikilink") -
+[1996](https://zh.wikipedia.org/wiki/#1996 "wikilink") -
+[1997](https://zh.wikipedia.org/wiki/#1997 "wikilink") -
+[1998](https://zh.wikipedia.org/wiki/#1998 "wikilink") -
+[1999](https://zh.wikipedia.org/wiki/#1999 "wikilink") -
+[2000](https://zh.wikipedia.org/wiki/#2000 "wikilink") |-
+|　　[2001](https://zh.wikipedia.org/wiki/#2001 "wikilink") -
+[2002](https://zh.wikipedia.org/wiki/#2002 "wikilink") -
+[2003](https://zh.wikipedia.org/wiki/#2003 "wikilink") -
+[2004](https://zh.wikipedia.org/wiki/#2004 "wikilink") -
+[2005](https://zh.wikipedia.org/wiki/#2005 "wikilink") -
+[2006](https://zh.wikipedia.org/wiki/#2006 "wikilink") -
+[2007](https://zh.wikipedia.org/wiki/#2007 "wikilink") -
+[2008](https://zh.wikipedia.org/wiki/#2008 "wikilink") -
+[2009](https://zh.wikipedia.org/wiki/#2009 "wikilink") -
+[2010](https://zh.wikipedia.org/wiki/#2010 "wikilink") |-
+|　　[2011](https://zh.wikipedia.org/wiki/#2011 "wikilink") -
+[2012](https://zh.wikipedia.org/wiki/#2012 "wikilink") -
+[2013](https://zh.wikipedia.org/wiki/#2013 "wikilink") -
+[2014](https://zh.wikipedia.org/wiki/#2014 "wikilink") -
+[2015](https://zh.wikipedia.org/wiki/#2015 "wikilink") -
+[2016](https://zh.wikipedia.org/wiki/#2016 "wikilink") -
+[2017](https://zh.wikipedia.org/wiki/#2017 "wikilink") -
+[2018](https://zh.wikipedia.org/wiki/#2018 "wikilink") -
+[2019](https://zh.wikipedia.org/wiki/#2019 "wikilink") |-
+|　[參見](https://zh.wikipedia.org/wiki/#參見 "wikilink")
 |}__NOTOC__</onlyinclude>
 
 ## 連載作品
@@ -134,7 +135,7 @@
 <tr class="odd">
 <td><p>006</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1968.11</p></td>
 <td><p>1973.13</p></td>
@@ -160,7 +161,7 @@
 </tr>
 <tr class="even">
 <td><p>008</p></td>
-<td><p><a href="../Page/爆發野郎.md" title="wikilink">爆發野郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/爆發野郎" title="wikilink">爆發野郎</a></p></td>
 <td><p>梅本幸雄</p></td>
 <td><p>－</p></td>
 <td><p>1969.01</p></td>
@@ -368,7 +369,7 @@
 <tr class="odd">
 <td><p>030</p></td>
 <td></td>
-<td><p><a href="../Page/池上遼一.md" title="wikilink">池上遼一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池上遼一" title="wikilink">池上遼一</a></p></td>
 <td><p>－</p></td>
 <td><p>1970.06</p></td>
 <td><p>1970.11</p></td>
@@ -783,7 +784,7 @@
 <tr class="odd">
 <td><p>075</p></td>
 <td><p>青春最前線</p></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1971.37</p></td>
 <td><p>1971.40</p></td>
@@ -856,7 +857,7 @@
 <tr class="odd">
 <td><p>082</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1972.05</p></td>
 <td><p>1972.29</p></td>
@@ -928,7 +929,7 @@
 <tr class="odd">
 <td><p>090</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>遠崎史朗</p></td>
 <td><p>1972.39</p></td>
 <td><p>1976.26</p></td>
@@ -1017,7 +1018,7 @@
 </tr>
 <tr class="odd">
 <td><p>099</p></td>
-<td><p><a href="../Page/赤足小子.md" title="wikilink">赤足小子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤足小子" title="wikilink">赤足小子</a></p></td>
 <td><p>中澤啟治</p></td>
 <td><p>－</p></td>
 <td><p>1973.25</p></td>
@@ -1063,7 +1064,7 @@
 <tr class="even">
 <td><p>104</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1973.37</p></td>
 <td><p>1975.28</p></td>
@@ -1153,7 +1154,7 @@
 <tr class="even">
 <td><p>113</p></td>
 <td></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1974.39</p></td>
 <td><p>1975.42</p></td>
@@ -1270,7 +1271,7 @@
 <tr class="odd">
 <td><p>125</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1975.42</p></td>
 <td><p>1976.25</p></td>
@@ -1396,7 +1397,7 @@
 <tr class="odd">
 <td><p>138</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1976.31</p></td>
 <td><p>1976.45</p></td>
@@ -1459,7 +1460,7 @@
 <tr class="even">
 <td><p>144</p></td>
 <td><p><a href="../Page/熱拳本色.md" title="wikilink">-{zh-cn:拳王创世纪;zh-hk:拳王創世紀;zh-tw:熱拳本色;}-</a></p></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1977.02</p></td>
 <td><p>1981.44</p></td>
@@ -1477,7 +1478,7 @@
 <tr class="even">
 <td><p>146</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1977.08</p></td>
 <td><p>1979.15</p></td>
@@ -1612,7 +1613,7 @@
 <tr class="odd">
 <td><p>160</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1978.03/04</p></td>
 <td><p>1979.39</p></td>
@@ -1747,7 +1748,7 @@
 <tr class="even">
 <td><p>174</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1979.20</p></td>
 <td><p>1979.31</p></td>
@@ -1819,7 +1820,7 @@
 <tr class="even">
 <td><p>182</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1979.42</p></td>
 <td><p>1979.52</p></td>
@@ -1846,7 +1847,7 @@
 <tr class="odd">
 <td><p>185</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1979.46</p></td>
 <td><p>1980.17</p></td>
@@ -1908,7 +1909,7 @@
 </tr>
 <tr class="even">
 <td><p>191</p></td>
-<td><p><a href="../Page/出口兄弟奮戰記.md" title="wikilink">出口兄弟奮戰記</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/出口兄弟奮戰記" title="wikilink">出口兄弟奮戰記</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>1980.20</p></td>
@@ -1936,7 +1937,7 @@
 <tr class="odd">
 <td><p>194</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1980.23</p></td>
 <td><p>1981.16</p></td>
@@ -1998,8 +1999,8 @@
 </tr>
 <tr class="even">
 <td><p>201</p></td>
-<td><p><a href="../Page/黃金的Bantam.md" title="wikilink">黃金的Bantam</a></p></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a>（漫畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃金的Bantam" title="wikilink">黃金的Bantam</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a>（漫畫）</p></td>
 <td><p>（原作）</p></td>
 <td><p>1980.40</p></td>
 <td><p>1981.02/03</p></td>
@@ -2052,7 +2053,7 @@
 </tr>
 <tr class="even">
 <td><p>206</p></td>
-<td><p><a href="../Page/熊元拳.md" title="wikilink">熊元拳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊元拳" title="wikilink">熊元拳</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>1981.04/05</p></td>
@@ -2080,7 +2081,7 @@
 <tr class="odd">
 <td><p>209</p></td>
 <td><p><a href="../Page/足球小將.md" title="wikilink">足球小將</a></p></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1981.18</p></td>
 <td><p>1988.22</p></td>
@@ -2097,7 +2098,7 @@
 </tr>
 <tr class="odd">
 <td><p>211</p></td>
-<td><p><a href="../Page/魔劍士.md" title="wikilink">魔劍士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔劍士" title="wikilink">魔劍士</a></p></td>
 <td><p>（漫畫）</p></td>
 <td><p>（原作）</p></td>
 <td><p>1981.20</p></td>
@@ -2243,7 +2244,7 @@
 <td><p>226</p></td>
 <td><p>{{lang|ja|ごめんください</p></td>
 <td><p>アリゲーター}}</p></td>
-<td><p><a href="../Page/HIROSHI_ARO.md" title="wikilink">HIROSHI ARO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HIROSHI_ARO" title="wikilink">HIROSHI ARO</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.01/02</p></td>
 <td><p>1982.05</p></td>
@@ -2251,7 +2252,7 @@
 <tr class="even">
 <td><p>227</p></td>
 <td><p><a href="../Page/風魔小次郎.md" title="wikilink">風魔小次郎</a></p></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.03/04</p></td>
 <td><p>1983.49</p></td>
@@ -2287,7 +2288,7 @@
 <tr class="even">
 <td><p>231</p></td>
 <td></td>
-<td><p><a href="../Page/中島德博.md" title="wikilink">中島德博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中島德博" title="wikilink">中島德博</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.19</p></td>
 <td><p>1982.30</p></td>
@@ -2314,7 +2315,7 @@
 <tr class="odd">
 <td><p>234</p></td>
 <td></td>
-<td><p><a href="../Page/HIROSHI_ARO.md" title="wikilink">HIROSHI ARO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HIROSHI_ARO" title="wikilink">HIROSHI ARO</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.26</p></td>
 <td><p>1982.35</p></td>
@@ -2323,7 +2324,7 @@
 <tr class="even">
 <td><p>235</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.31</p></td>
 <td><p>1983.08</p></td>
@@ -2340,7 +2341,7 @@
 </tr>
 <tr class="even">
 <td><p>237</p></td>
-<td><p><a href="../Page/Jun.md" title="wikilink">Jun</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jun" title="wikilink">Jun</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>1982.33</p></td>
@@ -2376,7 +2377,7 @@
 </tr>
 <tr class="even">
 <td><p>241</p></td>
-<td><p><a href="../Page/鐵人唐吉訶德.md" title="wikilink">鐵人唐吉訶德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鐵人唐吉訶德" title="wikilink">鐵人唐吉訶德</a></p></td>
 <td><p><a href="../Page/原哲夫.md" title="wikilink">原哲夫</a></p></td>
 <td><p>－</p></td>
 <td><p>1982.45</p></td>
@@ -2385,7 +2386,7 @@
 </tr>
 <tr class="odd">
 <td><p>242</p></td>
-<td><p><a href="../Page/滅菌部隊.md" title="wikilink">滅菌部隊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滅菌部隊" title="wikilink">滅菌部隊</a></p></td>
 <td><p>那須輝一郎</p></td>
 <td><p>－</p></td>
 <td><p>1982.46</p></td>
@@ -2412,7 +2413,7 @@
 </tr>
 <tr class="even">
 <td><p>244</p></td>
-<td><p><a href="../Page/Scandoll.md" title="wikilink">Scandoll</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scandoll" title="wikilink">Scandoll</a></p></td>
 <td><p>小谷憲一</p></td>
 <td><p>－</p></td>
 <td><p>1983.03</p></td>
@@ -2421,7 +2422,7 @@
 </tr>
 <tr class="odd">
 <td><p>245</p></td>
-<td><p><a href="../Page/嗚呼！！毘沙門高校.md" title="wikilink">嗚呼！！毘沙門高校</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/嗚呼！！毘沙門高校" title="wikilink">嗚呼！！毘沙門高校</a></p></td>
 <td><p>宮下亞喜羅</p></td>
 <td><p>－</p></td>
 <td><p>1983.04</p></td>
@@ -2444,7 +2445,7 @@
 <td><p>－</p></td>
 <td><p>1983.15</p></td>
 <td><p>1983.26</p></td>
-<td><p>→『<a href="../Page/Fresh_Jump.md" title="wikilink">Fresh Jump</a>』連載</p></td>
+<td><p>→『<a href="https://zh.wikipedia.org/wiki/Fresh_Jump" title="wikilink">Fresh Jump</a>』連載</p></td>
 </tr>
 <tr class="even">
 <td><p>248</p></td>
@@ -2466,8 +2467,8 @@
 </tr>
 <tr class="even">
 <td><p>250</p></td>
-<td><p><a href="../Page/吞食天地_(漫畫).md" title="wikilink">吞食天地</a></p></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吞食天地_(漫畫)" title="wikilink">吞食天地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1983.27</p></td>
 <td><p>1984.38</p></td>
@@ -2494,7 +2495,7 @@
 <tr class="odd">
 <td><p>253</p></td>
 <td></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>－</p></td>
 <td><p>1983.42</p></td>
 <td><p>1983.51</p></td>
@@ -2511,7 +2512,7 @@
 </tr>
 <tr class="odd">
 <td><p>255</p></td>
-<td><p><a href="../Page/銀牙.md" title="wikilink">銀牙－流星銀－</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銀牙" title="wikilink">銀牙－流星銀－</a></p></td>
 <td><p>高橋義廣</p></td>
 <td><p>－</p></td>
 <td><p>1983.50</p></td>
@@ -2547,7 +2548,7 @@
 </tr>
 <tr class="odd">
 <td><p>258</p></td>
-<td><p><a href="../Page/懷特先生.md" title="wikilink">懷特先生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/懷特先生" title="wikilink">懷特先生</a></p></td>
 <td><p>猿渡哲也（漫畫）</p></td>
 <td><p>北芝健（原作）</p></td>
 <td><p>1984.14</p></td>
@@ -2566,7 +2567,7 @@
 <tr class="odd">
 <td><p>260</p></td>
 <td></td>
-<td><p><a href="../Page/HIROSHI_ARO.md" title="wikilink">HIROSHI ARO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HIROSHI_ARO" title="wikilink">HIROSHI ARO</a></p></td>
 <td><p>－</p></td>
 <td><p>1984.20</p></td>
 <td><p>1984.27</p></td>
@@ -2574,7 +2575,7 @@
 </tr>
 <tr class="even">
 <td><p>261</p></td>
-<td><p><a href="../Page/KID_(漫畫).md" title="wikilink">KID</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KID_(漫畫)" title="wikilink">KID</a></p></td>
 <td><p>小谷憲一</p></td>
 <td><p>－</p></td>
 <td><p>1984.22</p></td>
@@ -2583,7 +2584,7 @@
 </tr>
 <tr class="odd">
 <td><p>262</p></td>
-<td><p><a href="../Page/Killer_BOY.md" title="wikilink">Killer BOY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Killer_BOY" title="wikilink">Killer BOY</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>1984.28</p></td>
@@ -2593,7 +2594,7 @@
 <tr class="even">
 <td><p>263</p></td>
 <td></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1984.32</p></td>
 <td><p>1985.12</p></td>
@@ -2620,7 +2621,7 @@
 <tr class="odd">
 <td><p>266</p></td>
 <td></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>－</p></td>
 <td><p>1984.45</p></td>
 <td><p>1985.11</p></td>
@@ -2638,7 +2639,7 @@
 <tr class="odd">
 <td><p>268</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1984.52</p></td>
 <td><p>1985.30</p></td>
@@ -2664,7 +2665,7 @@
 </tr>
 <tr class="even">
 <td><p>270</p></td>
-<td><p><a href="../Page/城市獵人.md" title="wikilink">城市獵人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/城市獵人" title="wikilink">城市獵人</a></p></td>
 <td><p><a href="../Page/北条司.md" title="wikilink">北条司</a></p></td>
 <td><p>－</p></td>
 <td><p>1985.13</p></td>
@@ -2709,7 +2710,7 @@
 </tr>
 <tr class="odd">
 <td><p>275</p></td>
-<td><p><a href="../Page/星船黑騎士.md" title="wikilink">星船黑騎士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星船黑騎士" title="wikilink">星船黑騎士</a></p></td>
 <td><p>寺澤武一</p></td>
 <td><p>－</p></td>
 <td><p>1985.31</p></td>
@@ -2745,7 +2746,7 @@
 </tr>
 <tr class="odd">
 <td><p>279</p></td>
-<td><p><a href="../Page/ROAD_RUNNER.md" title="wikilink">ROAD RUNNER</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ROAD_RUNNER" title="wikilink">ROAD RUNNER</a></p></td>
 <td><p>次原隆二</p></td>
 <td><p>－</p></td>
 <td><p>1985.41</p></td>
@@ -2781,8 +2782,8 @@
 </tr>
 <tr class="odd">
 <td><p>282</p></td>
-<td><p><a href="../Page/聖鬥士星矢.md" title="wikilink">聖鬥士星矢</a></p></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖鬥士星矢" title="wikilink">聖鬥士星矢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1986.01/02</p></td>
 <td><p>1990.49</p></td>
@@ -2800,7 +2801,7 @@
 <tr class="odd">
 <td><p>284</p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td><p>－</p></td>
 <td><p>1986.13</p></td>
 <td><p>1987.12</p></td>
@@ -2916,8 +2917,8 @@
 </tr>
 <tr class="even">
 <td><p>296</p></td>
-<td><p><a href="../Page/JoJo的奇妙冒險.md" title="wikilink">JoJo的奇妙冒險</a></p></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/JoJo的奇妙冒險" title="wikilink">JoJo的奇妙冒險</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>－</p></td>
 <td><p>1987.01/02</p></td>
 <td><p>1999.17</p></td>
@@ -2934,7 +2935,7 @@
 </tr>
 <tr class="even">
 <td><p>298</p></td>
-<td><p><a href="../Page/PANKRA_BOY.md" title="wikilink">PANKRA BOY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PANKRA_BOY" title="wikilink">PANKRA BOY</a></p></td>
 <td><p>富澤順</p></td>
 <td><p>－</p></td>
 <td><p>1987.13</p></td>
@@ -2952,7 +2953,7 @@
 </tr>
 <tr class="even">
 <td><p>300</p></td>
-<td><p><a href="../Page/森林好小子.md" title="wikilink">森林好小子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森林好小子" title="wikilink">森林好小子</a></p></td>
 <td><p>佐藤正</p></td>
 <td><p>－</p></td>
 <td><p>1987.23</p></td>
@@ -3141,8 +3142,8 @@
 </tr>
 <tr class="odd">
 <td><p>320</p></td>
-<td><p><a href="../Page/翔的傳說.md" title="wikilink">翔的傳說</a></p></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/翔的傳說" title="wikilink">翔的傳說</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1988.39</p></td>
 <td><p>1989.13</p></td>
@@ -3150,7 +3151,7 @@
 </tr>
 <tr class="even">
 <td><p>321</p></td>
-<td><p><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神通小精靈" title="wikilink">神通小精靈</a></p></td>
 <td><p><a href="../Page/江川達也.md" title="wikilink">江川達也</a></p></td>
 <td><p>－</p></td>
 <td><p>1988.49</p></td>
@@ -3204,7 +3205,7 @@
 </tr>
 <tr class="even">
 <td><p>326</p></td>
-<td><p><a href="../Page/利刃.md" title="wikilink">利刃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利刃" title="wikilink">利刃</a></p></td>
 <td><p>長澤克泰</p></td>
 <td><p>－</p></td>
 <td><p>1989.14</p></td>
@@ -3249,7 +3250,7 @@
 </tr>
 <tr class="odd">
 <td><p>331</p></td>
-<td><p><a href="../Page/CameronJail.md" title="wikilink">CameronJail</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CameronJail" title="wikilink">CameronJail</a></p></td>
 <td><p><a href="../Page/井上雄彦.md" title="wikilink">井上雄彦</a>（漫畫）</p></td>
 <td><p>渡辺和彥（故事）</p></td>
 <td><p>1989.33</p></td>
@@ -3258,7 +3259,7 @@
 </tr>
 <tr class="even">
 <td><p>332</p></td>
-<td><p><a href="../Page/劍客_涉井柿之介.md" title="wikilink">劍客 涉井柿之介</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劍客_涉井柿之介" title="wikilink">劍客 涉井柿之介</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>1989.37</p></td>
@@ -3285,9 +3286,9 @@
 </tr>
 <tr class="odd">
 <td><p>335</p></td>
-<td><p><a href="../Page/勇者鬥惡龍_達爾大冒險.md" title="wikilink">勇者鬥惡龍 達爾大冒險</a></p></td>
-<td><p><a href="../Page/稻田浩司.md" title="wikilink">稻田浩司</a>（漫畫）</p></td>
-<td><p><a href="../Page/三条陸.md" title="wikilink">三条陸</a>（原作）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/勇者鬥惡龍_達爾大冒險" title="wikilink">勇者鬥惡龍 達爾大冒險</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/稻田浩司" title="wikilink">稻田浩司</a>（漫畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三条陸" title="wikilink">三条陸</a>（原作）<br />
 <a href="../Page/堀井雄二.md" title="wikilink">堀井雄二</a>（監修）</p></td>
 <td><p>1989.45</p></td>
 <td><p>1996.52</p></td>
@@ -3323,7 +3324,7 @@
 <tr class="odd">
 <td><p>338</p></td>
 <td></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1990.01/02</p></td>
 <td><p>1991.26</p></td>
@@ -3349,7 +3350,7 @@
 </tr>
 <tr class="even">
 <td><p>341</p></td>
-<td><p><a href="../Page/酒吞天地.md" title="wikilink">酒吞天地</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/酒吞天地" title="wikilink">酒吞天地</a></p></td>
 <td><p><a href="../Page/梅泽春人.md" title="wikilink">梅澤勇人</a></p></td>
 <td><p>－</p></td>
 <td><p>1990.15</p></td>
@@ -3412,7 +3413,7 @@
 </tr>
 <tr class="odd">
 <td><p>348</p></td>
-<td><p><a href="../Page/灌篮高手.md" title="wikilink">-{zh-cn:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灌篮高手" title="wikilink">-{zh-cn:灌篮高手;zh-tw:灌籃高手;zh-hk:男兒當入樽;}-</a></p></td>
 <td><p><a href="../Page/井上雄彦.md" title="wikilink">井上雄彦</a></p></td>
 <td><p>－</p></td>
 <td><p>1990.42</p></td>
@@ -3439,7 +3440,7 @@
 </tr>
 <tr class="even">
 <td><p>351</p></td>
-<td><p><a href="../Page/幽遊白書.md" title="wikilink">幽遊白書</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/幽遊白書" title="wikilink">幽遊白書</a></p></td>
 <td><p><a href="../Page/冨樫義博.md" title="wikilink">冨樫義博</a></p></td>
 <td><p>－</p></td>
 <td><p>1990.51</p></td>
@@ -3493,7 +3494,7 @@
 </tr>
 <tr class="even">
 <td><p>356</p></td>
-<td><p><a href="../Page/聖男傳.md" title="wikilink">聖男傳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖男傳" title="wikilink">聖男傳</a></p></td>
 <td><p>次原隆二</p></td>
 <td><p>－</p></td>
 <td><p>1991.27</p></td>
@@ -3512,7 +3513,7 @@
 </tr>
 <tr class="even">
 <td><p>358</p></td>
-<td><p><a href="../Page/飛躍神駒.md" title="wikilink">飛躍神駒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飛躍神駒" title="wikilink">飛躍神駒</a></p></td>
 <td><p><a href="../Page/淺美裕子.md" title="wikilink">淺美裕子</a></p></td>
 <td><p>－</p></td>
 <td><p>1991.40</p></td>
@@ -3530,7 +3531,7 @@
 </tr>
 <tr class="even">
 <td><p>360</p></td>
-<td><p><a href="../Page/天然色男兒BURAY.md" title="wikilink">天然色男兒BURAY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天然色男兒BURAY" title="wikilink">天然色男兒BURAY</a></p></td>
 <td><p><a href="../Page/高橋和希.md" title="wikilink">高橋一雅</a></p></td>
 <td><p>－</p></td>
 <td><p>1991.50</p></td>
@@ -3539,7 +3540,7 @@
 </tr>
 <tr class="odd">
 <td><p>361</p></td>
-<td><p><a href="../Page/魔神冒險譚.md" title="wikilink">魔神冒險譚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔神冒險譚" title="wikilink">魔神冒險譚</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p>泉藤進（原作）</p></td>
 <td><p>1991.52</p></td>
@@ -3557,7 +3558,7 @@
 </tr>
 <tr class="odd">
 <td><p>362</p></td>
-<td><p><a href="../Page/遲來的超速球.md" title="wikilink">遲來的超速球</a>&lt;!--チェンジUP</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遲來的超速球" title="wikilink">遲來的超速球</a>&lt;!--チェンジUP</p></td>
 <td><p>--&gt;</p></td>
 <td><p>今泉伸二</p></td>
 <td><p>－</p></td>
@@ -3603,7 +3604,7 @@
 <tr class="even">
 <td><p>367</p></td>
 <td></td>
-<td><p><a href="../Page/梅澤春人.md" title="wikilink">梅澤春人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤春人" title="wikilink">梅澤春人</a></p></td>
 <td><p>－</p></td>
 <td><p>1992.26</p></td>
 <td><p>1992.35</p></td>
@@ -3621,7 +3622,7 @@
 <tr class="even">
 <td><p>369</p></td>
 <td></td>
-<td><p><a href="../Page/車田正美.md" title="wikilink">車田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/車田正美" title="wikilink">車田正美</a></p></td>
 <td><p>－</p></td>
 <td><p>1992.35</p></td>
 <td><p>1992.48</p></td>
@@ -3639,7 +3640,7 @@
 <tr class="even">
 <td><p>371</p></td>
 <td></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1992.41</p></td>
 <td><p>1993.45</p></td>
@@ -3656,8 +3657,8 @@
 </tr>
 <tr class="even">
 <td><p>373</p></td>
-<td><p><a href="../Page/橫行太保.md" title="wikilink">橫行太保</a></p></td>
-<td><p><a href="../Page/梅澤春人.md" title="wikilink">梅澤春人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橫行太保" title="wikilink">橫行太保</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤春人" title="wikilink">梅澤春人</a></p></td>
 <td><p>－</p></td>
 <td><p>1992.50</p></td>
 <td><p>1999.09</p></td>
@@ -3674,7 +3675,7 @@
 </tr>
 <tr class="even">
 <td><p>375</p></td>
-<td><p><a href="../Page/力人傳說.md" title="wikilink">力人傳說</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/力人傳說" title="wikilink">力人傳說</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p><a href="../Page/宮崎勝.md" title="wikilink">宮崎勝</a>（原作）</p></td>
 <td><p>1992.52</p></td>
@@ -3738,7 +3739,7 @@
 <tr class="odd">
 <td><p>381</p></td>
 <td><p><a href="../Page/行運超人.md" title="wikilink">-{zh-hans:幸运超人;zh-hk:行運超人;zh-tw:幸運超人;}-</a></p></td>
-<td><p><a href="../Page/蒲生洋.md" title="wikilink">蒲生洋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲生洋" title="wikilink">蒲生洋</a></p></td>
 <td><p>－</p></td>
 <td><p>1993.35</p></td>
 <td><p>1997.30</p></td>
@@ -3755,7 +3756,7 @@
 </tr>
 <tr class="odd">
 <td><p>383</p></td>
-<td><p><a href="../Page/靈異教師神眉.md" title="wikilink">靈異教師神眉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靈異教師神眉" title="wikilink">靈異教師神眉</a></p></td>
 <td><p><a href="../Page/岡野剛.md" title="wikilink">岡野剛</a>（漫畫）</p></td>
 <td><p>真倉翔（原作）</p></td>
 <td><p>1993.38</p></td>
@@ -3809,7 +3810,7 @@
 </tr>
 <tr class="odd">
 <td><p>388</p></td>
-<td><p><a href="../Page/堂口警察.md" title="wikilink">堂口警察</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/堂口警察" title="wikilink">堂口警察</a></p></td>
 <td><p><a href="../Page/甲斐谷忍.md" title="wikilink">甲斐谷忍</a></p></td>
 <td><p>－</p></td>
 <td><p>1994.08</p></td>
@@ -3847,7 +3848,7 @@
 <tr class="odd">
 <td><p>392</p></td>
 <td><p><a href="../Page/足球小將.md" title="wikilink">足球小將 世青篇</a></p></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1994.18</p></td>
 <td><p>1997.37/38</p></td>
@@ -3909,7 +3910,7 @@
 </tr>
 <tr class="even">
 <td><p>399</p></td>
-<td><p><a href="../Page/BAKUDAN.md" title="wikilink">BAKUDAN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BAKUDAN" title="wikilink">BAKUDAN</a></p></td>
 <td><p>宮下亞喜羅</p></td>
 <td><p>－</p></td>
 <td><p>1994.42</p></td>
@@ -3991,7 +3992,7 @@
 </tr>
 <tr class="odd">
 <td><p>407</p></td>
-<td><p><a href="../Page/傀儡師左近.md" title="wikilink">-{zh-hans:傀儡师左近;zh-hk:木偶師偵探左近;zh-tw:傀儡師左近;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傀儡師左近" title="wikilink">-{zh-hans:傀儡师左近;zh-hk:木偶師偵探左近;zh-tw:傀儡師左近;}-</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p><a href="../Page/宮崎勝.md" title="wikilink">寫楽麿</a>（原作）</p></td>
 <td><p>1995.23</p></td>
@@ -4009,7 +4010,7 @@
 </tr>
 <tr class="odd">
 <td><p>409</p></td>
-<td><p><a href="../Page/SHADOW_LADY.md" title="wikilink">月光淑女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SHADOW_LADY" title="wikilink">月光淑女</a></p></td>
 <td><p><a href="../Page/桂正和.md" title="wikilink">桂正和</a></p></td>
 <td><p>－</p></td>
 <td><p>1995.31</p></td>
@@ -4036,7 +4037,7 @@
 </tr>
 <tr class="even">
 <td><p>412</p></td>
-<td><p><a href="../Page/靈異E接觸.md" title="wikilink">-{zh-cn:灵异E接触;zh-tw:靈異E接觸;zh-hk:LEVEL E;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靈異E接觸" title="wikilink">-{zh-cn:灵异E接触;zh-tw:靈異E接觸;zh-hk:LEVEL E;}-</a></p></td>
 <td><p><a href="../Page/冨樫義博.md" title="wikilink">冨樫義博</a></p></td>
 <td><p>－</p></td>
 <td><p>1995.42</p></td>
@@ -4100,7 +4101,7 @@
 <tr class="odd">
 <td><p>418</p></td>
 <td></td>
-<td><p><a href="../Page/木多康昭.md" title="wikilink">木多康昭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木多康昭" title="wikilink">木多康昭</a></p></td>
 <td><p>－</p></td>
 <td><p>1996.11</p></td>
 <td><p>1997.49</p></td>
@@ -4108,7 +4109,7 @@
 </tr>
 <tr class="even">
 <td><p>419</p></td>
-<td><p><a href="../Page/神光應援團紳士錄.md" title="wikilink">神光應援團紳士錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神光應援團紳士錄" title="wikilink">神光應援團紳士錄</a></p></td>
 <td><p>岩田康照</p></td>
 <td><p>－</p></td>
 <td><p>1996.12</p></td>
@@ -4135,7 +4136,7 @@
 </tr>
 <tr class="odd">
 <td><p>422</p></td>
-<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">封神演義</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">封神演義</a></p></td>
 <td><p><a href="../Page/藤崎龍.md" title="wikilink">藤崎龍</a></p></td>
 <td><p>－</p></td>
 <td><p>1996.28</p></td>
@@ -4282,7 +4283,7 @@
 <tr class="odd">
 <td><p>437</p></td>
 <td><p><strong><a href="../Page/ONE_PIECE.md" title="wikilink">ONE PIECE</a></strong></p></td>
-<td><p><a href="../Page/尾田榮一郎.md" title="wikilink">尾田榮一郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尾田榮一郎" title="wikilink">尾田榮一郎</a></p></td>
 <td><p>－</p></td>
 <td><p>1997.34</p></td>
 <td><p>連載中</p></td>
@@ -4335,7 +4336,7 @@
 </tr>
 <tr class="odd">
 <td><p>442</p></td>
-<td><p><a href="../Page/畫-ROW.md" title="wikilink">畫-ROW</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/畫-ROW" title="wikilink">畫-ROW</a></p></td>
 <td><p>水元昭嗣</p></td>
 <td><p>－</p></td>
 <td><p>1998.01</p></td>
@@ -4380,7 +4381,7 @@
 </tr>
 <tr class="even">
 <td><p>447</p></td>
-<td><p><strong><a href="../Page/HUNTER×HUNTER.md" title="wikilink">HUNTER×HUNTER</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/HUNTER×HUNTER" title="wikilink">HUNTER×HUNTER</a></strong></p></td>
 <td><p><a href="../Page/冨樫義博.md" title="wikilink">冨樫義博</a></p></td>
 <td><p>－</p></td>
 <td><p>1998.14</p></td>
@@ -4417,7 +4418,7 @@
 <tr class="even">
 <td><p>451</p></td>
 <td></td>
-<td><p><a href="../Page/蒲生洋.md" title="wikilink">蒲生洋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲生洋" title="wikilink">蒲生洋</a></p></td>
 <td><p>－</p></td>
 <td><p>1998.43</p></td>
 <td><p>1999.11</p></td>
@@ -4453,10 +4454,10 @@
 </tr>
 <tr class="even">
 <td><p>454</p></td>
-<td><p><a href="../Page/棋魂.md" title="wikilink">棋魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/棋魂" title="wikilink">棋魂</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p><a href="../Page/堀田由美.md" title="wikilink">堀田由美</a>（原作）<br />
-<a href="../Page/梅澤由香里.md" title="wikilink">梅澤由香里</a>（監修）</p></td>
+<a href="https://zh.wikipedia.org/wiki/梅澤由香里" title="wikilink">梅澤由香里</a>（監修）</p></td>
 <td><p>1999.02/03</p></td>
 <td><p>2003.22/23</p></td>
 <td></td>
@@ -4473,7 +4474,7 @@
 <tr class="even">
 <td><p>456</p></td>
 <td></td>
-<td><p><a href="../Page/高橋陽一.md" title="wikilink">高橋陽一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋陽一" title="wikilink">高橋陽一</a></p></td>
 <td><p>－</p></td>
 <td><p>1999.13</p></td>
 <td><p>1999.30</p></td>
@@ -4499,7 +4500,7 @@
 </tr>
 <tr class="odd">
 <td><p>459</p></td>
-<td><p><a href="../Page/疾速真霸頭.md" title="wikilink">疾速真霸頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/疾速真霸頭" title="wikilink">疾速真霸頭</a></p></td>
 <td><p>瑳川惠一</p></td>
 <td><p>－</p></td>
 <td><p>1999.19</p></td>
@@ -4526,7 +4527,7 @@
 </tr>
 <tr class="even">
 <td><p>462</p></td>
-<td><p><a href="../Page/CHILDRAGON.md" title="wikilink">CHILDRAGON</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CHILDRAGON" title="wikilink">CHILDRAGON</a></p></td>
 <td><p>東直輝</p></td>
 <td><p>－</p></td>
 <td><p>1999.33</p></td>
@@ -4536,7 +4537,7 @@
 <tr class="odd">
 <td><p>463</p></td>
 <td></td>
-<td><p><a href="../Page/久保帶人.md" title="wikilink">久保帶人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保帶人" title="wikilink">久保帶人</a></p></td>
 <td><p>－</p></td>
 <td><p>1999.34</p></td>
 <td><p>2000.11</p></td>
@@ -4545,7 +4546,7 @@
 <tr class="even">
 <td><p>464</p></td>
 <td><p><a href="../Page/火影忍者.md" title="wikilink">火影忍者</a></p></td>
-<td><p><a href="../Page/岸本齊史.md" title="wikilink">岸本齊史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a></p></td>
 <td><p>－</p></td>
 <td><p>1999.43</p></td>
 <td><p>2014.50</p></td>
@@ -4572,7 +4573,7 @@
 <tr class="odd">
 <td><p>466</p></td>
 <td><p><a href="../Page/JoJo的奇妙冒险.md" title="wikilink">JoJo的奇妙冒險 PART6 STONE OCEAN</a></p></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>－</p></td>
 <td><p>2000.01</p></td>
 <td><p>2003.19</p></td>
@@ -4581,7 +4582,7 @@
 <tr class="even">
 <td><p>467</p></td>
 <td></td>
-<td><p><a href="../Page/梅澤春人.md" title="wikilink">梅澤春人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤春人" title="wikilink">梅澤春人</a></p></td>
 <td><p>－</p></td>
 <td><p>2000.02</p></td>
 <td><p>2001.41</p></td>
@@ -4715,8 +4716,8 @@
 </tr>
 <tr class="odd">
 <td><p>481</p></td>
-<td><p><a href="../Page/鼻毛真拳.md" title="wikilink">鼻毛真拳</a></p></td>
-<td><p><a href="../Page/澤井啟夫.md" title="wikilink">澤井啟夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鼻毛真拳" title="wikilink">鼻毛真拳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澤井啟夫" title="wikilink">澤井啟夫</a></p></td>
 <td><p>－</p></td>
 <td><p>2001.12</p></td>
 <td><p>2005.50</p></td>
@@ -4752,7 +4753,7 @@
 <tr class="odd">
 <td><p>485</p></td>
 <td><p><a href="../Page/BLEACH.md" title="wikilink">BLEACH</a></p></td>
-<td><p><a href="../Page/久保帶人.md" title="wikilink">久保帶人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保帶人" title="wikilink">久保帶人</a></p></td>
 <td><p>－</p></td>
 <td><p>2001.36/37</p></td>
 <td><p>2016.38</p></td>
@@ -4760,7 +4761,7 @@
 </tr>
 <tr class="even">
 <td><p>486</p></td>
-<td><p><a href="../Page/I&#39;m_A_Faker!.md" title="wikilink">I'm A Faker!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I&#39;m_A_Faker!" title="wikilink">I'm A Faker!</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2001.42</p></td>
@@ -4805,7 +4806,7 @@
 </tr>
 <tr class="odd">
 <td><p>490</p></td>
-<td><p><a href="../Page/櫻鐵對話錄.md" title="wikilink">櫻鐵對話錄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/櫻鐵對話錄" title="wikilink">櫻鐵對話錄</a></p></td>
 <td><p><a href="../Page/藤崎龍.md" title="wikilink">藤崎龍</a></p></td>
 <td><p>－</p></td>
 <td><p>2002.01</p></td>
@@ -4823,7 +4824,7 @@
 </tr>
 <tr class="odd">
 <td><p>492</p></td>
-<td><p><a href="../Page/草莓100%.md" title="wikilink">草莓100%</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草莓100%" title="wikilink">草莓100%</a></p></td>
 <td><p><a href="../Page/河下水希.md" title="wikilink">河下水希</a></p></td>
 <td><p>－</p></td>
 <td><p>2002.12</p></td>
@@ -4869,7 +4870,7 @@
 <tr class="even">
 <td><p>497</p></td>
 <td></td>
-<td><p><a href="../Page/梅澤春人.md" title="wikilink">梅澤春人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤春人" title="wikilink">梅澤春人</a></p></td>
 <td><p>－</p></td>
 <td><p>2002.35</p></td>
 <td><p>2002.51</p></td>
@@ -4877,7 +4878,7 @@
 </tr>
 <tr class="odd">
 <td><p>498</p></td>
-<td><p><a href="../Page/A·O·N無敵假面.md" title="wikilink">A·O·N無敵假面</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A·O·N無敵假面" title="wikilink">A·O·N無敵假面</a></p></td>
 <td><p>道元宗紀</p></td>
 <td><p>－</p></td>
 <td><p>2002.44</p></td>
@@ -4931,7 +4932,7 @@
 </tr>
 <tr class="odd">
 <td><p>503</p></td>
-<td><p><a href="../Page/SANTA！獵魔聖人.md" title="wikilink">SANTA！獵魔聖人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SANTA！獵魔聖人" title="wikilink">SANTA！獵魔聖人</a></p></td>
 <td><p>蔵人健吾</p></td>
 <td><p>－</p></td>
 <td><p>2003.19</p></td>
@@ -5021,7 +5022,7 @@
 </tr>
 <tr class="odd">
 <td><p>512</p></td>
-<td><p><a href="../Page/银魂.md" title="wikilink">银魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/银魂" title="wikilink">银魂</a></p></td>
 <td><p><a href="../Page/空知英秋.md" title="wikilink">空知英秋</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.02</p></td>
@@ -5031,7 +5032,7 @@
 <tr class="even">
 <td><p>513</p></td>
 <td></td>
-<td><p><a href="../Page/梅澤春人.md" title="wikilink">梅澤春人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅澤春人" title="wikilink">梅澤春人</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.03</p></td>
 <td><p>2004.14</p></td>
@@ -5040,7 +5041,7 @@
 <tr class="odd">
 <td><p>514</p></td>
 <td><p><a href="../Page/JoJo的奇妙冒险.md" title="wikilink">JoJo的奇妙冒險 PART7 飆馬野郎</a></p></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.08</p></td>
 <td><p>2004.47</p></td>
@@ -5066,7 +5067,7 @@
 </tr>
 <tr class="even">
 <td><p>517</p></td>
-<td><p><a href="../Page/少年守護神.md" title="wikilink">少年守護神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少年守護神" title="wikilink">少年守護神</a></p></td>
 <td><p>東直輝</p></td>
 <td><p>－</p></td>
 <td><p>2004.17</p></td>
@@ -5075,7 +5076,7 @@
 </tr>
 <tr class="odd">
 <td><p>518</p></td>
-<td><p><a href="../Page/家庭教師HITMAN_REBORN!.md" title="wikilink">-{zh-cn:家庭教师HITMAN REBORN!;zh-tw:家庭教師HITMAN REBORN!;zh-hk:家庭教師REBORN!殺手利邦;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN!" title="wikilink">-{zh-cn:家庭教师HITMAN REBORN!;zh-tw:家庭教師HITMAN REBORN!;zh-hk:家庭教師REBORN!殺手利邦;}-</a></p></td>
 <td><p><a href="../Page/天野明.md" title="wikilink">天野明</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.26</p></td>
@@ -5085,7 +5086,7 @@
 <tr class="even">
 <td><p>519</p></td>
 <td><p><a href="../Page/驅魔少年.md" title="wikilink">驅魔少年</a></p></td>
-<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
 <td><p>－</p></td>
 <td><p>2004.27</p></td>
 <td><p>2009.22/23</p></td>
@@ -5094,7 +5095,7 @@
 </tr>
 <tr class="odd">
 <td><p>520</p></td>
-<td><p><a href="../Page/地上最速乒乓球少年.md" title="wikilink">地上最速乒乓球少年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/地上最速乒乓球少年" title="wikilink">地上最速乒乓球少年</a></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2004.28</p></td>
@@ -5112,7 +5113,7 @@
 </tr>
 <tr class="odd">
 <td><p>522</p></td>
-<td><p><a href="../Page/魔法律事務所.md" title="wikilink">-{zh-cn:魔法律事务所;zh-hk:魔法律顧問事務所;zh-tw:魔法律事務所;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔法律事務所" title="wikilink">-{zh-cn:魔法律事务所;zh-hk:魔法律顧問事務所;zh-tw:魔法律事務所;}-</a></p></td>
 <td><p>西義之</p></td>
 <td><p>－</p></td>
 <td><p>2004.53</p></td>
@@ -5139,7 +5140,7 @@
 </tr>
 <tr class="even">
 <td><p>524</p></td>
-<td><p><a href="../Page/魔人偵探腦嚙涅羅.md" title="wikilink">魔人偵探腦嚙涅羅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅" title="wikilink">魔人偵探腦嚙涅羅</a></p></td>
 <td><p><a href="../Page/松井優征.md" title="wikilink">松井優征</a></p></td>
 <td><p>－</p></td>
 <td><p>2005.12</p></td>
@@ -5176,7 +5177,7 @@
 <tr class="even">
 <td><p>528</p></td>
 <td></td>
-<td><p><a href="../Page/岩代俊明.md" title="wikilink">岩代俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩代俊明" title="wikilink">岩代俊明</a></p></td>
 <td><p>－</p></td>
 <td><p>2005.33</p></td>
 <td><p>2006.42</p></td>
@@ -5220,8 +5221,8 @@
 </tr>
 <tr class="odd">
 <td><p>532</p></td>
-<td><p><a href="../Page/鼻毛真拳.md" title="wikilink">真說鼻毛真拳</a></p></td>
-<td><p><a href="../Page/澤井啟夫.md" title="wikilink">澤井啟夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鼻毛真拳" title="wikilink">真說鼻毛真拳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澤井啟夫" title="wikilink">澤井啟夫</a></p></td>
 <td><p>－</p></td>
 <td><p>2006.03</p></td>
 <td><p>2007.31</p></td>
@@ -5293,7 +5294,7 @@
 <tr class="odd">
 <td><p>540</p></td>
 <td></td>
-<td><p><a href="../Page/杉田尚.md" title="wikilink">杉田尚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杉田尚" title="wikilink">杉田尚</a></p></td>
 <td><p>－</p></td>
 <td><p>2006.34</p></td>
 <td><p>2006.52</p></td>
@@ -5338,7 +5339,7 @@
 <tr class="even">
 <td><p>544</p></td>
 <td></td>
-<td><p><a href="../Page/曉月明.md" title="wikilink">曉月明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曉月明" title="wikilink">曉月明</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.02</p></td>
 <td><p>2007.13</p></td>
@@ -5401,7 +5402,7 @@
 <tr class="odd">
 <td><p>551</p></td>
 <td><p><a href="../Page/SKET_DANCE.md" title="wikilink">SKET DANCE</a></p></td>
-<td><p><a href="../Page/篠原健太.md" title="wikilink">篠原健太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篠原健太" title="wikilink">篠原健太</a></p></td>
 <td><p>－</p></td>
 <td><p>2007.33</p></td>
 <td><p>2013.32</p></td>
@@ -5428,7 +5429,7 @@
 <tr class="even">
 <td><p>553</p></td>
 <td><p><a href="../Page/PSYREN.md" title="wikilink">-{zh-hans:PSYREN;zh-tw:PSYREN－決戰遊戲－;zh-hk:PSYREN－末日遊戲－;}-</a></p></td>
-<td><p><a href="../Page/岩代俊明.md" title="wikilink">岩代俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩代俊明" title="wikilink">岩代俊明</a></p></td>
 <td><p>－</p></td>
 <td><p>2008.01</p></td>
 <td><p>2010.52</p></td>
@@ -5517,7 +5518,7 @@
 </tr>
 <tr class="even">
 <td><p>563</p></td>
-<td><p><a href="../Page/爆漫王。.md" title="wikilink">-{zh-cn:爆漫王。;zh-tw:爆漫王。;zh-hk:爆漫。;}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/爆漫王。" title="wikilink">-{zh-cn:爆漫王。;zh-tw:爆漫王。;zh-hk:爆漫。;}-</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p><a href="../Page/大場鶇.md" title="wikilink">大場鶇</a>（原作）</p></td>
 <td><p>2008.37/38</p></td>
@@ -5536,7 +5537,7 @@
 <tr class="even">
 <td><p>565</p></td>
 <td></td>
-<td><p><a href="../Page/澤井啟夫.md" title="wikilink">澤井啟夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/澤井啟夫" title="wikilink">澤井啟夫</a></p></td>
 <td><p>－</p></td>
 <td><p>2008.42</p></td>
 <td><p>2008.49</p></td>
@@ -5608,7 +5609,7 @@
 <tr class="even">
 <td><p>572</p></td>
 <td><p><a href="../Page/最強學生會長.md" title="wikilink">-{zh-cn:最强会长黑神;zh-tw:最強學生會長;zh-hk:校園一姐黑神;}-</a></p></td>
-<td><p><a href="../Page/曉月明.md" title="wikilink">曉月明</a>（漫畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曉月明" title="wikilink">曉月明</a>（漫畫）</p></td>
 <td><p><a href="../Page/西尾維新.md" title="wikilink">西尾維新</a>（原作）</p></td>
 <td><p>2009.24</p></td>
 <td><p>2013.22/23</p></td>
@@ -5725,7 +5726,7 @@
 <tr class="odd">
 <td><p>584</p></td>
 <td></td>
-<td><p><a href="../Page/附田祐斗.md" title="wikilink">附田祐斗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/附田祐斗" title="wikilink">附田祐斗</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.25</p></td>
 <td><p>2010.40</p></td>
@@ -5734,7 +5735,7 @@
 <tr class="even">
 <td><p>585</p></td>
 <td></td>
-<td><p><a href="../Page/杉田尚.md" title="wikilink">杉田尚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杉田尚" title="wikilink">杉田尚</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.31</p></td>
 <td><p>2010.51</p></td>
@@ -5752,7 +5753,7 @@
 <tr class="even">
 <td><p>587</p></td>
 <td><p><a href="../Page/Enigma謎.md" title="wikilink">Enigma謎</a></p></td>
-<td><p><a href="../Page/榊健滋.md" title="wikilink">榊健滋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/榊健滋" title="wikilink">榊健滋</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.41</p></td>
 <td><p>2011.47</p></td>
@@ -5796,7 +5797,7 @@
 </tr>
 <tr class="odd">
 <td><p>591</p></td>
-<td><p><a href="../Page/magico.md" title="wikilink">magico</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/magico" title="wikilink">magico</a></p></td>
 <td><p>岩本直輝</p></td>
 <td><p>－</p></td>
 <td><p>2011.13</p></td>
@@ -5814,7 +5815,7 @@
 </tr>
 <tr class="odd">
 <td><p>593</p></td>
-<td><p><a href="../Page/奇怪噺_花咲一休.md" title="wikilink">奇怪噺 花咲一休</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奇怪噺_花咲一休" title="wikilink">奇怪噺 花咲一休</a></p></td>
 <td><p>河田悠冶（漫畫）</p></td>
 <td><p>小宮山健太（原作）</p></td>
 <td><p>2011.23</p></td>
@@ -5841,7 +5842,7 @@
 </tr>
 <tr class="even">
 <td><p>596</p></td>
-<td><p><a href="../Page/黑鐵.md" title="wikilink">黑鐵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑鐵" title="wikilink">黑鐵</a></p></td>
 <td><p>池澤春人</p></td>
 <td><p>－</p></td>
 <td><p>2011.39</p></td>
@@ -5877,7 +5878,7 @@
 </tr>
 <tr class="even">
 <td><p>599</p></td>
-<td><p><strong><a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a></strong></p></td>
 <td><p>古館春一</p></td>
 <td><p>－</p></td>
 <td><p>2012.12</p></td>
@@ -5887,7 +5888,7 @@
 <tr class="odd">
 <td><p>600</p></td>
 <td><p><a href="../Page/睡衣女友.md" title="wikilink">睡衣女友</a></p></td>
-<td><p><a href="../Page/濱田浩輔.md" title="wikilink">濱田浩輔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/濱田浩輔" title="wikilink">濱田浩輔</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.13</p></td>
 <td><p>2012.40</p></td>
@@ -5897,7 +5898,7 @@
 <td><p>601</p></td>
 <td><p><a href="../Page/戀染紅葉.md" title="wikilink">戀染紅葉</a></p></td>
 <td><p>（漫畫）</p></td>
-<td><p><a href="../Page/坂本次郎.md" title="wikilink">坂本次郎</a>（原作）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂本次郎" title="wikilink">坂本次郎</a>（原作）</p></td>
 <td><p>2012.23</p></td>
 <td><p>2012.51</p></td>
 <td></td>
@@ -5913,7 +5914,7 @@
 </tr>
 <tr class="even">
 <td><p>603</p></td>
-<td><p><a href="../Page/戰星的巴爾吉.md" title="wikilink">戰星的巴爾吉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰星的巴爾吉" title="wikilink">戰星的巴爾吉</a></p></td>
 <td><p>堀越耕平</p></td>
 <td><p>－</p></td>
 <td><p>2012.25</p></td>
@@ -5931,7 +5932,7 @@
 </tr>
 <tr class="even">
 <td><p>605</p></td>
-<td><p><a href="../Page/暗殺教室.md" title="wikilink">暗殺教室</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a></p></td>
 <td><p><a href="../Page/松井優征.md" title="wikilink">松井優征</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.31</p></td>
@@ -5985,9 +5986,9 @@
 </tr>
 <tr class="even">
 <td><p>611</p></td>
-<td><p><strong><a href="../Page/食戟之靈.md" title="wikilink">食戟之靈</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/食戟之靈" title="wikilink">食戟之靈</a></strong></p></td>
 <td><p>佐伯俊（漫畫）</p></td>
-<td><p><a href="../Page/附田祐斗.md" title="wikilink">附田祐斗</a>（原作）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/附田祐斗" title="wikilink">附田祐斗</a>（原作）<br />
 森崎友紀（協力）</p></td>
 <td><p>2012.52</p></td>
 <td><p>連載中</p></td>
@@ -6004,7 +6005,7 @@
 </tr>
 <tr class="even">
 <td><p>612</p></td>
-<td><p><a href="../Page/戀愛吧，愛迪生.md" title="wikilink">戀愛吧，愛迪生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戀愛吧，愛迪生" title="wikilink">戀愛吧，愛迪生</a></p></td>
 <td><p>渡邊築</p></td>
 <td><p>－</p></td>
 <td><p>2013.10</p></td>
@@ -6031,7 +6032,7 @@
 </tr>
 <tr class="odd">
 <td><p>615</p></td>
-<td><p><a href="../Page/無刀BLACK.md" title="wikilink">無刀BLACK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無刀BLACK" title="wikilink">無刀BLACK</a></p></td>
 <td><p>野野上大二郎</p></td>
 <td><p>－</p></td>
 <td><p>2013.25</p></td>
@@ -6049,7 +6050,7 @@
 </tr>
 <tr class="odd">
 <td><p>617</p></td>
-<td><p><a href="../Page/銀河巡警JACO.md" title="wikilink">銀河巡警JACO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銀河巡警JACO" title="wikilink">銀河巡警JACO</a></p></td>
 <td><p><a href="../Page/鳥山明.md" title="wikilink">鳥山明</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.33</p></td>
@@ -6067,7 +6068,7 @@
 </tr>
 <tr class="odd">
 <td><p>619</p></td>
-<td><p><a href="../Page/公主偶像.md" title="wikilink">公主偶像</a>&lt;!--ひめドル</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/公主偶像" title="wikilink">公主偶像</a>&lt;!--ひめドル</p></td>
 <td><p>--&gt;</p></td>
 <td><p>今日和老</p></td>
 <td><p>－</p></td>
@@ -6094,8 +6095,8 @@
 </tr>
 <tr class="even">
 <td><p>622</p></td>
-<td><p><a href="../Page/磯部磯兵衛物語～浮世多辛苦～.md" title="wikilink">磯部磯兵衛物語～浮世多辛苦～</a></p></td>
-<td><p><a href="../Page/仲間亮.md" title="wikilink">仲間亮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/磯部磯兵衛物語～浮世多辛苦～" title="wikilink">磯部磯兵衛物語～浮世多辛苦～</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/仲間亮" title="wikilink">仲間亮</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.47</p></td>
 <td><p>2017.46</p></td>
@@ -6112,8 +6113,8 @@
 </tr>
 <tr class="even">
 <td><p>623</p></td>
-<td><p><a href="../Page/鋼鐵騎士.md" title="wikilink">鋼鐵騎士</a></p></td>
-<td><p><a href="../Page/屋宜知宏.md" title="wikilink">屋宜知宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鋼鐵騎士" title="wikilink">鋼鐵騎士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屋宜知宏" title="wikilink">屋宜知宏</a></p></td>
 <td><p>－</p></td>
 <td><p>2014.01</p></td>
 <td><p>2014.18</p></td>
@@ -6139,7 +6140,7 @@
 </tr>
 <tr class="odd">
 <td><p>626</p></td>
-<td><p><a href="../Page/隱形交響曲.md" title="wikilink">隱形交響曲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/隱形交響曲" title="wikilink">隱形交響曲</a></p></td>
 <td><p><a href="../Page/天野洋一.md" title="wikilink">天野洋一</a>（漫畫）</p></td>
 <td><p><a href="../Page/成田良悟.md" title="wikilink">成田良悟</a>（原作）</p></td>
 <td><p>2014.13</p></td>
@@ -6148,7 +6149,7 @@
 </tr>
 <tr class="even">
 <td><p>627</p></td>
-<td><p><a href="../Page/東京奇跡少年.md" title="wikilink">東京奇跡少年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京奇跡少年" title="wikilink">東京奇跡少年</a></p></td>
 <td><p>伊達恒大（漫畫）</p></td>
 <td><p>下山健人（原作）</p></td>
 <td><p>2014.14</p></td>
@@ -6157,7 +6158,7 @@
 </tr>
 <tr class="odd">
 <td><p>628</p></td>
-<td><p><strong><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/火之丸相撲" title="wikilink">火之丸相撲</a></strong></p></td>
 <td><p>川田</p></td>
 <td><p>－</p></td>
 <td><p>2014.26</p></td>
@@ -6184,7 +6185,7 @@
 </tr>
 <tr class="even">
 <td><p>631</p></td>
-<td><p><a href="../Page/三首神鷹.md" title="wikilink">三首神鷹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三首神鷹" title="wikilink">三首神鷹</a></p></td>
 <td><p>石山諒</p></td>
 <td><p>－</p></td>
 <td><p>2014.33</p></td>
@@ -6193,7 +6194,7 @@
 </tr>
 <tr class="odd">
 <td><p>632</p></td>
-<td><p><a href="../Page/拂曉物語.md" title="wikilink">拂曉物語</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拂曉物語" title="wikilink">拂曉物語</a></p></td>
 <td><p>芝田優作</p></td>
 <td><p>－</p></td>
 <td><p>2014.34</p></td>
@@ -6265,7 +6266,7 @@
 </tr>
 <tr class="odd">
 <td><p>639</p></td>
-<td><p><a href="../Page/學糾法廷.md" title="wikilink">學糾法廷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/學糾法廷" title="wikilink">學糾法廷</a></p></td>
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a>（漫畫）</p></td>
 <td><p>榎伸晃（原作）</p></td>
 <td><p>2015.01</p></td>
@@ -6275,7 +6276,7 @@
 <tr class="even">
 <td><p>640</p></td>
 <td><p><a href="../Page/嘉神的式神.md" title="wikilink">嘉神的式神</a></p></td>
-<td><p><a href="../Page/岩代俊明.md" title="wikilink">岩代俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩代俊明" title="wikilink">岩代俊明</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.11</p></td>
 <td><p>2015.51</p></td>
@@ -6283,8 +6284,8 @@
 </tr>
 <tr class="odd">
 <td><p>641</p></td>
-<td><p><strong><a href="../Page/黑色五葉草.md" title="wikilink">黑色五葉草</a></strong></p></td>
-<td><p><a href="../Page/田畠裕基.md" title="wikilink">田畠裕基</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黑色五葉草" title="wikilink">黑色五葉草</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田畠裕基" title="wikilink">田畠裕基</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.12</p></td>
 <td><p>連載中</p></td>
@@ -6292,7 +6293,7 @@
 </tr>
 <tr class="even">
 <td><p>642</p></td>
-<td><p><a href="../Page/改造人類洛基.md" title="wikilink">改造人類洛基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/改造人類洛基" title="wikilink">改造人類洛基</a></p></td>
 <td><p>三木有</p></td>
 <td><p>－</p></td>
 <td><p>2015.13</p></td>
@@ -6311,7 +6312,7 @@
 <tr class="even">
 <td><p>644</p></td>
 <td><p><a href="../Page/火影忍者外傳～第七代火影與緋色的花月～.md" title="wikilink">火影忍者外傳～第七代火影與緋色的花月～</a></p></td>
-<td><p><a href="../Page/岸本齊史.md" title="wikilink">岸本齊史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.22/23</p></td>
 <td><p>2015.32</p></td>
@@ -6346,7 +6347,7 @@
 </tr>
 <tr class="even">
 <td><p>648</p></td>
-<td><p><a href="../Page/Best_Blue.md" title="wikilink">Best Blue</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Best_Blue" title="wikilink">Best Blue</a></p></td>
 <td><p>平方昌宏</p></td>
 <td><p>－</p></td>
 <td><p>2015.33</p></td>
@@ -6374,7 +6375,7 @@
 <tr class="odd">
 <td><p>651</p></td>
 <td></td>
-<td><p><a href="../Page/KAITO.md" title="wikilink">KAITO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KAITO" title="wikilink">KAITO</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.51</p></td>
 <td><p>2016.10</p></td>
@@ -6392,7 +6393,7 @@
 <tr class="odd">
 <td><p>652</p></td>
 <td><p><strong><a href="../Page/搖曳莊的幽奈小姐.md" title="wikilink">搖曳莊的幽奈小姐</a></strong></p></td>
-<td><p><a href="../Page/三浦忠弘.md" title="wikilink">三浦忠弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三浦忠弘" title="wikilink">三浦忠弘</a></p></td>
 <td><p>－</p></td>
 <td><p>2016.10</p></td>
 <td><p>連載中</p></td>
@@ -6409,9 +6410,9 @@
 </tr>
 <tr class="odd">
 <td><p>654</p></td>
-<td><p><strong><a href="../Page/博人传-火影次世代-.md" title="wikilink">BORUTO -NARUTO NEXT GENERATIONS-</a></strong></p></td>
-<td><p><a href="../Page/池本幹雄.md" title="wikilink">池本幹雄</a>（漫畫）</p></td>
-<td><p><a href="../Page/岸本齊史.md" title="wikilink">岸本齊史</a>（原作、監修）<br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/博人传-火影次世代-" title="wikilink">BORUTO -NARUTO NEXT GENERATIONS-</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池本幹雄" title="wikilink">池本幹雄</a>（漫畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>（原作、監修）<br />
 小太刀右京（劇本）</p></td>
 <td><p>2016.23</p></td>
 <td><p>連載中</p></td>
@@ -6428,7 +6429,7 @@
 </tr>
 <tr class="odd">
 <td><p>656</p></td>
-<td><p><strong><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/約定的夢幻島" title="wikilink">約定的夢幻島</a></strong></p></td>
 <td><p>（漫畫）</p></td>
 <td><p>（原作）</p></td>
 <td><p>2016.35</p></td>
@@ -6437,7 +6438,7 @@
 </tr>
 <tr class="even">
 <td><p>657</p></td>
-<td><p><a href="../Page/愛情大亂鬥.md" title="wikilink">愛情大亂鬥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛情大亂鬥" title="wikilink">愛情大亂鬥</a></p></td>
 <td><p>山本亮平</p></td>
 <td><p>－</p></td>
 <td><p>2016.38</p></td>
@@ -6446,8 +6447,8 @@
 </tr>
 <tr class="odd">
 <td><p>658</p></td>
-<td><p><a href="../Page/赤色精靈.md" title="wikilink">赤色精靈</a></p></td>
-<td><p><a href="../Page/屋宜知宏.md" title="wikilink">屋宜知宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤色精靈" title="wikilink">赤色精靈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/屋宜知宏" title="wikilink">屋宜知宏</a></p></td>
 <td><p>－</p></td>
 <td><p>2016.39</p></td>
 <td><p>2016.52</p></td>
@@ -6500,8 +6501,8 @@
 </tr>
 <tr class="odd">
 <td><p>663</p></td>
-<td><p><strong><a href="../Page/我們真的學不來！.md" title="wikilink">我們真的學不來！</a></strong></p></td>
-<td><p><a href="../Page/筒井大志.md" title="wikilink">筒井大志</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/我們真的學不來！" title="wikilink">我們真的學不來！</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/筒井大志" title="wikilink">筒井大志</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.10</p></td>
 <td><p>連載中</p></td>
@@ -6509,7 +6510,7 @@
 </tr>
 <tr class="even">
 <td><p>664</p></td>
-<td><p><a href="../Page/U19.md" title="wikilink">U19</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/U19" title="wikilink">U19</a></p></td>
 <td><p>木村勇治</p></td>
 <td><p>－</p></td>
 <td><p>2017.11</p></td>
@@ -6527,7 +6528,7 @@
 </tr>
 <tr class="even">
 <td><p>666</p></td>
-<td><p><a href="../Page/飢餓的瑪莉.md" title="wikilink">飢餓的瑪莉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飢餓的瑪莉" title="wikilink">飢餓的瑪莉</a></p></td>
 <td><p><a href="../Page/田村隆平.md" title="wikilink">田村隆平</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.13</p></td>
@@ -6536,8 +6537,8 @@
 </tr>
 <tr class="odd">
 <td><p>667</p></td>
-<td><p><strong><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE -新石紀-</a></strong></p></td>
-<td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a>（漫畫）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dr.STONE_新石紀" title="wikilink">Dr.STONE -新石紀-</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Boichi" title="wikilink">Boichi</a>（漫畫）</p></td>
 <td><p><a href="../Page/稻垣理一郎.md" title="wikilink">稻垣理一郎</a>（原作）</p></td>
 <td><p>2017.14</p></td>
 <td><p>連載中</p></td>
@@ -6545,7 +6546,7 @@
 </tr>
 <tr class="even">
 <td><p>668</p></td>
-<td><p><a href="../Page/ROBOT×LASERBEAM.md" title="wikilink">ROBOT×LASERBEAM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ROBOT×LASERBEAM" title="wikilink">ROBOT×LASERBEAM</a></p></td>
 <td><p><a href="../Page/藤卷忠俊.md" title="wikilink">藤卷忠俊</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.16</p></td>
@@ -6563,7 +6564,7 @@
 </tr>
 <tr class="even">
 <td><p>670</p></td>
-<td><p><a href="../Page/交錯帳號.md" title="wikilink">交錯帳號</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/交錯帳號" title="wikilink">交錯帳號</a></p></td>
 <td><p>伊達恒大</p></td>
 <td><p>－</p></td>
 <td><p>2017.29</p></td>
@@ -6581,7 +6582,7 @@
 </tr>
 <tr class="even">
 <td><p>672</p></td>
-<td><p><a href="../Page/全激勵.md" title="wikilink">全激勵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全激勵" title="wikilink">全激勵</a></p></td>
 <td><p>小野玄暉</p></td>
 <td><p>－</p></td>
 <td><p>2017.47</p></td>
@@ -6590,7 +6591,7 @@
 </tr>
 <tr class="odd">
 <td><p>673</p></td>
-<td><p><a href="../Page/GOLEM_HEARTS.md" title="wikilink">GOLEM HEARTS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GOLEM_HEARTS" title="wikilink">GOLEM HEARTS</a></p></td>
 <td><p>大須賀玄</p></td>
 <td><p>－</p></td>
 <td><p>2017.48</p></td>
@@ -6608,7 +6609,7 @@
 </tr>
 <tr class="odd">
 <td><p>674</p></td>
-<td><p><a href="../Page/BOZEBEATS.md" title="wikilink">BOZEBEATS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BOZEBEATS" title="wikilink">BOZEBEATS</a></p></td>
 <td><p>平野稜二</p></td>
 <td><p>－</p></td>
 <td><p>2018.07</p></td>
@@ -6644,7 +6645,7 @@
 </tr>
 <tr class="odd">
 <td><p>678</p></td>
-<td><p><a href="../Page/ZIGA.md" title="wikilink">ZIGA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ZIGA" title="wikilink">ZIGA</a></p></td>
 <td><p>肥田野健太郎（漫畫）</p></td>
 <td><p>（原作）</p></td>
 <td><p>2018.16</p></td>
@@ -6653,7 +6654,7 @@
 </tr>
 <tr class="even">
 <td><p>679</p></td>
-<td><p><a href="../Page/紅葉的棋節.md" title="wikilink">紅葉的棋節</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅葉的棋節" title="wikilink">紅葉的棋節</a></p></td>
 <td><p>里庄真芳</p></td>
 <td><p>三枚堂達也（監修）</p></td>
 <td><p>2018.24</p></td>
@@ -6662,7 +6663,7 @@
 </tr>
 <tr class="odd">
 <td><p>680</p></td>
-<td><p><a href="../Page/侵略你吧！.md" title="wikilink">侵略你吧！</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/侵略你吧！" title="wikilink">侵略你吧！</a></p></td>
 <td><p>稻岡和佐</p></td>
 <td><p>－</p></td>
 <td><p>2018.25</p></td>
@@ -6680,7 +6681,7 @@
 </tr>
 <tr class="odd">
 <td><p>682</p></td>
-<td><p><a href="../Page/愛麗絲與太陽.md" title="wikilink">愛麗絲與太陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛麗絲與太陽" title="wikilink">愛麗絲與太陽</a></p></td>
 <td><p>凸乃高秀</p></td>
 <td><p>－</p></td>
 <td><p>2018.31</p></td>
@@ -6707,7 +6708,7 @@
 </tr>
 <tr class="even">
 <td><p>685</p></td>
-<td><p><a href="../Page/THE_COMIQ.md" title="wikilink">THE COMIQ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_COMIQ" title="wikilink">THE COMIQ</a></p></td>
 <td><p><a href="../Page/高橋和希.md" title="wikilink">高橋和希</a></p></td>
 <td><p>－</p></td>
 <td><p>2018.46</p></td>
@@ -6734,7 +6735,7 @@
 </tr>
 <tr class="odd">
 <td><p>687</p></td>
-<td><p><strong><a href="../Page/ne0;lation.md" title="wikilink">ne0;lation</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ne0;lation" title="wikilink">ne0;lation</a></strong></p></td>
 <td><p>依田瑞稀（漫畫）</p></td>
 <td><p>平尾友秀（原作）</p></td>
 <td><p>2019.02</p></td>
@@ -6752,7 +6753,7 @@
 </tr>
 <tr class="odd">
 <td><p>689</p></td>
-<td><p>'''<a href="../Page/最後的西遊記.md" title="wikilink">最後的西遊記</a> '''</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/最後的西遊記" title="wikilink">最後的西遊記</a> '''</p></td>
 <td><p>野野上大二郎</p></td>
 <td><p>－</p></td>
 <td><p>2019.14</p></td>
@@ -6761,8 +6762,8 @@
 </tr>
 <tr class="even">
 <td><p>690</p></td>
-<td><p>'''<a href="../Page/梳扎頭髮的神緒結衣.md" title="wikilink">梳扎頭髮的神緒結衣</a> '''</p></td>
-<td><p><a href="../Page/椎橋寛.md" title="wikilink">椎橋寛</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a> '''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/椎橋寛" title="wikilink">椎橋寛</a></p></td>
 <td><p>－</p></td>
 <td><p>2019.15</p></td>
 <td><p>連載中</p></td>

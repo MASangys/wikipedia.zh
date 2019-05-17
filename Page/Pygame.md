@@ -1,4 +1,4 @@
-**Pygame**是[跨平台](../Page/跨平台.md "wikilink")[Python模块](../Page/Python.md "wikilink")，专为[电子游戏设计](../Page/电子游戏.md "wikilink")。包含图像、声音。建立在[SDL基础上](../Page/Simple_DirectMedia_Layer.md "wikilink")，允许实时[电子游戏研发而无需被](../Page/电子游戏.md "wikilink")[低階语言](../Page/低階语言.md "wikilink")，如[C语言或是更低階的](../Page/C语言.md "wikilink")[組合語言束缚](../Page/組合語言.md "wikilink")。基于这样一个设想，所有需要的游戏功能和理念都（主要是图像方面）完全简化位游戏逻辑本身，所有的资源结构都可以由[高级语言提供](../Page/高级语言.md "wikilink")，如[Python](../Page/Python.md "wikilink")。
+**Pygame**是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Python模块](../Page/Python.md "wikilink")，专为[电子游戏设计](../Page/电子游戏.md "wikilink")。包含图像、声音。建立在[SDL基础上](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，允许实时[电子游戏研发而无需被](../Page/电子游戏.md "wikilink")[低階语言](https://zh.wikipedia.org/wiki/低階语言 "wikilink")，如[C语言或是更低階的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[組合語言束缚](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。基于这样一个设想，所有需要的游戏功能和理念都（主要是图像方面）完全简化位游戏逻辑本身，所有的资源结构都可以由[高级语言提供](https://zh.wikipedia.org/wiki/高级语言 "wikilink")，如[Python](../Page/Python.md "wikilink")。
 
 Pygame原为代替突然停止的pySDL\[1\]。
 
@@ -12,8 +12,9 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
 
 展示：
 
-  - [Pyweek](../Page/Pyweek.md "wikilink")，游戏制作竞赛，时间限制在7天内
-  - [Ludum Dare](../Page/Ludum_Dare.md "wikilink")，**LD48**
+  - [Pyweek](https://zh.wikipedia.org/wiki/Pyweek "wikilink")，游戏制作竞赛，时间限制在7天内
+  - [Ludum
+    Dare](https://zh.wikipedia.org/wiki/Ludum_Dare "wikilink")，**LD48**
     游戏制作竞赛，时间限制在48小时内
 
 2D引擎和库：
@@ -21,9 +22,9 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
   - [Phil's Pygame Utilities
     (PGU)](https://github.com/parogers/pgu)是增强Pygame的库和工具的集合。工具tile编辑器和一个关卡编辑器。（tile,
     isometric,
-    hexagonal）[GUI增强包括全功能GUI](../Page/GUI.md "wikilink")，html渲染，文档输出，文本渲染。函式庫包括精靈和[拚接圖電子遊戲引擎](../Page/拚接圖電子遊戲.md "wikilink")（瓷磚圖,
+    hexagonal）[GUI增强包括全功能GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")，html渲染，文档输出，文本渲染。函式庫包括精靈和[拚接圖電子遊戲引擎](https://zh.wikipedia.org/wiki/拚接圖電子遊戲 "wikilink")（瓷磚圖,
     立体圖, 六角圖）, 和一個狀態引擎，计时器，高分系统。
-  - [Pyglet](../Page/Pyglet.md "wikilink")，一个OpenGL库，类似Pygame
+  - [Pyglet](https://zh.wikipedia.org/wiki/Pyglet "wikilink")，一个OpenGL库，类似Pygame
 
 ## 社群
 
@@ -45,7 +46,8 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
   - [Pygame newsgroup](news://gmane.comp.python.pygame) [（web
     access）](https://web.archive.org/web/20090311035559/http://news.gmane.org/gmane.comp.python.pygame)—
     the "official" Pygame
-    [newsgroup](../Page/newsgroup.md "wikilink")，requires registration
+    [newsgroup](https://zh.wikipedia.org/wiki/newsgroup "wikilink")，requires
+    registration
   - [Line by line
     tutorial](https://web.archive.org/web/20050205015600/http://www.pygame.org/docs/tut/chimp/ChimpLineByLine.html)—Tutorial
     for beginners by Pete Shinners.
@@ -57,7 +59,8 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
     Basics](https://web.archive.org/web/20070429080319/http://showmedo.com/videos/series?name=pythonMayerPyGameSeries)
     and [Arinoid
     tutorials](https://web.archive.org/web/20070429111639/http://showmedo.com/videos/series?name=pythonArellanoPyGameSeries)
-    video tutorials at [showmedo](../Page/showmedo.md "wikilink")
+    video tutorials at
+    [showmedo](https://zh.wikipedia.org/wiki/showmedo "wikilink")
   - [Beginning Game Development with Python and
     Pygame](https://web.archive.org/web/20081212113920/http://www.apress.com/book/view/1590598725)
     -- A new book discussing game development using Pygame

@@ -1,17 +1,17 @@
 [Subterranean_Animism.jpg](https://zh.wikipedia.org/wiki/File:Subterranean_Animism.jpg "fig:Subterranean_Animism.jpg")
 
-是由[同人組織](../Page/同人組織.md "wikilink")[上海愛莉絲幻樂團製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](../Page/東方Project.md "wikilink")11作。
+是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團製作的](../Page/上海愛莉絲幻樂團.md "wikilink")[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")11作。
 
 ## 概要
 
-本作是[東方Project的第](../Page/東方Project.md "wikilink")11作，也是[Windows平台上的第六作](../Page/Windows.md "wikilink")。本作的開發情報最初在2007年10月16日於作者[ZUN的網誌](../Page/ZUN.md "wikilink")「博麗幻想書譜」有所暗示\[1\]，其後在2008年5月1日表明了本作的標題\[2\]。
+本作是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")11作，也是[Windows平台上的第六作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的開發情報最初在2007年10月16日於作者[ZUN的網誌](../Page/ZUN.md "wikilink")「博麗幻想書譜」有所暗示\[1\]，其後在2008年5月1日表明了本作的標題\[2\]。
 
 本作的系統有不少都是承繼了前作的，但也有些是以之前的各作品為基礎改變而成的。自機的選擇和前作《[東方風神錄 ～ Mountain of
-Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣，都是[博麗靈夢及](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")，不過武器選擇則變為支援角色的形式，2名自機角色分別都有3名支援角色，總其有6種自機與支援角色的組合。遊戲模式則是[4種難度](../Page/東方Project#難易度、結局.md "wikilink")，全部6關，達成一定條件後可以開放Extra模式挑戰。
+Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣，都是[博麗靈夢及](../Page/博麗靈夢.md "wikilink")[霧雨魔理沙](../Page/霧雨魔理沙.md "wikilink")，不過武器選擇則變為支援角色的形式，2名自機角色分別都有3名支援角色，總其有6種自機與支援角色的組合。遊戲模式則是[4種難度](https://zh.wikipedia.org/wiki/東方Project#難易度、結局 "wikilink")，全部6關，達成一定條件後可以開放Extra模式挑戰。
 
 ## 故事
 
-在下著雪的[冬季裏](../Page/冬季.md "wikilink")，博麗神社經過修復之後，從倒塌了的狀態中回復過來。不久有一天，博麗神社附近突然有[泉水噴出](../Page/泉水.md "wikilink")。受此影響，博麗神社的參拜客增加。可是，正當靈夢為此感如欣喜之時，卻發現到泉水那邊有怨靈湧出。靈夢感到非常驚慌，不過見那些與泉水一起出來的地靈也對她沒有甚麼問題，所以靈夢繼續享受溫泉。另一邊廂，紅魔館裏的[帕秋莉‧諾雷姬看見地底下的妖怪和地靈來到地上](../Page/帕秋莉‧諾雷姬.md "wikilink")，感覺事態嚴重，與[八雲紫相討形勢](../Page/八雲紫.md "wikilink")。在不直接以妖怪之身干涉地底事情的情況下，妖怪們委託靈夢及魔理沙進入地底，而她們則留在地上對兩人作出支援。
+在下著雪的[冬季裏](../Page/冬季.md "wikilink")，博麗神社經過修復之後，從倒塌了的狀態中回復過來。不久有一天，博麗神社附近突然有[泉水噴出](https://zh.wikipedia.org/wiki/泉水 "wikilink")。受此影響，博麗神社的參拜客增加。可是，正當靈夢為此感如欣喜之時，卻發現到泉水那邊有怨靈湧出。靈夢感到非常驚慌，不過見那些與泉水一起出來的地靈也對她沒有甚麼問題，所以靈夢繼續享受溫泉。另一邊廂，紅魔館裏的[帕秋莉‧諾雷姬看見地底下的妖怪和地靈來到地上](https://zh.wikipedia.org/wiki/帕秋莉‧諾雷姬 "wikilink")，感覺事態嚴重，與[八雲紫相討形勢](https://zh.wikipedia.org/wiki/八雲紫 "wikilink")。在不直接以妖怪之身干涉地底事情的情況下，妖怪們委託靈夢及魔理沙進入地底，而她們則留在地上對兩人作出支援。
 
 ## 遊戲系統
 
@@ -46,7 +46,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
   - 通信強度
 
-通信強度是在畫面左下角與數字一同顯示的一個像[手提電話訊號顯示的計量](../Page/手提電話.md "wikilink")。通信強度在自機移動到道具自動蒐集的界線上時會增至全滿，而在擦彈時也會上計。通信強度的最小值為0.00，最大值為1.00。另外，當Graze的次數每增加100時，通信強度的最大值和最小值都會增加0.01點。通信強度會在離開道具自動蒐集界線或沒有擦彈時開始下降，同時若果是持續擦彈了一段時間的話，當停止擦彈時，通信強度在短時間內也不會下跌。
+通信強度是在畫面左下角與數字一同顯示的一個像[手提電話訊號顯示的計量](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。通信強度在自機移動到道具自動蒐集的界線上時會增至全滿，而在擦彈時也會上計。通信強度的最小值為0.00，最大值為1.00。另外，當Graze的次數每增加100時，通信強度的最大值和最小值都會增加0.01點。通信強度會在離開道具自動蒐集界線或沒有擦彈時開始下降，同時若果是持續擦彈了一段時間的話，當停止擦彈時，通信強度在短時間內也不會下跌。
 
   - 得分最大值
 
@@ -77,9 +77,9 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 #### 支援角色
 
-分別是[八雲紫](../Page/八雲紫.md "wikilink")、[伊吹萃香](../Page/伊吹萃香.md "wikilink")、[射命丸文三人](../Page/射命丸文.md "wikilink")。
+分別是[八雲紫](https://zh.wikipedia.org/wiki/八雲紫 "wikilink")、[伊吹萃香](https://zh.wikipedia.org/wiki/伊吹萃香 "wikilink")、[射命丸文三人](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")。
 
-  - [八雲 紫](../Page/八雲紫.md "wikilink")（，Yakumo Yukari）
+  - [八雲 紫](https://zh.wikipedia.org/wiki/八雲紫 "wikilink")（，Yakumo Yukari）
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [伊吹 萃香](../Page/伊吹萃香.md "wikilink")（，Ibuki Suika）
+  - [伊吹 萃香](https://zh.wikipedia.org/wiki/伊吹萃香 "wikilink")（，Ibuki Suika）
 
 <!-- end list -->
 
@@ -103,7 +103,8 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [射命丸 文](../Page/射命丸文.md "wikilink")（，，Shameimaru Aya）
+  - [射命丸 文](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")（，，Shameimaru
+    Aya）
 
 <!-- end list -->
 
@@ -126,10 +127,10 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 #### 支援角色
 
-分別是[愛莉絲·瑪嘉托洛伊德](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德.md "wikilink")、[帕秋莉·諾雷姬](../Page/帕秋莉·諾雷姬.md "wikilink")、[河城
-荷取（或译作「似鳥」）三人](../Page/東方風神錄_～_Mountain_of_Faith.#河城_荷取.md "wikilink")。
+分別是[愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")、[帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")、[河城
+荷取（或译作「似鳥」）三人](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")。
 
-  - [愛莉絲·瑪嘉托洛伊德](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德.md "wikilink")（，Alice
+  - [愛莉絲·瑪嘉托洛伊德](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#愛莉絲·瑪嘉托洛伊德 "wikilink")（，Alice
     Margatroid）
 
 <!-- end list -->
@@ -142,7 +143,8 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 <!-- end list -->
 
-  - [帕秋莉·諾雷姬](../Page/帕秋莉·諾雷姬.md "wikilink")（，Patchouli Knowledge）
+  - [帕秋莉·諾雷姬](https://zh.wikipedia.org/wiki/帕秋莉·諾雷姬 "wikilink")（，Patchouli
+    Knowledge）
 
 <!-- end list -->
 
@@ -160,7 +162,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 <!-- end list -->
 
   - [河城
-    荷取（或译作「似鳥」）](../Page/東方風神錄_～_Mountain_of_Faith.#河城_荷取.md "wikilink")（，，Kawashiro
+    荷取（或译作「似鳥」）](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.#河城_荷取 "wikilink")（，，Kawashiro
     Nitori）
 
 <!-- end list -->
@@ -176,7 +178,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 ### 琪斯美
 
   - ，Kisume
-    **種族**：[釣瓶妖](../Page/釣瓶妖.md "wikilink")
+    **種族**：[釣瓶妖](https://zh.wikipedia.org/wiki/釣瓶妖 "wikilink")
     **能力**：降下鬼火的能力
     **別名**：
       - 　可怖的井中怪（《地靈殿》）
@@ -194,7 +196,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 ### 黑谷 山女
 
   - ，Kurodani Yamame
-    **種族**：[土蜘蛛](../Page/土蜘蛛.md "wikilink")
+    **種族**：[土蜘蛛](https://zh.wikipedia.org/wiki/土蜘蛛 "wikilink")
     **能力**：操縱疾病（主要是傳染病）的能力
     **別名**：
       - 　黑暗洞窟的明亮之網（《地靈殿》）
@@ -230,14 +232,14 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
 連接地上與地下通道管理者之守護神。金髮、綠眼的妖怪。平時她會守望著他人由地上世界平安的抵達地下世界，再由地下世界回到地上世界。但是，她的嫉妒心很強，遇見那些看來很快樂的人時就很不爽，並會跑去搗亂。嫉妒生成更多嫉妒，當她因嫉妒所瘋狂的同時、也會煽動他人的嫉妒心。\[5\]
 
-[萃香非常鄙視她的能力](../Page/伊吹萃香.md "wikilink")，羞辱她是被忌妒心驅使的妖怪。
+[萃香非常鄙視她的能力](https://zh.wikipedia.org/wiki/伊吹萃香 "wikilink")，羞辱她是被忌妒心驅使的妖怪。
 
 橋姬的力量來自於人類的嫉妒心，人類的嫉妒心會成為她的餌食，橋姬的力量便隨之增強，這點和神明非常相像（有點類似信仰心）。對人類還蠻親切的，個性也很開朗，但心底層面是很複雜的，她可能會在私底下偷偷咒罵，自此同時也會煽動人類的嫉妒心。基本上沒什麼危險的妖怪，只是能力很討人厭。
 
 ### 星熊 勇儀
 
   - ，Hoshiguma Yuugi
-    **種族**：[鬼](../Page/鬼_\(日本\).md "wikilink")
+    **種族**：[鬼](https://zh.wikipedia.org/wiki/鬼_\(日本\) "wikilink")
     **能力**：擁有怪力亂神中「力」的能力
     **別名**：
       - 　被談論的怪力亂神（《地靈殿》）
@@ -261,7 +263,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 ### 古明地 覺
 
   - ，Komeiji Satori
-    **種族**：[覺](../Page/覺.md "wikilink")
+    **種族**：[覺](https://zh.wikipedia.org/wiki/覺 "wikilink")
     **能力**：有讀心術的能力
     **別名**：
       - 　連怨靈也為之所懼的少女（《地靈殿》）
@@ -317,7 +319,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》一樣�
 
   - ，Reiuji Utsuho
     **種族**：地獄鴉、[八咫烏](../Page/八咫烏.md "wikilink")
-    **能力**：操控[核融合的能力](../Page/核融合.md "wikilink")
+    **能力**：操控[核融合的能力](https://zh.wikipedia.org/wiki/核融合 "wikilink")
     **別名**：
       - 　難以駕馭的神之火（《地靈殿》）
 
@@ -352,7 +354,7 @@ Extra中頭目。看見靈夢們來到守矢神社，於是就展開了對決。
 ### 古明地 戀
 
   - ，Komeiji Koishi
-    **種族**：[覺](../Page/覺.md "wikilink")
+    **種族**：[覺](https://zh.wikipedia.org/wiki/覺 "wikilink")
     **能力**：操控無意識的能力
     **別名**：
       - 　封閉的戀之眼（《地靈殿》）
@@ -573,7 +575,7 @@ Extra中頭目。看見靈夢們來到守矢神社，於是就展開了對決。
 <td></td>
 <td><p>Player's Score</p></td>
 <td><p>分數登錄畫面<br />
-重新收錄自<a href="../Page/東方風神錄.md" title="wikilink">東方風神錄</a></p></td>
+重新收錄自<a href="https://zh.wikipedia.org/wiki/東方風神錄" title="wikilink">東方風神錄</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -2,14 +2,14 @@
 
 ## 歷史
 
-[蘇德戰爭爆發後](../Page/蘇德戰爭.md "wikilink")，雖然[拉格-3戰鬥機的性能表現並未特別出眾](../Page/拉格-3戰鬥機.md "wikilink")，但其卻有著相較於當時蘇聯其他新銳戰鬥機種（如[雅克-1](../Page/雅克-1.md "wikilink")）所欠缺的堅固和抗戰損能力。
+[蘇德戰爭爆發後](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")，雖然[拉格-3戰鬥機的性能表現並未特別出眾](https://zh.wikipedia.org/wiki/拉格-3戰鬥機 "wikilink")，但其卻有著相較於當時蘇聯其他新銳戰鬥機種（如[雅克-1](https://zh.wikipedia.org/wiki/雅克-1 "wikilink")）所欠缺的堅固和抗戰損能力。
 
 這是因為拉格-3戰鬥機先天的結構上，使用當時較新發明的**酚甲醛樹脂**填充和接著，只因為液冷式發動機功率不足，於是其設計師拉沃奇金大膽的採用當時被認為（由於正截面大將導致戰機氣動力惡化，因此不適合用於高空高速空戰)新型的M-82氣冷發動機，以改善該機體系列的高空和高速性能（實際上，此處所指的高空多半是以大戰時期俄國空軍戰鬥機活動空層的極限-6000公尺以下）。
 
 而本機的另一特點是，在量產型的戰鬥機中，首先使用**前緣襟翼**的構造，大大提高了機動性。
 
 因為拉沃奇金的拍擋離開設計局，所以本機被單獨命名為**拉-5**型戰鬥機 (Lavochkin
-La-5)，並在1942投入戰場參與了[斯大林格勒戰役](../Page/斯大林格勒戰役.md "wikilink")。
+La-5)，並在1942投入戰場參與了[斯大林格勒戰役](https://zh.wikipedia.org/wiki/斯大林格勒戰役 "wikilink")。
 
 ### 发展历程
 
@@ -39,27 +39,27 @@ La-7最初被称为“1944年标准型”的La-5FN，这架飞机相比之前的
 
 ### 評價和戰果
 
-相對於另一蘇聯戰時主力戰鬥機[雅克-9因受制於任務性質而毀譽參半的評價](../Page/雅克-9.md "wikilink")，或專司格鬥而用途過狹的[雅克-3型](../Page/雅克-3.md "wikilink")，除了超短航程外與備彈較少的傳統缺點外、相對較均衡的本機幾乎是一面倒地受到實戰部隊的歡迎。比起戰爭初期即嶄露頭角、遍佈戰線並創造大量王牌的雅克系列，二戰時蘇聯前十名[王牌飛行員的愛機多半是美援的P](../Page/王牌飛行員.md "wikilink")-39或La-5之後的拉系列。和雅克重視量產性、整備性、空氣動力外形、機敏性、容易上手……等以"量"為運用前提的特色相比，拉以強韌、充分發揮大馬力發動機潛能的進化方向，使其重視"質"的印象更強。
+相對於另一蘇聯戰時主力戰鬥機[雅克-9因受制於任務性質而毀譽參半的評價](https://zh.wikipedia.org/wiki/雅克-9 "wikilink")，或專司格鬥而用途過狹的[雅克-3型](https://zh.wikipedia.org/wiki/雅克-3 "wikilink")，除了超短航程外與備彈較少的傳統缺點外、相對較均衡的本機幾乎是一面倒地受到實戰部隊的歡迎。比起戰爭初期即嶄露頭角、遍佈戰線並創造大量王牌的雅克系列，二戰時蘇聯前十名[王牌飛行員的愛機多半是美援的P](https://zh.wikipedia.org/wiki/王牌飛行員 "wikilink")-39或La-5之後的拉系列。和雅克重視量產性、整備性、空氣動力外形、機敏性、容易上手……等以"量"為運用前提的特色相比，拉以強韌、充分發揮大馬力發動機潛能的進化方向，使其重視"質"的印象更強。
 
 因生產本機所需要的器材和材料較新，對在開戰時即受到重創和工業基底稍遜的蘇聯而言，生產主力轉往簡易可靠又較高性能的雅克系列是必然之事
 (特別相較同期問題頻仍而性能又差強人意的LaGG-3和MiG-3)。對東線戰場生態而言這也是必然之舉。但拉系列進化後重獲重視，至La-5和La-7時甚至得到部分精銳堅定的支持，使其總產量仍逾一萬五千架。
 
 二戰後期蘇聯在戰爭進入順遂階段時曾有議論"目前戰線上使用機種何者居冠"。雖然各家設計局的產品皆有相當支持者，但最後評定結果是繼承P-39位置的P-63獲得壓倒性的支持。因其擁有紅軍所需要的所有重點性能，與紅軍機種所不具備的總體均衡性
-(兼顧速度、運動性的同時擁有重裝甲、重砲與豪華齊全的機載設備)。據說包含斯大林在內的紅軍高層對此有些不悅，認為戰爭結束前紅軍最佳戰機的位置不該是屬於外來的援助機種，因此責令各設計局提出最佳設計加入評鑑，兩大主流支系便分別以[La-7與Yak](../Page/La-7.md "wikilink")-3作為代表。即使機載裝備的科技與品質仍明顯不如P-63，但至少在東線戰場最重要的中低空速度與運動性能上，兩者皆能超越P-63。由於兩者皆服役一段時間並累積相當豐碩的戰果，各自擁有相當的支持者，於是接著又衍生出"何者為國產戰機之冠"的爭論。由於各實戰經驗者皆認定"不能只憑紙面數據即判定高下"，為此雙方支持者在軍方許可下舉行了一次相當認真的模擬戰。[La-7支持者一方派出第](../Page/La-7.md "wikilink")9親衛戰鬥連隊隊長Vladimir
+(兼顧速度、運動性的同時擁有重裝甲、重砲與豪華齊全的機載設備)。據說包含斯大林在內的紅軍高層對此有些不悅，認為戰爭結束前紅軍最佳戰機的位置不該是屬於外來的援助機種，因此責令各設計局提出最佳設計加入評鑑，兩大主流支系便分別以[La-7與Yak](https://zh.wikipedia.org/wiki/La-7 "wikilink")-3作為代表。即使機載裝備的科技與品質仍明顯不如P-63，但至少在東線戰場最重要的中低空速度與運動性能上，兩者皆能超越P-63。由於兩者皆服役一段時間並累積相當豐碩的戰果，各自擁有相當的支持者，於是接著又衍生出"何者為國產戰機之冠"的爭論。由於各實戰經驗者皆認定"不能只憑紙面數據即判定高下"，為此雙方支持者在軍方許可下舉行了一次相當認真的模擬戰。[La-7支持者一方派出第](https://zh.wikipedia.org/wiki/La-7 "wikilink")9親衛戰鬥連隊隊長Vladimir
 Lavrinenkov
 (此時是已獲得兩次蘇聯英雄獎章、至終戰時累計擊落35架、協同擊落11架的超級王牌)領隊，另一方則以雅克系列戰機久經實戰、著名的法籍援俄部隊「諾曼底‧尼門」隊長Louis
-Delfino率隊交鋒。由於之前戰功彪炳的第9親衛戰鬥連隊被編入第303戰鬥師團時，名聞遐邇的「諾曼底‧尼門」也已編入該師團中，因此何者較優自當時便爭論不休，種下日後此次實戰競技的因緣。以雙方被隊中認定戰技最佳的王牌領隊、並各攜一名默契最佳的僚機，以二對二的小編隊進行模擬對抗。模擬空戰中，[La-7一方不斷利用較強的加速性和垂直面機動屢次甩脫咬尾](../Page/La-7.md "wikilink")、並佔據高位意圖以此壓倒對手，而Yak-3一方則頻頻活用較輕盈的水平面機動切入對方內圈、或閃躲對方的射擊軸線，也在攻防之間運用較高的俯衝速度與對方的垂直機動抗衡。因為空戰中雙方皆視同實戰、毫不保留，因此歷經相當時間仍無法分出勝負
-(亦有雙方皆二勝二敗的說法)。就在長時間的高G機動中，[La-7方領隊的Lavrinenkov痼疾的心臟病發](../Page/La-7.md "wikilink")，不得不當場退出戰鬥、送院治療，使得這場較量在難分高下的結果中畫下句點。Lavrinenkov在戰後的訪談中亦表達其遺憾的心情，並對Yak-3與法國人對手至上由衷的敬意。
+Delfino率隊交鋒。由於之前戰功彪炳的第9親衛戰鬥連隊被編入第303戰鬥師團時，名聞遐邇的「諾曼底‧尼門」也已編入該師團中，因此何者較優自當時便爭論不休，種下日後此次實戰競技的因緣。以雙方被隊中認定戰技最佳的王牌領隊、並各攜一名默契最佳的僚機，以二對二的小編隊進行模擬對抗。模擬空戰中，[La-7一方不斷利用較強的加速性和垂直面機動屢次甩脫咬尾](https://zh.wikipedia.org/wiki/La-7 "wikilink")、並佔據高位意圖以此壓倒對手，而Yak-3一方則頻頻活用較輕盈的水平面機動切入對方內圈、或閃躲對方的射擊軸線，也在攻防之間運用較高的俯衝速度與對方的垂直機動抗衡。因為空戰中雙方皆視同實戰、毫不保留，因此歷經相當時間仍無法分出勝負
+(亦有雙方皆二勝二敗的說法)。就在長時間的高G機動中，[La-7方領隊的Lavrinenkov痼疾的心臟病發](https://zh.wikipedia.org/wiki/La-7 "wikilink")，不得不當場退出戰鬥、送院治療，使得這場較量在難分高下的結果中畫下句點。Lavrinenkov在戰後的訪談中亦表達其遺憾的心情，並對Yak-3與法國人對手至上由衷的敬意。
 
-戰後本機被用來軍援其他社會主義國家，並參加過[韓戰和](../Page/韓戰.md "wikilink")[台海衝突](../Page/台海.md "wikilink")，還發展了較高技術、高火力和高航程的**La-9**和**La-11**
-(但兩者的空戰性能反較基礎的[La-7為低](../Page/La-7.md "wikilink"))，補充了問題較多的早期噴射戰鬥機不足，成為了蘇聯末代的螺旋槳戰鬥機。
+戰後本機被用來軍援其他社會主義國家，並參加過[韓戰和](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[台海衝突](https://zh.wikipedia.org/wiki/台海 "wikilink")，還發展了較高技術、高火力和高航程的**La-9**和**La-11**
+(但兩者的空戰性能反較基礎的[La-7為低](https://zh.wikipedia.org/wiki/La-7 "wikilink"))，補充了問題較多的早期噴射戰鬥機不足，成為了蘇聯末代的螺旋槳戰鬥機。
 
 ## 參數與結構
 
 [Lavochkin_La-5.png](https://zh.wikipedia.org/wiki/File:Lavochkin_La-5.png "fig:Lavochkin_La-5.png")
-結構很像[拉格-3戰鬥機](../Page/拉格-3戰鬥機.md "wikilink")，是由木結構為主以塑料填充和接著的，單座單發式螺旋槳戰鬥機，最大特色是首創了前緣襟翼的構造，使用後三點式收放式起落架，配三葉式螺旋槳和氣泡式座艙，有外露式的無線電天線。
+結構很像[拉格-3戰鬥機](https://zh.wikipedia.org/wiki/拉格-3戰鬥機 "wikilink")，是由木結構為主以塑料填充和接著的，單座單發式螺旋槳戰鬥機，最大特色是首創了前緣襟翼的構造，使用後三點式收放式起落架，配三葉式螺旋槳和氣泡式座艙，有外露式的無線電天線。
 
-因為[拉-7型和拉](../Page/拉-7.md "wikilink")-5型外觀上極相似，故有關戰時飛機的書籍多把其一併介紹，但實際上前者的增壓器導氣管是在左翼翼根中，減少了阻力而速度較快。
+因為[拉-7型和拉](https://zh.wikipedia.org/wiki/拉-7 "wikilink")-5型外觀上極相似，故有關戰時飛機的書籍多把其一併介紹，但實際上前者的增壓器導氣管是在左翼翼根中，減少了阻力而速度較快。
 
 以下資料以產量最多的La-5FN為主。
 
@@ -99,38 +99,38 @@ Delfino率隊交鋒。由於之前戰功彪炳的第9親衛戰鬥連隊被編入
 
 ### 其他戰時的蘇聯著名作戰飛機
 
-  - [戰鬥機](../Page/戰鬥機.md "wikilink")
-      - [伊-15](../Page/伊-15.md "wikilink")
-      - [伊-16](../Page/伊-16.md "wikilink")
-      - [Yak-1](../Page/Yak-1.md "wikilink")
-      - [Yak-3](../Page/Yak-3.md "wikilink")
-      - [Yak-9](../Page/Yak-9.md "wikilink")
-      - [La-7](../Page/La-7.md "wikilink")
-  - [攻擊機](../Page/攻擊機.md "wikilink")
-      - [IL-2](../Page/IL-2.md "wikilink")
-  - [轟炸機](../Page/轟炸機.md "wikilink")
-      - [IL-4](../Page/IL-4.md "wikilink")
-      - [Pe-2](../Page/Pe-2.md "wikilink")
+  - [戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")
+      - [伊-15](https://zh.wikipedia.org/wiki/伊-15 "wikilink")
+      - [伊-16](https://zh.wikipedia.org/wiki/伊-16 "wikilink")
+      - [Yak-1](https://zh.wikipedia.org/wiki/Yak-1 "wikilink")
+      - [Yak-3](https://zh.wikipedia.org/wiki/Yak-3 "wikilink")
+      - [Yak-9](https://zh.wikipedia.org/wiki/Yak-9 "wikilink")
+      - [La-7](https://zh.wikipedia.org/wiki/La-7 "wikilink")
+  - [攻擊機](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")
+      - [IL-2](https://zh.wikipedia.org/wiki/IL-2 "wikilink")
+  - [轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")
+      - [IL-4](https://zh.wikipedia.org/wiki/IL-4 "wikilink")
+      - [Pe-2](https://zh.wikipedia.org/wiki/Pe-2 "wikilink")
   - [教練機](../Page/教練機.md "wikilink")
-      - [Po-2](../Page/Po-2.md "wikilink")
+      - [Po-2](https://zh.wikipedia.org/wiki/Po-2 "wikilink")
 
 ### 其他戰時各國主力戰鬥機的代表
 
-  - [德國](../Page/德國.md "wikilink")
-      - [Bf 109](../Page/Bf_109.md "wikilink")
-      - [Fw 190](../Page/Fw_190.md "wikilink")
-  - [美國](../Page/美國.md "wikilink")
-      - [P-40](../Page/P-40.md "wikilink")
-      - [F4F](../Page/F4F.md "wikilink")
-      - [P-51](../Page/P-51.md "wikilink")
-      - [P-47](../Page/P-47.md "wikilink")
-      - [F4U](../Page/F4U.md "wikilink")
-      - [F6F](../Page/F6F.md "wikilink")
-  - [英國](../Page/英國.md "wikilink")
+  - [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")
+      - [Bf 109](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")
+      - [Fw 190](https://zh.wikipedia.org/wiki/Fw_190 "wikilink")
+  - [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")
+      - [P-40](https://zh.wikipedia.org/wiki/P-40 "wikilink")
+      - [F4F](https://zh.wikipedia.org/wiki/F4F "wikilink")
+      - [P-51](https://zh.wikipedia.org/wiki/P-51 "wikilink")
+      - [P-47](https://zh.wikipedia.org/wiki/P-47 "wikilink")
+      - [F4U](https://zh.wikipedia.org/wiki/F4U "wikilink")
+      - [F6F](https://zh.wikipedia.org/wiki/F6F "wikilink")
+  - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")
       - [颶風戰鬥機](../Page/颶風戰鬥機.md "wikilink")
       - [噴火戰鬥機](../Page/噴火戰鬥機.md "wikilink")
   - [日本](../Page/日本.md "wikilink")
-      - [零戰](../Page/零戰.md "wikilink")
+      - [零戰](https://zh.wikipedia.org/wiki/零戰 "wikilink")
 
 [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
 [Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink")

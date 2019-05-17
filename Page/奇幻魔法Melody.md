@@ -1,7 +1,7 @@
 《**我愛美樂蒂**》（，直譯《拜託你了My
-Melody》）是一部以[Sanrio旗下的](../Page/Sanrio.md "wikilink")[My
+Melody》）是一部以[Sanrio旗下的](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[My
 Melody玩偶作基礎的](../Page/My_Melody.md "wikilink")[日本動畫](../Page/日本.md "wikilink")，全數四季，由[STUDIO
-COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3日至2006年3月26日逢星期日早上9:30-10:00在[東京電視台系放映](../Page/東京電視台.md "wikilink")，每季52集，另外也有在[Animax播放](../Page/Animax.md "wikilink")。為2005年至2008年期間的系列動畫，2009年續作為[Sanrio旗下的](../Page/Sanrio.md "wikilink")《[寶石寵物](../Page/寶石寵物_\(第一季\).md "wikilink")》系列動畫。
+COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3日至2006年3月26日逢星期日早上9:30-10:00在[東京電視台系放映](../Page/東京電視台.md "wikilink")，每季52集，另外也有在[Animax播放](../Page/Animax.md "wikilink")。為2005年至2008年期間的系列動畫，2009年續作為[Sanrio旗下的](https://zh.wikipedia.org/wiki/Sanrio "wikilink")《[寶石寵物](../Page/寶石寵物_\(第一季\).md "wikilink")》系列動畫。
 
 第一季至三季主要故事舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。第四季的故事舞台則改為美樂蒂的故鄉——馬里蘭樂園，時間點設定為美樂蒂遇到夢野歌之前（即第一季之前），人類主角為星月Kirara。
 
@@ -156,11 +156,11 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3�
 
 ## 製作人員
 
-  - [企画](../Page/企画.md "wikilink")：[We've](../Page/We've.md "wikilink")
+  - [企画](https://zh.wikipedia.org/wiki/企画 "wikilink")：[We've](https://zh.wikipedia.org/wiki/We've "wikilink")
   - 原案：福島一芳、Sanrio
   - 系列構成：山野邊一記（首28話，使用「夢之丘中學校文藝部」之名）、山田隆司（第29話起）
   - 基本規劃：山野邊一記（第29話起）
-  - [角色設定](../Page/角色設定.md "wikilink")：宮川知子
+  - [角色設定](https://zh.wikipedia.org/wiki/角色設定 "wikilink")：宮川知子
   - 怪獸設定原案：山本ルンルン
   - 怪獸設定：大河廣行（Think Port）
   - 美術監督：福田和矢、水野友紀子
@@ -180,7 +180,8 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3�
   - 製作人：原弘之（大阪電視台）、渡邊和哉（讀賣廣告社）、可知秀幸（we've）
   - 監督：森脇真琴
   - 動畫制作：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")
-  - 製作：大阪電視台、讀賣廣告社、-{My Melody}-[製作委員會](../Page/製作委員會方式.md "wikilink")
+  - 製作：大阪電視台、讀賣廣告社、-{My
+    Melody}-[製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## おねがい♪マイメロディ きららっ★道具介紹
 
@@ -202,7 +203,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3�
 
 :; 「マイドリーム\!マイメロディ\!」（「My Dream\! -{My Melody}-\!」，第1話～第28話）
 
-:: 主唱：[まいめろでぃーず](../Page/まいめろでぃーず.md "wikilink")
+:: 主唱：[まいめろでぃーず](https://zh.wikipedia.org/wiki/まいめろでぃーず "wikilink")
 
 :; 「夢見るチカラ」（第29話～第52話）
 
@@ -235,8 +236,8 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3�
 ### おねがい♪マイメロディ きららっ★（第四輯）
 
   - 片頭曲「きらきらキララ★彡」
-    主唱：[うちやえゆか](../Page/うちやえゆか.md "wikilink")、作詞：伊福部崇、作曲・編曲：杉浦 "ラフィン"
-    誠一郎
+    主唱：[うちやえゆか](https://zh.wikipedia.org/wiki/うちやえゆか "wikilink")、作詞：伊福部崇、作曲・編曲：杉浦
+    "ラフィン" 誠一郎
 
   - 片尾曲
 
@@ -246,16 +247,17 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3�
 
 :; 「宇宙（ほし）のフラメンコ」（第27話－第51話）
 
-:: 作詞・作曲- [UZA](../Page/UZA_\(作曲家\).md "wikilink") / 編曲 - ROUND4 / 歌 -
-[クロミ](../Page/クロミ_\(おねがいマイメロディ\).md "wikilink")&[ソララ王子](../Page/ソララ王子.md "wikilink")&[ナタリー](../Page/ナタリー.md "wikilink")（[竹内順子](../Page/竹内順子.md "wikilink")&[宮田幸季](../Page/宮田幸季.md "wikilink")&[橘田泉](../Page/橘田泉.md "wikilink")）
+:: 作詞・作曲- [UZA](https://zh.wikipedia.org/wiki/UZA_\(作曲家\) "wikilink") /
+編曲 - ROUND4 / 歌 -
+[クロミ](https://zh.wikipedia.org/wiki/クロミ_\(おねがいマイメロディ\) "wikilink")&[ソララ王子](https://zh.wikipedia.org/wiki/ソララ王子 "wikilink")&[ナタリー](https://zh.wikipedia.org/wiki/ナタリー "wikilink")（[竹内順子](https://zh.wikipedia.org/wiki/竹内順子 "wikilink")&[宮田幸季](../Page/宮田幸季.md "wikilink")&[橘田泉](../Page/橘田泉.md "wikilink")）
 
 :; 「手をつなごう」（最終回）
 
   -
 
       -
-        作詞 - [山田ひろし](../Page/山田ひろし.md "wikilink") / 編曲 - 渡部チェル / 歌 -
-        マリーランドのなかまたち
+        作詞 - [山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") /
+        編曲 - 渡部チェル / 歌 - マリーランドのなかまたち
 
 ## 外部連結
 

@@ -1,19 +1,19 @@
 **HTTP 404**或**Not
-Found**錯誤訊息是[HTTP的其中一種](../Page/HTTP.md "wikilink")「標準回應訊息」（[HTTP状态码](../Page/HTTP状态码.md "wikilink")），此訊息代表客戶端在瀏覽網頁時，伺服器無法正常提供訊息，或是伺服器無法回應且不知原因。通常是因为用户所访问的对应网页已被被移动或从未存在。404也是互联网上最常见的错误之一。404錯誤訊息可能與「server
+Found**錯誤訊息是[HTTP的其中一種](https://zh.wikipedia.org/wiki/HTTP "wikilink")「標準回應訊息」（[HTTP状态码](../Page/HTTP状态码.md "wikilink")），此訊息代表客戶端在瀏覽網頁時，伺服器無法正常提供訊息，或是伺服器無法回應且不知原因。通常是因为用户所访问的对应网页已被被移动或从未存在。404也是互联网上最常见的错误之一。404錯誤訊息可能與「server
 not found」（無法找到伺服器）或其他類似訊息產生混淆。
 
 ## 概要
 
-當客戶端使用HTTP瀏覽網頁時，伺服器需要針對不同的「要求」提供不同的「回應」，譬如[瀏覽器發出](../Page/瀏覽器.md "wikilink")[HTML文件](../Page/HTML.md "wikilink")（[網頁](../Page/網頁.md "wikilink")）的要求，並帶有數字回應碼和[MIME的訊息](../Page/MIME.md "wikilink")。代碼404的第一個「4」代表客戶端的錯誤，如錯誤的[URL](../Page/URL.md "wikilink")；後兩位數字碼則代表著特定的錯誤訊息。HTTP的三字元代碼跟早期通訊協定[FTP和](../Page/FTP.md "wikilink")[NNTP的代碼相當類似](../Page/NNTP.md "wikilink")。
+當客戶端使用HTTP瀏覽網頁時，伺服器需要針對不同的「要求」提供不同的「回應」，譬如[瀏覽器發出](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[HTML文件](../Page/HTML.md "wikilink")（[網頁](../Page/網頁.md "wikilink")）的要求，並帶有數字回應碼和[MIME的訊息](https://zh.wikipedia.org/wiki/MIME "wikilink")。代碼404的第一個「4」代表客戶端的錯誤，如錯誤的[URL](https://zh.wikipedia.org/wiki/URL "wikilink")；後兩位數字碼則代表著特定的錯誤訊息。HTTP的三字元代碼跟早期通訊協定[FTP和](https://zh.wikipedia.org/wiki/FTP "wikilink")[NNTP的代碼相當類似](https://zh.wikipedia.org/wiki/NNTP "wikilink")。
 
 從HTTP的層面來看，404訊息碼之後通常會有一個可讀的訊息「Not
 Found」\[1\]，許多網路伺服器的預設頁面也都有「404」代碼跟「Not
 Found」的詞彙。
 
 404錯誤訊息通常是在目標頁面被更動或移除之後顯現的頁面。在第一种情况下，最好通过返回[301 Moved
-Permanently响应进行](../Page/HTTP_301.md "wikilink")[URL映射或](../Page/Web应用框架#URL映射.md "wikilink")[URL重定向](../Page/URL重定向.md "wikilink")，该响应可以在大多数服务器配置文件中配置，或者通过[URL重写](../Page/URL重写.md "wikilink")
+Permanently响应进行](../Page/HTTP_301.md "wikilink")[URL映射或](https://zh.wikipedia.org/wiki/Web应用框架#URL映射 "wikilink")[URL重定向](https://zh.wikipedia.org/wiki/URL重定向 "wikilink")，该响应可以在大多数服务器配置文件中配置，或者通过[URL重写](https://zh.wikipedia.org/wiki/URL重写 "wikilink")
 ；在第二种情况下，应返回[410
-Gone](../Page/HTTP状态码#410.md "wikilink")。因為此兩種訊息需要特別架構的伺服器，許多網站並不使用。
+Gone](https://zh.wikipedia.org/wiki/HTTP状态码#410 "wikilink")。因為此兩種訊息需要特別架構的伺服器，許多網站並不使用。
 
 ## 软404
 
@@ -23,7 +23,7 @@ Gone](../Page/HTTP状态码#410.md "wikilink")。因為此兩種訊息需要特�
 ## 客製化404頁面
 
 [Wikimedia_error_404.png](https://zh.wikipedia.org/wiki/File:Wikimedia_error_404.png "fig:Wikimedia_error_404.png")的404錯誤訊息\]\]
-[网页服务器通常可以配置自定义的](../Page/网页服务器.md "wikilink")404错误页面，包括对用户更友好的描述，站点标识，有时还包括站点地图，搜索表单或404页面小部件。
+[网页服务器通常可以配置自定义的](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")404错误页面，包括对用户更友好的描述，站点标识，有时还包括站点地图，搜索表单或404页面小部件。
 
 [Internet
 Explorer版本](../Page/Internet_Explorer.md "wikilink")5以上不会显示自定义404页面，而是默认显示友好错误页面，除非页面大于512字节。\[3\]
@@ -33,7 +33,7 @@ Logic的404错误页面则嵌入了一个简单的绘图程序。\[4\]部分网�
 
 ## 大众文化
 
-2008年，[英国](../Page/英国.md "wikilink")[皇家邮政电信部门进行了一项研究发现](../Page/皇家邮政.md "wikilink")，“404”在[俚语中用来描述](../Page/俚语.md "wikilink")“愚笨、无用之人”。据俚语词典编撰者乔纳森·格林（Jonathon
+2008年，[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家邮政电信部门进行了一项研究发现](https://zh.wikipedia.org/wiki/皇家邮政 "wikilink")，“404”在[俚语中用来描述](https://zh.wikipedia.org/wiki/俚语 "wikilink")“愚笨、无用之人”。据俚语词典编撰者乔纳森·格林（Jonathon
 Green）称，“404”能作为俚语很大程度上受新世代接触互联网的年轻人推动的，但这种用法仅限于[伦敦和其它](../Page/伦敦.md "wikilink")[大城市地区](../Page/英國組合城市.md "wikilink")。\[6\]
 
 2013年，404 Not

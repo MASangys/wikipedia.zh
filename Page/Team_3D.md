@@ -1,15 +1,15 @@
 **Team Desire - Discipline - Dedication**，也就是**Team
 3D**或者**3D.NY**。隊伍名稱即取自渴望 (**Desire**)、紀律
 (**Discipline**)以及奉獻 (**Dedication**)英文的第一個字母集結而成，也就是Team
-3D，也因為隊伍位於美國紐約市，故稱3D.NY。3D.NY是一個著名的[美國](../Page/美國.md "wikilink")[絕對武力電子競技職業隊伍](../Page/絕對武力.md "wikilink")，目前包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、[魔獸爭霸3以及](../Page/魔獸爭霸3.md "wikilink")[生死格鬥4的隊伍](../Page/生死格鬥4.md "wikilink")，舊有的隊伍包括[絕對武力](../Page/絕對武力.md "wikilink")、[決勝時刻以及獵魔者](../Page/使命召喚.md "wikilink")。隊伍最初是由克雷格·雷賓於2002年創辦，不過目前則是由大衛·傑風管里，與Team
-3D合作的贊助商包括[nVidia](../Page/nVidia.md "wikilink")、[Intel](../Page/Intel.md "wikilink")、[森海塞爾](../Page/森海塞爾.md "wikilink")、Xfire、PNY、SteelSeries、電子競技娛樂協會以及Velocity
+3D，也因為隊伍位於美國紐約市，故稱3D.NY。3D.NY是一個著名的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[絕對武力電子競技職業隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")，目前包括有[絕對武力：次世代](../Page/絕對武力：次世代.md "wikilink")、[魔獸爭霸3以及](https://zh.wikipedia.org/wiki/魔獸爭霸3 "wikilink")[生死格鬥4的隊伍](../Page/生死格鬥4.md "wikilink")，舊有的隊伍包括[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")、[決勝時刻以及獵魔者](https://zh.wikipedia.org/wiki/使命召喚 "wikilink")。隊伍最初是由克雷格·雷賓於2002年創辦，不過目前則是由大衛·傑風管里，與Team
+3D合作的贊助商包括[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[森海塞爾](https://zh.wikipedia.org/wiki/森海塞爾 "wikilink")、Xfire、PNY、SteelSeries、電子競技娛樂協會以及Velocity
 Servers。
 目前這支隊伍也是美國G7隊伍中的其中一支。
 
 ## 隊員
 
 <table>
-<caption><strong><a href="../Page/絕對武力.md" title="wikilink">絕對武力現役名單</a></strong></caption>
+<caption><strong><a href="https://zh.wikipedia.org/wiki/絕對武力" title="wikilink">絕對武力現役名單</a></strong></caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -66,7 +66,7 @@ Servers。
 </table>
 
 <table>
-<caption><strong><a href="../Page/絕對武力.md" title="wikilink">絕對武力非現役名單</a></strong></caption>
+<caption><strong><a href="https://zh.wikipedia.org/wiki/絕對武力" title="wikilink">絕對武力非現役名單</a></strong></caption>
 <thead>
 <tr class="header">
 <th></th>
@@ -160,7 +160,7 @@ Servers。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/世界街頭賽車.md" title="wikilink">世界街頭賽車</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界街頭賽車" title="wikilink">世界街頭賽車</a></p></td>
 <td><p>Chris Bjorkman</p></td>
 <td><p>BadaXX</p></td>
 <td><p>2007年6月12日</p></td>
@@ -168,7 +168,7 @@ Servers。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/世界街頭賽車.md" title="wikilink">世界街頭賽車</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/世界街頭賽車" title="wikilink">世界街頭賽車</a></p></td>
 <td><p>Barry Brady</p></td>
 <td><p>DoubleB</p></td>
 <td><p>2007年6月12日</p></td>
@@ -176,7 +176,7 @@ Servers。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/FIFA_2007.md" title="wikilink">FIFA 2007</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA_2007" title="wikilink">FIFA 2007</a></p></td>
 <td><p>Matt Wood</p></td>
 <td><p>Wizakor</p></td>
 <td><p>2007年6月12日</p></td>
@@ -201,31 +201,31 @@ Servers。
 
 **Zonerank排名**
 
-| 年度    | 賽事                                   | 排名 |
-| ----- | ------------------------------------ | -- |
-| 2002年 | *[CPL](../Page/CPL.md "wikilink")*   | 冠軍 |
-| 2003年 | *Cyber X Games*                      | 冠軍 |
-| 2003年 | *[CPL](../Page/CPL.md "wikilink")*   | 季軍 |
-| 2004年 | *[WCG](../Page/WCG.md "wikilink")*   | 冠軍 |
-| 2005年 | *[WCG](../Page/WCG.md "wikilink")*   | 冠軍 |
-| 2006年 | *World Series of Video Games*        | 亞軍 |
-| 2006年 | *[ESWC](../Page/ESWC.md "wikilink")* | 殿軍 |
-|       |                                      |    |
+| 年度    | 賽事                                                      | 排名 |
+| ----- | ------------------------------------------------------- | -- |
+| 2002年 | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")*   | 冠軍 |
+| 2003年 | *Cyber X Games*                                         | 冠軍 |
+| 2003年 | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")*   | 季軍 |
+| 2004年 | *[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")*   | 冠軍 |
+| 2005年 | *[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")*   | 冠軍 |
+| 2006年 | *World Series of Video Games*                           | 亞軍 |
+| 2006年 | *[ESWC](https://zh.wikipedia.org/wiki/ESWC "wikilink")* | 殿軍 |
+|       |                                                         |    |
 
-**[絕對武力得獎事蹟](../Page/絕對武力.md "wikilink")**
+**[絕對武力得獎事蹟](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")**
 
-| 年度    | 地點                                                                                | 賽事                                 | 排名 |
-| ----- | --------------------------------------------------------------------------------- | ---------------------------------- | -- |
-| 2005年 | [佛羅里達州](../Page/佛羅里達州.md "wikilink")[奧蘭多](../Page/奧蘭多_\(佛羅里達州\).md "wikilink")    | *美國遊戲大聯盟*                          | 冠軍 |
-| 2005年 | [密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易](../Page/聖路易.md "wikilink")                | *美國遊戲大聯盟*                          | 冠軍 |
-| 2005年 | [賓夕法尼亞州](../Page/賓夕法尼亞州.md "wikilink")[費城](../Page/費城.md "wikilink")              | *美國遊戲大聯盟*                          | 亞軍 |
-| 2005年 | [加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[洛杉磯](../Page/洛杉磯_\(加利福尼亞州\).md "wikilink") | *美國遊戲大聯盟*                          | 冠軍 |
-| 2005年 | [喬治亞州](../Page/喬治亞州.md "wikilink")[亞特蘭大](../Page/亞特蘭大_\(喬治亞州\).md "wikilink")     | *美國遊戲大聯盟*                          | 冠軍 |
-| 2005年 | [伊利諾州](../Page/伊利諾州.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")                | *美國遊戲大聯盟*                          | 冠軍 |
-| 2005年 | [紐約市](../Page/紐約市.md "wikilink")                                                  | *美國遊戲大聯盟*決賽                        | 冠軍 |
-| 2005年 |                                                                                   | *[CPL](../Page/CPL.md "wikilink")* | 冠軍 |
-| 2005年 | [新加坡](../Page/新加坡.md "wikilink")[新達城](../Page/新達城廣場.md "wikilink")                | *[WCG](../Page/WCG.md "wikilink")* | 冠軍 |
-|       |                                                                                   |                                    |    |
+| 年度    | 地點                                                                                                                      | 賽事                                                    | 排名 |
+| ----- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | -- |
+| 2005年 | [佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[奧蘭多](https://zh.wikipedia.org/wiki/奧蘭多_\(佛羅里達州\) "wikilink")    | *美國遊戲大聯盟*                                             | 冠軍 |
+| 2005年 | [密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易](https://zh.wikipedia.org/wiki/聖路易 "wikilink")                                   | *美國遊戲大聯盟*                                             | 冠軍 |
+| 2005年 | [賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[費城](../Page/費城.md "wikilink")                                 | *美國遊戲大聯盟*                                             | 亞軍 |
+| 2005年 | [加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯_\(加利福尼亞州\) "wikilink") | *美國遊戲大聯盟*                                             | 冠軍 |
+| 2005年 | [喬治亞州](../Page/喬治亞州.md "wikilink")[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大_\(喬治亞州\) "wikilink")                        | *美國遊戲大聯盟*                                             | 冠軍 |
+| 2005年 | [伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")                                   | *美國遊戲大聯盟*                                             | 冠軍 |
+| 2005年 | [紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")                                                                     | *美國遊戲大聯盟*決賽                                           | 冠軍 |
+| 2005年 |                                                                                                                         | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")* | 冠軍 |
+| 2005年 | [新加坡](../Page/新加坡.md "wikilink")[新達城](https://zh.wikipedia.org/wiki/新達城廣場 "wikilink")                                   | *[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")* | 冠軍 |
+|       |                                                                                                                         |                                                       |    |
 
 **[最後一戰2得獎事蹟](../Page/最後一戰2.md "wikilink")**
 
@@ -234,21 +234,21 @@ Servers。
 | 2006年 | *World Series of Video Games* | 殿軍 |
 |       |                               |    |
 
-**[魔獸爭霸3得獎事蹟](../Page/魔獸爭霸3.md "wikilink")**
+**[魔獸爭霸3得獎事蹟](https://zh.wikipedia.org/wiki/魔獸爭霸3 "wikilink")**
 
-| 年度    | 賽事                                 | 排名 |
-| ----- | ---------------------------------- | -- |
-| 2002年 | *[CPL](../Page/CPL.md "wikilink")* | 冠軍 |
-|       |                                    |    |
+| 年度    | 賽事                                                    | 排名 |
+| ----- | ----------------------------------------------------- | -- |
+| 2002年 | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")* | 冠軍 |
+|       |                                                       |    |
 
 **[生死格鬥4得獎事蹟](../Page/生死格鬥4.md "wikilink")**
 
-| 年度    | 賽事                                 | 排名 |
-| ----- | ---------------------------------- | -- |
-| 2004年 | *[CPL](../Page/CPL.md "wikilink")* | 亞軍 |
-|       |                                    |    |
+| 年度    | 賽事                                                    | 排名 |
+| ----- | ----------------------------------------------------- | -- |
+| 2004年 | *[CPL](https://zh.wikipedia.org/wiki/CPL "wikilink")* | 亞軍 |
+|       |                                                       |    |
 
-**[決勝時刻得獎事蹟](../Page/使命召喚.md "wikilink")**
+**[決勝時刻得獎事蹟](https://zh.wikipedia.org/wiki/使命召喚 "wikilink")**
 
 ## 連結
 

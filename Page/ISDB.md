@@ -1,4 +1,4 @@
-**ISDB**（）即**綜合數碼服務廣播**，是[日本自主制定的](../Page/日本.md "wikilink")[數碼電視和](../Page/數碼電視.md "wikilink")[數碼聲音廣播標準制式](../Page/數碼聲音廣播.md "wikilink")，由[電波產業會制定](../Page/電波產業會.md "wikilink")，用於該國的廣播電視網絡。ISDB取代了以前使用的[MUSE高清晰度的](../Page/Hi-Vision.md "wikilink")[模拟](../Page/類比電視.md "wikilink")[HDTV系統](../Page/HDTV.md "wikilink")。
+**ISDB**（）即**綜合數碼服務廣播**，是[日本自主制定的](../Page/日本.md "wikilink")[數碼電視和](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")[數碼聲音廣播標準制式](../Page/數碼聲音廣播.md "wikilink")，由[電波產業會制定](https://zh.wikipedia.org/wiki/電波產業會 "wikilink")，用於該國的廣播電視網絡。ISDB取代了以前使用的[MUSE高清晰度的](../Page/Hi-Vision.md "wikilink")[模拟](../Page/類比電視.md "wikilink")[HDTV系統](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
 
 ISDB-T国际版，又称SBTVD（，巴西数字电视系统）、ISDB-Tb，是ISDB的衍生制式，由[巴西政府制定](../Page/巴西.md "wikilink")，並在[南美洲廣泛採用](../Page/南美洲.md "wikilink")。
 
@@ -6,11 +6,11 @@ ISDB-T国际版，又称SBTVD（，巴西数字电视系统）、ISDB-Tb，是IS
 
 [Digital_broadcast_standards.svg](https://zh.wikipedia.org/wiki/File:Digital_broadcast_standards.svg "fig:Digital_broadcast_standards.svg")
 
-ISDB有兩種接收方法：[電視機和](../Page/電視機.md "wikilink")[機頂盒](../Page/機頂盒.md "wikilink")。舊電視機可加裝機頂盒。機頂盒內除基本的[晶片組外](../Page/晶片組.md "wikilink")，需內建ISDB-T[模組](../Page/模組.md "wikilink")。ISDB設備廠商以日系為主，例如[日立及](../Page/日立.md "wikilink")[SHARP等](../Page/夏普.md "wikilink")。在日本，除了[Sky
-PerfecTV\!採用DVB以外](../Page/Sky_PerfecTV!.md "wikilink")，都采用了ISDB。繼日本之後，部份中美洲國家及多數南美洲國家（僅[哥倫比亞及](../Page/哥倫比亞.md "wikilink")[法屬圭亞納採用](../Page/法屬圭亞納.md "wikilink")[DVB-T](../Page/DVB-T.md "wikilink")）也採用ISDB-T
+ISDB有兩種接收方法：[電視機和](https://zh.wikipedia.org/wiki/電視機 "wikilink")[機頂盒](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")。舊電視機可加裝機頂盒。機頂盒內除基本的[晶片組外](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，需內建ISDB-T[模組](https://zh.wikipedia.org/wiki/模組 "wikilink")。ISDB設備廠商以日系為主，例如[日立及](https://zh.wikipedia.org/wiki/日立 "wikilink")[SHARP等](https://zh.wikipedia.org/wiki/夏普 "wikilink")。在日本，除了[Sky
+PerfecTV\!採用DVB以外](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")，都采用了ISDB。繼日本之後，部份中美洲國家及多數南美洲國家（僅[哥倫比亞及](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[法屬圭亞納採用](https://zh.wikipedia.org/wiki/法屬圭亞納 "wikilink")[DVB-T](../Page/DVB-T.md "wikilink")）也採用ISDB-T
 International（又稱SBTVD，）系統。
 
-ISDB的核心標準是ISDB-S（[衛星電視](../Page/衛星電視.md "wikilink")）、ISDB-T（[地面電視](../Page/地面電視.md "wikilink")）和ISDB-C（[有線電視](../Page/有線電視.md "wikilink")），並且都是基於MPEG-2或MPEG-4標準的多址接入傳輸，2.6
+ISDB的核心標準是ISDB-S（[衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")）、ISDB-T（[地面電視](../Page/地面電視.md "wikilink")）和ISDB-C（[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")），並且都是基於MPEG-2或MPEG-4標準的多址接入傳輸，2.6
 GHz頻段移動廣播數據架構及視頻和音頻編碼（MPEG-2或H.264），並且能夠進行高清晰度電視（HDTV）和標準清晰度電視。
 ISDB-T和ISDB-TSB是移動電視接收的頻段。
 1Seg和Tmm則是用於接收ISDB-T服務手機、筆記本電腦和汽車上的导航系统内建电视功能。
@@ -36,13 +36,13 @@ ISDB-T中，根据[MPEG-2实施传送信号的复用](../Page/MPEG-2.md "wikilin
 </tr>
 <tr class="even">
 <td><p>（加密）<br />
-（<a href="../Page/ARIB.md" title="wikilink">ARIB</a> STD-B25）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/ARIB" title="wikilink">ARIB</a> STD-B25）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>PES</p></td>
 <td><p>MPEG-2 PES<br />
-（ISO/IEC 13818-1、<a href="../Page/ARIB.md" title="wikilink">ARIB</a> STD-B32）</p></td>
+（ISO/IEC 13818-1、<a href="https://zh.wikipedia.org/wiki/ARIB" title="wikilink">ARIB</a> STD-B32）</p></td>
 </tr>
 <tr class="even">
 <td><p>TS</p></td>
@@ -56,9 +56,9 @@ ISDB-T中，根据[MPEG-2实施传送信号的复用](../Page/MPEG-2.md "wikilin
 
   - 一個頻譜可包含一個高清频道或最多三個標清頻道，以及一个[1seg移动电视频道](../Page/1seg.md "wikilink")。
   - 提供声音频道
-  - 通過[電話或](../Page/電話.md "wikilink")[寬頻提供互動服務](../Page/寬頻.md "wikilink")
-  - [電子節目指南](../Page/電子節目指南.md "wikilink")
-  - 通過[大氣電波為](../Page/大氣電波.md "wikilink")[機頂盒更新](../Page/機頂盒.md "wikilink")[韌體](../Page/韌體.md "wikilink")
+  - 通過[電話或](https://zh.wikipedia.org/wiki/電話 "wikilink")[寬頻提供互動服務](../Page/寬頻.md "wikilink")
+  - [電子節目指南](https://zh.wikipedia.org/wiki/電子節目指南 "wikilink")
+  - 通過[大氣電波為](https://zh.wikipedia.org/wiki/大氣電波 "wikilink")[機頂盒更新](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[韌體](../Page/韌體.md "wikilink")
 
 ## 採用的國家和地區
 
@@ -115,24 +115,24 @@ ISDB-T中，根据[MPEG-2实施传送信号的复用](../Page/MPEG-2.md "wikilin
   -
 #### 亞洲
 
-  - （目前正在評估到數碼化平台的[DVB-T2](../Page/DVB-T2.md "wikilink")）
+  - （目前正在評估到數碼化平台的[DVB-T2](https://zh.wikipedia.org/wiki/DVB-T2 "wikilink")）
 
   - （採用ISDB-T現正進行試播，2013年11月5日重新評估）\[14\]\[15\]
 
 ## 參見
 
-  - [數碼電視](../Page/數碼電視.md "wikilink")
-  - [地面數碼電視](../Page/地面數碼電視.md "wikilink")
+  - [數碼電視](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")
+  - [地面數碼電視](https://zh.wikipedia.org/wiki/地面數碼電視 "wikilink")
   - [數碼聲音廣播](../Page/數碼聲音廣播.md "wikilink")
   - [DMB](../Page/DMB.md "wikilink")
   - [1seg](../Page/1seg.md "wikilink")
-  - [標清電視](../Page/標清電視.md "wikilink")
-  - [高清電視](../Page/高清電視.md "wikilink")
+  - [標清電視](https://zh.wikipedia.org/wiki/標清電視 "wikilink")
+  - [高清電視](https://zh.wikipedia.org/wiki/高清電視 "wikilink")
   - [東京晴空塔](../Page/東京晴空塔.md "wikilink")
 
 傳輸技術
 
-  - [單頻網](../Page/單頻網.md "wikilink")（SFN）、[多頻網](../Page/多頻網.md "wikilink")（MFN）
+  - [單頻網](../Page/單頻網.md "wikilink")（SFN）、[多頻網](https://zh.wikipedia.org/wiki/多頻網 "wikilink")（MFN）
 
 ## 注釋
 

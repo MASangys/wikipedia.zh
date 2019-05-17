@@ -1,41 +1,42 @@
 **GNU
-Gatekeeper**（簡稱GnuGK）是一個基於[OpenH323來發展的](../Page/OpenH323.md "wikilink")[開放源碼](../Page/開放源碼.md "wikilink")[H.323
-gatekeeper計劃](../Page/H.323_gatekeeper.md "wikilink")。所謂的H.323
-gatekeeper，定義於[H.323標準中](../Page/H.323.md "wikilink")，負責對H.323的系統提供位址轉換、通話控制、[路由決定](../Page/路由.md "wikilink")、[認證計費等服務](../Page/認證.md "wikilink")。
+Gatekeeper**（簡稱GnuGK）是一個基於[OpenH323來發展的](https://zh.wikipedia.org/wiki/OpenH323 "wikilink")[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[H.323
+gatekeeper計劃](https://zh.wikipedia.org/wiki/H.323_gatekeeper "wikilink")。所謂的H.323
+gatekeeper，定義於[H.323標準中](../Page/H.323.md "wikilink")，負責對H.323的系統提供位址轉換、通話控制、[路由決定](../Page/路由.md "wikilink")、[認證計費等服務](https://zh.wikipedia.org/wiki/認證 "wikilink")。
 
 ## 功能特色
 
 GnuGK實作許多豐富實用的特性，包括
 
-  - 可跨平台，目前已移植到[Linux](../Page/Linux.md "wikilink")、[Windows](../Page/Windows.md "wikilink")、[Mac
+  - 可跨平台，目前已移植到[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac
     OS
-    X](../Page/Mac_OS_X.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD以及](../Page/OpenBSD.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")。
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD以及](../Page/OpenBSD.md "wikilink")[NetBSD](../Page/NetBSD.md "wikilink")。
   - 可自訂策略的路由機制。
   - 來源以及目標號碼的改寫。
-  - 完整的H.323代理功能，包含[RTP](../Page/RTP.md "wikilink")／[RTCP媒體和](../Page/RTCP.md "wikilink")[T.120資料通道](../Page/T.120.md "wikilink")。
-  - 可[穿越NAT的](../Page/NAT穿越.md "wikilink")[Citron's
-    NAT技術](../Page/Citron's_NAT技術.md "wikilink")。
+  - 完整的H.323代理功能，包含[RTP](https://zh.wikipedia.org/wiki/RTP "wikilink")／[RTCP媒體和](https://zh.wikipedia.org/wiki/RTCP "wikilink")[T.120資料通道](https://zh.wikipedia.org/wiki/T.120 "wikilink")。
+  - 可[穿越NAT的](https://zh.wikipedia.org/wiki/NAT穿越 "wikilink")[Citron's
+    NAT技術](https://zh.wikipedia.org/wiki/Citron's_NAT技術 "wikilink")。
   - 以鄰近（neighbor）、父子（parent/child）和替代（alternate）GK等方式達到的叢集支援。
-  - 可透過[TCP狀態埠進行監看與控制](../Page/TCP.md "wikilink")。
-  - 部分的[H.235安全支援](../Page/H.235.md "wikilink")。
-  - 可以[SQL資料庫](../Page/SQL.md "wikilink")、[radius或外部程式支援通話認識與計費](../Page/radius.md "wikilink")。
+  - 可透過[TCP狀態埠進行監看與控制](https://zh.wikipedia.org/wiki/TCP "wikilink")。
+  - 部分的[H.235安全支援](https://zh.wikipedia.org/wiki/H.235 "wikilink")。
+  - 可以[SQL資料庫](../Page/SQL.md "wikilink")、[radius或外部程式支援通話認識與計費](https://zh.wikipedia.org/wiki/radius "wikilink")。
 
 ## 授權方式
 
-以[GNU通用公共許可證的方式](../Page/GNU_General_Public_License.md "wikilink")[授權](../Page/授權.md "wikilink")。此外，作者明確的允許將執行檔與OpenH323和[OpenSSL](../Page/OpenSSL.md "wikilink")
+以[GNU通用公共許可證的方式](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")[授權](https://zh.wikipedia.org/wiki/授權 "wikilink")。此外，作者明確的允許將執行檔與OpenH323和[OpenSSL](../Page/OpenSSL.md "wikilink")
 [函式庫做連結](../Page/函式庫.md "wikilink")。這是必要的，因為GNU GPL與這些函式庫的授權並不相容。
 
 ## 發展歷史
 
 最初的版本是由Xianping Chen、Joe Metzger和Rajat Todi所開發，做為實驗用途。在1999年初，本計劃的主持人Jan
-Willamowius找到這支程式，並說服原作者以GNU GPL的方式釋出[原始碼](../Page/原始碼.md "wikilink")。
+Willamowius找到這支程式，並說服原作者以GNU
+GPL的方式釋出[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。
 \[1\]
 
 隨後，程式被移植到更新版的OpenH323，並被命名為**OpenH323
-Gatekeeper**，簡寫為**OpenH323GK**。在[德國的](../Page/德國.md "wikilink")公司隨後加入，提供了[LDAP子系統與交疊傳送](../Page/LDAP.md "wikilink")（overlapped
-sending）的支援。到了2000年，大約已有十餘人加入，提供程式碼或協助測試。功能已相當堪用。不過，相較於另一個類似計劃[OpenGatekeeper](../Page/OpenGatekeeper.md "wikilink")，功能上仍遜色許多。
+Gatekeeper**，簡寫為**OpenH323GK**。在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")公司隨後加入，提供了[LDAP子系統與交疊傳送](https://zh.wikipedia.org/wiki/LDAP "wikilink")（overlapped
+sending）的支援。到了2000年，大約已有十餘人加入，提供程式碼或協助測試。功能已相當堪用。不過，相較於另一個類似計劃[OpenGatekeeper](https://zh.wikipedia.org/wiki/OpenGatekeeper "wikilink")，功能上仍遜色許多。
 
-在2001年，當時任職[台灣](../Page/台灣.md "wikilink")[呈祺資訊公司](../Page/呈祺資訊.md "wikilink")[技術長的](../Page/技術長.md "wikilink")[黃志偉和他的團隊開始加入](../Page/黃志偉.md "wikilink")，修改並使用此計劃於其[VoIP服務中](../Page/VoIP.md "wikilink")。增強了系統的穩定性，大幅改善效率，並加入許多新的特性，例如多緒安全的[執行時期表格](../Page/執行期.md "wikilink")，鄰近和父子GK，以及認證模組。他的加入引導了此計劃的重大變革。2001年[九月](../Page/九月.md "wikilink")，OpenH323GK
+在2001年，當時任職[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[呈祺資訊公司](https://zh.wikipedia.org/wiki/呈祺資訊 "wikilink")[技術長的](https://zh.wikipedia.org/wiki/技術長 "wikilink")[黃志偉和他的團隊開始加入](../Page/黃志偉.md "wikilink")，修改並使用此計劃於其[VoIP服務中](../Page/VoIP.md "wikilink")。增強了系統的穩定性，大幅改善效率，並加入許多新的特性，例如多緒安全的[執行時期表格](../Page/執行期.md "wikilink")，鄰近和父子GK，以及認證模組。他的加入引導了此計劃的重大變革。2001年[九月](https://zh.wikipedia.org/wiki/九月 "wikilink")，OpenH323GK
 1.0正式釋出，為此計劃的一大里程埤。
 
 到了2002年底，GnuGK 2.0正式發佈。它包含重新設計的路由模式（routed
@@ -68,7 +69,7 @@ Jan Willamowius是目前計劃的協調人與維護者。
 ## 相關連結
 
   - [Voice Over IP](../Page/VoIP.md "wikilink")
-  - [網路地址轉換](../Page/網路地址轉換.md "wikilink")
+  - [網路地址轉換](https://zh.wikipedia.org/wiki/網路地址轉換 "wikilink")
 
 ## 參考來源
 
@@ -79,9 +80,9 @@ Jan Willamowius是目前計劃的協調人與維護者。
   - [官方網站](http://www.gnugk.org/)
   - [德文網站](http://www.gnugk.de/)
   - [GnuGK技術文件](https://web.archive.org/web/20090312083657/http://www.cwhuang.idv.tw/2009/02/gnugk-technical-doc)
-  - [GkGui](http://www.gnugk.org/h323gui.html)利用[Java所開發的](../Page/Java.md "wikilink")[圖形化使用介面](../Page/GUI.md "wikilink")
+  - [GkGui](http://www.gnugk.org/h323gui.html)利用[Java所開發的](../Page/Java.md "wikilink")[圖形化使用介面](https://zh.wikipedia.org/wiki/GUI "wikilink")
   - [GnuGK ACD](http://www.gnugk.org/h323-acd.html)
-    GnuGK的自動通話分配器（[ACD](../Page/ACD.md "wikilink")）
+    GnuGK的自動通話分配器（[ACD](https://zh.wikipedia.org/wiki/ACD "wikilink")）
   - 2003年，[自由軟體鑄造場](../Page/自由軟體鑄造場.md "wikilink")[GNU
     GateKeeper的開放VoIP技術經驗](http://www.openfoundry.org/component/option,com_content/id,631/task,view/)
 

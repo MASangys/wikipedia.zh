@@ -1,7 +1,7 @@
 **GNA**全名**Glycerol nucleic
-acid**，中文直譯**甘油核酸**。是一種與[DNA或](../Page/DNA.md "wikilink")[RNA相似的化學物質](../Page/RNA.md "wikilink")，但組成物有所不同。並不存在任何目前已知的自然界生物體內。
+acid**，中文直譯**甘油核酸**。是一種與[DNA或](https://zh.wikipedia.org/wiki/DNA "wikilink")[RNA相似的化學物質](https://zh.wikipedia.org/wiki/RNA "wikilink")，但組成物有所不同。並不存在任何目前已知的自然界生物體內。
 
-GNA的骨架是由許多重複的[甘油](../Page/甘油.md "wikilink")（DNA與RNA為[五碳糖](../Page/五碳糖.md "wikilink")）經由[磷酸酯鍵的連結所組成](../Page/磷酸酯鍵.md "wikilink")。雖然甘油分子只有3個[碳原子](../Page/碳.md "wikilink")，但GNA仍然可比表現出沃森-克-{里}-克鹼基配對（A對T；G對C），而且比起DNA與RNA，GNA的鹼基配對更為穩定，需要較高的融解溫度（*Tm*）才能解開。
+GNA的骨架是由許多重複的[甘油](../Page/甘油.md "wikilink")（DNA與RNA為[五碳糖](https://zh.wikipedia.org/wiki/五碳糖 "wikilink")）經由[磷酸酯鍵的連結所組成](https://zh.wikipedia.org/wiki/磷酸酯鍵 "wikilink")。雖然甘油分子只有3個[碳原子](../Page/碳.md "wikilink")，但GNA仍然可比表現出沃森-克-{里}-克鹼基配對（A對T；G對C），而且比起DNA與RNA，GNA的鹼基配對更為穩定，需要較高的融解溫度（*Tm*）才能解開。
 
 ## 參考文獻
 

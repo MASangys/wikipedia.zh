@@ -1,7 +1,7 @@
 《**In
 Progress**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關智斌在](../Page/關智斌.md "wikilink")[香港發行的第二張個人中文音樂專輯](../Page/香港.md "wikilink")，一共收錄了三首MV和10首歌曲，當中包括《預言書》、《無字天書》、《Book
-B》、《我看比利》、《戰場上的羅密歐》以及《世界花園》等[情歌](../Page/情歌.md "wikilink")。
-而這張專輯其中兩首MV分別為主打歌《預言書》與《無字天書》，前者為唱作歌手[張敬軒為關智斌所寫](../Page/張敬軒.md "wikilink")，與自己的作品《[笑忘書](../Page/笑忘書.md "wikilink")》懷緬童年的主題互相呼應。\[1\]
+B》、《我看比利》、《戰場上的羅密歐》以及《世界花園》等[情歌](https://zh.wikipedia.org/wiki/情歌 "wikilink")。
+而這張專輯其中兩首MV分別為主打歌《預言書》與《無字天書》，前者為唱作歌手[張敬軒為關智斌所寫](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")，與自己的作品《[笑忘書](https://zh.wikipedia.org/wiki/笑忘書 "wikilink")》懷緬童年的主題互相呼應。\[1\]
 
 ## 曲目列表
 

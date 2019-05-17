@@ -1,8 +1,8 @@
 [Chung_Fu_Shopping_Centre_Phase_2.jpg](https://zh.wikipedia.org/wiki/File:Chung_Fu_Shopping_Centre_Phase_2.jpg "fig:Chung_Fu_Shopping_Centre_Phase_2.jpg")
 [HK_ChungFuShoppingCentre.jpg](https://zh.wikipedia.org/wiki/File:HK_ChungFuShoppingCentre.jpg "fig:HK_ChungFuShoppingCentre.jpg")入口（2008年）\]\]
 **T
-Town**是一個位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[天水圍](../Page/天水圍.md "wikilink")[天華路](../Page/天華路.md "wikilink")30至33號的購物商場，於1999年至2000年分階段落成。T
-Town橫跨[天水圍新市鎮的南部和北部](../Page/天水圍新市鎮.md "wikilink")，是天水圍人流最多的購物商場之一，亦是[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")（領展）的重點發展商場之一。該商場由[香港房屋委員會興建](../Page/香港房屋委員會.md "wikilink")、擁有及管理，於2005年售予「領匯房地產信託基金」（現已改名為[領展房地產信託基金](../Page/領展房地產信託基金.md "wikilink")）。該商場分為一期和二期，由橫跨天華路的密封式天橋連接，商場樓高三層，建築樓面面積達36,700平方米。商場設有[籃球場](../Page/籃球場.md "wikilink")、[排球場](../Page/排球場.md "wikilink")、[網球場和多層](../Page/網球場.md "wikilink")[停車場](../Page/停車場.md "wikilink")。商場落成時名為**頌富商場**（）\[1\]，2010年更名為**頌富廣場**\[2\]（Chung
+Town**是一個位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[天水圍](../Page/天水圍.md "wikilink")[天華路](https://zh.wikipedia.org/wiki/天華路 "wikilink")30至33號的購物商場，於1999年至2000年分階段落成。T
+Town橫跨[天水圍新市鎮的南部和北部](../Page/天水圍新市鎮.md "wikilink")，是天水圍人流最多的購物商場之一，亦是[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")（領展）的重點發展商場之一。該商場由[香港房屋委員會興建](../Page/香港房屋委員會.md "wikilink")、擁有及管理，於2005年售予「領匯房地產信託基金」（現已改名為[領展房地產信託基金](https://zh.wikipedia.org/wiki/領展房地產信託基金 "wikilink")）。該商場分為一期和二期，由橫跨天華路的密封式天橋連接，商場樓高三層，建築樓面面積達36,700平方米。商場設有[籃球場](../Page/籃球場.md "wikilink")、[排球場](https://zh.wikipedia.org/wiki/排球場 "wikilink")、[網球場和多層](../Page/網球場.md "wikilink")[停車場](../Page/停車場.md "wikilink")。商場落成時名為**頌富商場**（）\[1\]，2010年更名為**頌富廣場**\[2\]（Chung
 Fu
 Plaza），到2017年3月改稱現名；舊名源於商場位處[天頌苑和](../Page/天頌苑.md "wikilink")[天富苑之間的位置](../Page/天富苑.md "wikilink")。
 
@@ -19,28 +19,28 @@ South（原名頌富商場／廣場一期）於1999年年底落成，位於天�
 
   - [大家樂](../Page/大家樂.md "wikilink")
 
-  - [麥當勞](../Page/麥當勞.md "wikilink")
+  - [麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
 
   - [吉野家](../Page/吉野家.md "wikilink")
 
-  - [譚仔三哥米線](../Page/譚仔三哥米線.md "wikilink")
+  - [譚仔三哥米線](https://zh.wikipedia.org/wiki/譚仔三哥米線 "wikilink")
 
-  - [鴻褔堂](../Page/鴻褔堂.md "wikilink")
+  - [鴻褔堂](https://zh.wikipedia.org/wiki/鴻褔堂 "wikilink")
 
-  - [板長壽司](../Page/板長壽司.md "wikilink")
+  - [板長壽司](https://zh.wikipedia.org/wiki/板長壽司 "wikilink")
 
   -
-  - [商務印書館](../Page/商務印書館_\(香港\).md "wikilink")
+  - [商務印書館](https://zh.wikipedia.org/wiki/商務印書館_\(香港\) "wikilink")
 
   - [中國移動香港](../Page/中國移動香港.md "wikilink")
 
   - [Three.](../Page/3_\(電訊\).md "wikilink")
 
-  - [張毛記電業](../Page/張毛記.md "wikilink")
+  - [張毛記電業](https://zh.wikipedia.org/wiki/張毛記 "wikilink")
 
-  - [Uniqlo](../Page/Uniqlo.md "wikilink")
+  - [Uniqlo](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")
 
-  - [Circle K](../Page/Circle_K.md "wikilink")
+  - [Circle K](https://zh.wikipedia.org/wiki/Circle_K "wikilink")
 
 ## T Town North
 
@@ -53,11 +53,11 @@ North其他部分都已在2016年4月被封閉，只保留行人通道，有街�
 
 ### 主要商舗
 
-  - [7-11便利店](../Page/7-11便利店.md "wikilink")
+  - [7-11便利店](https://zh.wikipedia.org/wiki/7-11便利店 "wikilink")
 
-  - [Baleno](../Page/Baleno.md "wikilink")
+  - [Baleno](https://zh.wikipedia.org/wiki/Baleno "wikilink")
 
-  - [Bossini](../Page/Bossini.md "wikilink")
+  - [Bossini](https://zh.wikipedia.org/wiki/Bossini "wikilink")
 
   - [雞仔嘜](../Page/雞仔嘜.md "wikilink")
 
@@ -66,26 +66,26 @@ North其他部分都已在2016年4月被封閉，只保留行人通道，有街�
 
   - Magic Touch（[爭鮮旗下](../Page/爭鮮.md "wikilink")）
 
-  - [Delifrance](../Page/Delifrance.md "wikilink")
+  - [Delifrance](https://zh.wikipedia.org/wiki/Delifrance "wikilink")
 
   - [叙福樓金閣](../Page/叙福樓集團.md "wikilink")
 
-  - [榮華餅家](../Page/榮華餅家.md "wikilink")
+  - [榮華餅家](https://zh.wikipedia.org/wiki/榮華餅家 "wikilink")
 
   - [美心西餅](../Page/美心西餅.md "wikilink")
 
-  - [屈臣氏](../Page/屈臣氏.md "wikilink")
+  - [屈臣氏](https://zh.wikipedia.org/wiki/屈臣氏 "wikilink")
 
   - [位元堂](../Page/位元堂.md "wikilink")
 
-  - [華潤堂](../Page/華潤堂.md "wikilink")
+  - [華潤堂](https://zh.wikipedia.org/wiki/華潤堂 "wikilink")
 
   - [維特健靈專門店](../Page/維特健靈.md "wikilink")
 
 ### 街市
 
 [T_MARKET_Interior_201901.jpg](https://zh.wikipedia.org/wiki/File:T_MARKET_Interior_201901.jpg "fig:T_MARKET_Interior_201901.jpg")
-頌富街市原由予現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](../Page/建華集團.md "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T
+頌富街市原由予現代管理公司負責管理，到2018年10月1日由新承辦商[建華集團以](https://zh.wikipedia.org/wiki/建華集團 "wikilink")「香港街市」品牌營辦，進行三個月裝修後在同年12月30日開幕，命名為「T
 MARKET 頌富市場」。街市以日本無印木系為主題，其中小食街引入超過10間的食店，營業至凌晨1點。
 
 ## 圖集
@@ -115,7 +115,7 @@ North（2016年12月）
 <td><ul>
 <li><a href="../Page/港鐵.md" title="wikilink">港鐵</a><a href="../Page/香港輕鐵.md" title="wikilink">輕鐵</a><a href="../Page/頌富站.md" title="wikilink">頌富站</a>：
 <ul>
-<li><a href="../Page/香港輕鐵705、706線.md" title="wikilink">705、706線</a>、<a href="../Page/香港輕鐵751線.md" title="wikilink">751線、751P線</a>、<a href="../Page/香港輕鐵761P線.md" title="wikilink">761P線</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/香港輕鐵705、706線" title="wikilink">705、706線</a>、<a href="https://zh.wikipedia.org/wiki/香港輕鐵751線" title="wikilink">751線、751P線</a>、<a href="https://zh.wikipedia.org/wiki/香港輕鐵761P線" title="wikilink">761P線</a></li>
 </ul></li>
 <li><a href="../Page/香港巴士.md" title="wikilink">巴士</a>：</li>
 </ul></td>

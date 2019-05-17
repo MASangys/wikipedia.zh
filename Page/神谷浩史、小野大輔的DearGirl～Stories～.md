@@ -2,16 +2,16 @@
 
 ## 節目概要
 
-  - 放送電台：[文化放送](../Page/文化放送.md "wikilink")（日本時間
+  - 放送電台：[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")（日本時間
     毎週六25:00〜25:30）、[ラジオ大阪](../Page/大阪放送.md "wikilink")（日本時間
     毎週日23:00〜23:30）
   - 構成作家：諏訪勝
   - 節目製作人：內田浩之
   - 節目的宗旨是[神谷浩史與](../Page/神谷浩史.md "wikilink")[小野大輔以故事朗誦者的身份](../Page/小野大輔.md "wikilink")，為收音機前獨一無二的「親愛的妳」（Dear
     girl）傳達故事。節目常態與日本手機網站「Animelo Dear Girl」及[Media
-    Works出版的雙月刊漫畫雜誌](../Page/Media_Works.md "wikilink")「SYLPH（原季刊COMIC
+    Works出版的雙月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Media_Works "wikilink")「SYLPH（原季刊COMIC
     SYPLH）」以及[ASCII MEDIA
-    WORKS出版的月刊漫畫雜誌](../Page/ASCII_MEDIA_WORKS.md "wikilink")『[電撃Girl's
+    WORKS出版的月刊漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")『[電撃Girl's
     Style](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%92%83Girl%27s_Style)』做連動企畫。
   - 2016年，於第2回動漫廣播大賞中獲得「RADIO OF THE YEAR 最優秀廣播大賞」、「BEST MALE RADIO
     最優秀男性廣播賞」兩項獎項。\[1\] 在AnimeJapan2016中，由構成作家諏訪勝代為上台領獎。
@@ -879,7 +879,7 @@
   - 第128話：[代永翼](../Page/代永翼.md "wikilink")
   - 第135話：楠大典 ※因為小野大輔感冒而擔任臨時代打主持人
   - 第143話：小野坂昌也
-  - 第147話：[哈曼·坎恩](../Page/哈曼·坎恩.md "wikilink")
+  - 第147話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")
     ※人型模特登場。通過有關人員的允許，以錄取聲音予神谷生日特別企劃。
   - 第161話：代永翼
   - 第171話：八木橋くん
@@ -901,10 +901,11 @@
   - 第304話：阪口大助
   - 第310話：楠大典‧中村悠一 ※在DGS祭り『まだまだあぶない神谷浩史生誕祭\!』環節中登場
   - 第317話：ママD ※電話出演
-  - 第331話：[岡本信彦](../Page/岡本信彦.md "wikilink")
+  - 第331話：[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")
     ※為電撃Girl'sStyle的網路廣播「木村良平・岡本信彦の電撃Girl'sSmile」做宣傳
   - 第338話: 代永翼 ─秋天慣例的電話出演
-  - 第349話：[哈曼·坎恩](../Page/哈曼·坎恩.md "wikilink") ※人型模特，在DearBoy祭中登場
+  - 第349話：[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")
+    ※人型模特，在DearBoy祭中登場
   - 第388話: 代永翼 ─秋天慣例的電話出演
   - 第400話：MASOCHISTIC ONO BAND
   - 第401話：代永翼 ─『DGS大賞2014』 最優秀獎得獎，電話出演。

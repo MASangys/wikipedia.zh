@@ -2,18 +2,21 @@
 C++**是[C++程式的開發環境](../Page/C++.md "wikilink")（可稱之[-{zh-cn:集成开发环境;
 zh-sg:整合开发环境;
 zh-hant:整合開發環境;}-](../Page/集成开发环境.md "wikilink")，Integrated
-Development Environment, [IDE](../Page/IDE.md "wikilink")）有 DOS版與
-Windows 版。Borland C++的前身是[Turbo
+Development Environment,
+[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")）有 DOS版與 Windows
+版。Borland C++的前身是[Turbo
 C++](../Page/Turbo_C++.md "wikilink")。Borland C++
 最後的版本是5.02。另外，Borland C++ 5.5僅有命令行功能。
 
 ## 架構
 
 1992年Borland買下White Water的 C++ Framework，改名為 Object Windows
-Library（[OWL](../Page/OWL.md "wikilink")），並且推出以 OWL 1.0為核心的Borland
-C/C++ 3.1，OWL使用[多重繼承架構](../Page/多重繼承.md "wikilink")。Borland C++
-5.0同时支持OWL与[MFC](../Page/MFC.md "wikilink")。Borland C++
-Builder最後取代 Borland C++。
+Library（[OWL](https://zh.wikipedia.org/wiki/OWL "wikilink")），並且推出以 OWL
+1.0為核心的Borland C/C++
+3.1，OWL使用[多重繼承架構](https://zh.wikipedia.org/wiki/多重繼承 "wikilink")。Borland
+C++
+5.0同时支持OWL与[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")。Borland
+C++ Builder最後取代 Borland C++。
 
 Borland C++ 3.1的-{}-範例-{}-程式：
 

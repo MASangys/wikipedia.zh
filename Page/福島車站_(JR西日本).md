@@ -1,8 +1,8 @@
-**福島車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](../Page/鐵路車站.md "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區福島七丁目](../Page/福島區.md "wikilink")，是JR西日本所屬的[大阪環狀線沿線車站之一](../Page/大阪環狀線.md "wikilink")。福島車站是JR西日本旗下大阪近郊鐵路路線群[都市網路](../Page/都市網路.md "wikilink")（，Urban
-Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區市內制度](../Page/特定都區市內.md "wikilink")，被劃分為「大阪市內」的車站之一，是JR西日本的直營車站之一，但委由[西九條車站管理](../Page/西九條車站.md "wikilink")。且由於JR系統之內還有另外一個同名的[福島車站](../Page/福島車站_\(福島縣\).md "wikilink")（[福島縣](../Page/福島縣.md "wikilink")[福島市的主車站](../Page/福島市.md "wikilink")），為了區別，在車票上會以「(環)
+**福島車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區福島七丁目](../Page/福島區.md "wikilink")，是JR西日本所屬的[大阪環狀線沿線車站之一](../Page/大阪環狀線.md "wikilink")。福島車站是JR西日本旗下大阪近郊鐵路路線群[都市網路](https://zh.wikipedia.org/wiki/都市網路 "wikilink")（，Urban
+Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區市內制度](../Page/特定都區市內.md "wikilink")，被劃分為「大阪市內」的車站之一，是JR西日本的直營車站之一，但委由[西九條車站管理](https://zh.wikipedia.org/wiki/西九條車站 "wikilink")。且由於JR系統之內還有另外一個同名的[福島車站](https://zh.wikipedia.org/wiki/福島車站_\(福島縣\) "wikilink")（[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[福島市的主車站](../Page/福島市.md "wikilink")），為了區別，在車票上會以「(環)
 福島」的方式標示本站，其中「環」字是所屬的大阪環狀線之意。
 
-福島車站鄰近地區還存在有兩個名稱相同或近似的車站——位於[阪神本線上的](../Page/阪神本線.md "wikilink")[同名車站](../Page/福島車站_\(阪神\).md "wikilink")，與位於[JR東西線上的](../Page/JR東西線.md "wikilink")[新福島車站](../Page/新福島車站.md "wikilink")（位於[JR東西線上](../Page/JR東西線.md "wikilink")）。位於地底、彼此僅有一個路口之隔的阪神福島與新福島兩車站與本站之間並無直接相連，之間相隔約100公尺左右的步行距離。
+福島車站鄰近地區還存在有兩個名稱相同或近似的車站——位於[阪神本線上的](../Page/阪神本線.md "wikilink")[同名車站](../Page/福島車站_\(阪神\).md "wikilink")，與位於[JR東西線上的](../Page/JR東西線.md "wikilink")[新福島車站](https://zh.wikipedia.org/wiki/新福島車站 "wikilink")（位於[JR東西線上](../Page/JR東西線.md "wikilink")）。位於地底、彼此僅有一個路口之隔的阪神福島與新福島兩車站與本站之間並無直接相連，之間相隔約100公尺左右的步行距離。
 
 ## 車站結構
 
@@ -24,12 +24,12 @@ Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區
 <td><p>1</p></td>
 <td><p>大阪環状線</p></td>
 <td><p>內環</p></td>
-<td><p><a href="../Page/西九條站.md" title="wikilink">西九條</a>、<a href="../Page/新今宮站.md" title="wikilink">新今宮方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西九條站" title="wikilink">西九條</a>、<a href="https://zh.wikipedia.org/wiki/新今宮站" title="wikilink">新今宮方向</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>外環</p></td>
-<td><p><a href="../Page/大阪站.md" title="wikilink">大阪</a>、<a href="../Page/京橋站_(大阪府).md" title="wikilink">京橋方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/京橋站_(大阪府)" title="wikilink">京橋方向</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -46,12 +46,12 @@ Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區
         大和路快速、關空快速、紀州路快速、快速（所有列車此站起往大阪方向各站停車）
 
           -
-            [大阪](../Page/大阪站.md "wikilink")（JR-O11）－**福島（JR-O12）**－[西九條](../Page/西九條站.md "wikilink")（JR-O14）
+            [大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")（JR-O11）－**福島（JR-O12）**－[西九條](https://zh.wikipedia.org/wiki/西九條站 "wikilink")（JR-O14）
 
         區間快速、直通快速（只限外環運行）、普通
 
           -
-            大阪（JR-O11）－**福島（JR-O12）**－[野田](../Page/野田站_\(JR西日本\).md "wikilink")（JR-O13）
+            大阪（JR-O11）－**福島（JR-O12）**－[野田](https://zh.wikipedia.org/wiki/野田站_\(JR西日本\) "wikilink")（JR-O13）
 
 <!-- end list -->
 

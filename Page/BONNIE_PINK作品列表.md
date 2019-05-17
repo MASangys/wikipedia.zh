@@ -1,9 +1,10 @@
-這個頁面收錄了日本歌手[BONNIE PINK的音樂作品](../Page/BONNIE_PINK.md "wikilink")。
+這個頁面收錄了日本歌手[BONNIE
+PINK的音樂作品](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")。
 
 ## 單曲
 
 第1張至第8張單曲由[Pony
-Canyon發行](../Page/Pony_Canyon.md "wikilink")，第9張單曲起由[華納音樂發行](../Page/華納音樂.md "wikilink")。
+Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")，第9張單曲起由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。
 <span style="font-size:smaller;">（「※」記號代表由Tore Johansson製作的作品）</span>
 
 <table>
@@ -166,7 +167,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 <td><p><small>2006年5月10日</small></p></td>
 <td><p><strong>LOVE IS BUBBLE</strong></p></td>
 <td><p><small> </small></p></td>
-<td><p><small><a href="../Page/東寶.md" title="wikilink">東寶電影</a>「<a href="../Page/令人討厭的松子的一生#.E9.9B.BB.E5.BD.B1.md" title="wikilink">令人討厭的松子的一生</a>」主題曲<br />
+<td><p><small><a href="../Page/東寶.md" title="wikilink">東寶電影</a>「<a href="https://zh.wikipedia.org/wiki/令人討厭的松子的一生#.E9.9B.BB.E5.BD.B1" title="wikilink">令人討厭的松子的一生</a>」主題曲<br />
 電影中有BONNIE PINK本人演唱這首歌的一幕<br />
 這首歌是2005年電影進行拍攝時為之量身訂做的</small></p></td>
 </tr>
@@ -195,8 +196,8 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 「MAGICAL MYSTERY TOUR」</small></p></td>
 <td><p><small>「Water Me」為<a href="../Page/富士電視台.md" title="wikilink">富士電視台日劇</a>「<a href="../Page/我們的教科書.md" title="wikilink">我們的教科書</a>」主題曲<br />
 「Gimme A Beat」為<a href="../Page/日產汽車.md" title="wikilink">NISSAN</a>「MOCO」廣告歌曲<br />
-「MAGICAL MYSTERY TOUR」為<a href="../Page/NHK.md" title="wikilink">NHK的</a>「說英語之夜」2007年度主題曲。<br />
-「MAGICAL MYSTERY TOUR」翻唱自<a href="../Page/披頭四.md" title="wikilink">披頭四的同名歌曲</a></small></p></td>
+「MAGICAL MYSTERY TOUR」為<a href="https://zh.wikipedia.org/wiki/NHK" title="wikilink">NHK的</a>「說英語之夜」2007年度主題曲。<br />
+「MAGICAL MYSTERY TOUR」翻唱自<a href="https://zh.wikipedia.org/wiki/披頭四" title="wikilink">披頭四的同名歌曲</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>24th</small></p></td>
@@ -204,7 +205,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 <td><p><strong>鐘を鳴らして</strong></p></td>
 <td><p><small>「Pump It Up! 」<br />
 「A Perfect Sky (Björn Remix)」</small></p></td>
-<td><p><small>「鐘を鳴らして」為<a href="../Page/BANDAI.md" title="wikilink">BANDAI電玩</a>「Tales of Vesperia」日本版主題曲，而其英文版「Ring A Bell」同樣由BONNIE PINK演唱，為英語版主題曲<br />
+<td><p><small>「鐘を鳴らして」為<a href="https://zh.wikipedia.org/wiki/BANDAI" title="wikilink">BANDAI電玩</a>「Tales of Vesperia」日本版主題曲，而其英文版「Ring A Bell」同樣由BONNIE PINK演唱，為英語版主題曲<br />
 「A Perfect Sky (Björn Remix)」為舞台劇「Double Booking」主題曲</small></p></td>
 </tr>
 <tr class="even">
@@ -240,65 +241,66 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 
 ### 原創專輯
 
-|                     |                            |                                                                                    |                  |
-| ------------------- | -------------------------- | ---------------------------------------------------------------------------------- | ---------------- |
-| 順序                  | 發行日期                       | 專輯名稱                                                                               | 備註               |
-| <small>1st</small>  | <small>1995年9月21日</small>  | **[Blue Jam](../Page/Blue_Jam.md "wikilink")**                                     | <small> </small> |
-| <small>2nd※</small> | <small>1997年5月16日</small>  | **[Heaven's Kitchen](../Page/Heaven's_Kitchen.md "wikilink")**                     | <small> </small> |
-| <small>3rd※</small> | <small>1998年4月17日</small>  | **[evil and flowers](../Page/evil_and_flowers.md "wikilink")**                     | <small> </small> |
-| <small>4th</small>  | <small>2000年4月5日</small>   | **[Let go](../Page/Let_go.md "wikilink")**                                         | <small> </small> |
-| <small>5th</small>  | <small>2001年10月24日</small> | **[Just a Girl](../Page/Just_a_Girl.md "wikilink")**                               | <small> </small> |
-| <small>6th※</small> | <small>2003年2月19日</small>  | **[Present](../Page/Present.md "wikilink")**                                       | <small> </small> |
-| <small>7th※</small> | <small>2004年5月12日</small>  | **[Even So](../Page/Even_So.md "wikilink")**                                       | <small> </small> |
-| <small>8th※</small> | <small>2005年9月21日</small>  | **[Golden Tears](../Page/Golden_Tears.md "wikilink")**                             | <small> </small> |
-| <small>9th</small>  | <small>2007年7月25日</small>  | **[Thinking Out Loud](../Page/Thinking_Out_Loud_\(BONNIE_PINK專輯\).md "wikilink")** | <small> </small> |
-| <small>10th</small> | <small>2009年5月13日</small>  | **[ONE](../Page/ONE_\(BONNIE_PINK專輯\).md "wikilink")**                             | <small> </small> |
-|                     |                            |                                                                                    |                  |
+|                     |                            |                                                                                                       |                  |
+| ------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------- |
+| 順序                  | 發行日期                       | 專輯名稱                                                                                                  | 備註               |
+| <small>1st</small>  | <small>1995年9月21日</small>  | **[Blue Jam](https://zh.wikipedia.org/wiki/Blue_Jam "wikilink")**                                     | <small> </small> |
+| <small>2nd※</small> | <small>1997年5月16日</small>  | **[Heaven's Kitchen](https://zh.wikipedia.org/wiki/Heaven's_Kitchen "wikilink")**                     | <small> </small> |
+| <small>3rd※</small> | <small>1998年4月17日</small>  | **[evil and flowers](https://zh.wikipedia.org/wiki/evil_and_flowers "wikilink")**                     | <small> </small> |
+| <small>4th</small>  | <small>2000年4月5日</small>   | **[Let go](https://zh.wikipedia.org/wiki/Let_go "wikilink")**                                         | <small> </small> |
+| <small>5th</small>  | <small>2001年10月24日</small> | **[Just a Girl](https://zh.wikipedia.org/wiki/Just_a_Girl "wikilink")**                               | <small> </small> |
+| <small>6th※</small> | <small>2003年2月19日</small>  | **[Present](https://zh.wikipedia.org/wiki/Present "wikilink")**                                       | <small> </small> |
+| <small>7th※</small> | <small>2004年5月12日</small>  | **[Even So](https://zh.wikipedia.org/wiki/Even_So "wikilink")**                                       | <small> </small> |
+| <small>8th※</small> | <small>2005年9月21日</small>  | **[Golden Tears](https://zh.wikipedia.org/wiki/Golden_Tears "wikilink")**                             | <small> </small> |
+| <small>9th</small>  | <small>2007年7月25日</small>  | **[Thinking Out Loud](https://zh.wikipedia.org/wiki/Thinking_Out_Loud_\(BONNIE_PINK專輯\) "wikilink")** | <small> </small> |
+| <small>10th</small> | <small>2009年5月13日</small>  | **[ONE](../Page/ONE_\(BONNIE_PINK專輯\).md "wikilink")**                                                | <small> </small> |
+|                     |                            |                                                                                                       |                  |
 
 ### 其他專輯
 
-|                        |                            |                                                        |                  |
-| ---------------------- | -------------------------- | ------------------------------------------------------ | ---------------- |
-| 項目                     | 發行日期                       | 專輯名稱                                                   | 備註               |
-| <small>現場演唱專輯</small>  | <small>2003年8月6日</small>   | **[Pink in Red](../Page/Pink_in_Red.md "wikilink")**   | <small> </small> |
-| <small>翻唱專輯</small>    | <small>2005年6月22日</small>  | **[REMINISCENCE](../Page/REMINISCENCE.md "wikilink")** | <small> </small> |
-| <small>聖誕節迷你專輯</small> | <small>2008年11月26日</small> | **[CHAIN](../Page/CHAIN.md "wikilink")**               | <small> </small> |
-|                        |                            |                                                        |                  |
+|                        |                            |                                                                           |                  |
+| ---------------------- | -------------------------- | ------------------------------------------------------------------------- | ---------------- |
+| 項目                     | 發行日期                       | 專輯名稱                                                                      | 備註               |
+| <small>現場演唱專輯</small>  | <small>2003年8月6日</small>   | **[Pink in Red](https://zh.wikipedia.org/wiki/Pink_in_Red "wikilink")**   | <small> </small> |
+| <small>翻唱專輯</small>    | <small>2005年6月22日</small>  | **[REMINISCENCE](https://zh.wikipedia.org/wiki/REMINISCENCE "wikilink")** | <small> </small> |
+| <small>聖誕節迷你專輯</small> | <small>2008年11月26日</small> | **[CHAIN](../Page/CHAIN.md "wikilink")**                                  | <small> </small> |
+|                        |                            |                                                                           |                  |
 
 ### 精選輯
 
-  - 由[Pony Canyon發行](../Page/Pony_Canyon.md "wikilink")
+  - 由[Pony
+    Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")
 
-|                    |                            |                                                                     |                  |
-| ------------------ | -------------------------- | ------------------------------------------------------------------- | ---------------- |
-| 順序                 | 發行日期                       | 專輯名稱                                                                | 備註               |
-| <small>1st</small> | <small>1999年12月17日</small> | **[Bonnie's Kitchen\#1](../Page/Bonnie's_Kitchen#1.md "wikilink")** | <small> </small> |
-| <small>2nd</small> | <small>2000年1月19日</small>  | **[Bonnie's Kitchen\#2](../Page/Bonnie's_Kitchen#2.md "wikilink")** | <small> </small> |
-|                    |                            |                                                                     |                  |
+|                    |                            |                                                                                        |                  |
+| ------------------ | -------------------------- | -------------------------------------------------------------------------------------- | ---------------- |
+| 順序                 | 發行日期                       | 專輯名稱                                                                                   | 備註               |
+| <small>1st</small> | <small>1999年12月17日</small> | **[Bonnie's Kitchen\#1](https://zh.wikipedia.org/wiki/Bonnie's_Kitchen#1 "wikilink")** | <small> </small> |
+| <small>2nd</small> | <small>2000年1月19日</small>  | **[Bonnie's Kitchen\#2](https://zh.wikipedia.org/wiki/Bonnie's_Kitchen#2 "wikilink")** | <small> </small> |
+|                    |                            |                                                                                        |                  |
 
-  - 由[華納音樂發行](../Page/華納音樂.md "wikilink")
+  - 由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")
 
-|                    |                           |                                                                                                                                  |                  |
-| ------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 順序                 | 發行日期                      | 專輯名稱                                                                                                                             | 備註               |
-| <small>1st</small> | <small>2006年7月26日</small> | **[Every Single Day -Complete BONNIE PINK（1995-2006）](../Page/Every_Single_Day_-Complete_BONNIE_PINK（1995-2006）.md "wikilink")** | <small> </small> |
-|                    |                           |                                                                                                                                  |                  |
+|                    |                           |                                                                                                                                                     |                  |
+| ------------------ | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 順序                 | 發行日期                      | 專輯名稱                                                                                                                                                | 備註               |
+| <small>1st</small> | <small>2006年7月26日</small> | **[Every Single Day -Complete BONNIE PINK（1995-2006）](https://zh.wikipedia.org/wiki/Every_Single_Day_-Complete_BONNIE_PINK（1995-2006） "wikilink")** | <small> </small> |
+|                    |                           |                                                                                                                                                     |                  |
 
 ### 混音專輯
 
-|                    |                           |                                                                                       |                  |
-| ------------------ | ------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
-| 順序                 | 發行日期                      | 專輯名稱                                                                                  | 備註               |
-| <small>1st</small> | <small>2002年2月27日</small> | **[re\*PINK BONNIE PINK REMIXES](../Page/re*PINK_BONNIE_PINK_REMIXES.md "wikilink")** | <small> </small> |
-|                    |                           |                                                                                       |                  |
+|                    |                           |                                                                                                          |                  |
+| ------------------ | ------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------- |
+| 順序                 | 發行日期                      | 專輯名稱                                                                                                     | 備註               |
+| <small>1st</small> | <small>2002年2月27日</small> | **[re\*PINK BONNIE PINK REMIXES](https://zh.wikipedia.org/wiki/re*PINK_BONNIE_PINK_REMIXES "wikilink")** | <small> </small> |
+|                    |                           |                                                                                                          |                  |
 
 ### 原聲帶
 
-|                    |                           |                                                      |                  |
-| ------------------ | ------------------------- | ---------------------------------------------------- | ---------------- |
-| 順序                 | 發行日期                      | 專輯名稱                                                 | 備註               |
-| <small>1st</small> | <small>1997年9月19日</small> | **[Lie Lie Lie](../Page/Lie_Lie_Lie.md "wikilink")** | <small> </small> |
-|                    |                           |                                                      |                  |
+|                    |                           |                                                                         |                  |
+| ------------------ | ------------------------- | ----------------------------------------------------------------------- | ---------------- |
+| 順序                 | 發行日期                      | 專輯名稱                                                                    | 備註               |
+| <small>1st</small> | <small>1997年9月19日</small> | **[Lie Lie Lie](https://zh.wikipedia.org/wiki/Lie_Lie_Lie "wikilink")** | <small> </small> |
+|                    |                           |                                                                         |                  |
 
 ## DVD
 
@@ -313,7 +315,7 @@ c/w曲翻唱Cathy Dennis的「Touch Me (all Night Long)」</small></p></td>
 
 ## 相關條目
 
-  - [BONNIE PINK](../Page/BONNIE_PINK.md "wikilink")
+  - [BONNIE PINK](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")
 
 [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
 [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")

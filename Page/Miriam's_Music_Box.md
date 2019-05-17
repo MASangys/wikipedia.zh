@@ -1,7 +1,7 @@
 《**Miriam's Music
-Box**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅於](../Page/楊千嬅.md "wikilink")2002年11月22日推出的粵語專輯。唱片以童話幻滅為主題。主打歌曲《笑中有淚》為[四台冠軍歌曲](../Page/2002年度香港四台冠軍歌曲列表.md "wikilink")，另一主打《可惜我是水瓶座》以[楊千嬅的星座](../Page/楊千嬅.md "wikilink")[水瓶座命名](../Page/水瓶座.md "wikilink")，唱至街知巷聞，為填詞人[黃偉文為楊千嬅度身訂造的作品](../Page/黃偉文.md "wikilink")，入面的一句「拿來長島冰茶換我半晚安睡」，是來自有晚千嬅收工後獨自去酒吧，一共點了8杯Long
+Box**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅於](../Page/楊千嬅.md "wikilink")2002年11月22日推出的粵語專輯。唱片以童話幻滅為主題。主打歌曲《笑中有淚》為[四台冠軍歌曲](../Page/2002年度香港四台冠軍歌曲列表.md "wikilink")，另一主打《可惜我是水瓶座》以[楊千嬅的星座](../Page/楊千嬅.md "wikilink")[水瓶座命名](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，唱至街知巷聞，為填詞人[黃偉文為楊千嬅度身訂造的作品](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，入面的一句「拿來長島冰茶換我半晚安睡」，是來自有晚千嬅收工後獨自去酒吧，一共點了8杯Long
 Island Iced
-Tea，黃偉文就一直靜靜地陪著她，直到扶她上的士。黃偉文將這段經歷和楊千嬅的星座合拼寫成這首歌。《家有幾米》為[百老匯廣告歌](../Page/百老匯攝影器材.md "wikilink")。
+Tea，黃偉文就一直靜靜地陪著她，直到扶她上的士。黃偉文將這段經歷和楊千嬅的星座合拼寫成這首歌。《家有幾米》為[百老匯廣告歌](https://zh.wikipedia.org/wiki/百老匯攝影器材 "wikilink")。
 
 ## 曲目列表
 

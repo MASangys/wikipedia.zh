@@ -1,8 +1,9 @@
 **Skype for Business**（舊稱**Microsoft Lync** 或 **Microsoft Office
 Communicator**），配合[Microsoft Lync
-Server一同使用](../Page/Microsoft_Lync_Server.md "wikilink")。發售管道隨同[Office
+Server一同使用](https://zh.wikipedia.org/wiki/Microsoft_Lync_Server "wikilink")。發售管道隨同[Office
 365](../Page/Office_365.md "wikilink")。最初版本於2011年1月25日由微軟推出。此軟件有專為[Mac
-OS設計的](../Page/Mac_OS.md "wikilink")**Microsoft Lync for Mac**。
+OS設計的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")**Microsoft Lync
+for Mac**。
 
 ## 功能
 
@@ -12,8 +13,8 @@ OS設計的](../Page/Mac_OS.md "wikilink")**Microsoft Lync for Mac**。
     Server上的](../Page/Microsoft_Exchange_Server.md "wikilink")[Microsoft
     Outlook日历](../Page/Microsoft_Outlook.md "wikilink")
   - 所有客户端之间的通信都是通过[Microsoft Office Communications
-    Server本地服务器完成的](../Page/Microsoft_Office_Communications_Server.md "wikilink")
-  - 提供使用[TLS和](../Page/TLS.md "wikilink")[SRTP加密的安全通讯](../Page/SRTP.md "wikilink")
+    Server本地服务器完成的](https://zh.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink")
+  - 提供使用[TLS和](https://zh.wikipedia.org/wiki/TLS "wikilink")[SRTP加密的安全通讯](https://zh.wikipedia.org/wiki/SRTP "wikilink")
 
 ## 沿革
 
@@ -21,7 +22,7 @@ Office Communicator 2005发布于2005年第二季度，之前使用代号*Istanb
 
 Office Communicator 2007，于2007年7月28日提供给制造商\[1\]并于2007年10月发布。Office
 Communicator
-2007是一个[创新通信联盟](../Page/创新通信联盟.md "wikilink")（ICA）产品。全功能桌面版客户端需要运行在Windows
+2007是一个[创新通信联盟](https://zh.wikipedia.org/wiki/创新通信联盟 "wikilink")（ICA）产品。全功能桌面版客户端需要运行在Windows
 Vista 32bit、Windows XP with SP2或Windows 2000 with SP4操作系统上。
 
 Office Communicator 2010於2010年下半年釋出。
@@ -32,19 +33,23 @@ Business将会作为一个企业级的Skype登场。\[2\]
 ## 參見
 
   - [Microsoft Office](../Page/Microsoft_Office.md "wikilink")
-  - [Microsoft NetMeeting](../Page/Microsoft_NetMeeting.md "wikilink")
-  - [Windows Meeting Space](../Page/Windows_Meeting_Space.md "wikilink")
+  - [Microsoft
+    NetMeeting](https://zh.wikipedia.org/wiki/Microsoft_NetMeeting "wikilink")
+  - [Windows Meeting
+    Space](https://zh.wikipedia.org/wiki/Windows_Meeting_Space "wikilink")
   - [Microsoft Office Live
-    Meeting](../Page/Microsoft_Office_Live_Meeting.md "wikilink")
-  - [Communicator Mobile](../Page/Communicator_Mobile.md "wikilink")
+    Meeting](https://zh.wikipedia.org/wiki/Microsoft_Office_Live_Meeting "wikilink")
+  - [Communicator
+    Mobile](https://zh.wikipedia.org/wiki/Communicator_Mobile "wikilink")
   - [Office Communications
-    Server](../Page/Office_Communications_Server.md "wikilink") (2007)
+    Server](https://zh.wikipedia.org/wiki/Office_Communications_Server "wikilink")
+    (2007)
   - [Nortel Communication Server
-    2100](../Page/Nortel_Communication_Server_2100.md "wikilink")
+    2100](https://zh.wikipedia.org/wiki/Nortel_Communication_Server_2100 "wikilink")
   - [LG-Nortel IP Phone
-    8540](../Page/LG-Nortel_IP_Phone_8540.md "wikilink")
+    8540](https://zh.wikipedia.org/wiki/LG-Nortel_IP_Phone_8540 "wikilink")
   - [List of Microsoft - Nortel (ICA)
-    Products](../Page/List_of_Microsoft_-_Nortel_\(ICA\)_Products.md "wikilink")
+    Products](https://zh.wikipedia.org/wiki/List_of_Microsoft_-_Nortel_\(ICA\)_Products "wikilink")
 
 ## 参考资料
 

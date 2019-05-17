@@ -1,33 +1,33 @@
-**X射线光电子能谱学**（英文：，简称）是一种用於测定材料中[元素构成](../Page/元素.md "wikilink")、[实验式](../Page/实验式.md "wikilink")，以及其中所含元素[化学态和](../Page/化学态.md "wikilink")[电子态的定量](../Page/电子态.md "wikilink")[能谱技术](../Page/能谱学.md "wikilink")。这种技术用[X射线照射所要分析的材料](../Page/X射线.md "wikilink")，同时测量从材料表面以下1纳米到10纳米范围内逸出电子的[动能和数量](../Page/动能.md "wikilink")，从而得到X射线光电子[能谱](../Page/能谱.md "wikilink")。X射线光电子能谱技术需要在超高真空环境下进行。
+**X射线光电子能谱学**（英文：，简称）是一种用於测定材料中[元素构成](https://zh.wikipedia.org/wiki/元素 "wikilink")、[实验式](https://zh.wikipedia.org/wiki/实验式 "wikilink")，以及其中所含元素[化学态和](https://zh.wikipedia.org/wiki/化学态 "wikilink")[电子态的定量](https://zh.wikipedia.org/wiki/电子态 "wikilink")[能谱技术](https://zh.wikipedia.org/wiki/能谱学 "wikilink")。这种技术用[X射线照射所要分析的材料](../Page/X射线.md "wikilink")，同时测量从材料表面以下1纳米到10纳米范围内逸出电子的[动能和数量](../Page/动能.md "wikilink")，从而得到X射线光电子[能谱](https://zh.wikipedia.org/wiki/能谱 "wikilink")。X射线光电子能谱技术需要在超高真空环境下进行。
 
-XPS是一种[表面化学分析技术](../Page/表面化学.md "wikilink")，可以用来分析金属材料在特定状态下或在一些加工处理后的表面化学。这些加工处理方法包括空气或超高真空中的压裂、切割、刮削，用於清除某些表面污染的[离子束蚀刻](../Page/离子束蚀刻.md "wikilink")，为研究受热时的变化而置于加热环境，置于可反应的气体或溶剂环境，置于[离子注入环境](../Page/离子注入.md "wikilink")，以及置于[紫外线照射环境等](../Page/紫外线.md "wikilink")。
+XPS是一种[表面化学分析技术](https://zh.wikipedia.org/wiki/表面化学 "wikilink")，可以用来分析金属材料在特定状态下或在一些加工处理后的表面化学。这些加工处理方法包括空气或超高真空中的压裂、切割、刮削，用於清除某些表面污染的[离子束蚀刻](https://zh.wikipedia.org/wiki/离子束蚀刻 "wikilink")，为研究受热时的变化而置于加热环境，置于可反应的气体或溶剂环境，置于[离子注入环境](https://zh.wikipedia.org/wiki/离子注入 "wikilink")，以及置于[紫外线照射环境等](../Page/紫外线.md "wikilink")。
 
   - XPS也被称作ESCA，这是**化学分析用电子能谱学**（）的简称。
   - XPS能够检测到所有[原子序数大于等于](../Page/原子序数.md "wikilink")3的元素（即包括[锂及所有比锂重的元素](../Page/锂.md "wikilink")），而不能检测到[氢和](../Page/氢.md "wikilink")[氦](../Page/氦.md "wikilink")。
-  - 对大多数元素而言的[检出限大约为千分之几](../Page/检出限.md "wikilink")，在特定条件下检出极限也有可能达到百万分之几，例如元素在表面高度集中或需要长时间的累积时间。
-  - XPS被广泛应用於分析[无机化合物](../Page/无机化合物.md "wikilink")、[合金](../Page/合金.md "wikilink")、[半导体](../Page/半导体.md "wikilink")、[聚合物](../Page/聚合物.md "wikilink")、[元素](../Page/元素.md "wikilink")、[催化剂](../Page/催化剂.md "wikilink")、[玻璃](../Page/玻璃.md "wikilink")、[陶瓷](../Page/陶瓷.md "wikilink")、[染料](../Page/染料.md "wikilink")、[纸](../Page/纸.md "wikilink")、[墨水](../Page/墨水.md "wikilink")、[木材](../Page/木材.md "wikilink")、[化妆品](../Page/化妆品.md "wikilink")、[牙齿](../Page/牙齿.md "wikilink")、[骨骼](../Page/骨骼.md "wikilink")、[移植物](../Page/移植物.md "wikilink")、生物材料、[油脂](../Page/油脂.md "wikilink")、[胶水等](../Page/胶水.md "wikilink")。
+  - 对大多数元素而言的[检出限大约为千分之几](https://zh.wikipedia.org/wiki/检出限 "wikilink")，在特定条件下检出极限也有可能达到百万分之几，例如元素在表面高度集中或需要长时间的累积时间。
+  - XPS被广泛应用於分析[无机化合物](../Page/无机化合物.md "wikilink")、[合金](../Page/合金.md "wikilink")、[半导体](../Page/半导体.md "wikilink")、[聚合物](../Page/聚合物.md "wikilink")、[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")、[催化剂](../Page/催化剂.md "wikilink")、[玻璃](../Page/玻璃.md "wikilink")、[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")、[染料](../Page/染料.md "wikilink")、[纸](../Page/纸.md "wikilink")、[墨水](https://zh.wikipedia.org/wiki/墨水 "wikilink")、[木材](../Page/木材.md "wikilink")、[化妆品](https://zh.wikipedia.org/wiki/化妆品 "wikilink")、[牙齿](https://zh.wikipedia.org/wiki/牙齿 "wikilink")、[骨骼](../Page/骨骼.md "wikilink")、[移植物](https://zh.wikipedia.org/wiki/移植物 "wikilink")、生物材料、[油脂](https://zh.wikipedia.org/wiki/油脂 "wikilink")、[胶水等](https://zh.wikipedia.org/wiki/胶水 "wikilink")。
 
 XPS可以用来测量：
 
   - 表面的元素构成（通常范围为1纳米到10纳米）
-  - 纯净材料的[实验式](../Page/实验式.md "wikilink")
+  - 纯净材料的[实验式](https://zh.wikipedia.org/wiki/实验式 "wikilink")
   - 不纯净表面的杂质的元素构成
   - 表面每一种元素的化学态和电子态
   - 表面元素构成的均匀性
 
-进行X射线光电子能谱技术可以采用商业公司或个人制造的XPS系统，也可采用一个基于[同步加速器的光源和一台特别设计的电子分析器组合而成](../Page/同步加速器.md "wikilink")。商业公司制造的XPS系统通常采用光束长度为20至200微米的[单色铝Kα线](../Page/单色光.md "wikilink")，或者采用10至30微米的复色镁射线。某些经特殊设计的少数XPS系统可以用於分析高温或低温下的挥发性液体和气体材料，以及在压强大约为1[托的真空下进行工作](../Page/托.md "wikilink")，但这类XPS系统通常都相对少见。
+进行X射线光电子能谱技术可以采用商业公司或个人制造的XPS系统，也可采用一个基于[同步加速器的光源和一台特别设计的电子分析器组合而成](../Page/同步加速器.md "wikilink")。商业公司制造的XPS系统通常采用光束长度为20至200微米的[单色铝Kα线](https://zh.wikipedia.org/wiki/单色光 "wikilink")，或者采用10至30微米的复色镁射线。某些经特殊设计的少数XPS系统可以用於分析高温或低温下的挥发性液体和气体材料，以及在压强大约为1[托的真空下进行工作](../Page/托.md "wikilink")，但这类XPS系统通常都相对少见。
 
-由于对特定[波长的X射线](../Page/波长.md "wikilink")，其能量是已知的，对于每一个出射电子所具有的[电子结合能可以由下面公式求出](../Page/电离能.md "wikilink")：
+由于对特定[波长的X射线](../Page/波长.md "wikilink")，其能量是已知的，对于每一个出射电子所具有的[电子结合能可以由下面公式求出](https://zh.wikipedia.org/wiki/电离能 "wikilink")：
 
 \[E_\text{binding} = E_\text{photon} - \left(E_\text{kinetic} + \phi\right)\]
 
-其中\(E_\text{binding}\,\)是电子结合能，\(E_\text{photon}\,\)是所用的X射线的[光子的能量](../Page/光子.md "wikilink")，\(E_\text{kinetic}\,\)是被测量到的电子的动能，\(\phi\,\)是[能谱仪](../Page/能谱仪.md "wikilink")（而不是材料）的[功函数](../Page/功函数.md "wikilink")，这一公式是基于[欧内斯特·卢瑟福在](../Page/欧内斯特·卢瑟福.md "wikilink")1914年的工作得来的。
+其中\(E_\text{binding}\,\)是电子结合能，\(E_\text{photon}\,\)是所用的X射线的[光子的能量](../Page/光子.md "wikilink")，\(E_\text{kinetic}\,\)是被测量到的电子的动能，\(\phi\,\)是[能谱仪](https://zh.wikipedia.org/wiki/能谱仪 "wikilink")（而不是材料）的[功函数](../Page/功函数.md "wikilink")，这一公式是基于[欧内斯特·卢瑟福在](../Page/欧内斯特·卢瑟福.md "wikilink")1914年的工作得来的。
 
 ## XPS的历史
 
-1887年，[海因里希·鲁道夫·赫兹发现了](../Page/海因里希·鲁道夫·赫兹.md "wikilink")[光电效应](../Page/光电效应.md "wikilink")，1905年，[爱因斯坦解释了该现象](../Page/爱因斯坦.md "wikilink")，并为此获得了1921年的[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")。两年后的1907年，用[伦琴管](../Page/伦琴.md "wikilink")、[亥姆霍茲線圈](../Page/亥姆霍茲線圈.md "wikilink")、磁场半球（电子能量分析仪）和照像平版做实验来记录宽带发射电子和速度的函数关系，他的实验事实上记录了人类第一条X射线光电子能谱。其他研究者如亨利·莫塞莱、罗林逊和罗宾逊等人则分别独立进行了多项实验，试图研究这些宽带所包含的细节内容。
+1887年，[海因里希·鲁道夫·赫兹发现了](https://zh.wikipedia.org/wiki/海因里希·鲁道夫·赫兹 "wikilink")[光电效应](../Page/光电效应.md "wikilink")，1905年，[爱因斯坦解释了该现象](https://zh.wikipedia.org/wiki/爱因斯坦 "wikilink")，并为此获得了1921年的[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")。两年后的1907年，用[伦琴管](https://zh.wikipedia.org/wiki/伦琴 "wikilink")、[亥姆霍茲線圈](../Page/亥姆霍茲線圈.md "wikilink")、磁场半球（电子能量分析仪）和照像平版做实验来记录宽带发射电子和速度的函数关系，他的实验事实上记录了人类第一条X射线光电子能谱。其他研究者如亨利·莫塞莱、罗林逊和罗宾逊等人则分别独立进行了多项实验，试图研究这些宽带所包含的细节内容。
 
-XPS的研究由于战争而中止，瑞典物理学家[凯·西格巴恩和他在](../Page/凯·西格巴恩.md "wikilink")[乌普萨拉的研究小组於第二次世界大战后](../Page/乌普萨拉.md "wikilink")，在研发XPS设备中获得了多项重大进展，并於1954年获得了[氯化钠的首条高能高分辨X射线光电子能谱](../Page/氯化钠.md "wikilink")，显示了XPS技术的强大潜力。1967年之后的几年间，西格巴恩就XPS技术发表了一系列学术成果，使XPS的应用被世人所公认。在与西格巴恩的合作下，美国[惠普公司於](../Page/惠普公司.md "wikilink")1969年制造了世界上首台商业单色X射线光电子能谱仪。1981年西格巴恩获得诺贝尔物理学奖，以表彰他将XPS发展为一个重要分析技术所作出的杰出贡献。
+XPS的研究由于战争而中止，瑞典物理学家[凯·西格巴恩和他在](../Page/凯·西格巴恩.md "wikilink")[乌普萨拉的研究小组於第二次世界大战后](../Page/乌普萨拉.md "wikilink")，在研发XPS设备中获得了多项重大进展，并於1954年获得了[氯化钠的首条高能高分辨X射线光电子能谱](https://zh.wikipedia.org/wiki/氯化钠 "wikilink")，显示了XPS技术的强大潜力。1967年之后的几年间，西格巴恩就XPS技术发表了一系列学术成果，使XPS的应用被世人所公认。在与西格巴恩的合作下，美国[惠普公司於](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")1969年制造了世界上首台商业单色X射线光电子能谱仪。1981年西格巴恩获得诺贝尔物理学奖，以表彰他将XPS发展为一个重要分析技术所作出的杰出贡献。
 
 ## XPS的物理原理
 
@@ -84,30 +84,30 @@ XPS主要功能有三个：
 ## 化学态和化学位移
 
 XPS中的化学位移（chemical
-shift），不同于[核磁共振谱中的](../Page/核磁共振频谱学.md "wikilink")[化学位移](../Page/化学位移.md "wikilink")，指的是光电子能谱中同一种原子的峰由于所处化学环境的不同，在能量方向上的微小位移。化学位移是一种初态效应（Initial
+shift），不同于[核磁共振谱中的](https://zh.wikipedia.org/wiki/核磁共振频谱学 "wikilink")[化学位移](https://zh.wikipedia.org/wiki/化学位移 "wikilink")，指的是光电子能谱中同一种原子的峰由于所处化学环境的不同，在能量方向上的微小位移。化学位移是一种初态效应（Initial
 State
-Effect）\[1\]，即内层的[空穴生成之前就存在的效应](../Page/空穴.md "wikilink")。因为化学位移的位移量一般在1[eV到](../Page/电子伏特.md "wikilink")10eV不等，所以只有在能量方向上分辨率较高的XPS才能观测得到。
+Effect）\[1\]，即内层的[空穴生成之前就存在的效应](https://zh.wikipedia.org/wiki/空穴 "wikilink")。因为化学位移的位移量一般在1[eV到](https://zh.wikipedia.org/wiki/电子伏特 "wikilink")10eV不等，所以只有在能量方向上分辨率较高的XPS才能观测得到。
 
-化学位移的原理可以有如下理解\[2\]：对于某[能级的电子](../Page/能级.md "wikilink")，其[电子结合能](../Page/电离能.md "wikilink")（Electron
+化学位移的原理可以有如下理解\[2\]：对于某[能级的电子](../Page/能级.md "wikilink")，其[电子结合能](https://zh.wikipedia.org/wiki/电离能 "wikilink")（Electron
 binding
-energy）由它与[原子核之间的](../Page/原子核.md "wikilink")[库伦力和其他电子的](../Page/库伦力.md "wikilink")（Screening
-effect）共同决定。由于[化学键的形成过程中牵涉到](../Page/化学键.md "wikilink")[电子转移](../Page/电子转移.md "wikilink")，原子中电子的密度分布也会随之改变，进而影响到电子的结合能。一般来说，更多的电子会增强遮蔽效应，造成电子结合能的降低，使对应的峰向能量较低的方向移动\[3\]。
+energy）由它与[原子核之间的](../Page/原子核.md "wikilink")[库伦力和其他电子的](https://zh.wikipedia.org/wiki/库伦力 "wikilink")（Screening
+effect）共同决定。由于[化学键的形成过程中牵涉到](../Page/化学键.md "wikilink")[电子转移](https://zh.wikipedia.org/wiki/电子转移 "wikilink")，原子中电子的密度分布也会随之改变，进而影响到电子的结合能。一般来说，更多的电子会增强遮蔽效应，造成电子结合能的降低，使对应的峰向能量较低的方向移动\[3\]。
 
 [hires.jpg](https://zh.wikipedia.org/wiki/File:hires.jpg "fig:hires.jpg")
-右图是X射线光电子能谱在[硅的](../Page/硅.md "wikilink")2[p峰附近的区间](../Page/p轨道.md "wikilink")，所测量的样品为氧化后的硅[晶圆](../Page/晶圆.md "wikilink")。红色的曲线为测得的原始数据，可以通过[曲线拟合分解为五个峰](../Page/曲线拟合.md "wikilink")，分别对应硅原子在此样品中所处的五种化学态（从A到E）。最左边的E峰（103.67
+右图是X射线光电子能谱在[硅的](../Page/硅.md "wikilink")2[p峰附近的区间](https://zh.wikipedia.org/wiki/p轨道 "wikilink")，所测量的样品为氧化后的硅[晶圆](https://zh.wikipedia.org/wiki/晶圆 "wikilink")。红色的曲线为测得的原始数据，可以通过[曲线拟合分解为五个峰](https://zh.wikipedia.org/wiki/曲线拟合 "wikilink")，分别对应硅原子在此样品中所处的五种化学态（从A到E）。最左边的E峰（103.67
 eV）对应的是位于氧化程度最高的 SiO<sub>2</sub> 中的硅原子；D峰（102.72 eV）对应着氧化程度次之的
 Si<sub>2</sub>O<sub>3</sub> 。A峰（99.69 eV）和B峰（100.30
-eV）对应的是未被氧化的硅原子；之所以分裂成两个峰是因为电子在2p轨道上的[自旋-轨道效应](../Page/自旋-轨道效应.md "wikilink")。实验数据表明，代表
+eV）对应的是未被氧化的硅原子；之所以分裂成两个峰是因为电子在2p轨道上的[自旋-轨道效应](https://zh.wikipedia.org/wiki/自旋-轨道效应 "wikilink")。实验数据表明，代表
 2p<sub>1/2</sub> 电子的B峰与代表 2p<sub>3/2</sub> 电子的A峰的强度之比总是会有1：2的关系\[4\]。
 
 在XPS中，不同峰的强度还可以用来定量分析对应化学态的出现程度\[5\]。右图中硅的氧化态对应的峰（C峰、D峰和E峰）中，E峰最为明显，表明
 SiO<sub>2</sub> 是此样品中的硅的最常见的氧化态。
 
 除此之外，[碳原子也常常在XPS中被选作研究对象](../Page/碳.md "wikilink")。若将碳原子所处的不同化学态按照在它们光电子能谱中呈现的峰所处的能量从低到高排列，则有以下顺序（目标原子已经以**粗体**标出）：[碳化物](../Page/碳化物.md "wikilink")（-**C**<sup>2−</sup>）\<
-[硅酮](../Page/硅酮.md "wikilink")（-Si-**C**H<sub>3</sub>）\<
-[亚甲基](../Page/亚甲基.md "wikilink")/[甲基](../Page/甲基.md "wikilink")/[烃](../Page/烃.md "wikilink")（-**C**H<sub>2</sub>-**C**H<sub>2</sub>-、**C**H<sub>3</sub>-CH<sub>2</sub>-
+[硅酮](https://zh.wikipedia.org/wiki/硅酮 "wikilink")（-Si-**C**H<sub>3</sub>）\<
+[亚甲基](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")/[甲基](https://zh.wikipedia.org/wiki/甲基 "wikilink")/[烃](../Page/烃.md "wikilink")（-**C**H<sub>2</sub>-**C**H<sub>2</sub>-、**C**H<sub>3</sub>-CH<sub>2</sub>-
 或 -**C**H=**C**H-）\<
-[胺](../Page/胺.md "wikilink")（-**C**H<sub>2</sub>-NH<sub>2</sub>）\<
+[胺](https://zh.wikipedia.org/wiki/胺 "wikilink")（-**C**H<sub>2</sub>-NH<sub>2</sub>）\<
 [醇](../Page/醇.md "wikilink")（-**C**-OH）\<
 [酮](../Page/酮.md "wikilink")（-**C**=O）\<
 [酯](../Page/酯.md "wikilink")（-**C**OOR）\<
@@ -129,7 +129,7 @@ SiO<sub>2</sub> 是此样品中的硅的最常见的氧化态。
   - 在最佳条件下，由**XPS主峰**计算出的（at%）值的量化精确度为90-95%（单个主峰）。若使用高质量的控制协议，精确度还能进一步提升。
   - 在通常的工作条件下，当表面为期望中的材料和杂质的混合物时，准确度在80-90%不等（以原子百分比为单位）。
   - 对于较弱的XPS信号（强度为最强信号的10-20%），其量化精确度为真实值的60-80%，且取决于对信噪比的优化（例如）的程度。
-  - 量化**精密**度（参见[准确与精密](../Page/准确与精密.md "wikilink")）是在量化结果的正式报告中必须考虑的东西。标准的统计检验，如用于比较平均值的[学生t检验](../Page/学生t检验.md "wikilink")，应被用于确定一组重复测量结果的平均值的置信水平，以及多组不同结果的比较上。一般来说，p值（学生t检验的一个输出）在0.05以下意味着置信度(95%)在其领域中获得承认且引起注意。
+  - 量化**精密**度（参见[准确与精密](https://zh.wikipedia.org/wiki/准确与精密 "wikilink")）是在量化结果的正式报告中必须考虑的东西。标准的统计检验，如用于比较平均值的[学生t检验](https://zh.wikipedia.org/wiki/学生t检验 "wikilink")，应被用于确定一组重复测量结果的平均值的置信水平，以及多组不同结果的比较上。一般来说，p值（学生t检验的一个输出）在0.05以下意味着置信度(95%)在其领域中获得承认且引起注意。
 
 ### 分析时段
 
@@ -182,7 +182,8 @@ Ar等，通过在样品表面蒸镀Au或Pt等元素（BEAu4f7/2=84.0eV,BEPt4f7/2
   -
 ### 相关方法
 
-  - UPS, [紫外光电子能谱學](../Page/紫外光电子能谱學.md "wikilink") (for gases, aka PES)
+  - UPS, [紫外光电子能谱學](https://zh.wikipedia.org/wiki/紫外光电子能谱學 "wikilink")
+    (for gases, aka PES)
   - PES,  (for solid surfaces, aka UPS)
   - ZEKE,
   - AES, [俄歇电子能谱学](../Page/俄歇电子能谱学.md "wikilink") (AES)

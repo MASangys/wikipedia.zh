@@ -1,8 +1,8 @@
-**X戰警電影系列**是以[漫威漫畫](../Page/漫威漫畫.md "wikilink")[虛構](../Page/虛構角色.md "wikilink")[超級英雄團體](../Page/超級英雄.md "wikilink")《[X戰警](../Page/X戰警.md "wikilink")》為基礎的電影（Earth-10005）。電影主要角色以[金鋼狼為主](../Page/金鋼狼.md "wikilink")，描寫[X教授與](../Page/X教授.md "wikilink")[萬磁王為兩派](../Page/萬磁王.md "wikilink")，對[人類與變種人關係各方爭論相異的爭鬥](../Page/人類.md "wikilink")，[X教授相信人類與變種人可以](../Page/X教授.md "wikilink")[和平共處](../Page/和平.md "wikilink")，而[萬磁王則堅信戰爭來到](../Page/萬磁王.md "wikilink")，傾向與人類宣戰。電影也將{{〈}}Weapon
+**X戰警電影系列**是以[漫威漫畫](../Page/漫威漫畫.md "wikilink")[虛構](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》為基礎的電影（Earth-10005）。電影主要角色以[金鋼狼為主](../Page/金鋼狼.md "wikilink")，描寫[X教授與](../Page/X教授.md "wikilink")[萬磁王為兩派](../Page/萬磁王.md "wikilink")，對[人類與變種人關係各方爭論相異的爭鬥](../Page/人類.md "wikilink")，[X教授相信人類與變種人可以](../Page/X教授.md "wikilink")[和平共處](../Page/和平.md "wikilink")，而[萬磁王則堅信戰爭來到](../Page/萬磁王.md "wikilink")，傾向與人類宣戰。電影也將{{〈}}Weapon
 X{{〉}}與{{〈}}Dark Phoenix{{〉}}漫畫主線加入電影作為次要劇情。
 
-[20世紀福斯於](../Page/20世紀福斯.md "wikilink")1994年取得電影角色版權，在經過多次的修訂，由[布萊恩·辛格來執導](../Page/布萊恩·辛格.md "wikilink")《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》（2000年）和《[X戰警2](../Page/X戰警2.md "wikilink")》（2003年），隨後布萊恩·辛格離開劇組前去拍攝《[-{zh-cn:超人归来;zh-hk:超人—強戰回歸;zh-tw:超人再起;}-](../Page/超人再起.md "wikilink")》，而第三部《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》（2006年）由[布萊特·瑞納](../Page/布萊特·瑞納.md "wikilink")（Brett
-Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的黑暗色彩和寫實風格](../Page/布萊恩·辛格.md "wikilink")，以及对于歧視與宽容的探讨，而对于[布萊特·瑞納的评论則褒贬不一](../Page/布萊特·瑞納.md "wikilink")。不过，每部電影最後均獲益不少票房。《X戰警》系列電影可說是帶起2000年代[超級英雄電影的先驅](../Page/超級英雄.md "wikilink")。
+[20世紀福斯於](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")1994年取得電影角色版權，在經過多次的修訂，由[布萊恩·辛格來執導](../Page/布萊恩·辛格.md "wikilink")《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》（2000年）和《[X戰警2](../Page/X戰警2.md "wikilink")》（2003年），隨後布萊恩·辛格離開劇組前去拍攝《[-{zh-cn:超人归来;zh-hk:超人—強戰回歸;zh-tw:超人再起;}-](../Page/超人再起.md "wikilink")》，而第三部《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》（2006年）由[布萊特·瑞納](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")（Brett
+Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的黑暗色彩和寫實風格](../Page/布萊恩·辛格.md "wikilink")，以及对于歧視與宽容的探讨，而对于[布萊特·瑞納的评论則褒贬不一](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")。不过，每部電影最後均獲益不少票房。《X戰警》系列電影可說是帶起2000年代[超級英雄電影的先驅](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")。
 
 ## 已上映電影
 
@@ -30,7 +30,7 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 <td><p>《<a href="../Page/X戰警2.md" title="wikilink">X戰警2</a>》</p></td>
 <td><p>2003年5月2日</p></td>
 <td><p>布萊恩·辛格</p></td>
-<td><p><a href="../Page/麥可·道格堤.md" title="wikilink">麥可·道格堤</a> &amp;  &amp; 大衛·海特<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/麥可·道格堤" title="wikilink">麥可·道格堤</a> &amp;  &amp; 大衛·海特<br />
 大衛·海特 &amp; 布萊恩·辛格 &amp; </p></td>
 <td><p>| 蘿倫·舒勒·唐納 &amp; 雷夫·溫特</p></td>
 </tr>
@@ -38,7 +38,7 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 <td><p>3</p></td>
 <td><p>《<a href="../Page/X戰警：最後戰役.md" title="wikilink">X戰警：最後戰役</a>》</p></td>
 <td><p>2006年5月26日</p></td>
-<td><p><a href="../Page/布萊特·瑞納.md" title="wikilink">布萊特·瑞納</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布萊特·瑞納" title="wikilink">布萊特·瑞納</a></p></td>
 <td><p><a href="../Page/賽門·金柏格.md" title="wikilink">賽門·金柏格</a> &amp; 塞克·潘</p></td>
 <td><p>蘿倫·舒勒·唐納 &amp; 雷夫·溫特 &amp; </p></td>
 </tr>
@@ -46,15 +46,15 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 <td><p>4</p></td>
 <td><p>《<a href="../Page/X戰警：金鋼狼.md" title="wikilink">X戰警：金鋼狼</a>》</p></td>
 <td><p>2009年5月1日</p></td>
-<td><p><a href="../Page/蓋文·胡德.md" title="wikilink">蓋文·胡德</a></p></td>
-<td><p><a href="../Page/大衛·貝尼奧夫.md" title="wikilink">大衛·貝尼奧夫</a> &amp; </p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蓋文·胡德" title="wikilink">蓋文·胡德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大衛·貝尼奧夫" title="wikilink">大衛·貝尼奧夫</a> &amp; </p></td>
 <td><p>蘿倫·舒勒·唐納 &amp; 雷夫·溫特 &amp; <a href="../Page/休·傑克曼.md" title="wikilink">休·傑克曼</a> &amp; 約翰·帕勒爾莫</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>《<a href="../Page/X戰警：第一戰.md" title="wikilink">X戰警：第一戰</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/X戰警：第一戰" title="wikilink">X戰警：第一戰</a>》</p></td>
 <td><p>2011年6月3日</p></td>
-<td><p><a href="../Page/馬修·范恩.md" title="wikilink">馬修·范恩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬修·范恩" title="wikilink">馬修·范恩</a></p></td>
 <td><p>&amp;  &amp;  &amp; 馬修·沃恩<br />
  &amp; 布莱恩·辛格</p></td>
 <td><p>蘿倫·舒勒·唐納 &amp; 布萊恩·辛格 &amp; 賽門·金柏格 &amp; </p></td>
@@ -69,7 +69,7 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>《<a href="../Page/X戰警：未來昔日.md" title="wikilink">X戰警：未來昔日</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/X戰警：未來昔日" title="wikilink">X戰警：未來昔日</a>》</p></td>
 <td><p>2014年5月21日</p></td>
 <td><p>布萊恩·辛格</p></td>
 <td><p>賽門·金柏格<br />
@@ -81,7 +81,7 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 <td><p>《<a href="../Page/惡棍英雄：死侍.md" title="wikilink">惡棍英雄：死侍</a>》</p></td>
 <td><p>2016年2月12日</p></td>
 <td><p><a href="../Page/提姆·米勒.md" title="wikilink">提姆·米勒</a></p></td>
-<td><p><a href="../Page/雷特·瑞斯.md" title="wikilink">雷特·瑞斯</a> &amp; <a href="../Page/保羅·韋尼克.md" title="wikilink">保羅·韋尼克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷特·瑞斯" title="wikilink">雷特·瑞斯</a> &amp; <a href="https://zh.wikipedia.org/wiki/保羅·韋尼克" title="wikilink">保羅·韋尼克</a></p></td>
 <td><p>賽門·金柏格 &amp; <a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a> &amp; 蘿倫·舒勒·唐納</p></td>
 </tr>
 <tr class="even">
@@ -95,16 +95,16 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>《<a href="../Page/羅根_(電影).md" title="wikilink">羅根</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/羅根_(電影)" title="wikilink">羅根</a>》</p></td>
 <td><p>2017年3月3日</p></td>
 <td><p>詹姆斯·曼高德</p></td>
 <td><p>詹姆斯·曼高德<br />
-<a href="../Page/麥可·葛林_(編劇).md" title="wikilink">麥可·葛林</a> &amp; 史考特·法蘭克 &amp; 詹姆斯·曼高德</p></td>
+<a href="https://zh.wikipedia.org/wiki/麥可·葛林_(編劇)" title="wikilink">麥可·葛林</a> &amp; 史考特·法蘭克 &amp; 詹姆斯·曼高德</p></td>
 <td><p>赫奇·帕克 &amp; 賽門·金柏格 &amp; 蘿倫·舒勒·唐納</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>《<a href="../Page/死侍2.md" title="wikilink">死侍2</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/死侍2" title="wikilink">死侍2</a>》</p></td>
 <td><p>2018年5月18日</p></td>
 <td><p><a href="../Page/大衛·雷奇.md" title="wikilink">大衛·雷奇</a></p></td>
 <td><p>雷特·瑞斯 &amp; 保羅·韋尼克 &amp; <a href="../Page/德魯·戈達德.md" title="wikilink">德魯·戈達德</a> &amp; <a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a></p></td>
@@ -115,19 +115,19 @@ Ratner）導演接手。評論家讚賞[布萊恩·辛格執導的前兩集的�
 
 ### 《X戰警》（2000年）
 
-**X戰警**電影版權於1994年，由[20世紀福斯製片](../Page/20世紀福斯.md "wikilink")所買下。\[1\]
-[安德魯·凱文·沃克編寫劇本](../Page/安德魯·凱文·沃克.md "wikilink")\[2\]，當時[詹姆斯·卡麥隆表示有興趣來拍攝電影](../Page/詹姆斯·卡麥隆.md "wikilink")，最後於1996年7月確定由[布萊恩·辛格執導](../Page/布萊恩·辛格.md "wikilink")。導演本身非漫畫迷，但他仍為原著提及的[種族歧視議題所著迷](../Page/種族歧視.md "wikilink")。由於導演本身是[雙性戀](../Page/雙性戀.md "wikilink")，因此許多評論認為，片中將變種議題轉為性少數（如[同性戀等](../Page/同性戀.md "wikilink")）害怕、受歧視的意味相當明顯。\[3\]
+**X戰警**電影版權於1994年，由[20世紀福斯製片](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")所買下。\[1\]
+[安德魯·凱文·沃克編寫劇本](https://zh.wikipedia.org/wiki/安德魯·凱文·沃克 "wikilink")\[2\]，當時[詹姆斯·卡麥隆表示有興趣來拍攝電影](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，最後於1996年7月確定由[布萊恩·辛格執導](../Page/布萊恩·辛格.md "wikilink")。導演本身非漫畫迷，但他仍為原著提及的[種族歧視議題所著迷](https://zh.wikipedia.org/wiki/種族歧視 "wikilink")。由於導演本身是[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")，因此許多評論認為，片中將變種議題轉為性少數（如[同性戀等](../Page/同性戀.md "wikilink")）害怕、受歧視的意味相當明顯。\[3\]
 、[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")、、和多人編寫劇本\[4\]，最終採用海特的版本。\[5\]
-電影從1999年9月22日到2000年3月3日在[多倫多進行拍攝](../Page/多倫多.md "wikilink")。\[6\]
+電影從1999年9月22日到2000年3月3日在[多倫多進行拍攝](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。\[6\]
 
-電影劇情由[金鋼狼與](../Page/金鋼狼.md "wikilink")[小淘氣開場](../Page/小淘氣.md "wikilink")，帶入[X教授帶領的](../Page/X教授.md "wikilink")[X戰警們](../Page/X戰警.md "wikilink")，與反方[萬磁王主導的](../Page/萬磁王.md "wikilink")，兩方之間的對人類關係的爭鬥主線。[萬磁王暗地建造特殊機器](../Page/萬磁王.md "wikilink")，企圖使[聯合國的最高級世界領袖突變](../Page/聯合國.md "wikilink")，帶來一個承認變種人權的國度，但[X教授察覺強迫變種的結果](../Page/X教授.md "wikilink")，將會導致人類的滅亡，而帶領X戰警們全力阻止。
+電影劇情由[金鋼狼與](../Page/金鋼狼.md "wikilink")[小淘氣開場](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")，帶入[X教授帶領的](../Page/X教授.md "wikilink")[X戰警們](https://zh.wikipedia.org/wiki/X戰警 "wikilink")，與反方[萬磁王主導的](../Page/萬磁王.md "wikilink")，兩方之間的對人類關係的爭鬥主線。[萬磁王暗地建造特殊機器](../Page/萬磁王.md "wikilink")，企圖使[聯合國的最高級世界領袖突變](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，帶來一個承認變種人權的國度，但[X教授察覺強迫變種的結果](../Page/X教授.md "wikilink")，將會導致人類的滅亡，而帶領X戰警們全力阻止。
 
 ### 《X戰警2》（2003年）
 
 **X戰警2**由20世紀福斯請來大衛·海特與來編寫續集劇本，再由導演辛格來挑選，目標再2002年12月上映。\[7\]
 故事內容是從《*X-Men: God Loves, Man
-Kills*》取得靈感，延伸從[教士轉為](../Page/教士.md "wikilink")[上校的](../Page/上校.md "wikilink")[威廉·史崔克角色](../Page/威廉·史崔克.md "wikilink")。\[8\]
-[麥可·道格堤和](../Page/麥可·道格堤.md "wikilink")在2002年2月再度重寫劇本，擬了26份草稿與150份劇情線。\[9\]
+Kills*》取得靈感，延伸從[教士轉為](https://zh.wikipedia.org/wiki/教士 "wikilink")[上校的](../Page/上校.md "wikilink")[威廉·史崔克角色](https://zh.wikipedia.org/wiki/威廉·史崔克 "wikilink")。\[8\]
+[麥可·道格堤和](https://zh.wikipedia.org/wiki/麥可·道格堤 "wikilink")在2002年2月再度重寫劇本，擬了26份草稿與150份劇情線。\[9\]
 電影於2002年6月17日在[溫哥華進行拍攝至](../Page/溫哥華.md "wikilink")11月殺青，延至2003年5月1日上映。\[10\]
 
 電影中威廉·史崔克前去質問，首集被關進牢裡的萬磁王，X教授的所在地。史崔克突襲X教授的，將X教授洗腦藉由他的能力，侵入世界各地每個變種人的心靈，進一步摧毀滅絕。X戰警與其他變種人必須團結，來阻止史崔克的種族滅絕計畫。另一方面，金鋼狼發覺史崔克知道關於他神秘的過去，與他那鋼鐵骨骼的幕後成因。
@@ -135,31 +135,32 @@ Kills*》取得靈感，延伸從[教士轉為](../Page/教士.md "wikilink")[�
 ### 《X戰警：最後戰役》（2006年）
 
 **X戰警：最後戰役**（*X-Men: The Last
-Stand*）是由[布萊特·瑞納執導](../Page/布萊特·瑞納.md "wikilink")。前兩集導演[布萊恩·辛格原本計畫第三部電影與第四部合拍](../Page/布萊恩·辛格.md "wikilink")，重點放在[黑鳳凰](../Page/黑鳳凰.md "wikilink")（Dark
-Phoenix）的處理，再加入[白女皇](../Page/白女皇.md "wikilink")（Emma Frost）新的角色。\[11\]
-此外，辛格打算展現[小淘氣](../Page/小淘氣.md "wikilink")（Rogue）與[冰人](../Page/冰人.md "wikilink")（Iceman）和[火人](../Page/火人.md "wikilink")（Pyro）之間更多的角色特質。\[12\]
+Stand*）是由[布萊特·瑞納執導](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")。前兩集導演[布萊恩·辛格原本計畫第三部電影與第四部合拍](../Page/布萊恩·辛格.md "wikilink")，重點放在[黑鳳凰](https://zh.wikipedia.org/wiki/黑鳳凰 "wikilink")（Dark
+Phoenix）的處理，再加入[白女皇](https://zh.wikipedia.org/wiki/白女皇 "wikilink")（Emma
+Frost）新的角色。\[11\]
+此外，辛格打算展現[小淘氣](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")（Rogue）與[冰人](https://zh.wikipedia.org/wiki/冰人 "wikilink")（Iceman）和[火人](https://zh.wikipedia.org/wiki/火人 "wikilink")（Pyro）之間更多的角色特質。\[12\]
 不過2004年7月16日他離開而去拍攝《[超人再起](../Page/超人再起.md "wikilink")》。\[13\]
 [賽門·金柏格](../Page/賽門·金柏格.md "wikilink")（Simon
-Kinberg）和[塞克·潘受聘編劇](../Page/塞克·潘.md "wikilink")，片場執行閱讀[喬斯·溫登的](../Page/喬斯·溫登.md "wikilink")《*Astonishing
-X-Men*》故事{{〈}}*Gifted*{{〉}}後，提議內容關於變種人治癒比先前的劇本好。[馬修·范恩](../Page/馬修·范恩.md "wikilink")（Matthew
+Kinberg）和[塞克·潘受聘編劇](https://zh.wikipedia.org/wiki/塞克·潘 "wikilink")，片場執行閱讀[喬斯·溫登的](../Page/喬斯·溫登.md "wikilink")《*Astonishing
+X-Men*》故事{{〈}}*Gifted*{{〉}}後，提議內容關於變種人治癒比先前的劇本好。[馬修·范恩](https://zh.wikipedia.org/wiki/馬修·范恩 "wikilink")（Matthew
 Vaughn）於2005年有意執導，\[14\]
-但是由於忙碌的拍攝行程而作罷\[15\]，隨後由[布萊特·瑞納取代](../Page/布萊特·瑞納.md "wikilink")。\[16\]
+但是由於忙碌的拍攝行程而作罷\[15\]，隨後由[布萊特·瑞納取代](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")。\[16\]
 電影在2005年8月2日進行拍攝。\[17\]
 
-電影劇情內容為，一家生化製藥公司研發一種藥物，可治癒變種人的[基因突變](../Page/基因突變.md "wikilink")，此消息讓[變種人聯盟大為生氣](../Page/變種人聯盟.md "wikilink")，認為變種人不需要被治癒。[萬磁王於是宣戰](../Page/萬磁王.md "wikilink")，而後[X教授被](../Page/X教授.md "wikilink")[琴·葛雷蜕变成的](../Page/琴·葛雷.md "wikilink")[黑鳳凰消滅](../Page/黑鳳凰.md "wikilink")，[萬磁王率領](../Page/萬磁王.md "wikilink")[黑鳳凰等變種人對抗人類](../Page/黑鳳凰.md "wikilink")，[金鋼狼與](../Page/金鋼狼.md "wikilink")[鋼人必須挺身而出](../Page/鋼人.md "wikilink")，成為[X戰警的領導核心](../Page/X戰警.md "wikilink")。
+電影劇情內容為，一家生化製藥公司研發一種藥物，可治癒變種人的[基因突變](https://zh.wikipedia.org/wiki/基因突變 "wikilink")，此消息讓[變種人聯盟大為生氣](https://zh.wikipedia.org/wiki/變種人聯盟 "wikilink")，認為變種人不需要被治癒。[萬磁王於是宣戰](../Page/萬磁王.md "wikilink")，而後[X教授被](../Page/X教授.md "wikilink")[琴·葛雷蜕变成的](https://zh.wikipedia.org/wiki/琴·葛雷 "wikilink")[黑鳳凰消滅](https://zh.wikipedia.org/wiki/黑鳳凰 "wikilink")，[萬磁王率領](../Page/萬磁王.md "wikilink")[黑鳳凰等變種人對抗人類](https://zh.wikipedia.org/wiki/黑鳳凰 "wikilink")，[金鋼狼與](../Page/金鋼狼.md "wikilink")[鋼人必須挺身而出](https://zh.wikipedia.org/wiki/鋼人 "wikilink")，成為[X戰警的領導核心](https://zh.wikipedia.org/wiki/X戰警 "wikilink")。
 
 ### 《X戰警：金鋼狼》（2009年）
 
 **X戰警：金鋼狼**（*X-Men Origins:
 Wolverine*）由[加文·胡德](../Page/加文·胡德.md "wikilink")（Gavin
-Hood）執導，同樣由[休·傑克曼飾演](../Page/休·傑克曼.md "wikilink")[金鋼狼](../Page/金鋼狼.md "wikilink")。是X戰警系列電影的前傳，主要成員為[X團隊](../Page/X團隊.md "wikilink")（Team
-X），時間點在於[金鋼狼被植入](../Page/金鋼狼.md "wikilink")[金屬骨骼之前](../Page/金屬.md "wikilink")。電影主要在[澳洲和](../Page/澳洲.md "wikilink")[紐西蘭拍攝](../Page/紐西蘭.md "wikilink")，[大衛·畢諾夫於](../Page/大衛·畢諾夫.md "wikilink")2004年10月開始編劇，加入[金牌手](../Page/金牌手.md "wikilink")（Gambit）與[死侍](../Page/死侍.md "wikilink")（Deadpool）以及銀狐（Silver
+Hood）執導，同樣由[休·傑克曼飾演](../Page/休·傑克曼.md "wikilink")[金鋼狼](../Page/金鋼狼.md "wikilink")。是X戰警系列電影的前傳，主要成員為[X團隊](https://zh.wikipedia.org/wiki/X團隊 "wikilink")（Team
+X），時間點在於[金鋼狼被植入](../Page/金鋼狼.md "wikilink")[金屬骨骼之前](https://zh.wikipedia.org/wiki/金屬 "wikilink")。電影主要在[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭拍攝](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，[大衛·畢諾夫於](https://zh.wikipedia.org/wiki/大衛·畢諾夫 "wikilink")2004年10月開始編劇，加入[金牌手](../Page/金牌手.md "wikilink")（Gambit）與[死侍](../Page/死侍.md "wikilink")（Deadpool）以及銀狐（Silver
 Fox）等多位角色。\[18\]
 
 ### 《X戰警：第一戰》（2011年）
 
 **X戰警：第一戰**（*X-Men : First
-Class*）讲述[万磁王和](../Page/万磁王.md "wikilink")[魔形女](../Page/魔形女.md "wikilink")、[X教授等变种人结识](../Page/X教授.md "wikilink")，为了防止战争发生而对抗塞巴斯汀·尚，最后分别的故事。
+Class*）讲述[万磁王和](https://zh.wikipedia.org/wiki/万磁王 "wikilink")[魔形女](../Page/魔形女.md "wikilink")、[X教授等变种人结识](../Page/X教授.md "wikilink")，为了防止战争发生而对抗塞巴斯汀·尚，最后分别的故事。
 
 ### 《金鋼狼：武士之戰》（2013年）
 
@@ -170,7 +171,7 @@ Class*）讲述[万磁王和](../Page/万磁王.md "wikilink")[魔形女](../Pag
 
 **X戰警：未來昔日**(X Men : Days of Future
 Past)，故事將會聚焦於邪惡變種人兄弟會刺殺參議員羅伯特凱利(Robert
-Kelly)，結果導致在未來的世界裡，變種人全部被關在集中營，受到巨型機器人「Sentinels」的追殺，為了改寫歷史，「幻影貓」([-{zh-cn:埃伦·佩奇;zh-hk:愛倫·比芝;zh-tw:艾倫·佩姬;}-Ellen](../Page/艾倫·佩姬.md "wikilink")
+Kelly)，結果導致在未來的世界裡，變種人全部被關在集中營，受到巨型機器人「Sentinels」的追殺，為了改寫歷史，「幻影貓」([-{zh-cn:埃伦·佩奇;zh-hk:愛倫·比芝;zh-tw:艾倫·佩姬;}-Ellen](https://zh.wikipedia.org/wiki/艾倫·佩姬 "wikilink")
 Page飾)
 將會幫助[金鋼狼回到過去找](../Page/金鋼狼.md "wikilink")[X教授](../Page/X教授.md "wikilink")、[萬磁王和](../Page/萬磁王.md "wikilink")[魔形女](../Page/魔形女.md "wikilink")，試圖阻止巨型機器人的設計與製造。本片於2014年5月21日上映。
 
@@ -184,19 +185,19 @@ Page飾)
 
 2015年9月，制片人西蒙·金伯利称《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》的续集电影正在发展。\[19\]《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》上映后，20世纪福克斯已经同意开发续集，里斯和韦尼克将成为编剧，而米勒将成为导演。\[20\]
 
-2017年，隨著《[羅根](../Page/羅根.md "wikilink")》電影上映，片商特別拍攝一支以《死侍》為主角的短片，調侃了金鋼狼一番，甚至還模仿DC世界觀的超人在電話亭換裝，而片中也巧妙植入《[羅根](../Page/羅根.md "wikilink")》電影海報，漫威元老[史丹·李也客串演出](../Page/史丹·李.md "wikilink")。台灣於3月10日起，與北美同步《[羅根](../Page/羅根.md "wikilink")》片前彩蛋上映\[21\]。本片將於2018年5月18日上映\[22\]。
+2017年，隨著《[羅根](https://zh.wikipedia.org/wiki/羅根 "wikilink")》電影上映，片商特別拍攝一支以《死侍》為主角的短片，調侃了金鋼狼一番，甚至還模仿DC世界觀的超人在電話亭換裝，而片中也巧妙植入《[羅根](https://zh.wikipedia.org/wiki/羅根 "wikilink")》電影海報，漫威元老[史丹·李也客串演出](../Page/史丹·李.md "wikilink")。台灣於3月10日起，與北美同步《[羅根](https://zh.wikipedia.org/wiki/羅根 "wikilink")》片前彩蛋上映\[21\]。本片將於2018年5月18日上映\[22\]。
 
 ## 待上映電影
 
-|    |                                            |           |                                      |                                    |                             |
-| -- | ------------------------------------------ | --------- | ------------------------------------ | ---------------------------------- | --------------------------- |
-| 序  | 名稱                                         | 上映日期      | 導演                                   | 編劇                                 | 監製                          |
-| 12 | 《[X戰警：黑鳳凰](../Page/X戰警：黑鳳凰.md "wikilink")》 | 2019年6月7日 | 賽門·金柏格                               | 賽門·金柏格 & 布萊恩·辛格 & 赫奇·帕克 & 蘿倫·舒勒·唐納 |                             |
-| 13 | 《[變種人](../Page/變種人_\(電影\).md "wikilink")》  | 2019年8月2日 | [喬什·波恩](../Page/喬什·波恩.md "wikilink") | 喬什·波恩 & 肯奈特·沃特尼 &  &               | 賽門·金柏格 & 凱倫·羅森費特 & 蘿倫·舒勒·唐納 |
+|    |                                                               |           |                                                         |                                    |                             |
+| -- | ------------------------------------------------------------- | --------- | ------------------------------------------------------- | ---------------------------------- | --------------------------- |
+| 序  | 名稱                                                            | 上映日期      | 導演                                                      | 編劇                                 | 監製                          |
+| 12 | 《[X戰警：黑鳳凰](https://zh.wikipedia.org/wiki/X戰警：黑鳳凰 "wikilink")》 | 2019年6月7日 | 賽門·金柏格                                                  | 賽門·金柏格 & 布萊恩·辛格 & 赫奇·帕克 & 蘿倫·舒勒·唐納 |                             |
+| 13 | 《[變種人](https://zh.wikipedia.org/wiki/變種人_\(電影\) "wikilink")》  | 2019年8月2日 | [喬什·波恩](https://zh.wikipedia.org/wiki/喬什·波恩 "wikilink") | 喬什·波恩 & 肯奈特·沃特尼 &  &               | 賽門·金柏格 & 凱倫·羅森費特 & 蘿倫·舒勒·唐納 |
 
 ### 《X戰警：黑凤凰》（2019年）
 
-《X戰警：黑凤凰》是以暗黑鳳凰為主題的系列作。目前已可知在《天啟》中飾演「[琴·葛雷的](../Page/琴·葛雷.md "wikilink")[蘇菲·特納將會回歸演出](../Page/蘇菲·特納.md "wikilink")。對此製片／編劇賽門金伯格透露：「電影名稱最後並不會是『超新星』，這只是代號，不過可以告訴你們的是，我們都認為當初《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》中暗黑鳳凰的詮釋不夠完美。在那部電影的製作過程中我們犯了不少錯誤，讓暗黑鳳凰這樣規模龐大的漫畫章節，成為電影中的次要情節。所以我們想，如果下次我們要做火鳳凰的相關電影，就要將重心放在她的情感掙扎。」\[23\]。2017年2月，Kinberg对自己的剧本进行前期交涉。\[24\]一个月后，Kinberg表示，他曾与导演进行讨论，这部电影正在进行前期制作。\[25\]《X戰警：黑凤凰》預計2018年11月2日上映\[26\]。2018年3月，宣佈延期至2019年2月14日上映。2018年9月，宣佈再度延期至2019年6月7日上映。2019年3月，受迪士尼并购影响，该片改由[华特迪士尼工作室电影负责发行](../Page/华特迪士尼工作室电影.md "wikilink")。
+《X戰警：黑凤凰》是以暗黑鳳凰為主題的系列作。目前已可知在《天啟》中飾演「[琴·葛雷的](https://zh.wikipedia.org/wiki/琴·葛雷 "wikilink")[蘇菲·特納將會回歸演出](../Page/蘇菲·特納.md "wikilink")。對此製片／編劇賽門金伯格透露：「電影名稱最後並不會是『超新星』，這只是代號，不過可以告訴你們的是，我們都認為當初《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》中暗黑鳳凰的詮釋不夠完美。在那部電影的製作過程中我們犯了不少錯誤，讓暗黑鳳凰這樣規模龐大的漫畫章節，成為電影中的次要情節。所以我們想，如果下次我們要做火鳳凰的相關電影，就要將重心放在她的情感掙扎。」\[23\]。2017年2月，Kinberg对自己的剧本进行前期交涉。\[24\]一个月后，Kinberg表示，他曾与导演进行讨论，这部电影正在进行前期制作。\[25\]《X戰警：黑凤凰》預計2018年11月2日上映\[26\]。2018年3月，宣佈延期至2019年2月14日上映。2018年9月，宣佈再度延期至2019年6月7日上映。2019年3月，受迪士尼并购影响，该片改由[华特迪士尼工作室电影负责发行](https://zh.wikipedia.org/wiki/华特迪士尼工作室电影 "wikilink")。
 
 ### 《變種人》（2019年）
 
@@ -211,9 +212,9 @@ Moonstar）加農炮（Cannonball）、《X戰警：未來昔日》中出現過�
 
 ### 《金牌手》
 
-在未來的電影中，由[查尼·塔圖飾演](../Page/查尼·塔圖.md "wikilink")。早於2014年，《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》的監製[蘿倫·雪勒·唐納在接受](../Page/蘿倫·雪勒·唐納.md "wikilink")《[帝國雜誌](../Page/帝國雜誌.md "wikilink")》採訪時，表示有興趣推出金牌手的獨立作\[33\]。塔圖與MTV採訪時透露，他已與唐納進行會談\[34\]。唐納在《X戰警：未來昔日》全球首映時證實塔圖將於《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》和獨立電影中飾演的金牌手\[35\]\[36\]。2014年10月，塔圖透露，獨立電影正在開發中，並正在尋找編劇。他還暗示了二十世紀福斯將有可能會定在2018年7月18日上映\[37\]。2014年10月，福斯宣布喬許·澤塔莫將提供腳本，而[克里斯·克萊蒙特撰寫故事初稿](../Page/克里斯·克萊蒙特.md "wikilink")，克萊蒙特也和[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、唐納和塔圖共同監製，此外常與塔圖合作的監製[瑞德·卡羅林也會參與該電影](../Page/瑞德·卡羅林.md "wikilink")\[38\]。該片定於2016年10月7日上映\[39\]\[40\]。
+在未來的電影中，由[查尼·塔圖飾演](https://zh.wikipedia.org/wiki/查尼·塔圖 "wikilink")。早於2014年，《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的監製[蘿倫·雪勒·唐納在接受](https://zh.wikipedia.org/wiki/蘿倫·雪勒·唐納 "wikilink")《[帝國雜誌](../Page/帝國雜誌.md "wikilink")》採訪時，表示有興趣推出金牌手的獨立作\[33\]。塔圖與MTV採訪時透露，他已與唐納進行會談\[34\]。唐納在《X戰警：未來昔日》全球首映時證實塔圖將於《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》和獨立電影中飾演的金牌手\[35\]\[36\]。2014年10月，塔圖透露，獨立電影正在開發中，並正在尋找編劇。他還暗示了二十世紀福斯將有可能會定在2018年7月18日上映\[37\]。2014年10月，福斯宣布喬許·澤塔莫將提供腳本，而[克里斯·克萊蒙特撰寫故事初稿](https://zh.wikipedia.org/wiki/克里斯·克萊蒙特 "wikilink")，克萊蒙特也和[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、唐納和塔圖共同監製，此外常與塔圖合作的監製[瑞德·卡羅林也會參與該電影](https://zh.wikipedia.org/wiki/瑞德·卡羅林 "wikilink")\[38\]。該片定於2016年10月7日上映\[39\]\[40\]。
 
-塔圖曾表示，電影是一部角色的起源故事\[41\]。據透露，[班奈特·米勒](../Page/班奈特·米勒.md "wikilink")、[戴倫·艾洛諾夫斯基](../Page/戴倫·艾洛諾夫斯基.md "wikilink")、[加雷斯·埃文斯和](../Page/加雷斯·埃文斯.md "wikilink")[J·C·陳多爾都推掉過執導本片的機會](../Page/J·C·陳多爾.md "wikilink")\[42\]\[43\]\[44\]。2015年6月15日，《[娛樂周刊](../Page/娛樂周刊.md "wikilink")》報導，[魯伯特·瓦耶特被選中作為導演](../Page/魯伯特·瓦耶特.md "wikilink")\[45\]。後來，塔圖確認金牌手將不會在《X戰警：天啟》中現身\[46\]\[47\]\[48\]。2015年7月21日，卡羅林表示，將於10月或11月左右在[紐奧良開拍](../Page/紐奧良.md "wikilink")\[49\]\[50\]。2015年8月6日，據傳[蕾貝卡·弗格森](../Page/蕾貝卡·弗格森_\(演員\).md "wikilink")、[蕾雅·瑟杜和](../Page/蕾雅·瑟杜.md "wikilink")[艾比·麗皆為女主角](../Page/艾比·麗·科肖.md "wikilink")[貝拉·唐娜的競爭人選](../Page/貝拉·唐娜.md "wikilink")。8月18日，弗格森基於選擇《[列車上的女孩](../Page/列車上的女孩_\(2016年電影\).md "wikilink")》而放棄，最後由瑟杜取得貝拉一角\[51\]\[52\]\[53\]。2015年9月16日，由於時間安排上的衝突，魯伯特·瓦耶特退出執導工作，使得電影製作被延後\[54\]。2015年10月，[道格·李曼](../Page/道格·李曼.md "wikilink")、[喬·柯尼許](../Page/喬·柯尼許.md "wikilink")、[沙恩·布萊克都為執導本片的競爭者](../Page/沙恩·布萊克.md "wikilink")\[55\]\[56\]\[57\]。2015年11月12日，《[好萊塢報導](../Page/好萊塢報導.md "wikilink")》，李曼已在進行最後會談，極有望成為導演\[58\]。2016年8月，傳出李曼改執導《[黑暗正義聯盟](../Page/黑暗正義聯盟.md "wikilink")》的改編電影而離開《金牌手》。2016年12月，據傳聞，《[刺激1995](../Page/刺激1995.md "wikilink")》的導演[法蘭·達拉本特將為電影重新編劇並擔任導演](../Page/法蘭·達拉本特.md "wikilink")\[59\]。在2017年電視評論家協會上，蘿倫·雪勒·唐納證實，查尼·塔圖仍為金牌手的飾演者\[60\]\[61\]。2017年，塔圖在[聖地亞哥國際動漫展上透露](../Page/聖地亞哥國際動漫展.md "wikilink")，《金牌手》仍繼續會製作。最終在2018年1月，確定上映日期為2019年6月7日。2018年9月，上映日期延期至2020年3月13日。2019年3月，由於[迪士尼收購21世紀福斯](../Page/迪士尼收購21世紀福斯.md "wikilink")，監製蘿倫·雪勒·唐納表示《金牌手》電影項目被擱置\[62\]。
+塔圖曾表示，電影是一部角色的起源故事\[41\]。據透露，[班奈特·米勒](https://zh.wikipedia.org/wiki/班奈特·米勒 "wikilink")、[戴倫·艾洛諾夫斯基](../Page/戴倫·艾洛諾夫斯基.md "wikilink")、[加雷斯·埃文斯和](../Page/加雷斯·埃文斯.md "wikilink")[J·C·陳多爾都推掉過執導本片的機會](https://zh.wikipedia.org/wiki/J·C·陳多爾 "wikilink")\[42\]\[43\]\[44\]。2015年6月15日，《[娛樂周刊](https://zh.wikipedia.org/wiki/娛樂周刊 "wikilink")》報導，[魯伯特·瓦耶特被選中作為導演](https://zh.wikipedia.org/wiki/魯伯特·瓦耶特 "wikilink")\[45\]。後來，塔圖確認金牌手將不會在《X戰警：天啟》中現身\[46\]\[47\]\[48\]。2015年7月21日，卡羅林表示，將於10月或11月左右在[紐奧良開拍](https://zh.wikipedia.org/wiki/紐奧良 "wikilink")\[49\]\[50\]。2015年8月6日，據傳[蕾貝卡·弗格森](https://zh.wikipedia.org/wiki/蕾貝卡·弗格森_\(演員\) "wikilink")、[蕾雅·瑟杜和](../Page/蕾雅·瑟杜.md "wikilink")[艾比·麗皆為女主角](https://zh.wikipedia.org/wiki/艾比·麗·科肖 "wikilink")[貝拉·唐娜的競爭人選](https://zh.wikipedia.org/wiki/貝拉·唐娜 "wikilink")。8月18日，弗格森基於選擇《[列車上的女孩](../Page/列車上的女孩_\(2016年電影\).md "wikilink")》而放棄，最後由瑟杜取得貝拉一角\[51\]\[52\]\[53\]。2015年9月16日，由於時間安排上的衝突，魯伯特·瓦耶特退出執導工作，使得電影製作被延後\[54\]。2015年10月，[道格·李曼](../Page/道格·李曼.md "wikilink")、[喬·柯尼許](../Page/喬·柯尼許.md "wikilink")、[沙恩·布萊克都為執導本片的競爭者](https://zh.wikipedia.org/wiki/沙恩·布萊克 "wikilink")\[55\]\[56\]\[57\]。2015年11月12日，《[好萊塢報導](https://zh.wikipedia.org/wiki/好萊塢報導 "wikilink")》，李曼已在進行最後會談，極有望成為導演\[58\]。2016年8月，傳出李曼改執導《[黑暗正義聯盟](../Page/黑暗正義聯盟.md "wikilink")》的改編電影而離開《金牌手》。2016年12月，據傳聞，《[刺激1995](https://zh.wikipedia.org/wiki/刺激1995 "wikilink")》的導演[法蘭·達拉本特將為電影重新編劇並擔任導演](../Page/法蘭·達拉本特.md "wikilink")\[59\]。在2017年電視評論家協會上，蘿倫·雪勒·唐納證實，查尼·塔圖仍為金牌手的飾演者\[60\]\[61\]。2017年，塔圖在[聖地亞哥國際動漫展上透露](https://zh.wikipedia.org/wiki/聖地亞哥國際動漫展 "wikilink")，《金牌手》仍繼續會製作。最終在2018年1月，確定上映日期為2019年6月7日。2018年9月，上映日期延期至2020年3月13日。2019年3月，由於[迪士尼收購21世紀福斯](../Page/迪士尼收購21世紀福斯.md "wikilink")，監製蘿倫·雪勒·唐納表示《金牌手》電影項目被擱置\[62\]。
 
 ### 《X特攻隊》
 
@@ -233,17 +234,17 @@ Millar表示，影片的主角为五人\[64\]。
   - 1845年：《[X戰警：金鋼狼](../Page/X戰警：金鋼狼.md "wikilink")》幼年金鋼狼發現能力。
   - 1861年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（南北戰爭）。
   - 1917年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（第一次世界大戰）。
-  - 1944年：《[X戰警：第一戰](../Page/X戰警：第一戰.md "wikilink")》幼年萬磁王發現能力、克勞·舒密特（賽巴斯汀·尚）殺死萬磁王母親、幼年X教授遇到魔形女
+  - 1944年：《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》幼年萬磁王發現能力、克勞·舒密特（賽巴斯汀·尚）殺死萬磁王母親、幼年X教授遇到魔形女
   - 1945年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（第二次世界大戰），金鋼狼在長崎原子彈爆炸中拯救日本軍官矢志田市朗
   - 1962年：《X戰警：第一戰》青年萬磁王跟X教授尋找變種人（初遇金鋼狼）、CIA成立X部門（Division X）、古巴導彈危機
-  - 1973年：《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》魔形女追殺崔斯克時被捕獲，被提取出能夠自由變形的變種基因。
+  - 1973年：《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》魔形女追殺崔斯克時被捕獲，被提取出能夠自由變形的變種基因。
   - 1975年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（越戰），後被史崔克少校接觸勸說加入了特殊部隊X（Team X）。
   - 1986年：《X戰警：金鋼狼》金鋼狼被史崔克少校植入亞德曼金屬，X教授拯救年輕的變種人。
   - 2000年：《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》金鋼狼加入X戰警。
   - 2003年：《[X戰警2](../Page/X戰警2.md "wikilink")》金鋼狼重遇史崔克上校。
   - 2006年：《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》金鋼狼忍痛殺死他的摯愛琴·葛雷。
   - 2013年：《[金鋼狼：武士之戰](../Page/金鋼狼：武士之戰.md "wikilink")》金鋼狼逃到日本躲避過去的傷痛，萬磁王跟X教授找到金鋼狼，並表示變種人的一個最大威脅即將來臨。
-  - 2023年：《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》一個陰暗寂寥、寸草不生的未來，世界被拥有變種基因的哨兵機器人統治。
+  - 2023年：《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》一個陰暗寂寥、寸草不生的未來，世界被拥有變種基因的哨兵機器人統治。
 
 註：因為本片關係，整個X戰警系列電影僅剩《X戰警：第一戰》於1962年的時間線，與《X戰警：未來昔日》於1973年及2023年的新時間線，其餘的原始時間線被刪除，由此兩部的時間線取代。西蒙·金伯格最後還談到了《X戰警：未來昔日》對《X戰警》系列的影響，他說：“我們改變了《未來昔日》之後的X戰警歷史，《X戰警1、2、3》以及《金剛狼1、2》的故事都從沒發生過。琴格雷、獨眼龍他們都沒有死。”
 
@@ -258,56 +259,57 @@ Millar表示，影片的主角为五人\[64\]。
   - 1944年：《X戰警：第一戰》幼年萬磁王發現能力、克勞·舒密特（賽巴斯汀·尚）殺死萬磁王母親、幼年X教授遇到魔形女
   - 1945年：《X戰警：金鋼狼》金鋼狼跟哥哥從軍中（第二次世界大戰），金鋼狼在長崎原子彈爆炸中拯救日本軍官矢志田市朗
   - 1962年：《X戰警：第一戰》青年萬磁王跟X教授尋找變種人（初遇金鋼狼）、CIA成立X部門（Division X）、古巴導彈危機
-  - 1973年：《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》第一戰的十年後，「昔日」魔形女暗殺崔斯克、「未來」金鋼狼的意識回到這年的金鋼狼身上
+  - 1973年：《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》第一戰的十年後，「昔日」魔形女暗殺崔斯克、「未來」金鋼狼的意識回到這年的金鋼狼身上
   - 1983年：《X戰警：天啟》未來昔日的十年後，天啟被喚醒，金鋼狼從X武器計畫中逃走
-  - 1992年：《[X戰警：黑鳳凰](../Page/X戰警：黑鳳凰.md "wikilink")》天啟的十年後，鳳凰之力降臨地球
-  - 2023年：《[X戰警：未來昔日](../Page/X戰警：未來昔日.md "wikilink")》金鋼狼回到未來，發現一切改變，世界一片安詳
+  - 1992年：《[X戰警：黑鳳凰](https://zh.wikipedia.org/wiki/X戰警：黑鳳凰 "wikilink")》天啟的十年後，鳳凰之力降臨地球
+  - 2023年：《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》金鋼狼回到未來，發現一切改變，世界一片安詳
 
 ### 其他
 
-  - 2029年：《[羅根](../Page/羅根.md "wikilink")》一個變種人瀕臨絕種的未來，過去25年來沒有誕生過任何變種後代。
+  - 2029年：《[羅根](https://zh.wikipedia.org/wiki/羅根 "wikilink")》一個變種人瀕臨絕種的未來，過去25年來沒有誕生過任何變種後代。
 
-註：《[羅根](../Page/羅根_\(電影\).md "wikilink")》劇情敘述有25年都未「自然」產生新的變種人。從演員休傑克曼的口中說出:「這部電影沒有依附到過去累積的故事線上。」
+註：《[羅根](https://zh.wikipedia.org/wiki/羅根_\(電影\) "wikilink")》劇情敘述有25年都未「自然」產生新的變種人。從演員休傑克曼的口中說出:「這部電影沒有依附到過去累積的故事線上。」
 2028年，X教授的首次失控即是發生於此，數百個變種人及X戰警即是死於X教授的失控，加上桑德萊斯的實驗以至於變種人的滅絕。另外，片中與金鋼狼、Ｘ教授共同合作的重要角色卡利班，先前也曾出現在「Ｘ戰警：天啟」，但當時僅是貪慕名利的商人，擁有可以追蹤變種人的能力，為何多年後與金鋼狼、Ｘ教授成為莫逆之交，這中間發生什麼事？為此「羅根」導演詹姆斯曼高德則有話要說，其實他一開始根本不知道「Ｘ戰警：天啟」也會讓卡利班登場。\[68\]。
 
 《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》
 
-《[死侍2](../Page/死侍2.md "wikilink")》
+《[死侍2](https://zh.wikipedia.org/wiki/死侍2 "wikilink")》
 
-《[新變種人](../Page/變種人_\(電影\).md "wikilink")》
+《[新變種人](https://zh.wikipedia.org/wiki/變種人_\(電影\) "wikilink")》
 
 ## 角色介紹
 
 ## 票房表現
 
-|                                              |            |            |              |              |
-| :------------------------------------------: | :--------: | :--------: | :----------: | :----------: |
-|                    **電影**                    |  **首映日期**  |  **票房收入**  |   **票房排名**   |    **參見**    |
-|                    **全球**                    |   **北美**   |   **北美**   |    **各國**    |    **全球**    |
-|  《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》   |  2000年8月   | 2000年7月14日 | $157,299,717 | $138,950,336 |
-|     《[X戰警2](../Page/X戰警2.md "wikilink")》     | 2003年5月1日  | 2003年5月2日  | $214,949,694 | $192,607,919 |
-| 《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》 | 2006年5月25日 | 2006年5月26日 | $234,362,462 | $224,893,546 |
-|  《[X戰警：金鋼狼](../Page/X戰警：金鋼狼.md "wikilink")》  | 2009年5月1日  | 2009年5月1日  | $179,883,157 | $193,179,707 |
-|  《[X戰警：第一戰](../Page/X戰警：第一戰.md "wikilink")》  | 2011年6月2日  | 2011年6月3日  | $146,408,305 | $207,215,819 |
-| 《[X战警：逆转未来](../Page/X战警：逆转未来.md "wikilink")》 | 2014年5月22日 | 2014年5月23日 | $233,921,534 | $514,200,000 |
-|  《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》  | 2016年2月12日 | 2016年2月10日 | $235,394,887 | $500,000,000 |
-|                   **總票房**                    |    $}}     |    $}}     |     $}}      |              |
+|                                                                 |            |            |              |              |
+| :-------------------------------------------------------------: | :--------: | :--------: | :----------: | :----------: |
+|                             **電影**                              |  **首映日期**  |  **票房收入**  |   **票房排名**   |    **參見**    |
+|                             **全球**                              |   **北美**   |   **北美**   |    **各國**    |    **全球**    |
+|            《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》            |  2000年8月   | 2000年7月14日 | $157,299,717 | $138,950,336 |
+|              《[X戰警2](../Page/X戰警2.md "wikilink")》               | 2003年5月1日  | 2003年5月2日  | $214,949,694 | $192,607,919 |
+|          《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》           | 2006年5月25日 | 2006年5月26日 | $234,362,462 | $224,893,546 |
+|           《[X戰警：金鋼狼](../Page/X戰警：金鋼狼.md "wikilink")》            | 2009年5月1日  | 2009年5月1日  | $179,883,157 | $193,179,707 |
+|  《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》  | 2011年6月2日  | 2011年6月3日  | $146,408,305 | $207,215,819 |
+| 《[X战警：逆转未来](https://zh.wikipedia.org/wiki/X战警：逆转未来 "wikilink")》 | 2014年5月22日 | 2014年5月23日 | $233,921,534 | $514,200,000 |
+|           《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》            | 2016年2月12日 | 2016年2月10日 | $235,394,887 | $500,000,000 |
+|                             **總票房**                             |    $}}     |    $}}     |     $}}      |              |
 
-**X戰警**電影系列在北美創下的開映[票房紀錄](../Page/票房.md "wikilink")：
+**X戰警**電影系列在北美創下的開映[票房紀錄](https://zh.wikipedia.org/wiki/票房 "wikilink")：
 
-  - 《X戰警》創下[七月最高票房紀錄](../Page/七月.md "wikilink")\[69\]，《X戰警2》和《X戰警：最後戰役》曾創下第四高週末票房紀錄。\[70\]\[71\]
-  - 《X戰警：最後戰役》和《X戰警2》在[超級英雄電影中](../Page/超級英雄.md "wikilink")，票房分別排名第十四名和第十六名，《X戰警》則排名第二十四名。\[72\]
-  - 《X戰警：最後戰役》、《X戰警2》、《X戰警：金鋼狼》和《X戰警》在[驚奇漫畫改編電影中](../Page/驚奇漫畫.md "wikilink")，票房分別排名第九名、第十名、第十二名和第十四名\[73\]，在所有漫畫改編的電影中，分別排名第十四名、第十五名、第二十二名和第二十六名。\[74\]
+  - 《X戰警》創下[七月最高票房紀錄](https://zh.wikipedia.org/wiki/七月 "wikilink")\[69\]，《X戰警2》和《X戰警：最後戰役》曾創下第四高週末票房紀錄。\[70\]\[71\]
+  - 《X戰警：最後戰役》和《X戰警2》在[超級英雄電影中](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，票房分別排名第十四名和第十六名，《X戰警》則排名第二十四名。\[72\]
+  - 《X戰警：最後戰役》、《X戰警2》、《X戰警：金鋼狼》和《X戰警》在[驚奇漫畫改編電影中](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")，票房分別排名第九名、第十名、第十二名和第十四名\[73\]，在所有漫畫改編的電影中，分別排名第十四名、第十五名、第二十二名和第二十六名。\[74\]
 
 ## 參考資料
 
 ## 外部連結
 
   - [X戰警電影頁面](http://www.marvel.com/movies/X-Men)
-    在[驚奇漫畫](../Page/驚奇漫畫.md "wikilink")
+    在[驚奇漫畫](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")
 
   - [X戰警三部曲比較](http://www.boxofficemojo.com/showdowns/chart/?id=vs-xmen.htm)
-    在[Box Office Mojo](../Page/Box_Office_Mojo.md "wikilink")
+    在[Box Office
+    Mojo](https://zh.wikipedia.org/wiki/Box_Office_Mojo "wikilink")
 
   - [X戰警電影網站](http://www.xmenfilms.net/)
 

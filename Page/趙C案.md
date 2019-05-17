@@ -1,12 +1,12 @@
-**趙C案**是[中國大陸於](../Page/中國大陸.md "wikilink")2006年因姓名問題導致發生換發身分證糾紛，已於2009年因和解而結束。
+**趙C案**是[中國大陸於](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")2006年因姓名問題導致發生換發身分證糾紛，已於2009年因和解而結束。
 
 ## 简介
 
-**趙C**，1986年7月18日出生，[中國](../Page/中國.md "wikilink")[江西](../Page/江西.md "wikilink")[鹰潭人](../Page/鹰潭.md "wikilink")，男性\[1\]。
+**趙C**，1986年7月18日出生，[中國](../Page/中國.md "wikilink")[江西](https://zh.wikipedia.org/wiki/江西 "wikilink")[鹰潭人](https://zh.wikipedia.org/wiki/鹰潭 "wikilink")，男性\[1\]。
 
-趙C是一名中國人，父亲赵志荣是一名律师，使用一個英文字母「[C](../Page/C.md "wikilink")」作为孩子的名字。这个名字一直受到相關部門許可\[2\]。2005年以此名字申請[第一代身份證成功](../Page/中华人民共和国居民身份证.md "wikilink")，但2006年8月，趙C欲換第二代身份證，卻遭有關部門拒絕\[3\]\[4\]。於是他決定於2009年1月狀告[鷹潭市公安局月湖分局](../Page/鷹潭市.md "wikilink")\[5\]，一审勝訴\[6\]\[7\]，但[公安局上訴](../Page/公安局.md "wikilink")。2009年2月27日法庭宣佈双方[庭外和解](../Page/庭外和解.md "wikilink")\[8\]，趙C決定改一個中文名字\[9\]。
+趙C是一名中國人，父亲赵志荣是一名律师，使用一個英文字母「[C](../Page/C.md "wikilink")」作为孩子的名字。这个名字一直受到相關部門許可\[2\]。2005年以此名字申請[第一代身份證成功](../Page/中华人民共和国居民身份证.md "wikilink")，但2006年8月，趙C欲換第二代身份證，卻遭有關部門拒絕\[3\]\[4\]。於是他決定於2009年1月狀告[鷹潭市公安局月湖分局](https://zh.wikipedia.org/wiki/鷹潭市 "wikilink")\[5\]，一审勝訴\[6\]\[7\]，但[公安局上訴](https://zh.wikipedia.org/wiki/公安局 "wikilink")。2009年2月27日法庭宣佈双方[庭外和解](https://zh.wikipedia.org/wiki/庭外和解 "wikilink")\[8\]，趙C決定改一個中文名字\[9\]。
 
-趙C的爸爸趙志榮表示為兒子取這名字是希望兒子學好[汉语的同时](../Page/汉语.md "wikilink")，也把[英文学好](../Page/英文.md "wikilink")。此外[中國的](../Page/中國.md "wikilink")[英語](../Page/英語.md "wikilink")“[China](../Page/China.md "wikilink")”的開首为C，而且以"C"开头的单词最多，寓意“人丁兴旺”，於是取名字"赵C"\[10\]\[11\]。
+趙C的爸爸趙志榮表示為兒子取這名字是希望兒子學好[汉语的同时](../Page/汉语.md "wikilink")，也把[英文学好](https://zh.wikipedia.org/wiki/英文 "wikilink")。此外[中國的](../Page/中國.md "wikilink")[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")“[China](https://zh.wikipedia.org/wiki/China "wikilink")”的開首为C，而且以"C"开头的单词最多，寓意“人丁兴旺”，於是取名字"赵C"\[10\]\[11\]。
 
 ## 相关
 

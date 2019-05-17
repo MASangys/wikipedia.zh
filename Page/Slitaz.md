@@ -9,8 +9,8 @@ marketing_target = Live CD | language = 多语种 | kernel_type =
 Tazpkg }}
 
 **Slitaz**
-是一个免费的[GNU](../Page/GNU.md "wikilink")/[Linux发行版](../Page/Linux发行版.md "wikilink")，它基于[Busybox](../Page/Busybox.md "wikilink")、Linux内核和GNU[自由软件](../Page/自由软件.md "wikilink")。
-它可以从[光盘或](../Page/光盘.md "wikilink")[USB设备加载](../Page/USB.md "wikilink")，完整地在内存中运行，也可以安装到硬盘中。Slitaz以LiveCD的形式发布，你可以把它刻录到光盘，并从光盘启动。系统运行时，你可以弹出CD，用[CD-ROM来进行其他工作](../Page/CD-ROM.md "wikilink")。LiveCD提供一个特色十足的、图形界面的发行版，可以保存你的数据和个人设置到其他设备中。这个系统可以通过Tazpkg软件包管理器添加软件来增加各种各样的功能，也可以用它升级系统来保持系统最新版本。
+是一个免费的[GNU](../Page/GNU.md "wikilink")/[Linux发行版](../Page/Linux发行版.md "wikilink")，它基于[Busybox](https://zh.wikipedia.org/wiki/Busybox "wikilink")、Linux内核和GNU[自由软件](../Page/自由软件.md "wikilink")。
+它可以从[光盘或](https://zh.wikipedia.org/wiki/光盘 "wikilink")[USB设备加载](../Page/USB.md "wikilink")，完整地在内存中运行，也可以安装到硬盘中。Slitaz以LiveCD的形式发布，你可以把它刻录到光盘，并从光盘启动。系统运行时，你可以弹出CD，用[CD-ROM来进行其他工作](../Page/CD-ROM.md "wikilink")。LiveCD提供一个特色十足的、图形界面的发行版，可以保存你的数据和个人设置到其他设备中。这个系统可以通过Tazpkg软件包管理器添加软件来增加各种各样的功能，也可以用它升级系统来保持系统最新版本。
 
 ## 介紹
 
@@ -20,7 +20,7 @@ Slitaz是制作一个完全运行在内存上、可安装在[硬盘上的](../Pa
 数据库， 急救工具，[IRC](../Page/IRC.md "wikilink")
 客户端，[SSH](../Page/Secure_Shell.md "wikilink") client/server， X
 图形界面， jwm窗口管理器，gFTP，Geany IDE，[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")，Alsaplayer，Gparted，声音编辑器等工具。
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，Alsaplayer，Gparted，声音编辑器等工具。
 
 容量一般維持在30MB之下(指ISO光盘镜像)、完全安装到硬盘上也只占用80MB左右的空间。
 

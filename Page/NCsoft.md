@@ -1,10 +1,10 @@
-**NCsoft**是[韩国的](../Page/韩国.md "wikilink")[网络游戏公司](../Page/网络游戏.md "wikilink")，成立于1997年3月11日，主要发展方向为[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。总部设在[首爾](../Page/首爾.md "wikilink")，於[美國](../Page/美國.md "wikilink")、[歐洲及](../Page/歐洲.md "wikilink")[亞洲多國皆有子公司與合資企業](../Page/亞洲.md "wikilink")\[1\]。同時擁有[韓國職棒](../Page/韓國職棒.md "wikilink")[NC恐龍](../Page/NC恐龍.md "wikilink")。
+**NCsoft**是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网络游戏公司](../Page/网络游戏.md "wikilink")，成立于1997年3月11日，主要发展方向为[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。总部设在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲多國皆有子公司與合資企業](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[1\]。同時擁有[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[NC恐龍](../Page/NC恐龍.md "wikilink")。
 
 ## 子公司
 
 NCsoft在[臺灣與](../Page/臺灣.md "wikilink")[遊戲橘子合資成立分公司為](../Page/遊戲橘子.md "wikilink")[吉恩立](../Page/吉恩立.md "wikilink")（NC
 Taiwan Co.,Ltd.、NC
-Taiwan、NCT），負責營運的遊戲有[天堂2](../Page/天堂2.md "wikilink")（LineageⅡ）、[永恆紀元](../Page/永恆紀元.md "wikilink")（Aion）、[劍靈](../Page/劍靈.md "wikilink")（Blade
+Taiwan、NCT），負責營運的遊戲有[天堂2](https://zh.wikipedia.org/wiki/天堂2 "wikilink")（LineageⅡ）、[永恆紀元](../Page/永恆紀元.md "wikilink")（Aion）、[劍靈](https://zh.wikipedia.org/wiki/劍靈 "wikilink")（Blade
 & Soul）。
 
 吉恩立（NC
@@ -18,41 +18,41 @@ NCsoftJapan與NCsoftEU/NA為NCsoft亞洲與歐美地區非下轄代理官方網�
 
 ### 開發中
 
-| 名稱                                        | 開發商                                                      | 類別  | 現狀        |
-| ----------------------------------------- | -------------------------------------------------------- | --- | --------- |
-| [荒野星球](../Page/荒野星球_\(遊戲\).md "wikilink") | [Carbine Studios](../Page/Carbine_Studios.md "wikilink") | MMO | 2014年6月3日 |
+| 名稱                                                           | 開發商                                                                         | 類別  | 現狀        |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------- | --- | --------- |
+| [荒野星球](https://zh.wikipedia.org/wiki/荒野星球_\(遊戲\) "wikilink") | [Carbine Studios](https://zh.wikipedia.org/wiki/Carbine_Studios "wikilink") | MMO | 2014年6月3日 |
 
 ### 營運中
 
-| 名稱                                          | 開發商                                        | 類別                                 | 現狀                                                                                                       |
-| ------------------------------------------- | ------------------------------------------ | ---------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [永恆紀元](../Page/永恆紀元.md "wikilink")          | NCsoft (Team Aion)                         | MMO                                | 2008年11月韓國公測，隨後在多國公測                                                                                     |
-| [劍靈](../Page/劍靈.md "wikilink")（韓國、中國、日本、台灣） | NCsoft                                     | MMO                                | 分別在2012年6月21日、2013年11月28日、2014年5月16日公測（其中中國服是公測兼正式運營開始，日本伺服器于5月20日開始收費，進入正式運營，台灣伺服器於8月28日進行CB、11月20日OB)。 |
-| [激戰](../Page/激戰_\(遊戲\).md "wikilink")       | [ArenaNet](../Page/ArenaNet.md "wikilink") | MMO                                | 2005年4月26日發佈                                                                                             |
-| [激戰2](../Page/激戰2.md "wikilink")            | [ArenaNet](../Page/ArenaNet.md "wikilink") | MMO                                | 2012年8月28日發佈                                                                                             |
-| [天堂](../Page/天堂_\(遊戲\).md "wikilink")       | NCsoft                                     | MMO                                | 1998年9月3日發佈                                                                                              |
-| [天堂2](../Page/天堂2.md "wikilink")            | NCsoft                                     | MMO                                | 2003年10月1日發佈                                                                                             |
-| 雀龍門                                         | NCSOFT Japan                               | [麻將](../Page/麻將.md "wikilink")     | 營運中                                                                                                      |
-| [魔法飛球](../Page/魔法飛球.md "wikilink")          | Ntreev Soft                                | 運動休閒                               | 2004年發佈                                                                                                  |
-| [戀愛節拍](../Page/戀愛節拍.md "wikilink")          | CrazyDiamond                               | [音樂遊戲](../Page/音樂遊戲.md "wikilink") | 在韓國及台灣發佈                                                                                                 |
-| Murim Jekook                                | Longtu Network Technology                  | [戰略遊戲](../Page/戰略遊戲.md "wikilink") | 在韓國發佈                                                                                                    |
-| Punch Monster                               | Next Play                                  | MMO                                | 在韓國發佈                                                                                                    |
-| 剑灵（美服）                                      | NCsoft                                     | MMO                                | 运行中                                                                                                      |
-| 剑灵（欧服）                                      | NCsoft                                     | MMO                                | 运行中                                                                                                      |
+| 名稱                                                             | 開發商                                        | 類別                                                    | 現狀                                                                                                       |
+| -------------------------------------------------------------- | ------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [永恆紀元](../Page/永恆紀元.md "wikilink")                             | NCsoft (Team Aion)                         | MMO                                                   | 2008年11月韓國公測，隨後在多國公測                                                                                     |
+| [劍靈](https://zh.wikipedia.org/wiki/劍靈 "wikilink")（韓國、中國、日本、台灣） | NCsoft                                     | MMO                                                   | 分別在2012年6月21日、2013年11月28日、2014年5月16日公測（其中中國服是公測兼正式運營開始，日本伺服器于5月20日開始收費，進入正式運營，台灣伺服器於8月28日進行CB、11月20日OB)。 |
+| [激戰](https://zh.wikipedia.org/wiki/激戰_\(遊戲\) "wikilink")       | [ArenaNet](../Page/ArenaNet.md "wikilink") | MMO                                                   | 2005年4月26日發佈                                                                                             |
+| [激戰2](https://zh.wikipedia.org/wiki/激戰2 "wikilink")            | [ArenaNet](../Page/ArenaNet.md "wikilink") | MMO                                                   | 2012年8月28日發佈                                                                                             |
+| [天堂](../Page/天堂_\(遊戲\).md "wikilink")                          | NCsoft                                     | MMO                                                   | 1998年9月3日發佈                                                                                              |
+| [天堂2](https://zh.wikipedia.org/wiki/天堂2 "wikilink")            | NCsoft                                     | MMO                                                   | 2003年10月1日發佈                                                                                             |
+| 雀龍門                                                            | NCSOFT Japan                               | [麻將](https://zh.wikipedia.org/wiki/麻將 "wikilink")     | 營運中                                                                                                      |
+| [魔法飛球](https://zh.wikipedia.org/wiki/魔法飛球 "wikilink")          | Ntreev Soft                                | 運動休閒                                                  | 2004年發佈                                                                                                  |
+| [戀愛節拍](https://zh.wikipedia.org/wiki/戀愛節拍 "wikilink")          | CrazyDiamond                               | [音樂遊戲](../Page/音樂遊戲.md "wikilink")                    | 在韓國及台灣發佈                                                                                                 |
+| Murim Jekook                                                   | Longtu Network Technology                  | [戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink") | 在韓國發佈                                                                                                    |
+| Punch Monster                                                  | Next Play                                  | MMO                                                   | 在韓國發佈                                                                                                    |
+| 剑灵（美服）                                                         | NCsoft                                     | MMO                                                   | 运行中                                                                                                      |
+| 剑灵（欧服）                                                         | NCsoft                                     | MMO                                                   | 运行中                                                                                                      |
 
 ### 結束營運
 
-| 名稱                                                       | 開發商                                                          | 類別         | 現狀              |
-| -------------------------------------------------------- | ------------------------------------------------------------ | ---------- | --------------- |
-| [Auto Assault](../Page/Auto_Assault.md "wikilink")       | [NetDevil](../Page/NetDevil.md "wikilink")                   | MMO        | 2007年8月31日結束營運  |
-| [Dungeon Runners](../Page/Dungeon_Runners.md "wikilink") | NCSOFT                                                       | MMO        | 2010年1月1日結束營運   |
-| [夢幻龍族傳說](../Page/夢幻龍族傳說.md "wikilink")（韓國伺服器）            | [重力公司](../Page/重力公司.md "wikilink")                           | Casual MMO | 2011年7月13日結束營運  |
-| [Exteel](../Page/Exteel.md "wikilink")                   | NCSOFT                                                       | 第三人稱射擊     | 2010年9月1日結束營運   |
-| [自由之心](../Page/自由之心.md "wikilink")（韓國伺服器）                | Zepetto                                                      | 第一人稱射擊     | 2011年7月13日結束營運  |
-| Tabula Rasa                                              | [Destination Games](../Page/Destination_Games.md "wikilink") | MMO        | 2009年2月28日結束營運  |
-| [英雄城市](../Page/英雄城市.md "wikilink")                       | [Paragon Studios](../Page/Paragon_Studios.md "wikilink")     | MMO        | 2012年11月30日結束營運 |
-| [天堂](../Page/天堂_\(遊戲\).md "wikilink")（北美伺服器）             | NCsoft                                                       | MMO        | 2011年6月29日結束營運  |
-| [卡巴拉島Online](../Page/卡巴拉島Online.md "wikilink")           | Ntreev Soft                                                  | MMO        | 2013年2月27日結束營運  |
+| 名稱                                                                          | 開發商                                                                             | 類別         | 現狀              |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------- | --------------- |
+| [Auto Assault](https://zh.wikipedia.org/wiki/Auto_Assault "wikilink")       | [NetDevil](https://zh.wikipedia.org/wiki/NetDevil "wikilink")                   | MMO        | 2007年8月31日結束營運  |
+| [Dungeon Runners](https://zh.wikipedia.org/wiki/Dungeon_Runners "wikilink") | NCSOFT                                                                          | MMO        | 2010年1月1日結束營運   |
+| [夢幻龍族傳說](../Page/夢幻龍族傳說.md "wikilink")（韓國伺服器）                               | [重力公司](https://zh.wikipedia.org/wiki/重力公司 "wikilink")                           | Casual MMO | 2011年7月13日結束營運  |
+| [Exteel](https://zh.wikipedia.org/wiki/Exteel "wikilink")                   | NCSOFT                                                                          | 第三人稱射擊     | 2010年9月1日結束營運   |
+| [自由之心](../Page/自由之心.md "wikilink")（韓國伺服器）                                   | Zepetto                                                                         | 第一人稱射擊     | 2011年7月13日結束營運  |
+| Tabula Rasa                                                                 | [Destination Games](https://zh.wikipedia.org/wiki/Destination_Games "wikilink") | MMO        | 2009年2月28日結束營運  |
+| [英雄城市](../Page/英雄城市.md "wikilink")                                          | [Paragon Studios](https://zh.wikipedia.org/wiki/Paragon_Studios "wikilink")     | MMO        | 2012年11月30日結束營運 |
+| [天堂](../Page/天堂_\(遊戲\).md "wikilink")（北美伺服器）                                | NCsoft                                                                          | MMO        | 2011年6月29日結束營運  |
+| [卡巴拉島Online](../Page/卡巴拉島Online.md "wikilink")                              | Ntreev Soft                                                                     | MMO        | 2013年2月27日結束營運  |
 
 ## 參見
 

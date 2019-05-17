@@ -1,4 +1,4 @@
-**乙酸锰(III)**或**三乙酸锰**是一个[无机化学试剂](../Page/无机化学.md "wikilink")，常态下为二水合物且一般带有一些[乙酸的气味](../Page/乙酸.md "wikilink")。其化学式为C<sub>6</sub>H<sub>9</sub>MnO<sub>6</sub><sup>.</sup>2(H<sub>2</sub>O)。无水乙酸锰(III)可以从乙酸溶液中[结晶析出](../Page/结晶.md "wikilink")，其结构与[乙酸铁类似](../Page/乙酸铁.md "wikilink")，为一个氧中心三体\[Mn<sub>3</sub>(μ<sup>3</sup>-O)(OAc)<sub>6</sub>(H<sub>2</sub>O)<sub>3</sub>\]OAc。\[1\]
+**乙酸锰(III)**或**三乙酸锰**是一个[无机化学试剂](../Page/无机化学.md "wikilink")，常态下为二水合物且一般带有一些[乙酸的气味](../Page/乙酸.md "wikilink")。其化学式为C<sub>6</sub>H<sub>9</sub>MnO<sub>6</sub><sup>.</sup>2(H<sub>2</sub>O)。无水乙酸锰(III)可以从乙酸溶液中[结晶析出](https://zh.wikipedia.org/wiki/结晶 "wikilink")，其结构与[乙酸铁类似](https://zh.wikipedia.org/wiki/乙酸铁 "wikilink")，为一个氧中心三体\[Mn<sub>3</sub>(μ<sup>3</sup>-O)(OAc)<sub>6</sub>(H<sub>2</sub>O)<sub>3</sub>\]OAc。\[1\]
 并带有一些桥状乙酸根。\[2\]乙酸锰(III)的制备通常是用[高锰酸钾和](../Page/高锰酸钾.md "wikilink")[乙酸锰(II)在乙酸溶液中反应](../Page/乙酸锰\(II\).md "wikilink")。\[3\]
 
 乙酸锰(III)也被用作一个单电子[氧化剂](../Page/氧化剂.md "wikilink")，可以氧化烯醇生成α'-乙酰氧基烯醇。\[4\]\[5\]

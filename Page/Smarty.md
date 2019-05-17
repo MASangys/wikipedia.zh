@@ -1,19 +1,19 @@
-**Smarty**是一個[PHP下的](../Page/PHP.md "wikilink")[網頁模板系統](../Page/網頁模板.md "wikilink")。Smarty基本上是一種為了將不同考量的事情分離而推出的工具，這對某些應用程式是一種共通性設計策略。\[1\]\[2\]
+**Smarty**是一個[PHP下的](../Page/PHP.md "wikilink")[網頁模板系統](https://zh.wikipedia.org/wiki/網頁模板 "wikilink")。Smarty基本上是一種為了將不同考量的事情分離而推出的工具，這對某些應用程式是一種共通性設計策略。\[1\]\[2\]
 
 ## 簡介
 
 Smarty以在文件中放置特殊的「Smarty標籤」來產生網頁內容。這些標籤會被處理並替換成其他的內容。
 
-標籤是給Smarty的指令符，以模板[定界符包住](../Page/定界符.md "wikilink")。這些指令符可以是[變數](../Page/變數.md "wikilink")，以$符號代表函數、[邏輯或](../Page/條件式語法.md "wikilink")
-[流程控制語法](../Page/流程控制.md "wikilink")。Smarty允許PHP程式設計師以Smarty標籤去定義可存取的函數。
+標籤是給Smarty的指令符，以模板[定界符包住](https://zh.wikipedia.org/wiki/定界符 "wikilink")。這些指令符可以是[變數](../Page/變數.md "wikilink")，以$符號代表函數、[邏輯或](https://zh.wikipedia.org/wiki/條件式語法 "wikilink")
+[流程控制語法](https://zh.wikipedia.org/wiki/流程控制 "wikilink")。Smarty允許PHP程式設計師以Smarty標籤去定義可存取的函數。
 
-Smarty意圖簡化[區域化](../Page/區域化.md "wikilink")，允許PHP網頁後端邏輯與表現層（即[使用者介面](../Page/使用者介面.md "wikilink")）分離。理想的情況下，這將降低軟體維護費用和人力。在這個研發策略之下，設計師可專注於實現表現層而不用撰寫PHP程式碼，並允許PHP程式設計師抽離出表現層並專注實現後端邏輯。
+Smarty意圖簡化[區域化](https://zh.wikipedia.org/wiki/區域化 "wikilink")，允許PHP網頁後端邏輯與表現層（即[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")）分離。理想的情況下，這將降低軟體維護費用和人力。在這個研發策略之下，設計師可專注於實現表現層而不用撰寫PHP程式碼，並允許PHP程式設計師抽離出表現層並專注實現後端邏輯。
 
 Smarty支援幾個高階模板程式的特性，包含：
 
-  - [正規表示法](../Page/正則表達式.md "wikilink")
-  - [流程控制語法](../Page/流程控制.md "wikilink")，如foreach、while。
-  - [if](../Page/Control_flow#Choice.md "wikilink")，elseif，else
+  - [正規表示法](https://zh.wikipedia.org/wiki/正則表達式 "wikilink")
+  - [流程控制語法](https://zh.wikipedia.org/wiki/流程控制 "wikilink")，如foreach、while。
+  - [if](https://zh.wikipedia.org/wiki/Control_flow#Choice "wikilink")，elseif，else
   - 可修改的變數 - 例如{$variable|nl2br}
   - 使用者自訂的函數
   - 在模板內的數學計算
@@ -82,7 +82,7 @@ header("Content-Type: $contentType; charset=utf-8");
 
 ## 參見
 
-  - [內容管理系統](../Page/內容管理系統.md "wikilink")
+  - [內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")
 
 ## 外部連結
 

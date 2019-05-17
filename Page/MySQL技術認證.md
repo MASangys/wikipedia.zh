@@ -1,7 +1,7 @@
 **MySQL技術認證** (MySQL Certification) 是 MySQL AB
 公司為其旗艦資料庫產品[MySQL設計的技術認證](../Page/MySQL.md "wikilink")\[1\]，持有此認證的考生會被視為具有足夠的
 MySQL
-操作與實務經驗，尤其是在目前[開放原始碼社群不斷強打](../Page/開放原始碼.md "wikilink")[LAMP系統架構下](../Page/LAMP.md "wikilink")，MySQL
+操作與實務經驗，尤其是在目前[開放原始碼社群不斷強打](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[LAMP系統架構下](../Page/LAMP.md "wikilink")，MySQL
 資料庫實已佔有十分重要的地位，而在開放原始碼社群中，具有客觀公正評量方法的技術或軟體十分少見，因此 MySQL 的認證更具有其參考價值。
 
 MySQL 認證自 MySQL 4.x（2005年）時開始開放考試\[2\]，當時 MySQL 認證分為 Core 和 Professional
@@ -70,10 +70,11 @@ MySQL 在 Core 與 Professional 認證停止考試後，亦提供了升級考試
 
 ## 考試方式與報名
 
-MySQL 技術認證由[Pearson VUE提供考試](../Page/Pearson_VUE.md "wikilink")（初期時由
-[Prometric](../Page/Prometric.md "wikilink") 和 Pearson VUE
-一起提供），採電腦筆試制，題型為選擇題（單選或複選）\[3\]，每科的考試費用為 200
-美元，考生需要先向 Pearson VUE 註冊報名後，再到 VUE 的授權考試中心考試。
+MySQL 技術認證由[Pearson
+VUE提供考試](https://zh.wikipedia.org/wiki/Pearson_VUE "wikilink")（初期時由
+[Prometric](https://zh.wikipedia.org/wiki/Prometric "wikilink") 和
+Pearson VUE 一起提供），採電腦筆試制，題型為選擇題（單選或複選）\[3\]，每科的考試費用為 200 美元，考生需要先向
+Pearson VUE 註冊報名後，再到 VUE 的授權考試中心考試。
 
 考試是否通過將在考試結束後立刻得知，通過考試的考生，在 8 個工作天左右後會登錄在 MySQL 認證網站，並開始享有 MySQL
 認證所提供的獎勵。

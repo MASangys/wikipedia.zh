@@ -3,7 +3,7 @@
 [Dsc_shatin_shop_furnitureedited.jpg](https://zh.wikipedia.org/wiki/File:Dsc_shatin_shop_furnitureedited.jpg "fig:Dsc_shatin_shop_furnitureedited.jpg")
 
 **DSC德爾斯**（1997年－2015年8月3日），原名**DSC直銷中心**（**Direct Sale
-Centre**），1997年由[許明順博士創立](../Page/許明順.md "wikilink")，是[香港一站式](../Page/香港.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")。DSC曾開設達18間分店，聘用約900位[職員](../Page/職員.md "wikilink")\[1\]，主要銷售[傢俬](../Page/傢俬.md "wikilink")、櫥櫃、[日用品](../Page/日用品.md "wikilink")、[電器及電子產品等](../Page/電器.md "wikilink")[商品](../Page/商品.md "wikilink")，並曾邀請藝人[王賢誌及](../Page/王賢誌.md "wikilink")[馬國明任代言人](../Page/馬國明.md "wikilink")。到2015年8月3日，公司指由於經營困難，集團財政於2012至14年出現重大問題，所以董事會通過決議，正式結束營業，所有員工同日被遣散。
+Centre**），1997年由[許明順博士創立](https://zh.wikipedia.org/wiki/許明順 "wikilink")，是[香港一站式](../Page/香港.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")。DSC曾開設達18間分店，聘用約900位[職員](https://zh.wikipedia.org/wiki/職員 "wikilink")\[1\]，主要銷售[傢俬](https://zh.wikipedia.org/wiki/傢俬 "wikilink")、櫥櫃、[日用品](../Page/日用品.md "wikilink")、[電器及電子產品等](https://zh.wikipedia.org/wiki/電器 "wikilink")[商品](../Page/商品.md "wikilink")，並曾邀請藝人[王賢誌及](../Page/王賢誌.md "wikilink")[馬國明任代言人](https://zh.wikipedia.org/wiki/馬國明 "wikilink")。到2015年8月3日，公司指由於經營困難，集團財政於2012至14年出現重大問題，所以董事會通過決議，正式結束營業，所有員工同日被遣散。
 
 ## 運作模式
 
@@ -14,9 +14,9 @@ Centre**），1997年由[許明順博士創立](../Page/許明順.md "wikilink")
   - 1997年，許明順看準市場機會，年投資近十萬[港元成立DSC直銷中心](../Page/港元.md "wikilink")，樓上舖佔地僅有600平方呎。當時員工只有許明順及其妻連惠賢。
   - 2009年，改名為DSC德爾斯，並成立VIP送貨車隊。
   - 2010年，引入日本保健按摩椅、專業驗配眼鏡。
-  - 2010年3月22日，登記成立[直銷中心有限公司](../Page/直銷中心有限公司.md "wikilink")（Direct
+  - 2010年3月22日，登記成立[直銷中心有限公司](https://zh.wikipedia.org/wiki/直銷中心有限公司 "wikilink")（Direct
     Sale Centre Limited），公司註冊編號1433823。
-  - 2014年，在觀塘[apm首間DSC](../Page/apm_\(香港\).md "wikilink")
+  - 2014年，在觀塘[apm首間DSC](https://zh.wikipedia.org/wiki/apm_\(香港\) "wikilink")
     Lifestyle，除銷售平中價傢俬及電器外，還加入精品、飾品、家居設計的陳列室，貨品價錢一樣與其他DSC店一致，另加設飾品精品，韓國化妝品及日本食品開倉發售。
   - 2015年8月3日，因財政問題宣佈全線結業，關閉全港14間分店。
 
@@ -32,7 +32,7 @@ Centre**），1997年由[許明順博士創立](../Page/許明順.md "wikilink")
 
 ### 逼員工夾錢維修扶手電梯
 
-2010年1月，德爾斯位於[屯門的分店](../Page/屯門.md "wikilink")，早前一部扶手電梯損壞，公司要求員工自行承擔9,000多元維修費，約16名員工被公司分期扣款，每人500多元。員工直指公司做法荒謬。員工透露，該店2009年也曾發生[冷氣機損壞](../Page/冷氣機.md "wikilink")，而要求員工夾錢維修，當時員工反應激烈，公司最終沒有追收。DSC回應媒體查詢時承認做法不當，答應會準備向員工退回已扣款項。[勞工處發言人表示](../Page/勞工處.md "wikilink")，由於DSC是要求員工真金白銀夾錢，分期繳付維修費，並非扣薪，故不受《[僱傭條例](../Page/僱傭條例.md "wikilink")》規管。\[3\]
+2010年1月，德爾斯位於[屯門的分店](../Page/屯門.md "wikilink")，早前一部扶手電梯損壞，公司要求員工自行承擔9,000多元維修費，約16名員工被公司分期扣款，每人500多元。員工直指公司做法荒謬。員工透露，該店2009年也曾發生[冷氣機損壞](https://zh.wikipedia.org/wiki/冷氣機 "wikilink")，而要求員工夾錢維修，當時員工反應激烈，公司最終沒有追收。DSC回應媒體查詢時承認做法不當，答應會準備向員工退回已扣款項。[勞工處發言人表示](../Page/勞工處.md "wikilink")，由於DSC是要求員工真金白銀夾錢，分期繳付維修費，並非扣薪，故不受《[僱傭條例](../Page/僱傭條例.md "wikilink")》規管。\[3\]
 
 ### 被指拖欠數十萬外判運輸費
 
@@ -46,11 +46,11 @@ Centre**），1997年由[許明順博士創立](../Page/許明順.md "wikilink")
 [Notice_of_appointment_of_provisional_liquidators_of_DSC_Holdings.jpg](https://zh.wikipedia.org/wiki/File:Notice_of_appointment_of_provisional_liquidators_of_DSC_Holdings.jpg "fig:Notice_of_appointment_of_provisional_liquidators_of_DSC_Holdings.jpg")香港的廖耀強及閻正為於2015年8月14日獲高等法院委任為德爾斯的臨時清盤人\]\]
 2015年7月21日，德爾斯位於[香港仔](../Page/香港仔.md "wikilink")[添喜大廈的分店](../Page/添喜大廈.md "wikilink")，其業主入稟高等法院，指公司於2008至2009年簽下租約，以月租25萬至28萬元出租添喜大廈2至3樓單位及相關的廣告位置予對方，租約於2015年11月到期。惟德爾斯控股有限公司自2015年6月起欠租及雜費共逾67.5萬元。原告現要求被告即時清還，以及收回舖位和廣告位。\[5\]
 
-到7月27日，[執達主任到過香港仔分店後](../Page/執達主任.md "wikilink")，引發DSC全線分店下午出現「搶貨潮」。屯門、北角，上水，沙田、旺角及九龍灣的DSC分店均人頭湧湧，大批顧客在店內掃貨，不少陳列架空空如也。其中，旺角始創分店貼上「搬倉激減」的廣告，指貨品減至最低1折，收銀機前大排長龍。由於是全線大特價，所有貨品均只收現金。\[6\]
+到7月27日，[執達主任到過香港仔分店後](https://zh.wikipedia.org/wiki/執達主任 "wikilink")，引發DSC全線分店下午出現「搶貨潮」。屯門、北角，上水，沙田、旺角及九龍灣的DSC分店均人頭湧湧，大批顧客在店內掃貨，不少陳列架空空如也。其中，旺角始創分店貼上「搬倉激減」的廣告，指貨品減至最低1折，收銀機前大排長龍。由於是全線大特價，所有貨品均只收現金。\[6\]
 
-而觀塘[apm分店已落閘](../Page/apm.md "wikilink")，店外張貼出「裝修工程中，延遲開舖」的啓事。
+而觀塘[apm分店已落閘](https://zh.wikipedia.org/wiki/apm "wikilink")，店外張貼出「裝修工程中，延遲開舖」的啓事。
 
-到7月30日，[新屯門中心及沙田](../Page/新屯門中心.md "wikilink")[連城廣場分店的業主港鐵](../Page/連城廣場.md "wikilink")，亦入稟高等法院，追討德爾斯自今年6月開始，拖欠的租金連雜費分別逾44萬元及228萬，並要求德爾斯繳付利息及收舖。\[7\]
+到7月30日，[新屯門中心及沙田](../Page/新屯門中心.md "wikilink")[連城廣場分店的業主港鐵](https://zh.wikipedia.org/wiki/連城廣場 "wikilink")，亦入稟高等法院，追討德爾斯自今年6月開始，拖欠的租金連雜費分別逾44萬元及228萬，並要求德爾斯繳付利息及收舖。\[7\]
 
 製作公司海滴工作室於8月5日入稟區域法院，向德爾斯追討2014年10月至2015年2月，六筆約共9.5萬多元貨款。\[8\]
 
@@ -61,9 +61,9 @@ Centre**），1997年由[許明順博士創立](../Page/許明順.md "wikilink")
 
 截至8月6日，消委會共收到498宗投訴DSC結業的投訴，主要涉及已付款但未能收貨。而一名中年男子到[將軍澳](../Page/將軍澳.md "wikilink")[新都城第](../Page/新都城.md "wikilink")3期DSC門市追討貨物不果，情緒激動揮鐵鎚擊毀大門被捕。另有女顧客稱付了逾萬元買梳化未獲送貨，日前追問職員時，對方竟要她多付7,000元才確保送貨。\[11\]
 
-海關亦收到最少59宗懷疑涉及不良營商手法投訴，先後派員到觀塘[apm商場的分店及辦公室調查](../Page/apm.md "wikilink")。警方亦都接獲有市民報案，懷疑德爾斯明知沒有貨提供，但仍然收錢，已經交由商業罪案調查科，接手調查是否涉及欺詐成分。
+海關亦收到最少59宗懷疑涉及不良營商手法投訴，先後派員到觀塘[apm商場的分店及辦公室調查](https://zh.wikipedia.org/wiki/apm "wikilink")。警方亦都接獲有市民報案，懷疑德爾斯明知沒有貨提供，但仍然收錢，已經交由商業罪案調查科，接手調查是否涉及欺詐成分。
 
-許明順全家於8月2日晚已搬離[喇沙利道寓所](../Page/喇沙利道.md "wikilink")，但露台燈昨仍亮着。至8月6日，警方通緝創辦人許明順夫婦。\[12\]
+許明順全家於8月2日晚已搬離[喇沙利道寓所](https://zh.wikipedia.org/wiki/喇沙利道 "wikilink")，但露台燈昨仍亮着。至8月6日，警方通緝創辦人許明順夫婦。\[12\]
 
 2015年8月14日，許明順夫婦入稟高等法院，申請自行將**德爾斯控股有限公司**（DSC Holdings Limited）、**DSC
 Administration

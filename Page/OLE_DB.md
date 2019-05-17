@@ -1,13 +1,13 @@
 **OLE DB**（*Object Linking and Embedding,
-Database*，对象链接嵌入数据库，有时亦写作**OLEDB**或**OLE-DB**）是[微软为以统一方式访问不同类型的数据存储设计的一种](../Page/微软.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，是一组用[组件对象模型（COM）实现的接口](../Page/组件对象模型.md "wikilink")，而与[对象连接与嵌入（OLE）无关](../Page/对象连接与嵌入.md "wikilink")。它被设计成为[ODBC的一种高级替代者和继承者](../Page/ODBC.md "wikilink")，把它的功能扩展到支持更多种类的非关系型数据库，例如可能不支持[SQL的](../Page/SQL.md "wikilink")[对象数据库和电子表格](../Page/对象数据库.md "wikilink")（如[Excel](../Page/Excel.md "wikilink")）。
+Database*，对象链接嵌入数据库，有时亦写作**OLEDB**或**OLE-DB**）是[微软为以统一方式访问不同类型的数据存储设计的一种](../Page/微软.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，是一组用[组件对象模型（COM）实现的接口](../Page/组件对象模型.md "wikilink")，而与[对象连接与嵌入（OLE）无关](https://zh.wikipedia.org/wiki/对象连接与嵌入 "wikilink")。它被设计成为[ODBC的一种高级替代者和继承者](../Page/ODBC.md "wikilink")，把它的功能扩展到支持更多种类的非关系型数据库，例如可能不支持[SQL的](../Page/SQL.md "wikilink")[对象数据库和电子表格](../Page/对象数据库.md "wikilink")（如[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")）。
 
 OLE
 DB用一组抽象概念（包括数据源、会话、命令和行集）将数据的存储从需要访问数据的应用中分离出来。这是因为不同的应用需要访问不同数据类型和数据源，但是并不需要了解具体如何使用特定技术的方法访问这些数据。OLE
 DB在概念上分为了*消费者*和*提供者*。消费者是那些需要访问数据的应用程序，提供者是实现了那些接口并将数据提供给消费者的软件组件。**OLE
-DB是[微软数据访问组件（MDAC）的一部分](../Page/微软数据访问组件.md "wikilink")**。[MDAC是一组微软技术](../Page/MDAC.md "wikilink")，以框架的方式相互作用，为程序员开发访问几乎任何数据存储提供了一个统一并全面的方法。OLE
+DB是[微软数据访问组件（MDAC）的一部分](https://zh.wikipedia.org/wiki/微软数据访问组件 "wikilink")**。[MDAC是一组微软技术](https://zh.wikipedia.org/wiki/MDAC "wikilink")，以框架的方式相互作用，为程序员开发访问几乎任何数据存储提供了一个统一并全面的方法。OLE
 DB的提供者可以用于提供像[文本文件和电子表格一样简单的数据存储的访问](../Page/文本文件.md "wikilink")，也可以提供像[Oracle](../Page/甲骨文公司.md "wikilink")、[SQL
-Server和](../Page/Microsoft_SQL_Server.md "wikilink")[Sybase
-ASE一样复杂的数据库的访问](../Page/Adaptive_Server_Enterprise.md "wikilink")。OLE
+Server和](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Sybase
+ASE一样复杂的数据库的访问](https://zh.wikipedia.org/wiki/Adaptive_Server_Enterprise "wikilink")。OLE
 DB同样可以提供对层次类型的数据存储（如电子邮件系统）的访问。
 
 另一方面，由于不同的数据存储技术可能具有不同的能力，OLE DB提供者不需要实现OLE DB中每一个接口。通过使用COM对象实现可用的能力 -
@@ -17,9 +17,10 @@ DB提供者将把数据存储技术的功能映射到特定的COM接口上。当
 
 ## 常見的OLE DB Provider
 
-  - [SQL Server](../Page/SQL_Server.md "wikilink") OLE DB Provider，以SQL
-    Server為主的OLE DB資料提供者。
-  - [Microsoft Jet](../Page/Microsoft_Jet_Database_Engine.md "wikilink")
+  - [SQL Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")
+    OLE DB Provider，以SQL Server為主的OLE DB資料提供者。
+  - [Microsoft
+    Jet](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine "wikilink")
     OLE DB Provider，以Access, Excel, dBase等檔案型資料庫為主的OLE DB資料提供者。
   - OLE DB Provider for Internet Publishing，支援WebDAV（Web Distributed
     Authoring and Versioning）發布的OLE DB資料提供者。
@@ -42,7 +43,7 @@ DB提供者将把数据存储技术的功能映射到特定的COM接口上。当
 
 ## OLE DB产品提供者
 
-  - [Microsoft](http://msdn.microsoft.com/data/)随MDAC和[JET工具包推出了一些OLE](../Page/Jet_Database_Engine.md "wikilink")
+  - [Microsoft](http://msdn.microsoft.com/data/)随MDAC和[JET工具包推出了一些OLE](https://zh.wikipedia.org/wiki/Jet_Database_Engine "wikilink")
     DB提供者
   - [Simba技术公司](http://www.simba.com/)推出了SimbaProvider，一个软件开发套件（SDK），用于建造自定义OLE提供者，通过OLAP访问多维数据库和星形数据库。
   - [OpenLink
@@ -54,7 +55,7 @@ DB提供者将把数据存储技术的功能映射到特定的COM接口上。当
 
 ## OLE DB的连接串的示例
 
-对[SQL Server](../Page/SQL_Server.md "wikilink")：
+对[SQL Server](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")：
 
 `connstr="PROVIDER=SQLOLEDB;DATA SOURCE=servername;UID=xyz;PWD=xxx;DATABASE=dbname"`
 

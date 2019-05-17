@@ -8,7 +8,7 @@ DISTANCE**》（最後距離）是[宇多田光於](../Page/宇多田光.md "wik
     DISTANCE》。
   - 本單曲亦再次收錄原版本《[DISTANCE](../Page/Distance.md "wikilink")》及其混音版本。
   - 本作發行後，宇多田光單曲總銷量正式突破1000萬張，距離其出道歷時僅2年8個月。
-  - 歌曲的[音樂錄像帶由其前夫](../Page/音樂錄像帶.md "wikilink")[紀里谷和明](../Page/紀里谷和明.md "wikilink")（當時還沒結婚）拍攝，為他首次拍攝宇多田光的音樂錄像帶。
+  - 歌曲的[音樂錄像帶由其前夫](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")[紀里谷和明](../Page/紀里谷和明.md "wikilink")（當時還沒結婚）拍攝，為他首次拍攝宇多田光的音樂錄像帶。
 
 ## 紀念
 

@@ -1,7 +1,8 @@
 **Active Directory Service Interface** (ADSI) 是一組植基於
-[COM](../Page/COM.md "wikilink") 技術上的應用程式開發介面，程式開發人員可以利用這些介面來連接並存取
+[COM](https://zh.wikipedia.org/wiki/COM "wikilink")
+技術上的應用程式開發介面，程式開發人員可以利用這些介面來連接並存取
 [Active
-Directory](../Page/Active_Directory.md "wikilink")，並執行查詢，更新或刪除等管理功能，ADSI同時可支援以[LDAP](../Page/LDAP.md "wikilink")（輕量級目錄存取協定）為主的目錄服務（例如Novell
+Directory](../Page/Active_Directory.md "wikilink")，並執行查詢，更新或刪除等管理功能，ADSI同時可支援以[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")（輕量級目錄存取協定）為主的目錄服務（例如Novell
 Directory Service），以及以 Windows NT 網域為主所組成的 WinNT 網域目錄。
 
 ## 介面結構
@@ -114,8 +115,10 @@ hr = ADsOpenObject(L"LDAP://CN=Jeff,DC=Fabrikam,DC=com",
 
 ### .NET Framework 原生介面
 
-在 [.NET Framework](../Page/.NET_Framework.md "wikilink") 中，另外提供了一個 .NET
-專用的 ADSI 介面程式庫 System.DirectoryService.dll，程式開發人員可以加入此程式庫的參考來取得 ADSI
+在 [.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+中，另外提供了一個 .NET 專用的 ADSI 介面程式庫
+System.DirectoryService.dll，程式開發人員可以加入此程式庫的參考來取得 ADSI
 的功能，在這個原生類別庫中，封裝了兩個類別，作為存取 Active Directory 的入口之用。
 
   - **DirectoryEntry**：此類別封裝了 IADs 以及 IADsContainer 等原生介面，用來存取 Active

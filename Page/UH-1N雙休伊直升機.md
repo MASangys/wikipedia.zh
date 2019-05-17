@@ -1,22 +1,22 @@
-**[貝爾UH](../Page/贝尔直升机公司.md "wikilink")-1N Twin
-Huey**（UH-1N雙休伊）是在1968年推出的中型軍用[直升機](../Page/直升機.md "wikilink")，UH-1N具有15個座位，包括1名飛行員及14名乘客，而執行運輸任務時內部容量達220平方尺（6.23平方米），外力負載可達5000磅（2268公斤）。
+**[貝爾UH](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")-1N Twin
+Huey**（UH-1N雙休伊）是在1968年推出的中型軍用[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，UH-1N具有15個座位，包括1名飛行員及14名乘客，而執行運輸任務時內部容量達220平方尺（6.23平方米），外力負載可達5000磅（2268公斤）。
 
 ## 設計及裝備
 
-[UH-1N-2.jpg](https://zh.wikipedia.org/wiki/File:UH-1N-2.jpg "fig:UH-1N-2.jpg")[佛羅里達州](../Page/佛羅里達州.md "wikilink")，1982年\]\]
-UH-1N（貝爾212）是基於[貝爾205機體改良衍生而成](../Page/貝爾204/205直升機.md "wikilink")，貝爾212原本以“**CUH-1N**”的名字服役[加拿大軍隊](../Page/加拿大軍隊.md "wikilink")，後來改名為“**CH-135**”。最初加拿大軍隊購入了50架，後來又增購20架，同時[美軍亦購入了](../Page/美軍.md "wikilink")141架貝爾212並命名“**UH-1N**”。
+[UH-1N-2.jpg](https://zh.wikipedia.org/wiki/File:UH-1N-2.jpg "fig:UH-1N-2.jpg")[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")，1982年\]\]
+UH-1N（貝爾212）是基於[貝爾205機體改良衍生而成](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")，貝爾212原本以“**CUH-1N**”的名字服役[加拿大軍隊](../Page/加拿大軍隊.md "wikilink")，後來改名為“**CH-135**”。最初加拿大軍隊購入了50架，後來又增購20架，同時[美軍亦購入了](https://zh.wikipedia.org/wiki/美軍 "wikilink")141架貝爾212並命名“**UH-1N**”。
 
-UH-1N主旋翼由兩個[加拿大普惠PT6T-3渦輪軸發動機的推動](../Page/加拿大普惠PT6.md "wikilink")，推進力共達1,800軸馬力，若其中一個發動機失效時在30分鐘內仍具有一半推進力（900軸馬力）或765軸馬力（最大重量負載）飛行。
+UH-1N主旋翼由兩個[加拿大普惠PT6T-3渦輪軸發動機的推動](https://zh.wikipedia.org/wiki/加拿大普惠PT6 "wikilink")，推進力共達1,800軸馬力，若其中一個發動機失效時在30分鐘內仍具有一半推進力（900軸馬力）或765軸馬力（最大重量負載）飛行。
 
-[美國海軍陸戰隊修改了他們大部分UH](../Page/美國海軍陸戰隊.md "wikilink")-1N，加裝增穩定加控制系統（Stability
+[美國海軍陸戰隊修改了他們大部分UH](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")-1N，加裝增穩定加控制系統（Stability
 Control Augmentation System -SCAS），此系統移除了主旋翼頂部迴轉儀的穩定桿，改為電腦控制。
 
-**[貝爾412](../Page/貝爾412.md "wikilink")**是貝爾212的改良型，改為四槳複合材料主旋翼系統。
+**[貝爾412](https://zh.wikipedia.org/wiki/貝爾412 "wikilink")**是貝爾212的改良型，改為四槳複合材料主旋翼系統。
 
 ## 著名事件
 
 1972年3月6日，美國海軍南極開發六隊（VXE-6）的Hendrick V.
-Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[南極洲跳傘的世界紀錄](../Page/南極洲.md "wikilink")。
+Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[南極洲跳傘的世界紀錄](https://zh.wikipedia.org/wiki/南極洲 "wikilink")。
 
 ## 形號
 
@@ -32,12 +32,12 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
   - HH-1N
     空中搜索與救援任務（SAR）型
   - [UH-1Y](../Page/UH-1Y毒液直升機.md "wikilink")
-    海軍陸戰隊由UH-1N升級而成的版本，實質上類似[AH-1W升級至AH](../Page/AH-1.md "wikilink")-1Z計劃的性質。
+    海軍陸戰隊由UH-1N升級而成的版本，實質上類似[AH-1W升級至AH](https://zh.wikipedia.org/wiki/AH-1 "wikilink")-1Z計劃的性質。
 
 ### 其他
 
   - 奧斯塔-貝爾212 (Agusta-Bell AB 212)
-    軍民通用運輸直升機版本，由[義大利](../Page/義大利.md "wikilink")[奧斯塔](../Page/奧斯塔.md "wikilink")（Agusta）特許生產。
+    軍民通用運輸直升機版本，由[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[奧斯塔](https://zh.wikipedia.org/wiki/奧斯塔 "wikilink")（Agusta）特許生產。
   - 奧斯塔-貝爾212ASW (Agusta-Bell AB 212ASW)
     奧斯塔-貝爾212的反潛／水面作戰直升機版本，裝備義大利海軍、希臘海軍及伊朗海軍。
   - CH-135 Twin Huey
@@ -67,7 +67,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 <!-- end list -->
 
   - [阿根廷空軍](../Page/阿根廷空軍.md "wikilink")（貝爾212）
-  - [阿根廷陸軍](../Page/阿根廷陸軍.md "wikilink")（貝爾212）
+  - [阿根廷陸軍](https://zh.wikipedia.org/wiki/阿根廷陸軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [奧地利空軍](../Page/奧地利空軍.md "wikilink")（奧斯塔-貝爾212、貝爾212）
+  - [奧地利空軍](https://zh.wikipedia.org/wiki/奧地利空軍 "wikilink")（奧斯塔-貝爾212、貝爾212）
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [孟加拉空軍](../Page/孟加拉空軍.md "wikilink")（貝爾212）
+  - [孟加拉空軍](https://zh.wikipedia.org/wiki/孟加拉空軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [玻利維亞空軍](../Page/玻利維亞空軍.md "wikilink")（貝爾212）
+  - [玻利維亞空軍](https://zh.wikipedia.org/wiki/玻利維亞空軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [巴林皇家空軍](../Page/巴林皇家空軍.md "wikilink")
+  - [巴林皇家空軍](https://zh.wikipedia.org/wiki/巴林皇家空軍 "wikilink")
 
 <!-- end list -->
 
@@ -108,7 +108,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 <!-- end list -->
 
   - [加拿大軍隊](../Page/加拿大軍隊.md "wikilink")（CH-135）
-  - [加拿大海岸警衛隊](../Page/加拿大海岸警衛隊.md "wikilink")（貝爾212）
+  - [加拿大海岸警衛隊](https://zh.wikipedia.org/wiki/加拿大海岸警衛隊 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -116,7 +116,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [智利空軍](../Page/智利空軍.md "wikilink")（貝爾212）
+  - [智利空軍](https://zh.wikipedia.org/wiki/智利空軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -124,10 +124,10 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [哥倫比亞空軍](../Page/哥倫比亞空軍.md "wikilink")（奧斯塔-貝爾212）
-  - [哥倫比亞陸軍](../Page/哥倫比亞陸軍.md "wikilink")（UH-1N）
-  - [哥倫比亞海軍](../Page/哥倫比亞海軍.md "wikilink")（貝爾212）
-  - [哥倫比亞警察](../Page/哥倫比亞警察.md "wikilink")（貝爾212）
+  - [哥倫比亞空軍](https://zh.wikipedia.org/wiki/哥倫比亞空軍 "wikilink")（奧斯塔-貝爾212）
+  - [哥倫比亞陸軍](https://zh.wikipedia.org/wiki/哥倫比亞陸軍 "wikilink")（UH-1N）
+  - [哥倫比亞海軍](https://zh.wikipedia.org/wiki/哥倫比亞海軍 "wikilink")（貝爾212）
+  - [哥倫比亞警察](https://zh.wikipedia.org/wiki/哥倫比亞警察 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -139,7 +139,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [厄瓜多爾警察](../Page/厄瓜多爾警察.md "wikilink")（貝爾212）
+  - [厄瓜多爾警察](https://zh.wikipedia.org/wiki/厄瓜多爾警察 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -163,9 +163,9 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [希臘空軍](../Page/希臘空軍.md "wikilink")（貝爾212）
-  - [希臘陸軍](../Page/希臘陸軍.md "wikilink")（貝爾212）
-  - [希臘海軍](../Page/希臘海軍.md "wikilink")（貝爾212ASW/EW）
+  - [希臘空軍](https://zh.wikipedia.org/wiki/希臘空軍 "wikilink")（貝爾212）
+  - [希臘陸軍](https://zh.wikipedia.org/wiki/希臘陸軍 "wikilink")（貝爾212）
+  - [希臘海軍](https://zh.wikipedia.org/wiki/希臘海軍 "wikilink")（貝爾212ASW/EW）
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [以色列空軍](../Page/以色列空軍.md "wikilink")
+  - [以色列空軍](https://zh.wikipedia.org/wiki/以色列空軍 "wikilink")
 
 <!-- end list -->
 
@@ -201,9 +201,10 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [義大利空軍](../Page/義大利空軍.md "wikilink")（奧斯塔-貝爾212）
-  - [義大利海軍](../Page/義大利海軍.md "wikilink")（奧斯塔-貝爾212ASW）
-  - [義大利警察（Polizia di Stato）](../Page/義大利警察.md "wikilink")（奧斯塔-貝爾212）
+  - [義大利空軍](https://zh.wikipedia.org/wiki/義大利空軍 "wikilink")（奧斯塔-貝爾212）
+  - [義大利海軍](https://zh.wikipedia.org/wiki/義大利海軍 "wikilink")（奧斯塔-貝爾212ASW）
+  - [義大利警察（Polizia di
+    Stato）](https://zh.wikipedia.org/wiki/義大利警察 "wikilink")（奧斯塔-貝爾212）
 
 <!-- end list -->
 
@@ -211,7 +212,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [牙買加國防軍](../Page/牙買加國防軍.md "wikilink")（貝爾212）
+  - [牙買加國防軍](https://zh.wikipedia.org/wiki/牙買加國防軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -259,7 +260,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [沙地阿拉伯皇家空軍](../Page/沙地阿拉伯皇家空軍.md "wikilink")（奧斯塔-貝爾212）
+  - [沙地阿拉伯皇家空軍](https://zh.wikipedia.org/wiki/沙地阿拉伯皇家空軍 "wikilink")（奧斯塔-貝爾212）
 
 <!-- end list -->
 
@@ -267,15 +268,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [塞爾維亞警察](../Page/塞爾維亞警察.md "wikilink")
-
-<!-- end list -->
-
-  - ：
-
-<!-- end list -->
-
-  - ：
+  - [塞爾維亞警察](https://zh.wikipedia.org/wiki/塞爾維亞警察 "wikilink")
 
 <!-- end list -->
 
@@ -287,7 +280,15 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [西班牙陸軍](../Page/西班牙陸軍.md "wikilink")（奧斯塔-貝爾212）
+  - ：
+
+<!-- end list -->
+
+  - ：
+
+<!-- end list -->
+
+  - [西班牙陸軍](https://zh.wikipedia.org/wiki/西班牙陸軍 "wikilink")（奧斯塔-貝爾212）
   - [西班牙海軍](../Page/西班牙海軍.md "wikilink")（奧斯塔-貝爾212ASW）
 
 <!-- end list -->
@@ -296,7 +297,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [斯里蘭卡空軍](../Page/斯里蘭卡空軍.md "wikilink")（貝爾212）
+  - [斯里蘭卡空軍](https://zh.wikipedia.org/wiki/斯里蘭卡空軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -309,7 +310,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 <!-- end list -->
 
   - [泰國皇家陸軍](../Page/泰國皇家陸軍.md "wikilink")
-  - [泰國皇家海軍](../Page/泰國皇家海軍.md "wikilink")（貝爾212）
+  - [泰國皇家海軍](https://zh.wikipedia.org/wiki/泰國皇家海軍 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -321,8 +322,8 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [土耳其陸軍](../Page/土耳其陸軍.md "wikilink")（奧斯塔-貝爾212）
-  - [土耳其海軍](../Page/土耳其海軍.md "wikilink")（奧斯塔-貝爾212ASW）
+  - [土耳其陸軍](https://zh.wikipedia.org/wiki/土耳其陸軍 "wikilink")（奧斯塔-貝爾212）
+  - [土耳其海軍](https://zh.wikipedia.org/wiki/土耳其海軍 "wikilink")（奧斯塔-貝爾212ASW）
 
 <!-- end list -->
 
@@ -338,7 +339,7 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [英國陸軍航空隊](../Page/英國陸軍航空隊.md "wikilink")（貝爾212）
+  - [英國陸軍航空隊](https://zh.wikipedia.org/wiki/英國陸軍航空隊 "wikilink")（貝爾212）
 
 <!-- end list -->
 
@@ -346,8 +347,8 @@ Gorick從20,500尺（6,248米）高空飛行中的UH-1N跳傘，並成為了在[
 
 <!-- end list -->
 
-  - [美國空軍](../Page/美國空軍.md "wikilink")
-  - [美國海軍陸戰隊](../Page/美國海軍陸戰隊.md "wikilink")
+  - [美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")
+  - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")
   - [美國海軍](../Page/美國海軍.md "wikilink")
 
 <!-- end list -->

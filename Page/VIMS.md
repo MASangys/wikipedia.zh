@@ -1,5 +1,5 @@
 **VIMS**（日語全名：）是[日本一家](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，屬於[ARTSVISION系列公司](../Page/ARTSVISION.md "wikilink")。VIMS於2001年創辦，原本是[I'm
-Enterprise內一個部門](../Page/I'm_Enterprise.md "wikilink")，2007年（平成20年）11月22日註冊為[株式會社](../Page/株式會社.md "wikilink")，成為I'm
+Enterprise內一個部門](../Page/I'm_Enterprise.md "wikilink")，2007年（平成20年）11月22日註冊為[株式會社](https://zh.wikipedia.org/wiki/株式會社 "wikilink")，成為I'm
 Enterprise的子公司。
 
 為了配合[森久保祥太郎加入I](../Page/森久保祥太郎.md "wikilink")'m
@@ -18,61 +18,61 @@ Enterprise的子公司。
 
 ### 男性
 
-  - [市川太一](../Page/市川太一.md "wikilink")
-  - [浦和希](../Page/浦和希.md "wikilink")
+  - [市川太一](https://zh.wikipedia.org/wiki/市川太一 "wikilink")
+  - [浦和希](https://zh.wikipedia.org/wiki/浦和希 "wikilink")
   - [梶裕貴](../Page/梶裕貴.md "wikilink")
-  - [菊池幸利](../Page/菊池幸利.md "wikilink")
-  - [坂本穩](../Page/坂本穩.md "wikilink")
-  - [鈴木崚汰](../Page/鈴木崚汰.md "wikilink")
+  - [菊池幸利](https://zh.wikipedia.org/wiki/菊池幸利 "wikilink")
+  - [坂本穩](https://zh.wikipedia.org/wiki/坂本穩 "wikilink")
+  - [鈴木崚汰](https://zh.wikipedia.org/wiki/鈴木崚汰 "wikilink")
   - [野上翔](../Page/野上翔.md "wikilink")
-  - [濱口慎太郎](../Page/濱口慎太郎.md "wikilink")
+  - [濱口慎太郎](https://zh.wikipedia.org/wiki/濱口慎太郎 "wikilink")
   - [村瀨步](../Page/村瀨步.md "wikilink")
-  - [本橋大輔](../Page/本橋大輔.md "wikilink")
+  - [本橋大輔](https://zh.wikipedia.org/wiki/本橋大輔 "wikilink")
   - [八代拓](../Page/八代拓.md "wikilink")
 
 ### 女性
 
-  - [阿部里果](../Page/阿部里果.md "wikilink")
+  - [阿部里果](https://zh.wikipedia.org/wiki/阿部里果 "wikilink")
   - [井上奈奈](../Page/井上奈奈.md "wikilink")
-  - [内村史子](../Page/内村史子.md "wikilink")
-  - [榎吉麻弥](../Page/榎吉麻弥.md "wikilink")
-  - [小峰華子](../Page/小峰華子.md "wikilink")
-  - [加納知沙](../Page/加納知沙.md "wikilink")
-  - [河井晴菜](../Page/河井晴菜.md "wikilink")
-  - [木村千咲](../Page/木村千咲.md "wikilink")
-  - [黑瀨優子](../Page/黑瀨優子.md "wikilink")
-  - [櫻井絵美里サヴァンナ](../Page/櫻井絵美里サヴァンナ.md "wikilink")
+  - [内村史子](https://zh.wikipedia.org/wiki/内村史子 "wikilink")
+  - [榎吉麻弥](https://zh.wikipedia.org/wiki/榎吉麻弥 "wikilink")
+  - [小峰華子](https://zh.wikipedia.org/wiki/小峰華子 "wikilink")
+  - [加納知沙](https://zh.wikipedia.org/wiki/加納知沙 "wikilink")
+  - [河井晴菜](https://zh.wikipedia.org/wiki/河井晴菜 "wikilink")
+  - [木村千咲](https://zh.wikipedia.org/wiki/木村千咲 "wikilink")
+  - [黑瀨優子](https://zh.wikipedia.org/wiki/黑瀨優子 "wikilink")
+  - [櫻井絵美里サヴァンナ](https://zh.wikipedia.org/wiki/櫻井絵美里サヴァンナ "wikilink")
   - [篠田南](../Page/篠田南.md "wikilink")
   - [大地葉](../Page/大地葉.md "wikilink")
-  - [立花芽惠夢](../Page/立花芽惠夢.md "wikilink")
-  - [泊明日菜](../Page/泊明日菜.md "wikilink")
+  - [立花芽惠夢](https://zh.wikipedia.org/wiki/立花芽惠夢 "wikilink")
+  - [泊明日菜](https://zh.wikipedia.org/wiki/泊明日菜 "wikilink")
   - [新名彩乃](../Page/新名彩乃.md "wikilink")
   - [野村真悠華](../Page/野村真悠華.md "wikilink")
   - [橋本千波](../Page/橋本千波.md "wikilink")
-  - [春村奈奈](../Page/春村奈奈.md "wikilink")
+  - [春村奈奈](https://zh.wikipedia.org/wiki/春村奈奈 "wikilink")
   - [東內麻里子](../Page/東內麻里子.md "wikilink")
   - [福原綾香](../Page/福原綾香.md "wikilink")
-  - [藤田奈央](../Page/藤田奈央.md "wikilink")
+  - [藤田奈央](https://zh.wikipedia.org/wiki/藤田奈央 "wikilink")
   - [堀江由衣](../Page/堀江由衣.md "wikilink")
   - [山本希望](../Page/山本希望.md "wikilink")
   - [結名美月](../Page/結名美月.md "wikilink")
   - [優木加奈](../Page/優木加奈.md "wikilink")
-  - [幸村惠理](../Page/幸村惠理.md "wikilink")
+  - [幸村惠理](https://zh.wikipedia.org/wiki/幸村惠理 "wikilink")
 
 ## 前所屬聲優
 
   -
-  - [内田國俊](../Page/内田國俊.md "wikilink")
+  - [内田國俊](https://zh.wikipedia.org/wiki/内田國俊 "wikilink")
 
-  - [織部ゆかり](../Page/織部ゆかり.md "wikilink")
+  - [織部ゆかり](https://zh.wikipedia.org/wiki/織部ゆかり "wikilink")
 
-  - [五味紗也香](../Page/五味紗也香.md "wikilink")
+  - [五味紗也香](https://zh.wikipedia.org/wiki/五味紗也香 "wikilink")
 
-  - [篠宮梨乃](../Page/篠宮梨乃.md "wikilink")
+  - [篠宮梨乃](https://zh.wikipedia.org/wiki/篠宮梨乃 "wikilink")
 
-  - [西川貴裕](../Page/西川貴裕.md "wikilink")
+  - [西川貴裕](https://zh.wikipedia.org/wiki/西川貴裕 "wikilink")
 
-  - [丸高大知](../Page/丸高大知.md "wikilink")
+  - [丸高大知](https://zh.wikipedia.org/wiki/丸高大知 "wikilink")
 
   - 森久保祥太郎
 

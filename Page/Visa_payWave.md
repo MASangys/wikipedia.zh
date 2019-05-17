@@ -1,11 +1,11 @@
 **Visa
-payWave**，是[Visa在其](../Page/Visa.md "wikilink")[借记卡和](../Page/借记卡.md "wikilink")[信用卡上利用](../Page/信用卡.md "wikilink")[EMV技术推出的一项非接觸式支付功能](../Page/EMV.md "wikilink")，當Visa
-payWave卡用於一般[刷卡機或觸碰式讀卡機時](../Page/刷卡機.md "wikilink")，晶片模組會依讀卡機型態自行進行判斷，發揮非接觸式支付功能。
+payWave**，是[Visa在其](https://zh.wikipedia.org/wiki/Visa "wikilink")[借记卡和](../Page/借记卡.md "wikilink")[信用卡上利用](../Page/信用卡.md "wikilink")[EMV技术推出的一项非接觸式支付功能](../Page/EMV.md "wikilink")，當Visa
+payWave卡用於一般[刷卡機或觸碰式讀卡機時](https://zh.wikipedia.org/wiki/刷卡機 "wikilink")，晶片模組會依讀卡機型態自行進行判斷，發揮非接觸式支付功能。
 
 2007年9月，Visa 推出的Visa
-payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](../Page/银联卡.md "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](../Page/萬事達卡.md "wikilink")[MasterCard
+payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](https://zh.wikipedia.org/wiki/银联卡 "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")[MasterCard
 Contactless和](../Page/MasterCard_Contactless.md "wikilink")[美國運通的](../Page/美國運通.md "wikilink")[AE
-ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻辨識技術（[RFID](../Page/RFID.md "wikilink")）。
+ExpressPay服務](https://zh.wikipedia.org/wiki/AE_ExpressPay "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。
 
 ## 特點
 
@@ -16,7 +16,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 
 ## 安全機制
 
-  - 集合[EMV晶片安控及無線電技術](../Page/EMV.md "wikilink")（[RFID](../Page/RFID.md "wikilink")），晶片內建多項加密機制，並採用動態資料認證（Dynamic
+  - 集合[EMV晶片安控及無線電技術](../Page/EMV.md "wikilink")（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")），晶片內建多項加密機制，並採用動態資料認證（Dynamic
     Data Authentication,
     DDA）功能，交易時，VISA智慧晶片能為每筆交易產生一個獨一的簽章，提高資料在傳輸過程中的安全性，防止資料被竊取及側錄的可能性。
   - Visa payWave發卡會員機構可以根據風險控管需求，決定Visa
@@ -48,7 +48,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p>enJoy 卡</p></td>
 <td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/怡和洋行.md" title="wikilink">怡和洋行旗下部份商店</a>：</p>
-<p><a href="../Page/健安喜.md" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="../Page/Jasons_Food_&amp;_Living.md" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="../Page/必勝客.md" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基等</a><br />
+<p><a href="https://zh.wikipedia.org/wiki/健安喜" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="https://zh.wikipedia.org/wiki/Jasons_Food_&amp;_Living" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="https://zh.wikipedia.org/wiki/必勝客" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基等</a><br />
 <a href="../Page/怡和洋行.md" title="wikilink">怡和員工卡版本</a><br />
 更包括<a href="../Page/美心食品.md" title="wikilink">美心食品旗下食店</a></p></td>
 <td></td>
@@ -74,7 +74,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>香港中文大學信用卡</p></td>
 <td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
-<td><p><a href="../Page/香港中文大學.md" title="wikilink">香港中文大學</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港中文大學" title="wikilink">香港中文大學</a></p></td>
 <td></td>
 <td><p>*<a href="https://bank.hangseng.com/1/2/chi/personal/cards/products/university-affinity/chinese-university-card">4</a></p></td>
 </tr>
@@ -188,7 +188,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>大新零食物語Visa payWave信用卡</p></td>
 <td><p><a href="../Page/大新銀行集團.md" title="wikilink">大新銀行集團</a></p></td>
-<td><p><a href="../Page/零食物語.md" title="wikilink">零食物語</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/零食物語" title="wikilink">零食物語</a></p></td>
 <td></td>
 <td><p>*<a href="http://www.dahsing.com/html/tc/credit_card/card_products/co_brand/okashi_land_visa_paywave_card.html">16</a></p></td>
 </tr>
@@ -264,15 +264,15 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td></td>
 <td><p>ICBC長隆白金卡</p></td>
 <td><p><a href="../Page/中國工商銀行（亞洲）.md" title="wikilink">中國工商銀行（亞洲）</a></p></td>
-<td><p><a href="../Page/廣東長隆集團.md" title="wikilink">廣東長隆集團旗下</a><a href="../Page/主題公園.md" title="wikilink">主題公園</a>：<br />
-<a href="../Page/長隆歡樂世界.md" title="wikilink">長隆歡樂世界</a>、長隆水上樂園、長隆國際大馬戲、<a href="../Page/長隆野生動物世界.md" title="wikilink">長隆野生動物世界</a>、廣州鱷魚公園、<a href="../Page/長隆海洋王國.md" title="wikilink">長隆海洋王國</a>、長隆橫琴國際馬戲城等</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣東長隆集團" title="wikilink">廣東長隆集團旗下</a><a href="../Page/主題公園.md" title="wikilink">主題公園</a>：<br />
+<a href="https://zh.wikipedia.org/wiki/長隆歡樂世界" title="wikilink">長隆歡樂世界</a>、長隆水上樂園、長隆國際大馬戲、<a href="../Page/長隆野生動物世界.md" title="wikilink">長隆野生動物世界</a>、廣州鱷魚公園、<a href="https://zh.wikipedia.org/wiki/長隆海洋王國" title="wikilink">長隆海洋王國</a>、長隆橫琴國際馬戲城等</p></td>
 <td></td>
 <td><p>*<a href="http://www.icbcasia.com/ICBC/%E6%B5%B7%E5%A4%96%E5%88%86%E8%A1%8C/%E5%B7%A5%E9%93%B6%E4%BA%9A%E6%B4%B2/TC/%E4%BF%A1%E7%94%A8%E5%8D%A1/%E4%BF%A1%E7%94%A8%E5%8D%A1%E9%A1%9E%E5%88%A5/chimelong.htm">25</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>eye信用卡</p></td>
-<td><p><a href="../Page/中國建設銀行（亞洲）.md" title="wikilink">中國建設銀行（亞洲）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="http://m.asia.ccb.com/hongkong_tc/personal/credit_cards/other_credit_cards.html">26</a></p></td>
@@ -280,7 +280,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <tr class="odd">
 <td></td>
 <td><p>建行(亞洲)白金信用卡</p></td>
-<td><p><a href="../Page/中國建設銀行（亞洲）.md" title="wikilink">中國建設銀行（亞洲）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="http://m.asia.ccb.com/hongkong_tc/personal/credit_cards/asia_credit_card.html">27</a></p></td>
@@ -288,7 +288,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <tr class="even">
 <td></td>
 <td><p>建行(亞洲)AIA VISA信用卡</p></td>
-<td><p><a href="../Page/中國建設銀行（亞洲）.md" title="wikilink">中國建設銀行（亞洲）</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中國建設銀行（亞洲）" title="wikilink">中國建設銀行（亞洲）</a></p></td>
 <td><p><a href="../Page/友邦保險.md" title="wikilink">友邦保險</a></p></td>
 <td></td>
 <td><p>*<a href="http://m.asia.ccb.com/hongkong_tc/personal/credit_cards/asia_aia_credit_card.html">28</a></p></td>
@@ -306,7 +306,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <td><p>中銀GOOD DAY白金卡</p></td>
 <td><p>中銀信用卡（國際）有限公司</p></td>
 <td><p><a href="../Page/華潤集團.md" title="wikilink">華潤集團旗下部份商店</a>：<br />
-<a href="../Page/華潤萬家超級市場.md" title="wikilink">華潤萬家超級市場</a>、<a href="../Page/U購Select.md" title="wikilink">U購Select</a>、<a href="../Page/華潤堂.md" title="wikilink">華潤堂</a>、<a href="../Page/太平洋咖啡.md" title="wikilink">太平洋咖啡</a>、voi_la! 及<a href="../Page/VanGO.md" title="wikilink">VanGO</a></p></td>
+<a href="../Page/華潤萬家超級市場.md" title="wikilink">華潤萬家超級市場</a>、<a href="../Page/U購Select.md" title="wikilink">U購Select</a>、<a href="https://zh.wikipedia.org/wiki/華潤堂" title="wikilink">華潤堂</a>、<a href="../Page/太平洋咖啡.md" title="wikilink">太平洋咖啡</a>、voi_la! 及<a href="https://zh.wikipedia.org/wiki/VanGO" title="wikilink">VanGO</a></p></td>
 <td></td>
 <td><p>*<a href="http://www.boci.com.hk/chi/creditcard/goodday.html">30</a></p></td>
 </tr>
@@ -369,27 +369,27 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <tr class="even">
 <td><p><a href="../Page/2009年2月.md" title="wikilink">2009年2月</a></p></td>
 <td><p><a href="../Page/肯德基.md" title="wikilink">KFC</a> Visa卡</p></td>
-<td><p><a href="../Page/Aeon信貸.md" title="wikilink">Aeon信貸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/肯德基.md" title="wikilink">肯德基</a></p></td>
-<td><p>發卡機構為<a href="../Page/Aeon信貸.md" title="wikilink">Aeon</a><br />
-但<a href="../Page/肯德基.md" title="wikilink">KFC收款</a><a href="../Page/RFID.md" title="wikilink">RFID機</a><br />
-先由<a href="../Page/富邦銀行_(香港).md" title="wikilink">富邦銀行提供</a>，後改由恒生銀行提供</p></td>
+<td><p>發卡機構為<a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon</a><br />
+但<a href="../Page/肯德基.md" title="wikilink">KFC收款</a><a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
+先由<a href="https://zh.wikipedia.org/wiki/富邦銀行_(香港)" title="wikilink">富邦銀行提供</a>，後改由恒生銀行提供</p></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_restaurant-kfc-visa.html">38</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p><a href="../Page/OK便利店.md" title="wikilink">Circle K</a> Visa卡</p></td>
-<td><p><a href="../Page/Aeon信貸.md" title="wikilink">Aeon信貸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/OK便利店.md" title="wikilink">OK便利店</a>、<a href="../Page/聖安娜餅屋.md" title="wikilink">聖安娜餅屋</a></p></td>
-<td><p>發卡機構為<a href="../Page/Aeon信貸.md" title="wikilink">Aeon</a><br />
-但<a href="../Page/OK便利店.md" title="wikilink">OK便利店收款</a><a href="../Page/RFID.md" title="wikilink">RFID機</a><br />
-由<a href="../Page/東亞銀行.md" title="wikilink">東亞銀行提供</a></p></td>
+<td><p>發卡機構為<a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon</a><br />
+但<a href="../Page/OK便利店.md" title="wikilink">OK便利店收款</a><a href="https://zh.wikipedia.org/wiki/RFID" title="wikilink">RFID機</a><br />
+由<a href="https://zh.wikipedia.org/wiki/東亞銀行" title="wikilink">東亞銀行提供</a></p></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure-circlek-visa.html">39</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>AEON Visa 信用卡</p></td>
-<td><p><a href="../Page/Aeon信貸.md" title="wikilink">Aeon信貸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aeon信貸" title="wikilink">Aeon信貸</a></p></td>
 <td><p><a href="../Page/永旺百貨.md" title="wikilink">永旺百貨</a></p></td>
 <td></td>
 <td><p>*<a href="https://www.aeon.com.hk/tc/html/credit-card/creditcard_leisure-jusco-visa.html">40</a></p></td>
@@ -453,7 +453,7 @@ ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻�
 <tr class="even">
 <td></td>
 <td><p>東亞銀行Visa Signature卡</p></td>
-<td><p><a href="../Page/東亞銀行.md" title="wikilink">東亞銀行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東亞銀行" title="wikilink">東亞銀行</a></p></td>
 <td></td>
 <td></td>
 <td><p>*<a href="https://www.hkbea.com/html/tc/visa-signature.html">48</a></p></td>
@@ -598,7 +598,7 @@ payWave發卡機構包括：上海商業儲蓄銀行、中國信託商業銀行�
 
 ### 中国大陆
 
-2008年5月8日，[中国工商银行北京市分行与](../Page/中国工商银行.md "wikilink")[百盛集团](../Page/百盛集团.md "wikilink")、Visa国际组织共同宣布，中国首张非接触式支付联名信用卡——牡丹百盛信用卡从即日起在[北京百盛购物中心正式发行](../Page/北京百盛购物中心.md "wikilink")，并将逐步在全国推广发行。
+2008年5月8日，[中国工商银行北京市分行与](../Page/中国工商银行.md "wikilink")[百盛集团](https://zh.wikipedia.org/wiki/百盛集团 "wikilink")、Visa国际组织共同宣布，中国首张非接触式支付联名信用卡——牡丹百盛信用卡从即日起在[北京百盛购物中心正式发行](https://zh.wikipedia.org/wiki/北京百盛购物中心 "wikilink")，并将逐步在全国推广发行。
 
 2014年7月31日，[招商银行正式将之前已经发行的全币种国际信用卡升级为全币种国际芯片卡](../Page/招商银行.md "wikilink")，加入了支持EMV芯片卡功能（如payWave等）。
 
@@ -627,7 +627,7 @@ payWave卡，分別中國銀行澳門分行、大豐銀行（中銀信用卡國�
   - 超級市場
 
 Oliver's The Delicatessen、[Market Place by
-Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[ThreeSixty](../Page/ThreeSixty.md "wikilink")、[惠康超級市場](../Page/惠康.md "wikilink")，Watson's
+Jasons](../Page/Market_Place_by_Jasons.md "wikilink")、[ThreeSixty](https://zh.wikipedia.org/wiki/ThreeSixty "wikilink")、[惠康超級市場](../Page/惠康.md "wikilink")，Watson's
 Wine、[Great](../Page/Great.md "wikilink")、International by
 PARKnSHOP、Fusion by
 PARKnSHOP、TaSTe、[百佳超級市場](../Page/百佳超級市場.md "wikilink")、PARK'n-Express，華潤
@@ -636,7 +636,7 @@ Cellar、[U購Select](../Page/U購Select.md "wikilink")、[759阿信屋](../Page
 
   - 便利店
 
-[7-Eleven](../Page/7-Eleven.md "wikilink")、[VanGO](../Page/VanGO.md "wikilink")，[Circle
+[7-Eleven](../Page/7-Eleven.md "wikilink")、[VanGO](https://zh.wikipedia.org/wiki/VanGO "wikilink")，[Circle
 K](../Page/OK便利店.md "wikilink")
 
   - 美容及個人產品
@@ -658,7 +658,7 @@ Cinemas](../Page/娛藝.md "wikilink")
 
   - 咖啡店
 
-[星巴克咖啡店](../Page/星巴克.md "wikilink")、[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")
+[星巴克咖啡店](https://zh.wikipedia.org/wiki/星巴克 "wikilink")、[太平洋咖啡](../Page/太平洋咖啡.md "wikilink")
 
   - 餐廳
 
@@ -678,7 +678,7 @@ Cinemas](../Page/娛藝.md "wikilink")
 
   - 渡輪服務
 
-[噴射飛航](../Page/噴射飛航.md "wikilink")
+[噴射飛航](https://zh.wikipedia.org/wiki/噴射飛航 "wikilink")
 
   - 書店
 
@@ -694,7 +694,7 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")(已清盤)
 
   - 時裝
 
-[Timberland](../Page/Timberland.md "wikilink")、[UNIQLO](../Page/UNIQLO.md "wikilink")
+[Timberland](https://zh.wikipedia.org/wiki/Timberland "wikilink")、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")
 
   - [的士](../Page/香港的士.md "wikilink")
 
@@ -703,7 +703,7 @@ payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為
 
 ## 安全疑慮
 
-[紐卡素大學網上罪行及電腦保安中心發表報告](../Page/紐卡素大學.md "wikilink")，揭示感應式（非接觸式/Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊（約330港元）從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[12\]
+[紐卡素大學網上罪行及電腦保安中心發表報告](https://zh.wikipedia.org/wiki/紐卡素大學 "wikilink")，揭示感應式（非接觸式/Contactless）付款信用卡的漏洞，其研究團隊僅花30英鎊（約330港元）從網上購買組件，即可把手機改裝成讀卡器。在測試時，把它放近藏有感應式付款信用卡的銀包，只需兩秒時間，即成功盜取信用卡資料，包括卡主姓名、信用卡號碼及到期日，甚至最近10次的交易紀錄。\[12\]
 
 ## 參考資料
 

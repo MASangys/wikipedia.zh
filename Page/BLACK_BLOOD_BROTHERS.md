@@ -1,6 +1,6 @@
 《**BLACK BLOOD
-BROTHERS**》是[あざの耕平](../Page/あざの耕平.md "wikilink")、[草河遊也的](../Page/草河遊也.md "wikilink")[轻小说](../Page/轻小说.md "wikilink")。[富士見Fantasia文庫刊行](../Page/富士見Fantasia文庫.md "wikilink")。2004年7月16日开始在[DRAGON
-MAGAZINE上连载](../Page/DRAGON_MAGAZINE.md "wikilink")。
+BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫刊行](../Page/富士見Fantasia文庫.md "wikilink")。2004年7月16日开始在[DRAGON
+MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 ## 小说一覽
 

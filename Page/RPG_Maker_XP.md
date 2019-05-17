@@ -1,5 +1,5 @@
 **RPG Maker
-XP**（[日本](../Page/日本.md "wikilink")：，[台灣](../Page/台灣.md "wikilink")：新RPG製作大師XP）是[Enterbrain在PC上出版的第四套](../Page/Enterbrain.md "wikilink")[RPG製作大師系列軟體](../Page/RPG製作大師.md "wikilink")。
+XP**（[日本](../Page/日本.md "wikilink")：，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：新RPG製作大師XP）是[Enterbrain在PC上出版的第四套](../Page/Enterbrain.md "wikilink")[RPG製作大師系列軟體](../Page/RPG製作大師.md "wikilink")。
 
 ## 特色
 
@@ -40,7 +40,8 @@ XP**（[日本](../Page/日本.md "wikilink")：，[台灣](../Page/台灣.md "w
 
 ## 系統需求
 
-  - 作業系統：[Microsoft Windows](../Page/Microsoft_Windows.md "wikilink")
+  - 作業系統：[Microsoft
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
     98/98SE/ME/2000/XP/Vista/7
   - 中央處理器：800 MHz
   - 記憶體：128MB
@@ -54,13 +55,13 @@ XP**（[日本](../Page/日本.md "wikilink")：，[台灣](../Page/台灣.md "w
 在[RPG製作大師系列中](../Page/RPG製作大師.md "wikilink")，RPG Maker
 XP使用[Ruby程式語言作為架構的腳本系統](../Page/Ruby.md "wikilink")，以[Ruby的基礎架構內建的圖形](../Page/Ruby.md "wikilink")、音效等形成的系統，便稱之為[RGSS](../Page/RGSS.md "wikilink")（Ruby
 Game Scripting System）。這使得RPG Maker
-XP製作的遊戲可以很容易的強化、擴充。整個系統非常容易學習，而有經驗的[程式設計師可以使用](../Page/程式設計師.md "wikilink")[RGSS或者是說Ruby撰寫更複雜的功能](../Page/RGSS.md "wikilink")(尤其使用[Windows
+XP製作的遊戲可以很容易的強化、擴充。整個系統非常容易學習，而有經驗的[程式設計師可以使用](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[RGSS或者是說Ruby撰寫更複雜的功能](../Page/RGSS.md "wikilink")(尤其使用[Windows
 API](../Page/Windows_API.md "wikilink")——Win32API 類)。
 
 ### 內建的模块和類別
 
 RPG Maker
-XP中的[RGSS腳本大部份都宣告於內建的腳本編輯器之中](../Page/RGSS.md "wikilink")。但有一些模塊和類別是內建的，由系統底層生成的圖形、音效功能，會以動態調用[Microsoft](../Page/Microsoft.md "wikilink")
+XP中的[RGSS腳本大部份都宣告於內建的腳本編輯器之中](../Page/RGSS.md "wikilink")。但有一些模塊和類別是內建的，由系統底層生成的圖形、音效功能，會以動態調用[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 [DirectX來實現這些功能](../Page/DirectX.md "wikilink")，並非以RGSS腳本的形式宣告，以增加效率，因此同時無法放出Ruby源代碼，大概可以分為四類：
 
   - 音效
@@ -88,7 +89,7 @@ XP中的[RGSS腳本大部份都宣告於內建的腳本編輯器之中](../Page/
 但是[RGSS中也有使用脚本的形式宣告](../Page/RGSS.md "wikilink")：
 
   - RPG(數據庫模塊)
-      - RPG模塊包含很多類([class](../Page/class.md "wikilink"))，這些類的定義都是以Ruby表示(可以從RPG
+      - RPG模塊包含很多類([class](https://zh.wikipedia.org/wiki/class "wikilink"))，這些類的定義都是以Ruby表示(可以從RPG
         Maker XP的說明文件中查到源代碼)，用於讀取數據庫的內容。
 
 注：部份的內建模块和類別在RPG Maker XP附帶的說明中可以找到使用方法。

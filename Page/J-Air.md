@@ -1,10 +1,10 @@
-****（），全稱「****」，是[日本一家以](../Page/日本.md "wikilink")[大阪國際機場為基地的](../Page/大阪國際機場.md "wikilink")[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](../Page/大阪府.md "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。
+****（），全稱「****」，是[日本一家以](../Page/日本.md "wikilink")[大阪國際機場為基地的](../Page/大阪國際機場.md "wikilink")[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。
 [JAL_Express_Osaka_HQ_20100807-001.jpg](https://zh.wikipedia.org/wiki/File:JAL_Express_Osaka_HQ_20100807-001.jpg "fig:JAL_Express_Osaka_HQ_20100807-001.jpg")
 
 ## 航線
 
-  - [東京/羽田](../Page/東京國際機場.md "wikilink")－[三澤](../Page/三澤機場.md "wikilink")、[山形](../Page/山形機場.md "wikilink")、[南紀白濱](../Page/南紀白濱機場.md "wikilink")
-  - [大阪/伊丹](../Page/大阪國際機場.md "wikilink")－[三澤](../Page/三澤機場.md "wikilink")、[大分](../Page/大分機場.md "wikilink")、[山形](../Page/山形機場.md "wikilink")、[仙台](../Page/仙台機場.md "wikilink")、[札幌/新千歲](../Page/新千歲機場.md "wikilink")、[函館](../Page/函館機場.md "wikilink")、[松山](../Page/松山機場_\(日本\).md "wikilink")、[花卷](../Page/花卷機場.md "wikilink")、[長崎](../Page/長崎機場.md "wikilink")、[青森](../Page/青森機場.md "wikilink")、[秋田](../Page/秋田機場.md "wikilink")、[宮崎](../Page/宮崎機場.md "wikilink")、[鹿兒島](../Page/鹿兒島機場.md "wikilink")、[新潟](../Page/新潟機場.md "wikilink")、[熊本](../Page/熊本機場.md "wikilink")、[福岡](../Page/福岡機場.md "wikilink")
+  - [東京/羽田](../Page/東京國際機場.md "wikilink")－[三澤](https://zh.wikipedia.org/wiki/三澤機場 "wikilink")、[山形](../Page/山形機場.md "wikilink")、[南紀白濱](../Page/南紀白濱機場.md "wikilink")
+  - [大阪/伊丹](../Page/大阪國際機場.md "wikilink")－[三澤](https://zh.wikipedia.org/wiki/三澤機場 "wikilink")、[大分](../Page/大分機場.md "wikilink")、[山形](../Page/山形機場.md "wikilink")、[仙台](../Page/仙台機場.md "wikilink")、[札幌/新千歲](../Page/新千歲機場.md "wikilink")、[函館](../Page/函館機場.md "wikilink")、[松山](../Page/松山機場_\(日本\).md "wikilink")、[花卷](../Page/花卷機場.md "wikilink")、[長崎](../Page/長崎機場.md "wikilink")、[青森](../Page/青森機場.md "wikilink")、[秋田](../Page/秋田機場.md "wikilink")、[宮崎](../Page/宮崎機場.md "wikilink")、[鹿兒島](../Page/鹿兒島機場.md "wikilink")、[新潟](../Page/新潟機場.md "wikilink")、[熊本](../Page/熊本機場.md "wikilink")、[福岡](../Page/福岡機場.md "wikilink")
   - 福岡－仙台、花卷
   - 札幌/新千歲－[女滿別](../Page/女滿別機場.md "wikilink")、仙台、花卷、青森、秋田、新潟
 
@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/ERJ-170系列.md" title="wikilink">ERJ-170</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ERJ-170系列" title="wikilink">ERJ-170</a></p></td>
 <td><p>18</p></td>
 <td><p>—</p></td>
 <td><p>2</p></td>
@@ -43,7 +43,7 @@
 現時正接收選購權的飛機</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ERJ-170系列.md" title="wikilink">ERJ-190</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ERJ-170系列" title="wikilink">ERJ-190</a></p></td>
 <td><p>14</p></td>
 <td><p>6</p></td>
 <td><p>—</p></td>
@@ -52,7 +52,7 @@
 座位為Class J 15名＋經濟艙80席的2等制</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/三菱支線噴射機.md" title="wikilink">三菱MRJ90</a> [3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三菱支線噴射機" title="wikilink">三菱MRJ90</a> [3]</p></td>
 <td><p>—</p></td>
 <td><p>32</p></td>
 <td><p>5</p></td>

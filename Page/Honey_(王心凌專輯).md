@@ -1,4 +1,4 @@
-《**Honey**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌的第三張](../Page/王心凌.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")。由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年2月18日發行。該專輯於2005年3月25日發行改版「甜蜜慶功版」。
+《**Honey**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌的第三張](../Page/王心凌.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年2月18日發行。該專輯於2005年3月25日發行改版「甜蜜慶功版」。
 
 ## 曲目
 
@@ -25,8 +25,8 @@
 </tr>
 <tr class="even">
 <td><p>翹翹板</p></td>
-<td><p><a href="../Page/賴偉康.md" title="wikilink">賴偉康</a><br />
-<a href="../Page/比爾賈.md" title="wikilink">比爾賈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賴偉康" title="wikilink">賴偉康</a><br />
+<a href="https://zh.wikipedia.org/wiki/比爾賈" title="wikilink">比爾賈</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -37,13 +37,13 @@
 </tr>
 <tr class="even">
 <td><p>失戀歌迷黨</p></td>
-<td><p><a href="../Page/金卓.md" title="wikilink">金卓</a><br />
-<a href="../Page/陳勇秀.md" title="wikilink">陳勇秀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金卓" title="wikilink">金卓</a><br />
+<a href="https://zh.wikipedia.org/wiki/陳勇秀" title="wikilink">陳勇秀</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>飛吧</p></td>
-<td><p><a href="../Page/張昀陽.md" title="wikilink">張昀陽</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張昀陽" title="wikilink">張昀陽</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

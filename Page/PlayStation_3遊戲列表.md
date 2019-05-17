@@ -18,14 +18,14 @@
 <th><p>歐版</p></th>
 <th><p>美版</p></th>
 <th><p>獨佔</p></th>
-<th><p><a href="../Page/PlayStation_Network#PlayStation_Trophies.md" title="wikilink">奖杯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/PlayStation_Network#PlayStation_Trophies" title="wikilink">奖杯</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><span id="0-9"></span><em><a href="../Page/&amp;:_Sora_no_Mukō_de_Saki_Masuyō_ni.md" title="wikilink">&amp;: Sora no Mukō de Saki Masuyō ni</a></em>[1]</p></td>
-<td><p><a href="../Page/Akatsuki_Works.md" title="wikilink">Akatsuki Works</a></p></td>
+<td><p><span id="0-9"></span><em><a href="https://zh.wikipedia.org/wiki/&amp;:_Sora_no_Mukō_de_Saki_Masuyō_ni" title="wikilink">&amp;: Sora no Mukō de Saki Masuyō ni</a></em>[1]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Akatsuki_Works" title="wikilink">Akatsuki Works</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -35,8 +35,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/.hack/Sekai_no_Mukō_ni.md" title="wikilink">.hack//Versus</a></em>[2]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/.hack/Sekai_no_Mukō_ni" title="wikilink">.hack//Versus</a></em>[2]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -46,8 +46,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/007_Legends.md" title="wikilink">007 Legends</a></em>[3]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/007_Legends" title="wikilink">007 Legends</a></em>[3]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -57,7 +57,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/007:_Quantum_of_Solace.md" title="wikilink">007: Quantum of Solace</a></em>[4]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/007:_Quantum_of_Solace" title="wikilink">007: Quantum of Solace</a></em>[4]</p></td>
 <td><p><a href="../Page/Treyarch.md" title="wikilink">Treyarch</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
@@ -68,8 +68,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/2010_FIFA_World_Cup_South_Africa_(video_game).md" title="wikilink">2010 FIFA World Cup South Africa</a></em>[5]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/2010_FIFA_World_Cup_South_Africa_(video_game)" title="wikilink">2010 FIFA World Cup South Africa</a></em>[5]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -80,7 +80,7 @@
 <tr class="even">
 <td><p><a href="../Page/2014年巴西世界杯_(游戏).md" title="wikilink">2014年巴西世界杯</a></p></td>
 <td><p><em>2014 FIFA World Cup Brazil</em></p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -90,8 +90,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/2nd_Super_Robot_Wars_Original_Generation.md" title="wikilink">2nd Super Robot Wars Original Generation</a></em>[6]</p></td>
-<td><p><a href="../Page/Banpresto.md" title="wikilink">Banpresto</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/2nd_Super_Robot_Wars_Original_Generation" title="wikilink">2nd Super Robot Wars Original Generation</a></em>[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Banpresto" title="wikilink">Banpresto</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -101,8 +101,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/3D_Dot_Game_Heroes.md" title="wikilink">3D Dot Game Heroes</a></em>[7]</p></td>
-<td><p><a href="../Page/Silicon_Studio.md" title="wikilink">Silicon Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/3D_Dot_Game_Heroes" title="wikilink">3D Dot Game Heroes</a></em>[7]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Silicon_Studio" title="wikilink">Silicon Studio</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -112,8 +112,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/428:_Fūsa_Sareta_Shibuya_de.md" title="wikilink">428: In a Blockaded Shibuya</a></em>[8]</p></td>
-<td><p><a href="../Page/Chunsoft.md" title="wikilink">Chunsoft</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/428:_Fūsa_Sareta_Shibuya_de" title="wikilink">428: In a Blockaded Shibuya</a></em>[8]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chunsoft" title="wikilink">Chunsoft</a></p></td>
 <td><p>JP</p></td>
 <td><p><span style="display:none">2009-09-03</span>September 3, 2009</p></td>
 <td><p>未發行</p></td>
@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/50_Cent:_Blood_on_the_Sand.md" title="wikilink">50 Cent: Blood on the Sand</a></em>[9]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/50_Cent:_Blood_on_the_Sand" title="wikilink">50 Cent: Blood on the Sand</a></em>[9]</p></td>
 <td><p><a href="../Page/Swordfish_Studios.md" title="wikilink">Swordfish Studios</a></p></td>
 <td><p>EU</p></td>
 <td></td>
@@ -134,19 +134,19 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="A"></span><em><a href="../Page/Absolute_Supercars.md" title="wikilink">Absolute Supercars</a></em>[10]</p></td>
-<td><p><a href="../Page/Eutechnyx.md" title="wikilink">Eutechnyx</a></p></td>
+<td><p><span id="A"></span><em><a href="https://zh.wikipedia.org/wiki/Absolute_Supercars" title="wikilink">Absolute Supercars</a></em>[10]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td><p>EU</p></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/AC/DC_Live:_Rock_Band_Track_Pack.md" title="wikilink">AC/DC Live: Rock Band Track Pack</a></em>[11]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/AC/DC_Live:_Rock_Band_Track_Pack" title="wikilink">AC/DC Live: Rock Band Track Pack</a></em>[11]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -157,7 +157,7 @@
 <tr class="odd">
 <td><p><a href="../Page/空戰奇兵_突擊地平線.md" title="wikilink">空戰奇兵 突擊地平線</a></p></td>
 <td><p><em>Ace Combat: Assault Horizon</em>[12]</p></td>
-<td><p><a href="../Page/Namco.md" title="wikilink">Namco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco" title="wikilink">Namco</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -167,8 +167,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Adidas_miCoach.md" title="wikilink">Adidas miCoach</a></em>[13]</p></td>
-<td><p><a href="../Page/Lightning_Fish.md" title="wikilink">Lightning Fish</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Adidas_miCoach" title="wikilink">Adidas miCoach</a></em>[13]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lightning_Fish" title="wikilink">Lightning Fish</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -179,7 +179,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/Ubisoft_Montpellier.md" title="wikilink">Ubisoft Montpellier</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montpellier" title="wikilink">Ubisoft Montpellier</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -189,8 +189,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Adventure_Time:_Explore_the_Dungeon_Because_I_Don&#39;t_Know!.md" title="wikilink">Adventure Time: Explore the Dungeon Because I Don't Know!</a></em>[14]</p></td>
-<td><p><a href="../Page/WayForward_Technologies.md" title="wikilink">WayForward Technologies</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Adventure_Time:_Explore_the_Dungeon_Because_I_Don&#39;t_Know!" title="wikilink">Adventure Time: Explore the Dungeon Because I Don't Know!</a></em>[14]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WayForward_Technologies" title="wikilink">WayForward Technologies</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -200,8 +200,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/AFL_Live.md" title="wikilink">AFL Live</a></em>[15]</p></td>
-<td><p><a href="../Page/Big_Ant_Studios.md" title="wikilink">Big Ant Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/AFL_Live" title="wikilink">AFL Live</a></em>[15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Big_Ant_Studios" title="wikilink">Big Ant Studios</a></p></td>
 <td><p>AUS</p></td>
 <td><p>未發行</p></td>
 <td><p>(AUS only)</p></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/AFL_Live_2.md" title="wikilink">AFL Live 2</a></em>[16]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/AFL_Live_2" title="wikilink">AFL Live 2</a></em>[16]</p></td>
 <td><p><a href="../Page/Wicked_Witch_Software.md" title="wikilink">Wicked Witch Software</a></p></td>
 <td><p>AUS</p></td>
 <td><p>未發行</p></td>
@@ -221,9 +221,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/非洲_(電視遊戲).md" title="wikilink">非洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/非洲_(電視遊戲)" title="wikilink">非洲</a></p></td>
 <td><p><em>Afrika</em>[17][18]</p></td>
-<td><p><a href="../Page/Rhino_Studios.md" title="wikilink">Rhino Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rhino_Studios" title="wikilink">Rhino Studios</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -233,8 +233,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Afro_Samurai_(video_game).md" title="wikilink">Afro Samurai</a></em>[19]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Afro_Samurai_(video_game)" title="wikilink">Afro Samurai</a></em>[19]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -244,8 +244,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/After_Hours_Athletes.md" title="wikilink">After Hours Athletes</a></em>[20]</p></td>
-<td><p><a href="../Page/SCE_Worldwide_Studios.md" title="wikilink">XDev</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/After_Hours_Athletes" title="wikilink">After Hours Athletes</a></em>[20]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Worldwide_Studios" title="wikilink">XDev</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -255,7 +255,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Agent_(video_game).md" title="wikilink">Agent</a></em>[21]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Agent_(video_game)" title="wikilink">Agent</a></em>[21]</p></td>
 <td><p><a href="../Page/Rockstar_North.md" title="wikilink">Rockstar North</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -266,8 +266,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Air_Conflicts:_Pacific_Carriers.md" title="wikilink">Air Conflicts: Pacific Carriers</a></em>[22]</p></td>
-<td><p><a href="../Page/Games_Farm.md" title="wikilink">Games Farm</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Air_Conflicts:_Pacific_Carriers" title="wikilink">Air Conflicts: Pacific Carriers</a></em>[22]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Games_Farm" title="wikilink">Games Farm</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -277,8 +277,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Air_Conflicts:_Secret_Wars.md" title="wikilink">Air Conflicts: Secret Wars</a></em>[23]</p></td>
-<td><p><a href="../Page/Games_Farm.md" title="wikilink">Games Farm</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Air_Conflicts:_Secret_Wars" title="wikilink">Air Conflicts: Secret Wars</a></em>[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Games_Farm" title="wikilink">Games Farm</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -288,19 +288,19 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Air_Conflicts:_Vietnam.md" title="wikilink">Air Conflicts: Vietnam</a></em>[24]</p></td>
-<td><p><a href="../Page/Games_Farm.md" title="wikilink">Games Farm</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Air_Conflicts:_Vietnam" title="wikilink">Air Conflicts: Vietnam</a></em>[24]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Games_Farm" title="wikilink">Games Farm</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Akatsuki_no_Goei_Trinity.md" title="wikilink">Akatsuki no Goei Trinity</a></em>[25]</p></td>
-<td><p><a href="../Page/M2_(game_developer).md" title="wikilink">M2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Akatsuki_no_Goei_Trinity" title="wikilink">Akatsuki no Goei Trinity</a></em>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M2_(game_developer)" title="wikilink">M2</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -310,8 +310,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/AKB1/149_Ren&#39;ai_Sōsenkyo.md" title="wikilink">AKB1/149 Ren'ai Sōsenkyo</a></em>[26]</p></td>
-<td><p><a href="../Page/Namco_Bandai_Games.md" title="wikilink">Namco Bandai Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/AKB1/149_Ren&#39;ai_Sōsenkyo" title="wikilink">AKB1/149 Ren'ai Sōsenkyo</a></em>[26]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -321,8 +321,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Akiba&#39;s_Trip:_Undead_&amp;_Undressed.md" title="wikilink">Akiba's Trip: Undead &amp; Undressed</a></em>[27]</p></td>
-<td><p><a href="../Page/Acquire_(game_developer).md" title="wikilink">Acquire</a> / <a href="../Page/XSEED.md" title="wikilink">XSEED</a> / <a href="../Page/NIS_America.md" title="wikilink">NIS America</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Akiba&#39;s_Trip:_Undead_&amp;_Undressed" title="wikilink">Akiba's Trip: Undead &amp; Undressed</a></em>[27]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Acquire_(game_developer)" title="wikilink">Acquire</a> / <a href="https://zh.wikipedia.org/wiki/XSEED" title="wikilink">XSEED</a> / <a href="https://zh.wikipedia.org/wiki/NIS_America" title="wikilink">NIS America</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -333,7 +333,7 @@
 <tr class="odd">
 <td><p><a href="../Page/愛麗絲驚魂記：瘋狂再臨.md" title="wikilink">愛麗絲驚魂記：瘋狂再臨</a></p></td>
 <td><p><em>Alice: Madness Returns</em>[28]</p></td>
-<td><p><a href="../Page/Spicy_Horse.md" title="wikilink">Spicy Horse</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spicy_Horse" title="wikilink">Spicy Horse</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -344,7 +344,7 @@
 <tr class="even">
 <td><p><a href="../Page/异形：殖民军.md" title="wikilink">异形：殖民军</a></p></td>
 <td><p><em>Aliens: Colonial Marines</em>[29]</p></td>
-<td><p><a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -354,7 +354,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Aliens_vs._Predator_(2010_video_game).md" title="wikilink">Aliens vs. Predator</a></em>[30]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Aliens_vs._Predator_(2010_video_game)" title="wikilink">Aliens vs. Predator</a></em>[30]</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
@@ -375,9 +375,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鬼屋魔影5.md" title="wikilink">鬼屋魔影5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鬼屋魔影5" title="wikilink">鬼屋魔影5</a></p></td>
 <td><p><em>Alone in the Dark: Inferno</em>[32]</p></td>
-<td><p><a href="../Page/Eden_Studios.md" title="wikilink">Eden Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eden_Studios" title="wikilink">Eden Studios</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -388,7 +388,7 @@
 <tr class="even">
 <td><p><a href="../Page/阿尔法协议.md" title="wikilink">阿尔法协议</a></p></td>
 <td><p><em>Alpha Protocol</em>[33]</p></td>
-<td><p><a href="../Page/Obsidian_Entertainment.md" title="wikilink">Obsidian Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Obsidian_Entertainment" title="wikilink">Obsidian Entertainment</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -399,7 +399,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -410,7 +410,7 @@
 <tr class="even">
 <td></td>
 <td><p>[34]</p></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -420,8 +420,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Anarchy_Reigns.md" title="wikilink">Anarchy Reigns</a></em>[35]</p></td>
-<td><p><a href="../Page/Platinum_Games.md" title="wikilink">Platinum Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Anarchy_Reigns" title="wikilink">Anarchy Reigns</a></em>[35]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Platinum_Games" title="wikilink">Platinum Games</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -431,8 +431,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Angel_Senki.md" title="wikilink">Angel Senki</a></em></p></td>
-<td><p><a href="../Page/UserJoy_Technology.md" title="wikilink">UserJoy Technology</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Angel_Senki" title="wikilink">Angel Senki</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UserJoy_Technology" title="wikilink">UserJoy Technology</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -442,8 +442,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Another_Century&#39;s_Episode:_R.md" title="wikilink">Another Century's Episode: R</a></em>[36]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Another_Century&#39;s_Episode:_R" title="wikilink">Another Century's Episode: R</a></em>[36]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -452,9 +452,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/憤怒的小鳥星球大戰版.md" title="wikilink">憤怒的小鳥星球大戰版</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/憤怒的小鳥星球大戰版" title="wikilink">憤怒的小鳥星球大戰版</a></p></td>
 <td><p><em>Angry Birds Star Wars</em>[37]</p></td>
-<td><p><a href="../Page/Rovio_Entertainment.md" title="wikilink">Rovio Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rovio_Entertainment" title="wikilink">Rovio Entertainment</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -464,8 +464,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Angry_Birds_Trilogy.md" title="wikilink">Angry Birds Trilogy</a></em>[38]</p></td>
-<td><p><a href="../Page/Rovio_Entertainment.md" title="wikilink">Rovio Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Angry_Birds_Trilogy" title="wikilink">Angry Birds Trilogy</a></em>[38]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rovio_Entertainment" title="wikilink">Rovio Entertainment</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -475,8 +475,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Apache:_Air_Assault.md" title="wikilink">Apache: Air Assault</a></em>[39]</p></td>
-<td><p><a href="../Page/Gaijin_Entertainment.md" title="wikilink">Gaijin Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Apache:_Air_Assault" title="wikilink">Apache: Air Assault</a></em>[39]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaijin_Entertainment" title="wikilink">Gaijin Entertainment</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -486,8 +486,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ape_Escape_(PS3).md" title="wikilink">Ape Escape</a></em>[40]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ape_Escape_(PS3)" title="wikilink">Ape Escape</a></em>[40]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -497,7 +497,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Aquanaut&#39;s_Holiday:_Hidden_Memories.md" title="wikilink">Aquanaut's Holiday: Hidden Memories</a></em>[41]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Aquanaut&#39;s_Holiday:_Hidden_Memories" title="wikilink">Aquanaut's Holiday: Hidden Memories</a></em>[41]</p></td>
 <td><p><a href="../Page/Irem.md" title="wikilink">Irem</a></p></td>
 <td><p>JP</p></td>
 <td></td>
@@ -508,8 +508,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Aquapazza:_Aquaplus_Dream_Match.md" title="wikilink">Aquapazza: Aquaplus Dream Match</a></em>[42]</p></td>
-<td><p><a href="../Page/Examu.md" title="wikilink">Examu</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Aquapazza:_Aquaplus_Dream_Match" title="wikilink">Aquapazza: Aquaplus Dream Match</a></em>[42]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Examu" title="wikilink">Examu</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -519,8 +519,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ar_nosurge.md" title="wikilink">Ar nosurge</a></em>[43]</p></td>
-<td><p><a href="../Page/Gust_Co._Ltd..md" title="wikilink">Gust Co. Ltd.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ar_nosurge" title="wikilink">Ar nosurge</a></em>[43]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Co._Ltd." title="wikilink">Gust Co. Ltd.</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -530,8 +530,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Arcadias_no_Ikusaime.md" title="wikilink">Arcadias no Ikusaime</a></em>[44]</p></td>
-<td><p><a href="../Page/Nippon_Ichi_Software.md" title="wikilink">Nippon Ichi Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Arcadias_no_Ikusaime" title="wikilink">Arcadias no Ikusaime</a></em>[44]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi_Software" title="wikilink">Nippon Ichi Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -541,12 +541,12 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Arcana_Heart_3.md" title="wikilink">Arcana Heart 3</a></em>[45]</p></td>
-<td><p><a href="../Page/Examu.md" title="wikilink">Examu</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Arcana_Heart_3" title="wikilink">Arcana Heart 3</a></em>[45]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Examu" title="wikilink">Examu</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -555,7 +555,7 @@
 <td><p>''[[Arcana_Heart_3|Arcana Heart 3: Love Max</p></td>
 <td></td>
 <td><p>!]]''</p></td>
-<td><p><a href="../Page/Examu.md" title="wikilink">Examu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Examu" title="wikilink">Examu</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -563,8 +563,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Arcania:_Gothic_4.md" title="wikilink">Arcania: The Complete Tale</a></em></p></td>
-<td><p><a href="../Page/Black_Forest_Games.md" title="wikilink">Black Forest Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Arcania:_Gothic_4" title="wikilink">Arcania: The Complete Tale</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Black_Forest_Games" title="wikilink">Black Forest Games</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -574,8 +574,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ar_tonelico_Qoga:_Knell_of_Ar_Ciel.md" title="wikilink">Ar tonelico Qoga: Knell of Ar Ciel</a></em>[46]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ar_tonelico_Qoga:_Knell_of_Ar_Ciel" title="wikilink">Ar tonelico Qoga: Knell of Ar Ciel</a></em>[46]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -584,9 +584,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/機戰傭兵4.md" title="wikilink">機戰傭兵4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/機戰傭兵4" title="wikilink">機戰傭兵4</a></p></td>
 <td><p><em>Armored Core 4</em>[47]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -595,9 +595,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/機戰傭兵4A.md" title="wikilink">機戰傭兵4A</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/機戰傭兵4A" title="wikilink">機戰傭兵4A</a></p></td>
 <td><p><em>Armored Core: For Answer</em>[48]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -608,7 +608,7 @@
 <tr class="even">
 <td><p><a href="../Page/裝甲核心V.md" title="wikilink">裝甲核心V</a></p></td>
 <td><p><em>Armored Core V</em>[49]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -619,7 +619,7 @@
 <tr class="odd">
 <td><p><a href="../Page/機戰傭兵_審判日.md" title="wikilink">機戰傭兵 審判日</a></p></td>
 <td><p><em>Armored Core: Verdict Day</em>[50]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -629,7 +629,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Army_of_Two.md" title="wikilink">Army of Two</a></em>[51]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Army_of_Two" title="wikilink">Army of Two</a></em>[51]</p></td>
 <td><p><a href="../Page/EA_Montreal.md" title="wikilink">EA Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
@@ -640,7 +640,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Army_of_Two:_The_40th_Day.md" title="wikilink">Army of Two: The 40th Day</a></em>[52]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Army_of_Two:_The_40th_Day" title="wikilink">Army of Two: The 40th Day</a></em>[52]</p></td>
 <td><p><a href="../Page/EA_Montreal.md" title="wikilink">EA Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
@@ -651,8 +651,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Army_of_Two:_The_Devil&#39;s_Cartel.md" title="wikilink">Army of Two: The Devil's Cartel</a></em>[53]</p></td>
-<td><p><a href="../Page/Visceral_Games.md" title="wikilink">Visceral Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Army_of_Two:_The_Devil&#39;s_Cartel" title="wikilink">Army of Two: The Devil's Cartel</a></em>[53]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Visceral_Games" title="wikilink">Visceral Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -662,8 +662,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Arthur_and_the_Revenge_of_Maltazard.md" title="wikilink">Arthur and the Revenge of Maltazard</a></em>[54]</p></td>
-<td><p><a href="../Page/Ubisoft.md" title="wikilink">Ubisoft</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Arthur_and_the_Revenge_of_Maltazard" title="wikilink">Arthur and the Revenge of Maltazard</a></em>[54]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -673,8 +673,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ashes_Cricket_2009.md" title="wikilink">Ashes Cricket 2009</a></em>[55]</p></td>
-<td><p><a href="../Page/Transmission_Games.md" title="wikilink">Transmission Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ashes_Cricket_2009" title="wikilink">Ashes Cricket 2009</a></em>[55]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Transmission_Games" title="wikilink">Transmission Games</a></p></td>
 <td><p>EU</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -685,7 +685,7 @@
 <tr class="odd">
 <td><p><a href="../Page/刺客教條_(遊戲).md" title="wikilink">刺客教條</a></p></td>
 <td><p><em>Assassin's Creed</em>[56]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -696,7 +696,7 @@
 <tr class="even">
 <td><p><a href="../Page/刺客信条II.md" title="wikilink">刺客信条II</a></p></td>
 <td><p><em>Assassin's Creed II</em>[57]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -707,7 +707,7 @@
 <tr class="odd">
 <td><p><a href="../Page/刺客信条III.md" title="wikilink">刺客信条III</a></p></td>
 <td><p><em>Assassin's Creed III</em>[58]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -718,7 +718,7 @@
 <tr class="even">
 <td><p><a href="../Page/刺客教條IV：黑旗.md" title="wikilink">刺客教條IV：黑旗</a></p></td>
 <td><p><em>Assassin's Creed IV: Black Flag</em>[59]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -729,7 +729,7 @@
 <tr class="odd">
 <td><p><a href="../Page/刺客教條：兄弟會.md" title="wikilink">刺客教條：兄弟會</a></p></td>
 <td><p><em>Assassin's Creed: Brotherhood</em>[60]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -740,7 +740,7 @@
 <tr class="even">
 <td><p><a href="../Page/刺客教條：啟示錄.md" title="wikilink">刺客教條：啟示錄</a></p></td>
 <td><p><em>Assassin's Creed: Revelations</em>[61]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -749,9 +749,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/刺客信条：叛变.md" title="wikilink">刺客信条：叛变</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刺客信条：叛变" title="wikilink">刺客信条：叛变</a></p></td>
 <td><p><em>Assassin's Creed Rogue</em>[62]</p></td>
-<td><p><a href="../Page/Ubisoft_Sofia.md" title="wikilink">Ubisoft Sofia</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Sofia" title="wikilink">Ubisoft Sofia</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -761,8 +761,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Asura&#39;s_Wrath.md" title="wikilink">Asura's Wrath</a></em>[63]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Asura&#39;s_Wrath" title="wikilink">Asura's Wrath</a></em>[63]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td><p>NA</p></td>
 <td></td>
 <td></td>
@@ -772,8 +772,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Ayesha:_The_Alchemist_of_Dusk.md" title="wikilink">Atelier Ayesha: The Alchemist of Dusk</a></em>[64]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Ayesha:_The_Alchemist_of_Dusk" title="wikilink">Atelier Ayesha: The Alchemist of Dusk</a></em>[64]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -783,8 +783,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Escha_&amp;_Logy:_Alchemists_of_the_Dusk_Sky.md" title="wikilink">Atelier Escha &amp; Logy: Alchemists of the Dusk Sky</a></em>[65]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Escha_&amp;_Logy:_Alchemists_of_the_Dusk_Sky" title="wikilink">Atelier Escha &amp; Logy: Alchemists of the Dusk Sky</a></em>[65]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -794,8 +794,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Meruru:_The_Apprentice_of_Arland.md" title="wikilink">Atelier Meruru: The Apprentice of Arland</a></em>[66]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Meruru:_The_Apprentice_of_Arland" title="wikilink">Atelier Meruru: The Apprentice of Arland</a></em>[66]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -805,8 +805,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Rorona:_The_Alchemist_of_Arland.md" title="wikilink">Atelier Rorona: The Alchemist of Arland</a></em>[67]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Rorona:_The_Alchemist_of_Arland" title="wikilink">Atelier Rorona: The Alchemist of Arland</a></em>[67]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -816,8 +816,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Rorona:_The_Alchemist_of_Arland.md" title="wikilink">Atelier Rorona Plus: The Alchemist of Arland</a></em>[68][69]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Rorona:_The_Alchemist_of_Arland" title="wikilink">Atelier Rorona Plus: The Alchemist of Arland</a></em>[68][69]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust</a></p></td>
 <td><p>EU</p></td>
 <td></td>
 <td></td>
@@ -827,8 +827,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Shallie:_Alchemists_of_the_Dusk_Sea.md" title="wikilink">Atelier Shallie: Alchemists of the Dusk Sea</a></em>[70]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Shallie:_Alchemists_of_the_Dusk_Sea" title="wikilink">Atelier Shallie: Alchemists of the Dusk Sea</a></em>[70]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -838,8 +838,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Atelier_Totori:_The_Adventurer_of_Arland.md" title="wikilink">Atelier Totori: The Adventurer of Arland</a></em>[71]</p></td>
-<td><p><a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland" title="wikilink">Atelier Totori: The Adventurer of Arland</a></em>[71]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -849,8 +849,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Avatar:_The_Game.md" title="wikilink">Avatar: The Game</a></em>[72]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Avatar:_The_Game" title="wikilink">Avatar: The Game</a></em>[72]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -860,8 +860,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Guided_Fate_Paradox.md" title="wikilink">The Awakened Fate Ultimatum</a></em></p></td>
-<td><p><a href="../Page/Nippon_Ichi_Software.md" title="wikilink">Nippon Ichi Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Guided_Fate_Paradox" title="wikilink">The Awakened Fate Ultimatum</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi_Software" title="wikilink">Nippon Ichi Software</a></p></td>
 <td><p>JP</p></td>
 <td></td>
 <td></td>
@@ -871,8 +871,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="B"></span><em><a href="../Page/Back_to_the_Future:_The_Game.md" title="wikilink">Back to the Future: The Game</a></em>[73]</p></td>
-<td><p><a href="../Page/Telltale_Games.md" title="wikilink">Telltale Games</a></p></td>
+<td><p><span id="B"></span><em><a href="https://zh.wikipedia.org/wiki/Back_to_the_Future:_The_Game" title="wikilink">Back to the Future: The Game</a></em>[73]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Telltale_Games" title="wikilink">Telltale Games</a></p></td>
 <td><p>NA</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -882,8 +882,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Backbreaker_(video_game).md" title="wikilink">Backbreaker</a></em>[74]</p></td>
-<td><p><a href="../Page/NaturalMotion.md" title="wikilink">NaturalMotion</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Backbreaker_(video_game)" title="wikilink">Backbreaker</a></em>[74]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NaturalMotion" title="wikilink">NaturalMotion</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -893,8 +893,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Baja:_Edge_of_Control.md" title="wikilink">Baja: Edge of Control</a></em>[75]</p></td>
-<td><p><a href="../Page/2XL_Games.md" title="wikilink">2XL Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Baja:_Edge_of_Control" title="wikilink">Baja: Edge of Control</a></em>[75]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2XL_Games" title="wikilink">2XL Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -904,7 +904,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/List_of_Bakugan_Battle_Brawlers_video_games.md" title="wikilink">Bakugan Battle Brawlers</a></em>[76]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_Bakugan_Battle_Brawlers_video_games" title="wikilink">Bakugan Battle Brawlers</a></em>[76]</p></td>
 <td><p><a href="../Page/Now_Production.md" title="wikilink">Now Production</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -915,7 +915,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/List_of_Bakugan_Battle_Brawlers_video_games.md" title="wikilink">Bakugan: Defenders of the Core</a></em>[77]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_Bakugan_Battle_Brawlers_video_games" title="wikilink">Bakugan: Defenders of the Core</a></em>[77]</p></td>
 <td><p><a href="../Page/Now_Production.md" title="wikilink">Now Production</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -926,8 +926,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/BandFuse:_Rock_Legends.md" title="wikilink">BandFuse: Rock Legends</a></em>[78]</p></td>
-<td><p><a href="../Page/Realta_Entertainment_Group.md" title="wikilink">Realta Entertainment Group</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BandFuse:_Rock_Legends" title="wikilink">BandFuse: Rock Legends</a></em>[78]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Realta_Entertainment_Group" title="wikilink">Realta Entertainment Group</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -937,7 +937,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Band_Hero.md" title="wikilink">Band Hero</a></em>[79]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Band_Hero" title="wikilink">Band Hero</a></em>[79]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -948,7 +948,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Batman:_Arkham_Asylum.md" title="wikilink">Batman: Arkham Asylum</a></em>[80]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Batman:_Arkham_Asylum" title="wikilink">Batman: Arkham Asylum</a></em>[80]</p></td>
 <td><p><a href="../Page/Rocksteady_Studios.md" title="wikilink">Rocksteady Studios</a></p></td>
 <td></td>
 <td></td>
@@ -959,7 +959,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Batman:_Arkham_City.md" title="wikilink">Batman: Arkham City</a></em>[81]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Batman:_Arkham_City" title="wikilink">Batman: Arkham City</a></em>[81]</p></td>
 <td><p><a href="../Page/Rocksteady_Studios.md" title="wikilink">Rocksteady Studios</a></p></td>
 <td></td>
 <td></td>
@@ -970,8 +970,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Batman:_Arkham_Origins.md" title="wikilink">Batman: Arkham Origins</a></em>[82]</p></td>
-<td><p><a href="../Page/Warner_Bros._Games_Montréal.md" title="wikilink">Warner Bros. Games Montréal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Batman:_Arkham_Origins" title="wikilink">Batman: Arkham Origins</a></em>[82]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Warner_Bros._Games_Montréal" title="wikilink">Warner Bros. Games Montréal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -981,19 +981,19 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Battle_Fantasia.md" title="wikilink">Battle Fantasia</a></em>[83]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Battle_Fantasia" title="wikilink">Battle Fantasia</a></em>[83]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td><p><small>(U.S. only)</small></p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Battle_vs._Chess.md" title="wikilink">Battle vs. Chess</a></em>[84]</p></td>
-<td><p><a href="../Page/Targem_Games.md" title="wikilink">Targem Games</a> / <a href="../Page/Zuxxez_Entertainment.md" title="wikilink">Zuxxez Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Battle_vs._Chess" title="wikilink">Battle vs. Chess</a></em>[84]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Targem_Games" title="wikilink">Targem Games</a> / <a href="../Page/Zuxxez_Entertainment.md" title="wikilink">Zuxxez Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1004,7 +1004,7 @@
 <tr class="even">
 <td><p><a href="../Page/戰地風雲3.md" title="wikilink">戰地風雲3</a></p></td>
 <td><p><em>Battlefield 3</em>[85]</p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1015,7 +1015,7 @@
 <tr class="odd">
 <td><p><a href="../Page/戰地風雲4.md" title="wikilink">戰地風雲4</a></p></td>
 <td><p><em>Battlefield 4</em>[86]</p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1025,8 +1025,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Battlefield_Hardline.md" title="wikilink">Battlefield Hardline</a></em></p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Battlefield_Hardline" title="wikilink">Battlefield Hardline</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1037,7 +1037,7 @@
 <tr class="odd">
 <td><p><a href="../Page/战地：叛逆连队.md" title="wikilink">战地：叛逆连队</a></p></td>
 <td><p><em>Battlefield: Bad Company</em>[87]</p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1048,7 +1048,7 @@
 <tr class="even">
 <td><p><a href="../Page/战地：叛逆连队2.md" title="wikilink">战地：叛逆连队2</a></p></td>
 <td><p><em>Battlefield: Bad Company 2</em>[88]</p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1058,8 +1058,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Battleship_(2012_video_game).md" title="wikilink">Battleship</a></em>[89]</p></td>
-<td><p><a href="../Page/Double_Helix_Games.md" title="wikilink">Double Helix Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Battleship_(2012_video_game)" title="wikilink">Battleship</a></em>[89]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_Helix_Games" title="wikilink">Double Helix Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1070,7 +1070,7 @@
 <tr class="even">
 <td><p><a href="../Page/魔兵驚天錄.md" title="wikilink">魔兵驚天錄</a></p></td>
 <td><p><em>Bayonetta</em>[90]</p></td>
-<td><p><a href="../Page/Platinum_Games.md" title="wikilink">Platinum Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Platinum_Games" title="wikilink">Platinum Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1080,19 +1080,19 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Beat_Sketcher.md" title="wikilink">Beat Sketcher</a></em>[91]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Beat_Sketcher" title="wikilink">Beat Sketcher</a></em>[91]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1101,9 +1101,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/北京2008.md" title="wikilink">北京2008</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京2008" title="wikilink">北京2008</a></p></td>
 <td><p><em>Beijing 2008</em>[92]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1113,8 +1113,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Bejeweled_3_(video_game).md" title="wikilink">Bejeweled 3</a></em>[93]</p></td>
-<td><p><a href="../Page/PopCap_Games.md" title="wikilink">PopCap Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bejeweled_3_(video_game)" title="wikilink">Bejeweled 3</a></em>[93]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PopCap_Games" title="wikilink">PopCap Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1124,8 +1124,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ben_10:_Galactic_Racing.md" title="wikilink">Ben 10: Galactic Racing</a></em>[94]</p></td>
-<td><p><a href="../Page/D3_Publisher.md" title="wikilink">D3 Publisher</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ben_10:_Galactic_Racing" title="wikilink">Ben 10: Galactic Racing</a></em>[94]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Publisher" title="wikilink">D3 Publisher</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1136,7 +1136,7 @@
 <tr class="even">
 <td><p><a href="../Page/Ben_10_全面進化.md" title="wikilink">Ben 10 全面進化</a></p></td>
 <td><p><em>Ben 10: Omniverse</em>[95]</p></td>
-<td><p><a href="../Page/D3_Publisher.md" title="wikilink">D3 Publisher</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Publisher" title="wikilink">D3 Publisher</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1146,8 +1146,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ben_10:_Omniverse_2.md" title="wikilink">Ben 10: Omniverse 2</a></em>[96]</p></td>
-<td><p><a href="../Page/D3_Publisher.md" title="wikilink">D3 Publisher</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ben_10:_Omniverse_2" title="wikilink">Ben 10: Omniverse 2</a></em>[96]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Publisher" title="wikilink">D3 Publisher</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1157,8 +1157,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ben_10_Ultimate_Alien:_Cosmic_Destruction.md" title="wikilink">Ben 10 Ultimate Alien: Cosmic Destruction</a></em>[97]</p></td>
-<td><p><a href="../Page/D3_Publisher.md" title="wikilink">D3 Publisher</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ben_10_Ultimate_Alien:_Cosmic_Destruction" title="wikilink">Ben 10 Ultimate Alien: Cosmic Destruction</a></em>[97]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Publisher" title="wikilink">D3 Publisher</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1168,8 +1168,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Beowulf:_The_Game.md" title="wikilink">Beowulf: The Game</a></em>[98]</p></td>
-<td><p><a href="../Page/Ubisoft_Shanghai.md" title="wikilink">Ubisoft Shanghai</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Beowulf:_The_Game" title="wikilink">Beowulf: The Game</a></em>[98]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Shanghai" title="wikilink">Ubisoft Shanghai</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1179,8 +1179,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/High-definition_remasters_for_PlayStation_consoles#PlayStation_Collections.md" title="wikilink">Best of PlayStation Network Vol. 1</a></em>[99]</p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">SCEA</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/High-definition_remasters_for_PlayStation_consoles#PlayStation_Collections" title="wikilink">Best of PlayStation Network Vol. 1</a></em>[99]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">SCEA</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1201,8 +1201,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Bikkuri_Pachinko:_Ashita_no_Joe_-_Kyoraku_Collection_Vol.1.md" title="wikilink">Bikkuri Pachinko: Ashita no Joe - Kyoraku Collection Vol.1</a></em></p></td>
-<td><p><a href="../Page/Kyoraku_Sangyou_Holdings.md" title="wikilink">Kyoraku Sangyou Holdings</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bikkuri_Pachinko:_Ashita_no_Joe_-_Kyoraku_Collection_Vol.1" title="wikilink">Bikkuri Pachinko: Ashita no Joe - Kyoraku Collection Vol.1</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kyoraku_Sangyou_Holdings" title="wikilink">Kyoraku Sangyou Holdings</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -1212,8 +1212,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Bionic_Commando_(2009_video_game).md" title="wikilink">Bionic Commando</a></em>[101]</p></td>
-<td><p><a href="../Page/GRIN_(company).md" title="wikilink">GRIN</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bionic_Commando_(2009_video_game)" title="wikilink">Bionic Commando</a></em>[101]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GRIN_(company)" title="wikilink">GRIN</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1223,8 +1223,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Binary_Domain.md" title="wikilink">Binary Domain</a></em>[102]</p></td>
-<td><p><a href="../Page/Sega_Japan.md" title="wikilink">Sega Japan</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Binary_Domain" title="wikilink">Binary Domain</a></em>[102]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega_Japan" title="wikilink">Sega Japan</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1233,7 +1233,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/生化奇兵.md" title="wikilink">生化奇兵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生化奇兵" title="wikilink">生化奇兵</a></p></td>
 <td><p><em>BioShock</em>[103]</p></td>
 <td><p><a href="../Page/Irrational_Games.md" title="wikilink">Irrational Games</a> / <a href="../Page/2K_Marin.md" title="wikilink">2K Marin</a></p></td>
 <td></td>
@@ -1246,7 +1246,7 @@
 <tr class="even">
 <td><p><a href="../Page/生化奇兵2.md" title="wikilink">生化奇兵2</a></p></td>
 <td><p><em>BioShock 2</em>[104]</p></td>
-<td><p><a href="../Page/2K_Marin.md" title="wikilink">2K Marin</a> / <a href="../Page/Digital_Extremes.md" title="wikilink">Digital Extremes</a> / <a href="../Page/2K_Australia.md" title="wikilink">2K Australia</a> / <a href="../Page/2K_China.md" title="wikilink">2K China</a> / <a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
+<td><p><a href="../Page/2K_Marin.md" title="wikilink">2K Marin</a> / <a href="https://zh.wikipedia.org/wiki/Digital_Extremes" title="wikilink">Digital Extremes</a> / <a href="../Page/2K_Australia.md" title="wikilink">2K Australia</a> / <a href="https://zh.wikipedia.org/wiki/2K_China" title="wikilink">2K China</a> / <a href="../Page/Arkane_Studios.md" title="wikilink">Arkane Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1267,8 +1267,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Birds_of_Steel.md" title="wikilink">Birds of Steel</a></em>[106]</p></td>
-<td><p><a href="../Page/Gaijin_Entertainment.md" title="wikilink">Gaijin Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Birds_of_Steel" title="wikilink">Birds of Steel</a></em>[106]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaijin_Entertainment" title="wikilink">Gaijin Entertainment</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1278,8 +1278,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/BlackSite:_Area_51.md" title="wikilink">BlackSite: Area 51</a></em>[107]</p></td>
-<td><p><a href="../Page/Midway_Austin.md" title="wikilink">Midway Studios Austin</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BlackSite:_Area_51" title="wikilink">BlackSite: Area 51</a></em>[107]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Austin" title="wikilink">Midway Studios Austin</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1290,7 +1290,7 @@
 <tr class="even">
 <td><p><a href="../Page/时光之刃.md" title="wikilink">时光之刃</a></p></td>
 <td><p><em>Blades of Time</em>[108]</p></td>
-<td><p><a href="../Page/Gaijin_Entertainment.md" title="wikilink">Gaijin Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaijin_Entertainment" title="wikilink">Gaijin Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1301,7 +1301,7 @@
 <tr class="odd">
 <td><p><a href="../Page/長劍風暴：百年戰爭.md" title="wikilink">長劍風暴：百年戰爭</a></p></td>
 <td><p><em>Bladestorm: The Hundred Years' War</em>[109]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1311,7 +1311,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/BlazBlue:_Calamity_Trigger.md" title="wikilink">BlazBlue: Calamity Trigger</a></em>[110]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BlazBlue:_Calamity_Trigger" title="wikilink">BlazBlue: Calamity Trigger</a></em>[110]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td></td>
 <td></td>
@@ -1322,7 +1322,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/BlazBlue:_Continuum_Shift.md" title="wikilink">BlazBlue: Continuum Shift</a></em>[111]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BlazBlue:_Continuum_Shift" title="wikilink">BlazBlue: Continuum Shift</a></em>[111]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td></td>
 <td></td>
@@ -1333,7 +1333,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/BlazBlue:_Chronophantasma.md" title="wikilink">BlazBlue: Chronophantasma</a></em>[112]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/BlazBlue:_Chronophantasma" title="wikilink">BlazBlue: Chronophantasma</a></em>[112]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1343,9 +1343,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/熾焰天使：二戰英豪.md" title="wikilink">熾焰天使：二戰英豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熾焰天使：二戰英豪" title="wikilink">熾焰天使：二戰英豪</a></p></td>
 <td><p><em>Blazing Angels: Squadrons of WWII</em>[113]</p></td>
-<td><p><a href="../Page/Ubisoft_Romania.md" title="wikilink">Ubisoft Romania</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Romania" title="wikilink">Ubisoft Romania</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1354,9 +1354,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/熾焰天使2：二戰絕密使命.md" title="wikilink">熾焰天使2：二戰絕密使命</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熾焰天使2：二戰絕密使命" title="wikilink">熾焰天使2：二戰絕密使命</a></p></td>
 <td><p><em>Blazing Angels 2: Secret Missions of WWII</em>[114]</p></td>
-<td><p><a href="../Page/Ubisoft_Romania.md" title="wikilink">Ubisoft Romania</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Romania" title="wikilink">Ubisoft Romania</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1366,8 +1366,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Bleach:_Soul_Resurrección.md" title="wikilink">Bleach: Soul Resurrección</a></em>[115]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bleach:_Soul_Resurrección" title="wikilink">Bleach: Soul Resurrección</a></em>[115]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1377,8 +1377,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Blitz:_The_League_II.md" title="wikilink">Blitz: The League II</a></em>[116]</p></td>
-<td><p><a href="../Page/Midway_Games.md" title="wikilink">Midway Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Blitz:_The_League_II" title="wikilink">Blitz: The League II</a></em>[116]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Games" title="wikilink">Midway Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1388,7 +1388,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Blur_(video_game).md" title="wikilink">Blur</a></em>[117]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Blur_(video_game)" title="wikilink">Blur</a></em>[117]</p></td>
 <td><p><a href="../Page/Bizarre_Creations.md" title="wikilink">Bizarre Creations</a></p></td>
 <td></td>
 <td></td>
@@ -1399,8 +1399,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Bodycount_(2011_video_game).md" title="wikilink">Bodycount</a></em>[118]</p></td>
-<td><p><a href="../Page/Codemasters_Studios_Guildford.md" title="wikilink">Codemasters Studios Guildford</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bodycount_(2011_video_game)" title="wikilink">Bodycount</a></em>[118]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Codemasters_Studios_Guildford" title="wikilink">Codemasters Studios Guildford</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1410,8 +1410,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Bolt_(video_game).md" title="wikilink">Bolt</a></em>[119]</p></td>
-<td><p><a href="../Page/Avalanche_Software.md" title="wikilink">Avalanche Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bolt_(video_game)" title="wikilink">Bolt</a></em>[119]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Avalanche_Software" title="wikilink">Avalanche Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1422,7 +1422,7 @@
 <tr class="even">
 <td><p><a href="../Page/无主之地.md" title="wikilink">无主之地</a></p></td>
 <td><p><em>Borderlands</em>[120]</p></td>
-<td><p><a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1431,9 +1431,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/無主之地2.md" title="wikilink">無主之地2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/無主之地2" title="wikilink">無主之地2</a></p></td>
 <td><p><em>Borderlands 2</em>[121]</p></td>
-<td><p><a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1443,7 +1443,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Borderlands:_The_Pre-Sequel!.md" title="wikilink">Borderlands: The Pre-Sequel!</a></em>[122]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Borderlands:_The_Pre-Sequel!" title="wikilink">Borderlands: The Pre-Sequel!</a></em>[122]</p></td>
 <td><p><a href="../Page/2K_Australia.md" title="wikilink">2K Australia</a></p></td>
 <td></td>
 <td></td>
@@ -1454,8 +1454,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Bound_by_Flame.md" title="wikilink">Bound by Flame</a></em>[123]</p></td>
-<td><p><a href="../Page/Spiders_(developer).md" title="wikilink">Spiders</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Bound_by_Flame" title="wikilink">Bound by Flame</a></em>[123]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spiders_(developer)" title="wikilink">Spiders</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1465,19 +1465,19 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Brain_Challenge.md" title="wikilink">Brain Challenge</a></em>[124]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Brain_Challenge" title="wikilink">Brain Challenge</a></em>[124]</p></td>
 <td><p><a href="../Page/Gameloft.md" title="wikilink">Gameloft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Brink_(video_game).md" title="wikilink">Brink</a></em>[125]</p></td>
-<td><p><a href="../Page/Splash_Damage.md" title="wikilink">Splash Damage</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Brink_(video_game)" title="wikilink">Brink</a></em>[125]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Splash_Damage" title="wikilink">Splash Damage</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1487,8 +1487,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Brothers_in_Arms:_Hell&#39;s_Highway.md" title="wikilink">Brothers in Arms: Hell's Highway</a></em>[126]</p></td>
-<td><p><a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Brothers_in_Arms:_Hell&#39;s_Highway" title="wikilink">Brothers in Arms: Hell's Highway</a></em>[126]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1498,7 +1498,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Brütal_Legend.md" title="wikilink">Brütal Legend</a></em>[127]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Brütal_Legend" title="wikilink">Brütal Legend</a></em>[127]</p></td>
 <td><p><a href="../Page/Double_Fine_Productions.md" title="wikilink">Double Fine Productions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -1519,7 +1519,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/橫衝直撞_狂飆樂園.md" title="wikilink">橫衝直撞 狂飆樂園</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橫衝直撞_狂飆樂園" title="wikilink">橫衝直撞 狂飆樂園</a></p></td>
 <td><p><em>Burnout Paradise</em>[129]</p></td>
 <td><p><a href="../Page/Criterion_Games.md" title="wikilink">Criterion Games</a></p></td>
 <td></td>
@@ -1531,8 +1531,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Buzz!:_Brain_of_the_World.md" title="wikilink">Buzz!: Brain of the World</a></em>[130]</p></td>
-<td><p><a href="../Page/Relentless_Software.md" title="wikilink">Relentless Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Buzz!:_Brain_of_the_World" title="wikilink">Buzz!: Brain of the World</a></em>[130]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Relentless_Software" title="wikilink">Relentless Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1542,8 +1542,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Buzz!:_Quiz_TV.md" title="wikilink">Buzz!: Quiz TV</a></em>[131]</p></td>
-<td><p><a href="../Page/Relentless_Software.md" title="wikilink">Relentless Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Buzz!:_Quiz_TV" title="wikilink">Buzz!: Quiz TV</a></em>[131]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Relentless_Software" title="wikilink">Relentless Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1553,8 +1553,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Buzz!:_Quiz_World.md" title="wikilink">Buzz!: Quiz World</a></em>[132]</p></td>
-<td><p><a href="../Page/Relentless_Software.md" title="wikilink">Relentless Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Buzz!:_Quiz_World" title="wikilink">Buzz!: Quiz World</a></em>[132]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Relentless_Software" title="wikilink">Relentless Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1564,8 +1564,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="C"></span><em><a href="../Page/Cabela&#39;s_African_Adventures.md" title="wikilink">Cabela's African Adventures</a></em>[133]</p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><span id="C"></span><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_African_Adventures" title="wikilink">Cabela's African Adventures</a></em>[133]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1575,8 +1575,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Big_Game_Hunter_2010.md" title="wikilink">Cabela's Big Game Hunter 2010</a></em>[134]</p></td>
-<td><p><a href="../Page/Cauldron_HQ.md" title="wikilink">Cauldron HQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Big_Game_Hunter_2010" title="wikilink">Cabela's Big Game Hunter 2010</a></em>[134]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cauldron_HQ" title="wikilink">Cauldron HQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1586,8 +1586,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Big_Game_Hunter_2012.md" title="wikilink">Cabela's Big Game Hunter 2012</a></em>[135]</p></td>
-<td><p><a href="../Page/Cauldron_HQ.md" title="wikilink">Cauldron HQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Big_Game_Hunter_2012" title="wikilink">Cabela's Big Game Hunter 2012</a></em>[135]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cauldron_HQ" title="wikilink">Cauldron HQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1597,8 +1597,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Dangerous_Hunts_2009.md" title="wikilink">Cabela's Dangerous Hunts 2009</a></em>[136]</p></td>
-<td><p><a href="../Page/Sand_Grain_Studios.md" title="wikilink">Sand Grain Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Dangerous_Hunts_2009" title="wikilink">Cabela's Dangerous Hunts 2009</a></em>[136]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sand_Grain_Studios" title="wikilink">Sand Grain Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1608,8 +1608,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Dangerous_Hunts_2011.md" title="wikilink">Cabela's Dangerous Hunts 2011</a></em>[137]</p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Dangerous_Hunts_2011" title="wikilink">Cabela's Dangerous Hunts 2011</a></em>[137]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1619,8 +1619,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Dangerous_Hunts_2013.md" title="wikilink">Cabela's Dangerous Hunts 2013</a></em>[138]</p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Dangerous_Hunts_2013" title="wikilink">Cabela's Dangerous Hunts 2013</a></em>[138]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1630,8 +1630,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cabela&#39;s_Outdoor_Adventures_(2009_video_game).md" title="wikilink">Cabela's Outdoor Adventures</a></em>[139]</p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cabela&#39;s_Outdoor_Adventures_(2009_video_game)" title="wikilink">Cabela's Outdoor Adventures</a></em>[139]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1642,7 +1642,7 @@
 <tr class="even">
 <td></td>
 <td><p><em></em>[140]</p></td>
-<td><p><a href="../Page/MOSS_(company).md" title="wikilink">MOSS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MOSS_(company)" title="wikilink">MOSS</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -1686,7 +1686,7 @@
 <tr class="even">
 <td><p><a href="../Page/決勝時刻：現代戰爭3.md" title="wikilink">決勝時刻：現代戰爭3</a></p></td>
 <td><p><em>Call of Duty: Modern Warfare 3</em>[144]</p></td>
-<td><p><a href="../Page/Infinity_Ward.md" title="wikilink">Infinity Ward</a>, <a href="../Page/Sledgehammer_Games.md" title="wikilink">Sledgehammer Games</a></p></td>
+<td><p><a href="../Page/Infinity_Ward.md" title="wikilink">Infinity Ward</a>, <a href="https://zh.wikipedia.org/wiki/Sledgehammer_Games" title="wikilink">Sledgehammer Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1697,7 +1697,7 @@
 <tr class="odd">
 <td><p><a href="../Page/使命召唤：高级战争.md" title="wikilink">使命召唤：高级战争</a></p></td>
 <td><p><em>Call of Duty: Advanced Warfare</em>[145]</p></td>
-<td><p><a href="../Page/Sledgehammer_Games.md" title="wikilink">Sledgehammer Games</a>, <a href="../Page/High_Moon_Studios.md" title="wikilink">High Moon Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sledgehammer_Games" title="wikilink">Sledgehammer Games</a>, <a href="../Page/High_Moon_Studios.md" title="wikilink">High Moon Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1730,7 +1730,7 @@
 <tr class="even">
 <td><p><a href="../Page/使命召唤：黑色行动III.md" title="wikilink">使命召唤：黑色行动III</a></p></td>
 <td><p><em>Call of Duty: Black Ops III</em></p></td>
-<td><p><a href="../Page/Treyarch.md" title="wikilink">Treyarch</a>, <a href="../Page/Mercenary_Technology.md" title="wikilink">Mercenary Technology</a></p></td>
+<td><p><a href="../Page/Treyarch.md" title="wikilink">Treyarch</a>, <a href="https://zh.wikipedia.org/wiki/Mercenary_Technology" title="wikilink">Mercenary Technology</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1762,8 +1762,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Call_of_Juarez:_Bound_in_Blood.md" title="wikilink">Call of Juarez: Bound in Blood</a></em>[149]</p></td>
-<td><p><a href="../Page/Techland.md" title="wikilink">Techland</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Call_of_Juarez:_Bound_in_Blood" title="wikilink">Call of Juarez: Bound in Blood</a></em>[149]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1773,8 +1773,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Call_of_Juarez:_The_Cartel.md" title="wikilink">Call of Juarez: The Cartel</a></em>[150]</p></td>
-<td><p><a href="../Page/Techland.md" title="wikilink">Techland</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Call_of_Juarez:_The_Cartel" title="wikilink">Call of Juarez: The Cartel</a></em>[150]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1784,8 +1784,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Captain_America:_Super_Soldier.md" title="wikilink">Captain America: Super Soldier</a></em>[151]</p></td>
-<td><p><a href="../Page/Next_Level_Games.md" title="wikilink">Next Level Games</a> / <a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Captain_America:_Super_Soldier" title="wikilink">Captain America: Super Soldier</a></em>[151]</p></td>
+<td><p><a href="../Page/Next_Level_Games.md" title="wikilink">Next Level Games</a> / <a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1795,8 +1795,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Carnival_Island.md" title="wikilink">Carnival Island</a></em>[152]</p></td>
-<td><p><a href="../Page/Magic_Pixel_Games.md" title="wikilink">Magic Pixel Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Carnival_Island" title="wikilink">Carnival Island</a></em>[152]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Magic_Pixel_Games" title="wikilink">Magic Pixel Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1806,8 +1806,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cars_2:_The_Video_Game.md" title="wikilink">Cars 2: The Video Game</a></em>[153]</p></td>
-<td><p><a href="../Page/Disney_Interactive_Studios.md" title="wikilink">Disney Interactive Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cars_2:_The_Video_Game" title="wikilink">Cars 2: The Video Game</a></em>[153]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Disney_Interactive_Studios" title="wikilink">Disney Interactive Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1817,8 +1817,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cars_Mater-National_Championship.md" title="wikilink">Cars Mater-National Championship</a></em>[154]</p></td>
-<td><p><a href="../Page/Rainbow_Studios.md" title="wikilink">Rainbow Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cars_Mater-National_Championship" title="wikilink">Cars Mater-National Championship</a></em>[154]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Studios" title="wikilink">Rainbow Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1828,8 +1828,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cars_Race-O-Rama.md" title="wikilink">Cars Race-O-Rama</a></em>[155]</p></td>
-<td><p><a href="../Page/Incinerator_Studios.md" title="wikilink">Incinerator Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cars_Race-O-Rama" title="wikilink">Cars Race-O-Rama</a></em>[155]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Incinerator_Studios" title="wikilink">Incinerator Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1839,8 +1839,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cartoon_Network:_Punch_Time_Explosion_XL.md" title="wikilink">Cartoon Network: Punch Time Explosion XL</a></em>[156]</p></td>
-<td><p><a href="../Page/Papaya_Studio.md" title="wikilink">Papaya Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cartoon_Network:_Punch_Time_Explosion_XL" title="wikilink">Cartoon Network: Punch Time Explosion XL</a></em>[156]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Papaya_Studio" title="wikilink">Papaya Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1851,7 +1851,7 @@
 <tr class="odd">
 <td><p><a href="../Page/惡魔城_闇影主宰.md" title="wikilink">惡魔城 闇影主宰</a></p></td>
 <td><p><em>Castlevania: Lords of Shadow</em>[157]</p></td>
-<td><p><a href="../Page/MercurySteam.md" title="wikilink">MercurySteam</a> / <a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MercurySteam" title="wikilink">MercurySteam</a> / <a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1862,7 +1862,7 @@
 <tr class="even">
 <td><p><a href="../Page/惡魔城_闇影主宰2.md" title="wikilink">惡魔城 闇影主宰2</a></p></td>
 <td><p><em>Castlevania: Lords of Shadow 2</em>[158]</p></td>
-<td><p><a href="../Page/MercurySteam.md" title="wikilink">MercurySteam</a> / <a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MercurySteam" title="wikilink">MercurySteam</a> / <a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1872,8 +1872,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Catherine_(video_game).md" title="wikilink">Catherine</a></em>[159]</p></td>
-<td><p><a href="../Page/Atlus_Persona_Team.md" title="wikilink">Atlus Persona Team</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Catherine_(video_game)" title="wikilink">Catherine</a></em>[159]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Atlus_Persona_Team" title="wikilink">Atlus Persona Team</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1883,8 +1883,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Chaotic:_Shadow_Warriors.md" title="wikilink">Chaotic: Shadow Warriors</a></em>[160]</p></td>
-<td><p><a href="../Page/FUN_Labs.md" title="wikilink">FUN Labs</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Chaotic:_Shadow_Warriors" title="wikilink">Chaotic: Shadow Warriors</a></em>[160]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FUN_Labs" title="wikilink">FUN Labs</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -1894,8 +1894,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Child_of_Eden.md" title="wikilink">Child of Eden</a></em>[161]</p></td>
-<td><p><a href="../Page/Q_Entertainment.md" title="wikilink">Q Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Child_of_Eden" title="wikilink">Child of Eden</a></em>[161]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Q_Entertainment" title="wikilink">Q Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1905,7 +1905,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Civilization_Revolution.md" title="wikilink">Civilization Revolution</a></em>[162]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Civilization_Revolution" title="wikilink">Civilization Revolution</a></em>[162]</p></td>
 <td><p><a href="../Page/Firaxis_Games.md" title="wikilink">Firaxis Games</a></p></td>
 <td></td>
 <td></td>
@@ -1916,8 +1916,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Clash_of_the_Titans_(video_game).md" title="wikilink">Clash of the Titans</a></em>[163]</p></td>
-<td><p><a href="../Page/Bandai_Namco.md" title="wikilink">Bandai Namco</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Clash_of_the_Titans_(video_game)" title="wikilink">Clash of the Titans</a></em>[163]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bandai_Namco" title="wikilink">Bandai Namco</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1926,9 +1926,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/戰慄古堡.md" title="wikilink">戰慄古堡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰慄古堡" title="wikilink">戰慄古堡</a></p></td>
 <td><p><em>Clive Barker's Jericho</em>[164]</p></td>
-<td><p><a href="../Page/MercurySteam.md" title="wikilink">MercurySteam</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MercurySteam" title="wikilink">MercurySteam</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1938,8 +1938,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cloudy_with_a_Chance_of_Meatballs_(video_game).md" title="wikilink">Cloudy with a Chance of Meatballs</a></em>[165]</p></td>
-<td><p><a href="../Page/Ubisoft_Shanghai.md" title="wikilink">Ubisoft Shanghai</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cloudy_with_a_Chance_of_Meatballs_(video_game)" title="wikilink">Cloudy with a Chance of Meatballs</a></em>[165]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Shanghai" title="wikilink">Ubisoft Shanghai</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -1949,7 +1949,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Colin_McRae:_Dirt.md" title="wikilink">Colin McRae: Dirt</a></em>[166][167]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Colin_McRae:_Dirt" title="wikilink">Colin McRae: Dirt</a></em>[166][167]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -1960,7 +1960,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Colin_McRae:_Dirt_2.md" title="wikilink">Colin McRae: Dirt 2</a></em>[168][169]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Colin_McRae:_Dirt_2" title="wikilink">Colin McRae: Dirt 2</a></em>[168][169]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td></td>
@@ -1970,7 +1970,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大學籃球_2K7.md" title="wikilink">大學籃球 2K7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大學籃球_2K7" title="wikilink">大學籃球 2K7</a></p></td>
 <td><p><em>College Hoops 2K7</em>[170]</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td></td>
@@ -1981,7 +1981,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/大學籃球_2K8.md" title="wikilink">大學籃球 2K8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大學籃球_2K8" title="wikilink">大學籃球 2K8</a></p></td>
 <td><p><em>College Hoops 2K8</em>[171]</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td></td>
@@ -1994,7 +1994,7 @@
 <tr class="even">
 <td><p><a href="../Page/終極動員令：紅色警戒3.md" title="wikilink">終極動員令：紅色警戒3</a></p></td>
 <td><p><em>Command &amp; Conquer: Red Alert 3</em>[172]</p></td>
-<td><p><a href="../Page/EA_Los_Angeles.md" title="wikilink">EA Los Angeles</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Los_Angeles" title="wikilink">EA Los Angeles</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2004,8 +2004,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Conan_(2007_video_game).md" title="wikilink">Conan</a></em>[173]</p></td>
-<td><p><a href="../Page/Nihilistic_Software.md" title="wikilink">Nihilistic Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Conan_(2007_video_game)" title="wikilink">Conan</a></em>[173]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nihilistic_Software" title="wikilink">Nihilistic Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2026,8 +2026,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Conflict:_Denied_Ops.md" title="wikilink">Conflict: Denied Ops</a></em>[175]</p></td>
-<td><p><a href="../Page/Pivotal_Games.md" title="wikilink">Pivotal Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Conflict:_Denied_Ops" title="wikilink">Conflict: Denied Ops</a></em>[175]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pivotal_Games" title="wikilink">Pivotal Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2037,8 +2037,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Crash_Time_4:_The_Syndicate.md" title="wikilink">Crash Time 4: The Syndicate</a></em>[176]</p></td>
-<td><p><a href="../Page/Synetic.md" title="wikilink">Synetic</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Crash_Time_4:_The_Syndicate" title="wikilink">Crash Time 4: The Syndicate</a></em>[176]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Synetic" title="wikilink">Synetic</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2048,8 +2048,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Crash_Time_5.md" title="wikilink">Crash Time 5</a></em>[177]</p></td>
-<td><p><a href="../Page/Synetic.md" title="wikilink">Synetic</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Crash_Time_5" title="wikilink">Crash Time 5</a></em>[177]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Synetic" title="wikilink">Synetic</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2059,7 +2059,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Create_(video_game).md" title="wikilink">Create</a></em>[178]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Create_(video_game)" title="wikilink">Create</a></em>[178]</p></td>
 <td><p><a href="../Page/EA_Bright_Light.md" title="wikilink">EA Bright Light</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -2070,7 +2070,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Cross_Edge.md" title="wikilink">Cross Edge</a></em>[179]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cross_Edge" title="wikilink">Cross Edge</a></em>[179]</p></td>
 <td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -2081,8 +2081,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Cross_of_the_Dutchman.md" title="wikilink">Cross of the Dutchman</a></em>[180]</p></td>
-<td><p><a href="../Page/Triangle_Studios.md" title="wikilink">Triangle Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cross_of_the_Dutchman" title="wikilink">Cross of the Dutchman</a></em>[180]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Triangle_Studios" title="wikilink">Triangle Studios</a></p></td>
 <td><p>未發行</p></td>
 <td></td>
 <td></td>
@@ -2125,8 +2125,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/CSI:_Fatal_Conspiracy.md" title="wikilink">CSI: Fatal Conspiracy</a></em>[183]</p></td>
-<td><p><a href="../Page/Telltale_Games.md" title="wikilink">Telltale Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/CSI:_Fatal_Conspiracy" title="wikilink">CSI: Fatal Conspiracy</a></em>[183]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Telltale_Games" title="wikilink">Telltale Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2136,8 +2136,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="D"></span><em><a href="../Page/Damage_Inc._Pacific_Squadron_WWII.md" title="wikilink">Damage Inc. Pacific Squadron WWII</a></em>[184]</p></td>
-<td><p><a href="../Page/Trickstar_Games.md" title="wikilink">Trickstar Games</a></p></td>
+<td><p><span id="D"></span><em><a href="https://zh.wikipedia.org/wiki/Damage_Inc._Pacific_Squadron_WWII" title="wikilink">Damage Inc. Pacific Squadron WWII</a></em>[184]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Trickstar_Games" title="wikilink">Trickstar Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2147,8 +2147,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Damnation_(video_game).md" title="wikilink">Damnation</a></em>[185]</p></td>
-<td><p><a href="../Page/Blue_Omega_Entertainment.md" title="wikilink">Blue Omega Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Damnation_(video_game)" title="wikilink">Damnation</a></em>[185]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Omega_Entertainment" title="wikilink">Blue Omega Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2158,8 +2158,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dance_Dance_Revolution_(2010_video_game).md" title="wikilink">Dance Dance Revolution</a></em></p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dance_Dance_Revolution_(2010_video_game)" title="wikilink">Dance Dance Revolution</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2169,8 +2169,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dante&#39;s_Inferno_(video_game).md" title="wikilink">Dante's Inferno</a></em>[186]</p></td>
-<td><p><a href="../Page/Visceral_Games.md" title="wikilink">Visceral Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dante&#39;s_Inferno_(video_game)" title="wikilink">Dante's Inferno</a></em>[186]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Visceral_Games" title="wikilink">Visceral Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2179,9 +2179,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/暗之領域.md" title="wikilink">暗之領域</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/暗之領域" title="wikilink">暗之領域</a></p></td>
 <td><p><em>Dark Sector</em>[187]</p></td>
-<td><p><a href="../Page/Digital_Extremes.md" title="wikilink">Digital Extremes</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Digital_Extremes" title="wikilink">Digital Extremes</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2190,9 +2190,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黑暗靈魂.md" title="wikilink">黑暗靈魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗靈魂" title="wikilink">黑暗靈魂</a></p></td>
 <td><p><em>Dark Souls</em>[188]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2201,9 +2201,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黑暗靈魂II.md" title="wikilink">黑暗靈魂II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑暗靈魂II" title="wikilink">黑暗靈魂II</a></p></td>
 <td><p><em>Dark Souls II</em>[189]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2213,8 +2213,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dark_Void.md" title="wikilink">Dark Void</a></em>[190]</p></td>
-<td><p><a href="../Page/Airtight_Games.md" title="wikilink">Airtight Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dark_Void" title="wikilink">Dark Void</a></em>[190]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Airtight_Games" title="wikilink">Airtight Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2225,7 +2225,7 @@
 <tr class="odd">
 <td><p><a href="../Page/暗黑血统.md" title="wikilink">暗黑血统</a></p></td>
 <td><p><em>Darksiders</em>[191]</p></td>
-<td><p><a href="../Page/Vigil_Games.md" title="wikilink">Vigil Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vigil_Games" title="wikilink">Vigil Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2236,7 +2236,7 @@
 <tr class="even">
 <td><p><a href="../Page/暗黑血统II.md" title="wikilink">暗黑血统II</a></p></td>
 <td><p><em>Darksiders II</em>[192]</p></td>
-<td><p><a href="../Page/Vigil_Games.md" title="wikilink">Vigil Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vigil_Games" title="wikilink">Vigil Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2246,7 +2246,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Date_A_Live:_Rinne_Utopia.md" title="wikilink">Date A Live: Rinne Utopia</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Date_A_Live:_Rinne_Utopia" title="wikilink">Date A Live: Rinne Utopia</a></em></p></td>
 <td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -2258,7 +2258,7 @@
 <tr class="even">
 <td></td>
 <td><p><em>Days of Thunder: Video Game</em></p></td>
-<td><p><a href="../Page/Piranha_Games.md" title="wikilink">Piranha Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Games" title="wikilink">Piranha Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -2268,8 +2268,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/de_Blob_2.md" title="wikilink">de Blob 2</a></em>[193]</p></td>
-<td><p><a href="../Page/Blue_Tongue_Entertainment.md" title="wikilink">Blue Tongue Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/de_Blob_2" title="wikilink">de Blob 2</a></em>[193]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Tongue_Entertainment" title="wikilink">Blue Tongue Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2279,8 +2279,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dead_Island.md" title="wikilink">Dead Island</a></em>[194]</p></td>
-<td><p><a href="../Page/Techland.md" title="wikilink">Techland</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_Island" title="wikilink">Dead Island</a></em>[194]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2290,8 +2290,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dead_Island:_Riptide.md" title="wikilink">Dead Island: Riptide</a></em>[195]</p></td>
-<td><p><a href="../Page/Techland.md" title="wikilink">Techland</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_Island:_Riptide" title="wikilink">Dead Island: Riptide</a></em>[195]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2301,8 +2301,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Deadliest_Warrior:_Ancient_Combat.md" title="wikilink">Deadliest Warrior: Ancient Combat</a></em>[196]</p></td>
-<td><p><a href="../Page/Pipeworks_Software.md" title="wikilink">Pipeworks Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Deadliest_Warrior:_Ancient_Combat" title="wikilink">Deadliest Warrior: Ancient Combat</a></em>[196]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pipeworks_Software" title="wikilink">Pipeworks Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -2312,8 +2312,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Deadly_Premonition.md" title="wikilink">Deadly Premonition Directors Cut</a></em></p></td>
-<td><p><a href="../Page/Access_Games.md" title="wikilink">Access Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Deadly_Premonition" title="wikilink">Deadly Premonition Directors Cut</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Access_Games" title="wikilink">Access Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2323,7 +2323,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Deadpool_(video_game).md" title="wikilink">Deadpool</a></em>[197]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Deadpool_(video_game)" title="wikilink">Deadpool</a></em>[197]</p></td>
 <td><p><a href="../Page/High_Moon_Studios.md" title="wikilink">High Moon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -2334,8 +2334,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dead_or_Alive_5.md" title="wikilink">Dead or Alive 5</a></em>[198]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a> / <a href="../Page/Sega_AM2.md" title="wikilink">Sega AM2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_5" title="wikilink">Dead or Alive 5</a></em>[198]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a> / <a href="https://zh.wikipedia.org/wiki/Sega_AM2" title="wikilink">Sega AM2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2345,8 +2345,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dead_or_Alive_5_Ultimate.md" title="wikilink">Dead or Alive 5 Ultimate</a></em>[199]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a> / <a href="../Page/Sega_AM2.md" title="wikilink">Sega AM2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_5_Ultimate" title="wikilink">Dead or Alive 5 Ultimate</a></em>[199]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a> / <a href="https://zh.wikipedia.org/wiki/Sega_AM2" title="wikilink">Sega AM2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2356,8 +2356,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dead_or_Alive_5_Last_Round.md" title="wikilink">Dead or Alive 5 Last Round</a></em></p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a> / <a href="../Page/Sega_AM2.md" title="wikilink">Sega AM2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_5_Last_Round" title="wikilink">Dead or Alive 5 Last Round</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a> / <a href="https://zh.wikipedia.org/wiki/Sega_AM2" title="wikilink">Sega AM2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2368,7 +2368,7 @@
 <tr class="even">
 <td><p><a href="../Page/死亡復甦2.md" title="wikilink">死亡復甦2</a></p></td>
 <td><p><em>Dead Rising 2</em>[200]</p></td>
-<td><p><a href="../Page/Blue_Castle_Games.md" title="wikilink">Blue Castle Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Castle_Games" title="wikilink">Blue Castle Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2379,7 +2379,7 @@
 <tr class="odd">
 <td><p><a href="../Page/死亡空间_(游戏).md" title="wikilink">死亡空间</a></p></td>
 <td><p><em>Dead Space</em>[201]</p></td>
-<td><p><a href="../Page/EA_Redwood_Shores.md" title="wikilink">EA Redwood Shores</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Redwood_Shores" title="wikilink">EA Redwood Shores</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2390,7 +2390,7 @@
 <tr class="even">
 <td><p>死亡空间2</p></td>
 <td><p><em>Dead Space 2</em>[202]</p></td>
-<td><p><a href="../Page/Visceral_Games.md" title="wikilink">Visceral Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Visceral_Games" title="wikilink">Visceral Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2401,7 +2401,7 @@
 <tr class="odd">
 <td><p>死亡空间3</p></td>
 <td><p><em>Dead Space 3</em>[203]</p></td>
-<td><p><a href="../Page/Visceral_Games.md" title="wikilink">Visceral Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Visceral_Games" title="wikilink">Visceral Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2411,8 +2411,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dead_to_Rights:_Retribution.md" title="wikilink">Dead to Rights: Retribution</a></em>[204]</p></td>
-<td><p><a href="../Page/Volatile_Games.md" title="wikilink">Volatile Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_to_Rights:_Retribution" title="wikilink">Dead to Rights: Retribution</a></em>[204]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volatile_Games" title="wikilink">Volatile Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2421,9 +2421,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/紐約街頭教父：嘻哈偶像.md" title="wikilink">紐約街頭教父：嘻哈偶像</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約街頭教父：嘻哈偶像" title="wikilink">紐約街頭教父：嘻哈偶像</a></p></td>
 <td><p><em>Def Jam: Icon</em>[205]</p></td>
-<td><p><a href="../Page/EA_Chicago.md" title="wikilink">EA Chicago</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Chicago" title="wikilink">EA Chicago</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2433,8 +2433,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Def_Jam_Rapstar.md" title="wikilink">Def Jam Rapstar</a></em>[206]</p></td>
-<td><p><a href="../Page/4mm_Games.md" title="wikilink">4mm Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Def_Jam_Rapstar" title="wikilink">Def Jam Rapstar</a></em>[206]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/4mm_Games" title="wikilink">4mm Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2443,9 +2443,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/惡魔靈魂.md" title="wikilink">惡魔靈魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/惡魔靈魂" title="wikilink">惡魔靈魂</a></p></td>
 <td><p><em>Demon's Souls</em>[207]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2455,8 +2455,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Derby_Time_Online.md" title="wikilink">Derby Time Online</a></em>[208]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Derby_Time_Online" title="wikilink">Derby Time Online</a></em>[208]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -2477,8 +2477,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Destroy_All_Humans!_Path_of_the_Furon.md" title="wikilink">Destroy All Humans! Path of the Furon</a></em>[210]</p></td>
-<td><p><a href="../Page/Cranky_Pants_Games.md" title="wikilink">Sandblast Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Destroy_All_Humans!_Path_of_the_Furon" title="wikilink">Destroy All Humans! Path of the Furon</a></em>[210]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cranky_Pants_Games" title="wikilink">Sandblast Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2489,7 +2489,7 @@
 <tr class="odd">
 <td><p><a href="../Page/駭客入侵：人類革命.md" title="wikilink">駭客入侵：人類革命</a></p></td>
 <td><p><em>Deus Ex: Human Revolution</em>[211]</p></td>
-<td><p><a href="../Page/Eidos_Montreal.md" title="wikilink">Eidos Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Montreal" title="wikilink">Eidos Montreal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2499,8 +2499,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Deus_Ex:_Human_Revolution_Director&#39;s_Cut.md" title="wikilink">Deus Ex: Human Revolution Director's Cut</a></em>[212]</p></td>
-<td><p><a href="../Page/Eidos_Montreal.md" title="wikilink">Eidos Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Deus_Ex:_Human_Revolution_Director&#39;s_Cut" title="wikilink">Deus Ex: Human Revolution Director's Cut</a></em>[212]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Montreal" title="wikilink">Eidos Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2511,7 +2511,7 @@
 <tr class="odd">
 <td><p><a href="../Page/惡魔獵人4.md" title="wikilink">惡魔獵人4</a></p></td>
 <td><p><em>Devil May Cry 4</em>[213]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2521,8 +2521,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Devil_May_Cry_2.md" title="wikilink">Devil May Cry HD Collection</a></em>[214]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Devil_May_Cry_2" title="wikilink">Devil May Cry HD Collection</a></em>[214]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2533,7 +2533,7 @@
 <tr class="odd">
 <td><p><a href="../Page/暗黑破壞神III.md" title="wikilink">暗黑破壞神III</a></p></td>
 <td><p><em>Diablo III</em>[215]</p></td>
-<td><p><a href="../Page/Blizzard_Entertainment.md" title="wikilink">Blizzard Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blizzard_Entertainment" title="wikilink">Blizzard Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2543,7 +2543,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dirt_3.md" title="wikilink">Dirt 3</a></em>[216]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dirt_3" title="wikilink">Dirt 3</a></em>[216]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters Birmingham</a></p></td>
 <td></td>
 <td></td>
@@ -2554,7 +2554,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dirt:_Showdown.md" title="wikilink">Dirt: Showdown</a></em>[217]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dirt:_Showdown" title="wikilink">Dirt: Showdown</a></em>[217]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters Southam</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -2564,9 +2564,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/魔界戰記3.md" title="wikilink">魔界戰記3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔界戰記3" title="wikilink">魔界戰記3</a></p></td>
 <td><p><em>Disgaea 3: Absence of Justice</em>[218]</p></td>
-<td><p><a href="../Page/Nippon_Ichi.md" title="wikilink">Nippon Ichi</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi" title="wikilink">Nippon Ichi</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2576,8 +2576,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Disgaea_4:_A_Promise_Unforgotten.md" title="wikilink">Disgaea 4: A Promise Unforgotten</a></em>[219]</p></td>
-<td><p><a href="../Page/Nippon_Ichi.md" title="wikilink">Nippon Ichi</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disgaea_4:_A_Promise_Unforgotten" title="wikilink">Disgaea 4: A Promise Unforgotten</a></em>[219]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi" title="wikilink">Nippon Ichi</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2587,8 +2587,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Disgaea_Dimension_2.md" title="wikilink">Disgaea D2: A Brighter Darkness</a></em>[220]</p></td>
-<td><p><a href="../Page/Nippon_Ichi.md" title="wikilink">Nippon Ichi</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disgaea_Dimension_2" title="wikilink">Disgaea D2: A Brighter Darkness</a></em>[220]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi" title="wikilink">Nippon Ichi</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2609,8 +2609,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Disney_Sing_It.md" title="wikilink">Disney Sing It</a></em>[222]</p></td>
-<td><p><a href="../Page/Zoë_Mode.md" title="wikilink">Zoë Mode</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disney_Sing_It" title="wikilink">Disney Sing It</a></em>[222]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zoë_Mode" title="wikilink">Zoë Mode</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2620,8 +2620,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Disney_Sing_It!_–_High_School_Musical_3:_Senior_Year.md" title="wikilink">Disney Sing It! – High School Musical 3: Senior Year</a></em>[223]</p></td>
-<td><p><a href="../Page/Zoë_Mode.md" title="wikilink">Zoë Mode</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disney_Sing_It!_–_High_School_Musical_3:_Senior_Year" title="wikilink">Disney Sing It! – High School Musical 3: Senior Year</a></em>[223]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zoë_Mode" title="wikilink">Zoë Mode</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2631,8 +2631,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Disney_Sing_It:_Pop_Hits.md" title="wikilink">Disney Sing It: Pop Hits</a></em>[224]</p></td>
-<td><p><a href="../Page/Zoë_Mode.md" title="wikilink">Zoë Mode</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disney_Sing_It:_Pop_Hits" title="wikilink">Disney Sing It: Pop Hits</a></em>[224]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zoë_Mode" title="wikilink">Zoë Mode</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2642,8 +2642,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Disney_Universe.md" title="wikilink">Disney Universe</a></em>[225]</p></td>
-<td><p><a href="../Page/Disney_Interactive_Studios.md" title="wikilink">Disney Interactive Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Disney_Universe" title="wikilink">Disney Universe</a></em>[225]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Disney_Interactive_Studios" title="wikilink">Disney Interactive Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2653,8 +2653,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/DJ_Hero.md" title="wikilink">DJ Hero</a></em>[226]</p></td>
-<td><p><a href="../Page/FreeStyleGames.md" title="wikilink">FreeStyleGames</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/DJ_Hero" title="wikilink">DJ Hero</a></em>[226]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FreeStyleGames" title="wikilink">FreeStyleGames</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2664,8 +2664,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/DJ_Hero_2.md" title="wikilink">DJ Hero 2</a></em>[227]</p></td>
-<td><p><a href="../Page/FreeStyleGames.md" title="wikilink">FreeStyleGames</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/DJ_Hero_2" title="wikilink">DJ Hero 2</a></em>[227]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FreeStyleGames" title="wikilink">FreeStyleGames</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2675,8 +2675,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/DmC:_Devil_May_Cry.md" title="wikilink">DmC: Devil May Cry</a></em>[228]</p></td>
-<td><p><a href="../Page/Ninja_Theory.md" title="wikilink">Ninja Theory</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/DmC:_Devil_May_Cry" title="wikilink">DmC: Devil May Cry</a></em>[228]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ninja_Theory" title="wikilink">Ninja Theory</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2686,7 +2686,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Doom_3_BFG_Edition.md" title="wikilink">Doom 3 BFG Edition</a></em>[229]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Doom_3_BFG_Edition" title="wikilink">Doom 3 BFG Edition</a></em>[229]</p></td>
 <td><p><a href="../Page/Id_Software.md" title="wikilink">Id Software</a></p></td>
 <td></td>
 <td></td>
@@ -2697,7 +2697,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Age:_Origins.md" title="wikilink">Dragon Age: Origins</a></em>[230]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Age:_Origins" title="wikilink">Dragon Age: Origins</a></em>[230]</p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
 <td></td>
 <td></td>
@@ -2708,7 +2708,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Age:_Origins_–_Awakening.md" title="wikilink">Dragon Age: Origins – Awakening</a></em>[231]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Age:_Origins_–_Awakening" title="wikilink">Dragon Age: Origins – Awakening</a></em>[231]</p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
 <td></td>
 <td></td>
@@ -2719,7 +2719,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Age_II.md" title="wikilink">Dragon Age II</a></em>[232]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Age_II" title="wikilink">Dragon Age II</a></em>[232]</p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
 <td></td>
 <td></td>
@@ -2730,8 +2730,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball_Z:_Battle_of_Z.md" title="wikilink">Dragon Ball Z: Battle of Z</a></em>[233][234]</p></td>
-<td><p><a href="../Page/Artdink.md" title="wikilink">Artdink</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Z" title="wikilink">Dragon Ball Z: Battle of Z</a></em>[233][234]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Artdink" title="wikilink">Artdink</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2741,7 +2741,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball_Z:_Burst_Limit.md" title="wikilink">Dragon Ball Z: Burst Limit</a></em>[235]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball_Z:_Burst_Limit" title="wikilink">Dragon Ball Z: Burst Limit</a></em>[235]</p></td>
 <td><p><a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
 <td></td>
 <td></td>
@@ -2752,8 +2752,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball:_Raging_Blast.md" title="wikilink">Dragon Ball: Raging Blast</a></em>[236]</p></td>
-<td><p><a href="../Page/Spike_(company).md" title="wikilink">Spike</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball:_Raging_Blast" title="wikilink">Dragon Ball: Raging Blast</a></em>[236]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spike_(company)" title="wikilink">Spike</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2763,8 +2763,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball:_Raging_Blast_2.md" title="wikilink">Dragon Ball: Raging Blast 2</a></em>[237]</p></td>
-<td><p><a href="../Page/Spike_(company).md" title="wikilink">Spike</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball:_Raging_Blast_2" title="wikilink">Dragon Ball: Raging Blast 2</a></em>[237]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spike_(company)" title="wikilink">Spike</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2774,7 +2774,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball_XenoVerse.md" title="wikilink">Dragon Ball XenoVerse</a></em>[238][239]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball_XenoVerse" title="wikilink">Dragon Ball XenoVerse</a></em>[238][239]</p></td>
 <td><p><a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
 <td></td>
 <td></td>
@@ -2785,8 +2785,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon_Ball_Z:_Ultimate_Tenkaichi.md" title="wikilink">Dragon Ball Z: Ultimate Tenkaichi</a></em>[240]</p></td>
-<td><p><a href="../Page/Spike_(company).md" title="wikilink">Spike</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon_Ball_Z:_Ultimate_Tenkaichi" title="wikilink">Dragon Ball Z: Ultimate Tenkaichi</a></em>[240]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spike_(company)" title="wikilink">Spike</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2807,8 +2807,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dragon&#39;s_Dogma.md" title="wikilink">Dragon's Dogma</a></em>[242]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon&#39;s_Dogma" title="wikilink">Dragon's Dogma</a></em>[242]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2818,8 +2818,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dragon&#39;s_Dogma:_Dark_Arisen.md" title="wikilink">Dragon's Dogma: Dark Arisen</a></em>[243]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dragon&#39;s_Dogma:_Dark_Arisen" title="wikilink">Dragon's Dogma: Dark Arisen</a></em>[243]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2829,8 +2829,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="../Page/Dragon_Quest_Heroes:_Yamiryuu_to_Sekaiju_no_Shiro.md" title="wikilink">Dragon Quest Heroes: Yamiryuu to Sekaiju no Shiro</a></p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Dragon_Quest_Heroes:_Yamiryuu_to_Sekaiju_no_Shiro" title="wikilink">Dragon Quest Heroes: Yamiryuu to Sekaiju no Shiro</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -2840,8 +2840,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Drakengard_3.md" title="wikilink">Drakengard 3</a></em></p></td>
-<td><p><a href="../Page/Access_Games.md" title="wikilink">Access Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Drakengard_3" title="wikilink">Drakengard 3</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Access_Games" title="wikilink">Access Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2851,8 +2851,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Driver:_San_Francisco.md" title="wikilink">Driver: San Francisco</a></em>[244]</p></td>
-<td><p><a href="../Page/Ubisoft_Reflections.md" title="wikilink">Ubisoft Reflections</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Driver:_San_Francisco" title="wikilink">Driver: San Francisco</a></em>[244]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Reflections" title="wikilink">Ubisoft Reflections</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2862,8 +2862,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/DuckTales:_Remastered.md" title="wikilink">DuckTales: Remastered</a></em>[245]</p></td>
-<td><p><a href="../Page/WayForward_Technologies.md" title="wikilink">WayForward Technologies</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/DuckTales:_Remastered" title="wikilink">DuckTales: Remastered</a></em>[245]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WayForward_Technologies" title="wikilink">WayForward Technologies</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2873,8 +2873,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Duke_Nukem_Forever.md" title="wikilink">Duke Nukem Forever</a></em>[246]</p></td>
-<td><p><a href="../Page/3D_Realms.md" title="wikilink">3D Realms</a> / <a href="../Page/Triptych_Games.md" title="wikilink">Triptych Games</a> / <a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a> / <a href="../Page/Piranha_Games.md" title="wikilink">Piranha Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Duke_Nukem_Forever" title="wikilink">Duke Nukem Forever</a></em>[246]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/3D_Realms" title="wikilink">3D Realms</a> / <a href="https://zh.wikipedia.org/wiki/Triptych_Games" title="wikilink">Triptych Games</a> / <a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a> / <a href="https://zh.wikipedia.org/wiki/Piranha_Games" title="wikilink">Piranha Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2885,7 +2885,7 @@
 <tr class="odd">
 <td><p><a href="../Page/毁灭公爵3D.md" title="wikilink">毁灭公爵3D</a></p></td>
 <td><p><em>Duke Nukem 3D Megaton Edition</em></p></td>
-<td><p><a href="../Page/Devolver_Digital.md" title="wikilink">Devolver Digital</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Devolver_Digital" title="wikilink">Devolver Digital</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -2895,8 +2895,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dungeon_Siege_III.md" title="wikilink">Dungeon Siege III</a></em>[247]</p></td>
-<td><p><a href="../Page/Obsidian_Entertainment.md" title="wikilink">Obsidian Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dungeon_Siege_III" title="wikilink">Dungeon Siege III</a></em>[247]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Obsidian_Entertainment" title="wikilink">Obsidian Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2907,7 +2907,7 @@
 <tr class="odd">
 <td><p><a href="../Page/真·三國無雙5.md" title="wikilink">真·三國無雙5</a></p></td>
 <td><p><em>Dynasty Warriors 6</em>[248]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2917,8 +2917,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/真·三國無雙5.md" title="wikilink">真·三国无双5 帝王传</a></p></td>
-<td><p><em><a href="../Page/Dynasty_Warriors_6.md" title="wikilink">Dynasty Warriors 6 Empires</a></em>[249]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors_6" title="wikilink">Dynasty Warriors 6 Empires</a></em>[249]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2929,7 +2929,7 @@
 <tr class="odd">
 <td><p><a href="../Page/真·三國無雙6.md" title="wikilink">真·三國無雙6</a></p></td>
 <td><p><em>Dynasty Warriors 7</em>[250]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2940,7 +2940,7 @@
 <tr class="even">
 <td><p><a href="../Page/真·三國無雙6.md" title="wikilink">真·三国无双6 Xtreme Legends</a></p></td>
 <td><p><em>Dynasty Warriors 7: Xtreme Legends</em>[251]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2950,8 +2950,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/真·三國無雙6.md" title="wikilink">真·三国无双6 帝王传</a></p></td>
-<td><p><em><a href="../Page/Dynasty_Warriors_7_Empires.md" title="wikilink">Dynasty Warriors 7 Empires</a></em>[252]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors_7_Empires" title="wikilink">Dynasty Warriors 7 Empires</a></em>[252]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2962,7 +2962,7 @@
 <tr class="even">
 <td><p><a href="../Page/真·三國無雙7.md" title="wikilink">真·三國無雙7</a></p></td>
 <td><p><em>Dynasty Warriors 8</em>[253]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2973,7 +2973,7 @@
 <tr class="odd">
 <td><p><a href="../Page/真·三國無雙7.md" title="wikilink">真·三國無雙7</a></p></td>
 <td><p><em>Dynasty Warriors 8: Xtreme Legends</em></p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2984,7 +2984,7 @@
 <tr class="even">
 <td><p><a href="../Page/GUNDAM無雙.md" title="wikilink">GUNDAM無雙</a></p></td>
 <td><p><em>Dynasty Warriors: Gundam</em>[254]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2994,8 +2994,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dynasty_Warriors:_Gundam_2.md" title="wikilink">Dynasty Warriors: Gundam 2</a></em>[255]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_2" title="wikilink">Dynasty Warriors: Gundam 2</a></em>[255]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3005,8 +3005,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dynasty_Warriors:_Gundam_3.md" title="wikilink">Dynasty Warriors: Gundam 3</a></em>[256]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_3" title="wikilink">Dynasty Warriors: Gundam 3</a></em>[256]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3016,8 +3016,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Dynasty_Warriors:_Gundam_Reborn.md" title="wikilink">Dynasty Warriors: Gundam Reborn</a></em>[257]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors:_Gundam_Reborn" title="wikilink">Dynasty Warriors: Gundam Reborn</a></em>[257]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3027,8 +3027,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Dynasty_Warriors:_Strikeforce.md" title="wikilink">Dynasty Warriors: Strikeforce</a></em>[258]</p></td>
-<td><p><a href="../Page/Blue_Omega_Entertainment.md" title="wikilink">Blue Omega Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Dynasty_Warriors:_Strikeforce" title="wikilink">Dynasty Warriors: Strikeforce</a></em>[258]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Omega_Entertainment" title="wikilink">Blue Omega Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3038,8 +3038,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="E"></span><em><a href="../Page/E.X._Troopers.md" title="wikilink">E.X. Troopers</a></em></p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/HexaDrive.md" title="wikilink">HexaDrive</a></p></td>
+<td><p><span id="E"></span><em><a href="https://zh.wikipedia.org/wiki/E.X._Troopers" title="wikilink">E.X. Troopers</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="https://zh.wikipedia.org/wiki/HexaDrive" title="wikilink">HexaDrive</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3049,7 +3049,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/EA_Sports_MMA.md" title="wikilink">EA Sports MMA</a></em>[259]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/EA_Sports_MMA" title="wikilink">EA Sports MMA</a></em>[259]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td></td>
@@ -3060,8 +3060,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Eat_Lead:_The_Return_of_Matt_Hazard.md" title="wikilink">Eat Lead: The Return of Matt Hazard</a></em>[260]</p></td>
-<td><p><a href="../Page/Vicious_Cycle_Software.md" title="wikilink">Vicious Cycle Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Eat_Lead:_The_Return_of_Matt_Hazard" title="wikilink">Eat Lead: The Return of Matt Hazard</a></em>[260]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vicious_Cycle_Software" title="wikilink">Vicious Cycle Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3071,8 +3071,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/El_Shaddai:_Ascension_of_the_Metatron.md" title="wikilink">El Shaddai: Ascension of the Metatron</a></em>[261]</p></td>
-<td><p><a href="../Page/Ignition_Entertainment.md" title="wikilink">Ignition Tokyo</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/El_Shaddai:_Ascension_of_the_Metatron" title="wikilink">El Shaddai: Ascension of the Metatron</a></em>[261]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ignition_Entertainment" title="wikilink">Ignition Tokyo</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3083,7 +3083,7 @@
 <tr class="odd">
 <td><p><a href="../Page/上古卷轴IV：湮没.md" title="wikilink">上古卷轴IV：湮没</a></p></td>
 <td><p><em>The Elder Scrolls IV: Oblivion</em>[262]</p></td>
-<td><p><a href="../Page/Bethesda_Game_Studios.md" title="wikilink">Bethesda Game Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Game_Studios" title="wikilink">Bethesda Game Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3093,8 +3093,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Elder_Scrolls_IV:_Shivering_Isles.md" title="wikilink">The Elder Scrolls IV: Shivering Isles</a></em>[263]</p></td>
-<td><p><a href="../Page/Bethesda_Game_Studios.md" title="wikilink">Bethesda Game Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Shivering_Isles" title="wikilink">The Elder Scrolls IV: Shivering Isles</a></em>[263]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Game_Studios" title="wikilink">Bethesda Game Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3105,7 +3105,7 @@
 <tr class="odd">
 <td><p><a href="../Page/上古卷轴V：天际.md" title="wikilink">上古卷轴V：天际</a></p></td>
 <td><p><em>The Elder Scrolls V: Skyrim</em>[264]</p></td>
-<td><p><a href="../Page/Bethesda_Game_Studios.md" title="wikilink">Bethesda Game Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Game_Studios" title="wikilink">Bethesda Game Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3114,9 +3114,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/賦法戰爭.md" title="wikilink">賦法戰爭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賦法戰爭" title="wikilink">賦法戰爭</a></p></td>
 <td><p><em>Enchanted Arms</em>[265]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3126,8 +3126,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Enemy_Front.md" title="wikilink">Enemy Front</a></em>[266]</p></td>
-<td><p><a href="../Page/CI_Games.md" title="wikilink">CI Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Enemy_Front" title="wikilink">Enemy Front</a></em>[266]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CI_Games" title="wikilink">CI Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3137,8 +3137,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Enemy_Territory:_Quake_Wars.md" title="wikilink">Enemy Territory: Quake Wars</a></em>[267]</p></td>
-<td><p><a href="../Page/Splash_Damage.md" title="wikilink">Splash Damage</a> / <a href="../Page/Underground_Development.md" title="wikilink">Underground Development</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars" title="wikilink">Enemy Territory: Quake Wars</a></em>[267]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Splash_Damage" title="wikilink">Splash Damage</a> / <a href="../Page/Underground_Development.md" title="wikilink">Underground Development</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3148,8 +3148,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Enslaved:_Odyssey_to_the_West.md" title="wikilink">Enslaved: Odyssey to the West</a></em></p></td>
-<td><p><a href="../Page/Ninja_Theory.md" title="wikilink">Ninja Theory</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Enslaved:_Odyssey_to_the_West" title="wikilink">Enslaved: Odyssey to the West</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ninja_Theory" title="wikilink">Ninja Theory</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3159,8 +3159,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Epic_Mickey_2:_The_Power_of_Two.md" title="wikilink">Epic Mickey 2: The Power of Two</a></em></p></td>
-<td><p><a href="../Page/Junction_Point_Studios.md" title="wikilink">Junction Point Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Epic_Mickey_2:_The_Power_of_Two" title="wikilink">Epic Mickey 2: The Power of Two</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Junction_Point_Studios" title="wikilink">Junction Point Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3170,8 +3170,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Eternal_Light_(video_game).md" title="wikilink">Eternal Light</a></em>[268]</p></td>
-<td><p><a href="../Page/Revistronic.md" title="wikilink">Revistronic</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Eternal_Light_(video_game)" title="wikilink">Eternal Light</a></em>[268]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Revistronic" title="wikilink">Revistronic</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3181,8 +3181,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Eternal_Sonata.md" title="wikilink">Eternal Sonata</a></em>[269]</p></td>
-<td><p><a href="../Page/tri-Crescendo.md" title="wikilink">tri-Crescendo</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Eternal_Sonata" title="wikilink">Eternal Sonata</a></em>[269]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tri-Crescendo" title="wikilink">tri-Crescendo</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3192,8 +3192,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Everybody_Dance_(video_game).md" title="wikilink">Everybody Dance</a></em></p></td>
-<td><p><a href="../Page/SCE_Studios_London.md" title="wikilink">SCE Studios London</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Everybody_Dance_(video_game)" title="wikilink">Everybody Dance</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studios_London" title="wikilink">SCE Studios London</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3203,8 +3203,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Everybody&#39;s_Golf_5.md" title="wikilink">Everybody's Golf 5</a></em>[270][271]</p></td>
-<td><p><a href="../Page/Clap_Hanz.md" title="wikilink">Clap Hanz</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Everybody&#39;s_Golf_5" title="wikilink">Everybody's Golf 5</a></em>[270][271]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Clap_Hanz" title="wikilink">Clap Hanz</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3213,9 +3213,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/全民高尔夫6.md" title="wikilink">全民高尔夫6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全民高尔夫6" title="wikilink">全民高尔夫6</a></p></td>
 <td><p><em>Everybody's Golf 6</em>[272]</p></td>
-<td><p><a href="../Page/Clap_Hanz.md" title="wikilink">Clap Hanz</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Clap_Hanz" title="wikilink">Clap Hanz</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3224,9 +3224,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/審判之眼：機神的叛亂.md" title="wikilink">審判之眼：機神的叛亂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/審判之眼：機神的叛亂" title="wikilink">審判之眼：機神的叛亂</a></p></td>
 <td><p><em>The Eye of Judgment</em>[273]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3236,8 +3236,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/EyePet.md" title="wikilink">EyePet</a></em>[274]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/EyePet" title="wikilink">EyePet</a></em>[274]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3247,8 +3247,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Eyepet_&amp;_Friends.md" title="wikilink">Eyepet &amp; Friends</a></em></p></td>
-<td><p><a href="../Page/SCE_Studios_London.md" title="wikilink">SCE Studios London</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Eyepet_&amp;_Friends" title="wikilink">Eyepet &amp; Friends</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studios_London" title="wikilink">SCE Studios London</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3259,7 +3259,7 @@
 <tr class="odd">
 <td><p><a href="../Page/极度恐慌.md" title="wikilink">极度恐慌</a></p></td>
 <td><p><span id="F"></span><em>F.E.A.R.</em>[275]</p></td>
-<td><p><a href="../Page/Monolith_Productions.md" title="wikilink">Monolith Productions</a> / <a href="../Page/Day_1_Studios.md" title="wikilink">Day 1 Studios</a></p></td>
+<td><p><a href="../Page/Monolith_Productions.md" title="wikilink">Monolith Productions</a> / <a href="https://zh.wikipedia.org/wiki/Day_1_Studios" title="wikilink">Day 1 Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3281,7 +3281,7 @@
 <tr class="odd">
 <td><p><a href="../Page/极度恐慌3.md" title="wikilink">极度恐慌3</a></p></td>
 <td><p><em>F.E.A.R. 3</em>[277]</p></td>
-<td><p><a href="../Page/Day_1_Studios.md" title="wikilink">Day 1 Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Day_1_Studios" title="wikilink">Day 1 Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3291,7 +3291,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/F1_2010_(video_game).md" title="wikilink">F1 2010</a></em>[278]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/F1_2010_(video_game)" title="wikilink">F1 2010</a></em>[278]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters Birmingham</a></p></td>
 <td></td>
 <td></td>
@@ -3302,7 +3302,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/F1_Race_Stars.md" title="wikilink">F1 Race Stars</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/F1_Race_Stars" title="wikilink">F1 Race Stars</a></em></p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td></td>
@@ -3313,8 +3313,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/FaceBreaker.md" title="wikilink">FaceBreaker</a></em>[279]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/FaceBreaker" title="wikilink">FaceBreaker</a></em>[279]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3335,8 +3335,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fairytale_Fights.md" title="wikilink">Fairytale Fights</a></em>[280]</p></td>
-<td><p><a href="../Page/Playlogic_Entertainment.md" title="wikilink">Playlogic Game Factory</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fairytale_Fights" title="wikilink">Fairytale Fights</a></em>[280]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Playlogic_Entertainment" title="wikilink">Playlogic Game Factory</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3346,8 +3346,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Faith_and_a_.45.md" title="wikilink">Faith and a .45</a></em>[281]</p></td>
-<td><p><a href="../Page/Deadline_Games.md" title="wikilink">Deadline Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Faith_and_a_.45" title="wikilink">Faith and a .45</a></em>[281]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deadline_Games" title="wikilink">Deadline Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3358,7 +3358,7 @@
 <tr class="even">
 <td><p><a href="../Page/辐射3.md" title="wikilink">辐射3</a></p></td>
 <td><p><em>Fallout 3</em>[282]</p></td>
-<td><p><a href="../Page/Bethesda_Game_Studios.md" title="wikilink">Bethesda Game Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Game_Studios" title="wikilink">Bethesda Game Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3369,7 +3369,7 @@
 <tr class="odd">
 <td><p><a href="../Page/辐射：新维加斯.md" title="wikilink">辐射：新维加斯</a></p></td>
 <td><p><em>Fallout: New Vegas</em>[283]</p></td>
-<td><p><a href="../Page/Obsidian_Entertainment.md" title="wikilink">Obsidian Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Obsidian_Entertainment" title="wikilink">Obsidian Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3379,8 +3379,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fantastic_Four:_Rise_of_the_Silver_Surfer_(video_game).md" title="wikilink">Fantastic Four: Rise of the Silver Surfer</a></em>[284]</p></td>
-<td><p><a href="../Page/7_Studios.md" title="wikilink">7 Studios</a> / <a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fantastic_Four:_Rise_of_the_Silver_Surfer_(video_game)" title="wikilink">Fantastic Four: Rise of the Silver Surfer</a></em>[284]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7_Studios" title="wikilink">7 Studios</a> / <a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3391,7 +3391,7 @@
 <tr class="odd">
 <td><p><a href="../Page/極地戰嚎2.md" title="wikilink">極地戰嚎2</a></p></td>
 <td><p><em>Far Cry 2</em>[285]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3402,7 +3402,7 @@
 <tr class="even">
 <td><p><a href="../Page/孤岛惊魂3.md" title="wikilink">孤岛惊魂3</a></p></td>
 <td><p><em>Far Cry 3</em>[286]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3412,8 +3412,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Fast_and_Furious:_Showdown.md" title="wikilink">Fast and Furious: Showdown</a></em></p></td>
-<td><p><a href="../Page/Firebrand_Games.md" title="wikilink">Firebrand Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fast_and_Furious:_Showdown" title="wikilink">Fast and Furious: Showdown</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Firebrand_Games" title="wikilink">Firebrand Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3423,8 +3423,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ferrari_Challenge:_Trofeo_Pirelli.md" title="wikilink">Ferrari Challenge: Trofeo Pirelli</a></em>[287]</p></td>
-<td><p><a href="../Page/Eutechnyx.md" title="wikilink">Eutechnyx</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ferrari_Challenge:_Trofeo_Pirelli" title="wikilink">Ferrari Challenge: Trofeo Pirelli</a></em>[287]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3434,8 +3434,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ferrari:_The_Race_Experience.md" title="wikilink">Ferrari: The Race Experience</a></em>[288]</p></td>
-<td><p><a href="../Page/Eutechnyx.md" title="wikilink">Eutechnyx</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ferrari:_The_Race_Experience" title="wikilink">Ferrari: The Race Experience</a></em>[288]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3446,7 +3446,7 @@
 <tr class="even">
 <td><p><a href="../Page/FIFA_08.md" title="wikilink">FIFA 08</a></p></td>
 <td><p><em>FIFA 08</em>[289]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3455,9 +3455,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIFA_09.md" title="wikilink">FIFA 09</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA_09" title="wikilink">FIFA 09</a></p></td>
 <td><p><em>FIFA 09</em>[290]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3468,7 +3468,7 @@
 <tr class="even">
 <td><p><a href="../Page/FIFA_10.md" title="wikilink">FIFA 10</a></p></td>
 <td><p><em>FIFA 10</em>[291]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3479,7 +3479,7 @@
 <tr class="odd">
 <td><p><a href="../Page/FIFA_11.md" title="wikilink">FIFA 11</a></p></td>
 <td><p><em>FIFA 11</em>[292]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3490,7 +3490,7 @@
 <tr class="even">
 <td><p><a href="../Page/FIFA_12.md" title="wikilink">FIFA 12</a></p></td>
 <td><p><em>FIFA 12</em>[293]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3501,7 +3501,7 @@
 <tr class="odd">
 <td><p><a href="../Page/FIFA_13.md" title="wikilink">FIFA 13</a></p></td>
 <td><p><em>FIFA 13</em>[294]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3512,7 +3512,7 @@
 <tr class="even">
 <td><p><a href="../Page/FIFA_14.md" title="wikilink">FIFA 14</a></p></td>
 <td><p><em>FIFA 14</em>[295]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td><p>未發行</p></td>
 <td></td>
 <td></td>
@@ -3521,9 +3521,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/FIFA_15.md" title="wikilink">FIFA 15</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FIFA_15" title="wikilink">FIFA 15</a></p></td>
 <td><p><em>FIFA 15</em></p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3533,8 +3533,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/FIFA_Street_(2012_video_game).md" title="wikilink">FIFA Street</a></em>[296]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/FIFA_Street_(2012_video_game)" title="wikilink">FIFA Street</a></em>[296]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3544,8 +3544,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/FIFA_Street_3.md" title="wikilink">FIFA Street 3</a></em>[297]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/FIFA_Street_3" title="wikilink">FIFA Street 3</a></em>[297]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3555,7 +3555,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Fight:_Lights_Out.md" title="wikilink">The Fight: Lights Out</a></em>[298]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Fight:_Lights_Out" title="wikilink">The Fight: Lights Out</a></em>[298]</p></td>
 <td><p>ColdWood Interactive</p></td>
 <td></td>
 <td></td>
@@ -3566,8 +3566,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Fight_Night_Champion.md" title="wikilink">Fight Night Champion</a></em>[299]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fight_Night_Champion" title="wikilink">Fight Night Champion</a></em>[299]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3577,8 +3577,8 @@
 </tr>
 <tr class="even">
 <td><p>暗黑格鬥3</p></td>
-<td><p><em><a href="../Page/Fight_Night_Round_3.md" title="wikilink">Fight Night Round 3</a></em>[300]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a> / <a href="../Page/EA_Chicago.md" title="wikilink">EA Chicago</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fight_Night_Round_3" title="wikilink">Fight Night Round 3</a></em>[300]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a> / <a href="https://zh.wikipedia.org/wiki/EA_Chicago" title="wikilink">EA Chicago</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3588,8 +3588,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Fight_Night_Round_4.md" title="wikilink">Fight Night Round 4</a></em>[301]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fight_Night_Round_4" title="wikilink">Fight Night Round 4</a></em>[301]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3599,8 +3599,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Final_Exam_(video_game).md" title="wikilink">Final Exam</a></em>[302]</p></td>
-<td><p><a href="../Page/Mighty_Rocket_Studio.md" title="wikilink">Mighty Rocket Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Final_Exam_(video_game)" title="wikilink">Final Exam</a></em>[302]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mighty_Rocket_Studio" title="wikilink">Mighty Rocket Studio</a></p></td>
 <td></td>
 <td><p>Q4 2013</p></td>
 <td><p>Q4 2013</p></td>
@@ -3609,9 +3609,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/最终幻想X/X-2_HD重制版.md" title="wikilink">最终幻想X/X-2 HD重制版</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最终幻想X/X-2_HD重制版" title="wikilink">最终幻想X/X-2 HD重制版</a></p></td>
 <td><p><em>Final Fantasy X/X-2 HD Remaster</em>[303]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3622,7 +3622,7 @@
 <tr class="even">
 <td><p><a href="../Page/最终幻想XIII.md" title="wikilink">最终幻想XIII</a></p></td>
 <td><p><em>Final Fantasy XIII</em>[304]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3633,7 +3633,7 @@
 <tr class="odd">
 <td><p><a href="../Page/最终幻想XIII-2.md" title="wikilink">最终幻想XIII-2</a></p></td>
 <td><p><em>Final Fantasy XIII-2</em>[305]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3644,7 +3644,7 @@
 <tr class="even">
 <td><p><a href="../Page/最终幻想XIV.md" title="wikilink">最终幻想XIV</a></p></td>
 <td><p><em>Final Fantasy XIV</em>[306]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3653,9 +3653,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/最终幻想XIV：重生之境.md" title="wikilink">最终幻想XIV：重生之境</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境" title="wikilink">最终幻想XIV：重生之境</a></p></td>
 <td><p><em>Final Fantasy XIV: A Realm Reborn</em>[307]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3665,8 +3665,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fireburst.md" title="wikilink">Fireburst</a></em>[308]</p></td>
-<td><p><a href="../Page/exDream.md" title="wikilink">exDream</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fireburst" title="wikilink">Fireburst</a></em>[308]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/exDream" title="wikilink">exDream</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3676,8 +3676,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Fist_of_the_North_Star:_Ken&#39;s_Rage.md" title="wikilink">Fist of the North Star: Ken's Rage</a></em>[309]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fist_of_the_North_Star:_Ken&#39;s_Rage" title="wikilink">Fist of the North Star: Ken's Rage</a></em>[309]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3687,8 +3687,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fist_of_the_North_Star:_Ken&#39;s_Rage_2.md" title="wikilink">Fist of the North Star: Ken's Rage 2</a></em>[310]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fist_of_the_North_Star:_Ken&#39;s_Rage_2" title="wikilink">Fist of the North Star: Ken's Rage 2</a></em>[310]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3699,7 +3699,7 @@
 <tr class="odd">
 <td><p><a href="../Page/Folklore_-異魂傳承-.md" title="wikilink">Folklore -異魂傳承-</a></p></td>
 <td><p><em>Folklore</em>[311]</p></td>
-<td><p><a href="../Page/Game_Republic.md" title="wikilink">Game Republic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3709,8 +3709,8 @@
 </tr>
 <tr class="even">
 <td><p>一級方程式賽車冠軍盃版</p></td>
-<td><p><em><a href="../Page/Formula_One_Championship_Edition.md" title="wikilink">Formula One Championship Edition</a></em>[312]</p></td>
-<td><p><a href="../Page/SCE_Studio_Liverpool.md" title="wikilink">SCE Studio Liverpool</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Formula_One_Championship_Edition" title="wikilink">Formula One Championship Edition</a></em>[312]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studio_Liverpool" title="wikilink">SCE Studio Liverpool</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3720,8 +3720,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Fracture_(video_game).md" title="wikilink">Fracture</a></em>[313]</p></td>
-<td><p><a href="../Page/Day_1_Studios.md" title="wikilink">Day 1 Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fracture_(video_game)" title="wikilink">Fracture</a></em>[313]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Day_1_Studios" title="wikilink">Day 1 Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3731,8 +3731,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fritz_Chess.md" title="wikilink">Fritz Chess</a></em>[314]</p></td>
-<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fritz_Chess" title="wikilink">Fritz Chess</a></em>[314]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3743,7 +3743,7 @@
 <tr class="odd">
 <td><p><a href="../Page/前线任务_进化.md" title="wikilink">前线任务 进化</a></p></td>
 <td><p><em>Front Mission Evolved</em>[315]</p></td>
-<td><p><a href="../Page/Double_Helix_Games.md" title="wikilink">Double Helix Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_Helix_Games" title="wikilink">Double Helix Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3753,8 +3753,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fuel_(2009_video_game).md" title="wikilink">Fuel</a></em>[316]</p></td>
-<td><p><a href="../Page/Asobo_Studios.md" title="wikilink">Asobo Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fuel_(2009_video_game)" title="wikilink">Fuel</a></em>[316]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Asobo_Studios" title="wikilink">Asobo Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3764,8 +3764,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Full_Auto_2:_Battlelines.md" title="wikilink">Full Auto 2: Battlelines</a></em>[317]</p></td>
-<td><p><a href="../Page/Pseudo_Interactive.md" title="wikilink">Pseudo Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Full_Auto_2:_Battlelines" title="wikilink">Full Auto 2: Battlelines</a></em>[317]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pseudo_Interactive" title="wikilink">Pseudo Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3775,8 +3775,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Fuse_(video_game).md" title="wikilink">Fuse</a></em></p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Fuse_(video_game)" title="wikilink">Fuse</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3787,7 +3787,7 @@
 <tr class="odd">
 <td><p>騎師之道4 2007</p></td>
 <td><p><span id="G"></span><em>G1 Jockey 4 2007</em>[318]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -3798,7 +3798,7 @@
 <tr class="even">
 <td><p>騎師之道 2008</p></td>
 <td><p><em>G1 Jockey 2008</em>[319]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3808,7 +3808,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Gal*Gun.md" title="wikilink">Gal*Gun</a></em>[320]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Gal*Gun" title="wikilink">Gal*Gun</a></em>[320]</p></td>
 <td><p><a href="../Page/Inti_Creates.md" title="wikilink">Inti Creates</a></p></td>
 <td></td>
 <td></td>
@@ -3819,8 +3819,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Game_of_Thrones.md" title="wikilink">Game of Thrones</a></em>[321]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Game_of_Thrones" title="wikilink">Game of Thrones</a></em>[321]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3841,8 +3841,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Generator_Rex:_Agent_of_Providence.md" title="wikilink">Generator Rex: Agent of Providence</a></em></p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Generator_Rex:_Agent_of_Providence" title="wikilink">Generator Rex: Agent of Providence</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3853,7 +3853,7 @@
 <tr class="odd">
 <td><p><a href="../Page/GENJI_-神威奏亂-.md" title="wikilink">GENJI -神威奏亂-</a></p></td>
 <td><p><em>Genji: Days of the Blade</em>[322]</p></td>
-<td><p><a href="../Page/Game_Republic.md" title="wikilink">Game Republic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3864,7 +3864,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="../Page/Get_Up_and_Dance.md" title="wikilink">Get Up and Dance</a></em></p></td>
-<td><p><a href="../Page/O-Games.md" title="wikilink">O-Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/O-Games" title="wikilink">O-Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3874,8 +3874,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/G-Force_(video_game).md" title="wikilink">G-Force</a></em>[323]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/G-Force_(video_game)" title="wikilink">G-Force</a></em>[323]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3885,8 +3885,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ghostbusters:_The_Video_Game.md" title="wikilink">Ghostbusters: The Video Game</a></em>[324]</p></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a> / <a href="../Page/Threewave_Software.md" title="wikilink">Threewave Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ghostbusters:_The_Video_Game" title="wikilink">Ghostbusters: The Video Game</a></em>[324]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a> / <a href="https://zh.wikipedia.org/wiki/Threewave_Software" title="wikilink">Threewave Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3896,8 +3896,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/G.I._Joe:_The_Rise_of_Cobra_(video_game).md" title="wikilink">G.I. Joe: The Rise of Cobra</a></em>[325]</p></td>
-<td><p><a href="../Page/Double_Helix_Games.md" title="wikilink">Double Helix Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/G.I._Joe:_The_Rise_of_Cobra_(video_game)" title="wikilink">G.I. Joe: The Rise of Cobra</a></em>[325]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_Helix_Games" title="wikilink">Double Helix Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3908,7 +3908,7 @@
 <tr class="even">
 <td><p><a href="../Page/教父_(遊戲).md" title="wikilink">教父</a></p></td>
 <td><p><em>The Godfather: The Don's Edition</em>[326]</p></td>
-<td><p><a href="../Page/EA_Redwood_Shores.md" title="wikilink">EA Redwood Shores</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Redwood_Shores" title="wikilink">EA Redwood Shores</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3919,7 +3919,7 @@
 <tr class="odd">
 <td><p>教父II</p></td>
 <td><p><em>The Godfather II</em>[327]</p></td>
-<td><p><a href="../Page/EA_Redwood_Shores.md" title="wikilink">EA Redwood Shores</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Redwood_Shores" title="wikilink">EA Redwood Shores</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3930,7 +3930,7 @@
 <tr class="even">
 <td><p><a href="../Page/戰神III.md" title="wikilink">戰神III</a></p></td>
 <td><p><em>God of War III</em>[328]</p></td>
-<td><p><a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3941,7 +3941,7 @@
 <tr class="odd">
 <td><p><a href="../Page/戰神：崛起.md" title="wikilink">戰神：崛起</a></p></td>
 <td><p><em>God of War: Ascension</em>[329]</p></td>
-<td><p><a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3951,8 +3951,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/God_of_War_Collection.md" title="wikilink">God of War Collection</a></em>[330]</p></td>
-<td><p><a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a> / <a href="../Page/Bluepoint_Games.md" title="wikilink">Bluepoint Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/God_of_War_Collection" title="wikilink">God of War Collection</a></em>[330]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a> / <a href="https://zh.wikipedia.org/wiki/Bluepoint_Games" title="wikilink">Bluepoint Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3962,8 +3962,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/God_of_War_Origins#God_of_War:_Origins_Collection.md" title="wikilink">God of War: Origins Collection</a></em>[331]</p></td>
-<td><p><a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a> / <a href="../Page/Ready_at_Dawn.md" title="wikilink">Ready at Dawn</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/God_of_War_Origins#God_of_War:_Origins_Collection" title="wikilink">God of War: Origins Collection</a></em>[331]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a> / <a href="https://zh.wikipedia.org/wiki/Ready_at_Dawn" title="wikilink">Ready at Dawn</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3973,8 +3973,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/God_of_War_Saga.md" title="wikilink">God of War Saga</a></em>[332]</p></td>
-<td><p><a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/God_of_War_Saga" title="wikilink">God of War Saga</a></em>[332]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -3984,8 +3984,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Golden_Axe:_Beast_Rider.md" title="wikilink">Golden Axe: Beast Rider</a></em>[333]</p></td>
-<td><p><a href="../Page/Secret_Level.md" title="wikilink">Secret Level</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Golden_Axe:_Beast_Rider" title="wikilink">Golden Axe: Beast Rider</a></em>[333]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Secret_Level" title="wikilink">Secret Level</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -3995,8 +3995,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/GoldenEye_007:_Reloaded.md" title="wikilink">GoldenEye 007: Reloaded</a></em>[334]</p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/GoldenEye_007:_Reloaded" title="wikilink">GoldenEye 007: Reloaded</a></em>[334]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4006,7 +4006,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Golden_Compass_(video_game).md" title="wikilink">The Golden Compass</a></em>[335]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Golden_Compass_(video_game)" title="wikilink">The Golden Compass</a></em>[335]</p></td>
 <td><p><a href="../Page/Shiny_Entertainment.md" title="wikilink">Shiny Entertainment</a></p></td>
 <td></td>
 <td></td>
@@ -4050,8 +4050,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Grand_Slam_Tennis_2.md" title="wikilink">Grand Slam Tennis 2</a></em>[339]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Grand_Slam_Tennis_2" title="wikilink">Grand Slam Tennis 2</a></em>[339]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4105,8 +4105,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Green_Day:_Rock_Band.md" title="wikilink">Green Day: Rock Band</a></em>[344]</p></td>
-<td><p><a href="../Page/Harmonix.md" title="wikilink">Harmonix</a> / <a href="../Page/Demiurge_Studios.md" title="wikilink">Demiurge Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Green_Day:_Rock_Band" title="wikilink">Green Day: Rock Band</a></em>[344]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix" title="wikilink">Harmonix</a> / <a href="https://zh.wikipedia.org/wiki/Demiurge_Studios" title="wikilink">Demiurge Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4116,7 +4116,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/GRID_Autosport.md" title="wikilink">GRID Autosport</a></em>[345][346]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/GRID_Autosport" title="wikilink">GRID Autosport</a></em>[345][346]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4127,8 +4127,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Grinder.md" title="wikilink">The Grinder</a></em>[347]</p></td>
-<td><p><a href="../Page/High_Voltage_Software.md" title="wikilink">High Voltage Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Grinder" title="wikilink">The Grinder</a></em>[347]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/High_Voltage_Software" title="wikilink">High Voltage Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4138,8 +4138,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Guilty_Gear_Xrd.md" title="wikilink">Guilty Gear Xrd</a></em></p></td>
-<td><p><a href="../Page/Arc_System_Works_Team_Red.md" title="wikilink">Arc System Works Team Red</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guilty_Gear_Xrd" title="wikilink">Guilty Gear Xrd</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arc_System_Works_Team_Red" title="wikilink">Arc System Works Team Red</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4148,7 +4148,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/吉他英雄III：摇滚传奇.md" title="wikilink">吉他英雄III：摇滚传奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉他英雄III：摇滚传奇" title="wikilink">吉他英雄III：摇滚传奇</a></p></td>
 <td><p><em>Guitar Hero III: Legends of Rock</em>[348]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
@@ -4160,7 +4160,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero_World_Tour.md" title="wikilink">Guitar Hero World Tour</a></em>[349]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero_World_Tour" title="wikilink">Guitar Hero World Tour</a></em>[349]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4171,7 +4171,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero_5.md" title="wikilink">Guitar Hero 5</a></em>[350]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero_5" title="wikilink">Guitar Hero 5</a></em>[350]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4182,7 +4182,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero:_Aerosmith.md" title="wikilink">Guitar Hero: Aerosmith</a></em>[351]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero:_Aerosmith" title="wikilink">Guitar Hero: Aerosmith</a></em>[351]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td></td>
@@ -4193,7 +4193,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero:_Metallica.md" title="wikilink">Guitar Hero: Metallica</a></em>[352]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero:_Metallica" title="wikilink">Guitar Hero: Metallica</a></em>[352]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4204,8 +4204,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero_Smash_Hits.md" title="wikilink">Guitar Hero Smash Hits</a></em>[353]</p></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero_Smash_Hits" title="wikilink">Guitar Hero Smash Hits</a></em>[353]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4215,7 +4215,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero:_Van_Halen.md" title="wikilink">Guitar Hero: Van Halen</a></em>[354]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero:_Van_Halen" title="wikilink">Guitar Hero: Van Halen</a></em>[354]</p></td>
 <td><p><a href="../Page/Underground_Development.md" title="wikilink">Underground Development</a> / <a href="../Page/Neversoft.md" title="wikilink">Neversoft</a> / <a href="../Page/Budcat_Creations.md" title="wikilink">Budcat Creations</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4226,7 +4226,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Guitar_Hero:_Warriors_of_Rock.md" title="wikilink">Guitar Hero: Warriors of Rock</a></em>[355]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Guitar_Hero:_Warriors_of_Rock" title="wikilink">Guitar Hero: Warriors of Rock</a></em>[355]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4237,8 +4237,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="H"></span><em><a href="../Page/Hail_to_the_Chimp.md" title="wikilink">Hail to the Chimp</a></em>[356]</p></td>
-<td><p><a href="../Page/Wideload_Games.md" title="wikilink">Wideload Games</a></p></td>
+<td><p><span id="H"></span><em><a href="https://zh.wikipedia.org/wiki/Hail_to_the_Chimp" title="wikilink">Hail to the Chimp</a></em>[356]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wideload_Games" title="wikilink">Wideload Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4248,7 +4248,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Hakuouki:_Reimeiroku_Nagorigusa.md" title="wikilink">Hakuouki: Reimeiroku Nagorigusa</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hakuouki:_Reimeiroku_Nagorigusa" title="wikilink">Hakuouki: Reimeiroku Nagorigusa</a></em></p></td>
 <td><p><a href="../Page/Idea_Factory.md" title="wikilink">Idea Factory</a></p></td>
 <td></td>
 <td></td>
@@ -4259,8 +4259,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hannah_Montana:_The_Movie_(video_game).md" title="wikilink">Hannah Montana: The Movie</a></em>[357]</p></td>
-<td><p><a href="../Page/n-Space.md" title="wikilink">n-Space</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hannah_Montana:_The_Movie_(video_game)" title="wikilink">Hannah Montana: The Movie</a></em>[357]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/n-Space" title="wikilink">n-Space</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4270,8 +4270,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Harry_Potter_and_the_Deathly_Hallows:_Part_I_(video_game).md" title="wikilink">Harry Potter and the Deathly Hallows: Part I</a></em>[358]</p></td>
-<td><p><a href="../Page/EA_Bright_Light_Studio.md" title="wikilink">EA Bright Light Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_I_(video_game)" title="wikilink">Harry Potter and the Deathly Hallows: Part I</a></em>[358]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Bright_Light_Studio" title="wikilink">EA Bright Light Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4281,8 +4281,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Harry_Potter_and_the_Deathly_Hallows:_Part_II_(video_game).md" title="wikilink">Harry Potter and the Deathly Hallows: Part II</a></em>[359]</p></td>
-<td><p><a href="../Page/EA_Bright_Light_Studio.md" title="wikilink">EA Bright Light Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows:_Part_II_(video_game)" title="wikilink">Harry Potter and the Deathly Hallows: Part II</a></em>[359]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Bright_Light_Studio" title="wikilink">EA Bright Light Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4292,8 +4292,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Harry_Potter_and_the_Half-Blood_Prince_(video_game).md" title="wikilink">Harry Potter and the Half-Blood Prince</a></em>[360]</p></td>
-<td><p><a href="../Page/EA_Bright_Light_Studio.md" title="wikilink">EA Bright Light Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(video_game)" title="wikilink">Harry Potter and the Half-Blood Prince</a></em>[360]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Bright_Light_Studio" title="wikilink">EA Bright Light Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4304,7 +4304,7 @@
 <tr class="even">
 <td><p><a href="../Page/哈利·波特与凤凰社_(游戏).md" title="wikilink">哈利·波特与凤凰社</a></p></td>
 <td><p><em>Harry Potter and the Order of the Phoenix</em>[361]</p></td>
-<td><p><a href="../Page/EA_UK.md" title="wikilink">EA UK</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_UK" title="wikilink">EA UK</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4314,8 +4314,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Hatsune_Miku:_Project_DIVA_F.md" title="wikilink">Hatsune Miku: Project DIVA F</a></em></p></td>
-<td><p><a href="../Page/Crypton_Future_Media.md" title="wikilink">Crypton Future Media</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA_F" title="wikilink">Hatsune Miku: Project DIVA F</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crypton_Future_Media" title="wikilink">Crypton Future Media</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4325,8 +4325,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hatsune_Miku:_Project_DIVA_F_2nd.md" title="wikilink">Hatsune Miku: Project DIVA F 2nd</a></em></p></td>
-<td><p><a href="../Page/Crypton_Future_Media.md" title="wikilink">Crypton Future Media</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hatsune_Miku:_Project_DIVA_F_2nd" title="wikilink">Hatsune Miku: Project DIVA F 2nd</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crypton_Future_Media" title="wikilink">Crypton Future Media</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4336,8 +4336,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Haze_(video_game).md" title="wikilink">Haze</a></em>[362]</p></td>
-<td><p><a href="../Page/Free_Radical_Design.md" title="wikilink">Free Radical Design</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Haze_(video_game)" title="wikilink">Haze</a></em>[362]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Free_Radical_Design" title="wikilink">Free Radical Design</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4347,8 +4347,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Heat_(video_game).md" title="wikilink">Heat</a></em>[363]</p></td>
-<td><p><a href="../Page/Gearbox_Software.md" title="wikilink">Gearbox Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Heat_(video_game)" title="wikilink">Heat</a></em>[363]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gearbox_Software" title="wikilink">Gearbox Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4359,7 +4359,7 @@
 <tr class="odd">
 <td><p><a href="../Page/玄天神劍.md" title="wikilink">玄天神劍</a></p></td>
 <td><p><em>Heavenly Sword</em>[364]</p></td>
-<td><p><a href="../Page/Ninja_Theory.md" title="wikilink">Ninja Theory</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ninja_Theory" title="wikilink">Ninja Theory</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4369,8 +4369,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Heavy_Fire:_Afghanistan.md" title="wikilink">Heavy Fire: Afghanistan</a></em></p></td>
-<td><p><a href="../Page/Mastiff.md" title="wikilink">Mastiff</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Heavy_Fire:_Afghanistan" title="wikilink">Heavy Fire: Afghanistan</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mastiff" title="wikilink">Mastiff</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4380,8 +4380,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Heavy_Fire:_Shattered_Spear.md" title="wikilink">Heavy Fire: Shattered Spear</a></em></p></td>
-<td><p><a href="../Page/Mastiff.md" title="wikilink">Mastiff</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Heavy_Fire:_Shattered_Spear" title="wikilink">Heavy Fire: Shattered Spear</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mastiff" title="wikilink">Mastiff</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4402,7 +4402,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Hellboy:_The_Science_of_Evil.md" title="wikilink">Hellboy: The Science of Evil</a></em>[366]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hellboy:_The_Science_of_Evil" title="wikilink">Hellboy: The Science of Evil</a></em>[366]</p></td>
 <td><p><a href="../Page/Krome_Studios.md" title="wikilink">Krome Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4413,8 +4413,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Helldivers.md" title="wikilink">Helldivers</a></em></p></td>
-<td><p><a href="../Page/Arrowhead_Game_Studios.md" title="wikilink">Arrowhead Game Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Helldivers" title="wikilink">Helldivers</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arrowhead_Game_Studios" title="wikilink">Arrowhead Game Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4424,8 +4424,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Heroes_Over_Europe.md" title="wikilink">Heroes Over Europe</a></em>[367]</p></td>
-<td><p><a href="../Page/Transmission_Games.md" title="wikilink">Transmission Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Heroes_Over_Europe" title="wikilink">Heroes Over Europe</a></em>[367]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Transmission_Games" title="wikilink">Transmission Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4435,8 +4435,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/High_Velocity_Bowling.md" title="wikilink">High Velocity Bowling</a></em>[368]</p></td>
-<td><p><a href="../Page/Mastiff.md" title="wikilink">Mastiff</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/High_Velocity_Bowling" title="wikilink">High Velocity Bowling</a></em>[368]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mastiff" title="wikilink">Mastiff</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4446,8 +4446,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_History_Channel:_Battle_for_the_Pacific.md" title="wikilink">The History Channel: Battle for the Pacific</a></em>[369]</p></td>
-<td><p><a href="../Page/Magic_Wand_Productions.md" title="wikilink">Magic Wand Productions</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_History_Channel:_Battle_for_the_Pacific" title="wikilink">The History Channel: Battle for the Pacific</a></em>[369]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Magic_Wand_Productions" title="wikilink">Magic Wand Productions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4457,8 +4457,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/History_Civil_War:_Secret_Missions.md" title="wikilink">History Civil War: Secret Missions</a></em>[370]</p></td>
-<td><p><a href="../Page/Cauldron_HQ.md" title="wikilink">Cauldron HQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/History_Civil_War:_Secret_Missions" title="wikilink">History Civil War: Secret Missions</a></em>[370]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cauldron_HQ" title="wikilink">Cauldron HQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4468,8 +4468,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/History_(TV_channel).md" title="wikilink">The History Channel - Great Battles Medieval</a></em>[371]</p></td>
-<td><p><a href="../Page/Slitherine_Software.md" title="wikilink">Slitherine Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/History_(TV_channel)" title="wikilink">The History Channel - Great Battles Medieval</a></em>[371]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Slitherine_Software" title="wikilink">Slitherine Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4479,7 +4479,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hitman:_Absolution.md" title="wikilink">Hitman: Absolution</a></em>[372]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hitman:_Absolution" title="wikilink">Hitman: Absolution</a></em>[372]</p></td>
 <td><p><a href="../Page/IO_Interactive.md" title="wikilink">IO Interactive</a></p></td>
 <td></td>
 <td></td>
@@ -4490,8 +4490,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Homefront_(video_game).md" title="wikilink">Homefront</a></em>[373]</p></td>
-<td><p><a href="../Page/Kaos_Studios.md" title="wikilink">Kaos Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Homefront_(video_game)" title="wikilink">Homefront</a></em>[373]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kaos_Studios" title="wikilink">Kaos Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4501,8 +4501,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hot_Wheels_World&#39;s_Best_Driver.md" title="wikilink">Hot Wheels World's Best Driver</a></em></p></td>
-<td><p><a href="../Page/Firebrand_Games.md" title="wikilink">Firebrand Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hot_Wheels_World&#39;s_Best_Driver" title="wikilink">Hot Wheels World's Best Driver</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Firebrand_Games" title="wikilink">Firebrand Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4512,8 +4512,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_House_of_the_Dead:_Overkill.md" title="wikilink">The House of the Dead: Overkill</a></em>[374]</p></td>
-<td><p><a href="../Page/Headstrong_Games.md" title="wikilink">Headstrong Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_House_of_the_Dead:_Overkill" title="wikilink">The House of the Dead: Overkill</a></em>[374]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Headstrong_Games" title="wikilink">Headstrong Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4523,8 +4523,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/How_to_Train_Your_Dragon_(video_game).md" title="wikilink">How to Train Your Dragon</a></em>[375]</p></td>
-<td><p><a href="../Page/Étranges_Libellules.md" title="wikilink">Étranges Libellules</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/How_to_Train_Your_Dragon_(video_game)" title="wikilink">How to Train Your Dragon</a></em>[375]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Étranges_Libellules" title="wikilink">Étranges Libellules</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4534,8 +4534,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/How_to_Train_Your_Dragon_2_(video_game).md" title="wikilink">How to Train Your Dragon 2</a></em>[376]</p></td>
-<td><p><a href="../Page/Torus_Games.md" title="wikilink">Torus Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/How_to_Train_Your_Dragon_2_(video_game)" title="wikilink">How to Train Your Dragon 2</a></em>[376]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Torus_Games" title="wikilink">Torus Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4545,8 +4545,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hunted:_The_Demon&#39;s_Forge.md" title="wikilink">Hunted: The Demon's Forge</a></em>[377]</p></td>
-<td><p><a href="../Page/Bethesda_Softworks.md" title="wikilink">Bethesda Softworks</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hunted:_The_Demon&#39;s_Forge" title="wikilink">Hunted: The Demon's Forge</a></em>[377]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bethesda_Softworks" title="wikilink">Bethesda Softworks</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4556,7 +4556,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Hyperdimension_Neptunia_(video_game).md" title="wikilink">Hyperdimension Neptunia</a></em>[378]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hyperdimension_Neptunia_(video_game)" title="wikilink">Hyperdimension Neptunia</a></em>[378]</p></td>
 <td><p><a href="../Page/Idea_Factory.md" title="wikilink">Idea Factory</a>, <a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -4567,7 +4567,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Hyperdimension_Neptunia_Mk2.md" title="wikilink">Hyperdimension Neptunia Mk2</a></em>[379]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Hyperdimension_Neptunia_Mk2" title="wikilink">Hyperdimension Neptunia Mk2</a></em>[379]</p></td>
 <td><p><a href="../Page/Idea_Factory.md" title="wikilink">Idea Factory</a>, <a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -4578,8 +4578,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="I"></span><em><a href="../Page/Ice_Age:_Dawn_of_the_Dinosaurs#Video_game.md" title="wikilink">Ice Age: Dawn of the Dinosaurs</a></em>[380]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><span id="I"></span><em><a href="https://zh.wikipedia.org/wiki/Ice_Age:_Dawn_of_the_Dinosaurs#Video_game" title="wikilink">Ice Age: Dawn of the Dinosaurs</a></em>[380]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4589,8 +4589,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Ico_&amp;_Shadow_of_the_Colossus_Collection.md" title="wikilink">Ico &amp; Shadow of the Colossus Collection</a></em>[381]</p></td>
-<td><p><a href="../Page/Team_Ico.md" title="wikilink">Team Ico</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Ico_&amp;_Shadow_of_the_Colossus_Collection" title="wikilink">Ico &amp; Shadow of the Colossus Collection</a></em>[381]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ico" title="wikilink">Team Ico</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4600,8 +4600,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/IL-2_Sturmovik:_Birds_of_Prey.md" title="wikilink">IL-2 Sturmovik: Birds of Prey</a></em>[382]</p></td>
-<td><p><a href="../Page/Gaijin_Entertainment.md" title="wikilink">Gaijin Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/IL-2_Sturmovik:_Birds_of_Prey" title="wikilink">IL-2 Sturmovik: Birds of Prey</a></em>[382]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaijin_Entertainment" title="wikilink">Gaijin Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4612,7 +4612,7 @@
 <tr class="even">
 <td><p>忌火起草</p></td>
 <td><p><em>Imabikisō</em>[383]</p></td>
-<td><p><a href="../Page/Chunsoft.md" title="wikilink">Chunsoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chunsoft" title="wikilink">Chunsoft</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4622,8 +4622,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Incredible_Hulk_(2008_video_game).md" title="wikilink">The Incredible Hulk</a></em>[384]</p></td>
-<td><p><a href="../Page/Edge_of_Reality.md" title="wikilink">Edge of Reality</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Incredible_Hulk_(2008_video_game)" title="wikilink">The Incredible Hulk</a></em>[384]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edge_of_Reality" title="wikilink">Edge of Reality</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4632,9 +4632,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/恶名昭彰.md" title="wikilink">恶名昭彰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恶名昭彰" title="wikilink">恶名昭彰</a></p></td>
 <td><p><em>inFamous</em>[385]</p></td>
-<td><p><a href="../Page/Sucker_Punch_Productions.md" title="wikilink">Sucker Punch Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sucker_Punch_Productions" title="wikilink">Sucker Punch Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4643,9 +4643,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/恶名昭彰2.md" title="wikilink">恶名昭彰2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/恶名昭彰2" title="wikilink">恶名昭彰2</a></p></td>
 <td><p><em>Infamous 2</em>[386]</p></td>
-<td><p><a href="../Page/Sucker_Punch_Productions.md" title="wikilink">Sucker Punch Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sucker_Punch_Productions" title="wikilink">Sucker Punch Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4654,9 +4654,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/不义联盟：人间之神.md" title="wikilink">不义联盟：人间之神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/不义联盟：人间之神" title="wikilink">不义联盟：人间之神</a></p></td>
 <td><p><em>Injustice: Gods Among Us</em>[387]</p></td>
-<td><p><a href="../Page/NetherRealm_Studios.md" title="wikilink">NetherRealm Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NetherRealm_Studios" title="wikilink">NetherRealm Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4666,8 +4666,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Insane_(2013_video_game).md" title="wikilink">inSANE</a></em>[388]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a> / <a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Insane_(2013_video_game)" title="wikilink">inSANE</a></em>[388]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a> / <a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4677,8 +4677,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Initial_D_Extreme_Stage.md" title="wikilink">Initial D Extreme Stage</a></em>[389]</p></td>
-<td><p><a href="../Page/Sega_Rosso.md" title="wikilink">Sega Rosso</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Initial_D_Extreme_Stage" title="wikilink">Initial D Extreme Stage</a></em>[389]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega_Rosso" title="wikilink">Sega Rosso</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4688,8 +4688,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Interstellar_Marines.md" title="wikilink">Interstellar Marines</a></em>[390]</p></td>
-<td><p><a href="../Page/Zero_Point_Software.md" title="wikilink">Zero Point Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Interstellar_Marines" title="wikilink">Interstellar Marines</a></em>[390]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zero_Point_Software" title="wikilink">Zero Point Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4699,8 +4699,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Inversion_(video_game).md" title="wikilink">Inversion</a></em>[391]</p></td>
-<td><p><a href="../Page/Saber_Interactive.md" title="wikilink">Saber Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Inversion_(video_game)" title="wikilink">Inversion</a></em>[391]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saber_Interactive" title="wikilink">Saber Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4710,8 +4710,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Iron_Man_(video_game).md" title="wikilink">Iron Man</a></em>[392]</p></td>
-<td><p><a href="../Page/Secret_Level.md" title="wikilink">Secret Level</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Iron_Man_(video_game)" title="wikilink">Iron Man</a></em>[392]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Secret_Level" title="wikilink">Secret Level</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4721,8 +4721,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Iron_Man_2_(video_game).md" title="wikilink">Iron Man 2</a></em>[393]</p></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Iron_Man_2_(video_game)" title="wikilink">Iron Man 2</a></em>[393]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4732,7 +4732,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="J"></span><em><a href="../Page/J-Stars_Victory_Vs.md" title="wikilink">J-Stars Victory Vs</a></em>[394]</p></td>
+<td><p><span id="J"></span><em><a href="https://zh.wikipedia.org/wiki/J-Stars_Victory_Vs" title="wikilink">J-Stars Victory Vs</a></em>[394]</p></td>
 <td><p><a href="../Page/Spike_Chunsoft.md" title="wikilink">Spike Chunsoft</a></p></td>
 <td></td>
 <td></td>
@@ -4743,8 +4743,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Jak_and_Daxter_Collection.md" title="wikilink">Jak and Daxter Collection</a></em></p></td>
-<td><p><a href="../Page/Naughty_Dog.md" title="wikilink">Naughty Dog</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Jak_and_Daxter_Collection" title="wikilink">Jak and Daxter Collection</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naughty_Dog" title="wikilink">Naughty Dog</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4754,8 +4754,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Blood_Stone_(video_game).md" title="wikilink">James Bond 007: Blood Stone</a></em>[395]</p></td>
-<td><p><a href="../Page/Bizzare_Creations.md" title="wikilink">Bizzare Creations</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Blood_Stone_(video_game)" title="wikilink">James Bond 007: Blood Stone</a></em>[395]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bizzare_Creations" title="wikilink">Bizzare Creations</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4765,8 +4765,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Stranglehold_(video_game).md" title="wikilink">John Woo Presents: Stranglehold</a></em>[396]</p></td>
-<td><p><a href="../Page/Midway_Games.md" title="wikilink">Midway Chicago</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Stranglehold_(video_game)" title="wikilink">John Woo Presents: Stranglehold</a></em>[396]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Games" title="wikilink">Midway Chicago</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4776,8 +4776,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Janline_R.md" title="wikilink">Janline R</a></em>[397]</p></td>
-<td><p><a href="../Page/Recom.md" title="wikilink">Recom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Janline_R" title="wikilink">Janline R</a></em>[397]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Recom" title="wikilink">Recom</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -4787,8 +4787,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/John_Daly&#39;s_Prostroke_Golf.md" title="wikilink">John Daly's Prostroke Golf</a></em></p></td>
-<td><p><a href="../Page/Gusto_Games.md" title="wikilink">Gusto Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/John_Daly&#39;s_Prostroke_Golf" title="wikilink">John Daly's Prostroke Golf</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gusto_Games" title="wikilink">Gusto Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4798,8 +4798,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Juiced_2:_Hot_Import_Nights.md" title="wikilink">Juiced 2: Hot Import Nights</a></em>[398]</p></td>
-<td><p><a href="../Page/Juice_Games.md" title="wikilink">Juice Games</a> / <a href="../Page/Paradigm_Entertainment.md" title="wikilink">Paradigm Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Juiced_2:_Hot_Import_Nights" title="wikilink">Juiced 2: Hot Import Nights</a></em>[398]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Juice_Games" title="wikilink">Juice Games</a> / <a href="https://zh.wikipedia.org/wiki/Paradigm_Entertainment" title="wikilink">Paradigm Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4809,8 +4809,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Jurassic_Park:_The_Game.md" title="wikilink">Jurassic Park: The Game</a></em>[399]</p></td>
-<td><p><a href="../Page/Telltale_Games.md" title="wikilink">Telltale Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Jurassic_Park:_The_Game" title="wikilink">Jurassic Park: The Game</a></em>[399]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Telltale_Games" title="wikilink">Telltale Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4820,8 +4820,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Jurassic:_The_Hunted.md" title="wikilink">Jurassic: The Hunted</a></em>[400]</p></td>
-<td><p><a href="../Page/Cauldron_HQ.md" title="wikilink">Cauldron HQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Jurassic:_The_Hunted" title="wikilink">Jurassic: The Hunted</a></em>[400]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cauldron_HQ" title="wikilink">Cauldron HQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4832,7 +4832,7 @@
 <tr class="even">
 <td><p><a href="../Page/舞力全开2.md" title="wikilink">舞力全开2</a></p></td>
 <td><p><em>Just Cause 2</em>[401]</p></td>
-<td><p><a href="../Page/Avalanche_Studios.md" title="wikilink">Avalanche Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Avalanche_Studios" title="wikilink">Avalanche Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4843,7 +4843,7 @@
 <tr class="odd">
 <td><p>舞力全开3</p></td>
 <td><p><em>Just Dance 3</em>[402]</p></td>
-<td><p><a href="../Page/Ubisoft_Paris.md" title="wikilink">Ubisoft Paris</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Paris" title="wikilink">Ubisoft Paris</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4854,7 +4854,7 @@
 <tr class="even">
 <td><p><a href="../Page/舞力全开4.md" title="wikilink">舞力全开4</a></p></td>
 <td><p><em>Just Dance 4</em></p></td>
-<td><p><a href="../Page/Ubisoft_Paris.md" title="wikilink">Ubisoft Paris</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Paris" title="wikilink">Ubisoft Paris</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4886,8 +4886,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Karaoke_Revolution_(2009_video_game).md" title="wikilink">Karaoke Revolution</a></em>[405]</p></td>
-<td><p><a href="../Page/Blitz_Games.md" title="wikilink">Blitz Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Karaoke_Revolution_(2009_video_game)" title="wikilink">Karaoke Revolution</a></em>[405]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blitz_Games" title="wikilink">Blitz Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -4897,8 +4897,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Karaoke_Revolution_Presents:_American_Idol_Encore.md" title="wikilink">Karaoke Revolution Presents: American Idol Encore</a></em>[406]</p></td>
-<td><p><a href="../Page/Blitz_Games.md" title="wikilink">Blitz Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Karaoke_Revolution_Presents:_American_Idol_Encore" title="wikilink">Karaoke Revolution Presents: American Idol Encore</a></em>[406]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blitz_Games" title="wikilink">Blitz Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4908,8 +4908,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Karaoke_Revolution_Presents:_American_Idol_Encore_2.md" title="wikilink">Karaoke Revolution Presents: American Idol Encore 2</a></em>[407]</p></td>
-<td><p><a href="../Page/Blitz_Games.md" title="wikilink">Blitz Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Karaoke_Revolution_Presents:_American_Idol_Encore_2" title="wikilink">Karaoke Revolution Presents: American Idol Encore 2</a></em>[407]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blitz_Games" title="wikilink">Blitz Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -4919,8 +4919,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Katamari_Forever.md" title="wikilink">Katamari Forever</a></em>[408]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Katamari_Forever" title="wikilink">Katamari Forever</a></em>[408]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4940,7 +4940,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杀戮地带3.md" title="wikilink">杀戮地带3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杀戮地带3" title="wikilink">杀戮地带3</a></p></td>
 <td><p>Killzone 3[410]</p></td>
 <td><p><a href="../Page/Guerrilla_Games.md" title="wikilink">Guerrilla Games</a></p></td>
 <td></td>
@@ -4952,8 +4952,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Killer_is_Dead.md" title="wikilink">Killer is Dead</a></em></p></td>
-<td><p><a href="../Page/Grasshopper_Manufacture.md" title="wikilink">Grasshopper Manufacture</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Killer_is_Dead" title="wikilink">Killer is Dead</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4963,8 +4963,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_King_of_Fighters_XII.md" title="wikilink">The King of Fighters XII</a></em>[411]</p></td>
-<td><p><a href="../Page/SNK_Playmore.md" title="wikilink">SNK Playmore</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_King_of_Fighters_XII" title="wikilink">The King of Fighters XII</a></em>[411]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SNK_Playmore" title="wikilink">SNK Playmore</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4974,8 +4974,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_King_of_Fighters_XIII.md" title="wikilink">The King of Fighters XIII</a></em>[412]</p></td>
-<td><p><a href="../Page/SNK_Playmore.md" title="wikilink">SNK Playmore</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_King_of_Fighters_XIII" title="wikilink">The King of Fighters XIII</a></em>[412]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SNK_Playmore" title="wikilink">SNK Playmore</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4985,8 +4985,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Kingdom_Hearts_HD_1.5_Remix.md" title="wikilink">Kingdom Hearts HD 1.5 Remix</a></em>[413]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kingdom_Hearts_HD_1.5_Remix" title="wikilink">Kingdom Hearts HD 1.5 Remix</a></em>[413]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4996,8 +4996,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Kingdom_Hearts_HD_2.5_Remix.md" title="wikilink">Kingdom Hearts HD 2.5 Remix</a></em></p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kingdom_Hearts_HD_2.5_Remix" title="wikilink">Kingdom Hearts HD 2.5 Remix</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5007,8 +5007,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Kingdom_Under_Fire_II.md" title="wikilink">Kingdom Under Fire II</a></em>[414]</p></td>
-<td><p><a href="../Page/Blueside.md" title="wikilink">Blueside</a>, <a href="../Page/Phantagram.md" title="wikilink">Phantagram</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kingdom_Under_Fire_II" title="wikilink">Kingdom Under Fire II</a></em>[414]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blueside" title="wikilink">Blueside</a>, <a href="https://zh.wikipedia.org/wiki/Phantagram" title="wikilink">Phantagram</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5017,9 +5017,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/阿玛拉王国：惩罚.md" title="wikilink">阿玛拉王国：惩罚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿玛拉王国：惩罚" title="wikilink">阿玛拉王国：惩罚</a></p></td>
 <td><p><em>Kingdoms of Amalur: Reckoning</em>[415]</p></td>
-<td><p><a href="../Page/38_Studios.md" title="wikilink">38 Studios</a>, <a href="../Page/Big_Huge_Games.md" title="wikilink">Big Huge Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/38_Studios" title="wikilink">38 Studios</a>, <a href="../Page/Big_Huge_Games.md" title="wikilink">Big Huge Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5029,8 +5029,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Knights_Contract.md" title="wikilink">Knights Contract</a></em>[416]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Knights_Contract" title="wikilink">Knights Contract</a></em>[416]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5040,7 +5040,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Kung_Fu_Panda_(video_game).md" title="wikilink">Kung Fu Panda</a></em>[417]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kung_Fu_Panda_(video_game)" title="wikilink">Kung Fu Panda</a></em>[417]</p></td>
 <td><p><a href="../Page/Luxoflux.md" title="wikilink">Luxoflux</a></p></td>
 <td></td>
 <td></td>
@@ -5051,8 +5051,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Kung_Fu_Panda_2_(video_game).md" title="wikilink">Kung Fu Panda 2</a></em>[418]</p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kung_Fu_Panda_2_(video_game)" title="wikilink">Kung Fu Panda 2</a></em>[418]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5062,8 +5062,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Kung_Fu_Rider.md" title="wikilink">Kung Fu Rider</a></em></p></td>
-<td><p><a href="../Page/SCE_Studios_Japan.md" title="wikilink">SCE Studios Japan</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kung_Fu_Rider" title="wikilink">Kung Fu Rider</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studios_Japan" title="wikilink">SCE Studios Japan</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5073,8 +5073,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Kurayami.md" title="wikilink">Kurayami</a></em>[419]</p></td>
-<td><p><a href="../Page/Grasshopper_Manufacture.md" title="wikilink">Grasshopper Manufacture</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Kurayami" title="wikilink">Kurayami</a></em>[419]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5084,7 +5084,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="L"></span><em><a href="../Page/L.A._Noire.md" title="wikilink">L.A. Noire</a></em>[420]</p></td>
+<td><p><span id="L"></span><em><a href="https://zh.wikipedia.org/wiki/L.A._Noire" title="wikilink">L.A. Noire</a></em>[420]</p></td>
 <td><p><a href="../Page/Team_Bondi.md" title="wikilink">Team Bondi</a></p></td>
 <td></td>
 <td></td>
@@ -5096,7 +5096,7 @@
 <tr class="even">
 <td><p>龍潭虎穴</p></td>
 <td><p>Lair[421]</p></td>
-<td><p><a href="../Page/Factor_5.md" title="wikilink">Factor 5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Factor_5" title="wikilink">Factor 5</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5105,9 +5105,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/最後生還者.md" title="wikilink">最後生還者</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最後生還者" title="wikilink">最後生還者</a></p></td>
 <td><p>The Last of Us[422]</p></td>
-<td><p><a href="../Page/Naughty_Dog.md" title="wikilink">Naughty Dog</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naughty_Dog" title="wikilink">Naughty Dog</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5117,8 +5117,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Last_Rebellion.md" title="wikilink">Last Rebellion</a></em>[423]</p></td>
-<td><p><a href="../Page/Hit_Maker_(video_game_developer).md" title="wikilink">Hit Maker</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Last_Rebellion" title="wikilink">Last Rebellion</a></em>[423]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hit_Maker_(video_game_developer)" title="wikilink">Hit Maker</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5128,7 +5128,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Legend_of_the_Guardians:_The_Owls_of_Ga&#39;Hoole_(video_game).md" title="wikilink">Legend of the Guardians: The Owls of Ga'Hoole (video game)</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Legend_of_the_Guardians:_The_Owls_of_Ga&#39;Hoole_(video_game)" title="wikilink">Legend of the Guardians: The Owls of Ga'Hoole (video game)</a></em></p></td>
 <td><p><a href="../Page/Krome_Studios.md" title="wikilink">Krome Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5139,8 +5139,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Legendary_(video_game).md" title="wikilink">Legendary</a></em>[424]</p></td>
-<td><p><a href="../Page/Spark_Unlimited.md" title="wikilink">Spark Unlimited</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Legendary_(video_game)" title="wikilink">Legendary</a></em>[424]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spark_Unlimited" title="wikilink">Spark Unlimited</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5150,8 +5150,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Legend_of_Spyro:_Dawn_of_the_Dragon.md" title="wikilink">The Legend of Spyro: Dawn of the Dragon</a></em>[425]</p></td>
-<td><p><a href="../Page/Étranges_Libellules.md" title="wikilink">Étranges Libellules</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Legend_of_Spyro:_Dawn_of_the_Dragon" title="wikilink">The Legend of Spyro: Dawn of the Dragon</a></em>[425]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Étranges_Libellules" title="wikilink">Étranges Libellules</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5161,8 +5161,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Legends_of_War:_Patton.md" title="wikilink">Legends of War: Patton</a></em></p></td>
-<td><p><a href="../Page/Enigma_Software_Productions.md" title="wikilink">Enigma</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Legends_of_War:_Patton" title="wikilink">Legends of War: Patton</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Enigma_Software_Productions" title="wikilink">Enigma</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5172,8 +5172,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lego_Batman:_The_Videogame.md" title="wikilink">Lego Batman: The Videogame</a></em>[426]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Batman:_The_Videogame" title="wikilink">Lego Batman: The Videogame</a></em>[426]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5183,8 +5183,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lego_Batman_2:_DC_Super_Heroes.md" title="wikilink">Lego Batman 2: DC Super Heroes</a></em>[427]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Batman_2:_DC_Super_Heroes" title="wikilink">Lego Batman 2: DC Super Heroes</a></em>[427]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5194,8 +5194,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lego_Harry_Potter:_Years_1–4.md" title="wikilink">Lego Harry Potter: Years 1–4</a></em>[428]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Harry_Potter:_Years_1–4" title="wikilink">Lego Harry Potter: Years 1–4</a></em>[428]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5205,8 +5205,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lego_Harry_Potter:_Years_5–7.md" title="wikilink">Lego Harry Potter: Years 5–7</a></em>[429]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Harry_Potter:_Years_5–7" title="wikilink">Lego Harry Potter: Years 5–7</a></em>[429]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5216,8 +5216,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lego_Indiana_Jones:_The_Original_Adventures.md" title="wikilink">Lego Indiana Jones: The Original Adventures</a></em>[430]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones:_The_Original_Adventures" title="wikilink">Lego Indiana Jones: The Original Adventures</a></em>[430]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5227,8 +5227,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lego_Indiana_Jones_2:_The_Adventure_Continues.md" title="wikilink">Lego Indiana Jones 2: The Adventure Continues</a></em>[431]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones_2:_The_Adventure_Continues" title="wikilink">Lego Indiana Jones 2: The Adventure Continues</a></em>[431]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5238,8 +5238,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Lego_The_Lord_of_the_Rings_(video_game).md" title="wikilink">LEGO Lord Of The Rings</a></p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Lego_The_Lord_of_the_Rings_(video_game)" title="wikilink">LEGO Lord Of The Rings</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5250,7 +5250,7 @@
 <tr class="even">
 <td><p><a href="../Page/乐高漫威超级英雄.md" title="wikilink">乐高漫威超级英雄</a></p></td>
 <td><p><em>Lego Marvel Super Heroes</em></p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5260,8 +5260,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lego_Pirates_of_the_Caribbean:_The_Video_Game.md" title="wikilink">Lego Pirates of the Caribbean: The Video Game</a></em>[432]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Pirates_of_the_Caribbean:_The_Video_Game" title="wikilink">Lego Pirates of the Caribbean: The Video Game</a></em>[432]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5271,30 +5271,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lego_Rock_Band.md" title="wikilink">Lego Rock Band</a></em>[433]</p></td>
-<td><p><a href="../Page/Harmonix.md" title="wikilink">Harmonix</a> / <a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
-<td></td>
-<td><p>未發行</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><em><a href="../Page/Lego_Star_Wars:_The_Complete_Saga.md" title="wikilink">Lego Star Wars: The Complete Saga</a></em>[434]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>''<a href="../Page/Lego_The_Hobbit_(video_game).md" title="wikilink">LEGO The Hobbit</a></p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Rock_Band" title="wikilink">Lego Rock Band</a></em>[433]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix" title="wikilink">Harmonix</a> / <a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5304,8 +5282,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lego_Star_Wars_III:_The_Clone_Wars.md" title="wikilink">Lego Star Wars III: The Clone Wars</a></em>[435]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars:_The_Complete_Saga" title="wikilink">Lego Star Wars: The Complete Saga</a></em>[434]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5315,8 +5293,30 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Leisure_Suit_Larry:_Box_Office_Bust.md" title="wikilink">Leisure Suit Larry: Box Office Bust</a></em>[436]</p></td>
-<td><p><a href="../Page/Team17.md" title="wikilink">Team17 Software</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Lego_The_Hobbit_(video_game)" title="wikilink">LEGO The Hobbit</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
+<td></td>
+<td><p>未發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars" title="wikilink">Lego Star Wars III: The Clone Wars</a></em>[435]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust" title="wikilink">Leisure Suit Larry: Box Office Bust</a></em>[436]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team17" title="wikilink">Team17 Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5327,7 +5327,7 @@
 <tr class="odd">
 <td><p><a href="../Page/雷霆归来_最终幻想XIII.md" title="wikilink">雷霆归来 最终幻想XIII</a></p></td>
 <td><p><em>Lightning Returns: Final Fantasy XIII</em>[437]</p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5337,7 +5337,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Little_League_Baseball_World_Series_2010.md" title="wikilink">Little League Baseball World Series 2010</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Little_League_Baseball_World_Series_2010" title="wikilink">Little League Baseball World Series 2010</a></em></p></td>
 <td><p><a href="../Page/Now_Production.md" title="wikilink">Now Production</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5349,7 +5349,7 @@
 <tr class="odd">
 <td><p>小小大星球</p></td>
 <td><p><em>LittleBigPlanet</em>[438]</p></td>
-<td><p><a href="../Page/Media_Molecule.md" title="wikilink">Media Molecule</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Media_Molecule" title="wikilink">Media Molecule</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5360,7 +5360,7 @@
 <tr class="even">
 <td><p>小小大星球2</p></td>
 <td><p><em>LittleBigPlanet 2</em>[439]</p></td>
-<td><p><a href="../Page/Media_Molecule.md" title="wikilink">Media Molecule</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Media_Molecule" title="wikilink">Media Molecule</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5371,7 +5371,7 @@
 <tr class="odd">
 <td><p>小小大星球3</p></td>
 <td><p><em>LittleBigPlanet 3</em></p></td>
-<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5381,7 +5381,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/LittleBigPlanet_Karting.md" title="wikilink">LittleBigPlanet Karting</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/LittleBigPlanet_Karting" title="wikilink">LittleBigPlanet Karting</a></em></p></td>
 <td><p><a href="../Page/United_Front_Games.md" title="wikilink">United Front Games</a></p></td>
 <td></td>
 <td></td>
@@ -5393,7 +5393,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="../Page/Little_Busters!.md" title="wikilink">Little Busters! Converted Edition</a></em></p></td>
-<td><p><a href="../Page/Key_(company).md" title="wikilink">Key</a> / <a href="../Page/Prototype_(company).md" title="wikilink">Prototype</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(company)" title="wikilink">Key</a> / <a href="https://zh.wikipedia.org/wiki/Prototype_(company)" title="wikilink">Prototype</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5403,8 +5403,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lollipop_Chainsaw.md" title="wikilink">Lollipop Chainsaw</a></em></p></td>
-<td><p><a href="../Page/Grasshopper_Manufacture.md" title="wikilink">Grasshopper Manufacture</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lollipop_Chainsaw" title="wikilink">Lollipop Chainsaw</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5414,8 +5414,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/London_2012_(video_game).md" title="wikilink">London 2012</a></em>[440]</p></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/London_2012_(video_game)" title="wikilink">London 2012</a></em>[440]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5425,8 +5425,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Lord_of_the_Rings:_Aragorn&#39;s_Quest.md" title="wikilink">The Lord of the Rings: Aragorn's Quest</a></em>[441]</p></td>
-<td><p><a href="../Page/TT_Fusion.md" title="wikilink">TT Fusion</a> / <a href="../Page/Headstrong_Games.md" title="wikilink">Headstrong Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Lord_of_the_Rings:_Aragorn&#39;s_Quest" title="wikilink">The Lord of the Rings: Aragorn's Quest</a></em>[441]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TT_Fusion" title="wikilink">TT Fusion</a> / <a href="https://zh.wikipedia.org/wiki/Headstrong_Games" title="wikilink">Headstrong Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5436,7 +5436,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Lord_of_the_Rings:_Conquest.md" title="wikilink">The Lord of the Rings: Conquest</a></em>[442]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Lord_of_the_Rings:_Conquest" title="wikilink">The Lord of the Rings: Conquest</a></em>[442]</p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5447,8 +5447,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Lord_of_the_Rings:_War_in_the_North.md" title="wikilink">The Lord of the Rings: War in the North</a></em>[443]</p></td>
-<td><p><a href="../Page/Snowblind_Studios.md" title="wikilink">Snowblind Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Lord_of_the_Rings:_War_in_the_North" title="wikilink">The Lord of the Rings: War in the North</a></em>[443]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Snowblind_Studios" title="wikilink">Snowblind Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5458,8 +5458,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lost_Planet:_Extreme_Condition.md" title="wikilink">Lost Planet: Extreme Condition</a></em>[444]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/K2_LLC.md" title="wikilink">K2 LLC</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lost_Planet:_Extreme_Condition" title="wikilink">Lost Planet: Extreme Condition</a></em>[444]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="https://zh.wikipedia.org/wiki/K2_LLC" title="wikilink">K2 LLC</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5469,8 +5469,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lost_Planet_2.md" title="wikilink">Lost Planet 2</a></em>[445]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lost_Planet_2" title="wikilink">Lost Planet 2</a></em>[445]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5480,8 +5480,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lost_Planet_3.md" title="wikilink">Lost Planet 3</a></em>[446]</p></td>
-<td><p><a href="../Page/Spark_Unlimited.md" title="wikilink">Spark Unlimited</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lost_Planet_3" title="wikilink">Lost Planet 3</a></em>[446]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spark_Unlimited" title="wikilink">Spark Unlimited</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5491,8 +5491,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Lost:_Via_Domus.md" title="wikilink">Lost: Via Domus</a></em>[447]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lost:_Via_Domus" title="wikilink">Lost: Via Domus</a></em>[447]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5502,8 +5502,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Lucha_Libre_AAA_2010:_Héroes_del_Ring.md" title="wikilink">Lucha Libre AAA 2010: Héroes del Ring</a></em>[448]</p></td>
-<td><p><a href="../Page/Immersion_Software_&amp;_Graphics.md" title="wikilink">Immersion Software &amp; Graphics</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Lucha_Libre_AAA_2010:_Héroes_del_Ring" title="wikilink">Lucha Libre AAA 2010: Héroes del Ring</a></em>[448]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Immersion_Software_&amp;_Graphics" title="wikilink">Immersion Software &amp; Graphics</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5513,8 +5513,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="M"></span><em><a href="../Page/Madagascar:_Escape_2_Africa_(video_game).md" title="wikilink">Madagascar: Escape 2 Africa</a></em>[449]</p></td>
-<td><p><a href="../Page/Toys_For_Bob.md" title="wikilink">Toys For Bob</a></p></td>
+<td><p><span id="M"></span><em><a href="https://zh.wikipedia.org/wiki/Madagascar:_Escape_2_Africa_(video_game)" title="wikilink">Madagascar: Escape 2 Africa</a></em>[449]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Toys_For_Bob" title="wikilink">Toys For Bob</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5524,8 +5524,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Madagascar_Kartz.md" title="wikilink">Madagascar Kartz</a></em>[450]</p></td>
-<td><p><a href="../Page/Sidhe.md" title="wikilink">Sidhe</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madagascar_Kartz" title="wikilink">Madagascar Kartz</a></em>[450]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sidhe" title="wikilink">Sidhe</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5535,7 +5535,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_07.md" title="wikilink">Madden NFL 07</a></em>[451]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_07" title="wikilink">Madden NFL 07</a></em>[451]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td></td>
@@ -5546,7 +5546,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_08.md" title="wikilink">Madden NFL 08</a></em>[452]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_08" title="wikilink">Madden NFL 08</a></em>[452]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5557,7 +5557,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_09.md" title="wikilink">Madden NFL 09</a></em>[453]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_09" title="wikilink">Madden NFL 09</a></em>[453]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td></td>
@@ -5568,7 +5568,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_10.md" title="wikilink">Madden NFL 10</a></em>[454]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_10" title="wikilink">Madden NFL 10</a></em>[454]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5579,7 +5579,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_11.md" title="wikilink">Madden NFL 11</a></em>[455]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_11" title="wikilink">Madden NFL 11</a></em>[455]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5590,7 +5590,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_12.md" title="wikilink">Madden NFL 12</a></em>[456]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_12" title="wikilink">Madden NFL 12</a></em>[456]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5601,7 +5601,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_13.md" title="wikilink">Madden NFL 13</a></em>[457]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_13" title="wikilink">Madden NFL 13</a></em>[457]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5612,7 +5612,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Madden_NFL_25.md" title="wikilink">Madden NFL 25</a></em>[458]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Madden_NFL_25" title="wikilink">Madden NFL 25</a></em>[458]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5634,8 +5634,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MAG_(video_game).md" title="wikilink">MAG</a></em>[460]</p></td>
-<td><p><a href="../Page/Zipper_Interactive.md" title="wikilink">Zipper Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MAG_(video_game)" title="wikilink">MAG</a></em>[460]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zipper_Interactive" title="wikilink">Zipper Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5645,8 +5645,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Magus_(video_game).md" title="wikilink">Magus</a></em>[461]</p></td>
-<td><p><a href="../Page/Aksys_Games.md" title="wikilink">Aksys Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Magus_(video_game)" title="wikilink">Magus</a></em>[461]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aksys_Games" title="wikilink">Aksys Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5657,7 +5657,7 @@
 <tr class="odd">
 <td><p>麻將格鬥俱樂部 全國對戰版</p></td>
 <td><p>Mahjong Kakutou Club[462]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5667,8 +5667,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Mahjong_video_game.md" title="wikilink">Mahjong Taikai IV</a></em>[463]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mahjong_video_game" title="wikilink">Mahjong Taikai IV</a></em>[463]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5677,9 +5677,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/魔人與失落的王國.md" title="wikilink">魔人與失落的王國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔人與失落的王國" title="wikilink">魔人與失落的王國</a></p></td>
 <td><p><em>Majin and the Forsaken Kingdom</em>[464]</p></td>
-<td><p><a href="../Page/Game_Republic.md" title="wikilink">Game Republic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5690,7 +5690,7 @@
 <tr class="even">
 <td><p>美國職棒大聯盟2K7</p></td>
 <td><p><em>Major League Baseball 2K7</em>[465]</p></td>
-<td><p><a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5701,7 +5701,7 @@
 <tr class="odd">
 <td><p>美國職棒大聯盟2K8</p></td>
 <td><p><em>Major League Baseball 2K8</em>[466]</p></td>
-<td><p><a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5755,8 +5755,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Makai_Wars.md" title="wikilink">Makai Wars</a></em>[471]</p></td>
-<td><p><a href="../Page/Nippon_Ichi_Software.md" title="wikilink">Nippon Ichi Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Makai_Wars" title="wikilink">Makai Wars</a></em>[471]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi_Software" title="wikilink">Nippon Ichi Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5766,8 +5766,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Man_vs._Wild_(video_game).md" title="wikilink">Man vs. Wild</a></em>[472]</p></td>
-<td><p><a href="../Page/Scientifically_Proven.md" title="wikilink">Scientifically Proven</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Man_vs._Wild_(video_game)" title="wikilink">Man vs. Wild</a></em>[472]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Scientifically_Proven" title="wikilink">Scientifically Proven</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5777,8 +5777,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Mars_(video_game).md" title="wikilink">Mars</a></em>[473]</p></td>
-<td><p><a href="../Page/Spiders_(video_game_developer).md" title="wikilink">Spiders</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mars_(video_game)" title="wikilink">Mars</a></em>[473]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spiders_(video_game_developer)" title="wikilink">Spiders</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -5788,8 +5788,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Marvel_Super_Hero_Squad:_Comic_Combat.md" title="wikilink">Marvel Super Hero Squad: Comic Combat</a></p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Marvel_Super_Hero_Squad:_Comic_Combat" title="wikilink">Marvel Super Hero Squad: Comic Combat</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5799,8 +5799,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="../Page/Marvel_Super_Hero_Squad:_The_Infinity_Gauntlet.md" title="wikilink">Marvel Super Hero Squad: The Infinity Gauntlet</a></p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Marvel_Super_Hero_Squad:_The_Infinity_Gauntlet" title="wikilink">Marvel Super Hero Squad: The Infinity Gauntlet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5821,7 +5821,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Marvel:_Ultimate_Alliance_2.md" title="wikilink">Marvel: Ultimate Alliance 2</a></em>[475]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Marvel:_Ultimate_Alliance_2" title="wikilink">Marvel: Ultimate Alliance 2</a></em>[475]</p></td>
 <td><p><a href="../Page/Vicarious_Visions.md" title="wikilink">Vicarious Visions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5832,8 +5832,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Marvel_vs._Capcom_3:_Fate_of_Two_Worlds.md" title="wikilink">Marvel vs. Capcom 3: Fate of Two Worlds</a></em>[476]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Marvel_vs._Capcom_3:_Fate_of_Two_Worlds" title="wikilink">Marvel vs. Capcom 3: Fate of Two Worlds</a></em>[476]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5844,7 +5844,7 @@
 <tr class="even">
 <td><p><a href="../Page/质量效应2.md" title="wikilink">质量效应2</a></p></td>
 <td><p><em>Mass Effect 2</em>[477]</p></td>
-<td><p><a href="../Page/Bioware.md" title="wikilink">Bioware</a> / <a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bioware" title="wikilink">Bioware</a> / <a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5855,7 +5855,7 @@
 <tr class="odd">
 <td><p><a href="../Page/质量效应3.md" title="wikilink">质量效应3</a></p></td>
 <td><p><em>Mass Effect 3</em>[478]</p></td>
-<td><p><a href="../Page/Bioware.md" title="wikilink">Bioware</a> / <a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bioware" title="wikilink">Bioware</a> / <a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5865,8 +5865,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Mass_Effect_Trilogy.md" title="wikilink">Mass Effect Trilogy</a></em>[479]</p></td>
-<td><p><a href="../Page/Bioware.md" title="wikilink">Bioware</a> / <a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mass_Effect_Trilogy" title="wikilink">Mass Effect Trilogy</a></em>[479]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bioware" title="wikilink">Bioware</a> / <a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5888,7 +5888,7 @@
 <tr class="even">
 <td><p><a href="../Page/榮譽勳章_(2010年遊戲).md" title="wikilink">榮譽勳章</a></p></td>
 <td><p><em>Medal of Honor</em>[481]</p></td>
-<td><p><a href="../Page/EA_Los_Angeles.md" title="wikilink">EA Los Angeles</a> / <a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Los_Angeles" title="wikilink">EA Los Angeles</a> / <a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5899,7 +5899,7 @@
 <tr class="odd">
 <td><p><a href="../Page/荣誉勋章：空降神兵.md" title="wikilink">荣誉勋章：空降神兵</a></p></td>
 <td><p><em>Medal of Honor: Airborne</em>[482]</p></td>
-<td><p><a href="../Page/EA_Los_Angeles.md" title="wikilink">EA Los Angeles</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Los_Angeles" title="wikilink">EA Los Angeles</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5908,9 +5908,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/榮譽勳章：鐵血悍將.md" title="wikilink">榮譽勳章：鐵血悍將</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將" title="wikilink">榮譽勳章：鐵血悍將</a></p></td>
 <td><p><em>Medal of Honor: Warfighter</em>[483]</p></td>
-<td><p><a href="../Page/EA_Los_Angeles.md" title="wikilink">EA Los Angeles</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Los_Angeles" title="wikilink">EA Los Angeles</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5920,8 +5920,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Medieval_Moves:_Deadmund&#39;s_Quest.md" title="wikilink">Medieval Moves: Deadmund's Quest</a></p></td>
-<td><p><a href="../Page/Zindagi_Games.md" title="wikilink">Zindagi Games</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Medieval_Moves:_Deadmund&#39;s_Quest" title="wikilink">Medieval Moves: Deadmund's Quest</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zindagi_Games" title="wikilink">Zindagi Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -5954,7 +5954,7 @@
 <tr class="even">
 <td><p><a href="../Page/潛龍諜影Online.md" title="wikilink">潛龍諜影Online</a></p></td>
 <td><p><em>Metal Gear Online</em>[486]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -5965,7 +5965,7 @@
 <tr class="odd">
 <td><p><a href="../Page/潛龍諜影崛起_再復仇.md" title="wikilink">潛龍諜影崛起 再復仇</a></p></td>
 <td><p><em>Metal Gear Rising: Revengeance</em>[487]</p></td>
-<td><p><a href="../Page/Platinum_Games.md" title="wikilink">Platinum Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Platinum_Games" title="wikilink">Platinum Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5975,8 +5975,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Metal_Gear_Solid_HD_Collection.md" title="wikilink">Metal Gear Solid HD Collection</a></em>[488]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Metal_Gear_Solid_HD_Collection" title="wikilink">Metal Gear Solid HD Collection</a></em>[488]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5987,7 +5987,7 @@
 <tr class="odd">
 <td><p><a href="../Page/潛龍諜影4_愛國者之槍.md" title="wikilink">潛龍諜影4 愛國者之槍</a></p></td>
 <td><p><em>Metal Gear Solid 4: Guns of the Patriots</em>[489]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5998,7 +5998,7 @@
 <tr class="even">
 <td><p><a href="../Page/潛龍諜影V_原爆點.md" title="wikilink">潛龍諜影V 原爆點</a></p></td>
 <td><p><em>Metal Gear Solid V: Ground Zeroes</em>[490]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6009,7 +6009,7 @@
 <tr class="odd">
 <td><p><a href="../Page/潛龍諜影V_幻痛.md" title="wikilink">潛龍諜影V 幻痛</a></p></td>
 <td><p><em>Metal Gear Solid V: The Phantom Pain</em>[491]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6030,8 +6030,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Men_in_Black:_Alien_Crisis.md" title="wikilink">Men in Black: Alien Crisis</a></p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Men_in_Black:_Alien_Crisis" title="wikilink">Men in Black: Alien Crisis</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6041,8 +6041,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Michael_Jackson:_The_Experience.md" title="wikilink">Michael Jackson: The Experience</a></em>[493]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Michael_Jackson:_The_Experience" title="wikilink">Michael Jackson: The Experience</a></em>[493]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6052,8 +6052,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Midnight_Club:_Los_Angeles.md" title="wikilink">Midnight Club: Los Angeles</a></em>[494]</p></td>
-<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club:_Los_Angeles" title="wikilink">Midnight Club: Los Angeles</a></em>[494]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6063,8 +6063,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Mindjack.md" title="wikilink">Mindjack</a></em>[495]</p></td>
-<td><p><a href="../Page/feelplus.md" title="wikilink">feelplus</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mindjack" title="wikilink">Mindjack</a></em>[495]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feelplus" title="wikilink">feelplus</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6074,7 +6074,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Mini_Ninjas.md" title="wikilink">Mini Ninjas</a></em>[496]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mini_Ninjas" title="wikilink">Mini Ninjas</a></em>[496]</p></td>
 <td><p><a href="../Page/IO_Interactive.md" title="wikilink">IO Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6086,7 +6086,7 @@
 <tr class="even">
 <td><p><a href="../Page/镜之边缘.md" title="wikilink">镜之边缘</a></p></td>
 <td><p><em>Mirror's Edge</em>[497]</p></td>
-<td><p><a href="../Page/EA_Digital_Illusions_CE.md" title="wikilink">EA Digital Illusions CE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6096,8 +6096,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Mist_of_Chaos.md" title="wikilink">Mist of Chaos</a></em>[498]</p></td>
-<td><p><a href="../Page/Idea_Factory.md" title="wikilink">Idea Factory</a> / <a href="../Page/Neverland_Co..md" title="wikilink">Neverland Co.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mist_of_Chaos" title="wikilink">Mist of Chaos</a></em>[498]</p></td>
+<td><p><a href="../Page/Idea_Factory.md" title="wikilink">Idea Factory</a> / <a href="https://zh.wikipedia.org/wiki/Neverland_Co." title="wikilink">Neverland Co.</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6107,8 +6107,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MLB_07:_The_Show.md" title="wikilink">MLB 07: The Show</a></em>[499]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_07:_The_Show" title="wikilink">MLB 07: The Show</a></em>[499]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6118,8 +6118,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MLB_08:_The_Show.md" title="wikilink">MLB 08: The Show</a></em>[500]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_08:_The_Show" title="wikilink">MLB 08: The Show</a></em>[500]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6129,8 +6129,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MLB_09:_The_Show.md" title="wikilink">MLB 09: The Show</a></em>[501]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_09:_The_Show" title="wikilink">MLB 09: The Show</a></em>[501]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6140,8 +6140,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MLB_10:_The_Show.md" title="wikilink">MLB 10: The Show</a></em>[503]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_10:_The_Show" title="wikilink">MLB 10: The Show</a></em>[503]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6151,8 +6151,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MLB_11:_The_Show.md" title="wikilink">MLB 11: The Show</a></em>[505]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_11:_The_Show" title="wikilink">MLB 11: The Show</a></em>[505]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6162,8 +6162,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MLB_12:_The_Show.md" title="wikilink">MLB 12: The Show</a></em>[506]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_12:_The_Show" title="wikilink">MLB 12: The Show</a></em>[506]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6173,8 +6173,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MLB_13:_The_Show.md" title="wikilink">MLB 13: The Show</a></em>[507]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_13:_The_Show" title="wikilink">MLB 13: The Show</a></em>[507]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6184,8 +6184,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MLB_Front_Office_Manager.md" title="wikilink">MLB Front Office Manager</a></em>[508]</p></td>
-<td><p><a href="../Page/Blue_Castle_Games.md" title="wikilink">Blue Castle Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MLB_Front_Office_Manager" title="wikilink">MLB Front Office Manager</a></em>[508]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Castle_Games" title="wikilink">Blue Castle Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6196,7 +6196,7 @@
 <tr class="even">
 <td><p>机动战士高达：交叉火力</p></td>
 <td><p><em>Mobile Suit Gundam: Crossfire</em>[509]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6205,9 +6205,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/机动战士GUNDAM战记.md" title="wikilink">机动战士高达战记</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/机动战士GUNDAM战记" title="wikilink">机动战士高达战记</a></p></td>
 <td><p><em>Mobile Suit Gundam Battlefield Record U.C. 0081</em>[510]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6216,9 +6216,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/机动战士GUNDAM_SIDE_STORIES.md" title="wikilink">机动战士高达 SIDE STORIES</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES" title="wikilink">机动战士高达 SIDE STORIES</a></p></td>
 <td><p><em>Mobile Suit Gundam Side Stories</em></p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td><p>未发行</p></td>
@@ -6227,9 +6227,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/机动战士GUNDAM：Target_In_Sight.md" title="wikilink">机动战士高达：锁定目标</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/机动战士GUNDAM：Target_In_Sight" title="wikilink">机动战士高达：锁定目标</a></p></td>
 <td><p><em>Mobile Suit Gundam: Target In Sight</em></p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td><p>未发行</p></td>
@@ -6238,9 +6238,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/机动战士GUNDAM_UC_(游戏).md" title="wikilink">机动战士高达 UC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC_(游戏)" title="wikilink">机动战士高达 UC</a></p></td>
 <td><p><em>Mobile Suit Gundam Unicorn</em>[511]</p></td>
-<td><p><a href="../Page/From_Software.md" title="wikilink">From Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/From_Software" title="wikilink">From Software</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6250,8 +6250,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/ModNation_Racers.md" title="wikilink">ModNation Racers</a></em>[512]</p></td>
-<td><p><a href="../Page/United_Front_Games.md" title="wikilink">United Front Games</a> / <a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/ModNation_Racers" title="wikilink">ModNation Racers</a></em>[512]</p></td>
+<td><p><a href="../Page/United_Front_Games.md" title="wikilink">United Front Games</a> / <a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6261,8 +6261,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Monopoly_(video_game).md" title="wikilink">Monopoly</a></em>[513]</p></td>
-<td><p><a href="../Page/Electronics_Arts.md" title="wikilink">EA Casual Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Monopoly_(video_game)" title="wikilink">Monopoly</a></em>[513]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Electronics_Arts" title="wikilink">EA Casual Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6272,8 +6272,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Monster_Jam:_Path_of_Destruction.md" title="wikilink">Monster Jam: Path of Destruction</a></p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Monster_Jam:_Path_of_Destruction" title="wikilink">Monster Jam: Path of Destruction</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6283,8 +6283,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Monster_Madness:_Grave_Danger.md" title="wikilink">Monster Madness: Grave Danger</a></em>[514]</p></td>
-<td><p><a href="../Page/Psyonix.md" title="wikilink">Psyonix Studios</a> / <a href="../Page/Immersion_Games.md" title="wikilink">Immersion Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Monster_Madness:_Grave_Danger" title="wikilink">Monster Madness: Grave Danger</a></em>[514]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Psyonix" title="wikilink">Psyonix Studios</a> / <a href="https://zh.wikipedia.org/wiki/Immersion_Games" title="wikilink">Immersion Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6294,8 +6294,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Monsters_vs._Aliens_(video_game).md" title="wikilink">Monsters vs. Aliens</a></em>[515]</p></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a> / <a href="../Page/Amaze_Entertainment.md" title="wikilink">Amaze Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Monsters_vs._Aliens_(video_game)" title="wikilink">Monsters vs. Aliens</a></em>[515]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a> / <a href="https://zh.wikipedia.org/wiki/Amaze_Entertainment" title="wikilink">Amaze Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6305,8 +6305,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Mortal_Kombat_(2011_video_game).md" title="wikilink">Mortal Kombat</a></em>[516]</p></td>
-<td><p><a href="../Page/NetherRealm_Studios.md" title="wikilink">NetherRealm Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mortal_Kombat_(2011_video_game)" title="wikilink">Mortal Kombat</a></em>[516]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NetherRealm_Studios" title="wikilink">NetherRealm Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6316,8 +6316,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Mortal_Kombat_vs._DC_Universe.md" title="wikilink">Mortal Kombat vs. DC Universe</a></em>[517]</p></td>
-<td><p><a href="../Page/Midway_Games.md" title="wikilink">Midway Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Mortal_Kombat_vs._DC_Universe" title="wikilink">Mortal Kombat vs. DC Universe</a></em>[517]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Games" title="wikilink">Midway Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6328,7 +6328,7 @@
 <tr class="even">
 <td><p><a href="../Page/真人快打X.md" title="wikilink">真人快打X</a></p></td>
 <td><p><em>Mortal Kombat X</em></p></td>
-<td><p><a href="../Page/NetherRealm_Studios.md" title="wikilink">NetherRealm Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NetherRealm_Studios" title="wikilink">NetherRealm Studios</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6338,8 +6338,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/MotionSports_Adrenaline.md" title="wikilink">MotionSports Adrenaline</a></p></td>
-<td><p><a href="../Page/Ubisoft_Milan.md" title="wikilink">Ubisoft Milan</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/MotionSports_Adrenaline" title="wikilink">MotionSports Adrenaline</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Milan" title="wikilink">Ubisoft Milan</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6349,8 +6349,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MotoGP_&#39;08.md" title="wikilink">MotoGP '08</a></em>[518]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MotoGP_&#39;08" title="wikilink">MotoGP '08</a></em>[518]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6360,7 +6360,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MotoGP_09/10.md" title="wikilink">MotoGP 09/10</a></em>[519]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MotoGP_09/10" title="wikilink">MotoGP 09/10</a></em>[519]</p></td>
 <td><p>Monumental Games</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6371,8 +6371,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MotoGP_14.md" title="wikilink">MotoGP 14</a></em>[520][521]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone S.r.l.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MotoGP_14" title="wikilink">MotoGP 14</a></em>[520][521]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone S.r.l.</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6383,7 +6383,7 @@
 <tr class="odd">
 <td><p>摩托風暴</p></td>
 <td><p><em>MotorStorm</em>[522]</p></td>
-<td><p><a href="../Page/Evolution_Studios.md" title="wikilink">Evolution Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Evolution_Studios" title="wikilink">Evolution Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6393,8 +6393,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MotorStorm:_Apocalypse.md" title="wikilink">MotorStorm: Apocalypse</a></em>[523]</p></td>
-<td><p><a href="../Page/Evolution_Studios.md" title="wikilink">Evolution Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MotorStorm:_Apocalypse" title="wikilink">MotorStorm: Apocalypse</a></em>[523]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Evolution_Studios" title="wikilink">Evolution Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6404,8 +6404,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MotorStorm:_Pacific_Rift.md" title="wikilink">MotorStorm: Pacific Rift</a></em>[524]</p></td>
-<td><p><a href="../Page/Evolution_Studios.md" title="wikilink">Evolution Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MotorStorm:_Pacific_Rift" title="wikilink">MotorStorm: Pacific Rift</a></em>[524]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Evolution_Studios" title="wikilink">Evolution Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6415,8 +6415,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="../Page/Move_Mind_Benders.md" title="wikilink">Move Mind Benders</a></p></td>
-<td><p><a href="../Page/XDEV.md" title="wikilink">XDEV</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Move_Mind_Benders" title="wikilink">Move Mind Benders</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/XDEV" title="wikilink">XDEV</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6426,7 +6426,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Mugen_Souls.md" title="wikilink">Mugen Souls</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Mugen_Souls" title="wikilink">Mugen Souls</a></p></td>
 <td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -6437,7 +6437,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="../Page/Mugen_Souls_Z.md" title="wikilink">Mugen Souls Z</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Mugen_Souls_Z" title="wikilink">Mugen Souls Z</a></p></td>
 <td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -6448,8 +6448,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Murdered:_Soul_Suspect.md" title="wikilink">Murdered: Soul Suspect</a></em></p></td>
-<td><p><a href="../Page/Airtight_Games.md" title="wikilink">Airtight Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Murdered:_Soul_Suspect" title="wikilink">Murdered: Soul Suspect</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Airtight_Games" title="wikilink">Airtight Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6459,8 +6459,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MX_vs._ATV:_Untamed.md" title="wikilink">MX vs. ATV: Untamed</a></em>[525]</p></td>
-<td><p><a href="../Page/Rainbow_Studios.md" title="wikilink">Rainbow Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MX_vs._ATV:_Untamed" title="wikilink">MX vs. ATV: Untamed</a></em>[525]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Studios" title="wikilink">Rainbow Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6470,8 +6470,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/MX_vs._ATV_Alive.md" title="wikilink">MX vs. ATV Alive</a></em>[526]</p></td>
-<td><p><a href="../Page/Rainbow_Studios.md" title="wikilink">Rainbow Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MX_vs._ATV_Alive" title="wikilink">MX vs. ATV Alive</a></em>[526]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Studios" title="wikilink">Rainbow Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6481,8 +6481,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MX_vs._ATV_Reflex.md" title="wikilink">MX vs. ATV Reflex</a></em>[527]</p></td>
-<td><p><a href="../Page/Rainbow_Studios.md" title="wikilink">Rainbow Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MX_vs._ATV_Reflex" title="wikilink">MX vs. ATV Reflex</a></em>[527]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Studios" title="wikilink">Rainbow Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6493,7 +6493,7 @@
 <tr class="odd">
 <td><p>我的暑假3 -北國篇- 小男孩的大草原</p></td>
 <td><p><em>My Summer Vacation 3</em>[528]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6503,8 +6503,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/MySims_SkyHeroes.md" title="wikilink">MySims SkyHeroes</a></em>[529]</p></td>
-<td><p><a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/MySims_SkyHeroes" title="wikilink">MySims SkyHeroes</a></em>[529]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6514,8 +6514,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="N"></span><em><a href="../Page/Naruto:_Ultimate_Ninja_Storm.md" title="wikilink">Naruto: Ultimate Ninja Storm</a></em>[530]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><span id="N"></span><em><a href="https://zh.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm" title="wikilink">Naruto: Ultimate Ninja Storm</a></em>[530]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6525,8 +6525,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Naruto_Shippuden:_Ultimate_Ninja_Storm_2.md" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm 2</a></em>[531]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Naruto_Shippuden:_Ultimate_Ninja_Storm_2" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm 2</a></em>[531]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6536,8 +6536,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Naruto_Shippuden:_Ultimate_Ninja_Storm_3.md" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm 3</a></em>[532]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Naruto_Shippuden:_Ultimate_Ninja_Storm_3" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm 3</a></em>[532]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6547,8 +6547,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Naruto_Shippuden:_Ultimate_Ninja_Storm_Generations.md" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm Generations</a></em>[533]</p></td>
-<td><p><a href="../Page/CyberConnect2.md" title="wikilink">CyberConnect2</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Naruto_Shippuden:_Ultimate_Ninja_Storm_Generations" title="wikilink">Naruto Shippuden: Ultimate Ninja Storm Generations</a></em>[533]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CyberConnect2" title="wikilink">CyberConnect2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6558,7 +6558,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NASCAR_08.md" title="wikilink">NASCAR 08</a></em>[534]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NASCAR_08" title="wikilink">NASCAR 08</a></em>[534]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6569,7 +6569,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NASCAR_09.md" title="wikilink">NASCAR 09</a></em>[535]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NASCAR_09" title="wikilink">NASCAR 09</a></em>[535]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6580,8 +6580,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NASCAR_2011:_The_Game.md" title="wikilink">NASCAR 2011: The Game</a></em>[536]</p></td>
-<td><p><a href="../Page/Eutechnyx.md" title="wikilink">Eutechnyx</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NASCAR_2011:_The_Game" title="wikilink">NASCAR 2011: The Game</a></em>[536]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6591,8 +6591,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Naughty_Bear.md" title="wikilink">Naughty Bear</a></em>[537]</p></td>
-<td><p><a href="../Page/Artificial_Mind_and_Movement.md" title="wikilink">Artificial Mind and Movement</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Naughty_Bear" title="wikilink">Naughty Bear</a></em>[537]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Artificial_Mind_and_Movement" title="wikilink">Artificial Mind and Movement</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6602,8 +6602,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NBA_07.md" title="wikilink">NBA 07</a></em>[538]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_07" title="wikilink">NBA 07</a></em>[538]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6613,8 +6613,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NBA_08.md" title="wikilink">NBA 08</a></em>[539]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_08" title="wikilink">NBA 08</a></em>[539]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6624,8 +6624,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NBA_&#39;09:_The_Inside.md" title="wikilink">NBA '09: The Inside</a></em>[540]</p></td>
-<td><p><a href="../Page/SCE_San_Diego_Studio.md" title="wikilink">SCE San Diego Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_&#39;09:_The_Inside" title="wikilink">NBA '09: The Inside</a></em>[540]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_San_Diego_Studio" title="wikilink">SCE San Diego Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6634,9 +6634,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NBA_2K7.md" title="wikilink">NBA 2K7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K7" title="wikilink">NBA 2K7</a></p></td>
 <td><p><em>NBA 2K7</em>[541]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6645,9 +6645,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NBA_2K8.md" title="wikilink">NBA 2K8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K8" title="wikilink">NBA 2K8</a></p></td>
 <td><p><em>NBA 2K8</em>[542]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6656,9 +6656,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NBA_2K9.md" title="wikilink">NBA 2K9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K9" title="wikilink">NBA 2K9</a></p></td>
 <td><p><em>NBA 2K9</em>[543]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6667,9 +6667,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NBA_2K10.md" title="wikilink">NBA 2K10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K10" title="wikilink">NBA 2K10</a></p></td>
 <td><p><em>NBA 2K10</em>[544]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6678,9 +6678,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NBA_2K11.md" title="wikilink">NBA 2K11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K11" title="wikilink">NBA 2K11</a></p></td>
 <td><p><em>NBA 2K11</em>[545]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6689,9 +6689,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NBA_2K12.md" title="wikilink">NBA 2K12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K12" title="wikilink">NBA 2K12</a></p></td>
 <td><p><em>NBA 2K12</em>[546]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6712,8 +6712,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NBA_Ballers:_Chosen_One.md" title="wikilink">NBA Ballers: Chosen One</a></em>[548]</p></td>
-<td><p><a href="../Page/Midway_Games.md" title="wikilink">Midway Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_Ballers:_Chosen_One" title="wikilink">NBA Ballers: Chosen One</a></em>[548]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Games" title="wikilink">Midway Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6723,8 +6723,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NBA_Jam.md" title="wikilink">NBA Jam</a></em></p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_Jam" title="wikilink">NBA Jam</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -6733,9 +6733,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/勁爆美國職業籃球08.md" title="wikilink">勁爆美國職業籃球08</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勁爆美國職業籃球08" title="wikilink">勁爆美國職業籃球08</a></p></td>
 <td><p><em>NBA Live 08</em>[549]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6746,7 +6746,7 @@
 <tr class="even">
 <td><p><a href="../Page/勁爆美國職籃09.md" title="wikilink">勁爆美國職籃09</a></p></td>
 <td><p><em>NBA Live 09</em>[550]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6757,7 +6757,7 @@
 <tr class="odd">
 <td><p><a href="../Page/勁爆美國職籃10.md" title="wikilink">勁爆美國職籃10</a></p></td>
 <td><p><em>NBA Live 10</em>[551]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6768,7 +6768,7 @@
 <tr class="even">
 <td><p>NBA 街頭鬥牛：主場傳說</p></td>
 <td><p><em>NBA Street Homecourt</em>[552]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6778,8 +6778,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Basketball_09.md" title="wikilink">NCAA Basketball 09</a></em>[553]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Basketball_09" title="wikilink">NCAA Basketball 09</a></em>[553]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6789,8 +6789,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Basketball_10.md" title="wikilink">NCAA Basketball 10</a></em>[554]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Basketball_10" title="wikilink">NCAA Basketball 10</a></em>[554]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6800,29 +6800,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Football_08.md" title="wikilink">NCAA Football 08</a></em>[555]</p></td>
-<td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td></td>
-<td><p>未發行</p></td>
-<td><p>未發行</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p><em><a href="../Page/NCAA_Football_09.md" title="wikilink">NCAA Football 09</a></em>[556]</p></td>
-<td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td></td>
-<td><p>未發行</p></td>
-<td><p>未發行</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p><em><a href="../Page/NCAA_Football_10.md" title="wikilink">NCAA Football 10</a></em>[557]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_08" title="wikilink">NCAA Football 08</a></em>[555]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6833,7 +6811,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Football_11.md" title="wikilink">NCAA Football 11</a></em>[558]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_09" title="wikilink">NCAA Football 09</a></em>[556]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6844,7 +6822,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Football_12.md" title="wikilink">NCAA Football 12</a></em>[559]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_10" title="wikilink">NCAA Football 10</a></em>[557]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6855,7 +6833,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Football_13.md" title="wikilink">NCAA Football 13</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_11" title="wikilink">NCAA Football 11</a></em>[558]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6866,7 +6844,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NCAA_Football_14.md" title="wikilink">NCAA Football 14</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_12" title="wikilink">NCAA Football 12</a></em>[559]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6877,8 +6855,30 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NCAA_March_Madness_08.md" title="wikilink">NCAA March Madness 08</a></em>[560]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_13" title="wikilink">NCAA Football 13</a></em></p></td>
+<td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
+<td></td>
+<td><p>未發行</p></td>
+<td><p>未發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_Football_14" title="wikilink">NCAA Football 14</a></em></p></td>
+<td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
+<td></td>
+<td><p>未發行</p></td>
+<td><p>未發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NCAA_March_Madness_08" title="wikilink">NCAA March Madness 08</a></em>[560]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -6976,7 +6976,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NeverDead.md" title="wikilink">NeverDead</a></em>[568]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NeverDead" title="wikilink">NeverDead</a></em>[568]</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6987,7 +6987,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/NFL_Head_Coach_09.md" title="wikilink">NFL Head Coach 09</a></em>[569]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NFL_Head_Coach_09" title="wikilink">NFL Head Coach 09</a></em>[569]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -6998,7 +6998,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NFL_Tour.md" title="wikilink">NFL Tour</a></em>[570]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NFL_Tour" title="wikilink">NFL Tour</a></em>[570]</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7008,9 +7008,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_08.md" title="wikilink">NHL 08</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_08" title="wikilink">NHL 08</a></p></td>
 <td><p><em>NHL 08</em>[571]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7019,9 +7019,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NHL_09.md" title="wikilink">NHL 09</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_09" title="wikilink">NHL 09</a></p></td>
 <td><p><em>NHL 09</em>[572]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7030,9 +7030,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_10.md" title="wikilink">NHL 10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_10" title="wikilink">NHL 10</a></p></td>
 <td><p><em>NHL 10</em>[573]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7041,9 +7041,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NHL_11.md" title="wikilink">NHL 11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_11" title="wikilink">NHL 11</a></p></td>
 <td><p><em>NHL 11</em>[574]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7052,9 +7052,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_12.md" title="wikilink">NHL 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_12" title="wikilink">NHL 12</a></p></td>
 <td><p><em>NHL 12</em>[575]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7063,9 +7063,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NHL_13.md" title="wikilink">NHL 13</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_13" title="wikilink">NHL 13</a></p></td>
 <td><p><em>NHL 13</em></p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7074,9 +7074,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_15.md" title="wikilink">NHL 15</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_15" title="wikilink">NHL 15</a></p></td>
 <td><p><em>NHL 15</em>[576][577]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7085,9 +7085,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NHL_2K7.md" title="wikilink">NHL 2K7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_2K7" title="wikilink">NHL 2K7</a></p></td>
 <td><p><em>NHL 2K7</em>[578]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7096,9 +7096,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_2K8.md" title="wikilink">NHL 2K8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_2K8" title="wikilink">NHL 2K8</a></p></td>
 <td><p><em>NHL 2K8</em>[579]</p></td>
-<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="../Page/Kush_Games.md" title="wikilink">Kush Games</a></p></td>
+<td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a> / <a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7107,7 +7107,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NHL_2K9.md" title="wikilink">NHL 2K9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_2K9" title="wikilink">NHL 2K9</a></p></td>
 <td><p><em>NHL 2K9</em>[580]</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td></td>
@@ -7118,7 +7118,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NHL_2K10.md" title="wikilink">NHL 2K10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHL_2K10" title="wikilink">NHL 2K10</a></p></td>
 <td><p><em>NHL 2K10</em>[581]</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td></td>
@@ -7131,7 +7131,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em>Ni no Kuni</em>[582]</p></td>
-<td><p><a href="../Page/Level-5_(video_game_company).md" title="wikilink">Level-5</a>, <a href="../Page/Studio_Ghibli.md" title="wikilink">Studio Ghibli</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Level-5_(video_game_company)" title="wikilink">Level-5</a>, <a href="https://zh.wikipedia.org/wiki/Studio_Ghibli" title="wikilink">Studio Ghibli</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7142,7 +7142,7 @@
 <tr class="even">
 <td><p><a href="../Page/仁王_(游戏).md" title="wikilink">仁王</a></p></td>
 <td><p><em>Ni-Oh</em>[583]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7152,8 +7152,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Nier_(video_game).md" title="wikilink">Nier</a></em>[584]</p></td>
-<td><p><a href="../Page/Cavia_(company).md" title="wikilink">Cavia</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Nier_(video_game)" title="wikilink">Nier</a></em>[584]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cavia_(company)" title="wikilink">Cavia</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7164,7 +7164,7 @@
 <tr class="even">
 <td><p>忍者外傳Σ</p></td>
 <td><p><em>Ninja Gaiden Sigma</em>[585]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7175,7 +7175,7 @@
 <tr class="odd">
 <td><p>忍者外傳Σ2</p></td>
 <td><p><em>Ninja Gaiden Sigma 2</em>[586]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7185,8 +7185,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ninja_Gaiden_3.md" title="wikilink">Ninja Gaiden 3</a></em>[587]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_3" title="wikilink">Ninja Gaiden 3</a></em>[587]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7196,8 +7196,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ninja_Gaiden_3:_Razor&#39;s_Edge.md" title="wikilink">Ninja Gaiden 3: Razor's Edge</a></em>[588]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_3:_Razor&#39;s_Edge" title="wikilink">Ninja Gaiden 3: Razor's Edge</a></em>[588]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7207,8 +7207,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/No_More_Heroes:_Heroes&#39;_Paradise.md" title="wikilink">No More Heroes: Heroes' Paradise</a></em>[589]</p></td>
-<td><p><a href="../Page/feelplus.md" title="wikilink">feelplus</a> / <a href="../Page/Grasshopper_Manufacture.md" title="wikilink">Grasshopper Manufacture</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/No_More_Heroes:_Heroes&#39;_Paradise" title="wikilink">No More Heroes: Heroes' Paradise</a></em>[589]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/feelplus" title="wikilink">feelplus</a> / <a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7218,8 +7218,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/NPPL_Championship_Paintball_2009.md" title="wikilink">NPPL Championship Paintball 2009</a></em>[590]</p></td>
-<td><p><a href="../Page/Sand_Grain_Studios.md" title="wikilink">Sand Grain Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/NPPL_Championship_Paintball_2009" title="wikilink">NPPL Championship Paintball 2009</a></em>[590]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sand_Grain_Studios" title="wikilink">Sand Grain Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7229,8 +7229,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="O"></span><em><a href="../Page/One_Piece:_Pirate_Warriors.md" title="wikilink">One Piece: Pirate Warriors</a></em>[591][592]</p></td>
-<td><p><a href="../Page/Tecmo_Koei.md" title="wikilink">Tecmo Koei</a>, <a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><span id="O"></span><em><a href="https://zh.wikipedia.org/wiki/One_Piece:_Pirate_Warriors" title="wikilink">One Piece: Pirate Warriors</a></em>[591][592]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a>, <a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7240,8 +7240,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/One_Piece:_Pirate_Warriors_2.md" title="wikilink">One Piece: Pirate Warriors 2</a></em></p></td>
-<td><p><a href="../Page/Tecmo_Koei.md" title="wikilink">Tecmo Koei</a>, <a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/One_Piece:_Pirate_Warriors_2" title="wikilink">One Piece: Pirate Warriors 2</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a>, <a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7251,8 +7251,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/One_Piece:_Pirate_Warriors_3.md" title="wikilink">One Piece: Pirate Warriors 3</a></em></p></td>
-<td><p><a href="../Page/Tecmo_Koei.md" title="wikilink">Tecmo Koei</a>, <a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/One_Piece:_Pirate_Warriors_3" title="wikilink">One Piece: Pirate Warriors 3</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a>, <a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7262,8 +7262,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/One_Piece:_Unlimited_World_Red.md" title="wikilink">One Piece: Unlimited World Red</a></em></p></td>
-<td><p><a href="../Page/Ganbarion.md" title="wikilink">Ganbarion</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/One_Piece:_Unlimited_World_Red" title="wikilink">One Piece: Unlimited World Red</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ganbarion" title="wikilink">Ganbarion</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7273,7 +7273,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Operation_Flashpoint:_Dragon_Rising.md" title="wikilink">Operation Flashpoint: Dragon Rising</a></em>[593]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Operation_Flashpoint:_Dragon_Rising" title="wikilink">Operation Flashpoint: Dragon Rising</a></em>[593]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7284,7 +7284,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Operation_Flashpoint:_Red_River.md" title="wikilink">Operation Flashpoint: Red River</a></em>[594]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Operation_Flashpoint:_Red_River" title="wikilink">Operation Flashpoint: Red River</a></em>[594]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7295,9 +7295,9 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Order_Up!.md" title="wikilink">Order Up!</a></em><ref>[<a href="http://ps3.ign.com/objects/142/14249023.html">http://ps3.ign.com/objects/142/14249023.html</a> Order Up</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Order_Up!" title="wikilink">Order Up!</a></em><ref>[<a href="http://ps3.ign.com/objects/142/14249023.html">http://ps3.ign.com/objects/142/14249023.html</a> Order Up</p></td>
 <td><p>- PlayStation 3 - IGN]. Ps3.ign.com. Retrieved on 2012-11-29.</ref></p></td>
-<td><p><a href="../Page/SuperVillain_Studios.md" title="wikilink">SuperVillain Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SuperVillain_Studios" title="wikilink">SuperVillain Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7307,7 +7307,7 @@
 <tr class="odd">
 <td><p><a href="../Page/橙盒.md" title="wikilink">橙盒</a></p></td>
 <td><p><em>The Orange Box</em>[595]</p></td>
-<td><p><a href="../Page/EA_UK.md" title="wikilink">EA UK</a> / <a href="../Page/Valve_Corporation.md" title="wikilink">Valve Corporation</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_UK" title="wikilink">EA UK</a> / <a href="https://zh.wikipedia.org/wiki/Valve_Corporation" title="wikilink">Valve Corporation</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7317,8 +7317,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Outsider_(video_game).md" title="wikilink">The Outsider</a></em>[596]</p></td>
-<td><p><a href="../Page/Frontier_Developments.md" title="wikilink">Frontier Developments</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Outsider_(video_game)" title="wikilink">The Outsider</a></em>[596]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7328,8 +7328,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Overlord:_Raising_Hell.md" title="wikilink">Overlord: Raising Hell</a></em>[597]</p></td>
-<td><p><a href="../Page/4J_Studios.md" title="wikilink">4J Studios</a> / <a href="../Page/Triumph_Studios.md" title="wikilink">Triumph Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Overlord:_Raising_Hell" title="wikilink">Overlord: Raising Hell</a></em>[597]</p></td>
+<td><p><a href="../Page/4J_Studios.md" title="wikilink">4J Studios</a> / <a href="https://zh.wikipedia.org/wiki/Triumph_Studios" title="wikilink">Triumph Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7339,8 +7339,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Overlord_II.md" title="wikilink">Overlord II</a></em>[598]</p></td>
-<td><p><a href="../Page/Triumph_Studios.md" title="wikilink">Triumph Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Overlord_II" title="wikilink">Overlord II</a></em>[598]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Triumph_Studios" title="wikilink">Triumph Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7350,8 +7350,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="P"></span> <em><a href="../Page/Pac-Man_and_the_Ghostly_Adventures.md" title="wikilink">Pac-Man and the Ghostly Adventures</a></em></p></td>
-<td><p><a href="../Page/Bandai_Namco_Games.md" title="wikilink">Bandai Namco Games</a></p></td>
+<td><p><span id="P"></span> <em><a href="https://zh.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures" title="wikilink">Pac-Man and the Ghostly Adventures</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bandai_Namco_Games" title="wikilink">Bandai Namco Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7361,8 +7361,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pac-Man_and_the_Ghostly_Adventures_2.md" title="wikilink">Pac-Man and the Ghostly Adventures 2</a></em></p></td>
-<td><p><a href="../Page/Bandai_Namco_Games.md" title="wikilink">Bandai Namco Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pac-Man_and_the_Ghostly_Adventures_2" title="wikilink">Pac-Man and the Ghostly Adventures 2</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bandai_Namco_Games" title="wikilink">Bandai Namco Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7372,7 +7372,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/PachiPara_16:_Gingira_Paradise_2.md" title="wikilink">PachiPara 16: Gingira Paradise 2</a></em>[599]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/PachiPara_16:_Gingira_Paradise_2" title="wikilink">PachiPara 16: Gingira Paradise 2</a></em>[599]</p></td>
 <td><p><a href="../Page/Irem.md" title="wikilink">Irem</a></p></td>
 <td></td>
 <td></td>
@@ -7383,18 +7383,18 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pain_(video_game).md" title="wikilink">Pain</a></em>[600]</p></td>
-<td><p><a href="../Page/Idol_Minds.md" title="wikilink">Idol Minds</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pain_(video_game)" title="wikilink">Pain</a></em>[600]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Minds" title="wikilink">Idol Minds</a></p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Persona_4:_Arena.md" title="wikilink">Persona 4: Arena</a></em>[601]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Persona_4:_Arena" title="wikilink">Persona 4: Arena</a></em>[601]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td></td>
 <td></td>
@@ -7405,7 +7405,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Persona_4_Arena_Ultimax.md" title="wikilink">Persona 4 Arena Ultimax</a></em>[602]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Persona_4_Arena_Ultimax" title="wikilink">Persona 4 Arena Ultimax</a></em>[602]</p></td>
 <td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a></p></td>
 <td></td>
 <td></td>
@@ -7416,7 +7416,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Persona_5.md" title="wikilink">Persona 5</a></em>[603]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Persona_5" title="wikilink">Persona 5</a></em>[603]</p></td>
 <td><p><a href="../Page/Atlus.md" title="wikilink">Atlus</a></p></td>
 <td></td>
 <td></td>
@@ -7427,8 +7427,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pro_Evolution_Soccer_2008.md" title="wikilink">PES 2008: Pro Evolution Soccer</a></em>[604]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2008" title="wikilink">PES 2008: Pro Evolution Soccer</a></em>[604]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7438,8 +7438,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Pro_Evolution_Soccer_2009.md" title="wikilink">PES 2009: Pro Evolution Soccer</a></em>[605]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2009" title="wikilink">PES 2009: Pro Evolution Soccer</a></em>[605]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7449,8 +7449,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pro_Evolution_Soccer_2010.md" title="wikilink">PES 2010: Pro Evolution Soccer</a></em>[606]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2010" title="wikilink">PES 2010: Pro Evolution Soccer</a></em>[606]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7460,8 +7460,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Pro_Evolution_Soccer_2011.md" title="wikilink">PES 2011: Pro Evolution Soccer</a></em>[607]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2011" title="wikilink">PES 2011: Pro Evolution Soccer</a></em>[607]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7471,8 +7471,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pro_Evolution_Soccer_2012.md" title="wikilink">PES 2012: Pro Evolution Soccer</a></em>[608]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pro_Evolution_Soccer_2012" title="wikilink">PES 2012: Pro Evolution Soccer</a></em>[608]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7482,8 +7482,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Phineas_and_Ferb:_Across_the_2nd_Dimension_(video_game).md" title="wikilink">Phineas and Ferb: Across the 2nd Dimension</a></em>[609]</p></td>
-<td><p><a href="../Page/High_Impact_Games.md" title="wikilink">High Impact Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Phineas_and_Ferb:_Across_the_2nd_Dimension_(video_game)" title="wikilink">Phineas and Ferb: Across the 2nd Dimension</a></em>[609]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/High_Impact_Games" title="wikilink">High Impact Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7493,8 +7493,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pinball_Hall_of_Fame:_The_Williams_Collection.md" title="wikilink">Pinball Hall of Fame: The Williams Collection</a></em>[610]</p></td>
-<td><p><a href="../Page/FarSight_Studios.md" title="wikilink">FarSight Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pinball_Hall_of_Fame:_The_Williams_Collection" title="wikilink">Pinball Hall of Fame: The Williams Collection</a></em>[610]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FarSight_Studios" title="wikilink">FarSight Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7505,7 +7505,7 @@
 <tr class="odd">
 <td><p>加勒比海盜：魔盜王終極之戰</p></td>
 <td><p>Pirates of the Caribbean: At World's End[611]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7515,8 +7515,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Planet_51_(game).md" title="wikilink">Planet 51</a></em>[612]</p></td>
-<td><p><a href="../Page/Pyro_Studios.md" title="wikilink">Pyro Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Planet_51_(game)" title="wikilink">Planet 51</a></em>[612]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Pyro_Studios" title="wikilink">Pyro Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7526,8 +7526,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/PlayStation_All-Stars_Battle_Royale.md" title="wikilink">PlayStation All-Stars Battle Royale</a></em>[613]</p></td>
-<td><p><a href="../Page/SuperBot_Entertainment.md" title="wikilink">SuperBot Entertainment</a> / <a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a> / <a href="../Page/Bluepoint_Games.md" title="wikilink">Bluepoint Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/PlayStation_All-Stars_Battle_Royale" title="wikilink">PlayStation All-Stars Battle Royale</a></em>[613]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SuperBot_Entertainment" title="wikilink">SuperBot Entertainment</a> / <a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a> / <a href="https://zh.wikipedia.org/wiki/Bluepoint_Games" title="wikilink">Bluepoint Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7537,8 +7537,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/PlayStation_Move_Heroes.md" title="wikilink">PlayStation Move Heroes</a></em>[614]</p></td>
-<td><p><a href="../Page/Nihilistic_Software.md" title="wikilink">Nihilistic Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/PlayStation_Move_Heroes" title="wikilink">PlayStation Move Heroes</a></em>[614]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nihilistic_Software" title="wikilink">Nihilistic Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7549,7 +7549,7 @@
 <tr class="odd">
 <td><p><a href="../Page/傳送門2.md" title="wikilink">傳送門2</a></p></td>
 <td><p>Portal 2[615]</p></td>
-<td><p><a href="../Page/Valve_Corporation.md" title="wikilink">Valve Corporation</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Valve_Corporation" title="wikilink">Valve Corporation</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7560,7 +7560,7 @@
 <tr class="even">
 <td><p>走火入魔</p></td>
 <td><p>Possession[616]</p></td>
-<td><p><a href="../Page/Blitz_Games.md" title="wikilink">Blitz Games</a> / <a href="../Page/Volatile_Games.md" title="wikilink">Volatile Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blitz_Games" title="wikilink">Blitz Games</a> / <a href="https://zh.wikipedia.org/wiki/Volatile_Games" title="wikilink">Volatile Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7570,8 +7570,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Power_Gig:_Rise_of_the_SixString.md" title="wikilink">Power Gig: Rise of the SixString</a></em></p></td>
-<td><p><a href="../Page/Seven45_Studios.md" title="wikilink">Seven45 Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Power_Gig:_Rise_of_the_SixString" title="wikilink">Power Gig: Rise of the SixString</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Seven45_Studios" title="wikilink">Seven45 Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7581,8 +7581,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Primal_Carnage.md" title="wikilink">Primal Carnage</a></em>[617]</p></td>
-<td><p><a href="../Page/Lukewarm_Media.md" title="wikilink">Lukewarm Media</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Primal_Carnage" title="wikilink">Primal Carnage</a></em>[617]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lukewarm_Media" title="wikilink">Lukewarm Media</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7593,7 +7593,7 @@
 <tr class="odd">
 <td><p><a href="../Page/波斯王子_(2008年游戏).md" title="wikilink">波斯王子</a></p></td>
 <td><p>Prince of Persia[618]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7603,8 +7603,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Prince_of_Persia:_The_Forgotten_Sands.md" title="wikilink">Prince of Persia: The Forgotten Sands</a></em>[619]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_Forgotten_Sands" title="wikilink">Prince of Persia: The Forgotten Sands</a></em>[619]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7614,8 +7614,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Prince_of_Persia#Prince_of_Persia_Trilogy.md" title="wikilink">Prince of Persia Trilogy</a></em>[620]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Prince_of_Persia#Prince_of_Persia_Trilogy" title="wikilink">Prince of Persia Trilogy</a></em>[620]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7625,8 +7625,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Prison_Break:_The_Conspiracy.md" title="wikilink">Prison Break: The Conspiracy</a></em>[621]</p></td>
-<td><p><a href="../Page/ZootFly.md" title="wikilink">ZootFly</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Prison_Break:_The_Conspiracy" title="wikilink">Prison Break: The Conspiracy</a></em>[621]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ZootFly" title="wikilink">ZootFly</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7637,7 +7637,7 @@
 <tr class="odd">
 <td><p>野球魂4</p></td>
 <td><p>Professional Baseball Spirits 4[622]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7648,7 +7648,7 @@
 <tr class="even">
 <td><p>野球魂5</p></td>
 <td><p>Professional Baseball Spirits 5[623]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7659,7 +7659,7 @@
 <tr class="odd">
 <td><p>野球魂6</p></td>
 <td><p>Professional Baseball Spirits 6[624]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7670,7 +7670,7 @@
 <tr class="even">
 <td><p>野球魂2010</p></td>
 <td><p>Professional Baseball Spirits 2010[625]</p></td>
-<td><p><a href="../Page/Konami.md" title="wikilink">Konami</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Konami" title="wikilink">Konami</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7680,7 +7680,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Prototype_(video_game).md" title="wikilink">Prototype</a></em>[626]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Prototype_(video_game)" title="wikilink">Prototype</a></em>[626]</p></td>
 <td><p><a href="../Page/Radical_Entertainment.md" title="wikilink">Radical Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7691,7 +7691,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Prototype_2.md" title="wikilink">Prototype 2</a></em>[627]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Prototype_2" title="wikilink">Prototype 2</a></em>[627]</p></td>
 <td><p><a href="../Page/Radical_Entertainment.md" title="wikilink">Radical Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7702,8 +7702,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Puppeteer_(video_game).md" title="wikilink">Puppeteer</a></em>[628]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Puppeteer_(video_game)" title="wikilink">Puppeteer</a></em>[628]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7713,8 +7713,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Pure_(video_game).md" title="wikilink">Pure</a></em>[629]</p></td>
-<td><p><a href="../Page/Black_Rock_Studios.md" title="wikilink">Black Rock Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pure_(video_game)" title="wikilink">Pure</a></em>[629]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Black_Rock_Studios" title="wikilink">Black Rock Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7724,8 +7724,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Pure_Football.md" title="wikilink">Pure Football</a></em>[630]</p></td>
-<td><p><a href="../Page/Ubisoft_Vancouver.md" title="wikilink">Ubisoft Vancouver</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Pure_Football" title="wikilink">Pure Football</a></em>[630]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Vancouver" title="wikilink">Ubisoft Vancouver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7735,8 +7735,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Puss_in_Boots_(video_game).md" title="wikilink">Puss in Boots</a></em>[631]</p></td>
-<td><p><a href="../Page/Blitz_Games.md" title="wikilink">Blitz Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Puss_in_Boots_(video_game)" title="wikilink">Puss in Boots</a></em>[631]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blitz_Games" title="wikilink">Blitz Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7746,8 +7746,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Puyo_Puyo_Tetris.md" title="wikilink">Puyo Puyo Tetris</a></em>[632][633]</p></td>
-<td><p><a href="../Page/SEGA.md" title="wikilink">SEGA</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Puyo_Puyo_Tetris" title="wikilink">Puyo Puyo Tetris</a></em>[632][633]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7757,8 +7757,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="Q"></span><em><a href="../Page/Quantum_Theory_(video_game).md" title="wikilink">Quantum Theory</a></em>[634]</p></td>
-<td><p><a href="../Page/Team_Tachyon.md" title="wikilink">Team Tachyon</a></p></td>
+<td><p><span id="Q"></span><em><a href="https://zh.wikipedia.org/wiki/Quantum_Theory_(video_game)" title="wikilink">Quantum Theory</a></em>[634]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Tachyon" title="wikilink">Team Tachyon</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7768,8 +7768,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="R"></span><em><a href="../Page/R.U.S.E..md" title="wikilink">R.U.S.E.</a></em>[635]</p></td>
-<td><p><a href="../Page/Eugen_Systems.md" title="wikilink">Eugen Systems</a></p></td>
+<td><p><span id="R"></span><em><a href="https://zh.wikipedia.org/wiki/R.U.S.E." title="wikilink">R.U.S.E.</a></em>[635]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eugen_Systems" title="wikilink">Eugen Systems</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7779,7 +7779,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ra.One:_The_Game.md" title="wikilink">Ra.One: The Game</a></em>[636]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ra.One:_The_Game" title="wikilink">Ra.One: The Game</a></em>[636]</p></td>
 <td><p>Trine Games</p></td>
 <td></td>
 <td></td>
@@ -7790,7 +7790,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Race_Driver:_Grid.md" title="wikilink">Race Driver: GRID</a></em>[637]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Race_Driver:_Grid" title="wikilink">Race Driver: GRID</a></em>[637]</p></td>
 <td><p><a href="../Page/Codemasters.md" title="wikilink">Codemasters</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7801,8 +7801,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Racquet_Sports.md" title="wikilink">Racquet Sports</a></em></p></td>
-<td><p><a href="../Page/Asobo_Studio.md" title="wikilink">Asobo Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Racquet_Sports" title="wikilink">Racquet Sports</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Asobo_Studio" title="wikilink">Asobo Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7813,7 +7813,7 @@
 <tr class="odd">
 <td><p><a href="../Page/狂怒_(游戏).md" title="wikilink">狂怒</a></p></td>
 <td><p>Rage[638]</p></td>
-<td><p><a href="../Page/id_Software.md" title="wikilink">id Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/id_Software" title="wikilink">id Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7823,8 +7823,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Railfan:_Chicago_Transit_Authority_Brown_Line.md" title="wikilink">Railfan: Chicago Transit Authority Brown Line</a></em>[639]</p></td>
-<td><p><a href="../Page/Ongakukan.md" title="wikilink">Ongakukan</a> / <a href="../Page/Taito.md" title="wikilink">Taito</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Railfan:_Chicago_Transit_Authority_Brown_Line" title="wikilink">Railfan: Chicago Transit Authority Brown Line</a></em>[639]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ongakukan" title="wikilink">Ongakukan</a> / <a href="https://zh.wikipedia.org/wiki/Taito" title="wikilink">Taito</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7833,9 +7833,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鐵道迷_台灣高鐵.md" title="wikilink">鐵道迷 台灣高鐵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鐵道迷_台灣高鐵" title="wikilink">鐵道迷 台灣高鐵</a></p></td>
 <td><p>Railfan: Taiwan High Speed Rail[640]</p></td>
-<td><p><a href="../Page/Ongakukan.md" title="wikilink">Ongakukan</a> / <a href="../Page/Actainment.md" title="wikilink">Actainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ongakukan" title="wikilink">Ongakukan</a> / <a href="https://zh.wikipedia.org/wiki/Actainment" title="wikilink">Actainment</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -7845,8 +7845,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rain_in_Rio.md" title="wikilink">Rain in Rio</a></em>[641]</p></td>
-<td><p><a href="../Page/Red_Dingo_Games.md" title="wikilink">Red Dingo Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rain_in_Rio" title="wikilink">Rain in Rio</a></em>[641]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Red_Dingo_Games" title="wikilink">Red Dingo Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7856,8 +7856,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rapala_Fishing_Frenzy_2009.md" title="wikilink">Rapala Fishing Frenzy 2009</a></em>[642]</p></td>
-<td><p><a href="../Page/FUN_Labs.md" title="wikilink">FUN Labs</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rapala_Fishing_Frenzy_2009" title="wikilink">Rapala Fishing Frenzy 2009</a></em>[642]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FUN_Labs" title="wikilink">FUN Labs</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7868,7 +7868,7 @@
 <tr class="even">
 <td><p>料理鼠王</p></td>
 <td><p>Ratatouille[643]</p></td>
-<td><p><a href="../Page/Heavy_Iron_Studios.md" title="wikilink">Heavy Iron Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heavy_Iron_Studios" title="wikilink">Heavy Iron Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7878,8 +7878,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank_Future:_A_Crack_in_Time.md" title="wikilink">Ratchet &amp; Clank Future: A Crack in Time</a></em>[644]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank_Future:_A_Crack_in_Time" title="wikilink">Ratchet &amp; Clank Future: A Crack in Time</a></em>[644]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7889,8 +7889,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank:_All_4_One.md" title="wikilink">Ratchet &amp; Clank: All 4 One</a></em>[645]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank:_All_4_One" title="wikilink">Ratchet &amp; Clank: All 4 One</a></em>[645]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7900,8 +7900,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank:_Full_Frontal_Assault.md" title="wikilink">Ratchet &amp; Clank: Full Frontal Assault</a></em>[646]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank:_Full_Frontal_Assault" title="wikilink">Ratchet &amp; Clank: Full Frontal Assault</a></em>[646]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7911,8 +7911,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank:_Into_the_Nexus.md" title="wikilink">Ratchet &amp; Clank: Into the Nexus</a></em></p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank:_Into_the_Nexus" title="wikilink">Ratchet &amp; Clank: Into the Nexus</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7922,19 +7922,19 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank_Future:_Quest_for_Booty.md" title="wikilink">Ratchet &amp; Clank Future: Quest for Booty</a></em>[647]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank_Future:_Quest_for_Booty" title="wikilink">Ratchet &amp; Clank Future: Quest for Booty</a></em>[647]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank_Future:_Tools_of_Destruction.md" title="wikilink">Ratchet &amp; Clank Future: Tools of Destruction</a></em>[648]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank_Future:_Tools_of_Destruction" title="wikilink">Ratchet &amp; Clank Future: Tools of Destruction</a></em>[648]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7944,8 +7944,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ratchet_&amp;_Clank_Collection.md" title="wikilink">Ratchet &amp; Clank Collection</a></em></p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ratchet_&amp;_Clank_Collection" title="wikilink">Ratchet &amp; Clank Collection</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7955,8 +7955,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rayman_Origins.md" title="wikilink">Rayman Origins</a></em></p></td>
-<td><p><a href="../Page/Ubisoft_Montpellier.md" title="wikilink">Ubisoft Montpellier</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rayman_Origins" title="wikilink">Rayman Origins</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montpellier" title="wikilink">Ubisoft Montpellier</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7966,8 +7966,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rayman_Legends.md" title="wikilink">Rayman Legends</a></em></p></td>
-<td><p><a href="../Page/Ubisoft_Montpellier.md" title="wikilink">Ubisoft Montpellier</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rayman_Legends" title="wikilink">Rayman Legends</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montpellier" title="wikilink">Ubisoft Montpellier</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -7977,8 +7977,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Recoil:_Retrograd.md" title="wikilink">Recoil: Retrograd</a></em>[649]</p></td>
-<td><p><a href="../Page/ZeitGuyz.md" title="wikilink">ZeitGuyz</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Recoil:_Retrograd" title="wikilink">Recoil: Retrograd</a></em>[649]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ZeitGuyz" title="wikilink">ZeitGuyz</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -7993,13 +7993,13 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td><p>(U.S. Version Only)</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Record_of_Agarest_War_Zero.md" title="wikilink">Record of Agarest War Zero</a></em>[651]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Record_of_Agarest_War_Zero" title="wikilink">Record of Agarest War Zero</a></em>[651]</p></td>
 <td><p><a href="../Page/Compile_Heart.md" title="wikilink">Compile Heart</a></p></td>
 <td></td>
 <td></td>
@@ -8010,8 +8010,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Red_Dead_Redemption.md" title="wikilink">Red Dead Redemption</a></em>[652]</p></td>
-<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Dead_Redemption" title="wikilink">Red Dead Redemption</a></em>[652]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8021,8 +8021,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Red_Faction:_Armageddon.md" title="wikilink">Red Faction: Armageddon</a></em>[653]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Faction:_Armageddon" title="wikilink">Red Faction: Armageddon</a></em>[653]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8032,8 +8032,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Red_Faction:_Guerrilla.md" title="wikilink">Red Faction: Guerrilla</a></em>[654]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Faction:_Guerrilla" title="wikilink">Red Faction: Guerrilla</a></em>[654]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8043,8 +8043,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Red_Seeds_Profile.md" title="wikilink">Red Seeds Profile</a></em>[655][656]</p></td>
-<td><p><a href="../Page/Access_Games.md" title="wikilink">Access Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Seeds_Profile" title="wikilink">Red Seeds Profile</a></em>[655][656]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Access_Games" title="wikilink">Access Games</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8054,8 +8054,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Remember_Me_(video_game).md" title="wikilink">Remember Me</a></em>[657]</p></td>
-<td><p><a href="../Page/Dontnod_Entertainment.md" title="wikilink">Dontnod Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Remember_Me_(video_game)" title="wikilink">Remember Me</a></em>[657]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dontnod_Entertainment" title="wikilink">Dontnod Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8066,7 +8066,7 @@
 <tr class="even">
 <td><p><a href="../Page/生化危機5.md" title="wikilink">生化危機5</a></p></td>
 <td><p>Resident Evil 5[658]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8077,7 +8077,7 @@
 <tr class="odd">
 <td><p><a href="../Page/生化危機6.md" title="wikilink">生化危機6</a></p></td>
 <td><p>Resident Evil 6[659]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8088,7 +8088,7 @@
 <tr class="even">
 <td><p><a href="../Page/生化危机_浣熊市行动.md" title="wikilink">生化危机 浣熊市行动</a></p></td>
 <td><p>Resident Evil: Operation Raccoon City[660]</p></td>
-<td><p><a href="../Page/Slant_Six_Games.md" title="wikilink">Slant Six Games</a> / <a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Slant_Six_Games" title="wikilink">Slant Six Games</a> / <a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8098,8 +8098,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Resident_Evil:_Revelations.md" title="wikilink">Resident Evil: Revelations</a></em>[661]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Resident_Evil:_Revelations" title="wikilink">Resident Evil: Revelations</a></em>[661]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8109,8 +8109,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Resident_Evil:_Revelations_2.md" title="wikilink">Resident Evil: Revelations 2</a></em></p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Resident_Evil:_Revelations_2" title="wikilink">Resident Evil: Revelations 2</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8121,7 +8121,7 @@
 <tr class="odd">
 <td><p><a href="../Page/抵抗：灭绝人类.md" title="wikilink">抵抗：灭绝人类</a></p></td>
 <td><p>Resistance: Fall of Man[662]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8131,8 +8131,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Resistance_2.md" title="wikilink">Resistance 2</a></em>[663]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Resistance_2" title="wikilink">Resistance 2</a></em>[663]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8142,8 +8142,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Resistance_3.md" title="wikilink">Resistance 3</a></em>[664]</p></td>
-<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Resistance_3" title="wikilink">Resistance 3</a></em>[664]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8153,8 +8153,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Resonance_of_Fate.md" title="wikilink">Resonance of Fate</a></em>[665]</p></td>
-<td><p><a href="../Page/tri-Ace.md" title="wikilink">tri-Ace</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Resonance_of_Fate" title="wikilink">Resonance of Fate</a></em>[665]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tri-Ace" title="wikilink">tri-Ace</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8164,8 +8164,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rewrite_(visual_novel).md" title="wikilink">Rewrite</a></em></p></td>
-<td><p><a href="../Page/Key_(company).md" title="wikilink">Key</a> / <a href="../Page/Prototype_(company).md" title="wikilink">Prototype</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rewrite_(visual_novel)" title="wikilink">Rewrite</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(company)" title="wikilink">Key</a> / <a href="https://zh.wikipedia.org/wiki/Prototype_(company)" title="wikilink">Prototype</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8175,8 +8175,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ride_to_Hell:_Retribution.md" title="wikilink">Ride to Hell: Retribution</a></em>[666]</p></td>
-<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ride_to_Hell:_Retribution" title="wikilink">Ride to Hell: Retribution</a></em>[666]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8187,7 +8187,7 @@
 <tr class="odd">
 <td><p>實感賽車7</p></td>
 <td><p>Ridge Racer 7[667]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8197,8 +8197,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ridge_Racer_Unbounded.md" title="wikilink">Ridge Racer Unbounded</a></em>[668]</p></td>
-<td><p><a href="../Page/Bugbear_Entertainment.md" title="wikilink">Bugbear Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ridge_Racer_Unbounded" title="wikilink">Ridge Racer Unbounded</a></em>[668]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bugbear_Entertainment" title="wikilink">Bugbear Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8208,8 +8208,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rio_(video_game).md" title="wikilink">Rio</a></em>[669]</p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rio_(video_game)" title="wikilink">Rio</a></em>[669]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8219,8 +8219,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rise_of_the_Argonauts.md" title="wikilink">Rise of the Argonauts</a></em>[670]</p></td>
-<td><p><a href="../Page/Liquid_Entertainment.md" title="wikilink">Liquid Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rise_of_the_Argonauts" title="wikilink">Rise of the Argonauts</a></em>[670]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Liquid_Entertainment" title="wikilink">Liquid Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8230,8 +8230,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Risen_2:_Dark_Waters.md" title="wikilink">Risen 2: Dark Waters</a></em></p></td>
-<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Risen_2:_Dark_Waters" title="wikilink">Risen 2: Dark Waters</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8241,8 +8241,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Risen_3:_Titan_Lords.md" title="wikilink">Risen 3: Titan Lords</a></em></p></td>
-<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Risen_3:_Titan_Lords" title="wikilink">Risen 3: Titan Lords</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8253,7 +8253,7 @@
 <tr class="odd">
 <td><p><a href="../Page/ROBOTICS;NOTES.md" title="wikilink">ROBOTICS;NOTES</a></p></td>
 <td><p>Robotics;Notes[671]</p></td>
-<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a> / <a href="../Page/Nitroplus.md" title="wikilink">Nitroplus</a></p></td>
+<td><p><a href="../Page/5pb..md" title="wikilink">5pb.</a> / <a href="https://zh.wikipedia.org/wiki/Nitroplus" title="wikilink">Nitroplus</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8264,7 +8264,7 @@
 <tr class="even">
 <td><p>搖滾樂團</p></td>
 <td><p>Rock Band[672]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8275,7 +8275,7 @@
 <tr class="odd">
 <td><p>搖滾樂團2</p></td>
 <td><p>Rock Band 2[673]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8286,7 +8286,7 @@
 <tr class="even">
 <td><p>搖滾樂團3</p></td>
 <td><p>Rock Band 3[674]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8296,8 +8296,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band:_Japan.md" title="wikilink">Rock Band: Japan</a></em>[675]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a> / <a href="../Page/Q_Entertainment.md" title="wikilink">Q Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band:_Japan" title="wikilink">Rock Band: Japan</a></em>[675]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a> / <a href="https://zh.wikipedia.org/wiki/Q_Entertainment" title="wikilink">Q Entertainment</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8307,8 +8307,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band_Classic_Rock_Track_Pack.md" title="wikilink">Rock Band Classic Rock Track Pack</a></em>[676]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band_Classic_Rock_Track_Pack" title="wikilink">Rock Band Classic Rock Track Pack</a></em>[676]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8318,8 +8318,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band_Country_Track_Pack.md" title="wikilink">Rock Band Country Track Pack</a></em>[677]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band_Country_Track_Pack" title="wikilink">Rock Band Country Track Pack</a></em>[677]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8329,8 +8329,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band_Country_Track_Pack_2.md" title="wikilink">Rock Band Country Track Pack 2</a></em>[678]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band_Country_Track_Pack_2" title="wikilink">Rock Band Country Track Pack 2</a></em>[678]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8340,8 +8340,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band_Metal_Track_Pack.md" title="wikilink">Rock Band Metal Track Pack</a></em>[679]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band_Metal_Track_Pack" title="wikilink">Rock Band Metal Track Pack</a></em>[679]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8351,8 +8351,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rock_Band_Track_Pack_Volume_2.md" title="wikilink">Rock Band Track Pack Volume 2</a></em>[680]</p></td>
-<td><p><a href="../Page/Harmonix_Music_Systems.md" title="wikilink">Harmonix Music Systems</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Band_Track_Pack_Volume_2" title="wikilink">Rock Band Track Pack Volume 2</a></em>[680]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Harmonix_Music_Systems" title="wikilink">Harmonix Music Systems</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8362,8 +8362,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rock_of_the_Dead.md" title="wikilink">Rock of the Dead</a></em></p></td>
-<td><p><a href="../Page/Epicenter_Studios.md" title="wikilink">Epicenter Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_of_the_Dead" title="wikilink">Rock of the Dead</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Epicenter_Studios" title="wikilink">Epicenter Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8373,8 +8373,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rock_Revolution.md" title="wikilink">Rock Revolution</a></em>[681]</p></td>
-<td><p><a href="../Page/Zoë_Mode.md" title="wikilink">Zoë Mode</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rock_Revolution" title="wikilink">Rock Revolution</a></em>[681]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zoë_Mode" title="wikilink">Zoë Mode</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8384,8 +8384,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rocksmith.md" title="wikilink">Rocksmith</a></em>[682]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rocksmith" title="wikilink">Rocksmith</a></em>[682]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8395,8 +8395,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Rogue_Warrior_(video_game).md" title="wikilink">Rogue Warrior</a></em>[683]</p></td>
-<td><p><a href="../Page/Zombie_Studios.md" title="wikilink">Zombie Studios</a> / <a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rogue_Warrior_(video_game)" title="wikilink">Rogue Warrior</a></em>[683]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zombie_Studios" title="wikilink">Zombie Studios</a> / <a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8406,8 +8406,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Rune_Factory:_Tides_of_Destiny.md" title="wikilink">Rune Factory: Tides of Destiny</a></em>[684]</p></td>
-<td><p><a href="../Page/Neverland_Co..md" title="wikilink">Neverland Co.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Rune_Factory:_Tides_of_Destiny" title="wikilink">Rune Factory: Tides of Destiny</a></em>[684]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Neverland_Co." title="wikilink">Neverland Co.</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8417,8 +8417,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Ryū_ga_Gotoku_Kenzan!.md" title="wikilink">Ryū ga Gotoku Kenzan!</a></em>[685]</p></td>
-<td><p><a href="../Page/Amusement_Vision.md" title="wikilink">Amusement Vision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ryū_ga_Gotoku_Kenzan!" title="wikilink">Ryū ga Gotoku Kenzan!</a></em>[685]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Amusement_Vision" title="wikilink">Amusement Vision</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8428,7 +8428,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="S"></span><em><a href="../Page/The_Saboteur_(2009_video_game).md" title="wikilink">The Saboteur</a></em>[686]</p></td>
+<td><p><span id="S"></span><em><a href="https://zh.wikipedia.org/wiki/The_Saboteur_(2009_video_game)" title="wikilink">The Saboteur</a></em>[686]</p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8440,7 +8440,7 @@
 <tr class="even">
 <td><p><a href="../Page/圣域2：堕落天使.md" title="wikilink">圣域2：堕落天使</a></p></td>
 <td><p><em>Sacred 2: Fallen Angel</em>[687]</p></td>
-<td><p><a href="../Page/Ascaron_Entertainment.md" title="wikilink">Ascaron Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ascaron_Entertainment" title="wikilink">Ascaron Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8449,9 +8449,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/圣域3.md" title="wikilink">圣域3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣域3" title="wikilink">圣域3</a></p></td>
 <td><p><em>Sacred 3</em></p></td>
-<td><p><a href="../Page/Keen_Games.md" title="wikilink">Keen Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Keen_Games" title="wikilink">Keen Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8461,8 +8461,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Saints_Row_2.md" title="wikilink">Saints Row 2</a></em>[688]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Saints_Row_2" title="wikilink">Saints Row 2</a></em>[688]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8472,8 +8472,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Saints_Row:_The_Third.md" title="wikilink">Saints Row: The Third</a></em>[689]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Saints_Row:_The_Third" title="wikilink">Saints Row: The Third</a></em>[689]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8483,8 +8483,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Saints_Row_IV.md" title="wikilink">Saints Row IV</a></em>[690]</p></td>
-<td><p><a href="../Page/Volition,_Inc..md" title="wikilink">Volition, Inc.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Saints_Row_IV" title="wikilink">Saints Row IV</a></em>[690]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8494,8 +8494,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Saw_(video_game).md" title="wikilink">Saw</a></em>[691]</p></td>
-<td><p><a href="../Page/Zombie_Studios.md" title="wikilink">Zombie Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Saw_(video_game)" title="wikilink">Saw</a></em>[691]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zombie_Studios" title="wikilink">Zombie Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8505,8 +8505,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Saw_II_(video_game).md" title="wikilink">Saw II</a></em>[692]</p></td>
-<td><p><a href="../Page/Zombie_Studios.md" title="wikilink">Zombie Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Saw_II_(video_game)" title="wikilink">Saw II</a></em>[692]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zombie_Studios" title="wikilink">Zombie Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8516,8 +8516,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/SBK-08:_Superbike_World_Championship.md" title="wikilink">SBK-08: Superbike World Championship</a></em>[693]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SBK-08:_Superbike_World_Championship" title="wikilink">SBK-08: Superbike World Championship</a></em>[693]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8527,8 +8527,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/SBK-09:_Superbike_World_Championship.md" title="wikilink">SBK-09: Superbike World Championship</a></em>[694]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SBK-09:_Superbike_World_Championship" title="wikilink">SBK-09: Superbike World Championship</a></em>[694]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8538,8 +8538,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Scene_It?_Bright_Lights!_Big_Screen!.md" title="wikilink">Scene It? Bright Lights! Big Screen!</a></em>[695]</p></td>
-<td><p><a href="../Page/Artificial_Mind_and_Movement.md" title="wikilink">Artificial Mind and Movement</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Scene_It?_Bright_Lights!_Big_Screen!" title="wikilink">Scene It? Bright Lights! Big Screen!</a></em>[695]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Artificial_Mind_and_Movement" title="wikilink">Artificial Mind and Movement</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8549,8 +8549,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/SCORE_International_Baja_1000.md" title="wikilink">SCORE International Baja 1000</a></em>[696]</p></td>
-<td><p><a href="../Page/Left_Field_Productions.md" title="wikilink">Left Field Productions</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SCORE_International_Baja_1000" title="wikilink">SCORE International Baja 1000</a></em>[696]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Left_Field_Productions" title="wikilink">Left Field Productions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8560,8 +8560,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Scratch:_The_Ultimate_DJ.md" title="wikilink">Scratch: The Ultimate DJ</a></em>[697]</p></td>
-<td><p><a href="../Page/7_Studios.md" title="wikilink">7 Studios</a> / <a href="../Page/Commotion_Interactive.md" title="wikilink">Commotion Interactive</a> / <a href="../Page/Bedlam_Games.md" title="wikilink">Bedlam Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Scratch:_The_Ultimate_DJ" title="wikilink">Scratch: The Ultimate DJ</a></em>[697]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/7_Studios" title="wikilink">7 Studios</a> / <a href="https://zh.wikipedia.org/wiki/Commotion_Interactive" title="wikilink">Commotion Interactive</a> / <a href="https://zh.wikipedia.org/wiki/Bedlam_Games" title="wikilink">Bedlam Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8572,7 +8572,7 @@
 <tr class="even">
 <td><p>世嘉高爾夫俱樂部</p></td>
 <td><p>Sega Golf Club[698]</p></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8583,7 +8583,7 @@
 <tr class="odd">
 <td><p>世嘉拉力 Revo</p></td>
 <td><p>Sega Rally Revo[699]</p></td>
-<td><p><a href="../Page/Sega_Racing_Studio.md" title="wikilink">Sega Racing Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega_Racing_Studio" title="wikilink">Sega Racing Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8593,8 +8593,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Sega_Superstars_Tennis.md" title="wikilink">Sega Superstars Tennis</a></em>[700]</p></td>
-<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sega_Superstars_Tennis" title="wikilink">Sega Superstars Tennis</a></em>[700]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8604,8 +8604,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sengoku_Basara_3.md" title="wikilink">Sengoku Basara 3</a></em>[701]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sengoku_Basara_3" title="wikilink">Sengoku Basara 3</a></em>[701]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8615,8 +8615,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Shadows_of_the_Damned.md" title="wikilink">Shadows of the Damned</a></em>[702]</p></td>
-<td><p><a href="../Page/Grasshopper_Manufacture.md" title="wikilink">Grasshopper Manufacture</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shadows_of_the_Damned" title="wikilink">Shadows of the Damned</a></em>[702]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8626,8 +8626,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Shaun_White_Snowboarding.md" title="wikilink">Shaun White Snowboarding</a></em>[703]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shaun_White_Snowboarding" title="wikilink">Shaun White Snowboarding</a></em>[703]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8637,7 +8637,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Shellshock_2:_Blood_Trails.md" title="wikilink">Shellshock 2: Blood Trails</a></em>[704]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shellshock_2:_Blood_Trails" title="wikilink">Shellshock 2: Blood Trails</a></em>[704]</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8648,7 +8648,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Shift_2:_Unleashed.md" title="wikilink">Shift 2: Unleashed</a></em>[705]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shift_2:_Unleashed" title="wikilink">Shift 2: Unleashed</a></em>[705]</p></td>
 <td><p><a href="../Page/Slightly_Mad_Studios.md" title="wikilink">Slightly Mad Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8659,8 +8659,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Shrapnel_(video_game).md" title="wikilink">Shrapnel</a></em>[706]</p></td>
-<td><p><a href="../Page/Zombie_Studios.md" title="wikilink">Zombie Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shrapnel_(video_game)" title="wikilink">Shrapnel</a></em>[706]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zombie_Studios" title="wikilink">Zombie Studios</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8670,8 +8670,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Shrek_Forever_After_(video_game).md" title="wikilink">Shrek Forever After</a></em>[707]</p></td>
-<td><p><a href="../Page/XPEC.md" title="wikilink">XPEC</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Shrek_Forever_After_(video_game)" title="wikilink">Shrek Forever After</a></em>[707]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/XPEC" title="wikilink">XPEC</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8682,7 +8682,7 @@
 <tr class="even">
 <td><p><a href="../Page/沉默之丘：驟雨.md" title="wikilink">沉默之丘：驟雨</a></p></td>
 <td><p>Silent Hill: Downpour[708]</p></td>
-<td><p><a href="../Page/Vatra_Games.md" title="wikilink">Vatra Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Vatra_Games" title="wikilink">Vatra Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8692,8 +8692,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/List_of_Silent_Hill_media.md" title="wikilink">Silent Hill HD Collection</a></em>[709]</p></td>
-<td><p><a href="../Page/Hijinx_Studios.md" title="wikilink">Hijinx Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_Silent_Hill_media" title="wikilink">Silent Hill HD Collection</a></em>[709]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hijinx_Studios" title="wikilink">Hijinx Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8704,7 +8704,7 @@
 <tr class="even">
 <td><p><a href="../Page/沉默之丘：歸鄉.md" title="wikilink">沉默之丘：歸鄉</a></p></td>
 <td><p>Silent Hill Homecoming[710]</p></td>
-<td><p><a href="../Page/Double_Helix_Games.md" title="wikilink">Double Helix Games</a> / <a href="../Page/Konami_Digital_Entertainment.md" title="wikilink">Konami Digital Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Double_Helix_Games" title="wikilink">Double Helix Games</a> / <a href="https://zh.wikipedia.org/wiki/Konami_Digital_Entertainment" title="wikilink">Konami Digital Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8714,8 +8714,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Simpsons_Game.md" title="wikilink">The Simpsons Game</a></em>[711]</p></td>
-<td><p><a href="../Page/EA_Redwood_Shores.md" title="wikilink">EA Redwood Shores</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Simpsons_Game" title="wikilink">The Simpsons Game</a></em>[711]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Redwood_Shores" title="wikilink">EA Redwood Shores</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8725,8 +8725,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Sims_3_(console_video_game).md" title="wikilink">The Sims 3</a></em>[712]</p></td>
-<td><p><a href="../Page/The_Sims_Studio.md" title="wikilink">The Sims Studio</a> / <a href="../Page/Edge_of_Reality.md" title="wikilink">Edge of Reality</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Sims_3_(console_video_game)" title="wikilink">The Sims 3</a></em>[712]</p></td>
+<td><p><a href="../Page/The_Sims_Studio.md" title="wikilink">The Sims Studio</a> / <a href="https://zh.wikipedia.org/wiki/Edge_of_Reality" title="wikilink">Edge of Reality</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8736,7 +8736,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Sims_3:_Pets.md" title="wikilink">The Sims 3: Pets</a></em>[713]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Sims_3:_Pets" title="wikilink">The Sims 3: Pets</a></em>[713]</p></td>
 <td><p><a href="../Page/The_Sims_Studio.md" title="wikilink">The Sims Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8747,8 +8747,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/SingStar_(PlayStation_3).md" title="wikilink">SingStar</a></em>[714]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SingStar_(PlayStation_3)" title="wikilink">SingStar</a></em>[714]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8758,8 +8758,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/SingStar_ABBA.md" title="wikilink">SingStar ABBA</a></em>[715]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SingStar_ABBA" title="wikilink">SingStar ABBA</a></em>[715]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8769,8 +8769,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Latino</a></em>[716]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Latino</a></em>[716]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8780,8 +8780,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Motown</a></em>[717]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Motown</a></em>[717]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8791,8 +8791,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Pop Edition</a></em>[718]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Pop Edition</a></em>[718]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8802,8 +8802,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/SingStar_Queen.md" title="wikilink">SingStar Queen</a></em>[719]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SingStar_Queen" title="wikilink">SingStar Queen</a></em>[719]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8813,8 +8813,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Take That</a></em>[720]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Take That</a></em>[720]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8824,8 +8824,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Vol. 2</a></em>[721]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Vol. 2</a></em>[721]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8835,8 +8835,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/List_of_SingStar_titles_(PlayStation_3).md" title="wikilink">SingStar Vol. 3: Party Edition</a></em>[722]</p></td>
-<td><p><a href="../Page/SCE_London_Studio.md" title="wikilink">SCE London Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_SingStar_titles_(PlayStation_3)" title="wikilink">SingStar Vol. 3: Party Edition</a></em>[722]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_London_Studio" title="wikilink">SCE London Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8846,7 +8846,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Singularity_(video_game).md" title="wikilink">Singularity</a></em>[723]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Singularity_(video_game)" title="wikilink">Singularity</a></em>[723]</p></td>
 <td><p><a href="../Page/Raven_Software.md" title="wikilink">Raven Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8857,19 +8857,19 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Siren:_Blood_Curse.md" title="wikilink">Siren: Blood Curse</a></em>[724]</p></td>
-<td><p><a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Siren:_Blood_Curse" title="wikilink">Siren: Blood Curse</a></em>[724]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Six_Days_in_Fallujah.md" title="wikilink">Six Days in Fallujah</a></em>[725]</p></td>
-<td><p><a href="../Page/Atomic_Games.md" title="wikilink">Atomic Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Six_Days_in_Fallujah" title="wikilink">Six Days in Fallujah</a></em>[725]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Atomic_Games" title="wikilink">Atomic Games</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -8912,7 +8912,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ski-Doo:_Snowmobile_Challenge.md" title="wikilink">Ski-Doo: Snowmobile Challenge</a></em>[729]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ski-Doo:_Snowmobile_Challenge" title="wikilink">Ski-Doo: Snowmobile Challenge</a></em>[729]</p></td>
 <td><p>ColdWood Interactive</p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8923,7 +8923,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Skylanders:_Spyro&#39;s_Adventure.md" title="wikilink">Skylanders: Spyro's Adventure</a></em>[730]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Skylanders:_Spyro&#39;s_Adventure" title="wikilink">Skylanders: Spyro's Adventure</a></em>[730]</p></td>
 <td><p><a href="../Page/Toys_for_Bob.md" title="wikilink">Toys for Bob</a></p></td>
 <td></td>
 <td></td>
@@ -8934,7 +8934,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Skylanders:_Giants.md" title="wikilink">Skylanders: Giants</a></em>[731]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Skylanders:_Giants" title="wikilink">Skylanders: Giants</a></em>[731]</p></td>
 <td><p><a href="../Page/Toys_for_Bob.md" title="wikilink">Toys for Bob</a></p></td>
 <td></td>
 <td></td>
@@ -8945,7 +8945,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Skylanders:_Swap_Force.md" title="wikilink">Skylanders: Swap Force</a></em>[732]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Skylanders:_Swap_Force" title="wikilink">Skylanders: Swap Force</a></em>[732]</p></td>
 <td><p><a href="../Page/Vicarious_Visions.md" title="wikilink">Vicarious Visions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -8967,8 +8967,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Sly_Collection.md" title="wikilink">The Sly Collection</a></em>[733]</p></td>
-<td><p><a href="../Page/Sucker_Punch_Productions.md" title="wikilink">Sucker Punch Productions</a> / <a href="../Page/Sanzaru_Games.md" title="wikilink">Sanzaru Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Sly_Collection" title="wikilink">The Sly Collection</a></em>[733]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sucker_Punch_Productions" title="wikilink">Sucker Punch Productions</a> / <a href="https://zh.wikipedia.org/wiki/Sanzaru_Games" title="wikilink">Sanzaru Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8978,8 +8978,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sly_Cooper:_Thieves_in_Time.md" title="wikilink">Sly Cooper: Thieves in Time</a></em>[734]</p></td>
-<td><p><a href="../Page/Sanzaru_Games.md" title="wikilink">Sanzaru Games</a> / <a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sly_Cooper:_Thieves_in_Time" title="wikilink">Sly Cooper: Thieves in Time</a></em>[734]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sanzaru_Games" title="wikilink">Sanzaru Games</a> / <a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -8989,8 +8989,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Sniper_Elite_V2.md" title="wikilink">Sniper Elite V2</a></em></p></td>
-<td><p><a href="../Page/Rebellion.md" title="wikilink">Rebellion</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sniper_Elite_V2" title="wikilink">Sniper Elite V2</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rebellion" title="wikilink">Rebellion</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9000,8 +9000,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sniper_Elite_III.md" title="wikilink">Sniper Elite III</a></em></p></td>
-<td><p><a href="../Page/Rebellion.md" title="wikilink">Rebellion</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sniper_Elite_III" title="wikilink">Sniper Elite III</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rebellion" title="wikilink">Rebellion</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9011,8 +9011,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Sniper:_Ghost_Warrior.md" title="wikilink">Sniper: Ghost Warrior</a></em>[735]</p></td>
-<td><p><a href="../Page/City_Interactive.md" title="wikilink">City Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sniper:_Ghost_Warrior" title="wikilink">Sniper: Ghost Warrior</a></em>[735]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/City_Interactive" title="wikilink">City Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9022,8 +9022,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sniper:_Ghost_Warrior_2.md" title="wikilink">Sniper: Ghost Warrior 2</a></em>[736]</p></td>
-<td><p><a href="../Page/City_Interactive.md" title="wikilink">City Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sniper:_Ghost_Warrior_2" title="wikilink">Sniper: Ghost Warrior 2</a></em>[736]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/City_Interactive" title="wikilink">City Interactive</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9033,8 +9033,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/SOCOM_4:_U.S._Navy_SEALs.md" title="wikilink">SOCOM 4: U.S. Navy SEALs</a></em>[737]</p></td>
-<td><p><a href="../Page/Zipper_Interactive.md" title="wikilink">Zipper Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SOCOM_4:_U.S._Navy_SEALs" title="wikilink">SOCOM 4: U.S. Navy SEALs</a></em>[737]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zipper_Interactive" title="wikilink">Zipper Interactive</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9044,8 +9044,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/SOCOM:_U.S._Navy_SEALs_Confrontation.md" title="wikilink">SOCOM: U.S. Navy SEALs Confrontation</a></em>[738]</p></td>
-<td><p><a href="../Page/Slant_Six_Games.md" title="wikilink">Slant Six Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SOCOM:_U.S._Navy_SEALs_Confrontation" title="wikilink">SOCOM: U.S. Navy SEALs Confrontation</a></em>[738]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Slant_Six_Games" title="wikilink">Slant Six Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9056,7 +9056,7 @@
 <tr class="even">
 <td><p>命運戰士：報復</p></td>
 <td><p>Soldier of Fortune: Payback[739]</p></td>
-<td><p><a href="../Page/Cauldron_HQ.md" title="wikilink">Cauldron HQ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cauldron_HQ" title="wikilink">Cauldron HQ</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9066,7 +9066,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sonic_Generations.md" title="wikilink">Sonic Generations</a></em>[740]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_Generations" title="wikilink">Sonic Generations</a></em>[740]</p></td>
 <td><p><a href="../Page/Sonic_Team.md" title="wikilink">Sonic Team</a></p></td>
 <td></td>
 <td></td>
@@ -9077,8 +9077,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Sonic_&amp;_Sega_All-Stars_Racing.md" title="wikilink">Sonic &amp; Sega All-Stars Racing</a></em>[741]</p></td>
-<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_Sega_All-Stars_Racing" title="wikilink">Sonic &amp; Sega All-Stars Racing</a></em>[741]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9088,8 +9088,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Sonic_&amp;_All-Stars_Racing_Transformed.md" title="wikilink">Sonic &amp; All-Stars Racing Transformed</a></p></td>
-<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Sonic_&amp;_All-Stars_Racing_Transformed" title="wikilink">Sonic &amp; All-Stars Racing Transformed</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9098,7 +9098,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/刺猬索尼克_(2006年游戏).md" title="wikilink">刺猬索尼克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刺猬索尼克_(2006年游戏)" title="wikilink">刺猬索尼克</a></p></td>
 <td><p>Sonic the Hedgehog[742]</p></td>
 <td><p><a href="../Page/Sonic_Team.md" title="wikilink">Sonic Team</a></p></td>
 <td></td>
@@ -9110,8 +9110,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sonic&#39;s_Ultimate_Genesis_Collection.md" title="wikilink">Sonic's Ultimate Genesis Collection</a></em>[743]</p></td>
-<td><p><a href="../Page/Backbone_Entertainment.md" title="wikilink">Backbone Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic&#39;s_Ultimate_Genesis_Collection" title="wikilink">Sonic's Ultimate Genesis Collection</a></em>[743]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Backbone_Entertainment" title="wikilink">Backbone Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9121,7 +9121,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Sonic_Unleashed.md" title="wikilink">Sonic Unleashed</a></em>[744]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sonic_Unleashed" title="wikilink">Sonic Unleashed</a></em>[744]</p></td>
 <td><p><a href="../Page/Sonic_Team.md" title="wikilink">Sonic Team</a></p></td>
 <td></td>
 <td></td>
@@ -9132,8 +9132,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Sorcery_(video_game).md" title="wikilink">Sorcery</a></em>[745]</p></td>
-<td><p><a href="../Page/The_Workshop.md" title="wikilink">The Workshop</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Sorcery_(video_game)" title="wikilink">Sorcery</a></em>[745]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Workshop" title="wikilink">The Workshop</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9144,7 +9144,7 @@
 <tr class="even">
 <td><p><a href="../Page/劍魂IV.md" title="wikilink">劍魂IV</a></p></td>
 <td><p>Soulcalibur IV[746]</p></td>
-<td><p><a href="../Page/Project_Soul.md" title="wikilink">Project Soul</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Project_Soul" title="wikilink">Project Soul</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9155,7 +9155,7 @@
 <tr class="odd">
 <td><p>劍魂V</p></td>
 <td><p>Soulcalibur V[747]</p></td>
-<td><p><a href="../Page/Project_Soul.md" title="wikilink">Project Soul</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Project_Soul" title="wikilink">Project Soul</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9165,8 +9165,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/South_Park:_The_Stick_of_Truth.md" title="wikilink">South Park: The Stick of Truth</a></em></p></td>
-<td><p><a href="../Page/Obsidian_Entertainment.md" title="wikilink">Obsidian Entertainment</a> / South Park Digital Studios</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/South_Park:_The_Stick_of_Truth" title="wikilink">South Park: The Stick of Truth</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Obsidian_Entertainment" title="wikilink">Obsidian Entertainment</a> / South Park Digital Studios</p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9177,7 +9177,7 @@
 <tr class="odd">
 <td><p><a href="../Page/特種戰線.md" title="wikilink">特種戰線</a></p></td>
 <td><p>Spec Ops: The Line[748]</p></td>
-<td><p><a href="../Page/Yager_Development.md" title="wikilink">Yager Development</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yager_Development" title="wikilink">Yager Development</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9198,8 +9198,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Spider-Man:_Edge_of_Time.md" title="wikilink">Spider-Man: Edge of Time</a></em>[750]</p></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Spider-Man:_Edge_of_Time" title="wikilink">Spider-Man: Edge of Time</a></em>[750]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9209,8 +9209,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Spider-Man:_Shattered_Dimensions.md" title="wikilink">Spider-Man: Shattered Dimensions</a></em>[751]</p></td>
-<td><p><a href="../Page/Beenox.md" title="wikilink">Beenox</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Spider-Man:_Shattered_Dimensions" title="wikilink">Spider-Man: Shattered Dimensions</a></em>[751]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Beenox" title="wikilink">Beenox</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9220,7 +9220,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Spider-Man:_Web_of_Shadows.md" title="wikilink">Spider-Man: Web of Shadows</a></em>[752]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Spider-Man:_Web_of_Shadows" title="wikilink">Spider-Man: Web of Shadows</a></em>[752]</p></td>
 <td><p><a href="../Page/Treyarch.md" title="wikilink">Treyarch</a> / <a href="../Page/Shaba_Games.md" title="wikilink">Shaba Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9231,8 +9231,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Splatterhouse_(2010_video_game).md" title="wikilink">Splatterhouse</a></em>[753]</p></td>
-<td><p><a href="../Page/BottleRocket_Entertainment.md" title="wikilink">BottleRocket Entertainment</a> / <a href="../Page/Namco_Bandai_Games.md" title="wikilink">Namco Bandai Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Splatterhouse_(2010_video_game)" title="wikilink">Splatterhouse</a></em>[753]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BottleRocket_Entertainment" title="wikilink">BottleRocket Entertainment</a> / <a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9242,8 +9242,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Split_Second:_Velocity.md" title="wikilink">Split/Second: Velocity</a></em>[754][755]</p></td>
-<td><p><a href="../Page/Black_Rock_Studio.md" title="wikilink">Black Rock Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Split_Second:_Velocity" title="wikilink">Split/Second: Velocity</a></em>[754][755]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Black_Rock_Studio" title="wikilink">Black Rock Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9253,8 +9253,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="../Page/Sports_Champions.md" title="wikilink">Sports Champions</a></p></td>
-<td><p><a href="../Page/Zindagi_Games.md" title="wikilink">Zindagi Games</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Sports_Champions" title="wikilink">Sports Champions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zindagi_Games" title="wikilink">Zindagi Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9264,8 +9264,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Sports_Champions_2.md" title="wikilink">Sports Champions 2</a></p></td>
-<td><p><a href="../Page/Zindagi_Games.md" title="wikilink">Zindagi Games</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Sports_Champions_2" title="wikilink">Sports Champions 2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zindagi_Games" title="wikilink">Zindagi Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9275,8 +9275,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/SSX_(2012_video_game).md" title="wikilink">SSX</a></em>[756]</p></td>
-<td><p><a href="../Page/Electronic_Arts.md" title="wikilink">Electronic Arts</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SSX_(2012_video_game)" title="wikilink">SSX</a></em>[756]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9286,8 +9286,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Star_Ocean:_The_Last_Hope_International.md" title="wikilink">Star Ocean: The Last Hope International</a></em>[757]</p></td>
-<td><p><a href="../Page/tri-Ace.md" title="wikilink">tri-Ace</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Ocean:_The_Last_Hope_International" title="wikilink">Star Ocean: The Last Hope International</a></em>[757]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tri-Ace" title="wikilink">tri-Ace</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9297,8 +9297,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Star_Ocean:_Integrity_and_Faithlessness.md" title="wikilink">Star Ocean: Integrity and Faithlessness</a></em>[758]</p></td>
-<td><p><a href="../Page/tri-Ace.md" title="wikilink">tri-Ace</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Ocean:_Integrity_and_Faithlessness" title="wikilink">Star Ocean: Integrity and Faithlessness</a></em>[758]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tri-Ace" title="wikilink">tri-Ace</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9308,8 +9308,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>''<a href="../Page/Star_Trek_(2013_video_game).md" title="wikilink">Star Trek (2013 video game)</a></p></td>
-<td><p><a href="../Page/Digital_Extremes.md" title="wikilink">Digital Extremes</a></p></td>
+<td><p>''<a href="https://zh.wikipedia.org/wiki/Star_Trek_(2013_video_game)" title="wikilink">Star Trek (2013 video game)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Digital_Extremes" title="wikilink">Digital Extremes</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9319,7 +9319,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Star_Wars:_The_Clone_Wars_–_Republic_Heroes.md" title="wikilink">Star Wars: The Clone Wars – Republic Heroes</a></em>[759]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_–_Republic_Heroes" title="wikilink">Star Wars: The Clone Wars – Republic Heroes</a></em>[759]</p></td>
 <td><p><a href="../Page/Krome_Studios.md" title="wikilink">Krome Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9331,7 +9331,7 @@
 <tr class="odd">
 <td><p><a href="../Page/星際大戰：原力釋放.md" title="wikilink">星際大戰：原力釋放</a></p></td>
 <td><p><em>Star Wars: The Force Unleashed</em>[760]</p></td>
-<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9340,9 +9340,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/星球大戰：原力釋放_II.md" title="wikilink">星球大戰：原力釋放 II</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星球大戰：原力釋放_II" title="wikilink">星球大戰：原力釋放 II</a></p></td>
 <td><p><em>Star Wars: The Force Unleashed II</em>[761]</p></td>
-<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9352,8 +9352,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Starhawk_(2012_video_game).md" title="wikilink">Starhawk</a></em>[762]</p></td>
-<td><p><a href="../Page/LightBox_Interactive.md" title="wikilink">LightBox Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Starhawk_(2012_video_game)" title="wikilink">Starhawk</a></em>[762]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LightBox_Interactive" title="wikilink">LightBox Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9363,8 +9363,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Start_the_Party.md" title="wikilink">Start the Party</a></em></p></td>
-<td><p><a href="../Page/Supermassive_Games.md" title="wikilink">Supermassive Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Start_the_Party" title="wikilink">Start the Party</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Supermassive_Games" title="wikilink">Supermassive Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9374,8 +9374,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Stormrise.md" title="wikilink">Stormrise</a></em>[763]</p></td>
-<td><p><a href="../Page/The_Creative_Assembly.md" title="wikilink">The Creative Assembly</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Stormrise" title="wikilink">Stormrise</a></em>[763]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Creative_Assembly" title="wikilink">The Creative Assembly</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9386,7 +9386,7 @@
 <tr class="even">
 <td><p><a href="../Page/街頭霸王IV.md" title="wikilink">街頭霸王IV</a></p></td>
 <td><p><em>Street Fighter IV</em>[764]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9397,7 +9397,7 @@
 <tr class="odd">
 <td><p><a href="../Page/快打旋風_X_鐵拳.md" title="wikilink">快打旋風 X 鐵拳</a></p></td>
 <td><p><em>Street Fighter X Tekken</em>[765]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/Namco.md" title="wikilink">Namco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="https://zh.wikipedia.org/wiki/Namco" title="wikilink">Namco</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9407,8 +9407,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Strength_of_the_Sword_3.md" title="wikilink">Strength of the Sword 3</a></em>[766]</p></td>
-<td><p><a href="../Page/Ivent_Studios.md" title="wikilink">Ivent Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Strength_of_the_Sword_3" title="wikilink">Strength of the Sword 3</a></em>[766]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ivent_Studios" title="wikilink">Ivent Studios</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9419,7 +9419,7 @@
 <tr class="odd">
 <td><p>特技人：引爆</p></td>
 <td><p><em>Stuntman: Ignition</em>[767]</p></td>
-<td><p><a href="../Page/Paradigm_Entertainment.md" title="wikilink">Paradigm Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Paradigm_Entertainment" title="wikilink">Paradigm Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9429,8 +9429,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Super_Street_Fighter_IV.md" title="wikilink">Super Street Fighter IV</a></em>[768]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Super_Street_Fighter_IV" title="wikilink">Super Street Fighter IV</a></em>[768]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9440,8 +9440,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/SuperCar_Challenge.md" title="wikilink">SuperCar Challenge</a></em>[769]</p></td>
-<td><p><a href="../Page/Eutechnyx.md" title="wikilink">Eutechnyx</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/SuperCar_Challenge" title="wikilink">SuperCar Challenge</a></em>[769]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9451,8 +9451,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Superstars_V8_Racing.md" title="wikilink">Superstars V8 Racing</a></em>[770]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Superstars_V8_Racing" title="wikilink">Superstars V8 Racing</a></em>[770]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9462,8 +9462,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Supremacy_MMA.md" title="wikilink">Supremacy MMA</a></em>[771]</p></td>
-<td><p><a href="../Page/Kung_Fu_Factory.md" title="wikilink">Kung Fu Factory</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Supremacy_MMA" title="wikilink">Supremacy MMA</a></em>[771]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kung_Fu_Factory" title="wikilink">Kung Fu Factory</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9473,8 +9473,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Surf&#39;s_Up_(video_game).md" title="wikilink">Surf's Up</a></em>[772]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Surf&#39;s_Up_(video_game)" title="wikilink">Surf's Up</a></em>[772]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9484,8 +9484,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Syndicate_(2012_video_game).md" title="wikilink">Syndicate</a></em>[773]</p></td>
-<td><p><a href="../Page/Starbreeze_Studios.md" title="wikilink">Starbreeze Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Syndicate_(2012_video_game)" title="wikilink">Syndicate</a></em>[773]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Starbreeze_Studios" title="wikilink">Starbreeze Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9495,8 +9495,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="T"></span><em><a href="../Page/Tales_of_Graces_ƒ.md" title="wikilink">Tales of Graces ƒ</a></em>[774]</p></td>
-<td><p><a href="../Page/Namco_Tales_Studio.md" title="wikilink">Namco Tales Studio</a></p></td>
+<td><p><span id="T"></span><em><a href="https://zh.wikipedia.org/wiki/Tales_of_Graces_ƒ" title="wikilink">Tales of Graces ƒ</a></em>[774]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Tales_Studio" title="wikilink">Namco Tales Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9506,8 +9506,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tales_of_Symphonia_Unisonant_Pack.md" title="wikilink">Tales of Symphonia Unisonant Pack</a></em>[775]</p></td>
-<td><p><a href="../Page/Namco_Bandai_Games.md" title="wikilink">Namco Bandai Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tales_of_Symphonia_Unisonant_Pack" title="wikilink">Tales of Symphonia Unisonant Pack</a></em>[775]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9518,7 +9518,7 @@
 <tr class="even">
 <td><p><a href="../Page/宵星傳奇.md" title="wikilink">宵星傳奇</a></p></td>
 <td><p><em>Tales of Vesperia</em>[776]</p></td>
-<td><p><a href="../Page/Namco_Tales_Studio.md" title="wikilink">Namco Tales Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Tales_Studio" title="wikilink">Namco Tales Studio</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9528,8 +9528,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tales_of_Xillia.md" title="wikilink">Tales of Xillia</a></em>[777]</p></td>
-<td><p><a href="../Page/Namco_Tales_Studio.md" title="wikilink">Namco Tales Studio</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tales_of_Xillia" title="wikilink">Tales of Xillia</a></em>[777]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Tales_Studio" title="wikilink">Namco Tales Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9539,8 +9539,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tales_of_Xillia_2.md" title="wikilink">Tales of Xillia 2</a></em>[778]</p></td>
-<td><p><a href="../Page/Namco_Bandai_Games.md" title="wikilink">Namco Bandai Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tales_of_Xillia_2" title="wikilink">Tales of Xillia 2</a></em>[778]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9550,8 +9550,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tales_of_Zestiria.md" title="wikilink">Tales of Zestiria</a></em>[779]</p></td>
-<td><p><a href="../Page/Namco_Bandai_Games.md" title="wikilink">Namco Bandai Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tales_of_Zestiria" title="wikilink">Tales of Zestiria</a></em>[779]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9561,8 +9561,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tears_to_Tiara.md" title="wikilink">Tears to Tiara: Earth's Wreath</a></em>[780]</p></td>
-<td><p><a href="../Page/Aquaplus.md" title="wikilink">Aquaplus</a> / <a href="../Page/Leaf_(Japanese_company).md" title="wikilink">Leaf</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tears_to_Tiara" title="wikilink">Tears to Tiara: Earth's Wreath</a></em>[780]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aquaplus" title="wikilink">Aquaplus</a> / <a href="https://zh.wikipedia.org/wiki/Leaf_(Japanese_company)" title="wikilink">Leaf</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9572,8 +9572,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tears_to_Tiara#Games.md" title="wikilink">Tears to Tiara Side Story: Mystery of Avalon</a></em></p></td>
-<td><p><a href="../Page/Aquaplus.md" title="wikilink">Aquaplus</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tears_to_Tiara#Games" title="wikilink">Tears to Tiara Side Story: Mystery of Avalon</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aquaplus" title="wikilink">Aquaplus</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9584,7 +9584,7 @@
 <tr class="even">
 <td><p>鐵拳6</p></td>
 <td><p><em>Tekken 6</em>[781]</p></td>
-<td><p><a href="../Page/Namco_Bandai.md" title="wikilink">Namco Bandai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai" title="wikilink">Namco Bandai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9594,8 +9594,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tekken_Tag_Tournament.md" title="wikilink">Tekken Hybrid</a></em>[782]</p></td>
-<td><p><a href="../Page/Namco.md" title="wikilink">Namco</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tekken_Tag_Tournament" title="wikilink">Tekken Hybrid</a></em>[782]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco" title="wikilink">Namco</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9605,8 +9605,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tekken_Tag_Tournament_2.md" title="wikilink">Tekken Tag Tournament 2</a></em>[783]</p></td>
-<td><p><a href="../Page/Namco.md" title="wikilink">Namco</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tekken_Tag_Tournament_2" title="wikilink">Tekken Tag Tournament 2</a></em>[783]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco" title="wikilink">Namco</a></p></td>
 <td><p>未發行</p></td>
 <td></td>
 <td></td>
@@ -9616,8 +9616,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Terminator_Salvation_(video_game).md" title="wikilink">Terminator Salvation</a></em>[784]</p></td>
-<td><p><a href="../Page/GRIN_(company).md" title="wikilink">GRIN</a> / <a href="../Page/The_Halcyon_Company.md" title="wikilink">Halcyon Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Terminator_Salvation_(video_game)" title="wikilink">Terminator Salvation</a></em>[784]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GRIN_(company)" title="wikilink">GRIN</a> / <a href="https://zh.wikipedia.org/wiki/The_Halcyon_Company" title="wikilink">Halcyon Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9627,8 +9627,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Test_Drive_Unlimited_2.md" title="wikilink">Test Drive Unlimited 2</a></em>[785]</p></td>
-<td><p><a href="../Page/Eden_Games.md" title="wikilink">Eden Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Test_Drive_Unlimited_2" title="wikilink">Test Drive Unlimited 2</a></em>[785]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eden_Games" title="wikilink">Eden Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9638,8 +9638,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Bigs.md" title="wikilink">The Bigs</a></em>[786]</p></td>
-<td><p><a href="../Page/Blue_Castle_Games.md" title="wikilink">Blue Castle Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Bigs" title="wikilink">The Bigs</a></em>[786]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Castle_Games" title="wikilink">Blue Castle Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -9649,8 +9649,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Bigs_2.md" title="wikilink">The Bigs 2</a></em>[787]</p></td>
-<td><p><a href="../Page/Blue_Castle_Games.md" title="wikilink">Blue Castle Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Bigs_2" title="wikilink">The Bigs 2</a></em>[787]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blue_Castle_Games" title="wikilink">Blue Castle Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9660,7 +9660,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Robert_Ludlum&#39;s_The_Bourne_Conspiracy.md" title="wikilink">The Bourne Conspiracy</a></em>[788]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Robert_Ludlum&#39;s_The_Bourne_Conspiracy" title="wikilink">The Bourne Conspiracy</a></em>[788]</p></td>
 <td><p><a href="../Page/High_Moon_Studios.md" title="wikilink">High Moon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9671,8 +9671,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Bureau:_XCOM_Declassified.md" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
-<td><p><a href="../Page/2k_Marin.md" title="wikilink">2k Marin</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Bureau:_XCOM_Declassified" title="wikilink">The Bureau: XCOM Declassified</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2k_Marin" title="wikilink">2k Marin</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9682,8 +9682,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game).md" title="wikilink">The Chronicles of Narnia: Prince Caspian</a></em>[789]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian_(video_game)" title="wikilink">The Chronicles of Narnia: Prince Caspian</a></em>[789]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9693,8 +9693,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Chronicles_of_Riddick:_Assault_on_Dark_Athena.md" title="wikilink">The Chronicles of Riddick: Assault on Dark Athena</a></em>[790]</p></td>
-<td><p><a href="../Page/Starbreeze_Studios.md" title="wikilink">Starbreeze Studios</a> / <a href="../Page/Tigon_Studios.md" title="wikilink">Tigon Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Chronicles_of_Riddick:_Assault_on_Dark_Athena" title="wikilink">The Chronicles of Riddick: Assault on Dark Athena</a></em>[790]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Starbreeze_Studios" title="wikilink">Starbreeze Studios</a> / <a href="https://zh.wikipedia.org/wiki/Tigon_Studios" title="wikilink">Tigon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9704,7 +9704,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Club_(video_game).md" title="wikilink">The Club</a></em>[791]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Club_(video_game)" title="wikilink">The Club</a></em>[791]</p></td>
 <td><p><a href="../Page/Bizarre_Creations.md" title="wikilink">Bizarre Creations</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9714,9 +9714,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/聖戰魔咒.md" title="wikilink">聖戰魔咒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/聖戰魔咒" title="wikilink">聖戰魔咒</a></p></td>
 <td><p><em>The Cursed Crusade</em>[792]</p></td>
-<td><p><a href="../Page/Kylotonn_Entertainment.md" title="wikilink">Kylotonn Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kylotonn_Entertainment" title="wikilink">Kylotonn Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9726,8 +9726,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Darkness_(video_game).md" title="wikilink">The Darkness</a></em>[793]</p></td>
-<td><p><a href="../Page/Starbreeze_Studios.md" title="wikilink">Starbreeze Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Darkness_(video_game)" title="wikilink">The Darkness</a></em>[793]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Starbreeze_Studios" title="wikilink">Starbreeze Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9737,8 +9737,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Darkness_II.md" title="wikilink">The Darkness II</a></em>[794]</p></td>
-<td><p><a href="../Page/Digital_Extremes.md" title="wikilink">Digital Extremes</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Darkness_II" title="wikilink">The Darkness II</a></em>[794]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Digital_Extremes" title="wikilink">Digital Extremes</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9749,7 +9749,7 @@
 <tr class="odd">
 <td><p><a href="../Page/偶像大師2.md" title="wikilink">偶像大師2</a></p></td>
 <td><p><em>The Idolmaster 2</em>[795]</p></td>
-<td><p><a href="../Page/Namco.md" title="wikilink">Namco</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco" title="wikilink">Namco</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9760,7 +9760,7 @@
 <tr class="even">
 <td><p><a href="../Page/偶像大師_全力以赴.md" title="wikilink">偶像大師 全力以赴</a></p></td>
 <td><p><em>The Idolmaster One For All</em></p></td>
-<td><p><a href="../Page/Bandai_Namco_Games.md" title="wikilink">Bandai Namco Games</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bandai_Namco_Games" title="wikilink">Bandai Namco Games</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -9770,8 +9770,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Lego_Movie_Videogame.md" title="wikilink">The Lego Movie Videogame</a></em></p></td>
-<td><p><a href="../Page/TT_Games.md" title="wikilink">TT Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Lego_Movie_Videogame" title="wikilink">The Lego Movie Videogame</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TT_Games" title="wikilink">TT Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9781,8 +9781,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Shoot.md" title="wikilink">The Shoot</a></em></p></td>
-<td><p><a href="../Page/Cohort_Studios.md" title="wikilink">Cohort Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Shoot" title="wikilink">The Shoot</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cohort_Studios" title="wikilink">Cohort Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9793,7 +9793,7 @@
 <tr class="odd">
 <td><p>它们</p></td>
 <td><p><em>They</em>[796]</p></td>
-<td><p><a href="../Page/Metropolis_Software.md" title="wikilink">Metropolis Software</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Metropolis_Software" title="wikilink">Metropolis Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -9803,8 +9803,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Thief_(2014_video_game).md" title="wikilink">Thief</a></em>[797]</p></td>
-<td><p><a href="../Page/Eidos_Montreal.md" title="wikilink">Eidos Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Thief_(2014_video_game)" title="wikilink">Thief</a></em>[797]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Montreal" title="wikilink">Eidos Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9814,8 +9814,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/This_is_Vegas.md" title="wikilink">This is Vegas</a></em>[798]</p></td>
-<td><p><a href="../Page/Surreal_Software.md" title="wikilink">Surreal Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/This_is_Vegas" title="wikilink">This is Vegas</a></em>[798]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Surreal_Software" title="wikilink">Surreal Software</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -9825,8 +9825,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Thor:_God_of_Thunder.md" title="wikilink">Thor: God of Thunder</a></em>[799]</p></td>
-<td><p><a href="../Page/Liquid_Entertainment.md" title="wikilink">Liquid Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Thor:_God_of_Thunder" title="wikilink">Thor: God of Thunder</a></em>[799]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Liquid_Entertainment" title="wikilink">Liquid Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9837,7 +9837,7 @@
 <tr class="odd">
 <td><p>老虎伍茲 07</p></td>
 <td><p><em>Tiger Woods PGA Tour 07</em>[800]</p></td>
-<td><p><a href="../Page/EA_Redwood_Shores.md" title="wikilink">EA Redwood Shores</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Redwood_Shores" title="wikilink">EA Redwood Shores</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9924,8 +9924,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Time_and_Eternity.md" title="wikilink">Time and Eternity</a></em></p></td>
-<td><p><a href="../Page/Image_Epoch.md" title="wikilink">Image Epoch</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Time_and_Eternity" title="wikilink">Time and Eternity</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Image_Epoch" title="wikilink">Image Epoch</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9936,7 +9936,7 @@
 <tr class="even">
 <td><p><a href="../Page/火線危機4.md" title="wikilink">火線危機4</a></p></td>
 <td><p><em>Time Crisis 4</em>[808]</p></td>
-<td><p><a href="../Page/Nex_Entertainment.md" title="wikilink">Nex Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nex_Entertainment" title="wikilink">Nex Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9946,8 +9946,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Time_Crisis:_Razing_Storm.md" title="wikilink">Time Crisis: Razing Storm</a></em></p></td>
-<td><p><a href="../Page/Nex_Entertainment.md" title="wikilink">Nex Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Time_Crisis:_Razing_Storm" title="wikilink">Time Crisis: Razing Storm</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nex_Entertainment" title="wikilink">Nex Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9957,8 +9957,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/TimeO.md" title="wikilink">TimeO</a></em>[809]</p></td>
-<td><p><a href="../Page/ZootFly.md" title="wikilink">ZootFly</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/TimeO" title="wikilink">TimeO</a></em>[809]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ZootFly" title="wikilink">ZootFly</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -9968,8 +9968,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/TimeShift.md" title="wikilink">TimeShift</a></em>[810]</p></td>
-<td><p><a href="../Page/Saber_Interactive.md" title="wikilink">Saber Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/TimeShift" title="wikilink">TimeShift</a></em>[810]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saber_Interactive" title="wikilink">Saber Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9979,8 +9979,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/TNA_Impact!_(video_game).md" title="wikilink">TNA Impact!</a></em>[811]</p></td>
-<td><p><a href="../Page/Midway_Studios_–_Los_Angeles.md" title="wikilink">Midway Studios – Los Angeles</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/TNA_Impact!_(video_game)" title="wikilink">TNA Impact!</a></em>[811]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Studios_–_Los_Angeles" title="wikilink">Midway Studios – Los Angeles</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -9990,8 +9990,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/To_End_All_Wars_(video_game).md" title="wikilink">To End All Wars</a></em>[812]</p></td>
-<td><p><a href="../Page/Kuju_Entertainment.md" title="wikilink">Kuju Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/To_End_All_Wars_(video_game)" title="wikilink">To End All Wars</a></em>[812]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kuju_Entertainment" title="wikilink">Kuju Entertainment</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -10001,8 +10001,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tokyo_Jungle.md" title="wikilink">Tokyo Jungle</a></em>[813]</p></td>
-<td><p><a href="../Page/PlayStation_C.A.M.P..md" title="wikilink">PlayStation C.A.M.P.</a> / <a href="../Page/Crispy&#39;s.md" title="wikilink">Crispy's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tokyo_Jungle" title="wikilink">Tokyo Jungle</a></em>[813]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation_C.A.M.P." title="wikilink">PlayStation C.A.M.P.</a> / <a href="https://zh.wikipedia.org/wiki/Crispy&#39;s" title="wikilink">Crispy's</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10012,8 +10012,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tokyo_Twilight_Ghost_Hunters.md" title="wikilink">Tokyo Twilight Ghost Hunters</a></em></p></td>
-<td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a> , <a href="../Page/Aksys_Games.md" title="wikilink">Aksys Games</a> , <a href="../Page/NIS_America.md" title="wikilink">NIS America</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tokyo_Twilight_Ghost_Hunters" title="wikilink">Tokyo Twilight Ghost Hunters</a></em></p></td>
+<td><p><a href="../Page/Arc_System_Works.md" title="wikilink">Arc System Works</a> , <a href="https://zh.wikipedia.org/wiki/Aksys_Games" title="wikilink">Aksys Games</a> , <a href="https://zh.wikipedia.org/wiki/NIS_America" title="wikilink">NIS America</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10024,7 +10024,7 @@
 <tr class="even">
 <td><p><a href="../Page/汤姆·克兰西：末日之战.md" title="wikilink">汤姆·克兰西：末日之战</a></p></td>
 <td><p><em>Tom Clancy's EndWar</em>[814]</p></td>
-<td><p><a href="../Page/Ubisoft_Shanghai.md" title="wikilink">Ubisoft Shanghai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Shanghai" title="wikilink">Ubisoft Shanghai</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10035,7 +10035,7 @@
 <tr class="odd">
 <td><p><a href="../Page/火線獵殺：先進戰士2.md" title="wikilink">火線獵殺：先進戰士2</a></p></td>
 <td><p><em>Tom Clancy's Ghost Recon Advanced Warfighter 2</em>[815]</p></td>
-<td><p><a href="../Page/Red_Storm_Entertainment.md" title="wikilink">Red Storm Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Red_Storm_Entertainment" title="wikilink">Red Storm Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10045,8 +10045,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tom_Clancy&#39;s_Ghost_Recon:_Future_Soldier.md" title="wikilink">Tom Clancy's Ghost Recon: Future Soldier</a></em>[816]</p></td>
-<td><p><a href="../Page/Ubisoft_Paris.md" title="wikilink">Ubisoft Paris</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tom_Clancy&#39;s_Ghost_Recon:_Future_Soldier" title="wikilink">Tom Clancy's Ghost Recon: Future Soldier</a></em>[816]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Paris" title="wikilink">Ubisoft Paris</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10057,7 +10057,7 @@
 <tr class="odd">
 <td><p><a href="../Page/鹰击长空.md" title="wikilink">鹰击长空</a></p></td>
 <td><p><em>Tom Clancy's H.A.W.X</em>[817]</p></td>
-<td><p><a href="../Page/Ubisoft_Romania.md" title="wikilink">Ubisoft Romania</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Romania" title="wikilink">Ubisoft Romania</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10067,8 +10067,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tom_Clancy&#39;s_H.A.W.X_2.md" title="wikilink">Tom Clancy's H.A.W.X 2</a></em>[818]</p></td>
-<td><p><a href="../Page/Ubisoft_Romania.md" title="wikilink">Ubisoft Romania</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tom_Clancy&#39;s_H.A.W.X_2" title="wikilink">Tom Clancy's H.A.W.X 2</a></em>[818]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Romania" title="wikilink">Ubisoft Romania</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10079,7 +10079,7 @@
 <tr class="odd">
 <td><p>彩虹六號：拉斯維加斯</p></td>
 <td><p><em>Tom Clancy's Rainbow Six: Vegas</em>[819]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10089,8 +10089,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tom_Clancy&#39;s_Rainbow_Six:_Vegas_2.md" title="wikilink">Tom Clancy's Rainbow Six: Vegas 2</a></em>[820]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tom_Clancy&#39;s_Rainbow_Six:_Vegas_2" title="wikilink">Tom Clancy's Rainbow Six: Vegas 2</a></em>[820]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10101,7 +10101,7 @@
 <tr class="odd">
 <td><p><a href="../Page/縱橫諜海：黑名單.md" title="wikilink">縱橫諜海：黑名單</a></p></td>
 <td><p><em>Tom Clancy's Splinter Cell: Blacklist</em>[821]</p></td>
-<td><p><a href="../Page/Ubisoft.md" title="wikilink">Ubisoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10111,8 +10111,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tom_Clancy&#39;s_Splinter_Cell_Classic_Trilogy_HD.md" title="wikilink">Tom Clancy's Splinter Cell Classic Trilogy HD</a></em>[822]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tom_Clancy&#39;s_Splinter_Cell_Classic_Trilogy_HD" title="wikilink">Tom Clancy's Splinter Cell Classic Trilogy HD</a></em>[822]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10123,7 +10123,7 @@
 <tr class="odd">
 <td><p><a href="../Page/细胞分裂：双重间谍.md" title="wikilink">细胞分裂：双重间谍</a></p></td>
 <td><p><em>Tom Clancy's Splinter Cell: Double Agent</em>[823]</p></td>
-<td><p><a href="../Page/Ubisoft_Shanghai.md" title="wikilink">Ubisoft Shanghai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Shanghai" title="wikilink">Ubisoft Shanghai</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10134,7 +10134,7 @@
 <tr class="even">
 <td><p><a href="../Page/古墓丽影_(2013年游戏).md" title="wikilink">古墓丽影</a></p></td>
 <td><p><em>Tomb Raider</em>[824]</p></td>
-<td><p><a href="../Page/Crystal_Dynamics.md" title="wikilink">Crystal Dynamics</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crystal_Dynamics" title="wikilink">Crystal Dynamics</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10144,8 +10144,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/List_of_Tomb_Raider_media#The_Tomb_Raider_Trilogy.md" title="wikilink">The Tomb Raider Trilogy</a></em>[825]</p></td>
-<td><p><a href="../Page/Crystal_Dynamics.md" title="wikilink">Crystal Dynamics</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/List_of_Tomb_Raider_media#The_Tomb_Raider_Trilogy" title="wikilink">The Tomb Raider Trilogy</a></em>[825]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crystal_Dynamics" title="wikilink">Crystal Dynamics</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10156,7 +10156,7 @@
 <tr class="even">
 <td><p><a href="../Page/古墓丽影：地下世界.md" title="wikilink">古墓丽影：地下世界</a></p></td>
 <td><p><em>Tomb Raider: Underworld</em>[826]</p></td>
-<td><p><a href="../Page/Crystal_Dynamics.md" title="wikilink">Crystal Dynamics</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crystal_Dynamics" title="wikilink">Crystal Dynamics</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10166,7 +10166,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tony_Hawk&#39;s_Project_8.md" title="wikilink">Tony Hawk's Project 8</a></em>[827]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tony_Hawk&#39;s_Project_8" title="wikilink">Tony Hawk's Project 8</a></em>[827]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10177,7 +10177,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tony_Hawk&#39;s_Proving_Ground.md" title="wikilink">Tony Hawk's Proving Ground</a></em>[828]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tony_Hawk&#39;s_Proving_Ground" title="wikilink">Tony Hawk's Proving Ground</a></em>[828]</p></td>
 <td><p><a href="../Page/Neversoft.md" title="wikilink">Neversoft</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10188,8 +10188,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Tony_Hawk:_Ride.md" title="wikilink">Tony Hawk: Ride</a></em>[829]</p></td>
-<td><p><a href="../Page/Robomodo.md" title="wikilink">Robomodo</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tony_Hawk:_Ride" title="wikilink">Tony Hawk: Ride</a></em>[829]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Robomodo" title="wikilink">Robomodo</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10199,8 +10199,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tony_Hawk:_Shred.md" title="wikilink">Tony Hawk: Shred</a></em>[830]</p></td>
-<td><p><a href="../Page/Robomodo.md" title="wikilink">Robomodo</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tony_Hawk:_Shred" title="wikilink">Tony Hawk: Shred</a></em>[830]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Robomodo" title="wikilink">Robomodo</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10210,8 +10210,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Top_Gun:_Hard_Lock.md" title="wikilink">Top Gun: Hard Lock</a></em>[831]</p></td>
-<td><p><a href="../Page/Headstrong_Games.md" title="wikilink">Headstrong Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Top_Gun:_Hard_Lock" title="wikilink">Top Gun: Hard Lock</a></em>[831]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Headstrong_Games" title="wikilink">Headstrong Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10221,7 +10221,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Top_Spin_3.md" title="wikilink">Top Spin 3</a></em>[832]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Top_Spin_3" title="wikilink">Top Spin 3</a></em>[832]</p></td>
 <td><p><a href="../Page/PAM_Development.md" title="wikilink">PAM Development</a></p></td>
 <td></td>
 <td></td>
@@ -10232,7 +10232,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Top_Spin_4.md" title="wikilink">Top Spin 4</a></em>[833]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Top_Spin_4" title="wikilink">Top Spin 4</a></em>[833]</p></td>
 <td><p><a href="../Page/2K_Czech.md" title="wikilink">2K Czech</a></p></td>
 <td></td>
 <td></td>
@@ -10243,8 +10243,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tornado_Outbreak.md" title="wikilink">Tornado Outbreak</a></em>[834]</p></td>
-<td><p><a href="../Page/Loose_Cannon_Studios.md" title="wikilink">Loose Cannon Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tornado_Outbreak" title="wikilink">Tornado Outbreak</a></em>[834]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Loose_Cannon_Studios" title="wikilink">Loose Cannon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10254,8 +10254,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Toro_to_Morimori.md" title="wikilink">Toro to Morimori</a></em>[835]</p></td>
-<td><p><a href="../Page/SCEI.md" title="wikilink">SCEI</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Toro_to_Morimori" title="wikilink">Toro to Morimori</a></em>[835]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCEI" title="wikilink">SCEI</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10265,8 +10265,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Toy_Story_3:_The_Video_Game.md" title="wikilink">Toy Story 3: The Video Game</a></em>[836]</p></td>
-<td><p><a href="../Page/Avalanche_Software.md" title="wikilink">Avalanche Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Toy_Story_3:_The_Video_Game" title="wikilink">Toy Story 3: The Video Game</a></em>[836]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Avalanche_Software" title="wikilink">Avalanche Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10277,7 +10277,7 @@
 <tr class="odd">
 <td><p><a href="../Page/玩具總動員瘋狂遊戲屋.md" title="wikilink">玩具總動員瘋狂遊戲屋</a></p></td>
 <td><p><em>Toy Story Mania</em></p></td>
-<td><p><a href="../Page/Disney_Interactive_Studios.md" title="wikilink">Disney Interactive Studios</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Disney_Interactive_Studios" title="wikilink">Disney Interactive Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10287,7 +10287,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Transformers:_Dark_of_the_Moon_(video_game).md" title="wikilink">Transformers: Dark of the Moon</a></em>[837]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon_(video_game)" title="wikilink">Transformers: Dark of the Moon</a></em>[837]</p></td>
 <td><p><a href="../Page/High_Moon_Studios.md" title="wikilink">High Moon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10298,8 +10298,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Transformers:_The_Game.md" title="wikilink">Transformers: The Game</a></em>[838]</p></td>
-<td><p><a href="../Page/Traveller&#39;s_Tales.md" title="wikilink">Traveller's Tales</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_The_Game" title="wikilink">Transformers: The Game</a></em>[838]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10309,7 +10309,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Transformers:_Revenge_of_the_Fallen_(video_game).md" title="wikilink">Transformers: Revenge of the Fallen</a></em>[839]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_Revenge_of_the_Fallen_(video_game)" title="wikilink">Transformers: Revenge of the Fallen</a></em>[839]</p></td>
 <td><p><a href="../Page/Luxoflux.md" title="wikilink">Luxoflux</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10320,8 +10320,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Transformers:_Rise_of_the_Dark_Spark.md" title="wikilink">Transformers: Rise of the Dark Spark</a></em>[840]</p></td>
-<td><p><a href="../Page/Edge_of_Reality.md" title="wikilink">Edge of Reality</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Transformers:_Rise_of_the_Dark_Spark" title="wikilink">Transformers: Rise of the Dark Spark</a></em>[840]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Edge_of_Reality" title="wikilink">Edge of Reality</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10342,8 +10342,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Trinity_Universe_(video_game).md" title="wikilink">Trinity Universe</a></em>[842]</p></td>
-<td><p><a href="../Page/Nippon_Ichi_Software.md" title="wikilink">Nippon Ichi Software</a> / <a href="../Page/Gust_Corporation.md" title="wikilink">Gust Corporation</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Trinity_Universe_(video_game)" title="wikilink">Trinity Universe</a></em>[842]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi_Software" title="wikilink">Nippon Ichi Software</a> / <a href="https://zh.wikipedia.org/wiki/Gust_Corporation" title="wikilink">Gust Corporation</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10353,8 +10353,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Trinity:_Souls_of_Zill_O’ll.md" title="wikilink">Trinity: Souls of Zill O’ll</a></em>[843]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Trinity:_Souls_of_Zill_O’ll" title="wikilink">Trinity: Souls of Zill O’ll</a></em>[843]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10364,7 +10364,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Trivial_Pursuit.md" title="wikilink">Trivial Pursuit</a></em>[844]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Trivial_Pursuit" title="wikilink">Trivial Pursuit</a></em>[844]</p></td>
 <td><p><a href="../Page/EA_Bright_Light.md" title="wikilink">EA Bright Light</a></p></td>
 <td></td>
 <td></td>
@@ -10375,8 +10375,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Tron:_Evolution.md" title="wikilink">Tron: Evolution</a></em>[845]</p></td>
-<td><p><a href="../Page/Propaganda_Games.md" title="wikilink">Propaganda Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Tron:_Evolution" title="wikilink">Tron: Evolution</a></em>[845]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Propaganda_Games" title="wikilink">Propaganda Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10386,8 +10386,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Turning_Point:_Fall_of_Liberty.md" title="wikilink">Turning Point: Fall of Liberty</a></em>[846]</p></td>
-<td><p><a href="../Page/Spark_Unlimited.md" title="wikilink">Spark Unlimited</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Turning_Point:_Fall_of_Liberty" title="wikilink">Turning Point: Fall of Liberty</a></em>[846]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Spark_Unlimited" title="wikilink">Spark Unlimited</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10397,8 +10397,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Turok_(video_game).md" title="wikilink">Turok</a></em>[847]</p></td>
-<td><p><a href="../Page/Propaganda_Games.md" title="wikilink">Propaganda Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Turok_(video_game)" title="wikilink">Turok</a></em>[847]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Propaganda_Games" title="wikilink">Propaganda Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10408,8 +10408,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/TV_Superstars.md" title="wikilink">TV Superstars</a></em></p></td>
-<td><p><a href="../Page/SCE_Studios_Cambridge.md" title="wikilink">SCE Studios Cambridge</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/TV_Superstars" title="wikilink">TV Superstars</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studios_Cambridge" title="wikilink">SCE Studios Cambridge</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10419,8 +10419,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Twisted_Metal_(2012_video_game).md" title="wikilink">Twisted Metal</a></em>[848]</p></td>
-<td><p><a href="../Page/Eat_Sleep_Play.md" title="wikilink">Eat Sleep Play</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Twisted_Metal_(2012_video_game)" title="wikilink">Twisted Metal</a></em>[848]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eat_Sleep_Play" title="wikilink">Eat Sleep Play</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10430,8 +10430,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Two_Worlds_II.md" title="wikilink">Two Worlds II</a></em>[849]</p></td>
-<td><p><a href="../Page/Reality_Pump_Studios.md" title="wikilink">Reality Pump Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Two_Worlds_II" title="wikilink">Two Worlds II</a></em>[849]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Reality_Pump_Studios" title="wikilink">Reality Pump Studios</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10441,8 +10441,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="U"></span><em><a href="../Page/UEFA_Euro_2008_(video_game).md" title="wikilink">UEFA Euro 2008</a></em>[850]</p></td>
-<td><p><a href="../Page/EA_Canada.md" title="wikilink">EA Canada</a></p></td>
+<td><p><span id="U"></span><em><a href="https://zh.wikipedia.org/wiki/UEFA_Euro_2008_(video_game)" title="wikilink">UEFA Euro 2008</a></em>[850]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10452,8 +10452,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/UFC_2009_Undisputed.md" title="wikilink">UFC 2009 Undisputed</a></em>[851]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/UFC_2009_Undisputed" title="wikilink">UFC 2009 Undisputed</a></em>[851]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10463,8 +10463,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/UFC_Undisputed_2010.md" title="wikilink">UFC Undisputed 2010</a></em>[852]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/UFC_Undisputed_2010" title="wikilink">UFC Undisputed 2010</a></em>[852]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10474,8 +10474,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/UFC_Personal_Trainer:_The_Ultimate_Fitness_System.md" title="wikilink">UFC Personal Trainer: The Ultimate Fitness System</a></em></p></td>
-<td><p><a href="../Page/Heavy_Iron_Studios.md" title="wikilink">Heavy Iron Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/UFC_Personal_Trainer:_The_Ultimate_Fitness_System" title="wikilink">UFC Personal Trainer: The Ultimate Fitness System</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heavy_Iron_Studios" title="wikilink">Heavy Iron Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10485,8 +10485,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/UFC_Undisputed_3.md" title="wikilink">UFC Undisputed 3</a></em>[853]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/UFC_Undisputed_3" title="wikilink">UFC Undisputed 3</a></em>[853]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10496,8 +10496,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Ultra_Street_Fighter_IV.md" title="wikilink">Ultra Street Fighter IV</a></em>[854][855][856]</p></td>
-<td><p><a href="../Page/Capcom.md" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Ultra_Street_Fighter_IV" title="wikilink">Ultra Street Fighter IV</a></em>[854][855][856]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a> / <a href="../Page/Dimps.md" title="wikilink">Dimps</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10508,7 +10508,7 @@
 <tr class="even">
 <td><p><a href="../Page/秘境探險：黃金城秘寶.md" title="wikilink">秘境探險：黃金城秘寶</a></p></td>
 <td><p><em>Uncharted: Drake's Fortune</em>[857]</p></td>
-<td><p><a href="../Page/Naughty_Dog.md" title="wikilink">Naughty Dog</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naughty_Dog" title="wikilink">Naughty Dog</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10519,7 +10519,7 @@
 <tr class="odd">
 <td><p><a href="../Page/秘境探險2：盜亦有道.md" title="wikilink">秘境探險2：盜亦有道</a></p></td>
 <td><p><em>Uncharted 2: Among Thieves</em>[858]</p></td>
-<td><p><a href="../Page/Naughty_Dog.md" title="wikilink">Naughty Dog</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naughty_Dog" title="wikilink">Naughty Dog</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10530,7 +10530,7 @@
 <tr class="even">
 <td><p><a href="../Page/秘境探險3：德瑞克的騙局.md" title="wikilink">秘境探險3：德瑞克的騙局</a></p></td>
 <td><p><em>Uncharted 3: Drake's Deception</em>[859]</p></td>
-<td><p><a href="../Page/Naughty_Dog.md" title="wikilink">Naughty Dog</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Naughty_Dog" title="wikilink">Naughty Dog</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10540,8 +10540,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Uncharted_Waters_Online.md" title="wikilink">Uncharted Waters Online</a></em>[860]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Uncharted_Waters_Online" title="wikilink">Uncharted Waters Online</a></em>[860]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10551,8 +10551,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Under_Night_In-Birth.md" title="wikilink">Under Night In-Birth Exe:Late</a></em></p></td>
-<td><p><a href="../Page/Ecole_Software.md" title="wikilink">Ecole Software</a>, <a href="../Page/French_Bread.md" title="wikilink">French Bread</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Under_Night_In-Birth" title="wikilink">Under Night In-Birth Exe:Late</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ecole_Software" title="wikilink">Ecole Software</a>, <a href="https://zh.wikipedia.org/wiki/French_Bread" title="wikilink">French Bread</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10573,8 +10573,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Untold_Legends:_Dark_Kingdom.md" title="wikilink">Untold Legends: Dark Kingdom</a></em>[862]</p></td>
-<td><p><a href="../Page/Sony_Online_Entertainment.md" title="wikilink">Sony Online Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Untold_Legends:_Dark_Kingdom" title="wikilink">Untold Legends: Dark Kingdom</a></em>[862]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Online_Entertainment" title="wikilink">Sony Online Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10584,8 +10584,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Up_(video_game).md" title="wikilink">Up</a></em>[863]</p></td>
-<td><p><a href="../Page/Heavy_Iron_Studios.md" title="wikilink">Heavy Iron Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Up_(video_game)" title="wikilink">Up</a></em>[863]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heavy_Iron_Studios" title="wikilink">Heavy Iron Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10595,8 +10595,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Urban_Mysteries.md" title="wikilink">Urban Mysteries</a></em>[864]</p></td>
-<td><p><a href="../Page/ZeitGuyz.md" title="wikilink">ZeitGuyz</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Urban_Mysteries" title="wikilink">Urban Mysteries</a></em>[864]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ZeitGuyz" title="wikilink">ZeitGuyz</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -10605,9 +10605,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/戰場女武神.md" title="wikilink">戰場女武神</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戰場女武神" title="wikilink">戰場女武神</a></p></td>
 <td><p><span id="V"></span><em>Valkyria Chronicles</em>[865]</p></td>
-<td><p><a href="../Page/Sega_WOW.md" title="wikilink">Sega WOW</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega_WOW" title="wikilink">Sega WOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10617,8 +10617,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Vampire_Rain.md" title="wikilink">Vampire Rain: Altered Species</a></em>[866]</p></td>
-<td><p><a href="../Page/Artoon.md" title="wikilink">Artoon</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Vampire_Rain" title="wikilink">Vampire Rain: Altered Species</a></em>[866]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Artoon" title="wikilink">Artoon</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10628,8 +10628,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Vancouver_2010_(video_game).md" title="wikilink">Vancouver 2010</a></em>[867]</p></td>
-<td><p><a href="../Page/Eurocom.md" title="wikilink">Eurocom</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Vancouver_2010_(video_game)" title="wikilink">Vancouver 2010</a></em>[867]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Eurocom" title="wikilink">Eurocom</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10639,8 +10639,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Vanquish_(video_game).md" title="wikilink">Vanquish</a></em>[868]</p></td>
-<td><p><a href="../Page/Platinum_Games.md" title="wikilink">Platinum Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Vanquish_(video_game)" title="wikilink">Vanquish</a></em>[868]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Platinum_Games" title="wikilink">Platinum Games</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10650,8 +10650,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Venetica.md" title="wikilink">Venetica</a></em>[869]</p></td>
-<td><p><a href="../Page/Deck13_Interactive.md" title="wikilink">Deck13 Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Venetica" title="wikilink">Venetica</a></em>[869]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deck13_Interactive" title="wikilink">Deck13 Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10661,8 +10661,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Viking:_Battle_for_Asgard.md" title="wikilink">Viking: Battle for Asgard</a></em>[870]</p></td>
-<td><p><a href="../Page/The_Creative_Assembly.md" title="wikilink">The Creative Assembly</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Viking:_Battle_for_Asgard" title="wikilink">Viking: Battle for Asgard</a></em>[870]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_Creative_Assembly" title="wikilink">The Creative Assembly</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10673,7 +10673,7 @@
 <tr class="odd">
 <td><p><a href="../Page/VR快打5.md" title="wikilink">VR快打5</a></p></td>
 <td><p><em>Virtua Fighter 5</em>[871]</p></td>
-<td><p><a href="../Page/Sega-AM2.md" title="wikilink">Sega-AM2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega-AM2" title="wikilink">Sega-AM2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10682,9 +10682,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/VR網球3.md" title="wikilink">VR網球3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/VR網球3" title="wikilink">VR網球3</a></p></td>
 <td><p><em>Virtua Tennis 3</em>[872]</p></td>
-<td><p><a href="../Page/Sega-AM3.md" title="wikilink">Sega-AM3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega-AM3" title="wikilink">Sega-AM3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10695,7 +10695,7 @@
 <tr class="odd">
 <td><p>VR網球4</p></td>
 <td><p><em>Virtua Tennis 4</em>[873]</p></td>
-<td><p><a href="../Page/Sega-AM3.md" title="wikilink">Sega-AM3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega-AM3" title="wikilink">Sega-AM3</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10706,7 +10706,7 @@
 <tr class="even">
 <td><p>VR網球2009</p></td>
 <td><p><em>Virtua Tennis 2009</em>[874]</p></td>
-<td><p><a href="../Page/Sumo_Digital.md" title="wikilink">Sumo Digital</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sumo_Digital" title="wikilink">Sumo Digital</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10716,8 +10716,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Voltage_(video_game).md" title="wikilink">Voltage</a></em>[875]</p></td>
-<td><p><a href="../Page/IBA_(developer_studio).md" title="wikilink">IBA</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Voltage_(video_game)" title="wikilink">Voltage</a></em>[875]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IBA_(developer_studio)" title="wikilink">IBA</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -10727,8 +10727,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="W"></span><em><a href="../Page/WALL-E_(video_game).md" title="wikilink">WALL-E</a></em>[876]</p></td>
-<td><p><a href="../Page/Heavy_Iron_Studios.md" title="wikilink">Heavy Iron Studios</a></p></td>
+<td><p><span id="W"></span><em><a href="https://zh.wikipedia.org/wiki/WALL-E_(video_game)" title="wikilink">WALL-E</a></em>[876]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Heavy_Iron_Studios" title="wikilink">Heavy Iron Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10738,8 +10738,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/The_Wall_(video_game).md" title="wikilink">The Wall</a></em>[877]</p></td>
-<td><p><a href="../Page/World_Forge.md" title="wikilink">World Forge</a> / <a href="../Page/Burut_CT.md" title="wikilink">Burut CT</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Wall_(video_game)" title="wikilink">The Wall</a></em>[877]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/World_Forge" title="wikilink">World Forge</a> / <a href="https://zh.wikipedia.org/wiki/Burut_CT" title="wikilink">Burut CT</a></p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -10750,7 +10750,7 @@
 <tr class="even">
 <td><p>灣岸競速</p></td>
 <td><p><em>Wangan Midnight</em>[878]</p></td>
-<td><p><a href="../Page/Genki_(company).md" title="wikilink">Genki</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Genki_(company)" title="wikilink">Genki</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10760,8 +10760,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Wanted:_Weapons_of_Fate.md" title="wikilink">Wanted: Weapons of Fate</a></em>[879]</p></td>
-<td><p><a href="../Page/GRIN_(company).md" title="wikilink">GRIN</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Wanted:_Weapons_of_Fate" title="wikilink">Wanted: Weapons of Fate</a></em>[879]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/GRIN_(company)" title="wikilink">GRIN</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10771,8 +10771,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Warhammer_40,000:_Space_Marine.md" title="wikilink">Warhammer 40,000: Space Marine</a></em>[880]</p></td>
-<td><p><a href="../Page/Relic_Entertainment.md" title="wikilink">Relic Entertainment</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Warhammer_40,000:_Space_Marine" title="wikilink">Warhammer 40,000: Space Marine</a></em>[880]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Relic_Entertainment" title="wikilink">Relic Entertainment</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10783,7 +10783,7 @@
 <tr class="odd">
 <td><p>战鹰</p></td>
 <td><p><em>Warhawk</em>[881]</p></td>
-<td><p><a href="../Page/Incognito_Entertainment.md" title="wikilink">Incognito Entertainment</a> / <a href="../Page/SCE_Santa_Monica_Studio.md" title="wikilink">SCE Santa Monica Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Incognito_Entertainment" title="wikilink">Incognito Entertainment</a> / <a href="https://zh.wikipedia.org/wiki/SCE_Santa_Monica_Studio" title="wikilink">SCE Santa Monica Studio</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10793,8 +10793,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Warriors:_Legends_of_Troy.md" title="wikilink">Warriors: Legends of Troy</a></em>[882]</p></td>
-<td><p><a href="../Page/Koei_Canada.md" title="wikilink">Koei Canada</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Warriors:_Legends_of_Troy" title="wikilink">Warriors: Legends of Troy</a></em>[882]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Canada" title="wikilink">Koei Canada</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10804,8 +10804,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Warriors_Orochi_Z.md" title="wikilink">Warriors Orochi Z</a></em>[883]</p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Warriors_Orochi_Z" title="wikilink">Warriors Orochi Z</a></em>[883]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10815,8 +10815,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Warriors_Orochi_3.md" title="wikilink">Warriors Orochi 3</a></em></p></td>
-<td><p><a href="../Page/Koei_Tecmo#Omega_Force.md" title="wikilink">Omega Force</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Warriors_Orochi_3" title="wikilink">Warriors Orochi 3</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10827,7 +10827,7 @@
 <tr class="odd">
 <td><p><a href="../Page/看門狗_(遊戲).md" title="wikilink">看門狗</a></p></td>
 <td><p><em>Watch Dogs</em>[884][885]</p></td>
-<td><p><a href="../Page/Ubisoft_Montreal.md" title="wikilink">Ubisoft Montreal</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montreal" title="wikilink">Ubisoft Montreal</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10837,8 +10837,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Watchmen:_The_End_Is_Nigh.md" title="wikilink">Watchmen: The End Is Nigh</a></em>[886]</p></td>
-<td><p><a href="../Page/Deadline_Games.md" title="wikilink">Deadline Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Watchmen:_The_End_Is_Nigh" title="wikilink">Watchmen: The End Is Nigh</a></em>[886]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Deadline_Games" title="wikilink">Deadline Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10849,7 +10849,7 @@
 <tr class="odd">
 <td><p>侍道3</p></td>
 <td><p><em>Way of the Samurai 3</em>[887]</p></td>
-<td><p><a href="../Page/Acquire_(game_developer).md" title="wikilink">Acquire</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Acquire_(game_developer)" title="wikilink">Acquire</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10860,7 +10860,7 @@
 <tr class="even">
 <td><p>侍道4</p></td>
 <td><p><em>Way of the Samurai 4</em></p></td>
-<td><p><a href="../Page/Acquire_(game_developer).md" title="wikilink">Acquire</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Acquire_(game_developer)" title="wikilink">Acquire</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10870,8 +10870,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WET_(video_game).md" title="wikilink">WET</a></em>[888]</p></td>
-<td><p><a href="../Page/Artificial_Mind_and_Movement.md" title="wikilink">Artificial Mind and Movement</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WET_(video_game)" title="wikilink">WET</a></em>[888]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Artificial_Mind_and_Movement" title="wikilink">Artificial Mind and Movement</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10881,8 +10881,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Wheelman.md" title="wikilink">Wheelman</a></em>[889]</p></td>
-<td><p><a href="../Page/Midway_Studios_–_Newcastle.md" title="wikilink">Midway Studios – Newcastle</a> / <a href="../Page/Tigon_Studios.md" title="wikilink">Tigon Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Wheelman" title="wikilink">Wheelman</a></em>[889]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Midway_Studios_–_Newcastle" title="wikilink">Midway Studios – Newcastle</a> / <a href="https://zh.wikipedia.org/wiki/Tigon_Studios" title="wikilink">Tigon Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10892,8 +10892,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Where_the_Wild_Things_Are_(video_game).md" title="wikilink">Where the Wild Things Are</a></em>[890]</p></td>
-<td><p><a href="../Page/Griptonite_Games.md" title="wikilink">Griptonite Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Where_the_Wild_Things_Are_(video_game)" title="wikilink">Where the Wild Things Are</a></em>[890]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Griptonite_Games" title="wikilink">Griptonite Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10903,8 +10903,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/White_Album_(visual_novel).md" title="wikilink">White Album</a></em>[891]</p></td>
-<td><p><a href="../Page/Aquaplus.md" title="wikilink">Aquaplus</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/White_Album_(visual_novel)" title="wikilink">White Album</a></em>[891]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Aquaplus" title="wikilink">Aquaplus</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10915,7 +10915,7 @@
 <tr class="odd">
 <td><p>白騎士物語</p></td>
 <td><p><em>White Knight Chronicles</em>[892]</p></td>
-<td><p><a href="../Page/Level-5_(video_game_company).md" title="wikilink">Level-5</a> / <a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Level-5_(video_game_company)" title="wikilink">Level-5</a> / <a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10926,7 +10926,7 @@
 <tr class="even">
 <td><p>白騎士物語II</p></td>
 <td><p><em>White Knight Chronicles II</em>[893]</p></td>
-<td><p><a href="../Page/Level-5_(video_game_company).md" title="wikilink">Level-5</a> / <a href="../Page/SCE_Japan_Studio.md" title="wikilink">SCE Japan Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Level-5_(video_game_company)" title="wikilink">Level-5</a> / <a href="https://zh.wikipedia.org/wiki/SCE_Japan_Studio" title="wikilink">SCE Japan Studio</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10936,8 +10936,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Winter_stars.md" title="wikilink">Winter stars</a></em></p></td>
-<td><p><a href="../Page/49Games.md" title="wikilink">49Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Winter_stars" title="wikilink">Winter stars</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/49Games" title="wikilink">49Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -10948,7 +10948,7 @@
 <tr class="even">
 <td><p>賽馬大亨7：極限版2007</p></td>
 <td><p><em>Winning Post 7 Maximum 2007</em>[894]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10959,7 +10959,7 @@
 <tr class="odd">
 <td><p>賽馬大亨7：極限版2008</p></td>
 <td><p><em>Winning Post 7 Maximum 2008</em>[895]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10969,8 +10969,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Winning_Post_World.md" title="wikilink">Winning Post World</a></em>[896]</p></td>
-<td><p><a href="../Page/Koei.md" title="wikilink">Koei</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Winning_Post_World" title="wikilink">Winning Post World</a></em>[896]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Koei" title="wikilink">Koei</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -10980,19 +10980,19 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/Wipeout_HD.md" title="wikilink">Wipeout HD</a></em>[897]</p></td>
-<td><p><a href="../Page/SCE_Studio_Liverpool.md" title="wikilink">SCE Studio Liverpool</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Wipeout_HD" title="wikilink">Wipeout HD</a></em>[897]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE_Studio_Liverpool" title="wikilink">SCE Studio Liverpool</a></p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
-<td><p>(<a href="../Page/List_of_downloadable_PlayStation_3_games#PlayStation_3_games.md" title="wikilink">Download-only</a>)</p></td>
+<td><p>(<a href="https://zh.wikipedia.org/wiki/List_of_downloadable_PlayStation_3_games#PlayStation_3_games" title="wikilink">Download-only</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/The_Witch_and_the_Hundred_Knight.md" title="wikilink">The Witch and the Hundred Knight</a></em>[898]</p></td>
-<td><p><a href="../Page/Nippon_Ichi_Software.md" title="wikilink">Nippon Ichi Software</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Witch_and_the_Hundred_Knight" title="wikilink">The Witch and the Hundred Knight</a></em>[898]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Nippon_Ichi_Software" title="wikilink">Nippon Ichi Software</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11003,7 +11003,7 @@
 <tr class="odd">
 <td><p><a href="../Page/德軍總部：黑曜陰謀.md" title="wikilink">德軍總部：黑曜陰謀</a></p></td>
 <td><p><em>Wolfenstein</em>[899]</p></td>
-<td><p><a href="../Page/Raven_Software.md" title="wikilink">Raven Software</a> / <a href="../Page/id_Software.md" title="wikilink">id Software</a></p></td>
+<td><p><a href="../Page/Raven_Software.md" title="wikilink">Raven Software</a> / <a href="https://zh.wikipedia.org/wiki/id_Software" title="wikilink">id Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11024,8 +11024,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/World_of_Outlaws:_Sprint_Cars.md" title="wikilink">World of Outlaws: Sprint Cars</a></em>[902]</p></td>
-<td><p><a href="../Page/Big_Ant_Studios.md" title="wikilink">Big Ant Studios</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/World_of_Outlaws:_Sprint_Cars" title="wikilink">World of Outlaws: Sprint Cars</a></em>[902]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Big_Ant_Studios" title="wikilink">Big Ant Studios</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11035,8 +11035,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/World_Series_of_Poker_2008:_Battle_for_the_Bracelets.md" title="wikilink">World Series of Poker 2008: Battle for the Bracelets</a></em>[903]</p></td>
-<td><p><a href="../Page/Left_Field_Productions.md" title="wikilink">Left Field Productions</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/World_Series_of_Poker_2008:_Battle_for_the_Bracelets" title="wikilink">World Series of Poker 2008: Battle for the Bracelets</a></em>[903]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Left_Field_Productions" title="wikilink">Left Field Productions</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11047,7 +11047,7 @@
 <tr class="odd">
 <td><p>世界桌球冠軍賽 2007</p></td>
 <td><p><em>World Snooker Championship 2007</em>[904]</p></td>
-<td><p><a href="../Page/Blade_Interactive.md" title="wikilink">Blade Interactive</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blade_Interactive" title="wikilink">Blade Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11057,8 +11057,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/WRC:_FIA_World_Rally_Championship_(2010_video_game).md" title="wikilink">WRC: FIA World Rally Championship</a></em>[905]</p></td>
-<td><p><a href="../Page/Milestone_S.r.l..md" title="wikilink">Milestone S.r.l.</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WRC:_FIA_World_Rally_Championship_(2010_video_game)" title="wikilink">WRC: FIA World Rally Championship</a></em>[905]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Milestone_S.r.l." title="wikilink">Milestone S.r.l.</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11068,8 +11068,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WSC_Real_08:_World_Snooker_Championship.md" title="wikilink">WSC Real 08: World Snooker Championship</a></em>[906]</p></td>
-<td><p><a href="../Page/Blade_Interactive.md" title="wikilink">Blade Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WSC_Real_08:_World_Snooker_Championship" title="wikilink">WSC Real 08: World Snooker Championship</a></em>[906]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blade_Interactive" title="wikilink">Blade Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11079,8 +11079,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/WSC_Real_09:_World_Snooker_Championship.md" title="wikilink">WSC Real 09: World Snooker Championship</a></em>[907]</p></td>
-<td><p><a href="../Page/Blade_Interactive.md" title="wikilink">Blade Interactive</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WSC_Real_09:_World_Snooker_Championship" title="wikilink">WSC Real 09: World Snooker Championship</a></em>[907]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Blade_Interactive" title="wikilink">Blade Interactive</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11090,8 +11090,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WWE_&#39;12.md" title="wikilink">WWE '12</a></em>[908]</p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_&#39;12" title="wikilink">WWE '12</a></em>[908]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11101,8 +11101,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/WWE_All_Stars.md" title="wikilink">WWE All Stars</a></em>[909]</p></td>
-<td><p><a href="../Page/THQ.md" title="wikilink">THQ San Diego</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_All_Stars" title="wikilink">WWE All Stars</a></em>[909]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THQ" title="wikilink">THQ San Diego</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11112,8 +11112,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WWE_Legends_of_WrestleMania.md" title="wikilink">WWE Legends of WrestleMania</a></em>[910]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_Legends_of_WrestleMania" title="wikilink">WWE Legends of WrestleMania</a></em>[910]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11123,8 +11123,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/WWE_SmackDown_vs._Raw_2008.md" title="wikilink">WWE SmackDown vs. Raw 2008</a></em>[911]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2008" title="wikilink">WWE SmackDown vs. Raw 2008</a></em>[911]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11134,8 +11134,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WWE_SmackDown_vs._Raw_2009.md" title="wikilink">WWE SmackDown vs. Raw 2009</a></em>[912]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2009" title="wikilink">WWE SmackDown vs. Raw 2009</a></em>[912]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11145,8 +11145,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/WWE_SmackDown_vs._Raw_2010.md" title="wikilink">WWE SmackDown vs. Raw 2010</a></em>[913]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2010" title="wikilink">WWE SmackDown vs. Raw 2010</a></em>[913]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11156,8 +11156,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/WWE_SmackDown_vs._Raw_2011.md" title="wikilink">WWE SmackDown vs. Raw 2011</a></em>[914]</p></td>
-<td><p><a href="../Page/Yuke&#39;s.md" title="wikilink">Yuke's</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/WWE_SmackDown_vs._Raw_2011" title="wikilink">WWE SmackDown vs. Raw 2011</a></em>[914]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yuke&#39;s" title="wikilink">Yuke's</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11167,8 +11167,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><span id="X"></span><em><a href="../Page/X-Blades.md" title="wikilink">X-Blades</a></em>[915]</p></td>
-<td><p><a href="../Page/Gaijin_Entertainment.md" title="wikilink">Gaijin Entertainment</a></p></td>
+<td><p><span id="X"></span><em><a href="https://zh.wikipedia.org/wiki/X-Blades" title="wikilink">X-Blades</a></em>[915]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Gaijin_Entertainment" title="wikilink">Gaijin Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11178,7 +11178,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/X-Men_Origins:_Wolverine_(video_game).md" title="wikilink">X-Men Origins: Wolverine</a></em>[916]</p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/X-Men_Origins:_Wolverine_(video_game)" title="wikilink">X-Men Origins: Wolverine</a></em>[916]</p></td>
 <td><p><a href="../Page/Raven_Software.md" title="wikilink">Raven Software</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -11189,8 +11189,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/X-Men:_Destiny.md" title="wikilink">X-Men: Destiny</a></em></p></td>
-<td><p><a href="../Page/Activision.md" title="wikilink">Activision</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/X-Men:_Destiny" title="wikilink">X-Men: Destiny</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td></td>
@@ -11200,7 +11200,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="../Page/XCOM:_Enemy_Unknown.md" title="wikilink">XCOM: Enemy Unknown</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/XCOM:_Enemy_Unknown" title="wikilink">XCOM: Enemy Unknown</a></em></p></td>
 <td><p><a href="../Page/Firaxis_Games.md" title="wikilink">Firaxis Games</a></p></td>
 <td></td>
 <td></td>
@@ -11211,7 +11211,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/XCOM:_Enemy_Within.md" title="wikilink">XCOM: Enemy Within</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/XCOM:_Enemy_Within" title="wikilink">XCOM: Enemy Within</a></em></p></td>
 <td><p><a href="../Page/Firaxis_Games.md" title="wikilink">Firaxis Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -11222,8 +11222,8 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="Y"></span><em><a href="../Page/Yaiba:_Ninja_Gaiden_Z.md" title="wikilink">Yaiba: Ninja Gaiden Z</a></em>[917][918][919]</p></td>
-<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><span id="Y"></span><em><a href="https://zh.wikipedia.org/wiki/Yaiba:_Ninja_Gaiden_Z" title="wikilink">Yaiba: Ninja Gaiden Z</a></em>[917][918][919]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11234,7 +11234,7 @@
 <tr class="even">
 <td><p><a href="../Page/人中之龍3.md" title="wikilink">人中之龍3</a></p></td>
 <td><p><em>Yakuza 3</em>[920]</p></td>
-<td><p><a href="../Page/New_Entertainment_R&amp;D_Dept..md" title="wikilink">Team CS1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/New_Entertainment_R&amp;D_Dept." title="wikilink">Team CS1</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11245,7 +11245,7 @@
 <tr class="odd">
 <td><p><a href="../Page/人中之龍4_傳說的繼承者.md" title="wikilink">人中之龍4 傳說的繼承者</a></p></td>
 <td><p><em>Yakuza 4</em>[921]</p></td>
-<td><p><a href="../Page/New_Entertainment_R&amp;D_Dept..md" title="wikilink">CS1 Team</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/New_Entertainment_R&amp;D_Dept." title="wikilink">CS1 Team</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11255,8 +11255,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Yakuza:_Dead_Souls.md" title="wikilink">Yakuza: Dead Souls</a></em>[922]</p></td>
-<td><p><a href="../Page/Sega.md" title="wikilink">Sega</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Yakuza:_Dead_Souls" title="wikilink">Yakuza: Dead Souls</a></em>[922]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11267,7 +11267,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em>Yamasa Digi World DX</em>[923]</p></td>
-<td><p><a href="../Page/Yamasa_Entertainment.md" title="wikilink">Yamasa Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Yamasa_Entertainment" title="wikilink">Yamasa Entertainment</a></p></td>
 <td></td>
 <td></td>
 <td><p>未發行</p></td>
@@ -11277,8 +11277,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/You_Don&#39;t_Know_Jack_(2011_video_game).md" title="wikilink">You Don't Know Jack</a></em>[924]</p></td>
-<td><p><a href="../Page/Jellyvision.md" title="wikilink">Jellyvision Games</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/You_Don&#39;t_Know_Jack_(2011_video_game)" title="wikilink">You Don't Know Jack</a></em>[924]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jellyvision" title="wikilink">Jellyvision Games</a></p></td>
 <td></td>
 <td><p>未發行</p></td>
 <td><p>未發行</p></td>
@@ -11288,7 +11288,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><span id="Z"></span><em><a href="../Page/Zack_Zero.md" title="wikilink">Zack Zero</a></em>[925]</p></td>
+<td><p><span id="Z"></span><em><a href="https://zh.wikipedia.org/wiki/Zack_Zero" title="wikilink">Zack Zero</a></em>[925]</p></td>
 <td><p>Crocodile Entertainment</p></td>
 <td></td>
 <td></td>
@@ -11299,8 +11299,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="../Page/Zone_of_the_Enders.md" title="wikilink">Zone of the Enders: HD Collection</a></em>[926]</p></td>
-<td><p><a href="../Page/Kojima_Productions.md" title="wikilink">Kojima Productions</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Zone_of_the_Enders" title="wikilink">Zone of the Enders: HD Collection</a></em>[926]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kojima_Productions" title="wikilink">Kojima Productions</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11340,62 +11340,62 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/Dark_Mist.md" title="wikilink">Dark Mist</a></strong></p></td>
-<td><p><a href="../Page/Game_Republic.md" title="wikilink">Game Republic</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dark_Mist" title="wikilink">Dark Mist</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td><p>2007 - 11 - 08</p></td>
 <td><p>未定</p></td>
 <td><p>2007年第四季預定</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Echochrome.md" title="wikilink">Echochrome</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Echochrome" title="wikilink">Echochrome</a></strong><br />
 <strong><a href="../Page/無限回廊.md" title="wikilink">無限回廊</a></strong></p></td>
-<td><p><a href="../Page/SCE.md" title="wikilink">SCE Studios Japan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE" title="wikilink">SCE Studios Japan</a></p></td>
 <td><p>2008年第一季預定</p></td>
 <td><p>2008年第一季預定</p></td>
 <td><p>2008年第一季預定</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/flOw_Downloadable_Game.md" title="wikilink">flOw Downloadable Game</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/flOw_Downloadable_Game" title="wikilink">flOw Downloadable Game</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>不會推出</p></td>
 <td><p>2007 - 04 - 11</p></td>
 <td><p>2007 - 04 - 11</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Go!_Puzzle.md" title="wikilink">Go! Puzzle</a></strong><br />
-<strong><a href="../Page/去吧！拼圖.md" title="wikilink">去吧！拼圖</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Go!_Puzzle" title="wikilink">Go! Puzzle</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/去吧！拼圖" title="wikilink">去吧！拼圖</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2007 - 09 - 06</p></td>
 <td><p>2007 - 09 - 06</p></td>
 <td><p>2007 - 06 - 01</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Go!_Sports.md" title="wikilink">Go! Sports</a></strong><br />
-<strong><a href="../Page/去吧！運動.md" title="wikilink">去吧！運動</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Go!_Sports" title="wikilink">Go! Sports</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/去吧！運動" title="wikilink">去吧！運動</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2007 - 09 - 28</p></td>
 <td><p>2007 - 09 - 28</p></td>
 <td><p>2007 - 09 - 28</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Go!_Sudoku.md" title="wikilink">Go! Sudoku</a></strong><br />
-<strong><a href="../Page/去吧！數獨.md" title="wikilink">去吧！數獨</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Go!_Sudoku" title="wikilink">Go! Sudoku</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/去吧！數獨" title="wikilink">去吧！數獨</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2007 - 05 - 09</p></td>
 <td><p>2007 - 05 - 09</p></td>
 <td><p>2006 - 12 - 01</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Gran_Turismo_5.md" title="wikilink">Gran Turismo 5 Prologue</a></strong><br />
-<strong><a href="../Page/跑車浪漫旅5_序章版.md" title="wikilink">跑車浪漫旅5 序章版</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Gran_Turismo_5" title="wikilink">Gran Turismo 5 Prologue</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/跑車浪漫旅5_序章版" title="wikilink">跑車浪漫旅5 序章版</a></strong></p></td>
 <td><p><a href="../Page/Polyphony_Digital.md" title="wikilink">Polyphony Digital</a></p></td>
 <td><p>2007 - 12 - 13</p></td>
 <td><p>2008年第一季預定</p></td>
 <td><p>2008 - 02 - 19</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Gran_Turismo_HD_Concept.md" title="wikilink">Gran Turismo HD Concept</a></strong><br />
-<strong><a href="../Page/跑車浪漫旅_HD_Concept.md" title="wikilink">跑車浪漫旅 HD Concept</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Gran_Turismo_HD_Concept" title="wikilink">Gran Turismo HD Concept</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/跑車浪漫旅_HD_Concept" title="wikilink">跑車浪漫旅 HD Concept</a></strong></p></td>
 <td><p><a href="../Page/Polyphony_Digital.md" title="wikilink">Polyphony Digital</a></p></td>
 <td><p>2006 - 11 - 11</p></td>
 <td><p>不會推出</p></td>
@@ -11403,15 +11403,15 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/PlayStation_Home.md" title="wikilink">Home</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2008年第一季預定</p></td>
 <td><p>2008年第一季預定</p></td>
 <td><p>2008年第一季預定</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Mainichi-Issho.md" title="wikilink">Mainichi-Issho</a></strong><br />
-<strong><a href="../Page/每日玩伴.md" title="wikilink">每日玩伴</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mainichi-Issho" title="wikilink">Mainichi-Issho</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/每日玩伴" title="wikilink">每日玩伴</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2006 - 11 - 11</p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
@@ -11420,62 +11420,62 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 <td><p>'''[[Oideyo_LocoRoco</p></td>
 <td><p>_BuuBuu_Cocoreccho!|Oideyo LocoRoco</p></td>
 <td><p>BuuBuu Cocoreccho!]]<strong>（日版）<br />
-</strong><a href="../Page/LocoRoco_Cocoreccho!.md" title="wikilink">LocoRoco Cocoreccho!</a><strong>（美版）<br />
-</strong><a href="../Page/來吧！樂克樂克！BuuBuu_Cocoreccho！.md" title="wikilink">來吧！樂克樂克！BuuBuu Cocoreccho！</a>'''</p></td>
-<td><p><a href="../Page/SCE.md" title="wikilink">SCE Studios Japan</a></p></td>
+</strong><a href="https://zh.wikipedia.org/wiki/LocoRoco_Cocoreccho!" title="wikilink">LocoRoco Cocoreccho!</a><strong>（美版）<br />
+</strong><a href="https://zh.wikipedia.org/wiki/來吧！樂克樂克！BuuBuu_Cocoreccho！" title="wikilink">來吧！樂克樂克！BuuBuu Cocoreccho！</a>'''</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SCE" title="wikilink">SCE Studios Japan</a></p></td>
 <td><p>2007 - 09 - 21</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/SIREN:New_Translation.md" title="wikilink">SIREN:New Translation</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SIREN:New_Translation" title="wikilink">SIREN:New Translation</a><br />
 <a href="../Page/死魂曲：新譯.md" title="wikilink">死魂曲：新譯</a></strong></p></td>
-<td><p><a href="../Page/索尼電腦娛樂.md" title="wikilink">索尼電腦娛樂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/索尼電腦娛樂" title="wikilink">索尼電腦娛樂</a></p></td>
 <td><p>2008 - 07 - 13</p></td>
 <td><p>未定</p></td>
 <td><p>未定</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Super_Puzzle_Fighter_II_Turbo_HD_Remix.md" title="wikilink">Super Puzzle Fighter II Turbo HD Remix</a></strong><br />
-<strong><a href="../Page/快打方塊2_Turbo_HD_Remix.md" title="wikilink">快打方塊2 Turbo HD Remix</a></strong></p></td>
-<td><p><a href="../Page/CAPCOM.md" title="wikilink">CAPCOM</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Super_Puzzle_Fighter_II_Turbo_HD_Remix" title="wikilink">Super Puzzle Fighter II Turbo HD Remix</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/快打方塊2_Turbo_HD_Remix" title="wikilink">快打方塊2 Turbo HD Remix</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CAPCOM" title="wikilink">CAPCOM</a></p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
 <td><p>2007 - 08 - 29</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Super_Rub_a_Dub.md" title="wikilink">Super Rub a Dub</a></strong></p></td>
-<td><p><a href="../Page/Sony_Computer_Entertainment.md" title="wikilink">Sony Computer Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Super_Rub_a_Dub" title="wikilink">Super Rub a Dub</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">Sony Computer Entertainment</a></p></td>
 <td><p>2007 - 05 - 16</p></td>
 <td><p>2007 - 05 - 16</p></td>
 <td><p>2007 - 05 - 16</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Tekken_5_Dark_Resurrection.md" title="wikilink">Tekken 5 Dark Resurrection</a></strong><br />
-<strong><a href="../Page/鐵拳5：黑暗復甦.md" title="wikilink">鐵拳5：黑暗復甦</a></strong></p></td>
-<td><p><a href="../Page/BANDAI_NAMCO_Games.md" title="wikilink">BANDAI NAMCO Games</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Tekken_5_Dark_Resurrection" title="wikilink">Tekken 5 Dark Resurrection</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/鐵拳5：黑暗復甦" title="wikilink">鐵拳5：黑暗復甦</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games" title="wikilink">BANDAI NAMCO Games</a></p></td>
 <td><p>2006 - 12 - 27</p></td>
 <td><p>2006 - 12 - 27</p></td>
 <td><p>2006 - 12 - 27</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Tekken_5_Dark_Resurrection_Online.md" title="wikilink">Tekken 5 Dark Resurrection Online</a></strong><br />
-<strong><a href="../Page/鐵拳5：黑暗復甦_線上完全版.md" title="wikilink">鐵拳5：黑暗復甦 線上完全版</a></strong></p></td>
-<td><p><a href="../Page/BANDAI_NAMCO_Games.md" title="wikilink">BANDAI NAMCO Games</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Tekken_5_Dark_Resurrection_Online" title="wikilink">Tekken 5 Dark Resurrection Online</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/鐵拳5：黑暗復甦_線上完全版" title="wikilink">鐵拳5：黑暗復甦 線上完全版</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games" title="wikilink">BANDAI NAMCO Games</a></p></td>
 <td><p>2007 - 08 - 01</p></td>
 <td><p>2007 - 08 - 01</p></td>
 <td><p>2007 - 08 - 01</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/Toy_Home.md" title="wikilink">Toy Home</a></strong><br />
-<strong><a href="../Page/玩具之家.md" title="wikilink">玩具之家</a></strong></p></td>
-<td><p><a href="../Page/Game_Republic.md" title="wikilink">Game Republic</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Toy_Home" title="wikilink">Toy Home</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/玩具之家" title="wikilink">玩具之家</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Game_Republic" title="wikilink">Game Republic</a></p></td>
 <td><p>2007 - 11 - 01</p></td>
 <td><p>2007年第四季預定</p></td>
 <td><p>2007年第四季預定</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/Warhawk.md" title="wikilink">Warhawk</a></strong><br />
-<strong><a href="../Page/戰鷹.md" title="wikilink">戰鷹</a></strong></p></td>
-<td><p><a href="../Page/Incognito_Entertainment.md" title="wikilink">Incognito Entertainment</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Warhawk" title="wikilink">Warhawk</a></strong><br />
+<strong><a href="https://zh.wikipedia.org/wiki/戰鷹" title="wikilink">戰鷹</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Incognito_Entertainment" title="wikilink">Incognito Entertainment</a></p></td>
 <td><p>2007 - 10 - 04</p></td>
 <td><p>2007 - 09 - 21</p></td>
 <td><p>2007 - 08 - 28</p></td>
@@ -11514,9 +11514,9 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><span id="0-9"></span><strong><a href="../Page/100_Bullets.md" title="wikilink">100 Bullets</a></strong></p></td>
-<td><p><a href="../Page/D3_Productions.md" title="wikilink">D3 Productions</a></p></td>
-<td><p><a href="../Page/D3_Productions.md" title="wikilink">D3 Productions</a></p></td>
+<td><p><span id="0-9"></span><strong><a href="https://zh.wikipedia.org/wiki/100_Bullets" title="wikilink">100 Bullets</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Productions" title="wikilink">D3 Productions</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/D3_Productions" title="wikilink">D3 Productions</a></p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
@@ -11525,8 +11525,8 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 <tr class="even">
 <td><p><strong><a href="../Page/最後的遺跡.md" title="wikilink">最後的遺跡</a></strong></p></td>
 <td><p><strong>The Last Remnant</strong></p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
-<td><p><a href="../Page/Square_Enix.md" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>
@@ -11534,8 +11534,8 @@ Store](../Page/PlayStation_Store.md "wikilink")」，以付費或免費形式下
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><strong><a href="../Page/Guillermo_Del_Toro&#39;s_Sundown.md" title="wikilink">Guillermo Del Toro's Sundown</a></strong></p></td>
-<td><p><a href="../Page/Terminal_Reality.md" title="wikilink">Terminal Reality</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Guillermo_Del_Toro&#39;s_Sundown" title="wikilink">Guillermo Del Toro's Sundown</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Terminal_Reality" title="wikilink">Terminal Reality</a></p></td>
 <td></td>
 <td><p>不會推出</p></td>
 <td><p>不會推出</p></td>

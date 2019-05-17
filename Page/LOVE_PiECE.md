@@ -1,5 +1,5 @@
 **LOVE
-PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](../Page/大塚愛.md "wikilink")。2007年10月5日由[艾迴音樂在台灣發行](../Page/艾迴音樂.md "wikilink")
+PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。2007年10月5日由[艾迴音樂在台灣發行](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")
 
 ## 收錄曲目
 
@@ -9,11 +9,12 @@ PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](../Page/大塚愛.m
 
 1.  **未來計程車** - 4:09（未来タクシー）
       -
-        [LOTTE產品](../Page/LOTTE.md "wikilink")「ガーナミルクチョコレート」廣告曲
+        [LOTTE產品](https://zh.wikipedia.org/wiki/LOTTE "wikilink")「ガーナミルクチョコレート」廣告曲
 2.  **食夢貘** - 5:16（ユメクイ）
       -
         第12張單曲
-        大塚愛本人主演的日劇『[東京朋友](../Page/東京朋友.md "wikilink") The Movie』主題曲
+        大塚愛本人主演的日劇『[東京朋友](https://zh.wikipedia.org/wiki/東京朋友 "wikilink")
+        The Movie』主題曲
 3.  **Mackerel's canned food** - 4:23
       -
         [日本電視台](../Page/日本電視台.md "wikilink")『[GURU GURU
@@ -40,7 +41,7 @@ PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](../Page/大塚愛.m
 11. **恋愛写真** - 4:55
       -
         第13張單曲
-        電影『[現在只想愛你](../Page/現在只想愛你.md "wikilink")』主題曲
+        電影『[現在只想愛你](https://zh.wikipedia.org/wiki/現在只想愛你 "wikilink")』主題曲
 
 ### DVD
 

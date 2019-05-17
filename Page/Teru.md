@@ -9,7 +9,7 @@
   - 現在的妻子為PUFFY的大貫亞美。與前妻生了兩個孩子，一男一女；與大貫亞美也育有一女。
   - 小時候曾經被鳥（麻雀）攻擊過，所以很討厭鳥類（特別是小鳥）。BEAUTIFUL
     DREAMER的宣傳影片中有一幕要讓老鷹站在他手上，該畫面並非合成。拍完之後Teru還說了：「超可怕的！」
-  - 跟後輩視覺系樂團的交流深切，以[SID的](../Page/:SID_\(樂團\).md "wikilink")[明希為首](../Page/:SID_\(樂團\)#.E6.98.8E.E5.B8.8C.EF.BC.88Aki.EF.BC.89.2FBass.md "wikilink")，都視TERU為「大哥」一般的存在。
+  - 跟後輩視覺系樂團的交流深切，以[SID的](https://zh.wikipedia.org/wiki/:SID_\(樂團\) "wikilink")[明希為首](https://zh.wikipedia.org/wiki/:SID_\(樂團\)#.E6.98.8E.E5.B8.8C.EF.BC.88Aki.EF.BC.89.2FBass "wikilink")，都視TERU為「大哥」一般的存在。
   - 2008年開始部落格「365の光り」。
 
 ## 經歷
@@ -99,19 +99,20 @@ Teru在姊姊的婚禮上跟Takuro兩人演奏了「ずっと2人で…」這件
       - [Takuro](../Page/Takuro.md "wikilink")
       - [Hisashi](../Page/Hisashi.md "wikilink")
       - [Jiro](../Page/Jiro.md "wikilink")
-  - [佐久間正英](../Page/佐久間正英.md "wikilink")
-  - [大貫亞美](../Page/大貫亞美.md "wikilink")
-  - [冰室京介](../Page/冰室京介.md "wikilink")
+  - [佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+  - [大貫亞美](https://zh.wikipedia.org/wiki/大貫亞美 "wikilink")
+  - [冰室京介](https://zh.wikipedia.org/wiki/冰室京介 "wikilink")
   - [YUKI](../Page/YUKI_\(歌手\).md "wikilink")
-  - [hide](../Page/hide.md "wikilink")
+  - [hide](https://zh.wikipedia.org/wiki/hide "wikilink")
   - [櫻井和壽](../Page/櫻井和壽.md "wikilink")
-  - [Radio Caroline](../Page/Radio_Caroline.md "wikilink")
+  - [Radio
+    Caroline](https://zh.wikipedia.org/wiki/Radio_Caroline "wikilink")
   - [THE MAD CAPSULE
-    MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")
-  - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")
-  - [シド](../Page/シド.md "wikilink")
-  - [ギルガメッシュ](../Page/ギルガメッシュ.md "wikilink")
-  - [ムック](../Page/ムック.md "wikilink")
+    MARKETS](https://zh.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")
+  - [L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")
+  - [シド](https://zh.wikipedia.org/wiki/シド "wikilink")
+  - [ギルガメッシュ](https://zh.wikipedia.org/wiki/ギルガメッシュ "wikilink")
+  - [ムック](https://zh.wikipedia.org/wiki/ムック "wikilink")
 
 ## 外部連結
 

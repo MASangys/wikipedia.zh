@@ -1,7 +1,7 @@
-**netcat**是個[计算机网络公用程式](../Page/计算机网络.md "wikilink")，用來對網路連線[TCP或者](../Page/TCP.md "wikilink")[UDP進行讀寫](../Page/UDP.md "wikilink")。
+**netcat**是個[计算机网络公用程式](../Page/计算机网络.md "wikilink")，用來對網路連線[TCP或者](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP進行讀寫](https://zh.wikipedia.org/wiki/UDP "wikilink")。
 
 netcat
-在2001年insecure.org對[nmap用戶郵件列表舉辦的投票被推選為第二有用的網路保全工具](../Page/nmap.md "wikilink")\[1\]。2003年投票結果是第四名\[2\]；2006年的投票繼續穩佔同樣第四名寶座。\[3\]
+在2001年insecure.org對[nmap用戶郵件列表舉辦的投票被推選為第二有用的網路保全工具](https://zh.wikipedia.org/wiki/nmap "wikilink")\[1\]。2003年投票結果是第四名\[2\]；2006年的投票繼續穩佔同樣第四名寶座。\[3\]
 
 ## 範例
 
@@ -12,7 +12,7 @@ netcat
   user@foo$ nc bar 3333 < backup.iso
 ```
 
-在端口25建立內容未加工过的连接（类似[telnet](../Page/telnet.md "wikilink")）：
+在端口25建立內容未加工过的连接（类似[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")）：
 
 ``` bash
   nc mail.server.net 25
@@ -26,17 +26,17 @@ netcat
 
 ## 變體
 
-netcat原始版本是一個[Unix程式](../Page/Unix.md "wikilink")。已知的作者叫做[\*Hobbit\*](../Page/*Hobbit*.md "wikilink")。他於1996年3月發行版本1.1。
+netcat原始版本是一個[Unix程式](https://zh.wikipedia.org/wiki/Unix "wikilink")。已知的作者叫做[\*Hobbit\*](https://zh.wikipedia.org/wiki/*Hobbit* "wikilink")。他於1996年3月發行版本1.1。
 2013年，由chenghao0511由netcat-1.11升级到netcat-1.12,netcat-1.13,netcat-1.14直到netcat-1.15。
 netcat-1.12，在使用-e选项的时候，对ctrl+c进行了处理。 netcat-1.13，添加了-C选项，类似于-L选项。
 netcat-1.14，对netcat的传输功能进行了修正，可以在传输完成后立即退出。
 netcat-1.15，可以使用UDP模式，既-u和-e选项一起使用得到一个shell。
-Netcat完全[POSIX相容](../Page/POSIX.md "wikilink")，並且目前現存多種不同的實現：[完全重新改寫的GNU](../Page/重寫_\(編成\).md "wikilink")
+Netcat完全[POSIX相容](https://zh.wikipedia.org/wiki/POSIX "wikilink")，並且目前現存多種不同的實現：[完全重新改寫的GNU](https://zh.wikipedia.org/wiki/重寫_\(編成\) "wikilink")
 netcat是由喬凡尼加克比 (Giovanni Giacobbi)
 維護；[視窗版本是由克利斯衛索柏](../Page/視窗.md "wikilink")（Chris
 Wysopal, Weld Pond網路保全公司）創造。[安德烈畢斯確夫（Andreas
 Bischoff）](http://en.wikipedia.org/wiki/User:Andreas_Bischoff)將視窗版移植到[Windows
-CE](../Page/Windows_CE.md "wikilink")（不是現今的[Windows
+CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")（不是現今的[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")）上。
 
 在某些系統上，修改過的netcat或類似的公用程式以下面命令名出現：
@@ -54,15 +54,16 @@ Mobile](../Page/Windows_Mobile.md "wikilink")）上。
 
 ## 參見
 
-  - [TELNET](../Page/TELNET.md "wikilink")
+  - [TELNET](https://zh.wikipedia.org/wiki/TELNET "wikilink")
 
 <!-- end list -->
 
-  - [Unix程式列表](../Page/Unix程式列表.md "wikilink")
+  - [Unix程式列表](https://zh.wikipedia.org/wiki/Unix程式列表 "wikilink")
 
 <!-- end list -->
 
-  - [Socat (Unix)](../Page/Socat_\(Unix\).md "wikilink")
+  - [Socat
+    (Unix)](https://zh.wikipedia.org/wiki/Socat_\(Unix\) "wikilink")
 
 ## 外部連結
 

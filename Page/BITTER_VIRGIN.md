@@ -1,7 +1,7 @@
 《**BITTER
-VIRGIN**》是[楠桂的](../Page/楠桂.md "wikilink")[漫畫作品](../Page/漫畫.md "wikilink")。自[YOUNG
+VIRGIN**》是[楠桂的](../Page/楠桂.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG
 GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[Square
-Enix](../Page/Square_Enix.md "wikilink")）2005年5號至2008年6號連載。[單行本全](../Page/單行本.md "wikilink")4卷。
+Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
 ## 概要
 
@@ -15,7 +15,7 @@ Enix](../Page/Square_Enix.md "wikilink")）2005年5號至2008年6號連載。[�
 <!-- end list -->
 
   -
-    大介的同學。中學時受到繼父的[性侵犯而](../Page/性侵犯.md "wikilink")[懷孕](../Page/懷孕.md "wikilink")，[流產後再次懷孕](../Page/流產.md "wikilink")，鑒於對身體的負擔考量而把孩子生下來，不過馬上就讓別人寄養。有嚴重的男性恐怖症（大介除外）。現在一個人生活。
+    大介的同學。中學時受到繼父的[性侵犯而](../Page/性侵犯.md "wikilink")[懷孕](https://zh.wikipedia.org/wiki/懷孕 "wikilink")，[流產後再次懷孕](https://zh.wikipedia.org/wiki/流產 "wikilink")，鑒於對身體的負擔考量而把孩子生下來，不過馬上就讓別人寄養。有嚴重的男性恐怖症（大介除外）。現在一個人生活。
 
 <!-- end list -->
 
@@ -46,9 +46,9 @@ Enix](../Page/Square_Enix.md "wikilink")）2005年5號至2008年6號連載。[�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>

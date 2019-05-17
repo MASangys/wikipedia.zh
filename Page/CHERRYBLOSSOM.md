@@ -1,13 +1,13 @@
-**CHERRYBLOSSOM**是日本的樂團。[波麗佳音所屬](../Page/波麗佳音.md "wikilink")。主要以[名古屋為中心活動](../Page/名古屋市.md "wikilink")。2007年3月開始活動。已於2010年6月解散。
+**CHERRYBLOSSOM**是日本的樂團。[波麗佳音所屬](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。主要以[名古屋為中心活動](../Page/名古屋市.md "wikilink")。2007年3月開始活動。已於2010年6月解散。
 
 ## 成員
 
   - **MEEKO**（、1989年1月27日－）O型、主唱
-  - **[MAICO](../Page/:MAICO#1st_Album.E3.80.8CLIFE_IS_SPECIAL.E3.80.8D.md "wikilink")**（、1985年10月13日－）B型、主唱
+  - **[MAICO](https://zh.wikipedia.org/wiki/:MAICO#1st_Album.E3.80.8CLIFE_IS_SPECIAL.E3.80.8D "wikilink")**（、1985年10月13日－）B型、主唱
   - **83**（、1979年6月8日－）A型、貝斯手
   - ****（1983年1月21日－）AB型、鼓手
 
-除了以外皆名古屋出身。是[新潟縣出身](../Page/新潟縣.md "wikilink")。
+除了以外皆名古屋出身。是[新潟縣出身](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")。
 
 ### 已離開成員
 
@@ -15,7 +15,7 @@
 
 ## 經歷
 
-2006年2月，上個月離開搖滾樂團「[midnightPumpkin](../Page/midnightPumpkin.md "wikilink")」的83，為了組成新的樂團開始尋找成員。同年6月MEEKO、MAICO加入，組成CHERRYBLOSSOM。2007年2月，KUPPA、加入；2009年3月，KUPPA離開。
+2006年2月，上個月離開搖滾樂團「[midnightPumpkin](https://zh.wikipedia.org/wiki/midnightPumpkin "wikilink")」的83，為了組成新的樂團開始尋找成員。同年6月MEEKO、MAICO加入，組成CHERRYBLOSSOM。2007年2月，KUPPA、加入；2009年3月，KUPPA離開。
 
 2006年3月製作獨立專輯。同年7月25日發表專輯《Riskygirl》。12月，「DIVE TO
 WORLD」作為電視動畫《[家庭教師HITMAN

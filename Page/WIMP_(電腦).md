@@ -1,14 +1,14 @@
-**WIMP**，是圖形界面電腦所採用的界面典範。在[人機互動領域之中最普遍的電腦互動界面](../Page/人機互動.md "wikilink")，WIMP堪稱無人能出其右，舉凡[微軟的](../Page/微軟.md "wikilink")[Windows](../Page/Windows.md "wikilink")、[蘋果電腦的](../Page/蘋果電腦.md "wikilink")[MacOS](../Page/MacOS.md "wikilink")，甚至其它以[X
-Window系統為基礎的](../Page/X_Window系統.md "wikilink")[作業系統](../Page/作業系統.md "wikilink")，均採用WIMP此一界面典範。
+**WIMP**，是圖形界面電腦所採用的界面典範。在[人機互動領域之中最普遍的電腦互動界面](https://zh.wikipedia.org/wiki/人機互動 "wikilink")，WIMP堪稱無人能出其右，舉凡[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[MacOS](../Page/MacOS.md "wikilink")，甚至其它以[X
+Window系統為基礎的](../Page/X_Window系統.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，均採用WIMP此一界面典範。
 
-WIMP是由「[視窗](../Page/視窗.md "wikilink")」（Window）、「[圖標](../Page/圖標.md "wikilink")」（Icon）、「[選單](../Page/選單.md "wikilink")」（Menu）以及「[指標](../Page/游標.md "wikilink")」（Pointer）所組成的縮寫，其命名方式也指明了它所倚賴的四大互動元件。
+WIMP是由「[視窗](../Page/視窗.md "wikilink")」（Window）、「[圖標](https://zh.wikipedia.org/wiki/圖標 "wikilink")」（Icon）、「[選單](../Page/選單.md "wikilink")」（Menu）以及「[指標](https://zh.wikipedia.org/wiki/游標 "wikilink")」（Pointer）所組成的縮寫，其命名方式也指明了它所倚賴的四大互動元件。
 
 ## 組成元件
 
 ### 視窗
 
 視窗是一個可見的範圍，每一個視窗均被視為獨立的執行終端。一個視窗通常能夠包含文字與圖像。一般而言，為了增進視窗的可用性，一個視窗通常會包含各種控制元件，例如捲軸（Scrollbar）、標題列（Title
-Bar），以及調整大小及縮放功能的元件。當兩個或多個視窗同時出現在[桌面](../Page/桌面.md "wikilink")（desktop）上時，使用者可依個人的需求選擇使其交疊、並排或著是串連\[1\]。
+Bar），以及調整大小及縮放功能的元件。當兩個或多個視窗同時出現在[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")（desktop）上時，使用者可依個人的需求選擇使其交疊、並排或著是串連\[1\]。
 
 ### 圖標
 
@@ -29,7 +29,7 @@ menus）以及環形式選單（Pie menus）\[4\]。
 
 ### 按鈕
 
-[按鈕是一個獨立的控制項](../Page/按鈕.md "wikilink")，可供使用者點選以啟動特定的程序，或著是在兩種系統狀態之間做切換的動作\[5\]。
+[按鈕是一個獨立的控制項](https://zh.wikipedia.org/wiki/按鈕 "wikilink")，可供使用者點選以啟動特定的程序，或著是在兩種系統狀態之間做切換的動作\[5\]。
 
 ### 工具列
 
@@ -37,21 +37,21 @@ menus）以及環形式選單（Pie menus）\[4\]。
 
 ### 對話框
 
-[對話框](../Page/對話框.md "wikilink")（Dialog
+[對話框](https://zh.wikipedia.org/wiki/對話框 "wikilink")（Dialog
 box）是系統為了要提醒使用者特定資訊而出現的視窗，除了顯示警告訊息之外，對話框還可以擔任「確認者」的角色，比方說存檔時的位址、檔案的刪除與否等互動狀況\[7\]。
 
 ## 標準
 
 ### 麥金塔
 
-當[蘋果電腦取用了](../Page/蘋果電腦.md "wikilink")[帕罗奥多研究中心](../Page/PARC.md "wikilink")（Xerox
+當[蘋果電腦取用了](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[帕罗奥多研究中心](https://zh.wikipedia.org/wiki/PARC "wikilink")（Xerox
 Palo Alto Research
-Center）的點子，並大量應用在暢銷的[麥金塔電腦](../Page/麥金塔電腦.md "wikilink")（Macintosh）
+Center）的點子，並大量應用在暢銷的[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）
 上時，也一併針對WIMP這個互動介面典範確立了數項標準\[8\]\[9\]。
 
   - 以使用者的一般日常生活為隱喻（metaphors），以方便他們學習使用。
   - 看（see）與點（point）的使用哲學
-  - 所見即所得（[WYSIWYG](../Page/WYSIWYG.md "wikilink")）
+  - 所見即所得（[WYSIWYG](https://zh.wikipedia.org/wiki/WYSIWYG "wikilink")）
   - 回饋與對話
   - 允許使用者重做的空間
   - 使用最少但最具品味的顏色來設計

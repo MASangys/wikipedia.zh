@@ -1,11 +1,11 @@
 **BMW
-3系列**（）是[德國](../Page/德國.md "wikilink")[汽車制造商](../Page/汽車.md "wikilink")[寶馬汽車生产的一款入門轎車](../Page/BMW.md "wikilink")，并以最畅销的车型成为企业的中坚产品\[1\]。1975年首台3系列轿车作为02级别（02-Reihe）的技术改进款而面世。1981年5月第100万台3系列轿车从生产线中出来，从而成为BMW最为成功的一款车型，并且所有后继的3系列产品都延续这个成功模式，直至今日。
+3系列**（）是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車制造商](https://zh.wikipedia.org/wiki/汽車 "wikilink")[寶馬汽車生产的一款入門轎車](../Page/BMW.md "wikilink")，并以最畅销的车型成为企业的中坚产品\[1\]。1975年首台3系列轿车作为02级别（02-Reihe）的技术改进款而面世。1981年5月第100万台3系列轿车从生产线中出来，从而成为BMW最为成功的一款车型，并且所有后继的3系列产品都延续这个成功模式，直至今日。
 
-在2005年，3系列轎車占去BMW公司近40%的銷售額。3系列也是在[美國最暢銷的外國轎車款](../Page/美國.md "wikilink")，2005年在美國共銷售出9.8萬台3系列轎車。
+在2005年，3系列轎車占去BMW公司近40%的銷售額。3系列也是在[美國最暢銷的外國轎車款](https://zh.wikipedia.org/wiki/美國 "wikilink")，2005年在美國共銷售出9.8萬台3系列轎車。
 
 ## 社会及市场影响
 
-3系列之背景是基於當時[1973年石油危机](../Page/1973年石油危机.md "wikilink")。BMW在這段期間推出E21，成功吸引众多追求品牌及经济相结合的顾客。3年间BMW在世界范围内的汽车销量幾乎翻倍，并且赢得许多国际性的汽车制造业奖项和荣誉\[2\]。30年后，3系列的E46成为该级别汽车中最畅销的产品\[3\]，在[亚洲](../Page/亚洲.md "wikilink")、[美洲和](../Page/美洲.md "wikilink")[欧洲一样普遍](../Page/欧洲.md "wikilink")，BMW同时为它们提供品牌和技术支持。
+3系列之背景是基於當時[1973年石油危机](https://zh.wikipedia.org/wiki/1973年石油危机 "wikilink")。BMW在這段期間推出E21，成功吸引众多追求品牌及经济相结合的顾客。3年间BMW在世界范围内的汽车销量幾乎翻倍，并且赢得许多国际性的汽车制造业奖项和荣誉\[2\]。30年后，3系列的E46成为该级别汽车中最畅销的产品\[3\]，在[亚洲](../Page/亚洲.md "wikilink")、[美洲和](../Page/美洲.md "wikilink")[欧洲一样普遍](../Page/欧洲.md "wikilink")，BMW同时为它们提供品牌和技术支持。
 
 3系列同样支持BMW的赛车运动传统。根据3系列改装的[M级别](../Page/BMW_M公司.md "wikilink")，[M3](../Page/BMW_M3.md "wikilink")，于1986年首次亮相\[4\]。M3被定位为日常用车兼准赛道跑车投入市场，普及运动轿车，也加深顾客对3系列品牌的认知。
 
@@ -19,7 +19,8 @@
 
   - \- (1992–1998) 3系列
 
-  - [BMW E46](../Page/BMW_E46.md "wikilink") - (1999–2006) 3系列
+  - [BMW E46](https://zh.wikipedia.org/wiki/BMW_E46 "wikilink") -
+    (1999–2006) 3系列
 
   - \- (2005–) 3系列Sedan
 
@@ -40,49 +41,58 @@ Baur生产敞篷车款。
 
   - 欧洲型号
       - 1981-1983 **315** -于1981年发布，装载 1.6升引擎  *M41*
-        [I4](../Page/直列四缸.md "wikilink")，75 PS (55 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，75 PS (55
+        kW)
       - 1975-1979 **316** - 装载1.8升引擎  *M41*
-        [I4](../Page/直列四缸.md "wikilink")，90 PS (66 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，90 PS (66
+        kW)
       - 1980-1983 **316** - 1.8 L *M10B18*
-        [I4](../Page/直列四缸.md "wikilink")，90 PS (66 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，90 PS (66
+        kW)
       - 1975-1980 **318** - 1.8 L *M42*
-        [I4](../Page/直列四缸.md "wikilink")，98 PS (72 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，98 PS (72
+        kW)
       - 1979-1983 **318i** - 316的升级版，装载1.8 L引擎，*M42*
-        [I4](../Page/直列四缸.md "wikilink")，在316引擎的基础上增装博世燃油喷射系统，使马力突破105PS
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，在316引擎的基础上增装博世燃油喷射系统，使马力突破105PS
         ，(77 kW)
       - 1975-1979 **320/4** - 2.0 L *M64*
-        [I4](../Page/直列四缸.md "wikilink")，109 PS (80 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，109 PS (80
+        kW)
       - 1975-1979 **320i** -320的升级版，装载了限滑差速器，装载了 2.0 L的引擎， *M10B20*
-        [I4](../Page/直列四缸.md "wikilink")，马力达125 PS (92 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，马力达125 PS
+        (92 kW)
       - 1979-1982 **320/6** - 装载了全新宝马6缸发动机和Solex化油器，2.0 L *M20B20*
-        [I6](../Page/I6.md "wikilink")，122 PS (90 kW)
+        [I6](https://zh.wikipedia.org/wiki/I6 "wikilink")，122 PS (90 kW)
       - 1978-1982 **323i** - 2.3 L *M20B23*
-        [I6](../Page/I6.md "wikilink")，143 PS (105 kW) ，装配了动力转向，5速牙箱。
+        [I6](https://zh.wikipedia.org/wiki/I6 "wikilink")，143 PS (105
+        kW) ，装配了动力转向，5速牙箱。
   - 世界其他地区型号。
       - 1976-1979 **320i** - 2.0 L *M43/1*
-        [I4](../Page/直列四缸.md "wikilink")，110 hp (82 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，110 hp (82
+        kW)
       - 1980-1983 **320i** - 1.8 L *M42*
-        [I4](../Page/直列四缸.md "wikilink")，100 hp (75 kW)
+        [I4](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")，100 hp (75
+        kW)
 
 ## E30, 1982-1990
 
-E30平台的轿车生产于1982年至1991年间（敞篷车至1993年）。E30面世时的价格1.821万[美元几乎比七年前的E](../Page/美元.md "wikilink")21翻了一倍\[6\]，但仍凭借其[直列六缸](../Page/直列六缸.md "wikilink")[发动机及四门的设计](../Page/发动机.md "wikilink")（1984年）保证销量。搭载在325e上的大扭矩直列六缸发动机可产生121匹[马力](../Page/马力.md "wikilink")（90
+E30平台的轿车生产于1982年至1991年间（敞篷车至1993年）。E30面世时的价格1.821万[美元几乎比七年前的E](../Page/美元.md "wikilink")21翻了一倍\[6\]，但仍凭借其[直列六缸](https://zh.wikipedia.org/wiki/直列六缸 "wikilink")[发动机及四门的设计](../Page/发动机.md "wikilink")（1984年）保证销量。搭载在325e上的大扭矩直列六缸发动机可产生121匹[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（90
 kW），却仍符合当时严格的排放标准。E30成为自BMW 2002以来在美国市场中拥有最强大动力的BMW紧凑车型。
 
-大[排量的](../Page/排量.md "wikilink")325i及325is于1985年投入生产线。虽然置换引擎令排量减少到2.5L，输出却提升至168匹马力（125
-kW），公司相比起油耗更侧重于性能。由于采用更短[冲程的新发动机](../Page/冲程.md "wikilink")，新发动机的转数极限由5000转提升至6500转。
+大[排量的](https://zh.wikipedia.org/wiki/排量 "wikilink")325i及325is于1985年投入生产线。虽然置换引擎令排量减少到2.5L，输出却提升至168匹马力（125
+kW），公司相比起油耗更侧重于性能。由于采用更短[冲程的新发动机](https://zh.wikipedia.org/wiki/冲程 "wikilink")，新发动机的转数极限由5000转提升至6500转。
 
 作为在325i基础上升级的325is，它在原车的标准上增加一些新的产品配置。这些包括一个全电子包，BMW运动型座椅，黑色窗框，BMW
 M-Technic
-空力套件，14英寸BBS[轮胎以及近齿轮比](../Page/轮胎.md "wikilink")[变速箱](../Page/变速箱.md "wikilink")。其它一些选件也可配置在325is上，但由于时间的推移，被错误认为是标准配置。这些选件包括[限滑差速器](../Page/限滑差速器.md "wikilink")，真皮内饰，天窗和BMW15寸BBS轮胎。在美国生产的车选件或有所不同。
+空力套件，14英寸BBS[轮胎以及近齿轮比](https://zh.wikipedia.org/wiki/轮胎 "wikilink")[变速箱](https://zh.wikipedia.org/wiki/变速箱 "wikilink")。其它一些选件也可配置在325is上，但由于时间的推移，被错误认为是标准配置。这些选件包括[限滑差速器](../Page/限滑差速器.md "wikilink")，真皮内饰，天窗和BMW15寸BBS轮胎。在美国生产的车选件或有所不同。
 
-[四轮驱动的版本](../Page/四轮驱动.md "wikilink")325ix于1986年投入生产线。四缸的318于1985年停产，后于1991年重新推出市场，并搭载全新1.8L[双顶置凸轮轴的M](../Page/顶置凸轮轴#双顶置凸轮轴（DOHC）.md "wikilink")42B18发动机。
+[四轮驱动的版本](https://zh.wikipedia.org/wiki/四轮驱动 "wikilink")325ix于1986年投入生产线。四缸的318于1985年停产，后于1991年重新推出市场，并搭载全新1.8L[双顶置凸轮轴的M](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")42B18发动机。
 
-在1987年末，BMW发布E30的[旅行车版本](../Page/旅行车.md "wikilink")，它被普遍投入生产直至1994年。它可以搭载1.6，1.8，2.0或2.5[公升发动机](../Page/公升.md "wikilink")，也可搭载2.4公升[柴油发动机](../Page/柴油.md "wikilink")。325ix的旅行车版本则采用四轮驱动技术。
+在1987年末，BMW发布E30的[旅行车版本](https://zh.wikipedia.org/wiki/旅行车 "wikilink")，它被普遍投入生产直至1994年。它可以搭载1.6，1.8，2.0或2.5[公升发动机](../Page/公升.md "wikilink")，也可搭载2.4公升[柴油发动机](../Page/柴油.md "wikilink")。325ix的旅行车版本则采用四轮驱动技术。
 
 美国市场最大动力的E30以[M3的形式于](../Page/BMW_M3.md "wikilink")1989年引进。它采用192匹马力（143
 kW）的BMW
-S14直列四缸发动机和[博世](../Page/博世.md "wikilink")[燃料喷射装置](../Page/燃料喷射装置.md "wikilink")。
+S14直列四缸发动机和[博世](https://zh.wikipedia.org/wiki/博世 "wikilink")[燃料喷射装置](https://zh.wikipedia.org/wiki/燃料喷射装置 "wikilink")。
 
 欧洲型号：
 
@@ -120,10 +130,10 @@ S14直列四缸发动机和[博世](../Page/博世.md "wikilink")[燃料喷射�
 
 ## E36，1991-1998
 
-E36在1991年至1999年间生产\[7\]。它采用了被成功应用在[Z1上的](../Page/BMW_Z1.md "wikilink")“Z-axle”[多连杆悬吊系统](../Page/多连杆悬吊系统.md "wikilink")。[双顶置凸轮轴发动机被广泛使用](../Page/顶置凸轮轴#双顶置凸轮轴（DOHC）.md "wikilink")，而搭载着[VANOS系统的](../Page/VANOS.md "wikilink")[VVT发动机则在](../Page/VVT.md "wikilink")1993年面世。
+E36在1991年至1999年间生产\[7\]。它采用了被成功应用在[Z1上的](https://zh.wikipedia.org/wiki/BMW_Z1 "wikilink")“Z-axle”[多连杆悬吊系统](https://zh.wikipedia.org/wiki/多连杆悬吊系统 "wikilink")。[双顶置凸轮轴发动机被广泛使用](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，而搭载着[VANOS系统的](https://zh.wikipedia.org/wiki/VANOS "wikilink")[VVT发动机则在](https://zh.wikipedia.org/wiki/VVT "wikilink")1993年面世。
 
 四门版本的E36在1991年秋季开始发售，但E30的轿跑车则在进入1992年才退出市场。E36的敞篷车也被推迟至1994年面世。
-[掀背车型](../Page/掀背车.md "wikilink")318ti于1995年推出，它在欧洲并未太受欢迎，在美国也不太成功。E36与E30从保险杠到A柱几乎是一致的设计。而此外一切别的东西都是独特的，E30平台原有的的后轮[半拖臂独立悬架被替换成Z](../Page/半拖臂独立悬架.md "wikilink")-axle多连杆悬挂，并被应用到其他所有的E36车型上，[Z3和M](../Page/BMW_Z3.md "wikilink")
+[掀背车型](../Page/掀背车.md "wikilink")318ti于1995年推出，它在欧洲并未太受欢迎，在美国也不太成功。E36与E30从保险杠到A柱几乎是一致的设计。而此外一切别的东西都是独特的，E30平台原有的的后轮[半拖臂独立悬架被替换成Z](https://zh.wikipedia.org/wiki/半拖臂独立悬架 "wikilink")-axle多连杆悬挂，并被应用到其他所有的E36车型上，[Z3和M](../Page/BMW_Z3.md "wikilink")
 轿跑车也有着类似的悬挂设置。旅行车"Touring"则从1995年开始在欧洲销售。
 
 1996年，2.5L的M50B25发动机替换原有2.8L的[M52B28发动机](../Page/BMW_M52.md "wikilink")，被应用在325i的车型上，并由此创立328i型车。另一款动力较弱的2.5L发动机，M52B25则被搭载在323i而非325i上。
@@ -278,17 +288,17 @@ M54发动机于](../Page/BMW_M54.md "wikilink")2001年问世；被搭载于全�
    E90平台是当代正在生产的车型，作为2006款3系列面世，同时推出的还包括轿车版（E90），旅行车版（E91），
 轿跑车版（E92），以及敞篷轿跑车版（E93）。它从E46的基础上被完全重新设计制造，包括对发动机、传输、驾驶空间、悬挂技术等方面的变动，并且增加了许多高科技的特点及设置。轿跑车及敞篷的车身采用符合自身条件的独立设计，显得比E90更长和更窄，而并非像以往单纯的从轿车版减少两个门。作为过渡车型的2009款3系列亦是基于E90平台进行外观改造。
 
-目前有四种发动机的设置可供选择，其中两种为BMW新的“N”系列直列发动机，包含许多新科技的特点。技术革新如采用轻量化的[镁质](../Page/镁.md "wikilink")、[铝质材料](../Page/铝.md "wikilink")，电子水泵，Valvetronic[无级电子气门揚程控制系統](../Page/无级电子气门揚程控制系統.md "wikilink")，Double-VANOS双凸轮轴[可变气门正时系统等](../Page/可变气门正时系统.md "wikilink")，使得新发动机比它的前辈更轻和拥有更强大的动力的同时，更可节省15%的[燃油消耗](../Page/燃油.md "wikilink")。E90同样使BMW回归涡轮技术，为了推出其后的E92轿跑车。N54发动机可产生300匹马力（220
+目前有四种发动机的设置可供选择，其中两种为BMW新的“N”系列直列发动机，包含许多新科技的特点。技术革新如采用轻量化的[镁质](../Page/镁.md "wikilink")、[铝质材料](../Page/铝.md "wikilink")，电子水泵，Valvetronic[无级电子气门揚程控制系統](https://zh.wikipedia.org/wiki/无级电子气门揚程控制系統 "wikilink")，Double-VANOS双凸轮轴[可变气门正时系统等](https://zh.wikipedia.org/wiki/可变气门正时系统 "wikilink")，使得新发动机比它的前辈更轻和拥有更强大的动力的同时，更可节省15%的[燃油消耗](https://zh.wikipedia.org/wiki/燃油 "wikilink")。E90同样使BMW回归涡轮技术，为了推出其后的E92轿跑车。N54发动机可产生300匹马力（220
 kW）和每英尺300磅（410 N·m）的扭力。
 
 E90平台也衍生了BMW的另一项第一：一辆硬式顶棚可折叠的敞篷车。
 
-E90在[英国的销售状况十分理想](../Page/英国.md "wikilink")。在2007年，记录显示共卖出了58000辆3系列车型，并且在当年最受英国人欢迎的轿车中排名第七。\[9\]
+E90在[英国的销售状况十分理想](https://zh.wikipedia.org/wiki/英国 "wikilink")。在2007年，记录显示共卖出了58000辆3系列车型，并且在当年最受英国人欢迎的轿车中排名第七。\[9\]
 
 在美国市场，2006款的325i和330i同样搭载3.0 L的N52发动机，但330i的特点是改良了发动机软件和进排气系统以将功率提升了40
 hp(255 vs. 215)。2007款又改变为从发动机增加力量，也因此而导致改款为2007款。加拿大也有一款323i轿车的减配版，搭载2.5
 L[汽油喷射直列六缸发动机](../Page/燃料噴射裝置.md "wikilink")，可获得200hp(149
-kW)的动力性能，但这款323i却缺乏其它更昂贵的3系列型号的配置，比如[氙气大灯](../Page/氙气.md "wikilink")、雾灯、自动空调以及力量可调式座椅。新的335i将搭载双涡轮增压装置，并将应用到[1系列和](../Page/BMW_1系列.md "wikilink")[5系列](../Page/BMW_5系列.md "wikilink")，最快将于2009年上半年应用于[6系列上面世](../Page/BMW_6系列.md "wikilink")。
+kW)的动力性能，但这款323i却缺乏其它更昂贵的3系列型号的配置，比如[氙气大灯](https://zh.wikipedia.org/wiki/氙气 "wikilink")、雾灯、自动空调以及力量可调式座椅。新的335i将搭载双涡轮增压装置，并将应用到[1系列和](../Page/BMW_1系列.md "wikilink")[5系列](../Page/BMW_5系列.md "wikilink")，最快将于2009年上半年应用于[6系列上面世](../Page/BMW_6系列.md "wikilink")。
 发动机：
 
   - **316i** - 1.6 L I4, 122 PS (90 kW)
@@ -318,7 +328,7 @@ kW)的动力性能，但这款323i却缺乏其它更昂贵的3系列型号的配
 ## 奖项
 
 3系列车型于1992年至2009年连续18年入选《Car and
-Driver》杂志评出的“十款最佳车型”，成为该名单上最持久入围的车型(第1位為本田Accord)\[10\]。E90亦于2006年被[加拿大年度风云车评选为](../Page/加拿大年度风云车.md "wikilink")“最佳新运动型轿车”。同样的，它还在2006年[纽约国际车展获得](../Page/纽约国际车展.md "wikilink")“[世界年度风云车](../Page/世界年度风云车.md "wikilink")”奖项。
+Driver》杂志评出的“十款最佳车型”，成为该名单上最持久入围的车型(第1位為本田Accord)\[10\]。E90亦于2006年被[加拿大年度风云车评选为](https://zh.wikipedia.org/wiki/加拿大年度风云车 "wikilink")“最佳新运动型轿车”。同样的，它还在2006年[纽约国际车展获得](../Page/纽约国际车展.md "wikilink")“[世界年度风云车](https://zh.wikipedia.org/wiki/世界年度风云车 "wikilink")”奖项。
 
 ## 参考资料
 

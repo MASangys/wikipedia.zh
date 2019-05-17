@@ -1,17 +1,17 @@
 《**CBS晚間新聞**》（***CBS Evening
-News***）是[美國](../Page/美國.md "wikilink")[哥倫比亞廣播公司](../Page/哥倫比亞廣播公司.md "wikilink")（CBS）的旗艦全國新聞聯播節目。節目於1948年首播，並於1963年改為現稱。現時其週一至週五主播為[杰夫·格罗尔](../Page/杰夫·格罗尔.md "wikilink")。周末版节目名称为《CBS周末新闻》（CBS
+News***）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")（CBS）的旗艦全國新聞聯播節目。節目於1948年首播，並於1963年改為現稱。現時其週一至週五主播為[杰夫·格罗尔](https://zh.wikipedia.org/wiki/杰夫·格罗尔 "wikilink")。周末版节目名称为《CBS周末新闻》（CBS
 Weekend News），週六主播为Reena Ninan，週日主播为Elaine Quijano。
 
-《CBS晚間新聞》連同廣告時段全長三十分鐘。值得留意的是，《CBS晚間新聞》播出時間因地區而異：CBS的某些地區聯播分台安排於傍晚5:30播放本節目，其他分台則分別於傍晚6:00及6:30播放本節目；其競爭對手《[ABC世界新聞](../Page/ABC世界新聞.md "wikilink")》及《[NBC晚間新聞](../Page/NBC晚間新聞.md "wikilink")》亦採用類似安排。
+《CBS晚間新聞》連同廣告時段全長三十分鐘。值得留意的是，《CBS晚間新聞》播出時間因地區而異：CBS的某些地區聯播分台安排於傍晚5:30播放本節目，其他分台則分別於傍晚6:00及6:30播放本節目；其競爭對手《[ABC世界新聞](../Page/ABC世界新聞.md "wikilink")》及《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》亦採用類似安排。
 
 1993年至1995年期间，节目曾改为双主播制，由[丹·拉瑟和](../Page/丹·拉瑟.md "wikilink")[宗毓华共同主持](../Page/宗毓华.md "wikilink")。1995年双主播制取消，改回单人播报。
 
 ## 华人地区转播
 
-[香港的](../Page/香港.md "wikilink")[亚洲電視国际台曾在](../Page/亚洲電視国际台.md "wikilink")2009年1月1日前播出《CBS晚間新聞》，现已取消。
+[香港的](../Page/香港.md "wikilink")[亚洲電視国际台曾在](https://zh.wikipedia.org/wiki/亚洲電視国际台 "wikilink")2009年1月1日前播出《CBS晚間新聞》，现已取消。
 
-1992年2月17日\[1\]，[台灣的](../Page/台灣.md "wikilink")[中國電視公司](../Page/中國電視公司.md "wikilink")（中視）與CBS合作，在中視晨間新聞節目《[中國早安](../Page/中國早安.md "wikilink")》時段內的每日07:30～07:45聯播《CBS晚間新聞》，《中國早安》雙主持人-{[于澄](../Page/于澄.md "wikilink")}-、[陳乃輝及時作重點](../Page/陳乃輝.md "wikilink")[口譯](../Page/口譯.md "wikilink")；中視將《CBS晚間新聞》每日內容加以整理後，將每條新聞都標示中文標題，安排在當日11:00～11:20重播一次。\[2\]
-之後，中視改以《美國CBS英語新聞》為名播放《CBS晚間新聞》，全程預先開啟[隱藏字幕](../Page/隱藏字幕.md "wikilink")。
+1992年2月17日\[1\]，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（中視）與CBS合作，在中視晨間新聞節目《[中國早安](../Page/中國早安.md "wikilink")》時段內的每日07:30～07:45聯播《CBS晚間新聞》，《中國早安》雙主持人-{[于澄](https://zh.wikipedia.org/wiki/于澄 "wikilink")}-、[陳乃輝及時作重點](https://zh.wikipedia.org/wiki/陳乃輝 "wikilink")[口譯](../Page/口譯.md "wikilink")；中視將《CBS晚間新聞》每日內容加以整理後，將每條新聞都標示中文標題，安排在當日11:00～11:20重播一次。\[2\]
+之後，中視改以《美國CBS英語新聞》為名播放《CBS晚間新聞》，全程預先開啟[隱藏字幕](https://zh.wikipedia.org/wiki/隱藏字幕 "wikilink")。
 
 ## 注釋
 
@@ -26,6 +26,6 @@ Weekend News），週六主播为Reena Ninan，週日主播为Elaine Quijano。
 [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
 [Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink")
 
-1.  廣播電視年鑑編纂委員會，《中華民國廣播電視年鑑：79～84》，[中華民國廣播電視事業協會發行](../Page/中華民國廣播電視事業協會.md "wikilink")，《廣播與電視》雜誌社1996年5月20日-{出}-版，第210頁。
+1.  廣播電視年鑑編纂委員會，《中華民國廣播電視年鑑：79～84》，[中華民國廣播電視事業協會發行](https://zh.wikipedia.org/wiki/中華民國廣播電視事業協會 "wikilink")，《廣播與電視》雜誌社1996年5月20日-{出}-版，第210頁。
 2.  [中華民國電視學會電視年鑑編纂委員](../Page/中華民國電視學會.md "wikilink")
     編纂，《[中華民國電視年鑑第七輯](../Page/中華民國電視年鑑.md "wikilink")：民國七十九年至八十年》，中華民國電視學會1992年6月30日出版，第34頁。

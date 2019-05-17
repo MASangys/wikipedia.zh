@@ -1,5 +1,5 @@
 **ATX**（Advanced Technology
-Extended）[主機板規格由](../Page/主機板規格比較.md "wikilink")[英特爾公司在](../Page/英特爾.md "wikilink")1995年制定。這是多年來第一次電腦機殼與主機板設計的重大改變。ATX取代[AT主機板規格](../Page/AT規格.md "wikilink")，成為較新電腦系統預設的主機板規格。ATX解決以往[AT規格中](../Page/AT規格.md "wikilink")，令電腦組裝人士煩惱的問題。其他衍生的主機板規格（包括[microATX](../Page/microATX.md "wikilink")、[FlexATX與](../Page/FlexATX.md "wikilink")[mini-ITX](../Page/mini-ITX.md "wikilink")）保留ATX基本的背板設置，但主機板的面積減少，擴充槽的數目也有所刪減。
+Extended）[主機板規格由](../Page/主機板規格比較.md "wikilink")[英特爾公司在](https://zh.wikipedia.org/wiki/英特爾 "wikilink")1995年制定。這是多年來第一次電腦機殼與主機板設計的重大改變。ATX取代[AT主機板規格](../Page/AT規格.md "wikilink")，成為較新電腦系統預設的主機板規格。ATX解決以往[AT規格中](../Page/AT規格.md "wikilink")，令電腦組裝人士煩惱的問題。其他衍生的主機板規格（包括[microATX](https://zh.wikipedia.org/wiki/microATX "wikilink")、[FlexATX與](https://zh.wikipedia.org/wiki/FlexATX "wikilink")[mini-ITX](https://zh.wikipedia.org/wiki/mini-ITX "wikilink")）保留ATX基本的背板設置，但主機板的面積減少，擴充槽的數目也有所刪減。
 
 自英特爾在1995年發表最初的ATX官方規格後，此規格經歷多次變更；最新2.3版本規格於2007年發表。標準的ATX主機版，長12英吋，寬9.6英吋（305毫米×244毫米）。這也容許標準的ATX機箱容納較小的microATX主機板。
 
@@ -9,9 +9,9 @@ Extended）[主機板規格由](../Page/主機板規格比較.md "wikilink")[英
 
 [Abit-kt7-large.jpg](https://zh.wikipedia.org/wiki/File:Abit-kt7-large.jpg "fig:Abit-kt7-large.jpg")
 
-過往的AT電腦機箱，具有一個直接連到電源供應器的電源開關。開關的主要形式，是一個雙極式的開關，開關的四條針腳，連到對應的電線。由於電線是[銲接到電源開關](../Page/銲接.md "wikilink")，因此，如果電源供應器損壞，更換就會變得非常困難。
+過往的AT電腦機箱，具有一個直接連到電源供應器的電源開關。開關的主要形式，是一個雙極式的開關，開關的四條針腳，連到對應的電線。由於電線是[銲接到電源開關](https://zh.wikipedia.org/wiki/銲接 "wikilink")，因此，如果電源供應器損壞，更換就會變得非常困難。
 
-ATX的[電源供應器](../Page/電源供應器.md "wikilink")，並不直接連到電腦的電源開關，因此電腦可以通過[軟件關機](../Page/軟件關機.md "wikilink")。不過，大多數的ATX電源供應器，背面具有一個手動開關，容許使用者將電腦完全關閉；電腦在此時將不會得到任何電力。當這個開關打開的時候，就算表面上電腦已經「關機」，電力仍然會進入電腦各部件。這種「軟體關機」或「待命」的特徵，可以用於遙控開機（例如通過[调制解调器開機](../Page/调制解调器.md "wikilink")，即[Wake-on-Ring](../Page/Wake-on-Ring.md "wikilink")，或通過[網路開機](../Page/網路開機.md "wikilink")，即[Wake-on-LAN](../Page/網路喚醒.md "wikilink")），但一般而言，電腦仍然是通過前面的開關來開機。
+ATX的[電源供應器](../Page/電源供應器.md "wikilink")，並不直接連到電腦的電源開關，因此電腦可以通過[軟件關機](https://zh.wikipedia.org/wiki/軟件關機 "wikilink")。不過，大多數的ATX電源供應器，背面具有一個手動開關，容許使用者將電腦完全關閉；電腦在此時將不會得到任何電力。當這個開關打開的時候，就算表面上電腦已經「關機」，電力仍然會進入電腦各部件。這種「軟體關機」或「待命」的特徵，可以用於遙控開機（例如通過[调制解调器開機](../Page/调制解调器.md "wikilink")，即[Wake-on-Ring](https://zh.wikipedia.org/wiki/Wake-on-Ring "wikilink")，或通過[網路開機](https://zh.wikipedia.org/wiki/網路開機 "wikilink")，即[Wake-on-LAN](../Page/網路喚醒.md "wikilink")），但一般而言，電腦仍然是通過前面的開關來開機。
 
 ATX電源供應器連到主機板的插頭，比起AT也有所變更。舊式的AT電源供應器，使用兩個形狀相似的插頭連到主機板，由於易於錯接，主機板很容易會因為短路而受到永久損壞。ATX則使用一個具方向性的插頭，反方向時不能插入主機板，此[防呆設計免除損壞主機板的風險](../Page/防呆.md "wikilink")。另外，ATX也提供一個3.3伏特的電源，主機板因此無須再使用其他的電源來「間接降壓」取得3.3伏特電源。一些最後期生產的AT主機板，也同時支援AT與ATX的電源供應器。
 
@@ -19,7 +19,7 @@ ATX電源供應器連到主機板的插頭，比起AT也有所變更。舊式的
 
 其後Intel的[Pentium
 4出現](../Page/奔腾4.md "wikilink")，標準的20針ATX電源接腳開始無法提供處理器需要的較大電量，因此，新的ATX規格再加上了一個4針的12伏特電源接頭。這個設計也用於AMD的[Athlon
-XP與](../Page/Athlon_XP.md "wikilink")[Athlon
+XP與](https://zh.wikipedia.org/wiki/Athlon_XP "wikilink")[Athlon
 64處理器](../Page/AMD_Athlon_64.md "wikilink")。一些高價系統，也適用其他形式的輔助電源接頭。
 
 到了2000年，顯示卡的電量需求大幅上升，一些高價顯示卡的電量需求，更超越了[AGP與](../Page/AGP.md "wikilink")[PCI
@@ -177,19 +177,19 @@ ATX的出現，也統一了mini-DIN鍵盤與PS/2滑鼠插座的使用。相比�
 </tr>
 <tr class="even">
 <td><p>1997</p></td>
-<td><p><a href="../Page/microATX.md" title="wikilink">microATX與EmbATX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/microATX" title="wikilink">microATX與EmbATX</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1998</p></td>
-<td><p><a href="../Page/WATX.md" title="wikilink">WATX</a> (Workstation ATX)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WATX" title="wikilink">WATX</a> (Workstation ATX)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1999</p></td>
-<td><p><a href="../Page/Flex_ATX.md" title="wikilink">Flex ATX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Flex_ATX" title="wikilink">Flex ATX</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -216,9 +216,9 @@ ATX的出現，也統一了mini-DIN鍵盤與PS/2滑鼠插座的使用。相比�
 
   - [AT規格](../Page/AT規格.md "wikilink")
   - [BTX規格](../Page/BTX規格.md "wikilink")
-  - [Mini-ITX](../Page/Mini-ITX.md "wikilink")
-  - [Nano-ITX](../Page/Nano-ITX.md "wikilink")
-  - [Pico-ITX](../Page/Pico-ITX.md "wikilink")
+  - [Mini-ITX](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink")
+  - [Nano-ITX](https://zh.wikipedia.org/wiki/Nano-ITX "wikilink")
+  - [Pico-ITX](https://zh.wikipedia.org/wiki/Pico-ITX "wikilink")
 
 ## 參考資料
 

@@ -1,15 +1,15 @@
-是[日本](../Page/日本.md "wikilink")[SQUARE-ENIX在](../Page/SQUARE-ENIX.md "wikilink")[PlayStation
+是[日本](../Page/日本.md "wikilink")[SQUARE-ENIX在](https://zh.wikipedia.org/wiki/SQUARE-ENIX "wikilink")[PlayStation
 2平台上推出的第三人稱射擊遊戲](../Page/PlayStation_2.md "wikilink")，於2006年1月26日公開發售。
 
 ## 歷史
 
 《地獄犬的輓歌
--最終幻想VII-》為「[最終幻想VII補完計劃](../Page/最終幻想VII補完計劃.md "wikilink")」的一部分。
+-最終幻想VII-》為「[最終幻想VII補完計劃](https://zh.wikipedia.org/wiki/最終幻想VII補完計劃 "wikilink")」的一部分。
 
 ## 故事
 
 《地獄犬的輓歌 -最終幻想VII-》發生於《最終幻想VII》之後三年（《[最终幻想VII
-降臨之子](../Page/最终幻想VII_降臨之子.md "wikilink")》後一年），突然出現了一個神秘集團攻擊城鎮的居民，他們的士兵們名叫「Deep
+降臨之子](https://zh.wikipedia.org/wiki/最终幻想VII_降臨之子 "wikilink")》後一年），突然出現了一個神秘集團攻擊城鎮的居民，他們的士兵們名叫「Deep
 Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是原因卻是不明。
 
 ## 特點
@@ -21,7 +21,8 @@ Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是
 
 ## 登場人物
 
-  - 文森特·瓦倫汀（Vincent Valentine，）聲優：[鈴木省吾](../Page/鈴木省吾.md "wikilink")
+  - 文森特·瓦倫汀（Vincent
+    Valentine，）聲優：[鈴木省吾](https://zh.wikipedia.org/wiki/鈴木省吾 "wikilink")
     前神羅總務部調查課塔克斯（Turks，）成員。被神羅瘋狂科學家寶條（Hojo，）經過肉體改造，沉睡在神羅宅邸３０年左右（其間在FFVII:CC中主角Zack
     Fair在大宅地下室尋找鎖匙時看到他正在沉睡），３年前與克勞德（Cloud，）一同拯救星球。
     本作中，在利夫（Reeve，）的招待之下，參加卡姆市（Kalm，）的復興祭，卻遇到了DG傭兵（Deep Ground
@@ -34,14 +35,15 @@ Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是
 
 <!-- end list -->
 
-  - 席德·海溫特（Cid Highwind，）聲優：[山路和弘](../Page/山路和弘.md "wikilink")
+  - 席德·海溫特（Cid
+    Highwind，）聲優：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")
     搭乘著冠上其妻名的雪菈號（Sherra；）的船長，是個冒險心旺盛又熱情洋溢，喜愛著天空的浪漫家。現在為WRO的成員之一，為WRO飛空艇師團的隊長。
 
 <!-- end list -->
 
   - 利夫（Reeve，）聲優：[銀河萬丈](../Page/銀河萬丈.md "wikilink")
     一直以機器，凱特·西（Cait
-    Sith，）的身分在《[最終幻想VII](../Page/最終幻想VII.md "wikilink")》本傳中幫助克勞德一行人。神羅公司瓦解後，成立世界再生機構（WRO），為該機構的局長，幫助星球的再生。
+    Sith，）的身分在《[最終幻想VII](https://zh.wikipedia.org/wiki/最終幻想VII "wikilink")》本傳中幫助克勞德一行人。神羅公司瓦解後，成立世界再生機構（WRO），為該機構的局長，幫助星球的再生。
 
 <!-- end list -->
 
@@ -65,16 +67,17 @@ Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是
 
 <!-- end list -->
 
-  - 巴雷特・華勒斯（Barett Wallace，）聲優：[小林正寬](../Page/小林正寬.md "wikilink")
+  - 巴雷特・華勒斯（Barett
+    Wallace，）聲優：[小林正寬](https://zh.wikipedia.org/wiki/小林正寬 "wikilink")
     3年前與克勞德等人一起行動的同伴之一。戰後則在找尋能夠替代魔光的新能源。動向不明。
 
 ### Deepground
 
-**威斯**（Weiss）聲優：[中田譲治](../Page/中田譲治.md "wikilink")
+**威斯**（Weiss）聲優：[中田譲治](https://zh.wikipedia.org/wiki/中田譲治 "wikilink")
 
   -
     Tsviet (Deepground裡最強的幾位戰士,
-    有[傑尼西斯的細胞](../Page/傑尼西斯·拉普索道斯.md "wikilink"))
+    有[傑尼西斯的細胞](https://zh.wikipedia.org/wiki/傑尼西斯·拉普索道斯 "wikilink"))
     裡最強的戰士, 稱號「純白的帝王威斯（Weiss the Immaculate）」, 除了出任務和訓練的時候,
     被長期用帶電的鎖鏈鎖在座位上。 Restrictors
     (Deepground的領導)還把晶片植入他體內, 如果他們死了, 就會在威斯的體內放出病毒, 使他在三天死去。
@@ -108,16 +111,16 @@ Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是
 ## 製作名單
 
   - [北瀨佳範](../Page/北瀨佳範.md "wikilink")
-    <small>([遊戲製作人](../Page/遊戲製作人.md "wikilink"))</small>
-  - [中里尚義](../Page/中里尚義.md "wikilink")
-    <small>([遊戲監督](../Page/遊戲監督.md "wikilink"))</small>
+    <small>([遊戲製作人](https://zh.wikipedia.org/wiki/遊戲製作人 "wikilink"))</small>
+  - [中里尚義](https://zh.wikipedia.org/wiki/中里尚義 "wikilink")
+    <small>([遊戲監督](https://zh.wikipedia.org/wiki/遊戲監督 "wikilink"))</small>
   - [野村哲也](../Page/野村哲也.md "wikilink")
-    <small>([角色設計](../Page/角色設計.md "wikilink"))</small>
+    <small>([角色設計](https://zh.wikipedia.org/wiki/角色設計 "wikilink"))</small>
 
 ## 相關條目
 
-  - [最終幻想VII](../Page/最終幻想VII.md "wikilink")
-  - [SQUARE ENIX](../Page/SQUARE_ENIX.md "wikilink")
+  - [最終幻想VII](https://zh.wikipedia.org/wiki/最終幻想VII "wikilink")
+  - [SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")
   - [PlayStation 2](../Page/PlayStation_2.md "wikilink")
 
 ## 外部連結

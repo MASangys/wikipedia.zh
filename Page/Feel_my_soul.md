@@ -7,7 +7,7 @@ soul**是[日本唱作女](../Page/日本.md "wikilink")[歌手](../Page/歌手.
 1.  **feel my soul**
       -
         作詞・作曲：YUI　編曲：
-        [富士電視台電視連續劇](../Page/富士電視台.md "wikilink")「[不愉快的基因](../Page/不愉快的基因.md "wikilink")」主題曲。作為出道曲一下子被選作[月9連續劇的主題曲](../Page/月9.md "wikilink")，成為了一時的話題。
+        [富士電視台電視連續劇](../Page/富士電視台.md "wikilink")「[不愉快的基因](../Page/不愉快的基因.md "wikilink")」主題曲。作為出道曲一下子被選作[月9連續劇的主題曲](https://zh.wikipedia.org/wiki/月9 "wikilink")，成為了一時的話題。
 2.  **Free Bird**
       -
         作詞・作曲：YUI　編曲：鈴木Daichi秀行

@@ -1,10 +1,10 @@
-《**无双大蛇Z**》（）是[光荣旗下](../Page/光荣株式会社.md "wikilink")[ω-force开发的](../Page/ω-force.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，於2009年3月12日登陆[索尼](../Page/索尼.md "wikilink")[PlayStation
-3](../Page/PlayStation_3.md "wikilink")\[1\]，并于2009年11月27日推出[Windows版](../Page/Windows.md "wikilink")\[2\]。
+《**无双大蛇Z**》（）是[光荣旗下](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")[ω-force开发的](https://zh.wikipedia.org/wiki/ω-force "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，於2009年3月12日登陆[索尼](../Page/索尼.md "wikilink")[PlayStation
+3](../Page/PlayStation_3.md "wikilink")\[1\]，并于2009年11月27日推出[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]。
 
-《无双大蛇Z》是[真·三国无双系列和](../Page/真·三国无双系列.md "wikilink")[战国无双系列的融合作品](../Page/战国无双系列.md "wikilink")——[无双大蛇系列的第三作](../Page/无双大蛇.md "wikilink")，将《[无双大蛇](../Page/无双大蛇.md "wikilink")》和《[无双大蛇：魔王再临](../Page/无双大蛇：魔王再临.md "wikilink")》的所有内容合并移植到最新的游戏及平台上，并添加了新的角色和关卡。得益於次世代游戏机的强大机能，该游戏在當時为无双系列中同屏幕人数最多的一款\[3\]。
+《无双大蛇Z》是[真·三国无双系列和](https://zh.wikipedia.org/wiki/真·三国无双系列 "wikilink")[战国无双系列的融合作品](https://zh.wikipedia.org/wiki/战国无双系列 "wikilink")——[无双大蛇系列的第三作](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")，将《[无双大蛇](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")》和《[无双大蛇：魔王再临](https://zh.wikipedia.org/wiki/无双大蛇：魔王再临 "wikilink")》的所有内容合并移植到最新的游戏及平台上，并添加了新的角色和关卡。得益於次世代游戏机的强大机能，该游戏在當時为无双系列中同屏幕人数最多的一款\[3\]。
 
 該作的PlayStation
-3日文版於2009年3月12日在[日本和](../Page/日本.md "wikilink")[台湾地区发售](../Page/台湾.md "wikilink")\[4\]，而PlayStation
+3日文版於2009年3月12日在[日本和](../Page/日本.md "wikilink")[台湾地区发售](https://zh.wikipedia.org/wiki/台湾 "wikilink")\[4\]，而PlayStation
 3中文版则於2009年7月30日由台湾光荣推出\[5\]，Windows中文版則於2009年12月24日開始發售。
 
 ## 游戏内容
@@ -51,23 +51,23 @@ PC版游戏画面较前一代有较大改观，且支持宽屏幕模式画面，
 以下新增的角色：
 
   -
-    [辨庆是日本](../Page/武藏坊辨庆.md "wikilink")[平安时代末期的](../Page/平安时代.md "wikilink")[僧兵](../Page/僧兵.md "wikilink")，
-    以其对[源义经的忠诚和喜欢搜集武器的癖好而著称](../Page/源义经.md "wikilink")。武器为含有各种机关的巨型手，属於“力量型”角色。
+    [辨庆是日本](https://zh.wikipedia.org/wiki/武藏坊辨庆 "wikilink")[平安时代末期的](../Page/平安时代.md "wikilink")[僧兵](../Page/僧兵.md "wikilink")，
+    以其对[源义经的忠诚和喜欢搜集武器的癖好而著称](https://zh.wikipedia.org/wiki/源义经 "wikilink")。武器为含有各种机关的巨型手，属於“力量型”角色。
 
 <!-- end list -->
 
   -
-    [三藏法师是著名中国古典小说](../Page/玄奘.md "wikilink")《[西游记](../Page/西游记.md "wikilink")》的主要人物。然而，与人们传统观念相违的是，《无双大蛇Z》中的三藏法师却是一名女性角色（不过在日本，三藏法师不是第一次以女性身份出现）。武器为可自由伸缩的[水袖](../Page/水袖.md "wikilink")，属於“速度型”角色。
+    [三藏法师是著名中国古典小说](../Page/玄奘.md "wikilink")《[西游记](../Page/西游记.md "wikilink")》的主要人物。然而，与人们传统观念相违的是，《无双大蛇Z》中的三藏法师却是一名女性角色（不过在日本，三藏法师不是第一次以女性身份出现）。武器为可自由伸缩的[水袖](https://zh.wikipedia.org/wiki/水袖 "wikilink")，属於“速度型”角色。
 
 可在故事模式和剧情模式中使用的以下角色：
 
   -
-    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[百百目鬼](../Page/百目妖.md "wikilink")，遠呂智軍的獨眼妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“速度型”角色。
+    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[百百目鬼](https://zh.wikipedia.org/wiki/百目妖 "wikilink")，遠呂智軍的獨眼妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“速度型”角色。
 
 <!-- end list -->
 
   -
-    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[牛鬼](../Page/牛鬼.md "wikilink")，遠呂智軍的巨漢妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“力量型”角色。
+    名稱來自[日本的妖怪](../Page/日本.md "wikilink")[牛鬼](https://zh.wikipedia.org/wiki/牛鬼 "wikilink")，遠呂智軍的巨漢妖魔，協助[妲己至五行山釋放遠呂智的妖魔之一](../Page/妲己.md "wikilink")，属於“力量型”角色。
 
 加上这四位新增角色，在《无双大蛇Z》中共有96名角色登场，成为当时登场人数最多的无双系列游戏。\[9\]
 

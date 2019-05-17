@@ -1,4 +1,4 @@
-**亚历山大·罗伯图斯·托德，托德男爵**，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[FRS](../Page/皇家學會院士.md "wikilink")（，），出生于[格拉斯哥](../Page/格拉斯哥.md "wikilink")，[苏格兰化学家](../Page/苏格兰.md "wikilink")，1957年获[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")。
+**亚历山大·罗伯图斯·托德，托德男爵**，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[FRS](https://zh.wikipedia.org/wiki/皇家學會院士 "wikilink")（，），出生于[格拉斯哥](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")，[苏格兰化学家](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")，1957年获[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")。
 
 [Category:苏格兰化学家](https://zh.wikipedia.org/wiki/Category:苏格兰化学家 "wikilink")
 [Category:诺贝尔化学奖获得者](https://zh.wikipedia.org/wiki/Category:诺贝尔化学奖获得者 "wikilink")

@@ -14,8 +14,8 @@
 ## 主題曲
 
   - 我希望你留下來（君にいてほしい）
-      - 作詞・作曲・編曲：[高見澤俊彥](../Page/高見澤俊彥.md "wikilink")
-      - 演唱：[神崎ゆう子](../Page/神崎ゆう子.md "wikilink")
+      - 作詞・作曲・編曲：[高見澤俊彥](https://zh.wikipedia.org/wiki/高見澤俊彥 "wikilink")
+      - 演唱：[神崎ゆう子](https://zh.wikipedia.org/wiki/神崎ゆう子 "wikilink")
 
 [Category:米谷良知電影](https://zh.wikipedia.org/wiki/Category:米谷良知電影 "wikilink")
 [Category:1998年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1998年日本劇場動畫 "wikilink")

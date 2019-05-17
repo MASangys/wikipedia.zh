@@ -1,5 +1,5 @@
 **Apache
-Ant**，是一个将[软件](../Page/软件.md "wikilink")[编译](../Page/编译.md "wikilink")、[测试](../Page/单元测试.md "wikilink")、[部署等步骤联系在一起加以自动化的一个](../Page/软件部署.md "wikilink")[工具](../Page/软件开发工具.md "wikilink")，大多用于[Java环境中的](../Page/Java.md "wikilink")[软件开发](../Page/软件开发.md "wikilink")。由[Apache软件基金会所提供](../Page/Apache软件基金会.md "wikilink")。默認情況下，它的buildfile(XML文件)名為build.xml。每一個buildfile含有一個<project>和至少一個預設的<target>，這些targets包含許多task
+Ant**，是一个将[软件](../Page/软件.md "wikilink")[编译](https://zh.wikipedia.org/wiki/编译 "wikilink")、[测试](../Page/单元测试.md "wikilink")、[部署等步骤联系在一起加以自动化的一个](https://zh.wikipedia.org/wiki/软件部署 "wikilink")[工具](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")，大多用于[Java环境中的](../Page/Java.md "wikilink")[软件开发](https://zh.wikipedia.org/wiki/软件开发 "wikilink")。由[Apache软件基金会所提供](../Page/Apache软件基金会.md "wikilink")。默認情況下，它的buildfile(XML文件)名為build.xml。每一個buildfile含有一個<project>和至少一個預設的<target>，這些targets包含許多task
 elements。每一個task element有一個用來被參考的id，此id必須是唯一的。
 
 ## build.xml 範例
@@ -48,7 +48,7 @@ elements。每一個task element有一個用來被參考的id，此id必須是�
   - [antro - a profiler for Ant
     scripts](http://sourceforge.net/projects/antro)
   - [Wiki Book on learning Apache
-    Ant](../Page/b:Programming:Apache_Ant.md "wikilink")
+    Ant](https://zh.wikipedia.org/wiki/b:Programming:Apache_Ant "wikilink")
   - [Ant tutorial](http://ideoplex.com/focus/java#ant)
   - [Ant
     Automation](http://hbtechs.blogspot.com/2007/06/automation-using-innovative-tools.html),

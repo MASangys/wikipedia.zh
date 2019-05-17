@@ -1,13 +1,13 @@
 **Red Hat Enterprise Linux**（**RHEL**）是一個由 [Red
-Hat](../Page/Red_Hat.md "wikilink") 開發的商業市場導向的 [Linux
-發行版](../Page/Linux_發行版.md "wikilink")。红帽公司从 Red Hat Enterprise
-Linux 5 开始对企业版 LINUX 的每个版本提供 10 年的支持\[1\]。Red Hat Enterprise Linux 常被簡稱爲
-RHEL，但它並非官方名稱。
+Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") 開發的商業市場導向的 [Linux
+發行版](https://zh.wikipedia.org/wiki/Linux_發行版 "wikilink")。红帽公司从 Red Hat
+Enterprise Linux 5 开始对企业版 LINUX 的每个版本提供 10 年的支持\[1\]。Red Hat Enterprise
+Linux 常被簡稱爲 RHEL，但它並非官方名稱。
 
 Red Hat Enterprise Linux 大約 3 年发布一个新版本。
 
-[RHEL可以使用](../Page/RHEL.md "wikilink") [Fedora
-EPEL](../Page/Fedora#发行.md "wikilink") 来补足软件。
+[RHEL可以使用](https://zh.wikipedia.org/wiki/RHEL "wikilink") [Fedora
+EPEL](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink") 来补足软件。
 
 ## 基於
 

@@ -1,6 +1,6 @@
-《**奇蹟少女KOBATO.**》（）是[CLAMP的](../Page/CLAMP.md "wikilink")[日本漫画作品](../Page/日本漫画.md "wikilink")，並在2009年改編製作成[電視動畫](../Page/電視動畫.md "wikilink")。日本單行本由[角川書店出版](../Page/角川書店.md "wikilink")，中文版則是[台灣角川出版](../Page/台灣角川.md "wikilink")。
+《**奇蹟少女KOBATO.**》（）是[CLAMP的](../Page/CLAMP.md "wikilink")[日本漫画作品](../Page/日本漫画.md "wikilink")，並在2009年改編製作成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。日本單行本由[角川書店出版](../Page/角川書店.md "wikilink")，中文版則是[台灣角川出版](../Page/台灣角川.md "wikilink")。
 
-**台灣**方面，[ANIMAX於](../Page/ANIMAX.md "wikilink")2010年8月9日起周一至周五每晚9點放送，並直接將其稱為「奇蹟少女」。
+**台灣**方面，[ANIMAX於](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")2010年8月9日起周一至周五每晚9點放送，並直接將其稱為「奇蹟少女」。
 
 **香港**方面，[翡翠台由](../Page/翡翠台.md "wikilink")2010年12月26日起逢星期日上午10:00首播，譯名依舊為「奇蹟少女KOBATO」。
 
@@ -33,7 +33,7 @@
 ### 艾草托兒所
 
   -
-    [艾草](../Page/艾草.md "wikilink")[托兒所的老師](../Page/托兒所.md "wikilink")，心地善良，輕易地接受了來歷不明的小鳩。為了保護孩子們建立了托兒所，因而欠了很多債。劇中因為父親被騙借了很多錢給其他人，去世後債務就落到清花身上了。
+    [艾草](../Page/艾草.md "wikilink")[托兒所的老師](https://zh.wikipedia.org/wiki/托兒所 "wikilink")，心地善良，輕易地接受了來歷不明的小鳩。為了保護孩子們建立了托兒所，因而欠了很多債。劇中因為父親被騙借了很多錢給其他人，去世後債務就落到清花身上了。
 
 <!-- end list -->
 
@@ -45,10 +45,10 @@
 
 ### 來自《[Chobits](../Page/Chobits.md "wikilink")》的登場人物
 
-此部分角色與原作為[異次元相同靈魂之存在](../Page/xxxHOLiC.md "wikilink")。
+此部分角色與原作為[異次元相同靈魂之存在](https://zh.wikipedia.org/wiki/xxxHOLiC "wikilink")。
 
   -
-    沖浦清花的朋友，小鳩居住的公寓的管理員。對小鳩親切、友善。與前作《[百變小櫻Magic咭](../Page/百變小櫻Magic咭.md "wikilink")》角色三原千春關係未明。
+    沖浦清花的朋友，小鳩居住的公寓的管理員。對小鳩親切、友善。與前作《[百變小櫻Magic咭](https://zh.wikipedia.org/wiki/百變小櫻Magic咭 "wikilink")》角色三原千春關係未明。
 
 <!-- end list -->
 
@@ -82,12 +82,12 @@
   -
     《[Wish](../Page/Wish_\(漫畫\).md "wikilink")》的人物，職業是醫生。漫畫中並不認識小鳩。
 
-### 來自《[×××HOLiC](../Page/×××HOLiC.md "wikilink")》、《[TSUBASA翼](../Page/TSUBASA翼.md "wikilink")》的登場人物
+### 來自《[×××HOLiC](../Page/×××HOLiC.md "wikilink")》、《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》的登場人物
 
 此部分角色為原作本人之存在。×××HOLiC、TSUBASA翼在時間軸上是緒亂的，但排序上是原作完結後。
 
   -
-    一位年邁的[預言家](../Page/預言家.md "wikilink")，以[占卜為職業](../Page/占卜.md "wikilink")。對小鳩很照顧。在漫畫中知道五百阿藏會說話以及小鳩的願望，並替小鳩占卜，告訴小鳩：「接下來即將遭遇的轉折，也許會讓你改變原來的願望喔」。
+    一位年邁的[預言家](https://zh.wikipedia.org/wiki/預言家 "wikilink")，以[占卜為職業](../Page/占卜.md "wikilink")。對小鳩很照顧。在漫畫中知道五百阿藏會說話以及小鳩的願望，並替小鳩占卜，告訴小鳩：「接下來即將遭遇的轉折，也許會讓你改變原來的願望喔」。
 
 <!-- end list -->
 
@@ -213,7 +213,7 @@
 ### 其他
 
   - 奇蹟少女KOBATO.2010 Calendar 2009年11月18日發售 ISBN 978-4-04-715363-9
-    [角川书店](../Page/角川书店.md "wikilink")
+    [角川书店](https://zh.wikipedia.org/wiki/角川书店 "wikilink")
 
   - TV動畫《奇蹟少女KOBATO.》CHARACTERS COLLECTION 2010年2月24日發售 ISBN
     978-4-04-854454-2 角川书店
@@ -224,16 +224,16 @@
   - 2011年10月19日發售 ISBN 978-4-04-854710-9 角川书店
 
       - 小鸠 插画与回忆 2013年5月5日发售 ISBN 978-7-5356-6175-3
-        [湖南美術出版社](../Page/湖南美術出版社.md "wikilink")（出版）、[天闻角川](../Page/天闻角川.md "wikilink")（发行）
+        [湖南美術出版社](https://zh.wikipedia.org/wiki/湖南美術出版社 "wikilink")（出版）、[天闻角川](../Page/天闻角川.md "wikilink")（发行）
 
 ## 電視動畫
 
-2009年10月6日[NHK開始放送](../Page/日本放送協会.md "wikilink")。全24話。
+2009年10月6日[NHK開始放送](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")。全24話。
 
 ### 製作人員
 
   - 原作：CLAMP《奇蹟少女KOBATO.》
-  - 監督：[増原光幸](../Page/増原光幸.md "wikilink")
+  - 監督：[増原光幸](https://zh.wikipedia.org/wiki/増原光幸 "wikilink")
   - 系列構成：[大川七瀨](../Page/CLAMP.md "wikilink")
   - 人物設定：加藤裕美
   - 總作畫監督：田崎聰
@@ -241,8 +241,8 @@
   - 色彩設計：大野春惠
   - 攝影監督：棚田耕平
   - 音響監督：三間雅文、中嶋聰彥
-  - 動畫製作：[Madhouse](../Page/Madhouse.md "wikilink")
-  - 製作：[こばと。を守る会](../Page/製作委員會.md "wikilink")
+  - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
+  - 製作：[こばと。を守る会](https://zh.wikipedia.org/wiki/製作委員會 "wikilink")
 
 ### 主題曲
 
@@ -253,19 +253,20 @@
   -
 
       -
-        作詞 - [坂本真綾](../Page/坂本真綾.md "wikilink")、作曲・編曲 - 北川勝利、ストリングス編曲 -
-        河野伸、歌 - [坂本真綾](../Page/坂本真綾.md "wikilink")
+        作詞 - [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")、作曲・編曲
+        - 北川勝利、ストリングス編曲 - 河野伸、歌 -
+        [坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")
 
   - 片尾曲
 
 :; 「ジェリーフィッシュの告白」（第1話 - 第19話）
 
-:: 作詞 - [岩里祐穗](../Page/岩里祐穗.md "wikilink")、作曲・編曲 - 宮川彈、歌 -
-[中島愛](../Page/中島愛.md "wikilink")
+:: 作詞 - [岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")、作曲・編曲 -
+宮川彈、歌 - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :; 「わたしにできること」（第20話 - 第23話）
 
-:: 作詞、曲 - 宮川彈、歌 - [中島愛](../Page/中島愛.md "wikilink")
+:: 作詞、曲 - 宮川彈、歌 - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 :; 「あした来る日～桜咲くころ」（第24話）
 
@@ -286,7 +287,7 @@
 :; 「あした来る日～いちょうの木の下で」（即將到來的明天～在銀杏樹下）（第13話）
 
 :: 作詞 - [新居昭乃](../Page/新居昭乃.md "wikilink")、作曲・編曲 - はまたけし 、歌 -
-[花澤香菜](../Page/花澤香菜.md "wikilink")／[齋藤千和](../Page/齋藤千和.md "wikilink")
+[花澤香菜](../Page/花澤香菜.md "wikilink")／[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")
 
 :; 「あした来る日〜雪の降る街で」（即將到來的明天～下雪的街道）（第19話）
 
@@ -571,23 +572,23 @@
 
 ### 金平糖的主人（被小鳩治療的人）
 
-| 話數   | 登場人物                                 | 配音員                                  | 香港配音                             |
-| ---- | ------------------------------------ | ------------------------------------ | -------------------------------- |
-| 2    | 俊彥                                   | [渡邊明乃](../Page/渡邊明乃.md "wikilink")   | [黃淑芬](../Page/黃淑芬.md "wikilink") |
-| 3    | 田所睦美                                 | [井上麻里奈](../Page/井上麻里奈.md "wikilink") | [鄭麗麗](../Page/鄭麗麗.md "wikilink") |
-| 5    | 森颯太郎                                 | [松本保典](../Page/松本保典.md "wikilink")   | [陳廷軒](../Page/陳廷軒.md "wikilink") |
-| 7    | 堂元崇                                  | [神谷浩史](../Page/神谷浩史.md "wikilink")   | [黃榮璋](../Page/黃榮璋.md "wikilink") |
-| 8    | 三原千帆                                 | [中島愛](../Page/中島愛.md "wikilink")     | [梁少霞](../Page/梁少霞.md "wikilink") |
-| 三原千世 |                                      |                                      |                                  |
-| 9    | 水橋夏希                                 | [川澄綾子](../Page/川澄綾子.md "wikilink")   | [陳凱婷](../Page/陳凱婷.md "wikilink") |
-| 森川雪子 | [福圓美里](../Page/福圓美里.md "wikilink")   | [鄭麗麗](../Page/鄭麗麗.md "wikilink")     |                                  |
-| 11   | 大村裕美                                 | [豐崎愛生](../Page/豐崎愛生.md "wikilink")   | [羅杏芝](../Page/羅杏芝.md "wikilink") |
-| 13   | （銀杏樹）                                |                                      |                                  |
-| 14   | 啟太                                   | [熊井統子](../Page/熊井統子.md "wikilink")   | [鄭麗麗](../Page/鄭麗麗.md "wikilink") |
-| 16   | ※                                    |                                      |                                  |
-| 21   | 沖浦清花                                 | [折笠富美子](../Page/折笠富美子.md "wikilink") | [陸惠玲](../Page/陸惠玲.md "wikilink") |
-| 沖浦和斗 | [三木真一郎](../Page/三木真一郎.md "wikilink") | [劉奕希](../Page/劉奕希.md "wikilink")     |                                  |
-| 23   | 藤本清和                                 | [前野智昭](../Page/前野智昭.md "wikilink")   | [李凱傑](../Page/李凱傑.md "wikilink") |
+| 話數   | 登場人物                                 | 配音員                                                 | 香港配音                                                |
+| ---- | ------------------------------------ | --------------------------------------------------- | --------------------------------------------------- |
+| 2    | 俊彥                                   | [渡邊明乃](../Page/渡邊明乃.md "wikilink")                  | [黃淑芬](../Page/黃淑芬.md "wikilink")                    |
+| 3    | 田所睦美                                 | [井上麻里奈](../Page/井上麻里奈.md "wikilink")                | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                    |
+| 5    | 森颯太郎                                 | [松本保典](../Page/松本保典.md "wikilink")                  | [陳廷軒](../Page/陳廷軒.md "wikilink")                    |
+| 7    | 堂元崇                                  | [神谷浩史](../Page/神谷浩史.md "wikilink")                  | [黃榮璋](../Page/黃榮璋.md "wikilink")                    |
+| 8    | 三原千帆                                 | [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink") | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") |
+| 三原千世 |                                      |                                                     |                                                     |
+| 9    | 水橋夏希                                 | [川澄綾子](../Page/川澄綾子.md "wikilink")                  | [陳凱婷](../Page/陳凱婷.md "wikilink")                    |
+| 森川雪子 | [福圓美里](../Page/福圓美里.md "wikilink")   | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                    |                                                     |
+| 11   | 大村裕美                                 | [豐崎愛生](../Page/豐崎愛生.md "wikilink")                  | [羅杏芝](../Page/羅杏芝.md "wikilink")                    |
+| 13   | （銀杏樹）                                |                                                     |                                                     |
+| 14   | 啟太                                   | [熊井統子](../Page/熊井統子.md "wikilink")                  | [鄭麗麗](../Page/鄭麗麗.md "wikilink")                    |
+| 16   | ※                                    |                                                     |                                                     |
+| 21   | 沖浦清花                                 | [折笠富美子](../Page/折笠富美子.md "wikilink")                | [陸惠玲](../Page/陸惠玲.md "wikilink")                    |
+| 沖浦和斗 | [三木真一郎](../Page/三木真一郎.md "wikilink") | [劉奕希](../Page/劉奕希.md "wikilink")                    |                                                     |
+| 23   | 藤本清和                                 | [前野智昭](../Page/前野智昭.md "wikilink")                  | [李凱傑](../Page/李凱傑.md "wikilink")                    |
 
 ※為動畫沒有的，漫畫出現的六個人。
 

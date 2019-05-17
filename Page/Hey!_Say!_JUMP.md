@@ -30,7 +30,7 @@ Music Power』正式出道。唱片公司為[J Storm](../Page/J_Storm.md "wikili
 <td><p><strong><a href="../Page/高木雄也.md" title="wikilink">高木雄也</a></strong>（たかき　ゆうや）</p></td>
 <td></td>
 <td><p>O型</p></td>
-<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a> <a href="../Page/茨木市.md" title="wikilink">茨木市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a> <a href="../Page/茨木市.md" title="wikilink">茨木市</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -38,7 +38,7 @@ Music Power』正式出道。唱片公司為[J Storm](../Page/J_Storm.md "wikili
 <td><p><strong><a href="../Page/伊野尾慧.md" title="wikilink">伊野尾慧</a></strong>（いのお　けい）</p></td>
 <td></td>
 <td><p>A型</p></td>
-<td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a> <a href="../Page/入間市.md" title="wikilink">入間市</a></p></td>
+<td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a> <a href="https://zh.wikipedia.org/wiki/入間市" title="wikilink">入間市</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -111,7 +111,7 @@ Music Power』正式出道。唱片公司為[J Storm](../Page/J_Storm.md "wikili
 <td><p><strong><a href="../Page/知念侑李.md" title="wikilink">知念侑李</a></strong>（ちねん　ゆうり）</p></td>
 <td></td>
 <td><p>RH-AB型</p></td>
-<td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣</a> <a href="../Page/濱松市.md" title="wikilink">濱松市</a></p></td>
+<td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣</a> <a href="https://zh.wikipedia.org/wiki/濱松市" title="wikilink">濱松市</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -159,11 +159,11 @@ Music Power』正式出道。唱片公司為[J Storm](../Page/J_Storm.md "wikili
 ## 概要
 
 以期間限定團體『[Hey\! Say\!
-7](../Page/#Hey!_Say!_7_\(期間限定團體\).md "wikilink")』為基礎，成員新增、重組之後結成『Hey\!
+7](https://zh.wikipedia.org/wiki/#Hey!_Say!_7_\(期間限定團體\) "wikilink")』為基礎，成員新增、重組之後結成『Hey\!
 Say\!
-JUMP』。於2007年9月24日公開對外發表，該團體將擔任11月開幕之『[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")』的應援大使，演唱大會主題曲『Ultra
+JUMP』。於2007年9月24日公開對外發表，該團體將擔任11月開幕之『[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")』的應援大使，演唱大會主題曲『Ultra
 Music
-Power』，並於11月14日以該單曲正式出道。這也是傑尼斯事務所旗下，繼1995年的[V6](../Page/V6.md "wikilink")、1999年的[嵐](../Page/嵐.md "wikilink")，以及2003年的[NEWS之後](../Page/NEWS.md "wikilink")，第四個以排球應援組合出道的團體。成員都為[平成年代出生](../Page/平成.md "wikilink")，全都曾有參與大碟創作。
+Power』，並於11月14日以該單曲正式出道。這也是傑尼斯事務所旗下，繼1995年的[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、1999年的[嵐](../Page/嵐.md "wikilink")，以及2003年的[NEWS之後](../Page/NEWS.md "wikilink")，第四個以排球應援組合出道的團體。成員都為[平成年代出生](../Page/平成.md "wikilink")，全都曾有參與大碟創作。
 與前輩V6一樣，Hey\! Say\! JUMP也按年齡將成員分為兩組：兄組『**Hey\! Say\! BEST**』與弟組『**Hey\!
 Say\! 7**』，亦可分別進行演藝活動。
 
@@ -200,11 +200,12 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
     true](../Page/Dreams_come_true_\(Hey!_Say!_JUMP單曲\).md "wikilink")』，其中『Chance
     to Change』一曲為春季女子高中排球賽的形象歌曲。
   - 7月23日：發行單曲『[Your
-    Seed/冒險騎士](../Page/Your_Seed/冒險騎士.md "wikilink")(Your
+    Seed/冒險騎士](https://zh.wikipedia.org/wiki/Your_Seed/冒險騎士 "wikilink")(Your
     Seed/冒険ライダー)』，且『Your Seed』為『功夫熊貓』的日本主題曲。
   - 8月2日至9月5日：出演舞台『SUMMARY 2008』\[1\]。
-  - 9月29日：開始於[文化放送由](../Page/文化放送.md "wikilink")[Hey\! Say\!
-    7](../Page/Hey!_Say!_7.md "wikilink") 以每週兩人的形式於星期一至五廣播至今。
+  - 9月29日：開始於[文化放送由](https://zh.wikipedia.org/wiki/文化放送 "wikilink")[Hey\!
+    Say\! 7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink")
+    以每週兩人的形式於星期一至五廣播至今。
   - 10月22日：發行單曲『[午夜的影子男孩](../Page/午夜的影子男孩.md "wikilink")(真夜中のシャドーボーイ)』，作為[中島裕翔](../Page/中島裕翔.md "wikilink")，[山田涼介](../Page/山田涼介.md "wikilink")，[知念侑李](../Page/知念侑李.md "wikilink")，[有岡大貴四人主演的](../Page/有岡大貴.md "wikilink")[改造老師大作戰的主題曲](../Page/改造老師大作戰.md "wikilink")。
   - 12月20日至2009年1月5日：舉辦『Hey\! Say\! JUMP JUMPing Tour 08-09』演唱會。
 
@@ -213,8 +214,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
   - 3月20日至3月26日：再度擔任特別應援者，而且發表『情熱JUMP』為主題曲。
   - 3月21日：開始**｢Hey\! Say\! JUMP CONCERT TOUR '09春｣**，而且有Hey\! Say\!
     7的第一次單獨Live Concert，至同年五月初完結。
-  - 3月30日：主唱[忍者亂太郎主題和片尾曲](../Page/忍者亂太郎.md "wikilink")。
-  - 4月5日：開始，[山田涼介](../Page/山田涼介.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")，[知念侑李出演](../Page/知念侑李.md "wikilink")[NTV綜藝節目](../Page/NTV.md "wikilink")「スクール革命！」至今。
+  - 3月30日：主唱[忍者亂太郎主題和片尾曲](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")。
+  - 4月5日：開始，[山田涼介](../Page/山田涼介.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")，[知念侑李出演](../Page/知念侑李.md "wikilink")[NTV綜藝節目](https://zh.wikipedia.org/wiki/NTV "wikilink")「スクール革命！」至今。
   - 7月：舉行**｢Hey\! Say\! サマーコンサート'09 JUMP天國｣**為名的live Concert。
   - 9月13日：舉行第二回[東京巨蛋公演](../Page/東京巨蛋.md "wikilink")**｢Hey\! Say\! JUMP
     in TOKYO DOME｣**。
@@ -225,7 +226,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 ### 2010年
 
   - 2月24日：發行單曲《[眼中的銀幕](../Page/眼中的銀幕.md "wikilink")》，並作為[山田涼介主演電視劇](../Page/山田涼介.md "wikilink")《[左眼偵探EYE](../Page/左眼偵探EYE.md "wikilink")》的主題曲。\[2\]
-  - 3月20日至3月26日：[Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink")
+  - 3月20日至3月26日：[Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink")
     擔任｢｣的特別應援者，而且發表\<ガンバレッツゴー！\>作為形象歌曲。
   - 4月2日：舉行｢Hey\! Say\! 2010 TEN JUMP｣
   - 5月4日：在橫濱Arena演唱會上[薮宏太宣佈夏天將發行首張專輯](../Page/薮宏太.md "wikilink")。\[3\]
@@ -239,9 +241,9 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
   - 1月12日：發行第四張演唱會DVD『SUMMARY2010』。
   - 4月8日：開始，由成員輪流擔任傑尼斯常態節目「」的主持人。
   - 4月16日：開始，Hey\! Say\! JUMP全員和[Johnny's
-    Jr.出演](../Page/Johnny's_Jr..md "wikilink")[東京電視臺綜藝節目](../Page/東京電視臺.md "wikilink")「ヤンヤンJUMP」至今。
+    Jr.出演](https://zh.wikipedia.org/wiki/Johnny's_Jr. "wikilink")[東京電視臺綜藝節目](https://zh.wikipedia.org/wiki/東京電視臺 "wikilink")「ヤンヤンJUMP」至今。
   - 6月27日：雜誌『週刊女性』揭露成員[森本龍太郎](../Page/森本龍太郎.md "wikilink")15歲時未成年吸煙。森本承認事情屬實，並宣佈無限期停止藝能活動。
-  - 6月29日：發行第七張單曲『[OVER](../Page/OVER.md "wikilink")』
+  - 6月29日：發行第七張單曲『[OVER](https://zh.wikipedia.org/wiki/OVER "wikilink")』
   - 8月7日至9月11日：於 JCB Hall 舉行為期45場的 Johnny's 傳統表演
     SUMMARY，並於9月18日，24至25日在大阪巨蛋及東京巨蛋球場舉行為期3場的
     「SUMMARY 東京ドーム・大阪ドーム」
@@ -298,7 +300,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 ### 2014年
 
   - 2月5日：發行第十二張單曲『[AinoArika/盡情去愛的HAPPY
-    LIFE](../Page/AinoArika/盡情去愛的HAPPY_LIFE.md "wikilink")
+    LIFE](https://zh.wikipedia.org/wiki/AinoArika/盡情去愛的HAPPY_LIFE "wikilink")
     』(AinoArika/愛すればもっとハッピーライフ)
   - 4月1日開始：[有岡大貴及](../Page/有岡大貴.md "wikilink")[八乙女光](../Page/八乙女光.md "wikilink")
     成為[日本電視台](../Page/日本電視台.md "wikilink")『 』週二固定班底
@@ -320,8 +322,8 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 <!-- end list -->
 
-  - 6月18日：發行第三張專輯『[smart](../Page/smart.md "wikilink")』
-  - 9月3日：發行第十三張單曲『[Weekender/向明天的YELL](../Page/Weekender/向明天的YELL.md "wikilink")
+  - 6月18日：發行第三張專輯『[smart](https://zh.wikipedia.org/wiki/smart "wikilink")』
+  - 9月3日：發行第十三張單曲『[Weekender/向明天的YELL](https://zh.wikipedia.org/wiki/Weekender/向明天的YELL "wikilink")
     』(ウィークエンダー/明日へのYELL)
 
 <!-- end list -->
@@ -351,9 +353,9 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
   - 2月18日：發行『』演唱會DVD
   - 4月4日：開始[伊野尾慧及](../Page/伊野尾慧.md "wikilink")[八乙女光主持廣播](../Page/八乙女光.md "wikilink")
     らじらー！ サタデー (Radirer\! Saturday/NHK)
-  - 4月5日：宣布8月日本電視台放送『第38屆[24時間テレビ](../Page/24小時電視_「愛心救地球」.md "wikilink")』將與[V6合作擔當主要主持](../Page/V6.md "wikilink")
+  - 4月5日：宣布8月日本電視台放送『第38屆[24時間テレビ](../Page/24小時電視_「愛心救地球」.md "wikilink")』將與[V6合作擔當主要主持](https://zh.wikipedia.org/wiki/V6 "wikilink")
   - 4月29日：發行第十四張單曲『[Chau＃/我 I Need
-    You](../Page/Chau＃/我_I_Need_You.md "wikilink") 』
+    You](https://zh.wikipedia.org/wiki/Chau＃/我_I_Need_You "wikilink") 』
   - 6月24日：發行第四張專輯『[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")』
 
 <!-- end list -->
@@ -460,7 +462,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2008年7月23日</p></td>
-<td><p><strong><a href="../Page/Your_Seed/冒險騎士.md" title="wikilink">Your Seed/冒險騎士</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Your_Seed/冒險騎士" title="wikilink">Your Seed/冒險騎士</a></strong></p></td>
 <td><p>首周16萬張</p></td>
 <td><p>1位</p></td>
 <td><p><strong>Your Seed</strong>：電影『カンフー・パンダ(功夫熊貓)』印象歌<br />
@@ -493,7 +495,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2011年6月29日</p></td>
-<td><p><strong><a href="../Page/OVER.md" title="wikilink">OVER</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/OVER" title="wikilink">OVER</a></strong></p></td>
 <td><p>首日11.3萬張<br />
 首周26.5萬張</p></td>
 <td><p>1位</p></td>
@@ -506,7 +508,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日9.4萬張<br />
 首周21.7萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電影『<a href="../Page/藍色小精靈_(電影).md" title="wikilink">藍色小精靈</a>』日本語版主題曲</p></td>
+<td><p>電影『<a href="https://zh.wikipedia.org/wiki/藍色小精靈_(電影)" title="wikilink">藍色小精靈</a>』日本語版主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -533,12 +535,12 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日8.5萬張<br />
 首周16.2萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="../Page/金田一少年之事件簿_(電視劇)#獄門塾殺人事件（單發）.md" title="wikilink">金田一少年之事件簿 獄門塾殺人事件</a>』主題曲</p></td>
+<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(電視劇)#獄門塾殺人事件（單發）" title="wikilink">金田一少年之事件簿 獄門塾殺人事件</a>』主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2014年2月5日</p></td>
-<td><p><strong><a href="../Page/AinoArika/盡情去愛的HAPPY_LIFE.md" title="wikilink">AinoArika／盡情去愛的HAPPY LIFE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/AinoArika/盡情去愛的HAPPY_LIFE" title="wikilink">AinoArika／盡情去愛的HAPPY LIFE</a></strong></p></td>
 <td><p>首日10.2萬張<br />
 首周20.7萬張</p></td>
 <td><p>1位</p></td>
@@ -548,17 +550,17 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2014年9月3日</p></td>
-<td><p><strong><a href="../Page/Weekender/向明天的YELL.md" title="wikilink">Weekender／向明天的YELL</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Weekender/向明天的YELL" title="wikilink">Weekender／向明天的YELL</a></strong></p></td>
 <td><p>首日8萬張<br />
 首周18.4萬張</p></td>
 <td><p>1位</p></td>
-<td><p><strong>Weekender</strong> : 電視劇『<a href="../Page/金田一少年之事件簿_(電視劇)#連續劇系列（N）（2014年）.md" title="wikilink">金田一少年之事件簿N (neo)</a>』主題曲<br />
-<strong>向明天的YELL</strong> : 電視劇『<a href="../Page/水球不良少年.md" title="wikilink">水球不良少年</a>』主題曲</p></td>
+<td><p><strong>Weekender</strong> : 電視劇『<a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(電視劇)#連續劇系列（N）（2014年）" title="wikilink">金田一少年之事件簿N (neo)</a>』主題曲<br />
+<strong>向明天的YELL</strong> : 電視劇『<a href="https://zh.wikipedia.org/wiki/水球不良少年" title="wikilink">水球不良少年</a>』主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2015年4月29日</p></td>
-<td><p><strong><a href="../Page/Chau＃/我_I_Need_You.md" title="wikilink">Chau＃／我 I Need You</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Chau＃/我_I_Need_You" title="wikilink">Chau＃／我 I Need You</a></strong></p></td>
 <td><p>首日8萬張<br />
 首周14.6萬張</p></td>
 <td><p>1位</p></td>
@@ -577,7 +579,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2016年5月11日</p></td>
-<td><p><strong><a href="../Page/認真SUNSHINE.md" title="wikilink">認真SUNSHINE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/認真SUNSHINE" title="wikilink">認真SUNSHINE</a></strong></p></td>
 <td><p>首日14.5萬張<br />
 首周26.7萬張</p></td>
 <td><p>1位</p></td>
@@ -590,7 +592,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日15.4萬張<br />
 首周26.6萬張</p></td>
 <td><p>1位</p></td>
-<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">救難小英雄24</a>』1-13集片頭主題曲</p></td>
+<td><p>動畫『<a href="https://zh.wikipedia.org/wiki/救難小英雄24" title="wikilink">救難小英雄24</a>』1-13集片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -604,16 +606,16 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>2017年2月22日</p></td>
-<td><p><strong><a href="../Page/OVER_THE_TOP.md" title="wikilink">OVER THE TOP</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/OVER_THE_TOP" title="wikilink">OVER THE TOP</a></strong></p></td>
 <td><p>首日14.6萬張<br />
 首周27.2萬張</p></td>
 <td><p>1位</p></td>
-<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">タイムボカン24</a>』14集起片頭主題曲</p></td>
+<td><p>動畫『<a href="https://zh.wikipedia.org/wiki/救難小英雄24" title="wikilink">タイムボカン24</a>』14集起片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
 <td><p>2017年7月5日</p></td>
-<td><p><strong><a href="../Page/Precious_Girl_/_Are_You_There？.md" title="wikilink">Precious Girl / Are You There？</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Precious_Girl_/_Are_You_There？" title="wikilink">Precious Girl / Are You There？</a></strong></p></td>
 <td><p>首日14.3萬張<br />
 首周25.6萬張</p></td>
 <td><p>1位</p></td>
@@ -623,7 +625,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>2017年12月20日</p></td>
-<td><p><strong><a href="../Page/White_love.md" title="wikilink">White love</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/White_love" title="wikilink">White love</a></strong></p></td>
 <td><p>首日16.6萬張<br />
 首周28.7萬張</p></td>
 <td><p>1位</p></td>
@@ -632,20 +634,20 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="even">
 <td><p>22</p></td>
 <td><p>2018年2月14日</p></td>
-<td><p><strong><a href="../Page/マエヲムケ.md" title="wikilink">マエヲムケ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/マエヲムケ" title="wikilink">マエヲムケ</a></strong></p></td>
 <td><p>首日14萬張</p>
 <p>首周24.5萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="../Page/もみ消して冬〜わが家の問題なかったことに〜.md" title="wikilink">もみ消して冬〜わが家の問題なかったことに〜</a>』主題曲</p></td>
+<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/もみ消して冬〜わが家の問題なかったことに〜" title="wikilink">もみ消して冬〜わが家の問題なかったことに〜</a>』主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>2018年8月1日</p></td>
-<td><p><strong><a href="../Page/COSMIC☆HUMAN.md" title="wikilink">COSMIC☆HUMAN</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/COSMIC☆HUMAN" title="wikilink">COSMIC☆HUMAN</a></strong></p></td>
 <td><p>首日13萬張</p>
 <p>首周22.1萬張</p></td>
 <td><p>1位</p></td>
-<td><p>電視劇『<a href="../Page/トーキョーエイリアンブラザーズ.md" title="wikilink">トーキョーエイリアンブラザーズ</a>』主題曲</p></td>
+<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/トーキョーエイリアンブラザーズ" title="wikilink">トーキョーエイリアンブラザーズ</a>』主題曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -660,20 +662,20 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 ### 專輯
 
-| ＃ | 發售日        | 名稱                                                            | 銷售數量               | 週間最高位 | 備註       |
-| - | ---------- | ------------------------------------------------------------- | ------------------ | ----- | -------- |
-| 1 | 2010年7月7日  | **[JUMP NO.1](../Page/JUMP_NO.1.md "wikilink")**              | 首周 15.6萬張          | 1位    |          |
-| 2 | 2012年6月6日  | **[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")**            | 首周 12.7萬張          | 1位    |          |
-| 3 | 2014年6月18日 | **[smart](../Page/smart_\(Hey!_Say!_JUMP專輯\).md "wikilink")** | 首周 12.7萬張          | 1位    |          |
-| 4 | 2015年6月24日 | **[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")**          | 首周 17.7萬張          | 1位    |          |
-| 5 | 2016年7月27日 | '''[DEAR.](../Page/DEAR..md "wikilink")                       | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
-| 6 | 2018年8月22日 | '''[SENSE OR LOVE](../Page/SENSE_OR_LOVE.md "wikilink")       | 首周20.9萬張           | 1位    |          |
+| ＃ | 發售日        | 名稱                                                                               | 銷售數量               | 週間最高位 | 備註       |
+| - | ---------- | -------------------------------------------------------------------------------- | ------------------ | ----- | -------- |
+| 1 | 2010年7月7日  | **[JUMP NO.1](../Page/JUMP_NO.1.md "wikilink")**                                 | 首周 15.6萬張          | 1位    |          |
+| 2 | 2012年6月6日  | **[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")**                               | 首周 12.7萬張          | 1位    |          |
+| 3 | 2014年6月18日 | **[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")** | 首周 12.7萬張          | 1位    |          |
+| 4 | 2015年6月24日 | **[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")**                             | 首周 17.7萬張          | 1位    |          |
+| 5 | 2016年7月27日 | '''[DEAR.](https://zh.wikipedia.org/wiki/DEAR. "wikilink")                       | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
+| 6 | 2018年8月22日 | '''[SENSE OR LOVE](https://zh.wikipedia.org/wiki/SENSE_OR_LOVE "wikilink")       | 首周20.9萬張           | 1位    |          |
 
 ### 精選輯
 
-| ＃ | 發售日        | 名稱                                                                                       | 銷售數量    | 週間最高位 | 備註 |
-| - | ---------- | ---------------------------------------------------------------------------------------- | ------- | ----- | -- |
-| 1 | 2017年7月26日 | **[Hey\! Say\! JUMP 2007-2017 I/O](../Page/Hey!_Say!_JUMP_2007-2017_I/O.md "wikilink")** | 首周29.7萬 | 1位    |    |
+| ＃ | 發售日        | 名稱                                                                                                          | 銷售數量    | 週間最高位 | 備註 |
+| - | ---------- | ----------------------------------------------------------------------------------------------------------- | ------- | ----- | -- |
+| 1 | 2017年7月26日 | **[Hey\! Say\! JUMP 2007-2017 I/O](https://zh.wikipedia.org/wiki/Hey!_Say!_JUMP_2007-2017_I/O "wikilink")** | 首周29.7萬 | 1位    |    |
 
 ## 演唱會DVD
 
@@ -805,12 +807,21 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
 <!-- end list -->
 
-1.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - S.O.S
-2.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - カワイイきみのことだもの
-3.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - サルサいいないいね
-4.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - Brave Story
-5.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - いいんじゃない
-6.  [Hey\! Say\! 7](../Page/Hey!_Say!_7.md "wikilink") - 腦內☆DANCE
+1.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") - S.O.S
+2.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") -
+    カワイイきみのことだもの
+3.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") - サルサいいないいね
+4.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") - Brave
+    Story
+5.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") - いいんじゃない
+6.  [Hey\! Say\!
+    7](https://zh.wikipedia.org/wiki/Hey!_Say!_7 "wikilink") -
+    腦內☆DANCE
 
 <!-- end list -->
 
@@ -913,7 +924,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
     [薮宏太](../Page/薮宏太.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
   - 天才伽利略（[天才をつくる\!ガリレオ脳研](http://ja.wikipedia.org/wiki/%E5%A4%A9%E6%89%8D%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B!%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA%E8%84%B3%E7%A0%94)）（2009年11月－2011年8月13日、[朝日電視台](../Page/朝日電視台.md "wikilink")）-
     [有岡大貴](../Page/有岡大貴.md "wikilink")
-  - THE‧少年俱樂部（[ザ少年俱樂部](http://ja.wikipedia.org/wiki/%E3%82%B6%E5%B0%91%E5%B9%B4%E5%80%B6%E6%A5%BD%E9%83%A8)）（2011年4月8日－2014年3月26日、[NHK](../Page/NHK.md "wikilink")）-
+  - THE‧少年俱樂部（[ザ少年俱樂部](http://ja.wikipedia.org/wiki/%E3%82%B6%E5%B0%91%E5%B9%B4%E5%80%B6%E6%A5%BD%E9%83%A8)）（2011年4月8日－2014年3月26日、[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）-
     由三名Hey\! Say\! JUMP成員輪流擔任主持
   - Yan Yan
     JUMP（[ヤンヤンJUMP](http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%A4%E3%83%B3JUMP)）（2011年4月16日－2013年6月30日、[東京電視台](../Page/東京電視台.md "wikilink")）
@@ -921,9 +932,9 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
     （[ヒルナンデス\!](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9)）（2014年4月1日
     -、日本電視台） - 星期二固定來賓 -
     [有岡大貴](../Page/有岡大貴.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
-  - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](../Page/ジャニーズWEST.md "wikilink")
+  - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](https://zh.wikipedia.org/wiki/ジャニーズWEST "wikilink")
   - [攻頂High
-    JUMP](../Page/攻頂High_Jump.md "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\!
+    JUMP](https://zh.wikipedia.org/wiki/攻頂High_Jump "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\!
     Say\! JUMP宣布於7月8日正規化,從7月8日起每週三晚上25:25-25:55
     [富士電視台](../Page/富士電視台.md "wikilink"))
 
@@ -938,7 +949,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 ## Hey\! Say\! 7（期間限定團體，通稱元7）
 
 **Hey\! Say\!
-7**是[日本的](../Page/日本.md "wikilink")5人限定組合，所屬[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")。為[TBS系](../Page/TBS系.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[戀愛情結](../Page/戀愛情結.md "wikilink")》2007年7月至9月期唱之主題曲「Hey\!
+7**是[日本的](../Page/日本.md "wikilink")5人限定組合，所屬[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")。為[TBS系](https://zh.wikipedia.org/wiki/TBS系 "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[戀愛情結](../Page/戀愛情結.md "wikilink")》2007年7月至9月期唱之主題曲「Hey\!
 Say\!」與片尾曲「Bon Bon」。5人都是[平成年出生](../Page/平成.md "wikilink")。
 
 ### 成員
@@ -951,7 +962,7 @@ Say\!」與片尾曲「Bon Bon」。5人都是[平成年出生](../Page/平成.m
 
 ### 概要
 
-在[KAT-TUN](../Page/KAT-TUN.md "wikilink")2007年4月3日[名古屋的公演裏初次登場](../Page/名古屋.md "wikilink")，CD己在8月1日出售。因為全員都是平成年出生，所以隊名「Hey\!
+在[KAT-TUN](../Page/KAT-TUN.md "wikilink")2007年4月3日[名古屋的公演裏初次登場](https://zh.wikipedia.org/wiki/名古屋 "wikilink")，CD己在8月1日出售。因為全員都是平成年出生，所以隊名「Hey\!
 Say\!」裏有平成生的意思，「7」是意味著是在2007年組成。
 
 ### 來歷
@@ -963,14 +974,14 @@ Say\!」裏有平成生的意思，「7」是意味著是在2007年組成。
 
 ## NYC
 
-成員中[知念侑李和](../Page/知念侑李.md "wikilink")[山田涼介於](../Page/山田涼介.md "wikilink")2009年『[世界盃排球賽](../Page/世界盃排球賽.md "wikilink")』中與[中山優馬組成期間限定組合](../Page/中山優馬.md "wikilink")[NYC
+成員中[知念侑李和](../Page/知念侑李.md "wikilink")[山田涼介於](../Page/山田涼介.md "wikilink")2009年『[世界盃排球賽](https://zh.wikipedia.org/wiki/世界盃排球賽 "wikilink")』中與[中山優馬組成期間限定組合](../Page/中山優馬.md "wikilink")[NYC
 boys](../Page/NYC_boys.md "wikilink")，擔任特別應援者。而且發行雙A面單曲『NYC』，組合旋即於同年登上紅白舞台，而且在紅白完結後改成[NYC的三人正式組合](../Page/NYC_\(偶像團體\).md "wikilink")。雖然三人中有二人為Hey\!
 Say\!
-JUMP成員，但在名義上，兩團為獨立團體。情況和[NEWS的](../Page/NEWS.md "wikilink")[錦戶亮和](../Page/錦戶亮.md "wikilink")[內博貴類似](../Page/內博貴.md "wikilink")，但因為本次是三人中有兩人為成員加上有不是成員的人在其中，引起不少爭議，更引起對[中山優馬和](../Page/中山優馬.md "wikilink")[傑尼斯事務所的負面評價](../Page/傑尼斯事務所.md "wikilink")。
+JUMP成員，但在名義上，兩團為獨立團體。情況和[NEWS的](../Page/NEWS.md "wikilink")[錦戶亮和](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")[內博貴類似](../Page/內博貴.md "wikilink")，但因為本次是三人中有兩人為成員加上有不是成員的人在其中，引起不少爭議，更引起對[中山優馬和](../Page/中山優馬.md "wikilink")[傑尼斯事務所的負面評價](../Page/傑尼斯事務所.md "wikilink")。
 
 ## せんせーションズ
 
-為2015年上映的電影『[暗殺教室](../Page/暗殺教室#真人電影版.md "wikilink")』演唱主題曲的團體。設定上是外表酷似Hey\!
+為2015年上映的電影『[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室#真人電影版 "wikilink")』演唱主題曲的團體。設定上是外表酷似Hey\!
 Say\! JUMP的9人團體。
 
 ### 成員
@@ -1006,7 +1017,7 @@ Say\! JUMP的9人團體。
 
   - 「Are You There?」
       - 收錄在和Hey\! Say\! JUMP共同發售的單曲「[Precious Girl/Are You
-        There?](../Page/Precious_Girl/Are_You_There?.md "wikilink")」中。
+        There?](https://zh.wikipedia.org/wiki/Precious_Girl/Are_You_There? "wikilink")」中。
 
 ## 參考資料
 

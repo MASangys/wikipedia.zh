@@ -1,4 +1,4 @@
-**X-Man**（****）是[韓國](../Page/大韓民國.md "wikilink")[SBS電視台的經典](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目之一](../Page/綜藝節目.md "wikilink")，初期於星期六晚上《真實星期六》時段播出，後改至星期日《[星期天真好](../Page/星期天真好.md "wikilink")》時段，主持人為[劉在錫等](../Page/劉在錫.md "wikilink")。
+**X-Man**（****）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台的經典](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目之一](../Page/綜藝節目.md "wikilink")，初期於星期六晚上《真實星期六》時段播出，後改至星期日《[星期天真好](../Page/星期天真好.md "wikilink")》時段，主持人為[劉在錫等](../Page/劉在錫.md "wikilink")。
 
 在遊戲的開始，大家會去跟Mission
 PD通話接受任務，只有一個人會接受到任務，那個人就是X-Man。X-Man的任務是盡自己所能不讓所在隊贏得勝利，同時也不能讓大家發現他是X-Man。遊戲最終，全體成員會猜測誰是X-Man，公佈答案之後還會重播一下X-Man在遊戲中不尋常的地方。
@@ -535,7 +535,7 @@ PD通話接受任務，只有一個人會接受到任務，那個人就是X-Man�
 <td></td>
 <td><p>朴明洙</p></td>
 <td><p>劉在錫</p></td>
-<td><p><big><strong>米歇爾·魏特輯</strong> </big><strong>特別來賓：</strong><a href="../Page/魏聖美.md" title="wikilink">魏聖美</a></p></td>
+<td><p><big><strong>米歇爾·魏特輯</strong> </big><strong>特別來賓：</strong><a href="https://zh.wikipedia.org/wiki/魏聖美" title="wikilink">魏聖美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>62</p></td>

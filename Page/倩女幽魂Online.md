@@ -1,4 +1,4 @@
-《**倩女幽魂Online**》是一套由[中国](../Page/中国.md "wikilink")[网易公司自行开发并运营的](../Page/网易.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，于2011年9月23日正式开始公测。倩女幽魂Online以著名的[小说](../Page/小说.md "wikilink")[聊斋志异中](../Page/聊斋志异.md "wikilink")[聂小倩故事为游戏基本背景](../Page/聂小倩.md "wikilink")\[1\]。
+《**倩女幽魂Online**》是一套由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[网易公司自行开发并运营的](../Page/网易.md "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，于2011年9月23日正式开始公测。倩女幽魂Online以著名的[小说](../Page/小说.md "wikilink")[聊斋志异中](https://zh.wikipedia.org/wiki/聊斋志异 "wikilink")[聂小倩故事为游戏基本背景](https://zh.wikipedia.org/wiki/聂小倩 "wikilink")\[1\]。
 
 ## 门派
 

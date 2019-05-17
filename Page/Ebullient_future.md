@@ -1,7 +1,7 @@
 **ebullient future**（），是2008年10月5日由[GENEON
-ENTERTAINMENT發行的日本女歌手](../Page/GENEON_ENTERTAINMENT.md "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")\[1\]\[2\]。商品番號為GNCA-0122。這首單曲是同年[電視動畫](../Page/電視動畫.md "wikilink")《[ef
+ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")\[1\]\[2\]。商品番號為GNCA-0122。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef
 - a tale of
-melodies.](../Page/ef_-_a_tale_of_melodies..md "wikilink")》的主題曲。
+melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》的主題曲。
 
 ## 收錄曲
 
@@ -9,10 +9,10 @@ melodies.](../Page/ef_-_a_tale_of_melodies..md "wikilink")》的主題曲。
       -
         英譯詞：西田恵美；作曲、編曲：[天門](../Page/天門_\(作曲家\).md "wikilink")
         電視動畫《[ef - a tale of
-        melodies.](../Page/ef_-_a_tale_of_melodies..md "wikilink")》片頭曲
+        melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》片頭曲
 2.  ebullient future（日語版）- 3分41秒
       -
-        作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")；作曲、編曲：天門
+        作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")；作曲、編曲：天門
 3.  pray - 4分4秒
       -
         作詞：酒井伸和；作曲、編曲：柳英一郎
@@ -21,10 +21,10 @@ melodies.](../Page/ef_-_a_tale_of_melodies..md "wikilink")》的主題曲。
 
 ## 制作
 
-  - 作詞：[酒井伸和](../Page/酒井伸和.md "wikilink")（[minori](../Page/minori.md "wikilink")）、西田恵美（英語版）
+  - 作詞：[酒井伸和](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")（[minori](https://zh.wikipedia.org/wiki/minori "wikilink")）、西田恵美（英語版）
   - 作曲、編曲、鋼琴：[天門](../Page/天門_\(作曲家\).md "wikilink")（minori）
   - 小提琴：土屋玲子
-  - 貝斯：[柳英一郎](../Page/柳英一郎.md "wikilink")
+  - 貝斯：[柳英一郎](https://zh.wikipedia.org/wiki/柳英一郎 "wikilink")
   - 電吉他：福田康文
   - 執行制作：川村明廣
   - 總制作人：関戶雄一
@@ -33,7 +33,7 @@ melodies.](../Page/ef_-_a_tale_of_melodies..md "wikilink")》的主題曲。
   - 封面圖片設計：高宮紀徹
   - 特別鳴謝
       - [大沼心](../Page/大沼心.md "wikilink")、[新房昭之](../Page/新房昭之.md "wikilink")、、数馬英治、久保田光俊・雨宮茂幸（[SHAFT](../Page/SHAFT.md "wikilink")）
-      - 太布尚弘・（[Movic](../Page/Movic.md "wikilink")）、（[Frontier
+      - 太布尚弘・（[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")）、（[Frontier
         Works](../Page/Frontier_Works.md "wikilink")）、多賀徹（Kitty）、「ef2」製作委員会
 
 ## 脚注

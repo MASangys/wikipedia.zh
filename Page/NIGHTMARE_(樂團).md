@@ -1,12 +1,12 @@
 **NIGHTMARE**
-（），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](../Page/搖滾樂團.md "wikilink")（Visual
+（），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")（Visual
 Rock）。2000年於仙台組成，簡稱メア。
-另一個樂隊[仙台貨物即是ナイトメア組成](../Page/仙台貨物.md "wikilink")，但成員皆不承認。現屬[艾迴音樂旗下藝人](../Page/艾迴音樂.md "wikilink")。
+另一個樂隊[仙台貨物即是ナイトメア組成](../Page/仙台貨物.md "wikilink")，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
 
 ## 成員
 
   -
-    **[主唱](../Page/主唱.md "wikilink")**
+    **[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")**
       -
         YOMI （ヨミ，黃泉）
         本名：千葉 淳
@@ -21,12 +21,12 @@ Rock）。2000年於仙台組成，簡稱メア。
         [咲人](../Page/咲人.md "wikilink") （サキト）
         本名：阪口 貴浩
         1981年6月29日，宮城縣大河原町出生
-    **[貝斯](../Page/貝斯.md "wikilink")**
+    **[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")**
       -
         Ni〜ya （ニーヤ，新彌）
         本名：馬場 佑二
         1981年6月23日，宮城縣角田市出生
-    **[鼓手](../Page/鼓手.md "wikilink")**
+    **[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")**
       -
         RUKA （ルカ，瑠樺）
         本名：狩野 觉
@@ -44,14 +44,14 @@ Rock）。2000年於仙台組成，簡稱メア。
     NOTE(死亡筆記本)」的連載周刊「[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")」（[集英社刊](../Page/集英社.md "wikilink")）的訪談。這首歌首次登場就奪下日本公信榜第五名的好成績，也是Nightmare第一次打進前10名。而後也在富士電視台的音樂節目「[HEY\!HEY\!HEY\!MUSIC
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")」上演出。
   - 隔年發行包含這首單曲的專輯「the WORLD
-    Ruler」，在公信榜上一登場就獲得第6名的紀錄，之後的單曲「レゾンデートル」也成為同系列動畫『[CLAYMORE](../Page/CLAYMORE.md "wikilink")』的主題曲，在公信榜上一登場就獲得第3名，是Nightmare首次打入前3名。樂團的人氣有持續上升的趨勢。
+    Ruler」，在公信榜上一登場就獲得第6名的紀錄，之後的單曲「レゾンデートル」也成為同系列動畫『[CLAYMORE](https://zh.wikipedia.org/wiki/CLAYMORE "wikilink")』的主題曲，在公信榜上一登場就獲得第3名，是Nightmare首次打入前3名。樂團的人氣有持續上升的趨勢。
   - 2011年3月11日宣佈移籍現屬唱片公司avex。
   - 音樂性方面，Nightmare的成員全部都一致公開表示受[X
-    JAPAN跟](../Page/X_JAPAN.md "wikilink")[LUNA
-    SEA的影響](../Page/LUNA_SEA.md "wikilink")，主要作曲者是由吉他手咲人與鼓手RUKAが擔任。作詞則是咲人、RUKA、跟主唱YOMI，最近柩也開始參與一些歌詞的創作。
+    JAPAN跟](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[LUNA
+    SEA的影響](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")，主要作曲者是由吉他手咲人與鼓手RUKAが擔任。作詞則是咲人、RUKA、跟主唱YOMI，最近柩也開始參與一些歌詞的創作。
   - 歌詞方面，從帶有社會批判到苦戀的內容都有，可說是範圍廣闊。另外，「わすれな草」跟「M-aria」是由RUKA作詞的歌曲，據說是描寫他真實的人生經歷。
   - Nightmare的曲風以小調和絃的曲子居多。其代表作包含**ジャイアニズム**系列，曲子的標題皆為**ジャイアニズム痛＝ジャイアニズム2**、**ジャイアニズム惨＝ジャイアニズム3**將數字轉換成漢字。一般認為**ジャイアニズム**系列的第一首作品就是**自傷少年**。
-  - Nightmare是現場演唱功力很強的一個樂團，特別是特咲人的[速彈](../Page/速彈.md "wikilink")、[Tapping](../Page/Tapping.md "wikilink")、[slapping等等的技巧非常卓越](../Page/slapping.md "wikilink")，受到很高的評價。
+  - Nightmare是現場演唱功力很強的一個樂團，特別是特咲人的[速彈](https://zh.wikipedia.org/wiki/速彈 "wikilink")、[Tapping](https://zh.wikipedia.org/wiki/Tapping "wikilink")、[slapping等等的技巧非常卓越](https://zh.wikipedia.org/wiki/slapping "wikilink")，受到很高的評價。
   - 2012年3月四度登上武道館。
   - 2013年在法國舉辦的Japan Expo上演出，這也是Nightmare首次海外公演，開始了Nightmare接下來一連串的海外公演。
   - 新單曲「リライト」在Oricon公信榜獲得了第2名，這次的第2名也是樂團生涯的最高名次。
@@ -170,7 +170,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    日本動畫「[死亡筆記本](../Page/死亡筆記本.md "wikilink")」主題曲及片尾曲。移籍VAP第一彈
+    日本動畫「[死亡筆記本](https://zh.wikipedia.org/wiki/死亡筆記本 "wikilink")」主題曲及片尾曲。移籍VAP第一彈
 
 <!-- end list -->
 
@@ -185,7 +185,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    日本動畫「[大劍](../Page/大劍.md "wikilink")」主題曲
+    日本動畫「[大劍](https://zh.wikipedia.org/wiki/大劍 "wikilink")」主題曲
 
 <!-- end list -->
 
@@ -213,7 +213,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    日本動畫「[魔人偵探腦嚙涅羅](../Page/魔人偵探腦嚙涅羅.md "wikilink")」主題曲
+    日本動畫「[魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")」主題曲
 
 <!-- end list -->
 
@@ -227,7 +227,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    日本動畫「[魍魎之匣](../Page/魍魎之匣.md "wikilink")」主題曲
+    日本動畫「[魍魎之匣](https://zh.wikipedia.org/wiki/魍魎之匣 "wikilink")」主題曲
 
 <!-- end list -->
 
@@ -241,7 +241,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 <!-- end list -->
 
   -
-    日本動畫「[魍魎之匣](../Page/魍魎之匣.md "wikilink")」片尾曲
+    日本動畫「[魍魎之匣](https://zh.wikipedia.org/wiki/魍魎之匣 "wikilink")」片尾曲
 
 <!-- end list -->
 
@@ -847,7 +847,8 @@ Rock）。2000年於仙台組成，簡稱メア。
   - TOUR CPU 2004GHz 〜LIVE at NAKANO SUNPLAZA〜　（2005年3月16日）
   - 天下大暴走　(2005年12月21日)'''
   - TOUR 【anima】lism at Zepp Tokyo -2006.03.16-　（2006年6月28日）
-  - TOUR 2006【ジャイアニズム痛】＠[NHK](../Page/NHK.md "wikilink")
+  - TOUR
+    2006【ジャイアニズム痛】＠[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")
     HALL　（2007年1月1日）
   - VISION OF the WORLD RULER at 東京国際フォーラムA　（2007年9月12日）
   - 極東シンフォニー 〜the Five Stars Night〜 @BUDOKAN　（2008年3月12日）
@@ -1220,8 +1221,8 @@ Rock）。2000年於仙台組成，簡稱メア。
 
 ### 電影
 
-  - [20世紀少年](../Page/20世紀少年.md "wikilink") 第1章（2008年） -
-    飾演[搖滾樂團](../Page/搖滾樂團.md "wikilink")
+  - [20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink") 第1章（2008年）
+    - 飾演[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")
 
 ### 電視‧電台廣播
 
@@ -1237,7 +1238,7 @@ Rock）。2000年於仙台組成，簡稱メア。
 
 <!-- end list -->
 
-  - 咲人擔任日本動畫「[魔人偵探腦嚙涅羅](../Page/魔人偵探腦嚙涅羅.md "wikilink")」第17集的通行人角色配音
+  - 咲人擔任日本動畫「[魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")」第17集的通行人角色配音
 
 <!-- end list -->
 

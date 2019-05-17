@@ -1,6 +1,6 @@
 **Knewton**是一個提供個性化教育平台的公司.
 學校和出版商可以通過Knewton平台為學生提供自適應的學習材料。於2011年，Knewton與[Pearson
-Education達成合作夥伴關係](../Page/Pearson_Education.md "wikilink")，為後者提供數字化教育服務。\[1\]
+Education達成合作夥伴關係](https://zh.wikipedia.org/wiki/Pearson_Education "wikilink")，為後者提供數字化教育服務。\[1\]
 其它合作夥伴包括麥克米倫教育(Macmillan Education)，Houghton Mifflin
 Harcourt教育集團等十餘家出版商。\[2\]\[3\]\[4\]
 

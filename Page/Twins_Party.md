@@ -1,5 +1,5 @@
 **Twins
-Party**為[Twins](../Page/Twins.md "wikilink")[中文專輯](../Page/中文.md "wikilink")，於2007年9月在[香港發行](../Page/香港.md "wikilink")。發售一週銷量已達5萬張。
+Party**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2007年9月在[香港發行](../Page/香港.md "wikilink")。發售一週銷量已達5萬張。
 
 ## 曲目
 
@@ -37,18 +37,18 @@ Gill版內收錄獨唱歌 "ó雙重打擊" 及 "錯在聰明"。
 
 隨碟額外贈送： 六周年環保袋一個（有兩款不同顏色—銀及金色，隨機送出一款） DVD內收錄了兩首主打歌MV及拍攝花絮
 
-| 次序  | 歌名            | 作曲                                                                                                  | 填詞                               | 編曲                                             | 監製                               |
-| --- | ------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------- | -------------------------------- |
-| 1\. | 愛情突擊          | [Edward Chan](../Page/Edward_Chan.md "wikilink") / [Charles Lee](../Page/Charles_Lee.md "wikilink") | [黃偉文](../Page/黃偉文.md "wikilink") | Edward Chan / Charles Lee                      |                                  |
-| 2\. | 傷心情歌          | [Adrian Chan](../Page/Adrian_Chan.md "wikilink")                                                    | [李峻一](../Page/李峻一.md "wikilink") | [Johnny Yim](../Page/Johnny_Yim.md "wikilink") | [梁錫池](../Page/梁錫池.md "wikilink") |
-| 3\. | 絕對遷就          | Yoon / Jae Sang                                                                                     | [夏至](../Page/蔡冕麗.md "wikilink")  | Johnny Yim                                     | 梁錫池                              |
-| 4\. | 士氣            | [朱俊傑](../Page/朱俊傑.md "wikilink")                                                                    | [林夕](../Page/林夕.md "wikilink")   | [謝國維](../Page/謝國維.md "wikilink") / 朱俊傑         | [伍樂城](../Page/伍樂城.md "wikilink") |
-| 5\. | 金句            | 伍樂城                                                                                                 | 林夕                               | 伍樂城 / [黃思彥](../Page/黃思彥.md "wikilink")         | 伍樂城                              |
-| 6\. | 世界變           | 黃思彥                                                                                                 | 林夕                               | 黃思彥                                            | 伍樂城                              |
-| 7\. | 布拉格之戀         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")                                                                    | 李峻一                              | Johnny Yim                                     | 梁錫池                              |
-| 8\. | 錯在聰明          | [張家誠](../Page/張家誠.md "wikilink")                                                                    | 李峻一                              | 藝琛 / 張家誠                                       | 梁錫池                              |
-| 9\. | 玩轉六年 (Medley) | 伍樂城                                                                                                 | 林夕                               | 伍樂城                                            | 伍樂城                              |
-|     |               |                                                                                                     |                                  |                                                |                                  |
+| 次序  | 歌名            | 作曲                                                                                                                                        | 填詞                                                  | 編曲                                                                | 監製                                                  |
+| --- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------- |
+| 1\. | 愛情突擊          | [Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink") / [Charles Lee](https://zh.wikipedia.org/wiki/Charles_Lee "wikilink") | [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") | Edward Chan / Charles Lee                                         |                                                     |
+| 2\. | 傷心情歌          | [Adrian Chan](https://zh.wikipedia.org/wiki/Adrian_Chan "wikilink")                                                                       | [李峻一](../Page/李峻一.md "wikilink")                    | [Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink") | [梁錫池](https://zh.wikipedia.org/wiki/梁錫池 "wikilink") |
+| 3\. | 絕對遷就          | Yoon / Jae Sang                                                                                                                           | [夏至](../Page/蔡冕麗.md "wikilink")                     | Johnny Yim                                                        | 梁錫池                                                 |
+| 4\. | 士氣            | [朱俊傑](../Page/朱俊傑.md "wikilink")                                                                                                          | [林夕](../Page/林夕.md "wikilink")                      | [謝國維](../Page/謝國維.md "wikilink") / 朱俊傑                            | [伍樂城](../Page/伍樂城.md "wikilink")                    |
+| 5\. | 金句            | 伍樂城                                                                                                                                       | 林夕                                                  | 伍樂城 / [黃思彥](../Page/黃思彥.md "wikilink")                            | 伍樂城                                                 |
+| 6\. | 世界變           | 黃思彥                                                                                                                                       | 林夕                                                  | 黃思彥                                                               | 伍樂城                                                 |
+| 7\. | 布拉格之戀         | [蔡卓妍](../Page/蔡卓妍.md "wikilink")                                                                                                          | 李峻一                                                 | Johnny Yim                                                        | 梁錫池                                                 |
+| 8\. | 錯在聰明          | [張家誠](../Page/張家誠.md "wikilink")                                                                                                          | 李峻一                                                 | 藝琛 / 張家誠                                                          | 梁錫池                                                 |
+| 9\. | 玩轉六年 (Medley) | 伍樂城                                                                                                                                       | 林夕                                                  | 伍樂城                                                               | 伍樂城                                                 |
+|     |               |                                                                                                                                           |                                                     |                                                                   |                                                     |
 
 DVD
 

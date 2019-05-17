@@ -1,7 +1,7 @@
 **BMW
-5系列**是[德國汽車製造商](../Page/德國.md "wikilink")[BMW自](../Page/BMW.md "wikilink")1972年開始生產的中型轎車系列，介於[3系列與](../Page/BMW_3系列.md "wikilink")[7系列之間的車款](../Page/BMW_7系列.md "wikilink")，現在已經推出到第7代。
+5系列**是[德國汽車製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW自](../Page/BMW.md "wikilink")1972年開始生產的中型轎車系列，介於[3系列與](../Page/BMW_3系列.md "wikilink")[7系列之間的車款](../Page/BMW_7系列.md "wikilink")，現在已經推出到第7代。
 
-在德國其競爭對手為[梅赛德斯-奔驰E级](../Page/梅赛德斯-奔驰E级.md "wikilink")、[奧迪A6](../Page/奧迪A6.md "wikilink")、[大眾Passat等等](../Page/大众帕萨特.md "wikilink")，英國對手為捷豹XE，亞洲對手為本田雅閣、馬自達6、豐田凱美瑞和凌志ES。
+在德國其競爭對手為[梅赛德斯-奔驰E级](../Page/梅赛德斯-奔驰E级.md "wikilink")、[奧迪A6](https://zh.wikipedia.org/wiki/奧迪A6 "wikilink")、[大眾Passat等等](../Page/大众帕萨特.md "wikilink")，英國對手為捷豹XE，亞洲對手為本田雅閣、馬自達6、豐田凱美瑞和凌志ES。
 
 ## 簡介
 
@@ -11,16 +11,16 @@
 
 ### E12（1972-1981）
 
-寶馬5系第一代是於1972年正式面世，外觀上與[3系列差不多](../Page/BMW_3系列.md "wikilink")，但體積稍大。第一代的車身是由[法國汽車設計師Paul](../Page/法國.md "wikilink")
+寶馬5系第一代是於1972年正式面世，外觀上與[3系列差不多](../Page/BMW_3系列.md "wikilink")，但體積稍大。第一代的車身是由[法國汽車設計師Paul](https://zh.wikipedia.org/wiki/法國 "wikilink")
 Bracq和[意大利汽車工程師](../Page/意大利.md "wikilink")負責。
 
-推出時寶馬5系列只有正規轎車版本，且僅有手動變速選擇。後來也有自動變速版本，但只供應給[美國和](../Page/美國.md "wikilink")[日本市場](../Page/日本.md "wikilink")。
+推出時寶馬5系列只有正規轎車版本，且僅有手動變速選擇。後來也有自動變速版本，但只供應給[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本市場](../Page/日本.md "wikilink")。
 
 ### E28（1982-1988）
 
 1982年推出第二代，外觀上與E12差別不大，主要在於在車頭燈、防撞桿和尾燈的大小來修改。與此同時，還新增柴油版本和自動變速選擇。
 
-也就在這一代開始，推出了運動版，稱[M5系列](../Page/寶馬M5.md "wikilink")，配備了S38六列直缸引擎。運動版本是於1984年推出。
+也就在這一代開始，推出了運動版，稱[M5系列](https://zh.wikipedia.org/wiki/寶馬M5 "wikilink")，配備了S38六列直缸引擎。運動版本是於1984年推出。
 
 ### E34（1988-1995）
 
@@ -35,7 +35,7 @@ Spada共同設計，外形較偏向豪華型，有別於上兩代。同時在汽
 
 ### E60/E61（2003-2010）
 
-2000年寶馬找來了意大利[賓尼法利納](../Page/賓尼法利納.md "wikilink")，由該公司設計師Davide
+2000年寶馬找來了意大利[賓尼法利納](https://zh.wikipedia.org/wiki/賓尼法利納 "wikilink")，由該公司設計師Davide
 Arcangeli設計出新一代5系列車型，於2003年面世。這一次新增V10汽油引擎選擇，而車身不論長度或者闊度，都有所加大。
 
 | 引擎(2007)          | 520d     | 523i     | 525i     | 530i     | 535d     | 540i     |
@@ -83,7 +83,7 @@ GT](../Page/BMW_5系列_GT.md "wikilink")。
 ## 參見
 
   - [BMW](../Page/BMW.md "wikilink")
-  - [BMW M5](../Page/BMW_M5.md "wikilink")
+  - [BMW M5](https://zh.wikipedia.org/wiki/BMW_M5 "wikilink")
 
 ## 參考資料
 

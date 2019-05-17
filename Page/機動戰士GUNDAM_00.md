@@ -1,7 +1,7 @@
 《**機動戰士GUNDAM
-00**》（）是[GUNDAM系列的](../Page/GUNDAM系列作品.md "wikilink")[電視動畫第](../Page/電視動畫.md "wikilink")12部作品。本動畫共分兩季，第一季共25話於2007年10月至2008年3月間在[每日放送](../Page/每日放送.md "wikilink")（MBS）、[東京放送](../Page/TBS電視.md "wikilink")（TBS）系列播放，第二季於2008年10月5日起播出。本動畫亦是GUNDAM系列首次以[HDTV的方式播放](../Page/HDTV.md "wikilink")。
+00**》（）是[GUNDAM系列的](../Page/GUNDAM系列作品.md "wikilink")[電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")12部作品。本動畫共分兩季，第一季共25話於2007年10月至2008年3月間在[每日放送](../Page/每日放送.md "wikilink")（MBS）、[東京放送](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（TBS）系列播放，第二季於2008年10月5日起播出。本動畫亦是GUNDAM系列首次以[HDTV的方式播放](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
 
-故事起始時間為公元2307年，描寫4位操控人型機動兵器「GUNDAM」（「[-{GUNDAM}-](../Page/GUNDAM.md "wikilink")」）的GUNDAM機師，為了把戰爭從世界上根絕而戰鬥。標題的「00」是2個[數字](../Page/阿拉伯數字.md "wikilink")0，讀作「」，這是由於英語中的「Zero」，用作數字時可發音為「“oh”（）」\[1\]。
+故事起始時間為公元2307年，描寫4位操控人型機動兵器「GUNDAM」（「[-{GUNDAM}-](../Page/GUNDAM.md "wikilink")」）的GUNDAM機師，為了把戰爭從世界上根絕而戰鬥。標題的「00」是2個[數字](https://zh.wikipedia.org/wiki/阿拉伯數字 "wikilink")0，讀作「」，這是由於英語中的「Zero」，用作數字時可發音為「“oh”（）」\[1\]。
 
 2009年3月29日在動畫最後一集播畢後，製作單位發表《[劇場版 -A wakening of the
 Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailblazer-.md "wikilink")》的消息，這部劇場版已於2010年9月18日在[日本上映](../Page/日本.md "wikilink")。
@@ -10,13 +10,13 @@ Trailblazer-](../Page/劇場版_機動戰士GUNDAM00_-A_wakening_of_the_Trailbla
 
 ### 第一季
 
-由於地球上的[化石燃料枯竭](../Page/化石燃料.md "wikilink")，[人類開始依靠](../Page/人類.md "wikilink")[太阳能發電作為新的能源](../Page/太阳能.md "wikilink")。西元2307年，以三座長度約五萬[公里的](../Page/公里.md "wikilink")[軌道升降機為中心](../Page/太空電梯.md "wikilink")，建構完成巨大的[太陽能發電衛星](../Page/太陽能發電衛星.md "wikilink")，但是能夠使用此系統的，只有共同參與其興建的同盟國家而已。
+由於地球上的[化石燃料枯竭](../Page/化石燃料.md "wikilink")，[人類開始依靠](../Page/人類.md "wikilink")[太阳能發電作為新的能源](https://zh.wikipedia.org/wiki/太阳能 "wikilink")。西元2307年，以三座長度約五萬[公里的](../Page/公里.md "wikilink")[軌道升降機為中心](../Page/太空電梯.md "wikilink")，建構完成巨大的[太陽能發電衛星](https://zh.wikipedia.org/wiki/太陽能發電衛星 "wikilink")，但是能夠使用此系統的，只有共同參與其興建的同盟國家而已。
 
-為了建造這幾座能產生半永久能源的軌道升降機，世界各區域經過統合，形成三個超大國家群。分別是以[美國為中心的](../Page/美國.md "wikilink")「[世界經濟聯合](../Page/機動戰士GUNDAM_00登場國家及組織列表#太陽能與自由國家聯合.md "wikilink")」（UNION）；以[中國](../Page/中國.md "wikilink")、[俄羅斯與](../Page/俄羅斯.md "wikilink")[印度為中心的](../Page/印度.md "wikilink")「[人類革新聯盟](../Page/機動戰士GUNDAM_00登場國家及組織列表#人類革新聯盟.md "wikilink")」（人革聯）；以及歐洲的「[新歐洲共同體](../Page/機動戰士GUNDAM_00登場國家及組織列表#新歐洲共同體.md "wikilink")」（AEU）。因軌道升降機體積巨大而難以防禦，構造上也極其脆弱，在此緊張狀態下，三大國家群為了各自的威信和繁榮，逐漸擴大彼此間的[零和博弈](../Page/零和博弈.md "wikilink")。
+為了建造這幾座能產生半永久能源的軌道升降機，世界各區域經過統合，形成三個超大國家群。分別是以[美國為中心的](https://zh.wikipedia.org/wiki/美國 "wikilink")「[世界經濟聯合](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#太陽能與自由國家聯合 "wikilink")」（UNION）；以[中國](../Page/中國.md "wikilink")、[俄羅斯與](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[印度為中心的](../Page/印度.md "wikilink")「[人類革新聯盟](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#人類革新聯盟 "wikilink")」（人革聯）；以及歐洲的「[新歐洲共同體](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00登場國家及組織列表#新歐洲共同體 "wikilink")」（AEU）。因軌道升降機體積巨大而難以防禦，構造上也極其脆弱，在此緊張狀態下，三大國家群為了各自的威信和繁榮，逐漸擴大彼此間的[零和博弈](../Page/零和博弈.md "wikilink")。
 
-在這無法結束紛爭的世界，出現了擁有超規格性能[機動戰士](../Page/機動戰士.md "wikilink")（[Mobile
-Suit](../Page/Mobile_Suit.md "wikilink")）「[GUNDAM](../Page/GUNDAM.md "wikilink")」的私設武裝組織「天上人」（Celestial
-Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着超越了[民族](../Page/民族.md "wikilink")、[国家](../Page/国家.md "wikilink")、[宗教的武力介入行動](../Page/宗教.md "wikilink")。
+在這無法結束紛爭的世界，出現了擁有超規格性能[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")（[Mobile
+Suit](https://zh.wikipedia.org/wiki/Mobile_Suit "wikilink")）「[GUNDAM](../Page/GUNDAM.md "wikilink")」的私設武裝組織「天上人」（Celestial
+Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，他們進行着超越了[民族](../Page/民族.md "wikilink")、[国家](../Page/国家.md "wikilink")、[宗教的武力介入行動](../Page/宗教.md "wikilink")。
 
 於是，以GUNDAM對全戰爭行為的武力介入開始了。
 
@@ -44,16 +44,18 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 「[DAYBREAK'S BELL](../Page/DAYBREAK'S_BELL.md "wikilink")」（1～13話）
-      - 作詞：[hyde](../Page/hyde.md "wikilink")
-      - 作曲：[ken](../Page/ken.md "wikilink")
-      - 編曲：[L'Arc\~en\~Ciel](../Page/L'Arc~en~Ciel.md "wikilink")
+  - 「[DAYBREAK'S
+    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（1～13話）
+      - 作詞：[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")
+      - 作曲：[ken](https://zh.wikipedia.org/wiki/ken "wikilink")
+      - 編曲：[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")
       - 主唱：L'Arc\~en\~Ciel（Ki/oon Records）
-  - 「[Ash Like Snow](../Page/Ash_Like_Snow.md "wikilink")」（14～25話）
-      - 作詞：[川瀬智子](../Page/川瀬智子.md "wikilink")
-      - 作曲：[奥田俊作](../Page/奥田俊作.md "wikilink")
+  - 「[Ash Like
+    Snow](https://zh.wikipedia.org/wiki/Ash_Like_Snow "wikilink")」（14～25話）
+      - 作詞：[川瀬智子](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")
+      - 作曲：[奥田俊作](https://zh.wikipedia.org/wiki/奥田俊作 "wikilink")
       - 主唱：[the brilliant
-        green](../Page/the_brilliant_green.md "wikilink")（DefSTAR
+        green](https://zh.wikipedia.org/wiki/the_brilliant_green "wikilink")（DefSTAR
         Records）
 
 <!-- end list -->
@@ -63,16 +65,18 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 <!-- end list -->
 
   - 「」（1～13話）
-      - 作詞：[菅波榮純](../Page/菅波榮純.md "wikilink")
-      - 作曲：[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
+      - 作詞：[菅波榮純](https://zh.wikipedia.org/wiki/菅波榮純 "wikilink")
+      - 作曲：[THE BACK
+        HORN](https://zh.wikipedia.org/wiki/THE_BACK_HORN "wikilink")
       - 編曲：THE BACK HORN
       - 主唱：THE BACK HORN（SPEEDSTAR RECORDS）
   - 「」（14～24話）
-      - 作詞：[Stephanie](../Page/Stephanie.md "wikilink")、[矢住夏菜](../Page/矢住夏菜.md "wikilink")
+      - 作詞：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")、[矢住夏菜](https://zh.wikipedia.org/wiki/矢住夏菜 "wikilink")
       - 作曲：[Joe
-        Rinoie](../Page/Joe_Rinoie.md "wikilink")、[MASAKI](../Page/MASAKI.md "wikilink")
-      - 編曲：Joe Rinoie、[峰正典](../Page/峰正典.md "wikilink")
-      - 主唱：[Stephanie](../Page/Stephanie.md "wikilink")（[日本新力音樂](../Page/日本新力音樂.md "wikilink")）
+        Rinoie](https://zh.wikipedia.org/wiki/Joe_Rinoie "wikilink")、[MASAKI](https://zh.wikipedia.org/wiki/MASAKI "wikilink")
+      - 編曲：Joe
+        Rinoie、[峰正典](https://zh.wikipedia.org/wiki/峰正典 "wikilink")
+      - 主唱：[Stephanie](https://zh.wikipedia.org/wiki/Stephanie "wikilink")（[日本新力音樂](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")）
   - 「DAYBREAK'S BELL」（25話）
 
 <!-- end list -->
@@ -81,10 +85,11 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 「[LOVE TODAY](../Page/LOVE_TODAY.md "wikilink")」（第19話、第24話）
-      - 作詞：[菜穂](../Page/菜穂.md "wikilink")
-      - 作曲：菜穂、[佑次](../Page/佑次.md "wikilink")
-      - 編曲：[Taja](../Page/Taja.md "wikilink")
+  - 「[LOVE
+    TODAY](https://zh.wikipedia.org/wiki/LOVE_TODAY "wikilink")」（第19話、第24話）
+      - 作詞：[菜穂](https://zh.wikipedia.org/wiki/菜穂 "wikilink")
+      - 作曲：菜穂、[佑次](https://zh.wikipedia.org/wiki/佑次 "wikilink")
+      - 編曲：[Taja](https://zh.wikipedia.org/wiki/Taja "wikilink")
       - 主唱：Taja
 
 ### 第二季
@@ -94,14 +99,14 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 <!-- end list -->
 
   - 「」（1\[2\]～13話）
-      - 作詞：[TAKUYA](../Page/TAKUYA.md "wikilink")
-      - 作曲：[克哉](../Page/克哉.md "wikilink")、TAKUYA
-      - 編曲：[UVERworld](../Page/UVERworld.md "wikilink")、[平出悟](../Page/平出悟.md "wikilink")
+      - 作詞：[TAKUYA](https://zh.wikipedia.org/wiki/TAKUYA "wikilink")
+      - 作曲：[克哉](https://zh.wikipedia.org/wiki/克哉 "wikilink")、TAKUYA
+      - 編曲：[UVERworld](../Page/UVERworld.md "wikilink")、[平出悟](https://zh.wikipedia.org/wiki/平出悟 "wikilink")
       - 主唱：UVERworld
   - 「」（14～25話）
       - 作詞：[AIMI](../Page/Stereopony.md "wikilink")
       - 作曲：AIMI
-      - 編曲：[stereopony](../Page/stereopony.md "wikilink")、[northa+](../Page/northa+.md "wikilink")
+      - 編曲：[stereopony](https://zh.wikipedia.org/wiki/stereopony "wikilink")、[northa+](https://zh.wikipedia.org/wiki/northa+ "wikilink")
       - 主唱：
 
 <!-- end list -->
@@ -110,22 +115,25 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 「[Prototype](../Page/Prototype_\(單曲\).md "wikilink")」（2～13話）
+  - 「[Prototype](https://zh.wikipedia.org/wiki/Prototype_\(單曲\) "wikilink")」（2～13話）
       - 作詞：[石川智晶](../Page/石川智晶.md "wikilink")
       - 作曲：石川智晶
       - 編曲：
       - 主唱：石川智晶
-  - 「[TOMORROW](../Page/TOMORROW.md "wikilink")」（第14話）（第14話、第15話、第18話、第20話、第21話、第25話插曲使用）
+  - 「[TOMORROW](https://zh.wikipedia.org/wiki/TOMORROW "wikilink")」（第14話）（第14話、第15話、第18話、第20話、第21話、第25話插曲使用）
       - 作詞：[黑田洋介](../Page/黑田洋介.md "wikilink")、
-      - 作曲：[淺見昴生](../Page/淺見昴生.md "wikilink")、[川井憲次](../Page/川井憲次.md "wikilink")
+      - 作曲：[淺見昴生](https://zh.wikipedia.org/wiki/淺見昴生 "wikilink")、[川井憲次](../Page/川井憲次.md "wikilink")
       - 編曲：
       - 主唱：[恒松步](../Page/恒松步.md "wikilink")
-  - 「[trust you](../Page/trust_you.md "wikilink")」（15～24話）（第20話插曲使用）
-      - 作詞：[MARKIE](../Page/MARKIE.md "wikilink")
+  - 「[trust
+    you](https://zh.wikipedia.org/wiki/trust_you "wikilink")」（15～24話）（第20話插曲使用）
+      - 作詞：[MARKIE](https://zh.wikipedia.org/wiki/MARKIE "wikilink")
       - 作曲：MARKIE
-      - 編曲：[JIN NAKAMURA](../Page/JIN_NAKAMURA.md "wikilink")
+      - 編曲：[JIN
+        NAKAMURA](https://zh.wikipedia.org/wiki/JIN_NAKAMURA "wikilink")
       - 主唱：[伊藤由奈](../Page/伊藤由奈.md "wikilink")
-  - 「[DAYBREAK'S BELL](../Page/DAYBREAK'S_BELL.md "wikilink")」（第25話）
+  - 「[DAYBREAK'S
+    BELL](https://zh.wikipedia.org/wiki/DAYBREAK'S_BELL "wikilink")」（第25話）
 
 <!-- end list -->
 
@@ -135,31 +143,33 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
   - 「[Unlimited
     Sky](../Page/Unlimited_Sky.md "wikilink")」（第7話、第18話、第22話、第25話）
-      - 作詞：[Tommy heavenly<sup>6</sup>](../Page/川瀬智子.md "wikilink")
-      - 作曲：[Chillion Brownle](../Page/Chillion_Brownle.md "wikilink")
+      - 作詞：[Tommy
+        heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/川瀬智子 "wikilink")
+      - 作曲：[Chillion
+        Brownle](https://zh.wikipedia.org/wiki/Chillion_Brownle "wikilink")
       - 編曲：Chillion Brownle
       - 主唱：[Tommy
-        heavenly<sup>6</sup>](../Page/Tommy_heavenly6.md "wikilink")
+        heavenly<sup>6</sup>](https://zh.wikipedia.org/wiki/Tommy_heavenly6 "wikilink")
 
 ## 製作人員
 
-  - 监督：[水岛精二](../Page/水岛精二.md "wikilink")
+  - 监督：[水岛精二](https://zh.wikipedia.org/wiki/水岛精二 "wikilink")
   - 脚本：[黑田洋介](../Page/黑田洋介.md "wikilink")
-  - 角色原案：[高河弓](../Page/高河优.md "wikilink")
-  - 角色设定：[千叶道德](../Page/千叶道德.md "wikilink")
-  - 机械设计：[大河原邦男](../Page/大河原邦男.md "wikilink")、[海老川兼武](../Page/海老川兼武.md "wikilink")、[柳濑敬之](../Page/柳濑敬之.md "wikilink")
-  - 机械概念设计：[福地仁](../Page/福地仁.md "wikilink")、[寺冈贤司](../Page/寺冈贤司.md "wikilink")
-  - 动画机械设定：[中谷诚一](../Page/中谷诚一.md "wikilink")
+  - 角色原案：[高河弓](https://zh.wikipedia.org/wiki/高河优 "wikilink")
+  - 角色设定：[千叶道德](https://zh.wikipedia.org/wiki/千叶道德 "wikilink")
+  - 机械设计：[大河原邦男](../Page/大河原邦男.md "wikilink")、[海老川兼武](../Page/海老川兼武.md "wikilink")、[柳濑敬之](https://zh.wikipedia.org/wiki/柳濑敬之 "wikilink")
+  - 机械概念设计：[福地仁](https://zh.wikipedia.org/wiki/福地仁 "wikilink")、[寺冈贤司](https://zh.wikipedia.org/wiki/寺冈贤司 "wikilink")
+  - 动画机械设定：[中谷诚一](https://zh.wikipedia.org/wiki/中谷诚一 "wikilink")
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音乐：[川井憲次](../Page/川井憲次.md "wikilink")
-  - 美术设计：[须江信人](../Page/须江信人.md "wikilink")
-  - 色彩设定：[手嶋明美](../Page/手嶋明美.md "wikilink")
-  - 美术监督：[佐藤豪志](../Page/佐藤豪志.md "wikilink")
-  - 机械考证：[千叶智宏](../Page/千叶智宏.md "wikilink")、[寺冈贤司](../Page/寺冈贤司.md "wikilink")
+  - 美术设计：[须江信人](https://zh.wikipedia.org/wiki/须江信人 "wikilink")
+  - 色彩设定：[手嶋明美](https://zh.wikipedia.org/wiki/手嶋明美 "wikilink")
+  - 美术监督：[佐藤豪志](https://zh.wikipedia.org/wiki/佐藤豪志 "wikilink")
+  - 机械考证：[千叶智宏](https://zh.wikipedia.org/wiki/千叶智宏 "wikilink")、[寺冈贤司](https://zh.wikipedia.org/wiki/寺冈贤司 "wikilink")
   - 设定协力：
-  - 监制：[竹田青滋](../Page/竹田青滋.md "wikilink")（毎日放送）、[宮河恭夫](../Page/宮河恭夫.md "wikilink")（Sunrise）
-  - 制片人：[丸山和雄](../Page/丸山和雄.md "wikilink")（毎日放送）、[池谷浩臣](../Page/池谷浩臣.md "wikilink")（Sunrise）、[佐佐木新](../Page/佐佐木新.md "wikilink")（Sunrise）
-  - 制作：[創通](../Page/創通.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、[毎日放送](../Page/毎日放送.md "wikilink")
+  - 监制：[竹田青滋](https://zh.wikipedia.org/wiki/竹田青滋 "wikilink")（毎日放送）、[宮河恭夫](https://zh.wikipedia.org/wiki/宮河恭夫 "wikilink")（Sunrise）
+  - 制片人：[丸山和雄](https://zh.wikipedia.org/wiki/丸山和雄 "wikilink")（毎日放送）、[池谷浩臣](https://zh.wikipedia.org/wiki/池谷浩臣 "wikilink")（Sunrise）、[佐佐木新](https://zh.wikipedia.org/wiki/佐佐木新 "wikilink")（Sunrise）
+  - 制作：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")
   - 解说旁白：[古谷徹](../Page/古谷徹.md "wikilink")（日本）；[招世亮](../Page/招世亮.md "wikilink")（香港）；[王希華](../Page/王希華.md "wikilink")（台灣）
 
 ## 各集標題
@@ -802,8 +812,8 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 第一季：[無綫電視於](../Page/無綫電視.md "wikilink")2008年9月6日起逢星期六11:30－12:00播放，[翡翠台與](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2009年6月10日起逢星期一至五22:00－22:30在[J2重播](../Page/J2.md "wikilink")（於2009年6月29日改至21:30－22:00播出）。而總集篇則在2009年12月26日10:30－10:55於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2011年6月25日08:15－08:40[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")。
-  - 第二季：[無綫電視及後於](../Page/無綫電視.md "wikilink")2010年1月2日起逢星期六10:30－11:00於[翡翠台繼續播放](../Page/翡翠台.md "wikilink")，並於2011年6月25日08:40－09:05在2011年7月3日起逢星期日08:10－09:05在[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")（每次連播兩集）。
+  - 第一季：[無綫電視於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2008年9月6日起逢星期六11:30－12:00播放，[翡翠台與](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2009年6月10日起逢星期一至五22:00－22:30在[J2重播](../Page/J2.md "wikilink")（於2009年6月29日改至21:30－22:00播出）。而總集篇則在2009年12月26日10:30－10:55於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台同步播放](../Page/高清翡翠台.md "wikilink")，並於2011年6月25日08:15－08:40[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")。
+  - 第二季：[無綫電視及後於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2010年1月2日起逢星期六10:30－11:00於[翡翠台繼續播放](../Page/翡翠台.md "wikilink")，並於2011年6月25日08:40－09:05在2011年7月3日起逢星期日08:10－09:05在[高清翡翠台重播](../Page/高清翡翠台.md "wikilink")（每次連播兩集）。
 
 <!-- end list -->
 
@@ -815,8 +825,8 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 第一季：英文配音版於2008年11月24日在[Sci-Fi频道的](../Page/Sci-Fi.md "wikilink")「Ani-Monday」中首播，一次播出两话。
-  - 第二季：英文配音版於2009年6月29日在[Sci-Fi频道的](../Page/Sci-Fi.md "wikilink")「Ani-Monday」中首播，一次播出两话。
+  - 第一季：英文配音版於2008年11月24日在[Sci-Fi频道的](https://zh.wikipedia.org/wiki/Sci-Fi "wikilink")「Ani-Monday」中首播，一次播出两话。
+  - 第二季：英文配音版於2009年6月29日在[Sci-Fi频道的](https://zh.wikipedia.org/wiki/Sci-Fi "wikilink")「Ani-Monday」中首播，一次播出两话。
 
 ## 劇場版
 
@@ -979,7 +989,7 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
 <!-- end list -->
 
-  - 2011年4月11日[南夢宮萬代發售](../Page/南夢宮萬代.md "wikilink")[PlayStation
+  - 2011年4月11日[南夢宮萬代發售](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")[PlayStation
     Portable用遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『[第2次超級機器人大戰Z](../Page/第2次超級機器人大戰Z.md "wikilink")』。
 
 ## 外傳
@@ -988,7 +998,7 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
   -
     於[電擊
-    Hobby連載](../Page/電擊_Hobby.md "wikilink")，第一季故事時間點設定在西元2292年，第二季則是西元2302年。
+    Hobby連載](https://zh.wikipedia.org/wiki/電擊_Hobby "wikilink")，第一季故事時間點設定在西元2292年，第二季則是西元2302年。
     連載完結，小說2本，共有25話。
 
 ### 機動戰士GUNDAM 00F
@@ -1003,7 +1013,7 @@ Being）。為了根絕[戰爭](../Page/戰爭.md "wikilink")，他們進行着�
 
   -
     於[Hobby
-    Japan連載](../Page/Hobby_Japan.md "wikilink")，利用單元式的方法為本傳的內容做補充，故事時間點設定在本傳第一季至第二季。
+    Japan連載](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")，利用單元式的方法為本傳的內容做補充，故事時間點設定在本傳第一季至第二季。
     連載完結，解說書1本，共有23話。
 
 ### 機動戰士GUNDAM 00V戰記

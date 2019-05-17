@@ -1,11 +1,15 @@
 {{ infobox software | logo = | developer =
 [IBM](../Page/IBM.md "wikilink") | released = | frequently updated = yes
-| programming language = [C](../Page/C语言.md "wikilink"),
+| programming language =
+[C](https://zh.wikipedia.org/wiki/C语言 "wikilink"),
 [C++](../Page/C++.md "wikilink") | operating system =
-[跨平台](../Page/跨平台.md "wikilink") | language = 英语 | genre =
-[关系数据库管理系统](../Page/关系数据库管理系统.md "wikilink") | license = proprietary
-[EULA](../Page/EULA.md "wikilink") | website = }} **IBM
-DB2**企業伺服器版本，是[美國](../Page/美國.md "wikilink")[IBM公司發展的一套](../Page/IBM.md "wikilink")[关系型数据库管理系统](../Page/關聯式資料庫管理系統.md "wikilink")。它主要的執行環境為[UNIX](../Page/UNIX.md "wikilink")（包括IBM自家的[AIX](../Page/AIX.md "wikilink")）、[Linux](../Page/Linux.md "wikilink")、（舊稱）、，以及[Windows伺服器版本](../Page/Microsoft_Windows.md "wikilink")。DB2也提供性能強大的各稱IBM
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language =
+英语 | genre =
+[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")
+| license = proprietary
+[EULA](https://zh.wikipedia.org/wiki/EULA "wikilink") | website = }}
+**IBM
+DB2**企業伺服器版本，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[IBM公司發展的一套](../Page/IBM.md "wikilink")[关系型数据库管理系统](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它主要的執行環境為[UNIX](../Page/UNIX.md "wikilink")（包括IBM自家的[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")）、[Linux](../Page/Linux.md "wikilink")、（舊稱）、，以及[Windows伺服器版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。DB2也提供性能強大的各稱IBM
 InfoSphere Warehouse版本。和DB2同級的还有另外一个关系型数据库管理系统：，它在2001年被IBM收购。
 
 ## 历史
@@ -20,7 +24,7 @@ QUEry语言（SEQUEL）。当IBM公布其第一个关系型数据库产品时，
 G. Taylor, 2004）的Structured Query Language的缩写。这可以引导读者去思考SQL的真正含义。
 
 非常有意思的是，当Informix收购了IIIustra并通过引进他们的Universal
-Server使他们的数据库引擎成为object-SQL数据库管理系统后，[Oracle和IBM跟随着扩展了他们数据库引擎能力从而也能处理关系型对象](../Page/Oracle.md "wikilink")。更进一步的是，在2001年，IBM购买了并在第二年将Informix技术整合在DB2产品组中。今天，DB2可以被技术性地认为是一个object-[SQL](../Page/SQL.md "wikilink")[数据库管理系统](../Page/数据库管理系统.md "wikilink")。
+Server使他们的数据库引擎成为object-SQL数据库管理系统后，[Oracle和IBM跟随着扩展了他们数据库引擎能力从而也能处理关系型对象](https://zh.wikipedia.org/wiki/Oracle "wikilink")。更进一步的是，在2001年，IBM购买了并在第二年将Informix技术整合在DB2产品组中。今天，DB2可以被技术性地认为是一个object-[SQL](../Page/SQL.md "wikilink")[数据库管理系统](../Page/数据库管理系统.md "wikilink")。
 
 在很多年里，DB2作为一个全功能的数据库管理系统，被IBM大型机所专用。此后IBM将DB2带向了其它平台，包括OS/2、UNIX以及Windows服务器，然后是Linux（包括Linux
 on zSeries）和PDAs。这一转变主要发生在90年代。DB2大型机版本的结构灵感部分来源于IBM DL/1和IBM
@@ -28,8 +32,8 @@ IMS，这两者最初都是层次型数据库然后转变为网络型（CODASYL�
 System i（i系列，以前的AS/400）的i5/OS操作系统中，并且也有可用于z/VSE和z/VM的版本。
 
 DB2 LUW([Linux](../Page/Linux.md "wikilink"),
-[Unix](../Page/Unix.md "wikilink"),
-[Windows](../Page/Windows.md "wikilink"))的一个较早的代码版本是OS/2一个扩展版本组件Database
+[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink"),
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"))的一个较早的代码版本是OS/2一个扩展版本组件Database
 Manager的一部分。IBM多次扩展了Database
 Manager的功能，包括在局域网内允许远程共享访问的分配式数据库功能。最终IBM宣布在Database
 Manager的代码中存在不可克服的复杂度问题，并且作出了困难的决定，在其多伦多实验室完全重写了这个软件。新版本的Database
@@ -44,8 +48,8 @@ Optimizer。
 UDB Version 8 for z/OS现在只能在64位系统上运行而不能运行在较早的处理器上，DB2 for
 z/OS保留了一些与众不同的软件特性为一些尖端客户服务。虽然最终的软硬件升级都归结于IBM大型机，但在一定程度上这种扩展也发生在其它的平台上，IBM的软件工程师们总和对应的硬件工程师们一起协同合作。
 
-在90年代中期，IBM发布了一组最初应用在[AIX上的被称为DB](../Page/AIX.md "wikilink")2 Parallel
-Edition的实现。此版本通过提供无分享架构（shared nothing
+在90年代中期，IBM发布了一组最初应用在[AIX上的被称为DB](https://zh.wikipedia.org/wiki/AIX "wikilink")2
+Parallel Edition的实现。此版本通过提供无分享架构（shared nothing
 architecture）而允许软件更强的可伸缩性。在这个构架中一个单独的大型数据库被分割跨接在多个IBM服务器上并通过高速链接来通讯。这个DB2版本最终被接入所有的Linux、UNIX以及Windows(LUW)平台并被重新命名为DB2
 UDB Enterprise Server Edition(ESE)。IBM现在将这款产品称为Database Partitioning
 Feature(DPF)并把它作为DB2旗舰企业级产品的附加功能售卖。
@@ -63,8 +67,8 @@ Express的价格自4，874美元／处理器或者165美元／用户（至少5�
 
 DB2有众多的版本，或者是许可证。为了弱化“版本”的概念增强可选择性，IBM允许客户不购买他们不需要的特性。示例版本包括Express、Workgroup和Enterprise版本。基于Linux/UNIX/Windows的最复杂的版本是DB2
 Data Warehouse Enterprise Edition，缩写为DB2
-DWE。这个版本的偏重于混合工作负荷（[线上交易处理和](../Page/线上交易处理.md "wikilink")[数据仓库](../Page/数据仓库.md "wikilink")）和[商业智能的实现](../Page/商业智能.md "wikilink")。DB2
-DWE包括一些商务智能的特性例如[ETL](../Page/ETL.md "wikilink")、[数据发掘](../Page/数据发掘.md "wikilink")、[OLAP加速以及in](../Page/OLAP.md "wikilink")-line
+DWE。这个版本的偏重于混合工作负荷（[线上交易处理和](https://zh.wikipedia.org/wiki/线上交易处理 "wikilink")[数据仓库](https://zh.wikipedia.org/wiki/数据仓库 "wikilink")）和[商业智能的实现](../Page/商业智能.md "wikilink")。DB2
+DWE包括一些商务智能的特性例如[ETL](https://zh.wikipedia.org/wiki/ETL "wikilink")、[数据发掘](https://zh.wikipedia.org/wiki/数据发掘 "wikilink")、[OLAP加速以及in](https://zh.wikipedia.org/wiki/OLAP "wikilink")-line
 analytics。
 
 基于z/OS的DB2有着自己的许可证系列。自Version
@@ -87,15 +91,16 @@ Express-C用户也可以在免费公开论坛上得到IBM技术人员和其他DB
 Perna，宣布他们的主要竞争对手为Oracle的高级事务处理（advanced transaction
 handling）以及Teradata的[决策支持系统](../Page/决策支持系统.md "wikilink")（decision
 support
-systems）（例如[数据仓库](../Page/数据仓库.md "wikilink")）。但是，在较小的市场中也有其他的竞争者，包括[Microsoft
-SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")（只能被应用于Microsoft
-Windows），[開源軟體产品例如](../Page/開源軟體.md "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")、[PostgreSQL和](../Page/PostgreSQL.md "wikilink")[MySQL](../Page/MySQL.md "wikilink")，以及针对特殊用户群的产品如[Sybase和](../Page/Sybase.md "wikilink")[MaxDB](../Page/MaxDB.md "wikilink")。
+systems）（例如[数据仓库](https://zh.wikipedia.org/wiki/数据仓库 "wikilink")）。但是，在较小的市场中也有其他的竞争者，包括[Microsoft
+SQL
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")（只能被应用于Microsoft
+Windows），[開源軟體产品例如](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")、[PostgreSQL和](../Page/PostgreSQL.md "wikilink")[MySQL](../Page/MySQL.md "wikilink")，以及针对特殊用户群的产品如[Sybase和](../Page/Sybase.md "wikilink")[MaxDB](../Page/MaxDB.md "wikilink")。
 
 在数据库管理软件竞争市场，数据库可以成兆兆字节的增长，IBM的数据库分区特性（Database Partitioning Feature,
 DPF）通常被用来和Oracle的Real Application
 Clusters（RAC）对比，RAC是一个共享硬盘的实现，作为[Oracle
 Parallel
-Server](../Page/Oracle_Parallel_Server.md "wikilink")（OPS）较早地为人所知。虽然DB2在价格上没有明显的优势，但DB2
+Server](https://zh.wikipedia.org/wiki/Oracle_Parallel_Server "wikilink")（OPS）较早地为人所知。虽然DB2在价格上没有明显的优势，但DB2
 for z/OS似乎少有直接的竞争对手，值得注意的是，Oracle正在吸引客户到其Linux on
 zSeries产品上。CA-Datacom和Software
 AG的ADABAS也在基于z/OS的关系型数据库上进行竞争，而且也有一些其它的针对特殊用户的产品占有一定的市场（如Model
@@ -145,12 +150,13 @@ IDUG是International DB2 Users Group的缩写，这是一个独立的、非盈�
 
 ## 相關條目
 
-  - [数据记录](../Page/数据记录.md "wikilink")
-  - [DB2杂志](../Page/DB2杂志.md "wikilink")
-  - [Geneva ERS](../Page/Geneva_ERS.md "wikilink")
-  - [MS技术](../Page/MS技术.md "wikilink") 提供嵌入DB2的技术
-  - [MST Viewer](../Page/MST_Viewer.md "wikilink") DB2和AFP支持的相关文档
-  - [SQL/DS](../Page/SQL/DS.md "wikilink")
+  - [数据记录](https://zh.wikipedia.org/wiki/数据记录 "wikilink")
+  - [DB2杂志](https://zh.wikipedia.org/wiki/DB2杂志 "wikilink")
+  - [Geneva ERS](https://zh.wikipedia.org/wiki/Geneva_ERS "wikilink")
+  - [MS技术](https://zh.wikipedia.org/wiki/MS技术 "wikilink") 提供嵌入DB2的技术
+  - [MST Viewer](https://zh.wikipedia.org/wiki/MST_Viewer "wikilink")
+    DB2和AFP支持的相关文档
+  - [SQL/DS](https://zh.wikipedia.org/wiki/SQL/DS "wikilink")
 
 ## 相关信息
 

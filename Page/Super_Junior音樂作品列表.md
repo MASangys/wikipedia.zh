@@ -1,4 +1,5 @@
-**Super Junior音樂作品列表**主要列舉[韓國男子團體](../Page/韓國.md "wikilink")**[Super
+**Super
+Junior音樂作品列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super
 Junior](../Page/Super_Junior.md "wikilink")**及其子團體[Super
 Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super
 Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super
@@ -11,7 +12,7 @@ Eunhyuk歷年發行的各類音樂專輯](../Page/Super_Junior_Donghae_&_Eunhyuk
 Junior已發行](../Page/Super_Junior.md "wikilink")10張正規專輯（9張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM
 Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon
 Charts](../Page/Oricon.md "wikilink")、韓國[Gaon
-Chart或Hanteo](../Page/Gaon_Chart.md "wikilink")
+Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")
 Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 
 ## Super Junior
@@ -78,7 +79,7 @@ Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 </tr>
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
-<td><p><strong><a href="../Page/Mr.Simple.md" title="wikilink">Mr.Simple</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mr.Simple" title="wikilink">Mr.Simple</a></strong></p>
 <ul>
 <li>發行日期：2011年8月3日</li>
 <li>語言：韓語</li>
@@ -130,7 +131,7 @@ Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 </tr>
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
-<td><p><strong><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></strong></p>
 <ul>
 <li>發行日期：2014年9月1日</li>
 <li>語言：韓語</li>
@@ -156,7 +157,7 @@ Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 </tr>
 <tr class="odd">
 <td><p><strong>8th</strong></p></td>
-<td><p><strong><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a></strong></p>
 <ul>
 <li>發行日期：2017年11月6日</li>
 <li>語言：韓語</li>
@@ -249,27 +250,27 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</p>
 <ul>
 <li>首张单曲</li>
 <li>发行日期：2006年6月9日</li>
 <li>台湾版发行：2006年10月4日</li>
 <li>语言：韩语</li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 <td><p>–</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>《<a href="../Page/U/TWINS_(Super_Junior單曲).md" title="wikilink">U/TWINS</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U/TWINS_(Super_Junior單曲)" title="wikilink">U/TWINS</a>》</p>
 <ul>
 <li>首张日本纪念版</li>
 <li>发行日期：2008年7月9日</li>
@@ -280,7 +281,7 @@ Version、Pause Version、Replay Version</li>
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/Marry_U_(Super_Junior單曲).md" title="wikilink">Marry U</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Marry_U_(Super_Junior單曲)" title="wikilink">Marry U</a>》</p>
 <ul>
 <li>第二张日本纪念版</li>
 <li>发行日期： 2008年11月26日</li>
@@ -318,7 +319,7 @@ Version、Pause Version、Replay Version</li>
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong><a href="../Page/Mr.Simple_(單曲).md" title="wikilink">Mr.Simple</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mr.Simple_(單曲)" title="wikilink">Mr.Simple</a></strong></p>
 <ul>
 <li>發行日期：2011年12月7日</li>
 <li>語言：日語、韓語</li>
@@ -373,7 +374,7 @@ Version、Pause Version、Replay Version</li>
 </tr>
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
-<td><p><strong><a href="../Page/Devil_/_Magic.md" title="wikilink">Devil / Magic</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Devil_/_Magic" title="wikilink">Devil / Magic</a></strong></p>
 <ul>
 <li>發行日期：2016年1月6日</li>
 <li>語言：日語</li>
@@ -384,7 +385,7 @@ Version、Pause Version、Replay Version</li>
 </tr>
 <tr class="even">
 <td><p><strong>8th</strong></p></td>
-<td><p><strong><a href="../Page/On_and_On_(Super_Junior單曲).md" title="wikilink">On and On</a></strong></p>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/On_and_On_(Super_Junior單曲)" title="wikilink">On and On</a></strong></p>
 <ul>
 <li>發行日期：2017年12月6日</li>
 <li>語言：日語</li>
@@ -425,9 +426,9 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
@@ -518,20 +519,20 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p>《<a href="../Page/U_(Super_Junior).md" title="wikilink">U （台湾特别版）</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U （台湾特别版）</a>》</p>
 <ul>
-<li>包含中文版的《<a href="../Page/U_(Super_Junior).md" title="wikilink">U</a>》</li>
+<li>包含中文版的《<a href="https://zh.wikipedia.org/wiki/U_(Super_Junior)" title="wikilink">U</a>》</li>
 <li>发行日期：2007年6月15日</li>
 <li>再发行日期：2007年7月13日<sup>4</sup></li>
 <li>语言：普通话、韩语</li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 <td><p>–</p></td>
@@ -567,19 +568,19 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2005</p></td>
-<td><p>《<a href="../Page/Show_Me_Your_Love.md" title="wikilink">Show Me Your Love</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_Your_Love" title="wikilink">Show Me Your Love</a>》</p>
 <ul>
-<li>与<a href="../Page/东方神起.md" title="wikilink">东方神起合作</a></li>
+<li>与<a href="https://zh.wikipedia.org/wiki/东方神起" title="wikilink">东方神起合作</a></li>
 <li>发行日期：2005年12月15日</li>
 <li>语言：韩语</li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 <td><p>–</p></td>
@@ -606,16 +607,16 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
 <td><p>《Someone Special》(《소중한 열매》)</p>
 <ul>
-<li>参与：<a href="../Page/晟敏.md" title="wikilink">晟敏</a>, <a href="../Page/Dana.md" title="wikilink">Dana</a>, <a href="../Page/Lina.md" title="wikilink">Lina</a> （<a href="../Page/The_Grace.md" title="wikilink">The Grace</a>）</li>
+<li>参与：<a href="../Page/晟敏.md" title="wikilink">晟敏</a>, <a href="https://zh.wikipedia.org/wiki/Dana" title="wikilink">Dana</a>, <a href="https://zh.wikipedia.org/wiki/Lina" title="wikilink">Lina</a> （<a href="https://zh.wikipedia.org/wiki/The_Grace" title="wikilink">The Grace</a>）</li>
 <li>发行日期：2007年3月9日</li>
 <li>语言：韩语</li>
 <li>格式：Digital</li>
@@ -646,17 +647,17 @@ Version、Pause Version、Replay Version</li>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
-<td><p><small><a href="../Page/台湾.md" title="wikilink">台</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/台湾" title="wikilink">台</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2007</p></td>
-<td><p>《<a href="../Page/Hanbeon_deo,_OK?.md" title="wikilink">One More Time, OK?</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Hanbeon_deo,_OK?" title="wikilink">One More Time, OK?</a>》</p>
 <ul>
-<li>Artist：<a href="../Page/The_Grace.md" title="wikilink">The Grace</a></li>
+<li>Artist：<a href="https://zh.wikipedia.org/wiki/The_Grace" title="wikilink">The Grace</a></li>
 <li>发行日期：2007年5月4日</li>
 <li>语言：韩语</li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a></li>
@@ -667,12 +668,12 @@ Version、Pause Version、Replay Version</li>
 </tr>
 <tr class="odd">
 <td><p>2008</p></td>
-<td><p>《<a href="../Page/星愿.md" title="wikilink">星愿</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/星愿" title="wikilink">星愿</a>》</p>
 <ul>
-<li>艺人：<a href="../Page/张力尹.md" title="wikilink">张力尹</a></li>
+<li>艺人：<a href="https://zh.wikipedia.org/wiki/张力尹" title="wikilink">张力尹</a></li>
 <li>发行日期：2008年3月28日</li>
-<li>语言：<a href="../Page/普通话.md" title="wikilink">普通话</a>、<a href="../Page/韩语.md" title="wikilink">韩语</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>语言：<a href="../Page/普通话.md" title="wikilink">普通话</a>、<a href="https://zh.wikipedia.org/wiki/韩语" title="wikilink">韩语</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>–</p></td>
@@ -680,12 +681,12 @@ Version、Pause Version、Replay Version</li>
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
-<td><p>《<a href="../Page/Mirotic.md" title="wikilink">MIROTIC</a>》</p>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Mirotic" title="wikilink">MIROTIC</a>》</p>
 <ul>
-<li>艺人：<a href="../Page/东方神起.md" title="wikilink">东方神起</a></li>
+<li>艺人：<a href="https://zh.wikipedia.org/wiki/东方神起" title="wikilink">东方神起</a></li>
 <li>发行日期：2008年11月12日</li>
 <li>语言：韩语</li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 <td><p>–</p></td>
@@ -696,10 +697,10 @@ Version、Pause Version、Replay Version</li>
 
 ### 其他專輯
 
-| 标题                                 | 发行日期       | 语言                             | 发行商                                                        |
-| ---------------------------------- | ---------- | ------------------------------ | ---------------------------------------------------------- |
-| 《Sweet memories with Super Junior》 | 2008年3月12日 | [日语](../Page/日语.md "wikilink") | [SM Entertainment](../Page/SM_Entertainment.md "wikilink") |
-| 《heart 2 heart with Super Junior》  | 2008年3月13日 | [英语](../Page/英语.md "wikilink") | [SM Entertainment](../Page/SM_Entertainment.md "wikilink") |
+| 标题                                 | 发行日期       | 语言                             | 发行商                                                                           |
+| ---------------------------------- | ---------- | ------------------------------ | ----------------------------------------------------------------------------- |
+| 《Sweet memories with Super Junior》 | 2008年3月12日 | [日语](../Page/日语.md "wikilink") | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") |
+| 《heart 2 heart with Super Junior》  | 2008年3月13日 | [英语](../Page/英语.md "wikilink") | [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink") |
 
 ### 其他歌曲
 
@@ -711,8 +712,8 @@ Version、Pause Version、Replay Version</li>
 
 **[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")**
 是Super Junior成立于2006年11月的第一个官方子团体，
-成员包括[圭贤](../Page/圭贤.md "wikilink")（**K**yuhyun）,
-[厉旭](../Page/厉旭.md "wikilink")（**R**yeowook）和[艺声](../Page/艺声.md "wikilink")（**Y**esung）。词组和专攻[民谣并且参与了三张](../Page/民谣.md "wikilink")[原声带](../Page/原声带.md "wikilink")。
+成员包括[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")（**K**yuhyun）,
+[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")（**R**yeowook）和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")（**Y**esung）。词组和专攻[民谣并且参与了三张](https://zh.wikipedia.org/wiki/民谣 "wikilink")[原声带](https://zh.wikipedia.org/wiki/原声带 "wikilink")。
 
 ### 日文單曲
 
@@ -730,7 +731,7 @@ Version、Pause Version、Replay Version</li>
 <td><p>首張日文單曲《<strong><a href="../Page/Promise_You.md" title="wikilink">Promise You</a></strong>》</p>
 <ul>
 <li>發行日期：2013年1月23日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>Oricon週間最高排名：2</li>
 </ul></td>
 <td></td>
@@ -740,7 +741,7 @@ Version、Pause Version、Replay Version</li>
 <td><p>第二張日文單曲《<strong><a href="../Page/Join_Hands.md" title="wikilink">Join Hands</a></strong>》</p>
 <ul>
 <li>發行日期：2015年8月5日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 <li>Oricon週間最高排名：</li>
 </ul></td>
 <td></td>
@@ -752,11 +753,13 @@ Version、Pause Version、Replay Version</li>
 
 **[Super Junior-T](../Page/Super_Junior-T.md "wikilink")**是[Super
 Junior于](../Page/Super_Junior.md "wikilink")2007年2月成立的第二个官方子组合。“Super
-Junior-T” 中的“T”代表“[韓國演歌](../Page/韓國演歌.md "wikilink")”（**T**rot）.。Super
+Junior-T”
+中的“T”代表“[韓國演歌](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")”（**T**rot）.。Super
 Junior-T 成员有[利特](../Page/利特.md "wikilink"),
-[希澈](../Page/希澈.md "wikilink"), [强仁](../Page/强仁.md "wikilink"),
-[神童](../Page/神童_\(艺人\).md "wikilink"),
-[晟敏](../Page/晟敏.md "wikilink"),以及[银赫](../Page/银赫.md "wikilink")。这个组合是专攻韓國演歌的。
+[希澈](../Page/希澈.md "wikilink"),
+[强仁](https://zh.wikipedia.org/wiki/强仁 "wikilink"),
+[神童](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink"),
+[晟敏](../Page/晟敏.md "wikilink"),以及[银赫](https://zh.wikipedia.org/wiki/银赫 "wikilink")。这个组合是专攻韓國演歌的。
 
 ### 单曲
 
@@ -771,9 +774,9 @@ Junior-T 成员有[利特](../Page/利特.md "wikilink"),
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
@@ -785,8 +788,8 @@ Junior-T 成员有[利特](../Page/利特.md "wikilink"),
 <li>发行日期：2007年2月23日</li>
 <li>台湾版：2007年3月14日</li>
 <li>台湾重印版：2007年5月18日</li>
-<li>语言：<a href="../Page/韩语.md" title="wikilink">韩语</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>语言：<a href="https://zh.wikipedia.org/wiki/韩语" title="wikilink">韩语</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 </tr>
@@ -797,7 +800,7 @@ Junior-T 成员有[利特](../Page/利特.md "wikilink"),
 <li>第二张单曲</li>
 <li>发行日期：2008年11月5日</li>
 <li>语言：<a href="../Page/日语.md" title="wikilink">日语</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="../Page/DVD.md" title="wikilink">DVD</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>, <a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a></li>
 </ul></td>
 <td><p>–</p></td>
 <td><p>–</p></td>
@@ -810,7 +813,7 @@ Junior-T 成员有[利特](../Page/利特.md "wikilink"),
 **[Super Junior-M](../Page/Super_Junior-M.md "wikilink")**是[Super
 Junior于](../Page/Super_Junior.md "wikilink")2008年4月成立的第三个官方子组合。Super
 Junior-M中的“M”代表[普通话](../Page/普通话.md "wikilink")（**M**andarin）。Super
-Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[东海](../Page/东海_\(艺人\).md "wikilink")、[始源](../Page/始源.md "wikilink")、[厉旭](../Page/厉旭.md "wikilink")、[圭贤以及中國成员](../Page/圭贤.md "wikilink")[周覓](../Page/周覓.md "wikilink")。此组合大部分的歌曲都由普通话演唱。
+Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[东海](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")、[圭贤以及中國成员](https://zh.wikipedia.org/wiki/圭贤 "wikilink")[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")。此组合大部分的歌曲都由普通话演唱。
 
 ### 正規專輯
 
@@ -825,19 +828,19 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張正規專輯《<strong><a href="../Page/迷_(Me).md" title="wikilink">迷 (Me)</a></strong>》</p>
+<td><p>首張正規專輯《<strong><a href="https://zh.wikipedia.org/wiki/迷_(Me)" title="wikilink">迷 (Me)</a></strong>》</p>
 <ul>
 <li>發行日期：2008年4月23日</li>
-<li>語言：<a href="../Page/華語.md" title="wikilink">華語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語</a></li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>-</strong></p></td>
-<td><p>首張正規專輯改版《<strong><a href="../Page/迷_(Me).md" title="wikilink">迷 (Me) 亞洲特別版</a></strong>》</p>
+<td><p>首張正規專輯改版《<strong><a href="https://zh.wikipedia.org/wiki/迷_(Me)" title="wikilink">迷 (Me) 亞洲特別版</a></strong>》</p>
 <ul>
 <li>發行日期：2008年8月1日</li>
-<li>語言：<a href="../Page/華語.md" title="wikilink">華語</a>、<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語</a>、<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -846,7 +849,7 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 <td><p>第二張正規專輯《<strong><a href="../Page/Break_Down_(專輯).md" title="wikilink">Break Down</a></strong>》</p>
 <ul>
 <li>發行日期：2013年1月7日</li>
-<li>語言：<a href="../Page/華語.md" title="wikilink">華語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -855,7 +858,7 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 <td><p>第二張正規專輯《<strong><a href="../Page/Break_Down_(專輯).md" title="wikilink">Break Down 韩国版</a></strong>》</p>
 <ul>
 <li>發行日期：2013年1月31日</li>
-<li>語言：<a href="../Page/華語.md" title="wikilink">華語</a>、<a href="../Page/韩語.md" title="wikilink">韩語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/華語" title="wikilink">華語</a>、<a href="https://zh.wikipedia.org/wiki/韩語" title="wikilink">韩語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -880,7 +883,7 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="../Page/Super_Girl_(迷你专辑).md" title="wikilink">Super Girl</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Super_Girl_(迷你专辑)" title="wikilink">Super Girl</a></strong>》</p>
 <ul>
 <li>發行日期：2009年9月23日（A版）、2009年12月18日（B版）</li>
 <li>語言：華語（A版）、華語 / 韓語（B版）</li>
@@ -898,7 +901,7 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>第三張迷你專輯《<strong><a href="../Page/Swing_(SJM專輯).md" title="wikilink">Swing</a></strong>》</p>
+<td><p>第三張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Swing_(SJM專輯)" title="wikilink">Swing</a></strong>》</p>
 <ul>
 <li>發行日期：2014年3月21日（中文版）、2014年3月31日（韩国版）</li>
 <li>語言：華語（中文版）、華語 / 韓語（韩国版）</li>
@@ -910,13 +913,13 @@ Junior-M目前成员有[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page
 
 ### 其他歌曲
 
-| 形式   | 發佈日期                                         | 專輯名稱                                 | 歌曲名稱            | 參與成員               |
-| ---- | -------------------------------------------- | ------------------------------------ | --------------- | ------------------ |
-| OST  | 2011年12月18日                                  | [華麗的挑戰](../Page/華麗的挑戰.md "wikilink") | 华丽的独秀(S.O.L.O.) | Super Junior-M(全員) |
-| 这是爱  | 東海（Feat. [Henry](../Page/劉憲華.md "wikilink")） |                                      |                 |                    |
-| 不留纪念 | 周觅                                           |                                      |                 |                    |
-| 單曲   | 2014年2月13日                                   | S.M. The Ballad專輯《Breath》            | 太貪心 (Blind)     | 周觅                 |
-|      |                                              |                                      |                 |                    |
+| 形式   | 發佈日期                                         | 專輯名稱                                                    | 歌曲名稱            | 參與成員               |
+| ---- | -------------------------------------------- | ------------------------------------------------------- | --------------- | ------------------ |
+| OST  | 2011年12月18日                                  | [華麗的挑戰](https://zh.wikipedia.org/wiki/華麗的挑戰 "wikilink") | 华丽的独秀(S.O.L.O.) | Super Junior-M(全員) |
+| 这是爱  | 東海（Feat. [Henry](../Page/劉憲華.md "wikilink")） |                                                         |                 |                    |
+| 不留纪念 | 周觅                                           |                                                         |                 |                    |
+| 單曲   | 2014年2月13日                                   | S.M. The Ballad專輯《Breath》                               | 太貪心 (Blind)     | 周觅                 |
+|      |                                              |                                                         |                 |                    |
 
 ## Super Junior-Happy
 
@@ -938,9 +941,9 @@ Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 �
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="../Page/中国.md" title="wikilink">中</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中</a></small></p></td>
 <td><p><small><a href="../Page/日本.md" title="wikilink">日</a></small></p></td>
-<td><p><small><a href="../Page/韩国.md" title="wikilink">韩</a></small></p></td>
+<td><p><small><a href="https://zh.wikipedia.org/wiki/韩国" title="wikilink">韩</a></small></p></td>
 <td><p><small><a href="../Page/泰国.md" title="wikilink">泰</a></small></p></td>
 </tr>
 <tr class="even">
@@ -949,7 +952,7 @@ Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 �
 <ul>
 <li>第一张迷你专辑</li>
 <li>发行日期：2008年6月5日</li>
-<li>语言：<a href="../Page/韩语.md" title="wikilink">韩语</a></li>
+<li>语言：<a href="https://zh.wikipedia.org/wiki/韩语" title="wikilink">韩语</a></li>
 <li>格式：CD</li>
 </ul></td>
 <td><p>–</p></td>
@@ -969,7 +972,7 @@ Junior-Happy的成员有利特、艺声、强仁、神童、晟敏、银赫。 �
 **[Super Junior Donghae &
 Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**是Super
 Junior于2011年12月16日成立的第五个官方子组合，
-成员包括[東海和](../Page/東海.md "wikilink")[銀赫](../Page/銀赫.md "wikilink")。
+成员包括[東海和](https://zh.wikipedia.org/wiki/東海 "wikilink")[銀赫](../Page/銀赫.md "wikilink")。
 
 ### 正規專輯
 
@@ -989,7 +992,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>首張正規專輯《<strong><a href="../Page/Ride_Me.md" title="wikilink">Ride Me</a></strong>》</p>
 <ul>
 <li>發行日期：2014年2月26日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -998,7 +1001,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>《<strong><a href="../Page/Style_(Super_Junior_Donghae_&amp;_Eunhyuk专辑).md" title="wikilink">Style</a></strong>》</p>
 <ul>
 <li>發行日期：2018年8月8日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1023,7 +1026,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>首張迷你專輯《<strong><a href="../Page/The_Beat_Goes_On.md" title="wikilink">The Beat Goes On</a></strong>》</p>
 <ul>
 <li>發行日期：2015年3月9日、2015年3月24日（改版專輯）</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1037,7 +1040,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>《<strong><a href="../Page/&#39;Bout_You.md" title="wikilink">'Bout You</a></strong>》</p>
 <ul>
 <li>發行日期：2018年8月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1070,7 +1073,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>首張迷你專輯《<strong><a href="../Page/Present_(Super_Junior_Donghae_&amp;_Eunhyuk迷你專輯).md" title="wikilink">Present</a></strong>》</p>
 <ul>
 <li>發行日期：2015年4月1日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1095,7 +1098,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>首張單曲《<strong><a href="../Page/Oppa,_Oppa.md" title="wikilink">Oppa, Oppa</a></strong>》</p>
 <ul>
 <li>發行日期：2011年12月16日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1104,7 +1107,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>第二張單曲《<strong><a href="../Page/Still_You.md" title="wikilink">Still You</a></strong>》</p>
 <ul>
 <li>發行日期：2013年12月18日</li>
-<li>語言：<a href="../Page/韓語.md" title="wikilink">韓語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1124,10 +1127,10 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張日文單曲《<strong><a href="../Page/Oppa,_Oppa#日文單曲《Oppa,_Oppa》.md" title="wikilink">Oppa, Oppa</a></strong>》</p>
+<td><p>首張日文單曲《<strong><a href="https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》" title="wikilink">Oppa, Oppa</a></strong>》</p>
 <ul>
 <li>發行日期：2012年4月4日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1136,7 +1139,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>第二張單曲《<strong><a href="../Page/I_Wanna_Dance.md" title="wikilink">I Wanna Dance</a></strong>》</p>
 <ul>
 <li>發行日期：2013年6月19日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1145,7 +1148,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>第三張單曲《<strong><a href="../Page/Skeleton_(Donghae_&amp;_Eunhyuk單曲).md" title="wikilink">Skeleton</a></strong>》</p>
 <ul>
 <li>發行日期：2014年8月6日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1154,7 +1157,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>第四張單曲《<strong><a href="../Page/Let&#39;s_Get_It_On_(Super_Junior_Donghae_&amp;_Eunhyuk單曲).md" title="wikilink">Let's Get It On</a></strong>》</p>
 <ul>
 <li>發行日期：2015年9月30日</li>
-<li>語言：<a href="../Page/日語.md" title="wikilink">日語</a></li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -1260,7 +1263,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>Under The sea</p></td>
-<td><p><a href="../Page/張力尹.md" title="wikilink">張力尹</a>、<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張力尹" title="wikilink">張力尹</a>、<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1320,7 +1323,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p><a href="../Page/S.M.THE_BALLAD.md" title="wikilink">S.M. The Ballad專輯</a>《Miss You》</p></td>
 <td><p>Miss You</p></td>
 <td><p>圭賢</p></td>
-<td><p><a href="../Page/TRAX.md" title="wikilink">Jay</a>、<a href="../Page/金鐘鉉.md" title="wikilink">鐘鉉</a>、<a href="../Page/趙珍虎.md" title="wikilink">Jino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">Jay</a>、<a href="https://zh.wikipedia.org/wiki/金鐘鉉" title="wikilink">鐘鉉</a>、<a href="https://zh.wikipedia.org/wiki/趙珍虎" title="wikilink">Jino</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Hot Times</p></td>
@@ -1343,7 +1346,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>6月22日</p></td>
 <td><p>M&amp;D單曲《Close Ur Mouth》</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
-<td><p><a href="../Page/TRAX.md" title="wikilink">政模</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">政模</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1352,8 +1355,8 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>Santa U Are The One</p></td>
 <td><p><a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<br />
 <a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<br />
-<a href="../Page/始源.md" title="wikilink">始源</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
-<td><p><a href="../Page/周覓.md" title="wikilink">周覓</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周覓" title="wikilink">周覓</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1361,7 +1364,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>12月29日</p></td>
 <td><p><a href="../Page/S.M._The_Performance.md" title="wikilink">S.M. The Performance單曲</a>《Spectrum》</p></td>
 <td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
-<td><p><a href="../Page/鄭允浩.md" title="wikilink">允浩</a>、<a href="../Page/崔珉豪.md" title="wikilink">珉豪</a>、<a href="../Page/李泰民.md" title="wikilink">泰民</a>、<br />
+<td><p><a href="../Page/鄭允浩.md" title="wikilink">允浩</a>、<a href="https://zh.wikipedia.org/wiki/崔珉豪" title="wikilink">珉豪</a>、<a href="https://zh.wikipedia.org/wiki/李泰民" title="wikilink">泰民</a>、<br />
 <a href="../Page/EXO.md" title="wikilink">KAI</a>、<a href="../Page/張藝興.md" title="wikilink">LAY</a></p></td>
 <td></td>
 </tr>
@@ -1378,13 +1381,13 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>4月20日</p></td>
 <td><p>M&amp;D首張迷你專輯《家内手工業》</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
-<td><p><a href="../Page/TRAX.md" title="wikilink">政模</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">政模</a></p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### [OST](../Page/OST.md "wikilink")
+### [OST](https://zh.wikipedia.org/wiki/OST "wikilink")
 
 <table>
 <thead>
@@ -1465,7 +1468,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>5月4日</p></td>
-<td><p>電視劇《<a href="../Page/天空之城_(電視劇).md" title="wikilink">Air City</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/天空之城_(電視劇)" title="wikilink">Air City</a>》</p></td>
 <td><p>Just For One Day</p></td>
 <td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 <td><p><a href="../Page/天上智喜.md" title="wikilink">天上智喜</a></p></td>
@@ -1473,7 +1476,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="even">
 <td><p>7月26日</p></td>
-<td><p>電影《<a href="../Page/花美男連鎖恐怖事件.md" title="wikilink">花美男連鎖恐怖事件</a>》</p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/花美男連鎖恐怖事件" title="wikilink">花美男連鎖恐怖事件</a>》</p></td>
 <td><p>Wonder Boy</p></td>
 <td><p><em>Super Junior全體成員</em></p></td>
 <td></td>
@@ -1627,13 +1630,13 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>5月10日</p></td>
 <td><p>電視劇《<a href="../Page/Oh!_My_Lady_愛你喲.md" title="wikilink">Oh! My Lady 愛你喲</a>》</p></td>
 <td><p>壞吧</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月21日</p></td>
-<td><p>韓國綜藝節目《<a href="../Page/強心臟.md" title="wikilink">強心臟</a>》</p></td>
+<td><p>韓國綜藝節目《<a href="https://zh.wikipedia.org/wiki/強心臟" title="wikilink">強心臟</a>》</p></td>
 <td><p>強心臟 Logo Song</p></td>
 <td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
 <td></td>
@@ -1651,7 +1654,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>10月8日</p></td>
 <td><p>電視劇《一日物語》</p></td>
 <td><p>Angel</p></td>
-<td><p><a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/银赫.md" title="wikilink">银赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<br />
+<td><p><a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="https://zh.wikipedia.org/wiki/银赫" title="wikilink">银赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<br />
 <a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 <td></td>
 <td></td>
@@ -1674,7 +1677,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>12月22日</p></td>
-<td><p>電視劇《<a href="../Page/没關係，爸爸的女兒.md" title="wikilink">没關係，爸爸的女兒</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/没關係，爸爸的女兒" title="wikilink">没關係，爸爸的女兒</a>》</p></td>
 <td><p>像現在一樣</p></td>
 <td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a></p></td>
 <td></td>
@@ -1685,7 +1688,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>電視劇《<a href="../Page/總統_(韓國電視劇).md" title="wikilink">總統</a>》</p></td>
 <td><p>愛你</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
-<td><p><a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>）</p></td>
+<td><p><a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1750,7 +1753,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>電視劇《<a href="../Page/工薪族楚漢志.md" title="wikilink">工薪族楚漢志</a>》</p></td>
 <td><p>Bravo</p></td>
 <td><p>利特</p></td>
-<td><p><a href="../Page/Key_(歌手).md" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月16日</p></td>
@@ -1774,9 +1777,9 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>Dear. My Family</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td><p><a href="../Page/寶兒.md" title="wikilink">BoA</a>、<a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<br />
-<a href="../Page/東方神起.md" title="wikilink">東方神起</a>、<a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<br />
-<a href="../Page/金鐘鉉_(歌手).md" title="wikilink">鐘鉉</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<br />
-<a href="../Page/都暻秀.md" title="wikilink">D.O.</a>、<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
+<a href="../Page/東方神起.md" title="wikilink">東方神起</a>、<a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/金鐘鉉_(歌手)" title="wikilink">鐘鉉</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">D.O.</a>、<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1789,7 +1792,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>8月20日</p></td>
-<td><p>電視劇《<a href="../Page/熊猫小姐和刺猬.md" title="wikilink">熊猫小姐和刺猬</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/熊猫小姐和刺猬" title="wikilink">熊猫小姐和刺猬</a>》</p></td>
 <td><p>Please Don't</p></td>
 <td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
 <td></td>
@@ -1806,14 +1809,14 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>致美麗的你</p></td>
 <td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
-<td><p><a href="../Page/黃美英.md" title="wikilink">Tiffany</a>（<a href="../Page/少女時代.md" title="wikilink">少女時代</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">Tiffany</a>（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9月1日</p></td>
-<td><p>電視劇《<a href="../Page/熊猫小姐和刺猬.md" title="wikilink">熊猫小姐和刺猬</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/熊猫小姐和刺猬" title="wikilink">熊猫小姐和刺猬</a>》</p></td>
 <td><p>Loving You</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 <td></td>
@@ -1846,17 +1849,17 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>2月13日</p></td>
-<td><p>電視劇《<a href="../Page/那年冬天，起風了.md" title="wikilink">那年冬天，起風了</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/那年冬天，起風了" title="wikilink">那年冬天，起風了</a>》</p></td>
 <td><p>墨纸（Gray Paper）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
-<td><p>電視劇《<a href="../Page/克鲁德一家.md" title="wikilink">克鲁德一家</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/克鲁德一家" title="wikilink">克鲁德一家</a>》</p></td>
 <td><p>Shine Your Way</p></td>
 <td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
-<td><p><a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a>）</p></td>
+<td><p><a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1901,9 +1904,9 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>10月25日</p></td>
-<td><p>電視劇《<a href="../Page/她很漂亮.md" title="wikilink">她很漂亮</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/她很漂亮" title="wikilink">她很漂亮</a>》</p></td>
 <td><p>只有妳（Only You）</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1934,7 +1937,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>6月30日</p></td>
-<td><p>電視劇《<a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/最佳的一擊" title="wikilink">最佳的一擊</a>》</p></td>
 <td><p>If You</p></td>
 <td></td>
 <td></td>
@@ -1942,7 +1945,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>4月2日</p></td>
-<td><p>電視劇《<a href="../Page/能先接吻嗎？.md" title="wikilink">能先接吻嗎？</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/能先接吻嗎？" title="wikilink">能先接吻嗎？</a>》</p></td>
 <td><p>一個人做的事（On My Own）</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
@@ -1986,7 +1989,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>韓國航空學校校歌</p></td>
 <td><p>重要的果實</p></td>
 <td><p><a href="../Page/晟敏.md" title="wikilink">晟敏</a></p></td>
-<td><p><a href="../Page/喜悅Dana.md" title="wikilink">Dana</a>、Lina（<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/喜悅Dana" title="wikilink">Dana</a>、Lina（<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
@@ -2017,7 +2020,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>首爾市宣傳歌</p></td>
 <td><p>Seoul Song</p></td>
 <td><p><em>Super Junior全體成員</em></p></td>
-<td><p><a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2042,7 +2045,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>2011年亞洲音樂節</p></td>
 <td><p>Dreams Come True</p></td>
 <td><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a></p></td>
-<td><p><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>（<a href="../Page/少女時代.md" title="wikilink">少女時代</a>）</p></td>
+<td><p><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
@@ -2050,7 +2053,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>韓國現代汽車廣告《PYL Younique》</p></td>
 <td><p>Maxstep</p></td>
 <td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
-<td><p><a href="../Page/金孝淵.md" title="wikilink">孝淵</a>、<a href="../Page/李泰民.md" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="../Page/KAI.md" title="wikilink">KAI</a>、<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<a href="https://zh.wikipedia.org/wiki/李泰民" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a>、<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -2058,7 +2061,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>SKT廣告</p></td>
 <td><p>T'ple Couple Want it</p></td>
 <td><p>圭賢</p></td>
-<td><p><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>（<a href="../Page/少女時代.md" title="wikilink">少女時代</a>）</p></td>
+<td><p><a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2175,10 +2178,10 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="odd">
 <td><p>10月10日</p></td>
-<td><p>3rd Wave（Feat. <a href="../Page/始源.md" title="wikilink">始源</a>）</p></td>
+<td><p>3rd Wave（Feat. <a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a>）</p></td>
 <td><p>3rd Wave專輯《Soldiers Of Light》</p></td>
 <td><p>I Stand</p></td>
-<td><p><a href="../Page/始源.md" title="wikilink">始源</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2193,7 +2196,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>2016年</p></td>
 <td><p>4月15日</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">金希澈</a>、金政模<br />
-(Feat.<a href="../Page/MAMAMOO.md" title="wikilink">MAMAMOO</a> 輝人)</p></td>
+(Feat.<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a> 輝人)</p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第</a>10首數位單曲《納西索斯（Narcissus）》</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
 <td></td>
@@ -2225,7 +2228,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>12月30日</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、Sunny、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<br />
-<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、泰一、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、泰一、<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第</a>47首數位單曲《心的聲音（Sound of Your Heart）》</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
@@ -2234,14 +2237,14 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>1月20日</p></td>
-<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第</a>50首數位單曲《Darling U》</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>6月2日</p></td>
-<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/俞世潤#組合UV.md" title="wikilink">UV</a></p></td>
+<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="https://zh.wikipedia.org/wiki/俞世潤#組合UV" title="wikilink">UV</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季第</a>10首數位單曲《Marry Man》</p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
 <td></td>
@@ -2249,7 +2252,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="even">
 <td><p>12月8日</p></td>
-<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/頌樂.md" title="wikilink">頌樂</a></p></td>
+<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="https://zh.wikipedia.org/wiki/頌樂" title="wikilink">頌樂</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季第</a>36首數位單曲《Charm of Life》</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
 <td></td>
@@ -2265,7 +2268,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="even">
 <td><p>12月17日</p></td>
-<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/金請夏.md" title="wikilink">請夏</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">請夏</a></p></td>
 <td><p>合作單曲《Whatcha Doin'》</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
@@ -2281,7 +2284,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="even">
 <td><p>2月28日</p></td>
-<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/俞世潤#組合UV.md" title="wikilink">UV</a></p></td>
+<td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="https://zh.wikipedia.org/wiki/俞世潤#組合UV" title="wikilink">UV</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第三季第</a>7首數位單曲《Cheer Man》</p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
 <td></td>
@@ -2298,18 +2301,18 @@ Junior于2011年12月16日成立的第五个官方子组合，
 
 [利特参与了独唱或和声的部分](../Page/利特.md "wikilink")。
 [希澈参与了独唱或和声的部分](../Page/希澈.md "wikilink")。
-[韩庚参与了独唱或和声的部分](../Page/韩庚.md "wikilink")。
-[艺声参与了独唱或和声的部分](../Page/艺声.md "wikilink")。
-[强仁参与了独唱或和声的部分](../Page/强仁.md "wikilink")。
-[神童参与了独唱或和声的部分](../Page/神童_\(艺人\).md "wikilink")。
+[韩庚参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/韩庚 "wikilink")。
+[艺声参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/艺声 "wikilink")。
+[强仁参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/强仁 "wikilink")。
+[神童参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/神童_\(艺人\) "wikilink")。
 [晟敏参与了独唱或和声的部分](../Page/晟敏.md "wikilink")。
-[银赫参与了独唱或和声的部分](../Page/银赫.md "wikilink")。
-[东海参与了独唱或和声的部分](../Page/东海_\(艺人\).md "wikilink")。
-[厉旭参与了独唱或和声的部分](../Page/厉旭.md "wikilink")。
-[起范参与了独唱或和声的部分](../Page/起范.md "wikilink")。
-[圭贤参与了独唱或和声的部分](../Page/圭贤.md "wikilink")。
+[银赫参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/银赫 "wikilink")。
+[东海参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/东海_\(艺人\) "wikilink")。
+[厉旭参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/厉旭 "wikilink")。
+[起范参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/起范 "wikilink")。
+[圭贤参与了独唱或和声的部分](https://zh.wikipedia.org/wiki/圭贤 "wikilink")。
 仅[Super Junior
-K.R.Y.参与](../Page/Super_Junior#Super_Junior_K.R.Y..md "wikilink")。
+K.R.Y.参与](https://zh.wikipedia.org/wiki/Super_Junior#Super_Junior_K.R.Y. "wikilink")。
 
 </div>
 

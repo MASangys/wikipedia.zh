@@ -1,4 +1,4 @@
-****是[水樹奈奈第](../Page/水樹奈奈.md "wikilink")14枚[單曲CD](../Page/單曲.md "wikilink")。
+****是[水樹奈奈第](../Page/水樹奈奈.md "wikilink")14枚[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 於2006年11月15日由KING RECORDS發售。
 
 ## 收錄曲

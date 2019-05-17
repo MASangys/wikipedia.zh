@@ -1,8 +1,8 @@
-**LGBT收養**（）指的是[LGBT族群](../Page/LGBT.md "wikilink")（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](../Page/雙性戀.md "wikilink")[跨性別](../Page/跨性別.md "wikilink")）[收養兒童](../Page/收養.md "wikilink")。同性伴侶中其中一方通過法律方式（例如通過再婚的[繼子女](../Page/繼子女.md "wikilink")）取得一個兒童的[監護權](../Page/監護權.md "wikilink")，而伴侶的另一方則在事實上或法律上獲得了這個孩子的監護權，從而形成事實上或法律上的收養關係。
+**LGBT收養**（）指的是[LGBT族群](../Page/LGBT.md "wikilink")（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）[收養兒童](../Page/收養.md "wikilink")。同性伴侶中其中一方通過法律方式（例如通過再婚的[繼子女](https://zh.wikipedia.org/wiki/繼子女 "wikilink")）取得一個兒童的[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")，而伴侶的另一方則在事實上或法律上獲得了這個孩子的監護權，從而形成事實上或法律上的收養關係。
 
 LGBT收養目前在14個國家是合法的，同時在某些國家（例如：美國）的某些地區是合法的。但在目前大部分的國家及地區，LGBT收養兒童是非法的，儘管在上述地區關於LGBT收養權問題還在熱烈辯論中。而反對LGBT族群收養兒童的最重要原因是，反對者質疑同性伴侶能夠承擔起足夠的家長責任。但在實際執行上，LGBT收養權也不完全是由法律來監管，所以有時立法與否並不能阻止LGBT收養的發生。
 
-目前[醫學](../Page/醫學.md "wikilink")、[心理學和](../Page/心理學.md "wikilink")[社會福利團體達成的共識是一些發生在同性伴侶家庭中的兒童問題同樣也是會出現在異性伴侶家庭](../Page/社會福利.md "wikilink")。\[1\]
+目前[醫學](https://zh.wikipedia.org/wiki/醫學 "wikilink")、[心理學和](https://zh.wikipedia.org/wiki/心理學 "wikilink")[社會福利團體達成的共識是一些發生在同性伴侶家庭中的兒童問題同樣也是會出現在異性伴侶家庭](https://zh.wikipedia.org/wiki/社會福利 "wikilink")。\[1\]
 但同時也有人指責這個研究超出了心理學的研究範疇，\[2\]
 基於支持者的證據充分，佛羅里達州第三上訴法院在2010年裁決本州禁止LGBT家庭收養兒童的法律違憲。\[3\]
 
@@ -11,59 +11,59 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 [世界同性伴侣收养法律状况
 ](https://zh.wikipedia.org/wiki/File:World_same-sex_adoption_laws.svg "fig:世界同性伴侣收养法律状况   ")
 
-| 國家                                 | 日期    | 參考           |
-| ---------------------------------- | ----- | ------------ |
-| [阿根廷](../Page/阿根廷.md "wikilink")   | 2010年 |              |
-| [奧地利](../Page/奧地利.md "wikilink")   | 2016年 | 聯合收養         |
-| [安道爾](../Page/安道爾.md "wikilink")   | 2005年 | \[4\]        |
-| [比利時](../Page/比利時.md "wikilink")   | 2006年 | \[5\]        |
-| [巴西](../Page/巴西.md "wikilink")     | 2010年 |              |
-| [加拿大](../Page/加拿大.md "wikilink")   | 1999年 |              |
-| [哥倫比亞](../Page/哥倫比亞.md "wikilink") | 2015年 |              |
-| [丹麥](../Page/丹麥.md "wikilink")     | 2010年 |              |
-| [法國](../Page/法國.md "wikilink")     | 2013年 |              |
-| [芬蘭](../Page/芬蘭.md "wikilink")     | 2017年 |              |
-| [格陵兰](../Page/格陵兰.md "wikilink")   | 2015年 |              |
-| [冰島](../Page/冰島.md "wikilink")     | 2006年 | \[6\]        |
-| [愛爾蘭](../Page/愛爾蘭.md "wikilink")   | 2015年 |              |
-| [以色列](../Page/以色列.md "wikilink")   | 2008年 |              |
-| [盧森堡](../Page/盧森堡.md "wikilink")   | 2015年 |              |
-| [馬爾他](../Page/馬爾他.md "wikilink")   | 2014年 |              |
-| [荷蘭](../Page/荷蘭.md "wikilink")     | 2001年 | \[7\]        |
-| [紐西蘭](../Page/紐西蘭.md "wikilink")   | 2013年 |              |
-| [挪威](../Page/挪威.md "wikilink")     | 2009年 | \[8\]        |
-| [葡萄牙](../Page/葡萄牙.md "wikilink")   | 2016年 |              |
-| [南非](../Page/南非.md "wikilink")     | 2002年 | \[9\]        |
-| [西班牙](../Page/西班牙.md "wikilink")   | 2005年 | \[10\]       |
-| [瑞典](../Page/瑞典.md "wikilink")     | 2002年 | \[11\]       |
-| [英格蘭](../Page/英格蘭.md "wikilink")   | 2005年 |              |
-| [威爾士](../Page/威爾士.md "wikilink")   | 2005年 |              |
-| [蘇格蘭](../Page/蘇格蘭.md "wikilink")   | 2009年 |              |
-| [北愛爾蘭](../Page/北愛爾蘭.md "wikilink") | 2013年 | \[12\]       |
-| [蘇格蘭](../Page/蘇格蘭.md "wikilink")   | 2009年 |              |
-| [烏拉圭](../Page/烏拉圭.md "wikilink")   | 2009年 | \[13\]\[14\] |
-| [美國](../Page/美國.md "wikilink")     | 2016年 | \[15\]       |
+| 國家                                                    | 日期    | 參考           |
+| ----------------------------------------------------- | ----- | ------------ |
+| [阿根廷](../Page/阿根廷.md "wikilink")                      | 2010年 |              |
+| [奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")   | 2016年 | 聯合收養         |
+| [安道爾](https://zh.wikipedia.org/wiki/安道爾 "wikilink")   | 2005年 | \[4\]        |
+| [比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")   | 2006年 | \[5\]        |
+| [巴西](../Page/巴西.md "wikilink")                        | 2010年 |              |
+| [加拿大](../Page/加拿大.md "wikilink")                      | 1999年 |              |
+| [哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink") | 2015年 |              |
+| [丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")     | 2010年 |              |
+| [法國](https://zh.wikipedia.org/wiki/法國 "wikilink")     | 2013年 |              |
+| [芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")     | 2017年 |              |
+| [格陵兰](../Page/格陵兰.md "wikilink")                      | 2015年 |              |
+| [冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")     | 2006年 | \[6\]        |
+| [愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")   | 2015年 |              |
+| [以色列](../Page/以色列.md "wikilink")                      | 2008年 |              |
+| [盧森堡](https://zh.wikipedia.org/wiki/盧森堡 "wikilink")   | 2015年 |              |
+| [馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")   | 2014年 |              |
+| [荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")     | 2001年 | \[7\]        |
+| [紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")   | 2013年 |              |
+| [挪威](../Page/挪威.md "wikilink")                        | 2009年 | \[8\]        |
+| [葡萄牙](../Page/葡萄牙.md "wikilink")                      | 2016年 |              |
+| [南非](https://zh.wikipedia.org/wiki/南非 "wikilink")     | 2002年 | \[9\]        |
+| [西班牙](../Page/西班牙.md "wikilink")                      | 2005年 | \[10\]       |
+| [瑞典](../Page/瑞典.md "wikilink")                        | 2002年 | \[11\]       |
+| [英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")   | 2005年 |              |
+| [威爾士](../Page/威爾士.md "wikilink")                      | 2005年 |              |
+| [蘇格蘭](../Page/蘇格蘭.md "wikilink")                      | 2009年 |              |
+| [北愛爾蘭](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink") | 2013年 | \[12\]       |
+| [蘇格蘭](../Page/蘇格蘭.md "wikilink")                      | 2009年 |              |
+| [烏拉圭](https://zh.wikipedia.org/wiki/烏拉圭 "wikilink")   | 2009年 | \[13\]\[14\] |
+| [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")     | 2016年 | \[15\]       |
 
 允許同性家庭合法領養子女的國家
 
-| 國家                                         | 地區                                     | 日期    | 參考     |
-| ------------------------------------------ | -------------------------------------- | ----- | ------ |
-| [澳大利亞](../Page/澳大利亞.md "wikilink")         | [西澳大利亚州](../Page/西澳大利亚州.md "wikilink") | 2002年 | \[16\] |
-| [澳大利亞首都特區](../Page/澳大利亞首都特區.md "wikilink") | 2004年                                  |       |        |
-| [新南威爾士州](../Page/新南威爾士州.md "wikilink")     | 2010年                                  |       |        |
-| [墨西哥](../Page/墨西哥.md "wikilink")           | [墨西哥城](../Page/墨西哥城.md "wikilink")     | 2010年 | \[17\] |
-| [金塔納羅奧州](../Page/金塔納羅奧州.md "wikilink")     | 2012年                                  |       |        |
-| [科阿韋拉州](../Page/科阿韋拉州.md "wikilink")       | 2014年                                  |       |        |
+| 國家                                                            | 地區                                                        | 日期    | 參考     |
+| ------------------------------------------------------------- | --------------------------------------------------------- | ----- | ------ |
+| [澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")         | [西澳大利亚州](https://zh.wikipedia.org/wiki/西澳大利亚州 "wikilink") | 2002年 | \[16\] |
+| [澳大利亞首都特區](https://zh.wikipedia.org/wiki/澳大利亞首都特區 "wikilink") | 2004年                                                     |       |        |
+| [新南威爾士州](../Page/新南威爾士州.md "wikilink")                        | 2010年                                                     |       |        |
+| [墨西哥](../Page/墨西哥.md "wikilink")                              | [墨西哥城](../Page/墨西哥城.md "wikilink")                        | 2010年 | \[17\] |
+| [金塔納羅奧州](https://zh.wikipedia.org/wiki/金塔納羅奧州 "wikilink")     | 2012年                                                     |       |        |
+| [科阿韋拉州](../Page/科阿韋拉州.md "wikilink")                          | 2014年                                                     |       |        |
 
 允許同性家庭合法領養子女的地區
 
-| 國家                                   | 地區                                     | 日期    | 參考                                                                                                                                                       |
-| ------------------------------------ | -------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [德國](../Page/德國.md "wikilink")       |                                        | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](../Page/同性婚姻.md "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[18\] |
-| [愛沙尼亞](../Page/愛沙尼亞.md "wikilink")   |                                        | 2016年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](../Page/同性婚姻.md "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。       |
-| [澳大利亞](../Page/澳大利亞.md "wikilink")   | [塔斯馬尼亞州](../Page/塔斯馬尼亞州.md "wikilink") | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](../Page/同性婚姻.md "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[19\] |
-| [美國](../Page/美國.md "wikilink")       | [賓夕法尼亞州](../Page/賓夕法尼亞州.md "wikilink") | 2002年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](../Page/同性婚姻.md "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[20\] |
-| [斯洛維尼亞](../Page/斯洛維尼亞.md "wikilink") |                                        | 2011年 |                                                                                                                                                          |
+| 國家                                                      | 地區                                                        | 日期    | 參考                                                                                                                                                                          |
+| ------------------------------------------------------- | --------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")       |                                                           | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[18\] |
+| [愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")   |                                                           | 2016年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。       |
+| [澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")   | [塔斯馬尼亞州](../Page/塔斯馬尼亞州.md "wikilink")                    | 2004年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[19\] |
+| [美國](https://zh.wikipedia.org/wiki/美國 "wikilink")       | [賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink") | 2002年 | 上述國家或司法管轄區可能並不允許[同性婚姻或註冊](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[民事結合關係](../Page/民事結合.md "wikilink")，但卻都允許通過[繼子女關係領養子女](../Page/繼親.md "wikilink")，形成事實上的領養關係。\[20\] |
+| [斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink") |                                                           | 2011年 |                                                                                                                                                                             |
 
 允許同性家庭通過繼子女變相領養子女的國家或地區
 
@@ -76,12 +76,12 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 [歐洲LGBT家庭合法領養示意圖
 ](https://zh.wikipedia.org/wiki/File:Same-sex_Adoption_Map_Europe.svg "fig:歐洲LGBT家庭合法領養示意圖    ")
 
-2006年2月，[法國最高上訴法院裁定](../Page/法國.md "wikilink")，在同性伴侶關係中，其中一人可以擁有另一人親生子女的[親權](../Page/親權.md "wikilink")（即[監護權](../Page/監護權.md "wikilink")）。這個判決結果來自一個案件，在案件中，一名女性試圖將她兩個女兒的親權給她擁有[民事結合關係的伴侶](../Page/民事結合.md "wikilink")。\[21\]但在2007年2月，法國最高上訴法院卻駁回了另一對LGBT家庭的領養訴訟。法院指出，除非她的伴侶放棄她的親權，否則她將無法獲得與她伴侶的民事關係身份權。\[22\]\[23\]
+2006年2月，[法國最高上訴法院裁定](https://zh.wikipedia.org/wiki/法國 "wikilink")，在同性伴侶關係中，其中一人可以擁有另一人親生子女的[親權](https://zh.wikipedia.org/wiki/親權 "wikilink")（即[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")）。這個判決結果來自一個案件，在案件中，一名女性試圖將她兩個女兒的親權給她擁有[民事結合關係的伴侶](../Page/民事結合.md "wikilink")。\[21\]但在2007年2月，法國最高上訴法院卻駁回了另一對LGBT家庭的領養訴訟。法院指出，除非她的伴侶放棄她的親權，否則她將無法獲得與她伴侶的民事關係身份權。\[22\]\[23\]
 
-1998年，一名[法國](../Page/法國.md "wikilink")[隆勒索涅幼兒園教師向](../Page/隆勒索涅.md "wikilink")[汝拉省政府申請領養](../Page/汝拉省.md "wikilink")。這名幼兒園教師與另一位同性同居在一起，因此[汝拉省政府以領養兒童可能會因為成長過程缺少父親關愛拒絕了她的領養申請](../Page/汝拉省.md "wikilink")。\[24\]
-該名女子隨即向法庭提出起訴並同時向上級政府機構提出复議，但是在法庭作出判決前，上級政府機構卻提前拒絕了該名女子的复議請求。\[25\][歐洲人權法院指出這違反了](../Page/歐洲人權法院.md "wikilink")[歐洲人權公約第八條和第十四條](../Page/歐洲人權公約.md "wikilink")。\[26\]\[27\]
+1998年，一名[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[隆勒索涅幼兒園教師向](https://zh.wikipedia.org/wiki/隆勒索涅 "wikilink")[汝拉省政府申請領養](https://zh.wikipedia.org/wiki/汝拉省 "wikilink")。這名幼兒園教師與另一位同性同居在一起，因此[汝拉省政府以領養兒童可能會因為成長過程缺少父親關愛拒絕了她的領養申請](https://zh.wikipedia.org/wiki/汝拉省 "wikilink")。\[24\]
+該名女子隨即向法庭提出起訴並同時向上級政府機構提出复議，但是在法庭作出判決前，上級政府機構卻提前拒絕了該名女子的复議請求。\[25\][歐洲人權法院指出這違反了](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")[歐洲人權公約第八條和第十四條](../Page/歐洲人權公約.md "wikilink")。\[26\]\[27\]
 
-2006年6月2日，冰島議會提出一項議案，決定給予LGBT家庭和異性戀家庭一樣的權利，即允許LGBT家庭採用[人工受孕的形式獲得孩子](../Page/人工受孕.md "wikilink")。該項議案獲得全票通過，並與同年6月27日生效。
+2006年6月2日，冰島議會提出一項議案，決定給予LGBT家庭和異性戀家庭一樣的權利，即允許LGBT家庭採用[人工受孕的形式獲得孩子](https://zh.wikipedia.org/wiki/人工受孕 "wikilink")。該項議案獲得全票通過，並與同年6月27日生效。
 
 ### 中東
 
@@ -101,13 +101,13 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 #### 美国
 
-在[美國](../Page/美國.md "wikilink")，各州都可以自行制定法律決定[同性婚姻](../Page/同性婚姻.md "wikilink")、[民事結合或LGBT領養是否合法](../Page/民事結合.md "wikilink")。但是在聯邦法官的一次判決中，各州必須認識到，根據[完全信任條款](../Page/完全信任條款.md "wikilink")（），即便本州不允許LGBT領養合法，但是如果LGBT家庭是在別的州合法領養了子女，那麼在本州也是合法的。\[31\]
+在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，各州都可以自行制定法律決定[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事結合或LGBT領養是否合法](../Page/民事結合.md "wikilink")。但是在聯邦法官的一次判決中，各州必須認識到，根據[完全信任條款](https://zh.wikipedia.org/wiki/完全信任條款 "wikilink")（），即便本州不允許LGBT領養合法，但是如果LGBT家庭是在別的州合法領養了子女，那麼在本州也是合法的。\[31\]
 事實上，在美國大約有27萬名兒童與LGBT家庭生活在一起，而其中的四分之一（大約6.5萬人）是被領養的。\[32\]
 
-[猶他州和](../Page/猶他州.md "wikilink")[佛羅里達州都是美國歷史上對LGBT族群限制比較嚴厲的州](../Page/佛羅里達州.md "wikilink")。猶他州禁止“不具備法律效力的同居關係或不具有約束力的婚姻關係中的人士”領養小孩\[33\]，但是允許單身人士（必須無任何婚姻關係或同居關係），無論他們的[性取向](../Page/性取向.md "wikilink")，領養小孩。
+[猶他州和](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[佛羅里達州都是美國歷史上對LGBT族群限制比較嚴厲的州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")。猶他州禁止“不具備法律效力的同居關係或不具有約束力的婚姻關係中的人士”領養小孩\[33\]，但是允許單身人士（必須無任何婚姻關係或同居關係），無論他們的[性取向](../Page/性取向.md "wikilink")，領養小孩。
 
-過往:[哥倫比亞特區](../Page/哥倫比亞特區.md "wikilink")（1995年）、\[34\][新澤西州](../Page/新澤西州.md "wikilink")（1998年）、\[35\][紐約州](../Page/紐約州.md "wikilink")（2002年）、\[36\][印第安納州](../Page/印第安納州.md "wikilink")（2006年）、\[37\][邁阿密](../Page/邁阿密.md "wikilink")（2007年）、\[38\][加利福尼亚州](../Page/加利福尼亚州.md "wikilink")、\[39\][康乃狄克州](../Page/康乃狄克州.md "wikilink")、\[40\][伊利诺伊州](../Page/伊利诺伊州.md "wikilink")、\[41\]
-[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")、\[42\][俄勒冈州](../Page/俄勒冈州.md "wikilink")、\[43\][佛蒙特](../Page/佛蒙特.md "wikilink")\[44\]
+過往:[哥倫比亞特區](https://zh.wikipedia.org/wiki/哥倫比亞特區 "wikilink")（1995年）、\[34\][新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink")（1998年）、\[35\][紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")（2002年）、\[36\][印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")（2006年）、\[37\][邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")（2007年）、\[38\][加利福尼亚州](../Page/加利福尼亚州.md "wikilink")、\[39\][康乃狄克州](../Page/康乃狄克州.md "wikilink")、\[40\][伊利诺伊州](../Page/伊利诺伊州.md "wikilink")、\[41\]
+[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")、\[42\][俄勒冈州](../Page/俄勒冈州.md "wikilink")、\[43\][佛蒙特](https://zh.wikipedia.org/wiki/佛蒙特 "wikilink")\[44\]
 和[關島](../Page/關島.md "wikilink")\[45\]
 
 現在:2016年全美50州的同性婚姻伴侶都可以合法領養小孩了。\[46\]
@@ -120,13 +120,13 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 2009年12月21日，墨西哥联邦区议会通过立法，允许同性伴侣收养子女。\[50\]八天以后，市长签署法案使其成为正式法律，最终在2010年3月4日正式生效。\[51\]
 
-但在2011年11月24日，[科阿韦拉州](../Page/科阿韦拉州.md "wikilink")[最高法院推翻了该州的法律](../Page/最高法院.md "wikilink")，并敦促该州的立法机关尽快修订法律禁止同性伴侣收养。\[52\]2014年2月12日，该州的议会在争执了两年多后，最终决定接受最高法院的判决。
+但在2011年11月24日，[科阿韦拉州](https://zh.wikipedia.org/wiki/科阿韦拉州 "wikilink")[最高法院推翻了该州的法律](../Page/最高法院.md "wikilink")，并敦促该州的立法机关尽快修订法律禁止同性伴侣收养。\[52\]2014年2月12日，该州的议会在争执了两年多后，最终决定接受最高法院的判决。
 
 ### 南美洲
 
 [南美地区LGBT家庭合法领养示意图
 ](https://zh.wikipedia.org/wiki/File:Gay_adoption_in_South_America.svg "fig:南美地区LGBT家庭合法领养示意图     ")
-在[阿根廷](../Page/阿根廷.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[法属圭亚那](../Page/法属圭亚那.md "wikilink")，[乌拉圭和](../Page/乌拉圭.md "wikilink")[哥倫比亞](../Page/哥倫比亞.md "wikilink")，法律允许同性夫妻可以共同收养子女。在乌拉圭，2009年10月，同性法律由总统巴斯克斯签署并生效。\[53\]根据民意调查，53％的乌拉圭人反对同性法案通过而支持率仅有39％。另一项在2008年的民意调查则显示，49％反对同性法案通过，35％支持同性法案通过。\[54\]\[55\]在最近（2014年11月）的一项在智利的民意调查显示，智利民众的44％支持同性收养，51％反对。\[56\]
+在[阿根廷](../Page/阿根廷.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[法属圭亚那](https://zh.wikipedia.org/wiki/法属圭亚那 "wikilink")，[乌拉圭和](../Page/乌拉圭.md "wikilink")[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")，法律允许同性夫妻可以共同收养子女。在乌拉圭，2009年10月，同性法律由总统巴斯克斯签署并生效。\[53\]根据民意调查，53％的乌拉圭人反对同性法案通过而支持率仅有39％。另一项在2008年的民意调查则显示，49％反对同性法案通过，35％支持同性法案通过。\[54\]\[55\]在最近（2014年11月）的一项在智利的民意调查显示，智利民众的44％支持同性收养，51％反对。\[56\]
 
 ### 大洋洲
 
@@ -138,7 +138,7 @@ LGBT收養目前在14個國家是合法的，同時在某些國家（例如：�
 
 ## LGBT領養權的爭議
 
-LGBT的領養權一直是LGBT權利中一個非常活躍的討論話題，目前大部分國家沒有明確的法律支持LGBT家庭領養子女，但同時也沒有明確的法律反對LGBT家庭領養子女。在美國，除了[2008年阿肯色州第一法案外](../Page/2008年阿肯色州第一法案.md "wikilink")，所有試圖通過立法阻止LGBT家庭領養子女的法案都沒有獲得通過。但是，在支持領養與反對領養之間也達成了一個共識，即保護兒童權益是既定的首要政策。\[58\]
+LGBT的領養權一直是LGBT權利中一個非常活躍的討論話題，目前大部分國家沒有明確的法律支持LGBT家庭領養子女，但同時也沒有明確的法律反對LGBT家庭領養子女。在美國，除了[2008年阿肯色州第一法案外](https://zh.wikipedia.org/wiki/2008年阿肯色州第一法案 "wikilink")，所有試圖通過立法阻止LGBT家庭領養子女的法案都沒有獲得通過。但是，在支持領養與反對領養之間也達成了一個共識，即保護兒童權益是既定的首要政策。\[58\]
 
 許多支持LGBT家庭領養子女的人士認為，領養兒童的幸福在於父母的能力而不在於父母的[性取向](../Page/性取向.md "wikilink")。\[59\]
 但反對者聲稱LGBT家庭由於缺少男性或女性形象，會對兒童成長不利。\[60\]也有一些研究指出擺脫性別刻板印象、擁有雙性化人格的人適應力較強、較有創造力。\[61\]
@@ -149,7 +149,7 @@ LGBT的領養權一直是LGBT權利中一個非常活躍的討論話題，目前
 
 #### 美國心理學會
 
-[美國心理學會認為阻止同性戀家庭領養子女損害了同性戀者的心理健康](../Page/美國心理學會.md "wikilink")，同時他們也認為沒有證據證明LGBT家庭會讓被領養的兒童產生反社會的偏見。\[62\]\[63\]\[64\]()
+[美國心理學會認為阻止同性戀家庭領養子女損害了同性戀者的心理健康](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")，同時他們也認為沒有證據證明LGBT家庭會讓被領養的兒童產生反社會的偏見。\[62\]\[63\]\[64\]()
 
 美國心理學會(American Psychological Association, APA)於2004年的正式決議Sexual
 Orientation, Parents, &
@@ -163,14 +163,15 @@ couples，表示贊同同性伴侶關係的合法化，在2004年也做成政策
 
 #### 美國醫學協會
 
-[美國醫學協會認為沒有證據證明LGBT家庭會更加忽視兒童的健康問題](../Page/美國醫學協會.md "wikilink")。\[66\]
+[美國醫學協會認為沒有證據證明LGBT家庭會更加忽視兒童的健康問題](https://zh.wikipedia.org/wiki/美國醫學協會 "wikilink")。\[66\]
 美國醫學會(American Medical Association, AMA)政策宣示的H-60.940Partner
 Co-Adoption一節，表示支持同性伴侶收養小孩。\[67\]
 
 #### 美國訴溫莎案
 
-在2013年的[美國訴溫莎案](../Page/美國訴溫莎案.md "wikilink")（United States v.
-Windsor）中，涉及同性婚姻的憲法爭議，[美國心理學會](../Page/美國心理學會.md "wikilink")、[美國醫學協會](../Page/美國醫學協會.md "wikilink")、[美國兒科學會](../Page/美國兒科學會.md "wikilink")、[美國精神分析學會](../Page/美國精神分析學會.md "wikilink")、[美國精神醫學學會](../Page/美國精神醫學學會.md "wikilink")、[國家社工協會等各個重要的學術團體](../Page/國家社工協會.md "wikilink")，在聯合撰寫給最高法院的[法庭之友中表示](../Page/法庭之友.md "wikilink"):「認為同性戀者是比較不適任的父母或認為他們的孩子的心理健康和適應力不如異性戀父母的小孩是沒有科學基礎的。」\[68\][美國社會學學會](../Page/美國社會學學會.md "wikilink")(American
+在2013年的[美國訴溫莎案](https://zh.wikipedia.org/wiki/美國訴溫莎案 "wikilink")（United
+States v.
+Windsor）中，涉及同性婚姻的憲法爭議，[美國心理學會](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")、[美國醫學協會](https://zh.wikipedia.org/wiki/美國醫學協會 "wikilink")、[美國兒科學會](https://zh.wikipedia.org/wiki/美國兒科學會 "wikilink")、[美國精神分析學會](https://zh.wikipedia.org/wiki/美國精神分析學會 "wikilink")、[美國精神醫學學會](../Page/美國精神醫學學會.md "wikilink")、[國家社工協會等各個重要的學術團體](https://zh.wikipedia.org/wiki/國家社工協會 "wikilink")，在聯合撰寫給最高法院的[法庭之友中表示](https://zh.wikipedia.org/wiki/法庭之友 "wikilink"):「認為同性戀者是比較不適任的父母或認為他們的孩子的心理健康和適應力不如異性戀父母的小孩是沒有科學基礎的。」\[68\][美國社會學學會](https://zh.wikipedia.org/wiki/美國社會學學會 "wikilink")(American
 Sociological
 Association)寫的法庭之友，結論同其他學門的見解:「學術界的共識很清楚:同性雙親的孩子過的跟異性戀父母的孩子一樣好。」\[69\]
 2013年美國最高法院審理關於同性婚姻的憲法爭議時，有許多個別的學者或學術組織就這個議題公開表態。
@@ -283,16 +284,16 @@ al.的作法並非在研究「長期共同居住的家庭」而加入了其他�
 
 ### 反對
 
-主流的[心理學](../Page/心理學.md "wikilink")、[社會學](../Page/社會學.md "wikilink")、[社工專業學會支持同性家庭領養](../Page/社工.md "wikilink")，但也有出自宗教組織背景而質疑這些專業學會的聲音，包括
+主流的[心理學](https://zh.wikipedia.org/wiki/心理學 "wikilink")、[社會學](https://zh.wikipedia.org/wiki/社會學 "wikilink")、[社工專業學會支持同性家庭領養](https://zh.wikipedia.org/wiki/社工 "wikilink")，但也有出自宗教組織背景而質疑這些專業學會的聲音，包括
 
 #### Loren Marks的研究
 
-有研究質疑美國心理學會(APA)所援引用以支持同性家庭領養的研究的可信性及可推廣性。2012年，[摩門教教徒Loren](../Page/摩門教.md "wikilink")
+有研究質疑美國心理學會(APA)所援引用以支持同性家庭領養的研究的可信性及可推廣性。2012年，[摩門教教徒Loren](https://zh.wikipedia.org/wiki/摩門教 "wikilink")
 Marks研究過美國心理學會2005年所發表的支持同性家庭領養的報告中，用以支持同性家庭的59份研究報告，\[88\]發現當中超過四分三的樣本數目在100以下，亦欠缺多樣性，而且關於男同性戀者的同性家庭研究很少。另外，當中有接近一半研究沒有設立異性戀家庭的比較組別；而在那些有設立比較組別的研究中，有三分一以單親家庭而非異性雙親家庭做比較組別。在結論部分，Marks重申在59份研究中，沒有一份使用大型及隨機的樣本，欠缺代表性；研究所得出的資料，由於是從細小的方便樣本取得，不足以支持普遍推廣的結論。
 
 #### Douglas Allen的研究
 
-[摩門教教徒Douglas](../Page/摩門教.md "wikilink")
+[摩門教教徒Douglas](https://zh.wikipedia.org/wiki/摩門教 "wikilink")
 Allen使用加拿大2006年人口普查的20%數據做統計分析，聲稱現對比已婚異性雙親的孩子，同性家庭的孩子只有65%高中畢業；若再仔細區分男同性戀者及女同性戀者家庭對男孩及女孩的影響時，更發現那些在男同性戀者家庭的女孩的高中畢業率尤低，只有15%\[89\]。
 
 但是論文作者作者Douglas W. Allen在2014年美國DeBoer v.
@@ -307,25 +308,25 @@ Allen**於法庭坦承**，他的研究若控制了「雙親教育程度、經�
 
   - 2005年1月，以色列最高法院裁決，允許同性家庭領養其伴侶的繼子女。以色列允許公民擁有非親生子女的有限共同監護權。\[91\]
   - 2008年2月，以色列法庭裁定同性家庭可以領養任何孩童，即便與其沒有任何的血緣關係。這被認為是給於以色列同性戀者相等的權利。\[92\]
-  - 2013年的[美國訴溫莎案](../Page/美國訴溫莎案.md "wikilink")（United States v.
-    Windsor）
+  - 2013年的[美國訴溫莎案](https://zh.wikipedia.org/wiki/美國訴溫莎案 "wikilink")（United
+    States v. Windsor）
   - 2016年，(campaign for southern equality. et al v. mississippi
     department of human services. et al.)案\[93\]
 
 ## 支持團體
 
-  - [美國醫學協會](../Page/美國醫學協會.md "wikilink")
-  - [美國社會學學會](../Page/美國社會學學會.md "wikilink")
-  - [美國心理學會](../Page/美國心理學會.md "wikilink")
-  - [美國兒科學會](../Page/美國兒科學會.md "wikilink")
-  - [美國精神分析學會](../Page/美國精神分析學會.md "wikilink")
+  - [美國醫學協會](https://zh.wikipedia.org/wiki/美國醫學協會 "wikilink")
+  - [美國社會學學會](https://zh.wikipedia.org/wiki/美國社會學學會 "wikilink")
+  - [美國心理學會](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")
+  - [美國兒科學會](https://zh.wikipedia.org/wiki/美國兒科學會 "wikilink")
+  - [美國精神分析學會](https://zh.wikipedia.org/wiki/美國精神分析學會 "wikilink")
   - [美國精神醫學學會](../Page/美國精神醫學學會.md "wikilink")
-  - [國家社工協會](../Page/國家社工協會.md "wikilink")
+  - [國家社工協會](https://zh.wikipedia.org/wiki/國家社工協會 "wikilink")
 
 ## 反對團體
 
   - [American College of
-    Paediatrician](../Page/American_College_of_Paediatrician.md "wikilink")
+    Paediatrician](https://zh.wikipedia.org/wiki/American_College_of_Paediatrician "wikilink")
 
 ## 電影
 
@@ -355,8 +356,8 @@ Allen**於法庭坦承**，他的研究若控制了「雙親教育程度、經�
 
 ## 參見條目
 
-  - [同性婚姻](../Page/同性婚姻.md "wikilink")
-  - [領養](../Page/領養.md "wikilink")
+  - [同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")
+  - [領養](https://zh.wikipedia.org/wiki/領養 "wikilink")
   - [繼親](../Page/繼親.md "wikilink")
 
 ## 延伸閱讀
@@ -443,7 +444,7 @@ Allen**於法庭坦承**，他的研究若控制了「雙親教育程度、經�
 
 24. [Ruling in E.B. v.
     France](http://cmiskp.echr.coe.int/tkp197/view.asp?action=html&documentId=827961&portal=hbkm&source=externalbydocnumber&table=F69A27FD8FB86142BF01C1166DEA398649)
-    from the [歐洲人權法院](../Page/歐洲人權法院.md "wikilink")
+    from the [歐洲人權法院](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")
 
 25. [Council of State (France)](../Page/法国最高行政法院.md "wikilink"),
     [ruling 230533](http://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008117315)

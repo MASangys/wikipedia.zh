@@ -1,9 +1,9 @@
-**IronPython**是一种以[.NET和](../Page/Microsoft_.NET.md "wikilink")[Mono实现的](../Page/Mono.md "wikilink")[Python](../Page/Python.md "wikilink")，由（同时也是[Jython的创造者](../Page/Jython.md "wikilink")）创建。1.0版于2006年9月5日[发布](http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython)。\[1\]
+**IronPython**是一种以[.NET和](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")[Mono实现的](../Page/Mono.md "wikilink")[Python](../Page/Python.md "wikilink")，由（同时也是[Jython的创造者](../Page/Jython.md "wikilink")）创建。1.0版于2006年9月5日[发布](http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython)。\[1\]
 
 在随后的2007年，开发者決定改写构架，使用[动态语言运行时让更多脚本語言能轻易移植到](../Page/动态语言运行时.md "wikilink")[.NET
-Framework上](../Page/.NET_Framework.md "wikilink")。2008年，在[微软发布](../Page/微软.md "wikilink")[.NET
-Framework](../Page/.NET_Framework.md "wikilink")
-3.0/3.5、[Silverlight之后](../Page/Microsoft_Silverlight.md "wikilink")，**IronPython**也发布了2.0版。2.7版於2011年3月發布，支援.NET
+Framework上](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。2008年，在[微软发布](../Page/微软.md "wikilink")[.NET
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")
+3.0/3.5、[Silverlight之后](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")，**IronPython**也发布了2.0版。2.7版於2011年3月發布，支援.NET
 Framework
 4.0。目前最新版本是2.7.8，於2018年2月发布。目前IronPython3仍然在開發中，尚未有任何預覽版及穩定版\[2\]，構建目標為.NET
 4.5與.NET Core 2.0\[3\]。

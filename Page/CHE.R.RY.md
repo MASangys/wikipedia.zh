@@ -1,5 +1,6 @@
 《**CHE.R.RY**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2007年3月7日所推出的第八張單曲碟。由
-[STUDIOSEVEN Recordings](../Page/STUDIOSEVEN_Recordings.md "wikilink")
+[STUDIOSEVEN
+Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")
 發行。
 
 YUI洗脫上一張單曲《[Rolling
@@ -9,7 +10,7 @@ star](../Page/Rolling_star.md "wikilink")》的搖滾氣息，轉回可愛的形
 
 1.  **CHE.R.RY** (3:34)
       -
-        作詞、作曲：[YUI](../Page/YUI_\(歌手\).md "wikilink")，編曲：northa+
+        作詞、作曲：[YUI](https://zh.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")，編曲：northa+
 2.  **Driving today** (3:08)
       -
         作詞、作曲：YUI，編曲：northa+

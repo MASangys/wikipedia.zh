@@ -1,4 +1,4 @@
-**PubChem**，即**有機小分子生物活性數據**，是一種化學模組的[資料庫](../Page/資料庫.md "wikilink")，目前由[美國國家生物技術信息中心維護](../Page/美國國家生物技術信息中心.md "wikilink")。PubChem可經由網站直接存取，數以百萬計的化學組成資料集可經由FTP免費下載。
+**PubChem**，即**有機小分子生物活性數據**，是一種化學模組的[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，目前由[美國國家生物技術信息中心維護](https://zh.wikipedia.org/wiki/美國國家生物技術信息中心 "wikilink")。PubChem可經由網站直接存取，數以百萬計的化學組成資料集可經由FTP免費下載。
 
 ## 外部連結
 

@@ -51,7 +51,7 @@ Circus Action3
   - CIRCUS ACTION3最終章
 
 [CIRCUS ACTION
-第四季節目主題為熱血巴士](../Page/CIRCUS_ACTION_第四季.md "wikilink")，事前挑選三十名熱血並擁有夢想的青年人，與CIRCUS一起環島。最後勝出者可得到CIRCUS夢想基金十萬新台幣，與CIRCUS一起實現其夢想。CIRCUS每人有一面免死金牌，用於救被淘汰者使他們不用被淘汰，可以繼續留在熱血巴士上與CIRCUS繼續一起熱血。於節目中，一集大約會有三次淘汰賽，每次淘汰賽會淘汰一人，有時會沒有人被淘汰（見下表）。目前為止（第14集），共有**23**人被淘汰，大鼻成功被召喚回到熱血巴士中，離開節目兩集後回到當中。四面免死金牌中用了三面，最後一面被CIRCUS毀掉。
+第四季節目主題為熱血巴士](https://zh.wikipedia.org/wiki/CIRCUS_ACTION_第四季 "wikilink")，事前挑選三十名熱血並擁有夢想的青年人，與CIRCUS一起環島。最後勝出者可得到CIRCUS夢想基金十萬新台幣，與CIRCUS一起實現其夢想。CIRCUS每人有一面免死金牌，用於救被淘汰者使他們不用被淘汰，可以繼續留在熱血巴士上與CIRCUS繼續一起熱血。於節目中，一集大約會有三次淘汰賽，每次淘汰賽會淘汰一人，有時會沒有人被淘汰（見下表）。目前為止（第14集），共有**23**人被淘汰，大鼻成功被召喚回到熱血巴士中，離開節目兩集後回到當中。四面免死金牌中用了三面，最後一面被CIRCUS毀掉。
 
 而本節目參加者之服飾由[OUTER SPACE提供](../Page/OUTER_SPACE.md "wikilink")。
 
@@ -59,6 +59,7 @@ Circus Action3
 
 ## 参看
 
-  - [CIRCUS ACTION (第四季)](../Page/CIRCUS_ACTION_\(第四季\).md "wikilink")
+  - [CIRCUS ACTION
+    (第四季)](https://zh.wikipedia.org/wiki/CIRCUS_ACTION_\(第四季\) "wikilink")
 
 [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")

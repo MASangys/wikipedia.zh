@@ -1,4 +1,4 @@
-**高润荷**于2007年3月15日所推出的首张[韩语](../Page/韩语.md "wikilink")[唱片](../Page/唱片.md "wikilink")。
+**高润荷**于2007年3月15日所推出的首张[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")。
 
 ## 歌曲列表
 

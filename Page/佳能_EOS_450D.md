@@ -1,5 +1,6 @@
 **佳能 EOS 450D**，又称为**Digital Rebel
-XSi**（[北美市场](../Page/北美.md "wikilink")）或**EOS Kiss Digital
+XSi**（[北美市场](https://zh.wikipedia.org/wiki/北美 "wikilink")）或**EOS
+Kiss Digital
 X2**（日本市场）\[1\]，是由佳能公司于2008年1月23日推出，3月\[2\]上市的一款消费级别单镜头反光相机。在北美市场，EOS
 450D于同年4月\[3\] 上市。作为成功的[佳能 EOS
 400D的继任者](../Page/佳能_EOS_400D.md "wikilink")，佳能EOS
@@ -10,7 +11,7 @@ X2**（日本市场）\[1\]，是由佳能公司于2008年1月23日推出，3月
   - [佳能 EOS 300D](../Page/佳能_EOS_300D.md "wikilink")
   - [佳能 EOS 350D](../Page/佳能_EOS_350D.md "wikilink")
   - [佳能 EOS 400D](../Page/佳能_EOS_400D.md "wikilink")
-  - [尼康 D80](../Page/尼康_D80.md "wikilink")
+  - [尼康 D80](https://zh.wikipedia.org/wiki/尼康_D80 "wikilink")
 
 ## 参考文献
 

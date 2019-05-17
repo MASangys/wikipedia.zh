@@ -1,5 +1,5 @@
 《**奏光之Strain**》（原名：****）是由[Studio
-Fantasia所製作的動畫作品](../Page/Studio_Fantasia.md "wikilink")。
+Fantasia所製作的動畫作品](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")。
 
 ## 劇情簡介
 
@@ -22,7 +22,7 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
   - 監督：渡邊哲哉
   - 特技監督：川原智弘
   - 系列構成：赤星政尚
-  - 人物設計：[藤田まり子](../Page/藤田まり子.md "wikilink")
+  - 人物設計：[藤田まり子](https://zh.wikipedia.org/wiki/藤田まり子 "wikilink")
   - 機械設計：川原智弘、海老川兼武
   - 總作畫監督：佐藤陵
   - 美術監督、美術ボード：市倉敬
@@ -33,7 +33,7 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
   - 音響監督：龜山俊樹
   - 音楽：酒井良
   - 音樂製作人：澀谷知子
-  - 音樂製作：[Happinet](../Page/Happinet.md "wikilink")
+  - 音樂製作：[Happinet](https://zh.wikipedia.org/wiki/Happinet "wikilink")
   - 動畫製作：Studio Fantasia
   - 製作協力：[WOWOW](../Page/WOWOW.md "wikilink")
   - 製作：奏光のストレイン製作委員会
@@ -52,7 +52,8 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
 
 <!-- end list -->
 
-  - マーサ·シュビーパウエル —— [花井なお](../Page/花井なお.md "wikilink")
+  - マーサ·シュビーパウエル ——
+    [花井なお](https://zh.wikipedia.org/wiki/花井なお "wikilink")
   - アーメンガァド·ヨハニッツ —— [阪田佳代](../Page/阪田佳代.md "wikilink")
   - ベッキィ —— [阪田佳代](../Page/阪田佳代.md "wikilink")
   - クレイヴン —— [麥人](../Page/麥人.md "wikilink")
@@ -60,7 +61,7 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
   - セディ —— [白鳥哲](../Page/白鳥哲.md "wikilink")
   - メアリ— —— [田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")
   - メドロック —— [田中敦子](../Page/田中敦子.md "wikilink")
-  - バロウ —— [長克巳](../Page/長克巳.md "wikilink")
+  - バロウ —— [長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")
 
 ## 各集標題
 
@@ -82,12 +83,14 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
 ### 片頭曲
 
   - 「メッセージ」
-    作詞：上田緑 、作曲・編曲：上野洋子 、歌：[上野洋子](../Page/上野洋子.md "wikilink")
+    作詞：上田緑 、作曲・編曲：上野洋子
+    、歌：[上野洋子](https://zh.wikipedia.org/wiki/上野洋子 "wikilink")
 
 ### 片尾曲
 
   - 「海のオパール」
-    作詞：上田緑 、作曲・編曲：上野洋子 、歌：[Sema](../Page/Sema.md "wikilink")
+    作詞：上田緑 、作曲・編曲：上野洋子
+    、歌：[Sema](https://zh.wikipedia.org/wiki/Sema "wikilink")
   - 「アウローラ〜ひとすじの曙光〜」（第9話）
     作詞：森由里子 、作曲・編曲：上野洋子 、歌：Yoko
 

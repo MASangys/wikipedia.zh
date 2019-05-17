@@ -5,7 +5,7 @@ Is Love
 Is Love 1》和《This Is Love 2》的兩張以迷你專輯方式發行，黃家駒逝世後，《This Is Love
 2》發行的計畫永遠無法實現。
 
-日本版本收錄七首歌曲，台灣版本多收錄三首日語專輯《[超越](../Page/超越.md "wikilink")》的歌曲。
+日本版本收錄七首歌曲，台灣版本多收錄三首日語專輯《[超越](https://zh.wikipedia.org/wiki/超越 "wikilink")》的歌曲。
 
 ## 曲目
 

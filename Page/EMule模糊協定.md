@@ -1,4 +1,4 @@
-**模糊協定**（，又稱**迷惑協定**、**協定迷惑**、**協定加密**、**迷惑协议**）是[eMule在](../Page/eMule.md "wikilink")0.47b之後的版本正式加入的一項功能，這個功能主要是針對[ISP的流量限制做出反擊](../Page/ISP.md "wikilink")。
+**模糊協定**（，又稱**迷惑協定**、**協定迷惑**、**協定加密**、**迷惑协议**）是[eMule在](https://zh.wikipedia.org/wiki/eMule "wikilink")0.47b之後的版本正式加入的一項功能，這個功能主要是針對[ISP的流量限制做出反擊](https://zh.wikipedia.org/wiki/ISP "wikilink")。
 
 ## 簡介
 
@@ -14,7 +14,7 @@
   - 因為封包沒有加密，對那些告密者而言，他們還是能知道「誰」正在傳輸「特定的資料」。
 
 目前模糊協定已經在eD2k
-TCP與UDP、伺服器的TCP與UDP、[Kad的TCP上實做](../Page/Kad.md "wikilink")，至於Kad的UDP則尚未實做。
+TCP與UDP、伺服器的TCP與UDP、[Kad的TCP上實做](https://zh.wikipedia.org/wiki/Kad "wikilink")，至於Kad的UDP則尚未實做。
 
 開啟這項功能會使CPU的佔用率稍微提高，並且在傳輸資料時，會需要多傳數Bytes的資料，然而這並不是什麼大問題。
 

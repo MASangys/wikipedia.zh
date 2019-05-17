@@ -1,10 +1,10 @@
-《**穗乃歌Lv.UP\!**》（[日語](../Page/日語.md "wikilink")：）是[日本作家](../Page/日本.md "wikilink")[太田顯喜原作](../Page/太田顯喜.md "wikilink")、[MATSUDA98作畫的](../Page/MATSUDA98.md "wikilink")[漫畫](../Page/漫畫.md "wikilink")\[1\]。
+《**穗乃歌Lv.UP\!**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本作家](../Page/日本.md "wikilink")[太田顯喜原作](https://zh.wikipedia.org/wiki/太田顯喜 "wikilink")、[MATSUDA98作畫的](https://zh.wikipedia.org/wiki/MATSUDA98 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[1\]。
 
 ## 概要
 
 《**穗乃歌Lv.UP\!**》於2005年10月號（8月26日發售）開始在日本[月刊電擊Comic
 Gao\!雜誌連載](../Page/月刊電擊Comic_Gao!.md "wikilink")\[2\]，於2008年4月號（2月26日發售）隨著電擊Comic
-Gao\!結束發行而連載完畢\[3\]，漫畫單行本一共出版至第4冊。而[台灣與](../Page/台灣.md "wikilink")[香港地區的中文版是由](../Page/香港.md "wikilink")[台灣角川所代理發行](../Page/台灣角川.md "wikilink")。此外英語版由[Broccoli
+Gao\!結束發行而連載完畢\[3\]，漫畫單行本一共出版至第4冊。而[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港地區的中文版是由](../Page/香港.md "wikilink")[台灣角川所代理發行](../Page/台灣角川.md "wikilink")。此外英語版由[Broccoli
 Books所代理](../Page/Broccoli.md "wikilink")\[4\]\[5\]。
 
 ## 故事簡介
@@ -87,7 +87,7 @@ FRAME」打工並成為人物設計師。但是，穗乃歌並沒有幾乎沒有
 
 ## 書籍資訊
 
-《穗乃歌Lv.UP\!》的漫畫版[單行本由日語版由MediaWorks發行](../Page/單行本.md "wikilink")，繁體中文版由台灣角川代理發行。
+《穗乃歌Lv.UP\!》的漫畫版[單行本由日語版由MediaWorks發行](https://zh.wikipedia.org/wiki/單行本 "wikilink")，繁體中文版由台灣角川代理發行。
 
 | 冊數 | 日文版                    | 發售日期        | 繁體中文版                  | 發售日期          |
 | -- | ---------------------- | ----------- | ---------------------- | ------------- |

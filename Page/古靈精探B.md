@@ -1,4 +1,4 @@
-《**古靈精探B**》（[英文](../Page/英語.md "wikilink")：，前名《古靈精探II》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")。此劇為[2009無綫節目巡禮劇集之一及](../Page/2009無綫節目巡禮.md "wikilink")2009無綫節目精選第二季劇集之一，由[郭晉安及](../Page/郭晉安.md "wikilink")[郭羨妮領銜主演](../Page/郭羨妮.md "wikilink")，並由[胡定欣](../Page/胡定欣.md "wikilink")、[蕭正楠及](../Page/蕭正楠.md "wikilink")[郭政鴻聯合主演](../Page/郭政鴻.md "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。本劇為《[古靈精探](../Page/古靈精探.md "wikilink")》續集，劇名中的“B”既有第二辑的意思，也有「Baby」的意思。此劇選用跟上輯一樣的主題曲音樂，只是改用新的歌詞，由男主角[郭晉安主唱](../Page/郭晉安.md "wikilink")。2012年11月8日開始於翡翠台星期一至五中午劇集時段重播。
+《**古靈精探B**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：，前名《古靈精探II》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。此劇為[2009無綫節目巡禮劇集之一及](../Page/2009無綫節目巡禮.md "wikilink")2009無綫節目精選第二季劇集之一，由[郭晉安及](../Page/郭晉安.md "wikilink")[郭羨妮領銜主演](../Page/郭羨妮.md "wikilink")，並由[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[蕭正楠及](../Page/蕭正楠.md "wikilink")[郭政鴻聯合主演](../Page/郭政鴻.md "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。本劇為《[古靈精探](../Page/古靈精探.md "wikilink")》續集，劇名中的“B”既有第二辑的意思，也有「Baby」的意思。此劇選用跟上輯一樣的主題曲音樂，只是改用新的歌詞，由男主角[郭晉安主唱](../Page/郭晉安.md "wikilink")。2012年11月8日開始於翡翠台星期一至五中午劇集時段重播。
 
 ## 小資料
 
@@ -138,7 +138,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李楓.md" title="wikilink">李　楓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李楓" title="wikilink">李　楓</a></p></td>
 <td><p>吳淑德</p></td>
 <td><p>刑楠之妻<br />
 刑晶晶、刑珮珮之母<br />
@@ -155,11 +155,11 @@ Anastasia</strong></p></td>
 -{于}-家安之母<br />
 刑佩佩之姐<br />
 金三順之長孫女<br />
-參見<a href="../Page/#于家.md" title="wikilink"><strong>-{于}-家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#于家" title="wikilink"><strong>-{于}-家</strong></a></p></td>
 <td><p><strong>Madam Ying</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/胡定欣.md" title="wikilink">胡定欣</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a></strong></p></td>
 <td><p><strong>刑珮珮</strong></p></td>
 <td><p>「夢工程」藝人<br />
 刑楠、吳淑德之幼女<br />
@@ -237,7 +237,7 @@ Anastasia</strong></p></td>
 <td><p>「甄氏集團」員工／「夢工程」股東之一<br />
 甄國富之舅仔<br />
 甄向光之舅父<br />
-患有百合花<a href="../Page/花粉過敏症.md" title="wikilink">花粉過敏症</a><br />
+患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
 于第22集盗用公款被趕出「甄氏集團」及「夢工程」娛樂公司<br />
 於第23集被甄向光要求在甄國富棺材底層加暗格助其逃走，後與高才生起爭執時，與沾到百合花粉的馬藹琳、鐘立民拉扯導致花粉敏感症發作</p></td>
 <td></td>
@@ -248,7 +248,7 @@ Anastasia</strong></p></td>
 <td><p>甄國富之長子<br />
 駱斌之外甥<br />
 甄向榮、甄向華同父異母之兄，與他們不和<br />
-患有百合花<a href="../Page/花粉過敏症.md" title="wikilink">花粉過敏症</a><br />
+患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
 於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>24集刺殺甄向榮<br />
 於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>25集被捕<br />
 於第23集被甄向華要求通知駱斌在甄國富棺材底層加暗格助其逃走，卻在保釋奔喪時遭甄向華用百合花粉引發花粉過敏症死亡</p></td>
@@ -334,7 +334,7 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/郭峰_(演員).md" title="wikilink">郭　峰</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　峰</a></strong></p></td>
 <td><p><strong>羅有恆</strong></p></td>
 <td><p>总督察/主管，並針對下屬（尤其是-{于}-子朗），並要他們一盤散沙<br />
 唯一一個不知道-{于}-子朗有通靈能力的D.I.E.成員<br />
@@ -348,14 +348,14 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p><strong><a href="../Page/郭羨妮.md" title="wikilink">郭羨妮</a></strong></p></td>
 <td><p><strong>刑晶晶</strong></p></td>
 <td><p>督察<br />
-參見<a href="../Page/#于家.md" title="wikilink"><strong>-{于}-家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#于家" title="wikilink"><strong>-{于}-家</strong></a></p></td>
 <td><p><strong>Madam Ying</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/郭晉安.md" title="wikilink">郭晉安</a></strong></p></td>
 <td><p><strong>-{于}-子朗</strong></p></td>
 <td><p>警長<br />
-參見<a href="../Page/#于家.md" title="wikilink"><strong>-{于}-家</strong></a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#于家" title="wikilink"><strong>-{于}-家</strong></a></p></td>
 <td><p><strong>于Sir</strong><br />
 <strong>朗哥</strong></p></td>
 </tr>
@@ -363,7 +363,7 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p><strong><a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a></strong></p></td>
 <td><p><strong>張正義</strong></p></td>
 <td><p>警員<br />
-參見<strong><a href="../Page/#張家.md" title="wikilink">張家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#張家" title="wikilink">張家</a></strong></p></td>
 <td><p>小二哥</p></td>
 </tr>
 <tr class="even">
@@ -419,7 +419,7 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p>黃Sir</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/高皓正.md" title="wikilink">高皓正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a></p></td>
 <td><p>高才生</p></td>
 <td><p>高級督察<br />
 黃樹基之下屬<br />
@@ -441,19 +441,19 @@ Coco之男友，曾与其分手，後復合<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅天池.md" title="wikilink">羅天池</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅天池" title="wikilink">羅天池</a></p></td>
 <td><p>-</p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何偉業.md" title="wikilink">何偉業</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何偉業" title="wikilink">何偉業</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/卓躒.md" title="wikilink">卓　躒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓躒" title="wikilink">卓　躒</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -463,11 +463,11 @@ Coco之男友，曾与其分手，後復合<br />
 
 #### 其他警隊人員
 
-|                                  |        |        |        |
-| -------------------------------- | ------ | ------ | ------ |
-| **演員**                           | **角色** | **關係** | **暱稱** |
-| [張國洪](../Page/張國洪.md "wikilink") | \-     | 軍裝警員   |        |
-| [何俊軒](../Page/何俊軒.md "wikilink") | \-     |        |        |
+|                                                     |        |        |        |
+| --------------------------------------------------- | ------ | ------ | ------ |
+| **演員**                                              | **角色** | **關係** | **暱稱** |
+| [張國洪](https://zh.wikipedia.org/wiki/張國洪 "wikilink") | \-     | 軍裝警員   |        |
+| [何俊軒](../Page/何俊軒.md "wikilink")                    | \-     |        |        |
 
 ### 夢工程娛樂公司
 
@@ -483,7 +483,7 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p><strong><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a></strong></p></td>
 <td><p><strong>甘至峰</strong></p></td>
 <td><p>行政總裁<br />
-患有<a href="../Page/多重人格.md" title="wikilink">多重人格</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/多重人格" title="wikilink">多重人格</a><br />
 追求邢佩佩<br />
 人格杀害沈丹、莊秀慧<br />
 对水有恐惧感</p></td>
@@ -494,28 +494,28 @@ Coco之男友，曾与其分手，後復合<br />
 <td><p><strong><a href="../Page/李天翔.md" title="wikilink">李天翔</a></strong></p></td>
 <td><p><strong>甄向華</strong></p></td>
 <td><p>行政總裁<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td><p><strong>Sean</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>-{<a href="../Page/余子明.md" title="wikilink">余子明</a>}-</p></td>
 <td><p>甄國富</p></td>
 <td><p>娛樂公司大股東<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黎彼得.md" title="wikilink">黎彼得</a></p></td>
 <td><p>駱　斌</p></td>
 <td><p>股東<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/劉玉翠.md" title="wikilink">劉玉翠</a></strong></p></td>
 <td><p><strong>簡緻美</strong></p></td>
 <td><p>經理人<br />
-參見<strong><a href="../Page/#-.7B.E4.BA.8E.7D-.E5.AE.B6.md" title="wikilink">-{于}-家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#-.7B.E4.BA.8E.7D-.E5.AE.B6" title="wikilink">-{于}-家</a></strong></p></td>
 <td><p><strong>Sa姨<br />
 Anastasia</strong></p></td>
 </tr>
@@ -569,20 +569,20 @@ Anastasia</strong></p></td>
 <td><p>Ken哥</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/卓姿.md" title="wikilink">卓　姿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卓姿" title="wikilink">卓　姿</a></p></td>
 <td><p>何　珊</p></td>
 <td><p>經理人<br />
 曲琪之經理人</p></td>
 <td><p>Linda</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾鈺精.md" title="wikilink">鍾鈺精</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾鈺精" title="wikilink">鍾鈺精</a></p></td>
 <td></td>
 <td><p>職員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚浩政.md" title="wikilink">姚浩政</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚浩政" title="wikilink">姚浩政</a></p></td>
 <td><p>-</p></td>
 <td><p>娛樂公司職員</p></td>
 <td></td>
@@ -600,7 +600,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -652,7 +652,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/彭冠中.md" title="wikilink">彭冠中</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/彭冠中" title="wikilink">彭冠中</a></p></td>
 <td><p>蕭　強</p></td>
 <td><p>「一線牽」婚姻介紹所之客人<br />
 涉嫌向鍾蕾騙財騙色<br />
@@ -700,7 +700,7 @@ Anastasia</strong></p></td>
 <td><p>趙木揚之妹<br />
 歡婆之孫女<br />
 羅柏芝「聖美詩小學」之六年級同學兼好友<br />
-患有<a href="../Page/夢遊症.md" title="wikilink">夢遊症</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/夢遊症" title="wikilink">夢遊症</a><br />
 遭劉志標嫁祸</p></td>
 <td><p>敏敏</p></td>
 </tr>
@@ -713,7 +713,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉深宜.md" title="wikilink">劉深宜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉深宜" title="wikilink">劉深宜</a></p></td>
 <td><p>趙木揚</p></td>
 <td><p>趙敏敏之兄<br />
 歡婆之孫兒<br />
@@ -722,13 +722,13 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>-{<a href="../Page/黃鳳琼.md" title="wikilink">黃鳳琼</a>}-</p></td>
+<td><p>-{<a href="https://zh.wikipedia.org/wiki/黃鳳琼" title="wikilink">黃鳳琼</a>}-</p></td>
 <td><p>四　姐</p></td>
 <td><p>劉志標、九叔、陳青森之麻將朋友</p></td>
 <td><p>肥婆四</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>陳青森</p></td>
 <td><p>「森記士多」老闆<br />
 與劉志標偷運<a href="../Page/氯胺酮.md" title="wikilink">氯胺酮</a><br />
@@ -804,7 +804,7 @@ Anastasia</strong></p></td>
 <td><p>金魚佬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
 <td><p>鄧小勤</p></td>
 <td><p>李倩雯之男友<br />
 潮牌行政總裁</p></td>
@@ -873,7 +873,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃梓瑋.md" title="wikilink">黃梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃梓瑋" title="wikilink">黃梓瑋</a></p></td>
 <td><p>曾玉娟</p></td>
 <td><p>《隨時一叮》參賽者</p></td>
 <td></td>
@@ -891,13 +891,13 @@ Anastasia</strong></p></td>
 <td><p>「夢工程」娛樂公司藝員<br />
 徐詠虹之情夫<br />
 李時謙之情敌<br />
-參見<strong><a href="../Page/#夢工程娛樂公司.md" title="wikilink">夢工程娛樂公司</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#夢工程娛樂公司" title="wikilink">夢工程娛樂公司</a></strong></p></td>
 <td><p><strong>Leo</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳穎妍.md" title="wikilink">陳穎妍</a></p></td>
 <td><p>文初初</p></td>
-<td><p>參見<strong><a href="../Page/#夢工程娛樂公司.md" title="wikilink">夢工程娛樂公司</a></strong></p></td>
+<td><p>參見<strong><a href="https://zh.wikipedia.org/wiki/#夢工程娛樂公司" title="wikilink">夢工程娛樂公司</a></strong></p></td>
 <td><p><strong>初初<br />
 May姐<br />
 May May<br />
@@ -950,7 +950,7 @@ May Man</strong></p></td>
 <td><p><strong>大口英</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td><p><strong>黎樂思</strong></p></td>
 <td><p>洪二之妻<br />
 唐啟發之情人</p></td>
@@ -966,7 +966,7 @@ May Man</strong></p></td>
 <td><p>發記</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/左智遠.md" title="wikilink">左智遠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/左智遠" title="wikilink">左智遠</a></p></td>
 <td><p>察　差</p></td>
 <td><p>泰國商人（實為毒販）<br />
 居住於酒店606室<br />
@@ -1010,7 +1010,7 @@ May Man</strong></p></td>
 因不肯更改劇本而得罪駱斌<br />
 因事業不得志常藉酒虐妻<br />
 于第14集遭文初初烧死身亡<br />
-参见<strong><a href="../Page/#梦工程娱乐公司.md" title="wikilink">梦工程娱乐公司</a></strong></p></td>
+参见<strong><a href="https://zh.wikipedia.org/wiki/#梦工程娱乐公司" title="wikilink">梦工程娱乐公司</a></strong></p></td>
 <td><p><strong>Ken哥</strong><br />
 <strong>文辉</strong></p></td>
 </tr>
@@ -1021,11 +1021,11 @@ May Man</strong></p></td>
 因無法忍受而殺死司徒文輝<br />
 于第14集用火烧死司徒文辉<br />
 於第16集自首<br />
-参见<strong><a href="../Page/#梦工程娱乐公司.md" title="wikilink">梦工程娱乐公司</a></strong></p></td>
+参见<strong><a href="https://zh.wikipedia.org/wiki/#梦工程娱乐公司" title="wikilink">梦工程娱乐公司</a></strong></p></td>
 <td><p><strong>初初</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃子衡.md" title="wikilink">黃子衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃子衡" title="wikilink">黃子衡</a></p></td>
 <td><p>王　冬</p></td>
 <td><p>導演<br />
 「王冬工作室」老闆<br />
@@ -1056,7 +1056,7 @@ May Man</strong></p></td>
 <tr class="even">
 <td></td>
 <td><p><strong>曲　琪</strong></p></td>
-<td><p>参见<strong><a href="../Page/#夢工程娱乐公司.md" title="wikilink">梦工程娱乐公司</a></strong></p></td>
+<td><p>参见<strong><a href="https://zh.wikipedia.org/wiki/#夢工程娱乐公司" title="wikilink">梦工程娱乐公司</a></strong></p></td>
 <td><p><strong>Cookie</strong></p></td>
 </tr>
 <tr class="odd">
@@ -1072,13 +1072,13 @@ May Man</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/顏桂洲.md" title="wikilink">顏桂洲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/顏桂洲" title="wikilink">顏桂洲</a></p></td>
 <td><p>-</p></td>
 <td><p>林嘉希之助手</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/許明志.md" title="wikilink">許明志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/許明志" title="wikilink">許明志</a></p></td>
 <td><p>Kelolo</p></td>
 <td><p>UFO迷<br />
 詹樹邦之朋友<br />
@@ -1092,7 +1092,7 @@ May Man</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/杜港.md" title="wikilink">杜　港</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜港" title="wikilink">杜　港</a></p></td>
 <td><p>-</p></td>
 <td><p>《靈幻世紀》攝影師</p></td>
 <td></td>
@@ -1102,15 +1102,15 @@ May Man</strong></p></td>
 
 #### 女性殺手（第11—21集）
 
-|                                      |         |                                                 |           |
-| ------------------------------------ | ------- | ----------------------------------------------- | --------- |
-| **演員**                               | **角色**  | **關係**                                          | **暱稱**    |
-| **[蕭正楠](../Page/蕭正楠.md "wikilink")** | **甘至峰** | 參見**[夢工程娛樂公司](../Page/#夢工程娛樂公司.md "wikilink")** |           |
-| [李美慧](../Page/李美慧.md "wikilink")     | 沈　丹     | 参见'''[梦工程娱乐公司](../Page/#梦工程娱乐公司.md "wikilink")  | **丹丹**    |
-| [卓　姿](../Page/卓姿.md "wikilink")      | 何　珊     |                                                 | **Linda** |
-| [何啟南](../Page/何啟南.md "wikilink")     | 錢瑞鏡     | 潛水教練                                            |           |
-| [孫慧蓮](../Page/孫慧蓮.md "wikilink")     | 三　婆     |                                                 |           |
-| [岑潔儀](../Page/岑潔儀.md "wikilink")     | 莊秀惠     |                                                 |           |
+|                                                     |         |                                                                    |           |
+| --------------------------------------------------- | ------- | ------------------------------------------------------------------ | --------- |
+| **演員**                                              | **角色**  | **關係**                                                             | **暱稱**    |
+| **[蕭正楠](../Page/蕭正楠.md "wikilink")**                | **甘至峰** | 參見**[夢工程娛樂公司](https://zh.wikipedia.org/wiki/#夢工程娛樂公司 "wikilink")** |           |
+| [李美慧](../Page/李美慧.md "wikilink")                    | 沈　丹     | 参见'''[梦工程娱乐公司](https://zh.wikipedia.org/wiki/#梦工程娱乐公司 "wikilink")  | **丹丹**    |
+| [卓　姿](https://zh.wikipedia.org/wiki/卓姿 "wikilink")  | 何　珊     |                                                                    | **Linda** |
+| [何啟南](../Page/何啟南.md "wikilink")                    | 錢瑞鏡     | 潛水教練                                                               |           |
+| [孫慧蓮](https://zh.wikipedia.org/wiki/孫慧蓮 "wikilink") | 三　婆     |                                                                    |           |
+| [岑潔儀](../Page/岑潔儀.md "wikilink")                    | 莊秀惠     |                                                                    |           |
 
 #### 為兄報仇（第14—25集）
 
@@ -1138,26 +1138,26 @@ May Man</strong></p></td>
 <td><p><a href="../Page/余子明.md" title="wikilink">-{余}-子明</a></p></td>
 <td><p>甄國富</p></td>
 <td><p>第22集叫甄向华开除骆斌，后发现甄向华换掉自己的药而被其推下樓梯身亡<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黎彼得.md" title="wikilink">黎彼得</a></p></td>
 <td><p><strong>駱　斌</strong></p></td>
-<td><p>患有百合花<a href="../Page/花粉過敏症.md" title="wikilink">花粉過敏症</a><br />
+<td><p>患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
 于第22集盗用公款被趕出“甄氏集團”及“夢工程”娛樂公司<br />
 于第23集被甄向光要求在甄國富棺材底層加暗格助其逃走，後與高才生起争執時，與沾到百合花粉的馬蔼琳、鍾立民拉扯導致花粉敏感症發作<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃澤鋒.md" title="wikilink">黃澤鋒</a></p></td>
 <td><p><strong>甄向光</strong></p></td>
-<td><p>患有百合花<a href="../Page/花粉過敏症.md" title="wikilink">花粉過敏症</a><br />
+<td><p>患有百合花<a href="https://zh.wikipedia.org/wiki/花粉過敏症" title="wikilink">花粉過敏症</a><br />
 於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>24集刺殺甄向榮<br />
 於上集<a href="../Page/古靈精探.md" title="wikilink">古靈精探第</a>25集被捕<br />
 於第23集被甄向華要求通知駱斌在甄國富棺材底層加暗格助其逃走，卻在保釋奔喪時遭甄向華用百合花粉引發花粉過敏症死亡<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td><p>Roy</p></td>
 </tr>
 <tr class="odd">
@@ -1166,7 +1166,7 @@ May Man</strong></p></td>
 <td><p>被甄向華用朱古力收買，保密其換掉甄國富的藥的秘密<br />
 後被甄向華栽贓私藏百合花粉，讓張正義、警方誤認為殺害甄向光之兇手<br />
 于第25集無罪釋放<br />
-參見<strong><a href="../Page/#甄家.md" title="wikilink">甄家</a></strong></p></td>
+參見<strong><a href="https://zh.wikipedia.org/wiki/#甄家" title="wikilink">甄家</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1188,18 +1188,18 @@ May Man</strong></p></td>
 <td><p>Ryan</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王维德.md" title="wikilink">王维德</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王维德" title="wikilink">王维德</a></p></td>
 <td><p>陳金勝</p></td>
 <td><p>十年前輪姦吴彩妮之一<br />
 十年前收甄向榮錢財而幫甄向榮脱罪，后一直不断向甄向荣进行勒索<br />
-<a href="../Page/古灵精探.md" title="wikilink">古灵精探第</a>19集时遭甄向荣推下大楼身亡<br />
+<a href="https://zh.wikipedia.org/wiki/古灵精探" title="wikilink">古灵精探第</a>19集时遭甄向荣推下大楼身亡<br />
 已去世<br />
 于第25集在-{于}-家安的超能力片段出现<br />
-参见<strong><a href="../Page/古灵精探.md" title="wikilink">古灵精探</a></strong></p></td>
+参见<strong><a href="https://zh.wikipedia.org/wiki/古灵精探" title="wikilink">古灵精探</a></strong></p></td>
 <td><p>Sam</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李彩寧.md" title="wikilink">李彩寧</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李彩寧" title="wikilink">李彩寧</a></p></td>
 <td><p>吴彩妮</p></td>
 <td><p>刑晶晶之大学同学兼好友<br />
 曾中年级时怀孕、后堕胎<br />
@@ -1233,7 +1233,7 @@ Wendy之上司<br />
 <td><p><strong>蘇碧大師</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/森美.md" title="wikilink">森　美</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森　美</a></strong></p></td>
 <td><p><strong>蘇　豪</strong></p></td>
 <td><p>玄學家<br />
 蘇碧之父<br />
@@ -1242,7 +1242,7 @@ Wendy之上司<br />
 <td><p><strong>金吊桶</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/黃長興.md" title="wikilink">黃長興</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></strong></p></td>
 <td><p><strong>文　龍</strong></p></td>
 <td><p>法醫<br />
 彭美雲之夫<br />
@@ -1258,13 +1258,13 @@ Wendy之上司<br />
 <td><p><strong>Icy</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李啟傑.md" title="wikilink">李啟傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李啟傑" title="wikilink">李啟傑</a></p></td>
 <td><p>-</p></td>
 <td><p>警隊拍攝宣傳片之攝影師（第1集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄒永標.md" title="wikilink">鄒永標</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄒永標" title="wikilink">鄒永標</a></p></td>
 <td><p>-</p></td>
 <td><p>警隊拍攝宣傳片之助手（第1集）</p></td>
 <td></td>
@@ -1277,13 +1277,13 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳宙希.md" title="wikilink">陳宙希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳宙希" title="wikilink">陳宙希</a></p></td>
 <td><p>-</p></td>
 <td><p>茶餐廳待應（第1集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黎銘諾.md" title="wikilink">黎銘諾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎銘諾" title="wikilink">黎銘諾</a></p></td>
 <td><p>-</p></td>
 <td><p>酒吧待應（第1集）</p></td>
 <td></td>
@@ -1295,13 +1295,13 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/趙希洛.md" title="wikilink">趙希洛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/趙希洛" title="wikilink">趙希洛</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柯嵐.md" title="wikilink">柯　嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯嵐" title="wikilink">柯　嵐</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1319,7 +1319,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/張笑千.md" title="wikilink">張笑千</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張笑千" title="wikilink">張笑千</a></p></td>
 <td><p>-</p></td>
 <td><p>狗仔隊記者（第2集）</p></td>
 <td></td>
@@ -1338,7 +1338,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江富強.md" title="wikilink">江富強</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江富強" title="wikilink">江富強</a></p></td>
 <td><p>-</p></td>
 <td><p>酒吧酒保<br />
 蕭強朋友（第2集）</p></td>
@@ -1382,38 +1382,38 @@ Wendy之上司<br />
 <td><p>36D</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/曾琬莎.md" title="wikilink">曾琬莎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾琬莎" title="wikilink">曾琬莎</a></p></td>
 <td><p>-</p></td>
 <td><p>女酒客（第7集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何慶輝.md" title="wikilink">何慶輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何慶輝" title="wikilink">何慶輝</a></p></td>
 <td><p>-</p></td>
 <td><p>醫生<br />
 誤診張正義患有末期肝癌（第11集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳志建.md" title="wikilink">陳志建</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳志建" title="wikilink">陳志建</a></p></td>
 <td><p>-</p></td>
 <td><p>洪二之手下（第13集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳遠東.md" title="wikilink">陳遠東</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳遠東" title="wikilink">陳遠東</a></p></td>
 <td><p>-</p></td>
 <td><p>二手手機舖店員（第13集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳駿光.md" title="wikilink">陳駿光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳駿光" title="wikilink">陳駿光</a></p></td>
 <td><p>-</p></td>
 <td><p>二手手機舖經理（第13集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/單俊偉.md" title="wikilink">單俊偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/單俊偉" title="wikilink">單俊偉</a></p></td>
 <td><p>-</p></td>
 <td><p>飾演搶劫金飾舖之演員（第14集）</p></td>
 <td></td>
@@ -1425,7 +1425,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳淑儀.md" title="wikilink">陳淑儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳淑儀" title="wikilink">陳淑儀</a></p></td>
 <td><p>-</p></td>
 <td><p>馬會經理（第16集）</p></td>
 <td></td>
@@ -1438,7 +1438,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/王德基.md" title="wikilink">王德基</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王德基" title="wikilink">王德基</a></p></td>
 <td><p>-</p></td>
 <td><p>餐廳經理（第17集）</p></td>
 <td></td>
@@ -1450,13 +1450,13 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td><p>-</p></td>
 <td><p>婦人（第17集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鍾建文.md" title="wikilink">鍾建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾建文" title="wikilink">鍾建文</a></p></td>
 <td><p>-</p></td>
 <td><p>保安（第17集）</p></td>
 <td></td>
@@ -1469,13 +1469,13 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉天龍.md" title="wikilink">劉天龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉天龍" title="wikilink">劉天龍</a></p></td>
 <td><p>-</p></td>
 <td><p>大佬手下（第17集）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江梓瑋.md" title="wikilink">江梓瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1493,13 +1493,13 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘曉彤.md" title="wikilink">潘曉彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘曉彤" title="wikilink">潘曉彤</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何基佑.md" title="wikilink">何基佑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何基佑" title="wikilink">何基佑</a></p></td>
 <td><p>-</p></td>
 <td><p>《舞動神話》司儀</p></td>
 <td></td>
@@ -1517,7 +1517,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁浩邦.md" title="wikilink">梁浩邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁浩邦" title="wikilink">梁浩邦</a></p></td>
 <td><p>-</p></td>
 <td><p>爛仔（第22集）</p></td>
 <td></td>
@@ -1535,7 +1535,7 @@ Wendy之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游颰.md" title="wikilink">游　飇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游颰" title="wikilink">游　飇</a></p></td>
 <td><p>大麻成</p></td>
 <td><p>陳繼英以前生意拍擋，因陳繼英臨陣逃跑而反目<br />
 甄向光獄友<br />
@@ -1556,7 +1556,7 @@ Wendy之上司<br />
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馬國明.md" title="wikilink">馬國明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a></p></td>
 <td><p>成家雋</p></td>
 <td><p>重案組高級督察，調至英國受訓<br />
 邢晶晶之前男友<br />
@@ -1566,7 +1566,7 @@ Wendy之上司<br />
 <td><p><strong>Hugo</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李安琪.md" title="wikilink">李安琪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李安琪" title="wikilink">李安琪</a></p></td>
 <td><p>成敏俐</p></td>
 <td><p>簡緻美之女<br />
 成家雋之姪女<br />
@@ -1581,15 +1581,15 @@ Wendy之上司<br />
 
 以下為本劇於[香港](../Page/香港.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台之收視紀錄](../Page/高清翡翠台.md "wikilink")：
 
-|        |            |                                  |                                  |                                  |         |
-| ------ | ---------- | -------------------------------- | -------------------------------- | -------------------------------- | ------- |
-| **週次** | **集數**     | **日期**                           | **平均收視**                         | **最高收視**                         | **百分比** |
-| 1      | 01—04      | 2009年8月18日—8月21日                 | 29[點](../Page/收視點.md "wikilink") | 31[點](../Page/收視點.md "wikilink") | 86%     |
-| 2      | 05—09      | 2009年8月24日—8月28日                 | 31[點](../Page/收視點.md "wikilink") | 32[點](../Page/收視點.md "wikilink") | 91%     |
-| 3      | 10—13      | 2009年8月31日—9月3日                  | 33[點](../Page/收視點.md "wikilink") | 34[點](../Page/收視點.md "wikilink") | 91%     |
-| 4      | 14—18      | 2009年9月7日—9月11日                  | 31[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") | 91%     |
-| 5      | 19—23      | 2009年9月14日—9月18日                 | 33[點](../Page/收視點.md "wikilink") | 38[點](../Page/收視點.md "wikilink") | 92%     |
-| 24—25  | 2009年9月19日 | 29[點](../Page/收視點.md "wikilink") | 33[點](../Page/收視點.md "wikilink") | 88%                              |         |
+|        |            |                                                     |                                                     |                                                     |         |
+| ------ | ---------- | --------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------- |
+| **週次** | **集數**     | **日期**                                              | **平均收視**                                            | **最高收視**                                            | **百分比** |
+| 1      | 01—04      | 2009年8月18日—8月21日                                    | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 86%     |
+| 2      | 05—09      | 2009年8月24日—8月28日                                    | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 32[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 3      | 10—13      | 2009年8月31日—9月3日                                     | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 34[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 4      | 14—18      | 2009年9月7日—9月11日                                     | 31[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 91%     |
+| 5      | 19—23      | 2009年9月14日—9月18日                                    | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 38[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 92%     |
+| 24—25  | 2009年9月19日 | 29[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 33[點](https://zh.wikipedia.org/wiki/收視點 "wikilink") | 88%                                                 |         |
 
   - 本劇平均收視31點
 
@@ -1630,10 +1630,10 @@ colspan="3"|[絕代商驕](../Page/絕代商驕.md "wikilink")
 9月7日- |- |align="center" colspan="1"|**上一套：**
 [烈火雄心3](../Page/烈火雄心3.md "wikilink")
 \-8月15日 |align="center"
-colspan="3"|**翡翠台／高清翡翠台第三綫劇集（[2009](../Page/翡翠台電視劇集列表_\(2009年\)#第三線劇集.md "wikilink")）**
+colspan="3"|**翡翠台／高清翡翠台第三綫劇集（[2009](https://zh.wikipedia.org/wiki/翡翠台電視劇集列表_\(2009年\)#第三線劇集 "wikilink")）**
 **古靈精探B**
 8月18日-9月19日 |align="center" colspan="1"|**下一套：**
-[蔡鍔與小鳳仙](../Page/蔡鍔與小鳳仙.md "wikilink")
+[蔡鍔與小鳳仙](https://zh.wikipedia.org/wiki/蔡鍔與小鳳仙 "wikilink")
 9月21日-
 
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")

@@ -1,5 +1,5 @@
 《**ADULT VIDEO**》（，*ADULT
-VIDEO*）是[東京事變的第四張](../Page/東京事變.md "wikilink")[DVD](../Page/DVD.md "wikilink")，跟《ADULT
+VIDEO*）是[東京事變的第四張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，跟《ADULT
 VIDEO Original Sound
 Track》，一起於2006年3月23日發行。發行當週即賣出1.6萬張，總計銷售額3.2萬張，名列2006年年度銷售榜第52位。初回限定為「Digipak紙盒仕樣」。
 
@@ -16,7 +16,7 @@ DJ」也開始接受歌迷線上下載\[2\]。等到3月20日，官方網站特�
 ## 曲目
 
 1.  歌舞伎（，*The Kabuki*）
-      - 收錄於《[大人](../Page/大人_\(東京事變專輯\).md "wikilink")》專輯中
+      - 收錄於《[大人](https://zh.wikipedia.org/wiki/大人_\(東京事變專輯\) "wikilink")》專輯中
 2.  秘密 FOR DJ（，*A Secret (for DJ)*）
       - 收錄於《大人》專輯中
 3.  戀愛幻夢 FOR MUSICIAN（，*Get It Up for Love (for Musician)*）
@@ -188,14 +188,14 @@ ADULT VIDEO</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Soundscan.md" title="wikilink">Soundscan</a>：DVD Top 20</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Soundscan" title="wikilink">Soundscan</a>：DVD Top 20</p></td>
 <td><p>#4[9]</p></td>
 <td><p>13,237</p></td>
 <td><p>#4</p></td>
 <td><p>13,237</p></td>
 </tr>
 <tr class="even">
-<td><p>台灣<a href="../Page/G-Music.md" title="wikilink">G-Music</a>：影音榜</p></td>
+<td><p>台灣<a href="https://zh.wikipedia.org/wiki/G-Music" title="wikilink">G-Music</a>：影音榜</p></td>
 <td><p>#19[10]</p></td>
 <td><p>0.31%</p></td>
 <td><p>#19</p></td>

@@ -2,11 +2,11 @@
 
 ## 概要
 
-本作是[鋼彈之父](../Page/鋼彈.md "wikilink")[富野由悠季所執導的另一部生涯力作](../Page/富野由悠季.md "wikilink")。風格亦與早期剛彈有眾多相似之處。這也是機器人動畫史上第一部加入奇幻風格（中世紀、類似魔力的力量、妖精）的作品。富野在這部作品中所創造的「拜斯頓威爾」世界，也繼續使用於他所寫的後續相關小說作品中。
+本作是[鋼彈之父](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")[富野由悠季所執導的另一部生涯力作](../Page/富野由悠季.md "wikilink")。風格亦與早期剛彈有眾多相似之處。這也是機器人動畫史上第一部加入奇幻風格（中世紀、類似魔力的力量、妖精）的作品。富野在這部作品中所創造的「拜斯頓威爾」世界，也繼續使用於他所寫的後續相關小說作品中。
 
-在電視版之後推出三部[OVA](../Page/OVA.md "wikilink")，敘述主要角色轉生數百年後時空發生的故事。
+在電視版之後推出三部[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，敘述主要角色轉生數百年後時空發生的故事。
 
-初期由於華人地區並未播出本作，致使作品的知名度偏低。直到[超級任天堂遊戲](../Page/超級任天堂.md "wikilink")「[超級機械人大戰EX](../Page/超級機械人大戰EX.md "wikilink")」、「[第四次超級機械人大戰](../Page/第四次超級機械人大戰.md "wikilink")」及「[超級機械人大戰Alpha](../Page/超級機械人大戰Alpha.md "wikilink")」先後有加入本作機體與相關劇情，且遊戲中靈光戰士以極高迴避率、命中率見稱的強勢機體，偏向[擬真系機械人](../Page/擬真系機械人.md "wikilink")。自此本作才透過遊戲得以為華人社會所熟悉。在「[超級機械人大戰UX](../Page/超級機械人大戰UX.md "wikilink")」中與相同世界觀中的[麟光之翼一同參戰](../Page/麟光之翼.md "wikilink")。
+初期由於華人地區並未播出本作，致使作品的知名度偏低。直到[超級任天堂遊戲](../Page/超級任天堂.md "wikilink")「[超級機械人大戰EX](https://zh.wikipedia.org/wiki/超級機械人大戰EX "wikilink")」、「[第四次超級機械人大戰](https://zh.wikipedia.org/wiki/第四次超級機械人大戰 "wikilink")」及「[超級機械人大戰Alpha](https://zh.wikipedia.org/wiki/超級機械人大戰Alpha "wikilink")」先後有加入本作機體與相關劇情，且遊戲中靈光戰士以極高迴避率、命中率見稱的強勢機體，偏向[擬真系機械人](https://zh.wikipedia.org/wiki/擬真系機械人 "wikilink")。自此本作才透過遊戲得以為華人社會所熟悉。在「[超級機械人大戰UX](https://zh.wikipedia.org/wiki/超級機械人大戰UX "wikilink")」中與相同世界觀中的[麟光之翼一同參戰](../Page/麟光之翼.md "wikilink")。
 
 ## 主要用語
 
@@ -250,12 +250,13 @@
 
   - OP「ダンバイン とぶ」 歌：MIO（現・[MIQ](../Page/MIQ.md "wikilink")）
     作詞：[井荻麟](../Page/富野由悠季.md "wikilink")
-    作曲：[網倉一也](../Page/網倉一也.md "wikilink")
-    編曲：[矢野立美](../Page/矢野立美.md "wikilink")
+    作曲：[網倉一也](https://zh.wikipedia.org/wiki/網倉一也 "wikilink")
+    編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink")
   - ED「みえるだろうバイストン・ウェル」 歌：MIO
     作詞：井荻麟 作曲：網倉一也 編曲：矢野立美
-  - 插入歌「」 歌：[小出廣美](../Page/小出廣美.md "wikilink")
-    作詞：[三浦德子](../Page/三浦德子.md "wikilink") 作曲：網倉一也 編曲：矢野立美
+  - 插入歌「」 歌：[小出廣美](https://zh.wikipedia.org/wiki/小出廣美 "wikilink")
+    作詞：[三浦德子](https://zh.wikipedia.org/wiki/三浦德子 "wikilink") 作曲：網倉一也
+    編曲：矢野立美
   - 插入歌「」 歌：小出廣美
     作詞：三浦德子 作曲：網倉一也 編曲：矢野立美
 
@@ -277,31 +278,31 @@
 <td><p>1</p></td>
 <td><p>聖戦士たち</p></td>
 <td><p><a href="../Page/富野由悠季.md" title="wikilink">斧谷稔</a></p></td>
-<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
-<td><p><a href="../Page/湖川友謙.md" title="wikilink">湖川友謙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湖川友謙" title="wikilink">湖川友謙</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>ギブンの館</p></td>
-<td><p><a href="../Page/富田祐弘.md" title="wikilink">富田祐弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富田祐弘" title="wikilink">富田祐弘</a></p></td>
 <td><p>斧谷稔</p></td>
-<td><p><a href="../Page/關田修.md" title="wikilink">關田修</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關田修" title="wikilink">關田修</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>ラース・ワウの脱出</p></td>
-<td><p><a href="../Page/渡邊由自.md" title="wikilink">渡邊由自</a></p></td>
-<td><p><a href="../Page/井內秀治.md" title="wikilink">井內秀治</a></p></td>
-<td><p><a href="../Page/佐々門信芳.md" title="wikilink">佐々門信芳</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊由自" title="wikilink">渡邊由自</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井內秀治" title="wikilink">井內秀治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐々門信芳" title="wikilink">佐々門信芳</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>リムルの苦難</p></td>
 <td><p><a href="../Page/今川泰宏.md" title="wikilink">今川泰宏</a></p></td>
-<td><p><a href="../Page/遠藤榮一.md" title="wikilink">遠藤榮一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/遠藤榮一" title="wikilink">遠藤榮一</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -310,14 +311,14 @@
 <td><p>キーン危うし</p></td>
 <td><p>富田祐弘</p></td>
 <td><p>鈴木行</p></td>
-<td><p><a href="../Page/佐久間信計.md" title="wikilink">佐久間信計</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐久間信計" title="wikilink">佐久間信計</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>月の森の惨劇</p></td>
 <td><p>關田修</p></td>
-<td><p><a href="../Page/篠田章.md" title="wikilink">篠田章</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篠田章" title="wikilink">篠田章</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -333,7 +334,7 @@
 <td><p>8</p></td>
 <td><p>再び、ラース・ワウ</p></td>
 <td><p>井內秀治</p></td>
-<td><p><a href="../Page/金山明博.md" title="wikilink">金山明博</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金山明博" title="wikilink">金山明博</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -342,7 +343,7 @@
 <td><p>天と地と</p></td>
 <td><p>富田祐弘</p></td>
 <td><p>今川泰宏</p></td>
-<td><p><a href="../Page/坂本三郎.md" title="wikilink">坂本三郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂本三郎" title="wikilink">坂本三郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -350,7 +351,7 @@
 <td><p>父と子</p></td>
 <td><p>鈴木行</p></td>
 <td><p>遠藤榮一<br />
-<a href="../Page/大森英敏.md" title="wikilink">大森英敏</a><br />
+<a href="https://zh.wikipedia.org/wiki/大森英敏" title="wikilink">大森英敏</a><br />
 （湖川友謙）</p></td>
 <td></td>
 <td></td>
@@ -417,8 +418,8 @@
 <td><p>18</p></td>
 <td><p>閃光のガラリア</p></td>
 <td><p>井內秀治</p></td>
-<td><p><a href="../Page/稻野義信.md" title="wikilink">秋野洋一</a><br />
-<a href="../Page/矢木正之.md" title="wikilink">矢木正之</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/稻野義信" title="wikilink">秋野洋一</a><br />
+<a href="https://zh.wikipedia.org/wiki/矢木正之" title="wikilink">矢木正之</a><br />
 大森英敏<br />
 遠藤榮一<br />
 （湖川友謙）</p></td>
@@ -430,7 +431,7 @@
 <td><p>聖戦士ショウ</p></td>
 <td><p>富田祐弘</p></td>
 <td><p>今川泰宏</p></td>
-<td><p><a href="../Page/坂本英明.md" title="wikilink">坂本英明</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/坂本英明" title="wikilink">坂本英明</a><br />
 大森英敏<br />
 （湖川友謙）</p></td>
 <td></td>
@@ -463,7 +464,7 @@
 <td><p>23</p></td>
 <td><p>ミュージィの追撃</p></td>
 <td><p>富田祐弘</p></td>
-<td><p><a href="../Page/川手浩次.md" title="wikilink">川手浩次</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川手浩次" title="wikilink">川手浩次</a></p></td>
 <td><p>井內秀治</p></td>
 <td><p>遠藤榮一<br />
 矢木正之<br />
@@ -739,7 +740,7 @@
 
 ## 相關項目
 
-  - [ガーゼィの翼](../Page/ガーゼィの翼.md "wikilink")
+  - [ガーゼィの翼](https://zh.wikipedia.org/wiki/ガーゼィの翼 "wikilink")
   - [麟光之翼](../Page/麟光之翼.md "wikilink")（）
 
 ## 外部連結

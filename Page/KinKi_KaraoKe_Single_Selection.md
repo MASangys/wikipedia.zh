@@ -1,9 +1,9 @@
 **KinKi KaraoKe Single
-Selection**是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](../Page/近畿小子.md "wikilink")1張[單曲精選](../Page/單曲.md "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。於2000年7月19日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
+Selection**是[日本二人組合](../Page/日本.md "wikilink")[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")1張[單曲精選](https://zh.wikipedia.org/wiki/單曲 "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。於2000年7月19日由[傑尼斯娛樂唱片公司發行](../Page/傑尼斯娛樂.md "wikilink")。
 
 ## 解說
 
-本專輯是對於[J-POP來說非常罕有](../Page/J-POP.md "wikilink")，全碟均以除掉歌聲的樂曲為主的[卡拉OK](../Page/卡拉OK.md "wikilink")[專輯](../Page/專輯.md "wikilink")。收錄曲目主要是本專輯發售前兩個月推出，擁有百萬銷量記錄的首張單曲精選專輯『[KinKi
+本專輯是對於[J-POP來說非常罕有](https://zh.wikipedia.org/wiki/J-POP "wikilink")，全碟均以除掉歌聲的樂曲為主的[卡拉OK](../Page/卡拉OK.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。收錄曲目主要是本專輯發售前兩個月推出，擁有百萬銷量記錄的首張單曲精選專輯『[KinKi
 Single
 Selection](../Page/KinKi_Single_Selection.md "wikilink")』的收錄曲，撇除了KinKi
 Kids沒有參與製作的純音樂新曲『Theme of KinKi Kids
@@ -13,7 +13,7 @@ Kids沒有參與製作的純音樂新曲『Theme of KinKi Kids
 由於收錄的歌曲全部都是從該單曲裡的“Instrumental”或者“Backing
 Track”中抽出，並沒有任何為了製作這張專輯而另作新錄的曲目存在。近年除了演歌以外的流行音樂，基本都不會推出純音樂的卡拉OK專輯，所以本專輯在當時的音樂市場上尤為罕見。不過因為正如前述一樣，歌曲的卡拉OK版本早就收錄於各單曲之中，所以樂迷們對本專輯的需要性又不是太高。
 
-封面照片使用了現成照片（其實是拍攝[夏之王者／除了你誰都不愛單曲內頁時的照片](../Page/夏之王者/除了你誰都不愛.md "wikilink")）。因為卡拉OK專輯的關係，售價比一般專輯來得便宜，連[消售稅在內定價](../Page/消售稅.md "wikilink")1,980[日圓](../Page/日圓.md "wikilink")。
+封面照片使用了現成照片（其實是拍攝[夏之王者／除了你誰都不愛單曲內頁時的照片](https://zh.wikipedia.org/wiki/夏之王者/除了你誰都不愛 "wikilink")）。因為卡拉OK專輯的關係，售價比一般專輯來得便宜，連[消售稅在內定價](https://zh.wikipedia.org/wiki/消售稅 "wikilink")1,980[日圓](../Page/日圓.md "wikilink")。
 
 本專輯雖然是一件非常商業性的商品，在Oricon銷量榜上仍有約19,000張的銷量，這是因為還有一些非常忠心的歌迷購入的結果。不過自此之後就再沒有後繼的卡拉OK專輯推出，即使KinKi
 Kids所屬的唱片公司[傑尼斯娛樂的官方網站上亦把這張專輯除名](../Page/傑尼斯娛樂.md "wikilink")，沒有記載在唱片記錄之中。就連在2004年推出第2張單曲精選專輯『[KinKi
@@ -39,59 +39,60 @@ Single Selection』差不多一樣。
       - 編曲：山下達郎
 2.  **被愛不如愛人**（****）
       - ※KinKi
-        Kids二人參與演出的[日本電視台](../Page/日本電視台.md "wikilink")[連續劇](../Page/連續劇.md "wikilink")『我們的勇氣
+        Kids二人參與演出的[日本電視台](../Page/日本電視台.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")『我們的勇氣
         未滿都市』主題曲。
-      - 作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
-      - 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
-      - 和音編排：[岩田雅之](../Page/岩田雅之.md "wikilink")
+      - 作曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")
+      - 編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
+      - 和音編排：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")
 3.  **雲霄飛車羅曼史**（**Jetcoaster Romance；**）
       - ※KinKi
         Kids參與演出的日本[全日空](../Page/全日本空輸.md "wikilink")[航空公司廣告](../Page/航空公司.md "wikilink")『'98
-        Paradise [沖繩](../Page/沖繩.md "wikilink")』主題曲。
+        Paradise [沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")』主題曲。
       - 作曲：山下達郎
-      - 編曲：[船山基紀](../Page/船山基紀.md "wikilink")
+      - 編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 4.  **擁抱全部**（****）
       - ※KinKi Kids參與演出的[富士電視台音樂節目](../Page/富士電視台.md "wikilink")『LOVE
         LOVE我愛你』主題曲。
-      - 作曲：[吉田拓郎](../Page/吉田拓郎.md "wikilink")
-      - 編曲：[武部聰志](../Page/武部聰志.md "wikilink")
+      - 作曲：[吉田拓郎](https://zh.wikipedia.org/wiki/吉田拓郎 "wikilink")
+      - 編曲：[武部聰志](https://zh.wikipedia.org/wiki/武部聰志 "wikilink")
 5.  **青春時代**（****）
-      - ※[堂本剛參與演出的](../Page/堂本剛.md "wikilink")[東京放送](../Page/東京放送.md "wikilink")[連續劇](../Page/連續劇.md "wikilink")『青之時代』主題曲。
-      - 作曲：[canna](../Page/canna.md "wikilink")
-      - 編曲：[新川　博](../Page/新川博.md "wikilink")
+      - ※[堂本剛參與演出的](../Page/堂本剛.md "wikilink")[東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")『青之時代』主題曲。
+      - 作曲：[canna](https://zh.wikipedia.org/wiki/canna "wikilink")
+      - 編曲：[新川　博](https://zh.wikipedia.org/wiki/新川博 "wikilink")
 6.  **Happy Happy Greeting**
       - ※KinKi
         Kids參與演出的[Panasonic廣告](../Page/松下電器.md "wikilink")『數碼攝錄機』主題曲。
       - 作曲：山下達郎
       - 編曲：山下達郎
 7.  **Cinderella Christmas**（****）
-      - 作曲：[谷本　新](../Page/谷本新.md "wikilink")
-      - 編曲：[長岡成貢](../Page/長岡成貢.md "wikilink")
+      - 作曲：[谷本　新](https://zh.wikipedia.org/wiki/谷本新 "wikilink")
+      - 編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
 8.  **不要停止的純真**（****，**PURE**）
-      - ※堂本剛參與演出的[日本電視台](../Page/日本電視台.md "wikilink")[連續劇](../Page/連續劇.md "wikilink")『為了與你的未來～I'll
+      - ※堂本剛參與演出的[日本電視台](../Page/日本電視台.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")『為了與你的未來～I'll
         be back～』主題曲。
       - 作曲：[筒美京平](../Page/筒美京平.md "wikilink")
-      - 編曲：[WACKY KAKI](../Page/WACKY_KAKI.md "wikilink")
+      - 編曲：[WACKY
+        KAKI](https://zh.wikipedia.org/wiki/WACKY_KAKI "wikilink")
 9.  **Flower**（****）
       - ※KinKi
         Kids參與演出的日本[全日空](../Page/全日本空輸.md "wikilink")[航空公司廣告](../Page/航空公司.md "wikilink")『'99
-        Paradise [沖繩](../Page/沖繩.md "wikilink")』主題曲。
-      - 作曲：[HΛL](../Page/HΛL.md "wikilink")、[音妃](../Page/音妃.md "wikilink")
-      - 編曲：[船山基紀](../Page/船山基紀.md "wikilink")
-      - 和音編排：[松下　誠](../Page/松下誠.md "wikilink")
+        Paradise [沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")』主題曲。
+      - 作曲：[HΛL](https://zh.wikipedia.org/wiki/HΛL "wikilink")、[音妃](https://zh.wikipedia.org/wiki/音妃 "wikilink")
+      - 編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
+      - 和音編排：[松下　誠](https://zh.wikipedia.org/wiki/松下誠 "wikilink")
 10. **雨的旋律**（**Melody**）
-      - 作曲：[坂井秀陽](../Page/坂井秀陽.md "wikilink")、[武藤敏史](../Page/武藤敏史.md "wikilink")
-      - 編曲：[有賀啟雄](../Page/有賀啟雄.md "wikilink")
+      - 作曲：[坂井秀陽](https://zh.wikipedia.org/wiki/坂井秀陽 "wikilink")、[武藤敏史](https://zh.wikipedia.org/wiki/武藤敏史 "wikilink")
+      - 編曲：[有賀啟雄](https://zh.wikipedia.org/wiki/有賀啟雄 "wikilink")
 11. **to Heart**
-      - ※堂本剛參與演出的[東京放送](../Page/東京放送.md "wikilink")[連續劇](../Page/連續劇.md "wikilink")『to
+      - ※堂本剛參與演出的[東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")『to
         Heart～至死不渝～』主題曲。
-      - 作曲：[宮崎　步](../Page/宮崎步.md "wikilink")
-      - 編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
+      - 作曲：[宮崎　步](https://zh.wikipedia.org/wiki/宮崎步 "wikilink")
+      - 編曲：[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
 12. **越來越喜歡　越來越愛**（****）
       - ※KinKi Kids參與演出的[富士電視台音樂節目](../Page/富士電視台.md "wikilink")『LOVE
         LOVE我愛你』第2代主題曲。
       - 作曲：[堂本光一](../Page/堂本光一.md "wikilink")
-      - 編曲：[武部聰志](../Page/武部聰志.md "wikilink")
+      - 編曲：[武部聰志](https://zh.wikipedia.org/wiki/武部聰志 "wikilink")
 
 [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
 

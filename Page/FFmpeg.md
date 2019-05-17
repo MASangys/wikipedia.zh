@@ -1,5 +1,5 @@
 **FFmpeg**
-是一個[自由軟體](../Page/自由軟體.md "wikilink")，可以執行音訊和視訊多種格式的錄影、轉檔、串流功能\[1\]，包含了libavcodec——這是一個用於多個專案中音訊和視訊的解碼器函式庫，以及libavformat——一個音訊與視訊格式轉換函式庫。
+是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，可以執行音訊和視訊多種格式的錄影、轉檔、串流功能\[1\]，包含了libavcodec——這是一個用於多個專案中音訊和視訊的解碼器函式庫，以及libavformat——一個音訊與視訊格式轉換函式庫。
 
 「FFmpeg」这个单词中的「FF」指的是「Fast
 Forward（快速前進）」\[2\]。有些新手写信给「FFmpeg」的项目负责人，询问FF是不是代表“Fast
@@ -7,7 +7,7 @@ Free”或者“Fast Fourier”等意思，「FFmpeg」的项目负责人回信�
 original meaning of "FF" in FFmpeg is "Fast Forward"...”
 
 这个项目最初是由[Fabrice
-Bellard发起的](../Page/Fabrice_Bellard.md "wikilink")，而现在是由Michael
+Bellard发起的](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")，而现在是由Michael
 Niedermayer在进行维护。许多FFmpeg的开发者同时也是[MPlayer项目的成员](../Page/MPlayer.md "wikilink")，FFmpeg在MPlayer项目中是被设计为服务器版本进行开发。
 
 2011年3月13日，FFmpeg部分開發人士決定另組，同时制定了一套关于项目继续发展和维护的规则。\[3\]\[4\]
@@ -95,139 +95,153 @@ FFmpeg项目原生的编码器：
 FFmpeg已实现的：
 
   - ITU-T视频标准：[H.261](../Page/H.261.md "wikilink"),\[5\] [H.262/MPEG-2
-    Part 2](../Page/H.262/MPEG-2_Part_2.md "wikilink"),
+    Part
+    2](https://zh.wikipedia.org/wiki/H.262/MPEG-2_Part_2 "wikilink"),
     [H.263](../Page/H.263.md "wikilink")\[6\]和[H.264/MPEG-4
-    AVC](../Page/H.264/MPEG-4_AVC.md "wikilink")\[7\]
+    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")\[7\]
   - ITU-T音频编解码器标准：[G.711](../Page/G.711.md "wikilink") µ-law,
     [G.711](../Page/G.711.md "wikilink") A-law,
-    [G.721](../Page/G.721.md "wikilink")（也叫[G.726](../Page/G.726.md "wikilink")
-    32k）, [G.722](../Page/G.722.md "wikilink"),
-    [G.722.2](../Page/G.722.2.md "wikilink")（也叫AMR-WB）,
-    [G.723](../Page/G.723.md "wikilink")（也叫[G.726](../Page/G.726.md "wikilink")
-    24k和40k）和[G.726](../Page/G.726.md "wikilink")
-  - [ISO](../Page/International_Organization_for_Standardization.md "wikilink")/[IEC](../Page/International_Electrotechnical_Commission.md "wikilink")
-    [MPEG视频标准](../Page/Moving_Picture_Experts_Group.md "wikilink")：[MPEG-1
-    Part 2](../Page/MPEG-1_Part_2.md "wikilink"), [H.262/MPEG-2 Part
-    2](../Page/H.262/MPEG-2_Part_2.md "wikilink"), [MPEG-4 Part
-    2和](../Page/MPEG-4_Part_2.md "wikilink")[H.264/MPEG-4
-    AVC](../Page/H.264/MPEG-4_AVC.md "wikilink")
-  - ISO/IEC MPEG音频标准：[MP1](../Page/MPEG-1_Audio_Layer_I.md "wikilink"),
+    [G.721](https://zh.wikipedia.org/wiki/G.721 "wikilink")（也叫[G.726](https://zh.wikipedia.org/wiki/G.726 "wikilink")
+    32k）, [G.722](https://zh.wikipedia.org/wiki/G.722 "wikilink"),
+    [G.722.2](https://zh.wikipedia.org/wiki/G.722.2 "wikilink")（也叫AMR-WB）,
+    [G.723](https://zh.wikipedia.org/wiki/G.723 "wikilink")（也叫[G.726](https://zh.wikipedia.org/wiki/G.726 "wikilink")
+    24k和40k）和[G.726](https://zh.wikipedia.org/wiki/G.726 "wikilink")
+  - [ISO](https://zh.wikipedia.org/wiki/International_Organization_for_Standardization "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
+    [MPEG视频标准](https://zh.wikipedia.org/wiki/Moving_Picture_Experts_Group "wikilink")：[MPEG-1
+    Part 2](https://zh.wikipedia.org/wiki/MPEG-1_Part_2 "wikilink"),
+    [H.262/MPEG-2 Part
+    2](https://zh.wikipedia.org/wiki/H.262/MPEG-2_Part_2 "wikilink"),
+    [MPEG-4 Part
+    2和](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")[H.264/MPEG-4
+    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")
+  - ISO/IEC
+    MPEG音频标准：[MP1](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_I "wikilink"),
     [MP2](../Page/MPEG-1_Audio_Layer_II.md "wikilink"),
     [MP3](../Page/MP3.md "wikilink"),
-    [AAC](../Page/Advanced_Audio_Coding.md "wikilink"),
-    [HE-AAC和](../Page/High-Efficiency_Advanced_Audio_Coding.md "wikilink")[MPEG-4
-    ALS](../Page/MPEG-4_ALS.md "wikilink")
+    [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink"),
+    [HE-AAC和](https://zh.wikipedia.org/wiki/High-Efficiency_Advanced_Audio_Coding "wikilink")[MPEG-4
+    ALS](https://zh.wikipedia.org/wiki/MPEG-4_ALS "wikilink")
   - ISO/IEC/ITU-T
-    [JPEG图像标准](../Page/Joint_Photographic_Experts_Group.md "wikilink")：[JPEG和](../Page/JPEG.md "wikilink")[JPEG-LS](../Page/JPEG-LS.md "wikilink")
-  - [SMPTE视频标准](../Page/Society_of_Motion_Picture_and_Television_Engineers.md "wikilink")：[VC-1](../Page/VC-1.md "wikilink")（也称作[WMV3](../Page/WMV3.md "wikilink")）,
-    [VC-3](../Page/VC-3.md "wikilink")（也称作AVID
-    [DNxHD](../Page/DNxHD.md "wikilink")）和[DPX图像](../Page/Digital_Picture_Exchange.md "wikilink")
+    [JPEG图像标准](https://zh.wikipedia.org/wiki/Joint_Photographic_Experts_Group "wikilink")：[JPEG和](../Page/JPEG.md "wikilink")[JPEG-LS](https://zh.wikipedia.org/wiki/JPEG-LS "wikilink")
+  - [SMPTE视频标准](https://zh.wikipedia.org/wiki/Society_of_Motion_Picture_and_Television_Engineers "wikilink")：[VC-1](../Page/VC-1.md "wikilink")（也称作[WMV3](https://zh.wikipedia.org/wiki/WMV3 "wikilink")）,
+    [VC-3](https://zh.wikipedia.org/wiki/VC-3 "wikilink")（也称作AVID
+    [DNxHD](https://zh.wikipedia.org/wiki/DNxHD "wikilink")）和[DPX图像](https://zh.wikipedia.org/wiki/Digital_Picture_Exchange "wikilink")
   - SMPTE音频标准：SMPTE 302M
-  - [DVD论坛的相关标准](../Page/DVD论坛.md "wikilink") /
-    [杜比实验室的音频编解码器](../Page/杜比实验室.md "wikilink")：[MLP](../Page/Meridian_Lossless_Packing.md "wikilink")（也称[TrueHD](../Page/TrueHD.md "wikilink")）和[AC-3](../Page/Dolby_Digital.md "wikilink")
-  - [3GPP音频编码器标准](../Page/3GPP.md "wikilink")：[AMR-NB](../Page/AMR-NB.md "wikilink"),
-    [AMR-WB](../Page/AMR-WB.md "wikilink")（也叫G.722.2）
+  - [DVD论坛的相关标准](https://zh.wikipedia.org/wiki/DVD论坛 "wikilink") /
+    [杜比实验室的音频编解码器](https://zh.wikipedia.org/wiki/杜比实验室 "wikilink")：[MLP](https://zh.wikipedia.org/wiki/Meridian_Lossless_Packing "wikilink")（也称[TrueHD](https://zh.wikipedia.org/wiki/TrueHD "wikilink")）和[AC-3](https://zh.wikipedia.org/wiki/Dolby_Digital "wikilink")
+  - [3GPP音频编码器标准](../Page/3GPP.md "wikilink")：[AMR-NB](https://zh.wikipedia.org/wiki/AMR-NB "wikilink"),
+    [AMR-WB](https://zh.wikipedia.org/wiki/AMR-WB "wikilink")（也叫G.722.2）
   - [GSM相关的语音信号编解码器](../Page/GSM.md "wikilink")：[Full
-    Rate](../Page/Full_Rate.md "wikilink")
+    Rate](https://zh.wikipedia.org/wiki/Full_Rate "wikilink")
   - [Windows Media
-    Player相关的视频编解码器](../Page/Windows_Media_Player.md "wikilink")：[Microsoft
-    RLE](../Page/Microsoft_RLE.md "wikilink"), [Microsoft Video
-    1](../Page/Microsoft_Video_1.md "wikilink"),
-    [Cinepak](../Page/Cinepak.md "wikilink"),
-    [Indeo](../Page/Indeo.md "wikilink") 2, 3和5,\[8\] [Motion
-    JPEG](../Page/Motion_JPEG.md "wikilink"), [Microsoft
-    MPEG-4](../Page/Microsoft_MPEG-4.md "wikilink") v1, v2和v3,
-    [WMV](../Page/Windows_Media_Video.md "wikilink")1, WMV2 and
-    WMV3（也称VC-1）
+    Player相关的视频编解码器](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")：[Microsoft
+    RLE](https://zh.wikipedia.org/wiki/Microsoft_RLE "wikilink"),
+    [Microsoft Video
+    1](https://zh.wikipedia.org/wiki/Microsoft_Video_1 "wikilink"),
+    [Cinepak](https://zh.wikipedia.org/wiki/Cinepak "wikilink"),
+    [Indeo](https://zh.wikipedia.org/wiki/Indeo "wikilink") 2, 3和5,\[8\]
+    [Motion JPEG](../Page/Motion_JPEG.md "wikilink"), [Microsoft
+    MPEG-4](https://zh.wikipedia.org/wiki/Microsoft_MPEG-4 "wikilink")
+    v1, v2和v3, [WMV](../Page/Windows_Media_Video.md "wikilink")1, WMV2
+    and WMV3（也称VC-1）
   - [Windows Media
-    Player相关的音频编解码器](../Page/Windows_Media_Player.md "wikilink")：[WMA](../Page/Windows_Media_Audio.md "wikilink")1,
+    Player相关的音频编解码器](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")：[WMA](../Page/Windows_Media_Audio.md "wikilink")1,
     WMA2和WMA Pro
   - [Windows Media
-    Player相关的语音信号编解码器](../Page/Windows_Media_Player.md "wikilink")：WMA
+    Player相关的语音信号编解码器](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")：WMA
     Voice和MS-GSM
   - [RealPlayer相关的视频编解码器](../Page/RealPlayer.md "wikilink")：[RealVideo](../Page/RealVideo.md "wikilink")
     1, 2, 3和4
-  - [RealPlayer相关的音频编解码器](../Page/RealPlayer.md "wikilink")：[RealAudio](../Page/RealAudio.md "wikilink")
+  - [RealPlayer相关的音频编解码器](../Page/RealPlayer.md "wikilink")：[RealAudio](https://zh.wikipedia.org/wiki/RealAudio "wikilink")
     3, 6, 7, 8, 9和10
-  - [RealPlayer相关的语音信号编解码器](../Page/RealPlayer.md "wikilink")：[RealAudio](../Page/RealAudio.md "wikilink")
-    1, 2 ([G.728的衍生](../Page/G.728.md "wikilink")), 4和5
-  - [QuickTime相关的视频编解码器](../Page/QuickTime.md "wikilink")：[Cinepak](../Page/Cinepak.md "wikilink"),
+  - [RealPlayer相关的语音信号编解码器](../Page/RealPlayer.md "wikilink")：[RealAudio](https://zh.wikipedia.org/wiki/RealAudio "wikilink")
+    1, 2 ([G.728的衍生](https://zh.wikipedia.org/wiki/G.728 "wikilink")),
+    4和5
+  - [QuickTime相关的视频编解码器](../Page/QuickTime.md "wikilink")：[Cinepak](https://zh.wikipedia.org/wiki/Cinepak "wikilink"),
     [Motion JPEG和](../Page/Motion_JPEG.md "wikilink")[Sorenson 3
-    Codec](../Page/Sorenson_3_Codec.md "wikilink")
-  - [QuickTime相关的音频编解码器](../Page/QuickTime.md "wikilink")：[QDesign音乐编解码器](../Page/QDesign.md "wikilink")2和[ALAC](../Page/ALAC.md "wikilink")
+    Codec](https://zh.wikipedia.org/wiki/Sorenson_3_Codec "wikilink")
+  - [QuickTime相关的音频编解码器](../Page/QuickTime.md "wikilink")：[QDesign音乐编解码器](https://zh.wikipedia.org/wiki/QDesign "wikilink")2和[ALAC](https://zh.wikipedia.org/wiki/ALAC "wikilink")
   - [Adobe Flash
     Player相关的视频编解码器](../Page/Adobe_Flash_Player.md "wikilink")：[Sorenson
-    3 Codec](../Page/Sorenson_3_Codec.md "wikilink"),
+    3 Codec](https://zh.wikipedia.org/wiki/Sorenson_3_Codec "wikilink"),
     [VP6和](../Page/VP6.md "wikilink")[Flash Video
-    (FLV)](../Page/Sorenson_codec.md "wikilink")
+    (FLV)](https://zh.wikipedia.org/wiki/Sorenson_codec "wikilink")
   - [Adobe Flash
     Player相关的音频编解码器](../Page/Adobe_Flash_Player.md "wikilink")：Adobe
     SWF ADPCM和[Nellymoser
-    Asao](../Page/Nellymoser_Asao_Codec.md "wikilink")
-  - [Xiph.Org](../Page/Xiph.Org.md "wikilink"):
+    Asao](https://zh.wikipedia.org/wiki/Nellymoser_Asao_Codec "wikilink")
+  - [Xiph.Org](https://zh.wikipedia.org/wiki/Xiph.Org "wikilink"):
     [Theora](../Page/Theora.md "wikilink"),
-    [Speex](../Page/Speex.md "wikilink")（通过[libspeex实现](../Page/libspeex.md "wikilink")）,
-    [Vorbis和](../Page/Vorbis.md "wikilink")[FLAC](../Page/FLAC.md "wikilink")
-  - [Sony](../Page/Sony.md "wikilink"):
-    [ATRAC1和](../Page/Adaptive_Transform_Acoustic_Coding.md "wikilink")[ATRAC3](../Page/Adaptive_Transform_Acoustic_Coding.md "wikilink")\[9\]
-  - [NTT](../Page/Nippon_Telegraph_and_Telephone.md "wikilink"):
-    [TwinVQ](../Page/TwinVQ.md "wikilink")
-  - [On2](../Page/On2.md "wikilink"): Duck TrueMotion 1, Duck TrueMotion
-    2, [VP3](../Page/VP3.md "wikilink"),
-    [VP5](../Page/VP5.md "wikilink"),\[10\]
+    [Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")（通过[libspeex实现](https://zh.wikipedia.org/wiki/libspeex "wikilink")）,
+    [Vorbis和](https://zh.wikipedia.org/wiki/Vorbis "wikilink")[FLAC](../Page/FLAC.md "wikilink")
+  - [Sony](https://zh.wikipedia.org/wiki/Sony "wikilink"):
+    [ATRAC1和](https://zh.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding "wikilink")[ATRAC3](https://zh.wikipedia.org/wiki/Adaptive_Transform_Acoustic_Coding "wikilink")\[9\]
+  - [NTT](https://zh.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone "wikilink"):
+    [TwinVQ](https://zh.wikipedia.org/wiki/TwinVQ "wikilink")
+  - [On2](https://zh.wikipedia.org/wiki/On2 "wikilink"): Duck TrueMotion
+    1, Duck TrueMotion 2,
+    [VP3](https://zh.wikipedia.org/wiki/VP3 "wikilink"),
+    [VP5](https://zh.wikipedia.org/wiki/VP5 "wikilink"),\[10\]
     [VP6](../Page/VP6.md "wikilink")\[11\]和[VP8](../Page/VP8.md "wikilink")
-  - [RAD Game Tools](../Page/RAD_Game_Tools.md "wikilink"): [Smacker
-    video和](../Page/Smacker_video.md "wikilink")[Bink
-    video](../Page/Bink_video.md "wikilink")
-  - [Truespeech](../Page/Truespeech.md "wikilink")
-  - [RenderWare](../Page/RenderWare.md "wikilink"): TXD\[12\]
+  - [RAD Game
+    Tools](https://zh.wikipedia.org/wiki/RAD_Game_Tools "wikilink"):
+    [Smacker
+    video和](https://zh.wikipedia.org/wiki/Smacker_video "wikilink")[Bink
+    video](https://zh.wikipedia.org/wiki/Bink_video "wikilink")
+  - [Truespeech](https://zh.wikipedia.org/wiki/Truespeech "wikilink")
+  - [RenderWare](https://zh.wikipedia.org/wiki/RenderWare "wikilink"):
+    TXD\[12\]
 
 The default [MPEG-4](../Page/MPEG-4.md "wikilink") codec used by FFmpegs
-the [FourCC](../Page/FourCC.md "wikilink") of **FMP4**.
+the [FourCC](https://zh.wikipedia.org/wiki/FourCC "wikilink") of
+**FMP4**.
 
 ### 輸出格式
 
-  - [AIFF](../Page/Audio_Interchange_File_Format.md "wikilink")
+  - [AIFF](https://zh.wikipedia.org/wiki/Audio_Interchange_File_Format "wikilink")
 
-  - [ASF](../Page/Advanced_Systems_Format.md "wikilink")
+  - [ASF](https://zh.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")
 
-  - [AVI](../Page/Audio_Video_Interleave.md "wikilink")
+  - [AVI](https://zh.wikipedia.org/wiki/Audio_Video_Interleave "wikilink")
 
   - BFI\[13\]
 
-  - [CAF](../Page/Core_Audio_Format.md "wikilink")
+  - [CAF](https://zh.wikipedia.org/wiki/Core_Audio_Format "wikilink")
 
-  - [FLV](../Page/FLV.md "wikilink")
+  - [FLV](https://zh.wikipedia.org/wiki/FLV "wikilink")
 
   - [GIF](../Page/GIF.md "wikilink")
 
-  - [GXF](../Page/GXF.md "wikilink"), General eXchange Format, SMPTE
-    360M
+  - [GXF](https://zh.wikipedia.org/wiki/GXF "wikilink"), General
+    eXchange Format, SMPTE 360M
 
   - [HLS](../Page/HTTP_Live_Streaming.md "wikilink"), HTTP Live
     Streaming
 
-  - [IFF](../Page/Interchange_File_Format.md "wikilink")\[14\]
+  - [IFF](https://zh.wikipedia.org/wiki/Interchange_File_Format "wikilink")\[14\]
 
   - [ISO base media file
-    format](../Page/ISO_base_media_file_format.md "wikilink")（包括[QuickTime](../Page/QuickTime_File_Format.md "wikilink"),
-    [3GP和](../Page/3GP.md "wikilink")[MP4](../Page/MPEG-4_Part_14.md "wikilink")）
+    format](https://zh.wikipedia.org/wiki/ISO_base_media_file_format "wikilink")（包括[QuickTime](https://zh.wikipedia.org/wiki/QuickTime_File_Format "wikilink"),
+    [3GP和](https://zh.wikipedia.org/wiki/3GP "wikilink")[MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")）
 
   - M2V
 
   - [Matroska](../Page/Matroska.md "wikilink")（包括[WebM](../Page/WebM.md "wikilink")）
 
-  - [Maxis XA](../Page/SimCity_3000.md "wikilink")\[15\]
+  - [Maxis
+    XA](https://zh.wikipedia.org/wiki/SimCity_3000 "wikilink")\[15\]
 
-  - [MPEG-DASH](../Page/Dynamic_Adaptive_Streaming_over_HTTP.md "wikilink")\[16\]
+  - [MPEG-DASH](https://zh.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP "wikilink")\[16\]
 
-  - [MPEG program stream](../Page/MPEG_program_stream.md "wikilink")
+  - [MPEG program
+    stream](https://zh.wikipedia.org/wiki/MPEG_program_stream "wikilink")
 
-  - [MPEG transport stream](../Page/M2T.md "wikilink")（包括
+  - [MPEG transport
+    stream](https://zh.wikipedia.org/wiki/M2T "wikilink")（包括
     [AVCHD](../Page/AVCHD.md "wikilink")）
 
-  - [MXF](../Page/MXF.md "wikilink"), Material eXchange Format, SMPTE
-    377M
+  - [MXF](https://zh.wikipedia.org/wiki/MXF "wikilink"), Material
+    eXchange Format, SMPTE 377M
 
   - MSN Webcam stream\[17\]
 
@@ -235,13 +249,14 @@ the [FourCC](../Page/FourCC.md "wikilink") of **FMP4**.
 
   - [Ogg](../Page/Ogg.md "wikilink")
 
-  - [OMA](../Page/OpenMG_Audio.md "wikilink")\[19\]
+  - [OMA](https://zh.wikipedia.org/wiki/OpenMG_Audio "wikilink")\[19\]
 
-  - [RL2](../Page/Voyeur_\(video_game\).md "wikilink")\[20\]
+  - [RL2](https://zh.wikipedia.org/wiki/Voyeur_\(video_game\) "wikilink")\[20\]
 
   - Segment, for creating segmented video streams
 
-  - [Smooth Streaming](../Page/Smooth_Streaming.md "wikilink")
+  - [Smooth
+    Streaming](https://zh.wikipedia.org/wiki/Smooth_Streaming "wikilink")
 
   - TXD\[21\]
 
@@ -249,28 +264,28 @@ the [FourCC](../Page/FourCC.md "wikilink") of **FMP4**.
 
 ### 协议
 
-  - IETF标准：[TCP](../Page/Transmission_Control_Protocol.md "wikilink"),
-    [UDP](../Page/User_Datagram_Protocol.md "wikilink"),
-    [Gopher](../Page/Gopher_\(protocol\).md "wikilink"),
-    [HTTP](../Page/HTTP.md "wikilink"),
+  - IETF标准：[TCP](https://zh.wikipedia.org/wiki/Transmission_Control_Protocol "wikilink"),
+    [UDP](https://zh.wikipedia.org/wiki/User_Datagram_Protocol "wikilink"),
+    [Gopher](https://zh.wikipedia.org/wiki/Gopher_\(protocol\) "wikilink"),
+    [HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink"),
     [RTP](../Page/实时传输协议.md "wikilink"),
-    [RTSP和](../Page/RTSP.md "wikilink")[SDP](../Page/Session_Description_Protocol.md "wikilink")
+    [RTSP和](https://zh.wikipedia.org/wiki/RTSP "wikilink")[SDP](https://zh.wikipedia.org/wiki/Session_Description_Protocol "wikilink")
   - 苹果公司的相关标准：[HTTP Live
     Streaming](../Page/HTTP_Live_Streaming.md "wikilink")
   - RealMedia的相关标准：RealMedia
-    RTSP/[RDT](../Page/Real_Data_Transport.md "wikilink")
-  - Adobe的相关标准：[RTMP](../Page/Real_Time_Messaging_Protocol.md "wikilink"),
+    RTSP/[RDT](https://zh.wikipedia.org/wiki/Real_Data_Transport "wikilink")
+  - Adobe的相关标准：[RTMP](https://zh.wikipedia.org/wiki/Real_Time_Messaging_Protocol "wikilink"),
     RTMPT（由librtmp实现），RTMPE（由librtmp实现），RTMPTE（由librtmp）和RTMPS（由librtmp实现）
-  - 微软的相关标准：[MMS在TCP上和MMS在HTTP上](../Page/Microsoft_Media_Server.md "wikilink")
+  - 微软的相关标准：[MMS在TCP上和MMS在HTTP上](https://zh.wikipedia.org/wiki/Microsoft_Media_Server "wikilink")
 
 ## 社區內部問題
 
 2011年1月19日，FFmpeg的现任维护者Michael
-Niedermayer在邮件列表上披露，FFmpeg发生了“[政变](../Page/政变.md "wikilink")”，一些开发者占领了官方网站，关闭了其他人的寫入權限。随后政变者宣布FFmpeg
+Niedermayer在邮件列表上披露，FFmpeg发生了“[政变](https://zh.wikipedia.org/wiki/政变 "wikilink")”，一些开发者占领了官方网站，关闭了其他人的寫入權限。随后政变者宣布FFmpeg
 “建立新政权”，维护任务将由他们接手，宣称只有维护团队才能拥有主源码库的寫入權限。
 
 “新内阁”成员之一的Diego
-Biurrun解释了他们的行动，称“政變”是迫不得已，表示他们原本想联络每一个開發者，但沒成功，因为不是每个人都在[IRC上](../Page/IRC.md "wikilink")，或者能及时回[电话](../Page/电话.md "wikilink")、[邮件或](../Page/邮件.md "wikilink")[短信](../Page/短信.md "wikilink")。“革命”的原因是为了统一，FFmpeg社区分裂的情况严重到他们已经看不下去了。他们期望FFmpeg项目能建立一个健康而友好的开发环境。\[22\]
+Biurrun解释了他们的行动，称“政變”是迫不得已，表示他们原本想联络每一个開發者，但沒成功，因为不是每个人都在[IRC上](../Page/IRC.md "wikilink")，或者能及时回[电话](../Page/电话.md "wikilink")、[邮件或](https://zh.wikipedia.org/wiki/邮件 "wikilink")[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")。“革命”的原因是为了统一，FFmpeg社区分裂的情况严重到他们已经看不下去了。他们期望FFmpeg项目能建立一个健康而友好的开发环境。\[22\]
 
 隨後Fabrice
 Bellard等人於2011年3月13日跳出去開新專案，稱作Libav，Libav裡面每位成員的管理權限縮更小（至少不能任意關閉其他人更改程式碼權限）。而Debian血統也響應，宣布2012年要將ffmpeg指令改成avconv\[23\]。
@@ -279,7 +294,7 @@ Libav跳槽之後有一定程度上更改FFmpeg的指令\[24\]。
 
 ## Libav/FFmpeg版权
 
-由于Libav、FFmpeg是在[LGPL](../Page/LGPL.md "wikilink")、[GPL下发布的](../Page/GPL.md "wikilink")（如果使用了其中一些使用GPL协议发布的模块则必须使用GPL协议），任何人都可以在遵守协议的情况下自由使用。目前有很多播放软件都使用了Libav、FFmpeg的代码，但它们并没有遵守LGPL，GPL协议，没有公开任何源代码。Libav、FFmpeg社區便將這些違反協議的公司、組織、個人的網址貼在“恥辱大廳”（又叫“恥辱柱”）上，并與這些公司/組織/個人商討如何解決版權爭議。\[25\]
+由于Libav、FFmpeg是在[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")、[GPL下发布的](https://zh.wikipedia.org/wiki/GPL "wikilink")（如果使用了其中一些使用GPL协议发布的模块则必须使用GPL协议），任何人都可以在遵守协议的情况下自由使用。目前有很多播放软件都使用了Libav、FFmpeg的代码，但它们并没有遵守LGPL，GPL协议，没有公开任何源代码。Libav、FFmpeg社區便將這些違反協議的公司、組織、個人的網址貼在“恥辱大廳”（又叫“恥辱柱”）上，并與這些公司/組織/個人商討如何解決版權爭議。\[25\]
 
 ## 參考資料
 

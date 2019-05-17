@@ -1,31 +1,33 @@
 [Acekard2guts.jpg](https://zh.wikipedia.org/wiki/File:Acekard2guts.jpg "fig:Acekard2guts.jpg")
 **Revolution For
-DS**（簡稱**R4**、**R4DS**），為[任天堂DS平台上的一個很受玩家歡迎的](../Page/任天堂DS.md "wikilink")[燒錄卡](../Page/燒錄卡.md "wikilink")。
+DS**（簡稱**R4**、**R4DS**），為[任天堂DS平台上的一個很受玩家歡迎的](../Page/任天堂DS.md "wikilink")[燒錄卡](https://zh.wikipedia.org/wiki/燒錄卡 "wikilink")。
 
 ## 功能
 
-R4是一種用於 [NDS](../Page/NDS.md "wikilink") 的燒錄卡，不設內置記憶體，只能插入
+R4是一種用於 [NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")
+的燒錄卡，不設內置記憶體，只能插入
 [MicroSD](../Page/MicroSD.md "wikilink")
-卡作儲存[遊戲](../Page/遊戲.md "wikilink")、[音樂](../Page/音樂.md "wikilink")、[圖片等檔案之用](../Page/圖片.md "wikilink")。而配合
-[Moonshell](../Page/Moonshell.md "wikilink")
-更能聽[音樂](../Page/音樂.md "wikilink")、看[圖片和](../Page/圖片.md "wikilink")[影片](../Page/影片.md "wikilink")。是用
+卡作儲存[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[圖片等檔案之用](https://zh.wikipedia.org/wiki/圖片 "wikilink")。而配合
+[Moonshell](https://zh.wikipedia.org/wiki/Moonshell "wikilink")
+更能聽[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、看[圖片和](https://zh.wikipedia.org/wiki/圖片 "wikilink")[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")。是用
 [MicroSD](../Page/MicroSD.md "wikilink")
-作為記憶體，亦支援[金手指](../Page/金手指.md "wikilink")。推出初期時它們的外觀與底版相同，連錯誤信息亦是如此。這兩張燒錄卡也可以配合
+作為記憶體，亦支援[金手指](https://zh.wikipedia.org/wiki/金手指 "wikilink")。推出初期時它們的外觀與底版相同，連錯誤信息亦是如此。這兩張燒錄卡也可以配合
 [Nintendo Wi-Fi
-Connection](../Page/Nintendo_Wi-Fi_Connection.md "wikilink")(NWC) ，亦可以透過
-[Moonshell](../Page/Moonshell.md "wikilink")
-播放[音樂](../Page/音樂.md "wikilink")、[影片](../Page/影片.md "wikilink")、[電子書](../Page/電子書.md "wikilink")、[圖片等](../Page/圖片.md "wikilink")[媒體](../Page/媒體.md "wikilink")。R4
-的 v1.14 [內核支援所有](../Page/內核.md "wikilink") Download Play。它現在都不能支援較大容量的
-[SDHC](../Page/SDHC.md "wikilink") (Secure Digital High Capacity)，是因為
-[SDHC](../Page/SDHC.md "wikilink") 卡採用了新規格，因此不能用於以往使用 SD卡的設備。只可以用在標有
-SDHC 標記的設備上使用。我們可以在 R4 上運行 4[GB](../Page/GB.md "wikilink") 的
+Connection](https://zh.wikipedia.org/wiki/Nintendo_Wi-Fi_Connection "wikilink")(NWC)
+，亦可以透過 [Moonshell](https://zh.wikipedia.org/wiki/Moonshell "wikilink")
+播放[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、[電子書](../Page/電子書.md "wikilink")、[圖片等](https://zh.wikipedia.org/wiki/圖片 "wikilink")[媒體](https://zh.wikipedia.org/wiki/媒體 "wikilink")。R4
+的 v1.14 [內核支援所有](https://zh.wikipedia.org/wiki/內核 "wikilink") Download
+Play。它現在都不能支援較大容量的 [SDHC](../Page/SDHC.md "wikilink") (Secure Digital
+High Capacity)，是因為 [SDHC](../Page/SDHC.md "wikilink") 卡採用了新規格，因此不能用於以往使用
+SD卡的設備。只可以用在標有 SDHC 標記的設備上使用。我們可以在 R4 上運行
+4[GB](https://zh.wikipedia.org/wiki/GB "wikilink") 的
 [MicroSD](../Page/MicroSD.md "wikilink")，但在運行遊戲時會出現不穩定的情況。最近推出了 R4
 [SDHC](../Page/SDHC.md "wikilink") ，可以支援
 [SDHC](../Page/SDHC.md "wikilink") 。
 
 ## 简介
 
-R4是一種用於[NDS的燒錄卡](../Page/NDS.md "wikilink")，不設內置記憶體，只能插入[MicroSD卡作儲存](../Page/MicroSD.md "wikilink")[遊戲](../Page/遊戲.md "wikilink")、[音樂](../Page/音樂.md "wikilink")、[圖片等](../Page/圖片.md "wikilink")[檔案之用](../Page/檔案.md "wikilink")，支援[金手指](../Page/金手指.md "wikilink")。推出初期時它們的外觀與底版相同，連錯誤信息亦是如此。後來，R4改了底版設計，是為「牛屎卡」，用料下降成本，自然有人表示M3
+R4是一種用於[NDS的燒錄卡](https://zh.wikipedia.org/wiki/NDS "wikilink")，不設內置記憶體，只能插入[MicroSD卡作儲存](../Page/MicroSD.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[圖片等](https://zh.wikipedia.org/wiki/圖片 "wikilink")[檔案之用](../Page/檔案.md "wikilink")，支援[金手指](https://zh.wikipedia.org/wiki/金手指 "wikilink")。推出初期時它們的外觀與底版相同，連錯誤信息亦是如此。後來，R4改了底版設計，是為「牛屎卡」，用料下降成本，自然有人表示M3
 Simply比R4好。到了2007年9月，官方發佈新外殼和底版，但仍是直插[MicroSD卡](../Page/MicroSD.md "wikilink")，除了改善彈簧易斷問題，外觀改善了一點。
 
 ## 侵权争议
@@ -46,11 +48,11 @@ Simply比R4好。到了2007年9月，官方發佈新外殼和底版，但仍是�
 
 ## 後續產品
 
-**R4i-sdhc**，為任天堂[NDS](../Page/NDS.md "wikilink")、[DSi](../Page/DSi.md "wikilink")、[3DS平台上的一個很受玩家歡迎的燒錄卡](../Page/3DS.md "wikilink")。
+**R4i-sdhc**，為任天堂[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[DSi](https://zh.wikipedia.org/wiki/DSi "wikilink")、[3DS平台上的一個很受玩家歡迎的燒錄卡](https://zh.wikipedia.org/wiki/3DS "wikilink")。
 
 ## 參見
 
-  - [燒錄卡](../Page/燒錄卡.md "wikilink")
+  - [燒錄卡](https://zh.wikipedia.org/wiki/燒錄卡 "wikilink")
 
 ## 參考資料
 

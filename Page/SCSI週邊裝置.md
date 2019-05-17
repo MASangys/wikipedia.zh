@@ -11,15 +11,16 @@ o 04h - 一次寫入裝置(write-once device)
 o 05h - 光碟機(CDROM device)
 o 06h - 掃描器(scanner device)
 o 07h - 光學可讀寫裝置（optical memory
-device，像一些[CD-RAM](../Page/CD-RAM.md "wikilink")）
+device，像一些[CD-RAM](https://zh.wikipedia.org/wiki/CD-RAM "wikilink")）
 o 08h - 多媒體點唱機（medium Changer
 投幣式點唱機<span style="text-decoration: underline;">jukeboxes</span>）
 o 09h - 通訊裝置(communications device)
 o 0Ah-0Bh - defined by ASC IT8 (Graphic arts pre-press devices)
 o 0Ch - 磁碟陣列控制裝置（Storage array controller
 device，像[RAID](../Page/RAID.md "wikilink")）
-o 0Dh - [機殼管理裝置](../Page/機殼管理裝置.md "wikilink")(Enclosure services
-device)
+o 0Dh -
+[機殼管理裝置](https://zh.wikipedia.org/wiki/機殼管理裝置 "wikilink")(Enclosure
+services device)
 o 0Eh - Simplified direct-access device (e.g., magnetic disk)
 o 0Fh - Optical card reader/writer device
 o 10h - Reserved for bridging expanders

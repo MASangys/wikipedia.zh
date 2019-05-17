@@ -1,4 +1,4 @@
-"*YA-KYIM*"，日本女子[R\&B](../Page/節奏藍調.md "wikilink")、[hip
+"*YA-KYIM*"，日本女子[R\&B](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[hip
 hop團體](../Page/嘻哈.md "wikilink")。2002年成立。2005年在[Victor
 Entertainment發行首張單曲](../Page/勝利娛樂.md "wikilink")。2008年5月轉到[日本華納唱片](../Page/日本華納音樂.md "wikilink")。
 
@@ -6,7 +6,7 @@ Entertainment發行首張單曲](../Page/勝利娛樂.md "wikilink")。2008年5�
 
   - ALISA（Main Vol.）
   - YURIE（Vol.）
-  - MIKU（[MC.](../Page/MC_\(音樂\).md "wikilink")）
+  - MIKU（[MC.](https://zh.wikipedia.org/wiki/MC_\(音樂\) "wikilink")）
 
 ## 經歷
 
@@ -41,7 +41,8 @@ x beauty」的時候，她們大幅改變穿著，展現成熟性感風格。同
     4.  Clap 'n Clap（remix）
     5.  Elec-Trick (Original Instrument)
 4.  BEAUTY×BEAUTY（2006年11月1日）
-    1.  beauty × beauty（[索尼愛立信](../Page/索尼愛立信.md "wikilink")「W43S」手機廣告歌）
+    1.  beauty ×
+        beauty（[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")「W43S」手機廣告歌）
     2.  I'm proud I'm me
 5.  Superstar（2007年2月7日）
     1.  Superstar
@@ -50,7 +51,7 @@ x beauty」的時候，她們大幅改變穿著，展現成熟性感風格。同
     4.  Superstar (Instrumental)
     5.  Superstar (Bonus Beats)
 6.  Super☆Looper（2008年5月28日）
-    1.  Super☆Looper（[朝日電視節目](../Page/朝日電視.md "wikilink")「[你不是犯人吧？](../Page/你不是犯人吧？.md "wikilink")」主題歌、[中京電視台節目](../Page/中京電視台.md "wikilink")「」片尾曲）
+    1.  Super☆Looper（[朝日電視節目](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")「[你不是犯人吧？](../Page/你不是犯人吧？.md "wikilink")」主題歌、[中京電視台節目](../Page/中京電視台.md "wikilink")「」片尾曲）
     2.  “新”呼吸
     3.  Can’t Help But Wait～あなたに逢いたくて
     4.  Super☆Looper（instrumental）

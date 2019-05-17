@@ -1,24 +1,25 @@
 **GLAY**（中文譯名：**灰色**），[日本著名的](../Page/日本.md "wikilink")4人組搖滾樂團。於1988年組成，1993年底被[X
-JAPAN團長](../Page/X_JAPAN.md "wikilink")[YOSHIKI發掘](../Page/YOSHIKI.md "wikilink")，簽下他們並為其統籌出道計畫\[1\]。自1994年正式出道後創作出大量受歡迎的[流行歌曲](../Page/Pop音樂.md "wikilink")，並對1990年代日本[搖滾音樂有所影響](../Page/搖滾音樂.md "wikilink")。
+JAPAN團長](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI發掘](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，簽下他們並為其統籌出道計畫\[1\]。自1994年正式出道後創作出大量受歡迎的[流行歌曲](https://zh.wikipedia.org/wiki/Pop音樂 "wikilink")，並對1990年代日本[搖滾音樂有所影響](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")。
 
 出道至今締造出8張百萬單曲：[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")、[HOWEVER](../Page/HOWEVER.md "wikilink")、[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")、[SOUL
 LOVE](../Page/SOUL_LOVE.md "wikilink")、[BE WITH
 YOU](../Page/BE_WITH_YOU.md "wikilink")、[Winter,again](../Page/Winter,again.md "wikilink")、[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")、[迷惑/SPECIAL
-THANKS](../Page/迷惑/SPECIAL_THANKS.md "wikilink")（[日本唱片業協會紀錄認定](../Page/日本唱片業協會.md "wikilink")），5張百萬專輯：[BELOVED](../Page/BELOVED_\(GLAY原創專輯\).md "wikilink")、[REVIEW-BEST
+THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")（[日本唱片業協會紀錄認定](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")），5張百萬專輯：[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")、[REVIEW-BEST
 OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")、[pure
-soul](../Page/pure_soul.md "wikilink")、[HEAVY
-GAUGE](../Page/HEAVY_GAUGE_\(GLAY\).md "wikilink")、[DRIVE-GLAY complete
-BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮獲最多百萬單曲的紀錄中，GLAY位居第4名（[ORICON紀錄認定](../Page/ORICON.md "wikilink")，不包含『口唇』、『不是這裡，要往哪裡』）。
+soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")、[HEAVY
+GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")、[DRIVE-GLAY
+complete
+BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮獲最多百萬單曲的紀錄中，GLAY位居第4名（[ORICON紀錄認定](https://zh.wikipedia.org/wiki/ORICON "wikilink")，不包含『口唇』、『不是這裡，要往哪裡』）。
 
 ## 成員
 
 [MTV_VMAJ_2014_Glay.jpg](https://zh.wikipedia.org/wiki/File:MTV_VMAJ_2014_Glay.jpg "fig:MTV_VMAJ_2014_Glay.jpg")
 
-  - [TERU](../Page/TERU.md "wikilink")（主唱）：1971年6月8日－O型。
-  - [TAKURO](../Page/TAKURO.md "wikilink")（吉他手 &
+  - [TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")（主唱）：1971年6月8日－O型。
+  - [TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")（吉他手 &
     鋼琴）：1971年5月26日－O型。GLAY有九成的歌曲的作詞、作曲都由他擔綱。
-  - [HISASHI](../Page/HISASHI.md "wikilink")（吉他手）：1972年2月2日－O型。
-  - [JIRO](../Page/JIRO.md "wikilink")（貝斯手）：1972年10月17日－A型。
+  - [HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")（吉他手）：1972年2月2日－O型。
+  - [JIRO](https://zh.wikipedia.org/wiki/JIRO "wikilink")（貝斯手）：1972年10月17日－A型。
 
 除了HISASHI以外都是從[北海道](../Page/北海道.md "wikilink")[函館市出身](../Page/函館市.md "wikilink")。HISASHI則出身於[青森縣](../Page/青森縣.md "wikilink")[弘前市](../Page/弘前市.md "wikilink")
 
@@ -71,13 +72,13 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="odd">
 <td><p><small>4th</small></p></td>
 <td><p>1995年1月25日</p></td>
-<td><p><a href="../Page/Freeze_My_Love.md" title="wikilink">Freeze My Love</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Freeze_My_Love" title="wikilink">Freeze My Love</a></p></td>
 <td><p><small>8cmCD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>5th</small></p></td>
 <td><p>1995年5月17日</p></td>
-<td><p><a href="../Page/永遠的兩個人…/GONE_WITH_THE_WIND.md" title="wikilink">永遠的兩個人…/GONE WITH THE WIND</a>（ずっと2人で…/GONE WITH THE WIND）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND" title="wikilink">永遠的兩個人…/GONE WITH THE WIND</a>（ずっと2人で…/GONE WITH THE WIND）</p></td>
 <td><p><small>8cmCD</small></p></td>
 </tr>
 <tr class="odd">
@@ -89,7 +90,7 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="even">
 <td><p><small>7th</small></p></td>
 <td><p>1995年11月8日</p></td>
-<td><p><a href="../Page/生存的勇氣.md" title="wikilink">生存的勇氣</a>（生きてく強さ）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/生存的勇氣" title="wikilink">生存的勇氣</a>（生きてく強さ）</p></td>
 <td><p><small>8cmCD</small></p></td>
 </tr>
 <tr class="odd">
@@ -107,7 +108,7 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="odd">
 <td><p><small>10th</small></p></td>
 <td><p>1996年11月11日</p></td>
-<td><p><a href="../Page/a_Boy〜一直無法忘懷〜.md" title="wikilink">a Boy〜一直無法忘懷〜</a>（a Boy〜ずっと忘れない〜）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜" title="wikilink">a Boy〜一直無法忘懷〜</a>（a Boy〜ずっと忘れない〜）</p></td>
 <td><p><small>8cmCD</small></p></td>
 </tr>
 <tr class="even">
@@ -167,7 +168,7 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="odd">
 <td><p><small>20th</small></p></td>
 <td><p>2000年8月23日</p></td>
-<td><p><a href="../Page/迷惑/SPECIAL_THANKS.md" title="wikilink">迷惑/SPECIAL THANKS</a>（とまどい/SPECIAL THANKS）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS" title="wikilink">迷惑/SPECIAL THANKS</a>（とまどい/SPECIAL THANKS）</p></td>
 <td><p><small>12cmCD</small></p></td>
 </tr>
 <tr class="even">
@@ -209,14 +210,14 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="even">
 <td><p><small>27th</small></p></td>
 <td><p>2002年7月31日</p></td>
-<td><p><a href="../Page/逢いたい気持ち.md" title="wikilink">逢いたい気持ち</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逢いたい気持ち" title="wikilink">逢いたい気持ち</a></p></td>
 <td><p><small>12cmCD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>28th</small></p></td>
 <td><p>2003年10月16日</p></td>
-<td><p><a href="../Page/BEAUTIFUL_DREAMER/STREET_LIFE.md" title="wikilink">BEAUTIFUL DREAMER/STREET LIFE</a></p></td>
-<td><p><small>12cmCD（<a href="../Page/Copy_Control_CD.md" title="wikilink">CCCD</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEAUTIFUL_DREAMER/STREET_LIFE" title="wikilink">BEAUTIFUL DREAMER/STREET LIFE</a></p></td>
+<td><p><small>12cmCD（<a href="https://zh.wikipedia.org/wiki/Copy_Control_CD" title="wikilink">CCCD</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>29th</small></p></td>
@@ -227,7 +228,7 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="odd">
 <td><p><small>30th</small></p></td>
 <td><p>2004年5月19日</p></td>
-<td><p><a href="../Page/天使的贈禮/超越巔峰，靈魂無限.md" title="wikilink">天使的贈禮/超越巔峰，靈魂無限</a>（天使のわけまえ/ピーク果てしなく ソウル限りなく）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天使的贈禮/超越巔峰，靈魂無限" title="wikilink">天使的贈禮/超越巔峰，靈魂無限</a>（天使のわけまえ/ピーク果てしなく ソウル限りなく）</p></td>
 <td><p><small>12cmCD</small></p></td>
 </tr>
 <tr class="even">
@@ -251,7 +252,7 @@ BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮
 <tr class="odd">
 <td><p><small>34th</small></p></td>
 <td><p>2006年9月13日</p></td>
-<td><p><a href="../Page/夏音/異夢_〜THOUSAND_DREAMS〜.md" title="wikilink">夏音/異夢 〜THOUSAND DREAMS〜</a>（夏音/変な夢〜THOUSAND DREAMS〜）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夏音/異夢_〜THOUSAND_DREAMS〜" title="wikilink">夏音/異夢 〜THOUSAND DREAMS〜</a>（夏音/変な夢〜THOUSAND DREAMS〜）</p></td>
 <td><p><small>12cmCD</small></p></td>
 </tr>
 <tr class="even">
@@ -284,7 +285,7 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 <tr class="even">
 <td><p><small>39th</small></p></td>
 <td><p>2008年9月10日</p></td>
-<td><p><a href="../Page/紅與黑的MATADORA/尋找I_LOVE_YOU.md" title="wikilink">紅與黑的MATADORA/尋找I LOVE YOU</a>（紅と黒のMATADORA/I LOVE YOUをさがしてる）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅與黑的MATADORA/尋找I_LOVE_YOU" title="wikilink">紅與黑的MATADORA/尋找I LOVE YOU</a>（紅と黒のMATADORA/I LOVE YOUをさがしてる）</p></td>
 <td><p><small>12cmCD</small></p></td>
 </tr>
 <tr class="odd">
@@ -317,7 +318,7 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 <tr class="odd">
 <td><p><small>44th</small></p></td>
 <td><p>2011年11月16日</p></td>
-<td><p><a href="../Page/My_Private_&quot;Jealousy&quot;.md" title="wikilink">My Private "Jealousy"</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/My_Private_&quot;Jealousy&quot;" title="wikilink">My Private "Jealousy"</a></p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
@@ -352,28 +353,28 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 <tr class="even">
 <td><p><small>49th</small></p></td>
 <td><p>2013年11月27日</p></td>
-<td><p><a href="../Page/DIAMOND_SKIN/彩虹口袋/CRAZY_DANCE.md" title="wikilink">DIAMOND SKIN/彩虹口袋/CRAZY DANCE</a>（DIAMOND SKIN/虹のポケット/CRAZY DANCE）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIAMOND_SKIN/彩虹口袋/CRAZY_DANCE" title="wikilink">DIAMOND SKIN/彩虹口袋/CRAZY DANCE</a>（DIAMOND SKIN/虹のポケット/CRAZY DANCE）</p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>50th</small></p></td>
 <td><p>2014年7月9日</p></td>
-<td><p><a href="../Page/BLEEZE〜_G4・III_〜.md" title="wikilink">BLEEZE〜 G4・III 〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BLEEZE〜_G4・III_〜" title="wikilink">BLEEZE〜 G4・III 〜</a></p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>51st</small></p></td>
 <td><p>2014年10月15日</p></td>
-<td><p><a href="../Page/百花繚亂／奔跑吧！未來.md" title="wikilink">百花繚亂／奔跑吧！未來</a>（百花繚乱/疾走れ!ミライ）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/百花繚亂／奔跑吧！未來" title="wikilink">百花繚亂／奔跑吧！未來</a>（百花繚乱/疾走れ!ミライ）</p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>52nd</small></p></td>
 <td><p>2015年5月25日</p></td>
-<td><p><a href="../Page/HEROES／微熱Ⓐgirl_Summer／織錦〜so_far_and_yet_so_close〜.md" title="wikilink">HEROES／微熱Ⓐgirl Summer／織錦〜so far and yet so close〜</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/HEROES／微熱Ⓐgirl_Summer／織錦〜so_far_and_yet_so_close〜" title="wikilink">HEROES／微熱Ⓐgirl Summer／織錦〜so far and yet so close〜</a><br />
 （HEROES/微熱Ⓐgirlサマー/つづれ織り〜so far and yet so close〜）</p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
@@ -381,7 +382,7 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 <tr class="even">
 <td><p><small>53rd</small></p></td>
 <td><p>2016年1月27日</p></td>
-<td><p><a href="../Page/G4・IV.md" title="wikilink">G4・IV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/G4・IV" title="wikilink">G4・IV</a></p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
@@ -413,7 +414,7 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>2005年7月20日</p></td>
-<td><p><a href="../Page/SCREAM_(GLAY×EXILE).md" title="wikilink">SCREAM</a>（GLAY×<a href="../Page/EXILE.md" title="wikilink">EXILE</a>）</p></td>
+<td><p><a href="../Page/SCREAM_(GLAY×EXILE).md" title="wikilink">SCREAM</a>（GLAY×<a href="https://zh.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a>）</p></td>
 <td><p><small>12cmCD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>
 <tr class="odd">
@@ -427,11 +428,11 @@ CD+DVD</small></p></td>
 
 #### 影像單曲
 
-|                      |                    |                                                            |                                                 |
-| -------------------- | ------------------ | ---------------------------------------------------------- | ----------------------------------------------- |
-|                      | <small>發售日</small> | <small>歌名</small>                                          | <small>規格</small>                               |
-| <small>錄影帶單曲</small> | 1999年5月19日         | [survival](../Page/survival_\(GLAY\).md "wikilink")（サバイバル） | <small>[VHS](../Page/VHS.md "wikilink")</small> |
-| <small>DVD單曲</small> | 2003年3月5日          | [いつか](../Page/いつか_\(GLAY\).md "wikilink")                  | <small>DVD</small>                              |
+|                      |                    |                                                                               |                                                 |
+| -------------------- | ------------------ | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+|                      | <small>發售日</small> | <small>歌名</small>                                                             | <small>規格</small>                               |
+| <small>錄影帶單曲</small> | 1999年5月19日         | [survival](https://zh.wikipedia.org/wiki/survival_\(GLAY\) "wikilink")（サバイバル） | <small>[VHS](../Page/VHS.md "wikilink")</small> |
+| <small>DVD單曲</small> | 2003年3月5日          | [いつか](https://zh.wikipedia.org/wiki/いつか_\(GLAY\) "wikilink")                  | <small>DVD</small>                              |
 
 #### 數位下載單曲
 
@@ -443,24 +444,24 @@ CD+DVD</small></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年4月16日</p></td>
-<td><p><strong><a href="../Page/STARLESS_NIGHT/-VENUS/SORRY_LOVE_(HIGHCOMMUNICATIONS_2007-2008_Live_Ver.).md" title="wikilink">STARLESS NIGHT／-VENUS／<br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/STARLESS_NIGHT/-VENUS/SORRY_LOVE_(HIGHCOMMUNICATIONS_2007-2008_Live_Ver.)" title="wikilink">STARLESS NIGHT／-VENUS／<br />
 SORRY LOVE (2007-2008 Live Ver.)</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年2月24日</p></td>
-<td><p><strong><a href="../Page/LET_ME_BE_Live_Ver._2009-2010_at_makuhari_messe.md" title="wikilink">LET ME BE Live Ver. 2009-2010 at makuhari messe</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/LET_ME_BE_Live_Ver._2009-2010_at_makuhari_messe" title="wikilink">LET ME BE Live Ver. 2009-2010 at makuhari messe</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年4月1日</p></td>
-<td><p><strong><a href="../Page/Apologize_(GLAY).md" title="wikilink">Apologize</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Apologize_(GLAY)" title="wikilink">Apologize</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年5月5日</p></td>
-<td><p><strong><a href="../Page/Thank_you_for_your_love.md" title="wikilink">Thank you for your love</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Thank_you_for_your_love" title="wikilink">Thank you for your love</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年5月8日</p></td>
-<td><p><strong><a href="../Page/Eternally_(GLAY).md" title="wikilink">Eternally</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Eternally_(GLAY)" title="wikilink">Eternally</a></strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -480,62 +481,62 @@ SORRY LOVE (2007-2008 Live Ver.)</a></strong></p></td>
 <tr class="even">
 <td><p><small>獨立時期</small></p></td>
 <td><p>1994年5月25日</p></td>
-<td><p><a href="../Page/灰與鑽石_(GLAY).md" title="wikilink">灰與鑽石</a>（灰とダイヤモンド）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/灰與鑽石_(GLAY)" title="wikilink">灰與鑽石</a>（灰とダイヤモンド）</p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>1st</small></p></td>
 <td><p>1995年3月1日</p></td>
-<td><p><a href="../Page/SPEED_POP.md" title="wikilink">SPEED POP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SPEED_POP" title="wikilink">SPEED POP</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>2nd</small></p></td>
 <td><p>1996年2月7日</p></td>
-<td><p><a href="../Page/BEAT_out!.md" title="wikilink">BEAT out!</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BEAT_out!" title="wikilink">BEAT out!</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>3rd</small></p></td>
 <td><p>1996年11月18日</p></td>
-<td><p><a href="../Page/BELOVED_(GLAY原創專輯).md" title="wikilink">BELOVED</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BELOVED_(GLAY原創專輯)" title="wikilink">BELOVED</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>4th</small></p></td>
 <td><p>1998年7月29日</p></td>
-<td><p><a href="../Page/pure_soul.md" title="wikilink">pure soul</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/pure_soul" title="wikilink">pure soul</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>5th</small></p></td>
 <td><p>1999年10月20日</p></td>
-<td><p><a href="../Page/HEAVY_GAUGE_(GLAY).md" title="wikilink">HEAVY GAUGE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HEAVY_GAUGE_(GLAY)" title="wikilink">HEAVY GAUGE</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>6th</small></p></td>
 <td><p>2001年11月28日</p></td>
-<td><p><a href="../Page/ONE_LOVE_(GLAY).md" title="wikilink">ONE LOVE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_LOVE_(GLAY)" title="wikilink">ONE LOVE</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>7th</small></p></td>
 <td><p>2002年9月19日</p></td>
-<td><p><a href="../Page/UNITY_ROOTS_&amp;_FAMILY,AWAY.md" title="wikilink">UNITY ROOTS &amp; FAMILY,AWAY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UNITY_ROOTS_&amp;_FAMILY,AWAY" title="wikilink">UNITY ROOTS &amp; FAMILY,AWAY</a></p></td>
 <td><p><small>CD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>8th</small></p></td>
 <td><p>2004年3月24日</p></td>
-<td><p><a href="../Page/THE_FRUSTRATED.md" title="wikilink">THE FRUSTRATED</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_FRUSTRATED" title="wikilink">THE FRUSTRATED</a></p></td>
 <td><p><small>CD<br />
 CD+DVD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>9th</small></p></td>
 <td><p>2007年1月31日</p></td>
-<td><p><a href="../Page/LOVE_IS_BEAUTIFUL.md" title="wikilink">LOVE IS BEAUTIFUL</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/LOVE_IS_BEAUTIFUL" title="wikilink">LOVE IS BEAUTIFUL</a></p></td>
 <td><p><small>CD<br />
 CD+DVD</small></p></td>
 </tr>
@@ -549,7 +550,7 @@ CD+DVD</small></p></td>
 <tr class="odd">
 <td><p><small>11th</small></p></td>
 <td><p>2013年1月23日</p></td>
-<td><p><a href="../Page/Justice_(GLAY).md" title="wikilink">Justice</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Justice_(GLAY)" title="wikilink">Justice</a></p></td>
 <td><p><small>CD<br />
 CD+DVD</small></p></td>
 </tr>
@@ -563,14 +564,14 @@ CD+DVD</small></p></td>
 <tr class="odd">
 <td><p><small>13th</small></p></td>
 <td><p>2014年11月5日</p></td>
-<td><p><a href="../Page/MUSIC_LIFE_(GLAY).md" title="wikilink">MUSIC LIFE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MUSIC_LIFE_(GLAY)" title="wikilink">MUSIC LIFE</a></p></td>
 <td><p><small>CD<br />
 CD+DVD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>14th</small></p></td>
 <td><p>2017年7月12日</p></td>
-<td><p><a href="../Page/SUMMERDELICS_(GLAY).md" title="wikilink">SUMMERDELICS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SUMMERDELICS_(GLAY)" title="wikilink">SUMMERDELICS</a></p></td>
 <td><p><small>CD<br />
 CD+DVD</small></p></td>
 </tr>
@@ -608,13 +609,13 @@ CD+DVD</small></p></td>
 <tr class="even">
 <td><p><small>B面精選</small></p></td>
 <td><p>2003年2月5日</p></td>
-<td><p><a href="../Page/rare_collectives_vol.1.md" title="wikilink">rare collectives vol.1</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/rare_collectives_vol.1" title="wikilink">rare collectives vol.1</a></p></td>
 <td><p><small>2CD</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>B面精選</small></p></td>
 <td><p>2003年2月5日</p></td>
-<td><p><a href="../Page/rare_collectives_vol.2.md" title="wikilink">rare collectives vol.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/rare_collectives_vol.2" title="wikilink">rare collectives vol.2</a></p></td>
 <td><p><small>2CD</small></p></td>
 </tr>
 <tr class="even">
@@ -626,7 +627,7 @@ CD+DVD</small></p></td>
 <tr class="odd">
 <td><p><small>A面精選</small></p></td>
 <td><p>2009年6月10日</p></td>
-<td><p><a href="../Page/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜.md" title="wikilink">THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜" title="wikilink">THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜</a></p></td>
 <td><p><small>3CD</small><br />
 <small>3CD+DVD</small><br />
 <small>3CD+2DVD</small></p></td>
@@ -641,14 +642,14 @@ CD+DVD</small></p></td>
 <tr class="odd">
 <td><p><small>B面精選</small></p></td>
 <td><p>2011年3月9日</p></td>
-<td><p><a href="../Page/rare_collectives_vol.3.md" title="wikilink">rare collectives vol.3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/rare_collectives_vol.3" title="wikilink">rare collectives vol.3</a></p></td>
 <td><p><small>2CD</small><br />
 <small>2CD+DVD</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small>B面精選</small></p></td>
 <td><p>2011年3月9日</p></td>
-<td><p><a href="../Page/rare_collectives_vol.4.md" title="wikilink">rare collectives vol.4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/rare_collectives_vol.4" title="wikilink">rare collectives vol.4</a></p></td>
 <td><p><small>2CD</small><br />
 <small>2CD+DVD</small></p></td>
 </tr>
@@ -671,9 +672,9 @@ CD+DVD</small></p></td>
 
 ## 紀錄
 
-1999年7月31日在[千葉縣的](../Page/千葉縣.md "wikilink")『[幕張Messe](../Page/幕張Messe.md "wikilink")』舉辦『[GLAY
+1999年7月31日在[千葉縣的](../Page/千葉縣.md "wikilink")『[幕張Messe](https://zh.wikipedia.org/wiki/幕張Messe "wikilink")』舉辦『[GLAY
 EXPO '99 SURVIVAL LIVE IN
-MAKUHARI](../Page/GLAY_EXPO_'99_SURVIVAL_LIVE_IN_MAKUHARI.md "wikilink")』動員了超過20萬歌迷，是日本音樂史上動員最多人的演唱會，亦是目前的[世界紀錄](../Page/世界紀錄.md "wikilink")。
+MAKUHARI](../Page/GLAY_EXPO_'99_SURVIVAL_LIVE_IN_MAKUHARI.md "wikilink")』動員了超過20萬歌迷，是日本音樂史上動員最多人的演唱會，亦是目前的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。
 
 ## 海外演唱會（亞洲）
 

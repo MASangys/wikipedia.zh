@@ -1,20 +1,20 @@
-**git**（\[1\]，）是一个[分散式版本控制软件](../Page/分散式版本控制.md "wikilink")，最初由[林纳斯·托瓦兹創作](../Page/林纳斯·托瓦兹.md "wikilink")，於2005年以[GPL釋出](../Page/GPL.md "wikilink")。最初目的是为更好地管理[Linux核心开发而设计](../Page/Linux内核.md "wikilink")。应注意的是，这与GNU
+**git**（\[1\]，）是一个[分散式版本控制软件](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，最初由[林纳斯·托瓦兹創作](../Page/林纳斯·托瓦兹.md "wikilink")，於2005年以[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。最初目的是为更好地管理[Linux核心开发而设计](../Page/Linux内核.md "wikilink")。应注意的是，这与GNU
 Interactive Tools\[2\]（一个类似[Norton
-Commander界面的](../Page/Norton_Commander.md "wikilink")[文件管理器](../Page/软件包管理系统.md "wikilink")）有所不同。
+Commander界面的](https://zh.wikipedia.org/wiki/Norton_Commander "wikilink")[文件管理器](../Page/软件包管理系统.md "wikilink")）有所不同。
 
-git最初的开发动力来自于[BitKeeper和](../Page/BitKeeper.md "wikilink")[Monotone](../Page/Monotone_\(軟體\).md "wikilink")\[3\]\[4\]。git最初只是作为一个可以被其他前端（比如Cogito或Stgit\[5\]）包装的后端而开发的，但后来git内核已经成熟到可以独立地用作版本控制\[6\]。很多著名的软件都使用git进行版本控制\[7\]，其中包括[Linux核心](../Page/Linux内核.md "wikilink")、[X.Org服务器和](../Page/X.Org服务器.md "wikilink")[OLPC内核等项目的开发流程](../Page/OLPC.md "wikilink")\[8\]。
+git最初的开发动力来自于[BitKeeper和](../Page/BitKeeper.md "wikilink")[Monotone](https://zh.wikipedia.org/wiki/Monotone_\(軟體\) "wikilink")\[3\]\[4\]。git最初只是作为一个可以被其他前端（比如Cogito或Stgit\[5\]）包装的后端而开发的，但后来git内核已经成熟到可以独立地用作版本控制\[6\]。很多著名的软件都使用git进行版本控制\[7\]，其中包括[Linux核心](../Page/Linux内核.md "wikilink")、[X.Org服务器和](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")[OLPC内核等项目的开发流程](../Page/OLPC.md "wikilink")\[8\]。
 
 ## 命名来源
 
-“[git](../Page/wikt:en:git.md "wikilink")”，該詞源自英國俚語，意思大約是「混帳」。[林纳斯·托瓦兹自嘲地取了這個名字](../Page/林纳斯·托瓦兹.md "wikilink")。\[9\]\[10\]
+“[git](https://zh.wikipedia.org/wiki/wikt:en:git "wikilink")”，該詞源自英國俚語，意思大約是「混帳」。[林纳斯·托瓦兹自嘲地取了這個名字](../Page/林纳斯·托瓦兹.md "wikilink")。\[9\]\[10\]
 
 git的官方wiki也給出了多種關於這個名字的解释。\[11\]
 
 ## 歷史
 
-自2002年開始，[林纳斯·托瓦兹決定使用](../Page/林纳斯·托瓦兹.md "wikilink")[BitKeeper作為](../Page/BitKeeper.md "wikilink")[Linux內核主要的版本控制系統用以维护程式碼](../Page/Linux內核.md "wikilink")。因為BitKeeper為[专有软件](../Page/专有软件.md "wikilink")，這個決定在社群中長期遭受質疑。在Linux社群中，特別是[理查德·斯托曼與](../Page/理查德·斯托曼.md "wikilink")[自由軟體基金會的成員](../Page/自由軟體基金會.md "wikilink")，主張應該使用開放原始碼的軟體來作為Linux核心的版本控制系統。[林纳斯·托瓦兹曾考慮過採用現成軟體作为版本控制系統](../Page/林纳斯·托瓦兹.md "wikilink")（例如[Monotone](../Page/Monotone.md "wikilink")），但這些軟體都存在一些問題，特別是效能不佳。現成的方案，如[CVS的架構](../Page/協作版本系統.md "wikilink")，受到林纳斯·托瓦兹的批評\[12\]。
+自2002年開始，[林纳斯·托瓦兹決定使用](../Page/林纳斯·托瓦兹.md "wikilink")[BitKeeper作為](../Page/BitKeeper.md "wikilink")[Linux內核主要的版本控制系統用以维护程式碼](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")。因為BitKeeper為[专有软件](../Page/专有软件.md "wikilink")，這個決定在社群中長期遭受質疑。在Linux社群中，特別是[理查德·斯托曼與](../Page/理查德·斯托曼.md "wikilink")[自由軟體基金會的成員](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")，主張應該使用開放原始碼的軟體來作為Linux核心的版本控制系統。[林纳斯·托瓦兹曾考慮過採用現成軟體作为版本控制系統](../Page/林纳斯·托瓦兹.md "wikilink")（例如[Monotone](../Page/Monotone.md "wikilink")），但這些軟體都存在一些問題，特別是效能不佳。現成的方案，如[CVS的架構](../Page/協作版本系統.md "wikilink")，受到林纳斯·托瓦兹的批評\[12\]。
 
-2005年，[安德魯·垂鳩寫了一個簡單程式](../Page/安德魯·垂鳩.md "wikilink")，可以連接BitKeeper的儲存庫，BitKeeper著作權擁有者[拉里·麥沃伊認為安德魯](../Page/拉里·麥沃伊.md "wikilink")·垂鳩对BitKeeper內部使用的[协议进行](../Page/网络传输协议.md "wikilink")[逆向工程](../Page/逆向工程.md "wikilink")，決定收回无偿使用BitKeeper的授權。Linux內核開發團隊與BitMover公司進行磋商，但無法解決他們之間的歧見。林纳斯·托瓦兹決定自行開發版本控制系統替代BitKeeper，以十天的時間編寫出git第一個版本\[13\]\[14\]。
+2005年，[安德魯·垂鳩寫了一個簡單程式](https://zh.wikipedia.org/wiki/安德魯·垂鳩 "wikilink")，可以連接BitKeeper的儲存庫，BitKeeper著作權擁有者[拉里·麥沃伊認為安德魯](https://zh.wikipedia.org/wiki/拉里·麥沃伊 "wikilink")·垂鳩对BitKeeper內部使用的[协议进行](../Page/网络传输协议.md "wikilink")[逆向工程](../Page/逆向工程.md "wikilink")，決定收回无偿使用BitKeeper的授權。Linux內核開發團隊與BitMover公司進行磋商，但無法解決他們之間的歧見。林纳斯·托瓦兹決定自行開發版本控制系統替代BitKeeper，以十天的時間編寫出git第一個版本\[13\]\[14\]。
 
 ### 版本
 
@@ -234,26 +234,26 @@ git的官方wiki也給出了多種關於這個名字的解释。\[11\]
 **git**是用于Linux内核开发的版本控制工具。与[CVS](../Page/協作版本系統.md "wikilink")、[Subversion一類的集中式版本控制工具不同](../Page/Subversion.md "wikilink")，它采用了分布式版本库的作法，不需要服务器端软件，就可以運作版本控制，使得源代码的发布和交流极其方便。git的速度很快，这对于诸如Linux内核这样的大项目来说自然很重要。git最为出色的是它的合并追踪（merge
 tracing）能力。
 
-实际上内核开发团队决定开始开发和使用git来作为内核开发的版本控制系统的时候，世界上开源社群的反对声音不少，最大的理由是git太艰涩难懂，从git的内部工作机制来说，的确是这样。但是随着开发的深入，git的正常使用都由一些友善的命令来执行，使git变得非常好用。现在，越来越多的著名项目采用git来管理项目开发，例如：[wine](../Page/wine.md "wikilink")、[U-boot等](../Page/U-boot.md "wikilink")\[15\]。
+实际上内核开发团队决定开始开发和使用git来作为内核开发的版本控制系统的时候，世界上开源社群的反对声音不少，最大的理由是git太艰涩难懂，从git的内部工作机制来说，的确是这样。但是随着开发的深入，git的正常使用都由一些友善的命令来执行，使git变得非常好用。现在，越来越多的著名项目采用git来管理项目开发，例如：[wine](https://zh.wikipedia.org/wiki/wine "wikilink")、[U-boot等](https://zh.wikipedia.org/wiki/U-boot "wikilink")\[15\]。
 
 作为开源自由原教旨主义项目，git没有对版本库的浏览和修改做任何的权限限制，通过其他工具也可以达到有限的权限控制，比如：gitosis、CodeBeamer
-MR。原本git的使用范围只适用于Linux/Unix平台，但在Windows平台下的使用也日渐成熟，這主要归功于[Cygwin](../Page/Cygwin.md "wikilink")、[msysgit环境](../Page/msysgit.md "wikilink")，以及[TortoiseGit这样易用的GUI工具](../Page/TortoiseGit.md "wikilink")。git的源代码中也已经加入了对Cygwin与[MinGW编译环境的支援且逐漸完善](../Page/MinGW.md "wikilink")，為Windows使用者帶來福音。
+MR。原本git的使用范围只适用于Linux/Unix平台，但在Windows平台下的使用也日渐成熟，這主要归功于[Cygwin](../Page/Cygwin.md "wikilink")、[msysgit环境](https://zh.wikipedia.org/wiki/msysgit "wikilink")，以及[TortoiseGit这样易用的GUI工具](../Page/TortoiseGit.md "wikilink")。git的源代码中也已经加入了对Cygwin与[MinGW编译环境的支援且逐漸完善](../Page/MinGW.md "wikilink")，為Windows使用者帶來福音。
 
 ## 实现原理
 
-git和其他[版本控制系统](../Page/版本控制系统.md "wikilink")（如[CVS](../Page/协作版本系统.md "wikilink")）有不少的差别，git本身关心檔案的整体性是否有改變，但多數的版本控制系统如CVS或[Subversion系统則在乎檔案内容的差异](../Page/Subversion.md "wikilink")。git拒绝保持每个文件的版本修订关系。因此查看一个文件的历史需要遍历各个history快照；git隐式处理文件更名，即同名文件默认为其前身，如果没有同名文件则在前一个版本中搜索具有类似内容的文件。
+git和其他[版本控制系统](https://zh.wikipedia.org/wiki/版本控制系统 "wikilink")（如[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")）有不少的差别，git本身关心檔案的整体性是否有改變，但多數的版本控制系统如CVS或[Subversion系统則在乎檔案内容的差异](../Page/Subversion.md "wikilink")。git拒绝保持每个文件的版本修订关系。因此查看一个文件的历史需要遍历各个history快照；git隐式处理文件更名，即同名文件默认为其前身，如果没有同名文件则在前一个版本中搜索具有类似内容的文件。
 
 git更像一個檔案系统，直接在本機上取得資料，不必連線到主机端获取資料。
 每个开发者都可有全部开发历史的本地副本，changes从这种本地repository复制给其他开发者。这些changes作为新增的开发分支被导入，可以与本地开发分支合并。
 
 分支是非常轻量级的，一个分支仅是对一个commit的引用。
 
-git是用C语言开发的，以追求最高的性能。git自动完成[垃圾回收](../Page/垃圾回收_\(计算机科学\).md "wikilink")，也可以用命令`git
+git是用C语言开发的，以追求最高的性能。git自动完成[垃圾回收](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，也可以用命令`git
 gc --prune`直接调用。
 
 git存储每个新创建的object作为一个单独文件。为了压缩存储空间占用，
-packs操作把很多文件（启发式类似名字的文件往往具有类似内容）使用[差分压缩入一个文件中](../Page/差分压缩.md "wikilink")（packfile），并创建一个对应的索引文件，指明object在packfile中的偏移值。新创建的对象仍然作为单独文件存在。repacks操作非常费时间，git会在空闲时间自动做此操作。也可用命令`git
-gc`来直接启动repack。packfile与索引文件都用SHA-1作为[校验和并作为文件名](../Page/校验和.md "wikilink")。`git
+packs操作把很多文件（启发式类似名字的文件往往具有类似内容）使用[差分压缩入一个文件中](https://zh.wikipedia.org/wiki/差分压缩 "wikilink")（packfile），并创建一个对应的索引文件，指明object在packfile中的偏移值。新创建的对象仍然作为单独文件存在。repacks操作非常费时间，git会在空闲时间自动做此操作。也可用命令`git
+gc`来直接启动repack。packfile与索引文件都用SHA-1作为[校验和并作为文件名](https://zh.wikipedia.org/wiki/校验和 "wikilink")。`git
 fsck`命令做校验和的完整性验证。
 
 Git服务器典型的TCP 监听端口为9418。
@@ -295,12 +295,12 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
 
 ## 移植性
 
-在[Windows平台上有msysgit與](../Page/Windows.md "wikilink")[TortoiseGit可資利用](../Page/TortoiseGit.md "wikilink")。TortoiseGit還提供有[GUI](../Page/GUI.md "wikilink")。
+在[Windows平台上有msysgit與](https://zh.wikipedia.org/wiki/Windows "wikilink")[TortoiseGit可資利用](../Page/TortoiseGit.md "wikilink")。TortoiseGit還提供有[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 
 现在git也提供windows版本下载。
 
-[Visual Studio](../Page/Visual_Studio.md "wikilink") 自 2013 版本开始内置 Git
-功能。
+[Visual Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+自 2013 版本开始内置 Git 功能。
 
 ## GIT GUI客户端
 
@@ -319,81 +319,87 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
   - [Amarok](../Page/Amarok.md "wikilink")\[19\]
   - [Android](../Page/Android.md "wikilink")\[20\]
   - [Arch Linux](../Page/Arch_Linux.md "wikilink")
-  - [Aquamacs Emacs](../Page/Aquamacs_Emacs.md "wikilink")
-  - [BlueZ](../Page/BlueZ.md "wikilink")\[21\]
+  - [Aquamacs
+    Emacs](https://zh.wikipedia.org/wiki/Aquamacs_Emacs "wikilink")
+  - [BlueZ](https://zh.wikipedia.org/wiki/BlueZ "wikilink")\[21\]
   - [Btrfs](../Page/Btrfs.md "wikilink")\[22\]
-  - [Clojure](../Page/Clojure.md "wikilink")
-  - [CakePHP](../Page/CakePHP.md "wikilink")
+  - [Clojure](https://zh.wikipedia.org/wiki/Clojure "wikilink")
+  - [CakePHP](https://zh.wikipedia.org/wiki/CakePHP "wikilink")
   - [Debian](../Page/Debian.md "wikilink")\[23\]
   - [Digg](../Page/Digg.md "wikilink")\[24\]
   - [DragonFly BSD](../Page/DragonFly_BSD.md "wikilink")\[25\]
   - [Drupal](../Page/Drupal.md "wikilink")\[26\]
-  - [Elinks](../Page/Elinks.md "wikilink")\[27\]
+  - [Elinks](https://zh.wikipedia.org/wiki/Elinks "wikilink")\[27\]
   - [Fedora](../Page/Fedora.md "wikilink")
   - [FFmpeg](../Page/FFmpeg.md "wikilink") \[28\]
-  - [Freenet](../Page/Freenet.md "wikilink")
+  - [Freenet](https://zh.wikipedia.org/wiki/Freenet "wikilink")
   - **git**\[29\]
   - [GIMP](../Page/GIMP.md "wikilink")
   - [GNOME](../Page/GNOME.md "wikilink")\[30\]\[31\]
-  - [GPM](../Page/GPM.md "wikilink")
+  - [GPM](https://zh.wikipedia.org/wiki/GPM "wikilink")
   - [GStreamer](../Page/GStreamer.md "wikilink")\[32\]
-  - [gThumb](../Page/gThumb.md "wikilink")\[33\]
-  - [GTK+](../Page/GTK+.md "wikilink")\[34\]
+  - [gThumb](https://zh.wikipedia.org/wiki/gThumb "wikilink")\[33\]
+  - [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")\[34\]
   - [Hurd](../Page/GNU_Hurd.md "wikilink")\[35\]
-  - [jQuery](../Page/jQuery.md "wikilink")\[36\]
+  - [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[36\]
   - [Laika (EHR testing
-    framework)](../Page/Laika_\(EHR_testing_framework\).md "wikilink")\[37\]
-  - [LilyPond](../Page/LilyPond.md "wikilink") (music typesetting)\[38\]
-  - [Linux kernel](../Page/Linux_kernel.md "wikilink")
+    framework)](https://zh.wikipedia.org/wiki/Laika_\(EHR_testing_framework\) "wikilink")\[37\]
+  - [LilyPond](https://zh.wikipedia.org/wiki/LilyPond "wikilink") (music
+    typesetting)\[38\]
+  - [Linux
+    kernel](https://zh.wikipedia.org/wiki/Linux_kernel "wikilink")
   - [Linux Mint](../Page/Linux_Mint.md "wikilink")\[39\]
   - [LMMS](../Page/LMMS.md "wikilink") Music Production Software \[40\]
   - [Maemo](../Page/Maemo.md "wikilink")\[41\]
   - [MeeGo](../Page/MeeGo.md "wikilink")\[42\]
-  - [Merb](../Page/Merb.md "wikilink")\[43\]
-  - [MooTools](../Page/MooTools.md "wikilink")\[44\]
-  - [One Laptop Per Child](../Page/One_Laptop_Per_Child.md "wikilink")
+  - [Merb](https://zh.wikipedia.org/wiki/Merb "wikilink")\[43\]
+  - [MooTools](https://zh.wikipedia.org/wiki/MooTools "wikilink")\[44\]
+  - [One Laptop Per
+    Child](https://zh.wikipedia.org/wiki/One_Laptop_Per_Child "wikilink")
     (OLPC)\[45\]
   - [OpenFOAM](../Page/OpenFOAM.md "wikilink")
-  - [openSUSE](../Page/openSUSE.md "wikilink")\[46\]
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")\[46\]
   - [Perl](../Page/Perl.md "wikilink")\[47\]
   - [PHP](../Page/PHP.md "wikilink")\[48\]
-  - [phpBB](../Page/phpBB.md "wikilink")\[49\]
+  - [phpBB](https://zh.wikipedia.org/wiki/phpBB "wikilink")\[49\]
   - [PostgreSQL](../Page/PostgreSQL.md "wikilink")
-  - [Prototype.js](../Page/Prototype.js.md "wikilink")\[50\]
-  - [Qt](../Page/Qt_\(toolkit\).md "wikilink")\[51\]
+  - [Prototype.js](https://zh.wikipedia.org/wiki/Prototype.js "wikilink")\[50\]
+  - [Qt](https://zh.wikipedia.org/wiki/Qt_\(toolkit\) "wikilink")\[51\]
   - [Reddit](../Page/Reddit.md "wikilink")\[52\]
-  - [rsync](../Page/rsync.md "wikilink")
+  - [rsync](https://zh.wikipedia.org/wiki/rsync "wikilink")
   - [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")\[53\]
   - [Samba](../Page/Samba.md "wikilink")\[54\]
-  - [SproutCore](../Page/SproutCore.md "wikilink")\[55\]
-  - [Sugar](../Page/Sugar_\(desktop_environment\).md "wikilink")\[56\]
-  - [SWI-Prolog](../Page/SWI-Prolog.md "wikilink")\[57\]
-  - [VLC](../Page/VLC_media_player.md "wikilink")\[58\]
+  - [SproutCore](https://zh.wikipedia.org/wiki/SproutCore "wikilink")\[55\]
+  - [Sugar](https://zh.wikipedia.org/wiki/Sugar_\(desktop_environment\) "wikilink")\[56\]
+  - [SWI-Prolog](https://zh.wikipedia.org/wiki/SWI-Prolog "wikilink")\[57\]
+  - [VLC](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")\[58\]
   - [Wine](../Page/Wine.md "wikilink")\[59\]
-  - [Xiph](../Page/Xiph.Org_Foundation.md "wikilink")\[60\]
-  - [X.org Server](../Page/X.Org服务器.md "wikilink")\[61\]
-  - [x264](../Page/x264.md "wikilink")\[62\]
-  - [YUI](../Page/Yahoo!_UI_Library.md "wikilink")\[63\]
+  - [Xiph](https://zh.wikipedia.org/wiki/Xiph.Org_Foundation "wikilink")\[60\]
+  - [X.org
+    Server](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")\[61\]
+  - [x264](https://zh.wikipedia.org/wiki/x264 "wikilink")\[62\]
+  - [YUI](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")\[63\]
 
 ### 支持git的源码存取服务
 
 以下是部分知名的支持git的源码存取服务：
 
-  - [BerliOS](../Page/BerliOS.md "wikilink")
-  - [Beanstalk](../Page/Beanstalk.md "wikilink")
+  - [BerliOS](https://zh.wikipedia.org/wiki/BerliOS "wikilink")
+  - [Beanstalk](https://zh.wikipedia.org/wiki/Beanstalk "wikilink")
   - [Bitbucket](../Page/Bitbucket.md "wikilink")
   - [CodePlex](../Page/CodePlex.md "wikilink")
   - [GitHub](../Page/GitHub.md "wikilink")
-  - [gitorious](../Page/gitorious.md "wikilink")
-  - [GNU Savannah](../Page/GNU_Savannah.md "wikilink")
-  - [Google Code](../Page/Google_Code.md "wikilink")
-  - [JavaForge](../Page/JavaForge.md "wikilink")
+  - [gitorious](https://zh.wikipedia.org/wiki/gitorious "wikilink")
+  - [GNU
+    Savannah](https://zh.wikipedia.org/wiki/GNU_Savannah "wikilink")
+  - [Google Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink")
+  - [JavaForge](https://zh.wikipedia.org/wiki/JavaForge "wikilink")
   - [Pikacode](https://web.archive.org/web/20120325042753/http://pikacode.com/)
   - [SourceForge](../Page/SourceForge.md "wikilink")
   - [码云 Gitee](https://gitee.com)
   - [CSDN CODE](https://code.csdn.net)
   - [Coding](https://coding.net/)
-  - [gitlab](../Page/gitlab.md "wikilink")
+  - [gitlab](https://zh.wikipedia.org/wiki/gitlab "wikilink")
 
 ## 参考文献
 
@@ -412,7 +418,7 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
 
 ## 参见
 
-  - [分布式版本控制](../Page/分布式版本控制.md "wikilink")
+  - [分布式版本控制](https://zh.wikipedia.org/wiki/分布式版本控制 "wikilink")
 
 {{-}}
 

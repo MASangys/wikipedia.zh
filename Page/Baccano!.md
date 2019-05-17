@@ -1,11 +1,11 @@
 《**Baccano\!
-大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟所著的輕小說系列作品](../Page/成田良悟.md "wikilink")，既刊22冊。台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。除了改編為漫畫外，並於2007年7月改編為[電視動畫](../Page/電視動畫.md "wikilink")。
+大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟所著的輕小說系列作品](../Page/成田良悟.md "wikilink")，既刊22冊。台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。除了改編為漫畫外，並於2007年7月改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要
 
-作者的出道作，第9次電擊遊戲小說大獎（現名[電擊小說大獎](../Page/電擊小說大獎.md "wikilink")）金獎獲獎作品。標題中的**Baccano**，是[義大利語](../Page/義大利語.md "wikilink")“**大風波**”的意思（日语为“”）。是一齣沒有固定的主人公，複數主角和劇情一環扣一環的群像劇。作品中登場人物超過90人是一大特色。是以[鍊金術師與](../Page/鍊金術.md "wikilink")[不死之酒](../Page/長生不老.md "wikilink")，不死者和一般人所發生的故事。1711年大西洋上，背井離鄉朝向新大陸前進的煉金術師們從惡魔手中得到了“永生之酒”。喝了永生之酒的人得以不老不死，但唯一的弱點就是同屬不死者的右手可以按在額頭上吞噬對方，取得其一生的經驗和知識，而其中一員為了得知永生之酒的製作秘密，开始吞噬眾人。事後相互畏懼、警戒的倖存不死者，散落到世界各地。
+作者的出道作，第9次電擊遊戲小說大獎（現名[電擊小說大獎](../Page/電擊小說大獎.md "wikilink")）金獎獲獎作品。標題中的**Baccano**，是[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")“**大風波**”的意思（日语为“”）。是一齣沒有固定的主人公，複數主角和劇情一環扣一環的群像劇。作品中登場人物超過90人是一大特色。是以[鍊金術師與](https://zh.wikipedia.org/wiki/鍊金術 "wikilink")[不死之酒](https://zh.wikipedia.org/wiki/長生不老 "wikilink")，不死者和一般人所發生的故事。1711年大西洋上，背井離鄉朝向新大陸前進的煉金術師們從惡魔手中得到了“永生之酒”。喝了永生之酒的人得以不老不死，但唯一的弱點就是同屬不死者的右手可以按在額頭上吞噬對方，取得其一生的經驗和知識，而其中一員為了得知永生之酒的製作秘密，开始吞噬眾人。事後相互畏懼、警戒的倖存不死者，散落到世界各地。
 
-第一作的故事年代發生在1930年期間，第二作在1年後1931年期間，多以一年一個故事為單位進行創作，也有上下卷同時寫著一個故事，而不是一卷一個故事。最初是以[禁酒時期的美國作為舞台](../Page/禁酒時期.md "wikilink")，後來也有2000年代的現代舞台；1700年代的過去舞台。
+第一作的故事年代發生在1930年期間，第二作在1年後1931年期間，多以一年一個故事為單位進行創作，也有上下卷同時寫著一個故事，而不是一卷一個故事。最初是以[禁酒時期的美國作為舞台](https://zh.wikipedia.org/wiki/禁酒時期 "wikilink")，後來也有2000年代的現代舞台；1700年代的過去舞台。
 
 ## 系列一覽
 
@@ -125,9 +125,9 @@
 ## 用語解說
 
   - 不死者
-    [人造小矮人](../Page/人造人.md "wikilink")
-    [禁酒法](../Page/禁酒法.md "wikilink")
-    [黑手黨](../Page/黑手黨.md "wikilink")
+    [人造小矮人](https://zh.wikipedia.org/wiki/人造人 "wikilink")
+    [禁酒法](https://zh.wikipedia.org/wiki/禁酒法 "wikilink")
+    [黑手黨](https://zh.wikipedia.org/wiki/黑手黨 "wikilink")
     [卡莫拉](../Page/克莫拉.md "wikilink")
     飛翔禁酒坊
     鐵路繪影者
@@ -417,7 +417,7 @@ The Rolling Bootlegs</p></td>
 
   -
     作詞／作曲：[梶浦由記](../Page/梶浦由記.md "wikilink")
-    主唱：[織田かおり](../Page/織田かおり.md "wikilink")
+    主唱：[織田かおり](https://zh.wikipedia.org/wiki/織田かおり "wikilink")
 
 ### 各話標題
 
@@ -439,8 +439,8 @@ The Rolling Bootlegs</p></td>
 <td></td>
 <td><p>副社長不談論自己是主角的可能性</p></td>
 <td><p>高木登</p></td>
-<td><p><a href="../Page/大森貴弘.md" title="wikilink">大森貴弘</a></p></td>
-<td><p><a href="../Page/佐藤豊_(アニメ演出家).md" title="wikilink">佐藤豊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大森貴弘" title="wikilink">大森貴弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤豊_(アニメ演出家)" title="wikilink">佐藤豊</a></p></td>
 <td><p>高田晃</p></td>
 </tr>
 <tr class="even">
@@ -449,7 +449,7 @@ The Rolling Bootlegs</p></td>
 <td><p>無視老婦人的不安 大路橫斷鐵路號駛出</p></td>
 <td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a></p></td>
 <td><p>中野英明</p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -484,7 +484,7 @@ The Rolling Bootlegs</p></td>
 <td><p>第06話</p></td>
 <td></td>
 <td><p>鐵路追蹤者在車內暗中反覆虐殺</p></td>
-<td><p><a href="../Page/神戸守.md" title="wikilink">神戸守</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神戸守" title="wikilink">神戸守</a></p></td>
 <td><p>小丸敏之<br />
 羽山賢二</p></td>
 <td></td>
@@ -522,8 +522,8 @@ The Rolling Bootlegs</p></td>
 <td></td>
 <td><p>察斯沃夫・梅耶魯畏懼著不死者的身影思考策略</p></td>
 <td><p>大畑清隆</p></td>
-<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
-<td><p><a href="../Page/田中良_(アニメーター).md" title="wikilink">田中良</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中良_(アニメーター)" title="wikilink">田中良</a><br />
 小谷杏子</p></td>
 <td></td>
 </tr>

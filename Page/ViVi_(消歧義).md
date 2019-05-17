@@ -1,7 +1,7 @@
 **ViVi**可以是下列意思：
 
   - [ViVi](../Page/ViVi.md "wikilink")，女性時尚流行雜誌。
-  - [維維湖](../Page/維維湖.md "wikilink")，在俄羅斯境內。
+  - [維維湖](https://zh.wikipedia.org/wiki/維維湖 "wikilink")，在俄羅斯境內。
   - ［［vivi］］，ARM处理器系列的Bootloader
 
 vivi是vivi是由韩国mizi公司为ARM处理器系列设计的一个Bootloader。适用于ARM9处理器。它支持启动加载模式和下载工作模式。vivi的配置和嵌入式Linux内核一样，可以采用菜单化的形式进行。

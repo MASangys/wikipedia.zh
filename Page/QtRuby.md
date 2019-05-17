@@ -1,20 +1,20 @@
 {{ Infobox Software | name = QtRuby | logo = | screenshot = | caption =
 | developer = | latest release version = 2.2.0 | latest release date =
 | latest preview version = | latest preview date = | operating system =
-[跨平台](../Page/跨平台.md "wikilink") | programming language =
-[Ruby](../Page/Ruby.md "wikilink") | genre = | license =
-[LGPL](../Page/GNU_Lesser_General_Public_License.md "wikilink") |
-website =
+[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming
+language = [Ruby](../Page/Ruby.md "wikilink") | genre = | license =
+[LGPL](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink")
+| website =
 [QtRuby主頁](https://archive.is/20120628224903/http://rubyforge.org/projects/korundum/)
 }}
-**QtRuby**是[跨平台的应用程序框架](../Page/跨平台.md "wikilink")[Qt的](../Page/Qt.md "wikilink")[Ruby綁定版本](../Page/Ruby.md "wikilink")，包含Qt4和Qt3支持。也是[Korundum](../Page/Korundum.md "wikilink")（[KDE](../Page/KDE.md "wikilink")
+**QtRuby**是[跨平台的应用程序框架](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Qt的](../Page/Qt.md "wikilink")[Ruby綁定版本](../Page/Ruby.md "wikilink")，包含Qt4和Qt3支持。也是[Korundum](https://zh.wikipedia.org/wiki/Korundum "wikilink")（[KDE](../Page/KDE.md "wikilink")
 API的Ruby綁定）的基礎。
 
-QtRuby使用[SMOKE提供语言綁定基礎](../Page/SMOKE.md "wikilink")
+QtRuby使用[SMOKE提供语言綁定基礎](https://zh.wikipedia.org/wiki/SMOKE "wikilink")
 
-除了[Linux和](../Page/Linux.md "wikilink")[Unix](../Page/Unix.md "wikilink")，QtRuby也支持[Mac
+除了[Linux和](../Page/Linux.md "wikilink")[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")，QtRuby也支持[Mac
 OS
-X操作系統和微軟](../Page/Mac_OS_X.md "wikilink")[Windows](../Page/Windows.md "wikilink")。
+X操作系統和微軟](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## QtRuby的hello world
 

@@ -8,7 +8,7 @@ POP**（中譯：流行堅端）是[日本男歌手](../Page/日本.md "wikilink
     STAR](../Page/POP_STAR.md "wikilink")」、「[バイマイメロディー](../Page/By\(e\)_My_Melody.md "wikilink")」、「[哀歌
     (ELEGY)](../Page/哀歌_\(ELEGY\).md "wikilink")|哀歌
     (エレジー)」、「[君の好きなとこ](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")」、「[fake
-    star](../Page/fake_star.md "wikilink")」、「[キャンバス／君はス・テ・キ❤️](../Page/Canvas／你好棒.md "wikilink")」，以及c/w曲「美しい人」。
+    star](https://zh.wikipedia.org/wiki/fake_star "wikilink")」、「[キャンバス／君はス・テ・キ❤️](../Page/Canvas／你好棒.md "wikilink")」，以及c/w曲「美しい人」。
   - 收錄7張單曲、8首A面曲為平井堅收錄最多實體單曲的原創專輯。
   - 「[いつか離れる日が来ても](../Page/即使離別.md "wikilink")」在專輯發行一個月後作為Re-cut單曲發行。
   - 除了「Twenty\! Twenty\! Twenty\!」及「UPSET」，其餘11首歌曲皆由平井堅創作。
@@ -22,7 +22,8 @@ POP**（中譯：流行堅端）是[日本男歌手](../Page/日本.md "wikilink
   - [哀歌
     (エレジー)](../Page/哀歌_\(ELEGY\).md "wikilink")：ORICON最高第5名。銷量約11.8萬張
   - [君の好きなとこ](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")：ORICON最高第5名。銷量約10.3萬張
-  - [fake star](../Page/fake_star.md "wikilink")：ORICON最高第6名。銷量約3.2萬張
+  - [fake
+    star](https://zh.wikipedia.org/wiki/fake_star "wikilink")：ORICON最高第6名。銷量約3.2萬張
   - [キャンバス／君はス・テ・キ❤️](../Page/Canvas／你好棒.md "wikilink")：ORICON最高第6名。銷量約4萬張
   - [いつか離れる日が来ても](../Page/即使離別.md "wikilink")：ORICON最高第19名。銷量約1.9萬張
 
@@ -33,22 +34,23 @@ POP**（中譯：流行堅端）是[日本男歌手](../Page/日本.md "wikilink
       - 富士電視台連續劇「[危險傻大姊](../Page/危險傻大姊.md "wikilink")」主題歌
 2.  **[君はス・テ・キ♥](../Page/Canvas／你好棒.md "wikilink")**
       - 作詞・作曲：平井堅／編曲：AKIRA
-      - [立頓](../Page/立頓.md "wikilink")「Limone」電視廣告曲※本人出演
+      - [立頓](https://zh.wikipedia.org/wiki/立頓 "wikilink")「Limone」電視廣告曲※本人出演
 3.  **[君の好きなとこ](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")**
       - 作詞・作曲：平井堅／編曲：亀田誠治
       - 日本電視台連續劇「演歌女王」主題歌
 4.  **[キャンバス](../Page/Canvas／你好棒.md "wikilink")**
       - 作詞・作曲：平井堅／編曲：富田恵一
-      - 富士電視台連戲劇「[蜂蜜幸運草](../Page/蜂蜜幸運草.md "wikilink")」主題歌
+      - 富士電視台連戲劇「[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")」主題歌
 5.  **Pain**
       - 作詞：平井堅／作曲：平井堅、鈴木大／編曲：亀田誠治
       - 唯一沒有商業搭配的歌曲
-6.  **[fake star](../Page/fake_star.md "wikilink")**
+6.  **[fake star](https://zh.wikipedia.org/wiki/fake_star "wikilink")**
       - 作詞・作曲：平井堅／編曲：URU
       - 明治製菓「Fran Aromatier」電視廣告曲
 7.  **UPSET**
       - 作詞：平井堅／作曲・編曲：田中直
-      - [LG](../Page/LG.md "wikilink")「FOMA L705iX」電視廣告曲※本人出演
+      - [LG](https://zh.wikipedia.org/wiki/LG "wikilink")「FOMA
+        L705iX」電視廣告曲※本人出演
 8.  **[美しい人](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")**
       - 作詞・作曲：平井堅／編曲：中西康晴
       - [資生堂](../Page/資生堂.md "wikilink")「ELIXIR SUPERIEUR」電視廣告曲
@@ -64,11 +66,11 @@ POP**（中譯：流行堅端）是[日本男歌手](../Page/日本.md "wikilink
 12. **[いつか離れる日が来ても](../Page/即使離別.md "wikilink")**
       - 作詞・作曲：平井堅／編曲：武部聡志
       - 電影「記住那片天空」主題歌
-      - 登上第59屆[紅白歌唱大賽演唱的歌曲](../Page/NHK紅白歌合戰.md "wikilink")
+      - 登上第59屆[紅白歌唱大賽演唱的歌曲](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")
 13. **寫真**
       - 作詞・作曲：平井堅／編曲：松浦晃久
       - 平井堅追憶亡父的歌曲
-      - [JRA日本競馬協會形象歌曲](../Page/JRA.md "wikilink")
+      - [JRA日本競馬協會形象歌曲](https://zh.wikipedia.org/wiki/JRA "wikilink")
 
 ## 参考資料
 

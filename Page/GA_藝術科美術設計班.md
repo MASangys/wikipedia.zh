@@ -29,7 +29,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
   -
     通稱「」，奈三子和她的母親則稱呼她「小雅（，發音不同）」。
     給人的色彩印象為黑色，或是包含白色在內的單調色彩。現實生活中會大量購入黑色畫材。但本身其實是怕黑，在黑暗的地方會動彈不得。
-    是個外表[黑長直](../Page/黑長直.md "wikilink")，並且充滿神秘感的[無口優等生](../Page/無口.md "wikilink")。奈三子說她人品不錯，只是性格上有點怪怪的。
+    是個外表[黑長直](https://zh.wikipedia.org/wiki/黑長直 "wikilink")，並且充滿神秘感的[無口優等生](../Page/無口.md "wikilink")。奈三子說她人品不錯，只是性格上有點怪怪的。
     平常是用武士腔說話，所以稱呼別人時會加上「殿」。擁有豐富知識。特徵為黑色長髮。看起來對別人的行動沒興趣，事實上卻是充滿興趣，有時甚至會模仿其他人的行動。
     擁有和動物溝通、看的見幽靈等特殊能力。
     雖然在其它班中也佊俱人氣，異性緣不錯，但還沒有男朋友。而且其父母亦已經選好了她的結婚對象。
@@ -61,7 +61,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
     通稱「」，周圍的人稱呼她「」或「」。給人的印象色彩為亮色系，特別是黃色。對於時尚和流行相當敏感。
     喜歡熱鬧，總是保持在興奮狀態，常做出多餘發言。個性像小孩一樣，喜歡惡作劇。在團體中負責帶動氣氛。
     是屬於天才型的畫家，做事都是看心情，作畫是憑感覺，因此上美術課有一半都是在玩。
-    有就讀普通科的姐姐（聲：[名塚雅絵](../Page/名塚雅絵.md "wikilink")／\[1\]
+    有就讀普通科的姐姐（聲：[名塚雅絵](https://zh.wikipedia.org/wiki/名塚雅絵 "wikilink")／\[1\]
     香港：[成瑤孆](../Page/成瑤孆.md "wikilink")）。家裡有養貓。
     經常弄掉東西，因此畫冊貼滿了閃亮的反光貼紙。
     雖然每次都能很快完成功課作業交上。但經常都是草草了事而被外間老師教訓。
@@ -255,7 +255,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -303,18 +303,18 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
 ## 電視動畫
 
-2009年7月起在[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[獨立UHF局播放](../Page/獨立UHF局.md "wikilink")。
+2009年7月起在[讀賣電視台和](../Page/讀賣電視台.md "wikilink")[獨立UHF局播放](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")。
 
 ### 製作人員
 
   - 原作：
   - 企画：高谷與志人（[avex
-    entertainment](../Page/avex_entertainment.md "wikilink")）、孝壽尚志（[芳文社](../Page/芳文社.md "wikilink")）、松本慶明（[Marvelous
-    Entertainment](../Page/Marvelous_Entertainment.md "wikilink")）、大熊保幸、三浦亨（[AIC](../Page/AIC.md "wikilink")）、金子一志
+    entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")）、孝壽尚志（[芳文社](../Page/芳文社.md "wikilink")）、松本慶明（[Marvelous
+    Entertainment](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")）、大熊保幸、三浦亨（[AIC](https://zh.wikipedia.org/wiki/AIC "wikilink")）、金子一志
   - 脚本：[待田堂子](../Page/待田堂子.md "wikilink")
-  - 人物設定：[渡邊敦子](../Page/渡邊敦子_\(動畫師\).md "wikilink")
+  - 人物設定：[渡邊敦子](https://zh.wikipedia.org/wiki/渡邊敦子_\(動畫師\) "wikilink")
   - 光暈設定：新野量太
-  - 總作畫監督：[中原清隆](../Page/中原清隆.md "wikilink")
+  - 總作畫監督：[中原清隆](https://zh.wikipedia.org/wiki/中原清隆 "wikilink")
   - 美術監督：春日礼兒（）
   - 色彩設計：漆戶幸子
   - 攝影監督：今泉秀樹
@@ -325,8 +325,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
     ([ytv](../Page/讀賣電視台.md "wikilink"))
   - 製片人：龍貴大、小林宏之、丸山創（Marvelous Entertainment）、齋藤朋之（ytv） 、黄樹貳悠（AIC）、相田武一郎
   - 動畫製作人：先川幸矢（AIC）
-  - [取材](../Page/取材.md "wikilink")、[美術協力](../Page/美術.md "wikilink")：[女子美術大學](../Page/女子美術大學.md "wikilink")、[女子美術大學附屬高等學校・中學校](../Page/女子美術大學附屬高等學校・中學校.md "wikilink")
-  - 動畫製作：[AICPLUS+](../Page/AIC.md "wikilink")
+  - [取材](https://zh.wikipedia.org/wiki/取材 "wikilink")、[美術協力](../Page/美術.md "wikilink")：[女子美術大學](https://zh.wikipedia.org/wiki/女子美術大學 "wikilink")、[女子美術大學附屬高等學校・中學校](https://zh.wikipedia.org/wiki/女子美術大學附屬高等學校・中學校 "wikilink")
+  - 動畫製作：[AICPLUS+](https://zh.wikipedia.org/wiki/AIC "wikilink")
   - 監督：[櫻井弘明](../Page/櫻井弘明.md "wikilink")
   - 製作：GA製作委員會
 
@@ -334,7 +334,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
   - 片頭曲「」
     歌：彩井高校 GA girls
-    [作詞](../Page/作詞.md "wikilink")：[Noria](../Page/Noria.md "wikilink")；[作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：五十嵐“IGAO”淳一
+    [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[Noria](https://zh.wikipedia.org/wiki/Noria "wikilink")；[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：五十嵐“IGAO”淳一
 
 <!-- end list -->
 
@@ -348,11 +348,11 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
         作詞：Noria；作曲、編曲：酒井陽一
 2.  「」（第2、8、11話）
       -
-        歌：山口如月（CV：[戶松遥](../Page/戶松遥.md "wikilink")）
+        歌：山口如月（CV：[戶松遥](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")）
         作詞：Noria；作曲、編曲：酒井陽一
 3.  「」（第3、7話）
       -
-        歌：野田美希（CV：[德永愛](../Page/德永愛.md "wikilink")）
+        歌：野田美希（CV：[德永愛](https://zh.wikipedia.org/wiki/德永愛 "wikilink")）
         作詞：Noria；作曲：酒井陽一；編曲：大場敬朗
 4.  「」（第4、9話）
       -
@@ -401,7 +401,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 <td><p>一起畫畫，一起玩吧</p></td>
 <td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p><a href="../Page/櫻井弘明.md" title="wikilink">櫻井弘明</a></p></td>
-<td><p><a href="../Page/渡邊敦子_(動畫師).md" title="wikilink">渡邊敦子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊敦子_(動畫師)" title="wikilink">渡邊敦子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -452,8 +452,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 <td></td>
 <td><p>美術部公館</p></td>
 <td><p>美術部新會員</p></td>
-<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
-<td><p><a href="../Page/石野聰.md" title="wikilink">石野聰</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石野聰" title="wikilink">石野聰</a><br />
 藤卷裕一（輔助）</p></td>
 <td></td>
 <td></td>
@@ -547,30 +547,30 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a></p></td>
 <td><p>2009年7月6日 - 9月21日</p></td>
 <td><p>星期一 26時14分 - 26時44分</p></td>
-<td><p><a href="../Page/日本電視系.md" title="wikilink">日本電視系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本電視系" title="wikilink">日本電視系</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/福井縣.md" title="wikilink">福井縣</a></p></td>
-<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福井放送" title="wikilink">福井放送</a></p></td>
 <td><p>2009年7月8日 - 9月23日</p></td>
 <td><p>星期三 25時35分 - 26時05分</p></td>
 <td><p>日本電視系<br />
-<a href="../Page/朝日電視網.md" title="wikilink">朝日電視網</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/朝日電視網" title="wikilink">朝日電視網</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>星期三 26時30分 - 27時00分</p></td>
-<td><p><a href="../Page/獨立UHF局.md" title="wikilink">獨立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/群馬縣.md" title="wikilink">群馬縣</a></p></td>
-<td><p><a href="../Page/群馬電視台.md" title="wikilink">群馬電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/群馬電視台" title="wikilink">群馬電視台</a></p></td>
 <td><p>2009年7月11日 - 9月26日</p></td>
 <td><p>星期六 24時00分 - 24時30分</p></td>
 <td></td>
@@ -591,20 +591,20 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a></p></td>
-<td><p><a href="../Page/栃木電視台.md" title="wikilink">栃木電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/栃木電視台" title="wikilink">栃木電視台</a></p></td>
 <td><p>星期一 25時00分 - 25時30分</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/岐阜縣.md" title="wikilink">岐阜縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a></p></td>
 <td><p><a href="../Page/岐阜放送.md" title="wikilink">岐阜放送</a></p></td>
 <td><p>2009年7月14日 - 9月29日</p></td>
 <td><p>星期二 25時45分 - 26時15分</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/三重縣.md" title="wikilink">三重縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重縣</a></p></td>
 <td><p><a href="../Page/三重電視台.md" title="wikilink">三重電視台</a></p></td>
 <td><p>星期二 26時50分 - 27時20分</p></td>
 <td></td>
@@ -615,13 +615,13 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2009年7月23日 - 10月8日</p></td>
 <td><p>星期四 11時00分 - 11時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ShowTime.md" title="wikilink">ShowTime</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ShowTime" title="wikilink">ShowTime</a></p></td>
 <td><p>2009年7月29日 - 10月14日</p></td>
 <td><p>星期三 12時00分更新</p></td>
-<td><p><a href="../Page/網絡電視.md" title="wikilink">網絡電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -661,7 +661,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 
 ## 遊戲
 
-  - 2010年7月29日，由[Russell在](../Page/Russell.md "wikilink")[PSP平台上制作的](../Page/PSP.md "wikilink")[冒險遊戲](../Page/冒險遊戲.md "wikilink")**「GA
+  - 2010年7月29日，由[Russell在](https://zh.wikipedia.org/wiki/Russell "wikilink")[PSP平台上制作的](https://zh.wikipedia.org/wiki/PSP "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")**「GA
     藝術科美術設計班 Slapstick WONDER LAND」**发售。
 
 ## 註解
