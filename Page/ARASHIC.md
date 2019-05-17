@@ -16,7 +16,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     （作詞：久保田洋司　作曲：大柳博夫　編曲：CHOKKAKU）
       -
         15th單曲
-        TBS日劇《[花樣男子](../Page/流星花園_\(日本電視劇\)#流星花園.md "wikilink")》主題曲
+        TBS日劇《[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\)#流星花園 "wikilink")》主題曲
 2.  **Runaway Train**（）
     （作詞：SPIN　Rap詞：櫻井翔　作曲：Anthony Little、Rick Kelly　編曲：鈴木雅也）
       -
@@ -42,11 +42,11 @@ Storm](../Page/J_Storm.md "wikilink")。
 9.  **I Want Somebody**
     （作詞：Axel G　作曲・編曲：Shusui、Stefan Aberg、Fredrik Hult、Ola Larsson）
       -
-        [松本潤主音](../Page/松本潤.md "wikilink")
+        [松本潤主音](https://zh.wikipedia.org/wiki/松本潤 "wikilink")
 10. **Secret Eyes**
     （作詞：Erykah　Rap詞：櫻井翔　作曲：Gajin　編曲：岩田雅之）
       -
-        [相葉雅紀主音](../Page/相葉雅紀.md "wikilink")
+        [相葉雅紀主音](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")
 11. **超²感謝**（）
     （作詞：Erykah　作曲：Henrik Rongedal、Magnus Rongedal　編曲：岩田雅之）
       -

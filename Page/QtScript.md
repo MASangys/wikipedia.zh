@@ -10,7 +10,7 @@ Generator被用於[Amarok](../Page/Amarok.md "wikilink") 2的腳本系統。
 ## Qt Script for Applications（QSA）
 
 早期的腳本引擎稱為**Qt Script for Applications**（QSA），是[Qt
-Software推出且獨立於Qt函式庫](../Page/Qt_Software.md "wikilink")，在[GPL和商業許可雙授權下發布](../Page/GNU_General_Public_License.md "wikilink")。
+Software推出且獨立於Qt函式庫](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")，在[GPL和商業許可雙授權下發布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
 QtScript釋出後，QSA已經過時了，並在2008年結束支援。\[1\]
 

@@ -1,26 +1,26 @@
 **Intelligent Input Bus**，簡稱**IBus**，是
-[Unix-like](../Page/Unix-like.md "wikilink")
-[作業系統下的](../Page/作業系統.md "wikilink")[多語](../Page/多語.md "wikilink")[輸入法平台](../Page/輸入法.md "wikilink")。因為它採用了[-{A](../Page/匯流排.md "wikilink")（Bus）式的架構，所以命名為Bus。
+[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")
+[作業系統下的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[多語](https://zh.wikipedia.org/wiki/多語 "wikilink")[輸入法平台](https://zh.wikipedia.org/wiki/輸入法 "wikilink")。因為它採用了[-{A](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（Bus）式的架構，所以命名為Bus。
 
 ## 目標
 
 IBus 的主要目標如下：
 
-  - 易用、直覺的全功能[輸入法](../Page/輸入法.md "wikilink")[使用者介面](../Page/使用者介面.md "wikilink")
+  - 易用、直覺的全功能[輸入法](https://zh.wikipedia.org/wiki/輸入法 "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")
   - 使用驗證方法加強安全性
-  - 為輸入法開發者提供一個統一的[介面及](../Page/介面.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")
+  - 為輸入法開發者提供一個統一的[介面及](https://zh.wikipedia.org/wiki/介面 "wikilink")[函式庫](../Page/函式庫.md "wikilink")
   - 符合來自不同地域，文化的使用者需求
 
 ## 開發動機
 
-在東北亞[開源軟體](../Page/開源軟體.md "wikilink")（OSS）論壇第3工作小組\[1\]提出的「輸入法引擎服務提供者界面規格」（Specification
+在東北亞[開源軟體](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")（OSS）論壇第3工作小組\[1\]提出的「輸入法引擎服務提供者界面規格」（Specification
 of IM engine Service Provider
 Interface）草案裡\[2\]，能實現以Bus為核心的架構被建議採用。[SCIM](../Page/SCIM.md "wikilink")-1.4
-的架構並不被看好，因為它是用C++開發的，因此常常會有C++[應用二進位介面不符合的情況發生](../Page/應用二進位介面.md "wikilink")\[3\]。
+的架構並不被看好，因為它是用C++開發的，因此常常會有C++[應用二進位介面不符合的情況發生](https://zh.wikipedia.org/wiki/應用二進位介面 "wikilink")\[3\]。
 
-從那時起，一些人開始著手開發下一代的輸入法平台，像是蘇哲領導的[IM-Bus](../Page/IM-Bus.md "wikilink")，以及胡正的[SCIM-2](../Page/SCIM-2.md "wikilink")，可惜的是它們的開發進度仍然停滯不前。因此，時任[紅帽](../Page/紅帽.md "wikilink")（現任[谷歌](../Page/谷歌.md "wikilink")）的黃鵬開始用[Python開發IBus以實現](../Page/Python.md "wikilink")
+從那時起，一些人開始著手開發下一代的輸入法平台，像是蘇哲領導的[IM-Bus](https://zh.wikipedia.org/wiki/IM-Bus "wikilink")，以及胡正的[SCIM-2](https://zh.wikipedia.org/wiki/SCIM-2 "wikilink")，可惜的是它們的開發進度仍然停滯不前。因此，時任[紅帽](https://zh.wikipedia.org/wiki/紅帽 "wikilink")（現任[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")）的黃鵬開始用[Python開發IBus以實現](../Page/Python.md "wikilink")
 IM-Bus提出的構想。IBus
-並不完全實現東北亞OSS論壇所建議的函式，而是採用[D-Bus及](../Page/D-Bus.md "wikilink")[Glib來實做](../Page/Glib.md "wikilink")。儘管如此，IBus已經開始被OSS社群所接受，[FreeBSD以及各大](../Page/FreeBSD.md "wikilink")[Linux發行版](../Page/Linux發行版.md "wikilink")
+並不完全實現東北亞OSS論壇所建議的函式，而是採用[D-Bus及](../Page/D-Bus.md "wikilink")[Glib來實做](https://zh.wikipedia.org/wiki/Glib "wikilink")。儘管如此，IBus已經開始被OSS社群所接受，[FreeBSD以及各大](../Page/FreeBSD.md "wikilink")[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")
 如[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu已經將](../Page/Ubuntu.md "wikilink")
 IBus 納入其套件庫裡。在 Fedora 11 裡，IBus已經成為預設的多語輸入平台\[4\]。
 
@@ -37,21 +37,21 @@ IBus 使用[D-Bus作](../Page/D-Bus.md "wikilink") ibus-daemon服務，以及
 IM客戶端（像是konsole, gedit, firefox)之間的溝通。 ibus-daemon
 透過接受服務登錄，以及發送D-Bus訊息來管理服務及IM客戶端。
 
-IBus支援 [XIM](../Page/XIM.md "wikilink") 協議及 Gtk IM 模組以及
-[Qt](../Page/Qt.md "wikilink") IM 模組。
+IBus支援 [XIM](https://zh.wikipedia.org/wiki/XIM "wikilink") 協議及 Gtk IM
+模組以及 [Qt](../Page/Qt.md "wikilink") IM 模組。
 
 ## 特點
 
   - 輸入法引擎可以隨時載入與卸載
-  - [Systray](../Page/Systray.md "wikilink") 支援
-  - [XKB](../Page/XKB.md "wikilink") 支援
+  - [Systray](https://zh.wikipedia.org/wiki/Systray "wikilink") 支援
+  - [XKB](https://zh.wikipedia.org/wiki/XKB "wikilink") 支援
   - 配置選項更動可即時生效。
   - 提供 C 與 Python 的介面
 
 ## 現有輸入法引擎列表
 
   - ibus-anthy: [日文輸入法](../Page/日文輸入法.md "wikilink")。
-  - ibus-array: [行列輸入法](../Page/行列輸入法.md "wikilink")
+  - ibus-array: [行列輸入法](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink")
   - ibus-bopomofo:
     使用注音符號的拼音輸入法，基於ibus-pinyin引擎開發\[5\]，但輸入方式與一般標準智慧形[注音輸入法](../Page/注音輸入法.md "wikilink")（如[新酷音輸入法或微軟新注音](../Page/新酷音輸入法.md "wikilink")）不同。
   - ibus-chewing:
@@ -59,13 +59,14 @@ IBus支援 [XIM](../Page/XIM.md "wikilink") 協議及 Gtk IM 模組以及
   - ibus-hangul: 韓文輸入法。
   - ibus-kkc：日文假名漢字轉換輸入法。
   - ibus-m17n: 使用m17n-db的多語輸入法，細節請參閱
-    [\#ibus-m17n](../Page/#ibus-m17n.md "wikilink")。
-  - ibus-pinyin: [拼音輸入法](../Page/拼音輸入法.md "wikilink")，為IBus主要開發者所開發。
+    [\#ibus-m17n](https://zh.wikipedia.org/wiki/#ibus-m17n "wikilink")。
+  - ibus-pinyin:
+    [拼音輸入法](https://zh.wikipedia.org/wiki/拼音輸入法 "wikilink")，為IBus主要開發者所開發。
   - ibus-libpinyin: 是 Red Hat 工程師主導、基於 n-gram 語言模型的整合性泛拼音輸入法引擎。
   - ibus-libzhuyin: 與 ibus-libpinyin 系出同源，支援注音符號輸入，名為「新注音」(New Zhuyin)
     輸入法，是智慧形的[注音輸入法](../Page/注音輸入法.md "wikilink")。
   - ibus-table: 碼表輸入引擎，細節請參閱
-    [\#ibus-table](../Page/#ibus-table.md "wikilink")。
+    [\#ibus-table](https://zh.wikipedia.org/wiki/#ibus-table "wikilink")。
   - ibus-googlepinyin:
     Google拼音输入法的ibus版本（这个并不是官方的Google输入法，而是由爱好者从Android项目上迁移过来）
 
@@ -79,7 +80,7 @@ IBus panel (語言條)上。
 
 ibus-table 為余鈺煒所開發，針對查表型輸入法所設計的碼表輸入引擎。許多輸入法，不需要像是 ibus-chewing 或是
 ibus-pinyin
-之類的複雜選字演算法，只需要一個對照表即可運作\[6\]。許多[字形輸入法像是倉頡輸入法及五筆輸入法都由](../Page/字形輸入法.md "wikilink")
+之類的複雜選字演算法，只需要一個對照表即可運作\[6\]。許多[字形輸入法像是倉頡輸入法及五筆輸入法都由](https://zh.wikipedia.org/wiki/字形輸入法 "wikilink")
 ibus-table 所支援。
 
 [IBus_Ubuntu_12.04.1_LTS_CHT.png](https://zh.wikipedia.org/wiki/File:IBus_Ubuntu_12.04.1_LTS_CHT.png "fig:IBus_Ubuntu_12.04.1_LTS_CHT.png")
@@ -88,12 +89,13 @@ ibus-table 所支援。
 
   - latex: 使用 latex 語法來輸入特殊符號，ibus-table 自帶
   - compose: 使用 compose letter 及 diacritical mark 來輸入特殊字元，ibus-table 自帶。
-  - Array30: [行列30輸入法](../Page/行列輸入法.md "wikilink")。
-  - Cangjie: [倉頡及速成](../Page/倉頡輸入法.md "wikilink")、三代及五代。
-  - Erbi: [二筆輸入法](../Page/二筆輸入法.md "wikilink")。
-  - Wubi: [五筆輸入法](../Page/五筆輸入法.md "wikilink")。
-  - Yong: [永碼輸入法](../Page/永碼輸入法.md "wikilink")。
-  - ZhengMa: [鄭碼輸入法](../Page/鄭碼輸入法.md "wikilink")。
+  - Array30: [行列30輸入法](https://zh.wikipedia.org/wiki/行列輸入法 "wikilink")。
+  - Cangjie:
+    [倉頡及速成](https://zh.wikipedia.org/wiki/倉頡輸入法 "wikilink")、三代及五代。
+  - Erbi: [二筆輸入法](https://zh.wikipedia.org/wiki/二筆輸入法 "wikilink")。
+  - Wubi: [五筆輸入法](https://zh.wikipedia.org/wiki/五筆輸入法 "wikilink")。
+  - Yong: [永碼輸入法](https://zh.wikipedia.org/wiki/永碼輸入法 "wikilink")。
+  - ZhengMa: [鄭碼輸入法](https://zh.wikipedia.org/wiki/鄭碼輸入法 "wikilink")。
 
 1.可選字由預設的1頁6個換成主流的1頁9個 尋找 `_page_size = 6` 修改為
 
@@ -167,13 +169,13 @@ ibus-table 所支援。
 
 ## 缺陷
 
-  - 由於讀取[sqlite詞庫時有大量的IO操作](../Page/sqlite.md "wikilink")，ibus-pinyin在系統高負載時輸入時有卡住的現象。
+  - 由於讀取[sqlite詞庫時有大量的IO操作](https://zh.wikipedia.org/wiki/sqlite "wikilink")，ibus-pinyin在系統高負載時輸入時有卡住的現象。
   - 当用户在火狐浏览器文本框输入文字并希望选中文字时，文字将会自动删除\[8\]。
 
 ## 參閱
 
   - [List of input methods for UNIX
-    platforms](../Page/List_of_input_methods_for_UNIX_platforms.md "wikilink")
+    platforms](https://zh.wikipedia.org/wiki/List_of_input_methods_for_UNIX_platforms "wikilink")
 
   - [输入法](../Page/输入法.md "wikilink")
 

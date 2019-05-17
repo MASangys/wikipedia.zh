@@ -1,4 +1,4 @@
-《**七龍珠GT**》（，，簡稱：DBGT），是改編自[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](../Page/七龍珠.md "wikilink")》，在1996年2月7日到1997年11月19日播放的原創[電視動畫作品](../Page/電視動畫.md "wikilink")，這是七龍珠動畫版最後的延續故事，故事發生在《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》結束五年後的世界。
+《**七龍珠GT**》（，，簡稱：DBGT），是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》，在1996年2月7日到1997年11月19日播放的原創[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，這是七龍珠動畫版最後的延續故事，故事發生在《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》結束五年後的世界。
 此外，在播放期間1997年3月26日插入一集特別篇《七龍珠GT 悟空外傳\!勇氣的證明四星球》（）。
 
 ## 原作者關聯
@@ -47,8 +47,9 @@ Tour」壯大的旅行的涵義，這就是各位所看到的《DRAGON BALL GT�
       -
         作詞 - [坂井泉水](../Page/坂井泉水.md "wikilink") / 作曲 -
         [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 -
-        [葉山剛](../Page/葉山剛.md "wikilink") / 歌 - [FIELD OF
-        VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
+        [葉山剛](https://zh.wikipedia.org/wiki/葉山剛 "wikilink") / 歌 -
+        [FIELD OF
+        VIEW](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")
 
 ※第64話（最終回）除了主題曲之外，還在片尾曲之前以全曲形式播放
 
@@ -56,28 +57,30 @@ Tour」壯大的旅行的涵義，這就是各位所看到的《DRAGON BALL GT�
 
 :; 《》（並不是一個人）（1話 - 26話）
 
-:: 作詞 - [池森秀一](../Page/池森秀一.md "wikilink") / 作曲 - 織田哲郎 / 編曲 -
-[古井弘人](../Page/古井弘人.md "wikilink") / 歌 -
-[DEEN](../Page/DEEN.md "wikilink")
+:: 作詞 - [池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink") / 作曲 -
+織田哲郎 / 編曲 -
+[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink") /
+歌 - [DEEN](../Page/DEEN.md "wikilink")
 
 :; 《Don't you see\!》（你不明白嗎！）（27話 - 41話、SP）
 
-:: 作詞 - 坂井泉水 / 作曲 - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") / 編曲 - 葉山剛 / 歌
-- [ZARD](../Page/ZARD.md "wikilink")
+:: 作詞 - 坂井泉水 / 作曲 -
+[栗林誠一郎](https://zh.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+/ 編曲 - 葉山剛 / 歌 - [ZARD](../Page/ZARD.md "wikilink")
 
 :; 《Blue Velvet》（藍色天鵝絨）（42話 - 50話）
 
-:: 作詞 - [愛絵理](../Page/工藤静香.md "wikilink") / 作曲·編曲 -  / 歌 -
-[工藤静香](../Page/工藤静香.md "wikilink")
+:: 作詞 - [愛絵理](https://zh.wikipedia.org/wiki/工藤静香 "wikilink") / 作曲·編曲 -
+/ 歌 - [工藤静香](https://zh.wikipedia.org/wiki/工藤静香 "wikilink")
 
 :; 《》（用生鏽的機關槍擊穿今天）（51話 - 64話）
 
   -
 
       -
-        作詞·作曲 - [小松未歩](../Page/小松未歩.md "wikilink") / 編曲 -
-        [池田大介](../Page/池田大介.md "wikilink") / 歌 -
-        [WANDS](../Page/WANDS.md "wikilink")
+        作詞·作曲 - [小松未歩](https://zh.wikipedia.org/wiki/小松未歩 "wikilink") /
+        編曲 - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink") / 歌
+        - [WANDS](../Page/WANDS.md "wikilink")
 
 ## 各話列表
 
@@ -759,7 +762,7 @@ Tour」壯大的旅行的涵義，這就是各位所看到的《DRAGON BALL GT�
   - [七龍珠GT動畫版官方網頁](http://www.toei-anim.co.jp/tv/dragongt/)
 
 [en:Dragon Ball\#Dragon Ball
-GT](../Page/en:Dragon_Ball#Dragon_Ball_GT.md "wikilink")
+GT](https://zh.wikipedia.org/wiki/en:Dragon_Ball#Dragon_Ball_GT "wikilink")
 
 [Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink")
 [Category:1996年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1996年日本電視動畫 "wikilink")

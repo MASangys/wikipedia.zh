@@ -1,5 +1,5 @@
 《**ONE PIECE 被詛咒的聖劍**》是於2004年上映的第五部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -44,7 +44,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="even">
@@ -65,10 +65,10 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 #### 海軍道場
 
   -
-    聲優：[中村獅童](../Page/中村獅童_\(二代目\).md "wikilink")、[中山真奈美](../Page/中山真奈美.md "wikilink")〈童年〉（日本）；[符爽](../Page/符爽.md "wikilink")、[林美秀](../Page/林美秀.md "wikilink")〈童年〉（台灣）
+    聲優：[中村獅童](../Page/中村獅童_\(二代目\).md "wikilink")、[中山真奈美](../Page/中山真奈美.md "wikilink")〈童年〉（日本）；[符爽](../Page/符爽.md "wikilink")、[林美秀](https://zh.wikipedia.org/wiki/林美秀 "wikilink")〈童年〉（台灣）
     本片終極敵人。阿斯卡島海軍道場教頭。是索隆的兒時玩伴，與索隆幼年時期就一起在劍道場學習劍術，過去為了拯救索隆而斷了右手。後來碰觸到阿斯卡島上被封印的詛咒之劍「七星劍」，走向魔化之路。
   -
-    聲優：[内博貴](../Page/内博貴.md "wikilink")（日本）；[丘台名](../Page/丘台名.md "wikilink")（台灣）
+    聲優：[内博貴](https://zh.wikipedia.org/wiki/内博貴 "wikilink")（日本）；[丘台名](../Page/丘台名.md "wikilink")（台灣）
     海軍道場高弟，薩卡的三高弟中的一人，擅長居合斬類劍術。外號「光速劍士」（）。
   -
     聲優：佐佐木誠二（日本）；[丘台名](../Page/丘台名.md "wikilink")（台灣）
@@ -80,7 +80,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 #### 阿斯卡島
 
   -
-    聲優：[柚木涼香](../Page/柚木涼香.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[柚木涼香](../Page/柚木涼香.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     住在阿斯卡島的少女，家族世代都是巫女，背負著阻止七星劍復活的使命。
   -
     聲優：[久本雅美](../Page/久本雅美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
@@ -103,8 +103,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 ## 音樂
 
   - 「」
-    作詞：松風友也・内田浩之 / 作曲：松風友也 / 編曲：[明石昌夫](../Page/明石昌夫.md "wikilink") /
-    歌：[晴晴゛](../Page/晴晴゛.md "wikilink")
+    作詞：松風友也・内田浩之 / 作曲：松風友也 /
+    編曲：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
+    / 歌：[晴晴゛](https://zh.wikipedia.org/wiki/晴晴゛ "wikilink")
 
 ## 目標！海賊棒球王
 
@@ -148,7 +149,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
   - [官方網站](http://www.toei-anim.co.jp/movie/2004_onepiece/)
 
 [ru:Список анимационных фильмов о One Piece\#Фильм
-пятый](../Page/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый.md "wikilink")
+пятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый "wikilink")
 
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
 [Category:2004年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2004年日本劇場動畫 "wikilink")

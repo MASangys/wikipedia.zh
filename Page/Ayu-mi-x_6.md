@@ -16,19 +16,22 @@
 
 ### 收錄歌曲
 
-1.  '''[STEP you](../Page/STEP_you/is_this_LOVE?.md "wikilink") × THE
-    YOUNG PUNX\! '''
+1.  '''[STEP
+    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+    × THE YOUNG PUNX\! '''
 2.  '''[Moments](../Page/Moments_\(濱崎步單曲\).md "wikilink") × dj KENTARO
     '''
-3.  '''[talkin' 2 myself](../Page/talkin'_2_myself.md "wikilink") ×
+3.  '''[talkin' 2
+    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink") ×
     STONEBRIDGE '''
 4.  '''[Beautiful Fighters](../Page/BLUE_BIRD.md "wikilink") × MSTRKRFT
     '''
 5.  '''[INSPIRE](../Page/INSPIRE.md "wikilink") × ARMAND VAN HELDEN '''
 6.  '''[Greatful days](../Page/&_\(濱崎步單曲\).md "wikilink") × PARA ONE '''
-7.  '''[Startin'](../Page/Startin'/Born_To_Be....md "wikilink") ×
-    SHINICHI OSAWA '''
-8.  '''[glitter](../Page/glitter/fated.md "wikilink") × SOUL CENTRAL '''
+7.  '''[Startin'](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
+    × SHINICHI OSAWA '''
+8.  '''[glitter](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
+    × SOUL CENTRAL '''
 9.  '''[BLUE BIRD](../Page/BLUE_BIRD.md "wikilink") × 7th GATE '''
 10. '''[ourselves](../Page/&_\(濱崎步單曲\).md "wikilink") × COLDCUT '''
 11. '''[Ladies Night](../Page/\(miss\)understood.md "wikilink") × AFRA &
@@ -45,17 +48,21 @@
     CO-FUSION '''
 3.  '''[No way to say](../Page/No_way_to_say.md "wikilink") × HIGH
     CONTRAST '''
-4.  '''[alterna](../Page/fairyland.md "wikilink") × FREEFORM FIVE '''
-5.  '''[HEAVEN](../Page/HEAVEN.md "wikilink") × DAISHI DANCE '''
-6.  '''[fated](../Page/glitter/fated.md "wikilink") × MAKOTO '''
+4.  '''[alterna](https://zh.wikipedia.org/wiki/fairyland "wikilink") ×
+    FREEFORM FIVE '''
+5.  '''[HEAVEN](https://zh.wikipedia.org/wiki/HEAVEN "wikilink") ×
+    DAISHI DANCE '''
+6.  '''[fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink") ×
+    MAKOTO '''
 7.  '''[About You](../Page/MY_STORY.md "wikilink") × BLACK STROBE '''
-8.  '''[decision](../Page/talkin'_2_myself.md "wikilink") × FORCE OF
-    NATURE '''
-9.  '''[JEWEL](../Page/Secret_\(濱崎步專輯\)#收錄歌曲.md "wikilink") × STEPHANE
-    POMPOUGNAC '''
+8.  '''[decision](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
+    × FORCE OF NATURE '''
+9.  '''[JEWEL](https://zh.wikipedia.org/wiki/Secret_\(濱崎步專輯\)#收錄歌曲 "wikilink")
+    × STEPHANE POMPOUGNAC '''
 10. '''[CAROLS](../Page/CAROLS.md "wikilink") × PLAYGROUP '''
-11. '''[part of Me](../Page/A_BEST_2#A_BES_2_-BLACK-.md "wikilink") ×
-    CARL CRAIG '''
+11. '''[part of
+    Me](https://zh.wikipedia.org/wiki/A_BEST_2#A_BES_2_-BLACK- "wikilink")
+    × CARL CRAIG '''
 12. '''[walking proud](../Page/MY_STORY.md "wikilink") × CALM '''
 
 ## 外部連結

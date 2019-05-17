@@ -1,4 +1,4 @@
-**Kontact**是[KDE的](../Page/KDE.md "wikilink")-{zh-tw:整合個人資訊管理套件;zh-cn:整合个人信息管理套件}-。提供日曆、通訊簿、筆記、待辦事項、新聞和電子郵件的功能。使用[KPart來嵌入各種](../Page/KPart.md "wikilink")[應用程式](../Page/應用程式.md "wikilink")（**[KMail](../Page/KMail.md "wikilink")、[KAddressBook](../Page/#Address_Book.md "wikilink")、[Akregator](../Page/Akregator.md "wikilink")**等）放入到容器應用程式。
+**Kontact**是[KDE的](../Page/KDE.md "wikilink")-{zh-tw:整合個人資訊管理套件;zh-cn:整合个人信息管理套件}-。提供日曆、通訊簿、筆記、待辦事項、新聞和電子郵件的功能。使用[KPart來嵌入各種](https://zh.wikipedia.org/wiki/KPart "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")（**[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")、[KAddressBook](https://zh.wikipedia.org/wiki/#Address_Book "wikilink")、[Akregator](../Page/Akregator.md "wikilink")**等）放入到容器應用程式。
 
 ## “Kontact” 和 “KDE PIM”之間的差異
 
@@ -33,13 +33,13 @@ decide later, delete」選項，KMail會列出郵件，但並不會下載整個�
 #### 加密支持
 
 [KMail_Encryption.png](https://zh.wikipedia.org/wiki/File:KMail_Encryption.png "fig:KMail_Encryption.png")
-KMail支持[OpenPGP標準](../Page/OpenPGP.md "wikilink")，可以自動加密、解密、憑証和驗證電子郵件的憑証及其經由內嵌或OpenPGP/MIME方法加密的附件。作為視覺輔助，KMail將電子郵件用綠色表示為信任憑証；黃色不可信憑証；紅色為無效憑証；和藍色的加密郵件。
+KMail支持[OpenPGP標準](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")，可以自動加密、解密、憑証和驗證電子郵件的憑証及其經由內嵌或OpenPGP/MIME方法加密的附件。作為視覺輔助，KMail將電子郵件用綠色表示為信任憑証；黃色不可信憑証；紅色為無效憑証；和藍色的加密郵件。
 
-KMail也支持[S/MIME郵件以及Chiasmus](../Page/S/MIME.md "wikilink")\[1\]，一個德國信息安全聯邦辦公室（BSI）所創造的專有加密系統。
+KMail也支持[S/MIME郵件以及Chiasmus](https://zh.wikipedia.org/wiki/S/MIME "wikilink")\[1\]，一個德國信息安全聯邦辦公室（BSI）所創造的專有加密系統。
 
 #### 支持的郵件協定及驗證模式
 
-它可以接收[IMAP](../Page/IMAP.md "wikilink")、[dIMAP](../Page/dIMAP.md "wikilink")\[2\]、[POP3](../Page/POP3.md "wikilink")、Maildir和本地信箱收到的郵件，支持流水線下載加速技術。它可以透過[SMTP或sendmail發送郵件](../Page/SMTP.md "wikilink")。支持加密方式有[SSL及](../Page/SSL.md "wikilink")[TLS](../Page/TLS.md "wikilink")，验证模式包含Login、Plain、Cram-MD5、Digest-MD5、NTLM、GSSAPI及APOP。
+它可以接收[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[dIMAP](https://zh.wikipedia.org/wiki/dIMAP "wikilink")\[2\]、[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")、Maildir和本地信箱收到的郵件，支持流水線下載加速技術。它可以透過[SMTP或sendmail發送郵件](https://zh.wikipedia.org/wiki/SMTP "wikilink")。支持加密方式有[SSL及](https://zh.wikipedia.org/wiki/SSL "wikilink")[TLS](https://zh.wikipedia.org/wiki/TLS "wikilink")，验证模式包含Login、Plain、Cram-MD5、Digest-MD5、NTLM、GSSAPI及APOP。
 
 ### 通訊錄
 
@@ -47,7 +47,7 @@ KMail也支持[S/MIME郵件以及Chiasmus](../Page/S/MIME.md "wikilink")\[1\]，
 
 #### 功能
 
-  - 匯出和匯入[vCard格式](../Page/vCard.md "wikilink")。
+  - 匯出和匯入[vCard格式](https://zh.wikipedia.org/wiki/vCard "wikilink")。
   - 自定分類。
   - 能搜尋地址的過濾器。
 
@@ -62,11 +62,13 @@ KMail也支持[S/MIME郵件以及Chiasmus](../Page/S/MIME.md "wikilink")\[1\]，
 
 ### 其他組件
 
-  - E-Mail：[KMail](../Page/KMail.md "wikilink")
+  - E-Mail：[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")
   - 消息來源聚合器：[Akregator](../Page/Akregator.md "wikilink")
-  - 筆記：[KNotes](../Page/KNotes.md "wikilink") - KDE 筆記管理
-  - 新聞消息: [KNewsTicker](../Page/KNewsTicker.md "wikilink")
-  - 天氣: [KWeather](../Page/KWeather.md "wikilink")
+  - 筆記：[KNotes](https://zh.wikipedia.org/wiki/KNotes "wikilink") - KDE
+    筆記管理
+  - 新聞消息:
+    [KNewsTicker](https://zh.wikipedia.org/wiki/KNewsTicker "wikilink")
+  - 天氣: [KWeather](https://zh.wikipedia.org/wiki/KWeather "wikilink")
 
 ### 存儲後端
 

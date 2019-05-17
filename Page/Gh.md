@@ -14,7 +14,7 @@
 
 ### 義大利語與羅馬尼亞語
 
-在[義大利語與](../Page/義大利語.md "wikilink")[羅馬尼亞語中](../Page/羅馬尼亞語.md "wikilink")，在和前都發[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")。
+在[義大利語與](https://zh.wikipedia.org/wiki/義大利語 "wikilink")[羅馬尼亞語中](../Page/羅馬尼亞語.md "wikilink")，在和前都發[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")。
 
 ### 克林貢語
 
@@ -36,16 +36,16 @@
 
 ### 臺語
 
-  - 在[臺語通用拼音中](../Page/臺語通用拼音.md "wikilink")，gh是一個單獨的字母，代表着輔音[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")\[1\]。
+  - 在[臺語通用拼音中](https://zh.wikipedia.org/wiki/臺語通用拼音 "wikilink")，gh是一個單獨的字母，代表着輔音[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")\[1\]。
 
 ### 維吾爾語
 
-  - 在維吾爾語的[拉丁维文中](../Page/拉丁维文.md "wikilink")，gh是一個單獨的字母（[二合字母](../Page/二合字母.md "wikilink")），代表着[輔音](../Page/輔音.md "wikilink")[濁軟顎擦音](../Page/濁軟顎擦音.md "wikilink")。
+  - 在維吾爾語的[拉丁维文中](../Page/拉丁维文.md "wikilink")，gh是一個單獨的字母（[二合字母](../Page/二合字母.md "wikilink")），代表着[輔音](https://zh.wikipedia.org/wiki/輔音 "wikilink")[濁軟顎擦音](../Page/濁軟顎擦音.md "wikilink")。
 
 ## 將拉丁字母作為轉寫方案
 
 在各種語言的羅馬化方案中，通常代表[濁小舌擦音](../Page/濁小舌擦音.md "wikilink")。而就像
-，也可能是[咽音](../Page/咽音.md "wikilink")，這種情況出現於一些高加索語言和美國本土語言。在[印度-雅利安語支語言](../Page/印度-雅利安語支.md "wikilink")（包括[梵語和](../Page/梵語.md "wikilink")[印地語等](../Page/印地語.md "wikilink")）及[原始印歐語的轉錄中](../Page/原始印歐語.md "wikilink")，
+，也可能是[咽音](../Page/咽音.md "wikilink")，這種情況出現於一些高加索語言和美國本土語言。在[印度-雅利安語支語言](https://zh.wikipedia.org/wiki/印度-雅利安語支 "wikilink")（包括[梵語和](https://zh.wikipedia.org/wiki/梵語 "wikilink")[印地語等](https://zh.wikipedia.org/wiki/印地語 "wikilink")）及[原始印歐語的轉錄中](../Page/原始印歐語.md "wikilink")，
 代表的是送氣的[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")。
 
 ## 參看
@@ -64,4 +64,4 @@
 
 [Category:二合字母](https://zh.wikipedia.org/wiki/Category:二合字母 "wikilink")
 
-1.  [董峰政](../Page/董峰政.md "wikilink"),"臺語通用拼音字典",臺南市寧南語言文化協會,[臺南市](../Page/臺南市.md "wikilink"),2006年7月.
+1.  [董峰政](https://zh.wikipedia.org/wiki/董峰政 "wikilink"),"臺語通用拼音字典",臺南市寧南語言文化協會,[臺南市](https://zh.wikipedia.org/wiki/臺南市 "wikilink"),2006年7月.

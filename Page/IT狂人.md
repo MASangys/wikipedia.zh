@@ -1,9 +1,10 @@
-《**IT狂人**》（，或\[1\]）是[英国第四台的一部](../Page/英国第四台.md "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")，编剧为[格雷厄姆·莱恩汉](../Page/格雷厄姆·莱恩汉.md "wikilink")，制片人为阿什·阿塔拉（）。该剧于2006年2月3日首播，共播出4季25集，于2013年9月27日以一部特别篇完结。《IT狂人》获得了多个奖项和提名，包括[英国学术电视奖和](../Page/英国学术电视奖.md "wikilink")[艾美奖](../Page/艾美奖.md "wikilink")\[2\]。
+《**IT狂人**》（，或\[1\]）是[英国第四台的一部](https://zh.wikipedia.org/wiki/英国第四台 "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")，编剧为[格雷厄姆·莱恩汉](https://zh.wikipedia.org/wiki/格雷厄姆·莱恩汉 "wikilink")，制片人为阿什·阿塔拉（）。该剧于2006年2月3日首播，共播出4季25集，于2013年9月27日以一部特别篇完结。《IT狂人》获得了多个奖项和提名，包括[英国学术电视奖和](https://zh.wikipedia.org/wiki/英国学术电视奖 "wikilink")[艾美奖](../Page/艾美奖.md "wikilink")\[2\]。
 
-电视剧的背景為一家名雷荷姆（）的虛構公司，以三位任職於IT部門的主人翁為主題，其中包括兩個電腦怪胎和對電腦一竅不通的「員工關係經理」。他們分別是莫里斯·摩斯（，[理查德·艾欧阿德饰](../Page/理查德·艾欧阿德.md "wikilink")）、羅伊·崔尼曼（，[克里斯·奥多德飾](../Page/克里斯·奥多德.md "wikilink")）和珍·巴伯（，[凱瑟琳·帕金森飾](../Page/凱瑟琳·帕金森.md "wikilink")）。电视剧也聚焦于雷荷姆工业（）的老板们:
+电视剧的背景為一家名雷荷姆（）的虛構公司，以三位任職於IT部門的主人翁為主題，其中包括兩個電腦怪胎和對電腦一竅不通的「員工關係經理」。他們分別是莫里斯·摩斯（，[理查德·艾欧阿德饰](../Page/理查德·艾欧阿德.md "wikilink")）、羅伊·崔尼曼（，[克里斯·奥多德飾](https://zh.wikipedia.org/wiki/克里斯·奥多德 "wikilink")）和珍·巴伯（，[凱瑟琳·帕金森飾](https://zh.wikipedia.org/wiki/凱瑟琳·帕金森 "wikilink")）。电视剧也聚焦于雷荷姆工业（）的老板们:
 Denholm Reynholm ([Chris
-Morris](../Page/Chris_Morris_\(satirist\).md "wikilink")) 和之后的, 他的儿子
-Douglas ([Matt Berry](../Page/Matt_Berry.md "wikilink")).
+Morris](https://zh.wikipedia.org/wiki/Chris_Morris_\(satirist\) "wikilink"))
+和之后的, 他的儿子 Douglas ([Matt
+Berry](https://zh.wikipedia.org/wiki/Matt_Berry "wikilink")).
 
 《IT狂人》是格雷厄姆·莱恩汉主创的第三部成功的情境喜劇，前兩部為《Father
 Ted》（與亞瑟·馬修合寫）和《[布莱克书店](../Page/布莱克书店.md "wikilink")》（與[迪伦·莫兰合寫](../Page/迪伦·莫兰.md "wikilink")）。
@@ -12,7 +13,8 @@ Ted》（與亞瑟·馬修合寫）和《[布莱克书店](../Page/布莱克书�
 
 《IT狂人》的背景设定在一家位于英国伦敦123 Carenden
 Road，名为雷荷姆（）的虚构公司的办公室，故事围绕着一个强大的三人IT团队的一些恶作剧展开。IT团队工作在一个的杂乱的地下室，与公司闪亮的现代建筑以及公司其他成员享受到的震撼的伦敦风景产生了巨大的反差。公司默默无闻的背景作为一个笑料在整个剧集中反复出现
-- 关于公司已知的所有信息只是公司买下然后卖掉了[ITV](../Page/ITV_\(TV_network\).md "wikilink")
+-
+关于公司已知的所有信息只是公司买下然后卖掉了[ITV](https://zh.wikipedia.org/wiki/ITV_\(TV_network\) "wikilink")
 (一个被Denholm Reynholm忘记的事实)，和曾经"十八亿亿"的年利润。 然而; 在剧集中曾暗示到雷荷姆工业（）是一个通讯公司,
 剧中Denholm Reynholm 曾经提到通过收购手机运营商和电视台, 公司创造了英国最大的通讯帝国。 Douglas
 Reynholm 声称其父亲 Denholm Reynholm 把IT部门称为一个由
@@ -48,10 +50,10 @@ Denholm相信了珍在面试中的吹嘘并且任命珍为IT部的主管。在�
 ### 2013 特别篇
 
 "[The Internet Is
-Coming](../Page/List_of_The_IT_Crowd_episodes#ep25.md "wikilink")"
+Coming](https://zh.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#ep25 "wikilink")"
 (有时被错误认为成 "The Last Byte"),\[4\]\[5\]\[6\] 《IT狂人》最终篇章，
 在2013年9月27日作为特辑播放。 制作开始于2011年, 影片于2013年七月杀青.
-[克里斯·奥多德](../Page/克里斯·奥多德.md "wikilink")
+[克里斯·奥多德](https://zh.wikipedia.org/wiki/克里斯·奥多德 "wikilink")
 (罗伊)在拍摄完成后说:
 "再次和这些角色打招呼非常开心–但同时也是和他们说再见的时候。我觉得我们目前可能已经拍完了，如果我们之后继续拍的话我会很吃惊."\[7\]
 

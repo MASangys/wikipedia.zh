@@ -1,6 +1,6 @@
 《**Dancing Blade 任性桃天使！**》（）為[科樂美發售之互動式動畫](../Page/科樂美.md "wikilink")。
 
-遊戲一輪需要30分鐘左右，利用動畫中特定時機出現的選項使故事產生分歧，是一款多重結局[冒險遊戲](../Page/冒險遊戲.md "wikilink")。
+遊戲一輪需要30分鐘左右，利用動畫中特定時機出現的選項使故事產生分歧，是一款多重結局[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
 
 動畫製作公司為[京都動畫](../Page/京都動畫.md "wikilink")。
 
@@ -58,7 +58,7 @@
 
 故事描寫一位從桃子中誕生的少女「桃姬」，為了尋找自己出生的秘密，與同伴們展開的種種冒險。天真少根筋的少女小狗、性感的大姐姐稚女、身穿鎧甲孔武有力的高大男人猿吉等故事中的角色，構想皆來自[日本](../Page/日本.md "wikilink")[童話](../Page/童話.md "wikilink")[桃太郎](../Page/桃太郎.md "wikilink")，除此之外亦有其它童話角色登場（主角不屬於任何童話故事，設定上是桃姬兒時玩伴的少年）。
 
-故事分歧及結局只有數種模式，遊戲性並不是很高，因此也有與其稱之為遊戲不如稱之為「多重結局[OVA](../Page/OVA.md "wikilink")」更為妥當的評價。實際上於2006年發售的PlayStation
+故事分歧及結局只有數種模式，遊戲性並不是很高，因此也有與其稱之為遊戲不如稱之為「多重結局[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")」更為妥當的評價。實際上於2006年發售的PlayStation
 Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體」。
 
   - Dancing Blade 任性桃天使！
@@ -104,7 +104,8 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 ## 登場人物
 
   -
-    年齡：16歲 身高：159cm 體重：46kg 生日：3月3日 星座：[雙魚座](../Page/雙魚座.md "wikilink")
+    年齡：16歲 身高：159cm 體重：46kg 生日：3月3日
+    星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
     血型：A型 三圍：B83/W58/H85 喜歡的東西：煙火 討厭的東西：蝗蟲 興趣：吃東西
 
     在忍者村裡長大的活潑開朗、富正義感的女孩。特徵是長度及腰的馬尾與粉紅色迷你裙風格、明顯展現出身體曲線的忍者裝。腰間佩帶著出生時就得到的神秘短刀·白桃丸，可解放其蘊藏的力量使桃姬變身為桃天使。
@@ -129,7 +130,8 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
     在Ⅱ的OP裡有與神秘人物在雲海上戰鬥的場面，似乎是轉生成桃姬之前的桃天使。
 
   -
-    年齡：15歲 身高：166cm 體重：53kg 生日：8月6日 星座：[獅子座](../Page/獅子座.md "wikilink")
+    年齡：15歲 身高：166cm 體重：53kg 生日：8月6日
+    星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
     血型：A型 喜歡的東西：書 討厭的東西：吵鬧的地方 興趣：學魔法
 
     隨處可見的平凡少年，個性老實且心地善良，是個一旦下定決心不做到底不善罷甘休的拼命三郎。
@@ -142,8 +144,8 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 
   -
     年齡：15歲 身高：153cm 體重：47kg 生日：11月10日
-    星座：[天蠍座](../Page/天蠍座.md "wikilink") 血型：B型
-    三圍：B85/W57/H87 喜歡的東西：河豚 討厭的東西：栗子 興趣：睡午覺
+    星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
+    血型：B型 三圍：B85/W57/H87 喜歡的東西：河豚 討厭的東西：栗子 興趣：睡午覺
 
   -
     年齡：16歲 身高：167cm 體重：51kg 生日：8月31日 星座：[室女座](../Page/室女座.md "wikilink")
@@ -213,11 +215,11 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
 
 ## 主要工作人員
 
-  - 製作人：[熊坂省吾](../Page/熊坂省吾.md "wikilink")
-  - 程式：[川本典男](../Page/川本典男.md "wikilink")
-  - 2D繪圖：熊坂省吾、[中山大輔](../Page/中山大輔.md "wikilink")
-  - 數位編輯：[今泉健一郎](../Page/今泉健一郎.md "wikilink")
-  - 音效製作人：[阪上登](../Page/阪上登.md "wikilink")
+  - 製作人：[熊坂省吾](https://zh.wikipedia.org/wiki/熊坂省吾 "wikilink")
+  - 程式：[川本典男](https://zh.wikipedia.org/wiki/川本典男 "wikilink")
+  - 2D繪圖：熊坂省吾、[中山大輔](https://zh.wikipedia.org/wiki/中山大輔 "wikilink")
+  - 數位編輯：[今泉健一郎](https://zh.wikipedia.org/wiki/今泉健一郎 "wikilink")
+  - 音效製作人：[阪上登](https://zh.wikipedia.org/wiki/阪上登 "wikilink")
   - 音響監督：阪上登
   - 效果：
   - 音樂：阪上登
@@ -227,22 +229,22 @@ Portable版並非遊戲，而被歸類為使用UMD-Video功能的「影像軟體
   - 監督：[石原立也](../Page/石原立也.md "wikilink")
   - 演出：石原立也
   - 作畫監督：[武本康弘](../Page/武本康弘.md "wikilink")
-  - 特效監督：[北之原孝將](../Page/北之原孝將.md "wikilink")
+  - 特效監督：[北之原孝將](https://zh.wikipedia.org/wiki/北之原孝將 "wikilink")
   - 動畫：京都動畫大阪工作室、
-  - 色彩設定：[石井祥子](../Page/石井祥子.md "wikilink")
+  - 色彩設定：[石井祥子](https://zh.wikipedia.org/wiki/石井祥子 "wikilink")
   - 數位製作：[京都動畫數位開發部](../Page/京都動畫.md "wikilink")、[山本寬](../Page/山本寬.md "wikilink")
-  - 美術設定：[森川篤](../Page/森川篤.md "wikilink")
-  - 美術監督：[鵜之口穰二](../Page/鵜之口穰二.md "wikilink")
-  - 制作製作人：[八田陽子](../Page/八田陽子.md "wikilink")
+  - 美術設定：[森川篤](https://zh.wikipedia.org/wiki/森川篤 "wikilink")
+  - 美術監督：[鵜之口穰二](https://zh.wikipedia.org/wiki/鵜之口穰二 "wikilink")
+  - 制作製作人：[八田陽子](https://zh.wikipedia.org/wiki/八田陽子 "wikilink")
   - 人物設定：武本康弘
   - 機械設定：桃姬Project
   - 機械設定協力：小川浩
-  - 動畫製作人：[八田英明](../Page/八田英明.md "wikilink")
+  - 動畫製作人：[八田英明](https://zh.wikipedia.org/wiki/八田英明 "wikilink")
 
 ## 相關條目
 
   - [YARUDORA](../Page/YARUDORA.md "wikilink")
-      - [索尼電腦娛樂發售之類似的分歧型動畫遊戲](../Page/索尼電腦娛樂.md "wikilink")
+      - [索尼電腦娛樂發售之類似的分歧型動畫遊戲](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")
 
 ## 外部連結
 

@@ -1,30 +1,31 @@
-**[Windows 7开发历史](../Page/Windows_7.md "wikilink")**从[Windows
+**[Windows
+7开发历史](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")**从[Windows
 Vista发布后开始记录](../Page/Windows_Vista.md "wikilink")。
 
 Milestone 1、Milestone 2和Milestone
-3在2008年被送给微软合作伙伴。2008年10月，[微软在](../Page/微软.md "wikilink")[專業開發者大會](../Page/專業開發者大會.md "wikilink")(PDC)大会上公布了Build
-6801并且宣布Beta版将在1月发布。RC版本将会在2009年4月30日提供给[MSDN和](../Page/MSDN.md "wikilink")[Technet的订阅用户](../Page/Technet.md "wikilink")，而在2009年5月5日向公众发布。2009年7月22日微軟發行最後一版的Windows
+3在2008年被送给微软合作伙伴。2008年10月，[微软在](../Page/微软.md "wikilink")[專業開發者大會](https://zh.wikipedia.org/wiki/專業開發者大會 "wikilink")(PDC)大会上公布了Build
+6801并且宣布Beta版将在1月发布。RC版本将会在2009年4月30日提供给[MSDN和](https://zh.wikipedia.org/wiki/MSDN "wikilink")[Technet的订阅用户](https://zh.wikipedia.org/wiki/Technet "wikilink")，而在2009年5月5日向公众发布。2009年7月22日微軟發行最後一版的Windows
 7給製造廠商。\[1\]8月6日，MSDN和Technet的订阅用户可以下载該版本。各种不同的版本也已经泄漏。微软确认正式版[Windows
-7将在](../Page/Windows_7.md "wikilink")2009年10月22日发布。
+7将在](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")2009年10月22日发布。
 
 ## 历史
 
 2000年，微軟計畫繼續開發[Windows
-XP及其](../Page/Windows_XP.md "wikilink")[伺服器版本](../Page/伺服器.md "wikilink")[Windows
+XP及其](../Page/Windows_XP.md "wikilink")[伺服器版本](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[Windows
 Server
 2003](../Page/Windows_Server_2003.md "wikilink")（開發代號皆為「Whistler」）的新版本，開發代號為「Blackcomb」（指度假勝地「Whistler-Blackcomb」）。這计划當時預定於2005年發行。\[2\]\[3\]
 
 Blackcomb計畫的主要重點在於有效的搜尋和查詢資料，且開發一種先進的儲存系統名為[WinFS以滿足此計畫](../Page/WinFS.md "wikilink")。在這樣的情況下，微軟創辦人比爾·蓋茲稱讚Blackcomb像是「一台可以認得使用者所輸入的句子的打字機」。\[4\]
 
-不久之後，Blackcomb臨時被延後，代替的是下一版本，開發代號為「[Longhorn](../Page/Longhorn.md "wikilink")」，預定於2003年發行。\[5\]
+不久之後，Blackcomb臨時被延後，代替的是下一版本，開發代號為「[Longhorn](https://zh.wikipedia.org/wiki/Longhorn "wikilink")」，預定於2003年發行。\[5\]
 然而，Longhorn擁有了一些本來要在Blackcomb上發表的新功能，包括WinFS、[桌面視窗管理員](../Page/桌面視窗管理員.md "wikilink")，及新版本的系統組件[.NET
-Framework](../Page/.NET_Framework.md "wikilink")。
+Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。
 
 ## 版本
 
-初時，開發代碼為「Blackcomb」的[作業系統曾原訂於](../Page/作業系統.md "wikilink")[Windows
+初時，開發代碼為「Blackcomb」的[作業系統曾原訂於](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Windows
 XP後發售](../Page/Windows_XP.md "wikilink")。2001年8月，微軟突然宣佈延後數年。[Windows
-XP和Blackcomb之間](../Page/Windows_XP.md "wikilink")，加插[Vista](../Page/Windows_Vista.md "wikilink")（開發代號「[Longhorn](../Page/Longhorn.md "wikilink")」）。自此，Blackcomb被修改多次，擾亂Blackcomb系列的推出計劃。直至2006年，仍在內部的[伺服器及](../Page/伺服器.md "wikilink")[用戶端版本階段](../Page/用戶端.md "wikilink")。
+XP和Blackcomb之間](../Page/Windows_XP.md "wikilink")，加插[Vista](../Page/Windows_Vista.md "wikilink")（開發代號「[Longhorn](https://zh.wikipedia.org/wiki/Longhorn "wikilink")」）。自此，Blackcomb被修改多次，擾亂Blackcomb系列的推出計劃。直至2006年，仍在內部的[伺服器及](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[用戶端版本階段](https://zh.wikipedia.org/wiki/用戶端 "wikilink")。
 
 2006年1月，Blackcomb改名「Vienna」（維也納）\[6\]。2007年7月，微軟證實內部正式代號為Windows
 7\[7\]。而Windows 7為系统名稱和版本號並沒有直接的關係，就像Windows Vista和Windows
@@ -45,16 +46,17 @@ Sinofsky在首先發表的博客中承認，微軟將在2008年10月27日在洛�
 ### Milestone 1
 
 Windows 7的第一測試版「Milestone 1（M1）」發現，根據TG
-Diary所寫該版本編號為6.1.6519.1。2008年1月，共有[x86及](../Page/x86.md "wikilink")[x86-64兩種版本傳送給微軟夥伴](../Page/x86-64.md "wikilink")。\[9\]\[10\]
+Diary所寫該版本編號為6.1.6519.1。2008年1月，共有[x86及](https://zh.wikipedia.org/wiki/x86 "wikilink")[x86-64兩種版本傳送給微軟夥伴](https://zh.wikipedia.org/wiki/x86-64 "wikilink")。\[9\]\[10\]
 Build 6519是第一版擁有不同型態的工作列，儘管沒有人知道如何啟動新的工作列。\[11\]
 雖然微軟沒有證實，但預覽擷圖仍經由各種管道泄漏。\[12\]\[13\]
 M1程式碼編譯為一獨立系統，可以雙重開機與Windows Vista並存，且已停止Windows Vista [Service Pack
-1安裝](../Page/Windows_Vista#Service_Pack_1.md "wikilink")。\[14\]
+1安裝](https://zh.wikipedia.org/wiki/Windows_Vista#Service_Pack_1 "wikilink")。\[14\]
 可釘選及取消釘選程式至工作列。
 
 2008年4月20日，版本編號6.1.6574.1 M1第二版本的擷圖和影片泄漏出。此版本包含對[Windows
-Explorer和新的](../Page/Windows_Explorer.md "wikilink")[Windows
-Health Center的修改](../Page/Windows_Health_Center.md "wikilink")。\[15\]
+Explorer和新的](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")[Windows
+Health
+Center的修改](https://zh.wikipedia.org/wiki/Windows_Health_Center "wikilink")。\[15\]
 
 ### Milestone 2
 
@@ -65,14 +67,15 @@ Vista不同的工作列，其中的特點是不同區塊有不同的顏色。主
 
 ### Milestone 3
 
-根據[Paul Thurrott所述](../Page/Paul_Thurrott.md "wikilink")，「Milestone
-3（M3）」（build 6780） 已於2008年9月7日當週傳送給微軟員工及合作夥伴。 由ZDNet的Mary Jo
-Foley\[19\] 和傳教士（UX Evangelist）Stephen Chapman\[20\] 描述，M3和Windows
+根據[Paul
+Thurrott所述](https://zh.wikipedia.org/wiki/Paul_Thurrott "wikilink")，「Milestone
+3（M3）」（build 6780） 已於2008年9月7日當週傳送給微軟員工及合作夥伴。 由ZDNet的Mary Jo Foley\[19\]
+和傳教士（UX Evangelist）Stephen Chapman\[20\] 描述，M3和Windows
 Vista有類似的視覺與功能，且部分內建於該版本的應用程式有與[Office
-2007相似的](../Page/Office_2007.md "wikilink")[ribbon介面](../Page/Microsoft_Office_2007#Ribbon.md "wikilink")。\[21\]
+2007相似的](https://zh.wikipedia.org/wiki/Office_2007 "wikilink")[ribbon介面](https://zh.wikipedia.org/wiki/Microsoft_Office_2007#Ribbon "wikilink")。\[21\]
 
-許多Windows舊版本的應用程式被移除掉，包含[行事曆](../Page/Windows行事曆.md "wikilink")、[連絡人](../Page/Windows_連絡人.md "wikilink")、[Mail](../Page/Windows_Mail.md "wikilink")、[會議空間](../Page/Windows_會議空間.md "wikilink")、[Movie
-Maker](../Page/Windows_Movie_Maker.md "wikilink")、[相片圖庫](../Page/Windows相片圖庫.md "wikilink")，並將於[Windows
+許多Windows舊版本的應用程式被移除掉，包含[行事曆](https://zh.wikipedia.org/wiki/Windows行事曆 "wikilink")、[連絡人](https://zh.wikipedia.org/wiki/Windows_連絡人 "wikilink")、[Mail](../Page/Windows_Mail.md "wikilink")、[會議空間](https://zh.wikipedia.org/wiki/Windows_會議空間 "wikilink")、[Movie
+Maker](../Page/Windows_Movie_Maker.md "wikilink")、[相片圖庫](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")，並將於[Windows
 Live](../Page/Windows_Live.md "wikilink") Wave 3測試版開放下載。\[22\]
 WinFuture.de之後泄露了192張Windows 7 build 6780的擷圖。\[23\] Windows 7 build
 6780企業版開始泄露於網路上。
@@ -89,7 +92,7 @@ Vista風格的工作列](../Page/Windows_Vista.md "wikilink")。
 Center等地方都有改進，原本[Windows
 Vista風格的工作列遭到移除](../Page/Windows_Vista.md "wikilink")。
 
-### [Beta](../Page/預覽版本#Beta.md "wikilink") (測試版)
+### [Beta](https://zh.wikipedia.org/wiki/預覽版本#Beta "wikilink") (測試版)
 
 2008年12月20日，部分內部人員收到微軟郵件，在Microsoft Connect的Windows 7項目已經開始，Windows 7
 Beta Build 6.1.7000.0.081212-1400已經分發給了部分測試者。
@@ -101,9 +104,9 @@ Beta 32位元被泄露出，而且很快的被散布在P2P及許多的FTP上。 
 
 2009年1月9日，微軟正式對外發佈32位元及64位元的Beta版，版本號為「7000.winmain_win7beta.081212-1400.」，原定首250萬用戶才可下載Windows
 7 Beta。但由於用戶反應超乎預期，微軟隨後決定取消此限制，並延長公開下載期限至1月24日\[26\]\[27\]
-，后又再次延长至2月10日。\[28\]。[32位元提供](../Page/32位元.md "wikilink")[英文](../Page/英文.md "wikilink")、[德文](../Page/德文.md "wikilink")、[日文](../Page/日文.md "wikilink")、[阿拉伯文和](../Page/阿拉伯文.md "wikilink")[印度文](../Page/印度文.md "wikilink")。[64位元提供](../Page/64位元.md "wikilink")[英文](../Page/英文.md "wikilink")、[德文](../Page/德文.md "wikilink")、[阿拉伯文](../Page/阿拉伯文.md "wikilink")、[日文](../Page/日文.md "wikilink")。同时，亦有提供[繁體中文和](../Page/繁體中文.md "wikilink")[简体中文在](../Page/简体中文.md "wikilink")[32位元和](../Page/32位元.md "wikilink")[64位元的](../Page/64位元.md "wikilink")[语言包供中文用户下载安装](../Page/语言包.md "wikilink")。但目前已經停止提供下載，而裝有Beta版的電腦將從7月1日起每兩小時自動關機，且將會於8月1日停止運作。
+，后又再次延长至2月10日。\[28\]。[32位元提供](../Page/32位元.md "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[阿拉伯文和](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")[印度文](https://zh.wikipedia.org/wiki/印度文 "wikilink")。[64位元提供](../Page/64位元.md "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")。同时，亦有提供[繁體中文和](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[简体中文在](https://zh.wikipedia.org/wiki/简体中文 "wikilink")[32位元和](../Page/32位元.md "wikilink")[64位元的](../Page/64位元.md "wikilink")[语言包供中文用户下载安装](https://zh.wikipedia.org/wiki/语言包 "wikilink")。但目前已經停止提供下載，而裝有Beta版的電腦將從7月1日起每兩小時自動關機，且將會於8月1日停止運作。
 
-### [Release Candidate](../Page/預覽版本#Release_Candidate.md "wikilink") (RC，發行候選版)
+### [Release Candidate](https://zh.wikipedia.org/wiki/預覽版本#Release_Candidate "wikilink") (RC，發行候選版)
 
 2009年5月5日Release Candidate(Build 7100)在Microsoft Site公開下載。
 [Windows_7.png](https://zh.wikipedia.org/wiki/File:Windows_7.png "fig:Windows_7.png")
@@ -175,8 +178,8 @@ RC版本將推遲到5月發佈，而不是此前預期的4月份。此前有報�
 Bay等BT網路上蔓延，版本號為7100，編譯字元串為7100.0.winmain_win7rc.090421-1700，完成於4月21日下午五點。
 
 2009年5月5日，微軟正式發布RC版本。\[37\] 同時微軟還介紹了一個新的技術，這個功能命名為「[Windows
-XP模式](../Page/Windows_XP模式.md "wikilink")」（Windows XP Mode,
-XPM）。這個功能可以使用者在同一個桌面上運行Windows XP和Windows
+XP模式](https://zh.wikipedia.org/wiki/Windows_XP模式 "wikilink")」（Windows
+XP Mode, XPM）。這個功能可以使用者在同一個桌面上運行Windows XP和Windows
 7應用程式。這個功能免費提供給Windows 7
 Professional、Enterprise和Ultimate版本用戶。\[38\]
 

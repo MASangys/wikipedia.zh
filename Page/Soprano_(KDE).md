@@ -1,6 +1,7 @@
 **Soprano**
-是一個軟件庫，提供了一個物件導向的C++/Qt4框架處理[RDF數據](../Page/RDF.md "wikilink")。Soprano創建作為[NEPOMUK項目下的一個子項目](../Page/NEPOMUK.md "wikilink")，構成[KDE
-4語義學桌面的一部分](../Page/KDE_4.md "wikilink")\[1\]。Soprano將作為一個倉庫來存儲 NEPOMUK
+是一個軟件庫，提供了一個物件導向的C++/Qt4框架處理[RDF數據](https://zh.wikipedia.org/wiki/RDF "wikilink")。Soprano創建作為[NEPOMUK項目下的一個子項目](../Page/NEPOMUK.md "wikilink")，構成[KDE
+4語義學桌面的一部分](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")\[1\]。Soprano將作為一個倉庫來存儲
+NEPOMUK
 伺服器所產生的信息（如評級、標籤或意見）。然後將索引提供給[Strigi來產生更好的搜索結果](../Page/Strigi.md "wikilink")\[2\]。
 
 ## 功能

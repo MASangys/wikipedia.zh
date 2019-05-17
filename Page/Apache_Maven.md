@@ -1,14 +1,14 @@
 [Maven_repository_artifact_growth.png](https://zh.wikipedia.org/wiki/File:Maven_repository_artifact_growth.png "fig:Maven_repository_artifact_growth.png")
 
 **Apache
-Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](../Page/Java_\(编程语言\).md "wikilink")）[项目管理及](../Page/项目管理.md "wikilink")[自动构建工具](../Page/自动构建.md "wikilink")，由[Apache软件基金会所提供](../Page/Apache软件基金会.md "wikilink")。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
+Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理及](../Page/项目管理.md "wikilink")[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会所提供](../Page/Apache软件基金会.md "wikilink")。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。
 
 Maven也可被用于构建和管理各种项目，例如[C\#](../Page/C♯.md "wikilink")，[Ruby](../Page/Ruby.md "wikilink")，[Scala和其他语言编写的项目](../Page/Scala.md "wikilink")。Maven曾是[Jakarta项目的子项目](../Page/Jakarta项目.md "wikilink")，现为由[Apache软件基金会主持的独立Apache项目](../Page/Apache软件基金会.md "wikilink")。
 
 ## 示例
 
-Maven项目使用[项目对象模型](../Page/项目对象模型.md "wikilink")（Project Object
-Model，POM）来配置。
+Maven项目使用[项目对象模型](https://zh.wikipedia.org/wiki/项目对象模型 "wikilink")（Project
+Object Model，POM）来配置。
 
 项目对象模型存储在名为 pom.xml 的文件中。
 
@@ -52,12 +52,12 @@ Model，POM）来配置。
 
   - 一种将XML转为可执行代码的工具
 
-  - [Ivy](../Page/Ivy.md "wikilink")，可作为替代的Java依赖管理工具
+  - [Ivy](https://zh.wikipedia.org/wiki/Ivy "wikilink")，可作为替代的Java依赖管理工具
 
   - [Gradle](../Page/Gradle.md "wikilink"), a build tool based on
     convention over configuration
 
-  - [Hudson](../Page/Hudson_\(软件\).md "wikilink")
+  - [Hudson](https://zh.wikipedia.org/wiki/Hudson_\(软件\) "wikilink")
 
   -
 ## 补充阅读
@@ -80,7 +80,7 @@ Model，POM）来配置。
   - [用Maven 2构建Web应用程序](https://web.archive.org/web/20110723234212/http://today.java.net/pub/a/today/2007/03/01/building-web-applications-with-maven-2.html)
   - [Maven 2
     POM揭秘](http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html)
-    - 文章在[JavaWorld](../Page/JavaWorld.md "wikilink")
+    - 文章在[JavaWorld](https://zh.wikipedia.org/wiki/JavaWorld "wikilink")
   - [在你的POM中验证依赖](https://web.archive.org/web/20111004231853/http://www.mavenbrowser.com/pom-report.html)
   - [Maven的历史](http://maven.apache.org/background/history-of-maven.html)
   - [用于PHP的Maven](http://www.php-maven.org/)

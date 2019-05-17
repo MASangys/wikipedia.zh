@@ -11,29 +11,29 @@
 <th><p><a href="../Page/天主教.md" title="wikilink">天主教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/基督新教.md" title="wikilink">基督新教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/基督新教" title="wikilink">基督新教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/东正教.md" title="wikilink">东正教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教" title="wikilink">东正教</a><br />
 中文译名<br />
 </p></th>
 <th><p>去世时间<br />
 </p></th>
-<th><p><a href="../Page/圣公会.md" title="wikilink">圣公会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/圣公会" title="wikilink">圣公会</a><br />
 </p></th>
-<th><p><a href="../Page/东方正统教会.md" title="wikilink">东方正统教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东方正统教会" title="wikilink">东方正统教会</a><br />
 </p></th>
-<th><p><a href="../Page/东正教会.md" title="wikilink">东正教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教会" title="wikilink">东正教会</a><br />
 </p></th>
-<th><p><a href="../Page/天主教会.md" title="wikilink">天主教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/天主教会" title="wikilink">天主教会</a><br />
 </p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Ubald.md" title="wikilink">Ubald</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubald" title="wikilink">Ubald</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/欧伯.md" title="wikilink">欧伯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/欧伯" title="wikilink">欧伯</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1160</p></td>
@@ -43,9 +43,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ulrich_of_Augsburg.md" title="wikilink">Ulrich of Augsburg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ulrich_of_Augsburg" title="wikilink">Ulrich of Augsburg</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/奥格斯堡的乌尔利希.md" title="wikilink">奥格斯堡的乌尔利希</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥格斯堡的乌尔利希" title="wikilink">奥格斯堡的乌尔利希</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>973</p></td>
@@ -55,9 +55,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><span style="display:none">Urban</span><a href="../Page/Pope_Urban_I.md" title="wikilink">Pope Urban I</a></p></td>
+<td><p><span style="display:none">Urban</span><a href="https://zh.wikipedia.org/wiki/Pope_Urban_I" title="wikilink">Pope Urban I</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/教宗乌尔巴诺一世.md" title="wikilink">教宗乌尔巴诺一世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/教宗乌尔巴诺一世" title="wikilink">教宗乌尔巴诺一世</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>230</p></td>
@@ -67,9 +67,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Urbicius.md" title="wikilink">Urbicius</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Urbicius" title="wikilink">Urbicius</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/乌尔彼济.md" title="wikilink">乌尔彼济</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乌尔彼济" title="wikilink">乌尔彼济</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>c. 805</p></td>
@@ -79,7 +79,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Uriel.md" title="wikilink">Uriel</a> the Archangel</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Uriel" title="wikilink">Uriel</a> the Archangel</p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/烏列爾.md" title="wikilink">优礼总领天使</a></p></td>
 <td><p>烏列爾</p></td>
@@ -91,9 +91,9 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ursicinus_of_Brescia.md" title="wikilink">Ursicinus of Brescia</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ursicinus_of_Brescia" title="wikilink">Ursicinus of Brescia</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/布雷西亚的乌西济诺.md" title="wikilink">布雷西亚的乌西济诺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布雷西亚的乌西济诺" title="wikilink">布雷西亚的乌西济诺</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>347</p></td>
@@ -103,9 +103,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ursicinus_of_Ravenna.md" title="wikilink">Ursicinus of Ravenna</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ursicinus_of_Ravenna" title="wikilink">Ursicinus of Ravenna</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/拉文纳的乌西济诺.md" title="wikilink">拉文纳的乌西济诺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拉文纳的乌西济诺" title="wikilink">拉文纳的乌西济诺</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>c. 67</p></td>
@@ -115,9 +115,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Ursicinus_of_Saint-Ursanne.md" title="wikilink">Ursicinus of Saint-Ursanne</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ursicinus_of_Saint-Ursanne" title="wikilink">Ursicinus of Saint-Ursanne</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/圣乌萨涅的乌西济诺.md" title="wikilink">圣乌萨涅的乌西济诺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣乌萨涅的乌西济诺" title="wikilink">圣乌萨涅的乌西济诺</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>625</p></td>
@@ -127,9 +127,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ursmar.md" title="wikilink">Ursmar</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ursmar" title="wikilink">Ursmar</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/乌司马.md" title="wikilink">乌司马</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乌司马" title="wikilink">乌司马</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>713</p></td>
@@ -139,9 +139,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Saint_Ursula.md" title="wikilink">Ursula</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saint_Ursula" title="wikilink">Ursula</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/烏蘇拉.md" title="wikilink">烏蘇拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/烏蘇拉" title="wikilink">烏蘇拉</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>383?</p></td>
@@ -151,9 +151,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Ursula_Julia_Ledochowska.md" title="wikilink">Ursula Ledóchowska</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ursula_Julia_Ledochowska" title="wikilink">Ursula Ledóchowska</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/乌苏拉·儒利雅·莱多霍夫斯卡.md" title="wikilink">乌苏拉·儒利雅·莱多霍夫斯卡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乌苏拉·儒利雅·莱多霍夫斯卡" title="wikilink">乌苏拉·儒利雅·莱多霍夫斯卡</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1939</p></td>

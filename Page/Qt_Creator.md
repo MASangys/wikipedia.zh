@@ -1,27 +1,28 @@
 {{ Infobox_Software | name = Qt Creator | logo = Qt Creator logo.png |
 screenshot = Qt Creator 3.1.1 editing a sample UI file from Qt 5.3 using
 Designer.png | screenshot size = 250px | caption = [Windows
-7下的Qt](../Page/Windows_7.md "wikilink") Creator 3.1.1 | developer =
-Qt Project，[Digia](../Page/Digia.md "wikilink") |
+7下的Qt](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") Creator
+3.1.1 | developer = Qt Project，[Digia](../Page/Digia.md "wikilink") |
 latest_release_version = 4.9.0\[1\] | latest_release_date =  |
 latest_preview_version = 4.9 RC\[2\] | latest_preview_date =  |
 programming language =
 [C++](../Page/C++.md "wikilink")（[Qt](../Page/Qt.md "wikilink")） |
 operating_system =
-[Windows](../Page/Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")
-| genre = [整合開發環境](../Page/整合開發環境.md "wikilink") | license =
-[LGPL](../Page/LGPL.md "wikilink")\[3\] | website =  }} **Qt Creator**
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")
+| genre = [整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink") |
+license = [LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")\[3\] |
+website =  }} **Qt Creator**
 是一款跨平台的集成開發環境，特别针对Qt开发者，是[Qt](../Page/Qt.md "wikilink")
 SDK組成的一部分，可运行于Windows, Linux/X11及Mac OS
 X等桌面操作系统，允许开发者为多桌面环境及移动设备平台创建应用程序。它包括一個可視化偵錯工具和整合的
 GUI
-版面和外形設計師。這個編輯器的功能包括[語法高亮度顯示和](../Page/語法高亮度顯示.md "wikilink")[自動完成](../Page/自動完成.md "wikilink")。\[4\]
+版面和外形設計師。這個編輯器的功能包括[語法高亮度顯示和](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")[自動完成](https://zh.wikipedia.org/wiki/自動完成 "wikilink")。\[4\]
 Qt Creator 在 Linux 上，使用 [GCC](../Page/GCC.md "wikilink") 的 C++ 編譯器。在
 Windows，預設安裝它可以使用 [MinGW](../Page/MinGW.md "wikilink") 或
 [MSVC](../Page/Microsoft_Visual_C++.md "wikilink")。從原始碼編譯時，也可以使用
-[cdb](../Page/Microsoft_Console_Debugger.md "wikilink")。
+[cdb](https://zh.wikipedia.org/wiki/Microsoft_Console_Debugger "wikilink")。
 
 於2008年10月的Qt Developer Days宣布這項計畫(代號為 Greenhouse)。\[5\]
 該項目的技術預覽版在2008年10月30日公佈。\[6\]
@@ -29,8 +30,9 @@ Windows，預設安裝它可以使用 [MinGW](../Page/MinGW.md "wikilink") 或
 
 ## 專案
 
-Qt Creator 整合了跨平台自動化建構系統：**[qmake](../Page/qmake.md "wikilink")** 與
-**CMake**。此外，您可以匯入不使用 qmake 或 CMake 的專案，並指定 Qt Creator 忽略你的建構系統。
+Qt Creator
+整合了跨平台自動化建構系統：**[qmake](https://zh.wikipedia.org/wiki/qmake "wikilink")**
+與 **CMake**。此外，您可以匯入不使用 qmake 或 CMake 的專案，並指定 Qt Creator 忽略你的建構系統。
 
 ## 編輯
 
@@ -62,7 +64,7 @@ Qt Creator 提供兩個整合的可視化編輯器，Qt Designer 與 Qt Quick De
 
 Qt Creator 支援建構和運行 [Qt](../Page/Qt.md "wikilink")
 應用程式在**桌面**環境（Windows、Linux 和 Mac
-OS）與**移動設備**（[Symbian](../Page/Symbian.md "wikilink")、[Maemo](../Page/Maemo.md "wikilink")
+OS）與**移動設備**（[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、[Maemo](../Page/Maemo.md "wikilink")
 和 [MeeGo](../Page/MeeGo.md "wikilink") ）。
 
 ## 工具
@@ -83,7 +85,7 @@ Creator集成了多数流行的版本控制系统：
 
 ### Qt Simulator
 
-作为[Qt SDK的一部分](../Page/Qt_SDK.md "wikilink"),
+作为[Qt SDK的一部分](https://zh.wikipedia.org/wiki/Qt_SDK "wikilink"),
 Qt模拟器可以虚拟移动设备，得以在本地便可测试Qt应用程序在目标设备环境下的的运行。设计上，Qt模拟器不提供依赖于特定设备的API，因此，一方面，能够在模拟器上运行良好的应用程序，同样可以在目标设备上正常工作；另一方面，Qt模拟器无法用于测试依赖于特定设备APIs库的Qt应用，例如Symbian
 C++ APIs。
 

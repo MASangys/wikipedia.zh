@@ -1,7 +1,7 @@
 **Konsole**是一个自由开源的[虚拟终端](../Page/虚拟终端.md "wikilink")，它是[KDE的一部分](../Page/KDE.md "wikilink")。Konsole最初是由Lars
 Doelle所攥寫的。
 
-[Konqueror](../Page/Konqueror.md "wikilink")、[Krusader](../Page/Krusader.md "wikilink")、[Kate和](../Page/Kate.md "wikilink")[KDevelop等一些應用程式通过](../Page/KDevelop.md "wikilink")[KPart使用Konsole來提供嵌入終端的功能](../Page/KPart.md "wikilink")。
+[Konqueror](../Page/Konqueror.md "wikilink")、[Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink")、[Kate和](../Page/Kate.md "wikilink")[KDevelop等一些應用程式通过](../Page/KDevelop.md "wikilink")[KPart使用Konsole來提供嵌入終端的功能](https://zh.wikipedia.org/wiki/KPart "wikilink")。
 
 ## 功能
 
@@ -16,9 +16,10 @@ Doelle所攥寫的。
   - 可定制鍵盤操作方式
   - Notifications about silence or activity in a terminal
   - Incremental search
-  - Can open [Dolphin](../Page/Dolphin_\(KDE軟體\).md "wikilink") or the
-    user's preferred file manager at the terminal program's current
-    directory\[1\]
+  - Can open
+    [Dolphin](https://zh.wikipedia.org/wiki/Dolphin_\(KDE軟體\) "wikilink")
+    or the user's preferred file manager at the terminal program's
+    current directory\[1\]
   - 匯出成純文本或[HTML格式](../Page/HTML.md "wikilink")
 
 ## 参考文献

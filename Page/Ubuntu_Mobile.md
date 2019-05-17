@@ -1,18 +1,19 @@
 **Ubuntu Mobile Internet Device Edition**，主要用於Intel
-Atom處理器為主的[x86](../Page/x86.md "wikilink")[手持裝置平台上的](../Page/手持裝置.md "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，源自於
+Atom處理器為主的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[手持裝置平台上的](https://zh.wikipedia.org/wiki/手持裝置 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，源自於
 [Linux](../Page/Linux.md "wikilink")
 [Ubuntu](../Page/Ubuntu.md "wikilink") 套件。
 
 它使用 [GNOME](../Page/GNOME.md "wikilink") 的框架
-[Hildon](../Page/Hildon.md "wikilink") 為基礎，作為它的圖形用戶界面。
+[Hildon](https://zh.wikipedia.org/wiki/Hildon "wikilink")
+為基礎，作為它的圖形用戶界面。
 
-設備生產商將能夠定制自己的發行版，包括選擇[Flash](../Page/Flash.md "wikilink")，[Java或自定義界面](../Page/Java.md "wikilink")。
+設備生產商將能夠定制自己的發行版，包括選擇[Flash](https://zh.wikipedia.org/wiki/Flash "wikilink")，[Java或自定義界面](../Page/Java.md "wikilink")。
 
 ## Ubuntu Netbook Edition
 
 [Ubuntu Netbook
 Edition是基於Ubuntu](../Page/Ubuntu_Netbook_Edition.md "wikilink")
-Mobile及專為[netbook而設](../Page/netbook.md "wikilink")。
+Mobile及專為[netbook而設](https://zh.wikipedia.org/wiki/netbook "wikilink")。
 
 ## Ubuntu MID版本
 
@@ -24,10 +25,10 @@ Mobile及專為[netbook而設](../Page/netbook.md "wikilink")。
   - Small size/form factor
   - 4至7吋輕觸式屏幕
   - (虛擬)鍵盤
-  - [Wi-Fi](../Page/Wi-Fi.md "wikilink"),[3G](../Page/3G.md "wikilink"),[藍牙](../Page/藍牙.md "wikilink"),[GPS](../Page/GPS.md "wikilink"),[WiMAX](../Page/WiMAX.md "wikilink")
+  - [Wi-Fi](../Page/Wi-Fi.md "wikilink"),[3G](../Page/3G.md "wikilink"),[藍牙](../Page/藍牙.md "wikilink"),[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink"),[WiMAX](../Page/WiMAX.md "wikilink")
   - 2至8GB閃存或磁盤,最少256MB記憶體(512MB建議)
   - [OpenGL](../Page/OpenGL.md "wikilink") 3D
-  - [USB](../Page/USB.md "wikilink"),[視像鏡頭](../Page/視像鏡頭.md "wikilink"),[耳機插孔](../Page/耳機插孔.md "wikilink"),[揚聲器](../Page/揚聲器.md "wikilink"),[麥克風](../Page/麥克風.md "wikilink")
+  - [USB](../Page/USB.md "wikilink"),[視像鏡頭](https://zh.wikipedia.org/wiki/視像鏡頭 "wikilink"),[耳機插孔](https://zh.wikipedia.org/wiki/耳機插孔 "wikilink"),[揚聲器](../Page/揚聲器.md "wikilink"),[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")
 
 ## 参考资料
 

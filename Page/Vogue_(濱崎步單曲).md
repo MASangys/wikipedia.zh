@@ -10,7 +10,7 @@
   - 本作後收錄於同年9月27日發行的第三張原創專輯《[Duty](../Page/Duty.md "wikilink")》中。後收錄於2001年3月28日發行的精選輯《[A
     BEST](../Page/A_BEST.md "wikilink")》之中，2008年發售的單曲精選輯《[A COMPLETE
     \~ALL
-    SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》當中亦收錄了本曲。
+    SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》當中亦收錄了本曲。
   - 本作為早期單曲中，少數收錄了c/w曲的單曲，下一張收錄c/w的單曲為2003年發行的第29張單曲《[&](../Page/&_\(濱崎步單曲\).md "wikilink")》。
   - 本作收錄的混音歌曲除了《vogue》外，尚有第6張單曲《[WHATEVER](../Page/WHATEVER.md "wikilink")》及第10張單曲《[A](../Page/A_\(濱崎步單曲\).md "wikilink")》當中收錄歌曲《too
     late》的混音版本。
@@ -45,7 +45,8 @@
 
 <references/>
 
-[es:Vogue (canción)](../Page/es:Vogue_\(canción\).md "wikilink")
+[es:Vogue
+(canción)](https://zh.wikipedia.org/wiki/es:Vogue_\(canción\) "wikilink")
 
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

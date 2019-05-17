@@ -4,13 +4,13 @@ components）。由於此軟件降低了設計網站所需的技術要求，讓�
 
 ## 語言
 
-  - [英文](../Page/英文.md "wikilink")
-  - [法文](../Page/法文.md "wikilink")
-  - [德文](../Page/德文.md "wikilink")
-  - [意大利文](../Page/意大利文.md "wikilink")
-  - [日文](../Page/日文.md "wikilink")
-  - [韓文](../Page/韓文.md "wikilink")
-  - [西班牙文](../Page/西班牙文.md "wikilink")
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")
+  - [法文](https://zh.wikipedia.org/wiki/法文 "wikilink")
+  - [德文](https://zh.wikipedia.org/wiki/德文 "wikilink")
+  - [意大利文](https://zh.wikipedia.org/wiki/意大利文 "wikilink")
+  - [日文](https://zh.wikipedia.org/wiki/日文 "wikilink")
+  - [韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")
+  - [西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")
 
 ## 系統需求
 

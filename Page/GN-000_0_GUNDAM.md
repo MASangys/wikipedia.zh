@@ -55,7 +55,7 @@
 </table>
 
 **GN-000 O GUNDAM（O
-Gundam）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile Suit），曾駕駛過O
 GUNDAM的有里朋斯·阿爾馬克、雷瑟·艾翁（實戰配備型）。
 
@@ -65,12 +65,12 @@ GUNDAM的有里朋斯·阿爾馬克、雷瑟·艾翁（實戰配備型）。
 
 天上人開發的第一台GUNDAM，被稱為第一世代GUNDAM且為所有GUNDAM的元祖，GN-Drive使用的是圓錐形控制裝置。
 
-於2301年庫爾吉斯戰爭首次登場（實戰測試），駕駛員為里朋斯·阿爾馬克，並與當時的少年兵剎那·F·塞耶接觸。當時，機體為出廠的[灰色](../Page/灰色.md "wikilink")。
+於2301年庫爾吉斯戰爭首次登場（實戰測試），駕駛員為里朋斯·阿爾馬克，並與當時的少年兵剎那·F·塞耶接觸。當時，機體為出廠的[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")。
 
 在天上人開始武力介入後，本機曾交給了分支組織「天使」，不過在新生天上人開發[00
 GUNDAM時收回](../Page/GN-0000_00_GUNDAM.md "wikilink")，並將GN-Drive移用至00
-GUNDAM。保管在[拉格朗日點L](../Page/拉格朗日點.md "wikilink")3工廠的格納庫中，並塗上顏色，後來本機搭載了大型GN容器，因此得以投入實戰，由天上人的雷瑟·艾翁駕駛。在與變革者的最終戰爭中，本機GN粒子耗盡並被丟棄在戰艦「天上人」中。之後，從00
-GUNDAM得到了太陽爐的里朋斯·阿爾馬克有如命運般的重逢，因此捨棄快無法正常運作的[再生鋼彈](../Page/CB-0000G/C_再生GUNDAM.md "wikilink")，在重新搭載了最初GN-Drive的O
+GUNDAM。保管在[拉格朗日點L](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")3工廠的格納庫中，並塗上顏色，後來本機搭載了大型GN容器，因此得以投入實戰，由天上人的雷瑟·艾翁駕駛。在與變革者的最終戰爭中，本機GN粒子耗盡並被丟棄在戰艦「天上人」中。之後，從00
+GUNDAM得到了太陽爐的里朋斯·阿爾馬克有如命運般的重逢，因此捨棄快無法正常運作的[再生鋼彈](https://zh.wikipedia.org/wiki/CB-0000G/C_再生GUNDAM "wikilink")，在重新搭載了最初GN-Drive的O
 GUNDAM後被再次啟動。
 
 ## 重要戰鬥史
@@ -90,7 +90,7 @@ GUNDAM後被再次啟動。
 
   -
     實戰配備型登場，由天上人成員雷瑟·艾翁駕駛迎戰變革者機體[GNZ-004
-    加格](../Page/GNZ-004_加格.md "wikilink")。
+    加格](https://zh.wikipedia.org/wiki/GNZ-004_加格 "wikilink")。
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ GUNDAM後被再次啟動。
 
   -
     GN粒子耗盡後被丟棄在變革者戰艦「天上人」中，由變革者首腦里朋斯·阿爾馬克裝上奪取自[GN-0000
-    00GUNDAM的GN](../Page/GN-0000_00GUNDAM.md "wikilink")-Drive後與[能天使GUNDAMR2對決](../Page/GN-001_能天使GUNDAM.md "wikilink")，後連同雙方的太陽爐互相擊毀，里朋斯陣亡。
+    00GUNDAM的GN](https://zh.wikipedia.org/wiki/GN-0000_00GUNDAM "wikilink")-Drive後與[能天使GUNDAMR2對決](../Page/GN-001_能天使GUNDAM.md "wikilink")，後連同雙方的太陽爐互相擊毀，里朋斯陣亡。
 
 ## 武裝
 
@@ -138,7 +138,7 @@ O鋼彈的非實體裝備，將電容器內的高濃度壓縮粒子釋放，並�
 ### 大型GN電容器（Large GN Condenser）
 
 由於GN-Drive被移用至[00
-GUNDAM](../Page/00_GUNDAM.md "wikilink")，因此使用大型GN電容器做為動力源，裝有三具GN推進器可用於迴避與高速衝刺等機動。
+GUNDAM](https://zh.wikipedia.org/wiki/00_GUNDAM "wikilink")，因此使用大型GN電容器做為動力源，裝有三具GN推進器可用於迴避與高速衝刺等機動。
 
 ### Trans-AM系統（Trans-AM System）
 
@@ -188,9 +188,10 @@ GUNDAM](../Page/00_GUNDAM.md "wikilink")，因此使用大型GN電容器做為�
 
 ## 參見
 
-  - [機動戰士GUNDAM 00兵器列表](../Page/機動戰士GUNDAM_00兵器列表.md "wikilink")
+  - [機動戰士GUNDAM
+    00兵器列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00兵器列表 "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第1世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第1世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第1世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第1世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")
 

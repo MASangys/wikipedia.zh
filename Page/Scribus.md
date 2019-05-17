@@ -1,18 +1,18 @@
 **Scribus**
-是一個[桌面排版](../Page/桌面排版.md "wikilink")（DTP）軟體，是一個以[GNU通用公共許可證發布的](../Page/GNU通用公共許可證.md "wikilink")[自由軟件](../Page/自由軟件.md "wikilink")。提供[Linux](../Page/Linux.md "wikilink")、[Unix](../Page/Unix.md "wikilink")、[Mac
+是一個[桌面排版](https://zh.wikipedia.org/wiki/桌面排版 "wikilink")（DTP）軟體，是一個以[GNU通用公共許可證發布的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。提供[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac
 OS
-X](../Page/Mac_OS_X.md "wikilink")、[OS/2以及](../Page/OS/2.md "wikilink")[微軟](../Page/微軟.md "wikilink")[Windows上運行的原生版本](../Page/Microsoft_Windows.md "wikilink")。它以其廣泛的頁面佈局功能堪比於其他非自由應用程序，如[PagePlus](../Page/PagePlus.md "wikilink")、[QuarkXPress和](../Page/QuarkXPress.md "wikilink")[Adobe
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[OS/2以及](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows上運行的原生版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。它以其廣泛的頁面佈局功能堪比於其他非自由應用程序，如[PagePlus](https://zh.wikipedia.org/wiki/PagePlus "wikilink")、[QuarkXPress和](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")[Adobe
 InDesign](../Page/Adobe_InDesign.md "wikilink")。
 
 Scribus
-靈活的佈局和排版，並有編寫檔案專業品質圖像設置設備的能力。它也可以創建動畫和互動的[PDF圖像和形式](../Page/PDF.md "wikilink")。示例使用包括撰寫小報紙、小冊子、簡報、海報和書籍。
+靈活的佈局和排版，並有編寫檔案專業品質圖像設置設備的能力。它也可以創建動畫和互動的[PDF圖像和形式](https://zh.wikipedia.org/wiki/PDF "wikilink")。示例使用包括撰寫小報紙、小冊子、簡報、海報和書籍。
 
 一本官方Scribus指導書已在2009年1月18日\[1\]透過flesbooks.com出版。
 
 ## 特性
 
 Scribus
-支持大多數主要的圖像格式。專業的字型／圖像設置功能包括[CMYK顏色和ICC色彩管理](../Page/CMYK.md "wikilink")。以[C++寫編的](../Page/C++.md "wikilink")，使用[Python為內置腳本](../Page/Python.md "wikilink")。同時也有超過24種語言的[國際化支援](../Page/國際化.md "wikilink")。
+支持大多數主要的圖像格式。專業的字型／圖像設置功能包括[CMYK顏色和ICC色彩管理](https://zh.wikipedia.org/wiki/CMYK "wikilink")。以[C++寫編的](../Page/C++.md "wikilink")，使用[Python為內置腳本](../Page/Python.md "wikilink")。同時也有超過24種語言的[國際化支援](https://zh.wikipedia.org/wiki/國際化 "wikilink")。
 
 印刷實現是由其自身內部的第3級[PostScript驅動程序](../Page/PostScript.md "wikilink")，包括支持字體嵌入和[TrueType的sub](../Page/TrueType.md "wikilink")-setting、Type
 1和[OpenType字體](../Page/OpenType.md "wikilink")。內部驅動程序完整支持2級的PostScript結構和一個大的3級結構的subset。
@@ -32,7 +32,7 @@ Scribus
     version](https://archive.is/20060513141230/http://www.quate.net/newsnet/read.php?id=31)
   - [Scribus Screencast Video
     Tutorial](https://web.archive.org/web/20090410050307/http://showmedo.com/videos/series?name=NfUrduNov)
-    at [showmedo](../Page/showmedo.md "wikilink")
+    at [showmedo](https://zh.wikipedia.org/wiki/showmedo "wikilink")
 
 ### 文章
 

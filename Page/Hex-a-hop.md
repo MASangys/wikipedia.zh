@@ -1,7 +1,7 @@
-**Hex-a-hop**是一款[开放源代码的](../Page/开放源代码.md "wikilink")[益智游戏](../Page/益智游戏.md "wikilink")，可以在运行[Windows或者](../Page/Windows.md "wikilink")[Linux的](../Page/Linux.md "wikilink")[PC上使用](../Page/PC.md "wikilink")。游戏名称中的hex是英文[六边形/六角形的意思](../Page/六边形.md "wikilink")，意指一步一步地在不同的六边形上跳的游戏模式。因为本游戏以[GPLv2](../Page/GPLv2.md "wikilink")\[1\]
-开放源代码，因而也被移植到多种移动平台，如[智能手机和](../Page/智能手机.md "wikilink")[PSP](../Page/PSP.md "wikilink")。
+**Hex-a-hop**是一款[开放源代码的](../Page/开放源代码.md "wikilink")[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，可以在运行[Windows或者](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux的](../Page/Linux.md "wikilink")[PC上使用](../Page/PC.md "wikilink")。游戏名称中的hex是英文[六边形/六角形的意思](https://zh.wikipedia.org/wiki/六边形 "wikilink")，意指一步一步地在不同的六边形上跳的游戏模式。因为本游戏以[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")\[1\]
+开放源代码，因而也被移植到多种移动平台，如[智能手机和](../Page/智能手机.md "wikilink")[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
-2007年原官网关闭，并于1.01版发布后停止开发；但在2009年该项目再度被新开发者接收，并于[sourceforge上发布](../Page/sourceforge.md "wikilink")1.10版。
+2007年原官网关闭，并于1.01版发布后停止开发；但在2009年该项目再度被新开发者接收，并于[sourceforge上发布](https://zh.wikipedia.org/wiki/sourceforge "wikilink")1.10版。
 
 ## 游戏玩法
 
@@ -20,8 +20,8 @@
 
 ## 其他
 
-  - [智力游戏](../Page/智力游戏.md "wikilink")
-  - [hex](../Page/hex.md "wikilink")
+  - [智力游戏](https://zh.wikipedia.org/wiki/智力游戏 "wikilink")
+  - [hex](https://zh.wikipedia.org/wiki/hex "wikilink")
 
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")

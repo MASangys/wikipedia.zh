@@ -1,4 +1,4 @@
-****（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[插畫家](../Page/插畫家.md "wikilink")。主要擔當[十八禁](../Page/十八禁遊戲.md "wikilink")[美少女遊戲的](../Page/美少女遊戲.md "wikilink")[原畫和](../Page/原畫.md "wikilink")[人物設計等工作](../Page/人物設計.md "wikilink")。[岐阜縣出身](../Page/岐阜縣.md "wikilink")，現在住在[愛知縣](../Page/愛知縣.md "wikilink")。
+****（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。主要擔當[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[美少女遊戲的](../Page/美少女遊戲.md "wikilink")[原畫和](https://zh.wikipedia.org/wiki/原畫 "wikilink")[人物設計等工作](../Page/人物設計.md "wikilink")。[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，現在住在[愛知縣](../Page/愛知縣.md "wikilink")。
 
 ## 作品列表
 
@@ -6,11 +6,11 @@
 
 <!-- end list -->
 
-  - [望見青空之丘](../Page/望見青空之丘.md "wikilink")（）（[feng](../Page/feng.md "wikilink")、2006年4月21日）
+  - [望見青空之丘](https://zh.wikipedia.org/wiki/望見青空之丘 "wikilink")（）（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")、2006年4月21日）
 
-  - [染紅的街道](../Page/染紅的街道.md "wikilink")（）（feng、2007年7月27日）
+  - [染紅的街道](https://zh.wikipedia.org/wiki/染紅的街道 "wikilink")（）（feng、2007年7月27日）
 
-  - [純白交響曲](../Page/純白交響曲.md "wikilink")（）（[Palette](../Page/Palette.md "wikilink")、2009年10月30日）
+  - [純白交響曲](../Page/純白交響曲.md "wikilink")（）（[Palette](https://zh.wikipedia.org/wiki/Palette "wikilink")、2009年10月30日）
 
   - [戀花綻放櫻飛時](../Page/戀花綻放櫻飛時.md "wikilink")（）（Palette、2014年6月27日）
 
@@ -19,7 +19,7 @@
   - （Palette、2018年4月27日）
 
   - [Summer
-    Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](../Page/Key.md "wikilink")、2018年6月29日）
+    Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
 
 <!-- end list -->
 
@@ -28,10 +28,10 @@
 <!-- end list -->
 
   - [ef - a tale of
-    memories.第](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")7話預告插畫
-  - [要聽爸爸的話第](../Page/要聽爸爸的話.md "wikilink")10話片尾插畫
+    memories.第](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")7話預告插畫
+  - [要聽爸爸的話第](https://zh.wikipedia.org/wiki/要聽爸爸的話 "wikilink")10話片尾插畫
   - [我的妹妹哪有這麼可愛。第2季第](../Page/我的妹妹哪有這麼可愛！_\(動畫\).md "wikilink")9話片尾插畫
-  - [翠星上的加爾岡緹亞第](../Page/翠星上的加爾岡緹亞.md "wikilink")12話片尾插畫
+  - [翠星上的加爾岡緹亞第](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")12話片尾插畫
   - [銃皇無盡的法夫納第](../Page/銃皇無盡的法夫納.md "wikilink")10話片尾插畫
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [我的親愛主人\!?](../Page/我的親愛主人!?.md "wikilink")（鷹野祐希）
+  - [我的親愛主人\!?](https://zh.wikipedia.org/wiki/我的親愛主人!? "wikilink")（鷹野祐希）
   - GIRLS'★REVOLUTION（）
 
 ## 外部連結

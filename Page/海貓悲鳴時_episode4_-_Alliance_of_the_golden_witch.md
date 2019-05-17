@@ -1,5 +1,5 @@
 《**海貓悲鳴時 episode4 - Alliance of the golden
-witch**》是日本[同人社團](../Page/同人.md "wikilink")[07th
+witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th
 Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第四部。游戏於2008年冬季的[Comic
 Market](../Page/Comic_Market.md "wikilink")75發表。
 

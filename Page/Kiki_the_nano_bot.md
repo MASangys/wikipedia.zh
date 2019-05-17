@@ -1,6 +1,6 @@
 **kiki the nano bot**
-是一个[益智游戏](../Page/益智游戏.md "wikilink")，糅合[仓库番以及](../Page/仓库番.md "wikilink")[Kula
-World的游戏因素](../Page/Kula_World.md "wikilink")。
+是一个[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，糅合[仓库番以及](https://zh.wikipedia.org/wiki/仓库番 "wikilink")[Kula
+World的游戏因素](https://zh.wikipedia.org/wiki/Kula_World "wikilink")。
 
 ## 主线
 
@@ -24,8 +24,8 @@ Game Programming Contest](http://www.idevgames.com/) 2002 \[4\]\[5\]。
 
 ## 其他
 
-  - [纳米科技](../Page/纳米科技.md "wikilink")
-  - [重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+  - [纳米科技](https://zh.wikipedia.org/wiki/纳米科技 "wikilink")
+  - [重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 参考
 

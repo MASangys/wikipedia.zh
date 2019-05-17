@@ -7,7 +7,7 @@ Era**》是[香港女歌手](../Page/香港.md "wikilink")[關淑怡第十一張
 
   - 香港第一版CD+DVD版
   - 香港第二版CD+DVD版，附送Single
-    [Initially換領卷](../Page/Initially.md "wikilink")
+    [Initially換領卷](https://zh.wikipedia.org/wiki/Initially "wikilink")
   - 中國引進版，拼入Single Initially內所有新曲，刪去兩首TVB電視劇主題曲《只得一次》及《鑽禧》。
 
 ## 参考

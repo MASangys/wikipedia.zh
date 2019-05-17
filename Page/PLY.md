@@ -3,7 +3,7 @@ Triangle Format）**。
 
 [David_von_Michelangelo.jpg](https://zh.wikipedia.org/wiki/File:David_von_Michelangelo.jpg "fig:David_von_Michelangelo.jpg")的
 [The Digital Michelangelo
-Project](http://graphics.stanford.edu/projects/mich/)計畫採用PLY格式儲存極高解析度之[米開朗基羅的作品](../Page/米開朗基羅.md "wikilink")"[大衛](../Page/大衛.md "wikilink")"雕塑。\]\]
+Project](http://graphics.stanford.edu/projects/mich/)計畫採用PLY格式儲存極高解析度之[米開朗基羅的作品](https://zh.wikipedia.org/wiki/米開朗基羅 "wikilink")"[大衛](https://zh.wikipedia.org/wiki/大衛 "wikilink")"雕塑。\]\]
 
 該格式主要用以儲存立體掃描結果的三維數值，透過多邊形片面的集合描述三維物體，與其他格式相較之下這是較為簡單的方法。它可以儲存的資訊包含顏色、透明度、表面法向量、材質座標與資料可信度，並能對多邊形的正反兩面設定不同的屬性。
 
@@ -107,7 +107,7 @@ list'表示該元素face的特性是由一行的頂點列表來描述。列表�
 ## 歷史
 
 PLY格式發展於90年代中期，在史丹佛大學圖學實驗室的Marc Levoy教授指導下，由及其他成員開發出來。PLY格式受[Wavefront
-.obj格式的啟發](../Page/Wavefront_.obj文件.md "wikilink")，但改進了Obj格式所缺少的對任意屬性及群組的擴充性。因此PLY格式發明了"property"及"element"這兩個關鍵詞，來概括「頂點、面、相關資訊、群組」的概念。
+.obj格式的啟發](https://zh.wikipedia.org/wiki/Wavefront_.obj文件 "wikilink")，但改進了Obj格式所缺少的對任意屬性及群組的擴充性。因此PLY格式發明了"property"及"element"這兩個關鍵詞，來概括「頂點、面、相關資訊、群組」的概念。
 
 ## 參見
 
@@ -125,9 +125,9 @@ PLY格式發展於90年代中期，在史丹佛大學圖學實驗室的Marc Levo
   - [讀取、寫入PLY檔的函式庫](https://web.archive.org/web/20081203195143/http://www.cs.princeton.edu/~diego/professional/rply/)
   - [以PLY格式儲存的大量三維模型](http://graphics.stanford.edu/data/3Dscanrep/)
 
-[分類:三維計算機圖形學](../Page/分類:三維計算機圖形學.md "wikilink")
-[分類:文件格式](../Page/分類:文件格式.md "wikilink")
-[分類:CAD文件格式](../Page/分類:CAD文件格式.md "wikilink")
-[分類:圖形文件格式](../Page/分類:圖形文件格式.md "wikilink")
+[分類:三維計算機圖形學](https://zh.wikipedia.org/wiki/分類:三維計算機圖形學 "wikilink")
+[分類:文件格式](https://zh.wikipedia.org/wiki/分類:文件格式 "wikilink")
+[分類:CAD文件格式](https://zh.wikipedia.org/wiki/分類:CAD文件格式 "wikilink")
+[分類:圖形文件格式](https://zh.wikipedia.org/wiki/分類:圖形文件格式 "wikilink")
 
 [Category:電腦圖學](https://zh.wikipedia.org/wiki/Category:電腦圖學 "wikilink")

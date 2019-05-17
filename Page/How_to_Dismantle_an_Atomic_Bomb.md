@@ -1,7 +1,7 @@
-《**如何拆除原子彈**》（****）是[愛爾蘭](../Page/愛爾蘭.md "wikilink")[搖滾樂團](../Page/搖滾.md "wikilink")[U2的第十一張專輯](../Page/U2樂團.md "wikilink")，發行。繼上張專輯《[無法遺忘](../Page/無法遺忘.md "wikilink")》代表U2走回傳統風格後，《如何拆除原子彈》則是延續正宗搖滾為主風格的專輯。專輯的製作團隊分別由多年的夥伴[馬克·艾利斯](../Page/馬克·艾利斯.md "wikilink")、[丹尼爾·雷諾伊斯](../Page/丹尼爾·雷諾伊斯.md "wikilink")、[布萊恩·伊諾](../Page/布萊恩·伊諾.md "wikilink")、[史提夫·李利懷特以及](../Page/史提夫·李利懷特.md "wikilink")[蓋瑞·李](../Page/蓋瑞·李.md "wikilink")、[尼利·琥珀](../Page/尼利·琥珀.md "wikilink")、[卡爾·葛蘭威爾聯合製作](../Page/卡爾·葛蘭威爾.md "wikilink")，專輯標題取自於英日附錄曲目〈Fast
+《**如何拆除原子彈**》（****）是[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[U2的第十一張專輯](../Page/U2樂團.md "wikilink")，發行。繼上張專輯《[無法遺忘](../Page/無法遺忘.md "wikilink")》代表U2走回傳統風格後，《如何拆除原子彈》則是延續正宗搖滾為主風格的專輯。專輯的製作團隊分別由多年的夥伴[馬克·艾利斯](https://zh.wikipedia.org/wiki/馬克·艾利斯 "wikilink")、[丹尼爾·雷諾伊斯](https://zh.wikipedia.org/wiki/丹尼爾·雷諾伊斯 "wikilink")、[布萊恩·伊諾](https://zh.wikipedia.org/wiki/布萊恩·伊諾 "wikilink")、[史提夫·李利懷特以及](https://zh.wikipedia.org/wiki/史提夫·李利懷特 "wikilink")[蓋瑞·李](https://zh.wikipedia.org/wiki/蓋瑞·李 "wikilink")、[尼利·琥珀](https://zh.wikipedia.org/wiki/尼利·琥珀 "wikilink")、[卡爾·葛蘭威爾聯合製作](https://zh.wikipedia.org/wiki/卡爾·葛蘭威爾 "wikilink")，專輯標題取自於英日附錄曲目〈Fast
 Cars〉的歌詞內。
 
-主唱[波諾曾說](../Page/波諾.md "wikilink")：「我們等了25年做這張專輯，這是我們第一張的搖滾專輯。」\[1\]\[2\]雖然這張專輯沒有特定主題，但是不論愛情親情、戰爭和平、生離死別都是這張專輯有傳達的概念。
+主唱[波諾曾說](https://zh.wikipedia.org/wiki/波諾 "wikilink")：「我們等了25年做這張專輯，這是我們第一張的搖滾專輯。」\[1\]\[2\]雖然這張專輯沒有特定主題，但是不論愛情親情、戰爭和平、生離死別都是這張專輯有傳達的概念。
 
 《如何拆除原子彈》在大眾與評論界皆獲得成功，全球銷售量突破9百萬張\[3\]，入圍8項[葛萊美獎通通獲獎](../Page/葛萊美獎.md "wikilink")。專輯收錄〈Vertigo〉、〈Sometimes
 You Can't Make It on Your Own〉和〈City of Blinding Lights〉，同樣是相當暢銷的單曲。
@@ -20,7 +20,7 @@ You〉都是搖滾歌曲，有很多歌曲是對我們早期曲風的回溯。\[
 
 2004年末，一首在錄製期間完成不過並未收錄的歌曲〈Mercy〉在網路上流傳，儘管這首歌音質不好，卻廣受粉絲喜愛。
 
-知名歌手[麥可·W·史密斯曾在錄製期間加入](../Page/麥可·W·史密斯.md "wikilink")，至少與U2合作了一首命名為〈North
+知名歌手[麥可·W·史密斯曾在錄製期間加入](https://zh.wikipedia.org/wiki/麥可·W·史密斯 "wikilink")，至少與U2合作了一首命名為〈North
 Star〉的歌曲，不過並未以任何形式發行\[5\]。另外還有其他曲目（Shark Soup）、（Lead Me In The Way I
 Should Go）、（You Can't Give Away Your Heart），也未以任何形式發行過。
 
@@ -30,7 +30,7 @@ Should Go）、（You Can't Give Away Your Heart），也未以任何形式發�
 
 ### 宣傳
 
-U2與[苹果合作宣傳新專輯](../Page/苹果公司.md "wikilink")，首先單曲〈Vertigo〉藉由iPod電視廣告首度曝光，苹果特別推出U2特別版iPod，黑紅相間而背面則有四位團員的雷射簽名。苹果旗下的[iTunes也販售U](../Page/iTunes.md "wikilink")2的套裝專輯《The
+U2與[苹果合作宣傳新專輯](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，首先單曲〈Vertigo〉藉由iPod電視廣告首度曝光，苹果特別推出U2特別版iPod，黑紅相間而背面則有四位團員的雷射簽名。苹果旗下的[iTunes也販售U](https://zh.wikipedia.org/wiki/iTunes "wikilink")2的套裝專輯《The
 Complete U2》，收錄許多未正式發行的曲目，其中專輯內的EP《Unreleased and Rare》就收錄了許多未發行的專輯曲目：
 
 1.  〈Xanax and Wine〉 (〈Fast Cars〉的樣本版本)
@@ -40,12 +40,12 @@ Complete U2》，收錄許多未正式發行的曲目，其中專輯內的EP《U
 5.  〈All Because of You〉 (替換版本)
 6.  〈Yahweh〉 (由克里斯·湯瑪斯的混音版本)
 
-U2之後為了宣傳新專輯，在電視上演奏了不少的專輯歌曲。最著名的是U2在[紐約市的](../Page/紐約市.md "wikilink")[布魯克林橋下演唱](../Page/布魯克林橋.md "wikilink")，之後以這場演唱會的內容發行了EP《Live
+U2之後為了宣傳新專輯，在電視上演奏了不少的專輯歌曲。最著名的是U2在[紐約市的](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林橋下演唱](https://zh.wikipedia.org/wiki/布魯克林橋 "wikilink")，之後以這場演唱會的內容發行了EP《Live
 from Under the Brooklyn Bridge》。
 
 ### 單曲
 
-〈Vertigo〉首先於發行（英國地區），發行後甫在多國排行榜攻佔榜首，其中更一度在[告示牌百大排行榜拿下第](../Page/告示牌百大排行榜.md "wikilink")31名。單曲付費下載銷售量也在英美地區奪冠，是U2生涯中付費下載量最高的單曲。由於這首單曲是專輯最夯的曲子，搭配的巡迴演唱會便以「暈眩國度」命名（*Vertigo
+〈Vertigo〉首先於發行（英國地區），發行後甫在多國排行榜攻佔榜首，其中更一度在[告示牌百大排行榜拿下第](https://zh.wikipedia.org/wiki/告示牌百大排行榜 "wikilink")31名。單曲付費下載銷售量也在英美地區奪冠，是U2生涯中付費下載量最高的單曲。由於這首單曲是專輯最夯的曲子，搭配的巡迴演唱會便以「暈眩國度」命名（*Vertigo
 Tour*）。
 
 英國地區發行的第二首單曲〈Sometimes You Can't Make It On Your
@@ -61,11 +61,11 @@ You〉是美國地區發行的第二首單曲，在告示牌主流搖滾、現�
 
 ## 評價
 
-《如何拆除原子彈》發行後佳評如潮，包括《[滾石雜誌](../Page/滾石雜誌.md "wikilink")》（稱讚「由出色的樂團製作的出色專輯」）、[Allmusic](../Page/Allmusic.md "wikilink")、《Q雜誌》、《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》皆給予正面評價。在34個國家成為銷售榜首，包括美國、英國以及澳洲，全球總銷售量突破9百萬\[6\]。這張專輯常被視為是繼1997年銷售較為失敗的專輯《[流行超市](../Page/流行超市.md "wikilink")》後，U2再度達到銷售巔峰之作。
+《如何拆除原子彈》發行後佳評如潮，包括《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》（稱讚「由出色的樂團製作的出色專輯」）、[Allmusic](https://zh.wikipedia.org/wiki/Allmusic "wikilink")、《Q雜誌》、《[洛杉磯時報](../Page/洛杉磯時報.md "wikilink")》皆給予正面評價。在34個國家成為銷售榜首，包括美國、英國以及澳洲，全球總銷售量突破9百萬\[6\]。這張專輯常被視為是繼1997年銷售較為失敗的專輯《[流行超市](../Page/流行超市.md "wikilink")》後，U2再度達到銷售巔峰之作。
 
 ### 獎項
 
-與[麥可·傑克森的專輯](../Page/麥可·傑克森.md "wikilink")《[Thriller](../Page/Thriller.md "wikilink")》一樣，這張專輯在2005年、2006年[葛萊美獎提名八項通通獲獎](../Page/葛萊美獎.md "wikilink")。專輯本身獲得2006年葛萊美「最佳專輯」、「最佳搖滾專輯」；單曲〈Sometimes
+與[麥可·傑克森的專輯](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")《[Thriller](https://zh.wikipedia.org/wiki/Thriller "wikilink")》一樣，這張專輯在2005年、2006年[葛萊美獎提名八項通通獲獎](../Page/葛萊美獎.md "wikilink")。專輯本身獲得2006年葛萊美「最佳專輯」、「最佳搖滾專輯」；單曲〈Sometimes
 You Can't Make It On Your Own〉則獲得「最佳歌曲」、「最佳搖滾團體」；〈City of Blinding
 Lights〉獲得「最佳搖滾歌曲」；〈Vertigo〉則獲得2005年葛萊美「最佳搖滾歌曲」、「最佳搖滾團體」以及「最佳短篇音樂錄影帶」。
 
@@ -105,11 +105,11 @@ Lights〉獲得「最佳搖滾歌曲」；〈Vertigo〉則獲得2005年葛萊美
 
 <!-- end list -->
 
-  - [波諾](../Page/波諾.md "wikilink") ─ 主唱、副吉他
+  - [波諾](https://zh.wikipedia.org/wiki/波諾 "wikilink") ─ 主唱、副吉他
   - [The Edge](../Page/The_Edge.md "wikilink") ─
-    吉他、[鋼琴](../Page/鋼琴.md "wikilink")、[鍵盤](../Page/鍵盤樂器.md "wikilink")、[和聲](../Page/和聲歌手.md "wikilink")
+    吉他、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、[鍵盤](../Page/鍵盤樂器.md "wikilink")、[和聲](../Page/和聲歌手.md "wikilink")
   - [亞當·克雷頓](../Page/亞當·克雷頓.md "wikilink") ─
-    [貝斯](../Page/貝斯.md "wikilink")
+    [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
   - [小賴瑞·慕蘭](../Page/小賴瑞·慕蘭.md "wikilink") ─
     [鼓](../Page/鼓.md "wikilink")、〈Miracle Drug〉的和聲
 
@@ -119,10 +119,10 @@ Lights〉獲得「最佳搖滾歌曲」；〈Vertigo〉則獲得2005年葛萊美
 
 <!-- end list -->
 
-  - [蓋瑞·李](../Page/蓋瑞·李.md "wikilink") ─
+  - [蓋瑞·李](https://zh.wikipedia.org/wiki/蓋瑞·李 "wikilink") ─
     [鍵盤](../Page/鍵盤樂器.md "wikilink")、[合成器](../Page/合成器.md "wikilink")
-  - [丹尼爾·雷諾伊斯](../Page/丹尼爾·雷諾伊斯.md "wikilink") ─
-    吉他、[曼陀林](../Page/曼陀林.md "wikilink")、[搖鈴](../Page/搖鈴.md "wikilink")、踏板電子吉他
+  - [丹尼爾·雷諾伊斯](https://zh.wikipedia.org/wiki/丹尼爾·雷諾伊斯 "wikilink") ─
+    吉他、[曼陀林](../Page/曼陀林.md "wikilink")、[搖鈴](https://zh.wikipedia.org/wiki/搖鈴 "wikilink")、踏板電子吉他
 
 ## 參考
 

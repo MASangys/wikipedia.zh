@@ -1,11 +1,11 @@
 [Gundam_Unicorn.jpg](https://zh.wikipedia.org/wiki/File:Gundam_Unicorn.jpg "fig:Gundam_Unicorn.jpg")
 《**機動戰士鋼彈UC**》（）是[福井晴敏撰寫的](../Page/福井晴敏.md "wikilink")[GUNDAM小說系列作品](../Page/GUNDAM系列作品.md "wikilink")，於雜誌《[GUNDAM
-ACE](../Page/GUNDAM_ACE.md "wikilink")》2007年2月號至2009年8月號上連載。2009年4月25日，官方宣布本作品動畫化\[1\]，改編動畫以全7話[OVA形式於](../Page/OVA.md "wikilink")2010年2月20日至2014年5月17日在世界多國同步播放，並推出多语言[BD](../Page/藍光光碟.md "wikilink")&[DVD](../Page/DVD.md "wikilink")。OVA動畫因大獲好評而決定將其內容進行編輯成新版動畫《機動戰士鋼彈UC
+ACE](../Page/GUNDAM_ACE.md "wikilink")》2007年2月號至2009年8月號上連載。2009年4月25日，官方宣布本作品動畫化\[1\]，改編動畫以全7話[OVA形式於](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年2月20日至2014年5月17日在世界多國同步播放，並推出多语言[BD](../Page/藍光光碟.md "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。OVA動畫因大獲好評而決定將其內容進行編輯成新版動畫《機動戰士鋼彈UC
 RE:0096》，於2016年4月3日開始播出。
 
 ## 概要
 
-《**機動戰士鋼彈UC**》於2007年所推出的以[UC時代](../Page/宇宙世紀.md "wikilink")（宇宙世紀）為時代背景的小說，作品由[福井晴敏執筆](../Page/福井晴敏.md "wikilink")，[安彥良和擔當人物設定](../Page/安彥良和.md "wikilink")，[角木肇擔當機體設定的](../Page/角木肇.md "wikilink")。作為最新的[宇宙世紀作品](../Page/宇宙世紀.md "wikilink")，其主角機為繼承GUNDAM之名的[RX-0
+《**機動戰士鋼彈UC**》於2007年所推出的以[UC時代](../Page/宇宙世紀.md "wikilink")（宇宙世紀）為時代背景的小說，作品由[福井晴敏執筆](../Page/福井晴敏.md "wikilink")，[安彥良和擔當人物設定](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")，[角木肇擔當機體設定的](../Page/角木肇.md "wikilink")。作為最新的[宇宙世紀作品](../Page/宇宙世紀.md "wikilink")，其主角機為繼承GUNDAM之名的[RX-0
 獨角獸GUNDAM](../Page/RX-0_獨角獸GUNDAM.md "wikilink")。小說至今已出版全10卷單行本。
 
 UC鋼彈中的NT-D模式全稱為-{New Type Destroyer system}-，RE則是指REMASTER。
@@ -31,12 +31,12 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 <!-- end list -->
 
   -
-    本作的女主角，16歲的少女，真正身份為薩比家的公主。有著綠寶石顏色的雙眼。對巴納吉有好感。本名[米妮瓦·拉歐·薩比](../Page/薩比家.md "wikilink")。奧黛莉的假名是來自於女演員[奧黛麗·赫本](../Page/奧黛麗·赫本.md "wikilink")。年紀雖輕但擁有身為高位者的風骨，在任何危險狀況下都能擁有不為所動的堅強。思緒清晰而冷靜，但私底下為了自己該扮演的角色為何深感疲憊。
+    本作的女主角，16歲的少女，真正身份為薩比家的公主。有著綠寶石顏色的雙眼。對巴納吉有好感。本名[米妮瓦·拉歐·薩比](../Page/薩比家.md "wikilink")。奧黛莉的假名是來自於女演員[奧黛麗·赫本](https://zh.wikipedia.org/wiki/奧黛麗·赫本 "wikilink")。年紀雖輕但擁有身為高位者的風骨，在任何危險狀況下都能擁有不為所動的堅強。思緒清晰而冷靜，但私底下為了自己該扮演的角色為何深感疲憊。
 
 ### 新吉翁殘黨軍「帶袖的」（）
 
   -
-    新吉翁殘黨-「-{帶袖的}-」頭領，人稱「[夏亚再臨](../Page/夏亚.md "wikilink")」，駕駛專用機「新安州」，帶面具的男人，小說中第十話交代此人其實是夏亞的複製人。是夏亞命令吉翁共和国的國防部長摩纳罕製造，後被駕駛獨角獸與報喪女妖的巴納吉與利迪擊墜。OVA版中可能是夏亞本人,駕駛新吉翁克與獨角獸鋼彈和報喪女妖交戰，其間與巴納吉穿越時空目睹過去一年戰爭，格里普斯與及阿克西斯墜落等重大歷史事件，最後阿姆羅、拉拉及【一年戰爭時期】的夏亞三人的靈魂一同現身（換言之，OVA
+    新吉翁殘黨-「-{帶袖的}-」頭領，人稱「[夏亚再臨](https://zh.wikipedia.org/wiki/夏亚 "wikilink")」，駕駛專用機「新安州」，帶面具的男人，小說中第十話交代此人其實是夏亞的複製人。是夏亞命令吉翁共和国的國防部長摩纳罕製造，後被駕駛獨角獸與報喪女妖的巴納吉與利迪擊墜。OVA版中可能是夏亞本人,駕駛新吉翁克與獨角獸鋼彈和報喪女妖交戰，其間與巴納吉穿越時空目睹過去一年戰爭，格里普斯與及阿克西斯墜落等重大歷史事件，最後阿姆羅、拉拉及【一年戰爭時期】的夏亞三人的靈魂一同現身（換言之，OVA
     版確認了阿姆羅在阻擋阿克西斯降下地球的時候，已經消逝。），引導弗爾的靈魂一同離開。
     基於擁有夏亞的記憶，弗爾曾多次見過幾部不同的鋼彈（RX-78、Mk-II、Zeta、Nu等等），所以在第一次看到獨角獸鋼彈由獨角獸模式轉為毀滅模式時，説出：「又要與我為敵嗎！？鋼彈！！」
     弗爾知道夏亞記憶的所有一切，甚至有如自己的一樣，因而有分析認為OVA以及動畫版本的弗爾並非小說版灌入夏亞記憶之複製人，而是實實在在的夏亞本人。相信殖民地「阿克西斯」墜下時一部份之精神或靈魂離開身體，與阿姆羅之精神發生共鳴阻止了阿克西斯墜下。(拉拉說道上校還是上校的時候)夏亞失去一年戰爭以及格林普斯戰役時相信人類無限可能性的思維，只餘下對人類絕望的負面人格，因此化成弗爾·伏朗托。詳見《機動戦士ガンダム　逆襲のシャア　シャアのその後》
@@ -140,7 +140,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 
   -
     羅南·馬瑟納斯之子，由於不想依循家族傳統從政而離家出走從軍。軍校畢業後配屬為擬阿卡馬號MS駕駛，使用機為ReZel、Delta
-    Plus以及报丧女妖。喜愛古典[雙翼機模型](../Page/雙翼機.md "wikilink")，對米妮瓦有著一往情深的感情。
+    Plus以及报丧女妖。喜愛古典[雙翼機模型](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")，對米妮瓦有著一往情深的感情。
 
 #### 隆德·貝爾隊
 
@@ -239,12 +239,12 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 <!-- end list -->
 
   -
-    格里普斯戰役期間[AEUG的地面協助組織](../Page/A.E.U.G..md "wikilink")[卡拉巴的工作員](../Page/卡拉巴.md "wikilink")。阿姆羅參加卡拉巴空軍時的同居女友。現為香港羅商會的高級職員。
+    格里普斯戰役期間[AEUG的地面協助組織](https://zh.wikipedia.org/wiki/A.E.U.G. "wikilink")[卡拉巴的工作員](https://zh.wikipedia.org/wiki/卡拉巴 "wikilink")。阿姆羅參加卡拉巴空軍時的同居女友。現為香港羅商會的高級職員。
 
 <!-- end list -->
 
   -
-    [一年戰爭時期](../Page/一年戰爭.md "wikilink")[白色基地MS駕駛員](../Page/白色基地.md "wikilink")，戰後成為記者，現為自由作家。
+    [一年戰爭時期](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")[白色基地MS駕駛員](../Page/白色基地.md "wikilink")，戰後成為記者，現為自由作家。
 
 <!-- end list -->
 
@@ -330,13 +330,13 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
     主要發生在4-5月，新吉翁殘黨策劃襲擊了地球聯邦政府首都——「達卡」以及澳大利亞聯邦基地——「托灵顿」，重創了首都地區，議會大廈被毀；而擬·阿卡馬則攻擊了「袖章軍團」的基地——「帕勞」，雙方幾次軍事行動都造成了大量人員傷亡和財產損失。
     5月，聯邦軍使用在「格里普斯戰爭」中被破壞、以後收復完成的殖民衛星炮——「格里普斯II」摧毀了新吉恩殘黨的主力艦隊，並試圖摧毀盒子所在地——「墨瓦臘泥加」未能成功；吉翁公主——「米妮瓦·扎比」向全地球圈揭露了盒子的真相——即被地球聯邦篡改的宇宙世紀憲章。
     事件公佈後引起整個地球圈的軒然大波，但是聯邦及時召開新聞發布會否認，並指出現今沒有任何標準能判定新人類的存在，此事件在耗費了大量生命和財力後就這樣不了了之，事後，米妮瓦和巴納吉隨墨瓦臘泥加前往吉翁共和國並在之後前往木星圈。
-    拉普拉斯之亂對歷史表面並無太大影響，實際上聯邦政府否定盒子真相後，未有因此改變腐敗狀況，間接為日後「[馬法迪](../Page/機動戰士GUNDAM_閃光的哈薩維.md "wikilink")」、「[骨十字先鋒](../Page/機動戰士GUNDAM_F91.md "wikilink")」、「[桑斯卡爾帝國](../Page/機動戰士V_GUNDAM.md "wikilink")」等反聯邦勢力先後抬頭，埋下伏線。此外，戰爭期間，宇宙島開始發跡、至U.C.0096年才重新整合的S.N.R.I（海軍戰略研究所），首度參與聯邦軍ECOAS部隊的MS製造，日後也積極向苦於縮減開支的聯邦軍，提出機動戰士小型化方案，最終更被聯邦軍採納成為主要戰力，嚴重打擊在機動戰士小型化競逐上、後知後覺的阿納海姆電子企業，標誌這曾經叱吒一時的龐大企業，已經步入衰落。
+    拉普拉斯之亂對歷史表面並無太大影響，實際上聯邦政府否定盒子真相後，未有因此改變腐敗狀況，間接為日後「[馬法迪](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_閃光的哈薩維 "wikilink")」、「[骨十字先鋒](../Page/機動戰士GUNDAM_F91.md "wikilink")」、「[桑斯卡爾帝國](../Page/機動戰士V_GUNDAM.md "wikilink")」等反聯邦勢力先後抬頭，埋下伏線。此外，戰爭期間，宇宙島開始發跡、至U.C.0096年才重新整合的S.N.R.I（海軍戰略研究所），首度參與聯邦軍ECOAS部隊的MS製造，日後也積極向苦於縮減開支的聯邦軍，提出機動戰士小型化方案，最終更被聯邦軍採納成為主要戰力，嚴重打擊在機動戰士小型化競逐上、後知後覺的阿納海姆電子企業，標誌這曾經叱吒一時的龐大企業，已經步入衰落。
 
 ## 登场地名、設施
 
   -
     「阿納海姆電子公司」轄下建設中的工業殖民衞星，約有200萬人口，不屬於任何一個SIDE，也沒有聯邦軍駐軍。
-    位處地球及月球之間，繞行[L1軌道](../Page/拉格朗日點.md "wikilink")，形狀有如巨大的圓筒，港口及工廠區的一端向着地球。
+    位處地球及月球之間，繞行[L1軌道](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")，形狀有如巨大的圓筒，港口及工廠區的一端向着地球。
     外壁是銀藍色，目前全長18公里（估計竣工時會達至30公里），圓周約20公里，以2分鐘自轉一周的速度產生1G的引力。
     整體就如同名字一般是工廠的集合體，24小時都有值勤中的人。
     於OVA第1集和動畫第3集遭到新吉翁的MS——剎帝利與隆德·貝爾的所有MS兩方的互相攻擊，而無辜牽連工業7號所有平民，連同工業學院所有學生，除了巴納吉·林克斯、拓也·伊禮和米寇特·帕奇，都無一生還，而且工業7號也已經在這場戰爭中滿目瘡痍。
@@ -377,7 +377,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 <!-- end list -->
 
   -
-    「地球聯邦」的軍事基地，位於「[懷俄明州](../Page/懷俄明州.md "wikilink")」東南部近「[科羅拉多州界](../Page/科羅拉多州.md "wikilink")」。是「格里普斯II」的[控制中心](../Page/控制中心.md "wikilink")。
+    「地球聯邦」的軍事基地，位於「[懷俄明州](https://zh.wikipedia.org/wiki/懷俄明州 "wikilink")」東南部近「[科羅拉多州界](../Page/科羅拉多州.md "wikilink")」。是「格里普斯II」的[控制中心](https://zh.wikipedia.org/wiki/控制中心 "wikilink")。
 
 <!-- end list -->
 
@@ -469,14 +469,14 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 
 ## 小說
 
-日版單行本由發行，之後分別由[角川文庫和](../Page/角川文庫.md "wikilink")[角川Sneaker文庫發行文庫版](../Page/角川Sneaker文庫.md "wikilink")。單行本前3卷由[安彥良和](../Page/安彥良和.md "wikilink")、之後由繪製插畫；角川Sneaker文庫版插畫由[美樹本晴彥繪製](../Page/美樹本晴彥.md "wikilink")。繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")，簡體中文版\[4\]由[天聞角川代理發行](../Page/天聞角川.md "wikilink")，[湖南美術出版社出版](../Page/湖南美術出版社.md "wikilink")，二者代理版本均為單行本版。
+日版單行本由發行，之後分別由[角川文庫和](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")[角川Sneaker文庫發行文庫版](../Page/角川Sneaker文庫.md "wikilink")。單行本前3卷由[安彥良和](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")、之後由繪製插畫；角川Sneaker文庫版插畫由[美樹本晴彥繪製](../Page/美樹本晴彥.md "wikilink")。繁體中文版由[台灣角川代理發行](../Page/台灣角川.md "wikilink")，簡體中文版\[4\]由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")，[湖南美術出版社出版](https://zh.wikipedia.org/wiki/湖南美術出版社 "wikilink")，二者代理版本均為單行本版。
 
 <table>
 <thead>
 <tr class="header">
 <th><p><a href="../Page/角川書店.md" title="wikilink">角川書店</a></p></th>
 <th><p>／ <a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
-<th><p><a href="../Page/天闻角川.md" title="wikilink">天闻角川</a>、<a href="../Page/湖南美術出版社.md" title="wikilink">湖南美術出版社</a></p></th>
+<th><p><a href="../Page/天闻角川.md" title="wikilink">天闻角川</a>、<a href="https://zh.wikipedia.org/wiki/湖南美術出版社" title="wikilink">湖南美術出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -690,7 +690,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 战后的战争
 
 《机动战士GUNDAM UC 战后的战争》（）为PlayStation 3游戏[机动战士高达
-UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
+UC特装版的特典](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC_\(游戏\) "wikilink")。
 
 ### 狩猎不死鸟
 
@@ -701,7 +701,7 @@ UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
 《機動戰士鋼彈 UC》的動畫版是鋼彈動畫中少有的非原創（由小說改編）鋼彈動畫。
 
 2009年4月25日，日昇動畫決定把《機動戰士GUNDAM
-UC》動畫化。官方稱將以一種全新的模式全世界範圍內採取多種方式發布。2010年2月20日，第一集發布，以及在日本五大城市公映，包括東京、大阪、名古屋、福岡、札幌，以兩週時間（2010年2月20日～2010年3月5日）限時試播映，並在現場影院內針對入場者發售藍光光碟第1集先行限量發售版。2010年2月20日起[索尼電腦娛樂通过旗下](../Page/索尼電腦娛樂.md "wikilink")[PlayStation
+UC》動畫化。官方稱將以一種全新的模式全世界範圍內採取多種方式發布。2010年2月20日，第一集發布，以及在日本五大城市公映，包括東京、大阪、名古屋、福岡、札幌，以兩週時間（2010年2月20日～2010年3月5日）限時試播映，並在現場影院內針對入場者發售藍光光碟第1集先行限量發售版。2010年2月20日起[索尼電腦娛樂通过旗下](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation
 Network上的](../Page/PlayStation_Network.md "wikilink")[PlayStation
 Store向](../Page/PlayStation_Store.md "wikilink")[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[PSP用户提供影片網路撥放](../Page/PlayStation_Portable.md "wikilink")。
@@ -710,24 +710,24 @@ Store向](../Page/PlayStation_Store.md "wikilink")[PlayStation
 
 ### 制作人员
 
-  - 原案：[矢立肇](../Page/矢立肇.md "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
+  - 原案：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")
   - 監督：[古橋一浩](../Page/古橋一浩.md "wikilink")
-  - 脚本：[武藤康幸](../Page/むとうやすゆき.md "wikilink")
-  - [人设原案](../Page/人设.md "wikilink")：[安彦良和](../Page/安彦良和.md "wikilink")
+  - 脚本：[武藤康幸](https://zh.wikipedia.org/wiki/むとうやすゆき "wikilink")
+  - [人设原案](https://zh.wikipedia.org/wiki/人设 "wikilink")：[安彦良和](../Page/安彦良和.md "wikilink")
   - 动画人设：[高橋久美子](../Page/高橋久美子.md "wikilink")
-  - [MS原案](../Page/機動戰士.md "wikilink")：[大河原邦男](../Page/大河原邦男.md "wikilink")
-  - [机械设定](../Page/机械设定.md "wikilink")：[角木肇](../Page/カトキハジメ.md "wikilink")、[石垣純哉](../Page/石垣純哉.md "wikilink")、[玄馬宣彦](../Page/玄馬宣彦.md "wikilink")
-  - 机械设定协助：[明贵美加](../Page/明贵美加.md "wikilink")
-  - 背景设定：[佐山善則](../Page/佐山善則.md "wikilink")、[上村秀勝](../Page/上村秀勝.md "wikilink")
-  - 設定考証：[小倉信也](../Page/小倉信也.md "wikilink")
+  - [MS原案](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")：[大河原邦男](../Page/大河原邦男.md "wikilink")
+  - [机械设定](https://zh.wikipedia.org/wiki/机械设定 "wikilink")：[角木肇](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")、[石垣純哉](https://zh.wikipedia.org/wiki/石垣純哉 "wikilink")、[玄馬宣彦](https://zh.wikipedia.org/wiki/玄馬宣彦 "wikilink")
+  - 机械设定协助：[明贵美加](https://zh.wikipedia.org/wiki/明贵美加 "wikilink")
+  - 背景设定：[佐山善則](https://zh.wikipedia.org/wiki/佐山善則 "wikilink")、[上村秀勝](https://zh.wikipedia.org/wiki/上村秀勝 "wikilink")
+  - 設定考証：[小倉信也](https://zh.wikipedia.org/wiki/小倉信也 "wikilink")
   - 原著故事：[福井晴敏](../Page/福井晴敏.md "wikilink")
-  - 音楽：[澤野弘之](../Page/澤野弘之.md "wikilink")
-  - [音響監督](../Page/音響監督.md "wikilink")：[木村絵理子](../Page/木村絵理子.md "wikilink")
-  - [美術監督](../Page/美術監督.md "wikilink")：[池田繁美](../Page/池田繁美.md "wikilink")
-  - 色彩設計：[すずきたかこ](../Page/すずきたかこ.md "wikilink")
-  - 摄影監督：[葛山剛士](../Page/葛山剛士.md "wikilink")、[田中唯](../Page/田中唯.md "wikilink")
-  - [CG导演](../Page/CG导演.md "wikilink")：[藤江智洋](../Page/藤江智洋.md "wikilink")
-  - 編集：[今井大介](../Page/今井大介.md "wikilink")
+  - 音楽：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
+  - [音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")：[木村絵理子](https://zh.wikipedia.org/wiki/木村絵理子 "wikilink")
+  - [美術監督](https://zh.wikipedia.org/wiki/美術監督 "wikilink")：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
+  - 色彩設計：[すずきたかこ](https://zh.wikipedia.org/wiki/すずきたかこ "wikilink")
+  - 摄影監督：[葛山剛士](https://zh.wikipedia.org/wiki/葛山剛士 "wikilink")、[田中唯](https://zh.wikipedia.org/wiki/田中唯 "wikilink")
+  - [CG导演](https://zh.wikipedia.org/wiki/CG导演 "wikilink")：[藤江智洋](https://zh.wikipedia.org/wiki/藤江智洋 "wikilink")
+  - 編集：[今井大介](https://zh.wikipedia.org/wiki/今井大介 "wikilink")
   - 动画制作：[日昇動畫](../Page/日昇動畫.md "wikilink")
 
 ### 各集列表
@@ -914,24 +914,24 @@ Over the Rainbow</p></td>
   - 活动公映
     ○公開日公映、●公開日以后公映、×未公映。
 
-| 都道府县                                             | 上映館                                                                | ep 1 | ep 2 | ep 3 | ep 4 | ep 5 | ep 6 |
-| ------------------------------------------------ | ------------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| [東京都](../Page/東京都.md "wikilink")                 | [新宿ピカデリー](../Page/新宿ピカデリー.md "wikilink")                           | ○    | ○    | ○    | ○    | ○    | ○    |
-| [TOHOシネマズ六本木ヒルズ](../Page/TOHOシネマズ.md "wikilink") | ●                                                                  |      |      |      |      |      |      |
-| [シネマサンシャイン池袋](../Page/シネマサンシャイン.md "wikilink")   | ×                                                                  | ×    | ×    | ×    | ×    |      |      |
-| [神奈川县](../Page/神奈川县.md "wikilink")               | [横浜ブルク13](../Page/横浜ブルク13.md "wikilink")                           | ○    | ○    | ○    | ○    |      |      |
-| [川崎チネチッタ](../Page/チネチッタ_\(川崎市\).md "wikilink")   | ×                                                                  | ×    | ×    | ×    | ×    |      |      |
-| [千葉县](../Page/千葉县.md "wikilink")                 | [シネプレックス幕張](../Page/角川シネプレックス.md "wikilink")                       | ●    | ○    | ○    | ○    | ○    |      |
-| 京成ローザ10                                          | ×                                                                  | ×    | ×    | ×    | ×    |      |      |
-| [埼玉县](../Page/埼玉县.md "wikilink")                 | [MOVIXさいたま](../Page/MOVIX.md "wikilink")                           | ●    | ○    | ○    | ○    | ○    |      |
-| [栃木县](../Page/栃木县.md "wikilink")                 | MOVIX宇都宮                                                           | ×    | ×    | ×    |      |      |      |
-| [愛知县](../Page/愛知县.md "wikilink")                 | [ミッドランドスクエア シネマ](../Page/中日本興業#ミッドランドスクエア_シネマ.md "wikilink")       | ○    | ○    | ○    |      |      |      |
-| [大阪府](../Page/大阪府.md "wikilink")                 | [大阪ステーションシティシネマ](../Page/大阪ステーションシティ#大阪ステーションシティシネマ.md "wikilink") | ×    | ×    | ×    |      |      |      |
-| [なんばパークスシネマ](../Page/なんばパークス.md "wikilink")      | ○                                                                  | ○    | ○    |      |      |      |      |
-| [京都府](../Page/京都府.md "wikilink")                 | MOVIX京都                                                            | ×    |      |      |      |      |      |
-| [兵库县](../Page/兵库县.md "wikilink")                 | [神户国際松竹](../Page/神户国際会館#神户国際松竹.md "wikilink")                      | ×    | ×    | ×    | ×    |      |      |
-| [北海道](../Page/北海道.md "wikilink")                 | [札幌シネマフロンティア](../Page/札幌シネマフロンティア.md "wikilink")                   | ○    | ○    | ○    | ○    |      |      |
-| [福冈县](../Page/福冈县.md "wikilink")                 | 福岡中洲大洋                                                             |      |      |      |      |      |      |
+| 都道府县                                                                | 上映館                                                                                   | ep 1 | ep 2 | ep 3 | ep 4 | ep 5 | ep 6 |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [東京都](../Page/東京都.md "wikilink")                                    | [新宿ピカデリー](https://zh.wikipedia.org/wiki/新宿ピカデリー "wikilink")                           | ○    | ○    | ○    | ○    | ○    | ○    |
+| [TOHOシネマズ六本木ヒルズ](https://zh.wikipedia.org/wiki/TOHOシネマズ "wikilink") | ●                                                                                     |      |      |      |      |      |      |
+| [シネマサンシャイン池袋](https://zh.wikipedia.org/wiki/シネマサンシャイン "wikilink")   | ×                                                                                     | ×    | ×    | ×    | ×    |      |      |
+| [神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")               | [横浜ブルク13](https://zh.wikipedia.org/wiki/横浜ブルク13 "wikilink")                           | ○    | ○    | ○    | ○    |      |      |
+| [川崎チネチッタ](https://zh.wikipedia.org/wiki/チネチッタ_\(川崎市\) "wikilink")   | ×                                                                                     | ×    | ×    | ×    | ×    |      |      |
+| [千葉县](https://zh.wikipedia.org/wiki/千葉县 "wikilink")                 | [シネプレックス幕張](https://zh.wikipedia.org/wiki/角川シネプレックス "wikilink")                       | ●    | ○    | ○    | ○    | ○    |      |
+| 京成ローザ10                                                             | ×                                                                                     | ×    | ×    | ×    | ×    |      |      |
+| [埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")                 | [MOVIXさいたま](https://zh.wikipedia.org/wiki/MOVIX "wikilink")                           | ●    | ○    | ○    | ○    | ○    |      |
+| [栃木县](https://zh.wikipedia.org/wiki/栃木县 "wikilink")                 | MOVIX宇都宮                                                                              | ×    | ×    | ×    |      |      |      |
+| [愛知县](https://zh.wikipedia.org/wiki/愛知县 "wikilink")                 | [ミッドランドスクエア シネマ](https://zh.wikipedia.org/wiki/中日本興業#ミッドランドスクエア_シネマ "wikilink")       | ○    | ○    | ○    |      |      |      |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                 | [大阪ステーションシティシネマ](https://zh.wikipedia.org/wiki/大阪ステーションシティ#大阪ステーションシティシネマ "wikilink") | ×    | ×    | ×    |      |      |      |
+| [なんばパークスシネマ](https://zh.wikipedia.org/wiki/なんばパークス "wikilink")      | ○                                                                                     | ○    | ○    |      |      |      |      |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")                 | MOVIX京都                                                                               | ×    |      |      |      |      |      |
+| [兵库县](../Page/兵库县.md "wikilink")                                    | [神户国際松竹](https://zh.wikipedia.org/wiki/神户国際会館#神户国際松竹 "wikilink")                      | ×    | ×    | ×    | ×    |      |      |
+| [北海道](../Page/北海道.md "wikilink")                                    | [札幌シネマフロンティア](https://zh.wikipedia.org/wiki/札幌シネマフロンティア "wikilink")                   | ○    | ○    | ○    | ○    |      |      |
+| [福冈县](../Page/福冈县.md "wikilink")                                    | 福岡中洲大洋                                                                                |      |      |      |      |      |      |
 
 ### 播映電視台
 
@@ -939,7 +939,8 @@ Over the Rainbow</p></td>
 
 #### 主题曲
 
-  - [流星之泪](../Page/流星之泪.md "wikilink")（流星のナミダ） （episode1）
+  - [流星之泪](https://zh.wikipedia.org/wiki/流星之泪 "wikilink")（流星のナミダ）
+    （episode1）
     作詞：田中秀典、中山豪次郎 / 作曲：中山豪次郎 / 歌：[CHiAKi
     KURiYAMA](../Page/栗山千明.md "wikilink")
 
@@ -948,35 +949,39 @@ Over the Rainbow</p></td>
   - [Everlasting](../Page/Everlasting_\(Kylee单曲\).md "wikilink")
     （episode2）
     作詞：渡邊亜希子、Kylee / 作曲：Carlos K. / 歌：[Kylee
-    Saunders](../Page/凱莉·桑德斯.md "wikilink")
+    Saunders](https://zh.wikipedia.org/wiki/凱莉·桑德斯 "wikilink")
 
 <!-- end list -->
 
-  - [merry-go-round](../Page/merry-go-round_\(CHEMISTRY单曲\).md "wikilink")
+  - [merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink")
     （episode3）
-    作詞：堂珍嘉邦、川畑要 / 作曲・編曲：[UTA](../Page/UTA.md "wikilink") /
-    歌：[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
+    作詞：堂珍嘉邦、川畑要 /
+    作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")
+    / 歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
 
 <!-- end list -->
 
   - B-Bird （episode4）
     作詞：FLAT5th Rico / 作曲・編曲：齊藤真也 /
-    歌：[earthmind](../Page/earthmind.md "wikilink")
+    歌：[earthmind](https://zh.wikipedia.org/wiki/earthmind "wikilink")
 
 <!-- end list -->
 
   - BROKEN MIRROR （episode5）
-    歌：[BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink")
+    歌：[BOOM BOOM
+    SATELLITES](https://zh.wikipedia.org/wiki/BOOM_BOOM_SATELLITES "wikilink")
 
 <!-- end list -->
 
-  - [RE:I AM](../Page/RE:I_AM_EP.md "wikilink") （episode6）
+  - [RE:I AM](https://zh.wikipedia.org/wiki/RE:I_AM_EP "wikilink")
+    （episode6）
     作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
     歌：[Aimer](../Page/Aimer.md "wikilink")
 
 <!-- end list -->
 
-  - [StarRingChild](../Page/StarRingChild.md "wikilink") （episode7）
+  - [StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink")
+    （episode7）
     作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
     歌：[Aimer](../Page/Aimer.md "wikilink")
 
@@ -984,13 +989,13 @@ Over the Rainbow</p></td>
 
   - A LETTER （episode1）
     作詞：mpi / 作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
-    歌：[Cyua](../Page/Cyua.md "wikilink")
+    歌：[Cyua](https://zh.wikipedia.org/wiki/Cyua "wikilink")
 
 <!-- end list -->
 
   - LICHT MEER （episode2）
     作詞：Rie / 作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
-    歌：[井上優弥子](../Page/井上優弥子.md "wikilink")
+    歌：[井上優弥子](https://zh.wikipedia.org/wiki/井上優弥子 "wikilink")
 
 <!-- end list -->
 
@@ -1050,7 +1055,7 @@ Over the Rainbow</p></td>
 
       -
         作詞：Benjamin &
-        mpi，作曲、編曲：[澤野弘之](../Page/澤野弘之.md "wikilink")，主唱：SawanoHiroyuki\[nZk\]:Tielle
+        mpi，作曲、編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")，主唱：SawanoHiroyuki\[nZk\]:Tielle
 
 :;「RE：I AM」（第18話）
 
@@ -1070,14 +1075,16 @@ Over the Rainbow</p></td>
       -
         作詞：澤野弘之、cAnON.，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:naNami
 
-:;「[merry-go-round](../Page/merry-go-round_\(CHEMISTRY单曲\).md "wikilink")」
+:;「[merry-go-round](https://zh.wikipedia.org/wiki/merry-go-round_\(CHEMISTRY单曲\) "wikilink")」
 （第9話）
 
   -
 
       -
-        作詞：堂珍嘉邦、川畑要 / 作曲・編曲：[UTA](../Page/UTA.md "wikilink") /
-        歌：[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")
+        作詞：堂珍嘉邦、川畑要 /
+        作曲・編曲：[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")
+        /
+        歌：[CHEMISTRY](https://zh.wikipedia.org/wiki/CHEMISTRY "wikilink")
 
 :; 「bL∞dy f8 -eUC-」 （第13－21話）
 
@@ -1086,7 +1093,8 @@ Over the Rainbow</p></td>
       -
         作詞：cAnON.，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:Aimer
 
-:;「[StarRingChild](../Page/StarRingChild.md "wikilink")」 （第22話）
+:;「[StarRingChild](https://zh.wikipedia.org/wiki/StarRingChild "wikilink")」
+（第22話）
 
   -
 
@@ -1415,11 +1423,11 @@ Over the Rainbow</p></td>
 
 ### 播放電視台
 
-| 播放地區                             | 播放電視台                                     | 播放日期       | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 所屬聯播網                                | 備註      |
-| -------------------------------- | ----------------------------------------- | ---------- | ----------------------------------------------------------------------- | ------------------------------------ | ------- |
-| [愛知縣](../Page/愛知縣.md "wikilink") | [名古屋電視台](../Page/名古屋電視台.md "wikilink")    | 2016年4月3日－ | 星期日 7時00分－7時30分                                                         | [朝日電視網](../Page/朝日電視網.md "wikilink") | **製作局** |
-| 日本全國                             | [朝日電視台系列](../Page/朝日電視網.md "wikilink")24局 |            |                                                                         |                                      |         |
-|                                  |                                           |            |                                                                         |                                      |         |
+| 播放地區                             | 播放電視台                                                        | 播放日期       | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                   | 備註      |
+| -------------------------------- | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------- |
+| [愛知縣](../Page/愛知縣.md "wikilink") | [名古屋電視台](../Page/名古屋電視台.md "wikilink")                       | 2016年4月3日－ | 星期日 7時00分－7時30分                                                                                               | [朝日電視網](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink") | **製作局** |
+| 日本全國                             | [朝日電視台系列](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink")24局 |            |                                                                                                               |                                                         |         |
+|                                  |                                                              |            |                                                                                                               |                                                         |         |
 
 ## 漫畫
 
@@ -1549,12 +1557,13 @@ Over the Rainbow</p></td>
   - 機動戰士GUNDAM EXTREME VS (AC/PS3)
   - 機動戰士GUNDAM EXTREME VS FULL BOOST (AC/PS3)
   - [SD GUNDAM GGENERATION
-    WORLD](../Page/SD_GUNDAM_GGENERATION.md "wikilink")(PSP/Wii)
+    WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP/Wii)
   - [SD GUNDAM GGENERATION OVER
-    WORLD](../Page/SD_GUNDAM_GGENERATION.md "wikilink")(PSP)
+    WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP)
   - [SD GUNDAM GGENERATION
-    3D](../Page/SD_GUNDAM_GGENERATION.md "wikilink")(N3DS)
-  - [第3次超級機器人大戰Z](../Page/第3次超級機器人大戰Z.md "wikilink") 時獄篇&天獄篇(PS3/PSV)
+    3D](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(N3DS)
+  - [第3次超級機器人大戰Z](https://zh.wikipedia.org/wiki/第3次超級機器人大戰Z "wikilink")
+    時獄篇&天獄篇(PS3/PSV)
   - [高达无双3](../Page/GUNDAM無雙3.md "wikilink")(PS3/Xbox 360)
   - 真·GUNDAM无双(PS3/PSV)
   - 機動戰士 激戰任務 NEXT(PS4/PS3)

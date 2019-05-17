@@ -1,8 +1,8 @@
 **Zend Studio**是[Zend
-Technologies开发的](../Page/Zend_Technologies.md "wikilink")[PHP语言集成开发环境](../Page/PHP.md "wikilink")（Integrated
+Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP语言集成开发环境](../Page/PHP.md "wikilink")（Integrated
 Development
-Environment　[IDE](../Page/IDE.md "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend
-Framework方面的支持比其他软件好](../Page/Zend_Framework.md "wikilink")。**Zend
+Environment　[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend
+Framework方面的支持比其他软件好](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")。**Zend
 Studio**5.5系列后，官方推出利用了[Eclipse平台](../Page/Eclipse.md "wikilink")，基于PDT的**Zend
 Studio for Eclipse
 6.0**，之后的版本也都构建于[Eclipse](../Page/Eclipse.md "wikilink")。
@@ -26,13 +26,13 @@ Studio for Eclipse
 
 ### 团队工作
 
-  - 支持[CVS和](../Page/CVS.md "wikilink")[SVN进行团队工作](../Page/Subversion.md "wikilink")。
+  - 支持[CVS和](https://zh.wikipedia.org/wiki/CVS "wikilink")[SVN进行团队工作](../Page/Subversion.md "wikilink")。
   - 综合性能编辑器能监视访问功能。
 
 ## 发行及反响
 
 **Zend Studio**通常会发布标准版，企业版和专业版，个人用户通常会选择专业版。 毫无疑问，**Zend
-Studio**是目前市面上最优秀的[PHP语言](../Page/PHP.md "wikilink")[IDE](../Page/IDE.md "wikilink")，**Zend
+Studio**是目前市面上最优秀的[PHP语言](../Page/PHP.md "wikilink")[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，**Zend
 Studio 4.0**开始被应用于一些重大项目（如NASA的工程）\[1\]，**Zend Studio
 5.0**发布后，下载量很快突破100000。在国内，**Zend Studio
 5.5**系列和**Zend Studio for Eclipse
@@ -60,11 +60,11 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
 | **4.0** | 4.0.1            | 2005年4月29日                                                      | 加入多种数据库支持，包括IBM DB2/Cloudscape，MySQL，Oracle等。加入对PHPDoc和PHPDocumentor支持。                                                                                                                                                                  |
 | **5.0** | 5.0.1            | 2005年                                                           | 支持SVC，代码快速分类导航，代码折叠功能\[7\]                                                                                                                                                                                                               |
 | 5.5.0   | 2006年12月6日       | 支持PHP5.2，允许在Zend Platform Events Lists查看PHP代码运行时间，提供ZF代码自动完成功能。 |                                                                                                                                                                                                                                          |
-| **6.0** | 6.0.0            | 2008年                                                           | 利用[eclipse平台](../Page/eclipse.md "wikilink")，发布名称为Zend Studio for Eclipse                                                                                                                                                                |
+| **6.0** | 6.0.0            | 2008年                                                           | 利用[eclipse平台](https://zh.wikipedia.org/wiki/eclipse "wikilink")，发布名称为Zend Studio for Eclipse                                                                                                                                             |
 | 6.1.2   | 2009年4月23日       | 升级了前版本中的一些组件，如ZF升级为1.7.8                                        |                                                                                                                                                                                                                                          |
 | **7.0** | 7.0.1            | 2009年5月26日                                                      | 支持PHP5.3                                                                                                                                                                                                                                 |
 | 7.1.0   | 2009年11月26日      | 支持PHP5.3                                                        |                                                                                                                                                                                                                                          |
-| **8.0** | 8.0              | 2010年7月                                                         | 支持[Javascript和一些JS框架](../Page/Javascript.md "wikilink")                                                                                                                                                                                  |
+| **8.0** | 8.0              | 2010年7月                                                         | 支持[Javascript和一些JS框架](https://zh.wikipedia.org/wiki/Javascript "wikilink")                                                                                                                                                               |
 | **9.0** | 9.0              | 2011年11月                                                        | 支持[Git和](../Page/Git.md "wikilink")[GitHub](../Page/GitHub.md "wikilink")，云部署                                                                                                                                                            |
 | 9.0.1   | 2011年12月         | Zend Framework Tool                                             |                                                                                                                                                                                                                                          |
 | 9.0.2   | 2012年3月          | 支持PHP5.4                                                        |                                                                                                                                                                                                                                          |
@@ -78,8 +78,9 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
 
 ## 参看
 
-  - [Zend Technologies](../Page/Zend_Technologies.md "wikilink") Zend
-    Stdio开发公司
+  - [Zend
+    Technologies](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")
+    Zend Stdio开发公司
   - [Eclipse](../Page/Eclipse.md "wikilink") 一个开放源代码的、基于 Java 的可扩展开发平台。
 
 ## 参考资料
@@ -91,7 +92,7 @@ Eclipse**系列因为太多的bug，智能化大打折扣，除了界面比原�
   - [zend-studio使用教程](https://archive.is/20130424164827/http://www.leapsoul.cn/?tag=zend-studio%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 [de:Zend Technologies\#Zend
-Studio](../Page/de:Zend_Technologies#Zend_Studio.md "wikilink")
+Studio](https://zh.wikipedia.org/wiki/de:Zend_Technologies#Zend_Studio "wikilink")
 
 [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
 [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")

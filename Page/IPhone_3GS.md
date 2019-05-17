@@ -1,7 +1,7 @@
 **iPhone
-3GS**是一款[苹果公司旗下的](../Page/苹果公司.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[iPhone系列中的第三代](../Page/iPhone.md "wikilink")。2009年6月8日，这款手机在[苹果公司全球软件开发者年会中正式发布](../Page/苹果公司全球软件开发者年会.md "wikilink")。iPhone
+3GS**是一款[苹果公司旗下的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[iPhone系列中的第三代](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2009年6月8日，这款手机在[苹果公司全球软件开发者年会中正式发布](https://zh.wikipedia.org/wiki/苹果公司全球软件开发者年会 "wikilink")。iPhone
 3GS基于前代，提升了电池的续航能力、增强了摄像头像素与摄像质量\[1\]、并最大支持7.2
-Mbps[HSDPA](../Page/HSDPA.md "wikilink").\[2\]。iPhone
+Mbps[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink").\[2\]。iPhone
 3GS于2009年6月19日在[美国](../Page/美国.md "wikilink")、[加拿大及六个欧洲国家发售](../Page/加拿大.md "wikilink")，并于6月26日在[澳大利亚及](../Page/澳大利亚.md "wikilink")[日本发售](../Page/日本.md "wikilink")\[3\]。
 
 ## 硬件
@@ -20,9 +20,10 @@ iPhone 3GS搭载了一枚320万像素摄像头，与前代iPhone比较，除了�
 
 ### 处理器与存储
 
-iPhone 3GS搭载了[Samsung S5PC100由](../Page/Exynos.md "wikilink")[ARM
-Cortex-A8架构处理器](../Page/ARM架构.md "wikilink")，该处理器频率为833 MHz，但iPhone
-3GS将其降频至600 MHz\[8\]\[9\]。iPhone 3GS还搭载了[PowerVR
+iPhone 3GS搭载了[Samsung
+S5PC100由](https://zh.wikipedia.org/wiki/Exynos "wikilink")[ARM
+Cortex-A8架构处理器](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")，该处理器频率为833
+MHz，但iPhone 3GS将其降频至600 MHz\[8\]\[9\]。iPhone 3GS还搭载了[PowerVR
 SGX535](../Page/PowerVR.md "wikilink") GPU，其频率为150
 MHz\[10\]\[11\]\[12\]。iPhone 3GS拥有8GB、16GB和32GB三种版本，其中8GB版本是在iPhone
 4上市后推出的。
@@ -39,7 +40,7 @@ iPhone 3GS搭载了一枚1220毫安内置充电式[锂离子电池](../Page/锂�
   - 重量：135 公克
   - 聲控
   - UMTS/HSDPA (850, 1900, 2100 MHz)
-  - 320萬[畫素](../Page/畫素.md "wikilink")[自動對焦相機](../Page/自動對焦.md "wikilink")
+  - 320萬[畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")[自動對焦相機](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")
   - 影片拍攝
   - 影片剪輯（30 [fps](../Page/帧率.md "wikilink") 的 VGA 影片）
   - Compass 數位指南針

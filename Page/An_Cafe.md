@@ -1,6 +1,6 @@
 **An Cafe**（日文原名：
-）是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[乐团](../Page/乐团.md "wikilink")，2003年在独立唱片公司[Loop
-Ash的协助下组建而成](../Page/Loop_Ash.md "wikilink")，特点为视觉系摇滚中的一种*oshare
+）是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，2003年在独立唱片公司[Loop
+Ash的协助下组建而成](https://zh.wikipedia.org/wiki/Loop_Ash "wikilink")，特点为视觉系摇滚中的一种*oshare
 kei*，本乐团已经出版了一些自己独有的专辑。經紀公司為[Sony Music
 Artists](../Page/Sony_Music_Artists.md "wikilink")。
 
@@ -9,9 +9,9 @@ Artists](../Page/Sony_Music_Artists.md "wikilink")。
   - 2003年5月，An Cafe最初仅由みく, カノン
     和坊三人組成，之後“Feathers-Blue”的輝喜加入。乐团第一年仅是登台演出，没有自编歌曲。
   - 2004年An Cafe制作了第一部乐曲，并与[Loop
-    Ash乐团签订合同进行合作](../Page/Loop_Ash.md "wikilink")。第一部乐曲《Candyholic》三月发行，并在[Oricon排行榜](../Page/Oricon.md "wikilink")（唱片公司独家唱片制作排行榜）中获得第二名。乐团继续演出并编辑自己的歌曲，第一部专辑《Shikisai
+    Ash乐团签订合同进行合作](https://zh.wikipedia.org/wiki/Loop_Ash "wikilink")。第一部乐曲《Candyholic》三月发行，并在[Oricon排行榜](../Page/Oricon.md "wikilink")（唱片公司独家唱片制作排行榜）中获得第二名。乐团继续演出并编辑自己的歌曲，第一部专辑《Shikisai
     Moment*》*2005年发行，随后第二部Magnya Carta（来自英文[Magna
-    Carta](../Page/大宪章.md "wikilink")）在2006年发行。
+    Carta](https://zh.wikipedia.org/wiki/大宪章 "wikilink")）在2006年发行。
 
 <!-- end list -->
 
@@ -50,35 +50,35 @@ Artists](../Page/Sony_Music_Artists.md "wikilink")。
 ## 外國演出經歷
 
 An
-Cafe乐团不仅在日本流行，甚至在欧洲，亚洲的韩国、[中国](../Page/中国.md "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[巴西利亚和](../Page/巴西利亚.md "wikilink")[美国](../Page/美国.md "wikilink")。2008年本乐团在[芬兰](../Page/芬兰.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")、[法国](../Page/法国.md "wikilink")、英国等国家进行了欧洲巡回演出“Live
+Cafe乐团不仅在日本流行，甚至在欧洲，亚洲的韩国、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")、[巴西利亚和](../Page/巴西利亚.md "wikilink")[美国](../Page/美国.md "wikilink")。2008年本乐团在[芬兰](../Page/芬兰.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、英国等国家进行了欧洲巡回演出“Live
 Cafe Tour '08 - Nyappy go around the
 world”。在六个国家里举办了十个音乐会，其中五个在德国。在2008年十一月，An
-Cafe在2009年三四月份在美国加州的三个城市进行巡回演出。在2009年三月再次去欧洲巡回演出。會在以下国家举办十场晚会：[芬兰](../Page/芬兰.md "wikilink")（2）、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")（2）、[英国](../Page/英国.md "wikilink")、[法国](../Page/法国.md "wikilink")（2）、[西班牙](../Page/西班牙.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")（[莫斯科](../Page/莫斯科.md "wikilink")）。
+Cafe在2009年三四月份在美国加州的三个城市进行巡回演出。在2009年三月再次去欧洲巡回演出。會在以下国家举办十场晚会：[芬兰](../Page/芬兰.md "wikilink")（2）、[瑞典](../Page/瑞典.md "wikilink")、[德国](../Page/德国.md "wikilink")（2）、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")（2）、[西班牙](../Page/西班牙.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")（[莫斯科](../Page/莫斯科.md "wikilink")）。
 
 ## 成员
 
 ### 现任成员
 
   - みく
-    （Miku，1984年1月5日，出生于[长崎市](../Page/长崎市.md "wikilink")）：[主唱](../Page/主唱.md "wikilink")
+    （Miku，1984年1月5日，出生于[长崎市](../Page/长崎市.md "wikilink")）：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
       - 樂團經歷: Reverie (レヴェリー) → アンティック-珈琲店- →Lc5
   - たくや
-    （Takuya，1988年2月9日，出生于[和歌山市](../Page/和歌山市.md "wikilink")）：[吉他手](../Page/吉他手.md "wikilink")
+    （Takuya，1988年2月9日，出生于[和歌山市](../Page/和歌山市.md "wikilink")）：[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
       - 樂團經歷: アンティック-珈琲店- →
   - カノン
-    （Kanon，1984年7月5日，出生于[千叶市](../Page/千叶市.md "wikilink")）：[贝斯手](../Page/贝斯手.md "wikilink")
+    （Kanon，1984年7月5日，出生于[千叶市](https://zh.wikipedia.org/wiki/千叶市 "wikilink")）：[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")
       - 樂團經歷: アンロジカル → アンティック-珈琲店- →kanon×kanon
   - ゆうき
-    （Yu-ki，1986年8月29日，出生于[鹿儿岛市](../Page/鹿儿岛市.md "wikilink")）：[鍵盤手](../Page/鍵盤手.md "wikilink")
+    （Yu-ki，1986年8月29日，出生于[鹿儿岛市](../Page/鹿儿岛市.md "wikilink")）：[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")
       - 樂團經歷: アンティック-珈琲店- →
   - 輝喜
-    （Teruki，1981年12月8日，出生于[仙台市](../Page/仙台市.md "wikilink")）：[鼓手](../Page/鼓手.md "wikilink")
+    （Teruki，1981年12月8日，出生于[仙台市](../Page/仙台市.md "wikilink")）：[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
       - 樂團經歷: Feathers Blue → アンティック-珈琲店- →
 
 ### 离开成员
 
   - 坊
-    （Bou，1983年9月16日，出生于[东京](../Page/东京.md "wikilink")）：[吉他手](../Page/吉他手.md "wikilink")
+    （Bou，1983年9月16日，出生于[东京](../Page/东京.md "wikilink")）：[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
       - 樂團經歷: アンティック-珈琲店- → 引退
 
 ## 发行作品

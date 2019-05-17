@@ -24,11 +24,11 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 
       - 《**Acoustic Orchestra**》主要收錄了管弦樂器混音的混音曲版本
       - 《**JPN**》主要收錄了日本風格混音的混音曲版本
-      - 《**US+EU**》主要收錄了[美國與](../Page/美國.md "wikilink")[歐洲曲風混音的混音曲版本](../Page/歐洲.md "wikilink")
+      - 《**US+EU**》主要收錄了[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[歐洲曲風混音的混音曲版本](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
       - 《**non-Stop Mega Mix**》當中的「Disc
         1」是以另三作收錄曲目的26曲，收錄為74分鐘長度的non-Stop混音，「Disc
         2」則是未於non-Stop混音出現的收錄曲，其中包括當時尚未發行單曲《[Far
-        away](../Page/Far_away.md "wikilink")》的混音，另外還收錄募集歌迷用於《[kanariya](../Page/kanariya.md "wikilink")》跟《[Fly
+        away](../Page/Far_away.md "wikilink")》的混音，另外還收錄募集歌迷用於《[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")》跟《[Fly
         high](../Page/Fly_high.md "wikilink")》兩張單曲收錄的純歌聲版本製作而成，獲選的優良混音作品。
 
   - 四張混音專輯封面各自不同。初回特典收錄了可拼出完整圖片的限定卡片及特製閃亮粉CD殼包裝。
@@ -40,7 +40,7 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
     Mega Mix**》銷售量為515,410張。四作合計達1,117,180張。
   - 合計本系列發行前，於2月16日發行的《[SUPER EUROBEAT presents ayu-ro
     mix](../Page/SUPER_EUROBEAT_presents_ayu-ro_mix.md "wikilink")》，濱崎步於2000年共發行了五張混音專輯。
-  - 連同本系列發行後，4月發行第14張單曲《[vogue](../Page/vogue.md "wikilink")》、5月發行第15張單曲《[Far
+  - 連同本系列發行後，4月發行第14張單曲《[vogue](https://zh.wikipedia.org/wiki/vogue "wikilink")》、5月發行第15張單曲《[Far
     away](../Page/Far_away.md "wikilink")》、6月發行第16張單曲《[SEASONS](../Page/SEASONS.md "wikilink")》的三連發，包含混音專輯實質為五個月連續發行。
   - 其中《**US+EU**》混音作品裡的相關完整混音版，另外收錄於avex旗下獨立廠牌Rhythm Republic限定發行的《The
     Other Side》系列作品集。分別為：
@@ -62,7 +62,7 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 2.  Who... "Acoustic Orchestra version"
       -
         本曲後收錄於《[ayu-mi-x 4 +
-        selection](../Page/ayu-mi-x_4_+_selection.md "wikilink")》之中
+        selection](https://zh.wikipedia.org/wiki/ayu-mi-x_4_+_selection "wikilink")》之中
 3.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Acoustic
     Orchestra version"
 4.  [TO BE](../Page/TO_BE.md "wikilink") "Acoustic Orchestra version"
@@ -71,13 +71,14 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 5.  And then "Acoustic Orchestra version"
 6.  [End roll](../Page/A_\(濱崎步單曲\).md "wikilink") "Acoustic Orchestra
     version"
-7.  [immature](../Page/appears.md "wikilink") "Acoustic Orchestra
-    version"
-8.  [appears](../Page/appears.md "wikilink") "Acoustic Orchestra
-    version"
+7.  [immature](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "Acoustic Orchestra version"
+8.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "Acoustic Orchestra version"
 9.  [End roll](../Page/A_\(濱崎步單曲\).md "wikilink") "inst.melo version"
 10. [TO BE](../Page/TO_BE.md "wikilink") "inst.melo version"
-11. [appears](../Page/appears.md "wikilink") "inst.melo version"
+11. [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "inst.melo version"
 12. Who... "inst.melo version"
 
 ### version JPN
@@ -85,14 +86,15 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 1.  [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") "YUKIHIRO FUKUTOMI
     REMIX"
 2.  [Fly high](../Page/Fly_high.md "wikilink") "Groove That Speed Mix"
-3.  [immature](../Page/appears.md "wikilink") "CLUB BAHIA MIX"
+3.  [immature](https://zh.wikipedia.org/wiki/appears "wikilink") "CLUB
+    BAHIA MIX"
 4.  [too late](../Page/A_\(濱崎步單曲\).md "wikilink") "Lab LIFe Remix"
 5.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Inskadisco mix"
 6.  [WHATEVER](../Page/WHATEVER.md "wikilink")
-    "[FPM](../Page/Fantastic_Plastic_Machine.md "wikilink")'s WINTER
-    BOSSA"
+    "[FPM](https://zh.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")'s
+    WINTER BOSSA"
       -
-        本曲後收錄於第14張單曲《[vogue](../Page/vogue.md "wikilink")》之中
+        本曲後收錄於第14張單曲《[vogue](https://zh.wikipedia.org/wiki/vogue "wikilink")》之中
 7.  [End roll](../Page/A_\(濱崎步單曲\).md "wikilink") "da urban maestro mix"
       -
         本曲後收錄於第15張單曲《[Far away](../Page/Far_away.md "wikilink")》之中
@@ -102,7 +104,8 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 9.  And then "Future Disc Mix"
 10. [monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") "D-Z WHITE INSTINCT
     Mix"
-11. [appears](../Page/appears.md "wikilink") "DJ-TURBO Remix"
+11. [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "DJ-TURBO Remix"
 12. P.S. II "Dub's Kingship Remix"
 
 ### version US+EU
@@ -110,9 +113,9 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 1.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Main Radio Mix"
 2.  [too late](../Page/A_\(濱崎步單曲\).md "wikilink") "Soul Solution Remix"
       -
-        本曲後收錄於第14張單曲《[vogue](../Page/vogue.md "wikilink")》之中
-3.  [appears](../Page/appears.md "wikilink") "Junior's Appears On The
-    Air"
+        本曲後收錄於第14張單曲《[vogue](https://zh.wikipedia.org/wiki/vogue "wikilink")》之中
+3.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "Junior's Appears On The Air"
       -
         本曲後收錄於第15張單曲《[Far away](../Page/Far_away.md "wikilink")》之中
 4.  [monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") "Orb 7"Vocal Mix"
@@ -126,20 +129,22 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 10. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Junior's Radio
     Version"
 11. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") "Thunderpuss remix"
-12. [kanariya](../Page/kanariya.md "wikilink") "Main Radio Mix"
+12. [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink") "Main
+    Radio Mix"
 13. Who... "Who Dub It?"
 
 ### version non-Stop Mega Mix
 
 #### DISC 1
 
-1.  [kanariya](../Page/kanariya.md "wikilink") "Main Radio Mix"
+1.  [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink") "Main
+    Radio Mix"
 2.  [Fly high](../Page/Fly_high.md "wikilink") "Vincent De Moor Remix
     Radio Edit"
 3.  [WHATEVER](../Page/WHATEVER.md "wikilink") "Ferry 'System F' Corsten
     Vocal Edit Mix"
-4.  [appears](../Page/appears.md "wikilink") "Junior's Appears On The
-    Air"
+4.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "Junior's Appears On The Air"
 5.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Junior's Radio
     Version"
 6.  And then "Rhythm Masters Vocal 7inch Mix"
@@ -155,9 +160,11 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 16. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Inskadisco mix"
 17. [too late](../Page/A_\(濱崎步單曲\).md "wikilink") "Lab LIFe Remix"
 18. And then "Future Disc Mix"
-19. [immature](../Page/appears.md "wikilink") "CLUB BAHIA MIX"
+19. [immature](https://zh.wikipedia.org/wiki/appears "wikilink") "CLUB
+    BAHIA MIX"
 20. P.S. II "Dub's Kingship Remix"
-21. [appears](../Page/appears.md "wikilink") "DJ-TURBO Remix"
+21. [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    "DJ-TURBO Remix"
 22. [Fly high](../Page/Fly_high.md "wikilink") "Groove That Speed Mix"
 23. [monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") "D-Z WHITE INSTINCT
     Mix"
@@ -175,11 +182,14 @@ II**》（濱崎·不·一樣）是日本歌手[濱崎步的混音專輯](../Pag
 2.  Prologue "Hybrid Remix"
 3.  Who... "Who Dub It? -Main Mix-
 4.  And then "VOICE SPECTAL MIX"
-5.  [immature](../Page/appears.md "wikilink") "AM3:30 stylus Dub"
-6.  **[kanariya](../Page/kanariya.md "wikilink") "NEUTRAL TRIGGER
-    EDIT"**
-7.  **[kanariya](../Page/kanariya.md "wikilink") "engrave mix"**
-8.  [kanariya](../Page/kanariya.md "wikilink") "W4M Peace & Be Wild Mix"
+5.  [immature](https://zh.wikipedia.org/wiki/appears "wikilink") "AM3:30
+    stylus Dub"
+6.  **[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
+    "NEUTRAL TRIGGER EDIT"**
+7.  **[kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
+    "engrave mix"**
+8.  [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink") "W4M
+    Peace & Be Wild Mix"
 9.  **[Fly high](../Page/Fly_high.md "wikilink") "I.M.Remix"**
 10. **[Fly high](../Page/Fly_high.md "wikilink") "Higher and higher
     mix"**

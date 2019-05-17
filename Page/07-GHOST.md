@@ -1,5 +1,5 @@
-《**07-GHOST**》是由[雨宮由樹和](../Page/雨宮由樹.md "wikilink")[市原雪乃創作的在](../Page/市原雪乃.md "wikilink")《[Comic
-ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品。原作漫画自2005年4月28日开始连载，结束于2013年8月28日。[電視動畫於](../Page/電視動畫.md "wikilink")2009年4月起於日本深夜播出。台灣在2011年5月起於[Animax播出](../Page/Animax.md "wikilink")。
+《**07-GHOST**》是由[雨宮由樹和](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")[市原雪乃創作的在](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")《[Comic
+ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品。原作漫画自2005年4月28日开始连载，结束于2013年8月28日。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月起於日本深夜播出。台灣在2011年5月起於[Animax播出](../Page/Animax.md "wikilink")。
 
 單行本於2013年9月出版全17卷，并且曾在06年12月及07年1月份推出过DRAMA。
 
@@ -140,7 +140,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 #### 巴爾斯布魯克教會（バルスブルグ教会）
 
   - 07-GHOST
-    詳細於『[07-GHOST](../Page/#07-GHOST.md "wikilink")』参照。
+    詳細於『[07-GHOST](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』参照。
   -
     巴爾斯布魯克教會的大主教副助。弗拉烏的師父，個性溫柔且穩重。
     實際上為帝國軍派遣進入教會的間諜，遭泰德與哈克連發現其黑魔法師身份，由弗拉烏化身的斬魂親手殺死。
@@ -230,7 +230,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     帝國陸軍大佐兼「黑鷹」成員，為「黑鷹」最年長的成員，性格溫和、冷靜，深思熟慮，忍耐力極高。十分關心阿亞納米。為了阿亞納米，甘願親手用劍割臉削嘴，改變容貌,
     到阿亞納米的敵人那裡當臥底超過十年。
     名字的由来是旧日本海軍軍艦「かつらぎ」。(葛城和桂木在日文裡同音)
-    真正身份詳細見『[消魂](../Page/#07-GHOST.md "wikilink")』。
+    真正身份詳細見『[消魂](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
 
 <!-- end list -->
 
@@ -306,7 +306,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 
   -
     即泰德‧克萊恩，是拉古斯國王的庶子，在3歲時被皇后貝爾涅砂烙下奴隸烙印，公式記録上3歳時已死亡。
-    詳細見『[泰德‧克萊恩](../Page/#主要人物.md "wikilink")』。
+    詳細見『[泰德‧克萊恩](https://zh.wikipedia.org/wiki/#主要人物 "wikilink")』。
 
 <!-- end list -->
 
@@ -390,7 +390,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 位於第一區的神之家，繼承醒魂的血脈。
 
   -
-    詳細於『[\#巴爾斯布魯克帝國(バルスブルグ帝国)](../Page/#巴爾斯布魯克帝國\(バルスブルグ帝国\).md "wikilink")』参照。
+    詳細於『[\#巴爾斯布魯克帝國(バルスブルグ帝国)](https://zh.wikipedia.org/wiki/#巴爾斯布魯克帝國\(バルスブルグ帝国\) "wikilink")』参照。
 
 #### 歐克家（オーク家）
 
@@ -399,24 +399,24 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 オーク音譯是歐克，意譯是橡樹。(橡樹是不少國家的國樹，也常見於軍事勛章上，象徵榮耀)
 
   - 蘭賽
-    [配音員](../Page/配音員.md "wikilink")：[遠近孝一](../Page/遠近孝一.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：[遠近孝一](https://zh.wikipedia.org/wiki/遠近孝一 "wikilink")
     歐克一族的孩子，小時侯因為目撃寶石設計師布蘭(ブラン)想用活人來製造黒珠石一事，被布蘭活生生變成黒珠石石像，死後成為了遺魂的容器。
-    詳細見『[蘭賽](../Page/#07-GHOST.md "wikilink")』。
+    詳細見『[蘭賽](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
 
 <!-- end list -->
 
   -
-    詳細見『[哈克連‧歐克](../Page/#主要人物.md "wikilink")』。
+    詳細見『[哈克連‧歐克](https://zh.wikipedia.org/wiki/#主要人物 "wikilink")』。
 
 <!-- end list -->
 
   -
-    詳細見『[瓦卡巴‧歐克](../Page/#帝國軍人.md "wikilink")』。
+    詳細見『[瓦卡巴‧歐克](https://zh.wikipedia.org/wiki/#帝國軍人 "wikilink")』。
 
 <!-- end list -->
 
   -
-    詳細見『[修里‧歐克](../Page/#帝國軍人.md "wikilink")』。
+    詳細見『[修里‧歐克](https://zh.wikipedia.org/wiki/#帝國軍人 "wikilink")』。
 
 #### 克拉圖家（クラート家）
 
@@ -424,15 +424,15 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 
   -
     即拉普拉多魯，為克拉圖家收養的孤兒。
-    深知好友莉琳(リリン)深受不治之症的折磨，為能除去她的痛苦以用自身的血以作[伊甸之花的苗床](../Page/#用語.md "wikilink")。雖然伊甸之花成功開花，但由於種植伊甸之花是禁忌，因此作為懲罰以被送到永久凍土之地，處冰封之刑。死後以作為預魂的容器活到現在。
-    詳細見『[拉普拉多魯](../Page/#07-GHOST.md "wikilink")』。
+    深知好友莉琳(リリン)深受不治之症的折磨，為能除去她的痛苦以用自身的血以作[伊甸之花的苗床](https://zh.wikipedia.org/wiki/#用語 "wikilink")。雖然伊甸之花成功開花，但由於種植伊甸之花是禁忌，因此作為懲罰以被送到永久凍土之地，處冰封之刑。死後以作為預魂的容器活到現在。
+    詳細見『[拉普拉多魯](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
 
 #### 拉古斯家（ラグス家）
 
 位於第五區的神之家，同時是保存米迦艾爾之眼的皇室家族，繼承契魂的血脈。
 
   -
-    詳細於『[\#拉古斯王国(ラグス王国)](../Page/#拉古斯王国\(ラグス王国\).md "wikilink")』参照。
+    詳細於『[\#拉古斯王国(ラグス王国)](https://zh.wikipedia.org/wiki/#拉古斯王国\(ラグス王国\) "wikilink")』参照。
 
 #### 豪森家（ハウゼン家）
 
@@ -444,7 +444,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     渴望自己製造的人偶能吸收自己所有的煩惱，然後想要談一場能夠改變人生的恋愛。後來於一次任務中遇上拉潔特，改変了辛爾。
     夢想是當個人偶師，拉潔特唱歌，自己操緃人偶，然後一起巡迴世界表演，兩人一起尋找拉潔特的故鄉
     後來為保護拉潔特，被父親誤殺，後來成為繫魂的「容器」，以卡斯托魯的身分擔任主教。
-    詳細見『[\#卡斯托魯](../Page/#07-GHOST.md "wikilink")』。
+    詳細見『[\#卡斯托魯](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
 
 <!-- end list -->
 
@@ -577,7 +577,7 @@ Zehel）」、「消魂（ランドカルテLandkarte）」及「醒魂（エア
 
 ### STAFF
 
-  - 原作：[雨宮由樹](../Page/雨宮由樹.md "wikilink")／[市原雪乃](../Page/市原雪乃.md "wikilink")
+  - 原作：[雨宮由樹](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")／[市原雪乃](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")
   - 監督：高本宣弘
   - 系列構成：高橋奈津子
   - 人物設定：藤井まき

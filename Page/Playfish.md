@@ -1,13 +1,13 @@
-**Playfish**是一个社交游戏公司，於2009年11月9日被[EA以](../Page/EA.md "wikilink")2.5億美元及2500股併購。Playfish的游戏集中发布于社交网站如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](../Page/MySpace.md "wikilink")、[Bebo以及](../Page/Bebo.md "wikilink")
-[iPhone](../Page/iPhone.md "wikilink")。公司的总部在[英国](../Page/英国.md "wikilink")[伦敦](../Page/伦敦.md "wikilink")，另外有分公司在[中国](../Page/中国.md "wikilink")[北京](../Page/北京.md "wikilink")、[美国](../Page/美国.md "wikilink")[三藩市和](../Page/三藩市.md "wikilink")[挪威](../Page/挪威.md "wikilink")[特罗姆瑟](../Page/特罗姆瑟.md "wikilink")。Playfish通常會先在Facebook發佈遊戲，之後才發佈到其他平台。現在所有遊戲都已結束營運。
+**Playfish**是一个社交游戏公司，於2009年11月9日被[EA以](https://zh.wikipedia.org/wiki/EA "wikilink")2.5億美元及2500股併購。Playfish的游戏集中发布于社交网站如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo以及](../Page/Bebo.md "wikilink")
+[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。公司的总部在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")，另外有分公司在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[美国](../Page/美国.md "wikilink")[三藩市和](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[挪威](../Page/挪威.md "wikilink")[特罗姆瑟](../Page/特罗姆瑟.md "wikilink")。Playfish通常會先在Facebook發佈遊戲，之後才發佈到其他平台。現在所有遊戲都已結束營運。
 
 ## 历史
 
 Playfish于2007年由Kristian Segerstrale、Sebastien de Halleux、Sami Lababidi 和
 Shukri Shammas成立。在2008年10月，Playfish成功获得170万美元的融资。
 
-2009年11月9日，美國知名電玩軟體大廠[藝電](../Page/美商藝電.md "wikilink")（Electronic Arts
-Inc.）宣布將以2.75億美金收購Playfish。
+2009年11月9日，美國知名電玩軟體大廠[藝電](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")（Electronic
+Arts Inc.）宣布將以2.75億美金收購Playfish。
 
 Playfish曾經在[Facebook爆紅](../Page/Facebook.md "wikilink")，與 另外一間遊戲公司Zynga
 爭奪Facebook遊戲鰲頭，最多曾有17款遊戲同時在線。例如俗稱「餐城」的《[Restaurant
@@ -15,59 +15,59 @@ City](../Page/Restaurant_City.md "wikilink")》於2009年推出，當紅時每�
 Social Games
 熱門遊戲榜單上，前5名內就有4個名次被Zynga抱走，但Playfish最高名次卻只有當時大力推介，排第13名的《[The
 Sims
-Social](../Page/The_Sims_Social.md "wikilink")》，此後20名內也不見第二款Playfish作品出現。\[1\]
+Social](https://zh.wikipedia.org/wiki/The_Sims_Social "wikilink")》，此後20名內也不見第二款Playfish作品出現。\[1\]
 
 結果，現在近乎所有遊戲（包括以前爆紅的遊戲）都因為經營困難及因應公司未來發展而結束營運。
 
 ## 推出的遊戲
 
   - 《[Madden NFL 13
-    Social](../Page/Madden_NFL_13_Social.md "wikilink")》（2012年10月開辦，已於2013年9月2日停運）
+    Social](https://zh.wikipedia.org/wiki/Madden_NFL_13_Social "wikilink")》（2012年10月開辦，已於2013年9月2日停運）
   - 《[The Sims
-    Social](../Page/The_Sims_Social.md "wikilink")》（2011年8月9日開辦，已於2013年6月14日結束營運）\[2\]
+    Social](https://zh.wikipedia.org/wiki/The_Sims_Social "wikilink")》（2011年8月9日開辦，已於2013年6月14日結束營運）\[2\]
   - 《[SimCity
-    Social](../Page/SimCity_Social.md "wikilink")》（2011年8月9日開辦，已於2013年6月14日結束營運）\[3\]
+    Social](https://zh.wikipedia.org/wiki/SimCity_Social "wikilink")》（2011年8月9日開辦，已於2013年6月14日結束營運）\[3\]
   - 《[Pet
-    Society](../Page/Pet_Society.md "wikilink")》（2008年8月8日開辦，已於2013年6月14日結束營運）\[4\]
+    Society](https://zh.wikipedia.org/wiki/Pet_Society "wikilink")》（2008年8月8日開辦，已於2013年6月14日結束營運）\[4\]
   - 《[NHL
-    Superstars](../Page/NHL_Superstars.md "wikilink")》（2011年10月5日開辦，已於2013年5月14日結束營運）
+    Superstars](https://zh.wikipedia.org/wiki/NHL_Superstars "wikilink")》（2011年10月5日開辦，已於2013年5月14日結束營運）
   - 《[RISK:
-    Factions](../Page/RISK:_Factions.md "wikilink")》（2012年1月11日開辦，已於2013年3月31日結束營運）
+    Factions](https://zh.wikipedia.org/wiki/RISK:_Factions "wikilink")》（2012年1月11日開辦，已於2013年3月31日結束營運）
   - 《[EA Sports FIFA
-    Superstars](../Page/EA_Sports_FIFA_Superstars.md "wikilink")》（2010年7月30日開辦，已於2013年3月31日結束營運）
+    Superstars](https://zh.wikipedia.org/wiki/EA_Sports_FIFA_Superstars "wikilink")》（2010年7月30日開辦，已於2013年3月31日結束營運）
   - 《[Madden NFL
-    Superstars](../Page/Madden_\(series\).md "wikilink")》（2010年8月31日開辦，已於2013年3月31日結束營運）
+    Superstars](https://zh.wikipedia.org/wiki/Madden_\(series\) "wikilink")》（2010年8月31日開辦，已於2013年3月31日結束營運）
   - 《[World Series
-    Superstar](../Page/World_Series_Superstar.md "wikilink")》（2011年3月30日開辦，已於2012年12月31日結束營運）
+    Superstar](https://zh.wikipedia.org/wiki/World_Series_Superstar "wikilink")》（2011年3月30日開辦，已於2012年12月31日結束營運）
   - 《[Monopoly
-    Millionaires](../Page/Monopoly_Millionaires.md "wikilink")》（2011年1月31日開辦，已於2012年8月17日結束營運）\[5\]
+    Millionaires](https://zh.wikipedia.org/wiki/Monopoly_Millionaires "wikilink")》（2011年1月31日開辦，已於2012年8月17日結束營運）\[5\]
   - 《[Restaurant
     City](../Page/Restaurant_City.md "wikilink")》（2009年4月28日開辦，已於2012年6月29日結束營運）\[6\]
   - 《[Hotel
     City](../Page/Hotel_City.md "wikilink")》（2010年10月26日開辦，已於2011年9月30日結束營運）\[7\]
   - 《[Country
-    Story](../Page/Country_Story.md "wikilink")》（2009年6月29日開辦，已於2011年12月1日結束營運）\[8\]
+    Story](https://zh.wikipedia.org/wiki/Country_Story "wikilink")》（2009年6月29日開辦，已於2011年12月1日結束營運）\[8\]
   - 《[Who Has The Biggest
-    Brain?](../Page/Who_Has_The_Biggest_Brain?.md "wikilink")》（2007年12月18日開辦，已於2011年9月30日結束營運）\[9\]
+    Brain?](https://zh.wikipedia.org/wiki/Who_Has_The_Biggest_Brain? "wikilink")》（2007年12月18日開辦，已於2011年9月30日結束營運）\[9\]
   - 《[Crazy
-    Planets](../Page/Crazy_Planets.md "wikilink")》（2009年7月1日開辦，已於2011年9月30日結束營運）\[10\]
+    Planets](https://zh.wikipedia.org/wiki/Crazy_Planets "wikilink")》（2009年7月1日開辦，已於2011年9月30日結束營運）\[10\]
   - 《[Poker
-    Rivals](../Page/Poker_Rivals.md "wikilink")》（2009年12月7日開辦，已於2011年9月30日結束營運）\[11\]
+    Rivals](https://zh.wikipedia.org/wiki/Poker_Rivals "wikilink")》（2009年12月7日開辦，已於2011年9月30日結束營運）\[11\]
   - 《[Word
-    Challenge](../Page/Word_Challenge.md "wikilink")》（2008年5月1日開辦，已於2011年9月30日結束營運）
+    Challenge](https://zh.wikipedia.org/wiki/Word_Challenge "wikilink")》（2008年5月1日開辦，已於2011年9月30日結束營運）
   - 《[Bowling
-    Buddies](../Page/Bowling_Buddies.md "wikilink")》（2008年5月8日開辦，已於2011年9月30日結束營運）
+    Buddies](https://zh.wikipedia.org/wiki/Bowling_Buddies "wikilink")》（2008年5月8日開辦，已於2011年9月30日結束營運）
   - 《[Geo
-    Challenge](../Page/Geo_Challenge.md "wikilink")》（2008年9月22日開辦，已於2011年9月30日結束營運）
+    Challenge](https://zh.wikipedia.org/wiki/Geo_Challenge "wikilink")》（2008年9月22日開辦，已於2011年9月30日結束營運）
   - 《[Gangster
-    City](../Page/Gangster_City.md "wikilink")》（2010年1月26日開辦，已於2011年7月7日結束營運）
+    City](https://zh.wikipedia.org/wiki/Gangster_City "wikilink")》（2010年1月26日開辦，已於2011年7月7日結束營運）
   - 《[My
-    Empire](../Page/My_Empire.md "wikilink")》（2010年1月1日開辦，已於2011年9月30日結束營運）
+    Empire](https://zh.wikipedia.org/wiki/My_Empire "wikilink")》（2010年1月1日開辦，已於2011年9月30日結束營運）
   - 《[Pirates
-    Ahoy\!](../Page/Pirates_Ahoy!.md "wikilink")》（2010年8月10日開辦，已於2011年7月7日結束營運）
-  - 《[Quiztastic\!](../Page/Quiztastic!.md "wikilink")》（2009年8月14日開辦，已於2010年3月4日結束營運）
+    Ahoy\!](https://zh.wikipedia.org/wiki/Pirates_Ahoy! "wikilink")》（2010年8月10日開辦，已於2011年7月7日結束營運）
+  - 《[Quiztastic\!](https://zh.wikipedia.org/wiki/Quiztastic! "wikilink")》（2009年8月14日開辦，已於2010年3月4日結束營運）
   - 《[Minigolf
-    Party](../Page/Minigolf_Party.md "wikilink")》（2009年1月27日開辦，已於2010年1月27日結束營運）
+    Party](https://zh.wikipedia.org/wiki/Minigolf_Party "wikilink")》（2009年1月27日開辦，已於2010年1月27日結束營運）
 
 ## 資料來源
 
@@ -109,7 +109,8 @@ Social](../Page/The_Sims_Social.md "wikilink")》，此後20名內也不見第�
 7.  ["Fastest growing Facebook games of the week:'Hotel City's
     recruitment
     drive"](http://www.independent.co.uk/life-style/gadgets-and-tech/fastest-growing-facebook-games-of-the-weekhotel-citys-recruitment-drive-1934689.html)
-    from 《[The Independent](../Page/The_Independent.md "wikilink")》《
+    from 《[The
+    Independent](https://zh.wikipedia.org/wiki/The_Independent "wikilink")》《
 8.  ["Country story is going offline after 2.5
     years"](http://forum.playfish.com/showthread.php?p=1016251634)
 9.  ["Playfish taking down six old

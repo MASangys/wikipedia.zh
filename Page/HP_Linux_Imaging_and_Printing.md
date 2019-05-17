@@ -1,14 +1,14 @@
 **HPLIP** (**HP** **L**inux **I**maging and
-**P**rinting)是一個[惠普公司發起和領導的項目](../Page/惠普公司.md "wikilink")，其目標是讓Linux系統，能夠完成支持惠普的噴墨打印機和激光打印機的打印，掃描和傳真功能。它所提供的驅動程序，共支持1980部HP打印機型號。\[1\]
+**P**rinting)是一個[惠普公司發起和領導的項目](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，其目標是讓Linux系統，能夠完成支持惠普的噴墨打印機和激光打印機的打印，掃描和傳真功能。它所提供的驅動程序，共支持1980部HP打印機型號。\[1\]
 
-[HPOJ](../Page/HPOJ.md "wikilink")（HP
+[HPOJ](https://zh.wikipedia.org/wiki/HPOJ "wikilink")（HP
 OfficeJet）是一個軟件用來在Linux操作系統下連行惠普的打印機。在2006年3月13日，該項目已經停止並以HPLIP來取代。
 
 ## 工具
 
   - 自動安裝，安裝後支援多種不同的Linux發行版([SUSE
-    Linux](../Page/SUSE_Linux.md "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu及](../Page/Ubuntu.md "wikilink")[Debian](../Page/Debian.md "wikilink"))
-  - 包括一个[QT图形界面工具](../Page/QT.md "wikilink")，可以用来执行打印、扫描、传真等任务，还可以管理设备配置。
+    Linux](https://zh.wikipedia.org/wiki/SUSE_Linux "wikilink")、[Fedora](../Page/Fedora.md "wikilink")、[Ubuntu及](../Page/Ubuntu.md "wikilink")[Debian](../Page/Debian.md "wikilink"))
+  - 包括一个[QT图形界面工具](https://zh.wikipedia.org/wiki/QT "wikilink")，可以用来执行打印、扫描、传真等任务，还可以管理设备配置。
   - 包含一些命令行工具来添加或配置设备，亦可进行扫描和打印。
 
 ## 支援

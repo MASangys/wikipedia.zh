@@ -20,38 +20,48 @@ Phillips承認，最初確實沒有安排這麼多場，但因歌迷反應熱烈
 
 1.  Light Man (序幕)
 2.  [Wanna Be
-    Starin'Somethin](../Page/Wanna_Be_Starin'Somethin.md "wikilink")
-3.  [Jam](../Page/Jam.md "wikilink")
+    Starin'Somethin](https://zh.wikipedia.org/wiki/Wanna_Be_Starin'Somethin "wikilink")
+3.  [Jam](https://zh.wikipedia.org/wiki/Jam "wikilink")
 4.  Drill (插曲)
 5.  [They Don't Care About
     Us](../Page/They_Don't_Care_About_Us.md "wikilink")
-6.  [Human Nature](../Page/Human_Nature.md "wikilink")
-7.  [Stranger In Moscow](../Page/Stranger_In_Moscow.md "wikilink")
+6.  [Human
+    Nature](https://zh.wikipedia.org/wiki/Human_Nature "wikilink")
+7.  [Stranger In
+    Moscow](https://zh.wikipedia.org/wiki/Stranger_In_Moscow "wikilink")
 8.  [Smooth Criminal](../Page/Smooth_Criminal.md "wikilink")
 9.  [The Way You Make Me
     Feel](../Page/The_Way_You_Make_Me_Feel.md "wikilink") / [You Rock My
-    World](../Page/You_Rock_My_World.md "wikilink")
+    World](https://zh.wikipedia.org/wiki/You_Rock_My_World "wikilink")
 10. Jackson 5
-    1.  [I Want you Back](../Page/I_Want_you_Back.md "wikilink")
-    2.  [The Love You Save](../Page/The_Love_You_Save.md "wikilink")
+    1.  [I Want you
+        Back](https://zh.wikipedia.org/wiki/I_Want_you_Back "wikilink")
+    2.  [The Love You
+        Save](https://zh.wikipedia.org/wiki/The_Love_You_Save "wikilink")
     3.  [I'll Be There](../Page/I'll_Be_There.md "wikilink")
-    4.  [Shake Your Body](../Page/Shake_Your_Body.md "wikilink")
-11. [Rock With You](../Page/Rock_With_You.md "wikilink") & [Don't Stop
-    Till You Get
-    Enough](../Page/Don't_Stop_Till_You_Get_Enough.md "wikilink")
+    4.  [Shake Your
+        Body](https://zh.wikipedia.org/wiki/Shake_Your_Body "wikilink")
+11. [Rock With
+    You](https://zh.wikipedia.org/wiki/Rock_With_You "wikilink") &
+    [Don't Stop Till You Get
+    Enough](https://zh.wikipedia.org/wiki/Don't_Stop_Till_You_Get_Enough "wikilink")
 12. [I Just Can't Stop Loving
-    You](../Page/I_Just_Can't_Stop_Loving_You.md "wikilink")
-13. [Dangerous](../Page/Dangerous.md "wikilink")
+    You](https://zh.wikipedia.org/wiki/I_Just_Can't_Stop_Loving_You "wikilink")
+13. [Dangerous](https://zh.wikipedia.org/wiki/Dangerous "wikilink")
 14. [Dirty Diana](../Page/Dirty_Diana.md "wikilink")
 15. [Beat It](../Page/Beat_It.md "wikilink")
-16. [Thriller](../Page/Thriller.md "wikilink")
+16. [Thriller](https://zh.wikipedia.org/wiki/Thriller "wikilink")
 17. [Earth Song](../Page/Earth_Song.md "wikilink")
-18. [We Are The World](../Page/We_Are_The_World.md "wikilink")
-19. [Heal The World](../Page/Heal_The_World.md "wikilink")
+18. [We Are The
+    World](https://zh.wikipedia.org/wiki/We_Are_The_World "wikilink")
+19. [Heal The
+    World](https://zh.wikipedia.org/wiki/Heal_The_World "wikilink")
 20. [You Are Not Alone](../Page/You_Are_Not_Alone.md "wikilink")
-21. [Billie Jean](../Page/Billie_Jean.md "wikilink")
-22. [Will You Be There](../Page/Will_You_Be_There.md "wikilink")
-23. [Man In The Mirror](../Page/Man_In_The_Mirror.md "wikilink")
+21. [Billie Jean](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")
+22. [Will You Be
+    There](https://zh.wikipedia.org/wiki/Will_You_Be_There "wikilink")
+23. [Man In The
+    Mirror](https://zh.wikipedia.org/wiki/Man_In_The_Mirror "wikilink")
 24. MJ Air (結尾)
 
 ## 原定日期
@@ -132,16 +142,17 @@ Live官方宣佈取消本演唱會，已購票者可選擇退票或保留由米�
 
 ## 人事
 
-  - 總監：[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[肯尼·奥尔特加](../Page/肯尼·奥尔特加.md "wikilink")
+  - 總監：[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[肯尼·奥尔特加](https://zh.wikipedia.org/wiki/肯尼·奥尔特加 "wikilink")
   - 音樂監制：米高拜亞頓
-  - 舞蹈指導：[達維斯派尼](../Page/達維斯派尼.md "wikilink")
+  - 舞蹈指導：[達維斯派尼](https://zh.wikipedia.org/wiki/達維斯派尼 "wikilink")
   - 助理舞蹈指導：史迪西獲加, 東尼泰斯達
-  - MJ的跳舞教練：[大衛艾斯韋亞](../Page/大衛艾斯韋亞.md "wikilink") \[4\]
+  - MJ的跳舞教練：[大衛艾斯韋亞](https://zh.wikipedia.org/wiki/大衛艾斯韋亞 "wikilink")
+    \[4\]
   - 其他出品人：阿里夫辛奇
   - 出品設計師：米高葛頓、米高居里
   - 燈光設計：柏德力禾杜菲
   - 卡士監制：格力史密夫
-  - 宣傳：[AEG Live](../Page/AEG_Live.md "wikilink")
+  - 宣傳：[AEG Live](https://zh.wikipedia.org/wiki/AEG_Live "wikilink")
 
 ## 參考
 

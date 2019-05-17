@@ -1,8 +1,8 @@
-**MetaPost**是一个[程序语言和它的](../Page/程序语言.md "wikilink")[编译器的名字](../Page/编译器.md "wikilink")，衍生于[高德纳的](../Page/高德纳.md "wikilink")[Metafont](../Page/Metafont.md "wikilink")。MetaPost擅长通过数学描述制作矢量图，生成的图片为[PostScript格式](../Page/PostScript.md "wikilink")。它的语法来自[Metafont](../Page/Metafont.md "wikilink")。
+**MetaPost**是一个[程序语言和它的](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[编译器的名字](https://zh.wikipedia.org/wiki/编译器 "wikilink")，衍生于[高德纳的](../Page/高德纳.md "wikilink")[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。MetaPost擅长通过数学描述制作矢量图，生成的图片为[PostScript格式](../Page/PostScript.md "wikilink")。它的语法来自[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。
 
 ## 实例
 
-这个文件`example.mp`通过MetaPost的编译器编译（在[Linux系统中使用](../Page/Linux.md "wikilink")`mpost`命令）之后产生了3个[EPS文件](../Page/EPS文件.md "wikilink")：
+这个文件`example.mp`通过MetaPost的编译器编译（在[Linux系统中使用](../Page/Linux.md "wikilink")`mpost`命令）之后产生了3个[EPS文件](https://zh.wikipedia.org/wiki/EPS文件 "wikilink")：
 `example.1`, `example.2`, `example.3`。这三个文件就是右边的三张图
 [Metapost_ex.svg](https://zh.wikipedia.org/wiki/File:Metapost_ex.svg "fig:Metapost_ex.svg")
 
@@ -60,27 +60,29 @@
  bye
 ```
 
-产生的3个eps文件可以直接用在[TeX中](../Page/TeX.md "wikilink")（通过[LaTeX的](../Page/LaTeX.md "wikilink")`\includegraphics`命令、[ConTeXt的](../Page/ConTeXt.md "wikilink")`\externalfigure`命令、Plain
+产生的3个eps文件可以直接用在[TeX中](../Page/TeX.md "wikilink")（通过[LaTeX的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")`\includegraphics`命令、[ConTeXt的](https://zh.wikipedia.org/wiki/ConTeXt "wikilink")`\externalfigure`命令、Plain
 TeX的`\epsfbox`命令，或者Plain
-pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印这三张图片，这些引用是必须的，因为TeX的字体([Metafont](../Page/Metafont.md "wikilink"))并不包含在MetaPost产生的eps文件中。
+pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印这三张图片，这些引用是必须的，因为TeX的字体([Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink"))并不包含在MetaPost产生的eps文件中。
 
 ## 参见
 
-  - [PGF/TikZ](../Page/PGF/TikZ.md "wikilink")
+  - [PGF/TikZ](https://zh.wikipedia.org/wiki/PGF/TikZ "wikilink")
 
 ## 参考
 
   - MetaFun (modules for Metapost) by Hans Hagen,
     [1](http://wiki.contextgarden.net/MetaFun)
-  - [Donald Knuth](../Page/Donald_Knuth.md "wikilink"): *The
+  - [Donald
+    Knuth](https://zh.wikipedia.org/wiki/Donald_Knuth "wikilink"): *The
     [METAFONTbook](../Page/METAFONT.md "wikilink")*, ([Computers and
-    Typesetting](../Page/Computers_and_Typesetting.md "wikilink") Volume
-    C) [Addison-Wesley](../Page/Addison-Wesley.md "wikilink") 1986. ISBN
-    0-201-13444-6
+    Typesetting](https://zh.wikipedia.org/wiki/Computers_and_Typesetting "wikilink")
+    Volume C)
+    [Addison-Wesley](https://zh.wikipedia.org/wiki/Addison-Wesley "wikilink")
+    1986. ISBN 0-201-13444-6
   - Comprehensive T<sub>E</sub>X Archive Network
-    ([CTAN](../Page/CTAN.md "wikilink")): <http://www.ctan.org/>.
-    Repository of the T<sub>E</sub>X source and hundreds of add-ons and
-    style files.
+    ([CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink")):
+    <http://www.ctan.org/>. Repository of the T<sub>E</sub>X source and
+    hundreds of add-ons and style files.
   - (La)TeX Navigator provides 305 simple MetaPost examples:
     <http://tex.loria.fr/prod-graph/zoonekynd/metapost/metapost.html>
   - Taco Hoekwater: [MetaPost
@@ -89,14 +91,15 @@ pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印�
 
 ## 外部链接
 
-  - The TeX users group ([TUG](../Page/TeX_Users_Group.md "wikilink"))
+  - The TeX users group
+    ([TUG](https://zh.wikipedia.org/wiki/TeX_Users_Group "wikilink"))
     <http://www.tug.org/> has a page devoted to MetaPost:
     <http://www.tug.org/metapost.html>
   - Active development of MetaPost continues at
     <https://web.archive.org/web/20070929092912/http://foundry.supelec.fr/projects/metapost/>
   - [Functional MetaPost](http://cryp.to/funcmp/) allows MetaPost to be
     used from the functional programming language
-    [Haskell](../Page/Haskell_\(programming_language\).md "wikilink")
+    [Haskell](https://zh.wikipedia.org/wiki/Haskell_\(programming_language\) "wikilink")
   - John D. Hobby has a homepage at
     <http://ect.bell-labs.com/who/hobby/index.shtml> and some other
     pages and publications devoted to MetaPost, though these are now a
@@ -109,7 +112,7 @@ pdftex中来自`supp-pdf.tex`的`\convertMPtoPDF`命令。为了看或者打印�
         site](https://web.archive.org/web/20051217231314/http://cm.bell-labs.com/cm/cs/doc/92/2-21.ps.gz).
         Also available in [PDF
         format](http://www.tug.org/tutorials/mp/mpman.pdf) from
-        [CTAN](../Page/CTAN.md "wikilink").
+        [CTAN](https://zh.wikipedia.org/wiki/CTAN "wikilink").
 
 [Category:领域特定语言](https://zh.wikipedia.org/wiki/Category:领域特定语言 "wikilink")
 [Category:矢量图形置标语言](https://zh.wikipedia.org/wiki/Category:矢量图形置标语言 "wikilink")

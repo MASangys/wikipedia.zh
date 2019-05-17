@@ -2,14 +2,15 @@
 2008\]\]
 
 **Google Search Appliance**
-是由[Google公司出品的一種机架式设备](../Page/Google公司.md "wikilink")，該設備提供[文件索引功能](../Page/文件.md "wikilink")，可以集成到企业内部，文件管理系统或网站上使用類似[谷歌搜索的界面提供給](../Page/谷歌.md "wikilink")[終端用户检索](../Page/終端.md "wikilink")。它是局域網本地版的谷歌產品，并且主要着眼于企业市场。
+是由[Google公司出品的一種机架式设备](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，該設備提供[文件索引功能](https://zh.wikipedia.org/wiki/文件 "wikilink")，可以集成到企业内部，文件管理系统或网站上使用類似[谷歌搜索的界面提供給](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[終端用户检索](../Page/終端.md "wikilink")。它是局域網本地版的谷歌產品，并且主要着眼于企业市场。
 
 该器件提供了多種型號的產品，包括从入门级的设备能够索引到300,000个文档，充分机架的设备。 支持和软件更新。
 
 ## 功能
 
-該產品载有谷歌的[搜索技术](../Page/搜索技术.md "wikilink")，Google Search
-Appliance同樣包含了一些手段，配置和定制设备;从文件索引到的格式结果[网页](../Page/网页.md "wikilink")。\[1\]
+該產品载有谷歌的[搜索技术](https://zh.wikipedia.org/wiki/搜索技术 "wikilink")，Google
+Search
+Appliance同樣包含了一些手段，配置和定制设备;从文件索引到的格式结果[网页](https://zh.wikipedia.org/wiki/网页 "wikilink")。\[1\]
 
 结果页可自定义。 默认情况下，谷歌Search Appliance不会生成XHTML 。
 

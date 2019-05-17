@@ -1,7 +1,7 @@
 ***XEvil*** 為橫向捲軸動作遊戲，由Steve
-Hardt在[麻省理工學院開發](../Page/麻省理工學院.md "wikilink")，屬於[自由軟體](../Page/自由軟體.md "wikilink")。遊戲模式以free-for-all對戰為主，玩家互相對抗，或是對抗電腦。\[1\]本遊戲被評為"有史以來最生動暴力的電腦遊戲之一"，其暴力成份引發了不少爭議。\[2\]
+Hardt在[麻省理工學院開發](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")，屬於[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。遊戲模式以free-for-all對戰為主，玩家互相對抗，或是對抗電腦。\[1\]本遊戲被評為"有史以來最生動暴力的電腦遊戲之一"，其暴力成份引發了不少爭議。\[2\]
 
-本遊戲首建於[1994年](../Page/1994_in_video_gaming.md "wikilink")，現已存在多種不同平台的版本可供下載。The
+本遊戲首建於[1994年](https://zh.wikipedia.org/wiki/1994_in_video_gaming "wikilink")，現已存在多種不同平台的版本可供下載。The
 game is available for anyone, and leaves a large pool of characters to
 pick from. 如同多數的線上遊戲，其故事線並不完整，而就其屬的類別來說，其實也非必要。The game has been
 reviewed and被認為是暴力且具成癮性，本質上卻極為簡單。
@@ -9,13 +9,13 @@ reviewed and被認為是暴力且具成癮性，本質上卻極為簡單。
 ## 玩法
 
 *XEvil*
-為第三人稱[二维](../Page/二维.md "wikilink")[橫向捲軸](../Page/卷轴射击游戏.md "wikilink")[遊戲](../Page/電腦遊戲.md "wikilink")。随机生成关卡，玩家也用随机角色攻击敌人但是也可以通过梯子以及电梯过关。\[3\]作为[自由软件](../Page/自由软件.md "wikilink")，能在世界各地各種不同的作業系統上進行遊戲。遊戲中還包含了"Kill-Kill-Kill"-模式，這個選項會讓遊戲變得更加困難。\[4\]遊戲的唯一目標是生存，可以單人或多人模式進行。\[5\]
+為第三人稱[二维](https://zh.wikipedia.org/wiki/二维 "wikilink")[橫向捲軸](https://zh.wikipedia.org/wiki/卷轴射击游戏 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。随机生成关卡，玩家也用随机角色攻击敌人但是也可以通过梯子以及电梯过关。\[3\]作为[自由软件](../Page/自由软件.md "wikilink")，能在世界各地各種不同的作業系統上進行遊戲。遊戲中還包含了"Kill-Kill-Kill"-模式，這個選項會讓遊戲變得更加困難。\[4\]遊戲的唯一目標是生存，可以單人或多人模式進行。\[5\]
 
 ## 主线
 
 ### 故事
 
-*XEvil*背後的故事是，你是死後的靈魂，正被送往[地獄](../Page/地獄.md "wikilink")。。。為了決定你在地獄中的位階，你必須在[死亡對戰中競爭](../Page/死亡對戰.md "wikilink")，来决定你的地位。
+*XEvil*背後的故事是，你是死後的靈魂，正被送往[地獄](../Page/地獄.md "wikilink")。。。為了決定你在地獄中的位階，你必須在[死亡對戰中競爭](https://zh.wikipedia.org/wiki/死亡對戰 "wikilink")，来决定你的地位。
 
 ### 角色
 
@@ -34,7 +34,7 @@ orgys, you may like XEvil."\[9\]
 
 ## 其他
 
-[重要开源游戏列表](../Page/重要开源游戏列表.md "wikilink")
+[重要开源游戏列表](https://zh.wikipedia.org/wiki/重要开源游戏列表 "wikilink")
 
 ## 外部链接
 

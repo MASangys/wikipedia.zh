@@ -30,7 +30,7 @@
 </tbody>
 </table>
 
-**KV3**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，原本是用來埋葬[第二十王朝](../Page/第二十王朝.md "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯三世其中一個兒子](../Page/拉美西斯三世.md "wikilink")，設計與[王后谷裏另一個兒子的墓穴相似](../Page/王后谷.md "wikilink")。然而，並沒有證據顯示KV3是王室墓穴。磚塊及圓柱的殘留物顯示此墓穴曾於[拜占庭時期用作](../Page/拜占庭.md "wikilink")[基督教的禮拜堂](../Page/基督教.md "wikilink")。
+**KV3**位於[埃及](../Page/埃及.md "wikilink")[帝王谷](../Page/帝王谷.md "wikilink")，原本是用來埋葬[第二十王朝](https://zh.wikipedia.org/wiki/第二十王朝 "wikilink")[法老](../Page/法老.md "wikilink")[拉美西斯三世其中一個兒子](../Page/拉美西斯三世.md "wikilink")，設計與[王后谷裏另一個兒子的墓穴相似](../Page/王后谷.md "wikilink")。然而，並沒有證據顯示KV3是王室墓穴。磚塊及圓柱的殘留物顯示此墓穴曾於[拜占庭時期用作](../Page/拜占庭.md "wikilink")[基督教的禮拜堂](../Page/基督教.md "wikilink")。
 
 KV3位於帝王谷的主道上，接近帝王谷的入口。
 

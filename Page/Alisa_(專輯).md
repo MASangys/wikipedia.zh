@@ -1,12 +1,13 @@
-《**Alisa**》是台灣歌手[高以愛的第一張國語專輯](../Page/高以愛.md "wikilink")，專輯名稱「Alisa」是以高以愛的英文原名，首批限量版是容合了[CD及](../Page/CD.md "wikilink")[VCD格式的](../Page/VCD.md "wikilink")[AVCD](../Page/AVCD.md "wikilink")(AUDIO
+《**Alisa**》是台灣歌手[高以愛的第一張國語專輯](../Page/高以愛.md "wikilink")，專輯名稱「Alisa」是以高以愛的英文原名，首批限量版是容合了[CD及](../Page/CD.md "wikilink")[VCD格式的](../Page/VCD.md "wikilink")[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")(AUDIO
 VIDEO COMPACT DISC)的光碟。
 
 ## 曲目
 
-在專輯中，除第四首《出乎意料》與[潘瑋柏的對唱曲](../Page/潘瑋柏.md "wikilink")，其餘收錄三首翻唱歌曲有：
+在專輯中，除第四首《出乎意料》與[潘瑋柏的對唱曲](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")，其餘收錄三首翻唱歌曲有：
 
   - 第二首《我不是壞女孩》原曲是《Bad Girls》，原唱者是Donna Summer。
-  - 第五首《Hound Dog》+《All Shook Up》原唱者是[貓王](../Page/貓王.md "wikilink")。
+  - 第五首《Hound Dog》+《All Shook
+    Up》原唱者是[貓王](https://zh.wikipedia.org/wiki/貓王 "wikilink")。
   - 第十首《Times of Your Life》原唱者是Paul Anka。
 
 <div class="NavContent" align="life">

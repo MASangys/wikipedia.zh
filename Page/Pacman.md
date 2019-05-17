@@ -1,13 +1,13 @@
-**Pacman**是一個[軟件包管理器](../Page/軟件包管理器.md "wikilink")，作為[Arch
-Linux發行版的一部分](../Page/Arch_Linux.md "wikilink")。它最早由Arch
-Linux的[Judd
-Vinet開發](../Page/Judd_Vinet.md "wikilink")。Pacman可以解決安裝過程中的依賴問題，自動下載并且安裝所有需要的軟件包。
+**Pacman**是一個[軟件包管理器](https://zh.wikipedia.org/wiki/軟件包管理器 "wikilink")，作為[Arch
+Linux發行版的一部分](../Page/Arch_Linux.md "wikilink")。它最早由Arch Linux的[Judd
+Vinet開發](https://zh.wikipedia.org/wiki/Judd_Vinet "wikilink")。Pacman可以解決安裝過程中的依賴問題，自動下載并且安裝所有需要的軟件包。
 
-Pacman也被移植到[Windows](../Page/Windows.md "wikilink")，作为基础系统的一部分随[MSYS2分发](../Page/MSYS2.md "wikilink")。
+Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，作为基础系统的一部分随[MSYS2分发](https://zh.wikipedia.org/wiki/MSYS2 "wikilink")。
 
 ## 圖形前端
 
-現在已經有很多可用的pacman [GUI圖形前端](../Page/GUI.md "wikilink")。
+現在已經有很多可用的pacman
+[GUI圖形前端](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 
 ### Qt/KDE界面
 
@@ -20,7 +20,7 @@ Pacman也被移植到[Windows](../Page/Windows.md "wikilink")，作为基础系�
 
 ### GTK/GNOME界面
 
-  - **gtkpacman:**采用Py[GTK2開發的pacman圖形前端](../Page/GTK+.md "wikilink")。
+  - **gtkpacman:**采用Py[GTK2開發的pacman圖形前端](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。
   - **alunn:**顯示新的更新和消息的系統提示。
   - **guzuta:**另一個 采用PyGTK開發的前端。
   - **pacmon-svn:**提示可用更新的任務欄部件。
@@ -56,7 +56,7 @@ Pacman也被移植到[Windows](../Page/Windows.md "wikilink")，作为基础系�
 
 ## 参见
 
-  - [高级包装工具](../Page/高级包装工具.md "wikilink")
+  - [高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")
   - [Yum](../Page/Yellowdog_Updater,_Modified.md "wikilink")
   - [ZYpp](../Page/ZYpp.md "wikilink")
 
@@ -64,8 +64,10 @@ Pacman也被移植到[Windows](../Page/Windows.md "wikilink")，作为基础系�
 
   - [Pacman homepage](http://www.archlinux.org/pacman/)
   - Arch
-    Linux的[维基站中的](../Page/维基.md "wikilink")[Pacman](http://wiki.archlinux.org/index.php/Pacman)
-  - Arch Linux的[维基站中的](../Page/维基.md "wikilink")[Pacman GUI
+    Linux的[维基站中的](https://zh.wikipedia.org/wiki/维基 "wikilink")[Pacman](http://wiki.archlinux.org/index.php/Pacman)
+  - Arch
+    Linux的[维基站中的](https://zh.wikipedia.org/wiki/维基 "wikilink")[Pacman
+    GUI
     Frontends](http://wiki.archlinux.org/index.php/Pacman_GUI_Frontends)
   - [DistroWatch Interview: Judd Vinet talks about Arch Linux and Pacman
     in 2003](http://distrowatch.com/dwres.php?resource=interview-arch)\<\!--

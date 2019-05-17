@@ -1,10 +1,10 @@
 **Rhapsody**是蘋果公司1996年的[NeXT以及](../Page/NeXT.md "wikilink")1998年的[Mac OS
-X之間的操作系統的代號](../Page/Mac_OS_X.md "wikilink")。
+X之間的操作系統的代號](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 歷史
 
-Rhapsody首次發佈是在1997年的[WWDC中](../Page/WWDC.md "wikilink")。完整版的釋放是在1998年的春季。在1998年的[MacWorld
-Expo](../Page/MacWorld_Expo.md "wikilink"),[史蒂夫·喬布斯宣布Rhapsody將釋放](../Page/史蒂夫·喬布斯.md "wikilink")[Mac
+Rhapsody首次發佈是在1997年的[WWDC中](https://zh.wikipedia.org/wiki/WWDC "wikilink")。完整版的釋放是在1998年的春季。在1998年的[MacWorld
+Expo](https://zh.wikipedia.org/wiki/MacWorld_Expo "wikilink"),[史蒂夫·喬布斯宣布Rhapsody將釋放](https://zh.wikipedia.org/wiki/史蒂夫·喬布斯 "wikilink")[Mac
 OS X Server
 1.0](../Page/Mac_OS_X_Server_1.0.md "wikilink")。沒有家用版的Rhapsody曾發佈。
 

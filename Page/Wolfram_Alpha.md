@@ -1,20 +1,21 @@
 ****（也写作“**Wolfram|Alpha**”，缩写 **W|A**），是由 [Wolfram
-Research](../Page/Wolfram_Research.md "wikilink")
-公司推出的一款在线自动[问答系统](../Page/问答系统.md "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎一样提供一系列可能含有用户所需答案的相关网页](../Page/搜索引擎.md "wikilink")\[1\]。
+Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
+公司推出的一款在线自动[问答系统](https://zh.wikipedia.org/wiki/问答系统 "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎一样提供一系列可能含有用户所需答案的相关网页](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")\[1\]。
 
 Wolfram Alpha 于 2009 年 5 月 18 日正式发布\[2\]，它是基于 Wolfram 早期旗舰产品
-[Mathematica](../Page/Mathematica.md "wikilink")，一款囊括了计算机代数、符号和数值计算、可视化和统计功能的计算平台和工具包开发的。其数据来源包括学术网站和出版物、商业网站和公司、科学机构等等，例如[中央情报局出版物](../Page/中央情报局.md "wikilink")《[世界概况](../Page/世界概况.md "wikilink")》、[康奈尔大学图书馆出版物](../Page/康奈尔大学.md "wikilink")《All
+[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")，一款囊括了计算机代数、符号和数值计算、可视化和统计功能的计算平台和工具包开发的。其数据来源包括学术网站和出版物、商业网站和公司、科学机构等等，例如[中央情报局出版物](../Page/中央情报局.md "wikilink")《[世界概况](../Page/世界概况.md "wikilink")》、[康奈尔大学图书馆出版物](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")《All
 About Birds》、《Chambers Biographical
 Dictionary》、[道琼斯公司](../Page/道琼斯公司.md "wikilink")、[Catalogue
 of Life](http://www.catalogueoflife.org/)、
 [CrunchBase](../Page/CrunchBase.md "wikilink")、[百思买](../Page/百思买.md "wikilink")
-、[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")、[美国地质调查局等](../Page/美国地质调查局.md "wikilink")\[3\]\[4\]\[5\]
+、[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")、[美国地质调查局等](https://zh.wikipedia.org/wiki/美国地质调查局 "wikilink")\[3\]\[4\]\[5\]
 。
 
 ## 历史
 
-2009 年 3 月，[Wolfram Research](../Page/Wolfram_Research.md "wikilink")
-公司的总裁[斯蒂芬·沃尔夫勒姆撰文透露](../Page/斯蒂芬·沃尔夫勒姆.md "wikilink")，他本人正着手开发一款新型互联网引擎，按照既定计划，这款名为
+2009 年 3 月，[Wolfram
+Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
+公司的总裁[斯蒂芬·沃尔夫勒姆撰文透露](https://zh.wikipedia.org/wiki/斯蒂芬·沃尔夫勒姆 "wikilink")，他本人正着手开发一款新型互联网引擎，按照既定计划，这款名为
 Wolfram Alpha 的新型计算引擎将于 2009 年 5 月上线。4 月 28 日，Wolfram Alpha 开通博客。
 
 Wolfram Alpha 于[美国中部时间](../Page/北美中部时区.md "wikilink") 2009 年 5 月 15 日 7
@@ -22,9 +23,10 @@ Wolfram Alpha 于[美国中部时间](../Page/北美中部时区.md "wikilink") 
 现场直播。原先计划几个小时之后在网上向公众发布该产品服务，因为巨大的访问量，所以延迟发布。最后，产品在
 2009 年 5 月 18 日正式推出\[6\]。
 
-2009 年 12 月 3 日，Wolfram Alpha 推出了 [iPhone](../Page/iPhone.md "wikilink")
-版应用。2010 年 10 月 6 日，Wolfram Alpha 发布了
-[Android](../Page/Android.md "wikilink") 版应用\[7\] 。
+2009 年 12 月 3 日，Wolfram Alpha 推出了
+[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink") 版应用。2010 年 10
+月 6 日，Wolfram Alpha 发布了 [Android](../Page/Android.md "wikilink")
+版应用\[7\] 。
 
 2012 年 2 月 8 日，Wolfram Alpha Pro 正式发布\[8\]。
 
@@ -39,16 +41,17 @@ Phone](../Page/Windows_Phone.md "wikilink") 版应用\[9\]。
 用户可以在一个文本框中提交查询命令和计算要求。Wolfram Alpha
 根据内置的由精选结构数据组成的知识库计算并提供答案，并返回相关的可视化图形。Wolfram
 Alpha
-与普遍意义上的[语义检索不同](../Page/语义检索.md "wikilink")，传统的语义检索对各种答案添加索引，并尝试将问题与可能的答案匹配。
+与普遍意义上的[语义检索不同](https://zh.wikipedia.org/wiki/语义检索 "wikilink")，传统的语义检索对各种答案添加索引，并尝试将问题与可能的答案匹配。
 
 Wolfram Alpha 是基于 Wolfram 的另一个旗舰产品
-[Mathematica](../Page/Mathematica.md "wikilink") 开发的，Wolfram Alpha
-的底层运算和数据处理工作就是通过在后台运行的
-[Mathematica](../Page/Mathematica.md "wikilink")
-实现的。因为[Mathematica](../Page/Mathematica.md "wikilink")
+[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
+开发的，Wolfram Alpha 的底层运算和数据处理工作就是通过在后台运行的
+[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
+实现的。因为[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")
 支持几何、数值以及符号式计算，并且具有强大的数学以及科技图形图像的可视化功能，所以 Wolfram Alpha
 能够回答多种多样的数学问题，并将答案以清晰美观的图形化方式显示给用户。另外，在返回给用户答案的过程中，Wolfram
-Alpha 也集成了 [Wolfram Research](../Page/Wolfram_Research.md "wikilink")
+Alpha 也集成了 [Wolfram
+Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
 另一个重要产品 webMathematica\[11\] 的某些功能，以便能够更好地完成任务。
 
 ## 技术
@@ -61,12 +64,12 @@ Wolfram Alpha 第一版是用约一千五百万行的 Mathematica 代码编写�
 Wolfram Alpha
 还为商务合作伙伴提供了一个[应用程序接口](../Page/应用程序接口.md "wikilink")（API）\[14\]
 。 通过此项付费服务\[15\]，Wolfram Alpha
-能够发挥其优越的计算功能，为其它应用程序递交计算结果。其中一个典型的应用是微软公司的[必应搜索引擎](../Page/必应.md "wikilink")\[16\]。
+能够发挥其优越的计算功能，为其它应用程序递交计算结果。其中一个典型的应用是微软公司的[必应搜索引擎](https://zh.wikipedia.org/wiki/必应 "wikilink")\[16\]。
 
 ## 功能
 
 Wolfram Alpha
-可以完成[数学](../Page/数学.md "wikilink")、[统计学](../Page/统计学.md "wikilink")、[计算机科学](../Page/计算机科学.md "wikilink")、[物理](../Page/物理.md "wikilink")、[化学](../Page/化学.md "wikilink")、[材料学](../Page/材料学.md "wikilink")、[工程学](../Page/工程学.md "wikilink")、[生命科学](../Page/生命科学.md "wikilink")、[测量学](../Page/测量学.md "wikilink")、[经济学](../Page/经济学.md "wikilink")、[社会学](../Page/社会学.md "wikilink")、[语言学](../Page/语言学.md "wikilink")、[天文学](../Page/天文学.md "wikilink")、[地理](../Page/地理.md "wikilink")、[文学](../Page/文学.md "wikilink")、[历史](../Page/历史.md "wikilink")、[文化](../Page/文化.md "wikilink")、[体育](../Page/体育.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[天气等各个领域的查询](../Page/天气.md "wikilink")、计算和分析。Wolfram
+可以完成[数学](../Page/数学.md "wikilink")、[统计学](../Page/统计学.md "wikilink")、[计算机科学](../Page/计算机科学.md "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")、[材料学](https://zh.wikipedia.org/wiki/材料学 "wikilink")、[工程学](../Page/工程学.md "wikilink")、[生命科学](https://zh.wikipedia.org/wiki/生命科学 "wikilink")、[测量学](https://zh.wikipedia.org/wiki/测量学 "wikilink")、[经济学](../Page/经济学.md "wikilink")、[社会学](../Page/社会学.md "wikilink")、[语言学](../Page/语言学.md "wikilink")、[天文学](https://zh.wikipedia.org/wiki/天文学 "wikilink")、[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")、[文学](https://zh.wikipedia.org/wiki/文学 "wikilink")、[历史](../Page/历史.md "wikilink")、[文化](../Page/文化.md "wikilink")、[体育](../Page/体育.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[天气等各个领域的查询](../Page/天气.md "wikilink")、计算和分析。Wolfram
 Alpha 还可对用户上传的图片进行识别\[17\]。
 
 使用 Wolfram Alpha 进行查询的实例：
@@ -82,7 +85,8 @@ Alpha 还可对用户上传的图片进行识别\[17\]。
 
 Wolfram Alpha 还能够处理基于自然语言的事实问答问题，例如：
 
-  - "Where was [Mary Robinson](../Page/玛丽·罗宾逊.md "wikilink")
+  - "Where was [Mary
+    Robinson](https://zh.wikipedia.org/wiki/玛丽·罗宾逊 "wikilink")
     born?"\[23\]直接得到玛丽·罗宾逊的出生地点。
   - "How old was [Queen Elizabeth II](../Page/伊丽莎白二世.md "wikilink") in
     1974?"\[24\]（1974年英国女王伊莉莎白二世的年龄）
@@ -100,7 +104,8 @@ Wolfram Alpha 还能够处理基于自然语言的事实问答问题，例如：
 
 ## 授权合作伙伴
 
-微软的[必应搜索引擎在某些方面采用了](../Page/必应.md "wikilink") Wolfram Alpha 技术\[26\]。
+微软的[必应搜索引擎在某些方面采用了](https://zh.wikipedia.org/wiki/必应 "wikilink") Wolfram
+Alpha 技术\[26\]。
 
 关于事实问答，Wolfram Alpha 也为苹果公司的 [Siri](../Page/Siri.md "wikilink")、三星的 [S
 Voice](../Page/S_Voice.md "wikilink") 以及
@@ -110,9 +115,9 @@ Voice](../Page/S_Voice.md "wikilink") 以及
 
 ## 系统要求
 
-Wolfram Alpha 要求使用最新的网络[浏览器](../Page/浏览器.md "wikilink")\[28\]
-在其它低版本的浏览器中，如果不能正确显示文本内容，Wolfram Alpha
-将弹出消息提示用户需要更新浏览器\[29\]。
+Wolfram Alpha
+要求使用最新的网络[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")\[28\]
+在其它低版本的浏览器中，如果不能正确显示文本内容，Wolfram Alpha 将弹出消息提示用户需要更新浏览器\[29\]。
 
 ## Wolfram Alpha Pro
 
@@ -133,7 +138,8 @@ Wolfram Alpha Pro 于 2012 年 2 月 8 日正式发布\[30\]
 在 Wolfram Alpha 还未正式发布，仅仅在网上公布模拟演示时，便收到了来自媒体的众多赞誉，称它为“Google
 终结者”、超智能搜索的代名词等等。
 
-Wolfram|Alpha 在美国 *[Popular Science](../Page/科技新时代.md "wikilink")*
+Wolfram|Alpha 在美国 *[Popular
+Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
 杂志的投票评选中获得 2009 年度最伟大的科技创新产品的荣誉\[38\]\[39\]。
 
 2011 年，Wolfram Alpha 被排名网站 BTOE 评为 iPhone 上最佳参考应用程序\[40\]。
@@ -164,7 +170,7 @@ Wolfram|Alpha 在美国 *[Popular Science](../Page/科技新时代.md "wikilink"
 
 6.  [Wolfram 'search engine' goes
     live](http://news.bbc.co.uk/1/hi/technology/8052798.stm). [BBC
-    News](../Page/BBC_News.md "wikilink").
+    News](https://zh.wikipedia.org/wiki/BBC_News "wikilink").
 
 7.
 
@@ -236,10 +242,10 @@ Wolfram|Alpha 在美国 *[Popular Science](../Page/科技新时代.md "wikilink"
 
 38. [The Answer
     Man](http://www.popsci.com/bown/2009/innovator/answer-man) *[Popular
-    Science](../Page/科技新时代.md "wikilink")*
+    Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
 
 39. [Wolfram Research
     WolframAlpha](http://www.popsci.com/bown/2009/product/wolfram-research-wolframalpha)
-    *[Popular Science](../Page/科技新时代.md "wikilink")*
+    *[Popular Science](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")*
 
 40.

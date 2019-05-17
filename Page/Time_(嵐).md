@@ -22,7 +22,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     （作詞：SPIN　作曲：youth case　編曲：mugen）
       -
         18th單曲
-        TBS日劇《[花樣男子2](../Page/流星花園_\(日本電視劇\)#流星花園2.md "wikilink")》主題曲
+        TBS日劇《[花樣男子2](https://zh.wikipedia.org/wiki/流星花園_\(日本電視劇\)#流星花園2 "wikilink")》主題曲
 3.  **WAVE**　(3:49)
     （作詞：UNITe　Rap詞：櫻井翔　作曲：ric Lidbom　編曲：安部潤）
 4.  **[We can make
@@ -53,7 +53,7 @@ Storm](../Page/J_Storm.md "wikilink")。
     (作詞・作曲：菅止戈男　編曲：石塚知生）
       -
         17th單曲
-        電影《[蜂蜜與四葉草](../Page/蜂蜜與四葉草#日本電影.md "wikilink")》結尾曲
+        電影《[蜂蜜與四葉草](https://zh.wikipedia.org/wiki/蜂蜜與四葉草#日本電影 "wikilink")》結尾曲
 15. **Everybody前進** (4:07)
     （作詞：久保田洋司　作曲・編曲：Shusui、Stefan Åberg）
       -
@@ -68,7 +68,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 2.  **Friendship**
     （作詞・作曲：阿部祐也　編曲：湯浅篤）
       -
-        [相葉雅紀](../Page/相葉雅紀.md "wikilink") solo
+        [相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink") solo
 3.  **虹**
     （作詞：二宮和也　作曲：多田慎也　編曲：三上吉直）
       -
@@ -80,7 +80,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 5.  **糟了-糟了-糟了**
     （作詞・作曲・編曲：Takuya Harada）
       -
-        [松本潤](../Page/松本潤.md "wikilink") solo
+        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") solo
 
 [Category:嵐的專輯](https://zh.wikipedia.org/wiki/Category:嵐的專輯 "wikilink")
 [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")

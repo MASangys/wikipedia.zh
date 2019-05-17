@@ -1,9 +1,9 @@
 **macOS
-Server**是蘋果公司的一個伺服器操作工具。是运行于[macOS之上的应用软件](../Page/macOS.md "wikilink")，包括用于伺服器的額外功能，應用和系統管理工具，用於管理和部署伺服器。
+Server**是蘋果公司的一個伺服器操作工具。是运行于[macOS之上的应用软件](https://zh.wikipedia.org/wiki/macOS "wikilink")，包括用于伺服器的額外功能，應用和系統管理工具，用於管理和部署伺服器。
 早期的macOS Server是一套独立的操作系统，但从Lion起，它只作为一个工具套件存在。 macOS Server预装于[Mac mini
-Server和](../Page/Mac_mini_Server.md "wikilink")[Mac
-Pro中](../Page/Mac_Pro.md "wikilink")。现在它也在Mac App Store中單獨銷售，可用于任何运行OS
-X El Capitan的Mac。
+Server和](https://zh.wikipedia.org/wiki/Mac_mini_Server "wikilink")[Mac
+Pro中](../Page/Mac_Pro.md "wikilink")。现在它也在Mac App Store中單獨銷售，可用于任何运行OS X
+El Capitan的Mac。
 
 ## 概覽
 
@@ -13,7 +13,7 @@ X El Capitan的Mac。
 
 第一個版本的Mac OS X Server是Mac OS X Server 1.0。Mac OS X Server
 1.0是基於[Rhapsody](../Page/Rhapsody.md "wikilink")5.3，混合予從[NeXT
-Computer的](../Page/NeXT_Computer.md "wikilink")[OPENSTEP以及Mac](../Page/OPENSTEP.md "wikilink")
+Computer的](https://zh.wikipedia.org/wiki/NeXT_Computer "wikilink")[OPENSTEP以及Mac](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")
 OS 8.5.1。
 
 ### Mac OS X Server 10.0 (Cheetah Server)
@@ -21,7 +21,7 @@ OS 8.5.1。
 **發佈日期**: 2001年5月21日
 
 Mac OS X Server
-10.0包含新的[Aqua用戶界面](../Page/Aqua_\(GUI\).md "wikilink")、[Apache](../Page/Apache.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[Tomcat](../Page/Tomcat.md "wikilink")、[WebDAV支持](../Page/WebDAV.md "wikilink")、Macintosh
+10.0包含新的[Aqua用戶界面](../Page/Aqua_\(GUI\).md "wikilink")、[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink")、[PHP](../Page/PHP.md "wikilink")、[MySQL](../Page/MySQL.md "wikilink")、[Tomcat](https://zh.wikipedia.org/wiki/Tomcat "wikilink")、[WebDAV支持](https://zh.wikipedia.org/wiki/WebDAV "wikilink")、Macintosh
 Manager及。
 
 ### Mac OS X Server 10.1 (Puma Server)
@@ -35,7 +35,7 @@ Manager及。
 **新功能**
 
   - Mac OS X Server 10.2包括Open Directory
-    user及檔案管理，而這一版本是基於[LDAP的](../Page/LDAP.md "wikilink")，當開始放棄NeXT-originated的NetInfo架構，新的工作群組管理器的配置界面顯著改善。同時，該版本對NetBoot及NetInstall有重大更新。開始支持許多常見的網絡服務如NTP,
+    user及檔案管理，而這一版本是基於[LDAP的](https://zh.wikipedia.org/wiki/LDAP "wikilink")，當開始放棄NeXT-originated的NetInfo架構，新的工作群組管理器的配置界面顯著改善。同時，該版本對NetBoot及NetInstall有重大更新。開始支持許多常見的網絡服務如NTP,
     SNMP, web server (Apache), mail server (Postfix and Cyrus), LDAP
     (OpenLDAP), AFP以及print server. The inclusion of Samba version 3
     allows tight integration with Windows clients and servers. MySQL
@@ -48,7 +48,7 @@ Manager及。
 **新功能**
 
   - Mac OS X Server 10.3包括Open Directory
-    user及檔案管理，而這一版本是基於[LDAP的](../Page/LDAP.md "wikilink")。新的工作群組管理器的配置界面顯著改善。同時，該版本對NetBoot及NetInstall有重大更新。開始支持許多常見的網絡服務如NTP,
+    user及檔案管理，而這一版本是基於[LDAP的](https://zh.wikipedia.org/wiki/LDAP "wikilink")。新的工作群組管理器的配置界面顯著改善。同時，該版本對NetBoot及NetInstall有重大更新。開始支持許多常見的網絡服務如NTP,
     SNMP, web server (Apache), mail server (Postfix and Cyrus), LDAP
     (OpenLDAP), AFP以及print server. The inclusion of Samba version 3
     allows tight integration with Windows clients and servers. MySQL
@@ -95,14 +95,14 @@ Pro及](../Page/Mac_Pro.md "wikilink")[Xserve系統](../Page/Xserve.md "wikilink
   - 完全的64位元操作系统。
   - 支持ZFS讀寫。
   - iCal Server
-    2改進對[CalDAV的支援](../Page/CalDAV.md "wikilink")，一個新的Web日曆應用，發送電子郵件邀請非iCal用戶。
+    2改進對[CalDAV的支援](https://zh.wikipedia.org/wiki/CalDAV "wikilink")，一個新的Web日曆應用，發送電子郵件邀請非iCal用戶。
   - Podcast Producer 2支持雙源視訊，GUI工作流程編輯器供選擇影片，transitions，標題，水印及effects。
   - 可使用CardDAV議定書在多台計算機分享Address Book Server。
-  - [OpenCL利用](../Page/OpenCL.md "wikilink")[GPU進行高性能計算的應用程序](../Page/GPU.md "wikilink")。
+  - [OpenCL利用](../Page/OpenCL.md "wikilink")[GPU進行高性能計算的應用程序](https://zh.wikipedia.org/wiki/GPU "wikilink")。
   - 提供傳送Push Notifications到你的iPhone或Macbook上的Push Notification Server。
   - Address
     Server以新興的CardDAV規格為基礎，利用WebDAV來交換vCards，讓使用者能在多部電腦間共享個人和群組聯絡資訊及遠端存取聯絡資訊，不受LDAP綱要限制亦無其安全性問題。
-  - 郵件服務採用[Dovecot的](../Page/Dovecot.md "wikilink")[POP和](../Page/POP.md "wikilink")[IMAP](../Page/IMAP.md "wikilink")，而不是[Cyrus](../Page/Cyrus.md "wikilink")。
+  - 郵件服務採用[Dovecot的](https://zh.wikipedia.org/wiki/Dovecot "wikilink")[POP和](https://zh.wikipedia.org/wiki/POP "wikilink")[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")，而不是[Cyrus](https://zh.wikipedia.org/wiki/Cyrus "wikilink")。
 
 ### OS X Server 1 (Lion)
 
@@ -119,16 +119,18 @@ Pro及](../Page/Mac_Pro.md "wikilink")[Xserve系統](../Page/Xserve.md "wikilink
 **新功能**
 
   - 針對[OS X Mavericks和](../Page/OS_X_Mavericks.md "wikilink")[iOS
-    7的更新內容](../Page/iOS_7.md "wikilink")。
+    7的更新內容](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")。
   - SMB2是檔案共享的新預設通訊協定，提供更佳的效能、更強的安全性並改進了Windows的相容性。
-  - 「快取伺服器2」能加速通過[App Store](../Page/App_Store.md "wikilink")、[Mac App
+  - 「快取伺服器2」能加速通過[App
+    Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")、[Mac App
     Store](../Page/Mac_App_Store.md "wikilink")、[iTunes
-    Store](../Page/iTunes_Store.md "wikilink")、[iTunes
-    U](../Page/iTunes_U.md "wikilink")、軟體更新和「OS X回復」印象檔的軟體傳送。
+    Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[iTunes
+    U](https://zh.wikipedia.org/wiki/iTunes_U "wikilink")、軟體更新和「OS
+    X回復」印象檔的軟體傳送。
   - 「描述檔管理程式」支援[OS X
     Mavericks和](../Page/OS_X_Mavericks.md "wikilink")[iOS
-    7](../Page/iOS_7.md "wikilink")，並且能分配從「大量採購方案」購買機構授權App和書籍。
-  - 「Xcode伺服器」能讓[Mac和](../Page/Mac.md "wikilink")[iOS的開發團隊更輕鬆地製作穩定可靠的軟體](../Page/iOS.md "wikilink")，這都歸功於連續整合、測試和儲存庫託管服務。
+    7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，並且能分配從「大量採購方案」購買機構授權App和書籍。
+  - 「Xcode伺服器」能讓[Mac和](https://zh.wikipedia.org/wiki/Mac "wikilink")[iOS的開發團隊更輕鬆地製作穩定可靠的軟體](https://zh.wikipedia.org/wiki/iOS "wikilink")，這都歸功於連續整合、測試和儲存庫託管服務。
   - [Time
     Machine伺服器支援配額功能](../Page/Time_Machine.md "wikilink")，能設定可使用的儲存空間數量限制。
 
@@ -166,12 +168,12 @@ OS X Mountain Lion
 
 <div align="center">
 
-|         | 要求                                      |
-| ------- | --------------------------------------- |
-| 處理器     | [Intel處理器](../Page/Intel.md "wikilink") |
-| 內存容量的要求 | 2GB                                     |
-| 可用硬盤空間  | 20GB                                    |
-|         |                                         |
+|         | 要求                                                         |
+| ------- | ---------------------------------------------------------- |
+| 處理器     | [Intel處理器](https://zh.wikipedia.org/wiki/Intel "wikilink") |
+| 內存容量的要求 | 2GB                                                        |
+| 可用硬盤空間  | 20GB                                                       |
+|         |                                                            |
 
 </div>
 
@@ -179,7 +181,7 @@ OS X Mountain Lion
 \*Podcast Capture:配備Mac OS X v10.6或Mac OS X Server v10.6的Mac
 
   - Podcast Producer：配備Mac OS X Server v10.6、每個核心2GB記憶體以及具[Quartz
-    Extreme功能的視訊晶片組](../Page/Quartz_Extreme.md "wikilink")。要達到最佳效能，建議使用[Xsan叢集檔案服務](../Page/Xsan.md "wikilink")。
+    Extreme功能的視訊晶片組](https://zh.wikipedia.org/wiki/Quartz_Extreme "wikilink")。要達到最佳效能，建議使用[Xsan叢集檔案服務](https://zh.wikipedia.org/wiki/Xsan "wikilink")。
 
 **Wiki Server需求**
 與Wiki Server互動須有現代網頁瀏覽器，如：
@@ -193,47 +195,54 @@ OS X Mountain Lion
 
 |-valign="top" | **檔案與列印服務**
 
-  - Mac ([AFP](../Page/AFP.md "wikilink"), AppleTalk PAP, IPP)
+  - Mac ([AFP](https://zh.wikipedia.org/wiki/AFP "wikilink"), AppleTalk
+    PAP, IPP)
   - Windows (SMB/CIFS, IPP)
   - UNIX及[Linux](../Page/Linux.md "wikilink") (NFS, LPR/LPD)
-  - Internet (FTP, [WebDAV](../Page/WebDAV.md "wikilink"))
+  - Internet (FTP,
+    [WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink"))
 
 **目錄服務與認證**
 
-  - [Open Directory](../Page/Open_Directory.md "wikilink") (OpenLDAP,
-    Kerberos, SASL)
+  - [Open
+    Directory](https://zh.wikipedia.org/wiki/Open_Directory "wikilink")
+    (OpenLDAP, Kerberos, SASL)
   - NT Domain Services ([Samba](../Page/Samba.md "wikilink") 3)
   - Backup Domain Controller (BDC)
-  - [LDAP](../Page/LDAP.md "wikilink") directory connector
+  - [LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink") directory
+    connector
   - [Active Directory](../Page/Active_Directory.md "wikilink") connector
   - BSD configuration files (/etc)
-  - [RADIUS](../Page/RADIUS.md "wikilink")
+  - [RADIUS](https://zh.wikipedia.org/wiki/RADIUS "wikilink")
 
 **郵件服務**
 
-  - [SMTP](../Page/SMTP.md "wikilink")（[Postfix](../Page/Postfix.md "wikilink")）
-  - [POP及](../Page/POP.md "wikilink")[IMAP](../Page/IMAP.md "wikilink")
+  - [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")（[Postfix](../Page/Postfix.md "wikilink")）
+  - [POP及](https://zh.wikipedia.org/wiki/POP "wikilink")[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")
     (Cyrus)
   - SSL/TLS encryption ([OpenSSL](../Page/OpenSSL.md "wikilink"))
-  - [Mailing lists](../Page/Mailing_list.md "wikilink") (Mailman)
-  - [Webmail](../Page/Webmail.md "wikilink")（[SquirrelMail](../Page/SquirrelMail.md "wikilink")）
-  - [Junk mail](../Page/Junk_mail.md "wikilink") filtering
-    ([SpamAssassin](../Page/SpamAssassin.md "wikilink"))
-  - [Virus](../Page/Computer_virus.md "wikilink") detection
-    ([ClamAV](../Page/ClamAV.md "wikilink"))
+  - [Mailing
+    lists](https://zh.wikipedia.org/wiki/Mailing_list "wikilink")
+    (Mailman)
+  - [Webmail](../Page/Webmail.md "wikilink")（[SquirrelMail](https://zh.wikipedia.org/wiki/SquirrelMail "wikilink")）
+  - [Junk mail](https://zh.wikipedia.org/wiki/Junk_mail "wikilink")
+    filtering ([SpamAssassin](../Page/SpamAssassin.md "wikilink"))
+  - [Virus](https://zh.wikipedia.org/wiki/Computer_virus "wikilink")
+    detection ([ClamAV](../Page/ClamAV.md "wikilink"))
 
 **行事曆功能**
 
-  - [iCal Server](../Page/iCal_Server.md "wikilink")
-    ([CalDAV](../Page/CalDAV.md "wikilink"), iTIP, iMIP)
+  - [iCal Server](https://zh.wikipedia.org/wiki/iCal_Server "wikilink")
+    ([CalDAV](https://zh.wikipedia.org/wiki/CalDAV "wikilink"), iTIP,
+    iMIP)
 
 **網站建置**
 
   - [Apache](../Page/Apache_HTTP_Server.md "wikilink") web server
     (2.2及1.3)
-  - [SSL/TLS](../Page/Ssl.md "wikilink")
+  - [SSL/TLS](https://zh.wikipedia.org/wiki/Ssl "wikilink")
     ([OpenSSL](../Page/OpenSSL.md "wikilink"))
-  - [WebDAV](../Page/WebDAV.md "wikilink")
+  - [WebDAV](https://zh.wikipedia.org/wiki/WebDAV "wikilink")
   - [Perl](../Page/Perl.md "wikilink") (5.8.8),
     [PHP](../Page/PHP.md "wikilink") (5.2),
     [Ruby](../Page/Ruby.md "wikilink") (1.8.6), Rails (1.2.3)
@@ -242,60 +251,65 @@ OS X Mountain Lion
 
 | **合作服務**
 
-  - [Wiki Server](../Page/Wiki_Server.md "wikilink")（RSS）
-  - [iChat Server](../Page/iChat_Server.md "wikilink") 2 (Jabber/XMPP)
+  - [Wiki
+    Server](https://zh.wikipedia.org/wiki/Wiki_Server "wikilink")（RSS）
+  - [iChat
+    Server](https://zh.wikipedia.org/wiki/iChat_Server "wikilink") 2
+    (Jabber/XMPP)
 
 **應用程式伺服器**
 
   - [Apache Tomcat](../Page/Apache_Tomcat.md "wikilink")（6）
   - [Java](../Page/Java.md "wikilink") virtual machine (J2SE)
-  - [WebObjects](../Page/WebObjects.md "wikilink") Deployment (5.4)
+  - [WebObjects](https://zh.wikipedia.org/wiki/WebObjects "wikilink")
+    Deployment (5.4)
   - [Apache
-    Axis](../Page/Apache_Axis.md "wikilink")（[SOAP](../Page/SOAP.md "wikilink")）
+    Axis](../Page/Apache_Axis.md "wikilink")（[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")）
 
 **媒體串流播送**
 
   - [QuickTime Streaming
-    Server](../Page/QuickTime_Streaming_Server.md "wikilink") 6
+    Server](https://zh.wikipedia.org/wiki/QuickTime_Streaming_Server "wikilink")
+    6
   - QuickTime Broadcaster 1.5
 
 **用戶端管理**
 
   - 管理偏好設定
-  - [NetBoot](../Page/NetBoot.md "wikilink")
-  - [NetInstall](../Page/NetInstall.md "wikilink")
+  - [NetBoot](https://zh.wikipedia.org/wiki/NetBoot "wikilink")
+  - [NetInstall](https://zh.wikipedia.org/wiki/NetInstall "wikilink")
   - 軟件更新伺服器
   - 可攜式個人專屬目錄
 
 **網絡及VPN**
 
-  - [DNS](../Page/Dns.md "wikilink") server
+  - [DNS](https://zh.wikipedia.org/wiki/Dns "wikilink") server
     ([BIND](../Page/BIND.md "wikilink") 9)
-  - [DHCP](../Page/DHCP.md "wikilink") server
-  - [NAT](../Page/NAT.md "wikilink") server
-  - [VPN](../Page/VPN.md "wikilink") server
-    ([L2TP](../Page/L2TP.md "wikilink")/[IPSec](../Page/IPSec.md "wikilink")、[PPTP](../Page/PPTP.md "wikilink"))
-  - [Firewall](../Page/防火牆_\(計算機\).md "wikilink")（IPFW2）
-  - [NTP](../Page/網絡時間協議.md "wikilink")
+  - [DHCP](https://zh.wikipedia.org/wiki/DHCP "wikilink") server
+  - [NAT](https://zh.wikipedia.org/wiki/NAT "wikilink") server
+  - [VPN](https://zh.wikipedia.org/wiki/VPN "wikilink") server
+    ([L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")/[IPSec](https://zh.wikipedia.org/wiki/IPSec "wikilink")、[PPTP](https://zh.wikipedia.org/wiki/PPTP "wikilink"))
+  - [Firewall](https://zh.wikipedia.org/wiki/防火牆_\(計算機\) "wikilink")（IPFW2）
+  - [NTP](https://zh.wikipedia.org/wiki/網絡時間協議 "wikilink")
 
 | **分散式計算**
 
-  - [Xgrid](../Page/Xgrid.md "wikilink") 2
+  - [Xgrid](https://zh.wikipedia.org/wiki/Xgrid "wikilink") 2
 
 **高可用性功能**
 
   - 自動復原
   - 檔案系統日誌
   - IP故障轉移
-  - 軟體[RAID](../Page/Raid.md "wikilink")
+  - 軟體[RAID](https://zh.wikipedia.org/wiki/Raid "wikilink")
   - 磁碟空間監控
 
 **檔案系統**
 
   - [HFS+](../Page/HFS+.md "wikilink") (journaled, [case
-    sensitive](../Page/case_sensitive.md "wikilink"))
+    sensitive](https://zh.wikipedia.org/wiki/case_sensitive "wikilink"))
   - 唯讀:
-    [UFS及](../Page/UFS.md "wikilink")[ZFS](../Page/ZFS.md "wikilink")
+    [UFS及](https://zh.wikipedia.org/wiki/UFS "wikilink")[ZFS](../Page/ZFS.md "wikilink")
 
 **管理功能**
 
@@ -316,16 +330,16 @@ OS X Mountain Lion
 
 Mac OS X Server可在下列語言下使用\[1\]：
 
-  - [英文](../Page/英文.md "wikilink")
-  - [日文](../Page/日文.md "wikilink")
-  - [法文](../Page/法文.md "wikilink")
-  - [德文](../Page/德文.md "wikilink")
-  - [简体中文](../Page/简体中文.md "wikilink")
-  - [荷兰语](../Page/荷兰语.md "wikilink")
+  - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")
+  - [日文](https://zh.wikipedia.org/wiki/日文 "wikilink")
+  - [法文](https://zh.wikipedia.org/wiki/法文 "wikilink")
+  - [德文](https://zh.wikipedia.org/wiki/德文 "wikilink")
+  - [简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")
+  - [荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")
   - [意大利语](../Page/意大利语.md "wikilink")
-  - [韩语](../Page/韩语.md "wikilink")
+  - [韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")
   - [西班牙语](../Page/西班牙语.md "wikilink")
-  - [繁体中文](../Page/繁体中文.md "wikilink")
+  - [繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")
 
 ## 參考文獻
 

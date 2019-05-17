@@ -10,8 +10,8 @@ albedo = | single_temperature = }}
 
 ## 相關條目
 
-  - [半人馬座αBb](../Page/半人馬座αBb.md "wikilink")
-  - [半人馬座αBc](../Page/半人馬座αBc.md "wikilink")
+  - [半人馬座αBb](https://zh.wikipedia.org/wiki/半人馬座αBb "wikilink")
+  - [半人馬座αBc](https://zh.wikipedia.org/wiki/半人馬座αBc "wikilink")
   - [熱木星](../Page/熱木星.md "wikilink")
 
 ## 參考資料

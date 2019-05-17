@@ -5,16 +5,17 @@
 
 ### 眼睑、泪器系和眼眶疾患
 
-[眼睑](../Page/眼睑.md "wikilink")、[泪器系和眼眶疾患](../Page/泪器系.md "wikilink")（H00-H06）
+[眼睑](https://zh.wikipedia.org/wiki/眼睑 "wikilink")、[泪器系和眼眶疾患](https://zh.wikipedia.org/wiki/泪器系 "wikilink")（H00-H06）
 
-  - () [眼睑炎和](../Page/眼睑炎.md "wikilink")[睑板囊肿](../Page/睑板.md "wikilink")
-  - () [眼睑的其他炎症](../Page/眼睑.md "wikilink")
-  - () [眼睑的其他疾患](../Page/眼睑.md "wikilink")
-  - () 分类于他处的疾病引起的眼睑疾患
-  - () [泪器系疾患](../Page/泪器系.md "wikilink")
-  - () [眼眶疾患](../Page/眼眶.md "wikilink")
   - ()
-    分类于他处的疾病引起的[泪器系和](../Page/泪器系.md "wikilink")[眼眶疾患](../Page/眼眶.md "wikilink")
+    [眼睑炎和](https://zh.wikipedia.org/wiki/眼睑炎 "wikilink")[睑板囊肿](https://zh.wikipedia.org/wiki/睑板 "wikilink")
+  - () [眼睑的其他炎症](https://zh.wikipedia.org/wiki/眼睑 "wikilink")
+  - () [眼睑的其他疾患](https://zh.wikipedia.org/wiki/眼睑 "wikilink")
+  - () 分类于他处的疾病引起的眼睑疾患
+  - () [泪器系疾患](https://zh.wikipedia.org/wiki/泪器系 "wikilink")
+  - () [眼眶疾患](https://zh.wikipedia.org/wiki/眼眶 "wikilink")
+  - ()
+    分类于他处的疾病引起的[泪器系和](https://zh.wikipedia.org/wiki/泪器系 "wikilink")[眼眶疾患](https://zh.wikipedia.org/wiki/眼眶 "wikilink")
 
 ### 结膜疾患
 
@@ -26,19 +27,19 @@
 
 ### 巩膜、角膜、虹膜和睫状体疾患
 
-[巩膜](../Page/巩膜.md "wikilink")、[角膜](../Page/角膜.md "wikilink")、[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](../Page/睫状体.md "wikilink")（H15-H22）
+[巩膜](https://zh.wikipedia.org/wiki/巩膜 "wikilink")、[角膜](../Page/角膜.md "wikilink")、[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")（H15-H22）
 
-  - () [巩膜疾患](../Page/巩膜.md "wikilink")
-  - () [角膜炎](../Page/角膜炎.md "wikilink")
+  - () [巩膜疾患](https://zh.wikipedia.org/wiki/巩膜 "wikilink")
+  - () [角膜炎](https://zh.wikipedia.org/wiki/角膜炎 "wikilink")
   - () [角膜瘢痕和混浊](../Page/角膜.md "wikilink")
   - () [角膜的其他疾患](../Page/角膜.md "wikilink")
   - ()
-    分类于他处的疾病引起的[巩膜和](../Page/巩膜.md "wikilink")[角膜疾患](../Page/角膜.md "wikilink")
-  - () [虹膜睫状体炎](../Page/虹膜睫状体炎.md "wikilink")
+    分类于他处的疾病引起的[巩膜和](https://zh.wikipedia.org/wiki/巩膜 "wikilink")[角膜疾患](../Page/角膜.md "wikilink")
+  - () [虹膜睫状体炎](https://zh.wikipedia.org/wiki/虹膜睫状体炎 "wikilink")
   - ()
-    [虹膜和](../Page/虹膜.md "wikilink")[睫状体的其他疾患](../Page/睫状体.md "wikilink")
+    [虹膜和](../Page/虹膜.md "wikilink")[睫状体的其他疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
   - ()
-    分类于他处的疾病引起的[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](../Page/睫状体.md "wikilink")
+    分类于他处的疾病引起的[虹膜和](../Page/虹膜.md "wikilink")[睫状体疾患](https://zh.wikipedia.org/wiki/睫状体 "wikilink")
 
 ### 晶状体疾患
 
@@ -51,12 +52,13 @@
 
 ### 脉络膜和视网膜疾患
 
-[脉络膜和](../Page/脉络膜.md "wikilink")[视网膜疾患](../Page/视网膜.md "wikilink")（H30-H36）
+[脉络膜和](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")[视网膜疾患](../Page/视网膜.md "wikilink")（H30-H36）
 
   - ()
-    [脉络膜](../Page/脉络膜.md "wikilink")[视网膜炎](../Page/视网膜炎.md "wikilink")
-  - () [脉络膜的其他疾患](../Page/脉络膜.md "wikilink")
-  - () 分类于他处的疾病引起的[脉络膜视网膜疾患](../Page/脉络膜.md "wikilink")
+    [脉络膜](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")[视网膜炎](https://zh.wikipedia.org/wiki/视网膜炎 "wikilink")
+  - () [脉络膜的其他疾患](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")
+  - ()
+    分类于他处的疾病引起的[脉络膜视网膜疾患](https://zh.wikipedia.org/wiki/脉络膜 "wikilink")
   - () [视网膜脱离和断裂](../Page/视网膜.md "wikilink")
   - () [视网膜血管闭塞](../Page/视网膜.md "wikilink")
   - () 其他视网膜疾患
@@ -71,40 +73,41 @@
 
 ### 玻璃体和眼球疾患
 
-[玻璃体和](../Page/玻璃体.md "wikilink")[眼球疾患](../Page/眼球.md "wikilink")（H43-H45）
+[玻璃体和](https://zh.wikipedia.org/wiki/玻璃体 "wikilink")[眼球疾患](https://zh.wikipedia.org/wiki/眼球 "wikilink")（H43-H45）
 
-  - () [玻璃体疾患](../Page/玻璃体.md "wikilink")
-  - () [眼球疾患](../Page/眼球.md "wikilink")
+  - () [玻璃体疾患](https://zh.wikipedia.org/wiki/玻璃体 "wikilink")
+  - () [眼球疾患](https://zh.wikipedia.org/wiki/眼球 "wikilink")
   - () 分类于他处的疾病引起的玻璃体和眼球疾患
 
 ### 视神经和视路疾患
 
 [视神经和视路疾患](../Page/视神经.md "wikilink")（H46-H48）
 
-  - () [视神经炎](../Page/视神经炎.md "wikilink")
+  - () [视神经炎](https://zh.wikipedia.org/wiki/视神经炎 "wikilink")
   - () [视(第二)神经和视路的其他疾患](../Page/视神经.md "wikilink")
   - ()
-    分类于他处的疾病引起的[视(第二)神经和](../Page/视神经.md "wikilink")[视路的疾患](../Page/视路.md "wikilink")
+    分类于他处的疾病引起的[视(第二)神经和](../Page/视神经.md "wikilink")[视路的疾患](https://zh.wikipedia.org/wiki/视路 "wikilink")
 
 ### 眼球外肌、双眼运动、调节和屈光疾患
 
-[眼球外肌](../Page/眼球外肌.md "wikilink")、双眼运动、调节和[屈光疾患](../Page/屈光.md "wikilink")（H49-H52）
+[眼球外肌](https://zh.wikipedia.org/wiki/眼球外肌 "wikilink")、双眼运动、调节和[屈光疾患](https://zh.wikipedia.org/wiki/屈光 "wikilink")（H49-H52）
 
   - () 麻痹性[斜视](../Page/斜视.md "wikilink")
   - () 其他斜视
   - () 双眼运动的其他疾患
-  - () [屈光和调节疾患](../Page/屈光.md "wikilink")
+  - () [屈光和调节疾患](https://zh.wikipedia.org/wiki/屈光 "wikilink")
 
 ### 视觉障碍和视盲
 
-视觉障碍和[视盲](../Page/盲.md "wikilink")（H53-H54）
+视觉障碍和[视盲](https://zh.wikipedia.org/wiki/盲 "wikilink")（H53-H54）
 
   - () 视觉障碍
-  - () [视盲和](../Page/盲.md "wikilink")[低視能](../Page/低視能.md "wikilink")
+  - ()
+    [视盲和](https://zh.wikipedia.org/wiki/盲 "wikilink")[低視能](https://zh.wikipedia.org/wiki/低視能 "wikilink")
 
 ### 眼和附器的其他疾患
 
-眼和[附器的其他疾患](../Page/附器.md "wikilink")（H55-H59）
+眼和[附器的其他疾患](https://zh.wikipedia.org/wiki/附器 "wikilink")（H55-H59）
 
   - () 眼球震颤和其他不规则眼球运动
   - () 眼和附器的其他疾患
@@ -113,7 +116,7 @@
 
 ## 参考文献
 
-  - [ICD-9编码列表](../Page/ICD-9编码列表.md "wikilink")
+  - [ICD-9编码列表](https://zh.wikipedia.org/wiki/ICD-9编码列表 "wikilink")
   - ICD-10 第七章：眼和附器疾病(: 360–379)
   - [ICD-10 第八章：耳和乳突疾病](../Page/ICD-10_第八章：耳和乳突疾病.md "wikilink")(ICD-9:
     380–389)

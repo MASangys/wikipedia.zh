@@ -5,19 +5,20 @@
 ## 名稱
 
 aNobii站名的名稱是取自於*Anobium
-punctatum*開頭的音節，**為某[書蟲的](../Page/書蟲.md "wikilink")[拉丁文名稱](../Page/拉丁文.md "wikilink")。\[3\]
+punctatum*開頭的音節，**為某[書蟲的](https://zh.wikipedia.org/wiki/書蟲 "wikilink")[拉丁文名稱](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")。\[3\]
 
 ## 歷史
 
 aNobii
-由香港人[宋漢生於](../Page/宋漢生.md "wikilink")2006年放棄修讀[MBA而創辦](../Page/MBA.md "wikilink")\[4\]。一年半後，有外國創投基金提出收購網站，令他決定辭去專欄寫作一職，全力發展
-Anobii\[5\]。其名稱「aNobii」乃自[家具蠹蟲的學名](../Page/家具蠹蟲.md "wikilink")「Anobium
+由香港人[宋漢生於](../Page/宋漢生.md "wikilink")2006年放棄修讀[MBA而創辦](https://zh.wikipedia.org/wiki/MBA "wikilink")\[4\]。一年半後，有外國創投基金提出收購網站，令他決定辭去專欄寫作一職，全力發展
+Anobii\[5\]。其名稱「aNobii」乃自[家具蠹蟲的學名](https://zh.wikipedia.org/wiki/家具蠹蟲 "wikilink")「Anobium
 Punctatum」而來\[6\]。
 
 aNobii於2010年被英國[HMV
-Group牽頭收購](../Page/HMV_Group.md "wikilink")，參與的包括六大出版商中的三大（[HarperCollins](../Page/HarperCollins.md "wikilink"),
-[Penguin](../Page/Penguin.md "wikilink") 及 [The Random House
-Group](../Page/The_Random_House_Group.md "wikilink")）。\[7\]
+Group牽頭收購](https://zh.wikipedia.org/wiki/HMV_Group "wikilink")，參與的包括六大出版商中的三大（[HarperCollins](https://zh.wikipedia.org/wiki/HarperCollins "wikilink"),
+[Penguin](https://zh.wikipedia.org/wiki/Penguin "wikilink") 及 [The
+Random House
+Group](https://zh.wikipedia.org/wiki/The_Random_House_Group "wikilink")）。\[7\]
 
 2011年，Anobii推出2.0系統，並與英國十間出版社達成合作協議，於網上銷售這些出版社的圖書\[8\]。
 

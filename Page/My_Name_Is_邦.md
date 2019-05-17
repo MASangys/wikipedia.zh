@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p>005</p></td>
 <td><p>7月3日</p></td>
-<td><p><a href="../Page/張敬軒.md" title="wikilink">張敬軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 <td><p>創作音樂 ，廣州長成</p></td>
 </tr>
 <tr class="odd">
@@ -136,7 +136,7 @@
 <tr class="even">
 <td><p>021</p></td>
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/劉雲傑.md" title="wikilink">劉雲傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉雲傑" title="wikilink">劉雲傑</a></p></td>
 <td><p>動漫節特輯</p></td>
 </tr>
 <tr class="odd">
@@ -148,19 +148,19 @@
 <tr class="even">
 <td><p>023</p></td>
 <td><p>7月29日</p></td>
-<td><p><a href="../Page/林祥焜.md" title="wikilink">林祥焜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林祥焜" title="wikilink">林祥焜</a></p></td>
 <td><p>動漫節特輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>024</p></td>
 <td><p>7月30日</p></td>
-<td><p>|<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="../Page/趙碩之.md" title="wikilink">趙碩之</a>、<a href="../Page/陳若嵐.md" title="wikilink">陳若嵐</a>、<a href="../Page/李曼筠.md" title="wikilink">李曼筠</a></p></td>
+<td><p>|<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="../Page/趙碩之.md" title="wikilink">趙碩之</a>、<a href="https://zh.wikipedia.org/wiki/陳若嵐" title="wikilink">陳若嵐</a>、<a href="../Page/李曼筠.md" title="wikilink">李曼筠</a></p></td>
 <td><p>動漫節特輯</p></td>
 </tr>
 <tr class="even">
 <td><p>025</p></td>
 <td><p>7月31日</p></td>
-<td><p><a href="../Page/王澤.md" title="wikilink">王　澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王澤" title="wikilink">王　澤</a></p></td>
 <td><p>動漫節特輯</p></td>
 </tr>
 <tr class="odd">
@@ -172,13 +172,13 @@
 <tr class="even">
 <td><p>027</p></td>
 <td><p>8月4日</p></td>
-<td><p><a href="../Page/李志清.md" title="wikilink">李志清</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李志清" title="wikilink">李志清</a></p></td>
 <td><p>動漫節特輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>028</p></td>
 <td><p>8月5日</p></td>
-<td><p><a href="../Page/周麗淇.md" title="wikilink">周麗淇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
@@ -190,7 +190,7 @@
 <tr class="odd">
 <td><p>030</p></td>
 <td><p>8月7日</p></td>
-<td><p><a href="../Page/錢國偉_(監製).md" title="wikilink">錢國偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錢國偉_(監製)" title="wikilink">錢國偉</a></p></td>
 <td><p>無綫監製</p></td>
 </tr>
 <tr class="even">
@@ -208,7 +208,7 @@
 <tr class="even">
 <td><p>033</p></td>
 <td><p>8月12日</p></td>
-<td><p><a href="../Page/森美.md" title="wikilink">森　美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森　美</a></p></td>
 <td><p>商台DJ</p></td>
 </tr>
 <tr class="odd">
@@ -244,7 +244,7 @@
 <tr class="even">
 <td><p>039</p></td>
 <td><p>8月20日</p></td>
-<td><p><a href="../Page/At_17.md" title="wikilink">At 17</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/At_17" title="wikilink">At 17</a></p></td>
 <td><p>二人女子清新組合</p></td>
 </tr>
 <tr class="odd">
@@ -286,7 +286,7 @@
 <tr class="odd">
 <td><p>046</p></td>
 <td><p>8月31日</p></td>
-<td><p><a href="../Page/蘇晉霆.md" title="wikilink">蘇晉霆</a>、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a></p></td>
+<td><p><a href="../Page/蘇晉霆.md" title="wikilink">蘇晉霆</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a></p></td>
 <td><p>前《<a href="../Page/東張西望.md" title="wikilink">東張西望</a>》主持</p></td>
 </tr>
 <tr class="even">
@@ -340,7 +340,7 @@
 <tr class="even">
 <td><p>055</p></td>
 <td><p>9月11日</p></td>
-<td><p><a href="../Page/林峯.md" title="wikilink">林　峯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林　峯</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
@@ -370,14 +370,14 @@
 <tr class="odd">
 <td><p>060</p></td>
 <td><p>9月18日</p></td>
-<td><p><a href="../Page/G.E.M..md" title="wikilink">G.E.M.</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/G.E.M." title="wikilink">G.E.M.</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>061</p></td>
 <td><p>9月21日</p></td>
-<td><p><a href="../Page/劉倩婷.md" title="wikilink">劉倩婷</a>、<a href="../Page/李姿敏.md" title="wikilink">李姿敏</a>、<a href="../Page/熊穎詩.md" title="wikilink">熊穎詩</a></p></td>
-<td><p>2009<a href="../Page/香港小姐.md" title="wikilink">香港小姐</a></p></td>
+<td><p><a href="../Page/劉倩婷.md" title="wikilink">劉倩婷</a>、<a href="https://zh.wikipedia.org/wiki/李姿敏" title="wikilink">李姿敏</a>、<a href="../Page/熊穎詩.md" title="wikilink">熊穎詩</a></p></td>
+<td><p>2009<a href="https://zh.wikipedia.org/wiki/香港小姐" title="wikilink">香港小姐</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>062</p></td>
@@ -389,7 +389,7 @@
 <td><p>063</p></td>
 <td><p>9月23日</p></td>
 <td><p><a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a><br />
-（<a href="../Page/I_Love_U_Boyz.md" title="wikilink">I Love U Boyz</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/I_Love_U_Boyz" title="wikilink">I Love U Boyz</a>）</p></td>
 <td><p>攪笑成功之道</p></td>
 </tr>
 <tr class="odd">
@@ -408,7 +408,7 @@
 <td><p>066</p></td>
 <td><p>9月28日</p></td>
 <td><p><a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a><br />
-（<a href="../Page/I_Love_U_Boyz.md" title="wikilink">I Love U Boyz</a>）</p></td>
+（<a href="https://zh.wikipedia.org/wiki/I_Love_U_Boyz" title="wikilink">I Love U Boyz</a>）</p></td>
 <td><p>攪笑成功之道</p></td>
 </tr>
 <tr class="even">
@@ -426,9 +426,9 @@
 <tr class="even">
 <td><p>069</p></td>
 <td><p>10月1日</p></td>
-<td><p><a href="../Page/鄭寶源.md" title="wikilink">鄭寶源</a>、<a href="../Page/曾曦寧.md" title="wikilink">曾曦寧</a>、<a href="../Page/林潔瑜.md" title="wikilink">林潔瑜</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭寶源" title="wikilink">鄭寶源</a>、<a href="https://zh.wikipedia.org/wiki/曾曦寧" title="wikilink">曾曦寧</a>、<a href="../Page/林潔瑜.md" title="wikilink">林潔瑜</a><br />
 </p></td>
-<td><p>2009<a href="../Page/香港小姐.md" title="wikilink">香港小姐</a></p></td>
+<td><p>2009<a href="https://zh.wikipedia.org/wiki/香港小姐" title="wikilink">香港小姐</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>070</p></td>
@@ -439,7 +439,7 @@
 <tr class="even">
 <td><p>071</p></td>
 <td><p>10月5日</p></td>
-<td><p><a href="../Page/何雁詩.md" title="wikilink">何雁詩</a>、<a href="../Page/海俊文.md" title="wikilink">海俊文</a>、<a href="../Page/許廷鏗.md" title="wikilink">許廷鏗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何雁詩" title="wikilink">何雁詩</a>、<a href="https://zh.wikipedia.org/wiki/海俊文" title="wikilink">海俊文</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a></p></td>
 <td><p>《<a href="../Page/超級巨聲.md" title="wikilink">超級巨聲</a>》參賽者</p></td>
 </tr>
 <tr class="odd">
@@ -463,7 +463,7 @@
 <tr class="even">
 <td><p>075</p></td>
 <td><p>10月9日</p></td>
-<td><p><a href="../Page/黃宗澤.md" title="wikilink">黃宗澤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
@@ -475,7 +475,7 @@
 <tr class="even">
 <td><p>077</p></td>
 <td><p>10月13日</p></td>
-<td><p><a href="../Page/陈伟雄.md" title="wikilink">陈伟雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈伟雄" title="wikilink">陈伟雄</a></p></td>
 <td><p>LMF紋身人</p></td>
 </tr>
 <tr class="odd">
@@ -524,7 +524,7 @@
 <td><p>085</p></td>
 <td><p>10月23日</p></td>
 <td><p><a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/姚家豪.md" title="wikilink">姚家豪</a></p></td>
-<td><p>《<a href="../Page/一八七二遊花園.md" title="wikilink">一八七二遊花園</a>》主持</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/一八七二遊花園" title="wikilink">一八七二遊花園</a>》主持</p></td>
 </tr>
 <tr class="odd">
 <td><p>086</p></td>
@@ -547,7 +547,7 @@
 <tr class="even">
 <td><p>089</p></td>
 <td><p>10月29日</p></td>
-<td><p><a href="../Page/陳雲海.md" title="wikilink">雲　海</a>、<a href="../Page/露芙.md" title="wikilink">露　芙</a></p></td>
+<td><p><a href="../Page/陳雲海.md" title="wikilink">雲　海</a>、<a href="https://zh.wikipedia.org/wiki/露芙" title="wikilink">露　芙</a></p></td>
 <td><p>萬聖節特輯</p></td>
 </tr>
 <tr class="odd">
@@ -571,7 +571,7 @@
 <tr class="even">
 <td><p>093</p></td>
 <td><p>11月4日</p></td>
-<td><p><a href="../Page/歐陽靖.md" title="wikilink">歐陽靖</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐陽靖" title="wikilink">歐陽靖</a></p></td>
 <td><p>美籍華人饒舌歌手</p></td>
 </tr>
 <tr class="odd">
@@ -595,19 +595,19 @@
 <tr class="even">
 <td><p>097</p></td>
 <td><p>11月10日</p></td>
-<td><p><a href="../Page/巨蛋白組.md" title="wikilink">巨蛋白組</a>＠<a href="../Page/十人巷.md" title="wikilink">十人巷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巨蛋白組" title="wikilink">巨蛋白組</a>＠<a href="../Page/十人巷.md" title="wikilink">十人巷</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p>098</p></td>
 <td><p>11月11日</p></td>
-<td><p><a href="../Page/巨蛋黃組.md" title="wikilink">巨蛋黃組</a>＠<a href="../Page/十人巷.md" title="wikilink">十人巷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巨蛋黃組" title="wikilink">巨蛋黃組</a>＠<a href="../Page/十人巷.md" title="wikilink">十人巷</a></p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p>099</p></td>
 <td><p>11月12日</p></td>
-<td><p><a href="../Page/馬漢華.md" title="wikilink">馬漢華</a>、<a href="../Page/潘德俊.md" title="wikilink">潘德俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬漢華" title="wikilink">馬漢華</a>、<a href="https://zh.wikipedia.org/wiki/潘德俊" title="wikilink">潘德俊</a></p></td>
 <td><p>賽車手</p></td>
 </tr>
 <tr class="odd">
@@ -679,7 +679,7 @@
 <tr class="even">
 <td><p>111</p></td>
 <td><p>11月30日</p></td>
-<td><p><a href="../Page/馬德鐘.md" title="wikilink">馬德鐘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></p></td>
 <td><p>之前警員、<a href="../Page/要員保護組.md" title="wikilink">G4分享</a></p></td>
 </tr>
 <tr class="odd">
@@ -703,7 +703,7 @@
 <tr class="even">
 <td><p>115</p></td>
 <td><p>12月4日</p></td>
-<td><p><a href="../Page/鍾嘉欣.md" title="wikilink">鍾嘉欣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></p></td>
 <td><p>玉女接班人</p></td>
 </tr>
 <tr class="odd">
@@ -742,7 +742,7 @@
 <tr class="even">
 <td><p>116</p></td>
 <td><p>12月14日</p></td>
-<td><p><a href="../Page/袁淑珍.md" title="wikilink">袁淑珍</a>、<a href="../Page/林芷筠.md" title="wikilink">林芷筠</a>、<a href="../Page/黃啟昌.md" title="wikilink">黃啟昌</a></p></td>
+<td><p><a href="../Page/袁淑珍.md" title="wikilink">袁淑珍</a>、<a href="../Page/林芷筠.md" title="wikilink">林芷筠</a>、<a href="https://zh.wikipedia.org/wiki/黃啟昌" title="wikilink">黃啟昌</a></p></td>
 <td><p>無綫配音員</p></td>
 </tr>
 <tr class="odd">
@@ -766,7 +766,7 @@
 <tr class="even">
 <td><p>120</p></td>
 <td><p>12月18日</p></td>
-<td><p><a href="../Page/林以諾.md" title="wikilink">林以諾牧師</a>、<a href="../Page/高皓正.md" title="wikilink">高皓正</a>、<a href="../Page/侯嘉明.md" title="wikilink">侯嘉明</a></p></td>
+<td><p><a href="../Page/林以諾.md" title="wikilink">林以諾牧師</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/侯嘉明.md" title="wikilink">侯嘉明</a></p></td>
 <td><p>基督教徒</p></td>
 </tr>
 <tr class="odd">
@@ -778,7 +778,7 @@
 <tr class="even">
 <td><p>122</p></td>
 <td><p>12月22日</p></td>
-<td><p><a href="../Page/岑宜輝.md" title="wikilink">岑宜輝</a>、<a href="../Page/湯珍寶.md" title="wikilink">湯珍寶</a>、<a href="../Page/陳婉祺.md" title="wikilink">陳婉祺</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岑宜輝" title="wikilink">岑宜輝</a>、<a href="https://zh.wikipedia.org/wiki/湯珍寶" title="wikilink">湯珍寶</a>、<a href="https://zh.wikipedia.org/wiki/陳婉祺" title="wikilink">陳婉祺</a></p></td>
 <td><p>補習天王天后</p></td>
 </tr>
 <tr class="odd">
@@ -790,19 +790,19 @@
 <tr class="even">
 <td><p>124</p></td>
 <td><p>12月28日</p></td>
-<td><p><a href="../Page/陳蕊蕊.md" title="wikilink">陳蕊蕊</a>、<a href="../Page/劉俐.md" title="wikilink">劉　俐</a>、<a href="../Page/王淑玲.md" title="wikilink">王淑玲</a>、<a href="../Page/關婉珊.md" title="wikilink">關婉珊</a></p></td>
+<td><p><a href="../Page/陳蕊蕊.md" title="wikilink">陳蕊蕊</a>、<a href="../Page/劉俐.md" title="wikilink">劉　俐</a>、<a href="../Page/王淑玲.md" title="wikilink">王淑玲</a>、<a href="https://zh.wikipedia.org/wiki/關婉珊" title="wikilink">關婉珊</a></p></td>
 <td><p>美味天使</p></td>
 </tr>
 <tr class="odd">
 <td><p>125</p></td>
 <td><p>12月29日</p></td>
-<td><p><a href="../Page/錢國偉_(監製).md" title="wikilink">錢國偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/錢國偉_(監製)" title="wikilink">錢國偉</a></p></td>
 <td><p>無綫監製</p></td>
 </tr>
 <tr class="even">
 <td><p>126</p></td>
 <td><p>12月30日</p></td>
-<td><p><a href="../Page/麥潔兒.md" title="wikilink">麥潔兒</a>、<a href="../Page/劉嘉麟.md" title="wikilink">劉嘉麟</a></p></td>
+<td><p><a href="../Page/麥潔兒.md" title="wikilink">麥潔兒</a>、<a href="https://zh.wikipedia.org/wiki/劉嘉麟" title="wikilink">劉嘉麟</a></p></td>
 <td><p>青年廚神</p></td>
 </tr>
 </tbody>
@@ -821,7 +821,7 @@
 <tr class="even">
 <td><p>127</p></td>
 <td><p>1月1日</p></td>
-<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a></p></td>
 <td><p>高人一等鄭元暢<br />
 嘉賓主持：<a href="../Page/胡蓓蔚.md" title="wikilink">胡蓓蔚</a></p></td>
 </tr>
@@ -858,7 +858,7 @@
 <tr class="even">
 <td><p>133</p></td>
 <td><p>1月11日</p></td>
-<td><p><a href="../Page/江富德.md" title="wikilink">江富德</a>、<a href="../Page/徐家傑.md" title="wikilink">徐家傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江富德" title="wikilink">江富德</a>、<a href="../Page/徐家傑.md" title="wikilink">徐家傑</a></p></td>
 <td><p>泰拳泰斗</p></td>
 </tr>
 <tr class="odd">
@@ -876,7 +876,7 @@
 <tr class="odd">
 <td><p>136</p></td>
 <td><p>1月14日</p></td>
-<td><p><a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a>、<a href="../Page/陳志健.md" title="wikilink">陳志健</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/黃長興.md" title="wikilink">黃長興</a></p></td>
+<td><p><a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a>、<a href="../Page/陳志健.md" title="wikilink">陳志健</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a></p></td>
 <td><p>俊俏港男四人組</p></td>
 </tr>
 <tr class="even">

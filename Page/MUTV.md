@@ -1,7 +1,7 @@
 **MUTV**（**Manchester United
-Television，曼聯電視頻道**）是由[英超聯賽球隊](../Page/英超聯賽.md "wikilink")[曼徹斯特聯隊所運營的官方電視頻道](../Page/曼徹斯特聯隊.md "wikilink")。自1998年9月10日起開始播出。播出曼聯教職員及球員的獨家專訪及曼聯的比賽等節目。在2007年11月16日，[ITV出售了其在MUTV的股份](../Page/ITV.md "wikilink")。目前MUTV的股份66.6%屬曼聯所有，33.3%屬[BSkyB](../Page/BSkyB.md "wikilink")。
+Television，曼聯電視頻道**）是由[英超聯賽球隊](https://zh.wikipedia.org/wiki/英超聯賽 "wikilink")[曼徹斯特聯隊所運營的官方電視頻道](https://zh.wikipedia.org/wiki/曼徹斯特聯隊 "wikilink")。自1998年9月10日起開始播出。播出曼聯教職員及球員的獨家專訪及曼聯的比賽等節目。在2007年11月16日，[ITV出售了其在MUTV的股份](https://zh.wikipedia.org/wiki/ITV "wikilink")。目前MUTV的股份66.6%屬曼聯所有，33.3%屬[BSkyB](https://zh.wikipedia.org/wiki/BSkyB "wikilink")。
 
-2013年1月22日，曼聯宣佈從[BSkyB收購其所有MUTV的股份](../Page/BSkyB.md "wikilink")，令MUTV成為曼聯全資擁有電視台\[1\]。
+2013年1月22日，曼聯宣佈從[BSkyB收購其所有MUTV的股份](https://zh.wikipedia.org/wiki/BSkyB "wikilink")，令MUTV成為曼聯全資擁有電視台\[1\]。
 
 ## 主要節目
 
@@ -36,7 +36,7 @@ Television，曼聯電視頻道**）是由[英超聯賽球隊](../Page/英超聯
 
 ## 參見
 
-  - [切爾西電視](../Page/切爾西電視.md "wikilink")
+  - [切爾西電視](https://zh.wikipedia.org/wiki/切爾西電視 "wikilink")
 
 <!-- end list -->
 

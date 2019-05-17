@@ -1,13 +1,13 @@
 **Gateway**（全稱：**Gateway,
-Inc.**）是[宏碁的子公司](../Page/宏碁.md "wikilink")，其前身則是[美國的科技公司](../Page/美國.md "wikilink")，成立於1985年9月5日。\[1\]\[2\]\[3\]
+Inc.**）是[宏碁的子公司](../Page/宏碁.md "wikilink")，其前身則是[美國的科技公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，成立於1985年9月5日。\[1\]\[2\]\[3\]
 
 ## 歷史
 
   - 1985年9月5日，成立Gateway 2000。
   - 1998年10月31日，更名Gateway。
-  - 2004年3月11日，收購[eMachines](../Page/eMachines.md "wikilink")。
+  - 2004年3月11日，收購[eMachines](https://zh.wikipedia.org/wiki/eMachines "wikilink")。
   - 2006年9月，eMachines收購[Packard
-    Bell](../Page/Packard_Bell.md "wikilink")。
+    Bell](https://zh.wikipedia.org/wiki/Packard_Bell "wikilink")。
   - 2007年10月16日，宏碁收購Gateway及子公司eMachines，但不包括Packard Bell。
   - 2008年1月，宏碁收購Packard Bell。
 

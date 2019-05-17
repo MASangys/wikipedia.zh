@@ -10,17 +10,18 @@ clips](../Page/A_clips.md "wikilink")》系列的第二作。本作在2002年3�
 ## 收錄內容
 
 1.  [vogue Far away
-    SEASONS](../Page/vogue_Far_away_SEASONS.md "wikilink")
+    SEASONS](https://zh.wikipedia.org/wiki/vogue_Far_away_SEASONS "wikilink")
 2.  [SURREAL](../Page/SURREAL.md "wikilink")
 3.  [M](../Page/M_\(濱崎步單曲\).md "wikilink")
-4.  [evolution](../Page/evolution_\(濱崎步單曲\).md "wikilink")
+4.  [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 5.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink") (promotional clip)
 6.  [Endless sorrow](../Page/Endless_sorrow.md "wikilink")
 7.  [UNITE\!](../Page/UNITE!.md "wikilink") (promotional clip)
 8.  [Dearest](../Page/Dearest_\(濱崎步單曲\).md "wikilink")
 9.  [Duty](../Page/Duty.md "wikilink") (TV-CM)
 10. [AUDIENCE](../Page/AUDIENCE.md "wikilink") (TV-CM)
-11. [ayu-mi-x III](../Page/ayu-mi-x_III.md "wikilink") (TV-CM)
+11. [ayu-mi-x
+    III](https://zh.wikipedia.org/wiki/ayu-mi-x_III "wikilink") (TV-CM)
 12. [A BEST](../Page/A_BEST.md "wikilink") (TV-CM)
 13. [I am...](../Page/I_am....md "wikilink") (TV-CM)
 14. [Dearest](../Page/Dearest_\(濱崎步單曲\).md "wikilink") -Acoustic Piano

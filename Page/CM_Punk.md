@@ -1,15 +1,15 @@
 [CM_Punk_WHC_SummerSlam_2008.jpg](https://zh.wikipedia.org/wiki/File:CM_Punk_WHC_SummerSlam_2008.jpg "fig:CM_Punk_WHC_SummerSlam_2008.jpg")
 
 **CM
-Punk**\[1\]，本名**菲利普·傑克·布魯克斯**（）\[2\]，是前美國[職業摔角手](../Page/職業摔角.md "wikilink")，現為[綜合格鬥選手](../Page/綜合格鬥.md "wikilink")，曾效力於[世界摔角娛樂](../Page/世界摔角娛樂.md "wikilink")（WWE），現效力於[終極格鬥錦標賽](../Page/終極格鬥錦標賽.md "wikilink")（UFC）。
+Punk**\[1\]，本名**菲利普·傑克·布魯克斯**（）\[2\]，是前美國[職業摔角手](../Page/職業摔角.md "wikilink")，現為[綜合格鬥選手](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")，曾效力於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE），現效力於[終極格鬥錦標賽](https://zh.wikipedia.org/wiki/終極格鬥錦標賽 "wikilink")（UFC）。
 
 CM Punk成長於[芝加哥](../Page/芝加哥.md "wikilink")，Punk的童年在對諸如Roddy Piper vs.
 Jimmy
 Snuka這些經典劇情的關注與熱愛中度過。激情四射的碰撞令Punk為之著迷，並堅定不移的相信終有一天世界摔角娛樂會成為他的歸屬。在2014年與[AJ
-Lee](../Page/AJ_Lee.md "wikilink")[結婚](../Page/結婚.md "wikilink")。
+Lee](https://zh.wikipedia.org/wiki/AJ_Lee "wikilink")[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")。
 
 在CM
-Punk的摔角事業中，Punk曾是6次世界冠軍（一次的[ECW冠軍](../Page/ECW世界重量級冠軍.md "wikilink")、兩次的[WWE冠軍](../Page/WWE冠軍.md "wikilink")、三次的[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")），以及一次的[世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")（與[科菲·京斯頓一次](../Page/科菲·京斯頓.md "wikilink")）、一次的[WWE洲際冠軍](../Page/WWE洲際冠軍.md "wikilink")、一次的ROH冠軍、兩次的[公事包大戰鐵梯賽優勝者](../Page/公事包大戰.md "wikilink")（2008年、2009年）。除此之外，CM
+Punk的摔角事業中，Punk曾是6次世界冠軍（一次的[ECW冠軍](https://zh.wikipedia.org/wiki/ECW世界重量級冠軍 "wikilink")、兩次的[WWE冠軍](https://zh.wikipedia.org/wiki/WWE冠軍 "wikilink")、三次的[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")），以及一次的[世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")（與[科菲·京斯頓一次](../Page/科菲·京斯頓.md "wikilink")）、一次的[WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")、一次的ROH冠軍、兩次的[公事包大戰鐵梯賽優勝者](../Page/公事包大戰.md "wikilink")（2008年、2009年）。除此之外，CM
 Punk還是3個選手中（包括[Kane和](../Page/肯恩_\(摔角手\).md "wikilink")[Big
 Show](../Page/Big_Show.md "wikilink")）擁有世界摔角娛樂4種世界冠軍的選手及第19位的[WWE三冠王](../Page/世界摔角娛樂三冠王.md "wikilink")。CM
 Punk在獨立圈摔角時就展現出了他的天賦，在ROH摔角期間，他就拿下了ROH雙打冠軍、ROH世界冠軍，而且是ROH摔角學校的第一任教練組長。2005年CM
@@ -26,24 +26,24 @@ Second City Savior）在擂台上下都獲得了大批的追隨者。
 Punk自身強大的實力，或者來源於那些狂熱信徒的擁護，甚至是擂台中犀利的言論。事實上是，CM
 Punk從未停止過以自封的傳教身份對著世界摔角娛樂全球粉絲們宣揚布道的腳步。
 
-2014年與WWE高層處的不愉快而離職，約滿後轉入[UFC](../Page/UFC.md "wikilink")。
+2014年與WWE高層處的不愉快而離職，約滿後轉入[UFC](https://zh.wikipedia.org/wiki/UFC "wikilink")。
 
 ## 冠軍與成就
 
-### [世界摔角娛樂](../Page/世界摔角娛樂.md "wikilink")
+### [世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")
 
-  - [ECW冠軍](../Page/ECW世界重量級冠軍.md "wikilink")（1次）
-  - [WWE冠軍](../Page/WWE冠軍.md "wikilink")（2次）
+  - [ECW冠軍](https://zh.wikipedia.org/wiki/ECW世界重量級冠軍 "wikilink")（1次）
+  - [WWE冠軍](https://zh.wikipedia.org/wiki/WWE冠軍 "wikilink")（2次）
   - [世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")（3次）
   - [世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")（1次）
     （與[科菲·京斯頓一次](../Page/科菲·京斯頓.md "wikilink")）
-  - [WWE洲際冠軍](../Page/WWE洲際冠軍.md "wikilink")（1次）
-  - [公事包大戰鐵梯賽](../Page/公事包大戰.md "wikilink")[SmackDown部分優勝者](../Page/WWE_Friday_Night_SmackDown!.md "wikilink")（2次，2008年、2009年）
+  - [WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")（1次）
+  - [公事包大戰鐵梯賽](../Page/公事包大戰.md "wikilink")[SmackDown部分優勝者](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")（2次，2008年、2009年）
 
-### [其他](../Page/其他.md "wikilink")
+### [其他](https://zh.wikipedia.org/wiki/其他 "wikilink")
 
-  - [ROH雙打冠軍](../Page/ROH.md "wikilink")
-  - [ROH世界冠軍](../Page/ROH.md "wikilink")
+  - [ROH雙打冠軍](https://zh.wikipedia.org/wiki/ROH "wikilink")
+  - [ROH世界冠軍](https://zh.wikipedia.org/wiki/ROH "wikilink")
   - PWI \#1 (2012年)
 
 ## 參考資料

@@ -1,13 +1,14 @@
 **KMess** 是[Windows Live
 Messenger即时通讯客户端的Linux版本替代品](../Page/Windows_Live_Messenger.md "wikilink")。它提供其用户透过[.NET
 Messenger
-Service与朋友聊天](../Page/.NET_Messenger_Service.md "wikilink")，不论是使用[Windows
+Service与朋友聊天](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")，不论是使用[Windows
 Live Messenger或](../Page/Windows_Live_Messenger.md "wikilink")[Microsoft
 Messenger for
 Mac版本](../Page/Microsoft_Messenger_for_Mac.md "wikilink")。KMess的能力是其融入[KDE桌面环境](../Page/KDE.md "wikilink")，把重点放在Windows
 Live Messenger的具体功能和易於使用的界面。
 
-和许多Linux和KDE的应用程序一样， KMess是[GPL授权下的自由软件](../Page/GPL.md "wikilink")。
+和许多Linux和KDE的应用程序一样，
+KMess是[GPL授权下的自由软件](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 特点
 
@@ -56,5 +57,5 @@ Live Messenger的具体功能和易於使用的界面。
 [Category:自由的即时通讯软件](https://zh.wikipedia.org/wiki/Category:自由的即时通讯软件 "wikilink")
 
 1.  KMess supports Amarok 1.x, JuK, KsCD and any other player supporting
-    [MPRIS](../Page/MPRIS.md "wikilink"), which includes: Amarok 2.x,
-    VLC, XMMS, Qmmp...
+    [MPRIS](https://zh.wikipedia.org/wiki/MPRIS "wikilink"), which
+    includes: Amarok 2.x, VLC, XMMS, Qmmp...

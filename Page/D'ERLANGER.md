@@ -2,10 +2,10 @@
 
 ## 历史
 
-80年代末90年代初，日本涌现大量深受欧美[重金屬樂和](../Page/重金屬樂.md "wikilink")[华丽摇滚影响的乐队](../Page/華麗搖滾.md "wikilink")。他们大多造型浮夸，舞台表现出格，音乐风格以[金属](../Page/金属乐队.md "wikilink")、[摇滚](../Page/摇滚.md "wikilink")、[朋克为主](../Page/龐克.md "wikilink")。[BUCK-TICK](../Page/花火師.md "wikilink")、[X
+80年代末90年代初，日本涌现大量深受欧美[重金屬樂和](https://zh.wikipedia.org/wiki/重金屬樂 "wikilink")[华丽摇滚影响的乐队](../Page/華麗搖滾.md "wikilink")。他们大多造型浮夸，舞台表现出格，音乐风格以[金属](../Page/金属乐队.md "wikilink")、[摇滚](../Page/摇滚.md "wikilink")、[朋克为主](https://zh.wikipedia.org/wiki/龐克 "wikilink")。[BUCK-TICK](../Page/花火師.md "wikilink")、[X
 JAPAN](../Page/X_Japan.md "wikilink")、D'ERLANGER、DEAD
 END（按结成顺序排列）等便是其中翘楚。后来该风格被[X
-JAPAN的吉他手](../Page/X_Japan.md "wikilink")[hide定义为视觉系摇滚](../Page/hide.md "wikilink")。上述乐队可以说是奠定了视觉系乐队的基石，因而虽然在他们出道时还没有“视觉系”这一概念，还是常被冠以视觉系乐队鼻祖的称呼。视觉系一词本身很难用于定义一种音乐类型，将其作为一种表现形式或是文化来理解也许更为合适。
+JAPAN的吉他手](../Page/X_Japan.md "wikilink")[hide定义为视觉系摇滚](https://zh.wikipedia.org/wiki/hide "wikilink")。上述乐队可以说是奠定了视觉系乐队的基石，因而虽然在他们出道时还没有“视觉系”这一概念，还是常被冠以视觉系乐队鼻祖的称呼。视觉系一词本身很难用于定义一种音乐类型，将其作为一种表现形式或是文化来理解也许更为合适。
 
 1983年，D'ERLANGER由吉他手CIPHER和贝斯手SEELA在京都结成。地下乐队时代的专辑《玫瑰人生》（《LA VIE EN
 ROSE》）便取得了5万张的惊人销量，在当时实属罕见。
@@ -25,15 +25,15 @@ JAPAN年的话](../Page/X_Japan.md "wikilink")，那么1990年就将是D'ERLANGE
 团名由吉他手CIPHER命名，根据团员的说法，意思是法语的“淫靡的诱惑”。然而在法语大字典中并没有“ERLANGER”一词（D'从法语语法来看应是介词）。
 和[X JAPAN由于出道时期接近](../Page/X_Japan.md "wikilink"),不少成员曾有交集。
 主唱kyo和鼓手Tetsu曾在SAVER
-TIGER与[hide共事](../Page/hide.md "wikilink")。
+TIGER与[hide共事](https://zh.wikipedia.org/wiki/hide "wikilink")。
 Tetsu和[TAIJI也曾在Dead](../Page/澤田泰司.md "wikilink") Wire共事。
 和[L'Arc\~en\~Ciel因是同公司的前后辈](../Page/彩虹乐团.md "wikilink")，也有很深的渊源。
-比较有趣的是，[yukihiro在还是ZI](../Page/yukihiro.md "wikilink")：KILL的鼓手时曾表示仰慕的前辈是D'ERLANGER的Tetsu。D'ERLANGER解散后Tetsu作为yukihiro的后继鼓手加入ZI：KILL，而[yukihiro则和kyo一起组成了DIE](../Page/yukihiro.md "wikilink")
+比较有趣的是，[yukihiro在还是ZI](https://zh.wikipedia.org/wiki/yukihiro "wikilink")：KILL的鼓手时曾表示仰慕的前辈是D'ERLANGER的Tetsu。D'ERLANGER解散后Tetsu作为yukihiro的后继鼓手加入ZI：KILL，而[yukihiro则和kyo一起组成了DIE](https://zh.wikipedia.org/wiki/yukihiro "wikilink")
 IN CRIES。
 
 ## 影响
 
-许多后辈视觉系乐队成员因深受他们影响而踏上音乐道路。[yukihiro](../Page/yukihiro.md "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[hyde](../Page/hyde.md "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[INORAN](../Page/INORAN.md "wikilink")（[LUNA
+许多后辈视觉系乐队成员因深受他们影响而踏上音乐道路。[yukihiro](https://zh.wikipedia.org/wiki/yukihiro "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink")（[LUNA
 SEA](../Page/月之海.md "wikilink")）、樱井青（cali≠gari）、[HISASHI](../Page/Hisashi.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）、Die([DIR
 EN
 GREY](../Page/Dir_en_grey.md "wikilink"))、Karyu（Angelo）、ミヤ（[MUCC](../Page/MUCC.md "wikilink")）、逹瑯（[MUCC](../Page/MUCC.md "wikilink")）等后辈音乐人（按年龄顺序排列）都曾公开表达过自己对D'ERLANGER的喜爱和憧憬。
@@ -96,10 +96,10 @@ GREY](../Page/Dir_en_grey.md "wikilink"))便是其一。Die在某次访谈中提
 
 ### 参与TRIBUTE专辑
 
-| 发行日         | 专辑名称                                                                                                      | 参与曲目       |
-| ----------- | --------------------------------------------------------------------------------------------------------- | ---------- |
-| 2012年7月4日   | [BUCK-TICK](../Page/BUCK-TICK.md "wikilink") TRIBUTE ALBUM 「PARADE II \~RESPECTIVE TRACKS OF BUCK-TICK\~」 | ICONOCLASM |
-| 2013年12月18日 | [hide](../Page/hide.md "wikilink") TRIBUTE SPIRITS VII -ROCK SPIRITS-                                     | 限界破裂       |
+| 发行日         | 专辑名称                                                                                                                         | 参与曲目       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 2012年7月4日   | [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink") TRIBUTE ALBUM 「PARADE II \~RESPECTIVE TRACKS OF BUCK-TICK\~」 | ICONOCLASM |
+| 2013年12月18日 | [hide](https://zh.wikipedia.org/wiki/hide "wikilink") TRIBUTE SPIRITS VII -ROCK SPIRITS-                                     | 限界破裂       |
 
 ## 影像制品
 

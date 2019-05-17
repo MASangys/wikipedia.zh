@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                  |
 
 **GN-007 墮天使GUNDAM（Arios
-Gundam）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由阿雷路亞·帕普提茲姆所駕駛。
 
@@ -28,14 +28,14 @@ Suit），由阿雷路亞·帕普提茲姆所駕駛。
 主天使GUNDAM的後繼機](../Page/GN-003_主天使GUNDAM.md "wikilink")，同為高速空戰可變型的機體，但基本性能較前一代更為提高。
 
 於飛行形態時可與另一機體——[GNR-101A
-GN弓兵戰機合體](../Page/GNR-101A_GN弓兵戰機.md "wikilink")，合體後稱為「射手墮天使GUNDAM」。
+GN弓兵戰機合體](https://zh.wikipedia.org/wiki/GNR-101A_GN弓兵戰機 "wikilink")，合體後稱為「射手墮天使GUNDAM」。
 
   - 名稱由來
 
 <!-- end list -->
 
   -
-    名稱源自於「[墮天使](../Page/惡魔.md "wikilink")（Arioch）」。
+    名稱源自於「[墮天使](https://zh.wikipedia.org/wiki/惡魔 "wikilink")（Arioch）」。
 
 ## 重要戰鬥史
 
@@ -62,7 +62,7 @@ GN弓兵戰機合體](../Page/GNR-101A_GN弓兵戰機.md "wikilink")，合體後
 <!-- end list -->
 
   -
-    阿雷路亞再次與哈雷路亞人格二合為一並與變革者機體「加萊佐」交戰，把其背部核心戰機拔除後再以MA型態的大型勾爪挾毀敵機，但不久遭[再生GUNDAM以GN翅片獠牙重創](../Page/再生GUNDAM.md "wikilink")。
+    阿雷路亞再次與哈雷路亞人格二合為一並與變革者機體「加萊佐」交戰，把其背部核心戰機拔除後再以MA型態的大型勾爪挾毀敵機，但不久遭[再生GUNDAM以GN翅片獠牙重創](https://zh.wikipedia.org/wiki/再生GUNDAM "wikilink")。
 
 ## 武裝
 
@@ -278,6 +278,6 @@ GNHW/M。
 
   - [機動戰士GUNDAM 00 登場機體列表](../Page/機動戰士GUNDAM_00_登場機體列表.md "wikilink")
 
-[ja:機動戦士ガンダム00シリーズの登場兵器\#第4世代ガンダム](../Page/ja:機動戦士ガンダム00シリーズの登場兵器#第4世代ガンダム.md "wikilink")
+[ja:機動戦士ガンダム00シリーズの登場兵器\#第4世代ガンダム](https://zh.wikipedia.org/wiki/ja:機動戦士ガンダム00シリーズの登場兵器#第4世代ガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

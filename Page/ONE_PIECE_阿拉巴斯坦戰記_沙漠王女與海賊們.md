@@ -1,12 +1,12 @@
 《**ONE PIECE 阿拉巴斯坦戰記 沙漠王女與海賊們**》是於2007年上映的第八部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 製作
 
 《ONE
 PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦王國篇](../Page/阿拉巴斯坦王國.md "wikilink")」電影化，重新繪製成這套劇場版，和過去強調「娛樂」的劇場版不同，本篇強調的是「感動」。
 
-上映結束後，觀眾可以看到[草帽海賊團](../Page/草帽海賊團.md "wikilink")（包括沒有出現的[佛朗基等](../Page/佛朗基.md "wikilink")8人）的懸賞單及下一套劇場版的預告；而[妮可·羅賓的回憶篇亦會在電影近尾聲時出現](../Page/妮可·羅賓.md "wikilink")（包括哈古瓦爾·D·薩烏羅的登場）。
+上映結束後，觀眾可以看到[草帽海賊團](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")（包括沒有出現的[佛朗基等](../Page/佛朗基.md "wikilink")8人）的懸賞單及下一套劇場版的預告；而[妮可·羅賓的回憶篇亦會在電影近尾聲時出現](../Page/妮可·羅賓.md "wikilink")（包括哈古瓦爾·D·薩烏羅的登場）。
 
 ## 劇情
 
@@ -35,14 +35,14 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <td><p>香港</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/草帽海賊團.md" title="wikilink">草帽海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
@@ -60,14 +60,14 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/阿拉巴斯坦王國.md" title="wikilink">阿拉巴斯坦王國</a></p></td>
@@ -75,9 +75,9 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/娜菲鲁塔利·薇薇.md" title="wikilink">娜菲鲁塔利·薇薇</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/娜菲鲁塔利·薇薇" title="wikilink">娜菲鲁塔利·薇薇</a></p></td>
 <td><p><a href="../Page/渡邊美佐.md" title="wikilink">渡邊美佐</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''跑得快</p></td>
@@ -101,7 +101,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 </tr>
 <tr class="odd">
 <td><p>'''加卡</p></td>
-<td><p><a href="../Page/植村喜八郎.md" title="wikilink">植村喜八郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/植村喜八郎" title="wikilink">植村喜八郎</a></p></td>
 <td><p><a href="../Page/李香生.md" title="wikilink">李香生</a></p></td>
 </tr>
 <tr class="even">
@@ -111,7 +111,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 </tr>
 <tr class="odd">
 <td><p>'''寇布拉</p></td>
-<td><p><a href="../Page/家弓家正.md" title="wikilink">家弓家正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/家弓家正" title="wikilink">家弓家正</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
@@ -121,7 +121,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 </tr>
 <tr class="odd">
 <td><p><strong>卡巴</strong></p></td>
-<td><p><a href="../Page/野田順子.md" title="wikilink">野田順子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/野田順子" title="wikilink">野田順子</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="even">
@@ -130,7 +130,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -152,7 +152,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 </tr>
 <tr class="odd">
 <td><p>'''Mr.1</p></td>
-<td><p><a href="../Page/稲田徹.md" title="wikilink">稲田徹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/稲田徹" title="wikilink">稲田徹</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
@@ -168,7 +168,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <tr class="even">
 <td><p>'''Miss 聖誕節</p></td>
 <td><p><a href="../Page/金月真美.md" title="wikilink">金月真美</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''Mr.7</p></td>
@@ -213,22 +213,23 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 
 ## 工作人員
 
-  - 原作：[尾田榮一郎](../Page/尾田榮一郎.md "wikilink")
+  - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
   - 監督：今村隆寛
   - 企劃：清水慎治
   - 脚本：上坂浩彦
-  - 分鏡：[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")、横山健次、[井上栄作](../Page/井上栄作.md "wikilink")、今村隆寛、[大塚健](../Page/大塚健.md "wikilink")
+  - 分鏡：[宇田鋼之介](https://zh.wikipedia.org/wiki/宇田鋼之介 "wikilink")、横山健次、[井上栄作](https://zh.wikipedia.org/wiki/井上栄作 "wikilink")、今村隆寛、[大塚健](https://zh.wikipedia.org/wiki/大塚健 "wikilink")
   - 人物設計、作畫監督：井上榮作
-  - 作畫監督輔佐：[舘直樹](../Page/舘直樹.md "wikilink")、井出武生、[田中宏紀](../Page/田中宏紀.md "wikilink")、[西田達三](../Page/西田達三.md "wikilink")
+  - 作畫監督輔佐：[舘直樹](https://zh.wikipedia.org/wiki/舘直樹 "wikilink")、井出武生、[田中宏紀](https://zh.wikipedia.org/wiki/田中宏紀 "wikilink")、[西田達三](https://zh.wikipedia.org/wiki/西田達三 "wikilink")
   - 美術監督：吉池隆司
   - 音樂：[田中公平](../Page/田中公平.md "wikilink")
   - 配給：[東映](../Page/東映.md "wikilink")
 
 ## 音樂
 
-  - 「[compass](../Page/compass_\(曲\).md "wikilink")」
+  - 「[compass](https://zh.wikipedia.org/wiki/compass_\(曲\) "wikilink")」
     作詞・作曲：[川嶋愛](../Page/川嶋愛.md "wikilink") /
-    編曲：[宗本康兵](../Page/宗本康兵.md "wikilink") / 歌：川嶋愛
+    編曲：[宗本康兵](https://zh.wikipedia.org/wiki/宗本康兵 "wikilink")
+    / 歌：川嶋愛
 
 ## 外部連結
 

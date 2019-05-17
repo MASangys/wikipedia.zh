@@ -1,5 +1,5 @@
 《**Close
-Up**》是[陳柏宇的首張](../Page/陳柏宇.md "wikilink")[EP](../Page/EP.md "wikilink")，亦是他第三張個人專輯，於2009年5月13日推出。專輯的第一派台歌以及第一主打歌是《I
+Up**》是[陳柏宇的首張](../Page/陳柏宇.md "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，亦是他第三張個人專輯，於2009年5月13日推出。專輯的第一派台歌以及第一主打歌是《I
 Will Be Loving You》，而第二主打歌是《你瞞我瞞》，而第三主打歌則為《逸後》。
 
 ## 曲目

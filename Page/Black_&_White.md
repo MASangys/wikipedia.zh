@@ -3,7 +3,7 @@ White**》，中国大陆地区称《**黑与白新歌＋精选**》，是由香
 
 ## 介绍
 
-本专辑虽然是一张精选集，但张学友此次摈弃以往只选入主打歌的风格，转而精选一些往往被忽视的歌曲，并对其重新定量编曲\[1\]。除了张学友亲自精选的歌曲外，本专辑还包括五首新歌：《[如果不爱你](../Page/如果不爱你.md "wikilink")》、《[忘了哭](../Page/忘了哭.md "wikilink")》、《[黑白画映](../Page/黑白画映.md "wikilink")》、《[我不明白](../Page/我不明白.md "wikilink")》和《[Sorry](../Page/Sorry.md "wikilink")》\[2\]。
+本专辑虽然是一张精选集，但张学友此次摈弃以往只选入主打歌的风格，转而精选一些往往被忽视的歌曲，并对其重新定量编曲\[1\]。除了张学友亲自精选的歌曲外，本专辑还包括五首新歌：《[如果不爱你](https://zh.wikipedia.org/wiki/如果不爱你 "wikilink")》、《[忘了哭](https://zh.wikipedia.org/wiki/忘了哭 "wikilink")》、《[黑白画映](https://zh.wikipedia.org/wiki/黑白画映 "wikilink")》、《[我不明白](https://zh.wikipedia.org/wiki/我不明白 "wikilink")》和《[Sorry](https://zh.wikipedia.org/wiki/Sorry "wikilink")》\[2\]。
 
 除了21首精选歌曲、5首新歌外，本专辑还包括10首MV\[3\]。
 

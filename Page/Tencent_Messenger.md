@@ -1,11 +1,11 @@
 {{ OftenUpdate }}   **Tencent
-Messenger**，简称为**TM**（另有叫法为“腾讯TM”）。TM和[QQ一样](../Page/QQ.md "wikilink")，都是由[深圳](../Page/深圳.md "wikilink")[腾讯公司](../Page/腾讯公司.md "wikilink")（）推出的免费[即时通讯软件](../Page/即时通讯.md "wikilink")，可与QQ互联互通。
+Messenger**，简称为**TM**（另有叫法为“腾讯TM”）。TM和[QQ一样](https://zh.wikipedia.org/wiki/QQ "wikilink")，都是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）推出的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，可与QQ互联互通。
 
 ## 开发历史
 
-TM开发的初衷是[腾讯公司为了与当时](../Page/腾讯.md "wikilink")[微软公司的](../Page/微软公司.md "wikilink")[MSN
-Messenger](../Page/MSN_Messenger.md "wikilink")（现在的[Windows Live
-Messenger](../Page/Windows_Live_Messenger.md "wikilink")）抗衡而推出的。
+TM开发的初衷是[腾讯公司为了与当时](../Page/腾讯.md "wikilink")[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[MSN
+Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")（现在的[Windows
+Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")）抗衡而推出的。
 
 由于侧重于办公/商用环境，因此TM和QQ相比只具有最基本也是最本质的通讯功能（包含文字聊天、音频/视频聊天、文件传送），在界面上力求简单朴实。
 
@@ -23,7 +23,7 @@ TM 2009 Beta ，和使用 TM 2008架构的 QQ 2009 上已解决。
 
 ## 现状
 
-由于[MSN进入中国大陆市场后的表现并不如外界预期的良好](../Page/MSN.md "wikilink")，[腾讯QQ在中国大陆](../Page/腾讯QQ.md "wikilink")[即时通信](../Page/即时通信.md "wikilink")（[IM](../Page/IM.md "wikilink")）市场第一的地位没有动摇，作为对抗MSN而推出的产品，TM受到的重视程度下降。这也造成TM开发进度缓慢。
+由于[MSN进入中国大陆市场后的表现并不如外界预期的良好](../Page/MSN.md "wikilink")，[腾讯QQ在中国大陆](../Page/腾讯QQ.md "wikilink")[即时通信](https://zh.wikipedia.org/wiki/即时通信 "wikilink")（[IM](https://zh.wikipedia.org/wiki/IM "wikilink")）市场第一的地位没有动摇，作为对抗MSN而推出的产品，TM受到的重视程度下降。这也造成TM开发进度缓慢。
 
 另一方面，由于TM无广告，亦无会员特色项目（诸如QQ秀之类），若TM大规模取代QQ，则腾讯的经济收入也受到影响，因此腾讯对TM的推广态度由积极转为低调。种种原因造成TM在中国大陆的知名度和市场占有率远不如QQ，即使TM在资源占用、界面布局等方面均优于同一时期的QQ。
 
@@ -33,7 +33,7 @@ TM 2009 Beta ，和使用 TM 2008架构的 QQ 2009 上已解决。
 ## 趋势
 
 腾讯在QQ2009
-Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布的TM2008的[内核以及](../Page/内核.md "wikilink")[界面](../Page/界面.md "wikilink")，腾讯为了解决饱受批评的旧版QQ资源占用大、运行速度慢的问题而彻底转向了TM2008内核架构，未来的趋势是QQ与TM的融合，不过两者的市场定位略有差异（TM偏向办公，QQ偏向娱乐），短期内不会合二为一。另外，从TM2008的图标改变也说明了两者的融合趋势。
+Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布的TM2008的[内核以及](../Page/内核.md "wikilink")[界面](https://zh.wikipedia.org/wiki/界面 "wikilink")，腾讯为了解决饱受批评的旧版QQ资源占用大、运行速度慢的问题而彻底转向了TM2008内核架构，未来的趋势是QQ与TM的融合，不过两者的市场定位略有差异（TM偏向办公，QQ偏向娱乐），短期内不会合二为一。另外，从TM2008的图标改变也说明了两者的融合趋势。
 
 ## 历次版本
 
@@ -120,7 +120,7 @@ Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布
 
 ## 优点
 
-  - 由于采用了相同的通信[协议](../Page/协议.md "wikilink")，能与QQ完美互通
+  - 由于采用了相同的通信[协议](https://zh.wikipedia.org/wiki/协议 "wikilink")，能与QQ完美互通
   - 无冗余功能、无广告
   - 体积小巧
   - 不修改启动项、不会添加项目到[Internet
@@ -135,7 +135,7 @@ Preview（2008年1月9日发布）中使用了早先（2007年8月15日）发布
 
 ## 参见
 
-  - [即时通讯软件列表](../Page/即时通讯软件列表.md "wikilink")
+  - [即时通讯软件列表](https://zh.wikipedia.org/wiki/即时通讯软件列表 "wikilink")
   - [即时通讯软件比较](../Page/即时通讯软件比较.md "wikilink")
 
 ## 参考资料

@@ -18,16 +18,16 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2003年4月</p></td>
-<td><p><a href="../Page/尾田榮一郎.md" title="wikilink">尾田榮一郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尾田榮一郎" title="wikilink">尾田榮一郎</a></p></td>
 <td><p>佳作+十二傑賞</p></td>
 <td><p>黄金の暁 -GOLDEN DAWN-</p></td>
 <td><p>岩本直輝</p></td>
-<td><p><a href="../Page/赤丸JUMP.md" title="wikilink">赤丸JUMP</a> 2003SUMMER</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤丸JUMP" title="wikilink">赤丸JUMP</a> 2003SUMMER</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2003年5月</p></td>
-<td><p><a href="../Page/森田まさのり.md" title="wikilink">森田まさのり</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/森田まさのり" title="wikilink">森田まさのり</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>HEAVY SPRAY</p></td>
 <td><p>相模恒大</p></td>
@@ -73,19 +73,19 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2003年10月</p></td>
-<td><p><a href="../Page/久保帶人.md" title="wikilink">久保帶人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保帶人" title="wikilink">久保帶人</a></p></td>
 <td><p>佳作+十二傑賞</p></td>
 <td><p>遊蕩☆法師</p></td>
 <td><p>里谷竜希</p></td>
-<td><p><a href="../Page/青丸JUMP.md" title="wikilink">青丸JUMP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青丸JUMP" title="wikilink">青丸JUMP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2003年11月</p></td>
-<td><p><a href="../Page/鈴木信也.md" title="wikilink">鈴木信也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木信也" title="wikilink">鈴木信也</a></p></td>
 <td><p>佳作+十二傑賞</p></td>
-<td><p><a href="../Page/K.O.SEN#同時収録作品.md" title="wikilink">福輪術-ふくわじゅつ-</a></p></td>
-<td><p><a href="../Page/村瀬克俊.md" title="wikilink">村瀬克俊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/K.O.SEN#同時収録作品" title="wikilink">福輪術-ふくわじゅつ-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村瀬克俊" title="wikilink">村瀬克俊</a></p></td>
 <td><p>青丸JUMP</p></td>
 </tr>
 <tr class="odd">
@@ -100,7 +100,7 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2004年1月</p></td>
-<td><p><a href="../Page/岸本斉史.md" title="wikilink">岸本斉史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本斉史" title="wikilink">岸本斉史</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>リアクション</p></td>
 <td></td>
@@ -120,7 +120,7 @@
 <td><p>2004年3月</p></td>
 <td><p><a href="../Page/河下水希.md" title="wikilink">河下水希</a></p></td>
 <td><p>準入選+十二傑賞</p></td>
-<td><p><a href="../Page/魔人偵探腦嚙涅羅.md" title="wikilink">魔人偵探腦嚙涅羅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅" title="wikilink">魔人偵探腦嚙涅羅</a></p></td>
 <td><p><a href="../Page/松井優征.md" title="wikilink">松井優征</a></p></td>
 <td><p>赤丸JUMP 2004SUMMER</p></td>
 </tr>
@@ -139,13 +139,13 @@
 <td><p><a href="../Page/小畑健.md" title="wikilink">小畑健</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>師匠とぼく</p></td>
-<td><p><a href="../Page/川口幸範.md" title="wikilink">川口幸範</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川口幸範" title="wikilink">川口幸範</a></p></td>
 <td><p>週刊少年Jump 2004年51号</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2004年5月</p></td>
-<td><p><a href="../Page/荒木飛呂彦.md" title="wikilink">荒木飛呂彦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/荒木飛呂彦" title="wikilink">荒木飛呂彦</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>カミさまの手</p></td>
 <td><p>高橋英里<br />
@@ -220,8 +220,8 @@
 <td><p>2004年12月</p></td>
 <td><p><a href="../Page/大場鶇.md" title="wikilink">大場鶇</a></p></td>
 <td><p>十二傑賞</p></td>
-<td><p><a href="../Page/斬_(漫画).md" title="wikilink">斬</a></p></td>
-<td><p><a href="../Page/杉田尚.md" title="wikilink">杉田尚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斬_(漫画)" title="wikilink">斬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杉田尚" title="wikilink">杉田尚</a></p></td>
 <td><p>週刊少年Jump 2005年15号</p></td>
 </tr>
 <tr class="even">
@@ -269,7 +269,7 @@
 <td><p>レマ宇宙探検隊</p></td>
 <td><p>LUHEN<br />
 （東元俊也）</p></td>
-<td><p><a href="../Page/Go!_Go!Jump.md" title="wikilink">Go! Go!Jump</a> 2006</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Go!_Go!Jump" title="wikilink">Go! Go!Jump</a> 2006</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
@@ -293,7 +293,7 @@
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>2005年8月</p></td>
-<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>刀無</p></td>
 <td><p>平方昌宏</p></td>
@@ -314,7 +314,7 @@
 <td><p>久保帯人</p></td>
 <td><p>十二傑賞</p></td>
 <td><p>ロレンツォのヴァイオリン</p></td>
-<td><p><a href="../Page/木下聡志.md" title="wikilink">木下聡志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木下聡志" title="wikilink">木下聡志</a></p></td>
 <td><p>赤丸JUMP 2006SPRING</p></td>
 </tr>
 <tr class="even">
@@ -332,13 +332,13 @@
 <td><p>大場鶇</p></td>
 <td><p>十二傑賞</p></td>
 <td><p>花咲か姫</p></td>
-<td><p><a href="../Page/藍本松.md" title="wikilink">藍本松</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藍本松" title="wikilink">藍本松</a></p></td>
 <td><p>赤丸JUMP 2006SUMMER</p></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>2006年1月</p></td>
-<td><p><a href="../Page/西義之.md" title="wikilink">西義之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西義之" title="wikilink">西義之</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>牙になる</p></td>
 <td><p>附田祐斗</p></td>
@@ -359,7 +359,7 @@
 <td><p>空知英秋</p></td>
 <td><p>十二傑賞</p></td>
 <td><p>モンスタージャングル</p></td>
-<td><p><a href="../Page/さとうまなぶ.md" title="wikilink">さとうまなぶ</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/さとうまなぶ" title="wikilink">さとうまなぶ</a></p></td>
 <td><p>Go! Go!Jump 2007</p></td>
 </tr>
 <tr class="odd">
@@ -393,7 +393,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p>2006年7月</p></td>
-<td><p><a href="../Page/大亜門.md" title="wikilink">大亜門</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大亜門" title="wikilink">大亜門</a></p></td>
 <td><p>十二傑賞</p></td>
 <td><p>金と血</p></td>
 <td><p>平浜矢陸</p></td>
@@ -431,7 +431,7 @@
 <td><p>2006年11月</p></td>
 <td><p>矢吹健太朗</p></td>
 <td><p>十二傑賞</p></td>
-<td><p><a href="../Page/影子籃球員.md" title="wikilink">影子籃球員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影子籃球員" title="wikilink">影子籃球員</a></p></td>
 <td><p><a href="../Page/藤卷忠俊.md" title="wikilink">藤卷忠俊</a></p></td>
 <td><p>赤丸JUMP 2007SPRING</p></td>
 </tr>

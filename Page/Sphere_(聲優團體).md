@@ -1,5 +1,5 @@
 **sphere**（）是[Music
-Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](../Page/聲優組合.md "wikilink")。所屬唱片公司為[GloryHeaven](../Page/GloryHeaven.md "wikilink")（[Lantis](../Page/Lantis.md "wikilink")）。
+Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[GloryHeaven](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")（[Lantis](../Page/Lantis.md "wikilink")）。
 
 ## 成员
 
@@ -18,9 +18,9 @@ Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wi
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/寿美菜子.md" title="wikilink">寿美菜子</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/寿美菜子" title="wikilink">寿美菜子</a></strong></p></td>
 <td><p>1991年9月17日</p></td>
-<td><p><a href="../Page/兵庫縣.md" title="wikilink">兵庫縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a></p></td>
 <td><p>戶松和高垣之間</p></td>
 <td><p><a href="../Page/紫色.md" title="wikilink">紫色</a></p></td>
 <td><p><a href="../Page/藍色.md" title="wikilink">藍色</a></p></td>
@@ -30,11 +30,11 @@ Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wi
 <td><p>1985年10月25日</p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p>壽和豐崎之間</p></td>
-<td><p><a href="../Page/粉紅色.md" title="wikilink">粉紅色</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/粉紅色" title="wikilink">粉紅色</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/戶松遥.md" title="wikilink">戶松遥</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/戶松遥" title="wikilink">戶松遥</a></strong></p></td>
 <td><p>1990年2月4日</p></td>
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
 <td><p>舞台左方</p></td>
@@ -44,7 +44,7 @@ Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wi
 <tr class="even">
 <td><p><strong><a href="../Page/豐崎愛生.md" title="wikilink">豐崎愛生</a></strong></p></td>
 <td><p>1986年10月28日</p></td>
-<td><p><a href="../Page/德島縣.md" title="wikilink">德島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣</a></p></td>
 <td><p>舞台右方</p></td>
 <td><p><a href="../Page/綠色.md" title="wikilink">綠色</a></p></td>
 <td></td>
@@ -68,7 +68,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
   - 2月15日 - 在《Music Ray'n girls 春的巧克力節》正式發表結成宣言。
   - 3月4日 - 第一個冠上團體名義（）的廣播節目《Pl@net
-    Sphere》，在[網路電台](../Page/網路電台.md "wikilink")（）正式放送。
+    Sphere》，在[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")（）正式放送。
   - 4月22日 - 生涯首張單曲《[Future
     Stream](../Page/Future_Stream.md "wikilink")》發行，正式宣告出道。
   - 5月17日 - 生涯第一場live演唱會《sphere 1st Stream 〜sphere與動畫的音樂會〜》正式舉辦。
@@ -78,7 +78,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
   - 9月27日 - 參加在[富士急高原樂園舉行的夏日祭](../Page/富士急高原樂園.md "wikilink")。
   - 10月13日 - 手機版官方網站《》正式開張。
   - 11月25日 - 單曲《[收集群風/Brave my
-    heart](../Page/收集群風/Brave_my_heart.md "wikilink")》發售。
+    heart](https://zh.wikipedia.org/wiki/收集群風/Brave_my_heart "wikilink")》發售。
   - 12月23日 -
     專輯《[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")》發售。
 
@@ -97,7 +97,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
     loading...SKY\!\!](../Page/Now_loading...SKY!!.md "wikilink")》發售。
   - 8月28日 - 參加[埼玉超級競技場舉行的](../Page/埼玉超級競技場.md "wikilink")《[Animelo
     Summer Live 2010
-    -evolution-](../Page/Animelo_Summer_Live#2010年.md "wikilink")》。
+    -evolution-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2010年 "wikilink")》。
   - 10月20日 - 單曲《Moon Signal》發售。
   - 11月23日 - live演唱會《sphere LIVE 2010「sphere ON LOVE,ON 日本武道館」》正式舉辦。
 
@@ -131,12 +131,12 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
   - 3月14日 - 演唱會BD\&DVD 《sphere live 2011 Athletic Harmonies Dangerous
     Stage》及《sphere live 2011 Athletic Harmonies Climax Stage》發售。
   - 3月19日 - 手機版官方網站《Music
-    Ray'n☆モバイル》支援以[智能手機瀏覽](../Page/智能手機.md "wikilink")。
+    Ray'n☆モバイル》支援以[智能手機瀏覽](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
   - 4月15日 - 巡迴演唱會『Sphere's orbit live tour 2012』於名古屋開展。
   - 4月25日 - 單曲《Non stop road/明日への帰り》發售。
   - 7月11日 - 第三張專輯《Third Planet》發行。
   - 11月7日 - 單曲《[Pride on
-    everyday](../Page/Pride_on_everyday.md "wikilink")》發售。
+    everyday](https://zh.wikipedia.org/wiki/Pride_on_everyday "wikilink")》發售。
   - 11月11日 - 出演Anime Festival Asia Singapore 2012。
 
 <!-- end list -->
@@ -148,7 +148,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
   - 3月27日 - 演唱會BD《Sphere's orbit live tour 2012 FINAL SPECIAL STAGE》發售。
   - 5月1日 - 單曲《[GENESIS ARIA](../Page/GENESIS_ARIA.md "wikilink")》發售。
   - 8月25日 - 出演《[Animelo Summer Live 2013 -FLAG
-    NINE-](../Page/Animelo_Summer_Live_2013_-FLAG_NINE-.md "wikilink")》。
+    NINE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2013_-FLAG_NINE- "wikilink")》。
   - 9月15-16日 - live演唱會《sphere live 2013「SPLASH MESSAGE\!」》正式舉辦。
   - 11月27日 - 單曲《[Sticking
     Places](../Page/Sticking_Places.md "wikilink")》發售。
@@ -162,7 +162,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
   - 2月15日 - 結成5周年記念當中之《》會員專屬活動「『Radio Pl@net Sphere』公開錄音2014
     ～5周年巧克力節～」（）舉行。
   - 2月26日 - 第14張單曲《[Eternal
-    Tours](../Page/Eternal_Tours.md "wikilink")》發售。為sphere5周年紀念而灌錄的非商業搭配單曲。
+    Tours](https://zh.wikipedia.org/wiki/Eternal_Tours "wikilink")》發售。為sphere5周年紀念而灌錄的非商業搭配單曲。
   - 5月14日 - 第15張單曲《微かな密かな確かなミライ》發售。
   - 7月13日〜11月16日 - 巡迴演唱會『〜Sphere's eternal live tour 2014〜』於埼玉開展。
   - 8月7日 - 寫真集《PlaniSphere》（）發售。
@@ -178,7 +178,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 
   - 1月19日 - 手機版官方網站《Music Ray'n☆モバイル》更改名稱為《sphere》。
   - 2月11日 - 首張精選專輯《sphere 5周年fan select best
-    album》（）發行，收錄歌曲由愛好者投票決定，並附送原裝綜藝節目DVD。第16張單曲《[情熱CONTINUE](../Page/情熱CONTINUE.md "wikilink")》同步發售。
+    album》（）發行，收錄歌曲由愛好者投票決定，並附送原裝綜藝節目DVD。第16張單曲《[情熱CONTINUE](https://zh.wikipedia.org/wiki/情熱CONTINUE "wikilink")》同步發售。
 
 <!-- end list -->
 
@@ -198,7 +198,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 <th></th>
 <th><p>名稱</p></th>
 <th><p>發售日期</p></th>
-<th><p><a href="../Page/規格編號.md" title="wikilink">規格編號</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/規格編號" title="wikilink">規格編號</a></p></th>
 <th><p>最高位</p></th>
 </tr>
 </thead>
@@ -303,7 +303,7 @@ Sphere有「天體」和「球體」兩個意思。而這個團體取名Sphere�
 </tr>
 <tr class="odd">
 <td><p>14th</p></td>
-<td><p><strong><a href="../Page/Eternal_Tours.md" title="wikilink">Eternal Tours</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Eternal_Tours" title="wikilink">Eternal Tours</a></strong></p></td>
 <td><p>2014年2月26日</p></td>
 <td><p>LASM-4160/61（Type A）<br />
 LASM-4162/63（Type B）<br />
@@ -320,21 +320,21 @@ LASM-4166/67（Type D）</p></td>
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
-<td><p><strong><a href="../Page/熱情CONTINUE.md" title="wikilink">情熱CONTINUE</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/熱情CONTINUE" title="wikilink">情熱CONTINUE</a></strong></p></td>
 <td><p>2015年2月11日</p></td>
 <td><p>LASM-34171</p></td>
 <td><p>LASM-4171</p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
-<td><p><strong><a href="../Page/vivid_brilliant_door!.md" title="wikilink">vivid brilliant door!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/vivid_brilliant_door!" title="wikilink">vivid brilliant door!</a></strong></p></td>
 <td><p>2015年7月15日</p></td>
 <td><p>LASM-34173/74</p></td>
 <td><p>LASM-4173</p></td>
 </tr>
 <tr class="odd">
 <td><p>18th</p></td>
-<td><p><strong><a href="../Page/DREAMS,_Count_down!.md" title="wikilink">DREAMS, Count down!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/DREAMS,_Count_down!" title="wikilink">DREAMS, Count down!</a></strong></p></td>
 <td><p>2015年10月14日</p></td>
 <td><p>LASM-34176/77（Type A）<br />
 LASM-34178/79（Type B）</p></td>
@@ -349,14 +349,14 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="odd">
 <td><p>19th</p></td>
-<td><p><strong><a href="../Page/My_Only_Place.md" title="wikilink">My Only Place</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_Only_Place" title="wikilink">My Only Place</a></strong></p></td>
 <td><p>2016年11月16日</p></td>
 <td><p>LASM-34180</p></td>
 <td><p>LASM-4180</p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><strong><a href="../Page/Heart_to_Heart_(Sphere單曲).md" title="wikilink">Heart to Heart</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Heart_to_Heart_(Sphere單曲)" title="wikilink">Heart to Heart</a></strong></p></td>
 <td><p>2017年11月8日</p></td>
 <td><p>LASM-34183/84</p></td>
 <td><p>LASM-4183</p></td>
@@ -366,52 +366,52 @@ LASM-34178/79（Type B）</p></td>
 
 ### 專輯
 
-|       | 名稱                                                                   | 發售日期        | [規格編號](../Page/規格編號.md "wikilink") | 最高位             |
-| ----- | -------------------------------------------------------------------- | ----------- | ---------------------------------- | --------------- |
-| 初回限定盤 | 數量限定生產盤                                                              | 通常盤         |                                    |                 |
-| 1st   | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")** | 2009年12月23日 | |LASM-35026/27                     |                 |
-| 2nd   | **[Spring is here](../Page/Spring_is_here.md "wikilink")**           | 2011年3月16日  | LASA-35085/86                      | LASA-35089 - 91 |
-| 3rd   | **[Third Planet](../Page/Third_Planet.md "wikilink")**               | 2012年7月11日  | LASA-35134/5                       | LASA-35131/2    |
-| 4th   | **[4 colors for you](../Page/4_colors_for_you.md "wikilink")**       | 2014年6月25日  | LASA-35155/6                       | LASA-35153/4    |
-| 5th   | **[ISM](../Page/ISM.md "wikilink")**                                 | 2017年2月1日   | LASA-35161                         | LASA-35159      |
+|       | 名稱                                                                                | 發售日期        | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高位             |
+| ----- | --------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------- | --------------- |
+| 初回限定盤 | 數量限定生產盤                                                                           | 通常盤         |                                                       |                 |
+| 1st   | **[A.T.M.O.S.P.H.E.R.E](../Page/A.T.M.O.S.P.H.E.R.E.md "wikilink")**              | 2009年12月23日 | |LASM-35026/27                                        |                 |
+| 2nd   | **[Spring is here](../Page/Spring_is_here.md "wikilink")**                        | 2011年3月16日  | LASA-35085/86                                         | LASA-35089 - 91 |
+| 3rd   | **[Third Planet](../Page/Third_Planet.md "wikilink")**                            | 2012年7月11日  | LASA-35134/5                                          | LASA-35131/2    |
+| 4th   | **[4 colors for you](https://zh.wikipedia.org/wiki/4_colors_for_you "wikilink")** | 2014年6月25日  | LASA-35155/6                                          | LASA-35153/4    |
+| 5th   | **[ISM](https://zh.wikipedia.org/wiki/ISM "wikilink")**                           | 2017年2月1日   | LASA-35161                                            | LASA-35159      |
 
 ### 精選專輯
 
-|       | 名稱         | 發售日期       | [規格編號](../Page/規格編號.md "wikilink") | 最高位       | 備註 |
-| ----- | ---------- | ---------- | ---------------------------------- | --------- | -- |
-| 初回限定盤 | 通常盤        |            |                                    |           |    |
-| 1st   | **sphere** | 2015年2月11日 | LASA-35157/8                       | LASA-5157 | 7位 |
+|       | 名稱         | 發售日期       | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") | 最高位       | 備註 |
+| ----- | ---------- | ---------- | ----------------------------------------------------- | --------- | -- |
+| 初回限定盤 | 通常盤        |            |                                                       |           |    |
+| 1st   | **sphere** | 2015年2月11日 | LASA-35157/8                                          | LASA-5157 | 7位 |
 
 ### 影像作品
 
 #### Live
 
-|                                                                                                                                              | 名稱                                                                                                                                         | 發售日        | [規格編號](../Page/規格編號.md "wikilink")                |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ------------------------------------------------- |
-| 1st                                                                                                                                          | **[〜Sphere's rings live tour 2010〜 FINAL DVD](../Page/～Sphere's_rings_live_tour_2010～.md "wikilink")**                                     | 2011年1月1日  | LASD-7013/LASD-7014                               |
-| **[〜Sphere's rings live tour 2010〜 FINAL BD plus sphere in 3D](../Page/～Sphere's_rings_live_tour_2010～.md "wikilink")**                      | LACM-8004/LACM-8005                                                                                                                        |            |                                                   |
-| 2nd                                                                                                                                          | **[Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館 BD](../Page/Sphere_LIVE_2010_sphere_ON_LOVE,_ON_日本武道館.md "wikilink")**                        | 2011年8月31日 | LASX-8013/LASX-8014                               |
-| **[Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館 DVD](../Page/Sphere_LIVE_2010_sphere_ON_LOVE,_ON_日本武道館.md "wikilink")**                         | LASD-7019/LASD-7020                                                                                                                        |            |                                                   |
-| 3rd                                                                                                                                          | **[sphere LIVE 2011 Athletic Harmonies Dangerous Stage BD](../Page/sphere_LIVE_2011_Athletic_Harmonies_Dangerous_Stage_BD.md "wikilink")** | 2012年3月14日 | LASX-8015/16                                      |
-| **[sphere LIVE 2011 Athletic Harmonies Dangerous Stage DVD](../Page/sphere_LIVE_2011_Athletic_Harmonies_Dangerous_Stage_DVD.md "wikilink")** | LASD-7024/25                                                                                                                               |            |                                                   |
-| **[sphere LIVE 2011 Athletic Harmonies Climax Stage BD](../Page/sphere_LIVE_2011_Athletic_Harmonies_Climax_Stage_BD.md "wikilink")**         | LASX-8017/18                                                                                                                               |            |                                                   |
-| **[sphere LIVE 2011 Athletic Harmonies Climax Stage DVD](../Page/sphere_LIVE_2011_Athletic_Harmonies_Climax_Stage_DVD.md "wikilink")**       | LASD-7026/27                                                                                                                               |            |                                                   |
-| 4th                                                                                                                                          | **[Sphere's orbit live tour 2012 FINAL SPECIAL STAGE BD](../Page/Sphere's_orbit_live_tour_2012_FINAL_SPECIAL_STAGE.md "wikilink")**        | 2013年3月27日 | LASX-8021/LASX-8022                               |
-| 5th                                                                                                                                          | **[sphere LIVE 2013 SPLASHMESSAGE\! Sunshine Stage BD](../Page/sphere_LIVE_2013_SPLASHMESSAGE!_Sunshine_Stage_BD.md "wikilink")**          | 2014年4月30日 | ASX-8023/LASX-8024                                |
-| **[sphere LIVE 2013 SPLASHMESSAGE\! Moonlight Stage BD](../Page/sphere_LIVE_2013_SPLASHMESSAGE!_Moonlight_Stage_BD.md "wikilink")**          | LASX-8025/LASX-8026                                                                                                                        |            |                                                   |
-| 6th                                                                                                                                          | **[スタートダッシュミーティング Ready Steady 5周年\! in 日本武道館〜いちにちめ〜](../Page/スタートダッシュミーティング_Ready_Steady_5周年!_in_日本武道館〜いちにちめ〜.md "wikilink")**            | 2014年11月5日 | LASX-8027/8                                       |
-| **[スタートダッシュミーティング Ready Steady 5周年\! in 日本武道館〜ふつかめ〜](../Page/スタートダッシュミーティング_Ready_Steady_5周年!_in_日本武道館〜ふつかめ〜.md "wikilink")**                | LASX-8029/30                                                                                                                               |            |                                                   |
-| 7th                                                                                                                                          | **[〜Sphere's eternal live tour 2014〜](../Page/〜Sphere's_eternal_live_tour_2014〜.md "wikilink")**                                           | 2015年4月22日 | LASX-8031/2                                       |
-| 8th                                                                                                                                          | '''\[\[Sphere_BEST_live_2015_ミッションイントロッコ                                                                                               |            | _-Plan_B-|Sphere BEST live 2015 ミッションイントロッコ     |
-| 9th                                                                                                                                          | '''\[\[sphere_music_story_2015_“DREAMS,_Count_down                                                                                   |            | ”|sphere music story 2015 “DREAMS, Count down     |
-| 10th                                                                                                                                         | '''\[\[Sphere_live_tour_2017_“We_are_SPHERE                                                                                          |            | \!”　LIVE_BD|Sphere live tour 2017 “We are SPHERE |
-|                                                                                                                                              |                                                                                                                                            |            |                                                   |
+|                                                                                                                                                                 | 名稱                                                                                                                                                            | 發售日        | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------- |
+| 1st                                                                                                                                                             | **[〜Sphere's rings live tour 2010〜 FINAL DVD](../Page/～Sphere's_rings_live_tour_2010～.md "wikilink")**                                                        | 2011年1月1日  | LASD-7013/LASD-7014                                   |
+| **[〜Sphere's rings live tour 2010〜 FINAL BD plus sphere in 3D](../Page/～Sphere's_rings_live_tour_2010～.md "wikilink")**                                         | LACM-8004/LACM-8005                                                                                                                                           |            |                                                       |
+| 2nd                                                                                                                                                             | **[Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館 BD](../Page/Sphere_LIVE_2010_sphere_ON_LOVE,_ON_日本武道館.md "wikilink")**                                           | 2011年8月31日 | LASX-8013/LASX-8014                                   |
+| **[Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館 DVD](../Page/Sphere_LIVE_2010_sphere_ON_LOVE,_ON_日本武道館.md "wikilink")**                                            | LASD-7019/LASD-7020                                                                                                                                           |            |                                                       |
+| 3rd                                                                                                                                                             | **[sphere LIVE 2011 Athletic Harmonies Dangerous Stage BD](https://zh.wikipedia.org/wiki/sphere_LIVE_2011_Athletic_Harmonies_Dangerous_Stage_BD "wikilink")** | 2012年3月14日 | LASX-8015/16                                          |
+| **[sphere LIVE 2011 Athletic Harmonies Dangerous Stage DVD](https://zh.wikipedia.org/wiki/sphere_LIVE_2011_Athletic_Harmonies_Dangerous_Stage_DVD "wikilink")** | LASD-7024/25                                                                                                                                                  |            |                                                       |
+| **[sphere LIVE 2011 Athletic Harmonies Climax Stage BD](https://zh.wikipedia.org/wiki/sphere_LIVE_2011_Athletic_Harmonies_Climax_Stage_BD "wikilink")**         | LASX-8017/18                                                                                                                                                  |            |                                                       |
+| **[sphere LIVE 2011 Athletic Harmonies Climax Stage DVD](https://zh.wikipedia.org/wiki/sphere_LIVE_2011_Athletic_Harmonies_Climax_Stage_DVD "wikilink")**       | LASD-7026/27                                                                                                                                                  |            |                                                       |
+| 4th                                                                                                                                                             | **[Sphere's orbit live tour 2012 FINAL SPECIAL STAGE BD](https://zh.wikipedia.org/wiki/Sphere's_orbit_live_tour_2012_FINAL_SPECIAL_STAGE "wikilink")**        | 2013年3月27日 | LASX-8021/LASX-8022                                   |
+| 5th                                                                                                                                                             | **[sphere LIVE 2013 SPLASHMESSAGE\! Sunshine Stage BD](https://zh.wikipedia.org/wiki/sphere_LIVE_2013_SPLASHMESSAGE!_Sunshine_Stage_BD "wikilink")**          | 2014年4月30日 | ASX-8023/LASX-8024                                    |
+| **[sphere LIVE 2013 SPLASHMESSAGE\! Moonlight Stage BD](https://zh.wikipedia.org/wiki/sphere_LIVE_2013_SPLASHMESSAGE!_Moonlight_Stage_BD "wikilink")**          | LASX-8025/LASX-8026                                                                                                                                           |            |                                                       |
+| 6th                                                                                                                                                             | **[スタートダッシュミーティング Ready Steady 5周年\! in 日本武道館〜いちにちめ〜](https://zh.wikipedia.org/wiki/スタートダッシュミーティング_Ready_Steady_5周年!_in_日本武道館〜いちにちめ〜 "wikilink")**            | 2014年11月5日 | LASX-8027/8                                           |
+| **[スタートダッシュミーティング Ready Steady 5周年\! in 日本武道館〜ふつかめ〜](https://zh.wikipedia.org/wiki/スタートダッシュミーティング_Ready_Steady_5周年!_in_日本武道館〜ふつかめ〜 "wikilink")**                | LASX-8029/30                                                                                                                                                  |            |                                                       |
+| 7th                                                                                                                                                             | **[〜Sphere's eternal live tour 2014〜](https://zh.wikipedia.org/wiki/〜Sphere's_eternal_live_tour_2014〜 "wikilink")**                                           | 2015年4月22日 | LASX-8031/2                                           |
+| 8th                                                                                                                                                             | '''\[\[Sphere_BEST_live_2015_ミッションイントロッコ                                                                                                                  |            | _-Plan_B-|Sphere BEST live 2015 ミッションイントロッコ         |
+| 9th                                                                                                                                                             | '''\[\[sphere_music_story_2015_“DREAMS,_Count_down                                                                                                      |            | ”|sphere music story 2015 “DREAMS, Count down         |
+| 10th                                                                                                                                                            | '''\[\[Sphere_live_tour_2017_“We_are_SPHERE                                                                                                             |            | \!”　LIVE_BD|Sphere live tour 2017 “We are SPHERE     |
+|                                                                                                                                                                 |                                                                                                                                                               |            |                                                       |
 
 #### PV集
 
-|     | 名稱                                 | 發售日        | [規格編號](../Page/規格編號.md "wikilink") |
-| --- | ---------------------------------- | ---------- | ---------------------------------- |
-| 1st | **Sphere Music Clips 2009 - 2012** | 2013年2月27日 | LASX-8019                          |
+|     | 名稱                                 | 發售日        | [規格編號](https://zh.wikipedia.org/wiki/規格編號 "wikilink") |
+| --- | ---------------------------------- | ---------- | ----------------------------------------------------- |
+| 1st | **Sphere Music Clips 2009 - 2012** | 2013年2月27日 | LASX-8019                                             |
 
 ### 寫真集
 
@@ -421,7 +421,7 @@ LASM-34178/79（Type B）</p></td>
 <th></th>
 <th><p>名稱</p></th>
 <th><p>發售日</p></th>
-<th><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -449,10 +449,10 @@ LASM-34178/79（Type B）</p></td>
 
 ### Live寫真集
 
-|     | 名稱                                              | 發售日       | [ISBN](../Page/ISBN.md "wikilink") |
-| --- | ----------------------------------------------- | --------- | ---------------------------------- |
-| 1st | **Sphere is Ring**                              | 2011年3月9日 | ISBN 978-4072736203                |
-| 2nd | '''“〜Sphere's orbit live tour 2012〜”紀念寫真集 Orbit | 2012年9月   |                                    |
+|     | 名稱                                              | 發售日       | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
+| --- | ----------------------------------------------- | --------- | ----------------------------------------------------- |
+| 1st | **Sphere is Ring**                              | 2011年3月9日 | ISBN 978-4072736203                                   |
+| 2nd | '''“〜Sphere's orbit live tour 2012〜”紀念寫真集 Orbit | 2012年9月   |                                                       |
 
 ### 商業搭配
 
@@ -467,14 +467,14 @@ LASM-34178/79（Type B）</p></td>
 <tbody>
 <tr class="odd">
 <td><p><strong>Future Stream</strong></p></td>
-<td><p><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《<a href="../Page/初恋限定。.md" title="wikilink">初恋限定。</a>》片頭曲<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《<a href="../Page/初恋限定。.md" title="wikilink">初恋限定。</a>》片頭曲<br />
 <a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台他</a>《》2009年4月、5月度片尾曲</p></td>
 <td><p>1st Single「Future Stream」</p></td>
 </tr>
 <tr class="even">
 <td><p>'''Treasures</p></td>
 <td><p>'''</p></td>
-<td><p><a href="../Page/網絡遊戲.md" title="wikilink">網絡遊戲</a>《<a href="../Page/卡巴拉島Online.md" title="wikilink">卡巴拉島Online</a>》角色歌</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網絡遊戲" title="wikilink">網絡遊戲</a>《<a href="../Page/卡巴拉島Online.md" title="wikilink">卡巴拉島Online</a>》角色歌</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Super Noisy Nova</strong></p></td>
@@ -484,12 +484,12 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Dangerous girls</strong></p></td>
-<td><p><a href="../Page/PSP.md" title="wikilink">PSP遊戲軟件</a>《》（<a href="../Page/Acquire.md" title="wikilink">Acquire</a>）遊戲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PSP" title="wikilink">PSP遊戲軟件</a>《》（<a href="../Page/Acquire.md" title="wikilink">Acquire</a>）遊戲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
-<td><p>線上遊戲《<a href="../Page/仙境傳說.md" title="wikilink">仙境傳說</a>》7周年曲</p></td>
+<td><p>線上遊戲《<a href="https://zh.wikipedia.org/wiki/仙境傳說" title="wikilink">仙境傳說</a>》7周年曲</p></td>
 <td><p>3rd Single「／Brave my heart」</p></td>
 </tr>
 <tr class="even">
@@ -514,7 +514,7 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/PS3.md" title="wikilink">PS3</a>/PSP専用遊戲軟件《》（Acquire）遊戲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PS3" title="wikilink">PS3</a>/PSP専用遊戲軟件《》（Acquire）遊戲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -564,7 +564,7 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Pride on Everyday</strong></p></td>
-<td><p>電視動畫《<a href="../Page/爆漫王。.md" title="wikilink">爆漫王。3</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/爆漫王。" title="wikilink">爆漫王。3</a>》片尾曲</p></td>
 <td><p>11th Single「Pride on Everyday」</p></td>
 </tr>
 <tr class="odd">
@@ -594,7 +594,7 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Heart to Heart</strong></p></td>
-<td><p>電視動畫《<a href="../Page/側車搭檔.md" title="wikilink">側車搭檔</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/側車搭檔" title="wikilink">側車搭檔</a>》片頭曲</p></td>
 <td><p>20th Single「Heart to Heart」</p></td>
 </tr>
 </tbody>
@@ -612,9 +612,9 @@ LASM-34178/79（Type B）</p></td>
 ### 廣播
 
   - Pl@net Sphere（Lantis web radio：2009年3月4日 - ）
-  - Sphere與我們（[文化放送](../Page/株式會社文化放送.md "wikilink")・[超\!A\&G+](../Page/超!A&G+.md "wikilink")『[A\&G
+  - Sphere與我們（[文化放送](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")・[超\!A\&G+](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")『[A\&G
     超RADIO
-    SHOW〜Anisupa\!〜](../Page/A&G_超RADIO_SHOW〜Anisupa!〜.md "wikilink")』内：2009年5月23日
+    SHOW〜Anisupa\!〜](https://zh.wikipedia.org/wiki/A&G_超RADIO_SHOW〜Anisupa!〜 "wikilink")』内：2009年5月23日
     - 7月18日）
   - 劍與魔法與學園2 Presents Sphere和鷲崎和60分（超\!A\&G+：2009年6月27日（單發））
   - sphere的Say\!You Young（超\!A\&G+：2010年4月12日（單發））
@@ -654,14 +654,14 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p>live 活動</p></td>
-<td><p><strong><a href="../Page/Lantis祭.md" title="wikilink">Lantis祭</a></strong>（2日）</p></td>
-<td><p>全1埸：9月27日 <a href="../Page/富士急高原樂園.md" title="wikilink">富士急高原樂園</a>（<a href="../Page/山梨縣.md" title="wikilink">山梨縣</a>）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lantis祭" title="wikilink">Lantis祭</a></strong>（2日）</p></td>
+<td><p>全1埸：9月27日 <a href="../Page/富士急高原樂園.md" title="wikilink">富士急高原樂園</a>（<a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨縣</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>嘉賓出演</p></td>
 <td><p><strong>TOKYO ASIA MUSIC MARKET アニメソングライブ</strong></p></td>
-<td><p>全1埸：10月23日 <a href="../Page/EPSON_AQUA_STADIUM.md" title="wikilink">EPSON AQUA STADIUM</a>（東京都）</p></td>
+<td><p>全1埸：10月23日 <a href="https://zh.wikipedia.org/wiki/EPSON_AQUA_STADIUM" title="wikilink">EPSON AQUA STADIUM</a>（東京都）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -675,7 +675,7 @@ LASM-34178/79（Type B）</p></td>
 <td><p>live</p></td>
 <td><p><strong>スフィア Colorful Concert</strong></p></td>
 <td><p>全1埸：1月10日 澀谷公會堂（東京都）<br />
-追加公演：1月31日 <a href="../Page/神奈川縣民大廳.md" title="wikilink">神奈川縣民大廳</a>（神奈川縣）</p></td>
+追加公演：1月31日 <a href="https://zh.wikipedia.org/wiki/神奈川縣民大廳" title="wikilink">神奈川縣民大廳</a>（神奈川縣）</p></td>
 </tr>
 <tr class="even">
 <td><p>巡迴演出</p></td>
@@ -686,16 +686,16 @@ LASM-34178/79（Type B）</p></td>
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>4月18日 <a href="../Page/東京國際論壇.md" title="wikilink">東京國際論壇大樓A</a>（東京都）<br />
-4月25日 <a href="../Page/德島市立文化中心.md" title="wikilink">德島市立文化中心</a>（<a href="../Page/德島縣.md" title="wikilink">德島縣</a>）<br />
-5月16日 <a href="../Page/福岡國際會議場.md" title="wikilink">福岡國際會議場</a>（<a href="../Page/福岡縣.md" title="wikilink">福岡縣</a>）<br />
-5月23日 <a href="../Page/愛知縣藝術劇場.md" title="wikilink">愛知縣藝術劇場</a>（<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a>）<br />
-6月13日 <a href="../Page/Zepp#Zepp_Osaka.md" title="wikilink">Zepp Osaka</a>（<a href="../Page/大阪府.md" title="wikilink">大阪府</a>）<br />
+4月25日 <a href="https://zh.wikipedia.org/wiki/德島市立文化中心" title="wikilink">德島市立文化中心</a>（<a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣</a>）<br />
+5月16日 <a href="https://zh.wikipedia.org/wiki/福岡國際會議場" title="wikilink">福岡國際會議場</a>（<a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>）<br />
+5月23日 <a href="https://zh.wikipedia.org/wiki/愛知縣藝術劇場" title="wikilink">愛知縣藝術劇場</a>（<a href="../Page/愛知縣.md" title="wikilink">愛知縣</a>）<br />
+6月13日 <a href="https://zh.wikipedia.org/wiki/Zepp#Zepp_Osaka" title="wikilink">Zepp Osaka</a>（<a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a>）<br />
 6月20日 <a href="../Page/札幌工廠.md" title="wikilink">札幌工廠</a>（<a href="../Page/北海道.md" title="wikilink">北海道</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>嘉賓出演</p></td>
-<td><p><strong><a href="../Page/Animelo_Summer_Live#2010年.md" title="wikilink">Animelo Summer Live 2010 -evolution-</a></strong>（1日）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2010年" title="wikilink">Animelo Summer Live 2010 -evolution-</a></strong>（1日）</p></td>
 <td><p>全1埸：8月28日 <a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a>（<a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a>）</p></td>
 <td></td>
 </tr>
@@ -727,7 +727,7 @@ LASM-34178/79（Type B）</p></td>
 ## 相關項目
 
   - [Music Ray'n](../Page/Music_Ray'n.md "wikilink")（所屬事務所）
-  - [GloryHeaven](../Page/Lantis#GloryHeaven所屬者.md "wikilink")（所屬公司）
+  - [GloryHeaven](https://zh.wikipedia.org/wiki/Lantis#GloryHeaven所屬者 "wikilink")（所屬公司）
 
 ## 參考資料
 
@@ -748,7 +748,7 @@ LASM-34178/79（Type B）</p></td>
 3.  關西電台節目《》第22集
 
 4.  『ミュージックレインgirls
-    春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](../Page/鷲崎健の超ラジ!.md "wikilink")』第111回放送より。
+    春のチョコまつり』での発言及び、『[鷲崎健の超ラジ\!](https://zh.wikipedia.org/wiki/鷲崎健の超ラジ! "wikilink")』第111回放送より。
 
 5.  各成員在網路電台節目「Pl@net
     Sphere」第19回時談到舉辦活動時參與者使用的[螢光棒的顏色](../Page/螢光棒.md "wikilink")，同時決定自己和團體的代表顏色。此後，於2009年8月30日舉行的活動『Shake

@@ -1,11 +1,10 @@
 **Internet Explorer Mobile**（以前稱為**Pocket Internet Explorer**；通常簡稱為**IE
-Mobile**\[1\]）是一款由[微软公司开发基於](../Page/微软公司.md "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎的](../Page/排版引擎.md "wikilink")[行動瀏覽器](../Page/行動瀏覽器.md "wikilink")，它装载于为[手持式个人计算机开发的](../Page/手持式个人计算机.md "wikilink")[Windows
+Mobile**\[1\]）是一款由[微软公司开发基於](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎的](../Page/排版引擎.md "wikilink")[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")，它装载于为[手持式个人计算机开发的](https://zh.wikipedia.org/wiki/手持式个人计算机 "wikilink")[Windows
 Phone和](../Page/Windows_Phone.md "wikilink")[Windows
-CE中](../Page/Windows_CE.md "wikilink")，与微软的Internet
+CE中](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")，与微软的Internet
 Explorer有很多相似之处；然而，舊版本的Pocket Internet
 Explorer并不是基于同样的[排版引擎](../Page/排版引擎.md "wikilink")。IE
-Mobile在[Windows
-Phone上的版本比](../Page/Windows_Phone.md "wikilink")[Windows
+Mobile在[Windows Phone上的版本比](../Page/Windows_Phone.md "wikilink")[Windows
 Mobile平台上的功能更多](../Page/Windows_Mobile.md "wikilink")。
 
 目前支援的Internet Explorer Mobile版本Internet Explorer Mobile 11基於[Internet
@@ -23,7 +22,7 @@ Mobile。
   - 1996年11月，Pocket Internet Explorer首次内置于在新推出的Windows CE
     1.0中。它并不是从Internet
     Explorer编码衍生出来的，而是尽量的编写得更加精简。随后推出的PIE
-    1.1支持[Cookie](../Page/Cookie.md "wikilink")，[HTTPS](../Page/HTTPS.md "wikilink")，和[SSL](../Page/Transport_Layer_Security.md "wikilink")。
+    1.1支持[Cookie](../Page/Cookie.md "wikilink")，[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")，和[SSL](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")。
   - 1997年9月，Windows CE 2.0推出的Pocket Internet Explorer
     2.0增加了许多新的特性：脱机模式，改变图片以适应屏幕和更好的[HTML支持](../Page/HTML.md "wikilink")，包括框架页和表格。
   - 1998年7月，Windows CE 2.10推出的PIE
@@ -31,9 +30,9 @@ Mobile。
   - Pocket Internet Explorer
     4.0首次支持[ActiveX](../Page/ActiveX.md "wikilink")，[CSS](../Page/层叠样式表.md "wikilink")，[VBScript](../Page/VBScript.md "wikilink")，并对HTTPS以及高级HTML提供了更好的支持。PIE的Pocket
     PC
-    2002版对[DHTML和](../Page/DHTML.md "wikilink")[XML提供了有限的支持](../Page/XML.md "wikilink")，它还能浏览[WAP网站](../Page/WAP.md "wikilink")──这是PC版Internet
+    2002版对[DHTML和](https://zh.wikipedia.org/wiki/DHTML "wikilink")[XML提供了有限的支持](../Page/XML.md "wikilink")，它还能浏览[WAP网站](https://zh.wikipedia.org/wiki/WAP "wikilink")──这是PC版Internet
     Explorer所不具有的功能。Internet Explorer
-    6.0增加了对IFrame的支持。现在，PIE是一个比较[多功能的浏览器](../Page/多功能.md "wikilink")，支持[FTP](../Page/FTP.md "wikilink")，[XSLT](../Page/XSLT.md "wikilink")，Cookie，[GIF動畫以及其他一些功能](../Page/GIF.md "wikilink")。
+    6.0增加了对IFrame的支持。现在，PIE是一个比较[多功能的浏览器](https://zh.wikipedia.org/wiki/多功能 "wikilink")，支持[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，[XSLT](../Page/XSLT.md "wikilink")，Cookie，[GIF動畫以及其他一些功能](../Page/GIF.md "wikilink")。
 
 ### Internet Explorer Mobile
 
@@ -49,12 +48,12 @@ Mobile。
 
 和电脑版一样，Pocket Internet Explorer的基础编译工具也向程序编写员开放。这让许多基于Pocket Internet
 Explorer的网络浏览器必须新增一些额外的功能。例如，新增加了“选项卡式”浏览窗口的浏览器有[Webby
-Mobile和](../Page/Webby_Mobile.md "wikilink")[ftxPBrowser](../Page/ftxPBrowser.md "wikilink")。
+Mobile和](https://zh.wikipedia.org/wiki/Webby_Mobile "wikilink")[ftxPBrowser](https://zh.wikipedia.org/wiki/ftxPBrowser "wikilink")。
 
 ## 参见
 
   - [移动浏览器](../Page/移动浏览器.md "wikilink")
-  - [浏览器列表](../Page/浏览器列表.md "wikilink")
+  - [浏览器列表](https://zh.wikipedia.org/wiki/浏览器列表 "wikilink")
 
 ## 参考资料
 

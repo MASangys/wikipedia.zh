@@ -7,57 +7,57 @@
   - 非常專業（如 KSMSSend)
 
 然而，最主要的原因是應用程序在Extragear中可以獨立主要的KDE軟件包（
-[KDELibs](../Page/KDELibs.md "wikilink")、[KDEBase等](../Page/KDEBase.md "wikilink")）發布，讓他們的維護者尋求自己的發展計劃。
+[KDELibs](../Page/KDELibs.md "wikilink")、[KDEBase等](https://zh.wikipedia.org/wiki/KDEBase "wikilink")）發布，讓他們的維護者尋求自己的發展計劃。
 
 ## 圖像
 
-  - [digiKam](../Page/digiKam.md "wikilink")：一個先進的數碼照片管理應用程序
+  - [digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")：一個先進的數碼照片管理應用程序
   - [KColorEdit](../Page/KColorEdit.md "wikilink")：調色板編輯器。
-  - [KGraphViewer](../Page/KGraphViewer.md "wikilink")
-  - [KPhotoAlbum](../Page/KPhotoAlbum.md "wikilink")：相冊管理。
+  - [KGraphViewer](https://zh.wikipedia.org/wiki/KGraphViewer "wikilink")
+  - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")：相冊管理。
   - [KIPI](../Page/KIPI.md "wikilink")：通用的外掛程式結構，讓各種圖形應用程式之間分享圖像外掛程式。
-  - [KuickShow](../Page/KuickShow.md "wikilink")：一個圖像瀏覽器。
-  - [KPovModeler](../Page/KPovModeler.md "wikilink")：[POV-Ray的](../Page/POV-Ray.md "wikilink")3D
+  - [KuickShow](https://zh.wikipedia.org/wiki/KuickShow "wikilink")：一個圖像瀏覽器。
+  - [KPovModeler](https://zh.wikipedia.org/wiki/KPovModeler "wikilink")：[POV-Ray的](../Page/POV-Ray.md "wikilink")3D
     建模
-  - [showimg](../Page/showimg.md "wikilink")
+  - [showimg](https://zh.wikipedia.org/wiki/showimg "wikilink")
 
 ## 多媒體
 
   - [Amarok](../Page/Amarok.md "wikilink")：音頻播放器
   - [K3b](../Page/K3b.md "wikilink")：一個[CD和](../Page/CD.md "wikilink")[CD燒錄應用程序](../Page/CD.md "wikilink")
   - [Kaffeine](../Page/Kaffeine.md "wikilink")：一個全功能的多媒體和[DVB播放器](../Page/DVB.md "wikilink")
-  - [kdetv](../Page/kdetv.md "wikilink")：一個收看傳輸到桌面的電視節目的程式
+  - [kdetv](https://zh.wikipedia.org/wiki/kdetv "wikilink")：一個收看傳輸到桌面的電視節目的程式
   - [KMPlayer](../Page/KMPlayer.md "wikilink")：一個影片播放器。
-  - [KPlayer](../Page/KPlayer.md "wikilink")：多媒體播放器。
+  - [KPlayer](https://zh.wikipedia.org/wiki/KPlayer "wikilink")：多媒體播放器。
 
 ## 網路
 
-  - [KDEBluetooth](../Page/KDEBluetooth.md "wikilink")
-  - [KFTPGrabber](../Page/KFTPGrabber.md "wikilink")，一個[FTP客戶端](../Page/FTP.md "wikilink")。
-  - [KMLDonkey](../Page/KMLDonkey.md "wikilink")，[MLDonkey](../Page/MLDonkey.md "wikilink")
+  - [KDEBluetooth](https://zh.wikipedia.org/wiki/KDEBluetooth "wikilink")
+  - [KFTPGrabber](https://zh.wikipedia.org/wiki/KFTPGrabber "wikilink")，一個[FTP客戶端](https://zh.wikipedia.org/wiki/FTP "wikilink")。
+  - [KMLDonkey](https://zh.wikipedia.org/wiki/KMLDonkey "wikilink")，[MLDonkey](../Page/MLDonkey.md "wikilink")
     前端（一個強大的P2P文件共享工具）
-  - [KMyFirewall](../Page/KMyFirewall.md "wikilink")
-  - [KNetLoad](../Page/KNetLoad.md "wikilink")
-  - [KNetStats](../Page/KNetStats.md "wikilink")
-  - [KTorrent](../Page/KTorrent.md "wikilink")，一個[BitTorrent客戶端](../Page/BitTorrent.md "wikilink")
+  - [KMyFirewall](https://zh.wikipedia.org/wiki/KMyFirewall "wikilink")
+  - [KNetLoad](https://zh.wikipedia.org/wiki/KNetLoad "wikilink")
+  - [KNetStats](https://zh.wikipedia.org/wiki/KNetStats "wikilink")
+  - [KTorrent](../Page/KTorrent.md "wikilink")，一個[BitTorrent客戶端](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")
   - [Konversation](../Page/Konversation.md "wikilink")，一個[IRC客戶端](../Page/IRC.md "wikilink")
-  - [knemo](../Page/knemo.md "wikilink")
+  - [knemo](https://zh.wikipedia.org/wiki/knemo "wikilink")
 
 ## 辦公
 
-  - [Skrooge](../Page/Skrooge.md "wikilink")
-  - [dataKiosk](../Page/dataKiosk.md "wikilink")
-  - [Kile](../Page/Kile.md "wikilink")，[LaTeX](../Page/LaTeX.md "wikilink")
+  - [Skrooge](https://zh.wikipedia.org/wiki/Skrooge "wikilink")
+  - [dataKiosk](https://zh.wikipedia.org/wiki/dataKiosk "wikilink")
+  - [Kile](../Page/Kile.md "wikilink")，[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
     編輯器
 
 ## 科學
 
-  - [Fraqtive](../Page/Fraqtive.md "wikilink")
-  - [Kst](../Page/Kst.md "wikilink")
+  - [Fraqtive](https://zh.wikipedia.org/wiki/Fraqtive "wikilink")
+  - [Kst](https://zh.wikipedia.org/wiki/Kst "wikilink")
 
 ## 安全
 
-  - [PwManager](../Page/PwManager.md "wikilink")
+  - [PwManager](https://zh.wikipedia.org/wiki/PwManager "wikilink")
 
 ## 系統
 
@@ -65,16 +65,16 @@
 
 ## 工具
 
-  - [Filelight](../Page/Filelight.md "wikilink")，圖形化硬碟空間分析器
-  - [Guidance](../Page/Guidance.md "wikilink")
-  - [KCfgCreator](../Page/KCfgCreator.md "wikilink")
-  - [KConfigEditor](../Page/KConfigEditor.md "wikilink")
-  - [Kiosktool](../Page/Kiosktool.md "wikilink")
-  - [Krecipes](../Page/Krecipes.md "wikilink")
-  - [Krusader](../Page/Krusader.md "wikilink")
+  - [Filelight](https://zh.wikipedia.org/wiki/Filelight "wikilink")，圖形化硬碟空間分析器
+  - [Guidance](https://zh.wikipedia.org/wiki/Guidance "wikilink")
+  - [KCfgCreator](https://zh.wikipedia.org/wiki/KCfgCreator "wikilink")
+  - [KConfigEditor](https://zh.wikipedia.org/wiki/KConfigEditor "wikilink")
+  - [Kiosktool](https://zh.wikipedia.org/wiki/Kiosktool "wikilink")
+  - [Krecipes](https://zh.wikipedia.org/wiki/Krecipes "wikilink")
+  - [Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink")
   - [Yakuake](../Page/Yakuake.md "wikilink")，下拉终端
-  - [kdiff3](../Page/kdiff3.md "wikilink")
-  - [keurocalc](../Page/keurocalc.md "wikilink")
+  - [kdiff3](https://zh.wikipedia.org/wiki/kdiff3 "wikilink")
+  - [keurocalc](https://zh.wikipedia.org/wiki/keurocalc "wikilink")
 
 ## 外部連結
 

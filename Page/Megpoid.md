@@ -1,10 +1,10 @@
-是[Internet有限公司以](../Page/INTERNET_\(公司\).md "wikilink")[Yamaha的](../Page/Yamaha.md "wikilink")[VOCALOID2語音合成引擎為基礎開發販售的虛擬女性歌手軟件](../Page/VOCALOID2.md "wikilink")。收錄聲優中島愛錄音製作而成的語音資料庫，2015年12月發佈Megpoid
+是[Internet有限公司以](https://zh.wikipedia.org/wiki/INTERNET_\(公司\) "wikilink")[Yamaha的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")[VOCALOID2語音合成引擎為基礎開發販售的虛擬女性歌手軟件](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")。收錄聲優中島愛錄音製作而成的語音資料庫，2015年12月發佈Megpoid
 V4聲庫。
 
 ## 軟件簡介
 
-軟件使用了[Yamaha的](../Page/山葉株式會社.md "wikilink")[VOCALOID
-2](../Page/VOCALOID.md "wikilink")[語音合成引擎](../Page/語音合成.md "wikilink")，把人類的聲音錄音並合成為酷似真正的歌聲。只需輸入[音調](../Page/音調.md "wikilink")、歌詞則可發出聲音，亦可以調整震音、音速等的「感情參數」，最多能夠16人合唱，亦支援即時演奏、對應[ReWire](../Page/ReWire.md "wikilink")。製作完成後會以[WAV格式輸出](../Page/WAV.md "wikilink")，但軟件本身只可做出歌唱部分，伴奏音聲需要使用其他音樂軟件合成。歌詞輸入能辨認[平假名](../Page/平假名.md "wikilink")、[片假名和](../Page/片假名.md "wikilink")[羅馬字](../Page/羅馬字.md "wikilink")，但不能辨認、作為助詞和、作為長音時會分別轉為、、、的發音，亦不能對應[促音](../Page/促音.md "wikilink")、[漢字](../Page/漢字.md "wikilink")，需要自行修改\[1\]。
+軟件使用了[Yamaha的](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")[VOCALOID
+2](../Page/VOCALOID.md "wikilink")[語音合成引擎](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，把人類的聲音錄音並合成為酷似真正的歌聲。只需輸入[音調](https://zh.wikipedia.org/wiki/音調 "wikilink")、歌詞則可發出聲音，亦可以調整震音、音速等的「感情參數」，最多能夠16人合唱，亦支援即時演奏、對應[ReWire](../Page/ReWire.md "wikilink")。製作完成後會以[WAV格式輸出](../Page/WAV.md "wikilink")，但軟件本身只可做出歌唱部分，伴奏音聲需要使用其他音樂軟件合成。歌詞輸入能辨認[平假名](../Page/平假名.md "wikilink")、[片假名和](../Page/片假名.md "wikilink")[羅馬字](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")，但不能辨認、作為助詞和、作為長音時會分別轉為、、、的發音，亦不能對應[促音](../Page/促音.md "wikilink")、[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，需要自行修改\[1\]。
 Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容易，除了聲音間的調合性較好外，軟件本身也帶有使用教學。在中低音的表現優異，而且沒有常見的跳音問題；但相反的聲音拖尾的情況也很嚴重，而且在拉長音時會出現嚴重雜訊。
 
 ### 需求配備
@@ -18,7 +18,7 @@ Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容�
 
 ## 製作過程、命名、反應等
 
-名字「GUMI」是由配音演员[中島愛的](../Page/中島愛.md "wikilink")「愛」（megumi）中拆出來（但GUMI在日文也可解作糖果）。而大多數網友也以GUMI去稱呼Megpoid本身。
+名字「GUMI」是由配音演员[中島愛的](https://zh.wikipedia.org/wiki/中島愛 "wikilink")「愛」（megumi）中拆出來（但GUMI在日文也可解作糖果）。而大多數網友也以GUMI去稱呼Megpoid本身。
 
 官方形象不太受歡迎，目前為止大多數的歌曲PV和靜態圖都難看得到公式服裝的出現，這現象除了在目前幾位有名的Vocaloid中頗為罕見之外，也間接證實此人設在大眾接受度上的不成功。
 
@@ -29,7 +29,7 @@ Megpoid聲音十分柔和，但調重音時會有困難。調音難度相對容�
   - 誕生日：2009年6月26日
   - 由於Internet社的VOCALOID發賣方針不是以「虛擬偶像」為重點，所以沒有設定GUMI的年齡、身高、體重。
       - 年齡：大部分人也認為是在[巡音流歌和](../Page/巡音流歌.md "wikilink")[初音未來之間](../Page/初音未來.md "wikilink")（18歲），也有人說GUMI是9歲
-        （因為[中島愛曾說Megpoid的聲音像](../Page/中島愛.md "wikilink")9歲的自己）
+        （因為[中島愛曾說Megpoid的聲音像](https://zh.wikipedia.org/wiki/中島愛 "wikilink")9歲的自己）
   - 擅長的曲種：搖滾、電音、抒情系歌曲
   - 擅長的節奏：60BPM～175BPM
   - 擅長的音域：F3～A4
@@ -95,7 +95,7 @@ VOCALOID傳說曲是指歌曲影片再生數超過100萬人觀看的著名曲，
 <tr class="odd">
 <td><p><a href="http://www.nicovideo.jp/watch/sm10393864"></a></p></td>
 <td><p>膽小鬼蒙布朗</p></td>
-<td><p><a href="../Page/DECO*27.md" title="wikilink">DECO*27</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DECO*27" title="wikilink">DECO*27</a></p></td>
 <td><p>2010-04-15</p></td>
 <td><p>VOCALOID傳說曲，截至2017年12月30日有超過500萬人觀看。收錄於CD<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003TEXL8W/nicovideojp-22/ref=nosim"></a>中（由作者發行，全碟皆為Gumi歌曲）。</p></td>
 </tr>
@@ -130,7 +130,7 @@ VOCALOID傳說曲是指歌曲影片再生數超過100萬人觀看的著名曲，
 <tr class="even">
 <td><p><a href="http://www.nicovideo.jp/watch/sm16110005"></a></p></td>
 <td><p>人生重啟鍵</p></td>
-<td><p><a href="../Page/kemu.md" title="wikilink">kemu</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kemu" title="wikilink">kemu</a></p></td>
 <td><p>2011-11-07</p></td>
 <td><p>VOCALOID傳說曲，截至2016年2月28日有超過253萬人觀看。kemu的人生三部曲之一。收錄於CD <a href="http://www.amazon.co.jp/PANDORA-VOXX-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-DVD%E4%BB%98-kemu/dp/B007JCGQ8C/ref=pd_rhf_ee_p_t_1">PANDORA VOXX</a> 中。</p></td>
 </tr>
@@ -234,7 +234,7 @@ VOCALOID傳說曲是指歌曲影片再生數超過100萬人觀看的著名曲，
 #### 網路配信專輯
 
 以下是在「KarenT」、[iTunes
-Store之类的网络音乐配信平台上](../Page/iTunes_Store.md "wikilink")、注明了「Megpoid」或者「GUMI」作为歌手演唱的专辑。
+Store之类的网络音乐配信平台上](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、注明了「Megpoid」或者「GUMI」作为歌手演唱的专辑。
 
 <table>
 <thead>
@@ -332,7 +332,7 @@ Store之类的网络音乐配信平台上](../Page/iTunes_Store.md "wikilink")�
 </tr>
 <tr class="even">
 <td><p>EVILS FOREST</p></td>
-<td><p><a href="../Page/mothy.md" title="wikilink">mothy</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/mothy" title="wikilink">mothy</a></p></td>
 <td><p>2010年8月10日</p></td>
 </tr>
 <tr class="odd">
@@ -574,7 +574,7 @@ Store之类的网络音乐配信平台上](../Page/iTunes_Store.md "wikilink")�
 
 > 2011年12月間的限定活動，在游戲中銷售個人角色穿上後能變成GUMI模樣的套裝道具。
 
-**[Cytus](../Page/Cytus.md "wikilink")**
+**[Cytus](https://zh.wikipedia.org/wiki/Cytus "wikilink")**
 
 > 章節Chapter IX - BURIED插入歌曲《COMA》
 
@@ -608,7 +608,7 @@ Store之类的网络音乐配信平台上](../Page/iTunes_Store.md "wikilink")�
 
 #### 小說
 
-**[惡之系列](../Page/惡之系列.md "wikilink")**小說（原作：[mothy](../Page/mothy.md "wikilink")（悪之P）、作者：[mothy](../Page/mothy.md "wikilink")（悪之P）、出版社：PHP研究所）
+**[惡之系列](../Page/惡之系列.md "wikilink")**小說（原作：[mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（悪之P）、作者：[mothy](https://zh.wikipedia.org/wiki/mothy "wikilink")（悪之P）、出版社：PHP研究所）
 
 桜ノ雨（原作：halyosy、作者：藤田遼\&Studio Hard Deluxe、出版社：PHP研究所）
 
@@ -624,13 +624,13 @@ Store之类的网络音乐配信平台上](../Page/iTunes_Store.md "wikilink")�
 
 シリョクケンサ（原作：[40mP](../Page/40mP.md "wikilink")、作者：シャノ、出版社：PHP研究所）
 
-人生リセットボタン（原作：[kemu](../Page/kemu.md "wikilink")、作者：木本雅彦、出版社：PHP研究所）
+人生リセットボタン（原作：[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink")、作者：木本雅彦、出版社：PHP研究所）
 
-イカサマライフゲイム（原作：[kemu](../Page/kemu.md "wikilink")、作者：一歳椿、出版社：PHP研究所）
+イカサマライフゲイム（原作：[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink")、作者：一歳椿、出版社：PHP研究所）
 
-インビジブル（原作：[kemu](../Page/kemu.md "wikilink")、作者：岩関昴道、出版社：PHP研究所）
+インビジブル（原作：[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink")、作者：岩関昴道、出版社：PHP研究所）
 
-弱虫モンブラン（原作：[DECO\*27](../Page/DECO*27.md "wikilink")、作者：櫻川さなぎ、出版社：KADOKAWA）
+弱虫モンブラン（原作：[DECO\*27](https://zh.wikipedia.org/wiki/DECO*27 "wikilink")、作者：櫻川さなぎ、出版社：KADOKAWA）
 
 ECHO（原作：Crusher-P、作者：[日日日](../Page/日日日.md "wikilink")、绘：おぐち、出版社：PHP研究所）
 
@@ -657,7 +657,7 @@ Megpoid公式ファンブック\~GUMIの軌跡\~
 ### 其他
 
   - 『Crosslight』
-    GUMI的设计师結城正美、kz（[livetune](../Page/livetune.md "wikilink")）所合作的一张专辑。KZ负责作曲，結城正美则描绘出所表现出来的世界。主角是原创角色，而GUMI以偶像歌手的角色在作品中登场。
+    GUMI的设计师結城正美、kz（[livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")）所合作的一张专辑。KZ负责作曲，結城正美则描绘出所表现出来的世界。主角是原创角色，而GUMI以偶像歌手的角色在作品中登场。
 
 ## 試聽歌曲
 

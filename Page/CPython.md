@@ -1,6 +1,6 @@
-**CPython**是用[C语言实现的](../Page/C语言.md "wikilink")[Python解释器](../Page/Python.md "wikilink")。作为官方实现，它是最广泛使用的Python解释器。除了CPython以外，还有用[Java实现的](../Page/Java.md "wikilink")[Jython](../Page/Jython.md "wikilink")，用[.NET实现的](../Page/.NET.md "wikilink")[IronPython](../Page/IronPython.md "wikilink")，使[Python方便地和](../Page/Python.md "wikilink")[Java程序](../Page/Java.md "wikilink")、[.NET程序](../Page/.NET.md "wikilink")[集成](../Page/集成.md "wikilink")。另外还有一些实验性的Python解释器比如[PyPy](../Page/PyPy.md "wikilink")。
+**CPython**是用[C语言实现的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[Python解释器](../Page/Python.md "wikilink")。作为官方实现，它是最广泛使用的Python解释器。除了CPython以外，还有用[Java实现的](../Page/Java.md "wikilink")[Jython](../Page/Jython.md "wikilink")，用[.NET实现的](https://zh.wikipedia.org/wiki/.NET "wikilink")[IronPython](../Page/IronPython.md "wikilink")，使[Python方便地和](../Page/Python.md "wikilink")[Java程序](../Page/Java.md "wikilink")、[.NET程序](https://zh.wikipedia.org/wiki/.NET "wikilink")[集成](https://zh.wikipedia.org/wiki/集成 "wikilink")。另外还有一些实验性的Python解释器比如[PyPy](../Page/PyPy.md "wikilink")。
 
-CPython是使用[字节码的](../Page/字节码.md "wikilink")[解释器](../Page/解释器.md "wikilink")，任何程序源代码在执行之前先要[编译成字节码](../Page/编译.md "wikilink")。它还有和几种其它语言（包括C语言）交互的[外部函数接口](../Page/外部函数接口.md "wikilink")。
+CPython是使用[字节码的](https://zh.wikipedia.org/wiki/字节码 "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，任何程序源代码在执行之前先要[编译成字节码](https://zh.wikipedia.org/wiki/编译 "wikilink")。它还有和几种其它语言（包括C语言）交互的[外部函数接口](https://zh.wikipedia.org/wiki/外部函数接口 "wikilink")。
 
 ## 支持的平台
 
@@ -13,55 +13,55 @@ CPython是使用[字节码的](../Page/字节码.md "wikilink")[解释器](../Pa
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/类Unix.md" title="wikilink">类Unix</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/类Unix" title="wikilink">类Unix</a></strong><br />
 <br />
-* <a href="../Page/AIX.md" title="wikilink">AIX</a><br />
+* <a href="https://zh.wikipedia.org/wiki/AIX" title="wikilink">AIX</a><br />
 * <a href="../Page/BSD.md" title="wikilink">BSD</a><br />
-* <a href="../Page/Darwin.md" title="wikilink">Darwin</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Darwin" title="wikilink">Darwin</a><br />
 * <a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a><br />
 * <a href="../Page/HP-UX.md" title="wikilink">HP-UX</a><br />
 * <a href="../Page/IRIX.md" title="wikilink">IRIX</a> 5以及更高版本<br />
 * <a href="../Page/貝爾實驗室九號計畫.md" title="wikilink">九號計畫</a><br />
-* <a href="../Page/Mac_OS_X.md" title="wikilink">Mac OS X</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Mac_OS_X" title="wikilink">Mac OS X</a><br />
 * <a href="../Page/NetBSD.md" title="wikilink">NetBSD</a><br />
 * <a href="../Page/Linux.md" title="wikilink">Linux</a><br />
 * <a href="../Page/OpenBSD.md" title="wikilink">OpenBSD</a><br />
 * <a href="../Page/Solaris.md" title="wikilink">Solaris</a><br />
-* <a href="../Page/Tru64.md" title="wikilink">Tru64</a><br />
-*其它<a href="../Page/Unix.md" title="wikilink">Unix</a></p></td>
+* <a href="https://zh.wikipedia.org/wiki/Tru64" title="wikilink">Tru64</a><br />
+*其它<a href="https://zh.wikipedia.org/wiki/Unix" title="wikilink">Unix</a></p></td>
 <td><p><strong>桌面操作系统</strong><br />
 <br />
-* <a href="../Page/AROS.md" title="wikilink">AROS</a><br />
-* <a href="../Page/AtheOS.md" title="wikilink">AtheOS</a><br />
+* <a href="https://zh.wikipedia.org/wiki/AROS" title="wikilink">AROS</a><br />
+* <a href="https://zh.wikipedia.org/wiki/AtheOS" title="wikilink">AtheOS</a><br />
 * <a href="../Page/BeOS.md" title="wikilink">BeOS</a><br />
-* <a href="../Page/Windows.md" title="wikilink">Windows</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a><br />
 * <a href="../Page/Windows_NT.md" title="wikilink">Windows NT</a><br />
-* <a href="../Page/OS/2.md" title="wikilink">OS/2</a><br />
+* <a href="https://zh.wikipedia.org/wiki/OS/2" title="wikilink">OS/2</a><br />
 * <a href="../Page/RISC_OS.md" title="wikilink">RISC OS</a></p></td>
 <td><p><strong>特殊的和嵌入式</strong><br />
 <br />
-* <a href="../Page/GP2X.md" title="wikilink">GP2X</a><br />
-* <a href="../Page/iPodLinux.md" title="wikilink">iPodLinux</a><br />
-* <a href="../Page/Nintendo_DS.md" title="wikilink">Nintendo DS</a><br />
-* <a href="../Page/Nintendo_Gamecube.md" title="wikilink">Nintendo Gamecube</a><br />
-* <a href="../Page/Symbian_OS_Series60.md" title="wikilink">Symbian OS Series60</a><br />
-* <a href="../Page/Nokia_770_Internet_Tablet.md" title="wikilink">Nokia 770 Internet Tablet</a><br />
-* <a href="../Page/Nokia_N800.md" title="wikilink">Nokia N800</a><br />
-* <a href="../Page/Nokia_N810.md" title="wikilink">Nokia N810</a><br />
+* <a href="https://zh.wikipedia.org/wiki/GP2X" title="wikilink">GP2X</a><br />
+* <a href="https://zh.wikipedia.org/wiki/iPodLinux" title="wikilink">iPodLinux</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Nintendo_DS" title="wikilink">Nintendo DS</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Nintendo_Gamecube" title="wikilink">Nintendo Gamecube</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Symbian_OS_Series60" title="wikilink">Symbian OS Series60</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Nokia_770_Internet_Tablet" title="wikilink">Nokia 770 Internet Tablet</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Nokia_N800" title="wikilink">Nokia N800</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Nokia_N810" title="wikilink">Nokia N810</a><br />
 * <a href="../Page/Palm_OS.md" title="wikilink">Palm OS</a><br />
 * <a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a><br />
 * <a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>（Linux）<br />
-* <a href="../Page/Psion.md" title="wikilink">Psion</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Psion" title="wikilink">Psion</a><br />
 * <a href="../Page/QNX.md" title="wikilink">QNX</a><br />
-* <a href="../Page/Sharp_Zaurus.md" title="wikilink">Sharp Zaurus</a><br />
-* <a href="../Page/Xbox_(遊戲機).md" title="wikilink">Xbox</a>/<a href="../Page/XBMC.md" title="wikilink">XBMC</a><br />
+* <a href="https://zh.wikipedia.org/wiki/Sharp_Zaurus" title="wikilink">Sharp Zaurus</a><br />
+* <a href="../Page/Xbox_(遊戲機).md" title="wikilink">Xbox</a>/<a href="https://zh.wikipedia.org/wiki/XBMC" title="wikilink">XBMC</a><br />
 * <a href="../Page/VxWorks.md" title="wikilink">VxWorks</a><br />
-* <a href="../Page/Openmoko.md" title="wikilink">Openmoko</a></p></td>
+* <a href="https://zh.wikipedia.org/wiki/Openmoko" title="wikilink">Openmoko</a></p></td>
 <td><p><strong>大型机和其它</strong><br />
 <br />
-* <a href="../Page/OS/390.md" title="wikilink">OS/390</a><br />
-* <a href="../Page/OpenVMS.md" title="wikilink">VMS</a><br />
-* <a href="../Page/z/OS.md" title="wikilink">z/OS</a></p></td>
+* <a href="https://zh.wikipedia.org/wiki/OS/390" title="wikilink">OS/390</a><br />
+* <a href="https://zh.wikipedia.org/wiki/OpenVMS" title="wikilink">VMS</a><br />
+* <a href="https://zh.wikipedia.org/wiki/z/OS" title="wikilink">z/OS</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -77,25 +77,26 @@ CPython是使用[字节码的](../Page/字节码.md "wikilink")[解释器](../Pa
 
 ## 非官方的移植
 
-这些版本没有进入[Python软件基金会的官方版本](../Page/Python软件基金会.md "wikilink")，这些版本包含了为特定平台提供的模块，如为PSP提供的图像和声音[API以及为S](../Page/API.md "wikilink")60提供的[SMS和照相机API](../Page/SMS.md "wikilink")。
+这些版本没有进入[Python软件基金会的官方版本](https://zh.wikipedia.org/wiki/Python软件基金会 "wikilink")，这些版本包含了为特定平台提供的模块，如为PSP提供的图像和声音[API以及为S](https://zh.wikipedia.org/wiki/API "wikilink")60提供的[SMS和照相机API](https://zh.wikipedia.org/wiki/SMS "wikilink")。
 
   - [Amiga](../Page/Amiga.md "wikilink")
     [1](http://www.monkeyhouse.eclipse.co.uk/amiga/python/)
-  - [AS/400](../Page/AS/400.md "wikilink")
+  - [AS/400](https://zh.wikipedia.org/wiki/AS/400 "wikilink")
     [2](http://www.iseriespython.com/)
-  - [DOS平台使用的](../Page/DOS.md "wikilink")[DJGPP](../Page/DJGPP.md "wikilink")
+  - [DOS平台使用的](../Page/DOS.md "wikilink")[DJGPP](https://zh.wikipedia.org/wiki/DJGPP "wikilink")
     [3](http://www.caddit.net/pythond/)
-  - [PSP](../Page/PSP.md "wikilink")
+  - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")
     [4](https://web.archive.org/web/20090210233518/http://python-psp.net/trac/)
-  - [Symbian](../Page/Symbian.md "wikilink")
+  - [Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")
     [5](https://web.archive.org/web/20080810154656/http://opensource.nokia.com/projects/pythonfors60/)
-  - [Windows CE](../Page/Windows_CE.md "wikilink")/[Pocket
+  - [Windows
+    CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")/[Pocket
     PC](../Page/Pocket_PC.md "wikilink")
     [6](http://pythonce.sourceforge.net/)
 
 ## 并发问题
 
-在[多处理器的计算机上使用CPython的主要问题来自CPython的](../Page/多处理器.md "wikilink")[全局解释器锁](../Page/全局解释器锁.md "wikilink")（Global
+在[多处理器的计算机上使用CPython的主要问题来自CPython的](https://zh.wikipedia.org/wiki/多处理器 "wikilink")[全局解释器锁](../Page/全局解释器锁.md "wikilink")（Global
 Interpreter
 Lock，GIL），它使得CPython不能进行并发编程。\[1\]要做到并发编程，就必须为每一个线程运行一个解释器。如果这样的话，它们之间的通讯就非常困难。所以社区内一直在讨论是否要从CPython中去除GIL。\[2\]
 

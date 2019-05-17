@@ -1,7 +1,7 @@
 《**Wii運動 度假勝地**》（Wii Sports
 Resort），是[任天堂繼](../Page/任天堂.md "wikilink")[Wii
-Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii平台](../Page/Wii.md "wikilink")，搭配新週邊[Wii動感強化器來做出更精準的動作感應](../Page/Wii動感強化器.md "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](../Page/快艇.md "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](../Page/桌球.md "wikilink")、[水上摩托車](../Page/水上摩托車.md "wikilink")、[籃球](../Page/籃球.md "wikilink")、[高爾夫球等項目](../Page/高爾夫球.md "wikilink")。遊戲內容大致上承繼著Wii
-Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](../Page/拳擊.md "wikilink")[網球這三種舊版遊戲在Wii](../Page/網球.md "wikilink")
+Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii平台](../Page/Wii.md "wikilink")，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球等項目](../Page/高爾夫球.md "wikilink")。遊戲內容大致上承繼著Wii
+Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](https://zh.wikipedia.org/wiki/拳擊 "wikilink")[網球這三種舊版遊戲在Wii](https://zh.wikipedia.org/wiki/網球 "wikilink")
 Sports Resort沒有出現。
 
 ## 遊戲場景
@@ -10,17 +10,17 @@ Sports Resort沒有出現。
 
 ### 烏富島
 
-故事發生的主要舞台，著名地標為有「天嘎·納曼迦[火山](../Page/火山.md "wikilink")」，島的東南面有一[連島沙洲與紅豆島連接](../Page/連島沙洲.md "wikilink")。在此連島沙洲是以「飛盤狗狗」為主要活動場地。
+故事發生的主要舞台，著名地標為有「天嘎·納曼迦[火山](../Page/火山.md "wikilink")」，島的東南面有一[連島沙洲與紅豆島連接](https://zh.wikipedia.org/wiki/連島沙洲 "wikilink")。在此連島沙洲是以「飛盤狗狗」為主要活動場地。
 
 島的西南面為島的市中心，並建有碼頭。
 
 ### 維吉島
 
-以**[高爾夫球](../Page/高爾夫球.md "wikilink")**及**[飛盤高爾夫](../Page/飛盤高爾夫.md "wikilink")**為主題的小島，著名地標為「雙螃蟹岩」
+以**[高爾夫球](../Page/高爾夫球.md "wikilink")**及**[飛盤高爾夫](https://zh.wikipedia.org/wiki/飛盤高爾夫 "wikilink")**為主題的小島，著名地標為「雙螃蟹岩」
 
 ## 運動
 
-### [擊劍](../Page/擊劍.md "wikilink")
+### [擊劍](https://zh.wikipedia.org/wiki/擊劍 "wikilink")
 
 #### 比賽
 
@@ -34,7 +34,7 @@ Sports Resort沒有出現。
 
 玩家會遇上多個對手，並要將他們擊退。
 
-### [花式滑水](../Page/花式滑水.md "wikilink")
+### [花式滑水](https://zh.wikipedia.org/wiki/花式滑水 "wikilink")
 
 在有限的時間內，盡可能的進行跳躍動作，得分越高者勝。
 
@@ -52,7 +52,7 @@ Sports Resort沒有出現。
 
 分為初級、中級、上級。難度隨著選擇而不同。每個等級共四局，每局三隻箭，每個等級滿分120分。可以單人或最多四人對戰，以分數高為優勝。
 
-### [籃球](../Page/籃球.md "wikilink")
+### [籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")
 
 #### [三分球競賽](../Page/三分球.md "wikilink")
 
@@ -90,13 +90,13 @@ Sports Resort沒有出現。
 
 大致上與標準賽一樣，但球道上增加了障礙物，必須用旋轉球解決。
 
-### [水上摩托車](../Page/水上摩托車.md "wikilink")
+### [水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")
 
 #### 激浪穿環
 
 #### 對戰
 
-### [獨木舟](../Page/獨木舟.md "wikilink")
+### [獨木舟](https://zh.wikipedia.org/wiki/獨木舟 "wikilink")
 
 #### 挑戰
 

@@ -1,5 +1,5 @@
 **Adobe Media
-Player**是由[Adobe開發的桌面](../Page/Adobe.md "wikilink")[媒體播放器](../Page/媒體播放器.md "wikilink")。Adobe
+Player**是由[Adobe開發的桌面](../Page/Adobe.md "wikilink")[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。Adobe
 Media Player是第一個Adobe的[Adobe
 AIR的應用程式](../Page/Adobe_AIR.md "wikilink")。它於拉斯維加斯的NAB中宣佈並於2008年4月發佈。
 

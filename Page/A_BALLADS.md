@@ -3,7 +3,7 @@
 
 ## 說明
 
-本作為首張抒情歌曲精選輯，收錄了自1998年出道以來至2002年之間，所發表過的抒情歌曲。收錄的抒情歌曲多非原版，而是重新作曲、重新編曲或重新演唱的新版本。另外，原創專輯《[RAINBOW](../Page/RAINBOW.md "wikilink")》所尚未完成製作的同名歌曲，也在3個月後的這張精選輯中完整的收錄。本作亦為濱崎步本人唯一一張收錄日文歌名的專輯：〈卒業写真〉。
+本作為首張抒情歌曲精選輯，收錄了自1998年出道以來至2002年之間，所發表過的抒情歌曲。收錄的抒情歌曲多非原版，而是重新作曲、重新編曲或重新演唱的新版本。另外，原創專輯《[RAINBOW](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")》所尚未完成製作的同名歌曲，也在3個月後的這張精選輯中完整的收錄。本作亦為濱崎步本人唯一一張收錄日文歌名的專輯：〈卒業写真〉。
 
 除本作收錄的新曲〈RAINBOW〉和翻唱曲〈卒業写真〉外，其餘12曲由歌迷票選選出，曲順是自票選第12名排至第1名。
 
@@ -17,7 +17,7 @@
 | Oricon年間專輯榜 <small>(2003年)</small>      | 8    | 917,555 |      |
 | Oricon總累積銷量                             | —    | 924,242 |      |
 
-[分類:精選輯](../Page/分類:精選輯.md "wikilink")
+[分類:精選輯](https://zh.wikipedia.org/wiki/分類:精選輯 "wikilink")
 
 [Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
 [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

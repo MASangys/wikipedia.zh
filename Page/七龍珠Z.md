@@ -1,16 +1,17 @@
-《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](../Page/電視動畫.md "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](../Page/Ζ.md "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](../Page/收視率.md "wikilink")
+《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
 獲得廣大觀眾歡迎。
 
 ## 工作人員
 
   - 企画 -
-    森下孝三（[東映動畫](../Page/東映動畫.md "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
+    森下孝三（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 原作 -
     [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
   - 導演 - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
-  - 系列構成 - [小山高生](../Page/小山高生.md "wikilink")
+  - 系列構成 - [小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
   - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - 動畫師→人物設定 - 前田實（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
+  - 動畫師→人物設定 -
+    前田實（1-199話）→[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")（200-291話）
   - 設計 - 池田祐二（1-199話）→徳重賢（200-291話）
   - 系列導演 - 西尾大介（1-199話）
   - 製片 -
@@ -33,7 +34,7 @@
     重岡由美子（1-103話）→名須川京子（104-109話）→川崎悦子（110-233話）→松永佳子（234-291話）（[富士電視台](../Page/富士電視台.md "wikilink")）
   - 顯像 - 東映化學
   - 製作 -
-    [富士電視台](../Page/富士電視台.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")、[東映](../Page/東映.md "wikilink")
+    [富士電視台](../Page/富士電視台.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[東映](../Page/東映.md "wikilink")
 
 ## 主題曲
 
@@ -87,8 +88,8 @@ MANNA
 
 :: （TVSP1・「｣））
 
-:: 作曲・編曲 - [岩崎文紀](../Page/岩崎文紀.md "wikilink") / 歌・VOICE - TOKIO / 演奏 -
-Dragon Majic Orchestra
+:: 作曲・編曲 - [岩崎文紀](https://zh.wikipedia.org/wiki/岩崎文紀 "wikilink") /
+歌・VOICE - TOKIO / 演奏 - Dragon Majic Orchestra
 
 :; 「」（第120話）
 
@@ -142,7 +143,7 @@ Dragon Majic Orchestra
 <td><p>2</p></td>
 <td></td>
 <td><p>史上最強的戰士竟是悟空的哥哥</p></td>
-<td><p><a href="../Page/隅澤克之.md" title="wikilink">隅澤克之</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/隅澤克之" title="wikilink">隅澤克之</a><br />
 小山高生</p></td>
 <td><p>葛西治</p></td>
 <td><p>青嶋克己</p></td>
@@ -157,7 +158,7 @@ Dragon Majic Orchestra
 這是世上最強的搭擋!</p></td>
 <td><p>隅澤克之</p></td>
 <td><p>竹之内和久</p></td>
-<td><p><a href="../Page/進藤滿尾.md" title="wikilink">進藤滿尾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/進藤滿尾" title="wikilink">進藤滿尾</a></p></td>
 <td><p>池田祐二<br />
 山元健生</p></td>
 </tr>
@@ -193,7 +194,7 @@ Dragon Majic Orchestra
 在那個世界加油</p></td>
 <td><p>照井啓司</p></td>
 <td><p><a href="../Page/橋本光夫.md" title="wikilink">橋本光夫</a></p></td>
-<td><p><a href="../Page/海老澤幸男.md" title="wikilink">海老澤幸男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/海老澤幸男" title="wikilink">海老澤幸男</a></p></td>
 <td><p>池田祐二<br />
 高田茂祝</p></td>
 </tr>
@@ -280,7 +281,7 @@ Dragon Majic Orchestra
 <td></td>
 <td><p>甜蜜的誘惑!<br />
 蛇姬的招待★</p></td>
-<td><p><a href="../Page/戶田博史.md" title="wikilink">戶田博史</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戶田博史" title="wikilink">戶田博史</a></p></td>
 <td><p>岡崎稔</p></td>
 <td><p>前田實</p></td>
 <td><p>高田茂祝</p></td>
@@ -619,7 +620,7 @@ Dragon Majic Orchestra
 <td><p>}}</p></td>
 <td><p>弗利沙行星第79<br />
 復活的達爾★</p></td>
-<td><p><a href="../Page/松井亞彌.md" title="wikilink">松井亞彌</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/松井亞彌" title="wikilink">松井亞彌</a><br />
 小山高生</p></td>
 <td><p>松浦錠平</p></td>
 <td><p>内內正幸</p></td>
@@ -643,7 +644,7 @@ Dragon Majic Orchestra
 宇宙的帝王弗利沙★</p></td>
 <td><p>照井啓司</p></td>
 <td><p>折目達也</p></td>
-<td><p><a href="../Page/中鶴勝祥.md" title="wikilink">中鶴勝祥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中鶴勝祥" title="wikilink">中鶴勝祥</a></p></td>
 <td><p>長崎齊</p></td>
 </tr>
 <tr class="even">
@@ -655,7 +656,7 @@ Dragon Majic Orchestra
 <td><p>達爾的野心!宇宙戰士就是我<br />
 </p></td>
 <td><p>隅澤克之</p></td>
-<td><p><a href="../Page/山內重保.md" title="wikilink">山內重保</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山內重保" title="wikilink">山內重保</a></p></td>
 <td><p>內山正幸</p></td>
 </tr>
 <tr class="odd">
@@ -875,7 +876,7 @@ Dragon Majic Orchestra
 <td><p>力高展開猛攻<br />
 又怪又厲害的傢伙!</p></td>
 <td><p>岡崎稔</p></td>
-<td><p><a href="../Page/佐藤正樹.md" title="wikilink">佐藤正樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤正樹" title="wikilink">佐藤正樹</a></p></td>
 <td><p>吉田智子</p></td>
 </tr>
 <tr class="even">
@@ -1143,7 +1144,7 @@ Dragon Majic Orchestra
 <td><p>超級決戰開始!<br />
 我會打倒你這個惡魔</p></td>
 <td><p>松井亞彌</p></td>
-<td><p>（<a href="../Page/小坂春女.md" title="wikilink">小坂春女</a>）<br />
+<td><p>（<a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a>）<br />
 山口彰彦</p></td>
 <td><p>島貫正弘</p></td>
 </tr>
@@ -2717,7 +2718,7 @@ Dragon Majic Orchestra
 <!-- end list -->
 
   -
-    1990年10月17日播放（Z第63話和第64話之間），片長58分鐘。描寫[悟空之父親的最終決戰](../Page/孫悟空_\(七龍珠\).md "wikilink")，雖然它是動畫的原創故事，但是讓鳥山明印象深刻，所以將巴達克畫進原作。
+    1990年10月17日播放（Z第63話和第64話之間），片長58分鐘。描寫[悟空之父親的最終決戰](https://zh.wikipedia.org/wiki/孫悟空_\(七龍珠\) "wikilink")，雖然它是動畫的原創故事，但是讓鳥山明印象深刻，所以將巴達克畫進原作。
 
 <!-- end list -->
 
@@ -2730,31 +2731,31 @@ Dragon Majic Orchestra
 ## 劇場版
 
   - [-{zh-hk:天神之戰;zh-hans:七龙珠Z 热血热斗;zh-tw:七龍珠Z
-    熱血熱鬥;}-](../Page/七龍珠Z_\(1989年劇場版\).md "wikilink")（1989年7月15日）
+    熱血熱鬥;}-](https://zh.wikipedia.org/wiki/七龍珠Z_\(1989年劇場版\) "wikilink")（1989年7月15日）
   - [-{zh-hk:地球最強戰士;zh-hans:七龙珠Z 世上最强之人;zh-tw:七龍珠Z
-    世上最強之人;}-](../Page/七龍珠Z_世界最強的高手.md "wikilink")（1990年3月10日）
+    世上最強之人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_世界最強的高手 "wikilink")（1990年3月10日）
   - [-{zh-hk:地球爭霸戰;zh-hans:七龙珠Z 地球争霸战;zh-tw:七龍珠Z
     地球超決戰;}-](../Page/七龍珠Z_地球超級大決戰.md "wikilink")（1990年7月7日）
   - [-{zh-hk:超級撒亞人;zh-hans:七龙珠Z 超级赛亚人孙悟空;zh-tw:七龍珠Z
     超級賽亞人孫悟空;}-](../Page/七龍珠Z_超級賽亞人孫悟空.md "wikilink")（1991年3月9日）
   - [-{zh-hk:最強對最強;zh-hans:七龙珠Z 最强对最强;zh-tw:七龍珠Z
-    最強對最強;}-](../Page/七龍珠Z_最強對最強.md "wikilink")（1991年7月20日）
+    最強對最強;}-](https://zh.wikipedia.org/wiki/七龍珠Z_最強對最強 "wikilink")（1991年7月20日）
   - [-{zh-hk:100億能量戰士;zh-hans:七龙珠Z 一百亿能量战士们;zh-tw:七龍珠Z
-    激鬥\!100億能量的戰士;}-](../Page/七龍珠Z_激突!!100億能量的戰士.md "wikilink")（1992年3月7日）
+    激鬥\!100億能量的戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_激突!!100億能量的戰士 "wikilink")（1992年3月7日）
   - [-{zh-hk:超激決戰人造人;zh-hans:七龙珠Z 激战人造人;zh-tw:七龍珠Z
     激戰人造人;}-](../Page/七龍珠Z_極限之戰!!三大超級賽亞人.md "wikilink")（1992年7月11日）
   - [-{zh-hk:終極撒亞人;zh-hans:七龙珠Z 传说中的超级赛亚人;zh-tw:七龍珠Z
-    傳說中的超級賽亞人;}-](../Page/七龍珠Z_燃燒吧!!熱戰·烈戰·超激戰.md "wikilink")（1993年3月6日）
+    傳說中的超級賽亞人;}-](https://zh.wikipedia.org/wiki/七龍珠Z_燃燒吧!!熱戰·烈戰·超激戰 "wikilink")（1993年3月6日）
   - [-{zh-hk:銀河最強戰士;zh-hans:七龙珠Z 银河最强战士;zh-tw:七龍珠Z
     銀河最強戰士;}-](../Page/七龍珠Z_銀河面臨危機!!身手不凡的高手.md "wikilink")（1993年7月10日）
   - [-{zh-hk:超能量戰士悟天;zh-hans:七龙珠Z 两人的危机;zh-tw:七龍珠Z
-    兩人的危機;}-](../Page/七龍珠Z_危險的二人!超級戰士難以安枕.md "wikilink")（1994年3月12日）
+    兩人的危機;}-](https://zh.wikipedia.org/wiki/七龍珠Z_危險的二人!超級戰士難以安枕 "wikilink")（1994年3月12日）
   - [-{zh-hk:生化戰士;zh-hans:七龙珠Z 击败超战士;zh-tw:七龍珠Z
-    擊敗超戰士;}-](../Page/七龍珠Z_超級戰士撃破!!勝利的勇士是我.md "wikilink")（1994年7月9日）
+    擊敗超戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_超級戰士撃破!!勝利的勇士是我 "wikilink")（1994年7月9日）
   - [-{zh-hk:冥界超激戰;zh-hans:七龙珠Z 复活！悟空与贝吉塔的合体;zh-tw:七龍珠Z
     復活！悟空與貝吉塔的合體;}-](../Page/七龍珠Z_復活的融合!!悟空和達爾.md "wikilink")（1995年3月4日）
   - [-{zh-hk:龍拳爆發;zh-hans:七龙珠Z 龙拳爆发;zh-tw:七龍珠Z
-    龍拳爆發;}-](../Page/七龍珠Z_龍拳爆發!!悟空捨我其誰.md "wikilink")（1995年7月15日）
+    龍拳爆發;}-](https://zh.wikipedia.org/wiki/七龍珠Z_龍拳爆發!!悟空捨我其誰 "wikilink")（1995年7月15日）
   - [七龍珠Z 神與神](../Page/七龍珠Z_神與神.md "wikilink")（2013年3月30日）
 
 <!-- end list -->
@@ -2764,7 +2765,8 @@ Dragon Majic Orchestra
 
 <!-- end list -->
 
-  - [七龍珠Z 復活的F](../Page/七龍珠Z_復活的F.md "wikilink")（2015年上映）
+  - [七龍珠Z
+    復活的F](https://zh.wikipedia.org/wiki/七龍珠Z_復活的F "wikilink")（2015年上映）
 
 <!-- end list -->
 
@@ -2775,7 +2777,7 @@ Dragon Majic Orchestra
 
 <!-- end list -->
 
-  - [唷\!歸來的孫悟空與夥伴們\!\!](../Page/七龍珠_歸來的孫悟空與夥伴們!!.md "wikilink")（2008年）
+  - [唷\!歸來的孫悟空與夥伴們\!\!](https://zh.wikipedia.org/wiki/七龍珠_歸來的孫悟空與夥伴們!! "wikilink")（2008年）
 
 <!-- end list -->
 
@@ -2784,7 +2786,8 @@ Dragon Majic Orchestra
 <!-- end list -->
 
   - [七龍珠Z外傳 賽亞人滅絕計畫](../Page/七龍珠Z外傳_賽亞人滅絕計畫.md "wikilink")(1993年7月23日)
-  - [七龍珠Z 巴達克之章](../Page/七龍珠Z_巴達克之章.md "wikilink")(2012年)
+  - [七龍珠Z
+    巴達克之章](https://zh.wikipedia.org/wiki/七龍珠Z_巴達克之章 "wikilink")(2012年)
 
 ## 參考來源
 
@@ -2796,8 +2799,9 @@ Dragon Majic Orchestra
 
   -
 [cs:Dragon Ball\#Dragon Ball
-Z](../Page/cs:Dragon_Ball#Dragon_Ball_Z.md "wikilink") [ro:Dragon
-Ball\#Dragon Ball Z](../Page/ro:Dragon_Ball#Dragon_Ball_Z.md "wikilink")
+Z](https://zh.wikipedia.org/wiki/cs:Dragon_Ball#Dragon_Ball_Z "wikilink")
+[ro:Dragon Ball\#Dragon Ball
+Z](https://zh.wikipedia.org/wiki/ro:Dragon_Ball#Dragon_Ball_Z "wikilink")
 
 [Category:七龍珠](https://zh.wikipedia.org/wiki/Category:七龍珠 "wikilink")
 [Category:1989年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1989年日本電視動畫 "wikilink")

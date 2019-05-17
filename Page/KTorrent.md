@@ -6,9 +6,9 @@
 
   - 上傳和下載速度上限／節流與調度
   - 互聯網搜索與種子搜索引擎使用[KHTML](../Page/KHTML.md "wikilink")
-    [part](../Page/KPart.md "wikilink")
-  - 支持[UDP連接](../Page/UDP.md "wikilink")。
-  - [DHT](../Page/DHT.md "wikilink")，可支援沒有[tracker的種子](../Page/tracker.md "wikilink")
+    [part](https://zh.wikipedia.org/wiki/KPart "wikilink")
+  - 支持[UDP連接](https://zh.wikipedia.org/wiki/UDP "wikilink")。
+  - [DHT](https://zh.wikipedia.org/wiki/DHT "wikilink")，可支援沒有[tracker的種子](https://zh.wikipedia.org/wiki/tracker "wikilink")
   - 協議加密
   - 文件優先序
   - [RSS](../Page/RSS.md "wikilink") 來源支持
@@ -21,10 +21,10 @@
 KTorrent 4的新特點：
 
   - 支援[µTP协议](../Page/Micro_Transport_Protocol.md "wikilink")
-  - 支援[Magnet链接](../Page/Magnet链接.md "wikilink")
+  - 支援[Magnet链接](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")
   - 增強的隊列管理器
-  - 添加[UDP](../Page/UDP.md "wikilink") [tracker
-    scrape](../Page/tracker_scrape.md "wikilink")
+  - 添加[UDP](https://zh.wikipedia.org/wiki/UDP "wikilink") [tracker
+    scrape](https://zh.wikipedia.org/wiki/tracker_scrape "wikilink")
   - 可暫時禁用網路驗證和頻寬調度器
 
 ## 參見

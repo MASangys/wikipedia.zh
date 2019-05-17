@@ -1,7 +1,7 @@
 **Mac OS X v10.0「Cheetah」**（「Cheetah」字面解作「獵豹」）是蘋果為 Mac 產品所製作的作業系統Mac OS
 X的第一個版本。其早期版本相當慢，功能也不齊全，僅有少量來自獨立開發商的應用軟件。很多評論員認為它並不是一款成熟的大眾化產品，但不失為一項有潛力的開發項目。蘋果從1996年就開始重寫Mac操作系統，對於翹首盼望多年的業界人士而言，推出Mac
 OS X v10.0本身就是一項了不起的成就。除去一些較小的補丁，Mac OS
-X的穩定性也頗具口碑，系統內核的錯誤比以往大大減少了。對它的批評主要是慢，與[2000年9月的](../Page/2000年9月.md "wikilink")[Mac
+X的穩定性也頗具口碑，系統內核的錯誤比以往大大減少了。對它的批評主要是慢，與[2000年9月的](https://zh.wikipedia.org/wiki/2000年9月 "wikilink")[Mac
 OS X公開測試版相比](../Page/Mac_OS_X公開測試版.md "wikilink")，獵豹並沒有跑得更快些。
 
 ## 系统要求
@@ -19,7 +19,7 @@ OS X公開測試版相比](../Page/Mac_OS_X公開測試版.md "wikilink")，獵�
   - XNU 內核 – 第一次使用類Unix內核的Macintosh操作系統，並且從技術角度其中一個最大的改變的Mac OS X終端
   - Mail (e-mail 客戶端)
   - Address Book
-  - 用新文字處理器[TextEdit取代了](../Page/TextEdit.md "wikilink")[SimpleText](../Page/SimpleText.md "wikilink")
+  - 用新文字處理器[TextEdit取代了](https://zh.wikipedia.org/wiki/TextEdit "wikilink")[SimpleText](https://zh.wikipedia.org/wiki/SimpleText "wikilink")
   - 支持完整的抢先多任务处理,这是Mac上一个期待已久的特征
   - PDF 支持 (在任何應用程式都可創建PDF文件)
   - Aqua Interface

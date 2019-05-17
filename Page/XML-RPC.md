@@ -1,25 +1,26 @@
-**XML-RPC**是一個[远程过程调用](../Page/远程过程调用.md "wikilink")（[遠端程序呼叫](../Page/遠端程序呼叫.md "wikilink")）（)的[分布式计算](../Page/分布式计算.md "wikilink")[協議](../Page/互聯網協議.md "wikilink")，通过[XML将调用函数封装](../Page/XML.md "wikilink")，並使用[HTTP协议作為傳送機制](../Page/超文本传输协议.md "wikilink")。\[1\]
+**XML-RPC**是一個[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（[遠端程序呼叫](https://zh.wikipedia.org/wiki/遠端程序呼叫 "wikilink")）（)的[分布式计算](../Page/分布式计算.md "wikilink")[協議](https://zh.wikipedia.org/wiki/互聯網協議 "wikilink")，通过[XML将调用函数封装](../Page/XML.md "wikilink")，並使用[HTTP协议作為傳送機制](../Page/超文本传输协议.md "wikilink")。\[1\]
 
 ## 歷史
 
 XML-RPC發表於1998年，由[UserLand
-Software](../Page/UserLand_Software.md "wikilink")（）的[Dave
-Winer及](../Page/Dave_Winer.md "wikilink")[Microsoft共同發表](../Page/Microsoft.md "wikilink")\[2\]。後來在新的功能不斷被引入下，這個標準慢慢演變成為今日的[SOAP協定](../Page/SOAP.md "wikilink")。
+Software](https://zh.wikipedia.org/wiki/UserLand_Software "wikilink")（）的[Dave
+Winer及](https://zh.wikipedia.org/wiki/Dave_Winer "wikilink")[Microsoft共同發表](https://zh.wikipedia.org/wiki/Microsoft "wikilink")\[2\]。後來在新的功能不斷被引入下，這個標準慢慢演變成為今日的[SOAP協定](https://zh.wikipedia.org/wiki/SOAP "wikilink")。
 
 XML-RPC協定是已登記的專利項目，由[Phillip
-Merrick](../Page/Phillip_Merrick.md "wikilink")、Stewart Allen及Joseph
-Lapp共同持有，於1998年3月提出申請，指其將用於一個構想中的應用程式，並於2006年4月獲得接納。現時這個專利由位於[美國](../Page/美國.md "wikilink")[維珍尼亞州](../Page/維珍尼亞州.md "wikilink")[費爾法克斯的](../Page/費爾法克斯_\(維吉尼亞州\).md "wikilink")[webMethods使用](../Page/webMethods.md "wikilink")\[3\]。
+Merrick](https://zh.wikipedia.org/wiki/Phillip_Merrick "wikilink")、Stewart
+Allen及Joseph
+Lapp共同持有，於1998年3月提出申請，指其將用於一個構想中的應用程式，並於2006年4月獲得接納。現時這個專利由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[維珍尼亞州](https://zh.wikipedia.org/wiki/維珍尼亞州 "wikilink")[費爾法克斯的](../Page/費爾法克斯_\(維吉尼亞州\).md "wikilink")[webMethods使用](https://zh.wikipedia.org/wiki/webMethods "wikilink")\[3\]。
 
 ## 用法
 
 XML-RPC透過向裝置了這個協定的伺服器發出HTTP請求。發出請求的用戶端一般都是需要向遠端系統要求呼叫的軟件。
 
-[JSON-RPC](../Page/JSON-RPC.md "wikilink")（[JSON-RPC](../Page/JSON-RPC.md "wikilink")）跟
+[JSON-RPC](https://zh.wikipedia.org/wiki/JSON-RPC "wikilink")（[JSON-RPC](https://zh.wikipedia.org/wiki/JSON-RPC "wikilink")）跟
 XML-RPC 相類似。
 
 ## 数据类型
 
-以下的例子為日常的[数据类型在轉化為等同的XML後的面貌](../Page/数据类型.md "wikilink")：
+以下的例子為日常的[数据类型在轉化為等同的XML後的面貌](https://zh.wikipedia.org/wiki/数据类型 "wikilink")：
 
 <table>
 <thead>
@@ -49,7 +50,7 @@ XML-RPC 相類似。
 <tr class="odd">
 <td><p>boolean</p></td>
 <td><div class="sourceCode" id="cb3"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb3-1" title="1"><span class="kw">&lt;boolean&gt;</span>1<span class="kw">&lt;/boolean&gt;</span></a></code></pre></div></td>
-<td><p><a href="../Page/布尔型.md" title="wikilink">布尔型邏輯值</a> (0 或 1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布尔型" title="wikilink">布尔型邏輯值</a> (0 或 1)</p></td>
 </tr>
 <tr class="even">
 <td><p>date/time</p></td>
@@ -59,19 +60,19 @@ XML-RPC 相類似。
 <tr class="odd">
 <td><p>double</p></td>
 <td><div class="sourceCode" id="cb5"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb5-1" title="1"><span class="kw">&lt;double&gt;</span>-12.53<span class="kw">&lt;/double&gt;</span></a></code></pre></div></td>
-<td><p><a href="../Page/雙倍精確浮點數.md" title="wikilink">雙倍精確浮點數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙倍精確浮點數" title="wikilink">雙倍精確浮點數</a></p></td>
 </tr>
 <tr class="even">
 <td><p>integer</p></td>
 <td><div class="sourceCode" id="cb6"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb6-1" title="1"><span class="kw">&lt;i4&gt;</span>42<span class="kw">&lt;/i4&gt;</span></a></code></pre></div>
 <p>or</p>
 <div class="sourceCode" id="cb7"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb7-1" title="1"><span class="kw">&lt;int&gt;</span>42<span class="kw">&lt;/int&gt;</span></a></code></pre></div></td>
-<td><p><a href="../Page/整數.md" title="wikilink">整數</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/整數" title="wikilink">整數</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>string</p></td>
 <td><div class="sourceCode" id="cb8"><pre class="sourceCode xml"><code class="sourceCode xml"><a class="sourceLine" id="cb8-1" title="1"><span class="kw">&lt;string&gt;</span>Hello world!<span class="kw">&lt;/string&gt;</span></a></code></pre></div></td>
-<td><p>字符串，必須遵守<a href="../Page/XML_encoding.md" title="wikilink">XML encoding</a>（<a href="../Page/XML.md" title="wikilink">XML encoding</a>）的格式。</p></td>
+<td><p>字符串，必須遵守<a href="https://zh.wikipedia.org/wiki/XML_encoding" title="wikilink">XML encoding</a>（<a href="../Page/XML.md" title="wikilink">XML encoding</a>）的格式。</p></td>
 </tr>
 <tr class="even">
 <td><p>struct</p></td>
@@ -85,7 +86,7 @@ XML-RPC 相類似。
 <a class="sourceLine" id="cb9-8" title="8">    <span class="kw">&lt;value&gt;&lt;i4&gt;</span>2<span class="kw">&lt;/i4&gt;&lt;/value&gt;</span></a>
 <a class="sourceLine" id="cb9-9" title="9">  <span class="kw">&lt;/member&gt;</span></a>
 <a class="sourceLine" id="cb9-10" title="10"><span class="kw">&lt;/struct&gt;</span></a></code></pre></div></td>
-<td><p><a href="../Page/结构体.md" title="wikilink">结构体</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/结构体" title="wikilink">结构体</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>nil</p></td>
@@ -209,7 +210,7 @@ XML-RPC 相類似。
     classes for XMPP
   - [Jabber-RPC](http://xmpp.org/extensions/xep-0009.html): Over the
     [Extensible Messaging and Presence
-    Protocol](../Page/Extensible_Messaging_and_Presence_Protocol.md "wikilink")
+    Protocol](https://zh.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol "wikilink")
     protocol
 
 ### Other
@@ -219,7 +220,8 @@ XML-RPC 相類似。
     differences between JSON-RPC and XML-RPC
   - [RemObjects SDK](http://www.remobjects.com/ro) Delphi and .NET
     package for XML-RPC, in addition to
-    [SOAP](../Page/SOAP_\(protocol\).md "wikilink") and others
+    [SOAP](https://zh.wikipedia.org/wiki/SOAP_\(protocol\) "wikilink")
+    and others
   - [RealThinClient SDK](http://www.realthinclient.com): For Delphi/C++
   - [XML::RPC](http://search.cpan.org/~daan/XML-RPC-0.5/lib/XML/RPC.pm):
     Perl module implementation
@@ -244,7 +246,8 @@ XML-RPC 相類似。
     For Ruby
   - [XML-RPC interface to
     Lua](https://web.archive.org/web/20100324022719/http://www.keplerproject.org/luaxmlrpc/):
-    For [Lua](../Page/Lua_\(programming_language\).md "wikilink")
+    For
+    [Lua](https://zh.wikipedia.org/wiki/Lua_\(programming_language\) "wikilink")
   - [android-xmlrpc](http://code.google.com/p/android-xmlrpc/): A light
     XML-RPC client for Google Android
   - [XML-RPC for Tcl](http://sourceforge.net/projects/xmlrpctcl/): A Tcl
@@ -256,11 +259,11 @@ XML-RPC 相類似。
 
   - [AJAX](../Page/AJAX.md "wikilink")
   - [Component
-    technologies](../Page/Software_componentry#Technologies_for_Software_Components.md "wikilink")
+    technologies](https://zh.wikipedia.org/wiki/Software_componentry#Technologies_for_Software_Components "wikilink")
   - [List of Web service markup
-    languages](../Page/List_of_Web_service_markup_languages.md "wikilink")
-  - [OPML](../Page/OPML.md "wikilink")
-  - [Web服務](../Page/Web服務.md "wikilink")
+    languages](https://zh.wikipedia.org/wiki/List_of_Web_service_markup_languages "wikilink")
+  - [OPML](https://zh.wikipedia.org/wiki/OPML "wikilink")
+  - [Web服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")
 
 ## 參考資料
 

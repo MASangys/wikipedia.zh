@@ -1,4 +1,4 @@
-本列表介紹[日本](../Page/日本.md "wikilink")[動畫](../Page/動畫.md "wikilink")《[新機動戰記GUNDAM
+本列表介紹[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[新機動戰記GUNDAM
 W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的登場角色。
 
 ## 殖民地GUNDAM駕駛員

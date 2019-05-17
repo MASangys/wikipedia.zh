@@ -1,24 +1,26 @@
 **VDPAU** (**Video Decode and Presentation API for
-Unix**)是一个最初由[NVIDIA开发的针对其GeForce](../Page/NVIDIA.md "wikilink")
-8系列以及更高系列的[GPU](../Page/GPU.md "wikilink")\[1\]\[2\]
-，在[UNIX和](../Page/UNIX.md "wikilink")[类UNIX系统](../Page/类UNIX.md "wikilink")（包括
+Unix**)是一个最初由[NVIDIA开发的针对其GeForce](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
+8系列以及更高系列的[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")\[1\]\[2\]
+，在[UNIX和](../Page/UNIX.md "wikilink")[类UNIX系统](https://zh.wikipedia.org/wiki/类UNIX "wikilink")（包括
 [Linux](../Page/Linux.md "wikilink")、[FreeBSD和](../Page/FreeBSD.md "wikilink")[Solaris](../Page/Solaris.md "wikilink")）下基于[X
-Window系统下的开源库](../Page/X_Window系统.md "wikilink")(libvdpau)和[API](../Page/API.md "wikilink")。
-VDPAU的API可以让[视频播放器把一部分的视频解码和视频图像补偿交给](../Page/视频播放器.md "wikilink")[GPU](../Page/GPU.md "wikilink")\[3\]\[4\]\[5\]。
+Window系统下的开源库](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")(libvdpau)和[API](https://zh.wikipedia.org/wiki/API "wikilink")。
+VDPAU的API可以让[视频播放器把一部分的视频解码和视频图像补偿交给](https://zh.wikipedia.org/wiki/视频播放器 "wikilink")[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")\[3\]\[4\]\[5\]。
 目前VDPAU有能力处理一部分的[运动补偿](../Page/运动补偿.md "wikilink")、[离散余弦变换](../Page/离散余弦变换.md "wikilink")、和对使用[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-4
-AVC](../Page/MPEG-4_AVC.md "wikilink")([H.264](../Page/H.264.md "wikilink"))、[VC-1和](../Page/VC-1.md "wikilink")[WMV3](../Page/WMV3.md "wikilink")/[WMV9格式编码的视频进行](../Page/WMV9.md "wikilink")[环内去块滤波](../Page/环内去块滤波.md "wikilink")
+AVC](https://zh.wikipedia.org/wiki/MPEG-4_AVC "wikilink")([H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink"))、[VC-1和](../Page/VC-1.md "wikilink")[WMV3](https://zh.wikipedia.org/wiki/WMV3 "wikilink")/[WMV9格式编码的视频进行](https://zh.wikipedia.org/wiki/WMV9 "wikilink")[环内去块滤波](https://zh.wikipedia.org/wiki/环内去块滤波 "wikilink")
 。当中有一些特定的格式能否于GPU来负担取决于GPU的版本，特别是MPEG-4 ASP (MPEG-4 Part 2), Xvid /
 OpenDivX (DivX 4)和DivX 5格式，这些格式必须使用GeForce 200M (2xxM)系列的GPU\[6\]。
 VDPAU被认为在[X
-Window系统下等同于](../Page/X_Window系统.md "wikilink")[Windows下的](../Page/Windows.md "wikilink")[DxVA](../Page/DxVA.md "wikilink")。
+Window系统下等同于](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")[Windows下的](https://zh.wikipedia.org/wiki/Windows "wikilink")[DxVA](../Page/DxVA.md "wikilink")。
 
 ## 硬件驱动
 
-每种 [GPU](../Page/GPU.md "wikilink") 都需要通过
-[X11](../Page/X11.md "wikilink") 软件设备驱动来开启这项功能。目前只有具有第二代 [PureVideo
-HD](../Page/PureVideo.md "wikilink") 功能的NVIDIA [GeForce
-8](../Page/GeForce_8.md "wikilink")
-[流处理器在安装有](../Page/流处理器.md "wikilink")180.06
+每种 [GPU](https://zh.wikipedia.org/wiki/GPU "wikilink") 都需要通过
+[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")
+软件设备驱动来开启这项功能。目前只有具有第二代
+[PureVideo HD](https://zh.wikipedia.org/wiki/PureVideo "wikilink")
+功能的NVIDIA [GeForce
+8](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")
+[流处理器在安装有](https://zh.wikipedia.org/wiki/流处理器 "wikilink")180.06
 beta以上版本的驱动程序才可支持。\[7\] 不支持的硬件包括 GeForce 8 系列的8800GTS 320/640MB 显存版和8800
 GTX。后来基于 G9x 核心的显卡例如8400GS和8800GTS(G92核心)都已支持。 NVIDIA
 没有计划对当前不支持的硬件提供后续支持。\[8\] S3
@@ -62,16 +64,16 @@ Intel 和 AMD 的开源显卡驱动。\[12\]
 
 不同的硬件版本支持不同不同版本和不同水平的硬件解码\[20\] 。目前所有的NVIDIA VDPAU 功能集,最大视频宽度与高度为2048
 [像素](../Page/像素.md "wikilink"), 最小视频宽度与高度为48
-像素,并且所有编码目前限制在最大8192个[宏区块](../Page/宏区块.md "wikilink")
+像素,并且所有编码目前限制在最大8192个[宏区块](https://zh.wikipedia.org/wiki/宏区块 "wikilink")
 (对于VC-1/WMV是8190个). 部分加速意味着
-(图像)的解码在CPU执行,当[GPU执行](../Page/GPU.md "wikilink")[离散余弦变换](../Page/离散余弦变换.md "wikilink")
+(图像)的解码在CPU执行,当[GPU执行](https://zh.wikipedia.org/wiki/GPU "wikilink")[离散余弦变换](../Page/离散余弦变换.md "wikilink")
 和[运动补偿时](../Page/运动补偿.md "wikilink")。完全加速意味着GPU执行全部的[运动补偿](../Page/运动补偿.md "wikilink")、[离散余弦变换](../Page/离散余弦变换.md "wikilink")、
 
   - 功能集 A
-    对[H.264的完全加速](../Page/H.264/MPEG-4_AVC.md "wikilink")。
-    对[MPEG-1](../Page/MPEG-1#Part_2:_Video.md "wikilink"),
+    对[H.264的完全加速](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")。
+    对[MPEG-1](https://zh.wikipedia.org/wiki/MPEG-1#Part_2:_Video "wikilink"),
     [MPEG-2](../Page/MPEG-2.md "wikilink"),
-    [VC-1](../Page/VC-1.md "wikilink")/[WMV9的部分加速](../Page/WMV#Windows_Media_Video.md "wikilink")。
+    [VC-1](../Page/VC-1.md "wikilink")/[WMV9的部分加速](https://zh.wikipedia.org/wiki/WMV#Windows_Media_Video "wikilink")。
   - 功能集 B
     对 MPEG-1, MPEG-2, VC-1/WMV9 and H.264的完全加速.
     所用功能集 B 硬件不能解码以下宽度的: 769-784, 849-864, 929-944, 1009-1024,
@@ -84,33 +86,35 @@ Intel 和 AMD 的开源显卡驱动。\[12\]
 ## 支持的软件
 
   - [MPlayer](../Page/MPlayer.md "wikilink")
-  - [XBMC Media Center](../Page/XBMC.md "wikilink")
+  - [XBMC Media Center](https://zh.wikipedia.org/wiki/XBMC "wikilink")
   - [GStreamer](../Page/GStreamer.md "wikilink")\[21\]
-  - [Boxee](../Page/Boxee.md "wikilink")\[22\]
+  - [Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")\[22\]
   - [MythTV](../Page/MythTV.md "wikilink")\[23\]
-  - [Xine](../Page/Xine.md "wikilink")\[24\]\[25\]
-  - [MLT](../Page/Media_Lovin'_Toolkit.md "wikilink")\[26\]
+  - [Xine](https://zh.wikipedia.org/wiki/Xine "wikilink")\[24\]\[25\]
+  - [MLT](https://zh.wikipedia.org/wiki/Media_Lovin'_Toolkit "wikilink")\[26\]
   - [Adobe Flash](../Page/Adobe_Flash.md "wikilink") 10.2 *Stage Video*
     （目前仅支持32位） \[27\]
-  - [VLC](../Page/VLC.md "wikilink")
+  - [VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")
 
 ## 参见
 
-  - [PureVideo](../Page/PureVideo.md "wikilink") -
+  - [PureVideo](https://zh.wikipedia.org/wiki/PureVideo "wikilink") -
     NVIDIA开发的使用显卡进行视频加速的技术。
   - [DirectX Video Acceleration
     (DxVA)](http://en.wikipedia.org/wiki/DirectX_Video_Acceleration) - 在
     Windows 系统下与 VDPAU 对应的技术。
   - [X-Video Bitstream Acceleration
     (XvBA)](http://en.wikipedia.org/wiki/X-Video_Bitstream_Acceleration)
-    - [AMD](../Page/AMD.md "wikilink") 在 Linux/UNIX 开放系统下相应的
-    [API](../Page/API.md "wikilink") 。
+    - [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 在 Linux/UNIX
+    开放系统下相应的 [API](https://zh.wikipedia.org/wiki/API "wikilink") 。
   - [Video Acceleration API (VA
     API)](http://en.wikipedia.org/wiki/VaAPI) - 一种在 Linux/UNIX
-    开放系统下的视频加速 [API](../Page/API.md "wikilink")。
+    开放系统下的视频加速
+    [API](https://zh.wikipedia.org/wiki/API "wikilink")。
   - [X-Video Motion Compensation (XvMC)
     API](http://en.wikipedia.org/wiki/X-Video_Motion_Compensation) - 一种在
-    Linux/UNIX 开放系统下的视频加速 [API](../Page/API.md "wikilink")。
+    Linux/UNIX 开放系统下的视频加速
+    [API](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 ## 参考资料
 

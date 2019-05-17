@@ -1,6 +1,6 @@
 **Super
-Junior-K.R.Y.**是[流行音樂](../Page/流行音樂.md "wikilink")[男子組合](../Page/男子組合.md "wikilink")[Super
-Junior在](../Page/Super_Junior.md "wikilink")2006年组成的第一个子团體。这个團體名字是由三位成員[圭贤](../Page/圭贤.md "wikilink")**K**yuhyun、[厉旭](../Page/厉旭.md "wikilink")**R**yeowook和[艺声](../Page/艺声.md "wikilink")**Y**esung的英文名开头字母组成的。Super
+Junior-K.R.Y.**是[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[Super
+Junior在](../Page/Super_Junior.md "wikilink")2006年组成的第一个子团體。这个團體名字是由三位成員[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")**K**yuhyun、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")**R**yeowook和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")**Y**esung的英文名开头字母组成的。Super
 Junior-K.R.Y.
 成立后的第一个作品为电视剧《Hyena》的主题曲《只为一个人》，并于2006年11月5日通过KBS的《音乐阵营》正式开始了活动。多以抒情歌為主。
 
@@ -129,7 +129,7 @@ Junior-K.R.Y.
 <td><p>圭賢</p></td>
 </tr>
 <tr class="even">
-<td><p>電視劇《<a href="../Page/面包王金卓求.md" title="wikilink">面包王金卓求</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/面包王金卓求" title="wikilink">面包王金卓求</a>》</p></td>
 <td><p>希望是永不灭的梦</p></td>
 <td></td>
 <td></td>
@@ -203,7 +203,7 @@ Junior-K.R.Y.
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
-<td><p>電視劇《<a href="../Page/武神.md" title="wikilink">武神</a>》OST</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/武神" title="wikilink">武神</a>》OST</p></td>
 <td><p>刃雨</p></td>
 <td></td>
 </tr>
@@ -214,14 +214,14 @@ Junior-K.R.Y.
 <td></td>
 </tr>
 <tr class="even">
-<td><p>電視劇《<a href="../Page/致美麗的你.md" title="wikilink">致美麗的你</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/致美麗的你" title="wikilink">致美麗的你</a>》</p></td>
 <td><p>SKY</p></td>
 <td><p>Super Junior-K.R.Y.</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>致美麗的你</p></td>
-<td><p>圭賢、<a href="../Page/黃美英.md" title="wikilink">Tiffany</a></p></td>
+<td><p>圭賢、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">Tiffany</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -238,7 +238,7 @@ Junior-K.R.Y.
 <td></td>
 </tr>
 <tr class="even">
-<td><p>電視劇《<a href="../Page/电视剧帝王.md" title="wikilink">电视剧帝王</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/电视剧帝王" title="wikilink">电视剧帝王</a>》</p></td>
 <td><p>爱太远</p></td>
 <td><p>藝聲</p></td>
 <td></td>
@@ -250,7 +250,7 @@ Junior-K.R.Y.
 <td></td>
 </tr>
 <tr class="even">
-<td><p>電影《<a href="../Page/克鲁德一家.md" title="wikilink">克鲁德一家</a>》OST</p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/克鲁德一家" title="wikilink">克鲁德一家</a>》OST</p></td>
 <td><p>Shine Your Way</p></td>
 <td><p>圭賢、<a href="../Page/朴善英.md" title="wikilink">Luna</a></p></td>
 <td></td>
@@ -275,7 +275,7 @@ Junior-K.R.Y.
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p>電視劇《<a href="../Page/浩九的愛.md" title="wikilink">浩九的愛</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/浩九的愛" title="wikilink">浩九的愛</a>》</p></td>
 <td><p>直到抵達妳的星球</p></td>
 <td><p>圭賢</p></td>
 </tr>
@@ -299,7 +299,7 @@ Junior-K.R.Y.
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>電視劇《<a href="../Page/能先接吻嗎？.md" title="wikilink">能先接吻嗎？</a>》</p></td>
+<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/能先接吻嗎？" title="wikilink">能先接吻嗎？</a>》</p></td>
 <td><p>一個人做的事情(On My Own)</p></td>
 <td></td>
 </tr>
@@ -322,7 +322,7 @@ Junior-K.R.Y.
 <td><p>2009年</p></td>
 <td><p>SJ一巡演唱會《<a href="../Page/Super_Show.md" title="wikilink">Super Show</a>》</p></td>
 <td><p>One Love</p></td>
-<td><p>Super Junior-K.R.Y.、<a href="../Page/银赫.md" title="wikilink">银赫</a></p></td>
+<td><p>Super Junior-K.R.Y.、<a href="https://zh.wikipedia.org/wiki/银赫" title="wikilink">银赫</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SJ正規三輯《<a href="../Page/Sorry,_Sorry.md" title="wikilink">Sorry, Sorry</a>》</p></td>
@@ -417,7 +417,7 @@ Super Hero 2nd Line Up》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p>SJ正規七輯特別版《<a href="../Page/Mamacita.md" title="wikilink">This is Love</a>》</p></td>
+<td><p>SJ正規七輯特別版《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This is Love</a>》</p></td>
 <td><p>...ing</p></td>
 <td><p>Super Junior-K.R.Y.</p></td>
 </tr>
@@ -435,7 +435,7 @@ Super Hero 2nd Line Up》</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p>SJ正規八輯改版《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》(Pause Ver.)</p></td>
+<td><p>SJ正規八輯改版《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》(Pause Ver.)</p></td>
 <td><p>Shadowless</p></td>
 <td><p>Super Junior-K.R.Y.</p></td>
 </tr>

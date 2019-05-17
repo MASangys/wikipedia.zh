@@ -1,5 +1,5 @@
 **Gdebi**
-是一个安装[.deb软件包的工具](../Page/.deb.md "wikilink")。它提供了图形化的使用界面，但也有命令行选项。
+是一个安装[.deb软件包的工具](https://zh.wikipedia.org/wiki/.deb "wikilink")。它提供了图形化的使用界面，但也有命令行选项。
 在[Ubuntu中会默认安装Gdebi](../Page/Ubuntu.md "wikilink")。
 
 ## 技术
@@ -8,9 +8,9 @@ Gdebi 安装本地的.deb软件包，并自动解决依赖问题(它可以自动
 
 ## 参见
 
-  - [Synaptic](../Page/Synaptic.md "wikilink")
-  - [RPM](../Page/RPM.md "wikilink")
-  - [Yum](../Page/Yum.md "wikilink")
+  - [Synaptic](https://zh.wikipedia.org/wiki/Synaptic "wikilink")
+  - [RPM](https://zh.wikipedia.org/wiki/RPM "wikilink")
+  - [Yum](https://zh.wikipedia.org/wiki/Yum "wikilink")
 
 ## 外部链接
 

@@ -11,29 +11,29 @@
 <th><p><a href="../Page/天主教.md" title="wikilink">天主教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/基督新教.md" title="wikilink">基督新教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/基督新教" title="wikilink">基督新教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/东正教.md" title="wikilink">东正教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教" title="wikilink">东正教</a><br />
 中文译名<br />
 </p></th>
 <th><p>去世时间<br />
 </p></th>
-<th><p><a href="../Page/圣公会.md" title="wikilink">圣公会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/圣公会" title="wikilink">圣公会</a><br />
 </p></th>
-<th><p><a href="../Page/东方正统教会.md" title="wikilink">东方正统教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东方正统教会" title="wikilink">东方正统教会</a><br />
 </p></th>
-<th><p><a href="../Page/东正教会.md" title="wikilink">东正教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教会" title="wikilink">东正教会</a><br />
 </p></th>
-<th><p><a href="../Page/天主教会.md" title="wikilink">天主教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/天主教会" title="wikilink">天主教会</a><br />
 </p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Saint_Wallace.md" title="wikilink">Wallace</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saint_Wallace" title="wikilink">Wallace</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/华拉则.md" title="wikilink">华拉则</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/华拉则" title="wikilink">华拉则</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>c.4世紀（仍有爭議）</p></td>
@@ -43,9 +43,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Waningus.md" title="wikilink">Waningus</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Waningus" title="wikilink">Waningus</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/华宁古.md" title="wikilink">华宁古</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/华宁古" title="wikilink">华宁古</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>683</p></td>
@@ -55,9 +55,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Wenceslaus_I.md" title="wikilink">Wenceslaus I</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wenceslaus_I" title="wikilink">Wenceslaus I</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/文策老一世.md" title="wikilink">文策老一世</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文策老一世" title="wikilink">文策老一世</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>935</p></td>
@@ -67,9 +67,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Werburgh.md" title="wikilink">Werburgh</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Werburgh" title="wikilink">Werburgh</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/沃伯格.md" title="wikilink">沃伯格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沃伯格" title="wikilink">沃伯格</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>699</p></td>
@@ -79,9 +79,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Wiborada.md" title="wikilink">Wiborada</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wiborada" title="wikilink">Wiborada</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/韦伯拉.md" title="wikilink">韦伯拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韦伯拉" title="wikilink">韦伯拉</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>926</p></td>
@@ -91,9 +91,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Wilfrid_of_Ripon.md" title="wikilink">Wilfrid of Ripon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wilfrid_of_Ripon" title="wikilink">Wilfrid of Ripon</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/利本的韦尔法.md" title="wikilink">利本的韦尔法</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/利本的韦尔法" title="wikilink">利本的韦尔法</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>709</p></td>
@@ -103,9 +103,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/William_of_Perth.md" title="wikilink">William of Perth</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/William_of_Perth" title="wikilink">William of Perth</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/珀斯的威廉.md" title="wikilink">珀斯的威廉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/珀斯的威廉" title="wikilink">珀斯的威廉</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1201</p></td>
@@ -115,9 +115,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/William_of_York.md" title="wikilink">William of York</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/William_of_York" title="wikilink">William of York</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/约克的威廉.md" title="wikilink">约克的威廉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/约克的威廉" title="wikilink">约克的威廉</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1154</p></td>
@@ -127,7 +127,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/William_Wilberforce.md" title="wikilink">William Wilberforce</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/William_Wilberforce" title="wikilink">William Wilberforce</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p><a href="../Page/威廉·威伯福斯.md" title="wikilink">威廉·威伯福斯</a></p></td>
@@ -139,10 +139,10 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Willibrord.md" title="wikilink">Willibrord</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Willibrord" title="wikilink">Willibrord</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/威利巴.md" title="wikilink">威利巴</a></p></td>
-<td><p><a href="../Page/卫利勃罗.md" title="wikilink">卫利勃罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威利巴" title="wikilink">威利巴</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卫利勃罗" title="wikilink">卫利勃罗</a></p></td>
 <td><p> </p></td>
 <td><p>739</p></td>
 <td><p>是</p></td>
@@ -151,7 +151,7 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Wolfeius.md" title="wikilink">Wolfeius</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wolfeius" title="wikilink">Wolfeius</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -163,9 +163,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Wolfgang_of_Regensburg.md" title="wikilink">Wolfgang of Regensburg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wolfgang_of_Regensburg" title="wikilink">Wolfgang of Regensburg</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/雷根斯堡的沃夫冈.md" title="wikilink">雷根斯堡的沃夫冈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雷根斯堡的沃夫冈" title="wikilink">雷根斯堡的沃夫冈</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>994</p></td>
@@ -175,9 +175,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Wolfhelm_of_Brauweiler.md" title="wikilink">Wolfhelm of Brauweiler</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wolfhelm_of_Brauweiler" title="wikilink">Wolfhelm of Brauweiler</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/布劳魏勒的沃夫夏.md" title="wikilink">布劳魏勒的沃夫夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布劳魏勒的沃夫夏" title="wikilink">布劳魏勒的沃夫夏</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1091</p></td>

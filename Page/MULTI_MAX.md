@@ -12,7 +12,7 @@ Multi Max的團長；詳情請參閱[恰克](../Page/恰克.md "wikilink")。
 
 擅長多種樂器、負責Multi Max全部專輯編曲的樂手，Multi
 Max裡的歌曲多數由他與恰克倆人完成。他本身也參與[恰克與飛鳥於](../Page/恰克與飛鳥.md "wikilink")90年代多首歌曲的製作，並且在1996年陪同恰克與飛鳥參加英國的[MTV
-UNPLUGGED演唱會](../Page/MTV_UNPLUGGED.md "wikilink")。
+UNPLUGGED演唱會](https://zh.wikipedia.org/wiki/MTV_UNPLUGGED "wikilink")。
 
 **淺井ひろみ**：
 

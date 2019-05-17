@@ -1,10 +1,10 @@
-《**腦科學先生**》（，）是在2009年5月23日至7月11日，於[日本](../Page/日本.md "wikilink")[TBS電視台每週六](../Page/TBS電視台.md "wikilink")19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播放的[電視劇](../Page/電視劇.md "wikilink")，由[木村拓哉主演](../Page/木村拓哉.md "wikilink")，共八回。
+《**腦科學先生**》（，）是在2009年5月23日至7月11日，於[日本](../Page/日本.md "wikilink")[TBS電視台每週六](../Page/TBS電視台.md "wikilink")19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[木村拓哉主演](../Page/木村拓哉.md "wikilink")，共八回。
 
 ## 故事概要
 
 故事主角九十九龍介於五年前從工作回家的時候，遇到了嚴重的意外，並瀕臨死亡。在康復期間，為修補腦部的損傷，其右腦急劇發展，並且獲得驚人的思考能力。
 
-隨後，九十九龍介被[警察廳](../Page/警察廳.md "wikilink")[科學警察研究所選中](../Page/科學警察研究所.md "wikilink")，根據獨自的腦科學方法，解決各種各樣的疑案。
+隨後，九十九龍介被[警察廳](https://zh.wikipedia.org/wiki/警察廳 "wikilink")[科學警察研究所選中](https://zh.wikipedia.org/wiki/科學警察研究所 "wikilink")，根據獨自的腦科學方法，解決各種各樣的疑案。
 
 ## 本作特色
 
@@ -12,7 +12,7 @@
 
 ## 用語
 
-  - [警察廳](../Page/警察廳.md "wikilink")[科學警察研究所](../Page/科學警察研究所.md "wikilink")（I.P.S）
+  - [警察廳](https://zh.wikipedia.org/wiki/警察廳 "wikilink")[科學警察研究所](https://zh.wikipedia.org/wiki/科學警察研究所 "wikilink")（I.P.S）
 
 <!-- end list -->
 
@@ -29,10 +29,10 @@
 <!-- end list -->
 
   -
-    腦科學家及腦科學部的主管。性格開朗、經常作弄別人，喜歡吃[香蕉](../Page/香蕉.md "wikilink")，養了一隻叫**六三四**的[長爪沙鼠作寵物](../Page/長爪沙鼠.md "wikilink")。
+    腦科學家及腦科學部的主管。性格開朗、經常作弄別人，喜歡吃[香蕉](../Page/香蕉.md "wikilink")，養了一隻叫**六三四**的[長爪沙鼠作寵物](https://zh.wikipedia.org/wiki/長爪沙鼠 "wikilink")。
     五年前從事酒店男公關的工作。某日回家途中，因一場嚴重的意外事件，左腦嚴重受損，瀕臨死亡邊緣。
     在康復期間，為修補腦部的損傷，其右腦急劇發展，自此擁有驚人的思考能力。為了更加了解自己的腦構造，立志成為腦科學家，學習腦部的知識，在大學獲得優越的成績並畢業。
-    隨後，被[警察廳](../Page/警察廳.md "wikilink")[科學警察研究所選中](../Page/科學警察研究所.md "wikilink")，根據獨自研究的腦科學理論，解決各種各樣的疑案。
+    隨後，被[警察廳](https://zh.wikipedia.org/wiki/警察廳 "wikilink")[科學警察研究所選中](https://zh.wikipedia.org/wiki/科學警察研究所 "wikilink")，根據獨自研究的腦科學理論，解決各種各樣的疑案。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 <!-- end list -->
 
   - 船木淳平 -
-    （[平泉成飾](../Page/平泉成.md "wikilink")）（粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+    （[平泉成飾](https://zh.wikipedia.org/wiki/平泉成 "wikilink")）（粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
 <!-- end list -->
 
   - 夏目光男 -
-    （（[爆笑問題](../Page/爆笑問題.md "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+    （（[爆笑問題](https://zh.wikipedia.org/wiki/爆笑問題 "wikilink")）飾）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 <!-- end list -->
 
   - 難波丈太郎 -
-    （（[Ulfuls](../Page/Ulfuls.md "wikilink")）飾）（粵語配音：[陳欣](../Page/陳欣.md "wikilink")）
+    （（[Ulfuls](https://zh.wikipedia.org/wiki/Ulfuls "wikilink")）飾）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -147,7 +147,7 @@
 ### 警視廳
 
   - 林田虎之助 -
-    （[水嶋宏飾](../Page/水嶋宏.md "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
+    （[水嶋宏飾](https://zh.wikipedia.org/wiki/水嶋宏 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
@@ -166,7 +166,8 @@
 
 ### 多集出場的角色
 
-  - 武井公平 - （[市川海老藏](../Page/市川海老藏_\(11代目\).md "wikilink")
+  - 武井公平 -
+    （[市川海老藏](https://zh.wikipedia.org/wiki/市川海老藏_\(11代目\) "wikilink")
     飾）（粵語配音：[何承駿](../Page/何承駿.md "wikilink")）
 
 <!-- end list -->
@@ -177,7 +178,7 @@
 <!-- end list -->
 
   - 小島秀樹 -
-    （[杉本哲太飾](../Page/杉本哲太.md "wikilink")）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+    （[杉本哲太飾](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 刑事1 - （飾）
   - 鑑識課員1 - （飾）
   - 警視廳管理官 - （飾）（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
@@ -245,7 +246,7 @@
 
 <!-- end list -->
 
-  - 黑幫 - [阿部亮平](../Page/阿部亮平.md "wikilink")
+  - 黑幫 - [阿部亮平](https://zh.wikipedia.org/wiki/阿部亮平 "wikilink")
 
 #### 案件說明
 
@@ -259,7 +260,7 @@
   - 宮瀨久美子 -
     [小雪](../Page/小雪_\(日本演員\).md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
   - 岸川誠司 -
-    [松重豐](../Page/松重豐.md "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
+    [松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
   - 津村修介 - （粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
@@ -294,12 +295,12 @@
   - 後藤惠 -
     [相武紗季](../Page/相武紗季.md "wikilink")（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - 千原醫師 -
-    [小市慢太郎](../Page/小市慢太郎.md "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
+    [小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
   - 荒木明夫 -
     [平山浩行](../Page/平山浩行.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
   - 日向信一 -
   - 醫師 -
-    [森山米次](../Page/森山米次.md "wikilink")（粵語配音：[林國雄](../Page/林國雄.md "wikilink")）
+    [森山米次](https://zh.wikipedia.org/wiki/森山米次 "wikilink")（粵語配音：[林國雄](../Page/林國雄.md "wikilink")）
 
 #### 案件說明
 
@@ -311,7 +312,7 @@
   - 中川優 -
     [佐藤健](../Page/佐藤健.md "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
   - 中川純 -
-    [木村多江](../Page/木村多江.md "wikilink")（粵語配音：[梁少霞](../Page/梁少霞.md "wikilink")）
+    [木村多江](../Page/木村多江.md "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
   - 八木仁 -
     [東儀秀樹](../Page/東儀秀樹.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
   - 木下莊治 - （粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
@@ -325,7 +326,7 @@
 #### 第五集（後半）～第六集
 
   - 秋吉加奈子 -
-    [仲間由紀惠](../Page/仲間由紀惠.md "wikilink")（粵語配音：[梁少霞](../Page/梁少霞.md "wikilink")）童年
+    [仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")（粵語配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）童年
     -
   - 松下百合子 - （粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
@@ -408,7 +409,7 @@
 <!-- end list -->
 
   - 會場管理人 -
-    [俵木藤汰](../Page/俵木藤汰.md "wikilink")（粵語配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+    [俵木藤汰](https://zh.wikipedia.org/wiki/俵木藤汰 "wikilink")（粵語配音：[陳曙光](../Page/陳曙光.md "wikilink")）
   - 劫機男子 -
     [香取慎吾](../Page/香取慎吾.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 

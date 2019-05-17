@@ -1,4 +1,4 @@
-《**MARS-戰神**》（MARS）是[日本漫畫家](../Page/日本漫畫家.md "wikilink")[惣領冬實所創作的](../Page/惣領冬實.md "wikilink")[日本漫畫作品](../Page/日本漫畫.md "wikilink")。於漫畫雜誌《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》（講談社）1996年2月号到2000年12月號期間進行連載。外傳1話於同誌1999年9月號刊載。單行本全15卷，外傳《無名馬（）》全1卷、文庫版全8卷（包含外傳）。
+《**MARS-戰神**》（MARS）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[惣領冬實所創作的](../Page/惣領冬實.md "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於漫畫雜誌《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》（講談社）1996年2月号到2000年12月號期間進行連載。外傳1話於同誌1999年9月號刊載。單行本全15卷，外傳《無名馬（）》全1卷、文庫版全8卷（包含外傳）。
 
 及根據同名漫畫改編的電視劇。
 
@@ -12,14 +12,14 @@
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/講談社.md" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -177,7 +177,7 @@
 
 ## 日本電視劇
 
-2016年的日本電視劇，由[藤谷太輔](../Page/藤谷太輔.md "wikilink")、[窪田正孝主演](../Page/窪田正孝.md "wikilink")。
+2016年的日本電視劇，由[藤谷太輔](../Page/藤谷太輔.md "wikilink")、[窪田正孝主演](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")。
 
 ### 演員陣容
 
@@ -206,7 +206,7 @@
 <td><center>
 <p>桐島牧生</p></td>
 <td><center>
-<p><a href="../Page/窪田正孝.md" title="wikilink">窪田正孝</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/窪田正孝" title="wikilink">窪田正孝</a></p></td>
 <td><p>桐島<br />
 16歲，高一生<br />
 愛慕零，曾經殺過人</p></td>
@@ -243,7 +243,7 @@
 <td><center>
 <p>木田達也</p></td>
 <td><center>
-<p><a href="../Page/稻葉友.md" title="wikilink">稻葉友</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/稻葉友" title="wikilink">稻葉友</a></p></td>
 <td><p>達也<br />
 17歲，綺羅高中同學<br />
 曾喜歡過綺羅，後與晴美在一起</p></td>
@@ -266,7 +266,7 @@
 <td><center>
 <p>西野香織</p></td>
 <td><center>
-<p><a href="../Page/鈴木優華.md" title="wikilink">鈴木優華</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鈴木優華" title="wikilink">鈴木優華</a></p></td>
 <td></td>
 <td><center>
 <p>第1話- 第2話、第4話 - 第10話</p></td>
@@ -275,7 +275,7 @@
 <td><center>
 <p>齊藤瞳</p></td>
 <td><center>
-<p><a href="../Page/田原可南子.md" title="wikilink">田原可南子</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/田原可南子" title="wikilink">田原可南子</a></p></td>
 <td></td>
 <td><center>
 <p>第1話- 第2話、第4話 - 第10話</p></td>
@@ -284,7 +284,7 @@
 <td><center>
 <p>吉岡保</p></td>
 <td><center>
-<p><a href="../Page/黃川田將也.md" title="wikilink">黃川田將也</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/黃川田將也" title="wikilink">黃川田將也</a></p></td>
 <td><p>英語教師<br />
 對麻生綺羅意圖不軋，於是被樫野零逼得轉校</p></td>
 <td><center>
@@ -294,7 +294,7 @@
 <td><center>
 <p>倉澤尚也</p></td>
 <td><center>
-<p><a href="../Page/渡辺佑太朗.md" title="wikilink">渡辺佑太朗</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/渡辺佑太朗" title="wikilink">渡辺佑太朗</a></p></td>
 <td><p>畫畫天分備受矚目的高三生，但因為不堪被眾人期待的壓力而把麻生綺羅的畫盜為己有</p></td>
 <td><center>
 <p>第3話 - 第4話</p></td>
@@ -321,7 +321,7 @@
 <td><center>
 <p>野口昭夫</p></td>
 <td><center>
-<p><a href="../Page/水野智則.md" title="wikilink">水野智則</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/水野智則" title="wikilink">水野智則</a></p></td>
 <td></td>
 <td><center>
 <p>全劇</p></td>
@@ -437,13 +437,14 @@
   - 台詞製作人 - 鶴岡智之
   - 制作人 - 代情明彦
   - 企画製作 - 日本電視台電視網
-  - 制作 - [AX-ON](../Page/AX-ON.md "wikilink")
+  - 制作 - [AX-ON](https://zh.wikipedia.org/wiki/AX-ON "wikilink")
   - 制作協力 - AOI Pro.
-  - 發行 - [Show Gate](../Page/Show_Gate.md "wikilink")
+  - 發行 - [Show Gate](https://zh.wikipedia.org/wiki/Show_Gate "wikilink")
   - 製作 -
     劇場版「MARS～只是愛著你～」製作委員會（日本電視台電視網、[VAP](../Page/VAP.md "wikilink")、博報堂DY
-    Music & Pictures、[講談社](../Page/講談社.md "wikilink")、AOI
-    Pro.、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[中京電視台](../Page/中京電視台.md "wikilink")、[札幌電視台](../Page/札幌電視台.md "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")）
+    Music &
+    Pictures、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、AOI
+    Pro.、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[中京電視台](../Page/中京電視台.md "wikilink")、[札幌電視台](https://zh.wikipedia.org/wiki/札幌電視台 "wikilink")、[福岡放送](../Page/福岡放送.md "wikilink")）
 
 ## 參考資訊
 

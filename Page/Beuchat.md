@@ -1,4 +1,4 @@
-**Beuchat國際**，簡稱為Beuchat，於1934年在[法國](../Page/法國.md "wikilink")[馬賽成立](../Page/馬賽.md "wikilink")，一直致力於潛水器材的設計、生產及推廣，現已成為享負盛名的國際品牌。
+**Beuchat國際**，簡稱為Beuchat，於1934年在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽成立](https://zh.wikipedia.org/wiki/馬賽 "wikilink")，一直致力於潛水器材的設計、生產及推廣，現已成為享負盛名的國際品牌。
 
 ## 業務
 
@@ -13,18 +13,20 @@ Beuchat業務分三個主要範圍
 [Gaine_au_mollet_Tarzan.jpg](https://zh.wikipedia.org/wiki/File:Gaine_au_mollet_Tarzan.jpg "fig:Gaine_au_mollet_Tarzan.jpg")
 
 公司始創於1934年，由瑞士製錶名家的後人 [Georges
-Beuchat成立](../Page/Georges_Beuchat.md "wikilink")。 [Georges
-Beuchat](../Page/Georges_Beuchat.md "wikilink")
+Beuchat成立](https://zh.wikipedia.org/wiki/Georges_Beuchat "wikilink")。
+[Georges
+Beuchat](https://zh.wikipedia.org/wiki/Georges_Beuchat "wikilink")
 不單是一代潛水先驅，並是於1948年建立的法國水下協會之創辦人之一。
 
 過去的75年來，公司曾使用不同名稱，例如：“Pêche Sport”, “Beuchat”, “Beuchat Sub” 及 “Beuchat
 International”。
 
-[Georges Beuchat](../Page/Georges_Beuchat.md "wikilink")
+[Georges
+Beuchat](https://zh.wikipedia.org/wiki/Georges_Beuchat "wikilink")
 於1982年將業務售予Alvarez de Toledo 家族，另於2002年開始由 Margnat 家族接管。
 
 Beuchat是一間國際公司，最初由[Georges
-Beuchat率先帶產品跨出法國](../Page/Georges_Beuchat.md "wikilink")，行銷全球。於七十年代，他更劍魚設計成Beuchat商標
+Beuchat率先帶產品跨出法國](https://zh.wikipedia.org/wiki/Georges_Beuchat "wikilink")，行銷全球。於七十年代，他更劍魚設計成Beuchat商標
 ，時至今天，每件產品都可發現蹤影。
 
 過去七十五年來，Beuchat一直透過設計、創意及銷售新產品帶動水底活動潮流。
@@ -43,8 +45,8 @@ Beuchat率先帶產品跨出法國](../Page/Georges_Beuchat.md "wikilink")，行
   - 1958: Compensator (單窗面鏡)
   - 1960: Espadon蛙鞋
   - 1963: 泰山潛水衣
-  - 1964: [Jetfins](../Page/Jetfins.md "wikilink") (首對設有水孔的蛙鞋，首數年已售出超過
-    100,000 對)
+  - 1964: [Jetfins](https://zh.wikipedia.org/wiki/Jetfins "wikilink")
+    (首對設有水孔的蛙鞋，首數年已售出超過 100,000 對)
   - 1964: Souplair 呼吸調節器
   - 1975: Marlin 魚槍
   - 1978: Atmos 呼吸調節器

@@ -1,8 +1,8 @@
 **Microsoft InterConnect**，或**Microsoft Office
-InterConnect**，是一款由[微软日本出售的](../Page/微软日本.md "wikilink")[个人信息管理应用程序](../Page/个人信息管理.md "wikilink")
+InterConnect**，是一款由[微软日本出售的](https://zh.wikipedia.org/wiki/微软日本 "wikilink")[个人信息管理应用程序](../Page/个人信息管理.md "wikilink")
 。在[日本作为](../Page/日本.md "wikilink")[Microsoft
 Office套件的一部分出售](../Page/Microsoft_Office.md "wikilink")，运行在[Microsoft
-Windows下](../Page/Microsoft_Windows.md "wikilink")。它提供给用户一个数字名片，实际上是一种[数字签名](../Page/数字签名.md "wikilink")。
+Windows下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。它提供给用户一个数字名片，实际上是一种[数字签名](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。
 
 ## 外部链接
 

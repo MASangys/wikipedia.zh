@@ -1,12 +1,12 @@
 **Apache
 Wave**\[1\]，按照[Google在](../Page/Google.md "wikilink")2009年5月27日[Google
-I/O上的说法](../Page/Google_I/O.md "wikilink")，是一种「个人通信和协作工具」。它是一个[Web服务](../Page/Web服务.md "wikilink")、计算平台和[通信协议](../Page/通信协议.md "wikilink")，旨在合并[电子邮件](../Page/电子邮件.md "wikilink")、[即时通讯](../Page/即时通讯.md "wikilink")、[wiki和](../Page/wiki.md "wikilink")[社交网络](../Page/社交网络.md "wikilink")。由悉尼分公司开发，最初进行小范围内公测\[2\]。它有一个强大的实时协作和强大的拼写检查功能，可以自动翻译40种语言，以及许多其他的扩展。在2009年9月30日，测试Google
+I/O上的说法](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，是一种「个人通信和协作工具」。它是一个[Web服务](../Page/Web服务.md "wikilink")、计算平台和[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，旨在合并[电子邮件](../Page/电子邮件.md "wikilink")、[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")、[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")。由悉尼分公司开发，最初进行小范围内公测\[2\]。它有一个强大的实时协作和强大的拼写检查功能，可以自动翻译40种语言，以及许多其他的扩展。在2009年9月30日，测试Google
 Wave的用户数已扩大到约10万。
 
 从2010年5月19日起，Google Wave正式向公众开放注册\[3\]。
 
 2010年8月4日，Google宣布停止对Google Wave的开发，对平台的维护至少延续到年底\[4\]，並把Google
-Wave交給[Apache軟件基金會繼續發展](../Page/Apache軟件基金會.md "wikilink")\[5\]\[6\]\[7\]。
+Wave交給[Apache軟件基金會繼續發展](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")\[5\]\[6\]\[7\]。
 
 ## 词源
 
@@ -14,12 +14,13 @@ Wave交給[Apache軟件基金會繼續發展](../Page/Apache軟件基金會.md "
 
 ## API
 
-Google设计了[API](../Page/API.md "wikilink")，让开发者通过下面的方式使用和设计Google Wave：
+Google设计了[API](https://zh.wikipedia.org/wiki/API "wikilink")，让开发者通过下面的方式使用和设计Google
+Wave：
 
   - '''扩展
-    '''：[机器人程序自动执行常见任务和](../Page/bot.md "wikilink")/或设计小工具，以扩展或改变用户交互\[8\]。
+    '''：[机器人程序自动执行常见任务和](https://zh.wikipedia.org/wiki/bot "wikilink")/或设计小工具，以扩展或改变用户交互\[8\]。
   - '''嵌入
-    '''：可以将外部站点或[blog的内容直接拖入到wave会话](../Page/blog.md "wikilink").\[9\]。
+    '''：可以将外部站点或[blog的内容直接拖入到wave会话](https://zh.wikipedia.org/wiki/blog "wikilink").\[9\]。
 
 目前已经有150多个Google Wave扩展\[10\]\[11\]。
 

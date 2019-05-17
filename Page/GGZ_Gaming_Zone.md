@@ -8,12 +8,12 @@ Games](../Page/MSN_Games.md "wikilink")、Yahoo\! Games和Pogo.com）的回应�
 
 ## 游戏
 
-GGZ列出了支持的38个游戏引擎，包括[国际象棋和](../Page/国际象棋.md "wikilink")[炸弹人](../Page/炸弹人.md "wikilink")，多数游戏引擎被归入以下分类（按数量顺序）：[KDE](../Page/KDE.md "wikilink")、[Gtk+](../Page/Gtk+.md "wikilink")、[SDL](../Page/Simple_DirectMedia_Layer.md "wikilink")、[Java](../Page/Java.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[Windows](../Page/Windows.md "wikilink")、[Console和](../Page/Console.md "wikilink")[Grubby](../Page/Grubby.md "wikilink")。
+GGZ列出了支持的38个游戏引擎，包括[国际象棋和](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")[炸弹人](https://zh.wikipedia.org/wiki/炸弹人 "wikilink")，多数游戏引擎被归入以下分类（按数量顺序）：[KDE](../Page/KDE.md "wikilink")、[Gtk+](https://zh.wikipedia.org/wiki/Gtk+ "wikilink")、[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")、[Java](../Page/Java.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Console和](https://zh.wikipedia.org/wiki/Console "wikilink")[Grubby](https://zh.wikipedia.org/wiki/Grubby "wikilink")。
 
 部分列举在此：
 
   - [象棋](../Page/象棋.md "wikilink")
-  - [中国跳棋](../Page/中国跳棋.md "wikilink")
+  - [中国跳棋](https://zh.wikipedia.org/wiki/中国跳棋 "wikilink")
   - Combat
   - ConnectX
   - Connect the Dots
@@ -39,7 +39,7 @@ GGZ列出了支持的38个游戏引擎，包括[国际象棋和](../Page/国际�
   - Tuxman
   - [Widelands](../Page/Widelands.md "wikilink")
   - [Freeciv](../Page/Freeciv.md "wikilink")
-  - [Freelords](../Page/Freelords.md "wikilink")
+  - [Freelords](https://zh.wikipedia.org/wiki/Freelords "wikilink")
 
 ## 构架
 
@@ -55,15 +55,15 @@ GGZ列出了支持的38个游戏引擎，包括[国际象棋和](../Page/国际�
 
 ### Web构架
 
-GGZ拥有*排名页面*，可以显示玩家的[地理位置](../Page/地理.md "wikilink")，以及查看玩家玩过的游戏。
+GGZ拥有*排名页面*，可以显示玩家的[地理位置](https://zh.wikipedia.org/wiki/地理 "wikilink")，以及查看玩家玩过的游戏。
 
 ## 类似项目
 
-  - [Arianne](../Page/Arianne.md "wikilink")
+  - [Arianne](https://zh.wikipedia.org/wiki/Arianne "wikilink")
   - [WorldForge](../Page/WorldForge.md "wikilink")
 
 2006年之后，很多[MSN
-Games的玩家转移到了](../Page/MSN_Games.md "wikilink")[GGZ](../Page/GGZ.md "wikilink")，使休闲游戏成为发展趋势。
+Games的玩家转移到了](../Page/MSN_Games.md "wikilink")[GGZ](https://zh.wikipedia.org/wiki/GGZ "wikilink")，使休闲游戏成为发展趋势。
 
 ## 外部链接
 

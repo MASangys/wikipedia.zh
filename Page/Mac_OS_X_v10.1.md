@@ -24,7 +24,8 @@ Mac OS 9 系統使用；蘋果隨後重新推出該 CD，實際上真的是把�
   - Faster 3D (比OpenGL 快20%) — OpenGL的驅動程序,大大提高了處理這一版本的Mac OS X的3D效能。
   - 改進 AppleScript — 腳本接口允許腳本進行多系統工作, 例如 the Printer Center
     及終端等,而提高可定制的界面。同時，蘋果推出AppleScript的工作室，允許用戶以AppleScript應用程序創建一個簡單的圖形界面。
-  - ColorSync 4.0, 管理系統的色彩及[API](../Page/API.md "wikilink")
+  - ColorSync 4.0,
+    管理系統的色彩及[API](https://zh.wikipedia.org/wiki/API "wikilink")
   - Image Capture, for acquiring images from digital cameras and
     scanners.
 

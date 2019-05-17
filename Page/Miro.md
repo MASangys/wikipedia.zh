@@ -1,7 +1,8 @@
 **Miro**（原名為**Democracy
-Player**及**DTV**\[1\]）是由開發的集[媒体播放器](../Page/媒体播放器.md "wikilink")、[網絡電視於一身的開源軟件](../Page/網絡電視.md "wikilink")，自身可播放多種文件格式，也可通過下載功能下載[互聯網上的影片並且加以管理](../Page/互聯網.md "wikilink")\[2\]，支持[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac OS
-X及](../Page/Mac_OS_X.md "wikilink")[Linux作業系統](../Page/Linux.md "wikilink")。
+Player**及**DTV**\[1\]）是由開發的集[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")、[網絡電視於一身的開源軟件](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，自身可播放多種文件格式，也可通過下載功能下載[互聯網上的影片並且加以管理](https://zh.wikipedia.org/wiki/互聯網 "wikilink")\[2\]，支持[Microsoft
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+OS
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux作業系統](../Page/Linux.md "wikilink")。
 
 Miro是遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")\[3\]發佈的開源軟件。
 
@@ -9,13 +10,13 @@ Miro是遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wik
 
 ### 影片播放
 
-Miro可播放如[Quicktime](../Page/Quicktime.md "wikilink")、[WMV](../Page/WMV.md "wikilink")、[MPEG](../Page/MPEG.md "wikilink")、[AVI](../Page/AVI.md "wikilink")、[XVID等在內的多種格式](../Page/XVID.md "wikilink")\[4\]。
+Miro可播放如[Quicktime](https://zh.wikipedia.org/wiki/Quicktime "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG](../Page/MPEG.md "wikilink")、[AVI](https://zh.wikipedia.org/wiki/AVI "wikilink")、[XVID等在內的多種格式](https://zh.wikipedia.org/wiki/XVID "wikilink")\[4\]。
 
 ### 影片下載
 
-Miro可從[YouTube](../Page/YouTube.md "wikilink")、[Google影片](../Page/Google影片.md "wikilink")、[Blip以及其他網站下載影片](../Page/Blip.md "wikilink")，也可以使用搜索功能在互聯網上尋找自己需要的影片。
+Miro可從[YouTube](../Page/YouTube.md "wikilink")、[Google影片](https://zh.wikipedia.org/wiki/Google影片 "wikilink")、[Blip以及其他網站下載影片](https://zh.wikipedia.org/wiki/Blip "wikilink")，也可以使用搜索功能在互聯網上尋找自己需要的影片。
 
-Miro能自動從使用[RSS的](../Page/RSS.md "wikilink")「頻道」下載影片，並進行管理和播放。通過YouTube的[高清影片功能](../Page/高清.md "wikilink")，可以獲得高質量的影片。\[5\]
+Miro能自動從使用[RSS的](../Page/RSS.md "wikilink")「頻道」下載影片，並進行管理和播放。通過YouTube的[高清影片功能](https://zh.wikipedia.org/wiki/高清 "wikilink")，可以獲得高質量的影片。\[5\]
 
 ## 參考文獻
 

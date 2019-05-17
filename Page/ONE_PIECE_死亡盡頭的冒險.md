@@ -1,5 +1,5 @@
 **《ONE PIECE 死亡盡頭的冒險》**是於2003年上映的第四部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 ## 劇情
 
@@ -40,7 +40,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wiki
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -76,7 +76,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wiki
 海賊船是少見的蒸汽船“沙拉曼達號”，船頭為黃金色的大蛇，旗幟是被畫一個大叉的海軍標誌。
 
   - <span id="嘉斯帕德"></span>
-    聲優：[石田太郎](../Page/石田太郎.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
+    聲優：[石田太郎](https://zh.wikipedia.org/wiki/石田太郎 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     原所屬海軍本部，當時他搶走了隊上的軍艦並叛逃海外，是個被稱為「海軍最大汙點」的卑劣漢。**懸賞金額：9,500萬貝里**。
     **超人系「[黏黏糖果實](../Page/惡魔果實.md "wikilink")」**（）能力者，麥芽糖人，能將身體化為麥芽糖狀，一般物理攻擊都對他沒用，但只要沾上了[麵粉變成固體狀](../Page/麵粉.md "wikilink")。
     在漢那巴爾每年舉辦的死亡大賽中，他是萬眾矚目的人氣王。用詭計把「漢那巴爾死亡大賽」參加者的記錄指針偷偷換上海軍要塞的記錄指針，導致大量海賊被殺，最後被**魯夫**以「橡膠火箭砲」撃敗。
@@ -93,10 +93,10 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wiki
     海賊。[虎鯨魚人](../Page/虎鯨.md "wikilink")，威利海賊團船長。**懸賞金額：2,000萬貝里**\[2\]。「漢那巴爾死亡大賽」2號人物，原屬於魚人海賊團，同時也是**『鋸齒』惡龍**的死對頭。在大賽中段找嘉斯帕德挑戰，之後就沒了下文（估計是已經戰敗）。
     是原作、動畫版中所沒有的「哺乳類型」魚人。
   -
-    聲優：[郷里大輔](../Page/郷里大輔.md "wikilink")&[稲田徹](../Page/稲田徹.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")&[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：[郷里大輔](https://zh.wikipedia.org/wiki/郷里大輔 "wikilink")&[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")&[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     巨人族的兩位漁夫，「漢那巴爾死亡大賽」3號人物。
   - <span id="畢加羅"></span>
-    聲優：[服卷浩司](../Page/服卷浩司.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[服卷浩司](https://zh.wikipedia.org/wiki/服卷浩司 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     海賊。外號「處刑人」畢加羅（）。**懸賞金額：1,490萬貝里**\[3\]。
   -
     聲優：[青野武](../Page/青野武.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
@@ -132,12 +132,12 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wiki
 ## 音樂
 
   - 「sailing day」
-    作詞・作曲：[藤原基央](../Page/藤原基央.md "wikilink")；編曲：[BUMP OF
-    CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink")；歌：BUMP OF CHICKEN
+    作詞・作曲：[藤原基央](https://zh.wikipedia.org/wiki/藤原基央 "wikilink")；編曲：[BUMP
+    OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink")；歌：BUMP OF CHICKEN
 
 ## 相關事件
 
-2003年1月24日，當時擔任《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》編輯長的[高橋俊昌出席東京灣內的船上製作發表會時](../Page/高橋俊昌.md "wikilink")，因[蛛網膜下腔出血而突然昏倒](../Page/蛛網膜下腔出血.md "wikilink")，緊急送往聖路加國際醫院後仍不治逝世。
+2003年1月24日，當時擔任《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》編輯長的[高橋俊昌出席東京灣內的船上製作發表會時](https://zh.wikipedia.org/wiki/高橋俊昌 "wikilink")，因[蛛網膜下腔出血而突然昏倒](https://zh.wikipedia.org/wiki/蛛網膜下腔出血 "wikilink")，緊急送往聖路加國際醫院後仍不治逝世。
 
 ## 參考資料
 
@@ -152,7 +152,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wiki
   - [官方網站](http://www.toei-anim.co.jp/movie/2003_onepiece/)
 
 [ru:Список анимационных фильмов о One Piece\#Фильм
-четвёртый](../Page/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_четвёртый.md "wikilink")
+четвёртый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_четвёртый "wikilink")
 
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
 [Category:2003年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2003年日本劇場動畫 "wikilink")

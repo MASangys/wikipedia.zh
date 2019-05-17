@@ -18,7 +18,8 @@ trance》系列的第二彈。
 3.  [M](../Page/M_\(濱崎步單曲\).md "wikilink") "Above & Beyond Remix" (VOCAL
     MIX)
 4.  [July 1st](../Page/H_\(濱崎步單曲\).md "wikilink") "Flip & Fill remix"
-5.  [Dearest](../Page/Dearest.md "wikilink") "Rank 1 remix"
+5.  [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink") "Rank 1
+    remix"
 6.  [Free & Easy](../Page/Free_&_Easy.md "wikilink") "Minimalistix
     remix"
 7.  [UNITE\!](../Page/UNITE!.md "wikilink") "Airwave remix" (club mix)
@@ -34,8 +35,8 @@ trance》系列的第二彈。
 12. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Push remix" (12"
     mix)
 13. [I am...](../Page/I_am....md "wikilink") "Ramon Zenker remix"
-14. [appears](../Page/appears.md "wikilink") "Armin Van Buuren's Sunset
-    Dub" (vocal mix)
+14. [appears](https://zh.wikipedia.org/wiki/appears "wikilink") "Armin
+    Van Buuren's Sunset Dub" (vocal mix)
 15. [Depend on you](../Page/Depend_on_you.md "wikilink") "Svenson &
     Gielen remix" (CLUB MIX)
 16. [Daybreak](../Page/Daybreak.md "wikilink") "Orion Too remix"

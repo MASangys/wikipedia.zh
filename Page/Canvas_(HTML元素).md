@@ -1,12 +1,12 @@
 **画布**（）[元素是](../Page/HTML元素.md "wikilink")[HTML5的一部分](../Page/HTML5.md "wikilink")，允許[脚本语言](../Page/脚本语言.md "wikilink")（scripting
-languages）動態[渲染](../Page/渲染.md "wikilink")[點陣圖像](../Page/點陣圖像.md "wikilink")。
+languages）動態[渲染](../Page/渲染.md "wikilink")[點陣圖像](https://zh.wikipedia.org/wiki/點陣圖像 "wikilink")。
 
 ## 歷史
 
-它最初由[苹果內部使用自己](../Page/苹果公司.md "wikilink")[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")
+它最初由[苹果內部使用自己](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
 [WebKit推出](../Page/WebKit.md "wikilink")\[1\]，供應用程序使用像儀表盤的構件和Safari瀏覽器使用。後來，有人利用[Gecko核心的瀏覽器](../Page/Gecko.md "wikilink")（尤其是[Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink")），[Opera](../Page/Opera電腦瀏覽器.md "wikilink")\[2\]和[Chrome](../Page/Google_Chrome.md "wikilink")，和[網頁超文本應用技術工作小組建議為下一代的網絡技術使用該元素](../Page/網頁超文本應用技術工作小組.md "wikilink")。在介紹Canvas給不同的Web标准社区時，他們有不同的反應。有些人抱怨蘋果公司建設了一個新的專有標準而不是支援未被網絡開發商廣泛接受的SVG標準\[3\]。
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")），[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")\[2\]和[Chrome](../Page/Google_Chrome.md "wikilink")，和[網頁超文本應用技術工作小組建議為下一代的網絡技術使用該元素](../Page/網頁超文本應用技術工作小組.md "wikilink")。在介紹Canvas給不同的Web标准社区時，他們有不同的反應。有些人抱怨蘋果公司建設了一個新的專有標準而不是支援未被網絡開發商廣泛接受的SVG標準\[3\]。
 
 ## 範例
 

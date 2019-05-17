@@ -1,4 +1,4 @@
-**VAMPS**，為一個日本搖滾樂團。2008年由[L'Arc\~en\~Ciel](../Page/L'Arc~en~Ciel.md "wikilink")（彩虹樂團）的主唱**[HYDE](../Page/Hyde.md "wikilink")**和（末日之塵）的吉他手**K.A.Z**所組成，團名取自「[吸血鬼](../Page/吸血鬼.md "wikilink")」（VAMPIRES）之意。2008年7月2日發行首張單曲《LOVE
+**VAMPS**，為一個日本搖滾樂團。2008年由[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")（彩虹樂團）的主唱**[HYDE](https://zh.wikipedia.org/wiki/Hyde "wikilink")**和（末日之塵）的吉他手**K.A.Z**所組成，團名取自「[吸血鬼](../Page/吸血鬼.md "wikilink")」（VAMPIRES）之意。2008年7月2日發行首張單曲《LOVE
 ADDICT》。
 
 ## 概述
@@ -15,7 +15,7 @@ NOW》、《EVANESCENT》及首張專輯《VAMPS》之外，也自5月起展開�
 U.S.A.」，並於8月11日、8月12日來到[台灣參加夏日搖滾高峰會](../Page/臺灣.md "wikilink")（東洋組）「VAMPS
 2009 LIVE in TAIPEI」。
 
-2010年7月28日VAMPS的第二張專輯《BEAST》於日本發行。2010年VAMPS世界巡迴演唱會，將台北設為世界巡迴演唱會首站，並於2010年9月26日於[台北](../Page/臺北市.md "wikilink")[南港展覽館開唱](../Page/南港展覽館.md "wikilink")。
+2010年7月28日VAMPS的第二張專輯《BEAST》於日本發行。2010年VAMPS世界巡迴演唱會，將台北設為世界巡迴演唱會首站，並於2010年9月26日於[台北](../Page/臺北市.md "wikilink")[南港展覽館開唱](https://zh.wikipedia.org/wiki/南港展覽館 "wikilink")。
 
 於結成5週年的2013年宣佈移藉到[日本環球唱片旗下廠牌](../Page/環球音樂_\(日本\).md "wikilink")
 Delicious Deli Records，而首張精選集 《SEX BLOOD ROCK'N

@@ -7,7 +7,8 @@ KOffice的所有的組件正在修改來使用Flake。\[1\]
 
 Flake的功能劃分Shapes之間可顯示的內容，和操作內容或用戶界面的工具。
 不同的形狀可以創建以支持各種不同的內容，例如「文本形狀」在KWord用於支持
-.txt 和[.odt格式](../Page/ODF.md "wikilink")。而「Kchart 形狀」只需支持圖表有關文件的標準，如
+.txt 和[.odt格式](https://zh.wikipedia.org/wiki/ODF "wikilink")。而「Kchart
+形狀」只需支持圖表有關文件的標準，如
 .odc。形狀被包裝藉由一套工具來操縱內容的類型和顯示用戶界面的功能給用戶。這提供了一個應用程序的所有功能需要，也能方便地嵌入形狀到其他應用程序。形狀有需要時可以加載其他形狀，例如在圖像文件中文字的圖象形狀將加載處理圖像。
 
 Flake的前身是KOffice
@@ -15,7 +16,7 @@ Flake的前身是KOffice
 Summer of Code Marijn
 Kruisselbrink建立了基於[MusicXML的音樂符號的形狀和工具](../Page/MusicXML.md "wikilink")\[2\]
 形狀可以知道其他形狀的位置，移動圖像通過文本將導致文字動態環繞圖像周圍\[3\]。
-形狀甚至可以組合在一起，並以表現得像一個單一的形狀。Flake還支持輸出成[PDF格式](../Page/PDF.md "wikilink")，並完全支持以[反鋸齒方式畫出平滑的文字](../Page/反鋸齒.md "wikilink")。\[4\]
+形狀甚至可以組合在一起，並以表現得像一個單一的形狀。Flake還支持輸出成[PDF格式](https://zh.wikipedia.org/wiki/PDF "wikilink")，並完全支持以[反鋸齒方式畫出平滑的文字](../Page/反鋸齒.md "wikilink")。\[4\]
 
 ## 參考資料
 

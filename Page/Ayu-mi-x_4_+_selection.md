@@ -37,27 +37,29 @@
 11. no more words (Acoustic Orchestra Version)
 12. [A Song for ××](../Page/A_Song_for_××.md "wikilink") (Acoustic
     Orchestra Version)
-13. [Dearest](../Page/Dearest.md "wikilink") (Acoustic Orchestra
-    Version)
+13. [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")
+    (Acoustic Orchestra Version)
 14. Who... (Acoustic Orchestra Version)
 
 ### Non-Stop Mega Mix Version
 
 #### DISC 1
 
-1.  [Dearest](../Page/Dearest.md "wikilink") (Non-Stop Mega Mix Version)
+1.  [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")
+    (Non-Stop Mega Mix Version)
 2.  [Far away](../Page/Far_away.md "wikilink") (Non-Stop Mega Mix
     Version)
 3.  [UNITE\!](../Page/UNITE!.md "wikilink") (Non-Stop Mega Mix Version)
-4.  [appears](../Page/appears.md "wikilink") (Non-Stop Mega Mix Version)
+4.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+    (Non-Stop Mega Mix Version)
 5.  [M](../Page/M_\(濱崎步單曲\).md "wikilink") (Non-Stop Mega Mix Version)
 6.  [SEASONS](../Page/SEASONS.md "wikilink") (Non-Stop Mega Mix Version)
 7.  [A Song for ××](../Page/A_Song_for_××.md "wikilink") (Non-Stop Mega
     Mix Version)
 8.  [NEVER EVER](../Page/NEVER_EVER.md "wikilink") (Non-Stop Mega Mix
     Version)
-9.  [evolution](../Page/evolution.md "wikilink") (Non-Stop Mega Mix
-    Version)
+9.  [evolution](https://zh.wikipedia.org/wiki/evolution "wikilink")
+    (Non-Stop Mega Mix Version)
 10. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") (Non-Stop Mega Mix
     Version)
 11. [Endless sorrow](../Page/Endless_sorrow.md "wikilink") (Non-Stop
@@ -65,7 +67,8 @@
 12. [SURREAL](../Page/SURREAL.md "wikilink") (Non-Stop Mega Mix Version)
 13. [Daybreak](../Page/Daybreak.md "wikilink") (Non-Stop Mega Mix
     Version)
-14. [vogue](../Page/vogue.md "wikilink") (Non-Stop Mega Mix Version)
+14. [vogue](https://zh.wikipedia.org/wiki/vogue "wikilink") (Non-Stop
+    Mega Mix Version)
 15. Naturally (Non-Stop Mega Mix Version)
 16. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") (Non-Stop Mega
     Mix Version)
@@ -74,13 +77,16 @@
 
 #### DISC 2
 
-1.  [Dearest](../Page/Dearest.md "wikilink") "Jonathan Peters Radio Mix"
+1.  [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink")
+    "Jonathan Peters Radio Mix"
 2.  still alone "Warp Brothers Single Mix"
-3.  [evolution](../Page/evolution.md "wikilink") "UFO Remix"
+3.  [evolution](https://zh.wikipedia.org/wiki/evolution "wikilink") "UFO
+    Remix"
 4.  [I am...](../Page/I_am....md "wikilink") "Transtic Break Mix"
 5.  flower garden "BACK BEAT MIX"
 6.  Naturally "astraly Mix"
-7.  [Dearest](../Page/Dearest.md "wikilink") "The Implication DUB Mix"
+7.  [Dearest](https://zh.wikipedia.org/wiki/Dearest "wikilink") "The
+    Implication DUB Mix"
 
 [Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")
 [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")

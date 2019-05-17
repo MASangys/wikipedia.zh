@@ -1,5 +1,5 @@
 《》（RED
-CLIFF～心·战～）是[中国](../Page/中国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本的第六张](../Page/日本.md "wikilink")[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](../Page/地.md "wikilink")、[空](../Page/空.md "wikilink")、[风](../Page/风.md "wikilink")、[火](../Page/火.md "wikilink")、[水为主题的第四弹](../Page/水.md "wikilink")。作为[中国](../Page/中国.md "wikilink")[史诗](../Page/史诗.md "wikilink")[电影](../Page/电影.md "wikilink")[赤壁上部的全世界](../Page/赤壁_\(電影\).md "wikilink")[主题曲](../Page/主题曲.md "wikilink")。
+CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本的第六张](../Page/日本.md "wikilink")[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](https://zh.wikipedia.org/wiki/地 "wikilink")、[空](https://zh.wikipedia.org/wiki/空 "wikilink")、[风](https://zh.wikipedia.org/wiki/风 "wikilink")、[火](../Page/火.md "wikilink")、[水为主题的第四弹](../Page/水.md "wikilink")。作为[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[史诗](../Page/史诗.md "wikilink")[电影](../Page/电影.md "wikilink")[赤壁上部的全世界](https://zh.wikipedia.org/wiki/赤壁_\(電影\) "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
 
 ## 公信榜销售情况
 
@@ -23,7 +23,8 @@ CLIFF～心·战～）是[中国](../Page/中国.md "wikilink")[歌手](../Page/
 ### 日本版CD
 
 1.    - 电影《[レッドクリフ](../Page/赤壁_\(电影\).md "wikilink")》（赤壁）的主题曲
-      - 《[真·三国无双5 Special](../Page/真・三國無双.md "wikilink")》的TVCF歌曲
+      - 《[真·三国无双5
+        Special](https://zh.wikipedia.org/wiki/真・三國無双 "wikilink")》的TVCF歌曲
 
 2.  心·战～RED CLIFF～
 
@@ -47,14 +48,14 @@ CLIFF～心·战～）是[中国](../Page/中国.md "wikilink")[歌手](../Page/
 ### 中国版CD
 
 1.  **心·战～RED CLIFF～**
-      - 作词：[李焯雄](../Page/李焯雄.md "wikilink")　作曲：[岩代太郎](../Page/岩代太郎.md "wikilink")　编曲：[中野雄太](../Page/中野雄太.md "wikilink")
+      - 作词：[李焯雄](https://zh.wikipedia.org/wiki/李焯雄 "wikilink")　作曲：[岩代太郎](https://zh.wikipedia.org/wiki/岩代太郎 "wikilink")　编曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
 2.  **一个**
-      - 作词：[林明阳](../Page/林明阳.md "wikilink")　作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")　编曲：中野雄太
+      - 作词：[林明阳](https://zh.wikipedia.org/wiki/林明阳 "wikilink")　作曲：[菊池一仁](../Page/菊池一仁.md "wikilink")　编曲：中野雄太
 3.  **三生石三生路**
-      - 作词：[陈立志](../Page/陈立志.md "wikilink")　作曲：菊池一仁　编曲：[tasuku](../Page/tasuku.md "wikilink")
+      - 作词：[陈立志](https://zh.wikipedia.org/wiki/陈立志 "wikilink")　作曲：菊池一仁　编曲：[tasuku](https://zh.wikipedia.org/wiki/tasuku "wikilink")
 4.  **迷失的祝福**
-      - 作词：[崔恕](../Page/崔恕.md "wikilink")　作曲：菊池一仁　编曲：[Kyoda
-        Seiichi](../Page/Kyoda_Seiichi.md "wikilink")
+      - 作词：[崔恕](https://zh.wikipedia.org/wiki/崔恕 "wikilink")　作曲：菊池一仁　编曲：[Kyoda
+        Seiichi](https://zh.wikipedia.org/wiki/Kyoda_Seiichi "wikilink")
 
 [Category:2008年音乐专辑](https://zh.wikipedia.org/wiki/Category:2008年音乐专辑 "wikilink")
 [Category:中国歌曲](https://zh.wikipedia.org/wiki/Category:中国歌曲 "wikilink")

@@ -1,6 +1,6 @@
 **Lubuntu**（發音：）是[Ubuntu
-Linux桌面系統計劃的一个分支](../Page/Ubuntu.md "wikilink")，其預設[桌面環境為](../Page/桌面環境.md "wikilink")[LXDE](../Page/LXDE.md "wikilink")，特別適用於配備老舊的電腦。和[Xubuntu](../Page/Xubuntu.md "wikilink")、[Ubuntu
-Lite一樣](../Page/Ubuntu_Lite.md "wikilink")，都是屬於追求輕巧的Ubuntu分支。其特色除了輕巧快速外，並提供極低的套件相依性，將因為套件相依造成的操作問題減到最低。
+Linux桌面系統計劃的一个分支](../Page/Ubuntu.md "wikilink")，其預設[桌面環境為](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")[LXDE](../Page/LXDE.md "wikilink")，特別適用於配備老舊的電腦。和[Xubuntu](../Page/Xubuntu.md "wikilink")、[Ubuntu
+Lite一樣](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")，都是屬於追求輕巧的Ubuntu分支。其特色除了輕巧快速外，並提供極低的套件相依性，將因為套件相依造成的操作問題減到最低。
 
 ## 版本
 
@@ -22,11 +22,11 @@ Lubuntu計劃由[LXDE團隊推出](../Page/LXDE.md "wikilink")，原本預計在
   - **省能源**－它比其他常見的系統需要較少的資源執行相同的工作。
   - **簡樸美**－藉由GTK+ 2，它擁有美觀、支援國際化的使用者介面。
   - **使用簡單**－提供使用者選擇如[Eee
-    PC般的應用程式桌面選單](../Page/Eee_PC.md "wikilink")，或是如微軟Windows般的應用程式列表。
+    PC般的應用程式桌面選單](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")，或是如微軟Windows般的應用程式列表。
   - **可自訂性**－使用者可以輕易自訂LXDE的外觀。
   - **其他功能**－提供如分頁檔案瀏覽或是執行對話框選單等功能，新程式在安裝後圖示即立即出現在桌面選單上。
   - **套件間無相依性**－每一個套件可以分開使用，並不會相依到其他套件，可避免套件相依性帶來的操作問題。
-  - **相容標準**－相容於[freedesktop.org所訂定標準](../Page/freedesktop.org.md "wikilink")。
+  - **相容標準**－相容於[freedesktop.org所訂定標準](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")。
 
 ## 預設系統元件
 
@@ -87,8 +87,8 @@ Lubuntu計劃由[LXDE團隊推出](../Page/LXDE.md "wikilink")，原本預計在
 
   - [LXDE](../Page/LXDE.md "wikilink")
   - [Xubuntu](../Page/Xubuntu.md "wikilink")
-  - [Ubuntu Lite](../Page/Ubuntu_Lite.md "wikilink")
-  - [輕量級Linux發行版](../Page/輕量級Linux發行版.md "wikilink")
+  - [Ubuntu Lite](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")
+  - [輕量級Linux發行版](https://zh.wikipedia.org/wiki/輕量級Linux發行版 "wikilink")
 
 ## 註解
 

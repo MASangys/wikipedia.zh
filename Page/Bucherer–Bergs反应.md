@@ -1,6 +1,6 @@
-**Bucherer–Bergs反应**，是[羰基化合物](../Page/羰基.md "wikilink")（如[醛類](../Page/醛.md "wikilink")、[酮類](../Page/酮.md "wikilink")）与[氰化钾及](../Page/氰化钾.md "wikilink")[碳酸铵](../Page/碳酸铵.md "wikilink")，或[氰醇与碳酸铵直接反应生成](../Page/氰醇.md "wikilink")[乙内酰脲类化合物的反应](../Page/乙内酰脲.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
-反应以德国化学家[汉斯·布克尔](../Page/汉斯·布克尔.md "wikilink")（Hans Theodor Bucherer）和H.
-Bergs的名字命名。
+**Bucherer–Bergs反应**，是[羰基化合物](../Page/羰基.md "wikilink")（如[醛類](../Page/醛.md "wikilink")、[酮類](../Page/酮.md "wikilink")）与[氰化钾及](../Page/氰化钾.md "wikilink")[碳酸铵](../Page/碳酸铵.md "wikilink")，或[氰醇与碳酸铵直接反应生成](https://zh.wikipedia.org/wiki/氰醇 "wikilink")[乙内酰脲类化合物的反应](../Page/乙内酰脲.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
+反应以德国化学家[汉斯·布克尔](https://zh.wikipedia.org/wiki/汉斯·布克尔 "wikilink")（Hans
+Theodor Bucherer）和H. Bergs的名字命名。
 
 [Bucherer_Übersicht.svg](https://zh.wikipedia.org/wiki/File:Bucherer_Übersicht.svg "fig:Bucherer_Übersicht.svg")
 
@@ -12,14 +12,14 @@ Bucherer–Bergs反应的一个变体是**Bucherer-Lieb反应**，是使用稀�
 
 [Bucherer-BergsReactionMechanism.png](https://zh.wikipedia.org/wiki/File:Bucherer-BergsReactionMechanism.png "fig:Bucherer-BergsReactionMechanism.png")
 
-氰根离子与羰基化合物加成为[羟腈](../Page/羟腈.md "wikilink")，碳酸铵释放出的[氨对羟腈发生](../Page/氨.md "wikilink")[S<sub>N</sub>2反应生成氨基腈](../Page/SN2.md "wikilink")，氨基腈的胺氮原子对二氧化碳发生[亲核加成](../Page/亲核加成.md "wikilink")，生成含氰基的[氨基甲酸](../Page/氨基甲酸.md "wikilink")。然后该氨基甲酸发生分子内环化，生成5-亚氨基[噁唑烷](../Page/噁唑烷.md "wikilink")-2-酮，最后噁唑烷酮通过一个[异氰酸酯中间体重排为](../Page/异氰酸酯.md "wikilink")5,5-二取代的乙内酰脲。
+氰根离子与羰基化合物加成为[羟腈](https://zh.wikipedia.org/wiki/羟腈 "wikilink")，碳酸铵释放出的[氨对羟腈发生](../Page/氨.md "wikilink")[S<sub>N</sub>2反应生成氨基腈](https://zh.wikipedia.org/wiki/SN2 "wikilink")，氨基腈的胺氮原子对二氧化碳发生[亲核加成](https://zh.wikipedia.org/wiki/亲核加成 "wikilink")，生成含氰基的[氨基甲酸](https://zh.wikipedia.org/wiki/氨基甲酸 "wikilink")。然后该氨基甲酸发生分子内环化，生成5-亚氨基[噁唑烷](../Page/噁唑烷.md "wikilink")-2-酮，最后噁唑烷酮通过一个[异氰酸酯中间体重排为](../Page/异氰酸酯.md "wikilink")5,5-二取代的乙内酰脲。
 
 这个机理基本上是Bucherer与Steiner在1934年提出的机理，这个原始机理基本上就一直沿用下来。不过最初提出的机理中，错误地认为5-亚氨基噁唑烷-2-酮是通过一步直接重排为乙内酰脲。直到1980年代，研究才发现在上述两个物质之间还有一个异氰酸酯中间体。
 
 ## 参见
 
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
-  - [Urech乙内酰脲合成](../Page/Urech乙内酰脲合成.md "wikilink")
+  - [Urech乙内酰脲合成](https://zh.wikipedia.org/wiki/Urech乙内酰脲合成 "wikilink")
 
 ## 参考资料
 
@@ -38,9 +38,12 @@ Bucherer–Bergs反应的一个变体是**Bucherer-Lieb反应**，是使用稀�
 [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  Bucherer, H. T.; Fischbeck, H. T. *[J. Prakt.
-    Chem.](../Page/J._Prakt._Chem..md "wikilink")* **1934**, *140*, 69.
+    Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")*
+    **1934**, *140*, 69.
 2.  Bucherer, H. T.; Steiner, W. *[J. Prakt.
-    Chem.](../Page/J._Prakt._Chem..md "wikilink")* **1934**, *140*, 291.
+    Chem.](https://zh.wikipedia.org/wiki/J._Prakt._Chem. "wikilink")*
+    **1934**, *140*, 291.
 3.  Bergs, H. Ger. pat. 566,094 (1929).
-4.  Ware, E. *[Chem. Rev.](../Page/Chem._Rev..md "wikilink")* **1950**,
-    *46*, 403. （综述）
+4.  Ware, E. *[Chem.
+    Rev.](https://zh.wikipedia.org/wiki/Chem._Rev. "wikilink")*
+    **1950**, *46*, 403. （综述）

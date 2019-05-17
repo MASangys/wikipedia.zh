@@ -1,17 +1,17 @@
 **Socket
-AM3**是[AMD推出的](../Page/AMD.md "wikilink")[CPU插座和處理器管腳陣列](../Page/CPU插座.md "wikilink")，於2009年2月9日發表，取代上一代的[Socket
+AM3**是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座和處理器管腳陣列](../Page/CPU插座.md "wikilink")，於2009年2月9日發表，取代上一代的[Socket
 AM2+](../Page/Socket_AM2+.md "wikilink")。而採用AM3的CPU有[Phenom
-II](../Page/Phenom_II.md "wikilink")、[Athlon
-II](../Page/Athlon_II.md "wikilink")、[Sempron
-100系列以及](../Page/Sempron.md "wikilink")[Opteron
+II](https://zh.wikipedia.org/wiki/Phenom_II "wikilink")、[Athlon
+II](https://zh.wikipedia.org/wiki/Athlon_II "wikilink")、[Sempron
+100系列以及](https://zh.wikipedia.org/wiki/Sempron "wikilink")[Opteron
 1380系列](../Page/Opteron.md "wikilink")。
 
 ## 技術概覽
 
 Socket
-AM3為插針陣列封裝，[主機板插座有](../Page/主機板.md "wikilink")941個接腳，CPU上則只有938支針腳。AM3處理器的管腳直徑是0.45毫米，針腳最小間距為1.27毫米，31行×31列，呈正方形。\[1\]與Socket
+AM3為插針陣列封裝，[主機板插座有](https://zh.wikipedia.org/wiki/主機板 "wikilink")941個接腳，CPU上則只有938支針腳。AM3處理器的管腳直徑是0.45毫米，針腳最小間距為1.27毫米，31行×31列，呈正方形。\[1\]與Socket
 AM2/AM2+相比，最大區別是AM3正式支援DDR3 SDRAM，另外還支援[HyperTransport
-3.0匯流排](../Page/HyperTransport_3.0.md "wikilink")，運作於2.6GHz時可獲得5.2GT/s資料的吞吐量。\[2\]
+3.0匯流排](https://zh.wikipedia.org/wiki/HyperTransport_3.0 "wikilink")，運作於2.6GHz時可獲得5.2GT/s資料的吞吐量。\[2\]
 
 Socket
 AM3的主機板，由於僅剩的第三方x86主機板晶片組開發商——NVIDIA，於2008年底退出晶片組業務，使得只有AMD一家的晶片組使用。晶片組的佈局仍然是北橋、南橋的佈局，即800系列晶片組。而僅剩的對手英特爾，除了X58/ICH10R晶片組以外，其餘業已轉為單一晶片組（PCH）。\[3\]
@@ -26,13 +26,14 @@ AM3的實質性資料。
 
 [Différences_entre_sockets_AM2(+)_et_AM3.png](https://zh.wikipedia.org/wiki/File:Différences_entre_sockets_AM2\(+\)_et_AM3.png "fig:Différences_entre_sockets_AM2(+)_et_AM3.png")
 Socket
-AM3的處理器，除了安裝於AM3主機板上，還能[向下相容安裝於Socket](../Page/向下相容.md "wikilink")
+AM3的處理器，除了安裝於AM3主機板上，還能[向下相容安裝於Socket](https://zh.wikipedia.org/wiki/向下相容 "wikilink")
 AM2+上，但匯流排速率會降至HyperTransport 2.0規格，而且需要主機板BIOS識別支援；在[Socket
-AM3+推出以後](../Page/Socket_AM3+.md "wikilink")，也能安裝於AM3+的主機板上。除此以外，支援140W[熱設計功耗的](../Page/熱設計功耗.md "wikilink")[Socket
-AM2主機板](../Page/Socket_AM2.md "wikilink")，在獲得[主機板廠商推出的新版](../Page/主機板.md "wikilink")[BIOS後](../Page/BIOS.md "wikilink")，也能安裝Socket
+AM3+推出以後](../Page/Socket_AM3+.md "wikilink")，也能安裝於AM3+的主機板上。除此以外，支援140W[熱設計功耗的](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")[Socket
+AM2主機板](../Page/Socket_AM2.md "wikilink")，在獲得[主機板廠商推出的新版](https://zh.wikipedia.org/wiki/主機板 "wikilink")[BIOS後](../Page/BIOS.md "wikilink")，也能安裝Socket
 AM3的處理器，但AMD並沒有明確說明AM2的主機板能支援AM3的處理器。\[5\]
 
-AM3 CPU內置的[記憶體控制器有兩組](../Page/記憶體控制器.md "wikilink")，一組能支援[DDR3
+AM3
+CPU內置的[記憶體控制器有兩組](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")，一組能支援[DDR3
 SDRAM](../Page/DDR3_SDRAM.md "wikilink")，另一組能支援[DDR2
 SDRAM](../Page/DDR2_SDRAM.md "wikilink")，安裝於Socket
 AM3插座時將啟用內建的DDR3記憶體控制器，停用DDR2記憶體控制器；而安裝於Socket
@@ -42,7 +43,7 @@ Socket AM3的插座不相容Socket AM2/AM2+的處理器，即Socket AM2/AM2+管�
 AM3主機板上。AMD在物理層面上做了一些細微但關鍵的改動，使得Socket AM2+處理器上的940支管腳與Socket
 AM3插座的941個插孔並不完全對應，有管腳沒有對應的插孔。\[7\]強行將Socket AM2+的處理器插入到Socket
 AM3上將會損壞處理器的管腳。\[8\][Tom's
-Hardware嘗試將一顆Socket](../Page/Tom's_Hardware.md "wikilink")
+Hardware嘗試將一顆Socket](https://zh.wikipedia.org/wiki/Tom's_Hardware "wikilink")
 AM2+的Phenom處理器上的兩根與Socket
 AM3插座不對應的管腳移除，儘管移除管腳後的處理器能安裝於AM3插座上，但是這台電腦無法啟動，而這顆被剪斷兩根管腳的處理器，安裝在AM2插座上時則仍能順利啟動，表明這個相容性不僅僅取決於幾根管腳，還有更深層次的變動。\[9\]Socket
 AM2+處理器上的內建式記憶體控制器只支援DDR2 SDRAM，不支援DDR3
@@ -119,12 +120,13 @@ II（包括原生雙核心的Athlon II X2 200系列，但不包括Athlon II X4 6
   - [AMD Athlon II](../Page/AMD_Athlon_II.md "wikilink")
   - [AMD Sempron](../Page/AMD_Sempron.md "wikilink")、[AMD
     Sempron處理器列表](../Page/AMD_Sempron處理器列表.md "wikilink")
-  - [AMD Opteron](../Page/AMD_Opteron.md "wikilink")、[AMD
+  - [AMD
+    Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")、[AMD
     Opteron處理器列表](../Page/AMD_Opteron處理器列表.md "wikilink")
   - [Socket
-    F](../Page/Socket_F.md "wikilink")、[F+](../Page/Socket_F+.md "wikilink")
-  - [Socket FM1](../Page/Socket_FM1.md "wikilink")
-  - [Socket S1](../Page/Socket_S1.md "wikilink")
+    F](../Page/Socket_F.md "wikilink")、[F+](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")
+  - [Socket FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")
+  - [Socket S1](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")
 
 ## 外部链接
 

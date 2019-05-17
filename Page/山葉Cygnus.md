@@ -1,5 +1,5 @@
 [Yamaha_cygnus_x_sr.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_cygnus_x_sr.jpg "fig:Yamaha_cygnus_x_sr.jpg")
-**山葉Cygnus**（）是[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販售的一款輕型](../Page/山葉發動機.md "wikilink")[速克達](../Page/速克達.md "wikilink")，型號是「XC」。雖然以前所有的型號都是日本生產，但現在都是由[台灣山葉機車生產](../Page/台灣山葉機車.md "wikilink")。車名Cygnus是「[天鵝座](../Page/天鵝座.md "wikilink")」的意思。
+**山葉Cygnus**（）是[日本](../Page/日本.md "wikilink")[山葉發動機公司製造販售的一款輕型](../Page/山葉發動機.md "wikilink")[速克達](../Page/速克達.md "wikilink")，型號是「XC」。雖然以前所有的型號都是日本生產，但現在都是由[台灣山葉機車生產](https://zh.wikipedia.org/wiki/台灣山葉機車 "wikilink")。車名Cygnus是「[天鵝座](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")」的意思。
 
 *以下內容以日本市場為主*
 
@@ -45,16 +45,17 @@ FI，2006年進行車體外觀大改款，配置了數位儀表、定位燈、33
 
 在車體設計上沿用過去Cygnus T・D・S・SV的部份零件，目前YAMAHA在Cygnus車系是採取大陸及臺灣各自生產的制度。
 
-## [CYGNUS GT](../Page/迎光150.md "wikilink")
+## [CYGNUS GT](https://zh.wikipedia.org/wiki/迎光150 "wikilink")
 
 **[CYGNUS
-GT](../Page/迎光150.md "wikilink")**於1993年發售。正式型號為**XC150**（台灣稱為**[迎光](../Page/迎光150.md "wikilink")**），使用149cc排氣量引擎。散熱方式採用水冷汽缸頭融合空冷汽缸的特殊結構。雖然這台由台灣製造的車種在銷售上並不是很好，但在Majesty發售後依然可以看到[CYGNUS
-GT在商品型錄上](../Page/迎光150.md "wikilink")。
+GT](https://zh.wikipedia.org/wiki/迎光150 "wikilink")**於1993年發售。正式型號為**XC150**（台灣稱為**[迎光](https://zh.wikipedia.org/wiki/迎光150 "wikilink")**），使用149cc排氣量引擎。散熱方式採用水冷汽缸頭融合空冷汽缸的特殊結構。雖然這台由台灣製造的車種在銷售上並不是很好，但在Majesty發售後依然可以看到[CYGNUS
+GT在商品型錄上](https://zh.wikipedia.org/wiki/迎光150 "wikilink")。
 
 ## 台灣的CYGNUS
 
 雖然台灣市場的CYGNUS系列在1991年就開始在市場上販售，但初期都是使用中文名稱稱呼，在車殼上的英文名稱也不使用CYGNUS而另外命名，由於中文名稱都是以**-光**為命名，例如[迎光](../Page/山葉迎光150.md "wikilink")、迅光、風光，坤光，故有人稱呼為**光字號**，一直到2002年台灣山葉機車發表**勁戰CYGNUS-X**後，CYGNUS這個英文單字才正式出現在台灣市場。最早在台灣販售的CYGNUS車種為1991年的**[迎光150
-FLY ONE](../Page/迎光150.md "wikilink")**（日本為CYGNUS GT）。大約在1992年推出CYGNUS
+FLY ONE](https://zh.wikipedia.org/wiki/迎光150 "wikilink")**（日本為CYGNUS
+GT）。大約在1992年推出CYGNUS
 125cc排氣量車種，型號為XC125開頭，如同日本一樣，台灣XC125系列也分為高階版迅光系列，以及低階版風光系列。
 
 **迅光**系列，官方英文為**Fuzzy**，生產日期從1992年到1998年，外觀採用歐洲風格設計，優雅的線條在當時125cc市場中相當新穎流行，引擎採用符合第二期環保法規的四行程EV4引擎，配備在當時也是數一數二的豪華，如鋁合金貨架、無內胎高速胎、雙後避震器及大容量置物空間，在長達六年的時間也隨著市場變化推出許多小改款車型。
@@ -69,7 +70,7 @@ FLY ONE](../Page/迎光150.md "wikilink")**（日本為CYGNUS GT）。大約在1
         FR的衍生車型，車殼銘牌為Forward，大燈位置從龍頭下移到斜版，採用35W單燈泡，原本在斜版上的方向燈則上移到龍頭兩側位置，原大燈龍頭位置則改為定位燈並與方向燈共用一體式燈殼，第二LED煞車燈為標準配備，日本CYGNUS
         D及外銷版CYGNUS R以此車型為基礎。
 
-**迅光150**，引擎排氣量為150cc，於1996年發售，雖然使用迅光的名字，但車體結構、外型和引擎部份都跟迅光125cc排氣量版本有很大的差別，理論上應為[迎光150的後繼機種](../Page/迎光150.md "wikilink")。
+**迅光150**，引擎排氣量為150cc，於1996年發售，雖然使用迅光的名字，但車體結構、外型和引擎部份都跟迅光125cc排氣量版本有很大的差別，理論上應為[迎光150的後繼機種](https://zh.wikipedia.org/wiki/迎光150 "wikilink")。
 
 **風光**系列，官方英文為**Forte**，型號為XC125M開頭，1996年發售，產品定位為迅光的低價車型，故此車系都配備股煞前煞車（衍生車型為碟煞版），前避震則順應時代潮流採用潛望式油壓避震，後避震器為單隻側置型，外觀為斜版設計，大燈則在龍頭位置，無第二LED煞車燈，外觀線條相當流線，而銷售時間也相當的長，直至2008年仍然還有販售，目前則以勁風光作為車系的最新車型。
 
@@ -103,10 +104,10 @@ FD為基礎加入了更多現代感線條，圓弧部份也增加了許多，但
 
 頂迅車系約有三次小改款，型號分別為XC125B、XC125G及XC125N。
 
-**勁戰**系列，官方英文為**CYGNUS-X**，型號變更為**NXC125開頭**，於2002年發表，頂級迅光的繼任者，在車體、引擎上都有全新的設計，對台灣的125cc[速克達市場投下了一顆震撼彈並帶動台灣](../Page/速克達.md "wikilink")125cc[速克達朝向新世代發展](../Page/速克達.md "wikilink")，一般民間俗稱"**[天鵝](../Page/天鵝.md "wikilink")**"。引擎首次採用型號5TY(5ML)四汽門引擎，結束山葉以自家開發的EV4
+**勁戰**系列，官方英文為**CYGNUS-X**，型號變更為**NXC125開頭**，於2002年發表，頂級迅光的繼任者，在車體、引擎上都有全新的設計，對台灣的125cc[速克達市場投下了一顆震撼彈並帶動台灣](../Page/速克達.md "wikilink")125cc[速克達朝向新世代發展](../Page/速克達.md "wikilink")，一般民間俗稱"**[天鵝](https://zh.wikipedia.org/wiki/天鵝 "wikilink")**"。引擎首次採用型號5TY(5ML)四汽門引擎，結束山葉以自家開發的EV4
 NPA引擎作為主力車種引擎時代，5TY(5ML)引擎是台灣山葉首度採用四汽門設計，延伸引擎中、尾加速較過往EV4
-二汽門引擎設計更佳、引擎機油潤滑方式改良自[HONDA](../Page/HONDA.md "wikilink")
-[GY6引擎的曲軸潑濺式潤滑](../Page/GY6.md "wikilink")，並設計有引擎支架(俗稱狗骨頭)穩定引擎與後輪扭動、汽缸採用GP鎳磷合金提高汽缸耐用程度，由於車體良好穩定性，在機車賽事上也帶起一股改車風潮。
+二汽門引擎設計更佳、引擎機油潤滑方式改良自[HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")
+[GY6引擎的曲軸潑濺式潤滑](https://zh.wikipedia.org/wiki/GY6 "wikilink")，並設計有引擎支架(俗稱狗骨頭)穩定引擎與後輪扭動、汽缸採用GP鎳磷合金提高汽缸耐用程度，由於車體良好穩定性，在機車賽事上也帶起一股改車風潮。
 
 *相關介紹請參閱上述CYGNUS-X・CYGNUS-X SR・CYGNUS-X FI章節。*
 

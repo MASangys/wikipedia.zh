@@ -2,13 +2,13 @@
 
 ## 劇情大綱
 
-本作屬於[奇幻冒險類漫畫作品](../Page/奇幻.md "wikilink")，作品中的[世界觀即世界是一個充滿](../Page/世界觀.md "wikilink")[幻想的珍奇](../Page/幻想.md "wikilink")[食材的](../Page/食材.md "wikilink")**美食世界**。這些幻想的食材例如，全身的肉在舌間融化並且浮出一層油的野獸，一整年都結有美味[蝦](../Page/蝦.md "wikilink")[蟹肉的樹](../Page/蟹.md "wikilink")、流出源源不絕的香醇[白蘭地湧泉的泉水等等](../Page/白蘭地.md "wikilink")。
+本作屬於[奇幻冒險類漫畫作品](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，作品中的[世界觀即世界是一個充滿](https://zh.wikipedia.org/wiki/世界觀 "wikilink")[幻想的珍奇](https://zh.wikipedia.org/wiki/幻想 "wikilink")[食材的](https://zh.wikipedia.org/wiki/食材 "wikilink")**美食世界**。這些幻想的食材例如，全身的肉在舌間融化並且浮出一層油的野獸，一整年都結有美味[蝦](https://zh.wikipedia.org/wiki/蝦 "wikilink")[蟹肉的樹](https://zh.wikipedia.org/wiki/蟹 "wikilink")、流出源源不絕的香醇[白蘭地湧泉的泉水等等](https://zh.wikipedia.org/wiki/白蘭地 "wikilink")。
 
 但是這些美味的食材不是兇猛無比的怪物，就是生長在環境惡劣的天險之地。因此在這個探求未知美味的**美食時代**裏，有許多專門深入絕地，拼上性命捕獲珍稀美味的**美食獵人**。
 
-每個美食獵人的人生目標就是用自己親手捕獲的食材完成包含[前菜](../Page/前菜.md "wikilink")、[湯](../Page/湯.md "wikilink")、[魚](../Page/魚.md "wikilink")、[肉](../Page/肉.md "wikilink")、[主菜](../Page/主菜.md "wikilink")、[沙拉](../Page/沙拉.md "wikilink")、[甜點](../Page/甜點.md "wikilink")、[飲料一共](../Page/飲料.md "wikilink")8道料理的**人生菜單**。
+每個美食獵人的人生目標就是用自己親手捕獲的食材完成包含[前菜](https://zh.wikipedia.org/wiki/前菜 "wikilink")、[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")、[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")、[肉](https://zh.wikipedia.org/wiki/肉 "wikilink")、[主菜](https://zh.wikipedia.org/wiki/主菜 "wikilink")、[沙拉](https://zh.wikipedia.org/wiki/沙拉 "wikilink")、[甜點](https://zh.wikipedia.org/wiki/甜點 "wikilink")、[飲料一共](https://zh.wikipedia.org/wiki/飲料 "wikilink")8道料理的**人生菜單**。
 
-主要的故事主軸即為美食獵人**四天王**之一的**特瑞科**為了完成自己的[全餐](../Page/全餐.md "wikilink")[菜單](../Page/菜單.md "wikilink")，和[廚師](../Page/廚師.md "wikilink")**小松**一同在美食世界尋找珍奇美食的旅程。
+主要的故事主軸即為美食獵人**四天王**之一的**特瑞科**為了完成自己的[全餐](https://zh.wikipedia.org/wiki/全餐 "wikilink")[菜單](../Page/菜單.md "wikilink")，和[廚師](../Page/廚師.md "wikilink")**小松**一同在美食世界尋找珍奇美食的旅程。
 
 ## 歷史年表
 
@@ -2436,8 +2436,8 @@ ISBN 978-4-08-880885-7</p></td>
 
 :;「」（第1話－第98話）
 
-:: 作詞 - [山田ひろし](../Page/山田ひろし.md "wikilink") / 作・編曲 - 櫻井真一 / 歌 -
-[串田晃](../Page/串田晃.md "wikilink")
+:: 作詞 - [山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") / 作・編曲 -
+櫻井真一 / 歌 - [串田晃](../Page/串田晃.md "wikilink")
 
 :;「豪食マイウェイ\!」（第99話-第147話）
 
@@ -2455,7 +2455,8 @@ ISBN 978-4-08-880885-7</p></td>
 
 :;「DELI-DELI☆DELICIOUS」（第26話－第38話）
 
-:: 作詞 - こだまさおり / 作・編曲：山口朗宴 / 歌 - [Sea☆A](../Page/Sea☆A.md "wikilink")
+:: 作詞 - こだまさおり / 作・編曲：山口朗宴 / 歌 -
+[Sea☆A](https://zh.wikipedia.org/wiki/Sea☆A "wikilink")
 
 :;「サブリナ」（第39話－第50話）
 
@@ -2467,7 +2468,8 @@ ISBN 978-4-08-880885-7</p></td>
 :: 作詞 - Blaise Maynard, tax / 作曲 - Blaise Maynard / 編曲：Maynard Plant,
 Zen / 歌 - [山下智久](../Page/山下智久.md "wikilink")
 
-:: 備註：台灣方面受到當時[航海王的主題歌](../Page/航海王.md "wikilink")《HAND's
+::
+備註：台灣方面受到當時[航海王的主題歌](https://zh.wikipedia.org/wiki/航海王 "wikilink")《HAND's
 UP》未授權的影響故未播放，該段期間以「サブリナ」代為播出。
 
 :;「サンバ de トリコ\!\!\!」（第63話－第75話）
@@ -2478,26 +2480,27 @@ UP》未授權的影響故未播放，該段期間以「サブリナ」代為播
 :;「Lovely Fruit」（第76話－第87話）
 
 :: 作詞 - Hibiki / 作・編曲：上松範康 (Elements Garden) / 歌 -
-[水树奈奈](../Page/水树奈奈.md "wikilink")
+[水树奈奈](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")
 
 :;「虹」（第88話－第98話）
 
 :: 作詞 - 寺岡呼人 / 作曲 - 寺岡呼人 / 編曲・歌 - [JUN SKY
-WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
+WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
 
 :;「赤い靴」（第100話-第111話）
 
 :: 作詞 - うらら / 作曲・編曲 - 上口浩平 / 歌 -
-[Salley](../Page/Salle.md "wikilink")（サリー）
+[Salley](https://zh.wikipedia.org/wiki/Salle "wikilink")（サリー）
 
 :;「トートロジー」（第112話 - 第123話）
 
-:: 作詞 - 志磨遼平 / 作曲・編曲・歌 - [ドレスコーズ](../Page/ドレスコーズ.md "wikilink")（日本コロムビア）
+:: 作詞 - 志磨遼平 / 作曲・編曲・歌 -
+[ドレスコーズ](https://zh.wikipedia.org/wiki/ドレスコーズ "wikilink")（日本コロムビア）
 
 :;「Believe in Yourself \!」（第124話 - 第135話）
 
 ::作詞 - 伊鐵弘将 / 作曲・編曲 - 阿久津健太郎 / 歌 -
-[palet](../Page/palet.md "wikilink")（日本コロムビア）
+[palet](https://zh.wikipedia.org/wiki/palet "wikilink")（日本コロムビア）
 
 :;「メガラバ」（第136話 - 第147話）
 
@@ -2505,7 +2508,7 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 
       -
         作詞・作曲・編曲 - 原田アツシ / 歌 -
-        [橫山琉璃香](../Page/橫山琉璃香.md "wikilink")（ビクターエンタテインメント）
+        [橫山琉璃香](https://zh.wikipedia.org/wiki/橫山琉璃香 "wikilink")（ビクターエンタテインメント）
 
 ### 各集標題
 
@@ -2528,7 +2531,7 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 <td><p>1</p></td>
 <td></td>
 <td><p>登陸、美食家之島! 美食獵人特瑞科出現!</p></td>
-<td><p><a href="../Page/村山功.md" title="wikilink">村山功</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村山功" title="wikilink">村山功</a></p></td>
 <td><p>伊藤尚往</p></td>
 <td><p><a href="../Page/香川久.md" title="wikilink">香川久</a>、中谷友紀子<br />
 井手武生</p></td>
@@ -2549,8 +2552,8 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 <td><p>3</p></td>
 <td></td>
 <td><p>摘取芳香四溢的七色果實!虹果實!</p></td>
-<td><p>（<a href="../Page/志水淳兒.md" title="wikilink">志水淳兒</a>）<br />
-<a href="../Page/中尾幸彦.md" title="wikilink">中尾幸彦</a></p></td>
+<td><p>（<a href="https://zh.wikipedia.org/wiki/志水淳兒" title="wikilink">志水淳兒</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/中尾幸彦" title="wikilink">中尾幸彦</a></p></td>
 <td><p><a href="../Page/山室直儀.md" title="wikilink">山室直儀</a></p></td>
 <td></td>
 <td></td>
@@ -2560,8 +2563,8 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 <td><p>4</p></td>
 <td></td>
 <td><p>料理劇毒豚鯨! 四天王庫克登場!</p></td>
-<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
-<td><p>岡辰也、<a href="../Page/山崎正和.md" title="wikilink">山崎正和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p>岡辰也、<a href="https://zh.wikipedia.org/wiki/山崎正和" title="wikilink">山崎正和</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2605,7 +2608,7 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 <td><p>高橋洋一</p></td>
 <td><p>植田秀仁</p></td>
 <td><p>山崎正和<br />
-<a href="../Page/宮井加奈.md" title="wikilink">宮井加奈</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/宮井加奈" title="wikilink">宮井加奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4122,12 +4125,12 @@ WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink")
 ### 劇場版
 
   - 第一部：『[美食獵人TORIKO 3D
-    開幕！美食大冒險！！](../Page/美食獵人TORIKO_3D_開幕！美食大冒險！！.md "wikilink")』（トリコ
+    開幕！美食大冒險！！](https://zh.wikipedia.org/wiki/美食獵人TORIKO_3D_開幕！美食大冒險！！ "wikilink")』（トリコ
     3D 開幕\!グルメアドベンチャー\!\!）
       - 2011年3月19日上映的3D電影。同時上映『[ONE PIECE 3D
         追逐草帽大冒險](../Page/ONE_PIECE_3D_追逐草帽大冒險.md "wikilink")』。
   - 第二部：『[美食獵人 劇場版
-    美食神的超食寶](../Page/美食獵人TORIKO_-美食神的超食寶-.md "wikilink")』（劇場版
+    美食神的超食寶](https://zh.wikipedia.org/wiki/美食獵人TORIKO_-美食神的超食寶- "wikilink")』（劇場版
     トリコ 美食神の超食宝）
       - 2013年7月27上映的電影版第2作。
 

@@ -1,7 +1,7 @@
 **USB視頻類別**（又稱 **USB video class** 或
-**[UVC](../Page/UVC.md "wikilink")**）是一種[USB](../Page/USB.md "wikilink")[裝置類別](../Page/USB#设备分类.md "wikilink")，形容可用於串流視頻的裝置，就如[網路攝影機](../Page/網路攝影機.md "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比視頻轉換器（analog
+**[UVC](https://zh.wikipedia.org/wiki/UVC "wikilink")**）是一種[USB](../Page/USB.md "wikilink")[裝置類別](https://zh.wikipedia.org/wiki/USB#设备分类 "wikilink")，形容可用於串流視頻的裝置，就如[網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比視頻轉換器（analog
 video converters）、（television
-tuners）、以及[靜態影像相機](../Page/靜態影像相機.md "wikilink")（still-image
+tuners）、以及[靜態影像相機](https://zh.wikipedia.org/wiki/靜態影像相機 "wikilink")（still-image
 cameras）。
 
 下表即 UVC 相容裝置列表。
@@ -33,7 +33,7 @@ cameras）。
 <td><p><a href="https://web.archive.org/web/20090426064439/http://ecamm.com/mac/imagewebcam/">3</a></p></td>
 </tr>
 <tr class="even">
-<td><p>Logitech <a href="../Page/Quickcam.md" title="wikilink">QuickCam</a> Ultra Vision SE</p></td>
+<td><p>Logitech <a href="https://zh.wikipedia.org/wiki/Quickcam" title="wikilink">QuickCam</a> Ultra Vision SE</p></td>
 <td><p>860-00023</p></td>
 <td><p><a href="http://logitech-en-amr.custhelp.com/cgi-bin/logitech_en_amr.cfg/php/enduser/std_adp.php?p_faqid=5336">4</a></p></td>
 </tr>

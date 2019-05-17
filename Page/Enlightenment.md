@@ -1,4 +1,4 @@
-**Enlightenment**（亦常简称为E），0.17以前版本属于[X窗口管理器](../Page/X窗口管理器.md "wikilink")，0.17版已经接近完整的桌面环境。而從0.19版開始，同時也是[Wayland的合成管理器](../Page/Wayland.md "wikilink")\[1\]
+**Enlightenment**（亦常简称为E），0.17以前版本属于[X窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")，0.17版已经接近完整的桌面环境。而從0.19版開始，同時也是[Wayland的合成管理器](../Page/Wayland.md "wikilink")\[1\]
 。
 
 曾为[GNOME默认窗口管理器](../Page/GNOME.md "wikilink")。
@@ -30,11 +30,12 @@ Enlightenment DR16的第一个版本发布於1996年10月30日。
       - iBar – 运行[应用程序](../Page/应用程序.md "wikilink")
       - iBox – 存放展示已最小化的窗口
       - Engage（原iTask NG） – 类似[Mac OS
-        X的](../Page/Mac_OS_X.md "wikilink")[dock](../Page/dock.md "wikilink")
+        X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[dock](https://zh.wikipedia.org/wiki/dock "wikilink")
       - Dropshadow – 窗口阴影
       - 钟表 – 模拟石英钟
-      - 电量 – 监视[笔记本电脑电量](../Page/笔记本电脑.md "wikilink")
-      - CPUFreq – 监视笔记本电脑[CPU](../Page/CPU.md "wikilink")
+      - 电量 – 监视[笔记本电脑电量](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")
+      - CPUFreq –
+        监视笔记本电脑[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")
       - 温度计 – 监视笔记本电脑温度
       - Illume – 适用于移动设备的用户界面配置
   - 组件可直接显示在桌面上，亦可利用书架来放置组件和管理组件外观
@@ -42,7 +43,7 @@ Enlightenment DR16的第一个版本发布於1996年10月30日。
   - 窗口阴影，图标化，最大化及粘附模式设置
   - 可定制[快捷键](../Page/快捷键.md "wikilink")
   - 多国语言支持
-  - 支持所有必要的标准（、、[XDG](../Page/XDG.md "wikilink")）
+  - 支持所有必要的标准（、、[XDG](https://zh.wikipedia.org/wiki/XDG "wikilink")）
 
 ## 参见
 

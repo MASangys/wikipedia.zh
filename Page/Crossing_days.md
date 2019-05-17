@@ -1,5 +1,5 @@
 《**crossing
-days**》是[日本配音員](../Page/日本配音員.md "wikilink")[新谷良子的第十張](../Page/新谷良子.md "wikilink")[單曲](../Page/單曲.md "wikilink")。由KING
+days**》是[日本配音員](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")[新谷良子的第十張](../Page/新谷良子.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由KING
 RECORDS發售。商品編號為LACM-4502。
 
 ## 收錄曲

@@ -18,7 +18,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2007年7月</p></td>
-<td><p><a href="../Page/尾田榮一郎.md" title="wikilink">尾田榮一郎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尾田榮一郎" title="wikilink">尾田榮一郎</a></p></td>
 <td><p>佳作</p></td>
 <td><p>COWARD COWBOY</p></td>
 <td><p>吉田一行</p></td>
@@ -36,7 +36,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2007年8月</p></td>
-<td><p><a href="../Page/久保帶人.md" title="wikilink">久保帶人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久保帶人" title="wikilink">久保帶人</a></p></td>
 <td><p>佳作</p></td>
 <td><p>東京魔女</p></td>
 <td><p>香山紗知</p></td>
@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2007年12月</p></td>
-<td><p><a href="../Page/星野桂.md" title="wikilink">星野桂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/星野桂" title="wikilink">星野桂</a></p></td>
 <td><p>佳作</p></td>
 <td><p>BLOODY MARY</p></td>
 <td><p>塚本妖一</p></td>
@@ -94,7 +94,7 @@
 <td><p>佳作</p></td>
 <td><p>深山アンユージュアル</p></td>
 <td><p>細川順三</p></td>
-<td><p><a href="../Page/赤丸JUMP.md" title="wikilink">赤マル掲載</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赤丸JUMP" title="wikilink">赤マル掲載</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -253,7 +253,7 @@
 <tr class="odd">
 <td><p>22</p></td>
 <td><p>2009年4月</p></td>
-<td><p><a href="../Page/篠原健太.md" title="wikilink">篠原健太</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/篠原健太" title="wikilink">篠原健太</a></p></td>
 <td><p>佳作</p></td>
 <td><p>-陸王-</p></td>
 <td><p>榎伸晃</p></td>
@@ -271,7 +271,7 @@
 <tr class="odd">
 <td><p>24</p></td>
 <td><p>2009年6月</p></td>
-<td><p><a href="../Page/岩代俊明.md" title="wikilink">岩代俊明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩代俊明" title="wikilink">岩代俊明</a></p></td>
 <td></td>
 <td></td>
 <td></td>

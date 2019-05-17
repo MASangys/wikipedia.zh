@@ -1,11 +1,11 @@
-**Mobilinux**，是一種基於Linux內核的[行動作業系統](../Page/行動作業系統.md "wikilink")，應用於[智能手機](../Page/智能手機.md "wikilink")。[MontaVista公司於](../Page/MontaVista.md "wikilink")2005年4月25日宣布Mobilinux。
+**Mobilinux**，是一種基於Linux內核的[行動作業系統](../Page/行動作業系統.md "wikilink")，應用於[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。[MontaVista公司於](https://zh.wikipedia.org/wiki/MontaVista "wikilink")2005年4月25日宣布Mobilinux。
 
 Mobilinux是基於開放源代碼和開放標準技術，設計給可擴展性的單芯片移動電話。超過35萬部手機和其他移動設備上運行的Mobilinux
 ，遠遠超過任何其他的商業Linux操作系統。
 
 Mobilinux 是基於[Linux
-kernel](../Page/Linux_kernel.md "wikilink")2.6。它具有不到1秒快速啟動時間。其[DevRocket](../Page/DevRocket.md "wikilink")[圖形用戶界面是基於](../Page/圖形用戶界面.md "wikilink")[EclipseIt](../Page/EclipseIt.md "wikilink")。還包括先進的Linux
-[ALSA聲音架構驅動程序支持給](../Page/ALSA.md "wikilink")[嵌入式系統](../Page/嵌入式系統.md "wikilink")。
+kernel](https://zh.wikipedia.org/wiki/Linux_kernel "wikilink")2.6。它具有不到1秒快速啟動時間。其[DevRocket](https://zh.wikipedia.org/wiki/DevRocket "wikilink")[圖形用戶界面是基於](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")[EclipseIt](https://zh.wikipedia.org/wiki/EclipseIt "wikilink")。還包括先進的Linux
+[ALSA聲音架構驅動程序支持給](../Page/ALSA.md "wikilink")[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。
 
 ## 外部連結
 

@@ -1,24 +1,24 @@
 **ICD-10
-第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](../Page/WHO.md "wikilink")[血液及](../Page/血液.md "wikilink")[造血器官疾病和某些涉及免疫机制的疾患](../Page/造血器官.md "wikilink")。
+第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液及](../Page/血液.md "wikilink")[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
 
 ## 受控词表
 
 ### 营养性贫血
 
-营养性[贫血](../Page/贫血.md "wikilink") （D50-D53）
+营养性[贫血](https://zh.wikipedia.org/wiki/贫血 "wikilink") （D50-D53）
 
-  - () [缺铁性贫血](../Page/缺铁性贫血.md "wikilink")
+  - () [缺铁性贫血](https://zh.wikipedia.org/wiki/缺铁性贫血 "wikilink")
   - () [维生素B12缺乏贫血](../Page/维生素B12.md "wikilink")
-  - () [叶酸盐缺乏性贫血](../Page/叶酸盐.md "wikilink")
+  - () [叶酸盐缺乏性贫血](https://zh.wikipedia.org/wiki/叶酸盐 "wikilink")
   - () 其他营养性贫血
 
 ### 溶血性贫血
 
-[溶血性贫血](../Page/溶血.md "wikilink") （D55-D59）
+[溶血性贫血](https://zh.wikipedia.org/wiki/溶血 "wikilink") （D55-D59）
 
-  - () 由于[酶障碍引起的贫血](../Page/酶障碍.md "wikilink")
-  - () [地中海贫血](../Page/地中海贫血.md "wikilink")
-  - () [镰状细胞疾患](../Page/镰状细胞.md "wikilink")
+  - () 由于[酶障碍引起的贫血](https://zh.wikipedia.org/wiki/酶障碍 "wikilink")
+  - () [地中海贫血](https://zh.wikipedia.org/wiki/地中海贫血 "wikilink")
+  - () [镰状细胞疾患](https://zh.wikipedia.org/wiki/镰状细胞 "wikilink")
   - () 其他遗传性溶血性贫血
   - () 后天性溶血性贫血
 
@@ -50,10 +50,10 @@
   - () 中性多形核白细胞的功能性疾患
   - () 其他白细胞疾患
   - () 脾疾病
-  - () [高铁血红蛋白血症](../Page/高铁血红蛋白血症.md "wikilink")
+  - () [高铁血红蛋白血症](https://zh.wikipedia.org/wiki/高铁血红蛋白血症 "wikilink")
   - () 血液和造血器官的其他疾病
   - ()
-    某些涉及[淋巴网状内皮细胞组织和](../Page/淋巴网状内皮细胞.md "wikilink")[网状组织细胞系统的疾病](../Page/网状组织细胞.md "wikilink")
+    某些涉及[淋巴网状内皮细胞组织和](https://zh.wikipedia.org/wiki/淋巴网状内皮细胞 "wikilink")[网状组织细胞系统的疾病](https://zh.wikipedia.org/wiki/网状组织细胞 "wikilink")
   - () 分类于他处的疾病引起的血液和造血器官的其他疾患
 
 ### 某些涉及免疫机制的疾患
@@ -70,7 +70,7 @@
 
 ## 参考文献
 
-  - [ICD](../Page/ICD.md "wikilink")
+  - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
 ## 外部链接

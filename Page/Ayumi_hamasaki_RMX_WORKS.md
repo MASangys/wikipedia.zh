@@ -12,7 +12,7 @@ mix》、《ayu trance》三種系列的混音作品。
       - 本系列發行的三張專輯分別為《ayu-mi-x》系列的第五彈、《ayu-ro mix》系列的第三彈、《ayu
         trance》系列的第三彈。
   - 《**from ayu-mi-x 5 non-stop mega
-    mix**》以濱崎步第五張原創專輯《[RAINBOW](../Page/RAINBOW.md "wikilink")》之收錄曲為中心，發行了Non-Stop混音專輯。
+    mix**》以濱崎步第五張原創專輯《[RAINBOW](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")》之收錄曲為中心，發行了Non-Stop混音專輯。
 
 ## 收錄歌曲
 

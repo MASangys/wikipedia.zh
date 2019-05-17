@@ -1,5 +1,5 @@
 **trust
-you**為[伊藤由奈第十三張](../Page/伊藤由奈.md "wikilink")[單曲](../Page/單曲.md "wikilink")，於2009年3月4日發行。本曲亦為《[機動戰士高達00](../Page/機動戰士高達00.md "wikilink")》第二季中15至24話的片尾曲。
+you**為[伊藤由奈第十三張](../Page/伊藤由奈.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年3月4日發行。本曲亦為《[機動戰士高達00](https://zh.wikipedia.org/wiki/機動戰士高達00 "wikilink")》第二季中15至24話的片尾曲。
 
 ## 收錄曲
 

@@ -1,5 +1,5 @@
 '''Happy Together
-'''為[Twins首張新曲加精選專輯](../Page/Twins.md "wikilink")，於2002年11月28日在[香港發行](../Page/香港.md "wikilink")。其後推出賀年版「歡樂年年」、第三版及Music
+'''為[Twins首張新曲加精選專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年11月28日在[香港發行](../Page/香港.md "wikilink")。其後推出賀年版「歡樂年年」、第三版及Music
 Video Karaoke Vcd/DVD 版。賀年歌"你最紅"Music Video請來一代巨星 -
 [張國榮參與演出](../Page/張國榮.md "wikilink")。
 

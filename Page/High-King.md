@@ -1,17 +1,17 @@
 '''High-King '''隸屬於[Hello\!
-Project旗下的團體之一](../Page/Hello!_Project.md "wikilink")。
+Project旗下的團體之一](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
-應援2008年8月上演、由[早安少女組](../Page/早安少女組.md "wikilink")｡和寶塚歌劇團合作的音樂劇「」的特別團體。\[1\]
+應援2008年8月上演、由[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")｡和寶塚歌劇團合作的音樂劇「」的特別團體。\[1\]
 
 ## 主要成員
 
   - [田中麗奈](../Page/田中麗奈_\(早安少女組\).md "wikilink") (  )（）（隊長）\[2\]
   - [高橋愛](../Page/高橋愛.md "wikilink")（ 隊長）
-  - [清水佐紀](../Page/清水佐紀.md "wikilink")（[Berryz工房](../Page/Berryz工房.md "wikilink")
+  - [清水佐紀](https://zh.wikipedia.org/wiki/清水佐紀 "wikilink")（[Berryz工房](../Page/Berryz工房.md "wikilink")
     隊長）
   - [矢島舞美](../Page/矢島舞美.md "wikilink")（[℃-ute](../Page/℃-ute.md "wikilink")
     隊長）
-  - [前田憂佳](../Page/前田憂佳.md "wikilink")（[S/mileage](../Page/S/mileage.md "wikilink")）
+  - [前田憂佳](../Page/前田憂佳.md "wikilink")（[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")）
 
 ## 簡歷
 
@@ -19,7 +19,8 @@ Project旗下的團體之一](../Page/Hello!_Project.md "wikilink")。
 
 <!-- end list -->
 
-  - 4月19日 - 在 [Hello\! Project](../Page/Hello!_Project.md "wikilink")
+  - 4月19日 - 在 [Hello\!
+    Project](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")
     官方網站上宣布正式成立。
   - 6月11日 - 『』的應援歌『C＼C』發行。
 

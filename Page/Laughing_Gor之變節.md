@@ -1,6 +1,6 @@
 是一部於2009年出品的[香港警匪片](../Page/香港.md "wikilink")，此電影由[邵氏兄弟(香港)有限公司與](../Page/邵氏兄弟.md "wikilink")[香港](../Page/香港.md "wikilink")[電視廣播有限公司合作攝製](../Page/電視廣播有限公司.md "wikilink")，由[邱禮濤擔任執導](../Page/邱禮濤.md "wikilink")，以及由[謝天華](../Page/謝天華.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[黃日華](../Page/黃日華.md "wikilink")、[陳法拉和](../Page/陳法拉.md "wikilink")[黎耀祥擔任演出](../Page/黎耀祥.md "wikilink")。
 
-由於[謝天華在](../Page/謝天華.md "wikilink")[無綫電視劇集](../Page/無綫電視劇集.md "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》所飾演的[警方](../Page/警方.md "wikilink")[臥底](../Page/臥底.md "wikilink")[梁笑棠](../Page/梁笑棠.md "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，電視廣播有限公司為了徇眾要求，電視廣播有限公司電視廣播業務總經理[陳志雲於](../Page/陳志雲.md "wikilink")2009年4月1日（[愚人節](../Page/愚人節.md "wikilink")）在[無綫生活台節目](../Page/無綫生活台.md "wikilink")《[志雲飯局](../Page/志雲飯局.md "wikilink")》訪問[謝天華的錄影探班上宣佈開拍](../Page/謝天華.md "wikilink")《[學警系列](../Page/學警系列.md "wikilink")》第一部[衍生作品](../Page/衍生作品.md "wikilink")，此衍生作品為[電影](../Page/電影.md "wikilink")，同年5月開拍，同年8月8日首映，同年8月13日上映。
+由於[謝天華在](../Page/謝天華.md "wikilink")[無綫電視劇集](https://zh.wikipedia.org/wiki/無綫電視劇集 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》所飾演的[警方](https://zh.wikipedia.org/wiki/警方 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")[梁笑棠](https://zh.wikipedia.org/wiki/梁笑棠 "wikilink")（[Laughing哥](../Page/Laughing哥.md "wikilink")）大受歡迎，電視廣播有限公司為了徇眾要求，電視廣播有限公司電視廣播業務總經理[陳志雲於](../Page/陳志雲.md "wikilink")2009年4月1日（[愚人節](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在[無綫生活台節目](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")《[志雲飯局](../Page/志雲飯局.md "wikilink")》訪問[謝天華的錄影探班上宣佈開拍](../Page/謝天華.md "wikilink")《[學警系列](https://zh.wikipedia.org/wiki/學警系列 "wikilink")》第一部[衍生作品](../Page/衍生作品.md "wikilink")，此衍生作品為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，同年5月開拍，同年8月8日首映，同年8月13日上映。
 
 ## 演員表
 
@@ -19,12 +19,12 @@
 <td><p><strong>七哥（座頭專用）</strong><br />
 正興社老大<br />
 座頭死敵<br />
-前<a href="../Page/臥底.md" title="wikilink">臥底</a><br />
+前<a href="https://zh.wikipedia.org/wiki/臥底" title="wikilink">臥底</a><br />
 企圖謀殺潘sir，被Laughing哥殺死</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/謝天華.md" title="wikilink">謝天華</a></strong></p></td>
-<td><p><strong><a href="../Page/梁笑棠.md" title="wikilink">梁笑棠</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/梁笑棠" title="wikilink">梁笑棠</a></strong></p></td>
 <td><p><strong><a href="../Page/Laughing哥.md" title="wikilink">Laughing哥</a></strong><br />
 臥底<br />
 成員<br />
@@ -43,7 +43,7 @@
 <td><p>一哥手下</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/梁烈唯.md" title="wikilink">梁烈唯</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></strong></p></td>
 <td><p><strong>小　龍</strong></p></td>
 <td><p>Laughing哥手下</p></td>
 </tr>
@@ -71,22 +71,22 @@
 <td><p>一哥女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Inayat_Khan.md" title="wikilink">Inayat Khan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Inayat_Khan" title="wikilink">Inayat Khan</a></p></td>
 <td><p>一哥手下</p></td>
 <td><p>一哥手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Bitto_Singh_Hartihan.md" title="wikilink">Bitto Singh Hartihan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bitto_Singh_Hartihan" title="wikilink">Bitto Singh Hartihan</a></p></td>
 <td><p>一哥手下</p></td>
 <td><p>一哥手下</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/連志雄.md" title="wikilink">連志雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/連志雄" title="wikilink">連志雄</a></p></td>
 <td><p>Laughing哥手下</p></td>
 <td><p>Laughing哥手下</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周志豪.md" title="wikilink">周志豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周志豪" title="wikilink">周志豪</a></p></td>
 <td><p>Laughing哥手下</p></td>
 <td><p>Laughing哥手下</p></td>
 </tr>
@@ -114,7 +114,7 @@
 <td><p><strong><a href="../Page/李思捷.md" title="wikilink">李思捷</a></strong></p></td>
 <td><p><strong>阿　巢</strong></p></td>
 <td><p>座頭雙煞之一<br />
-實際為一哥<a href="../Page/線人.md" title="wikilink">線人</a><br />
+實際為一哥<a href="https://zh.wikipedia.org/wiki/線人" title="wikilink">線人</a><br />
 被座頭殺死<br />
 殺死蕭凱倫</p></td>
 </tr>
@@ -138,7 +138,7 @@ Laughing哥之女友<br />
 誤中阿巢槍殺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/泰仔.md" title="wikilink">泰　仔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰仔" title="wikilink">泰　仔</a></p></td>
 <td><p>座頭手下</p></td>
 <td><p>座頭手下</p></td>
 </tr>
@@ -165,7 +165,7 @@ Laughing哥之女友<br />
 <tr class="even">
 <td><p><strong><a href="../Page/元彪.md" title="wikilink">元　彪</a></strong></p></td>
 <td><p><strong>冼Sir</strong></p></td>
-<td><p><a href="../Page/有組織罪案及三合會調查科.md" title="wikilink">有組織罪案及三合會調查科</a><a href="../Page/高級警司.md" title="wikilink">高級警司</a><br />
+<td><p><a href="../Page/有組織罪案及三合會調查科.md" title="wikilink">有組織罪案及三合會調查科</a><a href="https://zh.wikipedia.org/wiki/高級警司" title="wikilink">高級警司</a><br />
 臥底之上司</p></td>
 </tr>
 <tr class="odd">
@@ -184,7 +184,7 @@ Laughing哥之女友<br />
 <tr class="odd">
 <td><p><strong><a href="../Page/戴志偉.md" title="wikilink">戴志偉</a></strong></p></td>
 <td><p><strong>教　官</strong></p></td>
-<td><p><a href="../Page/學堂.md" title="wikilink">學堂</a><a href="../Page/教官.md" title="wikilink">教官</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/學堂" title="wikilink">學堂</a><a href="https://zh.wikipedia.org/wiki/教官" title="wikilink">教官</a><br />
 Laughing哥之教官</p></td>
 </tr>
 <tr class="even">
@@ -194,46 +194,46 @@ Laughing哥之教官</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a></strong></p></td>
-<td><p><strong><a href="../Page/鍾立文.md" title="wikilink">鍾立文</a></strong></p></td>
-<td><p><a href="../Page/警員.md" title="wikilink">警員</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/鍾立文" title="wikilink">鍾立文</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/警員" title="wikilink">警員</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/陳鍵鋒.md" title="wikilink">陳鍵鋒</a></strong></p></td>
-<td><p><strong><a href="../Page/李柏翹.md" title="wikilink">李柏翹</a></strong></p></td>
-<td><p><a href="../Page/警員.md" title="wikilink">警員</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/陳鍵鋒" title="wikilink">陳鍵鋒</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李柏翹" title="wikilink">李柏翹</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/警員" title="wikilink">警員</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></strong></p></td>
 <td><p><strong>探　員</strong></p></td>
-<td><p><a href="../Page/探員.md" title="wikilink">探員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/高鈞賢.md" title="wikilink">高鈞賢</a></strong></p></td>
 <td><p><strong>探　員</strong></p></td>
-<td><p><a href="../Page/探員.md" title="wikilink">探員</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅柏豪.md" title="wikilink">羅柏豪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅柏豪" title="wikilink">羅柏豪</a></p></td>
 <td><p>探　員</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
 <td><p>探　員</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/余達志.md" title="wikilink">余達志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/余達志" title="wikilink">余達志</a></p></td>
 <td><p>探　員</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/莫偉峰.md" title="wikilink">莫偉峰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/莫偉峰" title="wikilink">莫偉峰</a></p></td>
 <td><p>探　員</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳少彤.md" title="wikilink">陳少彤</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳少彤" title="wikilink">陳少彤</a></p></td>
 <td><p>警　員</p></td>
 <td><p>警員</p></td>
 </tr>
@@ -242,32 +242,32 @@ Laughing哥之教官</p></td>
 
 ### 其他演員
 
-|                                  |        |           |
-| -------------------------------- | ------ | --------- |
-| **演員**                           | **角色** | **關係／暱稱** |
-| [宋本中](../Page/宋本中.md "wikilink") | 便利店劫匪  | 便利店劫匪     |
-| [黎桐康](../Page/黎桐康.md "wikilink") | 殺　手    | 殺手        |
-| [呂　熙](../Page/呂熙.md "wikilink")  | 殺　手    | 殺手        |
-| [黎柏麟](../Page/黎柏麟.md "wikilink") | 殺　手    | 殺手        |
-| [楊潮凱](../Page/楊潮凱.md "wikilink") | 殺　手    | 殺手        |
-| [謝卓言](../Page/謝卓言.md "wikilink") | 殺　手    | 殺手        |
-| [黃素歡](../Page/黃素歡.md "wikilink") | 酒樓女侍應  | 酒樓女侍應     |
-| [徐忠信](../Page/徐忠信.md "wikilink") | 台灣拆家   | 台灣拆家      |
-| [林零原](../Page/林零原.md "wikilink") | 大　飛    |           |
-| [陳文靜](../Page/陳文靜.md "wikilink") | 公關小姐   | 公關小姐      |
-| [陳宛蔚](../Page/陳宛蔚.md "wikilink") | 公關小姐   | 公關小姐      |
-| [梁政珏](../Page/梁政珏.md "wikilink") | 公關小姐   | 公關小姐      |
-| [阮　兒](../Page/阮兒.md "wikilink")  | 公關小姐   | 公關小姐      |
-| [張韋怡](../Page/張韋怡.md "wikilink") | 公關小姐   | 公關小姐      |
-| [林婉霞](../Page/林婉霞.md "wikilink") | 公關小姐   | 公關小姐      |
-| [倫紫玄](../Page/倫紫玄.md "wikilink") | 公關小姐   | 公關小姐      |
-| [王卉霖](../Page/王卉霖.md "wikilink") | 公關小姐   | 公關小姐      |
-| [周麗欣](../Page/周麗欣.md "wikilink") | 公關小姐   | 公關小姐      |
-| [潘冠霖](../Page/潘冠霖.md "wikilink") | 殺　手    | 殺手        |
-| [趙國東](../Page/趙國東.md "wikilink") | 殺　手    | 殺手        |
-| [歐梓浩](../Page/歐梓浩.md "wikilink") | 殺　手    | 殺手        |
-| [王致迪](../Page/王致迪.md "wikilink") | 殺　手    | 殺手        |
-| [王德基](../Page/王德基.md "wikilink") | 殺　手    | 殺手        |
+|                                                     |        |           |
+| --------------------------------------------------- | ------ | --------- |
+| **演員**                                              | **角色** | **關係／暱稱** |
+| [宋本中](../Page/宋本中.md "wikilink")                    | 便利店劫匪  | 便利店劫匪     |
+| [黎桐康](https://zh.wikipedia.org/wiki/黎桐康 "wikilink") | 殺　手    | 殺手        |
+| [呂　熙](../Page/呂熙.md "wikilink")                     | 殺　手    | 殺手        |
+| [黎柏麟](https://zh.wikipedia.org/wiki/黎柏麟 "wikilink") | 殺　手    | 殺手        |
+| [楊潮凱](../Page/楊潮凱.md "wikilink")                    | 殺　手    | 殺手        |
+| [謝卓言](../Page/謝卓言.md "wikilink")                    | 殺　手    | 殺手        |
+| [黃素歡](../Page/黃素歡.md "wikilink")                    | 酒樓女侍應  | 酒樓女侍應     |
+| [徐忠信](../Page/徐忠信.md "wikilink")                    | 台灣拆家   | 台灣拆家      |
+| [林零原](https://zh.wikipedia.org/wiki/林零原 "wikilink") | 大　飛    |           |
+| [陳文靜](https://zh.wikipedia.org/wiki/陳文靜 "wikilink") | 公關小姐   | 公關小姐      |
+| [陳宛蔚](../Page/陳宛蔚.md "wikilink")                    | 公關小姐   | 公關小姐      |
+| [梁政珏](../Page/梁政珏.md "wikilink")                    | 公關小姐   | 公關小姐      |
+| [阮　兒](../Page/阮兒.md "wikilink")                     | 公關小姐   | 公關小姐      |
+| [張韋怡](../Page/張韋怡.md "wikilink")                    | 公關小姐   | 公關小姐      |
+| [林婉霞](https://zh.wikipedia.org/wiki/林婉霞 "wikilink") | 公關小姐   | 公關小姐      |
+| [倫紫玄](../Page/倫紫玄.md "wikilink")                    | 公關小姐   | 公關小姐      |
+| [王卉霖](https://zh.wikipedia.org/wiki/王卉霖 "wikilink") | 公關小姐   | 公關小姐      |
+| [周麗欣](../Page/周麗欣.md "wikilink")                    | 公關小姐   | 公關小姐      |
+| [潘冠霖](../Page/潘冠霖.md "wikilink")                    | 殺　手    | 殺手        |
+| [趙國東](https://zh.wikipedia.org/wiki/趙國東 "wikilink") | 殺　手    | 殺手        |
+| [歐梓浩](https://zh.wikipedia.org/wiki/歐梓浩 "wikilink") | 殺　手    | 殺手        |
+| [王致迪](https://zh.wikipedia.org/wiki/王致迪 "wikilink") | 殺　手    | 殺手        |
+| [王德基](https://zh.wikipedia.org/wiki/王德基 "wikilink") | 殺　手    | 殺手        |
 
 ## 各地電影分級制度
 
@@ -283,8 +283,8 @@ Laughing哥之教官</p></td>
 
   - 2009年5月13日：此電影於11:00在將軍澳電視廣播城秘密試造型。
   - 2009年5月27日：此電影於14:00在將軍澳電視廣播城廣播大樓二樓空中花園舉行開鏡拜神。
-  - 2009年6月8日：TVB宣佈[黎桐康於角色招募中勝出](../Page/黎桐康.md "wikilink")，將會飾演一名殺手。
-  - 2011年10月8日：此電影於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台首播](../Page/高清翡翠台.md "wikilink")，翌日起於[myTV提供](../Page/myTV.md "wikilink")30日重溫，為myTV首套電影。
+  - 2009年6月8日：TVB宣佈[黎桐康於角色招募中勝出](https://zh.wikipedia.org/wiki/黎桐康 "wikilink")，將會飾演一名殺手。
+  - 2011年10月8日：此電影於[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台首播](../Page/高清翡翠台.md "wikilink")，翌日起於[myTV提供](https://zh.wikipedia.org/wiki/myTV "wikilink")30日重溫，為myTV首套電影。
 
 ## 參考資料
 

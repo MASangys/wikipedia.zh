@@ -1,5 +1,5 @@
 《**ONE PIECE THE MOVIE 喬巴身世之謎：冬季綻放、奇跡的櫻花**》是於2008年上映的第九部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](../Page/劇場版.md "wikilink")。曾得到第32屆[日本電影金像獎](../Page/日本電影金像獎.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。曾得到第32屆[日本電影金像獎](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")。
 
 ## 製作
 
@@ -8,7 +8,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
 ### 與原作的區別
 
-1.  原作中的[薇薇和跑得快並未在本劇場版中出場](../Page/薇薇.md "wikilink")，取而代之的是[妮可·羅賓和](../Page/妮可·羅賓.md "wikilink")[佛朗基](../Page/佛朗基.md "wikilink")。
+1.  原作中的[薇薇和跑得快並未在本劇場版中出場](https://zh.wikipedia.org/wiki/薇薇 "wikilink")，取而代之的是[妮可·羅賓和](../Page/妮可·羅賓.md "wikilink")[佛朗基](../Page/佛朗基.md "wikilink")。
 2.  草帽海賊團的船在原作中是[前進梅利號](../Page/前進梅利號.md "wikilink")，劇場版則改為[千陽號](../Page/千陽號.md "wikilink")。
 3.  原作中薇薇的戲份則主要由羅賓取代。
 4.  瓦波爾一方增加了原創角色「姆修鲁」。
@@ -16,7 +16,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
 ## 劇情
 
-[草帽海賊團的航海士](../Page/草帽海賊團.md "wikilink")**[娜美](../Page/娜美.md "wikilink")**突然病倒了，一行人在沒有船醫的情況下，來到了有醫療大國之稱的**磁鼓島**，雖然他們一到達磁鼓王國便立即開始尋找醫生，但不幸的是，島上所有的醫生皆因現任國王**瓦波爾**的惡政而遭到放逐，只剩下一位技術高超的139歲女醫生**Dr.古蕾娃**住在磁鼓山上。於是，[魯夫只好背著娜美](../Page/魯夫.md "wikilink")，前往雪山城堡途中，遇上巨大兔子的襲擊，又遇上雪崩。魯夫等人終到達了山頂城堡，，在那裡他們發現女醫生身旁一隻有著藍色鼻子、精通人類語言而且還會用雙腳站立的[馴鹿](../Page/馴鹿.md "wikilink")**[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")**。
+[草帽海賊團的航海士](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")**[娜美](../Page/娜美.md "wikilink")**突然病倒了，一行人在沒有船醫的情況下，來到了有醫療大國之稱的**磁鼓島**，雖然他們一到達磁鼓王國便立即開始尋找醫生，但不幸的是，島上所有的醫生皆因現任國王**瓦波爾**的惡政而遭到放逐，只剩下一位技術高超的139歲女醫生**Dr.古蕾娃**住在磁鼓山上。於是，[魯夫只好背著娜美](https://zh.wikipedia.org/wiki/魯夫 "wikilink")，前往雪山城堡途中，遇上巨大兔子的襲擊，又遇上雪崩。魯夫等人終到達了山頂城堡，，在那裡他們發現女醫生身旁一隻有著藍色鼻子、精通人類語言而且還會用雙腳站立的[馴鹿](https://zh.wikipedia.org/wiki/馴鹿 "wikilink")**[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")**。
 
 最後幫助他們的是和Dr.古蕾娃醫生學習醫術的藍鼻子麋鹿喬巴。後來正當追問喬巴希望牠能成為他們的夥伴時，竟被炮彈襲擊，捨棄國家而逃亡的極惡國王瓦波爾，帶著擁有惡魔果實能力的哥哥姆休魯返回國土。Dr.古蕾娃為了搶回被攻佔的城堡而開始了總攻擊，被瓦波爾打斷的海賊旗，是與喬巴形同父子的並替牠命名，同時也是牠唯一摯友的Dr.西爾爾克，為了宣誓夢想而掛起的旗子，是面非常重要的旗子。魯夫對著嘲笑並踐踏別人夢想的瓦波爾發出怒吼「這不是你能帶著玩笑心情折斷的旗子」傾注在海賊旗上，一個男人的熱情。現在，他们將要在這座島上造就奇蹟。
 
@@ -39,14 +39,14 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 <td><p>香港</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/草帽海賊團.md" title="wikilink">草帽海賊團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/草帽海賊團" title="wikilink">草帽海賊團</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="../Page/蒙其·D·魯夫.md" title="wikilink">蒙其·D·魯夫</a></p></td>
 <td><p><a href="../Page/田中真弓.md" title="wikilink">田中真弓</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/羅羅亞·索隆.md" title="wikilink">羅羅亞·索隆</a></p></td>
@@ -64,7 +64,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
@@ -86,11 +86,11 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 <tr class="odd">
 <td><p>'''<a href="../Page/多尼多尼·喬巴.md" title="wikilink">多尼多尼·喬巴</a></p></td>
 <td><p><a href="../Page/大谷育江.md" title="wikilink">大谷育江</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''Dr.希爾爾克</p></td>
-<td><p><a href="../Page/牛山茂.md" title="wikilink">牛山茂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/牛山茂" title="wikilink">牛山茂</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="odd">
@@ -121,7 +121,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 <tr class="even">
 <td><p>'''蔥熊瑪利亞</p></td>
 <td><p>齊藤貴美子</p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>其他</p></td>
@@ -144,14 +144,14 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
 ## 工作人員
 
-  - 原作·企劃合作：[尾田榮一郎](../Page/尾田榮一郎.md "wikilink")
-  - 監督·畫素描筆：[志水淳兒](../Page/志水淳兒.md "wikilink")
-  - 畫素描筆合作：[龜垣一](../Page/龜垣一.md "wikilink")
-  - 脚本：[上坂浩彦](../Page/上坂浩彦.md "wikilink")
-  - 美術監督：[平間由香](../Page/平間由香.md "wikilink")
-  - 人物設計・作畫監督：[舘直樹](../Page/舘直樹.md "wikilink")
+  - 原作·企劃合作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
+  - 監督·畫素描筆：[志水淳兒](https://zh.wikipedia.org/wiki/志水淳兒 "wikilink")
+  - 畫素描筆合作：[龜垣一](https://zh.wikipedia.org/wiki/龜垣一 "wikilink")
+  - 脚本：[上坂浩彦](https://zh.wikipedia.org/wiki/上坂浩彦 "wikilink")
+  - 美術監督：[平間由香](https://zh.wikipedia.org/wiki/平間由香 "wikilink")
+  - 人物設計・作畫監督：[舘直樹](https://zh.wikipedia.org/wiki/舘直樹 "wikilink")
   - 作畫監督輔佐：島貫正弘、真庭秀明、井手武生
-  - 原畫：[西田達三](../Page/西田達三.md "wikilink")、[山下高明](../Page/山下高明.md "wikilink")、[森久司](../Page/森久司.md "wikilink")、田中宏紀、林裕己、舘直樹、真庭秀明、井手武生
+  - 原畫：[西田達三](https://zh.wikipedia.org/wiki/西田達三 "wikilink")、[山下高明](https://zh.wikipedia.org/wiki/山下高明 "wikilink")、[森久司](https://zh.wikipedia.org/wiki/森久司 "wikilink")、田中宏紀、林裕己、舘直樹、真庭秀明、井手武生
   - 音樂：[田中公平](../Page/田中公平.md "wikilink")
 
 ## 音樂
@@ -162,8 +162,8 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
   -
     作詞：[吉田美和](../Page/吉田美和.md "wikilink") /
-    作曲：[中村正人](../Page/中村正人.md "wikilink")・吉田美和 /
-    編曲：中村正人 / 主唱：[DREAMS COME
+    作曲：[中村正人](https://zh.wikipedia.org/wiki/中村正人 "wikilink")・吉田美和
+    / 編曲：中村正人 / 主唱：[DREAMS COME
     TRUE](../Page/DREAMS_COME_TRUE.md "wikilink")
 
 ## 參考
@@ -177,7 +177,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
     中文官方網站](http://toei-anim-contents.net/international/onepiece/chopper/index.html)
 
 [ru:Список анимационных фильмов о One Piece\#Фильм
-девятый](../Page/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_девятый.md "wikilink")
+девятый](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_девятый "wikilink")
 
 [Category:志水淳兒電影](https://zh.wikipedia.org/wiki/Category:志水淳兒電影 "wikilink")
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")

@@ -1,9 +1,9 @@
 **Kross** 是[KDE
-4新的腳本框架](../Page/KDE_4.md "wikilink")。原先Kross是設計用於[KOffice但最終成為KDE](../Page/KOffice.md "wikilink")
+4新的腳本框架](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")。原先Kross是設計用於[KOffice但最終成為KDE](../Page/KOffice.md "wikilink")
 4的正式腳本框架。Kross旨在提供KDE充分的腳本能力給應用程序用戶自己選擇的語言
 ;和方便開發人員能夠針對KDE的平台，使它們的應用程序支持多種腳本語言（本身不需要精通任何腳本語言）。
 
-Kross腳本框架並不是[腳本語言本身](../Page/腳本語言.md "wikilink")。它只不過提供KDE嵌入服務以支持其他現有的腳本語言。目前支持：[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript和](../Page/JavaScript.md "wikilink")[Falcon编程语言](../Page/Falcon编程语言.md "wikilink")。
+Kross腳本框架並不是[腳本語言本身](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。它只不過提供KDE嵌入服務以支持其他現有的腳本語言。目前支持：[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[JavaScript和](../Page/JavaScript.md "wikilink")[Falcon编程语言](https://zh.wikipedia.org/wiki/Falcon编程语言 "wikilink")。
 
 Kross提供下列優於其他的方法以使腳本用於桌面應用程序或桌面環境：
 
@@ -17,10 +17,10 @@ Kross提供下列優於其他的方法以使腳本用於桌面應用程序或桌
   - [Kexi](../Page/Kexi.md "wikilink")
   - [Kopete](../Page/Kopete.md "wikilink")
   - [Krita](../Page/Krita.md "wikilink")
-  - [KSpread](../Page/KSpread.md "wikilink")
+  - [KSpread](https://zh.wikipedia.org/wiki/KSpread "wikilink")
   - [KWord](../Page/KWord.md "wikilink")
-  - [Plasma](../Page/Plasma_\(KDE\).md "wikilink")
-  - [SuperKaramba](../Page/SuperKaramba.md "wikilink")
+  - [Plasma](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")
+  - [SuperKaramba](https://zh.wikipedia.org/wiki/SuperKaramba "wikilink")
   - [KTorrent](../Page/KTorrent.md "wikilink")
 
 ## 外部連結

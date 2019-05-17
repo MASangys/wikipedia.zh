@@ -1,5 +1,5 @@
 **塞缪尔·德卢森纳·英厄姆**（**Samuel Delucenna
-Ingham**，），[美国政治家](../Page/美国.md "wikilink")，[美国民主-共和党和](../Page/美国民主-共和党.md "wikilink")[美国民主党人](../Page/美国民主党.md "wikilink")，曾任[美国众议院议员](../Page/美国众议院.md "wikilink")（1813年-1818年、1822年-1829年）、[美国财政部长](../Page/美国财政部长.md "wikilink")（1829年-1831年）。
+Ingham**，），[美国政治家](../Page/美国.md "wikilink")，[美国民主-共和党和](https://zh.wikipedia.org/wiki/美国民主-共和党 "wikilink")[美国民主党人](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国众议院议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")（1813年-1818年、1822年-1829年）、[美国财政部长](../Page/美国财政部长.md "wikilink")（1829年-1831年）。
 
 [Category:1779年出生](https://zh.wikipedia.org/wiki/Category:1779年出生 "wikilink")
 [Category:1860年逝世](https://zh.wikipedia.org/wiki/Category:1860年逝世 "wikilink")

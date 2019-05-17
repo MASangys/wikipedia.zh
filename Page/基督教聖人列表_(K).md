@@ -11,27 +11,27 @@
 <th><p><a href="../Page/天主教.md" title="wikilink">天主教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/基督新教.md" title="wikilink">基督新教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/基督新教" title="wikilink">基督新教</a><br />
 中文译名<br />
 </p></th>
-<th><p><a href="../Page/东正教.md" title="wikilink">东正教</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教" title="wikilink">东正教</a><br />
 中文译名<br />
 </p></th>
 <th><p>去世时间<br />
 </p></th>
-<th><p><a href="../Page/圣公会.md" title="wikilink">圣公会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/圣公会" title="wikilink">圣公会</a><br />
 </p></th>
-<th><p><a href="../Page/东方正统教会.md" title="wikilink">东方正统教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东方正统教会" title="wikilink">东方正统教会</a><br />
 </p></th>
-<th><p><a href="../Page/东正教会.md" title="wikilink">东正教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/东正教会" title="wikilink">东正教会</a><br />
 </p></th>
-<th><p><a href="../Page/天主教会.md" title="wikilink">天主教会</a><br />
+<th><p><a href="https://zh.wikipedia.org/wiki/天主教会" title="wikilink">天主教会</a><br />
 </p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Kalliopi_(martyr).md" title="wikilink">Kalliopi (martyr)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kalliopi_(martyr)" title="wikilink">Kalliopi (martyr)</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -43,9 +43,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Kassia.md" title="wikilink">Kassia</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kassia" title="wikilink">Kassia</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/加西盎.md" title="wikilink">加西盎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加西盎" title="wikilink">加西盎</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>867</p></td>
@@ -55,9 +55,9 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Katharine_Drexel.md" title="wikilink">Katharine Drexel</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Katharine_Drexel" title="wikilink">Katharine Drexel</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/加大肋纳·德雷克塞尔.md" title="wikilink">加大肋纳·德雷克塞尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加大肋纳·德雷克塞尔" title="wikilink">加大肋纳·德雷克塞尔</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1955</p></td>
@@ -67,9 +67,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Saint_Kea.md" title="wikilink">Kea</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Saint_Kea" title="wikilink">Kea</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/圣加亚.md" title="wikilink">加亚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣加亚" title="wikilink">加亚</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>6世紀早期</p></td>
@@ -79,9 +79,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Kessog.md" title="wikilink">Kessog</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kessog" title="wikilink">Kessog</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/加索.md" title="wikilink">加索</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加索" title="wikilink">加索</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>520</p></td>
@@ -91,9 +91,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Kevin_of_Glendalough.md" title="wikilink">Kevin of Glendalough</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kevin_of_Glendalough" title="wikilink">Kevin of Glendalough</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/格兰达洛的加文.md" title="wikilink">格兰达洛的加文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格兰达洛的加文" title="wikilink">格兰达洛的加文</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>618</p></td>
@@ -103,9 +103,9 @@
 <td><p>是</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Kinga_of_Poland.md" title="wikilink">Kinga of Poland</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kinga_of_Poland" title="wikilink">Kinga of Poland</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/波兰的金嘉.md" title="wikilink">波兰的金嘉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波兰的金嘉" title="wikilink">波兰的金嘉</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>1292</p></td>
@@ -115,11 +115,11 @@
 <td><p>是</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Kirill_of_Beloozero.md" title="wikilink">Kirill of Beloozero</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kirill_of_Beloozero" title="wikilink">Kirill of Beloozero</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/贝鲁泽罗的基里尔.md" title="wikilink">贝鲁泽罗的基里尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/贝鲁泽罗的基里尔" title="wikilink">贝鲁泽罗的基里尔</a></p></td>
 <td><p>1427</p></td>
 <td><p> </p></td>
 <td><p> </p></td>
@@ -127,9 +127,9 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Kyriaki_(martyr).md" title="wikilink">Kyriaki</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kyriaki_(martyr)" title="wikilink">Kyriaki</a></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/基里亚奇_(殉道者).md" title="wikilink">基里亚奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/基里亚奇_(殉道者)" title="wikilink">基里亚奇</a></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p>300</p></td>

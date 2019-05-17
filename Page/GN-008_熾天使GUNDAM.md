@@ -16,7 +16,7 @@
 | 特殊裝置                                                                                                    |
 
 **GN-008 熾天使GUNDAM（Seravee
-Gundam）**，為日本科幻[動畫作品](../Page/動畫.md "wikilink")《[機動戰士GUNDAM
+Gundam）**，為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM
 00](../Page/機動戰士GUNDAM_00.md "wikilink")》中登場的機動戰士（Mobile
 Suit），由提耶利亞·厄德所駕駛。
 
@@ -47,7 +47,7 @@ Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲
 
   -
     首次出擊並進行於宇宙殖民地「榮耀」的救援任務，拯救了即將敗陣之[GN-001RE
-    能天使GUNDAM修補版](../Page/GN-001_能天使GUNDAM#GN-001RE_能天使GUNDAM改（Gundam_Exia_Repair）.md "wikilink")。
+    能天使GUNDAM修補版](https://zh.wikipedia.org/wiki/GN-001_能天使GUNDAM#GN-001RE_能天使GUNDAM改（Gundam_Exia_Repair） "wikilink")。
 
 <!-- end list -->
 
@@ -84,16 +84,16 @@ Mode」，在GN粒子輸出功率大幅提升時啟動。主武裝是GN火箭砲
 
   -
     被回收後修補改良成為[GN-008RE 熾天使GUNDAM
-    II](../Page/GN-008RE_熾天使GUNDAM_II.md "wikilink")，並作為後繼機[CB-002
-    療天使GUNDAM之追加裝備](../Page/CB-002_療天使GUNDAM.md "wikilink")。
+    II](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")，並作為後繼機[CB-002
+    療天使GUNDAM之追加裝備](https://zh.wikipedia.org/wiki/CB-002_療天使GUNDAM "wikilink")。
     在ELS之戰中由提耶利亞遙距控制並拔出正被ELS侵蝕之[GN-0000RE+GNR-010
-    00強化模組容器型的駕駛艙](../Page/GN-0000RE+GNR-010_00強化模組容器型.md "wikilink")，機體也被ELS侵蝕而與00強化模組容器型一同自爆。
+    00強化模組容器型的駕駛艙](https://zh.wikipedia.org/wiki/GN-0000RE+GNR-010_00強化模組容器型 "wikilink")，機體也被ELS侵蝕而與00強化模組容器型一同自爆。
 
 ## 武裝
 
 ### GN火箭砲II（GN Bazooka II）×2
 
-改良自[德天使GUNDAM的GN火箭砲](../Page/德天使GUNDAM.md "wikilink")，熾天使共搭載兩把。平時與GN加農砲連用進行輪番射擊或是齊射，兩挺火箭砲可合體成為「雙重火箭砲（港譯：GN雙聯大砲）（Double
+改良自[德天使GUNDAM的GN火箭砲](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")，熾天使共搭載兩把。平時與GN加農砲連用進行輪番射擊或是齊射，兩挺火箭砲可合體成為「雙重火箭砲（港譯：GN雙聯大砲）（Double
 Bazooka）」，其中央能進一步展開成為「重火力模式（港譯：爆發模式）（Burst
 Mode）」，重火力模式下肩部GN加農砲連結後為「雙管重火力火箭加農砲（Twin
 Burst Bazooka Cannon）」單管模式下與肩部的GN加農砲連結後為「破壞加農砲（Buster
@@ -103,7 +103,7 @@ Mode）」，可發射威力驚人的大型火球，其威力之大除了能融�
 
 ### GN加農砲（GN Cannon）×4
 
-改良自[德天使GUNDAM的GN加農砲](../Page/德天使GUNDAM.md "wikilink")，2門在肩上，2門在膝蓋上。4門GN加農砲皆有隱藏手臂，內藏GN粒子束軍刀。可與GN火箭砲II連動發揮出多樣化的攻擊手段
+改良自[德天使GUNDAM的GN加農砲](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")，2門在肩上，2門在膝蓋上。4門GN加農砲皆有隱藏手臂，內藏GN粒子束軍刀。可與GN火箭砲II連動發揮出多樣化的攻擊手段
 
 ### GN粒子束軍刀（GN Beam Saber）×6
 
@@ -115,7 +115,7 @@ Mode）」，可發射威力驚人的大型火球，其威力之大除了能融�
 
 沒有裝備盾牌的熾天使GUNDAM防禦敵機攻擊時使用的武裝。
 
-GN力場幾乎能夠防禦從實體彈到粒子束的所有類型攻擊，雖然GN粒子消耗量龐大，但由於背部之巨大GUNDAM臉能迅速輸出GN粒子，因此力場啟動所需時間遠較[德天使GUNDAM為短](../Page/德天使GUNDAM.md "wikilink")。
+GN力場幾乎能夠防禦從實體彈到粒子束的所有類型攻擊，雖然GN粒子消耗量龐大，但由於背部之巨大GUNDAM臉能迅速輸出GN粒子，因此力場啟動所需時間遠較[德天使GUNDAM為短](https://zh.wikipedia.org/wiki/德天使GUNDAM "wikilink")。
 
 ### GN加農砲（GN Cannon）×2
 
@@ -217,8 +217,8 @@ GN力場幾乎能夠防禦從實體彈到粒子束的所有類型攻擊，雖然
 | 特殊裝置                 |
 
 熾天使GUNDAM的GN重型武裝追加方案之一，藉由一台[GN-009
-天使長GUNDAM及兩台無人駕駛型](../Page/GN-009_天使長GUNDAM.md "wikilink")[GN-00902
-SEM](../Page/GN-009_天使長GUNDAM#GN-00902（SEM）.md "wikilink")，能夠在數百公里的範圍內展開審判領域，而熾天使GUNDAM本體以及兩部SEM透過量子通信由天使長GUNDAM進行遠端遙控。
+天使長GUNDAM及兩台無人駕駛型](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM "wikilink")[GN-00902
+SEM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM#GN-00902（SEM） "wikilink")，能夠在數百公里的範圍內展開審判領域，而熾天使GUNDAM本體以及兩部SEM透過量子通信由天使長GUNDAM進行遠端遙控。
 
 但由於兩部SEM的製造較為困難，再加上提耶利亞當時處於無法與吠陀連接的狀態中，因此SEM對於熾天使GUNDAM而言無非只是累贅，甚至可能在奪回吠陀之前就被擊墜，因此最後熾天使GUNDAM採用了GNHW/B方案的追加武裝。
 
@@ -259,7 +259,7 @@ SEM](../Page/GN-009_天使長GUNDAM#GN-00902（SEM）.md "wikilink")，能夠在
   -
     平時以背包的姿態隱藏在熾天使鋼彈背後的秘密機體。
 
-### [GN-008RE 熾天使GUNDAM II](../Page/GN-008RE_熾天使GUNDAM_II.md "wikilink")（Seravee Gundam Ⅱ）
+### [GN-008RE 熾天使GUNDAM II](https://zh.wikipedia.org/wiki/GN-008RE_熾天使GUNDAM_II "wikilink")（Seravee Gundam Ⅱ）
 
 | **熾天使GUNDAM II** |
 | ---------------- |
@@ -300,7 +300,8 @@ SEM](../Page/GN-009_天使長GUNDAM#GN-00902（SEM）.md "wikilink")，能夠在
 
   - [機動戰士GUNDAM 00 登場機體列表](../Page/機動戰士GUNDAM_00_登場機體列表.md "wikilink")
 
-[en:Seravee Gundam](../Page/en:Seravee_Gundam.md "wikilink")
-[ja:セラヴィーガンダム](../Page/ja:セラヴィーガンダム.md "wikilink")
+[en:Seravee
+Gundam](https://zh.wikipedia.org/wiki/en:Seravee_Gundam "wikilink")
+[ja:セラヴィーガンダム](https://zh.wikipedia.org/wiki/ja:セラヴィーガンダム "wikilink")
 
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

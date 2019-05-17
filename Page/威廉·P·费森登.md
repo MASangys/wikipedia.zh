@@ -1,4 +1,4 @@
-**威廉·皮特·费森登**（，），[美国政治家](../Page/美国.md "wikilink")，曾任[美国众议院议员](../Page/美国众议院.md "wikilink")（1841年-1843年）、[美国参议院议员](../Page/美国参议院.md "wikilink")（1854年-1864年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1864年-1865年）。
+**威廉·皮特·费森登**（，），[美国政治家](../Page/美国.md "wikilink")，曾任[美国众议院议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")（1841年-1843年）、[美国参议院议员](../Page/美国参议院.md "wikilink")（1854年-1864年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1864年-1865年）。
 
 [Category:缅因州共和党人](https://zh.wikipedia.org/wiki/Category:缅因州共和党人 "wikilink")
 [Category:美国辉格党联邦众议员](https://zh.wikipedia.org/wiki/Category:美国辉格党联邦众议员 "wikilink")

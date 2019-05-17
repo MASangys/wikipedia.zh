@@ -1,10 +1,11 @@
-**Vizing定理**是[圖論中的](../Page/圖論.md "wikilink")[定理](../Page/定理.md "wikilink")。它描述了[邊著色數與](../Page/邊著色數.md "wikilink")[度的關係](../Page/度.md "wikilink")。
+**Vizing定理**是[圖論中的](https://zh.wikipedia.org/wiki/圖論 "wikilink")[定理](../Page/定理.md "wikilink")。它描述了[邊著色數與](https://zh.wikipedia.org/wiki/邊著色數 "wikilink")[度的關係](https://zh.wikipedia.org/wiki/度 "wikilink")。
 
 ## 定理陳述
 
-[Vizing定理](../Page/Vizing.md "wikilink")：任意(簡單,
-無向)[圖](../Page/圖.md "wikilink") *G* 的邊著色數 (*edge chromatic
-number*, χ′(*G*)) 等於 Δ(*G*) 或 Δ(*G*) + 1，其中 Δ(*G*) 指圖 *G* 中最大的度。
+[Vizing定理](https://zh.wikipedia.org/wiki/Vizing "wikilink")：任意(簡單,
+無向)[圖](https://zh.wikipedia.org/wiki/圖 "wikilink") *G* 的邊著色數
+(*edge chromatic number*, χ′(*G*)) 等於 Δ(*G*) 或 Δ(*G*) + 1，其中 Δ(*G*) 指圖
+*G* 中最大的度。
 
 ## 分類法
 
@@ -14,7 +15,7 @@ number*, χ′(*G*)) 等於 Δ(*G*) 或 Δ(*G*) + 1，其中 Δ(*G*) 指圖 *G* 
 
 不過，對於特定類型的圖也有部分的解答。比如對於簡單[平面圖](../Page/平面图_\(图论\).md "wikilink")，自己證明了，如果Δ(*G*)≥8
 則是第一類的，但對於Δ(*G*)=2,3,4,5 的情況則有第二類圖存在：把正多面體的其中一邊截成兩條，即可得到 Δ(*G*)=3,4,5
-的平面圖，他們是第二類的；而任何長度是奇數的[圈](../Page/圈.md "wikilink")(比如三角形)就是
+的平面圖，他們是第二類的；而任何長度是奇數的[圈](https://zh.wikipedia.org/wiki/圈 "wikilink")(比如三角形)就是
 Δ(*G*)=2 的第二類圖。對於剩下的兩種情況，Vizing提出了猜想：
 
   - 平面圖Vizing猜想：

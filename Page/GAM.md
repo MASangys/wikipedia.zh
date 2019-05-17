@@ -1,12 +1,12 @@
 **GAM**是[早安家族的團體之一](../Page/早安家族.md "wikilink")。團名**“GAM”**既是「Great Aya
 & Miki」（偉大的亞彌與美貴）的縮寫，在美式俚語中，GAM一字亦可解作「美腿女郎」\[1\] \[2\]。
 
-[日本職棒的](../Page/日本職棒.md "wikilink")「[東北樂天金鷹隊](../Page/東北樂天金鷹隊.md "wikilink")」於2007年官方聲援加油歌的最佳代言人。
+[日本職棒的](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")「[東北樂天金鷹隊](https://zh.wikipedia.org/wiki/東北樂天金鷹隊 "wikilink")」於2007年官方聲援加油歌的最佳代言人。
 
 ## 成員
 
   - [藤本美貴](../Page/藤本美貴.md "wikilink")
-  - [松浦亞彌](../Page/松浦亞彌.md "wikilink")\[3\]
+  - [松浦亞彌](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")\[3\]
 
 ## 作品
 

@@ -1,11 +1,13 @@
 **E-UTRA(N)**（Evolved Universal Terrestrial Radio Access
 (Network)，演進的通用陸面無線接入(网络)），屬於[3GPP](../Page/3GPP.md "wikilink")
-[LTE](../Page/LTE.md "wikilink")
-的[空中介面](../Page/空中介面.md "wikilink")\[1\]，目前是 3GPP
-的第八版本。與 [HSPA](../Page/HSPA.md "wikilink") 不同的是，LTE 的 E-UTRA
-係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](../Page/OFDMA.md "wikilink")，[SC-FDMA给上行连接](../Page/SC-FDMA.md "wikilink")。
+[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
+的[空中介面](https://zh.wikipedia.org/wiki/空中介面 "wikilink")\[1\]，目前是
+3GPP 的第八版本。與 [HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")
+不同的是，LTE 的 E-UTRA
+係一全新的系統，絕不相容於W-CDMA。它提供了更高的传输速率，低延迟和最佳化数据包的能力，用[OFDMA无线接入给下行连接](https://zh.wikipedia.org/wiki/OFDMA "wikilink")，[SC-FDMA给上行连接](../Page/SC-FDMA.md "wikilink")。
 [EUTRAN_arch.op.svg](https://zh.wikipedia.org/wiki/File:EUTRAN_arch.op.svg "fig:EUTRAN_arch.op.svg")
-and [SAE](../Page/System_Architecture_Evolution.md "wikilink")
+and
+[SAE](https://zh.wikipedia.org/wiki/System_Architecture_Evolution "wikilink")
 network\]\]
 
 ## 特色
@@ -18,12 +20,14 @@ E-UTRA 具有如下的特色：
   - 彈性化的頻寬在1.25 MHz到20 MHz之間. ：1.4 MHz，3 MHz，5 MHz，15 MHz和20 MHz的標準化。
     相較之下, W-CDMA 一般只使用5 MHz頻譜。
   - [頻譜效率](../Page/頻譜效率.md "wikilink")（[頻譜效率](../Page/頻譜效率.md "wikilink")）
-    增加到 2-4 倍，遠較 3GPP ([HSPA](../Page/HSPA.md "wikilink")) release 6 要好。
+    增加到 2-4 倍，遠較 3GPP
+    ([HSPA](https://zh.wikipedia.org/wiki/HSPA "wikilink")) release 6
+    要好。
   - 低數據傳輸延遲
   - 支持終端移動速度高達350公里/小時或500公里/小時（取決於頻段）。
-  - 同時支持[FDD和](../Page/FDD.md "wikilink")[TDD的複式以及半雙工FDD相同的無線接入技術](../Page/TDD.md "wikilink")。
+  - 同時支持[FDD和](https://zh.wikipedia.org/wiki/FDD "wikilink")[TDD的複式以及半雙工FDD相同的無線接入技術](https://zh.wikipedia.org/wiki/TDD "wikilink")。
   - 支持所有目前使用的頻段的IMT系統由ITU-R的。
-  - 相較於3G网络，同样使用[femtocell和](../Page/家庭基站.md "wikilink")[picocell的小半徑基站](../Page/picocell.md "wikilink")，然[macrocell半徑超過](../Page/macrocell.md "wikilink")100公里，覆盖距离显著提升。
+  - 相較於3G网络，同样使用[femtocell和](../Page/家庭基站.md "wikilink")[picocell的小半徑基站](https://zh.wikipedia.org/wiki/picocell "wikilink")，然[macrocell半徑超過](https://zh.wikipedia.org/wiki/macrocell "wikilink")100公里，覆盖距离显著提升。
   - 簡化的體系結構：EUTRAN網絡僅由eNodeB組成
   - 支持互操作（inter-operation）與其他系統（如GSM/EDGE/UMTS/CDMA2000/WiMAX……）
   - 封包交換（Packet switched）的無線接口。
@@ -48,7 +52,7 @@ EUTRAN 協定堆疊包含有\[4\]：
 接口層協議棧的EUTRAN：
 
   - NAS\[10\]： UE 和 MME 之間的網路協定。
-  - [IP](../Page/IP.md "wikilink")
+  - [IP](https://zh.wikipedia.org/wiki/IP "wikilink")
 
 ## 實體層（L1）的設計
 
@@ -67,9 +71,9 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
   - 實體混合ARQ指示通道（Physical Hybrid ARQ Indicator Channel,
     PHICH）是使ACK／NACK的传输独立于 PDCCH的配置。PHICH占用的RE是在PBCH中指示的。
   - 實體下行共享通道（Physical Downlink Shared Channel, PDSCH）用于承载来自传输信道DSCH的数据.
-    PDSCH 上有支援 [QPSK](../Page/QPSK.md "wikilink"),
-    [16QAM](../Page/16QAM.md "wikilink") 以及
-    [64QAM](../Page/64QAM.md "wikilink").
+    PDSCH 上有支援 [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink"),
+    [16QAM](https://zh.wikipedia.org/wiki/16QAM "wikilink") 以及
+    [64QAM](https://zh.wikipedia.org/wiki/64QAM "wikilink").
   - 實體組播通道（Physical Multicast Channel, PMCH）用於使用單一頻道（Single Frequency
     Network）组播频道。
   - 實體廣播通道（Physical Broadcast Channel, PBCH）用於在Cell內傳播系統基本資訊。
@@ -79,7 +83,8 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
   - 同步器 (PSS and SSS) 是指 UE 發現 LTE cell 和執行初始同步。
   - 參考信號 (cell specific, MBSFN, and UE specific) 用於UE 針對不同的通道進行通道估計。
   - 定位參考信號（Positioning reference signals, PRS）, 在第九個版本中加入, 是指 UE 使用
-    OTDOA  ([multilateration的一種](../Page/multilateration.md "wikilink"))
+    OTDOA
+    ([multilateration的一種](https://zh.wikipedia.org/wiki/multilateration "wikilink"))
 
 ### 上行 (UL)
 
@@ -89,8 +94,9 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
   - 實體上行共享通道（Physical Uplink Shared Channel,
     PUSCH）用于承载来自传输信道USCH的数据。PUSCH
     通道上可以存在TFCI。PDSCH 可支援
-    [QPSK](../Page/QPSK.md "wikilink") 模組，16QAM的並且根據用戶設備類64QAM調製方式。PUSCH
-    是唯一的通道, 因為更大的帶寬, 要使用 [SC-FDMA](../Page/SC-FDMA.md "wikilink")。
+    [QPSK](https://zh.wikipedia.org/wiki/QPSK "wikilink")
+    模組，16QAM的並且根據用戶設備類64QAM調製方式。PUSCH 是唯一的通道,
+    因為更大的帶寬, 要使用 [SC-FDMA](../Page/SC-FDMA.md "wikilink")。
   - 實體上行控制通道（Physical Uplink Control Channel, PUCCH）用於承載控制資訊.
     請注意，僅包含控制信息的上行研究DL承認以及相關的CQI報告，所有的UL編碼和分配參數已知的網絡側，並傳訊給
     UE在PDCCH。
@@ -105,23 +111,23 @@ E-UTRA採用正交頻分复用（OFDM），多輸入-多輸出（MIMO）天線�
 
 在 3GPP 第 10 版协议中定义的 8 种 LTE UE 工作类型定义\[13\] 所取得最大数据速率和MIMO功能的支持.
 
-| 3GPP Release | UE 工作类型（User Equipment Category） | 最大L1层数据速率 [下行](../Page/下行.md "wikilink") | [MIMO实现下行速率的最大天线数](../Page/MIMO.md "wikilink") | 最大L1层数据速率 [上行](../Page/上行.md "wikilink") | 调制方式[下行](../Page/下行.md "wikilink") | 调制方式[上行](../Page/上行.md "wikilink") |
-| ------------ | -------------------------------- | ---------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ---------------------------------- | ---------------------------------- |
-| Release 8    | Category 1                       | 10.3 Mbits/s                             | 1                                              | 5.2 Mbit/s                               | QPSK,16QAM,64QAM                   | QPSK,16QAM                         |
-| Release 8    | Category 2                       | 51.0 Mbits/s                             | 2                                              | 25.5 Mbit/s                              | QPSK,16QAM,64QAM                   | QPSK,16QAM                         |
-| Release 8    | Category 3                       | 102.0 Mbits/s                            | 2                                              | 51.0 Mbit/s                              | QPSK,16QAM,64QAM                   | QPSK,16QAM                         |
-| Release 8    | Category 4                       | 150.8 Mbits/s                            | 2                                              | 51.0 Mbit/s                              | QPSK,16QAM,64QAM                   | QPSK,16QAM                         |
-| Release 8    | Category 5                       | 299.6 Mbits/s                            | 4                                              | 75.4 Mbit/s                              | QPSK,16QAM,64QAM                   | QPSK,16QAM,64QAM                   |
-| Release 10   | Category 6                       | 301.5 Mbits/s                            | 2 or 4                                         | 51.0 Mbit/s                              | ?                                  | ?                                  |
-| Release 10   | Category 7                       | 301.5 Mbits/s                            | 2 or 4                                         | 102.0 Mbit/s                             | ?                                  | ?                                  |
-| Release 10   | Category 8                       | 2998.6 Mbits/s                           | 8                                              | 1497.8 Mbit/s                            | ?                                  | ?                                  |
-| Release 11   | Category 9                       | 452.2 Mbit/s                             | 2 or 4                                         | 51.0 Mbit/s                              | ?                                  | ?                                  |
-| Release 11   | Category 10                      | 452.2 Mbit/s                             | 2 or 4                                         | 102.0 Mbit/s                             | ?                                  | ?                                  |
-| Release 12   | Category 11                      | 603.0 Mbit/s                             | 2 or 4                                         | 51.0 Mbit/s                              | ?                                  | ?                                  |
-| Release 12   | Category 12                      | 603.0 Mbit/s                             | 2 or 4                                         | 102.0 Mbit/s                             | ?                                  | ?                                  |
-| Release 12   | Category 13                      | 391.6 Mbit/s                             | 2 or 4                                         | 51.0 Mbit/s                              | ?                                  | ?                                  |
-| Release 12   | Category 14                      | 391.6 Mbit/s                             | 2 or 4                                         | 102.0 Mbit/s                             | ?                                  | ?                                  |
-| Release 12   | Category 15                      | 3,916.6 Mbit/s                           | 8                                              | 1,497.8 Mbit/s                           | ?                                  | ?                                  |
+| 3GPP Release | UE 工作类型（User Equipment Category） | 最大L1层数据速率 [下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | [MIMO实现下行速率的最大天线数](../Page/MIMO.md "wikilink") | 最大L1层数据速率 [上行](https://zh.wikipedia.org/wiki/上行 "wikilink") | 调制方式[下行](https://zh.wikipedia.org/wiki/下行 "wikilink") | 调制方式[上行](https://zh.wikipedia.org/wiki/上行 "wikilink") |
+| ------------ | -------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| Release 8    | Category 1                       | 10.3 Mbits/s                                                | 1                                              | 5.2 Mbit/s                                                  | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
+| Release 8    | Category 2                       | 51.0 Mbits/s                                                | 2                                              | 25.5 Mbit/s                                                 | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
+| Release 8    | Category 3                       | 102.0 Mbits/s                                               | 2                                              | 51.0 Mbit/s                                                 | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
+| Release 8    | Category 4                       | 150.8 Mbits/s                                               | 2                                              | 51.0 Mbit/s                                                 | QPSK,16QAM,64QAM                                      | QPSK,16QAM                                            |
+| Release 8    | Category 5                       | 299.6 Mbits/s                                               | 4                                              | 75.4 Mbit/s                                                 | QPSK,16QAM,64QAM                                      | QPSK,16QAM,64QAM                                      |
+| Release 10   | Category 6                       | 301.5 Mbits/s                                               | 2 or 4                                         | 51.0 Mbit/s                                                 | ?                                                     | ?                                                     |
+| Release 10   | Category 7                       | 301.5 Mbits/s                                               | 2 or 4                                         | 102.0 Mbit/s                                                | ?                                                     | ?                                                     |
+| Release 10   | Category 8                       | 2998.6 Mbits/s                                              | 8                                              | 1497.8 Mbit/s                                               | ?                                                     | ?                                                     |
+| Release 11   | Category 9                       | 452.2 Mbit/s                                                | 2 or 4                                         | 51.0 Mbit/s                                                 | ?                                                     | ?                                                     |
+| Release 11   | Category 10                      | 452.2 Mbit/s                                                | 2 or 4                                         | 102.0 Mbit/s                                                | ?                                                     | ?                                                     |
+| Release 12   | Category 11                      | 603.0 Mbit/s                                                | 2 or 4                                         | 51.0 Mbit/s                                                 | ?                                                     | ?                                                     |
+| Release 12   | Category 12                      | 603.0 Mbit/s                                                | 2 or 4                                         | 102.0 Mbit/s                                                | ?                                                     | ?                                                     |
+| Release 12   | Category 13                      | 391.6 Mbit/s                                                | 2 or 4                                         | 51.0 Mbit/s                                                 | ?                                                     | ?                                                     |
+| Release 12   | Category 14                      | 391.6 Mbit/s                                                | 2 or 4                                         | 102.0 Mbit/s                                                | ?                                                     | ?                                                     |
+| Release 12   | Category 15                      | 3,916.6 Mbit/s                                              | 8                                              | 1,497.8 Mbit/s                                              | ?                                                     | ?                                                     |
 
 注1：L1的數據傳輸速率傳送數據不包括不同協議層间的开销损耗。
 
@@ -172,8 +178,8 @@ UE接收<br />
 <td><p><span style="display:none">017 </span>2110 - 2170</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p><a href="../Page/IMT.md" title="wikilink">IMT</a></p></td>
-<td><p><a href="../Page/国际移动通信系统.md" title="wikilink">国际移动通信系统</a>2100MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IMT" title="wikilink">IMT</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/国际移动通信系统" title="wikilink">国际移动通信系统</a>2100MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">002 </span><span id="LTE_Band_II">II</span> (2)</p></td>
@@ -181,9 +187,9 @@ UE接收<br />
 <td><p><span style="display:none">012 </span>1930 - 1990</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10, 15, 20</p></td>
-<td><p><a href="../Page/个人通讯服务.md" title="wikilink">PCS</a> A-F<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/个人通讯服务" title="wikilink">PCS</a> A-F<br />
 <em></em></p></td>
-<td><p><a href="../Page/个人通讯服务.md" title="wikilink">个人通讯服务</a>1900MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/个人通讯服务" title="wikilink">个人通讯服务</a>1900MHz频带</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="display:none">003 </span><span id="LTE_Band_III">III</span> (3)</p></td>
@@ -192,7 +198,7 @@ UE接收<br />
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10, 15, 20</p></td>
 <td><p><a href="../Page/蜂窝网络.md" title="wikilink">DCS</a></p></td>
-<td><p><a href="../Page/数字蜂窝系统.md" title="wikilink">数字蜂窝系统</a>1800MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/数字蜂窝系统" title="wikilink">数字蜂窝系统</a>1800MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">004 </span><span id="LTE_Band_IV">IV</span> (4)</p></td>
@@ -200,9 +206,9 @@ UE接收<br />
 <td><p><span style="display:none">013 </span>2110 - 2155</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10, 15, 20</p></td>
-<td><p><a href="../Page/高级无线服务.md" title="wikilink">AWS</a> A-F(AWS-1)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/高级无线服务" title="wikilink">AWS</a> A-F(AWS-1)<br />
 <em></em></p></td>
-<td><p><a href="../Page/高级无线服务.md" title="wikilink">高级无线服务</a>1700MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高级无线服务" title="wikilink">高级无线服务</a>1700MHz频带</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="display:none">005 </span><span id="LTE_Band_V">V</span> (5)</p></td>
@@ -212,7 +218,7 @@ UE接收<br />
 <td><p>1.4, 3, 5, 10</p></td>
 <td><p><a href="../Page/蜂窝网络.md" title="wikilink">Cellular/CLR</a><br />
 <em></em></p></td>
-<td><p><a href="../Page/移动蜂窝网络.md" title="wikilink">移动蜂窝网络</a>850MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/移动蜂窝网络" title="wikilink">移动蜂窝网络</a>850MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">006 </span><em></em></p></td>
@@ -229,8 +235,8 @@ UE接收<br />
 <td><p><span style="display:none">021 </span>2620 - 2690</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p><a href="../Page/IMT-E.md" title="wikilink">IMT-E</a></p></td>
-<td><p><a href="../Page/扩展国际移动通信系统.md" title="wikilink">扩展国际移动通信系统</a>2600MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IMT-E" title="wikilink">IMT-E</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/扩展国际移动通信系统" title="wikilink">扩展国际移动通信系统</a>2600MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">008 </span><span id="LTE_Band_VIII">VIII</span> (8)</p></td>
@@ -238,8 +244,8 @@ UE接收<br />
 <td><p><span style="display:none">008</span>925 - 960</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10</p></td>
-<td><p><a href="../Page/E-GSM.md" title="wikilink">E-GSM</a></p></td>
-<td><p><a href="../Page/扩展全球移动通信系统.md" title="wikilink">扩展全球移动通信系统</a>900MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/E-GSM" title="wikilink">E-GSM</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/扩展全球移动通信系统" title="wikilink">扩展全球移动通信系统</a>900MHz频带</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="display:none">009 </span><span id="LTE_Band_IX">IX</span> (9)</p></td>
@@ -247,7 +253,7 @@ UE接收<br />
 <td><p><span style="display:none">011 </span>1844.9 - 1879.9</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p>Japan <a href="../Page/UMTS.md" title="wikilink">UMTS</a> 1700 / Japan DCS<br />
+<td><p>Japan <a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a> 1700 / Japan DCS<br />
 <em></em></p></td>
 <td><p>日本<a href="../Page/通用移动通讯系统.md" title="wikilink">通用移动通讯系统</a>1800MHz频带</p></td>
 </tr>
@@ -257,9 +263,9 @@ UE接收<br />
 <td><p><span style="display:none">013 </span>2110 - 2170</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p><a href="../Page/E-AWS.md" title="wikilink">Extended AWS</a> A-I<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/E-AWS" title="wikilink">Extended AWS</a> A-I<br />
 <em></em></p></td>
-<td><p><a href="../Page/扩展高级无线服务.md" title="wikilink">扩展高级无线服务</a>1700MHz频带<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/扩展高级无线服务" title="wikilink">扩展高级无线服务</a>1700MHz频带<br />
 <span id="LTE_Band_IV">IV</span> (4) 扩展频段</p></td>
 </tr>
 <tr class="odd">
@@ -269,7 +275,7 @@ UE接收<br />
 <td><p>FDD</p></td>
 <td><p>5, 10</p></td>
 <td><p>Lower <a href="../Page/PDC.md" title="wikilink">PDC</a>/LPDC</p></td>
-<td><p><a href="../Page/个人数字蜂窝网络.md" title="wikilink">个人数字蜂窝网络</a>1500MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/个人数字蜂窝网络" title="wikilink">个人数字蜂窝网络</a>1500MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">012 </span><span id="LTE_Band_XII">XII</span> (12)</p></td>
@@ -277,7 +283,7 @@ UE接收<br />
 <td><p><span style="display:none">001 </span>728 - 746</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10</p></td>
-<td><p>Lower <a href="../Page/SMH.md" title="wikilink">SMH</a>/LSMH blocks A/B/C</p></td>
+<td><p>Lower <a href="https://zh.wikipedia.org/wiki/SMH" title="wikilink">SMH</a>/LSMH blocks A/B/C</p></td>
 <td><p>美国700MHz频带A/B/C块</p></td>
 </tr>
 <tr class="odd">
@@ -354,7 +360,7 @@ UE接收<br />
 <td><p><span style="display:none">005 </span>791 - 821</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p><a href="../Page/EUDD.md" title="wikilink">EU Digital Dividend</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EUDD" title="wikilink">EU Digital Dividend</a></p></td>
 <td><p>欧盟数字红利800MHz频段</p></td>
 </tr>
 <tr class="odd">
@@ -381,8 +387,8 @@ UE接收<br />
 <td><p><span style="display:none">016 </span>2180 - 2200</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10</p></td>
-<td><p><a href="../Page/S-Band.md" title="wikilink">S-Band</a> a/k/a(AWS-4)</p></td>
-<td><p><a href="../Page/S波段.md" title="wikilink">S波段高级无线服务</a>2000MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/S-Band" title="wikilink">S-Band</a> a/k/a(AWS-4)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/S波段" title="wikilink">S波段高级无线服务</a>2000MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">024 </span><span id="LTE_Band_XXIV">XXIV</span> (24)</p></td>
@@ -390,7 +396,7 @@ UE接收<br />
 <td><p><span style="display:none">010 </span>1525 - 1559</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10</p></td>
-<td><p><a href="../Page/L-Band.md" title="wikilink">L-Band</a>(<a href="../Page/US.md" title="wikilink">US</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/L-Band" title="wikilink">L-Band</a>(<a href="https://zh.wikipedia.org/wiki/US" title="wikilink">US</a>)</p></td>
 <td><p><a href="../Page/L波段.md" title="wikilink">L波段</a>1600MHz频带</p></td>
 </tr>
 <tr class="odd">
@@ -421,9 +427,9 @@ UE接收<br />
 <td><p><span style="display:none">005 </span>852 - 869</p></td>
 <td><p>FDD</p></td>
 <td><p>1.4, 3, 5, 10, 15</p></td>
-<td><p><a href="../Page/专业移动无线电.md" title="wikilink">SMR</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/专业移动无线电" title="wikilink">SMR</a><br />
 <em></em></p></td>
-<td><p><a href="../Page/专业移动无线电.md" title="wikilink">专业移动无线电</a>800MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/专业移动无线电" title="wikilink">专业移动无线电</a>800MHz频带</p></td>
 </tr>
 <tr class="even">
 <td><p><span style="display:none">028 </span><span id="LTE_Band_XXVIII">XXVIII</span> (28)</p></td>
@@ -431,7 +437,7 @@ UE接收<br />
 <td><p><span style="display:none">005 </span>758 - 803</p></td>
 <td><p>FDD</p></td>
 <td><p>3, 5, 10, 15, 20</p></td>
-<td><p><a href="../Page/APAC.md" title="wikilink">APAC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/APAC" title="wikilink">APAC</a></p></td>
 <td><p><a href="../Page/亚太地区.md" title="wikilink">亚太地区</a>700MHz频带</p></td>
 </tr>
 <tr class="odd">
@@ -451,8 +457,8 @@ UE接收<br />
 <td><p><span style="display:none">018 </span>2350 - 2360</p></td>
 <td><p>FDD</p></td>
 <td><p>5, 10</p></td>
-<td><p><a href="../Page/WCS.md" title="wikilink">WCS</a> blocks A/B</p></td>
-<td><p><a href="../Page/无线通讯服务.md" title="wikilink">无线通讯服务A</a>/B块2300MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/WCS" title="wikilink">WCS</a> blocks A/B</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/无线通讯服务" title="wikilink">无线通讯服务A</a>/B块2300MHz频带</p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="display:none">031 </span><span id="LTE_Band_XXXI">XXXI</span> (31)</p></td>
@@ -552,8 +558,8 @@ UE接收<br />
 <td><p><span style="display:none">021 </span>2496 - 2690</p></td>
 <td><p>TDD</p></td>
 <td><p>5, 10, 15, 20</p></td>
-<td><p><a href="../Page/BRS.md" title="wikilink">BRS</a>/<a href="../Page/EBS.md" title="wikilink">EBS</a></p></td>
-<td><p><a href="../Page/宽带广播服务.md" title="wikilink">宽带广播服务</a>/<a href="../Page/教育宽带服务.md" title="wikilink">教育宽带服务</a>2500MHz频带</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BRS" title="wikilink">BRS</a>/<a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宽带广播服务" title="wikilink">宽带广播服务</a>/<a href="https://zh.wikipedia.org/wiki/教育宽带服务" title="wikilink">教育宽带服务</a>2500MHz频带</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -691,18 +697,18 @@ UE接收<br />
 <td><p>IMT</p></td>
 <td></td>
 <td></td>
-<td><p>瑞典(<a href="../Page/Hutchison_3G.md" title="wikilink">3</a>)</p></td>
+<td><p>瑞典(<a href="https://zh.wikipedia.org/wiki/Hutchison_3G" title="wikilink">3</a>)</p></td>
 <td><p><br />
-中国大陆（<a href="../Page/中国联通.md" title="wikilink">中国联通</a>、<a href="../Page/中国电信.md" title="wikilink">中国电信</a>）</p></td>
-<td><p>安哥拉(<a href="../Page/Unitel.md" title="wikilink">Unitel</a>), 南非(<a href="../Page/Cell_C.md" title="wikilink">Cell C</a>)</p></td>
+中国大陆（<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>、<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）</p></td>
+<td><p>安哥拉(<a href="https://zh.wikipedia.org/wiki/Unitel" title="wikilink">Unitel</a>), 南非(<a href="https://zh.wikipedia.org/wiki/Cell_C" title="wikilink">Cell C</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><span id="LTE_Band_II">II</span> (2)</p></td>
 <td><p>1900</p></td>
-<td><p><a href="../Page/Personal_Communications_Service.md" title="wikilink">PCS</a> A-F</p></td>
-<td><p>美国(<a href="../Page/C_Spire.md" title="wikilink">C Spire</a>)</p></td>
-<td><p>多明尼加共和国(<a href="../Page/Tricom,_S.A.md" title="wikilink">Tricom</a>), 巴拉圭(<a href="../Page/Telecom_Argentina.md" title="wikilink">Personal</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Personal_Communications_Service" title="wikilink">PCS</a> A-F</p></td>
+<td><p>美国(<a href="https://zh.wikipedia.org/wiki/C_Spire" title="wikilink">C Spire</a>)</p></td>
+<td><p>多明尼加共和国(<a href="https://zh.wikipedia.org/wiki/Tricom,_S.A" title="wikilink">Tricom</a>), 巴拉圭(<a href="https://zh.wikipedia.org/wiki/Telecom_Argentina" title="wikilink">Personal</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -713,19 +719,19 @@ UE接收<br />
 <td><p><strong>1800</strong></p></td>
 <td><p><strong>DCS</strong></p></td>
 <td></td>
-<td><p>多明尼加共和国(<a href="../Page/Orange_(法國電信).md" title="wikilink">Orange S.A.</a>), 委内瑞拉(<a href="../Page/Digitel_GSM.md" title="wikilink">Digitel GSM</a>)</p></td>
+<td><p>多明尼加共和国(<a href="https://zh.wikipedia.org/wiki/Orange_(法國電信)" title="wikilink">Orange S.A.</a>), 委内瑞拉(<a href="https://zh.wikipedia.org/wiki/Digitel_GSM" title="wikilink">Digitel GSM</a>)</p></td>
 <td></td>
-<td><p>中华民国（<a href="../Page/中华电信.md" title="wikilink">中华电信</a>）[16]<br />
-中国大陆（<a href="../Page/中国电信.md" title="wikilink">中国电信</a>、<a href="../Page/中国联通.md" title="wikilink">中国联通</a>）</p></td>
+<td><p>中华民国（<a href="https://zh.wikipedia.org/wiki/中华电信" title="wikilink">中华电信</a>）[16]<br />
+中国大陆（<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>、<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><span id="LTE_Band_IV">IV</span> (4)</p></td>
 <td><p>1700</p></td>
-<td><p><a href="../Page/Advanced_Wireless_Services.md" title="wikilink">AWS</a> A-F</p></td>
-<td><p>美国(<a href="../Page/AT&amp;T.md" title="wikilink">AT&amp;T</a>, <a href="../Page/T-Mobile.md" title="wikilink">T-Mobile</a>, <a href="../Page/BendBroadband.md" title="wikilink">BendBroadband</a>, <a href="../Page/Big_River_Telephone.md" title="wikilink">Big River Telephone</a>, <a href="../Page/C_Spire.md" title="wikilink">C Spire</a>, <a href="../Page/Leap.md" title="wikilink">Leap</a>, <a href="../Page/Verizon.md" title="wikilink">Verizon</a>), 加拿大(<a href="../Page/Bell.md" title="wikilink">Bell</a>, <a href="../Page/Eastlink.md" title="wikilink">Eastlink</a>, <a href="../Page/MTS.md" title="wikilink">MTS</a>, <a href="../Page/Rogers.md" title="wikilink">Rogers</a>, <a href="../Page/Telus.md" title="wikilink">Telus</a>, <a href="../Page/SaskTel.md" title="wikilink">SaskTel</a>)</p></td>
-<td><p>墨西哥(<a href="../Page/Telcel.md" title="wikilink">Telcel</a>), 巴拉圭(<a href="../Page/Copaco.md" title="wikilink">Copaco</a>), 乌拉圭(<a href="../Page/Ancel.md" title="wikilink">Ancel</a>)<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Advanced_Wireless_Services" title="wikilink">AWS</a> A-F</p></td>
+<td><p>美国(<a href="../Page/AT&amp;T.md" title="wikilink">AT&amp;T</a>, <a href="../Page/T-Mobile.md" title="wikilink">T-Mobile</a>, <a href="https://zh.wikipedia.org/wiki/BendBroadband" title="wikilink">BendBroadband</a>, <a href="https://zh.wikipedia.org/wiki/Big_River_Telephone" title="wikilink">Big River Telephone</a>, <a href="https://zh.wikipedia.org/wiki/C_Spire" title="wikilink">C Spire</a>, <a href="https://zh.wikipedia.org/wiki/Leap" title="wikilink">Leap</a>, <a href="https://zh.wikipedia.org/wiki/Verizon" title="wikilink">Verizon</a>), 加拿大(<a href="https://zh.wikipedia.org/wiki/Bell" title="wikilink">Bell</a>, <a href="https://zh.wikipedia.org/wiki/Eastlink" title="wikilink">Eastlink</a>, <a href="https://zh.wikipedia.org/wiki/MTS" title="wikilink">MTS</a>, <a href="https://zh.wikipedia.org/wiki/Rogers" title="wikilink">Rogers</a>, <a href="https://zh.wikipedia.org/wiki/Telus" title="wikilink">Telus</a>, <a href="https://zh.wikipedia.org/wiki/SaskTel" title="wikilink">SaskTel</a>)</p></td>
+<td><p>墨西哥(<a href="https://zh.wikipedia.org/wiki/Telcel" title="wikilink">Telcel</a>), 巴拉圭(<a href="https://zh.wikipedia.org/wiki/Copaco" title="wikilink">Copaco</a>), 乌拉圭(<a href="https://zh.wikipedia.org/wiki/Ancel" title="wikilink">Ancel</a>)<br />
 , </p></td>
 <td></td>
 <td></td>
@@ -739,8 +745,8 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>韩国(<a href="../Page/LG_U+.md" title="wikilink">LG U+</a>, <a href="../Page/SK_Telecom.md" title="wikilink">SK Telecom</a>)<br />
-中国大陆（<a href="../Page/中国电信.md" title="wikilink">中国电信</a>）</p></td>
+<td><p>韩国(<a href="https://zh.wikipedia.org/wiki/LG_U+" title="wikilink">LG U+</a>, <a href="https://zh.wikipedia.org/wiki/SK_Telecom" title="wikilink">SK Telecom</a>)<br />
+中国大陆（<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -759,8 +765,8 @@ UE接收<br />
 <td><p><strong><span id="LTE_Band_VII">VII</span> (7)</strong></p></td>
 <td><p><strong>2600</strong></p></td>
 <td><p><strong>IMT-E</strong></p></td>
-<td><p>加拿大(<a href="../Page/Bell.md" title="wikilink">Bell</a>, <a href="../Page/Rogers.md" title="wikilink">Rogers</a>)</p></td>
-<td><p>巴西(<a href="../Page/Claro.md" title="wikilink">Claro</a>, <a href="../Page/Oi.md" title="wikilink">Oi</a>, <a href="../Page/TIM.md" title="wikilink">TIM</a>, <a href="../Page/Vivo.md" title="wikilink">Vivo</a>), 智利(<a href="../Page/Claro.md" title="wikilink">Claro</a>), 哥伦比亚(<a href="../Page/Une-EPM.md" title="wikilink">Une-EPM</a>), 哥斯达黎加(<a href="../Page/ICE_Celular.md" title="wikilink">ICE Celular</a>)</p></td>
+<td><p>加拿大(<a href="https://zh.wikipedia.org/wiki/Bell" title="wikilink">Bell</a>, <a href="https://zh.wikipedia.org/wiki/Rogers" title="wikilink">Rogers</a>)</p></td>
+<td><p>巴西(<a href="https://zh.wikipedia.org/wiki/Claro" title="wikilink">Claro</a>, <a href="https://zh.wikipedia.org/wiki/Oi" title="wikilink">Oi</a>, <a href="https://zh.wikipedia.org/wiki/TIM" title="wikilink">TIM</a>, <a href="../Page/Vivo.md" title="wikilink">Vivo</a>), 智利(<a href="https://zh.wikipedia.org/wiki/Claro" title="wikilink">Claro</a>), 哥伦比亚(<a href="https://zh.wikipedia.org/wiki/Une-EPM" title="wikilink">Une-EPM</a>), 哥斯达黎加(<a href="https://zh.wikipedia.org/wiki/ICE_Celular" title="wikilink">ICE Celular</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -772,8 +778,8 @@ UE接收<br />
 <td><p>E-GSM</p></td>
 <td></td>
 <td></td>
-<td><p>瑞典(<a href="../Page/Net4Mobility.md" title="wikilink">Net4Mobility</a>)</p></td>
-<td><p>韩国(<a href="../Page/KT.md" title="wikilink">KT</a>)</p></td>
+<td><p>瑞典(<a href="https://zh.wikipedia.org/wiki/Net4Mobility" title="wikilink">Net4Mobility</a>)</p></td>
+<td><p>韩国(<a href="https://zh.wikipedia.org/wiki/KT" title="wikilink">KT</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -784,7 +790,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>日本(<a href="../Page/EMOBILE.md" title="wikilink">EMOBILE</a>)<br />
+<td><p>日本(<a href="https://zh.wikipedia.org/wiki/EMOBILE" title="wikilink">EMOBILE</a>)<br />
 <em>(被 <span id="LTE_Band_III">III</span> (3) 取代)</em></p></td>
 <td></td>
 <td></td>
@@ -807,7 +813,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>日本(<a href="../Page/au_(mobile_phone_company).md" title="wikilink">au</a>)</p></td>
+<td><p>日本(<a href="https://zh.wikipedia.org/wiki/au_(mobile_phone_company)" title="wikilink">au</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -826,10 +832,10 @@ UE接收<br />
 <td><p><span id="LTE_Band_XIII">XIII</span> (13)</p></td>
 <td><p>700</p></td>
 <td><p>USMH C</p></td>
-<td><p>美国(<a href="../Page/Verizon.md" title="wikilink">Verizon</a>)</p></td>
-<td><p>玻利维亚(<a href="../Page/Entel_Bolivia.md" title="wikilink">Entel Bolivia</a>)</p></td>
+<td><p>美国(<a href="https://zh.wikipedia.org/wiki/Verizon" title="wikilink">Verizon</a>)</p></td>
+<td><p>玻利维亚(<a href="https://zh.wikipedia.org/wiki/Entel_Bolivia" title="wikilink">Entel Bolivia</a>)</p></td>
 <td></td>
-<td><p>乌兹别克斯坦(<a href="../Page/TeliaSonera.md" title="wikilink">UCell</a>)</p></td>
+<td><p>乌兹别克斯坦(<a href="https://zh.wikipedia.org/wiki/TeliaSonera" title="wikilink">UCell</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -870,7 +876,7 @@ UE接收<br />
 <td><p><span id="LTE_Band_XVII">XVII</span> (17)</p></td>
 <td><p>700</p></td>
 <td><p>LSMH B/C</p></td>
-<td><p>美国(<a href="../Page/AT&amp;T_Mobility.md" title="wikilink">AT&amp;T</a>)</p></td>
+<td><p>美国(<a href="https://zh.wikipedia.org/wiki/AT&amp;T_Mobility" title="wikilink">AT&amp;T</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -884,7 +890,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>日本(<a href="../Page/au.md" title="wikilink">au</a>)<br />
+<td><p>日本(<a href="https://zh.wikipedia.org/wiki/au" title="wikilink">au</a>)<br />
 <em>(被 <span id="LTE_Band_XXVI">XXVI</span> (26) 取代)</em></p></td>
 <td></td>
 <td></td>
@@ -896,7 +902,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>日本(<a href="../Page/NTT_DoCoMo.md" title="wikilink">NTT DoCoMo</a>)<br />
+<td><p>日本(<a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT DoCoMo</a>)<br />
 <em>(被 <span id="LTE_Band_XXVI">XXVI</span> (26) 取代)</em></p></td>
 <td></td>
 <td></td>
@@ -908,8 +914,8 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>卡塔尔(<a href="../Page/ooredoo.md" title="wikilink">ooredoo</a>)</p></td>
-<td><p>坦桑尼亚(<a href="../Page/Smile.md" title="wikilink">Smile</a>), 乌干达(<a href="../Page/Orange_(法國電信).md" title="wikilink">Orange S.A.</a>, <a href="../Page/Smile.md" title="wikilink">Smile</a>)</p></td>
+<td><p>卡塔尔(<a href="https://zh.wikipedia.org/wiki/ooredoo" title="wikilink">ooredoo</a>)</p></td>
+<td><p>坦桑尼亚(<a href="../Page/Smile.md" title="wikilink">Smile</a>), 乌干达(<a href="https://zh.wikipedia.org/wiki/Orange_(法國電信)" title="wikilink">Orange S.A.</a>, <a href="../Page/Smile.md" title="wikilink">Smile</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -919,7 +925,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>日本(<a href="../Page/NTT_DoCoMo.md" title="wikilink">NTT DoCoMo</a>)</p></td>
+<td><p>日本(<a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT DoCoMo</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -996,7 +1002,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>中华民国（<a href="../Page/远传电信.md" title="wikilink">远传电信</a>）<br />
+<td><p>中华民国（<a href="https://zh.wikipedia.org/wiki/远传电信" title="wikilink">远传电信</a>）<br />
 </p></td>
 <td></td>
 <td></td>
@@ -1107,7 +1113,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>中国大陆(<a href="../Page/中国移动.md" title="wikilink">中国移动</a>)</p></td>
+<td><p>中国大陆(<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1118,7 +1124,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>中国大陆(<a href="../Page/中国移动.md" title="wikilink">中国移动</a>)</p></td>
+<td><p>中国大陆(<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1129,7 +1135,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>中国大陆（<a href="../Page/中国移动.md" title="wikilink">中国移动</a>、<a href="../Page/中国联通.md" title="wikilink">中国联通</a>、<a href="../Page/中国电信.md" title="wikilink">中国电信</a>）</p></td>
+<td><p>中国大陆（<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动</a>、<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>、<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）</p></td>
 <td><p>{</p></td>
 <td></td>
 </tr>
@@ -1140,7 +1146,7 @@ UE接收<br />
 <td></td>
 <td></td>
 <td></td>
-<td><p>中国大陆（<a href="../Page/中国移动.md" title="wikilink">中国移动</a>、<a href="../Page/中国联通.md" title="wikilink">中国联通</a>、<a href="../Page/中国电信.md" title="wikilink">中国电信</a>）</p></td>
+<td><p>中国大陆（<a href="https://zh.wikipedia.org/wiki/中国移动" title="wikilink">中国移动</a>、<a href="https://zh.wikipedia.org/wiki/中国联通" title="wikilink">中国联通</a>、<a href="https://zh.wikipedia.org/wiki/中国电信" title="wikilink">中国电信</a>）</p></td>
 <td></td>
 <td></td>
 </tr>

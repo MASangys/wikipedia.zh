@@ -1,24 +1,24 @@
-**Metafont**是一種用於定義矢量字體的編程語言。這也是Metafont[直譯器的名稱](../Page/直譯器.md "wikilink")，其生成的點陣字體，可嵌入到[PostScript中](../Page/PostScript.md "wikilink")。Metafont由[高德納發明](../Page/高德納.md "wikilink")，與也是他發明的[TeX排版軟體相輔相成](../Page/TeX.md "wikilink")。
+**Metafont**是一種用於定義矢量字體的編程語言。這也是Metafont[直譯器的名稱](../Page/直譯器.md "wikilink")，其生成的點陣字體，可嵌入到[PostScript中](../Page/PostScript.md "wikilink")。Metafont由[高德納發明](https://zh.wikipedia.org/wiki/高德納 "wikilink")，與也是他發明的[TeX排版軟體相輔相成](../Page/TeX.md "wikilink")。
 Metafont的特點之一是所有的字体都是用几何方程定义的，例如，可以用線段及[貝茲曲線的相交處來定義點](../Page/貝茲曲線.md "wikilink")。
 
 ## 歷史
 
 美國計算機科學家[高德纳](../Page/高德纳.md "wikilink")（Donald
 Knuth）於1977年著手字體製作軟件，並於1979年發佈的第一個版本`METAFONT`。由於原來語言的缺陷，高德纳於1984年開發一個全新的`METAFONT`系統。`METAFONT`有一個與的相似點
-，就是每一個更新版本都愈接近一個[數學常數](../Page/數學常數.md "wikilink")（每一個更新版本增加一個小數位，`METAFONT`趋近于[e](../Page/e_\(數學常數\).md "wikilink")，趋近于[π](../Page/圓周率.md "wikilink")）。
+，就是每一個更新版本都愈接近一個[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")（每一個更新版本增加一個小數位，`METAFONT`趋近于[e](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")，趋近于[π](https://zh.wikipedia.org/wiki/圓周率 "wikilink")）。
 
 ## 特点
 
 与很多常见的轮廓字体格式如[TrueType和](../Page/TrueType.md "wikilink")[PostScript Type
-1不同](../Page/PostScript#字体处理.md "wikilink")，`METAFONT`字体主要由一定宽度的“笔划”和一些封闭填色区域构成。因此，`METAFONT`字体文件并不描述字形的轮廓，而是描述“笔划”的路径。
+1不同](https://zh.wikipedia.org/wiki/PostScript#字体处理 "wikilink")，`METAFONT`字体主要由一定宽度的“笔划”和一些封闭填色区域构成。因此，`METAFONT`字体文件并不描述字形的轮廓，而是描述“笔划”的路径。
 
-`METAFONT`的曲线描述采用三次[样条函数](../Page/样条函数.md "wikilink")，而不是[二次的](../Page/二次曲线.md "wikilink")。
+`METAFONT`的曲线描述采用三次[样条函数](../Page/样条函数.md "wikilink")，而不是[二次的](https://zh.wikipedia.org/wiki/二次曲线 "wikilink")。
 
 ## 使用
 
 虽然一些著名的字体设计师如[Hermann
 Zapf已经与高德纳合作用](../Page/赫尔曼·察普夫.md "wikilink")`METAFONT`设计新字体（二者曾合作设计了[AMS
-Euler数学字体](../Page/AMS_Euler.md "wikilink")），但这个系统并未在业界被广泛使用。高德纳认为这是由于“让一个艺术家变成一个能够理解如何通过60多个参数设计字体的数学家实在太困难”\[1\]。
+Euler数学字体](https://zh.wikipedia.org/wiki/AMS_Euler "wikilink")），但这个系统并未在业界被广泛使用。高德纳认为这是由于“让一个艺术家变成一个能够理解如何通过60多个参数设计字体的数学家实在太困难”\[1\]。
 
 ## 例子
 

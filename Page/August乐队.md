@@ -1,8 +1,8 @@
-**August樂團''＇（[泰文](../Page/泰文.md "wikilink")：**ออกัส**；[英文](../Page/英文.md "wikilink")：**'''）是[泰国的一支](../Page/泰国.md "wikilink")[乐队](../Page/乐队.md "wikilink")，由平均年龄不到20岁的泰国学生组成。凭借电影《[爱在暹逻](../Page/爱在暹逻.md "wikilink")》而迅速在亚洲走红。
+**August樂團''＇（[泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")：**ออกัส**；[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**'''）是[泰国的一支](../Page/泰国.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由平均年龄不到20岁的泰国学生组成。凭借电影《[爱在暹逻](../Page/爱在暹逻.md "wikilink")》而迅速在亚洲走红。
 
 ## 名称由来
 
-August乐队源于电影《[愛在暹邏](../Page/愛在暹邏.md "wikilink")》。男主角Mew与几位同学组成了一个乐团，该剧导演兼编剧为其取名为August。据说编剧曾为乐团名称而绞尽脑汁，一次写剧本时，抬头看日历正好是八月（August），于是乐团得名August。
+August乐队源于电影《[愛在暹邏](https://zh.wikipedia.org/wiki/愛在暹邏 "wikilink")》。男主角Mew与几位同学组成了一个乐团，该剧导演兼编剧为其取名为August。据说编剧曾为乐团名称而绞尽脑汁，一次写剧本时，抬头看日历正好是八月（August），于是乐团得名August。
 
 ## 乐队成员
 
@@ -120,15 +120,15 @@ TAW（鼓手），1988年12月17日，就读于泰国玛希隆大学爵士音乐
 
 August在電影《愛在暹邏》（The Love of
 Siam）的影響下，在台灣的知名度大增。因此2009年8月15日在台灣，August舉行了第一場[August
-oh\!gust\!台灣演唱會](../Page/August_oh!gust!台灣演唱會.md "wikilink")。
+oh\!gust\!台灣演唱會](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
 
 在2010年7月August
 Band參加了第十一屆[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")2010.07.09\~11的演出，其演出時間為2010年7月11日16:00\~16:40演出。這也是貢寮國際海洋音樂祭第一次有泰國樂團參加演出。
 
-於2011年，Augest受[耶邏表演工作坊邀請再度來台開演唱會](../Page/耶邏表演工作坊.md "wikilink")，演出日期為同年3月26日定名為[Love
+於2011年，Augest受[耶邏表演工作坊邀請再度來台開演唱會](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")，演出日期為同年3月26日定名為[Love
 ALl \*
-gust演唱會](../Page/Love_ALl_*_gust演唱會.md "wikilink")，這也是他們來台灣開的第二場演唱會，當中他們同樣也表演了中文歌曲，而這兩場演唱會地點同樣都是在台北市內湖區的[自由廣場](../Page/自由廣場.md "wikilink")，其主辦單位[耶邏表演工作坊也就是之前舉辦](../Page/耶邏表演工作坊.md "wikilink")[August
-oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](../Page/August_oh!gust!台灣演唱會.md "wikilink")。
+gust演唱會](https://zh.wikipedia.org/wiki/Love_ALl_*_gust演唱會 "wikilink")，這也是他們來台灣開的第二場演唱會，當中他們同樣也表演了中文歌曲，而這兩場演唱會地點同樣都是在台北市內湖區的[自由廣場](https://zh.wikipedia.org/wiki/自由廣場 "wikilink")，其主辦單位[耶邏表演工作坊也就是之前舉辦](https://zh.wikipedia.org/wiki/耶邏表演工作坊 "wikilink")[August
+oh\!gust\!台灣演唱會集資粉絲代表所成立的工作室](https://zh.wikipedia.org/wiki/August_oh!gust!台灣演唱會 "wikilink")。
 
 ## August在中国
 

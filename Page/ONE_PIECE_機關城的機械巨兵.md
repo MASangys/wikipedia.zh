@@ -1,5 +1,5 @@
 《**ONE PIECE 機關城的機械巨兵**》是於2006年上映的第七部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -40,7 +40,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -64,11 +64,11 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
     機關島的島主，製作了許多防衛系統和機器人，被部下們稱為「天才科學家」。戴著附有小雨刷功能的金邊眼鏡（身上有好幾副），只要一興奮眼鏡就會起霧。幼年時期即以「征服世界」為目標，是個野心家，卻有重度的戀母情結，稱自己母親為「母親大人」。
     劇中最後敗給魯夫。
   -
-    聲優：[加藤浩次](../Page/加藤浩次.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[加藤浩次](https://zh.wikipedia.org/wiki/加藤浩次 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     拉傑特的部下，口頭禪是「寶貝」，穿著一身美國佬的裝束，外表凶惡，卻是個純情行動派，對拉傑特的命令絕對服從。
     劇中最後敗給索隆。
   -
-    聲優：[山本圭一](../Page/山本圭一.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：[山本圭一](https://zh.wikipedia.org/wiki/山本圭一 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     拉傑特的部下，性格粗魯卻意外注重禮貌的壯漢，口頭禪是「～是的」，戰鬥時上半身和手臂會巨大化。
     劇中最後敗給香吉士。
   -
@@ -92,8 +92,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 ## 音樂
 
   - 「」（豌豆莢）
-    作詞：[zopp](../Page/zopp.md "wikilink")；作曲・編曲：Shusui, Fredrik Hult,
-    Jonas Engstrand, Ola Larsson；歌：[NEWS](../Page/NEWS.md "wikilink")
+    作詞：[zopp](https://zh.wikipedia.org/wiki/zopp "wikilink")；作曲・編曲：Shusui,
+    Fredrik Hult, Jonas Engstrand, Ola
+    Larsson；歌：[NEWS](../Page/NEWS.md "wikilink")
 
 ## 參考資料
 
@@ -102,7 +103,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
   - [電影官方網站](http://www.toei-anim.co.jp/movie/2006_onepiece/)
 
 [ru:Список анимационных фильмов о One Piece\#Фильм
-седьмой](../Page/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_седьмой.md "wikilink")
+седьмой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_седьмой "wikilink")
 
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")
 [Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink")

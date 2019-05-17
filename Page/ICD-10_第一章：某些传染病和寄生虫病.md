@@ -2,43 +2,48 @@
 
 ## 受控词表
 
-### [肠道传染病](../Page/肠道传染病.md "wikilink")
+### [肠道传染病](https://zh.wikipedia.org/wiki/肠道传染病 "wikilink")
 
-[肠道传染病](../Page/肠道传染病.md "wikilink")（A00-A09）
+[肠道传染病](https://zh.wikipedia.org/wiki/肠道传染病 "wikilink")（A00-A09）
 
-  - () [霍乱](../Page/霍乱.md "wikilink")
+  - () [霍乱](https://zh.wikipedia.org/wiki/霍乱 "wikilink")
       - () 典型性霍亂
           - () 古典型霍乱
           - () 中型霍乱
           - () 重型霍乱
       - () 異性霍亂弧菌致霍亂
           - () 轻型非典型霍乱
-          - () [埃尔托霍乱](../Page/埃尔托霍乱.md "wikilink")
-          - () [埃尔托小肠炎](../Page/埃尔托小肠炎.md "wikilink")
+          - () [埃尔托霍乱](https://zh.wikipedia.org/wiki/埃尔托霍乱 "wikilink")
+          - () [埃尔托小肠炎](https://zh.wikipedia.org/wiki/埃尔托小肠炎 "wikilink")
       - () 未明示之霍亂
 
 <!-- end list -->
 
-  - () [伤寒和](../Page/伤寒.md "wikilink")[副伤寒](../Page/副伤寒.md "wikilink")
-      - () [傷寒菌致傷寒](../Page/傷寒菌致傷寒.md "wikilink")
+  - ()
+    [伤寒和](../Page/伤寒.md "wikilink")[副伤寒](https://zh.wikipedia.org/wiki/副伤寒 "wikilink")
+      - () [傷寒菌致傷寒](https://zh.wikipedia.org/wiki/傷寒菌致傷寒 "wikilink")
           - () [伤寒](../Page/伤寒.md "wikilink")
-          - () [伤寒杆菌性败血症](../Page/伤寒杆菌性败血症.md "wikilink")
-          - () [伤寒性脑膜炎](../Page/伤寒性脑膜炎.md "wikilink")
-          - () [伤寒肺炎](../Page/伤寒肺炎.md "wikilink")
-          - () [伤寒腹膜炎](../Page/伤寒腹膜炎.md "wikilink")
-          - () [埃贝特氏病](../Page/埃贝特氏病.md "wikilink")
-          - () [肠出血性伤寒](../Page/肠出血性伤寒.md "wikilink")
-          - () [伤寒性肠穿孔](../Page/伤寒性肠穿孔.md "wikilink")
-          - () [肠伤寒](../Page/肠伤寒.md "wikilink")
-          - () [伤寒样小肠炎](../Page/伤寒样小肠炎.md "wikilink")
-      - () [A型副傷寒](../Page/A型副傷寒.md "wikilink")（甲型副伤寒）
-      - () [B型副傷寒](../Page/B型副傷寒.md "wikilink")（乙型副伤寒）
-      - () [C型副傷寒](../Page/C型副傷寒.md "wikilink")（丙型副伤寒）
-      - () [未明示之伤寒](../Page/未明示之伤寒.md "wikilink")
+          - ()
+            [伤寒杆菌性败血症](https://zh.wikipedia.org/wiki/伤寒杆菌性败血症 "wikilink")
+          - () [伤寒性脑膜炎](https://zh.wikipedia.org/wiki/伤寒性脑膜炎 "wikilink")
+          - () [伤寒肺炎](https://zh.wikipedia.org/wiki/伤寒肺炎 "wikilink")
+          - () [伤寒腹膜炎](https://zh.wikipedia.org/wiki/伤寒腹膜炎 "wikilink")
+          - () [埃贝特氏病](https://zh.wikipedia.org/wiki/埃贝特氏病 "wikilink")
+          - () [肠出血性伤寒](https://zh.wikipedia.org/wiki/肠出血性伤寒 "wikilink")
+          - () [伤寒性肠穿孔](https://zh.wikipedia.org/wiki/伤寒性肠穿孔 "wikilink")
+          - () [肠伤寒](https://zh.wikipedia.org/wiki/肠伤寒 "wikilink")
+          - () [伤寒样小肠炎](https://zh.wikipedia.org/wiki/伤寒样小肠炎 "wikilink")
+      - ()
+        [A型副傷寒](https://zh.wikipedia.org/wiki/A型副傷寒 "wikilink")（甲型副伤寒）
+      - ()
+        [B型副傷寒](https://zh.wikipedia.org/wiki/B型副傷寒 "wikilink")（乙型副伤寒）
+      - ()
+        [C型副傷寒](https://zh.wikipedia.org/wiki/C型副傷寒 "wikilink")（丙型副伤寒）
+      - () [未明示之伤寒](https://zh.wikipedia.org/wiki/未明示之伤寒 "wikilink")
 
 <!-- end list -->
 
-  - () 其他[沙門氏菌感染](../Page/沙門氏菌.md "wikilink")
+  - () 其他[沙門氏菌感染](https://zh.wikipedia.org/wiki/沙門氏菌 "wikilink")
       - () 沙門氏菌膠炎
       - () 沙門氏菌敗血症
       - () 局部性沙門氏菌感染
@@ -47,13 +52,13 @@
 
 <!-- end list -->
 
-  - () [志賀菌病](../Page/志賀菌病.md "wikilink")
-      - () [痢疾性志贺菌病](../Page/痢疾性志贺菌病.md "wikilink")
-      - () [佛雷志贺菌病](../Page/佛雷志贺菌病.md "wikilink")
-      - () [波地志贺菌病](../Page/波地志贺菌病.md "wikilink")
-      - () [索奈志贺菌病](../Page/索奈志贺菌病.md "wikilink")
-      - () 其他[志贺菌病](../Page/志贺菌病.md "wikilink")
-      - () 非典型的[志贺菌病](../Page/志贺菌病.md "wikilink")
+  - () [志賀菌病](https://zh.wikipedia.org/wiki/志賀菌病 "wikilink")
+      - () [痢疾性志贺菌病](https://zh.wikipedia.org/wiki/痢疾性志贺菌病 "wikilink")
+      - () [佛雷志贺菌病](https://zh.wikipedia.org/wiki/佛雷志贺菌病 "wikilink")
+      - () [波地志贺菌病](https://zh.wikipedia.org/wiki/波地志贺菌病 "wikilink")
+      - () [索奈志贺菌病](https://zh.wikipedia.org/wiki/索奈志贺菌病 "wikilink")
+      - () 其他[志贺菌病](https://zh.wikipedia.org/wiki/志贺菌病 "wikilink")
+      - () 非典型的[志贺菌病](https://zh.wikipedia.org/wiki/志贺菌病 "wikilink")
 
 <!-- end list -->
 
@@ -82,7 +87,7 @@
 
 <!-- end list -->
 
-  - () [阿米巴病](../Page/阿米巴病.md "wikilink")
+  - () [阿米巴病](https://zh.wikipedia.org/wiki/阿米巴病 "wikilink")
       - () 急性阿米巴痢疾
       - () 慢性腸道阿米巴病
       - () 阿米巴性非痢疾大腸炎
@@ -122,14 +127,17 @@
 
 [结核病](../Page/结核病.md "wikilink")（A15-A19）
 
-  - () 细菌学和组织学証實之[呼吸系统结核病](../Page/呼吸系统结核病.md "wikilink")
-      - () 痰液鏡檢証實之[肺結核病](../Page/肺結核病.md "wikilink")
-      - () 單由培養証實之[肺結核病](../Page/肺結核病.md "wikilink")
+  - ()
+    细菌学和组织学証實之[呼吸系统结核病](https://zh.wikipedia.org/wiki/呼吸系统结核病 "wikilink")
+      - () 痰液鏡檢証實之[肺結核病](https://zh.wikipedia.org/wiki/肺結核病 "wikilink")
+      - () 單由培養証實之[肺結核病](https://zh.wikipedia.org/wiki/肺結核病 "wikilink")
       - () 組織學証實之肺結核病
       - () 未明示証實法之肺結核病
-      - () 細菌學和組織學証實之[胸腔內淋巴結核病](../Page/胸腔內淋巴結核病.md "wikilink")
+      - ()
+        細菌學和組織學証實之[胸腔內淋巴結核病](https://zh.wikipedia.org/wiki/胸腔內淋巴結核病 "wikilink")
       - () 細菌學和組織學証實之喉、氣管與支氣管結核病
-      - () 細菌學和組織學証實之結核性[肋膜炎](../Page/肋膜炎.md "wikilink")
+      - ()
+        細菌學和組織學証實之結核性[肋膜炎](https://zh.wikipedia.org/wiki/肋膜炎 "wikilink")
       - () 細菌學和組織學証實之原發性呼吸系统结核病
       - () 細菌學和組織學証實之其他呼吸系统结核病
       - () 細菌學和組織學証實之未明示部位呼吸系统结核病
@@ -158,7 +166,7 @@
       - () 耳結核病
       - () 腎上腺結核病
       - () 其他器官結核病
-  - () [粟粒性结核病](../Page/粟粒性结核病.md "wikilink")
+  - () [粟粒性结核病](https://zh.wikipedia.org/wiki/粟粒性结核病 "wikilink")
       - () 單一位置急性粟粒性结核病
       - () 多發位置急性粟粒性结核病
       - () 未明示之急性粟粒性结核病
@@ -170,14 +178,15 @@
 由特定动物传染的细菌性疾病（A20-A28）
 
   - () [鼠疫](../Page/鼠疫.md "wikilink")
-      - () [腺型鼠疫](../Page/腺型鼠疫.md "wikilink")
-      - () [蜂窩組織皮膚性鼠疫](../Page/蜂窩組織皮膚性鼠疫.md "wikilink")
-      - () [肺炎型鼠疫](../Page/肺炎型鼠疫.md "wikilink")
-      - () [鼠疫腦膜炎](../Page/鼠疫腦膜炎.md "wikilink")
-      - () [敗血性鼠疫](../Page/敗血性鼠疫.md "wikilink")
+      - () [腺型鼠疫](https://zh.wikipedia.org/wiki/腺型鼠疫 "wikilink")
+      - ()
+        [蜂窩組織皮膚性鼠疫](https://zh.wikipedia.org/wiki/蜂窩組織皮膚性鼠疫 "wikilink")
+      - () [肺炎型鼠疫](https://zh.wikipedia.org/wiki/肺炎型鼠疫 "wikilink")
+      - () [鼠疫腦膜炎](https://zh.wikipedia.org/wiki/鼠疫腦膜炎 "wikilink")
+      - () [敗血性鼠疫](https://zh.wikipedia.org/wiki/敗血性鼠疫 "wikilink")
       - () 其他型鼠疫
       - () 未明示之鼠疫
-  - () [土拉菌病](../Page/土拉菌病.md "wikilink")
+  - () [土拉菌病](https://zh.wikipedia.org/wiki/土拉菌病 "wikilink")
       - () 潰瘍性土拉倫斯菌血症
       - () 眼腹體土拉倫斯菌血症
       - () 肺土拉倫斯菌血症
@@ -192,11 +201,12 @@
       - () 炭疽敗血症
       - () 其他型炭疽病
       - () 未明示之炭疽病
-  - () [布鲁氏菌病](../Page/布鲁氏菌病.md "wikilink")
-  - () [鼻疽和](../Page/鼻疽.md "wikilink")[类鼻疽](../Page/类鼻疽.md "wikilink")
-  - () [鼠咬热](../Page/鼠咬热.md "wikilink")
-  - () [类丹毒](../Page/类丹毒.md "wikilink")
-  - () [钩端螺旋体病](../Page/钩端螺旋体病.md "wikilink")
+  - () [布鲁氏菌病](https://zh.wikipedia.org/wiki/布鲁氏菌病 "wikilink")
+  - ()
+    [鼻疽和](https://zh.wikipedia.org/wiki/鼻疽 "wikilink")[类鼻疽](https://zh.wikipedia.org/wiki/类鼻疽 "wikilink")
+  - () [鼠咬热](https://zh.wikipedia.org/wiki/鼠咬热 "wikilink")
+  - () [类丹毒](https://zh.wikipedia.org/wiki/类丹毒 "wikilink")
+  - () [钩端螺旋体病](https://zh.wikipedia.org/wiki/钩端螺旋体病 "wikilink")
   - () 其他动物传染的细菌性疾病
 
 ### 其他细菌性疾病
@@ -204,20 +214,20 @@
 其他细菌性疾病（A30-A49）
 
   - () [麻风病](../Page/麻风病.md "wikilink")
-  - () 其他[分枝杆菌所致之感染](../Page/分枝杆菌.md "wikilink")
-  - () [利斯特菌病](../Page/利斯特菌病.md "wikilink")
-  - () [新生儿破伤风](../Page/新生儿破伤风.md "wikilink")
-  - () [产妇破伤风](../Page/产妇破伤风.md "wikilink")
-  - () 其他[破伤风](../Page/破伤风.md "wikilink")
+  - () 其他[分枝杆菌所致之感染](https://zh.wikipedia.org/wiki/分枝杆菌 "wikilink")
+  - () [利斯特菌病](https://zh.wikipedia.org/wiki/利斯特菌病 "wikilink")
+  - () [新生儿破伤风](https://zh.wikipedia.org/wiki/新生儿破伤风 "wikilink")
+  - () [产妇破伤风](https://zh.wikipedia.org/wiki/产妇破伤风 "wikilink")
+  - () 其他[破伤风](https://zh.wikipedia.org/wiki/破伤风 "wikilink")
   - () [白喉](../Page/白喉.md "wikilink")
   - () [百日咳](../Page/百日咳.md "wikilink")
   - () [猩红热](../Page/猩红热.md "wikilink")
-  - () [脑膜炎球菌感染](../Page/脑膜炎球菌.md "wikilink")
-  - () [链球菌败血症](../Page/链球菌败血症.md "wikilink")
-  - () 其他[败血症](../Page/败血症.md "wikilink")
-  - () [放线菌病](../Page/放线菌病.md "wikilink")
-  - () [诺卡菌病](../Page/诺卡菌病.md "wikilink")
-  - () [巴尔通体病](../Page/巴尔通体病.md "wikilink")
+  - () [脑膜炎球菌感染](https://zh.wikipedia.org/wiki/脑膜炎球菌 "wikilink")
+  - () [链球菌败血症](https://zh.wikipedia.org/wiki/链球菌败血症 "wikilink")
+  - () 其他[败血症](https://zh.wikipedia.org/wiki/败血症 "wikilink")
+  - () [放线菌病](https://zh.wikipedia.org/wiki/放线菌病 "wikilink")
+  - () [诺卡菌病](https://zh.wikipedia.org/wiki/诺卡菌病 "wikilink")
+  - () [巴尔通体病](https://zh.wikipedia.org/wiki/巴尔通体病 "wikilink")
   - () [丹毒](../Page/丹毒.md "wikilink")
   - () 未归于它处的细菌疾病
   - () 非特定部位的细菌性感染
@@ -231,103 +241,104 @@
   - () 晚期梅毒
   - () 其他和未明示的[梅毒](../Page/梅毒.md "wikilink")
   - () [淋球菌感染](../Page/淋球菌.md "wikilink")
-  - () [衣原体淋巴肉芽肿](../Page/衣原体淋巴肉芽肿.md "wikilink")
-  - () 其他性行為传播之[衣原体疾病](../Page/衣原体.md "wikilink")
-  - () [软下疳](../Page/软下疳.md "wikilink")
-  - () [腹股沟肉芽肿](../Page/腹股沟肉芽肿.md "wikilink")
-  - () [滴虫病](../Page/滴虫病.md "wikilink")
-  - () [生殖器泡疹感染](../Page/生殖器泡疹.md "wikilink")
+  - () [衣原体淋巴肉芽肿](https://zh.wikipedia.org/wiki/衣原体淋巴肉芽肿 "wikilink")
+  - () 其他性行為传播之[衣原体疾病](https://zh.wikipedia.org/wiki/衣原体 "wikilink")
+  - () [软下疳](https://zh.wikipedia.org/wiki/软下疳 "wikilink")
+  - () [腹股沟肉芽肿](https://zh.wikipedia.org/wiki/腹股沟肉芽肿 "wikilink")
+  - () [滴虫病](https://zh.wikipedia.org/wiki/滴虫病 "wikilink")
+  - () [生殖器泡疹感染](https://zh.wikipedia.org/wiki/生殖器泡疹 "wikilink")
   - () 其他主要通过性传播之传染病
-  - () 未明示之[性传播疾病](../Page/性传播疾病.md "wikilink")
+  - () 未明示之[性传播疾病](https://zh.wikipedia.org/wiki/性传播疾病 "wikilink")
 
-### 其他[螺旋体疾病](../Page/螺旋体.md "wikilink")
+### 其他[螺旋体疾病](https://zh.wikipedia.org/wiki/螺旋体 "wikilink")
 
-其他[螺旋体疾病](../Page/螺旋体.md "wikilink")（A65-A69）
+其他[螺旋体疾病](https://zh.wikipedia.org/wiki/螺旋体 "wikilink")（A65-A69）
 
-  - () 非[花柳性梅毒](../Page/花柳性梅毒.md "wikilink")
-  - () [雅司病](../Page/雅司病.md "wikilink")
-  - () [品他病](../Page/品他病.md "wikilink")
-  - () [復發热](../Page/復發热.md "wikilink")
+  - () 非[花柳性梅毒](https://zh.wikipedia.org/wiki/花柳性梅毒 "wikilink")
+  - () [雅司病](https://zh.wikipedia.org/wiki/雅司病 "wikilink")
+  - () [品他病](https://zh.wikipedia.org/wiki/品他病 "wikilink")
+  - () [復發热](https://zh.wikipedia.org/wiki/復發热 "wikilink")
   - () 其他螺旋体感染
 
 ### 其他衣原体疾病
 
-其他[衣原体疾病](../Page/衣原体.md "wikilink")（A70-A74）
+其他[衣原体疾病](https://zh.wikipedia.org/wiki/衣原体 "wikilink")（A70-A74）
 
-  - () [鹦鹉衣原体感染](../Page/鹦鹉衣原体.md "wikilink")
-  - () [砂眼](../Page/砂眼.md "wikilink")
+  - () [鹦鹉衣原体感染](https://zh.wikipedia.org/wiki/鹦鹉衣原体 "wikilink")
+  - () [砂眼](https://zh.wikipedia.org/wiki/砂眼 "wikilink")
   - () 其他衣原体疾病
 
-### [立克次体病](../Page/立克次体病.md "wikilink")
+### [立克次体病](https://zh.wikipedia.org/wiki/立克次体病 "wikilink")
 
-[立克次体病](../Page/立克次体病.md "wikilink")（A75-A79）
+[立克次体病](https://zh.wikipedia.org/wiki/立克次体病 "wikilink")（A75-A79）
 
-  - () [斑疹伤寒](../Page/斑疹伤寒.md "wikilink")
-  - () [斑点热](../Page/斑点热.md "wikilink")
-  - () [Q热](../Page/Q热.md "wikilink")
+  - () [斑疹伤寒](https://zh.wikipedia.org/wiki/斑疹伤寒 "wikilink")
+  - () [斑点热](https://zh.wikipedia.org/wiki/斑点热 "wikilink")
+  - () [Q热](https://zh.wikipedia.org/wiki/Q热 "wikilink")
   - () 其他立克次体病
 
 ### 中枢神经系统的病毒感染
 
-[中枢神经系统的病毒感染](../Page/中枢神经系统.md "wikilink")（A80-A89）
+[中枢神经系统的病毒感染](https://zh.wikipedia.org/wiki/中枢神经系统 "wikilink")（A80-A89）
 
-  - () 急性[脊髓灰质炎](../Page/脊髓灰质炎.md "wikilink")
+  - () 急性[脊髓灰质炎](https://zh.wikipedia.org/wiki/脊髓灰质炎 "wikilink")
   - () 中枢神经系统之非典型病毒感染
       - () [克雅二氏病](../Page/克雅二氏病.md "wikilink")
       - () [进行性多灶性白质脑病](../Page/进行性多灶性白质脑病.md "wikilink")
-      - () 其他[中枢神经系统之非典型病毒感染](../Page/中枢神经系统.md "wikilink")
+      - ()
+        其他[中枢神经系统之非典型病毒感染](https://zh.wikipedia.org/wiki/中枢神经系统 "wikilink")
           - [库鲁病](../Page/库鲁病.md "wikilink")
   - () [狂犬病](../Page/狂犬病.md "wikilink")
-  - () 蚊媒的[病毒性脑炎](../Page/病毒性脑炎.md "wikilink")
+  - () 蚊媒的[病毒性脑炎](https://zh.wikipedia.org/wiki/病毒性脑炎 "wikilink")
   - () 蜱媒的病毒性脑炎
   - () 其他病毒性脑炎
   - () 未明示之病毒性脑炎
-  - () [病毒性脑膜炎](../Page/病毒性脑膜炎.md "wikilink")
+  - () [病毒性脑膜炎](https://zh.wikipedia.org/wiki/病毒性脑膜炎 "wikilink")
   - () 其他中枢神经系统病毒性感染
   - () 未明示之神经系统病毒感染
 
-### 節肢動物媒病毒热和[病毒性出血热](../Page/病毒性出血热.md "wikilink")
+### 節肢動物媒病毒热和[病毒性出血热](https://zh.wikipedia.org/wiki/病毒性出血热 "wikilink")
 
-節肢動物媒病毒热和[病毒性出血热](../Page/病毒性出血热.md "wikilink")（A90-A99）
+節肢動物媒病毒热和[病毒性出血热](https://zh.wikipedia.org/wiki/病毒性出血热 "wikilink")（A90-A99）
 
-  - () [登革热](../Page/登革热.md "wikilink")
-  - () [登革出血热](../Page/登革出血热.md "wikilink")
+  - () [登革热](https://zh.wikipedia.org/wiki/登革热 "wikilink")
+  - () [登革出血热](https://zh.wikipedia.org/wiki/登革出血热 "wikilink")
   - () 其他蚊媒病毒热
   - () 其他節肢動物媒病毒热
   - () 未明示之節肢動物媒病毒热
   - () [黄热病](../Page/黄热病.md "wikilink")
-  - () [沙状病毒性出血热](../Page/沙状病毒性出血热.md "wikilink")
+  - () [沙状病毒性出血热](https://zh.wikipedia.org/wiki/沙状病毒性出血热 "wikilink")
   - () 其他病毒出血热
   - () 未明示病毒出血热
 
 ### 皮肤和粘膜损伤的病毒感染
 
-[皮肤和](../Page/皮肤.md "wikilink")[粘膜损伤的病毒感染](../Page/粘膜.md "wikilink")（B00-B09）
+[皮肤和](https://zh.wikipedia.org/wiki/皮肤 "wikilink")[粘膜损伤的病毒感染](https://zh.wikipedia.org/wiki/粘膜 "wikilink")（B00-B09）
 
-  - () [疹病毒感染](../Page/疹病毒.md "wikilink")
+  - () [疹病毒感染](https://zh.wikipedia.org/wiki/疹病毒 "wikilink")
   - () [水痘](../Page/水痘.md "wikilink")
-  - () [帶狀皰疹](../Page/帶狀皰疹.md "wikilink")
-  - () [天花](../Page/天花.md "wikilink")
+  - () [帶狀皰疹](https://zh.wikipedia.org/wiki/帶狀皰疹 "wikilink")
+  - () [天花](https://zh.wikipedia.org/wiki/天花 "wikilink")
   - () [猴痘](../Page/猴痘.md "wikilink")
   - () [麻疹](../Page/麻疹.md "wikilink")
-  - () [风疹](../Page/风疹.md "wikilink")（德國麻疹）
-  - () [病毒性疣](../Page/病毒性疣.md "wikilink")
+  - () [风疹](https://zh.wikipedia.org/wiki/风疹 "wikilink")（德國麻疹）
+  - () [病毒性疣](https://zh.wikipedia.org/wiki/病毒性疣 "wikilink")
   - () 其他皮肤和粘膜损伤的病毒感染
   - () 未明示之皮肤和粘膜损伤的病毒感染
 
-### [病毒性肝炎](../Page/病毒性肝炎.md "wikilink")
+### [病毒性肝炎](https://zh.wikipedia.org/wiki/病毒性肝炎 "wikilink")
 
-[病毒性肝炎](../Page/病毒性肝炎.md "wikilink")（B15-B19）
+[病毒性肝炎](https://zh.wikipedia.org/wiki/病毒性肝炎 "wikilink")（B15-B19）
 
   - () 急性[甲型肝炎](../Page/甲型肝炎.md "wikilink")
-  - () 急性[乙型肝炎](../Page/乙型肝炎.md "wikilink")
+  - () 急性[乙型肝炎](https://zh.wikipedia.org/wiki/乙型肝炎 "wikilink")
   - () 其他急性病毒性肝炎
   - () 慢性病毒性肝炎
   - () 非明示之病毒性肝炎
 
-### [人类免疫缺乏病毒疾病](../Page/人类免疫缺乏病毒.md "wikilink")
+### [人类免疫缺乏病毒疾病](https://zh.wikipedia.org/wiki/人类免疫缺乏病毒 "wikilink")
 
-[人类免疫缺乏病毒疾病](../Page/人类免疫缺乏病毒.md "wikilink")（B20-B24）
+[人类免疫缺乏病毒疾病](https://zh.wikipedia.org/wiki/人类免疫缺乏病毒 "wikilink")（B20-B24）
 
   - () 导致传染病和寄生虫病的人类免疫缺乏病毒疾病
   - () 导致恶性肿瘤的人类免疫缺乏病毒疾病
@@ -339,10 +350,10 @@
 
 其他病毒疾病（B25-B34）
 
-  - () [巨细胞病毒疾病](../Page/巨细胞病毒.md "wikilink")
+  - () [巨细胞病毒疾病](https://zh.wikipedia.org/wiki/巨细胞病毒 "wikilink")
   - () 流行性[腮腺炎](../Page/腮腺炎.md "wikilink")
-  - () [传染性单核球過多症](../Page/传染性单核球過多症.md "wikilink")
-  - () [病毒性结膜炎](../Page/病毒性结膜炎.md "wikilink")
+  - () [传染性单核球過多症](https://zh.wikipedia.org/wiki/传染性单核球過多症 "wikilink")
+  - () [病毒性结膜炎](https://zh.wikipedia.org/wiki/病毒性结膜炎 "wikilink")
   - () 其他病毒性疾病
   - () 非特定部位的病毒感染
 
@@ -350,72 +361,72 @@
 
 [真菌病](../Page/真菌病.md "wikilink")（B35-B49）
 
-  - () [癣](../Page/癣.md "wikilink")
-  - () 其他[表淺性真菌病](../Page/表淺性真菌病.md "wikilink")
-  - () [念珠菌病](../Page/念珠菌病.md "wikilink")
-  - () [球菌病](../Page/球菌病.md "wikilink")
-  - () [组织浆菌病](../Page/组织浆菌病.md "wikilink")
+  - () [癣](https://zh.wikipedia.org/wiki/癣 "wikilink")
+  - () 其他[表淺性真菌病](https://zh.wikipedia.org/wiki/表淺性真菌病 "wikilink")
+  - () [念珠菌病](https://zh.wikipedia.org/wiki/念珠菌病 "wikilink")
+  - () [球菌病](https://zh.wikipedia.org/wiki/球菌病 "wikilink")
+  - () [组织浆菌病](https://zh.wikipedia.org/wiki/组织浆菌病 "wikilink")
   - () [芽生菌病](../Page/芽生菌病.md "wikilink")
-  - () [副球菌病](../Page/副球菌病.md "wikilink")
-  - () [孢子丝菌病](../Page/孢子丝菌病.md "wikilink")
+  - () [副球菌病](https://zh.wikipedia.org/wiki/副球菌病 "wikilink")
+  - () [孢子丝菌病](https://zh.wikipedia.org/wiki/孢子丝菌病 "wikilink")
   - ()
-    [產色菌病和](../Page/產色菌病.md "wikilink")[親菌膿瘍](../Page/親菌膿瘍.md "wikilink")
-  - () [麴菌病](../Page/麴菌病.md "wikilink")
-  - () [隐球菌病](../Page/隐球菌病.md "wikilink")
-  - () [接合菌病](../Page/接合菌病.md "wikilink")
-  - () [足菌肿](../Page/足菌肿.md "wikilink")
+    [產色菌病和](https://zh.wikipedia.org/wiki/產色菌病 "wikilink")[親菌膿瘍](https://zh.wikipedia.org/wiki/親菌膿瘍 "wikilink")
+  - () [麴菌病](https://zh.wikipedia.org/wiki/麴菌病 "wikilink")
+  - () [隐球菌病](https://zh.wikipedia.org/wiki/隐球菌病 "wikilink")
+  - () [接合菌病](https://zh.wikipedia.org/wiki/接合菌病 "wikilink")
+  - () [足菌肿](https://zh.wikipedia.org/wiki/足菌肿 "wikilink")
   - () 其他菌病
   - () 未明示之菌病
 
-### [原蟲病](../Page/原蟲病.md "wikilink")
+### [原蟲病](https://zh.wikipedia.org/wiki/原蟲病 "wikilink")
 
-[原蟲病](../Page/原蟲病.md "wikilink")（B50-B64）
+[原蟲病](https://zh.wikipedia.org/wiki/原蟲病 "wikilink")（B50-B64）
 
   - () [恶性疟原虫疟疾](../Page/恶性疟原虫.md "wikilink")
-  - () [间日疟原虫疟疾](../Page/间日疟原虫.md "wikilink")
-  - () [三日疟原虫疟疾](../Page/三日疟原虫.md "wikilink")
+  - () [间日疟原虫疟疾](https://zh.wikipedia.org/wiki/间日疟原虫 "wikilink")
+  - () [三日疟原虫疟疾](https://zh.wikipedia.org/wiki/三日疟原虫 "wikilink")
   - () 其他寄生虫学証實的[疟疾](../Page/疟疾.md "wikilink")
   - () 未明示之疟疾
   - () [利什曼病](../Page/利什曼病.md "wikilink")
-  - () [非洲锥虫病](../Page/非洲锥虫病.md "wikilink")
-  - () [却格斯病](../Page/却格斯病.md "wikilink")
-  - () [弓虫病](../Page/弓虫病.md "wikilink")
-  - () [肺囊虫病](../Page/肺囊虫病.md "wikilink")
+  - () [非洲锥虫病](https://zh.wikipedia.org/wiki/非洲锥虫病 "wikilink")
+  - () [却格斯病](https://zh.wikipedia.org/wiki/却格斯病 "wikilink")
+  - () [弓虫病](https://zh.wikipedia.org/wiki/弓虫病 "wikilink")
+  - () [肺囊虫病](https://zh.wikipedia.org/wiki/肺囊虫病 "wikilink")
   - () 其他原蟲病
   - () 非明示之原蟲病
 
-### [蠕虫病](../Page/蠕虫病.md "wikilink")
+### [蠕虫病](https://zh.wikipedia.org/wiki/蠕虫病 "wikilink")
 
-[蠕虫病](../Page/蠕虫病.md "wikilink")（B65-B83）
+[蠕虫病](https://zh.wikipedia.org/wiki/蠕虫病 "wikilink")（B65-B83）
 
-  - () [血吸虫病](../Page/血吸虫病.md "wikilink")
-  - () 其他[吸虫感染](../Page/吸虫.md "wikilink")
-  - () [包虫病](../Page/包虫病.md "wikilink")
-  - () [绦虫病](../Page/绦虫病.md "wikilink")
+  - () [血吸虫病](https://zh.wikipedia.org/wiki/血吸虫病 "wikilink")
+  - () 其他[吸虫感染](https://zh.wikipedia.org/wiki/吸虫 "wikilink")
+  - () [包虫病](https://zh.wikipedia.org/wiki/包虫病 "wikilink")
+  - () [绦虫病](https://zh.wikipedia.org/wiki/绦虫病 "wikilink")
   - () [囊虫病](../Page/囊虫病.md "wikilink")
   - ()
-    [裂头绦虫病和](../Page/裂头绦虫病.md "wikilink")[裂头蚴病](../Page/裂头蚴病.md "wikilink")
-  - () 其他[绦虫感染](../Page/绦虫.md "wikilink")
-  - () [龙线虫病](../Page/龙线虫病.md "wikilink")
-  - () [盘尾丝虫病](../Page/盘尾丝虫病.md "wikilink")
-  - () [丝虫病](../Page/丝虫病.md "wikilink")
-  - () [旋毛虫病](../Page/旋毛虫病.md "wikilink")
-  - () [钩虫病](../Page/钩虫病.md "wikilink")
+    [裂头绦虫病和](https://zh.wikipedia.org/wiki/裂头绦虫病 "wikilink")[裂头蚴病](https://zh.wikipedia.org/wiki/裂头蚴病 "wikilink")
+  - () 其他[绦虫感染](https://zh.wikipedia.org/wiki/绦虫 "wikilink")
+  - () [龙线虫病](https://zh.wikipedia.org/wiki/龙线虫病 "wikilink")
+  - () [盘尾丝虫病](https://zh.wikipedia.org/wiki/盘尾丝虫病 "wikilink")
+  - () [丝虫病](https://zh.wikipedia.org/wiki/丝虫病 "wikilink")
+  - () [旋毛虫病](https://zh.wikipedia.org/wiki/旋毛虫病 "wikilink")
+  - () [钩虫病](https://zh.wikipedia.org/wiki/钩虫病 "wikilink")
   - () [蛔虫病](../Page/蛔虫病.md "wikilink")
-  - () [粪类圆线虫病](../Page/粪类圆线虫病.md "wikilink")
+  - () [粪类圆线虫病](https://zh.wikipedia.org/wiki/粪类圆线虫病 "wikilink")
   - () [鞭虫病](../Page/鞭虫病.md "wikilink")
-  - () [蛲虫病](../Page/蛲虫.md "wikilink")
+  - () [蛲虫病](https://zh.wikipedia.org/wiki/蛲虫 "wikilink")
   - () 未归于它处的其他肠道蠕虫病
   - () 非特定的肠道寄生虫
   - () 其他蠕虫病
 
-### [虱病](../Page/虱病.md "wikilink")、[螨病和其他侵染](../Page/螨病.md "wikilink")
+### [虱病](https://zh.wikipedia.org/wiki/虱病 "wikilink")、[螨病和其他侵染](https://zh.wikipedia.org/wiki/螨病 "wikilink")
 
-[虱病](../Page/虱病.md "wikilink")、[螨病和其他侵染](../Page/螨病.md "wikilink")（B85-B89）
+[虱病](https://zh.wikipedia.org/wiki/虱病 "wikilink")、[螨病和其他侵染](https://zh.wikipedia.org/wiki/螨病 "wikilink")（B85-B89）
 
-  - () 虱病和[阴虱病](../Page/阴虱病.md "wikilink")
+  - () 虱病和[阴虱病](https://zh.wikipedia.org/wiki/阴虱病 "wikilink")
   - () [疥疮](../Page/疥疮.md "wikilink")
-  - () [蝇蛆病](../Page/蝇蛆病.md "wikilink")
+  - () [蝇蛆病](https://zh.wikipedia.org/wiki/蝇蛆病 "wikilink")
   - () 其他侵染
   - () 非特定的寄生虫病
 
@@ -423,9 +434,9 @@
 
 传染病和寄生虫病的后遗症（B90-B94）
 
-  - () [结核病后遗症](../Page/结核病后遗症.md "wikilink")
-  - () [脊髓灰质炎后遗症](../Page/脊髓灰质炎后遗症.md "wikilink")
-  - () [麻瘋病后遗症](../Page/麻瘋病后遗症.md "wikilink")
+  - () [结核病后遗症](https://zh.wikipedia.org/wiki/结核病后遗症 "wikilink")
+  - () [脊髓灰质炎后遗症](https://zh.wikipedia.org/wiki/脊髓灰质炎后遗症 "wikilink")
+  - () [麻瘋病后遗症](https://zh.wikipedia.org/wiki/麻瘋病后遗症 "wikilink")
   - () 其他和非明示之传染病或寄生虫病的后遗症
 
 ### 细菌性，病毒性和其他感染
@@ -433,7 +444,7 @@
 细菌性，病毒性和其他感染（B95-B97）
 
   - ()
-    归于歸類於其他章節的[链球菌和](../Page/链球菌.md "wikilink")[葡萄球菌所致的疾病](../Page/葡萄球菌.md "wikilink")
+    归于歸類於其他章節的[链球菌和](https://zh.wikipedia.org/wiki/链球菌 "wikilink")[葡萄球菌所致的疾病](https://zh.wikipedia.org/wiki/葡萄球菌 "wikilink")
   - () 归于歸類於其他章節的其他細菌所致的疾病
   - () 归于歸類於其他章節的病毒所致的疾病
 
@@ -444,7 +455,7 @@
 ## 相关条目
 
   - [ICD-10](../Page/ICD-10.md "wikilink")
-  - [ICD](../Page/ICD.md "wikilink")
+  - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
 
 ## 外部链接
 

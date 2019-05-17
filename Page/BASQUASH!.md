@@ -108,18 +108,18 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
   - 攝影監督：中西康祐
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：Audio Highs、吉川慶
-  - 運動鞋設計協助：[NIKE](../Page/NIKE.md "wikilink")
+  - 運動鞋設計協助：[NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")
   - 製作人：島村和明・高畑裕一郎・横山真二郎・丸山博雄（毎日放送）
   - 副製作人：岩本昌子・笹田直樹・前田俊博
   - 動畫製作：SATELIGHT
   - 原案・導演：河森正治
-  - 監督：[板垣伸](../Page/板垣伸.md "wikilink")(至10話止)、(10話起)
-  - 製作：BASQUASH\!製作委員会（[波丽佳音](../Page/波丽佳音.md "wikilink")、SATELIGHT、[電通](../Page/電通.md "wikilink")、[角川書店](../Page/角川書店.md "wikilink")）、[毎日放送](../Page/毎日放送.md "wikilink")
+  - 監督：[板垣伸](https://zh.wikipedia.org/wiki/板垣伸 "wikilink")(至10話止)、(10話起)
+  - 製作：BASQUASH\!製作委員会（[波丽佳音](https://zh.wikipedia.org/wiki/波丽佳音 "wikilink")、SATELIGHT、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[角川書店](../Page/角川書店.md "wikilink")）、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")
 
 ## 主題曲
 
   - 片頭曲「nO limiT」（第1話-第13話）
-    作詞：KK、藤末樹、作曲：藤末樹、編曲：草野よしひろ、歌：エクリップス(CV:[早見沙織](../Page/早見沙織.md "wikilink")．[中島愛](../Page/中島愛.md "wikilink")．[戶松遙](../Page/戶松遙.md "wikilink"))
+    作詞：KK、藤末樹、作曲：藤末樹、編曲：草野よしひろ、歌：エクリップス(CV:[早見沙織](../Page/早見沙織.md "wikilink")．[中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")．[戶松遙](../Page/戶松遙.md "wikilink"))
       -
         OP1總共有三個版本，2、4、5各在某些畫面作修改，12話中則是刪減版。
   - 片頭曲「僕が僕のまま」（第14話-第26話）
@@ -136,7 +136,7 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
   - 片尾曲「二人の約束」（第14話-第23話、第25話-第26話）
     作詞：瀬名恵、作曲：藤末樹、編曲：草野よしひろ、歌：エクリップス（早見沙織・中島愛・戸松遥）
       -
-        20話起原本片尾中背景螢幕使用的影像從OP1和第九集的Eclipse演唱[兼用卡改成了三人的](../Page/兼用卡.md "wikilink")3D舞者。
+        20話起原本片尾中背景螢幕使用的影像從OP1和第九集的Eclipse演唱[兼用卡改成了三人的](https://zh.wikipedia.org/wiki/兼用卡 "wikilink")3D舞者。
   - 片尾曲「ホシワタリ」（第24話）
     作詞：瀬名恵、作曲：藤末樹・YUMIKO、編曲：コーニッシュ、歌：シトロン（中島愛）
 
@@ -182,9 +182,9 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
 <td><p>I Am Legend</p></td>
 <td><p>我是傳奇</p></td>
 <td><p><a href="../Page/佐藤龍雄.md" title="wikilink">佐藤龍雄</a></p></td>
-<td><p><a href="../Page/板垣伸.md" title="wikilink">板垣伸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/板垣伸" title="wikilink">板垣伸</a></p></td>
 <td><p>三浦和也</p></td>
-<td><p><a href="../Page/渡邊敦子.md" title="wikilink">渡邊敦子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/渡邊敦子" title="wikilink">渡邊敦子</a></p></td>
 <td><p>羅林鎮篇</p></td>
 </tr>
 <tr class="even">
@@ -236,7 +236,7 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
 <td></td>
 <td><p>Saint Has Come</p></td>
 <td><p>聖人來也</p></td>
-<td><p><a href="../Page/今掛勇.md" title="wikilink">今掛勇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今掛勇" title="wikilink">今掛勇</a></p></td>
 <td><p>山田徹</p></td>
 <td><p>向山祐治</p></td>
 <td></td>
@@ -317,7 +317,7 @@ Shin hyong woo<br />
 <td><p>Secondary Break</p></td>
 <td><p>中場休息</p></td>
 <td><p>佐藤龍雄</p></td>
-<td><p><a href="../Page/橋本裕之.md" title="wikilink">橋本裕之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橋本裕之" title="wikilink">橋本裕之</a></p></td>
 <td><p>田中春香</p></td>
 <td></td>
 <td></td>

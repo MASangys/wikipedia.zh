@@ -1,16 +1,16 @@
-**errno.h**是[C語言](../Page/C語言.md "wikilink")[C標準函式庫裡的標頭檔](../Page/C標準函式庫.md "wikilink")，定義了透過[錯誤碼來回報錯誤資訊的巨集](../Page/錯誤碼.md "wikilink")：
+**errno.h**是[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫裡的標頭檔](../Page/C標準函式庫.md "wikilink")，定義了透過[錯誤碼來回報錯誤資訊的巨集](https://zh.wikipedia.org/wiki/錯誤碼 "wikilink")：
 
-  - `errno`巨集定義為一個`int`型態的[左值](../Page/左值.md "wikilink"),
+  - `errno`巨集定義為一個`int`型態的[左值](https://zh.wikipedia.org/wiki/左值 "wikilink"),
     包含任何函式使用errno功能所產生的上一個錯誤碼。
   - 一些表示錯誤碼，定義為整數值的巨集：
       - `EDOM`源自函式的參數超出範圍,例如`sqrt(-1)`
       - `ERANGE`源自函式的結果超出範圍,例如`strtol("0xfffffffff",NULL,0)`
       - `EILSEQ`源自不合法的字元順序,例如`wcstombs(str, L"\xffff", 2)`
 
-[POSIX相容的](../Page/POSIX.md "wikilink")[作業系統像是](../Page/作業系統.md "wikilink")[UNIX或](../Page/Unix.md "wikilink")[Linux或許會包含其他巨集來表示其他作業系統的錯誤碼](../Page/Linux.md "wikilink")
+[POSIX相容的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[作業系統像是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[UNIX或](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux或許會包含其他巨集來表示其他作業系統的錯誤碼](../Page/Linux.md "wikilink")
 
 2003年12月29日，[SCO Group對被選上的](../Page/SCO_Group.md "wikilink")[Fortune
-1000發布](../Page/Fortune_1000.md "wikilink")[DMCA公告](../Page/Digital_Millennium_Copyright_Act.md "wikilink")，宣稱errno.h在未授權的狀況下從UNIX系統複製到了Linux系統。Linux的製作者兼商標擁有者Linus
+1000發布](https://zh.wikipedia.org/wiki/Fortune_1000 "wikilink")[DMCA公告](https://zh.wikipedia.org/wiki/Digital_Millennium_Copyright_Act "wikilink")，宣稱errno.h在未授權的狀況下從UNIX系統複製到了Linux系統。Linux的製作者兼商標擁有者Linus
 Torvalds否認SCO的指控，說是他自己寫了Linux版本的程式。
 
 ## 源代码
@@ -152,11 +152,11 @@ errno.h 在 linux 中的代码:
 
   - [C標準函式庫](../Page/C標準函式庫.md "wikilink")
   - [SCO v. IBM Linux
-    lawsuit](../Page/SCO_v._IBM_Linux_lawsuit.md "wikilink")
-  - [stdio.h](../Page/stdio.h.md "wikilink") (for
-    [perror](../Page/perror.md "wikilink"))
-  - [string.h](../Page/string.h.md "wikilink") (for
-    [strerror](../Page/strerror.md "wikilink"))
+    lawsuit](https://zh.wikipedia.org/wiki/SCO_v._IBM_Linux_lawsuit "wikilink")
+  - [stdio.h](https://zh.wikipedia.org/wiki/stdio.h "wikilink") (for
+    [perror](https://zh.wikipedia.org/wiki/perror "wikilink"))
+  - [string.h](https://zh.wikipedia.org/wiki/string.h "wikilink") (for
+    [strerror](https://zh.wikipedia.org/wiki/strerror "wikilink"))
 
 ## 外部連結
 

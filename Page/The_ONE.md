@@ -47,13 +47,13 @@ ONE的名稱是華人置業主席[劉鑾雄對其紅顏知己](../Page/劉鑾雄
 ### LG2
 
 LG2層原本命名為「數碼壹地帶」，商場試業初期主要租戶包括2C電腦、金電腦用品、靈聰聽覺中心、快圖美、Protech電腦及Wise
-Computer。不過由2011年6月18日起，原址改為[吉之島旗下的AEON](../Page/吉之島.md "wikilink")
+Computer。不過由2011年6月18日起，原址改為[吉之島旗下的AEON](https://zh.wikipedia.org/wiki/吉之島 "wikilink")
 MaxValu Prime高檔精品超市下層部份，所有店舖已於3月起不獲續租。
 
 ### LG1 潮流薈萃
 
 LG1
-潮流薈萃，商場開放初期全層為空置。到了2010年12月時將部份店舖改為多間攤檔及跳蚤市場。2011年1月則改為[吉之島展銷場](../Page/吉之島.md "wikilink")。到了2011年6月18日起，原址改為[AEON旗下的Aeon](../Page/永旺百貨.md "wikilink")
+潮流薈萃，商場開放初期全層為空置。到了2010年12月時將部份店舖改為多間攤檔及跳蚤市場。2011年1月則改為[吉之島展銷場](https://zh.wikipedia.org/wiki/吉之島 "wikilink")。到了2011年6月18日起，原址改為[AEON旗下的Aeon](../Page/永旺百貨.md "wikilink")
 MaxValu
 Prime高檔精品超市上層部份。超市佔地約28,000平方呎，並特設精肉專櫃、中島水產壽司專櫃、意大利火腿專櫃、餐酒專區、各國風味的美食專櫃、時尚精品專區及生活潮流用品專區等。食肆包括首度登陸香港的沖繩地道美食專門店「Okinawa
 Route 58」、鮑魚專家「醉名廚」、意式雪糕專門店「Amiko Gelato」、備受顧客歡迎的國際著名朱古力專門店品牌「The Cocoa
@@ -63,27 +63,27 @@ Trees」、全球最大的冰凍乳酪連鎖店「Tutti Frutti」，以及德國
 HOUSE及華記永昌台灣名物。2013年12月，AEON以約150萬元續租。
 
 流動電話網絡商[中國移動香港](../Page/中國移動香港.md "wikilink")、[PCCW
-Mobile](../Page/PCCW_Mobile.md "wikilink")2G網絡在該層沒有提供覆蓋。
+Mobile](https://zh.wikipedia.org/wiki/PCCW_Mobile "wikilink")2G網絡在該層沒有提供覆蓋。
 
 ### GF-UG2 國際時尚
 
-地下近[彌敦道入口為GA層](../Page/彌敦道.md "wikilink")，租戶為[景福珠寶旗下的Masterplece](../Page/景福珠寶.md "wikilink")
+地下近[彌敦道入口為GA層](../Page/彌敦道.md "wikilink")，租戶為[景福珠寶旗下的Masterplece](https://zh.wikipedia.org/wiki/景福珠寶 "wikilink")
 by king
-fook品牌，佔地逾1萬平方呎。其餘店舖以高檔珠寶及鐘錶為主，包括[Rolex](../Page/Rolex.md "wikilink")、Vertu、[Piaget](../Page/伯爵表.md "wikilink")、
+fook品牌，佔地逾1萬平方呎。其餘店舖以高檔珠寶及鐘錶為主，包括[Rolex](https://zh.wikipedia.org/wiki/Rolex "wikilink")、Vertu、[Piaget](../Page/伯爵表.md "wikilink")、
 A. Lange &
-Sohne及[Montblanc等](../Page/Montblanc.md "wikilink")；到2013年至2015年進行租戶重組，現時租戶為景福珠寶、[奧米茄](../Page/奧米茄.md "wikilink")、HANNAH、[時間廊PRIMO](../Page/時間廊.md "wikilink")、CHARRIOL、TISSOT、及[施華洛世奇等](../Page/施華洛世奇.md "wikilink")
+Sohne及[Montblanc等](https://zh.wikipedia.org/wiki/Montblanc "wikilink")；到2013年至2015年進行租戶重組，現時租戶為景福珠寶、[奧米茄](https://zh.wikipedia.org/wiki/奧米茄 "wikilink")、HANNAH、[時間廊PRIMO](../Page/時間廊.md "wikilink")、CHARRIOL、TISSOT、及[施華洛世奇等](https://zh.wikipedia.org/wiki/施華洛世奇 "wikilink")
 
-近加拿分道入口為GB層，商戶為[I.T旗下的Chocoolate及](../Page/I.T.md "wikilink")[Camper年青服飾專門店](../Page/Camper.md "wikilink")。
+近加拿分道入口為GB層，商戶為[I.T旗下的Chocoolate及](../Page/I.T.md "wikilink")[Camper年青服飾專門店](https://zh.wikipedia.org/wiki/Camper "wikilink")。
 
 由於地下相隔了往停車場的通道，加上彌敦道及加連威老道兩邊的地下入口是不同高度，因此分為GA層及GB層。該層並沒有通道直接連接，遊人需要使用扶手電梯前往LG2層後，需再使用另一條扶手電梯前往GB層。
 
 UG1層大部份範圍為Harvey Nichols旗下的Beauty
 Bazaar美容專門店，引進超過50個國際知名的化妝、護膚以及香水品牌，於2010年12月15日開張。其餘店舖包括[I.T旗下的b](../Page/I.T.md "wikilink")+ab及izzue。
 
-UG2層主要租戶為[Beams及](../Page/Beams.md "wikilink")[Journal
-Standard](../Page/Journal_Standard.md "wikilink")。2010年時店舖包括[Bauhaus](../Page/Bauhaus.md "wikilink")、Salad、[Design
+UG2層主要租戶為[Beams及](https://zh.wikipedia.org/wiki/Beams "wikilink")[Journal
+Standard](https://zh.wikipedia.org/wiki/Journal_Standard "wikilink")。2010年時店舖包括[Bauhaus](https://zh.wikipedia.org/wiki/Bauhaus "wikilink")、Salad、[Design
 Tshirts Store
-Graniph](../Page/Design_Tshirts_Store_Graniph.md "wikilink")、GreaTime鐘錶店、[眼鏡88及Caffe](../Page/眼鏡88.md "wikilink")
+Graniph](https://zh.wikipedia.org/wiki/Design_Tshirts_Store_Graniph "wikilink")、GreaTime鐘錶店、[眼鏡88及Caffe](../Page/眼鏡88.md "wikilink")
 Vergnano 1882等。到2013年至2015年進行租户重組，現時店舖包括MAJESTIC
 LEGON、[眼鏡88](../Page/眼鏡88.md "wikilink")、Calvin Klein watches
 + jewelry、BEAUTY & YOUTH UNITED ARROWS、RABEANCO、Salad、bread n
@@ -95,8 +95,8 @@ Mart等。UG2層亦設有多部升降機連接商場高層及設有一個中庭�
 在商場1至3樓，命名為「流行服飾」，該處商店針對女性顧客為主。主要租戶包括Automobili Lamborghini、Cobo、Framc
 Qui、Panda-a-Panda、A Bros Products、Bla Bla Bra、L'Rosace、Vivitix、Tee
 Locker、EGG Optical Boutique、Blackzmith
-Optical及豐蒂珠寶等。3樓設有兩間小食店，包括[比利時的朱古力店Mio](../Page/比利時.md "wikilink")
-Miko。其中來自[美國Tuttimelon乳酪店設專用的花園供食客專用](../Page/美國.md "wikilink")。到2014年，引入Dazzling
+Optical及豐蒂珠寶等。3樓設有兩間小食店，包括[比利時的朱古力店Mio](https://zh.wikipedia.org/wiki/比利時 "wikilink")
+Miko。其中來自[美國Tuttimelon乳酪店設專用的花園供食客專用](https://zh.wikipedia.org/wiki/美國 "wikilink")。到2014年，引入Dazzling
 Café。2015年，Tuttimelon結業，原址改為点心代表，並針對kidult顧客，並引入運動品牌。
 
 ### L4-L5 時尚食府
@@ -106,7 +106,7 @@ Café Company 鈴木珈琲館及Pokka旗下的とん吉日式吉列專門店。
 
 其他食肆包括來自日本[函館市的Milkissimo意大利雪糕店](../Page/函館市.md "wikilink")、Sprouts、happylemon及Cowboy
 Seven
-Cafe。以上租戶於2012年中結業後，改為[Häagen-Dazs](../Page/Häagen-Dazs.md "wikilink")、「K
+Cafe。以上租戶於2012年中結業後，改為[Häagen-Dazs](https://zh.wikipedia.org/wiki/Häagen-Dazs "wikilink")、「K
 Town韓登」、「曲奇薈」及Harlan's Cake Shop。
 
 5樓食肆包括「別府駅前料理」，「六本木茶房」及Kushi One。到2011年夏季，新增An-Tico
@@ -122,15 +122,15 @@ Courtyard」。別府駅前料理改為「南小館」；六本木茶房改為�
 商場L6至L11，命名為「生活精品」。主要租戶包括Brickstime、Creative Co-op Home、De Rucci
 慕思、OGAWA、Sealy Gallery 絲漣床褥、King Koil 愛皇健、Dunlopillo
 moments、rapee-LIVING
-斗室、[Sinomax](../Page/Sinomax.md "wikilink")、Slumberland
-斯林百蘭及[蓆夢思](../Page/蓆夢思.md "wikilink")。其中8樓設佔地逾15,000平方呎Homeless及Lost
+斗室、[Sinomax](https://zh.wikipedia.org/wiki/Sinomax "wikilink")、Slumberland
+斯林百蘭及[蓆夢思](https://zh.wikipedia.org/wiki/蓆夢思 "wikilink")。其中8樓設佔地逾15,000平方呎Homeless及Lost
 and Found，集禮品、家居飾品、傢俬、燈飾及Full &
 Half咖啡店並採用特定的嵌板及地板劃分區域。唯已於2016年4月15日結業，並遷往6樓Namco、Village
 Vanguard舊址。原址改為MediLASE 激光永久脫毛美容店。
 
 該範圍亦設有食肆，包括L6的HABITŪ caffè。
 
-此外，商場的L6至L11樓層部份範圍為[百老匯戲院](../Page/百老匯戲院.md "wikilink")，設六個影院，共提供800個座位，於2010年9月16日正式開幕。
+此外，商場的L6至L11樓層部份範圍為[百老匯戲院](https://zh.wikipedia.org/wiki/百老匯戲院 "wikilink")，設六個影院，共提供800個座位，於2010年9月16日正式開幕。
 
 L9至L11其餘樓面為加州健身，會所共有三層。會所設有心肺、阻力及負重訓練等超過200部器材，當中共有40部嶄新設備。包括寬敞的Group X
 動感教室及Spinning室內單車教室外，還有特定為私人健身、Kick Fit
@@ -140,26 +140,26 @@ Studios健身中心。
 ### L12-L13 華麗食府
 
 商場L12至L13分別命名為「華麗食府」，以高級食肆為主，每層均擁有逾19呎的特高樓底。
-商場L12全層為[東海海鮮酒家](../Page/東海海鮮酒家.md "wikilink")；L13全層為[煌府婚宴專門店](../Page/煌府.md "wikilink")，內設全港獨有360度雙重旋轉大舞臺、100呎水晶走廊、流星閃爍光纖天花以及300吋巨型LED高清電視螢幕，於7月1日正式開業。
+商場L12全層為[東海海鮮酒家](https://zh.wikipedia.org/wiki/東海海鮮酒家 "wikilink")；L13全層為[煌府婚宴專門店](https://zh.wikipedia.org/wiki/煌府 "wikilink")，內設全港獨有360度雙重旋轉大舞臺、100呎水晶走廊、流星閃爍光纖天花以及300吋巨型LED高清電視螢幕，於7月1日正式開業。
 
 ### L16 The AIR
 
-商場16樓全層為空中花園，佔地萬多呎，落成前原打算讓公眾人士欣賞[維多利亞港](../Page/維多利亞港.md "wikilink")、[尖沙咀及](../Page/尖沙咀.md "wikilink")[九龍東一帶景色](../Page/九龍東.md "wikilink")，並且作為商場主要特色之一\[5\]。不過商場落成後，花園只限招待貴賓享用，不作對外開放，只有貴賓專用升降機可到達。[劉鑾雄於](../Page/劉鑾雄.md "wikilink")2010年10月曾為女兒劉秀盈8歲生日舉行嘉年華派對、商場開幕典禮及酒會、2011年9月舉辦的The
+商場16樓全層為空中花園，佔地萬多呎，落成前原打算讓公眾人士欣賞[維多利亞港](../Page/維多利亞港.md "wikilink")、[尖沙咀及](../Page/尖沙咀.md "wikilink")[九龍東一帶景色](https://zh.wikipedia.org/wiki/九龍東 "wikilink")，並且作為商場主要特色之一\[5\]。不過商場落成後，花園只限招待貴賓享用，不作對外開放，只有貴賓專用升降機可到達。[劉鑾雄於](../Page/劉鑾雄.md "wikilink")2010年10月曾為女兒劉秀盈8歲生日舉行嘉年華派對、商場開幕典禮及酒會、2011年9月舉辦的The
 ONE秋冬時尚週2011、JBL Loud on Stage
 2011派對、明珠台《港生活·港享受》所頒發的高尚品牌獎及「2011香港精神學生大使」啟動分享會亦在此地舉行\[6\]。香港[无线电视剧集](../Page/電視廣播有限公司.md "wikilink")《[My盛Lady](../Page/My盛Lady.md "wikilink")》、《[愛·回家
-(第一輯)](../Page/愛·回家_\(第一輯\).md "wikilink")》、《[天眼](../Page/天眼_\(香港電視劇\).md "wikilink")》、《[潮流教主](../Page/潮流教主.md "wikilink")》等劇集也曾在此处进行外景拍摄。商場現只安排農曆新年及10月1日國慶的煙花匯演，才會開放空中花園予公眾進入，唯需於指定日期內消費滿500元方可獲入場證。
+(第一輯)](../Page/愛·回家_\(第一輯\).md "wikilink")》、《[天眼](https://zh.wikipedia.org/wiki/天眼_\(香港電視劇\) "wikilink")》、《[潮流教主](https://zh.wikipedia.org/wiki/潮流教主 "wikilink")》等劇集也曾在此处进行外景拍摄。商場現只安排農曆新年及10月1日國慶的煙花匯演，才會開放空中花園予公眾進入，唯需於指定日期內消費滿500元方可獲入場證。
 
 到了2012年3月，華置將空中花園改為The
 AIR高空證婚場地，準新人可以在場內進行一站式的婚禮服務，包括場地布置、律師證婚和餐飲等，費用最低消費由HK$38,800起。
 
 ### L17-L21 空中食府
 
-商場17至21樓，命名為「空中食府」，以高級食肆為主，每層均擁有逾19呎的特高樓底。商場17樓為「[利寶閣](../Page/利寶閣.md "wikilink")」、18樓為日式餐廳「Miyabi雅」及酒吧「Cocky
+商場17至21樓，命名為「空中食府」，以高級食肆為主，每層均擁有逾19呎的特高樓底。商場17樓為「[利寶閣](https://zh.wikipedia.org/wiki/利寶閣 "wikilink")」、18樓為日式餐廳「Miyabi雅」及酒吧「Cocky
 Bar」，19樓為來自東京著名鐵板燒店「海賀」及高級歐陸式餐廳
 Harlan's，20樓為稻香旗下全新潮粵菜餐廳「迎」，佔地接近10,000平方呎。21樓頂層為Wooloomooloo
 Steakhouse，提供澳洲菜。
 
-2013年，18樓所有食肆結業，8月重開後改為由香港著名女演员[劉嘉玲投資的日式餐廳](../Page/劉嘉玲.md "wikilink")「京旬
+2013年，18樓所有食肆結業，8月重開後改為由香港著名女演员[劉嘉玲投資的日式餐廳](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")「京旬
 Kyo
 Shun」、TAPAGRIA及西班牙菜餐廳Zurriola。到2015年5月，開設日本人氣抹茶店「中村藤吉」香港店，唯開業11個月後便結業，到2016年改為譽宴．星海。2016年，20樓「迎」結業，9月重開後改為[Cafe
 Deco](../Page/峰景餐廳集團.md "wikilink")。
@@ -176,11 +176,12 @@ ONE意向呎租60至1,000港元，視乎不同樓層而有不同定價，其中�
 ARROWS、BEAMS、JOURNAL STANDARD、Mini Cream、FRENCH CONNECTION、mysty
 woman、tout à coup、as Know as de base、ROSE BUD、FRED
 PERRY、ete\!、MUSIUM、[Anna
-Sui](../Page/Anna_Sui.md "wikilink")、Spiral Girl、KBF、PAGEBOY、[Venilla
-suite](../Page/Venilla_suite.md "wikilink")、RABEAMCO、EMODA、MURUA及STYLE
+Sui](https://zh.wikipedia.org/wiki/Anna_Sui "wikilink")、Spiral
+Girl、KBF、PAGEBOY、[Venilla
+suite](https://zh.wikipedia.org/wiki/Venilla_suite "wikilink")、RABEAMCO、EMODA、MURUA及STYLE
 NANDA等日系及自家品牌。
 
-該商場於2010年時亦引入[景福珠寶集團](../Page/景福珠寶集團.md "wikilink")，租用樓面逾1萬平方呎。其他商舖面積由2,000至3,000[平方呎起](../Page/平方呎.md "wikilink")，可視乎不同租戶的需求而定，若有租戶要求，可將單位二合為一，現已落實部分租戶，亦有部分為大型知名品牌。至於租期方面，娛樂等行業商戶租約期可長達至7年，而普通的零售業租期一般為2年。同年10月，董事劉鳴煒出席旗下尖沙咀商場The
+該商場於2010年時亦引入[景福珠寶集團](https://zh.wikipedia.org/wiki/景福珠寶集團 "wikilink")，租用樓面逾1萬平方呎。其他商舖面積由2,000至3,000[平方呎起](https://zh.wikipedia.org/wiki/平方呎 "wikilink")，可視乎不同租戶的需求而定，若有租戶要求，可將單位二合為一，現已落實部分租戶，亦有部分為大型知名品牌。至於租期方面，娛樂等行業商戶租約期可長達至7年，而普通的零售業租期一般為2年。同年10月，董事劉鳴煒出席旗下尖沙咀商場The
 ONE開幕禮時指出，現時The
 ONE出租率已接近95%，對他來說屬合格，但希望能夠百分百租出。他又透露，該商場呎租介乎60至1,200元，優於集團預期，而人流一直穩步上揚，最高一周達到20萬人次，令人鼓舞。\[7\]
 
@@ -226,7 +227,7 @@ ONE秋冬時尚週2011、JBL Loud on Stage
 ## 重大事件
 
 2010年10月8日，[民主黨為慶祝](../Page/民主黨_\(香港\).md "wikilink")16周年黨慶，於尖沙咀The ONE
-13樓[煌府筳開](../Page/煌府.md "wikilink")48席，邀請了多名政商界人士參與，特首[曾蔭權更率領一眾高官捧場](../Page/曾蔭權.md "wikilink")。另一方面，[社民連成員嘗試進入踩場](../Page/社民連.md "wikilink")，不過大批商場保安卻築起人牆，禁止社民連成員進入商場，後來雙方不停推撞，場面混亂。即使社民連之後能夠成功進入，但被大批商場保安包圍，大部份時間只能逗留在商場底層。商場業主華人置業董事[劉鳴煒親自到場指揮保安](../Page/劉鳴煒.md "wikilink")，要求社民連成員立即離開商場\[15\]。最終，多名保安抬走示威者，業主華置打算從法律途徑向社民連成員作出追究。
+13樓[煌府筳開](https://zh.wikipedia.org/wiki/煌府 "wikilink")48席，邀請了多名政商界人士參與，特首[曾蔭權更率領一眾高官捧場](../Page/曾蔭權.md "wikilink")。另一方面，[社民連成員嘗試進入踩場](https://zh.wikipedia.org/wiki/社民連 "wikilink")，不過大批商場保安卻築起人牆，禁止社民連成員進入商場，後來雙方不停推撞，場面混亂。即使社民連之後能夠成功進入，但被大批商場保安包圍，大部份時間只能逗留在商場底層。商場業主華人置業董事[劉鳴煒親自到場指揮保安](../Page/劉鳴煒.md "wikilink")，要求社民連成員立即離開商場\[15\]。最終，多名保安抬走示威者，業主華置打算從法律途徑向社民連成員作出追究。
 
 2012年1月28日晚上11時左右，商場2及3樓部份防火花灑故障，引致不斷噴水，導致2及3樓部份範圍完全水浸，大批商場職員需緊急放置沙包，避免商戶範圍水浸\[16\]。
 
@@ -275,7 +276,7 @@ ONE（2009年10月） <File:The> One 200912.jpg|興建中之The ONE（2009年12�
   - [國際廣場](../Page/國際廣場.md "wikilink")
   - [K11](../Page/K11_\(香港\).md "wikilink")
   - [1881](../Page/1881.md "wikilink")
-  - [美麗華商場](../Page/美麗華商場.md "wikilink")
+  - [美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")
 
 ## 參考資料
 
@@ -288,7 +289,7 @@ ONE（2009年10月） <File:The> One 200912.jpg|興建中之The ONE（2009年12�
   -
 {{-}}
 
-[分類:香港建築之最](../Page/分類:香港建築之最.md "wikilink")
+[分類:香港建築之最](https://zh.wikipedia.org/wiki/分類:香港建築之最 "wikilink")
 
 [Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink")
 [Category:油尖旺區商場](https://zh.wikipedia.org/wiki/Category:油尖旺區商場 "wikilink")

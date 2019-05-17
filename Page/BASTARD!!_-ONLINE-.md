@@ -1,16 +1,16 @@
 《**BASTARD\!\!
--ONLINE-**》是一款以日本漫畫家[萩原一至的漫畫作品](../Page/萩原一至.md "wikilink")《[暗黑破壞神](../Page/暗黑破壞神_\(漫畫\).md "wikilink")》為基礎的大型多人在線角色扮演遊戲（[MMORPG](../Page/MMORPG.md "wikilink")）。《BASTARD\!\!
--ONLINE-》由日本遊戲公司[TECMO開發](../Page/TECMO.md "wikilink")，遊戲製作人是[河野順太郎](../Page/河野順太郎.md "wikilink")，總監是[山口英久](../Page/山口英久.md "wikilink")。曾在2008年[東京電玩展公開了它的宣傳動畫](../Page/東京電玩展.md "wikilink")，原定預計於2009年內於日本公開上市，2009年中止開發。\[1\]2009年12月，[TECMO宣布开发中止](../Page/TECMO.md "wikilink")。\[2\]
+-ONLINE-**》是一款以日本漫畫家[萩原一至的漫畫作品](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")《[暗黑破壞神](https://zh.wikipedia.org/wiki/暗黑破壞神_\(漫畫\) "wikilink")》為基礎的大型多人在線角色扮演遊戲（[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")）。《BASTARD\!\!
+-ONLINE-》由日本遊戲公司[TECMO開發](https://zh.wikipedia.org/wiki/TECMO "wikilink")，遊戲製作人是[河野順太郎](https://zh.wikipedia.org/wiki/河野順太郎 "wikilink")，總監是[山口英久](https://zh.wikipedia.org/wiki/山口英久 "wikilink")。曾在2008年[東京電玩展公開了它的宣傳動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")，原定預計於2009年內於日本公開上市，2009年中止開發。\[1\]2009年12月，[TECMO宣布开发中止](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[2\]
 
 ## 簡史
 
   - 2005年7月20日，宣布開始開發，是TECMO第一個發表的MMORPG。
   - 2007年，開發中斷。
   - 2007年4月24日，公布遊戲畫面。
-  - 2008年，於[東京電玩展展出其遊戲宣傳用的動畫](../Page/東京電玩展.md "wikilink")。
+  - 2008年，於[東京電玩展展出其遊戲宣傳用的動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")。
   - 2008年7月24日，開始玩家設計甄選活動。
   - 2008年10月31日，公布玩家設計甄選活動入選作品。
-  - 2009年4月1日，決定日本地區將交由過去[KOEI經營的遊戲平台](../Page/KOEI.md "wikilink")「Gamecity」營運\[3\]，預計今年內展開遊戲服務。
+  - 2009年4月1日，決定日本地區將交由過去[KOEI經營的遊戲平台](https://zh.wikipedia.org/wiki/KOEI "wikilink")「Gamecity」營運\[3\]，預計今年內展開遊戲服務。
   - 2009年12月18日，宣布开发中止。
 
 ## 參考文獻

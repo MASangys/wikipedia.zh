@@ -1,5 +1,5 @@
 《**-{zh-hans:真夜中的Kiss;
-zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[持田秋的一部作品](../Page/持田秋.md "wikilink")。於[集英社的](../Page/集英社.md "wikilink")[漫畫雜誌](../Page/漫畫.md "wikilink")《[りぼん](../Page/りぼん.md "wikilink")》2007年4月號開始連載。
+zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋的一部作品](../Page/持田秋.md "wikilink")。於[集英社的](../Page/集英社.md "wikilink")[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
 
 ## 故事簡介
 
@@ -78,21 +78,21 @@ zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫
 </tbody>
 </table>
 
-  - [台灣](../Page/台灣.md "wikilink")[尖端出版是](../Page/尖端出版.md "wikilink")1、2集同步上市。
+  - [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版是](../Page/尖端出版.md "wikilink")1、2集同步上市。
 
 ## 各話標題
 
-| 話數     | \-{標題名稱}-\[1\]                       |
-| ------ | ------------------------------------ |
-| step.1 | [意外邂逅](../Page/意外.md "wikilink")     |
-| step.2 | 晚春[大吉嶺](../Page/大吉嶺.md "wikilink")   |
-| step.3 | 待琢磨之鑚                                |
-| step.4 | 茱麗葉                                  |
-| step.5 | [檸檬樹](../Page/檸檬.md "wikilink")      |
-| step.6 | 無法忘懷I Love You                       |
-| step.7 | 百萬[美金的夜景中](../Page/美金.md "wikilink") |
-| step.8 | [左手](../Page/左手.md "wikilink")       |
-| step.9 | 最後的[舞台](../Page/舞台.md "wikilink")    |
+| 話數     | \-{標題名稱}-\[1\]                                          |
+| ------ | ------------------------------------------------------- |
+| step.1 | [意外邂逅](https://zh.wikipedia.org/wiki/意外 "wikilink")     |
+| step.2 | 晚春[大吉嶺](../Page/大吉嶺.md "wikilink")                      |
+| step.3 | 待琢磨之鑚                                                   |
+| step.4 | 茱麗葉                                                     |
+| step.5 | [檸檬樹](https://zh.wikipedia.org/wiki/檸檬 "wikilink")      |
+| step.6 | 無法忘懷I Love You                                          |
+| step.7 | 百萬[美金的夜景中](https://zh.wikipedia.org/wiki/美金 "wikilink") |
+| step.8 | [左手](https://zh.wikipedia.org/wiki/左手 "wikilink")       |
+| step.9 | 最後的[舞台](https://zh.wikipedia.org/wiki/舞台 "wikilink")    |
 
   - 每一話的單位以『step』來表示。
 

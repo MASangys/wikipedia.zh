@@ -1,10 +1,10 @@
 **施泰尔ACR**（Steyr
-ACR）是为美军90年代初[ACR计划而设计的一款使用](../Page/ACR计划.md "wikilink")[箭形弹的突击步枪](../Page/箭形弹.md "wikilink")。即使施泰尔的设计和提交的其他武器一样已经被证明是优秀的设计，但整个ACR计划因为提交的四款设计没有一款可以达到性能超越[M16A2](../Page/M16突擊步槍.md "wikilink")
+ACR）是为美军90年代初[ACR计划而设计的一款使用](https://zh.wikipedia.org/wiki/ACR计划 "wikilink")[箭形弹的突击步枪](https://zh.wikipedia.org/wiki/箭形弹 "wikilink")。即使施泰尔的设计和提交的其他武器一样已经被证明是优秀的设计，但整个ACR计划因为提交的四款设计没有一款可以达到性能超越[M16A2](../Page/M16突擊步槍.md "wikilink")
 100%的标准而被作罢。
 
 ## 设计
 
-施泰尔ACR在设计上与[斯泰爾AUG略有相似之处](../Page/斯泰爾AUG突擊步槍.md "wikilink")。但它的枪管基本都是被包覆住的（AUG的枪管裸露在外）；它和AUG采用了相同的[无托设计](../Page/犢牛式.md "wikilink")（Bullpup），弹匣位于靠近枪托的地方；另外光学瞄具也作为标配备包含在内。
+施泰尔ACR在设计上与[斯泰爾AUG略有相似之处](../Page/斯泰爾AUG突擊步槍.md "wikilink")。但它的枪管基本都是被包覆住的（AUG的枪管裸露在外）；它和AUG采用了相同的[无托设计](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")（Bullpup），弹匣位于靠近枪托的地方；另外光学瞄具也作为标配备包含在内。
 
 ## 弹药
 

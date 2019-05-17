@@ -1,5 +1,5 @@
 **《ONE PIECE 祭典男爵與神祕島》**是於2005年上映的第六部《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "wikilink")。
+PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情
 
@@ -42,7 +42,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +63,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
   -
     聲優：[大塚明夫](../Page/大塚明夫.md "wikilink")（日本）；[曹冀魯](../Page/曹冀魯.md "wikilink")（台灣）
     祭典島的島主，原**「紅箭海賊團」的船長**，**懸賞金額：1,000萬貝里**（電影第9部提及）。22年前在與海賊王見面後沒多久，並因一場暴風雨而失去了所有的夥伴，他則一個人漂流到祭典島，與島上的莉莉康乃馨訂下契約，藉由把人類當成莉莉的食物使夥伴們復活。
-    據說角色來源可能取自導演[細田守自己](../Page/細田守.md "wikilink")，根據自己先前製作[霍爾的移動城堡到一半卻被拉下馬的經歷設計而成](../Page/霍爾的移動城堡.md "wikilink")。
+    據說角色來源可能取自導演[細田守自己](../Page/細田守.md "wikilink")，根據自己先前製作[霍爾的移動城堡到一半卻被拉下馬的經歷設計而成](https://zh.wikipedia.org/wiki/霍爾的移動城堡 "wikilink")。
   -
     聲優：[渡邊美佐](../Page/渡邊美佐.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
     祭典男爵肩膀上會說人話的花，靠著吃人為生，外表是一朵很可愛的小花，其真面目與本性卻是醜惡無比。
@@ -80,28 +80,28 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
     聲優：[八奈見乘兒](../Page/八奈見乘兒.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     祭典男爵的部下，第二回合試煉「套圈圈」的選手。
   -
-    聲優：[山本圭子](../Page/山本圭子.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
+    聲優：[山本圭子](https://zh.wikipedia.org/wiki/山本圭子 "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
     祭典男爵的部下，第二回合試煉「套圈圈」的選手。
   -
-    聲優：[池松壯亮](../Page/池松壯亮.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
+    聲優：[池松壯亮](https://zh.wikipedia.org/wiki/池松壯亮 "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
     祭典男爵的部下，第三回合試煉「射擊」的選手，口頭禪是「噗」，頭上裝著許多會爆炸的盤子，率領100人狙擊草帽海賊團，對自己的存在深感疑惑。
   -
-    聲優：[綾小路翔](../Page/綾小路翔.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[綾小路翔](https://zh.wikipedia.org/wiki/綾小路翔 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     祭典男爵的部下，手持巨大鍋鏟的廚師，在露天晚餐會上和香吉士較量廚藝。
 
 #### 海賊
 
   -
-    聲優：[安原義人](../Page/安原義人.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[安原義人](https://zh.wikipedia.org/wiki/安原義人 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     「小鬍子海賊團」的船長，當然他的所有夥伴過去也全都成為莉莉的食物，現在則在祭典島的地底下挖了許多密道一個人偷偷生活（但他還有養一隻山羊），不斷的提醒魯夫對付男爵絕對不能大意。
   -
-    聲優：[國本武春](../Page/國本武春.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
+    聲優：[國本武春](https://zh.wikipedia.org/wiki/國本武春 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
     「茶房海賊團」的船長，因妻子死於男爵之手而變的相當懦弱，後來在兒女們的鼓勵下找回勇氣，親手殺死莉莉康乃馨。
   -
     聲優：[大本真基子](../Page/大本真基子.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
     「茶房海賊團」的船員兼長女，處於反抗期，認為父親是個窩囊廢。
   -
-    聲優：[阪口大助](../Page/阪口大助.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[阪口大助](../Page/阪口大助.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     「茶房海賊團」的船員兼長子，小說版因為對父親的懦弱感到反感而成為布利夫的手下，相較於劇場版的沉默，利克在整部小說中佔了相當重要的地位。
   -
     聲優：[永井杏](../Page/永井杏.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）
@@ -109,9 +109,9 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
 
 ## 工作人員
 
-  - 原作：[尾田榮一郎](../Page/尾田榮一郎.md "wikilink")
+  - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
   - 監督：[細田守](../Page/細田守.md "wikilink")
-  - 企劃：[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")、[清水慎治](../Page/清水慎治.md "wikilink")
+  - 企劃：[梅澤淳稔](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")、[清水慎治](https://zh.wikipedia.org/wiki/清水慎治 "wikilink")
   - 脚本：伊藤正宏
   - 美術監督：串田達也・加藤浩
   - 人物設計・作畫監督：すしお、山下高明、[久保田誓](../Page/久保田誓.md "wikilink")
@@ -159,7 +159,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](../Page/劇場.md "w
     ―オマツリ男爵と秘密の島―』細田守インタビュー](http://www.style.fm/as/13_special/mini_050815.shtml)
 
 [ru:Список анимационных фильмов о One Piece\#Фильм
-шестой](../Page/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_шестой.md "wikilink")
+шестой](https://zh.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_шестой "wikilink")
 
 [Category:細田守電影](https://zh.wikipedia.org/wiki/Category:細田守電影 "wikilink")
 [Category:ONE_PIECE劇場版](https://zh.wikipedia.org/wiki/Category:ONE_PIECE劇場版 "wikilink")

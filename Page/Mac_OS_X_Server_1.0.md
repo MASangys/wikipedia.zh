@@ -3,14 +3,14 @@
 **Mac OS X Server
 1.0**發佈於1999年3月16日\[1\]，是蘋果公司首个面向零售市场发布的基於[NeXT的操作系統](../Page/NeXT.md "wikilink")。它是代号为[Rhapsody的最后一款系统](../Page/Rhapsody.md "wikilink")，整合了Mac
 OS
-8的白金外觀與[OpenStep的](../Page/OpenStep.md "wikilink")[NeXT-based界面](../Page/NeXT-based.md "wikilink")、Mach
+8的白金外觀與[OpenStep的](../Page/OpenStep.md "wikilink")[NeXT-based界面](https://zh.wikipedia.org/wiki/NeXT-based "wikilink")、Mach
 OS和OpenStep [API](../Page/应用程序接口.md "wikilink")，而不是經典的[Mac
-OS](../Page/Mac_OS.md "wikilink")，讓用戶可預覽未來的[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")。
+OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，讓用戶可預覽未來的[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 Server 1.0包含從經典的Mac OS，NEXTSTEP及Mac OS X的功能。它像Mac
 OS一樣只有一個功能表列整個畫面上方的，但檔案管理是在NEXTSTEP的Workspace
-Manager中，而不是蘋果公司的Finder中。[Dock及](../Page/Dock.md "wikilink")[Aqua的使用者介面卻沒有加入](../Page/Aqua.md "wikilink")；這些功能都新增至Mac
+Manager中，而不是蘋果公司的Finder中。[Dock及](https://zh.wikipedia.org/wiki/Dock "wikilink")[Aqua的使用者介面卻沒有加入](https://zh.wikipedia.org/wiki/Aqua "wikilink")；這些功能都新增至Mac
 OS X中。
 
 這成為了Mac OS X的"Classic Environment",它沒有在Mac OS 8.5.1中運行，但是在最新版本的Mac OS

@@ -20,10 +20,14 @@ trance》系列的第一彈。
 5.  [SURREAL](../Page/SURREAL.md "wikilink") "Marc et Claude remix"
 6.  [AUDIENCE](../Page/AUDIENCE.md "wikilink") "Darren Tate remix"
 7.  [Fly high](../Page/Fly_high.md "wikilink") "Voodoo & Serano remix"
-8.  [immature](../Page/appears.md "wikilink") "Koglin & Heath remix"
-9.  [evolution](../Page/evolution.md "wikilink") "Goldenscan remix"
-10. [kanariya](../Page/kanariya.md "wikilink") "system F remix"
-11. [appears](../Page/appears.md "wikilink") "Armin Van Buuren remix"
+8.  [immature](https://zh.wikipedia.org/wiki/appears "wikilink") "Koglin
+    & Heath remix"
+9.  [evolution](https://zh.wikipedia.org/wiki/evolution "wikilink")
+    "Goldenscan remix"
+10. [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
+    "system F remix"
+11. [appears](https://zh.wikipedia.org/wiki/appears "wikilink") "Armin
+    Van Buuren remix"
 12. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink") "Push remix"
 13. [UNITE\!](../Page/UNITE!.md "wikilink") "Moogwai remix"
 14. [A Song for ××](../Page/A_Song_for_××.md "wikilink") "Ferry Corsten

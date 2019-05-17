@@ -1,6 +1,6 @@
 [Dcview_home.jpg](https://zh.wikipedia.org/wiki/File:Dcview_home.jpg "fig:Dcview_home.jpg")
 
-**DCView數位視野網站**是一個以數位影像為主的[台灣網站](../Page/台灣.md "wikilink")，簡稱為**DCView**或**數位視野**，它是[攝影](../Page/攝影.md "wikilink")、[相機](../Page/相機.md "wikilink")、[影像生活等](../Page/影像生活.md "wikilink")[攝影相關議題的綜合論壇](../Page/攝影.md "wikilink")，是華人[攝影界最著名的攝影資訊網站之一](../Page/攝影.md "wikilink")。
+**DCView數位視野網站**是一個以數位影像為主的[台灣網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")，簡稱為**DCView**或**數位視野**，它是[攝影](https://zh.wikipedia.org/wiki/攝影 "wikilink")、[相機](https://zh.wikipedia.org/wiki/相機 "wikilink")、[影像生活等](https://zh.wikipedia.org/wiki/影像生活 "wikilink")[攝影相關議題的綜合論壇](https://zh.wikipedia.org/wiki/攝影 "wikilink")，是華人[攝影界最著名的攝影資訊網站之一](https://zh.wikipedia.org/wiki/攝影 "wikilink")。
 
 DCView數位視野在華人攝影領域中，是流量最大、閱覽率最高的網站。2004年，根據Alexa的統計，DCView
 亦是全球排名前二千大的網站。\[2\]
@@ -19,9 +19,10 @@ TV)、數位投影機(LCD Projector)、攝錄影行動電話、攝影技巧、�
 <!-- end list -->
 
   - 2008年
-      - 8月： 2008年8月23日舉辦第一屆[攝影鐵人台北](../Page/攝影鐵人.md "wikilink")12小時活動
+      - 8月：
+        2008年8月23日舉辦第一屆[攝影鐵人台北](https://zh.wikipedia.org/wiki/攝影鐵人 "wikilink")12小時活動
       - 12月：推出「旅圖網」，以「See Before You
-        Trip\!」的概念運用大量的圖片介紹[台灣的觀光景點](../Page/台灣.md "wikilink")，用圖片吸引更多的人進行觀光旅遊！
+        Trip\!」的概念運用大量的圖片介紹[台灣的觀光景點](https://zh.wikipedia.org/wiki/台灣 "wikilink")，用圖片吸引更多的人進行觀光旅遊！
 
 <!-- end list -->
 
@@ -76,7 +77,7 @@ TV)、數位投影機(LCD Projector)、攝錄影行動電話、攝影技巧、�
 ## 相關條目
 
 **DCView數位視野**\[1\]
-在華人[攝影領域中](../Page/攝影.md "wikilink")，是流量最大、閱覽率最高的[網站](../Page/網站.md "wikilink")。2004年，根據[Alexa的統計](../Page/Alexa_Internet.md "wikilink")，DCView
+在華人[攝影領域中](https://zh.wikipedia.org/wiki/攝影 "wikilink")，是流量最大、閱覽率最高的[網站](../Page/網站.md "wikilink")。2004年，根據[Alexa的統計](../Page/Alexa_Internet.md "wikilink")，DCView
 亦是全球排名前二千大的網站。\[2\]
 
 數位影像專業社群網站。以數位影像為軸心，提供數位相機、數位錄影機、數位電視、數位投影機、攝影攝影技巧、相關的數位影像軟硬體週邊產品介紹、測試評介。網站服務有攝影作品發表\[3\]、達人部落\[4\]、網路論壇\[5\]、個人相簿、高畫質專區\[6\]、二手專區\[7\]
@@ -87,11 +88,11 @@ Trip\!」的概念運用大量的圖片介紹台灣的觀光景點，用圖片�
 
 DCView數位視野會員電子報\[10\] 2009.5.27會員電子報全新改版
 
-2009年7月，為配合[高雄市舉辦](../Page/高雄市.md "wikilink")[2009年世界運動會](../Page/2009年世界運動會.md "wikilink")，製作「世運有影
+2009年7月，為配合[高雄市舉辦](../Page/高雄市.md "wikilink")[2009年世界運動會](https://zh.wikipedia.org/wiki/2009年世界運動會 "wikilink")，製作「世運有影
 運動趣像」\[11\]
 網路活動。內容包括：世運戳戳樂\[12\]、高雄世運大百科\[13\]、世運之牆\[14\]、為台灣加油\[15\]，及高雄好好玩\[16\]。
 
-主要客戶：[SONY](../Page/SONY.md "wikilink")、[Canon](../Page/Canon.md "wikilink")、[Nikon](../Page/Nikon.md "wikilink")、[Olympus](../Page/Olympus.md "wikilink")、[Fujifilm](../Page/Fujifilm.md "wikilink")、[Kodak](../Page/Kodak.md "wikilink")、[Sanyo](../Page/Sanyo.md "wikilink")、[Epson](../Page/Epson.md "wikilink")、[Adobe](../Page/Adobe.md "wikilink")、[PCHome](../Page/PCHome.md "wikilink")、TKEC、Monday。
+主要客戶：[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")、[Canon](../Page/Canon.md "wikilink")、[Nikon](https://zh.wikipedia.org/wiki/Nikon "wikilink")、[Olympus](https://zh.wikipedia.org/wiki/Olympus "wikilink")、[Fujifilm](https://zh.wikipedia.org/wiki/Fujifilm "wikilink")、[Kodak](https://zh.wikipedia.org/wiki/Kodak "wikilink")、[Sanyo](https://zh.wikipedia.org/wiki/Sanyo "wikilink")、[Epson](https://zh.wikipedia.org/wiki/Epson "wikilink")、[Adobe](../Page/Adobe.md "wikilink")、[PCHome](https://zh.wikipedia.org/wiki/PCHome "wikilink")、TKEC、Monday。
 
 ## 經典活動
 

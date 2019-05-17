@@ -3,7 +3,7 @@ Girl\!\!}-**》（）是2008年10月14日到同年12月9日在[日本電視台�
 
 ## 劇情概要
 
-夢想成為小說家的山下耕太郎（[速水直道](../Page/速水直道.md "wikilink")），平時在雜誌社當自由作家，收入只能勉強糊口，沒想到某天一覺醒來，家裡卻多了個「A咖童星」櫻井杏（[吉田里琴](../Page/吉田里琴.md "wikilink")）！原來小杏是耕太郎沒有血緣的姊姊、大明星大空比奈子（[YOU](../Page/江原由希子.md "wikilink")）的私生女，比奈子要去美國發展所以把小杏丟給耕太郎照顧。一直以來單身生活的耕太郎，被迫照顧人小鬼大的小杏、應付不太可靠又很囉唆的經紀人峰子（[加藤羅莎](../Page/加藤羅莎.md "wikilink")），還要注意不能讓外人發現小杏的身世，從此展開多災多難的生活……
+夢想成為小說家的山下耕太郎（[速水直道](../Page/速水直道.md "wikilink")），平時在雜誌社當自由作家，收入只能勉強糊口，沒想到某天一覺醒來，家裡卻多了個「A咖童星」櫻井杏（[吉田里琴](https://zh.wikipedia.org/wiki/吉田里琴 "wikilink")）！原來小杏是耕太郎沒有血緣的姊姊、大明星大空比奈子（[YOU](https://zh.wikipedia.org/wiki/江原由希子 "wikilink")）的私生女，比奈子要去美國發展所以把小杏丟給耕太郎照顧。一直以來單身生活的耕太郎，被迫照顧人小鬼大的小杏、應付不太可靠又很囉唆的經紀人峰子（[加藤羅莎](../Page/加藤羅莎.md "wikilink")），還要注意不能讓外人發現小杏的身世，從此展開多災多難的生活……
 
 ## 演員
 
@@ -11,15 +11,15 @@ Girl\!\!}-**》（）是2008年10月14日到同年12月9日在[日本電視台�
   - 藤峰子 - [加藤羅莎](../Page/加藤羅莎.md "wikilink")
   - 安野真貴子 - [友坂理惠](../Page/友坂理惠.md "wikilink")
   - 石田健 - [岡田義德](../Page/岡田義德.md "wikilink")
-  - 櫻井杏 - [吉田里琴](../Page/吉田里琴.md "wikilink")
-  - 渋谷加惠 - [高橋ひとみ](../Page/高橋ひとみ.md "wikilink")
+  - 櫻井杏 - [吉田里琴](https://zh.wikipedia.org/wiki/吉田里琴 "wikilink")
+  - 渋谷加惠 - [高橋ひとみ](https://zh.wikipedia.org/wiki/高橋ひとみ "wikilink")
   - 渋谷裕太 -[入江甚儀](../Page/入江甚儀.md "wikilink")
-  - 篠宮睦美 -[篠原真衣](../Page/篠原真衣.md "wikilink")
-  - 平川敦 - [平沼紀久](../Page/平沼紀久.md "wikilink")
+  - 篠宮睦美 -[篠原真衣](https://zh.wikipedia.org/wiki/篠原真衣 "wikilink")
+  - 平川敦 - [平沼紀久](https://zh.wikipedia.org/wiki/平沼紀久 "wikilink")
   - 琵琶（狗）- 竹矢ベル
-  - 大空比奈子 - [YOU](../Page/江原由希子.md "wikilink")
-  - 菅原弘文 - [古田新太](../Page/古田新太.md "wikilink")
-  - 石坂和夫 - [鹿賀丈史](../Page/鹿賀丈史.md "wikilink")
+  - 大空比奈子 - [YOU](https://zh.wikipedia.org/wiki/江原由希子 "wikilink")
+  - 菅原弘文 - [古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")
+  - 石坂和夫 - [鹿賀丈史](https://zh.wikipedia.org/wiki/鹿賀丈史 "wikilink")
 
 ## 製作人員
 

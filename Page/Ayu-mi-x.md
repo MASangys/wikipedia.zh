@@ -15,14 +15,14 @@
           -
             (寫真為《**ayu-mi-x**》、《**あゆ・み・っくす**》及第一張到第十張單曲的相關造型，部分圖片後來也重複出現在2008年發行的《[A
             COMPLETE \~ALL
-            SINGLES\~](../Page/A_COMPLETE_~ALL_SINGLES~.md "wikilink")》初回盤裡收錄的單曲未公開封面照片冊)
+            SINGLES\~](https://zh.wikipedia.org/wiki/A_COMPLETE_~ALL_SINGLES~ "wikilink")》初回盤裡收錄的單曲未公開封面照片冊)
 
 ## 曲目
 
 ### DISC1 ayu-mi-x Club Side
 
-1.  [poker face](../Page/poker_face.md "wikilink") "D-Z Spiritual
-    Guidance Mix"
+1.  [poker face](https://zh.wikipedia.org/wiki/poker_face "wikilink")
+    "D-Z Spiritual Guidance Mix"
 2.  Hana "D-Z DEADLY ROSE APPROACH"
 3.  SIGNAL "Y\&CO.TASTE"
 4.  [Depend on you](../Page/Depend_on_you.md "wikilink") "dub's electro
@@ -33,7 +33,8 @@
 8.  [Trust](../Page/Trust.md "wikilink") "GROOVE THAT SOUL MIX"
 9.  SIGNAL "GROOVE THAT SOUL MIX"
 10. As if... "DJ TURBO WISH MIX"
-11. [YOU](../Page/YOU.md "wikilink") "MASTERS OF FUNK R\&B REMIX"
+11. [YOU](https://zh.wikipedia.org/wiki/YOU "wikilink") "MASTERS OF FUNK
+    R\&B REMIX"
 12. from your letter "DJ HASEBE REMIX"
 13. [Two of us](../Page/Depend_on_you.md "wikilink") "rub delight mix"
 14. [A Song for ××](../Page/A_Song_for_××.md "wikilink") "dub's loverdub
@@ -45,10 +46,11 @@
 2.  [A Song for ××](../Page/A_Song_for_××.md "wikilink") "Acoustic
     Orchestra Version"
 3.  Hana "Acoustic Orchestra Version"
-4.  [poker face](../Page/poker_face.md "wikilink") "Acoustic Orchestra
-    Version"
+4.  [poker face](https://zh.wikipedia.org/wiki/poker_face "wikilink")
+    "Acoustic Orchestra Version"
 5.  Wishing "Acoustic Orchestra Version"
-6.  [YOU](../Page/YOU.md "wikilink") "Acoustic Orchestra Version"
+6.  [YOU](https://zh.wikipedia.org/wiki/YOU "wikilink") "Acoustic
+    Orchestra Version"
 7.  As if... "Acoustic Orchestra Version"
 8.  POWDER SNOW "Acoustic Orchestra Version"
 9.  [Depend on you](../Page/Depend_on_you.md "wikilink") "Acoustic
@@ -56,7 +58,7 @@
 10. [For My Dear...](../Page/For_My_Dear....md "wikilink") "Acoustic
     Orchestra Version"
 11. Wishing "REFRESHING MIX"
-12. [YOU](../Page/YOU.md "wikilink") "FINE MIX"
+12. [YOU](https://zh.wikipedia.org/wiki/YOU "wikilink") "FINE MIX"
 13. from your letter "Dub you crazy mix"
 
 [Category:濱崎步專輯](https://zh.wikipedia.org/wiki/Category:濱崎步專輯 "wikilink")

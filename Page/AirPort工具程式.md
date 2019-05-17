@@ -1,6 +1,6 @@
 **AirPort工具程式**（，又称），是一个能让使用者通过[AirPort](../Page/AirPort.md "wikilink")
 [Wi-Fi基站配置无线网络和管理](../Page/Wi-Fi.md "wikilink")[USB附加设备的实用程序](../Page/USB.md "wikilink")。它内置于[Mac
-OS X且有可供下载的](../Page/Mac_OS_X.md "wikilink")[Windows
+OS X且有可供下载的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows
 XP和](../Page/Windows_XP.md "wikilink")[Windows
 Vista版](../Page/Windows_Vista.md "wikilink")。
 

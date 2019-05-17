@@ -3,7 +3,7 @@
 [LCD_TV_與_LED_TV比較2_小.jpg](https://zh.wikipedia.org/wiki/File:LCD_TV_與_LED_TV比較2_小.jpg "fig:LCD_TV_與_LED_TV比較2_小.jpg")
 
 **LED背光液晶顯示電視**（LED-backlit LCD
-television），是使用[發光二極體](../Page/發光二極體.md "wikilink")（LED）作為[背光源的](../Page/背光.md "wikilink")[液晶顯示電視](../Page/液晶顯示電視.md "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](../Page/松下.md "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](../Page/飞利浦.md "wikilink")、[乐金及](../Page/乐金.md "wikilink")[索尼等将其稱为](../Page/索尼.md "wikilink")**LED電視**，但此並不是指使用[發光二極管作圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](../Page/電視.md "wikilink")。
+television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光源的](../Page/背光.md "wikilink")[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼等将其稱为](../Page/索尼.md "wikilink")**LED電視**，但此並不是指使用[發光二極管作圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。
 
 隨著發光二極管电视市場競爭日趨激烈，加上發光二極管應用逐漸成熟，各家電視廠商紛紛積極導入發光二極管背光液晶顯示電視，企圖在家用電視改朝換代之際能夠拔得頭籌。
 
@@ -14,10 +14,10 @@ back-lit）兩種，而當中直下式所使用的發光二極管有分為白光
 
 ### 直下式發光二極管背光技術
 
-直下式發光二極管背光技術是把多枚發光二極管排成[陣列](../Page/陣列.md "wikilink")，放在散光片及LCD後面，直接照射LCD。如此，直下式可以依從畫面不同部份的光度變化，快速地微調發光二極管的明暗，大為提高[動態對比度達至](../Page/動態對比度.md "wikilink")[等離子顯示器的水平](../Page/等離子顯示器.md "wikilink")。缺點也就是需使用數量較多的發光二極管，耗電、體積厚、價格較高。
+直下式發光二極管背光技術是把多枚發光二極管排成[陣列](https://zh.wikipedia.org/wiki/陣列 "wikilink")，放在散光片及LCD後面，直接照射LCD。如此，直下式可以依從畫面不同部份的光度變化，快速地微調發光二極管的明暗，大為提高[動態對比度達至](https://zh.wikipedia.org/wiki/動態對比度 "wikilink")[等離子顯示器的水平](https://zh.wikipedia.org/wiki/等離子顯示器 "wikilink")。缺點也就是需使用數量較多的發光二極管，耗電、體積厚、價格較高。
 
 直下式發光二極管背光所使用的有白光發光二極管，也有使用紅、綠、藍三種單色發光二極管（RGB LED）的，使用RGB
-LED可以有更闊[光頻譜](../Page/光頻譜.md "wikilink")，也即有更廣[色域](../Page/色域.md "wikilink")。
+LED可以有更闊[光頻譜](https://zh.wikipedia.org/wiki/光頻譜 "wikilink")，也即有更廣[色域](../Page/色域.md "wikilink")。
 
 ### 側照式發光二極管背光技術
 
@@ -32,9 +32,9 @@ LED，白光發光二極管較為耗電，加上反光片有損耗及LED照射�
 
 ## 發光二極管背光源與冷陰極螢光燈背光源的差異
 
-以往[薄膜電晶體液晶顯示器的光源是採用](../Page/薄膜電晶體液晶顯示器.md "wikilink")[冷陰極螢光燈作背光光源](../Page/冷陰極螢光燈.md "wikilink")，（如圖2）。兩者的分別在於：
+以往[薄膜電晶體液晶顯示器的光源是採用](../Page/薄膜電晶體液晶顯示器.md "wikilink")[冷陰極螢光燈作背光光源](https://zh.wikipedia.org/wiki/冷陰極螢光燈 "wikilink")，（如圖2）。兩者的分別在於：
 
-  - 發光二極管可以極快速地改變光的強度，因此可以依照局部影像的亮度需求而局部調節背光亮度，因此暗的影像可以更暗，[動態對比度可比](../Page/動態對比度.md "wikilink")[冷陰極螢光燈高得多](../Page/冷陰極螢光燈.md "wikilink")。特別是直下式LED背光的，動態對比度的改善更為明顯。
+  - 發光二極管可以極快速地改變光的強度，因此可以依照局部影像的亮度需求而局部調節背光亮度，因此暗的影像可以更暗，[動態對比度可比](https://zh.wikipedia.org/wiki/動態對比度 "wikilink")[冷陰極螢光燈高得多](https://zh.wikipedia.org/wiki/冷陰極螢光燈 "wikilink")。特別是直下式LED背光的，動態對比度的改善更為明顯。
   - 採用獨立三原色發光二極管的直下式發光二極管背光擁有較冷陰極螢光燈廣闊的色域。
   - 使用發光二極管背光可降低電視機的厚度、體積、重量，側照式發光二極管（edge LED）可達1cm以下。
   - 發光二極管背光本身在中低光度較冷陰極螢光燈省電，加上依從劃面圖像動態調暗發光二極管，發光二極管背光可省達20-50%耗電。（如圖3）

@@ -1,14 +1,14 @@
 《**無頭騎士異聞錄
-DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](../Page/作家.md "wikilink")[成田良悟撰寫](../Page/成田良悟.md "wikilink")、[ヤスダスズヒト](../Page/ヤスダスズヒト.md "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說系列](../Page/輕小說.md "wikilink")。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII
+DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟撰寫](../Page/成田良悟.md "wikilink")、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說系列](../Page/輕小說.md "wikilink")。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII
 MEDIA
-WORKS](../Page/ASCII_MEDIA_WORKS.md "wikilink")）出版；繁體中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")；簡體中文版則由[天聞角川代理發行](../Page/天聞角川.md "wikilink")。
+WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
 本作是電擊文庫史上第一個以無頭的人物為主角的作品。描述以[池袋為舞台](../Page/池袋.md "wikilink")，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
 DuRaRaRa\!\!SH**》（）。
 
-改編[漫畫版於](../Page/漫畫.md "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](../Page/茶鳥木明代.md "wikilink")。
+改編[漫畫版於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](https://zh.wikipedia.org/wiki/茶鳥木明代 "wikilink")。
 
-2009年7月宣佈[動畫化](../Page/動畫.md "wikilink")，2010年1月起播放，此外於[東京國際動畫展](../Page/東京國際動畫展.md "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄
+2009年7月宣佈[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，2010年1月起播放，此外於[東京國際動畫展](https://zh.wikipedia.org/wiki/東京國際動畫展 "wikilink")2010宣佈遊戲化\[2\]。於2014年3月宣佈二期動畫化《無頭騎士異聞錄
 DuRaRaRa\!\!×2》，將分成三個季度播放。第一季「承」於2015年1月播映；第二季「轉」於同年7月播映；第三季「結」於2016年1月播映。
 
 ## 故事簡介
@@ -80,7 +80,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 #### 無頭騎士
 
   -
-    [凱爾特傳說的妖精](../Page/凱爾特.md "wikilink")，與[報喪女妖為世界知名的鬼怪](../Page/報喪女妖.md "wikilink")，塞尔提就是一个无头骑士。本作中无头骑士只有女性，且头有着美丽到不能言状、让人类一见倾心的面容。传说是由滞留在人间的[女武神所化](../Page/女武神.md "wikilink")。
+    [凱爾特傳說的妖精](https://zh.wikipedia.org/wiki/凱爾特 "wikilink")，與[報喪女妖為世界知名的鬼怪](../Page/報喪女妖.md "wikilink")，塞尔提就是一个无头骑士。本作中无头骑士只有女性，且头有着美丽到不能言状、让人类一见倾心的面容。传说是由滞留在人间的[女武神所化](../Page/女武神.md "wikilink")。
 
 ### 暴走族、幫派
 
@@ -92,7 +92,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 #### To羅丸
 
   -
-    [埼玉的](../Page/埼玉.md "wikilink")[暴走族聯合](../Page/暴走族.md "wikilink")，創立者和領導人是六條千景。
+    [埼玉的](https://zh.wikipedia.org/wiki/埼玉 "wikilink")[暴走族聯合](../Page/暴走族.md "wikilink")，創立者和領導人是六條千景。
 
 ### 其他勢力
 
@@ -105,7 +105,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 
   -
     美國一家擁有百年歷史的聯合企業。其事業領域跨及運輸、出版、生化科技等等，規模龐大。在作者系列作中的《[Vamp\!](../Page/Vamp!.md "wikilink")》和《[BACCANO\!
-    大騷動\!](../Page/BACCANO!.md "wikilink")》也有登場過。
+    大騷動\!](https://zh.wikipedia.org/wiki/BACCANO! "wikilink")》也有登場過。
     在岸谷森嚴的主導下於「頭」的騷動結束後併購矢霧製藥，目的是為了矢霧製藥所擁有的無頭騎士的頭顱，但因為矢霧波江將頭顱帶走而沒得到。第一部結束後才因波江轉投尼布羅而成功將頭顱帶往美國。
 
 #### 天堂奴隸
@@ -120,15 +120,15 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <th><p>卷數</p></th>
 <th><p><a href="../Page/ASCII_Media_Works.md" title="wikilink">ASCII Media Works</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
-<th><p><a href="../Page/天聞角川.md" title="wikilink">天聞角川</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/天聞角川" title="wikilink">天聞角川</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>無頭騎士異聞錄 DuRaRaRa!-{}-!</p></td>
@@ -285,14 +285,14 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -329,14 +329,14 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 <th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -368,13 +368,13 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -403,7 +403,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -429,7 +429,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -462,7 +462,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -477,13 +477,13 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -504,13 +504,13 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/史克威爾艾尼克斯.md" title="wikilink">史克威爾艾尼克斯</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
@@ -549,7 +549,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   - 製片人：横山朱子、和田敦、小岐須泰世、金庭こず恵、丸山博雄
   - 動畫製作人：佐藤由美
   - 動畫系列製作：[Brain's
-    Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")（第二期）
+    Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](https://zh.wikipedia.org/wiki/朱夏_\(動畫工作室\) "wikilink")（第二期）
   - 製作：池袋DOLLARS\[3\]\[4\]
 
 ### 主題曲
@@ -586,7 +586,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   -
 
       -
-        作詞、作曲、編曲：伊橋成哉，歌：[ON/OFF](../Page/ON/OFF.md "wikilink")
+        作詞、作曲、編曲：伊橋成哉，歌：[ON/OFF](https://zh.wikipedia.org/wiki/ON/OFF "wikilink")
 
 <!-- end list -->
 
@@ -600,7 +600,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 
       -
         作詞：Okamoto Sho、石渡淳治，作曲：Okamoto
-        Kouki，編曲：[OKAMOTO'S](../Page/OKAMOTO'S.md "wikilink")、大久保友裕，歌：OKAMOTO'S
+        Kouki，編曲：[OKAMOTO'S](https://zh.wikipedia.org/wiki/OKAMOTO'S "wikilink")、大久保友裕，歌：OKAMOTO'S
 
 :;『Day you laugh』（第13－24話）
 
@@ -615,7 +615,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 
       -
         作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲 -
-        [toku](../Page/阿部尚徳.md "wikilink")（[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")）\&FLOW
+        [toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")）\&FLOW
         / 歌 - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
 
 \*; 片尾曲
@@ -626,7 +626,8 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 
       -
         作詞：Glielmo Ko-ichi，作曲：Glielmo Ko-ichi、u-ya，編曲、歌：[THREE LIGHTS
-        DOWN KINGS](../Page/THREE_LIGHTS_DOWN_KINGS.md "wikilink")
+        DOWN
+        KINGS](https://zh.wikipedia.org/wiki/THREE_LIGHTS_DOWN_KINGS "wikilink")
 
 :;『リフレクション』（第4.5話）
 
@@ -695,19 +696,19 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#01</p></td>
 <td></td>
 <td><p>言之必稱</p></td>
-<td><p><a href="../Page/高木登.md" title="wikilink">高木登</a></p></td>
-<td><p><a href="../Page/大森貴弘.md" title="wikilink">大森貴弘</a></p></td>
-<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
-<td><p><a href="../Page/高田晃.md" title="wikilink">高田晃</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高木登" title="wikilink">高木登</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大森貴弘" title="wikilink">大森貴弘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高田晃" title="wikilink">高田晃</a></p></td>
 <td><p><a href="../Page/豐永利行.md" title="wikilink">豐永利行</a>（龍之峰帝人）</p></td>
 </tr>
 <tr class="odd">
 <td><p>#02</p></td>
 <td></td>
 <td><p>變化莫測</p></td>
-<td><p><a href="../Page/寺東克己.md" title="wikilink">寺東克己</a></p></td>
-<td><p><a href="../Page/馬場誠.md" title="wikilink">馬場誠</a></p></td>
-<td><p><a href="../Page/青野厚司.md" title="wikilink">青野厚司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寺東克己" title="wikilink">寺東克己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬場誠" title="wikilink">馬場誠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/青野厚司" title="wikilink">青野厚司</a></p></td>
 <td><p><a href="../Page/澤城美雪.md" title="wikilink">澤城美雪</a>（塞爾堤·史特路爾森）</p></td>
 <td></td>
 </tr>
@@ -715,9 +716,9 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#03</p></td>
 <td></td>
 <td><p>猖狂跋扈</p></td>
-<td><p><a href="../Page/根元歲三.md" title="wikilink">根元歲三</a></p></td>
-<td><p><a href="../Page/梅本唯.md" title="wikilink">梅本唯</a></p></td>
-<td><p><a href="../Page/久木晃嗣.md" title="wikilink">久木晃嗣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/根元歲三" title="wikilink">根元歲三</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅本唯" title="wikilink">梅本唯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久木晃嗣" title="wikilink">久木晃嗣</a></p></td>
 <td><p><a href="../Page/黑田崇矢.md" title="wikilink">黑田崇矢</a>（賽門·布裡茲涅夫）</p></td>
 <td></td>
 </tr>
@@ -725,19 +726,19 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#04</p></td>
 <td></td>
 <td><p>形影相吊</p></td>
-<td><p><a href="../Page/高木登.md" title="wikilink">高木登</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高木登" title="wikilink">高木登</a></p></td>
 <td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a></p></td>
-<td><p><a href="../Page/近藤一英.md" title="wikilink">近藤一英</a></p></td>
-<td><p><a href="../Page/中野圭哉.md" title="wikilink">中野圭哉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近藤一英" title="wikilink">近藤一英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中野圭哉" title="wikilink">中野圭哉</a></p></td>
 <td><p><a href="../Page/福山潤.md" title="wikilink">福山潤</a>（岸谷新羅）</p></td>
 </tr>
 <tr class="even">
 <td><p>#05</p></td>
 <td></td>
 <td><p>羊頭狗肉</p></td>
-<td><p><a href="../Page/村井貞之.md" title="wikilink">村井貞之</a></p></td>
-<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
-<td><p><a href="../Page/奧野治男.md" title="wikilink">奧野治男</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/村井貞之" title="wikilink">村井貞之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧野治男" title="wikilink">奧野治男</a></p></td>
 <td><p><a href="../Page/宮野真守.md" title="wikilink">宮野真守</a>（紀田正臣）</p></td>
 <td></td>
 </tr>
@@ -745,39 +746,39 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#06</p></td>
 <td></td>
 <td><p>東奔西走</p></td>
-<td><p><a href="../Page/太田愛.md" title="wikilink">太田愛</a></p></td>
-<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
-<td><p><a href="../Page/古谷田順久.md" title="wikilink">古谷田順久</a></p></td>
-<td><p><a href="../Page/田中織枝.md" title="wikilink">田中織枝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/太田愛" title="wikilink">太田愛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古谷田順久" title="wikilink">古谷田順久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中織枝" title="wikilink">田中織枝</a></p></td>
 <td><p><a href="../Page/中村悠一.md" title="wikilink">中村悠一</a>（門田京平）</p></td>
 </tr>
 <tr class="even">
 <td><p>#07</p></td>
 <td></td>
 <td><p>國士無雙</p></td>
-<td><p><a href="../Page/根元歲三.md" title="wikilink">根元歲三</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/根元歲三" title="wikilink">根元歲三</a></p></td>
 <td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a></p></td>
-<td><p><a href="../Page/八瀨祐樹.md" title="wikilink">八瀨祐樹</a></p></td>
-<td><p><a href="../Page/倉狩真吾.md" title="wikilink">倉狩真吾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/八瀨祐樹" title="wikilink">八瀨祐樹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/倉狩真吾" title="wikilink">倉狩真吾</a></p></td>
 <td><p><a href="../Page/小野大輔.md" title="wikilink">小野大輔</a>（平和島靜雄）</p></td>
 </tr>
 <tr class="odd">
 <td><p>#08</p></td>
 <td></td>
 <td><p>南柯一夢</p></td>
-<td><p><a href="../Page/吉永亞矢.md" title="wikilink">吉永亞矢</a></p></td>
-<td><p><a href="../Page/今掛勇.md" title="wikilink">今掛勇</a></p></td>
-<td><p><a href="../Page/市村徹夫.md" title="wikilink">市村徹夫</a></p></td>
-<td><p><a href="../Page/中村深雪.md" title="wikilink">中村深雪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉永亞矢" title="wikilink">吉永亞矢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/今掛勇" title="wikilink">今掛勇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/市村徹夫" title="wikilink">市村徹夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中村深雪" title="wikilink">中村深雪</a></p></td>
 <td><p><a href="../Page/澤城美雪.md" title="wikilink">澤城美雪</a>（塞爾堤·史特路爾森）</p></td>
 </tr>
 <tr class="even">
 <td><p>#09</p></td>
 <td></td>
 <td><p>依依戀戀</p></td>
-<td><p><a href="../Page/寺東克己.md" title="wikilink">寺東克己</a></p></td>
-<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
-<td><p><a href="../Page/福田紀之.md" title="wikilink">福田紀之</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寺東克己" title="wikilink">寺東克己</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福田紀之" title="wikilink">福田紀之</a></p></td>
 <td><p><a href="../Page/小林沙苗.md" title="wikilink">小林沙苗</a>（矢霧波江）</p></td>
 <td></td>
 </tr>
@@ -893,7 +894,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>寺東克己</p></td>
 <td><p>八瀨祐樹</p></td>
 <td><p>奥野治男、薮野浩二</p></td>
-<td><p><a href="../Page/藤原启治.md" title="wikilink">藤原启治</a>（葛原金之助）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤原启治" title="wikilink">藤原启治</a>（葛原金之助）</p></td>
 </tr>
 <tr class="even">
 <td><p>#20</p></td>
@@ -992,7 +993,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#02</p></td>
 <td></td>
 <td><p>以和為貴</p></td>
-<td><p><a href="../Page/菅沼榮治.md" title="wikilink">菅沼榮治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/菅沼榮治" title="wikilink">菅沼榮治</a></p></td>
 <td><p>田中織枝</p></td>
 <td><p>福山潤（岸谷新羅）</p></td>
 <td></td>
@@ -1050,7 +1051,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td></td>
 <td><p>難分曲直</p></td>
 <td><p>吉永亞矢</p></td>
-<td><p><a href="../Page/前園文夫.md" title="wikilink">前園文夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前園文夫" title="wikilink">前園文夫</a></p></td>
 <td><p>澤田美香</p></td>
 <td><p>|澤城美雪（塞爾堤･史特路爾森）</p></td>
 <td></td>
@@ -1093,7 +1094,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>根元歲三</p></td>
 <td><p>許平康</p></td>
 <td><p>西川繪奈、青野厚司</p></td>
-<td><p><a href="../Page/久野美咲.md" title="wikilink">久野美咲</a>（粟楠茜）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>（粟楠茜）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1195,7 +1196,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>犬川犬夫</p></td>
 <td><p>鴨居知世、富永拓生<br />
 粟井重紀</p></td>
-<td><p><a href="../Page/桑島法子.md" title="wikilink">桑島法子</a>（鯨木重）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桑島法子" title="wikilink">桑島法子</a>（鯨木重）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1430,7 +1431,7 @@ Heo Gidong</p></td>
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
 <th><p>播放日期</p></th>
-<th><p>播放時間（<a href="../Page/UTC.md" title="wikilink">UTC</a><a href="../Page/UTC+9.md" title="wikilink">+9</a>）</p></th>
+<th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬電視網</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -1445,7 +1446,7 @@ Heo Gidong</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a></p></td>
 <td><p>2010年1月7日－3月25日<br />
 2010年4月8日－6月24日</p></td>
@@ -1455,7 +1456,7 @@ Heo Gidong</p></td>
 <td><p><strong>製作局</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/關東廣域圈.md" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
 <td><p><a href="../Page/TBS電視台.md" title="wikilink">TBS電視台</a></p></td>
 <td><p>2010年1月8日－6月25日</p></td>
 <td><p>星期五 25時55分－26時25分</p></td>
@@ -1463,7 +1464,7 @@ Heo Gidong</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/中部日本放送.md" title="wikilink">中部日本放送</a></p></td>
 <td><p>2010年1月13日－6月30日</p></td>
 <td><p>星期三 26時00分－26時30分</p></td>
@@ -1475,13 +1476,13 @@ Heo Gidong</p></td>
 <td><p><a href="../Page/Animax.md" title="wikilink">Animax</a></p></td>
 <td><p>2010年4月9日－9月24日</p></td>
 <td><p>星期五 22時00分－22時30分</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">衛星電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">衛星電視</a></p></td>
 <td><p>LEVEL22節目<br />
 有重播</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2010年7月11日－9月26日<br />
 2011年1月2日－3月27日</p></td>
 <td><p>星期日 23時00分－23時30分</p></td>
@@ -1515,7 +1516,7 @@ Heo Gidong</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/群馬縣.md" title="wikilink">群馬縣</a></p></td>
-<td><p><a href="../Page/群馬電視台.md" title="wikilink">群馬電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/群馬電視台" title="wikilink">群馬電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1523,7 +1524,7 @@ Heo Gidong</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a></p></td>
-<td><p><a href="../Page/栃木電視台.md" title="wikilink">栃木電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/栃木電視台" title="wikilink">栃木電視台</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1531,7 +1532,7 @@ Heo Gidong</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/BS11.md" title="wikilink">BS11</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BS11" title="wikilink">BS11</a></p></td>
 <td><p>衛星電視</p></td>
 <td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
 <td></td>
@@ -1555,7 +1556,7 @@ Heo Gidong</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/NICONICO直播.md" title="wikilink">NICONICO直播</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO直播" title="wikilink">NICONICO直播</a></p></td>
 <td><p>2015年1月15日－4月2日</p></td>
 <td><p>星期四 22時30分－23時00分</p></td>
 <td><p>網絡電視</p></td>
@@ -1750,7 +1751,7 @@ Heo Gidong</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2016年6月2日－6月7日[10]</p></td>
 <td><p>每天（週六以外[11]）21:00－22:00</p></td>
-<td><p><a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
 <td><p>二集連播</p></td>
 </tr>
 <tr class="even">
@@ -1782,7 +1783,7 @@ Heo Gidong</p></td>
 <td><p><a href="../Page/Animax_Asia.md" title="wikilink">Animax</a></p></td>
 <td><p>2016年6月8日－6月13日[13]</p></td>
 <td><p>每天（週六以外[14]）21:00－22:00</p></td>
-<td><p><a href="../Page/有線電視.md" title="wikilink">有線電視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視</a></p></td>
 <td><p>二集連播</p></td>
 </tr>
 <tr class="even">
@@ -2085,8 +2086,9 @@ Heo Gidong</p></td>
 ## 遊戲
 
   -
-    2010年9月22日發售，[PSP遊戲](../Page/PlayStation_Portable.md "wikilink")。類型為[池袋疾走Adventure](../Page/冒險遊戲.md "wikilink")。
-    發行商[ASCII MEDIA WORKS](../Page/ASCII_MEDIA_WORKS.md "wikilink")，販售商。
+    2010年9月22日發售，[PSP遊戲](../Page/PlayStation_Portable.md "wikilink")。類型為[池袋疾走Adventure](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
+    發行商[ASCII MEDIA
+    WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")，販售商。
     2011年8月25日，包含追加要素的發售。
     2011年11月17日，[Android版](../Page/Android.md "wikilink")開始提供服務。
 
@@ -2095,12 +2097,13 @@ Heo Gidong</p></td>
   -
     預定2015年1月29日發售，[PlayStation
     Vita遊戲](../Page/PlayStation_Vita.md "wikilink")。類型為[池袋Relay
-    Adventure](../Page/冒險遊戲.md "wikilink")。
+    Adventure](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
 
 <!-- end list -->
 
-  - [電擊文庫 FIGHTING CLIMAX](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")
-    2014年3月18日發行的[街機遊戲](../Page/街機遊戲.md "wikilink")。類型為[2D對戰格鬥](../Page/格鬥遊戲.md "wikilink")。
+  - [電擊文庫 FIGHTING
+    CLIMAX](https://zh.wikipedia.org/wiki/電擊文庫_FIGHTING_CLIMAX "wikilink")
+    2014年3月18日發行的[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")。類型為[2D對戰格鬥](../Page/格鬥遊戲.md "wikilink")。
     由和開發，發行商為[世嘉](../Page/世嘉.md "wikilink")。
     [電擊文庫作品角色登場的格闘遊戲](../Page/電擊文庫.md "wikilink")。遊戲中登場的可控角色包括平和島靜雄，支援型角色包括塞爾堤･史特路爾森、折原臨也（家庭用）。
 
@@ -2110,7 +2113,7 @@ Heo Gidong</p></td>
 
 ## 參見
 
-  - [BACCANO\! 大騷動\!](../Page/BACCANO!.md "wikilink")
+  - [BACCANO\! 大騷動\!](https://zh.wikipedia.org/wiki/BACCANO! "wikilink")
 
 ## 註釋
 

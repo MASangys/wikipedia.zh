@@ -1,23 +1,23 @@
 **Kalafina**（台：華麗菲娜\[1\]，陸：卡拉菲娜）是[梶浦由記創立的](../Page/梶浦由記.md "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")，隸屬於[SPACE
 CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）\[2\]及[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）\[3\]\[4\]。2019年3月13日官方宣告解散\[5\]。
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")（唱片公司）\[3\]\[4\]。2019年3月13日官方宣告解散\[5\]。
 
 ## 概要
 
 [Kalafina_Signatures.png](https://zh.wikipedia.org/wiki/File:Kalafina_Signatures.png "fig:Kalafina_Signatures.png")
 音乐制作人[梶浦由記在](../Page/梶浦由記.md "wikilink")《[空之境界](../Page/空之境界.md "wikilink")》剧场版的制作方将7部剧场版的主题歌制作工作交给她以后，开始构思选拔新人女歌手组成新的音乐组合来负责主题歌的演唱工作\[6\]，并且当时举行了公开选拔\[7\]。最初梶浦以外的成员并没有公布，直到2008年4月－5月间举行的演唱会「[Revo](../Page/Revo.md "wikilink")＆梶浦由記Presents
 Dream Port
-2008」公演开始之际，最初的成员[Wakana和](../Page/大瀧若菜.md "wikilink")[Keiko被公开身份并参与到演唱会的演出之中](../Page/窪田啓子.md "wikilink")。梶浦同时曾经在杂志的访谈中说过「Kalafina是成员不固定的流动的组合」。如她所说，从第二张单曲《[sprinter/ARIA](../Page/sprinter/ARIA.md "wikilink")》开始，Hikaru和maya加入，4人组成的主音歌手阵容确立。第一张专辑《[Seventh
+2008」公演开始之际，最初的成员[Wakana和](../Page/大瀧若菜.md "wikilink")[Keiko被公开身份并参与到演唱会的演出之中](../Page/窪田啓子.md "wikilink")。梶浦同时曾经在杂志的访谈中说过「Kalafina是成员不固定的流动的组合」。如她所说，从第二张单曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》开始，Hikaru和maya加入，4人组成的主音歌手阵容确立。第一张专辑《[Seventh
 Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")》之后Maya离开，以后Wakana、Keiko、Hikaru三人以此名义开始展开音乐活动\[8\]。
 
-2008年1月23日，收录第一章至第三章主題歌的第一张单曲《[oblivious](../Page/oblivious.md "wikilink")》发售。预定全7章对应的7首主题歌收录于3张单曲中\[9\]。但是，因为oblivious成为了比预计高很多的人气作品，所以决定制作了Remix专辑《Re/oblivious》发售。
+2008年1月23日，收录第一章至第三章主題歌的第一张单曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》发售。预定全7章对应的7首主题歌收录于3张单曲中\[9\]。但是，因为oblivious成为了比预计高很多的人气作品，所以决定制作了Remix专辑《Re/oblivious》发售。
 
-当初构思是负责劇場版《空之境界》主题歌演唱工作的组合，其后电视动画《[黑执事](../Page/黑执事.md "wikilink")》片尾主題歌发表。
+当初构思是负责劇場版《空之境界》主题歌演唱工作的组合，其后电视动画《[黑执事](https://zh.wikipedia.org/wiki/黑执事 "wikilink")》片尾主題歌发表。
 
 2017年4月，由原先[SME
 Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")\[10\]。7月15日、16日四度來台，於台北 ATT
-SHOW BOX舉行九週年海外巡迴「Kalafina 9＋ONE 」\[11\]。
+MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")\[10\]。7月15日、16日四度來台，於台北
+ATT SHOW BOX舉行九週年海外巡迴「Kalafina 9＋ONE 」\[11\]。
 
 2017年12月，隨著[梶浦由記將在](../Page/梶浦由記.md "wikilink")2018年2月時離開所屬的事務所[SPACE
 CRAFT](../Page/SPACE_CRAFT.md "wikilink")，也跟著出現「Kalafina也因此中止相關活動」的報導\[12\]\[13\]。
@@ -34,7 +34,7 @@ CRAFT所屬之Kalafina成員Wakana會繼續單飛活動。
 
 大泷若菜和窪田啓子在上电台节目的时候说过，组合名称的由来是个秘密；在oblivious最初公布的时候，组合的成员尚未确定，谜团很多。
 
-[梶浦由記則在](../Page/梶浦由記.md "wikilink")2012年3月31日（[愚人節前一日](../Page/愚人節.md "wikilink")）於[Twitter](../Page/Twitter.md "wikilink")\[19\]
+[梶浦由記則在](../Page/梶浦由記.md "wikilink")2012年3月31日（[愚人節前一日](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）於[Twitter](../Page/Twitter.md "wikilink")\[19\]
 上表示：Kalafina一詞是來自古羅馬尼亞語Anifalak倒過來念，意思是「逆神者」。在愚人節後該則Tweet已經刪除並事後澄清\[20\]。
 
 2015年6月15日播出的NHK综合频道节目「Studio Park
@@ -59,7 +59,7 @@ no Kyoukai）无关。\[21\]
 
 <!-- end list -->
 
-  - [大泷若菜](../Page/大泷若菜.md "wikilink")（Wakana）
+  - [大泷若菜](https://zh.wikipedia.org/wiki/大泷若菜 "wikilink")（Wakana）
       - 同時為FictionJunction的一員。
       - 歌聲具有伸延性，帶清涼感的歌手。主要是高音部份。
   - [政井光](../Page/政井光.md "wikilink")（Hikaru）
@@ -74,11 +74,11 @@ no Kyoukai）无关。\[21\]
 
   - [梶浦由記](../Page/梶浦由記.md "wikilink")
   - [貝田由里子](../Page/貝田由里子.md "wikilink")
-  - [戶丸華江](../Page/戶丸華江.md "wikilink")
+  - [戶丸華江](https://zh.wikipedia.org/wiki/戶丸華江 "wikilink")
 
 ### 已离开成员
 
-  - [Maya](../Page/Maya_\(日本歌手\).md "wikilink")（主音歌手，第2张单曲～第1张专辑）
+  - [Maya](https://zh.wikipedia.org/wiki/Maya_\(日本歌手\) "wikilink")（主音歌手，第2张单曲～第1张专辑）
   - [窪田啓子](../Page/窪田啓子.md "wikilink")（Keiko，同時為FictionJunction的一員，唱出誘人的低音歌聲的歌手。2018年4月1日正式退社。)
 
 ## 作品
@@ -112,7 +112,7 @@ no Kyoukai）无关。\[21\]
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2008年1月23日</p></td>
-<td><p><strong><a href="../Page/oblivious.md" title="wikilink">oblivious</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/oblivious" title="wikilink">oblivious</a></strong></p></td>
 <td><p>SECL-585</p></td>
 <td><p>SECL-586</p></td>
 <td></td>
@@ -121,7 +121,7 @@ no Kyoukai）无关。\[21\]
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2008年7月30日</p></td>
-<td><p><strong><a href="../Page/sprinter/ARIA.md" title="wikilink">sprinter/ARIA</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/sprinter/ARIA" title="wikilink">sprinter/ARIA</a></strong></p></td>
 <td><p>SECL-669～70</p></td>
 <td><p>SECL-671</p></td>
 <td><p>10</p></td>
@@ -130,7 +130,7 @@ no Kyoukai）无关。\[21\]
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2008年12月24日</p></td>
-<td><p><strong><a href="../Page/fairytale.md" title="wikilink">fairytale</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/fairytale" title="wikilink">fairytale</a></strong></p></td>
 <td><p>SECL-733～4</p></td>
 <td><p>SECL-735</p></td>
 <td><p>9</p></td>
@@ -148,7 +148,7 @@ no Kyoukai）无关。\[21\]
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2009年7月1日</p></td>
-<td><p><strong><a href="../Page/storia.md" title="wikilink">storia</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/storia" title="wikilink">storia</a></strong></p></td>
 <td><p>SECL-786～7</p></td>
 <td><p>SECL-788</p></td>
 <td><p>15</p></td>
@@ -157,7 +157,7 @@ no Kyoukai）无关。\[21\]
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2009年10月28日</p></td>
-<td><p><strong><a href="../Page/progressive.md" title="wikilink">progressive</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/progressive" title="wikilink">progressive</a></strong></p></td>
 <td><p>SECL-814～5</p></td>
 <td><p>SECL-816</p></td>
 <td><p>14</p></td>
@@ -193,7 +193,7 @@ no Kyoukai）无关。\[21\]
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>2012年4月18日</p></td>
-<td><p><strong><a href="../Page/to_the_beginning.md" title="wikilink">to the beginning</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/to_the_beginning" title="wikilink">to the beginning</a></strong></p></td>
 <td><p>SECL-1088～9(A)<br />
 SECL-1090～1(B)</p></td>
 <td><p>SECL-1092</p></td>
@@ -232,7 +232,7 @@ SECL-1202～3(B)</p></td>
 <tr class="odd">
 <td><p>14th</p></td>
 <td><p>2013年11月6日</p></td>
-<td><p><strong><a href="../Page/君の銀の庭.md" title="wikilink">銀色庭園</a></strong><small>（）</small></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/君の銀の庭" title="wikilink">銀色庭園</a></strong><small>（）</small></p></td>
 <td><p>SECL-1417～8(A)<br />
 SECL-1419～20(B)</p></td>
 <td><p>SECL-1421</p></td>
@@ -242,7 +242,7 @@ SECL-1419～20(B)</p></td>
 <tr class="even">
 <td><p>15th</p></td>
 <td><p>2014年8月6日</p></td>
-<td><p><strong><a href="../Page/heavenly_blue.md" title="wikilink">heavenly blue</a></strong><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/heavenly_blue" title="wikilink">heavenly blue</a></strong><br />
 </p></td>
 <td></td>
 <td></td>
@@ -252,7 +252,7 @@ SECL-1419～20(B)</p></td>
 <tr class="odd">
 <td><p>16th</p></td>
 <td><p>2014年11月19日</p></td>
-<td><p><strong><a href="../Page/believe_(Kalafina單曲).md" title="wikilink">believe</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/believe_(Kalafina單曲)" title="wikilink">believe</a></strong></p></td>
 <td><p>SECL-1612～3(A)<br />
 SECL-1614～5(B)<br />
 </p></td>
@@ -263,7 +263,7 @@ SECL-1614～5(B)<br />
 <tr class="even">
 <td><p>17th</p></td>
 <td><p>2015年5月13日</p></td>
-<td><p><strong><a href="../Page/ring_your_bell.md" title="wikilink">ring your bell</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ring_your_bell" title="wikilink">ring your bell</a></strong></p></td>
 <td><p>SECL-1691～2 (A)<br />
 SECL-1693～4 (B)<br />
 </p></td>
@@ -284,7 +284,7 @@ SECL-1743～4(B)</p></td>
 <tr class="even">
 <td><p>19th</p></td>
 <td><p>2016年8月10日</p></td>
-<td><p><strong><a href="../Page/Blaze_(Kalafina單曲).md" title="wikilink">blaze</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Blaze_(Kalafina單曲)" title="wikilink">blaze</a></strong></p></td>
 <td><p>SECL-1956～7(A)<br />
 SECL-1958～9(B)</p></td>
 <td><p>SECL-1960</p></td>
@@ -381,7 +381,7 @@ SECL-1282～3(B)</p></td>
 <td><p>5th</p></td>
 <td><p>2015年9月16日<br />
 <small>（完全限定盤9月30日）</small></p></td>
-<td><p><strong><a href="../Page/far_on_the_water.md" title="wikilink">far on the water</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/far_on_the_water" title="wikilink">far on the water</a></strong></p></td>
 <td><p>SECL-1763～4(A)<br />
 SECL-1765～6(B)</p></td>
 <td><p>SECL-1767</p></td>
@@ -410,7 +410,7 @@ SECL-1765～6(B)</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2008年4月23日</p></td>
-<td><p><strong><a href="../Page/Re/oblivious.md" title="wikilink">Re/oblivious</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Re/oblivious" title="wikilink">Re/oblivious</a></strong></p></td>
 <td><p>SECL-639</p></td>
 <td><p>37</p></td>
 <td><p>6</p></td>
@@ -489,14 +489,14 @@ SECL-1765～6(B)</p></td>
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2014年7月16日</p></td>
-<td><p><strong><a href="../Page/THE_BEST_“Red”.md" title="wikilink">THE BEST “Red”</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_BEST_“Red”" title="wikilink">THE BEST “Red”</a></strong></p></td>
 <td><p>SECL-1530～1</p></td>
 <td><p>SECL-1534</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><strong><a href="../Page/THE_BEST_“Blue”.md" title="wikilink">THE BEST “Blue”</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_BEST_“Blue”" title="wikilink">THE BEST “Blue”</a></strong></p></td>
 <td><p>SECL-1532～3</p></td>
 <td><p>SECL-1535</p></td>
 <td><p>3</p></td>
@@ -598,7 +598,7 @@ SEBL-210（DVD）</p></td>
 <tr class="odd">
 <td><p><strong>oblivious</strong></p></td>
 <td><p>劇場版動畫《<a href="../Page/空之境界.md" title="wikilink">空之境界</a>》第一章 俯瞰風景 主題歌</p></td>
-<td><p>1st Single《<a href="../Page/oblivious.md" title="wikilink">oblivious</a>》</p></td>
+<td><p>1st Single《<a href="https://zh.wikipedia.org/wiki/oblivious" title="wikilink">oblivious</a>》</p></td>
 <td><p>1st Album《<a href="../Page/Seventh_Heaven_(Kalafina專輯).md" title="wikilink">Seventh Heaven</a>》</p></td>
 <td><p>THE BEST 「Red」</p></td>
 </tr>
@@ -619,7 +619,7 @@ SEBL-210（DVD）</p></td>
 <tr class="even">
 <td><p><strong>ARIA</strong></p></td>
 <td><p>劇場版動畫《空之境界》第四章 伽藍之洞 主題歌</p></td>
-<td><p>2nd Single《<a href="../Page/sprinter/ARIA.md" title="wikilink">sprinter/ARIA</a>》</p></td>
+<td><p>2nd Single《<a href="https://zh.wikipedia.org/wiki/sprinter/ARIA" title="wikilink">sprinter/ARIA</a>》</p></td>
 <td><p>THE BEST 「Red」</p></td>
 <td></td>
 </tr>
@@ -633,7 +633,7 @@ SEBL-210（DVD）</p></td>
 <tr class="even">
 <td><p><strong>fairytale</strong></p></td>
 <td><p>劇場版動畫《空之境界》第六章 忘却录音 主題歌</p></td>
-<td><p>3rd Single《<a href="../Page/fairytale.md" title="wikilink">fairytale</a>》</p></td>
+<td><p>3rd Single《<a href="https://zh.wikipedia.org/wiki/fairytale" title="wikilink">fairytale</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -646,16 +646,16 @@ SEBL-210（DVD）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Lacrimosa</strong></p></td>
-<td><p>电视动画《<a href="../Page/黑执事.md" title="wikilink">黑执事</a>》片尾曲2</p></td>
+<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/黑执事" title="wikilink">黑执事</a>》片尾曲2</p></td>
 <td><p>4th Single《<a href="../Page/Lacrimosa_(單曲).md" title="wikilink">Lacrimosa</a>》</p></td>
 <td><p>2nd Album《<a href="../Page/Red_Moon.md" title="wikilink">Red Moon</a>》</p></td>
 <td><p>THE BEST 「Red」</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>storia</strong></p></td>
-<td><p>NHK歷史特輯《<a href="../Page/歷史秘話.md" title="wikilink">歷史秘話Historia</a>》主題歌（2013年至今）<br />
+<td><p>NHK歷史特輯《<a href="https://zh.wikipedia.org/wiki/歷史秘話" title="wikilink">歷史秘話Historia</a>》主題歌（2013年至今）<br />
 NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
-<td><p>5th Single《<a href="../Page/storia.md" title="wikilink">storia</a>》</p></td>
+<td><p>5th Single《<a href="https://zh.wikipedia.org/wiki/storia" title="wikilink">storia</a>》</p></td>
 <td><p>THE BEST 「Blue」</p></td>
 <td></td>
 </tr>
@@ -682,14 +682,14 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>璀璨天空中的寂靜</strong></p></td>
-<td><p>電視動畫《<a href="../Page/黑執事II.md" title="wikilink">黑執事II</a>》劇中歌、第8集片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/黑執事II" title="wikilink">黑執事II</a>》劇中歌、第8集片尾曲</p></td>
 <td><p>8th Single《<a href="../Page/璀璨天空中的寂靜.md" title="wikilink">璀璨天空中的寂靜</a>》</p></td>
 <td><p>3rd Album《<a href="../Page/After_Eden.md" title="wikilink">After Eden</a>》</p></td>
 <td><p>THE BEST 「Red」</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Magia</strong></p></td>
-<td><p>電視動畫《<a href="../Page/魔法少女小圓.md" title="wikilink">魔法少女小圓</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/魔法少女小圓" title="wikilink">魔法少女小圓</a>》片尾曲</p></td>
 <td><p>9th Single《<a href="../Page/Magia.md" title="wikilink">Magia</a>》</p></td>
 <td><p>THE BEST 「Blue」</p></td>
 <td></td>
@@ -710,8 +710,8 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>to the beginning</strong></p></td>
-<td><p>電視動畫《<a href="../Page/Fate/Zero.md" title="wikilink">Fate/Zero</a>》第二季片頭曲</p></td>
-<td><p>10th Single《<a href="../Page/to_the_beginning.md" title="wikilink">to the beginning</a>》</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/Fate/Zero" title="wikilink">Fate/Zero</a>》第二季片頭曲</p></td>
+<td><p>10th Single《<a href="https://zh.wikipedia.org/wiki/to_the_beginning" title="wikilink">to the beginning</a>》</p></td>
 <td><p>4th Album《<a href="../Page/Consolation.md" title="wikilink">Consolation</a>》</p></td>
 <td></td>
 </tr>
@@ -760,14 +760,14 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>哈利路亞</strong></p></td>
-<td><p>劇場版動畫《<a href="../Page/空之境界_未来福音.md" title="wikilink">空之境界 未来福音</a>》主題曲</p></td>
+<td><p>劇場版動畫《<a href="https://zh.wikipedia.org/wiki/空之境界_未来福音" title="wikilink">空之境界 未来福音</a>》主題曲</p></td>
 <td><p>13th Single《<a href="../Page/哈利路亞_(Kalafina單曲).md" title="wikilink">哈利路亞</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>dolce</strong></p></td>
-<td><p>劇場版動畫《<a href="../Page/空之境界_未来福音.md" title="wikilink">空之境界 未来福音 extra chorus</a>》主題曲</p></td>
+<td><p>劇場版動畫《<a href="https://zh.wikipedia.org/wiki/空之境界_未来福音" title="wikilink">空之境界 未来福音 extra chorus</a>》主題曲</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -789,21 +789,21 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <tr class="even">
 <td><p><strong>heavenly blue</strong></p></td>
 <td><p>電視動畫《<a href="../Page/ALDNOAH.ZERO.md" title="wikilink">ALDNOAH.ZERO</a>》片頭曲</p></td>
-<td><p>15th Single《<a href="../Page/heavenly_blue.md" title="wikilink">heavenly blue</a>》</p></td>
+<td><p>15th Single《<a href="https://zh.wikipedia.org/wiki/heavenly_blue" title="wikilink">heavenly blue</a>》</p></td>
 <td><p>5th Album《far on the water》</p></td>
 <td><p>THE BEST 「Blue」</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>believe</strong></p></td>
-<td><p>電視動畫《<a href="../Page/Fate/stay_night.md" title="wikilink">Fate/stay night -Unlimited Blade Works-</a>》片尾曲</p></td>
-<td><p>16th Single《<a href="../Page/believe_(Kalafina單曲).md" title="wikilink">believe</a>》</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/Fate/stay_night" title="wikilink">Fate/stay night -Unlimited Blade Works-</a>》片尾曲</p></td>
+<td><p>16th Single《<a href="https://zh.wikipedia.org/wiki/believe_(Kalafina單曲)" title="wikilink">believe</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>ring your bell</strong></p></td>
 <td><p>電視動畫《Fate/stay night -Unlimited Blade Works-》第二季片尾曲</p></td>
-<td><p>17th Single《<a href="../Page/ring_your_bell.md" title="wikilink">ring your bell</a>》</p></td>
+<td><p>17th Single《<a href="https://zh.wikipedia.org/wiki/ring_your_bell" title="wikilink">ring your bell</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -839,13 +839,13 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <tr class="odd">
 <td><p>blaze</p></td>
 <td><p>電視動畫《<a href="../Page/亞爾斯蘭戰記.md" title="wikilink">亞爾斯蘭戰記 風塵亂舞</a>》片尾曲</p></td>
-<td><p>19th Single《<a href="../Page/blaze.md" title="wikilink">blaze</a>》</p></td>
+<td><p>19th Single《<a href="https://zh.wikipedia.org/wiki/blaze" title="wikilink">blaze</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>百火撩乱</strong></p></td>
-<td><p>電視動畫《<a href="../Page/活撃/刀剣乱舞.md" title="wikilink">活撃/刀剣乱舞</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/活撃/刀剣乱舞" title="wikilink">活撃/刀剣乱舞</a>》片尾曲</p></td>
 <td><p>21th Single《百火撩乱》</p></td>
 <td></td>
 <td></td>
@@ -872,9 +872,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
     2008（、、[東京國際論壇](../Page/東京國際論壇.md "wikilink") Hall
     A）
   - 7月31日 Yuki Kajiura LIVE Vol.2＃（[Shibuya
-    O-WEST](../Page/Shibuya_O-WEST.md "wikilink")）
+    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
   - 12月27日 Yuki Kajiura LIVE Vol.3＃
-    （[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")）
+    （[横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
 
 <!-- end list -->
 
@@ -882,15 +882,17 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 4月16日 （[morph-tokyo](../Page/morph-tokyo.md "wikilink")）
+  - 4月16日
+    （[morph-tokyo](https://zh.wikipedia.org/wiki/morph-tokyo "wikilink")）
   - 5月2日 Pop Up Japan★Special（）
   - 5月7日 （morph-tokyo）
-  - 5月19日 （[Shibuya O-WEST](../Page/Shibuya_O-WEST.md "wikilink")）
+  - 5月19日 （[Shibuya
+    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")）
   - 6月14日 （）
   - 6月17日 （morph-tokyo）
   - 7月22日 Storia（morph-tokyo）
   - 8月26日 Kalafina Live 2009“storia”（[Shibuya
-    O-EAST](../Page/Shibuya_O-EAST.md "wikilink")）
+    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
   - 9月15日 Heaven＆Earth（morph-tokyo）
   - 10月11日 （）
   - 10月15日 fairytale（morph-tokyo）
@@ -899,7 +901,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
   - 11月18日 progressive（morph-tokyo）
   - 12月23日 Bright Christmas 2009 Kalafina Special Mini LIVE（）
   - 12月27日 Kalafina LIVE 2009
-    “progressive”([横浜BLITZ](../Page/横浜BLITZ.md "wikilink")）
+    “progressive”([横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")）
 
 <!-- end list -->
 
@@ -907,9 +909,11 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 <!-- end list -->
 
-  - 2月20日 （[LIQUIDROOM](../Page/LIQUIDROOM.md "wikilink")）
+  - 2月20日
+    （[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")）
   - 3月14日 （）
-  - 3月19日 （[TOWER RECORDS新宿店](../Page/TOWER_RECORDS.md "wikilink")）
+  - 3月19日 （[TOWER
+    RECORDS新宿店](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")）
   - 3月20日 （）
   - 3月21日 （TOWER RECORDS梅田NU茶屋町店）
   - 5月8日 LaLaport MUSIC JAM Vol.28公開錄音（LaLaport TOKYO-BAY）
@@ -924,8 +928,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
   - 11月3日 ANIMAX MUSIX FALL 2010（[橫濱體育館](../Page/橫濱體育館.md "wikilink")）
   - 12月10日 （）
   - 12月17日 Kalafina LIVE 2010“Red Moon”in Taipei（Legacy Taipei傳音樂展演空間）
-  - 12月19日 [Lis Ani\!LIVE](../Page/Lis_Ani!.md "wikilink") 2010 DAY
-    STAGE/NIGHT STAGE（東京國際論壇 Hall A）
+  - 12月19日 [Lis
+    Ani\!LIVE](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink") 2010
+    DAY STAGE/NIGHT STAGE（東京國際論壇 Hall A）
 
 <!-- end list -->
 
@@ -934,9 +939,10 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <!-- end list -->
 
   - 1月29日  vol.5（[德島市](../Page/德島市.md "wikilink")）
-      - Kalafina 一日站長（JR[德島車站](../Page/德島車站.md "wikilink")）
       - Kalafina
-        （[德島市](../Page/德島市.md "wikilink")[新町橋東公園](../Page/新町橋.md "wikilink")）
+        一日站長（JR[德島車站](https://zh.wikipedia.org/wiki/德島車站 "wikilink")）
+      - Kalafina
+        （[德島市](../Page/德島市.md "wikilink")[新町橋東公園](https://zh.wikipedia.org/wiki/新町橋 "wikilink")）
   - 5月1日 ORICON INFINITY MUSIC 2011at UNIVERSAL STUDIOS
     JAPAN®（[日本環球影城](../Page/日本環球影城.md "wikilink") ）
   - 11月25日 “After Eden” Special LIVE 2011（TOKYO DOME CITY HALL）
@@ -970,17 +976,21 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <!-- end list -->
 
   - Kalafina LIVE TOUR 2010 ～progressive ＋～（2月2日 [Umeda
-    AKASO](../Page/Umeda_AKASO.md "wikilink")、2月3日
-    [ボトムライン名古屋](../Page/ボトムライン名古屋.md "wikilink")、2月9日
-    [Shibuya O-EAST](../Page/Shibuya_O-EAST.md "wikilink")）
-  - Kalafina LIVE TOUR 2010 in Asia（2月26日 [台北](../Page/台北.md "wikilink")
-    1710 Live Studio、2月28日 [上海](../Page/上海.md "wikilink") MAO Livehouse
-    SHANGHAI、3月7日 [香港](../Page/香港.md "wikilink") HITEC Auditorium）
+    AKASO](https://zh.wikipedia.org/wiki/Umeda_AKASO "wikilink")、2月3日
+    [ボトムライン名古屋](https://zh.wikipedia.org/wiki/ボトムライン名古屋 "wikilink")、2月9日
+    [Shibuya
+    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")）
+  - Kalafina LIVE TOUR 2010 in Asia（2月26日
+    [台北](https://zh.wikipedia.org/wiki/台北 "wikilink") 1710 Live
+    Studio、2月28日 [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") MAO
+    Livehouse SHANGHAI、3月7日 [香港](../Page/香港.md "wikilink") HITEC
+    Auditorium）
   - Kajiura Produce 3rd Anniversary LIVE TOUR～Kalafina LIVE 2010“Red
-    Moon”～（5月15日　[なんばHatch](../Page/なんばHatch.md "wikilink")、5月29日
-    [横浜BLITZ](../Page/横浜BLITZ.md "wikilink")、6月5日
-    [名古屋DIAMOND](../Page/名古屋.md "wikilink") HALL、6月12日
-    [東京JCB](../Page/東京.md "wikilink") HALL）
+    Moon”～（5月15日　[なんばHatch](https://zh.wikipedia.org/wiki/なんばHatch "wikilink")、5月29日
+    [横浜BLITZ](https://zh.wikipedia.org/wiki/横浜BLITZ "wikilink")、6月5日
+    [名古屋DIAMOND](https://zh.wikipedia.org/wiki/名古屋 "wikilink")
+    HALL、6月12日 [東京JCB](https://zh.wikipedia.org/wiki/東京 "wikilink")
+    HALL）
   - Kalafina LIVE 2010 “” （12月10日\[追加公演\]・11日 ）
 
 <!-- end list -->
@@ -990,8 +1000,9 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 <!-- end list -->
 
   - Kalafina LIVE Spring TOUR 2011 “Magia” （3月27日 NHK大阪Hall
-    4月2日　[富山県民会館](../Page/富山県民会館.md "wikilink")　4月8日
-    [名古屋市芸術創造センター](../Page/名古屋市芸術創造センター.md "wikilink") 4月15日 NHK Hall）
+    4月2日　[富山県民会館](https://zh.wikipedia.org/wiki/富山県民会館 "wikilink")　4月8日
+    [名古屋市芸術創造センター](https://zh.wikipedia.org/wiki/名古屋市芸術創造センター "wikilink")
+    4月15日 NHK Hall）
 
 <!-- end list -->
 
@@ -1008,11 +1019,12 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 ### 廣播
 
-  - [こむちゃっとカウントダウン](../Page/こむちゃっとカウントダウン.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")，2008年12月6日、2010年1月16日、2010年8月14日）
+  - [こむちゃっとカウントダウン](https://zh.wikipedia.org/wiki/こむちゃっとカウントダウン "wikilink")（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")，2008年12月6日、2010年1月16日、2010年8月14日）
   - [THE
-    WORKS](../Page/THE_WORKS.md "wikilink")（[NACK5](../Page/NACK5.md "wikilink")，2009年6月14日）
-  - [FEEL SO MUSE](../Page/FEEL_SO_MUSE.md "wikilink")（[FM
-    FUJI](../Page/FM_FUJI.md "wikilink")，2009年6月26日）
+    WORKS](https://zh.wikipedia.org/wiki/THE_WORKS "wikilink")（[NACK5](https://zh.wikipedia.org/wiki/NACK5 "wikilink")，2009年6月14日）
+  - [FEEL SO
+    MUSE](https://zh.wikipedia.org/wiki/FEEL_SO_MUSE "wikilink")（[FM
+    FUJI](https://zh.wikipedia.org/wiki/FM_FUJI "wikilink")，2009年6月26日）
   - MUSIC GENERATION FROM K-WEST
     (BAY-FM、2009年6月30日・2010年1月18日・2010年9月14日)
   - アニコボ (ニッポン放送、2009年6月30日・7月7日)
@@ -1037,27 +1049,29 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 ### 電視
 
-  - [ぐるっと関西おひるまえ](../Page/ぐるっと関西おひるまえ.md "wikilink")（[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")，2009年7月10日）
-  - [うたたね](../Page/うたたね.md "wikilink")（[TOKYO
-    MX](../Page/TOKYO_MX.md "wikilink")，2009年7月18日）
-  - [MUSIC JAPAN リクエスト](../Page/MUSIC_JAPAN_リクエスト.md "wikilink")（[MUSIC
-    JAPAN TV](../Page/MUSIC_JAPAN_TV.md "wikilink")，2009年7月22日）
-  - [アニメ&特撮大好き\!O・BA・MA](../Page/アニメ&特撮大好き!O・BA・MA.md "wikilink")（MUSIC
+  - [ぐるっと関西おひるまえ](https://zh.wikipedia.org/wiki/ぐるっと関西おひるまえ "wikilink")（[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")，2009年7月10日）
+  - [うたたね](https://zh.wikipedia.org/wiki/うたたね "wikilink")（[TOKYO
+    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，2009年7月18日）
+  - [MUSIC JAPAN
+    リクエスト](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_リクエスト "wikilink")（[MUSIC
+    JAPAN
+    TV](https://zh.wikipedia.org/wiki/MUSIC_JAPAN_TV "wikilink")，2009年7月22日）
+  - [アニメ&特撮大好き\!O・BA・MA](https://zh.wikipedia.org/wiki/アニメ&特撮大好き!O・BA・MA "wikilink")（MUSIC
     JAPAN TV，2009年8月1日）
   - [劇場版「空の境界」特別番組
     ～全七章の軌跡～](../Page/空之境界.md "wikilink")（[TBS](../Page/TBS.md "wikilink")，2009年8月2日）
-  - [アニぱら音楽館](../Page/アニぱら音楽館.md "wikilink")（[キッズステーション](../Page/キッズステーション.md "wikilink")，2009年11月3日）
+  - [アニぱら音楽館](https://zh.wikipedia.org/wiki/アニぱら音楽館 "wikilink")（[キッズステーション](https://zh.wikipedia.org/wiki/キッズステーション "wikilink")，2009年11月3日）
   - [MUSIC JAPAN
     新世紀アニソンSP2](../Page/MUSIC_JAPAN.md "wikilink")（[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")，2010年1月10日）
   - [MUSIC JAPAN
-    新世紀アニソンSP2完全版](../Page/MUSIC_JAPAN.md "wikilink")（[NHK-BS2](../Page/NHK-BS2.md "wikilink")，2010年2月13日）
-  - [Mライブ](../Page/Mライブ.md "wikilink")（TBS，2010年3月23日）
-  - [魁\!音楽番付Eight](../Page/魁!音楽番付Eight.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")，2010年5月5日）
-  - [おもいッきりPON\!](../Page/おもいッきりPON!.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2010年9月13日）
+    新世紀アニソンSP2完全版](../Page/MUSIC_JAPAN.md "wikilink")（[NHK-BS2](https://zh.wikipedia.org/wiki/NHK-BS2 "wikilink")，2010年2月13日）
+  - [Mライブ](https://zh.wikipedia.org/wiki/Mライブ "wikilink")（TBS，2010年3月23日）
+  - [魁\!音楽番付Eight](https://zh.wikipedia.org/wiki/魁!音楽番付Eight "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")，2010年5月5日）
+  - [おもいッきりPON\!](https://zh.wikipedia.org/wiki/おもいッきりPON! "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")，2010年9月13日）
 
 ## 相关项目
 
-  - [梶浦由记](../Page/梶浦由记.md "wikilink")
+  - [梶浦由记](https://zh.wikipedia.org/wiki/梶浦由记 "wikilink")
   - [空之境界](../Page/空之境界.md "wikilink")
   - [FictionJunction](../Page/FictionJunction.md "wikilink")
 

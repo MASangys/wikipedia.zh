@@ -1,13 +1,15 @@
-**Shiira** (シイラ, [鯕鳅](../Page/鯕鳅.md "wikilink")) 是运行在[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")
-[操作系统下的一款](../Page/操作系统.md "wikilink")[开源](../Page/开源.md "wikilink")[浏览器](../Page/浏览器.md "wikilink").
+**Shiira** (シイラ, [鯕鳅](https://zh.wikipedia.org/wiki/鯕鳅 "wikilink"))
+是运行在[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
+[操作系统下的一款](../Page/操作系统.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink").
 根据官方网站的表述，Shiira的目标是创造出一款比[Safari更好](../Page/Safari.md "wikilink")、更有用的浏览器。
 
 浏览器项目由日本的Makoto
-Kinoshita领导，基于[Webkit引擎开发](../Page/Webkit.md "wikilink")。
+Kinoshita领导，基于[Webkit引擎开发](https://zh.wikipedia.org/wiki/Webkit "wikilink")。
 
-目前最新的发行版是2.3版，于2009年8月发布，要求[Mac OS X](../Page/Mac_OS_X.md "wikilink")
-10.4或以上版本操作系统。 提供给OS X 10.3的最终版本是1.2.2
+目前最新的发行版是2.3版，于2009年8月发布，要求[Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.4或以上版本操作系统。
+提供给OS X 10.3的最终版本是1.2.2
 
 ## 功能特点
 

@@ -1,12 +1,12 @@
 **Microsoft Messenger for Mac**，原名為**MSN Messenger for
-Mac**，是[微軟Macintosh](../Page/微軟.md "wikilink") Business
-Unit為[Mac OS
-X開發的](../Page/Mac_OS_X.md "wikilink")[即時通訊軟件](../Page/即時通訊軟件.md "wikilink")。然而與[Windows
+Mac**，是[微軟Macintosh](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+Business Unit為[Mac OS
+X開發的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。然而與[Windows
 Live
 Messenger相比](../Page/Windows_Live_Messenger.md "wikilink")，Microsoft
 Messenger for
-Mac仍然缺少了一些功能，如離線訊息及與[Windows之間的對應等](../Page/Windows.md "wikilink")。因此如[Adium](../Page/Adium.md "wikilink")、[emesene](../Page/emesene.md "wikilink")、[Mercury
-Messenger及](../Page/Mercury_Messenger.md "wikilink")[aMSN等類似軟體在Mac](../Page/aMSN.md "wikilink")
+Mac仍然缺少了一些功能，如離線訊息及與[Windows之間的對應等](https://zh.wikipedia.org/wiki/Windows "wikilink")。因此如[Adium](../Page/Adium.md "wikilink")、[emesene](https://zh.wikipedia.org/wiki/emesene "wikilink")、[Mercury
+Messenger及](../Page/Mercury_Messenger.md "wikilink")[aMSN等類似軟體在Mac](https://zh.wikipedia.org/wiki/aMSN "wikilink")
 OS X上陸續開發使用。
 
 ## 版本
@@ -23,9 +23,11 @@ Messenger 4.0相似。5.0版本使用brushed metal為主題。
   - 7.0.0版本 需使用Mac OS X 10.4.9或更新，發佈於2008年4月29日。
   - 7.0.1版本 需使用Mac OS X 10.4或更新，包括小規模的錯誤修復。
   - 7.0.2版本 需使用Mac OS X 10.4或更新，提高與微軟[Office Communicator
-    2007](../Page/Office_Communicator_2007.md "wikilink") R2的整體素質和對話。
+    2007](https://zh.wikipedia.org/wiki/Office_Communicator_2007 "wikilink")
+    R2的整體素質和對話。
   - 8.0.1版本 需使用Mac OS X 10.5或更新，支持跨平台的视频/音频功能。隨附在[Microsoft Office 2011
-    for Mac之中](../Page/Microsoft_Office_for_Mac.md "wikilink")
+    for
+    Mac之中](https://zh.wikipedia.org/wiki/Microsoft_Office_for_Mac "wikilink")
 
 ## 功能比較
 
@@ -49,13 +51,14 @@ Microsoft Messenger for Mac沒有Windows Live Messenger的以下功能:
 
   - [Windows Live
     Messenger](../Page/Windows_Live_Messenger.md "wikilink")
-  - [MSN Messenger](../Page/MSN_Messenger.md "wikilink")
+  - [MSN
+    Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")
   - [Windows Messenger](../Page/Windows_Messenger.md "wikilink")
   - [Macintosh Business
-    Unit](../Page/Macintosh_Business_Unit.md "wikilink")
-  - [iChat](../Page/iChat.md "wikilink")
-  - [aMSN](../Page/aMSN.md "wikilink")
-  - [即時通訊軟件比較](../Page/即時通訊軟件比較.md "wikilink")
+    Unit](https://zh.wikipedia.org/wiki/Macintosh_Business_Unit "wikilink")
+  - [iChat](https://zh.wikipedia.org/wiki/iChat "wikilink")
+  - [aMSN](https://zh.wikipedia.org/wiki/aMSN "wikilink")
+  - [即時通訊軟件比較](https://zh.wikipedia.org/wiki/即時通訊軟件比較 "wikilink")
 
 ## 外部連結
 
@@ -65,9 +68,9 @@ Microsoft Messenger for Mac沒有Windows Live Messenger的以下功能:
     Features](http://www.applematters.com/index.php/section/comments/messenger-for-mac-6-reviewed/)
 
 [en:Windows Live Messenger\#Microsoft Messenger for
-Mac](../Page/en:Windows_Live_Messenger#Microsoft_Messenger_for_Mac.md "wikilink")
+Mac](https://zh.wikipedia.org/wiki/en:Windows_Live_Messenger#Microsoft_Messenger_for_Mac "wikilink")
 [es:Microsoft Messenger para
-Mac](../Page/es:Microsoft_Messenger_para_Mac.md "wikilink")
+Mac](https://zh.wikipedia.org/wiki/es:Microsoft_Messenger_para_Mac "wikilink")
 
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink")

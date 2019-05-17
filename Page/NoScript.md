@@ -1,10 +1,11 @@
 **NoScript** 是一个为 [Mozilla
-Firefox](../Page/Mozilla_Firefox.md "wikilink") 和 [Mozilla Application
-Suite](../Page/Mozilla_Application_Suite.md "wikilink")[网页](../Page/网页.md "wikilink")[浏览器](../Page/浏览器.md "wikilink")
+Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 和
+[Mozilla Application
+Suite](../Page/Mozilla_Application_Suite.md "wikilink")[网页](https://zh.wikipedia.org/wiki/网页 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")
 （诸如[Flock](../Page/Flock.md "wikilink")、[SeaMonkey等](../Page/SeaMonkey.md "wikilink")）
 所开发的[自由的](../Page/自由软件.md "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink")（Add-ons）。NoScript
-以[白名单选择性执行](../Page/白名单.md "wikilink")
-[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Flash](../Page/Adobe_Flash.md "wikilink")、[Sliverlight](../Page/Microsoft_Silverlight.md "wikilink")
+以[白名单选择性执行](https://zh.wikipedia.org/wiki/白名单 "wikilink")
+[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Flash](../Page/Adobe_Flash.md "wikilink")、[Sliverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
 以及其它插件和脚本内容。\[1\]
 
 ## 特点
@@ -12,51 +13,51 @@ Suite](../Page/Mozilla_Application_Suite.md "wikilink")[网页](../Page/网页.m
 ### 安全和使用方法
 
 在安装之后，JavaScript、Java、Flash、Sliverlight和其它可执行内容都会被Firefox默认阻止。用户可以手动允许这些内容。\[2\]
-NoScript会在Firefox中占据一个[工具栏图标或是一个](../Page/工具栏.md "wikilink")[状态栏图标](../Page/状态栏.md "wikilink")，并显示正在浏览的页面上每个站点的内容被阻止或允许的情况，同时也可以修改之前阻止或允许的内容。
+NoScript会在Firefox中占据一个[工具栏图标或是一个](../Page/工具栏.md "wikilink")[状态栏图标](https://zh.wikipedia.org/wiki/状态栏 "wikilink")，并显示正在浏览的页面上每个站点的内容被阻止或允许的情况，同时也可以修改之前阻止或允许的内容。
 
 ### 站点匹配和白名单
 
 对于每个页面，可以选择允许特定的地址，特定的域名或是根域名并执行它的内容。同时，允许一个域名之后（例如,
 mozilla.org），它的所有二级域名都会被默认允许（例如 www.mozilla.org,
 addons.mozilla.org
-等等）而且与协议无关（例如[HTTP和](../Page/HTTP.md "wikilink")[HTTPS](../Page/HTTPS.md "wikilink")）。而允许一个地址之后（协议:主机
+等等）而且与协议无关（例如[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")）。而允许一个地址之后（协议:主机
 例如 <http://www.mozilla.org> ），它的所有子目录都会被允许 （例如
 <http://www.mozilla.org/firefox> 和 <http://www.mozilla.org/thunderbird>
 ），此时它的根域名和以及其它二级域名不会被。因此，mozilla.org和addons.mozilla.org就不会被自动允许。\[3\]
 
 ### 黑名单
 
-页面也可以在NoScript中被列入黑名单。把一个页面列入黑名单不仅会阻止执行脚本内容，同时还会去掉手动执行这些内容的选项。\[4\]即使安全設定低於預設值，NoScript還是可以阻擋一些網頁攻擊，例如[DNS重新綁定攻擊](../Page/DNS重新綁定攻擊.md "wikilink")\[5\]。
+页面也可以在NoScript中被列入黑名单。把一个页面列入黑名单不仅会阻止执行脚本内容，同时还会去掉手动执行这些内容的选项。\[4\]即使安全設定低於預設值，NoScript還是可以阻擋一些網頁攻擊，例如[DNS重新綁定攻擊](https://zh.wikipedia.org/wiki/DNS重新綁定攻擊 "wikilink")\[5\]。
 
 ### 反XSS防护
 
 2007年4月11日，NoScript
-1.1.4.7版公开发布\[6\]，新增了一个客户端的保护，针对类型0和类型1的[XSS攻击](../Page/跨网站指令码.md "wikilink")。一旦一个页面试图将HTML或是JavaScript代码插入另一个页面，NoScript就会过滤掉有害请求。\[7\]
+1.1.4.7版公开发布\[6\]，新增了一个客户端的保护，针对类型0和类型1的[XSS攻击](https://zh.wikipedia.org/wiki/跨网站指令码 "wikilink")。一旦一个页面试图将HTML或是JavaScript代码插入另一个页面，NoScript就会过滤掉有害请求。\[7\]
 
 ### 强制HTTPS转换
 
 2008年9月15日，NoScript
-1.8.1版公开发布\[8\]，使得用户可以强制某些网站必须通过https访问，增加安全性。此外NoScript也可以强制https网站把[cookies加密来阻止cookies劫持](../Page/cookie.md "wikilink")。\[9\]
+1.8.1版公开发布\[8\]，使得用户可以强制某些网站必须通过https访问，增加安全性。此外NoScript也可以强制https网站把[cookies加密来阻止cookies劫持](https://zh.wikipedia.org/wiki/cookie "wikilink")。\[9\]
 2009年9月23日，NoScript
-1.9.8.9版增加了对[HSTS的支持](../Page/HSTS.md "wikilink")。\[10\]这一功能使得用户在访问支持的网站（例如，[PayPal](../Page/PayPal.md "wikilink")）的时候自动只通过HTTPS访问，以防止[中间人攻击](../Page/中间人攻击.md "wikilink")。\[11\]
+1.9.8.9版增加了对[HSTS的支持](https://zh.wikipedia.org/wiki/HSTS "wikilink")。\[10\]这一功能使得用户在访问支持的网站（例如，[PayPal](../Page/PayPal.md "wikilink")）的时候自动只通过HTTPS访问，以防止[中间人攻击](../Page/中间人攻击.md "wikilink")。\[11\]
 
 ### 默认阻止一切
 
 NoScript的默认行为是阻止所有不在白名单中的脚本。这可能使大量依赖于JavaScript技术，例如[AJAX的页面无法正常工作](../Page/AJAX.md "wikilink")。不熟悉的用户也许会觉得相比起增加的安全保护而付出的麻烦不值得。\[12\]
 
-但同时NoScript也支持一个可选的黑名单模式：用户可以选择全局启用JavaScript然后禁止他们不信任的站点。即便如此配置，NoScript仍然能在很大程度上增强安全性，由于仍然具有[XSS](../Page/跨网站指令码.md "wikilink")、[CSRF和](../Page/跨站请求伪造.md "wikilink")[点击劫持等防护功能](../Page/点击劫持.md "wikilink")。
+但同时NoScript也支持一个可选的黑名单模式：用户可以选择全局启用JavaScript然后禁止他们不信任的站点。即便如此配置，NoScript仍然能在很大程度上增强安全性，由于仍然具有[XSS](https://zh.wikipedia.org/wiki/跨网站指令码 "wikilink")、[CSRF和](../Page/跨站请求伪造.md "wikilink")[点击劫持等防护功能](../Page/点击劫持.md "wikilink")。
 
 ### 内置的白名单
 
 ,
 NoScript的白名单默认包含了扩展作者的部分域名，一些[Google的域名](../Page/Google.md "wikilink")（包括一个必要的用于显示[Google
-Adsense广告的域名](../Page/Google_Adsense.md "wikilink")），[雅虎以及](../Page/雅虎.md "wikilink")[微软](../Page/微软.md "wikilink")，由于这些使用了[AJAX的Web邮件服务可能是某些用户唯一熟悉的使用邮件方式](../Page/AJAX.md "wikilink")，如果不这样做，这些用户就会在安装NoScript之后无意地把他们自己锁住。这个白名单是可以修改的。
+Adsense广告的域名](https://zh.wikipedia.org/wiki/Google_Adsense "wikilink")），[雅虎以及](../Page/雅虎.md "wikilink")[微软](../Page/微软.md "wikilink")，由于这些使用了[AJAX的Web邮件服务可能是某些用户唯一熟悉的使用邮件方式](../Page/AJAX.md "wikilink")，如果不这样做，这些用户就会在安装NoScript之后无意地把他们自己锁住。这个白名单是可以修改的。
 \[13\]
 
 ## 奖项
 
 NoScript被[PC
-World杂志评为](../Page/PC_World.md "wikilink")2006年百大最佳产品之一。\[14\]
+World杂志评为](https://zh.wikipedia.org/wiki/PC_World "wikilink")2006年百大最佳产品之一。\[14\]
 
 ## 评论
 
@@ -78,8 +79,8 @@ Plus白名单是对EasyList反常性 “攻击”
 ### NoScript网站和Ghostery扩展的冲突
 
 2009年5月1日\[21\]以及2009年5月3日\[22\]在讨论NoScript对Adblock
-Plus的修改时，有人在NoScript支持论坛中指出NoScript官网上有一个[CSS规则不停让](../Page/CSS.md "wikilink")[Ghostery这个](../Page/Ghostery.md "wikilink")[Mozilla扩展弹出提示](../Page/Firefox扩展列表.md "wikilink")，表示网页上有奇怪而隐蔽的"bug"。Ghostery也会提示用户Manoe网站上[Google
-Adsense的使用](../Page/Google_Adsense.md "wikilink")。Manoe在回应中宣称他的CSS没有做出这些，Ghostery的提示是由于其自身的技术问题，同时这些提示看起来很糟糕而且妨碍了网页真实效果的展示。\[23\]在之后的声明中Manoe又特别批评这些提示挡住了了捐款按钮和使用许可的显示\[24\]\[25\]并且表示他的CSS没有阻止Ghostery的正常工作。\[26\]
+Plus的修改时，有人在NoScript支持论坛中指出NoScript官网上有一个[CSS规则不停让](https://zh.wikipedia.org/wiki/CSS "wikilink")[Ghostery这个](https://zh.wikipedia.org/wiki/Ghostery "wikilink")[Mozilla扩展弹出提示](../Page/Firefox扩展列表.md "wikilink")，表示网页上有奇怪而隐蔽的"bug"。Ghostery也会提示用户Manoe网站上[Google
+Adsense的使用](https://zh.wikipedia.org/wiki/Google_Adsense "wikilink")。Manoe在回应中宣称他的CSS没有做出这些，Ghostery的提示是由于其自身的技术问题，同时这些提示看起来很糟糕而且妨碍了网页真实效果的展示。\[23\]在之后的声明中Manoe又特别批评这些提示挡住了了捐款按钮和使用许可的显示\[24\]\[25\]并且表示他的CSS没有阻止Ghostery的正常工作。\[26\]
 
 大多数人则认为Manoe的CSS文件包含了足够多的统计代码，Ghostery的判断并没有错。有人指出Ghostery在其原始状态的提示并没有挡住Manoe的捐款按钮，并在几秒钟之后就消失了。另外，用户们指出Manoe的一行样式使得Ghostery无法提供一个网页bug的信息，并认为总体上来说这是Manoe自己的问题。但Manoe仍坚称Ghostery显示信息的方式不合适和过度敏感而导致两个扩展出现了矛盾。
 
@@ -91,7 +92,7 @@ Cancel](http://www.google.com/profiles/dcancel)原先发表了一些过激言论
 ## 参见
 
   -
-  - [JavaScript陷阱](../Page/JavaScript陷阱.md "wikilink")
+  - [JavaScript陷阱](https://zh.wikipedia.org/wiki/JavaScript陷阱 "wikilink")
 
 ## 参考文献
 

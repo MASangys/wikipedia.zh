@@ -1,13 +1,13 @@
 **大衛·荷威·伊凡斯** (****，)，較為知名的是他的藝名**The
-Edge**，出生於[倫敦的](../Page/倫敦.md "wikilink")[愛爾蘭人](../Page/愛爾蘭.md "wikilink")，愛爾蘭樂團[U2的主](../Page/U2樂團.md "wikilink")[吉他手](../Page/吉他手.md "wikilink")，但也會兼任[和聲](../Page/和聲歌手.md "wikilink")、鍵盤手、副[貝斯吉他手](../Page/貝斯吉他.md "wikilink")。他招牌的多樣電吉他聲－尤其是Delay（延音）的使用－已經成為U2著名的特色。2003年,在[滾石雜誌評選的史上](../Page/滾石雜誌.md "wikilink")[一百大吉他手列為第](../Page/滾石雜誌一百大吉他手.md "wikilink")24名
+Edge**，出生於[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[愛爾蘭人](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，愛爾蘭樂團[U2的主](../Page/U2樂團.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，但也會兼任[和聲](../Page/和聲歌手.md "wikilink")、鍵盤手、副[貝斯吉他手](https://zh.wikipedia.org/wiki/貝斯吉他 "wikilink")。他招牌的多樣電吉他聲－尤其是Delay（延音）的使用－已經成為U2著名的特色。2003年,在[滾石雜誌評選的史上](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")[一百大吉他手列為第](../Page/滾石雜誌一百大吉他手.md "wikilink")24名
 \[1\] ，2011年，[滾石雜誌一百大吉他手列為第](../Page/滾石雜誌一百大吉他手.md "wikilink")38名 \[2\]。
 
 ## 生平
 
-出生於[英格蘭](../Page/英格蘭.md "wikilink")[東倫敦巴金](../Page/東倫敦.md "wikilink")
-(*Barking*)醫院\[3\]，父母分別為[威爾斯人賈文](../Page/威爾斯.md "wikilink")
+出生於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[東倫敦巴金](https://zh.wikipedia.org/wiki/東倫敦 "wikilink")
+(*Barking*)醫院\[3\]，父母分別為[威爾斯人賈文](https://zh.wikipedia.org/wiki/威爾斯 "wikilink")
 (*Garvin*)和葛雯達 (*Gwenda*)\[4\]，有位兄長狄克
-(*Dik*)。1歲時，全家搬至[愛爾蘭](../Page/愛爾蘭.md "wikilink")[都柏林郡的](../Page/都柏林郡.md "wikilink")[馬拉海德](../Page/馬拉海德.md "wikilink")
+(*Dik*)。1歲時，全家搬至[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林郡的](https://zh.wikipedia.org/wiki/都柏林郡 "wikilink")[馬拉海德](../Page/馬拉海德.md "wikilink")
 (*Malahide*)，日後就讀於聖安德魯國民學校 (*St. Andrew's National
 School*)。從小就開始接受鋼琴與吉他的才藝課程，當[小賴瑞·慕蘭在學校找樂手組樂團時](../Page/小賴瑞·慕蘭.md "wikilink")，伊凡斯兄弟都有參加\[5\]。這個樂團後來就成為了U2，但是Edge的兄長狄克已經離團\[6\]，U2成為四人樂團，並且在1980年發行首張專輯〈Boy〉。
 

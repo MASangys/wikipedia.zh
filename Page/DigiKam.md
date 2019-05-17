@@ -1,4 +1,4 @@
-**DigiKam**是一个[KDE桌面环境的影像管理和编辑程式](../Page/KDE.md "wikilink")。它支持所有主要的图像格式，并可以组织目录为基础的照片收藏，或按日期，时间，或标签的动态相册。用户还可以对图像添加标题和评语，搜索他们和透过智能文件夹保存搜索。加入插件还可以输出到[Flickr的相册](../Page/Flickr.md "wikilink")、[Gallery2](../Page/Gallery2.md "wikilink")、[谷歌地球的的KML文件](../Page/谷歌地球.md "wikilink")、Simpleviewer、刻录成光盘或创建Web画廊。
+**DigiKam**是一个[KDE桌面环境的影像管理和编辑程式](../Page/KDE.md "wikilink")。它支持所有主要的图像格式，并可以组织目录为基础的照片收藏，或按日期，时间，或标签的动态相册。用户还可以对图像添加标题和评语，搜索他们和透过智能文件夹保存搜索。加入插件还可以输出到[Flickr的相册](../Page/Flickr.md "wikilink")、[Gallery2](https://zh.wikipedia.org/wiki/Gallery2 "wikilink")、[谷歌地球的的KML文件](https://zh.wikipedia.org/wiki/谷歌地球 "wikilink")、Simpleviewer、刻录成光盘或创建Web画廊。
 
 ## 功能
 
@@ -10,7 +10,8 @@ DigiKam已获得TUX 2005年和2008年读者选择奖喜爱的数字照片管理�
 
 ## 其他操作系统
 
-  - [Windows](../Page/Windows.md "wikilink"): digiKam已经作为[KDE on Windows
+  - [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"):
+    digiKam已经作为[KDE on Windows
     project](http://windows.kde.org/)的一部分。可以使用[KDE
     Installer](http://winkde.org/pub/kde/ports/win32/installer/)勾选digikam-msvc
     library安装。
@@ -22,7 +23,7 @@ libraries编写。
 
 ## 参见
 
-  - [KPhotoAlbum](../Page/KPhotoAlbum.md "wikilink")
+  - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")
   - [F-Spot](../Page/F-Spot.md "wikilink")
 
 ## 参考资料

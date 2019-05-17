@@ -4,7 +4,8 @@ Server 2000。之後皆隨SQL Server安裝（安裝時需先勾選相關的選�
 
 ## 相關
 
-  - [Microsoft SQL Server](../Page/Microsoft_SQL_Server.md "wikilink")
+  - [Microsoft SQL
+    Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")
 
 ## 外部連結
 

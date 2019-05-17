@@ -1,5 +1,5 @@
 《**Love Love Love**》是[Channel
-V](../Page/Channel_V.md "wikilink")（[台灣](../Page/台灣.md "wikilink")）播出的愛情[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月3日逢星期五晚22:00-23:30播映。而於2009年9月4日起，節目縮減30分鐘播映時間至22:00-23:00播映。
+V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的愛情[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月3日逢星期五晚22:00-23:30播映。而於2009年9月4日起，節目縮減30分鐘播映時間至22:00-23:00播映。
 
 ## 簡介
 
@@ -24,9 +24,9 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>01</p></td>
 <td><p>7月3日</p></td>
 <td><p>Circus Eason 來聯誼</p></td>
-<td><p><a href="../Page/黃尹宣.md" title="wikilink">Eason</a>@<a href="../Page/CIRCUS.md" title="wikilink">Circus</a></p></td>
-<td><p>Kid@<a href="../Page/CIRCUS.md" title="wikilink">Circus</a>、<br />
-<a href="../Page/林家緯_(藝人).md" title="wikilink">小馬</a>@<a href="../Page/CIRCUS.md" title="wikilink">Circus</a></p></td>
+<td><p><a href="../Page/黃尹宣.md" title="wikilink">Eason</a>@<a href="https://zh.wikipedia.org/wiki/CIRCUS" title="wikilink">Circus</a></p></td>
+<td><p>Kid@<a href="https://zh.wikipedia.org/wiki/CIRCUS" title="wikilink">Circus</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/林家緯_(藝人)" title="wikilink">小馬</a>@<a href="https://zh.wikipedia.org/wiki/CIRCUS" title="wikilink">Circus</a></p></td>
 <td><p>品潔、石惟菁、游小米、梅雅婷</p></td>
 <td><p>品潔</p></td>
 </tr>
@@ -52,7 +52,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>04</p></td>
 <td><p>7月24日</p></td>
 <td><p>超人氣偶像棒棒堂來聯誼</p></td>
-<td><p><a href="../Page/小煜.md" title="wikilink">小煜</a>、<a href="../Page/廖俊傑.md" title="wikilink">小傑</a>、<a href="../Page/敖犬.md" title="wikilink">敖犬</a>@<a href="../Page/Lollipop棒棒堂.md" title="wikilink">Lollipop棒棒堂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小煜" title="wikilink">小煜</a>、<a href="https://zh.wikipedia.org/wiki/廖俊傑" title="wikilink">小傑</a>、<a href="../Page/敖犬.md" title="wikilink">敖犬</a>@<a href="https://zh.wikipedia.org/wiki/Lollipop棒棒堂" title="wikilink">Lollipop棒棒堂</a></p></td>
 <td></td>
 <td><p>奕捷、yanki//eva、Sammi、小琪</p></td>
 <td><p>奕捷</p></td>
@@ -61,7 +61,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>05</p></td>
 <td><p>7月31日</p></td>
 <td><p>潘瑋柏尋找龐德女郎</p></td>
-<td><p><a href="../Page/潘瑋柏.md" title="wikilink">潘瑋柏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/潘瑋柏" title="wikilink">潘瑋柏</a></p></td>
 <td></td>
 <td><p>蘭婷、小麥、雙雙、雨潔</p></td>
 <td><p>雙雙</p></td>
@@ -79,8 +79,8 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>07</p></td>
 <td><p>8月14日</p></td>
 <td><p>人氣團體超克7 阿本來聯誼</p></td>
-<td><p><a href="../Page/阿本.md" title="wikilink">阿本</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a></p></td>
-<td><p><a href="../Page/吳俊諺.md" title="wikilink">鲔鱼</a>、<a href="../Page/劉祿存.md" title="wikilink">小祿</a>、<a href="../Page/毛弟.md" title="wikilink">毛弟</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿本" title="wikilink">阿本</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a></p></td>
+<td><p><a href="../Page/吳俊諺.md" title="wikilink">鲔鱼</a>、<a href="../Page/劉祿存.md" title="wikilink">小祿</a>、<a href="https://zh.wikipedia.org/wiki/毛弟" title="wikilink">毛弟</a>@<a href="../Page/Choc7.md" title="wikilink">Choc7</a></p></td>
 <td><p>小花、靖雯、千又</p></td>
 <td><p>千又</p></td>
 </tr>
@@ -88,7 +88,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>08</p></td>
 <td><p>8月21日</p></td>
 <td><p>景行廳男孩粉絲同樂會</p></td>
-<td><p><a href="../Page/赵正平.md" title="wikilink">赵哥</a>、<a href="../Page/梁赫群.md" title="wikilink">梁赫群</a>、<a href="../Page/林智贤.md" title="wikilink">林智贤</a>@<a href="../Page/景行廳男孩.md" title="wikilink">景行廳男孩</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/赵正平" title="wikilink">赵哥</a>、<a href="../Page/梁赫群.md" title="wikilink">梁赫群</a>、<a href="https://zh.wikipedia.org/wiki/林智贤" title="wikilink">林智贤</a>@<a href="https://zh.wikipedia.org/wiki/景行廳男孩" title="wikilink">景行廳男孩</a></p></td>
 <td></td>
 <td><p>CoCo、珮羽、戴國鼎</p></td>
 <td><p>珮羽</p></td>
@@ -115,7 +115,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>11</p></td>
 <td><p>9月11日</p></td>
 <td><p>櫻花妹佐藤麻衣來聯誼</p></td>
-<td><p><a href="../Page/麻衣.md" title="wikilink">佐藤麻衣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麻衣" title="wikilink">佐藤麻衣</a></p></td>
 <td></td>
 <td><p>承運、康康、忠諺</p></td>
 <td><p>承運</p></td>
@@ -124,7 +124,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>12</p></td>
 <td><p>9月18日</p></td>
 <td><p>當紅潮男小鬼來聯誼</p></td>
-<td><p><a href="../Page/黃鴻升.md" title="wikilink">小鬼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃鴻升" title="wikilink">小鬼</a></p></td>
 <td></td>
 <td><p>品妏、小雅、禾米</p></td>
 <td><p>品妏</p></td>
@@ -142,7 +142,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>14</p></td>
 <td><p>10月2日</p></td>
 <td><p>漫畫美型男鄭元暢來聯誼</p></td>
-<td><p><a href="../Page/鄭元暢.md" title="wikilink">鄭元暢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a></p></td>
 <td></td>
 <td><p>婉婷、Honey、珮甄</p></td>
 <td><p>珮甄</p></td>
@@ -206,7 +206,7 @@ V（台灣）播出，主要是以聯誼方式為仍單身的藝人尋找另一�
 <td><p>11月20日</p></td>
 <td><p>校園4賤客教你蠢愛100招</p></td>
 <td><p>景鴻</p></td>
-<td><p><a href="../Page/CIRCUS.md" title="wikilink">Circus</a>、謝謝</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CIRCUS" title="wikilink">Circus</a>、謝謝</p></td>
 <td><p>小瑜</p></td>
 <td><p>失敗</p></td>
 </tr>

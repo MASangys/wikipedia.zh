@@ -1,5 +1,5 @@
-本文对比[C\#与](../Page/C_Sharp.md "wikilink")[Java编程语言](../Page/Java_\(编程语言\).md "wikilink")。
-因为这两种语言都具有[自动垃圾回收以及](../Page/垃圾回收_\(计算机科学\).md "wikilink")[运行时编译执行的特点](../Page/JIT.md "wikilink")，并且他们的语法都是继承自[C语言](../Page/C语言.md "wikilink")/[C++](../Page/C++.md "wikilink")，因此二者有很多相似之处。
+本文对比[C\#与](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Java编程语言](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")。
+因为这两种语言都具有[自动垃圾回收以及](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")[运行时编译执行的特点](https://zh.wikipedia.org/wiki/JIT "wikilink")，并且他们的语法都是继承自[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")，因此二者有很多相似之处。
 
 但由于C\#也被描述为一个C++和Java的混合体，并添加了一些新特性，引入了一些变化，因此C\#和Java自然也有很多不一样的地方。
 
@@ -9,11 +9,11 @@
 
 ### 对象处理
 
-C\#和Java都被设计成一个使用[动态调度的类似于](../Page/动态调度.md "wikilink")[C++语法的完全的](../Page/C++.md "wikilink")[面向对象语言](../Page/面向对象编程.md "wikilink")。（C++又是源自于[C](../Page/C语言.md "wikilink")）。但是，这两种语言都不是c或者c++的一个扩展集。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](../Page/垃圾回收_\(计算机科学\).md "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
+C\#和Java都被设计成一个使用[动态调度的类似于](https://zh.wikipedia.org/wiki/动态调度 "wikilink")[C++语法的完全的](../Page/C++.md "wikilink")[面向对象语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。（C++又是源自于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。但是，这两种语言都不是c或者c++的一个扩展集。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
 
 #### 引用
 
-C\#允许[指针的有限功能的使用](../Page/指针.md "wikilink")，指针和运算指针在一个操作的环境中是存在潜在的不安全性的，因为他们的使用可以避开对象的一些严格访问规则。C\#中使用指针的代码段或者方法的地址要用unsafe关键字进行标记，这样，这些代码的使用者就会知道这个代码相比其他的代码而言是不具有安全性的。编译器需要unsafe关键字时将使用此代码的程序转换成是允许被编译的。一般来说，不安全代码的使用可能是为了非托管的[API](../Page/API.md "wikilink")（应用程序编程接口）的更好[互用](../Page/互用.md "wikilink")，或者是为了（存在内在不安全性的）系统调用，也有可能是出于提高性能等方面的原因。而Java中不允许指针或者算术指针的使用。
+C\#允许[指针的有限功能的使用](https://zh.wikipedia.org/wiki/指针 "wikilink")，指针和运算指针在一个操作的环境中是存在潜在的不安全性的，因为他们的使用可以避开对象的一些严格访问规则。C\#中使用指针的代码段或者方法的地址要用unsafe关键字进行标记，这样，这些代码的使用者就会知道这个代码相比其他的代码而言是不具有安全性的。编译器需要unsafe关键字时将使用此代码的程序转换成是允许被编译的。一般来说，不安全代码的使用可能是为了非托管的[API](https://zh.wikipedia.org/wiki/API "wikilink")（应用程序编程接口）的更好[互用](https://zh.wikipedia.org/wiki/互用 "wikilink")，或者是为了（存在内在不安全性的）系统调用，也有可能是出于提高性能等方面的原因。而Java中不允许指针或者算术指针的使用。
 
 ### 数据类型
 
@@ -22,9 +22,10 @@ java和C\#语言都有原始数据类型的概念，C\#/.NET语言中支持的�
 42.ToString()。另一个不同之处在于，java使大量使用装箱类型(见下文)，这样可以让一个隐式拆箱转换(在C
 ＃这需要一个类型转换)。由于这些隐性拆箱转换可能会抛出空指针例外,现代集成开发环境和编译器可以配置为突出它们。
 值类型 C\#允许程序员用关键字`struct`创建用户自定义的值类型([value
-type](../Page/value_type.md "wikilink"))。 从程序员的角度来讲，它们可以被看做轻量级的类。
+type](https://zh.wikipedia.org/wiki/value_type "wikilink"))。
+从程序员的角度来讲，它们可以被看做轻量级的类。
 
-不同于一般类，而像标准基本类，这种值类型被分配在栈内存([stack](../Page/stack-based_memory_allocation.md "wikilink"))而不是堆内存([heap](../Page/heap-based_memory_allocation.md "wikilink"))。
+不同于一般类，而像标准基本类，这种值类型被分配在栈内存([stack](https://zh.wikipedia.org/wiki/stack-based_memory_allocation "wikilink"))而不是堆内存([heap](https://zh.wikipedia.org/wiki/heap-based_memory_allocation "wikilink"))。
 结构体通常有一系列的限制，因为结构体没有空值的概念并且可以在数组中无需初始化而直接使用，这种类型也有必须用0来初始化内存空间的默认构造函数。
 程序员只能定义另外的带有一个或多个参数的构造函数。
 
@@ -38,7 +39,7 @@ type](../Page/value_type.md "wikilink"))。 从程序员的角度来讲，它们
 
 java与C\#都允许设置内部类，即在一个类内部定义的另一个类。在java中，这些内部类可以访问外部类的静态和非静态成员（除非这个内部类定义为静态的，在这种情况下只能访问外部类的静态成员）。局部内部类可以定义在一个方法中并访问这个方法中声明为final类型的局部变量，匿名局部类允许构造类的实例用来重写类的方法。
 
-C\#也提供内部类，与Java不同的是它需要外部类的非静态成员的一个明确引用。同时C\#提供匿名类作为一个结构用来访问局部变量和方法（参见[事件处理](../Page/#事件处理.md "wikilink")）。局部类和匿名类不能被访问。
+C\#也提供内部类，与Java不同的是它需要外部类的非静态成员的一个明确引用。同时C\#提供匿名类作为一个结构用来访问局部变量和方法（参见[事件处理](https://zh.wikipedia.org/wiki/#事件处理 "wikilink")）。局部类和匿名类不能被访问。
 
 #### 部分类
 
@@ -50,14 +51,14 @@ C\#使用*部分类*允许一个类的定义分割在几个源文件中。每一
 
 现在的编程语言都支持泛型编程，但它们却采用了不同的实现方式。
 
-[Java中的泛型仅是语言层面上的一种结构](../Page/Java中的泛型.md "wikilink")，它们只能通过编译器来实现。生成的类文件中所包含的类签名仅由元数据组成（允许编译器对这些新类进行反编译）。运行时并不知道通用类型系统，这意味着JVM只需要进行一小部分的更新便可处理新的类格式。
+[Java中的泛型仅是语言层面上的一种结构](https://zh.wikipedia.org/wiki/Java中的泛型 "wikilink")，它们只能通过编译器来实现。生成的类文件中所包含的类签名仅由元数据组成（允许编译器对这些新类进行反编译）。运行时并不知道通用类型系统，这意味着JVM只需要进行一小部分的更新便可处理新的类格式。
 
-为了实现这个目标，编译器用泛型类型的上界来替换它们，并且在用到这些泛型的各个地方适当地插入一些“角色”。结果生成的字节码将不包含任何对这些泛型类型的引用或将它们作为参数。这种实现泛型的技术被称作[类型擦除](../Page/类型擦除.md "wikilink")。这意味着实际上的类型的信息在运行时不可用，并且强行加入了一些限制，例如不能创建泛型的新实例或数组。(参见[Java中的泛型](../Page/Java中的泛型.md "wikilink"))。
+为了实现这个目标，编译器用泛型类型的上界来替换它们，并且在用到这些泛型的各个地方适当地插入一些“角色”。结果生成的字节码将不包含任何对这些泛型类型的引用或将它们作为参数。这种实现泛型的技术被称作[类型擦除](../Page/类型擦除.md "wikilink")。这意味着实际上的类型的信息在运行时不可用，并且强行加入了一些限制，例如不能创建泛型的新实例或数组。(参见[Java中的泛型](https://zh.wikipedia.org/wiki/Java中的泛型 "wikilink"))。
 
-C\#采用了另一种实现方式。它对泛型的支持是集成在虚拟执行系统中的，并且最早出现在.NET2.0中。这门语言后来就发展为在执行系统中支持基本泛型的前端。而在Java中，编译器提供了静态类型安全检查，但是，加之又有即时编译器（JIT）[加载来核实其正确性](../Page/加载.md "wikilink")。关于泛型类型的信息在运行时完全被保护起来了，并且允许完全的反射和实例化泛型类型。
+C\#采用了另一种实现方式。它对泛型的支持是集成在虚拟执行系统中的，并且最早出现在.NET2.0中。这门语言后来就发展为在执行系统中支持基本泛型的前端。而在Java中，编译器提供了静态类型安全检查，但是，加之又有即时编译器（JIT）[加载来核实其正确性](https://zh.wikipedia.org/wiki/加载 "wikilink")。关于泛型类型的信息在运行时完全被保护起来了，并且允许完全的反射和实例化泛型类型。
 
 Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不管是引用类型还是值类型被声明为泛型，包括基本数据类型。Java却允许被封装的类型作为泛型类的类型参数来使用(例如：用List<Integer>代替List<int>)，但是由于所有这一类的值需要在堆上分配而需付出一定的“代价”。
-在Java和C\#两者中，泛型的定义都使用了不同的引用类型来分享等效的底层代码，但是对C\#来说[公共语言运行时](../Page/公共语言运行时.md "wikilink")（CLR）为值类型的实例化动态的生成优化代码。
+在Java和C\#两者中，泛型的定义都使用了不同的引用类型来分享等效的底层代码，但是对C\#来说[公共语言运行时](https://zh.wikipedia.org/wiki/公共语言运行时 "wikilink")（CLR）为值类型的实例化动态的生成优化代码。
 
 ### 符号和特殊功能
 
@@ -98,7 +99,7 @@ Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不�
 </tr>
 <tr class="odd">
 <td><p><code>strictfp</code></p></td>
-<td><p>Java 使用关键字 <a href="../Page/strictfp.md" title="wikilink"><code>strictfp</code></a> 确保跨平台时浮点运算的结果保持不变。</p></td>
+<td><p>Java 使用关键字 <a href="https://zh.wikipedia.org/wiki/strictfp" title="wikilink"><code>strictfp</code></a> 确保跨平台时浮点运算的结果保持不变。</p></td>
 </tr>
 <tr class="even">
 <td><p><code>switch</code></p></td>
@@ -141,13 +142,13 @@ Java不允许用基本数据类型来声明为泛型类，然而C\#却允许不�
 
 ### 数值应用
 
-多种语言特色的存在是为了充分的支持应用程序在数学和金融领域计算。\[1\]在这一类中，Java提供关键字[strictfp可以在代码段中使浮点运算严格执行](../Page/strictfp.md "wikilink")。这可以保证运算在所有的平台上都返回相同精确的结果。
+多种语言特色的存在是为了充分的支持应用程序在数学和金融领域计算。\[1\]在这一类中，Java提供关键字[strictfp可以在代码段中使浮点运算严格执行](https://zh.wikipedia.org/wiki/strictfp "wikilink")。这可以保证运算在所有的平台上都返回相同精确的结果。
 与此不同C\#为确保十进制小数浮点运算准确，在 `decimal`类型中内嵌了这种机制。但在二进制小数浮点运算中舍弃了这种机制（`float`,
 `double`）。 在二进制所有的类型中描述十进制数因为不精确会存在舍入误差。所以在金融应用方面十进制小数类型的精确显得很重要。
 Java中类也提供了这些特性。任意精度小数算法 (`BigDecimal`) 和任意精度整数算法 ( )
 的类为其提供任意精度的数值运算。
 尽管有第三方实现了这些类，但是.NET框架(3.5)的现行版本当前并没有提供这些。（参见[Arbitrary-precision
-arithmetic](../Page/Arbitrary-precision_arithmetic#Arbitrary-precision_software.md "wikilink")）
+arithmetic](https://zh.wikipedia.org/wiki/Arbitrary-precision_arithmetic#Arbitrary-precision_software "wikilink")）
 Java不能为库定义类型（高精度小数、复数等原始类型）提供一个统一标准，为了达到这个目的，C\#提供了如下内容：
 
   - 能够提供方便语法的运算符重载和索引（看下面）。
@@ -201,10 +202,10 @@ class以同样的名字定义一个新的、无关联的方法。
 #### Lambdas和表达树
 
 C\#中的一个特殊类型称" lambdas"。 他们不是方法也不可能构成类接口的部分;
-他们只是在[功能模块中](../Page/功能模块.md "wikilink")。
+他们只是在[功能模块中](https://zh.wikipedia.org/wiki/功能模块 "wikilink")。
 在lambda函数顶部可以定义的一个详细结构体称为表达树。
 不管他们是被当成执行函数还是数据结构都起决于编辑器类型，并且不管什么类型变量或参量都要赋值。
-Lambdas和表示树在[LINQ中都是重要角色](../Page/LINQ.md "wikilink")。
+Lambdas和表示树在[LINQ中都是重要角色](https://zh.wikipedia.org/wiki/LINQ "wikilink")。
 Java中没有以lambdas或表达树为特色的; 它的主要机制和方法定义是匿名内部类句法。
 
 #### 部分方法
@@ -239,21 +240,23 @@ System.Console来为一个类库定义一个新名，它同样允许以using Int
 System.Collections.Generic.List<int>的形式，引入特殊类库。
 
 Java有允许使用某些或所有，具有较短名字的静态方法/领域的静态import句法在类中(例如，允许foo(bar)可以从另一个类中被静态的引进).C\#有静态类句法(不与Java的静态内在类混淆),制约类只包含静态方法。
-C\# 3.0介绍的[引申方法允许用户静态地增加方法到类型](../Page/引申方法.md "wikilink")(比如，允许foo.bar
+C\#
+3.0介绍的[引申方法允许用户静态地增加方法到类型](https://zh.wikipedia.org/wiki/引申方法 "wikilink")(比如，允许foo.bar
 的地方可以是研究foo的种类的一个引进的引申方法)。
 
-[Sun Microsystems](../Page/Sun_Microsystems.md "wikilink")
-软件公司的Java编译器要求，源文件的文件名必须匹配在它里面的唯一的公开类，而C\#允许在同一个文件的多公开类，并且投入制约。
-C\# 2.0和以后的版本允许类定义被分割成几个文件，通过使用在原始代码的关键字partial。
+[Sun
+Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")
+软件公司的Java编译器要求，源文件的文件名必须匹配在它里面的唯一的公开类，而C\#允许在同一个文件的多公开类，并且投入制约。 C\#
+2.0和以后的版本允许类定义被分割成几个文件，通过使用在原始代码的关键字partial。
 
 ### 异常处理
 
 Java支持检查异常(checked
 exception)。C＃中只支持非检查异常情况。检查异常强制程序员要么在方法中声明一个异常抛出，要么用try-catch来捕获异常。检查异常可以有助于良好的编程习惯，以确保所有的错误都得到处理。但是[Anders
-Hejlsberg](../Page/Anders_Hejlsberg.md "wikilink")，C\#语言首席设计师，和其他人争辩说，他们都在一定程度上对Java进行了拓展但是它们没有被证明是有价值的除了几个程序中的小例子。有一个评论介绍在检查异常时鼓励程序员使用空的catch块,安静的吃掉异常而不是让异常传播到更高水平的常规的异常处理：catch
+Hejlsberg](https://zh.wikipedia.org/wiki/Anders_Hejlsberg "wikilink")，C\#语言首席设计师，和其他人争辩说，他们都在一定程度上对Java进行了拓展但是它们没有被证明是有价值的除了几个程序中的小例子。有一个评论介绍在检查异常时鼓励程序员使用空的catch块,安静的吃掉异常而不是让异常传播到更高水平的常规的异常处理：catch
 (Exception e)
 {}.另一种对于检查异常的评论说一个新方法的执行可能会引起意想不到的检查异常被抛出，这是一个合同突破性变化.这可能发生在一个方法实现一个接口或者当一个方法的基本实现改变时，此接口仅声明有限的异常。为这种意料之外的的异常被抛出,一些程序员简单的声明这种方法能抛出任何类型的异常（“抛出异常”），这使检查异常的目的无法实现。不过在某些情况下，异常链（[exception
-chaining](../Page/exception_chaining.md "wikilink")）能用于代替,捕获异常后再抛出一个异常异常.例如,如果一个对象访问数据库而不是文件时被改变,那么可以捕获
+chaining](https://zh.wikipedia.org/wiki/exception_chaining "wikilink")）能用于代替,捕获异常后再抛出一个异常异常.例如,如果一个对象访问数据库而不是文件时被改变,那么可以捕获
 异常并且作为异常重新抛出. 因为调用者也许并不需要知道对象内部的工作方式。
 
 在处理`try-finally`的声明时两种语言也是有差别的。即使`try`块包含像`throw`和`return`的control-passing语句，finally块也总是要执行。在Java中，这可能导致意外的行为，如果try块最后有`return`语句返回一个值，然后执行后的`finally`块也会有`return`语句返回一个不同的值。
@@ -273,15 +276,16 @@ Java语言规范中指出finally块中的代码总会执行即使异常没有被
 
 ### 底层的代码
 
-[Java Native Interface](../Page/Java_native_interface.md "wikilink")
-(JNI)的特征是允许Java代码调用非Java代码。然而，JNI要求被调用的代码必须遵循Java提供的一些在类型和名称上的约定。这种方法是为了适应Java和其他代码更好的交互。这些代码必须是非Java代码，常常是C或者C++代码。[JNA提供一种更加方便的Java代码与其他代码的交互](../Page/JNA.md "wikilink")，仅仅需要写一些Java编写的接口代码，但是性能会付出一点代价。
+[Java Native
+Interface](https://zh.wikipedia.org/wiki/Java_native_interface "wikilink")
+(JNI)的特征是允许Java代码调用非Java代码。然而，JNI要求被调用的代码必须遵循Java提供的一些在类型和名称上的约定。这种方法是为了适应Java和其他代码更好的交互。这些代码必须是非Java代码，常常是C或者C++代码。[JNA提供一种更加方便的Java代码与其他代码的交互](https://zh.wikipedia.org/wiki/JNA "wikilink")，仅仅需要写一些Java编写的接口代码，但是性能会付出一点代价。
 
 另外，第三方类库为JAVA－COM提供桥接，像[JACOB](http://jacob-project.sourceforge.net/)
 ([自由软件](../Page/自由软件.md "wikilink"))，[J-Integra for
 COM](http://j-integra.intrinsyc.com/products/com/)
 ([专有软件](../Page/专有软件.md "wikilink"))
 
-.NET平台调用([P/Invoke](../Page/Platform_Invocation_Services.md "wikilink"))通过允许从C\#调用微软称之为[不受托管代码提供同样的的功能](../Page/不受托管代码.md "wikilink")，通过元数据属性程序员可以精确的控制如何调用参数和结果，因此可以避免额外编译代码的需要。平台调用允许几乎完全的对程序的API的访问(像Win32或POSIX)但是限制对c++类库的访问。另外，.NET框架也提供一个.NET－COM网桥，允许对COM组件的的访问就像是访问本地的.NET组件。
+.NET平台调用([P/Invoke](https://zh.wikipedia.org/wiki/Platform_Invocation_Services "wikilink"))通过允许从C\#调用微软称之为[不受托管代码提供同样的的功能](https://zh.wikipedia.org/wiki/不受托管代码 "wikilink")，通过元数据属性程序员可以精确的控制如何调用参数和结果，因此可以避免额外编译代码的需要。平台调用允许几乎完全的对程序的API的访问(像Win32或POSIX)但是限制对c++类库的访问。另外，.NET框架也提供一个.NET－COM网桥，允许对COM组件的的访问就像是访问本地的.NET组件。
 
 C＃中还允许程序员禁用正常类型检查和CLR中其他的安全保证功能
 ，这样就使得指针变量的使用成为可能。当此功能被使用时，程序员必须用unsafe关键字将相应的代码段进行标记。JNI
@@ -300,8 +304,8 @@ C＃中还允许程序员禁用正常类型检查和CLR中其他的安全保证�
     Round-up](http://www.osnews.com/story.php?news_id=5602)
   - [Java and C-Sharp
     Compared](https://web.archive.org/web/20090415190024/http://www.csharphelp.com/archives/archive96.html)
-  - [MSDN](../Page/Microsoft_Developer_Network.md "wikilink"): [The C\#
-    Programming Language for Java
+  - [MSDN](https://zh.wikipedia.org/wiki/Microsoft_Developer_Network "wikilink"):
+    [The C\# Programming Language for Java
     Developers](http://msdn.microsoft.com/en-us/library/ms228602.aspx)
   - [Standard ECMA-334 C\# Language
     specification](http://www.ecma-international.org/publications/standards/Ecma-334.htm)

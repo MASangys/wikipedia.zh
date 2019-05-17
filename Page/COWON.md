@@ -2,16 +2,16 @@
 코원시스템 |company_logo
 =[COWON.jpg](https://zh.wikipedia.org/wiki/File:COWON.jpg "fig:COWON.jpg")
 | foundation = 1995年 | key_people =
-[首席執行長](../Page/首席執行長.md "wikilink")
-[Flag_of_South_Korea.svg](https://zh.wikipedia.org/wiki/File:Flag_of_South_Korea.svg "fig:Flag_of_South_Korea.svg")[朴南圭](../Page/朴南圭.md "wikilink")
+[首席執行長](https://zh.wikipedia.org/wiki/首席執行長 "wikilink")
+[Flag_of_South_Korea.svg](https://zh.wikipedia.org/wiki/File:Flag_of_South_Korea.svg "fig:Flag_of_South_Korea.svg")[朴南圭](https://zh.wikipedia.org/wiki/朴南圭 "wikilink")
 | industry = 電子及數位產業 | company_slogan = Digital Pride | capital = ₩54億
 [韓圓](../Page/韓圓.md "wikilink") | num_employees = 180 | location =
 [Flag_of_South_Korea.svg](https://zh.wikipedia.org/wiki/File:Flag_of_South_Korea.svg "fig:Flag_of_South_Korea.svg")
-[大韓民國](../Page/大韓民國.md "wikilink")[首爾](../Page/首爾.md "wikilink") |
-telephone_no = 82-2-6900-0000 | homepage = [Cowon
+[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")
+| telephone_no = 82-2-6900-0000 | homepage = [Cowon
 Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
-(簡稱：**COWON**)是[大韓民國的一家電子公司](../Page/大韓民國.md "wikilink")，在1995年所建立
-，原先專注在軟體的研發，2000年時COWON以[iAUDIO這個子品牌打入](../Page/iAUDIO.md "wikilink")[數位音訊播放器市場](../Page/數位音訊播放器.md "wikilink")，在[美國](../Page/美國.md "wikilink")、[日本](../Page/日本.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")、[中國](../Page/中國.md "wikilink")、[印尼皆設有據點](../Page/印尼.md "wikilink")，主要產品有[jetAudio](../Page/jetAudio.md "wikilink")、[PMP及iAUDIO的數位音訊播放器](../Page/可攜式媒體播放器.md "wikilink")，部分產品在[台灣地區由](../Page/台灣.md "wikilink")[恆隆行代理](../Page/恆隆行.md "wikilink")。
+(簡稱：**COWON**)是[大韓民國的一家電子公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，在1995年所建立
+，原先專注在軟體的研發，2000年時COWON以[iAUDIO這個子品牌打入](https://zh.wikipedia.org/wiki/iAUDIO "wikilink")[數位音訊播放器市場](../Page/數位音訊播放器.md "wikilink")，在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[日本](../Page/日本.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[中國](../Page/中國.md "wikilink")、[印尼皆設有據點](https://zh.wikipedia.org/wiki/印尼 "wikilink")，主要產品有[jetAudio](https://zh.wikipedia.org/wiki/jetAudio "wikilink")、[PMP及iAUDIO的數位音訊播放器](../Page/可攜式媒體播放器.md "wikilink")，部分產品在[台灣地區由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[恆隆行代理](https://zh.wikipedia.org/wiki/恆隆行 "wikilink")。
 
 ## 產品
 
@@ -30,7 +30,7 @@ Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
 </tr>
 <tr class="even">
 <td><ul>
-<li><a href="../Page/快閃記憶體.md" title="wikilink">快閃記憶體MP</a>3播放器
+<li><a href="https://zh.wikipedia.org/wiki/快閃記憶體" title="wikilink">快閃記憶體MP</a>3播放器
 <ul>
 <li>iAUDIO CW100 &amp; 100S</li>
 <li>iAUDIO CW200</li>
@@ -62,13 +62,13 @@ Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
 </ul></li>
 </ul>
 <ul>
-<li><a href="../Page/多媒體.md" title="wikilink">多媒體</a><a href="../Page/軟體.md" title="wikilink">軟體</a>
+<li><a href="https://zh.wikipedia.org/wiki/多媒體" title="wikilink">多媒體</a><a href="https://zh.wikipedia.org/wiki/軟體" title="wikilink">軟體</a>
 <ul>
 <li>jetAudio</li>
 </ul></li>
 </ul></td>
 <td><ul>
-<li><a href="../Page/硬碟.md" title="wikilink">硬碟記憶體MP</a>3播放器
+<li><a href="https://zh.wikipedia.org/wiki/硬碟" title="wikilink">硬碟記憶體MP</a>3播放器
 <ul>
 <li>iAUDIO M3</li>
 <li>iAUDIO M3L</li>
@@ -96,7 +96,7 @@ Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
 </ul></li>
 </ul>
 <ul>
-<li><a href="../Page/衛星導航.md" title="wikilink">衛星導航器材</a>
+<li><a href="https://zh.wikipedia.org/wiki/衛星導航" title="wikilink">衛星導航器材</a>
 <ul>
 <li>COWON L2</li>
 <li>COWON L3</li>

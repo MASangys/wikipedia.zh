@@ -4,7 +4,7 @@ Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wik
 ## 解説
 
 电视动画[旋风管家
-第二期的](../Page/旋风管家.md "wikilink")[OP](../Page/片头曲.md "wikilink")。
+第二期的](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")[OP](https://zh.wikipedia.org/wiki/片头曲 "wikilink")。
 
 初回限定盤（GNCA-0133）及通常盤（GNCA-0134）两种版本。
 
@@ -14,11 +14,11 @@ Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wik
 
 1.  **Wonder Wind**
 
-      - [作詞](../Page/作詞.md "wikilink")：、[作曲](../Page/作曲.md "wikilink")：[田代智一](../Page/田代智一.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[前口涉](../Page/前口涉.md "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[前口涉](https://zh.wikipedia.org/wiki/前口涉 "wikilink")
 
 2.  ****
 
-      - 作詞：[西田惠美](../Page/西田惠美.md "wikilink")、作曲・編曲：[菊田大介](../Page/菊田大介.md "wikilink")（[Elements
+      - 作詞：[西田惠美](https://zh.wikipedia.org/wiki/西田惠美 "wikilink")、作曲・編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
         Garden](../Page/Elements_Garden.md "wikilink")）
 
 3.  Wonder Wind -Instrumental-

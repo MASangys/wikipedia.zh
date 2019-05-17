@@ -1,4 +1,4 @@
-**PPS影音**，也称**PPS网络电视**、**PPStream**，是[中国一個半免費网络视频平台](../Page/中国.md "wikilink")。该平台创建于2006年1月，採用[點對點](../Page/點對點.md "wikilink")（P2P）技術传输数据。可以免费申请会员，申請後可以觀看PPS影音額外指定的影片，這些影片是非會員無法观看的。申請會員後可升級至尊貴會員，但要收取一定的費用，升級之後可觀看普通會員和非會員無法觀看的影片。
+**PPS影音**，也称**PPS网络电视**、**PPStream**，是[中国一個半免費网络视频平台](https://zh.wikipedia.org/wiki/中国 "wikilink")。该平台创建于2006年1月，採用[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")（P2P）技術传输数据。可以免费申请会员，申請後可以觀看PPS影音額外指定的影片，這些影片是非會員無法观看的。申請會員後可升級至尊貴會員，但要收取一定的費用，升級之後可觀看普通會員和非會員無法觀看的影片。
 
 与传统的[流媒体相比](../Page/流媒体.md "wikilink")，PPStream用了P2P技术，具有用户越多播放越稳定、支持数万人同时在线大规模访问等特点，可以用来在线看电视、电影。
 
@@ -6,15 +6,15 @@
 
 PPS网络电视创办于2006年1月，截至2012年2月止，約有600多名員工。
 
-2005年6月，PPS在雷量、张洪禹两人的研发下，正式推出，9月原[臺灣](../Page/臺灣.md "wikilink")[ezPeer大陸總經理的PPStream總裁](../Page/ezPeer.md "wikilink")[徐偉峰加入](../Page/徐偉峰.md "wikilink")，正式进入商业运营并着手成立公司。2006年成立「上海眾源網絡公司」，總公司設於[上海](../Page/上海.md "wikilink")[漕河涇開發區](../Page/漕河涇.md "wikilink")，於[北京及](../Page/北京.md "wikilink")[廣州等處設有分公司](../Page/廣州.md "wikilink")，PPS已引進四輪的創投資金，2011年底[香港富商](../Page/香港.md "wikilink")[李嘉誠兒子](../Page/李嘉誠.md "wikilink")[李澤楷的](../Page/李澤楷.md "wikilink")[電訊盈科也參股PPS](../Page/電訊盈科.md "wikilink")，共投入2864萬美元，取得238.67萬股份，占PPS持股不到一成。目前市值約新台幣一百多億元。
+2005年6月，PPS在雷量、张洪禹两人的研发下，正式推出，9月原[臺灣](../Page/臺灣.md "wikilink")[ezPeer大陸總經理的PPStream總裁](https://zh.wikipedia.org/wiki/ezPeer "wikilink")[徐偉峰加入](https://zh.wikipedia.org/wiki/徐偉峰 "wikilink")，正式进入商业运营并着手成立公司。2006年成立「上海眾源網絡公司」，總公司設於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[漕河涇開發區](https://zh.wikipedia.org/wiki/漕河涇 "wikilink")，於[北京及](https://zh.wikipedia.org/wiki/北京 "wikilink")[廣州等處設有分公司](https://zh.wikipedia.org/wiki/廣州 "wikilink")，PPS已引進四輪的創投資金，2011年底[香港富商](../Page/香港.md "wikilink")[李嘉誠兒子](../Page/李嘉誠.md "wikilink")[李澤楷的](../Page/李澤楷.md "wikilink")[電訊盈科也參股PPS](../Page/電訊盈科.md "wikilink")，共投入2864萬美元，取得238.67萬股份，占PPS持股不到一成。目前市值約新台幣一百多億元。
 
-2013年5月6日，[百度以](../Page/百度.md "wikilink")3.7億[美元現金](../Page/美元.md "wikilink")（約合22.77億元[人民幣](../Page/人民幣.md "wikilink")）收購了PPS视频业务，並擬於30日內完成將PPS與百度旗下视频網站[愛奇藝網站的整合工作](../Page/愛奇藝.md "wikilink")\[1\]。
+2013年5月6日，[百度以](../Page/百度.md "wikilink")3.7億[美元現金](../Page/美元.md "wikilink")（約合22.77億元[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")）收購了PPS视频业务，並擬於30日內完成將PPS與百度旗下视频網站[愛奇藝網站的整合工作](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")\[1\]。
 
 ## 參見
 
-  - [網路電視](../Page/網路電視.md "wikilink")
-  - [PPTV](../Page/PPTV.md "wikilink")
-  - [愛奇藝](../Page/愛奇藝.md "wikilink")
+  - [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink")
+  - [PPTV](https://zh.wikipedia.org/wiki/PPTV "wikilink")
+  - [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")
 
 ## 參考資料
 

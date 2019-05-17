@@ -1,4 +1,4 @@
-以下是[日本](../Page/日本.md "wikilink")[动漫系列](../Page/动漫.md "wikilink")《[鋼之鍊金術師](../Page/鋼之鍊金術師.md "wikilink")》第2作動畫
+以下是[日本](../Page/日本.md "wikilink")[动漫系列](https://zh.wikipedia.org/wiki/动漫 "wikilink")《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》第2作動畫
 ──《[鋼之鍊金術師 FULLMETAL
 ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的各話简介，共播出5、全64話。
 
@@ -15,7 +15,7 @@ ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的�
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
-<th><p><a href="../Page/TBS電視.md" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
 <th><p>图像 =</p></th>
 <th><p>集数 = 1</p></th>
 <th><p>中文名称 = 鋼之鍊金術師</p></th>
@@ -189,7 +189,7 @@ ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的�
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
-<th><p><a href="../Page/TBS電視.md" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
 <th><p>图像 =</p></th>
 <th><p>集数 = 15</p></th>
 <th><p>中文名称 = 東方的使者</p></th>
@@ -342,7 +342,7 @@ Gōman na Tenohira</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
-<th><p><a href="../Page/TBS電視.md" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
 <th><p>图像 =</p></th>
 <th><p>集数 = 27</p></th>
 <th><p>中文名称 = -{zh-cn:隙缝的飨宴; zh-tw:隙縫的饗宴; zh-hk:夾縫的宴會}-</p></th>
@@ -495,7 +495,7 @@ Yakusoku</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
-<th><p><a href="../Page/TBS電視.md" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
 <th><p>图像 =</p></th>
 <th><p>集数 = 39</p></th>
 <th><p>中文名称 = -{zh-cn:白日梦; zh-tw: 白日夢; zh-hk:白日的夢}-</p></th>
@@ -648,7 +648,7 @@ Yakusoku</p></th>
 <th><p>分鏡</p></th>
 <th><p>演出</p></th>
 <th><p>作畫監督</p></th>
-<th><p><a href="../Page/TBS電視.md" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/TBS電視" title="wikilink">TBS首播日期</a> {{Japanese episode list</p></th>
 <th><p>图像 =</p></th>
 <th><p>集数 = 51</p></th>
 <th><p>中文名称 = -{zh-cn:不死军团; zh-tw:不死軍團; zh-hk:不死的軍團}-</p></th>

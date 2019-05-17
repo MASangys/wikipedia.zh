@@ -1,31 +1,31 @@
-**Picasa網路相簿**（）是一項分享[相片的](../Page/相片.md "wikilink")[網路應用程式](../Page/網路應用程式.md "wikilink")，由[Google公司提供](../Page/Google公司.md "wikilink")，常被用來和其他程式做比較，与[Flickr相似](../Page/Flickr.md "wikilink")。
+**Picasa網路相簿**（）是一項分享[相片的](../Page/相片.md "wikilink")[網路應用程式](https://zh.wikipedia.org/wiki/網路應用程式 "wikilink")，由[Google公司提供](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，常被用來和其他程式做比較，与[Flickr相似](../Page/Flickr.md "wikilink")。
 
 ## 特征
 
-相簿允許有Google帳戶的使用者免費儲存並分享1[GB的相片](../Page/Gigabyte.md "wikilink")，支援外部連結。使用者可以透過[Google
-Wallet購買更多的儲存空間](../Page/Google_Wallet.md "wikilink")，可供其他Google服務所享用。\[1\]
+相簿允許有Google帳戶的使用者免費儲存並分享1[GB的相片](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")，支援外部連結。使用者可以透過[Google
+Wallet購買更多的儲存空間](https://zh.wikipedia.org/wiki/Google_Wallet "wikilink")，可供其他Google服務所享用。\[1\]
 
-| 額外-{}-空間 | 年費 ([美金](../Page/美金.md "wikilink")) | 每1GB單價 (美金) |
-| -------- | ----------------------------------- | ----------- |
-| 20 GB    | 5                                   | 0.25        |
-| 80 GB    | 20                                  | 0.25        |
-| 200 GB   | 50                                  | 0.25        |
-| 400 GB   | 100                                 | 0.25        |
-| 1TB      | 256                                 | 0.25        |
+| 額外-{}-空間 | 年費 ([美金](https://zh.wikipedia.org/wiki/美金 "wikilink")) | 每1GB單價 (美金) |
+| -------- | ------------------------------------------------------ | ----------- |
+| 20 GB    | 5                                                      | 0.25        |
+| 80 GB    | 20                                                     | 0.25        |
+| 200 GB   | 50                                                     | 0.25        |
+| 400 GB   | 100                                                    | 0.25        |
+| 1TB      | 256                                                    | 0.25        |
 
 使用者能透過數種方式來上載圖片：
 
   - 經由Picasa網路相簿所支援瀏覽器的網頁介面\[2\]
   - 使用最新的Picasa 3.0版本（支援[Microsoft
-    Windows](../Page/Microsoft_Windows.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
-    OS X作業系統](../Page/Mac_OS_X.md "wikilink")）
+    Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
+    OS X作業系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）
   - 使用[Mac OS
-    X上提供給](../Page/Mac_OS_X.md "wikilink")[iPhoto的匯出工具](../Page/iPhoto.md "wikilink")、Aperture的外掛程式、上載程式\[3\]
+    X上提供給](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[iPhoto的匯出工具](https://zh.wikipedia.org/wiki/iPhoto "wikilink")、Aperture的外掛程式、上載程式\[3\]
   - 或是使用在[Linux上的](../Page/Linux.md "wikilink")[F-Spot](../Page/F-Spot.md "wikilink")
   - 通过发送邮件到设定好的邮箱地址的方式上传照片。
 
 其它的相片管理软件，如[Windows
-Live影像中心](../Page/Windows_Live影像中心.md "wikilink")、[digiKam等也有了第三方的插件以向Picasa網路相簿上載相片](../Page/digiKam.md "wikilink")。在没有以上软件的情况下，依然可以透過浏览器或电子邮件-{zh:批次;zh-hans:批量;zh-hant:批次}-上載照片。若要下載整個相簿，則必須使用[Picasa软件](../Page/Picasa.md "wikilink")，受到[操作系统和](../Page/操作系统.md "wikilink")[浏览器的限制](../Page/浏览器.md "wikilink")。
+Live影像中心](https://zh.wikipedia.org/wiki/Windows_Live影像中心 "wikilink")、[digiKam等也有了第三方的插件以向Picasa網路相簿上載相片](https://zh.wikipedia.org/wiki/digiKam "wikilink")。在没有以上软件的情况下，依然可以透過浏览器或电子邮件-{zh:批次;zh-hans:批量;zh-hant:批次}-上載照片。若要下載整個相簿，則必須使用[Picasa软件](../Page/Picasa.md "wikilink")，受到[操作系统和](../Page/操作系统.md "wikilink")[浏览器的限制](https://zh.wikipedia.org/wiki/浏览器 "wikilink")。
 
 包括付費以及免費的帳戶，都會維持相片實際的解析度（即使是更低解析度的相片也會被網頁介面所顯示），另外，-{只}-要作者允許，「原始尺寸」的相片是可以被下載的。
 
@@ -48,7 +48,7 @@ Picasa網路相簿不會顯示任何廣告，不論是免費還是付費的帳�
   - 2009年7月16日，[中国政府封锁了Picasa域名为](../Page/中国政府.md "wikilink")“\*.ggpht.com”，尽管可以打开页面，但看不到任何图片，状况与之前[Flickr被封锁相同](../Page/Flickr.md "wikilink")。由于Google新闻（国际版）中的图片也采用该域名，故一样无法显示图片。
   - 2010年4月6日，Picasa网络相册在[中国大陆境内被完全封锁](../Page/中国大陆.md "wikilink")，Picasa页面仅能下载Picasa软件，网络相册页面则不能打开。
   - 2011年1月6日，Picasa Web Albums
-    推出[SSL加密版本](../Page/SSL.md "wikilink")\[7\]，用户可以通过SSL加密连接
+    推出[SSL加密版本](https://zh.wikipedia.org/wiki/SSL "wikilink")\[7\]，用户可以通过SSL加密连接
     <https://picasaweb.google.com/>
     来繞過防火长城的封锁从而直接访问Picasa网络相册。但由于客户端并未使用SSL,
     只有网页版可直接在大陆访问。
@@ -69,10 +69,10 @@ Picasa網路相簿不會顯示任何廣告，不論是免費還是付費的帳�
 {{-}}
 
 [en:Picasa\#Picasa Web
-Albums](../Page/en:Picasa#Picasa_Web_Albums.md "wikilink")
-[fi:Picasa\#Picasa-verkkoalbumit](../Page/fi:Picasa#Picasa-verkkoalbumit.md "wikilink")
+Albums](https://zh.wikipedia.org/wiki/en:Picasa#Picasa_Web_Albums "wikilink")
+[fi:Picasa\#Picasa-verkkoalbumit](https://zh.wikipedia.org/wiki/fi:Picasa#Picasa-verkkoalbumit "wikilink")
 [no:Picasa\#Picasa Web
-Albums](../Page/no:Picasa#Picasa_Web_Albums.md "wikilink")
+Albums](https://zh.wikipedia.org/wiki/no:Picasa#Picasa_Web_Albums "wikilink")
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 [Category:网络相册](https://zh.wikipedia.org/wiki/Category:网络相册 "wikilink")

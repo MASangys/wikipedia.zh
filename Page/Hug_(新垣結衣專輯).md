@@ -9,7 +9,7 @@
         作詞：emmy，作曲：田中隼人
 2.  [浮世繪](../Page/浮世繪_\(新垣結衣單曲\).md "wikilink")
       -
-        作詞：[岩里祐穗](../Page/岩里祐穗.md "wikilink")，作曲：（）
+        作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")，作曲：（）
 3.  Only you
       -
         作詞、作曲：Chara

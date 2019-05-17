@@ -34,11 +34,11 @@ Storm](../Page/J_Storm.md "wikilink")。
 9.  **某年Summer**（） (3:57)
     （作詞：Erykah　作曲：TSUKASA）
       -
-        [相葉雅紀](../Page/相葉雅紀.md "wikilink") solo
+        [相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink") solo
 10. **W/ME** (3:13)
     （作詞：Axel G　作曲：Peter Bjorklund）
       -
-        [松本潤](../Page/松本潤.md "wikilink") solo
+        [松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink") solo
 11. **秘密** (4:40)
     （作詞・作曲：磯貝西門）
       -

@@ -1,16 +1,16 @@
 **涼宮春日的憂鬱
-角色CD**是從2006年7月5日到2007年2月21日由[Lantis發行的一連串](../Page/Lantis.md "wikilink")[單曲](../Page/單曲.md "wikilink")。在2009年再發行**涼宮春日的憂鬱
+角色CD**是從2006年7月5日到2007年2月21日由[Lantis發行的一連串](../Page/Lantis.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱
 新角色CD**，從2009年9月30日到2009年12月9日由[Lantis發行](../Page/Lantis.md "wikilink")。
 
 ## 概要
 
-  - 電視動畫『涼宮春日的憂鬱』的登場人物歌。從2006年7月5日到2007年2月21日總計發行了9張[單曲](../Page/單曲.md "wikilink")。
+  - 電視動畫『涼宮春日的憂鬱』的登場人物歌。從2006年7月5日到2007年2月21日總計發行了9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
   - 銷售數量最低的也達1萬枚以上(Vol.8 古泉一樹)
   - CD盒的封面上皆為登場人物回頭看的姿勢
 
 ### Vol.1 涼宮春日
 
-2006年7月5日發行。由[平野綾主唱](../Page/平野綾.md "wikilink")，[涼宮春日](../Page/涼宮春日.md "wikilink")(平野綾)版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年7月5日發行。由[平野綾主唱](https://zh.wikipedia.org/wiki/平野綾 "wikilink")，[涼宮春日](https://zh.wikipedia.org/wiki/涼宮春日 "wikilink")(平野綾)版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -64,7 +64,7 @@
 
 ### Vol.4 鶴屋學姊
 
-2006年12月6日發行。由[松岡由貴主唱](../Page/松岡由貴.md "wikilink")，[鶴屋學姊](../Page/涼宮春日系列登場人物#鶴屋.md "wikilink")（松岡由貴）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年12月6日發行。由[松岡由貴主唱](../Page/松岡由貴.md "wikilink")，[鶴屋學姊](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#鶴屋 "wikilink")（松岡由貴）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -81,7 +81,7 @@
 
 ### Vol.5 朝倉涼子
 
-2006年12月6日發行。由[桑谷夏子主唱](../Page/桑谷夏子.md "wikilink")，[朝倉涼子](../Page/涼宮春日系列登場人物#朝倉涼子.md "wikilink")（桑谷夏子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2006年12月6日發行。由[桑谷夏子主唱](../Page/桑谷夏子.md "wikilink")，[朝倉涼子](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#朝倉涼子 "wikilink")（桑谷夏子）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -98,7 +98,7 @@
 
 ### Vol.6 虛妹
 
-2007年1月24日發行。由[青木沙耶香主唱](../Page/青木沙耶香.md "wikilink")，[虛妹](../Page/涼宮春日系列登場人物#虛妹.md "wikilink")（青木沙耶香）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年1月24日發行。由[青木沙耶香主唱](../Page/青木沙耶香.md "wikilink")，[虛妹](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#虛妹 "wikilink")（青木沙耶香）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -113,7 +113,7 @@
 
 ### Vol.7 喜綠江美里
 
-2007年1月24日發行。由[白鳥由里主唱](../Page/白鳥由里.md "wikilink")，[喜綠江美里](../Page/涼宮春日系列登場人物#喜綠江美里.md "wikilink")（白鳥由里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年1月24日發行。由[白鳥由里主唱](../Page/白鳥由里.md "wikilink")，[喜綠江美里](https://zh.wikipedia.org/wiki/涼宮春日系列登場人物#喜綠江美里 "wikilink")（白鳥由里）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -128,7 +128,7 @@
 
 ### Vol.8 古泉一樹
 
-2007年2月21日發行。由[小野大輔主唱](../Page/小野大輔.md "wikilink")，[古泉一樹](../Page/古泉一樹.md "wikilink")（小野大輔）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年2月21日發行。由[小野大輔主唱](../Page/小野大輔.md "wikilink")，[古泉一樹](https://zh.wikipedia.org/wiki/古泉一樹 "wikilink")（小野大輔）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -143,7 +143,7 @@
 
 ### Vol.9 阿虛
 
-2007年2月21日發行。由[杉田智和主唱](../Page/杉田智和.md "wikilink")，[阿虛](../Page/阿虛.md "wikilink")（杉田智和）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
+2007年2月21日發行。由[杉田智和主唱](../Page/杉田智和.md "wikilink")，[阿虛](https://zh.wikipedia.org/wiki/阿虛 "wikilink")（杉田智和）版本的[晴天愉快](../Page/晴天愉快.md "wikilink")。
 
   - 收錄曲
 
@@ -158,12 +158,12 @@
 
 ## 涼宮春日的憂鬱 新角色CD
 
-  - 電視動畫『涼宮春日的憂鬱2009年版』的登場人物歌。從2009年9月30日到2009年12月9日總計發行了7張[單曲](../Page/單曲.md "wikilink")。
+  - 電視動畫『涼宮春日的憂鬱2009年版』的登場人物歌。從2009年9月30日到2009年12月9日總計發行了7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
   - 這次，把在2009年版動畫新作中登場頻度低的虛妹、一次都未出場的朝倉涼子、喜綠江美里排除，上回未發售的谷口這次有發售。但在作品中常與谷口同時登場的國木田這次仍未發售。
 
 ### Vol.1 涼宮春日
 
-2009年9月30日發行。由[平野綾主唱](../Page/平野綾.md "wikilink")。
+2009年9月30日發行。由[平野綾主唱](https://zh.wikipedia.org/wiki/平野綾 "wikilink")。
 
   - 收錄曲
 

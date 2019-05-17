@@ -8,11 +8,11 @@ clips**》（A片）是[日本](../Page/日本.md "wikilink")[歌手](../Page/�
 ## 收錄內容
 
 1.  [WHATEVER](../Page/WHATEVER.md "wikilink")
-2.  [LOVE～Destiny～](../Page/LOVE_～Destiny～/LOVE_～since_1999～.md "wikilink")
+2.  [LOVE～Destiny～](https://zh.wikipedia.org/wiki/LOVE_～Destiny～/LOVE_～since_1999～ "wikilink")
 3.  [TO BE](../Page/TO_BE.md "wikilink")
 4.  [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
-5.  [appears](../Page/appears.md "wikilink")
-6.  [kanariya](../Page/kanariya.md "wikilink")
+5.  [appears](https://zh.wikipedia.org/wiki/appears "wikilink")
+6.  [kanariya](https://zh.wikipedia.org/wiki/kanariya "wikilink")
 7.  [Fly high](../Page/Fly_high.md "wikilink")
 8.  [monochrome](../Page/A_\(濱崎步單曲\).md "wikilink") (TV-Spot)
 9.  [too late](../Page/A_\(濱崎步單曲\).md "wikilink") (TV-Spot)

@@ -19,10 +19,10 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 <!-- end list -->
 
   -
-    為了解決地球上的能源問題，接受馬爾其歐導師的指示，前往宇宙奪取[勇士鋼彈](../Page/YMF-X000A_Dreadnought.md "wikilink")（Dreadnought
+    為了解決地球上的能源問題，接受馬爾其歐導師的指示，前往宇宙奪取[勇士鋼彈](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought "wikilink")（Dreadnought
     Gundam）。
     真正身份是地球聯合軍為了得到「過人的空間識別能力」而複製出來的複製人，原型不詳（已知複製對象是過去聯合軍「梅比烏斯零式」部隊的一員）。
-    由於當時複製技術並非成熟，身體擁有缺陷的端粒，所以身體特別虛弱；與[拉烏·魯·克魯澤的情況相近](../Page/劳·鲁·克鲁泽.md "wikilink")。
+    由於當時複製技術並非成熟，身體擁有缺陷的端粒，所以身體特別虛弱；與[拉烏·魯·克魯澤的情況相近](https://zh.wikipedia.org/wiki/劳·鲁·克鲁泽 "wikilink")。
     駕駛X Astray擊敗卡納得以後，衝往已被損壞的核反應爐的亥伯龍高達，救下想自盡的卡納得。但最後因本身的缺陷而死亡。
 
 <!-- end list -->
@@ -79,18 +79,18 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 
 <!-- end list -->
 
-  - 伊萊傑·基爾（CV：[鳥海勝美](../Page/鳥海勝美.md "wikilink")）
+  - 伊萊傑·基爾（CV：[鳥海勝美](https://zh.wikipedia.org/wiki/鳥海勝美 "wikilink")）
   - 羅蕾塔·亞哲
   - 李德·威勒
 
 ### 三艦同盟
 
-  - [安德魯·沃特菲德](../Page/安德魯·沃特菲德.md "wikilink")（CV：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
+  - [安德魯·沃特菲德](https://zh.wikipedia.org/wiki/安德魯·沃特菲德 "wikilink")（CV：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
 
 <!-- end list -->
 
   -
-    本有「沙漠之虎」之稱。於正傳故事與煌決戰後重傷，被羅·裘爾救出險境，療養後加入[三舰同盟軍](../Page/三舰同盟.md "wikilink")。
+    本有「沙漠之虎」之稱。於正傳故事與煌決戰後重傷，被羅·裘爾救出險境，療養後加入[三舰同盟軍](https://zh.wikipedia.org/wiki/三舰同盟 "wikilink")。
     提供記載勇士鋼彈（Dreadnought Gundam）龍騎兵系統設計圖的磁碟給羅·裘爾。
 
 <!-- end list -->
@@ -114,7 +114,7 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 
 <!-- end list -->
 
-  - 索基烏斯（CV：[齋賀觀月](../Page/齋賀觀月.md "wikilink")）
+  - 索基烏斯（CV：[齋賀觀月](https://zh.wikipedia.org/wiki/齋賀觀月 "wikilink")）
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 <!-- end list -->
 
   -
-    特務部隊「X」的特務兵。為[亥伯龍鋼彈1號機的駕駛員](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")。
+    特務部隊「X」的特務兵。為[亥伯龍鋼彈1號機的駕駛員](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")。
     不斷追尋[煌·大和](../Page/基拉·大和.md "wikilink")，想要擊倒他成為「完全體」，並在找到他以前絕不能被打敗。
     真正身份是「超級調整者」——[煌·大和之前的失敗作](../Page/基拉·大和.md "wikilink")。在遭受破棄前被響博士（煌的生父）的一個助手帶走，被地球連合捕獲，進行了大量的實驗。
 
@@ -149,7 +149,7 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 <!-- end list -->
 
   -
-    本為小行星要塞「阿爾提密斯」司令，但正傳中在[電擊鋼彈突襲下](../Page/GAT-X207_Blitz.md "wikilink")，要塞失守。事後仍被任命指揮特殊部隊「X」。
+    本為小行星要塞「阿爾提密斯」司令，但正傳中在[電擊鋼彈突襲下](https://zh.wikipedia.org/wiki/GAT-X207_Blitz "wikilink")，要塞失守。事後仍被任命指揮特殊部隊「X」。
     視下屬如棋子，沒有利用價值便予以放棄。
     因歐亞聯邦與大西洋聯邦重新交好，被長官認為自己及特務部隊「X」經已沒有價值，自己及特務部隊「X」也分別被貶和解散。
     認為卡納德·帕爾斯怠慢處理反中子干擾器一事而造成如此境況，決定捉拿卡納德·帕爾斯，並將其處罰。
@@ -182,50 +182,56 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
 
   -
     原為戰車部隊的指揮官，人稱「月下的狂犬」，後來轉配至MS駕駛員。
-    因擁有有線誘導炮的操作能力，所操作的MS則使用原屬[穆·拉·弗拉卡的有線誘導炮背包](../Page/穆·拉·弗拉卡.md "wikilink")。
+    因擁有有線誘導炮的操作能力，所操作的MS則使用原屬[穆·拉·弗拉卡的有線誘導炮背包](https://zh.wikipedia.org/wiki/穆·拉·弗拉卡 "wikilink")。
 
 ## 登場機體
 
 ### 廢物回收商
 
   - [YMF-X000A Dreadnought
-    Gundam](../Page/YMF-X000A_Dreadnought_Gundam.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/YMF-X000A_Dreadnought_Gundam "wikilink")
   - [MBF-P02 Gundam Astray Red
-    Frame](../Page/MBF-P02_Gundam_Astray_Red_Frame.md "wikilink")
-  - [ZGMF-1017 Works GINN](../Page/ZGMF-1017_Works_GINN.md "wikilink")
+    Frame](https://zh.wikipedia.org/wiki/MBF-P02_Gundam_Astray_Red_Frame "wikilink")
+  - [ZGMF-1017 Works
+    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_Works_GINN "wikilink")
 
 ### 蛇尾
 
   - [MBF-P03 Gundam Astray Blue
-    Frame](../Page/MBF-P03_Gundam_Astray_Blue_Frame.md "wikilink")
+    Frame](https://zh.wikipedia.org/wiki/MBF-P03_Gundam_Astray_Blue_Frame "wikilink")
   - [ZGMF-1017 GINN Elijah Kiel
-    Custom](../Page/ZGMF-1017_GINN_Elijah_Kiel_Custom.md "wikilink")
+    Custom](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN_Elijah_Kiel_Custom "wikilink")
 
 ### ZAFT
 
-  - [ZGMF-1017 GINN](../Page/ZGMF-1017_GINN.md "wikilink")
+  - [ZGMF-1017
+    GINN](https://zh.wikipedia.org/wiki/ZGMF-1017_GINN "wikilink")
   - [ZGMF-1017M GINN High Maneuver
-    Type](../Page/ZGMF-1017M_GINN_High_Maneuver_Type.md "wikilink")
+    Type](https://zh.wikipedia.org/wiki/ZGMF-1017M_GINN_High_Maneuver_Type "wikilink")
   - [ZGMF-LRR704B GINN Long Range Reconnaissance
-    Type](../Page/ZGMF-LRR704B_GINN_Long_Range_Reconnaissance_Type.md "wikilink")
-  - [ZGMF-600 GuAIZ](../Page/ZGMF-600_GuAIZ.md "wikilink")
+    Type](https://zh.wikipedia.org/wiki/ZGMF-LRR704B_GINN_Long_Range_Reconnaissance_Type "wikilink")
+  - [ZGMF-600
+    GuAIZ](https://zh.wikipedia.org/wiki/ZGMF-600_GuAIZ "wikilink")
 
 ### 歐普
 
-  - [MBF-M1A M1A Astray](../Page/MBF-M1A_M1A_Astray.md "wikilink")
+  - [MBF-M1A M1A
+    Astray](https://zh.wikipedia.org/wiki/MBF-M1A_M1A_Astray "wikilink")
   - [GAT-X133 Sword Calamity
-    Gundam](../Page/GAT-X133_Sword_Calamity_Gundam.md "wikilink")
+    Gundam](https://zh.wikipedia.org/wiki/GAT-X133_Sword_Calamity_Gundam "wikilink")
 
 ### 地球聯邦軍
 
   - [CAT1-X1/3 Hyperion Gundam Unit
-    1](../Page/CAT1-X1/3_Hyperion_Gundam_Unit_1.md "wikilink")
+    1](https://zh.wikipedia.org/wiki/CAT1-X1/3_Hyperion_Gundam_Unit_1 "wikilink")
   - [CAT1-X2/3 Hyperion Gundam Unit
-    2](../Page/CAT1-X2/3_Hyperion_Gundam_Unit_2.md "wikilink")
-  - [TS-MA2 Moebius](../Page/TS-MA2_Moebius.md "wikilink")
-  - [GAT-01 Strike Dagger](../Page/GAT-01_Strike_Dagger.md "wikilink")
+    2](https://zh.wikipedia.org/wiki/CAT1-X2/3_Hyperion_Gundam_Unit_2 "wikilink")
+  - [TS-MA2
+    Moebius](https://zh.wikipedia.org/wiki/TS-MA2_Moebius "wikilink")
+  - [GAT-01 Strike
+    Dagger](https://zh.wikipedia.org/wiki/GAT-01_Strike_Dagger "wikilink")
       - [GAT-01A1+AQM/E-X04 Gunbarrel
-        Dagger](../Page/GAT-01A1+AQM/E-X04_Gunbarrel_Dagger.md "wikilink")
+        Dagger](https://zh.wikipedia.org/wiki/GAT-01A1+AQM/E-X04_Gunbarrel_Dagger "wikilink")
 
 ## 機動戰士GUNDAM SEED系列
 
@@ -240,19 +246,19 @@ SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")
   - [機動戰士GUNDAM SEED
     ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")
       - [機動戰士GUNDAM SEED ASTRAY
-        R](../Page/機動戰士GUNDAM_SEED_ASTRAY_R.md "wikilink")
+        R](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY_R "wikilink")
       - 機動戰士GUNDAM SEED ASTRAY B
   - **機動戰士GUNDAM SEED X ASTRAY**
   - [機動戰士GUNDAM SEED DESTINY
-    ASTRAY](../Page/機動戰士GUNDAM_SEED_ASTRAY#機動戰士GUNDAM_SEED_DESTINY_ASTRAY_系列.md "wikilink")
+    ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY#機動戰士GUNDAM_SEED_DESTINY_ASTRAY_系列 "wikilink")
       - 機動戰士GUNDAM SEED FRAME ASTRAY
       - 機動戰士GUNDAM SEED C.E.73 Δ（DELTA） ASTRAY
       - 機動戰士GUNDAM SEED VS ASTRAY
   - [機動戰士GUNDAM SEED MSV](../Page/機動戰士GUNDAM_SEED_MSV.md "wikilink")
   - [機動戰士GUNDAM SEED C.E.73
-    STARGAZER](../Page/機動戰士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")
+    STARGAZER](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_C.E.73_STARGAZER "wikilink")
   - [機動戰士GUNDAM SEED DESTINY THE
-    EDGE](../Page/機動戰士GUNDAM_SEED_DESTINY_THE_EDGE.md "wikilink")
+    EDGE](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_DESTINY_THE_EDGE "wikilink")
 
 ## 外部連結
 

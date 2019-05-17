@@ -1,17 +1,17 @@
 **C++Builder**
-是一個用於在Windows平台上撰寫[C++語言應用程式的快速化程式開發](../Page/C++.md "wikilink")（[RAD](../Page/RAD.md "wikilink")，Rapid
+是一個用於在Windows平台上撰寫[C++語言應用程式的快速化程式開發](../Page/C++.md "wikilink")（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")，Rapid
 Application
-Development）的整合開發環境（[IDE](../Page/IDE.md "wikilink")，Integrated
+Development）的整合開發環境（[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，Integrated
 Development
 Environment），原係由[Borland公司所開發銷售](../Page/Borland.md "wikilink")，現在此產品則歸屬於Embarcadero
 Technologies旗下的子公司Codegear。
 
-C++Builder把由[Delphi開發出來的IDE和](../Page/Delphi.md "wikilink")[VCL](../Page/VCL.md "wikilink")（Visual
+C++Builder把由[Delphi開發出來的IDE和](../Page/Delphi.md "wikilink")[VCL](https://zh.wikipedia.org/wiki/VCL "wikilink")（Visual
 Component
 Library）與C++[編譯器結合](../Page/編譯器.md "wikilink")。此系列產品的開發週期通常是先在Delphi上作重要的改進，然後再用到C++Builder上。在Delphi上所開發的主要元件通常無須修改就可以給C++Builder使用，但C++
 Builder的元件卻不一定能給Delphi使用。
 
-C++Builder的開發環境中包含了[所見即所得](../Page/所見即所得.md "wikilink")（WYSIWYG）的圖形使用者介面（[GUI](../Page/GUI.md "wikilink")）設計工具，是最早導入簡易的、真正可以用拖拉方式進行軟體開發的程式設計工具之一。
+C++Builder的開發環境中包含了[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（WYSIWYG）的圖形使用者介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）設計工具，是最早導入簡易的、真正可以用拖拉方式進行軟體開發的程式設計工具之一。
 
 ## 版本
 

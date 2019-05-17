@@ -1,12 +1,14 @@
 **S2
 Games**是一个专注开发[电脑游戏的](../Page/电脑游戏.md "wikilink")[游戏开发机构](../Page/游戏开发者.md "wikilink")，由Marc
-"Maliken" DeForest投资，设在[加利福尼亚的](../Page/加利福尼亚.md "wikilink")[Rohnert
-Park](../Page/Rohnert_Park.md "wikilink")。他们的第一作*[Savage: The Battle for
-Newerth](../Page/Savage:_The_Battle_for_Newerth.md "wikilink")*于2003年夏天发行，是历史上第一个[RTTS——即时战略射击游戏](../Page/RTTS.md "wikilink")。续作
+"Maliken"
+DeForest投资，设在[加利福尼亚的](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[Rohnert
+Park](https://zh.wikipedia.org/wiki/Rohnert_Park "wikilink")。他们的第一作*[Savage:
+The Battle for
+Newerth](https://zh.wikipedia.org/wiki/Savage:_The_Battle_for_Newerth "wikilink")*于2003年夏天发行，是历史上第一个[RTTS——即时战略射击游戏](https://zh.wikipedia.org/wiki/RTTS "wikilink")。续作
 *[Savage 2: A Tortured
-Soul](../Page/Savage_2:_A_Tortured_Soul.md "wikilink")*，2008年1月16日首先放出Windows版本。最新作品[Heroes
+Soul](https://zh.wikipedia.org/wiki/Savage_2:_A_Tortured_Soul "wikilink")*，2008年1月16日首先放出Windows版本。最新作品[Heroes
 of
-Newerth是一个仿照](../Page/Heroes_of_Newerth.md "wikilink")[魔兽争霸III著名场景](../Page/魔兽争霸III.md "wikilink")[DotA制作的游戏](../Page/DotA.md "wikilink")。
+Newerth是一个仿照](https://zh.wikipedia.org/wiki/Heroes_of_Newerth "wikilink")[魔兽争霸III著名场景](https://zh.wikipedia.org/wiki/魔兽争霸III "wikilink")[DotA制作的游戏](../Page/DotA.md "wikilink")。
 
 ## 作品
 
@@ -18,24 +20,26 @@ Newerth是一个仿照](../Page/Heroes_of_Newerth.md "wikilink")[魔兽争霸III
 游戏：
 
   - *[Savage: The Battle for
-    Newerth](../Page/Savage:_The_Battle_for_Newerth.md "wikilink")*
+    Newerth](https://zh.wikipedia.org/wiki/Savage:_The_Battle_for_Newerth "wikilink")*
     (2003年) (Windows, Macintosh, Linux)
   - *[Savage 2: A Tortured
-    Soul](../Page/Savage_2:_A_Tortured_Soul.md "wikilink")* (2008年)
-    (Windows, Macintosh, Linux)
-  - *[Heroes of Newerth](../Page/Heroes_of_Newerth.md "wikilink")*
+    Soul](https://zh.wikipedia.org/wiki/Savage_2:_A_Tortured_Soul "wikilink")*
+    (2008年) (Windows, Macintosh, Linux)
+  - *[Heroes of
+    Newerth](https://zh.wikipedia.org/wiki/Heroes_of_Newerth "wikilink")*
     (2009年) (Windows, Macintosh, Linux)
 
 ## 大事记
 
   - 2004，3个S2 Games成员离开并成立[Offset
-    Software](../Page/Offset_Software.md "wikilink")
+    Software](https://zh.wikipedia.org/wiki/Offset_Software "wikilink")
   - 2006，S2 Games把与零售版本相同的[Savage: The Battle for
-    Newerth在自己网站上免费释放](../Page/Savage:_The_Battle_for_Newerth.md "wikilink")
+    Newerth在自己网站上免费释放](https://zh.wikipedia.org/wiki/Savage:_The_Battle_for_Newerth "wikilink")
   - 2008，年初S2 Games发布[Savage 2: A Tortured
-    Soul](../Page/Savage_2:_A_Tortured_Soul.md "wikilink")；年末设立帐号制度，出现免费帐号
-  - 2009，[beta测试](../Page/beta.md "wikilink")[Heroes of
-    Newerth](../Page/Heroes_of_Newerth.md "wikilink")
+    Soul](https://zh.wikipedia.org/wiki/Savage_2:_A_Tortured_Soul "wikilink")；年末设立帐号制度，出现免费帐号
+  - 2009，[beta测试](https://zh.wikipedia.org/wiki/beta "wikilink")[Heroes
+    of
+    Newerth](https://zh.wikipedia.org/wiki/Heroes_of_Newerth "wikilink")
   - 2009，启动与[Mod DB协作的活动](../Page/Mod_DB.md "wikilink")
 
 ## 外部链接

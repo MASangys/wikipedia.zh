@@ -26,7 +26,7 @@ FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.
   -
     若葉的同級生，之後轉校到[北海道](../Page/北海道.md "wikilink")。多少有些[同性戀的嗜好](../Page/同性戀.md "wikilink")。
   -
-    一家[旅店的女店主](../Page/旅店.md "wikilink")。淳和文緒先在那兒打工過。
+    一家[旅店的女店主](https://zh.wikipedia.org/wiki/旅店 "wikilink")。淳和文緒先在那兒打工過。
   -
     因母校游泳池改裝而閑居在寺田家的女性。
   -
@@ -37,13 +37,13 @@ FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.
   - 劇本：素浪人、G巳無月、
   - 原畫：
   - 音樂：[DOORS MUSIC
-    ENTERTAINMENT](../Page/DOORS_MUSIC_ENTERTAINMENT.md "wikilink")
+    ENTERTAINMENT](https://zh.wikipedia.org/wiki/DOORS_MUSIC_ENTERTAINMENT "wikilink")
 
 ## 主題曲
 
   - 片頭曲：「****」
-    作詞：HAJIMEX，作曲：[YURIA](../Page/YURIA.md "wikilink")，歌：[Honey
-    Bee](../Page/Honey_Bee.md "wikilink")
+    作詞：HAJIMEX，作曲：[YURIA](https://zh.wikipedia.org/wiki/YURIA "wikilink")，歌：[Honey
+    Bee](https://zh.wikipedia.org/wiki/Honey_Bee "wikilink")
   - 片尾曲：「****」
     作詞、作曲：吉田文，歌：Mayumi
 

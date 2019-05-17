@@ -1,5 +1,5 @@
 **Tomorrow**是日本[聲優](../Page/聲優.md "wikilink")[田村由香里的第](../Page/田村由香里.md "wikilink")15張單曲，由[KING
-RECORDS於](../Page/KING_RECORDS.md "wikilink")2008年12月17日發行，商品編號為KICM-1259（普通版）／KICM-91259（初回限定版）。
+RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2008年12月17日發行，商品編號為KICM-1259（普通版）／KICM-91259（初回限定版）。
 
 ## 概要
 
@@ -12,17 +12,17 @@ RECORDS於](../Page/KING_RECORDS.md "wikilink")2008年12月17日發行，商品�
 
 1.  Tomorrow
 
-      - 作詞：，作曲：野間康介，編曲：太田雅友，弦樂編曲：[弦一徹](../Page/弦一徹.md "wikilink")
-      - [日本電視台](../Page/日本電視台.md "wikilink")「[Poshlet百貨公司深夜店](../Page/Poshlet.md "wikilink")」12月主題曲
-      - [PSP](../Page/PSP.md "wikilink")[遊戲](../Page/遊戲.md "wikilink")「[夢幻騎士](../Page/夢幻騎士.md "wikilink")」主題曲
+      - 作詞：，作曲：野間康介，編曲：太田雅友，弦樂編曲：[弦一徹](https://zh.wikipedia.org/wiki/弦一徹 "wikilink")
+      - [日本電視台](../Page/日本電視台.md "wikilink")「[Poshlet百貨公司深夜店](https://zh.wikipedia.org/wiki/Poshlet "wikilink")」12月主題曲
+      - [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")「[夢幻騎士](../Page/夢幻騎士.md "wikilink")」主題曲
 
 2.    - 作詞：，作曲、編曲：太田雅友
       - 電腦遊戲「Dance×Mixer」主題曲
 
 3.  Don't wake me☆Up
 
-      - 作詞：MIZUE，作曲：[原一博](../Page/原一博.md "wikilink")，編曲：[h-wonder](../Page/h-wonder.md "wikilink")
-      - [文化放送系電台節目](../Page/文化放送.md "wikilink")「」結尾曲
+      - 作詞：MIZUE，作曲：[原一博](https://zh.wikipedia.org/wiki/原一博 "wikilink")，編曲：[h-wonder](https://zh.wikipedia.org/wiki/h-wonder "wikilink")
+      - [文化放送系電台節目](https://zh.wikipedia.org/wiki/文化放送 "wikilink")「」結尾曲
 
 ## 參考文獻
 

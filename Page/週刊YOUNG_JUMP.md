@@ -1,5 +1,5 @@
 《**週刊YOUNG JUMP**》（《WEEKLY YOUNG
-JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社发行的](../Page/集英社.md "wikilink")[青年漫画杂志](../Page/青年漫画.md "wikilink")。
+JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社发行的](../Page/集英社.md "wikilink")[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。
 于1979年5月半月刊《YOUNG JUMP》创刊、1981年随着週刊化杂志名也变更为《週刊YOUNG
 JUMP》。逢星期四发售。简称为《YOUNG
 J》或《YJ》。也是日本歷史上目前刊行最久的週刊青年漫畫雜誌。
@@ -32,7 +32,8 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - （2012年32号 - 2013年47号）
 
-  - [中村泰造](../Page/中村泰造.md "wikilink")（2013年48号 - 2014年）
+  - [中村泰造](https://zh.wikipedia.org/wiki/中村泰造 "wikilink")（2013年48号 -
+    2014年）
 
   - 嶋智之（2014年 - 現職）
 
@@ -55,7 +56,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <tr class="odd">
 <td><p><a href="../Page/REAL.md" title="wikilink">REAL</a></p></td>
 <td></td>
-<td><p><a href="../Page/井上雄彥.md" title="wikilink">井上雄彥</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/井上雄彥" title="wikilink">井上雄彥</a></p></td>
 <td><p>－</p></td>
 <td><p>1999年48號</p></td>
 <td><p>目前休載中</p></td>
@@ -77,7 +78,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/拳鬥之陸.md" title="wikilink">拳鬥之陸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/拳鬥之陸" title="wikilink">拳鬥之陸</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -87,21 +88,21 @@ JUMP（）](http://tonarinoyj.jp/)。
 <tr class="odd">
 <td><p><a href="../Page/火星異種.md" title="wikilink">火星異種</a></p></td>
 <td></td>
-<td><p><a href="../Page/橘賢一.md" title="wikilink">橘賢一</a></p></td>
-<td><p><a href="../Page/貴家悠.md" title="wikilink">貴家悠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橘賢一" title="wikilink">橘賢一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貴家悠" title="wikilink">貴家悠</a></p></td>
 <td><p>2012年22、23合併號</p></td>
 <td><p>目前休載中</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃金神威.md" title="wikilink">黃金神威</a></p></td>
 <td></td>
-<td><p><a href="../Page/野田智.md" title="wikilink">野田智</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/野田智" title="wikilink">野田智</a></p></td>
 <td><p>－</p></td>
 <td><p>2014年38號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/BUNGO.md" title="wikilink">BUNGO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BUNGO" title="wikilink">BUNGO</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -117,7 +118,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
 <td></td>
 <td><p><a href="../Page/赤坂明.md" title="wikilink">赤坂明</a></p></td>
 <td><p>－</p></td>
@@ -125,9 +126,9 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黑夜遊行.md" title="wikilink">黑夜遊行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑夜遊行" title="wikilink">黑夜遊行</a></p></td>
 <td></td>
-<td><p><a href="../Page/中村光.md" title="wikilink">中村光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中村光" title="wikilink">中村光</a></p></td>
 <td><p>－</p></td>
 <td><p>2016年49號</p></td>
 <td><p>每月一話連載</p></td>
@@ -141,7 +142,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/小偷刑警.md" title="wikilink">小偷刑警</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小偷刑警" title="wikilink">小偷刑警</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -149,7 +150,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/我們就是魔法少年.md" title="wikilink">我們就是魔法少年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我們就是魔法少年" title="wikilink">我們就是魔法少年</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -157,15 +158,15 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td><p>每月一話連載</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Good_Job.md" title="wikilink">Good Job</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Good_Job" title="wikilink">Good Job</a></p></td>
 <td></td>
-<td><p><a href="../Page/本宮宏志.md" title="wikilink">本宮宏志</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本宮宏志" title="wikilink">本宮宏志</a></p></td>
 <td></td>
 <td><p>2018年29號</p></td>
 <td><p>不定期連載</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/巴突克戰舞.md" title="wikilink">巴突克戰舞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴突克戰舞" title="wikilink">巴突克戰舞</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -181,7 +182,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md" title="wikilink">輝夜姬有話要說</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~" title="wikilink">輝夜姬有話要說</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/赤坂明.md" title="wikilink">赤坂明</a></p></td>
@@ -189,7 +190,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/TIENPO.md" title="wikilink">TIENPO</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TIENPO" title="wikilink">TIENPO</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -197,7 +198,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/影宅.md" title="wikilink">影宅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/影宅" title="wikilink">影宅</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -205,7 +206,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/AKECHI.md" title="wikilink">AKECHI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/AKECHI" title="wikilink">AKECHI</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -213,9 +214,9 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/殺人無罪.md" title="wikilink">殺人無罪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殺人無罪" title="wikilink">殺人無罪</a></p></td>
 <td></td>
-<td><p><a href="../Page/上田宏.md" title="wikilink">上田宏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上田宏" title="wikilink">上田宏</a></p></td>
 <td></td>
 <td><p>2018年45號</p></td>
 <td></td>
@@ -237,15 +238,15 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/女僕小姐們有點小交流障礙.md" title="wikilink">女僕小姐們有點小交流障礙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/女僕小姐們有點小交流障礙" title="wikilink">女僕小姐們有點小交流障礙</a></p></td>
 <td></td>
-<td><p><a href="../Page/三角頭_(漫畫家).md" title="wikilink">三角頭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三角頭_(漫畫家)" title="wikilink">三角頭</a></p></td>
 <td><p>－</p></td>
 <td><p>2018年49號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/童子軍鑑.md" title="wikilink">童子軍鑑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/童子軍鑑" title="wikilink">童子軍鑑</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -253,7 +254,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MoMo_-the_blood_taker-.md" title="wikilink">MoMo -the blood taker-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MoMo_-the_blood_taker-" title="wikilink">MoMo -the blood taker-</a></p></td>
 <td></td>
 <td><p><a href="../Page/杉戶Akira.md" title="wikilink">杉戶Akira</a></p></td>
 <td><p>－</p></td>
@@ -261,7 +262,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/可憐可愛元氣君.md" title="wikilink">可憐可愛元氣君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/可憐可愛元氣君" title="wikilink">可憐可愛元氣君</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
@@ -297,55 +298,55 @@ JUMP（）](http://tonarinoyj.jp/)。
 
 ## 完结作品
 
-  - [孔雀王](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
+  - [孔雀王](../Page/孔雀王.md "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
 
-  - [孔雀王-退魔圣传](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
+  - [孔雀王-退魔圣传](../Page/孔雀王.md "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
 
-  - [电脑启示录](../Page/电脑启示录.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
+  - [电脑启示录](https://zh.wikipedia.org/wiki/电脑启示录 "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
 
-  - [變異體少女](../Page/變異體少女.md "wikilink")（[冈本伦](../Page/冈本伦.md "wikilink")）
+  - [變異體少女](https://zh.wikipedia.org/wiki/變異體少女 "wikilink")（[冈本伦](https://zh.wikipedia.org/wiki/冈本伦 "wikilink")）
 
   - [我太太是高中生](../Page/我太太是高中生.md "wikilink")（こばやしひよこ）
 
-  - [酷哥辣妹搜查网](../Page/酷哥辣妹搜查网.md "wikilink")（[小手川瑜亚](../Page/小手川瑜亚.md "wikilink")）
+  - [酷哥辣妹搜查网](https://zh.wikipedia.org/wiki/酷哥辣妹搜查网 "wikilink")（[小手川瑜亚](https://zh.wikipedia.org/wiki/小手川瑜亚 "wikilink")）
 
   - [足球小将-ROAD TO
-    2002](../Page/足球小将.md "wikilink")（[高桥阳一](../Page/高桥阳一.md "wikilink")）
+    2002](https://zh.wikipedia.org/wiki/足球小将 "wikilink")（[高桥阳一](../Page/高桥阳一.md "wikilink")）
 
-  - [KIRARA](../Page/KIRARA.md "wikilink")（[唯登诗树](../Page/唯登诗树.md "wikilink")）
+  - [KIRARA](https://zh.wikipedia.org/wiki/KIRARA "wikilink")（[唯登诗树](https://zh.wikipedia.org/wiki/唯登诗树 "wikilink")）
 
-  - [死刑囚042](../Page/死刑囚042.md "wikilink")（[小手川瑜亚](../Page/小手川瑜亚.md "wikilink")）
+  - [死刑囚042](../Page/死刑囚042.md "wikilink")（[小手川瑜亚](https://zh.wikipedia.org/wiki/小手川瑜亚 "wikilink")）
 
-  - [どついたれ](../Page/どついたれ.md "wikilink")（[手冢治虫](../Page/手冢治虫.md "wikilink")）
+  - [どついたれ](https://zh.wikipedia.org/wiki/どついたれ "wikilink")（[手冢治虫](https://zh.wikipedia.org/wiki/手冢治虫 "wikilink")）
 
-  - ネコじゃないモン\!（[矢野健太郎](../Page/矢野健太郎.md "wikilink")）
+  - ネコじゃないモン\!（[矢野健太郎](https://zh.wikipedia.org/wiki/矢野健太郎 "wikilink")）
 
-  - [忘忧草的温柔](../Page/母亲的感情.md "wikilink")（[奥浩哉](../Page/奥浩哉.md "wikilink")）
+  - [忘忧草的温柔](https://zh.wikipedia.org/wiki/母亲的感情 "wikilink")（[奥浩哉](https://zh.wikipedia.org/wiki/奥浩哉 "wikilink")）
 
-  - [夜叉鸦](../Page/夜叉鸦.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
+  - [夜叉鸦](https://zh.wikipedia.org/wiki/夜叉鸦 "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
 
-  - [銀白榮躍](../Page/銀白榮躍.md "wikilink")（[冈本伦](../Page/冈本伦.md "wikilink")）
+  - [銀白榮躍](../Page/銀白榮躍.md "wikilink")（[冈本伦](https://zh.wikipedia.org/wiki/冈本伦 "wikilink")）
 
-  - [極速奇蹟](../Page/極速奇蹟.md "wikilink")（原名：カウンタック、[梅澤春人](../Page/梅澤春人.md "wikilink")）
+  - [極速奇蹟](https://zh.wikipedia.org/wiki/極速奇蹟 "wikilink")（原名：カウンタック、[梅澤春人](https://zh.wikipedia.org/wiki/梅澤春人 "wikilink")）
 
-  - [杀戮都市](../Page/杀戮都市.md "wikilink")（[奥浩哉](../Page/奥浩哉.md "wikilink")）
+  - [杀戮都市](https://zh.wikipedia.org/wiki/杀戮都市 "wikilink")（[奥浩哉](https://zh.wikipedia.org/wiki/奥浩哉 "wikilink")）
 
-  - [华丽咖喱食桌](../Page/华丽咖喱食桌.md "wikilink")（[船津一辉](../Page/船津一辉.md "wikilink")）
+  - [华丽咖喱食桌](https://zh.wikipedia.org/wiki/华丽咖喱食桌 "wikilink")（[船津一辉](https://zh.wikipedia.org/wiki/船津一辉 "wikilink")）
 
-  - （[林健太郎](../Page/林健太郎.md "wikilink")）
+  - （[林健太郎](https://zh.wikipedia.org/wiki/林健太郎 "wikilink")）
 
-  - [スピナマラダ\!](../Page/スピナマラダ!.md "wikilink")（）
+  - [スピナマラダ\!](https://zh.wikipedia.org/wiki/スピナマラダ! "wikilink")（）
 
-  - [守護靈](../Page/守護靈.md "wikilink")（原名：ヒトヒトリフタリ、[高橋努](../Page/高橋努.md "wikilink")）
+  - [守護靈](https://zh.wikipedia.org/wiki/守護靈 "wikilink")（原名：ヒトヒトリフタリ、[高橋努](../Page/高橋努.md "wikilink")）
 
   - （[金田一蓮十郎](../Page/金田一蓮十郎.md "wikilink")）2012年28号 -
-    2013年30号、←從『[アオハル](../Page/アオハル.md "wikilink")』移籍
+    2013年30号、←從『[アオハル](https://zh.wikipedia.org/wiki/アオハル "wikilink")』移籍
 
   - [WxY
-    ダブリューエックスワイ](../Page/WxY.md "wikilink")（[マドカマチコ](../Page/マドカマチコ.md "wikilink")）2012年30号
+    ダブリューエックスワイ](https://zh.wikipedia.org/wiki/WxY "wikilink")（[マドカマチコ](https://zh.wikipedia.org/wiki/マドカマチコ "wikilink")）2012年30号
     - 2014年12号
 
-  - [ニポンゴ](../Page/ニポンゴ.md "wikilink")（）2011年50号[讀切版](../Page/讀切.md "wikilink")、2012年31号
+  - [ニポンゴ](https://zh.wikipedia.org/wiki/ニポンゴ "wikilink")（）2011年50号[讀切版](https://zh.wikipedia.org/wiki/讀切 "wikilink")、2012年31号
     - 2014年15号
 
   - （）2011年41號－2014年42號連載
@@ -356,13 +357,13 @@ YOUNG JUMP網絡上連載的漫畫。
 
 ### 連載作品
 
-  - [一拳超人](../Page/一拳超人.md "wikilink")
-  - [站起來吧！半獸人先生](../Page/站起來吧！半獸人先生.md "wikilink")
+  - [一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")
+  - [站起來吧！半獸人先生](https://zh.wikipedia.org/wiki/站起來吧！半獸人先生 "wikilink")
 
 ## 关联项目
 
   - [集英社](../Page/集英社.md "wikilink")
-  - [週刊少年Jump](../Page/周刊少年Jump.md "wikilink")
+  - [週刊少年Jump](https://zh.wikipedia.org/wiki/周刊少年Jump "wikilink")
 
 ## 外部链接
 

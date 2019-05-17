@@ -4,15 +4,15 @@ Storm](../Page/J_Storm.md "wikilink")。
 ## 解說
 
   - 與前作「[明日的記憶/Crazy
-    Moon～妳·是·無敵的～](../Page/明日的記憶/Crazy_Moon～妳·是·無敵的～.md "wikilink")」只相距約一個月。作為嵐自身最短時間連續發行的單曲，本作的發售消息早發表於前作剛發售的數天內。本作又是自「[Beautiful
+    Moon～妳·是·無敵的～](https://zh.wikipedia.org/wiki/明日的記憶/Crazy_Moon～妳·是·無敵的～ "wikilink")」只相距約一個月。作為嵐自身最短時間連續發行的單曲，本作的發售消息早發表於前作剛發售的數天內。本作又是自「[Beautiful
     days](../Page/Beautiful_days_\(嵐\).md "wikilink")」以來久違2作的單獨A面單曲、前作以來連續2作的廣告歌。
   - 共分初回限定盤、通常盤2種形態發售。除「Everything」「season」以外，初回限定盤附贈「Everything」的PV，通常盤則額外收錄2曲的Original
     Karaoke，共計4曲。
-  - 主打歌為代言廣告[au](../Page/au_\(流動電話\).md "wikilink")「假如我們不是嵐。」的廣告歌。同為該公司廣告歌的還有「Beautiful
+  - 主打歌為代言廣告[au](https://zh.wikipedia.org/wiki/au_\(流動電話\) "wikilink")「假如我們不是嵐。」的廣告歌。同為該公司廣告歌的還有「Beautiful
     days」中的「[我就是我的一切](../Page/Beautiful_days_\(嵐\).md "wikilink")」以及本作中的「season」。為此，本作收錄的兩首歌都是同一公司同一系列廣告的廣告歌。PV則是自《安啦沒問題》以來久違的外景拍攝（逗子海岸）。而唱片封面則於鵠沼海岸拍攝。
-  - 配曲「season」雖跟主打歌同是au的廣告歌，但卻在前前作《[Believe/烏雲散去、天氣晴](../Page/Believe/烏雲散去、天氣晴.md "wikilink")》發售前就進行過完整音樂下載，久經多月的爭取才正式收錄於唱片內。
+  - 配曲「season」雖跟主打歌同是au的廣告歌，但卻在前前作《[Believe/烏雲散去、天氣晴](https://zh.wikipedia.org/wiki/Believe/烏雲散去、天氣晴 "wikilink")》發售前就進行過完整音樂下載，久經多月的爭取才正式收錄於唱片內。
   - 另外，在本作發售約一週前，宣佈於8月19日發售的嵐的第3張精選專輯《[1999-2009
-    完全精選\!](../Page/1999-2009_完全精選!.md "wikilink")》中沒有收錄本作的主打歌。
+    完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》中沒有收錄本作的主打歌。
 
 ### 主要紀錄
 
@@ -29,10 +29,10 @@ Storm](../Page/J_Storm.md "wikilink")。
 
 1.  **Everything**
       -
-        [au](../Page/au_\(流動電話\).md "wikilink")「假如我們不是嵐。與去年不同的夏天。」廣告歌
+        [au](https://zh.wikipedia.org/wiki/au_\(流動電話\) "wikilink")「假如我們不是嵐。與去年不同的夏天。」廣告歌
 2.  **season**
       -
-        [au](../Page/au_\(流動電話\).md "wikilink")「假如我們不是嵐。」廣告歌
+        [au](https://zh.wikipedia.org/wiki/au_\(流動電話\) "wikilink")「假如我們不是嵐。」廣告歌
 3.  Everything（Original Karaoke）
 4.  season（Original Karaoke）
 

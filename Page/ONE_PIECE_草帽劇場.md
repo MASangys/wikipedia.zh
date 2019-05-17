@@ -4,7 +4,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》的番外篇。
 ## 概要
 
 ONE
-PIECE的番外編是各話數頁的短篇。草帽劇場劇最初的設定是在第304話「長環長島的冒險」附贈的全彩4格[漫畫](../Page/漫畫.md "wikilink")「海上的音樂會」。後由集英社發行的三本總集中編成3頁在“REPORT
+PIECE的番外編是各話數頁的短篇。草帽劇場劇最初的設定是在第304話「長環長島的冒險」附贈的全彩4格[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")「海上的音樂會」。後由集英社發行的三本總集中編成3頁在“REPORT
 TIME”刊登。以這部作品為開端，總集編共有5篇被發表，成為被動畫化的“草帽劇場”的系列名。除了“CHOPPER
 MAN”外其餘都以“○○TIME”來表示。
 
@@ -16,7 +16,7 @@ GREEN”。
 
   - 『報導時間』
     『ONE PIECE總集編 2ND LOG
-    "SANJI"』揭載。敘述[香吉士加入草帽海賊團前](../Page/香吉士.md "wikilink")，[魯夫](../Page/蒙其·D·魯夫.md "wikilink")·[索隆](../Page/羅羅亞·索隆.md "wikilink")·[娜美](../Page/娜美.md "wikilink")·[騙人布的飲食生活](../Page/騙人布.md "wikilink")。
+    "SANJI"』揭載。敘述[香吉士加入草帽海賊團前](https://zh.wikipedia.org/wiki/香吉士 "wikilink")，[魯夫](../Page/蒙其·D·魯夫.md "wikilink")·[索隆](../Page/羅羅亞·索隆.md "wikilink")·[娜美](../Page/娜美.md "wikilink")·[騙人布的飲食生活](../Page/騙人布.md "wikilink")。
   - 『大嬸時間』
     『ONE PIECE總集編 3RD LOG "NAMI"』揭載。草帽海賊團全員（佛朗基、布魯克除外）以大嬸姿態登場。
   - 『無仁義時間』
@@ -26,7 +26,8 @@ GREEN”。
   - 『怪物時間』
     『ONE PIECE總集編 7TH LOG "VIVI"』揭載。草帽海賊團全員（佛朗基、布魯克除外）以幻獸姿態登場。
   - 『太空時間』
-    收錄於“ONE PIECE YELLOW ”，以外[太空為舞台的故事](../Page/太空.md "wikilink")。
+    收錄於“ONE PIECE YELLOW
+    ”，以外[太空為舞台的故事](https://zh.wikipedia.org/wiki/太空 "wikilink")。
   - 『3年SEA班紅髮時間』
     『ONE PIECE 10TH TREASURES』揭載，以學園為舞台的故事。
   - 『童話時間』
@@ -43,13 +44,13 @@ GREEN”。
 ### 報導時間
 
   - 魯夫、索隆、娜美、騙人布、香吉士
-    現場噴[口水](../Page/口水.md "wikilink")
+    現場噴[口水](https://zh.wikipedia.org/wiki/口水 "wikilink")
     訪問草帽海賊團的缺德記者，口頭禪是「我無話可說」。
 
 ### 大嬸時間
 
   - 魯夫崎
-    菜單裡只寫肉料理的[大嬸](../Page/大嬸.md "wikilink")，喜歡吃煎餅。
+    菜單裡只寫肉料理的[大嬸](https://zh.wikipedia.org/wiki/大嬸 "wikilink")，喜歡吃煎餅。
 
   - 索隆山
     為了做生魚片把廚房和醬油瓶都切成兩半的大嬸。
@@ -74,7 +75,7 @@ GREEN”。
 ### 無仁義時間
 
   - 首領·魯夫奧內
-    「魯夫奧內幫」的幫主，抽雪茄的原因是不屑和平民吸一樣的[空氣](../Page/空氣.md "wikilink")。
+    「魯夫奧內幫」的幫主，抽雪茄的原因是不屑和平民吸一樣的[空氣](https://zh.wikipedia.org/wiki/空氣 "wikilink")。
   - 首領·索隆西亞
     「索隆西亞幫」的幫主，被我方的成員羅賓達背叛死亡。
   - 首領·香吉諾
@@ -206,7 +207,7 @@ GREEN”。
   - 雷電香衛門
     江戶的橫綱。
   - 妮可佩利
-    sullivan合眾國海軍艦隊司令官，外型參考自[黑船來航事件中美國海軍將領](../Page/黑船來航.md "wikilink")[馬修·培理](../Page/馬修·培理.md "wikilink")。
+    sullivan合眾國海軍艦隊司令官，外型參考自[黑船來航事件中美國海軍將領](../Page/黑船來航.md "wikilink")[馬修·培理](https://zh.wikipedia.org/wiki/馬修·培理 "wikilink")。
   - 喬部半藏
     忍者。
   - 索隆作

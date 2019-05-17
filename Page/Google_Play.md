@@ -13,9 +13,9 @@ Play於2012年3月6日推出，將Android Market，Google
 Music和Google電子書店整合在一個品牌下，標誌著Google數位分銷策略的轉變。\[3\]
 Google Play旗下的服務包括：[Google
 Play音樂](../Page/Google_Play音樂.md "wikilink")，[Google
-Play圖書](../Page/Google_Play_Books.md "wikilink")，Google
+Play圖書](https://zh.wikipedia.org/wiki/Google_Play_Books "wikilink")，Google
 Play書報攤，Google Play電影和[Google
-Play遊戲](../Page/Google_Play游戏.md "wikilink")。Google
+Play遊戲](https://zh.wikipedia.org/wiki/Google_Play游戏 "wikilink")。Google
 Play商店已發布超過220萬個應用程式\[4\]，下載次數超過500億次。\[5\]
 
 ## 歷史
@@ -49,7 +49,7 @@ Play的應用內訂閱。\[16\]
 2014年7月，Google將其所有Unlimited 音樂服務（現為Google Play音樂）擴展到其他五個國家/地區的烏克蘭。
 烏克蘭因此加入俄羅斯作為唯一的前蘇聯各共和國獲得服務。\[17\]
 
-於2016年4月4日，Android的官方網誌宣布重新設計Play應用程式套件所使用的圖示，包括Play商店，[Play電影](../Page/Google_Play_Movies_&_TV.md "wikilink")，[Play音樂](../Page/Google_Play音樂.md "wikilink")，[Play遊戲](../Page/Google_Play_Games.md "wikilink")，Play書籍和Play書報攤。
+於2016年4月4日，Android的官方網誌宣布重新設計Play應用程式套件所使用的圖示，包括Play商店，[Play電影](https://zh.wikipedia.org/wiki/Google_Play_Movies_&_TV "wikilink")，[Play音樂](../Page/Google_Play音樂.md "wikilink")，[Play遊戲](https://zh.wikipedia.org/wiki/Google_Play_Games "wikilink")，Play書籍和Play書報攤。
 新圖標具有類似的風格，旨在提供所有裝置和網絡的一致性外觀。\[18\]
 
 ## Android平台
@@ -112,11 +112,11 @@ Play直接下載應用。\[24\]
 
 ### 版本機制
 
-由於Android是一個系統結構可自由更改的系統，例如[ASUS](../Page/ASUS.md "wikilink")、[HTC和](../Page/HTC.md "wikilink")[Sony
-Mobile等公司往往會在Play商店內加入自家的應用程式下載頁](../Page/Sony_Ericsson.md "wikilink")；
+由於Android是一個系統結構可自由更改的系統，例如[ASUS](https://zh.wikipedia.org/wiki/ASUS "wikilink")、[HTC和](https://zh.wikipedia.org/wiki/HTC "wikilink")[Sony
+Mobile等公司往往會在Play商店內加入自家的應用程式下載頁](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")；
 
 另一些公司例如[三星可同時運用Play商店和](../Page/三星電子.md "wikilink")[Samsung
-Apps](../Page/Samsung_Apps.md "wikilink")；而例如[中華電信等電信公司則在其手機中加入自己運用的軟體商店](../Page/中華電信.md "wikilink")，例如[Hami](../Page/Hami.md "wikilink")；Amazon
+Apps](https://zh.wikipedia.org/wiki/Samsung_Apps "wikilink")；而例如[中華電信等電信公司則在其手機中加入自己運用的軟體商店](https://zh.wikipedia.org/wiki/中華電信 "wikilink")，例如[Hami](https://zh.wikipedia.org/wiki/Hami "wikilink")；Amazon
 [Kindle
 Fire平板電腦並沒有安裝Play商店](../Page/Kindle_Fire.md "wikilink")，取而代之的是自己開發的軟體商店。但相比較其它主流的應用軟體商店，Google
 Play的免費軟體比例是最高的。
@@ -126,7 +126,7 @@ Play的免費軟體比例是最高的。
 軟體發展者擁有開發者許可權，申請該許可權需要擁有一個[Gmail帳號以及有效的信用卡以繳交申請費用](../Page/Gmail.md "wikilink")。軟體發展者可以選擇開發付費或免費的應用程式，其中付費應用程式將收到70%的價格，剩下的30%將支付於媒介管道如通過自己的網路以及信用卡公司授權收取費用申請購買等。
 
 從Google Play獲得的收入是通過[Google
-Checkout支付給開發商](../Page/Google_Checkout.md "wikilink")。
+Checkout支付給開發商](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")。
 
 而除了官方所提供的上架服務之外，網上也有提供著一些協力廠商代上架服務\[25\]，以讓沒有開發者許可權的開發者能夠把應用程式上架至Google
 Play。
@@ -134,7 +134,7 @@ Play。
 ### 安全性
 
 在以往，Google Play的應用程式審查相較[App
-Store比較放寬](../Page/App_Store.md "wikilink")。一般應用程式或開發者在未收到投訴之前不需要任何審查，只要持有有效的開發人員許可權就能夠在數小時之內將應用程式上架，因此Google
+Store比較放寬](https://zh.wikipedia.org/wiki/App_Store "wikilink")。一般應用程式或開發者在未收到投訴之前不需要任何審查，只要持有有效的開發人員許可權就能夠在數小時之內將應用程式上架，因此Google
 Play相對上較容易存在惡意程式，因此應用程式安全性一直受到質疑。而在[2015年3月](../Page/2015年3月.md "wikilink")，Google宣佈追加新的應用程式審查機制，日後開發者在提出上架需求時，Google會對其內容進行審查，不合格之應用程式將不被上架，以確保應用程式的品質以及過濾惡意程式\[26\]。
 
 ## 服務內容
@@ -145,7 +145,7 @@ Play商店為Google提供的雲端網路應用程式及數位媒體付費平台�
 ### Android 應用程式
 
 Google
-Play免費向提供全球免費應用程式（[美國禁運國家/地區除外](../Page/美國禁運國家/地區.md "wikilink")）\[27\]
+Play免費向提供全球免費應用程式（[美國禁運國家/地區除外](https://zh.wikipedia.org/wiki/美國禁運國家/地區 "wikilink")）\[27\]
 而付費應用程式在135個國家可用。\[28\] 用户可以使用**Google Play商店**應用程式或透過電腦上的Google
 Play網站，從裝置安裝應用程式。 根據AppBrain統計，有超過140萬個應用程式可用。,\[29\]
 其中超過120萬是免費的，超過20萬是付費應用。\[30\]
@@ -163,17 +163,17 @@ Google Play允許開發人員向特定的用戶組發布早期版本的應用，
 這允許開發人員在應用程式廣泛發布之前修復任何問題。 Google
 Play還允許開發人員分階段發布更新，首先發布給一部分用戶，然後逐步發佈到用戶群的較大部分，以確保最小數量的用戶受到測試中錯過的任何問題的影響。\[37\]
 
-某些運營商（如[中華電信](../Page/中華電信.md "wikilink")）會為應用購買提供直接運營商代扣。\[38\]購買到不需要的應用程式可在48小時內退款。\[39\]
+某些運營商（如[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")）會為應用購買提供直接運營商代扣。\[38\]購買到不需要的應用程式可在48小時內退款。\[39\]
 
 符合Google設定的某些設計標準的應用可與[Android
-Wear和](../Page/Android_Wear.md "wikilink")[Android
+Wear和](https://zh.wikipedia.org/wiki/Android_Wear "wikilink")[Android
 TV裝置以及](../Page/Android_TV.md "wikilink")[Google
 Fit平台兼容](../Page/Google健身.md "wikilink")。
 
 根據[T-Mobile首席技術官Cole](../Page/T-Mobile.md "wikilink")
 Brodman的說法，2009年3月17日，Android Market有大約2,300個應用程式可用。\[40\]
 2011年5月10日，在[Google I /
-O期間](../Page/Google_I/O.md "wikilink")，Google宣布Android
+O期間](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，Google宣布Android
 Market上市了20萬個應用程式，安裝了45億個應用程式。\[41\] 2012年10月，Google宣布Google
 Play有700,000個應用程式可供下載，與蘋果應用程式商店中的應用程式數量相符。\[42\]
 2013年7月24日，Google宣布Play商店現有100萬個應用程式上市，下載量超過500億次。\[43\]
@@ -217,13 +217,13 @@ Play提供了一個擁有超過3500萬首歌曲的在線音樂商店，\[72\]\[7
 Play音樂的訂閱音樂串流服務。 歌曲售價為1.29美元，0.99美元，0.69美元，免費。 Google
 Play音樂目前可在58個國家使用。\[74\]原名為Google
 Music。服務於2011年5月10日在[Google
-I/O上發佈](../Page/Google_I/O.md "wikilink")，2011年11月向公眾開放，2012年3月7日被整合進Google
+I/O上發佈](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，2011年11月向公眾開放，2012年3月7日被整合進Google
 Play。
 
 Play音樂允許使用者免費儲存最多20000首歌曲，並可以於線上購買音樂並分享音樂至[Google+](../Page/Google+.md "wikilink")，用戶可以利用浏覽器、[Android](../Page/Android.md "wikilink")、使用[Adobe
 Flash的產品透過Music](../Page/Adobe_Flash.md "wikilink")
 Manager上傳音樂於雲端或下載於電腦端。利用Instant
-Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音樂也會保留播放清單](../Page/iTunes.md "wikilink")。
+Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音樂也會保留播放清單](https://zh.wikipedia.org/wiki/iTunes "wikilink")。
 
   - 免費功能
 
@@ -231,7 +231,7 @@ Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音�
 
   - 可將自行上傳或購買的音樂保留在雲端，上限為50000首。
   - 系統會自動分析使用者常聽的音樂並整合為一合輯推薦
-  - 系統會自動分析使用者當下情境並給與對應情境的音樂（使用[Songza的技術](../Page/Songza.md "wikilink")）
+  - 系統會自動分析使用者當下情境並給與對應情境的音樂（使用[Songza的技術](https://zh.wikipedia.org/wiki/Songza "wikilink")）
 
 <!-- end list -->
 
@@ -241,9 +241,9 @@ Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音�
 
   - 每個月繳交一定金额后就可启用，於正式付費訂閱前可免費試用一個月。
   - 儲存在Google Play雲端的付費音樂皆可收聽，同時不受廣告干擾。
-  - 系統會自動分析使用者當下情境並給與對應情境的音樂（使用[Songza的技術](../Page/Songza.md "wikilink")）
+  - 系統會自動分析使用者當下情境並給與對應情境的音樂（使用[Songza的技術](https://zh.wikipedia.org/wiki/Songza "wikilink")）
   - [Youtube Music
-    Key付費功能也包含其中](../Page/Youtube_Music_Key.md "wikilink")
+    Key付費功能也包含其中](https://zh.wikipedia.org/wiki/Youtube_Music_Key "wikilink")
 
 ### 圖書
 
@@ -251,7 +251,7 @@ Mix功能可以加入含有歌曲搭配的播放清單。或[iTunes匯入的音�
 圖書的可用區域](https://zh.wikipedia.org/wiki/File:World_map_of_countries_where_Google_Play_Books_are_available.png "fig:Google Play 圖書的可用區域")
 
 Google Play是全球最大的電子書商店，擁有超過500萬本書籍。\[75\]
-購買的圖書將儲存在雲端，可以以[PDF和](../Page/便携式文档格式.md "wikilink")[EPUB格式下載](../Page/EPUB.md "wikilink")。\[76\]
+購買的圖書將儲存在雲端，可以以[PDF和](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")[EPUB格式下載](../Page/EPUB.md "wikilink")。\[76\]
 Google採用[Adobe Content
 Server](../Page/Adobe_Content_Server.md "wikilink")
 4作為[數位版權管理（DRM）解決方案](../Page/数字版权管理.md "wikilink")，以保護下載的電子書副本。
@@ -264,9 +264,9 @@ Chrome瀏覽器上](../Page/Google_Chrome.md "wikilink")。\[79\]
 目前在65個國家支持購買圖書。\[80\] Google要求用戶提供付款信息，即使是免費下載電子書。 除了從Google
 Play下載圖書之外，用戶還可以使用PDF或EPUB格式上傳圖書，這些圖書可以免費儲存在雲端，最多可儲存1,000本圖書。
 
-Play圖書支援瀏覽器、[Android](../Page/Android.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、Sony
+Play圖書支援瀏覽器、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、Sony
 eReader、[Barnes & Noble
-Nook](../Page/Barnes_&_Noble_Nook.md "wikilink")。
+Nook](https://zh.wikipedia.org/wiki/Barnes_&_Noble_Nook "wikilink")。
 
 發布商和作者可以通過[Play圖書合作夥伴中心](https://play.google.com/books/publish/u/0/)在Google
 Play上發布他們的圖書。 Google要求發布商在Google Play上銷售他們的電子書，以便在Google圖書上進行有限預覽。
@@ -313,7 +313,7 @@ I / O上，Google宣布將通過Google Play購買Nexus 7平板電腦。\[86\] �
 
 截止目前，應用程式中的付費服務共支援129個國家，而其他服務支援隨著[Google不斷的推廣](../Page/Google.md "wikilink")，擁有其他服務的國家正逐漸增加中。
 
-在[中國大陸](../Page/中國大陸.md "wikilink")，因[谷歌退出中國事件及當局對於Apps審查等因素](../Page/谷歌退出中國事件.md "wikilink")，付費服務和部分免費服務無法使用。2014年11月20日起，Google开放中国开发者贩售app，使用USD结算。
+在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，因[谷歌退出中國事件及當局對於Apps審查等因素](https://zh.wikipedia.org/wiki/谷歌退出中國事件 "wikilink")，付費服務和部分免費服務無法使用。2014年11月20日起，Google开放中国开发者贩售app，使用USD结算。
 
 在[臺灣](../Page/臺灣.md "wikilink")，因[手機付費軟體猶豫期事件](../Page/手機付費軟體猶豫期事件.md "wikilink")，Google於2011年暫停了付費服務，至到2013年2月27日才恢復。
 
@@ -331,7 +331,7 @@ I / O上，Google宣布將通過Google Play購買Nexus 7平板電腦。\[86\] �
 <th><p>rowspan = "2" |Google Play图书[91]</p></th>
 <th><p>rowspan = "2" |Google Play报亭<br />
 （付費內容）</p></th>
-<th><p>rowspan = "2" |<a href="../Page/Google商店.md" title="wikilink">Google商店</a></p></th>
+<th><p>rowspan = "2" |<a href="https://zh.wikipedia.org/wiki/Google商店" title="wikilink">Google商店</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1556,11 +1556,11 @@ I / O上，Google宣布將通過Google Play購買Nexus 7平板電腦。\[86\] �
 
 ### 中国大陆
 
-在中国大陆，因[Google退出中國事件導致大部分廠商販賣的](../Page/Google退出中國事件.md "wikilink")[行貨裝置沒有安裝](../Page/行貨.md "wikilink")“[Google服務架構](../Page/Google流動服務.md "wikilink")”（即使這些裝置已獲得Google相容性認證及使用授權（CTS及GMS）\[94\]），所以無法下載Google
-Play中的應用。這些裝置的使用者可自行為裝置獲得[Root許可權或解鎖裝置的Bootloader之後通過協力廠商Recovery](../Page/Root_\(Android系統\).md "wikilink")（這樣做可能會使裝置失去保固服務），將“Google服務架構”刷寫到裝置系統中，即可正常使用Google
+在中国大陆，因[Google退出中國事件導致大部分廠商販賣的](https://zh.wikipedia.org/wiki/Google退出中國事件 "wikilink")[行貨裝置沒有安裝](https://zh.wikipedia.org/wiki/行貨 "wikilink")“[Google服務架構](../Page/Google流動服務.md "wikilink")”（即使這些裝置已獲得Google相容性認證及使用授權（CTS及GMS）\[94\]），所以無法下載Google
+Play中的應用。這些裝置的使用者可自行為裝置獲得[Root許可權或解鎖裝置的Bootloader之後通過協力廠商Recovery](https://zh.wikipedia.org/wiki/Root_\(Android系統\) "wikilink")（這樣做可能會使裝置失去保固服務），將“Google服務架構”刷寫到裝置系統中，即可正常使用Google
 Play以及其他Google服務。但部分手机厂家预装了不完整的Google服务。如华为，其在大陆销售的手机大部分都预装了Google服务框架【可以在系统设置中的法律信息选项中找到“Google法律信息”选项。如果没有，则已删除Google服务框架】
 
-除上述[行貨裝置以外](../Page/行貨.md "wikilink")，其他在中國大陸的裝置可以正常下載免費應用程式，但無法瀏覽和購買付費內容。需將IP位址代理到國外（借助[VPN](../Page/VPN.md "wikilink")、全域[代理等方法](../Page/代理.md "wikilink")），並且使用非中國大陸業者[中國電信](../Page/中國電信.md "wikilink")、[中國移動](../Page/中國移動.md "wikilink")、[中國聯通的](../Page/中國聯通.md "wikilink")[SIM卡](../Page/SIM卡.md "wikilink")（也可透過偽裝SIM卡所在地的工具，如Market
+除上述[行貨裝置以外](https://zh.wikipedia.org/wiki/行貨 "wikilink")，其他在中國大陸的裝置可以正常下載免費應用程式，但無法瀏覽和購買付費內容。需將IP位址代理到國外（借助[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")、全域[代理等方法](../Page/代理.md "wikilink")），並且使用非中國大陸業者[中國電信](https://zh.wikipedia.org/wiki/中國電信 "wikilink")、[中國移動](https://zh.wikipedia.org/wiki/中國移動 "wikilink")、[中國聯通的](https://zh.wikipedia.org/wiki/中國聯通 "wikilink")[SIM卡](../Page/SIM卡.md "wikilink")（也可透過偽裝SIM卡所在地的工具，如Market
 Access，或拔掉SIM卡。）\[95\]\[96\]\[97\]\[98\]\[99\]，即可瀏覽付費內容且可購買付費內容（僅瀏覽付費內容時實際並無SIM卡區域限制）。使用具有[美元支付功能的](../Page/美元.md "wikilink")[信用卡方可完成購買](../Page/信用卡.md "wikilink")。\[100\]\[101\]\[102\]如果購買成功後，不用VPN再次開啟Google
 Play時，付費程式也可以正常瀏覽，但若此時購買Google Play的物品可能會被Google暫停Google
 wallet帳號，交易款被退回。
@@ -1568,7 +1568,7 @@ wallet帳號，交易款被退回。
 此外，中國大陸境內亦有很多提供應用程式下載服務的協力廠商軟體站點，提供的服務類型和軟體資源大體上與官方相同，但原本在Google
 Play中需要付費下載的應用在這裡均變為免費下載，軟體即為盜版軟體（亦稱“已付費版”）。
 
-2014年5月29日開始因[防火長城對Google的伺服器進行](../Page/防火長城.md "wikilink")[大規模干擾以至於基本在大陸無法使用Google的所有服務](../Page/2014年中国大陆屏蔽谷歌服务事件.md "wikilink")，而Google
+2014年5月29日開始因[防火長城對Google的伺服器進行](https://zh.wikipedia.org/wiki/防火長城 "wikilink")[大規模干擾以至於基本在大陸無法使用Google的所有服務](../Page/2014年中国大陆屏蔽谷歌服务事件.md "wikilink")，而Google
 Play也難以避免。
 
 2014年11月20日起，Google允许中国区开发者上架付費應用程式，使用美元结算。\[103\]
@@ -1576,7 +1576,7 @@ Play也難以避免。
 ### 臺灣
 
 由於[臺北市政府向Google提出Google](../Page/臺北市政府.md "wikilink")
-Play軟體必須依照《消費者保護法》提供7天鑒賞期，Google表示會再與臺北市政府研討，暫時停止臺灣地區付費軟體下載。後Google認為他們原本條款合理，拒絕更改條款，因此關閉對臺灣地區的付費下載服務。臺北市政府認為Google因未遵循限期改善的命令，裁罰新臺幣100萬元。Google向[經濟部提出](../Page/中華民國經濟部.md "wikilink")[訴願](../Page/訴願.md "wikilink")，但未被接受，於是向[臺北高等行政法院提起上訴](../Page/臺北高等行政法院.md "wikilink")，引發[手機付費軟體猶豫期事件](../Page/手機付費軟體猶豫期事件.md "wikilink")。
+Play軟體必須依照《消費者保護法》提供7天鑒賞期，Google表示會再與臺北市政府研討，暫時停止臺灣地區付費軟體下載。後Google認為他們原本條款合理，拒絕更改條款，因此關閉對臺灣地區的付費下載服務。臺北市政府認為Google因未遵循限期改善的命令，裁罰新臺幣100萬元。Google向[經濟部提出](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")[訴願](https://zh.wikipedia.org/wiki/訴願 "wikilink")，但未被接受，於是向[臺北高等行政法院提起上訴](../Page/臺北高等行政法院.md "wikilink")，引發[手機付費軟體猶豫期事件](../Page/手機付費軟體猶豫期事件.md "wikilink")。
 
 2013年2月，臺北市政府敗訴，Google重新打開付費服務。\[104\]\[105\]雖然市府敗訴，\[106\]但是[臺灣高等法院肯定了鑒賞期的合理性與合法性](../Page/臺灣高等法院.md "wikilink")，也希望Google在條款中加入，所以消費者仍可以依現行《消保法》規定以聯絡Google的方式在七日內退費。
 
@@ -1584,11 +1584,12 @@ Play軟體必須依照《消費者保護法》提供7天鑒賞期，Google表示
 
   - **Google Play圖書：**2013年9月26日
   - **Google Play電影：**2014年11月5日
-  - **[Google Play裝置](../Page/Google商店.md "wikilink")：**2015年1月22日
+  - **[Google
+    Play裝置](https://zh.wikipedia.org/wiki/Google商店 "wikilink")：**2015年1月22日
   - **Google Play書報攤：**2015年7月16日
 
 2019年3月，Google
-Play被[中華民國財政部依照](../Page/中華民國財政部.md "wikilink")《統一發票使用辦法》\[107\]之規定開立[雲端發票](../Page/統一發票_\(台灣\).md "wikilink")\[108\]。
+Play被[中華民國財政部依照](https://zh.wikipedia.org/wiki/中華民國財政部 "wikilink")《統一發票使用辦法》\[107\]之規定開立[雲端發票](https://zh.wikipedia.org/wiki/統一發票_\(台灣\) "wikilink")\[108\]。
 
 ## 参考文献
 
@@ -1605,7 +1606,7 @@ Play被[中華民國財政部依照](../Page/中華民國財政部.md "wikilink"
 ## 参见
 
   - [Android](../Page/Android.md "wikilink")
-  - [谷歌退出中国事件](../Page/谷歌退出中国事件.md "wikilink")
+  - [谷歌退出中国事件](https://zh.wikipedia.org/wiki/谷歌退出中国事件 "wikilink")
   - [手機付費軟體猶豫期事件](../Page/手機付費軟體猶豫期事件.md "wikilink")
   - [行動軟體發行平台列表](../Page/行動軟體發行平台列表.md "wikilink")
 
@@ -1689,7 +1690,7 @@ Play被[中華民國財政部依照](../Page/中華民國財政部.md "wikilink"
 33.
 
 34.  *Wikipedia has an
-    [article](../Page/The_Secrets_to_App_Success_on_Google_Play.md "wikilink")
+    [article](https://zh.wikipedia.org/wiki/The_Secrets_to_App_Success_on_Google_Play "wikilink")
     about the cited book*.
 
 35.

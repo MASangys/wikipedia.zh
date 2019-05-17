@@ -26,31 +26,31 @@ Video。
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>受寵若驚 music video</p></td>
-<td><p><a href="../Page/張佳添.md" title="wikilink">張佳添</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張佳添" title="wikilink">張佳添</a></p></td>
 <td><p><a href="../Page/黃敬佩.md" title="wikilink">黃敬佩</a></p></td>
-<td><p><a href="../Page/曾憲宗.md" title="wikilink">曾憲宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曾憲宗" title="wikilink">曾憲宗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
 <td><p>我一個睡 music video</p></td>
 <td><p><a href="../Page/唐奕聰.md" title="wikilink">唐奕聰</a></p></td>
 <td><p><a href="../Page/林夕.md" title="wikilink">林夕</a></p></td>
-<td><p><a href="../Page/李美圓.md" title="wikilink">李美圓</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李美圓" title="wikilink">李美圓</a></p></td>
 </tr>
 </tbody>
 </table>
 
 ### Audio
 
-|                                     |                                     |                                                                         |                                  |                                                  |                                                                   |                                        |                                     |
-| ----------------------------------- | ----------------------------------- | ----------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------- | -------------------------------------- | ----------------------------------- |
-| <font color=darkgreen>**曲序**</font> | <font color=darkgreen>**曲名**</font> | <font color=darkgreen>**作曲**</font>                                     | <font color=green>**作詞**</font>  | <font color=darkgreen>**編曲**</font>              | <font color=darkgreen>**製作人**</font>                              | <font color=darkgreen>**配唱製作人**</font> | <font color=darkgreen>**備註**</font> |
-| 04                                  | 賣花女神                                | [Sarah](../Page/Sarah.md "wikilink")、[Tere](../Page/Tere.md "wikilink") | [林夕](../Page/林夕.md "wikilink")   | [Daniel Ling](../Page/Daniel_Ling.md "wikilink") | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  |                                        |                                     |
-| 05                                  | Wendy, Sandy and Judi               | [劉以達](../Page/劉以達.md "wikilink")                                        | [林夕](../Page/林夕.md "wikilink")   | [劉以達](../Page/劉以達.md "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  |                                        |                                     |
-| 06                                  | 我一個睡                                | [唐奕聰](../Page/唐奕聰.md "wikilink")                                        | [林夕](../Page/林夕.md "wikilink")   | [唐奕聰](../Page/唐奕聰.md "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")、[唐奕聰](../Page/唐奕聰.md "wikilink") |                                        |                                     |
-| 07                                  | 受寵若驚                                | [張佳添](../Page/張佳添.md "wikilink")                                        | [黃敬佩](../Page/黃敬佩.md "wikilink") | [張佳添](../Page/張佳添.md "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  | [張佳添](../Page/張佳添.md "wikilink")       | 「平凡」粵語版                             |
-| 08                                  | 我一個睡 (Summer Mix)                   | [唐奕聰](../Page/唐奕聰.md "wikilink")                                        | [林夕](../Page/林夕.md "wikilink")   | [唐奕聰](../Page/唐奕聰.md "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")、[唐奕聰](../Page/唐奕聰.md "wikilink") |                                        |                                     |
-| 09                                  | 平凡                                  | [張佳添](../Page/張佳添.md "wikilink")                                        | [黃敬佩](../Page/黃敬佩.md "wikilink") | [張佳添](../Page/張佳添.md "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  | [張佳添](../Page/張佳添.md "wikilink")       | 「受寵若驚」國語版                           |
+|                                     |                                     |                                                                                                               |                                  |                                                                     |                                                                   |                                                     |                                     |
+| ----------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------- |
+| <font color=darkgreen>**曲序**</font> | <font color=darkgreen>**曲名**</font> | <font color=darkgreen>**作曲**</font>                                                                           | <font color=green>**作詞**</font>  | <font color=darkgreen>**編曲**</font>                                 | <font color=darkgreen>**製作人**</font>                              | <font color=darkgreen>**配唱製作人**</font>              | <font color=darkgreen>**備註**</font> |
+| 04                                  | 賣花女神                                | [Sarah](https://zh.wikipedia.org/wiki/Sarah "wikilink")、[Tere](https://zh.wikipedia.org/wiki/Tere "wikilink") | [林夕](../Page/林夕.md "wikilink")   | [Daniel Ling](https://zh.wikipedia.org/wiki/Daniel_Ling "wikilink") | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  |                                                     |                                     |
+| 05                                  | Wendy, Sandy and Judi               | [劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")                                                           | [林夕](../Page/林夕.md "wikilink")   | [劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  |                                                     |                                     |
+| 06                                  | 我一個睡                                | [唐奕聰](../Page/唐奕聰.md "wikilink")                                                                              | [林夕](../Page/林夕.md "wikilink")   | [唐奕聰](../Page/唐奕聰.md "wikilink")                                    | [梁榮駿](../Page/梁榮駿.md "wikilink")、[唐奕聰](../Page/唐奕聰.md "wikilink") |                                                     |                                     |
+| 07                                  | 受寵若驚                                | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")                                                           | [黃敬佩](../Page/黃敬佩.md "wikilink") | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink") | 「平凡」粵語版                             |
+| 08                                  | 我一個睡 (Summer Mix)                   | [唐奕聰](../Page/唐奕聰.md "wikilink")                                                                              | [林夕](../Page/林夕.md "wikilink")   | [唐奕聰](../Page/唐奕聰.md "wikilink")                                    | [梁榮駿](../Page/梁榮駿.md "wikilink")、[唐奕聰](../Page/唐奕聰.md "wikilink") |                                                     |                                     |
+| 09                                  | 平凡                                  | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")                                                           | [黃敬佩](../Page/黃敬佩.md "wikilink") | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink")                 | [梁榮駿](../Page/梁榮駿.md "wikilink")                                  | [張佳添](https://zh.wikipedia.org/wiki/張佳添 "wikilink") | 「受寵若驚」國語版                           |
 
 ## 派台歌曲成績
 

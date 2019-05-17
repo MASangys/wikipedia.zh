@@ -1,10 +1,11 @@
 **Calligra Stage** （原名 KPresenter）是一個自由的簡報演示程序，[Calligra
-Suite辦公軟體套裝的一部分](../Page/Calligra_Suite.md "wikilink")。
+Suite辦公軟體套裝的一部分](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")。
 
 Calligra
 Stage是通過一個可擴展插件系統，因此很容易添加新的效果，新的內容元素，甚至新的方法來管理您的演示文稿。一些易於使用實例特點是支持佈局、特別幻燈片概述於察看期間，支持許多不同的演講的主持人的slider在同一個演示文稿，酷炫的過渡特效和有用的筆記功能。\[1\]
 
-Calligra Stage 原生使用的格式為[ODF](../Page/ODF.md "wikilink")（OpenDocument
+Calligra Stage
+原生使用的格式為[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")（OpenDocument
 Format）格式。
 
 ## 參考資料

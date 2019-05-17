@@ -1,4 +1,4 @@
-《**劇場版美少女戰士S**》（原題：），是於1994年12月4日首映的《[美少女戰士](../Page/美少女戰士.md "wikilink")》系列動畫電影第二部作品，由《[美少女戰士S](../Page/美少女戰士S.md "wikilink")》漫畫別冊《竹取公主的戀人》改編。
+《**劇場版美少女戰士S**》（原題：），是於1994年12月4日首映的《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》系列動畫電影第二部作品，由《[美少女戰士S](../Page/美少女戰士S.md "wikilink")》漫畫別冊《竹取公主的戀人》改編。
 
 ## 概要
 
@@ -7,28 +7,28 @@
 ## 工作人員
 
   - 原作 - [武内直子](../Page/武内直子.md "wikilink")
-  - 監督 - [芝田浩樹](../Page/芝田浩樹.md "wikilink")
-  - 企划 - [東伊里弥](../Page/東伊里弥.md "wikilink")
-  - 脚本 - [富田祐弘](../Page/富田祐弘.md "wikilink")
+  - 監督 - [芝田浩樹](https://zh.wikipedia.org/wiki/芝田浩樹 "wikilink")
+  - 企划 - [東伊里弥](https://zh.wikipedia.org/wiki/東伊里弥 "wikilink")
+  - 脚本 - [富田祐弘](https://zh.wikipedia.org/wiki/富田祐弘 "wikilink")
   - 作画監督 -
-    香川久、[為我井克美](../Page/為我井克美.md "wikilink")、[長谷川眞也](../Page/長谷川眞也.md "wikilink")
-  - 美術監督 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")、橋本和幸
+    香川久、[為我井克美](https://zh.wikipedia.org/wiki/為我井克美 "wikilink")、[長谷川眞也](https://zh.wikipedia.org/wiki/長谷川眞也 "wikilink")
+  - 美術監督 - [窪田忠雄](https://zh.wikipedia.org/wiki/窪田忠雄 "wikilink")、橋本和幸
   - 音乐 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - 配給 - [東映](../Page/東映.md "wikilink")
   - 製作 -
-    東映、[講談社](../Page/講談社.md "wikilink")、[東映動画](../Page/東映動画.md "wikilink")
+    東映、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、[東映動画](https://zh.wikipedia.org/wiki/東映動画 "wikilink")
 
 ## 配音
 
   - [月野兔](../Page/月野兔.md "wikilink") -
     [三石琴乃](../Page/三石琴乃.md "wikilink")
-  - [水野亚美](../Page/水野亚美.md "wikilink") -
-    [久川綾](../Page/久川綾.md "wikilink")
+  - [水野亚美](https://zh.wikipedia.org/wiki/水野亚美 "wikilink") -
+    [久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")
   - [火野玲](../Page/火野玲.md "wikilink") -
     [富澤美智惠](../Page/富澤美智惠.md "wikilink")
   - [木野真琴](../Page/木野真琴.md "wikilink") -
     [篠原惠美](../Page/篠原惠美.md "wikilink")
-  - [愛野美奈子](../Page/愛野美奈子.md "wikilink") -
+  - [愛野美奈子](https://zh.wikipedia.org/wiki/愛野美奈子 "wikilink") -
     [深見梨加](../Page/深見梨加.md "wikilink")
   - [天王遙](../Page/天王遙.md "wikilink") -
     [緒方惠美](../Page/緒方惠美.md "wikilink")
@@ -37,7 +37,7 @@
   - [冥王雪奈](../Page/冥王雪奈.md "wikilink") -
     [川島千代子](../Page/川島千代子.md "wikilink")
   - [豆釘兔](../Page/豆釘兔.md "wikilink") -
-    [荒木香惠](../Page/荒木香惠.md "wikilink")
+    [荒木香惠](https://zh.wikipedia.org/wiki/荒木香惠 "wikilink")
   - 塞勒涅 - [潘惠子](../Page/潘惠子.md "wikilink")
   - 阿耳忒弥斯 - [高戶靖廣](../Page/高戶靖廣.md "wikilink")
   - [地場衛](../Page/地場衛.md "wikilink") - [古谷徹](../Page/古谷徹.md "wikilink")

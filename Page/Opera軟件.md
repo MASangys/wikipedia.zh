@@ -1,5 +1,5 @@
 **Opera軟件**（；全稱：**Opera Software
-AS**），是[挪威的一家軟件公司](../Page/挪威.md "wikilink")，主要以其桌面網頁瀏覽器[Opera和行動網頁瀏覽器](../Page/Opera電腦瀏覽器.md "wikilink")[Opera
+AS**），是[挪威的一家軟件公司](../Page/挪威.md "wikilink")，主要以其桌面網頁瀏覽器[Opera和行動網頁瀏覽器](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")[Opera
 Mini而聞名](../Page/Opera_Mini.md "wikilink")。作為後者剝離其網頁瀏覽器業務的一部分，它從母公司Otello
 Corporation被剝離。Opera瀏覽器在全球多個平台上擁有超過3.5億使用者，並表示願景是「在任何設備上提供最佳的互聯網體驗」\[1\]。
 

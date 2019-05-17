@@ -16,7 +16,8 @@ Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封�
     （作詞：戶澤暢美　作曲・編曲：岩田雅之）
 4.  **Tokyo Lovers Tune Night** (3:43)
     （作詞：久保田洋司　作曲・編曲：Charles Hodgkinson，Sagat Guirey，Kirk Zavieh）
-5.  **[a Day in Our Life](../Page/a_Day_in_Our_Life.md "wikilink")**
+5.  **[a Day in Our
+    Life](https://zh.wikipedia.org/wiki/a_Day_in_Our_Life "wikilink")**
     (4:39)
     （作詞・作曲・編曲：SHUN，SHUYA）
       -

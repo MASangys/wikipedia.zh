@@ -43,14 +43,17 @@
 5.  End of the World "Acoustic Orchestra Version"
 6.  [Far away](../Page/Far_away.md "wikilink") "Acoustic Orchestra
     Version"
-7.  [Vogue](../Page/Vogue.md "wikilink") "Acoustic Orchestra Version"
-8.  [Ever free](../Page/Vogue.md "wikilink") "Acoustic Orchestra
-    Version"
+7.  [Vogue](https://zh.wikipedia.org/wiki/Vogue "wikilink") "Acoustic
+    Orchestra Version"
+8.  [Ever free](https://zh.wikipedia.org/wiki/Vogue "wikilink")
+    "Acoustic Orchestra Version"
 9.  [SEASONS](../Page/SEASONS.md "wikilink") "inst.mero Version"
-10. [Vogue](../Page/Vogue.md "wikilink") "inst.mero Version"
+10. [Vogue](https://zh.wikipedia.org/wiki/Vogue "wikilink") "inst.mero
+    Version"
 11. [Far away](../Page/Far_away.md "wikilink") "inst.mero Version"
 12. Key "inst.mero Version"
-13. [ever free](../Page/Vogue.md "wikilink") "inst.mero Version"
+13. [ever free](https://zh.wikipedia.org/wiki/Vogue "wikilink")
+    "inst.mero Version"
 
 ### Non-Stop Mega Mix Version
 
@@ -78,7 +81,8 @@
 15. [SEASONS](../Page/SEASONS.md "wikilink") "BUMP & FLEX REMIX"
 16. Teddy Bear "Hybrid Remix"
 17. [Duty](../Page/Duty.md "wikilink") "Elephant Fish Mix"
-18. [Vogue](../Page/Vogue.md "wikilink") "Computerhell Vocal Mix"
+18. [Vogue](https://zh.wikipedia.org/wiki/Vogue "wikilink")
+    "Computerhell Vocal Mix"
 19. [AUDIENCE](../Page/AUDIENCE.md "wikilink") "Jonathan Peters' Mix"
 20. [SEASONS](../Page/SEASONS.md "wikilink") "Jonathan Peters' Mix"
 21. [Far away](../Page/Far_away.md "wikilink") "RANK 1 Remix"

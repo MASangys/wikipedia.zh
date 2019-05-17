@@ -1,10 +1,10 @@
 《**ARASHI
-No.1～嵐呼喚暴風雨～**》（）是[嵐的第](../Page/嵐.md "wikilink")1枚專輯，第1枚原創專輯。於2001年1月24日發行。唱片公司為[波麗佳音](../Page/波麗佳音.md "wikilink")。
+No.1～嵐呼喚暴風雨～**》（）是[嵐的第](../Page/嵐.md "wikilink")1枚專輯，第1枚原創專輯。於2001年1月24日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說
 
   - 出道約1年後發售的首張專輯。
-  - 收錄4首單曲，卻沒有收錄雙A面的《[HORIZON](../Page/SUNRISE日本/HORIZON.md "wikilink")》。
+  - 收錄4首單曲，卻沒有收錄雙A面的《[HORIZON](https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")》。
   - 目前已成廢盤。本張專輯最後從波麗佳音移藉至[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲
@@ -20,7 +20,8 @@ No.1～嵐呼喚暴風雨～**》（）是[嵐的第](../Page/嵐.md "wikilink")
         [富士電視台排球節目](../Page/富士電視台.md "wikilink")《FIVB World Cup》印象曲
 3.  **DANGAN-LINER** (4:07)
     （作詞：TAKESHI　作曲：谷本新　編曲：CHOKKAKU）
-4.  **[SUNRISE日本](../Page/SUNRISE日本/HORIZON.md "wikilink")** (4:46)
+4.  **[SUNRISE日本](https://zh.wikipedia.org/wiki/SUNRISE日本/HORIZON "wikilink")**
+    (4:46)
     （作詞：F\&T　作曲：馬飼野康二　編曲：CHOKKAKU）
       -
         2nd單曲

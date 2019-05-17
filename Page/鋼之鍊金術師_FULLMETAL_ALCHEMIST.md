@@ -1,5 +1,5 @@
 《**鋼之鍊金術師 FULLMETAL
-ALCHEMIST**》，為漫畫《[鋼之鍊金術師](../Page/鋼之鍊金術師.md "wikilink")》二度動畫化作品，和前作動畫「[鋼之鍊金術師](../Page/鋼之鍊金術師_\(動畫\).md "wikilink")」一樣由[BONES製作](../Page/BONES_\(動畫製作公司\).md "wikilink")，於2009年4月5日起播出。原預定在2010年6月與原作漫畫一起完結，但後來變更延至7月4日，全64話。
+ALCHEMIST**》，為漫畫《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》二度動畫化作品，和前作動畫「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」一樣由[BONES製作](../Page/BONES_\(動畫製作公司\).md "wikilink")，於2009年4月5日起播出。原預定在2010年6月與原作漫畫一起完結，但後來變更延至7月4日，全64話。
 
 ## 概要
 
@@ -14,7 +14,7 @@ Festival）座談情報指出，預定播放5、全63話\[6\]，後由監督入�
 2010年7月4日，在最終回結尾宣佈製作劇場版的消息。同年11月14日，官網公佈劇場版名稱為《[鋼之鍊金術師
 嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink")》（），曾任[Code
 Geass
-反叛的魯路修副導演的](../Page/Code_Geass_反叛的魯路修.md "wikilink")[村田和也也參與製作](../Page/村田和也.md "wikilink")。已於2011年7月2日在日本上映。
+反叛的魯路修副導演的](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")[村田和也也參與製作](../Page/村田和也.md "wikilink")。已於2011年7月2日在日本上映。
 
 ## 故事簡介
 
@@ -26,10 +26,10 @@ Geass
 
 ## 製作人員
 
-  - 原作：荒川弘（[史克威爾艾尼克斯](../Page/史克威爾艾尼克斯.md "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
+  - 原作：荒川弘（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
   - 監督：入江泰浩
   - 企畫：竹田青滋（每日放送）、植田益朗→勝股英夫（ANIPLEX）、田口浩司（史克威爾艾尼克斯）、南雅彥（BONES）
-  - 系列構成：[大野木寬](../Page/大野木寬.md "wikilink")
+  - 系列構成：[大野木寬](https://zh.wikipedia.org/wiki/大野木寬 "wikilink")
   - 角色設計：菅野宏紀
   - 美術設計：金平和茂
   - 美術監督：佐藤豪志
@@ -55,12 +55,13 @@ Geass
 
 <!-- end list -->
 
-  - 「[again](../Page/again_\(YUI單曲\).md "wikilink")」（第1話 - 第14話）
+  - 「[again](https://zh.wikipedia.org/wiki/again_\(YUI單曲\) "wikilink")」（第1話
+    - 第14話）
 
 <!-- end list -->
 
   -
-    作詞、作曲：YUI／編曲：／歌：[YUI](../Page/YUI_\(藝人\).md "wikilink")
+    作詞、作曲：YUI／編曲：／歌：[YUI](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")
 
 <!-- end list -->
 
@@ -71,7 +72,7 @@ Geass
   -
     作詞、作曲：光村龍哉／編曲：[龜田誠治](../Page/龜田誠治.md "wikilink") & NICO Touches the
     Walls／歌：[NICO Touches the
-    Walls](../Page/:ja:NICO_Touches_the_Walls.md "wikilink")
+    Walls](https://zh.wikipedia.org/wiki/:ja:NICO_Touches_the_Walls "wikilink")
 
 <!-- end list -->
 
@@ -100,7 +101,7 @@ Geass
 
   -
     作詞：MAO／作曲：YUYA／編曲：SID &
-    西平彰／歌：[SID](../Page/SID_\(樂團\).md "wikilink")
+    西平彰／歌：[SID](https://zh.wikipedia.org/wiki/SID_\(樂團\) "wikilink")
 
 註：第61、63及64話沒有片頭曲。
 
@@ -132,7 +133,7 @@ Geass
 <!-- end list -->
 
   -
-    作詞：AILA／作曲、編曲：黑光雄輝／歌：[Lil'B](../Page/:ja:Lil'B.md "wikilink")
+    作詞：AILA／作曲、編曲：黑光雄輝／歌：[Lil'B](https://zh.wikipedia.org/wiki/:ja:Lil'B "wikilink")
 
 <!-- end list -->
 
@@ -141,7 +142,7 @@ Geass
 <!-- end list -->
 
   -
-    作詞：-{zh-cn:史坎朵;zh-tw:史坎朵;zh-hk:SCANDAL;}-、小林夏海／作曲：田鹿祐一／編曲：川口圭太／歌：[-{zh-cn:史坎朵;zh-tw:史坎朵;zh-hk:SCANDAL;}-](../Page/SCANDAL.md "wikilink")
+    作詞：-{zh-cn:史坎朵;zh-tw:史坎朵;zh-hk:SCANDAL;}-、小林夏海／作曲：田鹿祐一／編曲：川口圭太／歌：[-{zh-cn:史坎朵;zh-tw:史坎朵;zh-hk:SCANDAL;}-](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")
 
 <!-- end list -->
 
@@ -221,8 +222,8 @@ Geass
     歌：阿爾馮斯·愛力克（[釘宮理惠](../Page/釘宮理惠.md "wikilink")）and THE ALCHEMISTS
     :\# 風に抱かれて
     :\# Restore steppin'
-    :\#\* 阿爾溤斯（[釘宮理恵](../Page/釘宮理恵.md "wikilink")）& 愛德華（聲優 -
-    [朴璐美](../Page/朴璐美.md "wikilink")）
+    :\#\* 阿爾溤斯（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）&
+    愛德華（聲優 - [朴璐美](../Page/朴璐美.md "wikilink")）
     :\# 風に抱かれて instrumental
     :\# Restore steppin' instrumental
 
@@ -261,14 +262,15 @@ Geass
 
   -
     （角色歌合輯＋4首新曲）
-    歌：愛德華·愛力克（[朴璐美](../Page/朴璐美.md "wikilink")）、阿爾溤斯·愛力克（[釘宮理恵](../Page/釘宮理恵.md "wikilink")）
+    歌：愛德華·愛力克（[朴璐美](../Page/朴璐美.md "wikilink")）、阿爾溤斯·愛力克（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
     羅伊·馬斯坦古（[三木真一郎](../Page/三木真一郎.md "wikilink")）、莉莎·霍克愛（[折笠富美子](../Page/折笠富美子.md "wikilink")）、溫莉·洛克貝爾（[高本惠](../Page/高本惠.md "wikilink")）
     1.  夢の原石
           - 愛德華·愛力克（ [朴璐美](../Page/朴璐美.md "wikilink")）
     2.  紅月
           - 愛德華·愛力克（ [朴璐美](../Page/朴璐美.md "wikilink")）
     3.  風に抱かれて
-          - 阿爾溤斯·愛力克（ [釘宮理恵](../Page/釘宮理恵.md "wikilink")）
+          - 阿爾溤斯·愛力克（
+            [釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
     4.  ナンバー王
           - 姚麟 （[宮野真守](../Page/宮野真守.md "wikilink")）
     5.  空風
@@ -276,9 +278,9 @@ Geass
     6.  Bonne nuit
           - 莉莎·霍克愛（[折笠富美子](../Page/折笠富美子.md "wikilink")）
     7.  命〜MEI〜
-          - 羅伊·馬斯坦古（[三木眞一郎](../Page/三木眞一郎.md "wikilink")）
+          - 羅伊·馬斯坦古（[三木眞一郎](https://zh.wikipedia.org/wiki/三木眞一郎 "wikilink")）
     8.  Restore steppin'
-          - 阿爾溤斯·愛力克（[釘宮理恵](../Page/釘宮理恵.md "wikilink")）
+          - 阿爾溤斯·愛力克（[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
     9.  光の射す場所
           - 姚麟（[宮野真守](../Page/宮野真守.md "wikilink")）
     10. そっと、そっと
@@ -300,7 +302,8 @@ Geass
 
 <!-- end list -->
 
-  - [鋼之鍊金術師 THE BEST](../Page/鋼の錬金術師_THE_BEST.md "wikilink")
+  - [鋼之鍊金術師 THE
+    BEST](https://zh.wikipedia.org/wiki/鋼の錬金術師_THE_BEST "wikilink")
 
 <!-- end list -->
 
@@ -312,24 +315,24 @@ Geass
 ### 日本
 
   -
-    《》（簡稱「」或「」）於2009年4月5日開始在[MBS/TBS系播出](../Page/JNN.md "wikilink")，[Animax則從](../Page/Animax.md "wikilink")7月9日起播放，GyaO\!、ShowTime也分別自4月10日、17日起網路播出。
+    《》（簡稱「」或「」）於2009年4月5日開始在[MBS/TBS系播出](https://zh.wikipedia.org/wiki/JNN "wikilink")，[Animax則從](../Page/Animax.md "wikilink")7月9日起播放，GyaO\!、ShowTime也分別自4月10日、17日起網路播出。
 
-| 播放電視台                                  | 播放日期                    | 播放時間（[UTC](../Page/UTC.md "wikilink")[+9](../Page/UTC+9.md "wikilink")） | 備考                                 |
-| -------------------------------------- | ----------------------- | ----------------------------------------------------------------------- | ---------------------------------- |
-| [MBS/TBS系](../Page/JNN.md "wikilink")  | 2009年4月5日 - 2010年7月4日   | 星期日 17時00分 - 17時30分                                                     | [地面電視](../Page/地面電視.md "wikilink") |
-| GyaO\!                                 | 2009年4月10日 - 2010年7月8日  | 星期四 24時00分更新                                                            | [網路電視](../Page/網路電視.md "wikilink") |
-| ShowTime                               | 2009年4月17日 - 2010年7月16日 | 星期五 18時00分更新                                                            |                                    |
-| [Animax](../Page/Animax.md "wikilink") | 2009年7月9日 - 2010年10月7日  | 星期四 22時00分 - 22時30分                                                     | [衛星電視](../Page/衛星電視.md "wikilink") |
+| 播放電視台                                                    | 播放日期                    | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 備考                                                    |
+| -------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [MBS/TBS系](https://zh.wikipedia.org/wiki/JNN "wikilink") | 2009年4月5日 - 2010年7月4日   | 星期日 17時00分 - 17時30分                                                                                           | [地面電視](../Page/地面電視.md "wikilink")                    |
+| GyaO\!                                                   | 2009年4月10日 - 2010年7月8日  | 星期四 24時00分更新                                                                                                  | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") |
+| ShowTime                                                 | 2009年4月17日 - 2010年7月16日 | 星期五 18時00分更新                                                                                                  |                                                       |
+| [Animax](../Page/Animax.md "wikilink")                   | 2009年7月9日 - 2010年10月7日  | 星期四 22時00分 - 22時30分                                                                                           | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink") |
 
 ### 臺灣
 
   -
-    《鋼之鍊金術師-{}-BROTHERHOOD》（簡稱「鋼鍊BH」）於2009年4月11日開始在[Animax](../Page/Animax_Asia.md "wikilink")[同週播出](../Page/及時首播動畫.md "wikilink")，[AXN則自](../Page/AXN.md "wikilink")7月11日起分段播放，[中華電信MOD亦從](../Page/中華電信MOD.md "wikilink")4月17日起開放點播；均設有日語原聲配音及中文字幕。並於2009年12月1日、2010年1月4日起分別在Animax、AXN以[國語配音分段重播](../Page/國語.md "wikilink")；Animax自2010年8月25日開始播出國語配音完整版。
+    《鋼之鍊金術師-{}-BROTHERHOOD》（簡稱「鋼鍊BH」）於2009年4月11日開始在[Animax](../Page/Animax_Asia.md "wikilink")[同週播出](https://zh.wikipedia.org/wiki/及時首播動畫 "wikilink")，[AXN則自](../Page/AXN.md "wikilink")7月11日起分段播放，[中華電信MOD亦從](../Page/中華電信MOD.md "wikilink")4月17日起開放點播；均設有日語原聲配音及中文字幕。並於2009年12月1日、2010年1月4日起分別在Animax、AXN以[國語配音分段重播](https://zh.wikipedia.org/wiki/國語 "wikilink")；Animax自2010年8月25日開始播出國語配音完整版。
 
 ### 香港
 
   -
-    《鋼之鍊金術師-{}-FA》在2009年4月22日開始於[TVB系](../Page/TVB.md "wikilink")[J2放映](../Page/J2.md "wikilink")，並於4月25日起在[翡翠台重播](../Page/翡翠台.md "wikilink")，并在2011年9月25日起在[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，設有粵語／日語原聲配音雙語廣播和中文字幕，以及每話播出前的預告片。TVB系保留了日本原版之[過場畫面](../Page/過場_\(動畫\).md "wikilink")（Eyecatch）與片尾預告。
+    《鋼之鍊金術師-{}-FA》在2009年4月22日開始於[TVB系](https://zh.wikipedia.org/wiki/TVB "wikilink")[J2放映](../Page/J2.md "wikilink")，並於4月25日起在[翡翠台重播](../Page/翡翠台.md "wikilink")，并在2011年9月25日起在[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，設有粵語／日語原聲配音雙語廣播和中文字幕，以及每話播出前的預告片。TVB系保留了日本原版之[過場畫面](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")（Eyecatch）與片尾預告。
 
 ### 海外及網路播映
 
@@ -348,7 +351,7 @@ Geass
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/:en:Madman_Entertainment.md" title="wikilink">Madman.com.au</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Madman_Entertainment" title="wikilink">Madman.com.au</a></p></td>
 <td><p>2009年4月8日</p></td>
 <td><p>澳洲、紐西蘭</p></td>
 <td><ul>
@@ -356,7 +359,7 @@ Geass
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:en:Funimation_Entertainment.md" title="wikilink">FUNimation.com</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:Funimation_Entertainment" title="wikilink">FUNimation.com</a></p></td>
 <td><p>2009年4月9日</p></td>
 <td><p>北美</p></td>
 <td></td>
@@ -379,7 +382,7 @@ Geass
 <td><p><a href="../Page/YouTube.md" title="wikilink">YouTube.com</a></p></td>
 <td><p>2009年5月23日</p></td>
 <td><p>義大利、西班牙、葡萄牙、匈牙利、捷克、<br />
-斯洛伐克、保加利亞、羅馬尼亞、前<a href="../Page/南斯拉夫.md" title="wikilink">南斯拉夫</a><br />
+斯洛伐克、保加利亞、羅馬尼亞、前<a href="https://zh.wikipedia.org/wiki/南斯拉夫" title="wikilink">南斯拉夫</a><br />
 、希臘、瑞典、波蘭、芬蘭、丹麥、挪威、<br />
 俄羅斯、土耳其</p></td>
 <td><ul>
@@ -389,7 +392,7 @@ Geass
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/MTV.md" title="wikilink">MTV</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a></p></td>
 <td><p>義大利</p></td>
 <td></td>
 <td></td>
@@ -402,7 +405,7 @@ Geass
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/:en:SIC_Radical.md" title="wikilink">SIC Radical</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:en:SIC_Radical" title="wikilink">SIC Radical</a></p></td>
 <td><p>葡萄牙</p></td>
 <td></td>
 <td></td>
@@ -454,7 +457,7 @@ Geass
 <td><p>2</p></td>
 <td></td>
 <td><p>開始的日子</p></td>
-<td><p>開始之日（<a href="../Page/TVB.md" title="wikilink">TVB</a>）<br />
+<td><p>開始之日（<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a>）<br />
 開始的日子（<a href="../Page/Viu.md" title="wikilink">Viu</a>）</p></td>
 <td><p>三宅和男</p></td>
 <td><p>小澤圓</p></td>
@@ -1078,8 +1081,8 @@ Geass
 ### 電視未播放片段
 
   -
-    [DVD](../Page/DVD.md "wikilink") &
-    [Blu-ray第](../Page/Blu-ray.md "wikilink")1、5、9、13卷內收錄的映像特典，附錄外傳作品動畫化。
+    [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink") &
+    [Blu-ray第](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")1、5、9、13卷內收錄的映像特典，附錄外傳作品動畫化。
 
 #### 配音員
 
@@ -1674,7 +1677,7 @@ Geass
 
 ## 名稱上的差異
 
-本作海外版副標改為「BROTHERHOOD」，強調主題之一的「兄弟之絆」，並製成英文版與中文版[標識](../Page/標識.md "wikilink")\[14\]\[15\]；如依原有英文對照方式，易與前作「[鋼之鍊金術師](../Page/鋼之鍊金術師_\(動畫\).md "wikilink")」海外名稱「FULLMETAL
+本作海外版副標改為「BROTHERHOOD」，強調主題之一的「兄弟之絆」，並製成英文版與中文版[標識](https://zh.wikipedia.org/wiki/標識 "wikilink")\[14\]\[15\]；如依原有英文對照方式，易與前作「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」海外名稱「FULLMETAL
 ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封面，同前作只標示英文名稱「FULLMETAL ALCHEMIST」。
 
 <table>
@@ -1712,7 +1715,7 @@ ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封
 
 ## 與前作的差異
 
-本作和前作的开端及世界觀皆依據原作漫畫為基礎，而前作「[鋼之鍊金術師](../Page/鋼之鍊金術師_\(動畫\).md "wikilink")」前半段以原作為基礎而改編而成、後半段則因原作發版速度慢而以原創故事為結尾部分；因此本作與前作僅在前期背景設定及部分劇情相似但兩者本是獨立作品。
+本作和前作的开端及世界觀皆依據原作漫畫為基礎，而前作「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」前半段以原作為基礎而改編而成、後半段則因原作發版速度慢而以原創故事為結尾部分；因此本作與前作僅在前期背景設定及部分劇情相似但兩者本是獨立作品。
 
 ## 劇場版
 
@@ -1732,7 +1735,8 @@ ALCHEMIST」產生混淆及扞格之處。但在日本國內發行的BD／DVD封
     Brotherhood（Dybex）](http://www.fma-brotherhood.net)
   - [鋼之鍊金術師-{}-FA -
     J2](http://b.tvb.com/j2/c/%E5%8B%95%E7%95%AB/%E9%8B%BC%E4%B9%8B%E9%8C%AC%E9%87%91%E8%A1%93%E5%B8%ABfa/)
-    - [TVB](../Page/TVB.md "wikilink") 動畫鋼之鍊金術師-{}-FA預告
+    - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")
+    動畫鋼之鍊金術師-{}-FA預告
   - [鋼之鍊金術師-{}-BROTHERHOOD（Taiwan
     Animax）](https://web.archive.org/web/20100222022449/http://www.animax-taiwan.com/shows/%E9%8B%BC%E4%B9%8B%E9%8D%8A%E9%87%91%E8%A1%93%E5%B8%ABbrotherhood)
 

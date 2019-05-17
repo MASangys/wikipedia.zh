@@ -1,18 +1,18 @@
 《**SIDOOH
-士道**》是[日本](../Page/日本.md "wikilink")[漫画家](../Page/漫画家.md "wikilink")[高橋努在](../Page/高橋努.md "wikilink")《[週刊Young
-Jump](../Page/週刊Young_Jump.md "wikilink")》上連載的[漫畫](../Page/漫畫.md "wikilink")。描繪在[江戶時代動亂的](../Page/江戶時代.md "wikilink")[幕末掙扎求存的少年武士們](../Page/幕末.md "wikilink")。
+士道**》是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[高橋努在](../Page/高橋努.md "wikilink")《[週刊Young
+Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》上連載的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描繪在[江戶時代動亂的](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")[幕末掙扎求存的少年武士們](../Page/幕末.md "wikilink")。
 
 ## 登場人物
 
 ### 白連隊
 
   -
-    初登場時是[上總国生活的十四歳少年](../Page/上總国.md "wikilink")。愛称是「翔（しょう）」。遵照因[霍亂去世的母親的](../Page/霍亂.md "wikilink")「磨練本領」的遺言、帶著父親的劍、為了變強與弟弟一起向江戶出發。途中遇到清藏，與源太郎一起被賣到白心鄉作為供品，為了求生而打敗執行者朝路而被瑠儀認可。之後作為白心鄉的童連進行劍術的修行。二年後、作為白心鄉的刺客集團（白連隊）襲擊了黒船。撃沉黒船後，因瑠儀背叛、清藏遭到處刑、成為白連隊的隊長。之後一年間、為了討伐瑠儀分別在[江戶](../Page/江戶.md "wikilink")、[会津修行](../Page/会津.md "wikilink")。溫柔和善的性格，重視作為武士的禮儀。與百舌完婚，最後如願殺了瑠儀，但也身受重傷，死在返回會津的路上。
+    初登場時是[上總国生活的十四歳少年](https://zh.wikipedia.org/wiki/上總国 "wikilink")。愛称是「翔（しょう）」。遵照因[霍亂去世的母親的](../Page/霍亂.md "wikilink")「磨練本領」的遺言、帶著父親的劍、為了變強與弟弟一起向江戶出發。途中遇到清藏，與源太郎一起被賣到白心鄉作為供品，為了求生而打敗執行者朝路而被瑠儀認可。之後作為白心鄉的童連進行劍術的修行。二年後、作為白心鄉的刺客集團（白連隊）襲擊了黒船。撃沉黒船後，因瑠儀背叛、清藏遭到處刑、成為白連隊的隊長。之後一年間、為了討伐瑠儀分別在[江戶](../Page/江戶.md "wikilink")、[会津修行](../Page/会津.md "wikilink")。溫柔和善的性格，重視作為武士的禮儀。與百舌完婚，最後如願殺了瑠儀，但也身受重傷，死在返回會津的路上。
 
 <!-- end list -->
 
   -
-    翔太郎的弟弟。初登場時十歳。與兄長一起作為白心鄉的童連進行劍術的修行。清藏遭到處刑後一直想著要殺死瑠儀為其報仇。與哥哥一起為磨練劍術參加江戶的比劍大會。在會津輸掉跟[佐川官兵衛的比試](../Page/佐川官兵衛.md "wikilink")，之後視佐川為老師。與相馬的妹妹菊乃關係不錯。傲慢沖動坦率的少年。
+    翔太郎的弟弟。初登場時十歳。與兄長一起作為白心鄉的童連進行劍術的修行。清藏遭到處刑後一直想著要殺死瑠儀為其報仇。與哥哥一起為磨練劍術參加江戶的比劍大會。在會津輸掉跟[佐川官兵衛的比試](https://zh.wikipedia.org/wiki/佐川官兵衛 "wikilink")，之後視佐川為老師。與相馬的妹妹菊乃關係不錯。傲慢沖動坦率的少年。
 
 <!-- end list -->
 
@@ -37,7 +37,7 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》上連載的[漫畫](../Page/漫
 ### 白心鄉
 
   -
-    白心鄉之祖。[上總的大領主](../Page/上總.md "wikilink")。
+    白心鄉之祖。[上總的大領主](https://zh.wikipedia.org/wiki/上總 "wikilink")。
 
 <!-- end list -->
 
@@ -79,22 +79,22 @@ Jump](../Page/週刊Young_Jump.md "wikilink")》上連載的[漫畫](../Page/漫
 
 ### 長州藩
 
-  - [高杉晋作](../Page/高杉晋作.md "wikilink")（たかすぎ しんさく）
-    [桂小五郎](../Page/桂小五郎.md "wikilink")（かつら こごろう）
+  - [高杉晋作](https://zh.wikipedia.org/wiki/高杉晋作 "wikilink")（たかすぎ しんさく）
+    [桂小五郎](https://zh.wikipedia.org/wiki/桂小五郎 "wikilink")（かつら こごろう）
 
 ### 壬生浪士組
 
   - [近藤勇](../Page/近藤勇.md "wikilink")（こんどう いさみ）
-    壬生浪士組的一人。道場・[試衛館之主](../Page/試衛館.md "wikilink")。
+    壬生浪士組的一人。道場・[試衛館之主](https://zh.wikipedia.org/wiki/試衛館 "wikilink")。
 
   - [土方歲三](../Page/土方歲三.md "wikilink")（ひじかた としぞう）
-    壬生浪士組的一人。道場・[試衛館的門人](../Page/試衛館.md "wikilink")。平時冷靜沉著。劍術與翔比肩。稱呼源為「小鬼」。
+    壬生浪士組的一人。道場・[試衛館的門人](https://zh.wikipedia.org/wiki/試衛館 "wikilink")。平時冷靜沉著。劍術與翔比肩。稱呼源為「小鬼」。
 
   - [沖田總司](../Page/沖田總司.md "wikilink")（おきた そうじ）
     [永倉新八](../Page/永倉新八.md "wikilink")（ながくら しんぱち）
     [齋藤一](../Page/齋藤一.md "wikilink")（さいとう はじめ）
     [原田左之助](../Page/原田左之助.md "wikilink")（はらだ さのすけ）
-    [芹澤鴨](../Page/芹澤鴨.md "wikilink")（せりざわ かも）
+    [芹澤鴨](https://zh.wikipedia.org/wiki/芹澤鴨 "wikilink")（せりざわ かも）
 
 ## 參考資料
 
