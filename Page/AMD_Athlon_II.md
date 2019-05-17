@@ -3,15 +3,16 @@
 [AMD_Athlon_II_X4_630_2.jpg](https://zh.wikipedia.org/wiki/File:AMD_Athlon_II_X4_630_2.jpg "fig:AMD_Athlon_II_X4_630_2.jpg")
 
 **Athlon
-II**，是[AMD的](../Page/AMD.md "wikilink")45nm多核[中央處理器產品系列之一](../Page/中央處理器.md "wikilink")，以廉價市場作為定位。
+II**，是[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")45nm多核[中央處理器產品系列之一](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，以廉價市場作為定位。
 
 ## 產品特色
 
 Athlon II系列採用[AMD
-K10微架構](../Page/AMD_K10.md "wikilink")，與Phenom系列不同的是，Athlon
-II 處理器均不設L3[快取](../Page/快取.md "wikilink")，但把雙核心的每核512KB
+K10微架構](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")，與Phenom系列不同的是，Athlon
+II
+處理器均不設L3[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")，但把雙核心的每核512KB
 L2快取增至每核1MB（三核、四核仍為512KB）。另外，Athlon
-II的雙核產品均屬原生設計（四核心系列部份不是），即並非透過屏蔽一顆四核處理器的其中兩個內核，因此處理器的[熱設計功耗](../Page/熱設計功耗.md "wikilink")（TDP）也比Phenom
+II的雙核產品均屬原生設計（四核心系列部份不是），即並非透過屏蔽一顆四核處理器的其中兩個內核，因此處理器的[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）也比Phenom
 II系列低。三核心的 Athlon II之核心架構與Athlon II X4相同，只是將其中一顆核心屏蔽起來作為市場區隔。
 
 但AMD於2009年9月16日所推出的四核心系列，AMD證實有些部份是Phenom
@@ -25,19 +26,19 @@ II系列屏蔽L3快取而得來的。所以使用者可以透過破解方法，�
   - DIE面積：117.5mm<sup>2</sup>
   - L1快取：每核64 kB + 64 kB（資料 + 指令）x 2 = 256KB
   - L2快取：雙核每核1024 kB（全速）
-  - 記憶體控制器：[雙通道](../Page/雙通道.md "wikilink")[DDR2](../Page/DDR2.md "wikilink")-1066 MHz（[AM2+](../Page/AM2+.md "wikilink")）、雙通道[DDR3](../Page/DDR3.md "wikilink")-1066
-    MHz（[AM3](../Page/AM3.md "wikilink")）with unganging option ([AMD
-    Athlon™
+  - 記憶體控制器：[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")-1066 MHz（[AM2+](https://zh.wikipedia.org/wiki/AM2+ "wikilink")）、雙通道[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1066
+    MHz（[AM3](https://zh.wikipedia.org/wiki/AM3 "wikilink")）with
+    unganging option ([AMD Athlon™
     II](http://www.amd.com/cn/products/desktop/processors/athlon-ii-x2/Pages/AMD-athlon-ii-x2-processor-model-numbers-feature-comparison.aspx))
   - [MMX](../Page/MMX.md "wikilink"), Extended
     [3DNow\!](../Page/3DNow!.md "wikilink"),
     [SSE](../Page/SSE.md "wikilink"),
     [SSE2](../Page/SSE2.md "wikilink"),
     [SSE3](../Page/SSE3.md "wikilink"), SSE4a,
-    [AMD64](../Page/AMD64.md "wikilink"),
+    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
     [Cool'n'Quiet](../Page/Cool'n'Quiet.md "wikilink"), [NX
-    bit](../Page/NX_bit.md "wikilink"),
-    [AMD-V](../Page/AMD-V.md "wikilink")
+    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
+    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - [Socket
     AM3兼容AM](../Page/Socket_AM3.md "wikilink")2+，[HyperTransport](../Page/HyperTransport.md "wikilink")
     2000 MHz
@@ -121,6 +122,6 @@ II系列屏蔽L3快取而得來的。所以使用者可以透過破解方法，�
 
 ## 參見
 
-  - [AMD K10](../Page/AMD_K10.md "wikilink")
+  - [AMD K10](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")
 
 [Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")

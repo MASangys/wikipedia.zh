@@ -4,21 +4,21 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》劇場版動畫。
 ## 製作
 
 本作在《ONE
-PIECE》電影史上首次由原作者[尾田榮一郎擔任總指揮](../Page/尾田榮一郎.md "wikilink")、包括電影劇本、手繪稿。是日本少年動漫作品製作成劇場版首次由原作特地打造的動畫電影，並且算「回歸主題」的電影劇情發展。
+PIECE》電影史上首次由原作者[尾田榮一郎擔任總指揮](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")、包括電影劇本、手繪稿。是日本少年動漫作品製作成劇場版首次由原作特地打造的動畫電影，並且算「回歸主題」的電影劇情發展。
 
 導演[境宗久是從](../Page/境宗久.md "wikilink")[2006年10月到](../Page/2006年10月.md "wikilink")[2008年9月擔任廣播和](../Page/2008年9月.md "wikilink")《ONE
 PIECE》電視動畫片的系列指導者。原預定要在[2009年3月上映](../Page/2009年3月.md "wikilink")，因尾田榮一郎推翻原剧本重写後將檔期延至年底12月。
 
 注：《ONE PIECE》動畫電影前9彈都是3月份上映，本作則掀起傳奇的革命。
 
-特別出演的嘉賓有[竹中直人](../Page/竹中直人.md "wikilink")，飾演本作的大反派「金獅子」獅鬼，其他客串的嘉賓有[皆藤愛子](../Page/皆藤愛子.md "wikilink")、[北島康介等人](../Page/北島康介.md "wikilink")。
+特別出演的嘉賓有[竹中直人](../Page/竹中直人.md "wikilink")，飾演本作的大反派「金獅子」獅鬼，其他客串的嘉賓有[皆藤愛子](../Page/皆藤愛子.md "wikilink")、[北島康介等人](https://zh.wikipedia.org/wiki/北島康介 "wikilink")。
 
 ## 劇情
 
-時間是**「大海賊時代」**，某天得知故鄉「東海」發生危機的[草帽海賊團](../Page/ONE_PIECE海賊列表#草帽海賊團.md "wikilink")，打算暫時中斷冒險返回東海，此時他們看到空中出現一艘莫名的海賊船，由於[娜美預測到眼前即將出現暴風雨](../Page/娜美.md "wikilink")，並利用從那艘船上丟下來的「音貝」作通知，暴風雨過後海賊船的主人「金獅子」獅鬼來到[千陽號上](../Page/千陽號.md "wikilink")，表示要運用他的「飄飄果實」能力載[魯夫等人回到東海當作謝禮](../Page/魯夫.md "wikilink")，令魯夫等人相當興奮，誰知途中獅鬼卻突然解除了千陽號的浮力，並趁機擄走娜美，原來獅鬼看上了娜美能用身體感知氣候的能力，想讓她成為自己海賊團的航海士，魯夫等人則跟著千陽號一起從上空墜落到**浮遊島「STRONG
+時間是**「大海賊時代」**，某天得知故鄉「東海」發生危機的[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")，打算暫時中斷冒險返回東海，此時他們看到空中出現一艘莫名的海賊船，由於[娜美預測到眼前即將出現暴風雨](../Page/娜美.md "wikilink")，並利用從那艘船上丟下來的「音貝」作通知，暴風雨過後海賊船的主人「金獅子」獅鬼來到[千陽號上](../Page/千陽號.md "wikilink")，表示要運用他的「飄飄果實」能力載[魯夫等人回到東海當作謝禮](https://zh.wikipedia.org/wiki/魯夫 "wikilink")，令魯夫等人相當興奮，誰知途中獅鬼卻突然解除了千陽號的浮力，並趁機擄走娜美，原來獅鬼看上了娜美能用身體感知氣候的能力，想讓她成為自己海賊團的航海士，魯夫等人則跟著千陽號一起從上空墜落到**浮遊島「STRONG
 WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸戰鬥。
 
-傳說中的海賊**「金獅子」獅鬼**，其實力跟**「海賊王」[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**與**「白鬍子」[艾德華·紐蓋特](../Page/艾德華·紐蓋特.md "wikilink")**不相上下，並且從羅傑的時代就掀起大暴亂的傳說海賊。20年前成為**「深海大監獄」[推進城](../Page/推進城.md "wikilink")**中首位逃獄成功的囚犯，逃獄後的20年誓言要向全世界復仇的獅鬼，踏出復仇計畫的第一步就是摧毀整個東海，爲了保護故鄉和伙伴，立志成為「海賊王」的魯夫與獅鬼展開頂尖對決，到底誰能戰勝並稱霸這片海洋…？
+傳說中的海賊**「金獅子」獅鬼**，其實力跟**「海賊王」[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**與**「白鬍子」[艾德華·紐蓋特](https://zh.wikipedia.org/wiki/艾德華·紐蓋特 "wikilink")**不相上下，並且從羅傑的時代就掀起大暴亂的傳說海賊。20年前成為**「深海大監獄」[推進城](https://zh.wikipedia.org/wiki/推進城 "wikilink")**中首位逃獄成功的囚犯，逃獄後的20年誓言要向全世界復仇的獅鬼，踏出復仇計畫的第一步就是摧毀整個東海，爲了保護故鄉和伙伴，立志成為「海賊王」的魯夫與獅鬼展開頂尖對決，到底誰能戰勝並稱霸這片海洋…？
 
 ## 登場人物
 
@@ -55,7 +55,7 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 <td><p><a href="../Page/山口勝平.md" title="wikilink">山口勝平</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''<a href="../Page/賓什莫克·香吉士.md" title="wikilink">賓什莫克·香吉士</a></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/賓什莫克·香吉士" title="wikilink">賓什莫克·香吉士</a></p></td>
 <td><p><a href="../Page/平田廣明.md" title="wikilink">平田廣明</a></p></td>
 </tr>
 <tr class="odd">
@@ -72,7 +72,7 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 </tr>
 <tr class="even">
 <td><p>'''<a href="../Page/布魯克_(ONE_PIECE).md" title="wikilink">布魯克</a></p></td>
-<td><p><a href="../Page/長_(日本配音員).md" title="wikilink">長</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/長_(日本配音員)" title="wikilink">長</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +111,7 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 <tr class="odd">
 <td><p>'''虹子</p></td>
 <td><p><a href="../Page/山崎和佳奈.md" title="wikilink">山崎和佳奈</a></p></td>
-<td><p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -122,10 +122,10 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 
   - <span id="獅鬼"></span>
     聲優：[竹中直人](../Page/竹中直人.md "wikilink")（日本）；[林士程](../Page/林士程.md "wikilink")／[符爽](../Page/符爽.md "wikilink")〈電視版〉（台灣）
-    外號「金獅子」獅鬼（）。性格冷酷且工於心計，但有時也會有突然間發呆或答非所問等諸多搞笑舉動。擁有災難性的破壞力量，過去與**[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**和**「白鬍子」[艾德華·紐蓋特](../Page/艾德華·紐蓋特.md "wikilink")**齊名，並且掀起大暴亂，傳說中使人聞風喪膽的大海賊，實力媲美「大海賊時代」的「四皇」。
+    外號「金獅子」獅鬼（）。性格冷酷且工於心計，但有時也會有突然間發呆或答非所問等諸多搞笑舉動。擁有災難性的破壞力量，過去與**[哥爾·D·羅傑](../Page/哥爾·D·羅傑.md "wikilink")**和**「白鬍子」[艾德華·紐蓋特](https://zh.wikipedia.org/wiki/艾德華·紐蓋特 "wikilink")**齊名，並且掀起大暴亂，傳說中使人聞風喪膽的大海賊，實力媲美「大海賊時代」的「四皇」。
     **超人系「[飄浮果實](../Page/惡魔果實.md "wikilink")」**（）能力者，飄浮人，能浮遊自己或物件在空中飛行，而得到「**飛天海賊**」（）的綽號，但對除了自己以外的生命体都不起作用。持有的兩把名劍－「櫻十」和「木枯」，笑聲為「桀哈哈哈哈」，身材高大，金髮和服的二刀流劍士。
     羅傑與獅鬼是對手關係，兩人在年輕時已經認識，亦將羅傑視為自己所認同的人，20幾年前他爲統治全世界而想和羅傑聯手，被羅傑拒絕後惱羞成怒，雙方的海賊團爆發激戰，史稱之為「愛特·沃爾海戰」，原本窮途末路的羅傑海賊團被一場突如其來的暴風雨所救，飛空海賊團大艦隊大半被打入海底，加上一場意外，船舵不幸地插在獅鬼頭上，由於硬將船舵拔出來會有生命危險，因此船舵至今仍然鑲嵌在頭上（獅鬼照著鏡子看時開玩笑說「那邊有隻雞」）。
-    後來獅鬼無論如何也無法相信被認作對手的羅傑會被捕，於是自己單槍匹馬殺入海軍本部「馬林福特」確認，殺死大量海兵，並從本部的戰國和卡普那得知羅傑將在自己出生的城鎮「羅格鎮」被公開處刑，向來都將「東海」視為最弱之地的獅鬼為此相當氣憤，認為那是對羅傑死前最後的侮辱，海軍爲了不讓獅鬼在即將處死羅傑的時候被搗亂，海軍本部中將**「拳骨」卡普**和海軍本部上將**「佛」之戰國**上場出戰，3人的戰鬥在將「馬林福特」鎮毀掉近一半後才分出勝負，獅鬼戰敗後被押入**海底大監獄「[推進城](../Page/推進城.md "wikilink")」LEVEL
+    後來獅鬼無論如何也無法相信被認作對手的羅傑會被捕，於是自己單槍匹馬殺入海軍本部「馬林福特」確認，殺死大量海兵，並從本部的戰國和卡普那得知羅傑將在自己出生的城鎮「羅格鎮」被公開處刑，向來都將「東海」視為最弱之地的獅鬼為此相當氣憤，認為那是對羅傑死前最後的侮辱，海軍爲了不讓獅鬼在即將處死羅傑的時候被搗亂，海軍本部中將**「拳骨」卡普**和海軍本部上將**「佛」之戰國**上場出戰，3人的戰鬥在將「馬林福特」鎮毀掉近一半後才分出勝負，獅鬼戰敗後被押入**海底大監獄「[推進城](https://zh.wikipedia.org/wiki/推進城 "wikilink")」LEVEL
     6 無限地獄**。
     20年前為了逃出「推進城」，砍下了受海樓石腳銬束縳的雙腳，此後雙腳以「櫻十」和「木枯」作為義肢，能透過踢擊產生斬撃，成為「推進城」第一位逃獄成功的犯人，逃獄後獅鬼來到一座名叫「維爾梅優」（）的島嶼。
     獅鬼發現島上有很多食用擁有「IQ」成份植物而凶暴化的動物，於是以自己的能力把整個島扯上天空移動當自己的浮遊島，從此名為浮遊島「**STRONG
@@ -162,7 +162,7 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 |讓大量的「化學雜耍球」不斷聚集，形成一顆巨大的黃綠色球體，能夠引起大爆炸。 |}
 
   -
-    聲優：[銀河万丈](../Page/銀河万丈.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：[銀河万丈](https://zh.wikipedia.org/wiki/銀河万丈 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     「金獅子」副手，原本是棲息在「維爾梅優」的珍獸，後來獅鬼來到島上，牠轉而加入獅鬼的陣營，叫聲為「嗚波嗚波」，外號「紅猩猩」，是珍獸們的王者，擁有珍獸的掌控權，喜歡美女，能力和兇暴性都無法預知。
     在本作「STRONG
     WORLD」擄走**羅賓**，更妄想跟她結婚而惹惱了**香吉士**並立刻展開激烈交戰，最後被香吉士的惡魔風腳「野獸肉SHOOT」撃敗。
@@ -170,8 +170,8 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 <!-- end list -->
 
   -
-    聲優：[北島康介](../Page/北島康介.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
-    「金獅子」手下，魚人，使用武器為[武士刀](../Page/武士刀.md "wikilink")，其泳速在魚人族中算是數一數二的，率領上千名海賊與[魯夫等人戰鬥](../Page/魯夫.md "wikilink")。
+    聲優：[北島康介](https://zh.wikipedia.org/wiki/北島康介 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    「金獅子」手下，魚人，使用武器為[武士刀](https://zh.wikipedia.org/wiki/武士刀 "wikilink")，其泳速在魚人族中算是數一數二的，率領上千名海賊與[魯夫等人戰鬥](https://zh.wikipedia.org/wiki/魯夫 "wikilink")。
 
 #### 維爾梅優村
 
@@ -179,16 +179,16 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
     聲優：[水田山葵](../Page/水田山葵.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
     手腕上有鳥類羽翼的浮遊島島民，外出找藥草的時候被島上的珍獸攻擊失去意識，被索隆和喬巴所救。
   -
-    聲優：[皆藤愛子](../Page/皆藤愛子.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[皆藤愛子](../Page/皆藤愛子.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     夏歐的姊姊，同時也是被召到『金獅子』宮殿的年輕女孩之一，在宮殿擔任服務生並且照顧『金獅子』賊長會的成員。
   -
-    聲優：[土井美加](../Page/土井美加.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[土井美加](../Page/土井美加.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     名字不詳，是夏歐和EVA的母親。
   -
     聲優：[京田尚子](../Page/京田尚子.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
     名字不詳，是夏歐和EVA的祖母，染上「癲狂病」臥病在床，夏歐爲了治好她的病，冒險到外頭找尋「IQ」的花（解毒劑）。
   -
-    聲優：[中友子](../Page/中友子.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[中友子](../Page/中友子.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     浮遊島島民，救了掉落的香吉士和騙人布。
 
 #### 浮遊島生物
@@ -259,18 +259,18 @@ WORLD」**，四處分散的夥伴們被迫與島上各種進化的兇暴珍獸�
 
 ## 工作人員
 
-  - 原作、電影故事(情節創作)、電影服裝·生物設計、製作總指揮：[尾田榮一郎](../Page/尾田榮一郎.md "wikilink")
+  - 原作、電影故事(情節創作)、電影服裝·生物設計、製作總指揮：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
   - 監督：境宗久
-  - 劇本：[上坂浩彦](../Page/上坂浩彦.md "wikilink")
+  - 劇本：[上坂浩彦](https://zh.wikipedia.org/wiki/上坂浩彦 "wikilink")
   - 作画監督：佐藤雅将
   - 美術監督：脇威志
-  - 美術監督：[脇威志](../Page/脇威志.md "wikilink")
-  - 音樂：[田中公平](../Page/田中公平.md "wikilink")、[濱口史郎](../Page/濱口史郎.md "wikilink")
-  - 開放音樂：[小西康陽](../Page/小西康陽.md "wikilink")
+  - 美術監督：[脇威志](https://zh.wikipedia.org/wiki/脇威志 "wikilink")
+  - 音樂：[田中公平](../Page/田中公平.md "wikilink")、[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")
+  - 開放音樂：[小西康陽](https://zh.wikipedia.org/wiki/小西康陽 "wikilink")
 
 ## 音樂
 
-**[Mr.Children](../Page/Mr.Children.md "wikilink")**《[fanfare](../Page/fanfare.md "wikilink")》
+**[Mr.Children](../Page/Mr.Children.md "wikilink")**《[fanfare](https://zh.wikipedia.org/wiki/fanfare "wikilink")》
 
   -
     作詞、作曲：[櫻井和壽](../Page/櫻井和壽.md "wikilink")；編曲：[小林武史](../Page/小林武史.md "wikilink")\&Mr.Children
@@ -297,7 +297,9 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
 ### 獲獎
 
   - 2010年 - 第28回ゴールデングロス賞 優秀銀獎
-  - 2011年 - [第34回日本電影金像獎](../Page/第34回日本電影金像獎.md "wikilink") 最佳動畫電影獎
+  - 2011年 -
+    [第34回日本電影金像獎](https://zh.wikipedia.org/wiki/第34回日本電影金像獎 "wikilink")
+    最佳動畫電影獎
 
 ## 聯合企畫
 
@@ -316,14 +318,14 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 「佛」之戰國：石森達幸
   - 蒙其·D·卡普：中博史
   - 「青雉」庫山（年輕時期）：[子安武人](../Page/子安武人.md "wikilink")
-  - 鶴：[松島實](../Page/松島實.md "wikilink")
+  - 鶴：[松島實](https://zh.wikipedia.org/wiki/松島實 "wikilink")
   - 哈古瓦爾·D·薩烏羅
   - 「黃猿」波爾薩利諾（年輕時期）
   - 「赤犬」薩卡斯基（年輕時期）
   - 飛鼠：[太田真一郎](../Page/太田真一郎.md "wikilink")
   - 火燒山：[大場真人](../Page/大場真人.md "wikilink")
-  - 可樂克斯：[納谷悟朗](../Page/納谷悟朗.md "wikilink")
-  - 「冥王」雷利：[園部啓一](../Page/園部啓一.md "wikilink")
+  - 可樂克斯：[納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")
+  - 「冥王」雷利：[園部啓一](https://zh.wikipedia.org/wiki/園部啓一 "wikilink")
   - 賈巴（羅傑海賊團）
   - 蒙其·D·多拉格
   - 波特卡斯·D·露珠
@@ -331,11 +333,11 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 「鷹眼」密佛格（年輕時期）
   - 沙·克洛克達爾（年輕時期）
   - 「月光」摩利亞（年輕時期）
-  - 娜菲魯塔莉·寇布拉：[家弓家正](../Page/家弓家正.md "wikilink")
+  - 娜菲魯塔莉·寇布拉：[家弓家正](https://zh.wikipedia.org/wiki/家弓家正 "wikilink")
   - 娜菲魯塔莉·蒂蒂
   - 尹卡萊姆
   - 卡西：[福原耕平](../Page/福原耕平.md "wikilink")
-  - 歐伊摩：[岡本寛志](../Page/岡本寛志.md "wikilink")
+  - 歐伊摩：[岡本寛志](https://zh.wikipedia.org/wiki/岡本寛志 "wikilink")
   - 布洛基：[稻田徹](../Page/稻田徹.md "wikilink")
   - 東利
   - 東吉特：[龍田直樹](../Page/龍田直樹.md "wikilink")
@@ -345,24 +347,24 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 梟（小孩時期）
   - 賈布拉（少年時期）
   - 羅布·路基（小孩時期）
-  - 迪巴魯（嬰兒時期）：[關俊彦](../Page/關俊彦.md "wikilink")
+  - 迪巴魯（嬰兒時期）：[關俊彦](https://zh.wikipedia.org/wiki/關俊彦 "wikilink")
   - 迪巴魯的母親
   - 波雅·漢考克（小孩時期）：[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")
   - 桑塔索妮雅（小孩時期）：[金田朋子](../Page/金田朋子.md "wikilink")
   - 瑪莉哥德（小孩時期）
-  - 麥哲倫：[星野充昭](../Page/星野充昭.md "wikilink")
-  - 般若拔：[後藤哲夫](../Page/後藤哲夫.md "wikilink")
-  - 瑪姬（小孩時期）：[大本眞基子](../Page/大本眞基子.md "wikilink")
+  - 麥哲倫：[星野充昭](https://zh.wikipedia.org/wiki/星野充昭 "wikilink")
+  - 般若拔：[後藤哲夫](https://zh.wikipedia.org/wiki/後藤哲夫 "wikilink")
+  - 瑪姬（小孩時期）：[大本眞基子](https://zh.wikipedia.org/wiki/大本眞基子 "wikilink")
   - 烏普·史拉布
   - 波特卡斯·D·艾斯（嬰兒時期）
   - 卡莉·達坦：[上村典子](../Page/上村典子.md "wikilink")
   - 耕四郎：[石塚運昇](../Page/石塚運昇.md "wikilink")
   - 克伊娜的母親
   - 克伊娜（嬰兒時期）
-  - 耶穌布：[小林通孝](../Page/小林通孝.md "wikilink")
-  - 梅利：[土門仁](../Page/土門仁.md "wikilink")
+  - 耶穌布：[小林通孝](https://zh.wikipedia.org/wiki/小林通孝 "wikilink")
+  - 梅利：[土門仁](https://zh.wikipedia.org/wiki/土門仁 "wikilink")
   - 貝爾梅爾：[日高範子](../Page/日高範子.md "wikilink")
-  - 西爾爾克：[牛山茂](../Page/牛山茂.md "wikilink")
+  - 西爾爾克：[牛山茂](https://zh.wikipedia.org/wiki/牛山茂 "wikilink")
   - 古蕾娃：[野澤雅子](../Page/野澤雅子.md "wikilink")
   - 多魯頓：[小野健一](../Page/小野健一.md "wikilink")
   - 磁鼓王國前代國王
@@ -371,7 +373,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 卡蒙
   - 可可羅：[真山亞子](../Page/真山亞子.md "wikilink")
   - 湯姆：[村松康雄](../Page/村松康雄.md "wikilink")
-  - 卡迪·佛拉姆（小孩時期）：[野田順子](../Page/野田順子.md "wikilink")
+  - 卡迪·佛拉姆（小孩時期）：[野田順子](https://zh.wikipedia.org/wiki/野田順子 "wikilink")
   - 艾斯巴古（少年時期）：[岸尾大輔](../Page/岸尾大輔.md "wikilink")
   - 橫綱
   - 拉布
@@ -413,7 +415,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
 <!-- end list -->
 
   -
-    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     韓森島村民。跟索隆同個村子出身。
 
 <!-- end list -->
@@ -425,13 +427,13 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
 <!-- end list -->
 
   -
-    聲優：[上村典子](../Page/上村典子.md "wikilink")（日本）；[詹雅菁](../Page/詹雅菁.md "wikilink")（台灣）
+    聲優：[上村典子](../Page/上村典子.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     韓森島村民。跟騙人布同個村子出身。
 
 <!-- end list -->
 
   -
-    聲優：[岡本寛志](../Page/岡本寛志.md "wikilink")、[粕谷雄太](../Page/粕谷雄太.md "wikilink")、[赤羽根健治](../Page/赤羽根健治.md "wikilink")、[藤本隆宏](../Page/藤本隆宏.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")、[符爽](../Page/符爽.md "wikilink")、[孫中台](../Page/孫中台.md "wikilink")（台灣）
+    聲優：[岡本寛志](https://zh.wikipedia.org/wiki/岡本寛志 "wikilink")、[粕谷雄太](https://zh.wikipedia.org/wiki/粕谷雄太 "wikilink")、[赤羽根健治](../Page/赤羽根健治.md "wikilink")、[藤本隆宏](https://zh.wikipedia.org/wiki/藤本隆宏 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")、[符爽](../Page/符爽.md "wikilink")、[孫中台](../Page/孫中台.md "wikilink")（台灣）
     韓森島村民。
 
 <!-- end list -->
@@ -450,13 +452,13 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
     嘶
     嘶」。**超人系「[網網果實](../Page/惡魔果實.md "wikilink")」**能力者，網人，可以放出黏着網，吃下任何東西都能放出後化成網。
     為了加入**「金獅子」賊長會**第五十一位船長，被受命前往**韓森島**捕捉從**浮遊島「STRONG
-    WORLD」**逃出的巨大獨角仙，曾一度捕捉了草帽海賊團三主力，與**[魯夫](../Page/魯夫.md "wikilink")**展開激烈交戰，最後被他的三檔「橡膠巨人槍」撃敗。
+    WORLD」**逃出的巨大獨角仙，曾一度捕捉了草帽海賊團三主力，與**[魯夫](https://zh.wikipedia.org/wiki/魯夫 "wikilink")**展開激烈交戰，最後被他的三檔「橡膠巨人槍」撃敗。
 
 <!-- end list -->
 
   -
     聲優：[江川央生](../Page/江川央生.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
-    Amigo海賊團副船長。拉爾哥的弟弟，兩集手腕上裝有五菅[機關槍](../Page/機關槍.md "wikilink")。
+    Amigo海賊團副船長。拉爾哥的弟弟，兩集手腕上裝有五菅[機關槍](https://zh.wikipedia.org/wiki/機關槍 "wikilink")。
 
 ## 參考資料
 

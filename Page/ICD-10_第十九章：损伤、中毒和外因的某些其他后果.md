@@ -1,5 +1,5 @@
 **ICD-10
-第十九章：损伤、中毒和外因的某些其他后果**，即[国际疾病与相关健康问题统计分类第十版的第十九个编码分系统](../Page/国际疾病与相关健康问题统计分类第十版.md "wikilink")（从S00-T98），其中包括了损伤、中毒和某些确定外因的后果，及其分类详情\[1\]。
+第十九章：损伤、中毒和外因的某些其他后果**，即[国际疾病与相关健康问题统计分类第十版的第十九个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从S00-T98），其中包括了损伤、中毒和某些确定外因的后果，及其分类详情\[1\]。
 
 ## S00-S09 头部损伤
 
@@ -9,8 +9,9 @@ S00-S09 头部损伤
   - S01 头部开放性伤口
   - S02 [颅骨和面骨骨折](../Page/颅骨.md "wikilink")
   - S03 头部的关节和韧带脱位、扭伤和劳损
-  - S04 [颅神经损伤](../Page/颅神经.md "wikilink")
-  - S05 [眼](../Page/眼.md "wikilink")、[眶损伤](../Page/眶.md "wikilink")
+  - S04 [颅神经损伤](https://zh.wikipedia.org/wiki/颅神经 "wikilink")
+  - S05
+    [眼](https://zh.wikipedia.org/wiki/眼 "wikilink")、[眶损伤](https://zh.wikipedia.org/wiki/眶 "wikilink")
   - S06 颅内损伤
   - S07 头部挤压伤
   - S08 头的部分创伤性切断
@@ -18,7 +19,7 @@ S00-S09 头部损伤
 
 ## S10-S19 颈部损伤
 
-S10-S19 [颈部损伤](../Page/颈部.md "wikilink")
+S10-S19 [颈部损伤](https://zh.wikipedia.org/wiki/颈部 "wikilink")
 
   - S10 颈部浅表损伤
   - S11 颈部开放性伤口
@@ -34,7 +35,7 @@ S10-S19 [颈部损伤](../Page/颈部.md "wikilink")
 
 ## S20-S29 胸部损伤
 
-S20-S29 [胸部损伤](../Page/胸部.md "wikilink")
+S20-S29 [胸部损伤](https://zh.wikipedia.org/wiki/胸部 "wikilink")
 
   - S20 胸部浅表损伤
   - S21 胸部开放性伤口
@@ -50,7 +51,7 @@ S20-S29 [胸部损伤](../Page/胸部.md "wikilink")
 ## S30-S39 腹部、背、腰椎和骨盆损伤
 
 S30-S39
-[腹部](../Page/腹部.md "wikilink")、[背](../Page/背.md "wikilink")、[腰椎和骨盆损伤](../Page/腰椎.md "wikilink")
+[腹部](https://zh.wikipedia.org/wiki/腹部 "wikilink")、[背](../Page/背.md "wikilink")、[腰椎和骨盆损伤](../Page/腰椎.md "wikilink")
 
   - S30 腹部、背和骨盆浅表损伤
   - S31 腹部、背和骨盆开放性伤口
@@ -65,7 +66,7 @@ S30-S39
 
 ## S40-S49 肩和上臂损伤
 
-S40-S49 [肩和上臂损伤](../Page/肩.md "wikilink")
+S40-S49 [肩和上臂损伤](https://zh.wikipedia.org/wiki/肩 "wikilink")
 
   - S40 肩和上臂浅表损伤
   - S41 肩和上臂开放性伤口
@@ -80,7 +81,8 @@ S40-S49 [肩和上臂损伤](../Page/肩.md "wikilink")
 
 ## S50-S59 肘和前臂损伤
 
-S50-S59 [肘和](../Page/肘.md "wikilink")[前臂损伤](../Page/前臂.md "wikilink")
+S50-S59
+[肘和](https://zh.wikipedia.org/wiki/肘 "wikilink")[前臂损伤](https://zh.wikipedia.org/wiki/前臂 "wikilink")
 
   - S50 前臂浅表损伤
   - S51 前臂开放性伤口
@@ -95,7 +97,8 @@ S50-S59 [肘和](../Page/肘.md "wikilink")[前臂损伤](../Page/前臂.md "wik
 
 ## S60-S69 腕和手损伤
 
-S60-S69 [腕和](../Page/腕.md "wikilink")[手损伤](../Page/手.md "wikilink")
+S60-S69
+[腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手损伤](../Page/手.md "wikilink")
 
   - S60 腕和手浅表损伤
   - S61 腕和手开放性伤口
@@ -110,7 +113,8 @@ S60-S69 [腕和](../Page/腕.md "wikilink")[手损伤](../Page/手.md "wikilink"
 
 ## S70-S79 髋和大腿损伤
 
-S70-S79 [髋和](../Page/髋.md "wikilink")[大腿损伤](../Page/大腿.md "wikilink")
+S70-S79
+[髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[大腿损伤](https://zh.wikipedia.org/wiki/大腿 "wikilink")
 
   - S70 髋和大腿浅表损伤
   - S71 髋和大腿开放性伤口
@@ -125,7 +129,8 @@ S70-S79 [髋和](../Page/髋.md "wikilink")[大腿损伤](../Page/大腿.md "wik
 
 ## S80-S89 膝和小腿损伤
 
-S80-S89 [膝和](../Page/膝.md "wikilink")[小腿损伤](../Page/小腿.md "wikilink")
+S80-S89
+[膝和](https://zh.wikipedia.org/wiki/膝 "wikilink")[小腿损伤](https://zh.wikipedia.org/wiki/小腿 "wikilink")
 
   - S80 小腿浅表损伤
   - S81 小腿开放性伤口
@@ -140,7 +145,8 @@ S80-S89 [膝和](../Page/膝.md "wikilink")[小腿损伤](../Page/小腿.md "wik
 
 ## S90-S99 踝和足损伤
 
-S90-S99 [踝和](../Page/踝.md "wikilink")[足损伤](../Page/足.md "wikilink")
+S90-S99
+[踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足损伤](https://zh.wikipedia.org/wiki/足 "wikilink")
 
   - S90 踝和足浅表损伤
   - S91 踝和足开放性伤口
@@ -190,18 +196,21 @@ T15-T19 通过自然腔口进入异物的效应
 
 ## T20-T32 烧伤和腐蚀伤
 
-T20-T32 [烧伤和腐蚀伤](../Page/烧伤.md "wikilink")
+T20-T32 [烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/烧伤 "wikilink")
 
 ### T20-T25 身体外表面烧伤和腐蚀伤，按部位特指者
 
-  - T20 [头和](../Page/头.md "wikilink")[颈烧伤和腐蚀伤](../Page/颈.md "wikilink")
-  - T21 [躯干烧伤和腐蚀伤](../Page/躯干.md "wikilink")
+  - T20
+    [头和](https://zh.wikipedia.org/wiki/头 "wikilink")[颈烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/颈 "wikilink")
+  - T21 [躯干烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/躯干 "wikilink")
   - T22
-    [肩和](../Page/肩.md "wikilink")[上肢烧伤和腐蚀伤](../Page/上肢.md "wikilink")，除外腕和手
-  - T23 [腕和](../Page/腕.md "wikilink")[手烧伤和腐蚀伤](../Page/手.md "wikilink")
+    [肩和](https://zh.wikipedia.org/wiki/肩 "wikilink")[上肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/上肢 "wikilink")，除外腕和手
+  - T23
+    [腕和](https://zh.wikipedia.org/wiki/腕 "wikilink")[手烧伤和腐蚀伤](../Page/手.md "wikilink")
   - T24
-    [髋和](../Page/髋.md "wikilink")[下肢烧伤和腐蚀伤](../Page/下肢.md "wikilink")，除外踝和足
-  - T25 [踝和](../Page/踝.md "wikilink")[足烧伤和腐蚀伤](../Page/足.md "wikilink")
+    [髋和](https://zh.wikipedia.org/wiki/髋 "wikilink")[下肢烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/下肢 "wikilink")，除外踝和足
+  - T25
+    [踝和](https://zh.wikipedia.org/wiki/踝 "wikilink")[足烧伤和腐蚀伤](https://zh.wikipedia.org/wiki/足 "wikilink")
 
 ### T26-T28 限于眼和内部器官的烧伤和腐蚀伤
 
@@ -218,7 +227,7 @@ T20-T32 [烧伤和腐蚀伤](../Page/烧伤.md "wikilink")
 
 ## T33-T35 冻伤
 
-T33-T35 [冻伤](../Page/冻伤.md "wikilink")
+T33-T35 [冻伤](https://zh.wikipedia.org/wiki/冻伤 "wikilink")
 
   - T33 冻伤
   - T34 冻伤，伴组织坏死
@@ -270,7 +279,7 @@ T66-T79 外因的其他和未特指的效应
 
   - T66 辐射的未特指效应
   - T67 热和光的效应
-  - T68 [低体温](../Page/低体温.md "wikilink")
+  - T68 [低体温](https://zh.wikipedia.org/wiki/低体温 "wikilink")
   - T69 降温的其他效应
   - T70 气压和水压效应
   - T71 [窒息](../Page/窒息.md "wikilink")
@@ -299,7 +308,7 @@ T80-T88 手术和医疗的并发症，不可归类在他处者
 
 T90-T98 损伤、中毒和外因的其他后果的后遗症
 
-  - T90 [头部损伤后遗症](../Page/头部.md "wikilink")
+  - T90 [头部损伤后遗症](https://zh.wikipedia.org/wiki/头部 "wikilink")
   - T91 颈和躯干损伤后遗症
   - T92 上肢损伤后遗症
   - T93 下肢损伤后遗症
@@ -311,7 +320,7 @@ T90-T98 损伤、中毒和外因的其他后果的后遗症
 
 ## 参见
 
-  - [ICD](../Page/ICD.md "wikilink")
+  - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
 ## 參考文獻

@@ -1,11 +1,11 @@
 **Core i3**（中文：酷睿
-i3）處理器是[英特爾的首款](../Page/英特爾.md "wikilink")[CPU](../Page/CPU.md "wikilink")+[GPU產品](../Page/GPU.md "wikilink")，首代Core
-i3建基於[Westmere微架構](../Page/Westmere微架構.md "wikilink")。與[Core
-i7支援](../Page/Core_i7.md "wikilink")[三通道記憶體不同](../Page/三通道記憶體.md "wikilink")，Core
-i3只會集成[雙通道](../Page/雙通道.md "wikilink")[DDR3](../Page/DDR3_SDRAM.md "wikilink")[記憶體控制器](../Page/記憶體.md "wikilink")。另外，Core
-i3整合一些北橋的功能，將集成[PCI-Express控制器](../Page/PCI-Express.md "wikilink")。處理器核心方面，首代Core
+i3）處理器是[英特爾的首款](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")+[GPU產品](https://zh.wikipedia.org/wiki/GPU "wikilink")，首代Core
+i3建基於[Westmere微架構](https://zh.wikipedia.org/wiki/Westmere微架構 "wikilink")。與[Core
+i7支援](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")[三通道記憶體不同](https://zh.wikipedia.org/wiki/三通道記憶體 "wikilink")，Core
+i3只會集成[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR3](../Page/DDR3_SDRAM.md "wikilink")[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。另外，Core
+i3整合一些北橋的功能，將集成[PCI-Express控制器](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")。處理器核心方面，首代Core
 i3的代號是**Clarkdale**，採用32纳米製程。Core
-i3有兩個核心，支援[超线程技術](../Page/超线程.md "wikilink")。首代Core
+i3有兩個核心，支援[超线程技術](https://zh.wikipedia.org/wiki/超线程 "wikilink")。首代Core
 i3於2010年年初推出。
 
 第一代Core i3搭配Intel
@@ -25,12 +25,14 @@ Core開始，所有型號的桌面版Core i3均為四核四執行緒設計\[3\]�
   - Intel Core i 系列產品
       - **Intel Core i3**
       - [Intel Core i5](../Page/Intel_Core_i5.md "wikilink")
-      - [Intel Core i7](../Page/Intel_Core_i7.md "wikilink")
+      - [Intel Core
+        i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")
       - [Intel Core i9](../Page/Intel_Core_i9.md "wikilink")
 
 ## 外部連結
 
-[en:Intel Core\#Core i3](../Page/en:Intel_Core#Core_i3.md "wikilink")
+[en:Intel Core\#Core
+i3](https://zh.wikipedia.org/wiki/en:Intel_Core#Core_i3 "wikilink")
 
 [Category:Intel_x86处理器](https://zh.wikipedia.org/wiki/Category:Intel_x86处理器 "wikilink")
 [Category:Intel处理器列表](https://zh.wikipedia.org/wiki/Category:Intel处理器列表 "wikilink")

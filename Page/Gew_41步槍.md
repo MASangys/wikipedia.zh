@@ -1,5 +1,5 @@
 **Gew 41步槍**（Gewehr 41），常被稱作Gew 41或G
-41，是一款[第二次世界大戰期間](../Page/第二次世界大戰.md "wikilink")[納粹德國國防軍所使用的](../Page/納粹德國.md "wikilink")[半自動步槍](../Page/半自動步槍.md "wikilink")。
+41，是一款[第二次世界大戰期間](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德國國防軍所使用的](../Page/納粹德國.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。
 
 ## 歷史
 
@@ -10,7 +10,7 @@ army Weapons command，HWaA）選定並批准投產，命名為Gewehr 41。
 
 [毛瑟](../Page/毛瑟.md "wikilink")（Mauser）與[華瑟](../Page/卡尔·瓦尔特运动枪.md "wikilink")（Walther）的樣槍皆採用了丹麥設計師Søren
 H.
-Bang的槍口環形導氣活塞，這叫「[槍口集氣式](../Page/槍口集氣式.md "wikilink")」，這是[氣動式作用原理的一個變種](../Page/氣動式.md "wikilink")，這是用一個集氣杯去收集槍口爆風而令這個集氣杯被推向前，與此同時和這個集氣杯相連的推杆也被向前拉，在此推杆下方有個齒輪會被轉動而把槍機往後推從而完成槍機開鎖和退彈殼。
+Bang的槍口環形導氣活塞，這叫「[槍口集氣式](https://zh.wikipedia.org/wiki/槍口集氣式 "wikilink")」，這是[氣動式作用原理的一個變種](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，這是用一個集氣杯去收集槍口爆風而令這個集氣杯被推向前，與此同時和這個集氣杯相連的推杆也被向前拉，在此推杆下方有個齒輪會被轉動而把槍機往後推從而完成槍機開鎖和退彈殼。
 
 Gew
 41的槍口集氣杯是一個固定在槍口而不會移動的圓錐體，這其實是一個槍口環形導氣活塞，其形狀類似於包覆或環繞槍管的套筒，而其運作原理和Bang步槍一樣，同樣利用發射子彈時的槍口爆風，在子彈出口後，它蒐集到的氣體壓力會推動一個套在槍管外緣的環狀活塞向後，再推動位於槍管上方的一個扁平的連桿向後運作槍機，推動槍機解鎖、後坐，完成拋殼、子彈上膛。較不同的是，[毛瑟](../Page/毛瑟.md "wikilink")（Mauser）的連桿是從槍管下方兩側推動槍栓，而[華瑟](../Page/卡尔·瓦尔特运动枪.md "wikilink")（Walther）的連桿則是由槍管上方中心推動槍栓。其中使用標準毛瑟步槍彈，由十發裝固定彈匣供彈，子彈必須由機匣頂部填裝兩個夾條。由於當時的Gew
@@ -25,8 +25,8 @@ Gew
 
   - [SVT-40半自動步槍](../Page/SVT-40半自動步槍.md "wikilink")
   - [毛瑟Kar98k步槍](../Page/毛瑟Kar98k步槍.md "wikilink")
-  - [Gew 43步槍](../Page/Gew_43步槍.md "wikilink")
-  - [M1加蘭德步枪](../Page/M1加蘭德步枪.md "wikilink")
+  - [Gew 43步槍](https://zh.wikipedia.org/wiki/Gew_43步槍 "wikilink")
+  - [M1加蘭德步枪](https://zh.wikipedia.org/wiki/M1加蘭德步枪 "wikilink")
 
 ## 外部链接
 

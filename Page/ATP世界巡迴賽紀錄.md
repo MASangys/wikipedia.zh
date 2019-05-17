@@ -1,6 +1,6 @@
-**ATP世界巡迴賽紀錄**是[國際男子職業網球總會](../Page/國際男子職業網球總會.md "wikilink")（Association
+**ATP世界巡迴賽紀錄**是[國際男子職業網球總會](https://zh.wikipedia.org/wiki/國際男子職業網球總會 "wikilink")（Association
 of Tennis
-Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大滿貫.md "wikilink")、[1000大師賽](../Page/ATP世界巡迴賽1000大師賽.md "wikilink")、[500巡迴賽](../Page/ATP世界巡迴賽500賽.md "wikilink")、[250巡迴賽等賽事中所創造的重要紀錄](../Page/ATP世界巡迴賽250賽.md "wikilink")。
+Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")、[1000大師賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽1000大師賽 "wikilink")、[500巡迴賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽500賽 "wikilink")、[250巡迴賽等賽事中所創造的重要紀錄](https://zh.wikipedia.org/wiki/ATP世界巡迴賽250賽 "wikilink")。
 
 ## 單打
 
@@ -24,52 +24,52 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="../Page/康诺尔斯.md" title="wikilink">康诺尔斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康诺尔斯" title="wikilink">康诺尔斯</a></p></td>
 <td><p>109</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
-<td><p><a href="../Page/费德勒.md" title="wikilink">费德勒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费德勒" title="wikilink">费德勒</a></p></td>
 <td><p>99</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p>/ <a href="../Page/伦德尔.md" title="wikilink">伦德尔</a></p></td>
+<td><p>/ <a href="https://zh.wikipedia.org/wiki/伦德尔" title="wikilink">伦德尔</a></p></td>
 <td><p>94</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>
-<td><p><a href="../Page/納達爾.md" title="wikilink">納達爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/納達爾" title="wikilink">納達爾</a></p></td>
 <td><p>79</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p><a href="../Page/约翰·麦肯罗.md" title="wikilink">麦肯罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/约翰·麦肯罗" title="wikilink">麦肯罗</a></p></td>
 <td><p>77</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p><a href="../Page/德约科维奇.md" title="wikilink">德约科维奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
 <td><p>68</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p><a href="../Page/比约·博格.md" title="wikilink">博格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比约·博格" title="wikilink">博格</a></p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/桑普拉斯.md" title="wikilink">桑普拉斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桑普拉斯" title="wikilink">桑普拉斯</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
-<td><p><a href="../Page/維拉斯.md" title="wikilink">維拉斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/維拉斯" title="wikilink">維拉斯</a></p></td>
 <td><p>62</p></td>
 </tr>
 <tr class="even">
 <td><p>10.</p></td>
-<td><p><a href="../Page/阿加西.md" title="wikilink">阿加西</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿加西" title="wikilink">阿加西</a></p></td>
 <td><p>60</p></td>
 </tr>
 </tbody>
@@ -85,17 +85,17 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="../Page/費德勒.md" title="wikilink">費德勒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/費德勒" title="wikilink">費德勒</a></p></td>
 <td><p>98</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
-<td><p><a href="../Page/納達爾.md" title="wikilink">納達爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/納達爾" title="wikilink">納達爾</a></p></td>
 <td><p>79</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p><a href="../Page/德约科维奇.md" title="wikilink">德约科维奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
 <td><p>68</p></td>
 </tr>
 <tr class="even">
@@ -105,17 +105,17 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p><a href="../Page/休伊特.md" title="wikilink">休伊特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休伊特" title="wikilink">休伊特</a></p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p><a href="../Page/费雷罗.md" title="wikilink">费雷罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费雷罗" title="wikilink">费雷罗</a></p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p><a href="../Page/达维登科.md" title="wikilink">达维登科</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达维登科" title="wikilink">达维登科</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
@@ -125,7 +125,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
-<td><p><a href="../Page/哈斯.md" title="wikilink">哈斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈斯" title="wikilink">哈斯</a></p></td>
 <td><p>14</p></td>
 </tr>
 <tr class="even">
@@ -134,7 +134,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <td><p>12</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/托米·罗布雷多.md" title="wikilink">罗布雷多</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/托米·罗布雷多" title="wikilink">罗布雷多</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -151,56 +151,56 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="../Page/康诺尔斯.md" title="wikilink">康诺尔斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/康诺尔斯" title="wikilink">康诺尔斯</a></p></td>
 <td><p>160</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
-<td><p>/ <a href="../Page/伦德尔.md" title="wikilink">伦德尔</a></p></td>
+<td><p>/ <a href="https://zh.wikipedia.org/wiki/伦德尔" title="wikilink">伦德尔</a></p></td>
 <td><p>146</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p><a href="../Page/費德勒.md" title="wikilink">費德勒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/費德勒" title="wikilink">費德勒</a></p></td>
 <td><p>148</p></td>
 </tr>
 <tr class="even">
 <td><p>4.</p></td>
-<td><p><a href="../Page/納達爾.md" title="wikilink">納達爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/納達爾" title="wikilink">納達爾</a></p></td>
 <td><p>115</p></td>
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p><a href="../Page/约翰·麦肯罗.md" title="wikilink">麦肯罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/约翰·麦肯罗" title="wikilink">麦肯罗</a></p></td>
 <td><p>108</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p><a href="../Page/維拉斯.md" title="wikilink">維拉斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/維拉斯" title="wikilink">維拉斯</a></p></td>
 <td><p>102</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p><a href="../Page/德约科维奇.md" title="wikilink">德约科维奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
 <td><p>98</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p><a href="../Page/納斯塔斯.md" title="wikilink">納斯塔斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/納斯塔斯" title="wikilink">納斯塔斯</a></p></td>
 <td><p>93</p></td>
 </tr>
 <tr class="odd">
 <td><p>9.</p></td>
-<td><p><a href="../Page/阿加西.md" title="wikilink">阿加西</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿加西" title="wikilink">阿加西</a></p></td>
 <td><p>90</p></td>
 </tr>
 <tr class="even">
 <td><p>10.</p></td>
-<td><p><a href="../Page/比约·博格.md" title="wikilink">博格</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/比约·博格" title="wikilink">博格</a></p></td>
 <td><p>88</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/桑普拉斯.md" title="wikilink">桑普拉斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/桑普拉斯" title="wikilink">桑普拉斯</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -217,17 +217,17 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="../Page/费德勒.md" title="wikilink">费德勒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费德勒" title="wikilink">费德勒</a></p></td>
 <td><p>148</p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
-<td><p><a href="../Page/纳达尔.md" title="wikilink">纳达尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/纳达尔" title="wikilink">纳达尔</a></p></td>
 <td><p>115</p></td>
 </tr>
 <tr class="odd">
 <td><p>3.</p></td>
-<td><p><a href="../Page/德约科维奇.md" title="wikilink">德约科维奇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德约科维奇" title="wikilink">德约科维奇</a></p></td>
 <td><p>98</p></td>
 </tr>
 <tr class="even">
@@ -237,22 +237,22 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 </tr>
 <tr class="odd">
 <td><p>5.</p></td>
-<td><p><a href="../Page/费雷罗.md" title="wikilink">费雷罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费雷罗" title="wikilink">费雷罗</a></p></td>
 <td><p>49</p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p><a href="../Page/休伊特.md" title="wikilink">休伊特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休伊特" title="wikilink">休伊特</a></p></td>
 <td><p>46</p></td>
 </tr>
 <tr class="odd">
 <td><p>7.</p></td>
-<td><p><a href="../Page/达维登科.md" title="wikilink">达维登科</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/达维登科" title="wikilink">达维登科</a></p></td>
 <td><p>28</p></td>
 </tr>
 <tr class="even">
 <td><p>8.</p></td>
-<td><p><a href="../Page/哈斯.md" title="wikilink">哈斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哈斯" title="wikilink">哈斯</a></p></td>
 <td><p>26</p></td>
 </tr>
 <tr class="odd">
@@ -272,17 +272,21 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 </table>
 
   - 完成生涯大滿貫的球員(生涯中曾在澳網、法網、温布頓、美網均獲得過冠軍):
-    [阿加西](../Page/阿加西.md "wikilink"),
-    [費德勒](../Page/費德勒.md "wikilink"),
-    [纳达尔](../Page/纳达尔.md "wikilink"),
-    [德约科维奇](../Page/德约科维奇.md "wikilink")。。
-  - 最高的生涯中大滿貫賽奪冠次數:  [費德勒](../Page/費德勒.md "wikilink") 20次。
-  - 最高的生涯中大師賽奪冠次數:  [納達爾](../Page/納達爾.md "wikilink") 32次。
-  - 單季最多冠紀錄:  [維拉斯](../Page/維拉斯.md "wikilink"), 1977年, 16次。
+    [阿加西](https://zh.wikipedia.org/wiki/阿加西 "wikilink"),
+    [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink"),
+    [纳达尔](https://zh.wikipedia.org/wiki/纳达尔 "wikilink"),
+    [德约科维奇](https://zh.wikipedia.org/wiki/德约科维奇 "wikilink")。。
+  - 最高的生涯中大滿貫賽奪冠次數:  [費德勒](https://zh.wikipedia.org/wiki/費德勒 "wikilink")
+    20次。
+  - 最高的生涯中大師賽奪冠次數:  [納達爾](https://zh.wikipedia.org/wiki/納達爾 "wikilink")
+    32次。
+  - 單季最多冠紀錄:  [維拉斯](https://zh.wikipedia.org/wiki/維拉斯 "wikilink"),
+    1977年, 16次。
   - 連續在三種不同的場地奪冠:
-      - 1990年之前:  [博格](../Page/比约·博格.md "wikilink"), 1979年。
-      - 1990年之後:  [费德勒](../Page/费德勒.md "wikilink"), 2004年. \[温布頓
-        (草地)、Gstaad (紅土)、多倫多大師賽 (硬地)\]
+      - 1990年之前:  [博格](https://zh.wikipedia.org/wiki/比约·博格 "wikilink"),
+        1979年。
+      - 1990年之後:  [费德勒](https://zh.wikipedia.org/wiki/费德勒 "wikilink"),
+        2004年. \[温布頓 (草地)、Gstaad (紅土)、多倫多大師賽 (硬地)\]
 
 ### 排名
 
@@ -444,7 +448,8 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
         (美國)，1984年, 勝率0.965 (83勝-2負)。
       - 1990年之後: -{zh-hans:费德勒;zh-hk:費達拿;zh-tw:費德勒;}-(Roger Federer)
         (瑞士)，2005年, 0.953 (81勝-4負)。
-  - 單場最多[ACE球紀錄](../Page/ACE球.md "wikilink") (1991年之後):
+  - 單場最多[ACE球紀錄](https://zh.wikipedia.org/wiki/ACE球 "wikilink")
+    (1991年之後):
 
 <table>
 <thead>
@@ -503,7 +508,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <td><p>55 <a href="https://web.archive.org/web/20090526210519/http://www.rolandgarros.com/en_FR/scores/stats/day6/1004ms.html">4</a></p></td>
 <td><p>卡洛維奇</p></td>
 <td><p>輸</p></td>
-<td><p><a href="../Page/休伊特.md" title="wikilink">休伊特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/休伊特" title="wikilink">休伊特</a></p></td>
 <td><p>第一輪</p></td>
 <td><p>2009</p></td>
 <td><p>法網</p></td>
@@ -515,7 +520,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <td><p>51 <a href="http://www.atpworldtour.com/3/en/vault/popMatchStats.asp?sd=Singles%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&amp;trnnum=540&amp;trnyear=2005&amp;rnd=1&amp;plyr=B570">5</a></p></td>
 <td><p>卡洛維奇</p></td>
 <td><p>輸</p></td>
-<td><p><a href="../Page/Daniele_Bracciali.md" title="wikilink">Daniele Bracciali</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Daniele_Bracciali" title="wikilink">Daniele Bracciali</a></p></td>
 <td><p>第一輪</p></td>
 <td><p>2005</p></td>
 <td><p>温布尔登</p></td>
@@ -527,7 +532,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <td><p>51</p></td>
 <td><p><a href="../Page/約阿希姆·約翰松.md" title="wikilink">乔·約翰森</a></p></td>
 <td><p>輸</p></td>
-<td><p><a href="../Page/阿加西.md" title="wikilink">阿加西</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿加西" title="wikilink">阿加西</a></p></td>
 <td><p>第四轮</p></td>
 <td><p>2005</p></td>
 <td><p>澳網</p></td>
@@ -537,9 +542,9 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>50</p></td>
-<td><p><a href="../Page/费德勒.md" title="wikilink">费德勒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费德勒" title="wikilink">费德勒</a></p></td>
 <td><p>贏</p></td>
-<td><p><a href="../Page/罗迪克.md" title="wikilink">罗迪克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗迪克" title="wikilink">罗迪克</a></p></td>
 <td><p>決賽</p></td>
 <td><p>2009</p></td>
 <td><p>温布尔登</p></td>
@@ -549,9 +554,9 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tr class="even">
 <td><p>8.</p></td>
 <td><p>49</p></td>
-<td><p><a href="../Page/加逸錫.md" title="wikilink">加逸錫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加逸錫" title="wikilink">加逸錫</a></p></td>
 <td><p>輸</p></td>
-<td><p><a href="../Page/卡费尔尼科夫.md" title="wikilink">卡费尔尼科夫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡费尔尼科夫" title="wikilink">卡费尔尼科夫</a></p></td>
 <td><p>四分之一决赛</p></td>
 <td><p>1999</p></td>
 <td><p>美網</p></td>
@@ -561,9 +566,9 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <tr class="odd">
 <td><p>9.</p></td>
 <td><p>47</p></td>
-<td><p><a href="../Page/库尔滕.md" title="wikilink">库尔滕</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/库尔滕" title="wikilink">库尔滕</a></p></td>
 <td><p>輸</p></td>
-<td><p><a href="../Page/丹尼爾·內斯特.md" title="wikilink">內斯特</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/丹尼爾·內斯特" title="wikilink">內斯特</a></p></td>
 <td><p>第一輪</p></td>
 <td><p>2003</p></td>
 <td><p>戴维斯杯</p></td>
@@ -575,7 +580,7 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 <td><p>47</p></td>
 <td><p>卡洛維奇</p></td>
 <td><p>贏</p></td>
-<td><p><a href="../Page/布莱克.md" title="wikilink">布莱克</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布莱克" title="wikilink">布莱克</a></p></td>
 <td><p>四分之一决赛</p></td>
 <td><p>2009</p></td>
 <td><p>戴维斯杯</p></td>
@@ -630,15 +635,17 @@ Professionals）在1972年創立之後，球員在[大滿貫](../Page/網球大�
 
 ## 雙打
 
-  - 最多冠的球員: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))
+  - 最多冠的球員: 伍德布里奇([Todd
+    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))
     (澳大利亞), 83冠。
   - 最多冠的搭擋: 伍德布里奇([Todd
-    Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))和伍德福德(:en:Mark
+    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德(:en:Mark
     Woodforde|Mark Woodforde) (澳大利亞), 61冠。參見。
-  - 最多大滿貫冠軍球員: 伍德布里奇([Todd Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))
+  - 最多大滿貫冠軍球員: 伍德布里奇([Todd
+    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))
     (澳大利亞), 16次。
   - 最多大滿貫冠軍的搭擋: 伍德布里奇([Todd
-    Woodbridge](../Page/托德·伍德布里奇.md "wikilink"))和伍德福德([Mark
+    Woodbridge](https://zh.wikipedia.org/wiki/托德·伍德布里奇 "wikilink"))和伍德福德([Mark
     Woodforde](../Page/馬克·伍德福德.md "wikilink")) (澳大利亞), 11次。
 
 [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")

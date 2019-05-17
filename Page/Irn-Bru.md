@@ -1,15 +1,15 @@
 [Fm_irnbru.jpg](https://zh.wikipedia.org/wiki/File:Fm_irnbru.jpg "fig:Fm_irnbru.jpg")
 **Irn-Bru**（读作“iron
-brew”），是由位于[英格兰](../Page/英格兰.md "wikilink")[曼斯菲尔德和](../Page/曼斯菲尔德.md "wikilink")[苏格兰](../Page/苏格兰.md "wikilink")[坎伯诺尔德的](../Page/坎伯诺尔德.md "wikilink")
+brew”），是由位于[英格兰](../Page/英格兰.md "wikilink")[曼斯菲尔德和](https://zh.wikipedia.org/wiki/曼斯菲尔德 "wikilink")[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[坎伯诺尔德的](https://zh.wikipedia.org/wiki/坎伯诺尔德 "wikilink")
 A.G. Barr
-公司生产的一种[碳酸](../Page/碳酸饮料.md "wikilink")[软性饮料](../Page/软性饮料.md "wikilink")。它被称作是苏格兰除[苏格兰威士忌以外的另一种民族饮料](../Page/苏格兰威士忌.md "wikilink")，为苏格兰最畅销的软性饮料之一，其销量可以与[可口可乐相媲美](../Page/可口可乐.md "wikilink")。其口味类似于[芬达](../Page/芬达.md "wikilink")，有类似柠檬的酸味。饮料上写明的成分有[柠檬酸铁铵](../Page/柠檬酸铁铵.md "wikilink")、[糖](../Page/糖.md "wikilink")、[咖啡因](../Page/咖啡因.md "wikilink")、[奎宁](../Page/奎宁.md "wikilink")、[日落黄和](../Page/日落黄.md "wikilink")[胭脂红等](../Page/胭脂红.md "wikilink")，不含酒精。由于它的咖啡因配方，因此在酒吧十分常见，用于[解酒](../Page/解酒.md "wikilink")，也用于[调酒](../Page/调酒.md "wikilink")。
+公司生产的一种[碳酸](https://zh.wikipedia.org/wiki/碳酸饮料 "wikilink")[软性饮料](https://zh.wikipedia.org/wiki/软性饮料 "wikilink")。它被称作是苏格兰除[苏格兰威士忌以外的另一种民族饮料](https://zh.wikipedia.org/wiki/苏格兰威士忌 "wikilink")，为苏格兰最畅销的软性饮料之一，其销量可以与[可口可乐相媲美](../Page/可口可乐.md "wikilink")。其口味类似于[芬达](../Page/芬达.md "wikilink")，有类似柠檬的酸味。饮料上写明的成分有[柠檬酸铁铵](https://zh.wikipedia.org/wiki/柠檬酸铁铵 "wikilink")、[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")、[咖啡因](../Page/咖啡因.md "wikilink")、[奎宁](https://zh.wikipedia.org/wiki/奎宁 "wikilink")、[日落黄和](https://zh.wikipedia.org/wiki/日落黄 "wikilink")[胭脂红等](https://zh.wikipedia.org/wiki/胭脂红 "wikilink")，不含酒精。由于它的咖啡因配方，因此在酒吧十分常见，用于[解酒](https://zh.wikipedia.org/wiki/解酒 "wikilink")，也用于[调酒](https://zh.wikipedia.org/wiki/调酒 "wikilink")。
 
 Irn-Bru 颜色为鲜艳的橙黄色，配方是高度保密的，只有公司主席罗宾·巴尔（Robin
 Barr）和另外一位不透露姓名的人知道。此外还有一份配料单保存在苏格兰一家银行的保险库中。每个月，巴尔会在位于坎伯诺尔德的公司总部的一个密闭的屋子内，独自按照配料单配制
 Irn-Bru。如果巴尔不再担任公司主席一职，则他仍然是饮料的配制者，但是最终配料单是会被传至他的女儿朱莉手中。\[1\]
 
 Irn-Bru
-最早是于1901年在苏格兰中部城镇[福尔柯克首先制得](../Page/福尔柯克_\(城镇\).md "wikilink")，最早的商品名为“Strachan's
+最早是于1901年在苏格兰中部城镇[福尔柯克首先制得](https://zh.wikipedia.org/wiki/福尔柯克_\(城镇\) "wikilink")，最早的商品名为“Strachan's
 brew”。1946年，法律作出更改，不是通过酿造（brew）得到的“Strachan's
 brew”饮料需要将名称中的“brew”一词去掉。当时的公司主席灵机一动，选取同义词为之命名，便成为今日的“Irn-Bru”品牌。
 目前，Irn-Bru

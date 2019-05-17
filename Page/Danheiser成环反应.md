@@ -2,7 +2,7 @@
 TMS-环戊烯成环反应**（Danheiser TMS-Cyclopentene
 annulation）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-α,β-[不饱和](../Page/不饱和.md "wikilink")[酮与三](../Page/酮.md "wikilink")[烃基](../Page/烃基.md "wikilink")[硅基](../Page/硅基.md "wikilink")（如[三甲基硅基](../Page/三甲基硅基.md "wikilink")、[三异丙基硅基](../Page/三异丙基硅基.md "wikilink")）[丙二烯在](../Page/丙二烯.md "wikilink")[路易斯酸存在下发生反应](../Page/路易斯酸.md "wikilink")，生成三烃基硅基[环戊烯](../Page/环戊烯.md "wikilink")。
+α,β-[不饱和](https://zh.wikipedia.org/wiki/不饱和 "wikilink")[酮与三](../Page/酮.md "wikilink")[烃基](https://zh.wikipedia.org/wiki/烃基 "wikilink")[硅基](https://zh.wikipedia.org/wiki/硅基 "wikilink")（如[三甲基硅基](../Page/三甲基硅基.md "wikilink")、[三异丙基硅基](https://zh.wikipedia.org/wiki/三异丙基硅基 "wikilink")）[丙二烯在](../Page/丙二烯.md "wikilink")[路易斯酸存在下发生反应](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")，生成三烃基硅基[环戊烯](../Page/环戊烯.md "wikilink")。
 
 
 [DanheiserAnnulation03.png](https://zh.wikipedia.org/wiki/File:DanheiserAnnulation03.png "fig:DanheiserAnnulation03.png")
@@ -19,27 +19,28 @@ annulation）\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 1.  "TMS-Cyclopentene Annulation: A Regiocontrolled Approach to the
     Synthesis of Five-Membered Rings", R. L. Danheiser, D. J. Carini,
     and A. Basak, *[J. Am. Chem.
-    Soc.](../Page/J._Am._Chem._Soc..md "wikilink")* **1981**, *103*,
-    1604.
+    Soc.](https://zh.wikipedia.org/wiki/J._Am._Chem._Soc. "wikilink")*
+    **1981**, *103*, 1604.
 2.  "Scope and Stereochemical Course of the (Trimethylsilyl)cyclopentene
     Annulation", R. L. Danheiser, D. J. Carini, D. M. Fink, and A.
     Basak,
-    *[Tetrahedron](../Page/Tetrahedron_\(journal\).md "wikilink")*
+    *[Tetrahedron](https://zh.wikipedia.org/wiki/Tetrahedron_\(journal\) "wikilink")*
     **1983**, *39*, 935.
 3.  "The Reaction of Allenysilanes with α,β-Unsaturated Acylsilanes: New
     Annulation Approaches to Five and Six-Membered Carbocyclic
     Compounds", R. L. Danheiser and D. M. Fink, *[Tetrahedron
-    Lett.](../Page/Tetrahedron_Letters.md "wikilink")* **1985**, *26*,
-    2513.
+    Lett.](https://zh.wikipedia.org/wiki/Tetrahedron_Letters "wikilink")*
+    **1985**, *26*, 2513.
 4.  "A General \[3+2\] Annulation:
     cis-4-Exo-isopropenyl-1,9-dimethyl-8-(trimethylsilyl)bicyclo-\[4.3.0\]non-8-en-2-one",
     R. L. Danheiser, D. M. Fink, and Y. -M. Tsai, *[Organic
-    Syntheses](../Page/Organic_Syntheses.md "wikilink")* **1988**, *66*,
-    8.
+    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink")*
+    **1988**, *66*, 8.
 5.  "Organic Syntheses Based on Name Reactions", By Alfred Hassner and
-    C. Stumer, [Elsevier](../Page/Elsevier.md "wikilink"), p. 78,
-    **2002**
+    C. Stumer,
+    [Elsevier](https://zh.wikipedia.org/wiki/Elsevier "wikilink"), p.
+    78, **2002**
 6.  "Name Reactions: A Collection of Detailed Reaction Mechanisms", By
     Jie Jack Li,
-    [Springer](../Page/Springer_Science+Business_Media.md "wikilink"),
+    [Springer](https://zh.wikipedia.org/wiki/Springer_Science+Business_Media "wikilink"),
     p. 102, **2003**

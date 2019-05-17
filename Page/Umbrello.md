@@ -1,9 +1,9 @@
 **Umbrello UML 建模工具**是一個
-[UML](../Page/Unified_Modeling_Language.md "wikilink")
+[UML](https://zh.wikipedia.org/wiki/Unified_Modeling_Language "wikilink")
 繪製的自由軟體，執行在類Unix系統上。
 
 Umbrello 能夠處理所有標準的UML圖表類型。它可以對
-[C++](../Page/C++.md "wikilink")、[IDL](../Page/CORBA.md "wikilink")、[Pascal](../Page/Pascal.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[Python和](../Page/Python.md "wikilink")[Java編寫的代碼進行反向工程](../Page/Java.md "wikilink")；以及引入
+[C++](../Page/C++.md "wikilink")、[IDL](../Page/CORBA.md "wikilink")、[Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")、[Ada](../Page/Ada.md "wikilink")、[Python和](../Page/Python.md "wikilink")[Java編寫的代碼進行反向工程](../Page/Java.md "wikilink")；以及引入
 XMI 文件，由來自 [PHP](../Page/PHP.md "wikilink")
 ([1](http://tech.motion-twin.com/php_php2xmi.html))或
 [Perl](../Page/Perl.md "wikilink")
@@ -16,13 +16,13 @@ Umbrello 允許模型內容由輸出成DocBook 和 [XHTML格式發布](../Page/X
 
   - [ActionScript](../Page/ActionScript.md "wikilink")
   - [Ada](../Page/Ada.md "wikilink")
-  - [C\#](../Page/C_Sharp.md "wikilink")
+  - [C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")
   - [C++](../Page/C++.md "wikilink")
   - [D語言](../Page/D語言.md "wikilink")
   - [IDL](../Page/CORBA.md "wikilink")
   - [Java](../Page/Java.md "wikilink")
   - [JavaScript](../Page/JavaScript.md "wikilink")
-  - [Pascal](../Page/Pascal.md "wikilink")
+  - [Pascal](https://zh.wikipedia.org/wiki/Pascal "wikilink")
   - [Perl](../Page/Perl.md "wikilink")
   - [PHP](../Page/PHP.md "wikilink")
   - [Python](../Page/Python.md "wikilink")

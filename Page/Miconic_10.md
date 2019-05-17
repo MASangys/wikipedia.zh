@@ -1,9 +1,10 @@
-**Miconic 10**，是由[升降機製造商](../Page/升降機.md "wikilink")發明的一款升降機分配系統。
+**Miconic
+10**，是由[升降機製造商](https://zh.wikipedia.org/wiki/升降機 "wikilink")發明的一款升降機分配系統。
 
 ## 系統構造
 
 [Miconic_10_Keyboard.jpg](https://zh.wikipedia.org/wiki/File:Miconic_10_Keyboard.jpg "fig:Miconic_10_Keyboard.jpg")
-傳統升降機為每層只設有上落按钮，但是這系統是在升降機的每一層站設置樓層選擇器（[九宮格鍵盤](../Page/九宮格鍵盤.md "wikilink")），故升降機能夠預知乘客要前往的樓層，從而加快整個升降機系統的運作效率。
+傳統升降機為每層只設有上落按钮，但是這系統是在升降機的每一層站設置樓層選擇器（[九宮格鍵盤](https://zh.wikipedia.org/wiki/九宮格鍵盤 "wikilink")），故升降機能夠預知乘客要前往的樓層，從而加快整個升降機系統的運作效率。
 
 由於系統已知乘客要前往的樓層，故機箱內均一律不設任何樓層按鈕，只有開關門按鈕（但亦設有供消防員使用的樓層選擇器，平日上鎖）。
 
@@ -17,26 +18,26 @@
 
 ## 缺點
 
-由於這升降機系統不是所有地方均有使用，因此仍會有不少的人會不懂使用，故不適合應用在一些訪客量高的地方（例如：[政府合署](../Page/政府合署.md "wikilink")）。
+由於這升降機系統不是所有地方均有使用，因此仍會有不少的人會不懂使用，故不適合應用在一些訪客量高的地方（例如：[政府合署](https://zh.wikipedia.org/wiki/政府合署 "wikilink")）。
 
 ## 使用例子
 
 以下只列舉少量使用例子
 
-### [台灣](../Page/台灣.md "wikilink")
+### [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")
 
 #### 辦公大樓
 
-  - [三立電視台](../Page/三立電視台.md "wikilink")
+  - [三立電視台](https://zh.wikipedia.org/wiki/三立電視台 "wikilink")
 
 ### [香港](../Page/香港.md "wikilink")
 
 #### 辦公大樓
 
   - [太古坊](../Page/太古坊.md "wikilink")
-      - [德宏大廈](../Page/德宏大廈.md "wikilink")（23-29樓，香港首個安裝地點）
-      - [林肯大廈](../Page/林肯大廈.md "wikilink")
-      - [康橋大廈](../Page/康橋大廈.md "wikilink")
+      - [德宏大廈](https://zh.wikipedia.org/wiki/德宏大廈 "wikilink")（23-29樓，香港首個安裝地點）
+      - [林肯大廈](https://zh.wikipedia.org/wiki/林肯大廈 "wikilink")
+      - [康橋大廈](https://zh.wikipedia.org/wiki/康橋大廈 "wikilink")
       - [港島東中心](../Page/港島東中心.md "wikilink")
   - [朗豪坊辦公大樓](../Page/朗豪坊.md "wikilink")
   - [太古廣場二座高層寫字樓](../Page/太古廣場.md "wikilink")，及三座
@@ -44,17 +45,17 @@
   - [數碼港](../Page/數碼港.md "wikilink")
   - [環球貿易廣場](../Page/環球貿易廣場.md "wikilink")（採用PORT系統）
   - [友邦廣場](../Page/友邦廣場.md "wikilink")
-  - [英皇道1063號](../Page/英皇道1063號.md "wikilink")
+  - [英皇道1063號](https://zh.wikipedia.org/wiki/英皇道1063號 "wikilink")
   - [怡和大廈](../Page/怡和大廈.md "wikilink")
-  - [百佳商業中心](../Page/百佳商業中心.md "wikilink")
+  - [百佳商業中心](https://zh.wikipedia.org/wiki/百佳商業中心 "wikilink")
   - [城東誌](../Page/城東誌.md "wikilink")
-  - [置地廣場的](../Page/置地廣場.md "wikilink")[公爵大廈](../Page/公爵大廈.md "wikilink")、[約克大廈](../Page/約克大廈.md "wikilink")
+  - [置地廣場的](https://zh.wikipedia.org/wiki/置地廣場 "wikilink")[公爵大廈](../Page/公爵大廈.md "wikilink")、[約克大廈](../Page/約克大廈.md "wikilink")
   - [信德中心](../Page/信德中心.md "wikilink")
   - [太子大廈](../Page/太子大廈.md "wikilink")
   - [歷山大廈](../Page/歷山大廈.md "wikilink")
   - [One Bay East](../Page/One_Bay_East.md "wikilink")（採用混合式顯示屏）
   - [Victoria
-    Dockside](../Page/Victoria_Dockside.md "wikilink")（採用PORT系統）
+    Dockside](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")（採用PORT系統）
 
 #### 住宅
 
@@ -66,27 +67,27 @@
 
 ### [中國](../Page/中國.md "wikilink")
 
-#### [北京](../Page/北京.md "wikilink")
+#### [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")
 
   - 民生金融中心
 
-#### [上海](../Page/上海.md "wikilink")
+#### [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")
 
   - [明天廣場](../Page/明天廣場.md "wikilink")
 
-#### [成都](../Page/成都.md "wikilink")
+#### [成都](https://zh.wikipedia.org/wiki/成都 "wikilink")
 
   - 汇日·央扩国际广场
 
-#### [南京](../Page/南京.md "wikilink")
+#### [南京](https://zh.wikipedia.org/wiki/南京 "wikilink")
 
-  - [紫峰大廈](../Page/紫峰大廈.md "wikilink")
+  - [紫峰大廈](https://zh.wikipedia.org/wiki/紫峰大廈 "wikilink")
 
-#### [深圳](../Page/深圳.md "wikilink")
+#### [深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")
 
   - [平安金融中心](../Page/平安金融中心.md "wikilink")（僅辦公室升降機，採用PORT系統，不包括穿梭升降機）
-  - [騰訊濱海大廈](../Page/騰訊濱海大廈.md "wikilink")（採用與[騰訊合作開發的特別版PORT系統](../Page/騰訊.md "wikilink")，必須使用員工已綁定的[微信賬號召喚升降機](../Page/微信#電梯智能分配系統操作介面（限騰訊員工）.md "wikilink")）
-  - [深圳灣一號](../Page/深圳灣一號.md "wikilink")
+  - [騰訊濱海大廈](../Page/騰訊濱海大廈.md "wikilink")（採用與[騰訊合作開發的特別版PORT系統](https://zh.wikipedia.org/wiki/騰訊 "wikilink")，必須使用員工已綁定的[微信賬號召喚升降機](https://zh.wikipedia.org/wiki/微信#電梯智能分配系統操作介面（限騰訊員工） "wikilink")）
+  - [深圳灣一號](https://zh.wikipedia.org/wiki/深圳灣一號 "wikilink")
 
 ## 參考
 
@@ -95,6 +96,6 @@
   - [電梯資料網：升降機智能分配系統](http://hkelev.com/elev_miconic10.htm)
 
 [en:Schindler Group\#Destination control
-systems](../Page/en:Schindler_Group#Destination_control_systems.md "wikilink")
+systems](https://zh.wikipedia.org/wiki/en:Schindler_Group#Destination_control_systems "wikilink")
 
 [Category:建筑设计](https://zh.wikipedia.org/wiki/Category:建筑设计 "wikilink")

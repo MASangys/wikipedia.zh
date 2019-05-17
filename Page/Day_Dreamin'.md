@@ -1,5 +1,5 @@
 《**Day
-Dreamin**》（意思：白日夢）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張國榮的首張](../Page/張國榮.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")，於1978年1月由[寶麗多發行](../Page/寶麗金.md "wikilink")。\[1\]
+Dreamin**》（意思：白日夢）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張國榮的首張](../Page/張國榮.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於1978年1月由[寶麗多發行](../Page/寶麗金.md "wikilink")。\[1\]
 
 ## 曲目
 

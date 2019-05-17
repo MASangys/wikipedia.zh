@@ -1,8 +1,8 @@
-《**刑事偵緝檔案IV**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](../Page/電視劇.md "wikilink")，於1998年開始拍攝，1999年3月29日至6月4日在[翡翠台首播](../Page/翡翠台.md "wikilink")，全劇共50集，監製为[潘嘉德](../Page/潘嘉德.md "wikilink")。
+《**刑事偵緝檔案IV**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的時裝](../Page/電視廣播有限公司.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1998年開始拍攝，1999年3月29日至6月4日在[翡翠台首播](../Page/翡翠台.md "wikilink")，全劇共50集，監製为[潘嘉德](../Page/潘嘉德.md "wikilink")。
 
-該劇由[古天樂](../Page/古天樂.md "wikilink")、[陳錦鴻](../Page/陳錦鴻.md "wikilink")、[宣萱及](../Page/宣萱.md "wikilink")[佘詩曼領銜主演](../Page/佘詩曼.md "wikilink")，由[李珊珊](../Page/李珊珊_\(藝員\).md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[蘇志威及](../Page/蘇志威.md "wikilink")[姚瑩瑩聯合主演](../Page/姚瑩瑩.md "wikilink")，並由[郭晉安及](../Page/郭晉安.md "wikilink")[向海嵐特別演出](../Page/向海嵐.md "wikilink")。該輯的故事與前三輯無關。然而其大結局主角們的感情去向安排，就算事隔多年，依然備受大家爭議和負評。
+該劇由[古天樂](../Page/古天樂.md "wikilink")、[陳錦鴻](../Page/陳錦鴻.md "wikilink")、[宣萱及](../Page/宣萱.md "wikilink")[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，由[李珊珊](https://zh.wikipedia.org/wiki/李珊珊_\(藝員\) "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")、[蘇志威及](../Page/蘇志威.md "wikilink")[姚瑩瑩聯合主演](../Page/姚瑩瑩.md "wikilink")，並由[郭晉安及](../Page/郭晉安.md "wikilink")[向海嵐特別演出](../Page/向海嵐.md "wikilink")。該輯的故事與前三輯無關。然而其大結局主角們的感情去向安排，就算事隔多年，依然備受大家爭議和負評。
 
-當年前三輯《刑事偵緝檔案》主角[陶大宇主演的](../Page/陶大宇.md "wikilink")[亞洲電視劇集](../Page/亞洲電視.md "wikilink")《[縱橫四海](../Page/縱橫四海_\(電視劇\).md "wikilink")》在1999年3月於[本港台首播](../Page/本港台.md "wikilink")，廣受觀眾歡迎，帶挈整個[黃金時段的](../Page/黃金時段.md "wikilink")[收視率急升](../Page/收視率.md "wikilink")，逼近翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，令翡翠台立刻於同期播映此劇來迎戰。
+當年前三輯《刑事偵緝檔案》主角[陶大宇主演的](../Page/陶大宇.md "wikilink")[亞洲電視劇集](../Page/亞洲電視.md "wikilink")《[縱橫四海](../Page/縱橫四海_\(電視劇\).md "wikilink")》在1999年3月於[本港台首播](../Page/本港台.md "wikilink")，廣受觀眾歡迎，帶挈整個[黃金時段的](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")[收視率急升](https://zh.wikipedia.org/wiki/收視率 "wikilink")，逼近翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，令翡翠台立刻於同期播映此劇來迎戰。
 
 此劇曾於2002年6月14日至2002年9月7日和2018年7月2日至2018年8月19日在翡翠台重播。
 
@@ -57,7 +57,7 @@
 <td><p><strong><a href="../Page/蘇志威.md" title="wikilink">蘇志威</a></strong></p></td>
 <td><p><strong>韓國仁</strong></p></td>
 <td><p><strong>Korean<br />
-中區警署刑事偵緝科A隊<a href="../Page/探員.md" title="wikilink">探員</a></strong><br />
+中區警署刑事偵緝科A隊<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong><br />
 江子山、徐飛之下屬<br />
 初時跟徐飛鬧不和，於第15集和好<br />
 邵之藍之男友</p></td>
@@ -66,23 +66,23 @@
 <td><p><strong><a href="../Page/姚瑩瑩.md" title="wikilink">姚瑩瑩</a></strong></p></td>
 <td><p><strong>邵之藍</strong></p></td>
 <td><p><strong>Gigi<br />
-中區警署刑事偵緝科A隊<a href="../Page/探員.md" title="wikilink">探員</a></strong><br />
+中區警署刑事偵緝科A隊<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong><br />
 江子山、徐飛之下屬<br />
 韓國仁之女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/郭峰_(演員).md" title="wikilink">郭　鋒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　鋒</a></p></td>
 <td><p>梁劍雄</p></td>
 <td><p><strong>雄哥<br />
-中區警署刑事偵緝科A隊<a href="../Page/探員.md" title="wikilink">探員</a></strong><br />
+中區警署刑事偵緝科A隊<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong><br />
 江子山、徐飛之下屬<br />
 梁芊芊之兄<br />
 於第21集被文國泰殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃振威.md" title="wikilink">黃振威</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃振威" title="wikilink">黃振威</a></p></td>
 <td><p>何振球</p></td>
-<td><p><strong>中區警署刑事偵緝科A隊<a href="../Page/探員.md" title="wikilink">探員</a></strong><br />
+<td><p><strong>中區警署刑事偵緝科A隊<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong><br />
 江子山、徐飛之下屬</p></td>
 </tr>
 <tr class="odd">
@@ -93,18 +93,18 @@
 <tr class="even">
 <td><p><a href="../Page/莫家堯.md" title="wikilink">莫家堯</a></p></td>
 <td><p>馮添海</p></td>
-<td><p><strong>中區警署刑事偵緝科B隊<a href="../Page/探員.md" title="wikilink">探員</a></strong><br />
+<td><p><strong>中區警署刑事偵緝科B隊<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong><br />
 於第25集調至A隊替補梁劍雄之空缺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/曹濟.md" title="wikilink">曹　濟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曹濟" title="wikilink">曹　濟</a></p></td>
 <td><p>智　叔</p></td>
-<td><p><strong>前旺角警署<a href="../Page/探員.md" title="wikilink">探員</a></strong></p></td>
+<td><p><strong>前旺角警署<a href="https://zh.wikipedia.org/wiki/探員" title="wikilink">探員</a></strong></p></td>
 </tr>
 </tbody>
 </table>
 
-#### [臨床心理學](../Page/臨床心理學.md "wikilink")
+#### [臨床心理學](https://zh.wikipedia.org/wiki/臨床心理學 "wikilink")
 
 <table>
 <tbody>
@@ -152,12 +152,12 @@
 文婉蘭之上司</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>文婉蘭</strong></p></td>
 <td><p><strong>Man<br />
 中區警署刑事情報科警員</strong><br />
 因牽涉文國泰案件而入獄，及後被撤職<br />
-參見<a href="../Page/#文家.md" title="wikilink">文家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#文家" title="wikilink">文家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/曾慧雲.md" title="wikilink">曾慧雲</a></p></td>
@@ -182,28 +182,28 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td></td>
 <td><p>軍裝警員<br />
-參見<a href="../Page/#檔案八：黑色周五（第26－29集）.md" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案八：黑色周五（第26－29集）" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/賀文傑.md" title="wikilink">賀文傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賀文傑" title="wikilink">賀文傑</a></p></td>
 <td></td>
 <td><p>軍裝警員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/蒲茗藍.md" title="wikilink">蒲茗藍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒲茗藍" title="wikilink">蒲茗藍</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/蘇麗明.md" title="wikilink">蘇麗明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇麗明" title="wikilink">蘇麗明</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳瑞華.md" title="wikilink">陳瑞華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳瑞華" title="wikilink">陳瑞華</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -245,13 +245,13 @@
 <td><p>武俏君的表姨<br />
 邱彼得前女友<br />
 殷宝莉之私家看護<br />
-參見<a href="../Page/#檔案三：唐家命案（第7－9集）.md" title="wikilink">檔案三：唐家命案（第7－9集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案三：唐家命案（第7－9集）" title="wikilink">檔案三：唐家命案（第7－9集）</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣　萱</a></strong></p></td>
 <td><p><strong>武俏君</strong></p></td>
 <td><p><strong>Quin</strong><br />
-參見<a href="../Page/#臨床心理學.md" title="wikilink">臨床心理學</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#臨床心理學" title="wikilink">臨床心理學</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/馮曉文.md" title="wikilink">馮曉文</a></p></td>
@@ -301,7 +301,7 @@
 駱見業之情婦</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>文婉蘭</strong></p></td>
 <td><p><strong>Man</strong><br />
 文國泰、汪淑慧之女<br />
@@ -311,7 +311,7 @@
 於第26集因幫文國泰隱瞞案情而被判入獄<br />
 於第37集出獄<br />
 出獄後發現仍深愛江子山，於第42集重新向其表白，但被拒絶<br />
-童年由<a href="../Page/黃靜汶_(香港).md" title="wikilink">黃靜汶飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/黃靜汶_(香港)" title="wikilink">黃靜汶飾演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/余慕蓮.md" title="wikilink">余慕蓮</a></p></td>
@@ -331,7 +331,7 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李珊珊_(藝員).md" title="wikilink">李珊珊</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
 <td><p><strong>唐心如</strong></p></td>
 <td><p><strong>唐心<br />
 唐氏集團之唯一繼承人</strong><br />
@@ -341,7 +341,7 @@ Chez Maman老闆<br />
 文婉蘭之好友兼情敵<br />
 暗戀江子山→後為好友→於第33集後成為江子山女友→第41集因得悉文婉蘭与江子山分手真相而退出→第42集復合→第45集為未婚妻<br />
 於第45集在婚禮上被江子瑤誤當為曹占而遭刺腹身亡<br />
-童年由<a href="../Page/馮皓詩.md" title="wikilink">馮皓詩飾演</a></p></td>
+童年由<a href="https://zh.wikipedia.org/wiki/馮皓詩" title="wikilink">馮皓詩飾演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/單立文.md" title="wikilink">單立文</a></strong></p></td>
@@ -372,17 +372,17 @@ Chez Maman餐廳的調酒師</strong><br />
 <td><p><strong><a href="../Page/韋家雄.md" title="wikilink">韋家雄</a></strong></p></td>
 <td><p><strong>溫志森</strong></p></td>
 <td><p>Chez Maman侍應<br />
-參見<a href="../Page/#檔案三：唐家命案（第7－9集）.md" title="wikilink">檔案三：唐家命案（第7－9集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案三：唐家命案（第7－9集）" title="wikilink">檔案三：唐家命案（第7－9集）</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳肖明.md" title="wikilink">陳肖明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳肖明" title="wikilink">陳肖明</a></p></td>
 <td><p>陳珍妮</p></td>
 <td><p>Jenny<br />
 Chez Maman侍應<br />
 於第31集因在工作上配戴飾物兼卸責而被解僱</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
 <td><p>David</p></td>
 <td><p>Chez Maman侍應</p></td>
 </tr>
@@ -392,7 +392,7 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/洪菁儀.md" title="wikilink">洪菁儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪菁儀" title="wikilink">洪菁儀</a></p></td>
 <td><p>Alice</p></td>
 <td></td>
 </tr>
@@ -433,7 +433,7 @@ Chez Maman侍應<br />
 <td><p>江豐年之次女<br />
 江子青之失散多年的孿生妹妹，与其有心灵感應<br />
 江子山失散多年的姊姊<br />
-患有<a href="../Page/多重人格.md" title="wikilink">多重人格</a><br />
+患有<a href="https://zh.wikipedia.org/wiki/多重人格" title="wikilink">多重人格</a><br />
 殺害曹占、宋家齐之兇手<br />
 於唐心如與江子山的婚禮上誤刺唐心如而令其死亡<br />
 於出生時被文医生與阿婷的女兒調換<br />
@@ -450,7 +450,7 @@ Chez Maman侍應<br />
 <tr class="even">
 <td><p><strong><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a></strong></p></td>
 <td><p><strong>江子山</strong></p></td>
-<td><p>參見<a href="../Page/#中區警署刑事偵緝科.md" title="wikilink">中區警署刑事偵緝科</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#中區警署刑事偵緝科" title="wikilink">中區警署刑事偵緝科</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/雪妮.md" title="wikilink">雪　妮</a></p></td>
@@ -510,7 +510,7 @@ Chez Maman侍應<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李燕姍.md" title="wikilink">李燕姍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李燕姍" title="wikilink">李燕姍</a></p></td>
 <td><p>莫伊敏</p></td>
 <td><p><strong>Ellen</strong><br />
 劉世昌之教友及暗戀對象<br />
@@ -523,7 +523,7 @@ Chez Maman侍應<br />
 <td><p>莫伊敏之母</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅國維.md" title="wikilink">羅國維</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅國維" title="wikilink">羅國維</a></p></td>
 <td></td>
 <td><p>莫伊敏之父</p></td>
 </tr>
@@ -542,10 +542,10 @@ Chez Maman侍應<br />
 <td><p><strong>劉建生</strong></p></td>
 <td><p>眼科醫生<br />
 武俏君之前男友<br />
-及後於<a href="../Page/#檔案六：七個證人（第17－20集）.md" title="wikilink">檔案六：七個證人（第17－20集）中再次出現</a></p></td>
+及後於<a href="https://zh.wikipedia.org/wiki/#檔案六：七個證人（第17－20集）" title="wikilink">檔案六：七個證人（第17－20集）中再次出現</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杨瑞麟.md" title="wikilink">杨瑞麟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杨瑞麟" title="wikilink">杨瑞麟</a></p></td>
 <td><p>黃家俊</p></td>
 <td><p><strong>Dr. Wong</strong><br />
 醫生<br />
@@ -577,10 +577,10 @@ Chez Maman侍應<br />
 <td><p><strong>武俏君</strong></p></td>
 <td><p><strong>Quin</strong><br />
 接受莫伊敏器官捐贈<br />
-參見<a href="../Page/#臨床心理學.md" title="wikilink">臨床心理學</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#臨床心理學" title="wikilink">臨床心理學</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/勞少娟.md" title="wikilink">勞少娟</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/勞少娟" title="wikilink">勞少娟</a></p></td>
 <td><p>崔明珠</p></td>
 <td><p><strong>Pearl</strong><br />
 女明星<br />
@@ -600,7 +600,7 @@ Chez Maman侍應<br />
 <td><p>張淑貞之夫</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/方傑.md" title="wikilink">方　傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/方傑" title="wikilink">方　傑</a></p></td>
 <td><p>周氏夫婦</p></td>
 <td></td>
 </tr>
@@ -621,12 +621,12 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/甘子正.md" title="wikilink">甘子正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甘子正" title="wikilink">甘子正</a></p></td>
 <td><p>超級市場經理</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/鄧泰和.md" title="wikilink">鄧泰和</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧泰和" title="wikilink">鄧泰和</a></p></td>
 <td><p>疑　犯</p></td>
 <td><p>誤殺莫伊敏<br />
 最後被江子山擊斃</p></td>
@@ -642,7 +642,7 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黃偌儀.md" title="wikilink">黃偌儀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃偌儀" title="wikilink">黃偌儀</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -662,7 +662,7 @@ Chez Maman侍應<br />
 <td><p><strong><a href="../Page/吳美珩.md" title="wikilink">吳美珩</a></strong></p></td>
 <td><p><strong>周若玫</strong></p></td>
 <td><p>原名：<strong>林永恆</strong><br />
-<a href="../Page/變性人.md" title="wikilink">變性人</a>（由男變女）<br />
+<a href="https://zh.wikipedia.org/wiki/變性人" title="wikilink">變性人</a>（由男變女）<br />
 杜子明之妻<br />
 顧宏之前情人<br />
 赵漢華之追求对象<br />
@@ -680,7 +680,7 @@ Chez Maman侍應<br />
 于第6集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李岡龍.md" title="wikilink">李岡龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
 <td><p>顧　宏</p></td>
 <td><p>台灣舞蹈家<br />
 同性戀者<br />
@@ -716,7 +716,7 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/袁彩雲.md" title="wikilink">袁彩雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/袁彩雲" title="wikilink">袁彩雲</a></p></td>
 <td><p>阮美美</p></td>
 <td><p>趙漢華之妻<br />
 徐飛之表妹</p></td>
@@ -726,22 +726,22 @@ Chez Maman侍應<br />
 <td><p><strong>徐　飛</strong></p></td>
 <td><p><strong>臭飛、炭頭</strong><br />
 阮美美之表哥<br />
-參見<a href="../Page/#中區警署刑事偵緝科.md" title="wikilink">中區警署刑事偵緝科</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#中區警署刑事偵緝科" title="wikilink">中區警署刑事偵緝科</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣　萱</a></strong></p></td>
 <td><p><strong>武俏君</strong></p></td>
 <td><p><strong>Quin</strong><br />
 文靖之好友<br />
-參見<a href="../Page/#臨床心理學.md" title="wikilink">臨床心理學</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#臨床心理學" title="wikilink">臨床心理學</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳燕航.md" title="wikilink">陳燕航</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳燕航" title="wikilink">陳燕航</a></p></td>
 <td><p>精品店員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/凌漢.md" title="wikilink">凌　漢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/凌漢" title="wikilink">凌　漢</a></p></td>
 <td><p>看　更</p></td>
 <td></td>
 </tr>
@@ -765,11 +765,11 @@ Chez Maman侍應<br />
 於第7集因<a href="../Page/心臟衰竭.md" title="wikilink">心臟衰竭病逝</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/李珊珊_(藝員).md" title="wikilink">李珊珊</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
 <td><p><strong>唐心如</strong></p></td>
-<td><p>參見<a href="../Page/#Chez_Maman.md" title="wikilink">Chez Maman</a><br />
-參見<a href="../Page/#檔案九：調酒師傅（第31－33集）.md" title="wikilink">檔案九：調酒師傅（第31－33集）</a><br />
-參見<a href="../Page/#檔案十二：心理醫生（第41－46集）.md" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#Chez_Maman" title="wikilink">Chez Maman</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#檔案九：調酒師傅（第31－33集）" title="wikilink">檔案九：調酒師傅（第31－33集）</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#檔案十二：心理醫生（第41－46集）" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/韋家雄.md" title="wikilink">韋家雄</a></p></td>
@@ -783,7 +783,7 @@ Chez Maman侍應<br />
 <td><p>謝海超</p></td>
 <td><p>律師<br />
 謝耀楷之父<br />
-曾<a href="../Page/綁架.md" title="wikilink">綁架唐心如</a><br />
+曾<a href="https://zh.wikipedia.org/wiki/綁架" title="wikilink">綁架唐心如</a><br />
 幫兇，得悉謝耀楷殺人而嫁禍樓世文、溫志森<br />
 於第9集被捕</p></td>
 </tr>
@@ -795,20 +795,20 @@ Chez Maman侍應<br />
 於第9集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/伍燕妮.md" title="wikilink">伍燕妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍燕妮" title="wikilink">伍燕妮</a></p></td>
 <td><p>何小竹</p></td>
 <td><p>妓女<br />
 於17年前被謝耀楷誤杀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳紫媚.md" title="wikilink">陳紫媚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳紫媚" title="wikilink">陳紫媚</a></p></td>
 <td><p>Ada</p></td>
 <td><p>溫志森、袁國榮之女友<br />
 曾與袁國榮在酒店過夜<br />
 被袁國榮杀死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/黎秀英.md" title="wikilink">黎秀英</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黎秀英" title="wikilink">黎秀英</a></p></td>
 <td><p>三　姐</p></td>
 <td><p>唐心如家之工人</p></td>
 </tr>
@@ -824,20 +824,20 @@ Chez Maman侍應<br />
 殷寶莉之私人看護</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃月明.md" title="wikilink">黃月明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃月明" title="wikilink">黃月明</a></p></td>
 <td><p>May</p></td>
 <td><p>唐心如家之替工<br />
 被謝耀楷杀死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄧汝超.md" title="wikilink">鄧汝超</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧汝超" title="wikilink">鄧汝超</a></p></td>
 <td><p>陳永邦</p></td>
 <td><p>私家偵探<br />
 受殷寶莉委託查出綁架唐心如的真凶<br />
 被謝耀楷杀死</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/李煌生.md" title="wikilink">李煌生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李煌生" title="wikilink">李煌生</a></p></td>
 <td><p>袁國榮</p></td>
 <td><p>唐心如家之司機<br />
 殺死Ada之凶手<br />
@@ -845,7 +845,7 @@ Chez Maman侍應<br />
 於第8集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/周旸.md" title="wikilink">周　旸</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周旸" title="wikilink">周　旸</a></p></td>
 <td><p>樓世文</p></td>
 <td><p>樓蓮香之弟<br />
 被謝海超嫁禍自殺而死</p></td>
@@ -853,16 +853,16 @@ Chez Maman侍應<br />
 <tr class="even">
 <td><p><a href="../Page/郭耀明.md" title="wikilink">郭耀明</a></p></td>
 <td><p>霍偉聰</p></td>
-<td><p>參見<a href="../Page/#檔案五：飛蛾之愛（第13－15集）.md" title="wikilink">檔案五：飛蛾之愛（第13－15集）</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#檔案五：飛蛾之愛（第13－15集）" title="wikilink">檔案五：飛蛾之愛（第13－15集）</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/江漢_(香港演員).md" title="wikilink">江　漢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/江漢_(香港演員)" title="wikilink">江　漢</a></p></td>
 <td><p>霍寰中</p></td>
 <td><p>霍偉聰父<br />
 唐心如公司股東</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳中堅.md" title="wikilink">陳中堅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳中堅" title="wikilink">陳中堅</a></p></td>
 <td></td>
 <td><p>大廈看更<br />
 證明袁國榮案發時回到過大廈</p></td>
@@ -880,7 +880,7 @@ Chez Maman侍應<br />
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/陳采嵐.md" title="wikilink">陳采嵐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳采嵐" title="wikilink">陳采嵐</a></p></td>
 <td><p>鍾　瑩</p></td>
 <td><p>連映雪之女<br />
 鍾智良繼女被其強姦<br />
@@ -909,7 +909,7 @@ Chez Maman侍應<br />
 被連映雪殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/羅業升.md" title="wikilink">羅業升</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅業升" title="wikilink">羅業升</a></p></td>
 <td><p>鍾　磊</p></td>
 <td><p>鍾瑩之弟<br />
 連映雪之子<br />
@@ -943,7 +943,7 @@ Chez Maman侍應<br />
 <td><p><strong><a href="../Page/蘇志威.md" title="wikilink">蘇志威</a></strong></p></td>
 <td><p><strong>韓國仁</strong></p></td>
 <td><p><strong>Korean</strong><br />
-參見<a href="../Page/#中區警署刑事偵緝科.md" title="wikilink">中區警署刑事偵緝科</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#中區警署刑事偵緝科" title="wikilink">中區警署刑事偵緝科</a><br />
 曾迷戀尹秋月，惜被其利用</p></td>
 </tr>
 <tr class="even">
@@ -964,7 +964,7 @@ Chez Maman侍應<br />
 被尹秋月殺死</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/何启南.md" title="wikilink">何启南</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何启南" title="wikilink">何启南</a></p></td>
 <td><p>孫耀華</p></td>
 <td><p>孫碧妮之弟<br />
 曾非禮尹秋月</p></td>
@@ -976,7 +976,7 @@ Chez Maman侍應<br />
 被尹秋月利用製造不在場證據</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁建平.md" title="wikilink">梁建平</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁建平" title="wikilink">梁建平</a></p></td>
 <td><p>鄭偉廉</p></td>
 <td><p>尹望石之生意伙伴</p></td>
 </tr>
@@ -1016,14 +1016,14 @@ Chez Maman侍應<br />
 <td><p><strong><a href="../Page/古天樂.md" title="wikilink">古天樂</a></strong></p></td>
 <td><p><strong>徐　飛</strong></p></td>
 <td><p>被洪展鵬邀請做案件公證人<br />
-參見<a href="../Page/#中區警署刑事偵緝科.md" title="wikilink">中區警署刑事偵緝科</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#中區警署刑事偵緝科" title="wikilink">中區警署刑事偵緝科</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣　萱</a></strong></p></td>
 <td><p><strong>武俏君</strong></p></td>
 <td><p><strong>Quin</strong><br />
 於第19集扮見到兇手背影引出林健，反被林健刺殺不遂<br />
-參見<a href="../Page/#臨床心理學.md" title="wikilink">臨床心理學</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#臨床心理學" title="wikilink">臨床心理學</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡國慶_(香港).md" title="wikilink">蔡國慶</a></p></td>
@@ -1050,7 +1050,7 @@ Chez Maman侍應<br />
 洪志滔案件的證人之一<br />
 武俏君、岑麗湄之前男友<br />
 於第18集被殺害<br />
-參見<a href="../Page/#檔案一：奸杀之谜（第1－3集）.md" title="wikilink">檔案一：奸杀之谜（第1－3集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案一：奸杀之谜（第1－3集）" title="wikilink">檔案一：奸杀之谜（第1－3集）</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/康華.md" title="wikilink">康　華</a></p></td>
@@ -1069,7 +1069,7 @@ Chez Maman侍應<br />
 但作證時加入《幹探實錄》的對白，導致一連串的悲劇</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/羅蘭.md" title="wikilink">羅　蘭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅　蘭</a></p></td>
 <td><p>陳十五</p></td>
 <td><p>水果店老闆<br />
 洪志滔案件的證人之一</p></td>
@@ -1088,17 +1088,17 @@ Chez Maman侍應<br />
 為人為富不仁、只關心自己</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
 <td></td>
 <td><p>《幹探實錄》之演員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/譚權輝.md" title="wikilink">譚權輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚權輝" title="wikilink">譚權輝</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林佩君.md" title="wikilink">林佩君</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林佩君" title="wikilink">林佩君</a></p></td>
 <td><p>林家惠</p></td>
 <td><p>林健之女<br />
 錢日安之情人<br />
@@ -1116,12 +1116,12 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鄧建邦.md" title="wikilink">鄧建邦</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄧建邦" title="wikilink">鄧建邦</a></p></td>
 <td><p>酒店職員</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/馮瑞珍.md" title="wikilink">馮瑞珍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馮瑞珍" title="wikilink">馮瑞珍</a></p></td>
 <td><p>工　人</p></td>
 <td><p>錢日安家的工人</p></td>
 </tr>
@@ -1140,7 +1140,7 @@ Chez Maman侍應<br />
 <tr class="even">
 <td><p><a href="../Page/羅樂林.md" title="wikilink">羅樂林</a></p></td>
 <td><p>文國泰</p></td>
-<td><p>參見<a href="../Page/#文家.md" title="wikilink">文家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#文家" title="wikilink">文家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/文潔雲.md" title="wikilink">文潔雲</a></p></td>
@@ -1148,7 +1148,7 @@ Chez Maman侍應<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>文婉蘭</strong></p></td>
 <td></td>
 </tr>
@@ -1164,11 +1164,11 @@ Chez Maman侍應<br />
 <td><p>文婉蘭傭人</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/郭峰_(演員).md" title="wikilink">郭　鋒</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/郭峰_(演員)" title="wikilink">郭　鋒</a></strong></p></td>
 <td><p><strong>梁劍雄</strong></p></td>
 <td><p><strong>雄哥</strong><br />
 於第21集因血型和文國泰相同而被當成他的替死鬼遭到殺害<br />
-參見<a href="../Page/#中區警署刑事偵緝科.md" title="wikilink">中區警署刑事偵緝科</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#中區警署刑事偵緝科" title="wikilink">中區警署刑事偵緝科</a></p></td>
 </tr>
 <tr class="even">
 <td><p>|陸志宏</p></td>
@@ -1179,7 +1179,7 @@ Teresa之夫<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/呂幹文.md" title="wikilink">呂幹文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/呂幹文" title="wikilink">呂幹文</a></p></td>
 <td><p>Simon</p></td>
 <td><p>馬夫<br />
 Teresa之情人<br />
@@ -1220,7 +1220,7 @@ Simon之情人</p></td>
 <tr class="odd">
 <td><p><strong><a href="../Page/邵美琪.md" title="wikilink">邵美琪</a></strong></p></td>
 <td><p><strong>江子青</strong></p></td>
-<td><p>參見<a href="../Page/#江家及相關人物.md" title="wikilink">江家及相關人物</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#江家及相關人物" title="wikilink">江家及相關人物</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a></strong></p></td>
@@ -1233,12 +1233,12 @@ Simon之情人</p></td>
 <td><p><strong>Sue</strong><br />
 大編輯<br />
 江子青與程柏出版編輯<br />
-參見<a href="../Page/#檔案十二：心理醫生（第41－46集）.md" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案十二：心理醫生（第41－46集）" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a></strong></p></td>
 <td><p><strong>武元強</strong></p></td>
-<td><p>參見<a href="../Page/#武家.md" title="wikilink">武家</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#武家" title="wikilink">武家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣　萱</a></strong></p></td>
@@ -1265,21 +1265,21 @@ Simon之情人</p></td>
 後成武杰之女友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/譚權輝.md" title="wikilink">譚權輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚權輝" title="wikilink">譚權輝</a></p></td>
 <td><p>莫耀風</p></td>
 <td><p>陳志豪之好友<br />
 與陳志豪偷走程柏的車並偷走從黃國仲和李寶屏的20萬，以及把張素玲的屍體轉移到李寶屏車上，之後要脅程柏<br />
 在蘭施酒店被程柏殺死</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/梁輝宗.md" title="wikilink">梁輝宗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁輝宗" title="wikilink">梁輝宗</a></p></td>
 <td><p>陳志豪</p></td>
 <td><p>莫耀風之好友<br />
 與莫耀風偷走程柏的車並偷走從黃國仲和李寶屏的20萬，以及把張素玲的屍體轉移到李寶屏車上，之後要脅程柏<br />
 在廢車場被程柏殺死</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/何君龍.md" title="wikilink">何君龍</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/何君龍" title="wikilink">何君龍</a></p></td>
 <td><p>黃國仲</p></td>
 <td><p>蘭施酒店行李員<br />
 李寶屏、武杰同鄉<br />
@@ -1310,12 +1310,12 @@ Simon之情人</p></td>
 武杰、黃國仲的上司</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
 <td><p>經　理</p></td>
 <td><p>君樂酒店管房經理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
 <td><p>軍裝警員</p></td>
 <td><p>於第28集去到程柏家，來說找到其車。</p></td>
 </tr>
@@ -1325,11 +1325,11 @@ Simon之情人</p></td>
 <td><p><strong>邱游麗緹、邱太、優遊女士、Joe</strong><br />
 邱彼得之妻<br />
 當晚撞車兼見到程柏的車同李寶屏的車相撞的證人，以及見到莫耀風和陳志豪把張素玲的屍體轉移到李寶屏車上。<br />
-參見<a href="../Page/#檔案九：調酒師傅（第31－33集）.md" title="wikilink">檔案九：調酒師傅（第31－33集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案九：調酒師傅（第31－33集）" title="wikilink">檔案九：調酒師傅（第31－33集）</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
-<td><p><a href="../Page/士多.md" title="wikilink">士多</a><a href="../Page/老闆.md" title="wikilink">老闆</a></p></td>
+<td><p><a href="../Page/士多.md" title="wikilink">士多</a><a href="https://zh.wikipedia.org/wiki/老闆" title="wikilink">老闆</a></p></td>
 <td><p>李寶屏、張素玲之包租公</p></td>
 </tr>
 </tbody>
@@ -1345,17 +1345,17 @@ Simon之情人</p></td>
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李珊珊_(藝員).md" title="wikilink">李珊珊</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
 <td><p><strong>唐心如</strong></p></td>
 <td><p><strong>唐心</strong><br />
-參見<a href="../Page/#Chez_Maman.md" title="wikilink">Chez Maman</a><br />
-參見<a href="../Page/#檔案三：唐家命案（第7－9集）.md" title="wikilink">檔案三：唐家命案（第7－9集）</a><br />
-參見<a href="../Page/#檔案十二：心理醫生（第41－46集）.md" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#Chez_Maman" title="wikilink">Chez Maman</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#檔案三：唐家命案（第7－9集）" title="wikilink">檔案三：唐家命案（第7－9集）</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#檔案十二：心理醫生（第41－46集）" title="wikilink">檔案十二：心理醫生（第41－46集）</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/單立文.md" title="wikilink">單立文</a></strong></p></td>
 <td><p><strong>徐意志</strong></p></td>
-<td><p>參見<a href="../Page/#Chez_Maman.md" title="wikilink">Chez Maman</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#Chez_Maman" title="wikilink">Chez Maman</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄧英敏.md" title="wikilink">鄧英敏</a></p></td>
@@ -1374,7 +1374,7 @@ Simon之情人</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳肖明.md" title="wikilink">陳肖明</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳肖明" title="wikilink">陳肖明</a></p></td>
 <td><p>陳珍妮</p></td>
 <td></td>
 </tr>
@@ -1401,21 +1401,21 @@ Chez Maman餐廳新樓面<br />
 邱彼得之妻<br />
 徐意志師妹兼前女友<br />
 於第31集被洛偉基殺害<br />
-參見<a href="../Page/#檔案八：黑色周五（第26－29集）.md" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案八：黑色周五（第26－29集）" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/歐家瑋.md" title="wikilink">歐家瑋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐家瑋" title="wikilink">歐家瑋</a></p></td>
 <td><p>釗（紋身漢）</p></td>
 <td><p>陳珍妮之男友（第31、32集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周凯珊.md" title="wikilink">周凯珊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周凯珊" title="wikilink">周凯珊</a></p></td>
 <td><p>陳佩詩</p></td>
 <td><p>洛偉基之妻<br />
 自杀身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/鍾建文.md" title="wikilink">鍾建文</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鍾建文" title="wikilink">鍾建文</a></p></td>
 <td><p>陳志遠</p></td>
 <td><p>陳佩詩之弟</p></td>
 </tr>
@@ -1477,11 +1477,11 @@ Frankie之妻</p></td>
 <td><p><a href="../Page/河國榮.md" title="wikilink">河國榮</a></p></td>
 <td><p>Frankie Fan</p></td>
 <td><p>周杏娥之夫<br />
-參見<a href="../Page/#Chez_Maman.md" title="wikilink">Chez Maman</a><br />
-參見<a href="../Page/#檔案九：調酒師傅（第31－33集）.md" title="wikilink">檔案九：調酒師傅（第31－33集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#Chez_Maman" title="wikilink">Chez Maman</a><br />
+參見<a href="https://zh.wikipedia.org/wiki/#檔案九：調酒師傅（第31－33集）" title="wikilink">檔案九：調酒師傅（第31－33集）</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/傅楚卉.md" title="wikilink">傅楚卉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/傅楚卉" title="wikilink">傅楚卉</a></p></td>
 <td><p>張少彩</p></td>
 <td><p>林浩天之妻</p></td>
 </tr>
@@ -1518,11 +1518,11 @@ Frankie之妻</p></td>
 於第41集在獄中告知唐心如關於文婉蘭與江子山分手真相</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/佘詩曼.md" title="wikilink">佘詩曼</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a></strong></p></td>
 <td><p><strong>文婉蘭</strong></p></td>
 <td><p><strong>Man</strong><br />
 於第37集為田思思之私人助理<br />
-參見<a href="../Page/#文家.md" title="wikilink">文家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#文家" title="wikilink">文家</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/徐濠縈.md" title="wikilink">徐濠縈</a></p></td>
@@ -1554,17 +1554,17 @@ Frankie之妻</p></td>
 田思思及華寶晶的經理人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉家聰.md" title="wikilink">劉家聰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/劉家聰" title="wikilink">劉家聰</a></p></td>
 <td><p>工人</p></td>
 <td><p>養雞場工人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/林偉雄.md" title="wikilink">林偉雄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林偉雄" title="wikilink">林偉雄</a></p></td>
 <td><p>李志威</p></td>
 <td><p>養雞場工人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/姚啓善.md" title="wikilink">姚啓善</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚啓善" title="wikilink">姚啓善</a></p></td>
 <td><p>歐芷曼</p></td>
 <td><p>田思思美容師<br />
 女同性戀者<br />
@@ -1590,7 +1590,7 @@ Frankie之妻</p></td>
 <tr class="even">
 <td><p><strong><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a></strong></p></td>
 <td><p><strong>江子山</strong></p></td>
-<td><p>參見<a href="../Page/#江家及相關人物.md" title="wikilink">江家及相關人物</a></p></td>
+<td><p>參見<a href="https://zh.wikipedia.org/wiki/#江家及相關人物" title="wikilink">江家及相關人物</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/邵美琪.md" title="wikilink">邵美琪</a></strong></p></td>
@@ -1613,7 +1613,7 @@ Frankie之妻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/馬德鐘.md" title="wikilink">馬德鐘</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a></strong></p></td>
 <td><p><strong>宋家齊</strong></p></td>
 <td><p><strong>Alex</strong><br />
 律師<br />
@@ -1633,7 +1633,7 @@ Frankie之妻</p></td>
 江子青之好友，後得悉其為第三者而反目<br />
 宋家齊之妻，與其不和並育有一兒，正爭取嬰兒的撫養權<br />
 於第45集被捕<br />
-參見<a href="../Page/#檔案八：黑色周五（第26－29集）.md" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#檔案八：黑色周五（第26－29集）" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳榮峻.md" title="wikilink">陳榮峻</a></p></td>
@@ -1643,14 +1643,14 @@ Frankie之妻</p></td>
 於第20集被江子瑤殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/李珊珊_(藝員).md" title="wikilink">李珊珊</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/李珊珊_(藝員)" title="wikilink">李珊珊</a></strong></p></td>
 <td><p><strong>唐心如</strong></p></td>
 <td><p><strong>唐心</strong><br />
 於第45集在婚禮上被江子瑤誤當為曹占而遭刺腹身亡<br />
-參見<a href="../Page/#Chez_Maman.md" title="wikilink">Chez Maman</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#Chez_Maman" title="wikilink">Chez Maman</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/杜絲娜.md" title="wikilink">杜絲娜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜絲娜" title="wikilink">杜絲娜</a></p></td>
 <td><p>Marianne</p></td>
 <td><p>張淑賢之菲傭</p></td>
 </tr>
@@ -1671,13 +1671,13 @@ Frankie之妻</p></td>
 <td><p><strong>徐　飛</strong></p></td>
 <td><p><strong>炭頭</strong><br />
 在3年前，化名為黃克強混進洛鎮彪社團當卧底，成功瓦解社團但讓鄭東成逃脱<br />
-參見<a href="../Page/#警局.md" title="wikilink">警局</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#警局" title="wikilink">警局</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣　萱</a></strong></p></td>
 <td><p><strong>武俏君</strong></p></td>
 <td><p><strong>Quin</strong><br />
-參見<a href="../Page/#武家.md" title="wikilink">武家</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#武家" title="wikilink">武家</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/向海嵐.md" title="wikilink">向海嵐</a></strong></p></td>
@@ -1705,7 +1705,7 @@ Frankie之妻</p></td>
 <td><p><strong><a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a></strong></p></td>
 <td><p><strong>江子山</strong></p></td>
 <td><p>於第50集為幫徐飛救梁芊芊而隱瞞有關徐飛失槍之事<br />
-參見<a href="../Page/#江家及相關人物.md" title="wikilink">江家及相關人物</a></p></td>
+參見<a href="https://zh.wikipedia.org/wiki/#江家及相關人物" title="wikilink">江家及相關人物</a></p></td>
 </tr>
 </tbody>
 </table>

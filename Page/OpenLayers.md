@@ -1,6 +1,6 @@
-**Openlayers**是一个开源的[Javascript库](../Page/Javascript.md "wikilink")（基于修改过的BSD许可发布），用来在Web浏览器显示地图。它提供API接口建立类似于Google
+**Openlayers**是一个开源的[Javascript库](https://zh.wikipedia.org/wiki/Javascript "wikilink")（基于修改过的BSD许可发布），用来在Web浏览器显示地图。它提供API接口建立类似于Google
 Maps和Bing
-Maps的基于web的地理应用。这个库包括[Rico和](../Page/Rico.md "wikilink")[Prototype框架](../Page/Prototype_JavaScript框架.md "wikilink")。
+Maps的基于web的地理应用。这个库包括[Rico和](https://zh.wikipedia.org/wiki/Rico "wikilink")[Prototype框架](../Page/Prototype_JavaScript框架.md "wikilink")。
 
 ## 參見
 

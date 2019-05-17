@@ -1,15 +1,15 @@
 **Allan–Robinson反应**（阿兰-罗宾逊反应）
 
-邻[羟基](../Page/羟基.md "wikilink")[芳](../Page/芳香族化合物.md "wikilink")[酮与芳香](../Page/酮.md "wikilink")[酸酐作用环合生成](../Page/酸酐.md "wikilink")[黄酮或](../Page/黄酮.md "wikilink")[异黄酮](../Page/异黄酮.md "wikilink")。\[1\]\[2\]\[3\]
+邻[羟基](../Page/羟基.md "wikilink")[芳](https://zh.wikipedia.org/wiki/芳香族化合物 "wikilink")[酮与芳香](../Page/酮.md "wikilink")[酸酐作用环合生成](../Page/酸酐.md "wikilink")[黄酮或](https://zh.wikipedia.org/wiki/黄酮 "wikilink")[异黄酮](https://zh.wikipedia.org/wiki/异黄酮 "wikilink")。\[1\]\[2\]\[3\]
 
 [Allan-Robinson_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Allan-Robinson_Reaction_Scheme.png "fig:Allan-Robinson_Reaction_Scheme.png")
 
-使用[脂肪族酸酐时](../Page/脂肪族.md "wikilink")，反应也会产生[香豆素类化合物](../Page/香豆素.md "wikilink")。
+使用[脂肪族酸酐时](https://zh.wikipedia.org/wiki/脂肪族 "wikilink")，反应也会产生[香豆素类化合物](../Page/香豆素.md "wikilink")。
 
 ## 参见
 
-  - [Baker-Venkataraman重排反应](../Page/Baker-Venkataraman重排反应.md "wikilink")
-  - [Kostanecki酰化反应](../Page/Kostanecki酰化反应.md "wikilink")
+  - [Baker-Venkataraman重排反应](https://zh.wikipedia.org/wiki/Baker-Venkataraman重排反应 "wikilink")
+  - [Kostanecki酰化反应](https://zh.wikipedia.org/wiki/Kostanecki酰化反应 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
 ## 参考资料
@@ -33,8 +33,9 @@
 [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")
 
 1.  Allan, J.; Robinson, R. *[J. Chem.
-    Soc.](../Page/J._Chem._Soc..md "wikilink")* **1924**, *125*, 2192.
+    Soc.](https://zh.wikipedia.org/wiki/J._Chem._Soc. "wikilink")*
+    **1924**, *125*, 2192.
 2.  Dyke, S. F.; Ollis, W. D.; Sainsbury, M. *[J. Org.
-    Chem.](../Page/J._Org._Chem..md "wikilink")* **1961**, *26*, 2453.
-    ()
+    Chem.](https://zh.wikipedia.org/wiki/J._Org._Chem. "wikilink")*
+    **1961**, *26*, 2453. ()
 3.

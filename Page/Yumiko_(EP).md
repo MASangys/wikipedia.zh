@@ -1,5 +1,5 @@
 **《Yumiko The Debut
-EP》**是[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")1張個人音樂專輯，於2002年11月26日推出；隨碟附送2003年月曆一本。
+EP》**是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡的第](../Page/鄭希怡.md "wikilink")1張個人音樂專輯，於2002年11月26日推出；隨碟附送2003年月曆一本。
 
 ## 曲目列表
 

@@ -1,10 +1,11 @@
 《**BITTERSWEET
-FOOLS**》（）是2001年[minori公司所發行的](../Page/minori.md "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+FOOLS**》（）是2001年[minori公司所發行的](https://zh.wikipedia.org/wiki/minori "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要
 
-以[義大利](../Page/義大利.md "wikilink")・[佛羅倫斯為舞台](../Page/佛羅倫斯.md "wikilink")，描寫展開攸關性命的戰鬥的青年，與純真的少女相遇的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。[DC](../Page/Dreamcast.md "wikilink")\[2\]以及[PS2的全年齡版](../Page/PlayStation_2.md "wikilink")、[D3出版社](../Page/D3出版社.md "wikilink")（*D3
-Publisher*）的[Simple 2000版也已經發售](../Page/Simple系列.md "wikilink")。
+以[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")・[佛羅倫斯為舞台](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")，描寫展開攸關性命的戰鬥的青年，與純真的少女相遇的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。[DC](../Page/Dreamcast.md "wikilink")\[2\]以及[PS2的全年齡版](../Page/PlayStation_2.md "wikilink")、[D3出版社](https://zh.wikipedia.org/wiki/D3出版社 "wikilink")（*D3
+Publisher*）的[Simple
+2000版也已經發售](https://zh.wikipedia.org/wiki/Simple系列 "wikilink")。
 
 2005年12月28日PC重製版發售。\[3\]
 
@@ -19,7 +20,7 @@ Publisher*）的[Simple 2000版也已經發售](../Page/Simple系列.md "wikilin
 
 ## 主要製作人員
 
-  - 企畫：[nbkz](../Page/酒井伸和.md "wikilink")
+  - 企畫：[nbkz](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")
   - 原畫：[相田裕](../Page/相田裕.md "wikilink")
   - 劇本：古我望
   - 片頭動畫：[新海誠](../Page/新海誠.md "wikilink")
@@ -28,12 +29,12 @@ Publisher*）的[Simple 2000版也已經發售](../Page/Simple系列.md "wikilin
 
 <span style="font-size:smaller;">表示為**角色名（聲優）**。聲優是DC版以及PS2版。</span>
 
-  - アラン（[鶴博幸](../Page/鶴博幸.md "wikilink")）
-    住在一樓公寓花店的狙擊手（全年齡版是「世間の掃除屋」）。偽裝成學生，アラン是假名。看起來很冷漠，但其實很溫柔。頭腦很好，[西洋棋名人](../Page/國際象棋.md "wikilink")。沒有被詳細說明，但原本似乎是[孤兒](../Page/孤兒.md "wikilink")。
+  - アラン（[鶴博幸](https://zh.wikipedia.org/wiki/鶴博幸 "wikilink")）
+    住在一樓公寓花店的狙擊手（全年齡版是「世間の掃除屋」）。偽裝成學生，アラン是假名。看起來很冷漠，但其實很溫柔。頭腦很好，[西洋棋名人](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")。沒有被詳細說明，但原本似乎是[孤兒](https://zh.wikipedia.org/wiki/孤兒 "wikilink")。
 
 <!-- end list -->
 
-  - ティ（[倖月美和](../Page/倖月美和.md "wikilink")）
+  - ティ（[倖月美和](https://zh.wikipedia.org/wiki/倖月美和 "wikilink")）
     黑手黨首領的孫女。家族內部紛爭導致雙親性命危險，因モーリス的提議躲在アラン的房間。明亮純粹的性格且禮儀端正。體育不錯，但不善於家務。
 
 <!-- end list -->
@@ -48,12 +49,12 @@ Publisher*）的[Simple 2000版也已經發售](../Page/Simple系列.md "wikilin
 
 <!-- end list -->
 
-  - エリチェ（[奥田啓人](../Page/奥田啓人.md "wikilink"))
+  - エリチェ（[奥田啓人](https://zh.wikipedia.org/wiki/奥田啓人 "wikilink"))
     冷淡且沉默寡言但很體貼朋友。手槍を始めとする火気の取扱に擅長。
 
 <!-- end list -->
 
-  - レーニエ（[長谷川智子](../Page/長谷川智子.md "wikilink")）
+  - レーニエ（[長谷川智子](https://zh.wikipedia.org/wiki/長谷川智子 "wikilink")）
     倒在街角被パレルモ帶回去，和他們一起生活的謎之少女。
 
 ## 參考資料

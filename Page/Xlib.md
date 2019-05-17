@@ -1,18 +1,18 @@
 **Xlib**是一種[X Window
-System協定的用戶端](../Page/X_Window_System.md "wikilink")，以[C語言撰寫](../Page/C語言.md "wikilink")。其功能是與X
+System協定的用戶端](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，以[C語言撰寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")。其功能是與X
 server溝通。這樣的功能可以讓程式人員撰寫程式時，毋須了解其協定的細節。但甚少應用程式會直接使用Xlib;通常是透過其他的函式庫來呼叫Xlib用以提供[部件工具箱](../Page/部件工具箱.md "wikilink")（widget
 toolkits）：
 
 [Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg](https://zh.wikipedia.org/wiki/File:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg "fig:Xlib_and_XCB_in_the_X_Window_System_graphics_stack.svg")
 
-  - [Intrinsics](../Page/Intrinsics.md "wikilink")（Xt）
-  - [Xaw](../Page/Xaw.md "wikilink")（Xaw）
+  - [Intrinsics](https://zh.wikipedia.org/wiki/Intrinsics "wikilink")（Xt）
+  - [Xaw](https://zh.wikipedia.org/wiki/Xaw "wikilink")（Xaw）
   - [Motif](../Page/Motif.md "wikilink")
-  - [GTK+](../Page/GTK+.md "wikilink")
+  - [GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")
   - [Qt](../Page/Qt.md "wikilink")（X11 version）
   - [Tk](../Page/Tk.md "wikilink")
 
-Xlib發表於1985年，目前使用在許多的[Unix](../Page/Unix.md "wikilink")-like作業系統上。
+Xlib發表於1985年，目前使用在許多的[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")-like作業系統上。
 
 目前[XCB有可能取代Xlib](../Page/XCB.md "wikilink").
 

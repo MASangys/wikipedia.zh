@@ -1,4 +1,4 @@
-**MOSAIC.WAV**是日本的演唱團體，由[歌手MI](../Page/歌手.md "wikilink")-KO（）和[电子琴手](../Page/电子琴.md "wikilink")[柏森進組成](../Page/柏森進.md "wikilink")，属于声优音像事务所「Sham.Studio」，以[美少女遊戲的乐曲制作为中心活動](../Page/美少女遊戲.md "wikilink")。组合最初进行着以自主制作音乐作品为形式的活动，后来也参与大型的活动（Lantis为主）。原本是以「MOSAIC」作为名字的，不过因为同名的企业已经存在，后来以Windows一般的音频格式WAVE的扩展名「.WAV」附加上去改了名字。他们与[吉他手](../Page/吉他.md "wikilink")[小池雅也之间交情很深](../Page/小池雅也.md "wikilink")。
+**MOSAIC.WAV**是日本的演唱團體，由[歌手MI](../Page/歌手.md "wikilink")-KO（）和[电子琴手](https://zh.wikipedia.org/wiki/电子琴 "wikilink")[柏森進組成](https://zh.wikipedia.org/wiki/柏森進 "wikilink")，属于声优音像事务所「Sham.Studio」，以[美少女遊戲的乐曲制作为中心活動](../Page/美少女遊戲.md "wikilink")。组合最初进行着以自主制作音乐作品为形式的活动，后来也参与大型的活动（Lantis为主）。原本是以「MOSAIC」作为名字的，不过因为同名的企业已经存在，后来以Windows一般的音频格式WAVE的扩展名「.WAV」附加上去改了名字。他们与[吉他手](../Page/吉他.md "wikilink")[小池雅也之间交情很深](https://zh.wikipedia.org/wiki/小池雅也 "wikilink")。
 
 ## 作品
 
@@ -8,7 +8,7 @@
       - 2006年8月23日发售
     <!-- end list -->
     1.  キュン・キュン・パニック
-          - 动画『[まもって\!ロリポップ](../Page/まもって!ロリポップ.md "wikilink")』片尾曲
+          - 动画『[まもって\!ロリポップ](https://zh.wikipedia.org/wiki/まもって!ロリポップ "wikilink")』片尾曲
           - 作词：金杉はじめ・み〜こ、作曲・编曲：柏森進
     2.  らりほるらりほ
           - 作词：み〜こ、作曲：小池雅也、编曲：柏森進
@@ -50,10 +50,10 @@
       - 2008年4月23日发售
     <!-- end list -->
     1.  超妻賢母宣言
-          - 动画『狂乱家族日記([狂乱家族日记](../Page/狂乱家族日记.md "wikilink"))』片头曲
+          - 动画『狂乱家族日記([狂乱家族日记](https://zh.wikipedia.org/wiki/狂乱家族日记 "wikilink"))』片头曲
           - 作词：み〜こ、作曲・编曲：柏森進
     2.  ねるがよい
-          - 作词：み〜こ、作曲：[鶴田加茂](../Page/鶴田加茂.md "wikilink")、编曲：柏森進
+          - 作词：み〜こ、作曲：[鶴田加茂](https://zh.wikipedia.org/wiki/鶴田加茂 "wikilink")、编曲：柏森進
     3.  超妻賢母宣言（off vocal）
     4.  ねるがよい（off vocal）
 
@@ -86,9 +86,9 @@
       - 2006年9月8日发售
     <!-- end list -->
     1.  めがねでねっ\!
-          - 作词：み〜こ・柏森進・[長門武明](../Page/長門武明.md "wikilink")、作曲：柏森進、编曲：小池雅也・柏森進
+          - 作词：み〜こ・柏森進・[長門武明](https://zh.wikipedia.org/wiki/長門武明 "wikilink")、作曲：柏森進、编曲：小池雅也・柏森進
     2.  A好
-          - 作词：[yura](../Page/yura.md "wikilink")、作曲・编曲：[神前暁](../Page/神前暁.md "wikilink")
+          - 作词：[yura](https://zh.wikipedia.org/wiki/yura "wikilink")、作曲・编曲：[神前暁](https://zh.wikipedia.org/wiki/神前暁 "wikilink")
     3.  Dive Into Web
           - 作词・作曲・编曲：TOM-01
     4.  めがねでねっ\!（off vocal）
@@ -99,9 +99,9 @@
     <!-- end list -->
     1.  ギリギリ科学少女ふぉるしぃ
           - 作词・作曲・编曲：柏森進
-              - 2007年度[日本トンデモ本大賞特別賞受賞](../Page/日本トンデモ本大賞.md "wikilink")。
+              - 2007年度[日本トンデモ本大賞特別賞受賞](https://zh.wikipedia.org/wiki/日本トンデモ本大賞 "wikilink")。
     2.  0Hzの恋人
-          - 作词：[Rina](../Page/Rina.md "wikilink")、作曲・编曲：[山頭水](../Page/山頭水.md "wikilink")
+          - 作词：[Rina](https://zh.wikipedia.org/wiki/Rina "wikilink")、作曲・编曲：[山頭水](https://zh.wikipedia.org/wiki/山頭水 "wikilink")
     3.  未来ノスタルジィ
           - 作词：み〜こ、作曲・编曲：小池雅也
     4.  ギリギリ科学少女ふぉるしぃ（off vocal）
@@ -136,7 +136,7 @@
     1.  迷惑メーリングGIRL
           - 作词・作曲・编曲：柏森進
     2.  あなたの隣のバンパイヤ
-          - 作词：み〜こ、作曲：鶴田加茂、编曲：[安藤高弘](../Page/安藤高弘.md "wikilink")
+          - 作词：み〜こ、作曲：鶴田加茂、编曲：[安藤高弘](https://zh.wikipedia.org/wiki/安藤高弘 "wikilink")
     3.  デジタル・ラジカル・シンドローム
           - 作词・作曲・编曲：けんせい
     4.  迷惑メーリングGIRL（off vocal）

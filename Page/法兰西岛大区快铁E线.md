@@ -1,10 +1,12 @@
 **法兰西岛大区快铁E线**（，简称RER
-E）是[法兰西岛](../Page/法兰西岛.md "wikilink")[法兰西岛大区快铁的一条连接](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市中心和东部郊区的线路](../Page/巴黎.md "wikilink")。该线路连接巴黎市区的（Haussmann
-- Saint-Lazare，E1分支），以及东部的[谢尔－古奈站](../Page/谢尔－古奈站.md "wikilink")（Chelles
+E）是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁的一条连接](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市中心和东部郊区的线路](../Page/巴黎.md "wikilink")。该线路连接巴黎市区的（Haussmann
 -
-Gournay，E2分支）和（Tournan，E4分支）。市中心的两个车站均可转乘[巴黎地铁](../Page/巴黎地铁.md "wikilink")，法兰西岛大区快铁及[远郊列车](../Page/法兰西岛区域铁路.md "wikilink")。
+Saint-Lazare，E1分支），以及东部的[谢尔－古奈站](https://zh.wikipedia.org/wiki/谢尔－古奈站 "wikilink")（Chelles
+-
+Gournay，E2分支）和（Tournan，E4分支）。市中心的两个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")，法兰西岛大区快铁及[远郊列车](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink")。
 
-RER E线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.md "wikilink")（SNCF）负责。
+RER
+E线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）负责。
 
 ## 历史
 
@@ -12,16 +14,16 @@ RER E线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.
 
 ### 东西快铁计划
 
-E线的前身是[巴黎东站](../Page/巴黎东站.md "wikilink")[郊区路网的一部分](../Page/巴黎东线.md "wikilink")，包括1849至1852年间修建的[巴黎-斯特拉斯堡线](../Page/巴黎-斯特拉斯堡线.md "wikilink")（后来部分成为E2分支），以及1848至1858年间修建的（后来部分成为E4分支）。
+E线的前身是[巴黎东站](../Page/巴黎东站.md "wikilink")[郊区路网的一部分](../Page/巴黎东线.md "wikilink")，包括1849至1852年间修建的[巴黎-斯特拉斯堡线](https://zh.wikipedia.org/wiki/巴黎-斯特拉斯堡线 "wikilink")（后来部分成为E2分支），以及1848至1858年间修建的（后来部分成为E4分支）。
 
 在1980年代中后期，法兰西岛大区快铁中的[A线随着东西向客流的增长而日趋饱和](../Page/法兰西岛大区快铁A线.md "wikilink")，一小时运送55000名乘客，短期内可能超过65000从而引发线路瘫痪。尽管当局将讯号系统改进为（Système
 d'aide à la conduite, à l'exploitation et à la
-maintenance，縮寫SACEM），但面对高居不下的客流仍然是远水难解近渴，只有修建一条新线路才能解决相关问题。于是在1986-1987年间，[巴黎大众运输公司](../Page/巴黎大众运输公司.md "wikilink")（RATP）和法国国家铁路公司各自提出两个缓解东西交通的计划：RATP修建（Météor，后来成为[地铁14号线](../Page/巴黎地铁14号线.md "wikilink")），SNCF修建一条新的法兰西岛大区快铁，连接东部和西部郊区，并穿越巴黎市区，称为东西快铁（计划名为"Éole"，全稱Est-Ouest
+maintenance，縮寫SACEM），但面对高居不下的客流仍然是远水难解近渴，只有修建一条新线路才能解决相关问题。于是在1986-1987年间，[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")（RATP）和法国国家铁路公司各自提出两个缓解东西交通的计划：RATP修建（Météor，后来成为[地铁14号线](https://zh.wikipedia.org/wiki/巴黎地铁14号线 "wikilink")），SNCF修建一条新的法兰西岛大区快铁，连接东部和西部郊区，并穿越巴黎市区，称为东西快铁（计划名为"Éole"，全稱Est-Ouest
 liaison express）。
 
-1989年10月13日，法国总理[米歇尔·罗卡尔宣布东西快速地铁和东西快铁计划将同时实施](../Page/米歇尔·罗卡尔.md "wikilink")。1989年11月23日，SNCF提交了东西快铁的时间表，预计于1996年完工。次年7月31日，[法兰西岛运输联合会](../Page/法兰西岛运输联合会.md "wikilink")（Syndicat
+1989年10月13日，法国总理[米歇尔·罗卡尔宣布东西快速地铁和东西快铁计划将同时实施](../Page/米歇尔·罗卡尔.md "wikilink")。1989年11月23日，SNCF提交了东西快铁的时间表，预计于1996年完工。次年7月31日，[法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink")（Syndicat
 des transports
-d'Île-de-France，縮寫STIF）认可了东西快铁计划的一期路网，将从[圣拉扎尔出发](../Page/巴黎圣拉扎尔车站.md "wikilink")，连接东部的谢尔－古奈站，（Villiers-sur-Marne）和[马恩河畔尚比尼站](../Page/马恩河畔尚比尼站.md "wikilink")（Champigny-sur-Marne）。
+d'Île-de-France，縮寫STIF）认可了东西快铁计划的一期路网，将从[圣拉扎尔出发](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")，连接东部的谢尔－古奈站，（Villiers-sur-Marne）和[马恩河畔尚比尼站](https://zh.wikipedia.org/wiki/马恩河畔尚比尼站 "wikilink")（Champigny-sur-Marne）。
 
 1991年春，该计划经过公众咨询后做了些许修改，包括调整巴黎东站站前路轨设置，以便于东西快铁列车可以和其他列车分隔运行，顺利来往城区和线路分岔点[诺瓦西勒塞克站](../Page/诺瓦西勒塞克站.md "wikilink")（Noisy-le-Sec），巴黎北站和巴黎东站之间的新车站采用4条轨道，巴黎东北入城隧道口坡度的设定，市区地下路轨采用双洞隧道修建，终点站路轨尽头加设80米的缓冲轨道等。当年11月15日，最终路线图对公众发布。一周后，交通部长（Paul
 Quilès）签署通过最终路线图。
@@ -30,7 +32,7 @@ Quilès）签署通过最终路线图。
 
 [Chelles_Gare_RER_E.jpg](https://zh.wikipedia.org/wiki/File:Chelles_Gare_RER_E.jpg "fig:Chelles_Gare_RER_E.jpg")
 
-1992年1月，东西快铁开始进行必要的土木施工，1993年，东西快铁的主要工程正式开工。工程地下深度达到史无前例的40米，同时还要面对途经以及空间狭小局促的地下部分。为了避免出现塌陷事故，施工进行得小心谨慎，并采用了类似[英法海底隧道的掘进方式](../Page/英法海底隧道.md "wikilink")。东北部入城隧道口的开挖被屏蔽隔离，同时还进行加固，并且迫使巴黎东站前的6条快速路轨迁移了其中3条，列车行驶时速也被相应到40公里降低以应对工程。施工带来的土方和碎石被机械传送带送到外部，然后再装上货车。从1994年2月14日开始，施工采用了新型的隧道掘进机"Martine"进行隧道钻挖。钻挖产生的碎石被传送带送走，而没有使用卡车运输。
+1992年1月，东西快铁开始进行必要的土木施工，1993年，东西快铁的主要工程正式开工。工程地下深度达到史无前例的40米，同时还要面对途经以及空间狭小局促的地下部分。为了避免出现塌陷事故，施工进行得小心谨慎，并采用了类似[英法海底隧道的掘进方式](https://zh.wikipedia.org/wiki/英法海底隧道 "wikilink")。东北部入城隧道口的开挖被屏蔽隔离，同时还进行加固，并且迫使巴黎东站前的6条快速路轨迁移了其中3条，列车行驶时速也被相应到40公里降低以应对工程。施工带来的土方和碎石被机械传送带送到外部，然后再装上货车。从1994年2月14日开始，施工采用了新型的隧道掘进机"Martine"进行隧道钻挖。钻挖产生的碎石被传送带送走，而没有使用卡车运输。
 
 1995年5月4日，经历了一年又半个月的施工后，市区隧道北线（东行）顺利完工，但同年12月22日，隧道南线（西行）却发生了塌陷事故，导致[巴黎第九区](../Page/巴黎第九区.md "wikilink")（Rue
 Papillon）90间民房出现开裂，结果SNCF被迫出资进行经济补偿，增加建设预算，另外工程因此而延期一年半，原本定于1998年竣工通车，因此拖延至1999年。
@@ -45,7 +47,7 @@ Papillon）90间民房出现开裂，结果SNCF被迫出资进行经济补偿，
 1999年7月12日，历经7年的施工后，RER
 E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘.md "wikilink")，法铁总裁，大区委员会主席以及多名部长官员为竣工仪式剪彩。两天后，E2分支（谢尔－古奈站）投入使用。8月30日，E4分支（当时仅通到）亦投入使用。
 
-该工程原计划62亿法郎，后因地质原因，挖掘土方超量（堪比[胡夫金字塔](../Page/胡夫金字塔.md "wikilink")）追加7亿法郎，因巴黎东站附加施工追加6.5亿，住房危机影响的土地购买成本追加4.5亿，碎石运输系统追加1亿，以及蝴蝶路塌方事件追加1亿，耗资已超过81亿法郎。如此高的修建成本迫使法国政府和STIF在此后的轨道交通规划中采取一些低成本的项目，比如[路面电车](../Page/巴黎路面电车.md "wikilink")，并且只是连接郊区之间，而不再穿越巴黎市区内，而E线计划中的未来西延段也随之被推迟（东西快铁计划要东西贯通巴黎）。
+该工程原计划62亿法郎，后因地质原因，挖掘土方超量（堪比[胡夫金字塔](../Page/胡夫金字塔.md "wikilink")）追加7亿法郎，因巴黎东站附加施工追加6.5亿，住房危机影响的土地购买成本追加4.5亿，碎石运输系统追加1亿，以及蝴蝶路塌方事件追加1亿，耗资已超过81亿法郎。如此高的修建成本迫使法国政府和STIF在此后的轨道交通规划中采取一些低成本的项目，比如[路面电车](https://zh.wikipedia.org/wiki/巴黎路面电车 "wikilink")，并且只是连接郊区之间，而不再穿越巴黎市区内，而E线计划中的未来西延段也随之被推迟（东西快铁计划要东西贯通巴黎）。
 
 [RerE_garetournan.JPG](https://zh.wikipedia.org/wiki/File:RerE_garetournan.JPG "fig:RerE_garetournan.JPG")
 
@@ -57,7 +59,7 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 
 ### E2分支增值服务
 
-在乘客，当地居民和政府官员的要求下，SNCF对E2分支进行了服务增值，自2009年12月13日以后，往返和[谢尔－古奈站的列车全天候为慢车](../Page/谢尔－古奈站.md "wikilink")，每站都停靠。因为在以往，[庞丹站的列车服务明显不足](../Page/庞丹站.md "wikilink")，给旅客带来了不便。在这以后，高峰期的两个方向每小时分别有12班列车和8班列车停靠，为以往的2-3倍。这项服务增值还能对当地的城市化发展起到推进作用，不过要以延长通勤时间1-3分钟为代价。
+在乘客，当地居民和政府官员的要求下，SNCF对E2分支进行了服务增值，自2009年12月13日以后，往返和[谢尔－古奈站的列车全天候为慢车](https://zh.wikipedia.org/wiki/谢尔－古奈站 "wikilink")，每站都停靠。因为在以往，[庞丹站的列车服务明显不足](https://zh.wikipedia.org/wiki/庞丹站 "wikilink")，给旅客带来了不便。在这以后，高峰期的两个方向每小时分别有12班列车和8班列车停靠，为以往的2-3倍。这项服务增值还能对当地的城市化发展起到推进作用，不过要以延长通勤时间1-3分钟为代价。
 
 ## 线路走向和车站列表
 
@@ -93,7 +95,7 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro-M.svg" title="fig:Metro-M.svg">Metro-M.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_3_jms.svg" title="fig:Paris_m_3_jms.svg">Paris_m_3_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_7_jms.svg" title="fig:Paris_m_7_jms.svg">Paris_m_7_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_8_jms.svg" title="fig:Paris_m_8_jms.svg">Paris_m_8_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_9_jms.svg" title="fig:Paris_m_9_jms.svg">Paris_m_9_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_12_jms.svg" title="fig:Paris_m_12_jms.svg">Paris_m_12_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_13_jms.svg" title="fig:Paris_m_13_jms.svg">Paris_m_13_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_14_jms.svg" title="fig:Paris_m_14_jms.svg">Paris_m_14_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_RER_A_icon.svg" title="fig:Paris_RER_A_icon.svg">Paris_RER_A_icon.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneJ.svg" title="fig:Logo_Paris_Transilien_ligneJ.svg">Logo_Paris_Transilien_ligneJ.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneL.svg" title="fig:Logo_Paris_Transilien_ligneL.svg">Logo_Paris_Transilien_ligneL.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Haute-Normandie</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Haute-Normandie</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -108,9 +110,9 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro-M.svg" title="fig:Metro-M.svg">Metro-M.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_2_jms.svg" title="fig:Paris_m_2_jms.svg">Paris_m_2_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_4_jms.svg" title="fig:Paris_m_4_jms.svg">Paris_m_4_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_5_jms.svg" title="fig:Paris_m_5_jms.svg">Paris_m_5_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_B_jms.svg" title="fig:Paris_rer_B_jms.svg">Paris_rer_B_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_B_jms.svg" title="fig:Paris_rer_B_jms.svg">Paris_rer_B_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_D_jms.svg" title="fig:Paris_rer_D_jms.svg">Paris_rer_D_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneH.svg" title="fig:Logo_Paris_Transilien_ligneH.svg">Logo_Paris_Transilien_ligneH.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneK.svg" title="fig:Logo_Paris_Transilien_ligneK.svg">Logo_Paris_Transilien_ligneK.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneP.svg" title="fig:Logo_Paris_Transilien_ligneP.svg">Logo_Paris_Transilien_ligneP.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Champagne-Ardenne</em></strong></span></a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a> <a href="../Page/欧洲之星.md" title="wikilink"><span style="bgcolor: #ffffff; color: #132531"><strong><em>Eurostar</em></strong></span></a> <a href="../Page/大力士高速列车.md" title="wikilink"><span style="bgcolor: #ffffff; color: #8a162b"><strong><em>Thalys</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Champagne-Ardenne</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a> <a href="https://zh.wikipedia.org/wiki/欧洲之星" title="wikilink"><span style="bgcolor: #ffffff; color: #132531"><strong><em>Eurostar</em></strong></span></a> <a href="../Page/大力士高速列车.md" title="wikilink"><span style="bgcolor: #ffffff; color: #8a162b"><strong><em>Thalys</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -118,7 +120,7 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/罗萨·帕克斯站.md" title="wikilink">罗萨·帕克斯站</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/罗萨·帕克斯站" title="wikilink">罗萨·帕克斯站</a><br />
 <small>Rosa Parks</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十九区.md" title="wikilink">巴黎十九区</a></p></td>
@@ -130,10 +132,10 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/庞丹站.md" title="wikilink">庞丹</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/庞丹站" title="wikilink">庞丹</a><br />
 <small>Pantin</small></p></td>
 <td><p>2</p></td>
-<td><p><a href="../Page/庞丹.md" title="wikilink">庞丹</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/庞丹" title="wikilink">庞丹</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,9 +174,9 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <small>Le Raincy — Villemomble<br />
 Montfermeil</p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/兰西.md" title="wikilink">兰西</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/兰西" title="wikilink">兰西</a><br />
 <a href="../Page/维勒蒙布勒.md" title="wikilink">维勒蒙布勒</a><br />
-<a href="../Page/蒙费梅伊.md" title="wikilink">蒙费梅伊</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/蒙费梅伊" title="wikilink">蒙费梅伊</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -207,11 +209,11 @@ Montfermeil</p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#c75fad"><small><strong>E2</strong></small></font></p></td>
-<td><p><strong><a href="../Page/谢尔－古奈站.md" title="wikilink">谢尔－古奈站</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/谢尔－古奈站" title="wikilink">谢尔－古奈站</a><br />
 <small>Chelles — Gournay</small></strong></p></td>
 <td><p>4</p></td>
 <td><p><br />
-<a href="../Page/马恩河畔古奈.md" title="wikilink">马恩河畔古奈</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/马恩河畔古奈" title="wikilink">马恩河畔古奈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneP.svg" title="fig:Logo_Paris_Transilien_ligneP.svg">Logo_Paris_Transilien_ligneP.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -221,7 +223,7 @@ Montfermeil</p></td>
 <td><p><br />
 <small>Rosny — Bois Perrier</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/罗尼丛林.md" title="wikilink">罗尼丛林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗尼丛林" title="wikilink">罗尼丛林</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -233,7 +235,7 @@ Montfermeil</p></td>
 <td><p><br />
 <small>Rosny-sous-Bois</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/罗尼丛林.md" title="wikilink">罗尼丛林</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/罗尼丛林" title="wikilink">罗尼丛林</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -245,7 +247,7 @@ Montfermeil</p></td>
 <td><p><a href="../Page/丰特奈谷站.md" title="wikilink">丰特奈谷站</a><br />
 <small>Val-de-Fontenay</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/林畔丰特奈.md" title="wikilink">林畔丰特奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林畔丰特奈" title="wikilink">林畔丰特奈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_RER_A_icon.svg" title="fig:Paris_RER_A_icon.svg">Paris_RER_A_icon.svg</a></p></td>
 <td></td>
 <td></td>
@@ -270,7 +272,7 @@ Montfermeil</p></td>
 <td><p><br />
 <small>Les Boullereaux — Champigny</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/马恩河畔尚皮尼.md" title="wikilink">马恩河畔尚皮尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马恩河畔尚皮尼" title="wikilink">马恩河畔尚皮尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -282,8 +284,8 @@ Montfermeil</p></td>
 <td><p><br />
 <small>Villiers-sur-Marne — Le Plessis-Trévise</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/马恩河畔维利耶尔.md" title="wikilink">马恩河畔维利耶尔</a><br />
-<a href="../Page/布雷西特雷维斯.md" title="wikilink">布雷西特雷维斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马恩河畔维利耶尔" title="wikilink">马恩河畔维利耶尔</a><br />
+<a href="https://zh.wikipedia.org/wiki/布雷西特雷维斯" title="wikilink">布雷西特雷维斯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -304,7 +306,7 @@ Montfermeil</p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/埃梅兰维勒-蓬托孔博站.md" title="wikilink">埃梅兰维勒-蓬托孔博站</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/埃梅兰维勒-蓬托孔博站" title="wikilink">埃梅兰维勒-蓬托孔博站</a><br />
 <small>Émerainville<br />
 Pontault-Combault</small></p></td>
 <td><p>5</p></td>
@@ -382,7 +384,7 @@ Altéo和Z 22500之间仍然有些差别:
 
 Z
 22500列车于1996年3月起开始投放，历经近4年投放完成。该列车一共生产了53辆，但由于最终E线被移除一个分支，故这些列车一开始并未全部投入使用。为了不让未使用的列车就此闲置，和在保修期内尽快发现列车是否有问题，自1998年11月29日起，SNCF决定让当时过剩的Z
-22500先在[圣拉扎尔路网中的](../Page/巴黎圣拉扎尔线.md "wikilink")[圣拉扎尔站到](../Page/巴黎圣拉扎尔车站.md "wikilink")[楠泰尔大学站](../Page/楠泰尔大学站.md "wikilink")（Nanterre
+22500先在[圣拉扎尔路网中的](../Page/巴黎圣拉扎尔线.md "wikilink")[圣拉扎尔站到](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")[楠泰尔大学站](https://zh.wikipedia.org/wiki/楠泰尔大学站 "wikilink")（Nanterre
 - Université）之间运行，那一段路的月台高度已经被加高，不过月台长度仍然不够长，于是那些Z
 22500只采用单组4节车厢，重联后达8节车厢，其余自1996年已经投入使用（先在[巴黎东站远郊路网上行走](../Page/巴黎东线.md "wikilink")，因为当时地下隧道尚未完工）的Z
 22500采用单组5节车厢，重联后达10节车厢。随着E线的竣工，所有的Z 22500均采用5节车厢，这就使得行走圣拉扎尔路网的Z
@@ -418,7 +420,7 @@ Z
   -
 
       -
-        **C**=[谢尔－古奈站](../Page/谢尔－古奈站.md "wikilink")，比如**CISI**、**CUSI**。
+        **C**=[谢尔－古奈站](https://zh.wikipedia.org/wiki/谢尔－古奈站 "wikilink")，比如**CISI**、**CUSI**。
 
 <!-- end list -->
 
@@ -453,7 +455,7 @@ Z
   -
 
       -
-        **K**=[庞丹站](../Page/庞丹站.md "wikilink")（仅用作特殊情况）
+        **K**=[庞丹站](https://zh.wikipedia.org/wiki/庞丹站 "wikilink")（仅用作特殊情况）
 
 <!-- end list -->
 
@@ -589,14 +591,14 @@ Z
 
 #### 高峰主线
 
-1.  每7-8分钟一班**前往（早班）**和**返回[谢尔－古奈](../Page/谢尔－古奈.md "wikilink")（晚班）**的全程车**HOCI**和**COHI**，每个站都停靠。走毕全程需大约27分钟。
+1.  每7-8分钟一班**前往（早班）**和**返回[谢尔－古奈](https://zh.wikipedia.org/wiki/谢尔－古奈 "wikilink")（晚班）**的全程车**HOCI**和**COHI**，每个站都停靠。走毕全程需大约27分钟。
 2.  每15分钟一班**前往（早班）**和**返回马恩河畔维利耶尔站（晚班）**的区间车**HOTA**和**VOHA**，每个站都停靠。走毕全程需大约32分钟。
 3.  每15分钟一班**前往（早班）**和**返回（晚班）**的全程车**HIVA**和**TIVA**，在和马恩河畔维利耶尔站之间仅停靠丰特奈河谷站，其余每站都停靠。走毕全程需大约44分钟。
 
 #### 高峰副线
 
 1.  每10-30分钟一班**前往（早班）**和**返回（晚班）**的潮汐区间车**NOHY**和**HONY**。
-2.  每15分钟一班**前往[谢尔－古奈站](../Page/谢尔－古奈站.md "wikilink")（早班）**和**返回（晚班）**的全程车**COHI**和**HOCI**，每个站都停靠。
+2.  每15分钟一班**前往[谢尔－古奈站](https://zh.wikipedia.org/wiki/谢尔－古奈站 "wikilink")（早班）**和**返回（晚班）**的全程车**COHI**和**HOCI**，每个站都停靠。
 3.  每15分钟一班**前往（早班）**和**返回（晚班）**的区间车**VOHA**和**HOTA**，每个站都停靠。
 4.  每30分钟一班**前往（早班）**和**返回（晚班）**的全程车**TIVA**和**HIVA**。
 
@@ -620,16 +622,16 @@ Z
 
 [RerE_grève.JPG](https://zh.wikipedia.org/wiki/File:RerE_grève.JPG "fig:RerE_grève.JPG")
 
-施工或设备故障情况会干扰线路运营，这时，列车常常晚点甚至班次被取消，或者停靠站发生改变，比方说终点从改到，终点从改到，以抵消延迟消耗的时间。事实上，有些中途车站（非终点站或节点站）可以让列车进行调头，但由于车站自身限制会因此干扰别的列车（比如[TGV](../Page/TGV.md "wikilink")，[远郊车](../Page/巴黎东线.md "wikilink")，货车等）的运行。
+施工或设备故障情况会干扰线路运营，这时，列车常常晚点甚至班次被取消，或者停靠站发生改变，比方说终点从改到，终点从改到，以抵消延迟消耗的时间。事实上，有些中途车站（非终点站或节点站）可以让列车进行调头，但由于车站自身限制会因此干扰别的列车（比如[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")，[远郊车](../Page/巴黎东线.md "wikilink")，货车等）的运行。
 
 如果发生罢工等社会运动，RER
-E线会采用新的列车时刻表，特别针对高峰期班次订做。如果当天在市中心班次特别稀少，列车将改到[巴黎东站为终点](../Page/巴黎东站.md "wikilink")，而基于安全原因，和也将关闭，2007年11月的大罢工期间即是如此。在这种情况下，E线往返谢尔－古奈站的慢车将和[巴黎东站远郊车中往返](../Page/巴黎东线.md "wikilink")[莫城站](../Page/莫城站.md "wikilink")（Meaux）的半直达车合并，变成巴黎东站往返莫城站的慢车。往返杜尔农分支的班次频率将降低，并且终点也改到巴黎东站。
+E线会采用新的列车时刻表，特别针对高峰期班次订做。如果当天在市中心班次特别稀少，列车将改到[巴黎东站为终点](../Page/巴黎东站.md "wikilink")，而基于安全原因，和也将关闭，2007年11月的大罢工期间即是如此。在这种情况下，E线往返谢尔－古奈站的慢车将和[巴黎东站远郊车中往返](../Page/巴黎东线.md "wikilink")[莫城站](https://zh.wikipedia.org/wiki/莫城站 "wikilink")（Meaux）的半直达车合并，变成巴黎东站往返莫城站的慢车。往返杜尔农分支的班次频率将降低，并且终点也改到巴黎东站。
 
 如果奥斯曼圣拉扎尔终点发生事故，所有列车均以马尚塔或巴黎东站为终点。
 
 ### 其它特殊情况
 
-E线的运营时间从每日凌晨5时至次日凌晨1时，但新年夜和[音乐节时](../Page/音乐节.md "wikilink")，列车将通宵运营。这时所有列车以[巴黎东站为起点](../Page/巴黎东站.md "wikilink")，每小时各有1班列车分别往返于莫城站和杜尔农站，并且停靠线上的所有车站。
+E线的运营时间从每日凌晨5时至次日凌晨1时，但新年夜和[音乐节时](https://zh.wikipedia.org/wiki/音乐节 "wikilink")，列车将通宵运营。这时所有列车以[巴黎东站为起点](../Page/巴黎东站.md "wikilink")，每小时各有1班列车分别往返于莫城站和杜尔农站，并且停靠线上的所有车站。
 
 ## 车站设施
 
@@ -637,7 +639,7 @@ E线的运营时间从每日凌晨5时至次日凌晨1时，但新年夜和[音�
 
 E线的车站大多为地面或架空车站，市区的和为深层地下车站。除个别车站外，大多数车站都设有多个侧式月台和岛式月台，左上右下。
 
-值得注意的是，由于全线由法国国家铁路公司运营，E线有大量路段与[远郊车](../Page/法兰西岛区域铁路.md "wikilink")，[省际列车和](../Page/法国省际列车.md "wikilink")[TGV混跑](../Page/TGV.md "wikilink")，另外加上巴黎市区的两个车站均可作为终点站使用（多月台设计），因而[混合月台车站的比例在所有法兰西岛大区快铁线路中居首位](../Page/混合式月台.md "wikilink")。
+值得注意的是，由于全线由法国国家铁路公司运营，E线有大量路段与[远郊车](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink")，[省际列车和](https://zh.wikipedia.org/wiki/法国省际列车 "wikilink")[TGV混跑](https://zh.wikipedia.org/wiki/TGV "wikilink")，另外加上巴黎市区的两个车站均可作为终点站使用（多月台设计），因而[混合月台车站的比例在所有法兰西岛大区快铁线路中居首位](https://zh.wikipedia.org/wiki/混合式月台 "wikilink")。
 
 全线车站都设有自动售票机、咨询处、列车时刻表显示器、停靠站电子显示牌，部分车站设有残障人士设施、自动扶梯和升降机。
 
@@ -653,11 +655,11 @@ E线的车站大多为地面或架空车站，市区的和为深层地下车站�
 
 <!-- end list -->
 
-  - E线方便了东部郊区的通勤族前往巴黎上班，特别是前往[巴黎歌剧院周边的商务办公区上班](../Page/巴黎歌剧院.md "wikilink")，在此前，这些通勤族只能乘坐[A线](../Page/法兰西岛大区快铁A线.md "wikilink")。
+  - E线方便了东部郊区的通勤族前往巴黎上班，特别是前往[巴黎歌剧院周边的商务办公区上班](https://zh.wikipedia.org/wiki/巴黎歌剧院 "wikilink")，在此前，这些通勤族只能乘坐[A线](../Page/法兰西岛大区快铁A线.md "wikilink")。
 
 <!-- end list -->
 
-  - E线在商务办公区和[巴黎北站](../Page/巴黎北站.md "wikilink")、[巴黎东站之间建立起快速连接](../Page/巴黎东站.md "wikilink")，单程只需3-4分钟，使得乘坐[TGV](../Page/TGV.md "wikilink")、[欧洲之星](../Page/欧洲之星.md "wikilink")、[大力士高速列车](../Page/大力士高速列车.md "wikilink")（Thalys）以及未来的[戴高乐机场快线](../Page/戴高乐机场快线.md "wikilink")（CDG
+  - E线在商务办公区和[巴黎北站](../Page/巴黎北站.md "wikilink")、[巴黎东站之间建立起快速连接](../Page/巴黎东站.md "wikilink")，单程只需3-4分钟，使得乘坐[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")、[欧洲之星](https://zh.wikipedia.org/wiki/欧洲之星 "wikilink")、[大力士高速列车](../Page/大力士高速列车.md "wikilink")（Thalys）以及未来的[戴高乐机场快线](../Page/戴高乐机场快线.md "wikilink")（CDG
     Express）的乘客可以更方便的到达目的地。
 
 <!-- end list -->
@@ -670,7 +672,7 @@ E线的车站大多为地面或架空车站，市区的和为深层地下车站�
 
 <!-- end list -->
 
-  - 1999年E线的开通还带动了[远郊铁路一体化](../Page/法兰西岛区域铁路.md "wikilink")，所有的线路（包括[法兰西岛大区快铁C](../Page/法兰西岛大区快铁C线.md "wikilink")、[D线](../Page/法兰西岛大区快铁D线.md "wikilink")）都被冠之以新名称"Transilien"，随之而来的，是列车和线路设备的翻新、车站的整理、残障人士设施的安装、更优质的服务（理论上）和更舒适的乘坐和候车。
+  - 1999年E线的开通还带动了[远郊铁路一体化](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink")，所有的线路（包括[法兰西岛大区快铁C](../Page/法兰西岛大区快铁C线.md "wikilink")、[D线](../Page/法兰西岛大区快铁D线.md "wikilink")）都被冠之以新名称"Transilien"，随之而来的，是列车和线路设备的翻新、车站的整理、残障人士设施的安装、更优质的服务（理论上）和更舒适的乘坐和候车。
 
 [Viaduc_ferroviaire_de_Nogent-sur-Marne_02.jpg](https://zh.wikipedia.org/wiki/File:Viaduc_ferroviaire_de_Nogent-sur-Marne_02.jpg "fig:Viaduc_ferroviaire_de_Nogent-sur-Marne_02.jpg")
 
@@ -683,11 +685,11 @@ E线的车站大多为地面或架空车站，市区的和为深层地下车站�
 
 <!-- end list -->
 
-  - 是线路路轨尽头，没有掉头[转辙器](../Page/转辙器.md "wikilink")，这就造成列车进站落客后，须延长10分钟才能载客，然后离开，这样高峰时段1小时仅有16班列车发出，其中8班发往谢尔－古奈站，4班发往马恩河畔维利耶尔站，4班发往杜尔农。最终造成今日车站饱和的局面。但据称E线向西和向东延伸后情况将改善。
+  - 是线路路轨尽头，没有掉头[转辙器](https://zh.wikipedia.org/wiki/转辙器 "wikilink")，这就造成列车进站落客后，须延长10分钟才能载客，然后离开，这样高峰时段1小时仅有16班列车发出，其中8班发往谢尔－古奈站，4班发往马恩河畔维利耶尔站，4班发往杜尔农。最终造成今日车站饱和的局面。但据称E线向西和向东延伸后情况将改善。
 
 <!-- end list -->
 
-  - 杜尔农站分支的列车运行也受到一定程度的干扰，因为该分支许多路段没有足够的路轨，造成E线和[省际列车和](../Page/法国省际列车.md "wikilink")[远郊车共用轨道](../Page/巴黎东线.md "wikilink")，从而影响行车效率，而相关增加路轨计划由于成本和征地问题暂时无法实施。不过，2007年开通的[TGV东线和预计](../Page/法国高速铁路东线.md "wikilink")2011年开通的另一条通往[贝桑松的TGV线可将一部分国内列车从杜尔农分支分流出去](../Page/贝桑松.md "wikilink")，能够有效缓解线路负载状况。
+  - 杜尔农站分支的列车运行也受到一定程度的干扰，因为该分支许多路段没有足够的路轨，造成E线和[省际列车和](https://zh.wikipedia.org/wiki/法国省际列车 "wikilink")[远郊车共用轨道](../Page/巴黎东线.md "wikilink")，从而影响行车效率，而相关增加路轨计划由于成本和征地问题暂时无法实施。不过，2007年开通的[TGV东线和预计](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")2011年开通的另一条通往[贝桑松的TGV线可将一部分国内列车从杜尔农分支分流出去](../Page/贝桑松.md "wikilink")，能够有效缓解线路负载状况。
 
 ## 未来计划
 
@@ -703,9 +705,9 @@ E线西延段不仅可以解决奥斯曼圣拉扎尔终点的局限性，提高�
 
 #### 最初计划
 
-西延段最初决定修建一条长约800米的隧道连接圣拉扎尔终点和（Pont-Cardinet，位于[圣拉扎尔车站远郊路网起点以北第一个车站](../Page/巴黎圣拉扎尔线.md "wikilink")），之后经[克利希](../Page/克利希_\(上塞纳省\).md "wikilink")（Clichy）、[勒瓦卢瓦-佩雷](../Page/勒瓦卢瓦-佩雷.md "wikilink")（Levallois-Perret）、[阿尼耶](../Page/塞纳河畔阿涅勒.md "wikilink")（Asnières-sur-Seine）、[库布瓦](../Page/库尔贝瓦.md "wikilink")（Courbevoie）、[拉德芳斯](../Page/拉德芳斯.md "wikilink")，前往（Versailles
+西延段最初决定修建一条长约800米的隧道连接圣拉扎尔终点和（Pont-Cardinet，位于[圣拉扎尔车站远郊路网起点以北第一个车站](../Page/巴黎圣拉扎尔线.md "wikilink")），之后经[克利希](../Page/克利希_\(上塞纳省\).md "wikilink")（Clichy）、[勒瓦卢瓦-佩雷](https://zh.wikipedia.org/wiki/勒瓦卢瓦-佩雷 "wikilink")（Levallois-Perret）、[阿尼耶](https://zh.wikipedia.org/wiki/塞纳河畔阿涅勒 "wikilink")（Asnières-sur-Seine）、[库布瓦](../Page/库尔贝瓦.md "wikilink")（Courbevoie）、[拉德芳斯](../Page/拉德芳斯.md "wikilink")，前往（Versailles
 - Rive Droite）和（Saint-Nom-la-Bretèche - Forêt de
-Marly），同时可能新辟一条分支前往西北部的[普瓦西站](../Page/普瓦西站.md "wikilink")（Poissy）。这个最初计划是巴黎申办[2012年奥运会的建设项目的一部分](../Page/2012年奥运会.md "wikilink")。
+Marly），同时可能新辟一条分支前往西北部的[普瓦西站](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")（Poissy）。这个最初计划是巴黎申办[2012年奥运会的建设项目的一部分](https://zh.wikipedia.org/wiki/2012年奥运会 "wikilink")。
 
 虽然这个方案能缓解（Quartier des
 Batignolles）的人流，但它自身却存在一些技术难度，并且无法保证通勤效率和准点率。首先，如果从圣拉扎尔终点站附近的[欧贝站](../Page/欧贝站.md "wikilink")（Auber）乘坐[A线前往](../Page/法兰西岛大区快铁A线.md "wikilink")[拉德芳斯](../Page/拉德芳斯.md "wikilink")，只需7分钟便可到达，而E线西延段呈上文所述前往彼处却要10-15分钟。其次，[圣拉扎尔路网的运作本已足够复杂](../Page/巴黎圣拉扎尔线.md "wikilink")，若让E线西延段行走此处只能使运作更加困难。另外，800米的隧道还存在坡度问题，因为路轨将从地下40多米爬升到地面。
@@ -714,14 +716,14 @@ Batignolles）的人流，但它自身却存在一些技术难度，并且无法
 
 #### 修正方案
 
-2006年7月，（EPAD）提出，线路延伸段可通过8公里的隧道直达[拉德芳斯](../Page/拉德芳斯.md "wikilink")，然后取代[A线的](../Page/法兰西岛大区快铁A线.md "wikilink")[普瓦西站分支](../Page/普瓦西站.md "wikilink")，最终延长到[芒特拉若利](../Page/芒特拉若利.md "wikilink")（Mantes-la-Jolie）。
+2006年7月，（EPAD）提出，线路延伸段可通过8公里的隧道直达[拉德芳斯](../Page/拉德芳斯.md "wikilink")，然后取代[A线的](../Page/法兰西岛大区快铁A线.md "wikilink")[普瓦西站分支](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")，最终延长到[芒特拉若利](https://zh.wikipedia.org/wiki/芒特拉若利 "wikilink")（Mantes-la-Jolie）。
 
-该方案成本更高一些，但却能针对性的解决法兰西岛大区的多个交通"黑点"。首先，从东部郊区前往拉德芳斯的通勤族可以彻底的不用乘坐A线上班（原来必须在丰特奈或圣拉扎尔-欧贝换A线）；其次，从[巴黎北站](../Page/巴黎北站.md "wikilink")（及其[路网](../Page/巴黎北线.md "wikilink")）前往拉德芳斯，可不必乘坐[B线前往](../Page/法兰西岛大区快铁B线.md "wikilink")[夏特雷-大堂站](../Page/夏特雷-大堂站.md "wikilink")，再转A线，当中B线与[D线共用的隧道已经令公众怨声载道多年](../Page/法兰西岛大区快铁D线.md "wikilink")；另外，这个方案还可以缓解诺曼底和拉德芳斯之间线路负载；还有，线路途经普瓦西，可以取代A线的A5分支，这样A线可以有更多的列车投入到A3分支（，Cergy）运营，而这也是A线运作上诟病已久的一个问题。
+该方案成本更高一些，但却能针对性的解决法兰西岛大区的多个交通"黑点"。首先，从东部郊区前往拉德芳斯的通勤族可以彻底的不用乘坐A线上班（原来必须在丰特奈或圣拉扎尔-欧贝换A线）；其次，从[巴黎北站](../Page/巴黎北站.md "wikilink")（及其[路网](../Page/巴黎北线.md "wikilink")）前往拉德芳斯，可不必乘坐[B线前往](../Page/法兰西岛大区快铁B线.md "wikilink")[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")，再转A线，当中B线与[D线共用的隧道已经令公众怨声载道多年](../Page/法兰西岛大区快铁D线.md "wikilink")；另外，这个方案还可以缓解诺曼底和拉德芳斯之间线路负载；还有，线路途经普瓦西，可以取代A线的A5分支，这样A线可以有更多的列车投入到A3分支（，Cergy）运营，而这也是A线运作上诟病已久的一个问题。
 
 [Neuilly_Porte_Maillot_ext.jpg](https://zh.wikipedia.org/wiki/File:Neuilly_Porte_Maillot_ext.jpg "fig:Neuilly_Porte_Maillot_ext.jpg")
 
 几个月后，EPAD又提议，在圣拉扎尔和拉德芳斯之间，线路途经（Porte
-Maillot）而不是（Pereire），意图在于同时缓解[地铁1号线的客流](../Page/巴黎地铁1号线.md "wikilink")(也是东西向)，同时能和[法兰西岛大区快铁C线互通](../Page/法兰西岛大区快铁C线.md "wikilink")。
+Maillot）而不是（Pereire），意图在于同时缓解[地铁1号线的客流](https://zh.wikipedia.org/wiki/巴黎地铁1号线 "wikilink")(也是东西向)，同时能和[法兰西岛大区快铁C线互通](../Page/法兰西岛大区快铁C线.md "wikilink")。
 
 #### 研究进展
 
@@ -751,7 +753,7 @@ Falco）和库布瓦市副市长雅克·科索夫斯基（Jacques Kossowski）�
 至此，修建隧道从圣拉扎尔直达拉德芳斯的方案基本上已经成为既定方案，中间在马约门修一个新车站，但往芒特拉若利的延长线进度取决于上文所提到的30亿欧元新线的进度。另外，拉德芳斯新车站将建在四时中心地底，并且在拉德芳斯以西再建一个新车站——（Nanterre
 - La Folie，目前为一货车场），作为E线在巴黎西边的出口。
 
-到10月22日，修建隧道从圣拉扎尔直达拉德芳斯的方案基本上已经成为既定方案，只是拉德芳斯新车站改到CNIT地底。但隧道线路上是否要在马约门修建车站和[地铁1号线转乘仍待确定](../Page/巴黎地铁1号线.md "wikilink")，如果不修建这个车站，可以节省2-2.5亿欧元，并且往返拉德芳斯和圣拉扎尔只需6分钟（如果修建车站则需7分50秒），但这样做无疑会让1号线西段的饱和状况继续恶化。
+到10月22日，修建隧道从圣拉扎尔直达拉德芳斯的方案基本上已经成为既定方案，只是拉德芳斯新车站改到CNIT地底。但隧道线路上是否要在马约门修建车站和[地铁1号线转乘仍待确定](https://zh.wikipedia.org/wiki/巴黎地铁1号线 "wikilink")，如果不修建这个车站，可以节省2-2.5亿欧元，并且往返拉德芳斯和圣拉扎尔只需6分钟（如果修建车站则需7分50秒），但这样做无疑会让1号线西段的饱和状况继续恶化。
 
 2010年1月27日，EPAD、EPASA等多家机构签署了一项合作协议，用于E线西延段工程的研究。
 
@@ -796,14 +798,14 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">•</span></p></td>
 <td></td>
-<td><p><strong><a href="../Page/芒特拉若利站.md" title="wikilink">芒特拉若利</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/芒特拉若利站" title="wikilink">芒特拉若利</a><br />
 <small>Mantes-la-Jolie</strong></p></td>
 <td><p>6</p></td>
-<td><p><a href="../Page/芒特拉若利.md" title="wikilink">芒特拉若利</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/芒特拉若利" title="wikilink">芒特拉若利</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneJ.svg" title="fig:Logo_Paris_Transilien_ligneJ.svg">Logo_Paris_Transilien_ligneJ.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneN.svg" title="fig:Logo_Paris_Transilien_ligneN.svg">Logo_Paris_Transilien_ligneN.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Haute-Normandie</em></strong></span></a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Haute-Normandie</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -814,7 +816,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p><br />
 <small>Mantes-Station</small></p></td>
 <td><p>6</p></td>
-<td><p><a href="../Page/芒特拉若利.md" title="wikilink">芒特拉若利</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/芒特拉若利" title="wikilink">芒特拉若利</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneJ.svg" title="fig:Logo_Paris_Transilien_ligneJ.svg">Logo_Paris_Transilien_ligneJ.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneN.svg" title="fig:Logo_Paris_Transilien_ligneN.svg">Logo_Paris_Transilien_ligneN.svg</a></p></td>
 <td></td>
@@ -853,7 +855,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p><br />
 <small>Les Mureaux</small></p></td>
 <td><p>6</p></td>
-<td><p><a href="../Page/缪罗.md" title="wikilink">缪罗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/缪罗" title="wikilink">缪罗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -899,7 +901,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">•</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/普瓦西站.md" title="wikilink">普瓦西站</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/普瓦西站" title="wikilink">普瓦西站</a><br />
 <small>Poissy</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/普瓦西.md" title="wikilink">普瓦西</a></p></td>
@@ -915,7 +917,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <small>Nanterre - La Folie</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/楠泰尔.md" title="wikilink">楠泰尔</a></p></td>
-<td><p><a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a>（计划中）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a>（计划中）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -927,7 +929,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <small>La Défense</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/皮托.md" title="wikilink">皮托</a><br />
-<a href="../Page/库布瓦.md" title="wikilink">库布瓦</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/库布瓦" title="wikilink">库布瓦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro-M.svg" title="fig:Metro-M.svg">Metro-M.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_1_jms.svg" title="fig:Paris_m_1_jms.svg">Paris_m_1_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_RER_A_icon.svg" title="fig:Paris_RER_A_icon.svg">Paris_RER_A_icon.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneL.svg" title="fig:Logo_Paris_Transilien_ligneL.svg">Logo_Paris_Transilien_ligneL.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneU.svg" title="fig:Logo_Paris_Transilien_ligneU.svg">Logo_Paris_Transilien_ligneU.svg</a><br />
@@ -963,7 +965,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">•</span></p></td>
 <td><p> </p></td>
-<td><p><em><a href="../Page/克利希门站.md" title="wikilink">克利希门站</a><br />
+<td><p><em><a href="https://zh.wikipedia.org/wiki/克利希门站" title="wikilink">克利希门站</a><br />
 <small>Porte de Clichy</small></em></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十七区.md" title="wikilink">巴黎十七区</a></p></td>
@@ -980,7 +982,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 
 预计建成通车之后，E线在芒特拉若利的高峰期发车频率将达到10分钟一班，即1小时6班，4班为慢车，停靠芒特和普瓦西之间的所有车站，2班为半快车，选择性停靠，这6班车在普瓦西和楠泰尔之间不停靠任何车站。另外，如果2020年那一条耗资30亿的新线能够通车，那E线西延段的发车频率预计还将提高。
 
-E线西延段通车后，全线的运作方式亦将作相应修改，往返[芒特拉若利的班车在东边终止于](../Page/芒特拉若利.md "wikilink")，往返谢尔－古奈站和杜尔农站的班车在西边终止于[楠泰尔](../Page/楠泰尔.md "wikilink")，这样，线路一端出现故障时，另一端不会受到太多影响。而高峰期中心路网的发车频率也将达到1小时22班（西边来车每小时6班，东边来车每小时16班）。另外，西延段预计将增投77辆Z
+E线西延段通车后，全线的运作方式亦将作相应修改，往返[芒特拉若利的班车在东边终止于](https://zh.wikipedia.org/wiki/芒特拉若利 "wikilink")，往返谢尔－古奈站和杜尔农站的班车在西边终止于[楠泰尔](../Page/楠泰尔.md "wikilink")，这样，线路一端出现故障时，另一端不会受到太多影响。而高峰期中心路网的发车频率也将达到1小时22班（西边来车每小时6班，东边来车每小时16班）。另外，西延段预计将增投77辆Z
 22500投入运营，补充原来的53辆列车，这样线上就有130辆列车行走；不过也有另一种可能，就是重新订购130辆更新的列车，然后把既有的Z
 22500转给其它路网使用。
 
@@ -992,19 +994,20 @@ E线西延段通车后，全线的运作方式亦将作相应修改，往返[芒
 
 #### E2延伸段
 
-2008年9月25日，法兰西岛大区委员会通过了SDRIF提出的E2分支向东延伸到[莫城站的计划](../Page/莫城站.md "wikilink")，该计划将在2021-2027年之间完成。
+2008年9月25日，法兰西岛大区委员会通过了SDRIF提出的E2分支向东延伸到[莫城站的计划](https://zh.wikipedia.org/wiki/莫城站 "wikilink")，该计划将在2021-2027年之间完成。
 
-E2的延伸将把[巴黎东站远郊铁路中往返莫城站的半直达车整合进E线](../Page/巴黎东线.md "wikilink")，转变为慢车，该东延段将在西延段完成后实施，两个延伸段相配套，可以解决当前中心路网的饱和状况。同时，该延伸段将方便[塞纳-马恩省东部莫城的](../Page/塞纳-马恩省.md "wikilink")50000居民来往巴黎市区，同时亦将方便[马恩河谷的居民](../Page/马恩河谷.md "wikilink")。因为在此之前，马恩河谷只有A线进行通勤列车服务。
+E2的延伸将把[巴黎东站远郊铁路中往返莫城站的半直达车整合进E线](../Page/巴黎东线.md "wikilink")，转变为慢车，该东延段将在西延段完成后实施，两个延伸段相配套，可以解决当前中心路网的饱和状况。同时，该延伸段将方便[塞纳-马恩省东部莫城的](https://zh.wikipedia.org/wiki/塞纳-马恩省 "wikilink")50000居民来往巴黎市区，同时亦将方便[马恩河谷的居民](https://zh.wikipedia.org/wiki/马恩河谷 "wikilink")。因为在此之前，马恩河谷只有A线进行通勤列车服务。
 
 #### 南部新分支
 
 [Freight_train_Sucy_sur-_Marne_fr-01.jpg](https://zh.wikipedia.org/wiki/File:Freight_train_Sucy_sur-_Marne_fr-01.jpg "fig:Freight_train_Sucy_sur-_Marne_fr-01.jpg")
 
-E线修建时，曾经有一个分支从路线图中除去，几年前再次被提出要求新增，这就是[尚比尼马恩河分支](../Page/尚比尼马恩河.md "wikilink")，该分支从出发，利用[法兰西岛环线铁路](../Page/法兰西岛环线铁路.md "wikilink")（Grande
-Ceinture）的一部分，到达尚比尼或RER A线上的[瓦伦谢讷维耶](../Page/瓦伦谢讷维耶.md "wikilink")（La
+E线修建时，曾经有一个分支从路线图中除去，几年前再次被提出要求新增，这就是[尚比尼马恩河分支](https://zh.wikipedia.org/wiki/尚比尼马恩河 "wikilink")，该分支从出发，利用[法兰西岛环线铁路](https://zh.wikipedia.org/wiki/法兰西岛环线铁路 "wikilink")（Grande
+Ceinture）的一部分，到达尚比尼或RER
+A线上的[瓦伦谢讷维耶](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶 "wikilink")（La
 Varenne - Chennevières）。
 
-但由于[诺尚马恩河](../Page/诺尚马恩河.md "wikilink")（Nogent-sur-Marne）的铁路桥已经无法承载过大的运力，该计划很快就被推迟。并以延长至杜尔农为补偿。
+但由于[诺尚马恩河](https://zh.wikipedia.org/wiki/诺尚马恩河 "wikilink")（Nogent-sur-Marne）的铁路桥已经无法承载过大的运力，该计划很快就被推迟。并以延长至杜尔农为补偿。
 
 #### 延伸至布雷昂谷
 
@@ -1015,7 +1018,7 @@ Varenne - Chennevières）。
   - 在杜尔农和（Marles-en-Brie）之间新建一条路轨供E线使用。
   - 利用已有的，通往布雷昂谷中心的专线货运铁路，但新建一个车站。相应的，当地将兴建一个公交站和专用停车场。
 
-但此延长计划目前只有一个草稿，没有时间表，据称还需要作更多细致的研究。不过当地报刊《牧羊犬国度》对该计划的实施持乐观态度，而SNCF总裁[纪尧姆·佩皮](../Page/纪尧姆·佩皮.md "wikilink")（Guillaume
+但此延长计划目前只有一个草稿，没有时间表，据称还需要作更多细致的研究。不过当地报刊《牧羊犬国度》对该计划的实施持乐观态度，而SNCF总裁[纪尧姆·佩皮](https://zh.wikipedia.org/wiki/纪尧姆·佩皮 "wikilink")（Guillaume
 Pepy）也于2010年5月19日在当地选民的陪同下造访了布雷昂谷。
 
 ## 周边主要旅游景点

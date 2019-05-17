@@ -1,13 +1,13 @@
 《**Paradise
-Lost**》為[茅原實里歌手活動重新開始後的第五張](../Page/茅原實里.md "wikilink")[單曲](../Page/單曲.md "wikilink")。製作、發行公司為[Lantis](../Page/Lantis.md "wikilink")，由[King
-Records發售](../Page/King_Records.md "wikilink")。
+Lost**》為[茅原實里歌手活動重新開始後的第五張](../Page/茅原實里.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。製作、發行公司為[Lantis](../Page/Lantis.md "wikilink")，由[King
+Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 概要
 
-  - 在Lantis官方網站內的特集網頁中可以收看到音樂錄影帶的片段，並且在[Gyao於限定期間內播放了整段版本](../Page/Gyao.md "wikilink")。
+  - 在Lantis官方網站內的特集網頁中可以收看到音樂錄影帶的片段，並且在[Gyao於限定期間內播放了整段版本](https://zh.wikipedia.org/wiki/Gyao "wikilink")。
   - 以茅原實里的單曲來說很難得地不是初回Sleeve Pacage樣式。
   - 為《[純白Sanctuary](../Page/純白Sanctuary.md "wikilink")》以來首次搭配電視動畫，也是第一次以個人名義擔當片頭曲的作品。
-  - 為同月26日發售的原創專輯《[Parade](../Page/Parade.md "wikilink")》中收錄的主要單曲，但是在專輯中改為《Paradise
+  - 為同月26日發售的原創專輯《[Parade](https://zh.wikipedia.org/wiki/Parade "wikilink")》中收錄的主要單曲，但是在專輯中改為《Paradise
     Lost -at next nest-》，在歌曲開頭加入新的旋律。
   - 簡稱為「Para Los」、「PL」。[喜多村英梨則是將它省略為](../Page/喜多村英梨.md "wikilink")「Los
     Para」。
@@ -15,7 +15,7 @@ Records發售](../Page/King_Records.md "wikilink")。
 ## 收錄曲
 
 1.  **Paradise Lost**
-      - 作詞:[畑亞貴](../Page/畑亞貴.md "wikilink")、作曲・編曲:[菊田大介](../Page/菊田大介.md "wikilink")
+      - 作詞:[畑亞貴](../Page/畑亞貴.md "wikilink")、作曲・編曲:[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
         演奏時間：4分43秒
       - 電視動畫《[食靈―零―](../Page/食靈.md "wikilink")》片頭曲
 2.  **勇氣的悸動**（日文：勇気の鼓動）
@@ -25,7 +25,7 @@ Records發售](../Page/King_Records.md "wikilink")。
 
 ## 逸話
 
-  - 網路動畫《[小涼宮春日的憂鬱](../Page/小涼宮春日的憂鬱.md "wikilink")》（第6話）中，有著長門有希（聲音:茅原實里）拿手持式卡拉OK唱這首歌的畫面。
+  - 網路動畫《[小涼宮春日的憂鬱](https://zh.wikipedia.org/wiki/小涼宮春日的憂鬱 "wikilink")》（第6話）中，有著長門有希（聲音:茅原實里）拿手持式卡拉OK唱這首歌的畫面。
 
 ## 外部連結
 

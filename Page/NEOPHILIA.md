@@ -1,4 +1,4 @@
-《**NEOPHILIA**》為[平野綾的第](../Page/平野綾.md "wikilink")5張單曲。
+《**NEOPHILIA**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")5張單曲。
 由[Lantis於](../Page/Lantis.md "wikilink")2007年11月7日發行。
 
 ## 概要
@@ -11,11 +11,11 @@
 ## 收錄曲
 
 1.  **NEOPHILIA** \[4:10\]
-      - 作詞：平野綾、[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲・編曲：[齋藤真也](../Page/齋藤真也.md "wikilink")
-      - [吉他](../Page/吉他.md "wikilink")：[石井裕](../Page/石井裕.md "wikilink")、[貝斯](../Page/貝斯.md "wikilink")：[黑須克彦](../Page/黑須克彦.md "wikilink")
+      - 作詞：平野綾、[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲・編曲：[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")
+      - [吉他](../Page/吉他.md "wikilink")：[石井裕](https://zh.wikipedia.org/wiki/石井裕 "wikilink")、[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")：[黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")
 2.  **forget me nots...** \[4:02\]
       - 作詞：平野綾／作曲・編曲：黑須克彦
-      - 吉他：[加藤大祐](../Page/加藤大祐.md "wikilink")、貝斯：黑須克彦、[爵士鼓](../Page/爵士鼓.md "wikilink")：[河村智康](../Page/河村智康.md "wikilink")
+      - 吉他：[加藤大祐](https://zh.wikipedia.org/wiki/加藤大祐 "wikilink")、貝斯：黑須克彦、[爵士鼓](../Page/爵士鼓.md "wikilink")：[河村智康](https://zh.wikipedia.org/wiki/河村智康 "wikilink")
 3.  　NEOPHILIA（OFF VOCAL)
 4.  　forget me nots...（OFF VOCAL)
 

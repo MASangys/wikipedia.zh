@@ -16,12 +16,14 @@ more](../Page/No_more.md "wikilink")》則為第三張）。
 
 1.  妖 ～Ayakashi～
       -
-        （作詞:[白井裕紀](../Page/白井裕紀.md "wikilink")/[新美香](../Page/新美香.md "wikilink")
-        作曲:堂本光一 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")）
+        （作詞:[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")/[新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")
+        作曲:堂本光一
+        編曲:[CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")）
 2.  Awaken Yourself
       -
-        （作詞:[白井裕紀](../Page/白井裕紀.md "wikilink")/[新美香](../Page/新美香.md "wikilink")
-        作曲:堂本光一 編曲:[加藤裕介](../Page/加藤裕介_\(作曲家\).md "wikilink")）
+        （作詞:[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")/[新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")
+        作曲:堂本光一
+        編曲:[加藤裕介](https://zh.wikipedia.org/wiki/加藤裕介_\(作曲家\) "wikilink")）
 
 ### 普通初回版
 
@@ -29,8 +31,8 @@ more](../Page/No_more.md "wikilink")》則為第三張）。
 2.  Awaken Yourself
 3.  Falling -2009-
       -
-        （作詞:[相田毅](../Page/相田毅.md "wikilink") 作曲:堂本光一
-        編曲:[岩田雅之](../Page/岩田雅之.md "wikilink")）
+        （作詞:[相田毅](https://zh.wikipedia.org/wiki/相田毅 "wikilink") 作曲:堂本光一
+        編曲:[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")）
 4.  妖 ～Ayakashi～ (Backing Track with Koichi's Chorus)
 
 ### 普通版
@@ -40,8 +42,10 @@ more](../Page/No_more.md "wikilink")》則為第三張）。
 3.  Falling -2009-
 4.  Peaceful World -2009-
       -
-        （作詞・作曲:堂本光一 編曲:[佐藤泰將](../Page/佐藤泰將.md "wikilink")）
-        此曲為[KinKi Kids的專輯](../Page/KinKi_Kids.md "wikilink")｢[C
+        （作詞・作曲:堂本光一
+        編曲:[佐藤泰將](https://zh.wikipedia.org/wiki/佐藤泰將 "wikilink")）
+        此曲為[KinKi
+        Kids的專輯](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")｢[C
         album](../Page/C_album.md "wikilink")｣裡的曲子重新編曲後的版本。
 
 [Category:堂本光一歌曲](https://zh.wikipedia.org/wiki/Category:堂本光一歌曲 "wikilink")

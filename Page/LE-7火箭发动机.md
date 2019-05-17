@@ -1,6 +1,6 @@
 [LE-7_rocket_engine.jpg](https://zh.wikipedia.org/wiki/File:LE-7_rocket_engine.jpg "fig:LE-7_rocket_engine.jpg")
 
-**LE-7火箭发动机**及其改进型LE-7A是[日本为](../Page/日本.md "wikilink")[H2火箭系列制造的液態氢氧发动机](../Page/H2火箭.md "wikilink")。是第一种第一级主引擎。设计研发工作都在日本国内进行，由日本國家太空開發機構(NASDA)，航空宇宙技術研究所(NAL)，[三菱重工和](../Page/三菱重工.md "wikilink")[石川岛播磨重工业公司合力完成](../Page/IHI公司.md "wikilink")。NASDA和NAL已经合并为[JAXA](../Page/JAXA.md "wikilink")。设计主要由三菱重工完成，石川岛播磨提供涡轮泵。因为该发动机也称为“三菱重工
+**LE-7火箭发动机**及其改进型LE-7A是[日本为](../Page/日本.md "wikilink")[H2火箭系列制造的液態氢氧发动机](https://zh.wikipedia.org/wiki/H2火箭 "wikilink")。是第一种第一级主引擎。设计研发工作都在日本国内进行，由日本國家太空開發機構(NASDA)，航空宇宙技術研究所(NAL)，[三菱重工和](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")[石川岛播磨重工业公司合力完成](https://zh.wikipedia.org/wiki/IHI公司 "wikilink")。NASDA和NAL已经合并为[JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")。设计主要由三菱重工完成，石川岛播磨提供涡轮泵。因为该发动机也称为“三菱重工
 LE-7(A)”。
 
 LE-7的设计初衷是为H2火箭研制一个不可重用的高效中等尺寸发动机。
@@ -31,16 +31,16 @@ LE-7的设计初衷是为H2火箭研制一个不可重用的高效中等尺寸�
 
 ## LE-7A
 
-[thumb](../Page/file:Mitsubishi_LE-7A.JPG.md "wikilink")
-LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成本，增加可靠性和改善性能上有所增强。7A是随着[H-IIA火箭的诞生而设计的](../Page/H-IIA火箭.md "wikilink")。
+[thumb](https://zh.wikipedia.org/wiki/file:Mitsubishi_LE-7A.JPG "wikilink")
+LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成本，增加可靠性和改善性能上有所增强。7A是随着[H-IIA火箭的诞生而设计的](https://zh.wikipedia.org/wiki/H-IIA火箭 "wikilink")。
 
 ### 改进
 
-7A减少了[焊接部件](../Page/焊接.md "wikilink")，而更多采用[铸造部件](../Page/铸造.md "wikilink")。其成果的管道部分更坚固。燃料叶轮也被重新设计以应对可能出现的问题。氧化剂叶轮也被重新设计，更多是改进原有设计在低压进口时的低吸入性能，而非出于稳定性考虑。燃料涡轮泵的耐久性得到加强。对燃烧室/喷注器集成也进行一系列小改动，如减少喷注器组件数量，减小加工复杂度（成本），提高可靠性。所有的改进导致比冲下降到440秒，但成本下降，可靠性增强。
+7A减少了[焊接部件](../Page/焊接.md "wikilink")，而更多采用[铸造部件](https://zh.wikipedia.org/wiki/铸造 "wikilink")。其成果的管道部分更坚固。燃料叶轮也被重新设计以应对可能出现的问题。氧化剂叶轮也被重新设计，更多是改进原有设计在低压进口时的低吸入性能，而非出于稳定性考虑。燃料涡轮泵的耐久性得到加强。对燃烧室/喷注器集成也进行一系列小改动，如减少喷注器组件数量，减小加工复杂度（成本），提高可靠性。所有的改进导致比冲下降到440秒，但成本下降，可靠性增强。
 
 ### 新喷管设计
 
-新版本火箭发动机另有一种附加在原有短喷管上的[喷管延伸部的设计](../Page/火箭发动机喷管.md "wikilink")，用以提高性能。但装上喷管延伸部后，发动机遇到新的边缘过载问题，喷管不规则受热。这些问题严重到能在启动和停车时损伤[再生冷却管道和万向节传动机](../Page/再生冷却.md "wikilink")。设计人员运用[计算流动动力学](../Page/计算流动动力学.md "wikilink")(CFD)模拟并解决了这个问题，从而设计出新的长喷管，使用整体再生冷却。新喷管使用前，H-IIA已使用短喷管飞行了数次。\[1\]
+新版本火箭发动机另有一种附加在原有短喷管上的[喷管延伸部的设计](../Page/火箭发动机喷管.md "wikilink")，用以提高性能。但装上喷管延伸部后，发动机遇到新的边缘过载问题，喷管不规则受热。这些问题严重到能在启动和停车时损伤[再生冷却管道和万向节传动机](https://zh.wikipedia.org/wiki/再生冷却 "wikilink")。设计人员运用[计算流动动力学](https://zh.wikipedia.org/wiki/计算流动动力学 "wikilink")(CFD)模拟并解决了这个问题，从而设计出新的长喷管，使用整体再生冷却。新喷管使用前，H-IIA已使用短喷管飞行了数次。\[1\]
 
 ### LE-7A参数
 
@@ -74,10 +74,10 @@ LE-7A是LE-7的改进型，没有改变原有的基础设计。但7A在降低成
 
   - [液体火箭发动机](../Page/液体火箭发动机.md "wikilink")
   - [LE-5火箭发动机](../Page/LE-5火箭发动机.md "wikilink")
-  - [H2运载火箭](../Page/H2运载火箭.md "wikilink")
-  - [H2A运载火箭](../Page/H2A运载火箭.md "wikilink")
-  - [H2B运载火箭](../Page/H2B运载火箭.md "wikilink")
-  - [JAXA](../Page/JAXA.md "wikilink")
+  - [H2运载火箭](https://zh.wikipedia.org/wiki/H2运载火箭 "wikilink")
+  - [H2A运载火箭](https://zh.wikipedia.org/wiki/H2A运载火箭 "wikilink")
+  - [H2B运载火箭](https://zh.wikipedia.org/wiki/H2B运载火箭 "wikilink")
+  - [JAXA](https://zh.wikipedia.org/wiki/JAXA "wikilink")
 
 ## 参考
 

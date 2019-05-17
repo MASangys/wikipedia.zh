@@ -1,11 +1,11 @@
 **eMule Xtreme Mod**，简称**Xtreme
-Mod**、**Xtreme**或**XT**，是基于官方[eMule开发的一个](../Page/eMule.md "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](../Page/免费软件.md "wikilink")[P2P](../Page/P2P.md "wikilink")[文件共享软件](../Page/文件共享.md "wikilink")。它是一个[eMule
-Mod](../Page/eMule_Mod.md "wikilink")，遵循GNU
-[GPL协议](../Page/GPL.md "wikilink")。
+Mod**、**Xtreme**或**XT**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule
+Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
+[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 Xtreme是用户最多的eMule
 Mods之一。截止2009年9月，在[SourceForge上](../Page/SourceForge.md "wikilink")，Xtreme是下载数最多的[eMule
-Mod](../Page/eMule_Mod.md "wikilink")\[1\]，它也是较权威的eMule
+Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")\[1\]，它也是较权威的eMule
 Mods发布站点emule-mods.de上评分最高的eMule Mod\[2\]。
 
 ## 历史
@@ -25,7 +25,7 @@ Mod大约于2004年开始开发，其原作者是[德国的](../Page/德国.md "
   - 2007年8月，Xman发布了Xtreme
     6.1版本之后与eMule官方论坛的程序员失去了联系。原官方网站[xtreme-mod.net](http://www.xtreme-mod.net/)除Xman之外无人拥有权限，因此该网站现已停止维护\[3\]，提供的下载也停留在Xtreme
     6.1和DLP
-    v31上。于是，[中国程序员zz](../Page/中国.md "wikilink")_fly和德国程序员、[StulleMule等Mods的作者Stulle接手了Xtreme项目](../Page/eMule_StulleMule_Mod.md "wikilink")，并于2008年9月28日发布了Xtreme
+    v31上。于是，[中国程序员zz](https://zh.wikipedia.org/wiki/中国 "wikilink")_fly和德国程序员、[StulleMule等Mods的作者Stulle接手了Xtreme项目](https://zh.wikipedia.org/wiki/eMule_StulleMule_Mod "wikilink")，并于2008年9月28日发布了Xtreme
     7.0。Stulle拥有SourceForge上Xtreme项目的权限，可继续更新。现在的Xtreme官方发布于[SourceForge上的Xtreme项目页](http://sourceforge.net/projects/emulextreme/)上。
 
 <!-- end list -->
@@ -49,13 +49,13 @@ eMule Xtreme Mod的主要功能，除了官方eMule所有的功能外还有：
 ### DLP
 
 DLP（全称：，中文：动态反吸血驴保护）是eMule Xtreme
-Mod的原作者Xman为Xtreme原创开发的动态反吸血驴组件。用于辅助检测并屏蔽吸血驴，从Xtreme4.5版开始使用，Xtreme的DLP库也被认为是官方DLP库，至今一直在更新。目前支持DLP且默认使用官方DLP库的有Xtreme、[MagicAngel](../Page/eMule_MagicAngel_Mod.md "wikilink")、[ScarAngel](../Page/eMule_ScarAngel_Mod.md "wikilink")、[Mephisto](../Page/eMule_Mephisto_Mod.md "wikilink")、[X-Ray](../Page/eMule_X-Ray_Mod.md "wikilink")、[StulleMule](../Page/eMule_StulleMule_Mod.md "wikilink")、[NeoMule](../Page/eMule_NeoMule_Mod.md "wikilink")（非完全）、[CN](../Page/eMule_CN_Mod.md "wikilink")、[DreaMule等Mod](../Page/eMule_DreaMule_Mod.md "wikilink")。
+Mod的原作者Xman为Xtreme原创开发的动态反吸血驴组件。用于辅助检测并屏蔽吸血驴，从Xtreme4.5版开始使用，Xtreme的DLP库也被认为是官方DLP库，至今一直在更新。目前支持DLP且默认使用官方DLP库的有Xtreme、[MagicAngel](https://zh.wikipedia.org/wiki/eMule_MagicAngel_Mod "wikilink")、[ScarAngel](https://zh.wikipedia.org/wiki/eMule_ScarAngel_Mod "wikilink")、[Mephisto](https://zh.wikipedia.org/wiki/eMule_Mephisto_Mod "wikilink")、[X-Ray](https://zh.wikipedia.org/wiki/eMule_X-Ray_Mod "wikilink")、[StulleMule](https://zh.wikipedia.org/wiki/eMule_StulleMule_Mod "wikilink")、[NeoMule](https://zh.wikipedia.org/wiki/eMule_NeoMule_Mod "wikilink")（非完全）、[CN](https://zh.wikipedia.org/wiki/eMule_CN_Mod "wikilink")、[DreaMule等Mod](https://zh.wikipedia.org/wiki/eMule_DreaMule_Mod "wikilink")。
 
 ## 参见
 
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
-  - [eMule](../Page/eMule.md "wikilink")
-  - [eMule Mod](../Page/eMule_Mod.md "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
+  - [eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")
+  - [eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")
   - [吸血驴](../Page/吸血驴.md "wikilink")
   - [动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")
 

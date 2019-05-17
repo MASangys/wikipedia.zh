@@ -11,7 +11,7 @@
 ## 作品一覧
 
 本段記述Cocktail soft1987年到2000年組織改編以前的遊戲。2001年以後的遊戲請參照[F\&C\#COCKTAIL
-SOFT](../Page/F&C#COCKTAIL_SOFT（カクテル・ソフト）.md "wikilink")。
+SOFT](https://zh.wikipedia.org/wiki/F&C#COCKTAIL_SOFT（カクテル・ソフト） "wikilink")。
 
 ### 系列
 
@@ -22,7 +22,7 @@ SOFT](../Page/F&C#COCKTAIL_SOFT（カクテル・ソフト）.md "wikilink")。
       - 1991年8月10日 - CANCAN BUNNY SPIRITS
       - 1992年7月30日 - CANCAN BUNNY Première
           - 1996年1月26日 - CANCAN BUNNY Première/SPIRITS（[FM
-            TOWNS版](../Page/FM_TOWNS.md "wikilink")）
+            TOWNS版](https://zh.wikipedia.org/wiki/FM_TOWNS "wikilink")）
           - 1996年11月22日 - CANCAN BUNNY Première（Windows版）
       - 1993年6月25日 - CANCAN BUNNY EXTRA
       - 1994年11月11日 - CANCAN BUNNY LIMITED 5 1/2
@@ -86,7 +86,7 @@ SOFT](../Page/F&C#COCKTAIL_SOFT（カクテル・ソフト）.md "wikilink")。
       - 1997年10月31日 - [歡迎來到Pia
         Carrot\!\!2](../Page/歡迎來到Pia_Carrot!!2.md "wikilink")
       - 1998年10月30日 -
-        [ぴあきゃろTOYBOX](../Page/Piaキャロットへようこそ!!2#ぴあきゃろTOYBOX.md "wikilink")
+        [ぴあきゃろTOYBOX](https://zh.wikipedia.org/wiki/Piaキャロットへようこそ!!2#ぴあきゃろTOYBOX "wikilink")
       - 1999年8月12日 - 歡迎來到Pia Carrot\!\! 1・2・TB
 
 <!-- end list -->
@@ -125,7 +125,8 @@ SOFT](../Page/F&C#COCKTAIL_SOFT（カクテル・ソフト）.md "wikilink")。
   - 1995年7月25日 -
   - 1996年1月26日 -
   - 1996年6月28日 -
-  - 2000年4月7日 - [公主的回憶](../Page/公主的回憶.md "wikilink")（）
+  - 2000年4月7日 -
+    [公主的回憶](https://zh.wikipedia.org/wiki/公主的回憶 "wikilink")（）
   - 2000年8月11日 -
 
 ## 相關條目

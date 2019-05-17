@@ -1,11 +1,11 @@
 **Real-Us**（或Real-US）是一隊[澳門三人唱作組合](../Page/澳門.md "wikilink")，於2003年組成。三位成員以往均為[澳門培正中學之學生](../Page/澳門培正中學.md "wikilink")，早在小學及初中期間認識，再組成Real-Us。
 組合的歌曲通常以英文作主導。Real-Us於2004年以《Come and Gone》一曲參加第二屆《澳廣視至愛新聽力
-》原創歌曲比賽，需未獲選決賽，但被澳門唱片品牌[輝佳音樂](../Page/輝佳音樂.md "wikilink")
+》原創歌曲比賽，需未獲選決賽，但被澳門唱片品牌[輝佳音樂](https://zh.wikipedia.org/wiki/輝佳音樂 "wikilink")
 (Vocanimals Music)
 發掘，並簽約為公司旗下唱作組合，並於2006年正式解約。解約後的Real-Us在音樂上經過兩年休止期。在2008年，憑英文單曲《Drive》入選第六屆《澳廣視至愛新聽力
 》決賽及香港Yahoo\!Music
 及[伯樂音樂學院合辦之](../Page/伯樂音樂學院.md "wikilink")《尋找音樂人創作大賽》決賽。《Drive》更被重新填上中文歌詞
-(名為《界限》)，並收錄在[澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](../Page/回問.md "wikilink")》合輯內。
+(名為《界限》)，並收錄在[澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》合輯內。
 
 ## 組合成員
 
@@ -38,8 +38,8 @@ me》一曲，而組合概念跟名字結合，就是"真我".
   - [澳門創意空間](http://www.creativemacau.org.mo/)之 《Vocanimals Life -
     Acoustic movement》工作坊 表演嘉賓
   - [澳門搖滾藍圖 (M-Rock)](http://www.m-rock.net) 主辦 《靜態音樂會》 表演嘉賓
-  - [澳門教育暨青年局主辦](../Page/澳門教育暨青年局.md "wikilink") 《第二屆澳門新秀歌唱大賽 - 創作組決賽》
-    表演嘉賓
+  - [澳門教育暨青年局主辦](https://zh.wikipedia.org/wiki/澳門教育暨青年局 "wikilink")
+    《第二屆澳門新秀歌唱大賽 - 創作組決賽》 表演嘉賓
 
 **2006年**
 
@@ -48,14 +48,14 @@ me》一曲，而組合概念跟名字結合，就是"真我".
 
 **2008年**
 
-  - [第六屆《澳廣視至愛新聽力》原創歌曲比賽](../Page/:澳廣視至愛新聽力頒獎音樂會#.E7.AC.AC.E5.85.AD.E5.B1.86.md "wikilink")
+  - [第六屆《澳廣視至愛新聽力》原創歌曲比賽](https://zh.wikipedia.org/wiki/:澳廣視至愛新聽力頒獎音樂會#.E7.AC.AC.E5.85.AD.E5.B1.86 "wikilink")
     參賽單位並入選決賽
   - 香港 Yahoo\! Music, [伯樂音樂學院](../Page/伯樂音樂學院.md "wikilink") 合辦
     《尋找音樂人創作大賽》 參賽單位並入選決賽
 
 **2009年**
 
-  - [澳門創作人協會之年度項目](../Page/澳門創作人協會.md "wikilink")《[回問](../Page/回問.md "wikilink")》發佈演唱會
+  - [澳門創作人協會之年度項目](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》發佈演唱會
 
 **2010年**
 
@@ -63,7 +63,7 @@ me》一曲，而組合概念跟名字結合，就是"真我".
 
 **2014年**
 
-  - [澳門旅遊局及](../Page/澳門旅遊局.md "wikilink")[澳門青年聯合會合辦之](../Page/澳門青年聯合會.md "wikilink")
+  - [澳門旅遊局及](https://zh.wikipedia.org/wiki/澳門旅遊局 "wikilink")[澳門青年聯合會合辦之](https://zh.wikipedia.org/wiki/澳門青年聯合會 "wikilink")
     《齊齊樂唱南西灣》表演嘉賓
 
 ## 曾參與專輯
@@ -74,7 +74,7 @@ me》一曲，而組合概念跟名字結合，就是"真我".
 
 **2009年**
 
-  - [澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](../Page/回問.md "wikilink")》CD/DVD音樂合輯
+  - [澳門創作人協會](../Page/澳門創作人協會.md "wikilink")《[回問](https://zh.wikipedia.org/wiki/回問 "wikilink")》CD/DVD音樂合輯
     (歌曲: 界限)
 
 ## 資料來源

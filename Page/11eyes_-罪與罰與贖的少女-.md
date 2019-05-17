@@ -1,7 +1,7 @@
 《**11eyes
--罪與罰與贖的少女-**》（），是2008年4月25日[Lass所發售的第](../Page/Lass.md "wikilink")4套18禁遊戲。在同一時間內，用不同角色來描述故事（也就是使用新系統「多重視角模式(cross
-vision)」），讓玩家對故事有更深入的了解。Lass剛開始製作時，只使用單一主角的視角編寫，之後逐一增加，造成本作品主角的視角設定呈現。世界觀一部份的設定，是承接[Lass的前一個作品](../Page/Lass.md "wikilink")[3days
-〜満ちてゆく刻の彼方で〜](../Page/3days_〜満ちてゆく刻の彼方で〜.md "wikilink")。
+-罪與罰與贖的少女-**》（），是2008年4月25日[Lass所發售的第](https://zh.wikipedia.org/wiki/Lass "wikilink")4套18禁遊戲。在同一時間內，用不同角色來描述故事（也就是使用新系統「多重視角模式(cross
+vision)」），讓玩家對故事有更深入的了解。Lass剛開始製作時，只使用單一主角的視角編寫，之後逐一增加，造成本作品主角的視角設定呈現。世界觀一部份的設定，是承接[Lass的前一個作品](https://zh.wikipedia.org/wiki/Lass "wikilink")[3days
+〜満ちてゆく刻の彼方で〜](https://zh.wikipedia.org/wiki/3days_〜満ちてゆく刻の彼方で〜 "wikilink")。
 
 2009年4月2日，[5pb.推出Xbox](../Page/5pb..md "wikilink") 360版《**11eyes
 CrossOver**》。
@@ -230,7 +230,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     生日：1月11日，身高：159cm，體重：50kg，三圍：B85/W60/H86。
-    虹陵館學園2年A組、與驅和修是同班同學。超喜歡說話。超喜歡流行。超喜歡購物。學習不大在行，非常喜愛[Arcanum∵Animus遊戲](../Page/Arcanum∵Animus.md "wikilink")，並且有「新綾女莉絲」的稱號。
+    虹陵館學園2年A組、與驅和修是同班同學。超喜歡說話。超喜歡流行。超喜歡購物。學習不大在行，非常喜愛[Arcanum∵Animus遊戲](https://zh.wikipedia.org/wiki/Arcanum∵Animus "wikilink")，並且有「新綾女莉絲」的稱號。
     所謂的普通妙齡少女女學生。跟誰都能立刻好上，直到嘴巴累了的時候她才會停止說話。
     在班上是麻煩製作者。特別跟同班男生照屋匡是漫才組合，每一天都要給予說黃色笑話的匡鐵拳制裁。
     與驅跟修都是好朋友， 在不怎麼說話的驅轉校進來以後，為了讓無法融入班集體的驅早點解除顧慮，與匡一起幫助著驅。
@@ -317,7 +317,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 ### 教皇廳・[禁書目錄聖省](../Page/禁書目錄.md "wikilink")「Index」
 
   -
-    魔術世界上最大的組織，設在[梵蒂岡](../Page/梵蒂岡.md "wikilink")，在地下的圖書館理，封鎖著極度危險的魔法禁書。有位館員說，裡面的書表面上是被摧毀，但實際上卻繼續保存下去。如果使用書中的力量，一個國家就很容易被摧毀，容易受到政治和戰爭操弄
+    魔術世界上最大的組織，設在[梵蒂岡](https://zh.wikipedia.org/wiki/梵蒂岡 "wikilink")，在地下的圖書館理，封鎖著極度危險的魔法禁書。有位館員說，裡面的書表面上是被摧毀，但實際上卻繼續保存下去。如果使用書中的力量，一個國家就很容易被摧毀，容易受到政治和戰爭操弄
     。禁書目録聖省的信使都不表示他們的姓名 而使用的偉大的聖人的名字，並作為他們的聖名。
 
 <!-- end list -->
@@ -330,7 +330,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
     在關於使命或是工作上的對話時，會在溫柔中帶入自己的嚴格，經常給予一種把對方的不誠實硬揪出來的印象。
     她是擁有終極魔具、在太古之時碎裂的「翠玉碑」碎片中最大一塊的「神名碑」持有者。
     擁有不死之身，雖然與莉潔羅堤獲得不死之身的原因不同，她曾經吃下了她老師的血肉，昇華為「現象」一般的存在。同時還是在眾多的平行世界中，唯一有統一存在的人。
-    真名為瑪利亞，曾當[阿波羅尼奧斯和故事中一名被釘上十字架後死亡](../Page/阿波羅尼奧斯.md "wikilink")，其後復活的人的學生。
+    真名為瑪利亞，曾當[阿波羅尼奧斯和故事中一名被釘上十字架後死亡](https://zh.wikipedia.org/wiki/阿波羅尼奧斯 "wikilink")，其後復活的人的學生。
 
 <!-- end list -->
 
@@ -356,7 +356,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 ### 「Index」聖省十四聖
 
   -
-    被[教廷所認定的](../Page/教廷.md "wikilink")[聖人有數百人](../Page/聖人.md "wikilink")，其中特別重要的是被稱為「救難十四聖（[十四救難聖人](../Page/十四救難聖人.md "wikilink")）」，的十四位聖人，只有在禁書目錄聖省之中最高實力的[宗徒才能得到這個稱號](../Page/宗徒.md "wikilink")，也就是聖省中的幹部。其地位與權力只低於，禁書圖書館的館長「聖筆之熱羅尼莫（[聖熱羅尼莫](../Page/聖熱羅尼莫.md "wikilink")）」，以及最高階位「[教宗](../Page/教宗.md "wikilink")」本人。
+    被[教廷所認定的](../Page/教廷.md "wikilink")[聖人有數百人](https://zh.wikipedia.org/wiki/聖人 "wikilink")，其中特別重要的是被稱為「救難十四聖（[十四救難聖人](https://zh.wikipedia.org/wiki/十四救難聖人 "wikilink")）」，的十四位聖人，只有在禁書目錄聖省之中最高實力的[宗徒才能得到這個稱號](https://zh.wikipedia.org/wiki/宗徒 "wikilink")，也就是聖省中的幹部。其地位與權力只低於，禁書圖書館的館長「聖筆之熱羅尼莫（[聖熱羅尼莫](https://zh.wikipedia.org/wiki/聖熱羅尼莫 "wikilink")）」，以及最高階位「[教宗](../Page/教宗.md "wikilink")」本人。
     而目前擁有那些名字的聖省十四聖為：
 
 <!-- end list -->
@@ -373,11 +373,11 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
 <!-- end list -->
 
-  - 車輪之加大肋納（[亞歷山大的加大肋納](../Page/亞歷山大的加大肋納.md "wikilink")）
+  - 車輪之加大肋納（[亞歷山大的加大肋納](https://zh.wikipedia.org/wiki/亞歷山大的加大肋納 "wikilink")）
 
 <!-- end list -->
 
-  - 鐵腕之基道霍（[聖基道霍](../Page/聖基道霍.md "wikilink")）
+  - 鐵腕之基道霍（[聖基道霍](https://zh.wikipedia.org/wiki/聖基道霍 "wikilink")）
 
 <!-- end list -->
 
@@ -397,7 +397,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
 <!-- end list -->
 
-  - 彩虹之哲我爾爵（[聖喬治](../Page/聖喬治.md "wikilink")）
+  - 彩虹之哲我爾爵（[聖喬治](https://zh.wikipedia.org/wiki/聖喬治 "wikilink")）
 
 <!-- end list -->
 
@@ -409,7 +409,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
 <!-- end list -->
 
-  - 銀刀之[龐大良](../Page/龐大良.md "wikilink")
+  - 銀刀之[龐大良](https://zh.wikipedia.org/wiki/龐大良 "wikilink")
 
 <!-- end list -->
 
@@ -418,7 +418,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    在魔術師當中被確認的只有三人分別是車輪之加大肋納、不朽之狄約尼削、青炎之厄辣斯莫，其他十四聖皆屬於傳說，因為在魔術師當中，遇到十四聖幾乎都是死路一條，因為禁書目錄聖省的目的是剷除[異端](../Page/異端.md "wikilink")，對於他們來說不服從他們的魔術師皆屬於異端，必須剷除。百野栞（）則是十四聖的[候選人之一](../Page/候選人.md "wikilink")。
+    在魔術師當中被確認的只有三人分別是車輪之加大肋納、不朽之狄約尼削、青炎之厄辣斯莫，其他十四聖皆屬於傳說，因為在魔術師當中，遇到十四聖幾乎都是死路一條，因為禁書目錄聖省的目的是剷除[異端](../Page/異端.md "wikilink")，對於他們來說不服從他們的魔術師皆屬於異端，必須剷除。百野栞（）則是十四聖的[候選人之一](https://zh.wikipedia.org/wiki/候選人 "wikilink")。
 
 ### Index 的討伐部隊
 
@@ -431,13 +431,12 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     禁書目録聖省，十四聖之一，黑騎士貪婪的真身。
-    名字也被翻譯為「彩虹 [聖喬治](../Page/聖喬治.md "wikilink")」，「彩虹
-    格奧爾格」，在禁書目錄聖省特別優秀的十四位使徒「十四聖」的其中一人，單以魔力而言，甚至僅次於「女教皇」穴倉
-    約翰娜的實力者。
+    名字也被翻譯為「彩虹 [聖喬治](https://zh.wikipedia.org/wiki/聖喬治 "wikilink")」，「彩虹
+    格奧爾格」，在禁書目錄聖省特別優秀的十四位使徒「十四聖」的其中一人，單以魔力而言，甚至僅次於「女教皇」穴倉 約翰娜的實力者。
     為了提升魔力，除了腦與部分重要器官外，全部都魔導義體化。擁有待彼甚寬，待己則嚴的性格。只要是為了Index的話，就算知道必然會死，也會賭上性命行動。
     在1945年的討伐戰中，在部下的使徒們犧牲之下，發動了契約之虹，雖然沒有完全消滅莉潔羅堤，但是成功封印。
     然而因為做出精靈神殿和發動契約之虹，生命力耗盡而殉職。雖然已過去半個世紀多，仍然沒有其他使徒可以繼承「虹 喬治」這個位置。
-    與表面魁梧印象不同，文學知識極為淵博。從[托馬斯·卡萊爾到](../Page/托馬斯·卡萊爾.md "wikilink")[约翰·拉斯金等等人物的作品都完全記於腦中](../Page/约翰·拉斯金.md "wikilink")，有時更會在談吐間引用。
+    與表面魁梧印象不同，文學知識極為淵博。從[托馬斯·卡萊爾到](https://zh.wikipedia.org/wiki/托馬斯·卡萊爾 "wikilink")[约翰·拉斯金等等人物的作品都完全記於腦中](../Page/约翰·拉斯金.md "wikilink")，有時更會在談吐間引用。
 
 <!-- end list -->
 
@@ -452,8 +451,8 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    黑騎士嫉妒的真身，為一名長髮女性。屬[科普特教](../Page/科普特教.md "wikilink")，[亞歷山大教會的古基督教教派](../Page/亞歷山大教會.md "wikilink")。是受[諾斯底主義影響的奧比斯教派幸存者](../Page/諾斯底主義.md "wikilink")。
-    於長年累月中，從[伊斯蘭教徒的迫害中守護當地](../Page/伊斯蘭教.md "wikilink")，作為「與福音共生之民」的科普特教和基督教信徒，殺害敵對之人。
+    黑騎士嫉妒的真身，為一名長髮女性。屬[科普特教](https://zh.wikipedia.org/wiki/科普特教 "wikilink")，[亞歷山大教會的古基督教教派](https://zh.wikipedia.org/wiki/亞歷山大教會 "wikilink")。是受[諾斯底主義影響的奧比斯教派幸存者](../Page/諾斯底主義.md "wikilink")。
+    於長年累月中，從[伊斯蘭教徒的迫害中守護當地](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，作為「與福音共生之民」的科普特教和基督教信徒，殺害敵對之人。
     教皇廳對此無法視而不見，並派出虹 喬治和聖骨 塞巴斯蒂安組成的討伐隊。
     當時與艾琳交戰的為塞巴斯蒂安，結果艾琳使出全力一擊仍未能擊敗塞巴斯蒂安，並且戰敗。
     自從這場敗北之後，開始對自己把一切都傾吐而出，但仍然全盤接受的聖骨 塞巴斯蒂安抱有感情，艾琳認定塞巴斯蒂安是自己的永恆伴侶。
@@ -464,7 +463,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
     黑騎士怠惰的真身之一。
     第二次世界大戰末期，為了消滅與Index對峙數個世紀的魔女莉潔羅堤，由十四聖之一的虹 喬治組織而成的少數精英成員之一。
     與妹妹書架
-    聖思嘉共同在[高加索山脈中](../Page/高加索山脈.md "wikilink")，嚴峻的[厄爾布魯士山中誕生](../Page/厄爾布魯士山.md "wikilink")。
+    聖思嘉共同在[高加索山脈中](https://zh.wikipedia.org/wiki/高加索山脈 "wikilink")，嚴峻的[厄爾布魯士山中誕生](https://zh.wikipedia.org/wiki/厄爾布魯士山 "wikilink")。
     現在只有頭部保持肉體，頭以下則換成在高速詠唱與發動攻擊魔術方面強化的義體。在聖省中可以說是實力數一數二的魔術師。帶有封印的魔書600本。持有奧義「萬魔圖書館」。
     作為禁書目錄聖省義體研究的成果，又同時制出與妹妹兩人搭乘的戰鬥特化用巨大義體「瓦斯提路基」。他們經常乘著「瓦斯提路基」戰鬥。
     這種以魔術在義體內部收納武器的技術，之後導入百野栞的義體「法蘭西奴」。
@@ -483,12 +482,12 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
     「戰槌」這聖名是因為使用特殊的戰鎚來戰鬥而得名。
     這戰鎚是禁書目錄聖省十四聖中的一人鐵腕 思篤給予之物。
     擁有超過2M的巨大身軀，在使徒中力氣可說數一數二。
-    在戰鬥中總是身處最前線，成為同伴們堅實的護盾。因此被人稱為「沙漠的[聖克里斯托弗](../Page/聖克里斯托弗.md "wikilink")」。
+    在戰鬥中總是身處最前線，成為同伴們堅實的護盾。因此被人稱為「沙漠的[聖克里斯托弗](https://zh.wikipedia.org/wiki/聖克里斯托弗 "wikilink")」。
     責任感強烈，愛護部下。同時擁有嚴格與溫柔，被眾人仰慕。與虹 喬治是摯友。力量已達到神話的領域。
     在1945年的討伐戰中，被虹 喬治任命為隊員。
     雖然英勇善戰，卻也在莉潔羅堤的力量之下戰死而殉職。
 
-### [魔術結社「圖勒(Thule)」](../Page/阿道夫·希特勒.md "wikilink")
+### [魔術結社「圖勒(Thule)」](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")
 
   -
     希特勒和神秘的政治家們所設立的「トゥーレ協會」的前身有著7個魔術師的秘密結社。
@@ -565,7 +564,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
     他拔出鉋切劈過去，就連鉋刀也一分為二，故名鉋切。後來變成織田信長的寶物，之後信長交給丹羽長秀。長秀在蒲生氏鄉結婚時轉交給他。氏鄉死後又交給大將軍。目前保存在德川美術館
   - 真打・童子切安綱
     童子切，天下五劍之一，跟大包平並稱日本刀東西兩大橫綱之作，為平安時代名刀匠大原安綱之作。後面提到的鬼切(髭切)跟蜘蛛切(膝丸/
-    薄祿)都是他的作品。傳說源氏的源賴光跟其四天王奉命討伐在京都大枝山作亂的酒呑童子(事實上是盜賊)，之後一刀砍下酒呑童子，故名童子切。後來成為足利幕府的寶刀。在[太閤秀吉](../Page/太閤秀吉.md "wikilink")、大將軍[德川家康等人手中流傳](../Page/德川家康.md "wikilink")。目前存放於東京博物館
+    薄祿)都是他的作品。傳說源氏的源賴光跟其四天王奉命討伐在京都大枝山作亂的酒呑童子(事實上是盜賊)，之後一刀砍下酒呑童子，故名童子切。後來成為足利幕府的寶刀。在[太閤秀吉](https://zh.wikipedia.org/wiki/太閤秀吉 "wikilink")、大將軍[德川家康等人手中流傳](../Page/德川家康.md "wikilink")。目前存放於東京博物館
   - 鬼切
     鬼切(髭切)刀匠是源賴光之父源滿仲(多田大權現)要求安綱打造的刀。本來叫髭切，因為在試刀時，一刀砍下犯人的鬍子而得名。在平家物語記載，賴光四天王的渡邊綱，在一條戾橋，砍下女妖怪的手臂，改名鬼切。到了源為義又改稱獅子之子。傳其子義朝(賴朝跟義經的父親)但是沒多久因連戰連敗，在夢中得到八幡神說該刀的力量已消失，要恢復力量就叫重新叫它為髭切。後來傳給賴朝時，重生的髭切帶領源氏打敗平氏，後來新田義貞消滅鎌倉幕府
     又傳到他手上，但是足利尊氏逼死新田義貞後又傳給了最上氏，目前保存在京都北野天滿宮
@@ -588,7 +587,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
   -
     被米歇爾·麥斯米里昂放置在莉潔蘿提·威爾克麥斯達的身體裡，因此莉潔蘿提擁有不老不死而且強大的魔力。
   -
-    曾经的擁有者之一**維拉德**，[亞歷山大大帝](../Page/亞歷山大大帝.md "wikilink")，[居魯士二世](../Page/居魯士二世.md "wikilink")，透克洛斯，，[所羅門王也是拥有者之一](../Page/所羅門王.md "wikilink")。據說是繼承了上千萬曾经拥有者的靈魂，所以才造就了擁有「未來視」。还可以引出这成千上万的灵魂拥有的知识和技能，运用一切看过的剑术和法术，十分强大，只是代價是在死的時候靈魂會被其所吞噬。
+    曾经的擁有者之一**維拉德**，[亞歷山大大帝](https://zh.wikipedia.org/wiki/亞歷山大大帝 "wikilink")，[居魯士二世](https://zh.wikipedia.org/wiki/居魯士二世 "wikilink")，透克洛斯，，[所羅門王也是拥有者之一](https://zh.wikipedia.org/wiki/所羅門王 "wikilink")。據說是繼承了上千萬曾经拥有者的靈魂，所以才造就了擁有「未來視」。还可以引出这成千上万的灵魂拥有的知识和技能，运用一切看过的剑术和法术，十分强大，只是代價是在死的時候靈魂會被其所吞噬。
   -
     由中國帶回日本的碎片，目前由日本的「靈能局」所保管，瓦爾達·迪特里希動身前往日本也是為了奪取這塊碎片。
   -
@@ -606,7 +605,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲．編曲：[Tatsh](../Page/Tatsh.md "wikilink")
+    作曲．編曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
@@ -616,9 +615,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[塩田幸成](../Page/塩田幸成.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[塩田幸成](https://zh.wikipedia.org/wiki/塩田幸成 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 <!-- end list -->
@@ -629,8 +628,8 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲：[Tatsh](../Page/Tatsh.md "wikilink")
-    編曲：[清水永之](../Page/清水永之.md "wikilink")
+    作曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
+    編曲：[清水永之](https://zh.wikipedia.org/wiki/清水永之 "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 ### Xbox360
@@ -641,7 +640,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲．編曲：[Tatsh](../Page/Tatsh.md "wikilink")
+    作曲．編曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
@@ -651,9 +650,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[塩田幸成](../Page/塩田幸成.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[塩田幸成](https://zh.wikipedia.org/wiki/塩田幸成 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 ### 動畫
@@ -664,7 +663,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲．編曲：[Tatsh](../Page/Tatsh.md "wikilink")
+    作曲．編曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
@@ -674,9 +673,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[村上純](../Page/村上純.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[村上純](https://zh.wikipedia.org/wiki/村上純 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 <!-- end list -->
@@ -686,7 +685,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作曲：[Tatsh](../Page/Tatsh.md "wikilink")
+    作曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
 
 ### PSP
 
@@ -696,7 +695,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲．編曲：[Tatsh](../Page/Tatsh.md "wikilink")
+    作曲．編曲：[Tatsh](https://zh.wikipedia.org/wiki/Tatsh "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
@@ -706,9 +705,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[村上純](../Page/村上純.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[村上純](https://zh.wikipedia.org/wiki/村上純 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 ### Resona Forma
@@ -719,8 +718,8 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
   -
     作詞：[彩音](../Page/彩音.md "wikilink")
-    作曲：[黒濑圭亮](../Page/黒濑圭亮.md "wikilink")
-    編曲：[IMAJO](../Page/IMAJO.md "wikilink")
+    作曲：[黒濑圭亮](https://zh.wikipedia.org/wiki/黒濑圭亮 "wikilink")
+    編曲：[IMAJO](https://zh.wikipedia.org/wiki/IMAJO "wikilink")
     歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
@@ -730,9 +729,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[塩田幸成](../Page/塩田幸成.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[塩田幸成](https://zh.wikipedia.org/wiki/塩田幸成 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 <!-- end list -->
@@ -742,9 +741,9 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 <!-- end list -->
 
   -
-    作詞：[KOKOMI](../Page/KOKOMI.md "wikilink")
-    作曲：[黑濑圭亮](../Page/黑濑圭亮.md "wikilink")
-    編曲：[塩田幸成](../Page/塩田幸成.md "wikilink")
+    作詞：[KOKOMI](https://zh.wikipedia.org/wiki/KOKOMI "wikilink")
+    作曲：[黑濑圭亮](https://zh.wikipedia.org/wiki/黑濑圭亮 "wikilink")
+    編曲：[塩田幸成](https://zh.wikipedia.org/wiki/塩田幸成 "wikilink")
     歌：[Asriel](../Page/Asriel.md "wikilink")
 
 ## 遊戲製作人員
@@ -759,10 +758,10 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
 ### 製作人員
 
-  - 監督：[下田正美](../Page/下田正美.md "wikilink")
-  - 系列構成：[金卷兼一](../Page/金卷兼一.md "wikilink")
+  - 監督：[下田正美](https://zh.wikipedia.org/wiki/下田正美 "wikilink")
+  - 系列構成：[金卷兼一](https://zh.wikipedia.org/wiki/金卷兼一 "wikilink")
   - 角色設定、總作畫監督：原将治
-  - 動畫製作：[動画工房](../Page/動画工房.md "wikilink")
+  - 動畫製作：[動画工房](https://zh.wikipedia.org/wiki/動画工房 "wikilink")
 
 ### 主題歌
 
@@ -906,7 +905,7 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 （OVA）</p></td>
 <td></td>
 <td><p>桃色幻夢譚</p></td>
-<td><p><a href="../Page/藤原良二.md" title="wikilink">藤原良二</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤原良二" title="wikilink">藤原良二</a></p></td>
 <td><p>高村雄太</p></td>
 <td><p>染畑吉</p></td>
 <td></td>
@@ -916,19 +915,19 @@ Forma-**》改為2011年[冬季](../Page/冬季.md "wikilink")（2011年3月25�
 
 ### 播放電視台
 
-| 播放地域                             | 電視台                                        | 系列                                     | 播放期間                 | 播放时间                |
-| -------------------------------- | ------------------------------------------ | -------------------------------------- | -------------------- | ------------------- |
-| [千葉縣](../Page/千葉縣.md "wikilink") | [千葉電視台](../Page/千葉電視台.md "wikilink")       | [獨立UHF局](../Page/獨立UHF局.md "wikilink") | 2009年10月6日 - 12月22日  | 星期二 25時00分 - 25時30分 |
-| [兵庫縣](../Page/兵庫縣.md "wikilink") | [SUN電視台](../Page/SUN電視台.md "wikilink")     | 星期二 26時10分 - 26時40分                    |                      |                     |
-| 中京廣域圈                            | [中京電視台](../Page/中京電視台.md "wikilink")       | [NNS](../Page/NNS.md "wikilink")       | 2009年10月7日 - 12月23日  | 星期三 27時12分 - 27時42分 |
-| [東京都](../Page/東京都.md "wikilink") | [TOKYO MX](../Page/TOKYO_MX.md "wikilink") | 獨立UHF局                                 | 2009年10月8日 - 12月24日  | 星期四 26時00分 - 26時30分 |
-| [埼玉縣](../Page/埼玉縣.md "wikilink") | [埼玉電視台](../Page/埼玉電視台.md "wikilink")       | 2009年10月9日 - 12月25日                    | 星期五 25時00分 - 25時30分  |                     |
-| 全國放送                             | AT-X                                       | [CS放送](../Page/衛星電視.md "wikilink")     | 2009年10月15日 - 12月31日 | 星期四 09時00分 - 09時30分 |
+| 播放地域                                                | 電視台                                                           | 系列                                                        | 播放期間                 | 播放时间                |
+| --------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- | -------------------- | ------------------- |
+| [千葉縣](../Page/千葉縣.md "wikilink")                    | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") | 2009年10月6日 - 12月22日  | 星期二 25時00分 - 25時30分 |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink") | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期二 26時10分 - 26時40分                                       |                      |                     |
+| 中京廣域圈                                               | [中京電視台](../Page/中京電視台.md "wikilink")                          | [NNS](https://zh.wikipedia.org/wiki/NNS "wikilink")       | 2009年10月7日 - 12月23日  | 星期三 27時12分 - 27時42分 |
+| [東京都](../Page/東京都.md "wikilink")                    | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 獨立UHF局                                                    | 2009年10月8日 - 12月24日  | 星期四 26時00分 - 26時30分 |
+| [埼玉縣](../Page/埼玉縣.md "wikilink")                    | [埼玉電視台](../Page/埼玉電視台.md "wikilink")                          | 2009年10月9日 - 12月25日                                       | 星期五 25時00分 - 25時30分  |                     |
+| 全國放送                                                | AT-X                                                          | [CS放送](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")     | 2009年10月15日 - 12月31日 | 星期四 09時00分 - 09時30分 |
 
 ## 漫畫
 
-[月刊コンプエース](../Page/月刊コンプエース.md "wikilink")2009年11月号連載預定開始。
-原作：Lass・漫畫：[綾野なおと](../Page/綾野なおと.md "wikilink")。
+[月刊コンプエース](https://zh.wikipedia.org/wiki/月刊コンプエース "wikilink")2009年11月号連載預定開始。
+原作：Lass・漫畫：[綾野なおと](https://zh.wikipedia.org/wiki/綾野なおと "wikilink")。
 目前已連載結束，全14話。（由[角川書店代理發行](../Page/角川書店.md "wikilink")）
 
 ## 相關產品發售訊息

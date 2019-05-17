@@ -1,25 +1,26 @@
-《**Help\!**》是[英國搖滾樂隊](../Page/英國.md "wikilink")[披頭四](../Page/披頭四.md "wikilink")，於1965年8月6日推出的第五張專輯\[1\]，也是樂隊在[北美推出的第十張專輯](../Page/北美.md "wikilink")（同名電影《[Help\!](../Page/Help!_\(電影\).md "wikilink")》的原聲大碟）\[2\]。音樂監製[乔治·马丁](../Page/乔治·马丁.md "wikilink")，為[EMI旗下唱片公司](../Page/EMI.md "wikilink")[Parlophone所錄製](../Page/Parlophone.md "wikilink")。內容包括原本英國版的十四首歌曲，其中七首為電影歌曲
+《**Help\!**》是[英國搖滾樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，於1965年8月6日推出的第五張專輯\[1\]，也是樂隊在[北美推出的第十張專輯](https://zh.wikipedia.org/wiki/北美 "wikilink")（同名電影《[Help\!](https://zh.wikipedia.org/wiki/Help!_\(電影\) "wikilink")》的原聲大碟）\[2\]。音樂監製[乔治·马丁](../Page/乔治·马丁.md "wikilink")，為[EMI旗下唱片公司](../Page/EMI.md "wikilink")[Parlophone所錄製](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。內容包括原本英國版的十四首歌曲，其中七首為電影歌曲
 -
-這些歌放在唱片的第一面，包括單曲《*[Help\!](../Page/Help!_\(歌曲\).md "wikilink")*》和《*[Ticket
+這些歌放在唱片的第一面，包括單曲《*[Help\!](https://zh.wikipedia.org/wiki/Help!_\(歌曲\) "wikilink")*》和《*[Ticket
 to
-Ride](../Page/Ticket_to_Ride_\(歌曲\).md "wikilink")*》；第二面則載有其他七首歌，包括有史以來[翻唱版本最多的歌曲](../Page/翻唱.md "wikilink")
-- 《*[Yesterday](../Page/Yesterday.md "wikilink")*》\[3\]。
+Ride](https://zh.wikipedia.org/wiki/Ticket_to_Ride_\(歌曲\) "wikilink")*》；第二面則載有其他七首歌，包括有史以來[翻唱版本最多的歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")
+-
+《*[Yesterday](https://zh.wikipedia.org/wiki/Yesterday "wikilink")*》\[3\]。
 
 ## 原聲音樂
 
-於[美國發行的是真正的](../Page/美國.md "wikilink")[原聲音樂專輯](../Page/原聲音樂.md "wikilink")，共有十二首歌曲，其中五首是[電影配樂](../Page/電影配樂.md "wikilink")；而其他七首英國版的歌曲，有兩首會放在美版的《[Rubber
-Soul](../Page/Rubber_Soul.md "wikilink")》專輯，另有兩首歌曲以[細碟形式在美國發行](../Page/細碟.md "wikilink")，而後來會出現在《Yesterday
+於[美國發行的是真正的](https://zh.wikipedia.org/wiki/美國 "wikilink")[原聲音樂專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，共有十二首歌曲，其中五首是[電影配樂](https://zh.wikipedia.org/wiki/電影配樂 "wikilink")；而其他七首英國版的歌曲，有兩首會放在美版的《[Rubber
+Soul](https://zh.wikipedia.org/wiki/Rubber_Soul "wikilink")》專輯，另有兩首歌曲以[細碟形式在美國發行](https://zh.wikipedia.org/wiki/細碟 "wikilink")，而後來會出現在《Yesterday
 and Today》專輯，及餘下三首歌已放在《Beatles VI》專輯內\[4\]。
 
-  - 同名电影《[Help\!](../Page/Help!_\(電影\).md "wikilink")》，在[德語地區的電影院放映時以](../Page/德語.md "wikilink")《Hi-Hi-Hilfe\!》作為标题\[5\]。
+  - 同名电影《[Help\!](https://zh.wikipedia.org/wiki/Help!_\(電影\) "wikilink")》，在[德語地區的電影院放映時以](https://zh.wikipedia.org/wiki/德語 "wikilink")《Hi-Hi-Hilfe\!》作為标题\[5\]。
 
 ## 唱片成績
 
-2012年，《[滚石杂志](../Page/滚石_\(杂志\).md "wikilink")》的“[史上最伟大五百张专辑](../Page/滚石杂志五百大专辑.md "wikilink")”名单把這专辑列在第331位\[6\]。2013年，[英國唱片業協會改變了他們的銷售獎勵規則](../Page/英國唱片業協會.md "wikilink")，宣布這張專輯已經達到[白金銷量](../Page/音樂唱片銷售認證.md "wikilink")\[7\]。
+2012年，《[滚石杂志](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》的“[史上最伟大五百张专辑](https://zh.wikipedia.org/wiki/滚石杂志五百大专辑 "wikilink")”名单把這专辑列在第331位\[6\]。2013年，[英國唱片業協會改變了他們的銷售獎勵規則](https://zh.wikipedia.org/wiki/英國唱片業協會 "wikilink")，宣布這張專輯已經達到[白金銷量](https://zh.wikipedia.org/wiki/音樂唱片銷售認證 "wikilink")\[7\]。
 
 ### 發行雷射唱片
 
-1987年4月30日，《Help\!》專輯正式發行[立體聲](../Page/立體聲.md "wikilink")[CD版](../Page/CD.md "wikilink")。以往這個專輯在美國只有進口版；1987年7月21日，唱片及卡式錄音帶亦都在美國國內發行。2009年9月9日，它連同披頭四其他的經典大碟，經過重新混音後，再度推出市面。這次發行的有[立體聲和](../Page/立體聲.md "wikilink")[單聲道CD兩個版本](../Page/單聲道.md "wikilink")\[8\]。
+1987年4月30日，《Help\!》專輯正式發行[立體聲](../Page/立體聲.md "wikilink")[CD版](../Page/CD.md "wikilink")。以往這個專輯在美國只有進口版；1987年7月21日，唱片及卡式錄音帶亦都在美國國內發行。2009年9月9日，它連同披頭四其他的經典大碟，經過重新混音後，再度推出市面。這次發行的有[立體聲和](../Page/立體聲.md "wikilink")[單聲道CD兩個版本](https://zh.wikipedia.org/wiki/單聲道 "wikilink")\[8\]。
 
 ## 英國版曲目
 

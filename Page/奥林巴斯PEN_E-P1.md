@@ -70,20 +70,20 @@ Olympus Pen E-P1 規格
 ## 其他使用Micro 4/3鏡系統的相機
 
   - [Panasonic・Lumix
-    DMC-G1](../Page/Panasonic・Lumix_DMC-G1.md "wikilink")
+    DMC-G1](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G1 "wikilink")
   - [Panasonic・Lumix
-    DMC-GH1](../Page/Panasonic・Lumix_DMC-GH1.md "wikilink")
+    DMC-GH1](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-GH1 "wikilink")
   - [Panasonic・Lumix
-    DMC-G10](../Page/Panasonic・Lumix_DMC-G10.md "wikilink")
+    DMC-G10](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G10 "wikilink")
   - [Panasonic・Lumix
-    DMC-G2](../Page/Panasonic・Lumix_DMC-G2.md "wikilink")
+    DMC-G2](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G2 "wikilink")
   - [Panasonic・Lumix
-    DMC-G20](../Page/Panasonic・Lumix_DMC-G20.md "wikilink")
+    DMC-G20](https://zh.wikipedia.org/wiki/Panasonic・Lumix_DMC-G20 "wikilink")
 
 ## 相关条目
 
-  - [无反光镜可换镜头相机](../Page/无反光镜可换镜头相机.md "wikilink")
-      - [微4/3系统](../Page/微4/3系统.md "wikilink")
+  - [无反光镜可换镜头相机](https://zh.wikipedia.org/wiki/无反光镜可换镜头相机 "wikilink")
+      - [微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")
           - '''奥林巴斯 PEN E-P1
 
 ## 参考与引用

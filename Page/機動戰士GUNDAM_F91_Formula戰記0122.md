@@ -1,9 +1,9 @@
 《**機動戰士GUNDAMF91 Formula戰記0122**》（機動戦士ガンダムF91
-フォーミュラー戦記0122）是[GUNDAM遊戲系列作品以遊戲形式在](../Page/GUNDAM系列作品.md "wikilink")[SFC推出](../Page/Super_Family_Computer.md "wikilink")，在1991年7月6日發售。之後由[岩村俊哉在講談社連載漫畫版](../Page/岩村俊哉.md "wikilink")。
+フォーミュラー戦記0122）是[GUNDAM遊戲系列作品以遊戲形式在](../Page/GUNDAM系列作品.md "wikilink")[SFC推出](https://zh.wikipedia.org/wiki/Super_Family_Computer "wikilink")，在1991年7月6日發售。之後由[岩村俊哉在講談社連載漫畫版](https://zh.wikipedia.org/wiki/岩村俊哉 "wikilink")。
 
 ## 故事背景
 
-[U.C.](../Page/宇宙世紀.md "wikilink")0122年，2年前在火星戰役中毀滅的[火星獨立自護軍再次在](../Page/火星獨立自護軍.md "wikilink")1年前重新整備武裝戰力，以亡靈姿態返回地球圈。[地球聯邦軍收到消息後立即編成反地球聯邦組織掃蕩部隊](../Page/地球聯邦軍.md "wikilink")，命令掃討殘黨和在各[宇宙殖民地調查](../Page/宇宙殖民地.md "wikilink")。當中第13反地球連邦組織討伐艦隊從運送中接收到高達F90後執行掃蕩殘黨的任務，從[SIDE
+[U.C.](../Page/宇宙世紀.md "wikilink")0122年，2年前在火星戰役中毀滅的[火星獨立自護軍再次在](https://zh.wikipedia.org/wiki/火星獨立自護軍 "wikilink")1年前重新整備武裝戰力，以亡靈姿態返回地球圈。[地球聯邦軍收到消息後立即編成反地球聯邦組織掃蕩部隊](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，命令掃討殘黨和在各[宇宙殖民地調查](../Page/宇宙殖民地.md "wikilink")。當中第13反地球連邦組織討伐艦隊從運送中接收到高達F90後執行掃蕩殘黨的任務，從[SIDE
 4出發](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")。
 
 ## 作品解說
@@ -16,8 +16,8 @@ F91的前半段故事色彩的內容配合](../Page/機動戰士GUNDAM_F91.md "w
 
 [GUNDAM系列作品中首次以原創遊戲故事作品也即是本作品](../Page/GUNDAM系列作品.md "wikilink")，以機械設定是[大河原邦男負責](../Page/大河原邦男.md "wikilink")，人物設定由[機動戰士GUNDAM0083
 STARDUST
-MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")、[機動戰士GUNDAM
-第08MS小隊的](../Page/機動戰士GUNDAM_第08MS小隊.md "wikilink")[川元利浩擔任](../Page/川元利浩.md "wikilink")，背景音樂由[富樫則彦擔當](../Page/富樫則彦.md "wikilink")。
+MEMORY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")、[機動戰士GUNDAM
+第08MS小隊的](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")[川元利浩擔任](../Page/川元利浩.md "wikilink")，背景音樂由[富樫則彦擔當](https://zh.wikipedia.org/wiki/富樫則彦 "wikilink")。
 
 同時，遊戲的發售期間在講談社的「高達雜誌」連載。
 
@@ -26,7 +26,7 @@ MEMORY](../Page/機動戰士GUNDAM0083_STARDUST_MEMORY.md "wikilink")、[機動�
 本故事有12個關卡只要在各關敵人的全滅，每關我方敵方的配置隨機在地圖上，當中遊戲沒有故事分歧。初期機體選擇只有高達F90 A型和高達F90
 D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇高達F91。
 
-當敵我在版圖上相遇會發生戰鬥畫面，在畫面右下側有雷達顯示，雷達顯示的紅點移動代表敵人移動，如果把敵人捕捉到V型範圍（按L、R鍵來轉方向）會稱作玩家機體能夠攻擊範圍裡會變成攻擊可能，在畫面左下側顯示機體利用十字鍵按鈕操作進行轉換武器攻擊（敵機被攻擊會在畫面右下側雷達顯示機體顏色以「白→黃→紅」的順序表示損壞的程度），前提要把敵人捕捉到V型範圍裡。當然敵人也能夠攻擊，只要在V型範圍捕捉前被敵人鎖上攻擊。當中敵軍小隊有隊長機體存在，先擊落隊長機體小隊指揮能力下降，會大幅降低隊員機體的命中率和回避率，隊長機體在雷達上會顯示大紅點。在武器方面，有效射程存在（分成近距離武器、中距離武器和遠距離武器）會提升命中率（實彈兵器命中率高，但有彈數限制。[光束兵器彈數無限](../Page/光束.md "wikilink")，但是命中率低），所以選擇適當的武器是必要，還有使用其他武器是根據往後的劇情追加。
+當敵我在版圖上相遇會發生戰鬥畫面，在畫面右下側有雷達顯示，雷達顯示的紅點移動代表敵人移動，如果把敵人捕捉到V型範圍（按L、R鍵來轉方向）會稱作玩家機體能夠攻擊範圍裡會變成攻擊可能，在畫面左下側顯示機體利用十字鍵按鈕操作進行轉換武器攻擊（敵機被攻擊會在畫面右下側雷達顯示機體顏色以「白→黃→紅」的順序表示損壞的程度），前提要把敵人捕捉到V型範圍裡。當然敵人也能夠攻擊，只要在V型範圍捕捉前被敵人鎖上攻擊。當中敵軍小隊有隊長機體存在，先擊落隊長機體小隊指揮能力下降，會大幅降低隊員機體的命中率和回避率，隊長機體在雷達上會顯示大紅點。在武器方面，有效射程存在（分成近距離武器、中距離武器和遠距離武器）會提升命中率（實彈兵器命中率高，但有彈數限制。[光束兵器彈數無限](https://zh.wikipedia.org/wiki/光束 "wikilink")，但是命中率低），所以選擇適當的武器是必要，還有使用其他武器是根據往後的劇情追加。
 
 本遊戲勝利條件：
 
@@ -57,7 +57,7 @@ D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇�
 宇宙編
 
   - ACT.01 啟動F90
-  - ACT.02 [拉格朗日點](../Page/拉格朗日點.md "wikilink")
+  - ACT.02 [拉格朗日點](https://zh.wikipedia.org/wiki/拉格朗日點 "wikilink")
   - ACT.03 [宇宙殖民星科隆](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")
   - ACT.04 重力底下
 
@@ -77,15 +77,15 @@ D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇�
 
 ## 登場人物
 
-### [地球連邦軍](../Page/地球連邦軍.md "wikilink")
+### [地球連邦軍](https://zh.wikipedia.org/wiki/地球連邦軍 "wikilink")
 
-### [ＯＭ軍](../Page/ＯＭ軍.md "wikilink")
+### [ＯＭ軍](https://zh.wikipedia.org/wiki/ＯＭ軍 "wikilink")
 
-### [死亡先鋒](../Page/死亡先鋒.md "wikilink")
+### [死亡先鋒](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")
 
 ## 登場機體
 
-### [地球連邦軍](../Page/地球連邦軍.md "wikilink")
+### [地球連邦軍](https://zh.wikipedia.org/wiki/地球連邦軍 "wikilink")
 
   - F90 高達F90
       - F90A 高達F90 A型
@@ -94,11 +94,11 @@ D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇�
       - F90P 高達F90 P型
       - F90V 高達F90 V型
   - F91 高達F91
-  - [RGM-89 積根](../Page/RGM-89系列機動戰士.md "wikilink")
+  - [RGM-89 積根](https://zh.wikipedia.org/wiki/RGM-89系列機動戰士 "wikilink")
   - RGM-109 希比根
   - F71 G大炮
 
-### [ＯＭ軍](../Page/ＯＭ軍.md "wikilink")
+### [ＯＭ軍](https://zh.wikipedia.org/wiki/ＯＭ軍 "wikilink")
 
   - OMS-06RF RF渣古
   - OMS-06RF 指揮官用RF渣古
@@ -111,16 +111,16 @@ D型的2種選擇，但去到ACT.06會追加高達F90 V型，ACT.09追加選擇�
   - OMS-14SRF 查理專用RF勇士
   - OMSM-07RF RF魔蟹
 
-### [死亡先鋒](../Page/死亡先鋒.md "wikilink")
+### [死亡先鋒](https://zh.wikipedia.org/wiki/死亡先鋒 "wikilink")
 
   - XM-01 迪拿祖
   - XM-04 比加達拉斯
 
 ## 漫畫版
 
-本遊戲的短篇漫畫版，[岩村俊哉在講談社的鋼彈雜誌分前後兩篇連載](../Page/岩村俊哉.md "wikilink")，遊戲和漫畫[機動戰士GUNDAM
+本遊戲的短篇漫畫版，[岩村俊哉在講談社的鋼彈雜誌分前後兩篇連載](https://zh.wikipedia.org/wiki/岩村俊哉 "wikilink")，遊戲和漫畫[機動戰士GUNDAM
 F90的設定有部份採用](../Page/機動戰士GUNDAM_F90.md "wikilink")，如高達F90
-H型，2006年收錄在高達雜誌名作集中，另一本漫畫版作者[井上大助在講談社連載不過沒有單行本](../Page/井上大助.md "wikilink")。
+H型，2006年收錄在高達雜誌名作集中，另一本漫畫版作者[井上大助在講談社連載不過沒有單行本](https://zh.wikipedia.org/wiki/井上大助 "wikilink")。
 
 ## 其他
 

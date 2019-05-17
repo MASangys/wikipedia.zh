@@ -1,6 +1,6 @@
 **Twinkle** 是一个基于 [JavaScript](../Page/JavaScript.md "wikilink")
 的工具，有助于提高编者的效率。关于 Twinkle
-的详细信息和安装方法，请参见[维基百科:Twinkle](../Page/维基百科:Twinkle.md "wikilink")。请注意，本地化的
+的详细信息和安装方法，请参见[维基百科:Twinkle](https://zh.wikipedia.org/wiki/维基百科:Twinkle "wikilink")。请注意，本地化的
 Twinkle 無法在 [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
 上運作。
 
@@ -9,22 +9,22 @@ Twinkle 無法在 [Internet Explorer](../Page/Internet_Explorer.md "wikilink")
 ## 安装
 
 安装 Twinkle
-很简单，请参考[维基百科:Twinkle中的指示](../Page/维基百科:Twinkle.md "wikilink")。
+很简单，请参考[维基百科:Twinkle中的指示](https://zh.wikipedia.org/wiki/维基百科:Twinkle "wikilink")。
 
 在您开始使用 Twinkle 前，您应该**认真阅读此页以了解 Twinkle 的功能及使用時機**。有许多的配置选项允许您更改 Twinkle
 的默认行为。
 
 **注意**：不要忘了，您对于 Twinkle
-所有操作造成的后果**负有责任**。您必须**[了解维基百科的方针与指引](../Page/WP:方针与指引.md "wikilink")**并且在方针的约束下使用
+所有操作造成的后果**负有责任**。您必须**[了解维基百科的方针与指引](https://zh.wikipedia.org/wiki/WP:方针与指引 "wikilink")**并且在方针的约束下使用
 Twinkle，否则您可能**会被封禁**。
 
 ### 练习使用Twinkle
 
 有几个沙盒能帮助您测试 Twinkle 的强大功能：
 
-  - 测试条目标记，请使用[沙盒](../Page/WP:SB.md "wikilink")。
+  - 测试条目标记，请使用[沙盒](https://zh.wikipedia.org/wiki/WP:SB "wikilink")。
   - 测试用户页相关功能（警告用户、以及
-    Talkback），请使用[用户讨论页警告沙盒](../Page/User_talk:Sandbox_for_user_warnings~zhwiki.md "wikilink")。
+    Talkback），请使用[用户讨论页警告沙盒](https://zh.wikipedia.org/wiki/User_talk:Sandbox_for_user_warnings~zhwiki "wikilink")。
 
 注意：请不要在上述沙盒执行**速删**、**提删**，或者**请求保护**的操作，因为这些会真的通知到管理员。并且，不要在沙盒页面进行**取消反链**的操作，因为这将移除所有到沙盒的链接。
 
@@ -35,18 +35,19 @@ Twinkle安装失败的可能原因：
   - 您必须已登录，并且至少获得[自动确认用户权限](https://zh.wikipedia.org/wiki/Wikipedia:用户权限级别 "wikilink")。
   - 您必须使用支持的浏览器，本地化的 Twinkle 不喜欢 Internet Explorer。
   - 如果您使用旧版本的
-    [Opera](../Page/Opera電腦瀏覽器.md "wikilink")、[Safari](../Page/Safari.md "wikilink")
+    [Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")、[Safari](../Page/Safari.md "wikilink")
     或者 [Firefox](../Page/Firefox.md "wikilink") 浏览器，请尝试启用 JavaScript
     标准库，位于系统设置页面的小工具选单中。
   - 安装之后，您可能需要清除您的浏览器缓存。
   - 如您进行了手动安装，需要提醒您 Twinkle 必须安装在[您的 **skin.js**
-    文件](../Page/Special:MyPage/skin.js.md "wikilink")（*不是* .css）中。
-  - 如果您没有使用小工具并更换了皮肤，请确保您的[脚本文件有导入](../Page/Special:MyPage/skin.js.md "wikilink")
+    文件](https://zh.wikipedia.org/wiki/Special:MyPage/skin.js "wikilink")（*不是*
+    .css）中。
+  - 如果您没有使用小工具并更换了皮肤，请确保您的[脚本文件有导入](https://zh.wikipedia.org/wiki/Special:MyPage/skin.js "wikilink")
     Twinkle 组件。
   - 如果您使用 Windows 且正在使用觸控螢幕，您可能需要長按 "TW" 按鈕來顯示選單。
 
 如果您尝试了上方的建议，但仍无法使用
-Twinkle，或者您发现有其他问题，请至[Twinkle工具讨论处](../Page/Wikipedia_talk:Twinkle.md "wikilink")。并且如有必要，请将问题发布于此。如果您要这样做，请提供以下信息：
+Twinkle，或者您发现有其他问题，请至[Twinkle工具讨论处](https://zh.wikipedia.org/wiki/Wikipedia_talk:Twinkle "wikilink")。并且如有必要，请将问题发布于此。如果您要这样做，请提供以下信息：
 
 1.  您看-{}-到了什么？
 2.  您希望看到什么？
@@ -57,7 +58,7 @@ Twinkle，或者您发现有其他问题，请至[Twinkle工具讨论处](../Pag
     控制台找到，复制相关的错误信息。以下是各浏览器错误控制台的位置：
       - [Firefox](../Page/Firefox.md "wikilink")：菜单→工具→故障控制台（或
         Firefox按钮→网络开发者→错误控制台）。您应该按位于上方的“错误”按钮来隐藏可以忽略的大量警告。
-      - [Opera](../Page/Opera電腦瀏覽器.md "wikilink")：菜单→页面→开发人员工具→错误控制台。
+      - [Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")：菜单→页面→开发人员工具→错误控制台。
       - [Chrome](../Page/Google_Chrome.md "wikilink")：页面菜单→开发人员→JavaScript
         控制台（Ctrl+Shift+J）。
       - [Safari](../Page/Safari.md "wikilink")：页面菜单→开发→显示错误控制台（Ctrl+Alt+C
@@ -91,14 +92,14 @@ Twinkle 的这个功能来提请速删。
 设置中修改。如果需要额外信息（比如说理由等等）时，Twinkle 可能会提示您。然后 Twinkle
 就會在页面上標示適合的速删模板。
 
-  - 如果您选中了**如果可能，通知页面创建者**，根據[快速删除守则](../Page/WP:快速删除守则.md "wikilink")，页面创建者將会收到警告模板。如果创建者的讨论页不存在，同时對方也会收到[欢迎訊息](../Page/Template:welcome.md "wikilink")（但會使用
+  - 如果您选中了**如果可能，通知页面创建者**，根據[快速删除守则](https://zh.wikipedia.org/wiki/WP:快速删除守则 "wikilink")，页面创建者將会收到警告模板。如果创建者的讨论页不存在，同时對方也会收到[欢迎訊息](https://zh.wikipedia.org/wiki/Template:welcome "wikilink")（但會使用
      模板）。在一般情况下，不用取消勾選“通知页面创建者”；然而，有时候必須考虑到，通知用户并不適合（參見
-    [:en:WP:DTTR](../Page/:en:WP:DTTR.md "wikilink")），所以要小心使用。
+    [:en:WP:DTTR](https://zh.wikipedia.org/wiki/:en:WP:DTTR "wikilink")），所以要小心使用。
   - **应用多个理由**
     选项位于窗口上方。当其被选中时，所有理由前的单选框将变为复选框，以便您标记多个理由。当标记完成后，点击「提交」将更改应用到页面中。
   - 在您的 Twinkle 设置中，您可以开启 CSD
     **用户空间日志**。此功能将在您的用户名字空间下记录您提报过的所有快速删除记录。由于已删除页面并不会出现在您的用户贡献中，所以非管理员用户仅能通过此方法来查看其标记过的快速删除页面，并检查其中有多少个已被删除。它也可用来检查被驳回的速删请求（页面内蓝色的连接），并从中提升您标记的质量。
-  - 在标记一个快速删除时，其页面默认**不会**加入到您的**监视列表**中。您可以在参数设置中启用它，或是选择在您使用哪些理由时才自動加入。另外，如果一個拥有[巡查权的用戶從](../Page/WP:PATROL.md "wikilink")[Special:最新页面進入條目](../Page/Special:最新页面.md "wikilink")，在标记速删时页面会默认地被标记为已巡查。当然，您也可以在参数设置中禁用它。
+  - 在标记一个快速删除时，其页面默认**不会**加入到您的**监视列表**中。您可以在参数设置中启用它，或是选择在您使用哪些理由时才自動加入。另外，如果一個拥有[巡查权的用戶從](https://zh.wikipedia.org/wiki/WP:PATROL "wikilink")[Special:最新页面進入條目](https://zh.wikipedia.org/wiki/Special:最新页面 "wikilink")，在标记速删时页面会默认地被标记为已巡查。当然，您也可以在参数设置中禁用它。
 
 #### 注意
 
@@ -132,7 +133,7 @@ Protection）**，此功能可用於请求保护或解除保護当前页面，�
 
 :\*勾選**使用图标（small=yes）**，這會在條目右上方顯示一個小鎖圖案來取代文字模板
 
-:\*選擇**用\<noinclude\>包裹保护模板**，以避免此頁面被[包含嵌入](../Page/WP:嵌入包含.md "wikilink")。
+:\*選擇**用\<noinclude\>包裹保护模板**，以避免此頁面被[包含嵌入](https://zh.wikipedia.org/wiki/WP:嵌入包含 "wikilink")。
 
 #### 注意
 
@@ -147,7 +148,8 @@ Protection）**，此功能可用於请求保护或解除保護当前页面，�
 XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是否应该被删除的场所的总称。您可以使用 Twinkle
 工具对任何页面快速地发起一个删除讨论。
 
-请参阅 [WP:XFD\#特别情况](../Page/WP:XFD#特别情况.md "wikilink") 來选择一个適合的討論空間。
+请参阅 [WP:XFD\#特别情况](https://zh.wikipedia.org/wiki/WP:XFD#特别情况 "wikilink")
+來选择一个適合的討論空間。
 
 一旦运行 XfD 工具，Twinkle
 會标记提删模板到页面上、創建删除讨论（这可能會建立一个新的存废讨论页面）、在页面创建者的討論頁上通知（如果您选择了此项）。
@@ -159,7 +161,7 @@ XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是�
 当选择了一个適合的讨论空間後，以下选项将会顯示：
 
   - 页面存废讨论（AfD，Article for Deletion）
-      - **使用\<noinclude\>包裹模板**：此选项几乎不常用到，除非页面被[嵌入包含](../Page/WP:嵌入包含.md "wikilink")；
+      - **使用\<noinclude\>包裹模板**：此选项几乎不常用到，除非页面被[嵌入包含](https://zh.wikipedia.org/wiki/WP:嵌入包含 "wikilink")；
       - **选择提删类别**：默认为「删除」，当您认为您提删的目的不是删除而另有其它方案时，更改此项；
           - **合并到**：当上一步的提删类别被选为「合并」时可用，在此填入當前條目需要合并到的目標条目。
   - 檔案存废讨论（FfD，File for Deletion）没有額外选项。
@@ -182,7 +184,7 @@ XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是�
 #### 管理员附加工具
 
 <s>Twinkle
-不包含供管理员关闭存废讨论的工具。如果您想使用这样的工具，请参见：[:en:User:Mr.Z-man/closeAFD](../Page/:en:User:Mr.Z-man/closeAFD.md "wikilink")。</s>
+不包含供管理员关闭存废讨论的工具。如果您想使用这样的工具，请参见：[:en:User:Mr.Z-man/closeAFD](https://zh.wikipedia.org/wiki/:en:User:Mr.Z-man/closeAFD "wikilink")。</s>
 
   - <https://github.com/jimmyxu/twinkle/blob/master/modules/twinkleclose.js>
 
@@ -195,7 +197,7 @@ XfD（**Anything for Deletion**）是维基百科内用来讨论某个页面是�
 
 [Twinkle-unlink.png](https://zh.wikipedia.org/wiki/File:Twinkle-unlink.png "fig:Twinkle-unlink.png")
 
-這個選項將會解除[反向連結](../Page/反向链接.md "wikilink")。**反向連結**指的是從其他页面指向一特定页面的連結。操作時會解除某些術語與这个特定頁面的連結，這通常在某一條目被快速刪除被使用，以避免不符關注度、破壞、或有其他問題的條目被重新建立。它可以避免刪除頁面後，在其他各條目看到大量紅字連結的情況。依據被刪除的條目，您有可能會想要或不想要解除反向連結。
+這個選項將會解除[反向連結](https://zh.wikipedia.org/wiki/反向链接 "wikilink")。**反向連結**指的是從其他页面指向一特定页面的連結。操作時會解除某些術語與这个特定頁面的連結，這通常在某一條目被快速刪除被使用，以避免不符關注度、破壞、或有其他問題的條目被重新建立。它可以避免刪除頁面後，在其他各條目看到大量紅字連結的情況。依據被刪除的條目，您有可能會想要或不想要解除反向連結。
 
 ### 标記
 
@@ -252,22 +254,22 @@ issues}}**"这个选项，那么 Twinkle 就会尝试将所有模版合併到
 先點擊**告狀**按鈕（這個按鈕只會在用戶空間時顯示），一個帶有以下選項的視窗將會出現：
 
   - 選擇報告類型：
-      - 破壞（WP:VIP）：如果該用戶時常破壞，您可以利用此功能將該用戶提報到[維基百科:當前的破壞](../Page/維基百科:當前的破壞.md "wikilink")。
+      - 破壞（WP:VIP）：如果該用戶時常破壞，您可以利用此功能將該用戶提報到[維基百科:當前的破壞](https://zh.wikipedia.org/wiki/維基百科:當前的破壞 "wikilink")。
           - 相關頁面：填入條目名稱，可留空（若留空則建議於下方說明提報理由）。
           - 受到破壞的修訂版本：填入遭破壞之版本編號。版本編號可由網址查看，為`oldid=`後的8碼數字。
           - 破壞前的修訂版本：填入正常版本之版本編號。
           - 並選擇提報理由：
               - 已发出最后（层级4或4im）警告、封禁过期后随即破坏、显而易见的纯破坏用户、显而易见的 spambot
                 或失窃账户、仅用来散发广告宣传的用户
-      - 用戶名（WP:UAA）：如果該用戶疑似違反[使用者名稱方針](../Page/WP:U.md "wikilink")，您可以利用此功能將該用戶提報到[維基百科:需要管理員注意的用戶名](../Page/維基百科:需要管理員注意的用戶名.md "wikilink")。
+      - 用戶名（WP:UAA）：如果該用戶疑似違反[使用者名稱方針](https://zh.wikipedia.org/wiki/WP:U "wikilink")，您可以利用此功能將該用戶提報到[維基百科:需要管理員注意的用戶名](https://zh.wikipedia.org/wiki/維基百科:需要管理員注意的用戶名 "wikilink")。
           - 選項包含：误导性用户名、宣传性用户名、暗示并非由一人拥有、侮辱性用户名、破坏性用户名。
       - 用戶查核 - 主帳戶（WP:RFCU）
       - 用戶查核 - 傀儡（WP:RFCU）
-          - 如果您懷疑某位用戶違反[傀儡方針](../Page/WP:MJ.md "wikilink")，您可以使用此二功能將該用戶提報到[維基百科:用戶查核請求](../Page/維基百科:用戶查核請求.md "wikilink")
+          - 如果您懷疑某位用戶違反[傀儡方針](https://zh.wikipedia.org/wiki/WP:MJ "wikilink")，您可以使用此二功能將該用戶提報到[維基百科:用戶查核請求](https://zh.wikipedia.org/wiki/維基百科:用戶查核請求 "wikilink")
               - 如果您懷疑此用戶濫用傀儡，請選擇**用戶查核 -
                 主帳戶（WP:RFCU）**並填入傀儡的用戶名稱。如果欄位不夠可以點擊**更多**按鈕來新增。
               - 如果您懷疑此用戶為其他用戶的傀儡，請選擇**用戶查核 - 傀儡（WP:RFCU）**並填入主帳戶的用戶名稱。
-          - 如果您選擇**通知相关用户**，會在所有提及用戶的討論頁上留下用戶查核的[通知訊息](../Page/T:Socksuspectnotice.md "wikilink")。
+          - 如果您選擇**通知相关用户**，會在所有提及用戶的討論頁上留下用戶查核的[通知訊息](https://zh.wikipedia.org/wiki/T:Socksuspectnotice "wikilink")。
   - 但小心，<u>若是你在你的用戶頁上執行</u>，會跳出**「你不想報告你自己，對吧？」**。
 
 ### 撤销与回退
@@ -279,7 +281,7 @@ issues}}**"这个选项，那么 Twinkle 就会尝试将所有模版合併到
 2.  <font color= #556B2F>**回退（AGF）**</font>：此选项放置在最新版本上，执行回退，编辑摘要包含
     [AGF](https://zh.wikipedia.org/wiki/Wikipedia:善意推定 "wikilink")
     也可以自定义。預設編輯摘要會填入「-{*回退XXX
-    (讨论)做出的出于[善意的编辑](https://zh.wikipedia.org/wiki/Wikipedia:善意推定 "wikilink")。*}-」。屏幕截图参见[英文维基图片](../Page/:en:File:Twinkle_AGF_edit_summary.png.md "wikilink")。
+    (讨论)做出的出于[善意的编辑](https://zh.wikipedia.org/wiki/Wikipedia:善意推定 "wikilink")。*}-」。屏幕截图参见[英文维基图片](https://zh.wikipedia.org/wiki/:en:File:Twinkle_AGF_edit_summary.png "wikilink")。
 3.  <font color=#6882B4>**回退**</font>：此选项放置在最新版本上，执行回退，要求输入编辑摘要。編輯摘要為「-{*回退到由XXX
     (讨论)做出的修订版本XXX：<理由>*}-。」
 4.  <font color=#FF0000>**回退（破坏）**</font>：此选项放置在最新版本上，执行回退。此種回退的編輯摘要會顯示「-{*回退XXX
@@ -314,17 +316,17 @@ diff across all namespaces.
 
 ## 设置
 
-最方便的设置Twinkle的方法是使用参数设置面板（见[维基百科:Twinkle/参数设置](../Page/维基百科:Twinkle/参数设置.md "wikilink")）。
+最方便的设置Twinkle的方法是使用参数设置面板（见[维基百科:Twinkle/参数设置](https://zh.wikipedia.org/wiki/维基百科:Twinkle/参数设置 "wikilink")）。
 
 ### 技术细节
 
 Twinkle 通过在
-[Special:MyPage/twinkleoptions.js](../Page/Special:MyPage/twinkleoptions.js.md "wikilink")
+[Special:MyPage/twinkleoptions.js](https://zh.wikipedia.org/wiki/Special:MyPage/twinkleoptions.js "wikilink")
 建立一个 [JSON](../Page/JSON.md "wikilink")
 文件来保存您的参数设置，在您每次载入页面时它会自动加载。（看起来这会损失部分性能，但是您的浏览器会自动缓存此文件，所以您不需要每次都下载这个文件。）
 
 如果参数设置面板工作异常，或者您想自行调整某些高级参数设定，您可以手动编辑
-[Special:MyPage/twinkleoptions.js](../Page/Special:MyPage/twinkleoptions.js.md "wikilink")。其格式如下（不精通
+[Special:MyPage/twinkleoptions.js](https://zh.wikipedia.org/wiki/Special:MyPage/twinkleoptions.js "wikilink")。其格式如下（不精通
 [JavaScript](../Page/JavaScript.md "wikilink") 的用户请格外注意）：
 
 ``` javascript
@@ -350,7 +352,7 @@ window.Twinkle.prefs = {
 These parameters are handy to tweak if your browser or network
 connection is struggling to perform operations without encountering
 database locks or network timeouts.
-高级参数不包含在[参数设置面板中](../Page/维基百科:Twinkle/参数设置.md "wikilink")。因此必须通过手动编辑[Special:MyPage/twinkleoptions.js来实现](../Page/Special:MyPage/twinkleoptions.js.md "wikilink")。
+高级参数不包含在[参数设置面板中](https://zh.wikipedia.org/wiki/维基百科:Twinkle/参数设置 "wikilink")。因此必须通过手动编辑[Special:MyPage/twinkleoptions.js来实现](https://zh.wikipedia.org/wiki/Special:MyPage/twinkleoptions.js "wikilink")。
 
 普通用户可设置以下参数：
 
@@ -396,7 +398,7 @@ The default location of the Twinkle menu items in the
 is in a drop-down menu; in all other skins they are displayed on the top
 row of tabs. If you like, you can change the location and layout of
 those items on your page by manually setting some options in [your
-twinkleoptions.js](../Page/Special:MyPage/twinkleoptions.js.md "wikilink"):
+twinkleoptions.js](https://zh.wikipedia.org/wiki/Special:MyPage/twinkleoptions.js "wikilink"):
 
 `"portletArea"`
 `"portletId"`
@@ -469,6 +471,7 @@ name displayed named along with the new menu, if applicable - in this
 case, "Twinkle".
 
 Ask for support at [the Twinkle talk
-page](../Page/WT:Twinkle.md "wikilink") if you're unsure what to change.
+page](https://zh.wikipedia.org/wiki/WT:Twinkle "wikilink") if you're
+unsure what to change.
 
 [Category:维基脚本](https://zh.wikipedia.org/wiki/Category:维基脚本 "wikilink")

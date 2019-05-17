@@ -2,10 +2,10 @@
 
 ## 参见
 
-  - [光学重力透镜实验](../Page/光学重力透镜实验.md "wikilink")
+  - [光学重力透镜实验](https://zh.wikipedia.org/wiki/光学重力透镜实验 "wikilink")
   - [大熊座47b](../Page/大熊座47b.md "wikilink")
   - [OGLE-2005-BLG-390Lb](../Page/OGLE-2005-BLG-390Lb.md "wikilink")
-  - [OGLE-2006-BLG-109Lb](../Page/OGLE-2006-BLG-109Lb.md "wikilink")
+  - [OGLE-2006-BLG-109Lb](https://zh.wikipedia.org/wiki/OGLE-2006-BLG-109Lb "wikilink")
 
 ## 参考文献
 

@@ -1,4 +1,4 @@
-**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](../Page/Windows.md "wikilink")[macOS的乐谱编辑软件](../Page/macOS.md "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML和标准的](../Page/MusicXML.md "wikilink")[MIDI文件](../Page/MIDI.md "wikilink")。打擊樂符號支持，是直接從程序印出。Linux
+**MuseScore**（中文有时译作：**繆斯樂譜**或**謬斯樂譜**）是一個用於[Linux](../Page/Linux.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS的乐谱编辑软件](https://zh.wikipedia.org/wiki/macOS "wikilink")。MuseScore是一個所見即所得的編輯器，完全支持樂譜播放和导入或导出[MusicXML和标准的](../Page/MusicXML.md "wikilink")[MIDI文件](../Page/MIDI.md "wikilink")。打擊樂符號支持，是直接從程序印出。Linux
 版本用[Kubuntu為發展平台](../Page/Kubuntu.md "wikilink")。
 
 該程序有一個乾淨的用戶界面，快速專注於編輯輸入類似step-time note entry。
@@ -6,14 +6,14 @@
 ## 功能
 
   - 支援多種語言，包含中文。
-  - 可以匯入[Overture之ove檔](../Page/Overture.md "wikilink")。
+  - 可以匯入[Overture之ove檔](https://zh.wikipedia.org/wiki/Overture "wikilink")。
   - 可從商業音樂排版軟件Band-in-a-Box輸入文件。
   - 支援用midi電子琴鍵盤輸入音高。
   - 支援以滑鼠點選的方式輸入音符。
   - 每個譜表最多支援4聲部。
   - 有**所見即所得**以及**即時播放**的功能。
-  - 文件可以[PDF](../Page/PDF.md "wikilink")、[MusicXML](../Page/MusicXML.md "wikilink")、[Postscript](../Page/Postscript.md "wikilink")、[PNG](../Page/PNG.md "wikilink")、[SVG](../Page/SVG.md "wikilink")。
-  - 可以[midi](../Page/midi.md "wikilink")、wave、[flac](../Page/flac.md "wikilink")、[ogg等音樂格式輸出](../Page/ogg.md "wikilink")。
+  - 文件可以[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[MusicXML](../Page/MusicXML.md "wikilink")、[Postscript](https://zh.wikipedia.org/wiki/Postscript "wikilink")、[PNG](../Page/PNG.md "wikilink")、[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")。
+  - 可以[midi](https://zh.wikipedia.org/wiki/midi "wikilink")、wave、[flac](https://zh.wikipedia.org/wiki/flac "wikilink")、[ogg等音樂格式輸出](https://zh.wikipedia.org/wiki/ogg "wikilink")。
   - 具Musescore Connect 窗格\[1\] ，可瀏覽開啟已出版的樂譜，或上傳自己的樂譜。
 
 ## 歷史

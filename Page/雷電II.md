@@ -1,4 +1,4 @@
-是由Seibu開發（）於1993年上市的縱向[捲軸射擊類型](../Page/捲軸射擊.md "wikilink")[街機遊戲](../Page/街機遊戲.md "wikilink")，[雷電系列的第二部作品](../Page/雷電系列.md "wikilink")，後來發售[Windows版](../Page/Windows.md "wikilink")。
+是由Seibu開發（）於1993年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第二部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")，後來發售[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 遊戲
 
@@ -91,7 +91,7 @@ BOSS為所有的水晶生命體大集合。
 
 ## 移植
 
-[PlayStation版由日本System](../Page/PlayStation.md "wikilink")（）在1995年1月27日發售收錄[雷電及雷電II的合集](../Page/雷電_\(遊戲\).md "wikilink")《雷電Project》（）。\[1\][Windows版在臺灣由](../Page/Windows.md "wikilink")[普威爾代理](../Page/普威爾.md "wikilink")。
+[PlayStation版由日本System](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（）在1995年1月27日發售收錄[雷電及雷電II的合集](../Page/雷電_\(遊戲\).md "wikilink")《雷電Project》（）。\[1\][Windows版在臺灣由](https://zh.wikipedia.org/wiki/Windows "wikilink")[普威爾代理](https://zh.wikipedia.org/wiki/普威爾 "wikilink")。
 
 ## 參考來源
 

@@ -1,22 +1,22 @@
-《**Morning**》為[香港](../Page/香港.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")[衛蘭第五張個人大碟](../Page/衛蘭.md "wikilink")，亦是她第一張英文大碟，於2009年7月3日推出\[1\]\[2\]\[3\]。全碟歌詞由A
+《**Morning**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭第五張個人大碟](../Page/衛蘭.md "wikilink")，亦是她第一張英文大碟，於2009年7月3日推出\[1\]\[2\]\[3\]。全碟歌詞由A
 Music新人[李治廷](../Page/李治廷.md "wikilink")（Aarif）一手包辦，大碟推出後一星期已達白金銷量。
 
 ## 收錄歌曲
 
 碟內收錄了10首歌曲，包括：
 
-| 次序   | 歌名                        | 作曲                                           | 填詞                                 | 編曲            | 監製         |
-| ---- | ------------------------- | -------------------------------------------- | ---------------------------------- | ------------- | ---------- |
-| 1\.  | Morning                   | [Mark Lui](../Page/雷頌德.md "wikilink")        | [Aarif](../Page/李治廷.md "wikilink") | Mark Lui      | Mark Lui   |
-| 2\.  | Please                    | [Alex Fung](../Page/馮翰銘.md "wikilink")       | Aarif                              | Alex Fung     | Alex Fung  |
-| 3\.  | Speechless                | [Jone Chui](../Page/Jone_Chui.md "wikilink") | Aarif                              | Keizoh Kawano | Mark Lui   |
-| 4\.  | Rainbows                  | [Taz Tan](../Page/Taz_Tan.md "wikilink")     | Aarif                              | \-            | Taz Tan    |
-| 5\.  | Make My Day               | Mark Lui                                     | Aarif                              | Mark Lui      | Mark Lui   |
-| 6\.  | 999                       | Mark Lui                                     | Aarif                              | Mark Lui      | Mark Lui   |
-| 7\.  | Remember                  | [Hanjin Tan](../Page/陳奐仁.md "wikilink")      | Aarif                              | Hanjin Tan    | Hanjin Tan |
-| 8\.  | TV                        | Mark Lui                                     | Aarif                              | Mark Lui      | Mark Lui   |
-| 9\.  | Pretty                    | Mark Lui                                     | Aarif                              | Mark Lui      | Mark Lui   |
-| 10\. | Every Morning (Interlude) | \-                                           | \-                                 | \-            | \-         |
+| 次序   | 歌名                        | 作曲                                                              | 填詞                                 | 編曲            | 監製         |
+| ---- | ------------------------- | --------------------------------------------------------------- | ---------------------------------- | ------------- | ---------- |
+| 1\.  | Morning                   | [Mark Lui](../Page/雷頌德.md "wikilink")                           | [Aarif](../Page/李治廷.md "wikilink") | Mark Lui      | Mark Lui   |
+| 2\.  | Please                    | [Alex Fung](../Page/馮翰銘.md "wikilink")                          | Aarif                              | Alex Fung     | Alex Fung  |
+| 3\.  | Speechless                | [Jone Chui](https://zh.wikipedia.org/wiki/Jone_Chui "wikilink") | Aarif                              | Keizoh Kawano | Mark Lui   |
+| 4\.  | Rainbows                  | [Taz Tan](https://zh.wikipedia.org/wiki/Taz_Tan "wikilink")     | Aarif                              | \-            | Taz Tan    |
+| 5\.  | Make My Day               | Mark Lui                                                        | Aarif                              | Mark Lui      | Mark Lui   |
+| 6\.  | 999                       | Mark Lui                                                        | Aarif                              | Mark Lui      | Mark Lui   |
+| 7\.  | Remember                  | [Hanjin Tan](../Page/陳奐仁.md "wikilink")                         | Aarif                              | Hanjin Tan    | Hanjin Tan |
+| 8\.  | TV                        | Mark Lui                                                        | Aarif                              | Mark Lui      | Mark Lui   |
+| 9\.  | Pretty                    | Mark Lui                                                        | Aarif                              | Mark Lui      | Mark Lui   |
+| 10\. | Every Morning (Interlude) | \-                                                              | \-                                 | \-            | \-         |
 
 ## 派台歌曲
 

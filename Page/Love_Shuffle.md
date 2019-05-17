@@ -1,11 +1,11 @@
-是[日本](../Page/日本.md "wikilink")[TBS於](../Page/TBS.md "wikilink")2009年1月16日至3月20日每週星期五22:00～22:54（[日本時間](../Page/日本時間.md "wikilink")）播出的[電視連續劇](../Page/日本電視劇.md "wikilink")，由[玉木宏主演](../Page/玉木宏.md "wikilink")。
+是[日本](../Page/日本.md "wikilink")[TBS於](../Page/TBS.md "wikilink")2009年1月16日至3月20日每週星期五22:00～22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[玉木宏主演](../Page/玉木宏.md "wikilink")。
 
 ## 登場人物
 
 ### 主要人物
 
   - 宇佐美啟（29） - [玉木宏](../Page/玉木宏.md "wikilink")
-    饰演（香港配音：[黃啟昌](../Page/黃啟昌.md "wikilink")）
+    饰演（香港配音：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")）
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - 大石諭吉（29） - [DAIGO](../Page/DAIGO.md "wikilink")
+  - 大石諭吉（29） - [DAIGO](https://zh.wikipedia.org/wiki/DAIGO "wikilink")
     饰演（香港配音：[伍博民](../Page/伍博民.md "wikilink")）
 
 <!-- end list -->
@@ -53,7 +53,7 @@
 <!-- end list -->
 
   - 早川海里（19→20） - [吉高由里子](../Page/吉高由里子.md "wikilink")
-    饰演（香港配音：[黃紫嫻](../Page/黃紫嫻.md "wikilink")）
+    饰演（香港配音：[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")）
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - 上條玲子（34） - [小島聖](../Page/小島聖.md "wikilink")
+  - 上條玲子（34） - [小島聖](https://zh.wikipedia.org/wiki/小島聖 "wikilink")
     饰演（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
 
 <!-- end list -->
@@ -99,13 +99,18 @@
 
 ### 其他
 
-  - 香川浩介 - [野村祐人](../Page/野村祐人.md "wikilink") 饰演（第1話、第3話～第6話、第9話）
-  - 早川毅 - [美木良介](../Page/美木良介.md "wikilink") 饰演（第3話、第7話）
-  - 電玩中心工作人員 - [蒲生純一](../Page/蒲生純一.md "wikilink") 饰演（第3話）
-  - 瀧川陽治 - [大東俊介](../Page/大東俊介.md "wikilink") 饰演（第4話）
-  - 上條裕也 - [尾美利德](../Page/尾美利德.md "wikilink") 饰演（第6話）
-  - 龜井五郎 - [袴田吉彦](../Page/袴田吉彦.md "wikilink") 饰演（第7話～第9話）
-  - 龜井美惠 - [梅宮萬紗子](../Page/梅宮萬紗子.md "wikilink") 饰演（第9話）
+  - 香川浩介 - [野村祐人](https://zh.wikipedia.org/wiki/野村祐人 "wikilink")
+    饰演（第1話、第3話～第6話、第9話）
+  - 早川毅 - [美木良介](https://zh.wikipedia.org/wiki/美木良介 "wikilink")
+    饰演（第3話、第7話）
+  - 電玩中心工作人員 - [蒲生純一](https://zh.wikipedia.org/wiki/蒲生純一 "wikilink")
+    饰演（第3話）
+  - 瀧川陽治 - [大東俊介](https://zh.wikipedia.org/wiki/大東俊介 "wikilink") 饰演（第4話）
+  - 上條裕也 - [尾美利德](https://zh.wikipedia.org/wiki/尾美利德 "wikilink") 饰演（第6話）
+  - 龜井五郎 - [袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")
+    饰演（第7話～第9話）
+  - 龜井美惠 - [梅宮萬紗子](https://zh.wikipedia.org/wiki/梅宮萬紗子 "wikilink")
+    饰演（第9話）
 
 ## 製作人員
 
@@ -223,7 +228,7 @@
 ## 音乐
 
   - 主題曲 - 「Fantasy」，[Earth, Wind &
-    Fire作品](../Page/Earth,_Wind_&_Fire.md "wikilink")
+    Fire作品](https://zh.wikipedia.org/wiki/Earth,_Wind_&_Fire "wikilink")
   - 插曲 - 「ETERNAL FLAME」，[The Bangles作品](../Page/手鐲合唱團.md "wikilink")
 
 ## 作品的變遷

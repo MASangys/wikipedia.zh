@@ -1,6 +1,6 @@
 **Kauffmann烯化反应**（Kauffmann olefination），由德国化学家 Thomas Kauffmann 首先报道。
 
-将[醛](../Page/醛.md "wikilink")、[酮转变为](../Page/酮.md "wikilink")[亚甲基](../Page/亚甲基.md "wikilink")[烯烃的方法](../Page/烯烃.md "wikilink")。
+将[醛](../Page/醛.md "wikilink")、[酮转变为](../Page/酮.md "wikilink")[亚甲基](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")[烯烃的方法](../Page/烯烃.md "wikilink")。
 
 ## 试剂的制备
 
@@ -8,11 +8,11 @@
 
 [Kauffmann_olefination-reagent_synthesis.svg](https://zh.wikipedia.org/wiki/File:Kauffmann_olefination-reagent_synthesis.svg "fig:Kauffmann_olefination-reagent_synthesis.svg")
 
-在加温过程中逐渐生成活性试剂。核磁共振谱显示该试剂不是一种[Schrock卡宾](../Page/Schrock卡宾.md "wikilink")（即[Tebbe试剂](../Page/Tebbe试剂.md "wikilink")）。
+在加温过程中逐渐生成活性试剂。核磁共振谱显示该试剂不是一种[Schrock卡宾](https://zh.wikipedia.org/wiki/Schrock卡宾 "wikilink")（即[Tebbe试剂](https://zh.wikipedia.org/wiki/Tebbe试剂 "wikilink")）。
 
 ## 反应机理
 
-机理实验显示烯化一步是由一系列[环加成和环消除步骤所组成](../Page/环加成.md "wikilink")。
+机理实验显示烯化一步是由一系列[环加成和环消除步骤所组成](https://zh.wikipedia.org/wiki/环加成 "wikilink")。
 
 [Kauffmann_mechanismus.png](https://zh.wikipedia.org/wiki/File:Kauffmann_mechanismus.png "fig:Kauffmann_mechanismus.png")
 
@@ -21,12 +21,12 @@
 此反应自发现起在合成中应用较少。2002年，有人将其用于萜类 gleenol
 的全合成中，利用了该反应条件温和、反应试剂亦非碱性试剂的特点。\[5\]
 同年 Oesterreich 等将此反应与 [Grubbs
-反应的](../Page/Grubbs反应.md "wikilink")[一锅反应应用于合成](../Page/一锅反应.md "wikilink")。\[6\]
+反应的](https://zh.wikipedia.org/wiki/Grubbs反应 "wikilink")[一锅反应应用于合成](https://zh.wikipedia.org/wiki/一锅反应 "wikilink")。\[6\]
 
 ## 参见
 
-  - [Tebbe烯化反应](../Page/Tebbe烯化反应.md "wikilink")
-  - [Wittig反应](../Page/Wittig反应.md "wikilink")
+  - [Tebbe烯化反应](https://zh.wikipedia.org/wiki/Tebbe烯化反应 "wikilink")
+  - [Wittig反应](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
 ## 参考资料

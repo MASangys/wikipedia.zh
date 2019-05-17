@@ -1,15 +1,16 @@
-**eHow**是一个在线的[知识资源](../Page/知识库.md "wikilink")，它目前已拥有超过337,000篇关于“这事怎么做”的[文章以及相关视频](../Page/文章\(出版\).md "wikilink")，提供细致到每一个步骤的操作指南。eHow上的作者有专家学者，也有业余人士，内容涵盖了诸多方面各种类型的主题，并且被分门别类有层次的编排好。
+**eHow**是一个在线的[知识资源](https://zh.wikipedia.org/wiki/知识库 "wikilink")，它目前已拥有超过337,000篇关于“这事怎么做”的[文章以及相关视频](https://zh.wikipedia.org/wiki/文章\(出版\) "wikilink")，提供细致到每一个步骤的操作指南。eHow上的作者有专家学者，也有业余人士，内容涵盖了诸多方面各种类型的主题，并且被分门别类有层次的编排好。
 
-通过其自有的社会网络平台，以及用于“[用户生成内容](../Page/用户生成内容.md "wikilink")”的工具，eHow维护着一个[网络社区](../Page/网络社区.md "wikilink")。在这里，用户可以发布“[怎么做](../Page/怎么做.md "wikilink")”的相关文章、图片、视频剪辑，而eHow则从流量和广告来赚取利润。eHow的用户通过建立个人简介、创建朋友列表、在论坛评论文章以及相关互动，相互熟悉形成关系网络并且进行协作。
+通过其自有的社会网络平台，以及用于“[用户生成内容](../Page/用户生成内容.md "wikilink")”的工具，eHow维护着一个[网络社区](../Page/网络社区.md "wikilink")。在这里，用户可以发布“[怎么做](https://zh.wikipedia.org/wiki/怎么做 "wikilink")”的相关文章、图片、视频剪辑，而eHow则从流量和广告来赚取利润。eHow的用户通过建立个人简介、创建朋友列表、在论坛评论文章以及相关互动，相互熟悉形成关系网络并且进行协作。
 
 ## 网站历史
 
 eHow.com建立于1999年3月。公司获得了3000万美元的风险投资，这些投资来自于[Hummer
-Winblad](../Page/Ann_Winblad.md "wikilink")、[Media Technology
-Ventures](../Page/Media_Technology_Ventures.md "wikilink")、[General
-Electric和](../Page/General_Electric.md "wikilink")[Fingerhut](../Page/Fingerhut.md "wikilink")。公司当时除了一个由[Bill
-Marken](../Page/Bill_Marken.md "wikilink")（曾是[《日落》杂志的](../Page/日落_\(杂志\).md "wikilink")[首席编辑](../Page/首席编辑.md "wikilink")）和[Sharon
-Beaulaurier领导的包括](../Page/Sharon_Beaulaurier.md "wikilink")200名专业作家的编辑团队外，还雇佣了25名工程师。2001年之前，eHow创建了数千相关的文章。这些专业的文章，加上电视和广播的[广告宣传](../Page/广告宣传.md "wikilink")，使得eHow成为Internet十大新闻和信息网站之一。尽管有了一定的名气，eHow还是无法实现盈利，在资金用完之后不得不宣布破产。
+Winblad](https://zh.wikipedia.org/wiki/Ann_Winblad "wikilink")、[Media
+Technology
+Ventures](https://zh.wikipedia.org/wiki/Media_Technology_Ventures "wikilink")、[General
+Electric和](https://zh.wikipedia.org/wiki/General_Electric "wikilink")[Fingerhut](https://zh.wikipedia.org/wiki/Fingerhut "wikilink")。公司当时除了一个由[Bill
+Marken](https://zh.wikipedia.org/wiki/Bill_Marken "wikilink")（曾是[《日落》杂志的](https://zh.wikipedia.org/wiki/日落_\(杂志\) "wikilink")[首席编辑](https://zh.wikipedia.org/wiki/首席编辑 "wikilink")）和[Sharon
+Beaulaurier领导的包括](https://zh.wikipedia.org/wiki/Sharon_Beaulaurier "wikilink")200名专业作家的编辑团队外，还雇佣了25名工程师。2001年之前，eHow创建了数千相关的文章。这些专业的文章，加上电视和广播的[广告宣传](https://zh.wikipedia.org/wiki/广告宣传 "wikilink")，使得eHow成为Internet十大新闻和信息网站之一。尽管有了一定的名气，eHow还是无法实现盈利，在资金用完之后不得不宣布破产。
 
 2001年，IdeaExchange.com为了介入eHow的业务并掌握eHow的读者群，买下了处于破产状态的eHow。eHow到2004年初仍未盈利，于是IdeaExchange将其卖给了Jack
 Herrick和Josh Hannah。
@@ -33,9 +34,10 @@ Herrick和Josh Hannah。
   - [Demand
     Media公司网站](https://web.archive.org/web/20081107021958/http://www.demandmedia.com/default.asp)
   - ["这些网站有个好名字"](http://online.wsj.com/article_email/SB114644530844940115-lMyQjAxMDE2NDA2MTQwNDE1Wj.html),
-    [华尔街期刊](../Page/华尔街期刊.md "wikilink"), May 1, 2006
+    [华尔街期刊](https://zh.wikipedia.org/wiki/华尔街期刊 "wikilink"), May 1, 2006
   - ["eHow申请破产?"](http://siliconvalley.internet.com/news/article.php/583951),
-    [Internet.com](../Page/Internet.com.md "wikilink"), February 8, 2001
+    [Internet.com](https://zh.wikipedia.org/wiki/Internet.com "wikilink"),
+    February 8, 2001
 
 [Category:解释作法网站](https://zh.wikipedia.org/wiki/Category:解释作法网站 "wikilink")
 [Category:1999年建立的网站](https://zh.wikipedia.org/wiki/Category:1999年建立的网站 "wikilink")

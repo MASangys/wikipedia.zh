@@ -1,6 +1,6 @@
 《**Full Circle Magazine**》 是使用[Portable Document
-Format发行的免费网络杂志](../Page/Portable_Document_Format.md "wikilink")。诞生于2007年4月份，独立发行，与[Canonical
-Ltd并无纠葛](../Page/Canonical_Ltd.md "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
+Format发行的免费网络杂志](https://zh.wikipedia.org/wiki/Portable_Document_Format "wikilink")。诞生于2007年4月份，独立发行，与[Canonical
+Ltd并无纠葛](https://zh.wikipedia.org/wiki/Canonical_Ltd "wikilink")，使用广告和志愿者支持的方式持续进行，多数内容具有教学和宣传意义。\[1\]\[2\]\[3\]并没有中文译名。
 
 使用[知识共享协议发布](../Page/知识共享.md "wikilink")。
 
@@ -17,14 +17,14 @@ Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
 
 ### 中文访谈
 
-1.  26期开始中文版包括[Ubuntu中文论坛主要维护者一叶的中文访谈](../Page/Ubuntu中文论坛.md "wikilink")
+1.  26期开始中文版包括[Ubuntu中文论坛主要维护者一叶的中文访谈](https://zh.wikipedia.org/wiki/Ubuntu中文论坛 "wikilink")
 2.  27期为 Xiongqin中文访谈
 
 ## 历史
 
-第0期2007年4月问世，介绍[Ubuntu起源和新闻](../Page/Ubuntu.md "wikilink")、[新游戏](../Page/linux游戏.md "wikilink")。共17页。\[4\]\[5\]
+第0期2007年4月问世，介绍[Ubuntu起源和新闻](../Page/Ubuntu.md "wikilink")、[新游戏](https://zh.wikipedia.org/wiki/linux游戏 "wikilink")。共17页。\[4\]\[5\]
 
-25期开始使用landscape[版式](../Page/版式.md "wikilink")，更适合计算机显示屏观看。\[6\]
+25期开始使用landscape[版式](https://zh.wikipedia.org/wiki/版式 "wikilink")，更适合计算机显示屏观看。\[6\]
 
 ## 参与者
 
@@ -40,7 +40,7 @@ Gtalk for linux，介绍源自国内社区的首个实用Gtalk语音软件。
 
 ## 其他
 
-  - [Ubuntu用户](../Page/Ubuntu用户.md "wikilink")
+  - [Ubuntu用户](https://zh.wikipedia.org/wiki/Ubuntu用户 "wikilink")
 
 ## 参考
 

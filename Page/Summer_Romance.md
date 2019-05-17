@@ -1,5 +1,5 @@
 《**Summer Romance
-87**》是[香港歌手](../Page/香港.md "wikilink")[張國榮的第十一張](../Page/張國榮.md "wikilink")[錄音室專輯](../Page/錄音室專輯.md "wikilink")、第八張[粵語錄音室專輯](../Page/粵語.md "wikilink")，於1987年8月21日由[新藝寶唱片發行](../Page/新藝寶唱片.md "wikilink")。\[1\]
+87**》是[香港歌手](../Page/香港.md "wikilink")[張國榮的第十一張](../Page/張國榮.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第八張[粵語錄音室專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1987年8月21日由[新藝寶唱片發行](../Page/新藝寶唱片.md "wikilink")。\[1\]
 
 ## 專輯介紹
 
@@ -9,12 +9,12 @@
 
 ## 音樂錄像
 
-| 曲目次序 | 歌名   | 導演 | 首播日期  | 首播平台                               | 連結                                                      |
-| ---- | ---- | -- | ----- | ---------------------------------- | ------------------------------------------------------- |
-| 02   | 無心睡眠 | \- | 1987年 | [無綫電視](../Page/無綫電視.md "wikilink") | [Youtube連結](http://www.youtube.com/watch?v=1hQfiMM6kp4) |
-| 01   | 拒絕再玩 | \- | 1987年 | 無綫電視                               | [Youtube連結](http://www.youtube.com/watch?v=ArfyzKljRs4) |
-| 03   | 你在何地 | \- | 1987年 | 無綫電視                               | [Youtube連結](http://www.youtube.com/watch?v=ILsD-_TCoqM) |
-| 06   | 共同渡過 | \- | 1987年 | 無綫電視                               | [Youtube連結](http://www.youtube.com/watch?v=MSrnnRsipn0) |
+| 曲目次序 | 歌名   | 導演 | 首播日期  | 首播平台                                                  | 連結                                                      |
+| ---- | ---- | -- | ----- | ----------------------------------------------------- | ------------------------------------------------------- |
+| 02   | 無心睡眠 | \- | 1987年 | [無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink") | [Youtube連結](http://www.youtube.com/watch?v=1hQfiMM6kp4) |
+| 01   | 拒絕再玩 | \- | 1987年 | 無綫電視                                                  | [Youtube連結](http://www.youtube.com/watch?v=ArfyzKljRs4) |
+| 03   | 你在何地 | \- | 1987年 | 無綫電視                                                  | [Youtube連結](http://www.youtube.com/watch?v=ILsD-_TCoqM) |
+| 06   | 共同渡過 | \- | 1987年 | 無綫電視                                                  | [Youtube連結](http://www.youtube.com/watch?v=MSrnnRsipn0) |
 
   - (-) 為未能提供相關資料
 
@@ -22,15 +22,15 @@
 
 ### 專輯《Summer Romance 87》
 
-  - [香港](../Page/香港.md "wikilink")：[商業電台](../Page/商業電台.md "wikilink")－第8屆中文歌曲擂台頒獎典禮－大碟獎
-  - 香港：[1987年度十大中文金曲頒獎典禮](../Page/1987年度十大中文金曲得獎名單.md "wikilink")－CD雷射大獎
+  - [香港](../Page/香港.md "wikilink")：[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")－第8屆中文歌曲擂台頒獎典禮－大碟獎
+  - 香港：[1987年度十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/1987年度十大中文金曲得獎名單 "wikilink")－CD雷射大獎
   - 香港：1987年度十大中文金曲頒獎典禮－全年銷量冠軍大獎（七白金）
   - 香港：1988年度香港金唱片頒獎典禮－白金唱片（七白金）
 
 ### 歌曲《無心睡眠》
 
   - 香港：商業電台－第8屆中文歌曲擂台頒獎典禮－歌曲大獎
-  - 香港：[1987年度十大勁歌金曲頒獎典禮](../Page/1987年度十大勁歌金曲得獎名單.md "wikilink")－十大勁歌金曲
+  - 香港：[1987年度十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/1987年度十大勁歌金曲得獎名單 "wikilink")－十大勁歌金曲
   - 香港：1987年度十大勁歌金曲頒獎典禮－最佳編曲獎
   - 香港：1987年度十大勁歌金曲頒獎典禮－金曲金獎
   - 香港：1987年度十大中文金曲頒獎典禮－十大中文金曲

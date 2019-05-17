@@ -1,7 +1,9 @@
 **Lump of
 Sugar**是一間[日本十八禁](../Page/日本.md "wikilink")[美少女遊戲製作公司](../Page/美少女遊戲.md "wikilink")，於[2005年4月開始活動](../Page/2005年4月.md "wikilink")。Lump
-of Sugar的意思是角砂糖（即[方糖](../Page/方糖.md "wikilink")），所以Lump of
-Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。擔當[原畫的是](../Page/原畫.md "wikilink")[同人團體](../Page/同人.md "wikilink")「ZIP」的畫家[萌木原文武](../Page/萌木原文武.md "wikilink")。
+of
+Sugar的意思是角砂糖（即[方糖](https://zh.wikipedia.org/wiki/方糖 "wikilink")），所以Lump
+of
+Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。擔當[原畫的是](https://zh.wikipedia.org/wiki/原畫 "wikilink")[同人團體](https://zh.wikipedia.org/wiki/同人 "wikilink")「ZIP」的畫家[萌木原文武](../Page/萌木原文武.md "wikilink")。
 
 ## 作品列表
 
@@ -30,7 +32,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2007年1月26日</p></td>
-<td><p><strong><a href="../Page/いつか、届く、あの空に。.md" title="wikilink">いつか、届く、あの空に。</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/いつか、届く、あの空に。" title="wikilink">いつか、届く、あの空に。</a></strong></p></td>
 <td></td>
 <td><p>何時到達那片天空</p></td>
 <td></td>
@@ -54,7 +56,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="odd">
 <td><p>3 FD</p></td>
 <td><p>2009年5月29日</p></td>
-<td><p><strong><a href="../Page/遊魂_-Kiss_on_my_Deity-#タユタマ_-It&#39;s_happy_days-.md" title="wikilink">タユタマ -It's happy days-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/遊魂_-Kiss_on_my_Deity-#タユタマ_-It&#39;s_happy_days-" title="wikilink">タユタマ -It's happy days-</a></strong></p></td>
 <td><p>史方千尋、てつじん、高嶋栄二</p></td>
 <td><p>遊魂 -It's happy days-</p></td>
 <td></td>
@@ -63,7 +65,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <td><p>4</p></td>
 <td><p>2010年5月28日</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="../Page/たにはらなつき.md" title="wikilink">たにはらなつき</a>、、奏ナコト(SD)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/たにはらなつき" title="wikilink">たにはらなつき</a>、、奏ナコト(SD)</p></td>
 <td><p>セロリ、がのす、Hatsu</p></td>
 <td></td>
 </tr>
@@ -86,15 +88,15 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2012年1月27日</p></td>
-<td><p><strong><a href="../Page/学☆王_-THE_ROYAL_SEVEN_STARS-.md" title="wikilink">学☆王 -THE ROYAL SEVEN STARS-</a></strong></p></td>
-<td><p><a href="../Page/梱枝りこ.md" title="wikilink">梱枝りこ</a>、奏ナコト(SD)</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-" title="wikilink">学☆王 -THE ROYAL SEVEN STARS-</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梱枝りこ" title="wikilink">梱枝りこ</a>、奏ナコト(SD)</p></td>
 <td><p>しげた、二葉つばさ、唯の言葉</p></td>
 <td><p>學☆王 -THE ROYAL SEVEN STARS-</p></td>
 </tr>
 <tr class="even">
 <td><p>7 FD</p></td>
 <td><p>2012年8月10日</p></td>
-<td><p><strong><a href="../Page/学☆王_-THE_ROYAL_SEVEN_STARS-.md" title="wikilink">学☆王 -It's Heartful Days-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-" title="wikilink">学☆王 -It's Heartful Days-</a></strong></p></td>
 <td><p>梱枝りこ</p></td>
 <td><p>しげた、唯の言葉</p></td>
 <td><p>學☆王 -It's Heartful Days-</p></td>
@@ -102,7 +104,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2012年10月26日</p></td>
-<td><p><strong><a href="../Page/花色ヘプタグラム.md" title="wikilink">花色ヘプタグラム</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/花色ヘプタグラム" title="wikilink">花色ヘプタグラム</a></strong></p></td>
 <td><p>萌木原文武</p></td>
 <td><p>セロリ、てつじん</p></td>
 <td><p>花色溫泉鄉</p></td>
@@ -110,7 +112,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2013年5月31日</p></td>
-<td><p><strong><a href="../Page/Magical_Charming!.md" title="wikilink">Magical Charming!</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Magical_Charming!" title="wikilink">Magical Charming!</a></strong></p></td>
 <td><p>梱枝りこ</p></td>
 <td><p>しげた、てつじん、二葉つばさ、冬茜トム</p></td>
 <td><p>魔卡魅戀!</p></td>
@@ -150,7 +152,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2016年9月23日</p></td>
-<td><p><strong><a href="../Page/遊魂2_-you&#39;re_the_only_one-.md" title="wikilink">タユタマ2 -you're the only one-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/遊魂2_-you&#39;re_the_only_one-" title="wikilink">タユタマ2 -you're the only one-</a></strong></p></td>
 <td><p>萌木原文武</p></td>
 <td><p>沖田露集</p></td>
 <td><p>遊魂2 -you're the only one-</p></td>
@@ -158,7 +160,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="even">
 <td><p>14 FD</p></td>
 <td><p>2017年4月28日</p></td>
-<td><p><strong><a href="../Page/遊魂2_-you&#39;re_the_only_one-#タユタマ2_-After_Stories-.md" title="wikilink">タユタマ2 -After Stories-</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/遊魂2_-you&#39;re_the_only_one-#タユタマ2_-After_Stories-" title="wikilink">タユタマ2 -After Stories-</a></strong></p></td>
 <td><p>遊魂2 -After Stories-</p></td>
 <td></td>
 <td></td>
@@ -195,7 +197,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
     Deity-](../Page/遊魂_-Kiss_on_my_Deity-.md "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[Xbox
     360](../Page/Xbox_360.md "wikilink")）
   - 2013年3月28日 - [学☆王 -THE ROYAL SEVEN STARS-
-    +METEOR](../Page/学☆王_-THE_ROYAL_SEVEN_STARS-#学☆王_-THE_ROYAL_SEVEN_STARS-_+METEOR.md "wikilink")（發行單位：[Alchemist](../Page/Alchemist.md "wikilink")、機種：[PlayStation
+    +METEOR](https://zh.wikipedia.org/wiki/学☆王_-THE_ROYAL_SEVEN_STARS-#学☆王_-THE_ROYAL_SEVEN_STARS-_+METEOR "wikilink")（發行單位：[Alchemist](../Page/Alchemist.md "wikilink")、機種：[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")）
 
 ## 主要成員
@@ -213,8 +215,8 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
       -
   - 原畫
       - [萌木原文武](../Page/萌木原文武.md "wikilink")
-      - [せせなやう](../Page/せせなやう.md "wikilink")
-      - [梱枝りこ](../Page/梱枝りこ.md "wikilink")
+      - [せせなやう](https://zh.wikipedia.org/wiki/せせなやう "wikilink")
+      - [梱枝りこ](https://zh.wikipedia.org/wiki/梱枝りこ "wikilink")
   - CG
       -
       - 神無月梢
@@ -230,9 +232,9 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 ## 愚人節玩笑
 
 Lump of
-Sugar的官方網站每年（除了2013年）4月1日[愚人節都會公佈由Lump](../Page/愚人節.md "wikilink")
+Sugar的官方網站每年（除了2013年）4月1日[愚人節都會公佈由Lump](https://zh.wikipedia.org/wiki/愚人節 "wikilink")
 of
-Sugar作品內的人物登場的[射擊遊戲和對打式](../Page/射擊遊戲.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，都是愚人節的假消息。\[1\]
+Sugar作品內的人物登場的[射擊遊戲和對打式](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，都是愚人節的假消息。\[1\]
 
   - 2006年4月1日：「」（射擊遊戲）
   - 2007年4月1日：「\[2\]」（射擊遊戲）

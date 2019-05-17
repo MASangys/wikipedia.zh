@@ -1,10 +1,10 @@
 一塊半導體晶體一側[摻雜成P型半導體](../Page/掺杂_\(半导体\).md "wikilink")，另一側摻雜成N型半導體，中間二者相連的接觸面稱為**PN结**（{{
 lang-en|**pn
-junction**}}）。PN结是[電子技術中許多元件](../Page/電子技術.md "wikilink")，例如半導體[二極管](../Page/二極管.md "wikilink")、[雙極性晶體管的物质基础](../Page/雙極性晶體管.md "wikilink")。
+junction**}}）。PN结是[電子技術中許多元件](https://zh.wikipedia.org/wiki/電子技術 "wikilink")，例如半導體[二極管](../Page/二極管.md "wikilink")、[雙極性晶體管的物质基础](https://zh.wikipedia.org/wiki/雙極性晶體管 "wikilink")。
 
 ## 历史
 
-1948年，[威廉·肖克利的論文](../Page/威廉·肖克利.md "wikilink")《半導體中的PN结和PN结型晶體管的理論》發表於貝爾實驗室內部刊物。肖克利在1950年出版的《半導體中的電子和空穴》中詳盡地討論瞭結型晶體管的原理，與[約翰·巴丁](../Page/約翰·巴丁.md "wikilink")、[沃爾特·布喇頓共同發明的點接觸型晶體管所採用的不同的理論](../Page/沃爾特·布喇頓.md "wikilink")。
+1948年，[威廉·肖克利的論文](../Page/威廉·肖克利.md "wikilink")《半導體中的PN结和PN结型晶體管的理論》發表於貝爾實驗室內部刊物。肖克利在1950年出版的《半導體中的電子和空穴》中詳盡地討論瞭結型晶體管的原理，與[約翰·巴丁](https://zh.wikipedia.org/wiki/約翰·巴丁 "wikilink")、[沃爾特·布喇頓共同發明的點接觸型晶體管所採用的不同的理論](https://zh.wikipedia.org/wiki/沃爾特·布喇頓 "wikilink")。
 
 ## 原理
 
@@ -20,7 +20,7 @@ junction**}}）。PN结是[電子技術中許多元件](../Page/電子技術.md 
 
 #### 漂移运动
 
-上面叙述的两种半导体在外加[电场的情况下](../Page/电场.md "wikilink")，会作定向运动。这种运动成为电子与空穴（统称“**[载流子](../Page/载流子.md "wikilink")**”）的“**漂移运动**”，并产生“**漂移电流**”。
+上面叙述的两种半导体在外加[电场的情况下](https://zh.wikipedia.org/wiki/电场 "wikilink")，会作定向运动。这种运动成为电子与空穴（统称“**[载流子](../Page/载流子.md "wikilink")**”）的“**漂移运动**”，并产生“**漂移电流**”。
 
 根据静电学，电子将作与外加电场相反方向的运动，并产生电流（根据传统定义，电流的方向与电子运动方向相反，即和外加电场方向相同）；而空穴的运动方向与外加电场相同，由于其可被看作是“正电荷”，将产生与电场方向相同的电流。
 
@@ -43,29 +43,29 @@ P型、N型半导体由于分别含有较高浓度的“空穴”和自由电子
 
 ## 制造工艺
 
-  - [合金法](../Page/合金法.md "wikilink")
-  - [擴散法](../Page/擴散法.md "wikilink")
-  - [離子注入法](../Page/離子注入法.md "wikilink")
-  - [外延生長法](../Page/外延生長法.md "wikilink")
+  - [合金法](https://zh.wikipedia.org/wiki/合金法 "wikilink")
+  - [擴散法](https://zh.wikipedia.org/wiki/擴散法 "wikilink")
+  - [離子注入法](https://zh.wikipedia.org/wiki/離子注入法 "wikilink")
+  - [外延生長法](https://zh.wikipedia.org/wiki/外延生長法 "wikilink")
 
 ## 性质
 
 ### 平衡状态（零偏置）
 
-PN结在没有外加电压情况下，跨结形成了[电势差导致了平衡状态](../Page/电势差.md "wikilink")。该电势差称为内在电势（built-in
+PN结在没有外加电压情况下，跨结形成了[电势差导致了平衡状态](https://zh.wikipedia.org/wiki/电势差 "wikilink")。该电势差称为内在电势（built-in
 potential）\(V_{\rm bi}\)。
 
-PN结的n区的电子向p区[扩散](../Page/扩散.md "wikilink")，留下了正电荷在n区。类似地，p型空穴从p区向n区扩散，留下了负电荷在p区。进入了p区的电子与空穴复合，进入了n区的空穴与电子复合。经效果是扩散到对方的多数[载流子](../Page/载流子.md "wikilink")（自由电子与空穴）都耗尽了，结区只剩下不可移动的带电离子，失去了电中性变为带电，形成了[耗尽层](../Page/耗尽层.md "wikilink")（space
+PN结的n区的电子向p区[扩散](https://zh.wikipedia.org/wiki/扩散 "wikilink")，留下了正电荷在n区。类似地，p型空穴从p区向n区扩散，留下了负电荷在p区。进入了p区的电子与空穴复合，进入了n区的空穴与电子复合。经效果是扩散到对方的多数[载流子](../Page/载流子.md "wikilink")（自由电子与空穴）都耗尽了，结区只剩下不可移动的带电离子，失去了电中性变为带电，形成了[耗尽层](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")（space
 charge
-region）（见[图A](../Page/:Image:Pn-junction-equilibrium.png.md "wikilink")）。
+region）（见[图A](https://zh.wikipedia.org/wiki/:Image:Pn-junction-equilibrium.png "wikilink")）。
 
 [Pn-junction-equilibrium.png](https://zh.wikipedia.org/wiki/File:Pn-junction-equilibrium.png "fig:Pn-junction-equilibrium.png")
 
-耗尽区的[电场与电子与空穴的扩散过程相反](../Page/电场.md "wikilink")，阻碍进一步扩散。载流子浓度确定的平衡态在[图A中表示为红线与蓝线](../Page/:Image:Pn-junction-equilibrium.png.md "wikilink")。
+耗尽区的[电场与电子与空穴的扩散过程相反](https://zh.wikipedia.org/wiki/电场 "wikilink")，阻碍进一步扩散。载流子浓度确定的平衡态在[图A中表示为红线与蓝线](https://zh.wikipedia.org/wiki/:Image:Pn-junction-equilibrium.png "wikilink")。
 
 [Pn-junction-equilibrium-graphs.png](https://zh.wikipedia.org/wiki/File:Pn-junction-equilibrium-graphs.png "fig:Pn-junction-equilibrium-graphs.png")
 
-[耗尽层的多数载流子已经全部耗尽](../Page/耗尽层.md "wikilink")，留下的电荷密度等于净掺杂水平。当平衡达到时，电荷密度近似显示为阶梯函数，耗尽层与中立区的边界相当陡峭。（见[图B的Q](../Page/:Image:Pn-junction-equilibrium-graphs.png.md "wikilink")(x)图）。耗尽层在PN结两侧有相同量的电荷，因此它向较少掺杂的一侧延展更远（图A与图B的n端）。
+[耗尽层的多数载流子已经全部耗尽](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")，留下的电荷密度等于净掺杂水平。当平衡达到时，电荷密度近似显示为阶梯函数，耗尽层与中立区的边界相当陡峭。（见[图B的Q](https://zh.wikipedia.org/wiki/:Image:Pn-junction-equilibrium-graphs.png "wikilink")(x)图）。耗尽层在PN结两侧有相同量的电荷，因此它向较少掺杂的一侧延展更远（图A与图B的n端）。
 
 ### 正向偏置
 
@@ -73,9 +73,9 @@ region）（见[图A](../Page/:Image:Pn-junction-equilibrium.png.md "wikilink")�
 
 [PN_band.gif](https://zh.wikipedia.org/wiki/File:PN_band.gif "fig:PN_band.gif")
 
-在正向偏置电压的外电场作用下，N区的电子与P区的空穴被推向PN结。这降低了[耗尽区的](../Page/耗尽区.md "wikilink")[耗尽宽度](../Page/耗尽宽度.md "wikilink")。这降低了PN结的电势差（即内在电场）。随着正向电压的增加，耗尽区最终变得足够薄以至于内电场不足以反作用抑制多数载流子跨PN结的[扩散运动](../Page/扩散.md "wikilink")，因而降低了PN结的电阻。跨过PN结注入p区的电子将扩散到附近的电中性区。所以PN结附近的电中性区的少数载流子的扩散量确定了二极管的正向电流。
+在正向偏置电压的外电场作用下，N区的电子与P区的空穴被推向PN结。这降低了[耗尽区的](https://zh.wikipedia.org/wiki/耗尽区 "wikilink")[耗尽宽度](https://zh.wikipedia.org/wiki/耗尽宽度 "wikilink")。这降低了PN结的电势差（即内在电场）。随着正向电压的增加，耗尽区最终变得足够薄以至于内电场不足以反作用抑制多数载流子跨PN结的[扩散运动](https://zh.wikipedia.org/wiki/扩散 "wikilink")，因而降低了PN结的电阻。跨过PN结注入p区的电子将扩散到附近的电中性区。所以PN结附近的电中性区的少数载流子的扩散量确定了二极管的正向电流。
 
-仅有[多数载流子能够在半导体材料中移动宏观距离](../Page/多数载流子.md "wikilink")。因而，注入p区的电子不能继续移动更远，而是很快与空穴复合。少数载流子在注入中性区后移动的平均距离称为**扩散长度**（diffusion
+仅有[多数载流子能够在半导体材料中移动宏观距离](https://zh.wikipedia.org/wiki/多数载流子 "wikilink")。因而，注入p区的电子不能继续移动更远，而是很快与空穴复合。少数载流子在注入中性区后移动的平均距离称为**扩散长度**（diffusion
 length），典型是微米量级。\[1\]
 
 虽然跨过p-n结的电子在p-区只能穿透短距离，但正向电流不被打断，因为空穴（p-区的多数载流子）在外电场驱动下在向相反方向移动。从p-区跨越PN结注入n-区的空穴也具有类似性质。
@@ -86,19 +86,19 @@ length），典型是微米量级。\[1\]
 
 [PN_Junction_in_Reverse_Bias.png](https://zh.wikipedia.org/wiki/File:PN_Junction_in_Reverse_Bias.png "fig:PN_Junction_in_Reverse_Bias.png")
 若施加在N區的電壓高於P區的電壓，这种状态称为PN结**反向偏置**（reverse
-bias）。由于p区连接电源负极，多数载流子空穴被外电场拉向负极，因而[耗尽层变厚](../Page/耗尽层.md "wikilink")。n区也发生类似变化。并且随反向偏置电压的增加，耗尽层的厚度增加。从而，多数载流子扩散过PN结的势垒增大，PN结的电阻变大，宏观看二极管成为绝缘体。
+bias）。由于p区连接电源负极，多数载流子空穴被外电场拉向负极，因而[耗尽层变厚](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")。n区也发生类似变化。并且随反向偏置电压的增加，耗尽层的厚度增加。从而，多数载流子扩散过PN结的势垒增大，PN结的电阻变大，宏观看二极管成为绝缘体。
 
 反向偏置时形成极其微弱的[漂移电流](../Page/漂移.md "wikilink")，電流由N區流向P區，并且这个电流不随反向电压的增大而变化，称为“**反向饱和电流**”（reverse
 saturation
 current）。这是因为反向电流是由少数载流子跨PN结形成的，因此其“饱和”值取决于少数载流子的掺杂密度。由于反向饱和电流很小，PN结处于截止状态，所以外加反向电压时，PN结相当于**断路**。
 
-當加在PN結上的反向電壓超過一定數值時，PN结的[電阻突然減小](../Page/電阻.md "wikilink")，反向電流急劇增大，這種現象稱為**擊穿**。电击穿擊穿分為[雪崩擊穿和](../Page/雪崩擊穿.md "wikilink")[齊納擊穿且都是可逆的](../Page/齊納擊穿.md "wikilink")。發生热擊穿後，PN结不再具有單向導電性，導致二極管發生不可恢復的損壞。利用齊納擊穿製作的穩壓二極體，稱為[齊納二極體](../Page/齊納二極體.md "wikilink")。
+當加在PN結上的反向電壓超過一定數值時，PN结的[電阻突然減小](https://zh.wikipedia.org/wiki/電阻 "wikilink")，反向電流急劇增大，這種現象稱為**擊穿**。电击穿擊穿分為[雪崩擊穿和](https://zh.wikipedia.org/wiki/雪崩擊穿 "wikilink")[齊納擊穿且都是可逆的](https://zh.wikipedia.org/wiki/齊納擊穿 "wikilink")。發生热擊穿後，PN结不再具有單向導電性，導致二極管發生不可恢復的損壞。利用齊納擊穿製作的穩壓二極體，稱為[齊納二極體](../Page/齊納二極體.md "wikilink")。
 
 #### 反向崩潰
 
 当反向电压逐渐增大时，反向饱和电流不变。但是当反向电压达到一定值时，PN结将被击穿。在PN结中加反向电压，如果反向电压过大，位于PN结中的载流子会拥有很大的动能，足以和中性粒子碰撞使中性粒子分离出价电子而产生空穴-电子对。这样会导致PN结反向电流的急剧增大，发生PN结的击穿，因为被弹出的价电子又可能和其他中性粒子碰撞产生连锁反应，类似于雪崩，这样的反向击穿方式成为雪崩击穿（Avalanche
 breakdown）。摻雜濃度越低所需電場越強。當摻雜濃度非常高時，在PN结兩端加入弱電場就會使中性粒子中的價電子脫離原子的束縛，從而成為載流子。導致PN結的擊穿。這樣的擊穿被稱作齊納擊穿（Zener
-breakdown）。摻雜濃度越高所需要的電場越弱。一般小於6V的電壓引起的是齊納擊穿，大於6V的引起的是[雪崩擊穿](../Page/雪崩擊穿.md "wikilink")。\[2\]
+breakdown）。摻雜濃度越高所需要的電場越弱。一般小於6V的電壓引起的是齊納擊穿，大於6V的引起的是[雪崩擊穿](https://zh.wikipedia.org/wiki/雪崩擊穿 "wikilink")。\[2\]
 
 ### 伏安特性
 
@@ -121,13 +121,13 @@ PN结的最大特性为单向导电性，反映到伏安特性曲线如右图。
 
 ## 应用
 
-由于PN结的单-{向}-导电性，可以利用它作为基础制造半导体[二极管](../Page/二极管.md "wikilink")、[三极管等](../Page/三极管.md "wikilink")[电子元件](../Page/电子元件.md "wikilink")，例如常用的稳压二极管、光电二极管、[发光二极管](../Page/发光二极管.md "wikilink")（）等。
+由于PN结的单-{向}-导电性，可以利用它作为基础制造半导体[二极管](https://zh.wikipedia.org/wiki/二极管 "wikilink")、[三极管等](https://zh.wikipedia.org/wiki/三极管 "wikilink")[电子元件](https://zh.wikipedia.org/wiki/电子元件 "wikilink")，例如常用的稳压二极管、光电二极管、[发光二极管](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")（）等。
 
 ## 相关条目
 
   - [半导体](../Page/半导体.md "wikilink")
-  - [异质结](../Page/异质结.md "wikilink")
-  - [二极管](../Page/二极管.md "wikilink")
+  - [异质结](https://zh.wikipedia.org/wiki/异质结 "wikilink")
+  - [二极管](https://zh.wikipedia.org/wiki/二极管 "wikilink")
 
 ## 参考文献
 

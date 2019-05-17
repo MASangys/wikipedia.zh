@@ -4,26 +4,27 @@ Zone](../Page/GGZ_Gaming_Zone.md "wikilink")。
 
 游戏包括:
 
-  - Mahjongg：GNOME中的类[四川省游戏](../Page/四川省_\(遊戲\).md "wikilink")
+  - Mahjongg：GNOME中的类[四川省游戏](https://zh.wikipedia.org/wiki/四川省_\(遊戲\) "wikilink")
     [Mahjongg.png](https://zh.wikipedia.org/wiki/File:Mahjongg.png "fig:Mahjongg.png")
-  - [glChess](../Page/glChess.md "wikilink") 国际象棋，支持多种引擎，并且具有2D、3D外观支持。
-  - [扫雷](../Page/扫雷.md "wikilink")
-  - GnomeSudoku: [数独](../Page/数独.md "wikilink")
+  - [glChess](https://zh.wikipedia.org/wiki/glChess "wikilink")
+    国际象棋，支持多种引擎，并且具有2D、3D外观支持。
+  - [扫雷](https://zh.wikipedia.org/wiki/扫雷 "wikilink")
+  - GnomeSudoku: [数独](https://zh.wikipedia.org/wiki/数独 "wikilink")
   - Same GNOME：GNOME中的 "I want to play that game\! You know, they all go
     whirly-round and you click on them and they vanish\!" - Telsa.
   - Gnometris：
-    [俄罗斯方块](../Page/俄罗斯方块.md "wikilink")[克隆](../Page/克隆.md "wikilink")
+    [俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")[克隆](../Page/克隆.md "wikilink")
   - Iagno：GNOME中的[黑白棋](../Page/黑白棋.md "wikilink")。
-  - [TetraVex](../Page/TetraVex.md "wikilink")
+  - [TetraVex](https://zh.wikipedia.org/wiki/TetraVex "wikilink")
   - Klotski：[華容道](../Page/華容道_\(遊戲\).md "wikilink")
-  - Blackjack：[廿一點类游戏](../Page/廿一點.md "wikilink")
-  - [机器人](../Page/Robots.md "wikilink")
-  - Aisleriot：超过80种纸牌游戏。比如[新接龙](../Page/新接龙.md "wikilink")、[接龙](../Page/接龙.md "wikilink")、[Clock
-    Patience](../Page/Clock_Patience.md "wikilink")。[Klondike_(solitare).png](https://zh.wikipedia.org/wiki/File:Klondike_\(solitare\).png "fig:Klondike_(solitare).png")
-  - Nibbles：[贪吃蛇变种](../Page/贪吃蛇.md "wikilink")
+  - Blackjack：[廿一點类游戏](https://zh.wikipedia.org/wiki/廿一點 "wikilink")
+  - [机器人](https://zh.wikipedia.org/wiki/Robots "wikilink")
+  - Aisleriot：超过80种纸牌游戏。比如[新接龙](https://zh.wikipedia.org/wiki/新接龙 "wikilink")、[接龙](https://zh.wikipedia.org/wiki/接龙 "wikilink")、[Clock
+    Patience](https://zh.wikipedia.org/wiki/Clock_Patience "wikilink")。[Klondike_(solitare).png](https://zh.wikipedia.org/wiki/File:Klondike_\(solitare\).png "fig:Klondike_(solitare).png")
+  - Nibbles：[贪吃蛇变种](https://zh.wikipedia.org/wiki/贪吃蛇 "wikilink")
   - Five or more：五子消除，同色五子（或更多）即消失，但是不断有杂乱的棋子凭空出现。
-  - [四子棋](../Page/四子棋.md "wikilink")
-  - Tali：一种扑克牌游戏，类似[Yahtzee](../Page/Yahtzee.md "wikilink")。
+  - [四子棋](https://zh.wikipedia.org/wiki/四子棋 "wikilink")
+  - Tali：一种扑克牌游戏，类似[Yahtzee](https://zh.wikipedia.org/wiki/Yahtzee "wikilink")。
 
 ## 长廊
 
@@ -32,15 +33,16 @@ AisleRiot 3.10.2.png|AisleRiot GNOME Chess 3D
 Games Four-in-a-Row.png|Four in a row Five or More Debian Lenny.png|Five
 or more GNOME Hitori 0.4.0.png|Hitori Screenshot-Ягно.png|Iagno
 Klotski-solution-81.gif|Klotski GNOME Games Mahjongg.png|Mahjongg GNOME
-Games Mines.png|[Mines](../Page/GNOME_Mines.md "wikilink") GNOME
-Nibbles.png|Nibbles GNOME Quadrapassel 3.11.92.png|Quadrapassel Robots
-graphic screenshot.png|Robots GNOME Sudoku Debian Lenny.png|Sudoku Swell
-Foot 3.11.92.png|Swell Foop Tali.png|Tali GNOME Tetravex
-3.11.92.png|Tetravex GNOME Games Blackjack.jpg|Blackjack
+Games
+Mines.png|[Mines](https://zh.wikipedia.org/wiki/GNOME_Mines "wikilink")
+GNOME Nibbles.png|Nibbles GNOME Quadrapassel 3.11.92.png|Quadrapassel
+Robots graphic screenshot.png|Robots GNOME Sudoku Debian
+Lenny.png|Sudoku Swell Foot 3.11.92.png|Swell Foop Tali.png|Tali GNOME
+Tetravex 3.11.92.png|Tetravex GNOME Games Blackjack.jpg|Blackjack
 
 ## 其他
 
-  - [gbrainy](../Page/gbrainy.md "wikilink")
+  - [gbrainy](https://zh.wikipedia.org/wiki/gbrainy "wikilink")
   - [GNOME](../Page/GNOME.md "wikilink")
   - [KDE游戏](../Page/KDE游戏.md "wikilink")
 

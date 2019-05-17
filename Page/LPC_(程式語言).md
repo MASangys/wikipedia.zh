@@ -1,8 +1,9 @@
-**LPC** 全名Lars Pensjö C，是一種[程式語言](../Page/程式語言.md "wikilink")，由Lars
+**LPC** 全名Lars Pensjö
+C，是一種[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，由Lars
 Pensjö所發展出來的。
 
-LPC類似[C語言](../Page/C語言.md "wikilink")，語法大致相同，但是LPC
-是一[物件導向語言](../Page/物件導向.md "wikilink")，由[物件](../Page/物件_\(電腦科學\).md "wikilink")（Object）組成，但LPC又沒有class的概念,
+LPC類似[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，語法大致相同，但是LPC
+是一[物件導向語言](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，由[物件](https://zh.wikipedia.org/wiki/物件_\(電腦科學\) "wikilink")（Object）組成，但LPC又沒有class的概念,
 LPC 物件是一種 blueprint 物件, 及其clones。物件具有變數 (attributes) 和函式 (methods).
 變數可存物件的狀態。LPC 多用於開發[MUD](../Page/MUD.md "wikilink")。
 
@@ -25,7 +26,9 @@ LPC 物件是一種 blueprint 物件, 及其clones。物件具有變數 (attribu
 ## 外部連結
 
   - *[LPC Basics](http://wl.mud.de/mud/doc/lpc/contents.html)* by
-    [George Reese](../Page/George_Reese.md "wikilink") on Apr 23rd, 1993
+    [George
+    Reese](https://zh.wikipedia.org/wiki/George_Reese "wikilink") on Apr
+    23rd, 1993
   - *[NannyMUD LPC](http://mud.stack.nl/manuals/lysator/manual.html)* by
     Mats H. Carlberg in March in 1998
   - *[Discworld MUD's LPC for Dummies, first

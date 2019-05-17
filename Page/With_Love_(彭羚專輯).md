@@ -1,5 +1,5 @@
 《**With
-Love**》是[彭羚的個人唱片](../Page/彭羚.md "wikilink")，是她第一張唱片，於1990年推出，總共分普通CD版及[黑膠唱片推出](../Page/黑膠唱片.md "wikilink")。2004年3月[百代唱片亦推出真存版](../Page/百代唱片.md "wikilink")，曲目和普通CD版相同。
+Love**》是[彭羚的個人唱片](../Page/彭羚.md "wikilink")，是她第一張唱片，於1990年推出，總共分普通CD版及[黑膠唱片推出](../Page/黑膠唱片.md "wikilink")。2004年3月[百代唱片亦推出真存版](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")，曲目和普通CD版相同。
 
 ## 曲目
 

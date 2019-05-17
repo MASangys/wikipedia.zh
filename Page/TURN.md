@@ -1,5 +1,5 @@
 **TURN**（全名**Traversal Using Relay NAT**），是一種資料傳輸協議（data-transfer
-protocol）。允許在TCP或UDP的連線上跨越[NAT或](../Page/NAT.md "wikilink")[防火牆](../Page/防火牆.md "wikilink")。
+protocol）。允許在TCP或UDP的連線上跨越[NAT或](https://zh.wikipedia.org/wiki/NAT "wikilink")[防火牆](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。
 
 TURN是一个client-server协议。TURN的NAT穿透方法與[STUN類似](../Page/STUN.md "wikilink")，都是通過取得應用層中的公有地址達到NAT穿透。但實現TURN
 client的終端必須在通訊開始前與TURN server進行交互，並要求TURN server產生"relay
@@ -10,7 +10,7 @@ port將資料傳送至peer，再由peer轉傳到另一方的TURN client。
 
 ## 參見
 
-  - [NAT穿越](../Page/NAT穿越.md "wikilink")
+  - [NAT穿越](https://zh.wikipedia.org/wiki/NAT穿越 "wikilink")
   - [Session Traversal Utilities for
     NAT](../Page/STUN.md "wikilink")（STUN）
   - [Interactive Connectivity

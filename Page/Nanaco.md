@@ -1,10 +1,10 @@
 [Nanaco_CARD.jpg](https://zh.wikipedia.org/wiki/File:Nanaco_CARD.jpg "fig:Nanaco_CARD.jpg")
 
-**nanaco**（）是[日本](../Page/日本.md "wikilink")[7\&I控股旗下公司](../Page/7&I控股.md "wikilink")所提供的[電子支付服務](../Page/電子貨幣.md "wikilink")，可透過[智慧卡或擁有](../Page/智慧卡.md "wikilink")「」功能的[手機使用](../Page/手機.md "wikilink")。自2007年4月23日開始發行以來，2008年5月底已發行約590萬張，2010年3月已突破1000萬張。
+**nanaco**（）是[日本](../Page/日本.md "wikilink")[7\&I控股旗下公司](../Page/7&I控股.md "wikilink")所提供的[電子支付服務](../Page/電子貨幣.md "wikilink")，可透過[智慧卡或擁有](../Page/智慧卡.md "wikilink")「」功能的[手機使用](https://zh.wikipedia.org/wiki/手機 "wikilink")。自2007年4月23日開始發行以來，2008年5月底已發行約590萬張，2010年3月已突破1000萬張。
 
 ## 概要
 
-採用[Sony的](../Page/索尼.md "wikilink")「[FeliCa](../Page/FeliCa.md "wikilink")」非接觸型IC卡技術。適用通路以日本[7-Eleven](../Page/7-Eleven.md "wikilink")、[伊藤洋華堂等](../Page/伊藤洋華堂.md "wikilink")7\&I控股旗下零售商為主。
+採用[Sony的](../Page/索尼.md "wikilink")「[FeliCa](../Page/FeliCa.md "wikilink")」非接觸型IC卡技術。適用通路以日本[7-Eleven](../Page/7-Eleven.md "wikilink")、[伊藤洋華堂等](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")7\&I控股旗下零售商為主。
 
 在屬於「7-Eleven」及「7\&I控股」的參考圖案之中，「Nana」是日文字「七」的含意，而長頸鹿的頭及頸部是在「7」的形狀。
 

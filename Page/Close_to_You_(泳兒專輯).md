@@ -30,8 +30,8 @@ Close to You 音樂會》2CDs。
 4.  我懷念的
 5.  笑忘書
 6.  願
-7.  愛在記憶中找你（[泳兒](../Page/泳兒.md "wikilink")、[林峯合唱](../Page/林峯.md "wikilink")）
-8.  赤地轉機（[林峯主唱](../Page/林峯.md "wikilink")）
+7.  愛在記憶中找你（[泳兒](../Page/泳兒.md "wikilink")、[林峯合唱](https://zh.wikipedia.org/wiki/林峯 "wikilink")）
+8.  赤地轉機（[林峯主唱](https://zh.wikipedia.org/wiki/林峯 "wikilink")）
 9.  講不出聲
 10. 中國話
 11. 黛玉笑了

@@ -1,13 +1,13 @@
 **羟醛-Tishchenko反应**（Aldol-Tishchenko
 reaction）是由[羟醛反应和](../Page/羟醛反应.md "wikilink")
-[Tishchenko反应组成的](../Page/Tishchenko反应.md "wikilink")[串联反应](../Page/串联反应.md "wikilink")。此反应是将[醛](../Page/醛.md "wikilink")[酮转变为](../Page/酮.md "wikilink")
-1,3-[二醇](../Page/二醇.md "wikilink")（或其单[酯](../Page/酯.md "wikilink")）的一种方法。
+[Tishchenko反应组成的](https://zh.wikipedia.org/wiki/Tishchenko反应 "wikilink")[串联反应](../Page/串联反应.md "wikilink")。此反应是将[醛](../Page/醛.md "wikilink")[酮转变为](../Page/酮.md "wikilink")
+1,3-[二醇](https://zh.wikipedia.org/wiki/二醇 "wikilink")（或其单[酯](../Page/酯.md "wikilink")）的一种方法。
 
-一般先用[LDA将酮去质子化生成](../Page/LDA.md "wikilink")[烯醇负离子](../Page/烯醇负离子.md "wikilink")。然后发生[羟醛加成反应](../Page/羟醛加成.md "wikilink")，得到的羟醛再与一分子醛发生[歧化](../Page/歧化.md "wikilink")，被还原为醇，并生成
+一般先用[LDA将酮去质子化生成](https://zh.wikipedia.org/wiki/LDA "wikilink")[烯醇负离子](https://zh.wikipedia.org/wiki/烯醇负离子 "wikilink")。然后发生[羟醛加成反应](https://zh.wikipedia.org/wiki/羟醛加成 "wikilink")，得到的羟醛再与一分子醛发生[歧化](https://zh.wikipedia.org/wiki/歧化 "wikilink")，被还原为醇，并生成
 1,3-二醇单酯。二醇单酯水解后得到二醇。
 
 以乙酰基三甲基硅烷\[1\]
-或[苯丙酮](../Page/苯丙酮.md "wikilink")\[2\]为原料时，反应后可得纯的[非对映体产物](../Page/非对映体.md "wikilink")。
+或[苯丙酮](https://zh.wikipedia.org/wiki/苯丙酮 "wikilink")\[2\]为原料时，反应后可得纯的[非对映体产物](https://zh.wikipedia.org/wiki/非对映体 "wikilink")。
 
 
 [Aldol-Tishchenko_reaction_1.png](https://zh.wikipedia.org/wiki/File:Aldol-Tishchenko_reaction_1.png "fig:Aldol-Tishchenko_reaction_1.png")

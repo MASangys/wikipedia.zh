@@ -1,5 +1,5 @@
 **豐田bB**（**Toyota
-bB**）是一款由[豐田汽車於](../Page/丰田汽车股份有限公司.md "wikilink")2000年推出的小型車系列。
+bB**）是一款由[豐田汽車於](https://zh.wikipedia.org/wiki/丰田汽车股份有限公司 "wikilink")2000年推出的小型車系列。
 
 ## 內容
 
@@ -15,7 +15,7 @@ L和1.5 L I4兩款引擎選擇。
 第二代於2005年東京車展中亮相。這是一種改裝型的大發Materia，裝有109hp 1.5L (Z Model) 3SZ-VE VVT-i
 引擎和92hp 1.3L (S Model) K3-VE VVT-i 引擎兩種版；還能選用四輪驅動配備。
 
-第二代之設計是針對美國市場。在[美國市場豐田bB是使用](../Page/美國.md "wikilink")「[賽揚汽車](../Page/賽揚汽車.md "wikilink")」的[品牌](../Page/品牌.md "wikilink")，於2004年起已經銷售。
+第二代之設計是針對美國市場。在[美國市場豐田bB是使用](https://zh.wikipedia.org/wiki/美國 "wikilink")「[賽揚汽車](../Page/賽揚汽車.md "wikilink")」的[品牌](../Page/品牌.md "wikilink")，於2004年起已經銷售。
 
 2008年11月，bB的兄弟車[速霸陸Dex投入市場](../Page/速霸陸Dex.md "wikilink")，可以選用四輪驅動4WD，也裝備了大發K3-VE
 1.3 L引擎。
@@ -29,7 +29,7 @@ xB.jpg|2008年美國版賽揚xB <File:Toyota> bB Open Deck 004.JPG|貨車版
 
 ## 內部連結
 
-  - [大發Coo](../Page/大發Coo.md "wikilink")
+  - [大發Coo](https://zh.wikipedia.org/wiki/大發Coo "wikilink")
   - [速霸陸Dex](../Page/速霸陸Dex.md "wikilink")
 
 ## 外部連結

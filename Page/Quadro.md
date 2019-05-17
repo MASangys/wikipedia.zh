@@ -1,14 +1,14 @@
 **Quadro**（發音：）核心代號**NV10GL**，基於[GeForce
-256設計](../Page/GeForce_256.md "wikilink")，是[NVIDIA的第一款專業核心](../Page/NVIDIA.md "wikilink")，定位於[工作站領域](../Page/工作站.md "wikilink")，於1999年11月1日發表\[1\]。Quadro這個單詞是[西班牙語中](../Page/西班牙語.md "wikilink")[正方形的意思](../Page/正方形.md "wikilink")，又可以表示四的倍數，即為四倍的效能。唯一採用該晶片的零售顯示卡是[ELSA（艾爾莎）公司的GLoria](../Page/Elsa.md "wikilink")
+256設計](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")，是[NVIDIA的第一款專業核心](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，定位於[工作站領域](../Page/工作站.md "wikilink")，於1999年11月1日發表\[1\]。Quadro這個單詞是[西班牙語中](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[正方形的意思](../Page/正方形.md "wikilink")，又可以表示四的倍數，即為四倍的效能。唯一採用該晶片的零售顯示卡是[ELSA（艾爾莎）公司的GLoria](https://zh.wikipedia.org/wiki/Elsa "wikilink")
 II系列，分為[AGP與AGP](../Page/AGP.md "wikilink")
-Pro版本，由ELSA自行設計製造，而[SGI亦在其工作站電腦](../Page/矽谷圖形公司.md "wikilink")330與550系列中採用了Quadro顯示卡，命名為VPro
+Pro版本，由ELSA自行設計製造，而[SGI亦在其工作站電腦](https://zh.wikipedia.org/wiki/矽谷圖形公司 "wikilink")330與550系列中採用了Quadro顯示卡，命名為VPro
 VR3，是由NVIDIA設計的「公版」顯示卡，採用加強供電設計的E11 PCB，其部件碼為BRD-010-E11-A。
 
-Quadro的[顯示](../Page/顯示.md "wikilink")[記憶體可以採用](../Page/記憶體.md "wikilink")[SDRAM或](../Page/SDRAM.md "wikilink")[DDR
+Quadro的[顯示](https://zh.wikipedia.org/wiki/顯示 "wikilink")[記憶體可以採用](https://zh.wikipedia.org/wiki/記憶體 "wikilink")[SDRAM或](../Page/SDRAM.md "wikilink")[DDR
 SDRAM](../Page/DDR_SDRAM.md "wikilink")，可以提供每秒5.4億[像素的圖像填充率](../Page/像素.md "wikilink")。它與[GeForce
-256採用相同的核心](../Page/GeForce_256.md "wikilink")，但[驅動程式可以提供GeForce](../Page/驅動程式.md "wikilink")
+256採用相同的核心](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")，但[驅動程式可以提供GeForce](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")
 256所不具備的點狀及線狀[反鋸齒等專業特性](../Page/反鋸齒.md "wikilink")，比[GeForce
-256擁有更強大的](../Page/GeForce_256.md "wikilink")[多邊形處理引擎和硬體](../Page/多邊形.md "wikilink")[T\&L引擎](../Page/T&L.md "wikilink")。它的競爭產品是[3DLABS的Wildcat](../Page/3DLABS.md "wikilink")
+256擁有更強大的](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")[多邊形處理引擎和硬體](https://zh.wikipedia.org/wiki/多邊形 "wikilink")[T\&L引擎](https://zh.wikipedia.org/wiki/T&L "wikilink")。它的競爭產品是[3DLABS的Wildcat](../Page/3DLABS.md "wikilink")
 4000與Wildcat 4105。
 
 ## 產品規格
@@ -30,7 +30,7 @@ SDRAM](../Page/DDR_SDRAM.md "wikilink")，可以提供每秒5.4億[像素的圖�
   - 記憶體頻寬
       - SDRAM記憶體：2.7 GB/s
       - DDR SDRAM記憶體：4.8 GB/s
-  - [RAMDAC頻率](../Page/RAMDAC.md "wikilink")：350 MHz
+  - [RAMDAC頻率](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")：350 MHz
   - 渲染管線：4 × 1
   - 頂點著色單元：1
   - 介面：AGP 4X/AGP Pro 4X
@@ -38,8 +38,8 @@ SDRAM](../Page/DDR_SDRAM.md "wikilink")，可以提供每秒5.4億[像素的圖�
 
 ## 更多資訊
 
-  - [NVIDIA顯示核心列表](../Page/NVIDIA顯示核心列表.md "wikilink")
-  - [GeForce 256](../Page/GeForce_256.md "wikilink")
+  - [NVIDIA顯示核心列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表 "wikilink")
+  - [GeForce 256](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")
 
 ## 參考
 

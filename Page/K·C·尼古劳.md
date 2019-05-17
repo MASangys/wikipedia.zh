@@ -2,21 +2,23 @@
 
 ## 生平
 
-  - 1946年 在[塞浦路斯卡拉瓦斯出生](../Page/塞浦路斯.md "wikilink")，希腊裔。他在那念书、长大，直至18岁。
-  - 1964年 来到英国，学了两年英语，后进入[伦敦大学学习化学](../Page/伦敦大学.md "wikilink")。
+  - 1946年
+    在[塞浦路斯卡拉瓦斯出生](https://zh.wikipedia.org/wiki/塞浦路斯 "wikilink")，希腊裔。他在那念书、长大，直至18岁。
+  - 1964年
+    来到英国，学了两年英语，后进入[伦敦大学学习化学](https://zh.wikipedia.org/wiki/伦敦大学 "wikilink")。
   - 1969年 在 Bedford College 取得理学学位。
   - 1972年 取得[伦敦大学学院博士学位](../Page/伦敦大学学院.md "wikilink")，师从F.
     Sondheimer和P. J. Garrat 教授。
   - 1972年 来到美国，在[哥伦比亚大学](../Page/哥伦比亚大学.md "wikilink")（1972－1973，师从
     T.J.Katz教授），[哈佛大学](../Page/哈佛大学.md "wikilink")（1973－1976，师从[E. J.
-    Corey](../Page/E._J._Corey.md "wikilink")），获博士后。后成为[宾夕法尼亚大学的](../Page/宾夕法尼亚大学.md "wikilink")
+    Corey](https://zh.wikipedia.org/wiki/E._J._Corey "wikilink")），获博士后。后成为[宾夕法尼亚大学的](../Page/宾夕法尼亚大学.md "wikilink")
     hodes-Thompson化学教授。
   - 1989年
-    被任命为[圣地牙哥加利福尼亚大学化学教授](../Page/圣地牙哥加利福尼亚大学.md "wikilink")，[斯克里普斯研究所](../Page/斯克里普斯研究所.md "wikilink")（Scripps
+    被任命为[圣地牙哥加利福尼亚大学化学教授](https://zh.wikipedia.org/wiki/圣地牙哥加利福尼亚大学 "wikilink")，[斯克里普斯研究所](https://zh.wikipedia.org/wiki/斯克里普斯研究所 "wikilink")（Scripps
     Research Institute）Darlene Shiley 教授、化学系主任。
   - 1996年 被任命为Scripps研究所的Aline W. 和 L.S. Skaggs 化学生物学教授。
   - 2013年
-    離開[圣地牙哥加利福尼亚大学](../Page/圣地牙哥加利福尼亚大学.md "wikilink")，被任命為[萊斯大學的Harry](../Page/萊斯大學.md "wikilink")
+    離開[圣地牙哥加利福尼亚大学](https://zh.wikipedia.org/wiki/圣地牙哥加利福尼亚大学 "wikilink")，被任命為[萊斯大學的Harry](../Page/萊斯大學.md "wikilink")
     C.和Olga K. Wiess化學教授。
 
 ## 研究
@@ -25,8 +27,9 @@
 
 endiandric acids、amphotericin
 B、calicheamicin1I、rapamycin、[紫杉醇](../Page/紫杉醇.md "wikilink")（Taxol®）、zaragozic
-acid、brevetoxin B、brevetoxin A、[埃博霉素](../Page/埃博霉素.md "wikilink")（the
-epothilones）、eleutherobin、[万古霉素](../Page/万古霉素.md "wikilink")（vancomycin）、the
+acid、brevetoxin B、brevetoxin
+A、[埃博霉素](https://zh.wikipedia.org/wiki/埃博霉素 "wikilink")（the
+epothilones）、eleutherobin、[万古霉素](https://zh.wikipedia.org/wiki/万古霉素 "wikilink")（vancomycin）、the
 CP-molecules、sanglifehrin、the bisorbicillinoids、apoptolidin、the
 coleophomones、diazonamide A、1-O-methyllateriflorone、the
 azaspiracids、thiostrepton、the bisanthraquinones、the abyssomicins、the
@@ -35,8 +38,9 @@ marinomycins、platensimycin、uncialamycin、biyouyanagin、platencin、cortist
 
 合成法有：
 
-  - 基于 [IBX](../Page/IBX.md "wikilink") 和
-    [DMP](../Page/DMP.md "wikilink") 的氧化反应和环化反应 （Nicolaou 氧化反应）
+  - 基于 [IBX](https://zh.wikipedia.org/wiki/IBX "wikilink") 和
+    [DMP](https://zh.wikipedia.org/wiki/DMP "wikilink") 的氧化反应和环化反应
+    （Nicolaou 氧化反应）
   - 硒诱导的关环反应
   - 基于硫代糖苷的糖化反应
   - 大环成环反应
@@ -82,11 +86,13 @@ marinomycins、platensimycin、uncialamycin、biyouyanagin、platencin、cortist
 
 成员：
 
-  - [纽约科学院成员](../Page/纽约科学院.md "wikilink") (1987)
-  - [美国艺术与科学院成员](../Page/美国艺术与科学院.md "wikilink") (1993)
+  - [纽约科学院成员](https://zh.wikipedia.org/wiki/纽约科学院 "wikilink") (1987)
+  - [美国艺术与科学院成员](https://zh.wikipedia.org/wiki/美国艺术与科学院 "wikilink")
+    (1993)
   - [美国国家科学院成员](../Page/美国国家科学院.md "wikilink") (1996)
   - 美国科学发展促进协会成员 (1999)
-  - [雅典科学院外籍成员](../Page/雅典科学院.md "wikilink") (希腊 2001)
+  - [雅典科学院外籍成员](https://zh.wikipedia.org/wiki/雅典科学院 "wikilink") (希腊
+    2001)
 
 ## 參見
 

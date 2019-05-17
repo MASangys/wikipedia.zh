@@ -1,35 +1,34 @@
-《**STEP**》是韩国女子音乐组合[Kara的第三张](../Page/Kara.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2011年9月9日由DSP
-Media發行。\[1\]
+{{ infobox software | name = Step | logo = Oxygen15.04.1-step.svg |
+screenshot = Screenshot of step.png | screenshot size = 200px | caption
+= | collapsible = | author = Vladimir Kuznetsov | developer = | released
+= | programming language = [C++](../Page/C++.md "wikilink") | operating
+system = [Linux](../Page/Linux.md "wikilink") | platform = | size = |
+language = | status = | genre = 教育 | license =
+[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") |
+website =  }}
+**Step**是一個開源的二維[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")，[KDE教育計劃的一分子](https://zh.wikipedia.org/wiki/KDE教育計劃 "wikilink")。\[1\]
 
-## 收錄曲
+## 歷史
 
-## 奖项
+此程式是由 Vladimir Kuznetsov 開發並在 2007年2月介紹。\[2\]和 [KDE
+4.1](https://zh.wikipedia.org/wiki/KDE_4#KDE_4.1 "wikilink") 一起發布。
 
-### 大型颁奖礼奖项
+## 描述
 
-  - 日本Recochoku周榜 - 第一位《STEP》
-  - 第26届韩国金唱片大赏 - 最佳韩流明星赏、唱片本赏《STEP》
+Step為國際標準（ISO
+10303）3D模型規範，基於用戶放置的物體和施力。物體範圍從微小的粒子，到巨大的多邊形，每個物體都有其獨特的屬性會影響的模擬結果，如[質量和](https://zh.wikipedia.org/wiki/質量 "wikilink")[速度](../Page/速度.md "wikilink")
+，和其推導如[動能](https://zh.wikipedia.org/wiki/動能 "wikilink")
+。施力可以是直接由用戶或增加[重力](https://zh.wikipedia.org/wiki/重力 "wikilink")、[庫侖力或其他影響產生](https://zh.wikipedia.org/wiki/庫侖定律 "wikilink")。Step允許模擬後恢復，使用戶可以修改物體和施力，看看如何影響到結果的模擬。
+所有物體和施力也可以進行實時修改。
 
-### 歌曲节目奖项
+## 參考文獻
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲 | 排名               |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ---- | ---------------- |
-| 2011年 | 9月15日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
-| 2011年 | 9月16日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
-| 2011年 | 9月22日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | STEP | 1位               |
-| 2011年 | 9月23日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 1位               |
-| 2011年 | 9月25日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | STEP | 1位(Mutizen Song) |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | STEP | 年终总结 第13位        |
+[Category:KDE软件](https://zh.wikipedia.org/wiki/Category:KDE软件 "wikilink")
+[Category:自由物理软件](https://zh.wikipedia.org/wiki/Category:自由物理软件 "wikilink")
+[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+[Category:KDE教育計劃](https://zh.wikipedia.org/wiki/Category:KDE教育計劃 "wikilink")
+[Category:科学教育软件](https://zh.wikipedia.org/wiki/Category:科学教育软件 "wikilink")
+[Category:自由教育軟件](https://zh.wikipedia.org/wiki/Category:自由教育軟件 "wikilink")
 
-## 備註
-
-<references/>
-
-[Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")
-
-1.  [Amazon.com『STEP』韓国盤](http://www.amazon.co.jp/KARA-STEP-Album-Special-%E9%9F%93%E5%9B%BD%E8%BC%B8%E5%85%A5%E7%9B%A4/dp/B005J1TOBQ/ref=ntt_mus_ep_dpi_5)
+1.
+2.

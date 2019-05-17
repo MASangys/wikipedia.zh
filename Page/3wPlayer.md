@@ -5,8 +5,8 @@
 DivoCodec或Divo
 Codec也被鉴定为与3wPlayer类似的病毒。它指导用户下载[编解码器用来观看AVI文件](../Page/编解码器.md "wikilink")。
 
-但实际上DivoCodec在用户的计算机上安装恶意软件，而不是真正的编解码器。DivoCodec有不同的变型。据悉它也写入其它[进程的](../Page/进程.md "wikilink")[虚拟内存](../Page/虚拟内存.md "wikilink")
-([进程劫持](../Page/进程劫持.md "wikilink")，).
+但实际上DivoCodec在用户的计算机上安装恶意软件，而不是真正的编解码器。DivoCodec有不同的变型。据悉它也写入其它[进程的](https://zh.wikipedia.org/wiki/进程 "wikilink")[虚拟内存](../Page/虚拟内存.md "wikilink")
+([进程劫持](https://zh.wikipedia.org/wiki/进程劫持 "wikilink")，).
 
 ## DomPlayer
 

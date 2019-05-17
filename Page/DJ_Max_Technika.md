@@ -1,4 +1,4 @@
-，是由[韩国的](../Page/韩国.md "wikilink")[Pentavision株式会社研发和销售](../Page/Pentavision.md "wikilink")，仅在街机平台推出的[音乐游戏](../Page/音乐游戏.md "wikilink")。此游戏是“DJMAX
+，是由[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Pentavision株式会社研发和销售](../Page/Pentavision.md "wikilink")，仅在街机平台推出的[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是“DJMAX
 METRO PROJECT”系列中第一部对外公开的作品。
 
 ## 機體配置
@@ -7,9 +7,9 @@ METRO PROJECT”系列中第一部对外公开的作品。
 其他的配件含：震動地板、配合遊戲節奏的燈光系統以及環繞立體聲喇叭系統。機體中間有**白金會員**（Platinum
 Crew）驗證卡片的讀卡機槽。
 
-街机主机由[英特尔](../Page/英特尔.md "wikilink")[赛扬](../Page/赛扬.md "wikilink")[E1400](../Page/Intel_Celeron_處理器列表#.22Allendale.22_.28standard-voltage.2C_65_nm.29.md "wikilink")、2GB内存、[BIOSTAR](../Page/BIOSTAR.md "wikilink")（[映泰](../Page/映泰.md "wikilink")）P31[主機板](../Page/主機板.md "wikilink")、[西部数据](../Page/西部数据.md "wikilink")160GB[硬盘](../Page/硬盘.md "wikilink")、[创新科技Audigy声卡以及](../Page/创新科技.md "wikilink")[ATI](../Page/ATI.md "wikilink")
+街机主机由[英特尔](../Page/英特尔.md "wikilink")[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[E1400](https://zh.wikipedia.org/wiki/Intel_Celeron_處理器列表#.22Allendale.22_.28standard-voltage.2C_65_nm.29 "wikilink")、2GB内存、[BIOSTAR](https://zh.wikipedia.org/wiki/BIOSTAR "wikilink")（[映泰](https://zh.wikipedia.org/wiki/映泰 "wikilink")）P31[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")、[西部数据](https://zh.wikipedia.org/wiki/西部数据 "wikilink")160GB[硬盘](../Page/硬盘.md "wikilink")、[创新科技Audigy声卡以及](../Page/创新科技.md "wikilink")[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
 [Radeon显卡搭建而成](../Page/Radeon.md "wikilink")，运行系统核心为[嵌入版Windows
-XP](../Page/Windows_XP_Embedded.md "wikilink")。触摸屏为红外线感应型，支持多点触摸(通过软件算法模拟而成，并非苹果公司的专利多点触摸技术)。
+XP](https://zh.wikipedia.org/wiki/Windows_XP_Embedded "wikilink")。触摸屏为红外线感应型，支持多点触摸(通过软件算法模拟而成，并非苹果公司的专利多点触摸技术)。
 
 ## 游戏说明
 
@@ -79,7 +79,7 @@ Mixing模式使用。玩家可以借此管理个人信息、在线排行、道�
 ## 参见
 
   - [DJMax](../Page/DJMax.md "wikilink")
-  - [音乐游戏](../Page/音乐游戏.md "wikilink")
+  - [音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")
 
 [Category:街机游戏](https://zh.wikipedia.org/wiki/Category:街机游戏 "wikilink")
 [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")

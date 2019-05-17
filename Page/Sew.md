@@ -2,9 +2,9 @@
 
 ## 发展历史
 
-目前，SEW已经发展成为跨国企业，主要生产[伺服电机](../Page/伺服电机.md "wikilink")，[变频器](../Page/变频器.md "wikilink"),[分散控制系统和](../Page/分散控制系统.md "wikilink")[减速电机](../Page/减速电机.md "wikilink")，员工超过11,000人，年销售额超过20亿欧元。
+目前，SEW已经发展成为跨国企业，主要生产[伺服电机](https://zh.wikipedia.org/wiki/伺服电机 "wikilink")，[变频器](https://zh.wikipedia.org/wiki/变频器 "wikilink"),[分散控制系统和](https://zh.wikipedia.org/wiki/分散控制系统 "wikilink")[减速电机](https://zh.wikipedia.org/wiki/减速电机 "wikilink")，员工超过11,000人，年销售额超过20亿欧元。
 
-SEW总部设在德国南部的[布赫萨尔](../Page/布赫萨尔.md "wikilink"),其制造装配和服务中心遍布世界各地。SEW是[分散控制技术的领导者](../Page/分散控制技术.md "wikilink")，生产的产品诸如Movimot
+SEW总部设在德国南部的[布赫萨尔](https://zh.wikipedia.org/wiki/布赫萨尔 "wikilink"),其制造装配和服务中心遍布世界各地。SEW是[分散控制技术的领导者](https://zh.wikipedia.org/wiki/分散控制技术 "wikilink")，生产的产品诸如Movimot
 ， Movigear（IE4） ， Moviswitch ，和Movitrans系列
 。此外，它已经进入了大型工业齿轮箱的市场，其产品如螺旋型，锥螺旋型，和行星型变速箱。
 

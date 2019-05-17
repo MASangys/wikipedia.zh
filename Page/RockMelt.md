@@ -1,9 +1,9 @@
-**RockMelt**是一款[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")，以[Chromium原始碼為基礎](../Page/Chromium_\(浏览器\).md "wikilink")，由提姆·豪斯（Tim
-Howes，[LDAP的發明者之一](../Page/LDAP.md "wikilink")）及艾瑞克·維夏（Eric
-Vishria）成立的同名公司所開發，並獲得曾開發[Netscape瀏覽器](../Page/Netscape.md "wikilink")，目前為[Facebook](../Page/Facebook.md "wikilink")[董事的](../Page/董事.md "wikilink")[馬克·安德森](../Page/馬克·安德森.md "wikilink")（Marc
+**RockMelt**是一款[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，以[Chromium原始碼為基礎](https://zh.wikipedia.org/wiki/Chromium_\(浏览器\) "wikilink")，由提姆·豪斯（Tim
+Howes，[LDAP的發明者之一](https://zh.wikipedia.org/wiki/LDAP "wikilink")）及艾瑞克·維夏（Eric
+Vishria）成立的同名公司所開發，並獲得曾開發[Netscape瀏覽器](https://zh.wikipedia.org/wiki/Netscape "wikilink")，目前為[Facebook](../Page/Facebook.md "wikilink")[董事的](../Page/董事.md "wikilink")[馬克·安德森](https://zh.wikipedia.org/wiki/馬克·安德森 "wikilink")（Marc
 Andreessen）資金贊助\[1\]。
 
-RockMelt號稱將是首款整合[Facebook](../Page/Facebook.md "wikilink")、[Twitter等](../Page/Twitter.md "wikilink")[社交網站功能的社交瀏覽器](../Page/社交網站.md "wikilink")\[2\]。
+RockMelt號稱將是首款整合[Facebook](../Page/Facebook.md "wikilink")、[Twitter等](../Page/Twitter.md "wikilink")[社交網站功能的社交瀏覽器](https://zh.wikipedia.org/wiki/社交網站 "wikilink")\[2\]。
 
 ## 歷史
 
@@ -12,7 +12,7 @@ RockMelt號稱將是首款整合[Facebook](../Page/Facebook.md "wikilink")、[Tw
   - 2012年10月11日，推出iPad版\[5\]。
   - 2013年6月19日，推出Android版\[6\]。
   - 2013年6月27日，推出Windows版\[7\]。
-  - 2013年8月2日，被[雅虎公司收購](../Page/雅虎公司.md "wikilink")\[8\]。
+  - 2013年8月2日，被[雅虎公司收購](https://zh.wikipedia.org/wiki/雅虎公司 "wikilink")\[8\]。
   - 2013年8月31日，宣佈停止開發\[9\]。
 
 ## 参考資料

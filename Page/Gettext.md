@@ -3,7 +3,7 @@
 ## 开发
 
 程序源代码需要进行修改以响应GNU
-gettext请求。多数[编程语言均已通过字符封装的方式实现了对其的支持](../Page/编程语言.md "wikilink")。为了减少输入量和代码量，此功能通常以标记[别名](../Page/别名.md "wikilink")“_”的形式使用，所以例如以下[C语言代码](../Page/C语言.md "wikilink")：
+gettext请求。多数[编程语言均已通过字符封装的方式实现了对其的支持](../Page/编程语言.md "wikilink")。为了减少输入量和代码量，此功能通常以标记[别名](https://zh.wikipedia.org/wiki/别名 "wikilink")“_”的形式使用，所以例如以下[C语言代码](https://zh.wikipedia.org/wiki/C语言 "wikilink")：
 
 ``` c
 printf(gettext("My name is %s.\n"), my_name);
@@ -17,13 +17,13 @@ printf(_("My name is %s.\n"), my_name);
 
 gettext使用其中的字符串寻找对应的其他语言翻译，若没有可用翻译则返回原始内容。
 
-除[C语言外](../Page/C语言.md "wikilink"), GNU
-gettext还支持[C++](../Page/C++.md "wikilink")，[Objective-C](../Page/Objective-C.md "wikilink")，[Pascal](../Page/Pascal语言.md "wikilink")/[Object
-Pascal](../Page/Object_Pascal.md "wikilink")，[sh脚本](../Page/Bourne_shell.md "wikilink")，[bash脚本](../Page/bash.md "wikilink")，[Python](../Page/Python语言.md "wikilink")，GNU
-[CLISP](../Page/CLISP.md "wikilink")，[Emacs
+除[C语言外](https://zh.wikipedia.org/wiki/C语言 "wikilink"), GNU
+gettext还支持[C++](../Page/C++.md "wikilink")，[Objective-C](../Page/Objective-C.md "wikilink")，[Pascal](https://zh.wikipedia.org/wiki/Pascal语言 "wikilink")/[Object
+Pascal](../Page/Object_Pascal.md "wikilink")，[sh脚本](../Page/Bourne_shell.md "wikilink")，[bash脚本](https://zh.wikipedia.org/wiki/bash "wikilink")，[Python](https://zh.wikipedia.org/wiki/Python语言 "wikilink")，GNU
+[CLISP](https://zh.wikipedia.org/wiki/CLISP "wikilink")，[Emacs
 Lisp](../Page/Emacs_Lisp.md "wikilink")，librep，GNU
-[Smalltalk](../Page/Smalltalk.md "wikilink")，[Java](../Page/Java语言.md "wikilink")，GNU
-[awk](../Page/AWK.md "wikilink")，[wxWidgets](../Page/wxWidgets.md "wikilink")（通过wxLocale类），YCP（[YaST2语言](../Page/YaST2.md "wikilink")），[Tcl](../Page/Tcl.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[Pike](../Page/Pike语言.md "wikilink")，[Ruby以及](../Page/Ruby语言.md "wikilink")[R](../Page/R语言.md "wikilink")。用法均与在[C语言上类似](../Page/C语言.md "wikilink")。
+[Smalltalk](../Page/Smalltalk.md "wikilink")，[Java](https://zh.wikipedia.org/wiki/Java语言 "wikilink")，GNU
+[awk](../Page/AWK.md "wikilink")，[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")（通过wxLocale类），YCP（[YaST2语言](https://zh.wikipedia.org/wiki/YaST2 "wikilink")），[Tcl](../Page/Tcl.md "wikilink")，[Perl](../Page/Perl.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[Pike](https://zh.wikipedia.org/wiki/Pike语言 "wikilink")，[Ruby以及](https://zh.wikipedia.org/wiki/Ruby语言 "wikilink")[R](../Page/R语言.md "wikilink")。用法均与在[C语言上类似](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 xgettext程序从源代码生成**.pot**文件，作为源代码中需翻译内容的模板。一个典型的.pot文件条目应当是这样的：
 
@@ -33,7 +33,7 @@ msgid "My name is %s.\n"
 msgstr ""
 ```
 
-[注释被直接放置在字符串前](../Page/注释.md "wikilink")，用于帮助翻译者理解待翻译内容：
+[注释被直接放置在字符串前](https://zh.wikipedia.org/wiki/注释 "wikilink")，用于帮助翻译者理解待翻译内容：
 
 ``` c
 /// TRANSLATORS: Please leave %s as it is, because it is needed by the program.
@@ -73,7 +73,7 @@ msgid "My name is %s.\n"
 msgstr ""
 ```
 
-翻译者需要手工或使用类似[Poedit](../Page/Poedit.md "wikilink")、[gtranslator](../Page/gtranslator.md "wikilink")、[OmegaT或](../Page/OmegaT.md "wikilink")[Emacs等工具的相应模式编辑该文件](../Page/Emacs.md "wikilink")。翻译完成后，文件应为如下的样子：
+翻译者需要手工或使用类似[Poedit](../Page/Poedit.md "wikilink")、[gtranslator](https://zh.wikipedia.org/wiki/gtranslator "wikilink")、[OmegaT或](../Page/OmegaT.md "wikilink")[Emacs等工具的相应模式编辑该文件](../Page/Emacs.md "wikilink")。翻译完成后，文件应为如下的样子：
 
 ``` gettext
 #: src/name.c:36
@@ -85,15 +85,15 @@ msgstr "Je m'appelle %s.\n"
 
 ## 執行
 
-使用[Unix类型操作系统的用户只需设置](../Page/Unix.md "wikilink")[环境变量中的](../Page/环境变量.md "wikilink")`LC_MESSAGES(但是ubuntu
+使用[Unix类型操作系统的用户只需设置](https://zh.wikipedia.org/wiki/Unix "wikilink")[环境变量中的](../Page/环境变量.md "wikilink")`LC_MESSAGES(但是ubuntu
 linux 是用LANG)`，程序将自动从相应的`.mo`文件中读取语言信息。
 
 ## 参考
 
 ## 另见
 
-  - [国际化和本地化](../Page/国际化和本地化.md "wikilink")
-  - [翻译工具](../Page/翻译工具.md "wikilink")
+  - [国际化和本地化](https://zh.wikipedia.org/wiki/国际化和本地化 "wikilink")
+  - [翻译工具](https://zh.wikipedia.org/wiki/翻译工具 "wikilink")
 
 ## 外部链接
 

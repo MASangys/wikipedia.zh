@@ -1,9 +1,9 @@
-**Google新闻**是[Google开发的一款](../Page/Google.md "wikilink")[Web新闻聚合器](../Page/Web.md "wikilink")，由Google首席工程師[克里希纳·巴拉特](../Page/克里希纳·巴拉特.md "wikilink")（Krishna
+**Google新闻**是[Google开发的一款](../Page/Google.md "wikilink")[Web新闻聚合器](https://zh.wikipedia.org/wiki/Web "wikilink")，由Google首席工程師[克里希纳·巴拉特](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")（Krishna
 Bharat）創造與領導開發。
 
 ## 歷史
 
-2001年Google的首席科学家[克里希纳·巴拉特开发出一个与](../Page/克里希纳·巴拉特.md "wikilink")[PageRank相关的算法](../Page/佩奇排名.md "wikilink")“StoryRank”，它是Google新聞的前身。Google新聞的首页更新和新闻推荐都不依赖于人工操作，全部由后台的聚合算法实现。
+2001年Google的首席科学家[克里希纳·巴拉特开发出一个与](https://zh.wikipedia.org/wiki/克里希纳·巴拉特 "wikilink")[PageRank相关的算法](https://zh.wikipedia.org/wiki/佩奇排名 "wikilink")“StoryRank”，它是Google新聞的前身。Google新聞的首页更新和新闻推荐都不依赖于人工操作，全部由后台的聚合算法实现。
 
 2002年3月，Google新聞發佈測試版，直至2006年1月23日成為正式版。
 

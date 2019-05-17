@@ -6,10 +6,11 @@
 4，中文译名KDE软件集4）是[KDE社区發布的桌面環境的最新系列](../Page/KDE.md "wikilink")。本系列第一個主要版本（4.0）發布於2008年1月11日，\[1\]最新的主要版本（4.14）發布於2014年8月20日。\[2\]
 
 新系列包括更新數個KDE核心組成，特別是移植到[Qt
-4](../Page/Qt.md "wikilink")。包含一個稱為[Phonon新的多媒體API](../Page/Phonon_\(KDE\).md "wikilink")，一個稱為[Solid的設備整合框架和稱為](../Page/Solid_\(KDE\).md "wikilink")[Oxygen的新風格指引和預設圖標集](../Page/Oxygen.md "wikilink")。它也包括稱為[Plasma的新桌面和面板用戶界面工具](../Page/Plasma_\(KDE\).md "wikilink")，支持桌面元件（稱為｢Plasmoids｣）。使用Qt
+4](../Page/Qt.md "wikilink")。包含一個稱為[Phonon新的多媒體API](../Page/Phonon_\(KDE\).md "wikilink")，一個稱為[Solid的設備整合框架和稱為](https://zh.wikipedia.org/wiki/Solid_\(KDE\) "wikilink")[Oxygen的新風格指引和預設圖標集](https://zh.wikipedia.org/wiki/Oxygen "wikilink")。它也包括稱為[Plasma的新桌面和面板用戶界面工具](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")，支持桌面元件（稱為｢Plasmoids｣）。使用Qt
 4將有利於支持非X11的平台，包括[Microsoft
-Windows和](../Page/Microsoft_Windows.md "wikilink")[Mac OS
-X](../Page/Mac_OS_X.md "wikilink")。KDE 4其中一個總體目標是能更加容易地移植到不同的操作系統。
+Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
+OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。KDE
+4其中一個總體目標是能更加容易地移植到不同的操作系統。
 
 主要版本（4.x）每6個月發布，每個月發佈錯誤修正的版本（4.x.y）。\[3\]
 
@@ -25,14 +26,14 @@ Kfind，一個使用數百圖標的應用程序，启动时间几乎减少了四
 
 許多在[Extragear和](../Page/Extragear.md "wikilink")[KOffice模塊的應用程序已加入KDE](../Page/KOffice.md "wikilink")
 4和Qt 4的新功能。但由於他們根據自己的發布計劃，他們並沒有隨著第一次的KDE
-4發布–其中包括[Amarok](../Page/Amarok.md "wikilink")、[K3b](../Page/K3b.md "wikilink")、[digiKam](../Page/digiKam.md "wikilink")、[KWord和](../Page/KWord.md "wikilink")[Krita](../Page/Krita.md "wikilink")。
+4發布–其中包括[Amarok](../Page/Amarok.md "wikilink")、[K3b](../Page/K3b.md "wikilink")、[digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")、[KWord和](../Page/KWord.md "wikilink")[Krita](../Page/Krita.md "wikilink")。
 
 ### 視覺
 
-最顯著的變化是[Oxygen提供的新圖標](../Page/Oxygen.md "wikilink")、主題和聲音。這些代表了擺脫KDE以前的卡通外觀的圖標和圖形。相反氧氣圖標選擇更加寫實的風格。Oxygen團隊藉由社群的幫助下在KDE
+最顯著的變化是[Oxygen提供的新圖標](https://zh.wikipedia.org/wiki/Oxygen "wikilink")、主題和聲音。這些代表了擺脫KDE以前的卡通外觀的圖標和圖形。相反氧氣圖標選擇更加寫實的風格。Oxygen團隊藉由社群的幫助下在KDE
 4提供更好的視覺效果，雙方交替圖標集和獲獎的桌布被加入Oxygen。\[6\]並有一組新的HIG提供一個更標準化的版面配置。
 
-[Plasma提供了主要的桌面用戶界面](../Page/Plasma_\(KDE\).md "wikilink")，重寫了幾個核心KDE應用程序，如桌面繪圖和widget引擎。Plasma將提供一個更具自定性的桌面和更靈活的widget。
+[Plasma提供了主要的桌面用戶界面](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")，重寫了幾個核心KDE應用程序，如桌面繪圖和widget引擎。Plasma將提供一個更具自定性的桌面和更靈活的widget。
 
 [KWin](../Page/KWin.md "wikilink")：KDE的窗口管理器，現在提供了自己的合成效果。
 
@@ -92,7 +93,7 @@ KDE SC 4.4發佈于2010年2月9日。
 KDE SC 4.4基於2009年年底發布的[Qt](../Page/Qt.md "wikilink") 4.6。\[16\] KDE SC
 4.4將獲得Qt的性能提升以及Qt 4.6的新功能，如新的動畫框架*Kinetic*。
 
-[KAddressBook將被一個具有相同的名稱全新的應用程序](../Page/KAddressBook.md "wikilink")（先前暫名為KContactManager）取代。\[17\]
+[KAddressBook將被一個具有相同的名稱全新的應用程序](https://zh.wikipedia.org/wiki/KAddressBook "wikilink")（先前暫名為KContactManager）取代。\[17\]
 KDE SC
 4.4的KAddressBook的特點是完全整合[Akonadi與簡化的用戶界面](../Page/Akonadi.md "wikilink")。
 
@@ -116,11 +117,11 @@ WebKit库提供与[Konqueror中的网络设置](../Page/Konqueror.md "wikilink")
 
 ### Plasma Desktop and Netbook 4.5.0
 
-[Plasma桌面的易用性得到改进](../Page/Plasma.md "wikilink")，包括精简通知和任务区域和采用[Freedesktop.org的通知协议](../Page/Freedesktop.org.md "wikilink")。\[23\]
+[Plasma桌面的易用性得到改进](https://zh.wikipedia.org/wiki/Plasma "wikilink")，包括精简通知和任务区域和采用[Freedesktop.org的通知协议](../Page/Freedesktop.org.md "wikilink")。\[23\]
 
 ### KDE Applications 4.5.0
 
-虚拟地球仪[Marble支持](../Page/Marble.md "wikilink")[OpenRouteService服务](../Page/OpenRouteService.md "wikilink")。
+虚拟地球仪[Marble支持](https://zh.wikipedia.org/wiki/Marble "wikilink")[OpenRouteService服务](https://zh.wikipedia.org/wiki/OpenRouteService "wikilink")。
 
 网络浏览器[Konqueror可以通过Extragear中的KWebKit组件来使用](../Page/Konqueror.md "wikilink")[WebKit](../Page/WebKit.md "wikilink")。\[24\]
 

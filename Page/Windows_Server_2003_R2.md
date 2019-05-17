@@ -6,14 +6,14 @@ SP1以外，還有另外一片CD，包含更多新的功能。
 
   - **分支办事处服务器管理**
       - 文件和打印机集中管理工具
-      - 增强的[分布式文件系统](../Page/分布式文件系统.md "wikilink")（DFS）命名空间管理界面
-      - 使用[远程差别压缩的更有效的广域网数据复制](../Page/远程差别压缩.md "wikilink")
+      - 增强的[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")（DFS）命名空间管理界面
+      - 使用[远程差别压缩的更有效的广域网数据复制](https://zh.wikipedia.org/wiki/远程差别压缩 "wikilink")
   - 身份和权限管理
       - 外网单点登录和身份联合
       - 对外网应用访问的集中式管理
       - 根据活动目录帐户信息自动禁止外网访问
       - 用户访问日志
-      - 跨平台的网页单点登录和密码同步，采用[网络信息服务](../Page/网络信息服务.md "wikilink")（NIS）
+      - 跨平台的网页单点登录和密码同步，采用[网络信息服务](https://zh.wikipedia.org/wiki/网络信息服务 "wikilink")（NIS）
   - 存储管理
       - 文件服务器资源管理器 (storage utilization reporting)
       - 增强的配额管理
@@ -33,8 +33,8 @@ SP1以外，還有另外一片CD，包含更多新的功能。
 
   - Windows Server
     2003标准版零售价格为999.00[美元](../Page/美元.md "wikilink")，包括5个Active
-    Directory。客户也可以通过原始厂商[OEM与](../Page/OEM.md "wikilink")[批量许可](../Page/批量许可.md "wikilink")（Volume
-    License；又稱「[大量授權](../Page/大量授權.md "wikilink")」）方式取得。
+    Directory。客户也可以通过原始厂商[OEM与](https://zh.wikipedia.org/wiki/OEM "wikilink")[批量许可](https://zh.wikipedia.org/wiki/批量许可 "wikilink")（Volume
+    License；又稱「[大量授權](https://zh.wikipedia.org/wiki/大量授權 "wikilink")」）方式取得。
 
 <!-- end list -->
 

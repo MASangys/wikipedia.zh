@@ -3,7 +3,7 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:JGSDF_OH-1（32634）_external_fuel_tanks_and_type_91_AAM.JPG "fig:缩略图")
 [缩略图](https://zh.wikipedia.org/wiki/File:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG "fig:缩略图")
 **川崎OH-1**（Kawasaki
-OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](../Page/川崎重工業.md "wikilink")，是[陸上自衛隊採用的輕型軍用偵察直升機](../Page/陸上自衛隊.md "wikilink")，以取代[OH-6「卡尤塞」直升機而設計](../Page/OH-6A直升機.md "wikilink")。它的兩台[渦輪軸引擎為](../Page/渦輪軸發動機.md "wikilink")[三菱重工業生產製造](../Page/三菱重工業.md "wikilink")，因執行潛入敵陣得到信息的任務而有「忍者」的愛稱\[1\]\[2\]。
+OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](../Page/川崎重工業.md "wikilink")，是[陸上自衛隊採用的輕型軍用偵察直升機](../Page/陸上自衛隊.md "wikilink")，以取代[OH-6「卡尤塞」直升機而設計](https://zh.wikipedia.org/wiki/OH-6A直升機 "wikilink")。它的兩台[渦輪軸引擎為](https://zh.wikipedia.org/wiki/渦輪軸發動機 "wikilink")[三菱重工業生產製造](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，因執行潛入敵陣得到信息的任務而有「忍者」的愛稱\[1\]\[2\]。
 
 ## 基本諸元
 
@@ -14,7 +14,7 @@ OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](..
   - 旋翼旋轉面積：105.6 m2 (1,136 ft2)
   - 空重：2,450 kg (5,400 lb)
   - 最大起飛重量：4,000 kg (8,820 lb)
-  - 發動機：2具[三菱TS1-M-10](../Page/:ja:TS1_\(エンジン\).md "wikilink")
+  - 發動機：2具[三菱TS1-M-10](https://zh.wikipedia.org/wiki/:ja:TS1_\(エンジン\) "wikilink")
     渦輪軸引擎，每台660 kW (884 shp)。
 
 ### 性能表現
@@ -34,13 +34,15 @@ OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](..
 
   - 《[戰國自衛隊1549](../Page/戰國自衛隊1549.md "wikilink")》（Samurai Commando:
     Mission 1549）
-  - 《[真·哥斯拉](../Page/真·哥斯拉.md "wikilink")》 (Shin Godzilla)
+  - 《[真·哥斯拉](https://zh.wikipedia.org/wiki/真·哥斯拉 "wikilink")》 (Shin
+    Godzilla)
 
 ### 動漫
 
   - 《[學園默示錄](../Page/學園默示錄.md "wikilink")》（Highschool of the Dead）
-  - 《[奇幻自衛隊](../Page/奇幻自衛隊.md "wikilink")》（Gate）
-  - 《[少女與戰車](../Page/少女與戰車.md "wikilink")》（GIRLS und PANZER）
+  - 《[奇幻自衛隊](https://zh.wikipedia.org/wiki/奇幻自衛隊 "wikilink")》（Gate）
+  - 《[少女與戰車](https://zh.wikipedia.org/wiki/少女與戰車 "wikilink")》（GIRLS und
+    PANZER）
 
 ### 輕小說
 
@@ -48,17 +50,17 @@ OH-1）由[日本](../Page/日本.md "wikilink")[川崎重工業生產製造](..
 
 ## 參見
 
-  - [貝爾ARH-70](../Page/:en:Bell_ARH-70.md "wikilink")
+  - [貝爾ARH-70](https://zh.wikipedia.org/wiki/:en:Bell_ARH-70 "wikilink")
   - [RAH-66卡曼契直升機](../Page/RAH-66卡曼契直升機.md "wikilink")
-  - [直-19](../Page/直-19.md "wikilink")
-  - [虎式直升機](../Page/虎式直升機.md "wikilink")
+  - [直-19](https://zh.wikipedia.org/wiki/直-19 "wikilink")
+  - [虎式直升機](https://zh.wikipedia.org/wiki/虎式直升機 "wikilink")
 
-[分類:軍用直升機](../Page/分類:軍用直升機.md "wikilink")
-[分類:日本陸上自衛隊](../Page/分類:日本陸上自衛隊.md "wikilink")
+[分類:軍用直升機](https://zh.wikipedia.org/wiki/分類:軍用直升機 "wikilink")
+[分類:日本陸上自衛隊](https://zh.wikipedia.org/wiki/分類:日本陸上自衛隊 "wikilink")
 
 [Category:川崎重工業製造的飛機](https://zh.wikipedia.org/wiki/Category:川崎重工業製造的飛機 "wikilink")
 
 1.  [観測ヘリコプター | 略称：OH-1 愛称：ニンジャ |
     Flickr](https://www.flickr.com/photos/90465288@N07/8464498207/in/set-72157632745071228/)
     陸上自衛隊公式アカウント
-2.  川崎重工の代表的な[オートバイにも](../Page/オートバイ.md "wikilink")、同じく「[ニンジャ](../Page/カワサキ・ニンジャ.md "wikilink")」の別名が与えられている。
+2.  川崎重工の代表的な[オートバイにも](https://zh.wikipedia.org/wiki/オートバイ "wikilink")、同じく「[ニンジャ](https://zh.wikipedia.org/wiki/カワサキ・ニンジャ "wikilink")」の別名が与えられている。

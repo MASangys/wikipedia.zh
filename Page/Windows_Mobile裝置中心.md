@@ -1,21 +1,23 @@
 **Windows
-Mobile裝置中心**（）是一個[微軟所開發的同步化的](../Page/微軟.md "wikilink")[軟體](../Page/軟體.md "wikilink")，它取代了原本的Microsoft
+Mobile裝置中心**（）是一個[微軟所開發的同步化的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，它取代了原本的Microsoft
 ActiveSync。它的功能是用來同步[Windows
 Mobile與](../Page/Windows_Mobile.md "wikilink")[Microsoft
-Windows](../Page/Microsoft_Windows.md "wikilink")[作業系統之間各種類型的資料](../Page/作業系統.md "wikilink")，包括[音樂](../Page/音樂.md "wikilink")、[影片](../Page/影片.md "wikilink")、聯絡人、行事曆、[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")[我的最愛等](../Page/我的最愛.md "wikilink")。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統之間各種類型的資料](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，包括[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、聯絡人、行事曆、[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[我的最愛等](https://zh.wikipedia.org/wiki/我的最愛 "wikilink")。
 
 ## 歷史
 
 Windows Mobile裝置中心開發的目的主要是取代原本適用於[Windows
 Vista之前作業系統](../Page/Windows_Vista.md "wikilink")、用來同步基於[Windows
-CE的裝置且功能較不強大的](../Page/Windows_CE.md "wikilink")「Microsoft
-ActiveSync」。2006年10月，這個軟體首次發行[beta版本](../Page/軟體版本週期#Beta.md "wikilink")，並允許和[Windows
+CE的裝置且功能較不強大的](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")「Microsoft
+ActiveSync」。2006年10月，這個軟體首次發行[beta版本](https://zh.wikipedia.org/wiki/軟體版本週期#Beta "wikilink")，並允許和[Windows
 Vista
 RC1搭配使用](../Page/Windows_Vista.md "wikilink")。\[1\]2007年2月，第一個正式版發行，並提供下載。\[2\]2007年6月，Windows
 Mobile裝置中心提供了一個更新，以支援[Windows Mobile
-6](../Page/Windows_Mobile_6.md "wikilink")。\[3\] 隨著這個軟體的推出，[Pocket PC
-2000以及](../Page/Pocket_PC_2000.md "wikilink")[Pocket PC
-2002兩個作業系統因而受到影響](../Page/Pocket_PC_2002.md "wikilink")：它們將不再被Windows
+6](https://zh.wikipedia.org/wiki/Windows_Mobile_6 "wikilink")。\[3\]
+隨著這個軟體的推出，[Pocket PC
+2000以及](https://zh.wikipedia.org/wiki/Pocket_PC_2000 "wikilink")[Pocket
+PC
+2002兩個作業系統因而受到影響](https://zh.wikipedia.org/wiki/Pocket_PC_2002 "wikilink")：它們將不再被Windows
 Vista提供原始的支援。\[4\] 不過，6.1版本推出後，那些裝置將可以透過它來進行基本的連結功能。
 
 某些其它版本的Windows作業系統，如[Windows Server
@@ -27,40 +29,41 @@ ActiveSync。
 ## 功能
 
 雖然[Windows
-Vista內建了於](../Page/Windows_Vista.md "wikilink")[Windows檔案總管中支援](../Page/Windows檔案總管.md "wikilink")[Windows
+Vista內建了於](../Page/Windows_Vista.md "wikilink")[Windows檔案總管中支援](https://zh.wikipedia.org/wiki/Windows檔案總管 "wikilink")[Windows
 Mobile裝置的基本功能](../Page/Windows_Mobile.md "wikilink")，\[6\] 但是Windows
 Mobile裝置中心卻能夠使用類似精靈的方式來引導使用者自多個應用程式中整合所需要同步的檔案。
 
 內建於Windows Vista中的基本功能-{只}-能瀏覽裝置、管理檔案以及使用[Windows Media
-Player來同步媒體檔案](../Page/Windows_Media_Player.md "wikilink")。使用者如果需要完整資料的同步化，包括[Microsoft
+Player來同步媒體檔案](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")。使用者如果需要完整資料的同步化，包括[Microsoft
 Office
-Outlook中的行事曆](../Page/Microsoft_Office_Outlook.md "wikilink")、電子郵件以及聯絡人等，就需要安裝Windows
+Outlook中的行事曆](https://zh.wikipedia.org/wiki/Microsoft_Office_Outlook "wikilink")、電子郵件以及聯絡人等，就需要安裝Windows
 Mobile裝置中心來配合進行。\[7\] 但是，Windows Mobile裝置中心卻不支援同步[Windows
-Mail](../Page/Windows_Mail.md "wikilink")、[Windows行事曆](../Page/Windows行事曆.md "wikilink")、[Windows聯絡人以及任何早於版本](../Page/Windows聯絡人.md "wikilink")2003之Microsoft
+Mail](../Page/Windows_Mail.md "wikilink")、[Windows行事曆](https://zh.wikipedia.org/wiki/Windows行事曆 "wikilink")、[Windows聯絡人以及任何早於版本](https://zh.wikipedia.org/wiki/Windows聯絡人 "wikilink")2003之Microsoft
 Office Outlook中的資料。當一個Windows
 Mobile的裝置連接到電腦上時，該程式就會跳出一個視窗，並給予如同步音樂等有關管理該裝置的選項。
 
 使用Windows
-Mobile裝置中心來檢視裝置可以透過[藍芽](../Page/藍芽.md "wikilink")、[USB以及](../Page/USB.md "wikilink")[串列埠等方式](../Page/串列埠.md "wikilink")。但是，使用串列埠來連結裝置的功能預設並不開啟，並需要使用者透過更改[登錄檔才能開啟](../Page/登錄.md "wikilink")。\[8\]
+Mobile裝置中心來檢視裝置可以透過[藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")、[USB以及](../Page/USB.md "wikilink")[串列埠等方式](https://zh.wikipedia.org/wiki/串列埠 "wikilink")。但是，使用串列埠來連結裝置的功能預設並不開啟，並需要使用者透過更改[登錄檔才能開啟](https://zh.wikipedia.org/wiki/登錄 "wikilink")。\[8\]
 
 Windows Mobile裝置中心能夠同步以下資料：
 
   - [Microsoft Outlook](../Page/Microsoft_Outlook.md "wikilink")
-    2003或更新的版本中[PIM的資料](../Page/個人信息管理系統.md "wikilink")（PIM同步功能不適用於[Windows
-    Mail](../Page/Windows_Mail.md "wikilink")、[Windows行事曆](../Page/Windows行事曆.md "wikilink")、[Windows聯絡人等](../Page/Windows聯絡人.md "wikilink")）\[9\]
-  - [Windows相片圖庫中的圖片](../Page/Windows相片圖庫.md "wikilink")
+    2003或更新的版本中[PIM的資料](https://zh.wikipedia.org/wiki/個人信息管理系統 "wikilink")（PIM同步功能不適用於[Windows
+    Mail](../Page/Windows_Mail.md "wikilink")、[Windows行事曆](https://zh.wikipedia.org/wiki/Windows行事曆 "wikilink")、[Windows聯絡人等](https://zh.wikipedia.org/wiki/Windows聯絡人 "wikilink")）\[9\]
+  - [Windows相片圖庫中的圖片](https://zh.wikipedia.org/wiki/Windows相片圖庫 "wikilink")
   - [Windows Media
-    Player中的音樂以及影片](../Page/Windows_Media_Player.md "wikilink")
+    Player中的音樂以及影片](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
   - [Internet
     Explorer中的](../Page/Internet_Explorer.md "wikilink")[我的最愛](../Page/書籤_\(瀏覽器\).md "wikilink")
-  - [Windows Explorer中的一般資料夾及檔案](../Page/Windows_Explorer.md "wikilink")
+  - [Windows
+    Explorer中的一般資料夾及檔案](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink")
   - Windows Mobile的程式或更新
 
 ## 64Bit相容問題
 
-雖然[微軟有提供Windows](../Page/微軟.md "wikilink")
-Mobile裝置中心的64bit版本,但卻不能與[Microsoft Office
-Outlook 2010](../Page/Microsoft_Office_Outlook_2010.md "wikilink")
+雖然[微軟有提供Windows](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+Mobile裝置中心的64bit版本,但卻不能與[Microsoft Office Outlook
+2010](https://zh.wikipedia.org/wiki/Microsoft_Office_Outlook_2010 "wikilink")
 64bit版本同步並出現以下信息,
 
 “Either there is no default mail client or the current mail client
@@ -70,9 +73,10 @@ set it as the default mail client”
 同時Outlook更在第一次進行同步處理時把裝置巳存的資料包括聯絡人、電子郵件和行事曆項目會**從裝置中移除**。
 
 目前 Windows Mobile裝置中心的64bit版本目前只能跟[Microsoft Office Outlook
-2010](../Page/Microsoft_Office_Outlook_2010.md "wikilink") 32bit版本同步,
-而[微軟更指出未有打算更新Windows](../Page/微軟.md "wikilink") Mobile裝置中心以支援Outlook
-64bit版本.
+2010](https://zh.wikipedia.org/wiki/Microsoft_Office_Outlook_2010 "wikilink")
+32bit版本同步,
+而[微軟更指出未有打算更新Windows](https://zh.wikipedia.org/wiki/微軟 "wikilink")
+Mobile裝置中心以支援Outlook 64bit版本.
 
 ## 主要版本
 
@@ -80,7 +84,7 @@ set it as the default mail client”
     3**，2006年10月6日發佈。\[10\]（第一個發佈於公眾的版本）
   - **Windows Mobile Device Center 6.0**，2007年2月1日發佈。\[11\]（第一個正式版發佈）
   - **Windows Mobile Device Center 6.1**，2007年6月發佈。（增加了對於[Windows Mobile
-    6裝置的支援](../Page/Windows_Mobile_6.md "wikilink")）
+    6裝置的支援](https://zh.wikipedia.org/wiki/Windows_Mobile_6 "wikilink")）
 
 ## 參考文献
 
@@ -95,7 +99,7 @@ set it as the default mail client”
 
   - [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
   - [Pocket PC](../Page/Pocket_PC.md "wikilink")
-  - [智慧型手機](../Page/智慧型手機.md "wikilink")
+  - [智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")
 
 {{-}}
 

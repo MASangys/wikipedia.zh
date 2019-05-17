@@ -1,15 +1,15 @@
-**Hi-Vision**是[日本放送協会](../Page/日本放送協会.md "wikilink")（NHK）商標所有，[日本的高解析度](../Page/日本.md "wikilink")[電視放送](../Page/電視.md "wikilink")（**High
+**Hi-Vision**是[日本放送協会](https://zh.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）商標所有，[日本的高解析度](../Page/日本.md "wikilink")[電視放送](https://zh.wikipedia.org/wiki/電視 "wikilink")（**High
 Definition television**/**HDTV**）的暱稱。
 
 ## 概要
 
-與[NTSC標準電視放送時相比](../Page/NTSC.md "wikilink")，其[掃描線達](../Page/掃描線.md "wikilink")2倍以上，因此有更精細的影像表現。畫面長寬比為符合人的視野，因此較標準（4:3）比例更寬，達到16:9的寬度。
+與[NTSC標準電視放送時相比](https://zh.wikipedia.org/wiki/NTSC "wikilink")，其[掃描線達](https://zh.wikipedia.org/wiki/掃描線 "wikilink")2倍以上，因此有更精細的影像表現。畫面長寬比為符合人的視野，因此較標準（4:3）比例更寬，達到16:9的寬度。
 
 日本在2008年時有兩種放送規格。衛星放送（BS/110度CS）的數位高畫質衛星電視（ISDB-S）與數位高畫質地上波電視（ISDB-T）。另外，BS類比高畫質電視（MUSE）於2007年9月30日停止放送。
 
 ## 類比高畫質電視
 
-類比高解析度電視正式的研究，是在[東京奧運會後由NHK放送技術研究所開始](../Page/1964年夏季奧林匹克運動會.md "wikilink")。1972年，於國際電氣通信聯合（ITU-R，當時稱為CCIR）提出此規格。
+類比高解析度電視正式的研究，是在[東京奧運會後由NHK放送技術研究所開始](https://zh.wikipedia.org/wiki/1964年夏季奧林匹克運動會 "wikilink")。1972年，於國際電氣通信聯合（ITU-R，當時稱為CCIR）提出此規格。
 
 1980年代，由於有攝影機、高解析度CRT顯示器、卡式錄影機、編集制作機器等可對應高解析度訊號機器的開發，因此開始進行實用化，高解析度的暱稱也從此時開始出現。1982年由於使用數位技術使頻寬壓縮，發明了以衛星放送的收發1波段傳送頻寬來進行類比放送的MUSE系統（Multiple
 Sub-Nyquist-Sampling Encoding

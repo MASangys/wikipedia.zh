@@ -5,7 +5,7 @@ KUMI FEVER LIVE IN HALLⅡ」廣告主題曲「Lick me♥」、「ECSTASY」、�
 ## 附註
 
   - 本於為42nd單曲「[stay with
-    me](../Page/stay_with_me.md "wikilink")」約隔7個月以來的新單曲。從2006年以來於每年夏天推出多曲目的單曲，本作收錄了3曲。
+    me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")」約隔7個月以來的新單曲。從2006年以來於每年夏天推出多曲目的單曲，本作收錄了3曲。
 
 <!-- end list -->
 

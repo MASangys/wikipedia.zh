@@ -1,31 +1,31 @@
 《**CANAAN**》（迦南）是根據2008年日本[CHUNSOFT公司所發售的文字解謎冒險遊戲](../Page/CHUNSOFT.md "wikilink")《[428
-〜被封鎖的涉谷〜](../Page/428_〜被封鎖的涉谷〜.md "wikilink")》改編的[電視動畫](../Page/電視動畫.md "wikilink")，由[P.A.
-Works公司製作](../Page/P.A._Works.md "wikilink")。2009年7月至9月於日本播放。最初發表的標題為《**428
+〜被封鎖的涉谷〜](https://zh.wikipedia.org/wiki/428_〜被封鎖的涉谷〜 "wikilink")》改編的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[P.A.
+Works公司製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。2009年7月至9月於日本播放。最初發表的標題為《**428
 the
-animation**》。香港由2010年9月24日起，於[無綫電視](../Page/無綫電視.md "wikilink")[J2台播放](../Page/J2台.md "wikilink")。
+animation**》。香港由2010年9月24日起，於[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播放](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
 
 ## 概要
 
 2008年春季，CHUNSOFT提出電視動畫製作的企劃案，由《428
 〜被封鎖的澀谷〜》遊戲總監督[石井二郎領頭](../Page/石井二郎.md "wikilink")，擔任電視動畫版的動畫製作人一職，透露了本作《CANAAN》動畫化決定之後，與諸多動畫製作公司談過，給出具體且有趣提案是Video
 Maker[萬代影視Emotion](../Page/萬代影視.md "wikilink") Video與[P.A.
-Works的合作](../Page/P.A._Works.md "wikilink")。《428
+Works的合作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。《428
 〜被封鎖的澀谷〜》找來了唱片公司歌手「[上木彩矢](../Page/上木彩矢.md "wikilink")」一起合作，藝人和遊戲之間並不存在多大的關聯性，為了提升宣傳效益，遊戲界和音樂界的跨界合作，提高話題性的行銷手法，電視動畫也採用了跨媒體合作，由唱片公司[Lantis旗下藝人結合動畫的跨媒體行銷](../Page/Lantis.md "wikilink")。動畫的故事是由
 Video Maker 主導展開全新的原創劇情。
 
-CHUNSOFT創社25週年，第一款電玩遊戲動畫化的作品於2008年10月[東京電玩展的攤位上宣佈TV化](../Page/東京電玩展.md "wikilink")《428
+CHUNSOFT創社25週年，第一款電玩遊戲動畫化的作品於2008年10月[東京電玩展的攤位上宣佈TV化](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")《428
 the
-animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與動畫製作委員會合作](../Page/CHUNSOFT.md "wikilink")，電視動畫是涉谷篇與迦南篇延伸下來的原創電視劇。遊戲以[東京](../Page/東京.md "wikilink")[澀谷為背景舞臺](../Page/澀谷.md "wikilink")，動畫以[中國](../Page/中國.md "wikilink")[上海為背景舞臺](../Page/上海.md "wikilink")。獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
+animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與動畫製作委員會合作](../Page/CHUNSOFT.md "wikilink")，電視動畫是涉谷篇與迦南篇延伸下來的原創電視劇。遊戲以[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷為背景舞臺](../Page/澀谷.md "wikilink")，動畫以[中國](../Page/中國.md "wikilink")[上海為背景舞臺](https://zh.wikipedia.org/wiki/上海 "wikilink")。獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭動畫部門推薦的作品](../Page/文化廳媒體藝術祭.md "wikilink")。
 
 ## 故事大綱
 
-2009年4月28日[澀谷發生大規模](../Page/澀谷.md "wikilink")[恐怖活動事件兩年後](../Page/恐怖活動.md "wikilink")。記者御法川實與助手攝影師瑪麗亞一同前往中國，採訪某村莊的村民一夕消失事件的真相。同時間，世界各國元首正齊聚[上海](../Page/上海.md "wikilink")，[聯合國反恐會議的即將召開](../Page/聯合國.md "wikilink")。魔都——上海在被籠罩在曾經震懾澀谷的病毒和恐怖份子的陰影下，人們的命運再次地交織在一起……。
+2009年4月28日[澀谷發生大規模](../Page/澀谷.md "wikilink")[恐怖活動事件兩年後](https://zh.wikipedia.org/wiki/恐怖活動 "wikilink")。記者御法川實與助手攝影師瑪麗亞一同前往中國，採訪某村莊的村民一夕消失事件的真相。同時間，世界各國元首正齊聚[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，[聯合國反恐會議的即將召開](https://zh.wikipedia.org/wiki/聯合國 "wikilink")。魔都——上海在被籠罩在曾經震懾澀谷的病毒和恐怖份子的陰影下，人們的命運再次地交織在一起……。
 
 ## 登場人物
 
   -
     身高：162cm，國籍：伊拉克，年齡：動畫20歲、本篇18歲
-    故事主人翁，稱號——**鐵之鬥爭代言人**。擁有特殊的能力——「**[共感覺](../Page/共感覺.md "wikilink")**」。
+    故事主人翁，稱號——**鐵之鬥爭代言人**。擁有特殊的能力——「**[共感覺](https://zh.wikipedia.org/wiki/共感覺 "wikilink")**」。
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   -
-    涉谷篇遭到[美國](../Page/美國.md "wikilink")[中情局傑克上司](../Page/中情局.md "wikilink")「戈登」的逮補，透過非法手續入關美國。戈登是被蛇組織收買的中情局高層，以其他名義放走了Alphard，電視動畫版從夏目百合語中獲知，戈登已經遭到中情局內部調查而被處置。
+    涉谷篇遭到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[中情局傑克上司](https://zh.wikipedia.org/wiki/中情局 "wikilink")「戈登」的逮補，透過非法手續入關美國。戈登是被蛇組織收買的中情局高層，以其他名義放走了Alphard，電視動畫版從夏目百合語中獲知，戈登已經遭到中情局內部調查而被處置。
 
 <!-- end list -->
 
@@ -120,23 +120,23 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
   -
     國籍：中東，年齡：約42至45歲
-    養育迦南長大的[僱傭兵](../Page/僱傭兵.md "wikilink")，同時是訓練出國際頭疼的恐怖份子阿爾琺特的主要人物。在一次出任務中，不曉得為學生埋下的陷阱，遭到阿爾琺特的殺害，迦南為此復仇。夏姆和兩名學生不同是，篤信[伊斯蘭教的](../Page/伊斯蘭教.md "wikilink")[穆斯林](../Page/穆斯林.md "wikilink")，誦讀且信奉[阿拉伯語的經典](../Page/阿拉伯.md "wikilink")《[古蘭經](../Page/古蘭經.md "wikilink")》。
+    養育迦南長大的[僱傭兵](../Page/僱傭兵.md "wikilink")，同時是訓練出國際頭疼的恐怖份子阿爾琺特的主要人物。在一次出任務中，不曉得為學生埋下的陷阱，遭到阿爾琺特的殺害，迦南為此復仇。夏姆和兩名學生不同是，篤信[伊斯蘭教的](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[穆斯林](../Page/穆斯林.md "wikilink")，誦讀且信奉[阿拉伯語的經典](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")《[古蘭經](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")》。
 
 <!-- end list -->
 
   -
-    十歲多時，加入PLO組織底下的一個小組織，參與了[穆阿邁爾·卡扎菲上校率領的軍事訓練營](../Page/穆阿邁爾·卡扎菲.md "wikilink")，接受作為戰場上的士兵一切所必要的教育。1982年爆發[第五次中東戰爭](../Page/第五次中東戰爭.md "wikilink")，即[黎巴嫩戰爭時](../Page/黎巴嫩戰爭.md "wikilink")，離開了PLO組織，投身參與[阿富汗战争](../Page/阿富汗战争_\(1979年\).md "wikilink")。夏姆這個名字是阿富汗作戰時所獲得，[泰國來的](../Page/泰國.md "wikilink")[伊斯蘭義勇軍進行軍事指導](../Page/伊斯蘭.md "wikilink")，學生為他起了「Siam」這個名字。
+    十歲多時，加入PLO組織底下的一個小組織，參與了[穆阿邁爾·卡扎菲上校率領的軍事訓練營](https://zh.wikipedia.org/wiki/穆阿邁爾·卡扎菲 "wikilink")，接受作為戰場上的士兵一切所必要的教育。1982年爆發[第五次中東戰爭](https://zh.wikipedia.org/wiki/第五次中東戰爭 "wikilink")，即[黎巴嫩戰爭時](https://zh.wikipedia.org/wiki/黎巴嫩戰爭 "wikilink")，離開了PLO組織，投身參與[阿富汗战争](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")。夏姆這個名字是阿富汗作戰時所獲得，[泰國來的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[伊斯蘭義勇軍進行軍事指導](https://zh.wikipedia.org/wiki/伊斯蘭 "wikilink")，學生為他起了「Siam」這個名字。
 
 <!-- end list -->
 
   -
-    1990年，回歸PLO組織。原本的組織因為權力鬥爭早已經瀕臨分崩離析，在朋友的邀請下，重新領導組織並且壯大了起來。這個時候開始，為了組織運作所需的資金而苦腦，於是開始在PLO組織和其他[伊斯蘭教激進派組織那裡接受了秘密任務](../Page/伊斯蘭教.md "wikilink")，成為一個為金錢而戰的傭兵組織。從事士兵／傭兵職業三十年多年，經歷無數次的戰爭，都能成功從戰場上倖存下來。戰爭塑造了他的一切，儘管大部分的任務都只是為維持組織的經費而承接，夏姆逐漸將它們視作為「有意義」的事情來看待。為了解決國內的戰爭，不惜助長其他國家之間戰火和互相殺戮，儘管清楚自己所做的一切是「惡」，還是一次一次高舉「正義」的槍而戰。經過許多次，連「惡」都感覺不到的同時，也感受不到任何的「正義」。若要說這名男人目的，除了掙錢維持組織的運作以外，並沒有其他的目的性。信念是「人類一旦有了目的，並且達成目標，那就是人生的終點站」，終點對他來說就是死亡。
+    1990年，回歸PLO組織。原本的組織因為權力鬥爭早已經瀕臨分崩離析，在朋友的邀請下，重新領導組織並且壯大了起來。這個時候開始，為了組織運作所需的資金而苦腦，於是開始在PLO組織和其他[伊斯蘭教激進派組織那裡接受了秘密任務](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")，成為一個為金錢而戰的傭兵組織。從事士兵／傭兵職業三十年多年，經歷無數次的戰爭，都能成功從戰場上倖存下來。戰爭塑造了他的一切，儘管大部分的任務都只是為維持組織的經費而承接，夏姆逐漸將它們視作為「有意義」的事情來看待。為了解決國內的戰爭，不惜助長其他國家之間戰火和互相殺戮，儘管清楚自己所做的一切是「惡」，還是一次一次高舉「正義」的槍而戰。經過許多次，連「惡」都感覺不到的同時，也感受不到任何的「正義」。若要說這名男人目的，除了掙錢維持組織的運作以外，並沒有其他的目的性。信念是「人類一旦有了目的，並且達成目標，那就是人生的終點站」，終點對他來說就是死亡。
 
 <!-- end list -->
 
   -
     身高162cm，國籍：日本，年齡：動畫21歲、本篇19歲，出生：1990年3月1日
-    迦南的朋友。大學時期和雙胞胎妹妹大澤瞳並列為綠山學院的大學校花。動畫版是為大學畢業後的社會新鮮人，任職於「Heaven雜誌社」的菜鳥[攝影師](../Page/攝影師.md "wikilink")，特別喜歡使用[膠卷相機](../Page/膠卷.md "wikilink")。在前輩御法川帶領之下，前往上海攝影取材，未料洽巧遇上久未見面的朋友迦南。
+    迦南的朋友。大學時期和雙胞胎妹妹大澤瞳並列為綠山學院的大學校花。動畫版是為大學畢業後的社會新鮮人，任職於「Heaven雜誌社」的菜鳥[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")，特別喜歡使用[膠卷相機](https://zh.wikipedia.org/wiki/膠卷 "wikilink")。在前輩御法川帶領之下，前往上海攝影取材，未料洽巧遇上久未見面的朋友迦南。
 
 <!-- end list -->
 
@@ -153,13 +153,13 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
   -
     身高：158cm。國籍：中國。
-    電視動畫原創角色。姓名**孫雲美**。性格開朗，活潑好動的打工妹。身住停靠海港的船屋，上海各處打着散工，經常無端被事件波及。平胸常成為劇中的笑柄。真實身份是梁琪旗下的「蛇」組織一員。身為病毒感染者Boner的雲雲，和其他感染者不同是未獲得任何隨着病毒而帶來的特殊能力，只是多一個[盲腸](../Page/盲腸.md "wikilink")，擁有兩條盲腸的雲雲沒有任何特別技能和殺傷力，「蛇」組織視為廢物圈養差使供喚。從梁琪那裡得到了「就算是同歸於盡，也得把迦南殺掉」的命令，在瑪麗亞真摯友情感動下，和迦南三人成為好友，最後脫離組織。有著不放棄生命以及拼命誓守好友承諾的單純善良個性。臀部有着身為病毒感染者獨特的紫色花紋印記。
+    電視動畫原創角色。姓名**孫雲美**。性格開朗，活潑好動的打工妹。身住停靠海港的船屋，上海各處打着散工，經常無端被事件波及。平胸常成為劇中的笑柄。真實身份是梁琪旗下的「蛇」組織一員。身為病毒感染者Boner的雲雲，和其他感染者不同是未獲得任何隨着病毒而帶來的特殊能力，只是多一個[盲腸](https://zh.wikipedia.org/wiki/盲腸 "wikilink")，擁有兩條盲腸的雲雲沒有任何特別技能和殺傷力，「蛇」組織視為廢物圈養差使供喚。從梁琪那裡得到了「就算是同歸於盡，也得把迦南殺掉」的命令，在瑪麗亞真摯友情感動下，和迦南三人成為好友，最後脫離組織。有著不放棄生命以及拼命誓守好友承諾的單純善良個性。臀部有着身為病毒感染者獨特的紫色花紋印記。
 
 <!-- end list -->
 
   -
     身高：170cm。國籍：中國
-    電視動畫原創角色。桑塔納經營的貓耳女僕店工作。一般時候以點頭搖頭示意，幾乎不開口說話的美女，是病毒感染者Boner，紫色花紋印記在左腰側。有着只要開口說話，會對周圍的人造成嚴重的精神傷害特殊能力[次聲波](../Page/次聲波.md "wikilink")，說話的聲音會嚴重破壞聽者的腦隨，有着極大殺傷力，同如人體兵器的她被「蛇」組織視為珍貴的人體實驗的樣本，事實上也是為了對付迦南所準備的武器。和桑塔納同居關係是親密的愛人，因為梁琪導致夏珂誤殺桑塔納，最後殉情。
+    電視動畫原創角色。桑塔納經營的貓耳女僕店工作。一般時候以點頭搖頭示意，幾乎不開口說話的美女，是病毒感染者Boner，紫色花紋印記在左腰側。有着只要開口說話，會對周圍的人造成嚴重的精神傷害特殊能力[次聲波](https://zh.wikipedia.org/wiki/次聲波 "wikilink")，說話的聲音會嚴重破壞聽者的腦隨，有着極大殺傷力，同如人體兵器的她被「蛇」組織視為珍貴的人體實驗的樣本，事實上也是為了對付迦南所準備的武器。和桑塔納同居關係是親密的愛人，因為梁琪導致夏珂誤殺桑塔納，最後殉情。
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
   -
     身高：170cm，國籍：日本
-    電視動畫原創角色。NGO組織「OWL」（鴞組織）的主要幹部，動畫版戲中對抗阿爾琺特領導的「蛇組織」。夏目的真實身份是日本[防衛省](../Page/防衛省.md "wikilink")[情報總部綜合情報部所屬的](../Page/防衞省情報本部.md "wikilink")[少佐](../Page/少佐.md "wikilink")。日本情報局的高層人員，也是國際反恐會議的議員，游走世界的多重國際間諜。僱用迦南是為了抹殺阿爾琺特，意圖奪取手中的病毒數據資料。立場性而言，不是好人也不是壞人。自以為真實身份無人知曉，沒想到阿爾琺特早已經查清底細；迦南透過共感覺知道夏目不懷好意，但是並未揭發夏目的底牌。最後夏目來個全面性背叛，帶着數據回日本，離開了中國。要求美國軍方的特殊任務部隊SMU（全名：Special
+    電視動畫原創角色。NGO組織「OWL」（鴞組織）的主要幹部，動畫版戲中對抗阿爾琺特領導的「蛇組織」。夏目的真實身份是日本[防衛省](../Page/防衛省.md "wikilink")[情報總部綜合情報部所屬的](https://zh.wikipedia.org/wiki/防衞省情報本部 "wikilink")[少佐](https://zh.wikipedia.org/wiki/少佐 "wikilink")。日本情報局的高層人員，也是國際反恐會議的議員，游走世界的多重國際間諜。僱用迦南是為了抹殺阿爾琺特，意圖奪取手中的病毒數據資料。立場性而言，不是好人也不是壞人。自以為真實身份無人知曉，沒想到阿爾琺特早已經查清底細；迦南透過共感覺知道夏目不懷好意，但是並未揭發夏目的底牌。最後夏目來個全面性背叛，帶着數據回日本，離開了中國。要求美國軍方的特殊任務部隊SMU（全名：Special
     Mission
     Unit）銷毀「工廠」的運作。提到的4153外交案件，指工廠破壞作戰行動中，假設可以獲得中華人民共和國政府的轟炸許可，其代償是日本政府可以承諾對中國某事件的通過，其詳細不明。
 
@@ -201,22 +201,22 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   -
-    前任的美國大總統。人物設定參考前美國總統[小布希](../Page/小布希.md "wikilink")。信念「愛與和平」、「正義與反恐」。2001年的九一一事件，之後發動一連串所謂的「[反恐戰爭](../Page/反恐戰爭.md "wikilink")」。2001年發動了[阿富汗戰爭](../Page/阿富汗戰爭.md "wikilink")，推翻[塔利班政權](../Page/塔利班.md "wikilink")；2003年發動[伊拉克戰爭](../Page/伊拉克戰爭.md "wikilink")，推翻了[海珊政權](../Page/海珊.md "wikilink")。動畫中演講了一段：「為了那些遭受到恐怖戰爭而哭泣的人們、為了被截斷未來之路的兒童、為了尋求安全之途的人們，我祈求着『愛與和平』的時代能盡速到來，祈求全世界人民都能為了『愛與和平』而團結起來。我們絕對不會向恐怖份子妥協！因為恐怖主義的時代已經過去了！」，打着反恐戰爭的名義，製造出本作兩名中東孤兒以及本作的恐怖份子，洽好是該名美國前總統。
+    前任的美國大總統。人物設定參考前美國總統[小布希](https://zh.wikipedia.org/wiki/小布希 "wikilink")。信念「愛與和平」、「正義與反恐」。2001年的九一一事件，之後發動一連串所謂的「[反恐戰爭](https://zh.wikipedia.org/wiki/反恐戰爭 "wikilink")」。2001年發動了[阿富汗戰爭](https://zh.wikipedia.org/wiki/阿富汗戰爭 "wikilink")，推翻[塔利班政權](../Page/塔利班.md "wikilink")；2003年發動[伊拉克戰爭](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，推翻了[海珊政權](https://zh.wikipedia.org/wiki/海珊 "wikilink")。動畫中演講了一段：「為了那些遭受到恐怖戰爭而哭泣的人們、為了被截斷未來之路的兒童、為了尋求安全之途的人們，我祈求着『愛與和平』的時代能盡速到來，祈求全世界人民都能為了『愛與和平』而團結起來。我們絕對不會向恐怖份子妥協！因為恐怖主義的時代已經過去了！」，打着反恐戰爭的名義，製造出本作兩名中東孤兒以及本作的恐怖份子，洽好是該名美國前總統。
 
 <!-- end list -->
 
   -
-    前任的美國副總統。實際上和犯罪組織「蛇」有所接觸的白宮高層人員，似乎和「蛇」組織有私下軍火生意上的往來。上海人質挾持事件中，誤判情事，下令在上海丟了顆炸彈，差點引爆戰爭的人。人物設定參考前美國副總統[迪克·錢尼](../Page/迪克·錢尼.md "wikilink")，廣泛被認為是美國歷史上最有實權的副總統之一。
+    前任的美國副總統。實際上和犯罪組織「蛇」有所接觸的白宮高層人員，似乎和「蛇」組織有私下軍火生意上的往來。上海人質挾持事件中，誤判情事，下令在上海丟了顆炸彈，差點引爆戰爭的人。人物設定參考前美國副總統[迪克·錢尼](https://zh.wikipedia.org/wiki/迪克·錢尼 "wikilink")，廣泛被認為是美國歷史上最有實權的副總統之一。
 
 <!-- end list -->
 
   -
-    前任的美國國防部長。人物設定參考任期2006年—2009年，前國防部長[羅伯特·蓋茨](../Page/羅伯特·蓋茨.md "wikilink")，曾經是美國中央情報局局長。
+    前任的美國國防部長。人物設定參考任期2006年—2009年，前國防部長[羅伯特·蓋茨](https://zh.wikipedia.org/wiki/羅伯特·蓋茨 "wikilink")，曾經是美國中央情報局局長。
 
 <!-- end list -->
 
   -
-    前任的美國國務卿。人物設定參考前美國國務卿[康多莉扎·賴斯](../Page/康多莉扎·賴斯.md "wikilink")。美國歷史上第一位非洲裔的女性國務卿。
+    前任的美國國務卿。人物設定參考前美國國務卿[康多莉扎·賴斯](https://zh.wikipedia.org/wiki/康多莉扎·賴斯 "wikilink")。美國歷史上第一位非洲裔的女性國務卿。
 
 <!-- end list -->
 
@@ -287,7 +287,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 ## 用語
 
-  - [共感覺](../Page/共感覺.md "wikilink")（日語：きょうかんかく）
+  - [共感覺](https://zh.wikipedia.org/wiki/共感覺 "wikilink")（日語：きょうかんかく）
     源自一部電影的片名，《Synesthesia》中譯「共感覺」，又稱為**聯覺**、**通感**或**聯感**，這不是科幻，是一種官能心理學名詞。詞源來自「希臘文
     Syn（共同）+
     Aisthesis（感覺）」。共感覺指一個人感覺混淆，彷彿五種感官知覺融合、合併為一的過程。臨床醫學上意指一種感覺混合的罕見心理症狀，意思即為感官之間的互動綜合。
@@ -306,7 +306,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   -
-    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](../Page/時代雜誌.md "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](../Page/國立中央大學.md "wikilink")（Sean
+    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")（Sean
     Day）每次聽到淒絕的薩克斯風樂聲，眼前就會出現一堆亮紫色的蛇形在空中扭動。口琴的聲音看起來比較舒服的淺綠色，叮叮咚咚的鋼琴則會帶來一片藍色的薄霧。食物也是色彩繽紛的。吃芒果冰的時候，牆壁會呈現萊姆綠，還有一陣陣櫻桃紅的條紋漣漪。
 
 <!-- end list -->
@@ -322,7 +322,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   -
-    例如：法國詩人[夏爾·波德萊爾](../Page/夏爾·波德萊爾.md "wikilink")、日本詩人[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")、美國歌手[史提夫·汪達](../Page/史提夫·汪達.md "wikilink")、奧地利作曲家[-{zh-hans:弗朗茨·李斯特;zh-hant:弗朗茨·李斯特;zh-tw:弗朗茨·李斯特;zh-hk:法蘭茲·李斯特;zh-mo:法蘭茲·李斯特;}-等](../Page/弗朗茨·李斯特.md "wikilink")，他們都有神秘的共感覺能力。歷史上許多藝術家這種「彩色聽覺」的能力，最知名就是俄國作曲家[史克里亞賓](../Page/史克里亞賓.md "wikilink")（Alexander
+    例如：法國詩人[夏爾·波德萊爾](https://zh.wikipedia.org/wiki/夏爾·波德萊爾 "wikilink")、日本詩人[松尾芭蕉](../Page/松尾芭蕉.md "wikilink")、美國歌手[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、奧地利作曲家[-{zh-hans:弗朗茨·李斯特;zh-hant:弗朗茨·李斯特;zh-tw:弗朗茨·李斯特;zh-hk:法蘭茲·李斯特;zh-mo:法蘭茲·李斯特;}-等](https://zh.wikipedia.org/wiki/弗朗茨·李斯特 "wikilink")，他們都有神秘的共感覺能力。歷史上許多藝術家這種「彩色聽覺」的能力，最知名就是俄國作曲家[史克里亞賓](https://zh.wikipedia.org/wiki/史克里亞賓 "wikilink")（Alexander
     Scriabin）。他試圖將這些色彩與音調的共生感覺譜進他的第五交響曲，一個「音樂與色彩水乳交融的構想」，精確地羅列曲調、每秒震動次數和色彩的對應表：C調－256次－紅色，升C調－277次－紫色，D調－298次－黃色，升D調－319次－森林的鋼鐵之光，E調－341次－珍珠白和月光的閃爍，F調－362次－暗紅色，升F調－383次－水藍色，G調－405次－偏玫瑰紅的橙色，A調－447次－綠色，B調－490次－珍珠藍。這首交響曲在演出時，除了安排完整的交響樂團之外，還需要用到一架鋼琴、合唱團和一部能將色彩投射到布幕的色光風琴。可惜首演時，被人以不切實際的理由給刪除。普通人對於共感覺者的感知的現象無法理解，共感覺者經常感到極深的孤獨與疏離感。
 
 <!-- end list -->
@@ -359,17 +359,17 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   - UA病毒（日語：ウーアウイルス），（英語：UA virus）
-    生化武器。黑市市場擁有非常大的商業價值。擁有病毒的人能輕易殲滅一個地區甚至一個國家。感染者在一定時間內未接受病毒解毒劑的注射，死亡率100%。電視動畫的UA病毒「紫色花紋」是原創的故事。紫花的圖樣是採用彼岸花，中譯「[曼珠沙華](../Page/曼珠沙華.md "wikilink")」。部分地區對曼珠沙華帶有祝福之意，可以使用在婚宴喜慶，日本的花語是「悲傷回憶」，紫色在日本有引渡冥界的死亡意味。
+    生化武器。黑市市場擁有非常大的商業價值。擁有病毒的人能輕易殲滅一個地區甚至一個國家。感染者在一定時間內未接受病毒解毒劑的注射，死亡率100%。電視動畫的UA病毒「紫色花紋」是原創的故事。紫花的圖樣是採用彼岸花，中譯「[曼珠沙華](https://zh.wikipedia.org/wiki/曼珠沙華 "wikilink")」。部分地區對曼珠沙華帶有祝福之意，可以使用在婚宴喜慶，日本的花語是「悲傷回憶」，紫色在日本有引渡冥界的死亡意味。
 
 <!-- end list -->
 
   -
-    2000年在[南非的](../Page/南非.md "wikilink")[德拉肯斯堡山脈發現的新病毒](../Page/德拉肯斯堡山脈.md "wikilink")，死亡率高達100%。南非政府害怕病毒的蔓延，當時的病毒原體，耐久性還很低，政府把半徑數千米的樹林全部燒燬後，阻止蔓延。2003年某國在森林中進行回收病毒工作，開始進行軍事武器方面的病毒研究，他們改良病毒原形體，選為實驗場的地方是伊拉克戰的某座中東村莊——迦南的故鄉。利用伊戰作為掩護，藉機散佈UA病毒進行試驗。
+    2000年在[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[德拉肯斯堡山脈發現的新病毒](https://zh.wikipedia.org/wiki/德拉肯斯堡山脈 "wikilink")，死亡率高達100%。南非政府害怕病毒的蔓延，當時的病毒原體，耐久性還很低，政府把半徑數千米的樹林全部燒燬後，阻止蔓延。2003年某國在森林中進行回收病毒工作，開始進行軍事武器方面的病毒研究，他們改良病毒原形體，選為實驗場的地方是伊拉克戰的某座中東村莊——迦南的故鄉。利用伊戰作為掩護，藉機散佈UA病毒進行試驗。
 
 <!-- end list -->
 
   -
-    病毒起源於[南非](../Page/南非.md "wikilink")，[病毒大小約](../Page/病毒.md "wikilink")100[nm](../Page/nm.md "wikilink")。進入人體後只需一個小時就能分裂到兩千個，[埃博拉病毒從感染到發作](../Page/埃博拉病毒.md "wikilink")，一般需要7天時間，[流感則是](../Page/流感.md "wikilink")1天到2天，UA病毒只需要12小時就會發作。名字來源於**[斯瓦希里语](../Page/斯瓦希里语.md "wikilink")**裡的「花」。病毒分裂的形狀與花瓣極為類似，所以起了花病毒這個名字。**UA**這一詞除了**花**以外，還意味着**死**。從感染到發作死亡期間的時間非常短，感染的時間超過半天，患者全身所有部位，除了骨骼和骨肌以外均會出血。發作時，患者會視覺模糊，意識不清，多數會進行自殘的行為。患者除了在12小時內注射解毒劑，只能靠「蛇」組織提供特殊調配藥物維持感染者的生命。
+    病毒起源於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[病毒大小約](../Page/病毒.md "wikilink")100[nm](https://zh.wikipedia.org/wiki/nm "wikilink")。進入人體後只需一個小時就能分裂到兩千個，[埃博拉病毒從感染到發作](https://zh.wikipedia.org/wiki/埃博拉病毒 "wikilink")，一般需要7天時間，[流感則是](https://zh.wikipedia.org/wiki/流感 "wikilink")1天到2天，UA病毒只需要12小時就會發作。名字來源於**[斯瓦希里语](../Page/斯瓦希里语.md "wikilink")**裡的「花」。病毒分裂的形狀與花瓣極為類似，所以起了花病毒這個名字。**UA**這一詞除了**花**以外，還意味着**死**。從感染到發作死亡期間的時間非常短，感染的時間超過半天，患者全身所有部位，除了骨骼和骨肌以外均會出血。發作時，患者會視覺模糊，意識不清，多數會進行自殘的行為。患者除了在12小時內注射解毒劑，只能靠「蛇」組織提供特殊調配藥物維持感染者的生命。
 
 <!-- end list -->
 
@@ -379,7 +379,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   - [斯瓦希里语](../Page/斯瓦希里语.md "wikilink")（英語：Kiswahili）
-    非洲語言當中使用人口最多的一種（5500萬多人），是[坦桑尼亞的唯一](../Page/坦桑尼亞.md "wikilink")[官方語言](../Page/官方語言.md "wikilink")，[肯尼亞和](../Page/肯尼亞.md "wikilink")[剛果民主共和國的](../Page/剛果民主共和國.md "wikilink")[國家語言之一](../Page/國家語言.md "wikilink")。1728年，斯瓦希里語是以[阿拉伯字母來拼寫](../Page/阿拉伯字母.md "wikilink")，19世紀受到歐洲殖民者的影響改以[拉丁字母來拼音](../Page/拉丁字母.md "wikilink")。斯瓦希里語吸收了大量[阿拉伯語借詞](../Page/阿拉伯語.md "wikilink")，連語言的名稱「斯瓦希里」來自阿拉伯文سواحيل（Sawahil）「瀕海地區」。
+    非洲語言當中使用人口最多的一種（5500萬多人），是[坦桑尼亞的唯一](https://zh.wikipedia.org/wiki/坦桑尼亞 "wikilink")[官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")，[肯尼亞和](https://zh.wikipedia.org/wiki/肯尼亞 "wikilink")[剛果民主共和國的](https://zh.wikipedia.org/wiki/剛果民主共和國 "wikilink")[國家語言之一](../Page/國家語言.md "wikilink")。1728年，斯瓦希里語是以[阿拉伯字母來拼寫](../Page/阿拉伯字母.md "wikilink")，19世紀受到歐洲殖民者的影響改以[拉丁字母來拼音](../Page/拉丁字母.md "wikilink")。斯瓦希里語吸收了大量[阿拉伯語借詞](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，連語言的名稱「斯瓦希里」來自阿拉伯文سواحيل（Sawahil）「瀕海地區」。
 
 <!-- end list -->
 
@@ -404,13 +404,13 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - PLA，指[中國人民解放軍](../Page/中國人民解放軍.md "wikilink")（英語：People's Liberation
-    Army）
+  - PLA，指[中國人民解放軍](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")（英語：People's
+    Liberation Army）
     中華人民共和國最主要的武裝力量，執行中國共產黨政治任務的武裝集團，常備軍高達230萬人，位居世界首位。電視動畫的「花園計劃」和「人體實驗」這些事情和中國無關係，僅僅在夏目少佐（日軍）的衛星電話請求下，美軍負責轟炸「工廠」後，解放軍協助清理並掩埋村民的屍體的工作。日軍和美軍將新疆地區的恐怖組織「反恐任務」成功，這一功勞送給中國人民解放軍，全部病毒事件就此落幕。
 
 <!-- end list -->
 
-  - NGO，指[非政府組織](../Page/非政府組織.md "wikilink")（英語：Non-governmental
+  - NGO，指[非政府組織](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")（英語：Non-governmental
     organization）
     一個不屬於政府、不由國家建立的組織，通常獨立於政府。雖然從定義上包含以營利為目的的企業，該名詞一般僅限於非商業化、合法的、與社會文化和環境相關的倡導群體。1995年聯合國關於全球管理的報告統計，有接近29000個國際NGO。國家級的更多，美國統計過有兩百萬個NGO，大部分是過去30年成立的，其中有65000個在俄羅斯。每天有數十個NGO成立。電視動畫中的NGO組織是專門蒐集中情局犯罪事實，要挾方式，進行敲詐勒索。
 
@@ -421,33 +421,33 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - CIA，指[中央情報局](../Page/中央情報局.md "wikilink")（英語：Central Intelligence
-    Agency）
+  - CIA，指[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")（英語：Central
+    Intelligence Agency）
     美國最大的情報機構，主要任務是公開和秘密地收集和分析關於國外政府等各方面的情報，協調其他國內情報機構的活動，並把這些情報報告到美國政府各個部門的工作。負責維持大量軍事設備，這些設備在冷戰期間用於推翻外國政府，例如前蘇聯，和對美國利益構成威脅的反對者。中央情報局總部設在維吉尼亞州的蘭利（Langley）。Langley指CIA。
 
 <!-- end list -->
 
-  - CDC，指[美國疾病控制與預防中心](../Page/美國疾病控制與預防中心.md "wikilink")（英語：Centers for
-    Disease Control and Prevention）
+  - CDC，指[美國疾病控制與預防中心](https://zh.wikipedia.org/wiki/美國疾病控制與預防中心 "wikilink")（英語：Centers
+    for Disease Control and Prevention）
     隸屬於美國的公家機關，負責疾病監控和公共衛生的整合。
 
 <!-- end list -->
 
-  - [伊拉克戰爭](../Page/伊拉克戰爭.md "wikilink")，又稱美伊戰爭
+  - [伊拉克戰爭](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，又稱美伊戰爭
     本作故事中東主人翁的源點。發生於2003年3月20日，美國和英國為主的聯合部隊在未經聯合國授權下正式宣佈對伊拉克開戰。據中國國務院發表的《2007年美國的人權紀錄》，伊拉克戰爭在2003年爆發至今已有至少66萬伊拉克平民因戰火而喪生。
 
 <!-- end list -->
 
-  - NBCR，指[大規模殺傷性武器](../Page/大規模殺傷性武器.md "wikilink")。
+  - NBCR，指[大規模殺傷性武器](https://zh.wikipedia.org/wiki/大規模殺傷性武器 "wikilink")。
     這詞最早出現於1937年，一般指以下三種：
       - [核武器](../Page/核武器.md "wikilink")（**N**uclear） -
         包括[放射性武器](../Page/放射性武器.md "wikilink")
       - [生物武器](../Page/生物武器.md "wikilink")（**B**iological）
-      - [化學武器](../Page/化學武器.md "wikilink")（**C**hemical）
+      - [化學武器](https://zh.wikipedia.org/wiki/化學武器 "wikilink")（**C**hemical）
 
 <!-- end list -->
 
-  - IFF，[敵我識別系統](../Page/敵我識別系統.md "wikilink")
+  - IFF，[敵我識別系統](https://zh.wikipedia.org/wiki/敵我識別系統 "wikilink")
     軍式系統中用於分別敵我的方式,從電子訊號到軍服 軍旗 勳章等皆可通用
 
 <!-- end list -->
@@ -455,7 +455,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
   - PMC，指私人軍事承辦商（英語：[私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")）
     擁有大量具作戰能力的[僱傭兵及軍事武器](../Page/僱傭兵.md "wikilink")，接受金錢交易後會執行軍事任務的公司。
     故事中甘明治所營運的DAEDALA Corporation，就是一間PMC。這公司其實是恐怖組織「蛇」集團用以掩飾的表面形象。
-    在現實中，自[911事件後](../Page/911事件.md "wikilink")，PMC越來越多。不只在[伊拉克](../Page/伊拉克.md "wikilink")、[阿富汗等交戰地區](../Page/阿富汗.md "wikilink")，即使在北美、東歐、南美等地區，PMC也活動頻密，主要任務是保護一些重要人物。\<\!--;
+    在現實中，自[911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，PMC越來越多。不只在[伊拉克](../Page/伊拉克.md "wikilink")、[阿富汗等交戰地區](../Page/阿富汗.md "wikilink")，即使在北美、東歐、南美等地區，PMC也活動頻密，主要任務是保護一些重要人物。\<\!--;
     PMC，指生產及物料控制（英語：Product Material Control）
     分成主要兩個部分：
       - PC：生產控制或生產管制。主要職能是生產的計劃與生產的進度控制。
@@ -463,8 +463,8 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - ECM，指[電子反治戰術](../Page/電子反治戰術.md "wikilink")（英語：Electronic Counter
-    Measurement）
+  - ECM，指[電子反治戰術](https://zh.wikipedia.org/wiki/電子反治戰術 "wikilink")（英語：Electronic
+    Counter Measurement）
     軍戰術中以電子戰反治對方情報收集及通信係統的手法 常見的如黑客入侵,周波通信干擾,雷達干擾等
 
 <!-- end list -->
@@ -474,14 +474,14 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - NSA，[美國國家安全局](../Page/美國國家安全局.md "wikilink")（英語：National Security
-    Agency）
+  - NSA，[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（英語：National
+    Security Agency）
     美國政府機構中最大的情報部門，專門負責收集和分析外國通訊資料，隸屬於美國國防部。
 
 <!-- end list -->
 
-  - SAC，[中國證監會](../Page/中國證監會.md "wikilink")（英語：Securities Association
-    of China）
+  - SAC，[中國證監會](https://zh.wikipedia.org/wiki/中國證監會 "wikilink")（英語：Securities
+    Association of China）
     這名稱的準確性有待商討。英语意为“中国证券业协会”，但動畫內容所指的，確實是中國證監會。不曉得是不是動畫縮寫打錯，還是故意更改名字。正確名稱應該是「中國證券監督管理委員會」，英文全名「China
     Securities Regulatory Commission」，英文簡稱「CSRC」。
 
@@ -493,12 +493,13 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   - 拋售[美國國債](../Page/美國國債.md "wikilink")
-    中國拋售美國國債主要是打擊了美國經濟，使美國貨幣快速而深幅的進行貶值、物價的膨脹。中國、巴西、俄羅斯、印度所組成的[金磚四國](../Page/金磚四國.md "wikilink")（BRICs），是美國最大的四個債主國。據估計，中國目前持有的官方外匯儲備總額已經接近2.4萬億美元，其中1.6萬億美元是以美元資產和美國國債形式持有的。中國已經成為美國之外美元資產的最大持有國。如果金磚四國全面出售美國國債，美國國債價格將會暴跌，國債收益率上升。假設中國大量拋售美國國債，毫無疑問會給美國造成巨大損失，但是中國遭遇的損失可能會更大。此舉很容易成為中美之間的貿易摩擦迅速升級到大規模的經濟戰，將給兩國造成巨大傷害。
+    中國拋售美國國債主要是打擊了美國經濟，使美國貨幣快速而深幅的進行貶值、物價的膨脹。中國、巴西、俄羅斯、印度所組成的[金磚四國](https://zh.wikipedia.org/wiki/金磚四國 "wikilink")（BRICs），是美國最大的四個債主國。據估計，中國目前持有的官方外匯儲備總額已經接近2.4萬億美元，其中1.6萬億美元是以美元資產和美國國債形式持有的。中國已經成為美國之外美元資產的最大持有國。如果金磚四國全面出售美國國債，美國國債價格將會暴跌，國債收益率上升。假設中國大量拋售美國國債，毫無疑問會給美國造成巨大損失，但是中國遭遇的損失可能會更大。此舉很容易成為中美之間的貿易摩擦迅速升級到大規模的經濟戰，將給兩國造成巨大傷害。
 
 <!-- end list -->
 
   - [大蘋果](../Page/大蘋果.md "wikilink")（英文：The Big Apple）
-    地名。意指[紐約市](../Page/紐約市.md "wikilink")（New York City）。
+    地名。意指[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")（New York
+    City）。
 
 <!-- end list -->
 
@@ -507,12 +508,13 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - [克什米爾地區](../Page/克什米爾.md "wikilink")（英語：Kashmir）
+  - [克什米爾地區](https://zh.wikipedia.org/wiki/克什米爾 "wikilink")（英語：Kashmir）
     地名。由三個國家分治：[巴基斯坦控制了西北部地區](../Page/巴基斯坦.md "wikilink")（自由克什米爾和克什米爾北部地區），[印度控制了中部和南部地區](../Page/印度.md "wikilink")（查謨-克什米爾邦），[中國則控制了東北部地區](../Page/中國.md "wikilink")（阿克賽欽和喀喇崑崙走廊）。「消失的村子」位在克什米爾地區，夏珂和雲雲的出生地方，也是全部Boner和Unbloom原本居住的小村子。地理上靠近新疆一帶。
 
 <!-- end list -->
 
-  - [阿克賽欽地區](../Page/阿克賽欽.md "wikilink")（英語：Aksai Chin）
+  - [阿克賽欽地區](https://zh.wikipedia.org/wiki/阿克賽欽 "wikilink")（英語：Aksai
+    Chin）
     地名。位於中華人民共和國新疆、西藏兩自治區與印度的邊界西段。阿克賽欽是突厥語，這裡的「欽」就是突厥語中國的意思。目前中國方面擁有實際控制權，並稱這裡自古就是中國領土，絕大部分屬於新疆和田地區管轄，南部很小一部分屬於西藏自治區阿里地區管轄。「工廠」實驗室的所在地。
 
 <!-- end list -->
@@ -522,14 +524,14 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - [次聲波](../Page/次聲波.md "wikilink")
+  - [次聲波](https://zh.wikipedia.org/wiki/次聲波 "wikilink")
     科學家們發現，當次聲波的振盪頻率與人們的大腦節律相近，且引起共振時，能強烈刺激人的大腦，輕者恐懼。狂癲不安，重者突然暈厥或完全喪失自控能力，乃至死亡。當次聲波振盪頻率與人體內臟器官的振盪節律相當，人處在強度較高的次聲波環境中，五臟六腑就會發生強烈的共振，剎那間大小血管就會一齊破裂，導致死亡。
 
 <!-- end list -->
 
   - [PLO](../Page/巴勒斯坦解放組織.md "wikilink")（英語：Palestine Liberation
     Organization）
-    [巴勒斯坦解放組織](../Page/巴勒斯坦解放組織.md "wikilink")。一個巴勒斯坦阿拉伯人的政治及準軍事組織，他們專注於建立一個獨立的[巴勒斯坦國](../Page/巴勒斯坦國.md "wikilink")，並意圖取代[以色列](../Page/以色列.md "wikilink")。PLO組織進入黎巴嫩後，受到黎巴嫩基督教勢力的強烈排斥。1972年[慕尼黑慘案爆發](../Page/慕尼黑慘案.md "wikilink")，以色列為了報復，入侵[黎巴嫩](../Page/黎巴嫩.md "wikilink")，攻擊涉嫌的PLO組織的領導人，之後，[黎巴嫩內戰隨後爆發](../Page/黎巴嫩內戰.md "wikilink")。黎巴嫩首都貝魯特，有東方小巴黎之稱的城市，瞬間變成火炮下的煉獄。獲得以色列武器支援的基督教民兵和得到敘利亞武器支援的PLO組織，作戰到1981年為止，雙方共有四萬准軍事人員戰死，平民死傷則不計其數。
+    [巴勒斯坦解放組織](../Page/巴勒斯坦解放組織.md "wikilink")。一個巴勒斯坦阿拉伯人的政治及準軍事組織，他們專注於建立一個獨立的[巴勒斯坦國](https://zh.wikipedia.org/wiki/巴勒斯坦國 "wikilink")，並意圖取代[以色列](../Page/以色列.md "wikilink")。PLO組織進入黎巴嫩後，受到黎巴嫩基督教勢力的強烈排斥。1972年[慕尼黑慘案爆發](https://zh.wikipedia.org/wiki/慕尼黑慘案 "wikilink")，以色列為了報復，入侵[黎巴嫩](../Page/黎巴嫩.md "wikilink")，攻擊涉嫌的PLO組織的領導人，之後，[黎巴嫩內戰隨後爆發](../Page/黎巴嫩內戰.md "wikilink")。黎巴嫩首都貝魯特，有東方小巴黎之稱的城市，瞬間變成火炮下的煉獄。獲得以色列武器支援的基督教民兵和得到敘利亞武器支援的PLO組織，作戰到1981年為止，雙方共有四萬准軍事人員戰死，平民死傷則不計其數。
 
 <!-- end list -->
 
@@ -540,7 +542,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 <!-- end list -->
 
-  - 《[古蘭經](../Page/古蘭經.md "wikilink")》「**凡枉殺一人的，如殺眾人**」
+  - 《[古蘭經](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")》「**凡枉殺一人的，如殺眾人**」
     名句摘自於古蘭經（5:32）。伊斯蘭教認為所有的生命形式都是神聖的，人類生命的神聖性被放在了特殊的位置。一個人最基本的人權是——「**生存權**」，伊斯蘭教是保護生命的，禁止枉殺無辜任何者。古蘭經指出，非法奪取一個人的生命就等於殺害全人類，明文禁止殺人，國家可以為了維護法律的尊嚴和社會的安定而下令處決罪犯，這樣子做是有必要性。只有遵守法律，並且有管轄權的法院才可以決定人是否因為不顧他人和平生存的權利而判處死刑。
 
 <!-- end list -->
@@ -550,34 +552,37 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 ## 電視動畫
 
-2009年7月4日起在日本[獨立UHF局等電視台播放](../Page/獨立UHF局.md "wikilink")。全13話。
+2009年7月4日起在日本[獨立UHF局等電視台播放](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink")。全13話。
 
 ### 製作人員
 
-  - 原作：[428：被封锁的涩谷](../Page/428：被封锁的涩谷.md "wikilink")（CHUNSOFT）
-  - 原案：[奈須磨菇](../Page/奈須磨菇.md "wikilink")
+  - 原作：[428：被封锁的涩谷](https://zh.wikipedia.org/wiki/428：被封锁的涩谷 "wikilink")（CHUNSOFT）
+  - 原案：[奈須磨菇](https://zh.wikipedia.org/wiki/奈須磨菇 "wikilink")
   - 人物原案：[武内崇](../Page/武内崇.md "wikilink")
   - 導演：[安藤真裕](../Page/安藤真裕.md "wikilink")
-  - 編劇、系列构成：[冈田磨里](../Page/冈田磨里.md "wikilink")
+  - 編劇、系列构成：[冈田磨里](https://zh.wikipedia.org/wiki/冈田磨里 "wikilink")
   - 人物设定、總作畫監督：[關口可奈味](../Page/關口可奈味.md "wikilink")
-  - 美術總監：[脇威志](../Page/脇威志.md "wikilink")
+  - 美術總監：[脇威志](https://zh.wikipedia.org/wiki/脇威志 "wikilink")
   - 色彩設計：井上佳津枝
   - 色彩指定：中野尚美
   - 攝影指導：並木智
   - 剪接：高橋步
-  - 原創音樂：[七瀨光](../Page/七瀨光.md "wikilink")
+  - 原創音樂：[七瀨光](https://zh.wikipedia.org/wiki/七瀨光 "wikilink")
   - 音響總監：明田川仁（Procen Studio）
-  - 音響設計：[田中理惠](../Page/田中理惠_\(音响监督\).md "wikilink")（Magic Capsule）
+  - 音響設計：[田中理惠](https://zh.wikipedia.org/wiki/田中理惠_\(音响监督\) "wikilink")（Magic
+    Capsule）
   - 動作音效設計：中野勝博（Sound Box）
   - 動畫檢查：高田彩、花谷智佳子
   - 視覺特效總監：山崎嘉雅
   - 執行製片人(executive
-    producer)：森本浩二、[中村光一](../Page/中村光一.md "wikilink")、福場一義、伊藤善之、矢部征嗣、臼井久人、[安藝貴範](../Page/安藝貴範.md "wikilink")、太田豐紀、[木谷高明](../Page/木谷高明.md "wikilink")、太布尚弘
-  - 製片人(producer)：大島靖、（石井二郎）、[齋藤滋](../Page/齋藤滋.md "wikilink")、川村仁、[堀川憲司](../Page/堀川憲司.md "wikilink")、福良啟
+    producer)：森本浩二、[中村光一](../Page/中村光一.md "wikilink")、福場一義、伊藤善之、矢部征嗣、臼井久人、[安藝貴範](https://zh.wikipedia.org/wiki/安藝貴範 "wikilink")、太田豐紀、[木谷高明](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")、太布尚弘
+  - 製片人(producer)：大島靖、（石井二郎）、[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")、川村仁、[堀川憲司](../Page/堀川憲司.md "wikilink")、福良啟
   - 總策劃(associate producer)：山崎史紀、小田ツヨシ、小坂竜司、中村伸行
-  - 動畫製作：[P.A. Works](../Page/P.A._Works.md "wikilink")
+  - 動畫製作：[P.A.
+    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
   - 製作協力：[Production I.G](../Page/Production_I.G.md "wikilink")
-  - 出品：[Project CANAAN](../Page/製作委員會方式.md "wikilink")
+  - 出品：[Project
+    CANAAN](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
   - 參與企業：森本浩二：Bandai Visual萬代影視、中村光一：Spike Chunsoft、福場一義：Pony
     Canyon波麗佳音、伊藤善之：Lantis、矢部征嗣：Hakuhodo DY Media
     Partners、臼井久人：Showgate、安藝貴範：Good Smile
@@ -585,8 +590,9 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 
 ### 主題歌
 
-  - 片頭曲《[mind as Judgment](../Page/mind_as_Judgment.md "wikilink")》
-    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")；作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")；歌：[飛蘭](../Page/飛蘭.md "wikilink")
+  - 片頭曲《[mind as
+    Judgment](https://zh.wikipedia.org/wiki/mind_as_Judgment "wikilink")》
+    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")；作曲、編曲：[上松範康](../Page/上松範康.md "wikilink")；歌：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
   - 片尾曲《My heaven》
     作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")；作編曲：myu；歌：Annabel
 
@@ -604,12 +610,12 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
         作詞：岡田麿里；作曲：俊龍；編曲：虹音；歌：（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
 3.  《**LIFE**》（第13話）
       -
-        作詞、作曲：[yozuca\*](../Page/yozuca*.md "wikilink")；編曲：安瀬聖；歌：（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
+        作詞、作曲：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")；編曲：安瀬聖；歌：（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）
 
 <!-- end list -->
 
   - 印象歌《AROUSING SOUL》
-    作詞：[畑亞贵](../Page/畑亞贵.md "wikilink")；作曲、編曲：齋藤真也；歌：飛蘭
+    作詞：[畑亞贵](https://zh.wikipedia.org/wiki/畑亞贵 "wikilink")；作曲、編曲：齋藤真也；歌：飛蘭
 
 ### 各話標題
 
@@ -755,10 +761,10 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><a href="../Page/TOKYO_MX.md" title="wikilink">TOKYO MX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2009年7月4日 - 9月26日</p></td>
 <td><p>星期六 22:30 - 23:00</p></td>
-<td><p><a href="../Page/獨立UHF局.md" title="wikilink">獨立UHF局</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
 <td><p>2012年4月1日（星期日）<br />
 0:00～0:30重播</p></td>
 </tr>
@@ -772,7 +778,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td><p><a href="../Page/千葉電視台.md" title="wikilink">千葉電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
 <td><p>2009年7月6日 - 9月28日</p></td>
 <td><p>星期一 26:10 - 26:40</p></td>
 <td></td>
@@ -787,15 +793,15 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/近畿廣域圈.md" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
 <td><p><a href="../Page/關西電視台.md" title="wikilink">關西電視台</a></p></td>
 <td><p>星期二 26:05 - 26:35</p></td>
-<td><p><a href="../Page/FNS.md" title="wikilink">富士電視系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNS" title="wikilink">富士電視系</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/中京廣域圈.md" title="wikilink">中京廣域圈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><a href="../Page/東海電視台.md" title="wikilink">東海電視台</a></p></td>
 <td><p>2009年7月9日 - 10月8日</p></td>
 <td><p>星期四 27:35 - 28:05</p></td>
@@ -807,23 +813,23 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
 <td><p>2009年7月28日 - 10月20日</p></td>
 <td><p>星期二 11:30 - 12:00</p></td>
-<td><p><a href="../Page/衛星電視.md" title="wikilink">CS放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛星電視" title="wikilink">CS放送</a></p></td>
 <td><p>有重播</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣</a></p></td>
-<td><p><a href="../Page/富山電視台.md" title="wikilink">富山電視台</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/富山電視台" title="wikilink">富山電視台</a></p></td>
 <td><p>2009年9月5日 - 12月5日</p></td>
 <td><p>星期六 26:50 - 27:20</p></td>
-<td><p><a href="../Page/FNS.md" title="wikilink">富士電視系</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FNS" title="wikilink">富士電視系</a></p></td>
 <td><p>P.A.WORKS的所在地</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/NICONICO頻道.md" title="wikilink">NICONICO頻道</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO頻道" title="wikilink">NICONICO頻道</a></p></td>
 <td><p>2012年4月15日 -</p></td>
 <td><p>星期日 24:30 -</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話216日圓</p></td>
 </tr>
 <tr class="even">
@@ -831,7 +837,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2010年4月23日 -</p></td>
 <td><p>星期五 起 -</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話105日圓<br />
 首播後48小時內能反覆觀看</p></td>
 </tr>
@@ -840,16 +846,16 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p><a href="../Page/PlayStation_Network.md" title="wikilink">PlayStation Store</a></p></td>
 <td><p>2010年5月26日 -</p></td>
 <td><p>星期三 起 -</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話200日圓<br />
 首播後48小時內能反覆觀看</p></td>
 </tr>
 <tr class="even">
 <td><p>日本地區</p></td>
-<td><p><a href="../Page/Amazon_Video.md" title="wikilink">Amazon Video</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Amazon_Video" title="wikilink">Amazon Video</a></p></td>
 <td></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話SD畫質下載108日圓</p></td>
 </tr>
 <tr class="odd">
@@ -857,7 +863,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p>Amazon Video</p></td>
 <td><p>2013年-</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話HD畫質下載2.99美金</p></td>
 </tr>
 <tr class="even">
@@ -865,7 +871,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2011年-</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>2011年7月1日上架<br />
 2016年6月1日下架</p></td>
 </tr>
@@ -874,7 +880,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <td><p><a href="../Page/中華電信MOD.md" title="wikilink">中華電信MOD</a></p></td>
 <td><p>2011年8月18日</p></td>
 <td><p>-</p></td>
-<td><p><a href="../Page/網路配信.md" title="wikilink">網路配信</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網路配信" title="wikilink">網路配信</a></p></td>
 <td><p>每話25元新台幣<br />
 首播後72小時內能反覆觀看</p></td>
 </tr>
@@ -882,8 +888,8 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 </table>
 
   - 2010年9月24日開始於TVB系J2放映，設有粵語／日語原聲配音雙語廣播。重播時段(翌日)05:00-06:0­0。節目預定播送的時間表，以TVB電視廣播有限公司公佈的資料作準。
-  - 香港J2版的導配及劇本修改為[聰聰21](../Page/聰聰21.md "wikilink")。
-  - 香港J2版由TVB國語配音組擔任劇中的普通話配音。事實上TVB國語組從未配過動畫。這開創了TVB[粵語配音組及國語配音組為一部動畫合作配音的首例](../Page/粵語配音員.md "wikilink")。
+  - 香港J2版的導配及劇本修改為[聰聰21](https://zh.wikipedia.org/wiki/聰聰21 "wikilink")。
+  - 香港J2版由TVB國語配音組擔任劇中的普通話配音。事實上TVB國語組從未配過動畫。這開創了TVB[粵語配音組及國語配音組為一部動畫合作配音的首例](https://zh.wikipedia.org/wiki/粵語配音員 "wikilink")。
 
 ## DVD、BD
 
@@ -981,7 +987,7 @@ Films為歐美經銷商。
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">

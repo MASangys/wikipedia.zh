@@ -1,30 +1,30 @@
 **Hajos–Parrish–Eder–Sauer–Wiechert反应**（Hajos–Parrish\[1\]\[2\]–Eder–Sauer–Wiechert\[3\]
 reaction）
 
-由[脯胺酸](../Page/脯胺酸.md "wikilink")[催化的](../Page/催化.md "wikilink")[不对称](../Page/不对称合成.md "wikilink")[羟醛反应](../Page/羟醛反应.md "wikilink")。此反应以其在[罗氏](../Page/罗氏.md "wikilink")（Hajos、Parrish）和[先灵公司](../Page/先灵公司.md "wikilink")（Eder、Sauer、Wiechert）的早期研究者的名字而命名。这是[有机催化的早期例子](../Page/有机催化.md "wikilink")，也是第一个实现的非金属催化的羟醛反应。
+由[脯胺酸](https://zh.wikipedia.org/wiki/脯胺酸 "wikilink")[催化的](../Page/催化.md "wikilink")[不对称](../Page/不对称合成.md "wikilink")[羟醛反应](../Page/羟醛反应.md "wikilink")。此反应以其在[罗氏](../Page/罗氏.md "wikilink")（Hajos、Parrish）和[先灵公司](https://zh.wikipedia.org/wiki/先灵公司 "wikilink")（Eder、Sauer、Wiechert）的早期研究者的名字而命名。这是[有机催化的早期例子](../Page/有机催化.md "wikilink")，也是第一个实现的非金属催化的羟醛反应。
 最早是在20世纪70年代由 Hajos 和 Parrish 发现，如下图所示：
 
 
 :[Hajos和Parrish发现的反应](https://zh.wikipedia.org/wiki/File:Organocatalytic1.gif "fig:Hajos和Parrish发现的反应")
-他们以非手性的三酮作为原料，用天然存在的手性[脯胺酸作为催化剂](../Page/脯胺酸.md "wikilink")，用3mol％的(*S*)-(-)-脯氨酸，就可以100％产率和93％[ee实现底物的分子内羟醛反应](../Page/对映体过量百分数.md "wikilink")。反应是在[二甲基甲酰胺中进行](../Page/二甲基甲酰胺.md "wikilink")，温度适中。他们也因此分离出了羟醛加成产物——双环酮醇。该加成产物最近才有人利用该实验再次分离出来。\[4\]
+他们以非手性的三酮作为原料，用天然存在的手性[脯胺酸作为催化剂](https://zh.wikipedia.org/wiki/脯胺酸 "wikilink")，用3mol％的(*S*)-(-)-脯氨酸，就可以100％产率和93％[ee实现底物的分子内羟醛反应](https://zh.wikipedia.org/wiki/对映体过量百分数 "wikilink")。反应是在[二甲基甲酰胺中进行](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")，温度适中。他们也因此分离出了羟醛加成产物——双环酮醇。该加成产物最近才有人利用该实验再次分离出来。\[4\]
 
 先灵公司的研究组则将反应在非生理条件下进行，以47mol％的(*S*)-脯氨酸催化，80°C下，在 1N
 [高氯酸的](../Page/高氯酸.md "wikilink")[乙腈溶液中进行反应](../Page/乙腈.md "wikilink")。他们因此无法分离出酮醇产物，只得到了失水后产生的羟醛缩合产物（(7a*S*)-7a-甲基-2,3,6,7-四氢吲哚-1,5-二酮）。\[5\]
 
 Hajos 和 Parrish
-接下来又用[圆二色谱和](../Page/圆二色谱.md "wikilink")[单晶X射线衍射对上述酮醇产物的结构进行了分析](../Page/单晶X射线衍射.md "wikilink")，结果显示酮醇中的六元环为椅型构象，其中[角甲基占据直键](../Page/角甲基.md "wikilink")、羟基占平键，与[洋地黄糖苷元](../Page/洋地黄糖苷元.md "wikilink")（digitoxigenin）中CD环的构象类似（左下图）。\[6\]
+接下来又用[圆二色谱和](https://zh.wikipedia.org/wiki/圆二色谱 "wikilink")[单晶X射线衍射对上述酮醇产物的结构进行了分析](https://zh.wikipedia.org/wiki/单晶X射线衍射 "wikilink")，结果显示酮醇中的六元环为椅型构象，其中[角甲基占据直键](https://zh.wikipedia.org/wiki/角甲基 "wikilink")、羟基占平键，与[洋地黄糖苷元](https://zh.wikipedia.org/wiki/洋地黄糖苷元 "wikilink")（digitoxigenin）中CD环的构象类似（左下图）。\[6\]
 但是，酮醇产物的7a-乙基类似物则不然，该分子中乙基处于平键、羟基处于直键，以避免另一构象中乙基与 C-4 和 C-6
 之间更为强烈的1,3-二轴交互作用（右下图）。
 
 
 :[Hajos-Parrish酮醇](https://zh.wikipedia.org/wiki/File:Hajos-Parrish-ketols-2.svg "fig:Hajos-Parrish酮醇")
 2000年\[7\]\[8\]，List 和 Barbas
-等人尝试用简单的仲胺来模拟以[烯胺活化机理催化羟醛反应的天然](../Page/烯胺.md "wikilink")Ⅰ型[醛缩酶](../Page/醛缩酶.md "wikilink")\[9\]，选用(*S*)-脯氨酸来做[丙酮和](../Page/丙酮.md "wikilink")[对硝基苯甲醛的分子间直接羟醛反应](../Page/对硝基苯甲醛.md "wikilink")，实现了68％产率、76％ee。\[10\]
+等人尝试用简单的仲胺来模拟以[烯胺活化机理催化羟醛反应的天然](https://zh.wikipedia.org/wiki/烯胺 "wikilink")Ⅰ型[醛缩酶](https://zh.wikipedia.org/wiki/醛缩酶 "wikilink")\[9\]，选用(*S*)-脯氨酸来做[丙酮和](../Page/丙酮.md "wikilink")[对硝基苯甲醛的分子间直接羟醛反应](https://zh.wikipedia.org/wiki/对硝基苯甲醛 "wikilink")，实现了68％产率、76％ee。\[10\]
 一般认为这标志着有机催化复兴的开始。 有机催化的分子间羟醛反应也被称为 List-Barbas 羟醛反应。\[11\]
 
 
 :[AldolBarbas2000.svg](https://zh.wikipedia.org/wiki/File:AldolBarbas2000.svg "fig:AldolBarbas2000.svg")
-上述反应的副反应有酮与脯氨酸生成[噁唑啉酮](../Page/噁唑啉酮.md "wikilink")，以及醛与脯氨酸生成[亚甲胺叶立德](../Page/亚甲胺叶立德.md "wikilink")。List
+上述反应的副反应有酮与脯氨酸生成[噁唑啉酮](https://zh.wikipedia.org/wiki/噁唑啉酮 "wikilink")，以及醛与脯氨酸生成[亚甲胺叶立德](https://zh.wikipedia.org/wiki/亚甲胺叶立德 "wikilink")。List
 等以高浓度的丙酮作为底物以抑制副反应的发生。
 他们还考察了一些脯氨酸的类似物，但是发现大多数催化能力不如脯氨酸，还是最便宜的脯氨酸几乎是最好的催化剂。
 不过5,5-二甲基噻唑-4-羧酸的催化效果也十分良好。\[12\]
@@ -34,13 +34,13 @@ Hajos 和 Parrish
 
 :[AldolList2001Diol.svg](https://zh.wikipedia.org/wiki/File:AldolList2001Diol.svg "fig:AldolList2001Diol.svg")
 1985年有人将该反应用于
-[Wieland-Miescher酮的不对称合成](../Page/Wieland-Miescher酮.md "wikilink")，利用[丁烯酮与](../Page/丁烯酮.md "wikilink")2-甲基-1,3-环己二酮先发生[麦克尔加成](../Page/麦克尔加成.md "wikilink")，然后再在脯氨酸催化下，发生羟醛反应成环制得产物。\[14\]
-总过程是一种[罗宾逊成环反应](../Page/罗宾逊成环反应.md "wikilink")。产物 W-M
-酮是许多固醇类和萜类化合物的合成前体。 2000年，Barbas
-等实现了脯氨酸催化下利用串联麦克尔-羟醛反应制取 Wieland-Miescher 酮的不对称合成。\[15\]
+[Wieland-Miescher酮的不对称合成](https://zh.wikipedia.org/wiki/Wieland-Miescher酮 "wikilink")，利用[丁烯酮与](../Page/丁烯酮.md "wikilink")2-甲基-1,3-环己二酮先发生[麦克尔加成](https://zh.wikipedia.org/wiki/麦克尔加成 "wikilink")，然后再在脯氨酸催化下，发生羟醛反应成环制得产物。\[14\]
+总过程是一种[罗宾逊成环反应](https://zh.wikipedia.org/wiki/罗宾逊成环反应 "wikilink")。产物 W-M
+酮是许多固醇类和萜类化合物的合成前体。 2000年，Barbas 等实现了脯氨酸催化下利用串联麦克尔-羟醛反应制取
+Wieland-Miescher 酮的不对称合成。\[15\]
 
 2002年，美国的
-MacMillan（[大卫·麦克米兰](../Page/大卫·麦克米兰.md "wikilink")）用脯氨酸作催化剂首次实现了不同的[醛之间的羟醛反应](../Page/醛.md "wikilink")。克服了做醛的交叉羟醛反应时醛的自身缩合问题。\[16\]
+MacMillan（[大卫·麦克米兰](https://zh.wikipedia.org/wiki/大卫·麦克米兰 "wikilink")）用脯氨酸作催化剂首次实现了不同的[醛之间的羟醛反应](../Page/醛.md "wikilink")。克服了做醛的交叉羟醛反应时醛的自身缩合问题。\[16\]
 
   -
     [AldolMacmillan2002.svg](https://zh.wikipedia.org/wiki/File:AldolMacmillan2002.svg "fig:AldolMacmillan2002.svg")
@@ -50,9 +50,9 @@ MacMillan（[大卫·麦克米兰](../Page/大卫·麦克米兰.md "wikilink")�
 ## 反应机理
 
 有关脯氨酸催化的此反应的机理一直存在争议。 Hajos (1974)
-当时提出反应经过酮[半缩胺过渡态进行](../Page/半缩胺.md "wikilink")。
+当时提出反应经过酮[半缩胺过渡态进行](https://zh.wikipedia.org/wiki/半缩胺 "wikilink")。
 Agami (1984)
-在反应动力学数据基础上提出[烯胺中间体的机理](../Page/烯胺.md "wikilink")，并且认为在反应过程中，第二个脯氨酸分子参与协助质子转移。\[17\]
+在反应动力学数据基础上提出[烯胺中间体的机理](https://zh.wikipedia.org/wiki/烯胺 "wikilink")，并且认为在反应过程中，第二个脯氨酸分子参与协助质子转移。\[17\]
 Houk (2001)
 提出反应过渡态只含一个脯氨酸分子，而且该脯氨酸的羧基通过[氢键而与酮羰基作用](../Page/氢键.md "wikilink")。\[18\]\[19\]
 
@@ -66,19 +66,19 @@ Hajos (1974) 机理在最近 Limbach 的实验中偶然得到支持。\[20\] Lim
 
 
 :[AldolMechanismList2000.svg](https://zh.wikipedia.org/wiki/File:AldolMechanismList2000.svg "fig:AldolMechanismList2000.svg")
-他们认为，脯氨酸的氨基和丙酮结合生成[亚胺离子](../Page/亚胺离子.md "wikilink")，脱去α-氢，生成亲核性质的[烯胺使亲核试剂得到活化](../Page/烯胺.md "wikilink")。同时脯氨酸的羧基与底物醛的羰基通过氢键作用形成一个占优势的椅型构象，羰基得到活化。然后烯胺优先从
+他们认为，脯氨酸的氨基和丙酮结合生成[亚胺离子](https://zh.wikipedia.org/wiki/亚胺离子 "wikilink")，脱去α-氢，生成亲核性质的[烯胺使亲核试剂得到活化](https://zh.wikipedia.org/wiki/烯胺 "wikilink")。同时脯氨酸的羧基与底物醛的羰基通过氢键作用形成一个占优势的椅型构象，羰基得到活化。然后烯胺优先从
 [*Re*
-面进攻被活化的羰基](../Page/Re面.md "wikilink")，碳－碳键的形成与质子转移同时进行，形成亚胺正离子中间体，再经水解得到产物。
+面进攻被活化的羰基](https://zh.wikipedia.org/wiki/Re面 "wikilink")，碳－碳键的形成与质子转移同时进行，形成亚胺正离子中间体，再经水解得到产物。
 
 List
-等使反应在氧-18[标记的水](../Page/标记.md "wikilink")（H<sub>2</sub><sup>18</sup>O）中进行，发现反应产物也含有氧-18，从而证实了烯胺中间体机理。\[22\]
+等使反应在氧-18[标记的水](https://zh.wikipedia.org/wiki/标记 "wikilink")（H<sub>2</sub><sup>18</sup>O）中进行，发现反应产物也含有氧-18，从而证实了烯胺中间体机理。\[22\]
 
 同样经过烯胺中间体的还有 Agami (1984) 机理。2001年，Barbas 等因为无法观测到 Agami
 机理应有的非线性效应而否定了该机理；\[23\]
 不过后来（2003年）这个机理又在 List 等的反应动力学数据中得到支持。\[24\]
 
 此外 List
-等\[25\]还研究了脯氨酸与丙酮在[二甲基亚砜中生成的噁唑啉酮的反应](../Page/二甲基亚砜.md "wikilink")：
+等\[25\]还研究了脯氨酸与丙酮在[二甲基亚砜中生成的噁唑啉酮的反应](https://zh.wikipedia.org/wiki/二甲基亚砜 "wikilink")：
 
 
 :[OxazolidinoneFormationByreactionOfKetoneWithProline.svg](https://zh.wikipedia.org/wiki/File:OxazolidinoneFormationByreactionOfKetoneWithProline.svg "fig:OxazolidinoneFormationByreactionOfKetoneWithProline.svg")

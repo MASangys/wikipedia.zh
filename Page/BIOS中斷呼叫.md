@@ -1,10 +1,10 @@
-**BIOS[中断调用](../Page/中断.md "wikilink")**（）是一組功能，为[DOS程式與一些软件提供使用](../Page/DOS.md "wikilink")[IBM
-PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BIOS.md "wikilink")。一些[操作系统在](../Page/操作系统.md "wikilink")[系统引导時也使用BIOS以检测并初始化硬件資源](../Page/系统引导.md "wikilink")。
+**BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS程式與一些软件提供使用](../Page/DOS.md "wikilink")[IBM
+PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BIOS.md "wikilink")。一些[操作系统在](../Page/操作系统.md "wikilink")[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
 
 ## 中断调用
 
-若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言的](../Page/汇编语言.md "wikilink")[INT指令](../Page/INT_\(x86指令\).md "wikilink")。
-例如，如下的[x86](../Page/x86.md "wikilink")[汇编语言指令可以使用BIOS的](../Page/汇编语言.md "wikilink")0x10中断向屏幕打印一个字符。
+若要调用中断，可以使用[X86](../Page/X86.md "wikilink")[汇编语言的](../Page/汇编语言.md "wikilink")[INT指令](https://zh.wikipedia.org/wiki/INT_\(x86指令\) "wikilink")。
+例如，如下的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[汇编语言指令可以使用BIOS的](../Page/汇编语言.md "wikilink")0x10中断向屏幕打印一个字符。
 
 <code language="x86">
 
@@ -38,7 +38,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="odd">
 <td><p>INT 02h</p></td>
-<td><p>CPU：，如<a href="../Page/開機自我測試.md" title="wikilink">開機自我測試时发生内存错误</a>。</p></td>
+<td><p>CPU：，如<a href="https://zh.wikipedia.org/wiki/開機自我測試" title="wikilink">開機自我測試时发生内存错误</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>INT 03h</p></td>
@@ -50,7 +50,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="even">
 <td><p>INT 05h</p></td>
-<td><p>在按下Shift-<a href="../Page/Print_Screen.md" title="wikilink">Print Screen或BOUND指令检测到范围异常时触发</a>。</p></td>
+<td><p>在按下Shift-<a href="https://zh.wikipedia.org/wiki/Print_Screen" title="wikilink">Print Screen或BOUND指令检测到范围异常时触发</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>INT 06h</p></td>
@@ -58,7 +58,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="even">
 <td><p>INT 07h</p></td>
-<td><p>CPU：没有<a href="../Page/8087协处理器.md" title="wikilink">数学协处理器时尝试执行浮点指令触发</a>。</p></td>
+<td><p>CPU：没有<a href="https://zh.wikipedia.org/wiki/8087协处理器" title="wikilink">数学协处理器时尝试执行浮点指令触发</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>INT 08h</p></td>
@@ -74,15 +74,15 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="even">
 <td><p>INT 0Bh</p></td>
-<td><p>IRQ3：<a href="../Page/串口.md" title="wikilink">COM2/COM4</a>。</p></td>
+<td><p>IRQ3：<a href="https://zh.wikipedia.org/wiki/串口" title="wikilink">COM2/COM4</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>INT 0Ch</p></td>
-<td><p>IRQ4：<a href="../Page/串口.md" title="wikilink">COM1/COM3</a>。</p></td>
+<td><p>IRQ4：<a href="https://zh.wikipedia.org/wiki/串口" title="wikilink">COM1/COM3</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>INT 0Dh</p></td>
-<td><p>IRQ5：硬盘控制器（PC/XT 下）或 <a href="../Page/并口.md" title="wikilink">LPT2</a>。</p></td>
+<td><p>IRQ5：硬盘控制器（PC/XT 下）或 <a href="https://zh.wikipedia.org/wiki/并口" title="wikilink">LPT2</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>INT 0Eh</p></td>
@@ -90,10 +90,10 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="even">
 <td><p>INT 0Fh</p></td>
-<td><p>IRQ7：<a href="../Page/并口.md" title="wikilink">LPT1</a>。</p></td>
+<td><p>IRQ7：<a href="https://zh.wikipedia.org/wiki/并口" title="wikilink">LPT1</a>。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/INT_10.md" title="wikilink">INT 10h</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INT_10" title="wikilink">INT 10h</a></p></td>
 <td><p>显示服务 - 由BIOS或操作系统设定以供软件调用。</p>
 <table>
 <tbody>
@@ -169,7 +169,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 <td><p>获取常规内存容量。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/INT_13.md" title="wikilink">INT 13h</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INT_13" title="wikilink">INT 13h</a></p></td>
 <td><p>低階磁碟服務。</p>
 <table>
 <tbody>
@@ -362,7 +362,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
 </tr>
 <tr class="even">
 <td><p>INT 19h</p></td>
-<td><p><a href="../Page/加电自检.md" title="wikilink">加电自检之后载入操作系统</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加电自检" title="wikilink">加电自检之后载入操作系统</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>INT 1Ah</p></td>

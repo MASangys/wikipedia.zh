@@ -1,24 +1,25 @@
-**ffdshow**是一套免費的[视频編解碼軟體](../Page/视频编解码器.md "wikilink")，可支援[H.264](../Page/H.264.md "wikilink")、[FLV](../Page/FLV.md "wikilink")、[WMV](../Page/WMV.md "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2以及](../Page/MPEG-2.md "wikilink")[MPEG-4等格式視訊檔](../Page/MPEG-4.md "wikilink")。ffdshow本身並不包含[媒體播放器](../Page/媒體播放器.md "wikilink")，但各種媒體播放器都可以使用ffdshow進行解碼。
+**ffdshow**是一套免費的[视频編解碼軟體](../Page/视频编解码器.md "wikilink")，可支援[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")、[FLV](https://zh.wikipedia.org/wiki/FLV "wikilink")、[WMV](https://zh.wikipedia.org/wiki/WMV "wikilink")、[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2以及](../Page/MPEG-2.md "wikilink")[MPEG-4等格式視訊檔](../Page/MPEG-4.md "wikilink")。ffdshow本身並不包含[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，但各種媒體播放器都可以使用ffdshow進行解碼。
 
 ## 格式
 
 ffdshow使用[ffmpeg](../Page/FFmpeg.md "wikilink")
-[libavcodec](../Page/libavcodec.md "wikilink") library以及其他各種開放原始碼的軟體套件。
+[libavcodec](https://zh.wikipedia.org/wiki/libavcodec "wikilink")
+library以及其他各種開放原始碼的軟體套件。
 
   - [MPEG-4 Part
-    2](../Page/MPEG-4_Part_2.md "wikilink")（包含用[Xvid](../Page/Xvid.md "wikilink")，[3ivx編碼](../Page/3ivx.md "wikilink")，以及所有的[DivX](../Page/DivX.md "wikilink")）。
+    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（包含用[Xvid](../Page/Xvid.md "wikilink")，[3ivx編碼](https://zh.wikipedia.org/wiki/3ivx "wikilink")，以及所有的[DivX](../Page/DivX.md "wikilink")）。
   - [Flash Video](../Page/Flash_Video.md "wikilink"),
     [H.263](../Page/H.263.md "wikilink") and
     [VP6](../Page/VP6.md "wikilink")（用於網站，如[YouTube](../Page/YouTube.md "wikilink")）。
-  - [H.264/AVC](../Page/H.264/MPEG-4_AVC.md "wikilink")，[WMV是一著名的應用](../Page/WMV.md "wikilink")。
+  - [H.264/AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，[WMV是一著名的應用](https://zh.wikipedia.org/wiki/WMV "wikilink")。
 
 ffdshow亦可進行音效解碼，諸如：
 
   - [MP3](../Page/MP3.md "wikilink")
-  - [AAC](../Page/Advanced_Audio_Coding.md "wikilink")
-  - Dolby [AC3](../Page/AC3.md "wikilink")
+  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")
+  - Dolby [AC3](https://zh.wikipedia.org/wiki/AC3 "wikilink")
   - [WMA](../Page/Windows_Media_Audio.md "wikilink")
-  - [Vorbis格式](../Page/Vorbis.md "wikilink")
+  - [Vorbis格式](https://zh.wikipedia.org/wiki/Vorbis "wikilink")
 
 ## 外部連結
 

@@ -1,11 +1,11 @@
-是2009年9月3日由[科樂美數位娛樂在日本發售的](../Page/科樂美數位娛樂.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[戀愛模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")。廣告標語為「」
+是2009年9月3日由[科樂美數位娛樂在日本發售的](../Page/科樂美數位娛樂.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")。廣告標語為「」
 
 2010年6月24日在日本發售續作《**LovePlus+**》，廣告標語為「」（日本全國LOVEPLUS現象（祭典））；而[任天堂3DS版](../Page/任天堂3DS.md "wikilink")《[New
-LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人節在日本上市](../Page/西洋情人節.md "wikilink")。
+LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人節在日本上市](https://zh.wikipedia.org/wiki/西洋情人節 "wikilink")。
 
 ## 玩法
 
-《Loveplus》最大的特徵是：相較於以往的戀愛模擬遊戲（如科樂美的《[心跳回憶系列](../Page/心跳回憶系列.md "wikilink")》）多半目的在得到對方的告白，本作遊戲則是重心著墨於得到告白成為情侶後的發展。告白後的「」利用了DS內建的時鐘功能，會配合現實的時間與季節，同時展開永久持續的「戀愛生活」。在登場角色方面，有「文武雙全大小姐」、「[傲嬌](../Page/傲嬌.md "wikilink")」、「溫厚」、「長輩、晚輩設定」等各式不同性格。本作中角色服裝有400種以上，各項事件更在4000以上\[1\]。
+《Loveplus》最大的特徵是：相較於以往的戀愛模擬遊戲（如科樂美的《[心跳回憶系列](https://zh.wikipedia.org/wiki/心跳回憶系列 "wikilink")》）多半目的在得到對方的告白，本作遊戲則是重心著墨於得到告白成為情侶後的發展。告白後的「」利用了DS內建的時鐘功能，會配合現實的時間與季節，同時展開永久持續的「戀愛生活」。在登場角色方面，有「文武雙全大小姐」、「[傲嬌](../Page/傲嬌.md "wikilink")」、「溫厚」、「長輩、晚輩設定」等各式不同性格。本作中角色服裝有400種以上，各項事件更在4000以上\[1\]。
 
 系統上活用了DS的觸控面版與麥克風，能夠在約會中進行親密接觸，或者是和女子實際對話。另外具備有透過無線通訊達成的記錄資料交換功能，監製石原明廣也談到：「今後如果能有後續作品展開的話，希望讓遊戲資料能夠繼承下去。」
 
@@ -16,7 +16,7 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 ### 主要角色
 
   - 主角（玩家）　<span style="font-weight: normal">[聲優](../Page/聲優.md "wikilink")：無</span>
-    轉學進入十羽野高中的2年級學生。就讀後加入網球社、擔任圖書委員，並且也有[打工](../Page/打工.md "wikilink")。
+    轉學進入十羽野高中的2年級學生。就讀後加入網球社、擔任圖書委員，並且也有[打工](https://zh.wikipedia.org/wiki/打工 "wikilink")。
     在遊戲開頭可以選擇第一人稱為「俺」或「僕」。
 
 <!-- end list -->
@@ -34,8 +34,8 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 <!-- end list -->
 
   -
-    開發初期時本來設定為大學生，後來改為高中3年級學生，因此會化淡妝。右眼有哭[痣](../Page/痣.md "wikilink")。
-    喜歡喉糖。有點[天然呆的性格](../Page/天然呆.md "wikilink")，甚至會想要給餓肚子的動物喉糖吃。愛看[恐怖片](../Page/恐怖片.md "wikilink")，會特意看好幾遍。
+    開發初期時本來設定為大學生，後來改為高中3年級學生，因此會化淡妝。右眼有哭[痣](https://zh.wikipedia.org/wiki/痣 "wikilink")。
+    喜歡喉糖。有點[天然呆的性格](../Page/天然呆.md "wikilink")，甚至會想要給餓肚子的動物喉糖吃。愛看[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，會特意看好幾遍。
 
 <!-- end list -->
 
@@ -44,9 +44,9 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 
 ## 開發
 
-依照本作的製作人[內田明理的說法](../Page/內田明理.md "wikilink")，本作的理念為「」，並非「攻略完就結束」，而是成為情侶後日子會延續下去的構成\[3\]。
+依照本作的製作人[內田明理的說法](https://zh.wikipedia.org/wiki/內田明理 "wikilink")，本作的理念為「」，並非「攻略完就結束」，而是成為情侶後日子會延續下去的構成\[3\]。
 
-2010年2月10日發售的遊戲雜誌《[Fami通](../Page/Fami通.md "wikilink")》上，揭示了《LOVEPLUS》續作《LOVEPLUS+》（****）開發計畫啟動的消息\[4\]。同一天，街機遊戲《》追加了《LOVEPLUS》3位女主角的迷你遊戲「」（愛的彈跳碰）\[5\]。製作人[內田明理在](../Page/內田明理.md "wikilink")《Fami通》訪談中表示「（在續作）不會更換角色」、「存檔資料能夠延續」等製作方向\[6\]\[7\]。
+2010年2月10日發售的遊戲雜誌《[Fami通](../Page/Fami通.md "wikilink")》上，揭示了《LOVEPLUS》續作《LOVEPLUS+》（****）開發計畫啟動的消息\[4\]。同一天，街機遊戲《》追加了《LOVEPLUS》3位女主角的迷你遊戲「」（愛的彈跳碰）\[5\]。製作人[內田明理在](https://zh.wikipedia.org/wiki/內田明理 "wikilink")《Fami通》訪談中表示「（在續作）不會更換角色」、「存檔資料能夠延續」等製作方向\[6\]\[7\]。
 
 ## 發行
 
@@ -54,26 +54,26 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 
 ## 迴響與演進
 
-2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](../Page/Mixi.md "wikilink")[關鍵字第一名](../Page/關鍵字.md "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](../Page/4Gamer.net.md "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](../Page/促銷活動.md "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌上的迴響效果更大](../Page/網誌.md "wikilink")。2009年9月4日，在[讀賣新聞社的問答網站](../Page/讀賣新聞社.md "wikilink")《發言小町》出現[家庭主婦提問](../Page/家庭主婦.md "wikilink")，因為[丈夫熱中於新發售的戀愛遊戲而煩惱](../Page/丈夫.md "wikilink")；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻關係](../Page/夫妻.md "wikilink")\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](../Page/TVBros..md "wikilink")》2009年10月3日號的封面\[16\]。
+2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](https://zh.wikipedia.org/wiki/Mixi "wikilink")[關鍵字第一名](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](https://zh.wikipedia.org/wiki/促銷活動 "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌上的迴響效果更大](../Page/網誌.md "wikilink")。2009年9月4日，在[讀賣新聞社的問答網站](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")《發言小町》出現[家庭主婦提問](../Page/家庭主婦.md "wikilink")，因為[丈夫熱中於新發售的戀愛遊戲而煩惱](../Page/丈夫.md "wikilink")；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻關係](../Page/夫妻.md "wikilink")\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](https://zh.wikipedia.org/wiki/TVBros. "wikilink")》2009年10月3日號的封面\[16\]。
 
-由於《LOVEPLUS》獨特的遊戲系統，發售前觀望的玩家居多；和同時期的《[美夢俱樂部](../Page/美夢俱樂部.md "wikilink")》（Dream
+由於《LOVEPLUS》獨特的遊戲系統，發售前觀望的玩家居多；和同時期的《[美夢俱樂部](https://zh.wikipedia.org/wiki/美夢俱樂部 "wikilink")》（Dream
 C
-Club）相較下，並未受到太大關心。然而《LOVEPLUS》發售後玩家的讚賞不斷，以及各家媒體報導，使得多家店鋪出現缺貨情況，造成網路拍賣價格一時飆漲。而科樂美在「[東京電玩展](../Page/東京電玩展.md "wikilink")2009」期間免費派發的促銷用情書，在日本[Yahoo\!拍賣以高價競標](../Page/Yahoo!拍賣.md "wikilink")，其中3人各3種的完整9張套組得標價更高達7萬5千日幣\[17\]。熱衷於《LOVEPLUS》的人，可能會出現「LOVEPLUS症候群」：經常對DS回話、縮短臉部和DS螢幕的距離、不自覺地在意時間、擔心DS主機沒電，甚者在公開場所和DS主機對話等等\[18\]。
+Club）相較下，並未受到太大關心。然而《LOVEPLUS》發售後玩家的讚賞不斷，以及各家媒體報導，使得多家店鋪出現缺貨情況，造成網路拍賣價格一時飆漲。而科樂美在「[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")2009」期間免費派發的促銷用情書，在日本[Yahoo\!拍賣以高價競標](../Page/Yahoo!拍賣.md "wikilink")，其中3人各3種的完整9張套組得標價更高達7萬5千日幣\[17\]。熱衷於《LOVEPLUS》的人，可能會出現「LOVEPLUS症候群」：經常對DS回話、縮短臉部和DS螢幕的距離、不自覺地在意時間、擔心DS主機沒電，甚者在公開場所和DS主機對話等等\[18\]。
 
 2010年1月9日，《LOVEPLUS》獲得大獎\[19\]。截至2010年2月10日，遊戲共在日本售出21萬套\[20\]。2010年4月5日，《LOVEPLUS》在[App
-Store增加](../Page/App_Store.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")/[iPod
-touch用的](../Page/iPod_touch.md "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")（APP）『LOVEPLUS
+Store增加](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")/[iPod
+touch用的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")（APP）『LOVEPLUS
 i』（****），功能包括觸碰畫面會回應現在時間或講話的「通信功能」、拍攝下專用的AR
 marker後將可在畫面中的現實景色裡呈現女主角身影之「[AR拍攝功能](../Page/擴增實境.md "wikilink")」、記載行程的「月曆功能」，並將以升級的方式增加新功能\[21\]。
 
-2010年7月，《LOVEPLUS+》上市，新增了與遊戲角色到[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市旅行並投宿](../Page/熱海市.md "wikilink")[溫泉旅館的片段](../Page/溫泉旅館.md "wikilink")；有遊戲玩家因此親自前往熱海市[聖地巡禮](../Page/聖地巡禮.md "wikilink")，並住進遊戲中出現的溫泉旅館「大野屋」\[22\]。
+2010年7月，《LOVEPLUS+》上市，新增了與遊戲角色到[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市旅行並投宿](../Page/熱海市.md "wikilink")[溫泉旅館的片段](https://zh.wikipedia.org/wiki/溫泉旅館 "wikilink")；有遊戲玩家因此親自前往熱海市[聖地巡禮](https://zh.wikipedia.org/wiki/聖地巡禮 "wikilink")，並住進遊戲中出現的溫泉旅館「大野屋」\[22\]。
 
 ## 其他媒體
 
 ### 音樂CD
 
   - （永遠日記）
-    2009年9月2日發售。遊戲主題曲的單曲。由三位聲優演唱，歌曲標題和作品舞台[互文](../Page/互文性.md "wikilink")。
+    2009年9月2日發售。遊戲主題曲的單曲。由三位聲優演唱，歌曲標題和作品舞台[互文](https://zh.wikipedia.org/wiki/互文性 "wikilink")。
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@ marker後將可在畫面中的現實景色裡呈現女主角身影之「[AR拍�
 <!-- end list -->
 
   -
-    劇本：[山口宏](../Page/山口宏.md "wikilink")
+    劇本：[山口宏](https://zh.wikipedia.org/wiki/山口宏 "wikilink")
 
 <!-- end list -->
 
@@ -123,33 +123,35 @@ marker後將可在畫面中的現實景色裡呈現女主角身影之「[AR拍�
 
 ### 漫畫
 
-2010年起陸續在[講談社的漫畫雜誌上開始連載](../Page/講談社.md "wikilink")。
+2010年起陸續在[講談社的漫畫雜誌上開始連載](https://zh.wikipedia.org/wiki/講談社 "wikilink")。
 
   -
-    自《[月刊少年Rival](../Page/月刊少年Rival.md "wikilink")》2010年5月號開始連載。作者為[現津みかみ](../Page/現津みかみ.md "wikilink")。
+    自《[月刊少年Rival](https://zh.wikipedia.org/wiki/月刊少年Rival "wikilink")》2010年5月號開始連載。作者為[現津みかみ](https://zh.wikipedia.org/wiki/現津みかみ "wikilink")。
   -
-    自《[別冊少年Magazine](../Page/別冊少年Magazine.md "wikilink")》2010年5月號開始連載。作者為[瀨尾公治](../Page/瀨尾公治.md "wikilink")。
+    自《[別冊少年Magazine](https://zh.wikipedia.org/wiki/別冊少年Magazine "wikilink")》2010年5月號開始連載。作者為[瀨尾公治](../Page/瀨尾公治.md "wikilink")。
   -
     自《[月刊Young
-    Magazine](../Page/月刊Young_Magazine.md "wikilink")》2010年5月號開始連載。作者為[九月タカアキ](../Page/九月タカアキ.md "wikilink")。
+    Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》2010年5月號開始連載。作者為[九月タカアキ](https://zh.wikipedia.org/wiki/九月タカアキ "wikilink")。
   -
-    自《[Magazine E-no](../Page/Magazine_E-no.md "wikilink")》07
-    開始連載。作者為[櫻太助](../Page/櫻太助.md "wikilink")。
+    自《[Magazine
+    E-no](https://zh.wikipedia.org/wiki/Magazine_E-no "wikilink")》07
+    開始連載。作者為[櫻太助](https://zh.wikipedia.org/wiki/櫻太助 "wikilink")。
   -
-    自《[good\!AFTERNOON](../Page/good!AFTERNOON.md "wikilink")》\#10
-    開始連載。作者為[若宮弘明](../Page/若宮弘明.md "wikilink")。
+    自《[good\!AFTERNOON](https://zh.wikipedia.org/wiki/good!AFTERNOON "wikilink")》\#10
+    開始連載。作者為[若宮弘明](https://zh.wikipedia.org/wiki/若宮弘明 "wikilink")。
 
 ### 廣播劇
 
 在丹下櫻主持的廣播節目《[丹下櫻的RADIO A La
-Mode](../Page/丹下櫻的RADIO_A_La_Mode.md "wikilink")》中播放「」（LOVEPLUS
+Mode](https://zh.wikipedia.org/wiki/丹下櫻的RADIO_A_La_Mode "wikilink")》中播放「」（LOVEPLUS
 Drama）。自2010年5月16日起每週1次，預定依序播送高嶺愛花篇、小早川凜子篇、姉崎寧寧篇各4回。並預定各篇將加上新錄廣播劇後製作成CD。
 
 ## 腳註
 
 ## 相关條目
 
-  - [New LovePlus](../Page/NEW_LOVEPLUS.md "wikilink")
+  - [New
+    LovePlus](https://zh.wikipedia.org/wiki/NEW_LOVEPLUS "wikilink")
 
 ## 參考資料
 

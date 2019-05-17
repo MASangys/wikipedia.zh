@@ -1,6 +1,6 @@
 **Internet Explorer for
-UNIX**是一款[專有的](../Page/專有軟體.md "wikilink")[圖形使用者介面](../Page/圖形使用者介面.md "wikilink")[網頁瀏覽器](../Page/網頁瀏覽器.md "wikilink")，是[微軟公司專門為](../Page/微軟公司.md "wikilink")[X
-Windows的](../Page/X_Windows.md "wikilink")[Solaris和](../Page/Solaris.md "wikilink")[HP-UX而開發的](../Page/HP-UX.md "wikilink")。微軟在2001年的[Internet
+UNIX**是一款[專有的](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是[微軟公司專門為](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[X
+Windows的](https://zh.wikipedia.org/wiki/X_Windows "wikilink")[Solaris和](../Page/Solaris.md "wikilink")[HP-UX而開發的](../Page/HP-UX.md "wikilink")。微軟在2001年的[Internet
 Explorer 5一個版本後停止對Internet](../Page/Internet_Explorer_5.md "wikilink")
 Explorer for UNIX的開發，隨後於2002年結束對Internet Explorer for UNIX的支持\[1\]。
 
@@ -28,8 +28,8 @@ Explorer for UNIX的開發，隨後於2002年結束對Internet Explorer for UNIX
 
 ## 參見
 
-  - [網頁瀏覽器列表](../Page/網頁瀏覽器列表.md "wikilink")
-  - [網頁瀏覽器比較](../Page/網頁瀏覽器比較.md "wikilink")
+  - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
+  - [網頁瀏覽器比較](https://zh.wikipedia.org/wiki/網頁瀏覽器比較 "wikilink")
 
 ## 外部連結
 
@@ -51,4 +51,4 @@ Explorer for UNIX的開發，隨後於2002年結束對Internet Explorer for UNIX
 3.  [Internet Explorer for UNIX Home
     Page](https://web.archive.org/web/20020802053023/http://www.microsoft.com/unix/ie/default.asp)
     - old version of webpage ("Last Updated: 2001-10-29") from [Internet
-    Archive](../Page/Internet_Archive.md "wikilink")
+    Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")

@@ -1,26 +1,26 @@
 **MCEM
-2**（，意為：「實驗型卡賓槍2型」）是一款采用[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈的](../Page/子彈.md "wikilink")[英国製製試驗型](../Page/英国.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。
+2**（，意為：「實驗型卡賓槍2型」）是一款采用[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈的](../Page/子彈.md "wikilink")[英国製製試驗型](https://zh.wikipedia.org/wiki/英国 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。
 
 ## 設計及歷史
 
 MCEM
-2衝鋒槍只是製作了其原型槍以後就沒有生產。但值得一提的是一個事實：它是第一枝使用了[包絡式槍機](../Page/包絡式槍機.md "wikilink")（）的衝鋒槍，把[槍管的大部份包裹槍機內部](../Page/槍管.md "wikilink")，並且把[彈匣裝上的位置改為在](../Page/彈匣.md "wikilink")內部以縮短總長度和平衡其重量分佈。不過後來前[捷克斯洛伐克製](../Page/捷克斯洛伐克.md "wikilink")[CZ
+2衝鋒槍只是製作了其原型槍以後就沒有生產。但值得一提的是一個事實：它是第一枝使用了[包絡式槍機](../Page/包絡式槍機.md "wikilink")（）的衝鋒槍，把[槍管的大部份包裹槍機內部](../Page/槍管.md "wikilink")，並且把[彈匣裝上的位置改為在](../Page/彈匣.md "wikilink")內部以縮短總長度和平衡其重量分佈。不過後來前[捷克斯洛伐克製](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")[CZ
 23至CZ
 26衝鋒槍彷製了這種設計](../Page/CZ_25冲锋枪.md "wikilink")，並使日後的[UZI](../Page/烏茲衝鋒槍.md "wikilink")、[MAC-10](../Page/MAC-10衝鋒槍.md "wikilink")、[Steyr
 MPi
 69等大量類似的](../Page/斯泰爾MPi_69衝鋒槍.md "wikilink")[冲锋枪都使用這設計](../Page/冲锋枪.md "wikilink")。
 
 MCEM
-2是實驗型衝鋒槍系列的第二個原型設計，在[英國](../Page/英國.md "wikilink")1944年設計。有人認為它可能作為一種取代[斯登衝鋒槍後服役的新型槍](../Page/斯登衝鋒槍.md "wikilink")。MCEM
+2是實驗型衝鋒槍系列的第二個原型設計，在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")1944年設計。有人認為它可能作為一種取代[斯登衝鋒槍後服役的新型槍](../Page/斯登衝鋒槍.md "wikilink")。MCEM
 2是由一名波蘭移民，被稱為Podsenkowski的人設計。有人認為，MCEM
 2的原型在[二戰結束前推出](../Page/第二次世界大战.md "wikilink")，及其衍生型MCEM
 4和MCEM
-6戰後不久進行了測試。後者的主要修改是在於不同但是利用不同方式降低其發射速率，包括[扳機組件](../Page/扳機.md "wikilink")，令其射速由原來的1,000
+6戰後不久進行了測試。後者的主要修改是在於不同但是利用不同方式降低其發射速率，包括[扳機組件](https://zh.wikipedia.org/wiki/扳機 "wikilink")，令其射速由原來的1,000
 發／分鐘下降到更切合實際需要的700
-發／分鐘（衝鋒槍的高射速會降低其穩定性及浪費子彈），以及減少[全自動射擊時所產生的震動](../Page/自動火器.md "wikilink")。然而，就算原型槍已經適合通過[英國軍隊需要便宜而高可靠性裝備的要求](../Page/英國軍隊.md "wikilink")，數年後的英國軍隊採取了一種更傳統的衝鋒槍，[蘭切斯特衝鋒槍](../Page/蘭切斯特衝鋒槍.md "wikilink")。原因是全自動射擊時所產生的震動這個致命的缺陷始終沒有解決。
+發／分鐘（衝鋒槍的高射速會降低其穩定性及浪費子彈），以及減少[全自動射擊時所產生的震動](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。然而，就算原型槍已經適合通過[英國軍隊需要便宜而高可靠性裝備的要求](../Page/英國軍隊.md "wikilink")，數年後的英國軍隊採取了一種更傳統的衝鋒槍，[蘭切斯特衝鋒槍](../Page/蘭切斯特衝鋒槍.md "wikilink")。原因是全自動射擊時所產生的震動這個致命的缺陷始終沒有解決。
 
 MCEM
-2採用[反沖作用操作](../Page/反沖作用_\(槍械\).md "wikilink")，可利用[快慢機選擇](../Page/擊發調變模式.md "wikilink")[開放式槍機的射擊模式的武器](../Page/開放式槍機.md "wikilink")。由於槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因此[槍管的大部份會包裹在槍機內部](../Page/槍管.md "wikilink")。[機匣是由](../Page/機匣.md "wikilink")[钢管製成](../Page/钢.md "wikilink")，及[扳機組件亦裝在機匣以下](../Page/扳機.md "wikilink")。[彈匣亦在插入手槍握把內部](../Page/彈匣.md "wikilink")。安全和射擊模式選擇組件都裝入一個可指向三個方向的快慢機，而快慢機則位於扳機組件前方左側的位置，[大拇指可前後推拉動式操作](../Page/拇指.md "wikilink")。全槍的材料是大型半剛性型[皮套](../Page/皮套.md "wikilink")。在機匣組件的後方，亦可裝上一個方便肩射的[槍托](../Page/槍托.md "wikilink")。
+2採用[反沖作用操作](../Page/反沖作用_\(槍械\).md "wikilink")，可利用[快慢機選擇](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[開放式槍機的射擊模式的武器](../Page/開放式槍機.md "wikilink")。由於槍機是[包絡式設計](../Page/包絡式槍機.md "wikilink")，因此[槍管的大部份會包裹在槍機內部](../Page/槍管.md "wikilink")。[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢管製成](../Page/钢.md "wikilink")，及[扳機組件亦裝在機匣以下](https://zh.wikipedia.org/wiki/扳機 "wikilink")。[彈匣亦在插入手槍握把內部](../Page/彈匣.md "wikilink")。安全和射擊模式選擇組件都裝入一個可指向三個方向的快慢機，而快慢機則位於扳機組件前方左側的位置，[大拇指可前後推拉動式操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")。全槍的材料是大型半剛性型[皮套](https://zh.wikipedia.org/wiki/皮套 "wikilink")。在機匣組件的後方，亦可裝上一個方便肩射的[槍托](../Page/槍托.md "wikilink")。
 
 ## 參見
 

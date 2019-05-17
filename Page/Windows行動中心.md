@@ -1,18 +1,19 @@
-**Windows 行動中心**是[微軟所開發](../Page/微軟.md "wikilink")，在[Windows
+**Windows
+行動中心**是[微軟所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，在[Windows
 Vista中是管理行動電腦的工具](../Page/Windows_Vista.md "wikilink")，但是在[Windows
-7中是個相似](../Page/Windows_7.md "wikilink")[Windows
-資訊安全中心的工具](../Page/Windows_資訊安全中心.md "wikilink")。
+7中是個相似](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows
+資訊安全中心的工具](https://zh.wikipedia.org/wiki/Windows_資訊安全中心 "wikilink")。
 
 ## 概觀
 
 Windows Vista中的Windows
-行動中心的[使用者介面提供了類似磁磚形狀的方格](../Page/使用者介面.md "wikilink")，每個方格中都是一個獨立的選項，且這些選項有些可能就是代表其中一個Windows元件。至於會顯示出幾個方格，會依照系統而定。[Windows
+行動中心的[使用者介面提供了類似磁磚形狀的方格](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，每個方格中都是一個獨立的選項，且這些選項有些可能就是代表其中一個Windows元件。至於會顯示出幾個方格，會依照系統而定。[Windows
 Vista可能會出現的八個方格如下](../Page/Windows_Vista.md "wikilink")：
 
   - 螢幕亮度調整
   - 音量調整／靜音
   - 電池狀態
-  - [無線網路狀態](../Page/無線網路.md "wikilink")
+  - [無線網路狀態](https://zh.wikipedia.org/wiki/無線網路 "wikilink")
   - 螢幕方向（橫式或直式）
   - 外部顯示器
   - 同步中心
@@ -28,9 +29,10 @@ Windows行動中心僅存在於Windows Vista的家用入門版、家用進階版
 ## 參見
 
   - [Windows Vista](../Page/Windows_Vista.md "wikilink")
-  - [Windows 7](../Page/Windows_7.md "wikilink")
-  - [Windows 資訊安全中心](../Page/Windows_資訊安全中心.md "wikilink")
-  - [個人電腦](../Page/個人電腦.md "wikilink")
+  - [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
+  - [Windows
+    資訊安全中心](https://zh.wikipedia.org/wiki/Windows_資訊安全中心 "wikilink")
+  - [個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")
 
 ## 外部連結
 

@@ -1,4 +1,4 @@
-**本多RuRu**，[日本华裔](../Page/日本华裔.md "wikilink")[女歌手](../Page/女歌手.md "wikilink")，活躍於日本及華語流行樂壇。出生於[中國](../Page/中華人民共和國.md "wikilink")[遼寧省](../Page/遼寧省.md "wikilink")[瀋陽市](../Page/瀋陽市.md "wikilink")，曾為[日本女子組合](../Page/日本.md "wikilink")[太陽與月亮的成員之一](../Page/太陽與月亮.md "wikilink")。
+**本多RuRu**，[日本华裔](https://zh.wikipedia.org/wiki/日本华裔 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，活躍於日本及華語流行樂壇。出生於[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[遼寧省](https://zh.wikipedia.org/wiki/遼寧省 "wikilink")[瀋陽市](https://zh.wikipedia.org/wiki/瀋陽市 "wikilink")，曾為[日本女子組合](../Page/日本.md "wikilink")[太陽與月亮的成員之一](../Page/太陽與月亮.md "wikilink")。
 
 ## 出道過程
 
@@ -12,15 +12,15 @@
 
 1996年6月，RuRu與日本創作男歌手[宇崎龍童合作在東京](../Page/宇崎龍童.md "wikilink")23個區舉行音樂會並同台演出。
 
-1997年，與日本男歌手西城秀樹合作在北京萬里長城、深圳體育館、廣州天河體育館、珠海舉行大型演唱會。同年8月，擔任日本[NHK電視台的亞洲音樂節目](../Page/NHK電視台.md "wikilink")《深夜的王國》的日語VJ。
+1997年，與日本男歌手西城秀樹合作在北京萬里長城、深圳體育館、廣州天河體育館、珠海舉行大型演唱會。同年8月，擔任日本[NHK電視台的亞洲音樂節目](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")《深夜的王國》的日語VJ。
 
 ### 1998-2000
 
-1998年，RuRu參加由日本《[五花八門淺草橋](../Page/五花八門淺草橋.md "wikilink")》節目推出新人選秀特別企劃單元，希望藉此單元的訓練，培養出一個表演團體，並定下嚴苛的目標:
+1998年，RuRu參加由日本《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》節目推出新人選秀特別企劃單元，希望藉此單元的訓練，培養出一個表演團體，並定下嚴苛的目標:
 1.
-特訓後發行單曲CD，必須到達日本ORICON排行榜前六位2.連續四個月各出一張單曲。而她便在經紀人的鼓勵下，寄出了自己的DEMO帶，面試以一首[惠妮休斯頓高難度的](../Page/惠妮休斯頓.md "wikilink")《I'll
+特訓後發行單曲CD，必須到達日本ORICON排行榜前六位2.連續四個月各出一張單曲。而她便在經紀人的鼓勵下，寄出了自己的DEMO帶，面試以一首[惠妮休斯頓高難度的](https://zh.wikipedia.org/wiki/惠妮休斯頓 "wikilink")《I'll
 Always Love
-You》贏得該節目製作人的賞識，與[稻葉貴子](../Page/稻葉貴子.md "wikilink")、[信田美帆](../Page/信田美帆.md "wikilink")、[小湊美和等人正式成立團體](../Page/小湊美和.md "wikilink")[太陽與月亮](../Page/太陽與月亮.md "wikilink")。
+You》贏得該節目製作人的賞識，與[稻葉貴子](https://zh.wikipedia.org/wiki/稻葉貴子 "wikilink")、[信田美帆](https://zh.wikipedia.org/wiki/信田美帆 "wikilink")、[小湊美和等人正式成立團體](https://zh.wikipedia.org/wiki/小湊美和 "wikilink")[太陽與月亮](../Page/太陽與月亮.md "wikilink")。
 
 1999年4月，太陽與月亮終於推出了首張日文單曲《月亮太陽》，由淳君(射亂Q主唱)擔任唱片製作人。而且首張專輯《Taiyo &
 Ciscomoon
@@ -29,11 +29,11 @@ Ciscomoon
 2000年4月，太陽與月亮團名正式改名為[T\&C
 Bomber並推出第](../Page/太陽與月亮.md "wikilink")7張日文單曲《Don't
 Stop》。同年7月，推出第8張日文單曲《正午的海市蜃樓》及第二張專輯《2nd
-Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4位成員已經有足夠的實力可以各自發展，所以告知團體即將解散。其後《[五花八門淺草橋](../Page/五花八門淺草橋.md "wikilink")》在台灣播出，RuRu更在一次巧合之下碰上了[維京音樂總經理](../Page/維京音樂.md "wikilink")[姚謙](../Page/姚謙.md "wikilink")，並引領她轉往台灣發展，同年12月加盟[維京音樂](../Page/維京音樂.md "wikilink")。
+Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4位成員已經有足夠的實力可以各自發展，所以告知團體即將解散。其後《[五花八門淺草橋](https://zh.wikipedia.org/wiki/五花八門淺草橋 "wikilink")》在台灣播出，RuRu更在一次巧合之下碰上了[維京音樂總經理](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")[姚謙](https://zh.wikipedia.org/wiki/姚謙 "wikilink")，並引領她轉往台灣發展，同年12月加盟[維京音樂](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")。
 
 ### 2001-2007
 
-2001年3月，以個人身份推出首張國語專輯《美麗心情》，正式進軍華語歌壇，主打歌包括《美麗心情》、《愛上了》、《今天的祝福，明天的孤獨》、《一點點力量》。同年12月，與同屬[維京音樂及](../Page/維京音樂.md "wikilink")[科藝百代旗下歌手](../Page/科藝百代.md "wikilink")[侯湘婷](../Page/侯湘婷.md "wikilink")、[吳克群](../Page/吳克群.md "wikilink")、[B.A.D合作拍攝](../Page/B.A.D.md "wikilink")3集音樂偶像劇《陽光果凍》的演出。
+2001年3月，以個人身份推出首張國語專輯《美麗心情》，正式進軍華語歌壇，主打歌包括《美麗心情》、《愛上了》、《今天的祝福，明天的孤獨》、《一點點力量》。同年12月，與同屬[維京音樂及](https://zh.wikipedia.org/wiki/維京音樂 "wikilink")[科藝百代旗下歌手](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")[侯湘婷](../Page/侯湘婷.md "wikilink")、[吳克群](https://zh.wikipedia.org/wiki/吳克群 "wikilink")、[B.A.D合作拍攝](../Page/B.A.D.md "wikilink")3集音樂偶像劇《陽光果凍》的演出。
 
 2002年1月，推出第二張國語專輯《Single》，主打歌包括《有時候沒時候》、《單身女子俱樂部》、《冬季的愛情電影》、《神啊！請多給我一點力量》。同年6月，參與偶像劇《月光森林》的演出。
 
@@ -83,7 +83,8 @@ Stage》，之後製作人淳君召集她們開會，他認為太陽與月亮4�
   - 1996年《ドク》飾演 中国人学生
   - 2001年《陽光果凍》飾演 本多RuRu
   - 2002年《月光森林》飾演 Sixy
-  - 2004年《[戰神](../Page/戰神_\(電視劇\).md "wikilink")》飾演 響子
+  - 2004年《[戰神](https://zh.wikipedia.org/wiki/戰神_\(電視劇\) "wikilink")》飾演
+    響子
 
 ## MV
 

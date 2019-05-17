@@ -1,5 +1,5 @@
 **Google
-Voice**是由[Google推出的](../Page/Google公司.md "wikilink")[VOIP服务](../Page/VOIP.md "wikilink")，能够将个人所用的众多[电话号码集中成为一个号码](../Page/电话号码.md "wikilink")，同时提供许多[加值服务](../Page/增值服务.md "wikilink")，它在[美](../Page/美國.md "wikilink")[加地区提供的免费语音通话和短信服务](../Page/加拿大.md "wikilink")。该服务由Google于2009年3月11日收购GrandCentral后推出\[1\]，并且从2009年6月开始邀请一些志愿者参与实验。
+Voice**是由[Google推出的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[VOIP服务](https://zh.wikipedia.org/wiki/VOIP "wikilink")，能够将个人所用的众多[电话号码集中成为一个号码](https://zh.wikipedia.org/wiki/电话号码 "wikilink")，同时提供许多[加值服务](https://zh.wikipedia.org/wiki/增值服务 "wikilink")，它在[美](https://zh.wikipedia.org/wiki/美國 "wikilink")[加地区提供的免费语音通话和短信服务](../Page/加拿大.md "wikilink")。该服务由Google于2009年3月11日收购GrandCentral后推出\[1\]，并且从2009年6月开始邀请一些志愿者参与实验。
 
 ## 简介
 
@@ -25,11 +25,11 @@ Voice也能将用户的留言转成声音档案，发到用户的电子邮件信
 
 使用Google
 Voice服务可以免费拨打美国或加拿大境内的任何电话，而國際電話(非北美地區)的费用也比傳統電話便宜，比如拨打中国大陆的價格为1美分/分钟，香港的價格为2美分/分钟，台灣市話:2美分/分鐘、手機：8美分/分鐘\[3\]。由于Google
-Voice展现出强大的整合功能，所以许多科技分析家都认为，它将给传统电话公司如[AT\&T](../Page/AT&T.md "wikilink")、[Verizon威讯公司等带来冲击](../Page/Verizon.md "wikilink")，也会打击近几年发展的[VoIP网络电话](../Page/VoIP.md "wikilink")，比如
+Voice展现出强大的整合功能，所以许多科技分析家都认为，它将给传统电话公司如[AT\&T](../Page/AT&T.md "wikilink")、[Verizon威讯公司等带来冲击](https://zh.wikipedia.org/wiki/Verizon "wikilink")，也会打击近几年发展的[VoIP网络电话](../Page/VoIP.md "wikilink")，比如
 [Skype](../Page/Skype.md "wikilink")、[Vonage等](../Page/Vonage.md "wikilink")。
 
 Google
-Voice在绑定的时候需要提供美国本地（google博客中有人提及局部加拿大的区号也可以）的手机，座机或者[Gizmo5的号码](../Page/Gizmo5.md "wikilink")，而很多美国外用户可以使用Gizmo5提供的免费的虚拟号码转到Gtalk或者Skype上从而实现绑定。
+Voice在绑定的时候需要提供美国本地（google博客中有人提及局部加拿大的区号也可以）的手机，座机或者[Gizmo5的号码](https://zh.wikipedia.org/wiki/Gizmo5 "wikilink")，而很多美国外用户可以使用Gizmo5提供的免费的虚拟号码转到Gtalk或者Skype上从而实现绑定。
 
 2010年6月23日谷歌在公司官方博客上宣布，其电话管理应用软件Google
 Voice（谷歌电话）现在对所有美国人免费开放，不再要求用户受邀才能签约服务。
@@ -41,7 +41,7 @@ Voice在短期那还无法对这些公司造成影响，不过若Google持续扩
 
 克莱因说：“它（Google
 Voice）的确给在美国的传统手机电信商带来挑战，不过人们并不会因此就停止花大钱订购威讯、AT\&T、[Sprint
-Nextel](../Page/Sprint_Nextel.md "wikilink")，或[T-Mobile等公司的服务](../Page/T-Mobile.md "wikilink")，因为他们还是需要这些电话。那些网络电话，它们特别注重在国际电话服务上头，而Google
+Nextel](https://zh.wikipedia.org/wiki/Sprint_Nextel "wikilink")，或[T-Mobile等公司的服务](../Page/T-Mobile.md "wikilink")，因为他们还是需要这些电话。那些网络电话，它们特别注重在国际电话服务上头，而Google
 Voice的国际电话也是要收费的。不过如果你是个非常依赖Google的人，使用[Gmail](../Page/Gmail.md "wikilink")、使用Google
 Voice、使用[Google
 Talk等等](../Page/Google_Talk.md "wikilink")，这些服务将会直接冲击网络电话公司。”不过克莱因教授也说，Google

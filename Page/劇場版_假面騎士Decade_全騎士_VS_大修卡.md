@@ -5,14 +5,14 @@
 
 ### Decade世界
 
-**門矢 小夜** （[荒井 萌](../Page/荒井_萌.md "wikilink") 飾）
+**門矢 小夜** （[荒井 萌](https://zh.wikipedia.org/wiki/荒井_萌 "wikilink") 飾）
 
   -
     門矢 士的妹妹。持有Stone Of Earth，並利用Stone Of Earth把**Kuuga**改造成**Rising
     Ultimate Form**，使其失控並攻擊士。但最後小夜覺醒過來，毀滅了Stone Of
     Earth，於劇場版的最後，開始了屬於自己的旅程。
 
-**月影 信彥** （[大浦龍宇一](../Page/大浦龍宇一.md "wikilink") 飾）
+**月影 信彥** （[大浦龍宇一](https://zh.wikipedia.org/wiki/大浦龍宇一 "wikilink") 飾）
 
   -
     **Shadow Moon** 的變身者。門矢兄妹的管家，持有Stone Of Moon，曾驅逐門矢
@@ -27,24 +27,24 @@
 
 ## 大修卡的幹部
 
-**結城 丈二** （[Gackt](../Page/Gackt.md "wikilink") 飾）
+**結城 丈二** （[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink") 飾）
 
   -
     原是大修卡的科學家間諜與門矢士有段亦敵亦友的因緣。Decadriver及Diendriver的製造者。
     原作為Riderman的變身者，此處的結城丈二繼承了手臂改造與科學家的設定，但是否具備Riderman的身分則不得而知，只能得知，似乎如果只要他想要，就可以使用Riderman或者開發出類似甚至超越Riderman的力量。
 
-**地獄大使** （[大杉漣](../Page/大杉漣.md "wikilink") 飾）
+**地獄大使** （[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink") 飾）
 
   -
     大修卡的幹部之一，最後被**假面騎士一號**及**假面騎士二號**以Rider Double Kick擊倒。
 
-**死神博士** （[石橋蓮司](../Page/石橋蓮司.md "wikilink") 飾）
+**死神博士** （[石橋蓮司](https://zh.wikipedia.org/wiki/石橋蓮司 "wikilink") 飾）
 
   -
     大修卡的幹部之一。
     於第二劇場版中，亦擔任光 榮次郎的角色，其只是被**園咲 琉兵衛**強制殖入死神博士的地球記憶體。
 
-**傑克將軍** （[加藤清三](../Page/加藤清三.md "wikilink") 聲演）
+**傑克將軍** （[加藤清三](https://zh.wikipedia.org/wiki/加藤清三 "wikilink") 聲演）
 
   -
     大修卡的指揮官，最後被**Diend**擊倒。
@@ -58,14 +58,14 @@
 **黑戰鬥員**
 
   -
-    大修卡中龐大數目的軍隊，常擺出[希特拉式的敬禮手法](../Page/阿道夫·希特勒.md "wikilink")，口頭禪為「Yee」。於第二劇場版中，以人肉炸彈攻擊眾騎士。
+    大修卡中龐大數目的軍隊，常擺出[希特拉式的敬禮手法](https://zh.wikipedia.org/wiki/阿道夫·希特勒 "wikilink")，口頭禪為「Yee」。於第二劇場版中，以人肉炸彈攻擊眾騎士。
 
 **矢車 想** （[德山秀典](../Page/德山秀典.md "wikilink") 聲演）
 
   -
     **假面騎士Kick Hopper**的變身者。於第二劇場版中出現，但由於已投靠大修卡，所以被迫與**Punch Hopper**一戰。
 
-**淺倉 威** （[萩野崇](../Page/萩野崇.md "wikilink") 聲演）
+**淺倉 威** （[萩野崇](https://zh.wikipedia.org/wiki/萩野崇 "wikilink") 聲演）
 
   -
     **假面騎士Ohja**的變身者。於第二劇場版中出現，但由於已投靠大修卡，所以被迫與**Raia**及**Gai**一戰。
@@ -98,7 +98,7 @@
     作曲：Ryo
     填詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
     編曲：[中川幸太郎](../Page/中川幸太郎.md "wikilink")、Ryo
-    歌：[Gackt](../Page/Gackt.md "wikilink")
+    歌：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")
 
 ## 其他相關放映
 

@@ -1,5 +1,5 @@
 《**THE QUIZ
--{SHOW}-**》（），是由[日本電視台播放的](../Page/日本電視台.md "wikilink")[連續劇](../Page/日本電視劇.md "wikilink")，同時也是該劇中虛構猜謎節目的名稱。台灣的緯來日本台引進播出的是該劇的第二季，劇名為「電視審判-{秀}-」。香港的[有線電視奇妙台引進播出的是該劇的第一季](../Page/香港有線電視奇妙台/高清奇妙台.md "wikilink")，劇名為「一千萬零十二-{夜}-」。香港的[美亞電視劇集台引進播出的是該劇的第二季](../Page/美亞電視劇集台.md "wikilink")，劇名為「益-{智}-遊戲」。
+-{SHOW}-**》（），是由[日本電視台播放的](../Page/日本電視台.md "wikilink")[連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，同時也是該劇中虛構猜謎節目的名稱。台灣的緯來日本台引進播出的是該劇的第二季，劇名為「電視審判-{秀}-」。香港的[有線電視奇妙台引進播出的是該劇的第一季](https://zh.wikipedia.org/wiki/香港有線電視奇妙台/高清奇妙台 "wikilink")，劇名為「一千萬零十二-{夜}-」。香港的[美亞電視劇集台引進播出的是該劇的第二季](https://zh.wikipedia.org/wiki/美亞電視劇集台 "wikilink")，劇名為「益-{智}-遊戲」。
 
 ## 故事綱要
 
@@ -70,10 +70,10 @@ Chance」（後述）的挑戰權。
 ## 第一季
 
 由日本電視台於2008年7月5日至9月27日，每週六24:55 - 25:25（週日0:55 - 1:25），[Saturday TV
-Labor播放](../Page/Saturday_TV_Labor.md "wikilink")。2009年時「THE QUIZ
-SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
+Labor播放](https://zh.wikipedia.org/wiki/Saturday_TV_Labor "wikilink")。2009年時「THE
+QUIZ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
-在數位播放時採取[高清製作](../Page/高清製作.md "wikilink")。類比訊號播放時則是以將螢幕尺寸調成4:3形式播放。節目網站首頁的影片以4:3[黑邊播放](../Page/黑邊.md "wikilink")，雖然當時可以看到全篇，但已在2008年10月31日終止。
+在數位播放時採取[高清製作](https://zh.wikipedia.org/wiki/高清製作 "wikilink")。類比訊號播放時則是以將螢幕尺寸調成4:3形式播放。節目網站首頁的影片以4:3[黑邊播放](../Page/黑邊.md "wikilink")，雖然當時可以看到全篇，但已在2008年10月31日終止。
 
 ### 登場人物・演員
 
@@ -90,7 +90,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 山之邊健吾 - [戸次重幸](../Page/戸次重幸.md "wikilink")（）
+  - 山之邊健吾 - [戸次重幸](https://zh.wikipedia.org/wiki/戸次重幸 "wikilink")（）
 
 <!-- end list -->
 
@@ -100,7 +100,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 銀河電視台的嚮導 - [中村靖日](../Page/中村靖日.md "wikilink")
+  - 銀河電視台的嚮導 - [中村靖日](https://zh.wikipedia.org/wiki/中村靖日 "wikilink")
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 美雪 - [霧島麗香](../Page/霧島麗香.md "wikilink")
+  - 美雪 - [霧島麗香](https://zh.wikipedia.org/wiki/霧島麗香 "wikilink")
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 松坂 - [津村知與志](../Page/津村知與志.md "wikilink")
+  - 松坂 - [津村知與志](https://zh.wikipedia.org/wiki/津村知與志 "wikilink")
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 新田瞳 - [高橋真唯](../Page/高橋真唯.md "wikilink")（第2集）
+  - 新田瞳 - [高橋真唯](https://zh.wikipedia.org/wiki/高橋真唯 "wikilink")（第2集）
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 <!-- end list -->
 
   - 内田清美 -
-    [佐藤江梨子](../Page/佐藤江梨子.md "wikilink")（整形前：[伊藤麻實子](../Page/伊藤麻實子.md "wikilink")）（第5-6集）
+    [佐藤江梨子](../Page/佐藤江梨子.md "wikilink")（整形前：[伊藤麻實子](https://zh.wikipedia.org/wiki/伊藤麻實子 "wikilink")）（第5-6集）
 
 <!-- end list -->
 
@@ -183,7 +183,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 真中昇 - [岡田義徳](../Page/岡田義徳.md "wikilink")（第7-8集）
+  - 真中昇 - [岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")（第7-8集）
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
   -
     為了慶祝銀河電視台創社紀念舉行的The Quiz
-    Show現場直播特集之[前哨戰](../Page/前哨戰.md "wikilink")。田崎跟平常一樣介紹挑戰者時，山之邊突然出現在節目現場。山之邊表示今天的播放特別由自己擔任MC，發表今天的挑戰者為田崎；並且當做特別規則，告訴田崎這次出題只會有Dream
+    Show現場直播特集之[前哨戰](https://zh.wikipedia.org/wiki/前哨戰 "wikilink")。田崎跟平常一樣介紹挑戰者時，山之邊突然出現在節目現場。山之邊表示今天的播放特別由自己擔任MC，發表今天的挑戰者為田崎；並且當做特別規則，告訴田崎這次出題只會有Dream
     Chance一題。田崎想透過Dream
     Chance實現的夢想不是由田崎本人說出，反而是由山之邊指定；那個夢想是「取回田崎失去的記憶」。田崎2年前因為不明的理由失去了記憶，住院時受到山之邊拔擢，因而擔綱The
     Quiz Show的主持人，但最近急遽地恢復記憶。山之邊斷言，如果田崎能回答出這個問題，就一定能夠恢復記憶。這次Dream
@@ -240,7 +240,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 #### 其他登場角色
 
-  - 葛城誠 - [小椋毅](../Page/小椋毅.md "wikilink")（第1話）
+  - 葛城誠 - [小椋毅](https://zh.wikipedia.org/wiki/小椋毅 "wikilink")（第1話）
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 葛城麗子 - [内田慈](../Page/内田慈.md "wikilink")（第1話）
+  - 葛城麗子 - [内田慈](https://zh.wikipedia.org/wiki/内田慈 "wikilink")（第1話）
 
 <!-- end list -->
 
@@ -258,7 +258,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 前園遙 - [阿南敦子](../Page/阿南敦子.md "wikilink")（第2話）
+  - 前園遙 - [阿南敦子](https://zh.wikipedia.org/wiki/阿南敦子 "wikilink")（第2話）
 
 <!-- end list -->
 
@@ -276,7 +276,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - [GOR☆GEOUS](../Page/GOR☆GEOUS.md "wikilink")（第3話）
+  - [GOR☆GEOUS](https://zh.wikipedia.org/wiki/GOR☆GEOUS "wikilink")（第3話）
 
 <!-- end list -->
 
@@ -294,7 +294,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 製作人- [犬飼若博](../Page/犬飼若博.md "wikilink")（第4話）
+  - 製作人- [犬飼若博](https://zh.wikipedia.org/wiki/犬飼若博 "wikilink")（第4話）
 
 <!-- end list -->
 
@@ -303,7 +303,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 菊子 - [大島蓉子](../Page/大島蓉子.md "wikilink")（第5-6話）
+  - 菊子 - [大島蓉子](https://zh.wikipedia.org/wiki/大島蓉子 "wikilink")（第5-6話）
 
 <!-- end list -->
 
@@ -312,7 +312,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 清美的父親 - [渡邊哲](../Page/渡邊哲.md "wikilink")（第5-6話）
+  - 清美的父親 - [渡邊哲](https://zh.wikipedia.org/wiki/渡邊哲 "wikilink")（第5-6話）
 
 <!-- end list -->
 
@@ -330,7 +330,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 <!-- end list -->
 
-  - 牧村幸三 - [山田明郷](../Page/山田明郷.md "wikilink")（第9話）
+  - 牧村幸三 - [山田明郷](https://zh.wikipedia.org/wiki/山田明郷 "wikilink")（第9話）
 
 <!-- end list -->
 
@@ -339,7 +339,7 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 ### 其他
 
-除了田崎的挑戰者們，分別象徵了[基督教的](../Page/基督教.md "wikilink")[七宗罪](../Page/七宗罪.md "wikilink")（詳細解說收錄在DVD的幕後花絮中）。
+除了田崎的挑戰者們，分別象徵了[基督教的](../Page/基督教.md "wikilink")[七宗罪](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")（詳細解說收錄在DVD的幕後花絮中）。
 
   - Episode 1 傲慢 - 村瀬龍一郎
   - Episode 2 暴食 - 新田瞳
@@ -351,28 +351,30 @@ SHOW」官方網站上將第1季加上《2008 ORIGIN》做介紹。
 
 ### 工作人員
 
-  - 企劃・原案：[森谷雄](../Page/森谷雄.md "wikilink")（[Atmovie](../Page/Atmovie.md "wikilink")）
-  - 音樂：[NARASAKI](../Page/NARASAKI.md "wikilink")
-  - 導演：[及川拓郎](../Page/及川拓郎.md "wikilink")、[高橋秀明](../Page/高橋秀明.md "wikilink")
-  - 劇本：及川拓郎、[蓬莱龍太](../Page/蓬莱龍太.md "wikilink")、[戸次重幸](../Page/戸次重幸.md "wikilink")
-  - 製作人：[池田健司](../Page/池田健司.md "wikilink")、森谷雄
-  - 助理製作：[田澤直樹](../Page/田澤直樹.md "wikilink")
-  - 攝影：[佐藤雅浩](../Page/佐藤雅浩.md "wikilink")
-  - 燈光：[橫路和幸](../Page/橫路和幸.md "wikilink")
-  - 整體設計：[坪田幸之](../Page/坪田幸之.md "wikilink")
+  - 企劃・原案：[森谷雄](https://zh.wikipedia.org/wiki/森谷雄 "wikilink")（[Atmovie](https://zh.wikipedia.org/wiki/Atmovie "wikilink")）
+  - 音樂：[NARASAKI](https://zh.wikipedia.org/wiki/NARASAKI "wikilink")
+  - 導演：[及川拓郎](https://zh.wikipedia.org/wiki/及川拓郎 "wikilink")、[高橋秀明](https://zh.wikipedia.org/wiki/高橋秀明 "wikilink")
+  - 劇本：及川拓郎、[蓬莱龍太](https://zh.wikipedia.org/wiki/蓬莱龍太 "wikilink")、[戸次重幸](https://zh.wikipedia.org/wiki/戸次重幸 "wikilink")
+  - 製作人：[池田健司](https://zh.wikipedia.org/wiki/池田健司 "wikilink")、森谷雄
+  - 助理製作：[田澤直樹](https://zh.wikipedia.org/wiki/田澤直樹 "wikilink")
+  - 攝影：[佐藤雅浩](https://zh.wikipedia.org/wiki/佐藤雅浩 "wikilink")
+  - 燈光：[橫路和幸](https://zh.wikipedia.org/wiki/橫路和幸 "wikilink")
+  - 整體設計：[坪田幸之](https://zh.wikipedia.org/wiki/坪田幸之 "wikilink")
   - 問題設計：
-  - 標題、電腦動畫：[本田貴雄](../Page/本田貴雄.md "wikilink")
+  - 標題、電腦動畫：[本田貴雄](https://zh.wikipedia.org/wiki/本田貴雄 "wikilink")
   - 主題曲：[Pay money To my
-    Pain](../Page/Pay_money_To_my_Pain.md "wikilink") 「Paralyzed
-    ocean」（[Vap Inc.](../Page/Vap_Inc..md "wikilink")）
-  - 協力製作：[Atmovie Creative](../Page/Atmovie.md "wikilink")
+    Pain](https://zh.wikipedia.org/wiki/Pay_money_To_my_Pain "wikilink")
+    「Paralyzed ocean」（[Vap
+    Inc.](https://zh.wikipedia.org/wiki/Vap_Inc. "wikilink")）
+  - 協力製作：[Atmovie
+    Creative](https://zh.wikipedia.org/wiki/Atmovie "wikilink")
   - 製作著作：[D.N.Dream
-    Partners](../Page/D.N.Dream_Partners.md "wikilink")、VAP
+    Partners](https://zh.wikipedia.org/wiki/D.N.Dream_Partners "wikilink")、VAP
 
 ## 第二季
 
 2009年4月開始，以《-{THE}- QUIZ SHOW
-GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作.md "wikilink")，由[櫻井翔主演](../Page/櫻井翔.md "wikilink")。本季時間設定在第1季的2年後，每次的播出都是現場直播。登場人物全部都是新的，除了從第1季就出現的山之邊有登場以外，最後一集還有飾演MC田崎的片桐仁客串演出。
+GOLDEN》在星期六戲劇時間帶播出，[高清製作](https://zh.wikipedia.org/wiki/高清製作 "wikilink")，由[櫻井翔主演](../Page/櫻井翔.md "wikilink")。本季時間設定在第1季的2年後，每次的播出都是現場直播。登場人物全部都是新的，除了從第1季就出現的山之邊有登場以外，最後一集還有飾演MC田崎的片桐仁客串演出。
 
 2009年8月21日「-{THE}- QUIZ SHOW 2009 DVD-BOX」發售。
 
@@ -403,7 +405,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 高杉玲奈 - [松浦亞彌](../Page/松浦亞彌.md "wikilink")
+  - 高杉玲奈 - [松浦亞彌](https://zh.wikipedia.org/wiki/松浦亞彌 "wikilink")
 
 <!-- end list -->
 
@@ -413,7 +415,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 嚮導（依田真一） - [篠井英介](../Page/篠井英介.md "wikilink")
+  - 嚮導（依田真一） - [篠井英介](https://zh.wikipedia.org/wiki/篠井英介 "wikilink")
 
 <!-- end list -->
 
@@ -422,7 +424,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 米倉信三 - [田中哲司](../Page/田中哲司.md "wikilink")
+  - 米倉信三 - [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
 
 <!-- end list -->
 
@@ -441,7 +443,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 浦澤瞳 - [森脇英理子](../Page/森脇英理子.md "wikilink")
+  - 浦澤瞳 - [森脇英理子](https://zh.wikipedia.org/wiki/森脇英理子 "wikilink")
 
 <!-- end list -->
 
@@ -483,11 +485,11 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 <!-- end list -->
 
   -
-    出現在神山片段的記憶中的少女。4月1日出生。和神山、本間是在孤兒院一起長大的青梅竹馬。童年時被雙親遺棄，雖然在兒童養護設施（請參照）成長，但是卻有著開朗、天真爛漫的性格，讓人一點也感受不到她有著辛苦的境遇。擅長[韻律體操](../Page/韻律體操.md "wikilink")。在西奈湖小型飛機墜落意外中的唯一死者。發生在她身上的事、她的死因都會在這個故事的結尾完全揭露。
+    出現在神山片段的記憶中的少女。4月1日出生。和神山、本間是在孤兒院一起長大的青梅竹馬。童年時被雙親遺棄，雖然在兒童養護設施（請參照）成長，但是卻有著開朗、天真爛漫的性格，讓人一點也感受不到她有著辛苦的境遇。擅長[韻律體操](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。在西奈湖小型飛機墜落意外中的唯一死者。發生在她身上的事、她的死因都會在這個故事的結尾完全揭露。
 
 <!-- end list -->
 
-  - 山之邊健吾 - [戸次重幸](../Page/戸次重幸.md "wikilink")
+  - 山之邊健吾 - [戸次重幸](https://zh.wikipedia.org/wiki/戸次重幸 "wikilink")
 
 <!-- end list -->
 
@@ -497,7 +499,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 松坂源五郎 - [泉谷茂](../Page/泉谷茂.md "wikilink")
+  - 松坂源五郎 - [泉谷茂](https://zh.wikipedia.org/wiki/泉谷茂 "wikilink")
 
 <!-- end list -->
 
@@ -506,7 +508,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 田所治 - [榎木孝明](../Page/榎木孝明.md "wikilink")
+  - 田所治 - [榎木孝明](https://zh.wikipedia.org/wiki/榎木孝明 "wikilink")
 
 <!-- end list -->
 
@@ -527,13 +529,13 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 #### 挑戰者
 
-  - 安藤康介 - [哀川翔](../Page/哀川翔.md "wikilink")（第1集）
+  - 安藤康介 - [哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")（第1集）
 
 <!-- end list -->
 
   -
     音樂人；為連續發行「老子，initiative」等暢銷作品，人氣搖滾雙人組「顏色樂團」（簡稱顏樂）的主唱。但是轉向個人活動之後，除了「愛情毒藥」以外的歌曲完全賣不出去，過著懷才不遇的日子。許下「由銀河電視台主辦世界巡迴演唱會」的願望，挑戰Dream
-    Chance；第3題為止都很順利，但第4題時神山出了腳本上沒有的問題，使得安藤開始難以回答；並且問題也漸漸逼近顏樂過去的成員John被殺害的真相。順帶一提本人自稱是「[米克·賈格爾的轉世](../Page/米克·賈格爾.md "wikilink")」，不過米克·賈格爾尚未過世。第四題時使用奧義「心電感應」，Dream
+    Chance；第3題為止都很順利，但第4題時神山出了腳本上沒有的問題，使得安藤開始難以回答；並且問題也漸漸逼近顏樂過去的成員John被殺害的真相。順帶一提本人自稱是「[米克·賈格爾的轉世](https://zh.wikipedia.org/wiki/米克·賈格爾 "wikilink")」，不過米克·賈格爾尚未過世。第四題時使用奧義「心電感應」，Dream
     Chance時使用「召喚」。（召喚出安藤的經紀人）
     和神山的關係→在河邊彈唱「老子，initiative」時與神山相遇。
 
@@ -592,7 +594,8 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 桂木誠 - [堀内健](../Page/堀内健.md "wikilink")（搞笑團體「海王星」）（第6集）
+  - 桂木誠 -
+    [堀内健](https://zh.wikipedia.org/wiki/堀内健 "wikilink")（搞笑團體「海王星」）（第6集）
 
 <!-- end list -->
 
@@ -600,12 +603,12 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
     桂木大學畢業後雖曾當過[派遣社員](../Page/人力派遣.md "wikilink")，在2年前失業。之後和母親一起生活，沒有再就職的念頭，從母親那裡要生活費；成天看漫畫、打電動，偶爾出門看看花草是他的興趣。對Dream
     Chance沒有什麼興趣，在節目的事前問卷調查裡寫上「限度最高額獎金一億日圓」。桂木知道冴島和美野里的關係，在上節目前綁架了美野里。每回答完一個問題，就反向神山出題（問題的答案乍看沒什麼關係，但會成為綁架美野里場所的提示）。把自己策劃的綁架稱為「遊戲」，惹火了The
     Quiz
-    Show的工作人員。但自桂木的母親登場之後他的態度出現變化，在神山告知其母親患有[心絞痛之後](../Page/心絞痛.md "wikilink")，表情開始狼狽了起來。神山向桂木說完最後的話之後，本應加上「開玩笑的啦〜」來做結束，但並沒有這麼做。在第7提使用的奧義為「召喚」。（召喚出母親）
+    Show的工作人員。但自桂木的母親登場之後他的態度出現變化，在神山告知其母親患有[心絞痛之後](https://zh.wikipedia.org/wiki/心絞痛 "wikilink")，表情開始狼狽了起來。神山向桂木說完最後的話之後，本應加上「開玩笑的啦〜」來做結束，但並沒有這麼做。在第7提使用的奧義為「召喚」。（召喚出母親）
     和神山的關係→ 和祐天寺NOKKO相同，與神山二人共享咖哩。
 
 <!-- end list -->
 
-  - 柴田勇樹 - [杉本哲太](../Page/杉本哲太.md "wikilink")（第7集）
+  - 柴田勇樹 - [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")（第7集）
 
 <!-- end list -->
 
@@ -656,7 +659,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 #### 其他登場角色
 
-  - 駒澤 - [東根作壽英](../Page/東根作壽英.md "wikilink")（第1集）
+  - 駒澤 - [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink")（第1集）
 
 <!-- end list -->
 
@@ -665,7 +668,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 福山翼 - [池田成志](../Page/池田成志.md "wikilink")（第1集）
+  - 福山翼 - [池田成志](https://zh.wikipedia.org/wiki/池田成志 "wikilink")（第1集）
 
 <!-- end list -->
 
@@ -684,7 +687,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 川上大輔 - [神保悟志](../Page/神保悟志.md "wikilink")（第2集）
+  - 川上大輔 - [神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")（第2集）
 
 <!-- end list -->
 
@@ -693,7 +696,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 高島美樹 - [宮田早苗](../Page/宮田早苗.md "wikilink")（第2集）
+  - 高島美樹 - [宮田早苗](https://zh.wikipedia.org/wiki/宮田早苗 "wikilink")（第2集）
 
 <!-- end list -->
 
@@ -702,7 +705,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 高島沙世 - [森康子](../Page/森康子.md "wikilink")（第2集）
+  - 高島沙世 - [森康子](https://zh.wikipedia.org/wiki/森康子 "wikilink")（第2集）
 
 <!-- end list -->
 
@@ -711,7 +714,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 高橋一 - [金井勇太](../Page/金井勇太.md "wikilink")（第3集）
+  - 高橋一 - [金井勇太](https://zh.wikipedia.org/wiki/金井勇太 "wikilink")（第3集）
 
 <!-- end list -->
 
@@ -747,7 +750,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 小林保 - [品川徹](../Page/品川徹.md "wikilink")（第5集）
+  - 小林保 - [品川徹](https://zh.wikipedia.org/wiki/品川徹 "wikilink")（第5集）
 
 <!-- end list -->
 
@@ -756,7 +759,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 佐藤 - [須永慶](../Page/須永慶.md "wikilink")（第5集）
+  - 佐藤 - [須永慶](https://zh.wikipedia.org/wiki/須永慶 "wikilink")（第5集）
 
 <!-- end list -->
 
@@ -765,7 +768,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 神之手雅 - [松本寛也](../Page/松本寛也.md "wikilink")（第5集）
+  - 神之手雅 - [松本寛也](https://zh.wikipedia.org/wiki/松本寛也 "wikilink")（第5集）
 
 <!-- end list -->
 
@@ -774,12 +777,12 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 <!-- end list -->
 
-  - 桂木美佐子 - [立石凉子](../Page/立石凉子.md "wikilink")（第6集）
+  - 桂木美佐子 - [立石凉子](https://zh.wikipedia.org/wiki/立石凉子 "wikilink")（第6集）
 
 <!-- end list -->
 
   -
-    桂木誠的母親。在誠失去工作之後，開始持續1天勞動15個小時的生活，身體因此過度勞累，患有[狹心症](../Page/狹心症.md "wikilink")。
+    桂木誠的母親。在誠失去工作之後，開始持續1天勞動15個小時的生活，身體因此過度勞累，患有[狹心症](https://zh.wikipedia.org/wiki/狹心症 "wikilink")。
 
 <!-- end list -->
 
@@ -800,12 +803,12 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 ### 工作人員
 
-  - 劇本：[及川拓郎](../Page/及川拓郎.md "wikilink")
-  - 導演：[南雲聖一](../Page/南雲聖一.md "wikilink")、[佐久間紀佳](../Page/佐久間紀佳.md "wikilink")、[狩山俊輔](../Page/狩山俊輔.md "wikilink")
-  - 音樂：[NARASAKI](../Page/NARASAKI.md "wikilink")
-  - 製作人：[池田健司](../Page/池田健司.md "wikilink")
-    、[森谷雄](../Page/森谷雄.md "wikilink")
-  - 總製作人：[永野高廣](../Page/永野高廣.md "wikilink")
+  - 劇本：[及川拓郎](https://zh.wikipedia.org/wiki/及川拓郎 "wikilink")
+  - 導演：[南雲聖一](https://zh.wikipedia.org/wiki/南雲聖一 "wikilink")、[佐久間紀佳](https://zh.wikipedia.org/wiki/佐久間紀佳 "wikilink")、[狩山俊輔](https://zh.wikipedia.org/wiki/狩山俊輔 "wikilink")
+  - 音樂：[NARASAKI](https://zh.wikipedia.org/wiki/NARASAKI "wikilink")
+  - 製作人：[池田健司](https://zh.wikipedia.org/wiki/池田健司 "wikilink")
+    、[森谷雄](https://zh.wikipedia.org/wiki/森谷雄 "wikilink")
+  - 總製作人：[永野高廣](https://zh.wikipedia.org/wiki/永野高廣 "wikilink")
   - 演出：南雲聖一、佐久間紀佳、狩山俊輔
   - 撮影：長嶋秀文
   - 燈光：山本智浩
@@ -839,7 +842,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](../Page/高清製作
 
 ### 備考
 
-  - 主演的[櫻井翔為睽違](../Page/櫻井翔.md "wikilink")6年首次單獨主演該時段播出的連續劇（《，中譯熱血小教師》以來。）共演的松浦亞彌則是自《[愛情一本道](../Page/愛情一本.md "wikilink")》之後4年6個月以來，接演連續劇以及在星期六時段演出固定班底。
+  - 主演的[櫻井翔為睽違](../Page/櫻井翔.md "wikilink")6年首次單獨主演該時段播出的連續劇（《，中譯熱血小教師》以來。）共演的松浦亞彌則是自《[愛情一本道](https://zh.wikipedia.org/wiki/愛情一本 "wikilink")》之後4年6個月以來，接演連續劇以及在星期六時段演出固定班底。
   - 第1、2、3集分別在正式播放5天後，在日本電視台下午放送的「」時段（15:55 -
     16:53）重播（只有第1集播放重新編輯的版本）。（註：「」為日本電視台一個專門重播各個節目時段的名稱。）
   - 第一集中「老子，initiative」的歌詞字幕「CHIBU」（tive的日文唸法）打成了「CIHBU」；在原聲帶的歌詞本上面的部份也是前面寫為“CHIBU”，後面為“CIHBU”。

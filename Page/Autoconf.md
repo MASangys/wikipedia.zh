@@ -1,11 +1,11 @@
 [Autoconf-automake-process.svg](https://zh.wikipedia.org/wiki/File:Autoconf-automake-process.svg "fig:Autoconf-automake-process.svg")的工作流程图。请注意"configure.ac"在Autoconf早期版本中名为"configure.in"
 \]\] **GNU Autoconf**是一个在[Bourne
-shell下制作供编译](../Page/Bourne_shell.md "wikilink")、安装和打包软件的的工具\[1\]。Autoconf并不受程式语言限制，常用于[C](../Page/C语言.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Erlang和](../Page/Erlang.md "wikilink")[Objective-C](../Page/Objective-C.md "wikilink")。配置脚本控制了一个软件包在特定系统上的安装。在进行一系列测试后，配置脚本从模板中生成[makefile与](../Page/makefile.md "wikilink")[头文件进而调整软件包](../Page/头文件.md "wikilink")，使之适应某一种系统。Autoconf与[Automake](../Page/Automake.md "wikilink")、[Libtool等软件组成了](../Page/Libtool.md "wikilink")[GNU构建系统](../Page/GNU构建系统.md "wikilink")\[2\]。Autoconf由于1991年夏天编写用于支持他在[自由软件基金会的编程工作](../Page/自由软件基金会.md "wikilink")\[3\]。此后，Autoconf包含了多人编写的改进代码并成为了使用最广泛的自由编译配置软件。\[4\]\[5\]
+shell下制作供编译](../Page/Bourne_shell.md "wikilink")、安装和打包软件的的工具\[1\]。Autoconf并不受程式语言限制，常用于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Erlang和](../Page/Erlang.md "wikilink")[Objective-C](../Page/Objective-C.md "wikilink")。配置脚本控制了一个软件包在特定系统上的安装。在进行一系列测试后，配置脚本从模板中生成[makefile与](https://zh.wikipedia.org/wiki/makefile "wikilink")[头文件进而调整软件包](../Page/头文件.md "wikilink")，使之适应某一种系统。Autoconf与[Automake](../Page/Automake.md "wikilink")、[Libtool等软件组成了](../Page/Libtool.md "wikilink")[GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")\[2\]。Autoconf由于1991年夏天编写用于支持他在[自由软件基金会的编程工作](../Page/自由软件基金会.md "wikilink")\[3\]。此后，Autoconf包含了多人编写的改进代码并成为了使用最广泛的自由编译配置软件。\[4\]\[5\]
 
 ## 使用概要
 
 软件开发者通过使用[GNU
-m4语言在](../Page/GNU_m4.md "wikilink")*configure.ac*中写出限定配置脚本行为的列表。Autoconf将*configure.ac*中的命令转化为对应特定平台的配置脚本。Autoconf本身并不具备编译能力，它仅仅用于产生通常附带在软件包中的配置脚本。
+m4语言在](https://zh.wikipedia.org/wiki/GNU_m4 "wikilink")*configure.ac*中写出限定配置脚本行为的列表。Autoconf将*configure.ac*中的命令转化为对应特定平台的配置脚本。Autoconf本身并不具备编译能力，它仅仅用于产生通常附带在软件包中的配置脚本。
 
 ### configure.ac格式
 
@@ -36,17 +36,17 @@ The GNU Autoconf手册建议configure.ac file使用如下格式：
 ## 工作原理
 
 autoconf类似于perl使用的metaconfig包。先前[X
-window系统所使用的imake系统与autoconf是密切相关](../Page/X_window系统.md "wikilink")，但有不同的理念。
+window系统所使用的imake系统与autoconf是密切相关](https://zh.wikipedia.org/wiki/X_window系统 "wikilink")，但有不同的理念。
 
 autoconf通过检查特性而不是软件版本来确保可移植性。例如Sun OS
-4的原生[C编译器不支持ISO](../Page/C编译器.md "wikilink")
+4的原生[C编译器不支持ISO](https://zh.wikipedia.org/wiki/C编译器 "wikilink")
 C，但是用户或管理员可以自行安装支持ISO C的编译器。基于软件特性的检查方法可以发现仅检查软件版本的方法检测不到的支持ISO
 C的编译器。因此配置脚本可以在未知的或者较新的系统中得到合理的结果，同样允许管理员按照他们的系统来配置脚本。
 
 ## 批评
 
 autoconf是一个古老和成熟的产品，如果使用得当，可以使用一个非常简单的接口进行复杂的交叉编译。但是有一些批评指出autoconf使用了过时的技术，因而遗留了很多限制。autoconf无法为[Xcode与](../Page/Xcode.md "wikilink")[Visual
-Studio制作项目文件](../Page/Visual_Studio.md "wikilink")，其脚本通常大且复杂，因此增加了Debug的难度。Autoconf所使用的M4对于一些开发者来说是陌生的，因此他们需要专门学习\[6\]。一些开发者并不遵循配置脚本的一些习惯约定\[7\]。
+Studio制作项目文件](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")，其脚本通常大且复杂，因此增加了Debug的难度。Autoconf所使用的M4对于一些开发者来说是陌生的，因此他们需要专门学习\[6\]。一些开发者并不遵循配置脚本的一些习惯约定\[7\]。
 
 因此一些自由软件开发者开始使用其他软件代替autoconf，[KDE于KDE](../Page/KDE.md "wikilink")
 4起开始使用[CMake](../Page/CMake.md "wikilink")\[8\]，[Scribus同样开始使用CMake](../Page/Scribus.md "wikilink")\[9\]。
@@ -54,9 +54,9 @@ Studio制作项目文件](../Page/Visual_Studio.md "wikilink")，其脚本通常
 ## 参见
 
   - [CMake](../Page/CMake.md "wikilink")
-  - [配置脚本](../Page/配置脚本.md "wikilink")
-  - [GNU构建系统](../Page/GNU构建系统.md "wikilink")
-  - [pkg-config](../Page/pkg-config.md "wikilink")
+  - [配置脚本](https://zh.wikipedia.org/wiki/配置脚本 "wikilink")
+  - [GNU构建系统](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")
+  - [pkg-config](https://zh.wikipedia.org/wiki/pkg-config "wikilink")
 
 ## 脚注
 
@@ -67,8 +67,9 @@ Studio制作项目文件](../Page/Visual_Studio.md "wikilink")，其脚本通常
     archive](http://www.gnu.org/software/ac-archive/)
   - [*The Goat Book* homepage (aka the
     Autobook)](http://sources.redhat.com/autobook/)
-  - Murray Cumming（of [gtkmm](../Page/gtkmm.md "wikilink") fame）produced
-    these succinct Autotool info
+  - Murray Cumming（of
+    [gtkmm](https://zh.wikipedia.org/wiki/gtkmm "wikilink")
+    fame）produced these succinct Autotool info
     pages:[\*one](https://web.archive.org/web/20060110134958/http://www.openismus.com/documents/linux/automake/automake.shtml)
     [\*two](https://archive.is/20130104065837/http://www.openismus.com/documents/linux/using_libraries/using_libraries.shtml).
   - [Autotoolset home page](http://autotoolset.sourceforge.net/)
@@ -91,7 +92,7 @@ Studio制作项目文件](../Page/Visual_Studio.md "wikilink")，其脚本通常
     Bergo
 
 [de:GNU Build System\#GNU
-Autoconf](../Page/de:GNU_Build_System#GNU_Autoconf.md "wikilink")
+Autoconf](https://zh.wikipedia.org/wiki/de:GNU_Build_System#GNU_Autoconf "wikilink")
 
 [Category:GNU计划软件](https://zh.wikipedia.org/wiki/Category:GNU计划软件 "wikilink")
 [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")

@@ -1,5 +1,5 @@
 **HTC Sense**
-是[智慧手机廠商](../Page/智慧手机.md "wikilink")[HTC所開發的一款针对](../Page/HTC.md "wikilink")[Android及](../Page/Android.md "wikilink")[Windows
+是[智慧手机廠商](https://zh.wikipedia.org/wiki/智慧手机 "wikilink")[HTC所開發的一款针对](https://zh.wikipedia.org/wiki/HTC "wikilink")[Android及](../Page/Android.md "wikilink")[Windows
 Mobile平台上的使用者界面](../Page/Windows_Mobile.md "wikilink")。2009年6月24日首次搭载于Android手機[HTC
 Hero中](../Page/HTC_Hero.md "wikilink")；2009年8月6日搭載于[Windows
 Mobile手機](../Page/Windows_Mobile.md "wikilink")[HTC
@@ -8,7 +8,7 @@ Phone平台所預設的使用者介面](../Page/Windows_Phone.md "wikilink")，�
 Phone平台的HTC Sense。
 
 HTC Sense前身为 [TouchFLO](../Page/TouchFLO.md "wikilink") 和 [TouchFLO
-3D](../Page/TouchFLO_3D.md "wikilink")\[1\]。與TouchFLO
+3D](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")\[1\]。與TouchFLO
 3D的特色分頁畫面不同，Android版的HTC
 Sense加入了原生介面沒有的大量桌面小工具和應用程式，同時設計全新的桌面(Launcher)、應用程式清單(App
 drawer)和螢幕解鎖畫面(lock screen)。
@@ -24,10 +24,11 @@ Twitter 等社交網路相連的功能。
 ### Espresso (2010)
 
 *Espresso* 是特別為 [T-Mobile](../Page/T-Mobile.md "wikilink")
-[myTouch](../Page/myTouch.md "wikilink") 系列手機設計的 Sense 介面開發代號。搭載於
-[T-Mobile myTouch 3G
-Slide](../Page/T-Mobile_myTouch_3G_Slide.md "wikilink") (HTC Espresso) 及
-[T-Mobile myTouch 4G](../Page/T-Mobile_myTouch_4G.md "wikilink") (HTC
+[myTouch](https://zh.wikipedia.org/wiki/myTouch "wikilink") 系列手機設計的
+Sense 介面開發代號。搭載於 [T-Mobile myTouch 3G
+Slide](https://zh.wikipedia.org/wiki/T-Mobile_myTouch_3G_Slide "wikilink")
+(HTC Espresso) 及 [T-Mobile myTouch
+4G](https://zh.wikipedia.org/wiki/T-Mobile_myTouch_4G "wikilink") (HTC
 Glacier) 兩款手機。內建的小工具及程式和 Sense 無異，但操作介面及程式背景由綠色改為藍色。主畫面多了一個 "Pushed in"
 程式。
 
@@ -38,9 +39,10 @@ Desire](../Page/HTC_Desire.md "wikilink") 及 [HTC
 Legend](../Page/HTC_Legend.md "wikilink") 手機，[HTC
 Hero](../Page/HTC_Hero.md "wikilink") 及 [HTC
 Magic](../Page/HTC_Magic.md "wikilink") 也能透過升級取得。此版加入了 FriendStream
-社交網路程式及類似 Mac [OS X](../Page/OS_X.md "wikilink")
-[Exposé](../Page/Mission_Control_\(OS_X\).md "wikilink") 的主畫面全覽 (Leap)
-功能。
+社交網路程式及類似 Mac [OS
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")
+[Exposé](https://zh.wikipedia.org/wiki/Mission_Control_\(OS_X\) "wikilink")
+的主畫面全覽 (Leap) 功能。
 
 ### Sense 3.0 (2011)
 
@@ -54,7 +56,7 @@ Sensation](../Page/HTC_Sensation.md "wikilink") 手機。此版內建了 HTC Wat
 Sense 3.6 是特別為舊款 HTC 手機設計的 Android 4.0 (開發代號 Ice Cream Sandwich \[ICS\])
 操作介面。風格和 Sense 3.0 相似，但在主畫面下方加入了與 Android 4.0 類似的程式捷徑列。首款出現於 [HTC
 Sensation](../Page/HTC_Sensation.md "wikilink") 及 [HTC
-Vivid](../Page/HTC_Vivid.md "wikilink")，可透過升級取得。
+Vivid](https://zh.wikipedia.org/wiki/HTC_Vivid "wikilink")，可透過升級取得。
 
 ### Sense 4.0 (2012)
 
@@ -70,17 +72,19 @@ V](../Page/HTC_One_V.md "wikilink")。此版比舊版更輕巧快速，簡化了
 
 ### Sense 4+ (2012)
 
-2012 年 11月發佈，搭載於 [HTC One X+](../Page/HTC_One_X+.md "wikilink") 和 [HTC
-One S Special Edition](../Page/HTC_One_S_Special_Edition.md "wikilink")
-以及[HTC Butterfly手機](../Page/HTC_Butterfly.md "wikilink")， HTC One
-X，HTC One S也可透過升級取得，之後一些使用Sense4.0、4.1的手機可經由更新來升級
+2012 年 11月發佈，搭載於 [HTC One
+X+](https://zh.wikipedia.org/wiki/HTC_One_X+ "wikilink") 和 [HTC One S
+Special
+Edition](https://zh.wikipedia.org/wiki/HTC_One_S_Special_Edition "wikilink")
+以及[HTC Butterfly手機](../Page/HTC_Butterfly.md "wikilink")， HTC One X，HTC
+One S也可透過升級取得，之後一些使用Sense4.0、4.1的手機可經由更新來升級
 
 ### Sense 5 (2013)
 
 2013年 2月發佈，搭載於2013年最新旗艦機[The New HTC
-One](../Page/HTC_One_\(手機\).md "wikilink")、Butterfly S、Desire 600。
-HTC Butterfly、HTC One X、HTC One SV經由升級更新至Android4.2.2以及HTC Sense
-5，並獲得BlinkFeed首頁。
+One](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")、Butterfly
+S、Desire 600。 HTC Butterfly、HTC One X、HTC One SV經由升級更新至Android4.2.2以及HTC
+Sense 5，並獲得BlinkFeed首頁。
 
 ### Sense 5.5 (2013)
 
@@ -90,7 +94,7 @@ HTC Butterfly、HTC One X、HTC One SV經由升級更新至Android4.2.2以及HTC
 ### Sense 6 (2014)
 
 2014 年 3月發佈，搭載於[HTC One
-(M8)](../Page/HTC_One_\(M8\).md "wikilink")。BlinkFeed及Boomsound功能增強，新增簡易模式，重新加入主題，新增改變字型功能，新增
+(M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")。BlinkFeed及Boomsound功能增強，新增簡易模式，重新加入主題，新增改變字型功能，新增
 Motion Launch 手勢啟動功能，極致省電模式，使用雙鏡頭拍照達到refoucus以及3D效果相片等創新功能。
 
 ### Sense 7 (2015)
@@ -108,13 +112,13 @@ Freestyle自我風格桌面，取消桌面應用程式固定擺放位置的框�
 
 ### Sense 9 (2017)
 
-搭載於[HTC U11和](../Page/HTC_U11.md "wikilink")[HTC
-U11+](../Page/HTC_U11+.md "wikilink")。
+搭載於[HTC U11和](https://zh.wikipedia.org/wiki/HTC_U11 "wikilink")[HTC
+U11+](https://zh.wikipedia.org/wiki/HTC_U11+ "wikilink")。
 
 ## 參見
 
   - [TouchFLO](../Page/TouchFLO.md "wikilink")
-  - [TouchFLO 3D](../Page/TouchFLO_3D.md "wikilink")
+  - [TouchFLO 3D](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")
 
 ## 資料來源
 

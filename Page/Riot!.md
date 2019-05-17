@@ -1,36 +1,41 @@
 ***Riot\!***
-是[美国](../Page/美国.md "wikilink")[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的第二张音乐专辑](../Page/帕拉莫尔.md "wikilink")，本专辑于2007年6月12日在美国发行。
+是[美国](../Page/美国.md "wikilink")[另类摇滚乐队](../Page/另类摇滚.md "wikilink")[帕拉莫尔发行的第二张音乐专辑](https://zh.wikipedia.org/wiki/帕拉莫尔 "wikilink")，本专辑于2007年6月12日在美国发行。
 
 ## 曲目列表
 
 ## 排行榜成绩
 
-| 排行榜 (2007)                                                                                                   | 最高排名 |
-| :----------------------------------------------------------------------------------------------------------- | :--: |
-| U.S. [*Billboard* 200](../Page/公告牌二百强专辑榜.md "wikilink")\[1\]                                                 |  15  |
-| U.S. *Billboard* Comprehensive Albums\[2\]                                                                   |  15  |
-| U.S. *Billboard* Top Rock Albums\[3\]                                                                        |  7   |
-| U.S. *Billboard* Top Internet Albums\[4\]                                                                    |  20  |
-| U.S. *Billboard* Top Modern Rock/Alternative Albums\[5\]                                                     |  2   |
-|                                                                                                              |      |
-| U.S. *Billboard* Top Digital Albums\[6\]                                                                     |  10  |
-| European Top 100 Albums\[7\]                                                                                 |  76  |
-| [UK Albums Chart](../Page/UK_Albums_Chart.md "wikilink")\[8\]                                                |  24  |
-| [UK Rock Chart](../Page/UK_Rock_Chart.md "wikilink")\[9\]                                                    |  2   |
-| [Mexican](../Page/Asociación_Mexicana_de_Productores_de_Fonogramas_y_Videogramas.md "wikilink") Albums Chart |  31  |
-| [Australian ARIA Albums Chart](../Page/ARIA_Charts.md "wikilink")\[10\]                                      |  47  |
-| [New Zealand RIANZ Albums Chart](../Page/Recording_Industry_Association_of_New_Zealand.md "wikilink")\[11\]  |  15  |
-| Finnish Albums Chart\[12\]                                                                                   |  26  |
-| Dutch Albums Chart\[13\]                                                                                     |  61  |
-| Austrian Albums Chart\[14\]                                                                                  |  66  |
-| [Irish Albums Chart](../Page/Irish_Albums_Chart.md "wikilink")\[15\]                                         |  53  |
+| 排行榜 (2007)                                                                                                                      | 最高排名 |
+| :------------------------------------------------------------------------------------------------------------------------------ | :--: |
+| U.S. [*Billboard* 200](../Page/公告牌二百强专辑榜.md "wikilink")\[1\]                                                                    |  15  |
+| U.S. *Billboard* Comprehensive Albums\[2\]                                                                                      |  15  |
+| U.S. *Billboard* Top Rock Albums\[3\]                                                                                           |  7   |
+| U.S. *Billboard* Top Internet Albums\[4\]                                                                                       |  20  |
+| U.S. *Billboard* Top Modern Rock/Alternative Albums\[5\]                                                                        |  2   |
+|                                                                                                                                 |      |
+| U.S. *Billboard* Top Digital Albums\[6\]                                                                                        |  10  |
+| European Top 100 Albums\[7\]                                                                                                    |  76  |
+| [UK Albums Chart](https://zh.wikipedia.org/wiki/UK_Albums_Chart "wikilink")\[8\]                                                |  24  |
+| [UK Rock Chart](https://zh.wikipedia.org/wiki/UK_Rock_Chart "wikilink")\[9\]                                                    |  2   |
+| [Mexican](https://zh.wikipedia.org/wiki/Asociación_Mexicana_de_Productores_de_Fonogramas_y_Videogramas "wikilink") Albums Chart |  31  |
+| [Australian ARIA Albums Chart](https://zh.wikipedia.org/wiki/ARIA_Charts "wikilink")\[10\]                                      |  47  |
+| [New Zealand RIANZ Albums Chart](https://zh.wikipedia.org/wiki/Recording_Industry_Association_of_New_Zealand "wikilink")\[11\]  |  15  |
+| Finnish Albums Chart\[12\]                                                                                                      |  26  |
+| Dutch Albums Chart\[13\]                                                                                                        |  61  |
+| Austrian Albums Chart\[14\]                                                                                                     |  66  |
+| [Irish Albums Chart](https://zh.wikipedia.org/wiki/Irish_Albums_Chart "wikilink")\[15\]                                         |  53  |
 
 ## 参与成员
 
-  - [Hayley Williams](../Page/Hayley_Williams.md "wikilink") – 主唱
-  - [Josh Farro](../Page/Josh_Farro.md "wikilink") – 主音吉他手, 伴唱
-  - [Jeremy Davis](../Page/Jeremy_Davis.md "wikilink") – 贝斯手
-  - [Zac Farro](../Page/Zac_Farro.md "wikilink") – 鼓手,打击乐器
+  - [Hayley
+    Williams](https://zh.wikipedia.org/wiki/Hayley_Williams "wikilink")
+    – 主唱
+  - [Josh Farro](https://zh.wikipedia.org/wiki/Josh_Farro "wikilink") –
+    主音吉他手, 伴唱
+  - [Jeremy
+    Davis](https://zh.wikipedia.org/wiki/Jeremy_Davis "wikilink") – 贝斯手
+  - [Zac Farro](https://zh.wikipedia.org/wiki/Zac_Farro "wikilink") –
+    鼓手,打击乐器
   - Jason Bynum – 节奏吉他手
 
 ## 参考资料

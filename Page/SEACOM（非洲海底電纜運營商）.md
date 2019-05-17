@@ -1,5 +1,5 @@
-**SEACOM**公司，負責建造海底[光纖電纜](../Page/光纖電纜.md "wikilink")，加以擁有，再行運營。
-SEACOM批發銷售國際容量，遍及[印度](../Page/印度.md "wikilink")、[歐洲](../Page/歐洲.md "wikilink")。受惠的通信運營商位於[南非洲和](../Page/南非洲.md "wikilink")[東非洲](../Page/東非洲.md "wikilink")。
+**SEACOM**公司，負責建造海底[光纖電纜](https://zh.wikipedia.org/wiki/光纖電纜 "wikilink")，加以擁有，再行運營。
+SEACOM批發銷售國際容量，遍及[印度](../Page/印度.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。受惠的通信運營商位於[南非洲和](https://zh.wikipedia.org/wiki/南非洲 "wikilink")[東非洲](https://zh.wikipedia.org/wiki/東非洲 "wikilink")。
 
 其頻寬量多價廉，以此行商。2009年7月之前，東非洲國家，依賴[衛星](../Page/衛星.md "wikilink")，網絡昂貴緩慢。2009年7月23日，非洲東南部光纜峻工，SEACOM寬頻首次供予東非洲國家，降低網絡成本，促進經濟發展。\[1\]
 \[2\]
@@ -21,7 +21,7 @@ Herlihy拥有10%。\[5\]
 
 [SEACOM_Network_Map.jpg](https://zh.wikipedia.org/wiki/File:SEACOM_Network_Map.jpg "fig:SEACOM_Network_Map.jpg")
 
-包含下列[电缆登陆点](../Page/电缆登陆点.md "wikilink")：
+包含下列[电缆登陆点](https://zh.wikipedia.org/wiki/电缆登陆点 "wikilink")：
 
   - [马赛](../Page/马赛.md "wikilink")
 
@@ -56,7 +56,7 @@ Herlihy拥有10%。\[5\]
 
   - （与边界）
 
-  - [貝特橋](../Page/貝特橋.md "wikilink")（与边界）
+  - [貝特橋](https://zh.wikipedia.org/wiki/貝特橋 "wikilink")（与边界）
 
   - [穆塔雷](../Page/穆塔雷.md "wikilink")（与边界）
 
@@ -66,13 +66,13 @@ Herlihy拥有10%。\[5\]
 
   - （与边界）
 
-  - [卡普里维地带](../Page/卡普里维地带.md "wikilink")（与边界）
+  - [卡普里维地带](https://zh.wikipedia.org/wiki/卡普里维地带 "wikilink")（与边界）
 
 SEACOM合作伙伴的电缆登陆点包括：
 
   - [伊泽芳登](../Page/伊泽芳登.md "wikilink")
 
-  - [斯瓦科普蒙德](../Page/斯瓦科普蒙德.md "wikilink")
+  - [斯瓦科普蒙德](https://zh.wikipedia.org/wiki/斯瓦科普蒙德 "wikilink")
 
   - [罗安达](../Page/罗安达.md "wikilink")
 

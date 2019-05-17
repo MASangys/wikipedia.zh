@@ -1,9 +1,9 @@
-**openBVE**是一个独立开发的[开源](../Page/开源.md "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，openBVE的名称来源于
+**openBVE**是一个独立开发的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，openBVE的名称来源于
 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink")，即“开放的
 BVE”。支持車内外視角自由觀察、立體駕駛室等。openBVE 使用
 [OpenGL](../Page/OpenGL.md "wikilink") 和
 [OpenAL作為](../Page/OpenAL.md "wikilink")
-[應用程式介面](../Page/應用程式介面.md "wikilink")。本项目起源于作者的一个想法，应该有一个[跨平台並且](../Page/跨平台.md "wikilink")[开源的](../Page/开源.md "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，而且要比现存的所有此类软件都真实，並注重在駕駛室內驾驶。\[1\]此程式並沒有使用上的限制，发布最新二进制包，同时独立发布其最新[C\#源码](../Page/C_Sharp.md "wikilink")。
+[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。本项目起源于作者的一个想法，应该有一个[跨平台並且](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[列车模拟器](../Page/列车模拟器.md "wikilink")，而且要比现存的所有此类软件都真实，並注重在駕駛室內驾驶。\[1\]此程式並沒有使用上的限制，发布最新二进制包，同时独立发布其最新[C\#源码](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。
 
 開發者在2011年5月11日宣布當openBVE進入第二版本的階段，程式會重命名為**Train Simulation
 Framework**。同時，官方網站域名改為
@@ -24,28 +24,28 @@ openBVE 功能大致上與 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink")
 
   - 可顯示車外視點，顯示玩家所駕駛的列車及周圍的環境
   - 支授後方物件顯示，前後全方位視野
-  - 仔細的列車運行物理機制、列車駕駛、[信號變化及景觀材質顯示](../Page/信號.md "wikilink")
+  - 仔細的列車運行物理機制、列車駕駛、[信號變化及景觀材質顯示](https://zh.wikipedia.org/wiki/信號 "wikilink")
   - 使用
     [OpenGL](../Page/OpenGL.md "wikilink")、[OpenAL](../Page/OpenAL.md "wikilink")
-    及 [SDL](../Page/SDL.md "wikilink") 等
-    [應用程式介面](../Page/應用程式介面.md "wikilink")，使得程式能更容易在不同[作業系統運行](../Page/作業系統.md "wikilink")。（所發放的
-    [Windows](../Page/Windows.md "wikilink") 版本可以經由
+    及 [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink") 等
+    [應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")，使得程式能更容易在不同[作業系統運行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。（所發放的
+    [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 版本可以經由
     [Mono](../Page/Mono.md "wikilink") 或
     [Wine](../Page/Wine.md "wikilink") 在
     [Linux](../Page/Linux.md "wikilink") 和 [OS
-    X](../Page/Mac_OS_X.md "wikilink") 平台上使用）
+    X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 平台上使用）
   - 使用 [OpenAL](../Page/OpenAL.md "wikilink")
-    將[三維場景的音效立體化](../Page/三維空間.md "wikilink")
+    將[三維場景的音效立體化](https://zh.wikipedia.org/wiki/三維空間 "wikilink")
   - 加入[人工智能駕駛](../Page/人工智能.md "wikilink")，能夠自動駕駛自己的列車
   - 自動控制上一班及更多列車的運作
   - 加入遊戲模式，對玩家駕駛列車技巧作評分
   - 提供動態物件格式，能讓物件變得可以活動，例如列車車門、時鐘、路面的汽車
-  - 能支援不同的[控制桿](../Page/控制桿.md "wikilink")，而且可以同時使用多個[控制桿](../Page/控制桿.md "wikilink")
+  - 能支援不同的[控制桿](https://zh.wikipedia.org/wiki/控制桿 "wikilink")，而且可以同時使用多個[控制桿](https://zh.wikipedia.org/wiki/控制桿 "wikilink")
 
 ##### 物理及環境效果
 
 openBVE
-已經模擬起始阻力、[慣性](../Page/慣性.md "wikilink")、曲線阻力、[重力](../Page/重力.md "wikilink")、倒塌之間（包括緩衝區和鏈耦合汽車耦合）、[空氣阻力](../Page/空氣阻力.md "wikilink")、[氣壓](../Page/氣壓.md "wikilink")、氣溫、空氣[密度](../Page/密度.md "wikilink")、[海拔高度](../Page/海拔高度.md "wikilink")（如大氣隨高度變化的變量）、摩擦、車輪打滑等。\[3\]另外，openBVE也在設定頁面提供模擬震盪、碰撞及出軌的選項。
+已經模擬起始阻力、[慣性](../Page/慣性.md "wikilink")、曲線阻力、[重力](https://zh.wikipedia.org/wiki/重力 "wikilink")、倒塌之間（包括緩衝區和鏈耦合汽車耦合）、[空氣阻力](https://zh.wikipedia.org/wiki/空氣阻力 "wikilink")、[氣壓](https://zh.wikipedia.org/wiki/氣壓 "wikilink")、氣溫、空氣[密度](../Page/密度.md "wikilink")、[海拔高度](https://zh.wikipedia.org/wiki/海拔高度 "wikilink")（如大氣隨高度變化的變量）、摩擦、車輪打滑等。\[3\]另外，openBVE也在設定頁面提供模擬震盪、碰撞及出軌的選項。
 
 ##### 制動系統
 
@@ -58,7 +58,7 @@ openBVE 可以完全地模擬出列車的每一個車箱，包括所有的電阻
 ##### 動態物件
 
 openBVE
-可以讓物件移動、旋轉或將[材質貼圖移位](../Page/材質貼圖.md "wikilink")，並以數學函數配合內置[變數來控制](../Page/變數.md "wikilink")。\[6\]
+可以讓物件移動、旋轉或將[材質貼圖移位](https://zh.wikipedia.org/wiki/材質貼圖 "wikilink")，並以數學函數配合內置[變數來控制](../Page/變數.md "wikilink")。\[6\]
 
 簡單例子有：
 
@@ -70,7 +70,7 @@ openBVE
 
   - 支援多個作業系統
   - 支援多國語言
-  - 可以自訂處理檔案所使用的[編碼](../Page/字符編碼.md "wikilink")，使程式相容性提高
+  - 可以自訂處理檔案所使用的[編碼](https://zh.wikipedia.org/wiki/字符編碼 "wikilink")，使程式相容性提高
   - 兼容大部分 [BVE Trainsim](../Page/BVE_Trainsim.md "wikilink") 的路線及列車
 
 #### 缺點
@@ -126,7 +126,7 @@ library）。\[10\]
 
 <!-- end list -->
 
-  - 有人以為openBVE和[BVETrainsim的作者是同一人](../Page/BVETrainsim.md "wikilink")；但實際上前者為Michelle開發，後者為Mackoy開發。
+  - 有人以為openBVE和[BVETrainsim的作者是同一人](https://zh.wikipedia.org/wiki/BVETrainsim "wikilink")；但實際上前者為Michelle開發，後者為Mackoy開發。
 
 <!-- end list -->
 

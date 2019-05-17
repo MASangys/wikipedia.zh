@@ -1,15 +1,15 @@
-DREAM是一個在[日本運作的職業](../Page/日本.md "wikilink")[綜合格鬥格鬥聯盟](../Page/綜合格鬥.md "wikilink")。DREAM的五個[英文字母皆為大寫](../Page/英文字母.md "wikilink")。
+DREAM是一個在[日本運作的職業](../Page/日本.md "wikilink")[綜合格鬥格鬥聯盟](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")。DREAM的五個[英文字母皆為大寫](../Page/英文字母.md "wikilink")。
 
 DREAM是由主辦[K-1的FEG](../Page/K-1.md "wikilink") ( Fighting Entertainment
 Group ) 公司所經營。原本是和DSE (Dream Stage Entertainment)所一起經營，但是後來則全盤由FEG接手。
 
-DREAM取代了原本FEG所主辦的職業MMA比賽Hero's，成為了FEG公司的主流賽事。DREAM在其經營上承接了非常多[PRIDE格鬥錦標賽的風格](../Page/PRIDE格鬥錦標賽.md "wikilink")，就連公司的員工很多也都是直接由Pride所轉任。
+DREAM取代了原本FEG所主辦的職業MMA比賽Hero's，成為了FEG公司的主流賽事。DREAM在其經營上承接了非常多[PRIDE格鬥錦標賽的風格](https://zh.wikipedia.org/wiki/PRIDE格鬥錦標賽 "wikilink")，就連公司的員工很多也都是直接由Pride所轉任。
 
-DREAM和[戰極](../Page/戰極.md "wikilink")，是目前日本國內的最大的兩個職業混合武術格鬥聯盟。
+DREAM和[戰極](https://zh.wikipedia.org/wiki/戰極 "wikilink")，是目前日本國內的最大的兩個職業混合武術格鬥聯盟。
 
 ## 源起
 
-就在[UFC所屬的公司Zuffa](../Page/UFC.md "wikilink")，收購了Pride之後。Shooto、M-1
+就在[UFC所屬的公司Zuffa](https://zh.wikipedia.org/wiki/UFC "wikilink")，收購了Pride之後。Shooto、M-1
 Global和FEG聯手舉辦了一個格鬥大會
 Yarennoka\!。這場在2007年12月31日所舉辦的比賽，原本是要作為Pride結束之後的一場紀念大會。但是這場大會獲得了廣大的迴響與成功，很多的日本格鬥迷對於Pride的解散，感到悲傷與懷念。隨著越來越多的民意基礎，最後FEG與DSE決定攜手合作，一起發揮兩家公司在經營職業MMA聯盟的人力與物力，籌組一個新的職業格鬥聯盟。
 
@@ -18,7 +18,7 @@ Yarennoka\!。這場在2007年12月31日所舉辦的比賽，原本是要作為P
 Global又拋出了一個相當令人振奮的消息，那就是M-1
 Global旗下所屬的超級明星選手[菲德·埃密利亞恩寇](../Page/菲德·埃密利亞恩寇.md "wikilink")，也不排除參加DREAM所舉辦的比賽。
 
-DREAM從一開始運作，就和[美國的](../Page/美國.md "wikilink")[有線電視頻道HDNet合作](../Page/有線電視.md "wikilink")，從DREAM
+DREAM從一開始運作，就和[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視頻道HDNet合作](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，從DREAM
 01開始就在美國本土播出。除此之外，也積極的尋求和美國的職業MMA聯盟合作。2008年的5月，DREAM宣布和美國的EliteXC合作。兩個聯盟決定要彼此交換選手，同時也不排除共同舉行大會。但是隨著後來EliteEX的破產，這個合作協定也就無疾而終了。
 
 2009年的8月，美國的職業MMA團體Strikeforce的總裁Scott
@@ -48,7 +48,8 @@ DREAM規則裡所定義的地板狀態，乃指一方選手若有三點著地，
 
   - [DREAM官方網站](http://www.dreamofficial.com/)
 
-[ja:DREAM (格闘技イベント)](../Page/ja:DREAM_\(格闘技イベント\).md "wikilink")
+[ja:DREAM
+(格闘技イベント)](https://zh.wikipedia.org/wiki/ja:DREAM_\(格闘技イベント\) "wikilink")
 
 [Category:综合格斗](https://zh.wikipedia.org/wiki/Category:综合格斗 "wikilink")
 [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")

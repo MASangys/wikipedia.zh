@@ -1,4 +1,4 @@
-是過去曾經存在的[遊戲軟體製作](../Page/遊戲軟體.md "wikilink")[公司](../Page/公司.md "wikilink")，2001年[破產](../Page/破產.md "wikilink")。
+是過去曾經存在的[遊戲軟體製作](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[公司](../Page/公司.md "wikilink")，2001年[破產](../Page/破產.md "wikilink")。
 
 1985年（昭和60年）設立，在[成人遊戲界具有相當的的歷史](../Page/日本成人遊戲.md "wikilink")，名字由來是因「JAST」等的成人遊戲[品牌設立而來](../Page/品牌.md "wikilink")。代表作《[天使們的午後](../Page/天使們的午後.md "wikilink")》系列被稱作十八禁冒險遊戲始祖。
 
@@ -79,7 +79,7 @@ software](../Page/Purple_software.md "wikilink")。
 <!-- end list -->
 
   - 請參照[Purple
-    software\#Purple](../Page/Purple_software#Purple.md "wikilink")。
+    software\#Purple](https://zh.wikipedia.org/wiki/Purple_software#Purple "wikilink")。
 
 <!-- end list -->
 
@@ -92,11 +92,11 @@ software](../Page/Purple_software.md "wikilink")。
 
 ## JAST SOUND
 
-為JAST販售的[8位元電腦用聲音合成裝置](../Page/8位元電腦.md "wikilink")，能夠輸出遊戲中角色的聲音。除了JAST以外的遊戲也有發售對應軟件，之後發售數次升級版，但未普及。
+為JAST販售的[8位元電腦用聲音合成裝置](https://zh.wikipedia.org/wiki/8位元電腦 "wikilink")，能夠輸出遊戲中角色的聲音。除了JAST以外的遊戲也有發售對應軟件，之後發售數次升級版，但未普及。
 
 ### 規格
 
-須對應遊戲，在[並列埠](../Page/並列埠.md "wikilink")、[RS-232C接頭中輸出](../Page/RS-232.md "wikilink")[PCM信號](../Page/脈衝編碼調變.md "wikilink")。JAST
+須對應遊戲，在[並列埠](https://zh.wikipedia.org/wiki/並列埠 "wikilink")、[RS-232C接頭中輸出](https://zh.wikipedia.org/wiki/RS-232 "wikilink")[PCM信號](../Page/脈衝編碼調變.md "wikilink")。JAST
 SOUND將輸入的PCM信號轉換成類比音訊，由內建喇叭輸出。
 
 ### 發售列表

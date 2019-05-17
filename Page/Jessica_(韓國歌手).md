@@ -1,10 +1,12 @@
 | 音樂類型 =
-[K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](../Page/Electronica.md "wikilink")
+[K-pop](../Page/韓國流行音樂.md "wikilink")、[J-pop](../Page/日本流行音樂.md "wikilink")、[Hip-Hop](../Page/嘻哈.md "wikilink")、[Electronica](https://zh.wikipedia.org/wiki/Electronica "wikilink")
 | 出身地 = （少女時代）
-（個人） | 出道作 = [少女時代](../Page/少女時代.md "wikilink")：《[Into The New
-World](../Page/再次重逢的世界.md "wikilink")》
-個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 =
-[少女時代](../Page/少女時代.md "wikilink")：
+（個人） | 出道作 =
+[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into
+The New World](../Page/再次重逢的世界.md "wikilink")》
+個人： 《[With Love,
+J](https://zh.wikipedia.org/wiki/With_Love,_J "wikilink")》 | 出道日期 =
+[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
 個人： | 活躍年代 = 2007年至今 | 唱片公司 =
 [SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
 [Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今） | 經紀公司 =  -
@@ -12,35 +14,36 @@ World](../Page/再次重逢的世界.md "wikilink")》
 \- [Coridel娛樂](../Page/Coridel娛樂.md "wikilink")（2016年至今）
 \- （2018年5月至今） | 獎項 = | 網站 =
 [鄭秀妍官方網站](http://coridelent.com/artist/jessica/) | 相關團體 =
-[少女時代](../Page/少女時代.md "wikilink")（2007年至2014年9月）
+[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（2007年至2014年9月）
 BLANC\&ECLARE（2014年至今）
 [SM Town](../Page/SM_Town.md "wikilink")（2007年至2015年） | IMDb = 4227335 |
 module =  | module2 =  }}
-**鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](../Page/美國.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[舊金山的](../Page/舊金山.md "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](../Page/演員.md "wikilink")[設計師](../Page/設計師.md "wikilink")
-\[1\]，曾為韓國女子組合[少女時代的成員](../Page/少女時代.md "wikilink")。創立品牌「BLANC &
-ECLARE」，為其[總裁兼](../Page/總裁.md "wikilink")[創意總監](../Page/創意總監.md "wikilink")。2000年前往韓國旅遊時被[SM娛樂公司發掘](../Page/SM娛樂.md "wikilink")，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
+**鄭秀妍**（，），本名**潔-{西卡}-·秀妍·鄭**（），出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](https://zh.wikipedia.org/wiki/演員 "wikilink")[設計師](https://zh.wikipedia.org/wiki/設計師 "wikilink")
+\[1\]，曾為韓國女子組合[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。創立品牌「BLANC
+&
+ECLARE」，為其[總裁兼](https://zh.wikipedia.org/wiki/總裁 "wikilink")[創意總監](https://zh.wikipedia.org/wiki/創意總監 "wikilink")。2000年前往韓國旅遊時被[SM娛樂公司發掘](../Page/SM娛樂.md "wikilink")，其後進入該公司當練習生。2007年以女子組合少女時代出道，隊內擔任第二主唱，為少女時代成員中訓練時間最長的成員，長達七年零六個月。2014年8月創立品牌BLANC\&ECLARE。2014年9月30日潔西卡在個人微博上宣布被公司通知退出少女時代，成為已離團成員。2015年8月6日，潔西卡正式與SM娛樂公司解除合約並離開公司。
 
 2016年2月29日與[Coridel娛樂簽約](../Page/Coridel娛樂.md "wikilink")，宣布復出韓國歌壇。2016年5月16日發行首張迷你專輯《With
 Love, J》\[2\]。2016年6月14日，官方粉絲名確定為「Golden
 Stars」，意指潔西卡的粉絲在她艱苦歲月裏像璀璨的星光陪伴着她並為她閃耀\[3\]。2016年12月10日發行第二張迷你專輯《WONDERLAND》。2017年8月9日發行第三張迷你專輯《My
 Decade》，以紀念出道十週年。應援物為星形應援手燈。
 
-2018年5月8日，與美國最大的經紀公司簽訂專屬合約。潔西卡的親妹妹為韩国女子組合[f(x)成員](../Page/f\(x\)_\(組合\).md "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")。另外，與韓國女演員[朴敏英是認識超過](../Page/朴敏英.md "wikilink")10年的好友。
+2018年5月8日，與美國最大的經紀公司簽訂專屬合約。潔西卡的親妹妹為韩国女子組合[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")。另外，與韓國女演員[朴敏英是認識超過](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")10年的好友。
 
 ## 姓名
 
 **潔-{西卡}-·鄭**（-{Jessica}-
-Jung）\[4\]為她出生於[美國時父母替她取的本名](../Page/美國.md "wikilink")，韓國名字為**鄭秀妍**（），在2017年[台灣演唱會上其公佈本名不是鄭秀妍](../Page/台灣.md "wikilink")\[5\]，而是**潔西卡·鄭**，並以本名**-{Jessica}-**（**潔-{西卡}-**）作為藝名出道。
+Jung）\[4\]為她出生於[美國時父母替她取的本名](https://zh.wikipedia.org/wiki/美國 "wikilink")，韓國名字為**鄭秀妍**（），在2017年[台灣演唱會上其公佈本名不是鄭秀妍](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[5\]，而是**潔西卡·鄭**，並以本名**-{Jessica}-**（**潔-{西卡}-**）作為藝名出道。
 
 ## 經歷
 
 ### 早期生涯
 
-潔西卡出生於[美國](../Page/美國.md "wikilink")[加利福尼亞州](../Page/加利福尼亞州.md "wikilink")[舊金山](../Page/舊金山.md "wikilink")，曾透露與[Tiffany生於同一家醫院](../Page/Tiffany_\(少女時代\).md "wikilink")，父親是一名拳擊選手，母親是一名體操運動員，幼年時期在舊金山成長，能說一口流利英語和韓語。在還未被[SM
-Entertainment公司選拔為練習生前一直待在舊金山市就讀當地的中小學](../Page/SM_Entertainment.md "wikilink")，被選拔為練習生後前往[韓國](../Page/韓國.md "wikilink")，並且轉學到位於[首爾市當地的](../Page/首爾市.md "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代成員](../Page/少女時代.md "wikilink")[蒂芬妮](../Page/黃美英.md "wikilink")。
+潔西卡出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，曾透露與[Tiffany生於同一家醫院](../Page/Tiffany_\(少女時代\).md "wikilink")，父親是一名拳擊選手，母親是一名體操運動員，幼年時期在舊金山成長，能說一口流利英語和韓語。在還未被[SM
+Entertainment公司選拔為練習生前一直待在舊金山市就讀當地的中小學](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，被選拔為練習生後前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，並且轉學到位於[首爾市當地的](https://zh.wikipedia.org/wiki/首爾市 "wikilink")繼續其高中學業，跟她同為該校學生的還有[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")。
 
 2000年，年僅11歲的潔西卡跟著家人一起前往韓國旅遊。她跟妹妹鄭秀晶([Krystal](../Page/鄭秀晶.md "wikilink"))在當地樂天百貨購物廣場逛街時，意外的被在旁的[SM
-Entertainment公司星探所發掘](../Page/SM_Entertainment.md "wikilink")，並且邀請姊妹倆一起進入公司當練習生\[6\]。經過七年零六個月的練習生時期，在2007年8月5日以女子組合少女時代出道，是[少女時代裡訓練時間最久的成員](../Page/少女時代.md "wikilink")。
+Entertainment公司星探所發掘](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，並且邀請姊妹倆一起進入公司當練習生\[6\]。經過七年零六個月的練習生時期，在2007年8月5日以女子組合少女時代出道，是[少女時代裡訓練時間最久的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ### 個人歌唱生涯
 
@@ -48,30 +51,30 @@ Entertainment公司星探所發掘](../Page/SM_Entertainment.md "wikilink")，�
 
 [Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg](https://zh.wikipedia.org/wiki/File:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg "fig:Jessica_Jung_at_a_autograph_session_in_August_2013_02.jpg")
 潔西卡於2007年8月5日在SBS《人氣歌謠》以《[Into The New
-World](../Page/閃亮新世界.md "wikilink")》一曲正式出道。
+World](https://zh.wikipedia.org/wiki/閃亮新世界 "wikilink")》一曲正式出道。
 
-2008年1月8日，潔西卡跟同為少女時代成員的[蒂芬妮](../Page/黃美英.md "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon公司的網路線上遊戲](../Page/Nexon.md "wikilink")「[瑪奇](../Page/瑪奇.md "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
+2008年1月8日，潔西卡跟同為少女時代成員的[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon公司的網路線上遊戲](../Page/Nexon.md "wikilink")「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠
 나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's
 Fantastic\!）》則為此遊戲的主題曲\[7\]。2008年3月3日，潔西卡獲邀在團體[8Eight的歌曲](../Page/8Eight.md "wikilink")《我愛你（I
 Love
 You）》中獻唱，潔西卡雖沒有在此曲的MV影片中演出，她卻是在幕後擔任合聲，此曲最後被收錄在[8Eight第二張專輯](../Page/8Eight.md "wikilink")「Infinity」內。
 
-2009年7月11日，潔西卡參與MBC《無限挑戰》的《奧林匹克歌謠祭》，與朴明洙合唱歌曲〈冷麵〉，並在多個音源排行榜獲得一位，當時在音源排行榜上甚至壓過《[說出你的願望（Genie）](../Page/Genie.md "wikilink")》，因此獲得了「Team
+2009年7月11日，潔西卡參與MBC《無限挑戰》的《奧林匹克歌謠祭》，與朴明洙合唱歌曲〈冷麵〉，並在多個音源排行榜獲得一位，當時在音源排行榜上甚至壓過《[說出你的願望（Genie）](https://zh.wikipedia.org/wiki/Genie "wikilink")》，因此獲得了「Team
 kill
-sica」的稱號。2009年12月12日，潔西卡亦與同為少女時代成員的[太妍](../Page/金泰耎.md "wikilink")、[珊妮](../Page/李純揆.md "wikilink")、[秀英及](../Page/崔秀榮.md "wikilink")[徐玄與男子組合](../Page/徐朱玄.md "wikilink")[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[晟敏](../Page/晟敏.md "wikilink")、[東海](../Page/東海.md "wikilink")、[厲旭及](../Page/厲旭.md "wikilink")[圭賢合唱韓國觀光宣傳歌曲](../Page/圭賢.md "wikilink")《首爾頌》（S.E.O.U.L.）\[8\]。
+sica」的稱號。2009年12月12日，潔西卡亦與同為少女時代成員的[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[秀英及](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[徐玄與男子組合](../Page/徐朱玄.md "wikilink")[Super
+Junior成員](../Page/Super_Junior.md "wikilink")[晟敏](../Page/晟敏.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[厲旭及](../Page/厲旭.md "wikilink")[圭賢合唱韓國觀光宣傳歌曲](../Page/圭賢.md "wikilink")《首爾頌》（S.E.O.U.L.）\[8\]。
 
-2010年5月2日，潔西卡與太妍、珊妮、蒂芬妮、[俞利](../Page/權俞利.md "wikilink")、[潤娥及徐玄聯同男子組合](../Page/林潤妸.md "wikilink")[2PM合唱](../Page/2PM.md "wikilink")[加勒比海灣](../Page/加勒比海灣.md "wikilink")（韓國水上樂園）的廣告歌曲《Cabi》\[9\]\[10\]。同年10月13日，潔西卡發布了數位單曲《甜蜜快樂（Sweet
+2010年5月2日，潔西卡與太妍、珊妮、蒂芬妮、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[潤娥及徐玄聯同男子組合](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")[2PM合唱](https://zh.wikipedia.org/wiki/2PM "wikilink")[加勒比海灣](https://zh.wikipedia.org/wiki/加勒比海灣 "wikilink")（韓國水上樂園）的廣告歌曲《Cabi》\[9\]\[10\]。同年10月13日，潔西卡發布了數位單曲《甜蜜快樂（Sweet
 Delight）》，此曲為潔西卡獨挑大樑首次獨唱的歌曲。
 
-2011年5月18日，潔西卡為[KBS連續劇](../Page/KBS.md "wikilink")《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》主唱劇中的插入歌《淚水溢流（눈물이
+2011年5月18日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》主唱劇中的插入歌《淚水溢流（눈물이
 넘쳐서）》，甚至被網友票選為OST超過戲劇人氣的代表之一。
 
-2012年1月19日，潔西卡與為[KBS連續劇](../Page/KBS.md "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》合唱插入曲《怎能（어쩜）》。同年8月15日，潔西卡與妹妹[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")[Krystal為](../Page/鄭秀晶.md "wikilink")[SBS連續劇](../Page/SBS.md "wikilink")《[致美麗的你](../Page/致美麗的你.md "wikilink")》合唱插入曲《Butterfly》。9月14日，潔西卡為[KBS連續劇](../Page/KBS.md "wikilink")《[大王之夢](../Page/大王之夢.md "wikilink")》演唱插入曲《心路》。10月14日，潔西卡與同為少女時代成員的[珊妮](../Page/李純揆.md "wikilink")、f(x)成員兼妹妹Krystal及前[EXO成員](../Page/EXO.md "wikilink")[Kris為](../Page/吳亦凡.md "wikilink")[BoA主演電影](../Page/寶兒.md "wikilink")《[Make
-Your Move 3D](../Page/斗舞幫.md "wikilink")》合唱插入曲《Say
+2012年1月19日，潔西卡與為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》合唱插入曲《怎能（어쩜）》。同年8月15日，潔西卡與妹妹[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")[Krystal為](../Page/鄭秀晶.md "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[致美麗的你](https://zh.wikipedia.org/wiki/致美麗的你 "wikilink")》合唱插入曲《Butterfly》。9月14日，潔西卡為[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[大王之夢](../Page/大王之夢.md "wikilink")》演唱插入曲《心路》。10月14日，潔西卡與同為少女時代成員的[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、f(x)成員兼妹妹Krystal及前[EXO成員](../Page/EXO.md "wikilink")[Kris為](../Page/吳亦凡.md "wikilink")[BoA主演電影](../Page/寶兒.md "wikilink")《[Make
+Your Move 3D](https://zh.wikipedia.org/wiki/斗舞幫 "wikilink")》合唱插入曲《Say
 Yes》。10月18日，潔西卡代言PYL汽車廣告並演唱廣告曲《My Lifestyle》。
 
-2013年7月2日，潔西卡為[tvN連續劇](../Page/tvN.md "wikilink")《[戀愛操作團：大鼻子情聖](../Page/戀愛操作團：大鼻子情聖.md "wikilink")》演唱插入曲《The
+2013年7月2日，潔西卡為[tvN連續劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[戀愛操作團：大鼻子情聖](../Page/戀愛操作團：大鼻子情聖.md "wikilink")》演唱插入曲《The
 One Like You》。
 
 #### 2014年至今：Solo時期
@@ -86,24 +89,24 @@ Love，J》的封面照片，並於17日正式發行。\[12\]專輯當中總共�
 ME THE SAME》也是 Jessica
 親自參與詞曲創作的作品，內容含有「隨著時間的流逝，就算不再華麗，你是否也會像現在一樣愛我」的意義。2016年6月1日，舉行了個人的粉絲見面會「-{Jessica}-
 Fan Meeting 2016 Asia Tour In
-Seoul」\[13\]。2016年11月30日Coridel娛樂透露潔西卡將發行迷你專輯《WONDERLAND》\[14\]。12月4日Coridel娛樂在[Youtube公佈潔西卡新曲](../Page/Youtube.md "wikilink")《WONDERLAND》預告片，並於2016年12月10日發行等二張迷你專輯《WONDERLAND》專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。
+Seoul」\[13\]。2016年11月30日Coridel娛樂透露潔西卡將發行迷你專輯《WONDERLAND》\[14\]。12月4日Coridel娛樂在[Youtube公佈潔西卡新曲](https://zh.wikipedia.org/wiki/Youtube "wikilink")《WONDERLAND》預告片，並於2016年12月10日發行等二張迷你專輯《WONDERLAND》專輯當中總共收錄六首歌曲，其中有四首由Jessica創作。
 
 ### 演藝生涯
 
 2009年11月14日，潔西卡首次出演了音樂劇，在音樂劇《》中擔任劇中的主角（Elle
-Woods），跟其他老牌韓國演員[李荷妮](../Page/李荷妮.md "wikilink")、一起同台演出\[15\]\[16\]。
+Woods），跟其他老牌韓國演員[李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink")、一起同台演出\[15\]\[16\]。
 
-2010年3月22日，潔西卡與同為少女時代成員的[孝淵](../Page/金孝淵.md "wikilink")、[秀英三人客串演出](../Page/崔秀榮.md "wikilink")[SBS連續劇](../Page/SBS.md "wikilink")《[Oh\!
+2010年3月22日，潔西卡與同為少女時代成員的[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[秀英三人客串演出](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\!
 My Lady
 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》，該劇的演員還有[蔡琳](../Page/蔡琳.md "wikilink")、及[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[始源](../Page/始源.md "wikilink")\[17\]。同年4月19日，潔西卡在[SBS連續劇](../Page/SBS.md "wikilink")《[Oh\!
+Junior成員](../Page/Super_Junior.md "wikilink")[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")\[17\]。同年4月19日，潔西卡在[SBS連續劇](https://zh.wikipedia.org/wiki/SBS "wikilink")《[Oh\!
 My Lady
-愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》中客串演出\[18\]。而後又與同為少女時代成員的[珊妮一起為](../Page/李純揆.md "wikilink")[MBC日日情景喜劇](../Page/MBC.md "wikilink")《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》中客串演出，飾演[SHINee成員](../Page/SHINee.md "wikilink")[泰民劇中的英文補習老師潔西卡](../Page/李泰民.md "wikilink")。
+愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink")》中客串演出\[18\]。而後又與同為少女時代成員的[珊妮一起為](https://zh.wikipedia.org/wiki/李純揆 "wikilink")[MBC日日情景喜劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")》中客串演出，飾演[SHINee成員](../Page/SHINee.md "wikilink")[泰民劇中的英文補習老師潔西卡](https://zh.wikipedia.org/wiki/李泰民 "wikilink")。
 
-2010年5月10日潔西卡在[KBS綜藝節目](../Page/KBS.md "wikilink")《Happy
-Birthday》中擔任固定來賓，一直到2010年6月7日潔西卡因日趨忙碌於[少女時代的](../Page/少女時代.md "wikilink")[日本出道行程才正式離開該節目](../Page/日本.md "wikilink")\[19\]。
+2010年5月10日潔西卡在[KBS綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy
+Birthday》中擔任固定來賓，一直到2010年6月7日潔西卡因日趨忙碌於[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[日本出道行程才正式離開該節目](../Page/日本.md "wikilink")\[19\]。
 
-2012年1月4日，潔西卡更在[KBS連續劇](../Page/KBS.md "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》中擔任劇中的第二女主角姜鐘煕，飾演劇中男主角朴茂烈難以忘懷的初戀情人\[20\]。同年11月28日，潔西卡再次演出音樂劇《金髮尤物》。
+2012年1月4日，潔西卡更在[KBS連續劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》中擔任劇中的第二女主角姜鐘煕，飾演劇中男主角朴茂烈難以忘懷的初戀情人\[20\]。同年11月28日，潔西卡再次演出音樂劇《金髮尤物》。
 
 ### 個人事業
 
@@ -117,9 +120,9 @@ ECLARE帶到另一層次感到很驕傲。同時，隨著這個品牌獲得大�
 GIVING」活動。12月3日，個人品牌推出圍巾系列。「BLANC & ECLARE」的總部將於2015年搬遷到美國紐約。
 
 2016年11月25日，「BLANC &
-ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/曼克頓.md "wikilink")[SoHo區開幕](../Page/紐約蘇荷區.md "wikilink")，並於12月1日舉行開幕派對，潔西卡本人與妹妹Krystal亦有出席。
+ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼克頓](https://zh.wikipedia.org/wiki/曼克頓 "wikilink")[SoHo區開幕](https://zh.wikipedia.org/wiki/紐約蘇荷區 "wikilink")，並於12月1日舉行開幕派對，潔西卡本人與妹妹Krystal亦有出席。
 
-2018年9月23日，與[迪麗熱巴代表亞洲參加米蘭時裝節](../Page/迪丽热巴.md "wikilink")。
+2018年9月23日，與[迪麗熱巴代表亞洲參加米蘭時裝節](https://zh.wikipedia.org/wiki/迪丽热巴 "wikilink")。
 
 ## 音樂作品
 
@@ -134,7 +137,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="../Page/With_Love,_J.md" title="wikilink">With Love, J</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/With_Love,_J" title="wikilink">With Love, J</a></strong>》</p>
 <ul>
 <li>發行日期：2016年5月17日</li>
 <li>唱片公司：Coridel 娛樂</li>
@@ -145,7 +148,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="../Page/Wonderland_(Jessica專輯).md" title="wikilink">Wonderland</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Wonderland_(Jessica專輯)" title="wikilink">Wonderland</a></strong>》</p>
 <ul>
 <li>發行日期：2016年12月10日</li>
 <li>唱片公司：Coridel 娛樂</li>
@@ -156,7 +159,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="../Page/My_Decade.md" title="wikilink">My Decade</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/My_Decade" title="wikilink">My Decade</a></strong>》</p>
 <ul>
 <li>發行日期：2017年8月9日</li>
 <li>唱片公司：Coridel 娛樂</li>
@@ -238,68 +241,68 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <tr class="even">
 <td><p>2007年11月22日</p></td>
 <td><p>Touch the Sky</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/尋找兒子三萬里.md" title="wikilink">尋找兒子三萬里</a>》</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="../Page/尋找兒子三萬里.md" title="wikilink">尋找兒子三萬里</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年1月28日</p></td>
 <td><p>小船</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/快刀洪吉童.md" title="wikilink">快刀洪吉童</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="../Page/快刀洪吉童.md" title="wikilink">快刀洪吉童</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2008年8月1日</p></td>
 <td><p>It's Fantastic</p></td>
-<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon網路線上遊戲</a>《<a href="../Page/瑪奇.md" title="wikilink">瑪奇</a>》</p></td>
-<td><p><a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="../Page/Nexon.md" title="wikilink">Nexon網路線上遊戲</a>《<a href="https://zh.wikipedia.org/wiki/瑪奇" title="wikilink">瑪奇</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年9月17日</p></td>
 <td><p>Day By Day</p></td>
-<td><p><a href="../Page/文化廣播_(韓國).md" title="wikilink">MBC</a>《<a href="../Page/貝多芬病毒.md" title="wikilink">貝多芬病毒</a>》</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a>《<a href="../Page/貝多芬病毒.md" title="wikilink">貝多芬病毒</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年8月9日</p></td>
 <td><p>我的朋友海治</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS卡通</a>《我的朋友海治》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS卡通</a>《我的朋友海治》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年5月18日</p></td>
 <td><p>止不住的淚</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/浪漫小鎮.md" title="wikilink">浪漫小鎮</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="../Page/浪漫小鎮.md" title="wikilink">浪漫小鎮</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2012年1月19日</p></td>
 <td><p>what to do</p></td>
-<td><p><a href="../Page/KBS第2頻道.md" title="wikilink">KBS 2</a>《<a href="../Page/暴力羅曼史.md" title="wikilink">暴力羅曼史</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2</a>《<a href="../Page/暴力羅曼史.md" title="wikilink">暴力羅曼史</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2012年8月15日</p></td>
 <td><p>Butterfly</p></td>
-<td><p><a href="../Page/SBS株式會社.md" title="wikilink">SBS</a>《<a href="../Page/致美麗的你.md" title="wikilink">致美麗的你</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a>《<a href="https://zh.wikipedia.org/wiki/致美麗的你" title="wikilink">致美麗的你</a>》</p></td>
 <td><p><a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012年9月7日</p></td>
 <td><p>心路</p></td>
-<td><p><a href="../Page/KBS第1頻道.md" title="wikilink">KBS 1</a>《<a href="../Page/大王之夢.md" title="wikilink">大王之夢</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第1頻道" title="wikilink">KBS 1</a>《<a href="../Page/大王之夢.md" title="wikilink">大王之夢</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2013年7月2日</p></td>
 <td><p>叫做你的那個人</p></td>
-<td><p><a href="../Page/tvN.md" title="wikilink">tvN</a>《<a href="../Page/戀愛操作團：大鼻子情聖.md" title="wikilink">戀愛操作團：大鼻子情聖</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>《<a href="../Page/戀愛操作團：大鼻子情聖.md" title="wikilink">戀愛操作團：大鼻子情聖</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年4月7日</p></td>
 <td><p>Cheap Creeper</p></td>
-<td><p>電影《<a href="../Page/斗舞幫.md" title="wikilink">Make Your Move 3D</a>》</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/斗舞幫" title="wikilink">Make Your Move 3D</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年4月7日</p></td>
@@ -310,7 +313,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <tr class="even">
 <td><p>2016年7月24日</p></td>
 <td><p>Love! Love! Aloha!</p></td>
-<td><p>電影《<a href="../Page/那件瘋狂的小事叫愛情.md" title="wikilink">那件瘋狂的小事叫愛情</a>》</p></td>
+<td><p>電影《<a href="https://zh.wikipedia.org/wiki/那件瘋狂的小事叫愛情" title="wikilink">那件瘋狂的小事叫愛情</a>》</p></td>
 <td><p><a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a></p></td>
 </tr>
 <tr class="odd">
@@ -336,19 +339,19 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <td><p>2008年4月7日</p></td>
 <td><p>壞哥哥</p></td>
 <td><p>RoomMate音源單曲《壞哥哥》</p></td>
-<td><p><a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年4月18日</p></td>
 <td><p>抓起手</p></td>
 <td><p>2008 SBS 希望 TV24</p></td>
-<td><p><a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2008年5月8日</p></td>
 <td><p>Haptic Motion</p></td>
 <td><p>三星Anycall手機Haptic廣告歌</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年6月20日</p></td>
@@ -360,19 +363,19 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <td><p>2009年7月13日</p></td>
 <td><p>冷麵</p></td>
 <td><p><a href="../Page/無限挑戰.md" title="wikilink">無限挑戰</a><a href="../Page/奧林匹克歌謠祭.md" title="wikilink">奧林匹克歌謠祭</a></p></td>
-<td><p><a href="../Page/朴明秀.md" title="wikilink">朴明秀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴明秀" title="wikilink">朴明秀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年12月15日</p></td>
 <td><p>SEOUL</p></td>
 <td><p>韓國首爾觀光宣傳歌曲</p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/李東海.md" title="wikilink">東海</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="../Page/晟敏.md" title="wikilink">晟敏</a>、<a href="../Page/李東海.md" title="wikilink">東海</a>、<a href="../Page/厲旭.md" title="wikilink">厲旭</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年5月20日</p></td>
 <td><p>Cabi Song</p></td>
-<td><p>韓國水上樂園<a href="../Page/加勒比海灣.md" title="wikilink">加勒比海灣廣告歌</a></p></td>
-<td><p><a href="../Page/金泰耎.md" title="wikilink">太妍</a>、<a href="../Page/李純揆.md" title="wikilink">珊妮</a>、<a href="../Page/黃美英.md" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="../Page/2PM.md" title="wikilink">2PM</a></p></td>
+<td><p>韓國水上樂園<a href="https://zh.wikipedia.org/wiki/加勒比海灣" title="wikilink">加勒比海灣廣告歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/李純揆" title="wikilink">珊妮</a>、<a href="https://zh.wikipedia.org/wiki/黃美英" title="wikilink">蒂芬妮</a>、<a href="../Page/徐朱玄.md" title="wikilink">徐玄</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年10月13日</p></td>
@@ -397,28 +400,28 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 
 ## 影視作品
 
-**註：以少女時代身分參與的請詳見[少女時代影視作品列表](../Page/少女時代影視作品列表.md "wikilink")**
+**註：以少女時代身分參與的請詳見[少女時代影視作品列表](https://zh.wikipedia.org/wiki/少女時代影視作品列表 "wikilink")**
 
 ### 電視劇
 
-|                         |                                          |                                                           |       |     |        |
-| ----------------------- | ---------------------------------------- | --------------------------------------------------------- | ----- | --- | ------ |
-| 日期                      | 電視台                                      | 電視劇名稱                                                     | 角色    | 性質  | 集數     |
-| 2007年8月18日 - 2008年1月27日 | [MBC](../Page/文化廣播_\(韓國\).md "wikilink") | [蘿蔔泡菜](../Page/萝卜泡菜_\(电视剧\).md "wikilink")                | 少女時代  | 客串  | 第9集    |
-| 2007年11月5日－2008年5月30日   | [無法阻擋的婚姻](../Page/無法阻擋的婚姻.md "wikilink") | 佛光洞七公主                                                    |       |     |        |
-| 2009年3月2日－2009年9月4日     | [泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")   | 英文補習老師                                                    | 第126集 |     |        |
-| 2010年1月2日               | [富士電視台](../Page/富士電視台.md "wikilink")     | [海螺小姐3](../Page/海螺小姐.md "wikilink")                       | 美少女們  | 第3集 |        |
-| 2010年3月22日 - 2010年5月11日 | [SBS](../Page/SBS.md "wikilink")         | [Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink") | 大明星   | 第7集 |        |
-| 2012年1月4日－2012年2月23日    | [KBS](../Page/KBS.md "wikilink")         | [暴力羅曼史](../Page/暴力羅曼史.md "wikilink")                      | 姜棕熙   | 女二號 | 第7－16集 |
+|                         |                                                             |                                                           |       |     |        |
+| ----------------------- | ----------------------------------------------------------- | --------------------------------------------------------- | ----- | --- | ------ |
+| 日期                      | 電視台                                                         | 電視劇名稱                                                     | 角色    | 性質  | 集數     |
+| 2007年8月18日 - 2008年1月27日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [蘿蔔泡菜](../Page/萝卜泡菜_\(电视剧\).md "wikilink")                | 少女時代  | 客串  | 第9集    |
+| 2007年11月5日－2008年5月30日   | [無法阻擋的婚姻](https://zh.wikipedia.org/wiki/無法阻擋的婚姻 "wikilink") | 佛光洞七公主                                                    |       |     |        |
+| 2009年3月2日－2009年9月4日     | [泰熙慧喬智賢](../Page/泰熙慧喬智賢.md "wikilink")                      | 英文補習老師                                                    | 第126集 |     |        |
+| 2010年1月2日               | [富士電視台](../Page/富士電視台.md "wikilink")                        | [海螺小姐3](../Page/海螺小姐.md "wikilink")                       | 美少女們  | 第3集 |        |
+| 2010年3月22日 - 2010年5月11日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | [Oh\! My Lady 愛你喲](../Page/Oh!_My_Lady_愛你喲.md "wikilink") | 大明星   | 第7集 |        |
+| 2012年1月4日－2012年2月23日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | [暴力羅曼史](../Page/暴力羅曼史.md "wikilink")                      | 姜棕熙   | 女二號 | 第7－16集 |
 
 ### 電影
 
-|            |                                                              |          |     |
-| ---------- | ------------------------------------------------------------ | -------- | --- |
-| 上映日期       | 電影名稱                                                         | 角色       | 性質  |
-| 2016年8月12日 | [那件瘋狂的小事叫愛情](../Page/那件瘋狂的小事叫愛情.md "wikilink")               | 羅倩倩      | 女主角 |
-| 2016年9月15日 | [Two Bellmen Three](../Page/Two_Bellmen_Three.md "wikilink") | Mina Kim | 女配角 |
-| 2017年8月4日  | [我是马布里](../Page/我是马布里.md "wikilink")                         | 楊晨       | 女主角 |
+|            |                                                                                 |          |     |
+| ---------- | ------------------------------------------------------------------------------- | -------- | --- |
+| 上映日期       | 電影名稱                                                                            | 角色       | 性質  |
+| 2016年8月12日 | [那件瘋狂的小事叫愛情](https://zh.wikipedia.org/wiki/那件瘋狂的小事叫愛情 "wikilink")               | 羅倩倩      | 女主角 |
+| 2016年9月15日 | [Two Bellmen Three](https://zh.wikipedia.org/wiki/Two_Bellmen_Three "wikilink") | Mina Kim | 女配角 |
+| 2017年8月4日  | [我是马布里](https://zh.wikipedia.org/wiki/我是马布里 "wikilink")                         | 楊晨       | 女主角 |
 
 ### 音樂劇
 
@@ -456,7 +459,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <tr class="even">
 <td><p>2009年12月19日</p></td>
 <td><p>《SEOUL》</p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/少女時代.md" title="wikilink">少女時代</a></p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -512,17 +515,20 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 
 ### 專屬節目
 
-  - 2014年 [-{On Style}-](../Page/On_Style.md "wikilink")《[Jessica &
-    Krystal](../Page/Jessica_&_Krystal.md "wikilink")》與[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")[鄭秀晶演出](../Page/鄭秀晶.md "wikilink")（2014年6月3日－8月5日）
+  - 2014年 [-{On
+    Style}-](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Jessica
+    &
+    Krystal](../Page/Jessica_&_Krystal.md "wikilink")》與[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[鄭秀晶演出](../Page/鄭秀晶.md "wikilink")（2014年6月3日－8月5日）
 
 ### 節目主持
 
-  - 2016年 [KBS](../Page/KBS.md "wikilink")《Beauty Bible 2016
+  - 2016年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Beauty
+    Bible 2016
     S/S》與[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")[金栽經共同主持](../Page/金栽經.md "wikilink")（2016年4月15日－2016年7月1日）
 
 ### 固定节目
 
-  - 2010年 [KBS](../Page/KBS.md "wikilink")《Happy
+  - 2010年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《Happy
     Birthday》（2010年5月10日—2010年6月7日）
 
 ### 综艺节目
@@ -587,10 +593,10 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 
 ### 廣告代言
 
-**註：以前團體身分代言的部分詳見[少女時代](../Page/少女時代.md "wikilink")**
+**註：以前團體身分代言的部分詳見[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")**
 
   - 2011年 《DIOR化妝品
-    SNOW系》（與[珊妮](../Page/李純揆.md "wikilink")、[蒂芬妮](../Page/黃美英.md "wikilink")、[孝淵](../Page/金孝淵.md "wikilink")、[俞利](../Page/權俞利.md "wikilink")、[秀英](../Page/崔秀英.md "wikilink")）
+    SNOW系》（與[珊妮](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")）
   - 2012年 《Coming Step女裝》
   - 2012年 《PYL現代i30汽車》
   - 2012年 《Banila CO.護膚品》
@@ -703,7 +709,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>SBS <a href="../Page/MTV.md" title="wikilink">MTV</a> Best of the Best</p></td>
+<td><p>SBS <a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV</a> Best of the Best</p></td>
 <td><p>最佳客串 [24]</p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a>〈Sherlock〉</p></td>
 <td></td>
@@ -717,7 +723,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/首爾國際電視劇大賞.md" title="wikilink">首爾國際電視劇大賞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾國際電視劇大賞" title="wikilink">首爾國際電視劇大賞</a></p></td>
 <td><p>韓流劇集OST賞（與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>）</p></td>
 <td><p>〈Butterfly〉</p></td>
 <td></td>
@@ -725,7 +731,7 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="../Page/Style_Icon_Awards.md" title="wikilink">Style Icon Awards</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Style_Icon_Awards" title="wikilink">Style Icon Awards</a></p></td>
 <td><p>Top 10 Style Icons（與<a href="../Page/鄭秀晶.md" title="wikilink">Krystal</a>）</p></td>
 <td><p>《<a href="../Page/Jessica_&amp;_Krystal.md" title="wikilink">Jessica &amp; Krystal</a>》</p></td>
 <td></td>
@@ -791,10 +797,10 @@ ECLARE」[紐約旗艦店於](../Page/紐約.md "wikilink")[曼克頓](../Page/�
 
 #### 音樂節目獎項
 
-|            |                                        |                                                |        |         |
-| ---------- | -------------------------------------- | ---------------------------------------------- | ------ | ------- |
-| 日期         | 電視台                                    | 節目名稱                                           | 歌曲     | 排名      |
-| 2013年7月12日 | [KBS 2](../Page/KBS第2頻道.md "wikilink") | [Music Bank](../Page/Music_Bank.md "wikilink") | 叫你的那個人 | OST榜－4位 |
+|            |                                                           |                                                                   |        |         |
+| ---------- | --------------------------------------------------------- | ----------------------------------------------------------------- | ------ | ------- |
+| 日期         | 電視台                                                       | 節目名稱                                                              | 歌曲     | 排名      |
+| 2013年7月12日 | [KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") | 叫你的那個人 | OST榜－4位 |
 
 #### 主要音樂節目榜單排名
 

@@ -1,9 +1,9 @@
 **NVIDIA GeForce
-300系列**是[NVIDIA的第十一代](../Page/NVIDIA.md "wikilink")[GeForce顯示晶片](../Page/GeForce.md "wikilink")。首款產品在2009年11月被推出市場。和前代NVIDIA
+300系列**是[NVIDIA的第十一代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce顯示晶片](../Page/GeForce.md "wikilink")。首款產品在2009年11月被推出市場。和前代NVIDIA
 GeForce 100一樣是舊系列圖形處理器的更名版，或是基於舊有圖形處理器推出的新型號顯示卡，而且只供OEM使用，無零售版本。GeForce
-300仍採用[TSMC的](../Page/台灣積體電路製造公司.md "wikilink")55奈米或65奈米製程來製造，中低端產品會采用新型SDDR3顯示記憶體，部分低階產品更名自[GeForce
-200系列](../Page/GeForce_200.md "wikilink")，一些型號更是基於NVIDIA GeForce
-9系列的顯示核心，支援Direct 10或10.1\[1\]
+300仍採用[TSMC的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")55奈米或65奈米製程來製造，中低端產品會采用新型SDDR3顯示記憶體，部分低階產品更名自[GeForce
+200系列](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，一些型號更是基於NVIDIA
+GeForce 9系列的顯示核心，支援Direct 10或10.1\[1\]
 
 ## 歷史
 
@@ -11,23 +11,23 @@ GeForce 100一樣是舊系列圖形處理器的更名版，或是基於舊有圖
 300』系列是即將發表的Fermi核心產品的正式名稱，但在2010年2月初，nVIDIA通過在[Twitter和](../Page/Twitter.md "wikilink")[Facebook的官方帳戶發出消息](../Page/Facebook.md "wikilink")，下一代Fermi核心的首發兩款產品將被命名為[NVIDIA
 GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470和GTX
 480。\[2\]\[3\]\[4\]\[5\]而預計GeForce
-300系列將使用在[OEM市場](../Page/OEM.md "wikilink")，就像之前的[GeForce
-100系列](../Page/GeForce_100.md "wikilink")。後來也沒有一款基於Fermi架構的產品被用於GeForce
+300系列將使用在[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，就像之前的[GeForce
+100系列](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")。後來也沒有一款基於Fermi架構的產品被用於GeForce
 300的產品線上。\[6\]
 
 該系列首款產品是更名自上代GeForce 210的GeForce
-310，是nVIDIA提供給[惠普供](../Page/惠普.md "wikilink")[OEM使用](../Page/OEM.md "wikilink")，2009年11月27日發布。\[7\]GT
+310，是nVIDIA提供給[惠普供](../Page/惠普.md "wikilink")[OEM使用](https://zh.wikipedia.org/wiki/OEM "wikilink")，2009年11月27日發布。\[7\]GT
 320、GT 330、GT340都採用GT215核心。\[8\]GT 340是完整的核心代號為『GT215』的核心，技術參數和前代的GT
 240基本一致，是為GT 240的更名版，而GT 320、GT330是GeForce
 300中的新品，儘管核心是基於前代的GT200b和G92b架構，是GT215核心上刪減流處理器數量獲得，具體表現在核心後的編號，如GT215-301-A2。\[9\]
 
 ## 產品介紹
 
-  - [桌面平臺](../Page/桌面平臺.md "wikilink")
+  - [桌面平臺](https://zh.wikipedia.org/wiki/桌面平臺 "wikilink")
       - GeForce 310\[10\] - 2009年11月針對OEM市場推出，更名自[GeForce
-        210/G210](../Page/GeForce_200.md "wikilink")，規格與其相同，採用新版GT218-300-A3核心，40nm製程。
+        210/G210](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，規格與其相同，採用新版GT218-300-A3核心，40nm製程。
       - GeForce 315\[11\] - 2009年11月針對OEM市場推出，更名自[GeForce GT
-        220](../Page/GeForce_200.md "wikilink")，規格與其相同，採用新版GT216-200-A2核心，40nm製程。
+        220](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，規格與其相同，採用新版GT216-200-A2核心，40nm製程。
       - GeForce GT 320\[12\] - 2010年2月12日針對OEM市場推出，擁有72個頻率為1302
         MHz的流處理器，核心頻率540 MHz，顯示記憶體為1GB 128-bit，頻率790
         MHz，40nm製程GT215核心。
@@ -36,13 +36,13 @@ GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470�
         DDR2，採用55nm製程G92-168-B1，僅支援DirectX 10。另外也有採用支援DirectX
         10.1新版GT215核心。
       - GeForce GT 340\[14\] - 2010年2月12日針對OEM市場推出，更名自[GeForce GT
-        240](../Page/GeForce_200.md "wikilink")，擁有96個頻率為1340
-        MHz的流處理器，核心頻率540 MHz，顯示記憶體為512MB或1GB 128-bit
-        GDDR5，頻率1700 MHz，40nm製程GT215核心。
+        240](https://zh.wikipedia.org/wiki/GeForce_200 "wikilink")，擁有96個頻率為1340
+        MHz的流處理器，核心頻率540 MHz，顯示記憶體為512MB或1GB 128-bit GDDR5，頻率1700
+        MHz，40nm製程GT215核心。
 
 <!-- end list -->
 
-  - [行動平臺](../Page/行動平臺.md "wikilink")
+  - [行動平臺](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")
       - GeForce 305M\[15\] - 於2010年1月1日發表，採用GT218M核心，40nm製程。支援DirectX
         10.1。
       - GeForce 310M\[16\] - 於2010年1月1日發表，採用GT218M核心，40nm製程。支援DirectX
@@ -64,9 +64,10 @@ GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470�
 
 ## 相關條目
 
-  - [GeForce 300系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_300.md "wikilink")
+  - [GeForce
+    300系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_300 "wikilink")
   - [GeForce 300
-    M系列規格列表](../Page/NVIDIA顯示核心列表#GeForce_300_M.md "wikilink")
+    M系列規格列表](https://zh.wikipedia.org/wiki/NVIDIA顯示核心列表#GeForce_300_M "wikilink")
 
 ## 參考鏈接
 
@@ -74,7 +75,8 @@ GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470�
 
   - [NVIDIA主頁](http://www.nvidia.com/)
 
-[ru:NVidia GT300](../Page/ru:NVidia_GT300.md "wikilink")
+[ru:NVidia
+GT300](https://zh.wikipedia.org/wiki/ru:NVidia_GT300 "wikilink")
 
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 

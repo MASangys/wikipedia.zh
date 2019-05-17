@@ -1,23 +1,23 @@
-**MGP-15**是一款由[秘鲁槍械製造商SIMA](../Page/秘鲁.md "wikilink")-CEFAR公司為[秘鲁軍隊的](../Page/秘鲁軍隊.md "wikilink")[特種部隊而研製和生產的](../Page/特種部隊.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")\[1\]，而主要改進的是較長的[槍管和向前的](../Page/槍管.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**MGP-15**是一款由[秘鲁槍械製造商SIMA](../Page/秘鲁.md "wikilink")-CEFAR公司為[秘鲁軍隊的](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊而研製和生產的](../Page/特種部隊.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")\[1\]，而主要改進的是較長的[槍管和向前的](../Page/槍管.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 其名稱的更改能夠反映在生產過程中的一些輕微的改動，最明顯的改動就是其槍口可以透過擰動的方式安裝[消聲器](../Page/抑制器.md "wikilink")。\[2\]
 
 ## 歷史
 
 MGP-15在1990年開始生產。\[3\]
-在裝備MGP-15後的[秘鲁](../Page/秘鲁軍隊.md "wikilink")[特種部隊後不久就開始取代](../Page/特種部隊.md "wikilink")[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning
+在裝備MGP-15後的[秘鲁](https://zh.wikipedia.org/wiki/秘鲁軍隊 "wikilink")[特種部隊後不久就開始取代](../Page/特種部隊.md "wikilink")[白朗寧大威力](../Page/白朗寧大威力手槍.md "wikilink")[手枪](../Page/手枪.md "wikilink")（Browning
 Hi-Power）。\[4\]
 
 ## 設計
 
-和整個的[MGP系列衝鋒槍一樣](../Page/MGP系列衝鋒槍.md "wikilink")，MGP-15亦能夠使用原本來自[烏茲衝鋒槍的可拆卸式](../Page/烏茲衝鋒槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")\[5\]\[6\]。此槍亦提供可裝拆的折疊式[槍托](../Page/槍托.md "wikilink")，其槍托摺疊時是沿著其[機匣的右邊折疊](../Page/機匣.md "wikilink")，摺疊後的槍托可充當[前握把使用](../Page/輔助握把.md "wikilink")。
+和整個的[MGP系列衝鋒槍一樣](../Page/MGP系列衝鋒槍.md "wikilink")，MGP-15亦能夠使用原本來自[烏茲衝鋒槍的可拆卸式](../Page/烏茲衝鋒槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")\[5\]\[6\]。此槍亦提供可裝拆的折疊式[槍托](../Page/槍托.md "wikilink")，其槍托摺疊時是沿著其[機匣的右邊折疊](https://zh.wikipedia.org/wiki/機匣 "wikilink")，摺疊後的槍托可充當[前握把使用](../Page/輔助握把.md "wikilink")。
 
 ## 衍生型
 
 ### MGP-84
 
 **MGP-84**是MGP-15的升級版本。\[7\]
-主要是適合近身保護[要人](../Page/VIP.md "wikilink")（Very
+主要是適合近身保護[要人](https://zh.wikipedia.org/wiki/VIP "wikilink")（Very
 important person）的用途。\[8\]
 
 ### MGP-14

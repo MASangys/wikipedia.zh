@@ -1,19 +1,19 @@
 **柏克萊封包過濾器**（Berkeley Packet Filter，縮寫
-BPF），是[类Unix系统上](../Page/类Unix.md "wikilink")[数据链路层的一种原始接口](../Page/数据链路层.md "wikilink")，提供原始链路层[封包的收发](../Page/封包.md "wikilink")，除此之外，如果网卡驱动支持[洪泛模式](../Page/洪泛.md "wikilink")，那么它可以让网卡处于此种模式，这样可以收到[网络上的所有包](../Page/网络.md "wikilink")，不管他们的目的地是不是所在[主机](../Page/主机.md "wikilink")。
+BPF），是[类Unix系统上](https://zh.wikipedia.org/wiki/类Unix "wikilink")[数据链路层的一种原始接口](../Page/数据链路层.md "wikilink")，提供原始链路层[封包的收发](https://zh.wikipedia.org/wiki/封包 "wikilink")，除此之外，如果网卡驱动支持[洪泛模式](https://zh.wikipedia.org/wiki/洪泛 "wikilink")，那么它可以让网卡处于此种模式，这样可以收到[网络上的所有包](https://zh.wikipedia.org/wiki/网络 "wikilink")，不管他们的目的地是不是所在[主机](https://zh.wikipedia.org/wiki/主机 "wikilink")。
 
-另外，BPF支持「过滤」封包，这样BPF会只把「感兴趣」的封包到上层软件，可以避免从[操作系统](../Page/操作系统.md "wikilink")[内核向用户态复制其他封包](../Page/内核.md "wikilink")，降低抓包的[CPU的负担以及所需的](../Page/CPU.md "wikilink")[缓冲区空间](../Page/缓冲区.md "wikilink")，从而减少丢包率。BPF的过滤功能是以BPF[虚拟机](../Page/虚拟机.md "wikilink")[机器语言的](../Page/机器语言.md "wikilink")[解释器的形式实现的](../Page/解释器.md "wikilink")，这种语言的程序可以抓取封包数据，对封包中的数据采取算术操作，并将结果与常量或封包中的数据或结果中的测试位比较，根据比较的结果决定接受还是拒绝封包。在一些平台上，包括[FreeBSD和WinPcap](../Page/FreeBSD.md "wikilink")，[即时编译技术用于把虚拟机指令转换为原始码](../Page/JIT.md "wikilink")，以进一步减少开销。
+另外，BPF支持「过滤」封包，这样BPF会只把「感兴趣」的封包到上层软件，可以避免从[操作系统](../Page/操作系统.md "wikilink")[内核向用户态复制其他封包](../Page/内核.md "wikilink")，降低抓包的[CPU的负担以及所需的](https://zh.wikipedia.org/wiki/CPU "wikilink")[缓冲区空间](https://zh.wikipedia.org/wiki/缓冲区 "wikilink")，从而减少丢包率。BPF的过滤功能是以BPF[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")[机器语言的](../Page/机器语言.md "wikilink")[解释器的形式实现的](https://zh.wikipedia.org/wiki/解释器 "wikilink")，这种语言的程序可以抓取封包数据，对封包中的数据采取算术操作，并将结果与常量或封包中的数据或结果中的测试位比较，根据比较的结果决定接受还是拒绝封包。在一些平台上，包括[FreeBSD和WinPcap](../Page/FreeBSD.md "wikilink")，[即时编译技术用于把虚拟机指令转换为原始码](https://zh.wikipedia.org/wiki/JIT "wikilink")，以进一步减少开销。
 
 在其他操作系统上，此虚拟机语言的内核态解释器也被用于原始数据链路机制，例如[Tru64
-Unix系统](../Page/Tru64_Unix.md "wikilink")，以及[Linux中的](../Page/Linux.md "wikilink")[套接字解释器](../Page/套接字.md "wikilink")，和[WinPcap封包抓取机制](../Page/WinPcap.md "wikilink")。
+Unix系统](https://zh.wikipedia.org/wiki/Tru64_Unix "wikilink")，以及[Linux中的](../Page/Linux.md "wikilink")[套接字解释器](https://zh.wikipedia.org/wiki/套接字 "wikilink")，和[WinPcap封包抓取机制](https://zh.wikipedia.org/wiki/WinPcap "wikilink")。
 
-用户态解释器由[pcap](../Page/pcap.md "wikilink")
-[API的libpcap](../Page/API.md "wikilink")/WinPcap实现提供，因此，在对此过滤机制没有内核态支持的系统上抓取封包时，封包可以在内核态过滤，使用pcap
+用户态解释器由[pcap](https://zh.wikipedia.org/wiki/pcap "wikilink")
+[API的libpcap](https://zh.wikipedia.org/wiki/API "wikilink")/WinPcap实现提供，因此，在对此过滤机制没有内核态支持的系统上抓取封包时，封包可以在内核态过滤，使用pcap
 API的代码可以工作于此两种模式；在使用用户态过滤的系统上，所有分包由内核态复制到用户态，包括将被过滤出去的封包。这种解释器也可以用于包含由pcap抓取的封包的文件。
 
 BPF有时也只表示过滤机制，而不是整个接口。
 
 BSD 内核实现例程如 `bpf_mtap()`和 `bpf_tap()`，以`BPF_MTAP()`和
-`BPF_TAP()`等[宏定义的形式进行包裹由网卡驱动](../Page/宏定义.md "wikilink")(以及伪驱动pseudo-drivers)
+`BPF_TAP()`等[宏定义的形式进行包裹由网卡驱动](https://zh.wikipedia.org/wiki/宏定义 "wikilink")(以及伪驱动pseudo-drivers)
 向BPF机制发送进出的封包。
 
 2007年，与Christian

@@ -40,9 +40,9 @@ Google地圖中。
 
 截至2016年3月6日，這項服務已在下列國家/地區啟用：
 
-[孟加拉國](../Page/孟加拉国.md "wikilink")，[白俄羅斯](../Page/白俄罗斯.md "wikilink")，[波斯尼亞](../Page/波斯尼亚.md "wikilink")，[巴西](../Page/巴西.md "wikilink")，[柬埔寨](../Page/柬埔寨.md "wikilink")，[加拿大](../Page/加拿大.md "wikilink")，[哥斯達黎加](../Page/哥斯达黎加.md "wikilink")，[克羅地亞](../Page/克罗地亚.md "wikilink")，[捷克共和國](../Page/捷克.md "wikilink")，[剛果民主共和國](../Page/刚果民主共和国.md "wikilink")，[丹麥](../Page/丹麦.md "wikilink")，[埃及](../Page/埃及.md "wikilink")，[薩爾瓦多](../Page/萨尔瓦多.md "wikilink")，[愛沙尼亞](../Page/爱沙尼亚.md "wikilink")，[法國](../Page/法国.md "wikilink")，
-[德國](../Page/德国.md "wikilink")，[匈牙利](../Page/匈牙利.md "wikilink")，[印度](../Page/印度.md "wikilink")，[伊朗](../Page/伊朗.md "wikilink")，[伊拉克](../Page/伊拉克.md "wikilink")，[意大利](../Page/意大利.md "wikilink")，[哈薩克斯坦](../Page/哈萨克斯坦.md "wikilink")，[科威特](../Page/科威特.md "wikilink")，[馬其頓](../Page/馬其頓共和國.md "wikilink")，[馬來西亞](../Page/马来西亚.md "wikilink")，[墨西哥](../Page/墨西哥.md "wikilink")，[摩爾多瓦](../Page/摩尔多瓦.md "wikilink")，[摩洛哥](../Page/摩洛哥.md "wikilink")，[尼泊爾](../Page/尼泊尔.md "wikilink")，[荷蘭](../Page/荷兰.md "wikilink")，[紐西蘭](../Page/新西兰.md "wikilink")，[尼日利亞](../Page/奈及利亞.md "wikilink")，[巴基斯坦](../Page/巴基斯坦.md "wikilink")，[巴拿馬](../Page/巴拿马.md "wikilink")，[秘魯](../Page/秘鲁.md "wikilink")，[菲律賓](../Page/菲律宾.md "wikilink")，[波蘭](../Page/波兰.md "wikilink")，
-[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")，[俄羅斯](../Page/俄罗斯.md "wikilink")，[塞爾維亞](../Page/塞尔维亚.md "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[南非](../Page/南非.md "wikilink")，[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[台灣](../Page/中華民國.md "wikilink")，[烏克蘭](../Page/乌克兰.md "wikilink")，[英國](../Page/英国.md "wikilink")，[美國](../Page/美国.md "wikilink")，[委內瑞拉和](../Page/委內瑞拉.md "wikilink")[越南](../Page/越南.md "wikilink")。\[7\]
+[孟加拉國](../Page/孟加拉国.md "wikilink")，[白俄羅斯](../Page/白俄罗斯.md "wikilink")，[波斯尼亞](https://zh.wikipedia.org/wiki/波斯尼亚 "wikilink")，[巴西](../Page/巴西.md "wikilink")，[柬埔寨](../Page/柬埔寨.md "wikilink")，[加拿大](../Page/加拿大.md "wikilink")，[哥斯達黎加](../Page/哥斯达黎加.md "wikilink")，[克羅地亞](../Page/克罗地亚.md "wikilink")，[捷克共和國](../Page/捷克.md "wikilink")，[剛果民主共和國](../Page/刚果民主共和国.md "wikilink")，[丹麥](https://zh.wikipedia.org/wiki/丹麦 "wikilink")，[埃及](../Page/埃及.md "wikilink")，[薩爾瓦多](../Page/萨尔瓦多.md "wikilink")，[愛沙尼亞](../Page/爱沙尼亚.md "wikilink")，[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")，
+[德國](../Page/德国.md "wikilink")，[匈牙利](../Page/匈牙利.md "wikilink")，[印度](../Page/印度.md "wikilink")，[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，[伊拉克](../Page/伊拉克.md "wikilink")，[意大利](../Page/意大利.md "wikilink")，[哈薩克斯坦](../Page/哈萨克斯坦.md "wikilink")，[科威特](../Page/科威特.md "wikilink")，[馬其頓](https://zh.wikipedia.org/wiki/馬其頓共和國 "wikilink")，[馬來西亞](../Page/马来西亚.md "wikilink")，[墨西哥](../Page/墨西哥.md "wikilink")，[摩爾多瓦](../Page/摩尔多瓦.md "wikilink")，[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，[尼泊爾](../Page/尼泊尔.md "wikilink")，[荷蘭](../Page/荷兰.md "wikilink")，[紐西蘭](../Page/新西兰.md "wikilink")，[尼日利亞](../Page/奈及利亞.md "wikilink")，[巴基斯坦](../Page/巴基斯坦.md "wikilink")，[巴拿馬](../Page/巴拿马.md "wikilink")，[秘魯](../Page/秘鲁.md "wikilink")，[菲律賓](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")，[波蘭](https://zh.wikipedia.org/wiki/波兰 "wikilink")，
+[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")，[俄羅斯](../Page/俄罗斯.md "wikilink")，[塞爾維亞](../Page/塞尔维亚.md "wikilink")，[斯洛伐克](../Page/斯洛伐克.md "wikilink")，[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")，[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")，[瑞典](../Page/瑞典.md "wikilink")，[台灣](../Page/中華民國.md "wikilink")，[烏克蘭](../Page/乌克兰.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英国 "wikilink")，[美國](../Page/美国.md "wikilink")，[委內瑞拉和](../Page/委內瑞拉.md "wikilink")[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")。\[7\]
 
 ### 服務中止與防止破壞措施
 
@@ -70,10 +70,12 @@ Guide）專案。\[14\]\[15\]
 
 ## 參見
 
-  - [Here Map Creator](../Page/Here_Map_Creator.md "wikilink")
-  - [Mapping Bangladesh](../Page/Mapping_Bangladesh.md "wikilink")
-  - [OpenStreetMap](../Page/OpenStreetMap.md "wikilink")
-  - [WikiMapia](../Page/WikiMapia.md "wikilink")
+  - [Here Map
+    Creator](https://zh.wikipedia.org/wiki/Here_Map_Creator "wikilink")
+  - [Mapping
+    Bangladesh](https://zh.wikipedia.org/wiki/Mapping_Bangladesh "wikilink")
+  - [OpenStreetMap](https://zh.wikipedia.org/wiki/OpenStreetMap "wikilink")
+  - [WikiMapia](https://zh.wikipedia.org/wiki/WikiMapia "wikilink")
 
 ## 資料來源
 

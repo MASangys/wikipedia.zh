@@ -1,6 +1,6 @@
 **Wessely-Moser重排反应**（Wessely-Moser rearrangement）
 
-[黄酮类](../Page/黄酮类.md "wikilink")、[氧杂蒽酮类化合物用](../Page/氧杂蒽酮.md "wikilink")[氢碘酸](../Page/氢碘酸.md "wikilink")（或[硫酸](../Page/硫酸.md "wikilink")）时，[羟基迁移](../Page/羟基.md "wikilink")，得到稳定的[异构体](../Page/异构体.md "wikilink")。\[1\]
+[黄酮类](https://zh.wikipedia.org/wiki/黄酮类 "wikilink")、[氧杂蒽酮类化合物用](../Page/氧杂蒽酮.md "wikilink")[氢碘酸](../Page/氢碘酸.md "wikilink")（或[硫酸](../Page/硫酸.md "wikilink")）时，[羟基迁移](../Page/羟基.md "wikilink")，得到稳定的[异构体](https://zh.wikipedia.org/wiki/异构体 "wikilink")。\[1\]
 各种化合物的甲[醚用氢碘酸](../Page/醚.md "wikilink")[脱甲基化时](../Page/脱甲基化.md "wikilink")，都能观察到这种[重排反应](../Page/重排反应.md "wikilink")。
 
 用于黄酮类化合物的结构测定，也用于合成。\[2\]

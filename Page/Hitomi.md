@@ -111,11 +111,11 @@
 
 ### CM
 
-  - [GUNZE](../Page/GUNZE.md "wikilink")
-  - [日本通用汽車](../Page/日本通用汽車.md "wikilink")
-  - [JACCS](../Page/JACCS.md "wikilink")
-  - [SS製藥](../Page/SS製藥.md "wikilink")
-  - [三菱電機](../Page/三菱電機.md "wikilink")
+  - [GUNZE](https://zh.wikipedia.org/wiki/GUNZE "wikilink")
+  - [日本通用汽車](https://zh.wikipedia.org/wiki/日本通用汽車 "wikilink")
+  - [JACCS](https://zh.wikipedia.org/wiki/JACCS "wikilink")
+  - [SS製藥](https://zh.wikipedia.org/wiki/SS製藥 "wikilink")
+  - [三菱電機](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")
   - [江崎固力果](../Page/江崎固力果.md "wikilink")
 
 ### 電影
@@ -134,9 +134,9 @@
 
 ## 關連項目
 
-  - [羽田昌義](../Page/羽田昌義.md "wikilink")
+  - [羽田昌義](https://zh.wikipedia.org/wiki/羽田昌義 "wikilink")
   - [小室哲哉](../Page/小室哲哉.md "wikilink")
-  - [梨花](../Page/梨花.md "wikilink")
+  - [梨花](https://zh.wikipedia.org/wiki/梨花 "wikilink")
   - [高橋尚子](../Page/高橋尚子.md "wikilink")
 
 ## 参考

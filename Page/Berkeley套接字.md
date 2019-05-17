@@ -1,14 +1,16 @@
 [InternetSocketBasicDiagram_zhtw.png](https://zh.wikipedia.org/wiki/File:InternetSocketBasicDiagram_zhtw.png "fig:InternetSocketBasicDiagram_zhtw.png")
 **伯克利套接字**（） ，又稱為**BSD
-套接字**()是一種[应用程序接口](../Page/应用程序接口.md "wikilink")（API），用於[网络套接字](../Page/网络套接字.md "wikilink")（
-socket）與[Unix域套接字](../Page/Unix域套接字.md "wikilink")，包括了一个用[C语言写成的应用程序开发库](../Page/C语言.md "wikilink")，主要用于实现[进程间通讯](../Page/进程间通讯.md "wikilink")，在[计算机网络通讯方面被广泛使用](../Page/计算机网络.md "wikilink")。
+套接字**()是一種[应用程序接口](../Page/应用程序接口.md "wikilink")（API），用於[网络套接字](https://zh.wikipedia.org/wiki/网络套接字 "wikilink")（
+socket）與[Unix域套接字](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")，包括了一个用[C语言写成的应用程序开发库](https://zh.wikipedia.org/wiki/C语言 "wikilink")，主要用于实现[进程间通讯](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")，在[计算机网络通讯方面被广泛使用](../Page/计算机网络.md "wikilink")。
 
 Berkeley套接字（也作BSD套接字应用程序接口）刚开始是4.2BSD
-Unix操作系统（于1983发布）的一套应用程序接口。然而，由于[AT\&T的专利保护着](../Page/AT&T.md "wikilink")[UNIX](../Page/UNIX操作系统.md "wikilink")，所以只有在1989年[伯克利大学才能自由地发布自己的](../Page/伯克利大学.md "wikilink")[操作系统和网络库](../Page/操作系统.md "wikilink")。
+Unix操作系统（于1983发布）的一套应用程序接口。然而，由于[AT\&T的专利保护着](../Page/AT&T.md "wikilink")[UNIX](https://zh.wikipedia.org/wiki/UNIX操作系统 "wikilink")，所以只有在1989年[伯克利大学才能自由地发布自己的](https://zh.wikipedia.org/wiki/伯克利大学 "wikilink")[操作系统和网络库](../Page/操作系统.md "wikilink")。
 
 Berkeley套接字应用程序接口形成了事实上的网络套接字的标准精髓。 大多数其他的编程语言使用与这套用C语言写成的应用程序接口\[1\]
-类似的接口。 这套应用程序接口也被用于[Unix域套接字](../Page/Unix域套接字.md "wikilink")（Unix
-domain sockets），后者可以在单机上为[进程间通讯](../Page/进程间通讯.md "wikilink")（IPC）的接口。
+类似的接口。
+这套应用程序接口也被用于[Unix域套接字](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")（Unix
+domain
+sockets），后者可以在单机上为[进程间通讯](https://zh.wikipedia.org/wiki/进程间通讯 "wikilink")（IPC）的接口。
 
 这种基于流的传输层接口（TLI）为套接字应用程序接口提供了一种选择。
 不过，最近提供TLI应用程序接口的的系统同时也提供Berkeley套接字应用程序接口。
@@ -113,13 +115,15 @@ socket() 有三个参数：
       - `AF_INET6` 表示[IPv6](../Page/IPv6.md "wikilink")
       - `AF_UNIX` 表示本地套接字（使用一个文件）
   - <var>type</var>（socket类型）如下：
-      - `SOCK_STREAM` （可靠的面向流服务或[流套接字](../Page/流套接字.md "wikilink")）
-      - `SOCK_DGRAM` （数据报文服务或者[数据报文套接字](../Page/数据报文套接字.md "wikilink")）
+      - `SOCK_STREAM`
+        （可靠的面向流服务或[流套接字](https://zh.wikipedia.org/wiki/流套接字 "wikilink")）
+      - `SOCK_DGRAM`
+        （数据报文服务或者[数据报文套接字](https://zh.wikipedia.org/wiki/数据报文套接字 "wikilink")）
       - `SOCK_SEQPACKET` （可靠的连续数据包服务）
       - `SOCK_RAW`
-        (在网络层之上自行指定运输层协议头，即[原始套接字](../Page/原始套接字.md "wikilink"))
+        (在网络层之上自行指定运输层协议头，即[原始套接字](https://zh.wikipedia.org/wiki/原始套接字 "wikilink"))
   - <var>protocol</var> 指定实际使用的传输协议。
-    最常见的就是[`IPPROTO_TCP`](../Page/传输控制协议.md "wikilink")、[`IPPROTO_SCTP`](../Page/SCTP.md "wikilink")、[`IPPROTO_UDP`](../Page/用户数据报协议.md "wikilink")、[`IPPROTO_DCCP`](../Page/DCCP.md "wikilink")。这些协议都在\<netinet/in.h\>中有详细说明。
+    最常见的就是[`IPPROTO_TCP`](../Page/传输控制协议.md "wikilink")、[`IPPROTO_SCTP`](https://zh.wikipedia.org/wiki/SCTP "wikilink")、[`IPPROTO_UDP`](../Page/用户数据报协议.md "wikilink")、[`IPPROTO_DCCP`](https://zh.wikipedia.org/wiki/DCCP "wikilink")。这些协议都在\<netinet/in.h\>中有详细说明。
     如果该项为“`0`”的话，即根据选定的domain和type选择使用缺省协议。
 
 如果发生错误，函数返回值为-1。 否则，函数会返回一个代表新分配的描述符的整数。
@@ -237,7 +241,7 @@ getpeername函数获得与指定套接口连接的远程信息（IP:PORT）。
 `gethostbyname()` 和
 `gethostbyaddr()`函数是用来解析主机名和地址的。可能会使用DNS服务或者本地主机上的其他解析机制（例如查询/etc/hosts）。返回一个指向
 <var>struct
-hostent</var>的指针，这个结构体描述一个[IP主机](../Page/IP.md "wikilink")。函数使用如下参数：
+hostent</var>的指针，这个结构体描述一个[IP主机](https://zh.wikipedia.org/wiki/IP "wikilink")。函数使用如下参数：
 
   - <var>name</var> 指定主机名。例如 www.wikipedia.org
   - <var>addr</var> 指向 <var>struct in_addr</var>的指针，包含主机的地址。
@@ -248,8 +252,9 @@ hostent</var>的指针，这个结构体描述一个[IP主机](../Page/IP.md "wi
 <var>struct hostent \*</var>。
 
 这些函数并不是伯克利套接字严格的组成部分。这些函数可能是过时了，只能处理IPv4地址。在IPv6中，替代的新函数是 [getaddrinfo()
-and getnameinfo()](../Page/getaddrinfo.md "wikilink"),
-这些新函数是基于[*addrinfo*数据结构](../Page/getaddrinfo#struct_addrinfo.md "wikilink")。参考\<Ws2tcpip.h\>。
+and
+getnameinfo()](https://zh.wikipedia.org/wiki/getaddrinfo "wikilink"),
+这些新函数是基于[*addrinfo*数据结构](https://zh.wikipedia.org/wiki/getaddrinfo#struct_addrinfo "wikilink")。参考\<Ws2tcpip.h\>。
 
   - 函数原型：
 
@@ -659,8 +664,10 @@ while True:
 
 ### 客户机
 
-用UDP数据包发送一个"[Hello World\!](../Page/Hello_World!.md "wikilink")"
-给地址127.0.0.1（[回环地址](../Page/回环地址.md "wikilink")），端口 7654 。
+用UDP数据包发送一个"[Hello
+World\!](https://zh.wikipedia.org/wiki/Hello_World! "wikilink")"
+给地址127.0.0.1（[回环地址](https://zh.wikipedia.org/wiki/回环地址 "wikilink")），端口
+7654 。
 
 ``` c
 #include <stdlib.h>
@@ -717,7 +724,7 @@ s.sendto(b'Hello World!',(host,port))
 ## 参见
 
   - [计算机网络](../Page/计算机网络.md "wikilink")
-  - [Winsock](../Page/Winsock.md "wikilink")
+  - [Winsock](https://zh.wikipedia.org/wiki/Winsock "wikilink")
 
 ## 参考资料
 
@@ -726,8 +733,9 @@ s.sendto(b'Hello World!',(host,port))
 The "de jure" standard definition of the Sockets interface is contained
 in the POSIX standard, known as:
 
-  - [IEEE](../Page/IEEE.md "wikilink") Std. 1003.1-2001 Standard for
-    Information Technology—Portable Operating System Interface (POSIX).
+  - [IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink") Std.
+    1003.1-2001 Standard for Information Technology—Portable Operating
+    System Interface (POSIX).
   - Open Group Technical Standard: Base Specifications, Issue 6,
     December 2001.
   - ISO/IEC 9945:2002
@@ -763,7 +771,8 @@ and RFC 3542.
     - 1996
   - [Linux network
     programming](http://www.linuxjournal.com/article/2333) - *[Linux
-    Journal](../Page/Linux_Journal.md "wikilink")*, 1998
+    Journal](https://zh.wikipedia.org/wiki/Linux_Journal "wikilink")*,
+    1998
 
 [Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink")
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")

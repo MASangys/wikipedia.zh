@@ -1,12 +1,12 @@
 **eD2k链接**（eD2k links (ed2k://)
-）是一种超链接，用于指示在[eDonkey网络上存储的文件](../Page/eDonkey网络.md "wikilink")。包括[eDonkey2000](../Page/eDonkey2000.md "wikilink")、[eMule](../Page/eMule.md "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[aMule等在内的许多使用了eDonkey文件共享协议的客户端软件](../Page/aMule.md "wikilink")，都可以用eD2k链接来管理网络上的文件。
+）是一种超链接，用于指示在[eDonkey网络上存储的文件](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")。包括[eDonkey2000](https://zh.wikipedia.org/wiki/eDonkey2000 "wikilink")、[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")、[MLDonkey](../Page/MLDonkey.md "wikilink")、[aMule等在内的许多使用了eDonkey文件共享协议的客户端软件](https://zh.wikipedia.org/wiki/aMule "wikilink")，都可以用eD2k链接来管理网络上的文件。
 
-浏览器可以识别eD2k链接，并递交到eMule、eDonkey2000或其他的eD2k软件中进行传输。eD2k链接是最早被引入P2P文件网络的链接之一。[Magnet链接现在也与eD](../Page/Magnet链接.md "wikilink")2k链接类似，但Magnet链接不仅限于[eD2k
-Hash](../Page/#eD2k_Hash.md "wikilink")，而是可以使用其他的[Hash](../Page/散列函数.md "wikilink")，诸如[SHA或](../Page/SHA_家族.md "wikilink")[MD5等](../Page/MD5.md "wikilink")。
+浏览器可以识别eD2k链接，并递交到eMule、eDonkey2000或其他的eD2k软件中进行传输。eD2k链接是最早被引入P2P文件网络的链接之一。[Magnet链接现在也与eD](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")2k链接类似，但Magnet链接不仅限于[eD2k
+Hash](https://zh.wikipedia.org/wiki/#eD2k_Hash "wikilink")，而是可以使用其他的[Hash](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，诸如[SHA或](https://zh.wikipedia.org/wiki/SHA_家族 "wikilink")[MD5等](../Page/MD5.md "wikilink")。
 
-这些Hash码，主要用于确保相同的文件在网络上具有的相同的唯一标识，即使这些文件储存在不同的地方或拥有不同的名字。它通过使用该文件的Hash函数（[散列函数](../Page/散列函数.md "wikilink")）来计算其[校验和](../Page/校验和.md "wikilink")。
+这些Hash码，主要用于确保相同的文件在网络上具有的相同的唯一标识，即使这些文件储存在不同的地方或拥有不同的名字。它通过使用该文件的Hash函数（[散列函数](https://zh.wikipedia.org/wiki/散列函数 "wikilink")）来计算其[校验和](https://zh.wikipedia.org/wiki/校验和 "wikilink")。
 
-eD2k链接和很多[URI协议一样](../Page/URI.md "wikilink")，可以被网络浏览器配置为自动关联处理。安装某些eD2k软件时，“ed2k://”协议可能被自动注册。于是在浏览器中点击文件的eD2k链接时，就能自动打开eD2k软件并进行此文件的下载。
+eD2k链接和很多[URI协议一样](https://zh.wikipedia.org/wiki/URI "wikilink")，可以被网络浏览器配置为自动关联处理。安装某些eD2k软件时，“ed2k://”协议可能被自动注册。于是在浏览器中点击文件的eD2k链接时，就能自动打开eD2k软件并进行此文件的下载。
 
 ## 链接格式
 
@@ -19,7 +19,7 @@ eD2k链接的大致格式形如：
 
 注释：
 
-  - <ed2k://：协议处理方法。指明该协议是>[eD2k协议](../Page/eD2k协议.md "wikilink")。
+  - <ed2k://：协议处理方法。指明该协议是>[eD2k协议](https://zh.wikipedia.org/wiki/eD2k协议 "wikilink")。
   - <类型>：链接类型。有三种：file（文件）、server（服务器）、serverlist（服务器列表）。
   - <其他信息>：具体的其他信息。
 
@@ -130,30 +130,31 @@ Kad节点列表链接，用于从一个固定的HTTP地址添加nodes.dat Kad节
   -
     **[ed2k://|friend](ed2k://%7Cfriend)|<用户名>|<用户Hash>|/**
 
-官方eMule不支持eD2k好友链接添加好友功能，仅[Xtreme及Xtreme的Mods](../Page/eMule_Xtreme_Mod.md "wikilink")（如[ScarAngel](../Page/eMule_ScarAngel_Mod.md "wikilink")、[Mephisto等](../Page/eMule_Mephisto_Mod.md "wikilink")）、[CN
-Mod等部分](../Page/eMule_CN_Mod.md "wikilink")[eMule
-Mods支持此功能](../Page/eMule_Mods.md "wikilink")。
+官方eMule不支持eD2k好友链接添加好友功能，仅[Xtreme及Xtreme的Mods](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")（如[ScarAngel](https://zh.wikipedia.org/wiki/eMule_ScarAngel_Mod "wikilink")、[Mephisto等](https://zh.wikipedia.org/wiki/eMule_Mephisto_Mod "wikilink")）、[CN
+Mod等部分](https://zh.wikipedia.org/wiki/eMule_CN_Mod "wikilink")[eMule
+Mods支持此功能](https://zh.wikipedia.org/wiki/eMule_Mods "wikilink")。
 
 ## eD2k Hash
 
 eD2k Hash 算法是一种MD4算法的变体。其函数是一个MD4 Hash列表（MD4 Hash
-List）的[MD4根Hash](../Page/MD4.md "wikilink")，但与MD4 Hash的结果不同:
+List）的[MD4根Hash](https://zh.wikipedia.org/wiki/MD4 "wikilink")，但与MD4
+Hash的结果不同:
 
-文件数据被分割成多个9500[KB的](../Page/KB.md "wikilink")*chunks*块（9728000字节或大约9.28MB）和剩余的一个chunk。每个chunk都要计算**128-bit
+文件数据被分割成多个9500[KB的](https://zh.wikipedia.org/wiki/KB "wikilink")*chunks*块（9728000字节或大约9.28MB）和剩余的一个chunk。每个chunk都要计算**128-bit
 MD4
-[校验和](../Page/校验和.md "wikilink")**。如果文件长度正好是9500KB的整倍数，剩余的大小为0的chunk依然存在于Hash列表的末尾。将这些chunk的MD4校验和按顺序联合起来，并使用MD4计算Hash，可得到eD2k
+[校验和](https://zh.wikipedia.org/wiki/校验和 "wikilink")**。如果文件长度正好是9500KB的整倍数，剩余的大小为0的chunk依然存在于Hash列表的末尾。将这些chunk的MD4校验和按顺序联合起来，并使用MD4计算Hash，可得到eD2k
 Hash。对于仅由一个chunk组成的文件（即文件大小小于9500KB），MD4和eD2k Hash是完全相同的。\[5\]
 
 这种方法可以直接将Hash列表与原eD2k Hash进行验证，而无需使用文件块来验证。
 
 ## 参见
 
-  - [MD4](../Page/MD4.md "wikilink")
-  - [散列函数](../Page/散列函数.md "wikilink")
-  - [校验和](../Page/校验和.md "wikilink")
-  - [Magnet链接](../Page/Magnet链接.md "wikilink")
-  - [URI](../Page/URI.md "wikilink")
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
+  - [MD4](https://zh.wikipedia.org/wiki/MD4 "wikilink")
+  - [散列函数](https://zh.wikipedia.org/wiki/散列函数 "wikilink")
+  - [校验和](https://zh.wikipedia.org/wiki/校验和 "wikilink")
+  - [Magnet链接](https://zh.wikipedia.org/wiki/Magnet链接 "wikilink")
+  - [URI](https://zh.wikipedia.org/wiki/URI "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
 
 ## 注釋
 
@@ -180,5 +181,5 @@ Hash。对于仅由一个chunk组成的文件（即文件大小小于9500KB）�
 2.  <http://www.emule-project.net/home/perl/help.cgi?l=1&rm=show_topic&topic_id=422>
 3.
 4.  <http://emulefans.com/emule-kad-node-dat/>
-5.  根据[eMule源代码](../Page/eMule.md "wikilink")，method
+5.  根据[eMule源代码](https://zh.wikipedia.org/wiki/eMule "wikilink")，method
     CKnownFile::CreateFromFile。

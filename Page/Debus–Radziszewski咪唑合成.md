@@ -1,7 +1,7 @@
 **Debus–Radziszewski咪唑合成**（Debus–Radziszewski imidazole synthesis）
 
-以[二酮](../Page/二酮.md "wikilink")、[醛和](../Page/醛.md "wikilink")[氨为原料合成](../Page/氨.md "wikilink")[咪唑](../Page/咪唑.md "wikilink")[衍生物](../Page/衍生物.md "wikilink")。
-反应中首先是二酮与氨失水[缩合为二元](../Page/缩合.md "wikilink")[亚胺](../Page/亚胺.md "wikilink")，
+以[二酮](../Page/二酮.md "wikilink")、[醛和](../Page/醛.md "wikilink")[氨为原料合成](../Page/氨.md "wikilink")[咪唑](../Page/咪唑.md "wikilink")[衍生物](https://zh.wikipedia.org/wiki/衍生物 "wikilink")。
+反应中首先是二酮与氨失水[缩合为二元](https://zh.wikipedia.org/wiki/缩合 "wikilink")[亚胺](../Page/亚胺.md "wikilink")，
 
 
 [Radziszewski-Synthese_2.svg](https://zh.wikipedia.org/wiki/File:Radziszewski-Synthese_2.svg "fig:Radziszewski-Synthese_2.svg")

@@ -1,4 +1,4 @@
-**有限公司Vi-vo**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於2002年3月\[2\]。「Vi-vo」這個公司的由來是[西班牙語中代表](../Page/西班牙語.md "wikilink")「**鮮明華麗，明朗活潑**」\[3\]的意思\[4\]。主要的創立人員是聲優[屋良有作和](../Page/屋良有作.md "wikilink")[石井康嗣](../Page/石井康嗣.md "wikilink")。代表董事是屋良有作。
+**有限公司Vi-vo**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於2002年3月\[2\]。「Vi-vo」這個公司的由來是[西班牙語中代表](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")「**鮮明華麗，明朗活潑**」\[3\]的意思\[4\]。主要的創立人員是聲優[屋良有作和](../Page/屋良有作.md "wikilink")[石井康嗣](../Page/石井康嗣.md "wikilink")。代表董事是屋良有作。
 
 ## 所属聲優
 
@@ -36,7 +36,7 @@
 
   - （業務提攜）
 
-  - [清水茉菜](../Page/清水茉菜.md "wikilink")
+  - [清水茉菜](https://zh.wikipedia.org/wiki/清水茉菜 "wikilink")
 
   - [新谷良子](../Page/新谷良子.md "wikilink")
 
@@ -86,7 +86,7 @@
   - 土方淳子
 
   - [葉山郁美](../Page/葉山郁美.md "wikilink")（現所屬：[CLARE
-    VOICE](../Page/CLARE_VOICE.md "wikilink")）
+    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")）
 
   - （現所屬：Aksent）
 

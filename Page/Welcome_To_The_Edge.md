@@ -1,5 +1,5 @@
 **Welcome To The
-Edge**是一首由[美國](../Page/美國.md "wikilink")[艾美音樂獎提名的](../Page/艾美音樂獎.md "wikilink")，美國[作詞家和](../Page/作詞家.md "wikilink")[唱片製作人](../Page/唱片製作人.md "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")(Roxanne
+Edge**是一首由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾美音樂獎提名的](https://zh.wikipedia.org/wiki/艾美音樂獎 "wikilink")，美國[作詞家和](https://zh.wikipedia.org/wiki/作詞家 "wikilink")[唱片製作人](https://zh.wikipedia.org/wiki/唱片製作人 "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")(Roxanne
 Seeman)，Dominic Messinger，和創作型[歌手Billie](../Page/歌手.md "wikilink")
 Hughes所製作的歌曲。“Welcome To The Edge”由Billie
 Hughes所錄製，後來日本音樂榜第一名。同時間“Welcome
@@ -31,11 +31,11 @@ position</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Japan <a href="../Page/Billboard.md" title="wikilink">Billboard</a></p></td>
+<td><p>Japan <a href="https://zh.wikipedia.org/wiki/Billboard" title="wikilink">Billboard</a></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p>Japan <a href="../Page/Original_Confidence.md" title="wikilink">Original Confidence</a></p></td>
+<td><p>Japan <a href="https://zh.wikipedia.org/wiki/Original_Confidence" title="wikilink">Original Confidence</a></p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>
@@ -43,10 +43,11 @@ position</p></th>
 
 ## 日本版本和專輯發行
 
-  - [The Nolans](../Page/The_Nolans.md "wikilink")
+  - [The Nolans](https://zh.wikipedia.org/wiki/The_Nolans "wikilink")
   - Mie Yamamoto
   - Bon Chic
-  - [Bill Champlin](../Page/Bill_Champlin.md "wikilink")
+  - [Bill
+    Champlin](https://zh.wikipedia.org/wiki/Bill_Champlin "wikilink")
   - Jennifer
   - Crystal Poem Orchestra
   - Dr. Zivago

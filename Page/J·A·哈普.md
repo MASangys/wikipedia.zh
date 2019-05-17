@@ -1,6 +1,6 @@
 **J·A·哈普**（James Anthony "J. A."
-Happ）出生於1982年10月19日，出生地為[伊利諾州的Spring](../Page/伊利諾州.md "wikilink")
-Valley，現為[紐約洋基的](../Page/紐約洋基.md "wikilink")[先發投手](../Page/先發投手.md "wikilink")。
+Happ）出生於1982年10月19日，出生地為[伊利諾州的Spring](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")
+Valley，現為[紐約洋基的](../Page/紐約洋基.md "wikilink")[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
 
 ## 職業生涯
 
@@ -14,7 +14,7 @@ Valley，現為[紐約洋基的](../Page/紐約洋基.md "wikilink")[先發投�
   - 2008年，哈普是在3A開始，一直到7月1日因Brett
     Myers成績不理想，被送至小聯盟，哈普才在7月3日升上大聯盟\[3\]，代替Brett
     Myers成為球隊的先發投手\[4\]，但在8月8日又再度被送回小聯盟，一直到9月1日才再度升上大聯盟。9月17日哈普先發對[亞特蘭大勇士隊](../Page/亞特蘭大勇士.md "wikilink")，主投6局被打3支安打0失分，順利拿下個人大聯盟生涯的第1勝。
-  - 2009年球季，哈普雖然在25人名單中，但是球隊將其定位為擔任[救援投手的工作](../Page/救援投手.md "wikilink")，至到本季才到費城人隊的先發投手[朴贊浩表現不理想](../Page/朴贊浩.md "wikilink")，才將哈普轉為先發投手。而今年球季擔任第一場先發為5月23日面對[紐約洋基隊](../Page/紐約洋基.md "wikilink")，主投6局被打4支安打失2分，原本有勝投的機會，但被球隊終結者[布萊德·李吉搞砸勝投](../Page/布萊德·李吉.md "wikilink")，李吉也被洋基隊打出再見安打，球隊最後以4：5輸球。6月27日哈普對[多倫多藍鳥隊投出](../Page/多倫多藍鳥.md "wikilink")[完投](../Page/完投.md "wikilink")[完封勝的比賽](../Page/完封.md "wikilink")，為本季個人的代表作。
+  - 2009年球季，哈普雖然在25人名單中，但是球隊將其定位為擔任[救援投手的工作](https://zh.wikipedia.org/wiki/救援投手 "wikilink")，至到本季才到費城人隊的先發投手[朴贊浩表現不理想](../Page/朴贊浩.md "wikilink")，才將哈普轉為先發投手。而今年球季擔任第一場先發為5月23日面對[紐約洋基隊](../Page/紐約洋基.md "wikilink")，主投6局被打4支安打失2分，原本有勝投的機會，但被球隊終結者[布萊德·李吉搞砸勝投](../Page/布萊德·李吉.md "wikilink")，李吉也被洋基隊打出再見安打，球隊最後以4：5輸球。6月27日哈普對[多倫多藍鳥隊投出](../Page/多倫多藍鳥.md "wikilink")[完投](https://zh.wikipedia.org/wiki/完投 "wikilink")[完封勝的比賽](https://zh.wikipedia.org/wiki/完封 "wikilink")，為本季個人的代表作。
   - 2010年7月29日，[費城費城人以哈普和](../Page/費城費城人.md "wikilink")2位小聯盟球員（中外野手Anthony
     Gose和游擊手Jonathan
     Villar）向[休士頓太空人交易](../Page/休士頓太空人.md "wikilink")[洛伊·奧斯華](../Page/洛伊·奧斯華.md "wikilink")\[5\]\[6\]。

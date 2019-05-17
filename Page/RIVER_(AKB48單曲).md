@@ -1,47 +1,49 @@
 《**RIVER**》是[AKB48的第](../Page/AKB48.md "wikilink")14张单曲\[1\]。通常盘与剧场盘两种式样分别由[You，Be
-Cool\!/KING RECORDS与NEW](../Page/King_Records.md "wikilink") KING
-RECORDS在2009年10月21日发售。中心成員由高橋南、前田敦子擔當。
+Cool\!/KING
+RECORDS与NEW](https://zh.wikipedia.org/wiki/King_Records "wikilink")
+KING RECORDS在2009年10月21日发售。中心成員由高橋南、前田敦子擔當。
 
 ## 概要
 
 在于2009年9月13日进行的[AKB48
-夏之猴大婶祭](../Page/AKB48_夏之猴大婶祭.md "wikilink")（地点为[富士急高原乐园Sound](../Page/富士急高原乐园.md "wikilink")
+夏之猴大婶祭](https://zh.wikipedia.org/wiki/AKB48_夏之猴大婶祭 "wikilink")（地点为[富士急高原乐园Sound](https://zh.wikipedia.org/wiki/富士急高原乐园 "wikilink")
 Conifer
 229）中首次对外披露。全体均为前作的选拔组成员。由于本作的选拔组由前作的21人减为16人，故前作选拔组中佐藤亜美菜、佐藤由加理、浦野一美、多田愛佳与倉持明日香落选。但除了兼任[SDN48成员的浦野与佐藤由加理之外的](../Page/SDN48.md "wikilink")3人均被选入了Under
 Girls。除兼任[SDN48成员的](../Page/SDN48.md "wikilink")[佐藤由加理](../Page/佐藤由加理.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")、[小原春香以及](../Page/小原春香.md "wikilink")8期、9期研究生之外的全体AKB48成员均参加了CD的录制。
 
-單曲分為通常盤・劇場盤。继前作《[Maybe是借口](../Page/Maybe是借口.md "wikilink")》之后，再次结成“**Under
+單曲分為通常盤・劇場盤。继前作《[Maybe是借口](https://zh.wikipedia.org/wiki/Maybe是借口 "wikilink")》之后，再次结成“**Under
 Girls**”，演唱B面单曲《因为喜欢你》（）。同时，新结成“**Theater Girls**”，演唱《飞机云》（）。
 
 在CD发售之前，自2009年10月7日起由来电铃声进行了先行音樂下載。自2009年10月14日21时起在[King
-Records官方网站上进行了](../Page/King_Records.md "wikilink")[PV的](../Page/音乐影片.md "wikilink")24小时限时先行音樂下載。
+Records官方网站上进行了](https://zh.wikipedia.org/wiki/King_Records "wikilink")[PV的](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")24小时限时先行音樂下載。
 
-PV的导演继《[大声钻石](../Page/大声钻石.md "wikilink")》、《[10年樱](../Page/10年樱.md "wikilink")》、《[驚喜之淚！](../Page/驚喜之淚！.md "wikilink")》及《[Maybe是借口](../Page/Maybe是借口.md "wikilink")》之后，继续由[高橋榮樹担任](../Page/高橋榮樹.md "wikilink")。外景拍摄是在[航空自卫队入间基地](../Page/航空自卫队.md "wikilink")
+PV的导演继《[大声钻石](../Page/大声钻石.md "wikilink")》、《[10年樱](https://zh.wikipedia.org/wiki/10年樱 "wikilink")》、《[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")》及《[Maybe是借口](https://zh.wikipedia.org/wiki/Maybe是借口 "wikilink")》之后，继续由[高橋榮樹担任](../Page/高橋榮樹.md "wikilink")。外景拍摄是在[航空自卫队入间基地](https://zh.wikipedia.org/wiki/航空自卫队 "wikilink")
 入间直升机空中运输队的协助下，利用该队的仓库以及直升机等进行的。
 
 通常盘中，除附带了全国握手会参加券之外，还附带了用于2010年1月21日 - 1月24日举行的“[AKB48 重温时间 最佳曲目100
 2010](../Page/AKB48_重温时间_最佳曲目100_2010.md "wikilink")”（通称：AX2010）之乐曲投票券。
 
-[广告标语为](../Page/广告标语.md "wikilink")“梦想就在对岸。”（）
+[广告标语为](https://zh.wikipedia.org/wiki/广告标语 "wikilink")“梦想就在对岸。”（）
 
 自《[大声钻石](../Page/大声钻石.md "wikilink")》起至本作为止，连续5作单曲均由提供乐曲\[2\]。
 
-在于2010年6月5日公映的电影《[告白](../Page/告白_\(湊佳苗\).md "wikilink")》中作为了场景的插入歌曲\[3\]。同片之原声集CD中亦收录了本作。
+在于2010年6月5日公映的电影《[告白](https://zh.wikipedia.org/wiki/告白_\(湊佳苗\) "wikilink")》中作为了场景的插入歌曲\[3\]。同片之原声集CD中亦收录了本作。
 
-AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超越[YUI的](../Page/YUI_\(艺人\).md "wikilink")《[again](../Page/Again_\(YUI单曲\).md "wikilink")》，更新了2009年发售的女性艺人单曲销售量最高纪录。仅初动销售量即超越了此前AKB48任何一张单曲的累计销售量，更新了自身的最高销量纪录\[4\]。
+AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超越[YUI的](https://zh.wikipedia.org/wiki/YUI_\(艺人\) "wikilink")《[again](https://zh.wikipedia.org/wiki/Again_\(YUI单曲\) "wikilink")》，更新了2009年发售的女性艺人单曲销售量最高纪录。仅初动销售量即超越了此前AKB48任何一张单曲的累计销售量，更新了自身的最高销量纪录\[4\]。
 
 ## 媒體使用
 
 **RIVER**
 
-  - [东京电视台系](../Page/东京电视台.md "wikilink")《[周刊AKB](../Page/周刊AKB.md "wikilink")》片尾主题歌
+  - [东京电视台系](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")《[周刊AKB](https://zh.wikipedia.org/wiki/周刊AKB "wikilink")》片尾主题歌
   - CS《[AKB48ネ申TV Season3](../Page/AKB48神TV.md "wikilink")》﹑《AKB48ネ申TV
     Special 2009》片头主题歌
-  - 电影《[告白](../Page/告白_\(湊佳苗\).md "wikilink")》插入曲
+  - 电影《[告白](https://zh.wikipedia.org/wiki/告白_\(湊佳苗\) "wikilink")》插入曲
 
 **因为喜欢你**
 
-  - [Takara Tomy](../Page/Takara_Tomy.md "wikilink")《斗真传》广告歌曲
+  - [Takara
+    Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")《斗真传》广告歌曲
 
 ## 收录曲目
 
@@ -52,7 +54,7 @@ AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超
         作词：[秋元康](../Page/秋元康.md "wikilink")，作曲﹑编曲：
 2.  《因为喜欢你》（）\[4:08\]
       -
-        作词：秋元康，作曲：[织田哲郎](../Page/织田哲郎.md "wikilink")，编曲：野中“まさ”雄一
+        作词：秋元康，作曲：[织田哲郎](https://zh.wikipedia.org/wiki/织田哲郎 "wikilink")，编曲：野中“まさ”雄一
 3.  《飞机云》（）\[4:03\]
       -
         作词：秋元康，作曲：成濑英树，编曲：野中“まさ”雄一）
@@ -93,7 +95,7 @@ AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超
 
 <!-- end list -->
 
-  - 个別握手会参加券（[东京国际展示场](../Page/东京国际展示场.md "wikilink")﹑[SKE48剧场](../Page/SUNSHINE_SAKAE.md "wikilink")）
+  - 个別握手会参加券（[东京国际展示场](https://zh.wikipedia.org/wiki/东京国际展示场 "wikilink")﹑[SKE48剧场](../Page/SUNSHINE_SAKAE.md "wikilink")）
   - 特别公演（8﹑9期生公演・卡拉OK大会・AKB总会）观看抽签券
   - 各种成员生写真1枚（随机）
 
@@ -125,13 +127,13 @@ AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超
 （中心成員：高城亚树）
 
   - Team
-    A：**[佐藤亚美菜](../Page/佐藤亚美菜.md "wikilink")**、**[高城亚树](../Page/高城亚树.md "wikilink")**、[藤江麗奈](../Page/藤江麗奈.md "wikilink")
+    A：**[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")**、**[高城亚树](https://zh.wikipedia.org/wiki/高城亚树 "wikilink")**、[藤江麗奈](../Page/藤江麗奈.md "wikilink")
   - Team
     K：[奧真奈美](../Page/奧真奈美.md "wikilink")、**[倉持明日香](../Page/倉持明日香.md "wikilink")**
   - Team
-    B：[多田愛佳](../Page/多田愛佳.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、**[指原莉乃](../Page/指原莉乃.md "wikilink")**、[仲川遙香](../Page/仲川遙香.md "wikilink")、**[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")**
+    B：[多田愛佳](../Page/多田愛佳.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、**[指原莉乃](../Page/指原莉乃.md "wikilink")**、[仲川遙香](https://zh.wikipedia.org/wiki/仲川遙香 "wikilink")、**[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")**
   - Team
-    研究生：[石田晴香](../Page/石田晴香.md "wikilink")、[菊地彩香](../Page/菊地彩香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[前田亚美](../Page/前田亚美.md "wikilink")
+    研究生：[石田晴香](../Page/石田晴香.md "wikilink")、[菊地彩香](../Page/菊地彩香.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[前田亚美](https://zh.wikipedia.org/wiki/前田亚美 "wikilink")
   - SKE48 Team S：**[松井玲奈](../Page/松井玲奈.md "wikilink")**
 
 <!-- end list -->
@@ -142,7 +144,7 @@ AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超
     菊地是自《[Baby\! Baby\!
     Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》以来首次参加CD录制。
     在于2010年1月进行的“[AKB48 重溫時間 最佳曲目100
-    2010](../Page/AKB48_重溫時間_最佳曲目100_2010.md "wikilink")”中获得第二名，超过了本作A面《RIVER》第5名的成绩。
+    2010](https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目100_2010 "wikilink")”中获得第二名，超过了本作A面《RIVER》第5名的成绩。
 
 ### 飞机云
 
@@ -152,17 +154,17 @@ AKB48以本作首次夺得Oricon公信榜周榜第一名。初动销售数字超
 
   - Team A：[中田千智](../Page/中田千智.md "wikilink")
   - Team
-    K：[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[增田有华](../Page/增田有华.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
+    K：[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[增田有华](https://zh.wikipedia.org/wiki/增田有华 "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
   - Team
-    B：[田名部生來](../Page/田名部生來.md "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[米澤瑠美](../Page/米澤瑠美.md "wikilink")
+    B：[田名部生來](https://zh.wikipedia.org/wiki/田名部生來 "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[平嶋夏海](../Page/平嶋夏海.md "wikilink")、[米澤瑠美](../Page/米澤瑠美.md "wikilink")
   - Team
-    研究生：[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内田真由美](../Page/内田真由美.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[野中美乡](../Page/野中美乡.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")
+    研究生：[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内田真由美](https://zh.wikipedia.org/wiki/内田真由美 "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[野中美乡](https://zh.wikipedia.org/wiki/野中美乡 "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")
 
 <!-- end list -->
 
   -
     原为[Team A 5th
-    Stage「恋愛禁止条例」公演曲目](../Page/Team_A_5th_Stage「恋愛禁止条例」.md "wikilink")。
+    Stage「恋愛禁止条例」公演曲目](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」 "wikilink")。
 
 ## 脚注
 

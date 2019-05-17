@@ -1,5 +1,5 @@
 《**Macross Dynamite 7**》（）1997年～1998年間發佈的全4話的OVA。描寫[超时空要塞
-7最終大戰結束的一年後](../Page/超时空要塞_7.md "wikilink")。
+7最終大戰結束的一年後](https://zh.wikipedia.org/wiki/超时空要塞_7 "wikilink")。
 
 ## 簡介
 

@@ -1,5 +1,5 @@
 **Spot
-Image**是一个由[法国航天局](../Page/法国航天局.md "wikilink")、国家地理研究所和航天制造商（Matra、Alcatel、SSC等等）创建于1982年的[股份有限公司](../Page/股份有限公司.md "wikilink")。是EADS
+Image**是一个由[法国航天局](https://zh.wikipedia.org/wiki/法国航天局 "wikilink")、国家地理研究所和航天制造商（Matra、Alcatel、SSC等等）创建于1982年的[股份有限公司](../Page/股份有限公司.md "wikilink")。是EADS
 Astrium的子公司（81%）。这个公司运营SPOT地球观测卫星卫星。
 
 ## 网络和合作伙伴
@@ -17,7 +17,7 @@ Spot Image与ESA的GMES计划合作，共享带OGC的地理信息，并且贡献
 
 [Spot-5.jpg](https://zh.wikipedia.org/wiki/File:Spot-5.jpg "fig:Spot-5.jpg")
 3颗SPOT卫星在轨（Spot 2, 4 and 5）提供图像，有多种选择–从2.5米到1千米。Spot
-Image也从其他光学卫星分发多分辨率数据，尤其是拥有中华民国的[福卫二号卫星和南韩的Kompsat](../Page/福卫二号.md "wikilink")-2卫星的独家经销权。还有从雷达卫星（TerraSar-X,
+Image也从其他光学卫星分发多分辨率数据，尤其是拥有中华民国的[福卫二号卫星和南韩的Kompsat](https://zh.wikipedia.org/wiki/福卫二号 "wikilink")-2卫星的独家经销权。还有从雷达卫星（TerraSar-X,
 ERS, Envisat, Radarsat）。Spot
 Image将拥有高分辨率卫星Pleiades的独家分销权。计划在2010年年初首次发射。该公司还提供基础设施接收和处理以及增值选择。
 
@@ -62,12 +62,12 @@ Spot Image提供的工具
 
 ## 参看
 
-  - [SPOT (卫星)](../Page/SPOT_\(卫星\).md "wikilink")
+  - [SPOT (卫星)](https://zh.wikipedia.org/wiki/SPOT_\(卫星\) "wikilink")
 
 ### 近似条目
 
-  - [CNES](../Page/CNES.md "wikilink")
-  - [EADS](../Page/EADS.md "wikilink")
+  - [CNES](https://zh.wikipedia.org/wiki/CNES "wikilink")
+  - [EADS](https://zh.wikipedia.org/wiki/EADS "wikilink")
 
 ### 链接和外部文档
 

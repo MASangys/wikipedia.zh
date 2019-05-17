@@ -1,6 +1,6 @@
-**rekonq**是一個輕量級、基於[Qt](../Page/Qt.md "wikilink")[WebKit的](../Page/WebKit.md "wikilink")[网页瀏覽器](../Page/网页瀏覽器.md "wikilink")。它被整合到[KDE桌面系统](../Page/KDE.md "wikilink")，是[Kubuntu](../Page/Kubuntu.md "wikilink")10.10（及更新版本）\[1\]\[2\]以及[Chakra
-GNU/Linux](../Page/Chakra_GNU/Linux.md "wikilink")\[3\]\[4\]的預設網路瀏覽器。rekonq在2010年5月25日被列入KDE
-[Extragear裡](../Page/Extragear.md "wikilink")\[5\]。相對於[Konqueror](../Page/Konqueror.md "wikilink")，一個已經作為KDE很多年主要的網路瀏覽器，rekonq的目標是一的獨立的、易於使用的網路瀏覽器。其代碼是最初是基於[Qt發展框架的QtDemoBrowser](../Page/Qt發展框架.md "wikilink")，而現在在KDE專案的[Git套件庫上進行開發](../Page/Git.md "wikilink")\[6\]。
+**rekonq**是一個輕量級、基於[Qt](../Page/Qt.md "wikilink")[WebKit的](../Page/WebKit.md "wikilink")[网页瀏覽器](https://zh.wikipedia.org/wiki/网页瀏覽器 "wikilink")。它被整合到[KDE桌面系统](../Page/KDE.md "wikilink")，是[Kubuntu](../Page/Kubuntu.md "wikilink")10.10（及更新版本）\[1\]\[2\]以及[Chakra
+GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")\[3\]\[4\]的預設網路瀏覽器。rekonq在2010年5月25日被列入KDE
+[Extragear裡](../Page/Extragear.md "wikilink")\[5\]。相對於[Konqueror](../Page/Konqueror.md "wikilink")，一個已經作為KDE很多年主要的網路瀏覽器，rekonq的目標是一的獨立的、易於使用的網路瀏覽器。其代碼是最初是基於[Qt發展框架的QtDemoBrowser](https://zh.wikipedia.org/wiki/Qt發展框架 "wikilink")，而現在在KDE專案的[Git套件庫上進行開發](../Page/Git.md "wikilink")\[6\]。
 
 ## 特色
 
@@ -9,7 +9,7 @@ GNU/Linux](../Page/Chakra_GNU/Linux.md "wikilink")\[3\]\[4\]的預設網路瀏�
 
 rekonq包括分頁瀏覽、書籤、彈出窗口攔截器、KDE鍵盤網絡快捷鍵支持、支持搜索引擎如Wikipedia或Google、獨立的URL加載欄、proxy支持等。
 
-可以通過KDE下載系統下載文件、和[Konqueror共享書籤](../Page/Konqueror.md "wikilink")、[KIO支持](../Page/KIO.md "wikilink")。
+可以通過KDE下載系統下載文件、和[Konqueror共享書籤](../Page/Konqueror.md "wikilink")、[KIO支持](https://zh.wikipedia.org/wiki/KIO "wikilink")。
 
 ## 註釋
 
@@ -17,7 +17,7 @@ rekonq包括分頁瀏覽、書籤、彈出窗口攔截器、KDE鍵盤網絡快�
 
   - [Arora](../Page/Arora.md "wikilink")
   - [Konqueror](../Page/Konqueror.md "wikilink")
-  - [網頁瀏覽器比較](../Page/網頁瀏覽器比較.md "wikilink")
+  - [網頁瀏覽器比較](https://zh.wikipedia.org/wiki/網頁瀏覽器比較 "wikilink")
 
 ## 外部連結
 

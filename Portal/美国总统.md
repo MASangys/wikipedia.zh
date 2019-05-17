@@ -1,0 +1,53 @@
+__NOTOC__
+
+<div align="center">
+
+</div>
+
+<div style="margin: 0; text-align: center;">
+
+**美利坚合众国总统
+The President of the United States of America**</br>
+
+</div>
+
+
+{{/box-header|美国总统主题|Portal:美国总统/简介|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:left; width:60%;">
+
+{{/box-header|特色条目|Portal:美国总统/特色条目|}}  {{/box-footer|}}
+
+{{/box-header|特色图片|Portal:美国总统/特色图片|}}  {{/box-footer|}}
+
+{{/box-header|你知道吗|Portal:美国总统/你知道吗|}}  {{/box-footer|}}
+
+{{/box-header|总统官邸|Portal:美国总统/总统官邸|}}  {{/box-footer|}}
+
+{{/box-header|第一夫人|Portal:美国总统/第一夫人|}}  {{/box-footer|}}
+
+\[ 刷新\]
+
+</div>
+
+<div style="float:right; width:39%">
+
+{{/box-header|美国总统新闻|Portal:美国总统/美国总统新闻|}}  {{/box-footer|}}
+
+{{/box-header|欢迎参与|Portal:美国总统/欢迎参与|}}  {{/box-footer|}}
+
+{{/box-header|文章请求|Portal:美国总统/文章请求|}}  {{/box-footer|}}
+
+{{/box-header|特别关注|Portal:美国总统/特别关注|}}  {{/box-footer|}}
+
+{{/box-header|相关地点|Portal:美国总统/相关地点|}}  {{/box-footer|}}
+
+</div>
+
+<div style="float:right; width:100%">
+
+{{/box-header|维基主题|template:portals|}}  {{/box-footer|}}
+
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")

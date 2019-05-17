@@ -1,5 +1,5 @@
 **EcoBoost** 是[福特汽车與德國的](../Page/福特汽车.md "wikilink")[FEV Europe
-GmbH所合作開發生产的](../Page/FEV_Europe_GmbH.md "wikilink")[涡轮增压和](../Page/涡轮增压器.md "wikilink")[燃油缸内直喷](../Page/汽油缸內直噴.md "wikilink")6缸、4缸和3缸系列[汽油引擎](../Page/汽油引擎.md "wikilink")。与传统的同排量自然进气引擎相比，使用Ecoboost技术的引擎可以提高约20％的燃油经济性和降低15％的[温室气体排放](../Page/温室气体.md "wikilink")，同时输出更高的功率和扭矩。相对于混合动力和柴油引擎技术的动力输出和燃油经济性，Ecoboost引擎技術是一种消费者承担得起、适合各种工况的新式技術，计划在将来生产的车辆上广泛配置\[1\]。此引擎的前一代為[Duratec引擎](../Page/福特Duratec引擎.md "wikilink")。
+GmbH所合作開發生产的](https://zh.wikipedia.org/wiki/FEV_Europe_GmbH "wikilink")[涡轮增压和](https://zh.wikipedia.org/wiki/涡轮增压器 "wikilink")[燃油缸内直喷](https://zh.wikipedia.org/wiki/汽油缸內直噴 "wikilink")6缸、4缸和3缸系列[汽油引擎](../Page/汽油引擎.md "wikilink")。与传统的同排量自然进气引擎相比，使用Ecoboost技术的引擎可以提高约20％的燃油经济性和降低15％的[温室气体排放](../Page/温室气体.md "wikilink")，同时输出更高的功率和扭矩。相对于混合动力和柴油引擎技术的动力输出和燃油经济性，Ecoboost引擎技術是一种消费者承担得起、适合各种工况的新式技術，计划在将来生产的车辆上广泛配置\[1\]。此引擎的前一代為[Duratec引擎](https://zh.wikipedia.org/wiki/福特Duratec引擎 "wikilink")。
 
 ## 全球生产情况
 
@@ -12,17 +12,18 @@ V6 EcoBoost
 2.0L I4
 EcoBoost发动机在2009年由[西班牙的福特巴伦西亚](../Page/西班牙.md "wikilink")（Valencia）引擎工厂生产。\[4\]
 
-1.6L I4 EcoBoost引擎将在[英国的福特布里真德](../Page/英国.md "wikilink")（Bridgend）工厂生产。
+1.6L I4
+EcoBoost引擎将在[英国的福特布里真德](https://zh.wikipedia.org/wiki/英国 "wikilink")（Bridgend）工厂生产。
 
 未来小改款的I4
-EcoBoost引擎将同时在[德国福特](../Page/德国.md "wikilink")[科隆](../Page/科隆.md "wikilink")（Cologne）引擎工厂和[罗马尼亚克拉约瓦](../Page/罗马尼亚.md "wikilink")（Craiova）工厂生产。
+EcoBoost引擎将同时在[德国福特](../Page/德国.md "wikilink")[科隆](../Page/科隆.md "wikilink")（Cologne）引擎工厂和[罗马尼亚克拉约瓦](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")（Craiova）工厂生产。
 
 在2012年，福特公司计划在美国生产75万台，其他国家生产130万台EcoBoost引擎。
 福特希望到2013年在全球范围内超过90%产品的配备EcoBoost引擎。\[5\]\[6\]
 
 ### Volvo称为GTDi
 
-[沃尔沃汽车在发布S](../Page/沃尔沃汽车.md "wikilink")60概念车和XC60的时候使用**GTDi**（Gasoline
+[沃尔沃汽车在发布S](https://zh.wikipedia.org/wiki/沃尔沃汽车 "wikilink")60概念车和XC60的时候使用**GTDi**（Gasoline
 Turbocharged Direct injection涡轮增压燃油直喷）作为其1.6L I4和2.0L I4发动机的名称。 \[7\]
 
 ## 引擎型式
@@ -30,7 +31,7 @@ Turbocharged Direct injection涡轮增压燃油直喷）作为其1.6L I4和2.0L 
 ### 六汽缸
 
 EcoBoost
-V6是EcoBoost家族的第一具引擎。该引擎第一次亮相是在2007年林肯MKR[概念车](../Page/概念车.md "wikilink")，使用的名称是**TwinForce**。\[8\]
+V6是EcoBoost家族的第一具引擎。该引擎第一次亮相是在2007年林肯MKR[概念车](https://zh.wikipedia.org/wiki/概念车 "wikilink")，使用的名称是**TwinForce**。\[8\]
 该引擎的设计可以输出相当于典型的6.0 L
 或者更大的V8引擎的动力，同时比V8引擎又能提高15%的燃油经济性和降低温室气体排放。在林肯MKR车上，TwinForce概念引擎使用E85乙醇混合汽油（85%的乙醇，15％的汽油）可以输出415马力和542牛.米的扭矩。\[9\]
 在2008年[底特律車展上](../Page/底特律車展.md "wikilink")，当该引擎再次在林肯MKT概念车上展出的时候，名称变更为EcoBoost。EcoBoost发动于2009年5月19日在福特克利夫兰（Cleveland）引擎第一工厂正式投产。
@@ -38,10 +39,10 @@ V6是EcoBoost家族的第一具引擎。该引擎第一次亮相是在2007年林
 V6引擎机体。燃油供应系统把燃油压力提高到190[巴](../Page/巴.md "wikilink")（2150磅），以能进行燃油缸内直接喷射。它使用两个盖瑞特(Garrett)GT15涡轮增压器可以达到170000转/分的转速提供1.06巴（12磅）的压力。该引擎能比自然进气的引擎多消耗超过25%的空气。通过使用直接燃油喷射技术，该引擎只需使用常规级的汽油，虽然推荐使用优质的汽油。
 
 EcoBoost
-V6首先搭载在2010年林肯MKS上，接下来是2010年[福特Flex](../Page/福特Flex.md "wikilink")、2010年[福特金牛座](../Page/福特金牛座.md "wikilink")（Taurus）SHO以及2010年林肯MKT。\[10\]
+V6首先搭载在2010年林肯MKS上，接下来是2010年[福特Flex](../Page/福特Flex.md "wikilink")、2010年[福特金牛座](https://zh.wikipedia.org/wiki/福特金牛座 "wikilink")（Taurus）SHO以及2010年林肯MKT。\[10\]
 
-该引擎的燃油供应系统是与[罗伯特·博世有限公司](../Page/罗伯特·博世有限公司.md "wikilink")（Robert Bosch
-GmbH）联合开发的。\[11\]
+该引擎的燃油供应系统是与[罗伯特·博世有限公司](https://zh.wikipedia.org/wiki/罗伯特·博世有限公司 "wikilink")（Robert
+Bosch GmbH）联合开发的。\[11\]
 
 福特在E85乙醇混合汽油直喷和汽油喷油嘴基础上试制出3.5 L GTDI
 EcoBoost引擎，该引擎可以达到305磅（27巴）的制动压力，可调校为在3000转/分时输出约750牛.米的扭力和316马力（236千瓦）功率，在1500-3000转是输出平滑扭矩曲线。\[12\]
@@ -64,15 +65,15 @@ EcoBoost引擎，该引擎可以达到305磅（27巴）的制动压力，可调�
 
 ### 四汽缸
 
-福特已经在[概念车或者量产车上发布了基于Ecoboost技术的三种不同的](../Page/概念车.md "wikilink")4缸引擎。比如3.5 L
+福特已经在[概念车或者量产车上发布了基于Ecoboost技术的三种不同的](https://zh.wikipedia.org/wiki/概念车 "wikilink")4缸引擎。比如3.5 L
 EcoBoost
-V6，所有引擎均应用了涡轮增压和燃油缸内直喷技术。量产引擎系列于2009年[法兰克福车展上正式宣布](../Page/法兰克福车展.md "wikilink")。
+V6，所有引擎均应用了涡轮增压和燃油缸内直喷技术。量产引擎系列于2009年[法兰克福车展上正式宣布](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")。
 \[16\]
 
 #### 2.0L EcoBoost I-4
 
 2.0L版的Ecoboost引擎最早装配在2008年福特探险家美国版（Ford Explorer
-America）[概念车上](../Page/概念车.md "wikilink")，动力输出调校为275马力和380牛.米。
+America）[概念车上](https://zh.wikipedia.org/wiki/概念车 "wikilink")，动力输出调校为275马力和380牛.米。
 
 这是EcoBoost引擎首款带有双独立可变气门正时系统(Twin-Independent Variable Cam Timing
 (Ti-VCT)), 宣布在拥有3.0L
@@ -91,7 +92,7 @@ V6引擎的性能同时优化燃油经济性10%-20%。动力至少为230制动�
 <!-- end list -->
 
   - 237马力@5500转/分, 250牛.米@1750-4500转/分\[20\]
-      - 2011年- [福特探险家](../Page/福特探险家.md "wikilink")
+      - 2011年- [福特探险家](https://zh.wikipedia.org/wiki/福特探险家 "wikilink")
       - 2010年- [福特蒙迪欧](../Page/福特蒙迪欧.md "wikilink")\[21\]
       - 2011年- 富豪S60
       - 2011年- 富豪V60
@@ -137,9 +138,9 @@ Runner”不是EcoBoost族引擎的一员，因为它没有使用缸内燃油直
 
 ### 三汽缸
 
-福特于2011年[法兰克福汽车展览上发布了](../Page/法兰克福汽车展览.md "wikilink")1.0升排量的EcoBoost发动机\[27\]，该款发动机为三缸直喷增压发动机，双凸轮轴可变正时技术，有100马力（74千瓦）和125马力（92千瓦）两种调校。新发动机预计将首先搭载在在欧版Focus上，未来也可能会搭载在B-Max、C-Max等车型上。
+福特于2011年[法兰克福汽车展览上发布了](https://zh.wikipedia.org/wiki/法兰克福汽车展览 "wikilink")1.0升排量的EcoBoost发动机\[27\]，该款发动机为三缸直喷增压发动机，双凸轮轴可变正时技术，有100马力（74千瓦）和125马力（92千瓦）两种调校。新发动机预计将首先搭载在在欧版Focus上，未来也可能会搭载在B-Max、C-Max等车型上。
 
-此1.0L引擎於2012年至2016年獲得[國際年度發動機大獎](../Page/國際年度發動機大獎.md "wikilink")（）\[28\]、2014年及2015年獲得[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")。2017年起，將125匹馬力版本的三缸EcoBoost引擎命名為「EcoBoost
+此1.0L引擎於2012年至2016年獲得[國際年度發動機大獎](https://zh.wikipedia.org/wiki/國際年度發動機大獎 "wikilink")（）\[28\]、2014年及2015年獲得[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")。2017年起，將125匹馬力版本的三缸EcoBoost引擎命名為「EcoBoost
 125」。
 
 2017年2月，福特宣佈將推出1.5升的三氣缸EcoBoost发动机，首先搭載於性能版小型車[Fiesta
@@ -147,7 +148,7 @@ ST](../Page/福特Fiesta.md "wikilink")\[29\]，2018年發表的第四代福克�
 
 ## 参见
 
-  - [福特EcoBlue引擎](../Page/福特EcoBlue引擎.md "wikilink")
+  - [福特EcoBlue引擎](https://zh.wikipedia.org/wiki/福特EcoBlue引擎 "wikilink")
   - [福特汽车](../Page/福特汽车.md "wikilink")
   - [福特蒙迪欧](../Page/福特蒙迪欧.md "wikilink")
 

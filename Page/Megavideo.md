@@ -1,6 +1,6 @@
-**Megavideo**是著名線上網路硬碟[Megaupload推出的](../Page/Megaupload.md "wikilink")[影片分享網站](../Page/影片分享網站.md "wikilink")，現已無法存取，曾自称超越[YouTube](../Page/YouTube.md "wikilink")\[1\]，可以上传单个5GB的視訊文件，有多种语言界面（包括[中文版](../Page/中文.md "wikilink")）。2009年，由於Megaupload把香港IP封鎖，Megavideo同時亦把香港IP封鎖。
+**Megavideo**是著名線上網路硬碟[Megaupload推出的](../Page/Megaupload.md "wikilink")[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")，現已無法存取，曾自称超越[YouTube](../Page/YouTube.md "wikilink")\[1\]，可以上传单个5GB的視訊文件，有多种语言界面（包括[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")）。2009年，由於Megaupload把香港IP封鎖，Megavideo同時亦把香港IP封鎖。
 
-在中国大陆不能正常访问megavideo，虽然可以连接到服务器，但网页完全不能正常显示，仅能显示网页的标题。所以基本处于[被封锁状态](../Page/GFW.md "wikilink")。
+在中国大陆不能正常访问megavideo，虽然可以连接到服务器，但网页完全不能正常显示，仅能显示网页的标题。所以基本处于[被封锁状态](https://zh.wikipedia.org/wiki/GFW "wikilink")。
 
 2012年1月19日遭到美國FBI因擁有大量的侵犯著作權檔案為由而強制關閉網站。\[2\]
 

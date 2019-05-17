@@ -1,9 +1,9 @@
 [I-home_base.jpg](https://zh.wikipedia.org/wiki/File:I-home_base.jpg "fig:I-home_base.jpg")
-i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](../Page/洋松街.md "wikilink")38號，由華人置業及[市區重建局合作發展](../Page/市區重建局.md "wikilink")，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
+i-HOME是一個位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[大角咀](../Page/大角咀.md "wikilink")[洋松街](https://zh.wikipedia.org/wiki/洋松街 "wikilink")38號，由華人置業及[市區重建局合作發展](../Page/市區重建局.md "wikilink")，樓高44層，項目於2009年3月開售\[1\]，同年8月3日入伙\[2\]。
 
 ## 簡介
 
-i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重建住宅區如新鴻基地產[形品·星寓及](../Page/形品·星寓.md "wikilink")[柏豐28](../Page/柏豐28.md "wikilink")。管理費為$1.64。
+i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重建住宅區如新鴻基地產[形品·星寓及](../Page/形品·星寓.md "wikilink")[柏豐28](https://zh.wikipedia.org/wiki/柏豐28 "wikilink")。管理費為$1.64。
 
 ## 住客會所
 
@@ -50,12 +50,12 @@ i-HOME是單幢住宅，樓高44層，合共提供182伙單位。附近為新重
 
 ## 參見
 
-  - [大角嘴](../Page/大角嘴.md "wikilink")
+  - [大角嘴](https://zh.wikipedia.org/wiki/大角嘴 "wikilink")
   - [亮賢居](../Page/亮賢居.md "wikilink")
   - [海桃灣](../Page/海桃灣.md "wikilink")
   - [港灣豪庭](../Page/港灣豪庭.md "wikilink")
   - [新港豪庭](../Page/新港豪庭.md "wikilink")
-  - [柏豐28](../Page/柏豐28.md "wikilink")
+  - [柏豐28](https://zh.wikipedia.org/wiki/柏豐28 "wikilink")
 
 ## 外部連結
 

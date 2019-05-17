@@ -1,14 +1,15 @@
 **Ubuntu Netbook Edition**（或*Ubuntu Netbook
 Remix*\[1\]\[2\]\[3\]）是一個[Ubuntu的桌面版本](../Page/Ubuntu.md "wikilink")，能優化[上网本的設備](../Page/上网本.md "wikilink")，使小屏幕和[Intel
-Atom處理器能夠更好工作](../Page/Intel_Atom.md "wikilink")。[Canonical公司](../Page/Canonical公司.md "wikilink")，建立Ubuntu的公司，正與[Moblin
-project合作](../Page/Moblin_project.md "wikilink")，以確保Ubuntu Netbook
-Edition有較低的硬件要求和更高的電池壽命。**现已融入Desktop版本。**
+Atom處理器能夠更好工作](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。[Canonical公司](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")，建立Ubuntu的公司，正與[Moblin
+project合作](https://zh.wikipedia.org/wiki/Moblin_project "wikilink")，以確保Ubuntu
+Netbook Edition有較低的硬件要求和更高的電池壽命。**现已融入Desktop版本。**
 
 ## 系統要求
 
 Ubuntu Netbook Edition的最低系統要求如下:
 
-  - 處理器：[Intel Atom處理器](../Page/Intel_Atom.md "wikilink")
+  - 處理器：[Intel
+    Atom處理器](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")
   - 記憶體：384 MB
   - 硬盘：4 GB
     快閃存儲器（[SSD](../Page/固态硬盘.md "wikilink")）或[硬碟](../Page/硬盘.md "wikilink")
@@ -17,7 +18,8 @@ Ubuntu Netbook Edition的最低系統要求如下:
 
 ### 基本
 
-  - 網頁瀏覽器 - [Firefox](../Page/Mozilla_Firefox.md "wikilink")
+  - 網頁瀏覽器 -
+    [Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - 個人信息管理 - [Evolution](../Page/Novell_Evolution.md "wikilink")
   - 即時通訊客戶端 - [Empathy](../Page/Empathy.md "wikilink")
   - 媒體播放器 - [Rhythmbox](../Page/Rhythmbox.md "wikilink")
@@ -34,9 +36,9 @@ Ubuntu Netbook Edition的最低系統要求如下:
 ### OEM提供
 
   - [MPEG-4](../Page/MPEG-4.md "wikilink")
-    ([H.264](../Page/H.264/MPEG-4_AVC.md "wikilink"))
+    ([H.264](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink"))
   - [MP3](../Page/MP3.md "wikilink")
-  - [AAC](../Page/Advanced_Audio_Coding.md "wikilink")
+  - [AAC](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")
   - [Windows Media](../Page/Windows_Media.md "wikilink")
 
 ## 使用

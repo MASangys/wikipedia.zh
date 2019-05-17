@@ -1,5 +1,5 @@
 **** （）是前[Visual
-Art's旗下](../Page/Visual_Art's.md "wikilink")[Key所屬的](../Page/Key_\(公司\).md "wikilink")[作曲家](../Page/作曲家.md "wikilink")，於2006年10月退職，因為製作[AIR的背景音樂而知名](../Page/AIR_\(遊戲\).md "wikilink")。首個參與製作的遊戲是AIR，其實更早在「Kanon
+Art's旗下](../Page/Visual_Art's.md "wikilink")[Key所屬的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，於2006年10月退職，因為製作[AIR的背景音樂而知名](../Page/AIR_\(遊戲\).md "wikilink")。首個參與製作的遊戲是AIR，其實更早在「Kanon
 original arrange album
 "anemoscope"」（附於[Kanon初回限定版](../Page/Kanon.md "wikilink")）中已有戶越擔當編曲的作品。\[1\]
 
@@ -9,7 +9,7 @@ original arrange album
 
 <!-- end list -->
 
-  - [AIR](../Page/AIR_\(遊戲\).md "wikilink")（[Key](../Page/Key_\(公司\).md "wikilink")）
+  - [AIR](../Page/AIR_\(遊戲\).md "wikilink")（[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")）
 
   - （Words）
 

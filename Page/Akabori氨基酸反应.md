@@ -1,44 +1,52 @@
 **Akabori氨基酸反应**（Akabori amino acid reaction）有两种：
 
-1、α-[氨基酸在加热时被](../Page/氨基酸.md "wikilink")[氧化性](../Page/氧化性.md "wikilink")[糖](../Page/糖.md "wikilink")[氧化](../Page/氧化.md "wikilink")。
+1、α-[氨基酸在加热时被](../Page/氨基酸.md "wikilink")[氧化性](https://zh.wikipedia.org/wiki/氧化性 "wikilink")[糖](https://zh.wikipedia.org/wiki/糖 "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")。
 
 
 [Akabori.png](https://zh.wikipedia.org/wiki/File:Akabori.png "fig:Akabori.png")
 2、α-[氨基酸及其](../Page/氨基酸.md "wikilink")[酯类被](../Page/酯.md "wikilink")[钠汞齐在](../Page/钠汞齐.md "wikilink")[氯化氢的](../Page/氯化氢.md "wikilink")[乙醇溶液中还原](../Page/乙醇.md "wikilink")，生成
-α-[氨基](../Page/氨基.md "wikilink")[醛](../Page/醛.md "wikilink")。
+α-[氨基](https://zh.wikipedia.org/wiki/氨基 "wikilink")[醛](../Page/醛.md "wikilink")。
 
 
 [Akabori2.png](https://zh.wikipedia.org/wiki/File:Akabori2.png "fig:Akabori2.png")
 
 There are several **Akabori amino acid reactions**, which are named
-after [Shirō Akabori](../Page/Shirō_Akabori.md "wikilink")
-([jap.](../Page/Japanese_language.md "wikilink") 赤堀 四郎) (1900–1992), a
-Japanese chemist.
+after [Shirō
+Akabori](https://zh.wikipedia.org/wiki/Shirō_Akabori "wikilink")
+([jap.](https://zh.wikipedia.org/wiki/Japanese_language "wikilink") 赤堀
+四郎) (1900–1992), a Japanese chemist.
 
 In the first reaction, an α-[amino
-acid](../Page/amino_acid.md "wikilink") is
-[oxidised](../Page/oxidised.md "wikilink") and undergoes
-[decarboxylation](../Page/decarboxylation.md "wikilink") to give an
-[aldehyde](../Page/aldehyde.md "wikilink") at the former [α
-position](../Page/Alpha_and_beta_carbon.md "wikilink") by heating with
-[oxygen](../Page/oxygen.md "wikilink") in the presence of a [reducing
-sugar](../Page/reducing_sugar.md "wikilink").\[1\]\[2\] This reaction is
-useful for preparing dichlorophthalimido derivatives of peptides for
-mass spectral analysis.\[3\]
+acid](https://zh.wikipedia.org/wiki/amino_acid "wikilink") is
+[oxidised](https://zh.wikipedia.org/wiki/oxidised "wikilink") and
+undergoes
+[decarboxylation](https://zh.wikipedia.org/wiki/decarboxylation "wikilink")
+to give an [aldehyde](https://zh.wikipedia.org/wiki/aldehyde "wikilink")
+at the former [α
+position](https://zh.wikipedia.org/wiki/Alpha_and_beta_carbon "wikilink")
+by heating with
+[oxygen](https://zh.wikipedia.org/wiki/oxygen "wikilink") in the
+presence of a [reducing
+sugar](https://zh.wikipedia.org/wiki/reducing_sugar "wikilink").\[1\]\[2\]
+This reaction is useful for preparing dichlorophthalimido derivatives of
+peptides for mass spectral analysis.\[3\]
 
   -
     [Image:Reacción de Akabori
     1.png](https://zh.wikipedia.org/wiki/File:Reacción_de_Akabori_1.png "fig:Image:Reacción de Akabori 1.png")
 
 In the second reaction, an α-[amino
-acid](../Page/amino_acid.md "wikilink"), or an
-[ester](../Page/ester.md "wikilink") of it, is reduced by [sodium
-amalgam](../Page/sodium_amalgam.md "wikilink") and ethanolic HCl to give
-an α-amino [aldehyde](../Page/aldehyde.md "wikilink").\[4\]\[5\] This
-process is conceptually similar to the [Bouveault–Blanc
-reduction](../Page/Bouveault–Blanc_reduction.md "wikilink")\[6\]\[7\]\[8\]
+acid](https://zh.wikipedia.org/wiki/amino_acid "wikilink"), or an
+[ester](https://zh.wikipedia.org/wiki/ester "wikilink") of it, is
+reduced by [sodium
+amalgam](https://zh.wikipedia.org/wiki/sodium_amalgam "wikilink") and
+ethanolic HCl to give an α-amino
+[aldehyde](https://zh.wikipedia.org/wiki/aldehyde "wikilink").\[4\]\[5\]
+This process is conceptually similar to the [Bouveault–Blanc
+reduction](https://zh.wikipedia.org/wiki/Bouveault–Blanc_reduction "wikilink")\[6\]\[7\]\[8\]
 except that it stops at the aldehyde stage rather than reducing the
-ester all the way to two [alcohols](../Page/alcohol.md "wikilink").
+ester all the way to two
+[alcohols](https://zh.wikipedia.org/wiki/alcohol "wikilink").
 
   -
     [Image:Reacción de Akabori
@@ -46,7 +54,8 @@ ester all the way to two [alcohols](../Page/alcohol.md "wikilink").
 
 ## 参见
 
-  - [Maillard reaction](../Page/Maillard_reaction.md "wikilink")
+  - [Maillard
+    reaction](https://zh.wikipedia.org/wiki/Maillard_reaction "wikilink")
 
 ## 参考资料
 

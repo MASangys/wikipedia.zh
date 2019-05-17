@@ -1,6 +1,6 @@
 **Elbs过硫酸盐氧化反应**（Elbs persulfate oxidation）
 
-[酚被](../Page/酚.md "wikilink")[碱性](../Page/碱性.md "wikilink")[过二硫酸钾](../Page/过二硫酸钾.md "wikilink")[氧化为对位二酚](../Page/氧化.md "wikilink")。\[1\]
+[酚被](../Page/酚.md "wikilink")[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")[过二硫酸钾](https://zh.wikipedia.org/wiki/过二硫酸钾 "wikilink")[氧化为对位二酚](https://zh.wikipedia.org/wiki/氧化 "wikilink")。\[1\]
 
 
 [Elbs_Persulfate_Oxidation_Scheme.png](https://zh.wikipedia.org/wiki/File:Elbs_Persulfate_Oxidation_Scheme.png "fig:Elbs_Persulfate_Oxidation_Scheme.png")
@@ -8,14 +8,14 @@
 
 ## 反应机理
 
-酚盐负离子在酚羟基对位对过二硫酸根离子中的过氧原子进行[亲核进攻](../Page/亲核.md "wikilink")，硫酸根离子离去，产生对二酚的[硫酸酯](../Page/硫酸酯.md "wikilink")，经水解得二酚。\[5\]
+酚盐负离子在酚羟基对位对过二硫酸根离子中的过氧原子进行[亲核进攻](https://zh.wikipedia.org/wiki/亲核 "wikilink")，硫酸根离子离去，产生对二酚的[硫酸酯](https://zh.wikipedia.org/wiki/硫酸酯 "wikilink")，经水解得二酚。\[5\]
 
 
 [ElbsReactionMechanism.png](https://zh.wikipedia.org/wiki/File:ElbsReactionMechanism.png "fig:ElbsReactionMechanism.png")
 
 ## 参见
 
-  - [Boyland-Sims氧化反应](../Page/Boyland-Sims氧化反应.md "wikilink")
+  - [Boyland-Sims氧化反应](https://zh.wikipedia.org/wiki/Boyland-Sims氧化反应 "wikilink")
   - [化学反应列表](../Page/化学反应列表.md "wikilink")
 
 ## 参考资料

@@ -1,11 +1,11 @@
 **CIS 40
 AGL自动榴弹发射器**是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST
-Kinetics）}}在1980年代後期自主研發和生產的[自動榴弹发射器](../Page/榴弹发射器#全自動型榴弹发射器.md "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
+Kinetics）}}在1980年代後期自主研發和生產的[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史
 
 從1986年，新加坡特許工業公司開始設計這款自动榴弹发射器，1991年後期設計定型，開始批量生產。CIS 40
-AGL主要是受到[新加坡共和国武装部队和其他幾個國家的警察和安全部隊所採用](../Page/新加坡共和国武装部队.md "wikilink")，\[1\]另外還對外出口。
+AGL主要是受到[新加坡共和国武装部队和其他幾個國家的警察和安全部隊所採用](https://zh.wikipedia.org/wiki/新加坡共和国武装部队 "wikilink")，\[1\]另外還對外出口。
 
 ## 設計
 
@@ -17,18 +17,18 @@ CIS 40 AGL採用了與美軍Mk 19 Mod
 ## 使用國
 
   -
-  - ：被[格魯吉亞軍隊所採用](../Page/格魯吉亞軍隊.md "wikilink")。\[2\]
+  - ：被[格魯吉亞軍隊所採用](https://zh.wikipedia.org/wiki/格魯吉亞軍隊 "wikilink")。\[2\]
 
-  - ：於1994年取得特許生產證後為[印尼軍隊生產](../Page/印尼軍隊.md "wikilink")，並且命名為**Pindad
+  - ：於1994年取得特許生產證後為[印尼軍隊生產](https://zh.wikipedia.org/wiki/印尼軍隊 "wikilink")，並且命名為**Pindad
     SPG-3**。\[3\]
 
-  - ：被[墨西哥海軍步兵所採用](../Page/墨西哥海軍步兵.md "wikilink")。
+  - ：被[墨西哥海軍步兵所採用](https://zh.wikipedia.org/wiki/墨西哥海軍步兵 "wikilink")。
 
   -
   -
-  - ：被[菲律賓海軍陸戰隊所採用](../Page/菲律賓海軍陸戰隊.md "wikilink")。\[4\]
+  - ：被[菲律賓海軍陸戰隊所採用](https://zh.wikipedia.org/wiki/菲律賓海軍陸戰隊 "wikilink")。\[4\]
 
-  - ：被[新加坡共和国武装部队所採用](../Page/新加坡共和国武装部队.md "wikilink")。
+  - ：被[新加坡共和国武装部队所採用](https://zh.wikipedia.org/wiki/新加坡共和国武装部队 "wikilink")。
 
   -
   -
@@ -38,14 +38,16 @@ CIS 40 AGL採用了與美軍Mk 19 Mod
   - [手榴弹](../Page/手榴弹.md "wikilink")、[槍榴彈](../Page/步槍用榴彈.md "wikilink")
   - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
-  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
+  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")
   - [AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")、[AGS-30自動榴彈發射器](../Page/AGS-30阿特蘭自動榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")
   - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")
   - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")
-  - [CZW RAG-30自动榴弹发射器](../Page/CZW_RAG-30自动榴弹发射器.md "wikilink")
-  - [SB LAG 40自動榴彈發射器](../Page/SB_LAG_40自動榴彈發射器.md "wikilink")
+  - [CZW
+    RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
+  - [SB LAG
+    40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [CIS 40 GL附加型榴彈發射器](../Page/CIS_40_GL附加型榴彈發射器.md "wikilink")

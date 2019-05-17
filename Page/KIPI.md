@@ -5,11 +5,12 @@ Interface）是為了制定一個通用的插件結構。其目的是要在各�
 
 ## 主體應用程序
 
-  - [digiKam](../Page/digiKam.md "wikilink")\[1\]
-  - [KPhotoAlbum](../Page/KPhotoAlbum.md "wikilink") \[2\]
-  - [ShowImg](../Page/ShowImg.md "wikilink")\[3\]
+  - [digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")\[1\]
+  - [KPhotoAlbum](https://zh.wikipedia.org/wiki/KPhotoAlbum "wikilink")
+    \[2\]
+  - [ShowImg](https://zh.wikipedia.org/wiki/ShowImg "wikilink")\[3\]
   - [Gwenview](../Page/Gwenview.md "wikilink")\[4\]
-  - [KSquirrel](../Page/KSquirrel.md "wikilink")\[5\]
+  - [KSquirrel](https://zh.wikipedia.org/wiki/KSquirrel "wikilink")\[5\]
 
 ## 外掛
 

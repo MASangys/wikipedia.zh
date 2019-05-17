@@ -3,15 +3,15 @@ Otheruseslist|[科樂美製作的遊戲](../Page/科樂美.md "wikilink")《心�
 Only Love》|心跳回憶 Only Love|《心跳回憶》本篇遊戲|心跳回忆}}
 
 《**心跳回憶 Drama
-Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）推出的[戀愛模擬遊戲](../Page/戀愛模擬遊戲.md "wikilink")《[心跳回憶](../Page/心跳回忆_\(游戏\).md "wikilink")》的3部[外傳作品的系列名稱](../Page/外傳.md "wikilink")。本系列共有3部作品，分別是：①以[虹野沙希為女主角的](../Page/虹野沙希.md "wikilink")《**Vol.1
+Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）推出的[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[心跳回憶](../Page/心跳回忆_\(游戏\).md "wikilink")》的3部[外傳作品的系列名稱](https://zh.wikipedia.org/wiki/外傳 "wikilink")。本系列共有3部作品，分別是：①以[虹野沙希為女主角的](../Page/虹野沙希.md "wikilink")《**Vol.1
 虹色青春**》，②以[片桐彩子為女主角的](../Page/片桐彩子.md "wikilink")《**Vol.2
 彩之戀曲**》，③以[藤崎詩織與](../Page/藤崎詩織.md "wikilink")[館林見晴為女主角的](../Page/館林見晴.md "wikilink")《**Vol.3
 啟程之詩**》。
 
-本遊戲由[科樂美電腦娛樂日本](../Page/科樂美電腦娛樂日本.md "wikilink")（Konami Computer
-Entertainment
-Japan）[小島組製作](../Page/小島組.md "wikilink")，在[PlayStation](../Page/PlayStation.md "wikilink")（PS）及[SEGA
-Saturn](../Page/SEGA_Saturn.md "wikilink")（SS）推出，唯只有SS版本在Vol.3時有限定版發售。
+本遊戲由[科樂美電腦娛樂日本](https://zh.wikipedia.org/wiki/科樂美電腦娛樂日本 "wikilink")（Konami
+Computer Entertainment
+Japan）[小島組製作](https://zh.wikipedia.org/wiki/小島組 "wikilink")，在[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（PS）及[SEGA
+Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")（SS）推出，唯只有SS版本在Vol.3時有限定版發售。
 
 ## 概要
 
@@ -38,7 +38,7 @@ Vol.2
 
 ### Vol.3 啟程之詩
 
-啟程之詩為該系列的最後一部作品，以[藤崎詩織及](../Page/藤崎詩織.md "wikilink")[館林見晴作女主角](../Page/館林見晴.md "wikilink")，也是首次以雙女主角的型式出現；但館林見晴在遊戲內為隱藏的女主角，需要進入特定劇情才會出現，從而進入「館林見晴篇」。故事發生時間為高校畢業前的2月，考完畢業試後的主角正準備向藤崎詩織告白。主角打算在2月14日[情人節時向詩織告白](../Page/情人節.md "wikilink")，但正當主角鼓起勇氣把心裡說話講出來之際，詩織竟向主角說了一句「我們永遠都是青梅竹馬關係就好了」（），這句話令主角受到史無前例的衝擊。主角細想自己到底這三年來做了些甚麼，是否浪費了時間？最後，主角發現他正是缺乏了魅力，於是他決定把心一橫，利用高中剩餘的時間，鍛鍊自己準備參加[馬拉松](../Page/馬拉松.md "wikilink")。
+啟程之詩為該系列的最後一部作品，以[藤崎詩織及](../Page/藤崎詩織.md "wikilink")[館林見晴作女主角](../Page/館林見晴.md "wikilink")，也是首次以雙女主角的型式出現；但館林見晴在遊戲內為隱藏的女主角，需要進入特定劇情才會出現，從而進入「館林見晴篇」。故事發生時間為高校畢業前的2月，考完畢業試後的主角正準備向藤崎詩織告白。主角打算在2月14日[情人節時向詩織告白](https://zh.wikipedia.org/wiki/情人節 "wikilink")，但正當主角鼓起勇氣把心裡說話講出來之際，詩織竟向主角說了一句「我們永遠都是青梅竹馬關係就好了」（），這句話令主角受到史無前例的衝擊。主角細想自己到底這三年來做了些甚麼，是否浪費了時間？最後，主角發現他正是缺乏了魅力，於是他決定把心一橫，利用高中剩餘的時間，鍛鍊自己準備參加[馬拉松](https://zh.wikipedia.org/wiki/馬拉松 "wikilink")。
 
 與此同時，在某一天，對詩織非常失望的主角突然接到一個錯誤撥打的電話，對方稱要找田中先生。其後主角更發現，原來對方竟然跟他就讀同一所高校、同樣為三年級生，原來她就是……\[4\]
 
@@ -55,7 +55,7 @@ Vol.2
       - 主唱：虹野沙希　作詞：秋山奈津　作曲：小西真理
           - 此歌曲實際為虹野沙希的配音員[菅原祥子所主唱](../Page/菅原祥子.md "wikilink")，以虹野沙希的名義推出[Single](../Page/单曲.md "wikilink")，同樣地也收錄於虹野沙希[專輯](../Page/音樂專輯.md "wikilink")《Over
             the rainbow》和Vol.1
-            [原聲大碟](../Page/原聲大碟.md "wikilink")。本系列的3部作品的結尾曲都由該集女主角的配音員所主唱，主要用於遊戲完結時的出現工作人員字幕畫面
+            [原聲大碟](https://zh.wikipedia.org/wiki/原聲大碟 "wikilink")。本系列的3部作品的結尾曲都由該集女主角的配音員所主唱，主要用於遊戲完結時的出現工作人員字幕畫面
             (Credit Title) 時的背景音樂。
 
 <!-- end list -->
@@ -138,7 +138,7 @@ Vol.2
 
 ## 相關條目
 
-  - [心跳回忆](../Page/心跳回忆.md "wikilink")
+  - [心跳回忆](https://zh.wikipedia.org/wiki/心跳回忆 "wikilink")
   - [心跳回憶 Girl's Side](../Page/心跳回憶_Girl's_Side.md "wikilink")
   - [心跳回憶 Girl's Side 2nd
     Kiss](../Page/心跳回憶_Girl's_Side_2nd_Kiss.md "wikilink")

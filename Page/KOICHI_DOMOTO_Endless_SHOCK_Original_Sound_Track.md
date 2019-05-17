@@ -1,6 +1,6 @@
 《**KOICHI DOMOTO Endless SHOCK Original Sound
 Track**》為2006年1月11日發售、[音樂劇](../Page/音樂劇.md "wikilink")《[Endless
-SHOCK](../Page/Endless_SHOCK.md "wikilink")》的原聲帶。由[傑尼斯娛樂發行](../Page/傑尼斯娛樂.md "wikilink")。
+SHOCK](https://zh.wikipedia.org/wiki/Endless_SHOCK "wikilink")》的原聲帶。由[傑尼斯娛樂發行](../Page/傑尼斯娛樂.md "wikilink")。
 
 ## 解說
 
@@ -14,17 +14,17 @@ SHOCK》中使用的樂曲而成的原聲帶。雖說是原聲帶，「為了讓
 ## 收錄曲
 
 1.  **OVERTURE**（INST）　1'16"
-    （作曲・編曲：[佐藤泰將](../Page/佐藤泰將.md "wikilink")）
+    （作曲・編曲：[佐藤泰將](https://zh.wikipedia.org/wiki/佐藤泰將 "wikilink")）
 2.  **So Feel It Coming**　2'54"
-    （作詞：[3+3](../Page/3+3.md "wikilink")　作曲：堂本光一　編曲：佐藤泰將）
+    （作詞：[3+3](https://zh.wikipedia.org/wiki/3+3 "wikilink")　作曲：堂本光一　編曲：佐藤泰將）
 3.  **NEW HORIZON**　4'02"
-    （作詞：[久保田洋司](../Page/久保田洋司.md "wikilink")　作曲：[飯田建彦](../Page/飯田建彦.md "wikilink")　編曲：[船山基紀](../Page/船山基紀.md "wikilink")）
+    （作詞：[久保田洋司](https://zh.wikipedia.org/wiki/久保田洋司 "wikilink")　作曲：[飯田建彦](https://zh.wikipedia.org/wiki/飯田建彦 "wikilink")　編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")）
 4.  **AMERICA**　2'32"
-    （作詞：3+3　作曲・編曲：船山基紀　合音編曲：[知野芳彦](../Page/知野芳彦.md "wikilink")）
+    （作詞：3+3　作曲・編曲：船山基紀　合音編曲：[知野芳彦](https://zh.wikipedia.org/wiki/知野芳彦 "wikilink")）
 5.  **Love and Loneliness**　3'50"
     （作詞・作曲：Anders Barren, Nina Woodford, Jany
-    Schel　編曲：[船山基紀](../Page/船山基紀.md "wikilink")　日本語詞：[白井裕紀](../Page/白井裕紀.md "wikilink"),
-    [新美香](../Page/新美香.md "wikilink")）
+    Schel　編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")　日本語詞：[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink"),
+    [新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")）
 6.  **花魁**（INST）　3'12"
     （作曲・編曲：佐藤泰將）
 7.  **戰車**（INST）　4'24"
@@ -36,30 +36,32 @@ SHOCK》中使用的樂曲而成的原聲帶。雖說是原聲帶，「為了讓
 10. **陷阱**（INST）　1'15"
     （作曲・編曲：佐藤泰將）
 11. **In the Cemetery**　2'34"
-    （作詞：久保田洋司　作曲・編曲：[岩田雅之](../Page/岩田雅之.md "wikilink")）
+    （作詞：久保田洋司　作曲・編曲：[岩田雅之](https://zh.wikipedia.org/wiki/岩田雅之 "wikilink")）
 12. **Why don't you dance with me?**　3'53"
-    （作詞：白井裕紀, 新美香　作曲：堂本光一　編曲：[ha-j](../Page/ha-j.md "wikilink"),
-    [吉岡たく](../Page/吉岡たく.md "wikilink")）
+    （作詞：白井裕紀,
+    新美香　作曲：堂本光一　編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink"),
+    [吉岡たく](https://zh.wikipedia.org/wiki/吉岡たく "wikilink")）
       -
-        在公演中第2部分是由飾演敵人的（[今井翼](../Page/今井翼.md "wikilink")、[錦戸亮](../Page/錦戸亮.md "wikilink")、[生田斗真等人](../Page/生田斗真.md "wikilink")）歌唱，但在本作則是由堂本光一單人演唱。在2006年堂本光一個人演唱會中也呈現了[MA成員演唱的版本](../Page/Musical_Academy.md "wikilink")。
+        在公演中第2部分是由飾演敵人的（[今井翼](../Page/今井翼.md "wikilink")、[錦戸亮](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")、[生田斗真等人](../Page/生田斗真.md "wikilink")）歌唱，但在本作則是由堂本光一單人演唱。在2006年堂本光一個人演唱會中也呈現了[MA成員演唱的版本](../Page/Musical_Academy.md "wikilink")。
 13. **Flying2**（INST）　3'00"
     （作曲・編曲：佐藤泰將）
 14. **面具**（INST）　3'07"
     （作曲・編曲：佐藤泰將）
 15. **夜之海**　4'51"
-    （作詞：白井裕紀, 新美香　作曲：堂本光一　編曲：[ha-j](../Page/ha-j.md "wikilink"),
-    [吉岡たく](../Page/吉岡たく.md "wikilink")）
+    （作詞：白井裕紀,
+    新美香　作曲：堂本光一　編曲：[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink"),
+    [吉岡たく](https://zh.wikipedia.org/wiki/吉岡たく "wikilink")）
       -
         本人言：在泡澡時「日本式…日本式…」地喃喃自語之後腦中浮現了主旋律，快速離開浴室而做成的曲子。
         在公演中為替光一最後的舞台增添色彩的歌曲，在支持者之間很受歡迎。
 16. **大櫻**（INST）　2'02"
     （作曲・編曲：佐藤泰將）
 17. **CONTINUE**　5'28"
-    （作詞：久保田洋司　作曲：堂本光一　編曲：[高橋哲也](../Page/高橋哲也.md "wikilink")）
+    （作詞：久保田洋司　作曲：堂本光一　編曲：[高橋哲也](https://zh.wikipedia.org/wiki/高橋哲也 "wikilink")）
       -
         在公演中為突然開口就唱的歌曲，在CD裡則收錄有前奏的部份。
 18. **One**　4'29"
-    （作詞：[六ツ見純代](../Page/六ツ見純代.md "wikilink")　作曲・編曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")）
+    （作詞：[六ツ見純代](https://zh.wikipedia.org/wiki/六ツ見純代 "wikilink")　作曲・編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink")）
       -
         收錄在普通版。
 

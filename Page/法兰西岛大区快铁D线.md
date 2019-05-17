@@ -1,14 +1,16 @@
 **法兰西岛大区快铁D线** ([法语](../Page/法语.md "wikilink"): Ligne D du RER
 d'Île-de-France), 简称RER D,
-是[法兰西岛](../Page/法兰西岛.md "wikilink")[法兰西岛大区快铁的一条贯通](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市郊南北走向的线路](../Page/巴黎.md "wikilink")，具有多个分支和节点。该线路连接北部的
+是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁的一条贯通](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市郊南北走向的线路](../Page/巴黎.md "wikilink")，具有多个分支和节点。该线路连接北部的
 (Orry-la-Ville - Coye, D1分支), [克雷伊](../Page/克雷伊.md "wikilink") (Creil,
 D3分支), 以及东南部的[默伦](../Page/默伦.md "wikilink") (Melun,
-D2分支)，[马勒舍布](../Page/马勒舍布.md "wikilink") (Malesherbes,
-D4分支)，以及[维埃勒贝尔](../Page/维埃勒贝尔.md "wikilink")（D5分支)，[科贝－埃松](../Page/科贝－埃松.md "wikilink")（D6分支）和[古桑维尔](../Page/古桑维尔.md "wikilink")（D7分支）。穿越巴黎市中心.
+D2分支)，[马勒舍布](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")
+(Malesherbes,
+D4分支)，以及[维埃勒贝尔](https://zh.wikipedia.org/wiki/维埃勒贝尔 "wikilink")（D5分支)，[科贝－埃松](https://zh.wikipedia.org/wiki/科贝－埃松 "wikilink")（D6分支）和[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink")（D7分支）。穿越巴黎市中心.
 D1, D3和D4分支等多个车站在法兰西岛之外,
-市区三个车站均可转乘[巴黎地铁或其他法兰西岛大区快铁](../Page/巴黎地铁.md "wikilink")。
+市区三个车站均可转乘[巴黎地铁或其他法兰西岛大区快铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
 
-RER D线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.md "wikilink") (SNCF) 负责.
+RER D线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")
+(SNCF) 负责.
 
 ## 历史
 
@@ -17,7 +19,7 @@ RER D线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.
 修建RER D的想法始于1970年代, 当时准备在东西快线 ([A线](../Page/法兰西岛大区快铁A线.md "wikilink"))
 和南北快线 ([B线](../Page/法兰西岛大区快铁B线.md "wikilink")) 之间修第三条线相连,
 经过对区域交通流量状况的研究,
-当局决定以[巴黎北站的](../Page/巴黎北站.md "wikilink")[北部路网和](../Page/巴黎北线.md "wikilink")[里昂车站的](../Page/巴黎里昂车站.md "wikilink")[东南路网构建快铁线](../Page/巴黎里昂线.md "wikilink").
+当局决定以[巴黎北站的](../Page/巴黎北站.md "wikilink")[北部路网和](../Page/巴黎北线.md "wikilink")[里昂车站的](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[东南路网构建快铁线](../Page/巴黎里昂线.md "wikilink").
 1980年代末至1990年代中叶, 经多次延长, 最终成型.
 
 ### 固有路网的修建
@@ -25,8 +27,9 @@ RER D线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.
 #### 北部路网
 
 1846年,
-巴黎到[里尔的](../Page/里尔.md "wikilink")[铁路投入使用](../Page/铁路.md "wikilink"),
-后来其中一部分成为D1分支和D3分支. 1981年, [夏特雷-大堂站](../Page/夏特雷-大堂站.md "wikilink")
+巴黎到[里尔的](../Page/里尔.md "wikilink")[铁路投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
+后来其中一部分成为D1分支和D3分支. 1981年,
+[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")
 (Châtelet - Les Halles) 和巴黎北站之间的隧道启用, 当时供RER B线使用. 而之前,
 夏特雷-大堂站亦预留了三条路轨供计划中的新RER线路使用.
 
@@ -34,13 +37,14 @@ RER D线的运营由[法国国家铁路公司](../Page/法国国家铁路公司.
 
 1840-1867年, [新城圣乔治](../Page/新城圣乔治.md "wikilink")
 (Villeneuve-Saint-Georges)
-和[马勒舍布之间的路段建成并投入使用](../Page/马勒舍布.md "wikilink"),
+和[马勒舍布之间的路段建成并投入使用](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink"),
 后来成为D4分支. 1847-1855年,
-巴黎到[里昂和](../Page/里昂.md "wikilink")[马赛的](../Page/马赛.md "wikilink")[铁路建成并投入使用](../Page/铁路.md "wikilink"),
+巴黎到[里昂和](../Page/里昂.md "wikilink")[马赛的](../Page/马赛.md "wikilink")[铁路建成并投入使用](https://zh.wikipedia.org/wiki/铁路 "wikilink"),
 后来一部分成为D2分支. 1897年,  (Ligne Corbeil-Essonnes - Montereau) 启用,
 后来一部分成为D2和D4分支的连接线, 但地图上经常没有标记出来. 1974-1975年,
-D4分支的路段在[埃夫里](../Page/埃夫里.md "wikilink") (Évry)
-附近新辟一条[复线](../Page/复线.md "wikilink"), 后来亦被整合进D线.
+D4分支的路段在[埃夫里](https://zh.wikipedia.org/wiki/埃夫里 "wikilink")
+(Évry) 附近新辟一条[复线](https://zh.wikipedia.org/wiki/复线 "wikilink"),
+后来亦被整合进D线.
 
 ### 一期工程
 
@@ -50,11 +54,11 @@ D4分支的路段在[埃夫里](../Page/埃夫里.md "wikilink") (Évry)
 只是将巴黎北站路网中的一条远郊线路向南延伸一站至市中心,
 并且与B线共用隧道, 1976年构思的原有修建单独隧道的计划被放弃. 1987年9月27日,  (Villiers-le-Bel -
 Gonesse - Arnouville) 和夏特雷-大堂之间的19公里路段作为D线的一期工程正式投入运营, 一般以此作为D线启用的日期.
-1988年, D线向北延伸一站至[古桑维尔](../Page/古桑维尔.md "wikilink") (Goussainville).
-1990年9月, 线路再向北延伸至.
+1988年, D线向北延伸一站至[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink")
+(Goussainville). 1990年9月, 线路再向北延伸至.
 
 D线的一期工程和B线共用隧道, 这样, 在一小时之内, 单个方向就有32班列车通过 (20班B线, 12班D线),
-尽管这样能够分担一部分B线和[地铁4号线的客流量](../Page/巴黎地铁4号线.md "wikilink"),
+尽管这样能够分担一部分B线和[地铁4号线的客流量](https://zh.wikipedia.org/wiki/巴黎地铁4号线 "wikilink"),
 但共用隧道却给日后的运营管理埋下了隐患.
 
 ### 南北互通
@@ -68,13 +72,14 @@ D线的一期工程和B线共用隧道, 这样, 在一小时之内, 单个方向
 (建于1980年).
 
 1995年9月24日, D线南北互通完成, 线路北起奥瑞城科耶,
-南至[默伦和](../Page/默伦.md "wikilink")[阿雷堡](../Page/阿雷堡.md "wikilink")
+南至[默伦和](../Page/默伦.md "wikilink")[阿雷堡](https://zh.wikipedia.org/wiki/阿雷堡 "wikilink")
 (La Ferté-Alais), 次年延伸至马勒舍布. 不过通车时, 正好遇上SNCF罢工, 激起乘客不满.
 
-1998年1月25日, 随着世界杯主赛场[法兰西体育场](../Page/法兰西体育场.md "wikilink") (Stade de
-France) 的竣工,  (Stade de France - Saint-Denis) 启用.
+1998年1月25日,
+随着世界杯主赛场[法兰西体育场](https://zh.wikipedia.org/wiki/法兰西体育场 "wikilink")
+(Stade de France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 
-2013年12月15日，为了方便与TVM这条[BRT线路的换乘](../Page/BRT.md "wikilink")，D线上原有的新城平原站被废弃，由在该站北边800米处的克雷泰伊蓬帕杜车站所取代。
+2013年12月15日，为了方便与TVM这条[BRT线路的换乘](https://zh.wikipedia.org/wiki/BRT "wikilink")，D线上原有的新城平原站被废弃，由在该站北边800米处的克雷泰伊蓬帕杜车站所取代。
 
 ## 线路走向和车站列表
 
@@ -107,12 +112,12 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#8ccba6"><small><strong>D3</strong></small></font></p></td>
-<td><p><strong><a href="../Page/克雷伊站.md" title="wikilink">克雷伊</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/克雷伊站" title="wikilink">克雷伊</a><br />
 <small>Creil</small></strong></p></td>
 <td><p>*</p></td>
 <td><p><a href="../Page/克雷伊.md" title="wikilink">克雷伊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneH.svg" title="fig:Logo_Paris_Transilien_ligneH.svg">Logo_Paris_Transilien_ligneH.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,8 +132,8 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><br />
 <small>Chantilly — Gouvieux</small></p></td>
 <td><p>*</p></td>
-<td><p><a href="../Page/尚蒂伊.md" title="wikilink">尚蒂伊</a></p></td>
-<td><p><a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尚蒂伊" title="wikilink">尚蒂伊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -143,8 +148,8 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><strong><br />
 <small>Orry-la-Ville - Coye</small></strong></p></td>
 <td><p>*</p></td>
-<td><p><a href="../Page/奥瑞城.md" title="wikilink">奥瑞城</a></p></td>
-<td><p><a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥瑞城" title="wikilink">奥瑞城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -159,7 +164,7 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><br />
 <small>La Borne Blanche</small></p></td>
 <td><p>*</p></td>
-<td><p><a href="../Page/奥瑞城.md" title="wikilink">奥瑞城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥瑞城" title="wikilink">奥瑞城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +180,7 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><br />
 <small>Survilliers — Fosses</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/煤矿城.md" title="wikilink">煤矿城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/煤矿城" title="wikilink">煤矿城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -191,7 +196,7 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><br />
 <small>Louvres</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/卢浮.md" title="wikilink">卢浮</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卢浮" title="wikilink">卢浮</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -207,7 +212,7 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p><br />
 <small>Les Noues</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/古桑维尔.md" title="wikilink">古桑维尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古桑维尔" title="wikilink">古桑维尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -220,10 +225,10 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#17964c"><small><strong>D7</strong></small></font></p></td>
-<td><p><a href="../Page/古桑维尔站.md" title="wikilink">古桑维尔</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/古桑维尔站" title="wikilink">古桑维尔</a><br />
 <small>Goussainville</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/古桑维尔.md" title="wikilink">古桑维尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/古桑维尔" title="wikilink">古桑维尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -240,7 +245,7 @@ France) 的竣工,  (Stade de France - Saint-Denis) 启用.
 <small>Villiers-le-Bel<br />
 Gonesse — Arnouville</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/亚努维尔戈内斯.md" title="wikilink">亚努维尔戈内斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亚努维尔戈内斯" title="wikilink">亚努维尔戈内斯</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -256,8 +261,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Garges - Sarcelles</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/加吉戈内斯.md" title="wikilink">加吉戈内斯</a><br />
-<a href="../Page/萨赛尔.md" title="wikilink">萨赛尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/加吉戈内斯" title="wikilink">加吉戈内斯</a><br />
+<a href="https://zh.wikipedia.org/wiki/萨赛尔" title="wikilink">萨赛尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -287,10 +292,10 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/圣德尼站.md" title="wikilink">圣德尼</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/圣德尼站" title="wikilink">圣德尼</a><br />
 <small>Saint-Denis</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/圣德尼.md" title="wikilink">圣德尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣德尼" title="wikilink">圣德尼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneH.svg" title="fig:Logo_Paris_Transilien_ligneH.svg">Logo_Paris_Transilien_ligneH.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Tramway-T.svg" title="fig:Tramway-T.svg">Tramway-T.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_tram_ligne1.svg" title="fig:Logo_Paris_tram_ligne1.svg">Logo_Paris_tram_ligne1.svg</a></p></td>
 <td></td>
@@ -307,7 +312,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Stade de France — Saint-Denis</small></p></td>
 <td><p>2</p></td>
-<td><p><a href="../Page/圣德尼.md" title="wikilink">圣德尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圣德尼" title="wikilink">圣德尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -320,15 +325,15 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/巴黎北站站.md" title="wikilink">巴黎北站</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/巴黎北站站" title="wikilink">巴黎北站</a><br />
 <small>Gare du Nord</small>'''</p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎第十区.md" title="wikilink">巴黎第十区</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro-M.svg" title="fig:Metro-M.svg">Metro-M.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_2_jms.svg" title="fig:Paris_m_2_jms.svg">Paris_m_2_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_4_jms.svg" title="fig:Paris_m_4_jms.svg">Paris_m_4_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_5_jms.svg" title="fig:Paris_m_5_jms.svg">Paris_m_5_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_B_jms.svg" title="fig:Paris_rer_B_jms.svg">Paris_rer_B_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_B_jms.svg" title="fig:Paris_rer_B_jms.svg">Paris_rer_B_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_E_jms.svg" title="fig:Paris_rer_E_jms.svg">Paris_rer_E_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneH.svg" title="fig:Logo_Paris_Transilien_ligneH.svg">Logo_Paris_Transilien_ligneH.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneK.svg" title="fig:Logo_Paris_Transilien_ligneK.svg">Logo_Paris_Transilien_ligneK.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a> <a href="../Page/欧洲之星.md" title="wikilink"><span style="bgcolor: #ffffff; color: #132531"><strong><em>Eurostar</em></strong></span></a> <a href="../Page/大力士高速列车.md" title="wikilink"><span style="bgcolor: #ffffff; color: #8a162b"><strong><em>Thalys</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Picardie</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a> <a href="https://zh.wikipedia.org/wiki/欧洲之星" title="wikilink"><span style="bgcolor: #ffffff; color: #132531"><strong><em>Eurostar</em></strong></span></a> <a href="../Page/大力士高速列车.md" title="wikilink"><span style="bgcolor: #ffffff; color: #8a162b"><strong><em>Thalys</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -340,7 +345,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/夏特雷-大堂站.md" title="wikilink">夏特雷-大堂</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/夏特雷-大堂站" title="wikilink">夏特雷-大堂</a><br />
 <small>Châtelet — Les Halles</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎第一区.md" title="wikilink">巴黎第一区</a></p></td>
@@ -357,15 +362,15 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/里昂车站站.md" title="wikilink">里昂车站</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/里昂车站站" title="wikilink">里昂车站</a><br />
 <small>Gare de Lyon</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十二区.md" title="wikilink">巴黎十二区</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Metro-M.svg" title="fig:Metro-M.svg">Metro-M.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_1_jms.svg" title="fig:Paris_m_1_jms.svg">Paris_m_1_jms.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_m_14_jms.svg" title="fig:Paris_m_14_jms.svg">Paris_m_14_jms.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:RER.svg" title="fig:RER.svg">RER.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_RER_A_icon.svg" title="fig:Paris_RER_A_icon.svg">Paris_RER_A_icon.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneR.svg" title="fig:Logo_Paris_Transilien_ligneR.svg">Logo_Paris_Transilien_ligneR.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Bourgogne</em></strong></span></a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Bourgogne</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,8 +385,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Maisons-Alfort — Alfortville</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/阿福居.md" title="wikilink">阿福居</a><br />
-<a href="../Page/阿福城.md" title="wikilink">阿福城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿福居" title="wikilink">阿福居</a><br />
+<a href="https://zh.wikipedia.org/wiki/阿福城" title="wikilink">阿福城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -397,8 +402,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Le Vert de Maisons</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/阿福居.md" title="wikilink">阿福居</a><br />
-<a href="../Page/阿福城.md" title="wikilink">阿福城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿福居" title="wikilink">阿福居</a><br />
+<a href="https://zh.wikipedia.org/wiki/阿福城" title="wikilink">阿福城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -414,8 +419,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Créteil-Pompadour</small></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/史瓦西勒鲁瓦.md" title="wikilink">史瓦西勒鲁瓦</a><a href="../Page/克雷泰伊.md" title="wikilink">克雷泰伊</a></p></td>
-<td><p><a href="../Page/RATP公交路网#.E9.A9.AC.E6.81.A9.E6.B2.B3.E8.B0.B7.E5.85.AC.E4.BA.A4.E4.B8.93.E7.BA.BF.md" title="wikilink"><span style="white-space: nowrap; font-size: 90%; padding: .1em; background-color: #006cb8; color: #ffcd02"><strong>TVM</strong></span></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史瓦西勒鲁瓦" title="wikilink">史瓦西勒鲁瓦</a><a href="../Page/克雷泰伊.md" title="wikilink">克雷泰伊</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/RATP公交路网#.E9.A9.AC.E6.81.A9.E6.B2.B3.E8.B0.B7.E5.85.AC.E4.BA.A4.E4.B8.93.E7.BA.BF" title="wikilink"><span style="white-space: nowrap; font-size: 90%; padding: .1em; background-color: #006cb8; color: #ffcd02"><strong>TVM</strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -445,7 +450,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/新城圣乔治站.md" title="wikilink">新城圣乔治</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/新城圣乔治站" title="wikilink">新城圣乔治</a><br />
 <small>Villeneuve-Saint-Georges</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/新城圣乔治.md" title="wikilink">新城圣乔治</a></p></td>
@@ -464,8 +469,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Montgeron — Crosne</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/蒙热朗.md" title="wikilink">蒙热朗</a><br />
-<a href="../Page/克洛尼.md" title="wikilink">克洛尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蒙热朗" title="wikilink">蒙热朗</a><br />
+<a href="https://zh.wikipedia.org/wiki/克洛尼" title="wikilink">克洛尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -481,7 +486,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Yerres</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/耶尔.md" title="wikilink">耶尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/耶尔" title="wikilink">耶尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -497,8 +502,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Brunoy</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/布吕诺瓦.md" title="wikilink">布吕诺瓦</a><br />
-<a href="../Page/埃皮奈下塞纳尔.md" title="wikilink">埃皮奈下塞纳尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布吕诺瓦" title="wikilink">布吕诺瓦</a><br />
+<a href="https://zh.wikipedia.org/wiki/埃皮奈下塞纳尔" title="wikilink">埃皮奈下塞纳尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -514,8 +519,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Boussy-Saint-Antoine</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/布西圣安托万.md" title="wikilink">布西圣安托万</a><br />
-<a href="../Page/康西下塞纳尔.md" title="wikilink">康西下塞纳尔</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布西圣安托万" title="wikilink">布西圣安托万</a><br />
+<a href="https://zh.wikipedia.org/wiki/康西下塞纳尔" title="wikilink">康西下塞纳尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +537,7 @@ Gonesse — Arnouville</small></p></td>
 <small>Combs-la-Ville — Quincy</small></p></td>
 <td><p>5</p></td>
 <td><p><br />
-<a href="../Page/康西下塞纳尔.md" title="wikilink">康西下塞纳尔</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/康西下塞纳尔" title="wikilink">康西下塞纳尔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -611,10 +616,10 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/维纽塞纳河站.md" title="wikilink">维纽塞纳河</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/维纽塞纳河站" title="wikilink">维纽塞纳河</a><br />
 <small>Vigneux-sur-Seine</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/维纽塞纳河.md" title="wikilink">维纽塞纳河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/维纽塞纳河" title="wikilink">维纽塞纳河</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -627,12 +632,12 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/于维西站.md" title="wikilink">于维西</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/于维西站" title="wikilink">于维西</a><br />
 <small>Juvisy</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/于维西奥治河.md" title="wikilink">于维西奥治河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/于维西奥治河" title="wikilink">于维西奥治河</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Paris_rer_C_jms.svg" title="fig:Paris_rer_C_jms.svg">Paris_rer_C_jms.svg</a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -649,7 +654,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Viry-Châtillon</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="../Page/维利沙蒂永.md" title="wikilink">维利沙蒂永</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/维利沙蒂永" title="wikilink">维利沙蒂永</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -665,7 +670,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Ris-Orangis</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/里奥朗吉.md" title="wikilink">里奥朗吉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里奥朗吉" title="wikilink">里奥朗吉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -678,10 +683,10 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/大城堡站.md" title="wikilink">大城堡</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/大城堡站" title="wikilink">大城堡</a><br />
 <small>Le Grand Bourg</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/埃夫里.md" title="wikilink">埃夫里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃夫里" title="wikilink">埃夫里</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -697,7 +702,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Évry-Val-de-Seine</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/埃夫里.md" title="wikilink">埃夫里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃夫里" title="wikilink">埃夫里</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -713,7 +718,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Grigny — Centre</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/格里尼.md" title="wikilink">格里尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/格里尼" title="wikilink">格里尼</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -729,7 +734,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Orangis — Bois de l'Épine</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/里奥朗吉.md" title="wikilink">里奥朗吉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/里奥朗吉" title="wikilink">里奥朗吉</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -745,8 +750,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Évry — Courcouronnes Centre</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/埃夫里.md" title="wikilink">埃夫里</a><br />
-<a href="../Page/贡院.md" title="wikilink">贡院</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃夫里" title="wikilink">埃夫里</a><br />
+<a href="https://zh.wikipedia.org/wiki/贡院" title="wikilink">贡院</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -763,7 +768,7 @@ Gonesse — Arnouville</small></p></td>
 <small>Le Bras de Fer<br />
 Évry — Génopole</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/埃夫里.md" title="wikilink">埃夫里</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/埃夫里" title="wikilink">埃夫里</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -778,10 +783,10 @@ Gonesse — Arnouville</small></p></td>
 <td><p><font color="#17964c"><small><strong>D6</strong></small></font></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/科贝伊埃松站.md" title="wikilink">科贝伊埃松</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/科贝伊埃松站" title="wikilink">科贝伊埃松</a><br />
 <small>Corbeil-Essonnes</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/科贝伊埃松.md" title="wikilink">科贝伊埃松</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科贝伊埃松" title="wikilink">科贝伊埃松</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -795,7 +800,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Essonnes — Robinson</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/科贝伊埃松.md" title="wikilink">科贝伊埃松</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科贝伊埃松" title="wikilink">科贝伊埃松</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -827,7 +832,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Le Plessis-Chenet</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/库德雷蒙梭.md" title="wikilink">库德雷蒙梭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/库德雷蒙梭" title="wikilink">库德雷蒙梭</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -843,7 +848,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Le Coudray-Montceaux</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/库德雷蒙梭.md" title="wikilink">库德雷蒙梭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/库德雷蒙梭" title="wikilink">库德雷蒙梭</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -856,7 +861,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/圣法戈站.md" title="wikilink">圣法戈</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/圣法戈站" title="wikilink">圣法戈</a><br />
 <small>Saint-Fargeau</small></p></td>
 <td><p>5</p></td>
 <td></td>
@@ -925,8 +930,8 @@ Gonesse — Arnouville</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/默伦.md" title="wikilink">默伦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneR.svg" title="fig:Logo_Paris_Transilien_ligneR.svg">Logo_Paris_Transilien_ligneR.svg</a><br />
-<a href="../Page/法国省际列车.md" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Bourgogne</em></strong></span></a><br />
-<a href="../Page/TGV.md" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
+<a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Bourgogne</em></strong></span></a><br />
+<a href="https://zh.wikipedia.org/wiki/TGV" title="wikilink"><span style="bgcolor: #ffffff; color: #808281"><strong><em>TGV</em></strong></span></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -937,7 +942,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Moulin-Galant</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/科贝伊埃松.md" title="wikilink">科贝伊埃松</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科贝伊埃松" title="wikilink">科贝伊埃松</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -953,7 +958,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Mennecy</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/梅内西.md" title="wikilink">梅内西</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梅内西" title="wikilink">梅内西</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -969,7 +974,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Ballancourt</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/巴朗古埃松河.md" title="wikilink">巴朗古埃松河</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/巴朗古埃松河" title="wikilink">巴朗古埃松河</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -985,7 +990,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>La Ferté-Alais</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/阿雷堡.md" title="wikilink">阿雷堡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿雷堡" title="wikilink">阿雷堡</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1014,7 +1019,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="../Page/梅斯站.md" title="wikilink">梅斯</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/梅斯站" title="wikilink">梅斯</a><br />
 <small>Maisse</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/梅斯.md" title="wikilink">梅斯</a></p></td>
@@ -1033,7 +1038,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Buno — Gironville</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/布诺美谷.md" title="wikilink">布诺美谷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布诺美谷" title="wikilink">布诺美谷</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1049,7 +1054,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><br />
 <small>Boigneville</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="../Page/布瓦涅城.md" title="wikilink">布瓦涅城</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/布瓦涅城" title="wikilink">布瓦涅城</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1062,10 +1067,10 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#17964c"><small><strong>D4</strong></small></font></p></td>
-<td><p><strong><a href="../Page/马勒舍布站.md" title="wikilink">马勒舍布</a><br />
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/马勒舍布站" title="wikilink">马勒舍布</a><br />
 <small>Malesherbes</small></strong></p></td>
 <td><p>*</p></td>
-<td><p><a href="../Page/马勒舍布.md" title="wikilink">马勒舍布</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马勒舍布" title="wikilink">马勒舍布</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1149,27 +1154,32 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 
 **A**=[巴黎北站](../Page/巴黎北站.md "wikilink") (南北互通中断时使用)
 
-**B**=[马勒舍布](../Page/马勒舍布.md "wikilink"), 比如**BIPE**, **BOPO**.
+**B**=[马勒舍布](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink"), 比如**BIPE**,
+**BOPO**.
 
-**D**=[里昂车站](../Page/巴黎里昂车站.md "wikilink"), 比如**DIPA**, **DOCA**.
+**D**=[里昂车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink"),
+比如**DIPA**, **DOCA**.
 
-**E**=[圣德尼](../Page/圣德尼.md "wikilink") (故障时使用)
+**E**=[圣德尼](https://zh.wikipedia.org/wiki/圣德尼 "wikilink") (故障时使用)
 
-**F**=[古桑维尔](../Page/古桑维尔.md "wikilink"), 比如**FOLA**, **FOVA**.
+**F**=[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink"), 比如**FOLA**,
+**FOVA**.
 
-**J**=[于维西](../Page/于维西.md "wikilink"), 比如**JOPA**.
+**J**=[于维西](https://zh.wikipedia.org/wiki/于维西 "wikilink"), 比如**JOPA**.
 
 **L**=, 比如**LOPA**, **LUCA**.
 
-**M**=[夏特雷-大堂](../Page/夏特雷-大堂.md "wikilink"), 比如**MIPE**, **MOPA**.
+**M**=[夏特雷-大堂](https://zh.wikipedia.org/wiki/夏特雷-大堂 "wikilink"),
+比如**MIPE**, **MOPA**.
 
 **N**=, 比如**NUCO**.
 
-**R**=[科贝伊埃松](../Page/科贝伊埃松.md "wikilink"), 比如**ROPO**, **ROVO**.
+**R**=[科贝伊埃松](https://zh.wikipedia.org/wiki/科贝伊埃松 "wikilink"),
+比如**ROPO**, **ROVO**.
 
 **S**=[克雷伊](../Page/克雷伊.md "wikilink"), 比如**SOLA**, **SUCA**.
 
-**T**=[阿雷堡](../Page/阿雷堡.md "wikilink"), 比如**TIPE**.
+**T**=[阿雷堡](https://zh.wikipedia.org/wiki/阿雷堡 "wikilink"), 比如**TIPE**.
 
 **U**=, 比如**UOVA**.
 
@@ -1222,25 +1232,26 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 ### 高峰时段
 
 1\.
-每15分钟一班往返于[奥瑞城和](../Page/奥瑞城.md "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**ZUCO**和**LUCA**,
-不停靠[阿福居和](../Page/阿福居.md "wikilink")[新城圣乔治之间的车站](../Page/新城圣乔治.md "wikilink").
+每15分钟一班往返于[奥瑞城和](https://zh.wikipedia.org/wiki/奥瑞城 "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**ZUCO**和**LUCA**,
+不停靠[阿福居和](https://zh.wikipedia.org/wiki/阿福居 "wikilink")[新城圣乔治之间的车站](../Page/新城圣乔治.md "wikilink").
 
-2\. 每15分钟一班往返于[古桑维尔](../Page/古桑维尔.md "wikilink") (或, 两者交替)
-和[科贝伊埃松的列车](../Page/科贝伊埃松.md "wikilink")**ROVO**和**FOVA**
+2\. 每15分钟一班往返于[古桑维尔](https://zh.wikipedia.org/wiki/古桑维尔 "wikilink") (或,
+两者交替)
+和[科贝伊埃松的列车](https://zh.wikipedia.org/wiki/科贝伊埃松 "wikilink")**ROVO**和**FOVA**
 (或**VOVA**), 每站都停靠.
 
 3\.
-每15分钟一班往返于[夏特雷-大堂和](../Page/夏特雷-大堂站.md "wikilink")[马勒舍布的列车](../Page/马勒舍布.md "wikilink")**BIPE**和**MIPE**,
-从[里昂车站直达](../Page/巴黎里昂车站.md "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink"),
-而后停靠除[维利沙蒂永之外的所有车站](../Page/维利沙蒂永.md "wikilink").
+每15分钟一班往返于[夏特雷-大堂和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[马勒舍布的列车](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")**BIPE**和**MIPE**,
+从[里昂车站直达](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink"),
+而后停靠除[维利沙蒂永之外的所有车站](https://zh.wikipedia.org/wiki/维利沙蒂永 "wikilink").
 
 4\.
-每15分钟一班往返于[里昂车站和](../Page/巴黎里昂车站.md "wikilink")[默伦的潮汐列车](../Page/默伦.md "wikilink")
+每15分钟一班往返于[里昂车站和](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[默伦的潮汐列车](../Page/默伦.md "wikilink")
 (早班高峰只有北行列车, 晚班高峰只有南行列车) **ZECO**和**DECA**,
-从[里昂车站直达](../Page/巴黎里昂车站.md "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink").
+从[里昂车站直达](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[新城圣乔治](../Page/新城圣乔治.md "wikilink").
 
 5\.
-每15分钟一班往返于[于维西和](../Page/于维西.md "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**JOPA**和**ZOPO**,
+每15分钟一班往返于[于维西和](https://zh.wikipedia.org/wiki/于维西 "wikilink")[默伦的列车](../Page/默伦.md "wikilink")**JOPA**和**ZOPO**,
 每站都停靠.
 
 对于D2和D4两个分支, 列车服务频率有显著差别, 高峰时段往返默伦的列车7分钟一班, 非高峰时段也有15分钟一班,
@@ -1255,15 +1266,16 @@ Image:Z20500R interieur2.jpg|翻新后的Z 20500列车上层车厢
 [Gare_de_Villeneuve-Saint-Georges_1.jpg](https://zh.wikipedia.org/wiki/File:Gare_de_Villeneuve-Saint-Georges_1.jpg "fig:Gare_de_Villeneuve-Saint-Georges_1.jpg")
 
 D线的车站大多为地面或架空车站,
-市区的[巴黎北站和](../Page/巴黎北站.md "wikilink")[夏特雷-大堂站为深层地底车站](../Page/夏特雷-大堂站.md "wikilink"),
-[里昂车站为浅层地底车站](../Page/巴黎里昂车站.md "wikilink").
-大多数车站都设有至少两个[侧式月台](../Page/侧式月台.md "wikilink"),
+市区的[巴黎北站和](../Page/巴黎北站.md "wikilink")[夏特雷-大堂站为深层地底车站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink"),
+[里昂车站为浅层地底车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink").
+大多数车站都设有至少两个[侧式月台](https://zh.wikipedia.org/wiki/侧式月台 "wikilink"),
 左上右下, 但在重要车站, 转乘站, 分支交汇点,
-终点站会引入多个侧式月台或[岛式月台进行辅助](../Page/岛式月台.md "wikilink").
+终点站会引入多个侧式月台或[岛式月台进行辅助](https://zh.wikipedia.org/wiki/岛式月台 "wikilink").
 
-值得注意的是, 由于全线由[法国国家铁路公司运营](../Page/法国国家铁路公司.md "wikilink"),
-D线有大量路段与[远郊车](../Page/法兰西岛区域铁路.md "wikilink"),
-[省际列车和](../Page/法国省际列车.md "wikilink")[TGV混跑](../Page/TGV.md "wikilink"),
+值得注意的是,
+由于全线由[法国国家铁路公司运营](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink"),
+D线有大量路段与[远郊车](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink"),
+[省际列车和](https://zh.wikipedia.org/wiki/法国省际列车 "wikilink")[TGV混跑](https://zh.wikipedia.org/wiki/TGV "wikilink"),
 另外加上线路只是短暂穿过巴黎右岸, 因而混合多月台车站的比例也较其他快铁线路为高,
 仅次于[E线](../Page/法兰西岛大区快铁E线.md "wikilink").
 
@@ -1304,13 +1316,14 @@ RER D线是一条遭受较多负面评价的快铁线路。破坏率, 故障率,
 D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而知, 一有风吹草动,
 舆论就信以为真并大加鞑伐. 这次伪造报警只是RER负面形象的一个缩影.
 
-由于这件事的知名度远远超出其事件本身, 导演[安德雷·迪西内](../Page/安德雷·迪西内.md "wikilink") (André
-Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
+由于这件事的知名度远远超出其事件本身,
+导演[安德雷·迪西内](https://zh.wikipedia.org/wiki/安德雷·迪西内 "wikilink")
+(André Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 
 #### 2007年"犯罪日"
 
 2007年11月25日, 一名23岁的,
-就读于新闻专业的学生在[克雷伊车站被人用匕首刺成重伤](../Page/克雷伊车站.md "wikilink"),
+就读于新闻专业的学生在[克雷伊车站被人用匕首刺成重伤](https://zh.wikipedia.org/wiki/克雷伊车站 "wikilink"),
 一小时后不治身亡. 同日, 在, 一名44岁的男子被刀具打伤, 并接受警方质询. 调查得出该男子试图趁列车上无人时进行性侵犯而遭防卫受伤.
 这两起事件引起人们对列车缺乏安全监控的注意.
 
@@ -1324,9 +1337,9 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 
 [Gare_de_La_Ferte-Alais_IMG_1780.JPG](https://zh.wikipedia.org/wiki/File:Gare_de_La_Ferte-Alais_IMG_1780.JPG "fig:Gare_de_La_Ferte-Alais_IMG_1780.JPG")
 
-  - D线和B线在[夏特雷-大堂站和](../Page/夏特雷-大堂站.md "wikilink")[巴黎北站之间共用隧道](../Page/巴黎北站.md "wikilink"),
+  - D线和B线在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间共用隧道](../Page/巴黎北站.md "wikilink"),
     被公认是一大败笔. 因为在高峰时段, 一小时内有20班B线列车通过, 12班D线列车通过, 居全欧洲之首.
-    而这段隧道管理权归[大众运输公司](../Page/巴黎大众运输公司.md "wikilink")
+    而这段隧道管理权归[大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")
     (RATP) 所有, RATP偏好让B线优先通过, 这样D线的正点率自然下降.
 
 <!-- end list -->
@@ -1335,13 +1348,14 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 
 <!-- end list -->
 
-  - D线全程有18个[转辙器](../Page/转辙器.md "wikilink"), 启用年代相差甚远, 最老的建于1932年,
-    最新的建于2005年, 并且分属北站, 里昂车站, 夏特雷-大堂站三个区域管辖, 难以协同工作, 经常发生运作冲突.
+  - D线全程有18个[转辙器](https://zh.wikipedia.org/wiki/转辙器 "wikilink"),
+    启用年代相差甚远, 最老的建于1932年, 最新的建于2005年, 并且分属北站, 里昂车站,
+    夏特雷-大堂站三个区域管辖, 难以协同工作, 经常发生运作冲突.
 
 <!-- end list -->
 
-  - [科贝伊埃松往](../Page/科贝伊埃松.md "wikilink")[默伦](../Page/默伦.md "wikilink"),
-    [马勒舍布和](../Page/马勒舍布.md "wikilink")[于维西](../Page/于维西.md "wikilink")
+  - [科贝伊埃松往](https://zh.wikipedia.org/wiki/科贝伊埃松 "wikilink")[默伦](../Page/默伦.md "wikilink"),
+    [马勒舍布和](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")[于维西](https://zh.wikipedia.org/wiki/于维西 "wikilink")
     (经北部河边段) 有36个[平交道口](../Page/平交道.md "wikilink"), 带来了人, 车等随意穿越铁轨的隐患,
     并时常发生事故.
 
@@ -1484,13 +1498,14 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 2008年12月14日, SNCF推出旨在改善线路服务质素的"即刻D"计划. 计划主要包括以下内容:
 
 减小一班列车的运行长度, 减少一小时内通过"黑点"隧道的班次数量 (12班减少到8班),
-从[马勒舍布发出的列车在](../Page/马勒舍布.md "wikilink")[夏特雷-大堂折返](../Page/夏特雷-大堂站.md "wikilink"),
+从[马勒舍布发出的列车在](https://zh.wikipedia.org/wiki/马勒舍布 "wikilink")[夏特雷-大堂折返](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink"),
 而不是继续向北前进.
 
 然而, 该计划实际收效与期望值几乎南辕北辙, 服务质素不仅没有提高, 反而遭到更多的抱怨, 因为北部列车班次减少了, 而慢车班次增多了,
 通勤效率更低了. 2009年1月31日和2月7日, 在和分别爆发针对"即刻D"计划的示威游行.
 
-而同年10月15日和16日, 和[维纽塞纳河站各自发生了一次技术故障](../Page/维纽塞纳河站.md "wikilink"),
+而同年10月15日和16日,
+和[维纽塞纳河站各自发生了一次技术故障](https://zh.wikipedia.org/wiki/维纽塞纳河站 "wikilink"),
 使当日东南路网交通陷入混乱. 10月17日, 随着"即刻D"计划的到期, 在, 民众代表和旅客再次进行了示威游行,
 并阻断低峰期北行列车达15分钟, 表示对该计划的不满. 最终, D计划只得灰头土脸地收场.
 
@@ -1501,10 +1516,11 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 
 ## 未来计划
 
-为了彻底改善目前D线的糟糕状况, 2006年, [法兰西岛运输联合会](../Page/法兰西岛运输联合会.md "wikilink")
+为了彻底改善目前D线的糟糕状况, 2006年,
+[法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink")
 (Syndicat des transports d'Île-de-France, STIF), 国家铁路公司和 (RFF)
 联合推出了D线的改善计划图景, 接着他们又在翌年通过一系列的协商,
-将立即融资重整[古桑维尔站](../Page/古桑维尔站.md "wikilink"),
+将立即融资重整[古桑维尔站](https://zh.wikipedia.org/wiki/古桑维尔站 "wikilink"),
 改善其在高峰时段的列车调头性能. 预计耗资587万欧元. STIF和RFF各自承担其中的50%.
 
 [Gare_Corbeil-Essonnes_IMG_1254.JPG](https://zh.wikipedia.org/wiki/File:Gare_Corbeil-Essonnes_IMG_1254.JPG "fig:Gare_Corbeil-Essonnes_IMG_1254.JPG")
@@ -1515,7 +1531,7 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
 当局还计划要将列车停靠服务进行重整, 以增强其规律性.
 
   - 自2008年12月当局修改D线的运作方式之后,
-    [夏特雷-大堂站和](../Page/夏特雷-大堂站.md "wikilink")[巴黎北站之间的D线列车数目有所减少](../Page/巴黎北站.md "wikilink"),
+    [夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间的D线列车数目有所减少](../Page/巴黎北站.md "wikilink"),
     相应的, 隧道内的信号设备也应该作适当修改, 以利用列车之间的空隙.
 
 <!-- end list -->
@@ -1523,46 +1539,48 @@ Téchiné) 根据其过程排成电影 (La Fille du RER), 并于2009年上映.
   - 尽管经过优化, 但仍然满足不了运营要求, 因为列车在本站落客后, 还需向北行驶至掉头路轨处, 之后再掉头返回载客南下. 原先规划中,
     该站即将被改造成双掉头停靠站, 即列车可在两个月台停靠后直接折返. 但考虑到不影响附近的生态环境, 最终改为增长轨道长度,
     以及增开一条站内渡线. 这样做还可以将D线的车流和其他铁路系统的车流
-    (比如[TER](../Page/法国省际列车.md "wikilink")) 分离开来,
+    (比如[TER](https://zh.wikipedia.org/wiki/法国省际列车 "wikilink")) 分离开来,
     缓解奥瑞城和巴黎之间的拥堵状况.
 
 <!-- end list -->
 
-  - [科贝伊埃松站连接默伦连接线](../Page/科贝伊埃松站.md "wikilink"), 马勒舍布, 埃夫里北部河边段,
-    埃夫里南部高原段四个方向, 列车运行调度复杂, 也是规划中必不可少的改造对象.
+  - [科贝伊埃松站连接默伦连接线](https://zh.wikipedia.org/wiki/科贝伊埃松站 "wikilink"),
+    马勒舍布, 埃夫里北部河边段, 埃夫里南部高原段四个方向, 列车运行调度复杂, 也是规划中必不可少的改造对象.
 
 <!-- end list -->
 
-  - [里昂车站和](../Page/巴黎里昂车站.md "wikilink")[新城圣乔治车站之间也将得到大规模的整顿](../Page/新城圣乔治车站.md "wikilink"),
-    包括速度和轨道bis的信号控制优化, 轨道M的性能优化, 整顿和改善[贝西车站](../Page/贝西车站.md "wikilink")
-    (Gare de Bercy) 的[地铁换乘功能](../Page/巴黎地铁14号线.md "wikilink"),
+  - [里昂车站和](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")[新城圣乔治车站之间也将得到大规模的整顿](https://zh.wikipedia.org/wiki/新城圣乔治车站 "wikilink"),
+    包括速度和轨道bis的信号控制优化, 轨道M的性能优化,
+    整顿和改善[贝西车站](https://zh.wikipedia.org/wiki/贝西车站 "wikilink")
+    (Gare de Bercy)
+    的[地铁换乘功能](https://zh.wikipedia.org/wiki/巴黎地铁14号线 "wikilink"),
     以提高该路段的负载能力.
 
 ### 长远规划, 2015年以后
 
 2.2亿-2.5亿欧元将被用于改善D2分支 ([默伦](../Page/默伦.md "wikilink"))
-的饱和状况以及[于维西和格里尼中心之间的线路负载](../Page/于维西.md "wikilink").
+的饱和状况以及[于维西和格里尼中心之间的线路负载](https://zh.wikipedia.org/wiki/于维西 "wikilink").
 
 ### 其他内容
 
-  - 当局考虑在[夏特雷-大堂站和](../Page/夏特雷-大堂站.md "wikilink")[巴黎北站之间修建第二条隧道以根本性解决B线和D线的互相干扰问题](../Page/巴黎北站.md "wikilink").
+  - 当局考虑在[夏特雷-大堂站和](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")[巴黎北站之间修建第二条隧道以根本性解决B线和D线的互相干扰问题](../Page/巴黎北站.md "wikilink").
 
 <!-- end list -->
 
   - 在维埃贝尔附近新开辟一条7公里的支线前往戴高乐机场附近和B线相接曾被提议过, 计划成为2007-2013年的一个项目,
     预计耗资2.5亿欧元.
-    法国总统[萨科齐和大区议会主席也希望此工程能够于](../Page/萨科齐.md "wikilink")2012年开工建设.
+    法国总统[萨科齐和大区议会主席也希望此工程能够于](https://zh.wikipedia.org/wiki/萨科齐 "wikilink")2012年开工建设.
 
 但这个支线项目最终被STIF否决, 相关交通仍由公共巴士进行服务. 这一决定使当地选民感到沮丧. 于是, 在2008年12月18日,
 他们借投票表达对这一项目的渴求.
 
-目前的计划是，在D线上的[维耶勒贝尔站往东北新开辟一条分支](../Page/维耶勒贝尔站.md "wikilink")，中间经过新修的戈讷斯三角地（Triangle
+目前的计划是，在D线上的[维耶勒贝尔站往东北新开辟一条分支](https://zh.wikipedia.org/wiki/维耶勒贝尔站 "wikilink")，中间经过新修的戈讷斯三角地（Triangle
 de Gonesse）车站，
-一直到B线上的[会展公园站为止](../Page/会展公园站.md "wikilink")，不再延长到戴高乐机场,目前暂无任何消息。
+一直到B线上的[会展公园站为止](https://zh.wikipedia.org/wiki/会展公园站 "wikilink")，不再延长到戴高乐机场,目前暂无任何消息。
 
 ## 周边主要旅游景点
 
-  - [尚蒂伊堡](../Page/尚蒂伊堡.md "wikilink")
+  - [尚蒂伊堡](https://zh.wikipedia.org/wiki/尚蒂伊堡 "wikilink")
 
 <!-- end list -->
 

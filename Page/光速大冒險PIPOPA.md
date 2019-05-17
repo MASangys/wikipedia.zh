@@ -1,9 +1,9 @@
 《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台於](../Page/東京電視台.md "wikilink")2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo
-DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
+DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 ## 故事大綱
 
-故事主角**秋川勇太**，是一個對現代科技反感的小男孩。自從全家搬到「上舞市」這座充斥著高科技氣息的城市後，直到有一天，他將[手機打開後](../Page/手機.md "wikilink")，被吸入了手機內部的[虛擬實境](../Page/虛擬實境.md "wikilink")，遇見了三個在虛擬世界活動的精靈─**小霹**、**小波**與**小帕**，展開了一場不可思議的虛擬世界旅程……
+故事主角**秋川勇太**，是一個對現代科技反感的小男孩。自從全家搬到「上舞市」這座充斥著高科技氣息的城市後，直到有一天，他將[手機打開後](https://zh.wikipedia.org/wiki/手機 "wikilink")，被吸入了手機內部的[虛擬實境](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")，遇見了三個在虛擬世界活動的精靈─**小霹**、**小波**與**小帕**，展開了一場不可思議的虛擬世界旅程……
 
 ## 人物介紹
 
@@ -16,7 +16,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
   -
     配音員：日：[佐藤利奈](../Page/佐藤利奈.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[陸惠玲](../Page/陸惠玲.md "wikilink")
     本劇主角，是個11歲的小五生，個性懦弱、膽小卻十分善良。
-    於第18話提及他和**進藤守**一様是[雙子座](../Page/雙子座.md "wikilink")。
+    於第18話提及他和**進藤守**一様是[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
     對電腦十分不在行且對其心生恐懼，但他對[天文學有濃厚的興趣](../Page/天文學.md "wikilink")。
     某日，他開啟手機的時候，被吸進了手機內的虛擬實境，遇見了三隻在虛擬世界的精靈：小霹、小波與小帕，並與它們展開了一場奇幻旅程。
     第49集被相澤讓軟禁在未來夢想公司，並且被他沒收手機，直到被朋友們救才拿回手機。
@@ -41,9 +41,9 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[笹島かほる](../Page/笹島かほる.md "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[陳凱婷](../Page/陳凱婷.md "wikilink")（第1-2集）→[黃鳳英](../Page/黃鳳英.md "wikilink")（第3集起）
+    配音員：日：[笹島かほる](https://zh.wikipedia.org/wiki/笹島かほる "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[陳凱婷](../Page/陳凱婷.md "wikilink")（第1-2集）→[黃鳳英](../Page/黃鳳英.md "wikilink")（第3集起）
     勇太最要好的朋友，對電腦十分在行，且專精程式設計。
-    於第18話提及他和**秋川勇太**一様是[雙子座](../Page/雙子座.md "wikilink")。
+    於第18話提及他和**秋川勇太**一様是[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
     經常幫助勇太克服電腦方面的疑難雜症，並在勇太於虛擬世界有難時伸出援手。
     因為看到勇太進行網絡潛水，於是自行研究網絡潛水程式，但多次研究也不成功，於是前往德國找祖父佛瑞斯特博士幫忙，並答應和佛瑞斯特博士的意識融合來進行網絡潛水。
     但是後來佛瑞斯特博士將他的意識封印，令到他陷入昏迷，後來在第51集因為賽蓮的力量而解除封印，並且與佛瑞斯特的意識分離。
@@ -59,7 +59,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
     配音員：日：[白石涼子](../Page/白石涼子.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")／香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")、[程文意](../Page/程文意.md "wikilink")（第7-8集）
     全身橘紅色的精靈，具有變形為汽車與航空器的能力。
     喜歡惡作劇且行動十分敏捷。
-    個性十分急躁，且有強烈的[幽閉恐懼症](../Page/幽閉恐懼症.md "wikilink")。
+    個性十分急躁，且有強烈的[幽閉恐懼症](https://zh.wikipedia.org/wiki/幽閉恐懼症 "wikilink")。
 
 <!-- end list -->
 
@@ -78,7 +78,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[矢部雅史](../Page/矢部雅史.md "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[許盈](../Page/許盈.md "wikilink")、[黃鳳英](../Page/黃鳳英.md "wikilink")（第13-14集）
+    配音員：日：[矢部雅史](https://zh.wikipedia.org/wiki/矢部雅史 "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[許盈](../Page/許盈.md "wikilink")、[黃鳳英](../Page/黃鳳英.md "wikilink")（第13-14集）
     全身藍色的精靈，戴著一副[眼鏡](../Page/眼鏡.md "wikilink")，頭腦十分靈光。
     為人彬彬有禮，但也有不知變通的頑固特質。
     上述三者合稱為「PiPoPa」，但是他們十分不喜歡被這樣稱呼，尤其是小霹聽到這個稱呼的時候會生氣地大喊「別叫我們PiPoPa！」。
@@ -90,7 +90,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[高垣彩陽](../Page/高垣彩陽.md "wikilink")（歌聲）／台：[許淑嬪](../Page/許淑嬪.md "wikilink")、[姚敏敏](../Page/姚敏敏.md "wikilink")（歌聲）／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](../Page/林元春.md "wikilink")（第41-45集）
+    配音員：日：[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[高垣彩陽](../Page/高垣彩陽.md "wikilink")（歌聲）／台：[許淑嬪](../Page/許淑嬪.md "wikilink")、[姚敏敏](../Page/姚敏敏.md "wikilink")（歌聲）／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（第41-45集）
     它是「未來夢想公司」的極高機密，具有極為神祕的色彩。
     有旺盛的好奇心，口頭禪為「噗～」。
     曾遭到「未來夢想公司」囚禁，在它被「PiPoPa」救出後，便與它們一起行動。原本是佛瑞斯特博士的網路精靈，後來在第51集，變成守的網路精靈。
@@ -109,7 +109,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
     勇太的同班同學，身材壯碩，雖然有時會以蠻力欺負他人，但其實也有善良跟講義氣的一面。
     對小光和沙也加皆有好感，將跟她們兩個十分親近的勇太視為勁敵。
     自家經營[和菓子屋](../Page/和菓子.md "wikilink")。
-    名字源自於日本棒球選手[長島茂雄之子長島一茂](../Page/長島茂雄.md "wikilink")。
+    名字源自於日本棒球選手[長島茂雄之子長島一茂](https://zh.wikipedia.org/wiki/長島茂雄 "wikilink")。
     於第19話聽到祖父江光與秋川勇太在閒聊，於是前去查看，結果便看到秋川勇太與祖父江光在準備網絡潛水，於是便抓住秋川勇太，就這樣開始了江之島一茂的第一次網絡潛水。
     第49集被相澤讓軟禁在未來夢想公司，並且被他沒收手機，直到被朋友們救才拿回手機。
 
@@ -131,7 +131,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[矢口麻美](../Page/矢口麻美.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")／香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")、[梁少霞](../Page/梁少霞.md "wikilink")（第3-4集）
+    配音員：日：[矢口麻美](../Page/矢口麻美.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")／香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")、[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（第3-4集）
     一茂的朋友，專長為機械。
     第50集開始靠著勇太他們才能進入網路世界，之後可以自由進出
 
@@ -155,7 +155,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[高垣彩陽](../Page/高垣彩陽.md "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[梁少霞](../Page/梁少霞.md "wikilink")
+    配音員：日：[高垣彩陽](../Page/高垣彩陽.md "wikilink")／台：[姚敏敏](../Page/姚敏敏.md "wikilink")／香港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")
     於本劇第7話登場，自幼體弱多病，因此較班上同學晚一年入學；但她成績優秀，希望可以成為醫生。
     自家經營旅館「雪谷亭」。
     第46集因受到歐里哈爾康碎片的影響，展開網路潛水，爾後被勇太他們帶回到現實世界。
@@ -240,7 +240,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 
   -
     配音員：日：儀武優子／台：呂詠均／香港：[林芷筠](../Page/林芷筠.md "wikilink")
-    上述三者合稱為「BiBoBa」（日文發音為[濁音](../Page/濁音.md "wikilink")），與「PiPoPa（日文發音為半濁音）」三人組為死對頭，個別為綠色、深紅色與紫色的精靈，它們都有戴墨鏡。江之島一茂可以透過他們進入網絡世界。
+    上述三者合稱為「BiBoBa」（日文發音為[濁音](https://zh.wikipedia.org/wiki/濁音 "wikilink")），與「PiPoPa（日文發音為半濁音）」三人組為死對頭，個別為綠色、深紅色與紫色的精靈，它們都有戴墨鏡。江之島一茂可以透過他們進入網絡世界。
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[石川綾乃](../Page/石川綾乃.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
+    配音員：日：[石川綾乃](https://zh.wikipedia.org/wiki/石川綾乃 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
     居住在環保網站的精靈，於第21集出現,祖父江光可以透過他進入網絡世界。
 
 <!-- end list -->
@@ -259,7 +259,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[世戶沙織](../Page/世戶沙織.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](../Page/林元春.md "wikilink")（第41-45集）
+    配音員：日：[世戶沙織](../Page/世戶沙織.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（第41-45集）
     是居住於祖父江十三電腦長達四十年的精靈，非常愛慕十三，稱他為「十三老爺」。於第29集向十三現出容貌。
 
 <!-- end list -->
@@ -269,7 +269,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[三戶崇史](../Page/三戶崇史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](../Page/林元春.md "wikilink")（第41-45集）
+    配音員：日：[三戶崇史](https://zh.wikipedia.org/wiki/三戶崇史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[高可慧](../Page/高可慧.md "wikilink")、[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")（第41-45集）
     居住於鐵路交通機關設施，經常搭乘火車四處旅行。
 
 <!-- end list -->
@@ -279,7 +279,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[麥皓豐](../Page/麥皓豐.md "wikilink")
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[麥皓豐](../Page/麥皓豐.md "wikilink")
     居住在某搜尋網站的精靈，外型像大樹。
 
 <!-- end list -->
@@ -289,8 +289,8 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[COON](../Page/COON.md "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")
-    勇太的媽媽優子常拜訪的[購物網站內所居住的精靈](../Page/購物網站.md "wikilink")。
+    配音員：日：[COON](https://zh.wikipedia.org/wiki/COON "wikilink")／香港：[程文意](../Page/程文意.md "wikilink")
+    勇太的媽媽優子常拜訪的[購物網站內所居住的精靈](https://zh.wikipedia.org/wiki/購物網站 "wikilink")。
 
 <!-- end list -->
 
@@ -299,7 +299,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
+    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
     居住於「上舞第三小學校」營養管理網站內的精靈，曾被「PiPoPa」三人組欺侮而性情大變。
 
 <!-- end list -->
@@ -309,13 +309,13 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[大川透](../Page/大川透.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳欣](../Page/陳欣.md "wikilink")
+    配音員：日：[大川透](../Page/大川透.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")
     在本劇第三話登場，外觀為穿著西裝，且居住在圖像網站內的精靈。
     喜歡收藏畫作，為了收藏而不擇手段巧取豪奪他人的作品。
 
 <!-- end list -->
 
-  - **旅嚕嚕**（）（配音員：日：[COON](../Page/COON.md "wikilink")／台：[許淑嬪](../Page/許淑嬪.md "wikilink")／香港：[黃鳳英](../Page/黃鳳英.md "wikilink")）、**館嚕嚕**（）（配音員：日：[儀武優子](../Page/儀武優子.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+  - **旅嚕嚕**（）（配音員：日：[COON](https://zh.wikipedia.org/wiki/COON "wikilink")／台：[許淑嬪](../Page/許淑嬪.md "wikilink")／香港：[黃鳳英](../Page/黃鳳英.md "wikilink")）、**館嚕嚕**（）（配音員：日：[儀武優子](https://zh.wikipedia.org/wiki/儀武優子 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")）
 
 <!-- end list -->
 
@@ -329,7 +329,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[飯島肇](../Page/飯島肇.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
+    配音員：日：[飯島肇](https://zh.wikipedia.org/wiki/飯島肇 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
     居住於網路動畫網站的精靈。好像特別喜歡看電影。
 
 <!-- end list -->
@@ -349,7 +349,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[木下紗華](../Page/木下紗華.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    配音員：日：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     居住於祖父江光父親電腦裡的精靈，隨著資料的消失，它也跟著消失了。
 
 <!-- end list -->
@@ -359,7 +359,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[矢口麻美](../Page/矢口麻美.md "wikilink")／台：[呂詠均](../Page/呂詠均.md "wikilink")／香港：[林丹鳳](../Page/林丹鳳.md "wikilink")
+    配音員：日：[矢口麻美](../Page/矢口麻美.md "wikilink")／台：[呂詠均](https://zh.wikipedia.org/wiki/呂詠均 "wikilink")／香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
     居住於占卜網站的精靈。外表是老奶奶的樣子。
 
 <!-- end list -->
@@ -369,7 +369,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：台：[呂詠均](../Page/呂詠均.md "wikilink")／香港：[謝潔貞](../Page/謝潔貞.md "wikilink")
+    配音員：台：[呂詠均](https://zh.wikipedia.org/wiki/呂詠均 "wikilink")／香港：[謝潔貞](../Page/謝潔貞.md "wikilink")
     居住於交通管理系統網站的精靈。教導方向方面的事情。
 
 <!-- end list -->
@@ -379,7 +379,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")
+    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")
     居住於垃圾場網站的精靈。
 
 <!-- end list -->
@@ -389,8 +389,8 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
-    居住於[馱果子屋網站的精靈](../Page/馱果子.md "wikilink")。
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
+    居住於[馱果子屋網站的精靈](https://zh.wikipedia.org/wiki/馱果子 "wikilink")。
 
 <!-- end list -->
 
@@ -399,7 +399,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[深澤智義](../Page/深澤智義.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[黃鳳英](../Page/黃鳳英.md "wikilink")
+    配音員：日：[深澤智義](https://zh.wikipedia.org/wiki/深澤智義 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[黃鳳英](../Page/黃鳳英.md "wikilink")
     居住於翻譯網站內的精靈。
 
 <!-- end list -->
@@ -409,7 +409,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[魚建](../Page/魚建.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
+    配音員：日：[魚建](https://zh.wikipedia.org/wiki/魚建 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
     居住於網路偶像網站內的精靈。
 
 <!-- end list -->
@@ -419,7 +419,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
     居住於旅遊網站內的精靈。
 
 <!-- end list -->
@@ -429,7 +429,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[川野剛稔](../Page/川野剛稔.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
+    配音員：日：[川野剛稔](https://zh.wikipedia.org/wiki/川野剛稔 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
     居住於醫院網站內的精靈。
 
 ### 未來夢想公司（Dream Future Inc.）
@@ -439,7 +439,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[飯島肇](../Page/飯島肇.md "wikilink")／台：[吳東原](../Page/吳東原.md "wikilink")／香港：[黃子敬](../Page/黃子敬.md "wikilink")
+    配音員：日：[飯島肇](https://zh.wikipedia.org/wiki/飯島肇 "wikilink")／台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")／香港：[黃子敬](../Page/黃子敬.md "wikilink")
     「未來夢想公司」的創始人，進藤守的祖父，全名是亞歷士佛瑞斯特，祖父江十三的大學同學，但立場與祖父江十三相左。
     第51集因為賽蓮的力量，導致佛瑞斯特博士與進藤守的意識分離而消失，導致在現實世界死亡
 
@@ -460,7 +460,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 
 :\***亞修**（）
 
-::配音員：日：[元村哲也](../Page/元村哲也.md "wikilink")／台：[吳東原](../Page/吳東原.md "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
+::配音員：日：[元村哲也](../Page/元村哲也.md "wikilink")／台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
 
 ::北美分部長。
 
@@ -472,7 +472,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 
 :\***法蘭索瓦**（）
 
-::配音員：台：[吳東原](../Page/吳東原.md "wikilink")／香港：[黃麗芳](../Page/黃麗芳.md "wikilink")→[李凱傑](../Page/李凱傑.md "wikilink")
+::配音員：台：[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")／香港：[黃麗芳](../Page/黃麗芳.md "wikilink")→[李凱傑](../Page/李凱傑.md "wikilink")
 
 ::歐洲分部長。
 
@@ -481,7 +481,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
   -
 
       -
-        配音員：日：[原田晃](../Page/原田晃.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳廷軒](../Page/陳廷軒.md "wikilink")
+        配音員：日：[原田晃](https://zh.wikipedia.org/wiki/原田晃 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳廷軒](../Page/陳廷軒.md "wikilink")
         北非分部長。
 
 <!-- end list -->
@@ -491,7 +491,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[矢部雅史](../Page/矢部雅史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
+    配音員：日：[矢部雅史](https://zh.wikipedia.org/wiki/矢部雅史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
     「未來夢想公司」日本分部長，曾研製出超級電腦「賽蓮」。
     之後因為犯罪行為遭到逮捕，爾後逃獄。
     第40集因為被佛瑞斯特的攻擊而被刪除資料，導致在現實世界死亡
@@ -513,7 +513,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
+    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
     在風間壬被捕後，接任「未來夢想公司」的日本分部長，後來轉到和菓子店工作。
 
 <!-- end list -->
@@ -533,7 +533,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[深澤智義](../Page/深澤智義.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
+    配音員：日：[深澤智義](https://zh.wikipedia.org/wiki/深澤智義 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")
     為「未來夢想公司」的保安人員。
 
 <!-- end list -->
@@ -543,7 +543,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[原田晃](../Page/原田晃.md "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")
+    配音員：日：[原田晃](https://zh.wikipedia.org/wiki/原田晃 "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")
     為「未來夢想公司」的保安人員，戴著一副眼鏡。
 
 ### 家人
@@ -553,8 +553,8 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[志村知幸](../Page/志村知幸.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳廷軒](../Page/陳廷軒.md "wikilink")
-    勇太的父親，是個職業[攝影師](../Page/攝影師.md "wikilink")。
+    配音員：日：[志村知幸](https://zh.wikipedia.org/wiki/志村知幸 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳廷軒](../Page/陳廷軒.md "wikilink")
+    勇太的父親，是個職業[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")。
 
 <!-- end list -->
 
@@ -574,8 +574,8 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[林保全](../Page/林保全.md "wikilink")、[盧國權](../Page/盧國權.md "wikilink")（第17話代配）、[陳卓智](../Page/陳卓智.md "wikilink")（大學生時）
-    祖父江光的祖父，為上舞大學的教授，專長為情報工學，也是[人工智慧與](../Page/人工智慧.md "wikilink")[網際網路的權威](../Page/網際網路.md "wikilink")。
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[林保全](../Page/林保全.md "wikilink")、[盧國權](../Page/盧國權.md "wikilink")（第17話代配）、[陳卓智](../Page/陳卓智.md "wikilink")（大學生時）
+    祖父江光的祖父，為上舞大學的教授，專長為情報工學，也是[人工智慧與](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")[網際網路的權威](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
     十分疼愛孫女。
 
 <!-- end list -->
@@ -585,7 +585,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[深澤智義](../Page/深澤智義.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
+    配音員：日：[深澤智義](https://zh.wikipedia.org/wiki/深澤智義 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[黃榮璋](../Page/黃榮璋.md "wikilink")
     雜誌編輯，與妻子離婚。
 
 <!-- end list -->
@@ -595,7 +595,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[水森寺壽香](../Page/水森寺壽香.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")
+    配音員：日：[水森寺壽香](https://zh.wikipedia.org/wiki/水森寺壽香 "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")
 
 <!-- end list -->
 
@@ -604,7 +604,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")、[吳東原](../Page/吳東原.md "wikilink")（第37集之後）／香港：[黃啟昌](../Page/黃啟昌.md "wikilink")
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（第37集之後）／香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
 
 <!-- end list -->
 
@@ -613,7 +613,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[井上奈奈子](../Page/井上奈奈子.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    配音員：日：[井上奈奈子](https://zh.wikipedia.org/wiki/井上奈奈子 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
 
 <!-- end list -->
 
@@ -622,7 +622,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丸山壯史](../Page/丸山壯史.md "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")、[吳東原](../Page/吳東原.md "wikilink")（第21集之後）／香港：[劉昭文](../Page/劉昭文.md "wikilink")
+    配音員：日：[丸山壯史](https://zh.wikipedia.org/wiki/丸山壯史 "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（第21集之後）／香港：[劉昭文](../Page/劉昭文.md "wikilink")
     一茂的父親，為「上舞銀座商店街」的會長，自營和菓子店。
 
 <!-- end list -->
@@ -642,7 +642,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[木下紗華](../Page/木下紗華.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    配音員：日：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     花梨的母親。
 
 <!-- end list -->
@@ -652,7 +652,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](../Page/馮錦堂.md "wikilink")
+    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
     花梨的父親。
 
 ### 其他人物
@@ -662,7 +662,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[東地宏樹](../Page/東地宏樹.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](../Page/馮錦堂.md "wikilink")
+    配音員：日：[東地宏樹](../Page/東地宏樹.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
     是一位資訊管理局的人，曾經在和菓子店工作，實際上是調查風間壬。
     風間壬死後，暫時變成未來夢想公司的日本分部長。
     第49集把勇太、光和一茂軟禁未來夢想公司，並且沒收他們的手機，後來是勇太的朋友們破解未來夢想公司的軟禁房間而歸還。
@@ -684,7 +684,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[元村哲也](../Page/元村哲也.md "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")、[吳東原](../Page/吳東原.md "wikilink")（第21集之後）
+    配音員：日：[元村哲也](../Page/元村哲也.md "wikilink")／台：[李世揚](../Page/李世揚.md "wikilink")、[吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink")（第21集之後）
     祖父江十三的助理，上舞大學的勤務。
 
 <!-- end list -->
@@ -694,7 +694,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[石住昭彥](../Page/石住昭彥.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[譚炳文](../Page/譚炳文.md "wikilink")
+    配音員：日：[石住昭彥](https://zh.wikipedia.org/wiki/石住昭彥 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[譚炳文](../Page/譚炳文.md "wikilink")
     網路電視台「維京電視台」台長，他的電視台網路系統被風間壬暗中破壞，在無法繼續經營的狀況下被未來夢想公司合併。
 
 ## 主題曲
@@ -774,7 +774,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>歡迎來到＠網路世界</p></td>
 <td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
-<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
 <td><p>山形孝二</p></td>
 </tr>
 <tr class="even">
@@ -794,7 +794,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>ガッコウヘ@イコウ!?</p></td>
 <td><p>上學去</p></td>
 <td><p>到學校@去吧！？</p></td>
-<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
 <td><p>所俊克</p></td>
 <td><p>左藤洋二</p></td>
 <td><p>アミサキリョウコ</p></td>
@@ -815,8 +815,8 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>ビボバ@サンジョウデゴザイマス</p></td>
 <td><p>BiBoBa, 三隻精靈出現了</p></td>
 <td><p>BIBOBA@拜見是也</p></td>
-<td><p><a href="../Page/滝晃一.md" title="wikilink">滝晃一</a></p></td>
-<td><p><a href="../Page/白土武.md" title="wikilink">白土武</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/滝晃一" title="wikilink">滝晃一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白土武" title="wikilink">白土武</a></p></td>
 <td><p>いとがしんたろー</p></td>
 <td><p>安形佳己</p></td>
 </tr>
@@ -1003,7 +1003,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>布布 賽蓮</p></td>
 <td><p>布布@賽蓮</p></td>
 <td><p>山田靖智</p></td>
-<td><p><a href="../Page/後信治.md" title="wikilink">後信治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/後信治" title="wikilink">後信治</a></p></td>
 <td><p>いとがしんたろー</p></td>
 <td><p>奈良岡光</p></td>
 </tr>
@@ -1024,7 +1024,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>PiPoPa PiPoPaPu</p></td>
 <td><p>PIPOPA@PIPOPAPU！</p></td>
 <td><p>樋口達人</p></td>
-<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
 <td><p>玉川真人</p></td>
 <td><p>伊佐英朗</p></td>
 </tr>
@@ -1108,7 +1108,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>GIGA@恐慌</p></td>
 <td><p>網谷正治</p></td>
 <td><p>齋藤徳明</p></td>
-<td><p><a href="../Page/岩佐とも子.md" title="wikilink">岩佐とも子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岩佐とも子" title="wikilink">岩佐とも子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1189,7 +1189,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 <td><p>見不到...@想見面</p></td>
 <td><p>見不到…@還想見</p></td>
 <td><p>伊藤美智子</p></td>
-<td><p><a href="../Page/奥田誠治_(アニメーション演出家).md" title="wikilink">奥田誠治</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奥田誠治_(アニメーション演出家)" title="wikilink">奥田誠治</a></p></td>
 <td><p>美甘義人</p></td>
 <td><p>アベ正己<br />
 一居一平</p></td>
@@ -1303,7 +1303,7 @@ DS遊戲軟體](../Page/Nintendo_DS.md "wikilink")。
 </tbody>
 </table>
 
-  - 因為在2009年1月4日需要播放特別節目『[神奇寶貝星期天](../Page/神奇寶貝系列#神奇寶貝星期天.md "wikilink")』而暫停播放。因此第40話改為下週(2009年1月11日)播放。
+  - 因為在2009年1月4日需要播放特別節目『[神奇寶貝星期天](https://zh.wikipedia.org/wiki/神奇寶貝系列#神奇寶貝星期天 "wikilink")』而暫停播放。因此第40話改為下週(2009年1月11日)播放。
 
 ## 各地電視台
 

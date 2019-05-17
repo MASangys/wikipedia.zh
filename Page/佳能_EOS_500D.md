@@ -1,7 +1,9 @@
 佳能 **EOS 500D**，又称为**Digital Rebel
-T1i**（[北美市场](../Page/北美.md "wikilink")）或**EOS Kiss Digital
-X3**（日本市场）\[1\]，是由佳能公司于2009年4月24日推出，上市的一款消费级别单镜头反光相机。在北美市场，EOS 500D于同年4月
-上市。作为成功的[佳能 EOS 450D的继任者](../Page/佳能_EOS_450D.md "wikilink")，佳能EOS
+T1i**（[北美市场](https://zh.wikipedia.org/wiki/北美 "wikilink")）或**EOS
+Kiss Digital
+X3**（日本市场）\[1\]，是由佳能公司于2009年4月24日推出，上市的一款消费级别单镜头反光相机。在北美市场，EOS
+500D于同年4月 上市。作为成功的[佳能 EOS
+450D的继任者](../Page/佳能_EOS_450D.md "wikilink")，佳能EOS
 500D具有1510万有效像素CMOS图像感应器以及拥有更大的连拍缓存，并且使用3吋92万像素的宽视角LCD显示屏。
 
 佳能 EOS 500D 佳能数码单反相机3位编码的第五代产品。 最新的DIGIC 4数字影像处理器是前一代DIGIC

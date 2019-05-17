@@ -1,16 +1,18 @@
-《**Unnamed world**》為[平野綾的第](../Page/平野綾.md "wikilink")7張單曲。 由[King
-Records於](../Page/King_Records.md "wikilink")2008年4月23日發售。
+《**Unnamed
+world**》為[平野綾的第](https://zh.wikipedia.org/wiki/平野綾 "wikilink")7張單曲。
+由[King
+Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2008年4月23日發售。
 
 ## 概要
 
   - 總計第7張的單曲，自第2張單曲《[是冒險對吧對吧？](../Page/是冒險對吧對吧？.md "wikilink")》以來，為睽違2年（5作）的動畫主題曲。
   - B面曲《Maybe I can't
-    good-bye.》為平野綾本人親自作詞，此為第4張單曲《[LOVE★GUN](../Page/LOVE★GUN.md "wikilink")》以來，連續4作由平野綾作詞的歌曲。
+    good-bye.》為平野綾本人親自作詞，此為第4張單曲《[LOVE★GUN](https://zh.wikipedia.org/wiki/LOVE★GUN "wikilink")》以來，連續4作由平野綾作詞的歌曲。
 
 ## 收錄曲
 
 1.  **Unnamed world** \[3:32\]
-      - 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲：[黑須克彦](../Page/黑須克彦.md "wikilink")／編曲：黑須克彦・[nishi-ken](../Page/nishi-ken.md "wikilink")
+      - 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")／作曲：[黑須克彦](https://zh.wikipedia.org/wiki/黑須克彦 "wikilink")／編曲：黑須克彦・[nishi-ken](https://zh.wikipedia.org/wiki/nishi-ken "wikilink")
 2.  **Maybe I can't good-bye.** \[4:06\]
       - 作詞：平野綾／作曲・編曲：黑須克彦
 3.  Unnamed world（off vocal）

@@ -1,9 +1,9 @@
-**Arora**是一款[跨平台的](../Page/跨平台.md "wikilink")[开源](../Page/开源.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，开发主要基于[Qt中的Qt](../Page/Qt.md "wikilink")[WebKit模块](../Page/WebKit.md "wikilink")\[1\]，并致力于用最小最轻量的方式实现浏览器的基本功能，包括标签浏览，历史，收藏和全局[CSS等](../Page/CSS.md "wikilink")。
+**Arora**是一款[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，开发主要基于[Qt中的Qt](../Page/Qt.md "wikilink")[WebKit模块](../Page/WebKit.md "wikilink")\[1\]，并致力于用最小最轻量的方式实现浏览器的基本功能，包括标签浏览，历史，收藏和全局[CSS等](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 ## 历史
 
-最早的版本由[Trolltech的Qt开发人员Benjamin](../Page/Trolltech.md "wikilink") C
-Meyer开发（"icefox"），并随Qt
+最早的版本由[Trolltech的Qt开发人员Benjamin](https://zh.wikipedia.org/wiki/Trolltech "wikilink")
+C Meyer开发（"icefox"），并随Qt
 4.4.0一起发布，作demo程序来展示QtWebKit模块与Qt的完美整合。demo程序发布后，Meyer创建了代码的分支继续独立开发，并将项目命名为Arora。\[2\]
 
 ## 参考文献

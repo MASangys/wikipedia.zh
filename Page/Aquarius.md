@@ -1,6 +1,6 @@
-Aquarius是丹麥[歐陸舞曲團體](../Page/歐陸舞曲.md "wikilink")[水叮噹的第二張專輯](../Page/水叮噹.md "wikilink")。
+Aquarius是丹麥[歐陸舞曲團體](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")[水叮噹的第二張專輯](../Page/水叮噹.md "wikilink")。
 
-此張專輯與前一張[Aquarium相較下](../Page/Aquarium.md "wikilink")，銷售成績甚不理想，它在[美國電台排行榜](../Page/美國.md "wikilink")[Billboard](../Page/Billboard.md "wikilink")
+此張專輯與前一張[Aquarium相較下](../Page/Aquarium.md "wikilink")，銷售成績甚不理想，它在[美國電台排行榜](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
 200上停留了6星期，並只拿到\#第82位。
 
 ## 單曲排行榜

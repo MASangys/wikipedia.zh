@@ -1,4 +1,4 @@
-《**H.I.T**》（，）是[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/文化廣播_\(韓國\).md "wikilink")2007年3月19日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。講述為了逮捕連續殺人犯而組成的一群刑警們及檢察官之間所發生的各種糾紛，以及他們聯手奮戰捉拿犯罪的驚險過程。
+《**H.I.T**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2007年3月19日起播放的[月火迷你連續劇](../Page/MBC月火連續劇.md "wikilink")。講述為了逮捕連續殺人犯而組成的一群刑警們及檢察官之間所發生的各種糾紛，以及他們聯手奮戰捉拿犯罪的驚險過程。
 
 2008年、香港[亞洲電視版權購入後改稱為](../Page/亞洲電視.md "wikilink")《重案師姐HIT》、起1月27日播出開始。原於星期日第二線劇集播出、因收視欠佳（曾低至2點；1點=64,820名觀眾），故調為星期日第一線劇集時段。後再度收視欠佳、故調為凌晨時段。
 
@@ -54,7 +54,7 @@
 
 <!-- end list -->
 
-  - [馬東錫](../Page/馬東錫.md "wikilink") 飾演 南成植
+  - [馬東錫](https://zh.wikipedia.org/wiki/馬東錫 "wikilink") 飾演 南成植
 
 <!-- end list -->
 
@@ -65,14 +65,14 @@
 
   - [嚴孝燮](../Page/嚴孝燮.md "wikilink") 飾演
     白秀正<small>（童年：[呂珍九](../Page/呂珍九.md "wikilink")）</small>
-  - [李燦英](../Page/李燦英.md "wikilink") 飾演 裴道健
+  - [李燦英](https://zh.wikipedia.org/wiki/李燦英 "wikilink") 飾演 裴道健
   - [趙卿煥](../Page/趙卿煥.md "wikilink") 飾演 鄭道萬
-  - [李英河](../Page/李英河.md "wikilink") 飾演 鄭澤元
-  - [宋閔亨](../Page/宋閔亨.md "wikilink") 飾演 姜昌善
+  - [李英河](https://zh.wikipedia.org/wiki/李英河 "wikilink") 飾演 鄭澤元
+  - [宋閔亨](https://zh.wikipedia.org/wiki/宋閔亨 "wikilink") 飾演 姜昌善
   - [趙達煥](../Page/趙達煥.md "wikilink") 飾演 韓刑警
   - [金誠謙](../Page/金誠謙.md "wikilink") 飾演 崔班長
-  - [池相烈](../Page/池相烈.md "wikilink") 飾演 容畢
-  - [鄭斗洪](../Page/鄭斗洪.md "wikilink") 飾演 水牛
+  - [池相烈](https://zh.wikipedia.org/wiki/池相烈 "wikilink") 飾演 容畢
+  - [鄭斗洪](https://zh.wikipedia.org/wiki/鄭斗洪 "wikilink") 飾演 水牛
   - [金秉世](../Page/金秉世.md "wikilink") 飾演 查理朴
   - [尹周熙](../Page/尹周熙.md "wikilink") 飾演 護士
   - [尹瑞賢](../Page/尹瑞賢.md "wikilink") 飾演 萬秀

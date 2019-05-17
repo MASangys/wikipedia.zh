@@ -1,5 +1,5 @@
 **Chic**（/ˈʃiːk/
-"sheek"）是一只美国的[disco](../Page/disco.md "wikilink")、[R\&B](../Page/R&B.md "wikilink")[乐队](../Page/乐队.md "wikilink")，成名于1976年，知名的歌曲如：《Dance,
+"sheek"）是一只美国的[disco](https://zh.wikipedia.org/wiki/disco "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，成名于1976年，知名的歌曲如：《Dance,
 Dance, Dance (Yowsah, Yowsah, Yowsah)》（1977）、《Everybody Dance》（1977）、《Le
 Freak》（1978）、《I Want Your Love》（1978）、《Good Times》（1979）、《My Forbidden
 Lover》（1979）。 其歌曲《I want your love》在電影《性愛成癮的男人》中出現過。

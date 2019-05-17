@@ -1,14 +1,15 @@
 **Godspeed You\! Black Emperor**（曾命名為**Godspeed You Black
-Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大的一個前衛藝術樂團](../Page/加拿大.md "wikilink")，1994年在[魁北克](../Page/魁北克.md "wikilink")[蒙特婁成立](../Page/蒙特婁.md "wikilink")。\[1\]
+Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大的一個前衛藝術樂團](../Page/加拿大.md "wikilink")，1994年在[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特婁成立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。\[1\]
 
 ## 樂團成員
 
 ### 現任
 
   - [吉他](../Page/吉他.md "wikilink")：David Bryant，Mike Moya，[Efrim
-    Menuck](../Page/Efrim_Menuck.md "wikilink")
-  - [貝斯](../Page/貝斯.md "wikilink")：Thierry Amar，[Mauro
-    Pezzente](../Page/Mauro_Pezzente.md "wikilink")
+    Menuck](https://zh.wikipedia.org/wiki/Efrim_Menuck "wikilink")
+  - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")：Thierry
+    Amar，[Mauro
+    Pezzente](https://zh.wikipedia.org/wiki/Mauro_Pezzente "wikilink")
   - [鼓](../Page/鼓.md "wikilink")：Bruce Cawdron，Aidan Girt
   - [低音提琴](../Page/低音提琴.md "wikilink")：Thierry Amar
   - [小提琴](../Page/小提琴.md "wikilink")：Sophie Trudeau
@@ -29,7 +30,7 @@ Craig在2004年退出，換上James Chau）。\[4\]並於1999年改名為Godspee
 Black Emperor。
 
 2003年，該團對外宣佈將暫時休團，但並未宣布解散。\[5\]七年後，在2010年四月時，Godspeed You\! Black
-Emperor宣布將從年底起開始於[歐洲](../Page/歐洲.md "wikilink")、[美國及部分區域巡演](../Page/美國.md "wikilink")。\[6\]迄今，Godspeed
+Emperor宣布將從年底起開始於[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[美國及部分區域巡演](https://zh.wikipedia.org/wiki/美國 "wikilink")。\[6\]迄今，Godspeed
 You\! Black Emperor共出版了七張專輯。\[7\]
 
 ## 音樂作品

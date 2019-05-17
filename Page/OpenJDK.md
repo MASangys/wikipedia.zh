@@ -1,28 +1,28 @@
 **OpenJDK**原是[Sun
-Microsystems公司为Java平台构建的Java开发环境](../Page/Sun_Microsystems.md "wikilink")（[JDK](../Page/JDK.md "wikilink")）的[开源版本](../Page/开源.md "wikilink")，完全自由，开放源码。Sun
-Microsystems公司在2006年的[JavaOne大会上称将对Java开放源代码](../Page/JavaOne.md "wikilink")，于2009年4月15日正式发布OpenJDK。甲骨文在2010年收購Sun
+Microsystems公司为Java平台构建的Java开发环境](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")（[JDK](../Page/JDK.md "wikilink")）的[开源版本](https://zh.wikipedia.org/wiki/开源 "wikilink")，完全自由，开放源码。Sun
+Microsystems公司在2006年的[JavaOne大会上称将对Java开放源代码](https://zh.wikipedia.org/wiki/JavaOne "wikilink")，于2009年4月15日正式发布OpenJDK。甲骨文在2010年收購Sun
 Microsystem之後接管了這個專案。
 
 ## 歷史
 
 2008年5月，[Fedora](../Page/Fedora.md "wikilink")
 9\[1\]\[2\]及[Ubuntu](../Page/Ubuntu.md "wikilink")
-8.04\[3\]於發行版中發佈OpenJDK，完整地基於[自由及](../Page/自由軟件.md "wikilink")[开放源代码的OpenJDK](../Page/开放源代码.md "wikilink")。\[4\]
+8.04\[3\]於發行版中發佈OpenJDK，完整地基於[自由及](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[开放源代码的OpenJDK](../Page/开放源代码.md "wikilink")。\[4\]
 
 2008年6月， 6（Fedora 9上的一個套件版本的OpenJDK）宣布已通過測試，可以稱得上是一個完全兼容的Java
 6的執行環境。\[5\]
 
-2008年7月12日，[Debian接受了OpenJDK](../Page/Debian.md "wikilink")-6的不穩定版本\[6\]\[7\]，但目前情況已經穩定\[8\]。OpenJDK也可以在[openSUSE](../Page/openSUSE.md "wikilink")、[Red
+2008年7月12日，[Debian接受了OpenJDK](../Page/Debian.md "wikilink")-6的不穩定版本\[6\]\[7\]，但目前情況已經穩定\[8\]。OpenJDK也可以在[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")、[Red
 Hat Enterprise
 Linux及其衍生系統](../Page/Red_Hat_Enterprise_Linux.md "wikilink")，如[CentOS中找到](../Page/CentOS.md "wikilink")。\[9\]
 
 自2008年7月，OpenJDK 7可以運行在[Mac OS
-X和其他的](../Page/Mac_OS_X.md "wikilink")[BSD發行版](../Page/BSD.md "wikilink")。\[10\]
+X和其他的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD發行版](../Page/BSD.md "wikilink")。\[10\]
 
 2009年7月，Ubuntu 9.04中的二進制版本OpenJDK在Java SE 6 中通過了所有的兼容性測試。\[11\]
 
 2016年8月22日，[Google在](../Page/Google.md "wikilink")[Android 7.0
-Nougat中](../Page/Android_7.0_Nougat.md "wikilink")，將專利的[JDK替換成開源方案的OpenJDK](../Page/JDK.md "wikilink")，以徹底解決Java的專利問題。\[12\]
+Nougat中](https://zh.wikipedia.org/wiki/Android_7.0_Nougat "wikilink")，將專利的[JDK替換成開源方案的OpenJDK](../Page/JDK.md "wikilink")，以徹底解決Java的專利問題。\[12\]
 
 ## 参考资料
 

@@ -1,10 +1,10 @@
 [Gipi_-_Internazionale_a_Ferrara_2007.jpg](https://zh.wikipedia.org/wiki/File:Gipi_-_Internazionale_a_Ferrara_2007.jpg "fig:Gipi_-_Internazionale_a_Ferrara_2007.jpg")
 **Gipi**（原名**Gian Alfonso
-Pacinotti**，），是一位[義大利](../Page/義大利.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")、導演和作家。
+Pacinotti**，），是一位[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、導演和作家。
 
 ## 生平
 
-GiPi在1963的[義大利](../Page/義大利.md "wikilink")[比薩出生](../Page/比薩.md "wikilink")，他的職業生涯，由替廣告商和出版商畫插畫開始\[1\]。
+GiPi在1963的[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[比薩出生](https://zh.wikipedia.org/wiki/比薩 "wikilink")，他的職業生涯，由替廣告商和出版商畫插畫開始\[1\]。
 
 他自1992年開始畫漫畫和插畫，作品刊登於義大利的報章Cuore、Il Clandestino、BoxerIl Manifesto、La
 Straniero \[2\]及La Repubblica\[3\]。

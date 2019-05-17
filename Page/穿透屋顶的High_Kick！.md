@@ -1,8 +1,8 @@
 《**穿透屋顶的High
-Kick！**》（）是[韓國](../Page/韓國.md "wikilink")[MBC於](../Page/文化廣播_\(韓國\).md "wikilink")2009年9月7日起播出的[情景喜剧](../Page/MBC情境喜劇.md "wikilink")，與《-{[不可阻挡的High
-Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組及導演，亦號稱其延續作，原先並打算找原班人馬出演，但不少因為檔期，只有部分演員繼續演出或[客串](../Page/客串.md "wikilink")，但依旧利用[夸张或](../Page/夸张.md "wikilink")[搞笑的方式诠释](../Page/搞笑.md "wikilink")[爱情](../Page/爱情.md "wikilink")、[亲情](../Page/亲情.md "wikilink")、[友情](../Page/友情.md "wikilink")、同事关系等日常生活中常见的情節。
+Kick！**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2009年9月7日起播出的[情景喜剧](../Page/MBC情境喜劇.md "wikilink")，與《-{[不可阻挡的High
+Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-》同個製作組及導演，亦號稱其延續作，原先並打算找原班人馬出演，但不少因為檔期，只有部分演員繼續演出或[客串](https://zh.wikipedia.org/wiki/客串 "wikilink")，但依旧利用[夸张或](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式诠释](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、同事关系等日常生活中常见的情節。
 
-由于受到前一部受欢迎的程度，在首播时除了受到韩国欢迎，在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台湾等地亦得到一定迴響](../Page/台湾.md "wikilink")。
+由于受到前一部受欢迎的程度，在首播时除了受到韩国欢迎，在[中国大陆](../Page/中国大陆.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台湾等地亦得到一定迴響](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
 ## 剧名含义及译名
 
@@ -73,7 +73,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p>李順才</p></td>
 <td><center>
-<p><a href="../Page/李順才.md" title="wikilink">李順才</a>[1]</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李順才" title="wikilink">李順才</a>[1]</p></td>
 <td><center>
 <p><a href="../Page/李香生.md" title="wikilink">李香生</a></p></td>
 <td><p>「李順才 F&amp;B」食品公司社长。時常放屁，反覆無常。年輕時期非常花心，而三年前與公司女職員的關係被誤會，導致妻子病重過世。但近期與金慈玉交往，並在一陣子後結婚。因名字發音與米腸相似，被朱利安誤稱為Mr.米腸，連其他外國人也是。</p></td>
@@ -91,7 +91,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p>鄭寶石</p></td>
 <td><center>
-<p><a href="../Page/鄭寶石.md" title="wikilink">鄭寶石</a>[2]</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭寶石" title="wikilink">鄭寶石</a>[2]</p></td>
 <td><center>
 <p><a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a></p></td>
 <td><p>順才的女婿，賢慶的丈夫。「李順才 F&amp;B」食品公司副社长。性格雖然算溫順，但卻不太懂得察言觀色＆變通、常識較少、糊塗和特別好勝（只有面對世京這種人才敢表現出來），但偶有成功之時。最可取之處在於很有運動細胞，也曾打過一陣子的棒球。</p></td>
@@ -100,7 +100,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p>李智勳</p></td>
 <td><center>
-<p><a href="../Page/崔丹尼爾.md" title="wikilink">崔丹尼爾</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/崔丹尼爾" title="wikilink">崔丹尼爾</a></p></td>
 <td><center>
 <p><a href="../Page/黃天佑.md" title="wikilink">黃天佑</a></p></td>
 <td><p>順才的兒子、有三年經歷的實習醫生。被說感情方面反應遲鈍，其實只是因為不關心別人的感受，自我中心，只對自己的工作和所關注的事情產生關心，不關心形式上的禮節。與黃貞音相愛、交往之後變得體貼，也會吃醋。與剛上京的世京偶然相遇幾次，後來幫她成為自己家的保姆。</p></td>
@@ -109,9 +109,9 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p>申世京</p></td>
 <td><center>
-<p><a href="../Page/申世京.md" title="wikilink">申世京</a>[3]</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/申世京" title="wikilink">申世京</a>[3]</p></td>
 <td><center>
-<p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
 <td><p>信愛的姊姊。李家的幫傭。能幹。國中畢業跟著爸爸到太白山區躲債，因為後被討債集團追趕，意外與父親分開。帶著妹妹到首爾期待與父親團聚，並在生活陷入困難幸得朱利安相助，曾短暫寄住在金家，後來在李家當幫傭，與妹妹一同寄住。因為在山區生活之久，使得不太懂得人情世故，起初對許多事物感到生疏，但總是打起精神面對難關。最後在醫院往機場的路上下落不明。</p></td>
 </tr>
 <tr class="odd">
@@ -127,10 +127,10 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p>鄭海莉</p></td>
 <td><center>
-<p><a href="../Page/陈智熙.md" title="wikilink">陈智熙</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/陈智熙" title="wikilink">陈智熙</a></p></td>
 <td><center>
-<p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
-<td><p>賢慶與寶石的女兒，俊赫的妹妹。就讀小學二年級。沒禮貌、沒風度、脾氣差、愛恨分明、階級意識深、好勝心強和調皮，通常只要招惹一次就會淪為「臭屁股」，且在家裡都會有「都是我的」之惡劣心態（尤其食物），除非事後吃過得知不喜歡才作罷，後期已見改善。友情攻勢相當之獨特，首先一定供其看門牙；甚至還認為自己口水絕對乾淨，而無私分享自己吃過或舔過的食物。可能因為愛吃排骨，经常為便秘而苦恼。喜歡<a href="../Page/Rain_(韓國藝人).md" title="wikilink">Rain</a>。喜歡俊赫的同學 姜世鎬。 |-|-center&gt;鄭俊赫</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<td><p>賢慶與寶石的女兒，俊赫的妹妹。就讀小學二年級。沒禮貌、沒風度、脾氣差、愛恨分明、階級意識深、好勝心強和調皮，通常只要招惹一次就會淪為「臭屁股」，且在家裡都會有「都是我的」之惡劣心態（尤其食物），除非事後吃過得知不喜歡才作罷，後期已見改善。友情攻勢相當之獨特，首先一定供其看門牙；甚至還認為自己口水絕對乾淨，而無私分享自己吃過或舔過的食物。可能因為愛吃排骨，经常為便秘而苦恼。喜歡<a href="https://zh.wikipedia.org/wiki/Rain_(韓國藝人)" title="wikilink">Rain</a>。喜歡俊赫的同學 姜世鎬。 |-|-center&gt;鄭俊赫</p></td>
 </tr>
 </tbody>
 </table>
@@ -157,7 +157,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p><a href="../Page/金慈玉.md" title="wikilink">金慈玉</a></p></td>
 <td><center>
-<p><a href="../Page/杜素真.md" title="wikilink">杜素真</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/杜素真" title="wikilink">杜素真</a></p></td>
 <td><p>風波高中校監。平時的語氣及舉止優雅，但對男學生總以捏奶頭為處罰，因得「變態校監」之封號。後因剛好看到在講手機的世鎬並懲罰過重，再加上賢慶之前已誤擊其重要部位將事情鬧大，而都各有改進。年事已高，但內心還是少女，不但喜歡打扮得年輕，連個性也是這樣，且睡覺習慣綁辮子、穿可愛睡服還抱布偶娃娃睡，並尚未結婚。在與李順才交往一段時間後結婚。</p></td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 <td><center>
 <p><a href="../Page/黄正音.md" title="wikilink">黃正音</a></p></td>
 <td><center>
-<p><a href="../Page/詹雅菁.md" title="wikilink">詹雅菁</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><p>首運大學的四年級學生。因為老家在大田，所以租住在慈玉家。單純開朗有活力。養有一隻古代牧羊犬哈利，是已去世的前男友託給她養。在誤打誤撞之下以首爾大學的學生身分，擔任俊赫的家教老師。深愛李智勳，後來卻因為家裡破產而決定放棄。</p></td>
 </tr>
 <tr class="even">
@@ -226,7 +226,7 @@ Kick！](../Page/不可阻挡的High_Kick！.md "wikilink")}-》同個製作組�
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/洪顺昌.md" title="wikilink">洪顺昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/洪顺昌" title="wikilink">洪顺昌</a></p></td>
 <td></td>
 <td><center>
 <p><a href="../Page/黃天佑.md" title="wikilink">黃天佑</a></p></td>
@@ -275,12 +275,12 @@ Kick}-》中的主要角色。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/洪顺昌.md" title="wikilink">洪顺昌</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/洪顺昌" title="wikilink">洪顺昌</a></p></td>
 <td><p>第1集登場，出演；在第一部飾演風波高中訓导主任，在本劇飾演風波高中校長。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/鄭俊河.md" title="wikilink">鄭俊河</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭俊河" title="wikilink">鄭俊河</a></p></td>
 <td><p>第15集登場，友情客串；在第一部飾演院長長子李俊河，在本劇客串棒球球星馬俊河。</p></td>
 </tr>
 <tr class="even">
@@ -290,13 +290,13 @@ Kick}-》中的主要角色。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/金勇俊.md" title="wikilink">金勇俊</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/金勇俊" title="wikilink">金勇俊</a></p></td>
 <td><p>第28集登場，友情客串；飾演寵物醫院醫生。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/李曙贤.md" title="wikilink">李曙贤</a></p></td>
-<td><p>第33集登場，出演：在第一部飾演<a href="../Page/首爾警察.md" title="wikilink">首爾警察署偵查隊长</a>，在本劇客串風波高中臨時體育教师。</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/李曙贤" title="wikilink">李曙贤</a></p></td>
+<td><p>第33集登場，出演：在第一部飾演<a href="https://zh.wikipedia.org/wiki/首爾警察" title="wikilink">首爾警察署偵查隊长</a>，在本劇客串風波高中臨時體育教师。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -305,7 +305,7 @@ Kick}-》中的主要角色。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/朴智妍_(1993年出生).md" title="wikilink">智妍</a>（<a href="../Page/T-ara.md" title="wikilink">T-ara</a>）</p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴智妍_(1993年出生)" title="wikilink">智妍</a>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）</p></td>
 <td><p>第44集出現，特別客串；飾演宥麗。</p></td>
 </tr>
 <tr class="odd">
@@ -320,7 +320,7 @@ Kick}-》中的主要角色。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/姜哲峰.md" title="wikilink">姜哲峰</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/姜哲峰" title="wikilink">姜哲峰</a></p></td>
 <td><p>第77集登場，友情客串；第一部飾演姜由美的爸爸朝鲜間諜姜哲峰，在本劇客串烤肉店老板。</p></td>
 </tr>
 <tr class="even">
@@ -340,7 +340,7 @@ Kick}-》中的主要角色。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="../Page/朴信惠.md" title="wikilink">朴信惠</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
 <td><p>第119集登場，特別客串；飾演鄭海莉（長大海莉）。</p></td>
 </tr>
 <tr class="even">
@@ -378,7 +378,7 @@ Kick}-》中的主要角色。
 
 ### 日本
 
-2009年11月於[日本电视台首播](../Page/日本电视台.md "wikilink")。
+2009年11月於[日本电视台首播](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")。
 
 ### 台湾
 
@@ -387,7 +387,7 @@ Kick}-》中的主要角色。
 ## 收视率
 
 曾经多次同时位列同时段收视冠军和MBC电视台当天的收视冠军。首播收视率為13.4%，结局收视率为24.4%，超越《-{[不可阻挡的High
-Kick](../Page/不可阻挡的High_Kick.md "wikilink")}-》；平均收视率达19.1%，最高收视率為27.6%（第97集）。
+Kick](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick "wikilink")}-》；平均收视率达19.1%，最高收视率為27.6%（第97集）。
 
 | 集數    | 播放日期       | 收視率\[8\]                      |
 | ----- | ---------- | ----------------------------- |

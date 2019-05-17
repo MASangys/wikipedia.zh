@@ -18,8 +18,8 @@ eneloop以環保、「可再生電池」為開發理念，外裝包裝使用可�
 ### 優點
 
   - 舊鎳氫電池的問題長期放置時的自然放電得到大幅改善，可以在出售前預先充電，所以購買後可以無需充電而立即使用
-  - 進一步減低[記憶效應](../Page/記憶效應.md "wikilink")，使充電多次後仍有足夠容量
-  - 舊版本eneloop可充放電次數約1000次，最新版本更增加至2100次，是舊有鎳氫電池及一般[鋰離子電池](../Page/鋰離子電池.md "wikilink")（500次）的二至四倍
+  - 進一步減低[記憶效應](https://zh.wikipedia.org/wiki/記憶效應 "wikilink")，使充電多次後仍有足夠容量
+  - 舊版本eneloop可充放電次數約1000次，最新版本更增加至2100次，是舊有鎳氫電池及一般[鋰離子電池](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")（500次）的二至四倍
   - 相對於鋰離子電池、舊有鎳氫電池、[鹼性電池](../Page/鹼性電池.md "wikilink")，eneloop在低溫環境下（-20℃）有較佳效能
   - 所有的鎳氫電池充電器也可為eneloop充電。儘管生產商（三洋）建議使用由他們生產的充電器為eneloop充電。
   - 外包裝加入了抗菌材料
@@ -81,7 +81,7 @@ Thermistors），即使发生短路也不会有异常发热和液体外漏的危
 #### eneloop lite（藍色／白底藍字）
 
 **eneloop
-Lite**專設計給低耗電量的情況使用（例如家庭電器的紅外線搖控器、[室內無線電話等](../Page/室內無線電話.md "wikilink")），可充放電次數增加至2000次，容量小於第一代，漏電特性及最低工作溫度與第二代相同：3年後留有75%電量、-20℃，出廠前預先以由太陽能取得的電源充電。
+Lite**專設計給低耗電量的情況使用（例如家庭電器的紅外線搖控器、[室內無線電話等](https://zh.wikipedia.org/wiki/室內無線電話 "wikilink")），可充放電次數增加至2000次，容量小於第一代，漏電特性及最低工作溫度與第二代相同：3年後留有75%電量、-20℃，出廠前預先以由太陽能取得的電源充電。
 
 電池容量：
 
@@ -231,14 +231,14 @@ PROJECT」為主題，進行環境教育工作，並以eneloop為其教材。為
 ## 參看
 
   - [低自放電鎳氫電池](../Page/低自放電鎳氫電池.md "wikilink")（LSD Ni-MH）
-  - [鎳氫電池](../Page/鎳氫電池.md "wikilink")（Ni-MH）
-  - [鎳鎘電池](../Page/鎳鎘電池.md "wikilink")（Ni-Cd）
-  - [鋰離子電池](../Page/鋰離子電池.md "wikilink")（Li-ion）
+  - [鎳氫電池](https://zh.wikipedia.org/wiki/鎳氫電池 "wikilink")（Ni-MH）
+  - [鎳鎘電池](https://zh.wikipedia.org/wiki/鎳鎘電池 "wikilink")（Ni-Cd）
+  - [鋰離子電池](https://zh.wikipedia.org/wiki/鋰離子電池 "wikilink")（Li-ion）
 
 <!-- end list -->
 
-  - [鹼錳電池即鹼性電池](../Page/鹼錳電池.md "wikilink")
-  - [鋰電池](../Page/鋰電池.md "wikilink")
+  - [鹼錳電池即鹼性電池](https://zh.wikipedia.org/wiki/鹼錳電池 "wikilink")
+  - [鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")
 
 <!-- end list -->
 

@@ -1,11 +1,12 @@
-這是一個**iOS設備列表**，包含有使用[iOS系統的](../Page/iOS.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")、[iPad](../Page/iPad.md "wikilink")、[iPod
-touch](../Page/iPod_touch.md "wikilink")。
+這是一個**iOS設備列表**，包含有使用[iOS系統的](https://zh.wikipedia.org/wiki/iOS "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、[iPod
+touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。
 [iphone_back.jpg](https://zh.wikipedia.org/wiki/File:iphone_back.jpg "fig:iphone_back.jpg")，銀色的[iPhone
-6 Plus和玫瑰金的iPhone](../Page/iPhone_6.md "wikilink") 6S\]\]
+6 Plus和玫瑰金的iPhone](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
+6S\]\]
 [Ipad.jpg](https://zh.wikipedia.org/wiki/File:Ipad.jpg "fig:Ipad.jpg")
-2017，太空灰的[iPad Pro](../Page/iPad_Pro.md "wikilink") 12.9"和銀色的[iPad
-Pro](../Page/iPad_Pro.md "wikilink") 11"（附[Apple
-Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
+2017，太空灰的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+12.9"和銀色的[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
+11"（附[Apple Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
 
 ## iPhone 型號
 
@@ -32,11 +33,11 @@ Pencil](../Page/Apple_Pencil.md "wikilink")）\]\]
 <thead>
 <tr class="header">
 <th><p><strong>型號</strong></p></th>
-<th><p><strong><a href="../Page/iPhone_(第一代).md" title="wikilink">iPhone</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_3G.md" title="wikilink">iPhone 3G</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_3GS.md" title="wikilink">iPhone 3GS</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_4.md" title="wikilink">iPhone 4</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_4S.md" title="wikilink">iPhone 4S</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_(第一代)" title="wikilink">iPhone</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_3GS" title="wikilink">iPhone 3GS</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_4" title="wikilink">iPhone 4</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_4S" title="wikilink">iPhone 4S</a></strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -59,16 +60,16 @@ iPhone3.3（CDMA）</p></td>
 <td><p>iPhone4.1</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2.预装的<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iPhone OS</a> 1.0</p></td>
+<td><p><strong>2.预装的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iPhone OS</a> 1.0</p></td>
 <td><p>iPhone OS 2.0</p></td>
 <td><p>iPhone OS 3.0</p></td>
 <td><p>iOS 4.0</p></td>
 <td><p>iOS 5.0</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iPhone OS</a> 3.1.3</p></td>
+<td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iPhone OS</a> 3.1.3</p></td>
 <td><p>iOS 4.2.1</p></td>
 <td><p>iOS 6.1.6</p></td>
 <td><p>iOS 7.1.2</p></td>
@@ -76,7 +77,7 @@ iPhone3.3（CDMA）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>4.顯示設備</strong></p></td>
-<td><p>3.5"，3:2 寬闊比，防刮玻璃鏡面覆蓋屏幕，262,144-色 <a href="../Page/LCD.md" title="wikilink">LCD</a>，480 × 320 <a href="../Page/像素.md" title="wikilink">像素</a> （<a href="../Page/HVGA.md" title="wikilink">HVGA</a>、163 像素/吋）</p></td>
+<td><p>3.5"，3:2 寬闊比，防刮玻璃鏡面覆蓋屏幕，262,144-色 <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a>，480 × 320 <a href="../Page/像素.md" title="wikilink">像素</a> （<a href="../Page/HVGA.md" title="wikilink">HVGA</a>、163 像素/吋）</p></td>
 <td><p>新增:<br />
 耐指紋塗層[1]</p></td>
 <td><p>3.5"，3:2 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="../Page/Retina显示屏.md" title="wikilink">Retina显示屏</a>，960 × 640 像素（326 像素/吋），對比度 800:1</p></td>
@@ -84,8 +85,8 @@ iPhone3.3（CDMA）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>5.<a href="../Page/計算機圖形學.md" title="wikilink">圖像</a></strong></p></td>
-<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="../Page/PowerVR#MBX.md" title="wikilink">MBX</a> Lite 3D <a href="../Page/GPU.md" title="wikilink">GPU</a>[2]</p></td>
+<td><p><strong>5.<a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
+<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="https://zh.wikipedia.org/wiki/PowerVR#MBX" title="wikilink">MBX</a> Lite 3D <a href="https://zh.wikipedia.org/wiki/GPU" title="wikilink">GPU</a>[2]</p></td>
 <td><p>PowerVR SGX 535</p></td>
 <td><p>PowerVR SGX 543 MP2</p></td>
 <td></td>
@@ -93,23 +94,23 @@ iPhone3.3（CDMA）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>6.3<a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></strong></p></td>
-<td><p>4、8 及 16 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
+<td><p>4、8 及 16 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
 <td><p>8 及 16 GB</p></td>
 <td><p>8、16 及 32 GB</p></td>
 <td><p>8、16 、 32 及 64 GB</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>7.<a href="../Page/中央處理器.md" title="wikilink">處理器</a></strong></p></td>
-<td><p>620 <a href="../Page/MHz.md" title="wikilink">MHz</a> （锁定频率至 412 MHz） <a href="../Page/Samsung.md" title="wikilink">Samsung</a> <a href="../Page/32-bit.md" title="wikilink">32-bit</a> <a href="../Page/RISC.md" title="wikilink">RISC</a> <a href="../Page/ARM.md" title="wikilink">ARM</a> 1176JZ(F)-S v1.0[3][4]</p></td>
-<td><p>833 <a href="../Page/MHz.md" title="wikilink">MHz</a> （锁定频率至 600 MHz） ARM <a href="../Page/Cortex-A8.md" title="wikilink">Cortex-A8</a>[5][6]</p></td>
+<td><p><strong>7.<a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
+<td><p>620 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a> （锁定频率至 412 MHz） <a href="https://zh.wikipedia.org/wiki/Samsung" title="wikilink">Samsung</a> <a href="https://zh.wikipedia.org/wiki/32-bit" title="wikilink">32-bit</a> <a href="https://zh.wikipedia.org/wiki/RISC" title="wikilink">RISC</a> <a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM</a> 1176JZ(F)-S v1.0[3][4]</p></td>
+<td><p>833 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a> （锁定频率至 600 MHz） ARM <a href="https://zh.wikipedia.org/wiki/Cortex-A8" title="wikilink">Cortex-A8</a>[5][6]</p></td>
 <td><p>1 GHz <a href="../Page/Apple_A4.md" title="wikilink">Apple A4</a> （锁定频率至 800 MHz）</p></td>
 <td><p>1 GHz <a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a> 雙核心（锁定频率至 800 MHz）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>8.<a href="../Page/隨機存取記憶體.md" title="wikilink">記憶體</a></strong></p></td>
-<td><p>128 <a href="../Page/MB.md" title="wikilink">MB</a> <a href="../Page/DRAM.md" title="wikilink">DRAM</a>[7]</p></td>
+<td><p><strong>8.<a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">記憶體</a></strong></p></td>
+<td><p>128 <a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a> <a href="https://zh.wikipedia.org/wiki/DRAM" title="wikilink">DRAM</a>[7]</p></td>
 <td><p>256 MB DRAM[8][9]</p></td>
 <td><p>512 MB DRAM</p></td>
 <td></td>
@@ -117,36 +118,36 @@ iPhone3.3（CDMA）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>9.連接</strong></p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="../Page/802.11b/g.md" title="wikilink">802.11b/g</a>)，<br />
-<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="../Page/Dock.md" title="wikilink">Dock connector</a>，<br />
-<a href="../Page/四頻.md" title="wikilink">四頻</a> <a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a> （850、900、1800、1900 MHz）<br />
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g" title="wikilink">802.11b/g</a>)，<br />
+<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock" title="wikilink">Dock connector</a>，<br />
+<a href="https://zh.wikipedia.org/wiki/四頻" title="wikilink">四頻</a> <a href="../Page/GSM.md" title="wikilink">GSM</a>/<a href="../Page/GPRS.md" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a> （850、900、1800、1900 MHz）<br />
 <a href="../Page/藍牙.md" title="wikilink">藍牙 2.0 + EDR</a> Cambridge 藍牙芯片 4[10]</p></td>
 <td><p>新增：<br />
-<a href="../Page/AGPS.md" title="wikilink">AGPS</a>,<br />
-<a href="../Page/三頻.md" title="wikilink">三頻</a> <a href="../Page/UMTS.md" title="wikilink">UMTS</a>/<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a> （850、1900、2100 MHz），<br />
+<a href="https://zh.wikipedia.org/wiki/AGPS" title="wikilink">AGPS</a>,<br />
+<a href="https://zh.wikipedia.org/wiki/三頻" title="wikilink">三頻</a> <a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>/<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a> （850、1900、2100 MHz），<br />
 携帶麥克風的耳機[11]</p></td>
 <td><p>新增：<br />
-7.2 <a href="../Page/Mbps.md" title="wikilink">Mbps</a> <a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>，<br />
+7.2 <a href="https://zh.wikipedia.org/wiki/Mbps" title="wikilink">Mbps</a> <a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>，<br />
 聲控功能，數碼指南針，<a href="../Page/Nike+iPod.md" title="wikilink">Nike+</a>，<br />
-<a href="../Page/藍牙.md" title="wikilink">藍牙 2.1 + EDR</a> <a href="../Page/博通.md" title="wikilink">Broadcom</a> 4325，<br />
+<a href="../Page/藍牙.md" title="wikilink">藍牙 2.1 + EDR</a> <a href="https://zh.wikipedia.org/wiki/博通" title="wikilink">Broadcom</a> 4325，<br />
 携帶遙控設備和麥克風的耳機[12]</p></td>
 <td><p>新增：<br />
-5.76 <a href="../Page/Mbps.md" title="wikilink">Mbps</a> <a href="../Page/HSUPA.md" title="wikilink">HSUPA</a>，<br />
-Wi-Fi （<a href="../Page/802.11n.md" title="wikilink">802.11n</a>，限于 2.4 GHz），<br />
+5.76 <a href="https://zh.wikipedia.org/wiki/Mbps" title="wikilink">Mbps</a> <a href="https://zh.wikipedia.org/wiki/HSUPA" title="wikilink">HSUPA</a>，<br />
+Wi-Fi （<a href="https://zh.wikipedia.org/wiki/802.11n" title="wikilink">802.11n</a>，限于 2.4 GHz），<br />
 3軸陀螺儀感應器，<br />
 雙<a href="../Page/靜音機.md" title="wikilink">隔音麥克風</a>，<br />
 <a href="../Page/SIM卡.md" title="wikilink">微型SIM卡</a></p></td>
 <td><p>新增：<br />
-14.4 <a href="../Page/Mbps.md" title="wikilink">Mbps</a> <a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>，<br />
+14.4 <a href="https://zh.wikipedia.org/wiki/Mbps" title="wikilink">Mbps</a> <a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>，<br />
 <a href="../Page/藍牙.md" title="wikilink">藍牙 4.0</a>，<br />
 雙天線設計</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>10.相機</strong></p></td>
 <td><p>2.0：<a href="../Page/像素.md" title="wikilink">百萬像素</a>，携帶地理標記功能</p></td>
-<td><p>3 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/VGA.md" title="wikilink">VGA</a> / 30 <a href="../Page/幀率.md" title="wikilink">幀</a>）、地理標記、自動對焦、<a href="../Page/白平衡.md" title="wikilink">白平衡與</a><a href="../Page/色彩平衡.md" title="wikilink">色彩平衡功能</a></p></td>
-<td><p>5 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/720p.md" title="wikilink">720p HD</a> / 30 <a href="../Page/幀率.md" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能</p></td>
-<td><p>8 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/1080p.md" title="wikilink">1080p HD</a> / 30 <a href="../Page/幀率.md" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能、<a href="../Page/影像穩定器.md" title="wikilink">影像穩定器</a>、<a href="../Page/臉部偵測.md" title="wikilink">臉部偵測</a></p></td>
+<td><p>3 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="https://zh.wikipedia.org/wiki/VGA" title="wikilink">VGA</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、地理標記、自動對焦、<a href="https://zh.wikipedia.org/wiki/白平衡" title="wikilink">白平衡與</a><a href="../Page/色彩平衡.md" title="wikilink">色彩平衡功能</a></p></td>
+<td><p>5 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/720p.md" title="wikilink">720p HD</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能</p></td>
+<td><p>8 百萬像素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/1080p.md" title="wikilink">1080p HD</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、LED 閃光燈、前置摄像头拍摄 VGA 質量的圖片與每秒 30 幀的視頻功能、<a href="https://zh.wikipedia.org/wiki/影像穩定器" title="wikilink">影像穩定器</a>、<a href="https://zh.wikipedia.org/wiki/臉部偵測" title="wikilink">臉部偵測</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -255,11 +256,11 @@ WiFi網頁瀏覽：9<br />
 <thead>
 <tr class="header">
 <th><p><strong>型號</strong></p></th>
-<th><p><strong><a href="../Page/iPhone_5.md" title="wikilink">iPhone 5</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_5C.md" title="wikilink">iPhone 5C</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_5S.md" title="wikilink">iPhone 5S</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_6.md" title="wikilink">iPhone 6</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_6_Plus.md" title="wikilink">iPhone 6 Plus</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">iPhone 5C</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_5S" title="wikilink">iPhone 5S</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_6" title="wikilink">iPhone 6</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_6_Plus" title="wikilink">iPhone 6 Plus</a></strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -283,7 +284,7 @@ iPhone6.2</p></td>
 <td><p>iPhone7.1</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>2.预装的<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
+<td><p><strong>2.预装的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
 <td><p>iOS 6.0</p></td>
 <td><p>iOS 7.0</p></td>
 <td><p>iOS 8.0</p></td>
@@ -291,7 +292,7 @@ iPhone6.2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>3.支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
+<td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
 <td><p>iOS 10.3.3</p></td>
 <td><p>iOS 12.2</p></td>
 <td></td>
@@ -307,7 +308,7 @@ iPhone6.2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>5.<a href="../Page/計算機圖形學.md" title="wikilink">圖像</a></strong></p></td>
+<td><p><strong>5.<a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
 <td><p>PowerVR SGX 543 MP3</p></td>
 <td><p>PowerVR G6430</p></td>
 <td><p>PowerVR GX6450</p></td>
@@ -323,15 +324,15 @@ iPhone6.2</p></td>
 <td><p>16 、64 及 128 GB</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>7.<a href="../Page/中央處理器.md" title="wikilink">處理器</a></strong></p></td>
+<td><p><strong>7.<a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
 <td><p>1.3 GHz <a href="../Page/Apple_A6.md" title="wikilink">Apple A6</a></p></td>
 <td><p>1.3 GHz <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a></p></td>
-<td><p>1.4 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a></p></td>
+<td><p>1.4 GHz <a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>8.<a href="../Page/隨機存取記憶體.md" title="wikilink">記憶體</a></strong></p></td>
+<td><p><strong>8.<a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">記憶體</a></strong></p></td>
 <td><p>1 GB LPDDR2 DRAM</p></td>
 <td><p>1 GB LPDDR3 DRAM</p></td>
 <td></td>
@@ -349,7 +350,7 @@ iPhone6.2</p></td>
 <tr class="odd">
 <td><p><strong>10.連接</strong></p></td>
 <td><p>新增：<br />
-4G <a href="../Page/LTE.md" title="wikilink">LTE</a>，5GHz 802.11n Wifi，三麥克風，<a href="../Page/Lightning接头.md" title="wikilink">Lightning接頭</a>,<a href="../Page/Nano-SIM.md" title="wikilink">Nano-SIM</a></p></td>
+4G <a href="https://zh.wikipedia.org/wiki/LTE" title="wikilink">LTE</a>，5GHz 802.11n Wifi，三麥克風，<a href="../Page/Lightning接头.md" title="wikilink">Lightning接頭</a>,<a href="https://zh.wikipedia.org/wiki/Nano-SIM" title="wikilink">Nano-SIM</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -357,7 +358,7 @@ iPhone6.2</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>11.相機</strong></p></td>
-<td><p>8 百萬畫素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/1080p.md" title="wikilink">1080p HD</a> / 30 <a href="../Page/幀率.md" title="wikilink">幀</a>）、LED 閃光燈、全景合成、前置摄像头拍摄720p質量的圖片與每秒 30 幀的視頻功能、<a href="../Page/影像穩定器.md" title="wikilink">影像穩定器</a>、<a href="../Page/臉部偵測.md" title="wikilink">臉部偵測</a></p></td>
+<td><p>8 百萬畫素：携帶<a href="../Page/攝影機.md" title="wikilink">攝影機</a>（<a href="../Page/1080p.md" title="wikilink">1080p HD</a> / 30 <a href="https://zh.wikipedia.org/wiki/幀率" title="wikilink">幀</a>）、LED 閃光燈、全景合成、前置摄像头拍摄720p質量的圖片與每秒 30 幀的視頻功能、<a href="https://zh.wikipedia.org/wiki/影像穩定器" title="wikilink">影像穩定器</a>、<a href="https://zh.wikipedia.org/wiki/臉部偵測" title="wikilink">臉部偵測</a></p></td>
 <td><p>800萬像素iSight攝錄鏡頭，ƒ/2.2 光圈，藍寶石水晶保護鏡，True Tone閃光燈，Hybrid紅外線濾鏡，人臉識別，影像穩定器，連拍模式</p></td>
 <td><p>800萬像素iSight攝錄鏡頭，ƒ/2.2 光圈，True Tone 閃光燈，像素尺寸 1.5µ，自動對焦，採用 Focus Pixels</p></td>
 <td><p>800萬像素iSight攝錄鏡頭，ƒ/2.2 光圈，True Tone 閃光燈，像素尺寸 1.5µ，自動對焦，採用 Focus Pixels，OIS光學防手震</p></td>
@@ -459,11 +460,11 @@ WiFi網頁瀏覽：12<br />
 <thead>
 <tr class="header">
 <th><p><strong>型號</strong></p></th>
-<th><p><strong><a href="../Page/iPhone_6S.md" title="wikilink">iPhone 6S</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_6S_Plus.md" title="wikilink">iPhone 6S Plus</a></strong></p></th>
-<th><p><strong><a href="../Page/iPhone_SE.md" title="wikilink">iPhone SE</a></strong></p></th>
-<th><p>'''<a href="../Page/iPhone_7.md" title="wikilink">iPhone 7</a> '''</p></th>
-<th><p>'''<a href="../Page/iPhone_7_Plus.md" title="wikilink">iPhone 7 Plus</a> '''</p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_6S" title="wikilink">iPhone 6S</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_6S_Plus" title="wikilink">iPhone 6S Plus</a></strong></p></th>
+<th><p><strong><a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">iPhone SE</a></strong></p></th>
+<th><p>'''<a href="https://zh.wikipedia.org/wiki/iPhone_7" title="wikilink">iPhone 7</a> '''</p></th>
+<th><p>'''<a href="https://zh.wikipedia.org/wiki/iPhone_7_Plus" title="wikilink">iPhone 7 Plus</a> '''</p></th>
 </tr>
 </thead>
 <tbody>
@@ -484,15 +485,15 @@ WiFi網頁瀏覽：12<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>预装的<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS_9.md" title="wikilink">iOS 9</a></p></td>
-<td><p><a href="../Page/iOS9.md" title="wikilink">iOS9.3</a></p></td>
-<td><p><a href="../Page/iOS_10.md" title="wikilink">iOS 10.0.1</a></p></td>
+<td><p><strong>预装的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS9" title="wikilink">iOS9.3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.0.1</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
+<td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
 <td><p>12.2</p></td>
 <td></td>
 <td></td>
@@ -508,7 +509,7 @@ WiFi網頁瀏覽：12<br />
 <td><p>5.5，16:9 寬闊比，搭載In Cell技術的多點觸控螢幕，1920×1080像素（401像素/吋)</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/計算機圖形學.md" title="wikilink">圖像</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
 <td><p>PowerVR GT7600</p></td>
 <td><p>PowerVR GT7600 Plus</p></td>
 <td></td>
@@ -524,15 +525,15 @@ WiFi網頁瀏覽：12<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/中央處理器.md" title="wikilink">處理器</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
 <td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9</a></p></td>
-<td><p><a href="../Page/Apple_A10.md" title="wikilink">Apple A10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/隨機存取記憶體.md" title="wikilink">記憶體</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">記憶體</a></strong></p></td>
 <td><p>2 GB LPDDR4 DRAM</p></td>
 <td><p>3 GB LPDDR4 DRAM</p></td>
 <td></td>
@@ -540,7 +541,7 @@ WiFi網頁瀏覽：12<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>指紋掃描 <a href="../Page/Touch_ID.md" title="wikilink">Touch ID</a></strong></p></td>
+<td><p><strong>指紋掃描 <a href="https://zh.wikipedia.org/wiki/Touch_ID" title="wikilink">Touch ID</a></strong></p></td>
 <td><p>有</p></td>
 <td></td>
 <td></td>
@@ -655,53 +656,53 @@ WiFi網頁瀏覽：13<br />
 
 ### iPhone 8\~X
 
-| **型號**                                              |
-| --------------------------------------------------- |
-| **[iPhone 8](../Page/iPhone_8.md "wikilink")**      |
-| **圖片**                                              |
-| **型號標識**                                            |
-| **预装的[作業系統](../Page/作業系統.md "wikilink")**           |
-| **支援的最新[作業系統](../Page/作業系統.md "wikilink")**         |
-| **顯示設備**                                            |
-| **[圖像](../Page/計算機圖形學.md "wikilink")**              |
-| **[儲存裝置](../Page/儲存裝置.md "wikilink")**              |
-| **[處理器](../Page/中央處理器.md "wikilink")**              |
-| **[記憶體](../Page/隨機存取記憶體.md "wikilink")**            |
-| **指紋掃描 [Touch ID](../Page/Touch_ID.md "wikilink")** |
-| **連接**                                              |
-| **相機**                                              |
-| **外殼**                                              |
-| **電源**                                              |
-| **電池壽命(小時)**                                        |
-| **尺寸**                                              |
-| **重量**                                              |
-| **發佈日期**                                            |
-| **停產日期**                                            |
+| **型號**                                                                 |
+| ---------------------------------------------------------------------- |
+| **[iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")**      |
+| **圖片**                                                                 |
+| **型號標識**                                                               |
+| **预装的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**           |
+| **支援的最新[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**         |
+| **顯示設備**                                                               |
+| **[圖像](https://zh.wikipedia.org/wiki/計算機圖形學 "wikilink")**              |
+| **[儲存裝置](../Page/儲存裝置.md "wikilink")**                                 |
+| **[處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")**              |
+| **[記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")**            |
+| **指紋掃描 [Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")** |
+| **連接**                                                                 |
+| **相機**                                                                 |
+| **外殼**                                                                 |
+| **電源**                                                                 |
+| **電池壽命(小時)**                                                           |
+| **尺寸**                                                                 |
+| **重量**                                                                 |
+| **發佈日期**                                                               |
+| **停產日期**                                                               |
 
 ### iPhone XS、XS Max、XR
 
-| **型號**                                           |
-| ------------------------------------------------ |
-| **[iPhone XS](../Page/iPhone_XS.md "wikilink")** |
-| **圖片**                                           |
-| **预装的[作業系統](../Page/作業系統.md "wikilink")**        |
-| **支援的最新[作業系統](../Page/作業系統.md "wikilink")**      |
-| **顯示設備**                                         |
-| **[圖像](../Page/計算機圖形學.md "wikilink")**           |
-| **[儲存裝置](../Page/儲存裝置.md "wikilink")**           |
-| **[處理器](../Page/中央處理器.md "wikilink")**           |
-| **[記憶體](../Page/隨機存取記憶體.md "wikilink")**         |
-| [Face ID](../Page/面容ID.md "wikilink")            |
-| **連接**                                           |
-| **後製相機**                                         |
-| **前製相機**                                         |
-| **外殼**                                           |
-| **電源**                                           |
-| **電池壽命(小時)**                                     |
-| **尺寸**                                           |
-| **重量**                                           |
-| **發佈日期**                                         |
-| **停產日期**                                         |
+| **型號**                                                              |
+| ------------------------------------------------------------------- |
+| **[iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")** |
+| **圖片**                                                              |
+| **预装的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**        |
+| **支援的最新[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**      |
+| **顯示設備**                                                            |
+| **[圖像](https://zh.wikipedia.org/wiki/計算機圖形學 "wikilink")**           |
+| **[儲存裝置](../Page/儲存裝置.md "wikilink")**                              |
+| **[處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")**           |
+| **[記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")**         |
+| [Face ID](https://zh.wikipedia.org/wiki/面容ID "wikilink")            |
+| **連接**                                                              |
+| **後製相機**                                                            |
+| **前製相機**                                                            |
+| **外殼**                                                              |
+| **電源**                                                              |
+| **電池壽命(小時)**                                                        |
+| **尺寸**                                                              |
+| **重量**                                                              |
+| **發佈日期**                                                            |
+| **停產日期**                                                            |
 
 ## iPod touch
 
@@ -736,16 +737,16 @@ WiFi網頁瀏覽：13<br />
 <td><p>iPod5,1</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>预装的<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 1.1</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 2.1.1</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 3.1.1</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 4.1</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 6</p></td>
+<td><p><strong>预装的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 2.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 3.1.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 4.1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 6</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iPhone OS</a> 3.1.3</p></td>
+<td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iPhone OS</a> 3.1.3</p></td>
 <td><p>iOS 4.2.1</p></td>
 <td><p>iOS 5.1.1</p></td>
 <td><p>iOS 6.1.6</p></td>
@@ -753,15 +754,15 @@ WiFi網頁瀏覽：13<br />
 </tr>
 <tr class="odd">
 <td><p><strong>顯示設備</strong></p></td>
-<td><p>3.5", 光滑的玻璃屏幕, <a href="../Page/LCD.md" title="wikilink">LCD</a>, 480 x 320</p></td>
-<td><p>3.5"，3:2 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="../Page/LCD.md" title="wikilink">LCD屏幕</a>，960 × 640 像素（326 像素/吋）</p></td>
-<td><p>4"，16:9 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="../Page/Retina.md" title="wikilink">Retina屏幕</a>，1136 × 640 像素（326 像素/吋）</p></td>
+<td><p>3.5", 光滑的玻璃屏幕, <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD</a>, 480 x 320</p></td>
+<td><p>3.5"，3:2 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="https://zh.wikipedia.org/wiki/LCD" title="wikilink">LCD屏幕</a>，960 × 640 像素（326 像素/吋）</p></td>
+<td><p>4"，16:9 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="https://zh.wikipedia.org/wiki/Retina" title="wikilink">Retina屏幕</a>，1136 × 640 像素（326 像素/吋）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/計算機圖形學.md" title="wikilink">圖像</a></strong></p></td>
-<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="../Page/PowerVR#MBX.md" title="wikilink">MBX</a> Lite 3D <a href="../Page/GPU.md" title="wikilink">GPU</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
+<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="https://zh.wikipedia.org/wiki/PowerVR#MBX" title="wikilink">MBX</a> Lite 3D <a href="https://zh.wikipedia.org/wiki/GPU" title="wikilink">GPU</a></p></td>
 <td><p>PowerVR SGX 535</p></td>
 <td><p>PowerVR SGX543MP2</p></td>
 <td></td>
@@ -769,51 +770,51 @@ WiFi網頁瀏覽：13<br />
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></strong></p></td>
-<td><p>8, 16, 及 32 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
-<td><p>8, 16, 及 32 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
-<td><p>32 及 64 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
-<td><p>8, 32, 及 64 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
-<td><p>16, 32, 及 64 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
+<td><p>8, 16, 及 32 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
+<td><p>8, 16, 及 32 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
+<td><p>32 及 64 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
+<td><p>8, 32, 及 64 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
+<td><p>16, 32, 及 64 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/中央處理器.md" title="wikilink">處理器</a></strong></p></td>
-<td><p>620 <a href="../Page/MHz.md" title="wikilink">MHz</a> （锁定频率至 412 MHz，初始时锁定频率至 400 MHz） <a href="../Page/Samsung.md" title="wikilink">Samsung</a> <a href="../Page/32-bit.md" title="wikilink">32-bit</a> <a href="../Page/RISC.md" title="wikilink">RISC</a> <a href="../Page/ARM.md" title="wikilink">ARM</a> 1176JZ(F)-S v1.0[15]</p></td>
-<td><p>620 MHz （锁定频率至 533 MHz）<a href="../Page/Samsung.md" title="wikilink">Samsung</a> ARM11 核心 與內部 <a href="../Page/ARM7.md" title="wikilink">ARM7</a> <a href="../Page/Jazelle.md" title="wikilink">Jazelle</a> 加速核心[16]</p></td>
-<td><p>833 MHz （锁定频率至 600 MHz）ARM <a href="../Page/Cortex-A8.md" title="wikilink">Cortex-A8</a>[17]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
+<td><p>620 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a> （锁定频率至 412 MHz，初始时锁定频率至 400 MHz） <a href="https://zh.wikipedia.org/wiki/Samsung" title="wikilink">Samsung</a> <a href="https://zh.wikipedia.org/wiki/32-bit" title="wikilink">32-bit</a> <a href="https://zh.wikipedia.org/wiki/RISC" title="wikilink">RISC</a> <a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM</a> 1176JZ(F)-S v1.0[15]</p></td>
+<td><p>620 MHz （锁定频率至 533 MHz）<a href="https://zh.wikipedia.org/wiki/Samsung" title="wikilink">Samsung</a> ARM11 核心 與內部 <a href="https://zh.wikipedia.org/wiki/ARM7" title="wikilink">ARM7</a> <a href="https://zh.wikipedia.org/wiki/Jazelle" title="wikilink">Jazelle</a> 加速核心[16]</p></td>
+<td><p>833 MHz （锁定频率至 600 MHz）ARM <a href="https://zh.wikipedia.org/wiki/Cortex-A8" title="wikilink">Cortex-A8</a>[17]</p></td>
 <td><p>1 GHz <a href="../Page/Apple_A4.md" title="wikilink">Apple A4</a> （锁定频率至 800 MHz）</p></td>
 <td><p>1 GHz <a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a> （雙核心，频率至 800 MHz）</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/記憶體.md" title="wikilink">記憶體</a></strong></p></td>
-<td><p>128 <a href="../Page/MB.md" title="wikilink">MB</a> <a href="../Page/DRAM.md" title="wikilink">DRAM</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></strong></p></td>
+<td><p>128 <a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a> <a href="https://zh.wikipedia.org/wiki/DRAM" title="wikilink">DRAM</a></p></td>
 <td><p>256 MB DRAM[18]</p></td>
-<td><p>512 <a href="../Page/MB.md" title="wikilink">MB</a> <a href="../Page/DRAM.md" title="wikilink">LPDDR2RAM</a></p></td>
+<td><p>512 <a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a> <a href="https://zh.wikipedia.org/wiki/DRAM" title="wikilink">LPDDR2RAM</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>連接</strong></p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="../Page/802.11b/g.md" title="wikilink">802.11b/g</a>),<br />
-<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="../Page/Dock.md" title="wikilink">Dock connector</a></p></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g" title="wikilink">802.11b/g</a>),<br />
+<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock" title="wikilink">Dock connector</a></p></td>
 <td><p>新增:<br />
-<a href="../Page/藍牙.md" title="wikilink">藍牙 2.1 + EDR</a>（<a href="../Page/iPhone_OS.md" title="wikilink">iPhone OS</a> 3.0版本）<br />
+<a href="../Page/藍牙.md" title="wikilink">藍牙 2.1 + EDR</a>（<a href="https://zh.wikipedia.org/wiki/iPhone_OS" title="wikilink">iPhone OS</a> 3.0版本）<br />
 內置揚聲器、硬件音量控制、<a href="../Page/Nike+iPod.md" title="wikilink">Nike+</a></p></td>
 <td><p>新增:<br />
 聲控功能,、<br />
-包括<a href="../Page/iPod_earbuds.md" title="wikilink">遙控耳機和麥克風</a></p></td>
+包括<a href="https://zh.wikipedia.org/wiki/iPod_earbuds" title="wikilink">遙控耳機和麥克風</a></p></td>
 <td><p>新增:<br />
 3軸陀螺儀感應器,<br />
 內建麥克風,<br />
 FaceTime</p></td>
 <td><p>新增:<br />
-<a href="../Page/EarPods.md" title="wikilink">遙控耳機和麥克風</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/EarPods" title="wikilink">遙控耳機和麥克風</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>相機</strong></p></td>
 <td><p>colspan=3 </p></td>
-<td><p>背部(主摄像头)：<a href="../Page/CMOS图像传感器.md" title="wikilink">CMOS图像传感器带有</a><a href="../Page/摄影机.md" title="wikilink">摄像功能</a>(<a href="../Page/720p.md" title="wikilink">720p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
+<td><p>背部(主摄像头)：<a href="https://zh.wikipedia.org/wiki/CMOS图像传感器" title="wikilink">CMOS图像传感器带有</a><a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">摄像功能</a>(<a href="../Page/720p.md" title="wikilink">720p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
 前部：VGA级别的图像拍摄和每秒最高30<a href="../Page/帧.md" title="wikilink">fps影片拍摄功能</a></p></td>
-<td><p>背部(主摄像头)：500万像素 <a href="../Page/iSight.md" title="wikilink">iSight摄像头</a>，<a href="../Page/摄影机.md" title="wikilink">摄像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
+<td><p>背部(主摄像头)：500万像素 <a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight摄像头</a>，<a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">摄像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
 前部：可拍摄120万像素画质照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧的</a><a href="../Page/720p.md" title="wikilink">720p HD视频</a></p>
 <ul>
 <li>16GB版本無主攝影鏡頭</li>
@@ -823,8 +824,8 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>音频解碼器</strong></p></td>
-<td><p><a href="../Page/Wolfson_Microelectronics.md" title="wikilink">Wolfson Microelectronics</a> WM8758BG[19]</p></td>
-<td><p><a href="../Page/Cirrus_Logic.md" title="wikilink">Cirrus Logic</a> CS4398</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wolfson_Microelectronics" title="wikilink">Wolfson Microelectronics</a> WM8758BG[19]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Cirrus_Logic" title="wikilink">Cirrus Logic</a> CS4398</p></td>
 <td><p>Cirrus Logic CS4398[20]</p></td>
 <td><p>Cirrus Logic (與iPhone 4相同)</p></td>
 <td><p>Cirrus Logic</p></td>
@@ -839,7 +840,7 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>電池</strong></p></td>
-<td><p>3.7 <a href="../Page/Volt.md" title="wikilink">V</a> 2.15 <a href="../Page/Watt-hour.md" title="wikilink">W·h</a> (580 <a href="../Page/毫安时.md" title="wikilink">毫安時</a>)</p></td>
+<td><p>3.7 <a href="https://zh.wikipedia.org/wiki/Volt" title="wikilink">V</a> 2.15 <a href="https://zh.wikipedia.org/wiki/Watt-hour" title="wikilink">W·h</a> (580 <a href="https://zh.wikipedia.org/wiki/毫安时" title="wikilink">毫安時</a>)</p></td>
 <td><p>3.7 V 2.73 W·h (739 毫安時)[21]</p></td>
 <td><p>3.7 V 2.92 W·h (789 毫安時)</p></td>
 <td><p>3.7 V 3.44 W·h (930 毫安時)</p></td>
@@ -915,46 +916,46 @@ FaceTime</p></td>
 <td><p>iPod7,1</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>預裝的<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 8.4</p></td>
+<td><p><strong>預裝的<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 8.4</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>支援的最新<a href="../Page/作業系統.md" title="wikilink">作業系統</a></strong></p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 12.2</p></td>
+<td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.2</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>顯示設備</strong></p></td>
-<td><p>4"，16:9 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="../Page/Retina.md" title="wikilink">Retina屏幕</a>，1136 × 640 像素（326 像素/時）</p></td>
+<td><p>4"，16:9 寬闊比，防刮鏡面玻璃玻璃覆蓋 <a href="https://zh.wikipedia.org/wiki/Retina" title="wikilink">Retina屏幕</a>，1136 × 640 像素（326 像素/時）</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/計算機圖形學.md" title="wikilink">圖像</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/計算機圖形學" title="wikilink">圖像</a></strong></p></td>
 <td><p>PowerVR SGX543MP2</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/儲存裝置.md" title="wikilink">儲存裝置</a></strong></p></td>
-<td><p>16, 32, 64, 及 128 <a href="../Page/GB.md" title="wikilink">GB</a></p></td>
+<td><p>16, 32, 64, 及 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/中央處理器.md" title="wikilink">處理器</a></strong></p></td>
-<td><p>1 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a> （雙核心，频率至 800 MHz）</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
+<td><p>1 GHz <a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a> （雙核心，频率至 800 MHz）</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/記憶體.md" title="wikilink">記憶體</a></strong></p></td>
-<td><p>1 <a href="../Page/GB.md" title="wikilink">GB</a> <a href="../Page/LPDDR3RAM.md" title="wikilink">LPDDR3RAM</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></strong></p></td>
+<td><p>1 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/LPDDR3RAM" title="wikilink">LPDDR3RAM</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>連接</strong></p></td>
-<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="../Page/802.11b/g.md" title="wikilink">802.11b/g</a>),<br />
-<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="../Page/Dock.md" title="wikilink">Dock connector</a></p></td>
+<td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a> (<a href="https://zh.wikipedia.org/wiki/802.11b/g" title="wikilink">802.11b/g</a>),<br />
+<a href="../Page/USB.md" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock" title="wikilink">Dock connector</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>相機</strong></p></td>
-<td><p>背部(主相機)：800萬畫素 <a href="../Page/iSight.md" title="wikilink">iSight鏡頭</a>，<a href="../Page/摄影机.md" title="wikilink">攝像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
+<td><p>背部(主相機)：800萬畫素 <a href="https://zh.wikipedia.org/wiki/iSight" title="wikilink">iSight鏡頭</a>，<a href="https://zh.wikipedia.org/wiki/摄影机" title="wikilink">攝像功能</a>(<a href="../Page/1080p.md" title="wikilink">1080p HD</a>，每秒最高30<a href="../Page/帧.md" title="wikilink">帧</a>);<br />
 前部：可拍攝120萬像素畫質照片和每秒最高30<a href="../Page/帧.md" title="wikilink">帧的</a><a href="../Page/720p.md" title="wikilink">720p HD視頻</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>音频解碼器</strong></p></td>
-<td><p><a href="../Page/Wolfson_Microelectronics.md" title="wikilink">Wolfson Microelectronics</a> WM8758BG[22]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wolfson_Microelectronics" title="wikilink">Wolfson Microelectronics</a> WM8758BG[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>包裝</strong></p></td>
@@ -1005,17 +1006,17 @@ FaceTime</p></td>
 <thead>
 <tr class="header">
 <th><p>款式</p></th>
-<th><p><a href="../Page/iPad_(第一代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第二代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
 <small>（第二代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
 <small>（第四代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第五代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第五代)" title="wikilink">iPad<br />
 <small>（第五代）</small></a></p></th>
-<th><p><a href="../Page/iPad_(第六代).md" title="wikilink">iPad<br />
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_(第六代)" title="wikilink">iPad<br />
 <small>（第六代）</small></a></p></th>
 </tr>
 </thead>
@@ -1041,19 +1042,19 @@ FaceTime</p></td>
 <tr class="odd">
 <td><p>|支持的最新操作系統</p></td>
 <td><p>iOS 5.1.1</p></td>
-<td><p><a href="../Page/iOS_9.md" title="wikilink">iOS 9.3.5</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9.3.5</a></p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS12.0</a></p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS12.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS12.0</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>|圖像</p></td>
-<td><p>1024 x 768<a href="../Page/pixel.md" title="wikilink">px</a><br />
+<td><p>1024 x 768<a href="https://zh.wikipedia.org/wiki/pixel" title="wikilink">px</a><br />
 <br />
-132 <a href="../Page/ppi.md" title="wikilink">ppi</a>、3:4 <a href="../Page/縱橫比_(圖像).md" title="wikilink">長寬比</a>、<a href="../Page/擴展圖形陣列.md" title="wikilink">XGA</a><br />
-<a href="../Page/發光二極管.md" title="wikilink">LED背光</a><a href="../Page/薄膜電晶體液晶顯示器#IPS.md" title="wikilink">IPS LCD顯示器</a>[23]</p></td>
-<td><p>9.7<a href="../Page/英寸.md" title="wikilink">英寸</a><br />
+132 <a href="https://zh.wikipedia.org/wiki/ppi" title="wikilink">ppi</a>、3:4 <a href="https://zh.wikipedia.org/wiki/縱橫比_(圖像)" title="wikilink">長寬比</a>、<a href="https://zh.wikipedia.org/wiki/擴展圖形陣列" title="wikilink">XGA</a><br />
+<a href="../Page/發光二極管.md" title="wikilink">LED背光</a><a href="https://zh.wikipedia.org/wiki/薄膜電晶體液晶顯示器#IPS" title="wikilink">IPS LCD顯示器</a>[23]</p></td>
+<td><p>9.7<a href="https://zh.wikipedia.org/wiki/英寸" title="wikilink">英寸</a><br />
 2,048×1,536<a href="../Page/像素.md" title="wikilink">像素</a><small>（264 <a href="../Page/每英寸像素.md" title="wikilink">ppi</a>）</small><br />
 <a href="../Page/長寬比_(影像).md" title="wikilink">長寬比</a> 4:3 非全貼合面板</p></td>
 <td></td>
@@ -1070,7 +1071,7 @@ FaceTime</p></td>
 <td><p>A6X</p></td>
 <td><p><a href="../Page/Apple_A9.md" title="wikilink">Apple A9</a> <a href="../Page/64位元.md" title="wikilink">64位元架構與</a><br />
  <a href="../Page/輔助處理器.md" title="wikilink">輔助處理器</a></p></td>
-<td><p><a href="../Page/Apple_A10.md" title="wikilink">Apple A10</a> <a href="../Page/64位元.md" title="wikilink">64位元架構與</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10" title="wikilink">Apple A10</a> <a href="../Page/64位元.md" title="wikilink">64位元架構與</a><br />
  <a href="../Page/輔助處理器.md" title="wikilink">輔助處理器</a></p></td>
 </tr>
 <tr class="even">
@@ -1093,9 +1094,9 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p>|圖像處理器</p></td>
-<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="../Page/PowerVR#Series_5_(SGX).md" title="wikilink">SGX535</a> GPU[26]</p></td>
+<td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> <a href="https://zh.wikipedia.org/wiki/PowerVR#Series_5_(SGX)" title="wikilink">SGX535</a> GPU[26]</p></td>
 <td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> SGX543MP[27]</p></td>
-<td><p>PowerVR <a href="../Page/PowerVR#Series_5XT.md" title="wikilink">SGX543MP4</a> (4-core) GPU</p></td>
+<td><p>PowerVR <a href="https://zh.wikipedia.org/wiki/PowerVR#Series_5XT" title="wikilink">SGX543MP4</a> (4-core) GPU</p></td>
 <td></td>
 <td><p><a href="../Page/PowerVR.md" title="wikilink">PowerVR</a> GT7600 <a href="../Page/圖形處理器.md" title="wikilink">圖形處理器</a></p></td>
 <td><p>PowerVR GT7600 Plus</p></td>
@@ -1104,17 +1105,17 @@ FaceTime</p></td>
 <td><p>|存儲器</p></td>
 <td><p>16, 32 or 64 GB</p></td>
 <td><p>16, 32, 64 or 128 GB</p></td>
-<td><p>32 <a href="../Page/GB.md" title="wikilink">GB或</a>128 GB</p></td>
+<td><p>32 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB或</a>128 GB</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>|内存</p></td>
-<td><p>256 MB <a href="../Page/Mobile_DDR.md" title="wikilink">LPDDR</a> DRAM[28]</p></td>
-<td><p>512 MB <a href="../Page/Mobile_DDR#LPDDR2.md" title="wikilink">Dual-Channel LPDDR2</a>[29] DRAM[30][31]</p></td>
+<td><p>256 MB <a href="https://zh.wikipedia.org/wiki/Mobile_DDR" title="wikilink">LPDDR</a> DRAM[28]</p></td>
+<td><p>512 MB <a href="https://zh.wikipedia.org/wiki/Mobile_DDR#LPDDR2" title="wikilink">Dual-Channel LPDDR2</a>[29] DRAM[30][31]</p></td>
 <td><p>1 GB [32]</p></td>
-<td><p>2 <a href="../Page/GB.md" title="wikilink">GB</a> LPDDR4 DRAM</p></td>
+<td><p>2 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> LPDDR4 DRAM</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1129,35 +1130,35 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p>rowspan=3 |連接</p></td>
-<td><p>Wi-Fi機種：<a href="../Page/IEEE_802.11n-2009.md" title="wikilink">802.11a/b/g/n</a><br />
-<a href="../Page/Bluetooth#Bluetooth_2.1.md" title="wikilink">Bluetooth 2.1+EDR</a><br />
-<a href="../Page/USB_2.0.md" title="wikilink">USB 2.0</a>/<a href="../Page/Dock_connector.md" title="wikilink">Dock connector</a><br />
-Wi-Fi+3G機種另加：<a href="../Page/輔助全球衛星定位系統.md" title="wikilink">A-GPS</a><br />
-<a href="../Page/micro-SIM.md" title="wikilink">micro-SIM插槽</a></p></td>
-<td><p>Wi-Fi機種：（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11a-1999.md" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="../Page/IEEE_802.11n-2009.md" title="wikilink">n</a>）<br />
-<a href="../Page/Bluetooth#Bluetooth_v2.1_+_EDR.md" title="wikilink">Bluetooth 2.1 + EDR</a><br />
-Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(Tri band–850, 1900, 2100 MHz)</a></p></td>
-<td><p>Wi-Fi機種:<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="../Page/IEEE_802.11n-2009.md" title="wikilink">n</a>）<br />
-<a href="../Page/Bluetooth#Bluetooth_v4.0_+_EDR.md" title="wikilink">Bluetooth 4.0 + EDR</a></p></td>
+<td><p>Wi-Fi機種：<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">802.11a/b/g/n</a><br />
+<a href="https://zh.wikipedia.org/wiki/Bluetooth#Bluetooth_2.1" title="wikilink">Bluetooth 2.1+EDR</a><br />
+<a href="https://zh.wikipedia.org/wiki/USB_2.0" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock_connector" title="wikilink">Dock connector</a><br />
+Wi-Fi+3G機種另加：<a href="https://zh.wikipedia.org/wiki/輔助全球衛星定位系統" title="wikilink">A-GPS</a><br />
+<a href="https://zh.wikipedia.org/wiki/micro-SIM" title="wikilink">micro-SIM插槽</a></p></td>
+<td><p>Wi-Fi機種：（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11a-1999.md" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/Bluetooth#Bluetooth_v2.1_+_EDR" title="wikilink">Bluetooth 2.1 + EDR</a><br />
+Wi-Fi+3G機種追加：<a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(Tri band–850, 1900, 2100 MHz)</a></p></td>
+<td><p>Wi-Fi機種:<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/Bluetooth#Bluetooth_v4.0_+_EDR" title="wikilink">Bluetooth 4.0 + EDR</a></p></td>
 <td><p>Wi-Fi (802.11 a/b/g/n/ac)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/四頻.md" title="wikilink">四頻</a><a href="../Page/GSM.md" title="wikilink">GSM</a><br />
-850 900 1800 1900 <a href="../Page/MHz.md" title="wikilink">MHz</a><br />
-<a href="../Page/通用分組無線服務.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a><br />
-<a href="../Page/Tri_band.md" title="wikilink">Tri band</a> <a href="../Page/UMTS.md" title="wikilink">UMTS</a><br />
-850 1900 2100 MHz <a href="../Page/HSDPA.md" title="wikilink">HSDPA</a></p></td>
-<td><p><a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
-<td><p>In addition to prior: <a href="../Page/LTE.md" title="wikilink">LTE</a> ()、<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
-<td><p>In addition to prior: <a href="../Page/LTE.md" title="wikilink">LTE</a> ()、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/四頻" title="wikilink">四頻</a><a href="../Page/GSM.md" title="wikilink">GSM</a><br />
+850 900 1800 1900 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a><br />
+<a href="https://zh.wikipedia.org/wiki/通用分組無線服務" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><br />
+<a href="https://zh.wikipedia.org/wiki/Tri_band" title="wikilink">Tri band</a> <a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a><br />
+850 1900 2100 MHz <a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p>In addition to prior: <a href="https://zh.wikipedia.org/wiki/LTE" title="wikilink">LTE</a> ()、<a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p>In addition to prior: <a href="https://zh.wikipedia.org/wiki/LTE" title="wikilink">LTE</a> ()、<br />
 <a href="../Page/SIM卡.md" title="wikilink">Nano-SIM</a></p></td>
 <td></td>
 <td></td>
@@ -1165,10 +1166,10 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td><p><a href="../Page/藍牙.md" title="wikilink">Bluetooth 4.2</a></p></td>
 <td></td>
 <td></td>
@@ -1178,7 +1179,7 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 <tr class="odd">
 <td><p>|相機（主相機）</p></td>
 <td><p>rowspan=2 </p></td>
-<td><p>720pHD (0.9 <a href="../Page/pixel#Megapixel.md" title="wikilink">MP</a>) video at 30 fps</p></td>
+<td><p>720pHD (0.9 <a href="https://zh.wikipedia.org/wiki/pixel#Megapixel" title="wikilink">MP</a>) video at 30 fps</p></td>
 <td><p>1080pHD (5 MP) still and video camera<br />
 30 fps</p></td>
 <td><p>1080p HD video at 30 fps and 8 MP photos</p></td>
@@ -1187,7 +1188,7 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 </tr>
 <tr class="even">
 <td><p>|前相機</p></td>
-<td><p><a href="../Page/Video_Graphics_Array.md" title="wikilink">VGA</a> (0.3 <a href="../Page/pixel#Megapixel.md" title="wikilink">MP</a>) photos and video at up to 30 <a href="../Page/frame_rate.md" title="wikilink">fps</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Video_Graphics_Array" title="wikilink">VGA</a> (0.3 <a href="https://zh.wikipedia.org/wiki/pixel#Megapixel" title="wikilink">MP</a>) photos and video at up to 30 <a href="https://zh.wikipedia.org/wiki/frame_rate" title="wikilink">fps</a></p></td>
 <td><p>1.2 MP photos, 720p video</p></td>
 <td></td>
 <td></td>
@@ -1231,11 +1232,11 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>3.75 <a href="../Page/Volts.md" title="wikilink">V</a> 24.8 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (6613 <a href="../Page/Ampere-hour.md" title="wikilink">mA·h</a>)[37]</p></td>
-<td><p>3.8 <a href="../Page/Volts.md" title="wikilink">V</a> 25 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (6579 mA·h)[38]</p></td>
-<td><p>3.7 <a href="../Page/Volts.md" title="wikilink">V</a> 42.5 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (11487 mA·h)[39][40]</p></td>
+<td><p>3.75 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 24.8 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6613 <a href="https://zh.wikipedia.org/wiki/Ampere-hour" title="wikilink">mA·h</a>)[37]</p></td>
+<td><p>3.8 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 25 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6579 mA·h)[38]</p></td>
+<td><p>3.7 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 42.5 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (11487 mA·h)[39][40]</p></td>
 <td></td>
-<td><p>3.75 <a href="../Page/Volts.md" title="wikilink">V</a> 32.9 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (8827 <a href="../Page/Ampere-hour.md" title="wikilink">mA·h</a>)</p></td>
+<td><p>3.75 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 32.9 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (8827 <a href="https://zh.wikipedia.org/wiki/Ampere-hour" title="wikilink">mA·h</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1308,17 +1309,17 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>款式</p></td>
-<td><p><a href="../Page/iPad_(第一代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第一代)" title="wikilink">iPad<br />
 <small>（第一代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第二代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad<br />
 <small>（第二代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第三代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad<br />
 <small>（第三代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第四代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第四代)" title="wikilink">iPad<br />
 <small>（第四代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第五代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第五代)" title="wikilink">iPad<br />
 <small>（第五代）</small></a></p></td>
-<td><p><a href="../Page/iPad_(第六代).md" title="wikilink">iPad<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第六代)" title="wikilink">iPad<br />
 <small>（第六代）</small></a></p></td>
 </tr>
 <tr class="even">
@@ -1354,9 +1355,9 @@ International: 2011年3月25日</p></td>
 <thead>
 <tr class="header">
 <th><p>Model</p></th>
-<th><p><a href="../Page/iPad_Air.md" title="wikilink">iPad Air</a></p></th>
-<th><p><a href="../Page/iPad_Air_2.md" title="wikilink">iPad Air 2</a></p></th>
-<th><p><a href="../Page/iPad_Air_(第三代).md" title="wikilink">iPad Air (第三代)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air" title="wikilink">iPad Air</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_2" title="wikilink">iPad Air 2</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Air_(第三代)" title="wikilink">iPad Air (第三代)</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1374,14 +1375,14 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作業系統</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 12.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.0</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |圖像</p></td>
 <td><p>9.7吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2048x1536[41]</p></td>
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2048x1536[41]</p></td>
 <td><p>10.5吋 Retina顯示器<br />
 2224x1668 （264 <a href="../Page/每英寸像素.md" title="wikilink">PPI</a>）</p></td>
 <td></td>
@@ -1389,7 +1390,7 @@ International: 2011年3月25日</p></td>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
 <td><p><a href="../Page/Apple_A7.md" title="wikilink">64位元 Apple A7</a> 1.4 Ghz 雙核心</p></td>
-<td><p>64位元 <a href="../Page/Apple_A8X.md" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
+<td><p>64位元 <a href="https://zh.wikipedia.org/wiki/Apple_A8X" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
 <td><p>64位元 <a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> 2.49 GHz 六核心</p></td>
 </tr>
 <tr class="even">
@@ -1430,18 +1431,18 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 rowspan=2 |連線</p></td>
-<td><p><a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS頻段.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM頻段.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS頻段" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM頻段" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1484,8 +1485,8 @@ International: 2011年3月25日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>3.75 <a href="../Page/Volts.md" title="wikilink">V</a> 24.8 <a href="../Page/千瓦·時.md" title="wikilink">W·h</a> (6613 <a href="../Page/安培小時.md" title="wikilink">mA·h</a>)</p></td>
-<td><p>3.8 <a href="../Page/Volts.md" title="wikilink">V</a> 25 <a href="../Page/千瓦·時.md" title="wikilink">W·h</a> (6579 mA·h)[46]</p></td>
+<td><p>3.75 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 24.8 <a href="../Page/千瓦·時.md" title="wikilink">W·h</a> (6613 <a href="https://zh.wikipedia.org/wiki/安培小時" title="wikilink">mA·h</a>)</p></td>
+<td><p>3.8 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 25 <a href="../Page/千瓦·時.md" title="wikilink">W·h</a> (6579 mA·h)[46]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1555,23 +1556,23 @@ Wi-Fi + 4G model: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">9.7吋 iPad Pro</a></p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">10.5吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">9.7吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a>（第二代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">10.5吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>colspan=2 |預裝的作業系统</p></td>
 <td><p>iOS 9</p></td>
-<td><p><a href="../Page/iOS_10.md" title="wikilink">iOS 10.3.2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_10" title="wikilink">iOS 10.3.2</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1586,22 +1587,22 @@ Wi-Fi + 4G model: </p></td>
 <tr class="even">
 <td><p>colspan=2 |图像</p></td>
 <td><p>12.9吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2732x2048<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2732x2048<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 <td><p>9.7吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2048x1536<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2048x1536<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>:264 PPI</p></td>
 <td><p>12.9吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2732x2048<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2732x2048<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 <td><p>10.5吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2224x 1668<br />
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2224x 1668<br />
 <a href="../Page/每英寸像素.md" title="wikilink">每英寸像素</a>：265 PPI</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="../Page/Apple_A9X.md" title="wikilink">Apple A9X</a></p></td>
-<td><p><a href="../Page/Apple_A10X.md" title="wikilink">Apple A10X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A9X" title="wikilink">Apple A9X</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1635,19 +1636,19 @@ Wi-Fi + 4G model: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 rowspan=2 |連線</p></td>
-<td><p><a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td><p>UMTS/HSPA/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz); GSM/EDGE (850, 900, 1800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td><p>CDMA EV-DO Rev. A and Rev. B (800, 1900 MHz) LTE Advanced (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 17, 18, 19, 20, 21, 25, 26, 27, 28, 29, 30, 38, 39, 40, 41)4</p></td>
 <td></td>
 <td></td>
@@ -1699,7 +1700,7 @@ Wi-Fi + 4G model: </p></td>
 <tr class="even">
 <td><p>3.77 V 38.8 W·h (10307mA·h)</p></td>
 <td><p>3.82 V 27.91 W·h (7306mA·h)</p></td>
-<td><p>3.77 <a href="../Page/電壓.md" title="wikilink">V</a> 41.0 <a href="../Page/千瓦·時.md" title="wikilink">Wh</a> (10,875 <a href="../Page/安培小時.md" title="wikilink">mAh</a>)</p></td>
+<td><p>3.77 <a href="../Page/電壓.md" title="wikilink">V</a> 41.0 <a href="../Page/千瓦·時.md" title="wikilink">Wh</a> (10,875 <a href="https://zh.wikipedia.org/wiki/安培小時" title="wikilink">mAh</a>)</p></td>
 <td><p>3.77 V 30.8 Wh (8,134 mAh)</p></td>
 <td></td>
 </tr>
@@ -1727,7 +1728,7 @@ Wi-Fi + Cellular: 723 克（1.594磅）</p></td>
 <td><p>Wi-Fi: 437 克（0.963磅）<br />
 Wi-Fi + Cellular: 444 克（0.979磅）</p></td>
 <td><p><a href="../Page/Wi-Fi.md" title="wikilink">Wi-Fi</a>: <br />
-Wi-Fi + <a href="../Page/蜂窩網絡.md" title="wikilink">cellular</a>: </p></td>
+Wi-Fi + <a href="https://zh.wikipedia.org/wiki/蜂窩網絡" title="wikilink">cellular</a>: </p></td>
 <td><p>Wi-Fi: <br />
 Wi-Fi + cellular: </p></td>
 </tr>
@@ -1759,8 +1760,8 @@ Wi-Fi + cellular: </p></td>
 <thead>
 <tr class="header">
 <th><p>世代</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
-<th><p><a href="../Page/iPad_Pro.md" title="wikilink">11吋 iPad Pro</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">12.9吋 iPad Pro</a> （第三代）</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_Pro" title="wikilink">11吋 iPad Pro</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1771,7 +1772,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1935,11 +1936,11 @@ eSIM</p></td>
 <thead>
 <tr class="header">
 <th><p>Model</p></th>
-<th><p><a href="../Page/iPad_mini_(第一代).md" title="wikilink">iPad mini</a></p></th>
-<th><p><a href="../Page/iPad_mini_2.md" title="wikilink">iPad mini 2</a></p></th>
-<th><p><a href="../Page/iPad_mini_3.md" title="wikilink">iPad mini 3</a></p></th>
-<th><p><a href="../Page/iPad_mini_4.md" title="wikilink">iPad mini 4</a></p></th>
-<th><p><a href="../Page/iPad_mini_(第五代).md" title="wikilink">iPad mini (第五代)</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第一代)" title="wikilink">iPad mini</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_2" title="wikilink">iPad mini 2</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_3" title="wikilink">iPad mini 3</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_4" title="wikilink">iPad mini 4</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iPad_mini_(第五代)" title="wikilink">iPad mini (第五代)</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1953,11 +1954,11 @@ eSIM</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |預裝的操作系統</p></td>
-<td><p><a href="../Page/iOS_6.md" title="wikilink">iOS 6</a></p></td>
-<td><p><a href="../Page/iOS_7.md" title="wikilink">iOS 7</a></p></td>
-<td><p><a href="../Page/iOS_8.md" title="wikilink">iOS 8</a></p></td>
-<td><p><a href="../Page/iOS_9.md" title="wikilink">iOS 9</a></p></td>
-<td><p><a href="../Page/iOS_12.md" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_6" title="wikilink">iOS 6</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_7" title="wikilink">iOS 7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_8" title="wikilink">iOS 8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_9" title="wikilink">iOS 9</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支持的最新操作系統</p></td>
@@ -1969,12 +1970,12 @@ eSIM</p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |螢幕</p></td>
-<td><p>1024 x 768<a href="../Page/pixel.md" title="wikilink">px</a><br />
+<td><p>1024 x 768<a href="https://zh.wikipedia.org/wiki/pixel" title="wikilink">px</a><br />
 <br />
-163 <a href="../Page/ppi.md" title="wikilink">ppi</a>、4:3 <a href="../Page/縱橫比_(圖像).md" title="wikilink">長寬比</a>、<a href="../Page/擴展圖形陣列.md" title="wikilink">XGA</a><br />
-<a href="../Page/發光二極管.md" title="wikilink">LED背光</a><a href="../Page/薄膜電晶體液晶顯示器#IPS.md" title="wikilink">IPS LCD顯示器</a></p></td>
+163 <a href="https://zh.wikipedia.org/wiki/ppi" title="wikilink">ppi</a>、4:3 <a href="https://zh.wikipedia.org/wiki/縱橫比_(圖像)" title="wikilink">長寬比</a>、<a href="https://zh.wikipedia.org/wiki/擴展圖形陣列" title="wikilink">XGA</a><br />
+<a href="../Page/發光二極管.md" title="wikilink">LED背光</a><a href="https://zh.wikipedia.org/wiki/薄膜電晶體液晶顯示器#IPS" title="wikilink">IPS LCD顯示器</a></p></td>
 <td><p>7.9吋 Retina顯示器<br />
-<a href="../Page/螢幕解析度.md" title="wikilink">螢幕解析度</a>：2048x1536[47] 326 <a href="../Page/每英寸像素.md" title="wikilink">ppi</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/螢幕解析度" title="wikilink">螢幕解析度</a>：2048x1536[47] 326 <a href="../Page/每英寸像素.md" title="wikilink">ppi</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1983,7 +1984,7 @@ eSIM</p></td>
 <td><p>colspan=2 |處理器</p></td>
 <td><p>1GHz<a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a></p></td>
 <td><p>1.3GHz 雙核 <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a> 專門設計的高性能低功耗系統級芯片</p></td>
-<td><p><a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
 <td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a></p></td>
 <td></td>
 </tr>
@@ -2013,7 +2014,7 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |内存</p></td>
-<td><p>512 MB <a href="../Page/Mobile_DDR#LPDDR2.md" title="wikilink">Dual-Channel LPDDR2</a>[50] DRAM[51][52]</p></td>
+<td><p>512 MB <a href="https://zh.wikipedia.org/wiki/Mobile_DDR#LPDDR2" title="wikilink">Dual-Channel LPDDR2</a>[50] DRAM[51][52]</p></td>
 <td><p>LPDDR3 1 GB RAM[53]</p></td>
 <td><p>2GB LPDDR3 RAM</p></td>
 <td><p>3GB LPDDR4 RAM</p></td>
@@ -2029,38 +2030,38 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 rowspan=3 |連接</p></td>
-<td><p>Wi-Fi機種：<a href="../Page/IEEE_802.11n-2009.md" title="wikilink">802.11a/b/g/n</a><br />
-<a href="../Page/Bluetooth#Bluetooth_4.0.md" title="wikilink">Bluetooth 4.0+EDR</a><br />
-<a href="../Page/USB_2.0.md" title="wikilink">USB 2.0</a>/<a href="../Page/Dock_connector.md" title="wikilink">Dock connector</a><br />
-Wi-Fi+3G機種另加：<a href="../Page/輔助全球衛星定位系統.md" title="wikilink">A-GPS</a><br />
-<a href="../Page/micro-SIM.md" title="wikilink">micro-SIM插槽</a></p></td>
-<td><p>Wi-Fi機種：（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11a-1999.md" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="../Page/IEEE_802.11n-2009.md" title="wikilink">n</a>）<br />
-<a href="../Page/Bluetooth#Bluetooth_v2.1_+_EDR.md" title="wikilink">Bluetooth 2.1 + EDR</a><br />
-Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(Tri band–850, 1900, 2100 MHz)</a></p></td>
+<td><p>Wi-Fi機種：<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">802.11a/b/g/n</a><br />
+<a href="https://zh.wikipedia.org/wiki/Bluetooth#Bluetooth_4.0" title="wikilink">Bluetooth 4.0+EDR</a><br />
+<a href="https://zh.wikipedia.org/wiki/USB_2.0" title="wikilink">USB 2.0</a>/<a href="https://zh.wikipedia.org/wiki/Dock_connector" title="wikilink">Dock connector</a><br />
+Wi-Fi+3G機種另加：<a href="https://zh.wikipedia.org/wiki/輔助全球衛星定位系統" title="wikilink">A-GPS</a><br />
+<a href="https://zh.wikipedia.org/wiki/micro-SIM" title="wikilink">micro-SIM插槽</a></p></td>
+<td><p>Wi-Fi機種：（<a href="../Page/IEEE_802.11.md" title="wikilink">802.11</a> <a href="../Page/IEEE_802.11a-1999.md" title="wikilink">a</a>/<a href="../Page/IEEE_802.11b-1999.md" title="wikilink">b</a>/<a href="../Page/IEEE_802.11g-2003.md" title="wikilink">g</a>/<a href="https://zh.wikipedia.org/wiki/IEEE_802.11n-2009" title="wikilink">n</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/Bluetooth#Bluetooth_v2.1_+_EDR" title="wikilink">Bluetooth 2.1 + EDR</a><br />
+Wi-Fi+3G機種追加：<a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(Tri band–850, 1900, 2100 MHz)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/四頻.md" title="wikilink">四頻</a><a href="../Page/GSM.md" title="wikilink">GSM</a><br />
-850 900 1800 1900 <a href="../Page/MHz.md" title="wikilink">MHz</a><br />
-<a href="../Page/通用分組無線服務.md" title="wikilink">GPRS</a>/<a href="../Page/EDGE.md" title="wikilink">EDGE</a><br />
-<a href="../Page/Tri_band.md" title="wikilink">Tri band</a> <a href="../Page/UMTS.md" title="wikilink">UMTS</a><br />
-850 1900 2100 MHz <a href="../Page/HSDPA.md" title="wikilink">HSDPA</a></p></td>
-<td><p><a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}<a href="../Page/HSDPA.md" title="wikilink">HSDPA</a>{{\w}}<a href="../Page/HSPA.md" title="wikilink">HSPA</a>{{\w}}<a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/四頻" title="wikilink">四頻</a><a href="../Page/GSM.md" title="wikilink">GSM</a><br />
+850 900 1800 1900 <a href="https://zh.wikipedia.org/wiki/MHz" title="wikilink">MHz</a><br />
+<a href="https://zh.wikipedia.org/wiki/通用分組無線服務" title="wikilink">GPRS</a>/<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><br />
+<a href="https://zh.wikipedia.org/wiki/Tri_band" title="wikilink">Tri band</a> <a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a><br />
+850 1900 2100 MHz <a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UMTS" title="wikilink">UMTS</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSDPA" title="wikilink">HSDPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA" title="wikilink">HSPA</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/HSPA+.md" title="wikilink">HSPA+</a><a href="../Page/UMTS_frequency_bands.md" title="wikilink">(850, 1900, 2100 MHz)</a><br />
-<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="../Page/EDGE.md" title="wikilink">EDGE</a><a href="../Page/GSM_frequency_bands.md" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
-<a href="../Page/3GPP長期演進技術.md" title="wikilink">LTE</a> (700, 2100 MHz)<br />
-<a href="../Page/EV-DO.md" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/HSPA+" title="wikilink">HSPA+</a><a href="https://zh.wikipedia.org/wiki/UMTS_frequency_bands" title="wikilink">(850, 1900, 2100 MHz)</a><br />
+<a href="../Page/GSM.md" title="wikilink">GSM</a>{{\w}}<a href="https://zh.wikipedia.org/wiki/EDGE" title="wikilink">EDGE</a><a href="https://zh.wikipedia.org/wiki/GSM_frequency_bands" title="wikilink">(850, 900, 1800, 1900 MHz)</a><br />
+<a href="https://zh.wikipedia.org/wiki/3GPP長期演進技術" title="wikilink">LTE</a> (700, 2100 MHz)<br />
+<a href="https://zh.wikipedia.org/wiki/EV-DO" title="wikilink">EvDO Rev. A</a> (800, 1900 MHz)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2078,7 +2079,7 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 </tr>
 <tr class="odd">
 <td><p>|前置</p></td>
-<td><p><a href="../Page/Video_Graphics_Array.md" title="wikilink">VGA</a> (1.2 <a href="../Page/pixel#Megapixel.md" title="wikilink">MP</a>) photos and video at up to 30 <a href="../Page/frame_rate.md" title="wikilink">fps</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Video_Graphics_Array" title="wikilink">VGA</a> (1.2 <a href="https://zh.wikipedia.org/wiki/pixel#Megapixel" title="wikilink">MP</a>) photos and video at up to 30 <a href="https://zh.wikipedia.org/wiki/frame_rate" title="wikilink">fps</a></p></td>
 <td><p>7 MP ƒ/2.2, 1080p HD</p></td>
 <td></td>
 <td></td>
@@ -2117,8 +2118,8 @@ Wi-Fi+3G機種追加：<a href="../Page/UMTS.md" title="wikilink">UMTS</a>{{\w}}
 <td></td>
 </tr>
 <tr class="even">
-<td><p>3.75 <a href="../Page/Volts.md" title="wikilink">V</a> 24.8 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (6613 <a href="../Page/Ampere-hour.md" title="wikilink">mA·h</a>)[58]</p></td>
-<td><p>3.8 <a href="../Page/Volts.md" title="wikilink">V</a> 25 <a href="../Page/Kilowatt-hour.md" title="wikilink">W·h</a> (6579 mA·h)[59]</p></td>
+<td><p>3.75 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 24.8 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6613 <a href="https://zh.wikipedia.org/wiki/Ampere-hour" title="wikilink">mA·h</a>)[58]</p></td>
+<td><p>3.8 <a href="https://zh.wikipedia.org/wiki/Volts" title="wikilink">V</a> 25 <a href="https://zh.wikipedia.org/wiki/Kilowatt-hour" title="wikilink">W·h</a> (6579 mA·h)[59]</p></td>
 <td></td>
 <td></td>
 <td></td>

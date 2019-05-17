@@ -1,11 +1,12 @@
 [Nero8.jpg](https://zh.wikipedia.org/wiki/File:Nero8.jpg "fig:Nero8.jpg")\]\]
 [Nero_7.10.png](https://zh.wikipedia.org/wiki/File:Nero_7.10.png "fig:Nero_7.10.png")\]\]
 [Nero6.PNG](https://zh.wikipedia.org/wiki/File:Nero6.PNG "fig:Nero6.PNG")
-**Nero**是由[Nero AG](../Page/Nero_AG.md "wikilink")（前身是Ahead
-Software）开发的一套[软件套件](../Page/软件套件.md "wikilink")，可以运行于[Microsoft
-Windows平台](../Page/Microsoft_Windows.md "wikilink")\[1\]。其最主要的组件是[Nero
+**Nero**是由[Nero
+AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（前身是Ahead
+Software）开发的一套[软件套件](https://zh.wikipedia.org/wiki/软件套件 "wikilink")，可以运行于[Microsoft
+Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。其最主要的组件是[Nero
 Burning
-ROM](../Page/Nero_Burning_ROM.md "wikilink")，功能大多和多媒體的編輯、檢視或複製有關，尤其是[燒錄及碟片複製的部分](../Page/燒錄.md "wikilink")。
+ROM](../Page/Nero_Burning_ROM.md "wikilink")，功能大多和多媒體的編輯、檢視或複製有關，尤其是[燒錄及碟片複製的部分](https://zh.wikipedia.org/wiki/燒錄 "wikilink")。
 
 ## 套件中包含的产品
 
@@ -24,17 +25,17 @@ ROM](../Page/Nero_Burning_ROM.md "wikilink")，功能大多和多媒體的編輯
 #### [Nero Burning ROM](../Page/Nero_Burning_ROM.md "wikilink")
 
 [Nero
-AG著名的](../Page/Nero_AG.md "wikilink")[光盘制作软件](../Page/光盘制作软件.md "wikilink")，也是其第一款产品。主要以文字操作讓使用者執行各式各樣的燒錄工作，如製作一般資料光碟等。在Nero的套裝軟件發行之前，Nero的產品就只有這一項而已（Nero
+AG著名的](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")[光盘制作软件](https://zh.wikipedia.org/wiki/光盘制作软件 "wikilink")，也是其第一款产品。主要以文字操作讓使用者執行各式各樣的燒錄工作，如製作一般資料光碟等。在Nero的套裝軟件發行之前，Nero的產品就只有這一項而已（Nero
 5及以前）。
 
 #### Nero Express
 
 功能和Nero Burning
-ROM相似，但是由於前者的操作介面比較不適合對燒錄不太熟悉的使用者，所以這個軟體簡化了其功能，並主要以圖像介面引導初學的使用者來進行普通的燒錄工作，如製作音樂[CD](../Page/CD.md "wikilink")、複製[DVD等](../Page/DVD.md "wikilink")。
+ROM相似，但是由於前者的操作介面比較不適合對燒錄不太熟悉的使用者，所以這個軟體簡化了其功能，並主要以圖像介面引導初學的使用者來進行普通的燒錄工作，如製作音樂[CD](../Page/CD.md "wikilink")、複製[DVD等](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 #### Nero CoverDesigner(需自行下載)
 
-使用者可以使用它來設計碟片上想要列印的圖案（前提是需要擁有適用的[印表機或碟片貼紙](../Page/印表機.md "wikilink")），並將它列印出來。同時，假如使用者需要將其至於一個普通的CD盒中，也可以設計CD盒的封面圖案。
+使用者可以使用它來設計碟片上想要列印的圖案（前提是需要擁有適用的[印表機或碟片貼紙](https://zh.wikipedia.org/wiki/印表機 "wikilink")），並將它列印出來。同時，假如使用者需要將其至於一個普通的CD盒中，也可以設計CD盒的封面圖案。
 
 #### Nero RescueAgent
 
@@ -42,13 +43,14 @@ ROM相似，但是由於前者的操作介面比較不適合對燒錄不太熟�
 
 #### Nero Disc To Device
 
-[Nero Recode的啟動器](../Page/Nero_Recode.md "wikilink"),有簡單的介面,提供初學者使用。
+[Nero
+Recode的啟動器](https://zh.wikipedia.org/wiki/Nero_Recode "wikilink"),有簡單的介面,提供初學者使用。
 
 ### 娱乐应用程序
 
 #### Nero MediaHome
 
-Nero的[媒体播放器软件](../Page/媒体播放器.md "wikilink")，可以播放多种音频视频文件和媒介，包括音频CD，视频DVD光盘，Nero
+Nero的[媒体播放器软件](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")，可以播放多种音频视频文件和媒介，包括音频CD，视频DVD光盘，Nero
 Digital影片以及多种音频和视频檔案。
 
 #### Nero Nero Blu-ray Player
@@ -59,7 +61,7 @@ Nero的[藍光光碟播放軟體](../Page/藍光光碟.md "wikilink"),無法播�
 
 #### Nero Video
 
-Nero的影片創作工具，功能類似[Microsoft發行的](../Page/Microsoft.md "wikilink")[Windows
+Nero的影片創作工具，功能類似[Microsoft發行的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows
 Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")。
 
 #### Nero Recode
@@ -75,7 +77,7 @@ Digital格式](../Page/Nero_Digital.md "wikilink")，可以在保持质量的条
 
 #### Nero SoundTrax
 
-[多轨](../Page/多轨.md "wikilink")[混音工具](../Page/混音.md "wikilink")，可以创建和输出音频混音。
+[多轨](https://zh.wikipedia.org/wiki/多轨 "wikilink")[混音工具](../Page/混音.md "wikilink")，可以创建和输出音频混音。
 
 ### 已被移除的工具
 
@@ -88,7 +90,7 @@ Digital格式](../Page/Nero_Digital.md "wikilink")，可以在保持质量的条
 
 #### Nero ImageDrive
 
-Nero的[虚拟驱动器工具](../Page/虚拟驱动器.md "wikilink")，用户可以挂载CD或DVD[磁盘映像到一个虚拟的DVD驱动器](../Page/磁盘映像.md "wikilink")，在其他的Windows应用程序看来就是一个实际的设备。这个工具不再被包含于Nero
+Nero的[虚拟驱动器工具](https://zh.wikipedia.org/wiki/虚拟驱动器 "wikilink")，用户可以挂载CD或DVD[磁盘映像到一个虚拟的DVD驱动器](../Page/磁盘映像.md "wikilink")，在其他的Windows应用程序看来就是一个实际的设备。这个工具不再被包含于Nero
 9\[9\]。
 
 #### Nero DiscSpeed
@@ -106,11 +108,11 @@ Nero的[虚拟驱动器工具](../Page/虚拟驱动器.md "wikilink")，用户�
 #### Nero DiscCopy Gadget
 
 一個適用於[Windows
-Vista或以上支援](../Page/Windows_Vista.md "wikilink")[桌面小工具的作業系統的元件](../Page/桌面小工具.md "wikilink")，使用者可以透過它利用[Windows小工具來執行簡單的碟片工作](../Page/Windows小工具.md "wikilink")。
+Vista或以上支援](../Page/Windows_Vista.md "wikilink")[桌面小工具的作業系統的元件](https://zh.wikipedia.org/wiki/桌面小工具 "wikilink")，使用者可以透過它利用[Windows小工具來執行簡單的碟片工作](https://zh.wikipedia.org/wiki/Windows小工具 "wikilink")。
 
 #### InCD
 
-使用者能夠使用它來將一般光碟做為類似[隨身碟的儲存媒體來使用](../Page/隨身碟.md "wikilink")。只要使用規定格式的光碟，使用者就能透過它多次刪除或新增光碟中的資料。
+使用者能夠使用它來將一般光碟做為類似[隨身碟的儲存媒體來使用](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")。只要使用規定格式的光碟，使用者就能透過它多次刪除或新增光碟中的資料。
 
 #### Nero BurnRights
 
@@ -120,16 +122,16 @@ Vista或以上支援](../Page/Windows_Vista.md "wikilink")[桌面小工具的作
 
 整个套件被叫做**Nero**，后面跟着主版本号和一个标语，标语因国家而异（如，[美国使用](../Page/美国.md "wikilink")**Nero
 7 Ultra Edition
-Enhanced**，[英国和](../Page/英国.md "wikilink")[澳大利亚使用](../Page/澳大利亚.md "wikilink")**Nero
+Enhanced**，[英国和](https://zh.wikipedia.org/wiki/英国 "wikilink")[澳大利亚使用](../Page/澳大利亚.md "wikilink")**Nero
 7 Premium Reloaded**）。但是核心程序仍称作[Nero Burning
 ROM](../Page/Nero_Burning_ROM.md "wikilink")。\[10\]
 
-使用最广的Nero版本是[OEM套件](../Page/OEM.md "wikilink")，主要是随[光盘刻录机捆绑](../Page/光盘驱动器.md "wikilink")。其中有一些*不*包括Nero
+使用最广的Nero版本是[OEM套件](https://zh.wikipedia.org/wiki/OEM "wikilink")，主要是随[光盘刻录机捆绑](../Page/光盘驱动器.md "wikilink")。其中有一些*不*包括Nero
 Burning ROM程序本身\[11\]，而是使用更加简化的Nero Express作为主要的光盘创作程序。
 
 ## 参见
 
-  - [Nero AG](../Page/Nero_AG.md "wikilink")
+  - [Nero AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")
   - [Nero Burning ROM](../Page/Nero_Burning_ROM.md "wikilink")
   - [Nero Digital](../Page/Nero_Digital.md "wikilink")
   - [光盘制作软件列表](../Page/光盘制作软件列表.md "wikilink")

@@ -1,11 +1,11 @@
 [Websphere_logo.png](https://zh.wikipedia.org/wiki/File:Websphere_logo.png "fig:Websphere_logo.png")
 **IBM WebSphere Application
 Server**（**WAS**）是由[IBM遵照开放标准](../Page/IBM.md "wikilink")，例如[Java
-EE](../Page/Java_EE.md "wikilink")、[XML及](../Page/XML.md "wikilink")[Web
-Services](../Page/Web_Services.md "wikilink")，开发并发行的一种[应用服务器](../Page/应用服务器.md "wikilink")。与其兼容的[Web服务器包括](../Page/Web服务器.md "wikilink")[Apache
+EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")、[XML及](../Page/XML.md "wikilink")[Web
+Services](https://zh.wikipedia.org/wiki/Web_Services "wikilink")，开发并发行的一种[应用服务器](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")。与其兼容的[Web服务器包括](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")[Apache
 HTTP Server](../Page/Apache_HTTP_Server.md "wikilink")、Netscape
 Enterprise Server、[微软](../Page/微软.md "wikilink")[Internet Information
-Services](../Page/Internet_Information_Services.md "wikilink")（IIS）以及IBM
+Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")（IIS）以及IBM
 HTTP Server。
 
 ## WAS版本

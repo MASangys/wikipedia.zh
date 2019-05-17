@@ -16,7 +16,7 @@ Objectives of the organization:
 
 ## 讀者
 
-大部分的讀者來自於[亞美尼亞](../Page/亞美尼亞.md "wikilink")、[亞塞拜然](../Page/亞塞拜然.md "wikilink")、[俄羅斯](../Page/俄羅斯.md "wikilink")、[德國及](../Page/德國.md "wikilink")[美國](../Page/美國.md "wikilink")\[3\]
+大部分的讀者來自於[亞美尼亞](https://zh.wikipedia.org/wiki/亞美尼亞 "wikilink")、[亞塞拜然](https://zh.wikipedia.org/wiki/亞塞拜然 "wikilink")、[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")、[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")\[3\]
 
 ## 參考資料
 

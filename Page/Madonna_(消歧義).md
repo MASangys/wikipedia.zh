@@ -1,6 +1,6 @@
 ****（源自——“我們的貴夫人（）”）在世界上廣泛用於：
 
-  - ，[聖母瑪利亞](../Page/聖母瑪利亞.md "wikilink")——耶穌基督的母親，伊斯蘭教與基督教的宗教人物——的指定稱謂之一。
+  - ，[聖母瑪利亞](https://zh.wikipedia.org/wiki/聖母瑪利亞 "wikilink")——耶穌基督的母親，伊斯蘭教與基督教的宗教人物——的指定稱謂之一。
 
   - ，[聖母瑪利亞 (繪畫)](../Page/聖母瑪利亞_\(繪畫\).md "wikilink")，描繪耶穌基督母親的繪畫作品。
 
@@ -17,11 +17,13 @@
 ## 歐美地理
 
   - [馬東納
-    (馬里蘭州)](../Page/馬東納_\(馬里蘭州\).md "wikilink")（Madonna），美國[马里兰州](../Page/马里兰州.md "wikilink")[哈福德縣的一個非建制地區](../Page/哈福德縣_\(馬里蘭州\).md "wikilink")。
-  - [馬東納-迪坎帕尼亞](../Page/馬東納-迪坎帕尼亞.md "wikilink")（Madonna di
+    (馬里蘭州)](../Page/馬東納_\(馬里蘭州\).md "wikilink")（Madonna），美國[马里兰州](../Page/马里兰州.md "wikilink")[哈福德縣的一個非建制地區](https://zh.wikipedia.org/wiki/哈福德縣_\(馬里蘭州\) "wikilink")。
+  - [馬東納-迪坎帕尼亞](https://zh.wikipedia.org/wiki/馬東納-迪坎帕尼亞 "wikilink")（Madonna
+    di
     Campagna），義大利[-{zh-cn:都灵;zh-hk:都靈;zh-tw:杜林}-的一個地名](../Page/都灵.md "wikilink")。
-  - [馬東納-迪坎皮利奧](../Page/馬東納-迪坎皮利奧.md "wikilink")（Madonna di
-    Campiglio），義大利[特伦托的一個](../Page/特伦托.md "wikilink")[市鎮](../Page/市镇_\(意大利\).md "wikilink")。
+  - [馬東納-迪坎皮利奧](https://zh.wikipedia.org/wiki/馬東納-迪坎皮利奧 "wikilink")（Madonna
+    di
+    Campiglio），義大利[特伦托的一個](../Page/特伦托.md "wikilink")[市鎮](https://zh.wikipedia.org/wiki/市镇_\(意大利\) "wikilink")。
 
 ## 視覺藝術
 
@@ -31,7 +33,7 @@
 ## 音樂
 
   - [*Madonna*
-    (專輯)](../Page/Madonna_\(專輯\).md "wikilink")，麥當娜的同名專輯以及其相關的音樂錄影帶精選專輯。
+    (專輯)](https://zh.wikipedia.org/wiki/Madonna_\(專輯\) "wikilink")，麥當娜的同名專輯以及其相關的音樂錄影帶精選專輯。
 
   - ，南韓組合[Secret於](../Page/Secret_\(組合\).md "wikilink")2010年推出的EP。
 
@@ -51,6 +53,7 @@
 
 ## 參見
 
-  - [麥當娜 (消歧義)](../Page/麥當娜_\(消歧義\).md "wikilink")
-  - [聖母瑪利亞 (消歧義)](../Page/聖母瑪利亞_\(消歧義\).md "wikilink")
-  - [馬多納](../Page/馬多納.md "wikilink")（Madona）
+  - [麥當娜 (消歧義)](https://zh.wikipedia.org/wiki/麥當娜_\(消歧義\) "wikilink")
+  - [聖母瑪利亞
+    (消歧義)](https://zh.wikipedia.org/wiki/聖母瑪利亞_\(消歧義\) "wikilink")
+  - [馬多納](https://zh.wikipedia.org/wiki/馬多納 "wikilink")（Madona）

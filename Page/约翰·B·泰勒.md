@@ -1,9 +1,9 @@
 **约翰·布赖恩·泰勒**（John Brian Taylor
-，），[美国](../Page/美国.md "wikilink")[货币政策方面的专家](../Page/货币.md "wikilink")。
+，），[美国](../Page/美国.md "wikilink")[货币政策方面的专家](https://zh.wikipedia.org/wiki/货币 "wikilink")。
 
 ## 生平
 
-出生于[纽约州](../Page/纽约州.md "wikilink")[揚克斯](../Page/揚克斯_\(紐約州\).md "wikilink")，目前任[斯坦福大学](../Page/斯坦福大学.md "wikilink")[经济学教授](../Page/经济学.md "wikilink")\[1\]。泰勒曾被视为2009年[诺贝尔经济学奖潜在得主](../Page/诺贝尔经济学奖.md "wikilink")。
+出生于[纽约州](../Page/纽约州.md "wikilink")[揚克斯](../Page/揚克斯_\(紐約州\).md "wikilink")，目前任[斯坦福大学](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")[经济学教授](../Page/经济学.md "wikilink")\[1\]。泰勒曾被视为2009年[诺贝尔经济学奖潜在得主](../Page/诺贝尔经济学奖.md "wikilink")。
 
 ## 注释
 

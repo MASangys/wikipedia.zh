@@ -1,5 +1,5 @@
 《**Flyable
-Heart**》（）是UNiSONSHIFT：Blossom於2009年3月19日發售的[戀愛冒險類型](../Page/戀愛冒險.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2010年5月28日發售以本作女主角白鹭茉百合为主角的[衍生作品](../Page/衍生作品.md "wikilink")《[君之余影静静摇曳](../Page/君之余影静静摇曳.md "wikilink")》，2011年2月25日發售[Fandisc](../Page/Fandisc.md "wikilink")《Flyable
+Heart**》（）是UNiSONSHIFT：Blossom於2009年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2010年5月28日發售以本作女主角白鹭茉百合为主角的[衍生作品](../Page/衍生作品.md "wikilink")《[君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")》，2011年2月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Flyable
 CandyHeart》。後來也陸續改編成漫畫和小說。
 
 故事中的背景舞台鳳繚蘭學園的是以《》的遊華總合学園的姐妹校為範本，而本作的有些角色設定類似於《Peace@Pieces》、《[七色★星露](../Page/七色★星露.md "wikilink")》的人物設定。
@@ -142,21 +142,22 @@ CandyHeart》。後來也陸續改編成漫畫和小說。
   - 《Flyable Heart》
 
 [石見翔子作畫](../Page/石見翔子.md "wikilink")，於2009年1月26日至2013年10月26日期間在[ASCII
-MEDIA WORKS的漫畫雜誌](../Page/ASCII_MEDIA_WORKS.md "wikilink")《電撃G's
+MEDIA
+WORKS的漫畫雜誌](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")《電撃G's
 Festival\!
-COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](../Page/單行本.md "wikilink")2010年7月27日至2013年12月21日發售。\[3\]\[4\]
+COMIC》Vol.5\[2\]～Vol.32連載，[單行本共三集於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2010年7月27日至2013年12月21日發售。\[3\]\[4\]
 
   - 《超萌 我們的Flyable Heart》（いけ\!いけ\!僕らの Flyable Heart）
 
 由[HARVEST出版於](../Page/HARVEST出版.md "wikilink")2009年7月15日發售（ISBN
-978-4434133053），中文版由[銘顯文化代理於](../Page/銘顯文化.md "wikilink")2010年2月5日發售（ISBN
+978-4434133053），中文版由[銘顯文化代理於](https://zh.wikipedia.org/wiki/銘顯文化 "wikilink")2010年2月5日發售（ISBN
 9789862601396）\[5\]。
 
 ## 小說
 
   - 《Flyable Heart》
 
-岡崎いずみ寫作，[伊東雜音插畫](../Page/伊東雜音_\(1999年出道\).md "wikilink")。由[ENTERBRAIN於](../Page/ENTERBRAIN.md "wikilink")2009年6月29日發售（ISBN
+岡崎いずみ寫作，[伊東雜音插畫](../Page/伊東雜音_\(1999年出道\).md "wikilink")。由[ENTERBRAIN於](https://zh.wikipedia.org/wiki/ENTERBRAIN "wikilink")2009年6月29日發售（ISBN
 978-4757749337），中文版由[青文出版社代理於](../Page/青文出版社.md "wikilink")2011年2月18日發售（ISBN
 9789862566596）。
 

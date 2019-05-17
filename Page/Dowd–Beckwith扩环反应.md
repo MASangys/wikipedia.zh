@@ -1,23 +1,23 @@
 **Dowd–Beckwith扩环反应**（Dowd–Beckwith ring expansion reaction）
 
-环状β-[酮酯经过α](../Page/酮酯.md "wikilink")-[卤烷基取代中间体](../Page/卤烷基.md "wikilink")，得到[环扩大产物](../Page/环扩大.md "wikilink")。\[1\]
+环状β-[酮酯经过α](https://zh.wikipedia.org/wiki/酮酯 "wikilink")-[卤烷基取代中间体](https://zh.wikipedia.org/wiki/卤烷基 "wikilink")，得到[环扩大产物](https://zh.wikipedia.org/wiki/环扩大 "wikilink")。\[1\]
 \[2\]\[3\]
 
-反应为[自由基机理](../Page/自由基机理.md "wikilink")，自由基引发剂体系为[AIBN和](../Page/AIBN.md "wikilink")[三丁基锡烷](../Page/三丁基锡烷.md "wikilink")。原料环状β-酮酯可通过[Dieckmann缩合合成](../Page/Dieckmann缩合.md "wikilink")。底物通过此反应可在环中增加
+反应为[自由基机理](https://zh.wikipedia.org/wiki/自由基机理 "wikilink")，自由基引发剂体系为[AIBN和](https://zh.wikipedia.org/wiki/AIBN "wikilink")[三丁基锡烷](https://zh.wikipedia.org/wiki/三丁基锡烷 "wikilink")。原料环状β-酮酯可通过[Dieckmann缩合合成](https://zh.wikipedia.org/wiki/Dieckmann缩合 "wikilink")。底物通过此反应可在环中增加
 1～4 个碳原子。
 
-反应的最初版本是环己酮-2-羧酸乙酯用[氢化钠处理产生的烯醇负离子](../Page/氢化钠.md "wikilink")，对1,4-二碘丁烷行[亲核脂肪取代](../Page/亲核脂肪取代.md "wikilink")，生成α-碘丁基取代物，然后再用
+反应的最初版本是环己酮-2-羧酸乙酯用[氢化钠处理产生的烯醇负离子](../Page/氢化钠.md "wikilink")，对1,4-二碘丁烷行[亲核脂肪取代](https://zh.wikipedia.org/wiki/亲核脂肪取代 "wikilink")，生成α-碘丁基取代物，然后再用
 AIBN/Bu<sub>3</sub>SnH 处理，得环癸酮-6-羧酸乙酯及碘丁基取代物被还原得到的副产物。
 
 
-[center](../Page/image:DowdBeckwithRingExpansion.png.md "wikilink")
+[center](https://zh.wikipedia.org/wiki/image:DowdBeckwithRingExpansion.png "wikilink")
 __NOTOC__
 
 ## 反应机理
 
 [DowdBeckwithRingExpansionMechanism.png](https://zh.wikipedia.org/wiki/File:DowdBeckwithRingExpansionMechanism.png "fig:DowdBeckwithRingExpansionMechanism.png")
 反应中扩环一步的机理见图。首先引发剂 AIBN
-热分解产生自由基，该自由基从三丁基氢化锡夺氢，产生三丁基锡自由基。三丁基锡自由基接下来再夺取卤代物的卤原子，生成烷基自由基。烷基自由基对羰基进行进攻，生成双环的[羰自由基中间体](../Page/羰自由基.md "wikilink")。该中间体然后发生重排，同时扩环，得到一个酯基α-位的自由基。它最后从三丁基锡烷夺取质子，生成产物，并再生三丁基锡自由基。
+热分解产生自由基，该自由基从三丁基氢化锡夺氢，产生三丁基锡自由基。三丁基锡自由基接下来再夺取卤代物的卤原子，生成烷基自由基。烷基自由基对羰基进行进攻，生成双环的[羰自由基中间体](https://zh.wikipedia.org/wiki/羰自由基 "wikilink")。该中间体然后发生重排，同时扩环，得到一个酯基α-位的自由基。它最后从三丁基锡烷夺取质子，生成产物，并再生三丁基锡自由基。
 
 ## 副反应
 

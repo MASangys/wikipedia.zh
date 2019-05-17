@@ -1,7 +1,7 @@
 [CtrlWindowsAlt.jpg](https://zh.wikipedia.org/wiki/File:CtrlWindowsAlt.jpg "fig:CtrlWindowsAlt.jpg")样式的Windows按键。\]\]
-**Windows键**（），簡稱**Win键**（），是在[计算机键盘左下角](../Page/计算机键盘.md "wikilink")[Ctrl和](../Page/Control键.md "wikilink")[Alt键之间的按键](../Page/Alt键.md "wikilink")，图案是[Microsoft
-Windows的视窗徽标](../Page/Microsoft_Windows.md "wikilink")。现在大多数运行Windows的[PC键盘上都有这个按键](../Page/PC.md "wikilink")。在[Linux下称为](../Page/Linux.md "wikilink")[Super键](../Page/Super.md "wikilink")，功能与Windows不一样。在Mac中，该位置有三个键，分别为Control，Option（Alt），[Command键](../Page/Command键.md "wikilink")。其中[Command键代替了Windows键](../Page/Command键.md "wikilink")，但在[OS
-X中](../Page/OS_X.md "wikilink")，此键功能类似于Windows中的Ctrl，而在运行Windows的Mac中，此键功能与Windows键完全相同。
+**Windows键**（），簡稱**Win键**（），是在[计算机键盘左下角](https://zh.wikipedia.org/wiki/计算机键盘 "wikilink")[Ctrl和](https://zh.wikipedia.org/wiki/Control键 "wikilink")[Alt键之间的按键](https://zh.wikipedia.org/wiki/Alt键 "wikilink")，图案是[Microsoft
+Windows的视窗徽标](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。现在大多数运行Windows的[PC键盘上都有这个按键](../Page/PC.md "wikilink")。在[Linux下称为](../Page/Linux.md "wikilink")[Super键](https://zh.wikipedia.org/wiki/Super "wikilink")，功能与Windows不一样。在Mac中，该位置有三个键，分别为Control，Option（Alt），[Command键](https://zh.wikipedia.org/wiki/Command键 "wikilink")。其中[Command键代替了Windows键](https://zh.wikipedia.org/wiki/Command键 "wikilink")，但在[OS
+X中](https://zh.wikipedia.org/wiki/OS_X "wikilink")，此键功能类似于Windows中的Ctrl，而在运行Windows的Mac中，此键功能与Windows键完全相同。
 
 ## 功能
 
@@ -13,8 +13,8 @@ X中](../Page/OS_X.md "wikilink")，此键功能类似于Windows中的Ctrl，而
 最早的Windows键上的符号是[Windows 95和](../Page/Windows_95.md "wikilink")[Windows
 98的视窗图形](../Page/Windows_98.md "wikilink")，老式键盘（从[Windows
 XP到](../Page/Windows_XP.md "wikilink")[Windows
-7](../Page/Windows_7.md "wikilink")）用Windows旗帜徽标作为键盘Windows键的标志，新式键盘的Windows键符号为微软从[Windows
-8开始使用的新Windows徽标](../Page/Windows_8.md "wikilink")。
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")）用Windows旗帜徽标作为键盘Windows键的标志，新式键盘的Windows键符号为微软从[Windows
+8开始使用的新Windows徽标](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
 
 ## 相容性
 
@@ -22,7 +22,7 @@ XP到](../Page/Windows_XP.md "wikilink")[Windows
 Vista以上的系統](../Page/Windows_Vista.md "wikilink")，按Windows鍵時可能會有無反應的情形發生。
 
 於[Magic
-Keyboard則由](../Page/Magic_Keyboard.md "wikilink")[{{keypress代替](../Page/Command鍵.md "wikilink")。
+Keyboard則由](https://zh.wikipedia.org/wiki/Magic_Keyboard "wikilink")[{{keypress代替](https://zh.wikipedia.org/wiki/Command鍵 "wikilink")。
 
 ## 快捷键例子
 

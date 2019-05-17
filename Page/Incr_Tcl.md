@@ -1,6 +1,6 @@
 **incr Tcl** (incr，即increase，在英文中表示"+", 這個名字是由
 "[C++](../Page/C++.md "wikilink")"而來, 簡寫作
-"itcl")，是[Tcl編程語言的](../Page/Tcl.md "wikilink")[面向對象編程的擴展包](../Page/面向對象_\(編程\).md "wikilink")。它被廣泛使用Tcl編程人員廣泛使用。Itcl有兩種使用方式，一是[軟體包（package）](../Page/軟體包_\(編程\).md "wikilink")，可被[Tcl程序動態載入](../Page/Tcl.md "wikilink")；一是作為單獨的語言，有自己的解譯器（standalone
+"itcl")，是[Tcl編程語言的](../Page/Tcl.md "wikilink")[面向對象編程的擴展包](https://zh.wikipedia.org/wiki/面向對象_\(編程\) "wikilink")。它被廣泛使用Tcl編程人員廣泛使用。Itcl有兩種使用方式，一是[軟體包（package）](https://zh.wikipedia.org/wiki/軟體包_\(編程\) "wikilink")，可被[Tcl程序動態載入](../Page/Tcl.md "wikilink")；一是作為單獨的語言，有自己的解譯器（standalone
 interpreter）。
 
 ## 概述
@@ -49,13 +49,13 @@ Itcl (跟Tcl一樣) 內置有C代碼整合支持，讓C代碼整合為Itcl類。
 
 ## 相關參考
 
-  - [XOTcl](../Page/XOTcl.md "wikilink")
-  - [Snit](../Page/Snit.md "wikilink")
+  - [XOTcl](https://zh.wikipedia.org/wiki/XOTcl "wikilink")
+  - [Snit](https://zh.wikipedia.org/wiki/Snit "wikilink")
   - [Tcl](../Page/Tcl.md "wikilink")
-  - [Tcllib](../Page/Tcllib.md "wikilink")
-  - [C++/Tcl](../Page/C++/Tcl.md "wikilink")
-  - [Itk](../Page/Itk.md "wikilink")
-  - [Tk](../Page/Tk_\(編程語言\).md "wikilink")
+  - [Tcllib](https://zh.wikipedia.org/wiki/Tcllib "wikilink")
+  - [C++/Tcl](https://zh.wikipedia.org/wiki/C++/Tcl "wikilink")
+  - [Itk](https://zh.wikipedia.org/wiki/Itk "wikilink")
+  - [Tk](https://zh.wikipedia.org/wiki/Tk_\(編程語言\) "wikilink")
 
 ## 外部連結
 

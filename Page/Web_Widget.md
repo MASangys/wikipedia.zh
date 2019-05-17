@@ -1,6 +1,6 @@
 **Web
-Widget**，中文可译作：**小部件**、**小工具**、**微件**、**挂件**等，是一小块可以在任意一个基于[HTML的](../Page/HTML.md "wikilink")[網頁上执行代码构成的小部件](../Page/網頁.md "wikilink")，它的表现形式可能是[视频](../Page/视频.md "wikilink")、[地图](../Page/地图.md "wikilink")、[新闻或](../Page/新闻.md "wikilink")[小游戏等等](../Page/小游戏.md "wikilink")。它的根本思想来源于[代码复用](../Page/代码复用.md "wikilink")，在一般的情况下，Widget的代码形式包含了[DHTML](../Page/DHTML.md "wikilink")、[JavaScript及](../Page/JavaScript.md "wikilink")[Adobe
-Flash](../Page/Flash.md "wikilink")。
+Widget**，中文可译作：**小部件**、**小工具**、**微件**、**挂件**等，是一小块可以在任意一个基于[HTML的](../Page/HTML.md "wikilink")[網頁上执行代码构成的小部件](../Page/網頁.md "wikilink")，它的表现形式可能是[视频](../Page/视频.md "wikilink")、[地图](../Page/地图.md "wikilink")、[新闻或](../Page/新闻.md "wikilink")[小游戏等等](https://zh.wikipedia.org/wiki/小游戏 "wikilink")。它的根本思想来源于[代码复用](../Page/代码复用.md "wikilink")，在一般的情况下，Widget的代码形式包含了[DHTML](https://zh.wikipedia.org/wiki/DHTML "wikilink")、[JavaScript及](../Page/JavaScript.md "wikilink")[Adobe
+Flash](https://zh.wikipedia.org/wiki/Flash "wikilink")。
 
 ## 概要
 
@@ -8,9 +8,9 @@ Web
 Widget可以向一个基于HTML的Web页面上添加一些动态内容。它可能是访问量计数器，实时股票信息以及航班信息等等。通常情况下，一个Widget的功能都是由第三方提供的代码实现的，而Web开发者，只需要将这些代码块嵌入自己的页面即可。其实，在[万维网发展的早期](../Page/万维网.md "wikilink")，Web开发者就已经尝试在他们的页面中嵌入一些第三方开发的代码块，不过这些代码块早期的功能通常都是一些诸如链接计数，或者等。
 
 Web
-Widget可以被视作是小型的可下载应用程序，不过这些应用程序都是运用一些Web技术来得以实现的，可能包括[JavaScript](../Page/JavaScript.md "wikilink")、[HTML及](../Page/HTML.md "wikilink")[CSS等](../Page/CSS.md "wikilink")。Web
+Widget可以被视作是小型的可下载应用程序，不过这些应用程序都是运用一些Web技术来得以实现的，可能包括[JavaScript](../Page/JavaScript.md "wikilink")、[HTML及](../Page/HTML.md "wikilink")[CSS等](https://zh.wikipedia.org/wiki/CSS "wikilink")。Web
 Widget通常都需要依赖一些公开的Web
-[API](../Page/API.md "wikilink")。这些API可能是由[浏览器公布](../Page/浏览器.md "wikilink")，或者是由一些[Widget引擎公布](../Page/Widget引擎.md "wikilink")。
+[API](https://zh.wikipedia.org/wiki/API "wikilink")。这些API可能是由[浏览器公布](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，或者是由一些[Widget引擎公布](https://zh.wikipedia.org/wiki/Widget引擎 "wikilink")。
 
 ## 作用以及批评
 
@@ -23,28 +23,30 @@ Widget所带来的只是又一个商业上的泡沫而已，因为当用户在�
 Widget的个性化站点或者社交网站中(如[Facebook](../Page/Facebook.md "wikilink"))寻找乐趣时，他们是不太可能记住Widget中推广的品牌与产品的\[3\]。
 
 另外，由于任何Widget代码都可以被嵌入到Web页面中，因此一些带有恶意代码的Widget将可能给页面浏览者带来麻烦。比如[Facebook上曾经有一个名为](../Page/Facebook.md "wikilink")「Secret
-Crush」的Widget，它会诱导用户去自动下载[广告软件](../Page/广告软件.md "wikilink")\[4\]。
+Crush」的Widget，它会诱导用户去自动下载[广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")\[4\]。
 
 ## Widget引擎
 
-微件管理系统提供了一个基于Web页面的用于对微件进行管理的方法，通常是一个[Blog或者是一个](../Page/Blog.md "wikilink")[社交网站的Home](../Page/社交网站.md "wikilink")
+微件管理系统提供了一个基于Web页面的用于对微件进行管理的方法，通常是一个[Blog或者是一个](https://zh.wikipedia.org/wiki/Blog "wikilink")[社交网站的Home](https://zh.wikipedia.org/wiki/社交网站 "wikilink")
 page。很多Blog系统直接以[插件的形式提供一个内嵌的微件管理工具](../Page/插件.md "wikilink")。用户可以借此从不同的Widget开发商那里获得各种各样的微件，并将它们运用于自己的页面之上。
 
 ## Widget規格
 
-  - [widget封裝與配置](../Page/widget封裝與配置.md "wikilink")
-  - [widget介面](../Page/widget介面.md "wikilink")
-  - [widget訪問請求策略(WARP)](../Page/widget訪問請求策略\(WARP\).md "wikilink")
-  - [widget之數位簽章](../Page/widget之數位簽章.md "wikilink")
-  - [widget的URIs](../Page/widget的URIs.md "wikilink")
-  - [view-mode媒體功能](../Page/view-mode媒體功能.md "wikilink")
-  - [widget更新](../Page/widget更新.md "wikilink")
-  - [widget 1.0 landscape](../Page/widget_1.0_landscape.md "wikilink")
-  - [widget 1.0 需求規格](../Page/widget_1.0_需求規格.md "wikilink")
+  - [widget封裝與配置](https://zh.wikipedia.org/wiki/widget封裝與配置 "wikilink")
+  - [widget介面](https://zh.wikipedia.org/wiki/widget介面 "wikilink")
+  - [widget訪問請求策略(WARP)](https://zh.wikipedia.org/wiki/widget訪問請求策略\(WARP\) "wikilink")
+  - [widget之數位簽章](https://zh.wikipedia.org/wiki/widget之數位簽章 "wikilink")
+  - [widget的URIs](https://zh.wikipedia.org/wiki/widget的URIs "wikilink")
+  - [view-mode媒體功能](https://zh.wikipedia.org/wiki/view-mode媒體功能 "wikilink")
+  - [widget更新](https://zh.wikipedia.org/wiki/widget更新 "wikilink")
+  - [widget 1.0
+    landscape](https://zh.wikipedia.org/wiki/widget_1.0_landscape "wikilink")
+  - [widget 1.0
+    需求規格](https://zh.wikipedia.org/wiki/widget_1.0_需求規格 "wikilink")
 
 <!-- end list -->
 
-  - [widget測試](../Page/widget測試.md "wikilink")
+  - [widget測試](https://zh.wikipedia.org/wiki/widget測試 "wikilink")
 
 ## 注释
 

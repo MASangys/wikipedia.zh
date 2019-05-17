@@ -1,5 +1,5 @@
 **ICD-10
-第二十章：疾病和死亡的外因**，即[国际疾病与相关健康问题统计分类第十版的第二十个编码分系统](../Page/国际疾病与相关健康问题统计分类第十版.md "wikilink")（从V01-Y99），其中包括了各种关于疾病及死亡的外在原因，及其分类详情\[1\]。
+第二十章：疾病和死亡的外因**，即[国际疾病与相关健康问题统计分类第十版的第二十个编码分系统](https://zh.wikipedia.org/wiki/国际疾病与相关健康问题统计分类第十版 "wikilink")（从V01-Y99），其中包括了各种关于疾病及死亡的外在原因，及其分类详情\[1\]。
 
 ## V01-X59 意外事故
 
@@ -7,7 +7,8 @@
 
   - V01 行人在与脚踏车碰撞中的损伤
   - V02 行人在与两轮或三轮摩托车碰撞中的损伤
-  - V03 行人在与[小汽车](../Page/小汽车.md "wikilink")、轻型货车或篷车碰撞中的损伤
+  - V03
+    行人在与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或篷车碰撞中的损伤
   - V04 行人在与重型运输车或公共汽车碰撞中的损伤
   - V05 行人在与火车或铁路车辆碰撞中的损伤
   - V06 行人在与其他非机动车辆碰撞中的损伤
@@ -16,14 +17,15 @@
 ### V10-V19 脚踏车驾驶人员在运输事故中的损伤
 
   - V10
-    脚踏车驾驶人员在[脚踏车与行人或](../Page/脚踏车.md "wikilink")[牲畜碰撞中的损伤](../Page/牲畜.md "wikilink")
+    脚踏车驾驶人员在[脚踏车与行人或](https://zh.wikipedia.org/wiki/脚踏车 "wikilink")[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
   - V11 脚踏车驾驶人员在脚踏车与其他脚踏车碰撞中的损伤
   - V12 脚踏车驾驶人员在脚踏车与两轮或三轮机动车碰撞中的损伤
   - V13
-    脚踏车驾驶人员在脚踏车与[小汽车](../Page/小汽车.md "wikilink")、轻型货车或[篷车碰撞中的损伤](../Page/篷车.md "wikilink")
+    脚踏车驾驶人员在脚踏车与[小汽车](https://zh.wikipedia.org/wiki/小汽车 "wikilink")、轻型货车或[篷车碰撞中的损伤](https://zh.wikipedia.org/wiki/篷车 "wikilink")
   - V14
-    脚踏车驾驶人员在脚踏车与[重型运输车或](../Page/重型运输车.md "wikilink")[公共汽车碰撞中的损伤](../Page/公共汽车.md "wikilink")
-  - V15 脚踏车驾驶人员在脚踏车与[火车或铁路车辆碰撞中的损伤](../Page/火车.md "wikilink")
+    脚踏车驾驶人员在脚踏车与[重型运输车或](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")[公共汽车碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
+  - V15
+    脚踏车驾驶人员在脚踏车与[火车或铁路车辆碰撞中的损伤](https://zh.wikipedia.org/wiki/火车 "wikilink")
   - V16 脚踏车驾驶人员在脚踏车与其他非动车辆碰撞中的损伤
   - V17 脚踏车驾驶人员在脚踏车与固定或静止物体碰撞中的损伤
   - V18 脚踏车驾驶人员在非碰撞性运输事故中的损伤
@@ -32,7 +34,7 @@
 ### V20-V29 摩托车驾驶人员在运输事故中的损伤
 
   - V20
-    摩托车驾驶人员在[摩托车与](../Page/摩托车.md "wikilink")[行人或](../Page/行人.md "wikilink")[牲畜碰撞中的损伤](../Page/牲畜.md "wikilink")
+    摩托车驾驶人员在[摩托车与](https://zh.wikipedia.org/wiki/摩托车 "wikilink")[行人或](../Page/行人.md "wikilink")[牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/牲畜 "wikilink")
   - V21 摩托车驾驶人员在摩托车与脚踏车碰撞中的损伤
   - V22 摩托车驾驶人员在摩托车与两轮或三轮车机动车碰撞中的损伤
   - V23 摩托车驾驶人员在摩托车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -45,7 +47,8 @@
 
 ### V30-V39 三轮机动车乘员在运输事故中的损伤
 
-  - V30 [三轮机动车乘员在三轮机动车与行人或牲畜碰撞中的损伤](../Page/三轮机动车.md "wikilink")
+  - V30
+    [三轮机动车乘员在三轮机动车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/三轮机动车 "wikilink")
   - V31 三轮机动车乘员在三轮机动车与脚踏车碰撞中的损伤
   - V32 三轮机动车乘员在三轮机动车与两轮或三轮机动车碰撞中的损伤
   - V33 三轮机动车乘员在三轮机动车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -58,7 +61,8 @@
 
 ### V40-V49 小汽車乘員在運輸事故中的損傷
 
-  - V40 [小汽车乘员在小汽车与行人或牲畜碰撞中的损伤](../Page/小汽车.md "wikilink")
+  - V40
+    [小汽车乘员在小汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/小汽车 "wikilink")
   - V41 小汽车乘员在小汽车与脚踏车碰撞中的损伤
   - V42 小汽车乘员在小汽车与两轮或三轮机动车碰撞中的损伤
   - V43 小汽车乘员在小汽车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -72,7 +76,7 @@
 ### V50-V59 轻型货车或蓬车乘员在运输事故中的损伤
 
   - V50
-    [轻型货车或](../Page/轻型货车.md "wikilink")[蓬车乘员在轻型货车或篷车与行人或牲畜碰撞中的损伤](../Page/蓬车.md "wikilink")
+    [轻型货车或](https://zh.wikipedia.org/wiki/轻型货车 "wikilink")[蓬车乘员在轻型货车或篷车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/蓬车 "wikilink")
   - V51 轻型货车或篷车乘员在轻型货车或篷车与脚踏车碰撞中的损伤
   - V52 轻型货车或篷车乘员在轻型货车或篷车与两轮或三轮机动车碰撞中损伤
   - V53 轻型货车或篷车乘员在轻型货车或篷车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -85,7 +89,8 @@
 
 ### V60-V69 重型运输车乘员在运输事故中的损伤
 
-  - V60 [重型运输车乘员在重型运输车与行人或牲畜碰撞中的损伤](../Page/重型运输车.md "wikilink")
+  - V60
+    [重型运输车乘员在重型运输车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/重型运输车 "wikilink")
   - V61 重型运输车乘员在重型运输车与脚踏车碰撞中的损伤
   - V62 重型运输车乘员在重型运输车与两轮或三轮机动车碰撞中的损伤
   - V63 重型运输车乘员在重型运输车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -98,7 +103,8 @@
 
 ### V70-V79 公共汽车乘员在运输事故中的损伤
 
-  - V70 [公共汽车乘员在公共汽车与行人或牲畜碰撞中的损伤](../Page/公共汽车.md "wikilink")
+  - V70
+    [公共汽车乘员在公共汽车与行人或牲畜碰撞中的损伤](https://zh.wikipedia.org/wiki/公共汽车 "wikilink")
   - V71 公共汽车乘员在公共汽车与脚踏碰撞中的损伤
   - V72 公共汽车乘员在公共汽车与两轮或三轮机动车碰撞中的损伤
   - V73 公共汽车乘员在公共汽车与小汽车、轻型货车或篷车碰撞中的损伤
@@ -132,7 +138,7 @@
 
 ### V95-V97 航空和航天运输事故
 
-  - V95 [动力飞行器事故引起乘员损伤](../Page/动力飞行器.md "wikilink")
+  - V95 [动力飞行器事故引起乘员损伤](https://zh.wikipedia.org/wiki/动力飞行器 "wikilink")
   - V96 无动力飞行器事故引起乘员损伤
   - V97 其他特指的空中运输事故
 
@@ -150,13 +156,13 @@
   - W02 涉及溜冰、滑雪、溜旱冰或滑板时的跌倒
   - W03 由于被别人碰撞或推动引起的在同一平面上的其他跌倒
   - W04 在被他人运送或搀扶时跌倒
-  - W05 涉及[轮椅上的跌落](../Page/轮椅.md "wikilink")
+  - W05 涉及[轮椅上的跌落](https://zh.wikipedia.org/wiki/轮椅 "wikilink")
   - W06 涉及[床上的跌落](../Page/床.md "wikilink")
   - W07 涉及椅子上的跌落
   - W08 涉及其他家具上的跌落
   - W09 涉及运动场设施上的跌落
-  - W10 在楼梯或[台阶上的跌倒和跌落](../Page/台阶.md "wikilink")
-  - W11 在[梯子上跌倒和跌落](../Page/梯子.md "wikilink")
+  - W10 在楼梯或[台阶上的跌倒和跌落](https://zh.wikipedia.org/wiki/台阶 "wikilink")
+  - W11 在[梯子上跌倒和跌落](https://zh.wikipedia.org/wiki/梯子 "wikilink")
   - W12 在脚手架上跌倒和跌落
   - W13 从房屋或建筑结构上跌落或跌出
   - W14 从[树上跌落](../Page/树.md "wikilink")
@@ -174,7 +180,7 @@
   - W23 被物体钩住、挤压、轧住或夹住
   - W24 接触升降和传送装置，不可归类在他处者
   - W25 接触锋利的[玻璃](../Page/玻璃.md "wikilink")
-  - W26 接触[刀](../Page/刀.md "wikilink")、剑或匕首
+  - W26 接触[刀](https://zh.wikipedia.org/wiki/刀 "wikilink")、剑或匕首
   - W27 接触无动力手工工具
   - W28 接触动力割草机
   - W29 接触其他动力手工工具和家用机械
@@ -201,8 +207,9 @@
   - W50 被他人殴打、踢、拧、咬或抓伤
   - W51 撞到他人或意外被别人碰撞
   - W52 被蜂涌人群挤压、推挤或踏踩
-  - W53 被[鼠](../Page/鼠.md "wikilink")[咬伤](../Page/咬伤.md "wikilink")
-  - W54 被[狗咬伤或抓伤](../Page/狗.md "wikilink")
+  - W53
+    被[鼠](../Page/鼠.md "wikilink")[咬伤](https://zh.wikipedia.org/wiki/咬伤 "wikilink")
+  - W54 被[狗咬伤或抓伤](https://zh.wikipedia.org/wiki/狗 "wikilink")
   - W55 被其他哺乳动物咬伤或抓伤
   - W56 接触海生动物的损伤
   - W57 被无毒昆虫和其他无毒节肢动物咬伤或螫伤
@@ -236,7 +243,7 @@
 
 ### W85-W99 暴露于电流、辐射和极度环境气温及气压下境氣溫及氣壓下
 
-  - W85 暴露于[输电线路下](../Page/输电线路.md "wikilink")
+  - W85 暴露于[输电线路下](https://zh.wikipedia.org/wiki/输电线路 "wikilink")
   - W86 暴露于其他特指的电流下
   - W87 暴露于未特指的电流下
   - W88 暴露于电离辐射下
@@ -246,7 +253,7 @@
   - W92 暴露于人为原因的过热环境下
   - W93 暴露于人为原因的过冷环境下
   - W94
-    暴露于[高气压](../Page/高气压.md "wikilink")、[低气压和气压改变环境下](../Page/低气压.md "wikilink")
+    暴露于[高气压](https://zh.wikipedia.org/wiki/高气压 "wikilink")、[低气压和气压改变环境下](https://zh.wikipedia.org/wiki/低气压 "wikilink")
   - W99 暴露于其他和未特指的人为环境因素下
 
 ### X00-X09 暴露于烟、火和火焰下
@@ -277,12 +284,12 @@
 ### X20-X29 接触有毒的动物和植物
 
   - X20 接触[毒蛇和](../Page/毒蛇.md "wikilink")[蜥蜴](../Page/蜥蜴.md "wikilink")
-  - X21 接触[毒蜘蛛](../Page/毒蜘蛛.md "wikilink")
-  - X22 接触[蝎子](../Page/蝎子.md "wikilink")
+  - X21 接触[毒蜘蛛](https://zh.wikipedia.org/wiki/毒蜘蛛 "wikilink")
+  - X22 接触[蝎子](https://zh.wikipedia.org/wiki/蝎子 "wikilink")
   - X23
-    接触[大黄蜂](../Page/大黄蜂.md "wikilink")、[黄蜂和](../Page/黄蜂.md "wikilink")[蜜蜂](../Page/蜜蜂.md "wikilink")
+    接触[大黄蜂](https://zh.wikipedia.org/wiki/大黄蜂 "wikilink")、[黄蜂和](../Page/黄蜂.md "wikilink")[蜜蜂](../Page/蜜蜂.md "wikilink")
   - X24
-    接触[蜈蚣和有毒的](../Page/蜈蚣.md "wikilink")[千足虫](../Page/千足虫.md "wikilink")
+    接触[蜈蚣和有毒的](../Page/蜈蚣.md "wikilink")[千足虫](https://zh.wikipedia.org/wiki/千足虫 "wikilink")
   - X25 接触其他特指的有毒的节肢动物
   - X26 接触有毒的海生动物和植物
   - X27 接触其他特指的有毒动物
@@ -307,8 +314,9 @@
 
   - X40 非类鸦片镇痛药、退热药和抗风湿药的意外中毒及暴露于该类药物
   - X41
-    [镇癫痫药](../Page/镇癫痫药.md "wikilink")、[镇静](../Page/镇静.md "wikilink")[催眠剂](../Page/催眠剂.md "wikilink")、抗震颤麻痹药和对精神有影响的药物的意外中毒及暴露该药物
-  - X42 [麻醉剂和致幻药意外中毒及暴露于该药物](../Page/麻醉剂.md "wikilink")，不可归在他处者
+    [镇癫痫药](https://zh.wikipedia.org/wiki/镇癫痫药 "wikilink")、[镇静](https://zh.wikipedia.org/wiki/镇静 "wikilink")[催眠剂](https://zh.wikipedia.org/wiki/催眠剂 "wikilink")、抗震颤麻痹药和对精神有影响的药物的意外中毒及暴露该药物
+  - X42
+    [麻醉剂和致幻药意外中毒及暴露于该药物](https://zh.wikipedia.org/wiki/麻醉剂 "wikilink")，不可归在他处者
   - X43 作用于自主神经系统的其他药物的意外中毒及暴露
   - X44 其他和未特指的药物、药剂和生物制品的意外中毒及暴露于该类药物
   - X45 酒精的意外中毒及暴露于酒精
@@ -397,7 +405,8 @@
   - Y15 酒精中毒及暴露于酒精，主观未定的
   - Y16 有机溶剂和卤素烃及其蒸气的中毒及暴露于该类物质，主观未定的
   - Y17 其他气体和蒸气的中毒及暴露于该类物质，主观未定的
-  - Y18 [杀虫剂的中毒及暴露于杀虫剂](../Page/杀虫剂.md "wikilink")，主观未定的
+  - Y18
+    [杀虫剂的中毒及暴露于杀虫剂](https://zh.wikipedia.org/wiki/杀虫剂 "wikilink")，主观未定的
   - Y19 其他和未特指的化学制品和有害物质的中毒及暴露于该类物质，主观未定的
   - Y20 悬吊、绞勒和窒息，主观未定的
   - Y21 淹溺和沉没，主观未定的
@@ -418,7 +427,7 @@
 ## Y35-Y36 依法处置和作战行动
 
   - Y35 依法处置
-  - Y36 [作战行动](../Page/作战.md "wikilink")
+  - Y36 [作战行动](https://zh.wikipedia.org/wiki/作战 "wikilink")
 
 ## Y40-Y84 医疗和手术的并发症
 
@@ -449,7 +458,7 @@
 
   - Y60 手术和医疗中非故意的切割、针刺、穿孔或出血
   - Y61 手术和医疗中异物意外地遗留在体内
-  - Y62 手术和医疗中[无菌预防措施的失败](../Page/无菌.md "wikilink")
+  - Y62 手术和医疗中[无菌预防措施的失败](https://zh.wikipedia.org/wiki/无菌 "wikilink")
   - Y63 手术和医疗中使用剂量不当
   - Y64 医疗或生物材料被污染
   - Y65 在手术和医疗中的其他意外事故
@@ -489,14 +498,14 @@
 
   - Y90 测定血中酒精水平以获得酒精影响的证据
   - Y91 测定中毒水平以获得酒精影响的证据
-  - Y95 [医源性情况](../Page/医源性.md "wikilink")
+  - Y95 [医源性情况](https://zh.wikipedia.org/wiki/医源性 "wikilink")
   - Y96 与工作有关的情况
   - Y97 与环境污染有关的情况
   - Y98 与生活方式有关的情况
 
 ## 参见
 
-  - [ICD](../Page/ICD.md "wikilink")
+  - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
 ## 參考文獻

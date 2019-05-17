@@ -1,40 +1,40 @@
 《**Love
-Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日に[TBS系於星期日](../Page/TBS電視台.md "wikilink")21:00～21:54（[東芝日曜劇場](../Page/日曜劇場.md "wikilink")）播放的[日劇](../Page/日劇.md "wikilink")。第一回和最終回延長播放時間至22:24。全部11回。平均收視率20.8%。
+Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日に[TBS系於星期日](../Page/TBS電視台.md "wikilink")21:00～21:54（[東芝日曜劇場](https://zh.wikipedia.org/wiki/日曜劇場 "wikilink")）播放的[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")。第一回和最終回延長播放時間至22:24。全部11回。平均收視率20.8%。
 
 ## 故事大綱
 
-於2001年由TBS電視台播映、日本劇作家北川悦吏子撰寫的電視劇。讲述了陷入低潮中、已有兩年沒有新作品的戀愛小說家永瀬康（[豐川悦司飾演](../Page/豐川悦司.md "wikilink")）與他的責任編輯須藤美咲（[中山美穂飾演](../Page/中山美穂.md "wikilink")）為中心、與香取慎吾、優香、加藤晴彦、畑野浩子等人交流結合而成的故事。
+於2001年由TBS電視台播映、日本劇作家北川悦吏子撰寫的電視劇。讲述了陷入低潮中、已有兩年沒有新作品的戀愛小說家永瀬康（[豐川悦司飾演](https://zh.wikipedia.org/wiki/豐川悦司 "wikilink")）與他的責任編輯須藤美咲（[中山美穂飾演](https://zh.wikipedia.org/wiki/中山美穂 "wikilink")）為中心、與香取慎吾、優香、加藤晴彦、畑野浩子等人交流結合而成的故事。
 
 ## 演员
 
-  - 須藤美咲 (30) - [中山美穂](../Page/中山美穂.md "wikilink")
+  - 須藤美咲 (30) - [中山美穂](https://zh.wikipedia.org/wiki/中山美穂 "wikilink")
   - 永瀬康 (37) - [豐川悅司](../Page/豐川悅司.md "wikilink")
   - 鍋友恭二 (24) - [香取慎吾](../Page/香取慎吾.md "wikilink")
-  - 小林香乃 (19) - [優香](../Page/優香.md "wikilink")
+  - 小林香乃 (19) - [優香](https://zh.wikipedia.org/wiki/優香 "wikilink")
 
 <!-- end list -->
 
-  - 池谷貢 - [加藤晴彥](../Page/加藤晴彥.md "wikilink")
-  - 倉田ユミ - [畑野浩子](../Page/畑野浩子.md "wikilink")
-  - 永瀬ケンジ - [小谷欣矢](../Page/小谷欣矢.md "wikilink")
-  - 蓼科久美子 (27) - [戶田菜穗](../Page/戶田菜穗.md "wikilink")
+  - 池谷貢 - [加藤晴彥](https://zh.wikipedia.org/wiki/加藤晴彥 "wikilink")
+  - 倉田ユミ - [畑野浩子](https://zh.wikipedia.org/wiki/畑野浩子 "wikilink")
+  - 永瀬ケンジ - [小谷欣矢](https://zh.wikipedia.org/wiki/小谷欣矢 "wikilink")
+  - 蓼科久美子 (27) - [戶田菜穗](https://zh.wikipedia.org/wiki/戶田菜穗 "wikilink")
 
 <!-- end list -->
 
-  - 柏原修三 - [小野武彥](../Page/小野武彥.md "wikilink")
-  - 永瀬ヨシ (80) - [三崎千惠子](../Page/三崎千惠子.md "wikilink")
+  - 柏原修三 - [小野武彥](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")
+  - 永瀬ヨシ (80) - [三崎千惠子](https://zh.wikipedia.org/wiki/三崎千惠子 "wikilink")
   - 村上 - [坂口憲二](../Page/坂口憲二.md "wikilink")
 
 ## 工作人員
 
   - 編劇：[北川悅吏子](../Page/北川悅吏子.md "wikilink")
-  - 音樂：[日向大介](../Page/日向大介.md "wikilink")
-  - 導演：[生野慈朗](../Page/生野慈朗.md "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](../Page/今井夏木.md "wikilink")
-  - 製作：[植田博樹](../Page/植田博樹.md "wikilink")
+  - 音樂：[日向大介](https://zh.wikipedia.org/wiki/日向大介 "wikilink")
+  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](https://zh.wikipedia.org/wiki/土井裕泰 "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
+  - 製作：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
 
 ## 主題歌
 
-  - [SPITZ](../Page/SPITZ.md "wikilink")『[遥か](../Page/遥か_\(スピッツの曲\).md "wikilink")』
+  - [SPITZ](../Page/SPITZ.md "wikilink")『[遥か](https://zh.wikipedia.org/wiki/遥か_\(スピッツの曲\) "wikilink")』
 
 ## 播放日・副標題・收視率
 

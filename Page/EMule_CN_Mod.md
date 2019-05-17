@@ -1,7 +1,7 @@
 **eMule CN Mod**，简称**CN
-Mod**，是基于官方[eMule开发的一个](../Page/eMule.md "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](../Page/免费软件.md "wikilink")[P2P](../Page/P2P.md "wikilink")[文件共享软件](../Page/文件共享.md "wikilink")。它是一个[eMule
-Mod](../Page/eMule_Mod.md "wikilink")，遵循GNU
-[GPL协议](../Page/GPL.md "wikilink")。
+Mod**，是基于官方[eMule开发的一个](https://zh.wikipedia.org/wiki/eMule "wikilink")[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一个[eMule
+Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循GNU
+[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 CN
 Mod由包括**中国驴**论坛管理员在内的一些中国内地[程序员制作](../Page/程序员.md "wikilink")。中国驴论坛为其官方网站与发布点。最早的eMule
@@ -16,21 +16,21 @@ eMule CN Mod的部分主要功能有：
 <!-- end list -->
 
   - 网络积分排行系统，即**驴榜**，eMule CN
-    Mod用户可决定是否参与，参与者需至中国驴论坛申请。可将用户的上传与下载数据量的信息记录至中国驴的服务器，并在其网站公布每月的上传量排名，以奖励论坛积分。有程序员为[Xtreme](../Page/Xtreme.md "wikilink")
+    Mod用户可决定是否参与，参与者需至中国驴论坛申请。可将用户的上传与下载数据量的信息记录至中国驴的服务器，并在其网站公布每月的上传量排名，以奖励论坛积分。有程序员为[Xtreme](https://zh.wikipedia.org/wiki/Xtreme "wikilink")
     7.2\[3\]等Mods也制作了支持使用驴榜的版本。
 
 <!-- end list -->
 
-  - 支持Windows平台[UPNP](../Page/UPNP.md "wikilink")，可提高[内网用户下载速度](../Page/内网.md "wikilink")。
+  - 支持Windows平台[UPNP](https://zh.wikipedia.org/wiki/UPNP "wikilink")，可提高[内网用户下载速度](https://zh.wikipedia.org/wiki/内网 "wikilink")。
 
 <!-- end list -->
 
-  - 内置[IP2Country功能](../Page/IP2Country.md "wikilink")，支持地区旗帜显示。
+  - 内置[IP2Country功能](https://zh.wikipedia.org/wiki/IP2Country "wikilink")，支持地区旗帜显示。
 
 <!-- end list -->
 
   - 支持[eMule Xtreme
-    Mod的](../Page/eMule_Xtreme_Mod.md "wikilink")[DLP（动态反吸血驴保护）](../Page/动态反吸血驴保护.md "wikilink")，可屏蔽[吸血驴](../Page/吸血驴.md "wikilink")。
+    Mod的](https://zh.wikipedia.org/wiki/eMule_Xtreme_Mod "wikilink")[DLP（动态反吸血驴保护）](../Page/动态反吸血驴保护.md "wikilink")，可屏蔽[吸血驴](../Page/吸血驴.md "wikilink")。
 
 ## 其他
 
@@ -48,9 +48,9 @@ eMule CN Mod的部分主要功能有：
 
 ## 参见
 
-  - [eDonkey网络](../Page/eDonkey网络.md "wikilink")
-  - [eMule](../Page/eMule.md "wikilink")
-  - [eMule Mod](../Page/eMule_Mod.md "wikilink")
+  - [eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")
+  - [eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")
+  - [eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")
   - [动态反吸血驴保护](../Page/动态反吸血驴保护.md "wikilink")
 
 ## 参考资料

@@ -1,8 +1,8 @@
-**ExtJS**是一个纯粹的[JavaScript](../Page/JavaScript.md "wikilink")，用于使用[Ajax](../Page/Ajax.md "wikilink")、[DHTML和](../Page/動態HTML.md "wikilink")[DOM脚本构建交互式跨平台](../Page/文档对象模型.md "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")\[1\]。
+**ExtJS**是一个纯粹的[JavaScript](../Page/JavaScript.md "wikilink")，用于使用[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")、[DHTML和](../Page/動態HTML.md "wikilink")[DOM脚本构建交互式跨平台](../Page/文档对象模型.md "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")\[1\]。
 
 ## 历史
 
-最初的ExtJS只是[YUI的一个扩展包](../Page/Yahoo!_UI_Library.md "wikilink")，自1.1版开始独立发布。它是一个[开源软件](../Page/开源软件.md "wikilink")，遵守[GPL](../Page/GPL.md "wikilink")
+最初的ExtJS只是[YUI的一个扩展包](https://zh.wikipedia.org/wiki/Yahoo!_UI_Library "wikilink")，自1.1版开始独立发布。它是一个[开源软件](../Page/开源软件.md "wikilink")，遵守[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")
 3.0协议。
 
 2007年12日4日推出Ext JS 2.0版。
@@ -10,7 +10,7 @@
 2009年7日6日推出Ext JS 3.0版.Ext JS 3.1版中增加可分组的列标题。
 
 2010年6月，Ext
-JS更名为**Sencha**（Sencha是日本的[煎茶](../Page/煎茶.md "wikilink")），並且整合[jQTouch和](../Page/jQTouch.md "wikilink")[Raphal库](../Page/Raphal.md "wikilink")，這是世界上第一个基于[HTML5的移动应用框架](../Page/HTML5.md "wikilink")，全面相容Android和Apple
+JS更名为**Sencha**（Sencha是日本的[煎茶](https://zh.wikipedia.org/wiki/煎茶 "wikilink")），並且整合[jQTouch和](https://zh.wikipedia.org/wiki/jQTouch "wikilink")[Raphal库](https://zh.wikipedia.org/wiki/Raphal "wikilink")，這是世界上第一个基于[HTML5的移动应用框架](../Page/HTML5.md "wikilink")，全面相容Android和Apple
 iOS。
 
 2011年4月26日，推出Ext framework
@@ -23,7 +23,7 @@ component.
 
 ## 许可证
 
-Extjs之前使用[LGPL和商业授权的双重协议](../Page/LGPL.md "wikilink")，在08年时改成了现在使用的[GPL和商业授权的双重协议](../Page/GPL.md "wikilink")，也遵守其他的开源软件协议。
+Extjs之前使用[LGPL和商业授权的双重协议](https://zh.wikipedia.org/wiki/LGPL "wikilink")，在08年时改成了现在使用的[GPL和商业授权的双重协议](https://zh.wikipedia.org/wiki/GPL "wikilink")，也遵守其他的开源软件协议。
 
 ## 功能描述
 

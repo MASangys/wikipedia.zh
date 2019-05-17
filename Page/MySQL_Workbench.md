@@ -8,8 +8,9 @@
 
 MySQL Workbench 有两个版本：MySQL Workbench Community Edition（又叫MySQL
 Workbench OSS，社区版）和 MySQL Workbench Standard Edition（又叫MySQL Workbench
-SE，商业版）。MySQL Workbench OSS 是在 [GPL](../Page/GPL.md "wikilink")
-证书下发布的开源社区版本，而 MySQL Workbench SE 则是按年收费的商业版本。
+SE，商业版）。MySQL Workbench OSS 是在
+[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") 证书下发布的开源社区版本，而 MySQL
+Workbench SE 则是按年收费的商业版本。
 
 ## 发展前景
 
@@ -19,8 +20,8 @@ SE，商业版）。MySQL Workbench OSS 是在 [GPL](../Page/GPL.md "wikilink")
 
   - [HeidiSQL](../Page/HeidiSQL.md "wikilink")
   - [Navicat](../Page/Navicat.md "wikilink")
-  - [SQLyog](../Page/SQLyog.md "wikilink")
-  - [SQL Maestro](../Page/SQL_Maestro.md "wikilink")
+  - [SQLyog](https://zh.wikipedia.org/wiki/SQLyog "wikilink")
+  - [SQL Maestro](https://zh.wikipedia.org/wiki/SQL_Maestro "wikilink")
 
 ## 參考資料
 

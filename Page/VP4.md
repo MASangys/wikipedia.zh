@@ -14,7 +14,7 @@ Technologies所開發出來的視訊編解碼技術](../Page/On2_Technologies.md
   - [VP4 for
     RealPlayer](http://sun.sj.net.cn:8080/souxin/software/vp4-real-beta-clientinstall.exe)
 
-[en:VP4](../Page/en:VP4.md "wikilink")
+[en:VP4](https://zh.wikipedia.org/wiki/en:VP4 "wikilink")
 
 [Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
 

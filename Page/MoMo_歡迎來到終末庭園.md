@@ -1,6 +1,6 @@
-《**MoMo**》是[日本](../Page/日本.md "wikilink")[漫畫家](../Page/漫畫家.md "wikilink")[酒井真由的作品](../Page/酒井真由.md "wikilink")。於[集英社的](../Page/集英社.md "wikilink")[漫畫雜誌](../Page/漫畫.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》2008年9月號開始連載，至2011年3月號結束，全部共33回。台灣方面則是由[尖端出版的](../Page/尖端.md "wikilink")《[夢夢少女漫畫月刊](../Page/夢夢少女漫畫月刊.md "wikilink")》於2009年3月號開始連載，至2011年11月號結束。
+《**MoMo**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[酒井真由的作品](../Page/酒井真由.md "wikilink")。於[集英社的](../Page/集英社.md "wikilink")[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》2008年9月號開始連載，至2011年3月號結束，全部共33回。台灣方面則是由[尖端出版的](https://zh.wikipedia.org/wiki/尖端 "wikilink")《[夢夢少女漫畫月刊](../Page/夢夢少女漫畫月刊.md "wikilink")》於2009年3月號開始連載，至2011年11月號結束。
 
-2009年7月2日開始，廣播配信中。（[VOMIC](../Page/VOMIC.md "wikilink")）
+2009年7月2日開始，廣播配信中。（[VOMIC](https://zh.wikipedia.org/wiki/VOMIC "wikilink")）
 
 ## 故事簡介
 
@@ -10,10 +10,10 @@
 
 ### 主要角色
 
-※下列角色聲優代表[VOMIC的聲優](../Page/VOMIC.md "wikilink")。
+※下列角色聲優代表[VOMIC的聲優](https://zh.wikipedia.org/wiki/VOMIC "wikilink")。
 
   -
-    聲優：[田村ゆかり](../Page/田村ゆかり.md "wikilink")
+    聲優：[田村ゆかり](https://zh.wikipedia.org/wiki/田村ゆかり "wikilink")
     年齡：約98億5000萬歲。
     身高：112公分。
     體重：18.5公斤。
@@ -51,7 +51,7 @@
 <!-- end list -->
 
   -
-    聲優：[保志総一朗](../Page/保志総一朗.md "wikilink")
+    聲優：[保志総一朗](https://zh.wikipedia.org/wiki/保志総一朗 "wikilink")
     年齡：16歲。
     血型：O型。
     星座：雙魚座。

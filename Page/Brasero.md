@@ -1,4 +1,4 @@
-**Brasero**是[类Unix](../Page/类Unix系统.md "wikilink")[系统下的一个](../Page/操作系统.md "wikilink")[自由的](../Page/自由软件.md "wikilink")[光盘](../Page/光盘.md "wikilink")[刻录程序](../Page/光碟烧录技术.md "wikilink")，作为[cdrtools](../Page/cdrtools.md "wikilink")，[growisofs以及libburn](../Page/dvd+rw-tools.md "wikilink")（可选）的图形化[前端](../Page/前端.md "wikilink")（使用[GTK+](../Page/GTK+.md "wikilink")）。\[1\]\[2\]\[3\]
+**Brasero**是[类Unix](../Page/类Unix系统.md "wikilink")[系统下的一个](../Page/操作系统.md "wikilink")[自由的](../Page/自由软件.md "wikilink")[光盘](https://zh.wikipedia.org/wiki/光盘 "wikilink")[刻录程序](https://zh.wikipedia.org/wiki/光碟烧录技术 "wikilink")，作为[cdrtools](https://zh.wikipedia.org/wiki/cdrtools "wikilink")，[growisofs以及libburn](https://zh.wikipedia.org/wiki/dvd+rw-tools "wikilink")（可选）的图形化[前端](https://zh.wikipedia.org/wiki/前端 "wikilink")（使用[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")）。\[1\]\[2\]\[3\]
 
 Brasero使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，是一个[自由软件](../Page/自由软件.md "wikilink")。\[4\]
 
@@ -7,7 +7,7 @@ Brasero使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wik
 Braserot由Philippe Rouquier和Luis
 Medinas开发。该项目原来叫做Bonfire，后来使用了西班牙语词brasero作为名称，brasero是一种给人们坐在桌前提供温暖的小型加热器。\[5\]
 
-Brasero的早期版本很受欢迎。[自由软件杂志](../Page/自由软件杂志.md "wikilink")2007年8月的一篇评论这样说：
+Brasero的早期版本很受欢迎。[自由软件杂志](https://zh.wikipedia.org/wiki/自由软件杂志 "wikilink")2007年8月的一篇评论这样说：
 
 随着后来进一步的开发，以及2008年4月开始Brasero
 0.7.1被[Ubuntu](../Page/Ubuntu.md "wikilink") 8.04 *Hardy
@@ -22,7 +22,7 @@ Brasero后来被集成进GNOME，并且版本号随着GNOME桌面版本号变化
 
 ## 参见
 
-  - [k3b](../Page/k3b.md "wikilink")
+  - [k3b](https://zh.wikipedia.org/wiki/k3b "wikilink")
 
 ## 参考资料
 

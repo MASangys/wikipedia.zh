@@ -1,22 +1,23 @@
 i wonder how and wonder why 《**My
-Love**》是[Westlife](../Page/Westlife.md "wikilink")（西城男孩）《[Coast to
-Coast](../Page/Coast_to_Coast.md "wikilink")》专辑中的一首单曲。它是西城男孩成名歌曲之一，也是该组合在英国音乐排行榜上第7首获得冠軍的單曲。它于2000年10月30日发行，在当年英国销量最高的单曲中排第35名。
+Love**》是[Westlife](https://zh.wikipedia.org/wiki/Westlife "wikilink")（西城男孩）《[Coast
+to
+Coast](https://zh.wikipedia.org/wiki/Coast_to_Coast "wikilink")》专辑中的一首单曲。它是西城男孩成名歌曲之一，也是该组合在英国音乐排行榜上第7首获得冠軍的單曲。它于2000年10月30日发行，在当年英国销量最高的单曲中排第35名。
 
 ## 打榜紀錄
 
-| 排行榜                                      | 最好成绩 |
-| :--------------------------------------- | :--: |
-| [阿根廷单曲排行榜](../Page/阿根廷.md "wikilink")    |  1   |
-| 澳大利亚单曲排行榜                                |  36  |
-| [比利时单曲排行榜](../Page/比利时.md "wikilink")    |  6   |
-| 爱尔兰单曲排行榜                                 |  1   |
-| [荷兰单曲排行榜](../Page/荷兰.md "wikilink")      |  9   |
-| 新西兰单曲排行榜                                 |  3   |
-| [挪威单曲排行榜](../Page/挪威.md "wikilink")      |  3   |
-| [瑞典单曲排行榜](../Page/瑞典.md "wikilink")      |  1   |
-| [瑞士单曲排行榜](../Page/瑞士.md "wikilink")      |  38  |
-| [英国单曲排行榜](../Page/英国单曲排行榜.md "wikilink") |  1   |
-|                                          |      |
+| 排行榜                                                         | 最好成绩 |
+| :---------------------------------------------------------- | :--: |
+| [阿根廷单曲排行榜](../Page/阿根廷.md "wikilink")                       |  1   |
+| 澳大利亚单曲排行榜                                                   |  36  |
+| [比利时单曲排行榜](../Page/比利时.md "wikilink")                       |  6   |
+| 爱尔兰单曲排行榜                                                    |  1   |
+| [荷兰单曲排行榜](../Page/荷兰.md "wikilink")                         |  9   |
+| 新西兰单曲排行榜                                                    |  3   |
+| [挪威单曲排行榜](../Page/挪威.md "wikilink")                         |  3   |
+| [瑞典单曲排行榜](../Page/瑞典.md "wikilink")                         |  1   |
+| [瑞士单曲排行榜](https://zh.wikipedia.org/wiki/瑞士 "wikilink")      |  38  |
+| [英国单曲排行榜](https://zh.wikipedia.org/wiki/英国单曲排行榜 "wikilink") |  1   |
+|                                                             |      |
 
 ## 外部链接
 

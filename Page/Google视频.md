@@ -1,8 +1,8 @@
 **Google影片**（**Google
-Video**）是[Google提供的一项視訊共享和搜索服务](../Page/Google.md "wikilink")。与[YouTube类似](../Page/YouTube.md "wikilink")，「Google影片」向用户提供必要的[HTML代码](../Page/HTML.md "wikilink")，允许用户将选定的視訊嵌入到其它的[网站的页面中](../Page/网站.md "wikilink")。这种方法可以使用户在网站中嵌入大量的視訊而无需考虑頻寬和儲存容量限制的问题。在2006年10月9日，Google收购了前競争对手YouTube，并在2007年6月13日发表声明，「Google影片」的搜索结果将包含由[网络蜘蛛在其它托管服务](../Page/网络蜘蛛.md "wikilink")、YouTube和用户上传中抓取的内容\[1\]。
+Video**）是[Google提供的一项視訊共享和搜索服务](../Page/Google.md "wikilink")。与[YouTube类似](../Page/YouTube.md "wikilink")，「Google影片」向用户提供必要的[HTML代码](../Page/HTML.md "wikilink")，允许用户将选定的視訊嵌入到其它的[网站的页面中](https://zh.wikipedia.org/wiki/网站 "wikilink")。这种方法可以使用户在网站中嵌入大量的視訊而无需考虑頻寬和儲存容量限制的问题。在2006年10月9日，Google收购了前競争对手YouTube，并在2007年6月13日发表声明，「Google影片」的搜索结果将包含由[网络蜘蛛在其它托管服务](https://zh.wikipedia.org/wiki/网络蜘蛛 "wikilink")、YouTube和用户上传中抓取的内容\[1\]。
 
-2009年，Google停止了向其[Web服务器上传視訊的服务](../Page/Web.md "wikilink")\[2\]。2011年5月13日起，Google
-Video不再提供一般使用者影片播放的服務，並開放使用者取回自己上傳影片或是快速移轉至[Youtube的功能](../Page/Youtube.md "wikilink")。企業或教育所使用的Google
+2009年，Google停止了向其[Web服务器上传視訊的服务](https://zh.wikipedia.org/wiki/Web "wikilink")\[2\]。2011年5月13日起，Google
+Video不再提供一般使用者影片播放的服務，並開放使用者取回自己上傳影片或是快速移轉至[Youtube的功能](https://zh.wikipedia.org/wiki/Youtube "wikilink")。企業或教育所使用的Google
 Video服務目前則不影響\[3\]。
 
 由於YouTube的风头远远盖过了Google Video，Google

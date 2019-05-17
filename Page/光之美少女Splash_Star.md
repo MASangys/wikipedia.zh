@@ -1,5 +1,5 @@
 《**光之美少女Splash Star**》（**Splash
-Star**）是由[東映動畫所製作的動畫作品](../Page/東映動畫.md "wikilink")，為《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第三季作品，屬第二代光之美少女。
+Star**）是由[東映動畫所製作的動畫作品](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，為《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第三季作品，屬第二代光之美少女。
 
 ## 概要
 
@@ -16,7 +16,7 @@ Star**）是由[東映動畫所製作的動畫作品](../Page/東映動畫.md "w
   -
 
     本作主角之一，海原市立夕風中學\[1\]2年B班學生。
-    出生，[獅子座](../Page/獅子座.md "wikilink")，血型為O型。在學校是[壘球隊的隊員](../Page/壘球.md "wikilink")，守備位置是[投手](../Page/投手.md "wikilink")。家裡經營名叫「香噴噴麵包屋」的麵包店。仰慕舞的哥哥，美翔和也。
+    出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型為O型。在學校是[壘球隊的隊員](../Page/壘球.md "wikilink")，守備位置是[投手](../Page/投手.md "wikilink")。家裡經營名叫「香噴噴麵包屋」的麵包店。仰慕舞的哥哥，美翔和也。
 
     精靈夥伴是弗拉比，戰鬥時經弗拉比協助變身成花天使，其擁有大地的金黃色精靈之光。中期得到「光之美少女魔力轉轉環」（Spiral
     Ring）後可使用新必殺技。後期能藉由姆姆給予的-{滿月}-之力變身為月天使，其擁有屬於-{滿月}-的黃綠色精靈之光。
@@ -36,7 +36,7 @@ Star**）是由[東映動畫所製作的動畫作品](../Page/東映動畫.md "w
   -
 
     本作主角之一，轉學至海原市立夕風中學2年B班的轉學生。
-    出生，[天蠍座](../Page/天蠍座.md "wikilink")，血型為AB型。學校美術社社員，非常熱衷於繪畫，當專注於畫上時，常常察覺不到身邊發生的事。
+    出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型為AB型。學校美術社社員，非常熱衷於繪畫，當專注於畫上時，常常察覺不到身邊發生的事。
 
     精靈夥伴是喬比，戰鬥時經喬比的協助變身成-{舞天使}-，其擁有天空的銀藍色精靈之光。中期得到「光之美少女魔力轉轉環」後可使用新必殺技。後期能藉由芙芙給予的-{薰風}-之力變身為風天使，其擁有屬於-{薰風}-的粉紅色精靈之光。
 
@@ -125,19 +125,19 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
     邪惡大王的心腹。平時是個卑鄙的小老頭，負責監視所有手下並向邪惡大王報告其戰績與收集光之美少女情報，常被水靈夫人誤叫"亞葛"。第41集搶走精靈之壺令已被光之美少女消滅的五行幹部復活。但其實他才是真正的邪惡大王，最終現出原形後是個可怕的怪物，聲稱是宇宙誕生之前就存在的毀滅之力，因為厭惡生命所以要毀滅宇宙令世界變回一片死寂。跟光之美少女和霧生姐妹進行了史上最激烈的戰鬥，最後被花天使、-{舞天使}-、月之-{滿}-及風之-{薰}-合力使出的最終必殺技“轉轉愛心星光Splash”消滅，臨死前還差點連花天使和-{舞天使}-都給他帶走了。
 
-    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")，和皮耶羅一起聯手對抗[Go！Princess
-    光之美少女](../Page/Go！Princess_光之美少女.md "wikilink")、回聲天使與魔法天使，最後被[Go！Princess
-    光之美少女打敗](../Page/Go！Princess_光之美少女.md "wikilink")。
+    後來在[STMM中被索爾希埃爾的魔力以最終型態復活](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")，和皮耶羅一起聯手對抗[Go！Princess
+    光之美少女](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")、回聲天使與魔法天使，最後被[Go！Princess
+    光之美少女打敗](https://zh.wikipedia.org/wiki/Go！Princess_光之美少女 "wikilink")。
 
     其名字源自於[琉球語](../Page/琉球語.md "wikilink")「苦瓜」。
 
-    臉型像[葫蘆](../Page/葫蘆.md "wikilink")。
+    臉型像[葫蘆](https://zh.wikipedia.org/wiki/葫蘆 "wikilink")。
 
 #### 幹部
 
   -
 
-    邪惡大王的手下，統治「[樹之泉](../Page/樹.md "wikilink")」。使用木的力量操控巫賽那。自稱「小樹魔」\[9\]。
+    邪惡大王的手下，統治「[樹之泉](https://zh.wikipedia.org/wiki/樹 "wikilink")」。使用木的力量操控巫賽那。自稱「小樹魔」\[9\]。
 
     後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與妮亞合作對付[FRESH光之美少女！](../Page/FRESH光之美少女！.md "wikilink")，與桃天使及百香果天使交戰，最後和深海合體。
 
@@ -145,7 +145,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
   -
 
-    邪惡大王的手下，統治「[火之泉](../Page/火.md "wikilink")」，使用火的力量操控巫賽那。個性熱情，常常使用[拉丁系的語言說話](../Page/拉丁.md "wikilink")，常稱光之美少女和-{滿薰}-為“Señorita”\[10\]。
+    邪惡大王的手下，統治「[火之泉](../Page/火.md "wikilink")」，使用火的力量操控巫賽那。個性熱情，常常使用[拉丁系的語言說話](https://zh.wikipedia.org/wiki/拉丁 "wikilink")，常稱光之美少女和-{滿薰}-為“Señorita”\[10\]。
 
     後來在[DX2中復活](../Page/光之美少女_All_Stars_DX2_希望之光☆守護彩虹寶石！.md "wikilink")，與水靈夫人、蒂娜合作對付[Yes\!
     光之美少女5](../Page/Yes!_光之美少女5.md "wikilink")，與夢天使、火天使、檸檬天使、薄荷天使和水天使交戰，最後和深海合體。
@@ -154,7 +154,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
   -
 
-    邪惡大王的手下，統治「[土之泉](../Page/土.md "wikilink")」，使用土的力量操控巫賽那。體格巨大，個性灰暗，討厭吵雜，常被滿跟薰欺負。遇到雨天可以吸收泥水變得更巨大。
+    邪惡大王的手下，統治「[土之泉](https://zh.wikipedia.org/wiki/土 "wikilink")」，使用土的力量操控巫賽那。體格巨大，個性灰暗，討厭吵雜，常被滿跟薰欺負。遇到雨天可以吸收泥水變得更巨大。
 
 <!-- end list -->
 
@@ -229,7 +229,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
 
   -
 
-    咲跟舞班上的班導師，主要教[英語](../Page/英語.md "wikilink")，同時也是壘球社的顧問。
+    咲跟舞班上的班導師，主要教[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，同時也是壘球社的顧問。
 
   -
 
@@ -985,7 +985,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
   - 漫畫 ： [上北雙子](../Page/上北雙子.md "wikilink")
   - 製作人：大野逸雄（ＡＢＣ）、龜田雅之（ＡＢＣ）、鶴崎（ＡＤＫ）、鷲尾天（東映動畫）
   - 系列導演：[小村敏明](../Page/小村敏明.md "wikilink")
-  - 系列構成：長津晴子→[成田良美](../Page/成田良美.md "wikilink")
+  - 系列構成：長津晴子→[成田良美](https://zh.wikipedia.org/wiki/成田良美 "wikilink")
   - 劇本：川崎良、清水東、羽原大介、成田良美、山下憲一
   - 角色設計：[稻上晃](../Page/稻上晃.md "wikilink")
   - 色彩設計：澤田豐二
@@ -993,7 +993,7 @@ Ring）後強化的招式。不再用手掌收集精靈力而是改用「光之�
   - 製作擔當：坂井和男
   - 制作協力 ： [東映](../Page/東映.md "wikilink")
   - 制作 ：
-    [ABC](../Page/朝日放送.md "wikilink")、[ADK](../Page/ADK.md "wikilink")、[東映動畫](../Page/東映動畫.md "wikilink")
+    [ABC](../Page/朝日放送.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
 
 ### 主題曲
 
@@ -1067,7 +1067,8 @@ Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小�
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars 系列電影](../Page/光之美少女系列#All_Stars_系列電影.md "wikilink")
+    主條目：[All Stars
+    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
     [光之美少女 All Stars DX
     大家都是朋友☆奇蹟的全員大集合！](../Page/光之美少女_All_Stars_DX_大家都是朋友☆奇蹟的全員大集合！.md "wikilink")
     [光之美少女 All Stars DX2
@@ -1083,9 +1084,9 @@ Clocks）並囚禁了無限時鐘的精靈令所有世界的時間停止，小�
     [光之美少女 All Stars
     春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](../Page/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！.md "wikilink")
+    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
 
 ## 參考文獻
 

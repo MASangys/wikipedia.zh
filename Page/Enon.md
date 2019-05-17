@@ -5,22 +5,26 @@
 ### 專輯
 
   - 1998 *Long Play*
-  - 1999 *[Believo\!](../Page/Believo!.md "wikilink")*
-  - 2002 *[High Society](../Page/High_Society.md "wikilink")*
-  - 2003 *[Hocus Pocus](../Page/Hocus_Pocus.md "wikilink")*
+  - 1999
+    *[Believo\!](https://zh.wikipedia.org/wiki/Believo! "wikilink")*
+  - 2002 *[High
+    Society](https://zh.wikipedia.org/wiki/High_Society "wikilink")*
+  - 2003 *[Hocus
+    Pocus](https://zh.wikipedia.org/wiki/Hocus_Pocus "wikilink")*
   - 2004 *Onhold*
   - 2005 *[Lost Marbles and Exploded
-    Evidence](../Page/Lost_Marbles_and_Exploded_Evidence.md "wikilink")*
+    Evidence](https://zh.wikipedia.org/wiki/Lost_Marbles_and_Exploded_Evidence "wikilink")*
     (+ 數位多功能光碟)
   - 2007 *[Grass Geysers...Carbon
-    Clouds](../Page/Grass_Geysers...Carbon_Clouds.md "wikilink")*
+    Clouds](https://zh.wikipedia.org/wiki/Grass_Geysers...Carbon_Clouds "wikilink")*
 
 ## 其他登場作品
 
 ### 單曲
 
   - 2002 "Drowning Appointment"
-  - 2003 "[In This City](../Page/In_This_City.md "wikilink")"
+  - 2003 "[In This
+    City](https://zh.wikipedia.org/wiki/In_This_City "wikilink")"
   - 2003 "Evidence"
   - 2003 "Because Of You"
   - 2003 "Starcastic"
@@ -29,7 +33,7 @@
 ## 參考來源
 
   - [1](http://www.allmusic.com/artist/enon-p416000)
-    [allmusic](../Page/allmusic.md "wikilink") 历史\]
+    [allmusic](https://zh.wikipedia.org/wiki/allmusic "wikilink") 历史\]
 
 ## 外部連結
 

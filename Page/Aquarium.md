@@ -1,8 +1,8 @@
-**Aquarium**是[丹麥舞曲團體](../Page/丹麥.md "wikilink")[水叮噹的第一張專輯](../Page/水叮噹.md "wikilink")。
+**Aquarium**是[丹麥舞曲團體](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[水叮噹的第一張專輯](../Page/水叮噹.md "wikilink")。
 
 其中包涵了三首曾登上英國排行榜第一的單曲，分別是:「Barbie Girl」、「Doctor Jones」、「Turn Back
 Time」，而「My Oh My」和「Good Morning
-Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](../Page/英國.md "wikilink")。
+Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](https://zh.wikipedia.org/wiki/英國 "wikilink")。
 
 專輯則在發行一個月後造成轟動，許多人爭相搶購，全球銷售量高達1000多萬張，榮登全球專輯排行榜第一。
 
@@ -57,26 +57,26 @@ Sunshine」這兩首歌亦擠進了[英國排行榜的前二十](../Page/英國.
 
 ## 排行榜
 
-|                          電台                          |                      發行商                       | 榜位 |  銷售認證紀錄   |     銷售量     |
-| :--------------------------------------------------: | :--------------------------------------------: | :-: | :-------: | :---------: |
-|                     美國 公告牌二百强专辑榜                     | *[Billboard](../Page/Billboard.md "wikilink")* | 7  |   3x 白金   | 3,000,000+  |
-|                美國 *Billboard* 網路人氣專輯                 |                       82                       |    |           |             |
-|       [澳洲專輯排行榜](../Page/澳洲專輯排行榜.md "wikilink")       |                      ARIA                      | 1  |   6x 白金   |  420,000+   |
-|      [奧地利專輯排行榜](../Page/奧地利專輯排行榜.md "wikilink")      |                                                | 4  |   2x白金    |   80,000+   |
-|       [巴西專輯排行榜](../Page/巴西專輯排行榜.md "wikilink")       |                                                | —  |     金     |   200,000   |
-|      [加拿大專輯排行榜](../Page/加拿大專輯排行榜.md "wikilink")      |      [Jam\!](../Page/Jam!.md "wikilink")       | 1  | 10x 白金(鑚) | 1,000,000+  |
-|       [智利專輯排行榜](../Page/智利專輯排行榜.md "wikilink")       |                                                | 4  |   2x 白金   |   50,000+   |
-|       [德國專輯排行榜](../Page/德國專輯排行榜.md "wikilink")       |                 Media Control                  | 3  |   2x白金    |  1,000,000  |
-| align="left|[法國專輯排行榜](../Page/法國專輯排行榜.md "wikilink") |       [SNEP](../Page/SNEP.md "wikilink")       | 11 |    白金     |   300,000   |
-|       [日本專輯排行榜](../Page/日本專輯排行榜.md "wikilink")       |     [Oricon](../Page/Oricon.md "wikilink")     | 1  |   2x白金    |   700.000   |
-|      [墨西哥專輯排行榜](../Page/墨西哥專輯排行榜.md "wikilink")      |   [AMPROFON](../Page/AMPROFON.md "wikilink")   | 5  |           |             |
-|      [紐西蘭專輯排行榜](../Page/紐西蘭專輯排行榜.md "wikilink")      |                     RIANZ                      | 1  |   5x白金    |  100,000+   |
-|       [挪威專輯排行榜](../Page/挪威專輯排行榜.md "wikilink")       |                                                | 1  |   7x 白金   |  140,000+   |
-|      [西班牙專輯排行榜](../Page/西班牙專輯排行榜.md "wikilink")      | [PROMUSICAE](../Page/PROMUSICAE.md "wikilink") | 1  |   5x 白金   |  500,000+   |
-|       [瑞典專輯排行榜](../Page/瑞典專輯排行榜.md "wikilink")       |        [GLF](../Page/GLF.md "wikilink")        | 1  |   5x 白金   |  200,000+   |
-|       [瑞士專輯排行榜](../Page/瑞士專輯排行榜.md "wikilink")       |                                                | 2  |   4x白金    |  110.000+   |
-|       [英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")       |        [BPI](../Page/BPI.md "wikilink")        | 6  |    白金     |   300,000   |
-|                         世界榜                          |                                                | 1  |   4x白金    | 10,000,000+ |
+|                                   電台                                    |                                發行商                                | 榜位 |  銷售認證紀錄   |     銷售量     |
+| :---------------------------------------------------------------------: | :---------------------------------------------------------------: | :-: | :-------: | :---------: |
+|                              美國 公告牌二百强专辑榜                               | *[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")* | 7  |   3x 白金   | 3,000,000+  |
+|                          美國 *Billboard* 網路人氣專輯                          |                                82                                 |    |           |             |
+|       [澳洲專輯排行榜](https://zh.wikipedia.org/wiki/澳洲專輯排行榜 "wikilink")       |                               ARIA                                | 1  |   6x 白金   |  420,000+   |
+|      [奧地利專輯排行榜](https://zh.wikipedia.org/wiki/奧地利專輯排行榜 "wikilink")      |                                                                   | 4  |   2x白金    |   80,000+   |
+|       [巴西專輯排行榜](https://zh.wikipedia.org/wiki/巴西專輯排行榜 "wikilink")       |                                                                   | —  |     金     |   200,000   |
+|      [加拿大專輯排行榜](https://zh.wikipedia.org/wiki/加拿大專輯排行榜 "wikilink")      |      [Jam\!](https://zh.wikipedia.org/wiki/Jam! "wikilink")       | 1  | 10x 白金(鑚) | 1,000,000+  |
+|       [智利專輯排行榜](https://zh.wikipedia.org/wiki/智利專輯排行榜 "wikilink")       |                                                                   | 4  |   2x 白金   |   50,000+   |
+|       [德國專輯排行榜](https://zh.wikipedia.org/wiki/德國專輯排行榜 "wikilink")       |                           Media Control                           | 3  |   2x白金    |  1,000,000  |
+| align="left|[法國專輯排行榜](https://zh.wikipedia.org/wiki/法國專輯排行榜 "wikilink") |       [SNEP](https://zh.wikipedia.org/wiki/SNEP "wikilink")       | 11 |    白金     |   300,000   |
+|       [日本專輯排行榜](https://zh.wikipedia.org/wiki/日本專輯排行榜 "wikilink")       |              [Oricon](../Page/Oricon.md "wikilink")               | 1  |   2x白金    |   700.000   |
+|      [墨西哥專輯排行榜](https://zh.wikipedia.org/wiki/墨西哥專輯排行榜 "wikilink")      |   [AMPROFON](https://zh.wikipedia.org/wiki/AMPROFON "wikilink")   | 5  |           |             |
+|      [紐西蘭專輯排行榜](https://zh.wikipedia.org/wiki/紐西蘭專輯排行榜 "wikilink")      |                               RIANZ                               | 1  |   5x白金    |  100,000+   |
+|       [挪威專輯排行榜](https://zh.wikipedia.org/wiki/挪威專輯排行榜 "wikilink")       |                                                                   | 1  |   7x 白金   |  140,000+   |
+|      [西班牙專輯排行榜](https://zh.wikipedia.org/wiki/西班牙專輯排行榜 "wikilink")      | [PROMUSICAE](https://zh.wikipedia.org/wiki/PROMUSICAE "wikilink") | 1  |   5x 白金   |  500,000+   |
+|       [瑞典專輯排行榜](https://zh.wikipedia.org/wiki/瑞典專輯排行榜 "wikilink")       |        [GLF](https://zh.wikipedia.org/wiki/GLF "wikilink")        | 1  |   5x 白金   |  200,000+   |
+|       [瑞士專輯排行榜](https://zh.wikipedia.org/wiki/瑞士專輯排行榜 "wikilink")       |                                                                   | 2  |   4x白金    |  110.000+   |
+|                [英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")                 |        [BPI](https://zh.wikipedia.org/wiki/BPI "wikilink")        | 6  |    白金     |   300,000   |
+|                                   世界榜                                   |                                                                   | 1  |   4x白金    | 10,000,000+ |
 
 [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
 [Category:水叮噹專輯](https://zh.wikipedia.org/wiki/Category:水叮噹專輯 "wikilink")

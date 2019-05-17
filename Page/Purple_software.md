@@ -7,7 +7,7 @@ SEASON 2001》到《奏 〜Kanade〜》的企畫、製作由有限公司執行�
 
 品牌名的「Purple」出自《[源氏物語](../Page/源氏物語.md "wikilink")》的[紫之上](../Page/紫之上.md "wikilink")\[1\]。
 
-此外，作為姐妹品牌的，與**Adel**（、[BL品牌](../Page/BL.md "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot的](../Page/ALcot.md "wikilink")《ENGAGE
+此外，作為姐妹品牌的，與**Adel**（、[BL品牌](https://zh.wikipedia.org/wiki/BL "wikilink")），JEWELRY轉移到有限公司，Adel獨立、設立了有限公司。販售彩牙股份有限公司的品牌[ALcot的](../Page/ALcot.md "wikilink")《ENGAGE
 LINKS》。
 
 ## 作品一覧
@@ -145,9 +145,9 @@ LINKS》。
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2007年11月30日</p></td>
-<td><p><strong><a href="../Page/明日の君と逢うために.md" title="wikilink">明日の君と逢うために</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/明日の君と逢うために" title="wikilink">明日の君と逢うために</a></strong></p></td>
 <td></td>
-<td><p><a href="../Page/鏡遊.md" title="wikilink">鏡遊</a>、北川晴</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鏡遊" title="wikilink">鏡遊</a>、北川晴</p></td>
 <td><p>為了見到明天的你</p></td>
 </tr>
 <tr class="odd">
@@ -169,7 +169,7 @@ LINKS》。
 <tr class="odd">
 <td><p>10 FD</p></td>
 <td><p>2008年10月24日</p></td>
-<td><p><strong><a href="../Page/明日の君と逢うために#明日の七海と逢うために.md" title="wikilink">明日の七海と逢うために</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/明日の君と逢うために#明日の七海と逢うために" title="wikilink">明日の七海と逢うために</a></strong></p></td>
 <td><p>まっぴーらっく</p></td>
 <td><p>鏡遊</p></td>
 <td><p>為了見到明天的七海</p></td>
@@ -201,7 +201,7 @@ LINKS》。
 <tr class="odd">
 <td><p>(10)</p></td>
 <td><p>2009年11月27日</p></td>
-<td><p><strong><a href="../Page/明日の君と逢うために#明日の君と逢うために_COMPLETE_BOX.md" title="wikilink">明日の君と逢うために COMPLETE BOX</a></strong>[12]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/明日の君と逢うために#明日の君と逢うために_COMPLETE_BOX" title="wikilink">明日の君と逢うために COMPLETE BOX</a></strong>[12]</p></td>
 <td></td>
 <td></td>
 <td><p>為了見到明天的你 COMPLETE BOX</p></td>
@@ -233,7 +233,7 @@ LINKS》。
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2011年9月2日</p></td>
-<td><p><strong><a href="../Page/未来ノスタルジア.md" title="wikilink">未来ノスタルジア</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/未来ノスタルジア" title="wikilink">未来ノスタルジア</a></strong></p></td>
 <td><p>克、siki</p></td>
 <td><p>鏡遊、tiro</p></td>
 <td><p>未來鄉愁</p></td>
@@ -249,7 +249,7 @@ LINKS》。
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>2013年2月28日</p></td>
-<td><p><strong><a href="../Page/ハピメア.md" title="wikilink">ハピメア</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ハピメア" title="wikilink">ハピメア</a></strong></p></td>
 <td><p>克、月杜尋、こもわた遙華</p></td>
 <td><p>森崎亮人</p></td>
 <td><p>幸福噩夢</p></td>
@@ -257,7 +257,7 @@ LINKS》。
 <tr class="even">
 <td><p>(16)</p></td>
 <td><p>2013年5月31日</p></td>
-<td><p><strong><a href="../Page/未来ノスタルジア.md" title="wikilink">未来ノスタルジア 新装版</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/未来ノスタルジア" title="wikilink">未来ノスタルジア 新装版</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p>未來鄉愁 新裝版</p></td>
@@ -265,7 +265,7 @@ LINKS》。
 <tr class="odd">
 <td><p>18 FD</p></td>
 <td><p>2014年2月28日</p></td>
-<td><p><strong><a href="../Page/ハピメア.md" title="wikilink">ハピメア Fragmentation Dream</a></strong>[14]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ハピメア" title="wikilink">ハピメア Fragmentation Dream</a></strong>[14]</p></td>
 <td><p>克、月杜尋</p></td>
 <td><p>森崎亮人</p></td>
 <td><p>幸福噩夢 Fragmentation Dream</p></td>
@@ -281,7 +281,7 @@ LINKS》。
 <tr class="odd">
 <td><p>(18)</p></td>
 <td><p>2015年7月24日</p></td>
-<td><p><strong><a href="../Page/ハピメア.md" title="wikilink">ハピメア Wパック</a></strong>[15]</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/ハピメア" title="wikilink">ハピメア Wパック</a></strong>[15]</p></td>
 <td><p>森崎亮人</p></td>
 <td></td>
 <td></td>
@@ -340,8 +340,8 @@ LINKS》。
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2011年2月25日</p></td>
-<td><p><strong><a href="../Page/猫撫ディストーション.md" title="wikilink">猫撫ディストーション</a></strong></p></td>
-<td><p>、、<a href="../Page/みやま零.md" title="wikilink">みやま零</a></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/猫撫ディストーション" title="wikilink">猫撫ディストーション</a></strong></p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/みやま零" title="wikilink">みやま零</a></p></td>
 <td><p>藤木隻、</p></td>
 <td><p>貓撫歪曲</p></td>
 </tr>
@@ -356,7 +356,7 @@ LINKS》。
 <tr class="even">
 <td><p>2 FD1</p></td>
 <td><p>2012年2月24日</p></td>
-<td><p><strong><a href="../Page/猫撫ディストーション_Exodus.md" title="wikilink">猫撫ディストーション Exodus</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/猫撫ディストーション_Exodus" title="wikilink">猫撫ディストーション Exodus</a></strong></p></td>
 <td><p>ミヤスリサ、月音、みやま零</p></td>
 <td><p>藤木隻、元長柾木</p></td>
 <td><p>貓撫歪曲Exodus</p></td>
@@ -396,7 +396,7 @@ LINKS》。
 <tr class="odd">
 <td><p>2 FD2</p></td>
 <td><p>2015年5月29日</p></td>
-<td><p><strong><a href="../Page/猫撫ディストーション_恋愛事象のデッドエンド.md" title="wikilink">猫撫ディストーション 恋愛事象のデッドエンド</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/猫撫ディストーション_恋愛事象のデッドエンド" title="wikilink">猫撫ディストーション 恋愛事象のデッドエンド</a></strong></p></td>
 <td><p>松島詩史</p></td>
 <td><p>貓撫歪曲·戀愛現象的死胡同</p></td>
 <td></td>
@@ -444,7 +444,7 @@ LINKS》。
 
 ####
 
-[BL遊戲品牌](../Page/BL.md "wikilink")。
+[BL遊戲品牌](https://zh.wikipedia.org/wiki/BL "wikilink")。
 
   - 2001年9月28日 - ESCAPE
 
@@ -459,7 +459,7 @@ LINKS》。
 
 <!-- end list -->
 
-  - [zinno](../Page/zinno.md "wikilink")
+  - [zinno](https://zh.wikipedia.org/wiki/zinno "wikilink")
 
   - （在職中逝去）
 
@@ -501,9 +501,11 @@ LINKS》。
 <!-- end list -->
 
   - [橋本みゆき](../Page/橋本美雪.md "wikilink") - 歌手，負責《》以後的主題曲（《》、《》除外）
-  - [Rita](../Page/Rita.md "wikilink") - 歌手、聲優，負責《》、《》的主題曲
-  - [浅葉リオ](../Page/浅葉リオ.md "wikilink") - 歌手，負責《》以後的片尾曲
-  - [齋藤悠彌](../Page/齋藤悠彌.md "wikilink") - 作曲家
+  - [Rita](https://zh.wikipedia.org/wiki/Rita "wikilink") -
+    歌手、聲優，負責《》、《》的主題曲
+  - [浅葉リオ](https://zh.wikipedia.org/wiki/浅葉リオ "wikilink") -
+    歌手，負責《》以後的片尾曲
+  - [齋藤悠彌](https://zh.wikipedia.org/wiki/齋藤悠彌 "wikilink") - 作曲家
       - Purple software - 負責《》以後的片尾曲、《》的主題曲
       - WHITESOFT - 負責《》的主題曲、《》的主題曲
   - [藤田淳平](../Page/藤田淳平.md "wikilink") - [Elements
@@ -518,7 +520,8 @@ LINKS》。
 
   - みやび - 廣報。2007年12月退社。
 
-  - \- 劇本 <small>退職後轉到[Rosebleu](../Page/Rosebleu.md "wikilink")</small>
+  - \- 劇本
+    <small>退職後轉到[Rosebleu](https://zh.wikipedia.org/wiki/Rosebleu "wikilink")</small>
 
 ## 備註
 
@@ -533,7 +536,8 @@ LINKS》。
   -
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
-1.  『[PC Angel](../Page/PC_Angel_neo.md "wikilink")』1998年11月號
+1.  『[PC
+    Angel](https://zh.wikipedia.org/wiki/PC_Angel_neo "wikilink")』1998年11月號
 
 2.  製作：Silver有限公司
 

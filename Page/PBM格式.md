@@ -1,11 +1,11 @@
-**可移植像素图格式**（PPM），**可移植灰度图格式**（PGM）和**可移植位图格式**（PBM）是便于[跨平台的](../Page/跨平台.md "wikilink")[图像格式](../Page/图像格式.md "wikilink")。有时候也被统称为[PNM格式](../Page/PNM格式.md "wikilink")\[1\]。
+**可移植像素图格式**（PPM），**可移植灰度图格式**（PGM）和**可移植位图格式**（PBM）是便于[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[图像格式](https://zh.wikipedia.org/wiki/图像格式 "wikilink")。有时候也被统称为[PNM格式](https://zh.wikipedia.org/wiki/PNM格式 "wikilink")\[1\]。
 
 ## 历史
 
 PBM格式由Jef
-Poskanzer在20世纪80年代发明，为了便于通过[电子邮件](../Page/电子邮件.md "wikilink")，用[ASCII码表示单色](../Page/ASCII码.md "wikilink")[位图](../Page/位图.md "wikilink")，能够承受一般的[文本格式的变动](../Page/文本格式.md "wikilink")。
+Poskanzer在20世纪80年代发明，为了便于通过[电子邮件](../Page/电子邮件.md "wikilink")，用[ASCII码表示单色](https://zh.wikipedia.org/wiki/ASCII码 "wikilink")[位图](../Page/位图.md "wikilink")，能够承受一般的[文本格式的变动](https://zh.wikipedia.org/wiki/文本格式 "wikilink")。
 
-第一个处理PBM格式的工具库是[Pbmplus](../Page/Pbmplus.md "wikilink")。它由这个格式的发明人Jef
+第一个处理PBM格式的工具库是[Pbmplus](https://zh.wikipedia.org/wiki/Pbmplus "wikilink")。它由这个格式的发明人Jef
 Poskanzer开发，在1988年发布。主要包含Jef编写的将PBM转化为已存在的其他图像格式的工具。在1988年末，Jef开发出PGM、PPM格式以及相关工具，并加入Pbmplus中。Pbmplus的最终发布日期是1991年12月10日。
 
 在1993年，Netpbm库开始开发，用来替代不再维护的Pbmplus。它是Pbmplus的简单的重新包装，附加全世界开发者提供的额外功能和修订，可能是目前用的最普遍的处理PBM、PGM和PPM格式的工具库。\[2\]

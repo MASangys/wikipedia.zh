@@ -1,14 +1,14 @@
 **Akdal MKA 1919**是一種由[土耳其Akdal](../Page/土耳其.md "wikilink")
-Arms製造和生產的[氣動式半自動](../Page/氣動式.md "wikilink")[霰彈槍](../Page/霰彈槍.md "wikilink")，其外型是仿自[美國的](../Page/美國.md "wikilink")[M16A2自動步槍](../Page/M16突擊步槍.md "wikilink")，並以打入本土的執法部門或民用市場為目標。有別於一般的霰彈槍，它經過[人體工學設計](../Page/人體工學.md "wikilink")，槍身是採用現代的塑料和聚合物做成，因此相當輕巧。
+Arms製造和生產的[氣動式半自動](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，其外型是仿自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[M16A2自動步槍](../Page/M16突擊步槍.md "wikilink")，並以打入本土的執法部門或民用市場為目標。有別於一般的霰彈槍，它經過[人體工學設計](https://zh.wikipedia.org/wiki/人體工學 "wikilink")，槍身是採用現代的塑料和聚合物做成，因此相當輕巧。
 
 ## 設計
 
 Akdal MKA
-1919採用氣動式運作，配可裝5發霰彈的可拆式[彈匣](../Page/彈匣.md "wikilink")，彈匣釋放鈕、射擊選擇鈕、護木等與M16A2的非常相似，但[機匣較長](../Page/機匣.md "wikilink")，[槍托並非和M](../Page/槍托.md "wikilink")16般使用直托設計，直接連至槍機，並改為配類似M16A4的可拆式提把，因此它也可通過導軌加裝各種瞄準具。
+1919採用氣動式運作，配可裝5發霰彈的可拆式[彈匣](../Page/彈匣.md "wikilink")，彈匣釋放鈕、射擊選擇鈕、護木等與M16A2的非常相似，但[機匣較長](https://zh.wikipedia.org/wiki/機匣 "wikilink")，[槍托並非和M](../Page/槍托.md "wikilink")16般使用直托設計，直接連至槍機，並改為配類似M16A4的可拆式提把，因此它也可通過導軌加裝各種瞄準具。
 
 ## 使用國
 
-  - ：被[土耳其陸軍所採用](../Page/土耳其军事.md "wikilink")。
+  - ：被[土耳其陸軍所採用](https://zh.wikipedia.org/wiki/土耳其军事 "wikilink")。
 
 ## 參考文獻
 

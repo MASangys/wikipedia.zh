@@ -1,6 +1,6 @@
 **angela**為[日本的二人樂隊組合](../Page/日本.md "wikilink")，由atsuko和KATSU組成。隸屬於music
 wonder circus、[KING records](../Page/國王唱片.md "wikilink")（[STAR
-CHILD](../Page/STAR_CHILD.md "wikilink")）。以演唱動畫歌曲知名。
+CHILD](https://zh.wikipedia.org/wiki/STAR_CHILD "wikilink")）。以演唱動畫歌曲知名。
 
 ## 概要
 
@@ -16,7 +16,7 @@ CHILD](../Page/STAR_CHILD.md "wikilink")）。以演唱動畫歌曲知名。
 
   -
     本名：山下 敦子（やました あつこ）
-    擔任：[主唱](../Page/主唱.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
+    擔任：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")
     出生：
     出生地：[岡山市](../Page/岡山市.md "wikilink")（[西大寺](../Page/岡山市.md "wikilink")）
 
@@ -31,7 +31,7 @@ CHILD](../Page/STAR_CHILD.md "wikilink")）。以演唱動畫歌曲知名。
     擔任：作曲、編曲、[電子琴](../Page/電子琴.md "wikilink")、[吉他](../Page/吉他.md "wikilink")
     出生：
     出生地：岡山市
-    在見面會等活動經常使用「[吉翁萬歲！](../Page/機動戰士鋼彈.md "wikilink")」或「[由衣萬歲！](../Page/堀江由衣.md "wikilink")」等呼聲，近年來已經成習慣。
+    在見面會等活動經常使用「[吉翁萬歲！](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")」或「[由衣萬歲！](../Page/堀江由衣.md "wikilink")」等呼聲，近年來已經成習慣。
 
   - 支援成員（錄音時為別的成員）
 
@@ -52,7 +52,8 @@ CHILD](../Page/STAR_CHILD.md "wikilink")）。以演唱動畫歌曲知名。
 <!-- end list -->
 
   -
-    本名：染川 裕紀（somekawa yuuki） / 擔任：[貝斯](../Page/貝斯.md "wikilink") /
+    本名：染川 裕紀（somekawa yuuki） /
+    擔任：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink") /
     誕生日：12月2日
 
 <!-- end list -->
@@ -79,13 +80,13 @@ CHILD](../Page/STAR_CHILD.md "wikilink")）。以演唱動畫歌曲知名。
   - 2005年：在[SHIBUYA-AX進行全曲演唱會](../Page/SHIBUYA-AX.md "wikilink")。
       - 在活動「SAKURA-CON」或「CANADIAN NATIONAL EXPO」中演出。
       - 專輯「I/O」也在全美發售。
-      - 在[愛·地球博的](../Page/2005年日本國際博覽會.md "wikilink")「東海Radio Special
-        "WE LOVE THE EARTH"」中演出。
+      - 在[愛·地球博的](https://zh.wikipedia.org/wiki/2005年日本國際博覽會 "wikilink")「東海Radio
+        Special "WE LOVE THE EARTH"」中演出。
   - 2006年：專輯「PRHYTHM」在Oricon初登場獲得第10名。這張專輯也在全美發售。
-      - 以[NHK-FM頻率](../Page/NHK-FM頻率.md "wikilink")「[今日は一日“アニソン”三昧](../Page/今日は一日○○三昧.md "wikilink")」節目第一次在NHK演出。
-  - 2007年：在[鈴鹿賽道進行的](../Page/鈴鹿賽道.md "wikilink")“[可口可樂Zero](../Page/可口可樂Zero.md "wikilink")”鈴鹿8小時持久越野賽30回大會」中進行迷你演唱會。並且在這場大會的前夜祭中，atsuko和大家一起唱了[國歌](../Page/國歌.md "wikilink")。
-      - 在[東京厚生年金會館舉辦的](../Page/東京厚生年金會館.md "wikilink")「Music Wonder
-        大馬戲團・Treasure
+      - 以[NHK-FM頻率](../Page/NHK-FM頻率.md "wikilink")「[今日は一日“アニソン”三昧](https://zh.wikipedia.org/wiki/今日は一日○○三昧 "wikilink")」節目第一次在NHK演出。
+  - 2007年：在[鈴鹿賽道進行的](https://zh.wikipedia.org/wiki/鈴鹿賽道 "wikilink")“[可口可樂Zero](https://zh.wikipedia.org/wiki/可口可樂Zero "wikilink")”鈴鹿8小時持久越野賽30回大會」中進行迷你演唱會。並且在這場大會的前夜祭中，atsuko和大家一起唱了[國歌](https://zh.wikipedia.org/wiki/國歌 "wikilink")。
+      - 在[東京厚生年金會館舉辦的](https://zh.wikipedia.org/wiki/東京厚生年金會館 "wikilink")「Music
+        Wonder 大馬戲團・Treasure
         Hunter」活動中，atsuko發表了已經在夏天結婚了的消息。**對象不是KATSU。**
   - 2008年：以事務所後輩樂團（的設定）-「Domestic♥Love Band（DoMeLoBa）」的名義發行了專輯「TRASH
     BOX」出道。將angela歌曲重新編成龐克搖滾風。
@@ -322,11 +323,11 @@ KICM-1854（動畫盤）</p></td>
 
 ### 合作單曲
 
-| 編號  | 發售日         | 標題                                                                    | 規格編號                             | Oricon周榜最高位 |
-| --- | ----------- | --------------------------------------------------------------------- | -------------------------------- | ----------- |
-| 1st | 2014年7月23日  | **キラキラ-go-round（angela Presents/[中川翔子](../Page/中川翔子.md "wikilink")）** | KICS-3279                        | 46位         |
-| 2nd | 2016年10月19日 | **僕は僕であって（angela×[fripSide](../Page/fripSide.md "wikilink")）**        | KICM-91710（期間限定盤）、KICM-1711（通常盤） | 14位         |
-| 3rd | 2016年12月7日  | **The end of escape（fripSide×angela）**                                | GNCA-0461（期間限定盤）、GNCA-0462（通常盤）  | 19位         |
+| 編號  | 發售日         | 標題                                                                                | 規格編號                             | Oricon周榜最高位 |
+| --- | ----------- | --------------------------------------------------------------------------------- | -------------------------------- | ----------- |
+| 1st | 2014年7月23日  | **キラキラ-go-round（angela Presents/[中川翔子](../Page/中川翔子.md "wikilink")）**             | KICS-3279                        | 46位         |
+| 2nd | 2016年10月19日 | **僕は僕であって（angela×[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")）** | KICM-91710（期間限定盤）、KICM-1711（通常盤） | 14位         |
+| 3rd | 2016年12月7日  | **The end of escape（fripSide×angela）**                                            | GNCA-0461（期間限定盤）、GNCA-0462（通常盤）  | 19位         |
 
 ### 原創專輯
 
@@ -691,7 +692,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>brilliant road</p></td>
-<td><p><a href="../Page/電視動畫.md" title="wikilink">電視動畫</a>《宇宙星路》片頭曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電視動畫" title="wikilink">電視動畫</a>《宇宙星路》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -711,7 +712,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>merry-go-round</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>《<a href="../Page/開運!なんでも鑑定団.md" title="wikilink">開運!なんでも鑑定団</a>》片尾曲</p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>《<a href="https://zh.wikipedia.org/wiki/開運!なんでも鑑定団" title="wikilink">開運!なんでも鑑定団</a>》片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>butterfly</p></td>
@@ -795,7 +796,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>東京電視台<a href="../Page/特攝片.md" title="wikilink">特攝片</a>《<a href="../Page/獅子丸G.md" title="wikilink">獅子丸G</a>》第1、2話片尾曲</p></td>
+<td><p>東京電視台<a href="../Page/特攝片.md" title="wikilink">特攝片</a>《<a href="https://zh.wikipedia.org/wiki/獅子丸G" title="wikilink">獅子丸G</a>》第1、2話片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -855,11 +856,11 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Spiral</p></td>
-<td><p>電視動畫《<a href="../Page/機巧魔神.md" title="wikilink">機巧魔神</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/機巧魔神" title="wikilink">機巧魔神</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>Link</p></td>
-<td><p>電視動畫《<a href="../Page/機巧魔神.md" title="wikilink">機巧魔神</a>》片尾曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/機巧魔神" title="wikilink">機巧魔神</a>》片尾曲</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -987,7 +988,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>電視動畫《<a href="../Page/銀河騎士傳.md" title="wikilink">銀河騎士傳</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/銀河騎士傳" title="wikilink">銀河騎士傳</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>This is LOVE</p></td>
@@ -1023,7 +1024,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視動畫《<a href="../Page/銀河騎士傳.md" title="wikilink">銀河騎士傳 第九行星戰役</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/銀河騎士傳" title="wikilink">銀河騎士傳 第九行星戰役</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>DEAD OR ALIVE</p></td>
@@ -1047,7 +1048,7 @@ KICM-1854（動畫盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Calling you</p></td>
-<td><p>動畫電影《<a href="../Page/BLAME!.md" title="wikilink">BLAME!</a>》主題曲</p></td>
+<td><p>動畫電影《<a href="https://zh.wikipedia.org/wiki/BLAME!" title="wikilink">BLAME!</a>》主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>全力☆Summer!</p></td>
@@ -1110,7 +1111,7 @@ KICM-1854（動畫盤）</p></td>
 <!-- end list -->
 
   - angela的sparking\!talking\!show\!
-  - 長澤奈央とangelaのオラ\!ラジ〜オ\!（[文化放送](../Page/文化放送.md "wikilink")・ラジオ関西／已結束）
+  - 長澤奈央とangelaのオラ\!ラジ〜オ\!（[文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")・ラジオ関西／已結束）
   - angelaのラジオdeぢぇらすGO\!\!（已結束）
   - angelaのキャララジオ 〜案ずるよりangela♪〜（已結束）
 
@@ -1121,10 +1122,11 @@ KICM-1854（動畫盤）</p></td>
 <!-- end list -->
 
   - アニソンぷらす+（[東京電視台](../Page/東京電視台.md "wikilink")）
-  - [音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")（東京電視台）
+  - [音流〜On
+    Ryu〜](https://zh.wikipedia.org/wiki/音流〜On_Ryu〜 "wikilink")（東京電視台）
   - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](../Page/NHK.md "wikilink")）
-  - [アニメTV](../Page/アニメTV.md "wikilink")（[tvk其他](../Page/神奈川電視台.md "wikilink")）
+    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
+  - [アニメTV](https://zh.wikipedia.org/wiki/アニメTV "wikilink")（[tvk其他](../Page/神奈川電視台.md "wikilink")）
 
 ## 脚注
 

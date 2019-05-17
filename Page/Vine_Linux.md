@@ -1,12 +1,13 @@
 **Vine Linux**是一套集成了日语环境，基于[Red
-Hat的Linux发行套件](../Page/Red_Hat.md "wikilink")。适用于基于x86、x86-64、PowerPC的桌面个人电脑和笔记本电脑。
+Hat的Linux发行套件](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")。适用于基于x86、x86-64、PowerPC的桌面个人电脑和笔记本电脑。
 
 Vine Linux的开发项目是于1998年，由（日语扩展计划）的六位成员所创立的。
 
-Vine Linux的开发版叫[Vine Seed](../Page/Vine_Seed.md "wikilink")，面向公众开放。
+Vine Linux的开发版叫[Vine
+Seed](https://zh.wikipedia.org/wiki/Vine_Seed "wikilink")，面向公众开放。
 
 Vine
-Linux中的大多数应用程序都能支持[Kanji字典](../Page/Kanji.md "wikilink")。[FreeWnn或者](../Page/FreeWnn.md "wikilink")[Canna输入服务器来提供日语输入的支持](../Page/Canna.md "wikilink")。
+Linux中的大多数应用程序都能支持[Kanji字典](https://zh.wikipedia.org/wiki/Kanji "wikilink")。[FreeWnn或者](https://zh.wikipedia.org/wiki/FreeWnn "wikilink")[Canna输入服务器来提供日语输入的支持](https://zh.wikipedia.org/wiki/Canna "wikilink")。
 
 ## 历史
 
@@ -34,7 +35,7 @@ Linux](../Page/Red_Hat_Linux.md "wikilink")，转向独立开发。
   - 2002年4月15日 - Vine Linux 2.5 发布
   - 2002年10月25日 - Vine Linux 2.6 发布
   - 2002年10月28日 - Vine Linux 2.6r1
-    发布：针对[Webmin软件包安全漏洞的改良版本](../Page/Webmin.md "wikilink")\[5\]；最后一个对应DEC
+    发布：针对[Webmin软件包安全漏洞的改良版本](https://zh.wikipedia.org/wiki/Webmin "wikilink")\[5\]；最后一个对应DEC
     Alpha的版本。
   - 2003年12月5日 - Vine Linux 2.6r3 发布
   - 2004年2月10日 - Vine Linux 2.6r4 发布
@@ -56,7 +57,7 @@ Linux](../Page/Red_Hat_Linux.md "wikilink")，转向独立开发。
 Vine Linux各主要版本以代号表示，附加软件包和服务支持期限等信息，VinePlus的部分也按此规则编写。
 
 以下这个部分的信息按照代号来进行分类。除此之外的详细信息，请参考[Vine
-Linux\#历史中对应的部分](../Page/Vine_Linux#历史.md "wikilink")。
+Linux\#历史中对应的部分](https://zh.wikipedia.org/wiki/Vine_Linux#历史 "wikilink")。
 
 | 颜色 | 含义        |
 | -- | --------- |
@@ -98,7 +99,7 @@ Vine Linux的发布历史
 ## 参见
 
   - [Linux发行版列表](../Page/Linux发行版列表.md "wikilink")
-  - [Linux套件比較](../Page/Linux套件比較.md "wikilink")
+  - [Linux套件比較](https://zh.wikipedia.org/wiki/Linux套件比較 "wikilink")
 
 {{-}}
 

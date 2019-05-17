@@ -1,8 +1,8 @@
-《**魔法戰記奈葉Force**》（[日語](../Page/日語.md "wikilink")：），是[魔法少女奈葉系列第](../Page/魔法少女奈葉系列.md "wikilink")4期計畫的一部分，與《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](../Page/漫畫.md "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[緋賀由香理](../Page/緋賀由香理.md "wikilink")，2009年4月30日起在《[娘TYPE](../Page/娘TYPE.md "wikilink")》連載。\[1\][台灣角川於](../Page/台灣角川.md "wikilink")2013年1月22日公告取得授權發行中文版。\[2\]现宣布自2013年11月号开始长期休刊。
+《**魔法戰記奈葉Force**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[魔法少女奈葉系列第](../Page/魔法少女奈葉系列.md "wikilink")4期計畫的一部分，與《[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")》一樣均為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原作為[都築真紀](../Page/都築真紀.md "wikilink")，作画為[緋賀由香理](../Page/緋賀由香理.md "wikilink")，2009年4月30日起在《[娘TYPE](../Page/娘TYPE.md "wikilink")》連載。\[1\][台灣角川於](../Page/台灣角川.md "wikilink")2013年1月22日公告取得授權發行中文版。\[2\]现宣布自2013年11月号开始长期休刊。
 
 ## 概要
 
-本作是[魔法少女奈葉系列首次以男性角色為主角的作品](../Page/魔法少女奈葉系列.md "wikilink")。背景設在新曆81年（即[StrikerS的JS事件的](../Page/魔法少女奈葉StrikerS.md "wikilink")6年之後，[Soundstage
+本作是[魔法少女奈葉系列首次以男性角色為主角的作品](../Page/魔法少女奈葉系列.md "wikilink")。背景設在新曆81年（即[StrikerS的JS事件的](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")6年之後，[Soundstage
 X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")3年之後），獨自一人周遊世界的男主角**托瑪·阿凡尼爾**，在遺跡中與謎一般的少女**莉莉·修特羅傑克**相遇，之後二人又與**艾希絲·伊古雷特**偶然相遇；托瑪被卷入了包括「銀十字之書」和「蝕」在內的連串不幸的事件中……
 
 ## 登場角色
@@ -25,16 +25,16 @@ X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")
   - [高町奈葉](../Page/高町奈葉.md "wikilink")
     菲特和疾風的好友，時空管理局航空戰技教導隊成員。25歲。
 
-  - [菲特·T·哈洛溫](../Page/菲特·T·哈洛溫.md "wikilink")
+  - [菲特·T·哈洛溫](https://zh.wikipedia.org/wiki/菲特·T·哈洛溫 "wikilink")
     奈葉和疾風的好友，時空管理局執行官。25歲。一開始就與緹亞娜一起調查相關事件。
 
-  - [八神疾風](../Page/八神疾風.md "wikilink")
+  - [八神疾風](https://zh.wikipedia.org/wiki/八神疾風 "wikilink")
     奈葉和菲特的好友，時空管理局搜查司令。25歲。為了調查此次事件親臨一線進行指揮。
 
-  - [昴·中島](../Page/昴·中島.md "wikilink")
+  - [昴·中島](https://zh.wikipedia.org/wiki/昴·中島 "wikilink")
     奈葉的學生，特別救助隊的救助遊騎兵，21歲。
 
-  - [緹亞娜·蘭斯特](../Page/緹亞娜·蘭斯特.md "wikilink")
+  - [緹亞娜·蘭斯特](https://zh.wikipedia.org/wiki/緹亞娜·蘭斯特 "wikilink")
     奈葉的學生，時空管理局執行官。一開始就與菲特一起調查相關事件，22歲。
 
   - 艾力歐·蒙迪爾
@@ -43,13 +43,13 @@ X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")
   - 凱珞·露·露茜
     菲特的學生，邊境自然保護隊成員，16歲。
 
-  - [席格娜](../Page/守護騎士#席格娜.md "wikilink")
+  - [席格娜](https://zh.wikipedia.org/wiki/守護騎士#席格娜 "wikilink")
     守護騎士之一，時空管理局航空隊成員，一等空尉。
 
   - 阿基特
     席格娜的搭檔，時空管理局航空隊成員，一等空士。
 
-  - [薇塔](../Page/守護騎士#薇塔.md "wikilink")
+  - [薇塔](https://zh.wikipedia.org/wiki/守護騎士#薇塔 "wikilink")
     守護騎士之一。奈葉的搭檔，時空管理局航空戰技教導隊成員。
 
   - 高町薇薇歐
@@ -72,7 +72,7 @@ X的瑪麗亞治事件的](../Page/魔法少女奈葉_Sound_Stage.md "wikilink")
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
 </tr>
 <tr class="even">
@@ -126,7 +126,7 @@ ISBN 978-4-04-1205983</p></td>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
-<td><p><a href="../Page/ISBN.md" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第1卷</p></td>

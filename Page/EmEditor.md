@@ -1,4 +1,4 @@
-**EmEditor**是江村軟體公司（Emurasoft，坐落于[美國](../Page/美國.md "wikilink")[華盛頓州](../Page/華盛頓州.md "wikilink")\[1\]）所開發的一款在[Windows平台上運行的](../Page/Windows.md "wikilink")[文字編輯程式](../Page/文字編輯程式.md "wikilink")。EmEditor以運作輕巧、敏捷而又功能強大、豐富著稱而得到許多用戶的好評。Windows內建的[記事本程式由於功能太過單薄](../Page/記事本.md "wikilink")，所以有不少高级用戶直接以EmEditor等第三方文字編輯程式取代。
+**EmEditor**是江村軟體公司（Emurasoft，坐落于[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")\[1\]）所開發的一款在[Windows平台上運行的](https://zh.wikipedia.org/wiki/Windows "wikilink")[文字編輯程式](https://zh.wikipedia.org/wiki/文字編輯程式 "wikilink")。EmEditor以運作輕巧、敏捷而又功能強大、豐富著稱而得到許多用戶的好評。Windows內建的[記事本程式由於功能太過單薄](../Page/記事本.md "wikilink")，所以有不少高级用戶直接以EmEditor等第三方文字編輯程式取代。
 
 EmEditor的發行最早始於1997年，迄今仍在持續發展中。自16.6版起，大幅提高了「移除新行」，「全部取代」，「合併
 CSV」，「移除換行符號」以及「插入換行符號」等功能操作的速度\[2\]\[3\]。
@@ -6,14 +6,14 @@ CSV」，「移除換行符號」以及「插入換行符號」等功能操作�
 ## 主要功能
 
   - 支援超大檔案
-  - 支援[外掛程式](../Page/外掛程式.md "wikilink")
+  - 支援[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")
   - 支援[正则表达式](../Page/正则表达式.md "wikilink")
   - 支援書籤功能
   - 支援篩選功能
   - 索引標籤式設計
   - 可編輯的巨集​​
   - 大綱顯示功能
-  - 支援[萬國碼](../Page/萬國碼.md "wikilink")
+  - 支援[萬國碼](https://zh.wikipedia.org/wiki/萬國碼 "wikilink")
   - 支援CSV、TSV格式編輯
   - 自動標記功能
   - 批次取代功能

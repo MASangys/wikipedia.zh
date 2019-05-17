@@ -1,5 +1,5 @@
-《****》（**BALLAD～無名戀歌～**）是[中国](../Page/中国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本发行的第十张](../Page/日本.md "wikilink")[单曲](../Page/单曲.md "wikilink")。是继《》和《》作为电影的主题曲后，再次用同名电影的名稱推出專輯。该片改编自[蜡笔小新](../Page/蜡笔小新.md "wikilink")2002年剧场版动画《[風起雲湧
-壯烈！戰國大會戰](../Page/蠟筆小新：風起雲湧_壯烈！戰國大會戰.md "wikilink")》，由[草彅剛和](../Page/草彅剛.md "wikilink")[新垣结衣主演](../Page/新垣结衣.md "wikilink")，于2009年9月5日全[日本公映](../Page/日本.md "wikilink")。
+《****》（**BALLAD～無名戀歌～**）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛以](../Page/阿兰·达瓦卓玛.md "wikilink")**alan**之名在[日本发行的第十张](../Page/日本.md "wikilink")[单曲](../Page/单曲.md "wikilink")。是继《》和《》作为电影的主题曲后，再次用同名电影的名稱推出專輯。该片改编自[蜡笔小新](../Page/蜡笔小新.md "wikilink")2002年剧场版动画《[風起雲湧
+壯烈！戰國大會戰](https://zh.wikipedia.org/wiki/蠟筆小新：風起雲湧_壯烈！戰國大會戰 "wikilink")》，由[草彅剛和](../Page/草彅剛.md "wikilink")[新垣结衣主演](https://zh.wikipedia.org/wiki/新垣结衣 "wikilink")，于2009年9月5日全[日本公映](../Page/日本.md "wikilink")。
 
 ## 公信榜销售情况
 
@@ -26,7 +26,7 @@
 
 2.  (2009 ver.)（幸福的钟声 (2009 ver.)）
 
-      - 作词：[御徒町凧](../Page/御徒町凧.md "wikilink")　作曲：菊池一仁　编曲：tasuku
+      - 作词：[御徒町凧](https://zh.wikipedia.org/wiki/御徒町凧 "wikilink")　作曲：菊池一仁　编曲：tasuku
 
 3.  (Instrumental)
 

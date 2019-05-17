@@ -11,14 +11,16 @@ ClickOnce程序可以从程序的更新位置检查是否有更新版本，并�
 ## 支持
 
 在[集成开发环境方面](../Page/集成开发环境.md "wikilink")，[Visual
-Studio](../Page/Visual_Studio.md "wikilink") 2005版本起支持将[Windows
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
+2005版本起支持将[Windows
 Forms应用程序以ClickOnce方式发布](../Page/Windows_Forms.md "wikilink")\[3\]（Visual
-C++应用程序除外\[4\]）。[Visual Studio](../Page/Visual_Studio.md "wikilink")
+C++应用程序除外\[4\]）。[Visual
+Studio](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
 2008版本起支持将[Windows Presentation
 Foundation应用程序以ClickOnce方式发布](../Page/Windows_Presentation_Foundation.md "wikilink")\[5\]。
 
 在浏览器方面，[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")6及更高版本支持从链接启动ClickOnce程序。[FireFox并不内建对ClickOnce的支持](../Page/FireFox.md "wikilink")，不过可以通过安装一些插件来支持ClickOnce\[6\]。.Net框架3.5
+Explorer](../Page/Internet_Explorer.md "wikilink")6及更高版本支持从链接启动ClickOnce程序。[FireFox并不内建对ClickOnce的支持](https://zh.wikipedia.org/wiki/FireFox "wikilink")，不过可以通过安装一些插件来支持ClickOnce\[6\]。.Net框架3.5
 SP1版本中附带一个用于支持ClickOnce的Firefox插件Microsoft .NET Framework
 Assistant。\[7\]而在2009年10月16日，Mozilla在得到微軟同意的情況下，因安全性的問題而把附加元件Microsoft
 .NET Framework Assistant和外掛程式Windows Presentation

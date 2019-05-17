@@ -1,4 +1,4 @@
-《**Dream**》（）是[韓國](../Page/韓國.md "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年7月27日起播放的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")。
+《**Dream**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2009年7月27日起播放的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")。
 
 ## 演員陣容
 
@@ -18,24 +18,25 @@
 
   - [朱利安·姜](../Page/朱利安·姜.md "wikilink")
   - [顯祐](../Page/顯祐.md "wikilink")
-  - [青林](../Page/青林.md "wikilink")
-  - [Marco](../Page/Marco_\(韓國演員\).md "wikilink") 飾 Apollo
+  - [青林](https://zh.wikipedia.org/wiki/青林 "wikilink")
+  - [Marco](https://zh.wikipedia.org/wiki/Marco_\(韓國演員\) "wikilink") 飾
+    Apollo
 
 ### 其他人物
 
-  - [吳達庶](../Page/吳達庶.md "wikilink") 飾 李永出
+  - [吳達庶](https://zh.wikipedia.org/wiki/吳達庶 "wikilink") 飾 李永出
   - [李基英](../Page/李基英.md "wikilink") 飾 朴丙森
-  - [金　雄](../Page/金雄_\(演員\).md "wikilink") 飾
+  - [金　雄](https://zh.wikipedia.org/wiki/金雄_\(演員\) "wikilink") 飾
     孟道必（粵語配音：[伍博民](../Page/伍博民.md "wikilink")）
-  - [柳演錫](../Page/柳演錫.md "wikilink") 飾 盧哲中
+  - [柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink") 飾 盧哲中
   - [李雅賢](../Page/李雅賢.md "wikilink") 飾 鄭琴子
   - [高昌錫](../Page/高昌錫.md "wikilink") 飾 培代
   - [洪雅凜](../Page/洪雅凜.md "wikilink") 飾 宋宥利
   - [李昭正](../Page/李昭正.md "wikilink") 飾 潔西卡
   - [李　勳](../Page/李勳.md "wikilink") 飾
-    朴正哲（粵語配音：[陳欣](../Page/陳欣.md "wikilink")）
+    朴正哲（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
   - [趙在允](../Page/趙在允.md "wikilink") 飾 刀魚
-  - [延政勳](../Page/延政勳.md "wikilink") 飾 姜基昌
+  - [延政勳](https://zh.wikipedia.org/wiki/延政勳 "wikilink") 飾 姜基昌
   - [鄭殷杓](../Page/鄭殷杓.md "wikilink") 飾 朱記者
   - [孫汝恩](../Page/孫汝恩.md "wikilink") 飾 孫汝真
 

@@ -1,4 +1,4 @@
-這是一個**iPod型號列表**。[IPod分為](../Page/IPod.md "wikilink")5個系列:[Classic](../Page/iPod_classic.md "wikilink")、[Mini](../Page/iPod_Mini.md "wikilink")、[Nano](../Page/iPod_nano.md "wikilink")、[Shuffle及](../Page/iPod_shuffle.md "wikilink")[Touch](../Page/iPod_Touch.md "wikilink")。各個系列都有不同的容量和設計。
+這是一個**iPod型號列表**。[IPod分為](../Page/IPod.md "wikilink")5個系列:[Classic](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")、[Mini](https://zh.wikipedia.org/wiki/iPod_Mini "wikilink")、[Nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[Shuffle及](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。各個系列都有不同的容量和設計。
 
 ## 型號
 
@@ -17,11 +17,11 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/iPod_Classic.md" title="wikilink">Classic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Classic" title="wikilink">Classic</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Lightmatter_ipod_1G.jpg" title="fig:Lightmatter_ipod_1G.jpg">Lightmatter_ipod_1G.jpg</a></p></td>
 <td><p>5, 10 GB</p></td>
-<td><p><a href="../Page/火線.md" title="wikilink">火線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/火線" title="wikilink">火線</a></p></td>
 <td><p>2001年10月23日</p></td>
 <td><p><small>Mac: <a href="../Page/Mac_OS_9.md" title="wikilink">9</a>, <a href="../Page/Mac_OS_X_v10.1.md" title="wikilink">10.1</a></small></p></td>
 <td><p><em>音樂</em>: 10</p></td>
@@ -48,7 +48,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td></td>
 </tr>
 <tr class="even">
-<td><p>使用輕觸式Scroll Wheel。 <a href="../Page/FireWire.md" title="wikilink">FireWire插口新增了一個保護蓋</a>。Hold鍵方向反轉。Windows支援上使用<a href="../Page/Musicmatch_Jukebox.md" title="wikilink">Musicmatch軟件</a>。</p></td>
+<td><p>使用輕觸式Scroll Wheel。 <a href="https://zh.wikipedia.org/wiki/FireWire" title="wikilink">FireWire插口新增了一個保護蓋</a>。Hold鍵方向反轉。Windows支援上使用<a href="https://zh.wikipedia.org/wiki/Musicmatch_Jukebox" title="wikilink">Musicmatch軟件</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -69,7 +69,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第一個重新設計，完全使用輕觸介面。新增dock connector，及更薄機身。iTunes 4.1 視窗版在稍後時間取代了<a href="../Page/Musicmatch_Jukebox.md" title="wikilink">Musicmatch軟件</a>。</p></td>
+<td><p>第一個重新設計，完全使用輕觸介面。新增dock connector，及更薄機身。iTunes 4.1 視窗版在稍後時間取代了<a href="https://zh.wikipedia.org/wiki/Musicmatch_Jukebox" title="wikilink">Musicmatch軟件</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,8 +80,8 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 </tr>
 <tr class="odd">
 <td><p>4<br />
-(<a href="../Page/iPod#iPod_photo_/_Color_iPod.md" title="wikilink">Photo</a>)<br />
-(<a href="../Page/iPod#iPod_photo_/_Color_iPod.md" title="wikilink">Color</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/iPod#iPod_photo_/_Color_iPod" title="wikilink">Photo</a>)<br />
+(<a href="https://zh.wikipedia.org/wiki/iPod#iPod_photo_/_Color_iPod" title="wikilink">Color</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPod4G.jpg" title="fig:IPod4G.jpg">IPod4G.jpg</a></p></td>
 <td><p>20, 40 GB</p></td>
 <td><p>火線 或 <a href="../Page/USB.md" title="wikilink">USB</a></p></td>
@@ -141,7 +141,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>30, 60, 80 GB</p></td>
 <td><p>USB<small> (火線只供同步)</small></p></td>
 <td><p>2005年10月12日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><strong>30 GB</strong><br />
 <em>audio</em>: 14<br />
@@ -167,7 +167,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>80, 120, 160 GB</p></td>
 <td><p>USB<small> (火線只供同步)</small></p></td>
 <td><p>2007年9月5日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><strong>80 GB</strong><br />
 <em>音樂</em>: 30<br />
@@ -187,7 +187,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Mini.md" title="wikilink">Mini</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Mini" title="wikilink">Mini</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Green_ipodmini_1stgen.jpg" title="fig:Green_ipodmini_1stgen.jpg">Green_ipodmini_1stgen.jpg</a></p></td>
 <td><p>4 GB</p></td>
@@ -219,7 +219,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>比起第一代，色彩更明亮且使用時間更長。Click Wheel上的字體顏色變得跟機身相同，並取消了金色樣式。在後期被<a href="../Page/iPod_nano.md" title="wikilink">iPod nano取代</a>。</p></td>
+<td><p>比起第一代，色彩更明亮且使用時間更長。Click Wheel上的字體顏色變得跟機身相同，並取消了金色樣式。在後期被<a href="https://zh.wikipedia.org/wiki/iPod_nano" title="wikilink">iPod nano取代</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,19 +229,19 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_nano.md" title="wikilink">Nano</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_nano" title="wikilink">Nano</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPod_Nano_in_its_Dock.png" title="fig:IPod_Nano_in_its_Dock.png">IPod_Nano_in_its_Dock.png</a></p></td>
 <td><p>1, 2, 4 GB</p></td>
 <td><p>USB<small> (FireWire for charging only)</small></p></td>
 <td><p>2005年9月7日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><em>音樂</em>: 14<br />
 <em>幻燈片</em>: 4</p></td>
 </tr>
 <tr class="odd">
-<td><p>取代<a href="../Page/iPod_mini.md" title="wikilink">iPod mini</a>。配有可瀏覽照片的彩色螢幕，1GB的版本隨後推出。</p></td>
+<td><p>取代<a href="https://zh.wikipedia.org/wiki/iPod_mini" title="wikilink">iPod mini</a>。配有可瀏覽照片的彩色螢幕，1GB的版本隨後推出。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -256,7 +256,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>2, 4, 8 GB</p></td>
 <td><p>USB<small> (火線只供同步)</small></p></td>
 <td><p>2006年12月12日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><em>音樂</em>: 24<br />
 <em>幻燈片</em>: 5</p></td>
@@ -278,14 +278,14 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>4, 8 GB</p></td>
 <td><p>USB<small> (火線只供同步)</small></p></td>
 <td><p>2007年9月5日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 24<br />
 <em>影片</em>: 5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>模仿<a href="../Page/iPod_Classic.md" title="wikilink">iPod Classic的機身</a>，2吋<a href="../Page/QVGA.md" title="wikilink">QVGA螢幕</a>、更明亮的顯示器、新增更多種機身顏色並更新使用者介面，且能播放影片。</p></td>
+<td><p>模仿<a href="https://zh.wikipedia.org/wiki/iPod_Classic" title="wikilink">iPod Classic的機身</a>，2吋<a href="https://zh.wikipedia.org/wiki/QVGA" title="wikilink">QVGA螢幕</a>、更明亮的顯示器、新增更多種機身顏色並更新使用者介面，且能播放影片。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -300,7 +300,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>4, 8, 16 GB</p></td>
 <td><p>USB<small></p></td>
 <td><p>2008年9月9日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 24<br />
 <em>影片</em>: 4</p></td>
@@ -322,14 +322,14 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>8, 16 GB</p></td>
 <td><p>USB<small></p></td>
 <td><p>2009年9月9日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4.11</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4.11</a><br />
 Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a></small></p></td>
 <td><p><em>音樂</em>: 24<br />
 <em>影片</em>: 5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、<a href="../Page/FM.md" title="wikilink">FM功能</a>、Genius Mixes、錄音、VoiceOver、而且不需<a href="../Page/Nike.md" title="wikilink">Nike</a>+跑鞋即可計步。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
+<td><p>螢幕加大成2.2吋240x376，16:9彩色TFT螢幕、增加30萬像素<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、<a href="../Page/FM.md" title="wikilink">FM功能</a>、Genius Mixes、錄音、VoiceOver、而且不需<a href="https://zh.wikipedia.org/wiki/Nike" title="wikilink">Nike</a>+跑鞋即可計步。中文字體改用<a href="../Page/黑體-繁.md" title="wikilink">黑體-繁</a>/<a href="../Page/黑體-簡.md" title="wikilink">黑體-簡</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -344,14 +344,14 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 <td><p>8, 16 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2010年9月2日</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.5.md" title="wikilink">10.5.8</a><br />
-Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="../Page/Windows_7.md" title="wikilink">7</a></small></p></td>
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">10.5.8</a><br />
+Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></small></p></td>
 <td><p><em>音樂</em>: 24<br />
 </p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="../Page/螢幕.md" title="wikilink">螢幕</a>，以取代<a href="../Page/click-wheel.md" title="wikilink">click-wheel</a>。取消<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、錄音及影片播放功能。</p></td>
+<td><p><a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>，以取代<a href="https://zh.wikipedia.org/wiki/click-wheel" title="wikilink">click-wheel</a>。取消<a href="../Page/攝影機.md" title="wikilink">攝影機</a>、錄音及影片播放功能。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -366,14 +366,14 @@ Windows：<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../
 <td><p>16 GB</p></td>
 <td><p>Lightning</p></td>
 <td><p>2012年10月</p></td>
-<td><p><small>Mac：<a href="../Page/Mac_OS_X_v10.6.md" title="wikilink">10.6.8或更新的版本</a><br />
-Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="../Page/Windows_7.md" title="wikilink">7</a></small></p></td>
+<td><p><small>Mac：<a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.6" title="wikilink">10.6.8或更新的版本</a><br />
+Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a></small></p></td>
 <td><p><em>音樂</em>: 30<br />
 <em>影片</em>: 3.5[1]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>恢復到高大的外形尺寸，改為更大的2.5寸<a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="../Page/螢幕.md" title="wikilink">螢幕</a>。以及恢復影片播放功能，並添加<a href="../Page/藍牙.md" title="wikilink">藍牙</a>。</p></td>
+<td><p>恢復到高大的外形尺寸，改為更大的2.5寸<a href="../Page/多點觸控.md" title="wikilink">多點觸控式</a><a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a>。以及恢復影片播放功能，並添加<a href="../Page/藍牙.md" title="wikilink">藍牙</a>。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -383,7 +383,7 @@ Windows：<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<a hre
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Shuffle.md" title="wikilink">shuffle</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Shuffle" title="wikilink">shuffle</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPod_shuffle_1G.png" title="fig:IPod_shuffle_1G.png">IPod_shuffle_1G.png</a></p></td>
 <td><p>512 MB, 1 GB</p></td>
@@ -394,7 +394,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p><em>音樂</em>: 12</p></td>
 </tr>
 <tr class="odd">
-<td><p>新的入門級機型。使用<a href="../Page/快閃記憶體.md" title="wikilink">快閃記憶體</a>，沒有螢幕。</p></td>
+<td><p>新的入門級機型。使用<a href="https://zh.wikipedia.org/wiki/快閃記憶體" title="wikilink">快閃記憶體</a>，沒有螢幕。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -409,7 +409,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>1, 2 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2006年12月12日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.3.md" title="wikilink">10.3</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3" title="wikilink">10.3</a><br />
 Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></td>
 <td><p><em>音樂</em>: 12</p></td>
 <td></td>
@@ -430,7 +430,7 @@ Win: <a href="../Page/Windows_2000.md" title="wikilink">2000</a></small></p></t
 <td><p>2，4 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2009年3月11日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 10</p></td>
 <td></td>
@@ -451,7 +451,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>2 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2010年9月1日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.5.md" title="wikilink">10.5</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">10.5</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 15</p></td>
 <td></td>
@@ -467,13 +467,13 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/iPod_Touch.md" title="wikilink">Touch</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iPod_Touch" title="wikilink">Touch</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:IPod_Touch_1G.svg" title="fig:IPod_Touch_1G.svg">IPod_Touch_1G.svg</a></p></td>
 <td><p>8, 16, 32 GB</p></td>
 <td><p>USB<small> (火線只供同步)</small></p></td>
 <td><p>2007年9月5日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 22<br />
 <em>影片</em>: 5</p></td>
@@ -494,7 +494,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>8, 16, 32 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2008年9月9日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 36<br />
 <em>影片</em>: 6</p></td>
@@ -516,7 +516,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>32，64 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2009年9月9日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.4.md" title="wikilink">10.4</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4" title="wikilink">10.4</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 30<br />
 <em>影片</em>: 6</p></td>
@@ -539,14 +539,14 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>USB</p></td>
 <td><p><small>黑色： 2010年9月1日<br />
 白色： 2011年10月12日</small></p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.5.md" title="wikilink">10.5</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5" title="wikilink">10.5</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 40<br />
 <em>影片</em>: 7</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>更薄的設計，包括兩個攝像頭，分別用於FaceTime和高清影片錄製，關機鍵移動到右上角，和iPhone 4相似的Retina顯示器以及Apple A4處理器。白色的版本新增於2011年10月4日(<a href="../Page/美國.md" title="wikilink">美國</a>)。</p></td>
+<td><p>更薄的設計，包括兩個攝像頭，分別用於FaceTime和高清影片錄製，關機鍵移動到右上角，和iPhone 4相似的Retina顯示器以及Apple A4處理器。白色的版本新增於2011年10月4日(<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a>)。</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -561,7 +561,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p>16, 32, 64 GB</p></td>
 <td><p>USB</p></td>
 <td><p>2012年9月13日</p></td>
-<td><p><small>Mac: <a href="../Page/Mac_OS_X_v10.6.md" title="wikilink">10.6</a><br />
+<td><p><small>Mac: <a href="https://zh.wikipedia.org/wiki/Mac_OS_X_v10.6" title="wikilink">10.6</a><br />
 Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 <td><p><em>音樂</em>: 40<br />
 <em>影片</em>: 7</p></td>
@@ -579,7 +579,7 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 </tr>
 <tr class="even">
 <td><div style="text-align:center;font-size:88%;font-style:italic">
-<p>Sources: <a href="../Page/蘋果公司.md" title="wikilink">蘋果公司</a>[2], <a href="../Page/Mactracker.md" title="wikilink">Mactracker</a>[3]</p>
+<p>Sources: <a href="https://zh.wikipedia.org/wiki/蘋果公司" title="wikilink">蘋果公司</a>[2], <a href="https://zh.wikipedia.org/wiki/Mactracker" title="wikilink">Mactracker</a>[3]</p>
 </div></td>
 <td></td>
 <td></td>
@@ -606,8 +606,8 @@ Win: <a href="../Page/Windows_XP.md" title="wikilink">XP</a></small></p></td>
 [Category:计算机硬件列表](https://zh.wikipedia.org/wiki/Category:计算机硬件列表 "wikilink")
 
 1.
-2.  [Apple Inc.](../Page/Apple_Inc..md "wikilink"), [Identifying iPod
-    models](http://support.apple.com/kb/HT1353), retrieved 31 October
-    2007.
-3.  [Mactracker](../Page/Mactracker.md "wikilink"), Apple Inc. model
-    database, version as of 26 July 2007.
+2.  [Apple Inc.](https://zh.wikipedia.org/wiki/Apple_Inc. "wikilink"),
+    [Identifying iPod models](http://support.apple.com/kb/HT1353),
+    retrieved 31 October 2007.
+3.  [Mactracker](https://zh.wikipedia.org/wiki/Mactracker "wikilink"),
+    Apple Inc. model database, version as of 26 July 2007.

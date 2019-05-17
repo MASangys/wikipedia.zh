@@ -1,4 +1,4 @@
-**Mixxx**是[開放源碼的數位](../Page/開放源碼.md "wikilink")[DJ軟件](../Page/DJ.md "wikilink")，可以使用一台個人電腦將獨立的音樂混合在一起。
+**Mixxx**是[開放源碼的數位](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[DJ軟件](https://zh.wikipedia.org/wiki/DJ "wikilink")，可以使用一台個人電腦將獨立的音樂混合在一起。
 
 ## 概述
 
@@ -13,7 +13,7 @@ OSX Universal binary（所以它可以運行在10.4和上PPC和Intel的CPU)。
 
 Mixxx支持Windows上的[ASIO和](../Page/ASIO.md "wikilink")[DirectSound](../Page/DirectSound.md "wikilink")，Linux上的JACK、OSS、ALSA，Mac
 OS
-X的[CoreAudio](../Page/CoreAudio.md "wikilink")。Mixxx還可以讀取最流行的音頻格式，包括MP3、Ogg
+X的[CoreAudio](https://zh.wikipedia.org/wiki/CoreAudio "wikilink")。Mixxx還可以讀取最流行的音頻格式，包括MP3、Ogg
 Vorbis、Wave、Aiff和FLAC。對於外部硬件控制，Mixxx支持MIDI和標準輸入設備，如操縱桿和鼠標。
 
 ## 外部連結

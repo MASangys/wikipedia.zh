@@ -27,7 +27,8 @@ DB，重大增强则有注册游戏的选项与更好的私信系统。
 2010年，DBolical公司的Indie DB网站上线，专注于独立游戏开发。\[5\]
 
 2011年，Mod DB以“因被认为是创建者、支持者和制作者而收到了很多威胁邮件”为理由移除了一个名为“School Shooter:
-North American Tour 2012”的《[半条命2](../Page/半条命2.md "wikilink")》模组。\[6\]
+North American Tour
+2012”的《[半条命2](https://zh.wikipedia.org/wiki/半条命2 "wikilink")》模组。\[6\]
 
 ## 年度模组
 
@@ -41,29 +42,31 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Interaction Award: *[Anarchy
-    Arcade](../Page/Anarchy_Arcade.md "wikilink")*
+    Arcade](https://zh.wikipedia.org/wiki/Anarchy_Arcade "wikilink")*
   - Creativity Award: *[Warsword
-    Conquest](../Page/Warsword_Conquest.md "wikilink")*
+    Conquest](https://zh.wikipedia.org/wiki/Warsword_Conquest "wikilink")*
   - Community Award: *[Twisted
-    Insurrection](../Page/Twisted_Insurrection.md "wikilink")*
-  - Worldly Award: *[GMDX](../Page/GMDX.md "wikilink")*
+    Insurrection](https://zh.wikipedia.org/wiki/Twisted_Insurrection "wikilink")*
+  - Worldly
+    Award: *[GMDX](https://zh.wikipedia.org/wiki/GMDX "wikilink")*
   - Visuality Award: *[Stargate Space
-    Conflict](../Page/Stargate_Space_Conflict.md "wikilink")*
+    Conflict](https://zh.wikipedia.org/wiki/Stargate_Space_Conflict "wikilink")*
   - The Ressie Award: *[Double Action:
-    Boogaloo](../Page/Double_Action:_Boogaloo.md "wikilink")*
+    Boogaloo](https://zh.wikipedia.org/wiki/Double_Action:_Boogaloo "wikilink")*
   - Best Upcoming: *[Deus Ex:
-    Revision](../Page/Deus_Ex:_Revision.md "wikilink")*
-  - Best Overhaul: *[Lambda Wars](../Page/Lambda_Wars.md "wikilink")*
+    Revision](https://zh.wikipedia.org/wiki/Deus_Ex:_Revision "wikilink")*
+  - Best Overhaul: *[Lambda
+    Wars](https://zh.wikipedia.org/wiki/Lambda_Wars "wikilink")*
   - Best Multiplayer: *[Breaking
-    Point](../Page/Breaking_Point.md "wikilink")*
+    Point](https://zh.wikipedia.org/wiki/Breaking_Point "wikilink")*
   - Best Singleplayer: *[Penumbra:
-    Necrologue](../Page/Penumbra:_Necrologue.md "wikilink")*
+    Necrologue](https://zh.wikipedia.org/wiki/Penumbra:_Necrologue "wikilink")*
   - Best Overall (3rd): *[The Great War
-    1918](../Page/The_Great_War_1918.md "wikilink")*
+    1918](https://zh.wikipedia.org/wiki/The_Great_War_1918 "wikilink")*
   - Best Overall (2nd): *[PLAYERUNKNOWN's Battle
-    Royale](../Page/PLAYERUNKNOWN's_Battle_Royale.md "wikilink")*
+    Royale](https://zh.wikipedia.org/wiki/PLAYERUNKNOWN's_Battle_Royale "wikilink")*
   - Best Overall (1st): *[Double Action:
-    Boogaloo](../Page/Double_Action:_Boogaloo.md "wikilink")*
+    Boogaloo](https://zh.wikipedia.org/wiki/Double_Action:_Boogaloo "wikilink")*
 
 <!-- end list -->
 
@@ -72,24 +75,25 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Overall (10th): *[The Sith Lords Restored Content
-    Mod](../Page/The_Sith_Lords_Restored_Content_Mod.md "wikilink")*
+    Mod](https://zh.wikipedia.org/wiki/The_Sith_Lords_Restored_Content_Mod "wikilink")*
   - Best Overall (9th): *[Tiberium
-    Essence](../Page/Tiberium_Essence.md "wikilink")*
+    Essence](https://zh.wikipedia.org/wiki/Tiberium_Essence "wikilink")*
   - Best Overall (8th): *[Republic At
-    War](../Page/Republic_At_War.md "wikilink")*
+    War](https://zh.wikipedia.org/wiki/Republic_At_War "wikilink")*
   - Best Overall (7th): *[Ultimate
-    Apocalypse](../Page/Ultimate_Apocalypse.md "wikilink")*
+    Apocalypse](https://zh.wikipedia.org/wiki/Ultimate_Apocalypse "wikilink")*
   - Best Overall (6th): *[Sins of a Galactic
-    Empire](../Page/Sins_of_a_Galactic_Empire.md "wikilink")*
-  - Best Overall (5th): *[Edain Mod](../Page/Edain_Mod.md "wikilink")*
+    Empire](https://zh.wikipedia.org/wiki/Sins_of_a_Galactic_Empire "wikilink")*
+  - Best Overall (5th): *[Edain
+    Mod](https://zh.wikipedia.org/wiki/Edain_Mod "wikilink")*
   - Best Overall (4th): *[Breaking
-    Point](../Page/Breaking_Point.md "wikilink")*
+    Point](https://zh.wikipedia.org/wiki/Breaking_Point "wikilink")*
   - Best Overall (3rd): *[S.T.A.L.K.E.R. - Lost
-    Alpha](../Page/S.T.A.L.K.E.R._-_Lost_Alpha.md "wikilink")*
+    Alpha](https://zh.wikipedia.org/wiki/S.T.A.L.K.E.R._-_Lost_Alpha "wikilink")*
   - Best Overall (2nd): *[Star Trek: Armada
-    3](../Page/Star_Trek:_Armada_3.md "wikilink")*
+    3](https://zh.wikipedia.org/wiki/Star_Trek:_Armada_3 "wikilink")*
   - Best Overall (1st): *[Euro Truck Simulator
-    2](../Page/歐洲卡車模擬2.md "wikilink") Multiplayer*
+    2](https://zh.wikipedia.org/wiki/歐洲卡車模擬2 "wikilink") Multiplayer*
 
 ### 2010年
 
@@ -98,13 +102,13 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Original Art: *[Call of the
-    Fireflies](../Page/Call_of_the_Fireflies.md "wikilink")*
+    Fireflies](https://zh.wikipedia.org/wiki/Call_of_the_Fireflies "wikilink")*
   - Best Multiplayer Mod: *[Eastern
-    Front](../Page/Eastern_Front.md "wikilink")*
+    Front](https://zh.wikipedia.org/wiki/Eastern_Front "wikilink")*
   - Best Singleplayer Mod: *[Nehrim: At Fate's
-    Edge](../Page/Nehrim:_At_Fate's_Edge.md "wikilink")*
+    Edge](https://zh.wikipedia.org/wiki/Nehrim:_At_Fate's_Edge "wikilink")*
   - Best Upcoming Mod: *[Dear
-    Esther](../Page/Dear_Esther.md "wikilink")*
+    Esther](https://zh.wikipedia.org/wiki/Dear_Esther "wikilink")*
 
 <!-- end list -->
 
@@ -113,11 +117,11 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Upcoming Mod: *[Project Reality: ArmA
-    2](../Page/真实计划#真实计划：武装突袭2.md "wikilink")*
+    2](https://zh.wikipedia.org/wiki/真实计划#真实计划：武装突袭2 "wikilink")*
   - Mod of the Year: *[Forgotten Hope
-    2](../Page/Forgotten_Hope_2.md "wikilink")*
+    2](https://zh.wikipedia.org/wiki/Forgotten_Hope_2 "wikilink")*
   - Honorable Mention: *[MechWarrior: Living
-    Legends](../Page/MechWarrior:_Living_Legends.md "wikilink")*
+    Legends](https://zh.wikipedia.org/wiki/MechWarrior:_Living_Legends "wikilink")*
 
 ### 2009年
 
@@ -126,17 +130,17 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Indie Game: *[A Reckless Disregard for
-    Gravity](../Page/AaaaaAAaaaAAAaaAAAAaAAAAA!!!_–_A_Reckless_Disregard_for_Gravity.md "wikilink")*
+    Gravity](https://zh.wikipedia.org/wiki/AaaaaAAaaaAAAaaAAAAaAAAAA!!!_–_A_Reckless_Disregard_for_Gravity "wikilink")*
   - Best Multiplayer Mod: *[MechWarrior: Living
-    Legends](../Page/MechWarrior:_Living_Legends.md "wikilink")*
+    Legends](https://zh.wikipedia.org/wiki/MechWarrior:_Living_Legends "wikilink")*
   - Best Original Art Direction: *[Out of
-    Hell](../Page/Out_of_Hell.md "wikilink")*
+    Hell](https://zh.wikipedia.org/wiki/Out_of_Hell "wikilink")*
   - Best Singleplayer Mod: *[The Nameless
-    Mod](../Page/The_Nameless_Mod.md "wikilink")*
+    Mod](https://zh.wikipedia.org/wiki/The_Nameless_Mod "wikilink")*
   - Best Upcoming Indie
-    Game: *[Overgrowth](../Page/Overgrowth_\(video_game\).md "wikilink")*
+    Game: *[Overgrowth](https://zh.wikipedia.org/wiki/Overgrowth_\(video_game\) "wikilink")*
   - Best Upcoming Mod: *[Naruto: Naiteki
-    Kensei](../Page/Naruto:_Naiteki_Kensei.md "wikilink")*
+    Kensei](https://zh.wikipedia.org/wiki/Naruto:_Naiteki_Kensei "wikilink")*
 
 <!-- end list -->
 
@@ -145,11 +149,11 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Upcoming Mod: *[The Mortewood
-    Plaza](../Page/The_Mortewood_Plaza.md "wikilink")*
+    Plaza](https://zh.wikipedia.org/wiki/The_Mortewood_Plaza "wikilink")*
   - Indie Game of the Year: *[Natural Selection
     2](../Page/物競天擇2.md "wikilink")*
   - Mod of the Year: *[MechWarrior: Living
-    Legends](../Page/MechWarrior:_Living_Legends.md "wikilink")*
+    Legends](https://zh.wikipedia.org/wiki/MechWarrior:_Living_Legends "wikilink")*
 
 ### 2008年
 
@@ -161,13 +165,15 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
   - Best Multiplayer Mod: *[Project
     Reality](../Page/真实计划.md "wikilink")*
   - Best Original Art Direction in a Total Conversion: *[The Delta
-    Sector](../Page/The_Delta_Sector.md "wikilink")*
-  - Best Single Player Mod: *[The Ball](../Page/The_Ball.md "wikilink")*
-  - Best Upcoming Mod: *[Curse](../Page/Curse.md "wikilink")*
+    Sector](https://zh.wikipedia.org/wiki/The_Delta_Sector "wikilink")*
+  - Best Single Player Mod: *[The
+    Ball](https://zh.wikipedia.org/wiki/The_Ball "wikilink")*
+  - Best Upcoming Mod:
+    *[Curse](https://zh.wikipedia.org/wiki/Curse "wikilink")*
   - Best Upcoming Indie: *[Zeno
-    Clash](../Page/Zeno_Clash.md "wikilink")*
+    Clash](https://zh.wikipedia.org/wiki/Zeno_Clash "wikilink")*
   - Most Innovative Multiplayer: *[Celestial
-    Impact](../Page/Celestial_Impact.md "wikilink")*
+    Impact](https://zh.wikipedia.org/wiki/Celestial_Impact "wikilink")*
 
 <!-- end list -->
 
@@ -176,7 +182,7 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Upcoming Mod: *[Dead Before
-    Dawn](../Page/Dead_Before_Dawn.md "wikilink")*
+    Dawn](https://zh.wikipedia.org/wiki/Dead_Before_Dawn "wikilink")*
 
 <!-- end list -->
 
@@ -190,19 +196,21 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 此次竞赛无特定分类，下方内容为Mod DB编辑所选的10个最佳模组（无排名）。
 
-  - *[Age of Chivalry](../Page/Age_of_Chivalry.md "wikilink")*
+  - *[Age of
+    Chivalry](https://zh.wikipedia.org/wiki/Age_of_Chivalry "wikilink")*
   - *[Eternal
-    Silence](../Page/Eternal_Silence_\(Half-Life_2\).md "wikilink")*
-  - *[E.Y.E.](../Page/E.Y.E..md "wikilink")*
-  - *[Europe in Ruins](../Page/Europe_in_Ruins.md "wikilink")*
-  - *[Flipside](../Page/Flipside.md "wikilink")*
+    Silence](https://zh.wikipedia.org/wiki/Eternal_Silence_\(Half-Life_2\) "wikilink")*
+  - *[E.Y.E.](https://zh.wikipedia.org/wiki/E.Y.E. "wikilink")*
+  - *[Europe in
+    Ruins](https://zh.wikipedia.org/wiki/Europe_in_Ruins "wikilink")*
+  - *[Flipside](https://zh.wikipedia.org/wiki/Flipside "wikilink")*
   - *[The Hunted
-    Chronicles](../Page/The_Hunted_Chronicles.md "wikilink")*
+    Chronicles](https://zh.wikipedia.org/wiki/The_Hunted_Chronicles "wikilink")*
   - *[Infinity: The Quest for
-    Earth](../Page/Infinity_\(MMOG\).md "wikilink")*
-  - *[Mind](../Page/Mind.md "wikilink")*
-  - *[Paranoia](../Page/Paranoia.md "wikilink")*
-  - *[Shockwave](../Page/ShockWave_\(video_game\).md "wikilink")*
+    Earth](https://zh.wikipedia.org/wiki/Infinity_\(MMOG\) "wikilink")*
+  - *[Mind](https://zh.wikipedia.org/wiki/Mind "wikilink")*
+  - *[Paranoia](https://zh.wikipedia.org/wiki/Paranoia "wikilink")*
+  - *[Shockwave](https://zh.wikipedia.org/wiki/ShockWave_\(video_game\) "wikilink")*
 
 <!-- end list -->
 
@@ -211,11 +219,11 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Best Indie Game: *[BSG: Beyond the Red
-    Line](../Page/Beyond_the_Red_Line.md "wikilink")*
+    Line](https://zh.wikipedia.org/wiki/Beyond_the_Red_Line "wikilink")*
   - Best Released Mod: *[Insurgency: Modern Infantry
     Combat](../Page/叛亂：現代步兵作戰.md "wikilink")*
   - Best Unreleased Mod: *[Zombie Panic\!
-    Source](../Page/Zombie_Panic!_Source.md "wikilink")*
+    Source](https://zh.wikipedia.org/wiki/Zombie_Panic!_Source "wikilink")*
 
 ### 2006年
 
@@ -224,24 +232,25 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 <!-- end list -->
 
   - Ambience: *[The
-    Hidden](../Page/The_Hidden_\(video_game\).md "wikilink")*
+    Hidden](https://zh.wikipedia.org/wiki/The_Hidden_\(video_game\) "wikilink")*
   - Innovation: *[Iron Grip: The
-    Oppression](../Page/Iron_Grip:_The_Oppression.md "wikilink")*
+    Oppression](https://zh.wikipedia.org/wiki/Iron_Grip:_The_Oppression "wikilink")*
   - Multiplayer Mod of the Year: *[Killing
     Floor](../Page/殺戮空間.md "wikilink")*
   - Old Skool Classic: *[Ragnarok
-    Arena](../Page/Ragnarok_Arena.md "wikilink")*
+    Arena](https://zh.wikipedia.org/wiki/Ragnarok_Arena "wikilink")*
   - Reinvention: *[GoldenEye:
-    Source](../Page/GoldenEye:_Source.md "wikilink")*
+    Source](https://zh.wikipedia.org/wiki/GoldenEye:_Source "wikilink")*
   - Singleplayer Mod of the Year: *[Afraid of
-    Monsters](../Page/Afraid_of_Monsters.md "wikilink")*
+    Monsters](https://zh.wikipedia.org/wiki/Afraid_of_Monsters "wikilink")*
   - Standalone Game of the
-    Year: *[Darsana](../Page/Darsana.md "wikilink")*
+    Year: *[Darsana](https://zh.wikipedia.org/wiki/Darsana "wikilink")*
   - Upcoming Mod: *[Drawn to be
-    Alive](../Page/Drawn_to_be_Alive.md "wikilink")*
+    Alive](https://zh.wikipedia.org/wiki/Drawn_to_be_Alive "wikilink")*
   - Upcoming Standalone: *[Infinity: The Quest for
-    Earth](../Page/Infinity_\(MMOG\).md "wikilink")*
-  - Visuals: *[The SoulKeeper](../Page/The_SoulKeeper.md "wikilink")*
+    Earth](https://zh.wikipedia.org/wiki/Infinity_\(MMOG\) "wikilink")*
+  - Visuals: *[The
+    SoulKeeper](https://zh.wikipedia.org/wiki/The_SoulKeeper "wikilink")*
 
 <!-- end list -->
 
@@ -249,9 +258,10 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 <!-- end list -->
 
-  - Best Indie Game: *[Tremulous](../Page/Tremulous.md "wikilink")*
+  - Best Indie
+    Game: *[Tremulous](https://zh.wikipedia.org/wiki/Tremulous "wikilink")*
   - Best Released Mod: *[Point of Existence
-    2](../Page/Point_of_Existence.md "wikilink")*
+    2](https://zh.wikipedia.org/wiki/Point_of_Existence "wikilink")*
   - Best Unreleased Mod: *[Black Mesa](../Page/黑色高地.md "wikilink")*
 
 <!-- end list -->
@@ -260,21 +270,21 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 <!-- end list -->
 
-  -   - 动作：*[SourceForts](../Page/SourceForts.md "wikilink")*
+  -   - 动作：*[SourceForts](https://zh.wikipedia.org/wiki/SourceForts "wikilink")*
       - 冒险：*[Afraid of
-        Monsters](../Page/Afraid_of_Monsters.md "wikilink")*
-      - 竞速：*[UnWheel](../Page/UnWheel.md "wikilink")*
-      - 多类型：*[Empires](../Page/Empires.md "wikilink")*
-      - 解谜：*[BlockStorm](../Page/BlockStorm.md "wikilink")*
+        Monsters](https://zh.wikipedia.org/wiki/Afraid_of_Monsters "wikilink")*
+      - 竞速：*[UnWheel](https://zh.wikipedia.org/wiki/UnWheel "wikilink")*
+      - 多类型：*[Empires](https://zh.wikipedia.org/wiki/Empires "wikilink")*
+      - 解谜：*[BlockStorm](https://zh.wikipedia.org/wiki/BlockStorm "wikilink")*
       - 角色扮演：*[Battle for
-        Elements](../Page/Battle_for_Elements.md "wikilink")*
+        Elements](https://zh.wikipedia.org/wiki/Battle_for_Elements "wikilink")*
       - 模拟：*[Discovery
-        Freelancer](../Page/Discovery_Freelancer.md "wikilink")*
+        Freelancer](https://zh.wikipedia.org/wiki/Discovery_Freelancer "wikilink")*
       - 体育：*[International Online
-        Soccer](../Page/International_Online_Soccer.md "wikilink")
+        Soccer](https://zh.wikipedia.org/wiki/International_Online_Soccer "wikilink")
         -[《半条命》的模组](../Page/GoldSrc引擎模组列表.md "wikilink")*
       - 即时战略：*[Red Alert 3: The Third
-        War](../Page/Red_Alert_3:_The_Third_War.md "wikilink")*
+        War](https://zh.wikipedia.org/wiki/Red_Alert_3:_The_Third_War "wikilink")*
 
 ### 2005年
 
@@ -300,7 +310,8 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 <!-- end list -->
 
-  - [Space Engineers](../Page/Space_Engineers.md "wikilink")\[21\]
+  - [Space
+    Engineers](https://zh.wikipedia.org/wiki/Space_Engineers "wikilink")\[21\]
 
 <!-- end list -->
 
@@ -324,7 +335,7 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 <!-- end list -->
 
-  - [騎士精神：中世紀戰爭](../Page/騎士精神：中世紀戰爭.md "wikilink")\[24\]
+  - [騎士精神：中世紀戰爭](https://zh.wikipedia.org/wiki/騎士精神：中世紀戰爭 "wikilink")\[24\]
 
 <!-- end list -->
 

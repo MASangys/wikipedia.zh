@@ -1,5 +1,5 @@
 《**ZEGAPAIN**》（），[日本](../Page/日本.md "wikilink")[日昇動畫製作的](../Page/日昇動畫.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，於2006年4月至9月間在[東京電視台播放](../Page/東京電視台.md "wikilink")，並於同年推出兩款[Xbox
-360平台的遊戲](../Page/Xbox_360.md "wikilink")。由于民间[字幕组工作人员理解偏差](../Page/字幕组.md "wikilink")，而导致该作标题被误翻成《机器人》。
+360平台的遊戲](../Page/Xbox_360.md "wikilink")。由于民间[字幕组工作人员理解偏差](https://zh.wikipedia.org/wiki/字幕组 "wikilink")，而导致该作标题被误翻成《机器人》。
 
 ## 故事簡介
 
@@ -63,14 +63,14 @@
 
 ## 製作人員
 
-  - 企劃：宮澤正徹、笹田直樹、鵜之澤伸、[内田健二](../Page/内田健二.md "wikilink")、[川城和實](../Page/川城和實.md "wikilink")
-  - 原作：[矢立肇](../Page/矢立肇.md "wikilink")、[伊東岳彦](../Page/伊東岳彦.md "wikilink")
+  - 企劃：宮澤正徹、笹田直樹、鵜之澤伸、[内田健二](https://zh.wikipedia.org/wiki/内田健二 "wikilink")、[川城和實](https://zh.wikipedia.org/wiki/川城和實 "wikilink")
+  - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[伊東岳彦](https://zh.wikipedia.org/wiki/伊東岳彦 "wikilink")
   - 系列構成：[關島真賴](../Page/關島真賴.md "wikilink")
-  - 角色原案：[幡池裕行](../Page/幡池裕行.md "wikilink")
-  - 角色設計：[山下明彦](../Page/山下明彦.md "wikilink")
+  - 角色原案：[幡池裕行](https://zh.wikipedia.org/wiki/幡池裕行 "wikilink")
+  - 角色設計：[山下明彦](https://zh.wikipedia.org/wiki/山下明彦 "wikilink")
   - 動畫導演：牧孝雄
   - 機械設計：[中原禮](../Page/中原禮.md "wikilink")、、福島秀機、やまだたかひろ
-  - デザインワークス：[柳瀬敬之](../Page/柳瀬敬之.md "wikilink")
+  - デザインワークス：[柳瀬敬之](https://zh.wikipedia.org/wiki/柳瀬敬之 "wikilink")
   - 總機械作畫監督：福島秀機
   - 特技監督：
   - 色彩設計：柴田亞紀子
@@ -78,8 +78,8 @@
   - 音樂：大塚彩子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 動畫製作：紅谷佳和→山川典夫、小掛慎太郎、古澤文邦
-  - 監督：[下田正美](../Page/下田正美.md "wikilink")
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](../Page/電通.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")
+  - 監督：[下田正美](https://zh.wikipedia.org/wiki/下田正美 "wikilink")
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")
 
 ## 各集標題
 
@@ -102,7 +102,7 @@
 <td><p>エンタングル</p></td>
 <td><p>糾纏</p></td>
 <td><p><a href="../Page/關島真賴.md" title="wikilink">關島真賴</a></p></td>
-<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
 <td></td>
 <td><p>牧孝雄</p></td>
 <td><p>福島秀機<br />
@@ -123,7 +123,7 @@
 <td><p>デフテラ領域</p></td>
 <td><p>第二領域</p></td>
 <td><p><a href="../Page/村井贞之.md" title="wikilink">村井贞之</a></p></td>
-<td><p><a href="../Page/中山勝一.md" title="wikilink">中山勝一</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中山勝一" title="wikilink">中山勝一</a></p></td>
 <td></td>
 <td><p>西井正典</p></td>
 <td></td>
@@ -143,7 +143,7 @@
 <td><p>デジャビュ</p></td>
 <td><p>既視感</p></td>
 <td><p>村井貞之</p></td>
-<td><p><a href="../Page/日高政光.md" title="wikilink">日高政光</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日高政光" title="wikilink">日高政光</a></p></td>
 <td><p>三好正人</p></td>
 <td><p>牧孝雄</p></td>
 <td><p>福島秀機</p></td>
@@ -173,7 +173,7 @@
 <td><p>水の向こう側</p></td>
 <td><p>水的那端</p></td>
 <td><p>桶谷顯</p></td>
-<td><p><a href="../Page/杉島邦久.md" title="wikilink">杉島邦久</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杉島邦久" title="wikilink">杉島邦久</a></p></td>
 <td><p>三好正人</p></td>
 <td><p>松川哲也</p></td>
 <td><p>松田寛</p></td>
@@ -315,7 +315,7 @@
 <td><p>ジフェイタス</p></td>
 <td><p>吉菲塔斯</p></td>
 <td><p>久保田雅史</p></td>
-<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
 <td><p>ヤマトナオミチ</p></td>
 <td><p>米山浩平</p></td>
 <td><p>池田有</p></td>
@@ -325,7 +325,7 @@
 <td><p>沈まない月</p></td>
 <td><p>不落之月</p></td>
 <td><p>高山克彥</p></td>
-<td><p><a href="../Page/中原れい.md" title="wikilink">中原れい</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中原れい" title="wikilink">中原れい</a></p></td>
 <td><p>綿田慎也</p></td>
 <td><p>松川哲也</p></td>
 <td><p>松田寛</p></td>
@@ -409,8 +409,8 @@
 
 ## 參見
 
-  - [量子力學](../Page/量子力學.md "wikilink")
-  - [量子電腦](../Page/量子電腦.md "wikilink")
+  - [量子力學](https://zh.wikipedia.org/wiki/量子力學 "wikilink")
+  - [量子電腦](https://zh.wikipedia.org/wiki/量子電腦 "wikilink")
 
 ## 外部連結
 

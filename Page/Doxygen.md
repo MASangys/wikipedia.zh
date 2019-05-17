@@ -1,6 +1,6 @@
 **Doxygen**是一個适用于[C++](../Page/C++.md "wikilink")、[C](../Page/C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[IDL](../Page/接口描述语言.md "wikilink")（[CORBA和Microsoft](../Page/CORBA.md "wikilink")
-flavors）、[Fortran](../Page/Fortran.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[C\#和](../Page/C_Sharp.md "wikilink")[D語言的文檔生成器](../Page/D語言.md "wikilink")。它可以在大多數[類Unix](../Page/類Unix.md "wikilink")[操作系統](../Page/操作系統.md "wikilink")、[macOS以及](../Page/macOS.md "wikilink")[Microsoft
-Windows上執行](../Page/Microsoft_Windows.md "wikilink")。初始版本的Doxygen使用了一些舊版本DOC++的源代码，在那之后，Dimitri
+flavors）、[Fortran](../Page/Fortran.md "wikilink")、[VHDL](../Page/VHDL.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[C\#和](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[D語言的文檔生成器](../Page/D語言.md "wikilink")。它可以在大多數[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")、[macOS以及](https://zh.wikipedia.org/wiki/macOS "wikilink")[Microsoft
+Windows上執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。初始版本的Doxygen使用了一些舊版本DOC++的源代码，在那之后，Dimitri
 van Heesch重写了Doxygen的源代码。
 
 Doxygen是一個編寫軟件參考-{zh-hans:文檔; zh-tw:文件}-的工具。該-{zh-hans:文檔;
@@ -13,7 +13,7 @@ Doxygen的发布遵守[GNU通用公共许可证](../Page/GNU通用公共许可�
 
 ## 用法
 
-如同Javadoc，Doxygen提取文件從源文件的註解。除了Javadoc的語法，Doxygen支持[Qt使用的文檔標記](../Page/Qt.md "wikilink")，並可以輸出成[HTML](../Page/HTML.md "wikilink")、以及[CHM](../Page/HTML_Help.md "wikilink")、[RTF](../Page/RTF.md "wikilink")、[PDF](../Page/PDF.md "wikilink")、[LaTeX](../Page/LaTeX.md "wikilink")、[PostScript或](../Page/PostScript.md "wikilink")[手册页](../Page/手册页.md "wikilink")。
+如同Javadoc，Doxygen提取文件從源文件的註解。除了Javadoc的語法，Doxygen支持[Qt使用的文檔標記](../Page/Qt.md "wikilink")，並可以輸出成[HTML](../Page/HTML.md "wikilink")、以及[CHM](https://zh.wikipedia.org/wiki/HTML_Help "wikilink")、[RTF](../Page/RTF.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[PostScript或](../Page/PostScript.md "wikilink")[手册页](../Page/手册页.md "wikilink")。
 
 ## 範例代碼
 

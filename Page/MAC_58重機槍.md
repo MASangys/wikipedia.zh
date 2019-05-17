@@ -1,5 +1,5 @@
-**MAC-58**是一挺由[法国自](../Page/法国.md "wikilink")[二战過後](../Page/第二次世界大战.md "wikilink")，由圣-艾蒂安兵工廠（，其中一間法國政府轄下的一些國營武器工廠，簡稱：MAS）研製的一挺[重機槍](../Page/重機槍.md "wikilink")，是[AA-52的](../Page/AA-52通用機槍.md "wikilink")[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）大[口徑版本](../Page/口徑.md "wikilink")。
+**MAC-58**是一挺由[法国自](https://zh.wikipedia.org/wiki/法国 "wikilink")[二战過後](../Page/第二次世界大战.md "wikilink")，由圣-艾蒂安兵工廠（，其中一間法國政府轄下的一些國營武器工廠，簡稱：MAS）研製的一挺[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，是[AA-52的](../Page/AA-52通用機槍.md "wikilink")[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
+BMG）大[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 有數挺MAC-58的原型槍進行了測試、在法軍內部服役和保持繼續生產，但由於大量的美國[白朗寧M2重機槍早已經在法軍內部服役](../Page/白朗寧M2重機槍.md "wikilink")，因此它沒有[量產](../Page/大量生產.md "wikilink")。
 
@@ -10,7 +10,7 @@ BMG）大[口徑版本](../Page/口徑.md "wikilink")。
 武器功能當中只有火力模式受到要求強加。其他功能都留給了參與研究的米盧斯、沙泰勒羅和聖-艾蒂安這三家工廠自行倡議。
 
 在沙泰勒羅兵工廠方面，這項目的研究根據首席工程師馬丁和指示的董事，BMI和BMI Rabbe
-Nardin的命令以下委託給Davail技術員。1956年2月12日，這研究在DEFA技術部演示武器的三維圖和原型槍的實現時告終。該武器受[AA-52通用機槍所啟發](../Page/AA-52通用機槍.md "wikilink")，其外殼壓制鋼需要當時的沙泰勒羅塑機使用最近投入的、接近300—400[噸的壓力實現](../Page/英噸.md "wikilink")。它重達26千克，也就是說要比[白朗寧M2HB](../Page/白朗寧M2重機槍.md "wikilink")[美國.50口徑](../Page/12.7×99mm_NATO.md "wikilink")[重機槍](../Page/重機槍.md "wikilink")（39公斤）輕便得多。
+Nardin的命令以下委託給Davail技術員。1956年2月12日，這研究在DEFA技術部演示武器的三維圖和原型槍的實現時告終。該武器受[AA-52通用機槍所啟發](../Page/AA-52通用機槍.md "wikilink")，其外殼壓制鋼需要當時的沙泰勒羅塑機使用最近投入的、接近300—400[噸的壓力實現](https://zh.wikipedia.org/wiki/英噸 "wikilink")。它重達26千克，也就是說要比[白朗寧M2HB](../Page/白朗寧M2重機槍.md "wikilink")[美國.50口徑](../Page/12.7×99mm_NATO.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")（39公斤）輕便得多。
 
 ## 規格
 
@@ -21,7 +21,7 @@ Nardin的命令以下委託給Davail技術員。1956年2月12日，這研究在D
 3.  射程可在達到1,000米和2,000米之間調節；
 4.  制定重量可以方便搬運，特別是在著陸的地面進行射擊；
 5.  比美國12.7毫米重機槍更容易維護和操作；
-6.  發射由美國制定、不同類型的12.7毫米[彈藥](../Page/彈藥.md "wikilink")（尤其[穿甲彈需要有效擊破達](../Page/穿甲彈.md "wikilink")600米的輕型裝甲）。
+6.  發射由美國制定、不同類型的12.7毫米[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（尤其[穿甲彈需要有效擊破達](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")600米的輕型裝甲）。
 
 它不需要因應全新的射擊地點而多加考慮注意，美國才是非常適合注意這點。關於第一個規格方面，在當時的研究中沒有對車輛和自我輕機槍進行定制。」
 
@@ -40,7 +40,7 @@ Versailles）進行他們的下一個實驗。
 6.  多個部件的原理是以AA-52為藍本。
 7.  該重機槍發射北約和法國子彈。
 8.  它使用沙泰勒羅兵工廠研製的柔性鏈接方式安裝在[M3三腳架以上](../Page/M3三腳架.md "wikilink")。
-9.  其[射速為](../Page/射速.md "wikilink")500至600發／分鐘。
+9.  其[射速為](https://zh.wikipedia.org/wiki/射速 "wikilink")500至600發／分鐘。
 
 ## 評價
 

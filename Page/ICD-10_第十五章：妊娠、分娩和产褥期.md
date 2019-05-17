@@ -2,12 +2,12 @@
 
 O00-O08 流产结局的妊娠
 
-  - O00 [异位妊娠](../Page/异位妊娠.md "wikilink")
+  - O00 [异位妊娠](https://zh.wikipedia.org/wiki/异位妊娠 "wikilink")
   - O01
-    [葡萄胎](../Page/葡萄胎.md "wikilink")（[水泡状胎块](../Page/水泡状胎块.md "wikilink")）
+    [葡萄胎](../Page/葡萄胎.md "wikilink")（[水泡状胎块](https://zh.wikipedia.org/wiki/水泡状胎块 "wikilink")）
   - O02 受孕的其他异常产物
-  - O03 [自然流产](../Page/自然流产.md "wikilink")
-  - O04 [医疗性流产](../Page/医疗性流产.md "wikilink")
+  - O03 [自然流产](https://zh.wikipedia.org/wiki/自然流产 "wikilink")
+  - O04 [医疗性流产](https://zh.wikipedia.org/wiki/医疗性流产 "wikilink")
   - O05 其他流产
   - O06 未特指的流产
   - O07 企图流产失败
@@ -16,15 +16,15 @@ O00-O08 流产结局的妊娠
 ## O10-O16 妊娠、分娩和产褥期的水肿、蛋白尿和高血压疾患
 
 O10-O16
-[妊娠](../Page/妊娠.md "wikilink")、[分娩和](../Page/分娩.md "wikilink")[产褥期的水肿](../Page/产褥.md "wikilink")、蛋白尿和高血压疾患
+[妊娠](../Page/妊娠.md "wikilink")、[分娩和](../Page/分娩.md "wikilink")[产褥期的水肿](https://zh.wikipedia.org/wiki/产褥 "wikilink")、蛋白尿和高血压疾患
 
   - O10 原有的高血压并发于妊娠、分娩和产褥期
   - O11 原有的高血压性疾患，并发蛋白尿
   - O12 妊娠期水肿和蛋白尿，不伴有高血压
   - O13
-    [妊娠期](../Page/妊娠期.md "wikilink")[高血压](../Page/高血压.md "wikilink")，不伴有有意义的蛋白尿
+    [妊娠期](../Page/妊娠期.md "wikilink")[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")，不伴有有意义的蛋白尿
   - O14 妊娠期高血压，伴有有意义的蛋白尿
-  - O15 [子痫](../Page/子痫.md "wikilink")
+  - O15 [子痫](https://zh.wikipedia.org/wiki/子痫 "wikilink")
   - O16 未特指的孕产妇高血压
 
 ## O20-O29 主要与妊娠有关的其他孕产妇疾患
@@ -36,26 +36,26 @@ O20-O29 主要与妊娠有关的其他孕产妇疾患
   - O22 妊娠期静脉并发症
   - O23 妊娠期泌尿生殖道的感染
   - O24 妊娠期[糖尿病](../Page/糖尿病.md "wikilink")
-  - O25 妊娠期[营养不良](../Page/营养不良.md "wikilink")
+  - O25 妊娠期[营养不良](https://zh.wikipedia.org/wiki/营养不良 "wikilink")
   - O26 主要与妊娠有关的其他情况的孕产妇医疗
-  - O28 [孕产妇产前筛选检查的异常所见](../Page/孕产妇.md "wikilink")
+  - O28 [孕产妇产前筛选检查的异常所见](https://zh.wikipedia.org/wiki/孕产妇 "wikilink")
   - O29 妊娠期间麻醉的并发症
 
 ## O30-O48 与胎儿和羊膜腔及可能的分娩问题有关的孕产妇医疗
 
 O30-O48
-与[胎儿和](../Page/胎儿.md "wikilink")[羊膜腔及可能的分娩问题有关的孕产妇医疗](../Page/羊膜腔.md "wikilink")
+与[胎儿和](https://zh.wikipedia.org/wiki/胎儿 "wikilink")[羊膜腔及可能的分娩问题有关的孕产妇医疗](https://zh.wikipedia.org/wiki/羊膜腔 "wikilink")
 
-  - O30 [多胎妊娠](../Page/多胎妊娠.md "wikilink")
+  - O30 [多胎妊娠](https://zh.wikipedia.org/wiki/多胎妊娠 "wikilink")
   - O31 特发于多胎妊娠的并发症
   - O32 为已知或可疑疑胎儿先露异常给予的孕产妇医疗
   - O33 为已知或可疑胎盆不称给予的孕产妇医疗
   - O34 为已知或可疑盆腔器官异常给予的孕产妇医疗
   - O35 为已知或可疑胎儿异常和损害给予的孕产妇医疗
   - O36 为其他已知或可疑胎儿问题给予的孕产妇医疗
-  - O40 [羊水过多](../Page/羊水.md "wikilink")
+  - O40 [羊水过多](https://zh.wikipedia.org/wiki/羊水 "wikilink")
   - O41 羊水和胎膜的其他疾患
-  - O42 [早期羊膜囊破裂](../Page/早期羊膜囊破裂.md "wikilink")
+  - O42 [早期羊膜囊破裂](https://zh.wikipedia.org/wiki/早期羊膜囊破裂 "wikilink")
   - O43 胎盘疾患
   - O44 胎盘前置
   - O45 胎盘的过早分离（胎盘早期脱离）
@@ -66,12 +66,12 @@ O30-O48
 ## O60-O75 产程和分娩的并发症
 
 O60-O75
-[产程和](../Page/产程.md "wikilink")[分娩的并发症](../Page/分娩.md "wikilink")
+[产程和](https://zh.wikipedia.org/wiki/产程 "wikilink")[分娩的并发症](../Page/分娩.md "wikilink")
 
-  - O60 [早产](../Page/早产.md "wikilink")
+  - O60 [早产](https://zh.wikipedia.org/wiki/早产 "wikilink")
   - O61 引产失败
   - O62 产力异常
-  - O63 [滞产](../Page/滞产.md "wikilink")
+  - O63 [滞产](https://zh.wikipedia.org/wiki/滞产 "wikilink")
   - O64 由于胎儿的胎位不正和先露异常引起的梗阻性分娩
   - O65 由于母体骨盆异常引起的梗阻性分娩
   - O66 其他梗阻性分娩
@@ -82,7 +82,7 @@ O60-O75
   - O71 其他产科创伤
   - O72 产后出血
   - O73
-    [胎盘和](../Page/胎盘.md "wikilink")[胎膜滞留](../Page/胎膜.md "wikilink")，不伴有出血
+    [胎盘和](https://zh.wikipedia.org/wiki/胎盘 "wikilink")[胎膜滞留](https://zh.wikipedia.org/wiki/胎膜 "wikilink")，不伴有出血
   - O74 产程和分娩期间麻醉的并发症
   - O75 产程和分娩的其他并发症，不可归类在他处者
 
@@ -92,10 +92,10 @@ O80-O84 [分娩](../Page/分娩.md "wikilink")
 
   - O80 单胎顺产
   - O81
-    借助[产钳和](../Page/产钳.md "wikilink")[真空吸引器的单胎分娩](../Page/真空吸引器.md "wikilink")
+    借助[产钳和](https://zh.wikipedia.org/wiki/产钳 "wikilink")[真空吸引器的单胎分娩](https://zh.wikipedia.org/wiki/真空吸引器 "wikilink")
   - O82 经剖宫产术的单胎分娩
   - O83 其他助产的单胎分娩
-  - O84 [多胎分娩](../Page/多胎分娩.md "wikilink")
+  - O84 [多胎分娩](https://zh.wikipedia.org/wiki/多胎分娩 "wikilink")
 
 ## O85-O92 主要与产褥期有关的并发症
 
@@ -122,7 +122,7 @@ O95-O99 其他产科科情况，不可归类在他处者
 
 ## 参见
 
-  - [ICD](../Page/ICD.md "wikilink")
+  - [ICD](https://zh.wikipedia.org/wiki/ICD "wikilink")
   - [ICD-10](../Page/ICD-10.md "wikilink")
 
 [Category:疾病](https://zh.wikipedia.org/wiki/Category:疾病 "wikilink")

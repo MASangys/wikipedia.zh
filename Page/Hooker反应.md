@@ -1,14 +1,14 @@
 **Hooker反应**（Hooker reaction，1936）
 
-某些[萘醌衍生物](../Page/萘醌.md "wikilink")（如[黄钟花醌](../Page/黄钟花醌.md "wikilink")）用[碱性](../Page/碱性.md "wikilink")[高锰酸钾发生](../Page/高锰酸钾.md "wikilink")[降解](../Page/降解.md "wikilink")，以[二氧化碳的形式失去一个](../Page/二氧化碳.md "wikilink")[亚甲基单位](../Page/亚甲基.md "wikilink")，生成烃基链缩短的产物。\[1\]\[2\]
+某些[萘醌衍生物](../Page/萘醌.md "wikilink")（如[黄钟花醌](https://zh.wikipedia.org/wiki/黄钟花醌 "wikilink")）用[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")[高锰酸钾发生](../Page/高锰酸钾.md "wikilink")[降解](https://zh.wikipedia.org/wiki/降解 "wikilink")，以[二氧化碳的形式失去一个](../Page/二氧化碳.md "wikilink")[亚甲基单位](https://zh.wikipedia.org/wiki/亚甲基 "wikilink")，生成烃基链缩短的产物。\[1\]\[2\]
 
 
 :[HookerReaction.svg](https://zh.wikipedia.org/wiki/File:HookerReaction.svg "fig:HookerReaction.svg")
 
 ## 反应机理
 
-β-烷基（以亚甲基和环相连）[羟基萘醌在高锰酸钾作用下](../Page/羟基.md "wikilink")，首先转变为α,β-二羟基[茚满酮](../Page/茚满酮.md "wikilink")-β-羧酸，这个化合物可以分离出来。
-它进一步以酮式氧化为邻二酮。邻二酮的活泼亚甲基进行[羟醛缩合](../Page/羟醛缩合.md "wikilink")，异构化为烯醇式，β-酮酸的[插烯化合物](../Page/插烯.md "wikilink")，它容易[脱羧生成二羟基不饱和酮](../Page/脱羧.md "wikilink")，接着发生[芳构化转变为三酚](../Page/芳构化.md "wikilink")，三酚再进一步脱氢得到[醌](../Page/醌.md "wikilink")。\[3\]
+β-烷基（以亚甲基和环相连）[羟基萘醌在高锰酸钾作用下](../Page/羟基.md "wikilink")，首先转变为α,β-二羟基[茚满酮](https://zh.wikipedia.org/wiki/茚满酮 "wikilink")-β-羧酸，这个化合物可以分离出来。
+它进一步以酮式氧化为邻二酮。邻二酮的活泼亚甲基进行[羟醛缩合](../Page/羟醛缩合.md "wikilink")，异构化为烯醇式，β-酮酸的[插烯化合物](../Page/插烯.md "wikilink")，它容易[脱羧生成二羟基不饱和酮](https://zh.wikipedia.org/wiki/脱羧 "wikilink")，接着发生[芳构化转变为三酚](https://zh.wikipedia.org/wiki/芳构化 "wikilink")，三酚再进一步脱氢得到[醌](../Page/醌.md "wikilink")。\[3\]
 
 ## 参见
 

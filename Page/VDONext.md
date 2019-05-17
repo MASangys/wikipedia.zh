@@ -1,4 +1,4 @@
-**VDONext**，又稱**V壹網**，是一個創作生活短片的視像資訊[網站](../Page/網站.md "wikilink")，亦是[香港上市公司](../Page/香港.md "wikilink")[壹傳媒集團](../Page/壹傳媒集團.md "wikilink")（）全資附屬機構\[1\]。網站提供一站式視聽資娛，迎合現代生活視像化潮流，內容包括娛樂、烹飪、美容、數碼科技、笑話、生活冷知識加通識、親子、星座及生肖運程動畫等內容。在《[蘋果日報](../Page/香港蘋果日報.md "wikilink")》的報紙版及網絡版內容中均加入部分VDONext的內容連結\[2\]，用以提供延伸閱讀。
+**VDONext**，又稱**V壹網**，是一個創作生活短片的視像資訊[網站](../Page/網站.md "wikilink")，亦是[香港上市公司](../Page/香港.md "wikilink")[壹傳媒集團](https://zh.wikipedia.org/wiki/壹傳媒集團 "wikilink")（）全資附屬機構\[1\]。網站提供一站式視聽資娛，迎合現代生活視像化潮流，內容包括娛樂、烹飪、美容、數碼科技、笑話、生活冷知識加通識、親子、星座及生肖運程動畫等內容。在《[蘋果日報](https://zh.wikipedia.org/wiki/香港蘋果日報 "wikilink")》的報紙版及網絡版內容中均加入部分VDONext的內容連結\[2\]，用以提供延伸閱讀。
 
 在2010年，VDONext的內容更伸展至流動平台，先後推出手機版網頁、VDONext iPhone App及iPad
 App，同時還與Sony達成協議，率先將本地的網上視頻內容，透過Sony BRAVIA
@@ -7,7 +7,7 @@ Video），將VDONext的節目帶入觀眾的客廳中。
 
 ## 節目
 
-目前VDONext設有9個生活頻道，節目內容均以[廣東話為主](../Page/廣東話.md "wikilink")：
+目前VDONext設有9個生活頻道，節目內容均以[廣東話為主](https://zh.wikipedia.org/wiki/廣東話 "wikilink")：
 
   - 私家廚房 - 你都煮得喜
   - 完美主義 - 人人學靚o的
@@ -51,7 +51,7 @@ Video），將VDONext的節目帶入觀眾的客廳中。
   - [VDONext在統計網站Alexa的排名](http://www.alexa.com/siteinfo/vdonext.com)
     </div>
 
-[分類:壹傳媒](../Page/分類:壹傳媒.md "wikilink")
+[分類:壹傳媒](https://zh.wikipedia.org/wiki/分類:壹傳媒 "wikilink")
 
 [Category:2009年建立的网站](https://zh.wikipedia.org/wiki/Category:2009年建立的网站 "wikilink")
 [Category:2012年廢除](https://zh.wikipedia.org/wiki/Category:2012年廢除 "wikilink")

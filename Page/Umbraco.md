@@ -1,4 +1,4 @@
-**Umbraco**是一个在[万维网和](../Page/万维网.md "wikilink")[内部网上发布内容的](../Page/内部网.md "wikilink")[開放原始碼的](../Page/開放原始碼.md "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")（CMS），它以[C\#撰寫](../Page/C♯.md "wikilink")，并依赖于微软的基础设施，幾乎所有的動作都是AJAX。Umbraco最大的特色是[所見即所得編輯器幾乎與](../Page/所見即所得.md "wikilink")[Microsoft
+**Umbraco**是一个在[万维网和](../Page/万维网.md "wikilink")[内部网上发布内容的](https://zh.wikipedia.org/wiki/内部网 "wikilink")[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")（CMS），它以[C\#撰寫](../Page/C♯.md "wikilink")，并依赖于微软的基础设施，幾乎所有的動作都是AJAX。Umbraco最大的特色是[所見即所得編輯器幾乎與](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[Microsoft
 Word完全一樣](../Page/Microsoft_Word.md "wikilink")。自4.5版本开始，整个系统以[MIT許可證可用](../Page/MIT許可證.md "wikilink")。\[1\]
 
 ## 参见

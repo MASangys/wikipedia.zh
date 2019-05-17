@@ -1,13 +1,13 @@
 **Walking on the Chinese
-Wall**是一首由[美國](../Page/美國.md "wikilink")[艾美音樂獎提名的美國作詞家和唱片製作人](../Page/艾美音樂獎.md "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")(Roxanne
+Wall**是一首由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾美音樂獎提名的美國作詞家和唱片製作人](https://zh.wikipedia.org/wiki/艾美音樂獎 "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")(Roxanne
 Seeman)和創作型歌手Billie Hughes所製作的歌曲.
 剛從[日本回來的Hughes深深的被東方文化所薰陶](../Page/日本.md "wikilink"),
-希望也剛從中國回來的[西門能幫他剛製作的一首歌曲寫出帶有中國風味的歌詞](../Page/西門.md "wikilink").
+希望也剛從中國回來的[西門能幫他剛製作的一首歌曲寫出帶有中國風味的歌詞](https://zh.wikipedia.org/wiki/西門 "wikilink").
 西門依據她在中國北京旅遊途中,
-在[長城北門上看到的中國風味來寫出觸動人心的歌詞](../Page/長城.md "wikilink").
-曾經在[哥倫比亞大學專攻於中國藝術與文學的西門也有參考](../Page/哥倫比亞大學.md "wikilink")[易經](../Page/易經.md "wikilink")("Book
-of Changes")和[紅樓夢](../Page/紅樓夢.md "wikilink")(“Dream of the Red
-Chamber”)來作詞.
+在[長城北門上看到的中國風味來寫出觸動人心的歌詞](https://zh.wikipedia.org/wiki/長城 "wikilink").
+曾經在[哥倫比亞大學專攻於中國藝術與文學的西門也有參考](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")[易經](https://zh.wikipedia.org/wiki/易經 "wikilink")("Book
+of Changes")和[紅樓夢](https://zh.wikipedia.org/wiki/紅樓夢 "wikilink")(“Dream
+of the Red Chamber”)來作詞.
 
 “Walking on the Chinese Wall” 是Philip Bailey在1984年獨奏專輯 “Chinese Wall”
 的主打歌.
@@ -20,9 +20,9 @@ Chamber”)來作詞.
 Hughes见面。很快，Hughes去了日本大阪表演，呆了四个月。Hughes回来后，两人建立了合作关系并且购买了音乐录制设备。Hughes深深地被东方文化吸引，并且对西门说“帮我写点中国的东西”。西门花了几个月完成了歌词，并且通过她在长城北门的经历和感受，完成了副歌的创作。她通过自己对中国艺术、文学以及哲学的理解，在副歌第二局借鉴了
 [易经](../Page/易经.md "wikilink") ("Book of Changes") 和
 [易经](../Page/易经.md "wikilink") 占卜，在桥段里借鉴了
-[紅樓夢](../Page/紅樓夢.md "wikilink")(“Dream of the Red Chamber”)
-红楼梦的 "Red chamber dream, from the sky above, ancient tales of hidden
-Chinese love."
+[紅樓夢](https://zh.wikipedia.org/wiki/紅樓夢 "wikilink")(“Dream of the
+Red Chamber”) 红楼梦的 "Red chamber dream, from the sky above, ancient tales
+of hidden Chinese love."
 
 西门在周一把歌曲发给了 Philip Bailey ，之后周五西门和Hughes飞去了纽约。Bailey 让西门和 Hughes 把和弦图带到
 JFK 机场给他看。在机场，Hughes和西门把和弦和歌曲的磁带都给了Bailey。

@@ -1,11 +1,11 @@
 **Microsoft
-Works**是[微软出品的一款面向家庭用户的](../Page/微软.md "wikilink")[办公套件](../Page/办公室套装软件比较.md "wikilink")。相较于[Microsoft
-Office体积更小](../Page/Microsoft_Office.md "wikilink")、价格更便宜，并且功能较少。其核心程序包括一个[文字处理器](../Page/文字处理器.md "wikilink")、一个[电子表格和一个](../Page/电子表格.md "wikilink")[数据库](../Page/数据库.md "wikilink")。更新的版本包括[日历和字典](../Page/日历.md "wikilink")，而旧版本包括一个[虚拟终端](../Page/虚拟终端.md "wikilink")。「Works
+Works**是[微软出品的一款面向家庭用户的](../Page/微软.md "wikilink")[办公套件](https://zh.wikipedia.org/wiki/办公室套装软件比较 "wikilink")。相较于[Microsoft
+Office体积更小](../Page/Microsoft_Office.md "wikilink")、价格更便宜，并且功能较少。其核心程序包括一个[文字处理器](../Page/文字处理器.md "wikilink")、一个[电子表格和一个](https://zh.wikipedia.org/wiki/电子表格 "wikilink")[数据库](../Page/数据库.md "wikilink")。更新的版本包括[日历和字典](https://zh.wikipedia.org/wiki/日历 "wikilink")，而旧版本包括一个[虚拟终端](../Page/虚拟终端.md "wikilink")。「Works
 Portfolio」的效果提供一個類似[Microsoft
-Binder的功能](../Page/Microsoft_Binder.md "wikilink")。微軟於2009年10月宣佈，Microsoft
+Binder的功能](https://zh.wikipedia.org/wiki/Microsoft_Binder "wikilink")。微軟於2009年10月宣佈，Microsoft
 Works會於2010年下架，代之是削減了大量功能的Microsoft Office Starter 2010。\[1\]Office
 Starter 2010-{只}-支援[Windows
-Vista及以上版本的系統及只預裝在](../Page/Windows_Vista.md "wikilink")[OEM廠商的電腦上](../Page/OEM.md "wikilink")。\[2\]同时，它缺少一个Microsoft
+Vista及以上版本的系統及只預裝在](../Page/Windows_Vista.md "wikilink")[OEM廠商的電腦上](https://zh.wikipedia.org/wiki/OEM "wikilink")。\[2\]同时，它缺少一个Microsoft
 Works数据库的替代品。
 
 ## 版本歷史

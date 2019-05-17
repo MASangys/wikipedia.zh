@@ -1,19 +1,19 @@
-**UTAU**是一款由[飴屋／菖蒲氏開發的](../Page/飴屋／菖蒲氏.md "wikilink")[免費而適用於](../Page/免費.md "wikilink")[Windows](../Page/Microsoft_Windows.md "wikilink")、[Mac
-OS的](../Page/Mac_OS.md "wikilink")[歌聲合成](../Page/語音合成.md "wikilink")[軟體](../Page/軟體.md "wikilink")。於[2008年](../Page/2008年.md "wikilink")3月公開Windows版本，並於2011年5月27日公開適用於[Mac
+**UTAU**是一款由[飴屋／菖蒲氏開發的](https://zh.wikipedia.org/wiki/飴屋／菖蒲氏 "wikilink")[免費而適用於](https://zh.wikipedia.org/wiki/免費 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
+OS的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[歌聲合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。於[2008年](../Page/2008年.md "wikilink")3月公開Windows版本，並於2011年5月27日公開適用於[Mac
 OS
-X的](../Page/macOS.md "wikilink")「UTAU-Synth」。2010年1月份（v0.2.60版之後）改為[共享軟體](../Page/共享軟體.md "wikilink")。
+X的](https://zh.wikipedia.org/wiki/macOS "wikilink")「UTAU-Synth」。2010年1月份（v0.2.60版之後）改為[共享軟體](../Page/共享軟體.md "wikilink")。
 
 ## 簡介
 
-UTAU的正式名稱為「歌聲合成工具UTAU」，是在「人力[VOCALOID](../Page/VOCALOID.md "wikilink")」（透過剪輯人声來達成接近vocaloid的效果）下誕生的產物。軟體開發者為飴屋／菖蒲氏，於[niconico動畫上被稱為飴屋P](../Page/niconico.md "wikilink")。
+UTAU的正式名稱為「歌聲合成工具UTAU」，是在「人力[VOCALOID](../Page/VOCALOID.md "wikilink")」（透過剪輯人声來達成接近vocaloid的效果）下誕生的產物。軟體開發者為飴屋／菖蒲氏，於[niconico動畫上被稱為飴屋P](https://zh.wikipedia.org/wiki/niconico "wikilink")。
 
-UTAU最大的特徵，是使用自己或者他人錄製的[50音](../Page/50音.md "wikilink")[WAVE數據](../Page/WAV.md "wikilink")-{}-資料，在該軟體[資料庫登錄之後](../Page/資料庫.md "wikilink")，便可用該聲音合成歌曲。
+UTAU最大的特徵，是使用自己或者他人錄製的[50音](https://zh.wikipedia.org/wiki/50音 "wikilink")[WAVE數據](../Page/WAV.md "wikilink")-{}-資料，在該軟體[資料庫登錄之後](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，便可用該聲音合成歌曲。
 
 聲音數據之[WAVE格式應為](../Page/WAV.md "wikilink")：單聲道（Mono），44100Hz，16bit。
 
 ## 參見
 
-  - [重音teto](../Page/重音teto.md "wikilink")
+  - [重音teto](https://zh.wikipedia.org/wiki/重音teto "wikilink")
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
 
 ## 外部連結

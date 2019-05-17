@@ -1,5 +1,5 @@
 **SM
-Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂假日合辑的计划名](../Page/SM娛樂.md "wikilink")，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
+Town**，[韓國最大娱乐經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂假日合辑的计划名](../Page/SM娛樂.md "wikilink")，亦是家族演唱會的名稱，包括当前SM娛樂旗下所有艺人。
 
 ## 音樂作品
 
@@ -7,7 +7,7 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 
 | 專輯                                                                                                                                     | 發行日期        |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Christmas in SMTown](../Page/Christmas_in_SMTown.md "wikilink")                                                                       | 1999年12月15日 |
+| [Christmas in SMTown](https://zh.wikipedia.org/wiki/Christmas_in_SMTown "wikilink")                                                    | 1999年12月15日 |
 | [Christmas Winter Vacation in SMTown.com](../Page/Christmas_Winter_Vacation_in_SMTown.com.md "wikilink")                               | 2000年12月8日  |
 | [Christmas Winter Vacation in SMTown.com - Angel Eyes](../Page/Christmas_Winter_Vacation_in_SMTown.com_-_Angel_Eyes.md "wikilink")     | 2001年12月4日  |
 | [Summer Vacation In SMTown.com](../Page/Summer_Vacation_In_SMTown.com.md "wikilink")                                                   | 2002年6月10日  |
@@ -21,7 +21,7 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 | [2007 Winter SMTown – Only Love](../Page/2007_Winter_SMTown_–_Only_Love.md "wikilink")                                                 | 2007年12月10日 |
 | [2009 Summer SMTown – We Are Shining](../Page/2009_Summer_SMTown_–_We_Are_Shining.md "wikilink")                                       | 2009年8月14日  |
 | [2011 Winter SMTown - The Warmest Gift](../Page/2011_Winter_SMTown_-_The_Warmest_Gift.md "wikilink")                                   | 2011年12月14日 |
-| [10 CC X SM: SEOUL MELODY](../Page/10_CC_X_SM:_SEOUL_MELODY.md "wikilink")                                                             | 2013年3月28日  |
+| [10 CC X SM: SEOUL MELODY](https://zh.wikipedia.org/wiki/10_CC_X_SM:_SEOUL_MELODY "wikilink")                                          | 2013年3月28日  |
 |                                                                                                                                        |             |
 
 ### 精選
@@ -71,19 +71,19 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 
 ### SMTOWN Summer Concert 2007
 
-| 日期        | 城市                             | 舉行地點                                       |
-| --------- | ------------------------------ | ------------------------------------------ |
-| 2007年7月7日 | [首爾](../Page/首爾.md "wikilink") | [大邱世界杯體育場](../Page/大邱世界杯體育場.md "wikilink") |
+| 日期        | 城市                                                | 舉行地點                                                          |
+| --------- | ------------------------------------------------- | ------------------------------------------------------------- |
+| 2007年7月7日 | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [大邱世界杯體育場](https://zh.wikipedia.org/wiki/大邱世界杯體育場 "wikilink") |
 
 ### SMTOWN Live '08
 
-| 日期         | 城市                             | 舉行地點                                         |
-| ---------- | ------------------------------ | -------------------------------------------- |
-| 2008年8月15日 | [首爾](../Page/首爾.md "wikilink") | [首爾綜合運動場主體育場](../Page/首爾綜合運動場.md "wikilink") |
-| 2008年9月13日 | [上海](../Page/上海.md "wikilink") | [上海體育館](../Page/上海體育館.md "wikilink")         |
-| 2009年2月7日  | [泰國](../Page/泰國.md "wikilink") | [拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")   |
+| 日期         | 城市                                                | 舉行地點                                                    |
+| ---------- | ------------------------------------------------- | ------------------------------------------------------- |
+| 2008年8月15日 | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [首爾綜合運動場主體育場](../Page/首爾綜合運動場.md "wikilink")            |
+| 2008年9月13日 | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") | [上海體育館](https://zh.wikipedia.org/wiki/上海體育館 "wikilink") |
+| 2009年2月7日  | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink") | [拉加曼加拉體育場](../Page/拉加曼加拉體育場.md "wikilink")              |
 
-### [SMTOWN Live '10 World Tour](../Page/SMTOWN_Live_'10_World_Tour.md "wikilink")
+### [SMTOWN Live '10 World Tour](https://zh.wikipedia.org/wiki/SMTOWN_Live_'10_World_Tour "wikilink")
 
 <table>
 <thead>
@@ -96,22 +96,22 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 <tbody>
 <tr class="odd">
 <td><p>2010年8月21日</p></td>
-<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">首爾綜合運動場主體育場</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2010年9月4日</p></td>
-<td><p><a href="../Page/洛杉磯.md" title="wikilink">洛杉磯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p><a href="../Page/斯台普斯中心.md" title="wikilink">斯台普斯中心</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2010年9月11日</p></td>
-<td><p><a href="../Page/上海.md" title="wikilink">上海</a></p></td>
-<td><p><a href="../Page/虹口足球場.md" title="wikilink">虹口足球場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/虹口足球場" title="wikilink">虹口足球場</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年1月25－26日</p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/國立代代木競技場.md" title="wikilink">國立代代木競技場</a></p></td>
 </tr>
 <tr class="odd">
@@ -121,68 +121,68 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 </tr>
 <tr class="even">
 <td><p>2011年9月2－4日 <small>(Special Edition)</small></p></td>
-<td><p><a href="../Page/東京.md" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/東京巨蛋.md" title="wikilink">東京巨蛋</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年10月23日</p></td>
-<td><p><a href="../Page/紐約.md" title="wikilink">紐約</a></p></td>
-<td><p><a href="../Page/麥迪遜花園廣場.md" title="wikilink">麥迪遜花園廣場</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麥迪遜花園廣場" title="wikilink">麥迪遜花園廣場</a></p></td>
 </tr>
 </tbody>
 </table>
 
-### [SMTOWN Live World Tour III](../Page/SMTOWN_Live_World_Tour_III.md "wikilink")
+### [SMTOWN Live World Tour III](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_III "wikilink")
 
-| 日期                                              | 城市                               | 舉行地點                                         |
-| ----------------------------------------------- | -------------------------------- | -------------------------------------------- |
-| 2012年5月20日                                      | [洛杉磯](../Page/洛杉磯.md "wikilink") | [斯台普斯中心](../Page/斯台普斯中心.md "wikilink")       |
-| 2012年6月9日                                       | [台灣](../Page/台灣.md "wikilink")   | [新竹縣立體育場](../Page/新竹縣立體育場.md "wikilink")     |
-| 2012年8月4－5日                                     | [東京](../Page/東京.md "wikilink")   | [東京巨蛋](../Page/東京巨蛋.md "wikilink")           |
-| 2012年8月18日                                      | [首爾](../Page/首爾.md "wikilink")   | [蠶室棒球場](../Page/蠶室棒球場.md "wikilink")         |
-| 2012年9月22日                                      | [雅加達](../Page/雅加達.md "wikilink") | [格羅拉蓬卡諾體育場](../Page/格羅拉蓬卡諾體育場.md "wikilink") |
-| 2012年11月23日                                     | [新加坡](../Page/新加坡.md "wikilink") | [濱海灣浮動舞台](../Page/濱海灣浮動舞台.md "wikilink")     |
-| 2012年11月25日                                     | [曼谷](../Page/曼谷.md "wikilink")   | [SCG 運動場](../Page/SCG_運動場.md "wikilink")     |
-| 2013年10月19日                                     | [北京](../Page/北京.md "wikilink")   | [北京国家体育场](../Page/北京国家体育场.md "wikilink")     |
-| 2013年10月26－27日 <small>(Special Edition)</small> | [東京](../Page/東京.md "wikilink")   | [東京巨蛋](../Page/東京巨蛋.md "wikilink")           |
+| 日期                                              | 城市                                                  | 舉行地點                                                            |
+| ----------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
+| 2012年5月20日                                      | [洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink") | [斯台普斯中心](../Page/斯台普斯中心.md "wikilink")                          |
+| 2012年6月9日                                       | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")   | [新竹縣立體育場](../Page/新竹縣立體育場.md "wikilink")                        |
+| 2012年8月4－5日                                     | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")   | [東京巨蛋](../Page/東京巨蛋.md "wikilink")                              |
+| 2012年8月18日                                      | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")   | [蠶室棒球場](https://zh.wikipedia.org/wiki/蠶室棒球場 "wikilink")         |
+| 2012年9月22日                                      | [雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink") | [格羅拉蓬卡諾體育場](https://zh.wikipedia.org/wiki/格羅拉蓬卡諾體育場 "wikilink") |
+| 2012年11月23日                                     | [新加坡](../Page/新加坡.md "wikilink")                    | [濱海灣浮動舞台](https://zh.wikipedia.org/wiki/濱海灣浮動舞台 "wikilink")     |
+| 2012年11月25日                                     | [曼谷](../Page/曼谷.md "wikilink")                      | [SCG 運動場](https://zh.wikipedia.org/wiki/SCG_運動場 "wikilink")     |
+| 2013年10月19日                                     | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")   | [北京国家体育场](https://zh.wikipedia.org/wiki/北京国家体育场 "wikilink")     |
+| 2013年10月26－27日 <small>(Special Edition)</small> | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")   | [東京巨蛋](../Page/東京巨蛋.md "wikilink")                              |
 
 ### [SMTOWN WEEK](../Page/SMTOWN_WEEK.md "wikilink")
 
-| 日期             | 演唱會主題                      | 歌手                                                                             | 舉行地點                 |
-| -------------- | -------------------------- | ------------------------------------------------------------------------------ | -------------------- |
-| 2013年12月21日    | The Wizard \[1\]           | [SHINee](../Page/SHINee.md "wikilink")                                         | 韓國國際展覽中心第一展覽館5廳\[2\] |
-| 2013年12月22日    | Märchen Fantasy \[3\]      | [少女時代](../Page/少女時代.md "wikilink")                                             |                      |
-| 2013年12月24－25日 | Christmas Wonderland \[4\] | [f(x)](../Page/f\(x\)_\(組合\).md "wikilink") & [EXO](../Page/EXO.md "wikilink") |                      |
-| 2013年12月26－27日 | Time Slip \[5\]            | [東方神起](../Page/東方神起.md "wikilink")                                             |                      |
-| 2013年12月28－29日 | Treasure Island \[6\]      | [Super Junior](../Page/Super_Junior.md "wikilink")                             |                      |
+| 日期             | 演唱會主題                      | 歌手                                                                                                | 舉行地點                 |
+| -------------- | -------------------------- | ------------------------------------------------------------------------------------------------- | -------------------- |
+| 2013年12月21日    | The Wizard \[1\]           | [SHINee](../Page/SHINee.md "wikilink")                                                            | 韓國國際展覽中心第一展覽館5廳\[2\] |
+| 2013年12月22日    | Märchen Fantasy \[3\]      | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                                             |                      |
+| 2013年12月24－25日 | Christmas Wonderland \[4\] | [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink") & [EXO](../Page/EXO.md "wikilink") |                      |
+| 2013年12月26－27日 | Time Slip \[5\]            | [東方神起](../Page/東方神起.md "wikilink")                                                                |                      |
+| 2013年12月28－29日 | Treasure Island \[6\]      | [Super Junior](../Page/Super_Junior.md "wikilink")                                                |                      |
 
-### [SMTOWN Live World Tour IV](../Page/SMTOWN_Live_World_Tour_IV.md "wikilink")
+### [SMTOWN Live World Tour IV](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_IV "wikilink")
 
-| 日期               | 城市                             | 舉行地點                                       |
-| ---------------- | ------------------------------ | ------------------------------------------ |
-| 2014年8月15日       | [首爾](../Page/首爾.md "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink") |
-| 2014年10月4－5日     | [東京](../Page/東京.md "wikilink") | [味之素體育場](../Page/味之素體育場.md "wikilink")     |
-| 2014年10月18日      | [上海](../Page/上海.md "wikilink") | [上海八万人体育场](../Page/上海體育場.md "wikilink")    |
-| 2015年3月21日       | [台灣](../Page/台灣.md "wikilink") | [新竹縣立體育場](../Page/新竹縣立體育場.md "wikilink")   |
-| 2015年7月5日 - 6日   | [東京](../Page/東京.md "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink")         |
-| 2015年7月25日 - 26日 | [大阪](../Page/大阪.md "wikilink") | [大阪巨蛋](../Page/大阪巨蛋.md "wikilink")         |
+| 日期               | 城市                                                | 舉行地點                                                      |
+| ---------------- | ------------------------------------------------- | --------------------------------------------------------- |
+| 2014年8月15日       | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                |
+| 2014年10月4－5日     | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | [味之素體育場](https://zh.wikipedia.org/wiki/味之素體育場 "wikilink") |
+| 2014年10月18日      | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink") | [上海八万人体育场](../Page/上海體育場.md "wikilink")                   |
+| 2015年3月21日       | [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") | [新竹縣立體育場](../Page/新竹縣立體育場.md "wikilink")                  |
+| 2015年7月5日 - 6日   | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink")                        |
+| 2015年7月25日 - 26日 | [大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink") | [大阪巨蛋](../Page/大阪巨蛋.md "wikilink")                        |
 
 ### SMTOWN Live World Tour Ⅴ
 
-| 日期               | 城市                             | 舉行地點                               |
-| ---------------- | ------------------------------ | ---------------------------------- |
-| 2016年7月16日 - 17日 | [大阪](../Page/大阪.md "wikilink") | [大阪巨蛋](../Page/大阪巨蛋.md "wikilink") |
-| 2016年8月13日 - 14日 | [東京](../Page/東京.md "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink") |
+| 日期               | 城市                                                | 舉行地點                               |
+| ---------------- | ------------------------------------------------- | ---------------------------------- |
+| 2016年7月16日 - 17日 | [大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink") | [大阪巨蛋](../Page/大阪巨蛋.md "wikilink") |
+| 2016年8月13日 - 14日 | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink") |
 
-### [SMTOWN Live World Tour VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink")
+### [SMTOWN Live World Tour VI](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_VI "wikilink")
 
-| 日期                                                                                                        | 城市                             | 舉行地點                                             |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------ | ------------------------------------------------ |
-| 2017年7月8日\[7\]                                                                                            | [首爾](../Page/首爾.md "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")       |
-| 2017年7月15－16日<ref name="Ⅵ japan">\[<https://smtown.jp/news/793/> 「SMTOWN LIVE WORLD TOUR VI IN JAPAN」開催決定 | \]</ref>                       | [大阪](../Page/大阪.md "wikilink")                   |
-| 2017年7月27－28日\[8\]                                                                                        | [東京](../Page/東京.md "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink")               |
-| 2018年4月6日                                                                                                 | [杜拜](../Page/杜拜.md "wikilink") | [阿拉伯聯合大公國運動場](../Page/阿拉伯聯合大公國運動場.md "wikilink") |
-|                                                                                                           |                                |                                                  |
+| 日期                                                                                                        | 城市                                                | 舉行地點                                                                |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------- |
+| 2017年7月8日\[7\]                                                                                            | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                          |
+| 2017年7月15－16日<ref name="Ⅵ japan">\[<https://smtown.jp/news/793/> 「SMTOWN LIVE WORLD TOUR VI IN JAPAN」開催決定 | \]</ref>                                          | [大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")                   |
+| 2017年7月27－28日\[8\]                                                                                        | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink")                                  |
+| 2018年4月6日                                                                                                 | [杜拜](../Page/杜拜.md "wikilink")                    | [阿拉伯聯合大公國運動場](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國運動場 "wikilink") |
+|                                                                                                           |                                                   |                                                                     |
 
 ### SMTOWN SPECIAL STAGE in HONG KONG
 
@@ -209,7 +209,7 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 </tbody>
 </table>
 
-### [SMTOWN Live 2018](../Page/SMTOWN_Live_2018.md "wikilink")
+### [SMTOWN Live 2018](https://zh.wikipedia.org/wiki/SMTOWN_Live_2018 "wikilink")
 
 | 日期                                                                                                 | 城市                                       | 舉行地點     |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------- | -------- |
@@ -223,12 +223,12 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 | 2019年1月18-19日 | [智利](../Page/智利.md "wikilink") | 智利聖地牙哥國家體育場 |
 |               |                                |             |
 
-### [SMTOWN Live 2019](../Page/SMTOWN_Live_2019.md "wikilink")
+### [SMTOWN Live 2019](https://zh.wikipedia.org/wiki/SMTOWN_Live_2019 "wikilink")
 
-| 日期                 | 城市                             | 舉行地點                               |
-| ------------------ | ------------------------------ | ---------------------------------- |
-| 2019年8月3－5日 \[10\] | [東京](../Page/東京.md "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink") |
-|                    |                                |                                    |
+| 日期                 | 城市                                                | 舉行地點                               |
+| ------------------ | ------------------------------------------------- | ---------------------------------- |
+| 2019年8月3－5日 \[10\] | [東京](https://zh.wikipedia.org/wiki/東京 "wikilink") | [東京巨蛋](../Page/東京巨蛋.md "wikilink") |
+|                    |                                                   |                                    |
 
 ## SuperStar SMTown
 
@@ -240,7 +240,7 @@ Town**，[韓國最大娱乐經紀公司](../Page/韓國.md "wikilink")[SM娛樂
 
   - [SM Entertainment日语官方网站](http://www.SMTown.jp/)
 
-[SM娛樂](../Page/分類:SM娛樂.md "wikilink")
+[SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
 
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 

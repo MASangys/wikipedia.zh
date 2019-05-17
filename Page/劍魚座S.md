@@ -1,8 +1,9 @@
-|- style="vertical-align: top;" | '''[距離](../Page/宇宙距離階梯.md "wikilink")
-''' | 169.000 [光年](../Page/光年.md "wikilink")
+|- style="vertical-align: top;" |
+'''[距離](https://zh.wikipedia.org/wiki/宇宙距離階梯 "wikilink") ''' |
+169.000 [光年](../Page/光年.md "wikilink")
 （51815.06 [秒差距](../Page/秒差距.md "wikilink")）
 
-**劍魚座S**是[大麥哲倫星系](../Page/大麥哲倫星系.md "wikilink")（[銀河系的](../Page/銀河系.md "wikilink")[衛星星系之一](../Page/衛星星系.md "wikilink")）中视星等最小（看上去最亮）的[恆星](../Page/恆星.md "wikilink")。這顆[特超巨星是](../Page/特超巨星.md "wikilink")[已知最亮的恆星之一](../Page/恆星光度列表.md "wikilink")（有时的[絕對星等超過](../Page/絕對星等.md "wikilink")-10等），但因為距離遙遠使得[裸眼依然看不見它](../Page/裸眼.md "wikilink")。该星为大麦云中最亮恒星之一，总辐射波段光度最亮时约为太阳的150万倍，光谱在B型-F型不断变化，质量至少大于太阳的50倍
+**劍魚座S**是[大麥哲倫星系](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")（[銀河系的](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[衛星星系之一](../Page/衛星星系.md "wikilink")）中视星等最小（看上去最亮）的[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")。這顆[特超巨星是](../Page/特超巨星.md "wikilink")[已知最亮的恆星之一](../Page/恆星光度列表.md "wikilink")（有时的[絕對星等超過](../Page/絕對星等.md "wikilink")-10等），但因為距離遙遠使得[裸眼依然看不見它](https://zh.wikipedia.org/wiki/裸眼 "wikilink")。该星为大麦云中最亮恒星之一，总辐射波段光度最亮时约为太阳的150万倍，光谱在B型-F型不断变化，质量至少大于太阳的50倍
 
 這顆恆星是以其名称命名的一种[變星型式](../Page/變星.md "wikilink")——[劍魚座S型變星的原型星](../Page/高光度藍變星.md "wikilink")。劍魚座S的光度變化緩慢，變化的時間也很長，偶爾會穿插一些爆發的現象。
 
@@ -17,7 +18,7 @@
 
 ## 相關條目
 
-  - [NGC 1910](../Page/NGC_1910.md "wikilink")
+  - [NGC 1910](https://zh.wikipedia.org/wiki/NGC_1910 "wikilink")
 
 [Category:發射線星](https://zh.wikipedia.org/wiki/Category:發射線星 "wikilink")
 [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")

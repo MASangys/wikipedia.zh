@@ -1,28 +1,28 @@
-[H.264和](../Page/H.264.md "wikilink")[VC-1是二種最受歡迎的影像壓縮工具](../Page/VC-1.md "wikilink")。
+[H.264和](https://zh.wikipedia.org/wiki/H.264 "wikilink")[VC-1是二種最受歡迎的影像壓縮工具](../Page/VC-1.md "wikilink")。
 
 ## 全覽
 
-| \![VC-1](../Page/VC-1.md "wikilink") | [H.264](../Page/H.264.md "wikilink") |
-| ------------------------------------ | ------------------------------------ |
-| 目標                                   | 旨在提供非常高的圖像質量與最佳的壓縮效率\[1\]            |
-| 工業用範例                                | 支援4:2:0壓縮 / 色彩空間<ref>{{cite book     |
-| 費用                                   | 接近<ref>{{cite web                    |
-| 文件                                   | 需付費。Reference decoder並非免費，不過附贈外部文件。  |
+| \![VC-1](../Page/VC-1.md "wikilink") | [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink") |
+| ------------------------------------ | ------------------------------------------------------- |
+| 目標                                   | 旨在提供非常高的圖像質量與最佳的壓縮效率\[1\]                               |
+| 工業用範例                                | 支援4:2:0壓縮 / 色彩空間<ref>{{cite book                        |
+| 費用                                   | 接近<ref>{{cite web                                       |
+| 文件                                   | 需付費。Reference decoder並非免費，不過附贈外部文件。                     |
 
 ## 術語
 
 所有來源的以下信息是從各自的規範中列出的概述部分。
 
-| 特徵                                                   | [VC-1](../Page/VC-1.md "wikilink")                 | [H.264](../Page/H.264.md "wikilink")                                   |
-| ---------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------- |
-| 切割大小                                                 | 16x16, 16x8, 8x16, and 8x8<ref name=iee>{{cite web | url = <http://www.iee.org/OnComms/PN/multimediacomms/Alois%20Bock.pdf> |
-| [整數轉換](../Page/整數轉換.md "wikilink")                   | 8x8, 4x8, 8x4, and 4x4                             | 4x4; 8x8-{只}-能在High Profile下使用                                         |
-| 影格（）                                                 | 用於隔行掃描。包含上下圖場。                                     | 用於倍頻或隔行皆可                                                              |
-| [Macroblock](../Page/Macroblock.md "wikilink") sizes | 僅16x16                                             |                                                                        |
-| 運動向量                                                 | 二維向量offset from current position to                |                                                                        |
-| 圖片                                                   | 一個field或frame                                      |                                                                        |
-| 忽略macroblock                                         | 無任何數據用於macroblock                                  |                                                                        |
-|                                                      |                                                    |                                                                        |
+| 特徵                                                                      | [VC-1](../Page/VC-1.md "wikilink")                 | [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")                |
+| ----------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------- |
+| 切割大小                                                                    | 16x16, 16x8, 8x16, and 8x8<ref name=iee>{{cite web | url = <http://www.iee.org/OnComms/PN/multimediacomms/Alois%20Bock.pdf> |
+| [整數轉換](https://zh.wikipedia.org/wiki/整數轉換 "wikilink")                   | 8x8, 4x8, 8x4, and 4x4                             | 4x4; 8x8-{只}-能在High Profile下使用                                         |
+| 影格（）                                                                    | 用於隔行掃描。包含上下圖場。                                     | 用於倍頻或隔行皆可                                                              |
+| [Macroblock](https://zh.wikipedia.org/wiki/Macroblock "wikilink") sizes | 僅16x16                                             |                                                                        |
+| 運動向量                                                                    | 二維向量offset from current position to                |                                                                        |
+| 圖片                                                                      | 一個field或frame                                      |                                                                        |
+| 忽略macroblock                                                            | 無任何數據用於macroblock                                  |                                                                        |
+|                                                                         |                                                    |                                                                        |
 
 ## 特色
 
@@ -30,16 +30,16 @@
 <thead>
 <tr class="header">
 <th><p>!<a href="../Page/VC-1.md" title="wikilink">VC-1</a></p></th>
-<th><p><a href="../Page/H.264.md" title="wikilink">H.264</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/H.264" title="wikilink">H.264</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Bitstream.md" title="wikilink">Bitstream格式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bitstream" title="wikilink">Bitstream格式</a></p></td>
 <td><p>single bit stream</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Bitstream.md" title="wikilink">Bitstream格式</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bitstream" title="wikilink">Bitstream格式</a></p></td>
 <td><p>在更先進的profile,每個Bitstream Data Unit都有各自的標頭（header）.<br />
 Simple和Main profile則不提供sequence也沒有entry point headers.</p></td>
 </tr>
@@ -48,7 +48,7 @@ Simple和Main profile則不提供sequence也沒有entry point headers.</p></td>
 <td><p>In-loop filter and overlap transform</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/CABAC.md" title="wikilink">CABAC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CABAC" title="wikilink">CABAC</a></p></td>
 <td><p>否</p></td>
 </tr>
 <tr class="odd">
@@ -69,7 +69,7 @@ Simple和Main profile則不提供sequence也沒有entry point headers.</p></td>
 </tr>
 <tr class="odd">
 <td><p>子像素的插值方法</p></td>
-<td><p><a href="../Page/雙三次插值.md" title="wikilink">雙三次插值</a>，<a href="../Page/雙線性.md" title="wikilink">雙線性</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雙三次插值" title="wikilink">雙三次插值</a>，<a href="https://zh.wikipedia.org/wiki/雙線性" title="wikilink">雙線性</a></p></td>
 </tr>
 </tbody>
 </table>

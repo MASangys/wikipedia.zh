@@ -1,6 +1,7 @@
 《**Tomorrow's
-chance**》為[茅原實里歌手活動再度展開後的第](../Page/茅原實里.md "wikilink")6張[單曲](../Page/單曲.md "wikilink")。由[Lantis／GloryHeaven製作](../Page/Lantis.md "wikilink")、發行，[Sony
-Music Distribution發售](../Page/Sony_Music_Distribution.md "wikilink")。
+chance**》為[茅原實里歌手活動再度展開後的第](../Page/茅原實里.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Lantis／GloryHeaven製作](../Page/Lantis.md "wikilink")、發行，[Sony
+Music
+Distribution發售](https://zh.wikipedia.org/wiki/Sony_Music_Distribution "wikilink")。
 
 ## 概要
 
@@ -12,14 +13,15 @@ Music Distribution發售](../Page/Sony_Music_Distribution.md "wikilink")。
 ## 收錄曲
 
 1.  **Tomorrow's chance**
-      - [作詞](../Page/作詞.md "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[菊田大介](../Page/菊田大介.md "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")
       - 音樂節目《[Run Run
-        LAN\!](../Page/Run_Run_LAN!.md "wikilink")》2009年6月度片頭曲
+        LAN\!](https://zh.wikipedia.org/wiki/Run_Run_LAN! "wikilink")》2009年6月度片頭曲
       - 《茅原實里的radio minorhythm》第6代片頭曲
 2.  **Sunshine flower**
-      - [作詞](../Page/作詞.md "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：[俊龍](../Page/俊龍.md "wikilink")、[編曲](../Page/編曲.md "wikilink")：[藤田淳平](../Page/藤田淳平.md "wikilink")
+      - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[畑亞貴](../Page/畑亞貴.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[俊龍](../Page/俊龍.md "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[藤田淳平](../Page/藤田淳平.md "wikilink")
       - 《茅原實里的radio minorhythm》第4代片尾曲
-3.  **Tomorrow's chance**（[off vocal](../Page/器樂.md "wikilink")）
+3.  **Tomorrow's chance**（[off
+    vocal](https://zh.wikipedia.org/wiki/器樂 "wikilink")）
 4.  **Sunshine flower**（off vocal）
 
 ## 外部連結

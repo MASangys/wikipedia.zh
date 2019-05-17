@@ -1,5 +1,5 @@
 **Fire Bomber**，譯為「火焰炸彈」，是[超時空要塞
-7系列動畫中](../Page/超時空要塞_7.md "wikilink")，所出現的虛構搖滾樂團。
+7系列動畫中](https://zh.wikipedia.org/wiki/超時空要塞_7 "wikilink")，所出現的虛構搖滾樂團。
 
 ## 樂團成員
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - CV：[林延年](../Page/林延年.md "wikilink")、歌：[福山芳樹](../Page/福山芳樹.md "wikilink")
+  - CV：[林延年](https://zh.wikipedia.org/wiki/林延年 "wikilink")、歌：[福山芳樹](../Page/福山芳樹.md "wikilink")
   - 主唱、吉他手
 
 <!-- end list -->
@@ -40,7 +40,7 @@
 ### 現實世界中
 
   - 主唱 -
-    歌：[福山芳樹](../Page/福山芳樹.md "wikilink")，CV：[林延年](../Page/林延年.md "wikilink")
+    歌：[福山芳樹](../Page/福山芳樹.md "wikilink")，CV：[林延年](https://zh.wikipedia.org/wiki/林延年 "wikilink")
     (熱氣·巴薩拉)
   - 主唱 - 歌：，CV：[櫻井智](../Page/櫻井智.md "wikilink") (米蓮·吉納斯)
   - 贝斯 - Yukio Sugi
@@ -67,7 +67,7 @@
 <td><p><a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a></p></td>
 <td><p>作詞：K.INOJO<br />
 作曲・編曲：河內淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7OP</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7OP</a></p></td>
 </tr>
 <tr class="even">
 <td><p>My Friends</p></td>
@@ -75,8 +75,8 @@
 <td><p>作詞：M.MEG<br />
 作曲：川野美紀<br />
 編曲：河內淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>1話<br />
-<a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7ED</a>（第1～35話）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>1話<br />
+<a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7ED</a>（第1～35話）</p></td>
 </tr>
 <tr class="odd">
 <td><p>{{lang|ja|…だけど ベイビー</p></td>
@@ -90,7 +90,7 @@
 <td><p>福山芳樹</p></td>
 <td><p>作詞：K.INOJO<br />
 作曲・編曲：河內淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7</a>（第49話-TV版最終話）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7</a>（第49話-TV版最終話）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Planet Dance</p></td>
@@ -98,41 +98,41 @@
 </p></td>
 <td><p>作曲：須藤英樹<br />
 編曲：河内淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>1話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>1話</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>FIRE BOMBER</p></td>
 <td><p>作曲、編曲：河内淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>1話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>1話</p></td>
 </tr>
 <tr class="odd">
 <td><p>My Soul For You</p></td>
 <td><p><a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a></p></td>
 <td><p>作曲：福山芳樹<br />
 編曲：河内淳貴（通常版）</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>2話<br />
-<a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>3話(完整版)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>2話<br />
+<a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>3話(完整版)</p></td>
 </tr>
 <tr class="even">
 <td><p>Sweet Fantasy</p></td>
 <td><p>FIRE BOMBER（チエ・カジウラ）</p></td>
 <td><p>作曲：大槻啓之<br />
 編曲：湯川とうべん</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>10話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>10話</p></td>
 </tr>
 <tr class="odd">
 <td><p>Remember 16</p></td>
 <td><p>FIRE BOMBER</p></td>
 <td><p>作曲、編曲：河内淳貴</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>17話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>17話</p></td>
 </tr>
 <tr class="even">
 <td><p>Holy Lonely Light</p></td>
 <td><p>FIRE BOMBER</p></td>
 <td><p>作曲：須藤英樹<br />
 編曲：湯川とうべん</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>21話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>21話</p></td>
 </tr>
 <tr class="odd">
 <td><p>Light The Light</p></td>
@@ -152,14 +152,14 @@
 <td><p>Submarine Street</p></td>
 <td><p><a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a></p></td>
 <td></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>29話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>29話</p></td>
 </tr>
 <tr class="even">
 <td><p>Power to the Dream</p></td>
 <td><p><a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a></p></td>
 <td><p>作曲：福山芳樹<br />
 編曲：田中裕千</p></td>
-<td><p><a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>32話</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>32話</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -172,8 +172,8 @@
 <td><p><a href="../Page/福山芳樹.md" title="wikilink">福山芳樹</a></p></td>
 <td><p>作詞：K.INOJO、福山恭子</br/>作曲：福山芳樹<br />
 編曲：田中裕千</p></td>
-<td><p>|<a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7第</a>40話<br />
-<a href="../Page/超時空要塞_7.md" title="wikilink">超時空要塞 7</a>（第49話-TV版最終話）(完整版)</p></td>
+<td><p>|<a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7第</a>40話<br />
+<a href="https://zh.wikipedia.org/wiki/超時空要塞_7" title="wikilink">超時空要塞 7</a>（第49話-TV版最終話）(完整版)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
