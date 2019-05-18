@@ -3,7 +3,7 @@
 
 ## 主要成員
 
-  - [YUKI](../Page/YUKI.md "wikilink") - 主唱
+  - [YUKI](https://zh.wikipedia.org/wiki/YUKI "wikilink") - 主唱
   - [TAKUYA](https://zh.wikipedia.org/wiki/TAKUYA "wikilink") - 吉他手
   - [恩田快人](https://zh.wikipedia.org/wiki/恩田快人 "wikilink") - 隊長、貝士手
   - [五十嵐公太](https://zh.wikipedia.org/wiki/五十嵐公太 "wikilink") - 鼓手

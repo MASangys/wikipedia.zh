@@ -22,7 +22,7 @@ Raw和](../Page/WWE_Raw.md "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/
 <tbody>
 <tr class="odd">
 <td><p>第一季</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韋德·貝瑞特" title="wikilink">韋德·貝瑞特</a></p></td>
+<td><p><a href="../Page/韋德·貝瑞特.md" title="wikilink">韋德·貝瑞特</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第二季</p></td>
@@ -30,11 +30,11 @@ Raw和](../Page/WWE_Raw.md "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="odd">
 <td><p>第三季</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/凱特琳_(摔角手)" title="wikilink">凱特琳 (摔角手)</a></p></td>
+<td><p><a href="../Page/凱特琳_(摔角手).md" title="wikilink">凱特琳 (摔角手)</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第四季</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梵旦哥" title="wikilink">梵旦哥</a></p></td>
+<td><p><a href="../Page/梵旦哥.md" title="wikilink">梵旦哥</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

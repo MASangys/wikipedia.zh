@@ -24,7 +24,7 @@ A於](../Page/Channel_A.md "wikilink")2012年3月19日起首播的[月火迷你�
 | [郭永煥](https://zh.wikipedia.org/wiki/郭永煥 "wikilink") | 全志宇 | m2 Junior成員              |
 | [Kevin](../Page/ZE:A.md "wikilink")                 | 昌珉  | m2 Junior成員              |
 | [宋世炫](https://zh.wikipedia.org/wiki/宋世炫 "wikilink") | 金賢星 | m2 Junior成員              |
-| [趙潤宇](https://zh.wikipedia.org/wiki/赵润宇 "wikilink") | 韓東雨 | m2 Junior成員              |
+| [趙潤宇](../Page/赵润宇.md "wikilink")                    | 韓東雨 | m2 Junior成員              |
 | [孟世昌](https://zh.wikipedia.org/wiki/孟世昌 "wikilink") | 太權  | m2 Junior成員              |
 | [陳赫](../Page/陳赫_\(韓國演員\).md "wikilink")             | 允在河 | m2 Junior成員              |
 | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink") | 朴基範 | m2 Junior成員；舞蹈擔當\&Rapper |
@@ -36,10 +36,10 @@ A於](../Page/Channel_A.md "wikilink")2012年3月19日起首播的[月火迷你�
 | [申瑞京](https://zh.wikipedia.org/wiki/申瑞京 "wikilink") | 李順延   | Stylelist         |
 | [金恩靜](https://zh.wikipedia.org/wiki/金恩靜 "wikilink") | 吳仁英   | 曾經是女子組合隊長         |
 | [洪京民](https://zh.wikipedia.org/wiki/洪京民 "wikilink") | 張賢石   | Sunny計劃代表         |
-| [朴孝珠](https://zh.wikipedia.org/wiki/朴孝珠 "wikilink") | 韓組長   | Sunny計劃代表宣傳部組長    |
+| [朴孝珠](../Page/朴孝珠.md "wikilink")                    | 韓組長   | Sunny計劃代表宣傳部組長    |
 | [ALi](https://zh.wikipedia.org/wiki/ALi "wikilink") | 朴老師   | m2 Junio​​r的女聲樂老師 |
 | [李尚君](https://zh.wikipedia.org/wiki/李尚君 "wikilink") | 張詩    | rod經紀人            |
-| [金英玉](https://zh.wikipedia.org/wiki/金英玉 "wikilink") | 全志宇奶奶 |                   |
+| [金英玉](../Page/金英玉.md "wikilink")                    | 全志宇奶奶 |                   |
 |                                                     |       |                   |
 
 ## 收視率

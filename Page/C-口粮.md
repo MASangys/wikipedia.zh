@@ -2,7 +2,7 @@
 [Crations.jpg](https://zh.wikipedia.org/wiki/File:Crations.jpg "fig:Crations.jpg")\]\]
 **C-口粮**（英語：**C-ration**）是一种罐装预製的湿式口粮。C-口粮最早是由[美国陆军採用](../Page/美国陆军.md "wikilink")，用以当新鲜食物和包装好的非熟食难以取得，或恶劣條件使战地厨房无法展开时食用，以及在紧急口粮（[K-口粮或](../Page/K-口粮.md "wikilink")[D-口粮](https://zh.wikipedia.org/wiki/D-口粮 "wikilink")）短缺时食用。C-口粮的发展起始于1938年，并在1940年开始战场测试，之后即大规模采用。[二战后](https://zh.wikipedia.org/wiki/二战 "wikilink")，成本问题导致C-口粮忽视了环境兼容性和重量限制。
 
-C-口粮在1958年由[MCI口粮取代](https://zh.wikipedia.org/wiki/MCI口粮 "wikilink")\[1\]，虽然MCI是一种全新的口粮，但MCI和最初的C-口粮十分相似，可以说是C-口粮的衍生产品。并且事实上，MCI作为单兵作战口粮期间（1958年-1980年）\[2\]，美军士兵仍称其C-口粮。
+C-口粮在1958年由[MCI口粮取代](../Page/MCI口粮.md "wikilink")\[1\]，虽然MCI是一种全新的口粮，但MCI和最初的C-口粮十分相似，可以说是C-口粮的衍生产品。并且事实上，MCI作为单兵作战口粮期间（1958年-1980年）\[2\]，美军士兵仍称其C-口粮。
 
 ## 背景和发展
 

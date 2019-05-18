@@ -29,7 +29,7 @@ SHOP、當地網上書店「JBOOK」及文教堂商鋪設立長期銷售點\[1\]
 <td><p><a href="../Page/中二病也想談戀愛！.md" title="wikilink">中二病也想談戀愛！</a></p></td>
 <td></td>
 <td><p>虎虎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/逢坂望美" title="wikilink">逢坂望美</a></p></td>
+<td><p><a href="../Page/逢坂望美.md" title="wikilink">逢坂望美</a></p></td>
 <td><p>1</p></td>
 <td><p>2011年6月1日</p></td>
 <td><p>ISBN 978-4-9905812-0-6</p></td>
@@ -291,7 +291,7 @@ SHOP、當地網上書店「JBOOK」及文教堂商鋪設立長期銷售點\[1\]
 <td><p>「第4屆京都動畫大獎」獎勵賞作品</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/弦音－風舞高中弓道部－" title="wikilink">弦音－風舞高中弓道部－</a></p></td>
+<td><p><a href="../Page/弦音－風舞高中弓道部－.md" title="wikilink">弦音－風舞高中弓道部－</a></p></td>
 <td></td>
 <td><p>綾野</p></td>
 <td><p>森本</p></td>

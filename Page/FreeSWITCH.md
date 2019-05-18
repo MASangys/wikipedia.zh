@@ -104,7 +104,7 @@ FreeSWITCH 支持很多的语音编解码:\[13\]
   - DVI4 ([IMA
     ADPCM](https://zh.wikipedia.org/wiki/IMA_ADPCM "wikilink"))
   - [BroadVoice](https://zh.wikipedia.org/wiki/BroadVoice "wikilink")
-  - [SILK](https://zh.wikipedia.org/wiki/SILK "wikilink")
+  - [SILK](../Page/SILK.md "wikilink")
   - [Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")
   - [CODEC2](https://zh.wikipedia.org/wiki/CODEC2 "wikilink")
   - [Siren](https://zh.wikipedia.org/wiki/Siren_Codec "wikilink")

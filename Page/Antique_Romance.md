@@ -11,7 +11,7 @@ Entertainment](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")。
   - 與前作《[白馬正在來嗎](https://zh.wikipedia.org/wiki/白馬正在來嗎 "wikilink")》相同，此專輯是Sunny
     Hill以四人形式參與演唱。
   - 主打曲《Goodbye to Romance》推出後便取得好成績，繼《[Midnight
-    Circus](https://zh.wikipedia.org/wiki/Midnight_Circus "wikilink")》、《[蚱蜢讚歌](https://zh.wikipedia.org/wiki/THE_GRASSHOPPERS "wikilink")》後又一大熱之作。
+    Circus](https://zh.wikipedia.org/wiki/Midnight_Circus "wikilink")》、《[蚱蜢讚歌](../Page/THE_GRASSHOPPERS.md "wikilink")》後又一大熱之作。
 
 ## 收錄內容
 

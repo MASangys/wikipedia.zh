@@ -1,5 +1,5 @@
 《**GATE
-奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧编写的](https://zh.wikipedia.org/wiki/柳內巧 "wikilink")[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
+奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧编写的](../Page/柳內巧.md "wikilink")[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
 
 ## 劇情簡介
 
@@ -150,7 +150,7 @@
     Mk2](../Page/FN_Five-seveN手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [春田XDM](../Page/春田XDM手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [貝瑞塔BU9
-    Nano](https://zh.wikipedia.org/wiki/貝瑞塔BU9_Nano手槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
+    Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
 
 <!-- end list -->
 
@@ -187,7 +187,7 @@
   - [HK416A5](../Page/HK416突擊步槍.md "wikilink")（被[特殊作戰群所使用](../Page/陸上自衛隊特殊作戰群.md "wikilink")）
   - [KAC
     PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
-  - [馬格普PDR](https://zh.wikipedia.org/wiki/馬格普PDR卡賓槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
+  - [馬格普PDR](../Page/馬格普PDR卡賓槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@
 
 <!-- end list -->
 
-  - [豐和96式40毫米自動榴彈發射器](https://zh.wikipedia.org/wiki/豐和96式40毫米自動榴彈發射器 "wikilink")（漫畫版）
+  - [豐和96式40毫米自動榴彈發射器](../Page/豐和96式40毫米自動榴彈發射器.md "wikilink")（漫畫版）
 
   -
   - [M203A2下掛式榴彈發射器](../Page/M203榴彈發射器.md "wikilink")
@@ -286,7 +286,7 @@
 
   - （陸地版本，架設於阿爾努斯基地城牆上）
 
-  - [GDF-005高射炮](https://zh.wikipedia.org/wiki/歐瑞康GDF雙管高射炮 "wikilink")（架設於阿爾努斯基地城牆上）
+  - [GDF-005高射炮](../Page/歐瑞康GDF雙管高射炮.md "wikilink")（架設於阿爾努斯基地城牆上）
 
   - [VADS-1防空炮](https://zh.wikipedia.org/wiki/M167火神式防空炮 "wikilink")（架設於阿爾努斯基地城牆上）
 
@@ -424,7 +424,7 @@
 
   - [S\&W M37](../Page/史密斯威森M36左輪手槍.md "wikilink")
   - [新南部M60](https://zh.wikipedia.org/wiki/新南部M60轉輪手槍 "wikilink")
-  - [S\&W M3913](https://zh.wikipedia.org/wiki/史密斯威森M39手槍 "wikilink")
+  - [S\&W M3913](../Page/史密斯威森M39手槍.md "wikilink")
 
 <!-- end list -->
 
@@ -474,14 +474,13 @@
 
 <!-- end list -->
 
-  - [PMM手槍](../Page/馬卡洛夫手槍.md "wikilink")（於小說及動畫版第10話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
+  - [PMM手槍](../Page/馬卡洛夫手槍.md "wikilink")（於小說及動畫版第10話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")
   - [SIG
-    P239](../Page/SIG_P239手槍.md "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員海德格爾所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
+    P239](../Page/SIG_P239手槍.md "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員海德格爾所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [FN Five-seveN Mk2](../Page/FN_Five-seveN手槍.md "wikilink")
-  - [春田XDM](../Page/春田XDM手槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
-  - [貝瑞塔BU9
-    Nano](https://zh.wikipedia.org/wiki/貝瑞塔BU9_Nano手槍 "wikilink")
+  - [春田XDM](../Page/春田XDM手槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
 
 <!-- end list -->
 
@@ -490,7 +489,7 @@
 <!-- end list -->
 
   - [Kel-Tec
-    KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
+    KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
 
 <!-- end list -->
 
@@ -499,13 +498,13 @@
 <!-- end list -->
 
   - [HK
-    MP5SD3](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
+    MP5SD3](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [B\&T
     APC9](../Page/B&T_APC衝鋒槍.md "wikilink")（於漫畫版第21話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [B\&T
     MP9](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（於漫畫版第22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [HK
-    MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")，動畫版第10話由[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+    MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")，動畫版第10話由[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [FN P90
     TR](../Page/FN_P90衝鋒槍.md "wikilink")（於漫畫版第21、22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [vz.82](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")（於動畫版第10話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
@@ -522,8 +521,8 @@
 <!-- end list -->
 
   - [KAC
-    PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
-  - [馬格普PDR](https://zh.wikipedia.org/wiki/馬格普PDR卡賓槍 "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](https://zh.wikipedia.org/wiki/中央情報局特別行動科 "wikilink")）
+    PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [馬格普PDR](../Page/馬格普PDR卡賓槍.md "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
 
 ## 出版書籍
 
@@ -812,10 +811,10 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
   - 音樂製作: 小島剛
   - 製作人：中山信宏、太田鉄平、大澤信博
   - 動畫製作人：清田穣二
-  - 製片：[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")
+  - 製片：[GENCO](../Page/GENCO.md "wikilink")
   - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
   - 製作：
-    門製作委員會（日本華納兄弟娛樂、AlphaPolis、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、、、[GENCO](https://zh.wikipedia.org/wiki/GENCO "wikilink")）
+    門製作委員會（日本華納兄弟娛樂、AlphaPolis、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、、、[GENCO](../Page/GENCO.md "wikilink")）
 
 ### 主題曲
 
@@ -1153,7 +1152,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 | [東京都](../Page/東京都.md "wikilink")                                  | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2015年7月3日－9月19日   | 星期五 24時30分－25時00分                                                                                             | [獨立局](../Page/全國獨立放送協議會.md "wikilink")                |         |
 | [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 2015年7月7日－9月22日   | 星期二 25時35分－26時05分                                                                                             | [東京電視網](../Page/東京電視網.md "wikilink")                  |         |
 | [近畿廣域圈](https://zh.wikipedia.org/wiki/近畿廣域圈 "wikilink")           | [每日放送](../Page/每日放送.md "wikilink")                            | 星期二 26時30分－27時00分 | [日本新聞網](../Page/日本新聞網_\(TBS\).md "wikilink")                                                                  | 動畫特區第1部                                               |         |
-| 日本全國                                                              | [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")         | 2015年7月8日－9月23日   | 星期三 12時00分 更新                                                                                                 | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") |         |
+| 日本全國                                                              | [萬代頻道](../Page/萬代頻道.md "wikilink")                            | 2015年7月8日－9月23日   | 星期三 12時00分 更新                                                                                                 | [網路電視](https://zh.wikipedia.org/wiki/網路電視 "wikilink") |         |
 | [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink") |                                                               |                   |                                                                                                               |                                                       |         |
 | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO直播 "wikilink") | 星期三 25時00分－25時30分                                             |                   |                                                                                                               |                                                       |         |
 | [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink")             | 2015年7月10日－9月25日                                              | 星期五 24時30分－25時00分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")              |         |
@@ -1174,7 +1173,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 ## 遊戲
 
   - GATE Brave Scramble（GATE ブレイブスクランブル）\[1\]
-    平台：[Android](../Page/Android.md "wikilink")/[iOS](../Page/iOS.md "wikilink")
+    平台：[Android](../Page/Android.md "wikilink")/[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
     製作公司：[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")
     推出日期：2016年
 

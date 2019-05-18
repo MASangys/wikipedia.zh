@@ -118,7 +118,7 @@ Yu）等，他們會教大家如何以最低的價錢煮出最滋味的多款各
 <td><p>5月8日</p></td>
 <td><p>150元四人海鮮餐</p></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/椒鹽瀨尿蝦" title="wikilink">椒鹽瀨尿蝦</a></li>
+<li><a href="../Page/椒鹽瀨尿蝦.md" title="wikilink">椒鹽瀨尿蝦</a></li>
 <li>辣酒煮花螺</li>
 <li>金銀蒜蒸黃金蚌</li>
 <li>薑蔥爆鮑魚</li>

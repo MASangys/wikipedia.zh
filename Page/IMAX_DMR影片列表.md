@@ -656,12 +656,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/惊天危机" title="wikilink">惊天危机</a></p></td>
+<td><p><a href="../Page/惊天危机.md" title="wikilink">惊天危机</a></p></td>
 <td><p>2013年6月28日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/太极侠" title="wikilink">太极侠</a></p></td>
+<td><p><a href="../Page/太极侠.md" title="wikilink">太极侠</a></p></td>
 <td><p>2013年7月5日</p></td>
 <td><p>仅在中国大陸地区上映</p></td>
 </tr>
@@ -686,7 +686,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/星际传奇3" title="wikilink">星际传奇3</a></p></td>
+<td><p><a href="../Page/星际传奇3.md" title="wikilink">星际传奇3</a></p></td>
 <td><p>2013年9月6日</p></td>
 <td></td>
 </tr>
@@ -706,7 +706,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。仅在中国大陸地区上映。整部影片宽高比为1.90：1。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/斯大林格勒_(2013年电影)" title="wikilink">斯大林格勒 (2013年电影)</a></p></td>
+<td><p><a href="../Page/斯大林格勒_(2013年电影).md" title="wikilink">斯大林格勒 (2013年电影)</a></p></td>
 <td><p>2013年10月3日 2014年2月28日（美国）</p></td>
 <td><p>3D電影，仅在俄罗斯、中国地区上映</p></td>
 </tr>
@@ -736,7 +736,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>電影中，遊戲片段全部使用IMAX攝影機拍攝。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/霍比特人2：史矛革之战" title="wikilink">-{zh-cn:霍比特人2：史矛革荒漠;zh-tw:哈比人：荒谷惡龍;zh-hk:哈比人：荒谷魔龍;}-</a></p></td>
+<td><p><a href="../Page/霍比特人2：史矛革之战.md" title="wikilink">-{zh-cn:霍比特人2：史矛革荒漠;zh-tw:哈比人：荒谷惡龍;zh-hk:哈比人：荒谷魔龍;}-</a></p></td>
 <td><p>2013年12月13日</p></td>
 <td><p>3D电影.电影5K分辨率和48帧/秒。将会发布24帧和48帧/秒版本。</p></td>
 </tr>
@@ -746,7 +746,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/警察故事2013" title="wikilink">警察故事2013</a></p></td>
+<td><p><a href="../Page/警察故事2013.md" title="wikilink">警察故事2013</a></p></td>
 <td><p>2013年12月24日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。仅在中国大陸地区上映</p></td>
 </tr>
@@ -770,7 +770,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我，弗兰肯斯坦" title="wikilink">我，弗兰肯斯坦</a></p></td>
+<td><p><a href="../Page/我，弗兰肯斯坦.md" title="wikilink">我，弗兰肯斯坦</a></p></td>
 <td><p>2014年1月24日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。整部影片宽高比为1.90:1</p></td>
 </tr>
@@ -780,17 +780,17 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，仅在中国大陸地区上映</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/机械战警_(2014年电影)" title="wikilink">机械战警</a></p></td>
+<td><p><a href="../Page/机械战警_(2014年电影).md" title="wikilink">机械战警</a></p></td>
 <td><p>2014年2月12日</p></td>
 <td><p>2D电影</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/300勇士：帝国崛起" title="wikilink">300勇士：帝国崛起</a></p></td>
+<td><p><a href="../Page/300勇士：帝国崛起.md" title="wikilink">300勇士：帝国崛起</a></p></td>
 <td><p>2014年3月7日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/极品飞车_(电影)" title="wikilink">极品飞车</a></p></td>
+<td><p><a href="../Page/极品飞车_(电影).md" title="wikilink">极品飞车</a></p></td>
 <td><p>2014年3月14日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -805,7 +805,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/挪亞：滅世啟示" title="wikilink">挪亞：滅世啟示</a></p></td>
+<td><p><a href="../Page/挪亞：滅世啟示.md" title="wikilink">挪亞：滅世啟示</a></p></td>
 <td><p>2014年3月28日</p></td>
 <td><p>3D电影，只限制在特定区域</p></td>
 </tr>
@@ -820,12 +820,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/归来_(电影)" title="wikilink">归来 (电影)</a></p></td>
+<td><p><a href="../Page/归来_(电影).md" title="wikilink">归来 (电影)</a></p></td>
 <td><p>2014年5月16日</p></td>
 <td><p>2D电影，仅在中国大陸地区上映</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/哥斯拉_(2014年电影)" title="wikilink">哥斯拉</a></p></td>
+<td><p><a href="../Page/哥斯拉_(2014年电影).md" title="wikilink">哥斯拉</a></p></td>
 <td><p>2014年5月16日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -840,7 +840,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/驯龙高手2" title="wikilink">驯龙高手2</a></p></td>
+<td><p><a href="../Page/驯龙高手2.md" title="wikilink">驯龙高手2</a></p></td>
 <td><p>2014年6月13日</p></td>
 <td><p>3D电影</p></td>
 </tr>
@@ -850,7 +850,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>首部用数字IMAX3D摄像机进行部分影片拍摄的电影，数字IMAX 3D摄像机拍摄时间大约为94分钟</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宙斯之子：赫拉克勒斯" title="wikilink">宙斯之子：赫拉克勒斯</a></p></td>
+<td><p><a href="../Page/宙斯之子：赫拉克勒斯.md" title="wikilink">宙斯之子：赫拉克勒斯</a></p></td>
 <td><p>2014年7月25日</p></td>
 <td><p>3D电影</p></td>
 </tr>
@@ -885,17 +885,17 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>20周年重新制作</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/移動迷宮_(電影)" title="wikilink">移動迷宮 (電影)</a></p></td>
+<td><p><a href="../Page/移動迷宮_(電影).md" title="wikilink">移動迷宮 (電影)</a></p></td>
 <td><p>2014年9月19日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/伸冤人" title="wikilink">伸冤人</a></p></td>
+<td><p><a href="../Page/伸冤人.md" title="wikilink">伸冤人</a></p></td>
 <td><p>2014年9月26日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/心花路放" title="wikilink">心花路放</a></p></td>
+<td><p><a href="../Page/心花路放.md" title="wikilink">心花路放</a></p></td>
 <td><p>2014年9月30日</p></td>
 <td><p>2D电影，仅在中国大陸地区上映</p></td>
 </tr>
@@ -935,7 +935,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/太平輪_(電影)" title="wikilink">太平輪</a></p></td>
+<td><p><a href="../Page/太平輪_(電影).md" title="wikilink">太平輪</a></p></td>
 <td><p>2014年12月2日</p></td>
 <td><p>3D电影，仅在中国大陸地区上映</p></td>
 </tr>
@@ -990,7 +990,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>中国特供3D电影</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/美國狙擊手_(電影)" title="wikilink">美國狙擊手 (電影)</a></p></td>
+<td><p><a href="../Page/美國狙擊手_(電影).md" title="wikilink">美國狙擊手 (電影)</a></p></td>
 <td><p>2015年1月16日</p></td>
 <td></td>
 </tr>
@@ -1020,7 +1020,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，仅在中国大陸地区上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/狼图腾_(电影)" title="wikilink">狼图腾 (电影)</a></p></td>
+<td><p><a href="../Page/狼图腾_(电影).md" title="wikilink">狼图腾 (电影)</a></p></td>
 <td><p>2015年2月19日<br />
 2015年9月11日（美国）</p></td>
 <td><p>3D电影</p></td>
@@ -1071,12 +1071,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/明日世界_(电影)" title="wikilink">明日世界 (电影)</a></p></td>
+<td><p><a href="../Page/明日世界_(电影).md" title="wikilink">明日世界 (电影)</a></p></td>
 <td><p>2015年5月22日</p></td>
 <td><p>用索尼摄像机拍摄的分辨率达到4K和8K。整部影片的宽高比达到1.90：1。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/末日崩塌" title="wikilink">末日崩塌</a></p></td>
+<td><p><a href="../Page/末日崩塌.md" title="wikilink">末日崩塌</a></p></td>
 <td><p>2015年5月29日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -1096,7 +1096,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/道士下山" title="wikilink">道士下山</a></p></td>
+<td><p><a href="../Page/道士下山.md" title="wikilink">道士下山</a></p></td>
 <td><p>2015年7月3日</p></td>
 <td><p>3D电影，仅在中国大陸地区上映。映前会播放该电影的IMAX特制倒计时。</p></td>
 </tr>
@@ -1161,7 +1161,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/港囧" title="wikilink">港囧</a></p></td>
+<td><p><a href="../Page/港囧.md" title="wikilink">港囧</a></p></td>
 <td><p>2015年9月25日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
@@ -1171,7 +1171,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。在IMAX影院发布提前一周</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/猩紅山峰" title="wikilink">猩紅山峰</a></p></td>
+<td><p><a href="../Page/猩紅山峰.md" title="wikilink">猩紅山峰</a></p></td>
 <td><p>2015年10月16日</p></td>
 <td></td>
 </tr>
@@ -1191,7 +1191,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/海洋深处" title="wikilink">海洋深处</a></p></td>
+<td><p><a href="../Page/海洋深处.md" title="wikilink">海洋深处</a></p></td>
 <td><p>2015年12月11日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -1201,7 +1201,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。5分钟的精彩片段使用胶片IMAX摄影机拍摄。胶片IMAX 2D版本在美国和国际部分胶片IMAX影院发行，激光IMAX 3D版本在全球十几家激光IMAX影院发行。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/寻龙诀" title="wikilink">寻龙诀</a></p></td>
+<td><p><a href="../Page/寻龙诀.md" title="wikilink">寻龙诀</a></p></td>
 <td><p>2015年12月18日</p></td>
 <td><p>3D电影。仅在中国大陸地区上映。部分影片的宽高比为1.90：1</p></td>
 </tr>
@@ -1440,7 +1440,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/长城_(电影)" title="wikilink">长城 (电影)</a></p></td>
+<td><p><a href="../Page/长城_(电影).md" title="wikilink">长城 (电影)</a></p></td>
 <td><p>2016年12月16日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -1462,12 +1462,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 | [西游伏妖篇](https://zh.wikipedia.org/wiki/西游伏妖篇 "wikilink")                 | 2017年1月28日  | 3D电影，仅在中国大陸地区上映。                                                  |
 | [樂高蝙蝠俠電影](../Page/樂高蝙蝠俠電影.md "wikilink")                                | 2017年2月10日  | 3D電影。                                                             |
 | [歡樂好聲音](../Page/歡樂好聲音.md "wikilink")                                    | 2017年2月17日  | 3D电影。                                                             |
-| [羅根](https://zh.wikipedia.org/wiki/羅根_\(電影\) "wikilink")                | 2017年3月3日   |                                                                   |
+| [羅根](../Page/羅根_\(電影\).md "wikilink")                                   | 2017年3月3日   |                                                                   |
 | [金剛：骷髏島](../Page/金剛：骷髏島.md "wikilink")                                  | 2017年3月10日  | 3D電影，原為2D電影，後期轉製。映前会播放该电影的IMAX特制倒计时。                              |
-| [美女與野獸](https://zh.wikipedia.org/wiki/美女與野獸_\(2017年電影\) "wikilink")     | 2017年3月17日  | 3D電影，原為2D電影，後期轉製。整部影片的宽高比为1.90:1                                  |
+| [美女與野獸](../Page/美女與野獸_\(2017年電影\).md "wikilink")                        | 2017年3月17日  | 3D電影，原為2D電影，後期轉製。整部影片的宽高比为1.90:1                                  |
 | [攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(2017年電影\) "wikilink")     | 2017年3月31日  | 3D電影。                                                             |
 | [玩命關頭8](../Page/玩命關頭8.md "wikilink")                                    | 2017年4月14日  | 3D電影。映前会播放该电影的IMAX特制倒计时。                                          |
-| [记忆大师](https://zh.wikipedia.org/wiki/记忆大师 "wikilink")                   | 2017年4月28日  | 仅在中国大陸地区上映。                                                       |
+| [记忆大师](../Page/记忆大师.md "wikilink")                                      | 2017年4月28日  | 仅在中国大陸地区上映。                                                       |
 | [星際異攻隊2](https://zh.wikipedia.org/wiki/星際異攻隊2 "wikilink")               | 2017年5月5日   | 3D电影，原为2D电影，后期转制。部分影片的宽高比为1.90:1。该电影有“跃幕”特效，使影片的某些物体跳出画面，延伸到上下黑边。 |
 | [異形：聖約](https://zh.wikipedia.org/wiki/異形：聖約 "wikilink")                 | 2017年5月19日  |                                                                   |
 | [加勒比海盜－神鬼奇航：死無對證](https://zh.wikipedia.org/wiki/加勒比海盜5：死無對證 "wikilink") | 2017年5月26日  | 3D電影，原為2D電影，後期轉製。整部影片的宽高比为1.90:1                                  |
@@ -1481,22 +1481,22 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 | [敦克爾克大行動](../Page/敦克爾克大行動.md "wikilink")                                | 2017年7月21日  | 全片75%的精彩片段使用胶片IMAX摄影机拍摄。                                          |
 | [建军大业](https://zh.wikipedia.org/wiki/建军大业 "wikilink")                   | 2017年7月27日  | 仅在中国大陸地区上映。                                                       |
 | [三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电影\) "wikilink")    | 2017年8月3日   | 3D电影，仅在中国大陸地区上映。                                                  |
-| [鲛珠传](https://zh.wikipedia.org/wiki/鲛珠传 "wikilink")                     | 2017年8月11日  | 3D电影，仅在中国大陸地区上映。                                                  |
-| [侠盗联盟](https://zh.wikipedia.org/wiki/侠盗联盟 "wikilink")                   | 2017年8月11日  | 仅在中国大陸地区上映。                                                       |
+| [鲛珠传](../Page/鲛珠传.md "wikilink")                                        | 2017年8月11日  | 3D电影，仅在中国大陸地区上映。                                                  |
+| [侠盗联盟](../Page/侠盗联盟.md "wikilink")                                      | 2017年8月11日  | 仅在中国大陸地区上映。                                                       |
 | [战狼2](https://zh.wikipedia.org/wiki/战狼2 "wikilink")                     | 2017年8月14日  | 仅在中国大陸地区上映。                                                       |
 | [猩球崛起：終極決戰](https://zh.wikipedia.org/wiki/猩球崛起：終極決戰 "wikilink")         | 2017年9月15日  | 3D電影。                                                             |
 | [金牌特務：機密對決](../Page/金牌特務：機密對決.md "wikilink")                            | 2017年9月22日  | 3D電影。部分影片的宽高比为1.90:1                                              |
 | [美国制造](https://zh.wikipedia.org/wiki/美国制造 "wikilink")                   | 2017年9月29日  |                                                                   |
 | [英伦对决](https://zh.wikipedia.org/wiki/英伦对决 "wikilink")                   | 2017年9月30日  | 3D电影，仅在中国大陸地区上映。                                                  |
-| [羞羞的铁拳](https://zh.wikipedia.org/wiki/羞羞的铁拳 "wikilink")                 | 2017年9月30日  | 仅在中国大陸地区上映。                                                       |
+| [羞羞的铁拳](../Page/羞羞的铁拳.md "wikilink")                                    | 2017年9月30日  | 仅在中国大陸地区上映。                                                       |
 | [银翼杀手2049](https://zh.wikipedia.org/wiki/银翼杀手2049 "wikilink")           | 2017年10月6日  | 3D電影，原為2D電影，後期轉製。整部影片的宽高比为1.90:1。映前会播放该电影的IMAX全画幅特制倒计时。           |
-| [氣象戰](https://zh.wikipedia.org/wiki/氣象戰_\(電影\) "wikilink")              | 2017年10月20日 | 3D電影，原為2D電影，後期轉製。                                                 |
+| [氣象戰](../Page/氣象戰_\(電影\).md "wikilink")                                 | 2017年10月20日 | 3D電影，原為2D電影，後期轉製。                                                 |
 | [雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")                          | 2017年11月3日  | 3D电影，原为2D电影，后期转制。部分影片的宽高比为1.90:1                                  |
 | [正義聯盟](https://zh.wikipedia.org/wiki/正义联盟_\(电影\) "wikilink")            | 2017年11月17日 | 3D電影，原為2D電影，後期轉製。                                                 |
 | [STAR WARS：最後的絕地武士](../Page/STAR_WARS：最後的絕地武士.md "wikilink")            | 2017年12月15日 | 3D電影，原為2D電影，後期轉製。                                                 |
 | [奇門遁甲](https://zh.wikipedia.org/wiki/奇门遁甲_\(2017年电影\) "wikilink")       | 2017年12月15日 | 3D电影，仅在中国大陸地区上映。                                                  |
-| [芳华](https://zh.wikipedia.org/wiki/芳华 "wikilink")                       | 2017年12月15日 | 仅在中国大陸地区上映。                                                       |
-| [妖猫传](https://zh.wikipedia.org/wiki/妖猫传 "wikilink")                     | 2017年12月22日 | 仅在中国大陸地区上映。                                                       |
+| [芳华](../Page/芳华.md "wikilink")                                          | 2017年12月15日 | 仅在中国大陸地区上映。                                                       |
+| [妖猫传](../Page/妖猫传.md "wikilink")                                        | 2017年12月22日 | 仅在中国大陸地区上映。                                                       |
 | [机器之血](https://zh.wikipedia.org/wiki/机器之血 "wikilink")                   | 2017年12月22日 | 3D电影，仅在中国大陸地区上映。                                                  |
 |                                                                         |             |                                                                   |
 
@@ -1512,7 +1512,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/疾速救援" title="wikilink">疾速救援</a></p></td>
+<td><p><a href="../Page/疾速救援.md" title="wikilink">疾速救援</a></p></td>
 <td><p>2018年1月12日</p></td>
 <td></td>
 </tr>
@@ -1522,7 +1522,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。整部影片的宽高比为1.78:1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/格雷的五十道陰影：自由_(電影)" title="wikilink">格雷的五十道陰影：自由</a></p></td>
+<td><p><a href="../Page/格雷的五十道陰影：自由_(電影).md" title="wikilink">格雷的五十道陰影：自由</a></p></td>
 <td><p>2018年2月9日</p></td>
 <td></td>
 </tr>
@@ -1537,12 +1537,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，仅在中国大陸地区上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/捉妖记2" title="wikilink">捉妖记2</a></p></td>
+<td><p><a href="../Page/捉妖记2.md" title="wikilink">捉妖记2</a></p></td>
 <td><p>2018年2月16日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐人街探案2" title="wikilink">唐人街探案2</a></p></td>
+<td><p><a href="../Page/唐人街探案2.md" title="wikilink">唐人街探案2</a></p></td>
 <td><p>2018年2月16日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
@@ -1557,7 +1557,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/環太平洋2：起義時刻" title="wikilink">環太平洋2：起義時刻</a></p></td>
+<td><p><a href="../Page/環太平洋2：起義時刻.md" title="wikilink">環太平洋2：起義時刻</a></p></td>
 <td><p>2018年3月23日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
@@ -1577,17 +1577,17 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。首部全片使用数字Arri Alexa IMAX摄影机拍摄的商业电影。映前会播放IMAX全画幅特制倒计时。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/幕后玩家_(电影)" title="wikilink">幕後玩家</a></p></td>
+<td><p><a href="../Page/幕后玩家_(电影).md" title="wikilink">幕後玩家</a></p></td>
 <td><p>2018年4月28日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/死侍2" title="wikilink">死侍2</a></p></td>
+<td><p><a href="../Page/死侍2.md" title="wikilink">死侍2</a></p></td>
 <td><p>2018年5月18日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/星際大戰外傳：韓索羅" title="wikilink">星際大戰外傳：韓索羅</a></p></td>
+<td><p><a href="../Page/星際大戰外傳：韓索羅.md" title="wikilink">星際大戰外傳：韓索羅</a></p></td>
 <td><p>2018年5月25日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
@@ -1597,17 +1597,17 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/侏羅紀世界：殞落國度" title="wikilink">侏羅紀世界：殞落國度</a></p></td>
+<td><p><a href="../Page/侏羅紀世界：殞落國度.md" title="wikilink">侏羅紀世界：殞落國度</a></p></td>
 <td><p>2018年6月22日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/动物世界_(电影)" title="wikilink">動物世界</a></p></td>
+<td><p><a href="../Page/动物世界_(电影).md" title="wikilink">動物世界</a></p></td>
 <td><p>2018年6月29日</p></td>
 <td><p>3D电影，仅在亞洲地区上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我不是药神" title="wikilink">我不是药神</a></p></td>
+<td><p><a href="../Page/我不是药神.md" title="wikilink">我不是药神</a></p></td>
 <td><p>2018年7月5日</p></td>
 <td><p>仅在亞洲地区上映。</p></td>
 </tr>
@@ -1622,12 +1622,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/邪不压正" title="wikilink">邪不压正</a></p></td>
+<td><p><a href="../Page/邪不压正.md" title="wikilink">邪不压正</a></p></td>
 <td><p>2018年7月13日</p></td>
 <td><p>僅在亞洲地區上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/不可能的任務：全面瓦解" title="wikilink">不可能的任務：全面瓦解</a></p></td>
+<td><p><a href="../Page/不可能的任務：全面瓦解.md" title="wikilink">不可能的任務：全面瓦解</a></p></td>
 <td><p>2018年7月27日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。部分影片的宽高比为1.90:1</p></td>
 </tr>
@@ -1637,7 +1637,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，僅在亞洲地區上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/西虹市首富" title="wikilink">西虹市首富</a></p></td>
+<td><p><a href="../Page/西虹市首富.md" title="wikilink">西虹市首富</a></p></td>
 <td><p>2018年7月27日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
@@ -1647,22 +1647,22 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/極地之王" title="wikilink">極地之王</a></p></td>
+<td><p><a href="../Page/極地之王.md" title="wikilink">極地之王</a></p></td>
 <td><p>2018年8月17日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/歐洲攻略" title="wikilink">歐洲攻略</a></p></td>
+<td><p><a href="../Page/歐洲攻略.md" title="wikilink">歐洲攻略</a></p></td>
 <td><p>2018年8月17日</p></td>
 <td><p>仅在亞洲地區上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/終極戰士：掠奪者" title="wikilink">終極戰士：掠奪者</a></p></td>
+<td><p><a href="../Page/終極戰士：掠奪者.md" title="wikilink">終極戰士：掠奪者</a></p></td>
 <td><p>2018年9月14日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/滴答屋" title="wikilink">滴答屋</a></p></td>
+<td><p><a href="../Page/滴答屋.md" title="wikilink">滴答屋</a></p></td>
 <td><p>2018年9月21日</p></td>
 <td></td>
 </tr>
@@ -1672,7 +1672,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>僅在亞洲地區上映。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李茶的姑妈" title="wikilink">李茶的姑妈</a></p></td>
+<td><p><a href="../Page/李茶的姑妈.md" title="wikilink">李茶的姑妈</a></p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
@@ -1692,7 +1692,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/登月先鋒" title="wikilink">登月先鋒</a></p></td>
+<td><p><a href="../Page/登月先鋒.md" title="wikilink">登月先鋒</a></p></td>
 <td><p>2018年10月12日</p></td>
 <td><p>部分精彩片段使用胶片IMAX摄影机拍摄。映前会播放IMAX全画幅特制倒计时。</p></td>
 </tr>
@@ -1702,7 +1702,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鬼靈精_(2018年電影)" title="wikilink">鬼靈精</a></p></td>
+<td><p><a href="../Page/鬼靈精_(2018年電影).md" title="wikilink">鬼靈精</a></p></td>
 <td><p>2018年11月9日</p></td>
 <td><p>3D电影。</p></td>
 </tr>
@@ -1717,12 +1717,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/移動城市：致命引擎" title="wikilink">移動城市：致命引擎</a></p></td>
+<td><p><a href="../Page/移動城市：致命引擎.md" title="wikilink">移動城市：致命引擎</a></p></td>
 <td><p>2018年12月14日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/蜘蛛人：新宇宙" title="wikilink">蜘蛛人：新宇宙</a></p></td>
+<td><p><a href="../Page/蜘蛛人：新宇宙.md" title="wikilink">蜘蛛人：新宇宙</a></p></td>
 <td><p>2018年12月14日</p></td>
 <td><p>3D电影。</p></td>
 </tr>
@@ -1743,7 +1743,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>僅在亞洲地區上映。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/武林怪兽" title="wikilink">武林怪兽</a></p></td>
+<td><p><a href="../Page/武林怪兽.md" title="wikilink">武林怪兽</a></p></td>
 <td><p>2018年12月21日</p></td>
 <td><p>僅在亞洲地區上映。</p></td>
 </tr>
@@ -1777,7 +1777,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>整部影片的寬高比為1.90:1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/異裂_(電影)" title="wikilink">異裂</a></p></td>
+<td><p><a href="../Page/異裂_(電影).md" title="wikilink">異裂</a></p></td>
 <td><p>2019年1月18日</p></td>
 <td></td>
 </tr>
@@ -1797,7 +1797,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。僅在中国大陆地区上映</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/飞驰人生" title="wikilink">飞驰人生</a></p></td>
+<td><p><a href="../Page/飞驰人生.md" title="wikilink">飞驰人生</a></p></td>
 <td><p>2019年2月5日</p></td>
 <td><p>僅在中国大陆地区上映</p></td>
 </tr>
@@ -1837,7 +1837,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/哭泣的女人_(電影)" title="wikilink">哭泣的女人</a></p></td>
+<td><p><a href="../Page/哭泣的女人_(電影).md" title="wikilink">哭泣的女人</a></p></td>
 <td><p>2019年4月19日</p></td>
 <td></td>
 </tr>
@@ -1852,7 +1852,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/哥吉拉II：怪獸之王" title="wikilink">哥吉拉II：怪獸之王</a></p></td>
+<td><p><a href="../Page/哥吉拉II：怪獸之王.md" title="wikilink">哥吉拉II：怪獸之王</a></p></td>
 <td><p>2019年5月31日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
@@ -1872,7 +1872,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蜘蛛人：離家日" title="wikilink">蜘蛛人：離家日</a></p></td>
+<td><p><a href="../Page/蜘蛛人：離家日.md" title="wikilink">蜘蛛人：離家日</a></p></td>
 <td><p>2019年7月5日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
@@ -1882,7 +1882,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。部分精彩片段使用数字Arri Alexa IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/變種人_(電影)" title="wikilink">變種人</a></p></td>
+<td><p><a href="../Page/變種人_(電影).md" title="wikilink">變種人</a></p></td>
 <td><p>2019年8月2日</p></td>
 <td></td>
 </tr>
@@ -1892,12 +1892,12 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/牠：第二章" title="wikilink">牠：第二章</a></p></td>
+<td><p><a href="../Page/牠：第二章.md" title="wikilink">牠：第二章</a></p></td>
 <td><p>2019年9月6日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/STAR_WARS：天行者的崛起" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
+<td><p><a href="../Page/STAR_WARS：天行者的崛起.md" title="wikilink">STAR WARS：天行者的崛起</a></p></td>
 <td><p>2019年12月20日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>

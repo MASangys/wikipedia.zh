@@ -1,17 +1,17 @@
-[300_Page_iPhone_bill.png](https://zh.wikipedia.org/wiki/File:300_Page_iPhone_bill.png "fig:300_Page_iPhone_bill.png")上展示她装在盒子裡收到的300页[iPhone账单](../Page/iPhone.md "wikilink")\]\]
+[300_Page_iPhone_bill.png](https://zh.wikipedia.org/wiki/File:300_Page_iPhone_bill.png "fig:300_Page_iPhone_bill.png")上展示她装在盒子裡收到的300页[iPhone账单](https://zh.wikipedia.org/wiki/iPhone "wikilink")\]\]
 
-**300页iPhone账单**，是[美国](../Page/美国.md "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[匹兹堡一位叫](../Page/匹兹堡.md "wikilink")[贾斯汀·伊扎里克的女子于](https://zh.wikipedia.org/wiki/贾斯汀·伊扎里克 "wikilink")2007年8月收到的电话费账单。这份账单是由[AT\&T移动公司装在盒子裡寄来的](../Page/AT&T.md "wikilink")\[1\]，她将其拍下影片后发布到包括[YouTube在内的多家视频分享网站而](../Page/YouTube.md "wikilink")[爆红](https://zh.wikipedia.org/wiki/网络爆红 "wikilink")\[2\]\[3\]\[4\]。账单金额为275美元，上面鉅细无遗地列出了计费期间所有的数据传输明细记录，包括电子邮件和短信的后台流量。很快，[博客上开始流传出人意料的计费问题故事和](https://zh.wikipedia.org/wiki/博客 "wikilink")[苹果公司对](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone的大力宣传以及发行的技术新闻](../Page/iPhone.md "wikilink")\[5\]\[6\]，而且这段视频剪辑也引起了[大众媒体对浩繁账单的关注](https://zh.wikipedia.org/wiki/大众媒体 "wikilink")。
+**300页iPhone账单**，是[美国](../Page/美国.md "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[匹兹堡一位叫](../Page/匹兹堡.md "wikilink")[贾斯汀·伊扎里克的女子于](../Page/贾斯汀·伊扎里克.md "wikilink")2007年8月收到的电话费账单。这份账单是由[AT\&T移动公司装在盒子裡寄来的](../Page/AT&T.md "wikilink")\[1\]，她将其拍下影片后发布到包括[YouTube在内的多家视频分享网站而](../Page/YouTube.md "wikilink")[爆红](https://zh.wikipedia.org/wiki/网络爆红 "wikilink")\[2\]\[3\]\[4\]。账单金额为275美元，上面鉅细无遗地列出了计费期间所有的数据传输明细记录，包括电子邮件和短信的后台流量。很快，[博客上开始流传出人意料的计费问题故事和](https://zh.wikipedia.org/wiki/博客 "wikilink")[苹果公司对](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone的大力宣传以及发行的技术新闻](https://zh.wikipedia.org/wiki/iPhone "wikilink")\[5\]\[6\]，而且这段视频剪辑也引起了[大众媒体对浩繁账单的关注](https://zh.wikipedia.org/wiki/大众媒体 "wikilink")。
 
 10天后，视频已有超过300万人次点击\[7\]\[8\]，并获得了国际性的新闻关注。AT\&T于是给iPhone用户发了一条短信说明其今后的计费账单内容将会进行调整\[9\]。[信息技术杂志](../Page/信息技术.md "wikilink")《计算机世界》（）将这一事件列入其“技术界十大最丢人瞬间”名单\[10\]\[11\]。
 
 ## 背景
 
 [Original_iPhone_docked.jpg](https://zh.wikipedia.org/wiki/File:Original_iPhone_docked.jpg "fig:Original_iPhone_docked.jpg")
-苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](../Page/iTunes.md "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器的后台流量](../Page/网页浏览器.md "wikilink")\[15\]，这将产生包含大量项目的详细清单\[16\]。
+苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](https://zh.wikipedia.org/wiki/iTunes "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器的后台流量](../Page/网页浏览器.md "wikilink")\[15\]，这将产生包含大量项目的详细清单\[16\]。
 
 一个月后\[17\]，新用户们开始收到首月账单，有关超长或超贵iPhone账单的故事也开始流传。300页的账单实属罕见，但其他用户收到过50至100页的账单\[18\]。其中首位引起较大范围关注的是本·库彻拉（Ben
 Kuchera），他是一个名叫[Ars
-Technica的技术类网站游戏编辑](https://zh.wikipedia.org/wiki/Ars_Technica "wikilink")。库彻拉描述自己收到了34页的双面账单，他的一位同事更是收到了104页的账单\[19\]\[20\]。“我们中有好几位已经用过一段时间的[智能手机](../Page/智能手机.md "wikilink")，但大家从来没见过这样的账单。”\[21\]不过，一直到艾扎里克的视频发布後，才如同催化剂般引起了媒体对iPhone这方面故事的广泛关注\[22\]。
+Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。库彻拉描述自己收到了34页的双面账单，他的一位同事更是收到了104页的账单\[19\]\[20\]。“我们中有好几位已经用过一段时间的[智能手机](../Page/智能手机.md "wikilink")，但大家从来没见过这样的账单。”\[21\]不过，一直到艾扎里克的视频发布後，才如同催化剂般引起了媒体对iPhone这方面故事的广泛关注\[22\]。
 
 ## 视频
 

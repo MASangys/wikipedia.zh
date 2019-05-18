@@ -6,7 +6,7 @@
     vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")』同時發行，Disc
     1收錄1999年2月\~2002年7月的單曲B面曲，另外收錄1首新歌『[總有一天](https://zh.wikipedia.org/wiki/總有一天_\(GLAY\) "wikilink")』。
   - Disc 2也被稱為「HISASHI
-    DISC」，收錄[HISASHI創作的作品](../Page/HISASHI.md "wikilink")。
+    DISC」，收錄[HISASHI創作的作品](https://zh.wikipedia.org/wiki/HISASHI "wikilink")。
 
 ## 收錄曲目
 

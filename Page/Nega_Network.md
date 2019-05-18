@@ -1,7 +1,7 @@
 **Nega
-Network藝術娛樂公司**（）是[韓國以](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂製作著名的](https://zh.wikipedia.org/wiki/音樂製作 "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")[公司](../Page/公司.md "wikilink")，公司簽約成員除了歌手外，還有作曲家、作詞家、音樂製作人等，更舉辦音樂甄試招收練習生。是個以音樂為重的經紀公司。另外未來子公司i-NEGA將進行運作。
+Network藝術娛樂公司**（）是[韓國以](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂製作著名的](https://zh.wikipedia.org/wiki/音樂製作 "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[娛樂](../Page/娛樂.md "wikilink")[公司](../Page/公司.md "wikilink")，公司簽約成員除了歌手外，還有作曲家、作詞家、音樂製作人等，更舉辦音樂甄試招收練習生。是個以音樂為重的經紀公司。另外未來子公司i-NEGA將進行運作。
 
-旗下主要藝人有Yoari、[Lunafly](https://zh.wikipedia.org/wiki/Lunafly "wikilink")、[LABOUM](https://zh.wikipedia.org/wiki/LABOUM "wikilink")、50kg等。
+旗下主要藝人有Yoari、[Lunafly](../Page/Lunafly.md "wikilink")、[LABOUM](../Page/LABOUM.md "wikilink")、50kg等。
 
 ## 歷史
 
@@ -16,9 +16,9 @@ NEGANETWORK 於2003年1月由 韓國知名歌手兼製作人尹日尚, LANCE, Yo
 | 2007, 2010 solo | [Yoari](https://zh.wikipedia.org/wiki/Yoari "wikilink")                   | 女  | 個人                                                                                                                                                                                                         |                                             |
 | 2011            | [Jung Seo Kyung](https://zh.wikipedia.org/wiki/Jung_Seo_Kyung "wikilink") | 女  | 個人                                                                                                                                                                                                         | MBC 偉大的誕生2 top8出道                           |
 | 2012            | 50kg                                                                      | 男  | 2人 ([Bakmin, Lee](https://zh.wikipedia.org/wiki/Bakmin,_Lee "wikilink")、[Chan Young](https://zh.wikipedia.org/wiki/Chan_Young "wikilink"))                                                                 |                                             |
-| 2012            | [Lunafly](https://zh.wikipedia.org/wiki/Lunafly "wikilink")               | 男  | 2人 ([Sam](https://zh.wikipedia.org/wiki/Sam "wikilink")、[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink"))                                                                                               |                                             |
+| 2012            | [Lunafly](../Page/Lunafly.md "wikilink")                                  | 男  | 2人 ([Sam](https://zh.wikipedia.org/wiki/Sam "wikilink")、[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink"))                                                                                               |                                             |
 | 2013            | [Littles](https://zh.wikipedia.org/wiki/Littles "wikilink")               | 女  | 3人 ([Shin Yelim](https://zh.wikipedia.org/wiki/Shin_Yelim "wikilink")、[Kim Haeun](https://zh.wikipedia.org/wiki/Kim_Haeun "wikilink")、[Song Hanhee](https://zh.wikipedia.org/wiki/Song_Hanhee "wikilink")) | 出道前演唱了韓劇[大風水OST](../Page/大風水.md "wikilink") |
-| 2014            | [LABOUM](https://zh.wikipedia.org/wiki/LABOUM "wikilink")                 | 女  | 5人（柔廷、昭娟、ZN、海仁、率濱）                                                                                                                                                                                         |                                             |
+| 2014            | [LABOUM](../Page/LABOUM.md "wikilink")                                    | 女  | 5人（柔廷、昭娟、ZN、海仁、率濱）                                                                                                                                                                                         |                                             |
 
 ### 其他藝人
 
@@ -97,16 +97,16 @@ NEGANETWORK 於2003年1月由 韓國知名歌手兼製作人尹日尚, LANCE, Yo
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LC9" title="wikilink">LC9</a></p></td>
+<td><p><a href="../Page/LC9.md" title="wikilink">LC9</a></p></td>
 <td><p>男</p></td>
 <td><p>6人 (<a href="https://zh.wikipedia.org/wiki/J-HYO" title="wikilink">J-HYO</a>, <a href="https://zh.wikipedia.org/wiki/RASA" title="wikilink">RASA</a>, <a href="https://zh.wikipedia.org/wiki/King" title="wikilink">King</a>, <a href="https://zh.wikipedia.org/wiki/JUN" title="wikilink">JUN</a>, <a href="https://zh.wikipedia.org/wiki/E.DEN" title="wikilink">E.DEN</a>, <a href="https://zh.wikipedia.org/wiki/AO" title="wikilink">AO</a>)</p></td>
 <td><p>解散</p></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LABOUM" title="wikilink">LABOUM</a></p></td>
+<td><p><a href="../Page/LABOUM.md" title="wikilink">LABOUM</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金律喜" title="wikilink">金律喜</a></p></td>
+<td><p><a href="../Page/金律喜.md" title="wikilink">金律喜</a></p></td>
 <td><p>LABOUM的律喜离队</p></td>
 </tr>
 </tbody>

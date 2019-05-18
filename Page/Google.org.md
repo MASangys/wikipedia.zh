@@ -10,7 +10,7 @@ Google.org
 的第一個計劃是量產[插電式混合動力汽車](https://zh.wikipedia.org/wiki/插電式混合動力汽車 "wikilink")，每一加侖可以行駛100英里（每英里1加侖）（詳情請見[V2G汽車電網](../Page/V2G.md "wikilink")）\[2\]。
 
 在2007年11月， Google.org宣布RE
-\<C（可再生能源比煤更便宜），將投資超過好幾億美元於可再生能源，例如：[風能和](https://zh.wikipedia.org/wiki/風能 "wikilink")[太陽能](https://zh.wikipedia.org/wiki/太陽能 "wikilink")，其中[太陽熱能更是重要的投資和研究目標](https://zh.wikipedia.org/wiki/太陽熱能 "wikilink")。RE
+\<C（可再生能源比煤更便宜），將投資超過好幾億美元於可再生能源，例如：[風能和](https://zh.wikipedia.org/wiki/風能 "wikilink")[太陽能](https://zh.wikipedia.org/wiki/太陽能 "wikilink")，其中[太陽熱能更是重要的投資和研究目標](../Page/太陽熱能.md "wikilink")。RE
 \<C的最終目標為從可再生能源中創造超過一[吉瓦的功率](https://zh.wikipedia.org/wiki/瓦 "wikilink")（足以供應像[舊金山大小的城市](https://zh.wikipedia.org/wiki/舊金山 "wikilink")）此種方式將會比傳統的能源-[煤更加省錢](../Page/煤.md "wikilink")\[3\]。
 
 2006到2009年，Google.org的執行長是\[4\]。博瑞下台後，Google新業務發展副總裁接下執行長一職，該組織便開始針對全球普遍會遇到的問題找出解決方式，例如:利用搜尋資料追蹤流感爆發地區的Flu

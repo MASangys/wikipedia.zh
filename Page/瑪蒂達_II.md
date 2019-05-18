@@ -6,7 +6,7 @@ Tank**）乃[英國於](https://zh.wikipedia.org/wiki/英國 "wikilink")[第二�
 
 [IWM-KID-68-Matilda.jpg](https://zh.wikipedia.org/wiki/File:IWM-KID-68-Matilda.jpg "fig:IWM-KID-68-Matilda.jpg")\]\]
 
-[A11瑪蒂達一型坦克](https://zh.wikipedia.org/wiki/瑪蒂達_I "wikilink")，是一款專門設計來支援步兵作戰的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。但其薄弱到可笑的武裝（僅[機槍一挺](https://zh.wikipedia.org/wiki/機槍 "wikilink")）及其緩慢不堪的速度（公路時速12－13公里），使其實戰應用面臨非常多的限制。\[1\]
+[A11瑪蒂達一型坦克](../Page/瑪蒂達_I.md "wikilink")，是一款專門設計來支援步兵作戰的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。但其薄弱到可笑的武裝（僅[機槍一挺](https://zh.wikipedia.org/wiki/機槍 "wikilink")）及其緩慢不堪的速度（公路時速12－13公里），使其實戰應用面臨非常多的限制。\[1\]
 
 英國陸軍部意識到這個問題，所以在瑪蒂達一型坦克仍在開發時，就決定要擁有一款更好的步兵坦克。瑪蒂達一型坦克無論如何改造都無法滿足軍方需求，所以只好設計一款新型坦克，那就是瑪蒂達二型坦克。
 

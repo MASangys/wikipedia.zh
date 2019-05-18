@@ -144,10 +144,9 @@ at the resolution stripe on the left of the image or the etched portrait
 on the right, the 1020 is significantly out-performing its
 rivals.」\[12\]
 
-[The
-Verge的大衛](https://zh.wikipedia.org/wiki/The_Verge "wikilink")·皮爾斯（David
-Pierce）則評論道：「this is a remarkable phone, hampered by its operating
-system.」\[13\]
+[The Verge的大衛](../Page/The_Verge.md "wikilink")·皮爾斯（David
+Pierce）則評論道：「this is a remarkable phone, hampered by its
+operating system.」\[13\]
 
 [科技新时代的Dan](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")
 Nosowitz：「Nokia's new Lumia smartphone has amazing hardware

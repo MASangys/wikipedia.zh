@@ -21,7 +21,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 <th><p><a href="../Page/無雙OROCHI_2.md" title="wikilink">2S</a></p></th>
 <th><p><a href="../Page/無雙OROCHI_2.md" title="wikilink">2H</a></p></th>
 <th><p><a href="../Page/無雙OROCHI_2.md" title="wikilink">2U</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔_3" title="wikilink">3</a></p></th>
+<th><p><a href="../Page/無雙OROCHI_蛇魔_3.md" title="wikilink">3</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -2174,7 +2174,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/井伊直虎" title="wikilink">井伊直虎</a></p></td>
+<td><p><a href="../Page/井伊直虎.md" title="wikilink">井伊直虎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2543,7 +2543,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
 **[阿瑞斯](../Page/阿瑞斯.md "wikilink")（3代登場）**
 
-  - 聲優：[古川慎](https://zh.wikipedia.org/wiki/古川慎 "wikilink")
+  - 聲優：[古川慎](../Page/古川慎.md "wikilink")
   - 武器：龍槍
   - 掌管鬥爭與破壞的神。因為是宙斯與正妻赫拉所生的長男，因此非常高傲，對於人類以及地位較低的神，會以瞧不起人的態度對待。認為神應該嚴厲對待人類，看不慣與人類友好的父親。被奧丁利用，故事中段更一度刺死宙斯。最後醒覺，知道人神合作的重要，帶領雅典娜與眾人一同輸出力量，將宙斯復活。
 

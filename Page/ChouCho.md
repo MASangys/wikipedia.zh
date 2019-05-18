@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - 6月20日首次投稿至[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")。\[3\]\[4\]
+  - 6月20日首次投稿至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。\[3\]\[4\]
 
 <!-- end list -->
 
@@ -114,7 +114,7 @@ LACM-34011（初回限定盤）</p></td>
 <td><p>2014年2月26日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>LACM-14193</p></td>
-<td><p>電視動畫「<a href="https://zh.wikipedia.org/wiki/BUDDY_COMPLEX" title="wikilink">BUDDY COMPLEX</a>」片尾曲</p></td>
+<td><p>電視動畫「<a href="../Page/BUDDY_COMPLEX.md" title="wikilink">BUDDY COMPLEX</a>」片尾曲</p></td>
 <td><p>57位</p></td>
 </tr>
 <tr class="odd">
@@ -122,7 +122,7 @@ LACM-34011（初回限定盤）</p></td>
 <td><p>2014年8月6日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>LACM-14261</p></td>
-<td><p>電視動畫「<a href="https://zh.wikipedia.org/wiki/GLASSLIP" title="wikilink">GLASSLIP</a>」片頭曲</p></td>
+<td><p>電視動畫「<a href="../Page/GLASSLIP.md" title="wikilink">GLASSLIP</a>」片頭曲</p></td>
 <td><p>57位</p></td>
 </tr>
 <tr class="even">
@@ -186,7 +186,7 @@ LACM-34011（初回限定盤）</p></td>
 <td><p>2018年10月31日</p></td>
 <td><p><strong></strong></p></td>
 <td><p>LACM-14806</p></td>
-<td><p>電視動畫「<a href="https://zh.wikipedia.org/wiki/弦音－風舞高中弓道部－" title="wikilink">弦音－風舞高中弓道部－</a>」片尾曲</p></td>
+<td><p>電視動畫「<a href="../Page/弦音－風舞高中弓道部－.md" title="wikilink">弦音－風舞高中弓道部－</a>」片尾曲</p></td>
 <td><p>156位</p></td>
 </tr>
 </tbody>
@@ -309,7 +309,7 @@ LACM-34011（初回限定盤）</p></td>
 
   - [ほわほわちょうちょ](http://ameblo.jp/choucho621/)，網誌。
 
-  - [ちょうちょ](http://www.nicovideo.jp/mylist/7261287/)，[NICONICO動畫上公開的mylist](../Page/NICONICO動畫.md "wikilink")。
+  - [ちょうちょ](http://www.nicovideo.jp/mylist/7261287/)，[NICONICO動畫上公開的mylist](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。
 
   - [ちょうちょ-ニコニコミュニティ](http://com.nicovideo.jp/community/co86885/)，NICONICO動畫上社群。
 

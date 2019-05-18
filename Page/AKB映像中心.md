@@ -9,7 +9,7 @@ center）\[2\]。
 
 短片的內容五花八門，除了常見的AKB48活動花絮之外，也有像是成員的居家生活披露、才藝表演、特別製作的搞笑短片或是歌唱與舞蹈等內容企畫。其中，有為數不少的影片是由成員們與YouTube上具有高知名度的創作頻道，或影片創作家所跨界合作。
 
-雖然是採現場直播方式進行的靜態節目，但是《AKB映像中心》並不是一般[攝影棚內拍攝的作品](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，而是將節目的佈景做成簡單的可拆卸移動式設計，每週在[富士電視台總部內的不同位置移動](../Page/富士產經集團大樓.md "wikilink")。例如首週的節目中，是將佈景設置在電視台18樓的[走廊處](https://zh.wikipedia.org/wiki/走廊 "wikilink")。2013年7月，富士電視台在[台場地區主辦了大型](https://zh.wikipedia.org/wiki/台場 "wikilink")[園遊會風格的活動](https://zh.wikipedia.org/wiki/園遊會 "wikilink")[御台場合眾國](https://zh.wikipedia.org/wiki/御台場合眾國 "wikilink")，AKB48被選為該活動的形象代言人，並以《AKB映像中心》為主要的合作節目，配合這點在7月至9月初這段期間節目佈景也被移轉至位在御台場合眾國會場內的「AKB48御台場臨海學校」（），以露天方式拍攝。
+雖然是採現場直播方式進行的靜態節目，但是《AKB映像中心》並不是一般[攝影棚內拍攝的作品](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，而是將節目的佈景做成簡單的可拆卸移動式設計，每週在[富士電視台總部內的不同位置移動](../Page/富士產經集團大樓.md "wikilink")。例如首週的節目中，是將佈景設置在電視台18樓的[走廊處](https://zh.wikipedia.org/wiki/走廊 "wikilink")。2013年7月，富士電視台在[台場地區主辦了大型](https://zh.wikipedia.org/wiki/台場 "wikilink")[園遊會風格的活動](https://zh.wikipedia.org/wiki/園遊會 "wikilink")[御台場合眾國](../Page/御台場合眾國.md "wikilink")，AKB48被選為該活動的形象代言人，並以《AKB映像中心》為主要的合作節目，配合這點在7月至9月初這段期間節目佈景也被移轉至位在御台場合眾國會場內的「AKB48御台場臨海學校」（），以露天方式拍攝。
 
 除了節目中介紹的參賽影片主體外，在AKB48的YouTube官方頻道中也收錄了這些影片的製作幕後或預告等相關影片。在節目第一週所介紹的影片中，由[梅田彩佳所企畫演出的](../Page/梅田彩佳.md "wikilink")「一個人[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")」（）在上傳後三日內迅速獲得超過百萬次的瀏覽點擊次數，成為同系列的企畫中最受歡迎的作品之一，並在最後一集揭曉的總點擊次數排行中，以1,557,546次的點擊播放次數順利得到第一名。
 
@@ -333,7 +333,7 @@ center）\[2\]。
 <td><p><strong>22</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朝長美櫻" title="wikilink">朝長美櫻</a><br />
+<td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a><br />
 （HKT48）</p></td>
 </tr>
 <tr class="even">
@@ -352,7 +352,7 @@ center）\[2\]。
 <td><p>片山陽加</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/田中菜津美" title="wikilink">田中菜津美</a><br />
+<td><p><a href="../Page/田中菜津美.md" title="wikilink">田中菜津美</a><br />
 （HKT48）</p></td>
 </tr>
 <tr class="even">

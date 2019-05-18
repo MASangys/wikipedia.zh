@@ -80,7 +80,8 @@ TOUR\[3\]。
 13. **[if](https://zh.wikipedia.org/wiki/if_\(西野カナの曲\) "wikilink")**
 14. **[Alright](../Page/Thank_you,_Love.md "wikilink")**
 15. **[Esperanza](../Page/Esperanza.md "wikilink")**
-16. **[Come On Yes Yes Oh Yeah\!\!](../Page/to_LOVE.md "wikilink")**
+16. **[Come On Yes Yes Oh
+    Yeah\!\!](https://zh.wikipedia.org/wiki/to_LOVE "wikilink")**
 17. **[就算…](../Page/就算….md "wikilink")**
 18. **[Sherie](../Page/MAKE_UP.md "wikilink")**
 19. **[Together](../Page/Thank_you,_Love.md "wikilink")**

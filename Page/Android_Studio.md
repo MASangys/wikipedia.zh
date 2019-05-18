@@ -20,7 +20,7 @@ X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux平台上均可运行]
     SDK和](https://zh.wikipedia.org/wiki/Android_SDK "wikilink")[AVD管理器](https://zh.wikipedia.org/wiki/AVD "wikilink")。自更新推出后，原有的独立版本SDK与AVD管理器完全被Android
     Studio取代。
   - Beta版本测试，并阶段性展示；
-  - 基于[Gradle的构建支持](https://zh.wikipedia.org/wiki/Gradle "wikilink")；
+  - 基于[Gradle的构建支持](../Page/Gradle.md "wikilink")；
   - Android特定[代码重构和快速修复](../Page/代码重构.md "wikilink")；
   - [Lint提示工具更好地对程序性能](https://zh.wikipedia.org/wiki/Lint "wikilink")、可用性、版本兼容和其他问题进行控制捕捉；
   - 支持ProGuard和应用签名功能；

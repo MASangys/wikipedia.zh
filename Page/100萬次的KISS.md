@@ -32,7 +32,7 @@
 <!-- end list -->
 
 1.  100萬次的KISS （MV）
-2.  [ANSWER](../Page/ANSWER.md "wikilink")（2006年8月演唱會「SWING
+2.  [ANSWER](https://zh.wikipedia.org/wiki/ANSWER "wikilink")（2006年8月演唱會「SWING
     ADDICTION」節錄）
 
 <!-- end list -->

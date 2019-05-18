@@ -395,7 +395,7 @@ NAOKI</p></td>
   -
 
       -
-        作詞、主唱：[AiRI](https://zh.wikipedia.org/wiki/AiRI "wikilink")，作曲、編曲：宮崎京一
+        作詞、主唱：[AiRI](../Page/AiRI.md "wikilink")，作曲、編曲：宮崎京一
         第1話未使用。由第8話開始片尾部份有重製。
 
 ::;「」（短褲魂）（第14－25話）
@@ -1390,7 +1390,7 @@ NAOKI</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2014年7月21日－8月22日</p></td>
 <td><p>星期一至五 10時00分－10時30分</p></td>
 <td><p>衛星電視</p></td>
@@ -1479,7 +1479,7 @@ NAOKI</p></td>
 粵語及日語雙語廣播<br />
 第2-13話有粵語片頭曲，以「駁聲不駁片」形式播放<br />
 有預告<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>

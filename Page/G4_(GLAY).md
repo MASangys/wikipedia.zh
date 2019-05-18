@@ -33,7 +33,7 @@
     GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")
     （ROCK'N'ROLL SWINDLE和LAYLA為專輯版本）
   - [rare collectives
-    vol.3](../Page/rare_collectives_vol.3.md "wikilink")
+    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")
 
 [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
 [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")

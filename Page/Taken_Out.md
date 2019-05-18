@@ -126,7 +126,7 @@ Ten播出](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")，该节目模�
 <tr class="odd">
 <td></td>
 <td><p>Take Me Out</p></td>
-<td><p><a href="../Page/ntv7.md" title="wikilink">ntv7</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ntv7" title="wikilink">ntv7</a></p></td>
 <td><p>2011年11月11日</p></td>
 <td><p>Nazrudin Rahman and Julie Woon</p></td>
 </tr>

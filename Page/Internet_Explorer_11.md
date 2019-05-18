@@ -3,7 +3,7 @@ Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[�
 8.1於](../Page/Windows_8.1.md "wikilink")2013年10月17日發佈。2013年11月7日發佈於[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。2015年7月29日上市的[Windows
 10會改以](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Microsoft
-Edge作為預設瀏覽器](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")，但為了相容性需求，Windows
+Edge作為預設瀏覽器](../Page/Microsoft_Edge.md "wikilink")，但為了相容性需求，Windows
 10仍會內建IE11供使用者選用。
 
 ## 新特性
@@ -48,7 +48,7 @@ Explorer 11開發者預覽版\[12\]\[13\]。
 <td><p>2013年6月26日[15]</p></td>
 <td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a></p></td>
 <td><p><a href="../Page/WebGL.md" title="wikilink">WebGL</a>，<a href="https://zh.wikipedia.org/wiki/CSS" title="wikilink">CSS边框图</a>，<a href="../Page/HTML5.md" title="wikilink">HTML5拖放</a>，改善的<a href="../Page/JavaScript.md" title="wikilink">JavaScript性能</a>，重大更新<a href="../Page/Internet_Explorer开发人员工具.md" title="wikilink">Internet Explorer开发人员工具</a>，<a href="../Page/硬件加速.md" title="wikilink">硬件加速</a><a href="../Page/JPEG.md" title="wikilink">JPEG解码</a>，<a href="https://zh.wikipedia.org/wiki/隐藏字幕" title="wikilink">隐藏字幕</a>，HTML5全屏，HTML5预生成，HTML5预读取，<a href="../Page/SPDY.md" title="wikilink">SPDY</a> v3</p>
-<p><strong>Windows 8.1独有的</strong>：加密（网络加密），<a href="https://zh.wikipedia.org/wiki/自適性串流" title="wikilink">自適性串流</a>（媒体源扩展），加密的媒体扩展</p></td>
+<p><strong>Windows 8.1独有的</strong>：加密（网络加密），<a href="../Page/自適性串流.md" title="wikilink">自適性串流</a>（媒体源扩展），加密的媒体扩展</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年7月25日[16]</p></td>

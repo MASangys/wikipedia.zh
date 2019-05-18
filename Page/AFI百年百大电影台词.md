@@ -41,7 +41,7 @@
 <td><p>2</p></td>
 <td><p>我要提出一个他无法拒绝的条件。<br />
 "I'm going to make him an offer he can't refuse."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/維托·柯里昂" title="wikilink">維托·柯里昂</a></p></td>
+<td><p><a href="../Page/維托·柯里昂.md" title="wikilink">維托·柯里昂</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬龍·白蘭度" title="wikilink">馬龍·白蘭度</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/教父_(电影)" title="wikilink">教父</a>》</p></td>
 <td><p>1972年</p></td>
@@ -59,7 +59,7 @@
 <td><p>4</p></td>
 <td><p>，我感觉我们已经不在堪萨斯了。<br />
 "Toto, I've got a feeling we're not in Kansas anymore."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桃樂絲·蓋爾" title="wikilink">桃樂絲·蓋爾</a></p></td>
+<td><p><a href="../Page/桃樂絲·蓋爾.md" title="wikilink">桃樂絲·蓋爾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/茱蒂·嘉蘭" title="wikilink">茱蒂·嘉蘭</a></p></td>
 <td><p>《<a href="../Page/綠野仙蹤_(1939年電影).md" title="wikilink">绿野仙踪</a>》</p></td>
 <td><p>1939年</p></td>
@@ -77,7 +77,7 @@
 <td><p>6</p></td>
 <td><p><br />
 "Go ahead, make my day."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/骯髒哈利" title="wikilink">哈利·卡拉漢</a></p></td>
+<td><p><a href="../Page/骯髒哈利.md" title="wikilink">哈利·卡拉漢</a></p></td>
 <td><p><a href="../Page/克林·伊斯威特.md" title="wikilink">克林·伊斯威特</a></p></td>
 <td><p>《<a href="../Page/撥雲見日.md" title="wikilink">拨云见日</a>》</p></td>
 <td><p>1983年</p></td>
@@ -124,7 +124,7 @@
 What we've got here is failure to communicate."</p></td>
 <td><p>隊長</p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/铁窗喋血" title="wikilink">鐵窗喋血</a>》</p></td>
+<td><p>《<a href="../Page/铁窗喋血.md" title="wikilink">鐵窗喋血</a>》</p></td>
 <td><p>1967年</p></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@ What we've got here is failure to communicate."</p></td>
 "Love means never having to say you're sorry."</p></td>
 <td><p>奧利佛·貝瑞特四世</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雷恩·歐尼爾" title="wikilink">雷恩·歐尼爾</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/愛的故事" title="wikilink">愛情故事</a>》</p></td>
+<td><p>《<a href="../Page/愛的故事.md" title="wikilink">愛情故事</a>》</p></td>
 <td><p>1970年</p></td>
 </tr>
 <tr class="even">
@@ -230,7 +230,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>23</p></td>
 <td><p>没有比家更好的地方了！<br />
 "There's no place like home."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桃樂絲·蓋爾" title="wikilink">桃樂絲·蓋爾</a></p></td>
+<td><p><a href="../Page/桃樂絲·蓋爾.md" title="wikilink">桃樂絲·蓋爾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/茱蒂·嘉蘭" title="wikilink">茱蒂·嘉蘭</a></p></td>
 <td><p>《<a href="../Page/綠野仙蹤_(1939年電影).md" title="wikilink">綠野仙蹤</a>》</p></td>
 <td><p>1939年</p></td>
@@ -312,7 +312,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>围捕嫌犯。<br />
 "Round up the usual suspects."</p></td>
 <td><p>路易·雷諾局長</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克勞德·雷恩斯" title="wikilink">克勞德·雷恩斯</a></p></td>
+<td><p><a href="../Page/克勞德·雷恩斯.md" title="wikilink">克勞德·雷恩斯</a></p></td>
 <td><p>《<a href="../Page/北非谍影.md" title="wikilink">北非諜影</a>》</p></td>
 <td><p>1942年</p></td>
 </tr>
@@ -356,7 +356,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>37</p></td>
 <td><p><br />
 "I'll be back."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔鬼終結者_(電影角色)" title="wikilink">魔鬼終結者</a></p></td>
+<td><p><a href="../Page/魔鬼終結者_(電影角色).md" title="wikilink">魔鬼終結者</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿諾·史瓦辛格" title="wikilink">阿諾·史瓦辛格</a></p></td>
 <td><p>《<a href="../Page/终结者.md" title="wikilink">魔鬼終結者</a>》</p></td>
 <td><p>1984年</p></td>
@@ -383,7 +383,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>40</p></td>
 <td><p>妈妈说人生就像一盒巧克力，你永远都不知道你会吃到什么口味。<br />
 "Mama always said life was like a box of chocolates. You never know what you're gonna get."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿甘_(電影角色)" title="wikilink">福雷斯特·甘</a></p></td>
+<td><p><a href="../Page/阿甘_(電影角色).md" title="wikilink">福雷斯特·甘</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湯姆·漢克斯" title="wikilink">湯姆·漢克斯</a></p></td>
 <td><p>《<a href="../Page/阿甘正传.md" title="wikilink">阿甘正傳</a>》</p></td>
 <td><p>1994年</p></td>
@@ -464,7 +464,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>49</p></td>
 <td><p>它还活着！它还活着！<br />
 "It's alive! It's alive!"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/維多·法蘭克斯坦" title="wikilink">亨利·法蘭克斯坦</a></p></td>
+<td><p><a href="../Page/維多·法蘭克斯坦.md" title="wikilink">亨利·法蘭克斯坦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科林·克萊夫" title="wikilink">科林·克萊夫</a></p></td>
 <td><p>《<a href="../Page/科学怪人_(1931年电影).md" title="wikilink">科學怪人</a>》</p></td>
 <td><p>1931年</p></td>
@@ -482,9 +482,9 @@ What we've got here is failure to communicate."</p></td>
 <td><p>51</p></td>
 <td><p>你应该问自己一个问题：‘我感到幸运吗？’你觉得呢，痞子？<br />
 "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/骯髒哈利" title="wikilink">哈利·卡拉漢</a></p></td>
+<td><p><a href="../Page/骯髒哈利.md" title="wikilink">哈利·卡拉漢</a></p></td>
 <td><p><a href="../Page/克林·伊斯威特.md" title="wikilink">克林·伊斯威特</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/緊急追捕令" title="wikilink">緊急追捕令</a>》</p></td>
+<td><p>《<a href="../Page/緊急追捕令.md" title="wikilink">緊急追捕令</a>》</p></td>
 <td><p>1971年</p></td>
 </tr>
 <tr class="even">
@@ -682,7 +682,7 @@ What we've got here is failure to communicate."</p></td>
 "Mother of mercy, is this the end of Rico?"</p></td>
 <td><p>凱薩·艾瑞科·「瑞科」·班達羅</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛德華·羅賓遜" title="wikilink">愛德華·羅賓遜</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/小凯撒_(电影)" title="wikilink">小凱薩</a>》</p></td>
+<td><p>《<a href="../Page/小凯撒_(电影).md" title="wikilink">小凱薩</a>》</p></td>
 <td><p>1930年</p></td>
 </tr>
 <tr class="even">
@@ -707,7 +707,7 @@ What we've got here is failure to communicate."</p></td>
 <td><p>76</p></td>
 <td><p><br />
 "Hasta la vista, baby."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔鬼終結者_(電影角色)" title="wikilink">魔鬼終結者</a></p></td>
+<td><p><a href="../Page/魔鬼終結者_(電影角色).md" title="wikilink">魔鬼終結者</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿諾·史瓦辛格" title="wikilink">阿諾·史瓦辛格</a></p></td>
 <td><p>《<a href="../Page/终结者2：审判日.md" title="wikilink">魔鬼終結者2：審判日</a>》</p></td>
 <td><p>1991年</p></td>
@@ -840,7 +840,7 @@ Striker: "Surely you can't be serious." Rumack: "I am serious...and don't call m
 </tr>
 <tr class="odd">
 <td><p>91</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/誰在一壘？" title="wikilink">誰在一壘？</a><br />
+<td><p><a href="../Page/誰在一壘？.md" title="wikilink">誰在一壘？</a><br />
 "Who's on first?"</p></td>
 <td><p>德克斯特</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴德·阿伯特" title="wikilink">巴德·阿伯特</a></p></td>
@@ -861,7 +861,7 @@ Striker: "Surely you can't be serious." Rumack: "I am serious...and don't call m
 <td><p>人生是一场宴会，大部分的可怜虫都要饿死了！<br />
 "Life is a banquet, and most poor suckers are starving to death!"</p></td>
 <td><p>梅·丹尼斯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/羅莎琳德·拉塞爾" title="wikilink">羅莎琳·羅素</a></p></td>
+<td><p><a href="../Page/羅莎琳德·拉塞爾.md" title="wikilink">羅莎琳·羅素</a></p></td>
 <td><p>《》</p></td>
 <td><p>1958年</p></td>
 </tr>
@@ -896,7 +896,7 @@ Striker: "Surely you can't be serious." Rumack: "I am serious...and don't call m
 <td><p>97</p></td>
 <td><p>我妈妈谢谢你，我爸爸谢谢你，我姐姐谢谢你，我也谢谢你。<br />
 "My mother thanks you. My father thanks you. My sister thanks you. And I thank you."</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喬治·M·科漢" title="wikilink">喬治·M·科漢</a></p></td>
+<td><p><a href="../Page/喬治·M·科漢.md" title="wikilink">喬治·M·科漢</a></p></td>
 <td><p><a href="../Page/詹姆斯·卡格尼.md" title="wikilink">詹姆斯·卡格尼</a></p></td>
 <td><p>《<a href="../Page/勝利之歌.md" title="wikilink">勝利之歌</a>》</p></td>
 <td><p>1942年</p></td>
@@ -912,7 +912,7 @@ Striker: "Surely you can't be serious." Rumack: "I am serious...and don't call m
 </tr>
 <tr class="odd">
 <td><p>99</p></td>
-<td><p>我会抓住你们的，我的<a href="https://zh.wikipedia.org/wiki/桃樂絲·蓋爾" title="wikilink">小美人</a>，还有你的！<br />
+<td><p>我会抓住你们的，我的<a href="../Page/桃樂絲·蓋爾.md" title="wikilink">小美人</a>，还有你的！<br />
 "I'll get you, my pretty, and your little dog too!"</p></td>
 <td></td>
 <td></td>

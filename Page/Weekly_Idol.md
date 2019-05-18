@@ -7,15 +7,15 @@ Idol**（；-{zh-hans:;zh-hant:;zh-cn:;zh-hk:另譯**一週偶像**;zh-mo:另譯
 
 2015年11月12日，[鄭亨敦宣布因](../Page/鄭亨敦.md "wikilink")[恐慌症病情加劇](../Page/恐慌症.md "wikilink")，決定暫時中斷所有演藝活動。23日，製作組表示，將由[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Super
 Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[Super
-Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")[鄭容和](../Page/鄭容和.md "wikilink")、[Infinite](../Page/Infinite.md "wikilink")[聖圭等暫時代替](https://zh.wikipedia.org/wiki/聖圭 "wikilink")[鄭亨敦擔任特別MC](../Page/鄭亨敦.md "wikilink")。\[1\]2016年3月17日製作組表示，[Super
+Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")[鄭容和](../Page/鄭容和.md "wikilink")、[Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink")[聖圭等暫時代替](https://zh.wikipedia.org/wiki/聖圭 "wikilink")[鄭亨敦擔任特別MC](../Page/鄭亨敦.md "wikilink")。\[1\]2016年3月17日製作組表示，[Super
 Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
-[Hani將成為節目的主持人](https://zh.wikipedia.org/wiki/安喜延 "wikilink")，以固定主持人之姿，和[Defconn一起進行節目](https://zh.wikipedia.org/wiki/Defconn "wikilink")。直至[鄭亨敦康復回歸為止](../Page/鄭亨敦.md "wikilink")\[2\]
+[Hani將成為節目的主持人](https://zh.wikipedia.org/wiki/安喜延 "wikilink")，以固定主持人之姿，和[Defconn一起進行節目](../Page/Defconn.md "wikilink")。直至[鄭亨敦康復回歸為止](../Page/鄭亨敦.md "wikilink")\[2\]
 。[鄭亨敦在第](../Page/鄭亨敦.md "wikilink")271集回歸主持\[3\]\[4\]。
 
 ### 鄭亨敦、Defconn下車，節目春季改版（季播）
 
-於2018年3月7日錄製最後一集後，[鄭亨敦](../Page/鄭亨敦.md "wikilink")，[Defconn將退出節目](https://zh.wikipedia.org/wiki/Defconn "wikilink")。
-節目將會改成季播。接任MC為[金信英](../Page/金信英.md "wikilink")、[李尚敏與](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")\[5\]\[6\]。
+於2018年3月7日錄製最後一集後，[鄭亨敦](../Page/鄭亨敦.md "wikilink")，[Defconn將退出節目](../Page/Defconn.md "wikilink")。
+節目將會改成季播。接任MC為[金信英](../Page/金信英.md "wikilink")、[李尚敏與](../Page/李尚敏.md "wikilink")[俞世潤](../Page/俞世潤.md "wikilink")\[5\]\[6\]。
 4月11日播出改版後第一集。來賓進場方向反轉，改為（向主持人的）左邊進場。
 
 ## 播出時間
@@ -79,7 +79,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 <td><p>第一季</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Defconn" title="wikilink">Defconn</a><br />
+<td><p><a href="../Page/Defconn.md" title="wikilink">Defconn</a><br />
 <small>（）</small></p></td>
 </tr>
 <tr class="even">
@@ -98,11 +98,11 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 <td><p>第二季</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a><br />
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a><br />
 <small>（）</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a><br />
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a><br />
 <small>（）</small></p></td>
 </tr>
 <tr class="even">
@@ -113,13 +113,13 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 <td><p>第三季 （2019年）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹世镐" title="wikilink">曹世鎬</a> <small>（）</small></p></td>
+<td><p><a href="../Page/曹世镐.md" title="wikilink">曹世鎬</a> <small>（）</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃光熙" title="wikilink">黃光熙</a> （<small></small>）</p></td>
+<td><p><a href="../Page/黃光熙.md" title="wikilink">黃光熙</a> （<small></small>）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/南昶熙" title="wikilink">南昶熙</a> <small>（</small>）</p></td>
+<td><p><a href="../Page/南昶熙.md" title="wikilink">南昶熙</a> <small>（</small>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>上半部固定主持</p></td>
@@ -145,7 +145,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 <small>（）</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a><br />
+<td><p><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a><br />
 <small>（）</small></p></td>
 </tr>
 <tr class="even">
@@ -188,7 +188,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 <small>（）</small></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金南珠_(歌手)" title="wikilink">金南珠</a><br />
+<td><p><a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a><br />
 <small>（）</small></p></td>
 </tr>
 <tr class="odd">
@@ -298,8 +298,8 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 
 ##### 「Idol is 完美」
 
-  - 自第246期起成為節目上半部單元。[GOT7成員](https://zh.wikipedia.org/wiki/GOT7 "wikilink")[Jackson](https://zh.wikipedia.org/wiki/王嘉爾 "wikilink")、[MONSTA
-    X成員周憲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[TWICE成員](https://zh.wikipedia.org/wiki/TWICE "wikilink")[多賢和](../Page/多賢.md "wikilink")[GFRIEND成員](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")[SinB固定參與本環節](../Page/SinB.md "wikilink")。主持群決定挑戰8位明星內其中一位的個人技，任何人如果挑戰成功，即可完成單元，若挑戰失敗，則需挑戰另一位明星的個人技，至第290期完結。
+  - 自第246期起成為節目上半部單元。[GOT7成員](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[MONSTA
+    X成員周憲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[TWICE成員](https://zh.wikipedia.org/wiki/TWICE "wikilink")[多賢和](../Page/多賢.md "wikilink")[GFRIEND成員](../Page/GFRIEND.md "wikilink")[SinB固定參與本環節](../Page/SinB.md "wikilink")。主持群決定挑戰8位明星內其中一位的個人技，任何人如果挑戰成功，即可完成單元，若挑戰失敗，則需挑戰另一位明星的個人技，至第290期完結。
 
 ### 第二部分：本週偶像
 
@@ -316,7 +316,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
   - **「2X Speed Random Play Dance」**
 
 與「Random Play
-Dance」原理相同，但是歌曲播放速度為二倍速，以增加難度。該單元在321期首次讓[GFRIEND挑戰](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")，以測試該單元的可行性。
+Dance」原理相同，但是歌曲播放速度為二倍速，以增加難度。該單元在321期首次讓[GFRIEND挑戰](../Page/GFRIEND.md "wikilink")，以測試該單元的可行性。
 
   - **「Magic Choreography」**
 
@@ -324,7 +324,7 @@ Dance」原理相同，但是歌曲播放速度為二倍速，以增加難度。
 Go
 Girl》。而節目上所進行過的例子有：[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up
 &
-Down》搭配[Seventeen的](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")《Mansae》、[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Hot
+Down》搭配[Seventeen的](../Page/Seventeen_\(組合\).md "wikilink")《Mansae》、[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Hot
 Pink》搭配[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Mr.
 Mr.》、[Red
 Velvet跳](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《Russian
@@ -333,7 +333,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
   - **「和【該期來賓名稱】一起初次寫Profile/重寫Profile/又再寫Profile」**
 
 現場會準備該期出席嘉賓成員們的個人資料卡，上面寫有成員的個人資料、簡介，和特長。主持人會和嘉賓們一起探討各個藝人的性格和特點，並驗證資料卡的資料是否屬實。主持人也會要求嘉賓們表演資料卡上所寫到的特長，即個人技。在336期的狗年特輯，所有資料卡的主人，是來賓的愛犬們。改版後，以整張履歷書寫，包括名稱、出生日期、婚姻狀況、個人技、弱點、腦袋思想圖。2019年改為「搜藏器
-（[昶熙韓語名字諧音](https://zh.wikipedia.org/wiki/南昶熙 "wikilink")）」，資料卡上面寫有多位成員（以年齡分隔）的個人資料和搜尋器關鍵字，因為在第一次改版，很多隊長或比較內向的嘉賓，都不會在履歷作答所有問題。
+（[昶熙韓語名字諧音](../Page/南昶熙.md "wikilink")）」，資料卡上面寫有多位成員（以年齡分隔）的個人資料和搜尋器關鍵字，因為在第一次改版，很多隊長或比較內向的嘉賓，都不會在履歷作答所有問題。
 
 #### 已結束單元
 
@@ -343,12 +343,12 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 
   - **「【該期團體缺席團員】Call Call Call」**
 
-向團體裡的缺席團員現場打電話，主持人會引導他會在對話中提到在場團員，但被提到最多次的團員會被懲罰。第一次是打給[EXID的隊長](https://zh.wikipedia.org/wiki/EXID "wikilink")[率智](https://zh.wikipedia.org/wiki/率智 "wikilink")。
+向團體裡的缺席團員現場打電話，主持人會引導他會在對話中提到在場團員，但被提到最多次的團員會被懲罰。第一次是打給[EXID的隊長](https://zh.wikipedia.org/wiki/EXID "wikilink")[率智](../Page/率智.md "wikilink")。
 
   - **「這次主人公是我啊我」**
 
 靈感來至[PRODUCE 101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")，主持人先向嘉賓們收集罰的時間地點及罰的內容，以遊戲/任務分別決定用哪位嘉賓提出的罰，最後以遊戲/任務決定哪位成員嘉賓。例[APINK](../Page/APINK.md "wikilink")、[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")、[MAMAMOO等](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")，主持人先向嘉賓們收集罰的時間地點及罰的內容，以遊戲/任務分別決定用哪位嘉賓提出的罰，最後以遊戲/任務決定哪位成員嘉賓。例[APINK](https://zh.wikipedia.org/wiki/APINK "wikilink")、[GFRIEND](../Page/GFRIEND.md "wikilink")、[MAMAMOO等](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
 
   - **「韓牛妖精 Doni Coni和鐵板上的偶像」**
 
@@ -456,7 +456,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>10</p></td>
 <td><p>9月24日</p></td>
-<td><p><a href="../Page/U-Kiss.md" title="wikilink">U-Kiss</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/U-Kiss" title="wikilink">U-Kiss</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -469,7 +469,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>12</p></td>
 <td><p>10月8日</p></td>
 <td><p><sup>1st</sup></p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA特輯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA特輯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -621,7 +621,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>35</p></td>
 <td><p>3月21日</p></td>
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -681,7 +681,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>45</p></td>
 <td><p>5月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> <sup>1st</sup>（<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、<a href="https://zh.wikipedia.org/wiki/Defconn" title="wikilink">Defconn</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> <sup>1st</sup>（<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>）</p></td>
 <td><p>本週偶像特別MC：<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>＆<a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">昭宥</a>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）</p></td>
 </tr>
 <tr class="even">
@@ -717,7 +717,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>51</p></td>
 <td><p>7月11日</p></td>
-<td><p><a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a> <sup>1st</sup></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sulli" title="wikilink">Sulli未出演</a></p></td>
 </tr>
 <tr class="even">
@@ -790,7 +790,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>63</p></td>
 <td><p>10月3日</p></td>
-<td><p><a href="../Page/ZE:A.md" title="wikilink">ZE:A</a><a href="https://zh.wikipedia.org/wiki/黃光熙" title="wikilink">黃光熙電話連線</a></p></td>
+<td><p><a href="../Page/ZE:A.md" title="wikilink">ZE:A</a><a href="../Page/黃光熙.md" title="wikilink">黃光熙電話連線</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -815,7 +815,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>67</p></td>
 <td><p>10月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Orange_Caramel" title="wikilink">Orange Caramel</a> <sup>2nd</sup></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a> <a href="https://zh.wikipedia.org/wiki/安丹尼爾" title="wikilink">Niel電話連線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a> <a href="../Page/安丹尼爾.md" title="wikilink">Niel電話連線</a></p></td>
 </tr>
 <tr class="even">
 <td><p>68</p></td>
@@ -826,7 +826,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>69</p></td>
 <td><p>11月14日</p></td>
-<td><p><a href="../Page/miss_A.md" title="wikilink">miss A</a> <sup>2nd</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a> <sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1045,7 +1045,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p><a href="../Page/4minute.md" title="wikilink">4minute</a> <sup>4th</sup>、<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a> <sup>4th</sup>、<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a> <sup>4th</sup></p></td>
 <td><p><strong>100期特輯</strong><br />
 <a href="https://zh.wikipedia.org/wiki/南智賢" title="wikilink">南智賢因為戲劇通告未出演</a><br />
-<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a><a href="../Page/尹斗俊.md" title="wikilink">斗俊</a>、<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="https://zh.wikipedia.org/wiki/安丹尼爾" title="wikilink">Niel電話留言祝賀</a></p></td>
+<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a><a href="../Page/尹斗俊.md" title="wikilink">斗俊</a>、<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="../Page/安丹尼爾.md" title="wikilink">Niel電話留言祝賀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>101</p></td>
@@ -1120,7 +1120,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>9月11日</p></td>
 <td><p><a href="../Page/TASTY.md" title="wikilink">TASTY</a> <sup>2nd</sup></p></td>
 <td><p>「本週偶像」戰勝尹普美吧<br />
-特別嘉賓：<a href="https://zh.wikipedia.org/wiki/Defconn" title="wikilink">Defconn</a><br />
+特別嘉賓：<a href="../Page/Defconn.md" title="wikilink">Defconn</a><br />
 （<a href="../Page/尹普美.md" title="wikilink">尹普美暫代MC</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1132,8 +1132,8 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>114</p></td>
 <td><p>9月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/A-JAX_(組合)" title="wikilink">A-JAX</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/2EYES" title="wikilink">2EYES</a> <sup>1st</sup></p></td>
-<td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="https://zh.wikipedia.org/wiki/金南珠_(歌手)" title="wikilink">金南珠</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/A-JAX_(組合)" title="wikilink">A-JAX</a> <sup>1st</sup>、<a href="../Page/2EYES.md" title="wikilink">2EYES</a> <sup>1st</sup></p></td>
+<td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a><br />
 （暫代因為宣傳日程缺席的<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/鄭鎰勳.md" title="wikilink">鎰勳</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1151,7 +1151,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>117</p></td>
 <td><p>10月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ladies&#39;_Code" title="wikilink">Ladies' Code</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Ladies&#39;_Code.md" title="wikilink">Ladies' Code</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1187,7 +1187,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>123</p></td>
 <td><p>11月27日</p></td>
-<td><p><a href="../Page/朴志胤.md" title="wikilink">朴志胤</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/金藝琳" title="wikilink">金藝琳</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/朴志胤.md" title="wikilink">朴志胤</a> <sup>1st</sup>、<a href="../Page/金藝琳.md" title="wikilink">金藝琳</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1205,7 +1205,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>126</p></td>
 <td><p>12月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申寶拉" title="wikilink">申寶拉</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/申寶拉.md" title="wikilink">申寶拉</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1328,7 +1328,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>144</p></td>
 <td><p>4月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1340,7 +1340,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>146</p></td>
 <td><p>5月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1354,8 +1354,8 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>148</p></td>
 <td><p>5月28日</p></td>
 <td><p><a href="../Page/全烋星.md" title="wikilink">全烋星</a> <sup>1st</sup>（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）</p></td>
-<td><p><a href="../Page/4minute.md" title="wikilink">4minute</a><a href="https://zh.wikipedia.org/wiki/田祉潤" title="wikilink">祉潤電話連線</a>　<br />
-<a href="https://zh.wikipedia.org/wiki/NC.A" title="wikilink">NC.A参观</a></p></td>
+<td><p><a href="../Page/4minute.md" title="wikilink">4minute</a><a href="../Page/田祉潤.md" title="wikilink">祉潤電話連線</a>　<br />
+<a href="../Page/NC.A.md" title="wikilink">NC.A参观</a></p></td>
 </tr>
 <tr class="even">
 <td><p>149</p></td>
@@ -1399,27 +1399,27 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>155</p></td>
 <td><p>7月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭俊英" title="wikilink">鄭俊英</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/鄭俊英.md" title="wikilink">鄭俊英</a> <sup>1st</sup></p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>156</p></td>
 <td><p>7月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>2nd</sup>、<a href="../Page/Apink.md" title="wikilink">Apink</a> <sup>5th</sup>（<a href="../Page/尹普美.md" title="wikilink">尹普美</a>、<a href="https://zh.wikipedia.org/wiki/金南珠_(歌手)" title="wikilink">金南珠</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>）、<br />
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>2nd</sup>、<a href="../Page/Apink.md" title="wikilink">Apink</a> <sup>5th</sup>（<a href="../Page/尹普美.md" title="wikilink">尹普美</a>、<a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>）、<br />
 <a href="../Page/BTOB.md" title="wikilink">BTOB</a> <sup>6th</sup>、<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a> <sup>5th</sup>、<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a> <sup>4th</sup>（<a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、<a href="../Page/孫東雲.md" title="wikilink">孫東雲</a>）</p></td>
 <td><p><strong>三週年特輯</strong><br />
-<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny</a>、<a href="../Page/f(x)_(組合).md" title="wikilink">f(x)</a><a href="../Page/朴善英.md" title="wikilink">Luna</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><a href="../Page/金聖圭.md" title="wikilink">聖圭</a> 電話連線</p></td>
+<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny</a>、<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a><a href="../Page/朴善英.md" title="wikilink">Luna</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a><a href="../Page/金聖圭.md" title="wikilink">聖圭</a> 電話連線</p></td>
 </tr>
 <tr class="even">
 <td><p>157</p></td>
 <td><p>7月30日</p></td>
 <td><p><a href="../Page/4minute.md" title="wikilink">4minute</a> <sup>6th</sup>、<br />
 <a href="../Page/朴孝敏.md" title="wikilink">朴孝敏</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/懸雅" title="wikilink">懸雅</a>、、<a href="https://zh.wikipedia.org/wiki/成雅" title="wikilink">成雅</a>、<a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a>）、<br />
+<a href="https://zh.wikipedia.org/wiki/Nine_Muses" title="wikilink">Nine Muses</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/懸雅" title="wikilink">懸雅</a>、、<a href="../Page/成雅.md" title="wikilink">成雅</a>、<a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/Boyfriend_(男子團體)" title="wikilink">Boyfriend</a> <sup>2nd</sup>、<br />
 <a href="../Page/FTIsland.md" title="wikilink">FTISLAND</a> <sup>3rd</sup>（<a href="../Page/崔鍾訓.md" title="wikilink">崔鍾訓</a>、<a href="https://zh.wikipedia.org/wiki/李在真" title="wikilink">李在真</a>、<a href="https://zh.wikipedia.org/wiki/宋承炫" title="wikilink">宋承炫</a>）、<br />
 <a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a> <sup>2nd</sup>（<a href="../Page/李宗泫.md" title="wikilink">李宗泫</a>、<a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/雪炫" title="wikilink">雪炫除外</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a> <sup>3rd</sup>（<a href="../Page/雪炫.md" title="wikilink">雪炫除外</a>）</p></td>
 <td><p><strong>三週年特輯</strong></p></td>
 </tr>
 <tr class="odd">
@@ -1437,7 +1437,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>160</p></td>
 <td><p>8月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>1st</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>、<a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>1st</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>、<a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Hit製造機" title="wikilink">Hit製造機期間限定組合</a></p></td>
 </tr>
 <tr class="even">
@@ -1449,7 +1449,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>162</p></td>
 <td><p>9月3日</p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1457,7 +1457,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>9月10日</p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/徐恩光.md" title="wikilink">徐恩光</a><br />
 <a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a>（<a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>, <a href="https://zh.wikipedia.org/wiki/RAVI" title="wikilink">RAVI</a>）、<a href="../Page/4minute.md" title="wikilink">4minute</a><a href="../Page/權昭賢.md" title="wikilink">權昭賢</a>、<br />
-<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a><a href="https://zh.wikipedia.org/wiki/高佑麗" title="wikilink">高佑麗</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a><a href="https://zh.wikipedia.org/wiki/方珉雅" title="wikilink">方珉雅</a>、<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a><a href="https://zh.wikipedia.org/wiki/黃光熙" title="wikilink">黃光熙</a> 電話連線</p></td>
+<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a><a href="https://zh.wikipedia.org/wiki/高佑麗" title="wikilink">高佑麗</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a><a href="https://zh.wikipedia.org/wiki/方珉雅" title="wikilink">方珉雅</a>、<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a><a href="../Page/黃光熙.md" title="wikilink">黃光熙</a> 電話連線</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1493,7 +1493,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>169</p></td>
 <td><p>10月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WINNER" title="wikilink">WINNER</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a> <sup>1st</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
@@ -1513,7 +1513,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>11月12日</p></td>
 <td><p><a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a> <sup>1st</sup>（<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a>）</p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/徐恩光.md" title="wikilink">徐恩光</a><br />
-「本週偶像」特別嘉賓：<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a><a href="https://zh.wikipedia.org/wiki/鄭河娜" title="wikilink">鄭河娜</a></p></td>
+「本週偶像」特別嘉賓：<a href="../Page/Secret_(組合).md" title="wikilink">Secret</a><a href="../Page/鄭河娜.md" title="wikilink">鄭河娜</a></p></td>
 </tr>
 <tr class="even">
 <td><p>173</p></td>
@@ -1538,12 +1538,12 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>12月10日</p></td>
 <td><p><sup>1st</sup>、<a href="../Page/創造_(歌手).md" title="wikilink">創造</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a>）</p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a><br />
-「本週偶像」特別嘉賓：<a href="https://zh.wikipedia.org/wiki/Sweden_Laundry" title="wikilink">Sweden Laundry</a></p></td>
+「本週偶像」特別嘉賓：<a href="../Page/Sweden_Laundry.md" title="wikilink">Sweden Laundry</a></p></td>
 </tr>
 <tr class="even">
 <td><p>177</p></td>
 <td><p>12月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>3rd</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>3rd</sup></p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a></p></td>
 </tr>
 <tr class="odd">
@@ -1555,7 +1555,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>179</p></td>
 <td><p>12月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>2nd</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>、<a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>2nd</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>、<a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）</p></td>
 <td><p><strong>第4屆Weekly Idol Awards</strong>：<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a><br />
 特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/尹普美.md" title="wikilink">尹普美</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
 </tr>
@@ -1595,7 +1595,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>182</p></td>
 <td><p>1月21日</p></td>
-<td><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/Mad_Clown" title="wikilink">Mad Clown</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/朱英_(歌手)" title="wikilink">朱英</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/鄭基高.md" title="wikilink">鄭基高</a> <sup>1st</sup>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/朱英_(歌手)" title="wikilink">朱英</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1625,15 +1625,15 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>187</p></td>
 <td><p>2月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>3rd</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/真少女" title="wikilink">真少女</a> <sup>1st</sup>（<a href="../Page/G.NA.md" title="wikilink">G.NA</a>、<a href="../Page/4minute.md" title="wikilink">4minute</a><a href="../Page/權昭賢.md" title="wikilink">權昭賢</a>、<a href="../Page/KARA.md" title="wikilink">KARA</a><a href="https://zh.wikipedia.org/wiki/許齡智" title="wikilink">許齡智</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大瓶" title="wikilink">大瓶</a> <sup>3rd</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="../Page/Hyuk.md" title="wikilink">Hyuk</a>）、<br />
+<a href="https://zh.wikipedia.org/wiki/真少女" title="wikilink">真少女</a> <sup>1st</sup>（<a href="../Page/G.NA.md" title="wikilink">G.NA</a>、<a href="../Page/4minute.md" title="wikilink">4minute</a><a href="../Page/權昭賢.md" title="wikilink">權昭賢</a>、<a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a><a href="../Page/許齡智.md" title="wikilink">許齡智</a>）</p></td>
 <td><p>「本週偶像」1小時特輯<br />
 <a href="../Page/VIXX.md" title="wikilink">VIXX</a> <a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a>、<a href="../Page/After_School.md" title="wikilink">After School</a> <a href="https://zh.wikipedia.org/wiki/Lizzy" title="wikilink">Lizzy未出演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>188</p></td>
 <td><p>3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安丹尼爾" title="wikilink">Niel</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a>）</p></td>
+<td><p><a href="../Page/安丹尼爾.md" title="wikilink">Niel</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a>）</p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a><br />
 「本週偶像」特別嘉賓：<a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a> <a href="https://zh.wikipedia.org/wiki/C.A.P" title="wikilink">C.A.P</a>, <a href="https://zh.wikipedia.org/wiki/L.Joe" title="wikilink">L.Joe</a>, </p></td>
 </tr>
@@ -1671,7 +1671,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>194</p></td>
 <td><p>4月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Berry_Good" title="wikilink">Berry Good</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Berry_Good.md" title="wikilink">Berry Good</a> <sup>1st</sup>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1695,7 +1695,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>198</p></td>
 <td><p>5月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CLC" title="wikilink">CLC</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/CLC.md" title="wikilink">CLC</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1707,9 +1707,9 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>200</p></td>
 <td><p>5月27日</p></td>
-<td><p><a href="../Page/Secret_(組合).md" title="wikilink">Secret</a> <sup>6th</sup>（<a href="https://zh.wikipedia.org/wiki/鄭河娜" title="wikilink">鄭河娜</a>、<a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a>）、<a href="https://zh.wikipedia.org/wiki/SONAMOO" title="wikilink">SONAMOO</a> <sup>1st</sup>、<br />
+<td><p><a href="../Page/Secret_(組合).md" title="wikilink">Secret</a> <sup>6th</sup>（<a href="../Page/鄭河娜.md" title="wikilink">鄭河娜</a>、<a href="../Page/宋枝恩.md" title="wikilink">宋枝恩</a>）、<a href="../Page/SONAMOO.md" title="wikilink">SONAMOO</a> <sup>1st</sup>、<br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a> <sup>2nd</sup>（<a href="https://zh.wikipedia.org/wiki/寶拉" title="wikilink">寶拉</a>、<a href="https://zh.wikipedia.org/wiki/昭宥" title="wikilink">昭宥</a>）、<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a> <sup>1st</sup>、<br />
-<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a> <sup>5th</sup>（<a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a>、<a href="https://zh.wikipedia.org/wiki/申智珉" title="wikilink">智珉</a>）、<a href="https://zh.wikipedia.org/wiki/N.Flying" title="wikilink">N.Flying</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a>、<a href="https://zh.wikipedia.org/wiki/金宰鉉" title="wikilink">金宰鉉</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a> <sup>5th</sup>（<a href="https://zh.wikipedia.org/wiki/草娥" title="wikilink">草娥</a>、<a href="https://zh.wikipedia.org/wiki/申智珉" title="wikilink">智珉</a>）、<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a>、<a href="https://zh.wikipedia.org/wiki/金宰鉉" title="wikilink">金宰鉉</a>）</p></td>
 <td><p><strong>200期特輯</strong></p></td>
 </tr>
 <tr class="even">
@@ -1721,14 +1721,14 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>202</p></td>
 <td><p>6月10日</p></td>
-<td><p><a href="../Page/KARA.md" title="wikilink">KARA</a> <sup>2nd</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KARA" title="wikilink">KARA</a> <sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>203</p></td>
 <td><p>6月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a> <sup>2nd</sup></p></td>
-<td><p>「知道不知道」特別嘉賓：<a href="https://zh.wikipedia.org/wiki/UNIQ" title="wikilink">UNIQ</a></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> <sup>2nd</sup></p></td>
+<td><p>「知道不知道」特別嘉賓：<a href="../Page/UNIQ.md" title="wikilink">UNIQ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>204</p></td>
@@ -1794,7 +1794,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>214</p></td>
 <td><p>9月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamamoo" title="wikilink">Mamamoo</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a> <sup>1st</sup></p></td>
 <td><p>自本期起，<a href="../Page/Apink.md" title="wikilink">Apink</a> <a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a> <a href="https://zh.wikipedia.org/wiki/權珉娥" title="wikilink">權珉娥</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a> <a href="../Page/VIXX.md" title="wikilink">N擔任上半部固定成員</a></p></td>
 </tr>
 <tr class="even">
@@ -1831,13 +1831,13 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>220</p></td>
 <td><p>10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>4th</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>4th</sup></p></td>
 <td><p>「知道不知道」特別MC：<a href="../Page/VIXX.md" title="wikilink">VIXX</a> <a href="../Page/Hyuk.md" title="wikilink">Hyuk</a> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a> <a href="../Page/VIXX.md" title="wikilink">N缺席</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>221</p></td>
 <td><p>10月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>2nd</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
@@ -1861,7 +1861,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>225</p></td>
 <td><p>11月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/N.Flying" title="wikilink">N.Flying</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/N.Flying.md" title="wikilink">N.Flying</a> <sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1887,7 +1887,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>229</p></td>
 <td><p>12月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/防彈少年團" title="wikilink">防彈少年團</a> <sup>3rd</sup></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> <sup>3rd</sup></p></td>
 <td><p>「本週偶像」1小時特輯<br />
 特別MC：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
 </tr>
@@ -1895,7 +1895,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>230</p></td>
 <td><p>12月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> <sup>3rd</sup>（<a href="../Page/徐智秀.md" title="wikilink">智秀</a>、<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="../Page/柳洙正.md" title="wikilink">洙正</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/鄭藝琳" title="wikilink">Yerin</a>、<a href="../Page/Yuju.md" title="wikilink">Yuju</a>、<a href="../Page/SinB.md" title="wikilink">SinB</a>）、<br />
+<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/鄭藝琳" title="wikilink">Yerin</a>、<a href="../Page/Yuju.md" title="wikilink">Yuju</a>、<a href="../Page/SinB.md" title="wikilink">SinB</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>2nd</sup>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/周子瑜.md" title="wikilink">子瑜</a>）</p></td>
 <td><p><strong>圣诞节特輯</strong><br />
 「本週偶像」特別MC：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
@@ -1931,7 +1931,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>233</p></td>
 <td><p>1月13日</p></td>
-<td><p><a href="../Page/Up10tion.md" title="wikilink">Up10tion</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Up10tion" title="wikilink">Up10tion</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1943,13 +1943,13 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>235</p></td>
 <td><p>1月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TAHITI" title="wikilink">TAHITI</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/THE_LEGEND" title="wikilink">THE LEGEND</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TAHITI" title="wikilink">TAHITI</a> <sup>1st</sup>、<a href="../Page/THE_LEGEND.md" title="wikilink">THE LEGEND</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>236</p></td>
 <td><p>2月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>4th</sup></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>4th</sup></p></td>
 <td><p>「本週偶像」1小時特輯<br />
 特別MC：<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a><a href="../Page/鄭容和.md" title="wikilink">鄭容和</a></p></td>
 </tr>
@@ -1976,7 +1976,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>240</p></td>
 <td><p>3月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamamoo" title="wikilink">Mamamoo</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a> <sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2009,15 +2009,15 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>245</p></td>
 <td><p>4月6日</p></td>
 <td><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a> <sup>2nd</sup>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a> <sup>1st</sup>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/許率智" title="wikilink">許率智</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、<a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/許率智" title="wikilink">許率智</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> <sup>1st</sup>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p>自本期起，<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a><a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani擔任主持固定成員</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a><a href="https://zh.wikipedia.org/wiki/金俊勉" title="wikilink">Suho</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="../Page/李宰焕.md" title="wikilink">KEN</a> 電話連線</p></td>
 </tr>
 <tr class="odd">
 <td><p>246</p></td>
 <td><p>4月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LABOUM" title="wikilink">LABOUM</a> <sup>1st</sup></p></td>
-<td><p>自本期起，<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a>、<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a><a href="https://zh.wikipedia.org/wiki/周憲_(歌手)" title="wikilink">周憲</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><a href="../Page/多賢.md" title="wikilink">多賢擔任上半部固定成員</a><br />
+<td><p><a href="../Page/LABOUM.md" title="wikilink">LABOUM</a> <sup>1st</sup></p></td>
+<td><p>自本期起，<a href="../Page/GOT7.md" title="wikilink">GOT7</a><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a><a href="https://zh.wikipedia.org/wiki/周憲_(歌手)" title="wikilink">周憲</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><a href="../Page/多賢.md" title="wikilink">多賢擔任上半部固定成員</a><br />
 「本週偶像」<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani缺席</a></p></td>
 </tr>
 <tr class="even">
@@ -2029,14 +2029,14 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>248</p></td>
 <td><p>4月27日</p></td>
-<td><p>「本週偶像」1小時特輯、特別嘉賓：<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a></p></td>
+<td><p>「本週偶像」1小時特輯、特別嘉賓：<a href="../Page/GOT7.md" title="wikilink">GOT7</a><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>249</p></td>
 <td><p>5月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>3rd</sup></p></td>
-<td><p>自本期起，<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a><a href="../Page/SinB.md" title="wikilink">SinB</a> 加入，擔任上半部固定成員</p></td>
+<td><p>自本期起，<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a><a href="../Page/SinB.md" title="wikilink">SinB</a> 加入，擔任上半部固定成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>250</p></td>
@@ -2095,24 +2095,24 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>259</p></td>
 <td><p>7月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>5th</sup>（上部）、<a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">Gu9udan</a> <sup>1st</sup>（下部）</p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>5th</sup>（上部）、<a href="https://zh.wikipedia.org/wiki/Gu9udan" title="wikilink">Gu9udan</a> <sup>1st</sup>（下部）</p></td>
 <td><p>「本週偶像」<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">Hani缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>260</p></td>
 <td><p>7月20日</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a> <sup>3rd</sup>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）、<a href="../Page/尹普美.md" title="wikilink">尹普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）、<br />
-<a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）、<a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a> <sup>2nd</sup>（<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>）</p></td>
+<a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）、<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> <sup>2nd</sup>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p><strong>5週年特輯</strong><br />
 第1彈 －「正規職員的歸還」</p></td>
 </tr>
 <tr class="even">
 <td><p>261</p></td>
 <td><p>7月27日</p></td>
-<td><p><a href="../Page/BTOB.md" title="wikilink">BTOB</a> <sup>8th</sup>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>5th</sup>、<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>6th</sup>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>4th</sup></p></td>
+<td><p><a href="../Page/BTOB.md" title="wikilink">BTOB</a> <sup>8th</sup>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>5th</sup>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>6th</sup>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>4th</sup></p></td>
 <td><p><strong>5週年特輯</strong><br />
 第2彈 －「家族日」+“台前幕後，全體獎品大宴席”<br />
-<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson下部缺席</a> <a href="https://zh.wikipedia.org/wiki/BamBam" title="wikilink">BamBam缺席</a></p></td>
+<a href="../Page/GOT7.md" title="wikilink">GOT7</a> <a href="../Page/王嘉爾.md" title="wikilink">Jackson下部缺席</a> <a href="../Page/BamBam.md" title="wikilink">BamBam缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>262</p></td>
@@ -2123,7 +2123,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>263</p></td>
 <td><p>8月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>6th</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a> <sup>2nd</sup>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>6th</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2136,7 +2136,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>265</p></td>
 <td><p>8月24日</p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT 127</a> <sup>1st</sup></p></td>
-<td><p>Idol is 完美第二季、「本週偶像」<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a>、<a href="https://zh.wikipedia.org/wiki/楷燦" title="wikilink">楷燦缺席</a></p></td>
+<td><p>Idol is 完美第二季、「本週偶像」<a href="https://zh.wikipedia.org/wiki/Mark_(1999年)" title="wikilink">Mark</a>、<a href="../Page/楷燦.md" title="wikilink">楷燦缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>266</p></td>
@@ -2165,7 +2165,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>270</p></td>
 <td><p>9月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>7th</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>7th</sup></p></td>
 <td><p>「本週偶像」1小時特輯<br />
 <a href="https://zh.wikipedia.org/wiki/HaNi" title="wikilink">Hani及</a><a href="../Page/希澈.md" title="wikilink">希澈退出</a></p></td>
 </tr>
@@ -2193,14 +2193,14 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>5th</sup></p></td>
 <td><p>「本週偶像」1小時特輯、<a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊回歸公演</a><br />
-<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延下部缺席</a></p></td>
+<a href="../Page/定延.md" title="wikilink">定延下部缺席</a></p></td>
 </tr>
 <tr class="even">
 <td><p>275</p></td>
 <td><p>11月2日</p></td>
 <td><p>沒有嘉賓</p></td>
 <td><p>未播出片段<br />
-<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a> Unit、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a> Unit、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>276</p></td>
@@ -2226,7 +2226,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>11月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> <sup>2nd</sup></p></td>
 <td><p>上半部特別嘉賓：<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/李旼赫.md" title="wikilink">李旼赫</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a><a href="https://zh.wikipedia.org/wiki/孫軒宇" title="wikilink">Shownu</a><br />
-<a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/SinB.md" title="wikilink">SinB缺席</a></p></td>
+<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/SinB.md" title="wikilink">SinB缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>280</p></td>
@@ -2243,17 +2243,17 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>282</p></td>
 <td><p>12月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/李珍雅" title="wikilink">李珍雅</a> <sup>1st</sup>、 <sup>1st</sup></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="../Page/李珍雅.md" title="wikilink">李珍雅</a> <sup>1st</sup>、 <sup>1st</sup></p></td>
 <td><p><strong>圣诞节特輯</strong><br />
 「本週偶像」特別出演：<a href="https://zh.wikipedia.org/wiki/柳熙烈" title="wikilink">柳熙烈</a></p></td>
 </tr>
 <tr class="even">
 <td><p>283</p></td>
 <td><p>12月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王嘉爾" title="wikilink">Jackson</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a>）、<a href="https://zh.wikipedia.org/wiki/周憲_(歌手)" title="wikilink">周憲</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a>）、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a>）、<br />
+<td><p><a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> <sup>3rd</sup>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）、<a href="https://zh.wikipedia.org/wiki/周憲_(歌手)" title="wikilink">周憲</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a>）、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>1st</sup>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）、<br />
 <a href="../Page/多賢.md" title="wikilink">多賢</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）、<a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a> <sup>3rd</sup>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）</p></td>
 <td><p><strong>第6屆Weekly Idol Awards</strong>：<a href="../Page/申彗星.md" title="wikilink">申彗星</a>（<a href="https://zh.wikipedia.org/wiki/神話" title="wikilink">神話</a>）<br />
-特別MC：一部<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <a href="../Page/多賢.md" title="wikilink">多賢</a>、二部<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <a href="../Page/SinB.md" title="wikilink">SinB</a><br />
+特別MC：一部<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <a href="../Page/多賢.md" title="wikilink">多賢</a>、二部<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <a href="../Page/SinB.md" title="wikilink">SinB</a><br />
 <a href="https://zh.wikipedia.org/wiki/周憲_(歌手)" title="wikilink">周憲下部缺席</a></p></td>
 </tr>
 </tbody>
@@ -2298,7 +2298,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>288</p></td>
 <td><p>2月1日</p></td>
-<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/VICTON" title="wikilink">VICTON</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a> <sup>1st</sup>、<a href="../Page/VICTON.md" title="wikilink">VICTON</a> <sup>1st</sup>、<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2330,13 +2330,13 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>293</p></td>
 <td><p>3月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>7th</sup></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>7th</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>294</p></td>
 <td><p>3月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>8th</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>8th</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2367,18 +2367,18 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>299</p></td>
 <td><p>4月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> <sup>5th</sup></p></td>
-<td><p>「本週偶像」<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智缺席</a></p></td>
+<td><p>「本週偶像」<a href="../Page/率智.md" title="wikilink">率智缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>300</p></td>
 <td><p>4月26日</p></td>
-<td><p><a href="../Page/希澈.md" title="wikilink">金希澈</a> <sup>2nd</sup>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<a href="../Page/哈妮.md" title="wikilink">Hani</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、<a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a> <sup>5th</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>2nd</sup>（<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a>）</p></td>
+<td><p><a href="../Page/希澈.md" title="wikilink">金希澈</a> <sup>2nd</sup>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<a href="../Page/哈妮.md" title="wikilink">Hani</a> <sup>1st</sup>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、<a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a> <sup>5th</sup>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>2nd</sup>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）</p></td>
 <td><p><strong>300期特辑</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>301</p></td>
 <td><p>5月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WINNER" title="wikilink">WINNER</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a> <sup>2nd</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
@@ -2402,7 +2402,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>305</p></td>
 <td><p>5月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Triple_H_(企劃組合)" title="wikilink">Triple H</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2439,25 +2439,25 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>311</p></td>
 <td><p>7月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹鍾信" title="wikilink">尹鍾信</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/金永哲_(藝人)" title="wikilink">金永哲</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/朴宰正" title="wikilink">朴宰正</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/敏书" title="wikilink">敏书</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/刘勇民" title="wikilink">刘勇民</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a> <sup>1st</sup>、<a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/朴宰正" title="wikilink">朴宰正</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/敏书" title="wikilink">敏书</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/刘勇民" title="wikilink">刘勇民</a> <sup>1st</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
 <td><p>312</p></td>
 <td><p>7月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/B.I.G" title="wikilink">B.I.G</a> <sup>1st</sup>、<a href="../Page/MAP_6.md" title="wikilink">MAP6</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MATILDA" title="wikilink">MATILDA</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/B.I.G.md" title="wikilink">B.I.G</a> <sup>1st</sup>、<a href="../Page/MAP_6.md" title="wikilink">MAP6</a> <sup>1st</sup>、<a href="../Page/MATILDA.md" title="wikilink">MATILDA</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>313</p></td>
 <td><p>7月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamamoo" title="wikilink">Mamamoo</a> <sup>3rd</sup>、<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>8th</sup></p></td>
+<td><p><a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a> <sup>3rd</sup>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>8th</sup></p></td>
 <td><p><strong>暑假特辑</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>314</p></td>
 <td><p>8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Turbo_(韓國男子團體)" title="wikilink">Turbo</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Turbo_(韓國男子團體).md" title="wikilink">Turbo</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2481,7 +2481,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>318</p></td>
 <td><p>8月30日</p></td>
-<td><p><a href="../Page/Raina.md" title="wikilink">Raina</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/韓東根" title="wikilink">韓東根</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Raina.md" title="wikilink">Raina</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a> <sup>1st</sup>、<a href="../Page/韓東根.md" title="wikilink">韓東根</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a> <sup>1st</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="even">
@@ -2493,31 +2493,31 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>320</p></td>
 <td><p>9月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>9th</sup>、<a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a> <sup>1st</sup>、 <a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">Golden Child</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>9th</sup>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a> <sup>1st</sup>、 <a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>321</p></td>
 <td><p>9月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>9th</sup>[7]</p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>9th</sup>[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>322</p></td>
 <td><p>9月27日</p></td>
-<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a> <sup>5th</sup>、<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>10th</sup></p></td>
+<td><p><a href="../Page/B1A4.md" title="wikilink">B1A4</a> <sup>5th</sup>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>10th</sup></p></td>
 <td><p>此集起播出內容皆為<strong>「本週偶像」1小時特輯</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>323</p></td>
 <td><p>10月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>9th</sup>、<a href="https://zh.wikipedia.org/wiki/OHMYGIRL" title="wikilink">OH MY GIRL</a> <sup>4th</sup>、<a href="https://zh.wikipedia.org/wiki/VICTON" title="wikilink">VICTON</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/HIGHLIGHT" title="wikilink">HIGHLIGHT</a> <sup>8th</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>9th</sup>、<a href="https://zh.wikipedia.org/wiki/OHMYGIRL" title="wikilink">OH MY GIRL</a> <sup>4th</sup>、<a href="../Page/VICTON.md" title="wikilink">VICTON</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/HIGHLIGHT" title="wikilink">HIGHLIGHT</a> <sup>8th</sup></p></td>
 <td><p><strong>MBC EVERY1 創社十週年特輯</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>324</p></td>
 <td><p>10月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a> <sup>2nd</sup>、<a href="../Page/Apink.md" title="wikilink">Apink</a> <sup>11th</sup>、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> <sup>6th</sup>、<a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>9th</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a> <sup>2nd</sup>、<a href="../Page/Apink.md" title="wikilink">Apink</a> <sup>11th</sup>、<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> <sup>6th</sup>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>9th</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2529,7 +2529,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>326</p></td>
 <td><p>10月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金Samuel" title="wikilink">金Samuel</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世云</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MXM_(男子音樂組合)" title="wikilink">MXM</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/JBJ" title="wikilink">JBJ</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金Samuel" title="wikilink">金Samuel</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世云</a> <sup>1st</sup>、<a href="../Page/MXM_(男子音樂組合).md" title="wikilink">MXM</a> <sup>1st</sup>、<a href="../Page/JBJ.md" title="wikilink">JBJ</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2579,7 +2579,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>12月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> <sup>7th</sup></p></td>
 <td><p><strong>聖誕節特辑</strong><br />
-<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智缺席</a><br />
+<a href="../Page/率智.md" title="wikilink">率智缺席</a><br />
 率智電話連線</p></td>
 </tr>
 <tr class="even">
@@ -2607,7 +2607,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>336</p></td>
 <td><p>1月3日</p></td>
-<td><p><a href="../Page/正花.md" title="wikilink">正花</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="https://zh.wikipedia.org/wiki/民赫" title="wikilink">民赫</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/李周憲" title="wikilink">周憲</a> <sup>2nd</sup> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">SEVENTEEN</a>)、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/正花.md" title="wikilink">正花</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>)、<a href="https://zh.wikipedia.org/wiki/民赫" title="wikilink">民赫</a> <sup>1st</sup>、<a href="../Page/李周憲.md" title="wikilink">周憲</a> <sup>2nd</sup> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a> <sup>1st</sup> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a> <sup>2nd</sup></p></td>
 <td><p><strong>戊戌年狗年特輯</strong></p></td>
 </tr>
 <tr class="even">
@@ -2649,25 +2649,25 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>343</p></td>
 <td><p>2月21日</p></td>
-<td><p>Celeb Five (<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a> <sup>2nd</sup>、<a href="../Page/金信英.md" title="wikilink">金信英</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/申奉仙" title="wikilink">申奉仙</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a> <sup>1st</sup>、 <sup>1st</sup>)</p></td>
+<td><p>Celeb Five (<a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a> <sup>2nd</sup>、<a href="../Page/金信英.md" title="wikilink">金信英</a> <sup>1st</sup>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a> <sup>1st</sup>、<a href="../Page/安英美.md" title="wikilink">安英美</a> <sup>1st</sup>、 <sup>1st</sup>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>344</p></td>
 <td><p>2月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/N.Flying" title="wikilink">N.Flying</a> <sup>3rd</sup>、<a href="../Page/DAY6.md" title="wikilink">DAY6</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/N.Flying.md" title="wikilink">N.Flying</a> <sup>3rd</sup>、<a href="../Page/DAY6.md" title="wikilink">DAY6</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>345</p></td>
 <td><p>3月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamamoo" title="wikilink">Mamamoo</a> <sup>4th</sup></p></td>
+<td><p><a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a> <sup>4th</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>346</p></td>
 <td><p>3月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOT7" title="wikilink">GOT7</a> <sup>10th</sup></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a> <sup>10th</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2693,13 +2693,13 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>350</p></td>
 <td><p>4月11日</p></td>
 <td><p><a href="../Page/NRG_(團體).md" title="wikilink">NRG</a> <sup>1st</sup>、<a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a> <sup>6th</sup> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)、<a href="../Page/尹普美.md" title="wikilink">尹普美</a> <sup>3rd</sup> (<a href="../Page/Apink.md" title="wikilink">Apink</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a> <sup>1st</sup> (<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>)、<a href="https://zh.wikipedia.org/wiki/JR_(NU&#39;EST)" title="wikilink">JR</a> <sup>1st</sup> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、秉燦 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/VICTON" title="wikilink">VICTON</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a> <sup>3rd</sup>、<a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">娜榮</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>)、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/LABOUM" title="wikilink">LABOUM</a>)<br />
-<a href="../Page/簡美妍.md" title="wikilink">簡美妍</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/文星伊" title="wikilink">玟星</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>)、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>3rd</sup> (<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a>)<br />
-娜恩 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>)、賽綸 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>)、<a href="https://zh.wikipedia.org/wiki/崔玟熙" title="wikilink">玟熙</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/BONUSbaby" title="wikilink">BONUSbaby</a>)<br />
-妍雨 <sup>1st</sup>、 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">SEVENTEEN</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/尹智聖" title="wikilink">尹智聖</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/河成雲" title="wikilink">河成雲</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/李大輝" title="wikilink">李大輝</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/賴冠霖" title="wikilink">賴冠霖</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)</p></td>
+<a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a> <sup>1st</sup> (<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>)、<a href="../Page/JR_(NU&#39;EST).md" title="wikilink">JR</a> <sup>1st</sup> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、秉燦 <sup>1st</sup> (<a href="../Page/VICTON.md" title="wikilink">VICTON</a>)<br />
+<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a> <sup>3rd</sup>、<a href="https://zh.wikipedia.org/wiki/娜榮" title="wikilink">娜榮</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>)、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a> <sup>1st</sup> (<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)<br />
+<a href="../Page/簡美妍.md" title="wikilink">簡美妍</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/文星伊" title="wikilink">玟星</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>)、<a href="../Page/SinB.md" title="wikilink">SinB</a> <sup>3rd</sup> (<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)<br />
+娜恩 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a>)、賽綸 <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>)、<a href="../Page/崔玟熙.md" title="wikilink">玟熙</a> <sup>1st</sup> (<a href="../Page/BONUSbaby.md" title="wikilink">BONUSbaby</a>)<br />
+妍雨 <sup>1st</sup>、 <sup>1st</sup> (<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)<br />
+<a href="../Page/全圓佑.md" title="wikilink">圓佑</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a> <sup>1st</sup> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)<br />
+<a href="../Page/尹智聖.md" title="wikilink">尹智聖</a> <sup>1st</sup>、<a href="../Page/河成雲.md" title="wikilink">河成雲</a> <sup>1st</sup>、<a href="../Page/李大輝.md" title="wikilink">李大輝</a> <sup>1st</sup>、<a href="../Page/賴冠霖.md" title="wikilink">賴冠霖</a> <sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>)</p></td>
 <td><p><strong>第一次改版後第一期</strong></p></td>
 </tr>
 <tr class="even">
@@ -2707,7 +2707,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>4月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> <sup>8th</sup>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a> <sup>1st</sup></p></td>
 <td><p><strong>第一次改版後第一組完整嘉賓、加入各新環節</strong><br />
-EXID<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智</a>、THE BOYZ HWALL缺席</p></td>
+EXID<a href="../Page/率智.md" title="wikilink">率智</a>、THE BOYZ HWALL缺席</p></td>
 </tr>
 <tr class="odd">
 <td><p>352</p></td>
@@ -2718,25 +2718,25 @@ EXID<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智</a>�
 <tr class="even">
 <td><p>353</p></td>
 <td><p>5月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>11th</sup> 、<a href="https://zh.wikipedia.org/wiki/炯燮x義雄" title="wikilink">炯燮x義雄</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>11th</sup> 、<a href="../Page/炯燮x義雄.md" title="wikilink">炯燮x義雄</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>354</p></td>
 <td><p>5月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> <sup>6th</sup> 、<a href="https://zh.wikipedia.org/wiki/IN2IT" title="wikilink">IN2IT</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> <sup>6th</sup> 、<a href="../Page/IN2IT.md" title="wikilink">IN2IT</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>355</p></td>
 <td><p>5月16日</p></td>
-<td><p>FOURever ( <sup>1st</sup>、 <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/金慶皓" title="wikilink">金慶皓</a> <sup>1st</sup>、 <sup>1st</sup>)、<a href="https://zh.wikipedia.org/wiki/The_EastLight." title="wikilink">The EastLight.</a> <sup>1st</sup></p></td>
+<td><p>FOURever ( <sup>1st</sup>、 <sup>1st</sup>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓</a> <sup>1st</sup>、 <sup>1st</sup>)、<a href="../Page/The_EastLight..md" title="wikilink">The EastLight.</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>356</p></td>
 <td><p>5月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VICTON" title="wikilink">VICTON</a> <sup>3rd</sup>、<a href="../Page/Dreamcatcher.md" title="wikilink">Dreamcatcher</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/VICTON.md" title="wikilink">VICTON</a> <sup>3rd</sup>、<a href="../Page/Dreamcatcher.md" title="wikilink">Dreamcatcher</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2760,7 +2760,7 @@ EXID<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智</a>�
 <tr class="odd">
 <td><p>360</p></td>
 <td><p>6月20日</p></td>
-<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a> <sup>4th</sup>、<a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/UNI.T" title="wikilink">UNI.T</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a> <sup>4th</sup>、<a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a> <sup>2nd</sup>、<a href="../Page/UNI.T.md" title="wikilink">UNI.T</a> <sup>1st</sup></p></td>
 <td><p>此集的SHINee為接續上集</p></td>
 </tr>
 <tr class="even">
@@ -2772,13 +2772,13 @@ EXID<a href="https://zh.wikipedia.org/wiki/率智" title="wikilink">率智</a>�
 <tr class="odd">
 <td><p>362</p></td>
 <td><p>7月4日</p></td>
-<td><p>家庭 (<a href="https://zh.wikipedia.org/wiki/Rhythm_Power" title="wikilink">Rhythm Power</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/譽恩" title="wikilink">譽恩</a> <sup>1st</sup>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a> <sup>1st</sup>)、<a href="https://zh.wikipedia.org/wiki/A.C.E" title="wikilink">A.C.E</a> <sup>1st</sup></p></td>
+<td><p>家庭 (<a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/譽恩" title="wikilink">譽恩</a> <sup>1st</sup>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a> <sup>1st</sup>)、<a href="https://zh.wikipedia.org/wiki/A.C.E" title="wikilink">A.C.E</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>363</p></td>
 <td><p>7月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">Golden Child</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/Elris" title="wikilink">Elris</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/Elris" title="wikilink">Elris</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2804,7 +2804,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>367</p></td>
 <td><p>8月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a> <sup>12th</sup>、<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a> <sup>1st</sup> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)</p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> <sup>12th</sup>、<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/鄭澤運" title="wikilink">Leo</a> <sup>1st</sup> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)</p></td>
 <td><p>国民代表活动偶像特辑 (暑假特辑3)</p></td>
 </tr>
 <tr class="odd">
@@ -2822,14 +2822,14 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>370</p></td>
 <td><p>8月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brand_New_Music" title="wikilink">Brand New Music家庭</a> (Rhymer <sup>1st</sup>、 <a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">鄭韓海</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MXM" title="wikilink">MXM</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/KANTO" title="wikilink">KANTO</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MC_Gree" title="wikilink">MC Gree</a> <sup>1st</sup>)、<a href="https://zh.wikipedia.org/wiki/Berry_Good" title="wikilink">Berry Good</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">Brand New Music家庭</a> (Rhymer <sup>1st</sup>、 <a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">鄭韓海</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MXM" title="wikilink">MXM</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/KANTO" title="wikilink">KANTO</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/MC_Gree" title="wikilink">MC Gree</a> <sup>1st</sup>)、<a href="../Page/Berry_Good.md" title="wikilink">Berry Good</a> <sup>2nd</sup></p></td>
 <td><p>暑假特辑6</p></td>
 </tr>
 <tr class="even">
 <td><p>371</p></td>
 <td><p>9月5日</p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT DREAM</a> <sup>1st</sup></p></td>
-<td><p>特別MC：<a href="https://zh.wikipedia.org/wiki/李成種" title="wikilink">成種</a> (<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
+<td><p>特別MC：<a href="../Page/李成種.md" title="wikilink">成種</a> (<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>372</p></td>
@@ -2846,7 +2846,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>374</p></td>
 <td><p>9月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a> <sup>3rd</sup>、<a href="https://zh.wikipedia.org/wiki/UNI.T" title="wikilink">UNI.T</a> <sup>2nd</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a> <sup>3rd</sup>、<a href="../Page/UNI.T.md" title="wikilink">UNI.T</a> <sup>2nd</sup></p></td>
 <td><p>中秋节特辑</p></td>
 </tr>
 <tr class="even">
@@ -2864,7 +2864,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>377</p></td>
 <td><p>10月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a> <sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2876,7 +2876,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>379</p></td>
 <td><p>10月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IZ*ONE" title="wikilink">IZ*ONE</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2979,13 +2979,13 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>392</p></td>
 <td><p>1月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CLC" title="wikilink">CLC</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/CLC.md" title="wikilink">CLC</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>393</p></td>
 <td><p>2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金東漢" title="wikilink">金東漢</a>、<a href="https://zh.wikipedia.org/wiki/GFRIEND" title="wikilink">GFRIEND</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金東漢" title="wikilink">金東漢</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p><strong>許參為特別主持</strong></p></td>
 </tr>
 <tr class="odd">
@@ -3003,13 +3003,13 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>396</p></td>
 <td><p>2月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹智聖" title="wikilink">尹智聖</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/尹智聖.md" title="wikilink">尹智聖</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>397</p></td>
 <td><p>3月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河成雲" title="wikilink">河成雲</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/河成雲.md" title="wikilink">河成雲</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3027,7 +3027,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>400</p></td>
 <td><p>3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3039,7 +3039,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>402</p></td>
 <td><p>4月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IZ*ONE" title="wikilink">IZ*ONE</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3051,7 +3051,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>404</p></td>
 <td><p>4月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a><sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/N.Flying" title="wikilink">N.Flying</a>)、 文彬<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro</a>)、 柱延<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a><sup>1st</sup> (<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>)、 文彬<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro</a>)、 柱延<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -17,7 +17,7 @@ AGENCY事務所](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")�
 ### 2013
 
   - 2月3日，「Hello\! Project 誕生15周年記念Live
-    2013冬」中發表組成團體，第一彈成員為[宮本佳林](../Page/宮本佳林.md "wikilink")、[高木紗友希](https://zh.wikipedia.org/wiki/高木紗友希 "wikilink")、[大塚愛菜](https://zh.wikipedia.org/wiki/大塚愛菜 "wikilink")、[植村あかり](https://zh.wikipedia.org/wiki/植村あかり "wikilink")、[金澤朋子](../Page/金澤朋子.md "wikilink")，以及SATOYAMA
+    2013冬」中發表組成團體，第一彈成員為[宮本佳林](../Page/宮本佳林.md "wikilink")、[高木紗友希](../Page/高木紗友希.md "wikilink")、[大塚愛菜](../Page/大塚愛菜.md "wikilink")、[植村あかり](https://zh.wikipedia.org/wiki/植村あかり "wikilink")、[金澤朋子](../Page/金澤朋子.md "wikilink")，以及SATOYAMA
     MOVEMENT組合[GREEN
     FIELDS成員](https://zh.wikipedia.org/wiki/GREEN_FIELDS "wikilink")[宮崎由加](../Page/宮崎由加.md "wikilink")。組合有增加或刪減成員的可能。\[2\]
   - 2月25日，製作人[淳君在部落格發表了新團體的名稱及團名含意](../Page/淳君.md "wikilink")。\[3\]

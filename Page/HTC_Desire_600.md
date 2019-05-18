@@ -6,7 +6,7 @@
 BoomSound™ 立體聲音響、[Beats
 Audio™音訊技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")，內建8GB
 [ROM](../Page/唯讀記憶體.md "wikilink")、1GB
-[RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](../Page/microSD.md "wikilink")64GB，軟硬體是Desire系列目前最高階的一隻。除擁有HTC
+[RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB，軟硬體是Desire系列目前最高階的一隻。除擁有HTC
 BlinkFeed™ 首頁外，更提供Video
 Highlights生活微電影能將拍攝的照片與影片自動轉輯為精華影片，內建多種主題特效與配樂及多種相片編輯功能，慢動作影片還可任意選擇片段，加以慢速播放。\[1\]\[2\]
 

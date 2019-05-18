@@ -1,5 +1,5 @@
 《**Love
-Letter**》是[Gackt的第](../Page/Gackt.md "wikilink")25支单曲。该作在Oricon公信榜上最高排至第九位，并保持在榜七周。\[1\]
+Letter**》是[Gackt的第](https://zh.wikipedia.org/wiki/Gackt "wikilink")25支单曲。该作在Oricon公信榜上最高排至第九位，并保持在榜七周。\[1\]
 
 ## 概要
 

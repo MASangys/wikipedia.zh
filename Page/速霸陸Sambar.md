@@ -29,7 +29,7 @@ angle）\[4\]改得比較小，以防止車輛從水平路面進入坡道時，�
 
 紅帽專用Sambar乃經過[國土交通省認可的專用車輛](../Page/國土交通省.md "wikilink")，其引擎經過特殊設計，零件也重新強化過。由於以小排氣量負荷長距離的貨物運輸，通常這種專用車跑了20萬[公里後便報廢](../Page/公里.md "wikilink")，不再翻修。此外，紅帽專用車具有紅色引擎飾蓋，出廠時也將車頂塗成[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")，以便和一般的Sambar作區別。紅帽專用車配備了下述專用零件\[6\]：
 
-1.  紅帽專用[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[EN型引擎](https://zh.wikipedia.org/wiki/速霸陸EN族引擎 "wikilink")：內部某些零件經過強化
+1.  紅帽專用[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")[EN型引擎](../Page/速霸陸EN族引擎.md "wikilink")：內部某些零件經過強化
 2.  通風碟盤式碟煞系統，附[煞車片磨耗警告裝置](https://zh.wikipedia.org/wiki/煞車片 "wikilink")
 3.  收縮式手煞車：方便駕駛人平躺休息
 4.  二段式開啟後車門：方便麵包車裝卸貨物
@@ -55,14 +55,14 @@ Sambar卡車TC專業版（JAサンバートラック TCプロフェッショナ�
 ### 電動車
 
 [日本郵政旗下的](../Page/日本郵政.md "wikilink")株式會社（郵便事業）為了2011年度將1/3的營業車輛改為[電動車](https://zh.wikipedia.org/wiki/電動車 "wikilink")，曾在2010年8月16日向[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[各務原市的電動車製造商](https://zh.wikipedia.org/wiki/各務原市 "wikilink")（ゼロスポーツ）採購一批以Sambar為基礎而改造的電動車，總數為1千輛。雖然市場上還有、[Plug-in
-Stella等競爭車款](https://zh.wikipedia.org/wiki/速霸陸Stella "wikilink")，但Zerosports提出的單價竟比前二者便宜20%至30%左右\[8\]。其原因乃Sambar為商用車，本身的稅負較低廉；其次是[電池組安裝於車斗下方](https://zh.wikipedia.org/wiki/電池 "wikilink")，在使用便利性上較為有利。不幸的是，Zerosports公司後來因延遲交貨，遭到郵政事業株式會社解除契約，最終導致2011年3月1日宣布[破產](../Page/破產.md "wikilink")，負債數十億[日圓](../Page/日圓.md "wikilink")\[9\]。
+Stella等競爭車款](../Page/速霸陸Stella.md "wikilink")，但Zerosports提出的單價竟比前二者便宜20%至30%左右\[8\]。其原因乃Sambar為商用車，本身的稅負較低廉；其次是[電池組安裝於車斗下方](https://zh.wikipedia.org/wiki/電池 "wikilink")，在使用便利性上較為有利。不幸的是，Zerosports公司後來因延遲交貨，遭到郵政事業株式會社解除契約，最終導致2011年3月1日宣布[破產](../Page/破產.md "wikilink")，負債數十億[日圓](../Page/日圓.md "wikilink")\[9\]。
 
 ### 客製化用車
 
 日本當地也有許多替Sambar客製化的改裝業者，改裝風潮以[福斯T2的外觀模樣為主](https://zh.wikipedia.org/wiki/大众面包车#第二代_T2 "wikilink")，推出許多雙色塗裝的空力套件、車身鈑烤服務等。這股風潮使得許多[消費者打](https://zh.wikipedia.org/wiki/消費者 "wikilink")[電話向](https://zh.wikipedia.org/wiki/電話 "wikilink")[福斯汽車的授權代理商梁瀨汽車](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")（今）詢問，造成後者的困擾，當時梁瀨汽車索性在官方[網站的](../Page/網站.md "wikilink")[常見問題集寫道](https://zh.wikipedia.org/wiki/常見問題集 "wikilink")：「我們並未銷售福斯製造的輕型車，您所諮詢的車輛乃是國產輕型車改造成福斯廂型車風格。」
 
 此外，日本市面上也出現以[俄羅斯UAZ](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
-452車款為基礎的改裝套件\[10\]，或者類似[飛雅特500造型的改裝車](../Page/菲亚特500.md "wikilink")，甚至富士重工業旗下[速霸陸客製工房](https://zh.wikipedia.org/wiki/速霸陸客製工房 "wikilink")（スバルカスタマイズ工房）也曾推出限量250輛的「36
+452車款為基礎的改裝套件\[10\]，或者類似[飛雅特500造型的改裝車](../Page/菲亚特500.md "wikilink")，甚至富士重工業旗下[速霸陸客製工房](../Page/速霸陸客製工房.md "wikilink")（スバルカスタマイズ工房）也曾推出限量250輛的「36
 Sambar（サブロクサンバー）\[11\]」復古特仕車。
 
 ## 歷史
@@ -142,7 +142,7 @@ suspension）改為[麥花臣支柱式懸吊系統](https://zh.wikipedia.org/wik
 
 1983年 - 以此代Sambar
 try之[底盤為基礎](https://zh.wikipedia.org/wiki/底盤 "wikilink")，搭載997c.c.直列三缸SOHC
-[EF10型引擎的](https://zh.wikipedia.org/wiki/速霸陸EF族引擎#EF10型 "wikilink")[Domingo為其衍生車款](https://zh.wikipedia.org/wiki/速霸陸Domingo "wikilink")。
+[EF10型引擎的](https://zh.wikipedia.org/wiki/速霸陸EF族引擎#EF10型 "wikilink")[Domingo為其衍生車款](../Page/速霸陸Domingo.md "wikilink")。
 
 1986年 - 5月「TG」車款追加雙天窗，且全車系前座配備附緊急鎖定牽引系統（emergency locking
 retractor，縮寫成ELR）的[安全帶](../Page/座位安全帶.md "wikilink")。
@@ -220,7 +220,7 @@ Wagon」車型新增前座上下車用把手、自動升降車窗、加油口開
 LIMITED」特別仕樣車，具有專用車色、黑色內裝等特殊配備\[19\]。
 
 2012年 -
-2月28日富士重工業宣布不再自行開發製造輕型車，結束了過去54年來生產此種車型的歷史。同年4月1日正式停止發售，原本的生產線改成製造[BRZ和](https://zh.wikipedia.org/wiki/速霸陸BRZ "wikilink")[豐田86](../Page/豐田86.md "wikilink")。
+2月28日富士重工業宣布不再自行開發製造輕型車，結束了過去54年來生產此種車型的歷史。同年4月1日正式停止發售，原本的生產線改成製造[BRZ和](../Page/速霸陸BRZ.md "wikilink")[豐田86](../Page/豐田86.md "wikilink")。
 
 Image:Subaru Sambar 615.JPG Image:Subaru Sambar 617.JPG
 Image:SambarDiasinterior.jpg|自排車型內裝
@@ -265,7 +265,7 @@ Pack」，包含整合式[AM](../Page/調幅廣播.md "wikilink")/[FM](https://z
 ## 內部連結
 
   - [速霸陸360](../Page/速霸陸360.md "wikilink")
-  - [速霸陸Domingo](https://zh.wikipedia.org/wiki/速霸陸Domingo "wikilink")
+  - [速霸陸Domingo](../Page/速霸陸Domingo.md "wikilink")
 
 ## 外部連結
 

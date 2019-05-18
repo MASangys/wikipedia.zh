@@ -1,4 +1,4 @@
-**Internet股份有限公司**（株式会社インターネット）是[總部位于](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪的一家日本软件公司](https://zh.wikipedia.org/wiki/大阪 "wikilink")。其著名产品有以[VOCALOID为基础的](../Page/VOCALOID.md "wikilink")[GACKPOID](../Page/GACKPOID.md "wikilink")、[Megpoid](../Page/Megpoid.md "wikilink")、[Lily等](https://zh.wikipedia.org/wiki/Lily_\(Vocaloid\) "wikilink")。
+**Internet股份有限公司**（株式会社インターネット）是[總部位于](https://zh.wikipedia.org/wiki/總部 "wikilink")[日本](../Page/日本.md "wikilink")[大阪的一家日本软件公司](https://zh.wikipedia.org/wiki/大阪 "wikilink")。其著名产品有以[VOCALOID为基础的](../Page/VOCALOID.md "wikilink")[GACKPOID](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")、[Megpoid](../Page/Megpoid.md "wikilink")、[Lily等](https://zh.wikipedia.org/wiki/Lily_\(Vocaloid\) "wikilink")。
 
 ## 名字由來
 

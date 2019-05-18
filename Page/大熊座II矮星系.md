@@ -13,7 +13,7 @@ dSph\[2\] | ra = \[3\] | dec = \[4\] | dist_ly = 98 ± 16
 
 Uma
 II是[銀河系最小和最暗淡的衛星星系之一](https://zh.wikipedia.org/wiki/銀河系 "wikilink"){{\#tag:ref|只有[Com](https://zh.wikipedia.org/wiki/Coma_Berenices_\(dwarf_galaxy\) "wikilink")、[Segue
-1](https://zh.wikipedia.org/wiki/Segue_1 "wikilink")、[Segue
+1](../Page/Segue_1.md "wikilink")、[Segue
 2](https://zh.wikipedia.org/wiki/Segue_2_\(dwarf_galaxy\) "wikilink")、[Bootes
 II和](https://zh.wikipedia.org/wiki/Boötes_II_\(dwarf_galaxy\) "wikilink")[威爾曼1比它微弱](../Page/威爾曼1.md "wikilink")\[12\]。|group=note}}
 — 它的總亮度大約是太陽的4000倍

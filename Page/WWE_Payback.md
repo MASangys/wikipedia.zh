@@ -61,7 +61,7 @@ match）所組合的三層地獄戰（Three Stages of Hell match）再次重新�
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯爾提斯·艾克賽爾" title="wikilink">Curtis Axel</a> (with <a href="https://zh.wikipedia.org/wiki/Paul_Heyman" title="wikilink">Paul Heyman</a>) defeated <a href="../Page/韋德·貝瑞特.md" title="wikilink">Wade Barrett</a> (c) and <a href="https://zh.wikipedia.org/wiki/The_Miz" title="wikilink">The Miz</a></p></td>
+<td><p><a href="../Page/柯爾提斯·艾克賽爾.md" title="wikilink">Curtis Axel</a> (with <a href="https://zh.wikipedia.org/wiki/Paul_Heyman" title="wikilink">Paul Heyman</a>) defeated <a href="../Page/韋德·貝瑞特.md" title="wikilink">Wade Barrett</a> (c) and <a href="https://zh.wikipedia.org/wiki/The_Miz" title="wikilink">The Miz</a></p></td>
 <td><p>for the <a href="https://zh.wikipedia.org/wiki/WWE洲際冠軍" title="wikilink">Intercontinental Championship</a>[3]</p></td>
 <td><p>10:36</p></td>
 </tr>
@@ -79,7 +79,7 @@ match）所組合的三層地獄戰（Three Stages of Hell match）再次重新�
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿爾貝托·德·里奧" title="wikilink">Alberto Del Rio</a> (with <a href="https://zh.wikipedia.org/wiki/Ricardo_Rodriguez" title="wikilink">Ricardo Rodriguez</a>) defeated <a href="https://zh.wikipedia.org/wiki/多夫·鍚格勒" title="wikilink">Dolph Ziggler</a> (c) (with <a href="https://zh.wikipedia.org/wiki/AJ_Lee" title="wikilink">AJ Lee</a> and <a href="https://zh.wikipedia.org/wiki/Big_E_Langston" title="wikilink">Big E Langston</a>)</p></td>
+<td><p><a href="../Page/阿爾貝托·德·里奧.md" title="wikilink">Alberto Del Rio</a> (with <a href="https://zh.wikipedia.org/wiki/Ricardo_Rodriguez" title="wikilink">Ricardo Rodriguez</a>) defeated <a href="https://zh.wikipedia.org/wiki/多夫·鍚格勒" title="wikilink">Dolph Ziggler</a> (c) (with <a href="https://zh.wikipedia.org/wiki/AJ_Lee" title="wikilink">AJ Lee</a> and <a href="https://zh.wikipedia.org/wiki/Big_E_Langston" title="wikilink">Big E Langston</a>)</p></td>
 <td><p>Singles match for the <a href="../Page/世界重量級冠軍_(WWE).md" title="wikilink">World Heavyweight Championship</a>[6]</p></td>
 <td><p>13:49</p></td>
 </tr>

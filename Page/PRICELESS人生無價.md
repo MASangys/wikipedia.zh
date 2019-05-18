@@ -53,7 +53,7 @@
     [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
   - 財前修（55） - （粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
   - 大屋敷巖 -
-    [中村敦夫](https://zh.wikipedia.org/wiki/中村敦夫 "wikilink")（第1、9話）（特別演出）（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
+    [中村敦夫](../Page/中村敦夫.md "wikilink")（第1、9話）（特別演出）（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
 
 <!-- end list -->
 

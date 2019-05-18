@@ -214,10 +214,10 @@ grram名字是由[北欧神话中的宝剑](../Page/北欧神话.md "wikilink")[
     Facebook](http://www.facebook.com/grramofficial)官方[Facebook](../Page/Facebook.md "wikilink")
 
   - [grram
-    twitter](https://twitter.com/grram_info)官方[twitter](../Page/twitter.md "wikilink")
+    twitter](https://twitter.com/grram_info)官方[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")
 
   - [grram
-    Youtube](http://www.youtube.com/user/grram)官方[Youtube](../Page/Youtube.md "wikilink")
+    Youtube](http://www.youtube.com/user/grram)官方[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
   - [Nice to Mii You](http://ameblo.jp/mizuki-kugawa)久川实津小寒官方博客
 

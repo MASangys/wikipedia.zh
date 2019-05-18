@@ -4,13 +4,13 @@ Breathing**》（、），2013年上映的韓國青春運動電影，由[徐仁�
 「-{No
 Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游泳競技為背景，融合夢想、友情、親情等元素，展示為了更好的未來，暫時放慢奮鬥腳步的年輕人的熱情以及執著。
 
-由《[朝韓夢之隊](https://zh.wikipedia.org/wiki/朝韓夢之隊 "wikilink")》、《[帕帕羅蒂](https://zh.wikipedia.org/wiki/帕帕羅蒂 "wikilink")》等電影的編劇[劉英雅創作](../Page/劉英雅.md "wikilink")，曾打造《[七級公務員](https://zh.wikipedia.org/wiki/七級公務員 "wikilink")》、《Chaw》等影片的製作社SUJAK擔任製片工作。\[2\]
+由《[朝韓夢之隊](../Page/朝韓夢之隊.md "wikilink")》、《[帕帕羅蒂](../Page/帕帕羅蒂.md "wikilink")》等電影的編劇[劉英雅創作](../Page/劉英雅.md "wikilink")，曾打造《[七級公務員](https://zh.wikipedia.org/wiki/七級公務員 "wikilink")》、《Chaw》等影片的製作社SUJAK擔任製片工作。\[2\]
 
 ## 劇情
 
 趙元日（[徐仁國飾演](../Page/徐仁國.md "wikilink")）曾經是前途光明的游泳冠軍，可是父親在最後一次職業泳賽當中，因為使用獨門「屏息游法」而意外身亡，母親也因為過度傷心相繼死去，父母雙亡讓元日大受打擊，也讓他放棄游泳，過著胸無大志的日子。
 
-父親的好友在錫（[朴哲民飾演](https://zh.wikipedia.org/wiki/朴哲民_\(演員\) "wikilink")）看不下去，於是鼓勵他進入體育學校，並加入游泳隊繼續游水天賦。在游泳隊裡，他遇見兒時的競爭對手鄭佑相（[李鍾碩飾演](../Page/李鍾碩.md "wikilink")），因為衝動闖禍，被國家游泳隊除名，必須在體育學校重新參加選拔，才有機會奪回國家代表資格。
+父親的好友在錫（[朴哲民飾演](../Page/朴哲民_\(演員\).md "wikilink")）看不下去，於是鼓勵他進入體育學校，並加入游泳隊繼續游水天賦。在游泳隊裡，他遇見兒時的競爭對手鄭佑相（[李鍾碩飾演](../Page/李鍾碩.md "wikilink")），因為衝動闖禍，被國家游泳隊除名，必須在體育學校重新參加選拔，才有機會奪回國家代表資格。
 
 其實也因為元日放棄游泳，才使佑相有機會取代位置，成為國家游泳隊的明日之星。因此元日的回歸，讓佑相備感威脅，尤其兩人還同時愛上在錫的女兒靜恩（[權俞利飾演](https://zh.wikipedia.org/wiki/權俞利 "wikilink")），更讓兩人燃起競爭的熊熊烈火…。國家代表選拔即將到來，這兩個勢均力敵的男人，也即將展開愛情、友情之間的對決…。
 
@@ -48,7 +48,7 @@ Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游
 <td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴哲民_(演員)" title="wikilink">朴哲民</a></p></td>
+<td><p><a href="../Page/朴哲民_(演員).md" title="wikilink">朴哲民</a></p></td>
 <td><p>在　錫</p></td>
 <td><p>静恩的父親</p></td>
 <td><p><a href="../Page/葉振聲.md" title="wikilink">葉振聲</a></p></td>
@@ -78,7 +78,7 @@ Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴容植" title="wikilink">朴容植</a></p></td>
+<td><p><a href="../Page/朴容植.md" title="wikilink">朴容植</a></p></td>
 <td></td>
 <td><p>游泳協會會長</p></td>
 <td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>

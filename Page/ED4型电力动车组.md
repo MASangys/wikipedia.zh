@@ -48,7 +48,7 @@ ED4M型电力动车组投入运用初期，由于诺沃切尔卡斯克电力机�
 
 ### ED4MKM-AERO
 
-2007年，经营莫斯科[机场联络轨道系统的](https://zh.wikipedia.org/wiki/机场联络轨道系统 "wikilink")[机场快线有限公司](https://zh.wikipedia.org/wiki/机场快线_\(俄罗斯\) "wikilink")（ООО
+2007年，经营莫斯科[机场联络轨道系统的](https://zh.wikipedia.org/wiki/机场联络轨道系统 "wikilink")[机场快线有限公司](../Page/机场快线_\(俄罗斯\).md "wikilink")（ООО
 «Аэроэкспресс»）向杰米霍沃机器制造厂订购了7列电力动车组，新型列车被定型为ED4MKM-AERO型电力动车组（）。该型列车是ED4MKM型电力动车组的改进型，两者并没有结构或外形上的差异，但根据客户的要求对车厢内饰和布局作出了调整。列车标准编组为“四动四拖”的8辆编组，由2辆带司机室的控制拖车、2辆中间拖车、4辆中间动车组成。全列车均为一等车厢，采用“2+2”的座位布置形式，座位均为可倾躺的航空式座椅，全列车座席定员为294人。除了乘客头顶上的行李架外，所有车厢均设有大件行李架。此外，其中一辆拖车设有为[轮椅使用者的车门踏板](https://zh.wikipedia.org/wiki/轮椅 "wikilink")、轮椅空间和残疾人厕所\[5\]。
 
 2007年至2009年初，7列ED4MKM-AERO型电力动车组先后交付机场快线有限公司，在莫斯科的多条机场铁路投入营运，为来往市中心和机场的旅客提供舒适快捷的服务，三条路线包括[帕韦列茨站至](https://zh.wikipedia.org/wiki/帕韋列茨站 "wikilink")[多莫杰多沃国际机场](https://zh.wikipedia.org/wiki/多莫杰多沃国际机场 "wikilink")、[基辅站至](https://zh.wikipedia.org/wiki/基輔站 "wikilink")[伏努科沃国际机场](https://zh.wikipedia.org/wiki/伏努科沃国际机场 "wikilink")、以及[白俄罗斯站至](https://zh.wikipedia.org/wiki/白俄罗斯站 "wikilink")[谢列梅捷沃国际机场](../Page/谢列梅捷沃国际机场.md "wikilink")，列车的日常检修由莫斯科铁路局的伊里奇机务段（ТЧ-18）进行。
@@ -78,7 +78,7 @@ ED4M型电力动车组投入运用初期，由于诺沃切尔卡斯克电力机�
 
   - [ER2T型电力动车组](../Page/ER2T型电力动车组.md "wikilink")
   - [ED2T型电力动车组](../Page/ED2T型电力动车组.md "wikilink")
-  - [ED6型电力动车组](https://zh.wikipedia.org/wiki/ED6型电力动车组 "wikilink")
+  - [ED6型电力动车组](../Page/ED6型电力动车组.md "wikilink")
   - [ED9型电力动车组](../Page/ED9型电力动车组.md "wikilink")
 
 ## 参考文献

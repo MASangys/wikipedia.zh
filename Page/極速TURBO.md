@@ -81,7 +81,7 @@ Network播映](../Page/卡通頻道.md "wikilink")。
 | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | 英版                                                                                    | 台版                                                  |
 | [萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")                                                | [嚴爵](../Page/嚴爵.md "wikilink")                      |
-| [保罗·吉亚玛提](https://zh.wikipedia.org/wiki/保罗·吉亚玛提 "wikilink")                           | [符爽](../Page/符爽.md "wikilink")                      |
+| [保罗·吉亚玛提](../Page/保罗·吉亚玛提.md "wikilink")                                              | [符爽](../Page/符爽.md "wikilink")                      |
 | [迈克尔·佩纳](https://zh.wikipedia.org/wiki/迈克尔·佩纳 "wikilink")                             | [夏治世](../Page/夏治世.md "wikilink")                    |
 | [史努比狗狗](../Page/史努比狗狗.md "wikilink")                                                  | [夏治世](../Page/夏治世.md "wikilink")                    |
 | [瑪雅·魯道夫](https://zh.wikipedia.org/wiki/:en:Maya_Rudolph "wikilink")                   | [小甜甜](https://zh.wikipedia.org/wiki/張可昀 "wikilink") |
@@ -94,7 +94,7 @@ Network播映](../Page/卡通頻道.md "wikilink")。
 | [本·施瓦茨](../Page/本·施瓦茨.md "wikilink")                                                  | [張景祥](https://zh.wikipedia.org/wiki/張景祥 "wikilink") |
 | [Kurtwood Smith](https://zh.wikipedia.org/wiki/:en:Kurtwood_Smith "wikilink")         |                                                     |
 | [Michael Patrick Bell](https://zh.wikipedia.org/wiki/Michael_Patrick_Bell "wikilink") | [宋克軍](../Page/宋克軍.md "wikilink")                    |
-| [達里奧·弗朗奇蒂](https://zh.wikipedia.org/wiki/達里奧·弗朗奇蒂 "wikilink")                         |                                                     |
+| [達里奧·弗朗奇蒂](../Page/達里奧·弗朗奇蒂.md "wikilink")                                            |                                                     |
 | [威爾·波爾](https://zh.wikipedia.org/wiki/:en:Will_Power "wikilink")                      |                                                     |
 | [马里奥·安德烈蒂](../Page/马里奥·安德烈蒂.md "wikilink")                                            |                                                     |
 | [保羅·佩奇](https://zh.wikipedia.org/wiki/:en:Paul_Page "wikilink")                       |                                                     |
@@ -105,7 +105,7 @@ Network播映](../Page/卡通頻道.md "wikilink")。
 
 ## 製作
 
-[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500的主辦單位](../Page/印第安納波利斯500.md "wikilink")[印第賽車合作](../Page/印第賽車.md "wikilink")，在電影中重現[印第安納波利斯賽車場](https://zh.wikipedia.org/wiki/印第安納波利斯賽車場 "wikilink")。四屆印第賽車總冠軍Dario
+[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500的主辦單位](../Page/印第安納波利斯500.md "wikilink")[印第賽車合作](../Page/印第賽車.md "wikilink")，在電影中重現[印第安納波利斯賽車場](../Page/印第安納波利斯賽車場.md "wikilink")。四屆印第賽車總冠軍Dario
 Franchitti是電影的技術顧問，提供有關蝸牛Turbo在賽事中的觀點的相關建議。\[22\]
 
 ## 评价

@@ -6,7 +6,7 @@
 《Bunny
 Style\!》是以[兔子風格為主的J](https://zh.wikipedia.org/wiki/兔子 "wikilink")-pop舞曲，內容有關一隻孤單的兔子的故事\[1\]。舞蹈中也有些摸仿兔子的動作\[2\]，這也是T-ara繼2009年歌曲《[Bo
 Peep Bo
-Peep](https://zh.wikipedia.org/wiki/Bo_Peep_Bo_Peep "wikilink")》的貓舞之後，第二次以模仿動物為主的舞蹈\[3\]。
+Peep](../Page/Bo_Peep_Bo_Peep.md "wikilink")》的貓舞之後，第二次以模仿動物為主的舞蹈\[3\]。
 
 單曲以十個不同版本發行。分別為限量版A至C，及常規版D至J。除了收錄單曲《Bunny
 Style\!》外，3個限量版（初回限定盤）亦分別收錄[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")3組子團的各首合唱歌曲\[4\]。另外7個常規版（通常盤）收錄則紀錄了各個成員的各首獨唱歌曲\[5\]。

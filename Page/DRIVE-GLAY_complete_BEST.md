@@ -3,7 +3,7 @@ BEST**是[GLAY的第](../Page/GLAY.md "wikilink")2張A面[精選輯](https://zh.
 
 ## 簡介
 
-  - 此精選輯的曲目是依照歌迷投票結果選出的，精選輯封面的人物是[JIRO](../Page/JIRO.md "wikilink")。另外發行長條紙盒版的『初回限定版』，台灣有發行普通盤的台壓版。
+  - 此精選輯的曲目是依照歌迷投票結果選出的，精選輯封面的人物是[JIRO](https://zh.wikipedia.org/wiki/JIRO "wikilink")。另外發行長條紙盒版的『初回限定版』，台灣有發行普通盤的台壓版。
   - 根據當時音樂雜誌的訪問，這張精選輯並不是出自團員們的意願，而是因為當時公司的策略而發行的。19th單曲「[MERMAID](https://zh.wikipedia.org/wiki/MERMAID\(GLAY\) "wikilink")」因為是下張專輯的核心歌曲，所以沒有收錄。
   - 發行後連續4週獲得ORICON專輯榜冠軍，是到目前為止GLAY的最後一張百萬作品。
   - 在所有的雙CD作品中，此精選輯獲得日本唱片史上首週銷售量最高的紀錄，首週銷量高達172萬張。。\[1\]
@@ -27,7 +27,8 @@ BEST**是[GLAY的第](../Page/GLAY.md "wikilink")2張A面[精選輯](https://zh.
 5.  **[Glorious](../Page/Glorious.md "wikilink")**
       -
         8th單曲。
-6.  **[a Boy〜一直無法忘懷〜](../Page/a_Boy〜一直無法忘懷〜.md "wikilink")**
+6.  **[a
+    Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
       -
         10th單曲。
 7.  **[生存的勇氣](https://zh.wikipedia.org/wiki/生存的勇氣 "wikilink")**
@@ -69,7 +70,7 @@ BEST**是[GLAY的第](../Page/GLAY.md "wikilink")2張A面[精選輯](https://zh.
 5.  **[HAPPINESS](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")**
       -
         18th單曲。
-6.  **[survival](../Page/survival_\(GLAY\).md "wikilink")**
+6.  **[survival](https://zh.wikipedia.org/wiki/survival_\(GLAY\) "wikilink")**
       -
         影像單曲。
 7.  **[pure soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**

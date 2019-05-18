@@ -4,7 +4,7 @@
 Camera**是一个[傻瓜相机](https://zh.wikipedia.org/wiki/傻瓜相机 "wikilink")，是一个基于Android的移动设备。Galaxy
 Camera在2012年8月宣布的口号是“相机。重生。”（）\[1\]，但当时没有提及的价格或出货日期。\[2\]
 
-该相机采用16万像素的CMOS传感器和21倍的光学[变焦镜头](../Page/变焦镜头.md "wikilink")，以及[Wi-Fi和](../Page/Wi-Fi.md "wikilink")[3G连接](../Page/3G.md "wikilink")，一个，可以在照片上标记[地理位置](https://zh.wikipedia.org/wiki/地理标记的照片 "wikilink")。相机附带的软件可以存储，组织，编辑和在线共享图像和视频\[3\]。与其他Android设备一样，其他软件可以从[Google
+该相机采用16万像素的CMOS传感器和21倍的光学[变焦镜头](../Page/变焦镜头.md "wikilink")，以及[Wi-Fi和](../Page/Wi-Fi.md "wikilink")[3G连接](../Page/3G.md "wikilink")，一个，可以在照片上标记[地理位置](../Page/地理标记的照片.md "wikilink")。相机附带的软件可以存储，组织，编辑和在线共享图像和视频\[3\]。与其他Android设备一样，其他软件可以从[Google
 Play等商店下载](../Page/Google_Play.md "wikilink")。\[4\]
 
 ## 市场营销

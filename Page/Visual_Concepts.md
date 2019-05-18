@@ -12,7 +12,7 @@ Unlikely等冒险解谜类游戏](https://zh.wikipedia.org/wiki/Lester_The_Unlik
 
 在2013年， Visual Concepts 在中国上海成立Visual Concepts China 中国开发工作室。Visual
 Concepts China 工作室目前主要致力于[NBA2K
-Online以及](https://zh.wikipedia.org/wiki/NBA2K_Online "wikilink")[NBA2K
+Online以及](../Page/NBA2K_Online.md "wikilink")[NBA2K
 Mobile等系列产品的研发](https://zh.wikipedia.org/wiki/NBA2K_Mobile "wikilink")。
 
 ## Visual Concepts 的游戏产品\[2\]
@@ -52,26 +52,25 @@ Mobile等系列产品的研发](https://zh.wikipedia.org/wiki/NBA2K_Mobile "wiki
       - *NBA 2K8* (PlayStation 2, PlayStation 3, Xbox 360)
       - *[NBA 2K9](https://zh.wikipedia.org/wiki/NBA_2K9 "wikilink")*
         (PlayStation 3, Xbox 360, PlayStation 2, PC)
-      - *[NBA 2K10](https://zh.wikipedia.org/wiki/NBA_2K10 "wikilink")*
+      - *[NBA 2K10](../Page/NBA_2K10.md "wikilink")*
         ([Wii](../Page/Wii.md "wikilink"), PlayStation 3, Xbox 360,
         PlayStation 2,
         [PC](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
         [PSP](../Page/PlayStation_Portable.md "wikilink"))
-      - *[NBA 2K11](https://zh.wikipedia.org/wiki/NBA_2K11 "wikilink")*
+      - *[NBA 2K11](../Page/NBA_2K11.md "wikilink")*
         ([Wii](../Page/Wii.md "wikilink"), PlayStation 3, Xbox 360,
         PlayStation 2,
         [PC](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
         [PSP](../Page/PlayStation_Portable.md "wikilink"))
       - *[NBA 2K12](https://zh.wikipedia.org/wiki/NBA_2K12 "wikilink")*
-        ([iOS](../Page/iOS.md "wikilink"), PC, PlayStation 2,
-        PlayStation 3, PSP, Wii, Xbox 360)
+        ([iOS](https://zh.wikipedia.org/wiki/iOS "wikilink"), PC,
+        PlayStation 2, PlayStation 3, PSP, Wii, Xbox 360)
       - *[NBA 2K13](https://zh.wikipedia.org/wiki/NBA_2K13 "wikilink")*
         (iOS, [Android](../Page/Android.md "wikilink"), PC, PlayStation
         3, Xbox 360, PSP, Wii, [Wii U](../Page/Wii_U.md "wikilink"))
-      - *[NBA 2K14](https://zh.wikipedia.org/wiki/NBA_2K14 "wikilink")*
-        (PC, PlayStation 3, Xbox 360, [PlayStation
-        4](../Page/PlayStation_4.md "wikilink"), [Xbox
-        One](../Page/Xbox_One.md "wikilink"))
+      - *[NBA 2K14](../Page/NBA_2K14.md "wikilink")* (PC, PlayStation 3,
+        Xbox 360, [PlayStation 4](../Page/PlayStation_4.md "wikilink"),
+        [Xbox One](../Page/Xbox_One.md "wikilink"))
       - *[NBA 2K15](https://zh.wikipedia.org/wiki/NBA_2K15 "wikilink")*
         (PC, PlayStation 3, Xbox 360, [PlayStation
         4](../Page/PlayStation_4.md "wikilink"), [Xbox

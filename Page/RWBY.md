@@ -505,7 +505,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **馨德·佛爾**（英文名：，又譯：餘燼·秋，配音：[潔西卡·尼格瑞](https://zh.wikipedia.org/wiki/潔西卡·尼格瑞 "wikilink")，日文配音：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")）
+  - **馨德·佛爾**（英文名：，又譯：餘燼·秋，配音：[潔西卡·尼格瑞](../Page/潔西卡·尼格瑞.md "wikilink")，日文配音：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")）
 
 <!-- end list -->
 
@@ -638,7 +638,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
   - **戈薩克·艾爾比恩/費納克·艾爾比恩**（英文名：Corsac/Fennec Albain，配音：Derek
     Mears(Corsac)、Mike
-    McFarland(Fennec)，日文配音：[白熊寬嗣](https://zh.wikipedia.org/wiki/白熊寬嗣 "wikilink")
+    McFarland(Fennec)，日文配音：[白熊寬嗣](../Page/白熊寬嗣.md "wikilink")
     (Corsac)、矢野智也(Fennec) ）
 
 <!-- end list -->
@@ -1946,13 +1946,13 @@ Rush在[Crunchyroll上撰文](../Page/Crunchyroll.md "wikilink")，提到該動�
 <!-- end list -->
 
   - 遊戲版
-    [bilibili於](../Page/bilibili.md "wikilink")2015年7月28日宣布獲得遊戲版改編權
+    [bilibili於](https://zh.wikipedia.org/wiki/bilibili "wikilink")2015年7月28日宣布獲得遊戲版改編權
     官方遊戲《[RWBY:GE](https://zh.wikipedia.org/wiki/RWBY:GE "wikilink")》現已於steam上架。
 
 <!-- end list -->
 
   - 漫畫版
-    由[三輪士郎作畫](https://zh.wikipedia.org/wiki/三輪士郎 "wikilink")，於集英社的《[Ultra
+    由[三輪士郎作畫](../Page/三輪士郎.md "wikilink")，於集英社的《[Ultra
     Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》2015年12月號開始連載。
 
 <!-- end list -->

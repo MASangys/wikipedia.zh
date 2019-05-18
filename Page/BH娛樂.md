@@ -11,7 +11,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [晉久](../Page/晉久.md "wikilink")
   - [朴成勳](../Page/朴成勳.md "wikilink")
   - [許正道](https://zh.wikipedia.org/wiki/許正道 "wikilink")
-  - [肖恩·理查德](https://zh.wikipedia.org/wiki/肖恩·理查德 "wikilink")
+  - [肖恩·理查德](../Page/肖恩·理查德.md "wikilink")
   - [秋瓷炫](../Page/秋瓷炫.md "wikilink")
   - [於曉光](https://zh.wikipedia.org/wiki/於曉光 "wikilink")
   - [張英南](../Page/張英南.md "wikilink")
@@ -22,19 +22,19 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [玄朱妮](../Page/玄朱妮.md "wikilink")
   - [金高銀](https://zh.wikipedia.org/wiki/金高銀 "wikilink")
   - [孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")
-  - [朴海秀](https://zh.wikipedia.org/wiki/朴海秀 "wikilink")
+  - [朴海秀](../Page/朴海秀.md "wikilink")
   - [安昭熙](../Page/安昭熙.md "wikilink")
 
 ## 離開藝人
 
-  - [金亨奎](https://zh.wikipedia.org/wiki/金亨奎 "wikilink")
+  - [金亨奎](../Page/金亨奎.md "wikilink")
   - [李源根](../Page/李源根.md "wikilink")
   - [金敏喜](../Page/金敏喜.md "wikilink")
   - [韓彩英](../Page/韓彩英.md "wikilink")
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")
   - [沈恩敬](../Page/沈恩敬.md "wikilink")
-  - [洪雅凜](https://zh.wikipedia.org/wiki/洪雅凜 "wikilink")
-  - [林華映](https://zh.wikipedia.org/wiki/林華映 "wikilink")
+  - [洪雅凜](../Page/洪雅凜.md "wikilink")
+  - [林華映](../Page/林華映.md "wikilink")
   - [夏沇秀](../Page/夏沇秀.md "wikilink")
 
 ## 參考資料

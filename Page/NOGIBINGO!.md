@@ -7,7 +7,7 @@
 
 在節目主旨上，原先《NOGIBINGO\!》是以復刻[AKB48的冠名節目](../Page/AKB48.md "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》之單元企劃為節目主旨，後來第二季《NOGIBINGO\!2》開始以「超越AKB48」作為發想概念，因此採用原創新單元內容。在各類的企劃中，有數集皆採用由成員依照特定主題進行即興表演的妄想點播，特別強調乃木坂成員們的螢光幕前表現能力。此外，製作單位甚至在官方網站上開放觀眾投稿，徵求有趣的妄想主題，甚至一般觀眾的投稿外，連姊妹團體AKB48成員[渡邊麻友都參與投稿](../Page/渡邊麻友.md "wikilink")，指定其隊長[櫻井玲香進行妄想點播單元的演出](../Page/櫻井玲香.md "wikilink")。
 
-在演出名單方面，主持人由猥瑣岡田擔任，除了乃木坂46的一期生外，以曾經擔任過第7張單曲中心陣位（center）成員的[堀未央奈為首的二期生也陸續參與演出](https://zh.wikipedia.org/wiki/堀未央奈 "wikilink")。因此，也出現許多一、二期生之間互動或對抗，在前作中不曾見過的單元形態。此外，第六季《NOGIBINGO\!6》與第七季《NOGIBINGO\!7》尚增加助理主持人職位，透過第一集節目從成員中選出，兩季分別由[中元日芽香](../Page/中元日芽香.md "wikilink")、[衛藤美彩出任](../Page/衛藤美彩.md "wikilink")。第八季《NOGIBINGO\!8》則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。
+在演出名單方面，主持人由猥瑣岡田擔任，除了乃木坂46的一期生外，以曾經擔任過第7張單曲中心陣位（center）成員的[堀未央奈為首的二期生也陸續參與演出](../Page/堀未央奈.md "wikilink")。因此，也出現許多一、二期生之間互動或對抗，在前作中不曾見過的單元形態。此外，第六季《NOGIBINGO\!6》與第七季《NOGIBINGO\!7》尚增加助理主持人職位，透過第一集節目從成員中選出，兩季分別由[中元日芽香](../Page/中元日芽香.md "wikilink")、[衛藤美彩出任](../Page/衛藤美彩.md "wikilink")。第八季《NOGIBINGO\!8》則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。
 {{-}}
 
 ## NOGIBINGO\!
@@ -19,7 +19,7 @@
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
-      - [秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[市來玲奈](../Page/市來玲奈.md "wikilink")、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[柏幸奈](../Page/柏幸奈.md "wikilink")、川後陽菜、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")（）、[齊藤優里](https://zh.wikipedia.org/wiki/齊藤優里 "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、永島聖羅、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")、[星野南](../Page/星野南.md "wikilink")（）、[松村沙友理](../Page/松村沙友理.md "wikilink")、[宮澤成良](../Page/宮澤成良.md "wikilink")、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")（）
+      - [秋元真夏](../Page/秋元真夏.md "wikilink")、[生田繪梨花](../Page/生田繪梨花.md "wikilink")、[生駒里奈](../Page/生駒里奈.md "wikilink")、[市來玲奈](../Page/市來玲奈.md "wikilink")、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")、[柏幸奈](../Page/柏幸奈.md "wikilink")、川後陽菜、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")（）、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")、[白石麻衣](../Page/白石麻衣.md "wikilink")、[高山一實](../Page/高山一實.md "wikilink")、永島聖羅、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")、[西野七瀨](../Page/西野七瀨.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")、[星野南](../Page/星野南.md "wikilink")（）、[松村沙友理](../Page/松村沙友理.md "wikilink")、[宮澤成良](../Page/宮澤成良.md "wikilink")、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")（）
   - 其他
       - （日本電視台[主播](https://zh.wikipedia.org/wiki/主播 "wikilink")）：第四集溜滑梯問答的發問旁白。
 
@@ -38,7 +38,7 @@
 
       - [長州小力](https://zh.wikipedia.org/wiki/長州小力 "wikilink")：搞笑藝人，在第十集的暗室猜謎中擔任謎題。
 
-      - [船梨精](https://zh.wikipedia.org/wiki/船梨精 "wikilink")（）：[千葉縣](../Page/千葉縣.md "wikilink")[船橋市的非官方](../Page/船橋市.md "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，在暗室猜謎中擔任謎題。
+      - [船梨精](../Page/船梨精.md "wikilink")（）：[千葉縣](../Page/千葉縣.md "wikilink")[船橋市的非官方](../Page/船橋市.md "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，在暗室猜謎中擔任謎題。
 
 ### 播出日期及內容
 
@@ -90,8 +90,8 @@
   - 主持人
       - [猥瑣岡田](../Page/猥瑣岡田.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")（標示「\*」記號者為出現在片頭影片中、掛名主要演出名單的成員）
-      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")\*、[生田繪梨花](../Page/生田繪梨花.md "wikilink")\*、[生駒里奈](../Page/生駒里奈.md "wikilink")\*、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")\*、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")\*、[川後陽菜](../Page/川後陽菜.md "wikilink")\*、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")\*、[齋藤千春](../Page/齋藤千春.md "wikilink")（）、[齊藤優里](https://zh.wikipedia.org/wiki/齊藤優里 "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")\*、[白石麻衣](../Page/白石麻衣.md "wikilink")\*、[高山一實](../Page/高山一實.md "wikilink")\*、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")\*、[西野七瀨](../Page/西野七瀨.md "wikilink")\*、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")\*、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")\*、[星野南](../Page/星野南.md "wikilink")（）、[松村沙友理](../Page/松村沙友理.md "wikilink")\*、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")\*、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")（）
-      - 2期生：[伊藤卡琳](https://zh.wikipedia.org/wiki/伊藤卡琳 "wikilink")（）、伊藤純奈、[北野日奈子](https://zh.wikipedia.org/wiki/北野日奈子 "wikilink")、佐佐木琴子、新內真衣、鈴木絢音、寺田蘭世、[堀未央奈](https://zh.wikipedia.org/wiki/堀未央奈 "wikilink")\*、西川七海、矢田-{里}-沙子、山崎-{怜}-奈、米德京花、渡邊米麗愛（）
+      - 1期生：[秋元真夏](../Page/秋元真夏.md "wikilink")\*、[生田繪梨花](../Page/生田繪梨花.md "wikilink")\*、[生駒里奈](../Page/生駒里奈.md "wikilink")\*、[伊藤寧寧](../Page/伊藤寧寧.md "wikilink")、[伊藤萬理華](../Page/伊藤萬理華.md "wikilink")\*、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")\*、[川後陽菜](../Page/川後陽菜.md "wikilink")\*、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")\*、[齋藤千春](../Page/齋藤千春.md "wikilink")（）、[齊藤優里](../Page/齊藤優里.md "wikilink")、[櫻井玲香](../Page/櫻井玲香.md "wikilink")\*、[白石麻衣](../Page/白石麻衣.md "wikilink")\*、[高山一實](../Page/高山一實.md "wikilink")\*、[永島聖羅](../Page/永島聖羅.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[中元日芽香](../Page/中元日芽香.md "wikilink")\*、[西野七瀨](../Page/西野七瀨.md "wikilink")\*、[能條愛未](../Page/能條愛未.md "wikilink")、[畠中清羅](../Page/畠中清羅.md "wikilink")、[橋本奈奈未](../Page/橋本奈奈未.md "wikilink")\*、[樋口日奈](../Page/樋口日奈.md "wikilink")、[深川麻衣](../Page/深川麻衣.md "wikilink")\*、[星野南](../Page/星野南.md "wikilink")（）、[松村沙友理](../Page/松村沙友理.md "wikilink")\*、[大和里菜](../Page/大和里菜.md "wikilink")、[若月佑美](../Page/若月佑美.md "wikilink")\*、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")（）
+      - 2期生：[伊藤卡琳](../Page/伊藤卡琳.md "wikilink")（）、伊藤純奈、[北野日奈子](../Page/北野日奈子.md "wikilink")、佐佐木琴子、新內真衣、鈴木絢音、寺田蘭世、[堀未央奈](../Page/堀未央奈.md "wikilink")\*、西川七海、矢田-{里}-沙子、山崎-{怜}-奈、米德京花、渡邊米麗愛（）
   - 其他
       - （日本電視台主播）：在第1集播出時擔任天之聲（幕後旁白），並在第2、第5與第6集中擔任旁白解說。
 
@@ -831,11 +831,11 @@ ROOM的完整版。
 ## 主題曲、插曲
 
   - NOGIBINGO\!開場曲：《[Girls' Rule](../Page/Girls'_Rule.md "wikilink")》
-  - NOGIBINGO\!2開場曲：《[髮夾](https://zh.wikipedia.org/wiki/髮夾_\(單曲\) "wikilink")》（2014年1月11日
-    - 1月25日、2月8日 - 3月22日）、《[Girls'
+  - NOGIBINGO\!2開場曲：《[髮夾](../Page/髮夾_\(單曲\).md "wikilink")》（2014年1月11日 -
+    1月25日、2月8日 - 3月22日）、《[Girls'
     Rule](../Page/Girls'_Rule.md "wikilink")》（2014年2月1日）、《[ultra
-    soul](../Page/ultra_soul.md "wikilink")》（[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")，2014年3月29日）\[19\]
-  - NOGIBINGO\!3開場曲：《[第幾次的藍天？](https://zh.wikipedia.org/wiki/第幾次的藍天？ "wikilink")》
+    soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")》（[猥瑣岡田](../Page/猥瑣岡田.md "wikilink")，2014年3月29日）\[19\]
+  - NOGIBINGO\!3開場曲：《[第幾次的藍天？](../Page/第幾次的藍天？.md "wikilink")》
 
 ## 內部連結
 

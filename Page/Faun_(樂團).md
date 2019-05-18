@@ -43,7 +43,7 @@ paganfolk.)
     歌唱、、、[魯特琴](../Page/魯特琴.md "wikilink")、[吉他](../Page/吉他.md "wikilink")、[豎琴](../Page/豎琴.md "wikilink")、[口簧琴](../Page/口簧琴.md "wikilink")（1999
     -）
   - Fiona Rüggeberg -
-    歌唱、[直笛](../Page/直笛.md "wikilink")、[長笛](https://zh.wikipedia.org/wiki/長笛 "wikilink")、、[風笛](https://zh.wikipedia.org/wiki/風笛 "wikilink")、、、[冬不拉](https://zh.wikipedia.org/wiki/冬不拉 "wikilink")、、[烏德琴](../Page/烏德琴.md "wikilink")、[簧風琴](https://zh.wikipedia.org/wiki/簧風琴 "wikilink")、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")（2001
+    歌唱、[直笛](../Page/直笛.md "wikilink")、[長笛](https://zh.wikipedia.org/wiki/長笛 "wikilink")、、[風笛](https://zh.wikipedia.org/wiki/風笛 "wikilink")、、、[冬不拉](../Page/冬不拉.md "wikilink")、、[烏德琴](../Page/烏德琴.md "wikilink")、[簧風琴](https://zh.wikipedia.org/wiki/簧風琴 "wikilink")、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")（2001
     -）
   - Rüdiger Maul - [鼓](../Page/鼓.md "wikilink")、擊樂（2001 -）
   - Niel Mitra -

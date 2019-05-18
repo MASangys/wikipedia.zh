@@ -17,9 +17,9 @@ In Yellow Submarine》。
 | ---------------- | --------------------------------------------------- |
 | Happy Hours      | [袁劍偉](https://zh.wikipedia.org/wiki/袁劍偉 "wikilink") |
 | 再見我的愛人           | [林錦和](https://zh.wikipedia.org/wiki/林錦和 "wikilink") |
-| 防空洞              | [陳宏一](https://zh.wikipedia.org/wiki/陳宏一 "wikilink") |
+| 防空洞              | [陳宏一](../Page/陳宏一.md "wikilink")                    |
 | Yellow Submarine | [鄺盛](https://zh.wikipedia.org/wiki/鄺盛 "wikilink")   |
-| 變得堅強             | [袁緒虎](https://zh.wikipedia.org/wiki/袁緒虎 "wikilink") |
+| 變得堅強             | [袁緒虎](../Page/袁緒虎.md "wikilink")                    |
 | 浪花               | 林錦和                                                 |
 
 [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

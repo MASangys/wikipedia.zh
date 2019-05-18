@@ -136,10 +136,9 @@ MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分�
 
 :; 主題曲「」
 
-:: 塡詞・作曲・編曲：[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")
+:: 塡詞・作曲・編曲：[大石昌良](../Page/大石昌良.md "wikilink")
 
-:: 主唱：[Earth Star
-Dream](https://zh.wikipedia.org/wiki/Earth_Star_Dream "wikilink")（）\[14\]
+:: 主唱：[Earth Star Dream](../Page/Earth_Star_Dream.md "wikilink")（）\[14\]
 
 :; 片尾曲「」
 

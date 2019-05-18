@@ -1,4 +1,4 @@
-**AngularJS**是一款由[Google维护的](../Page/Google.md "wikilink")[开源](../Page/开源软件.md "wikilink")[JavaScript函式庫](../Page/JavaScript.md "wikilink")，用來協助[單一頁面應用程式運行](https://zh.wikipedia.org/wiki/单页应用 "wikilink")。它的目标是透過[MVC模式](https://zh.wikipedia.org/wiki/MVC模式 "wikilink")（MVC）功能增强基于浏览器的应用，使开发和测试变得更加容易。在版本2大改（最突出的改变的全面使用**[TypeScript](../Page/TypeScript.md "wikilink")**）之后改名**Angular**，第N版以Angular
+**AngularJS**是一款由[Google维护的](../Page/Google.md "wikilink")[开源](../Page/开源软件.md "wikilink")[JavaScript函式庫](../Page/JavaScript.md "wikilink")，用來協助[單一頁面應用程式運行](../Page/单页应用.md "wikilink")。它的目标是透過[MVC模式](https://zh.wikipedia.org/wiki/MVC模式 "wikilink")（MVC）功能增强基于浏览器的应用，使开发和测试变得更加容易。在版本2大改（最突出的改变的全面使用**[TypeScript](../Page/TypeScript.md "wikilink")**）之后改名**Angular**，第N版以Angular
 N的形式命名。
 
 函式庫讀取包含附加自定義（）的[HTML](../Page/HTML.md "wikilink")，遵從這些自定義屬性中的指令，並將頁面中的輸入或輸出與由JavaScript變量表示的模型綁定起來。這些JavaScript變量的值可以手工設置，或者從靜態或動態[JSON資源中獲取](../Page/JSON.md "wikilink")。

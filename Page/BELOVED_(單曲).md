@@ -21,7 +21,7 @@
   - [BELOVED](https://zh.wikipedia.org/wiki/BELOVED "wikilink")（專輯版本）
   - [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")
   - [DRIVE-GLAY complete
-    BEST](https://zh.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")
+    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
   - [rare collectives
     vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
   - [-Ballad Best Singles- WHITE
@@ -29,7 +29,7 @@
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF
     GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")
   - [rare collectives
-    vol.3](../Page/rare_collectives_vol.3.md "wikilink")（LIVE版本）
+    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（LIVE版本）
 
 [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
 [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")

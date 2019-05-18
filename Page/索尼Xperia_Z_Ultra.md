@@ -34,10 +34,9 @@ Xperia Z Ultra side.jpg|Sony Xperia Z Ultra側面
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
   - [Xperia](../Page/Xperia.md "wikilink")
   - [Sony Xperia Z](../Page/Sony_Xperia_Z.md "wikilink")
-  - [Sony Xperia
-    Z1](https://zh.wikipedia.org/wiki/Sony_Xperia_Z1 "wikilink")
+  - [Sony Xperia Z1](../Page/Sony_Xperia_Z1.md "wikilink")
   - [Sony Xperia Z1
-    Compact](https://zh.wikipedia.org/wiki/Sony_Xperia_Z1_Compact "wikilink")
+    Compact](../Page/Sony_Xperia_Z1_Compact.md "wikilink")
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 [Category:平板手機](https://zh.wikipedia.org/wiki/Category:平板手機 "wikilink")

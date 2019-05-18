@@ -51,7 +51,7 @@ Oricon公信榜では初登場2位を獲得。今作で自身の同榜单の最�
 ## 翻唱歌曲
 
   - [李樂兒](https://zh.wikipedia.org/wiki/李樂兒 "wikilink")
-    [匡智屯門晨輝學校唱](https://zh.wikipedia.org/wiki/匡智屯門晨輝學校 "wikilink")[卡啦OK](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")
+    [匡智屯門晨輝學校唱](../Page/匡智屯門晨輝學校.md "wikilink")[卡啦OK](https://zh.wikipedia.org/wiki/卡啦OK "wikilink")
     Reason 2017年12月15日。
 
 ## 注释

@@ -38,8 +38,7 @@ Hintjens宣布iMatix将退出AMQP工作组](https://zh.wikipedia.org/wiki/Pieter
 2011年，[欧洲核子研究组织](https://zh.wikipedia.org/wiki/欧洲核子研究组织 "wikilink")
 （CERN）调查了统一用于操作CERN加速器的中间件解决方案的方式，欧洲核子研究组织的研究比较了[CORBA](../Page/CORBA.md "wikilink")，[Ice](https://zh.wikipedia.org/wiki/Internet_Communications_Engine "wikilink")，[Thrift](https://zh.wikipedia.org/wiki/Apache_Thrift "wikilink")，ZeroMQ,
 YAMI4，[RTI和](https://zh.wikipedia.org/wiki/Run-Time_Infrastructure_\(simulation\) "wikilink")
-[Qpid](https://zh.wikipedia.org/wiki/Apache_Qpid "wikilink") (AMQP)
-，ZeroMQ得到了最高的分数。\[7\]
+[Qpid](../Page/Apache_Qpid.md "wikilink") (AMQP) ，ZeroMQ得到了最高的分数。\[7\]
 
 2012年3月，由于在项目控制权上的分歧，一些ZeroMQ的最初开发者建立了ZeroMQ的[分支](https://zh.wikipedia.org/wiki/复刻 "wikilink")，Crossroads
 I/O. Crossroads

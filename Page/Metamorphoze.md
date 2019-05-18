@@ -4,7 +4,7 @@
 ## 概要
 
 本曲曾被作为[松竹系劇場版动画电影](../Page/松竹.md "wikilink")《[机动战士Z GUNDAM：A New
-Translation](https://zh.wikipedia.org/wiki/機動戰士Z_GUNDAM劇場版 "wikilink")》系列（新译作三部曲）第1作《機動戦士Ζガンダム
+Translation](../Page/機動戰士Z_GUNDAM劇場版.md "wikilink")》系列（新译作三部曲）第1作《機動戦士Ζガンダム
 A New Translation
 -星を継ぐ者-》的片头主题曲\[3\]。作为[GUNDAM系列作品的狂热爱好者的Gackt](../Page/GUNDAM系列作品.md "wikilink")，因受友人[富野由悠季的直接请求而创作](../Page/富野由悠季.md "wikilink")。[同捆曲](../Page/A面與B面.md "wikilink")《因为你在等着我（君が待っているから）》出自专辑《》的single-cut
 。此外，《因为你在等着我》也被用作同一电影的片尾曲\[4\]。

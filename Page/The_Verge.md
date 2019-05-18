@@ -11,7 +11,7 @@ Vergecast*赢得“最佳播客”，最好的视觉设计，最佳消费电子�
   -
   - *[Engadget](../Page/Engadget.md "wikilink")*
 
-  - *[Polygon](https://zh.wikipedia.org/wiki/Polygon "wikilink")*
+  - *[Polygon](../Page/Polygon.md "wikilink")*
 
 ## 参考资料
 

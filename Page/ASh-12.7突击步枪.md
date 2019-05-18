@@ -1,4 +1,4 @@
-**ASh-12.7**（；全寫：，意為：12.7毫米自動突擊步槍）是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](https://zh.wikipedia.org/wiki/俄联邦仪器设计局 "wikilink")（TsKIB
+**ASh-12.7**（；全寫：，意為：12.7毫米自動突擊步槍）是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](../Page/俄联邦仪器设计局.md "wikilink")（TsKIB
 SOO）槍械設計師在[俄羅斯聯邦安全局的要求下研制](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")、（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern
 Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）生产的大[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，是一種[近身距離作戰及](../Page/近身距離作戰.md "wikilink")[城市作戰專用的武器](../Page/城鎮戰.md "wikilink")，发射俄羅斯口徑[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]該武器的研製目的是給諸如俄羅斯聯邦安全局這些在城市環境戰鬥的[特種部隊單位對付全副武裝及有組織](../Page/特種部隊.md "wikilink")[黑社會和](../Page/黑社會.md "wikilink")[恐怖分子勢力時使用](../Page/恐怖主义.md "wikilink")。該槍在2011年底亮相，據說首批ASh-12.7已經被送到FSB進行試用。
 
@@ -10,7 +10,7 @@ ASh-12.7是為了高風險的執法行動而研製的[近身距離作戰及](../
 
 ASh-12.7本身採用[犢牛式佈局](../Page/犢牛式_\(槍械\).md "wikilink")，具有[衝壓](../Page/衝壓.md "wikilink")[钢製](../Page/钢.md "wikilink")[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[聚合物槍身及](../Page/聚合物.md "wikilink")[槍托](../Page/槍托.md "wikilink")。據估計ASh-12.7是[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")，[滾轉式槍機閉鎖及開鎖](../Page/滾轉式槍機.md "wikilink")。射擊控制裝置包括兩個獨立的槓桿，分別是位於後方的槍托上的[快慢機](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")（半自動／全自動）和上方的手動保險（保險／射擊），而且兩側都有操作開關。
 
-ASh-12.7基本上有兩種型號。第一個版本具有整體式提把配置，內置後方的屈光度[照門和前方的折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")。提把上安裝了全提把長度的[MIL-STD-1913戰術導軌以便安裝各種光學瞄準具](../Page/皮卡汀尼導軌.md "wikilink")。一些照片上觀察到的另一個版本具有“平頂”配置，以[機匣頂部設有的全機匣頂部長度的MIL](https://zh.wikipedia.org/wiki/機匣 "wikilink")-STD-1913戰術導軌取代了提把，而[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星就裝在折疊式基座上](https://zh.wikipedia.org/wiki/照準器 "wikilink")。其他變化包括一條設於前托底部的MIL-STD-1913戰術導軌或40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。槍口裝置包括一般只在[反器材步槍上使用的大開口](../Page/反器材步槍.md "wikilink")、雙擋板型[槍口制退器或可快速拆卸式](../Page/砲口制動器.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。\[3\]
+ASh-12.7基本上有兩種型號。第一個版本具有整體式提把配置，內置後方的屈光度[照門和前方的折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")。提把上安裝了全提把長度的[MIL-STD-1913戰術導軌以便安裝各種光學瞄準具](../Page/皮卡汀尼導軌.md "wikilink")。一些照片上觀察到的另一個版本具有“平頂”配置，以[機匣頂部設有的全機匣頂部長度的MIL](https://zh.wikipedia.org/wiki/機匣 "wikilink")-STD-1913戰術導軌取代了提把，而[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星就裝在折疊式基座上](../Page/照準器.md "wikilink")。其他變化包括一條設於前托底部的MIL-STD-1913戰術導軌或40毫米[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。槍口裝置包括一般只在[反器材步槍上使用的大開口](../Page/反器材步槍.md "wikilink")、雙擋板型[槍口制退器或可快速拆卸式](../Page/砲口制動器.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。\[3\]
 
 ## 彈藥
 
@@ -25,7 +25,7 @@ ASh-12.7基本上有兩種型號。第一個版本具有整體式提把配置，
   - [OTs-14](../Page/OTs-14突击步枪.md "wikilink")
   - [Saritch 308](../Page/Saritch_308戰鬥步槍.md "wikilink")
   - [VKS](https://zh.wikipedia.org/wiki/VKS狙击步枪 "wikilink")
-  - [RSh-12.7](https://zh.wikipedia.org/wiki/RSh-12.7左轮手枪 "wikilink")
+  - [RSh-12.7](../Page/RSh-12.7左轮手枪.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 
 ## 資料來源

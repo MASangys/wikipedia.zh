@@ -12,7 +12,7 @@ train of BJS Line 8, 2012.jpg|列车车门 Image:Seats in a train of BJS Line 8,
 
 ## 列车运送过程
 
-列车首先从[南车四方出发](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，经[胶济铁路](https://zh.wikipedia.org/wiki/胶济铁路 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰双铁路到达](../Page/丰双铁路.md "wikilink")[小红门站](https://zh.wikipedia.org/wiki/小红门站_\(铁路\) "wikilink")，之后通过联络线进入[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线进入与](../Page/北京地铁5号线.md "wikilink")[10号线的联络线后](../Page/北京地铁10号线.md "wikilink")，到达[10号线](../Page/北京地铁10号线.md "wikilink")。通过[10号线进入与](../Page/北京地铁10号线.md "wikilink")[8号线的联络线后](../Page/北京地铁8号线.md "wikilink")，最后进入到[8号线](../Page/北京地铁8号线.md "wikilink")，运送至[平西府车辆段](../Page/平西府车辆段.md "wikilink")。
+列车首先从[南车四方出发](https://zh.wikipedia.org/wiki/南车四方 "wikilink")，经[胶济铁路](https://zh.wikipedia.org/wiki/胶济铁路 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")、[丰双铁路到达](../Page/丰双铁路.md "wikilink")[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线进入[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后通过[5号线进入与](../Page/北京地铁5号线.md "wikilink")[10号线的联络线后](../Page/北京地铁10号线.md "wikilink")，到达[10号线](../Page/北京地铁10号线.md "wikilink")。通过[10号线进入与](../Page/北京地铁10号线.md "wikilink")[8号线的联络线后](../Page/北京地铁8号线.md "wikilink")，最后进入到[8号线](../Page/北京地铁8号线.md "wikilink")，运送至[平西府车辆段](../Page/平西府车辆段.md "wikilink")。
 
 ## 参考资料
 

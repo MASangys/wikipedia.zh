@@ -769,7 +769,7 @@
 ## 製作人員
 
   - 原作、動畫製作：[日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 監督：[松尾衡](https://zh.wikipedia.org/wiki/松尾衡 "wikilink")
+  - 監督：[松尾衡](../Page/松尾衡.md "wikilink")
   - 系列構成：[大河內一樓](../Page/大河內一樓.md "wikilink")
   - 副系列構成：三木一馬、熊剛
   - 角色原案：[星野桂](https://zh.wikipedia.org/wiki/星野桂 "wikilink")
@@ -802,7 +802,7 @@
 :; 片頭曲
 
 ::;「[Preserved
-Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－第12話）\[33\]
+Roses](../Page/Preserved_Roses.md "wikilink")」（第2話－第12話）\[33\]
 
   -
 
@@ -819,7 +819,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
   -
 
       -
-        作詞：atsuko，作曲：atsuko、KATSU，編曲：KATSU，主唱：[angela](../Page/angela.md "wikilink")（[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")）
+        作詞：atsuko，作曲：atsuko、KATSU，編曲：KATSU，主唱：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")（[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")）
 
 ::; 「」（第7話－第12話）\[35\]
 
@@ -844,7 +844,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
 
       -
         作詞：[savage
-        genius](../Page/savage_genius.md "wikilink")，作曲：manzo，編曲：菊地創，主唱：流木野咲（[戶松遙](../Page/戶松遙.md "wikilink")）
+        genius](https://zh.wikipedia.org/wiki/savage_genius "wikilink")，作曲：manzo，編曲：菊地創，主唱：流木野咲（[戶松遙](../Page/戶松遙.md "wikilink")）
 
 ::; 「Can you save my heart？」（第6話）
 
@@ -866,8 +866,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
 
 :; 片頭曲
 
-::;
-「[革命Dualism](https://zh.wikipedia.org/wiki/革命Dualism "wikilink")」（第14話－第24話）\[36\]
+::; 「[革命Dualism](../Page/革命Dualism.md "wikilink")」（第14話－第24話）\[36\]
 
   -
 
@@ -878,8 +877,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
 
 :; 片尾曲
 
-::;
-「[REALISM](https://zh.wikipedia.org/wiki/REALISM "wikilink")」（第13話－第18話）
+::; 「[REALISM](../Page/REALISM.md "wikilink")」（第13話－第18話）
 
   -
 
@@ -947,7 +945,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
 <td></td>
 <td><p>革命的轉校生</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大河内一楼" title="wikilink">大河内一楼</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
 <td><p>鈴木卓也</p></td>
 <td><p>鈴木龍也</p></td>
 <td></td>
@@ -1531,7 +1529,7 @@ Roses](https://zh.wikipedia.org/wiki/Preserved_Roses "wikilink")」（第2話－
 26. 卡蜜拉（Carmilla）的出处为爱尔兰恐怖小说作家乔瑟夫·雪利登·拉·芬努1872年出版的小说《女吸血鬼卡蜜拉》
 
 27.
-28. 《[彼得潘](https://zh.wikipedia.org/wiki/彼得潘 "wikilink")》中的岛屿，在那里的人们永远不会长大
+28. 《[彼得潘](../Page/彼得潘.md "wikilink")》中的岛屿，在那里的人们永远不会长大
 
 29. 外传漫画《背叛的烙印》第6话
 

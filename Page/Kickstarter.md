@@ -13,7 +13,7 @@ Square）风险投资公司和[天使投资者所投资资金在内的超过](..
 
 直到2010年11月前，担任该网站的[CTO](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")，而之后他加入了。\[11\]Lance·常春藤自网站推出以来都进行着网站的首席开发工作。\[12\]
 在2013年2月14日，Kickstarter推出了名叫Kickstarter for
-[iPhone的](../Page/iPhone.md "wikilink")[iOS版](../Page/iOS.md "wikilink")[行动应用](https://zh.wikipedia.org/wiki/流動軟體應用程式 "wikilink")。\[13\]该应用程式的目的是帮助用户建立和备份项目，属于Kickstarter发布的首款官方手机应用程式。\[14\]
+[iPhone的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[行动应用](https://zh.wikipedia.org/wiki/流動軟體應用程式 "wikilink")。\[13\]该应用程式的目的是帮助用户建立和备份项目，属于Kickstarter发布的首款官方手机应用程式。\[14\]
 
 2014年，Kickstarter获得[B
 Corp认证](https://zh.wikipedia.org/wiki/B_Corp "wikilink")\[15\]。
@@ -83,7 +83,7 @@ Jr.](https://zh.wikipedia.org/wiki/Ed_Begley,_Jr. "wikilink")\[59\]、\[60\]、\
 Duplass](https://zh.wikipedia.org/wiki/Mark_Duplass "wikilink")\[63\]、[Matthew
 Modine](https://zh.wikipedia.org/wiki/Matthew_Modine "wikilink")\[64\]
 、[Paul
-Schrader](https://zh.wikipedia.org/wiki/Paul_Schrader "wikilink")\[65\]、\[66\]、[乌比·戈德堡](https://zh.wikipedia.org/wiki/乌比·戈德堡 "wikilink")\[67\]以及；作家[丹·哈蒙](../Page/丹·哈蒙.md "wikilink")\[68\]、[凯文·凯利](../Page/凯文·凯利.md "wikilink")\[69\]、[尼尔·斯蒂芬森](../Page/尼尔·斯蒂芬森.md "wikilink")\[70\]以及\[71\]；摄影师[斯潘塞·图尼克](https://zh.wikipedia.org/wiki/斯潘塞·图尼克 "wikilink")\[72\]与\[73\]；游戏开发者[提姆·謝弗](https://zh.wikipedia.org/wiki/提姆·謝弗 "wikilink")\[74\]与\[75\]；设计师[施德明](../Page/施德明.md "wikilink")\[76\]；动画制作者；星空奇遇记演员[John
+Schrader](https://zh.wikipedia.org/wiki/Paul_Schrader "wikilink")\[65\]、\[66\]、[乌比·戈德堡](https://zh.wikipedia.org/wiki/乌比·戈德堡 "wikilink")\[67\]以及；作家[丹·哈蒙](../Page/丹·哈蒙.md "wikilink")\[68\]、[凯文·凯利](../Page/凯文·凯利.md "wikilink")\[69\]、[尼尔·斯蒂芬森](../Page/尼尔·斯蒂芬森.md "wikilink")\[70\]以及\[71\]；摄影师[斯潘塞·图尼克](https://zh.wikipedia.org/wiki/斯潘塞·图尼克 "wikilink")\[72\]与\[73\]；游戏开发者[提姆·謝弗](../Page/提姆·謝弗.md "wikilink")\[74\]与\[75\]；设计师[施德明](../Page/施德明.md "wikilink")\[76\]；动画制作者；星空奇遇记演员[John
 de
 Lancie和喜剧演员](https://zh.wikipedia.org/wiki/John_de_Lancie "wikilink")。\[77\]
 
@@ -117,7 +117,7 @@ Lancie和喜剧演员](https://zh.wikipedia.org/wiki/John_de_Lancie "wikilink")�
 <tr class="even">
 <td><p>2</p></td>
 <td><p>8,596,474</p></td>
-<td><p><a href="../Page/OUYA.md" title="wikilink">OUYA</a>：一个基于Android的电子游戏主机</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/OUYA" title="wikilink">OUYA</a>：一个基于Android的电子游戏主机</p></td>
 <td><p>Ouya Inc.</p></td>
 <td><p>电视游戏</p></td>
 <td><p>905</p></td>

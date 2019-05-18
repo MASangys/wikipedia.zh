@@ -28,7 +28,7 @@
 | [吳孟達](../Page/吳孟達.md "wikilink")                         | 黃正國                                                                                                                             |                |                      |
 | [林聰](https://zh.wikipedia.org/wiki/林聰_\(演員\) "wikilink") | [楊捷康](https://zh.wikipedia.org/wiki/楊捷康 "wikilink")                                                                             |                | 高英培手下                |
 | [良鳴](../Page/良鳴.md "wikilink")                           | [楊捷康](https://zh.wikipedia.org/wiki/楊捷康 "wikilink")                                                                             | 陳伯             | 畫家                   |
-| [王正方](https://zh.wikipedia.org/wiki/王正方 "wikilink")      | [盧雄](../Page/盧雄.md "wikilink")                                                                                                  | 阿森             | 神父，前黑道中人             |
+| [王正方](../Page/王正方.md "wikilink")                         | [盧雄](../Page/盧雄.md "wikilink")                                                                                                  | 阿森             | 神父，前黑道中人             |
 
 ## 製作人員
 

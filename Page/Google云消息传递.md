@@ -7,7 +7,7 @@ I/O
 Google云端推送（GCM）取代了beta版本的（简称**C2DM**）。\[5\]免费服务可以发送一个轻量级的从服务器获取的新消息通知到Android应用程序。较大的消息可以发送有效载荷的数据为4
 KB\[6\]。
 
-该服务目前已被同公司的[Firebase云消息传递](https://zh.wikipedia.org/wiki/Firebase云消息传递 "wikilink")（FCM）取代。
+该服务目前已被同公司的[Firebase云消息传递](../Page/Firebase云消息传递.md "wikilink")（FCM）取代。
 
 ## 非官方备选方案
 
@@ -15,11 +15,11 @@ KB\[6\]。
 
   - 使用[XMPP协议](https://zh.wikipedia.org/wiki/XMPP "wikilink")（Openfire +
     Spark + Smack）
-  - 使用[MQTT协议](https://zh.wikipedia.org/wiki/MQTT "wikilink")
+  - 使用[MQTT协议](../Page/MQTT.md "wikilink")
 
 ## 参见
 
-  - [Firebase云消息传递](https://zh.wikipedia.org/wiki/Firebase云消息传递 "wikilink")
+  - [Firebase云消息传递](../Page/Firebase云消息传递.md "wikilink")
   - [苹果推送通知服务](https://zh.wikipedia.org/wiki/苹果推送通知服务 "wikilink")
   - [统一推送联盟](https://zh.wikipedia.org/wiki/统一推送联盟 "wikilink")（中国）
 

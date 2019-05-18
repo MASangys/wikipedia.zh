@@ -40,7 +40,7 @@
   -
 ### deep
 
-該廠牌拍攝的系列多為[虐恋](../Page/虐恋.md "wikilink")、[露天性爱等相對比較刺激的題材](https://zh.wikipedia.org/wiki/露天性爱 "wikilink")。
+該廠牌拍攝的系列多為[虐恋](../Page/虐恋.md "wikilink")、[露天性爱等相對比較刺激的題材](../Page/露天性爱.md "wikilink")。
 
 #### 主要系列
 

@@ -46,7 +46,7 @@ bug报告脚本的例子：
 
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
   - [二值原理](https://zh.wikipedia.org/wiki/二值原理 "wikilink")
-  - [IEFBR14](https://zh.wikipedia.org/wiki/IEFBR14 "wikilink")
+  - [IEFBR14](../Page/IEFBR14.md "wikilink")
 
 ## 参考
 

@@ -2,7 +2,7 @@
 -{zh-cn:**Google环聊**（）;zh-tw:**Google
 Hangouts**;}-是[Google的](../Page/Google.md "wikilink")[即时通讯和](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")[视频聊天应用](https://zh.wikipedia.org/wiki/视频聊天 "wikilink")，在2013年5月15日期间的[Google
 I/O发布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，取代[Google
-Talk](../Page/Google_Talk.md "wikilink")（Gtalk）。支持[Android](../Page/Android.md "wikilink")、[iOS以及](../Page/iOS.md "wikilink")[Chrome多平台](https://zh.wikipedia.org/wiki/Chrome "wikilink")，并在[Gmail](../Page/Gmail.md "wikilink")、[Google+中集成Google环聊网页版](../Page/Google+.md "wikilink")。
+Talk](../Page/Google_Talk.md "wikilink")（Gtalk）。支持[Android](../Page/Android.md "wikilink")、[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Chrome多平台](https://zh.wikipedia.org/wiki/Chrome "wikilink")，并在[Gmail](../Page/Gmail.md "wikilink")、[Google+中集成Google环聊网页版](../Page/Google+.md "wikilink")。
 
 Google环聊與[Gmail的消息在默认情况下可以被](../Page/Gmail.md "wikilink")[美國政府访问並監控](https://zh.wikipedia.org/wiki/美國政府 "wikilink")。\[1\]
 

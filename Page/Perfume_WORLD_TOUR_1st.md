@@ -24,9 +24,10 @@ DVD/Blu-ray同日發行\[3\]。
 4.  [Electro World](../Page/Electro_World.md "wikilink")
 5.  [Laser Beam (Album-mix)](../Page/JPN_\(Perfume專輯\).md "wikilink")
 6.  [Spending all my time](../Page/Spending_all_my_time.md "wikilink")
-7.  [love the world](../Page/love_the_world.md "wikilink")
+7.  [love the
+    world](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
 8.  [Butterfly](../Page/GAME_\(Perfume專輯\).md "wikilink")
-9.  [edge](../Page/love_the_world.md "wikilink")
+9.  [edge](https://zh.wikipedia.org/wiki/love_the_world "wikilink")
 10. [Secret Secret](../Page/GAME_\(Perfume專輯\).md "wikilink")
 11. [Dream Fighter](../Page/Dream_Fighter.md "wikilink")
 12. 「P.T.A.」單元

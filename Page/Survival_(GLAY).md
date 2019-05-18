@@ -2,7 +2,7 @@
 
 ## 簡介
 
-  - 到目前為止這張作品是[ORICON紀錄中銷售量最高的](../Page/ORICON.md "wikilink")[MV作品](https://zh.wikipedia.org/wiki/MV "wikilink")。
+  - 到目前為止這張作品是[ORICON紀錄中銷售量最高的](https://zh.wikipedia.org/wiki/ORICON "wikilink")[MV作品](https://zh.wikipedia.org/wiki/MV "wikilink")。
   - 雖然是以錄影帶形式推出單曲，但還是列入ORICON單曲榜的計算之內，之後像這種形式的作品就沒有列入單曲榜。
 
 ## 收錄影像
@@ -21,7 +21,7 @@
   - [HEAVY
     GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")（專輯版本）
   - [DRIVE-GLAY complete
-    BEST](https://zh.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")
+    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
   - [rare collectives
     vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF

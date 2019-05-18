@@ -48,7 +48,7 @@ f軌域從主量子數n=4時開始出現，由於主量子數不能小於4，因
 
 ## f軌域
 
-由於[d軌域與f軌域的能量非常接近](../Page/d軌域.md "wikilink")，因此有時會有f軌域還沒填滿但先填入了d軌域的情形，例如[釷會先在](https://zh.wikipedia.org/wiki/釷 "wikilink")[d軌域中填](../Page/d軌域.md "wikilink")2顆電子再繼續填f軌域。
+由於[d軌域與f軌域的能量非常接近](https://zh.wikipedia.org/wiki/d軌域 "wikilink")，因此有時會有f軌域還沒填滿但先填入了d軌域的情形，例如[釷會先在](https://zh.wikipedia.org/wiki/釷 "wikilink")[d軌域中填](https://zh.wikipedia.org/wiki/d軌域 "wikilink")2顆電子再繼續填f軌域。
 
 ## f區元素
 

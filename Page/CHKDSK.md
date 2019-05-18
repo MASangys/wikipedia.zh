@@ -13,12 +13,12 @@ Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink"
 | /c               | 仅随 [NTFS](../Page/NTFS.md "wikilink") 使用。跳过[文件夹结构中的周期检查](../Page/目录_\(文件系统\).md "wikilink")，减少运行 CHKDSK 所需的时间。                                                                                         |
 | /f               | 修复磁盘上的错误。必须锁定磁盘。如果 CHKDSK 无法锁定驱动器，会显示一条信息，询问用户是否希望在下次重新启动[计算机时检查该驱动器](https://zh.wikipedia.org/wiki/计算机 "wikilink")。                                                                                   |
 | /i               | 仅随 NTFS 使用。对索引项进行强度较小的检查，降低运行 CHKDSK 所需时间。                                                                                                                                                             |
-| /l\[:size\]      | 仅随 NTFS 使用。将[日志文件的大小更改为由用户输入的大小](https://zh.wikipedia.org/wiki/服务器日志 "wikilink")。如果省略该参数，输入 /l 则会显示当前日志文件的大小。                                                                                          |
+| /l\[:size\]      | 仅随 NTFS 使用。将[日志文件的大小更改为由用户输入的大小](../Page/服务器日志.md "wikilink")。如果省略该参数，输入 /l 则会显示当前日志文件的大小。                                                                                                             |
 | /p               | 即使驱动器不在 CHKDSK 的检查范围内，也执行彻底检查。该参数不会对驱动器做任何更改。                                                                                                                                                          |
 | /r               | 找到坏[扇区并恢复可读取的信息](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")。必须锁定磁盘。                                                                                                                                |
 | /v               | 磁盘检查时，显示每个目录下的[文件](../Page/文本文件.md "wikilink")。                                                                                                                                                        |
 | /x               | 仅随 NTFS 使用。如果必要，会首先强制卸载[卷](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该驱动器的所有打开[句柄都无效](../Page/句柄.md "wikilink")。该参数还包含了/f 的功能。                                                                    |
-| /b               | 仅随 NTFS 使用。用于重新评估该卷上的坏[簇](https://zh.wikipedia.org/wiki/簇 "wikilink")。                                                                                                                                 |
+| /b               | 仅随 NTFS 使用。用于重新评估该卷上的坏[簇](../Page/簇.md "wikilink")。                                                                                                                                                    |
 | /?               | 在[命令提示符中显示帮助](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")。                                                                                                                                         |
 
 \[1\] \[2\] \[3\]

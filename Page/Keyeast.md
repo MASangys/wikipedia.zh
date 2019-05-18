@@ -24,7 +24,7 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
     Asia
     Management](../Page/United_Asia_Management.md "wikilink")（簡稱UAM）超大型國際經理人公司。同年10月11日，UAM更與中國[華誼兄弟簽署戰略合作意向](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。\[6\]
   - 2012年8月26日，KEYEAST正式成立影視製作子公司Content K。
-  - 2014年4月，KEYEAST和中国[江苏卫视签署业务合作协议](../Page/江苏卫视.md "wikilink")，商定共同制作韩流节目《[带你看星星](https://zh.wikipedia.org/wiki/带你看星星 "wikilink")》，同年8月还和[搜狐集团签署战略合作及投资协议](../Page/搜狐.md "wikilink")，正式進軍中國市場。搜狐則以150億韓元的投資取得KEYEAST
+  - 2014年4月，KEYEAST和中国[江苏卫视签署业务合作协议](../Page/江苏卫视.md "wikilink")，商定共同制作韩流节目《[带你看星星](../Page/带你看星星.md "wikilink")》，同年8月还和[搜狐集团签署战略合作及投资协议](../Page/搜狐.md "wikilink")，正式進軍中國市場。搜狐則以150億韓元的投資取得KEYEAST
     6.4股份，成為繼裴勇浚後第二大股東。\[7\]\[8\]
   - 2014年6月，KEYEAST與日本子公司DA以195億韓元收購專門播放韓國電視劇及電視節目，在日本宣傳韓流文化的有線電視頻道KNTV。\[9\]
   - 2016年8月12日，KEYEAST與SM娛樂正式簽訂合約，宣佈為了構建在多領域事業上的合作，雙方將以戰略夥伴關係開始廣泛合作，未來兩大公司將共用雙方的藝人、IP及其他資源，在電視劇、電影、MCN、大眾頻道等方面，進行廣泛地合作，提高作品的行業競爭力。同時SM日本子公司也表示，決定將向KEYEAST子公司DA投資近130億韓元。\[10\]
@@ -51,7 +51,7 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
   - [金喜贊](https://zh.wikipedia.org/wiki/金喜贊 "wikilink")
   - [孫賢周](../Page/孫賢周.md "wikilink")
   - [禹棹奂](https://zh.wikipedia.org/wiki/禹棹奂 "wikilink")
-  - [印喬鎮](https://zh.wikipedia.org/wiki/印喬鎮 "wikilink")
+  - [印喬鎮](../Page/印喬鎮.md "wikilink")
   - [嚴泰雄](../Page/嚴泰雄.md "wikilink")
   - [尹亨烈](https://zh.wikipedia.org/wiki/尹亨烈 "wikilink")
 
@@ -59,14 +59,14 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
 
   - 金時恩
   - 金惠仁
-  - [文佳煐](https://zh.wikipedia.org/wiki/文佳煐 "wikilink")
+  - [文佳煐](../Page/文佳煐.md "wikilink")
   - [朴秀真](../Page/朴秀真.md "wikilink")
   - [蘇怡賢](../Page/蘇怡賢.md "wikilink")
   - [孫淡妃](../Page/孫淡妃.md "wikilink")
-  - [朴秀彬](https://zh.wikipedia.org/wiki/秀彬 "wikilink")（前[Dal★Shabet成員](../Page/Dal★Shabet.md "wikilink")）
+  - [朴秀彬](../Page/秀彬.md "wikilink")（前[Dal★Shabet成員](../Page/Dal★Shabet.md "wikilink")）
   - [鄭麗媛](../Page/鄭麗媛.md "wikilink")
   - 程海娜
-  - [趙宇麗](https://zh.wikipedia.org/wiki/趙宇麗 "wikilink")
+  - [趙宇麗](../Page/趙宇麗.md "wikilink")
   - 趙恩裕
   - [韓寶凜](../Page/韓寶凜.md "wikilink")
   - [韓藝瑟](../Page/韓藝瑟.md "wikilink")
@@ -105,10 +105,10 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
 ## 離開公司的藝人
 
   - [蘇志燮](../Page/蘇志燮.md "wikilink")
-  - [奉太奎](https://zh.wikipedia.org/wiki/奉太奎 "wikilink")
+  - [奉太奎](../Page/奉太奎.md "wikilink")
   - [黃倫碩](../Page/黃倫碩.md "wikilink")(煥熙)
   - [朴智彬](../Page/朴智彬.md "wikilink")
-  - [車道鎮](https://zh.wikipedia.org/wiki/車道鎮 "wikilink")
+  - [車道鎮](../Page/車道鎮.md "wikilink")
   - 姜垚焕
   - [崔江姬](../Page/崔江姬.md "wikilink")
   - [尹英兒](../Page/尹英兒.md "wikilink")
@@ -129,11 +129,11 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
   - [李世娜](../Page/李世娜.md "wikilink")
   - [趙安](../Page/趙安_\(韓國藝人\).md "wikilink")
   - 黃其天（I.D成員，加入前曾為 Twi-light
-    成員，退出後曾加入[Bigflo](https://zh.wikipedia.org/wiki/Bigflo "wikilink")）
-  - [TAG](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")（I.D成員，當時藝名為**永宅**，[Golden
-    Child成員](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")）
-  - [在錫](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")（I.D成員，當時藝名為**在浩**，前[Golden
-    Child成員](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")）
+    成員，退出後曾加入[Bigflo](../Page/Bigflo.md "wikilink")）
+  - [TAG](../Page/Golden_Child.md "wikilink")（I.D成員，當時藝名為**永宅**，[Golden
+    Child成員](../Page/Golden_Child.md "wikilink")）
+  - [在錫](../Page/Golden_Child.md "wikilink")（I.D成員，當時藝名為**在浩**，前[Golden
+    Child成員](../Page/Golden_Child.md "wikilink")）
   - [朴敘俊](../Page/朴敘俊.md "wikilink")
   - [安昭熙](../Page/安昭熙.md "wikilink")
   - [具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")
@@ -152,25 +152,23 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
 
   - 2012年：KBS《[嗚啦啦夫婦](../Page/嗚啦啦夫婦.md "wikilink")》
   - 2012年：KBS《[學校2013](../Page/學校2013.md "wikilink")》
-  - 2013年：KBS《[秘密](https://zh.wikipedia.org/wiki/秘密_\(2013年電視劇\) "wikilink")》
-  - 2014年：tvN《[急診男女](https://zh.wikipedia.org/wiki/急診男女 "wikilink")》
+  - 2013年：KBS《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》
+  - 2014年：tvN《[急診男女](../Page/急診男女.md "wikilink")》
   - 2014年：SBS《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》
-  - 2015年：Mnet,
-    tvN《[七顛八起具海拉](https://zh.wikipedia.org/wiki/七顛八起具海拉 "wikilink")》
-  - 2015年：MBC《[夜行書生](https://zh.wikipedia.org/wiki/夜行書生 "wikilink")》
+  - 2015年：Mnet, tvN《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》
+  - 2015年：MBC《[夜行書生](../Page/夜行書生.md "wikilink")》
   - 2015年：KBS《[無理的前進](../Page/無理的前進.md "wikilink")》
   - 2016年：tvN《[吹笛子的男人](../Page/吹笛子的男人.md "wikilink")》
   - 2016年：KBS《[住在我家的男人](../Page/住在我家的男人.md "wikilink")》
-  - 2017年：OCN《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》
-  - 2018年: JTBC
-    《[經常請吃飯的漂亮姐姐](https://zh.wikipedia.org/wiki/經常請吃飯的漂亮姐姐 "wikilink")》
-  - 2018年：OCN《[Voice2](https://zh.wikipedia.org/wiki/Voice2 "wikilink")》
+  - 2017年：OCN《[Voice](../Page/Voice.md "wikilink")》
+  - 2018年: JTBC 《[經常請吃飯的漂亮姐姐](../Page/經常請吃飯的漂亮姐姐.md "wikilink")》
+  - 2018年：OCN《[Voice2](../Page/Voice2.md "wikilink")》
 
 參與投資或製作的電影作品：
 
   - 2013年：《[美娜文具店](https://zh.wikipedia.org/wiki/美娜文具店 "wikilink")》(出品公司：Featured
     Entertainment，發行公司：Lotte Entertainment)
-  - 2013年：《[偉大的隱藏者](https://zh.wikipedia.org/wiki/偉大的隱藏者 "wikilink")》(出品公司：MCMC，發行公司：Showbox/Mediaplex,
+  - 2013年：《[偉大的隱藏者](../Page/偉大的隱藏者.md "wikilink")》(出品公司：MCMC，發行公司：Showbox/Mediaplex,
     Inc.)
   - 2016年：《[特別搜查：囚犯的信](https://zh.wikipedia.org/wiki/特別搜查：囚犯的信 "wikilink")》(Content
     K 首部製作電影\[14\])

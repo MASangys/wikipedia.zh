@@ -47,9 +47,9 @@ s區元素是指這些元素中具有最高能量的電子是填在s軌域上的
 
 ## 混成軌域
 
-s軌域可經[混成形成能量簡併的新軌域](../Page/混成軌域.md "wikilink")，例如[鈹原子](https://zh.wikipedia.org/wiki/鈹 "wikilink")，鈹原子在成鍵時一般採用sp雜化形式：處於[基態的鈹原子](https://zh.wikipedia.org/wiki/基態 "wikilink")（[電子排布式](https://zh.wikipedia.org/wiki/電子組態 "wikilink")：1s<sup>2</sup>2s<sup>2</sup>）的一個2s電子激發至一個空的2p軌道上，成為激發態（電子排布式：1s<sup>2</sup>2s<sup>1</sup>2p<sup>1</sup>）。然後，一個2s軌道再和上述填充了一個電子的2p軌道進行sp雜化，形成兩個[sp杂化軌道](../Page/sp杂化.md "wikilink")。\[2\]
+s軌域可經[混成形成能量簡併的新軌域](../Page/混成軌域.md "wikilink")，例如[鈹原子](https://zh.wikipedia.org/wiki/鈹 "wikilink")，鈹原子在成鍵時一般採用sp雜化形式：處於[基態的鈹原子](https://zh.wikipedia.org/wiki/基態 "wikilink")（[電子排布式](https://zh.wikipedia.org/wiki/電子組態 "wikilink")：1s<sup>2</sup>2s<sup>2</sup>）的一個2s電子激發至一個空的2p軌道上，成為激發態（電子排布式：1s<sup>2</sup>2s<sup>1</sup>2p<sup>1</sup>）。然後，一個2s軌道再和上述填充了一個電子的2p軌道進行sp雜化，形成兩個[sp杂化軌道](https://zh.wikipedia.org/wiki/sp杂化 "wikilink")。\[2\]
 
-除此之外，還可以形成[sp<sup>2</sup>混成軌域](../Page/sp2杂化.md "wikilink")，甚至能進一步與d軌域發稱混成[dsp<sup>2</sup>混成軌域](../Page/dsp2杂化.md "wikilink")。
+除此之外，還可以形成[sp<sup>2</sup>混成軌域](https://zh.wikipedia.org/wiki/sp2杂化 "wikilink")，甚至能進一步與d軌域發稱混成[dsp<sup>2</sup>混成軌域](https://zh.wikipedia.org/wiki/dsp2杂化 "wikilink")。
 
 ## 參見
 

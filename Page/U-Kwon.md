@@ -23,8 +23,7 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 ### 電視劇
 
   - 2018年 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Radio
-    Romance](https://zh.wikipedia.org/wiki/Radio_Romance "wikilink")》飾演
-    姜未雨（特別演出）
+    Romance](../Page/Radio_Romance.md "wikilink")》飾演 姜未雨（特別演出）
 
 ## 參考資料
 

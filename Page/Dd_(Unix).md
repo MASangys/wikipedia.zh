@@ -1,4 +1,4 @@
-**dd**是一个[Unix和](../Page/Unix.md "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[系统上的命令](../Page/操作系统.md "wikilink")，主要功能为转换和复制文件。\[1\]
+**dd**是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[系统上的命令](../Page/操作系统.md "wikilink")，主要功能为转换和复制文件。\[1\]
 
 在Unix上，硬件的设备驱动（如[硬盘](../Page/硬盘.md "wikilink")）和特殊[设备文件](../Page/设备文件系统.md "wikilink")（如[Dd_(Unix)//dev/zero和](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/zero "wikilink")[Dd_(Unix)//dev/random](https://zh.wikipedia.org/wiki/Dd_\(Unix\)/dev/random "wikilink")）就像普通文件一样，出现在文件系统中；只要在各自的驱动程序中实现了对应的功能，`dd`也可以读取自和/或写入到这些文件。这样，`dd`也可以用在备份硬件的[引导扇区](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")、取得一定数量的随机数据等任务中。`dd`程序也可以在复制时处理数据，例如转换[字节序](../Page/字节序.md "wikilink")、或在[ASCII与](../Page/ASCII.md "wikilink")[EBCDIC编码间互换](../Page/EBCDIC.md "wikilink")。\[2\]
 
@@ -31,7 +31,7 @@ Linux上GNU coreutils提供的变种没有描述运行结束时，`dd`输出到�
 
 ## 块大小
 
-[块是衡量一次读取](https://zh.wikipedia.org/wiki/块_\(数据存储\) "wikilink")、写入和转换[字节的单位](../Page/字节.md "wikilink")。命令行选项可以为输入/读取（`ibs`）和输出/写入（`obs`）指定一个不同的块大小，尽管块大小（`bs`）选项会覆盖`ibs`和`obs`选项。输入和输出的默认块大小为512字节（传统的磁盘块及POSIX规定的“块”大小）复制的`count`选项、读取的`skip`选项和写入的`seek`选项都是以块为单位。转换操作也受“转换块大小”（`cbs`）影响。
+[块是衡量一次读取](../Page/块_\(数据存储\).md "wikilink")、写入和转换[字节的单位](../Page/字节.md "wikilink")。命令行选项可以为输入/读取（`ibs`）和输出/写入（`obs`）指定一个不同的块大小，尽管块大小（`bs`）选项会覆盖`ibs`和`obs`选项。输入和输出的默认块大小为512字节（传统的磁盘块及POSIX规定的“块”大小）复制的`count`选项、读取的`skip`选项和写入的`seek`选项都是以块为单位。转换操作也受“转换块大小”（`cbs`）影响。
 
 在`dd`的一些用途中，块大小可能会影响表现。例如，当转换硬盘中数据时，较小的块大小通常会导致更多的字节被转换。发出许多小块的读取是一种开销的浪费，且可能会对执行性能有负面影响。较大的块大小可能会提高复制速度。但是，由于要复制的字节量是由bs×count给出的，因此不可能在一次`dd`命令中复制[素数个字节](../Page/素数.md "wikilink")，除非使用两个糟糕选项之一：`bs=N
 count=1`（消耗内存）或`bs=1
@@ -51,7 +51,7 @@ KiB[软盘的确切大小](../Page/软盘.md "wikilink")。
 
 `dd`可以在文件、设备、分区和卷之间复制数据。数据可以从其中任何地方输入或输出；但输出到分区时有重要差异。此外在传输过程中，数据可以用`conv`选项修改以适应介质。
 
-如果最后一个块有意外长度，试图使用[`cp`](../Page/cp_\(Unix\).md "wikilink")复制整个磁盘可能会忽略掉它；然而`dd`却可能成功。源和目标磁盘应该具有相同的大小。
+如果最后一个块有意外长度，试图使用[`cp`](https://zh.wikipedia.org/wiki/cp_\(Unix\) "wikilink")复制整个磁盘可能会忽略掉它；然而`dd`却可能成功。源和目标磁盘应该具有相同的大小。
 
 |                                                        |                                                                                                                     |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
@@ -125,14 +125,14 @@ dd if=/dev/zero of=/dev/sda bs=4k
 
 用零擦除磁盘会使它的数据无法被软件恢复。然而数据仍可能用[特殊的实验室技术恢复](https://zh.wikipedia.org/wiki/数据剩磁 "wikilink")。
 
-[shred程序提供了完成相同任务的替代方法](../Page/shred_\(Unix\).md "wikilink")，最后，目前许多Linux发行版还提供了一个精心制作的工具`wipe`\[8\]（做得“好”，如上面的Unix哲学），提供了更多方法擦除。
+[shred程序提供了完成相同任务的替代方法](https://zh.wikipedia.org/wiki/shred_\(Unix\) "wikilink")，最后，目前许多Linux发行版还提供了一个精心制作的工具`wipe`\[8\]（做得“好”，如上面的Unix哲学），提供了更多方法擦除。
 
 ### 数据恢复
 
 1984年，GNU
 `dd`开启了[开源软件](../Page/开源软件.md "wikilink")（OSS）[恢复数据](https://zh.wikipedia.org/wiki/数据恢复 "wikilink")、文件、驱动器和分区的历史。`dd`进程一次处理一个块，它的算法只是在用户界面显示运行状态。1999年10月，一个C语言的程序*[`dd_rescue`](http://www.garloff.de/kurt/linux/ddrescue/)*发布了。它的算法一次能处理两个块。但改进`dd_rescue`的数据恢复算法、2003年的shell脚本[`dd_rhelp`](http://www.kalysto.org/utilities/dd_rhelp/index.en.html)作者现在推荐[`GNU``
  ``ddrescue`](http://www.gnu.org/software/ddrescue/ddrescue.html)。\[9\]它是一个发布于2004年的C++程序，与大多数的Linux发行版一起发行。在开源软件中，GNU
-`ddrescue`有最先进的块大小变换算法。\[10\]（`ddrescue`和`dd_rescue`尽管名字相近，但却是不同的程序。因为如此，区分更为明确的备用名称也有使用；使用的名称有“addrescue”（freecode.com），“gddrescue”（[Debian包名](../Page/Debian.md "wikilink")）和“gnu_ddrescue”（[openSUSE包名](../Page/openSUSE.md "wikilink")）。）
+`ddrescue`有最先进的块大小变换算法。\[10\]（`ddrescue`和`dd_rescue`尽管名字相近，但却是不同的程序。因为如此，区分更为明确的备用名称也有使用；使用的名称有“addrescue”（freecode.com），“gddrescue”（[Debian包名](../Page/Debian.md "wikilink")）和“gnu_ddrescue”（[openSUSE包名](https://zh.wikipedia.org/wiki/openSUSE "wikilink")）。）
 
 GNU `ddrescue`既稳定又安全。\[11\]
 

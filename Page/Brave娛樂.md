@@ -4,7 +4,7 @@ Entertainment）是[韓國的藝人經紀及音樂製作公司](https://zh.wikip
 
 旗下藝人有[Electro
 Boyz](https://zh.wikipedia.org/wiki/Electro_Boyz "wikilink")、[Brave
-Girls](../Page/Brave_Girls.md "wikilink")、[Bigstar](../Page/Bigstar.md "wikilink")、[朴秀珍](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")、[金Samuel等等](https://zh.wikipedia.org/wiki/金Samuel "wikilink")。
+Girls](../Page/Brave_Girls.md "wikilink")、[Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink")、[朴秀珍](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")、[金Samuel等等](https://zh.wikipedia.org/wiki/金Samuel "wikilink")。
 
 ## 旗下藝人
 
@@ -13,7 +13,7 @@ Girls](../Page/Brave_Girls.md "wikilink")、[Bigstar](../Page/Bigstar.md "wikili
 | 2008 | [勇敢兄弟](../Page/勇敢兄弟.md "wikilink")                                    | 용감한 형제  | 代表、製作人 | —    | —           | —       | 公司創立人，2004至2008年間為[YG娛樂的製作人](../Page/YG娛樂.md "wikilink")\[1\]\[2\]\[3\]，本人曾發行音樂作品及演出綜藝節目。 |
 | 2010 | [Electro Boyz](https://zh.wikipedia.org/wiki/Electro_Boyz "wikilink") | 일렉트로보이즈 | 男團     | 3名   | TeamElectro | Maboos  |                                                                                           |
 | 2011 | [Brave Girls](../Page/Brave_Girls.md "wikilink")                      | 브레이브 걸스 | 女團     | 5人   | Fearless    | —       | 五人[韓國流行音樂組合](../Page/韓國流行音樂.md "wikilink")\[4\]                                           |
-| 2012 | [Bigstar](../Page/Bigstar.md "wikilink")                              | 빅스타     | 男團     | 5名   | Only One    | Feeldog |                                                                                           |
+| 2012 | [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink")           | 빅스타     | 男團     | 5名   | Only One    | Feeldog |                                                                                           |
 | 2014 | [朴秀珍](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")             | 박수진     | 女歌手    | Solo | —           | —       |                                                                                           |
 | 2017 | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")           | 김사무엘    | 男歌手    | Solo | Garnet      | —       |                                                                                           |
 |      |                                                                       |         |        |      |             |         |                                                                                           |

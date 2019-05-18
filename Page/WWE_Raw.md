@@ -8,7 +8,7 @@ Raw一次就播出三個小時。
 
 目前WWE Raw是世界摔角娛樂公司的三大重頭節目之一，其餘的兩個重頭節目分別是[SmackDown
 LIVE和](../Page/SmackDown_LIVE.md "wikilink")[WWE
-NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
+NXT](../Page/WWE_NXT.md "wikilink")。
 
 ## WWE Raw各國播出频道
 
@@ -128,7 +128,7 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ViuTVsix" title="wikilink">ViuTVsix</a></p></td>
+<td><p><a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -274,7 +274,7 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
 ### 腰帶持有者
 
   - [WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")
-      - [賽特·羅林斯](https://zh.wikipedia.org/wiki/賽特·羅林斯 "wikilink")
+      - [賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")
   - [WWE女子冠軍](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")
       - [Becky
         lynch](https://zh.wikipedia.org/wiki/Becky_lynch "wikilink")
@@ -284,7 +284,7 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
         Wilder](https://en.m.wikipedia.org/wiki/Dash_Wilder)和[Scott
         Dawson](https://en.m.wikipedia.org/wiki/Scott_Dawson_\(wrestler\))）
   - [WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")
-      - [芬恩·貝勒](https://zh.wikipedia.org/wiki/芬恩·貝勒 "wikilink")
+      - [芬恩·貝勒](../Page/芬恩·貝勒.md "wikilink")
 
 ### 男子選手
 
@@ -294,20 +294,20 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
   -
   - [布克·T](../Page/布克·T.md "wikilink")
 
-  - [布勞恩·史卓曼](https://zh.wikipedia.org/wiki/布勞恩·史卓曼 "wikilink")
+  - [布勞恩·史卓曼](../Page/布勞恩·史卓曼.md "wikilink")
 
-  - [布雷·外耶特](https://zh.wikipedia.org/wiki/布雷·外耶特 "wikilink")
+  - [布雷·外耶特](../Page/布雷·外耶特.md "wikilink")
 
   -
   -
-  - [迪恩·安布羅斯](https://zh.wikipedia.org/wiki/迪恩·安布羅斯 "wikilink")
+  - [迪恩·安布羅斯](../Page/迪恩·安布羅斯.md "wikilink")
 
   - [多夫·錫格勒](../Page/多夫·錫格勒.md "wikilink")
 
   -
-  - [埃利亞斯](https://zh.wikipedia.org/wiki/埃利亞斯_\(摔角手\) "wikilink")
+  - [埃利亞斯](../Page/埃利亞斯_\(摔角手\).md "wikilink")
 
-  - [Goldust](https://zh.wikipedia.org/wiki/達斯汀·羅茲 "wikilink")
+  - [Goldust](../Page/達斯汀·羅茲.md "wikilink")
 
   -
   - [希斯·史雷特](https://zh.wikipedia.org/wiki/希斯·史雷特 "wikilink")
@@ -323,10 +323,10 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
 
   -
   -
-  - [羅曼·瑞恩斯](https://zh.wikipedia.org/wiki/羅曼·瑞恩斯 "wikilink")
+  - [羅曼·瑞恩斯](../Page/羅曼·瑞恩斯.md "wikilink")
 
   -
-  - [賽特·羅林斯](https://zh.wikipedia.org/wiki/賽特·羅林斯 "wikilink")
+  - [賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")
 
   - [泰德斯·歐尼爾](https://zh.wikipedia.org/wiki/Titus_O'Neil "wikilink")
 
@@ -334,7 +334,7 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
 
 ### 女子選手
 
-  - [阿歷薩·布利斯](https://zh.wikipedia.org/wiki/阿歷薩·布利斯 "wikilink")
+  - [阿歷薩·布利斯](../Page/阿歷薩·布利斯.md "wikilink")
 
   -
   - [Bayley](https://en.m.wikipedia.org/wiki/Bayley_\(wrestler\))
@@ -343,17 +343,17 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
   -
   -
   -
-  - [娜塔莉雅](https://zh.wikipedia.org/wiki/娜塔莉雅 "wikilink")
+  - [娜塔莉雅](../Page/娜塔莉雅.md "wikilink")
 
   -
-  - [薩莎·班克斯](https://zh.wikipedia.org/wiki/薩莎·班克斯 "wikilink")
+  - [薩莎·班克斯](../Page/薩莎·班克斯.md "wikilink")
 
-  - [塔米娜](https://zh.wikipedia.org/wiki/塔米娜·史奴卡 "wikilink")
+  - [塔米娜](../Page/塔米娜·史奴卡.md "wikilink")
 
   -
 ### 團體組合
 
-  - （[波·達勒斯和](https://zh.wikipedia.org/wiki/波·達勒斯 "wikilink")[柯爾提斯·艾克賽爾](https://zh.wikipedia.org/wiki/柯爾提斯·艾克賽爾 "wikilink")）
+  - （[波·達勒斯和](https://zh.wikipedia.org/wiki/波·達勒斯 "wikilink")[柯爾提斯·艾克賽爾](../Page/柯爾提斯·艾克賽爾.md "wikilink")）
 
   - （和）
 
@@ -366,7 +366,7 @@ NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
   - （、和）
 
   - [The
-    Ascension](https://zh.wikipedia.org/wiki/The_Ascension "wikilink")（[瑞克·維克托和](https://zh.wikipedia.org/wiki/瑞克·維克托 "wikilink")[康納·歐布萊恩](https://zh.wikipedia.org/wiki/康納·歐布萊恩_\(摔角手\) "wikilink")）
+    Ascension](https://zh.wikipedia.org/wiki/The_Ascension "wikilink")（[瑞克·維克托和](https://zh.wikipedia.org/wiki/瑞克·維克托 "wikilink")[康納·歐布萊恩](../Page/康納·歐布萊恩_\(摔角手\).md "wikilink")）
 
   - （和）
 

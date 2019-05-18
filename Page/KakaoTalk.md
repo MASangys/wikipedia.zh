@@ -10,14 +10,14 @@ KakaoTaxi, KakaoAccount, KakaoMap, KakaoDriver, KakaoBus, KakaoMusic,
 KakaoGroup, KakaoHome, KakaoPlace, KakaoAlbum, KakaoPage, KakaoStyle,
 KakaoAgit。
 
-2014年7月1日，KakaoTalk被中国大陸[防火長城突然封锁](https://zh.wikipedia.org/wiki/防火長城 "wikilink")，用户无法连接至服务器。8月，中国官员对韩国政府表示，中国封锁[Line](../Page/Line.md "wikilink")、KakaoTalk是因为有恐怖组织成员正在通过这些服务向中国大陆传送恐怖信息，封锁是出于“反恐考虑”以及“为了保护国内服务设施”。\[1\]目前该软件在中国境内仍然无法正常使用。该软件的网站仍然被中国大陸[防火長城封锁而无法正常访问](https://zh.wikipedia.org/wiki/防火長城 "wikilink")。\[2\]
+2014年7月1日，KakaoTalk被中国大陸[防火長城突然封锁](https://zh.wikipedia.org/wiki/防火長城 "wikilink")，用户无法连接至服务器。8月，中国官员对韩国政府表示，中国封锁[Line](https://zh.wikipedia.org/wiki/Line "wikilink")、KakaoTalk是因为有恐怖组织成员正在通过这些服务向中国大陆传送恐怖信息，封锁是出于“反恐考虑”以及“为了保护国内服务设施”。\[1\]目前该软件在中国境内仍然无法正常使用。该软件的网站仍然被中国大陸[防火長城封锁而无法正常访问](https://zh.wikipedia.org/wiki/防火長城 "wikilink")。\[2\]
 
 ## 類似應用
 
   - [Google Hangouts](https://zh.wikipedia.org/wiki/Google環聊 "wikilink")
   - [WhatsApp](../Page/WhatsApp.md "wikilink")
   - [WeChat](https://zh.wikipedia.org/wiki/WeChat "wikilink")
-  - [iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")（基于[iOS](../Page/iOS.md "wikilink")）
+  - [iMessage](https://zh.wikipedia.org/wiki/iMessage "wikilink")（基于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")）
   - [Google
     Talk](../Page/Google_Talk.md "wikilink")（基于[Android](../Page/Android.md "wikilink")）
   - [Line](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")

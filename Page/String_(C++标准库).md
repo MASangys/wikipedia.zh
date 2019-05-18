@@ -7,7 +7,7 @@
 | `u16string` | `char16_t`（[C++11新增](../Page/C++11.md "wikilink")） |
 | `u32string` | `char32_t`（C++11新增）                                |
 
-其中的**`string`**是以`char`作为模板参数的模板类实例\[1\]，把字符串的内存管理责任由`string`负责而不是由编程者负责，大大减轻了[C语言风格的字符串的麻烦](../Page/string.h.md "wikilink")。
+其中的**`string`**是以`char`作为模板参数的模板类实例\[1\]，把字符串的内存管理责任由`string`负责而不是由编程者负责，大大减轻了[C语言风格的字符串的麻烦](https://zh.wikipedia.org/wiki/string.h "wikilink")。
 
 `std::basic_string`提供了大量的字符串操作函数，如比较、连接、搜索、替换、获得子串等。并可与C语言风格字符串双向转换。`std::basic_string`属于C++
 STL容器类，用户自定义的类也可以作为它的模板参数，因此也适用C++ STL Algorithm库。
@@ -226,7 +226,7 @@ SequenceContainer与ContiguousContainer。
 
 ### 字面量
 
-C++14标准定义了如下的std::basic_string[字面量](https://zh.wikipedia.org/wiki/用户定义字面量 "wikilink")：
+C++14标准定义了如下的std::basic_string[字面量](../Page/用户定义字面量.md "wikilink")：
 
   - string operator "" s（const char \*str, std::size_t len）;
   - u16string operator "" s（const char16_t \*str, std::size_t len）;

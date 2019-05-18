@@ -1,5 +1,5 @@
 《**Canvas 〜茶色的主題〜**》（是[COCKTAIL
-SOFT](../Page/COCKTAIL_SOFT.md "wikilink")（現在改為[F\&C](../Page/F&C.md "wikilink")）于2000年11月24日发行的[18禁](../Page/日本成人遊戲.md "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\]2001年11月22日發售其中將會包含[DC版本的追加版本](../Page/Dreamcast.md "wikilink")《CanvasDVD～茶色的主題～》。DC版於2001年4月5日发售。\[2\]2001年12月25日發行18禁OVA，共2卷。2003年4月10日發行[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")。\[3\]2005年3月3日發售PS2廉價版。2007年5月25日，Gyutto獨家發售網路下載版《CanvasDVD～茶色的主題～》。\[4\]2008年7月25日發行DVD-PG版。\[5\]
+SOFT](https://zh.wikipedia.org/wiki/COCKTAIL_SOFT "wikilink")（現在改為[F\&C](../Page/F&C.md "wikilink")）于2000年11月24日发行的[18禁](../Page/日本成人遊戲.md "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\]2001年11月22日發售其中將會包含[DC版本的追加版本](../Page/Dreamcast.md "wikilink")《CanvasDVD～茶色的主題～》。DC版於2001年4月5日发售。\[2\]2001年12月25日發行18禁OVA，共2卷。2003年4月10日發行[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")。\[3\]2005年3月3日發售PS2廉價版。2007年5月25日，Gyutto獨家發售網路下載版《CanvasDVD～茶色的主題～》。\[4\]2008年7月25日發行DVD-PG版。\[5\]
 
 ## 登場人物
 
@@ -50,7 +50,7 @@ SOFT](../Page/COCKTAIL_SOFT.md "wikilink")（現在改為[F\&C](../Page/F&C.md "
 
   -
     生日：2月14日。星座：水瓶座。
-    鷺之宮財閥集團女兒，與櫻塚戀爭奪校園第一美少女。料理得意，而後擔任撫子學園理事長。鷺之宮一族，紗綾（[Canvas2登場](../Page/Canvas2.md "wikilink")）、紬（[Canvas4登場](https://zh.wikipedia.org/wiki/Canvas4 "wikilink")）。
+    鷺之宮財閥集團女兒，與櫻塚戀爭奪校園第一美少女。料理得意，而後擔任撫子學園理事長。鷺之宮一族，紗綾（[Canvas2登場](../Page/Canvas2.md "wikilink")）、紬（[Canvas4登場](../Page/Canvas4.md "wikilink")）。
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@ SOFT](../Page/COCKTAIL_SOFT.md "wikilink")（現在改為[F\&C](../Page/F&C.md "
 
   - [Canvas2](../Page/Canvas2.md "wikilink")
   - [Canvas3](../Page/Canvas3.md "wikilink")
-  - [Canvas4](https://zh.wikipedia.org/wiki/Canvas4 "wikilink")
+  - [Canvas4](../Page/Canvas4.md "wikilink")
 
 ## 參考資料
 

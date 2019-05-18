@@ -150,7 +150,7 @@
     Ladies**|**[清水FC女子隊](https://zh.wikipedia.org/wiki/清水FC女子隊 "wikilink")**
     : 1989
   - **Suzuyo Shimizu F.C. Lovely
-    Ladies**|**[鈴與清水FC女子隊](https://zh.wikipedia.org/wiki/鈴與清水FC女子隊 "wikilink")**
+    Ladies**|**[鈴與清水FC女子隊](../Page/鈴與清水FC女子隊.md "wikilink")**
     : 1990 - 1999
 
 [Category:日本女子足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本女子足球俱樂部 "wikilink")

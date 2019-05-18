@@ -85,9 +85,10 @@ Mint Debian Edition升級包4中也成為一個可選的桌面環境\[9\]。
 Mint以外](../Page/Linux_Mint.md "wikilink")，Cinnamon也提供給[Ubuntu](../Page/Ubuntu.md "wikilink")
 12.04（經由[Personal Package
 Archive](https://zh.wikipedia.org/wiki/Personal_Package_Archive "wikilink")）、[Fedora](../Page/Fedora.md "wikilink")
-18\[10\]、[openSUSE](../Page/openSUSE.md "wikilink") 12.1、[Arch
+18\[10\]、[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
+12.1、[Arch
 Linux](../Page/Arch_Linux.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、、[Manjaro
-Linux以及](https://zh.wikipedia.org/wiki/Manjaro_Linux "wikilink")[Sabayon](../Page/Sabayon_Linux.md "wikilink")
+Linux以及](../Page/Manjaro_Linux.md "wikilink")[Sabayon](../Page/Sabayon_Linux.md "wikilink")
 8\[11\]。並且是的預設桌面環境\[12\]。 目前，就Debian
 8，同样提供Cinnamon的初始安装环境，并在官方源中提供Cinnamon安装。
 
@@ -96,8 +97,7 @@ Linux以及](https://zh.wikipedia.org/wiki/Manjaro_Linux "wikilink")[Sabayon](..
 雖然Cinnamon直到2012年1月時仍在早期的發展階段，所收到的反饋普遍來說是相當不錯的。它的支持者認為相較[GNOME
 Shell](../Page/GNOME_Shell.md "wikilink")，Cinnamon更加的有彈性、更強大，並且提供了更多進階的特性\[13\]\[14\]。
 
-[Ars
-Technica並在他們對](https://zh.wikipedia.org/wiki/Ars_Technica "wikilink")[Linux
+[Ars Technica並在他們對](../Page/Ars_Technica.md "wikilink")[Linux
 Mint](../Page/Linux_Mint.md "wikilink")
 17的審閱中，描述Cinnamon是「在所有平臺上，最人性化且最全方位可用的桌面。」\[15\]
 

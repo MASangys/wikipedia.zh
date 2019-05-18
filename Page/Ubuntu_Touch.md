@@ -61,21 +61,21 @@ Nexus以及[Google的Nexus](../Page/Google.md "wikilink") 4。而Ubuntu
 </tbody>
 </table>
 
-|        | 入门级Ubuntu平板                                                         | 高端Ubuntu平板                                              |
-| ------ | ------------------------------------------------------------------- | ------------------------------------------------------- |
-| 处理器架构  | Dual-core [Cortex A15](../Page/ARM_Cortex-A15_MPCore.md "wikilink") | Quad-core A15 or [Intel x86](../Page/x86.md "wikilink") |
-| 内存     | 推荐2 GB                                                              | 推荐4 GB                                                  |
-| 闪存     | 最小8 GB                                                              | 最小8 GB                                                  |
-| 屏幕大小   | 7-10 英寸                                                             | 10-12 英寸                                                |
-| 多点触控   | 4指                                                                  | 4-10指                                                   |
-| 完整桌面切換 | 否                                                                   | 是                                                       |
+|        | 入门级Ubuntu平板                                                         | 高端Ubuntu平板                                                                 |
+| ------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 处理器架构  | Dual-core [Cortex A15](../Page/ARM_Cortex-A15_MPCore.md "wikilink") | Quad-core A15 or [Intel x86](https://zh.wikipedia.org/wiki/x86 "wikilink") |
+| 内存     | 推荐2 GB                                                              | 推荐4 GB                                                                     |
+| 闪存     | 最小8 GB                                                              | 最小8 GB                                                                     |
+| 屏幕大小   | 7-10 英寸                                                             | 10-12 英寸                                                                   |
+| 多点触控   | 4指                                                                  | 4-10指                                                                      |
+| 完整桌面切換 | 否                                                                   | 是                                                                          |
 
 Ubuntu平板系統需求\[8\]
 
 ## 相關條目
 
   - [行動作業系統比較](https://zh.wikipedia.org/wiki/行動作業系統比較 "wikilink")
-  - [Ubuntu TV](https://zh.wikipedia.org/wiki/Ubuntu_TV "wikilink")
+  - [Ubuntu TV](../Page/Ubuntu_TV.md "wikilink")
 
 ## 參考資料
 

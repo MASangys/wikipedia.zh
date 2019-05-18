@@ -65,7 +65,7 @@ runtime_error类（表示运行时才能检测到的异常）包含了overflow_e
 
 logic_error类（一般的逻辑异常）包含了domain_error、invalid_argument、out_of_range、length_error几个子类；
 
-各种标准异常类都定义了一个接受字符串的构造函数，字符串初始化式用于为所发生的异常提供更多的信息。所有异常类都有一个what()虚函数，它返回一个指向[C风格字符串的指针](https://zh.wikipedia.org/wiki/C风格字符串 "wikilink")。
+各种标准异常类都定义了一个接受字符串的构造函数，字符串初始化式用于为所发生的异常提供更多的信息。所有异常类都有一个what()虚函数，它返回一个指向[C风格字符串的指针](../Page/C风格字符串.md "wikilink")。
 
 应用程序可以从各种标准异常类派生自己的异常类。
 

@@ -5,7 +5,7 @@
 
   - 為紀念出道25周年所發行的精選輯。
   - 與另一張精選輯『[B'z The Best XXV
-    1999-2012](https://zh.wikipedia.org/wiki/B'z_The_Best_XXV_1999-2012 "wikilink")』在2013年6月12日同步發售，此張精選輯收錄自第1張單曲〈[所以請放開那隻手](../Page/所以請放開那隻手.md "wikilink")〉到第25張單曲〈[HOME](../Page/HOME_\(B'z單曲\).md "wikilink")〉，加上兩首新歌〈HEAT〉、〈核心〉共計28首歌曲。
+    1999-2012](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")』在2013年6月12日同步發售，此張精選輯收錄自第1張單曲〈[所以請放開那隻手](../Page/所以請放開那隻手.md "wikilink")〉到第25張單曲〈[HOME](../Page/HOME_\(B'z單曲\).md "wikilink")〉，加上兩首新歌〈HEAT〉、〈核心〉共計28首歌曲。
   - 本精選輯和『B'z The Best XXV
     1999-2012』首次連續兩週獲得ORICON專輯週榜排行第1、2名\[1\]，亦是繼單曲[GOLD相隔](../Page/GOLD_\(B'z單曲\).md "wikilink")11年10個月後，再次連續兩週獲得ORICON週榜排行第1。
   - 初回版收錄11月於東京六本木舉行的「B'z Special Live」募集劵。
@@ -35,7 +35,8 @@ DISC 2
 
 1.  [MOTEL](../Page/MOTEL.md "wikilink")　
 2.  [心願](../Page/心願_\(B'z單曲\).md "wikilink")　
-3.  [love me, I love you](../Page/love_me,_I_love_you.md "wikilink")　
+3.  [love me, I love
+    you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")　
 4.  [LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")　
 5.  [看不見的力量 ～INVISIBLE
     ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")　
@@ -85,7 +86,7 @@ DISC 2
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[吉他](../Page/吉他.md "wikilink")・全曲[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")・[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
   - [稲葉浩志](https://zh.wikipedia.org/wiki/稲葉浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")・全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：編曲・貝斯・[マニピュレーター](https://zh.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：編曲・貝斯・[マニピュレーター](https://zh.wikipedia.org/wiki/マニピュレーター "wikilink")
   - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")：編曲・マニピュレーター
   - [徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")（[doa](https://zh.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）：編曲・貝斯
   - [Tony

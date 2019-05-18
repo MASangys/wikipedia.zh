@@ -4,7 +4,7 @@
 ## 解說
 
   - 本作集結了[KOH+發行過的單曲以及](https://zh.wikipedia.org/wiki/KOH+ "wikilink")[福山雅治親自挑選的](../Page/福山雅治.md "wikilink")[华语](https://zh.wikipedia.org/wiki/华语 "wikilink")、[韓國歌手翻唱](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KOH+的歌曲](https://zh.wikipedia.org/wiki/KOH+ "wikilink")，以及福山雅治為《[神探伽利略](../Page/神探伽利略.md "wikilink")》製作的歌曲的合輯。
-  - 华语的翻唱者為[A-Lin並化身為](../Page/A-Lin.md "wikilink")「A-Lin+」、韓國翻唱者為組合[KARA成員](../Page/KARA.md "wikilink")[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")（「Hara+」）和[朴奎利](../Page/朴奎利.md "wikilink")（「Gyuri+」），分別以中文及韓文演唱了3首[KOH+的歌曲](https://zh.wikipedia.org/wiki/KOH+ "wikilink")。
+  - 华语的翻唱者為[A-Lin並化身為](../Page/A-Lin.md "wikilink")「A-Lin+」、韓國翻唱者為組合[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")（「Hara+」）和[朴奎利](../Page/朴奎利.md "wikilink")（「Gyuri+」），分別以中文及韓文演唱了3首[KOH+的歌曲](https://zh.wikipedia.org/wiki/KOH+ "wikilink")。
   - 本作的標題來自福山雅治主演的《神探伽利略》。
 
 ## 發行版本

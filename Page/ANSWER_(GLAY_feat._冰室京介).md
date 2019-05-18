@@ -1,9 +1,9 @@
 《**ANSWER (GLAY feat.
-冰室京介)**》為[GLAY和](../Page/GLAY.md "wikilink")[冰室京介合作推出的](https://zh.wikipedia.org/wiki/冰室京介 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+冰室京介)**》為[GLAY和](../Page/GLAY.md "wikilink")[冰室京介合作推出的](../Page/冰室京介.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介
 
-  - 繼上1張「[SCREAM](https://zh.wikipedia.org/wiki/SCREAM_\(GLAY×EXILE\) "wikilink")」之後，GLAY的第2張合作單曲。
+  - 繼上1張「[SCREAM](../Page/SCREAM_\(GLAY×EXILE\).md "wikilink")」之後，GLAY的第2張合作單曲。
   - 這首單曲在『SWING ADDICTION』演唱會和GLAY的日本巡迴LIVE『GLAY TOUR 2006 ROCK'N'ROLL
     SWINDLE 〜Re-birth〜』的京都場次中、和『冰室京介』共同演出。
   - [MV的拍攝地點在](https://zh.wikipedia.org/wiki/MV "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。

@@ -1,7 +1,8 @@
 在一些[程序语言中](https://zh.wikipedia.org/wiki/程序语言 "wikilink")，<b style="font-family:consolas,monospace">eval</b>
 是一个把字符串当作表达式执行而返回一个结果的函数；在另一些之中，它执行多行的代码就好像它们被包括在其中，而不是包括 `eval`
 的这一行。`eval` 的输入不一定是字符串；在支持句法抽象的语言（如
-[Lisp](../Page/Lisp.md "wikilink")）中，`eval` 的输入将会由抽象句法形式组成。
+[Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")）中，`eval`
+的输入将会由抽象句法形式组成。
 
 ## 安全风险
 
@@ -38,7 +39,8 @@ print eval("return $template;");
 `eval`
 有时也被用于需要对数学表达式求值的应用中，如[电子试算表](https://zh.wikipedia.org/wiki/电子试算表 "wikilink")。这比写一个表达式解析器简单多了，但是发现或者写出一个表达式解析器通常是一个更好的选择。除了可修复的安全风险，使用这种语言的求值特性通常很有可能更慢，也没有那么高的可定制性。
 
-也许 `eval` 的最佳使用是在  一个新的语言的过程中 (就像 [Lisp](../Page/Lisp.md "wikilink")
+也许 `eval` 的最佳使用是在  一个新的语言的过程中 (就像
+[Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")
 那样)，以及作为语言的允许用户在受控制的环境下运行他们自己的程序的指导程序。
 
 出于表达式求值的目的，eval 相比表达式解析器的主要优势在于，在 `eval`
@@ -75,7 +77,8 @@ eval('foo = foo + 2;alert(foo);');
 ```
 
 JavaScript 的 `eval` 的一个应用是解析 [JSON](../Page/JSON.md "wikilink") 文本，也许是作为
-[Ajax](../Page/Ajax.md "wikilink") 框架中的一部分。然而，现代的浏览器提供 `JSON.parse`
+[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")
+框架中的一部分。然而，现代的浏览器提供 `JSON.parse`
 作为这个任务的一个更加安全的替代品。
 
 ### ActionScript
@@ -91,8 +94,9 @@ ActionScript 3 Eval Library\[2\] 和 D.eval API\[3\] 是进行中的用以在 Ac
 
 ### Lisp
 
-[Lisp](../Page/Lisp.md "wikilink") 是首先使用 `eval` 函数的语言。事实上，对 `eval`
-函数的定义导致了该语言解释器的最初的实施。\[4\]在 `eval` 函数被定义之前，Lisp
+[Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink") 是首先使用 `eval`
+函数的语言。事实上，对 `eval` 函数的定义导致了该语言解释器的最初的实施。\[4\]在 `eval`
+函数被定义之前，Lisp
 函数只是手动被编译成[汇编语言语句](../Page/汇编语言.md "wikilink")。然而，一旦
 `eval` 函数被手动编译，它随后就被用于组成第一个 Lisp
 解释器的基础的[Read–eval–print循环的一部分](https://zh.wikipedia.org/wiki/Read–eval–print循环 "wikilink")。

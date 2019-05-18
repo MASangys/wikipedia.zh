@@ -1,8 +1,8 @@
-**Vine**是[Twitter旗下的一款免费移动应用](../Page/Twitter.md "wikilink")，允许用户创建最长6秒的短片并分享到到社交网络，比如Twitter和[Facebook](../Page/Facebook.md "wikilink")\[1\]\[2\]。Vine于2013年1月24日首先登陸[iOS平台](../Page/iOS.md "wikilink")、6月3日登陸[Android平台](../Page/Android.md "wikilink")\[3\]\[4\]。
+**Vine**是[Twitter旗下的一款免费移动应用](../Page/Twitter.md "wikilink")，允许用户创建最长6秒的短片并分享到到社交网络，比如Twitter和[Facebook](../Page/Facebook.md "wikilink")\[1\]\[2\]。Vine于2013年1月24日首先登陸[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")、6月3日登陸[Android平台](../Page/Android.md "wikilink")\[3\]\[4\]。
 
 ## 历史
 
-Vine在2012年6月由唐姆·霍夫曼和罗斯·优素普夫创立。2012年10月被[Twitter收购](../Page/Twitter.md "wikilink")\[5\]。2013年1月24日，Vine登陸\[iOS\]\]平台，适用于[iPhone和](../Page/iPhone.md "wikilink")[iTouch](https://zh.wikipedia.org/wiki/iTouch "wikilink")\[6\]。几个月后，Vine成为市场上最受欢迎的视频分享应用\[7\]。2013年4月9日，Vine在[App
+Vine在2012年6月由唐姆·霍夫曼和罗斯·优素普夫创立。2012年10月被[Twitter收购](../Page/Twitter.md "wikilink")\[5\]。2013年1月24日，Vine登陸\[iOS\]\]平台，适用于[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iTouch](https://zh.wikipedia.org/wiki/iTouch "wikilink")\[6\]。几个月后，Vine成为市场上最受欢迎的视频分享应用\[7\]。2013年4月9日，Vine在[App
 Store成为当日下载次数最多的免费软件](../Page/App_Store_\(iOS\).md "wikilink")\[8\]。2013年6月3日，Vine登陸Android平台。
 
 Twitter在2016年10月27日宣布将会关闭Vine作为公司重组计划的一部分，不过已经上传的视频并不会被删除。\[9\]

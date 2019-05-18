@@ -72,7 +72,7 @@ KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社
 
 <!-- end list -->
 
-  - 桐木司 - [真殿光昭](https://zh.wikipedia.org/wiki/真殿光昭 "wikilink")
+  - 桐木司 - [真殿光昭](../Page/真殿光昭.md "wikilink")
   - 由本久美 - [林原惠](../Page/林原惠.md "wikilink")
   - 川中陽二 - [堀内賢雄](https://zh.wikipedia.org/wiki/堀内賢雄 "wikilink")
   - 中村寿雄 - [古田信幸](https://zh.wikipedia.org/wiki/古田信幸 "wikilink")
@@ -81,14 +81,14 @@ KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社
   - 原辺俊昌 - [森川智之](../Page/森川智之.md "wikilink")
   - 佐藤エリカ - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - 段野秀典 - [玄田哲章](../Page/玄田哲章.md "wikilink")
-  - 真実 - [小山裕香](https://zh.wikipedia.org/wiki/小山裕香 "wikilink")
+  - 真実 - [小山裕香](../Page/小山裕香.md "wikilink")
   - James直 - [菊池正美](../Page/菊池正美.md "wikilink")
   - 成員A - [田中宏](https://zh.wikipedia.org/wiki/田中宏_\(漫画家\) "wikilink")
   - 上瀬 - [檜山修之](../Page/檜山修之.md "wikilink")
   - 船木 - [宮崎一成](https://zh.wikipedia.org/wiki/宮崎一成 "wikilink")
   - ばあや - [石井直子](https://zh.wikipedia.org/wiki/石井直子 "wikilink")
   - 媽媽 - [神宮司彌生](../Page/神宮司彌生.md "wikilink")
-  - 女A - [大塚瑞惠](https://zh.wikipedia.org/wiki/大塚瑞惠 "wikilink")
+  - 女A - [大塚瑞惠](../Page/大塚瑞惠.md "wikilink")
   - 不良A - [飛矢馬剣](https://zh.wikipedia.org/wiki/飛矢馬剣 "wikilink")
   - 中年男 - [川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")
 
@@ -138,7 +138,7 @@ KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社
   - 佐藤エリカ - 勝生真沙子
   - 中井カオリ - 大塚瑞惠
   - 玲子 - 小田靜枝
-  - 村上 - [糸博](https://zh.wikipedia.org/wiki/糸博 "wikilink")
+  - 村上 - [糸博](../Page/糸博.md "wikilink")
   - 宮崎 - [青野武](../Page/青野武.md "wikilink")
   - 平野 - [若本規夫](../Page/若本規夫.md "wikilink")
   - 元山 - [塚本等](https://zh.wikipedia.org/wiki/塚本等 "wikilink")
@@ -189,7 +189,7 @@ KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社
   - 小鳥田康男 - 難波圭一
   - 松本泰治 - [高戸靖広](https://zh.wikipedia.org/wiki/高戸靖広 "wikilink")
   - 麻生拓也 - [山口勝平](../Page/山口勝平.md "wikilink")
-  - 高田先生 - [宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")
+  - 高田先生 - [宇垣秀成](../Page/宇垣秀成.md "wikilink")
   - 康男妻子 - [渡邊美佐](../Page/渡邊美佐.md "wikilink")
 
 </div>
@@ -254,10 +254,9 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
 
   - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
     Zone](../Page/Sexy_Zone.md "wikilink")）
-  - 川中陽二 - [岩本照](https://zh.wikipedia.org/wiki/岩本照 "wikilink")（[Snow
-    Man](https://zh.wikipedia.org/wiki/Snow_Man "wikilink")）
-  - 岩見英治 - [深澤辰哉](https://zh.wikipedia.org/wiki/深澤辰哉 "wikilink")（Snow
-    Man）
+  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow
+    Man](../Page/Snow_Man.md "wikilink")）
+  - 岩見英治 - [深澤辰哉](../Page/深澤辰哉.md "wikilink")（Snow Man）
   - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow
     Man）
   - 由本俊（第七代隊長） - [山根和馬](https://zh.wikipedia.org/wiki/山根和馬 "wikilink")
@@ -420,10 +419,9 @@ BOYS J》電視劇的續篇，日本於2013年11月9日上映。
 
   - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
     Zone](../Page/Sexy_Zone.md "wikilink")）
-  - 川中陽二 - [岩本照](https://zh.wikipedia.org/wiki/岩本照 "wikilink")（[Snow
-    Man](https://zh.wikipedia.org/wiki/Snow_Man "wikilink")）
-  - 岩見英治 - [深澤辰哉](https://zh.wikipedia.org/wiki/深澤辰哉 "wikilink")（Snow
-    Man）
+  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow
+    Man](../Page/Snow_Man.md "wikilink")）
+  - 岩見英治 - [深澤辰哉](../Page/深澤辰哉.md "wikilink")（Snow Man）
   - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow
     Man）
   - 由本久美（司的戀人） -

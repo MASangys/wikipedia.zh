@@ -10,7 +10,7 @@
   - 《小惡魔般的女友（）》：[2013年1月](../Page/2013年1月.md "wikilink")，[KILL TIME
     COMMUNICATION](https://zh.wikipedia.org/wiki/KILL_TIME_COMMUNICATION "wikilink")
     ISBN 978-4799203620
-  - 《少女的棘刺（）》：[2013年12月](https://zh.wikipedia.org/wiki/2013年12月 "wikilink")，[Wani
+  - 《少女的棘刺（）》：[2013年12月](../Page/2013年12月.md "wikilink")，[Wani
     Magazine社](https://zh.wikipedia.org/wiki/Wani_Magazine社 "wikilink")
     ISBN 978-4862692849
 
@@ -34,7 +34,7 @@
     9.  2015年12月 ISBN 978-4-04-865587-3
     10. 2016年4月 ISBN 978-4-04-865914-7
     11. 2016年6月 ISBN 978-4-04-865956-7
-  - [魔装学園H×H](https://zh.wikipedia.org/wiki/魔装学園H×H "wikilink")（著：[久慈政宗](https://zh.wikipedia.org/wiki/久慈政宗 "wikilink")
+  - [魔装学園H×H](https://zh.wikipedia.org/wiki/魔装学園H×H "wikilink")（著：[久慈政宗](../Page/久慈政宗.md "wikilink")
     /
     [角川Sneaker文库](https://zh.wikipedia.org/wiki/角川Sneaker文库 "wikilink")）
     1.  2014年1月 ISBN 978-4041012000
@@ -70,10 +70,8 @@
   - [舞武器·舞亂伎](../Page/舞武器·舞亂伎.md "wikilink")（第六話End Card）
   - [sin 七大罪](https://zh.wikipedia.org/wiki/sin_七大罪 "wikilink")（第六話End
     Card）
-  - [辣妹與我的第一次](https://zh.wikipedia.org/wiki/辣妹與我的第一次 "wikilink")（第七話End
-    Card）
-  - [我喜歡的妹妹不是妹妹](https://zh.wikipedia.org/wiki/我喜歡的妹妹不是妹妹 "wikilink")（第七話End
-    Card）
+  - [辣妹與我的第一次](../Page/辣妹與我的第一次.md "wikilink")（第七話End Card）
+  - [我喜歡的妹妹不是妹妹](../Page/我喜歡的妹妹不是妹妹.md "wikilink")（第七話End Card）
 
 ## 畫冊
 

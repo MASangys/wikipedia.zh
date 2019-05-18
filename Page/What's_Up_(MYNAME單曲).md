@@ -7,8 +7,8 @@ Up**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
   - 《What's Up》是[HEY\!HEY\!HEY\!MUSIC
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")2012年10月至11月主題曲。
   - 《Hello & Goodbye（Japanese Ver.）》是MYNAME首張單曲《[MYNAME the 1st
-    single](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")》主打曲《Hello
-    & Goodbye》的日語版本
+    single](../Page/MYNAME_the_1st_single.md "wikilink")》主打曲《Hello &
+    Goodbye》的日語版本
   - 此單曲有3個版本，分別有「初回生產限定A盤」、「初回生產限定B盤」和「CD Only
     Chara-Ani限定盤」。「初回生產限定A盤」收錄了《What's
     Up》的PV和Making；初回生產限定B盤」收錄了《Hello & Goodbye（Japanese

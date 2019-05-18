@@ -10,7 +10,7 @@ Productions，兩人總共為公司投資了一萬美元。\[1\] 創立初時的
 Records負責，後來於1977年轉換至由華納兄弟唱片公司負責。1978年，Sire
 Records被華納集團收購。1980年代，Sire成為北美主要主流藝人的唱片公司，包括[瑪丹娜](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")（Madonna）（'''''
 旗下最成功的藝人
-'''''）、[Ice-T](https://zh.wikipedia.org/wiki/Ice-T "wikilink")、[潮流尖端](https://zh.wikipedia.org/wiki/潮流尖端 "wikilink")、[Echo
+'''''）、[Ice-T](../Page/Ice-T.md "wikilink")、[潮流尖端](https://zh.wikipedia.org/wiki/潮流尖端 "wikilink")、[Echo
 & the
 Bunnymen](https://zh.wikipedia.org/wiki/Echo_&_the_Bunnymen "wikilink")、[The
 Pretenders及](https://zh.wikipedia.org/wiki/The_Pretenders "wikilink")[治療樂隊](https://zh.wikipedia.org/wiki/治療樂隊 "wikilink")。1990年代，Sire仍然是一間成功的唱片公司，並與[Seal](https://zh.wikipedia.org/wiki/Seal_\(musician\) "wikilink")、[凱蒂蓮](../Page/凱蒂蓮.md "wikilink")、[Tommy

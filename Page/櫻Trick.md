@@ -1,6 +1,6 @@
 《**櫻Trick**》（）是的日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")，於[芳文社旗下](../Page/芳文社.md "wikilink")《[Manga
 Time Kirara
-Miracle\!](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_Miracle! "wikilink")》雜誌Vol.1（2011年3月發售）連載至2017年10月号（2017年8月发售）\[1\]\[2\]，[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊。本作於《Manga
+Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》雜誌Vol.1（2011年3月發售）連載至2017年10月号（2017年8月发售）\[1\]\[2\]，[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊。本作於《Manga
 Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 
 ## 故事簡介
@@ -467,7 +467,7 @@ Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 <td><p>谷村大四郎</p></td>
 <td><p>小俣真一</p></td>
 <td><p>久保太郎<br />
-<a href="https://zh.wikipedia.org/wiki/渡邊浩" title="wikilink">渡邊浩</a></p></td>
+<a href="../Page/渡邊浩.md" title="wikilink">渡邊浩</a></p></td>
 <td><p>木村友美、石川洋一<br />
 龜谷響子、<br />
 淺井昭人、北原廣大<br />

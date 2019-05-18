@@ -31,20 +31,19 @@
 
 ## 收錄曲目
 
-  - 如果沒有特別記載、作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+  - 如果沒有特別記載、作詞・作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
 
 ### Disc 1
 
 1.  [RAIN](../Page/RAIN_\(GLAY\).md "wikilink")
-2.  [盛夏之門](https://zh.wikipedia.org/wiki/盛夏之門 "wikilink")
-3.  [“Modern…”的她](https://zh.wikipedia.org/wiki/“Modern…”的她 "wikilink")
+2.  [盛夏之門](../Page/盛夏之門.md "wikilink")
+3.  [“Modern…”的她](../Page/“Modern…”的她.md "wikilink")
 4.  [Freeze My
     Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")
 5.  [永遠的兩個人…](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")
 6.  [GONE WITH THE
     WIND](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")
-7.  [Yes,
-    Summerdays](https://zh.wikipedia.org/wiki/Yes,_Summerdays "wikilink")
+7.  [Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")
 8.  [生存的勇氣](https://zh.wikipedia.org/wiki/生存的勇氣 "wikilink")
 9.  Glorious
 10. BELOVED
@@ -131,16 +130,16 @@
     CHART\!](https://zh.wikipedia.org/wiki/HIT_THE_WORLD_CHART! "wikilink")**
 3.  **[Little
     Lovebirds](https://zh.wikipedia.org/wiki/Little_Lovebirds "wikilink")**
-4.  **[YOU MAY DREAM](../Page/YOU_MAY_DREAM.md "wikilink")**
+4.  **[YOU MAY
+    DREAM](https://zh.wikipedia.org/wiki/YOU_MAY_DREAM "wikilink")**
 5.  **[pure soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
 6.  **[野春菊](https://zh.wikipedia.org/wiki/野春菊 "wikilink")**
-7.  **[HEAVY
-    GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE "wikilink")**
+7.  **[HEAVY GAUGE](../Page/HEAVY_GAUGE.md "wikilink")**
 8.  **[GLOBAL
     COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")**
-9.  **[盛夏之門](https://zh.wikipedia.org/wiki/盛夏之門 "wikilink")**
+9.  **[盛夏之門](../Page/盛夏之門.md "wikilink")**
 10. **忌妒**
-11. **[在此相逢](https://zh.wikipedia.org/wiki/在此相逢 "wikilink")**
+11. **[在此相逢](../Page/在此相逢.md "wikilink")**
 12. **[HIGHCOMMUNICATIONS](https://zh.wikipedia.org/wiki/THE_FRUSTRATED "wikilink")**
 13. **[HOWEVER](../Page/HOWEVER.md "wikilink")**
 14. **[LAYLA](https://zh.wikipedia.org/wiki/LAYLA "wikilink")**
@@ -149,15 +148,14 @@
 
 #### Disc 2
 
-1.  **[VERB](https://zh.wikipedia.org/wiki/VERB "wikilink")**
-2.  **[SAY YOUR
-    DREAM](https://zh.wikipedia.org/wiki/SAY_YOUR_DREAM "wikilink")**
+1.  **[VERB](../Page/VERB.md "wikilink")**
+2.  **[SAY YOUR DREAM](../Page/SAY_YOUR_DREAM.md "wikilink")**
 3.  **[ACID HEAD](https://zh.wikipedia.org/wiki/ACID_HEAD "wikilink")**
 4.  **[JUNK ART](https://zh.wikipedia.org/wiki/JUNK_ART "wikilink")**
 5.  **[並非每個日子裡都充滿笑容](https://zh.wikipedia.org/wiki/並非每個日子裡都充滿笑容 "wikilink")**
-6.  **[“Modern…”的她](https://zh.wikipedia.org/wiki/“Modern…”的她 "wikilink")**
+6.  **[“Modern…”的她](../Page/“Modern…”的她.md "wikilink")**
 7.  **[RUN](../Page/RUN.md "wikilink")**
-8.  **[I am xxx](https://zh.wikipedia.org/wiki/I_am_xxx "wikilink")**
+8.  **[I am xxx](../Page/I_am_xxx.md "wikilink")**
 9.  **[I'm in
     Love](https://zh.wikipedia.org/wiki/I'm_in_Love "wikilink")**
 

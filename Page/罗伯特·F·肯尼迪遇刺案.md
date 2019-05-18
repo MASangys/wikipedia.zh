@@ -1,6 +1,6 @@
-**罗伯特·F·肯尼迪遇刺案**发生于1968年6月5日凌晨0点15分。[聯邦參議員](https://zh.wikipedia.org/wiki/聯邦參議員 "wikilink")、前任[联邦司法部长](https://zh.wikipedia.org/wiki/联邦司法部长 "wikilink")、5年前在[德克萨斯州](../Page/德克萨斯州.md "wikilink")[达拉斯被](https://zh.wikipedia.org/wiki/达拉斯 "wikilink")[刺杀的](https://zh.wikipedia.org/wiki/肯尼迪遇刺案 "wikilink")[美国总统](../Page/美国总统.md "wikilink")[约翰·F·肯尼迪的弟弟](https://zh.wikipedia.org/wiki/约翰·F·肯尼迪 "wikilink")[罗伯特·F·肯尼迪在](https://zh.wikipedia.org/wiki/罗伯特·F·肯尼迪 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶的](../Page/洛杉矶.md "wikilink")中遭人枪击。当时他刚刚赢得了加利福尼亚州和[南达科他州](../Page/南达科他州.md "wikilink")[初选而有望获得](https://zh.wikipedia.org/wiki/初选 "wikilink")[民主党的美国总统](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")[候选人的提名](https://zh.wikipedia.org/wiki/候选人 "wikilink")。26个小时后，他在[好撒玛利亚人医院逝世](https://zh.wikipedia.org/wiki/好撒玛利亚人医院_\(洛杉矶\) "wikilink")，享年42岁。
+**罗伯特·F·肯尼迪遇刺案**发生于1968年6月5日凌晨0点15分。[聯邦參議員](https://zh.wikipedia.org/wiki/聯邦參議員 "wikilink")、前任[联邦司法部长](https://zh.wikipedia.org/wiki/联邦司法部长 "wikilink")、5年前在[德克萨斯州](../Page/德克萨斯州.md "wikilink")[达拉斯被](https://zh.wikipedia.org/wiki/达拉斯 "wikilink")[刺杀的](https://zh.wikipedia.org/wiki/肯尼迪遇刺案 "wikilink")[美国总统](../Page/美国总统.md "wikilink")[约翰·F·肯尼迪的弟弟](https://zh.wikipedia.org/wiki/约翰·F·肯尼迪 "wikilink")[罗伯特·F·肯尼迪在](https://zh.wikipedia.org/wiki/罗伯特·F·肯尼迪 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶的](../Page/洛杉矶.md "wikilink")中遭人枪击。当时他刚刚赢得了加利福尼亚州和[南达科他州](../Page/南达科他州.md "wikilink")[初选而有望获得](https://zh.wikipedia.org/wiki/初选 "wikilink")[民主党的美国总统](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")[候选人的提名](https://zh.wikipedia.org/wiki/候选人 "wikilink")。26个小时后，他在[好撒玛利亚人医院逝世](../Page/好撒玛利亚人医院_\(洛杉矶\).md "wikilink")，享年42岁。
 
-1944年出生的[巴勒斯坦](https://zh.wikipedia.org/wiki/巴勒斯坦 "wikilink")／[约旦籍移民](../Page/约旦.md "wikilink")被裁定谋杀罪名成立而被判处终身监禁，但他的律师发表声明称其当事人是被陷害的\[1\]。整个枪击过程由一位报社的自由撰稿人用录音带录制了下来，之后还用到了电影中\[2\]。
+1944年出生的[巴勒斯坦](../Page/巴勒斯坦.md "wikilink")／[约旦籍移民](../Page/约旦.md "wikilink")被裁定谋杀罪名成立而被判处终身监禁，但他的律师发表声明称其当事人是被陷害的\[1\]。整个枪击过程由一位报社的自由撰稿人用录音带录制了下来，之后还用到了电影中\[2\]。
 
 在[纽约的](../Page/纽约.md "wikilink")[圣巴特里爵主教座堂停柩两日供悼客瞻仰後](https://zh.wikipedia.org/wiki/圣巴特里爵主教座堂_\(纽约\) "wikilink")，羅伯特的靈柩于6月8日下葬在[阿林顿国家公墓中距其兄約翰墓不远的一处墓壙](https://zh.wikipedia.org/wiki/阿林顿国家公墓 "wikilink")。他的死促使[美国特勤局开始对总统候选人提供保护](../Page/美国特勤局.md "wikilink")。另外，[休伯特·汉弗莱之后成为民主党总统候选人参加大选](../Page/休伯特·汉弗莱.md "wikilink")，不过最终败给了[共和党的](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")[理查德·尼克松](../Page/理查德·尼克松.md "wikilink")。
 
@@ -48,7 +48,7 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪朝罗伯特连续开枪射击](..
 
 庭审期间，索罕的律师试图以神智失常来进行辩护\[49\]，但索罕先后几次试图直接认罪\[50\]。索汗在作证时声称自己用“20年的恶意预谋”杀死了肯尼迪，但自他被定罪后却又反复声称，自己完全不记得曾经犯下这一罪行，他在法庭上的认罪并没有被法官接受，并且之后也收回了\[51\]\[52\]。
 
-索罕于1969年4月17日被[陪审团判决有罪](https://zh.wikipedia.org/wiki/陪审团 "wikilink")，并在6天后被法官判处[死刑](../Page/死刑.md "wikilink")\[53\]。1972年，[加利福尼亚州最高法院将死刑判决改为](https://zh.wikipedia.org/wiki/加利福尼亚州最高法院 "wikilink")[终身监禁](https://zh.wikipedia.org/wiki/终身监禁 "wikilink")。在的判决中，该院取消了所有尚待其确定的死刑判决。2016年，索罕的假释申请被第15次否决，他的下一次假釋聽證會在2021年。目前仍在位于加利福尼亚州[科灵加的欢乐谷州立监狱服刑](../Page/科灵加_\(加利福尼亚州\).md "wikilink")\[54\]。
+索罕于1969年4月17日被[陪审团判决有罪](https://zh.wikipedia.org/wiki/陪审团 "wikilink")，并在6天后被法官判处[死刑](../Page/死刑.md "wikilink")\[53\]。1972年，[加利福尼亚州最高法院将死刑判决改为](../Page/加利福尼亚州最高法院.md "wikilink")[终身监禁](https://zh.wikipedia.org/wiki/终身监禁 "wikilink")。在的判决中，该院取消了所有尚待其确定的死刑判决。2016年，索罕的假释申请被第15次否决，他的下一次假釋聽證會在2021年。目前仍在位于加利福尼亚州[科灵加的欢乐谷州立监狱服刑](../Page/科灵加_\(加利福尼亚州\).md "wikilink")\[54\]。
 
 ## 媒体报导
 

@@ -231,8 +231,7 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 
 ## 其他
 
-於[超次元戰記
-戰機少女系列中登場角色](https://zh.wikipedia.org/wiki/超次元戰記_戰機少女 "wikilink")[Marvelous
+於[超次元戰記 戰機少女系列中登場角色](../Page/超次元戰記_戰機少女.md "wikilink")[Marvelous
 AQL是同名公司與本系列作品的擬人化角色](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink"),而該角色的配音員與飛鳥一樣皆為[原田瞳](../Page/原田瞳.md "wikilink")。
 
 ## 外部連結

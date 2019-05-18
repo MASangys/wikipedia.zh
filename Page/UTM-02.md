@@ -4,7 +4,7 @@
 
 ## 概况
 
-UTM-02是[韩国的第](https://zh.wikipedia.org/wiki/韩国 "wikilink")5款[磁悬浮列车](https://zh.wikipedia.org/wiki/磁悬浮列车 "wikilink")，由[现代Rotem负责生产](https://zh.wikipedia.org/wiki/现代Rotem "wikilink")，在[UTM-01的基础上做出了较大的改进](https://zh.wikipedia.org/wiki/UTM-01 "wikilink")。运行于[大田广域市](../Page/大田广域市.md "wikilink")[EXPO科學公園与](https://zh.wikipedia.org/wiki/EXPO科學公園 "wikilink")[韓國國立中央科學館区间](https://zh.wikipedia.org/wiki/韓國國立中央科學館 "wikilink")。列车客室车门为[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，列车在两端设有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，为2辆编组。目前由[韩国机械研究院负责测试](https://zh.wikipedia.org/wiki/韩国机械研究院 "wikilink")。
+UTM-02是[韩国的第](https://zh.wikipedia.org/wiki/韩国 "wikilink")5款[磁悬浮列车](https://zh.wikipedia.org/wiki/磁悬浮列车 "wikilink")，由[现代Rotem负责生产](https://zh.wikipedia.org/wiki/现代Rotem "wikilink")，在[UTM-01的基础上做出了较大的改进](../Page/UTM-01.md "wikilink")。运行于[大田广域市](../Page/大田广域市.md "wikilink")[EXPO科學公園与](https://zh.wikipedia.org/wiki/EXPO科學公園 "wikilink")[韓國國立中央科學館区间](https://zh.wikipedia.org/wiki/韓國國立中央科學館 "wikilink")。列车客室车门为[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，列车在两端设有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，为2辆编组。目前由[韩国机械研究院负责测试](https://zh.wikipedia.org/wiki/韩国机械研究院 "wikilink")。
 
 ## 编组
 
@@ -22,7 +22,7 @@ UTM-02是[韩国的第](https://zh.wikipedia.org/wiki/韩国 "wikilink")5款[磁
 
 ## 参见
 
-  - [UTM-01](https://zh.wikipedia.org/wiki/UTM-01 "wikilink")
+  - [UTM-01](../Page/UTM-01.md "wikilink")
 
 ## 外部链接
 

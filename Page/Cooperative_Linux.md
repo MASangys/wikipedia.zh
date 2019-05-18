@@ -37,7 +37,7 @@ Linux内核尽量保持一致,
 2000或](../Page/Windows_2000.md "wikilink")[Windows
 XP的机器内安装运行了一个](../Page/Windows_XP.md "wikilink")[Linux内核以及一个虚拟网络设备](../Page/Linux内核.md "wikilink")，并不像VMware一样使用一个虚拟的机器。[Debian](../Page/Debian.md "wikilink")，[Ubuntu](../Page/Ubuntu.md "wikilink")，[Fedora及](../Page/Fedora.md "wikilink")[Gentoo这些都是非常受coLinux用户欢迎的Linux发行版本](https://zh.wikipedia.org/wiki/Gentoo "wikilink")。由于虚拟硬件不同寻常的结构，在coLinux下安装一个Linux发行版本似乎有点困难。因此用户通常使用一个已经安装好Linux系统的分区，或者使用官方预先准备的[系统镜像文件](https://zh.wikipedia.org/wiki/系统镜像 "wikilink")。这些镜像有多种生成方法。像是从正常的操作系统提取，或是，
 想方设法安装在特殊的硬件上，
-又或者，通过包管理器手动的构建安装包，也可以是简单的利用[yum](https://zh.wikipedia.org/wiki/yum "wikilink")，[apt这个的工具来升级已有镜像系统](../Page/apt.md "wikilink")。还有一个简单的方法也可以得到一个最新的系统镜像，首先，利用[QEMU来安装所需Linux系统](../Page/QEMU.md "wikilink")，
+又或者，通过包管理器手动的构建安装包，也可以是简单的利用[yum](https://zh.wikipedia.org/wiki/yum "wikilink")，[apt这个的工具来升级已有镜像系统](https://zh.wikipedia.org/wiki/apt "wikilink")。还有一个简单的方法也可以得到一个最新的系统镜像，首先，利用[QEMU来安装所需Linux系统](../Page/QEMU.md "wikilink")，
 然后，通过去掉原镜像的头63512字节块的数据达成“转换”镜像的目的。
 这个方法在coLinux的wiki而面有论述。coLinux并不需要访问本地的显示设备，当然，这也使得[X
 Window系统](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink") 或者 [X.Org

@@ -246,7 +246,7 @@
   - 出演日期：2013年4月27日
   - 時間：16：30 观众进入会場，17：30 正式開演
   - 与之前很长一段时间中以AKB48名义举行的演唱会不同，此次演唱会是组合自“[AKB48 重温时间
-    最佳曲目100](https://zh.wikipedia.org/wiki/AKB48_重温时间_最佳曲目100 "wikilink")”后久违的单独公演。同时在这场演唱会中，也为即将毕业的[河西智美举办了毕业仪式](../Page/河西智美.md "wikilink")\[4\]。
+    最佳曲目100](../Page/AKB48_重温时间_最佳曲目100.md "wikilink")”后久违的单独公演。同时在这场演唱会中，也为即将毕业的[河西智美举办了毕业仪式](../Page/河西智美.md "wikilink")\[4\]。
 
 ### 曲目
 
@@ -323,9 +323,8 @@
 <!-- end list -->
 
 1.  **[難道說](../Page/難道說.md "wikilink")**（）
-2.  **[Mine](https://zh.wikipedia.org/wiki/Mine "wikilink")**
-3.  **[Enjoy your
-    life\!](https://zh.wikipedia.org/wiki/Mine "wikilink")** -
+2.  **[Mine](../Page/Mine.md "wikilink")**
+3.  **[Enjoy your life\!](../Page/Mine.md "wikilink")** -
     河西、大島優、秋元、宮澤、大堀、梅田彩、小林香、松原
 4.  **[草原的奇迹](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")**（） - 正规成员 +
     宮澤、大堀
@@ -339,7 +338,7 @@
 
   - 出演日期：2013年4月28日
   - 時間：11：00 观众进入会場，12：00 正式開演
-  - 在连续四场由各团分别完成的演唱会之后，4月28日举办了两场所有48系组合出演的演唱会。在上午场的演唱会中，披露了新单曲《[再见自由式](https://zh.wikipedia.org/wiki/再见自由式 "wikilink")》，同时宣布之前播放的电视节目中组成的BKA48（笨蛋48）演唱的歌曲将作为新单曲B面曲的消息，最终还宣布将于6月5日在同一场馆举行由48系研究生出演的演唱会“[AKB48团研究生演唱会“早推得胜”](https://zh.wikipedia.org/wiki/AKB48团研究生演唱会“早推得胜” "wikilink")”\[5\]。
+  - 在连续四场由各团分别完成的演唱会之后，4月28日举办了两场所有48系组合出演的演唱会。在上午场的演唱会中，披露了新单曲《[再见自由式](https://zh.wikipedia.org/wiki/再见自由式 "wikilink")》，同时宣布之前播放的电视节目中组成的BKA48（笨蛋48）演唱的歌曲将作为新单曲B面曲的消息，最终还宣布将于6月5日在同一场馆举行由48系研究生出演的演唱会“[AKB48团研究生演唱会“早推得胜”](../Page/AKB48团研究生演唱会“早推得胜”.md "wikilink")”\[5\]。
 
 ### 曲目
 
@@ -371,7 +370,7 @@
 21. **格子花纹** - OVER20選抜(2)
 22. **少女们** - U-15選抜＋U-19選抜＋OVER20選抜
 23. **[Kimi no Koto ga Suki
-    Dakara](https://zh.wikipedia.org/wiki/Heavy_Rotation_\(JKT48专辑\) "wikilink")→因为喜欢你（博多方言
+    Dakara](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")→因为喜欢你（博多方言
     ver.）** - JKT48→HKT48
 24. **海岸邊最可愛的女孩！** - HKT48→NMB48
 25. **Oh My God\!** - NMB48、HKT48
@@ -427,8 +426,7 @@
 13. **求求你华伦亭** - HKT48
 14. **[跑吧！企鹅](../Page/崇尚麻里子.md "wikilink")**（） - 原Team 4
 15. **纯情U-19** - NMB48
-16. **[RIVER](https://zh.wikipedia.org/wiki/RIVER_\(JKT48單曲\) "wikilink")**
-    - JKT48
+16. **[RIVER](../Page/RIVER_\(JKT48單曲\).md "wikilink")** - JKT48
 17. **UZA** - 大島Team K
 18. **雨珠钢琴师** - 柏木、森保、松岡
 19. **[不要叫我偶像](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")**（） -

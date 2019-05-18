@@ -5,7 +5,7 @@ marketing發行](https://zh.wikipedia.org/wiki/avex "wikilink")\[1\]。
 
 ## 解說
 
-  - 本作為絢香首張翻唱專輯，絢香曾在[YOUTUBE上唱過的翻唱曲以及其他歌手的歌曲](../Page/YOUTUBE.md "wikilink")，首次發行翻唱專輯。
+  - 本作為絢香首張翻唱專輯，絢香曾在[YOUTUBE上唱過的翻唱曲以及其他歌手的歌曲](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")，首次發行翻唱專輯。
   - CD、CD+DVD的初回限定特殊包裝為別的封面，粉絲限定盤的毛巾共有三樣式擇一\[2\]。
 
 ## 發行版本

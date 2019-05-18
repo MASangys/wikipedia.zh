@@ -81,8 +81,7 @@ SNH48的六名中国籍成员汤敏、赵佳敏、董芷依、吴哲晗、张语
     - BKA48
 33. **[我们的发现](https://zh.wikipedia.org/wiki/我们的发现 "wikilink")**（） -
     NMB48選抜成员
-34. **[美麗的閃電](https://zh.wikipedia.org/wiki/美麗的閃電 "wikilink")**（） -
-    SKE48選抜成员
+34. **[美麗的閃電](../Page/美麗的閃電.md "wikilink")**（） - SKE48選抜成员
 35. **[因为喜欢你（博多方言
     ver.）](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")**（）
     - HKT48選抜成员

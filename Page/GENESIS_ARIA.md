@@ -1,5 +1,5 @@
 《**GENESIS
-ARIA**》是[sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月1日由[GloryHeaven發行](../Page/Lantis.md "wikilink")。
+ARIA**》是[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月1日由[GloryHeaven發行](../Page/Lantis.md "wikilink")。
 
 ## 概要
 

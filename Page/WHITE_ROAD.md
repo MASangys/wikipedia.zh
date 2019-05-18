@@ -19,7 +19,7 @@ ROAD**》為[GLAY的第](../Page/GLAY.md "wikilink")32張單曲，有發行[台�
   - [THE GREAT VACATION VOL.1 〜SUPER BEST OF
     GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")
   - [rare collectives
-    vol.3](../Page/rare_collectives_vol.3.md "wikilink")
+    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")
 
 ## MV拍攝地點
 

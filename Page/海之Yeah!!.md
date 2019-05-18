@@ -9,7 +9,7 @@
   - 發行此張精選輯的目的是為了當年於[靜岡縣](../Page/靜岡縣.md "wikilink")[渚園所舉辦的大規模野外演唱會](https://zh.wikipedia.org/wiki/渚園 "wikilink")[SUPER
     LIVE in 渚園 モロ出し祭り
     〜過剰サービスに鰻はネットリ父ウットリ〜](https://zh.wikipedia.org/wiki/SUPER_LIVE_in_渚園_モロ出し祭り_〜過剰サービスに鰻はネットリ父ウットリ〜 "wikilink")，此場演唱會主要是演唱過去20年來的人氣歌曲。
-  - 至2013年，銷售量為3,512,577張，[ORICON歷代專輯排行榜第](../Page/ORICON.md "wikilink")11位，為[南方之星所有作品裡銷售量最高的](../Page/南方之星.md "wikilink")。
+  - 至2013年，銷售量為3,512,577張，[ORICON歷代專輯排行榜第](https://zh.wikipedia.org/wiki/ORICON "wikilink")11位，為[南方之星所有作品裡銷售量最高的](../Page/南方之星.md "wikilink")。
 
 ## 收錄曲
 

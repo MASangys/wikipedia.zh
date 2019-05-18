@@ -1,4 +1,4 @@
-**sleep**是一个[Unix的](../Page/Unix.md "wikilink")[命令行程序](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可以[挂起执行程序一段指定时间](https://zh.wikipedia.org/wiki/睡眠_\(系统调用\) "wikilink")。**sleep**指令可以将调用它的[进程挂起至少指定秒](https://zh.wikipedia.org/wiki/进程 "wikilink")（默认）、分、时或天。
+**sleep**是一个[Unix的](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令行程序](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可以[挂起执行程序一段指定时间](https://zh.wikipedia.org/wiki/睡眠_\(系统调用\) "wikilink")。**sleep**指令可以将调用它的[进程挂起至少指定秒](https://zh.wikipedia.org/wiki/进程 "wikilink")（默认）、分、时或天。
 
 ## 用法
 
@@ -45,7 +45,7 @@
 [GNU计划的sleep实现](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")（[coreutils的一部分](../Page/GNU核心工具组.md "wikilink")）允许用户传递多个参数，因此**`sleep 5h 30m`**（时和分之间的空格是必须的）可以工作在任何使用GNU
 sleep的系统上，包括[GNU](../Page/GNU.md "wikilink")/[Linux](../Page/Linux内核.md "wikilink")。
 
-`sleep`的可能用途包括调度任务和延迟执行，或允许一个进程启动，或等待几个用户[wget完一个大文件后释放共享网络连接](../Page/wget.md "wikilink")。
+`sleep`的可能用途包括调度任务和延迟执行，或允许一个进程启动，或等待几个用户[wget完一个大文件后释放共享网络连接](https://zh.wikipedia.org/wiki/wget "wikilink")。
 
 ## 参见
 

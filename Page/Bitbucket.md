@@ -1,4 +1,4 @@
-**Bitbucket**是[Atlassian公司提供的一个基于web的](../Page/Atlassian.md "wikilink")[版本库](https://zh.wikipedia.org/wiki/仓库_\(版本控制\) "wikilink")，支持[Mercurial和](../Page/Mercurial.md "wikilink")[Git](../Page/Git.md "wikilink")[版本控制系统](../Page/版本控制.md "wikilink")。Bitbucket既提供免费帐号，也提供商业付费方案。免费帐号可使用的私有版本库不限数量，但最多可支持5名用户（）。Bitbucket能够与Atlassian的其他产品相整合，如[Jira](../Page/JIRA.md "wikilink")、、和。
+**Bitbucket**是[Atlassian公司提供的一个基于web的](../Page/Atlassian.md "wikilink")[版本库](../Page/仓库_\(版本控制\).md "wikilink")，支持[Mercurial和](../Page/Mercurial.md "wikilink")[Git](../Page/Git.md "wikilink")[版本控制系统](../Page/版本控制.md "wikilink")。Bitbucket既提供免费帐号，也提供商业付费方案。免费帐号可使用的私有版本库不限数量，但最多可支持5名用户（）。Bitbucket能够与Atlassian的其他产品相整合，如[Jira](../Page/JIRA.md "wikilink")、、和。
 
 私有版本库不会在个人页面上展示；如果用户只拥有私有版本库，网站则会显示还没有创建任何版本库，直到这名用户创建了公开版本库为止。Bitbucket使用[Python的](../Page/Python.md "wikilink")[Django](../Page/Django.md "wikilink")
 [Web应用框架编写](../Page/Web应用框架.md "wikilink")。\[1\]

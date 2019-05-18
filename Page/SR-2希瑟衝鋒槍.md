@@ -63,13 +63,13 @@ SR-2“希瑟”發射專用[手枪](../Page/手枪.md "wikilink")[子彈](../Pa
     Aimpoint紅點鏡](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")。
   - 2010年—《[-{zh-cn:细胞分裂：断罪;
     zh-tw:縱橫諜海：斷罪;}-](../Page/縱橫諜海：斷罪.md "wikilink")》：型號為SR-2M，取消前握把，預告中曾命名為「SMG-2」，其後改回。可選擇裝上[槍托](../Page/槍托.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[反射式瞄準鏡](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")，被歸類為[冲锋手枪](https://zh.wikipedia.org/wiki/冲锋手枪 "wikilink")。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：型號為SR-2M，命名为“SR-2
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型號為SR-2M，命名为“SR-2
     Veresk”，造型上翻出了[前握把](../Page/輔助握把.md "wikilink")，30發[彈匣](../Page/彈匣.md "wikilink")，为工程兵专用武器，K点购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")），视为自带前握把。
   - 2013年—《[-{zh-cn:战地4;
     zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「海軍風暴」（Naval
-    Strike）武器之一。只在聯機模式中登場。命名為「SR-2」（中文版則命名為「SR-2衝鋒槍」），發射子彈，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")。多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於完成小任務「威力不小」（摧毀20艘船）時解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PBS-4](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")[消音器](../Page/抑制器.md "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[重型槍管以及六件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射、HD-33、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、、[反射式](../Page/紅點鏡.md "wikilink")、消音器當中之六）。
+    Strike）武器之一。只在聯機模式中登場。命名為「SR-2」（中文版則命名為「SR-2衝鋒槍」），發射子彈，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")。多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於完成小任務「威力不小」（摧毀20艘船）時解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PBS-4](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")[消音器](../Page/抑制器.md "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及六件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、、[反射式](../Page/紅點鏡.md "wikilink")、消音器當中之六）。
 
 ## 圖集
 
@@ -96,7 +96,7 @@ SR-2[紅點鏡](../Page/紅點鏡.md "wikilink")（反射式瞄準鏡）的SR-2M
   - [PP-19 Bizon](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [PP-19-01 Vityaz](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [PP-2000](https://zh.wikipedia.org/wiki/PP-2000衝鋒槍 "wikilink")
-  - [PP-90](https://zh.wikipedia.org/wiki/PP-90折疊式衝鋒槍 "wikilink")
+  - [PP-90](../Page/PP-90折疊式衝鋒槍.md "wikilink")
   - [PP-90M1](../Page/PP-90M1衝鋒槍.md "wikilink")
   - [PP-91 KEDR](../Page/PP-91衝鋒槍.md "wikilink")
   - [PP-93](../Page/PP-93衝鋒槍.md "wikilink")

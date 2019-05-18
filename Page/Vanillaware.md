@@ -59,7 +59,7 @@ enix等公司的项目](../Page/史克威尔艾尼克斯.md "wikilink")，直到
 <tr class="odd">
 <td><p>2007年5月17日</p></td>
 <td><p><a href="../Page/奧丁領域.md" title="wikilink">奧丁領域</a></p></td>
-<td><p><a href="../Page/ATLUS.md" title="wikilink">ATLUS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ATLUS" title="wikilink">ATLUS</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

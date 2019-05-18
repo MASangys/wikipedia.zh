@@ -50,7 +50,7 @@ HS 0702+6043\[8\]。
 
 ## 參見
 
-[O型次矮星](https://zh.wikipedia.org/wiki/O型次矮星 "wikilink")
+[O型次矮星](../Page/O型次矮星.md "wikilink")
 
 ## 參考資料
 

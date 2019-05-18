@@ -11,7 +11,7 @@ Storm](../Page/J_Storm.md "wikilink")。
 
 <!-- end list -->
 
-  - 在[第64回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第64回NHK紅白歌合戰 "wikilink")（Endless
+  - 在[第64回NHK紅白歌合戰以組曲形式演唱](../Page/第64回NHK紅白歌合戰.md "wikilink")（Endless
     Game +
     [Breathless](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")）
 

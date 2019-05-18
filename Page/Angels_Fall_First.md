@@ -11,7 +11,7 @@ First**》是[芬兰](../Page/芬兰.md "wikilink")[交响金属乐队](https://
 
 《Angels Fall
 First》和随后发行的作品有很大不同；相对于之后的作品，专辑更为重视[民谣金属和](../Page/民谣金属.md "wikilink")[原声](https://zh.wikipedia.org/wiki/原声乐 "wikilink")\[3\]。民谣声音在之后的专辑中或多或少的减少了。虽然唯一的单曲《[The
-Carpenter](https://zh.wikipedia.org/wiki/The_Carpenter "wikilink")》排在了芬兰单曲榜的第三位，但夜愿在1998年第二张专辑《[Oceanborn](https://zh.wikipedia.org/wiki/Oceanborn "wikilink")》发行后才获得国际声誉。
+Carpenter](../Page/The_Carpenter.md "wikilink")》排在了芬兰单曲榜的第三位，但夜愿在1998年第二张专辑《[Oceanborn](../Page/Oceanborn.md "wikilink")》发行后才获得国际声誉。
 
 ## 历史
 

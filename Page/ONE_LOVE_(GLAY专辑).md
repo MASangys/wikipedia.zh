@@ -13,8 +13,7 @@
 3.  **忌妒 (KURID/PHANTOM mix)**
 4.  **HIGHWAY NO.5**
 5.  **Fighting Spirit**
-6.  **[一葉自由](https://zh.wikipedia.org/wiki/一葉自由 "wikilink") (Johnny the
-    peace mix)**
+6.  **[一葉自由](../Page/一葉自由.md "wikilink") (Johnny the peace mix)**
       -
         專輯版本。
 7.  **THINK ABOUT MY DAUGHTER**

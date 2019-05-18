@@ -47,7 +47,7 @@ Games由一群年轻专业人士组成，他们联合起来创立了这一全新
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戰慄深隧：流亡" title="wikilink">戰慄深隧：流亡</a>[4]</p></td>
+<td><p><a href="../Page/戰慄深隧：流亡.md" title="wikilink">戰慄深隧：流亡</a>[4]</p></td>
 <td></td>
 </tr>
 </tbody>

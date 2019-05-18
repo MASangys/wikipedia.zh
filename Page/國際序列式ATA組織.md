@@ -28,7 +28,7 @@ ATA Working Group)。 SATA-IO直接隸屬於INCITS並且經由INCITS間接隸屬
 
 ## 相關條目
 
-  - [ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")
+  - [ATA](../Page/ATA.md "wikilink")
   - [SATA](../Page/SATA.md "wikilink")
   - [PATA](https://zh.wikipedia.org/wiki/PATA "wikilink")
 

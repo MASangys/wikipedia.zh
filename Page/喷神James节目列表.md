@@ -1,5 +1,5 @@
 **《[The Angry Video Game
-Nerd](https://zh.wikipedia.org/wiki/The_Angry_Video_Game_Nerd "wikilink")》**（中文：愤怒电玩宅；縮寫：**AVGN**）是由[詹姆斯·罗弗創立的一部美國](https://zh.wikipedia.org/wiki/詹姆斯·罗弗 "wikilink")[喜劇式](../Page/喜劇.md "wikilink")[復古游戲評論網路節目](https://zh.wikipedia.org/wiki/復古游戲 "wikilink")。該節目圍繞著低質量視頻遊戲進行辛辣[獨角戲的評論](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")。從第二季開始到第六季爲止，新的一集會[GameTrailers網站上先行上映](https://zh.wikipedia.org/wiki/GameTrailers "wikilink")。從第七季開始則轉爲在官網Cinemassacre上先行上映，而所有先行上映的劇集會隔一段時間之後在罗弗自己的[YouTube頻道上重新投稿](../Page/YouTube.md "wikilink")。劇集通常安排在每個月的第一個或第二個星期三發布。最初罗弗早期的工作日程允許每月投稿兩集，但由於其他工作承諾，罗弗便將其改為目前的安排。\[1\]
+Nerd](https://zh.wikipedia.org/wiki/The_Angry_Video_Game_Nerd "wikilink")》**（中文：愤怒电玩宅；縮寫：**AVGN**）是由[詹姆斯·罗弗創立的一部美國](https://zh.wikipedia.org/wiki/詹姆斯·罗弗 "wikilink")[喜劇式](../Page/喜劇.md "wikilink")[復古游戲評論網路節目](https://zh.wikipedia.org/wiki/復古游戲 "wikilink")。該節目圍繞著低質量視頻遊戲進行辛辣[獨角戲的評論](https://zh.wikipedia.org/wiki/獨角戲 "wikilink")。從第二季開始到第六季爲止，新的一集會[GameTrailers網站上先行上映](../Page/GameTrailers.md "wikilink")。從第七季開始則轉爲在官網Cinemassacre上先行上映，而所有先行上映的劇集會隔一段時間之後在罗弗自己的[YouTube頻道上重新投稿](../Page/YouTube.md "wikilink")。劇集通常安排在每個月的第一個或第二個星期三發布。最初罗弗早期的工作日程允許每月投稿兩集，但由於其他工作承諾，罗弗便將其改為目前的安排。\[1\]
 
 三集愤怒电玩宅劇集已從YouTube頻道上下架，但依舊可以在官網上觀看。其中“Atari
 Porn”一集因根據YouTube社區準則被標記為不當內容而下架；另外兩集是“Teenage
@@ -72,7 +72,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 参考系列：</p>
 <hr />
 <p><strong>《<a href="../Page/快打旋風系列_(格鬥遊戲).md" title="wikilink">快打旋風</a>》</strong>、<strong>《<a href="../Page/洛克人系列.md" title="wikilink">洛克人</a>》</strong>、<strong>《<a href="https://zh.wikipedia.org/wiki/最終幻想系列" title="wikilink">最終幻想</a>》</strong>、<strong>《<a href="../Page/月光光心慌慌.md" title="wikilink">月光光心慌慌</a>》</strong>、<strong>《<a href="../Page/星艦奇航記.md" title="wikilink">星艦奇航記</a>》</strong>、<br />
-<strong>《<a href="../Page/洛奇.md" title="wikilink">-{</a>》</strong>、<strong>《<a href="../Page/第一滴血.md" title="wikilink">第一滴血</a>》</strong>、<strong>《<a href="https://zh.wikipedia.org/wiki/異形_(電影系列)" title="wikilink">異形</a>》</strong>、<strong><a href="https://zh.wikipedia.org/wiki/李小龍" title="wikilink">李小龍</a></strong>部分電影、<strong>《<a href="../Page/龍兄虎弟_(1987年電影).md" title="wikilink">龍兄虎弟</a>》</strong>、'''《{{tsl|en|Zombi (film series)</p></td>
+<strong>《<a href="../Page/洛奇.md" title="wikilink">-{</a>》</strong>、<strong>《<a href="../Page/第一滴血.md" title="wikilink">第一滴血</a>》</strong>、<strong>《<a href="../Page/異形_(電影系列).md" title="wikilink">異形</a>》</strong>、<strong><a href="https://zh.wikipedia.org/wiki/李小龍" title="wikilink">李小龍</a></strong>部分電影、<strong>《<a href="../Page/龍兄虎弟_(1987年電影).md" title="wikilink">龍兄虎弟</a>》</strong>、'''《{{tsl|en|Zombi (film series)</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -113,7 +113,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p>Atari 5200</p></td>
 <td><p>2007年2月13日<br />
 2008年7月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/雅達利5200" title="wikilink">雅達利5200</a></strong>（游戲主機） |- </p></td>
+<td><p><strong><a href="../Page/雅達利5200.md" title="wikilink">雅達利5200</a></strong>（游戲主機） |- </p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
@@ -223,14 +223,14 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p><strong><a href="../Page/Virtual_Boy.md" title="wikilink">Virtual Boy</a></strong>（携帶型游戲機）<br />
 參考游戲：</p>
 <hr />
-<p><strong>《<a href="https://zh.wikipedia.org/wiki/马里奥网球" title="wikilink">-{zh-hans:马里奥网球;zh-hant:瑪利歐網球;}-</a>》</strong>、<strong>《》</strong>、<strong>《》</strong>、'''《{{tsl|en|Red Alarm</p></td>
+<p><strong>《<a href="../Page/马里奥网球.md" title="wikilink">-{zh-hans:马里奥网球;zh-hant:瑪利歐網球;}-</a>》</strong>、<strong>《》</strong>、<strong>《》</strong>、'''《{{tsl|en|Red Alarm</p></td>
 </tr>
 <tr class="even">
 <td><p>44</p></td>
 <td><p>Double Vision: Part 1</p></td>
 <td><p>2008年3月25日<br />
 2009年9月17日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Intellivision" title="wikilink">Intellivision</a></strong>（游戲主機）、<strong></strong>（Intellivison外設）<br />
+<td><p><strong><a href="../Page/Intellivision.md" title="wikilink">Intellivision</a></strong>（游戲主機）、<strong></strong>（Intellivison外設）<br />
 參考游戲：</p>
 <hr />
 <p><strong>《太空戰》</strong><em>（Space Battle）</em>、<strong>《X任務》</strong><em>（Mission X）</em>、'''《{{tsl|en|Utopia (video game)</p></td>
@@ -257,7 +257,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p>Star Trek</p></td>
 <td><p>2008年6月11日<br />
 2009年5月7日</p></td>
-<td><p><strong>《-{|zh-hans:星际迷航;zh-hk:星空奇遇記;zh-tw:星艦奇航記;}-》</strong><em>（Star Trek: The Motion Picture）</em>（<a href="https://zh.wikipedia.org/wiki/Vectrex" title="wikilink">Vectrex</a>）<br />
+<td><p><strong>《-{|zh-hans:星际迷航;zh-hk:星空奇遇記;zh-tw:星艦奇航記;}-》</strong><em>（Star Trek: The Motion Picture）</em>（<a href="../Page/Vectrex.md" title="wikilink">Vectrex</a>）<br />
 <strong>《-{zh-hans:星際迷航;zh-hk:星空奇遇記;zh-tw:星艦奇航記;}-：戰略行動模擬器》</strong><em>（）</em>（雅达利2600、ColecoVision）<br />
 <strong>《-{zh-hans:星際迷航;zh-hk:星空奇遇記;zh-tw:星艦奇航記;}-：25週年紀念》</strong><em>（）</em>（FC）<br />
  |- </p></td>
@@ -382,7 +382,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p>Bugs Bunny's Crazy Castle</p></td>
 <td><p>2009年8月5日<br />
 2011年3月15日</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/兔子羅傑_(電子遊戲)" title="wikilink">兔子羅傑</a>》</strong><em>（）</em>（FC）<br />
+<td><p><strong>《<a href="../Page/兔子羅傑_(電子遊戲).md" title="wikilink">兔子羅傑</a>》</strong><em>（）</em>（FC）<br />
 <strong>《兔子羅傑2》</strong><em>（）</em>（GB）<br />
 <strong>《兔子羅傑3》</strong><em>（）</em>（GB）<br />
 <strong>《兔子羅傑瘋狂城堡4》</strong><em>（）</em>（GBC）<br />
@@ -419,7 +419,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p>Litter Red Hood</p></td>
 <td><p>2009年12月3日<br />
 2011年5月13日</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/聖謙" title="wikilink">小紅帽</a>》</strong><em>（Little Red Hood）</em>（FC） |- </p></td>
+<td><p><strong>《<a href="../Page/聖謙.md" title="wikilink">小紅帽</a>》</strong><em>（Little Red Hood）</em>（FC） |- </p></td>
 </tr>
 <tr class="odd">
 <td><p>85</p></td>
@@ -446,7 +446,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 包括：</p>
 <hr />
 <p><strong>Unisonic Tournament 1000</strong><em>、</em><strong></strong>、<strong>Wonder Wizard</strong>、<strong><a href="../Page/RCA_Studio_II.md" title="wikilink">RCA Studio II</a></strong>、<strong></strong>、<br />
-<strong>Super Pong Tellagame</strong>、<strong></strong>、<strong>Ricochet</strong>、<strong>4 Way Video Game</strong>、<strong><a href="https://zh.wikipedia.org/wiki/Color_TV-Game" title="wikilink">Color TV-Game</a> 6</strong>、<strong>Volley 6</strong>、<br />
+<strong>Super Pong Tellagame</strong>、<strong></strong>、<strong>Ricochet</strong>、<strong>4 Way Video Game</strong>、<strong><a href="../Page/Color_TV-Game.md" title="wikilink">Color TV-Game</a> 6</strong>、<strong>Volley 6</strong>、<br />
 <strong>-{|zh-hans:米罗华奥德赛;zh-hant:美格福斯奧德賽;}-</strong> <strong>4000</strong>、<strong><a href="../Page/Fairchild_Channel_F.md" title="wikilink">Fairchild Channel F</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/Telstar_(遊戲機)" title="wikilink">Coleco Telstar</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/Telstar_(遊戲機)" title="wikilink">Coleco Telstar Arcade</a></strong></p></td>
 </tr>
 </tbody>
@@ -487,7 +487,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <strong>《猎豹人2》</strong>（FC）<br />
 <strong>《<a href="../Page/双截龙_(游戏).md" title="wikilink">雙截龍</a>》</strong>（FC）<br />
 <strong>《-{|zh-hans:超级马里奥兄弟;zh-hk:超級瑪利歐兄弟|超级玛利歐兄弟;zh-tw:超級瑪利歐兄弟|超级玛利歐兄弟;}-》</strong>（FC）<br />
-<strong>《<a href="https://zh.wikipedia.org/wiki/超级马里奥兄弟2" title="wikilink">-{</a>》</strong>（FC）<br />
+<strong>《<a href="../Page/超级马里奥兄弟2.md" title="wikilink">-{</a>》</strong>（FC）<br />
 <strong>《-{|zh-hans:超级马里奥兄弟3;zh-hant:超級瑪利歐兄弟3;}-》</strong>（FC）<br />
 <strong>《<a href="https://zh.wikipedia.org/wiki/超级马里奥世界" title="wikilink">-{</a>》</strong>（SFC）<br />
 <strong>《山丘之王》</strong><em>（）</em>（雅达利2600）<br />
@@ -647,7 +647,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <strong>《噴神》</strong><em>（The Angry Video Game Nerd）</em>（雅達利2600）<br />
 <strong>《噴神大戰威利博士》</strong><em>（AVGN vs. Dr. Wily）</em>（FC）<br />
 <strong>《噴神專利品》</strong><em>（AVGN Monopoly）</em>（<a href="../Page/圖版遊戲.md" title="wikilink">圖版遊戲</a>）<br />
-<strong>《打字麵包機》</strong><em>（Texting of the Bread）</em>（<a href="../Page/iOS.md" title="wikilink">iOS</a>）<br />
+<strong>《打字麵包機》</strong><em>（Texting of the Bread）</em>（<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>）<br />
 <strong>《噴神大冒險》</strong><em>（AVGN Adventures）</em>（PC）<br />
  |- </p></td>
 </tr>

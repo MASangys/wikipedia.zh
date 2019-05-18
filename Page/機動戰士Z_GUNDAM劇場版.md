@@ -27,7 +27,7 @@ GUNDAM
 
 劇場版的影片图像，是将电视版镜头画面比例改成剧场版适用的[宽荧幕版](https://zh.wikipedia.org/wiki/宽屏 "wikilink")\[5\]（以下称旧作画）加进同一桢劇場版镜头（以下称新作画）内的特殊方法来剪辑制作。为使旧作画与新作画的新旧镜头的質感接近而进行名为“Aging”（老化的意思）的特殊处理\[6\]。制作计划发表时，富野曾说这是由于《Z
 剧场版》并不是全新作品的缘故，才采取这样的制作手法
-。而对于镜头，在旧作画的帧内对画面的部分细节内容（比如[驾驶舱内控制台的显示](https://zh.wikipedia.org/wiki/驾驶舱 "wikilink")）进行添加或修改
+。而对于镜头，在旧作画的帧内对画面的部分细节内容（比如[驾驶舱内控制台的显示](../Page/驾驶舱.md "wikilink")）进行添加或修改
 。\[7\]
 
 新作画部分因是在电视动画版之后所制作的，所以在《[机动战士GUNDAM 0083 STARDUST
@@ -80,12 +80,12 @@ GUNDAM》相关的各种游戏，均啟用劇場版声優进行配音。
   - 美術監督：東潤一（I）、甲斐政俊
   - 数码色彩設計：すずきたかこ
   - 摄影監督：木部さおり
-  - Studio演出：[松尾衡](https://zh.wikipedia.org/wiki/松尾衡 "wikilink")
+  - Studio演出：[松尾衡](../Page/松尾衡.md "wikilink")
   - 編集：山森重之（I）、坂本久美子（II・III）
   - 原始分镜提供：原田奈奈、宅野誠起（II・III）
   - 設定協力：[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")（II）、[カトキハジメ](https://zh.wikipedia.org/wiki/カトキハジメ "wikilink")（III）
   - 音乐：[三枝成彰](../Page/三枝成彰.md "wikilink")
-  - 主題歌：[Gackt](../Page/Gackt.md "wikilink")
+  - 主題歌：[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")
   - 音響監督：[藤野貞義](https://zh.wikipedia.org/wiki/藤野貞義 "wikilink")
   - 音乐制作：大田敏明、ボーダーライン
   - 音乐協力：[King
@@ -95,14 +95,14 @@ GUNDAM》相关的各种游戏，均啟用劇場版声優进行配音。
   - 動画：[GAINAX](../Page/GAINAX.md "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")
   - 背景：[吉卜力工作室](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")（II）
   - 配給：[松竹](../Page/松竹.md "wikilink")
-  - 制作協力：[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")、名古屋电视台（現在的名称为メ〜テレ）\[20\]
+  - 制作協力：[萬代影視](../Page/萬代影視.md "wikilink")、名古屋电视台（現在的名称为メ〜テレ）\[20\]
   - 制片：松村圭一（SUNRISE）、久保聪（Bandai Visual）
   - 企画・製作：[SUNRISE](../Page/日昇動畫.md "wikilink")
   - 总导演：[富野由悠季](../Page/富野由悠季.md "wikilink")
 
 ## 主題歌・BGM
 
-主題曲由富野由悠季的友人，狂热的熱烈GUNDAM迷负责制作[Gackt](../Page/Gackt.md "wikilink")\[21\]。背景音乐则与电视剧版一样仍由[三枝成彰负责](../Page/三枝成彰.md "wikilink")\[22\]。
+主題曲由富野由悠季的友人，狂热的熱烈GUNDAM迷负责制作[Gackt](https://zh.wikipedia.org/wiki/Gackt "wikilink")\[21\]。背景音乐则与电视剧版一样仍由[三枝成彰负责](../Page/三枝成彰.md "wikilink")\[22\]。
 
 另外，MS的動作音等的特效音源制作由原先的（現
 ）改为进行，结果音效变得同《[機動戰士高達](https://zh.wikipedia.org/wiki/機動戦士ガンダム "wikilink")》和《[機動戰士高達0083](https://zh.wikipedia.org/wiki/機動戦士ガンダム0083_STARDUST_MEMORY "wikilink")》的效果一样\[23\]。
@@ -119,7 +119,8 @@ GUNDAM》相关的各种游戏，均啟用劇場版声優进行配音。
   -
 
   - 片尾主题曲
-    全部歌曲的作詞・作曲 - [Gackt.C](../Page/Gackt.md "wikilink") / 演唱 -
+    全部歌曲的作詞・作曲 -
+    [Gackt.C](https://zh.wikipedia.org/wiki/Gackt "wikilink") / 演唱 -
     Gackt（唱片公司 -
     [日本皇冠](https://zh.wikipedia.org/wiki/日本皇冠 "wikilink")\[24\]）
 
@@ -158,7 +159,7 @@ GUNDAM》相关的各种游戏，均啟用劇場版声優进行配音。
 
 ## DVD /Blu-ray
 
-销售，销售代理为[萬代影視](https://zh.wikipedia.org/wiki/萬代影視 "wikilink")。
+销售，销售代理为[萬代影視](../Page/萬代影視.md "wikilink")。
 
 ### DVD（第1作）
 

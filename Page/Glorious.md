@@ -17,7 +17,7 @@
   - [BEAT out\!](https://zh.wikipedia.org/wiki/BEAT_out! "wikilink")
   - [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")
   - [DRIVE-GLAY complete
-    BEST](https://zh.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")
+    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
   - [rare collectives
     vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF

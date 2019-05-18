@@ -1,5 +1,4 @@
-《**Some
-Nights**》是美国[独立流行乐队](https://zh.wikipedia.org/wiki/独立流行 "wikilink")
+《**Some Nights**》是美国[独立流行乐队](../Page/独立流行.md "wikilink")
 [Fun.](https://zh.wikipedia.org/wiki/Fun. "wikilink") 的第二张录音室专辑，由
 [Fueled by
 Ramen](https://zh.wikipedia.org/wiki/Fueled_by_Ramen "wikilink")

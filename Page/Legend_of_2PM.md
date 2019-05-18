@@ -8,7 +8,7 @@
   - 收錄第4張單曲《[Beautiful](https://zh.wikipedia.org/wiki/Beautiful_\(2PM單曲\) "wikilink")》和第5張單曲《[Masquerade](https://zh.wikipedia.org/wiki/Masquerade_\(2PM單曲\) "wikilink")》，以及的B面曲《[如果你在那裡](https://zh.wikipedia.org/wiki/Beautiful_\(2PM單曲\) "wikilink")》，共2首A面曲和1首B面曲。
   - 本作分「初回生産限定盤A」、「初回生産限定盤B」、「通常盤」和「PLAYBUTTON」4種版本。「初回生産限定盤A」收錄了特別片段「Prologue
     of LEGEND OF 2PM」，以及專輯《LEGEND OF 2PM》的Making。
-  - 「初回生産限定盤B」收錄了6首成員獨唱歌曲，包括成員[祐榮首張迷你專輯](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")《[23,Male,Single](https://zh.wikipedia.org/wiki/23,Male,Single "wikilink")》主打曲目《Sexy
+  - 「初回生産限定盤B」收錄了6首成員獨唱歌曲，包括成員[祐榮首張迷你專輯](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")《[23,Male,Single](../Page/23,Male,Single.md "wikilink")》主打曲目《Sexy
     Lady》；「通常盤」追加收錄第1枚原創專輯「[REPUBLIC OF
     2PM](https://zh.wikipedia.org/wiki/REPUBLIC_OF_2PM "wikilink")」收錄曲「即使分離（LIVE
     ver.）」
@@ -50,7 +50,7 @@
 1.  **Sexy Lady**
       -
         [祐榮主唱](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")
-        1st迷你專輯《[23,Male,Single](https://zh.wikipedia.org/wiki/23,Male,Single "wikilink")》主打曲目
+        1st迷你專輯《[23,Male,Single](../Page/23,Male,Single.md "wikilink")》主打曲目
 2.  **SAY YES**
       -
         [俊昊主唱](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")

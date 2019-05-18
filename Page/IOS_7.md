@@ -1,12 +1,12 @@
 **iOS
-7**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第七個主要版本](../Page/iOS.md "wikilink")，取代前代作業系統[iOS
-6](../Page/iOS_6.md "wikilink")。iOS
+7**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第七個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS
+6](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")。iOS
 7於2013年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月18日正式推出。繼任者為2014年9月17日推出的[iOS
 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")\[1\]。
 
 在蘋果設計高級副總裁[強納生·艾夫的主導下](../Page/乔纳森·埃维.md "wikilink")，iOS
 7採用了全新的的視覺設計，整體風格由[iOS
-6以前的](../Page/iOS_6.md "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[2\]\[3\]。另外，iOS
+6以前的](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[2\]\[3\]。另外，iOS
 7也新增了許多新功能：[控制中心](https://zh.wikipedia.org/wiki/控制中心_\(iOS\) "wikilink")，使用戶能夠快捷開啟[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[相機及](https://zh.wikipedia.org/wiki/相機 "wikilink")[計算機等常用功能及調整螢幕亮度](../Page/計算機_\(應用程式\).md "wikilink")、播放或暫停音樂等；[AirDrop隔空投放技術](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，能使裝置在沒有網路連線的情況下，以藍牙快速傳遞檔案；[CarPlay產業標準](https://zh.wikipedia.org/wiki/CarPlay "wikilink")，使用戶可透過汽車車載系統操控iOS裝置；[多工處理功能也有所改良](https://zh.wikipedia.org/wiki/多元處理 "wikilink")，介面獲得更新，並能夠在背景自動整理應用程式；語音助理[Siri功能加強](../Page/Siri.md "wikilink")，並改以波動表達互動感。
 
 在iOS 7正式版推出後一天內，整體安裝率即達到35%，一周內即有超過2億部裝置安裝iOS 7，是歷年來最快的一次\[4\]\[5\]。
@@ -80,17 +80,17 @@ iOS
 
 在蘋果設計高級副總裁[強納生·艾夫的主導下](../Page/乔纳森·埃维.md "wikilink")，iOS
 7採用了全新的的視覺設計，整體風格由[iOS
-6以前的](../Page/iOS_6.md "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[56\]\[57\]。據強納生表示：「恆久深刻的美，呈現在簡潔、清晰、效率之上。真正的簡潔不是只除去一切雜亂及裝飾，而是要為複雜性帶來秩序。iOS
+6以前的](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[56\]\[57\]。據強納生表示：「恆久深刻的美，呈現在簡潔、清晰、效率之上。真正的簡潔不是只除去一切雜亂及裝飾，而是要為複雜性帶來秩序。iOS
 7 明確地呈現這些目標。它有著全新的架構，以協調一致的方式橫跨整個系統的應用。」\[58\]\[59\]
 
 ### AirDrop
 
 [AirDrop檔案傳輸功能於](https://zh.wikipedia.org/wiki/AirDrop "wikilink")[Mac
 OS X Lion中出現](../Page/Mac_OS_X_Lion.md "wikilink")，並於iOS
-7首次引入[iOS中](../Page/iOS.md "wikilink")。用戶可在控制中心或分享選單中點選AirDrop功能，透過[Wi-Fi直连技術將照片](https://zh.wikipedia.org/wiki/Wi-Fi直连 "wikilink")、影片等檔案與附近的iOS裝置用户共享\[60\]\[61\]\[62\]。由於硬體機能因素，AirDrop功能只能在[iPhone
-5](../Page/iPhone_5.md "wikilink")、[第五代iPod
-touch](https://zh.wikipedia.org/wiki/IPod_touch_\(第五代\) "wikilink")、[第四代iPad](../Page/IPad_\(第四代\).md "wikilink")、[第一代iPad
-mini及更新机型上使用](https://zh.wikipedia.org/wiki/IPad_mini "wikilink")\[63\]\[64\]。
+7首次引入[iOS中](https://zh.wikipedia.org/wiki/iOS "wikilink")。用戶可在控制中心或分享選單中點選AirDrop功能，透過[Wi-Fi直连技術將照片](https://zh.wikipedia.org/wiki/Wi-Fi直连 "wikilink")、影片等檔案與附近的iOS裝置用户共享\[60\]\[61\]\[62\]。由於硬體機能因素，AirDrop功能只能在[iPhone
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[第五代iPod
+touch](../Page/IPod_touch_\(第五代\).md "wikilink")、[第四代iPad](../Page/IPad_\(第四代\).md "wikilink")、[第一代iPad
+mini及更新机型上使用](../Page/IPad_mini.md "wikilink")\[63\]\[64\]。
 
 ### 控制中心
 
@@ -147,7 +147,7 @@ Store獲得許多重大更新](../Page/App_Store_\(iOS\).md "wikilink")，包括
 
 iOS
 7於相機應用程式內新增「正方形」模式，能拍攝與社群媒體[Instagram相似的相片](../Page/Instagram.md "wikilink")，並加入了多種濾鏡\[109\]\[110\]\[111\]\[112\]；「連拍」模式，按住拍攝按鈕，就能以每秒10張的速率拍攝相片\[113\]；[iPhone
-5s專用的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")「[慢動作](https://zh.wikipedia.org/wiki/慢动作 "wikilink")」模式，能以每秒120格的高[幀率錄製影片](../Page/帧率.md "wikilink")，並可以在相片應用程式編輯慢動作的起迄點\[114\]；其它更新包括重新設計的介面、在錄影過程中可以使用手指縮放[變焦等](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")\[115\]\[116\]。
+5s專用的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")「[慢動作](../Page/慢动作.md "wikilink")」模式，能以每秒120格的高[幀率錄製影片](../Page/帧率.md "wikilink")，並可以在相片應用程式編輯慢動作的起迄點\[114\]；其它更新包括重新設計的介面、在錄影過程中可以使用手指縮放[變焦等](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")\[115\]\[116\]。
 
 相片應用程式則經過重新設計，改為「相片」、「分享」及「相簿」等三標籤頁形式；相片除了以「時間」排序，還可以「年份」、「選集」或新加入的「時刻」模式排序。在「時刻」分類中，相片將會依照拍攝時間與地點歸類為不同的「時刻」\[117\]\[118\]。相片串流功能現在正式支援影片的分享，共享相片串流相簿中首次支援讓其它的用户上傳相片或影片檔案\[119\]。此外，相片應用程式還新增了[AirDrop分享選項](../Page/隔空投送.md "wikilink")\[120\]。
 
@@ -172,41 +172,41 @@ Music取代](../Page/Apple_Music.md "wikilink")\[123\]\[124\]。
 ### Find My iPhone
 
 在iOS 7中，如果用户開啓了[Find My
-iPhone功能](../Page/查找我的iPhone.md "wikilink")，將需要輸入[iCloud帳號與密碼才能關閉或清除手機資料](../Page/iCloud.md "wikilink")\[130\]\[131\]。
+iPhone功能](../Page/查找我的iPhone.md "wikilink")，將需要輸入[iCloud帳號與密碼才能關閉或清除手機資料](https://zh.wikipedia.org/wiki/iCloud "wikilink")\[130\]\[131\]。
 
 ## 支援裝置
 
-由於硬體限制，[iPhone 3GS及](../Page/iPhone_3GS.md "wikilink")[第四代iPod
+由於硬體限制，[iPhone
+3GS及](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[第四代iPod
 touch無法升級至iOS](../Page/IPod_touch_\(第四代\).md "wikilink")
 7\[132\]\[133\]。
 
 ### iPhone
 
-  - [iPhone 4](../Page/iPhone_4.md "wikilink")
-  - [iPhone 4s](../Page/iPhone_4s.md "wikilink")
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
+  - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
+  - [iPhone 4s](https://zh.wikipedia.org/wiki/iPhone_4s "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
   - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
 
 ### iPod touch
 
-  - [IPod touch
-    (第五代)](https://zh.wikipedia.org/wiki/IPod_touch_\(第五代\) "wikilink")
+  - [IPod touch (第五代)](../Page/IPod_touch_\(第五代\).md "wikilink")
 
 ### iPad
 
-  - [iPad 2](../Page/iPad_2.md "wikilink")
-  - [iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink")
-  - [iPad (第四代)](../Page/iPad_\(第四代\).md "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
+  - [iPad (第四代)](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")
   - [iPad Air
     (第一代)](https://zh.wikipedia.org/wiki/iPad_Air_\(第一代\) "wikilink")
-  - [iPad mini (第一代)](../Page/iPad_mini_\(第一代\).md "wikilink")
+  - [iPad mini
+    (第一代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")
   - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
 
 ## 參見
 
-  - [Android
-    KitKat](https://zh.wikipedia.org/wiki/Android_KitKat "wikilink")
+  - [Android KitKat](../Page/Android_KitKat.md "wikilink")
   - [Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")
 
 ## 外部連結

@@ -39,7 +39,7 @@
 
 ## 收錄專輯
 
-  - [GUILTY](https://zh.wikipedia.org/wiki/GUILTY_\(GLAY\) "wikilink")
+  - [GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")
   - [GLAY](https://zh.wikipedia.org/wiki/GLAY_\(GLAY\) "wikilink")（台灣台壓版）
 
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")

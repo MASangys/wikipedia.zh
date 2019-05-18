@@ -6,7 +6,7 @@ Point發行](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")。
 
   - 距離前作《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》約一年的新原創專輯，收錄單曲《[Big
     Boys
-    Cry](https://zh.wikipedia.org/wiki/Big_Boys_Cry/Beautiful "wikilink")》、《[Contrail](https://zh.wikipedia.org/wiki/Contrail "wikilink")》，但並未收錄早前的單曲《[Damage](https://zh.wikipedia.org/wiki/Damage "wikilink")》跟《[Beautiful](https://zh.wikipedia.org/wiki/Big_Boys_Cry/Beautiful "wikilink")》\[1\]。
+    Cry](https://zh.wikipedia.org/wiki/Big_Boys_Cry/Beautiful "wikilink")》、《[Contrail](../Page/Contrail.md "wikilink")》，但並未收錄早前的單曲《[Damage](../Page/Damage.md "wikilink")》跟《[Beautiful](https://zh.wikipedia.org/wiki/Big_Boys_Cry/Beautiful "wikilink")》\[1\]。
   - 封面以黑白作為色彩基調、以把耳、眼、口掩上的動作表達出「[不看、不聽、不說](../Page/三猿.md "wikilink")」的概念，期望歌迷「用心」來感受音樂。\[2\]\[3\]。
   - 專輯曲風比上一張專輯更具歐美味道，主要以時下流行的EDM（電子跳舞音樂）為骨幹。而歌唱部分整張專輯的英語歌詞比日語還多，其中〈Alive〉〈Hands
     On Me〉〈Heaven〉〈La La La〉〈Supernatural Love〉〈Let Me Let You

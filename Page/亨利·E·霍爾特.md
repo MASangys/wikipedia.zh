@@ -8,7 +8,7 @@ Holt**，）\[1\]，[美國天文學家](https://zh.wikipedia.org/wiki/美國 "w
 
 霍爾特曾經是[美國地質調查局的](../Page/美國地質調查局.md "wikilink")[行星地質學家](../Page/行星地質學.md "wikilink")，並曾任教於[北亞利桑那大學](../Page/北亞利桑那大學.md "wikilink")。1960年代他曾經研究[月球表面的測光](../Page/月球.md "wikilink")，而這些是[測量員計畫和](../Page/測量員計畫.md "wikilink")[阿波羅計畫的一部分](https://zh.wikipedia.org/wiki/阿波羅計畫 "wikilink")\[2\]。
 
-[小行星4435以他的名字命名](https://zh.wikipedia.org/wiki/小行星4435 "wikilink")\[3\]。
+[小行星4435以他的名字命名](../Page/小行星4435.md "wikilink")\[3\]。
 
 ## 參考資料
 

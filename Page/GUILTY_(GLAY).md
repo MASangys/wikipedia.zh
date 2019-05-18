@@ -8,18 +8,18 @@
     SURPRISES」的第二彈企劃，和11th原創專輯『[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")』同時發行。距離上一張原創專輯『[GLAY](https://zh.wikipedia.org/wiki/GLAY_\(GLAY\) "wikilink")』相隔2年3個月的時間。
   - GLAY出道以來第一次同時發行2張原創專輯。
   - 和『JUSTICE』不同的是：這張專輯依舊和合作多年的製作人[佐久間正英共同製作](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")。
-  - 專輯名稱的由來是[TAKURO喜愛](../Page/TAKURO.md "wikilink")[HISASHI的專屬吉他名字](../Page/HISASHI.md "wikilink")「JUSTICE」、「GUILTY」而來。(節錄自『WHAT's
+  - 專輯名稱的由來是[TAKURO喜愛](https://zh.wikipedia.org/wiki/TAKURO "wikilink")[HISASHI的專屬吉他名字](https://zh.wikipedia.org/wiki/HISASHI "wikilink")「JUSTICE」、「GUILTY」而來。(節錄自『WHAT's
     IN?』日本雜誌 2012年12月號)。
   - 除了CD
     ONLY盤外，另外發行『CD+DVD盤』的版本。DVD收錄內容為：由團員以各種手法徹底剖析《GUILTY》，更收錄取自2012.12.10
     Zeep Diver City演唱會現場影像一共長達84分鐘精彩內容。台灣有發行CD+DVD盤的『台壓版』。
   - [廣告由女演員](../Page/廣告.md "wikilink")[平愛梨演出](../Page/平愛梨.md "wikilink")，共3種版本。
-  - 專輯封面LOGO由[TERU所設計](../Page/TERU.md "wikilink")，GLAY的原創專輯中，自『[pure
+  - 專輯封面LOGO由[TERU所設計](https://zh.wikipedia.org/wiki/TERU "wikilink")，GLAY的原創專輯中，自『[pure
     soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")』發行以來相隔15年的時間，專輯封面沒有使用團員肖像。
 
 ## ORICON排行榜成績
 
-榮獲[ORICON專輯排行榜第](../Page/ORICON.md "wikilink")2名，『JUSTICE』獲得專輯榜第1名，獨佔2013年2月4日ORICON專輯榜1、2名的位置。原創專輯獨佔當週排行榜1、2名的成績是繼[TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")、[L'Arc〜en〜Ciel之後相隔](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")13年半的史上第3組歌手，21世紀則是第一組歌手獲得此成績
+榮獲[ORICON專輯排行榜第](https://zh.wikipedia.org/wiki/ORICON "wikilink")2名，『JUSTICE』獲得專輯榜第1名，獨佔2013年2月4日ORICON專輯榜1、2名的位置。原創專輯獨佔當週排行榜1、2名的成績是繼[TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")、[L'Arc〜en〜Ciel之後相隔](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")13年半的史上第3組歌手，21世紀則是第一組歌手獲得此成績
 
 ## 收錄曲目
 
@@ -32,18 +32,18 @@
         第44張單曲，追加「Red moon & Silver sun」專輯版本。在之前的演唱會『GLAY
         HIGHCOMMUNICATIONS TOUR 2011-2012 RED MOON & SILVER
         SUN』就以這個版本作為開場
-2.  **[everKrack](https://zh.wikipedia.org/wiki/G4_II_-THE_RED_MOON- "wikilink")
-    (album ver.)** (4:14)
+2.  **[everKrack](../Page/G4_II_-THE_RED_MOON-.md "wikilink") (album
+    ver.)** (4:14)
       -
         第43張單曲「[G4 II -THE RED
-        MOON-](https://zh.wikipedia.org/wiki/G4_II_-THE_RED_MOON- "wikilink")」收錄曲，此為專輯版本。
+        MOON-](../Page/G4_II_-THE_RED_MOON-.md "wikilink")」收錄曲，此為專輯版本。
 3.  **FACTORY** (4:53)
 4.  **冬季人行道** (4:24)
       -
         原創專輯『GLAY』時期所寫的歌曲，因為沒有收錄進來，經過2年半的時間終於收錄在此張專輯
 5.  **繁花啊暴風雨** (4:30)
-6.  **[霧之中](https://zh.wikipedia.org/wiki/G4_II_-THE_RED_MOON- "wikilink")
-    (album ver.)** (4:29)
+6.  **[霧之中](../Page/G4_II_-THE_RED_MOON-.md "wikilink") (album ver.)**
+    (4:29)
       -
         第43張單曲「G4 II -THE RED MOON-」收錄曲，此為專輯版本。
 7.  **吟唱初戀** (4:55)
@@ -52,8 +52,7 @@
 8.  **[Bible](../Page/Bible_\(GLAY\).md "wikilink")** (4:28)
       -
         第45張單曲。
-9.  **[Ruby's
-    Blanket](https://zh.wikipedia.org/wiki/G4_II_-THE_RED_MOON- "wikilink")**
+9.  **[Ruby's Blanket](../Page/G4_II_-THE_RED_MOON-.md "wikilink")**
     (4:07)
       -
         第43張單曲「G4 II -THE RED MOON-」收錄曲。

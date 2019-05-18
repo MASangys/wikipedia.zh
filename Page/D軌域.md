@@ -30,7 +30,7 @@
 
 d軌域是很常見的軌域，大部分的[過渡金屬的](https://zh.wikipedia.org/wiki/過渡金屬 "wikilink")[價軌域都是d軌域](https://zh.wikipedia.org/wiki/價電子 "wikilink")，在同一個[主量子數中](../Page/主量子數.md "wikilink")，d軌域是[能量第三低的軌域](../Page/能量.md "wikilink")，比s軌域與p軌域來的高，由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，[第4](https://zh.wikipedia.org/wiki/第四週期 "wikilink")、[5週期中](https://zh.wikipedia.org/wiki/第五週期 "wikilink")，在[價](https://zh.wikipedia.org/wiki/價電子 "wikilink")[殼層中的d軌域能量很低](../Page/殼層.md "wikilink")，僅次於同一個價殼層中的s軌域。但[第六週期出現能量更低的](https://zh.wikipedia.org/wiki/第六週期 "wikilink")[f軌域](https://zh.wikipedia.org/wiki/f軌域 "wikilink")。
 
-另外，d軌域可以和[s軌域與](../Page/s軌域.md "wikilink")[p軌域發生](../Page/p軌域.md "wikilink")[混成形成](https://zh.wikipedia.org/wiki/混成 "wikilink")[dsp混成軌域](https://zh.wikipedia.org/wiki/dsp杂化 "wikilink")\[1\]\[2\]。
+另外，d軌域可以和[s軌域與](https://zh.wikipedia.org/wiki/s軌域 "wikilink")[p軌域發生](https://zh.wikipedia.org/wiki/p軌域 "wikilink")[混成形成](https://zh.wikipedia.org/wiki/混成 "wikilink")[dsp混成軌域](https://zh.wikipedia.org/wiki/dsp杂化 "wikilink")\[1\]\[2\]。
 
 ## 命名
 
@@ -43,9 +43,9 @@ d軌域的「d」是「diffused」，其為「漫系光譜」之意。
 
 d軌域從[主量子數n](../Page/主量子數.md "wikilink")=3開始出現，最小的d軌域是3d軌域，也就是說1d、2d軌域不存在，當[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2時，其軌域為d軌域，主量子數不可小於三，對應於五個[磁量子數](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")2、1、0、-1、-2，在3d軌域中，有五個[能量相同的](../Page/能量.md "wikilink")3d軌域，同樣的，主量子數為4以上時也有五個4d軌域，因此，每個[殼層都有五個d軌域](../Page/殼層.md "wikilink")，它們分別為、、、、，但是沒有、、、。在存在的五個d軌域（、、、、）中，有四個[形狀相同](../Page/形狀.md "wikilink")，分別為：、、、但方向不同，而是五個d軌域中形狀與眾不同的一個，儘管如此，軌域仍具有和、、及相同之能量。
 
-4d、5d、6d軌域可視為性質與3d軌域相似，只是大小比較大，其與[p軌域類似](../Page/p軌域.md "wikilink")，也有「正負性」，這些「正負性」變化在[原子軌域彼此形成](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")[化學鍵時非常重要](https://zh.wikipedia.org/wiki/化學鍵 "wikilink")。
+4d、5d、6d軌域可視為性質與3d軌域相似，只是大小比較大，其與[p軌域類似](https://zh.wikipedia.org/wiki/p軌域 "wikilink")，也有「正負性」，這些「正負性」變化在[原子軌域彼此形成](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")[化學鍵時非常重要](https://zh.wikipedia.org/wiki/化學鍵 "wikilink")。
 
-d軌域一樣有[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，類似於[p軌域的形式](../Page/p軌域.md "wikilink")，但軌域中間的部分較特別，是一個環狀結構像外的波，但電子出現概率和s軌域相反，例如軌域的中間部分：在靠近原子核之處電子出現概率幾乎是0，然後開始增加，出現一個較高電子出現概率的環狀區域，但繼續向外看之後，隨即降為0，接著又增加，出現一個更大的較高電子出現概率的環狀區域，然後在距離原子核甚遠的地方又為0，而上下的雙啞鈴形的結構則與p軌域相同。
+d軌域一樣有[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，類似於[p軌域的形式](https://zh.wikipedia.org/wiki/p軌域 "wikilink")，但軌域中間的部分較特別，是一個環狀結構像外的波，但電子出現概率和s軌域相反，例如軌域的中間部分：在靠近原子核之處電子出現概率幾乎是0，然後開始增加，出現一個較高電子出現概率的環狀區域，但繼續向外看之後，隨即降為0，接著又增加，出現一個更大的較高電子出現概率的環狀區域，然後在距離原子核甚遠的地方又為0，而上下的雙啞鈴形的結構則與p軌域相同。
 
 ## 電子波
 
@@ -78,7 +78,7 @@ d軌域有能階交錯現象。例如，3d的能量似乎應該低於4s，而實
 
 ## 性質
 
-d軌域在半填滿和全填滿時較穩定，因此，許多[過渡金屬傾向於失去d軌域的](https://zh.wikipedia.org/wiki/過渡金屬 "wikilink")[電子直到其成為半填滿為止](https://zh.wikipedia.org/wiki/電子 "wikilink")，如[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")，原[價電子組態為](https://zh.wikipedia.org/wiki/價電子 "wikilink")3d<sup>6</sup>4s<sup>2</sup>，失去[s軌域後還會再放出](../Page/s軌域.md "wikilink")1個d軌域[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")，使其成為Fe<sup>3+</sup>，組態為：3d<sup>5</sup>，此時d軌域半填滿，因此Fe<sup>3+</sup>較穩定，這也是為何Fe<sup>2+</sup>離子傾向於變成Fe<sup>3+</sup>離子的原因。
+d軌域在半填滿和全填滿時較穩定，因此，許多[過渡金屬傾向於失去d軌域的](https://zh.wikipedia.org/wiki/過渡金屬 "wikilink")[電子直到其成為半填滿為止](https://zh.wikipedia.org/wiki/電子 "wikilink")，如[鐵](https://zh.wikipedia.org/wiki/鐵 "wikilink")，原[價電子組態為](https://zh.wikipedia.org/wiki/價電子 "wikilink")3d<sup>6</sup>4s<sup>2</sup>，失去[s軌域後還會再放出](https://zh.wikipedia.org/wiki/s軌域 "wikilink")1個d軌域[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")，使其成為Fe<sup>3+</sup>，組態為：3d<sup>5</sup>，此時d軌域半填滿，因此Fe<sup>3+</sup>較穩定，這也是為何Fe<sup>2+</sup>離子傾向於變成Fe<sup>3+</sup>離子的原因。
 
 ## 週期表
 

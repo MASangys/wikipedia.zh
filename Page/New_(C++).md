@@ -4,7 +4,7 @@ new的使用称为“new运算符表达式”，其内部实现分为两步：
 
 1.  调用相应的`operator new()`函数，动态分配内存。如果`operator
     new()`不能成功获得内存，则调用new_handler函数。如果没有设置new_handler函数或者new_handler未能分配足够内存，则抛出`std::bad_alloc`[异常](../Page/C++异常处理.md "wikilink")。“new运算符表达式”所调用的`operator
-    new()`函数，按照C++的规则，首先做[依赖于实参的名字查找](https://zh.wikipedia.org/wiki/依赖于实参的名字查找 "wikilink")（即ADL规则），在要申请内存的数据类型T的内部、数据类型T定义处的命名空间查找；如果没有查找到，则直接调用全局的::operator
+    new()`函数，按照C++的规则，首先做[依赖于实参的名字查找](../Page/依赖于实参的名字查找.md "wikilink")（即ADL规则），在要申请内存的数据类型T的内部、数据类型T定义处的命名空间查找；如果没有查找到，则直接调用全局的::operator
     new()函数。
 2.  在分配到的动态内存块上初始化相应类型的对象并返回其首地址。如果调用[构造函数初始化对象时抛出异常](https://zh.wikipedia.org/wiki/构造函数 "wikilink")，则自动调用operator
     delete()函数释放已经分配到的内存。
@@ -230,7 +230,7 @@ new()`函数既可以作为全局函数重载，也可以作为类成员函数�
 ### 普通的operator new(size_t size)函数
 
 `new`运算符调用`operator new`函数动态分配内存。首先查找类内是否有`operator
-new`函数可供使用（即[依赖于实参的名字查找](https://zh.wikipedia.org/wiki/依赖于实参的名字查找 "wikilink")）。\[1\]`operator
+new`函数可供使用（即[依赖于实参的名字查找](../Page/依赖于实参的名字查找.md "wikilink")）。\[1\]`operator
 new`函数的参数是一个size_t类型，指明了需要分配内存的规模。<ref>`operator
 new`函数的参数是一个size_t类型，却几乎从不被用户显式使用。其解释是：per-class
 allocator机制将适用整个类继承体系，而不是面向单个类。对子类使用new运算符时，可能会调用父类中定义的`operator

@@ -7,7 +7,7 @@
 它基于[Ubuntu使用](../Page/Ubuntu.md "wikilink")[Linux内核](../Page/Linux内核.md "wikilink")。andLinux是一在[GNU通用公共许可证下释出的开源免费软件](../Page/GNU通用公共许可证.md "wikilink")。\[1\]
 它使用了Colinux为其内核，[Xming为其](https://zh.wikipedia.org/wiki/Xming "wikilink")[X
 Window服务器](https://zh.wikipedia.org/wiki/X_Window "wikilink"),
-[PulseAudio来为其声音服务器](../Page/PulseAudio.md "wikilink")，以及裁剪过的[KDE或](../Page/KDE.md "wikilink")[XFCE桌面](../Page/XFCE.md "wikilink")。
+[PulseAudio来为其声音服务器](../Page/PulseAudio.md "wikilink")，以及裁剪过的[KDE或](../Page/KDE.md "wikilink")[XFCE桌面](https://zh.wikipedia.org/wiki/XFCE "wikilink")。
 
 ## 架构
 

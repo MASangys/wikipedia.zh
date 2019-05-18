@@ -12,7 +12,7 @@ Do首次投入獨立製作，企劃相關概念圖早於正式宣傳約一年前
 
 2013年3月6日，按照本作原案概念而製成的宣傳片於同一公司製作的《[玉子市場](../Page/玉子市場.md "wikilink")》播放期間揭露，取名為CM「游泳篇」\[2\]。片段隨即得到極大迴響，於Youtube上突破了高達3百萬次點擊\[3\]，並一度觸發部分歐美動漫愛好者以簽名行動促成[京都動畫把有關作品確實轉化為](../Page/京都動畫.md "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。
 
-同年4月26日，[京都動畫透過](../Page/京都動畫.md "wikilink")[NICONICO生放送正式開始宣傳本作第](../Page/NICONICO動畫.md "wikilink")1期，並於同日正式開設本作之官方網站。角色設計和身份設定與過去發佈的影像存在些微改動。作品於2013年7月至9月播放。
+同年4月26日，[京都動畫透過](../Page/京都動畫.md "wikilink")[NICONICO生放送正式開始宣傳本作第](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")1期，並於同日正式開設本作之官方網站。角色設計和身份設定與過去發佈的影像存在些微改動。作品於2013年7月至9月播放。
 
 第1期播放完畢後，先後在片尾插畫和京都動畫公司活動上透露會再次見面的消息。
 
@@ -43,8 +43,8 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 ## 製作人員
 
   - 原案：『High☆Speed\!（）』（[KA
-    Esuma文庫](https://zh.wikipedia.org/wiki/KA_Esuma文庫 "wikilink")/[京都動畫](../Page/京都動畫.md "wikilink")）
-  - 監督：內海紘子[河浪榮作](https://zh.wikipedia.org/wiki/河浪榮作 "wikilink")
+    Esuma文庫](../Page/KA_Esuma文庫.md "wikilink")/[京都動畫](../Page/京都動畫.md "wikilink")）
+  - 監督：內海紘子[河浪榮作](../Page/河浪榮作.md "wikilink")
   - 系列構成：[橫谷昌宏](../Page/橫谷昌宏.md "wikilink")
   - 角色設計、總作畫監督：[西屋太志](../Page/西屋太志.md "wikilink")
   - 美術監督：鵜之口穰二笠井信吾
@@ -54,7 +54,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
   - 攝影監督：高尾一也
   - 編集：重村建吾
   - 音響監督：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 音樂：[加藤達也](https://zh.wikipedia.org/wiki/加藤達也 "wikilink")
+  - 音樂：[加藤達也](../Page/加藤達也.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")、Heart Company
   - 監製：八田英明
   - 製作人：八田真一郎、中村伸一、齋藤滋、西出將之、鈴木
@@ -64,8 +64,8 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 ## 主題曲
 
   - 第1期
-    片頭曲「[RAGE ON](https://zh.wikipedia.org/wiki/Rage_on "wikilink")」
-    作詞：YORKE.，作曲：[Ta_2](../Page/鈴木達央.md "wikilink")，編曲：下畑"Rio"良介，主唱：[OLDCODEX](https://zh.wikipedia.org/wiki/OLDCODEX "wikilink")
+    片頭曲「[RAGE ON](../Page/Rage_on.md "wikilink")」
+    作詞：YORKE.，作曲：[Ta_2](../Page/鈴木達央.md "wikilink")，編曲：下畑"Rio"良介，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
   - 片尾曲
 
@@ -85,7 +85,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
   -
 
       -
-        作詞：，作曲、編曲：[加藤達也](https://zh.wikipedia.org/wiki/加藤達也 "wikilink")
+        作詞：，作曲、編曲：[加藤達也](../Page/加藤達也.md "wikilink")
         主唱：STYLE FIVE［七瀨 遙（島崎信長）、松岡 凜（宮野真守）、橘 真琴（鈴木達央）、葉月 渚（代永翼）、龍崎
         怜（平川大輔）］
 
@@ -170,7 +170,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>重逢於起跳台</p></td>
 <td><p>再會的起跳</p></td>
 <td><p><a href="../Page/橫谷昌宏.md" title="wikilink">橫谷昌宏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內海紘子" title="wikilink">內海紘子</a></p></td>
+<td><p><a href="../Page/內海紘子.md" title="wikilink">內海紘子</a></p></td>
 <td><p><a href="../Page/西屋太志.md" title="wikilink">西屋太志</a></p></td>
 <td></td>
 </tr>
@@ -179,7 +179,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td></td>
 <td><p>追憶的距離！</p></td>
 <td><p>追憶的距離</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河浪榮作" title="wikilink">河浪榮作</a></p></td>
+<td><p><a href="../Page/河浪榮作.md" title="wikilink">河浪榮作</a></p></td>
 <td><p>引山佳代</p></td>
 <td></td>
 <td></td>
@@ -191,7 +191,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>理論的海豚踢！</p></td>
 <td><p>海豚式打水的理論</p></td>
 <td><p>理論的海豚踢！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小川太一" title="wikilink">小川太一</a></p></td>
+<td><p><a href="../Page/小川太一.md" title="wikilink">小川太一</a></p></td>
 <td><p>丸木宣明</p></td>
 <td></td>
 <td></td>
@@ -370,7 +370,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p>無敵的強項</p></td>
 <td><p>橫谷昌宏</p></td>
 <td><p>山村卓也</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/門脇未來" title="wikilink">門脇未來</a></p></td>
+<td><p><a href="../Page/門脇未來.md" title="wikilink">門脇未來</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -691,7 +691,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
 <td><p>2013年7月8日－9月30日</p></td>
 <td><p>星期一 22時00分－22時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
@@ -715,7 +715,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2013年7月23日－10月14日</p></td>
 <td><p>星期一 12:00 更新</p></td>
 <td></td>
@@ -723,7 +723,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2013年8月20日－11月5日</p></td>
 <td><p>星期二 22時00分－22時30分</p></td>
 <td><p>有重播</p></td>
@@ -786,7 +786,7 @@ World-夢-**》，該片為第三期故事加上新劇情改編。並宣布將�
 <td><p><a href="../Page/ANIME+.md" title="wikilink">ANIME+節目</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO動畫</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO動畫</a></p></td>
 <td><p>2014年7月6日－9月28日</p></td>
 <td><p>星期日 22時30分－23時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
@@ -953,7 +953,7 @@ Stage，『**イワトビちゃんねるS**』獲得了「第一屆動畫廣播�
 <td style="text-align: left;"><p>　Free! OP《<strong>Rage on</strong>》</p>
 <ul>
 <li>發行日期：2013年7月17日</li>
-<li>歌：<a href="https://zh.wikipedia.org/wiki/OLDCODEX" title="wikilink">OLDCODEX</a></li>
+<li>歌：<a href="../Page/OLDCODEX.md" title="wikilink">OLDCODEX</a></li>
 <li>作詞／作曲：YORKE.／ Ta_2</li>
 </ul></td>
 <td style="text-align: left;"></td>
@@ -1194,7 +1194,7 @@ Stage，『**イワトビちゃんねるS**』獲得了「第一屆動畫廣播�
 <td style="text-align: left;"><p>　Free! OP《<strong>Dried Up Youthful Fame</strong>》</p>
 <ul>
 <li>發行日期：2014年7月30日</li>
-<li>歌：<a href="https://zh.wikipedia.org/wiki/OLDCODEX" title="wikilink">OLDCODEX</a></li>
+<li>歌：<a href="../Page/OLDCODEX.md" title="wikilink">OLDCODEX</a></li>
 <li>作詞／作曲／編曲：YORKE.／Ta_2／eba</li>
 </ul></td>
 <td style="text-align: left;"></td>
@@ -1499,7 +1499,7 @@ WEB版預告映像</p></td>
 <thead>
 <tr class="header">
 <th><p>冊數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/KA_Esuma文庫" title="wikilink">KA Esuma文庫</a></p></th>
+<th><p><a href="../Page/KA_Esuma文庫.md" title="wikilink">KA Esuma文庫</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1542,7 +1542,7 @@ WEB版預告映像</p></td>
 #### 製作人員
 
   - 原作：「High☆Speed！」（[KA
-    Esuma文庫](https://zh.wikipedia.org/wiki/KA_Esuma文庫 "wikilink")／[京都動畫](../Page/京都動畫.md "wikilink")）
+    Esuma文庫](../Page/KA_Esuma文庫.md "wikilink")／[京都動畫](../Page/京都動畫.md "wikilink")）
   - 導演：[武本康弘](../Page/武本康弘.md "wikilink")
   - 構成：[横谷昌宏](https://zh.wikipedia.org/wiki/横谷昌宏 "wikilink")
   - 腳本：西岡麻衣子
@@ -1552,7 +1552,7 @@ WEB版預告映像</p></td>
   - 小物設定：秋竹齊一
   - 攝影指導：高尾一也
   - 音響指導：[鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 音樂：[加藤達也](https://zh.wikipedia.org/wiki/加藤達也 "wikilink")
+  - 音樂：[加藤達也](../Page/加藤達也.md "wikilink")
   - 動畫製作：京都動畫
   - 製作：[High☆Speed！製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
   - 配給：[松竹](../Page/松竹.md "wikilink")
@@ -1560,7 +1560,7 @@ WEB版預告映像</p></td>
 #### 主題曲
 
   - 「Aching Horns」
-    作詞：YORKE.，作曲：Ta_2，編曲：小山壽，主唱：[OLDCODEX](https://zh.wikipedia.org/wiki/OLDCODEX "wikilink")
+    作詞：YORKE.，作曲：Ta_2，編曲：小山壽，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
 ### 劇場版 Free！ -Timeless Medley- 絆
 

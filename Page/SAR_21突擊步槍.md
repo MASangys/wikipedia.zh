@@ -35,7 +35,7 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
 
   - 全槍質心在射手扣扳機的手的上方，因此，槍能容易地提起。如果需要的話，甚至可進行單手射擊，感覺後坐力非常小。
 
-  - 可以下掛[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")，也可以上[M7刺刀](https://zh.wikipedia.org/wiki/M7刺刀 "wikilink")。
+  - 可以下掛[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")，也可以上[M7刺刀](../Page/M7刺刀.md "wikilink")。
 
 ### 缺点
 
@@ -82,9 +82,9 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
 
   - [STANAG彈匣](../Page/STANAG彈匣.md "wikilink")
   - [M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")
-  - [M16S1突擊步槍](https://zh.wikipedia.org/wiki/M16S1突擊步槍 "wikilink") -
+  - [M16S1突擊步槍](../Page/M16S1突擊步槍.md "wikilink") -
     [新加坡武裝部隊的前任制式步槍](../Page/新加坡武裝部隊.md "wikilink")。
-  - [SAR 80](https://zh.wikipedia.org/wiki/SAR_80突擊步槍 "wikilink")
+  - [SAR 80](../Page/SAR_80突擊步槍.md "wikilink")
   - [SR-88](../Page/SR-88突擊步槍.md "wikilink")
   - [95式自動步槍](../Page/95式自動步槍.md "wikilink")
   - [斯泰爾AUG突擊步槍](../Page/斯泰爾AUG突擊步槍.md "wikilink")

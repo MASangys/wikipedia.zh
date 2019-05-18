@@ -167,7 +167,7 @@
 
 ### 工作人員
 
-  - 企劃、總監修／故事原案：[日野晃博](https://zh.wikipedia.org/wiki/日野晃博 "wikilink")
+  - 企劃、總監修／故事原案：[日野晃博](../Page/日野晃博.md "wikilink")
   - 原作：[LEVEL-5](../Page/LEVEL-5.md "wikilink")
   - 連載：COROCORO COMICS
   - LBX設計：園部淳
@@ -215,7 +215,7 @@
   -
     作詞、作曲：TSUKASA
     編曲：田邊惠二
-    歌：[Dream5](https://zh.wikipedia.org/wiki/Dream5 "wikilink")
+    歌：[Dream5](../Page/Dream5.md "wikilink")
 
 <!-- end list -->
 
@@ -741,7 +741,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2013年<a href="../Page/4月4日.md" title="wikilink">4月4日</a> - <a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
 <td><p>週四 12:00 更新</p></td>
 <td><p>網路播放</p></td>
@@ -760,7 +760,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Kids_Station" title="wikilink">Kids Station</a></p></td>
+<td><p><a href="../Page/Kids_Station.md" title="wikilink">Kids Station</a></p></td>
 <td><p>2013年<a href="https://zh.wikipedia.org/wiki/7月6日" title="wikilink">7月6日</a> - 2014年3月29日</p></td>
 <td><p>週六 17:30 - 18:00</p></td>
 <td><p><strong>製作委員会参加</strong><br />

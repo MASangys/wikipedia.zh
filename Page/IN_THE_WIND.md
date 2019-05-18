@@ -23,7 +23,7 @@ Entertainment](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")。
 4.  **我保證不使壞**（나쁜 짓 안 할게요）
       -
         feat.[Suzy](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")（[miss
-        A](../Page/miss_A.md "wikilink")）
+        A](https://zh.wikipedia.org/wiki/miss_A "wikilink")）
 5.  **想做什麼**（뭐 할래요）
 6.  **Be My Girl**
       -

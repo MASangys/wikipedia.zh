@@ -52,7 +52,7 @@ GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
 
   -
     20歲。沒有參加公務員考試，是福利金發放事務科的臨時合約職員。平時工作與服務應對都是以流水式進行。
-    對[COSPLAY獻出自己](../Page/COSPLAY.md "wikilink")，喜歡自己COS也喜歡欣賞別人的COSPLAY造型。為了可以經常出席[COSPLAY的活動](../Page/COSPLAY.md "wikilink")，扮演更多不同角色，而成為臨時職員，以便隨時請假，自稱為衛生福利課的「非正常的存在」。每年都會在八月中和年底申請假期，在[Comiket期間發售自己創作的](https://zh.wikipedia.org/wiki/Comiket "wikilink")[同人誌](../Page/同人誌.md "wikilink")，而最近的作品是《Magical
+    對[COSPLAY獻出自己](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，喜歡自己COS也喜歡欣賞別人的COSPLAY造型。為了可以經常出席[COSPLAY的活動](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，扮演更多不同角色，而成為臨時職員，以便隨時請假，自稱為衛生福利課的「非正常的存在」。每年都會在八月中和年底申請假期，在[Comiket期間發售自己創作的](https://zh.wikipedia.org/wiki/Comiket "wikilink")[同人誌](../Page/同人誌.md "wikilink")，而最近的作品是《Magical
     Flowers》。
     實際上是大志現在的女朋友。對於溫柔的大志抱著好感。被溫柔的對待十分的開心、但對於太溫柔什麼都不做這件事似乎有些不滿。
     為了保護毫無防備的露西而對豐費心監視，但在與豐達成約會服交由她全權處理後放過了豐與露西的約會。
@@ -195,7 +195,7 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
   - 原作：[高津Karino](https://zh.wikipedia.org/wiki/高津Karino "wikilink")（「[BIG
     GANGAN](https://zh.wikipedia.org/wiki/月刊_BIG_GANGAN "wikilink")」[史克威爾艾尼克斯刊](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
   - 監督：[山本靖貴](../Page/山本靖貴.md "wikilink")
-  - 系列構成：[下山健人](https://zh.wikipedia.org/wiki/下山健人 "wikilink")
+  - 系列構成：[下山健人](../Page/下山健人.md "wikilink")
   - 人物設計：西位輝實
   - 色彩設計：
   - 美術監督：[澀谷幸弘](https://zh.wikipedia.org/wiki/澀谷幸弘 "wikilink")
@@ -239,7 +239,7 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
 <td></td>
 <td><p>要注意喔 對他人的稱呼 以及理由</p></td>
 <td><p>要注意 對他人稱呼 及理由</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
+<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
 <td><p><a href="../Page/山本靖貴.md" title="wikilink">山本靖貴</a></p></td>
 <td><p>西位輝實</p></td>
 <td></td>
@@ -456,7 +456,7 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2013年7月9日－10月1日</p></td>
 <td><p>星期二 12時00分 更新</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
@@ -504,7 +504,7 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
 有重播<br />
 有字幕<br />
 雙語廣播<br />
-<a href="../Page/myTV.md" title="wikilink">myTV提供</a>14天重溫</p></td>
+<a href="https://zh.wikipedia.org/wiki/myTV" title="wikilink">myTV提供</a>14天重溫</p></td>
 </tr>
 </tbody>
 </table>

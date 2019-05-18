@@ -59,7 +59,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   - **查洛特**（、Charotte）
-    [配音員](../Page/配音員.md "wikilink")：日本：[MAKO](../Page/MAKO.md "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")／香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
     室友：楓
     蜜蜂，喜歡香取。
 
@@ -121,7 +121,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   - **奈弗萊**（、Nephrite）
-    [配音員](../Page/配音員.md "wikilink")：日本：[尾崎惠](https://zh.wikipedia.org/wiki/尾崎惠 "wikilink")／香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[尾崎惠](../Page/尾崎惠.md "wikilink")／香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
 
 <!-- end list -->
 
@@ -170,7 +170,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   - **小玲**（、Rin）
-    [配音員](../Page/配音員.md "wikilink")：日本：[早川真由](https://zh.wikipedia.org/wiki/早川真由 "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[早川真由](../Page/早川真由.md "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
 
 <!-- end list -->
 
@@ -260,7 +260,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[淺利遼太](https://zh.wikipedia.org/wiki/淺利遼太 "wikilink")／香港：[周良鴻](../Page/周良鴻.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[淺利遼太](../Page/淺利遼太.md "wikilink")／香港：[周良鴻](../Page/周良鴻.md "wikilink")
     室友：御影、積斯巴（同上）
     與御影是好友，是個會為了同學而輕舉妄動的人。經常擔任節目主持，曾擔任搞笑大賽和海豚格林披治大賽的主持。
     喜歡佳娜德。
@@ -291,7 +291,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[MAKO](../Page/MAKO.md "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")／香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
     是學生新聞部部長。戴眼鏡。
 
 <!-- end list -->
@@ -303,7 +303,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 必殺技：Pila kalling KuraraFinalFlash生活安全Cryspower
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")
     是一頭山羊。
     在花音的情信事件中，露比用魔法解開牠的綑綁，讓牠吃掉花音的情信。
     與螺子川一起幫助莎菲做實驗，制作一支寶石火箭，但總吃掉一些很重要的東西。
@@ -311,7 +311,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[淺利遼太](https://zh.wikipedia.org/wiki/淺利遼太 "wikilink")／香港：[伍博民](../Page/伍博民.md "wikilink")→[關令翹](../Page/關令翹.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[淺利遼太](../Page/淺利遼太.md "wikilink")／香港：[伍博民](../Page/伍博民.md "wikilink")→[關令翹](../Page/關令翹.md "wikilink")
     是一頭鱷魚。與自己喜歡的人說話時，便會稱自己為「鱷魚仔」。
     因覺得露比很可愛而不斷跟蹤露比，上課也注視露比，並寫情信給露比，還很想吃掉露比。
     曾是不良學生頭領，曾欺負查洛特，晶子和查洛特打敗了牠，查洛特和牠以晶子為首，成為不良學生集團的成員。
@@ -331,7 +331,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[古明華](../Page/古明華.md "wikilink")→[蕭徽勇](../Page/蕭徽勇.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[古明華](../Page/古明華.md "wikilink")→[蕭徽勇](../Page/蕭徽勇.md "wikilink")
     是學級委員長。是一隻猿人。戴眼鏡。
 
 <!-- end list -->
@@ -353,7 +353,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[逢澤由理香](https://zh.wikipedia.org/wiki/逢澤由理香 "wikilink")／香港：[凌晞](../Page/凌晞.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[逢澤由理香](../Page/逢澤由理香.md "wikilink")／香港：[凌晞](../Page/凌晞.md "wikilink")
     全名是「瑪麗・安東華利度・約瑟・祖妮・杜・羅妮奴・杜利殊（Marie Antoinette Josepha Jeanne De
     Lorraine Dorish）」。
 
@@ -409,7 +409,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 ### 其他人物
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")→[黃子敬](../Page/黃子敬.md "wikilink")
     Sunshine學園的校長。顧名思義是一隻龍，外形巨大但性格溫厚。
 
 <!-- end list -->
@@ -421,7 +421,7 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[張錦江](../Page/張錦江.md "wikilink")
 
 <!-- end list -->
 
@@ -432,20 +432,20 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")／香港：[譚炳文](../Page/譚炳文.md "wikilink")→[陳曙光](../Page/陳曙光.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[上田燿司](../Page/上田燿司.md "wikilink")／香港：[譚炳文](../Page/譚炳文.md "wikilink")→[陳曙光](../Page/陳曙光.md "wikilink")
     草苺咖啡店的老闆。
     讓佳娜德在他的店內工作。
 
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[咲野俊介](https://zh.wikipedia.org/wiki/咲野俊介 "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：日本：[咲野俊介](../Page/咲野俊介.md "wikilink")／香港：[梁偉德](../Page/梁偉德.md "wikilink")
     是世界著名花式溜冰選手，後來當了貝莉朵的教練。
 
 <!-- end list -->
 
   -
-    [配音員](../Page/配音員.md "wikilink")：日本：[岩崎征實](../Page/岩崎征實.md "wikilink")（莉莉）、[上田燿司](https://zh.wikipedia.org/wiki/上田燿司 "wikilink")（弗蘭克）／香港：[張方正](../Page/張方正.md "wikilink")（莉莉）、[張錦江](../Page/張錦江.md "wikilink")（弗蘭克）
+    [配音員](../Page/配音員.md "wikilink")：日本：[岩崎征實](../Page/岩崎征實.md "wikilink")（莉莉）、[上田燿司](../Page/上田燿司.md "wikilink")（弗蘭克）／香港：[張方正](../Page/張方正.md "wikilink")（莉莉）、[張錦江](../Page/張錦江.md "wikilink")（弗蘭克）
 
 <!-- end list -->
 

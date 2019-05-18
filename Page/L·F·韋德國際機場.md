@@ -35,7 +35,7 @@ ARTCC）在美国政府的[联邦航空局与英国间的协议下提供](https:
 ## 另见
 
 [飓风费边](https://zh.wikipedia.org/wiki/飓风费边 "wikilink")
-[颶風貢薩洛](https://zh.wikipedia.org/wiki/颶風貢薩洛 "wikilink")
+[颶風貢薩洛](../Page/颶風貢薩洛.md "wikilink")
 
 ## 參考資料
 

@@ -3,7 +3,7 @@ Mavericks**（10.9版本）\[1\]是[蘋果公司為個人電腦和](https://zh.w
 X的第](https://zh.wikipedia.org/wiki/OS_X "wikilink")10個[版本](../Page/軟件版本號.md "wikilink")，供所有[麥金塔電腦使用](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")。蘋果公司於2013年6月10日的[蘋果公司全球軟體開發者年會上發布OS](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")
 X Mavericks\[2\]，並於2013年10月22日起讓全球用戶透過Mac App Store免費下載\[3\]。
 
-這個版本的作業系統非常著重產品電池的續航能力，Finder的增強功能，其他功能包括延續[iCloud的整合](../Page/iCloud.md "wikilink")，以及為用戶把更多[iOS的應用程序帶到OS](../Page/iOS.md "wikilink")
+這個版本的作業系統非常著重產品電池的續航能力，Finder的增強功能，其他功能包括延續[iCloud的整合](https://zh.wikipedia.org/wiki/iCloud "wikilink")，以及為用戶把更多[iOS的應用程序帶到OS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 X平台。Mavericks從名字起便標誌著改變，蘋果公司不再依循以往慣例以[大型貓科動物來為其OS](https://zh.wikipedia.org/wiki/貓科動物 "wikilink")
 X作業系統命名，改以採用[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的地方名稱來命名](https://zh.wikipedia.org/wiki/加州 "wikilink")\[4\]。根據新的命名方向，現時的作業系統名稱Mavericks，是來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的一個衝浪地點](https://zh.wikipedia.org/wiki/加州 "wikilink")\[5\]\[6\]。
 
@@ -14,9 +14,9 @@ Mavericks是[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikili
 X 10.8 "Mountain
 Lion"的下一代版本](../Page/OS_X_Mountain_Lion.md "wikilink")，同日讓蘋果開發者下載預覽版本。正式版則於2013年10月22日的蘋果發布會上宣布正式於應用程式商店中發布，並且即時就能下載使用，不像以往OS
 X的版本 (但自OS X 10.6在售價下調的情況)，OS X 10.9將免費提供給使用OS X
-10.6或以上版本的用戶下載\[7\]，同日，蘋果公司更為其作業系統和商業軟件[iLife提供免費升級服務](../Page/iLife.md "wikilink")\[8\]。
+10.6或以上版本的用戶下載\[7\]，同日，蘋果公司更為其作業系統和商業軟件[iLife提供免費升級服務](https://zh.wikipedia.org/wiki/iLife "wikilink")\[8\]。
 
-[iOS 7](../Page/iOS_7.md "wikilink")、經修訂的[MacBook
+[iOS 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")、經修訂的[MacBook
 Air](../Page/MacBook_Air.md "wikilink")、第五代的[Time
 Capsule](https://zh.wikipedia.org/wiki/Time_Capsule "wikilink")、第六代的[AirPort
 Extreme](https://zh.wikipedia.org/wiki/AirPort_Extreme "wikilink")，和一款經重新設計的[Mac
@@ -30,7 +30,7 @@ X 10.6.8 Snow Leopard或更高的版本的系統。
 
 兼容的電腦型號如下：
 
-  - [iMac](../Page/iMac.md "wikilink")（2007年中期或之後的型號）
+  - [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")（2007年中期或之後的型號）
   - [MacBook](../Page/MacBook.md "wikilink")（2008年後期的[铝製機身型號](../Page/铝.md "wikilink")，或2009年早期或之後型號）
   - [MacBook Pro](../Page/MacBook_Pro.md "wikilink")（2007年中期或之後的型號）
   - [MacBook Air](../Page/MacBook_Air.md "wikilink")（2008年後期或之後的型號）
@@ -50,7 +50,7 @@ X 10.6.8 Snow Leopard或更高的版本的系統。
   - 加入新的地圖應用程式\[13\]\[14\]。
   - [日曆的功能增強](https://zh.wikipedia.org/wiki/日曆_\(應用程序\) "wikilink")\[15\]。
   - [Safari的功能改進](../Page/Safari.md "wikilink")\[16\]。
-  - [iCloud鑰匙串的同步](../Page/iCloud.md "wikilink")\[17\]。
+  - [iCloud鑰匙串的同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")\[17\]。
   - [通知中心的改進](https://zh.wikipedia.org/wiki/通知中心 "wikilink")\[18\]。
   - 一些采用拟物式设计的自带应用，例如界面呈现皮革質料观感的[日曆](https://zh.wikipedia.org/wiki/日曆_\(應用程序\) "wikilink")，像書本一樣的[通訊錄](https://zh.wikipedia.org/wiki/通訊錄 "wikilink")，都會從[用戶介面中移除](https://zh.wikipedia.org/wiki/用戶介面 "wikilink")\[19\]\[20\]。
   - 改善能源、記憶體及應用程式的處理，透過降低[中央處理器高達的](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")72%的使用率來提高能源效率\[21\]\[22\]。

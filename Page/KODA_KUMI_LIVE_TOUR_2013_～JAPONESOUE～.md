@@ -4,7 +4,7 @@
 ## 簡介
 
   - 內容主要以專輯《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》以及《[Color the
-    Cover](../Page/Color_the_Cover.md "wikilink")》為主，場地為體育館型演唱會，約15萬人參加\[1\]。
+    Cover](https://zh.wikipedia.org/wiki/Color_the_Cover "wikilink")》為主，場地為體育館型演唱會，約15萬人參加\[1\]。
   - 演唱會於2013年3月16日在[埼玉超級體育館開始至同年](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")6月30日於[橫濱體育館閉幕](../Page/橫濱體育館.md "wikilink")。
   - 本演唱會作品收錄6月30日橫濱體育館最終場影像，為首次收錄最多曲目，總收錄時間超過3小時，初回限定盤特別以金箔紙盒包裝。
   - 本作於[公信榜獲得週間DVD音樂榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")、藍光音樂榜第一名，DVD綜合榜第二名。是繼《[Secret

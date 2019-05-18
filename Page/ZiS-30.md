@@ -4,10 +4,10 @@
 
 ZiS-30的[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，是原本設計來拖曳[45mm
 M1937
-(53-K)反坦克炮等器材的](https://zh.wikipedia.org/wiki/M-37_45mm反坦克炮_\(53-K\) "wikilink")[共青團號（Komsomolyets）拖炮車](https://zh.wikipedia.org/wiki/T-20 "wikilink")。
+(53-K)反坦克炮等器材的](../Page/M-37_45mm反坦克炮_\(53-K\).md "wikilink")[共青團號（Komsomolyets）拖炮車](https://zh.wikipedia.org/wiki/T-20 "wikilink")。
 
 1941年，約有100輛的共青團號拖炮車上被安裝了[57 mm
-ZiS-2反坦克炮](https://zh.wikipedia.org/wiki/M-43_57mm反坦克炮_\(ZiS-2\) "wikilink")，以及一塊薄薄的裝甲板。
+ZiS-2反坦克炮](../Page/M-43_57mm反坦克炮_\(ZiS-2\).md "wikilink")，以及一塊薄薄的裝甲板。
 
 ZiS-30在1941-1942年[莫斯科戰役期間](../Page/莫斯科戰役.md "wikilink")，主要裝備[蘇聯坦克旅的反坦克營](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，應付大量德軍裝甲部隊的入侵。\[1\]
 

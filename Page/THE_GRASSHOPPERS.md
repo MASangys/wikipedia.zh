@@ -17,7 +17,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink"
     Girls的](../Page/Brown_Eyed_Girls.md "wikilink")[Miryo](https://zh.wikipedia.org/wiki/Miryo "wikilink")、[MBLAQ的](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")[G.O](../Page/G.O.md "wikilink")、[天動](../Page/天動.md "wikilink")、[Block
     B的](../Page/Block_B.md "wikilink")[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[Teen
     Top的](https://zh.wikipedia.org/wiki/Teen_Top "wikilink")[天地](https://zh.wikipedia.org/wiki/天地 "wikilink")、[Niel](https://zh.wikipedia.org/wiki/Niel "wikilink")、[Ledapple的](https://zh.wikipedia.org/wiki/Ledapple "wikilink")[Han
-    Byul](https://zh.wikipedia.org/wiki/Han_Byul "wikilink")、[8eight的](../Page/8eight.md "wikilink")[李賢等](https://zh.wikipedia.org/wiki/李賢 "wikilink")
+    Byul](https://zh.wikipedia.org/wiki/Han_Byul "wikilink")、[8eight的](https://zh.wikipedia.org/wiki/8eight "wikilink")[李賢等](https://zh.wikipedia.org/wiki/李賢 "wikilink")
 
 ## 收錄内容
 

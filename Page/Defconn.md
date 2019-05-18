@@ -4,18 +4,18 @@
 
 ### 綜藝固定出演
 
-| 日期                       | 電視台                                                               | 節目名稱                                                                        | 備註                                                                                                    |
-| ------------------------ | ----------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 2011年7月23日－2018年3月28日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")       | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | 與鄭亨敦                                                                                                  |
-| 2014年3月22日－2014年7月18日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 我獨自一人生活                                                                     |                                                                                                       |
-| 2013年7月29日－至今            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [兩天一夜 S3](../Page/兩天一夜.md "wikilink")                                       |                                                                                                       |
-| 2014年7月29日－8月19日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [Hit Maker](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink")                |                                                                                                       |
-| 2014年12月12日－2015年2月27日   | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink") | [Hit Maker S2](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink")             |                                                                                                       |
-| 2015年6月19日 - 2015年9月4號   | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink") | [秘密武器的 她](https://zh.wikipedia.org/wiki/秘密武器的_她 "wikilink")                 |                                                                                                       |
-| 2017年3月31日 - 5月5日        | [tvN](../Page/tvN.md "wikilink")                                  | [和時間賽跑的男人](https://zh.wikipedia.org/wiki/和時間賽跑的男人 "wikilink")               |                                                                                                       |
-| 2017年11月23日 - 2018年1月11日 | [tvN](../Page/tvN.md "wikilink")                                  | [本業是歌手－這些傢伙的兩種生活](https://zh.wikipedia.org/wiki/本業是歌手－這些傢伙的兩種生活 "wikilink") | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、 主持，音樂觀察綜藝節目 MC |
-| 2018年5月12日至今             | [JTBC](../Page/JTBC.md "wikilink")                                | [Idol Room](https://zh.wikipedia.org/wiki/Idol_Room "wikilink")             | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")                                                                     |
-|                          |                                                                   |                                                                             |                                                                                                       |
+| 日期                       | 電視台                                                               | 節目名稱                                                            | 備註                                                                                 |
+| ------------------------ | ----------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 2011年7月23日－2018年3月28日    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")       | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                | 與鄭亨敦                                                                               |
+| 2014年3月22日－2014年7月18日    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 我獨自一人生活                                                         |                                                                                    |
+| 2013年7月29日－至今            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [兩天一夜 S3](../Page/兩天一夜.md "wikilink")                           |                                                                                    |
+| 2014年7月29日－8月19日         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [Hit Maker](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink")    |                                                                                    |
+| 2014年12月12日－2015年2月27日   | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink") | [Hit Maker S2](https://zh.wikipedia.org/wiki/HIT制造机 "wikilink") |                                                                                    |
+| 2015年6月19日 - 2015年9月4號   | [MBC Every1](https://zh.wikipedia.org/wiki/MBC_Every1 "wikilink") | [秘密武器的 她](https://zh.wikipedia.org/wiki/秘密武器的_她 "wikilink")     |                                                                                    |
+| 2017年3月31日 - 5月5日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [和時間賽跑的男人](../Page/和時間賽跑的男人.md "wikilink")                      |                                                                                    |
+| 2017年11月23日 - 2018年1月11日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [本業是歌手－這些傢伙的兩種生活](../Page/本業是歌手－這些傢伙的兩種生活.md "wikilink")        | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")、 主持，音樂觀察綜藝節目 MC |
+| 2018年5月12日至今             | [JTBC](../Page/JTBC.md "wikilink")                                | [Idol Room](../Page/Idol_Room.md "wikilink")                    | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")                                                  |
+|                          |                                                                   |                                                                 |                                                                                    |
 
 ### 綜藝嘉賓出演
 
@@ -30,9 +30,9 @@ E356 131116 觀相特輯（中） E357 131123 觀相特輯（下）
 
 ## 電視劇
 
-| **年份** |             **電視台**              |                          **劇名**                           | **角色** | **性質** |
-| :----: | :------------------------------: | :-------------------------------------------------------: | :----: | :----: |
-| 2018年  | [tvN](../Page/TVN.md "wikilink") | [致忘了詩的你](https://zh.wikipedia.org/wiki/致忘了詩的你 "wikilink") |  金大方   | 醫事放射師  |
+| **年份** |             **電視台**              |                 **劇名**                 | **角色** | **性質** |
+| :----: | :------------------------------: | :------------------------------------: | :----: | :----: |
+| 2018年  | [tvN](../Page/TVN.md "wikilink") | [致忘了詩的你](../Page/致忘了詩的你.md "wikilink") |  金大方   | 醫事放射師  |
 
 ## 獲獎
 

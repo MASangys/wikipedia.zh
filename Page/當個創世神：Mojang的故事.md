@@ -1,6 +1,6 @@
 《**當個創世神：Mojang的故事**》（）是一部2012年的[紀錄片](../Page/紀錄片.md "wikilink")，記錄了[Mojang公司的歷史及其創造](../Page/Mojang.md "wikilink")《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》的過程。
 
-該片大多以採訪[Mojang公司的主要人員為主](../Page/Mojang.md "wikilink")，包括[馬庫斯·佩爾松](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")（又名Notch）和[延斯·伯根斯坦](../Page/延斯·伯根斯坦.md "wikilink")（又名Jeb）\[1\]。這部紀錄片是[兩位玩家製作在](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[Kickstarter](https://zh.wikipedia.org/wiki/Kickstarter "wikilink")
+該片大多以採訪[Mojang公司的主要人員為主](../Page/Mojang.md "wikilink")，包括[馬庫斯·佩爾松](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")（又名Notch）和[延斯·伯根斯坦](../Page/延斯·伯根斯坦.md "wikilink")（又名Jeb）\[1\]。這部紀錄片是[兩位玩家製作在](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[Kickstarter](../Page/Kickstarter.md "wikilink")
 campaign的資助下拍攝及製作，主要描述[馬庫斯·佩爾松以及Mojang公司製作出經典](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")[沙盒遊戲](https://zh.wikipedia.org/wiki/沙盒遊戲 "wikilink")《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》的過程\[2\]\[3\]\[4\]。
 
 這部電影在Xbox

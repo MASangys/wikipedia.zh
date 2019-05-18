@@ -11,7 +11,7 @@ Suite的时候，和其他组件不一样的是，Words不是KOffice组件[KWord
 Calligra
 Words使用[odf作为默认格式](https://zh.wikipedia.org/wiki/odf "wikilink")。在[Kubuntu
 12.04中他代替](../Page/Kubuntu.md "wikilink")[LibreOffice
-Writer成为默认文字处理软件](https://zh.wikipedia.org/wiki/LibreOffice_Writer "wikilink")\[4\]。
+Writer成为默认文字处理软件](../Page/LibreOffice_Writer.md "wikilink")\[4\]。
 
 ## 公式编辑器
 

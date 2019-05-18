@@ -3,10 +3,10 @@
 VP9主要被用於Google旗下著名的影音分享網站[YouTube](../Page/YouTube.md "wikilink")。\[1\]\[2\]VP9一般与[Opus音频编码一起以](https://zh.wikipedia.org/wiki/Opus_codec "wikilink")[WebM格式封裝](../Page/WebM.md "wikilink")。\[3\]
 
 相比于高效率视频编码，许多浏览器都支持VP9视频格式，截止2018年6月，约有4/5的浏览器（包括移动设备）支持WebM封装容器和VP9视频编码，例如[Chromium](../Page/Chromium.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft
-Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera等浏览器都内置了VP](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")9解码器，可在[HTML5播放器中播放VP](../Page/HTML5.md "wikilink")9影像格式。[Windows
+Edge](../Page/Microsoft_Edge.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera等浏览器都内置了VP](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")9解码器，可在[HTML5播放器中播放VP](../Page/HTML5.md "wikilink")9影像格式。[Windows
 10作業系統也内置了WebM分离器和VP](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")9解码器。
 
-随着[开放媒体联盟的出现和Google参与到VP](https://zh.wikipedia.org/wiki/开放媒体联盟 "wikilink")9下一代格式[AV1的开发中](https://zh.wikipedia.org/wiki/AOMedia_Video_1 "wikilink")，人们对VP9产生了更浓厚的兴趣。\[4\]VP10视频编码的技術被收录在開放媒體聯盟所領導的AV1編碼中\[5\]，因此Google表示不會在內部部署或正式發布VP10。
+随着[开放媒体联盟的出现和Google参与到VP](https://zh.wikipedia.org/wiki/开放媒体联盟 "wikilink")9下一代格式[AV1的开发中](../Page/AOMedia_Video_1.md "wikilink")，人们对VP9产生了更浓厚的兴趣。\[4\]VP10视频编码的技術被收录在開放媒體聯盟所領導的AV1編碼中\[5\]，因此Google表示不會在內部部署或正式發布VP10。
 
 Google持有VP9视频格式的部分專利，但Google保證在互惠的條件下（例如使用者避免參與專利訴訟）可免費使用。\[6\]
 
@@ -28,7 +28,7 @@ Video（NGOV）和VP-Next，VP9的目標是在同畫質下比VP8編碼減少50%�
 
 在VP9的整个開發过程中，谷歌与硬件供应商合作，将VP9解碼支持加入到芯片。
 2014年1月，Ittiam与[ARM和谷歌合作](https://zh.wikipedia.org/wiki/ARM "wikilink")，展示了其针对ARM
-Cortex架構的VP9解码器，該解碼器使用[圖形處理器通用計算技术](https://zh.wikipedia.org/wiki/GPGPU "wikilink")，能够在上以30[幀每秒的速度播放](https://zh.wikipedia.org/wiki/幀 "wikilink")1080p[分辨率的VP](../Page/分辨率.md "wikilink")9視頻。2015年初，Nvidia在其[圖睿X1中添加了VP](https://zh.wikipedia.org/wiki/圖睿 "wikilink")9解碼支持，而[芯原微电子也在其Hantro](https://zh.wikipedia.org/wiki/芯原微电子 "wikilink")
+Cortex架構的VP9解码器，該解碼器使用[圖形處理器通用計算技术](https://zh.wikipedia.org/wiki/GPGPU "wikilink")，能够在上以30[幀每秒的速度播放](https://zh.wikipedia.org/wiki/幀 "wikilink")1080p[分辨率的VP](../Page/分辨率.md "wikilink")9視頻。2015年初，Nvidia在其[圖睿X1中添加了VP](https://zh.wikipedia.org/wiki/圖睿 "wikilink")9解碼支持，而[芯原微电子也在其Hantro](../Page/芯原微电子.md "wikilink")
 G2v2解码器中添加了VP9 Profile 2支持。
 
 2015年4月3日，谷歌發布libvpx1.4.0，增加了對10位和12位[色彩深度](../Page/色彩深度.md "wikilink")、4:2:2和4:4:4[色度抽样以及](../Page/色度抽样.md "wikilink")[多线程編解碼的支持](../Page/多线程.md "wikilink")。
@@ -38,7 +38,7 @@ G2v2解码器中添加了VP9 Profile 2支持。
 2016年1月，Ittiam展示了基于[OpenCL的VP](../Page/OpenCL.md "wikilink")9编码器。该编码器针对ARM
 Mali移动GPU，并在三星Galaxy S6上进行了演示。
 
-而後VP9解碼器被添加到[微軟開發的Web浏览器](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")，EdgeHTML
+而後VP9解碼器被添加到[微軟開發的Web浏览器](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Edge](../Page/Microsoft_Edge.md "wikilink")，EdgeHTML
 14.14291及之後的开发版本均支持VP9解碼，并最終于2016年夏季正式发布搭載VP9解碼器的Edge瀏覽器。
 
 2017年3月，Ittiam宣布完成了一项旨在提高libvpx编码速度的项目。其稱VP9的編碼速度將會因此提升50-70％，代码將會“作为libvpx的一部分公开發佈”。
@@ -64,8 +64,7 @@ channel支援；Profile 2及Profile
   - [High Efficiency Video
     Coding](https://zh.wikipedia.org/wiki/High_Efficiency_Video_Coding "wikilink")（HEVC）
   - [WebM](../Page/WebM.md "wikilink")
-  - [AOMedia Video
-    1](https://zh.wikipedia.org/wiki/AOMedia_Video_1 "wikilink")
+  - [AOMedia Video 1](../Page/AOMedia_Video_1.md "wikilink")
 
 ## 參考資料
 

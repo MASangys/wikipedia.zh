@@ -2,7 +2,7 @@
 
 剛開始於《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（角川書店）1997年2月号進行連載、長期中斷連載後於2007年8月移至同社的青年雜誌《[Comic
 CHARGE](https://zh.wikipedia.org/wiki/Comic_CHARGE "wikilink")》連載。2009年1月同雜誌休刊後於同年7月廢刊後繼誌《[Young
-Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》2016年3月号繼續連載。單行本累計銷售量900萬部。
+Ace](../Page/Young_Ace.md "wikilink")》2016年3月号繼續連載。單行本累計銷售量900萬部。
 
 [獵奇殺人的描寫](https://zh.wikipedia.org/wiki/殺人 "wikilink")、寫實的屍體描繪、許多令人不舒服的殘酷描寫畫面充斥整部作品。此種影響造成2006年的[茨城縣](../Page/茨城縣.md "wikilink")\[1\]、2007年的[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")\[2\]、[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")\[3\]、2008年的[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")\[4\]、[大分縣](https://zh.wikipedia.org/wiki/大分縣 "wikilink")\[5\]、[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")\[6\]依據[青少年保護育成條例將本作指定為](../Page/青少年保護育成條例.md "wikilink")[有害圖書](https://zh.wikipedia.org/wiki/有害圖書 "wikilink")。
 
@@ -200,7 +200,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》2016年3月号繼續�
 
 <!-- end list -->
 
-  - 多重人格偵探Saichoko（）（作畫：[Hirarin](https://zh.wikipedia.org/wiki/Hirarin "wikilink")）
+  - 多重人格偵探Saichoko（）（作畫：[Hirarin](../Page/Hirarin.md "wikilink")）
 
 <table>
 <thead>
@@ -253,7 +253,7 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》2016年3月号繼續�
 ## 電視劇
 
   - 多重人格偵探～雨宮一彥的歸還～（）
-      - [WOWOW於](../Page/WOWOW.md "wikilink")2000年5月開始放送。導演為[三池崇史](../Page/三池崇史.md "wikilink")。有發行DVD。電視劇版的故事完全原創。原作者[大塚英志親自擔任編劇](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")。音樂由[後藤次利負責](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")；攝影由今泉尚亮負責。
+      - [WOWOW於](../Page/WOWOW.md "wikilink")2000年5月開始放送。導演為[三池崇史](../Page/三池崇史.md "wikilink")。有發行DVD。電視劇版的故事完全原創。原作者[大塚英志親自擔任編劇](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")。音樂由[後藤次利負責](../Page/後藤次利.md "wikilink")；攝影由今泉尚亮負責。
   - MPD-PSYCHO/FAKE MOVIE REMIX EDITION -
     上述的電視劇由[菊崎亮](https://zh.wikipedia.org/wiki/菊崎亮 "wikilink")（[UNDERSELL
     ltd.](https://zh.wikipedia.org/wiki/UNDERSELL_ltd. "wikilink")）進行重新編輯的電影版公開作品。
@@ -262,12 +262,12 @@ Ace](https://zh.wikipedia.org/wiki/Young_Ace "wikilink")》2016年3月号繼續�
 
   - 雨宮一彦、小林洋介（[保坂尚輝](https://zh.wikipedia.org/wiki/保坂尚輝 "wikilink")）
   - 伊園磨知（[中嶋朋子](../Page/中嶋朋子.md "wikilink")）
-  - 笹山徹（[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")）
+  - 笹山徹（[大杉漣](../Page/大杉漣.md "wikilink")）
   - 千鶴子（[三浦理恵子](https://zh.wikipedia.org/wiki/三浦理恵子 "wikilink")）
   - 田辺友代（[裕木奈江](https://zh.wikipedia.org/wiki/裕木奈江 "wikilink")）
   - マナベ（[塩田貞治](https://zh.wikipedia.org/wiki/塩田貞治 "wikilink")）
   - 渡久地菊夫（[あなん吉成](https://zh.wikipedia.org/wiki/あなん吉成 "wikilink")）
-  - 上野（[松田悟志](https://zh.wikipedia.org/wiki/松田悟志 "wikilink")）
+  - 上野（[松田悟志](../Page/松田悟志.md "wikilink")）
   - 森泉（[川合千春](https://zh.wikipedia.org/wiki/川合千春 "wikilink")）
   - 藤樹真生（[栗山千明](../Page/栗山千明.md "wikilink")）
   - 島津寿（[一条俊](https://zh.wikipedia.org/wiki/一条俊 "wikilink")）

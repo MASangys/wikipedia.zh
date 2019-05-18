@@ -1,7 +1,7 @@
-是由[Level-5开发](../Page/Level-5.md "wikilink")，由[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[PlayStation
+是由[Level-5开发](https://zh.wikipedia.org/wiki/Level-5 "wikilink")，由[史克威尔艾尼克斯发行的](../Page/史克威尔艾尼克斯.md "wikilink")[PlayStation
 2平台](../Page/PlayStation_2.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2004年在日本发行。後由史克威尔艾尼克斯在英語地区进行[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")，並以英文語音首度為角色加上人聲配音，于2005年和2006年在北美和PAL区发行，这也是第一部在PAL区发行的本传作品。\[1\]。游戏是[勇者斗恶龙系列的第八部本传作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")，在本作之前，系列英文版一直使用“Dragon
 Warrior”作标题，本作是第一部以“Dragon
-Quest”为英文版标题的作品\[2\]。[iOS和](../Page/iOS.md "wikilink")[Android版于](../Page/Android.md "wikilink")2013年12月12日发行，其中文版于2014年5月28日上线。在2015年8月27日和2017年1月20日，游戏分别在日本和欧美地区推出了[任天堂3DS版本](../Page/任天堂3DS.md "wikilink")。
+Quest”为英文版标题的作品\[2\]。[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android版于](../Page/Android.md "wikilink")2013年12月12日发行，其中文版于2014年5月28日上线。在2015年8月27日和2017年1月20日，游戏分别在日本和欧美地区推出了[任天堂3DS版本](../Page/任天堂3DS.md "wikilink")。
 
 《勇者斗恶龙VIII》为角色和场景的[3D建模使用了](https://zh.wikipedia.org/wiki/3D "wikilink")[卡通渲染效果](../Page/卡通渲染.md "wikilink")，同时也是系列中第一部圖像全為3D即時運算構成的游戏\[3\]。本作保留了系列的大部分元素，如回合制战斗和经验值升级系统。劇情講述了主人公[勇者和他的伙伴旅行並消灭反派Dhoulmagus的故事](../Page/勇者_\(虛構職業\).md "wikilink")。Trodain王国被Dhoulmagus诅咒，国王Trode和其女儿Medea分别被变成了怪物和马，勇者需要将他们恢复正常并拯救王国。
 
@@ -14,7 +14,7 @@ Quest”为英文版标题的作品\[2\]。[iOS和](../Page/iOS.md "wikilink")[A
 
 ## 开发与发行
 
-如同系列其它作品，[堀井雄二担任游戏编剧](../Page/堀井雄二.md "wikilink")\[6\]。评论称赞了艺术家[鸟山明的色彩丰富设计](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")\[7\]\[8\]。游戏音乐由[椙山浩一谱曲](../Page/椙山浩一.md "wikilink")\[9\]\[10\]。随着2004年11月27日上午6:30在东京[涩谷](https://zh.wikipedia.org/wiki/涩谷 "wikilink")[星巴克举行的庆祝会](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，《勇者斗恶龙VIII》于当日早上在日本发售。堀井和史克威尔艾尼克斯总裁[和田洋一都参与了活动](https://zh.wikipedia.org/wiki/和田洋一 "wikilink")，几个排在队伍最前面的玩家获得了[史莱姆玩偶](../Page/史莱姆_\(勇者斗恶龙\).md "wikilink")\[11\]。
+如同系列其它作品，[堀井雄二担任游戏编剧](../Page/堀井雄二.md "wikilink")\[6\]。评论称赞了艺术家[鸟山明的色彩丰富设计](https://zh.wikipedia.org/wiki/鸟山明 "wikilink")\[7\]\[8\]。游戏音乐由[椙山浩一谱曲](../Page/椙山浩一.md "wikilink")\[9\]\[10\]。随着2004年11月27日上午6:30在东京[涩谷](https://zh.wikipedia.org/wiki/涩谷 "wikilink")[星巴克举行的庆祝会](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，《勇者斗恶龙VIII》于当日早上在日本发售。堀井和史克威尔艾尼克斯总裁[和田洋一都参与了活动](../Page/和田洋一.md "wikilink")，几个排在队伍最前面的玩家获得了[史莱姆玩偶](../Page/史莱姆_\(勇者斗恶龙\).md "wikilink")\[11\]。
 
 游戏在美国发售前的八月至十月间，“[Simon dTOUR
 Live](https://zh.wikipedia.org/wiki/西蒙地产集团 "wikilink")”商场之旅在美国各地的参与商城提供了游戏试玩版。这些免费活动送出了与勇者斗恶龙商品，并提供了现场娱乐\[12\]。2005年秋季的《[少年Jump](https://zh.wikipedia.org/wiki/少年Jump "wikilink")》杂志也发行了一个《勇者斗恶龙VIII》试玩碟\[13\]。游戏于2005年11月15日在北美发行，其附有一个《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》试玩碟\[14\]。北美版《勇者斗恶龙VIII》新增的变化包括配音员、新动画、增强的音乐和声效，以及新的菜单界面\[15\]。
@@ -59,7 +59,7 @@ Maragos称赞了游戏的英国色彩本地化，称其幽默通常是成功的�
 
 游戏中的角色常出现在其它史克威尔艾尼克斯的产品中。《[勇者斗恶龙
 少年杨格斯与不可思议迷宫](https://zh.wikipedia.org/wiki/勇者斗恶龙_少年杨格斯与不可思议迷宫 "wikilink")》——由[Cavia开发的PlayStation](https://zh.wikipedia.org/wiki/Cavia "wikilink")
-2平台[roguelike](../Page/roguelike.md "wikilink")（[不可思议迷宫](https://zh.wikipedia.org/wiki/不可思议迷宫 "wikilink")）游戏——讲述了少年杨格斯的故事\[47\]，于2006年在日本发行\[48\]。杰西卡、安吉洛和杨格斯與其它勇者斗恶龙角色在多平台[大富翁游戏](https://zh.wikipedia.org/wiki/大富翁 "wikilink")《[富豪街系列](../Page/富豪街系列.md "wikilink")》中出现，一同出现的还有最终幻想与[马里奥系列的角色](https://zh.wikipedia.org/wiki/马里奥 "wikilink")\[49\]。其出现的游戏包括[PlayStation
+2平台[roguelike](https://zh.wikipedia.org/wiki/roguelike "wikilink")（[不可思议迷宫](https://zh.wikipedia.org/wiki/不可思议迷宫 "wikilink")）游戏——讲述了少年杨格斯的故事\[47\]，于2006年在日本发行\[48\]。杰西卡、安吉洛和杨格斯與其它勇者斗恶龙角色在多平台[大富翁游戏](https://zh.wikipedia.org/wiki/大富翁 "wikilink")《[富豪街系列](../Page/富豪街系列.md "wikilink")》中出现，一同出现的还有最终幻想与[马里奥系列的角色](https://zh.wikipedia.org/wiki/马里奥 "wikilink")\[49\]。其出现的游戏包括[PlayStation
 Portable游戏](../Page/PlayStation_Portable.md "wikilink")《勇者斗恶龙&最终幻想 in
 富豪街
 Portable》和[任天堂DS的](../Page/任天堂DS.md "wikilink")《富豪街DS》，以及《富豪街DS》在[Wii平台的增强重制版](../Page/Wii.md "wikilink")\[50\]。《勇者斗恶龙VIII》的角色还在《[勇者斗恶龙IX

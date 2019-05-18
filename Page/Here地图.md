@@ -3,7 +3,7 @@
 
 HERE地图包括建筑、公园、交通等信息，同时提供到商业公司的导航，例如：[Garmin](https://zh.wikipedia.org/wiki/Garmin "wikilink")、[BMW](../Page/BMW.md "wikilink")、[亚马逊](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")、[甲骨文公司](../Page/甲骨文公司.md "wikilink")。
 
-此外，HERE地图不仅在诺基亚、[微軟Lumia手機上提供服务](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")，还能运行在其他操作系统上，包括[iOS](../Page/iOS.md "wikilink")、[Android和](../Page/Android.md "wikilink")[Firefox
+此外，HERE地图不仅在诺基亚、[微軟Lumia手機上提供服务](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")，还能运行在其他操作系统上，包括[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Firefox
 OS](../Page/Firefox_OS.md "wikilink")\[2\]，和[BMW](../Page/BMW.md "wikilink")、[福特等廠牌的汽車車載系統](https://zh.wikipedia.org/wiki/福特 "wikilink")。Here地图提供[定位服务](https://zh.wikipedia.org/wiki/地理位置服务 "wikilink")、[地理信息系統和政府的解决方案](https://zh.wikipedia.org/wiki/地理信息系統 "wikilink")。通过[Bing](../Page/Bing.md "wikilink")，和[雅虎地圖提供电子地图](../Page/雅虎地圖.md "wikilink")。\[3\]\[4\]Here地图有200多个国家地图，在94个国家提供语音导航，在33个国家提供交通信息，在45个国家为49000特色建筑提供室内地图。\[5\]
 
 ## 历史

@@ -7,7 +7,7 @@ WING](../Page/月刊GANGAN_WING.md "wikilink")》上連載，完結篇發表於�
 ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》。2010年，《魔王逗勇者》中文版由[台灣角川書店發行](https://zh.wikipedia.org/wiki/台灣角川書店 "wikilink")，在台灣有很大影響。\[1\]
 2013年開始於[SQUARE
 ENIX旗下](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")《[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》上與日本漫畫家[巢山真合作連載](https://zh.wikipedia.org/wiki/巢山真 "wikilink")《[死神大人與4位女友](https://zh.wikipedia.org/wiki/死神大人與4位女友 "wikilink")》（日語：）。
+JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》上與日本漫畫家[巢山真合作連載](https://zh.wikipedia.org/wiki/巢山真 "wikilink")《[死神大人與4位女友](../Page/死神大人與4位女友.md "wikilink")》（日語：）。
 
 CHuN與[SDwing](../Page/SDwing.md "wikilink")、[皇宇
 (ZECO)等數人组成](../Page/皇宇_\(ZECO\).md "wikilink")[同人团体](https://zh.wikipedia.org/wiki/同人团体 "wikilink")“Friendly
@@ -20,9 +20,9 @@ Sky”，參加[Comic Market等日本的同人活動](../Page/Comic_Market.md "w
     JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』連載。原作：Antikim/Avra、協力：友善文創、全1卷
   - ["葵" 光在地球之時……](../Page/光在地球之時…….md "wikilink")（）『[GANGAN
     ONLINE](../Page/GANGAN_ONLINE.md "wikilink")』連載。原作：[野村美月](../Page/野村美月.md "wikilink")、構成：[山崎風愛](https://zh.wikipedia.org/wiki/山崎風愛 "wikilink")、角色原案：[竹岡美穗](https://zh.wikipedia.org/wiki/竹岡美穗 "wikilink")、全3卷
-  - [死神大人與4位女友](https://zh.wikipedia.org/wiki/死神大人與4位女友 "wikilink")（）『月刊GANGAN
+  - [死神大人與4位女友](../Page/死神大人與4位女友.md "wikilink")（）『月刊GANGAN
     JOKER』連載。原作：[巢山真](https://zh.wikipedia.org/wiki/巢山真 "wikilink")、全3卷
-  - [只要長得可愛，即使是變態你也喜歡嗎？](https://zh.wikipedia.org/wiki/只要長得可愛，即使是變態你也喜歡嗎？ "wikilink")（）『[月刊Dragon
+  - [只要長得可愛，即使是變態你也喜歡嗎？](../Page/只要長得可愛，即使是變態你也喜歡嗎？.md "wikilink")（）『[月刊Dragon
     Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")』連載。原作：[花間燈](https://zh.wikipedia.org/wiki/花間燈 "wikilink")
 
 ### 插畫作品

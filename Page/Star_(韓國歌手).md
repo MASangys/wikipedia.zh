@@ -34,17 +34,16 @@
   - 2010年：《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》－葬心
   - 2010年：《[還想結婚的女子](https://zh.wikipedia.org/wiki/還想結婚的女子 "wikilink")》－Beautiful
     Girl
-  - 2010年：《[Gloria](../Page/Gloria.md "wikilink")》－一無所有（與簡鍾旭）
+  - 2010年：《[Gloria](https://zh.wikipedia.org/wiki/Gloria "wikilink")》－一無所有（與簡鍾旭）
   - 2012年：《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》－會這樣都是因為你
   - 2012年：《[順藤而上的你](../Page/順藤而上的你.md "wikilink")》－刻骨銘心的話
   - 2012年：《[黃金時刻](../Page/黃金時刻.md "wikilink")》－觸到雙頰前
   - 2012年：《[想你](../Page/想你.md "wikilink")》－浮現你的臉（Feat. Swings）
-  - 2013年：《[Love in
-    Memory](https://zh.wikipedia.org/wiki/Love_in_Memory "wikilink")》－Love
+  - 2013年：《[Love in Memory](../Page/Love_in_Memory.md "wikilink")》－Love
     in Memory
   - 2015年：《[Who Are
-    You－學校2015](https://zh.wikipedia.org/wiki/Who_Are_You－學校2015 "wikilink")》
-    - Remember
+    You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》 -
+    Remember
   - 2015年：《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》 - 美好的時節
 
 ### 電影OST

@@ -29,7 +29,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台於](../Page/
 ### 其他
 
   - 高野惠美 -
-    [柳原可奈子](https://zh.wikipedia.org/wiki/柳原可奈子 "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+    [柳原可奈子](../Page/柳原可奈子.md "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 <!-- end list -->
 
@@ -466,7 +466,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台於](../Page/
 <!-- end list -->
 
   - 小島豐子 -
-    [大谷英子](https://zh.wikipedia.org/wiki/大谷英子 "wikilink")（香港配音：[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")）
+    [大谷英子](https://zh.wikipedia.org/wiki/大谷英子 "wikilink")（香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
 <!-- end list -->
 

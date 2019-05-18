@@ -29,7 +29,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年LPGA巡回赛" title="wikilink">2013年</a></p></td>
+<td><p><a href="../Page/2013年LPGA巡回赛.md" title="wikilink">2013年</a></p></td>
 <td><p>4月17日-20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/苏珊·彼德森" title="wikilink">苏珊·彼德森</a></p></td>
 <td></td>

@@ -7,7 +7,7 @@ E\&M所發行的節目原聲帶。
   - 本作於2013年3月28日進行錄音作業；2013年6月15日該節目導演劉虎哲於個人[Facebook宣布本作將於隔日](../Page/Facebook.md "wikilink")（16日）發行單曲音源。由在韓國擁有「野獸偶像」稱號的男子團體（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）成員[澤演主導創作](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")，臺灣偶像女子組合（[黑Girl](../Page/黑Girl.md "wikilink")）前成員兼演員[鬼鬼參與RAP歌詞](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")，並邀請[JYP娛樂旗下作曲家Super](../Page/JYP娛樂.md "wikilink")
     Changddai擔任監製共同製作而成的全新英文歌曲，歌詞內容詳載兩位演唱者在參與節目錄製過程的心聲，特別，RAP歌詞令人記憶猶新。
   - 本作名稱原為《I Love You I Need
-    You》，此可透過我們結婚了國際版官方[YOUTUBE頻道於](../Page/YOUTUBE.md "wikilink")2013年6月24日公布之第二部花絮中得知，正式發行則更改為《I
+    You》，此可透過我們結婚了國際版官方[YOUTUBE頻道於](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")2013年6月24日公布之第二部花絮中得知，正式發行則更改為《I
     Love You（With 오영결）》。
   - 2013年6月20日本作獲iTunes
     Taiwan單曲榜冠軍，創作兼演唱者[澤演在其個人官方](https://zh.wikipedia.org/wiki/玉澤演 "wikilink")[Twitter留下以下感謝文字](../Page/Twitter.md "wikilink")：

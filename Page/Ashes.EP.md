@@ -4,7 +4,7 @@
 
   - [GLAY出道以來第一張三A面](../Page/GLAY.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
   - 分為『初回限定盤』和『普通盤』2種，『初回限定盤』為CD+DVD版，包裝也不一樣，2種版本都有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
-  - 在[TERU的強烈要求下](../Page/TERU.md "wikilink")，[SORRY
+  - 在[TERU的強烈要求下](https://zh.wikipedia.org/wiki/TERU "wikilink")，[SORRY
     LOVE也製作拍攝MV](https://zh.wikipedia.org/wiki/SORRY_LOVE "wikilink")，[MV並非用影像呈現](https://zh.wikipedia.org/wiki/MV "wikilink")，而是由大約2000張[拍立得照片所編輯而成](https://zh.wikipedia.org/wiki/拍立得 "wikilink")。
 
 ## 收錄曲目

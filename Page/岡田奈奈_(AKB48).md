@@ -1,14 +1,13 @@
 **岡田奈奈**（，）是[日本偶像藝人](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為女子偶像團體[AKB48](../Page/AKB48.md "wikilink")
 Team
-4成員、以及兼任AKB48姊妹團體[STU48成員](https://zh.wikipedia.org/wiki/STU48 "wikilink")，同時擔任STU48隊長。[神奈川縣出身的岡田](../Page/神奈川縣.md "wikilink")，與同期加入AKB48的[小嶋真子](https://zh.wikipedia.org/wiki/小嶋真子 "wikilink")、[西野未姬一同被視為是團內新世代成員之中較受注目的重點人選](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")\[1\]，三人除了經常被歌迷們合稱為「14期三劍客」（）之外，也受到製作團隊的重視，在研究生時代就被拔擢成為跨姊妹團體的研究生小分隊「[小瓢蟲Chu\!](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")」的一員\[2\]，擁有自己的專屬曲與電視節目。此外，過去曾擔任AKB48
-Team
-4副隊長，是[AKB48集團中唯一有同時擔任正副隊長經驗的成員](https://zh.wikipedia.org/wiki/AKB48集團 "wikilink")。
+4成員、以及兼任AKB48姊妹團體[STU48成員](../Page/STU48.md "wikilink")，同時擔任STU48隊長。[神奈川縣出身的岡田](../Page/神奈川縣.md "wikilink")，與同期加入AKB48的[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姬一同被視為是團內新世代成員之中較受注目的重點人選](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")\[1\]，三人除了經常被歌迷們合稱為「14期三劍客」（）之外，也受到製作團隊的重視，在研究生時代就被拔擢成為跨姊妹團體的研究生小分隊「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」的一員\[2\]，擁有自己的專屬曲與電視節目。此外，過去曾擔任AKB48
+Team 4副隊長，是[AKB48集團中唯一有同時擔任正副隊長經驗的成員](../Page/AKB48集團.md "wikilink")。
 
 ## 經歷
 
 岡田奈奈在2012年5月13日通過AKB48第14期研究生甄選會，獲選成為AKB48的一份子，並於同年7月9日對外亮相，正式進入演藝圈。岡田的第一次舞台公演演出，是在8月19日時的AKB48研究生公演「[我的太陽](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」#AKB48_研究生公演“我的太阳” "wikilink")」中，但當時還是最資淺研究生的14期生僅有擔任後方的伴舞，並沒有參與主要的組曲演唱。
 
-在六名同期的新生中，岡田與[小嶋真子](https://zh.wikipedia.org/wiki/小嶋真子 "wikilink")、[西野未姬因為表現較突出而被歌迷們稱呼為](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")「14期三劍客」，此用法逐漸流傳開了之後，包括媒體乃至於自家的冠名節目企畫團隊，也跟著使用此稱呼。2013年5月，首度參與歌曲MV，並於單曲《[再見自由式](../Page/再見自由式.md "wikilink")》[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《玫瑰的果實》中擔任注目度較高的前排成員位置。6月5日，首度參與演唱會演出，於[日本武道館舉行的全研究生演唱會](../Page/日本武道館.md "wikilink")「[早推得勝](https://zh.wikipedia.org/wiki/AKB48集團研究生演唱會「早推得勝」 "wikilink")」登台表演。在7月20日於[福岡巨蛋舉行的九州場次活動中](../Page/福岡巨蛋.md "wikilink")，經營團隊突然宣佈岡田、小嶋、西野將與[SKE48的](../Page/SKE48.md "wikilink")[北川綾巴](https://zh.wikipedia.org/wiki/北川綾巴 "wikilink")、[NMB48的](../Page/NMB48.md "wikilink")[澀谷凪咲](https://zh.wikipedia.org/wiki/澀谷凪咲 "wikilink")、[HKT48的](../Page/HKT48.md "wikilink")[田島芽瑠及](../Page/田島芽瑠.md "wikilink")[朝長美櫻](https://zh.wikipedia.org/wiki/朝長美櫻 "wikilink")，七個人共同組成全為研究生的跨姊妹團體小分隊「[小瓢蟲Chu\!](https://zh.wikipedia.org/wiki/小瓢蟲Chu! "wikilink")」。小瓢蟲Chu\!在之後於7月31日於[札幌巨蛋舉辦的北海道場次巡迴演唱中登台演唱了該小分隊的第一首專屬歌曲](../Page/札幌巨蛋.md "wikilink")《[只給你的Chu\!Chu\!Chu\!](https://zh.wikipedia.org/wiki/只給你的Chu!Chu!Chu! "wikilink")》，該曲被收錄在AKB48的第33張單曲唱片《[真心電流](https://zh.wikipedia.org/wiki/真心電流 "wikilink")》的Type-B版本中作為[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")。除了專屬曲外，[富士電視台也自同年](../Page/富士電視台.md "wikilink")10月27日起開始播放由小瓢蟲Chu\!主演的電視劇《》。
+在六名同期的新生中，岡田與[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姬因為表現較突出而被歌迷們稱呼為](https://zh.wikipedia.org/wiki/西野未姬 "wikilink")「14期三劍客」，此用法逐漸流傳開了之後，包括媒體乃至於自家的冠名節目企畫團隊，也跟著使用此稱呼。2013年5月，首度參與歌曲MV，並於單曲《[再見自由式](../Page/再見自由式.md "wikilink")》[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《玫瑰的果實》中擔任注目度較高的前排成員位置。6月5日，首度參與演唱會演出，於[日本武道館舉行的全研究生演唱會](../Page/日本武道館.md "wikilink")「[早推得勝](https://zh.wikipedia.org/wiki/AKB48集團研究生演唱會「早推得勝」 "wikilink")」登台表演。在7月20日於[福岡巨蛋舉行的九州場次活動中](../Page/福岡巨蛋.md "wikilink")，經營團隊突然宣佈岡田、小嶋、西野將與[SKE48的](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[NMB48的](../Page/NMB48.md "wikilink")[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")、[HKT48的](../Page/HKT48.md "wikilink")[田島芽瑠及](../Page/田島芽瑠.md "wikilink")[朝長美櫻](../Page/朝長美櫻.md "wikilink")，七個人共同組成全為研究生的跨姊妹團體小分隊「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」。小瓢蟲Chu\!在之後於7月31日於[札幌巨蛋舉辦的北海道場次巡迴演唱中登台演唱了該小分隊的第一首專屬歌曲](../Page/札幌巨蛋.md "wikilink")《[只給你的Chu\!Chu\!Chu\!](https://zh.wikipedia.org/wiki/只給你的Chu!Chu!Chu! "wikilink")》，該曲被收錄在AKB48的第33張單曲唱片《[真心電流](../Page/真心電流.md "wikilink")》的Type-B版本中作為[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")。除了專屬曲外，[富士電視台也自同年](../Page/富士電視台.md "wikilink")10月27日起開始播放由小瓢蟲Chu\!主演的電視劇《》。
 
 在唱片作品的參與方面，岡田奈奈最早參與的AKB48歌曲是收錄在2012年10月發行的第28張單曲唱片《[UZA](../Page/UZA.md "wikilink")》劇場版中的《朝向大人之路》（），是一首由13期、14期研究生共同演唱的合唱曲。之後岡田陸續參與過數張專輯的研究生合唱曲，但一直到第31張單曲《[再見自由式](../Page/再見自由式.md "wikilink")》才首度登上受注目的位置。負責演唱第一B面曲《[玫瑰的果實](https://zh.wikipedia.org/wiki/玫瑰的果實 "wikilink")》的小分隊Under
 Girls是由[小嶋菜月擔任MV的中央位置](../Page/小嶋菜月.md "wikilink")（center）成員，並由岡田奈奈與小嶋真子站其兩旁。站在前排的三人穿著紅色服裝，在其他穿著白色服裝的成員之中顯得特別醒目。
@@ -16,9 +15,9 @@ Girls是由[小嶋菜月擔任MV的中央位置](../Page/小嶋菜月.md "wikili
 在2013年8月24日於[東京巨蛋舉行的五大巨蛋巡迴演唱會倒數第二場活動之末尾](../Page/東京巨蛋.md "wikilink")，AKB48集團的劇場總經理[戶賀崎智信登台宣布原本曾一度解散的AKB](../Page/戶賀崎智信.md "wikilink")48第四個分隊Team
 4要重新組成的消息。在這次的新分隊組成中，包括岡田奈奈在內的14期生一同獲得升格，成為AKB48的正式成員。
 
-在正式升格之後，「三劍客」受到營運團隊重用的程度持續提升。2014年3月3日，因應6月中要在[巴西開賽的](../Page/巴西.md "wikilink")[世界盃足球賽](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")，[日本國家代表隊的官方球衣贊助商](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")[愛迪達發起稱為](../Page/愛迪達.md "wikilink")「圓陣企劃」（）的應援活動，並選擇了三劍客與資深成員[大島優子一同擔任圓陣大使](../Page/大島優子.md "wikilink")\[3\]。4月15日，小瓢蟲Chu\!的首個冠名節目《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》開始於[日本電視台播放](../Page/日本電視台.md "wikilink")。6月7日，於「AKB48第37張單曲選拔總選舉」中獲得15,873票，得第51位，首次進入圈內，並成為Future
+在正式升格之後，「三劍客」受到營運團隊重用的程度持續提升。2014年3月3日，因應6月中要在[巴西開賽的](../Page/巴西.md "wikilink")[世界盃足球賽](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")，[日本國家代表隊的官方球衣贊助商](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")[愛迪達發起稱為](../Page/愛迪達.md "wikilink")「圓陣企劃」（）的應援活動，並選擇了三劍客與資深成員[大島優子一同擔任圓陣大使](../Page/大島優子.md "wikilink")\[3\]。4月15日，小瓢蟲Chu\!的首個冠名節目《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》開始於[日本電視台播放](../Page/日本電視台.md "wikilink")。6月7日，於「AKB48第37張單曲選拔總選舉」中獲得15,873票，得第51位，首次進入圈內，並成為Future
 Girls一員。9月17日，於年度活動「[AKB48家族
-猜拳大會2014](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2014 "wikilink")」中連勝三回之後，在第4回戰中敗給隊友[岩立沙穗](../Page/岩立沙穗.md "wikilink")，獲得第14名的最終排名，順利入選該活動冠軍[渡邊美優紀的個人出道單曲唱片](../Page/渡邊美優紀.md "wikilink")《[與其溫柔不如給我一個吻](https://zh.wikipedia.org/wiki/與其溫柔不如給我一個吻 "wikilink")》之搭配B面曲《[微弱春風](https://zh.wikipedia.org/wiki/微弱春風 "wikilink")》的演唱選拔成員。
+猜拳大會2014](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2014 "wikilink")」中連勝三回之後，在第4回戰中敗給隊友[岩立沙穗](../Page/岩立沙穗.md "wikilink")，獲得第14名的最終排名，順利入選該活動冠軍[渡邊美優紀的個人出道單曲唱片](../Page/渡邊美優紀.md "wikilink")《[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")》之搭配B面曲《[微弱春風](https://zh.wikipedia.org/wiki/微弱春風 "wikilink")》的演唱選拔成員。
 
 2015年3月26日，於埼玉超級競技場舉辦的「AKB48春季單獨演唱會～次期總現正修行中！～」演唱會上宣布新的組閣人事異動，由岡田擔任Team
 4副隊長一職。6月6日，於「[AKB48第41張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉 "wikilink")」中以23,237的票數獲得第29名，成為Under
@@ -32,14 +31,14 @@ Girls一員。
 HALL舉行的](https://zh.wikipedia.org/wiki/TOKYO_DOME_CITY_HALL "wikilink")《[AKB48集團
 重溫時間 最佳曲目100
 2018](https://zh.wikipedia.org/wiki/AKB48集團_重溫時間_最佳曲目100_2018 "wikilink")》
-第二日場次中，獲宣布為AKB48[第51張單曲的](https://zh.wikipedia.org/wiki/Ja-Ba-Ja "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員），首次在AKB48單曲擔任Center\[4\]。
+第二日場次中，獲宣布為AKB48[第51張單曲的](../Page/Ja-Ba-Ja.md "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員），首次在AKB48單曲擔任Center\[4\]。
 
-2019年4月16日，在廣島國際客運碼頭參加[STU48的船上劇場](https://zh.wikipedia.org/wiki/STU48 "wikilink")「STU48號」出航儀式後，參與船上劇場「GO\!GO\!
+2019年4月16日，在廣島國際客運碼頭參加[STU48的船上劇場](../Page/STU48.md "wikilink")「STU48號」出航儀式後，參與船上劇場「GO\!GO\!
 little SEABIRDS\!\!」初日公演。\[5\]
 
 ## 人物
 
-岡田奈奈在同期成員中雖然不是年紀最長，但卻因個性認真嚴肅，而被推舉是14期生之中的領導者。在上電視節目時其他成員經常提及岡田的正經事蹟，例如在後台休息室中，會在同期成員不小心使用了較粗俗的對話用語時立刻糾正，對說話態度不適當的後輩新生說教，或是幫忙將成員們吃不完的食物吃光以免浪費，對營運團隊或劇場工作人員也保持異於同齡成員們的周到禮貌。這類的小故事在經周遭的人們反覆披露多次之後，逐漸變成岡田的個人特色與成員們揶揄她的搞笑梗，冠名綜藝節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》的製作團隊甚至特別針對岡田奈奈製作了一個專題「徹底驗證！岡田奈奈到底正經到什麼程度？」（，2013年11月26日播出），透過對幕後工作人員的採訪與偷拍岡田私下的言談舉止，介紹她的正經個性。此外，岡田曾經參加由日本南京玉簾協會主辦的[南京玉簾課程](https://zh.wikipedia.org/wiki/南京玉簾 "wikilink")\[6\]，並於《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》第9集中演出\[7\]。
+岡田奈奈在同期成員中雖然不是年紀最長，但卻因個性認真嚴肅，而被推舉是14期生之中的領導者。在上電視節目時其他成員經常提及岡田的正經事蹟，例如在後台休息室中，會在同期成員不小心使用了較粗俗的對話用語時立刻糾正，對說話態度不適當的後輩新生說教，或是幫忙將成員們吃不完的食物吃光以免浪費，對營運團隊或劇場工作人員也保持異於同齡成員們的周到禮貌。這類的小故事在經周遭的人們反覆披露多次之後，逐漸變成岡田的個人特色與成員們揶揄她的搞笑梗，冠名綜藝節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》的製作團隊甚至特別針對岡田奈奈製作了一個專題「徹底驗證！岡田奈奈到底正經到什麼程度？」（，2013年11月26日播出），透過對幕後工作人員的採訪與偷拍岡田私下的言談舉止，介紹她的正經個性。此外，岡田曾經參加由日本南京玉簾協會主辦的[南京玉簾課程](../Page/南京玉簾.md "wikilink")\[6\]，並於《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》第9集中演出\[7\]。
 
 雖然岡田表現得十分成熟，但她的魅力也迷倒了前輩[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")，岩田更被其他成員揭發在岡田行時裝秀時說出「真想和她交往啊...」的話\[8\]\[9\]。
 
@@ -138,7 +137,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>33rd</p></td>
 <td><p>2013年10月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/真心電流" title="wikilink">真心電流</a><br />
+<td><p><a href="../Page/真心電流.md" title="wikilink">真心電流</a><br />
 （）</p></td>
 <td><p>清純哲學<br />
 （）</p></td>
@@ -184,7 +183,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>35th</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勇往直前_(AKB48單曲)" title="wikilink">勇往直前</a><br />
+<td><p><a href="../Page/勇往直前_(AKB48單曲).md" title="wikilink">勇往直前</a><br />
 （）</p></td>
 <td><p>比起昨天更喜歡你<br />
 （）</p></td>
@@ -196,7 +195,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="even">
 <td><p>36th</p></td>
 <td><p>2014年5月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉布拉多獵犬_(AKB48單曲)" title="wikilink">拉布拉多獵犬</a><br />
+<td><p><a href="../Page/拉布拉多獵犬_(AKB48單曲).md" title="wikilink">拉布拉多獵犬</a><br />
 （）</p></td>
 <td><p>拉布拉多獵犬</p></td>
 <td></td>
@@ -231,7 +230,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>38th</p></td>
 <td><p>2014年11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希望無限" title="wikilink">希望無限</a><br />
+<td><p><a href="../Page/希望無限.md" title="wikilink">希望無限</a><br />
 （）</p></td>
 <td><p>現在、Happy<br />
 （）</p></td>
@@ -390,7 +389,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>46th</p></td>
 <td><p>2016年11月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a><br />
+<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a><br />
 （）</p></td>
 <td><p>High Tension</p></td>
 <td></td>
@@ -412,7 +411,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>47th</p></td>
 <td><p>2017年3月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a><br />
+<td><p><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a><br />
 （）</p></td>
 <td><p>Shoot Sign</p></td>
 <td></td>
@@ -445,7 +444,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="even">
 <td><p>48th</p></td>
 <td><p>2017年5月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/空有願望" title="wikilink">空有願望</a><br />
+<td><p><a href="../Page/空有願望.md" title="wikilink">空有願望</a><br />
 （）</p></td>
 <td><p>空有願望</p></td>
 <td></td>
@@ -478,7 +477,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>49th</p></td>
 <td><p>2017年8月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/＃就是喜歡你" title="wikilink">#就是喜歡你</a><br />
+<td><p><a href="../Page/＃就是喜歡你.md" title="wikilink">#就是喜歡你</a><br />
 （）</p></td>
 <td><p>＃就是喜歡你</p></td>
 <td></td>
@@ -522,7 +521,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>51th</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a><br />
+<td><p><a href="../Page/Ja-Ba-Ja.md" title="wikilink">Ja-Ba-Ja</a><br />
 （）</p></td>
 <td><p>Ja-Ba-Ja</p></td>
 <td></td>
@@ -556,7 +555,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="even">
 <td><p>52nd</p></td>
 <td><p>2018年5月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>Teacher Teacher</p></td>
 <td></td>
 <td><p>全版本</p></td>
@@ -576,7 +575,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="even">
 <td><p>53rd</p></td>
 <td><p>2018年9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/感傷列車" title="wikilink">感傷列車</a><br />
+<td><p><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a><br />
 （）</p></td>
 <td><p>感傷列車</p></td>
 <td></td>
@@ -587,7 +586,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>54th</p></td>
 <td><p>2018年11月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NO_WAY_MAN" title="wikilink">NO WAY MAN</a></p></td>
+<td><p><a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a></p></td>
 <td><p>NO WAY MAN</p></td>
 <td></td>
 <td><p>全版本</p></td>
@@ -616,7 +615,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2018年1月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/暗闇" title="wikilink">暗闇</a></p></td>
+<td><p><a href="../Page/暗闇.md" title="wikilink">暗闇</a></p></td>
 <td><p>暗闇</p></td>
 <td></td>
 <td><p>全版本</p></td>
@@ -707,7 +706,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <tbody>
 <tr class="odd">
 <td><p>2014年2月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/與其溫柔不如給我一個吻" title="wikilink">與其溫柔不如給我一個吻</a><br />
+<td><p><a href="../Page/與其溫柔不如給我一個吻.md" title="wikilink">與其溫柔不如給我一個吻</a><br />
 （）</p></td>
 <td><p>微弱春風<br />
 （）</p></td>
@@ -739,8 +738,8 @@ little SEABIRDS\!\!」初日公演。\[5\]
 
   - 劇場霊からの招待狀（2015年10月19日，TBS電視台）飾 檜山花音
 
-  - [陪酒須加學園](https://zh.wikipedia.org/wiki/陪酒須加學園 "wikilink")，（日本電視台、Hulu，2016年10月30日
-    - ） - 飾 僵硬/比目魚（カタブツ/カレイ）
+  - [陪酒須加學園](../Page/陪酒須加學園.md "wikilink")，（日本電視台、Hulu，2016年10月30日 - ） -
+    飾 僵硬/比目魚（カタブツ/カレイ）
 
 ## 電視節目
 
@@ -750,8 +749,8 @@ little SEABIRDS\!\!」初日公演。\[5\]
   - 《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》（[TBS](../Page/TBS.md "wikilink")）：AKB48冠名綜藝節目，不定期參演。
   - 《[AKB48神TV](../Page/AKB48神TV.md "wikilink")》（，）：AKB48冠名綜藝節目，不定期參演。
   - 《[AKB48
-    SHOW\!](https://zh.wikipedia.org/wiki/AKB48_SHOW! "wikilink")》（[NHK高畫質衛星台](../Page/NHK_BS_Premium.md "wikilink")）：AKB48冠名綜藝節目，不定期參與。
-  - 《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》（日本電視台，2014年4月15日－2014年7月8日）：小瓢蟲Chu\!的第一個冠名綜藝節目。
+    SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》（[NHK高畫質衛星台](../Page/NHK_BS_Premium.md "wikilink")）：AKB48冠名綜藝節目，不定期參與。
+  - 《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》（日本電視台，2014年4月15日－2014年7月8日）：小瓢蟲Chu\!的第一個冠名綜藝節目。
 
 ### 紀錄片
 
@@ -910,7 +909,7 @@ little SEABIRDS\!\!」初日公演。\[5\]
 
 6.  [認定書](http://tvcap.info/2014/6/10/140610-0144070796-1440x810.jpg)
 
-7.  [日本電視台](../Page/日本電視台.md "wikilink")《[小瓢蟲Chu\!的讓全世界都迷上宣言！](https://zh.wikipedia.org/wiki/小瓢蟲Chu!的讓全世界都迷上宣言！ "wikilink")》2014年6月10日播出
+7.  [日本電視台](../Page/日本電視台.md "wikilink")《[小瓢蟲Chu\!的讓全世界都迷上宣言！](../Page/小瓢蟲Chu!的讓全世界都迷上宣言！.md "wikilink")》2014年6月10日播出
 
 8.
 

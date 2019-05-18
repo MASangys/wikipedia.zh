@@ -36,14 +36,14 @@
   - 美術監督：岡本有香
   - 色彩設計：上村修司
   - 攝影監督：松井伸哉
-  - 音樂：[加藤達也](https://zh.wikipedia.org/wiki/加藤達也 "wikilink")、[飯塚昌明](../Page/飯塚昌明.md "wikilink")
+  - 音樂：[加藤達也](../Page/加藤達也.md "wikilink")、[飯塚昌明](../Page/飯塚昌明.md "wikilink")
   - 音響監督：高桑一
   - 制片人：大胡寬二、川村仁、櫻井優香、二方由紀子
-  - 動畫製作：[Madhouse](../Page/Madhouse.md "wikilink")
+  - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
   - 制作：NEEDLESS制作委員會（[Avex
     Entertainment](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[博報堂DY
     Media
-    Partners](../Page/博報堂.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](../Page/Madhouse.md "wikilink")）
+    Partners](../Page/博報堂.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")）
 
 ## 主題曲
 
@@ -239,7 +239,7 @@ LEE SI MIN</p></td>
 <td></td>
 <td><p>第四波動</p></td>
 <td><p>西園悟</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
 <td><p>草野新二郎</p></td>
 <td><p>瀬川真矢<br />
 吉井弘幸</p></td>

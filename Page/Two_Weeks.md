@@ -1,5 +1,5 @@
 《**Two
-Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京作家執筆](https://zh.wikipedia.org/wiki/蘇賢京 "wikilink")，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫導演執導](https://zh.wikipedia.org/wiki/孫亨錫 "wikilink")。講述了被誣陷為殺人犯的男子（[李準基飾演](https://zh.wikipedia.org/wiki/李準基 "wikilink")）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
+Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京作家執筆](../Page/蘇賢京.md "wikilink")，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫導演執導](../Page/孫亨錫.md "wikilink")。講述了被誣陷為殺人犯的男子（[李準基飾演](https://zh.wikipedia.org/wiki/李準基 "wikilink")）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
 
 ## 演出陣容
 
@@ -31,7 +31,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 <tr class="odd">
 <td><center>
 <p><a href="../Page/金素妍.md" title="wikilink">金素妍</a><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/趙廷恩" title="wikilink">趙廷恩</a></small></p></td>
+<small>少年：<a href="../Page/趙廷恩.md" title="wikilink">趙廷恩</a></small></p></td>
 <td><center>
 <p>朴在京</p></td>
 <td><center>
@@ -104,7 +104,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴柱亨" title="wikilink">朴柱亨</a></p></td>
+<p><a href="../Page/朴柱亨.md" title="wikilink">朴柱亨</a></p></td>
 <td><center>
 <p>林亨進</p></td>
 <td><center>
@@ -224,7 +224,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹熙錫" title="wikilink">尹熙錫</a></p></td>
+<p><a href="../Page/尹熙錫.md" title="wikilink">尹熙錫</a></p></td>
 <td><center>
 <p>都尚勳</p></td>
 <td><center>
@@ -268,7 +268,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭仁基_(演員)" title="wikilink">鄭仁基</a></p></td>
+<p><a href="../Page/鄭仁基_(演員).md" title="wikilink">鄭仁基</a></p></td>
 <td><center>
 <p>楊澤南</p></td>
 <td><center>
@@ -286,7 +286,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/安勇俊" title="wikilink">安勇俊</a></p></td>
+<p><a href="../Page/安勇俊.md" title="wikilink">安勇俊</a></p></td>
 <td><center>
 <p>陳日道</p></td>
 <td><center>
@@ -302,7 +302,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/南慶邑" title="wikilink">南慶邑</a></p></td>
+<p><a href="../Page/南慶邑.md" title="wikilink">南慶邑</a></p></td>
 <td><center>
 <p>林奇豪</p></td>
 <td></td>
@@ -344,7 +344,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林世美" title="wikilink">林世美</a></p></td>
+<p><a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td><center>
 <p>吳美淑</p></td>
 <td><center>
@@ -370,21 +370,21 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/徐宜淑" title="wikilink">徐宜淑</a></p></td>
+<p><a href="../Page/徐宜淑.md" title="wikilink">徐宜淑</a></p></td>
 <td></td>
 <td></td>
 <td><p>瘖啞人士，曾被泰山狹持當作人質，但實際上只是在家裡盥洗兼蹭飯。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/彩彬" title="wikilink">彩彬</a></p></td>
+<p><a href="../Page/彩彬.md" title="wikilink">彩彬</a></p></td>
 <td></td>
 <td></td>
 <td><p>曾被泰山狹持當作人質，但實際上只是在家裡盥洗兼蹭飯。不知情的媽媽以為泰山會對年輕貌美的女兒下手性侵，泰山還命令穿上衣服而感覺到泰山不是真正的壞人，在泰山逃走好一段時間後才報警。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/高仁範" title="wikilink">高仁範</a></p></td>
+<p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
 <td></td>
 <td></td>
 <td><p>在京的父親，與文日錫有過衝突被刺傷，二年後抑鬱而終。</p></td>
@@ -428,7 +428,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[劍與花](../Page/劍與花.md "wikilink")》、《[期待戀愛](https://zh.wikipedia.org/wiki/期待戀愛 "wikilink")》、《[秘密](https://zh.wikipedia.org/wiki/秘密_\(2013年電視劇\) "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[劍與花](../Page/劍與花.md "wikilink")》、《[期待戀愛](../Page/期待戀愛.md "wikilink")》、《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[主君的太陽](../Page/主君的太陽.md "wikilink")》
 
 ## 獲獎記錄

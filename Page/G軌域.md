@@ -6,7 +6,7 @@
 ## 命名
 
 g軌域的 g
-是來自[f軌域的](../Page/f軌域.md "wikilink")[f的下一個](../Page/f.md "wikilink")[字母](../Page/字母.md "wikilink")[g](https://zh.wikipedia.org/wiki/g "wikilink")。\[2\]
+是來自[f軌域的](https://zh.wikipedia.org/wiki/f軌域 "wikilink")[f的下一個](https://zh.wikipedia.org/wiki/f "wikilink")[字母](../Page/字母.md "wikilink")[g](https://zh.wikipedia.org/wiki/g "wikilink")。\[2\]
 
 ## 結構
 
@@ -16,7 +16,7 @@ g軌域從主量子數n=5時開始出現，由於主量子數不能小於5，因
 =
 ±2或±3時（g<sub><sub><big>xyz</big><sup>2</sup></sub></sub>、g<sub><sub><big>z</big><sup>2</sup><big>(x</big><sup>2</sup><big>-y</big><sup>2</sup><big>)</big></sub></sub>、g<sub><sub><big>x</big><sup>3</sup><big>z</big></sub></sub>、g<sub><sub><big>y</big><sup>3</sup><big>z</big></sub></sub>）形狀相同但方向不同為為[十二葉](https://zh.wikipedia.org/wiki/十二 "wikilink")[啞鈴形](../Page/啞鈴.md "wikilink")；而磁量子數m
 =
-0時（g<sub><sub><big>z</big><sup>4</sup></sub></sub>）的形狀較特別，類似於[d<sub><sub><big>z</big><sup>2</sup></sub></sub>軌域](../Page/d軌域.md "wikilink")，但中間的環的上下多了一個類似碗的形狀，其開口朝向上下的啞鈴形。
+0時（g<sub><sub><big>z</big><sup>4</sup></sub></sub>）的形狀較特別，類似於[d<sub><sub><big>z</big><sup>2</sup></sub></sub>軌域](https://zh.wikipedia.org/wiki/d軌域 "wikilink")，但中間的環的上下多了一個類似碗的形狀，其開口朝向上下的啞鈴形。
 
 ## g區元素
 
@@ -24,7 +24,7 @@ g區元素是指這些元素中具有最高能量的電子是填在g軌域上的
 
 ## g之後的軌域
 
-g之後的軌域目前尚未觀測到，但根據計算結果是有可能存在的。其命名則依字母順序命名，除了不與[s軌域和](../Page/s軌域.md "wikilink")[p軌域的](../Page/p軌域.md "wikilink")[s](../Page/s.md "wikilink")、[p重複之外](https://zh.wikipedia.org/wiki/p "wikilink")，另外還跳過[j這個字母](../Page/j.md "wikilink")\[3\](由於某些語言不分i與j)，因此沒有任何軌域會以「j軌域」來命名。
+g之後的軌域目前尚未觀測到，但根據計算結果是有可能存在的。其命名則依字母順序命名，除了不與[s軌域和](https://zh.wikipedia.org/wiki/s軌域 "wikilink")[p軌域的](https://zh.wikipedia.org/wiki/p軌域 "wikilink")[s](https://zh.wikipedia.org/wiki/s "wikilink")、[p重複之外](https://zh.wikipedia.org/wiki/p "wikilink")，另外還跳過[j這個字母](https://zh.wikipedia.org/wiki/j "wikilink")\[3\](由於某些語言不分i與j)，因此沒有任何軌域會以「j軌域」來命名。
 
 ### h軌域
 
@@ -54,7 +54,7 @@ i軌域從主量子數n=7時開始出現，由於主量子數不能小於7，因
 當中*m<sub>0</sub>*是電子的靜質量。而當[原子序大於](https://zh.wikipedia.org/wiki/原子序 "wikilink")[137](../Page/Uts.md "wikilink")，狄拉克基態的波函數是震蕩的，並且正能譜與負能譜之間沒有間隙，正如所言。\[6\][理查德·費曼](../Page/理查德·費曼.md "wikilink")（Richard
 Feynman）指出了這效應。
 
-然而，現實的計算已考慮到了核[電荷分佈的有限延伸](../Page/電荷.md "wikilink")。約等於[173](https://zh.wikipedia.org/wiki/Ust "wikilink")（Unseptrium）的臨界的*Z*使得非離子原子所屬的元素可能僅限於等於或低於這個結果，因此，電子可能無法填至i軌域，因此i軌域有可能根本不存在。
+然而，現實的計算已考慮到了核[電荷分佈的有限延伸](../Page/電荷.md "wikilink")。約等於[173](../Page/Ust.md "wikilink")（Unseptrium）的臨界的*Z*使得非離子原子所屬的元素可能僅限於等於或低於這個結果，因此，電子可能無法填至i軌域，因此i軌域有可能根本不存在。
 
 ### k軌域
 

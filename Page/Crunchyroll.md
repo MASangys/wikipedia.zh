@@ -96,9 +96,9 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 <!-- end list -->
 
   - 2月，與[住友商事共同成立](../Page/住友商事.md "wikilink")，從事動畫製作委員会出資、動畫海外營業權取得及販售。
-  - 4月，宣布與[KADOKAWA締結戰略同盟](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")，取得其亞洲以外動畫數位發行權\[19\]。
+  - 4月，宣布與[KADOKAWA締結戰略同盟](../Page/KADOKAWA.md "wikilink")，取得其亞洲以外動畫數位發行權\[19\]。
   - 7月，宣布將推出一系列英文配音的動畫BD/DVD。
-  - 9月，宣布與[Funimation合作](https://zh.wikipedia.org/wiki/Funimation "wikilink")，兩家交流影音作品提供各自訂戶收看\[20\]。
+  - 9月，宣布與[Funimation合作](../Page/Funimation.md "wikilink")，兩家交流影音作品提供各自訂戶收看\[20\]。
 
 <!-- end list -->
 

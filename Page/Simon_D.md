@@ -59,31 +59,26 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 
       - JA(aka J.Clacci) - *Beat CD Bootleg, JA01* - "Romantic Sense"
 
-      - [Dynamic
-        Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") - 〈〉
+      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - 〈〉
 
-      - [Dynamic
-        Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") - **
-        - "Beyond the Wall", 〈잔소리〉
+      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "Beyond
+        the Wall", 〈잔소리〉
 
       - \- ** - "Hyper Soar"
 
       - 프라이머리 스코어 - *First Step* - "City Soul", "Beautiful Struggle"
 
-      - [Turbo](https://zh.wikipedia.org/wiki/Turbo_\(韓國男子團體\) "wikilink")
-        & [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") - 《2007
-        회상》
+      - [Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink") &
+        [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") -
+        《2007 회상》
 
-      - [The
-        Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink") -
-        *The Real Me* - "Give it to H.E.R."
+      - [The Quiett](../Page/The_Quiett.md "wikilink") - *The Real Me* -
+        "Give it to H.E.R."
 
       - [Epik High](../Page/Epik_High.md "wikilink") - ** - "8 by 8,
         Part 2"
 
-      - [Dynamic
-        Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") - **
-        - "월광증"
+      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "월광증"
 
       - \- ** - "Amnesia"
 
@@ -115,9 +110,8 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 
       - [Ailee](../Page/李艺真.md "wikilink") - ** - "Shut Up"
 
-      - [Dynamic
-        Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") - **
-        - "오해 (Misunderstood)"
+      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "오해
+        (Misunderstood)"
 
       - [Tony An](../Page/安胜浩.md "wikilink") - *Thank U* - "Thank U"
 
@@ -144,11 +138,10 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
       - [Epik High](../Page/Epik_High.md "wikilink") - *We've Done
         Something Wonderful* -*No, Thank
         you(노땡큐)*([宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[The
-        Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink"))
+        Quiett](../Page/The_Quiett.md "wikilink"))
 
-      - [朴載範](../Page/朴載範.md "wikilink")、[Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")、
-        [Gray](https://zh.wikipedia.org/wiki/Gray_\(歌手\) "wikilink") -
-        "翻過來 (뒤집어버려)"
+      - [朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")、
+        [Gray](../Page/Gray_\(歌手\).md "wikilink") - "翻過來 (뒤집어버려)"
 
 ### 綜藝節目
 
@@ -184,7 +177,7 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
   - 2013年 1月6日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
     Man](../Page/Running_Man.md "wikilink")》
   - 2013年 4月9日:
-    [SBS](../Page/SBS_\(韓國\).md "wikilink")《[話神-支配心靈者》](https://zh.wikipedia.org/wiki/話神-支配心靈者 "wikilink")
+    [SBS](../Page/SBS_\(韓國\).md "wikilink")《[話神-支配心靈者》](../Page/話神-支配心靈者.md "wikilink")
   - 2013年 4月29日: [MBC
     Music](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")《[Haha的19tv以下犯上](https://zh.wikipedia.org/wiki/Haha的19tv以下犯上 "wikilink")》
   - 2014年 3月19日:
@@ -202,11 +195,11 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
   - 2015年 6月28日 \~ 8月2日:
     [O'live](https://zh.wikipedia.org/wiki/O'live "wikilink")《[Maps](https://zh.wikipedia.org/wiki/Maps "wikilink")》
   - 2015年 8月3日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")》
+    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》
   - 2015年 8月28日:
     [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》
   - 2015年 9月4日:
-    [JTBC](../Page/JTBC.md "wikilink")《[魔女狩獵](https://zh.wikipedia.org/wiki/魔女狩獵 "wikilink")》
+    [JTBC](../Page/JTBC.md "wikilink")《[魔女狩獵](../Page/魔女狩獵.md "wikilink")》
   - 2015年 9月20日:
     [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[蒙面歌王](https://zh.wikipedia.org/wiki/蒙面歌王_\(韓國\) "wikilink")》
   - 2015年 9月30日:
@@ -218,14 +211,13 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
   - 2016年 3月22日: [JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project -
     Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
   - 2016年 5月6日 \~ 7月15日: [Mnet](../Page/Mnet媒體.md "wikilink")《[Show Me
-    The Money
-    5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")》
+    The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》
   - 2016年 6月11日: [TVN](../Page/TVN.md "wikilink") 《[SNL
-    Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》
+    Korea](../Page/SNL_Korea.md "wikilink")》
   - 2016年 8月31日:
     [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》
   - 2018年 6月22日 \~ 8月31日 :
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我獨自生活](https://zh.wikipedia.org/wiki/我獨自生活 "wikilink")》
+    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我獨自生活](../Page/我獨自生活.md "wikilink")》
   - 2018年10月3日:
     [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》
   - 2019年2月1日:
@@ -240,7 +232,7 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 
   - 2012年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Stand
     By](../Page/Stand_By.md "wikilink")》飾演 Sam D
-  - 2016年：[tvN](../Page/tvN.md "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》飾演
+  - 2016年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》飾演
     Sam D
 
 ## 參考資料

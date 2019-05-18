@@ -6,7 +6,7 @@ U**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink"
   - 與上一張原創專輯「[THE FIRST](../Page/THE_FIRST.md "wikilink")」相距約1年6個月。
   - 收錄第4張單曲「[sherlock](../Page/Sherlock_\(SHINee單曲\).md "wikilink")」至第7張單曲「[Fire](../Page/Fire_\(SHINee單曲\).md "wikilink")」，以及三首B-side曲「[Keeping
     love again](../Page/Sherlock_\(SHINee單曲\).md "wikilink")」、「[Run With
-    Me](../Page/Dazzling_Girl.md "wikilink")」和「[有妳的世界](https://zh.wikipedia.org/wiki/1000年、永遠留在我身邊… "wikilink")」，共7首曲目。
+    Me](../Page/Dazzling_Girl.md "wikilink")」和「[有妳的世界](../Page/1000年、永遠留在我身邊….md "wikilink")」，共7首曲目。
   - 本作分「CD+DVD Limited Edition」和「CD ONLY」2種版本。「CD+DVD Deluxe Limited
     Edition」收錄了「sherlock」、「Dazzling
     Girl」、「1000年、永遠留在我身邊…」、「Fire」的PV和「Dazzling
@@ -30,7 +30,7 @@ U**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink"
       -
         作詞：Sara Sakurai ・Rx、作曲：Drew Ryan Scott ・Robert“Rob A\!”Allen
         ・Justin Trugman ・Jaakko Manninen ・Walter Afanasieff ・Rx
-4.  **1000年、ずっとそばにいて…**（[1000年、永遠留在我身邊…](https://zh.wikipedia.org/wiki/1000年、永遠留在我身邊… "wikilink")）
+4.  **1000年、ずっとそばにいて…**（[1000年、永遠留在我身邊…](../Page/1000年、永遠留在我身邊….md "wikilink")）
       - 6th單曲
     <!-- end list -->
       -
@@ -41,7 +41,7 @@ U**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 6.  **Kiss Yo**
       -
         作詞：Sara Sakurai、作曲：Anders Wigelius ・Erik Wigelius
-7.  **君がいる世界**（[有妳的世界](https://zh.wikipedia.org/wiki/1000年、永遠留在我身邊… "wikilink")）
+7.  **君がいる世界**（[有妳的世界](../Page/1000年、永遠留在我身邊….md "wikilink")）
       - 6th單曲、「1000年、永遠留在我身邊…」的B面曲
     <!-- end list -->
       -

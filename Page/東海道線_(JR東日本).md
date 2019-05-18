@@ -41,7 +41,7 @@
 
       - 東京站－湯河原站間 [東京圈輸送管理系統](../Page/東京圈輸送管理系統.md "wikilink")（ATOS）
 
-  - [大都市近郊區間](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\) "wikilink")：全線（東京近郊區間）
+  - [大都市近郊區間](../Page/大都市近郊區間_\(JR\).md "wikilink")：全線（東京近郊區間）
 
   - ：東京站－大船站間
 
@@ -59,7 +59,7 @@
       - 快速（各種）：有●、■的車站停車、有｜的車站通過
           - 湘南新宿線：有■的車站在橫須賀線月台停靠、有○的車站於臨時運行時停車、有||的車站不途經
       - 常磐線直通：停靠東京－品川所有車站
-      - 特急（[舞孃·Superview舞孃](https://zh.wikipedia.org/wiki/舞孃號列車 "wikilink")·[日出瀨戶](https://zh.wikipedia.org/wiki/瀨戶號列車 "wikilink")·[日出出雲](https://zh.wikipedia.org/wiki/出雲號列車 "wikilink")·[常陸·常盤](https://zh.wikipedia.org/wiki/常陸號列車 "wikilink")）、通勤專線（）、臨時快速（）：參見各列車條目
+      - 特急（[舞孃·Superview舞孃](https://zh.wikipedia.org/wiki/舞孃號列車 "wikilink")·[日出瀨戶](../Page/瀨戶號列車.md "wikilink")·[日出出雲](https://zh.wikipedia.org/wiki/出雲號列車 "wikilink")·[常陸·常盤](https://zh.wikipedia.org/wiki/常陸號列車 "wikilink")）、通勤專線（）、臨時快速（）：參見各列車條目
   - 接續路線：東京－大船的東日本旅客鐵道路線名為運行系統上的名稱（與正式路線名不同）。
 
 <table>
@@ -339,7 +339,7 @@
 東海旅客鐵道： 東海道新幹線<br />
 小田急電鐵： <a href="../Page/小田原線.md" title="wikilink">小田原線</a>（OH47）<br />
 <a href="../Page/箱根登山鐵道.md" title="wikilink">箱根登山鐵道</a>： <a href="../Page/鐵道線_(箱根登山鐵道).md" title="wikilink">鐵道線</a>（OH47）<br />
-<a href="https://zh.wikipedia.org/wiki/伊豆箱根鐵道" title="wikilink">伊豆箱根鐵道</a>：<a href="https://zh.wikipedia.org/wiki/大雄山線" title="wikilink">大雄山線</a>（ID01）</p></td>
+<a href="../Page/伊豆箱根鐵道.md" title="wikilink">伊豆箱根鐵道</a>：<a href="../Page/大雄山線.md" title="wikilink">大雄山線</a>（ID01）</p></td>
 </tr>
 <tr class="even">
 <td><p>JT17</p></td>

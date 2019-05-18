@@ -65,7 +65,7 @@ Online的时代与背景设定在一个距今很遥远的未来及一个浩瀚�
 Online的联接所带来的不仅仅是一个在线世界，它更是真正意义上的虚拟现实。作为DUST514玩家作战舞台的那些行星即是EVE
 Online玩家在太空中看到并开发利用的行星。这两个融为一体的在线世界并不会强迫双方玩家进行合作，但对于愿意合作的双方来说，他们将能从中受益。
 2012年6月30日，*Dust 514*正式登陆PS3平台（ [Playstation
-3](../Page/Playstation_3.md "wikilink")）。PS3服务器将在2016年5月30日关闭。
+3](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")）。PS3服务器将在2016年5月30日关闭。
 
 #### *Eve: Valkyrie*
 

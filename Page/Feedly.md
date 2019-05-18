@@ -1,4 +1,4 @@
-**Feedly**是一个[RSS聚合器应用程序](https://zh.wikipedia.org/wiki/RSS聚合器 "wikilink")，支持各种[网页浏览器和运行](../Page/网页浏览器.md "wikilink")[iOS或](../Page/iOS.md "wikilink")[Android的](../Page/Android.md "wikilink")[移动设备](../Page/移动设备.md "wikilink")，也是一个基于云端的服务。其从各种在线资源聚合用户自定的新闻订阅源，并可与他人分享。Feedly由DevHD于2008年推出。
+**Feedly**是一个[RSS聚合器应用程序](https://zh.wikipedia.org/wiki/RSS聚合器 "wikilink")，支持各种[网页浏览器和运行](../Page/网页浏览器.md "wikilink")[iOS或](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android的](../Page/Android.md "wikilink")[移动设备](../Page/移动设备.md "wikilink")，也是一个基于云端的服务。其从各种在线资源聚合用户自定的新闻订阅源，并可与他人分享。Feedly由DevHD于2008年推出。
 
 ## 历史
 
@@ -21,7 +21,7 @@ Feedly宣称扩展有一个简约的，但可定制的界面，并且以杂志�
 
 ## Android，iOS应用
 
-Feedly移动应用支持[iOS](../Page/iOS.md "wikilink")（兼容[iPhone](../Page/iPhone.md "wikilink")，[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")）和[Android设备](../Page/Android.md "wikilink")。\[15\]
+Feedly移动应用支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（兼容[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")）和[Android设备](../Page/Android.md "wikilink")。\[15\]
 所有应用都基于Streets（DevHD的另一个项目）运行，其允许应用在所有版本上使用相同的代码。\[16\]
 在多个平台上运行相同的代码，可以让开发者发布更新快，因为它们只使用一个版本。像它的网站一样，移动应用程序采用简约的界面，模仿杂志传播。然而，不同于浏览器扩展，Feedly应用程序不可以加载一整篇文章，
 而会呈现的摘要，并链接到实际的文章。\[17\]

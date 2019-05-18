@@ -16,12 +16,12 @@ SOOP**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：매니지�
   - [劉民奎](https://zh.wikipedia.org/wiki/劉民奎 "wikilink")
   - [李在濬](../Page/李在濬.md "wikilink")
   - [崔宇植](../Page/崔宇植.md "wikilink")
-  - [鄭家藍](https://zh.wikipedia.org/wiki/鄭家藍 "wikilink")
+  - [鄭家藍](../Page/鄭家藍.md "wikilink")
   - [裴秀智](https://zh.wikipedia.org/wiki/裴秀智 "wikilink")
 
 ## 已離開藝人
 
-  - [柳承範](https://zh.wikipedia.org/wiki/柳承範 "wikilink")
+  - [柳承範](../Page/柳承範.md "wikilink")
   - [丁一宇](../Page/丁一宇.md "wikilink")
   - [金敏喜](../Page/金敏喜.md "wikilink")
   - [秀愛](../Page/秀愛.md "wikilink")

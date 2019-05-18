@@ -1,6 +1,6 @@
 《**Medical Top
 Team**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年10月9日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[Royal
-Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳導演與](https://zh.wikipedia.org/wiki/金道勳 "wikilink")《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
+Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳導演與](../Page/金道勳.md "wikilink")《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
 
 ## 演員陣容
 
@@ -24,7 +24,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 <td><center>
 <p>朴泰信</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/簡懷甄" title="wikilink">簡懷甄</a></p></td>
+<p><a href="../Page/簡懷甄.md" title="wikilink">簡懷甄</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -48,7 +48,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 <td><center>
 <p>崔雅真[3]</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/姜嘉蕾" title="wikilink">姜嘉蕾</a></p></td>
+<p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -100,7 +100,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金基邦" title="wikilink">金基邦</a></p></td>
+<p><a href="../Page/金基邦.md" title="wikilink">金基邦</a></p></td>
 <td><center>
 <p>鄭勳民</p></td>
 <td><center>
@@ -108,11 +108,11 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙宇麗" title="wikilink">趙宇麗</a></p></td>
+<p><a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a></p></td>
 <td><center>
 <p>呂敏智</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -123,7 +123,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴元相" title="wikilink">朴元相</a></p></td>
+<p><a href="../Page/朴元相.md" title="wikilink">朴元相</a></p></td>
 <td><center>
 <p>趙俊赫</p></td>
 <td><center>
@@ -131,11 +131,11 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/高媛熙" title="wikilink">高媛熙</a></p></td>
+<p><a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
 <td><center>
 <p>俞娜妍</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金青" title="wikilink">金　青</a></p></td>
+<p><a href="../Page/金青.md" title="wikilink">金　青</a></p></td>
 <td><center>
 <p>韓銀淑</p></td>
 <td><center>
@@ -171,7 +171,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金誠謙" title="wikilink">金誠謙</a></p></td>
+<p><a href="../Page/金誠謙.md" title="wikilink">金誠謙</a></p></td>
 <td><center>
 <p>李斗慶</p></td>
 <td><center>
@@ -179,7 +179,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李對淵" title="wikilink">李對淵</a></p></td>
+<p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
 <td><center>
 <p>黃哲九</p></td>
 <td><center></td>
@@ -368,7 +368,7 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[秘密](https://zh.wikipedia.org/wiki/秘密_\(2013年電視劇\) "wikilink")》、《[漂亮男人](https://zh.wikipedia.org/wiki/漂亮男人 "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》、《[漂亮男人](../Page/漂亮男人.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[欲戴王冠，必承其重－繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink")》
 
 ## 腳註

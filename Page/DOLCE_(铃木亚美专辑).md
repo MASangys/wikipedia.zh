@@ -1,5 +1,5 @@
 《**DOLCE**》是[日本歌手](../Page/日本.md "wikilink")[鈴木亞美移籍愛貝克思后的第三张也是个人第三张原创专辑](../Page/鈴木亞美.md "wikilink")。2008年2月6日由[avex
-trax发售](../Page/avex_trax.md "wikilink")。
+trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

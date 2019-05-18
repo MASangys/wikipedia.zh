@@ -7,7 +7,7 @@ Records / Universal J](../Page/環球音樂_\(日本\).md "wikilink")。
   - 距離前作《[未來的博物館](../Page/未來的博物館.md "wikilink")》約三個月的單曲。《Magic of
     Love》為「Puré軟糖」廣告歌。
   - 本作與演唱會DVD「[Perfume WORLD TOUR
-    1st](https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_1st "wikilink")」同日發行\[1\]。
+    1st](../Page/Perfume_WORLD_TOUR_1st.md "wikilink")」同日發行\[1\]。
   - 「Magic of
     Love」是一首描寫出女孩淡淡地編織理想及愛情萌芽的夢想的歌曲，是相當具有Perfume風格的一首歌。三人在MV中大跳整齊的倒帶舞，從12個不同的角度合共拍攝了12次，構成如魔法般的視覺效果。
   - 「Handy Man」則是一首同時帶有中東色彩及歐美舞曲風格（EDM）的歌曲。

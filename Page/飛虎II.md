@@ -90,7 +90,7 @@
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></strong></p></td>
+<td><p><strong><a href="../Page/何君誠.md" title="wikilink">何君誠</a></strong></p></td>
 <td><p><strong>郭德偉</strong></p></td>
 <td><p>警長（A Team攻擊手，後為B Team狙擊手）<br />
 展瀚韜之下屬，後反目，最後和好<br />
@@ -186,7 +186,7 @@ O記高級督察<br />
 參見上輯<a href="https://zh.wikipedia.org/wiki/飛虎_(電視劇)" title="wikilink"><strong>飛虎</strong></a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p>李　坤</p></td>
 <td><p>探員</p></td>
 </tr>
@@ -295,7 +295,7 @@ O記高級督察<br />
 於一年前被盡雞和潘子龍殺害</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾建怡" title="wikilink">曾建怡</a></p></td>
+<td><p><a href="../Page/曾建怡.md" title="wikilink">曾建怡</a></p></td>
 <td><p>新聞主播</p></td>
 <td></td>
 </tr>
@@ -384,7 +384,7 @@ O記高級督察<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳潔玲" title="wikilink">陳潔玲</a></p></td>
+<td><p><a href="../Page/陳潔玲.md" title="wikilink">陳潔玲</a></p></td>
 <td><p><strong>徐美暉</strong></p></td>
 <td><p>腿部殘疾人士<br />
 表面為運動用品公司員工，實為劫匪，專門劫富濟貧<br />
@@ -399,11 +399,11 @@ O記高級督察<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何佩珉" title="wikilink">何佩珉</a></p></td>
+<td><p><a href="../Page/何佩珉.md" title="wikilink">何佩珉</a></p></td>
 <td><p><strong>曼</strong></p></td>
 <td><p><strong>Mandy</strong><br />
 失明人士<br />
-表面為<a href="https://zh.wikipedia.org/wiki/運動用品" title="wikilink">運動用品公司員工</a>，實為劫匪，專門劫富濟貧<br />
+表面為<a href="../Page/運動用品.md" title="wikilink">運動用品公司員工</a>，實為劫匪，專門劫富濟貧<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="even">
@@ -413,7 +413,7 @@ O記高級督察<br />
 沙皮超之天敵</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃煒溏" title="wikilink">黃煒溏</a></p></td>
+<td><p><a href="../Page/黃煒溏.md" title="wikilink">黃煒溏</a></p></td>
 <td><p>沙皮超</p></td>
 <td><p>社團老大<br />
 炮仗之天敵<br />
@@ -480,13 +480,13 @@ O記高級督察<br />
 於第4集被展瀚韜開槍擊斃</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td><p>何威豪</p></td>
 <td><p>「神治天理會」成員／《Running ARMY》參賽者<br />
 於第4集被飛虎隊開槍擊斃</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/袁鎮業" title="wikilink">袁鎮業</a></p></td>
+<td><p><a href="../Page/袁鎮業.md" title="wikilink">袁鎮業</a></p></td>
 <td><p>余振志</p></td>
 <td></td>
 </tr>
@@ -601,7 +601,7 @@ A Team飛虎隊之好友<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/肥腸" title="wikilink">肥腸之手下</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/容天佑" title="wikilink">容天佑</a></p></td>
+<td><p><a href="../Page/容天佑.md" title="wikilink">容天佑</a></p></td>
 <td><p>刀　手</p></td>
 <td><p>何飛虎之仇家</p></td>
 </tr>
@@ -611,7 +611,7 @@ A Team飛虎隊之好友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐嘉麟" title="wikilink">唐嘉麟</a></p></td>
+<td><p><a href="../Page/唐嘉麟.md" title="wikilink">唐嘉麟</a></p></td>
 <td></td>
 <td><p>田新喜之手下</p></td>
 </tr>
@@ -663,7 +663,7 @@ A Team飛虎隊之好友<br />
 於第7集被飛虎隊開槍撃斃</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃子恆" title="wikilink">黃子恆</a></strong></p></td>
+<td><p><strong><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></strong></p></td>
 <td><p><strong>忠</strong></p></td>
 <td><p>越南華人<br />
 車房員工<br />
@@ -693,7 +693,7 @@ A Team飛虎隊之好友<br />
 於第7集被楊超義枪傷後再被其從天台拋下墮樓死亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳念君" title="wikilink">陳念君</a></p></td>
+<td><p><a href="../Page/陳念君.md" title="wikilink">陳念君</a></p></td>
 <td><p>妓　女</p></td>
 <td><p>夜總會女郎<br />
 朱德智之前情婦</p></td>
@@ -704,17 +704,17 @@ A Team飛虎隊之好友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥美恩" title="wikilink">麥美恩</a></p></td>
+<td><p><a href="../Page/麥美恩.md" title="wikilink">麥美恩</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
 <td><p>女　星</p></td>
 <td><p>朱德智之情婦</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>助　手</p></td>
 <td><p>朱德智之手下</p></td>
 </tr>
@@ -843,7 +843,7 @@ A Team飛虎隊之好友<br />
 於第10集被金秀姬利用脅持飛虎隊總部，後被手榴彈擊斃</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/周寶霖" title="wikilink">周寶霖</a></p></td>
+<td><p><a href="../Page/周寶霖.md" title="wikilink">周寶霖</a></p></td>
 <td></td>
 <td><p>潘子龍之妻</p></td>
 </tr>
@@ -863,7 +863,7 @@ A Team飛虎隊之好友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p>WPU</p></td>
 <td></td>
 </tr>
@@ -894,19 +894,19 @@ A Team飛虎隊之好友<br />
 
 ## 獎項
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2014](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2014 "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2014](../Page/TVB_馬來西亞星光薈萃頒獎典禮2014.md "wikilink")
 
 | 獎項            | 獲奬單位                                  |
 | ------------- | ------------------------------------- |
 | 「我最喜愛TVB電視角色」 | [羅仲謙](../Page/羅仲謙.md "wikilink")（俞學禮） |
 
-### [星和無綫電視大獎2015](https://zh.wikipedia.org/wiki/星和無綫電視大獎2015 "wikilink")
+### [星和無綫電視大獎2015](../Page/星和無綫電視大獎2015.md "wikilink")
 
 | 獎項            | 獲奬單位                                                     |
 | ------------- | -------------------------------------------------------- |
 | 「我最愛TVB電視女角色」 | [鍾嘉欣](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")（鍾韋恩） |
 
-### [萬千星輝頒獎典禮2014](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2014 "wikilink")
+### [萬千星輝頒獎典禮2014](../Page/萬千星輝頒獎典禮2014.md "wikilink")
 
 <table style="width:56%;">
 <colgroup>

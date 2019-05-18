@@ -1,4 +1,4 @@
-**Piece**（）是[日本的](../Page/日本.md "wikilink")[搞笑藝人二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，成員有（擔任[吐槽角色](https://zh.wikipedia.org/wiki/吐槽 "wikilink")）和[又吉直樹](../Page/又吉直樹.md "wikilink")（擔任[裝傻角色](https://zh.wikipedia.org/wiki/裝傻 "wikilink")）。兩人都是[NSC東京校第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")5期生。曾於2010年在（）奪得第2名\[1\]
+**Piece**（）是[日本的](../Page/日本.md "wikilink")[搞笑藝人二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，成員有（擔任[吐槽角色](../Page/吐槽.md "wikilink")）和[又吉直樹](../Page/又吉直樹.md "wikilink")（擔任[裝傻角色](https://zh.wikipedia.org/wiki/裝傻 "wikilink")）。兩人都是[NSC東京校第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")5期生。曾於2010年在（）奪得第2名\[1\]
 ，同年在[M-1大賽獲得第](../Page/M-1大賽.md "wikilink")4名。\[2\]
 
 Piece在[電視上的演出十分多](https://zh.wikipedia.org/wiki/電視 "wikilink")，亦是不少節目的主持或固定成員。根據的調查，Piece在2011年演出的節目集數為403集，在眾多藝人之中得第6名。在2012年，綾部和又吉分別出演了451集和400集（其中139集以組合形式出演），得第10名和第17名。\[3\]\[4\]
@@ -7,7 +7,7 @@ Piece在[電視上的演出十分多](https://zh.wikipedia.org/wiki/電視 "wiki
 
   - **綾部祐二**（，1977年12月13日－）
       - 出身自[茨城縣](../Page/茨城縣.md "wikilink")[猿島郡](https://zh.wikipedia.org/wiki/猿島郡 "wikilink")（今[古河市](../Page/古河市.md "wikilink")）。
-      - 擔任[吐槽](https://zh.wikipedia.org/wiki/吐槽 "wikilink")，站在右邊。
+      - 擔任[吐槽](../Page/吐槽.md "wikilink")，站在右邊。
 
 <!-- end list -->
 

@@ -1,5 +1,5 @@
 在[计算机技术中](https://zh.wikipedia.org/wiki/计算机技术 "wikilink")，**`echo`**是一个[DOS](../Page/DOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Singularity](../Page/Singularity.md "wikilink")、[Unix和](../Page/Unix.md "wikilink")[类Unix系统中的](../Page/类Unix系统.md "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")，用来将[字符串输出到](../Page/字符串.md "wikilink")[终端上](https://zh.wikipedia.org/wiki/终端 "wikilink")。它通常在[shell脚本和](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[批处理中使用](../Page/批处理.md "wikilink")，以将状态信息输出到屏幕或文件中。
+Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Singularity](../Page/Singularity.md "wikilink")、[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中的](../Page/类Unix系统.md "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")，用来将[字符串输出到](../Page/字符串.md "wikilink")[终端上](https://zh.wikipedia.org/wiki/终端 "wikilink")。它通常在[shell脚本和](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[批处理中使用](../Page/批处理.md "wikilink")，以将状态信息输出到屏幕或文件中。
 
 ## 使用范例
 

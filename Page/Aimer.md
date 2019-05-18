@@ -119,7 +119,7 @@ DFCL-1988（期間限定盤）</p></td>
 <tr class="odd">
 <td><p>6th</p></td>
 <td><p>2014年5月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/StarRingChild_EP" title="wikilink">StarRingChild EP</a></strong></p></td>
+<td><p><strong><a href="../Page/StarRingChild_EP.md" title="wikilink">StarRingChild EP</a></strong></p></td>
 <td><p>12cmCD+DVD（初回限定盤）<br />
 12cmCD（通常盤、期間限定盤）</p></td>
 <td><p>DFCL-2060/1（初回限定盤）<br />
@@ -303,7 +303,7 @@ SECL-2369（期間生産限定盤）</p></td>
 <tr class="odd">
 <td><p>1st</p></td>
 <td style="text-align: left;"><p>2012年10月3日</p></td>
-<td style="text-align: left;"><p><strong><a href="https://zh.wikipedia.org/wiki/Sleepless_Nights" title="wikilink">Sleepless Nights</a></strong></p></td>
+<td style="text-align: left;"><p><strong><a href="../Page/Sleepless_Nights.md" title="wikilink">Sleepless Nights</a></strong></p></td>
 <td style="text-align: left;"><p>12cmCD+DVD（初回限定盤）<br />
 12cmCD（通常盤）</p></td>
 <td style="text-align: left;"><p>DFCL-1930/1（初回限定盤）<br />
@@ -621,7 +621,7 @@ DFCL-2072（期間限定盤）</p></td>
 <tr class="even">
 <td><p>2016年2月24日</p></td>
 <td><p><a href="../Page/ORION_(中島美嘉單曲).md" title="wikilink">ORION</a></p></td>
-<td><p>V.A.『<a href="https://zh.wikipedia.org/wiki/MIKA_NAKASHIMA_TRIBUTE" title="wikilink">MIKA NAKASHIMA TRIBUTE</a>』</p></td>
+<td><p>V.A.『<a href="../Page/MIKA_NAKASHIMA_TRIBUTE.md" title="wikilink">MIKA NAKASHIMA TRIBUTE</a>』</p></td>
 <td><p><a href="../Page/中島美嘉.md" title="wikilink">中島美嘉致敬專輯</a>[10]</p></td>
 </tr>
 <tr class="odd">
@@ -652,7 +652,7 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 <tr class="odd">
 <td><p>2017年1月13日</p></td>
 <td><p>Listen (featuring<a href="../Page/艾薇兒·拉維尼.md" title="wikilink">Avril Lavigne</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>『<a href="https://zh.wikipedia.org/wiki/Ambitions" title="wikilink">Ambitions</a>』</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a>『<a href="../Page/Ambitions.md" title="wikilink">Ambitions</a>』</p></td>
 <td><p>バックコーラス参加</p></td>
 </tr>
 <tr class="even">
@@ -822,7 +822,7 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/東京殘響" title="wikilink">東京殘響</a>』片尾曲</p></td>
+<td><p>電視動畫『<a href="../Page/東京殘響.md" title="wikilink">東京殘響</a>』片尾曲</p></td>
 </tr>
 <tr class="even">
 <td><p>白昼夢</p></td>
@@ -918,7 +918,7 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>『{{tsl|ja|オオカミくんには騙されない</p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a>『{{tsl|ja|オオカミくんには騙されない</p></td>
 </tr>
 </tbody>
 </table>

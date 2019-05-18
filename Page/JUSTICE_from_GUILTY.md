@@ -4,7 +4,7 @@
 
   - 『GLAY STADIUM LIVE 2012 THE SUITE ROOM in OSAKA NAGAI
     STADIUM』演唱會上發表「GLAY 7
-    Surprises」的第一彈企劃，和第47張單曲「[命運論](https://zh.wikipedia.org/wiki/命運論_\(GLAY\) "wikilink")」同時發行（DVD\&Blu-ray『[GLAY
+    Surprises」的第一彈企劃，和第47張單曲「[命運論](../Page/命運論_\(GLAY\).md "wikilink")」同時發行（DVD\&Blu-ray『[GLAY
     STADIUM LIVE 2012 THE SUITE ROOM IN OSAKA NAGAISTADIUM “7.28 SUPER
     WELCOME PARTY & 7.29 BIG SURPRISE
     PARTY”](https://zh.wikipedia.org/wiki/GLAY_STADIUM_LIVE_2012_THE_SUITE_ROOM_IN_OSAKA_NAGAISTADIUM_“7.28_SUPER_WELCOME_PARTY_&_7.29_BIG_SURPRISE_PARTY” "wikilink")』也是同時發行）。
@@ -25,7 +25,7 @@
 3.  **[Time for
     Christmas](../Page/Hope_and_The_Silver_Sunrise.md "wikilink") (Club
     mix)** （4分58秒）
-4.  **11th原創專輯「[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")」&12th原創專輯「[GUILTY](https://zh.wikipedia.org/wiki/GUILTY_\(GLAY\) "wikilink")」預告篇**
+4.  **11th原創專輯「[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")」&12th原創專輯「[GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")」預告篇**
     （4分05秒）
 
 ### DVD （CD+DVD盤）

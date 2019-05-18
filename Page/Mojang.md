@@ -34,11 +34,11 @@ Porser將會離開Mojang。同時Mojang稱，《Minecraft》不會從其他平�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Minecraft" title="wikilink">Minecraft</a>[15]</p></td>
 <td><p>2011年（正式發布）<br />
-2011年（<a href="https://zh.wikipedia.org/wiki/當個創世神_攜帶版" title="wikilink">攜帶版</a>）（2014年 Amazon Fire TV,Windows Phone版)(2015年 Windows 10版)<br />
+2011年（<a href="../Page/當個創世神_攜帶版.md" title="wikilink">攜帶版</a>）（2014年 Amazon Fire TV,Windows Phone版)(2015年 Windows 10版)<br />
 2012年（<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360版</a>）<br />
 2013年（<a href="../Page/树莓派.md" title="wikilink">樹莓派版</a>）<br />
 2013年（<a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3版</a>）<br />
-2014年（<a href="https://zh.wikipedia.org/wiki/Xbox_One" title="wikilink">Xbox One</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita版</a>）<br />
+2014年（<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita版</a>）<br />
 2015年（<a href="../Page/Wii_U.md" title="wikilink">Wii U版</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第一人称视角游戏" title="wikilink">第一人称视角</a><a href="https://zh.wikipedia.org/wiki/沙盒遊戲" title="wikilink">沙盒遊戲</a></p></td>
 <td><p>測試版本於2009年發佈</p></td>
@@ -106,7 +106,7 @@ Scrolls）的版權。\[21\]於10月18日，馬庫斯·佩爾松公佈Mojang勝�
 
 於2013年6月25日，[噗噗娛樂中心](https://zh.wikipedia.org/wiki/噗噗娛樂中心 "wikilink")（Putt-Putt
 Fun
-Center）起訴Mojang允許[Youtube上的Minecraft影片使用](../Page/Youtube.md "wikilink")「Putt-Putt」作為影片名稱。\[27\]\[28\]
+Center）起訴Mojang允許[Youtube上的Minecraft影片使用](https://zh.wikipedia.org/wiki/Youtube "wikilink")「Putt-Putt」作為影片名稱。\[27\]\[28\]
 
 ## 對互聯網自由的立場
 

@@ -1,5 +1,5 @@
 **BitLocker**（直译为“比特锁”）是内置于[Windows
-Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密功能](https://zh.wikipedia.org/wiki/磁盘加密 "wikilink")，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密来保护数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥的](https://zh.wikipedia.org/wiki/密钥 "wikilink")[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
+Vista及其之后系统的全](../Page/Windows_Vista.md "wikilink")[磁盘加密功能](../Page/磁盘加密.md "wikilink")，透過为整个[卷提供](https://zh.wikipedia.org/wiki/卷_\(计算机\) "wikilink")[加密来保护数据](https://zh.wikipedia.org/wiki/加密 "wikilink")。它默认在[密码块链接](https://zh.wikipedia.org/wiki/分组密码工作模式#密码块链接（CBC） "wikilink")（CBC）或[XTS模式下使用](https://zh.wikipedia.org/wiki/磁盘加密理论 "wikilink")128位或256位[密钥的](https://zh.wikipedia.org/wiki/密钥 "wikilink")[AES加密算法](../Page/高级加密标准.md "wikilink")\[1\]\[2\]\[3\]。其中CBC用于每个单独的[磁盘扇区](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，不在整个磁盘上使用\[4\]。
 
 ## 历史
 
@@ -30,7 +30,7 @@ Vista Service Pack 1和Windows Server
 新版BitLocker首次包含在Windows 7和Windows Server 2008
 R2中，增加了加密可移动驱动器的功能。在[Windows
 XP或Windows](../Page/Windows_XP.md "wikilink") Vista上，BitLocker To Go
-Reader程序可以实现对使用[FAT16](../Page/FAT.md "wikilink")、[FAT32或](https://zh.wikipedia.org/wiki/FAT32 "wikilink")[exFAT文件系统驱动器的只读访问](../Page/exFAT.md "wikilink")\[18\]。另外，新的命令行工具`manage-bde`替换了旧的`manage-bde.wsf`\[19\]。
+Reader程序可以实现对使用[FAT16](../Page/FAT.md "wikilink")、[FAT32或](https://zh.wikipedia.org/wiki/FAT32 "wikilink")[exFAT文件系统驱动器的只读访问](https://zh.wikipedia.org/wiki/exFAT "wikilink")\[18\]。另外，新的命令行工具`manage-bde`替换了旧的`manage-bde.wsf`\[19\]。
 
 从Windows Server 2012和Windows
 8开始，微软通过硬盘加密规范完善了BitLocker，该规范允许将BitLocker的加密操作下放到存储设备的硬件中完成\[20\]\[21\]。此外，BitLocker现在可以通过[Windows
@@ -53,7 +53,7 @@ Standby，译为联网待机）规范\[27\]，需要[固态驱动器](https://zh
 有三种认证机制可以用来构建BitLocker加密\[30\]：
 
   - 透明运行模式：此模式使用TPM 1.2硬件的功能来提供透明的用户体验 -
-    用户正常启动并登录到Windows。用于[磁盘加密的密钥由TPM芯片密封](https://zh.wikipedia.org/wiki/磁盘加密 "wikilink")（加密），且在未检测到有对早期启动组件的修改的情况下被释放到OS加载代码中。因为其允许攻击者[启动已关闭电源的机器](../Page/啟動程式.md "wikilink")，所以这种模式很容易受到[冷启动攻击](https://zh.wikipedia.org/wiki/冷启动攻击 "wikilink")。
+    用户正常启动并登录到Windows。用于[磁盘加密的密钥由TPM芯片密封](../Page/磁盘加密.md "wikilink")（加密），且在未检测到有对早期启动组件的修改的情况下被释放到OS加载代码中。因为其允许攻击者[启动已关闭电源的机器](../Page/啟動程式.md "wikilink")，所以这种模式很容易受到[冷启动攻击](../Page/冷启动攻击.md "wikilink")。
   - 用户认证模式：此模式要求用户以预引导[PIN或密码的形式向预引导环境提供认证](https://zh.wikipedia.org/wiki/PIN "wikilink")。
   - USB密钥模式：用户必须将包含启动密钥的USB设备插入计算机才能启动受保护的操作系统。此模式要求受保护机器上的BIOS支持在操作系统预加载阶段读取USB设备。密钥还可以通过使用[CCID](https://zh.wikipedia.org/wiki/CCID "wikilink")（芯片卡接口设备）读取加密[智能卡获得](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用CCID比单纯将密钥文件存储在外部[U盘更安全](https://zh.wikipedia.org/wiki/U盘 "wikilink")，因为CCID协议使用嵌入在智能卡中的加密处理器隐藏私钥，防止密钥因智能卡内容泄露而被简单获取。
 
@@ -79,7 +79,7 @@ Vista上的现有卷缩小，为新的引导卷腾出空间，并将必要的引
 创建备用启动分区后需要初始化TPM模块（假设正在使用此功能），之后配置所需的磁盘加密密钥保护机制，如TPM、PIN或USB密钥\[42\]。对卷的加密会在后台完成，这在大型磁盘上可能需要大量时间，因为每个逻辑扇区都要被读取、加密并重写回磁盘\[43\]。这些密钥只有在整个卷被加密后才会被保护，这时此卷被认为是安全的\[44\]。
 BitLocker使用低级设备驱动程序对所有文件操作进行加密和解密，这对于在平台上与加密卷进行交互操作的应用程序是透明的\[45\]。
 
-[加密文件系统](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")（EFS）可以与BitLocker结合使用，在操作系统运行时提供保护。要控制操作系统中的进程和用户对文件的访问，使用者只能使用运行于Windows层面的加密软件（如EFS）。因此，BitLocker和EFS提供了针对不同类别攻击的保护。\[46\]
+[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）可以与BitLocker结合使用，在操作系统运行时提供保护。要控制操作系统中的进程和用户对文件的访问，使用者只能使用运行于Windows层面的加密软件（如EFS）。因此，BitLocker和EFS提供了针对不同类别攻击的保护。\[46\]
 
 在活动目录环境中，BitLocker支持可选密钥托管到活动目录。如果活动目录服务托管在Windows Server
 2008之前的Windows版本上，则可能需要先进行架构更新\[47\]。
@@ -96,7 +96,7 @@ Ferguson）和其他微软的发言人表示他们不会增加后门\[51\]。微
 
 BitLocker的“透明运行模式”和“用户认证模式”使用TPM硬件检测[BIOS和](../Page/BIOS.md "wikilink")[MBR预加载环境是否有未经授权的改变](../Page/主引导记录.md "wikilink")。如果检测到任何未经授权的更改，BitLocker将在USB设备上请求一个恢复密钥。该加密密钥用于解密卷主密钥，并允许继续运行[引导过程](../Page/啟動程式.md "wikilink")\[55\]。
 
-2008年2月，一个安全研究小组发布了所谓“[冷启动攻击](https://zh.wikipedia.org/wiki/冷启动攻击 "wikilink")”的详细信息，其通过将机器从可移动介质（如USB驱动器）引导到另一个操作系统，然后[转储预引导内存中的内容来损害诸如BitLocker的全磁盘加密系统](https://zh.wikipedia.org/wiki/核心转储 "wikilink")\[56\]。攻击依赖于这样一个事实：电源关闭后，[DRAM会](https://zh.wikipedia.org/wiki/DRAM "wikilink")[保留长达数分钟的信息](https://zh.wikipedia.org/wiki/数据残留 "wikilink")（冷却后的保留时间更长）。美国专利9,514,789号描述的Bress/
+2008年2月，一个安全研究小组发布了所谓“[冷启动攻击](../Page/冷启动攻击.md "wikilink")”的详细信息，其通过将机器从可移动介质（如USB驱动器）引导到另一个操作系统，然后[转储预引导内存中的内容来损害诸如BitLocker的全磁盘加密系统](https://zh.wikipedia.org/wiki/核心转储 "wikilink")\[56\]。攻击依赖于这样一个事实：电源关闭后，[DRAM会](https://zh.wikipedia.org/wiki/DRAM "wikilink")[保留长达数分钟的信息](https://zh.wikipedia.org/wiki/数据残留 "wikilink")（冷却后的保留时间更长）。美国专利9,514,789号描述的Bress/
 Menz装置可以完成这种攻击\[57\]。单独使用TPM不会提供任何保护，因为Windows运行时密钥保存在内存中。其他供应商和操作系统（包括[Linux和](../Page/Linux.md "wikilink")[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）的类似全磁盘加密机制也容易遭受同样的攻击。[普林斯顿大学教授的一篇论文推荐在未取得拥有者物理控制的情况下应将计算机关闭而不是处于](../Page/普林斯顿大学.md "wikilink")[睡眠模式](https://zh.wikipedia.org/wiki/待机_\(电脑\) "wikilink")，并且把加密软件配置为需要密码才能启动机器\[58\]。

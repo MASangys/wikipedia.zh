@@ -36,7 +36,7 @@ Joker》在日本发行首周售出593,994份\[14\]。游戏在日本一共售�
 ## 续作
 
 在1月末，任天堂宣布开发《勇者斗恶龙怪兽篇 Joker
-2》。游戏不是《Joker》的后传，而是使用了新主角。游戏使用了包括《[勇者斗恶龙IX](https://zh.wikipedia.org/wiki/勇者斗恶龙IX "wikilink")》新增怪物在内的300多种怪物，同时支持通过[任天堂Wi-Fi连接直接多人联机对战](https://zh.wikipedia.org/wiki/任天堂Wi-Fi连接 "wikilink")。
+2》。游戏不是《Joker》的后传，而是使用了新主角。游戏使用了包括《[勇者斗恶龙IX](https://zh.wikipedia.org/wiki/勇者斗恶龙IX "wikilink")》新增怪物在内的300多种怪物，同时支持通过[任天堂Wi-Fi连接直接多人联机对战](../Page/任天堂Wi-Fi连接.md "wikilink")。
 
 ## 参考文献
 

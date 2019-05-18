@@ -91,14 +91,14 @@ Lightnin*）。2010年又發行了以職業騎牛者為主題的紀錄片《The 
 《Vice》繼續在2013年發行了紀錄片《》，該片以紀錄[史努比狗狗受到](../Page/史努比狗狗.md "wikilink")[拉斯特法里運動影響](https://zh.wikipedia.org/wiki/拉斯特法里運動 "wikilink")，改名為「史努比獅子」（Snoop
 Lion）並轉型成雷鬼歌手的過程。\[27\]
 
-2013年4月18日，《Vice》發行的《》在[翠貝卡電影節首映](https://zh.wikipedia.org/wiki/翠貝卡電影節 "wikilink")，並獲得了網路影展最佳長片的獎項。\[28\]\[29\]\[30\]
+2013年4月18日，《Vice》發行的《》在[翠貝卡電影節首映](../Page/翠貝卡電影節.md "wikilink")，並獲得了網路影展最佳長片的獎項。\[28\]\[29\]\[30\]
 
 ### 電視節目
 
 《Vice》與[MTV頻道合作的電視系列節目](https://zh.wikipedia.org/wiki/MTV "wikilink")《Vice萬事指南》（*The
 Vice Guide to Everything*）在2010年12月首播，內容包括《Vice》發行的影片以及其他新製作的內容。
 
-2013年4月5日，與雜誌同名的新聞電視節目《[Vice](https://zh.wikipedia.org/wiki/Vice_\(電視節目\) "wikilink")》在[HBO頻道開始播出](../Page/HBO.md "wikilink")，由創辦人之一的西恩·史密斯主持。\[31\]
+2013年4月5日，與雜誌同名的新聞電視節目《[Vice](../Page/Vice_\(電視節目\).md "wikilink")》在[HBO頻道開始播出](../Page/HBO.md "wikilink")，由創辦人之一的西恩·史密斯主持。\[31\]
 
 ## 其他事業
 

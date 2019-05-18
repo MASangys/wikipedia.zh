@@ -2,7 +2,7 @@
 Code**（）是[韓國Ilgwang](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 Polaris
 Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink")）、So
-Jung（[李昭政](https://zh.wikipedia.org/wiki/李昭政 "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So
+Jung（[李昭政](../Page/李昭政.md "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So
 Jung和Zuny三人陣容活動中。
 
 團名意指包含女人們wannabe元素及實現戲劇化舞台的表演組合，將用音樂表現韓國所有女性想分享的談話與故事，展現新的女組合面貌。2013年3月7日發佈首張迷你專輯《CODE\#01
@@ -133,7 +133,7 @@ Code的僅存三位成員、同屬公司藝人也紛紛參與，公佈新歌《�
 2月21日與2月28日，昭政以"我的夜比你的白日美"的舞台名登上[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")47集和48集的舞台，並晉級到第二輪，其深厚的歌唱實力在蒙面的情況下被眾人誤以為是出道幾十年的歌手。
 
 7月19日起，昭政參與[JTBC播出的](../Page/JTBC.md "wikilink")[音乐竞技](../Page/音乐.md "wikilink")[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")《[Girl
-Spirit](https://zh.wikipedia.org/wiki/Girl_Spirit "wikilink")》，並挺進最終決賽。
+Spirit](../Page/Girl_Spirit.md "wikilink")》，並挺進最終決賽。
 
 Ladies'
 Code在3月結束〈MYST3RY〉主打歌〈GALAXY〉的活動後，便持續地投入創作當中。延續《MYST3RY》的特別概念，再度展現獨有的音樂色彩，於10月13日發行新專輯《STRANG3R》，收錄6首歌曲，其中有3首為新歌。主打歌〈The
@@ -350,31 +350,31 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 ### 專屬綜藝節目
 
-|       |                                                           |                |
-| ----- | --------------------------------------------------------- | -------------- |
-| 日期    | 節目名稱                                                      | 參與成員           |
-| 2013年 | 《 The Reality of Ladies' Code》                            | Ladies' Code全體 |
-| 2018年 | 《[我是李昭政](https://zh.wikipedia.org/wiki/我是李昭政 "wikilink")》 | 昭政             |
+|       |                                        |                |
+| ----- | -------------------------------------- | -------------- |
+| 日期    | 節目名稱                                   | 參與成員           |
+| 2013年 | 《 The Reality of Ladies' Code》         | Ladies' Code全體 |
+| 2018年 | 《[我是李昭政](../Page/我是李昭政.md "wikilink")》 | 昭政             |
 
 ### 綜藝節目
 
-|       |                                                                   |                                                                       |                                                       |         |
-| ----- | ----------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------- | ------- |
-| 日期    | 電視台                                                               | 節目名稱                                                                  | 參與成員                                                  | 集數      |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                                                | 昭政、[梨世](../Page/權梨世.md "wikilink")                    | 243、244 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《[Running Man](../Page/Running_Man.md "wikilink")》                    | [梨世](../Page/權梨世.md "wikilink")                       | 149     |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《一週的偶像》                                                               | 全員                                                    | 8       |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《Mamma Mia》                                                           | [梨世](../Page/權梨世.md "wikilink")                       | 9       |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                                                | 昭政、[恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink") | 255     |
-| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                    | 全員                                                    | 117     |
-| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《After School Club》                                                   | 全員                                                    | 49      |
-| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《Idol School》                                                         | 全員                                                    | 7       |
-| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《New Secret Box》                                                      | 全員                                                    | 2720    |
-| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                      | 昭政                                                    | 48      |
-| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Girl Spirit](https://zh.wikipedia.org/wiki/Girl_Spirit "wikilink")》 | 昭政                                                    | 1-11    |
-| 2017年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                    | Ashley、昭政、Zuny                                        | 285     |
-| 2019年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                    | Ashley、昭政、Zuny                                        | 399     |
-|       |                                                                   |                                                                       |                                                       |         |
+|       |                                                                   |                                                    |                                                       |         |
+| ----- | ----------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- | ------- |
+| 日期    | 電視台                                                               | 節目名稱                                               | 參與成員                                                  | 集數      |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[梨世](../Page/權梨世.md "wikilink")                    | 243、244 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《[Running Man](../Page/Running_Man.md "wikilink")》 | [梨世](../Page/權梨世.md "wikilink")                       | 149     |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《一週的偶像》                                            | 全員                                                    | 8       |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《Mamma Mia》                                        | [梨世](../Page/權梨世.md "wikilink")                       | 9       |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink") | 255     |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 | 全員                                                    | 117     |
+| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《After School Club》                                | 全員                                                    | 49      |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《Idol School》                                      | 全員                                                    | 7       |
+| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《New Secret Box》                                   | 全員                                                    | 2720    |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》   | 昭政                                                    | 48      |
+| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》 | 昭政                                                    | 1-11    |
+| 2017年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                                        | 285     |
+| 2019年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                                        | 399     |
+|       |                                                                   |                                                    |                                                       |         |
 
 ### 戲劇
 
@@ -509,7 +509,7 @@ Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal�
 ## 參見
 
   - [1998年灣仔北城巴翻側事故](../Page/1998年灣仔北城巴翻側事故.md "wikilink")
-  - 2018年[香港](../Page/香港.md "wikilink")[大埔公路雙層巴士翻側事故](https://zh.wikipedia.org/wiki/大埔公路雙層巴士翻側事故 "wikilink")
+  - 2018年[香港](../Page/香港.md "wikilink")[大埔公路雙層巴士翻側事故](../Page/大埔公路雙層巴士翻側事故.md "wikilink")
 
 ## 參考資料
 

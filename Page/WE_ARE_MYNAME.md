@@ -4,14 +4,14 @@ MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wiki
 ## 概要
 
   - 收錄第1張單曲《[Message](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\)#日語單曲 "wikilink")》和第2張單曲《[What's
-    Up](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")》，以及《What's
+    Up](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")》，以及《What's
     Up》的B面曲《Hello & Goodbye（Japanese Ver.）》、《Read Between the
     Lines》，共2首A面曲和2首B面曲。
   - 新曲《Replay（Japanese Ver.）》是MYNAME首張單曲《[MYNAME the 1st
-    single](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")》的收錄曲《Replay》的日語版本，亦是此專輯的先行曲目，並於2013年1月30日數位發行。
+    single](../Page/MYNAME_the_1st_single.md "wikilink")》的收錄曲《Replay》的日語版本，亦是此專輯的先行曲目，並於2013年1月30日數位發行。
   - 新曲《WE ARE THE NIGHT》為此專輯的主打及另一首先行曲目，於2013年2月6日數位發行。
   - 新曲《PARI PARI》是MYNAME第二張單曲《[MYNAME the 2nd
-    single](https://zh.wikipedia.org/wiki/MYNAME_the_2nd_single "wikilink")》主打歌曲《那算什麼（Just
+    single](../Page/MYNAME_the_2nd_single.md "wikilink")》主打歌曲《那算什麼（Just
     That Little Thing）》的日語版本
   - 本作分「初回限定盤」、「通常盤」和「Chara-Ani限定盤」3種版本。「CD+DVD Live Ed.」收錄了「Live Movie
     -MYNAME 1st LIVE ～What's Up～-」，MYNAME在12月17日於Zepp
@@ -36,15 +36,14 @@ MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wiki
         1st數位單曲《Message》的日語版本
 4.  **(IF YOU WANNA) BE MY BABY**
 5.  **[Hello & Goodbye（Japanese
-    Ver.）](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")**
+    Ver.）](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")**
       -
         2nd單曲
         1st單曲《[MYNAME the 1st
-        single](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")》主打曲《Hello
-        & Goodbye》的日語版本。
+        single](../Page/MYNAME_the_1st_single.md "wikilink")》主打曲《Hello &
+        Goodbye》的日語版本。
         《What's Up》B面曲
-6.  **[What's
-    Up](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")**
+6.  **[What's Up](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")**
       -
         2nd單曲、[HEY\!HEY\!HEY\!MUSIC
         CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")2012年10月至11月主題曲。
@@ -52,19 +51,19 @@ MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wiki
 8.  **Rum Bum Bum**
 9.  **INTERLUDE ～Sea of Love～**
 10. **[Read Between the
-    Lines](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")**
+    Lines](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")**
       -
         2nd單曲
         《What's Up》B面曲
 11. **Replay（Japanese Ver.）**
       -
         1st單曲《[MYNAME the 1st
-        single](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")》收錄曲《Replay》的日語版本。
+        single](../Page/MYNAME_the_1st_single.md "wikilink")》收錄曲《Replay》的日語版本。
 12. **Beautiful Life**
 13. **PARI PARI**
       -
         2nd單曲《[MYNAME the 2nd
-        single](https://zh.wikipedia.org/wiki/MYNAME_the_2nd_single "wikilink")》主打曲《那算什麼（Just
+        single](../Page/MYNAME_the_2nd_single.md "wikilink")》主打曲《那算什麼（Just
         That Little Thing）》的日語版本。
 14. **You're Waiting For Me**
 
@@ -84,9 +83,9 @@ MYNAME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wiki
 1.  Message（Japanese Ver.）
 2.  [I Want
     To](https://zh.wikipedia.org/wiki/Message_\(MYNAME單曲\)#日語單曲 "wikilink")
-3.  [Girlfriend](https://zh.wikipedia.org/wiki/MYNAME_the_1st_single "wikilink")
+3.  [Girlfriend](../Page/MYNAME_the_1st_single.md "wikilink")
 4.  What's Up
-5.  [Adrenaline](https://zh.wikipedia.org/wiki/What's_Up_\(MYNAME單曲\) "wikilink")
+5.  [Adrenaline](../Page/What's_Up_\(MYNAME單曲\).md "wikilink")
 6.  Hello & Goodbye（Japanese Ver.）
 7.  Read Between the Lines
 8.  [Everlastin'

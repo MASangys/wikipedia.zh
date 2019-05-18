@@ -40,7 +40,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
   - [NMB48](../Page/NMB48.md "wikilink") (2011年〜)
   - [Rev. from DVL](../Page/Rev._from_DVL.md "wikilink") (2014年〜)
-      - [橋本環奈](https://zh.wikipedia.org/wiki/橋本環奈 "wikilink") (2016年〜)
+      - [橋本環奈](../Page/橋本環奈.md "wikilink") (2016年〜)
 
 ### 和搞笑關係
 
@@ -63,13 +63,11 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
   - にけつッ\!\! (&[小林劍道](../Page/小林劍道.md "wikilink")) (2009年)
 
-  - [NON STYLE](https://zh.wikipedia.org/wiki/NON_STYLE "wikilink")
-    (2007年)
+  - [NON STYLE](../Page/NON_STYLE.md "wikilink") (2007年)
 
   - [泡沫青田](../Page/青田典子.md "wikilink") (2006年)
 
-  - [藤森慎吾とAYAMAN](https://zh.wikipedia.org/wiki/藤森慎吾 "wikilink") JAPAN
-    (2011年)
+  - [藤森慎吾とAYAMAN](../Page/藤森慎吾.md "wikilink") JAPAN (2011年)
 
   - 「[桃太郎電鐵](../Page/桃太郎電鐵系列.md "wikilink")20周年紀念專輯」
 
@@ -79,7 +77,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
       -
       -
-      - [若槻千夏](https://zh.wikipedia.org/wiki/若槻千夏 "wikilink")
+      - [若槻千夏](../Page/若槻千夏.md "wikilink")
 
   - (2009年)
 

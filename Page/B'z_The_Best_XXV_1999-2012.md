@@ -17,9 +17,9 @@ DISC 1
 1.  [極限chop](../Page/極限chop.md "wikilink")　
 2.  [今夜在賞月的山丘上](../Page/今夜在賞月的山丘上.md "wikilink")　
 3.  [May](https://zh.wikipedia.org/wiki/May "wikilink")　
-4.  [juice](../Page/juice.md "wikilink")　
+4.  [juice](https://zh.wikipedia.org/wiki/juice "wikilink")　
 5.  [RING](https://zh.wikipedia.org/wiki/RING "wikilink")　
-6.  [ultra soul](../Page/ultra_soul.md "wikilink")　
+6.  [ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")　
 7.  [GOLD](../Page/GOLD.md "wikilink")　
 8.  [熱情鼓動的結果](../Page/熱情鼓動的結果.md "wikilink")　
 9.  [IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")　
@@ -107,9 +107,9 @@ DISC 2
   - ジョシュ・フリーズ：鼓
   - [Chad Smith](https://zh.wikipedia.org/wiki/Chad_Smith "wikilink")：鼓
   - ジェレミー・コルソン：鼓
-  - [大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")（doa）：合聲
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（doa）：合聲
   - [小野塚晃](https://zh.wikipedia.org/wiki/小野塚晃 "wikilink")：鋼琴・アコースティックピアノ・風琴
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：風琴
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：風琴
   - 篠崎ストリングス：弦樂器
   - TAMA STRINGS：弦樂器
   - 徳永友美：弦樂器

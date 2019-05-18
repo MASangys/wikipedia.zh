@@ -20,7 +20,7 @@ Tower。
 
 [Nagoya_Prime_Central_Tower_110222.jpg](https://zh.wikipedia.org/wiki/File:Nagoya_Prime_Central_Tower_110222.jpg "fig:Nagoya_Prime_Central_Tower_110222.jpg")PRIME
 CENTRAL TOWER的名古屋总部\]\]
-[GDC_Goten-yama.JPG](https://zh.wikipedia.org/wiki/File:GDC_Goten-yama.JPG "fig:GDC_Goten-yama.JPG")[品川区](https://zh.wikipedia.org/wiki/品川区 "wikilink")[北品川](https://zh.wikipedia.org/wiki/北品川 "wikilink")）\]\]
+[GDC_Goten-yama.JPG](https://zh.wikipedia.org/wiki/File:GDC_Goten-yama.JPG "fig:GDC_Goten-yama.JPG")[品川区](https://zh.wikipedia.org/wiki/品川区 "wikilink")[北品川](../Page/北品川.md "wikilink")）\]\]
 
   - 1971年4月 - 设立东洋情报系统株式会社。在大阪市东区（现：中央区）开始软件开发事业。
   - 1973年8月 - 在大阪府吹田市设立总部（现大阪总部），开始数据中心服务、在线服务事业。

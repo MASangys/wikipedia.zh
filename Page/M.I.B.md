@@ -1,4 +1,4 @@
-**M.I.B**（）是韓國一已解散男子團體，成員有5Zic、Cream、SIMS、[Kangnam](https://zh.wikipedia.org/wiki/滑川康男 "wikilink")。
+**M.I.B**（）是韓國一已解散男子團體，成員有5Zic、Cream、SIMS、[Kangnam](../Page/滑川康男.md "wikilink")。
 4日 團名M.I.B意即「Most Incredible
 Busters」，是一個以嘻哈音樂為導向的團體，作品也多以說唱為主。2011年10月7日至18日分別公開個人單曲，並於20日在奧林匹克大廳舉行SHOWCASE，該月25日以出道曲《G.D.M》在[Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
@@ -39,7 +39,7 @@ Jasper、SIMS已在分別2016年3月和10月約滿離開公司，康男的合約
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/滑川康男" title="wikilink">Kangnam</a></strong></p></td>
+<td><p><strong><a href="../Page/滑川康男.md" title="wikilink">Kangnam</a></strong></p></td>
 <td><ul>
 <li>藝名：강남/Kangnam</li>
 <li>本名：なめかわ やすお（滑川康男）</li>

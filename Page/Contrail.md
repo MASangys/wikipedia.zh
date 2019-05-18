@@ -2,8 +2,7 @@
 
 ## 簡介
 
-  - 與上張數碼單曲《[Damage](https://zh.wikipedia.org/wiki/Damage "wikilink")》相隔約七個月、上張單曲《[Big
-    Boys
+  - 與上張數碼單曲《[Damage](../Page/Damage.md "wikilink")》相隔約七個月、上張單曲《[Big Boys
     Cry／Beautiful](https://zh.wikipedia.org/wiki/Big_Boys_Cry/Beautiful "wikilink")》相隔約兩個月的新單曲。
   - 歌曲名稱是[飛機雲的意思](../Page/飛機雲.md "wikilink")，歌曲亦加入了[飛機飛翔的音效](https://zh.wikipedia.org/wiki/飛機 "wikilink")\[3\]。
   - 自《[Love

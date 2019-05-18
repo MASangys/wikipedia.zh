@@ -33,7 +33,7 @@ GNOME**是一个基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[Linux发行版](
 <td><ul>
 <li>网页浏览器默认使用Firefox，替换了GNOME Web(<a href="https://zh.wikipedia.org/wiki/Epiphany" title="wikilink">Epiphany</a>)。</li>
 <li>使用Ubuntu Software Center和Update Manager替换了GNOME Software (gnome-packagekit)。</li>
-<li>使用LibreOffice 4.0替换了默认的<a href="../Page/Abiword.md" title="wikilink">Abiword和</a><a href="../Page/Gnumeric.md" title="wikilink">Gnumeric</a>。</li>
+<li>使用LibreOffice 4.0替换了默认的<a href="https://zh.wikipedia.org/wiki/Abiword" title="wikilink">Abiword和</a><a href="../Page/Gnumeric.md" title="wikilink">Gnumeric</a>。</li>
 </ul></td>
 </tr>
 <tr class="odd">

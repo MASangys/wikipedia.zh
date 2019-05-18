@@ -12,10 +12,11 @@ USB系统。目前该软件只有[windows版本](https://zh.wikipedia.org/wiki/w
   - [Debian](../Page/Debian.md "wikilink") Live
   - [OpenSUSE](../Page/OpenSUSE.md "wikilink")
   - [Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
-  - [ArchLinux与](../Page/Arch_Linux.md "wikilink")[ArchBang](https://zh.wikipedia.org/wiki/ArchBang "wikilink")
+  - [ArchLinux与](../Page/Arch_Linux.md "wikilink")[ArchBang](../Page/ArchBang.md "wikilink")
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")
   - [CentOS](../Page/CentOS.md "wikilink")
-  - [Damn Small Linux](../Page/Damn_Small_Linux.md "wikilink")
+  - [Damn Small
+    Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")
   - [Puppy Linux](../Page/Puppy_Linux.md "wikilink")
   - Toutou Linux
   - [GParted](../Page/GParted.md "wikilink") Live

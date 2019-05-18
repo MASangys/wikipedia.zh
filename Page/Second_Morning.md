@@ -1,10 +1,9 @@
 《**Second
-Morning**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")2張原創專輯。於1999年7月28日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+Morning**》（）是[日本女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")2張原創專輯。於1999年7月28日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 與上一張原創專輯《[First
-    Time](https://zh.wikipedia.org/wiki/First_Time "wikilink")》相距約1年。
+  - 與上一張原創專輯《[First Time](../Page/First_Time.md "wikilink")》相距約1年。
   - 收錄第3張單曲《[擁抱我HOLD ON
     ME\!](../Page/擁抱我HOLD_ON_ME!.md "wikilink")》至第6張單曲《[故鄉](../Page/故鄉_\(早安少女組。單曲\).md "wikilink")》4首A面曲，以及《[Memory
     青春之光](../Page/Memory_青春之光.md "wikilink")》、《[真夏的光線](../Page/真夏的光線.md "wikilink")》的B面曲《Never

@@ -64,11 +64,11 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>職業撲克選手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a> 박은지</p></td>
+<td><p><a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a> 박은지</p></td>
 <td><p>氣象播報員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a> 이준석</p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李俊錫</a> 이준석</p></td>
 <td><p>投資家</p></td>
 </tr>
 <tr class="even">
@@ -76,7 +76,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>前專業電玩選手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a> 이상민</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a> 이상민</p></td>
 <td><p>董事長，前歌手</p></td>
 </tr>
 <tr class="even">
@@ -110,20 +110,20 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 
 ### 每集內容
 
-| 集數 | 播出日期       | Main Match                                                               | Death Match                                                           |
-| -- | ---------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| 01 | 2013年4月26日 | [1,2,3遊戲](https://zh.wikipedia.org/wiki/The_Genius：遊戲的法則第一回合 "wikilink") | [連勝遊戲](https://zh.wikipedia.org/wiki/The_Genius：遊戲的法則第一回合 "wikilink") |
-| 02 | 2013年5月3日  | [選舉遊戲](https://zh.wikipedia.org/wiki/The_Genius：遊戲的法則第二回合 "wikilink")    | [連勝遊戲](https://zh.wikipedia.org/wiki/The_Genius：遊戲的法則第二回合 "wikilink") |
-| 03 | 2013年5月10日 | [豐饒與饑荒](https://zh.wikipedia.org/wiki/豐饒與饑荒 "wikilink")                  | [戰略柶戲](../Page/柶戲.md "wikilink")                                      |
-| 04 | 2013年5月17日 | [僵屍遊戲](https://zh.wikipedia.org/wiki/僵屍遊戲 "wikilink")                    | [戰略柶戲](../Page/柶戲.md "wikilink")                                      |
-| 05 | 2013年5月24日 | [欺詐賽馬](https://zh.wikipedia.org/wiki/欺詐賽馬 "wikilink")                    | [連勝遊戲](https://zh.wikipedia.org/wiki/連勝遊戲 "wikilink")                 |
-| 06 | 2013年5月31日 | 抓小偷遊戲                                                                    | 印第安撲克                                                                 |
-| 07 | 2013年6月7日  | OPEN,PASS                                                                | 印第安撲克                                                                 |
-| 08 | 2013年6月14日 | 豆的窘境                                                                     | 圖像遊戲                                                                  |
-| 09 | 2013年6月21日 | 算式拍賣                                                                     | 印第安撲克                                                                 |
-| 10 | 2013年6月28日 | 監禁\!欺詐賽馬                                                                 | [戰略柶戲](../Page/柶戲.md "wikilink")                                      |
-| 11 | 2013年7月5日  | 5:5遊戲                                                                    | 圖像記憶遊戲                                                                |
-| 12 | 2013年7月12日 | 印第安撲克，結\!合\!，圖像記憶遊戲                                                      |                                                                       |
+| 集數 | 播出日期       | Main Match                                              | Death Match                                           |
+| -- | ---------- | ------------------------------------------------------- | ----------------------------------------------------- |
+| 01 | 2013年4月26日 | [1,2,3遊戲](../Page/The_Genius：遊戲的法則第一回合.md "wikilink")   | [連勝遊戲](../Page/The_Genius：遊戲的法則第一回合.md "wikilink")    |
+| 02 | 2013年5月3日  | [選舉遊戲](../Page/The_Genius：遊戲的法則第二回合.md "wikilink")      | [連勝遊戲](../Page/The_Genius：遊戲的法則第二回合.md "wikilink")    |
+| 03 | 2013年5月10日 | [豐饒與饑荒](https://zh.wikipedia.org/wiki/豐饒與饑荒 "wikilink") | [戰略柶戲](../Page/柶戲.md "wikilink")                      |
+| 04 | 2013年5月17日 | [僵屍遊戲](https://zh.wikipedia.org/wiki/僵屍遊戲 "wikilink")   | [戰略柶戲](../Page/柶戲.md "wikilink")                      |
+| 05 | 2013年5月24日 | [欺詐賽馬](https://zh.wikipedia.org/wiki/欺詐賽馬 "wikilink")   | [連勝遊戲](https://zh.wikipedia.org/wiki/連勝遊戲 "wikilink") |
+| 06 | 2013年5月31日 | 抓小偷遊戲                                                   | 印第安撲克                                                 |
+| 07 | 2013年6月7日  | OPEN,PASS                                               | 印第安撲克                                                 |
+| 08 | 2013年6月14日 | 豆的窘境                                                    | 圖像遊戲                                                  |
+| 09 | 2013年6月21日 | 算式拍賣                                                    | 印第安撲克                                                 |
+| 10 | 2013年6月28日 | 監禁\!欺詐賽馬                                                | [戰略柶戲](../Page/柶戲.md "wikilink")                      |
+| 11 | 2013年7月5日  | 5:5遊戲                                                   | 圖像記憶遊戲                                                |
+| 12 | 2013年7月12日 | 印第安撲克，結\!合\!，圖像記憶遊戲                                     |                                                       |
 
 <table>
 <tbody>
@@ -143,9 +143,9 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>1,2,3遊戲</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>，<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a></p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李俊錫</a></p></td>
 <td><p>連勝遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a></p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李俊錫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
@@ -171,7 +171,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>4</p></td>
 <td><p>2013年5月17日</p></td>
 <td><p>僵屍遊戲</p></td>
-<td><p>，<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，，<br />
+<td><p>，<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，，<br />
 <a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>，<a href="https://zh.wikipedia.org/wiki/車侑藍" title="wikilink">車侑藍</a></p></td>
 <td></td>
 <td></td>
@@ -192,7 +192,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>6</p></td>
 <td><p>2013年5月31日</p></td>
 <td><p>抓小偷遊戲</p></td>
-<td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>，<a href="https://zh.wikipedia.org/wiki/車侑藍" title="wikilink">車侑藍</a>，<a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a></p></td>
+<td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>，<a href="https://zh.wikipedia.org/wiki/車侑藍" title="wikilink">車侑藍</a>，<a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a></p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a></p></td>
 <td><p>印第安撲克</p></td>
@@ -204,7 +204,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>OPEN,PASS</p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a></p></td>
+<td><p><a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a></p></td>
 <td><p>印第安撲克</p></td>
 <td></td>
 </tr>
@@ -214,7 +214,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>豆的窘境</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/車侑藍" title="wikilink">車侑藍</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a></p></td>
+<td><p><a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a></p></td>
 <td><p>圖像遊戲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/車侑藍" title="wikilink">車侑藍</a></p></td>
 </tr>
@@ -224,15 +224,15 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>算式拍賣</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a></p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a></p></td>
+<td><p><a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a></p></td>
 <td><p>印第安撲克-審判者</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴恩智_(演員)" title="wikilink">朴恩智</a></p></td>
+<td><p><a href="../Page/朴恩智_(演員).md" title="wikilink">朴恩智</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2013年6月28日</p></td>
 <td><p>監禁!欺詐賽馬</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>，<a href="../Page/金聖圭.md" title="wikilink">金聖圭</a></p></td>
 <td><p>戰略擲骰</p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">金聖圭</a></p></td>
@@ -253,9 +253,9 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>2013年7月5日</p></td>
 <td><p>5:5遊戲</p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，</p></td>
 <td><p>圖像記憶遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -818,7 +818,7 @@ Match）**。在第4季，11回合的主要比賽中有3個回合為石榴石比
 <td><p>前專業電玩選手，第一季第一名</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a> 이상민</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a> 이상민</p></td>
 <td><p>董事長，前歌手，第一季第三名</p></td>
 </tr>
 <tr class="even">
@@ -882,7 +882,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2013年12月7日</p></td>
 <td><p>食物鏈</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李多慧" title="wikilink">李多慧</a>，<a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>，<a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>，<br />
-<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，</p></td>
+<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南輝宗" title="wikilink">南輝宗</a></p></td>
 <td></td>
 <td><p>Quattro</p></td>
@@ -902,7 +902,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>3</p></td>
 <td><p>2013年12月21日</p></td>
 <td><p>王的遊戲</p></td>
-<td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>，<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，<a href="https://zh.wikipedia.org/wiki/李斗熙" title="wikilink">李斗熙</a></p></td>
+<td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a>，<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，<a href="https://zh.wikipedia.org/wiki/李斗熙" title="wikilink">李斗熙</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李多慧" title="wikilink">李多慧</a>，</p></td>
 <td><p>聯！合！</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李多慧" title="wikilink">李多慧</a></p></td>
@@ -923,7 +923,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>5</p></td>
 <td><p>2014年1月4日</p></td>
 <td><p>七誡律</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林遙煥" title="wikilink">林遙煥</a></p></td>
 <td><p>激光象棋</p></td>
@@ -933,7 +933,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>6</p></td>
 <td><p>2014年1月11日</p></td>
 <td><p>獨佔遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李斗熙" title="wikilink">李斗熙</a></p></td>
 <td></td>
 <td><p>暗戰遊戲</p></td>
@@ -943,7 +943,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>7</p></td>
 <td><p>2014年1月18日</p></td>
 <td><p>神的判決</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
 <td><p>印第安Hold 'em</p></td>
@@ -953,7 +953,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>8</p></td>
 <td><p>2014年1月25日</p></td>
 <td><p>負數拍賣</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/盧洪哲" title="wikilink">盧洪哲</a></p></td>
 <td><p>圖像記憶遊戲</p></td>
@@ -963,14 +963,14 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>9</p></td>
 <td><p>2014年2月1日</p></td>
 <td><p>解僱安排</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>，<a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>，<a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
 <td></td>
 <td></td>
 <td><p>黑和白</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>崔正文，<a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a>，<br />
+<td><p>崔正文，<a href="../Page/李俊錫.md" title="wikilink">李俊錫</a>，<br />
 <a href="../Page/金聖圭.md" title="wikilink">金聖圭</a>，</p></td>
 <td></td>
 <td></td>
@@ -984,7 +984,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>10</p></td>
 <td><p>2014年2月8日</p></td>
 <td><p>大宗交易</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><s><a href="../Page/林遥焕.md" title="wikilink">林遥焕</a></s><br />
 <a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
 <td></td>
@@ -1005,7 +1005,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>11</p></td>
 <td><p>2014年2月15日</p></td>
 <td><p>電梯遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="../Page/林遥焕.md" title="wikilink">林遥焕</a>，</p></td>
 <td><p>黑和白</p></td>
 <td></td>
@@ -1026,14 +1026,14 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2014年2月22日</p></td>
 <td><p>印第安Hold 'em</p></td>
 <td><p><a href="../Page/林遥焕.md" title="wikilink">林遥焕</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>測謊器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="../Page/林遥焕.md" title="wikilink">林遥焕</a></p></td>
 <td></td>
 <td></td>
@@ -1043,7 +1043,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 </tr>
 <tr class="even">
 <td><p>Quattro</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="../Page/林遥焕.md" title="wikilink">林遥焕</a></p></td>
 <td></td>
 <td></td>
@@ -1053,7 +1053,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 </tr>
 <tr class="odd">
 <td><p>決勝賽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>(2:1)</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>(2:1)</p></td>
 <td><p>　</p></td>
 <td><p>|<a href="../Page/林遥焕.md" title="wikilink">林遥焕</a>(1:2)</p></td>
 <td></td>
@@ -1578,7 +1578,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>律師、放送人，前任國會議員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a> 신아영</p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英</a> 신아영</p></td>
 <td><p>體育廣播員</p></td>
 </tr>
 <tr class="even">
@@ -1602,7 +1602,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>英語教師，前職業撲克選手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a> 오현민</p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a> 오현민</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國科學技術院" title="wikilink">韓國科學技術院數學科學系學生</a></p></td>
 </tr>
 <tr class="even">
@@ -1629,28 +1629,27 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 **第十回合**：
 \* [洪榛浩](../Page/洪榛浩.md "wikilink")：《The Genius 遊戲的法則》優勝者
 
-  - [李尚敏](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")：《The Genius
-    規則破壞者》優勝者
+  - [李尚敏](../Page/李尚敏.md "wikilink")：《The Genius 規則破壞者》優勝者
 
 *' 第十一回合*'：
 \*金慶勳，南輝宗，申雅英，金宥賢（第二，第四，第八和第九回合被淘汰者）
 
 ### 每集內容
 
-| 集數 | 播出日期        | Main Match                                                                          | Death Match                                                                                                | Black Mission                                                           |
-| -- | ----------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 01 | 2014年10月1日  | [水果商店](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第一回合 "wikilink")               | [黑和白Ⅱ](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第一回合 "wikilink")                                      |                                                                         |
-| 02 | 2014年10月8日  | [陪審團](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第二回合 "wikilink")                | \-{zh-cn:[賭博猜拳](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第二回合 "wikilink"); zh-hk:賭博包剪揼; zh-tw:賭博猜拳;}- |                                                                         |
-| 03 | 2014年10月15日 | [中間競賽](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第三回合 "wikilink")               | [黑和白Ⅱ](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第三回合 "wikilink")                                      |                                                                         |
-| 04 | 2014年10月22日 | [劍與盾](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第四回合 "wikilink")                | [雙面撲克](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第四回合 "wikilink")                                      | [聯\!合\!](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第四回合 "wikilink") |
-| 05 | 2014年10月29日 | [礦工遊戲](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第五回合 "wikilink")               | [雙面撲克](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第五回合 "wikilink")                                      |                                                                         |
-| 06 | 2014年11月5日  | [証劵市場的風暴](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第六回合 "wikilink")            | \-{zh-cn:[賭博猜拳](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第六回合 "wikilink"); zh-hk:賭博包剪揼; zh-tw:賭博猜拳;}- |                                                                         |
-| 07 | 2014年11月12日 | [星座遊戲](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第七回合 "wikilink")               | [12格象棋](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第七回合 "wikilink")                                     | [記憶遊戲](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第七回合 "wikilink")   |
-| 08 | 2014年11月19日 | [投資與捐款](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第八回合 "wikilink")              | [記憶迷宮](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第八回合 "wikilink")                                      |                                                                         |
-| 09 | 2014年11月26日 | [中間競賽](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第九回合 "wikilink")               | [記憶迷宮](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第九回合 "wikilink")                                      |                                                                         |
-| 10 | 2014年12月3日  | [鐵鏈拍賣](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十回合 "wikilink")               | [單軌列車](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十回合 "wikilink")                                      |                                                                         |
-| 11 | 2014年12月10日 | [欺詐擲骰](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十一回合 "wikilink")              | [賭博\!黑和白](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十一回合 "wikilink")                                  |                                                                         |
-| 12 | 2014年12月17日 | [12格象棋，算式記憶遊戲，賭博猜拳](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十二回合 "wikilink") |                                                                                                            |                                                                         |
+| 集數 | 播出日期        | Main Match                                                                          | Death Match                                                                                                | Black Mission                                        |
+| -- | ----------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 01 | 2014年10月1日  | [水果商店](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第一回合 "wikilink")               | [黑和白Ⅱ](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第一回合 "wikilink")                                      |                                                      |
+| 02 | 2014年10月8日  | [陪審團](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第二回合 "wikilink")                | \-{zh-cn:[賭博猜拳](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第二回合 "wikilink"); zh-hk:賭博包剪揼; zh-tw:賭博猜拳;}- |                                                      |
+| 03 | 2014年10月15日 | [中間競賽](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第三回合 "wikilink")               | [黑和白Ⅱ](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第三回合 "wikilink")                                      |                                                      |
+| 04 | 2014年10月22日 | [劍與盾](../Page/The_Genius：黑色石榴石第四回合.md "wikilink")                                   | [雙面撲克](../Page/The_Genius：黑色石榴石第四回合.md "wikilink")                                                         | [聯\!合\!](../Page/The_Genius：黑色石榴石第四回合.md "wikilink") |
+| 05 | 2014年10月29日 | [礦工遊戲](../Page/The_Genius：黑色石榴石第五回合.md "wikilink")                                  | [雙面撲克](../Page/The_Genius：黑色石榴石第五回合.md "wikilink")                                                         |                                                      |
+| 06 | 2014年11月5日  | [証劵市場的風暴](../Page/The_Genius：黑色石榴石第六回合.md "wikilink")                               | \-{zh-cn:[賭博猜拳](../Page/The_Genius：黑色石榴石第六回合.md "wikilink"); zh-hk:賭博包剪揼; zh-tw:賭博猜拳;}-                    |                                                      |
+| 07 | 2014年11月12日 | [星座遊戲](../Page/The_Genius：黑色石榴石第七回合.md "wikilink")                                  | [12格象棋](../Page/The_Genius：黑色石榴石第七回合.md "wikilink")                                                        | [記憶遊戲](../Page/The_Genius：黑色石榴石第七回合.md "wikilink")   |
+| 08 | 2014年11月19日 | [投資與捐款](../Page/The_Genius：黑色石榴石第八回合.md "wikilink")                                 | [記憶迷宮](../Page/The_Genius：黑色石榴石第八回合.md "wikilink")                                                         |                                                      |
+| 09 | 2014年11月26日 | [中間競賽](../Page/The_Genius：黑色石榴石第九回合.md "wikilink")                                  | [記憶迷宮](../Page/The_Genius：黑色石榴石第九回合.md "wikilink")                                                         |                                                      |
+| 10 | 2014年12月3日  | [鐵鏈拍賣](../Page/The_Genius：黑色石榴石第十回合.md "wikilink")                                  | [單軌列車](../Page/The_Genius：黑色石榴石第十回合.md "wikilink")                                                         |                                                      |
+| 11 | 2014年12月10日 | [欺詐擲骰](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十一回合 "wikilink")              | [賭博\!黑和白](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十一回合 "wikilink")                                  |                                                      |
+| 12 | 2014年12月17日 | [12格象棋，算式記憶遊戲，賭博猜拳](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第十二回合 "wikilink") |                                                                                                            |                                                      |
 
 <table>
 <tbody>
@@ -1669,7 +1668,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2014年10月1日</p></td>
 <td><p>水果商店</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a></p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英</a></p></td>
 <td></td>
 <td><p>黑和白Ⅱ</p></td>
 <td></td>
@@ -1678,8 +1677,8 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2</p></td>
 <td><p>2014年10月8日</p></td>
 <td><p>陪審團</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>，<a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a>，<a href="../Page/張東民.md" title="wikilink">張東民</a>，<br />
-<a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a>，<br />
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>，<a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a>，<a href="../Page/張東民.md" title="wikilink">張東民</a>，<br />
+<a href="../Page/申雅英.md" title="wikilink">申雅英</a>，<br />
 ，，<a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
 <td></td>
 <td></td>
@@ -1700,8 +1699,8 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>4</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p>劍與盾</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>，<a href="https://zh.wikipedia.org/wiki/金宥賢" title="wikilink">金宥賢</a>，<a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a>，<br />
-，<a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>，<a href="https://zh.wikipedia.org/wiki/金宥賢" title="wikilink">金宥賢</a>，<a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a>，<br />
+，<a href="../Page/申雅英.md" title="wikilink">申雅英</a></p></td>
 <td></td>
 <td><p><a href="../Page/金楨勳.md" title="wikilink">金楨勳</a> </p></td>
 <td><p>雙面撲克</p></td>
@@ -1711,7 +1710,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>5</p></td>
 <td><p>2014年10月29日</p></td>
 <td><p>礦工遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
 <td></td>
 <td><p>雙面撲克</p></td>
@@ -1732,7 +1731,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2014年11月12日</p></td>
 <td><p>星座遊戲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p></p></td>
 <td><p>12格象棋</p></td>
 <td></td>
@@ -1741,11 +1740,11 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>8</p></td>
 <td><p>2014年11月19日</p></td>
 <td><p>投資與捐款</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金宥賢" title="wikilink">金宥賢</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a></p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英</a></p></td>
 <td><p>記憶迷宮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a></p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英</a></p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
@@ -1772,7 +1771,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2014年12月10日</p></td>
 <td><p>欺詐擲骰</p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a>， <a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a>， <a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p>賭博!黑和白</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
 <td></td>
@@ -1791,7 +1790,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>12</p></td>
 <td><p>2014年12月17日</p></td>
 <td><p>12格象棋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
 <td></td>
 <td></td>
@@ -1800,7 +1799,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <tr class="odd">
 <td><p>算式記憶遊戲</p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1810,7 +1809,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <tr class="even">
 <td><p>賭博猜拳</p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1821,7 +1820,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>決勝賽</p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>(2:1)</p></td>
 <td><p>　</p></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>(1:2)</p></td>
+<td><p>|<a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>(1:2)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2032,7 +2031,7 @@ facto](https://zh.wikipedia.org/wiki/de_facto "wikilink") 優勝者。
 <td style="text-align: center;"><p>第一季第一名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a> 이상민</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a> 이상민</p></td>
 <td><p>董事長，前歌手</p></td>
 <td style="text-align: center;"><p>第一季第三名</p></td>
 </tr>
@@ -2052,7 +2051,7 @@ facto](https://zh.wikipedia.org/wiki/de_facto "wikilink") 優勝者。
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a> 오현민</p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a> 오현민</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國科學技術院" title="wikilink">韓國科學技術院數學科學系學生</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -2087,7 +2086,7 @@ facto](https://zh.wikipedia.org/wiki/de_facto "wikilink") 優勝者。
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a> 이준석</p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李俊錫</a> 이준석</p></td>
 <td><p>政客</p></td>
 <td style="text-align: center;"><p>第一季第十三名</p></td>
 </tr>
@@ -2102,7 +2101,7 @@ facto](https://zh.wikipedia.org/wiki/de_facto "wikilink") 優勝者。
 ### 嘉賓
 
 **第九回合**：
-\*[李尚敏](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")，，，[申雅英](https://zh.wikipedia.org/wiki/申雅英 "wikilink")，（第一，第二和第三季玩家）
+\*[李尚敏](../Page/李尚敏.md "wikilink")，，，[申雅英](../Page/申雅英.md "wikilink")，（第一，第二和第三季玩家）
 **第十回合**：
 \*鄭界元：IT企業家，記憶力國家代表（洪榛浩外援）
 
@@ -2161,9 +2160,9 @@ Death Match 遊戲為:
 <td><p>1</p></td>
 <td><p>2015年6月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Genius：終極總決賽第一回合" title="wikilink">身份交換</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李俊錫</a></p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李俊錫</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Genius：終極總決賽第一回合" title="wikilink">黑和白</a></p></td>
 <td></td>
 </tr>
@@ -2171,7 +2170,7 @@ Death Match 遊戲為:
 <td><p>2</p></td>
 <td><p>2015年7月4日</p></td>
 <td><p>恐怖競賽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林遙煥" title="wikilink">林遙煥</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
 <td><p>戰略擲骰</p></td>
@@ -2181,18 +2180,18 @@ Death Match 遊戲為:
 <td><p>3</p></td>
 <td><p>2015年7月11日</p></td>
 <td><p>是日菜單</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td><p>金慶勳</p></td>
 <td><p>賭博猜拳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2015年7月18日</p></td>
 <td><p>海鮮商店</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p>林允善</p></td>
 <td><p>算式記憶遊戲</p></td>
 <td><p>林允善</p></td>
@@ -2201,7 +2200,7 @@ Death Match 遊戲為:
 <td><p>5</p></td>
 <td><p>2015年7月25日</p></td>
 <td><p>忠臣與逆賊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>、張東民、洪榛浩、<br />
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>、張東民、洪榛浩、<br />
 崔連勝、金慶勳、李俊錫</p></td>
 <td><p>金璟蘭、金宥賢</p></td>
 <td><p>印第安撲克</p></td>
@@ -2212,7 +2211,7 @@ Death Match 遊戲為:
 <td><p>6</p></td>
 <td><p>2015年8月1日</p></td>
 <td><p>Garnet 小偷</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>、張東民、洪榛浩、<br />
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>、張東民、洪榛浩、<br />
 金璟蘭、金慶勳</p></td>
 <td><p>李俊錫</p></td>
 <td><p>崔連勝</p></td>
@@ -2263,7 +2262,7 @@ Death Match 遊戲為:
 <td><p>10</p></td>
 <td><p>2015年8月29日</p></td>
 <td><p>合作 Hold'em</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p>洪榛浩</p></td>
 <td><p>金慶勳</p></td>
 <td><p>雙面撲克</p></td>
@@ -2274,9 +2273,9 @@ Death Match 遊戲為:
 <td><p>2015年9月5日</p></td>
 <td><p>How Much</p></td>
 <td><p>金慶勳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a>、張東民</p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>、張東民</p></td>
 <td><p>十二象棋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2369,7 +2368,7 @@ Death Match 遊戲為:
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳炫旻" title="wikilink">吳炫旻</a></p></td>
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p>IMM</p></td>
 <td><p>IN</p></td>
 <td><p>WIN</p></td>
@@ -2620,11 +2619,11 @@ Death Match 遊戲為:
 ## 抄襲風波
 
 The Genius被懷疑有抄襲日本電視劇[Liar
-Game之嫌](../Page/Liar_Game.md "wikilink")，\[4\]The
+Game之嫌](https://zh.wikipedia.org/wiki/Liar_Game "wikilink")，\[4\]The
 Genius的製作方在未經Liar Game的任何許可或版權的情況下擅自引用了Liar
 Game的概念，形式，演戲及遊戲規則等，\[5\]雖然The
-Genius方有關人物主張「只是參考，並未抄襲」，\[6\]\[7\]但對抄襲遊戲規則一事卻未作解釋，Liar
-Game的粉絲們要求The Genius做出真正的解釋和道歉\[8\]\[9\]\[10\]
+Genius方有關人物主張「只是參考，並未抄襲」，\[6\]\[7\]但對抄襲遊戲規則一事卻未作解釋，Liar Game的粉絲們要求The
+Genius做出真正的解釋和道歉\[8\]\[9\]\[10\]
 
 不巧的是，2014年tvN將播放[Liar
 Game的改版劇](https://zh.wikipedia.org/wiki/詐欺遊戲_\(韓國電視劇\) "wikilink")，也就是說，tvN演了一場同時播放抄襲作品和改版作品的絕妙的戲。\[11\]另外，Liar

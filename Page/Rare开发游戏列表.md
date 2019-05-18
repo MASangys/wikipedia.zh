@@ -163,7 +163,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Adventure_game" title="wikilink">Adventure</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC游戏机" title="wikilink">FC游戏机</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1989[19]</p></td>
 </tr>
 <tr class="even">
@@ -267,7 +267,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Beat_&#39;em_up" title="wikilink">Beat 'em up</a></p></td>
 <td><p><a href="../Page/Game_Boy.md" title="wikilink">Game Boy</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1990[32]</p></td>
 </tr>
 <tr class="odd">
@@ -307,7 +307,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/《猛鬼街》" title="wikilink">《猛鬼街》</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Platform_game" title="wikilink">Platform</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC游戏机" title="wikilink">FC游戏机</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1990[37]</p></td>
 </tr>
 <tr class="even">
@@ -331,7 +331,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fighting_game" title="wikilink">Fighting</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC游戏机" title="wikilink">FC游戏机</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1990[40]</p></td>
 </tr>
 <tr class="odd">
@@ -347,7 +347,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fighting_game" title="wikilink">Fighting</a></p></td>
 <td><p><a href="../Page/Game_Boy.md" title="wikilink">Game Boy</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1991[42]</p></td>
 </tr>
 <tr class="odd">
@@ -355,7 +355,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/《甲壳虫汁》" title="wikilink">《甲壳虫汁》</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Platform_game" title="wikilink">Platform</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FC游戏机" title="wikilink">FC游戏机</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1991[43]</p></td>
 </tr>
 <tr class="even">
@@ -427,7 +427,7 @@
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Platform_game" title="wikilink">Platform</a></p></td>
 <td><p><a href="../Page/Game_Boy.md" title="wikilink">Game Boy</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LJN" title="wikilink">LJN</a></p></td>
+<td><p><a href="../Page/LJN.md" title="wikilink">LJN</a></p></td>
 <td><p>1992[52]</p></td>
 </tr>
 <tr class="odd">

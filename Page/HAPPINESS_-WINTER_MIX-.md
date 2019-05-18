@@ -19,16 +19,15 @@
         和專輯的版本不同，但很難聽出差異，連團員也聽不出差異性。
 2.  **[MISERY](https://zh.wikipedia.org/wiki/MISERY "wikilink") (GLAY
     EXPO '99 SURVIVAL LIVE VERSION)**
-3.  **[不是這裡，要往哪裡](https://zh.wikipedia.org/wiki/不是這裡，要往哪裡 "wikilink")
-    (GLAY EXPO '99 SURVIVAL LIVE VERSION)**
+3.  **[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink") (GLAY EXPO '99
+    SURVIVAL LIVE VERSION)**
 4.  **HAPPINESS -WINTER MIX- (instrumental)**
 
 ## 收錄專輯
 
-  - [HEAVY
-    GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE "wikilink")（專輯版本）
+  - [HEAVY GAUGE](../Page/HEAVY_GAUGE.md "wikilink")（專輯版本）
   - [DRIVE-GLAY complete
-    BEST](https://zh.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")（專輯版本）
+    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")（專輯版本）
   - [rare collectives
     vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF

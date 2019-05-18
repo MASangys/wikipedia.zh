@@ -102,7 +102,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [TKO](https://zh.wikipedia.org/wiki/TKO_\(お笑いコンビ\) "wikilink")
   - [上島龍兵](https://zh.wikipedia.org/wiki/上島龍兵 "wikilink")（[鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")）
   - [竹山隆範](../Page/竹山隆範.md "wikilink")
-  - [土田晃之](https://zh.wikipedia.org/wiki/土田晃之 "wikilink")
+  - [土田晃之](../Page/土田晃之.md "wikilink")
   - [江川達也](../Page/江川達也.md "wikilink")
   - [杉浦太陽](../Page/杉浦太陽.md "wikilink")
   - [浅利陽介](https://zh.wikipedia.org/wiki/浅利陽介 "wikilink")
@@ -115,7 +115,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [関根勤](https://zh.wikipedia.org/wiki/関根勤 "wikilink")
   - [堀井新太](../Page/堀井新太.md "wikilink")（[D☆DATE](../Page/D☆DATE.md "wikilink")）
   - [五十嵐隼士](../Page/五十嵐隼士.md "wikilink")（D☆DATE）
-  - [和田正人](https://zh.wikipedia.org/wiki/和田正人 "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
+  - [和田正人](../Page/和田正人.md "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
   - [松岡卓弥](https://zh.wikipedia.org/wiki/松岡卓弥 "wikilink")（[サーターアンダギー](https://zh.wikipedia.org/wiki/サーターアンダギー_\(ユニット\) "wikilink")）
   - [ワッキー](https://zh.wikipedia.org/wiki/ワッキー "wikilink")（[ペナルティ](https://zh.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")）
   - [福士蒼汰](../Page/福士蒼汰.md "wikilink")（俳優）
@@ -182,11 +182,11 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [春日俊彰](../Page/春日俊彰.md "wikilink")・[若林正恭](../Page/若林正恭.md "wikilink")（[オードリー](https://zh.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")）
   - [千葉雄大](../Page/千葉雄大.md "wikilink")（俳優）
   - [藤本敏史](https://zh.wikipedia.org/wiki/藤本敏史 "wikilink")・[原西孝幸](https://zh.wikipedia.org/wiki/原西孝幸 "wikilink")（[FUJIWARA](https://zh.wikipedia.org/wiki/FUJIWARA "wikilink")）
-  - [山里亮太](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
+  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
   - [相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink")
   - [レッド吉田](https://zh.wikipedia.org/wiki/レッド吉田 "wikilink")（[TIM](https://zh.wikipedia.org/wiki/TIM_\(お笑いコンビ\) "wikilink")）
   - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](https://zh.wikipedia.org/wiki/よゐこ "wikilink")）
-  - [藤森慎吾](https://zh.wikipedia.org/wiki/藤森慎吾 "wikilink")・[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")（[オリエンタルラジオ](https://zh.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
+  - [藤森慎吾](../Page/藤森慎吾.md "wikilink")・[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")（[オリエンタルラジオ](https://zh.wikipedia.org/wiki/オリエンタルラジオ "wikilink")）
   - [荒木宏文](../Page/荒木宏文.md "wikilink")（[D☆DATE](../Page/D☆DATE.md "wikilink")）
   - 真栄田賢・内間政成（[スリムクラブ](https://zh.wikipedia.org/wiki/スリムクラブ "wikilink")）
   - [本郷奏多](https://zh.wikipedia.org/wiki/本郷奏多 "wikilink")（俳優）
@@ -199,11 +199,11 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [田中卓志](https://zh.wikipedia.org/wiki/田中卓志 "wikilink")・[山根良顕](https://zh.wikipedia.org/wiki/山根良顕 "wikilink")（[アンガールズ](https://zh.wikipedia.org/wiki/アンガールズ "wikilink")）
-  - [和田正人](https://zh.wikipedia.org/wiki/和田正人 "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
+  - [和田正人](../Page/和田正人.md "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
   - [斎藤工](https://zh.wikipedia.org/wiki/斎藤工 "wikilink")（俳優）
   - [岩尾望](../Page/岩尾望.md "wikilink")・[後藤輝基](../Page/後藤輝基.md "wikilink")（[フットボールアワー](https://zh.wikipedia.org/wiki/フットボールアワー "wikilink")）
   - [井上裕介](https://zh.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")、[石田明](https://zh.wikipedia.org/wiki/石田明 "wikilink")（[NON
-    STYLE](https://zh.wikipedia.org/wiki/NON_STYLE "wikilink")）
+    STYLE](../Page/NON_STYLE.md "wikilink")）
   - 内間政成（[スリムクラブ](https://zh.wikipedia.org/wiki/スリムクラブ "wikilink")）
   - [千葉雄大](../Page/千葉雄大.md "wikilink")（俳優・モデル）
   - [徳山秀典](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")（俳優）
@@ -288,7 +288,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [芹那](../Page/芹那.md "wikilink")
   - [相武紗季](../Page/相武紗季.md "wikilink")
   - [平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")（声優）
-  - [misono](../Page/misono.md "wikilink")（歌手）
+  - [misono](https://zh.wikipedia.org/wiki/misono "wikilink")（歌手）
   - [すみれ](https://zh.wikipedia.org/wiki/すみれ_\(モデル\) "wikilink")（モデル）※石田純一の娘
   - [有村架純](../Page/有村架純.md "wikilink")
   - [石橋杏奈](https://zh.wikipedia.org/wiki/石橋杏奈 "wikilink")
@@ -302,7 +302,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [磯山さやか](https://zh.wikipedia.org/wiki/磯山さやか "wikilink")
   - [杉本有美](../Page/杉本有美.md "wikilink")
   - [矢口真里](../Page/矢口真里.md "wikilink")
-  - [夏川純](https://zh.wikipedia.org/wiki/夏川純 "wikilink")
+  - [夏川純](../Page/夏川純.md "wikilink")
   - [里田まい](https://zh.wikipedia.org/wiki/里田まい "wikilink")
   - [秋山莉奈](../Page/秋山莉奈.md "wikilink")
   - [和希沙也](https://zh.wikipedia.org/wiki/和希沙也 "wikilink")
@@ -439,7 +439,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [安座間美優](../Page/安座間美優.md "wikilink")
-  - [桜庭ななみ](https://zh.wikipedia.org/wiki/桜庭ななみ "wikilink")（[bump.y](../Page/bump.y.md "wikilink")）
+  - [桜庭ななみ](https://zh.wikipedia.org/wiki/桜庭ななみ "wikilink")（[bump.y](https://zh.wikipedia.org/wiki/bump.y "wikilink")）
   - [松山メアリ](https://zh.wikipedia.org/wiki/松山メアリ "wikilink")（同上）
   - [西野カナ](https://zh.wikipedia.org/wiki/西野カナ "wikilink")（歌手）
   - [山本彩](../Page/山本彩.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）

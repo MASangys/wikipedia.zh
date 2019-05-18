@@ -86,7 +86,7 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="https://zh.wikipedia.org/wiki/尹勝雅" title="wikilink">尹勝雅</a>、<a href="https://zh.wikipedia.org/wiki/崔真赫" title="wikilink">崔真赫</a>、<a href="../Page/劉小英.md" title="wikilink">劉小英</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李夏" title="wikilink">李夏</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李夏.md" title="wikilink">李夏</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓俊英" title="wikilink">韓俊英</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -124,7 +124,7 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/拜託了咖啡" title="wikilink">拜託了咖啡</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a>、<a href="https://zh.wikipedia.org/wiki/金敏英" title="wikilink">金敏英</a>、<a href="https://zh.wikipedia.org/wiki/蔡舒辰" title="wikilink">蔡舒辰</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a>、<a href="../Page/金敏英.md" title="wikilink">金敏英</a>、<a href="../Page/蔡舒辰.md" title="wikilink">蔡舒辰</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴秀哲" title="wikilink">朴秀哲</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

@@ -11,7 +11,7 @@ None**》（化學2勢力）是日本組合[化學超男子於](../Page/化學�
   - 3A單曲《[It Takes Two/SOLID DREAM/MOVE
     ON](https://zh.wikipedia.org/wiki/It_Takes_Two/SOLID_DREAM/MOVE_ON "wikilink")》中的《MOVE
     ON》並沒收錄本專，但其後的概念專輯《[Between the
-    Lines](https://zh.wikipedia.org/wiki/Between_the_Lines "wikilink")》收錄了此曲。
+    Lines](../Page/Between_the_Lines.md "wikilink")》收錄了此曲。
   - 先行單曲《[My Gift to
     You](https://zh.wikipedia.org/wiki/My_Gift_to_You "wikilink")》作限定發售。此曲為樂團Skoop
     On Somebody專輯《Save Our Souls》的收錄曲《Two of A Kind (S.O.S. meets

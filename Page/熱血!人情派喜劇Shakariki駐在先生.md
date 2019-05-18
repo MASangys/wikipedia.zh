@@ -6,7 +6,7 @@
 
 ### 定期
 
-  - [西野亮廣](https://zh.wikipedia.org/wiki/西野亮廣 "wikilink")（[キングコング](https://zh.wikipedia.org/wiki/キングコング_\(お笑いコンビ\) "wikilink")）
+  - [西野亮廣](../Page/西野亮廣.md "wikilink")（[キングコング](https://zh.wikipedia.org/wiki/キングコング_\(お笑いコンビ\) "wikilink")）
     - 「はなつき駐在所」的駐在先生。
   - [内場勝則](https://zh.wikipedia.org/wiki/内場勝則 "wikilink") -
     「はなつき駐在所」對面的便利店「Five up Mart」はなつき店店主。

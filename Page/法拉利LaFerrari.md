@@ -3,7 +3,7 @@
 
 **LaFerrari**（代号F70，内部代号F150）是[法拉利推出的一款](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")[混合动力](../Page/混合動力車輛.md "wikilink")[超级跑车](https://zh.wikipedia.org/wiki/超级跑车 "wikilink")。车名中“La”为意大利语中用于陰性单数名词前的[定冠词](https://zh.wikipedia.org/wiki/定冠词 "wikilink")，相当于英语的“The”。该车于2013年在[日内瓦车展上首次亮相](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。它的设计借鉴了[法拉利FXX赛车的测试成果](https://zh.wikipedia.org/wiki/法拉利FXX "wikilink")。并计划将车重控制在1,000公斤以内，\[1\]
 但最终公布的重量为1,255公斤。\[2\]同[恩佐一样](../Page/法拉利恩佐.md "wikilink")，LaFerrari为限量生产，目前计划生产499辆。\[3\]\[4\]
-2016年8月31日，廠方宣佈額外生產第500輛供慈善拍賣所用，所得收益將全數捐給[2016年意大利中部地震的災民](https://zh.wikipedia.org/wiki/2016年意大利中部地震 "wikilink")。\[5\]
+2016年8月31日，廠方宣佈額外生產第500輛供慈善拍賣所用，所得收益將全數捐給[2016年意大利中部地震的災民](../Page/2016年意大利中部地震.md "wikilink")。\[5\]
 
 ## 概况
 

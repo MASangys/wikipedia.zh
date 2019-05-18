@@ -3,7 +3,7 @@ Land**》（），是日本特攝節目《[假面騎士Wizard](https://zh.wikipe
 
 此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")》劇場版《[劇場版
 獸電戰隊強龍者 GABURINCHO OF
-MUSIC](https://zh.wikipedia.org/wiki/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC "wikilink")》亦同步上映。
+MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「金色魔法使‧假面騎士Sorcerer降臨！」、「魔法支配的世界－窮途末路的危機之中爆發出『最後的魔法』！！」。
 
@@ -12,7 +12,7 @@ MUSIC](https://zh.wikipedia.org/wiki/劇場版_獸電戰隊強龍者_GABURINCHO_
   - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》及其劇場版《[假面騎士555
     消失的天堂](../Page/假面騎士555_消失的天堂.md "wikilink")》後再次有量產型的假面騎士登場。
   - 飾演假面騎士Sorcerer，年屆54歲的男演員，亦成為史上飾演假面騎士系列之中最年長的一位。
-  - 本作亦摒除過往自《[假面騎士DECADE](../Page/假面騎士DECADE.md "wikilink")》開始起的所屬的獨立劇場版系列之中，讓未公開的續作假面騎士先行登場的常用慣例。
+  - 本作亦摒除過往自《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》開始起的所屬的獨立劇場版系列之中，讓未公開的續作假面騎士先行登場的常用慣例。
 
 ## 故事概要
 

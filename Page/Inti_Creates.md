@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒼藍雷霆_鋼佛特" title="wikilink">蒼藍雷霆 鋼佛特</a></p></td>
+<td><p><a href="../Page/蒼藍雷霆_鋼佛特.md" title="wikilink">蒼藍雷霆 鋼佛特</a></p></td>
 <td><p>蒼き雷霆 ガンヴォルト</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
@@ -44,30 +44,30 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒼藍雷霆_鋼佛特_爪" title="wikilink">蒼藍雷霆 鋼佛特 爪</a></p></td>
+<td><p><a href="../Page/蒼藍雷霆_鋼佛特_爪.md" title="wikilink">蒼藍雷霆 鋼佛特 爪</a></p></td>
 <td><p>蒼き雷霆 ガンヴォルト 爪</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超惑星戰記ZERO" title="wikilink">超惑星戰記ZERO</a></p></td>
+<td><p><a href="../Page/超惑星戰記ZERO.md" title="wikilink">超惑星戰記ZERO</a></p></td>
 <td><p>ブラスターマスター ゼロ</p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td><p>FC時期《<a href="https://zh.wikipedia.org/wiki/超惑星戰記" title="wikilink">超惑星戰記</a>》的重製版</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td></td>
 <td><p>マイティガンヴォルト バースト</p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td><p>《麥提鋼佛特》的續作</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蒼藍雷霆_鋼佛特_強襲合輯" title="wikilink">蒼藍雷霆 鋼佛特 強襲合輯</a></p></td>
 <td><p>蒼き雷霆 ガンヴォルト ストライカーパック</p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td><p>包含《蒼藍雷霆 鋼佛特》與《蒼藍雷霆 鋼佛特 爪》的合輯</p></td>
 </tr>
 <tr class="odd">
@@ -81,35 +81,35 @@
 <td><p>2018</p></td>
 <td></td>
 <td><p>ぎゃる☆がん2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/血污：夜之仪式" title="wikilink">血咒之城：月之詛咒</a></p></td>
+<td><p><a href="../Page/血污：夜之仪式.md" title="wikilink">血咒之城：月之詛咒</a></p></td>
 <td><p>ブラッドステインド:カース・オブ・ザ・ムーン</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a>、<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a>、<a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/血污：夜之仪式" title="wikilink">血污：夜之仪式</a>》的衍生作品</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a></p></td>
+<td><p>《<a href="../Page/血污：夜之仪式.md" title="wikilink">血污：夜之仪式</a>》的衍生作品</p></td>
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/逝血龍痕" title="wikilink">逝血龍痕</a></p></td>
+<td><p><a href="../Page/逝血龍痕.md" title="wikilink">逝血龍痕</a></p></td>
 <td><p>Dragon Marked For Death</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超惑星戰記ZERO_2" title="wikilink">超惑星戰記ZERO 2</a></p></td>
 <td><p>ブラスターマスター ゼロ 2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>未定</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白色鋼鐵X_THE_OUT_OF_GUNVOLT" title="wikilink">白色鋼鐵X THE OUT OF GUNVOLT</a></p></td>
 <td><p>白き鋼鉄X The out of Gunvolt</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td><p>《蒼藍雷霆 鋼佛特》系列的外傳作品</p></td>
 </tr>
 </tbody>
@@ -371,7 +371,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大尾小岡" title="wikilink">小恐龍阿岡 狼吞虎嚥大冒險</a></p></td>
+<td><p><a href="../Page/大尾小岡.md" title="wikilink">小恐龍阿岡 狼吞虎嚥大冒險</a></p></td>
 <td><p>ゴン バクバクバクバクアドベンチャー</p></td>
 <td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a></p></td>
 <td><p>萬代南夢宮遊戲</p></td>
@@ -387,7 +387,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桑塔與海盜的詛咒" title="wikilink">桑塔與海盜的詛咒</a></p></td>
+<td><p><a href="../Page/桑塔與海盜的詛咒.md" title="wikilink">桑塔與海盜的詛咒</a></p></td>
 <td><p>Shantae and the Pirate's Curse</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/WayForward_Technologies" title="wikilink">WayForward Technologies</a></p></td>
@@ -406,7 +406,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/麥提9號" title="wikilink">麥提9號</a></p></td>
 <td><p>Mighty No. 9</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Spike_Chunsoft" title="wikilink">Spike Chunsoft</a><br />
+<td><p><a href="../Page/Spike_Chunsoft.md" title="wikilink">Spike Chunsoft</a><br />
 <a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Comcept" title="wikilink">Comcept合作開發</a></p></td>
 </tr>
@@ -420,7 +420,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桑塔：半精靈英雄" title="wikilink">桑塔：半精靈英雄</a></p></td>
+<td><p><a href="../Page/桑塔：半精靈英雄.md" title="wikilink">桑塔：半精靈英雄</a></p></td>
 <td><p>Shantae: Half-Genie Hero</p></td>
 <td></td>
 <td><p>WayForward Technologies</p></td>

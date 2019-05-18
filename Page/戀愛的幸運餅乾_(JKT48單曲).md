@@ -81,7 +81,7 @@ Juniantha、Nabilah Ratna Ayu Azalia
     Shahab、Beby Chaesara Anadila、Devi Kinal Putri、[Haruka
     Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Veranda、[Melody
     Nurramdhani
-    Laksani](https://zh.wikipedia.org/wiki/Melody_Nurramdhani_Laksani "wikilink")、Nabilah
+    Laksani](../Page/Melody_Nurramdhani_Laksani.md "wikilink")、Nabilah
     Ratna Ayu Azalia、[Rena Nozawa](../Page/野澤玲奈.md "wikilink")、Shania
     Junianatha、Sonia Natalia
   - Team KIII：Cindy Yuvia、Della Delila、Riskha Fairunissa、Rona

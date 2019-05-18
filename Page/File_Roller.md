@@ -10,11 +10,13 @@ File Roller支持如下文档格式：
   - [7z](../Page/7z.md "wikilink")（.7z）
   - [ar](https://zh.wikipedia.org/wiki/Ar_\(Unix\) "wikilink")（.ar）
   - [ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")（.arj）
-  - [gzip](../Page/gzip.md "wikilink")（.tar.gz , .tgz）
+  - [gzip](https://zh.wikipedia.org/wiki/gzip "wikilink")（.tar.gz ,
+    .tgz）
   - [bzip](https://zh.wikipedia.org/wiki/bzip "wikilink")（.tar.bz ,
     .tbz）
-  - [bzip2](../Page/bzip2.md "wikilink")（.tar.bz2 , .tbz2）
-  - [xz](../Page/xz.md "wikilink")（.tar.xz）
+  - [bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")（.tar.bz2 ,
+    .tbz2）
+  - [xz](https://zh.wikipedia.org/wiki/xz "wikilink")（.tar.xz）
   - [compress](https://zh.wikipedia.org/wiki/compress "wikilink")（.tar.Z
     , .taz）
   - [Portable
@@ -24,8 +26,8 @@ File Roller支持如下文档格式：
     .tlz）
   - [LZO](https://zh.wikipedia.org/wiki/Lempel–Ziv–Oberhumer "wikilink")（.tar.lzo
     , .tzo）
-  - [JAR](https://zh.wikipedia.org/wiki/JAR_\(文件格式\) "wikilink")
-    archives（.jar , .ear , .war）
+  - [JAR](../Page/JAR_\(文件格式\).md "wikilink") archives（.jar , .ear ,
+    .war）
   - [LHA](https://zh.wikipedia.org/wiki/LHA_\(文件格式\) "wikilink")
     archives（.lzh）
   - [RAR](../Page/RAR.md "wikilink") archives（.rar）

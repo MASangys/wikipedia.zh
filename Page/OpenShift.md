@@ -57,7 +57,7 @@ OpenShift支持各语言的web应用框架，以及他们的首选网络集成AP
 
 ## 竞争对手
 
-  - [Heroku](https://zh.wikipedia.org/wiki/Heroku "wikilink")
+  - [Heroku](../Page/Heroku.md "wikilink")
   - [Cloud
     Foundry](https://zh.wikipedia.org/wiki/Cloud_Foundry "wikilink")
   - [Google App

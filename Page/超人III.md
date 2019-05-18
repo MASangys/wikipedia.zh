@@ -13,7 +13,7 @@ Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[�
   - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人（卡-艾爾/
     克拉克.肯特）](../Page/超人.md "wikilink")
 
-  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](https://zh.wikipedia.org/wiki/露薏絲·蓮恩 "wikilink")
+  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")
 
   - 飾 [派瑞·懷特](https://zh.wikipedia.org/wiki/派瑞·懷特 "wikilink")
 
@@ -23,8 +23,7 @@ Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[�
 
   - 飾
 
-  - [勞勃·范恩飾](https://zh.wikipedia.org/wiki/勞勃·范恩 "wikilink") Ross
-    Webster
+  - [勞勃·范恩飾](../Page/勞勃·范恩.md "wikilink") Ross Webster
 
   - 飾 Vera Webster
 

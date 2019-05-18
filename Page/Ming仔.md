@@ -7,15 +7,14 @@
 2015年Ming仔曾於短片中鼓勵觀眾留言以決定拍攝題材，為期一個月，然而某觀眾提議他去澳門玩笨豬跳，Ming仔二話不說就隨即購買前往澳門的船票，再打電話預約笨豬跳，即日找數。而且從高處跳下時毫無怯場，而且說做就做的行為令很多觀眾留言「Ming
 jai是最成功的Youtuber」和「找數真漢子」\[3\]\[4\]。
 
-近年他更踩入電視和電影圈，先後拍攝《[溝女不離三兄弟](https://zh.wikipedia.org/wiki/溝女不離三兄弟 "wikilink")》、《[小姐誘心](https://zh.wikipedia.org/wiki/小姐誘心 "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》等電影和《[三一如三](../Page/三一如三.md "wikilink")》等電視劇集，大開他的眼界。\[5\]
+近年他更踩入電視和電影圈，先後拍攝《[溝女不離三兄弟](../Page/溝女不離三兄弟.md "wikilink")》、《[小姐誘心](https://zh.wikipedia.org/wiki/小姐誘心 "wikilink")》、《[Delete愛人](../Page/Delete愛人.md "wikilink")》等電影和《[三一如三](../Page/三一如三.md "wikilink")》等電視劇集，大開他的眼界。\[5\]
 
 2018年8月8日，於多倫多向女朋友Debbie求婚成功。
 
 ## 演出
 
   - 2013年
-      - 《[溝女不離三兄弟](https://zh.wikipedia.org/wiki/溝女不離三兄弟 "wikilink")》飾演
-        馮總
+      - 《[溝女不離三兄弟](../Page/溝女不離三兄弟.md "wikilink")》飾演 馮總
   - 2015年
       - [香港電台電視節目](../Page/香港電台.md "wikilink")《[監警有道](https://zh.wikipedia.org/wiki/監警有道 "wikilink")》飾演
         阿魚

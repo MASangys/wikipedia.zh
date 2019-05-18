@@ -26,7 +26,7 @@ domain)。与其它流行的哈希函数相比，对于规律性较强的key，M
 [Haskell](../Page/Haskell.md "wikilink"),\[18\]、[Scala](../Page/Scala.md "wikilink")\[19\]、[Java](../Page/Java.md "wikilink")\[20\]\[21\]和[JavaScript](../Page/JavaScript.md "wikilink")\[22\]\[23\]等。
 
 这个算法已经被若干开源计划所采纳，最重要的有libstdc++
-(4.6版)、Perl\[24\]、[nginx](../Page/nginx.md "wikilink")
+(4.6版)、Perl\[24\]、[nginx](https://zh.wikipedia.org/wiki/nginx "wikilink")
 (不早于1.0.1版)\[25\]、[Rubinius](https://zh.wikipedia.org/wiki/Rubinius "wikilink")\[26\]、
 libmemcached
 ([Memcached的](../Page/Memcached.md "wikilink")[C语言客户端驱动](https://zh.wikipedia.org/wiki/C语言 "wikilink"))\[27\]、maatkit\[28\]、[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")\[29\]、Kyoto

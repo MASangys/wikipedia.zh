@@ -31,7 +31,7 @@ Vista和](../Page/Windows_Vista.md "wikilink")[Windows
 2000或](../Page/Windows_2000.md "wikilink")[Windows
 98的用户可能会发现它使用起来更舒适](../Page/Windows_98.md "wikilink")。除了关闭可视化，该选项也提供了相对较好的性能\[2\]和更大的颜色、字体自定义选项。经典主题也可用于在Windows
 XP
-[安全模式和](../Page/安全模式.md "wikilink")[Win32控制台窗口](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink")。
+[安全模式和](../Page/安全模式.md "wikilink")[Win32控制台窗口](../Page/Win32控制台.md "wikilink")。
 
 ## Royale
 

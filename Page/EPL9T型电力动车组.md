@@ -1,4 +1,4 @@
-**EPL9T型电力动车组**（）是[乌克兰铁路的](https://zh.wikipedia.org/wiki/乌克兰铁路 "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为25千伏50赫茲工頻[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[卢甘斯克机车制造厂设计制造](../Page/卢甘斯克机车制造厂.md "wikilink")，于2001年研制成功并投入批量生产。至2008年停产，共生产了15列EPL9T型电力动车组，均配属于[西南铁路局和](https://zh.wikipedia.org/wiki/西南铁路局 "wikilink")[南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")\[1\]。
+**EPL9T型电力动车组**（）是[乌克兰铁路的](../Page/乌克兰铁路.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为25千伏50赫茲工頻[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[卢甘斯克机车制造厂设计制造](../Page/卢甘斯克机车制造厂.md "wikilink")，于2001年研制成功并投入批量生产。至2008年停产，共生产了15列EPL9T型电力动车组，均配属于[西南铁路局和](../Page/西南铁路局.md "wikilink")[南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")\[1\]。
 
 ## 技术特点
 

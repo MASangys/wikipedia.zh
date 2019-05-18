@@ -6,8 +6,8 @@ Summer**是爲了抗衡競爭對手[有線電視的](../Page/香港有線電視.
 
 ## 參與頻道
 
-[翡翠台](../Page/翡翠台.md "wikilink")、[J2](../Page/J2.md "wikilink")、[明珠台](../Page/明珠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")（2015年前）、[J5](../Page/J5.md "wikilink")（2016年前）、[myTV](../Page/myTV.md "wikilink")（2016年前）、[myTV
-SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列中的一連串活動](../Page/TVB周刊.md "wikilink")。
+[翡翠台](../Page/翡翠台.md "wikilink")、[J2](../Page/J2.md "wikilink")、[明珠台](../Page/明珠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")（2015年前）、[J5](../Page/J5.md "wikilink")（2016年前）、[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（2016年前）、[myTV
+SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會參與及推廣系列中的一連串活動](../Page/TVB周刊.md "wikilink")。
 
 ## 2012年
 
@@ -176,7 +176,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/珍情品味" title="wikilink">珍情品味</a></p></td>
+<td><p><a href="../Page/珍情品味.md" title="wikilink">珍情品味</a></p></td>
 <td><p>7月28日起<br />
 逢星期六<br />
 20:30</p></td>
@@ -238,7 +238,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/福祿壽放暑假" title="wikilink">福祿壽放暑假</a></p></td>
+<td><p><a href="../Page/福祿壽放暑假.md" title="wikilink">福祿壽放暑假</a></p></td>
 <td><p>8月7日及8月8日<br />
 10:30</p></td>
 <td><p>2</p></td>
@@ -311,7 +311,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龍珠改" title="wikilink">龍珠改</a></p></td>
 <td><p>逢星期一<br />
 22:00</p></td>
@@ -1049,7 +1049,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tbody>
 </table>
 
-### [myTV](../Page/myTV.md "wikilink")
+### [myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")
 
 | 類別                                                                      | 節目名稱                                                            | 播放日期及時間               | 集數 | 備註       |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -- | -------- |
@@ -1184,7 +1184,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播綜藝及資訊節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/反斗紅星放暑假" title="wikilink">反斗紅星放暑假</a></p></td>
+<td><p><a href="../Page/反斗紅星放暑假.md" title="wikilink">反斗紅星放暑假</a></p></td>
 <td><p>7月1日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -1192,7 +1192,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td><p>分為《<strong>長隆旅遊度假區非常任務</strong>》及《<strong>迪士尼非常任務</strong>》，各5集</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/星夢傳奇" title="wikilink">星夢傳奇</a></p></td>
+<td><p><a href="../Page/星夢傳奇.md" title="wikilink">星夢傳奇</a></p></td>
 <td><p>7月7日起<br />
 逢星期日<br />
 22:00</p></td>
@@ -1237,7 +1237,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/2013年度香港小姐競選" title="wikilink">2013香港小姐競選準決賽</a>》</p></td>
+<td><p>《<a href="../Page/2013年度香港小姐競選.md" title="wikilink">2013香港小姐競選準決賽</a>》</p></td>
 <td><p>8月25日<br />
 21:00</p></td>
 <td><p>1</p></td>
@@ -1245,7 +1245,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/走過浮華大地_亞洲篇" title="wikilink">走過浮華大地 亞洲篇</a>》</p></td>
+<td><p>《<a href="../Page/走過浮華大地_亞洲篇.md" title="wikilink">走過浮華大地 亞洲篇</a>》</p></td>
 <td><p>8月26日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -1254,7 +1254,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/2013年度香港小姐競選" title="wikilink">2013香港小姐競選決賽</a>》</p></td>
+<td><p>《<a href="../Page/2013年度香港小姐競選.md" title="wikilink">2013香港小姐競選決賽</a>》</p></td>
 <td><p>9月1日<br />
 21:00</p></td>
 <td><p>1</p></td>
@@ -1365,7 +1365,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1507,7 +1507,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/Legal_high.md" title="wikilink">律政狂人</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Legal_high" title="wikilink">律政狂人</a>》</p></td>
 <td><p>8月31日起<br />
 逢星期六<br />
 晚上9:30</p></td>
@@ -1570,7 +1570,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/塔斯曼尼亞的日與夜" title="wikilink">塔斯曼尼亞的日與夜</a>》</p></td>
+<td><p>《<a href="../Page/塔斯曼尼亞的日與夜.md" title="wikilink">塔斯曼尼亞的日與夜</a>》</p></td>
 <td><p>8月17日起<br />
 逢星期六<br />
 晚上8:00</p></td>
@@ -1830,7 +1830,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/萬物生機" title="wikilink">萬物生機</a>》</p></td>
+<td><p>《<a href="../Page/萬物生機.md" title="wikilink">萬物生機</a>》</p></td>
 <td><p>6月26日起<br />
 逢星期三<br />
 晚上9:30</p></td>
@@ -2003,7 +2003,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/大魚奇譚" title="wikilink">大魚奇譚</a>》</p></td>
+<td><p>《<a href="../Page/大魚奇譚.md" title="wikilink">大魚奇譚</a>》</p></td>
 <td><p>7月7日起<br />
 逢星期日<br />
 晚上7:00</p></td>
@@ -2071,7 +2071,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="../Page/阿SIR早晨.md" title="wikilink">阿SIR早晨</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/阿SIR早晨" title="wikilink">阿SIR早晨</a>》</p></td>
 <td><p>20</p></td>
 <td></td>
 <td></td>
@@ -2156,7 +2156,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我們的天空" title="wikilink">我們的天空</a></p></td>
+<td><p><a href="../Page/我們的天空.md" title="wikilink">我們的天空</a></p></td>
 <td><p>7月20日起<br />
 逢星期日<br />
 22:00</p></td>
@@ -2165,7 +2165,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/載得有情人" title="wikilink">載得有情人</a></p></td>
+<td><p><a href="../Page/載得有情人.md" title="wikilink">載得有情人</a></p></td>
 <td><p>8月11日起<br />
 逢星期一至五<br />
 20:30</p></td>
@@ -2174,7 +2174,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/使徒行者" title="wikilink">使徒行者</a></p></td>
+<td><p><a href="../Page/使徒行者.md" title="wikilink">使徒行者</a></p></td>
 <td><p>8月25日起<br />
 逢星期一至五<br />
 21:30</p></td>
@@ -2184,7 +2184,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播外購劇集</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/半澤直樹" title="wikilink">半澤直樹</a></p></td>
+<td><p><a href="../Page/半澤直樹.md" title="wikilink">半澤直樹</a></p></td>
 <td><p>7月12日起<br />
 逢星期六<br />
 22:30</p></td>
@@ -2202,7 +2202,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播綜藝及資訊節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏·日·悠遊" title="wikilink">夏·日·悠遊</a></p></td>
+<td><p><a href="../Page/夏·日·悠遊.md" title="wikilink">夏·日·悠遊</a></p></td>
 <td><p>7月14日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -2219,7 +2219,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/學是學非" title="wikilink">學是學非放暑假</a></p></td>
+<td><p><a href="../Page/學是學非.md" title="wikilink">學是學非放暑假</a></p></td>
 <td><p>7月19日<br />
 星期六<br />
 21:30</p></td>
@@ -2246,7 +2246,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sunday扮嘢王" title="wikilink">Sunday扮嘢王</a></p></td>
+<td><p><a href="../Page/Sunday扮嘢王.md" title="wikilink">Sunday扮嘢王</a></p></td>
 <td><p>7月27日起<br />
 逢星期日<br />
 21:00</p></td>
@@ -2296,7 +2296,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/嚦咕嚦咕對對碰" title="wikilink">嚦咕嚦咕對對碰</a></p></td>
+<td><p><a href="../Page/嚦咕嚦咕對對碰.md" title="wikilink">嚦咕嚦咕對對碰</a></p></td>
 <td><p>7月19日<br />
 00:40</p></td>
 <td></td>
@@ -2428,7 +2428,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/火影忍者疾風傳V" title="wikilink">火影忍者疾風傳V</a>》</p></td>
 <td><p>7月3日起<br />
 逢星期二至五<br />
@@ -2492,7 +2492,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/宇宙兄弟_(動畫)" title="wikilink">宇宙兄弟II</a>》</p></td>
+<td><p>《<a href="../Page/宇宙兄弟_(動畫).md" title="wikilink">宇宙兄弟II</a>》</p></td>
 <td><p>8月25日起<br />
 逢星期一至五<br />
 下午6:25</p></td>
@@ -2501,7 +2501,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/009_RE:CYBORG" title="wikilink">再造人 009</a>》</p></td>
+<td><p>《<a href="../Page/009_RE:CYBORG.md" title="wikilink">再造人 009</a>》</p></td>
 <td><p>7月27日<br />
 晚上10:00</p></td>
 <td><p>1</p></td>
@@ -2517,7 +2517,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/銀魂劇場版_完結篇_永遠的萬事屋" title="wikilink">銀魂劇場版完結篇：永遠的萬事屋</a>》</p></td>
+<td><p>《<a href="../Page/銀魂劇場版_完結篇_永遠的萬事屋.md" title="wikilink">銀魂劇場版完結篇：永遠的萬事屋</a>》</p></td>
 <td><p>8月10日<br />
 晚上10:00</p></td>
 <td></td>
@@ -2542,7 +2542,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td><p>每次播放3集</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/主君的太陽" title="wikilink">主君的太陽</a>》</p></td>
+<td><p>《<a href="../Page/主君的太陽.md" title="wikilink">主君的太陽</a>》</p></td>
 <td><p>7月18日起<br />
 逢星期一至五<br />
 晚上10:30</p></td>
@@ -2587,7 +2587,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/急診男女" title="wikilink">急診男女</a>》</p></td>
+<td><p>《<a href="../Page/急診男女.md" title="wikilink">急診男女</a>》</p></td>
 <td><p>8月20日起<br />
 逢星期一至五<br />
 晚上10:30</p></td>
@@ -2650,7 +2650,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/真正的男人" title="wikilink">真的漢子</a>》</p></td>
+<td><p>《<a href="../Page/真正的男人.md" title="wikilink">真的漢子</a>》</p></td>
 <td><p>8月16日起<br />
 逢星期六<br />
 下午2:00</p></td>
@@ -2680,7 +2680,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td><p>7月13日<br />
 晚上9:30</p></td>
 <td><p>1</p></td>
-<td><p>同為<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱</a></p></td>
+<td><p>同為<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/宇宙兄弟#真人電影" title="wikilink">宇宙兄弟</a>》</p></td>
@@ -2967,7 +2967,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播外購綜藝及資訊節目</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/奪寶奇Show" title="wikilink">奪寶奇Show</a>》（<a href="https://zh.wikipedia.org/wiki/极速前进23" title="wikilink">第二十三季</a>）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/奪寶奇Show" title="wikilink">奪寶奇Show</a>》（<a href="../Page/极速前进23.md" title="wikilink">第二十三季</a>）</p></td>
 <td><p>7月10日起<br />
 逢星期四及五<br />
 晚上8:30</p></td>
@@ -3380,7 +3380,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td><p>第二輯</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鬼同你OT" title="wikilink">鬼同你OT</a></p></td>
+<td><p><a href="../Page/鬼同你OT.md" title="wikilink">鬼同你OT</a></p></td>
 <td><p>7月13日起<br />
 逢星期一至日<br />
 21:30</p></td>
@@ -3389,7 +3389,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/拆局專家" title="wikilink">拆局專家</a></p></td>
+<td><p><a href="../Page/拆局專家.md" title="wikilink">拆局專家</a></p></td>
 <td><p>8月10日起<br />
 逢星期一至日<br />
 21:30</p></td>
@@ -3461,7 +3461,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/學是學非" title="wikilink">學是學非</a></p></td>
+<td><p><a href="../Page/學是學非.md" title="wikilink">學是學非</a></p></td>
 <td><p>8月30日起<br />
 逢星期日<br />
 19:30</p></td>
@@ -3551,7 +3551,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期日影院：<a href="https://zh.wikipedia.org/wiki/熱浪球愛戰" title="wikilink">熱浪球愛戰</a></p></td>
+<td><p>星期日影院：<a href="../Page/熱浪球愛戰.md" title="wikilink">熱浪球愛戰</a></p></td>
 <td><p>7月19日<br />
 星期日 13:15</p></td>
 <td></td>
@@ -3583,7 +3583,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期日影院：<a href="https://zh.wikipedia.org/wiki/六福喜事" title="wikilink">六福喜事</a></p></td>
+<td><p>星期日影院：<a href="../Page/六福喜事.md" title="wikilink">六福喜事</a></p></td>
 <td><p>8月16日<br />
 星期日 13:15</p></td>
 <td></td>
@@ -3662,7 +3662,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫·熱</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫·熱</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/排球少年" title="wikilink">排球少年</a>》</p></td>
 <td><p>7月20日起<br />
 逢星期一至五<br />
@@ -3755,7 +3755,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/交響情人夢_(韓國電視劇)" title="wikilink">交響情人夢</a></p></td>
+<td><p><a href="../Page/交響情人夢_(韓國電視劇).md" title="wikilink">交響情人夢</a></p></td>
 <td><p>7月22日起<br />
 逢星期一至五<br />
 19:00</p></td>
@@ -3833,7 +3833,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 星期六<br />
 09:00</p></td>
 <td><p>rowspan="3" </p></td>
-<td><p>同為<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱</a></p></td>
+<td><p>同為<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/推理要在晚餐後_電影版" title="wikilink">推理要在晚餐後 電影版</a>》</p></td>
@@ -4073,7 +4073,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <tbody>
 <tr class="odd">
 <td><p>首播外購劇集</p></td>
-<td><p>《日日好戲場：<a href="https://zh.wikipedia.org/wiki/我的自由年代" title="wikilink">我的自由年代</a>》</p></td>
+<td><p>《日日好戲場：<a href="../Page/我的自由年代.md" title="wikilink">我的自由年代</a>》</p></td>
 <td><p>7月6日<br />
 逢星期一至五<br />
 07:00</p></td>
@@ -4183,7 +4183,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/一路上有你_(電視節目)" title="wikilink">一路上有你</a>》</p></td>
+<td><p>《<a href="../Page/一路上有你_(電視節目).md" title="wikilink">一路上有你</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TVB_Window" title="wikilink">TVB Window</a></p></td>
 <td><p>7月18日起<br />
 逢星期六<br />
@@ -4255,7 +4255,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <tr class="odd">
 <td><p>直播/轉播體育節目</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/2015年世界游泳錦標賽" title="wikilink">FINA世界游泳錦標賽2015</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVB體育台" title="wikilink">TVB體育台</a></p></td>
+<td><p><a href="../Page/TVB體育台.md" title="wikilink">TVB體育台</a></p></td>
 <td><p>7月24日起<br />
 星期一至日<br />
 20:00</p></td>
@@ -4354,7 +4354,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/反斗紅星冇暑假" title="wikilink">反斗紅星冇暑假 嘩鬼上學去</a></p></td>
+<td><p><a href="../Page/反斗紅星冇暑假.md" title="wikilink">反斗紅星冇暑假 嘩鬼上學去</a></p></td>
 <td><p>6月27日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -4363,7 +4363,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/打工捱世界" title="wikilink">反斗紅星冇暑假 打工捱世界</a></p></td>
+<td><p><a href="../Page/打工捱世界.md" title="wikilink">反斗紅星冇暑假 打工捱世界</a></p></td>
 <td><p>7月4日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -4372,7 +4372,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/反斗紅星冇暑假" title="wikilink">反斗紅星冇暑假 打工唔捱世界</a>[1]</p></td>
+<td><p><a href="../Page/反斗紅星冇暑假.md" title="wikilink">反斗紅星冇暑假 打工唔捱世界</a>[1]</p></td>
 <td><p>7月11日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -4381,7 +4381,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/街頭魔法王之魔王之王" title="wikilink">街頭魔法王之魔王之王</a></p></td>
+<td><p><a href="../Page/街頭魔法王之魔王之王.md" title="wikilink">街頭魔法王之魔王之王</a></p></td>
 <td><p>7月18日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -4418,7 +4418,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>奧運前奏節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/香港英雄" title="wikilink">香港英雄</a></p></td>
+<td><p><a href="../Page/香港英雄.md" title="wikilink">香港英雄</a></p></td>
 <td><p>7月2日起<br />
 逢星期六<br />
 22:30</p></td>
@@ -4489,7 +4489,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/飆速宅男" title="wikilink">飆速宅男</a></p></td>
+<td><p><a href="../Page/飆速宅男.md" title="wikilink">飆速宅男</a></p></td>
 <td><p>7月19日起<br />
 逢星期一至五<br />
 16:15</p></td>
@@ -4611,7 +4611,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/神奇寶貝劇場版：神速的蓋諾賽克特_超夢覺醒" title="wikilink">寵物小精靈：神速蓋諾賽克特 超夢夢覺醒</a></p></td>
+<td><p><a href="../Page/神奇寶貝劇場版：神速的蓋諾賽克特_超夢覺醒.md" title="wikilink">寵物小精靈：神速蓋諾賽克特 超夢夢覺醒</a></p></td>
 <td><p>2016年7月30日<br />
 星期六<br />
 19:00</p></td>
@@ -5051,7 +5051,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Big_Boys歷險記" title="wikilink">Big Boys歷險記</a></p></td>
+<td><p><a href="../Page/Big_Boys歷險記.md" title="wikilink">Big Boys歷險記</a></p></td>
 <td><p>7月30日起<br />
 逢星期日<br />
 22:30</p></td>
@@ -5069,7 +5069,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/最緊要好玩" title="wikilink">最緊要好玩 消暑版</a></p></td>
+<td><p><a href="../Page/最緊要好玩.md" title="wikilink">最緊要好玩 消暑版</a></p></td>
 <td><p>8月28日<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5088,7 +5088,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播兒童節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Big_Big小明星" title="wikilink">Big Big小明星</a></p></td>
+<td><p><a href="../Page/Big_Big小明星.md" title="wikilink">Big Big小明星</a></p></td>
 <td><p>7月1日起<br />
 逢星期六<br />
 16:30</p></td>
@@ -5132,7 +5132,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 逢星期日<br />
 23:35</p></td>
 <td><p>12</p></td>
-<td><p>同為2017年<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<td><p>同為2017年<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 </tr>
 <tr class="even">
 <td><p>[[ALL_OUT</p></td>
@@ -5178,7 +5178,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td><p>8月13日<br />
 星期日<br />
 00:35</p></td>
-<td><p>同為2017年<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<td><p>同為2017年<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5458,7 +5458,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Ben_Sir睇樓團" title="wikilink">Ben Sir睇樓團</a></p></td>
+<td><p><a href="../Page/Ben_Sir睇樓團.md" title="wikilink">Ben Sir睇樓團</a></p></td>
 <td><p>6月18日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5467,7 +5467,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/學是學非" title="wikilink">學是學非</a></p></td>
+<td><p><a href="../Page/學是學非.md" title="wikilink">學是學非</a></p></td>
 <td><p>6月24日起<br />
 逢星期日<br />
 20:00</p></td>
@@ -5485,7 +5485,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/街市遊樂團" title="wikilink">街市遊樂團 星馬篇</a></p></td>
+<td><p><a href="../Page/街市遊樂團.md" title="wikilink">街市遊樂團 星馬篇</a></p></td>
 <td><p>7月1日起<br />
 逢星期日<br />
 19:30</p></td>
@@ -5494,7 +5494,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/長命百二歲" title="wikilink">長命百二歲</a></p></td>
+<td><p><a href="../Page/長命百二歲.md" title="wikilink">長命百二歲</a></p></td>
 <td><p>7月2日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5503,7 +5503,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/到此一遊_台北" title="wikilink">到此一遊 台北</a></p></td>
+<td><p><a href="../Page/到此一遊_台北.md" title="wikilink">到此一遊 台北</a></p></td>
 <td><p>7月16日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5530,7 +5530,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/兄弟大茶飯" title="wikilink">兄弟大茶飯</a></p></td>
+<td><p><a href="../Page/兄弟大茶飯.md" title="wikilink">兄弟大茶飯</a></p></td>
 <td><p>7月30日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5539,7 +5539,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/森美旅行團" title="wikilink">森美旅行團</a></p></td>
+<td><p><a href="../Page/森美旅行團.md" title="wikilink">森美旅行團</a></p></td>
 <td><p>8月13日<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5548,7 +5548,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/搭上高鐵愛旅遊" title="wikilink">搭上高鐵愛旅遊</a></p></td>
+<td><p><a href="../Page/搭上高鐵愛旅遊.md" title="wikilink">搭上高鐵愛旅遊</a></p></td>
 <td><p>8月27日<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -5557,7 +5557,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年度香港小姐競選" title="wikilink">2018年度香港小姐競選</a></p></td>
+<td><p><a href="../Page/2018年度香港小姐競選.md" title="wikilink">2018年度香港小姐競選</a></p></td>
 <td><p>8月26日<br />
 星期日<br />
 20:00</p></td>
@@ -5662,7 +5662,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="odd">
 <td><p>首播外購綜藝節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹食堂" title="wikilink">尹食堂II</a></p></td>
+<td><p><a href="../Page/尹食堂.md" title="wikilink">尹食堂II</a></p></td>
 <td><p>6月16日起<br />
 逢星期六<br />
 21:00</p></td>
@@ -5670,7 +5670,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣青春" title="wikilink">花樣青春III－非洲篇</a></p></td>
+<td><p><a href="../Page/花樣青春.md" title="wikilink">花樣青春III－非洲篇</a></p></td>
 <td><p>7月21日起<br />
 逢星期六<br />
 18:30</p></td>
@@ -5689,12 +5689,12 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 </tr>
 <tr class="even">
 <td><p>首播外購動畫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Infini-T_Force" title="wikilink">無極英雄T FORCE</a></p></td>
+<td><p><a href="../Page/Infini-T_Force.md" title="wikilink">無極英雄T FORCE</a></p></td>
 <td><p>6月16日起<br />
 逢星期六<br />
 23:35</p></td>
 <td><p>12</p></td>
-<td><p>同為<a href="https://zh.wikipedia.org/wiki/2018無綫節目巡禮" title="wikilink">2018無綫節目巡禮</a>、<a href="https://zh.wikipedia.org/wiki/J2_10週年節目巡禮" title="wikilink">J2 10週年節目巡禮</a>、<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<td><p>同為<a href="../Page/2018無綫節目巡禮.md" title="wikilink">2018無綫節目巡禮</a>、<a href="../Page/J2_10週年節目巡禮.md" title="wikilink">J2 10週年節目巡禮</a>、<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/火影忍者疾風傳.md" title="wikilink">火影忍者疾風傳</a></p></td>
@@ -5702,17 +5702,17 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 星期一至六<br />
 00:35</p></td>
 <td><p>128</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/飆速宅男" title="wikilink">飆速宅男</a></p></td>
+<td><p><a href="../Page/飆速宅男.md" title="wikilink">飆速宅男</a></p></td>
 <td><p>8月11日起<br />
 星期六<br />
 12:30</p></td>
 <td><p>24</p></td>
 <td><p>第2輯<br />
-<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5722,7 +5722,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 00:05</p></td>
 <td><p>24</p></td>
 <td><p>緊貼日本播映<br />
-<a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5732,7 +5732,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 星期日<br />
 00:15</p></td>
 <td><p>rowspan="2" </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J2動漫熱" title="wikilink">J2動漫熱推介節目</a></p></td>
+<td><p><a href="../Page/J2動漫熱.md" title="wikilink">J2動漫熱推介節目</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域劇場版_-_序列爭戰" title="wikilink">刀劍神域劇場版 - 序列爭戰</a></p></td>
@@ -5828,7 +5828,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/直覺追兇" title="wikilink">直覺追兇</a>（第一季）</p></td>
+<td><p><a href="../Page/直覺追兇.md" title="wikilink">直覺追兇</a>（第一季）</p></td>
 <td><p>7月18日起<br />
 逢星期三<br />
 22:40</p></td>
@@ -5837,7 +5837,7 @@ SUPER及](../Page/myTV_SUPER.md "wikilink")[TVB周刊均會參與及推廣系列
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/致命武器_(電視劇)" title="wikilink">轟天炮</a>（第二季）</p></td>
+<td><p><a href="../Page/致命武器_(電視劇).md" title="wikilink">轟天炮</a>（第二季）</p></td>
 <td><p>7月31日起<br />
 逢星期二<br />
 22:40</p></td>

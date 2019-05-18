@@ -11,7 +11,7 @@
 | 2006年（第三季）  | [里歐娜·路易斯](https://zh.wikipedia.org/wiki/里歐娜·路易斯 "wikilink")                   | [Ray Quinn](https://zh.wikipedia.org/wiki/Ray_Quinn "wikilink")                 |
 | 2007年（第四季）  | [萊昂·傑克遜](https://zh.wikipedia.org/wiki/萊昂·傑克遜 "wikilink")                     | [Rhydian Roberts](https://zh.wikipedia.org/wiki/Rhydian_Roberts "wikilink")     |
 | 2008年（第五季）  | [Alexandra Burke](https://zh.wikipedia.org/wiki/Alexandra_Burke "wikilink")   | [JLS](../Page/JLS.md "wikilink")                                                |
-| 2009年（第六季）  | [Joe McElderry](https://zh.wikipedia.org/wiki/Joe_McElderry "wikilink")       | [奧利·莫爾斯](https://zh.wikipedia.org/wiki/奧利·莫爾斯 "wikilink")                       |
+| 2009年（第六季）  | [Joe McElderry](https://zh.wikipedia.org/wiki/Joe_McElderry "wikilink")       | [奧利·莫爾斯](../Page/奧利·莫爾斯.md "wikilink")                                          |
 | 2010年（第七季）  | [麥特·卡德爾](../Page/麥特·卡德爾.md "wikilink")                                        | [Rebecca Ferguson](https://zh.wikipedia.org/wiki/蕾貝卡·弗格森_\(歌手\) "wikilink")     |
 | 2011年（第八季）  | [混合甜心](../Page/混合甜心.md "wikilink")                                            | [Marcus Collins](https://zh.wikipedia.org/wiki/Marcus_Collins "wikilink")       |
 | 2012年（第九季）  | [詹姆士·亞瑟](../Page/詹姆士·亞瑟.md "wikilink")                                        | [Jahméne Douglas](https://zh.wikipedia.org/wiki/Jahméne_Douglas "wikilink")     |

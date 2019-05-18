@@ -1,10 +1,10 @@
 **Snow Man**\[1\]
 是由[日本艺人经纪公司](../Page/日本.md "wikilink")[杰尼斯事务所旗下](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[小杰尼斯所组成的九人组](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[男子音乐组合](../Page/男子音乐组合.md "wikilink")。
 
-2012年，当组合成员正在参演[泷泽秀明的](https://zh.wikipedia.org/wiki/泷泽秀明 "wikilink")[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")《[泷泽歌舞伎2012](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")》的时候，六人身后的电子显示屏上出现了组合名的六个字符，随即六人的组合名正式被公布。\[2\]
+2012年，当组合成员正在参演[泷泽秀明的](https://zh.wikipedia.org/wiki/泷泽秀明 "wikilink")[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")《[泷泽歌舞伎2012](../Page/泷泽演舞城.md "wikilink")》的时候，六人身后的电子显示屏上出现了组合名的六个字符，随即六人的组合名正式被公布。\[2\]
 
 2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow
-Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。
+Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。
 
 ## 组合成员
 
@@ -110,8 +110,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 ### 舞台剧
 
-  - [泷泽歌舞伎
-    2012](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2012年4月8日－5月6日，）\[5\]
+  - [泷泽歌舞伎 2012](../Page/泷泽演舞城.md "wikilink")（2012年4月8日－5月6日，）\[5\]
 
 <!-- end list -->
 
@@ -120,8 +119,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [泷泽歌舞伎
-    2013](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2013年4月7日－5月12日，）
+  - [泷泽歌舞伎 2013](../Page/泷泽演舞城.md "wikilink")（2013年4月7日－5月12日，）
 
 <!-- end list -->
 
@@ -135,7 +133,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 <!-- end list -->
 
   - [泷泽歌舞伎
-    2014](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2014年3月6日－30日，；2014年4月7日－5月6日，新桥演舞场）
+    2014](../Page/泷泽演舞城.md "wikilink")（2014年3月6日－30日，；2014年4月7日－5月6日，新桥演舞场）
 
 <!-- end list -->
 
@@ -144,7 +142,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 <!-- end list -->
 
   - [泷泽歌舞伎
-    10周年庆典](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2015年4月8日－5月17日，新桥演舞场；2015年8月18日－8月23日，[新加坡](../Page/新加坡.md "wikilink")）\[10\]
+    10周年庆典](../Page/泷泽演舞城.md "wikilink")（2015年4月8日－5月17日，新桥演舞场；2015年8月18日－8月23日，[新加坡](../Page/新加坡.md "wikilink")）\[10\]
 
 <!-- end list -->
 
@@ -161,7 +159,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 <!-- end list -->
 
   - [泷泽歌舞伎
-    2016](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2016年4月10日－5月15日，新桥演舞场）\[13\]
+    2016](../Page/泷泽演舞城.md "wikilink")（2016年4月10日－5月15日，新桥演舞场）\[13\]
 
 <!-- end list -->
 
@@ -178,7 +176,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 <!-- end list -->
 
   - [泷泽歌舞伎
-    2017](https://zh.wikipedia.org/wiki/泷泽演舞城 "wikilink")（2017年4月6日－5月14日，新桥演舞场）\[18\]\[19\]
+    2017](../Page/泷泽演舞城.md "wikilink")（2017年4月6日－5月14日，新桥演舞场）\[18\]\[19\]
 
 <!-- end list -->
 

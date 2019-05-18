@@ -27,7 +27,7 @@
 
 在[化學與](../Page/化學.md "wikilink")[原子物理學中](https://zh.wikipedia.org/wiki/原子物理學 "wikilink")，**p軌域**（）是一種[原子軌域](https://zh.wikipedia.org/wiki/原子軌域 "wikilink")，其[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")1，其[磁量子數可以為](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")-1、0或+1，且每個[殼層裡中有三個p軌域](https://zh.wikipedia.org/wiki/電子殼層 "wikilink")，P<sub>x</sub>、P<sub>y</sub>、P<sub>z</sub>，形狀皆相同但方向不同，每個可以容納2個電子，因此，p軌域共可以容納6個電子。
 
-p軌域是一個很穩定的軌域，其穩定性僅次於[s軌域](../Page/s軌域.md "wikilink")，為能量第二低的軌域，另外由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，p軌域是能量最高的軌域，也是最後填滿的軌域，其[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[機率密度的形象是](https://zh.wikipedia.org/wiki/機率密度 "wikilink")[啞鈴形](https://zh.wikipedia.org/wiki/啞鈴形 "wikilink")，呈[線性對稱](https://zh.wikipedia.org/wiki/線性對稱 "wikilink")，換句話說，p軌域是一個雙啞鈴形或吊鐘形的軌域。
+p軌域是一個很穩定的軌域，其穩定性僅次於[s軌域](https://zh.wikipedia.org/wiki/s軌域 "wikilink")，為能量第二低的軌域，另外由於[能階交錯](https://zh.wikipedia.org/wiki/能階交錯 "wikilink")，若以週期的角度來看，p軌域是能量最高的軌域，也是最後填滿的軌域，其[電子出現](https://zh.wikipedia.org/wiki/電子 "wikilink")[機率密度的形象是](https://zh.wikipedia.org/wiki/機率密度 "wikilink")[啞鈴形](https://zh.wikipedia.org/wiki/啞鈴形 "wikilink")，呈[線性對稱](https://zh.wikipedia.org/wiki/線性對稱 "wikilink")，換句話說，p軌域是一個雙啞鈴形或吊鐘形的軌域。
 
 ## 命名
 

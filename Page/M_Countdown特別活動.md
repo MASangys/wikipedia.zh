@@ -46,7 +46,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p>M Countdown What's Up LA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯紀念體育競技場" title="wikilink">洛杉磯紀念體育競技場</a></p></td>
+<td><p><a href="../Page/洛杉磯紀念體育競技場.md" title="wikilink">洛杉磯紀念體育競技場</a></p></td>
 <td></td>
 <td><p>[4]</p></td>
 </tr>
@@ -64,7 +64,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p>M Countdown 2Nights in LA</p></td>
 <td><p><a href="../Page/洛杉矶.md" title="wikilink">洛杉磯</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯紀念體育競技場" title="wikilink">洛杉磯紀念體育競技場</a></p></td>
+<td><p><a href="../Page/洛杉磯紀念體育競技場.md" title="wikilink">洛杉磯紀念體育競技場</a></p></td>
 <td></td>
 <td><p>[6]</p></td>
 </tr>
@@ -127,7 +127,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p>KCON 2016 France</p></td>
 <td><p><a href="../Page/巴黎.md" title="wikilink">巴黎</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴黎貝爾西體育館" title="wikilink">巴黎貝爾西體育館</a></p></td>
+<td><p><a href="../Page/巴黎貝爾西體育館.md" title="wikilink">巴黎貝爾西體育館</a></p></td>
 <td><p><a href="../Page/利特.md" title="wikilink">利特</a></p></td>
 <td><p>[14]</p></td>
 </tr>
@@ -164,7 +164,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p><a href="../Page/千葉市.md" title="wikilink">千葉市</a></p></td>
 <td></td>
 <td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
-<td><p>5月21日 <a href="https://zh.wikipedia.org/wiki/崔勝澈" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">玟奎</a> (<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">SEVENTEEN</a>)</p></td>
+<td><p>5月21日 <a href="https://zh.wikipedia.org/wiki/崔勝澈" title="wikilink">S.coups</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/Seventeen_(組合).md" title="wikilink">玟奎</a> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
 <td><p>[18]</p></td>
 </tr>
 <tr class="odd">
@@ -181,7 +181,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p>KCON 2017 LA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史坦波中心" title="wikilink">史坦波中心</a></p></td>
-<td><p>8月19日 <a href="https://zh.wikipedia.org/wiki/崔勝澈" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、玟奎、<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">Vernon</a> (<a href="https://zh.wikipedia.org/wiki/Seventeen_(組合)" title="wikilink">SEVENTEEN</a>)</p></td>
+<td><p>8月19日 <a href="https://zh.wikipedia.org/wiki/崔勝澈" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、玟奎、<a href="../Page/Seventeen_(組合).md" title="wikilink">Vernon</a> (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -260,7 +260,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [Secret](../Page/Secret_\(組合\).md "wikilink")
   - [Apink](../Page/Apink.md "wikilink")
   - [尹未來](../Page/尹未來.md "wikilink")
-  - [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")
+  - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")
   - [約翰·安德魯·朴](https://zh.wikipedia.org/wiki/約翰·安德魯·朴 "wikilink")
   - [Busker Busker](../Page/Busker_Busker.md "wikilink")
 
@@ -316,8 +316,8 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
-  - [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
+  - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")
   - [2AM](../Page/2AM.md "wikilink")
   - [劉憲華](../Page/劉憲華.md "wikilink")
   - [Crayon Pop](../Page/Crayon_Pop.md "wikilink")
@@ -354,13 +354,13 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [B1A4](../Page/B1A4.md "wikilink")
   - [CNBLUE](../Page/CNBLUE.md "wikilink")
   - [G-Dragon](../Page/G-Dragon.md "wikilink")
   - [少女時代](../Page/少女时代.md "wikilink")
   - [SPICA](../Page/SPICA_\(組合\).md "wikilink")
-  - [鄭俊英](https://zh.wikipedia.org/wiki/鄭俊英 "wikilink")
+  - [鄭俊英](../Page/鄭俊英.md "wikilink")
   - [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")
   - [VIXX](../Page/VIXX.md "wikilink")
 
@@ -372,8 +372,8 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")
-  - [滑川康男](https://zh.wikipedia.org/wiki/滑川康男 "wikilink")
+  - [GOT7](../Page/GOT7.md "wikilink")
+  - [滑川康男](../Page/滑川康男.md "wikilink")
   - [鄭龍珠](../Page/鄭龍珠.md "wikilink")
   - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")
   - [MYNAME](../Page/MYNAME.md "wikilink")
@@ -384,7 +384,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [INFINITE](../Page/INFINITE.md "wikilink")
   - [金閔俊](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")
   - [超新星](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")
-  - [Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")
+  - [Cheetah](../Page/Cheetah.md "wikilink")
 
 ## M Countdown Feelz in LA
 
@@ -397,7 +397,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [SISTAR](../Page/SISTAR.md "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
   - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
-  - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")
+  - [GOT7](../Page/GOT7.md "wikilink")
   - [Zion.T](../Page/Zion.T.md "wikilink")
   - [Crush](../Page/Crush_\(歌手\).md "wikilink")
   - [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")
@@ -426,7 +426,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [太妍](../Page/太妍.md "wikilink")
   - [圭賢](../Page/圭賢.md "wikilink")
   - [SS301](https://zh.wikipedia.org/wiki/SS301 "wikilink")
@@ -446,12 +446,12 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [鄭允鶴](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
   - [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")
-  - [滑川康男](https://zh.wikipedia.org/wiki/滑川康男 "wikilink")
-  - [WINNER](https://zh.wikipedia.org/wiki/WINNER "wikilink")
+  - [滑川康男](../Page/滑川康男.md "wikilink")
+  - [WINNER](../Page/WINNER.md "wikilink")
   - [DAY6](../Page/DAY6.md "wikilink")
   - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
   - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")
-  - [N.Flying](https://zh.wikipedia.org/wiki/N.Flying "wikilink")
+  - [N.Flying](../Page/N.Flying.md "wikilink")
   - [AOA CREAM](../Page/AOA_CREAM.md "wikilink")
   - [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")
   - [前進](../Page/前進_\(藝人\).md "wikilink")
@@ -477,32 +477,32 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
   - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
   - [BTOB](../Page/BTOB.md "wikilink")
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [VIXX](../Page/VIXX.md "wikilink")
   - [Secret](../Page/Secret_\(組合\).md "wikilink")
   - [前進](../Page/前進_\(藝人\).md "wikilink")
   - [FIESTAR](../Page/FIESTAR.md "wikilink")
-  - [THE LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND "wikilink")
+  - [THE LEGEND](../Page/THE_LEGEND.md "wikilink")
   - [李宇春](../Page/李宇春.md "wikilink")
 
 ## KCON 2016 France
 
 活動日期：2016年6月2日
 
-活動地點：[巴黎貝爾西體育館](https://zh.wikipedia.org/wiki/巴黎貝爾西體育館 "wikilink")
+活動地點：[巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")
 
 活動嘉賓：
 
   - [利特](../Page/利特.md "wikilink")
   - [Block B](../Page/Block_B.md "wikilink")
   - [I.O.I](../Page/I.O.I.md "wikilink")
-  - [f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
   - f(x)-[Luna](../Page/朴善英.md "wikilink")
   - [崔鐘訓](../Page/FTIsland.md "wikilink")
   - [李洪基](../Page/李洪基.md "wikilink")
   - [泰民](../Page/泰民.md "wikilink")
   - [FTIsland](../Page/FTIsland.md "wikilink")
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [SHINee](../Page/SHINee.md "wikilink")
 
 ## KCON 2016 NY
@@ -515,9 +515,9 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
   - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")
   - [BTOB](../Page/BTOB.md "wikilink")
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [DAY6](../Page/DAY6.md "wikilink")
-  - [Dynamic Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink")
+  - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")
   - [Crush](https://zh.wikipedia.org/wiki/Crush "wikilink")
   - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
   - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")
@@ -536,13 +536,13 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
   - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")
   - [权革](https://zh.wikipedia.org/wiki/权革 "wikilink")
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
-  - [Turbo](https://zh.wikipedia.org/wiki/Turbo_\(韓國男子團體\) "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
+  - [Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")
   - [劉逸雲](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")
   - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
   - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
   - [Davichi](../Page/Davichi.md "wikilink")
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [Block B](../Page/Block_B.md "wikilink")
   - [SHINee](../Page/SHINee.md "wikilink")
   - [少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")
@@ -555,7 +555,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - [防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")
+  - [防彈少年團](../Page/防彈少年團.md "wikilink")
   - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
   - [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")
@@ -574,7 +574,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 5月19日
 
-  - [Apeace](https://zh.wikipedia.org/wiki/Apeace "wikilink")
+  - [Apeace](../Page/Apeace.md "wikilink")
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
   - [BTOB](../Page/BTOB.md "wikilink")
   - [DAY6](../Page/DAY6.md "wikilink")
@@ -582,7 +582,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
     ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))
   - [PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
-  - [VICTON](https://zh.wikipedia.org/wiki/VICTON "wikilink")
+  - [VICTON](../Page/VICTON.md "wikilink")
 
 5月20日
 
@@ -590,11 +590,11 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
   - [BabyIon](../Page/Babylon.md "wikilink")
 
-  - [CLC](https://zh.wikipedia.org/wiki/CLC "wikilink")
+  - [CLC](../Page/CLC.md "wikilink")
 
   - [CNBLUE](../Page/CNBLUE.md "wikilink")
 
-  - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")
+  - [GOT7](../Page/GOT7.md "wikilink")
 
   - [Heize](https://zh.wikipedia.org/wiki/張多慧 "wikilink")
 
@@ -611,11 +611,11 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 5月21日
 
   - [Block B](../Page/Block_B.md "wikilink")
-  - [CODE-V](https://zh.wikipedia.org/wiki/CODE-V "wikilink")
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
+  - [CODE-V](../Page/CODE-V.md "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
-  - [SEVENTEEN](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")
+  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")
     （主持：S.COUPS、圓佑、珉奎）
   - [UNIT BLACK](../Page/少年24.md "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
@@ -630,7 +630,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 6月23日
 
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [HIGHLIGHT](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")
   - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
@@ -653,7 +653,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 8月20日
 
-  - [SEVENTEEN](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")
+  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")
     （主持：S.COUPS、JOSHUA、玟奎、VERNON)
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
@@ -667,11 +667,10 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
   - [JJ Project](../Page/JJ_Project.md "wikilink")
-  - [GOT7](https://zh.wikipedia.org/wiki/GOT7 "wikilink")(主持:Mark and
-    Jackson)
+  - [GOT7](../Page/GOT7.md "wikilink")(主持:Mark and Jackson)
   - [Heize](https://zh.wikipedia.org/wiki/張多慧 "wikilink")
   - [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")
-  - [KARD](https://zh.wikipedia.org/wiki/KARD "wikilink")
+  - [KARD](../Page/KARD.md "wikilink")
   - [WANNA ONE](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")
   - [OH MY GIRL](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")
 
@@ -687,7 +686,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [Girl's Day](../Page/Girl's_Day.md "wikilink")
   - [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
-  - [VICTON](https://zh.wikipedia.org/wiki/VICTON "wikilink")
+  - [VICTON](../Page/VICTON.md "wikilink")
 
 9月23日
 
@@ -707,34 +706,33 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
   - [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")
   - [gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")
-  - [MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
   - [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")
-  - [RAINZ](https://zh.wikipedia.org/wiki/RAINZ "wikilink")
+  - [RAINZ](../Page/RAINZ.md "wikilink")
   - [Samuel](https://zh.wikipedia.org/wiki/Samuel "wikilink")
   - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
 
 4月14日
 
-  - [BLK](https://zh.wikipedia.org/wiki/BLK "wikilink")
+  - [BLK](../Page/BLK.md "wikilink")
   - [fromis 9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
-  - [GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink")
+  - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [IMFACT](../Page/IMFACT.md "wikilink")
   - [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")
   - [Sik-K](https://zh.wikipedia.org/wiki/Sik-K "wikilink")
   - [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")
-  - [TRCNG](https://zh.wikipedia.org/wiki/TRCNG "wikilink")
+  - [TRCNG](../Page/TRCNG.md "wikilink")
   - [祐榮](https://zh.wikipedia.org/wiki/祐榮 "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）
 
 4月15日
 
-  - [Golden
-    Child](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")
+  - [Golden Child](../Page/Golden_Child.md "wikilink")
   - [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink") with
     [Davii](https://zh.wikipedia.org/wiki/Davii "wikilink")
-  - [IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")
+  - [IN2IT](../Page/IN2IT.md "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
-  - [N.Flying](https://zh.wikipedia.org/wiki/N.Flying "wikilink")
+  - [N.Flying](../Page/N.Flying.md "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")
   - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
@@ -757,13 +755,12 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
   - [善美](https://zh.wikipedia.org/wiki/善美 "wikilink")
-  - [(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")
+  - [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")
   - [gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")
-  - [MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")
-  - [CLC](https://zh.wikipedia.org/wiki/CLC "wikilink")
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
+  - [CLC](../Page/CLC.md "wikilink")
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
-  - [Golden
-    Child](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")
+  - [Golden Child](../Page/Golden_Child.md "wikilink")
   - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
 
 <!-- end list -->

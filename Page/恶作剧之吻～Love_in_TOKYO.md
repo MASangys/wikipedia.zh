@@ -1,5 +1,5 @@
 《**一吻定情～Love in
-TOKYO**》（，直譯為一吻定情愛在东京），是一部[日本](../Page/日本.md "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")[校园](https://zh.wikipedia.org/wiki/校园 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")，改编自日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[多田薰的](../Page/多田薰.md "wikilink")[漫画作品](../Page/日本漫画.md "wikilink")《[淘气小亲亲](../Page/淘气小亲亲.md "wikilink")》（），由[古川雄辉](https://zh.wikipedia.org/wiki/古川雄辉 "wikilink")、[矢作穗香主演](https://zh.wikipedia.org/wiki/矢作穗香 "wikilink")。2013年3月29日起在日本[富士电视台TWO台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")（收费）每周五24:00–24:50时段（即每周六凌晨00:00–00:50）播出。特別篇標題改為《[惡作劇之吻2～Love
+TOKYO**》（，直譯為一吻定情愛在东京），是一部[日本](../Page/日本.md "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")[校园](https://zh.wikipedia.org/wiki/校园 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")，改编自日本[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[多田薰的](../Page/多田薰.md "wikilink")[漫画作品](../Page/日本漫画.md "wikilink")《[淘气小亲亲](../Page/淘气小亲亲.md "wikilink")》（），由[古川雄辉](../Page/古川雄辉.md "wikilink")、[矢作穗香主演](../Page/矢作穗香.md "wikilink")。2013年3月29日起在日本[富士电视台TWO台](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")（收费）每周五24:00–24:50时段（即每周六凌晨00:00–00:50）播出。特別篇標題改為《[惡作劇之吻2～Love
 in
 OKINAWA](https://zh.wikipedia.org/wiki/惡作劇之吻2～Love_in_OKINAWA "wikilink")》（）。香港於日本播放後24小時內於[now101台自選服務緊貼播放](https://zh.wikipedia.org/wiki/now101台自選服務 "wikilink")。台灣2014年12月5日於[衛視中文台星期五](../Page/衛視中文台.md "wikilink")
 22:00-23:00时段同季播出。\[1\]
@@ -18,9 +18,9 @@ OKINAWA](https://zh.wikipedia.org/wiki/惡作劇之吻2～Love_in_OKINAWA "wikil
 
 ### 主要人物
 
-  - [古川雄辉](https://zh.wikipedia.org/wiki/古川雄辉 "wikilink") 饰
+  - [古川雄辉](../Page/古川雄辉.md "wikilink") 饰
     入江直树（香港配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
-  - [矢作穗香](https://zh.wikipedia.org/wiki/矢作穗香 "wikilink") 饰 相原琴子/入江琴子
+  - [矢作穗香](../Page/矢作穗香.md "wikilink") 饰 相原琴子/入江琴子
   - [山田裕贵](https://zh.wikipedia.org/wiki/山田裕贵 "wikilink") 饰
     池澤金之助（香港配音：[張振熙](../Page/張振熙.md "wikilink")）
   - [田中要次](https://zh.wikipedia.org/wiki/田中要次 "wikilink") 饰 相原重雄
@@ -42,7 +42,7 @@ OKINAWA](https://zh.wikipedia.org/wiki/惡作劇之吻2～Love_in_OKINAWA "wikil
   - [加治将树](https://zh.wikipedia.org/wiki/加治将树 "wikilink") 饰 须藤学长\[2\]
   - [彩夢](../Page/小池彩夢.md "wikilink") 飾 松本綾子
   - [白又敦](https://zh.wikipedia.org/wiki/白又敦 "wikilink") 飾 高宮良
-  - [宮崎秋人](https://zh.wikipedia.org/wiki/宮崎秋人 "wikilink") 飾 奈良崎宣
+  - [宮崎秋人](../Page/宮崎秋人.md "wikilink") 飾 奈良崎宣
   - [内海啓貴](https://zh.wikipedia.org/wiki/内海啓貴 "wikilink") 飾 中川武人
   - [高田里穗](../Page/高田里穗.md "wikilink") 飾 大泉沙穂子
   - [堀内正美](https://zh.wikipedia.org/wiki/堀内正美 "wikilink") 飾 大泉會長
@@ -69,7 +69,7 @@ OKINAWA](https://zh.wikipedia.org/wiki/惡作劇之吻2～Love_in_OKINAWA "wikil
   - [堀井新太](../Page/堀井新太.md "wikilink") 飾 鴨狩啓太
   - [鈴木身來](https://zh.wikipedia.org/wiki/鈴木身來 "wikilink") 飾
     桔梗幹（香港配音：[張振熙](../Page/張振熙.md "wikilink")）
-  - [伊藤梨沙子](https://zh.wikipedia.org/wiki/伊藤梨沙子 "wikilink") 飾
+  - [伊藤梨沙子](../Page/伊藤梨沙子.md "wikilink") 飾
     小倉智子（香港配音：[鄭家蕙](../Page/鄭家蕙.md "wikilink")）
   - [川上朱莉杏](https://zh.wikipedia.org/wiki/川上朱莉杏 "wikilink") 飾
     品川真里奈（香港配音：[莊巧怡](https://zh.wikipedia.org/wiki/莊巧怡 "wikilink")）

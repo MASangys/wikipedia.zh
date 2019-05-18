@@ -56,8 +56,7 @@ Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 1.  [急☆上☆Show\!\!](../Page/急☆上☆Show!!.md "wikilink")
       -
         作詞・作曲：TAKESHI、編曲：久米康隆\]/ TAKESHI
-2.  [Wonderful
-    World\!\!](https://zh.wikipedia.org/wiki/Wonderful_World!! "wikilink")
+2.  [Wonderful World\!\!](../Page/Wonderful_World!!.md "wikilink")
       -
         作詞・作曲：ROADIE　編曲：久米康隆
 3.  LIFE 〜向著眼前的另一端〜（LIFE〜目の前の向こうへ〜）
@@ -72,7 +71,7 @@ Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 6.  [我的家](https://zh.wikipedia.org/wiki/my_home "wikilink")(マイホーム)
       -
         作詞・作曲：A．F．R．O、編曲：野間康介
-7.  [365天的家人](https://zh.wikipedia.org/wiki/365日家族 "wikilink")
+7.  [365天的家人](../Page/365日家族.md "wikilink")
       -
         作詞：田中花乃、作曲：谷口尚久、編曲：大西省吾
 8.  全心全意愛著你（ツブサニコイ）

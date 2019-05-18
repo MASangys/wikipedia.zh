@@ -47,7 +47,7 @@ Star我要當歌手》的比賽資格。第一集號稱打造臺灣選秀最大�
 
 2013年5月26日\~2014年3月30日的節目為止，若參賽者累計到達新臺幣90,000圓整的獎金，除了應有的累計獎金，還可取得透過[唱片公司發行單曲的機會](../Page/唱片公司.md "wikilink")。故若參賽者每集可獲得新臺幣10,000圓整的獎金，最快只要連續在9集節目當中持續衛冕成功，除了可獲得新臺幣90,000圓整的獎金外，再取得透過唱片公司發行單曲的機會。但節目賽制更改之原因，自2014年4月6日播出起，累積獎金到達新臺幣100,000圓整發行單曲。
 
-基於賽制變更，以加強參賽選手的素質，並回應觀眾等理由（如為何不到8,000分仍可晉級下一次比賽，拚到9,000分卻不能晉級下一次比賽等類似意見與疑問），如果參賽者未獲得8,000分以上（包含8,000分），就算贏了對手也必須到失敗區。例如第48集的參賽者劉又榕與[陳曉怡](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink")，劉又榕雖然以7,700分的成績，贏過[陳曉怡的](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink")7,600分的成績，但兩者分數均未滿8,000分，故兩者均必須到失敗區，等待300位觀眾評審救援。
+基於賽制變更，以加強參賽選手的素質，並回應觀眾等理由（如為何不到8,000分仍可晉級下一次比賽，拚到9,000分卻不能晉級下一次比賽等類似意見與疑問），如果參賽者未獲得8,000分以上（包含8,000分），就算贏了對手也必須到失敗區。例如第48集的參賽者劉又榕與[陳曉怡](../Page/菊梓喬.md "wikilink")，劉又榕雖然以7,700分的成績，贏過[陳曉怡的](../Page/菊梓喬.md "wikilink")7,600分的成績，但兩者分數均未滿8,000分，故兩者均必須到失敗區，等待300位觀眾評審救援。
 
 若參賽者為該集成績最高者，則可成為該集的「MVP」（most valuable
 player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，在前三集因成績優異，均在前三集各自獲得了價值新臺幣100,000圓整的獎品，第三次的時候，還被主持人黃子佼開玩笑說「他已經連續三次我們節目當中『搶劫』啦！」
@@ -328,7 +328,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>2013/06/16</p></td>
 <td><p><a href="../Page/任明廷.md" title="wikilink">任爸</a> (7700／6000)<br />
 <font color=black><strong>趙丹妮 (7700／7700)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (7600／7600)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (7600／7600)</strong></font><br />
 卓庭玉 (7700→6000／6000)<br />
 華安祖 (7600／0)<br />
 <font color=black><strong>陳思瑋 (8900／8900)</strong></font></p></td>
@@ -362,7 +362,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 賴奎佑 (8200／0)<br />
 <font color=black><strong>黃莉 (8800／8800)</strong></font></p></td>
 <td><p><font color=black><strong>李建盛 (8200／31200)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (7900／15500)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (7900／15500)</strong></font><br />
 趙丹妮 (7400／7700)<br />
 <font color=black><strong>陳思瑋 <font color=red>(9000／17900)</strong></font><br />
 <font color=black><strong><a href="../Page/蕭閎仁.md" title="wikilink">蕭閎仁</a> (8700／43500)</strong></font><br />
@@ -391,7 +391,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <font color=black><strong>方琳 (8800／8800)</strong></font><br />
 <font color=black><strong>龔敬文 (8900／8900)</strong></font><br />
 林惠敏 (8100／6000)</p></td>
-<td><p><font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8300／23800)</strong></font><br />
+<td><p><font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8300／23800)</strong></font><br />
 吳健綸 (7700／7700)<br />
 <font color=black><strong><a href="../Page/蕭閎仁.md" title="wikilink">蕭閎仁</a> <font color=red>(9000／52500)</strong></font><br />
 李建盛 (7900／31200)<br />
@@ -422,7 +422,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 趙晏婷 (7700／0)<br />
 陳思瑋 (9000→6000／29900)</p></td>
 <td><p><font color=black><strong>黃莉 (8700／25800)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8100／31900)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8100／31900)</strong></font><br />
 <font color=black><strong>方琳 (8600／17400)</strong></font><br />
 <font color=black><strong>龔敬文 (8600／17500)</strong></font><br />
 <font color=black><strong><a href="../Page/蕭閎仁.md" title="wikilink">蕭閎仁</a> (9100／61600)</strong></font><br />
@@ -455,13 +455,13 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 </p></td>
 <td><p><font color=black><strong>黃莉 (8100／33900)</strong></font><br />
 <font color=black><strong><a href="../Page/潘裕文.md" title="wikilink">潘裕文</a> (8200／25900)</strong></font><br />
-<a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (7900→6000／37900)<br />
+<a href="../Page/范揚景.md" title="wikilink">范揚景</a> (7900→6000／37900)<br />
 <font color=black><strong><a href="../Page/蕭閎仁.md" title="wikilink">蕭閎仁</a> <font color=red>(8900／70500)</strong></font><br />
 <font color=black><strong>方琳 (8100／25500)</strong></font><br />
 龔敬文 (8600／17500)</p></td>
 <td><p>王芃文 (8.4%)<br />
 劉亞馨 (18.8%)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (25.2%)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (25.2%)</strong></font><br />
 <a href="../Page/許仁杰.md" title="wikilink">許仁杰</a> (21.2%)<br />
 林薇薇 (8.3%)<br />
 龔敬文 (18.1%)</p></td>
@@ -479,7 +479,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>蔡青芬 (7200／0)<br />
 李柏誼 (7900／0)<br />
 閻韋伶 (8000／0)<br />
-<a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8500→6000／43900)<br />
+<a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8500→6000／43900)<br />
 彭威虎 (7500／0)<br />
 林家祥 (7500／0)<br />
 </p></td>
@@ -493,7 +493,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>蔡青芬 (15.9%)<br />
 李柏誼 (8.6%)<br />
 閻韋伶 (15.3%)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (54.1%)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (54.1%)</strong></font><br />
 彭威虎 (4.8%)<br />
 林家祥 (1.3%)</p></td>
 </tr>
@@ -512,7 +512,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 卡塔拉 (8100／0)<br />
 黃晟翔 (8300／0)<br />
 <font color=black><strong>黃夏欣 (8800／8800)</strong></font><br />
-<a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8900→6000／49900)<br />
+<a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8900→6000／49900)<br />
 </p></td>
 <td><p><font color=black><strong><a href="../Page/潘裕文.md" title="wikilink">潘裕文</a> (8900／43500)</strong></font><br />
 陳彥伶 (8500／16100)<br />
@@ -526,7 +526,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 卡塔拉 (4.0%)<br />
 黃晟翔 (6.2%)<br />
 方琳 (19.7%)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (35.0%)</strong></font></p></td>
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (35.0%)</strong></font></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -539,7 +539,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>11</p></td>
 <td><p>2013/08/04</p></td>
 <td><p>余尚丞 (7700／0)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> <font color=red>(9400／59300)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> <font color=red>(9400／59300)</strong></font><br />
 張婷 (7700／0)<br />
 李鎬年 (7900／0)<br />
 李夢涵 (8400／0)<br />
@@ -581,7 +581,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 陳孟賢 (8000／16900)<br />
 黃莉 (8400／59000)<br />
 <font color=black><strong><a href="../Page/潘裕文.md" title="wikilink">潘裕文</a> (8500／61300)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8500／67800)</strong></font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8500／67800)</strong></font><br />
 <font color=black><strong>陳思瑋 <font color=red>(8800／73500)</strong></font><br />
 </p></td>
 <td><p>盧巧宜 (2.2%)<br />
@@ -609,7 +609,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 江韋儀 (7700→6000／6000)<br />
 嚴芳宜 (7700／0)<br />
 </p></td>
-<td><p><font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8400／76200)</strong></font><br />
+<td><p><font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8400／76200)</strong></font><br />
 <font color=black><strong>林榮進 (7800／15900)</strong></font><br />
 <font color=black><strong><a href="../Page/徐詣帆.md" title="wikilink">徐詣帆</a> <font color=red>(9000／23800)</strong></font><br />
 <font color=black><strong>黃夏欣 (7900／33200)</strong></font><br />
@@ -641,7 +641,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 吳濬 (7700／0)<br />
 <font color=black><strong>張庭萱 <font color=red>(8800／8800)</strong></font><br />
 </p></td>
-<td><p><font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> (8100／84300)</strong></font><br />
+<td><p><font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> (8100／84300)</strong></font><br />
 林榮進 (8300／15900)<br />
 <font color=black><strong><a href="../Page/徐詣帆.md" title="wikilink">徐詣帆</a> <font color=red>(8800／32600)</strong></font><br />
 <font color=black><strong>黃夏欣 (8100／41300)</strong></font><br />
@@ -677,7 +677,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <font color=black><strong>孫向瑩 (8400／16800)</strong></font><br />
 <font color=black><strong><a href="../Page/徐詣帆.md" title="wikilink">徐詣帆</a> <font color=red>(9000／41600)</strong></font><br />
 <font color=black><strong><a href="../Page/潘裕文.md" title="wikilink">潘裕文</a> (8800／87100)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/范揚景" title="wikilink">范揚景</a> <font color=orange>(9000／93300)</strong> <strong><font color=red>(本週MVP)</font><br />
+<font color=black><strong><a href="../Page/范揚景.md" title="wikilink">范揚景</a> <font color=orange>(9000／93300)</strong> <strong><font color=red>(本週MVP)</font><br />
 </strong></p></td>
 <td><p>殷之趯 (15.1%)<br />
 施靖珊 (1.7%)<br />
@@ -1177,7 +1177,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>31</p></td>
 <td><p>2013/12/22</p></td>
 <td><p>顧子歆 (7600／0)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a> <font color=red> (9300／9300)</strong></font><br />
+<font color=black><strong><a href="../Page/張祖誠.md" title="wikilink">張祖誠</a> <font color=red> (9300／9300)</strong></font><br />
 劉克強 (8200／0)<br />
 <font color=black><strong>宋聖揚 (8700／8700)</strong></font><br />
 <font color=black><strong><a href="../Page/李崗霖.md" title="wikilink">李崗霖</a> <font color=red> (9300／88400)</strong></font><br />
@@ -1218,7 +1218,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p><font color=black><strong>柯嘉惠 (8700／77300)</strong></font><br />
 <font color=black><strong>宋聖揚 (8500／17200)</strong></font><br />
 <font color=black><strong>鄭又軒 (9100／63200)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a> (9200／18500)</strong></font><br />
+<font color=black><strong><a href="../Page/張祖誠.md" title="wikilink">張祖誠</a> (9200／18500)</strong></font><br />
 <font color=black><strong>李詩涵 <font color=orange>(8700／97000)</strong></font><br />
 <font color=black><strong><a href="../Page/李崗霖.md" title="wikilink">李崗霖</a> <font color=orange>(9500／97900)</strong> <strong><font color=red>(本週MVP)</font><br />
 </strong></p></td>
@@ -1252,7 +1252,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <font color=black><strong>王振鴻 (8800／35500)</strong></font><br />
 <font color=black><strong>柯嘉惠 (9000／86300)</strong></font><br />
 宋聖揚 (8200／17200)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a><font color=red> (9300／27800)</strong></font><br />
+<font color=black><strong><a href="../Page/張祖誠.md" title="wikilink">張祖誠</a><font color=red> (9300／27800)</strong></font><br />
 </p></td>
 <td><p>束之凡 (7.5%)<br />
 <font color=black>'''高瑞希 (32.5%) </font><br />
@@ -1282,7 +1282,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p><font color=black><strong>鄭又軒 (8000／79900)</strong></font><br />
 <font color=black><strong><a href="../Page/潘嘉麗.md" title="wikilink">潘嘉麗</a> (8400／17000)</strong></font><br />
 <font color=black><strong>柯嘉惠 <font color=orange>(8900／95200)</strong></font><br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a> (9000／36800)</strong></font><br />
+<font color=black><strong><a href="../Page/張祖誠.md" title="wikilink">張祖誠</a> (9000／36800)</strong></font><br />
 -{涂}-啟文 (8300／8500)<br />
 王振鴻 (9200／35500)<br />
 </p></td>
@@ -1312,14 +1312,14 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 孫羽希 (8300／0)<br />
 </p></td>
 <td><p><font color=black><strong>陳薇 (8600／17400)</strong></font><br />
-<a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a> (8500／36800)<br />
+<a href="../Page/張祖誠.md" title="wikilink">張祖誠</a> (8500／36800)<br />
 <font color=black><strong>王振鴻 (8700／44200)</strong></font><br />
 <font color=black><strong>鄭又軒<font color=red> (9300／89200)</strong></font><br />
 <font color=black><strong><a href="../Page/楊蒨時.md" title="wikilink">楊蒨時</a> (9200／18400)</strong></font><br />
 <font color=black><strong><a href="../Page/潘嘉麗.md" title="wikilink">潘嘉麗</a> (8500／25500)</strong></font><br />
 </p></td>
 <td><p>鄭羽涵 (7.4%)<br />
-<a href="https://zh.wikipedia.org/wiki/張祖誠" title="wikilink">張祖誠</a> (7.4%)<br />
+<a href="../Page/張祖誠.md" title="wikilink">張祖誠</a> (7.4%)<br />
 葛馥榕 (0.4%)<br />
 陳致安 (29.7%)<br />
 徐義鈞 (24.5%)<br />
@@ -1657,7 +1657,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 <td><p>46</p></td>
 <td><p>2014/04/06</p></td>
 <td><p>卓迪生 (7900／0)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/菊梓喬" title="wikilink">陳曉怡</a> (8500／8500)</strong></font><br />
+<font color=black><strong><a href="../Page/菊梓喬.md" title="wikilink">陳曉怡</a> (8500／8500)</strong></font><br />
 曾薇 (8100／0)<br />
 林景柔 (8100／0)<br />
 紀俊權 (8300／0)<br />
@@ -1693,7 +1693,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 </p></td>
 <td><p>陳剛 (8300／23900)<br />
 康峻維 (8400／42300)<br />
-<font color=black><strong><a href="https://zh.wikipedia.org/wiki/菊梓喬" title="wikilink">陳曉怡</a> (8500／17000)</strong></font><br />
+<font color=black><strong><a href="../Page/菊梓喬.md" title="wikilink">陳曉怡</a> (8500／17000)</strong></font><br />
 <font color=black><strong>顏伊雯 <font color=red>(9100／45200)</strong></font><br />
 房柏景 (7900／25800)<br />
 </p></td>
@@ -1720,7 +1720,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 戴晏青 (8800／0)<br />
 顏家衛 (7700／0)<br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菊梓喬" title="wikilink">陳曉怡</a> (7600／17000)<br />
+<td><p><a href="../Page/菊梓喬.md" title="wikilink">陳曉怡</a> (7600／17000)<br />
 楊辭彙 (7800／8500)<br />
 <font color=black><strong>沈民憲 (8500／17300)</strong></font><br />
 <font color=black><strong>蘇柏旭 <font color=red>(8900／25800)</strong></font><br />
@@ -2668,7 +2668,7 @@ Dora (9.8%)<br />
 <td><p>81</p></td>
 <td><p>2014/12/07</p></td>
 <td><p>孟慶而 (9000／0)<br />
-<a href="https://zh.wikipedia.org/wiki/楊子黎" title="wikilink">楊子黎</a> (8500／0)<br />
+<a href="../Page/楊子黎.md" title="wikilink">楊子黎</a> (8500／0)<br />
 鄭為仁 (8800／0)<br />
 <font color=black><strong>林亞黎<font color=red> (9300／9300)</strong></font><br />
 黃則翔 (8800／0)<br />
@@ -2680,7 +2680,7 @@ Dora (9.8%)<br />
 <font color=black></strong> 柯俊傑 (9000／82900)</em>'</font><br />
 </p></td>
 <td><p>孟慶而 (26.7%)<br />
-<a href="https://zh.wikipedia.org/wiki/楊子黎" title="wikilink">楊子黎</a> (13.7%)<br />
+<a href="../Page/楊子黎.md" title="wikilink">楊子黎</a> (13.7%)<br />
 鄭為仁 (7.5%)<br />
 <font color=black><strong>林殷如 (45.6%)</strong></font><br />
 黃則翔 (6.5%)<br />
@@ -3202,7 +3202,7 @@ Stephanie (22.5%)<br />
 
   - [蕭閎仁](../Page/蕭閎仁.md "wikilink")（11關／94,300）。發行歌曲：因為我愛你
   - 陳思瑋（12關／97,100）。發行歌曲：木頭
-  - [范揚景](https://zh.wikipedia.org/wiki/范揚景 "wikilink")（12關／93,300）。發行歌曲：孤單不孤單
+  - [范揚景](../Page/范揚景.md "wikilink")（12關／93,300）。發行歌曲：孤單不孤單
   - [潘裕文](../Page/潘裕文.md "wikilink")（11關／96,300）。發行歌曲：渴
   - 黃夏欣（12關／97,100）。發行歌曲：偷偷，愛
   - [徐詣帆](../Page/徐詣帆.md "wikilink")（11關／96,000）。發行歌曲：飛起來Mqa-ras
@@ -3235,7 +3235,7 @@ Stephanie (22.5%)<br />
 
   - [蕭閎仁](../Page/蕭閎仁.md "wikilink")（9300分／8500分／8800分／9300分）
   - 陳思瑋（9000分／8500分／8900分／9000分）
-  - [范揚景](https://zh.wikipedia.org/wiki/范揚景 "wikilink")（9400分／7600分／7600分／9000分）
+  - [范揚景](../Page/范揚景.md "wikilink")（9400分／7600分／7600分／9000分）
   - [潘裕文](../Page/潘裕文.md "wikilink")（9300分／8200分／8500分／9200分）
   - 黃夏欣（8800分／7700分／8800分／8700分）
   - [徐詣帆](../Page/徐詣帆.md "wikilink")（9600分／8700分／9300分／9600分）
@@ -4078,9 +4078,9 @@ Stephanie (22.5%)<br />
 </tbody>
 </table>
 
-  - <small>**同時段綜藝節目**：[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[超級模王大道2](../Page/超級模王大道2.md "wikilink")/[華人星光大道3](../Page/華人星光大道3.md "wikilink")/[最強大國民](https://zh.wikipedia.org/wiki/最強大國民 "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[POWER
+  - <small>**同時段綜藝節目**：[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[超級模王大道2](../Page/超級模王大道2.md "wikilink")/[華人星光大道3](../Page/華人星光大道3.md "wikilink")/[最強大國民](../Page/最強大國民.md "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[POWER
     SUNDAY星期天](https://zh.wikipedia.org/wiki/POWER星期天 "wikilink")》（2013年6月2日起停播）、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》
-  - **同時段戲劇節目**：[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[我愛幸運七](../Page/我愛幸運七.md "wikilink")/[金牌老爸](https://zh.wikipedia.org/wiki/金牌老爸 "wikilink")/[金牌俏女郎](https://zh.wikipedia.org/wiki/金牌俏女郎 "wikilink")》
+  - **同時段戲劇節目**：[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[我愛幸運七](../Page/我愛幸運七.md "wikilink")/[金牌老爸](../Page/金牌老爸.md "wikilink")/[金牌俏女郎](https://zh.wikipedia.org/wiki/金牌俏女郎 "wikilink")》
   - '''由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - **資料來源：[凱絡媒體週報](http://twncarat.wordpress.com/%E9%9B%BB%E8%A6%96%E8%A7%80%E5%AF%9F%E7%AA%97/)**</small>
 

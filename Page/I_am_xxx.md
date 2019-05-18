@@ -19,7 +19,7 @@
         電影『[最後的吸血鬼](https://zh.wikipedia.org/wiki/最後的吸血鬼 "wikilink")』主題曲。
 2.  **冬季異鄉人 (THE GREAT VACATION -extra- Live ver.)**
       -
-        [TAKURO為](../Page/TAKURO.md "wikilink")[MISIA寫的歌曲](../Page/MISIA.md "wikilink")，GLAY翻唱。
+        [TAKURO為](https://zh.wikipedia.org/wiki/TAKURO "wikilink")[MISIA寫的歌曲](../Page/MISIA.md "wikilink")，GLAY翻唱。
 3.  **I am xxx (Instrumental)**
 4.  **THE GREAT VACATION VOL.1（預告篇）**
 
@@ -38,17 +38,17 @@
 2.  **[HIGHCOMMUNICATIONS](https://zh.wikipedia.org/wiki/THE_FRUSTRATED "wikilink")**
       -
         4/13　[STUDIO
-        COAST](https://zh.wikipedia.org/wiki/STUDIO_COAST "wikilink")（[TERU](../Page/TERU.md "wikilink")
+        COAST](https://zh.wikipedia.org/wiki/STUDIO_COAST "wikilink")（[TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")
         Produce「BOYS ONLY NIGHT」）
 3.  **[a
     Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
       -
         4/15　[大阪厚生年金會館大](https://zh.wikipedia.org/wiki/大阪厚生年金會館 "wikilink")
-        HALL（[JIRO](../Page/JIRO.md "wikilink") Produce「OSAKA CRUSH
-        NIGHT\!\!」）
+        HALL（[JIRO](https://zh.wikipedia.org/wiki/JIRO "wikilink")
+        Produce「OSAKA CRUSH NIGHT\!\!」）
 4.  **[MIRROR](https://zh.wikipedia.org/wiki/LOVE_IS_BEAUTIFUL "wikilink")**
       -
-        4/17　[Differ有明](https://zh.wikipedia.org/wiki/Differ有明 "wikilink")（[HISASHI](../Page/HISASHI.md "wikilink")
+        4/17　[Differ有明](https://zh.wikipedia.org/wiki/Differ有明 "wikilink")（[HISASHI](https://zh.wikipedia.org/wiki/HISASHI "wikilink")
         Produce「RESONANCE Vol.2」）
 
 ## 收錄專輯

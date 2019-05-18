@@ -1,5 +1,5 @@
 **`ncurses`**（**n**ew
-**curses**）是一个[程序库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，它提供了[API](../Page/应用程序接口.md "wikilink")，可以允许程序员编写独立于终端的。它是一个[虚拟终端中的](../Page/虚拟终端.md "wikilink")“类[GUI](../Page/图形用户界面.md "wikilink")”[应用软件工具箱](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它还优化了屏幕刷新方法，以减少使用远程[shell时遇到的](../Page/Unix_shell.md "wikilink")[延迟](https://zh.wikipedia.org/wiki/延迟_\(工程学\) "wikilink")。
+**curses**）是一个[程序库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，它提供了[API](../Page/应用程序接口.md "wikilink")，可以允许程序员编写独立于终端的。它是一个[虚拟终端中的](../Page/虚拟终端.md "wikilink")“类[GUI](../Page/图形用户界面.md "wikilink")”[应用软件工具箱](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它还优化了屏幕刷新方法，以减少使用远程[shell时遇到的](../Page/Unix_shell.md "wikilink")[延迟](../Page/延迟_\(工程学\).md "wikilink")。
 
 ## 历史
 
@@ -11,10 +11,10 @@ Curses标准。
 
 ### curses
 
-1980年左右，加州大学伯克利分校为[BSD操作系统开发了最初的curses库](../Page/BSD.md "wikilink")，以支持面向屏幕的游戏。它最初使用了[termcap库](https://zh.wikipedia.org/wiki/termcap "wikilink")，其他程序，如[vi编辑器中也使用了这个库](../Page/vi.md "wikilink")。\[2\]
+1980年左右，加州大学伯克利分校为[BSD操作系统开发了最初的curses库](../Page/BSD.md "wikilink")，以支持面向屏幕的游戏。它最初使用了[termcap库](https://zh.wikipedia.org/wiki/termcap "wikilink")，其他程序，如[vi编辑器中也使用了这个库](https://zh.wikipedia.org/wiki/vi "wikilink")。\[2\]
 
 BSD curses库的成功促使贝尔实验室在他们的System III和System
-V第1版[Unix系统中](../Page/Unix.md "wikilink")，发布增强的curses库。这个库功能更强大，而且它用[terminfo代替了termcap](https://zh.wikipedia.org/wiki/terminfo "wikilink")。然而，由于[AT\&T的源代码分发政策](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，改进的curses库并没有被BSD社区广泛接受。\[3\]
+V第1版[Unix系统中](https://zh.wikipedia.org/wiki/Unix "wikilink")，发布增强的curses库。这个库功能更强大，而且它用[terminfo代替了termcap](https://zh.wikipedia.org/wiki/terminfo "wikilink")。然而，由于[AT\&T的源代码分发政策](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，改进的curses库并没有被BSD社区广泛接受。\[3\]
 
 ### pcurses
 
@@ -139,9 +139,9 @@ Commander和](https://zh.wikipedia.org/wiki/Midnight_Commander "wikilink")[YaST]
 
 5.
 6.
-7.  The [README](../Page/README.md "wikilink") file in ncurses 1.8.1
-    states "v0.1 July 31, 1992" and "v1.8.1 November 5, 1993", which
-    agrees with the [NEWS (changelog)
+7.  The [README](https://zh.wikipedia.org/wiki/README "wikilink") file
+    in ncurses 1.8.1 states "v0.1 July 31, 1992" and "v1.8.1 November 5,
+    1993", which agrees with the [NEWS (changelog)
     file](http://invisible-island.net/ncurses/NEWS.gz)
 
 8.  [NCURSES - Frequently Asked Questions (FAQ): Who wrote

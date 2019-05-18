@@ -4,16 +4,16 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
 
 ## 成員資料
 
-| 已退出成員列表                                            |
-| -------------------------------------------------- |
-| 藝名\[3\]                                            |
-| 藝名                                                 |
-| RASA                                               |
-| E.DEN                                              |
-| J-HYO                                              |
-| KING                                               |
-| JUN                                                |
-| [AO](https://zh.wikipedia.org/wiki/BLK "wikilink") |
+| 已退出成員列表                         |
+| ------------------------------- |
+| 藝名\[3\]                         |
+| 藝名                              |
+| RASA                            |
+| E.DEN                           |
+| J-HYO                           |
+| KING                            |
+| JUN                             |
+| [AO](../Page/BLK.md "wikilink") |
 
 ## 唱片
 

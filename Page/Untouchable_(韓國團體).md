@@ -1,6 +1,6 @@
 **Untouchable**（），為[韓國經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TS娛樂於](../Page/TS娛樂.md "wikilink")2008年推出的嘻哈雙人男子團體，由[Sleepy和D](https://zh.wikipedia.org/wiki/Sleepy "wikilink").Action兩名成員組成，兩人皆是Rapper，團體歌曲風格以嘻哈為主。兩人於2011年8月一起入伍，2013年5月退伍。\[1\]
 
-Sleepy曾擔任女團[SONAMOO](https://zh.wikipedia.org/wiki/SONAMOO "wikilink")、[AOA成員](../Page/AOA.md "wikilink")[智珉和樂團](../Page/智珉.md "wikilink")[N.Flying的rap老師](https://zh.wikipedia.org/wiki/N.Flying "wikilink")，也曾於2015年擔任韓國藝術院實用音樂學部嘻哈系的教師。\[2\]
+Sleepy曾擔任女團[SONAMOO](../Page/SONAMOO.md "wikilink")、[AOA成員](../Page/AOA.md "wikilink")[智珉和樂團](../Page/智珉.md "wikilink")[N.Flying的rap老師](../Page/N.Flying.md "wikilink")，也曾於2015年擔任韓國藝術院實用音樂學部嘻哈系的教師。\[2\]
 
 ## 成員列表
 

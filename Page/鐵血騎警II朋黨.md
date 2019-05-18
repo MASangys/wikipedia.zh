@@ -11,9 +11,9 @@
 | **演員**                                              | **角色**                                     |
 | [李修賢](https://zh.wikipedia.org/wiki/李修賢 "wikilink") | 張鐵柱（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")） |
 | [張家輝](../Page/張家輝.md "wikilink")                    | 張家輝（張鐵柱之侄兒）                                |
-| [吳雪雯](https://zh.wikipedia.org/wiki/吳雪雯 "wikilink") | 阿雪（粵語配音：[吳小藝](../Page/吳小藝.md "wikilink")）  |
+| [吳雪雯](../Page/吳雪雯.md "wikilink")                    | 阿雪（粵語配音：[吳小藝](../Page/吳小藝.md "wikilink")）  |
 | [林敬剛](../Page/林敬剛.md "wikilink")                    | KK                                         |
-| [黃柏文](https://zh.wikipedia.org/wiki/黃柏文 "wikilink") | 汪志強                                        |
+| [黃柏文](../Page/黃柏文.md "wikilink")                    | 汪志強                                        |
 | [午馬](../Page/午馬.md "wikilink")                      | 金勝                                         |
 | [金十二](https://zh.wikipedia.org/wiki/金十二 "wikilink") | 十二少（金勝之子）                                  |
 | [成奎安](../Page/成奎安.md "wikilink")                    | 大頭                                         |
@@ -28,7 +28,7 @@
 導演劉偉強在接受《[志雲飯局](../Page/志雲飯局.md "wikilink")》[陳志雲採訪時提到](../Page/陳志雲.md "wikilink")，此片是李修賢主動打電話找劉偉強，詢問他的年齡後，認為他有一定的人生經歷和體驗，足以擔當導演的職責，因此此片成為劉偉強的導演處女作。\[1\]。另外李修賢認為歌手[關淑怡的聲線與女主角吳雪雯相近](../Page/關淑怡.md "wikilink")，遂安排音樂家[Phil
 Chan在配樂時順道創作主題曲](https://zh.wikipedia.org/wiki/陳斐立 "wikilink")《別要我再等》，但吳雪雯試音一幕所唱的，其實是[Arevalo
 Antonio
-Jr.創作的插曲](https://zh.wikipedia.org/wiki/盧東尼 "wikilink")《無名的哀愁》，兩者皆收錄於專輯《[夜迷宮](../Page/夜迷宮.md "wikilink")》內；至於她於酒吧駐唱的那支歌則是關淑怡最廣為人知的《[難得有情人](../Page/難得有情人_\(關淑怡粵語專輯\).md "wikilink")》。
+Jr.創作的插曲](../Page/盧東尼.md "wikilink")《無名的哀愁》，兩者皆收錄於專輯《[夜迷宮](../Page/夜迷宮.md "wikilink")》內；至於她於酒吧駐唱的那支歌則是關淑怡最廣為人知的《[難得有情人](../Page/難得有情人_\(關淑怡粵語專輯\).md "wikilink")》。
 
 ## 外部链接
 

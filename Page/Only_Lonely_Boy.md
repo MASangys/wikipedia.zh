@@ -1,5 +1,5 @@
 《**Only Lonely
-Boy**》（，）是由[三浦德子作词](https://zh.wikipedia.org/wiki/三浦德子 "wikilink")，[椙山浩一作曲](../Page/椙山浩一.md "wikilink")，[大村雅朗编曲的歌曲](https://zh.wikipedia.org/wiki/大村雅朗 "wikilink")。音乐是[艾尼克斯发行的](../Page/艾尼克斯.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[勇者斗恶龙II
+Boy**》（，）是由[三浦德子作词](../Page/三浦德子.md "wikilink")，[椙山浩一作曲](../Page/椙山浩一.md "wikilink")，[大村雅朗编曲的歌曲](https://zh.wikipedia.org/wiki/大村雅朗 "wikilink")。音乐是[艾尼克斯发行的](../Page/艾尼克斯.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[勇者斗恶龙II
 恶灵的众神](../Page/勇者斗恶龙II_恶灵的众神.md "wikilink")》的[乐曲](https://zh.wikipedia.org/wiki/乐曲 "wikilink")。
 
 ## 概要

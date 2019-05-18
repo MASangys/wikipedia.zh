@@ -43,7 +43,7 @@ Hamada Jimino</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/曹佑寧" title="wikilink">曹佑寧</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳明捷" title="wikilink">吳明捷</a></p></td>
+<td><p><a href="../Page/吳明捷.md" title="wikilink">吳明捷</a></p></td>
 <td><p><strong>1911年出生，1931年參加<a href="../Page/第17回全國中等學校優勝野球大會.md" title="wikilink">第17屆夏季甲子園大會</a><br />
 小名阿基拉（Akira），為「明」的日文發音。<br />
 綽號為「麒麟子」、「怪腕」。</strong><br />
@@ -280,7 +280,7 @@ Hatta Yoichi</p></td>
 <td><p>嘉義農民，曾怨嘆大圳工程。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳竹昇" title="wikilink">陳竹昇</a></p></td>
+<td><p><a href="../Page/陳竹昇.md" title="wikilink">陳竹昇</a></p></td>
 <td><p>嘉義農民</p></td>
 <td><p>因小朋友撞到濱田老師而向老師道歉的農民。</p></td>
 </tr>
@@ -302,7 +302,7 @@ Hatta Yoichi</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吳明捷#家族" title="wikilink">吳盛邦</a></p></td>
 <td><p>嘉義知事</p></td>
-<td><p>應為<a href="https://zh.wikipedia.org/wiki/嘉義市尹" title="wikilink">嘉義市尹</a><a href="https://zh.wikipedia.org/wiki/政所重三郎" title="wikilink">政所重三郎</a>。演員吳盛邦，日本名<strong>堀川盛邦</strong>，為<a href="https://zh.wikipedia.org/wiki/吳明捷" title="wikilink">吳明捷的次男</a>。</p></td>
+<td><p>應為<a href="https://zh.wikipedia.org/wiki/嘉義市尹" title="wikilink">嘉義市尹</a><a href="https://zh.wikipedia.org/wiki/政所重三郎" title="wikilink">政所重三郎</a>。演員吳盛邦，日本名<strong>堀川盛邦</strong>，為<a href="../Page/吳明捷.md" title="wikilink">吳明捷的次男</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -324,13 +324,13 @@ Hitaka Iwao</p></td>
 <td><p><a href="../Page/國立嘉義高級中學.md" title="wikilink">嘉義高中棒球隊投手</a>，曾與嘉農球員發生衝突。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘彥廷" title="wikilink">潘彥廷</a></p></td>
+<td><p><a href="../Page/潘彥廷.md" title="wikilink">潘彥廷</a></p></td>
 <td><p>森田選手<br />
 Morita</p></td>
 <td><p><a href="../Page/國立臺南第二高級中學.md" title="wikilink">南一中棒球隊投手</a>，為南台灣知名王牌投手；於全島大會中帶領南一中和嘉農角逐地方決賽資格。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳明捷" title="wikilink">高橋晃太</a><br />
+<td><p><a href="../Page/吳明捷.md" title="wikilink">高橋晃太</a><br />
 Takahashi Kouta</p></td>
 <td><p>友廣選手<br />
 Tomohiro</p></td>
@@ -377,13 +377,13 @@ Yoshida Masao</p></td>
 <td><p>愛知縣中京商棒球隊教練。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳重羽" title="wikilink">陳重羽</a></p></td>
+<td><p><a href="../Page/陳重羽.md" title="wikilink">陳重羽</a></p></td>
 <td><p>櫻井寅二<br />
 Sakurai</p></td>
 <td><p>愛知縣中京商棒球隊捕手。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小市慢太郎" title="wikilink">小市慢太郎</a><br />
+<td><p><a href="../Page/小市慢太郎.md" title="wikilink">小市慢太郎</a><br />
 Koichi Mantaro</p></td>
 <td><p><a href="../Page/菊池寬.md" title="wikilink">小池</a>[7]<br />
 Koichi</p></td>
@@ -496,7 +496,7 @@ Ishitsuka Yoshitaka</p></td>
 
 ### 音效
 
-「KANO」創下多項國片影史紀錄，邀請到音效大師[杜篤之親自催生首部](../Page/杜篤之.md "wikilink")[杜比全景聲](https://zh.wikipedia.org/wiki/杜比全景聲 "wikilink")(Dolby
+「KANO」創下多項國片影史紀錄，邀請到音效大師[杜篤之親自催生首部](../Page/杜篤之.md "wikilink")[杜比全景聲](../Page/杜比全景聲.md "wikilink")(Dolby
 Atmos)國片，耗時5個月創作完美成果。國外[Dolby
 Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia.org/wiki/Dolby_Digital "wikilink")\[24\]。
 
@@ -528,9 +528,9 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 [A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg](https://zh.wikipedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_\(Taiwan\).jpg "fig:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg")的
 「一隻展開翅膀的老鷹─KANO 1931」雕像\]\]
-《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](https://zh.wikipedia.org/wiki/永瀨正敏 "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊演員](../Page/賽德克·巴萊.md "wikilink")、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](https://zh.wikipedia.org/wiki/中山路_\(嘉義市\) "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷雕像](https://zh.wikipedia.org/wiki/吳明捷 "wikilink")，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink")
+《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](https://zh.wikipedia.org/wiki/永瀨正敏 "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊演員](../Page/賽德克·巴萊.md "wikilink")、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷雕像](../Page/吳明捷.md "wikilink")，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink")
 - 「一隻展開翅膀的老鷹─KANO
-1931」揭幕，再沿著[中山路走到](https://zh.wikipedia.org/wiki/中山路_\(嘉義市\) "wikilink")[嘉義市立棒球場舉行](../Page/嘉義市立棒球場.md "wikilink")**KANO**電影首映會\[48\]。特別的是，歷史上嘉農隊球員的後代家屬，[近藤兵太郎教練在臺灣](../Page/近藤兵太郎.md "wikilink")、日本教導過的學生，也全都將一同齊聚嘉義，參與遊行活動。
+1931」揭幕，再沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[嘉義市立棒球場舉行](../Page/嘉義市立棒球場.md "wikilink")**KANO**電影首映會\[48\]。特別的是，歷史上嘉農隊球員的後代家屬，[近藤兵太郎教練在臺灣](../Page/近藤兵太郎.md "wikilink")、日本教導過的學生，也全都將一同齊聚嘉義，參與遊行活動。
 
 2014臺北電影節 《KANO》榮獲【觀眾票選獎】 演員《曹佑寧》得【最佳男配角獎】
 
@@ -550,12 +550,12 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 ### 與歷史不符處
 
   - 現實的濱田次箕為體育界出身，於片中設定時間擔任嘉農野球部部長，故每逢野球隊參加比賽——包含代表台灣出征甲子園，都一定會出現在比賽會場，而非片中的兼職農業專家，甚至留在嘉義聽廣播賽況。
-  - [山陽堂的店長是個叫作](https://zh.wikipedia.org/wiki/山陽堂 "wikilink")[吉川成雄的](https://zh.wikipedia.org/wiki/吉川成雄 "wikilink")[日本人](../Page/日本人.md "wikilink")。因此並非[客家人](https://zh.wikipedia.org/wiki/客家人 "wikilink")，所以也不會講[客家話](https://zh.wikipedia.org/wiki/客家話 "wikilink")，更與[苗栗客家人出身的](../Page/苗栗縣.md "wikilink")[吳明捷之間也無](https://zh.wikipedia.org/wiki/吳明捷 "wikilink")[血緣關係](https://zh.wikipedia.org/wiki/血緣 "wikilink")。吉川老闆在[日治時代是個頗有名望的地方](https://zh.wikipedia.org/wiki/台灣日治時代 "wikilink")[仕紳](https://zh.wikipedia.org/wiki/仕紳 "wikilink")，還當選過[嘉義市議員](../Page/嘉義市.md "wikilink")。
+  - [山陽堂的店長是個叫作](https://zh.wikipedia.org/wiki/山陽堂 "wikilink")[吉川成雄的](https://zh.wikipedia.org/wiki/吉川成雄 "wikilink")[日本人](../Page/日本人.md "wikilink")。因此並非[客家人](https://zh.wikipedia.org/wiki/客家人 "wikilink")，所以也不會講[客家話](https://zh.wikipedia.org/wiki/客家話 "wikilink")，更與[苗栗客家人出身的](../Page/苗栗縣.md "wikilink")[吳明捷之間也無](../Page/吳明捷.md "wikilink")[血緣關係](https://zh.wikipedia.org/wiki/血緣 "wikilink")。吉川老闆在[日治時代是個頗有名望的地方](https://zh.wikipedia.org/wiki/台灣日治時代 "wikilink")[仕紳](https://zh.wikipedia.org/wiki/仕紳 "wikilink")，還當選過[嘉義市議員](../Page/嘉義市.md "wikilink")。
   - 嘉南大圳1930年4月竣工，編劇陳嘉蔚、魏德聖為配合[第17屆夏季甲子園而變成](../Page/第17回全國中等學校優勝野球大會.md "wikilink")1931年。
   - 嘉義市噴水池在1927年完工，曾出現於[陳澄波的畫作](../Page/陳澄波.md "wikilink")「夏日街景」；但電影中的1929年嘉義卻仍在施工中\[51\]。
   - 嘉義車站於1933年改建為現今站體。但劇中1944年的場景，嘉義車站仍為舊站體。
   - 片中出現之火車頭為1936年製造的CK124，其原始型式──C12型於1932年上市；劇中的1931年實際上不可能有此種車型。
-  - 1931年，[第17屆夏季甲子園的決賽中第九局的打擊順序與歷史不合](../Page/第17回全國中等學校優勝野球大會.md "wikilink")\[52\]\[53\]，因為[上松耕一於第](https://zh.wikipedia.org/wiki/陳耕元 "wikilink")1、4、6、8局分別上場，打擊成績則為三振、滾地球刺殺、界外高飛接殺及三壘安打各一次；第九局沒上場，因此不可能被[三振](../Page/三振.md "wikilink")；結果電影中硬是出現「不存在的第九局」，讓上松在一出局滿壘時被三振出局\[54\]\[55\]。且最後一棒打者也並非[吳明捷](https://zh.wikipedia.org/wiki/吳明捷 "wikilink")。
+  - 1931年，[第17屆夏季甲子園的決賽中第九局的打擊順序與歷史不合](../Page/第17回全國中等學校優勝野球大會.md "wikilink")\[52\]\[53\]，因為[上松耕一於第](https://zh.wikipedia.org/wiki/陳耕元 "wikilink")1、4、6、8局分別上場，打擊成績則為三振、滾地球刺殺、界外高飛接殺及三壘安打各一次；第九局沒上場，因此不可能被[三振](../Page/三振.md "wikilink")；結果電影中硬是出現「不存在的第九局」，讓上松在一出局滿壘時被三振出局\[54\]\[55\]。且最後一棒打者也並非[吳明捷](../Page/吳明捷.md "wikilink")。
   - 1930年代，尚無[滑球](../Page/滑球.md "wikilink")、[伸卡球的名稱](https://zh.wikipedia.org/wiki/伸卡球 "wikilink")，而在片中近藤教練卻教球員練打這兩個球種。
       - 實際上自原始劇本到正式電影，皆未提及平野保郎（羅保農）有「嘉農核彈頭」稱號，連電影述及球員後續發展段落亦無例外。
   - [吳波為](../Page/吳昌征.md "wikilink")[臺南廳](https://zh.wikipedia.org/wiki/臺南廳 "wikilink")[楠梓坑支廳](https://zh.wikipedia.org/wiki/楠梓坑支廳 "wikilink")（今[高雄市](../Page/高雄市.md "wikilink")[橋頭區](../Page/橋頭區.md "wikilink")）人，不可能整天騎著[腳踏車去看](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")[嘉農球員練球](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")。
@@ -571,7 +571,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 此片內容為中華地區少數正面描述日本時代的電影，與長期以來「殖民地社會必然是悲慘的」印象大相逕庭；又臺灣社會在[藍](../Page/泛藍.md "wikilink")[綠](../Page/泛綠.md "wikilink")、[國家認同和](https://zh.wikipedia.org/wiki/國家認同 "wikilink")[統](https://zh.wikipedia.org/wiki/中國統一 "wikilink")[獨問題上的對立](https://zh.wikipedia.org/wiki/台灣獨立 "wikilink")、以及[華語地區對日本的複雜情感影響對此一時期形成的兩極評價](https://zh.wikipedia.org/wiki/華語地區 "wikilink")，故上映前後引起一定程度的爭論。
 
   - 在上映前有[統派立場學者批評此電影為媚日](../Page/統派.md "wikilink")，比喻為日人拍的《[莎韻之鐘](../Page/莎韻之鐘.md "wikilink")》\[56\]。
-  - 不意外的，在上映日，由[新黨青年軍組成的](../Page/新黨.md "wikilink")「抗獨史陣線」也在電影上映前號召[王炳忠](https://zh.wikipedia.org/wiki/王炳忠 "wikilink")、[侯漢廷等](https://zh.wikipedia.org/wiki/侯漢廷 "wikilink")7位學生到[西門町召開記者會](../Page/西門町.md "wikilink")，公開批評魏德聖，呼籲民眾拒看，魏德聖則希望他們先看過電影\[57\]。
+  - 不意外的，在上映日，由[新黨青年軍組成的](../Page/新黨.md "wikilink")「抗獨史陣線」也在電影上映前號召[王炳忠](../Page/王炳忠.md "wikilink")、[侯漢廷等](../Page/侯漢廷.md "wikilink")7位學生到[西門町召開記者會](../Page/西門町.md "wikilink")，公開批評魏德聖，呼籲民眾拒看，魏德聖則希望他們先看過電影\[57\]。
   - 上映後，也有一位網友於[PTT上批評](https://zh.wikipedia.org/wiki/PTT "wikilink")《KANO》是魏德聖皇民三部曲最終篇\[58\]。眼尖網友追尋IP位址，發現竟是從「行政院研考會」發出。網友發現，公務員上班時間卻跑來PO文，諷刺說：「連上班時間都有行政院的IP搶PO文」\[59\]。
   - 有投書人自稱是[雲林](https://zh.wikipedia.org/wiki/雲林 "wikilink")[口湖鄉水產業者的反對意見在聯合報與中國時報一稿多投](https://zh.wikipedia.org/wiki/口湖鄉 "wikilink")\[60\]，部分網友對這投書事質疑，因投稿人提及在微雨中走路回家，而當地最近的電影院距離口湖鄉達30公里，以及自電影上映以來雲嘉地區到3月11日才下雨，開玩笑說出投書人腳力很好、可能來自未來\[61\]。另有人懷疑該文出自[文化部長](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")[龍應台之手](../Page/龍應台.md "wikilink")，但龍氏本人否認\[62\]。之後，中時電子報網站撤除該篇文章，實際情況不明。
 
@@ -581,7 +581,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 <!-- end list -->
 
-  - 嘉農對戰中京商業時，[吳明捷投球投到手指破皮的橋段](https://zh.wikipedia.org/wiki/吳明捷 "wikilink")，被認為有抄襲[2013棒球經典賽中](../Page/2013年世界棒球經典賽.md "wikilink")[陽耀勳投到手指受傷的情況](../Page/陽耀勳.md "wikilink")。但是魏德聖糾正說只是把歷史搬出來演，並非抄襲。史實中吳明捷在第3、4局就因為手指破皮與連續出賽的疲累導致四死球連發而各失2分，之後靠"投給他打，讓隊友守備"的策略連守四局無失分，比電影情節還誇張。\[64\]。
+  - 嘉農對戰中京商業時，[吳明捷投球投到手指破皮的橋段](../Page/吳明捷.md "wikilink")，被認為有抄襲[2013棒球經典賽中](../Page/2013年世界棒球經典賽.md "wikilink")[陽耀勳投到手指受傷的情況](../Page/陽耀勳.md "wikilink")。但是魏德聖糾正說只是把歷史搬出來演，並非抄襲。史實中吳明捷在第3、4局就因為手指破皮與連續出賽的疲累導致四死球連發而各失2分，之後靠"投給他打，讓隊友守備"的策略連守四局無失分，比電影情節還誇張。\[64\]。
 
 ## 相關作品
 
@@ -589,7 +589,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 作者：
 [魏德聖](../Page/魏德聖.md "wikilink")、[陳嘉蔚](https://zh.wikipedia.org/wiki/陳嘉蔚 "wikilink")/原著劇本
-繪者：[陳小雅](https://zh.wikipedia.org/wiki/陳小雅 "wikilink")\[65\]
+繪者：[陳小雅](../Page/陳小雅.md "wikilink")\[65\]
 出版社：[遠流](https://zh.wikipedia.org/wiki/遠流 "wikilink")
 
   - [KANO 1：魔鬼訓練](http://www.books.com.tw/products/0010626818)[【導演、繪者_限量簽名版】](https://web.archive.org/web/20140407091124/http://www.books.com.tw/products/0010627232)

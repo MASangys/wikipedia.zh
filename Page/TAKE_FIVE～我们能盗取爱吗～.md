@@ -30,13 +30,13 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
     上教大學心理學系研究室教授。專攻戀愛心理學。是爵士樂酒吧「SWING
     TIME」的持有人，不過只會空拿著酒杯而不會喝酒。曾和父親野上誠共組竊盜集團「TAKE
     FIVE」，不過自二十年前因某事而引退，並從父親那裡繼承了「SWING
-    TIME」。不過，有天某位謎樣的流浪老婦人那裡得到一張與二十年前事件有關的[達文世畫像](https://zh.wikipedia.org/wiki/達文世 "wikilink")，「[美麗的費隆妮葉夫人](https://zh.wikipedia.org/wiki/美麗的費隆妮葉夫人 "wikilink")」的照片，並被告知真畫就在銀行倉庫，於是為了找尋當年的真相而重新組成TAKE
+    TIME」。不過，有天某位謎樣的流浪老婦人那裡得到一張與二十年前事件有關的[達文世畫像](https://zh.wikipedia.org/wiki/達文世 "wikilink")，「[美麗的費隆妮葉夫人](../Page/美麗的費隆妮葉夫人.md "wikilink")」的照片，並被告知真畫就在銀行倉庫，於是為了找尋當年的真相而重新組成TAKE
     FIVE。
 
 <!-- end list -->
 
   - **笹原瑠衣** - [松雪泰子](../Page/松雪泰子.md "wikilink")
-    （少女時期：[廣瀨鈴](https://zh.wikipedia.org/wiki/廣瀨鈴 "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+    （少女時期：[廣瀨鈴](../Page/廣瀨鈴.md "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
 <!-- end list -->
 
@@ -74,7 +74,7 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
 <!-- end list -->
 
   -
-    接近已經不當小偷的正義，給他有關「[美麗的費隆妮葉夫人](https://zh.wikipedia.org/wiki/美麗的費隆妮葉夫人 "wikilink")」的消息。在二十年前在[李奧納多·達文西展擔任專職保管員](https://zh.wikipedia.org/wiki/李奧納多·達文西 "wikilink")，那時被展示的「[美麗的費隆妮葉夫人](https://zh.wikipedia.org/wiki/美麗的費隆妮葉夫人 "wikilink")」所迷惑，與五十嵐敦一起製作偽作，與真貨更換展示著，後來被後藤偷取了偽作，真正的畫像在五十嵐的工作室上隱藏著。
+    接近已經不當小偷的正義，給他有關「[美麗的費隆妮葉夫人](../Page/美麗的費隆妮葉夫人.md "wikilink")」的消息。在二十年前在[李奧納多·達文西展擔任專職保管員](https://zh.wikipedia.org/wiki/李奧納多·達文西 "wikilink")，那時被展示的「[美麗的費隆妮葉夫人](../Page/美麗的費隆妮葉夫人.md "wikilink")」所迷惑，與五十嵐敦一起製作偽作，與真貨更換展示著，後來被後藤偷取了偽作，真正的畫像在五十嵐的工作室上隱藏著。
 
 #### 盜賊集團「TAKE FIVE」
 
@@ -182,7 +182,7 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
 <!-- end list -->
 
   -
-    瑠衣與紗枝的父親，教會正義要為愛而偷竊。二十年前在東京美術館保管「[美麗的費隆妮葉夫人](https://zh.wikipedia.org/wiki/美麗的費隆妮葉夫人 "wikilink")」而被增田公造殺害。
+    瑠衣與紗枝的父親，教會正義要為愛而偷竊。二十年前在東京美術館保管「[美麗的費隆妮葉夫人](../Page/美麗的費隆妮葉夫人.md "wikilink")」而被增田公造殺害。
 
 <!-- end list -->
 
@@ -205,7 +205,7 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
 #### 其他人物
 
   - **柿澤奈奈** -
-    [福田彩乃](https://zh.wikipedia.org/wiki/福田彩乃 "wikilink")（香港配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
+    [福田彩乃](../Page/福田彩乃.md "wikilink")（香港配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
 
 <!-- end list -->
 
@@ -349,7 +349,7 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
 
 <!-- end list -->
 
-  - 水無月弘 - [花田虎上](https://zh.wikipedia.org/wiki/花田虎上 "wikilink")
+  - 水無月弘 - [花田虎上](../Page/花田虎上.md "wikilink")
 
 <!-- end list -->
 

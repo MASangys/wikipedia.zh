@@ -1,6 +1,7 @@
 「**2nd Anniversary Live -5th ATTACK 070922-
 日本武道馆**」是[日本的](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](../Page/AAA_\(團體\).md "wikilink")2008年1月8日推出的DVD，由[avex
-trax發行](../Page/avex_trax.md "wikilink")。首次以DVD跟HD DVD兩種型態發售。
+trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。首次以DVD跟HD
+DVD兩種型態發售。
 
 ## 概要
 
@@ -28,7 +29,7 @@ trax發行](../Page/avex_trax.md "wikilink")。首次以DVD跟HD DVD兩種型態
 11. [Get 啾\!](https://zh.wikipedia.org/wiki/Get_啾!_/_SHE的真相 "wikilink")
 12. [Shalala 希望之歌](../Page/Shalala_希望之歌.md "wikilink")
 13. [美麗的天空](../Page/美麗的天空.md "wikilink")
-14. [Wonderful Life](../Page/alohAAA!.md "wikilink")
+14. [Wonderful Life](https://zh.wikipedia.org/wiki/alohAAA! "wikilink")
 15. [Us](../Page/ALL_\(AAA專輯\).md "wikilink")
 16. [Body Talker](../Page/AROUND_\(AAA專輯\).md "wikilink")
 17. [BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")

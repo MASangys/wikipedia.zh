@@ -13,7 +13,7 @@ GAUGE**》為[GLAY的第](../Page/GLAY.md "wikilink")5張原創專輯，於1999�
 3.  **[SURVIVAL](https://zh.wikipedia.org/wiki/SURVIVAL\(GLAY\) "wikilink")**
       -
         錄影帶單曲「survival」的專輯版本。
-4.  **[不是這裡，要往哪裡](https://zh.wikipedia.org/wiki/不是這裡，要往哪裡 "wikilink")**
+4.  **[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")**
       -
         富士電視台『[無瑕的愛](https://zh.wikipedia.org/wiki/無瑕的愛 "wikilink")』日劇主題曲，此為專輯版本。
 5.  **[HAPPINESS](../Page/HAPPINESS_-WINTER_MIX-.md "wikilink")**

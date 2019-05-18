@@ -348,8 +348,8 @@ Taiwan』演唱會。
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dynamic_Duo" title="wikilink">Dynamic Duo</a> Feat. <a href="https://zh.wikipedia.org/wiki/金鐘萬" title="wikilink">金鐘萬</a></p></td>
-<td><p>收錄專輯: <a href="https://zh.wikipedia.org/wiki/Dynamic_Duo" title="wikilink">Dynamic Duo</a> -《<strong>Love Is Enlightened</strong>》</p>
+<td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a> Feat. <a href="https://zh.wikipedia.org/wiki/金鐘萬" title="wikilink">金鐘萬</a></p></td>
+<td><p>收錄專輯: <a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a> -《<strong>Love Is Enlightened</strong>》</p>
 <ul>
 <li>發行日期: 2007年5月28日</li>
 <li>disc 2 Track 1: "Heartbreaker "</li>

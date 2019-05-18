@@ -180,23 +180,20 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2008年：MBC《[綜合醫院2](../Page/綜合醫院2.md "wikilink")》原聲帶〈我的方式〉
   - 2009年：SBS《[聖誕節會下雪嗎](../Page/聖誕節會下雪嗎.md "wikilink")》原聲帶〈因為是你〉
   - 2010年：SBS《[大物](../Page/大物.md "wikilink")》原聲帶〈死也愛你〉
-  - 2010年：電影《[尋找金鐘旭](https://zh.wikipedia.org/wiki/尋找金鐘旭 "wikilink")》原聲帶〈Love
-    Recipe〉(與 Bobby Kim合唱)
+  - 2010年：電影《[尋找金鐘旭](../Page/尋找金鐘旭.md "wikilink")》原聲帶〈Love Recipe〉(與
+    Bobby Kim合唱)
   - 2011年：SBS《[Midas](https://zh.wikipedia.org/wiki/Midas_\(電視劇\) "wikilink")》原聲帶〈想要等待〉
   - 2013年：SBS《[那年冬天，起風了](https://zh.wikipedia.org/wiki/那年冬天，起風了 "wikilink")》原聲帶〈雪花〉
-  - 2013年：SBS《[主君的太陽](https://zh.wikipedia.org/wiki/主君的太陽 "wikilink")》原聲帶〈Day
-    And Night〉
-  - 2014年：SBS《[Three
-    Days](https://zh.wikipedia.org/wiki/Three_Days "wikilink")》原聲帶〈你在呼喚我〉
-  - 2015年：KBS《[SPY](https://zh.wikipedia.org/wiki/SPY "wikilink")》原聲帶〈無處可去(For
-    SPY)〉
+  - 2013年：SBS《[主君的太陽](../Page/主君的太陽.md "wikilink")》原聲帶〈Day And Night〉
+  - 2014年：SBS《[Three Days](../Page/Three_Days.md "wikilink")》原聲帶〈你在呼喚我〉
+  - 2015年：KBS《[SPY](../Page/SPY.md "wikilink")》原聲帶〈無處可去(For SPY)〉
   - 2015年：電影《[朝鮮魔術師](../Page/朝鮮魔術師.md "wikilink")》原聲帶〈請愛我吧〉
-  - 2016年：KBS《[太陽的後裔](https://zh.wikipedia.org/wiki/太陽的後裔 "wikilink")》原聲帶〈You
-    Are My Everything〉
+  - 2016年：KBS《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》原聲帶〈You Are My
+    Everything〉
   - 2016年：KBS《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》原聲帶〈雲畫的月光〉
   - 2017年：SBS《[我的野蠻女友](../Page/我的野蠻女友_\(韓國電視劇\).md "wikilink")》原聲帶〈Because
     I Love You〉
-  - 2018年：tvN《[百日的郎君](https://zh.wikipedia.org/wiki/百日的郎君 "wikilink")》原聲帶〈抹去〉
+  - 2018年：tvN《[百日的郎君](../Page/百日的郎君.md "wikilink")》原聲帶〈抹去〉
 
 ### 合唱歌曲
 
@@ -217,7 +214,7 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2018年6月30日：[鄭仁](../Page/鄭仁.md "wikilink") & Gummy The Call
     Project《Hot Friend》
   - 2018年6月30日：The Call Artists 《Remember (Prod.
-    [申昇勳](https://zh.wikipedia.org/wiki/申昇勳 "wikilink")》
+    [申昇勳](../Page/申昇勳.md "wikilink")》
 
 ### 被翻唱的華語歌曲
 
@@ -233,7 +230,7 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
 ## 綜藝節目
 
   - 2008年5月5日：MBC 《來玩吧》
-  - 2008年5月24日：MBC《[萬元的幸福](https://zh.wikipedia.org/wiki/萬元的幸福 "wikilink")》
+  - 2008年5月24日：MBC《[萬元的幸福](../Page/萬元的幸福.md "wikilink")》
   - 2008年8月30日：Mnet 《Bobpers》
   - 2009年12月25日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
@@ -247,12 +244,11 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2013年4月26日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2013年12月7日：[JTBC](../Page/JTBC.md "wikilink")
-    《[隱藏歌手2](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")》
+    《[隱藏歌手2](../Page/隱藏歌手.md "wikilink")》
   - 2014年2月8日：KBS2《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2014年3月15日：KBS2
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
-  - 2014年6月16日：KBS2
-    《[大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")》
+  - 2014年6月16日：KBS2 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》
   - 2014年7月5日：KBS2
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
   - 2014年7月11日：KBS2
@@ -268,49 +264,44 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2015年6月3日：MBC 《[黃金漁場 Radio
     Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
   - 2015年8月28日：Mnet 《[Show Me The Money
-    4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink")》
+    4](../Page/Show_Me_The_Money_4.md "wikilink")》
   - 2015年9月20日－11月22日：MBC
     《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
   - 2015年11月20日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2015年12月1日：JTBC 《[Two Yoo Project - Sugar
     Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
-  - 2015年12月12日：JTBC
-    《[隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")4》
+  - 2015年12月12日：JTBC 《[隱藏歌手](../Page/隱藏歌手.md "wikilink")4》
   - 2015年12月24日：[Mnet](../Page/Mnet媒體.md "wikilink")
     《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")2》
   - 2015年12月25日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
-  - 2016年1月16日：JTBC
-    《[隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")4》
+  - 2016年1月16日：JTBC 《[隱藏歌手](../Page/隱藏歌手.md "wikilink")4》
   - 2016年2月4日：[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
     《[Happy Together](../Page/歡樂在一起.md "wikilink")》
   - 2016年2月10日：[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")
-    《[Vocal
-    戰爭：神的聲音](https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音 "wikilink")》
+    《[Vocal 戰爭：神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》
   - 2016年3月29日：JTBC 《[Two Yoo Project - Sugar
     Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
   - 2016年3月30日－8月15日：SBS 《[Vocal
-    戰爭：神的聲音](https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音 "wikilink")》
+    戰爭：神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》
   - 2016年4月8日：[湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")
     《[我是歌手第四季](../Page/我是歌手_\(第四季\).md "wikilink")》
   - 2016年5月6日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2016年6月24日：Mnet 《[Show Me The Money
-    5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")》
+    5](../Page/Show_Me_The_Money_5.md "wikilink")》
   - 2016年8月7日－8月14日：SBS 《[Fantastic
     Duo](../Page/Fantastic_Duo.md "wikilink")》
   - 2016年9月22日－12月8日：[Mnet](../Page/Mnet媒體.md "wikilink") 《》
   - 2016年12月19日－12月26日：JTBC
     《[拜託了冰箱](https://zh.wikipedia.org/wiki/拜託了冰箱 "wikilink")》
-  - 2017年5月22日：KBS2
-    《[大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")》
+  - 2017年5月22日：KBS2 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》
   - 2017年6月10日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
-  - 2017年6月14日：JTBC
-    《[請給一頓飯](https://zh.wikipedia.org/wiki/請給一頓飯 "wikilink")》
+  - 2017年6月14日：JTBC 《[請給一頓飯](../Page/請給一頓飯.md "wikilink")》
   - 2017年8月6日－2017年8月13日：SBS 《[Fantastic Duo
-    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》
+    2](../Page/Fantastic_Duo_2.md "wikilink")》
   - 2017年9月23日：SBS 《[朴軫永的Party
     People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")》
   - 2017年9月25日 - 10月30日：tvN
@@ -319,8 +310,7 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
     《[Happy Together](../Page/歡樂在一起.md "wikilink")》
   - 2018年1月21日：JTBC 《[Two Yoo Project - Sugar
     Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") 第二季》
-  - 2018年5月25日 - 6月29日：Mnet 《[The
-    Call](https://zh.wikipedia.org/wiki/The_Call "wikilink")》
+  - 2018年5月25日 - 6月29日：Mnet 《[The Call](../Page/The_Call.md "wikilink")》
   - 2018年10月5日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - 2018年12月15日：JTBC 《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》
@@ -328,7 +318,7 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
     《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")5》
   - 2019年3月22日：KBS2
     《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
-  - 2019年3月24日：Olive《[所有人的廚房](https://zh.wikipedia.org/wiki/所有人的廚房 "wikilink")》
+  - 2019年3月24日：Olive《[所有人的廚房](../Page/所有人的廚房.md "wikilink")》
   - 2019年4月4日：tvN《[人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")》
   - 2019年4月27日：KBS2
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》

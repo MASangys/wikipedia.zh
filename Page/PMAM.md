@@ -1,11 +1,11 @@
-[周定緯](../Page/周定緯.md "wikilink"){{、w}}[張兆志](https://zh.wikipedia.org/wiki/張兆志 "wikilink"){{、w}}
+[周定緯](../Page/周定緯.md "wikilink"){{、w}}[張兆志](../Page/張兆志.md "wikilink"){{、w}}
 [陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[謝依霖](https://zh.wikipedia.org/wiki/謝依霖 "wikilink"){{、w}}[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink"){{、w}}
 [張景嵐](../Page/張景嵐.md "wikilink"){{、w}}[方-{志}-友](../Page/方志友.md "wikilink"){{、w}}[夏語心](../Page/夏語心.md "wikilink"){{、w}}
-[陳艾琳](https://zh.wikipedia.org/wiki/陳艾琳 "wikilink") | judges = | voices
-= | narrated = | theme_music_composer = | opentheme = | endtheme = |
-composer = | country =  | language =
-[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons =
-| num_episodes = 20集（中天版）
+[陳艾琳](../Page/陳艾琳.md "wikilink") | judges = | voices = | narrated = |
+theme_music_composer = | opentheme = | endtheme = | composer = |
+country =  | language =
+[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons
+= | num_episodes = 20集（中天版）
 40集（樂視版） | list_episodes = | slogan = | executive_producer = |
 supervising_producer = | producer = | editor = | location =  |
 cinematography = | camera = | runtime =
@@ -18,9 +18,9 @@ last_aired =  | channel_1 =
 picture_format_1 = | audio_format_1 = | first_run_1 = |
 first_aired_1 =  | last_aired_1 =  | preceded_by =
 [PM10-AM03](../Page/PM10-AM03.md "wikilink") | followed_by =
-[PMAM之美好偵探社](https://zh.wikipedia.org/wiki/PMAM之美好偵探社 "wikilink")
-| related = | website = | production_website = }}
-《**PMAM**》，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你](../Page/中天綜合台.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")。本劇為[PM10-AM03第二季](../Page/PM10-AM03.md "wikilink")。[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")。故事主要描述現代年輕人愛跑[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，崇尚[拜金](https://zh.wikipedia.org/wiki/拜金 "wikilink")、[夜生活的故事](../Page/夜生活.md "wikilink")。由[修杰楷](../Page/修杰楷.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、[張兆志](https://zh.wikipedia.org/wiki/張兆志 "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[方-{志}-友](../Page/方志友.md "wikilink")、[夏語心等主演](../Page/夏語心.md "wikilink")。2013年3月25日開鏡\[1\]，2014年10月20日在[中天綜合台播出](../Page/中天綜合台.md "wikilink")。
+[PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink") | related = |
+website = | production_website = }}
+《**PMAM**》，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你](../Page/中天綜合台.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")。本劇為[PM10-AM03第二季](../Page/PM10-AM03.md "wikilink")。[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")。故事主要描述現代年輕人愛跑[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，崇尚[拜金](https://zh.wikipedia.org/wiki/拜金 "wikilink")、[夜生活的故事](../Page/夜生活.md "wikilink")。由[修杰楷](../Page/修杰楷.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[方-{志}-友](../Page/方志友.md "wikilink")、[夏語心等主演](../Page/夏語心.md "wikilink")。2013年3月25日開鏡\[1\]，2014年10月20日在[中天綜合台播出](../Page/中天綜合台.md "wikilink")。
 
 ## 播出時間
 
@@ -76,7 +76,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張兆志" title="wikilink">張兆志</a></p></td>
+<p><a href="../Page/張兆志.md" title="wikilink">張兆志</a></p></td>
 <td><center>
 <p>豆哥</p></td>
 <td><p>過氣的明星，試圖重振歌星之途，後參加拳擊比賽出名，曾為了音音改行當上班族最後卻還是選擇做自己</p></td>
@@ -112,7 +112,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳艾琳" title="wikilink">陳艾琳</a></p></td>
+<p><a href="../Page/陳艾琳.md" title="wikilink">陳艾琳</a></p></td>
 <td><center>
 <p>小雯</p></td>
 <td><p>只喜歡年長的男人，把名利看很重的千金小姐，結束與JOSH的不倫關係</p></td>
@@ -121,7 +121,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳郁涵" title="wikilink">陳艾熙</a></p></td>
+<p><a href="../Page/陳郁涵.md" title="wikilink">陳艾熙</a></p></td>
 <td><center>
 <p>Lisa</p></td>
 <td><p>妹頭，慎言的女友，與翊琪（奈奈）鬧翻後合好，癌症末期，一個月後去世</p></td>
@@ -194,7 +194,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/姬天語" title="wikilink">姬天語</a></p></td>
+<p><a href="../Page/姬天語.md" title="wikilink">姬天語</a></p></td>
 <td><center>
 <p>姬天語</p></td>
 <td><p>和王慎言發生一夜情</p></td>
@@ -266,7 +266,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡允潔" title="wikilink">蔡允潔</a></p></td>
+<p><a href="../Page/蔡允潔.md" title="wikilink">蔡允潔</a></p></td>
 <td><center>
 <p>試鏡女孩</p></td>
 <td><p>|與小淨一同試鏡的女孩，後代替小淨參加第二階段的面試</p></td>
@@ -446,7 +446,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃逸祥" title="wikilink">黃逸祥</a></p></td>
+<p><a href="../Page/黃逸祥.md" title="wikilink">黃逸祥</a></p></td>
 <td><center>
 <p>逸祥</p></td>
 <td><p>小雯認識的宅男，幫小淨破解皮卡丘電腦的男生</p></td>
@@ -491,7 +491,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳彥銘_(製作人)" title="wikilink">陳彥銘</a></p></td>
+<p><a href="../Page/陳彥銘_(製作人).md" title="wikilink">陳彥銘</a></p></td>
 <td><center>
 <p>B2哥</p></td>
 <td><p>豆哥上康熙來了的製作人</p></td>
@@ -662,7 +662,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張瑋庭" title="wikilink">張瑋庭</a></p></td>
+<p><a href="../Page/張瑋庭.md" title="wikilink">張瑋庭</a></p></td>
 <td><center>
 <p>becky</p></td>
 <td><p>豆哥的同事</p></td>
@@ -698,7 +698,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/孫尤安" title="wikilink">孫尤安</a></p></td>
+<p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></td>
 <td><center>
 <p>Yoanna</p></td>
 <td><p>慎言面試的經理</p></td>
@@ -725,7 +725,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙舜" title="wikilink">趙舜</a></p></td>
+<p><a href="../Page/趙舜.md" title="wikilink">趙舜</a></p></td>
 <td><center>
 <p>舜哥</p></td>
 <td><p>幫助豆哥轉幕後</p></td>
@@ -752,7 +752,7 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/解婕翎" title="wikilink">解婕翎</a></p></td>
+<p><a href="../Page/解婕翎.md" title="wikilink">解婕翎</a></p></td>
 <td><center>
 <p>解婕翎</p></td>
 <td><p>被香蕉和阿虎灌酒</p></td>
@@ -824,15 +824,15 @@ first_aired_1 =  | last_aired_1 =  | preceded_by =
 
 ## 宣傳
 
-|            |                                                           |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ---------- | --------------------------------------------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **日期**     | **節目**                                                    | **主題**           | **參與演員**                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 2013年7月9日  | 《[康熙來了](../Page/康熙來了.md "wikilink")》                      | 情人眼中無法接受的誇張行徑    | [B2](https://zh.wikipedia.org/wiki/陳彥銘_\(製作人\) "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[張兆志](https://zh.wikipedia.org/wiki/張兆志 "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、大飛、[陳漢典](../Page/陳漢典.md "wikilink")、阿迪、[謝依霖](https://zh.wikipedia.org/wiki/謝依霖 "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、陳艾琳、[夏語心](../Page/夏語心.md "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[許維恩](../Page/許維恩.md "wikilink")、鍾佩樺（小花） |
-| 2013年7月23日 | 《[綜藝大熱門](https://zh.wikipedia.org/wiki/綜藝大熱門 "wikilink")》 | 神童踢館 藝人們能接招嗎?\!  | 周定緯、陳艾熙                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| 2013年7月26日 | 江湖傳說                                                      | 人見人怕夜市殺手來了       | 周定緯、陳艾熙、[方-{志}-友](../Page/方志友.md "wikilink")、大飛、張景嵐、[劉雨柔](../Page/劉雨柔.md "wikilink")                                                                                                                                                                                                                                                                                                                                                           |
-| 2013年8月1日  | 《[大學生了沒](../Page/大學生了沒.md "wikilink")》                    | 她們都是想嫁入豪門的女大生?\! | 修杰楷、張兆志、大飛、陳艾熙、陳艾琳、[林可彤](../Page/林可彤.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                                            |
-| 2013年8月6日  | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》 | 百分百遊戲王           | 周定緯、陳艾琳、大飛、小花                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|            |                                                           |                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|            |                                                           |                  |                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------- | --------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **日期**     | **節目**                                                    | **主題**           | **參與演員**                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2013年7月9日  | 《[康熙來了](../Page/康熙來了.md "wikilink")》                      | 情人眼中無法接受的誇張行徑    | [B2](../Page/陳彥銘_\(製作人\).md "wikilink")、[修杰楷](../Page/修杰楷.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、大飛、[陳漢典](../Page/陳漢典.md "wikilink")、阿迪、[謝依霖](https://zh.wikipedia.org/wiki/謝依霖 "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、陳艾琳、[夏語心](../Page/夏語心.md "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[許維恩](../Page/許維恩.md "wikilink")、鍾佩樺（小花） |
+| 2013年7月23日 | 《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》                    | 神童踢館 藝人們能接招嗎?\!  | 周定緯、陳艾熙                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 2013年7月26日 | 江湖傳說                                                      | 人見人怕夜市殺手來了       | 周定緯、陳艾熙、[方-{志}-友](../Page/方志友.md "wikilink")、大飛、張景嵐、[劉雨柔](../Page/劉雨柔.md "wikilink")                                                                                                                                                                                                                                                                                                                     |
+| 2013年8月1日  | 《[大學生了沒](../Page/大學生了沒.md "wikilink")》                    | 她們都是想嫁入豪門的女大生?\! | 修杰楷、張兆志、大飛、陳艾熙、陳艾琳、[林可彤](../Page/林可彤.md "wikilink")                                                                                                                                                                                                                                                                                                                                                      |
+| 2013年8月6日  | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》 | 百分百遊戲王           | 周定緯、陳艾琳、大飛、小花                                                                                                                                                                                                                                                                                                                                                                                            |
+|            |                                                           |                  |                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ## 製作團隊
 

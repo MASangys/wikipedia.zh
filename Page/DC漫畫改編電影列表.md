@@ -30,9 +30,9 @@
 </tr>
 <tr class="odd">
 <td><p>1966</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠侠_(1966年电影)" title="wikilink">蝙蝠俠</a></strong></p></td>
+<td><p><strong><a href="../Page/蝙蝠侠_(1966年电影).md" title="wikilink">蝙蝠俠</a></strong></p></td>
 <td><p><a href="../Page/二十世紀福斯.md" title="wikilink">二十世紀福斯</a></p></td>
-<td><p>1960年代的<a href="https://zh.wikipedia.org/wiki/蝙蝠侠_(1966年电影)" title="wikilink">蝙蝠俠電視劇系列</a>。</p></td>
+<td><p>1960年代的<a href="../Page/蝙蝠侠_(1966年电影).md" title="wikilink">蝙蝠俠電視劇系列</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>1978</p></td>
@@ -54,7 +54,7 @@
 </tr>
 <tr class="odd">
 <td><p>1983</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/超人III" title="wikilink">超人III</a></strong></p></td>
+<td><p><strong><a href="../Page/超人III.md" title="wikilink">超人III</a></strong></p></td>
 <td><p>華納兄弟</p></td>
 <td></td>
 </tr>
@@ -182,7 +182,7 @@
 <td><p>2013</p></td>
 <td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/超人：鋼鐵英雄" title="wikilink">超人：鋼鐵英雄</a></strong></p></td>
 <td><p>華納兄弟/傳奇影業//先兆暈厥電影公司</p></td>
-<td><p>重啟，開啟<a href="https://zh.wikipedia.org/wiki/DC擴展宇宙" title="wikilink">DC擴展宇宙</a>。</p></td>
+<td><p>重啟，開啟<a href="../Page/DC擴展宇宙.md" title="wikilink">DC擴展宇宙</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
@@ -191,7 +191,7 @@
 <td><p>原本傳奇影業也是製作公司之一，但後來隨著與<a href="https://zh.wikipedia.org/wiki/環球影業" title="wikilink">環球影業簽約而退出</a>。</p></td>
 </tr>
 <tr class="even">
-<td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/自殺突擊隊" title="wikilink">自殺突擊隊</a></strong></p></td>
+<td><p>♦<strong><a href="../Page/自殺突擊隊.md" title="wikilink">自殺突擊隊</a></strong></p></td>
 <td><p>華納兄弟/亞特拉斯娛樂</p></td>
 <td></td>
 <td></td>
@@ -204,7 +204,7 @@
 </tr>
 <tr class="even">
 <td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/神力女超人_(2017年電影)" title="wikilink">神力女超人</a></strong></p></td>
-<td><p>華納兄弟/<a href="https://zh.wikipedia.org/wiki/DC影業" title="wikilink">DC影業</a>/亞特拉斯娛樂/Cruel and Unusual Films/<a href="https://zh.wikipedia.org/wiki/騰訊影業" title="wikilink">騰訊影業</a>/<a href="https://zh.wikipedia.org/wiki/萬達影視傳媒有限公司" title="wikilink">萬達影視傳媒有限公司</a></p></td>
+<td><p>華納兄弟/<a href="../Page/DC影業.md" title="wikilink">DC影業</a>/亞特拉斯娛樂/Cruel and Unusual Films/<a href="https://zh.wikipedia.org/wiki/騰訊影業" title="wikilink">騰訊影業</a>/<a href="https://zh.wikipedia.org/wiki/萬達影視傳媒有限公司" title="wikilink">萬達影視傳媒有限公司</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -216,9 +216,9 @@
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/電影少年悍將GO！" title="wikilink">電影少年悍將GO！</a></strong></p></td>
+<td><p><strong><a href="../Page/電影少年悍將GO！.md" title="wikilink">電影少年悍將GO！</a></strong></p></td>
 <td><p>華納兄弟/华纳动画集团/DC影業/拉特帕克-沙丘娛樂</p></td>
-<td><p>动画剧集《<a href="https://zh.wikipedia.org/wiki/少年悍將GO！" title="wikilink">少年悍將GO！</a>》电影版</p></td>
+<td><p>动画剧集《<a href="../Page/少年悍將GO！.md" title="wikilink">少年悍將GO！</a>》电影版</p></td>
 </tr>
 <tr class="odd">
 <td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/水行俠_(電影)" title="wikilink">水行俠</a></strong></p></td>
@@ -240,7 +240,7 @@
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/小丑_(電影)" title="wikilink">小丑</a></strong></p></td>
+<td><p><strong><a href="../Page/小丑_(電影).md" title="wikilink">小丑</a></strong></p></td>
 <td><p>華納兄弟/DC影業/<a href="https://zh.wikipedia.org/wiki/威秀電影" title="wikilink">威秀電影</a></p></td>
 <td><p>後期製作中。</p></td>
 </tr>
@@ -512,13 +512,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠：黑暗騎士歸來_(動畫電影)" title="wikilink">蝙蝠俠: 黑暗騎士歸來－上集</a></strong></p></td>
+<td><p><strong><a href="../Page/蝙蝠俠：黑暗騎士歸來_(動畫電影).md" title="wikilink">蝙蝠俠: 黑暗騎士歸來－上集</a></strong></p></td>
 <td><p>改編自《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠:黑暗騎士歸來" title="wikilink">蝙蝠俠:黑暗騎士歸來</a>》內容。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠：黑暗騎士歸來_(動畫電影)" title="wikilink">蝙蝠俠: 黑暗騎士歸來－下集</a></strong></p></td>
+<td><p><strong><a href="../Page/蝙蝠俠：黑暗騎士歸來_(動畫電影).md" title="wikilink">蝙蝠俠: 黑暗騎士歸來－下集</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -528,7 +528,7 @@
 </tr>
 <tr class="even">
 <td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/正義聯盟：閃電俠之逆轉" title="wikilink">正義聯盟：閃電俠之逆轉</a></strong></p></td>
-<td><p>取自於《<a href="https://zh.wikipedia.org/wiki/閃點_(漫畫)" title="wikilink">閃點</a>》漫畫情節內容。</p></td>
+<td><p>取自於《<a href="../Page/閃點_(漫畫).md" title="wikilink">閃點</a>》漫畫情節內容。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -542,13 +542,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠之子" title="wikilink">蝙蝠俠之子</a></strong></p></td>
+<td><p>♦<strong><a href="../Page/蝙蝠俠之子.md" title="wikilink">蝙蝠俠之子</a></strong></p></td>
 <td><p>改变自由格兰特·莫里森编剧的漫画《蝙蝠侠与其子》故事线。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠：血濺亞克漢" title="wikilink">蝙蝠俠：血濺阿卡漢</a></strong></p></td>
-<td><p>以遊戲《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢" title="wikilink">蝙蝠俠：阿卡漢</a>》系列為基準。</p></td>
+<td><p>以遊戲《<a href="../Page/蝙蝠俠：阿卡漢.md" title="wikilink">蝙蝠俠：阿卡漢</a>》系列為基準。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -558,7 +558,7 @@
 </tr>
 <tr class="even">
 <td><p>♦<strong></strong></p></td>
-<td><p>基於新52故事線「猫头鹰之夜」改編，《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠之子" title="wikilink">蝙蝠俠之子</a>》的續集。</p></td>
+<td><p>基於新52故事線「猫头鹰之夜」改編，《<a href="../Page/蝙蝠俠之子.md" title="wikilink">蝙蝠俠之子</a>》的續集。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -602,13 +602,13 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠：披風戰士歸來_(動畫電影)" title="wikilink">蝙蝠俠：披風鬥士歸來</a></strong></p></td>
+<td><p><strong><a href="../Page/蝙蝠俠：披風戰士歸來_(動畫電影).md" title="wikilink">蝙蝠俠：披風鬥士歸來</a></strong></p></td>
 <td><p>基於1960年代電視劇《》改編，於<a href="../Page/有限上映.md" title="wikilink">有限上映的方式發行</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p>♦<strong><a href="https://zh.wikipedia.org/wiki/黑暗正義聯盟_(電影)" title="wikilink">黑暗正義聯盟</a></strong></p></td>
+<td><p>♦<strong><a href="../Page/黑暗正義聯盟_(電影).md" title="wikilink">黑暗正義聯盟</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -622,7 +622,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蝙蝠俠與哈莉奎茵" title="wikilink">蝙蝠俠與哈莉奎茵</a></strong></p></td>
+<td><p><strong><a href="../Page/蝙蝠俠與哈莉奎茵.md" title="wikilink">蝙蝠俠與哈莉奎茵</a></strong></p></td>
 <td><p>與《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠：神秘的女蝙蝠俠" title="wikilink">蝙蝠俠：神秘的女蝙蝠俠</a>》相同，來自電視劇《<a href="https://zh.wikipedia.org/wiki/蝙蝠俠新冒險" title="wikilink">蝙蝠俠新冒險</a>》，可視為《蝙蝠俠新冒險》的第2部電影版。</p></td>
 <td></td>
 </tr>
@@ -647,7 +647,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/忍者蝙蝠俠" title="wikilink">忍者蝙蝠俠</a></strong></p></td>
+<td><p><strong><a href="../Page/忍者蝙蝠俠.md" title="wikilink">忍者蝙蝠俠</a></strong></p></td>
 <td><p>日本則作為院線電影公映。</p></td>
 <td></td>
 </tr>
@@ -1011,7 +1011,7 @@
   - [超人系列電影](https://zh.wikipedia.org/wiki/超人系列電影 "wikilink")
   - [蝙蝠俠系列電影](https://zh.wikipedia.org/wiki/蝙蝠俠系列電影 "wikilink")
   - [漫威漫畫改编電影列表](https://zh.wikipedia.org/wiki/漫威漫畫改编電影列表 "wikilink")
-  - [黑馬漫畫改編電影列表](https://zh.wikipedia.org/wiki/黑馬漫畫改編電影列表 "wikilink")
+  - [黑馬漫畫改編電影列表](../Page/黑馬漫畫改編電影列表.md "wikilink")
 
 ## 参考文獻
 

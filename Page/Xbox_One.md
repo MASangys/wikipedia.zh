@@ -48,8 +48,8 @@ RT核心等](../Page/Windows_RT.md "wikilink")3種不同的作業系統。
 
 一开始微软宣传Xbox One不具備[向下相容的能力](../Page/向下兼容.md "wikilink")。这是因为Xbox
 360採用的是[IBM的](../Page/IBM.md "wikilink")[PowerPC架構](../Page/PowerPC.md "wikilink")，Xbox
-One則改為使用了[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86-64](../Page/x86-64.md "wikilink")[Jaguar架构處理器](https://zh.wikipedia.org/wiki/AMD_Jaguar "wikilink")，两者的处理器采用了不同的核心架构。但Xbox
-One也不兼容同样使用了[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[x86架构](../Page/x86.md "wikilink")[Pentium
+One則改為使用了[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[Jaguar架构處理器](../Page/AMD_Jaguar.md "wikilink")，两者的处理器采用了不同的核心架构。但Xbox
+One也不兼容同样使用了[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")[Pentium
 III处理器的Xbox](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")。\[10\]
 
 而[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")2015年[E3展中却宣布Xbox](https://zh.wikipedia.org/wiki/E3 "wikilink")
@@ -102,7 +102,7 @@ One觀看電視。另外，Xbox One還支援[Skype線上語音交談功能](../P
 ### Xbox One S
 
 Xbox One S取消了外置电源變壓器改用内置电源，尺寸大幅缩小了40%并可以竖放，支持[Ultra
-HD藍光视频输出和HDR模式](https://zh.wikipedia.org/wiki/超高清蓝光光碟 "wikilink")，GPU主频提升了约7%。為第一款支援Ultra
+HD藍光视频输出和HDR模式](../Page/超高清蓝光光碟.md "wikilink")，GPU主频提升了约7%。為第一款支援Ultra
 HD藍光的遊戲機；微軟即日起宣布將於2019年5月8日發售無光碟、全數位版Xbox One S主機。\[13\]
 
 ### Xbox One X
@@ -112,7 +112,7 @@ Scorpio)，最早在2016年6月14日的E3发布会上宣布。此主机拥有6TF
 One的4.6倍，索尼PS4的3.26倍，该主机在2017年11月7日上市。Digital Foundry
 受邀參加xbox技術預覽後釋出更為詳細的主機規格：2.3GHz訂製8核心CPU、GPU為訂製的AMD
 Polaris核心，內含40個計算單元(compute units)，時脈為1172Mhz。記憶體為12GB
-GDDR5，[記憶體頻寬](https://zh.wikipedia.org/wiki/内存带宽 "wikilink")326GB/s，其中3GB做為系統保留，遊戲可用記憶體為9GB。\[14\]Xbox
+GDDR5，[記憶體頻寬](../Page/内存带宽.md "wikilink")326GB/s，其中3GB做為系統保留，遊戲可用記憶體為9GB。\[14\]Xbox
 One X為了最佳化Direct3D 12還另外增加了指令處理器(Command
 Processor)專門處理一些較高頻率的API呼叫，例如繪圖呼叫指令(Draw
 calls)，如此得以大幅降低繪圖時CPU的使用率。\[15\]主机散热方面采用了液體冷卻均熱板散熱技術。\[16\]

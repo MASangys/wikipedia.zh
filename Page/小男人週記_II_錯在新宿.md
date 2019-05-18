@@ -11,10 +11,10 @@
 | [文雋](../Page/文雋.md "wikilink")                      | Q太郎                    |
 | [黎彼得](../Page/黎彼得.md "wikilink")                    | 大古惑                    |
 | [曾江](../Page/曾江.md "wikilink")                      | 曾先生，梁寬老闆               |
-| [周美鳳](https://zh.wikipedia.org/wiki/周美鳳 "wikilink") | Q太郎太太                  |
+| [周美鳳](../Page/周美鳳.md "wikilink")                    | Q太郎太太                  |
 | [馮意清](https://zh.wikipedia.org/wiki/馮意清 "wikilink") | Alan                   |
 | [楊振耀](../Page/楊振耀.md "wikilink")                    | K. K. 楊，Ann的上司。        |
-| [李中寧](https://zh.wikipedia.org/wiki/李中寧 "wikilink") | 李寧(John Li)，牙科醫生，溫敏儀男友 |
+| [李中寧](../Page/李中寧.md "wikilink")                    | 李寧(John Li)，牙科醫生，溫敏儀男友 |
 | [曾近榮](../Page/曾近榮.md "wikilink")                    | 婚禮註冊官                  |
 | [陳慧儀](../Page/陳慧儀.md "wikilink")                    | Fanny，大古惑女友            |
 | [葛民輝](../Page/葛民輝.md "wikilink")                    | 禮物送遞員                  |

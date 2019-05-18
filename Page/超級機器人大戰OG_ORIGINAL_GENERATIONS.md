@@ -51,13 +51,13 @@ DC戰爭以地球連邦的勝利作結，但比安博士預言的外星人「侵
 ## 參戰作品
 
   - DC戰爭系列
-      - [第2次超級機器人大戰](https://zh.wikipedia.org/wiki/第2次超級機器人大戰 "wikilink")
-      - [第3次超級機器人大戰](https://zh.wikipedia.org/wiki/第3次超級機器人大戰 "wikilink")
-      - [第4次超級機器人大戰](https://zh.wikipedia.org/wiki/第4次超級機器人大戰 "wikilink")
-      - [超級機器人大戰F／完結編](https://zh.wikipedia.org/wiki/超級機器人大戰F "wikilink")
+      - [第2次超級機器人大戰](../Page/第2次超級機器人大戰.md "wikilink")
+      - [第3次超級機器人大戰](../Page/第3次超級機器人大戰.md "wikilink")
+      - [第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")
+      - [超級機器人大戰F／完結編](../Page/超級機器人大戰F.md "wikilink")
   - α系列
-      - [超級機器人大戰α](https://zh.wikipedia.org/wiki/超級機器人大戰α "wikilink")
-      - [超級機器人大戰α外傳](https://zh.wikipedia.org/wiki/超級機器人大戰α外傳 "wikilink")
+      - [超級機器人大戰α](../Page/超級機器人大戰α.md "wikilink")
+      - [超級機器人大戰α外傳](../Page/超級機器人大戰α外傳.md "wikilink")
       - [第2次超級機器人大戰α](../Page/第2次超級機器人大戰α.md "wikilink")
       - [第3次超級機器人大戰α 終焉之銀河](../Page/第3次超級機器人大戰α_終焉之銀河.md "wikilink")
         （新參戰）

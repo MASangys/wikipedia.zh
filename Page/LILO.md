@@ -91,7 +91,7 @@ LILO可以在设备上写入主引导记录：
   - [Linux](../Page/Linux.md "wikilink")
   - [Boot loader](https://zh.wikipedia.org/wiki/Boot_loader "wikilink")
   - [GNU GRUB](../Page/GNU_GRUB.md "wikilink")
-  - [SYSLINUX](https://zh.wikipedia.org/wiki/SYSLINUX "wikilink")
+  - [SYSLINUX](../Page/SYSLINUX.md "wikilink")
   - [NTLDR](../Page/NTLDR.md "wikilink")
   - [SILO](https://zh.wikipedia.org/wiki/SILO_\(boot_loader\) "wikilink")
   - [PALO](https://zh.wikipedia.org/wiki/Palo_\(bootloader\) "wikilink")

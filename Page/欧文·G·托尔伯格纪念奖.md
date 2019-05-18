@@ -1,4 +1,4 @@
-**欧文·G·托尔伯格纪念奖**（）是[电影艺术与科学学院颁发的一个专门针对](../Page/电影艺术与科学学院.md "wikilink")“制作出多部高质量电影的制片人”的奖项，以[米高梅公司的著名](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")[欧文·托尔伯格](https://zh.wikipedia.org/wiki/欧文·托尔伯格 "wikilink")（）命名，与电影艺术与科学学院颁奖的[简·赫尔索特人道精神奖](https://zh.wikipedia.org/wiki/简·赫尔索特人道精神奖 "wikilink")（）一样，欧文·G·托尔伯格纪念奖也是不定期颁发的，至今（截止[第85届学院奖](https://zh.wikipedia.org/wiki/第85届学院奖 "wikilink")）为止一共已经颁发了39次。
+**欧文·G·托尔伯格纪念奖**（）是[电影艺术与科学学院颁发的一个专门针对](../Page/电影艺术与科学学院.md "wikilink")“制作出多部高质量电影的制片人”的奖项，以[米高梅公司的著名](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")[欧文·托尔伯格](../Page/欧文·托尔伯格.md "wikilink")（）命名，与电影艺术与科学学院颁奖的[简·赫尔索特人道精神奖](../Page/简·赫尔索特人道精神奖.md "wikilink")（）一样，欧文·G·托尔伯格纪念奖也是不定期颁发的，至今（截止[第85届学院奖](https://zh.wikipedia.org/wiki/第85届学院奖 "wikilink")）为止一共已经颁发了39次。
 
 ## 获奖者名单\[1\]
 
@@ -58,7 +58,7 @@
   - 1994
     [第67届学院奖](https://zh.wikipedia.org/wiki/第67届学院奖 "wikilink")[克林特·伊斯特伍德](https://zh.wikipedia.org/wiki/克林特·伊斯特伍德 "wikilink")
   - 1996
-    [第69届学院奖](https://zh.wikipedia.org/wiki/第69届学院奖 "wikilink")[索尔·扎恩兹](https://zh.wikipedia.org/wiki/索尔·扎恩兹 "wikilink")
+    [第69届学院奖](https://zh.wikipedia.org/wiki/第69届学院奖 "wikilink")[索尔·扎恩兹](../Page/索尔·扎恩兹.md "wikilink")
   - 1998
     [第71届学院奖](https://zh.wikipedia.org/wiki/第71届学院奖 "wikilink")[诺曼·杰威森](../Page/诺曼·杰威森.md "wikilink")
   - 1999

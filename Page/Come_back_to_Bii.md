@@ -1,6 +1,6 @@
 《**Come back to
 Bii**》是韓裔[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[Bii](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")（畢書盡）的第二張專輯，是他自2010年《[Bii
-Story](https://zh.wikipedia.org/wiki/Bii_Story "wikilink")》後的相隔三年的作品。這大碟在2013年4月26日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在5月16日推出\[2\]。
+Story](../Page/Bii_Story.md "wikilink")》後的相隔三年的作品。這大碟在2013年4月26日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在5月16日推出\[2\]。
 
 專輯第一主打《Come Back To Me》在4月18日於[i
 radio首播派台](https://zh.wikipedia.org/wiki/i_radio "wikilink")\[3\]，其音樂錄影帶則在4月22日在[FOX娛樂台首播](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")\[4\]。

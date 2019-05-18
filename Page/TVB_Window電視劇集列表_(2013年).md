@@ -223,7 +223,7 @@ Wong Fei Hong Returns</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>23/07-<br />
 19/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃飛鴻系列之鐵膽梁寬" title="wikilink">黃飛鴻系列之鐵膽梁寬</a><br />
+<td style="text-align: center;"><p><a href="../Page/黃飛鴻系列之鐵膽梁寬.md" title="wikilink">黃飛鴻系列之鐵膽梁寬</a><br />
 Master of Martial Arts</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -386,7 +386,7 @@ Crime Fighters</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>02/07-<br />
 13/07</p></td>
-<td style="text-align: center;"><p>我們的...方中信-<a href="https://zh.wikipedia.org/wiki/生死訟" title="wikilink">生死訟</a><br />
+<td style="text-align: center;"><p>我們的...方中信-<a href="../Page/生死訟.md" title="wikilink">生死訟</a><br />
 The Intangible Truth</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -498,7 +498,7 @@ When A Man Loves A Woman</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>24/10-<br />
 26/10</p></td>
-<td style="text-align: center;"><p>我們的...吳鎮宇-<a href="https://zh.wikipedia.org/wiki/香港雲起時" title="wikilink">香港雲起時</a><br />
+<td style="text-align: center;"><p>我們的...吳鎮宇-<a href="../Page/香港雲起時.md" title="wikilink">香港雲起時</a><br />
 Fate in Our Hands</p></td>
 <td style="text-align: center;"><p>5</p></td>
 <td style="text-align: center;"><div style="text-align: center;">

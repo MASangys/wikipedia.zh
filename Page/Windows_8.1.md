@@ -26,7 +26,7 @@ Windows 8.1後續系統為[Windows
 
 <!-- end list -->
 
-  - [处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")：[x86或](../Page/x86.md "wikilink")[x64](https://zh.wikipedia.org/wiki/x64 "wikilink")
+  - [处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")：[x86或](https://zh.wikipedia.org/wiki/x86 "wikilink")[x64](https://zh.wikipedia.org/wiki/x64 "wikilink")
     1.1 GHz及以上
   - [内存](https://zh.wikipedia.org/wiki/内存 "wikilink")：1 GB（32位元）或2
     GB（64位元）

@@ -17,7 +17,7 @@ N-亚硝基二甲胺急性中毒可引起[肝脏损伤](https://zh.wikipedia.org
   - 1978年美国急性N2中毒案例
       - 该案例已收入美国官方文献并作了简述：美国卫生部和环境署联合发布的关于N2的毒物说明《TOXICOLOGICAL PROFILE
         FOR N-NITROSODIMETHYLAMINE》
-  - 2013年[复旦投毒案](https://zh.wikipedia.org/wiki/复旦投毒案 "wikilink")（林森浩投毒案）
+  - 2013年[复旦投毒案](../Page/复旦投毒案.md "wikilink")（林森浩投毒案）
   - 2018年[加拿大皇后大学毒杀未遂案](https://zh.wikipedia.org/wiki/加拿大皇后大学 "wikilink")\[5\]
 
 ### 其他案例

@@ -20,7 +20,7 @@ RBS
 
 [16th_Air_Defence_Regiment_soldiers_with_RBS-70_July_2011.jpg](https://zh.wikipedia.org/wiki/File:16th_Air_Defence_Regiment_soldiers_with_RBS-70_July_2011.jpg "fig:16th_Air_Defence_Regiment_soldiers_with_RBS-70_July_2011.jpg")
 RBS
-70是一種短程防空（，簡稱：SHORAD）激光[乘波導引導彈系統](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")。操作員會從當地的SLT（作戰控制終端，大小相當於一台筆記本電腦）收到目標的位置指示。SLT會通過由一個雷達站（[PS90，PS70](https://zh.wikipedia.org/wiki/S-70長頸鹿雷達系統 "wikilink")）所發出編碼廣播或其他的一些信息收集來源接收信息。當目標已經由操作員所鎖定了，他／她可以關閉保險，同時間切換至主要激光，並發出[敵友識別信號以及儘可能地不會導致誤射發生](https://zh.wikipedia.org/wiki/敵友識別系統 "wikilink")。操作者需要確保他／她在射擊時能保持一個良好的軌道。在導彈發射以後，會跟隨著從瞄準具發出的激光光束，並不斷調整它的位置以保持在光束中。這投注了很大的壓力在操作員上，這是因為需要具有一個非常穩定的瞄準。如果導彈是攻擊30米範圍內的目標，就具有95％擊殺保證。
+70是一種短程防空（，簡稱：SHORAD）激光[乘波導引導彈系統](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")。操作員會從當地的SLT（作戰控制終端，大小相當於一台筆記本電腦）收到目標的位置指示。SLT會通過由一個雷達站（[PS90，PS70](https://zh.wikipedia.org/wiki/S-70長頸鹿雷達系統 "wikilink")）所發出編碼廣播或其他的一些信息收集來源接收信息。當目標已經由操作員所鎖定了，他／她可以關閉保險，同時間切換至主要激光，並發出[敵友識別信號以及儘可能地不會導致誤射發生](../Page/敵友識別系統.md "wikilink")。操作者需要確保他／她在射擊時能保持一個良好的軌道。在導彈發射以後，會跟隨著從瞄準具發出的激光光束，並不斷調整它的位置以保持在光束中。這投注了很大的壓力在操作員上，這是因為需要具有一個非常穩定的瞄準。如果導彈是攻擊30米範圍內的目標，就具有95％擊殺保證。
 
 噴口設在導彈的上腹部，而激光光束搭載系統則被安裝在尾部，這使它非常不易出現噴口堵塞。
 
@@ -132,13 +132,13 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
   -
   - [9K32「箭-2」](../Page/9K32便携式防空导弹.md "wikilink")（SA-7）
 
-  - [9K34「箭-3」](https://zh.wikipedia.org/wiki/9K34便攜式防空飛彈 "wikilink")（SA-14）
+  - [9K34「箭-3」](../Page/9K34便攜式防空飛彈.md "wikilink")（SA-14）
 
   - [9K38「针」／9K310「针-M」／9K338「超級針」](../Page/SA-18防空飛彈.md "wikilink")（SA-18／SA-16／SA-24）
 
-  - [9K333「柳樹」](https://zh.wikipedia.org/wiki/9K333柳樹便攜式防空飛彈 "wikilink")（SA-25）
+  - [9K333「柳樹」](../Page/9K333柳樹便攜式防空飛彈.md "wikilink")（SA-25）
 
-  - [PZR 「雷霆」](https://zh.wikipedia.org/wiki/雷霆便攜式防空導彈 "wikilink")（Grom）
+  - [PZR 「雷霆」](../Page/雷霆便攜式防空導彈.md "wikilink")（Grom）
 
   - [FIM-43「紅眼」](../Page/FIM-43紅眼便攜式防空飛彈.md "wikilink")
 
@@ -154,7 +154,7 @@ RBS 70已不斷更新和完善，第一代版本（Mk 0）戰鬥有效射程較�
 
   - [红缨-6便携式防空导弹](../Page/红缨-6便携式防空导弹.md "wikilink")
 
-  - [91式便攜地對空導彈](https://zh.wikipedia.org/wiki/91式便攜地對空導彈 "wikilink")
+  - [91式便攜地對空導彈](../Page/91式便攜地對空導彈.md "wikilink")
 
 ## 外部連結
 

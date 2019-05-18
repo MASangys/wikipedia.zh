@@ -1,14 +1,16 @@
 **iPod Touch 5**
 是[苹果公司設計的第五代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于
-iPod 系列。 它使用與 [iPhone 5](../Page/iPhone_5.md "wikilink") 一样的 4 吋
+iPod 系列。 它使用與 [iPhone
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 一样的 4 吋
 [Retina](https://zh.wikipedia.org/wiki/Retina "wikilink") 螢幕和 [Apple
 A5](../Page/Apple_A5.md "wikilink")
 处理器；搭載了五百萬像素的後置攝像頭，支援[自動對焦並配有](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")
 [LED](https://zh.wikipedia.org/wiki/LED "wikilink")
 [閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，最大[光圈為](../Page/光圈.md "wikilink")
 f/2.4。支援
-[Facetime](../Page/Facetime.md "wikilink")、[Siri](../Page/Siri.md "wikilink")
-及 [iCloud](../Page/iCloud.md "wikilink")。連接器改用全新的 [Lightning
+[Facetime](https://zh.wikipedia.org/wiki/Facetime "wikilink")、[Siri](../Page/Siri.md "wikilink")
+及 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")。連接器改用全新的
+[Lightning
 接口](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")，起初只提供
 32 和 64 GB
 兩個版本，不過後來[蘋果公司又推出了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
@@ -29,12 +31,12 @@ iPod Touch Loop。
 <tbody>
 <tr class="odd">
 <td><p>|初始作業系統</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 6.0</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 6.1.3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 6.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 6.1.3</p></td>
 </tr>
 <tr class="even">
 <td><p>|最新作業系統</p></td>
-<td><p><a href="../Page/iOS.md" title="wikilink">iOS</a> 9.3.5</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 9.3.5</p></td>
 <td></td>
 </tr>
 <tr class="odd">

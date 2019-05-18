@@ -28,7 +28,7 @@
   - [THE GREAT VACATION VOL.1 〜SUPER BEST OF
     GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")
   - [rare collectives
-    vol.3](../Page/rare_collectives_vol.3.md "wikilink")
+    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")
 
 [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
 [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")

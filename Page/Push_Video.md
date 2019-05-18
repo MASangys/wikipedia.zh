@@ -1,12 +1,12 @@
 **Push
 Video**，意即主動的影音通報功能，為影像通報系統，提供事件的提醒消息和影片，以推播通知的方式在智慧型裝置上運用。此功能在手機系統上提供了一個「永遠在線」的能力。\[1\]功能的運用模式為在攝像機偵測到異常事件發生時的一定時間內，系統會主動將事件發生前預錄到事件發生後的錄影片段發送到使用者的行動裝置上頭。目前在運用在偵測器上，可廣泛應於家庭照護、防盜防災...等情境。事件被觸發後，各個手機即會啓動相對推播功能。\[2\]
-其為應用程式[EagleEyes的主要功能之一](https://zh.wikipedia.org/wiki/EagleEyes "wikilink")，同樣也適用於[Android以及](../Page/Android.md "wikilink")[iOS兩個平台](../Page/iOS.md "wikilink")，能在通知時滑動手機通知瞭解事件內容。\[3\]\[4\]\[5\]
+其為應用程式[EagleEyes的主要功能之一](https://zh.wikipedia.org/wiki/EagleEyes "wikilink")，同樣也適用於[Android以及](../Page/Android.md "wikilink")[iOS兩個平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，能在通知時滑動手機通知瞭解事件內容。\[3\]\[4\]\[5\]
 
 ## 歷史
 
 Push
 Video命名起源於[Blackberry的](https://zh.wikipedia.org/wiki/Blackberry "wikilink")[Push
-mail](../Page/Push_mail.md "wikilink")
+mail](https://zh.wikipedia.org/wiki/Push_mail "wikilink")
 。因功能類似，使用者不需另外登入伺服器確認有無新訊息，伺服器將會主動通知使用者。
 
 ## 功能簡述

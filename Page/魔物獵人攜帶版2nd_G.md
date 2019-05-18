@@ -1,13 +1,13 @@
 《**魔物獵人攜帶版2nd
 G**》（，）是於2008年3月27日在[日本發佈的一個](../Page/日本.md "wikilink")[魔物獵人系列遊戲](../Page/魔物獵人系列.md "wikilink")，其平台為[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")。之後，此遊戲被重新製成[Playstation
-Vita版本](../Page/Playstation_Vita.md "wikilink")，並在Playstation
-Store上發售。2014年5月，卡普空在[iOS平台發布了本作的移植版](../Page/iOS.md "wikilink")；加強了遊戲貼圖的精细度並為觸控螢幕提供了新的操作模式。
+Vita版本](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink")，並在Playstation
+Store上發售。2014年5月，卡普空在[iOS平台發布了本作的移植版](https://zh.wikipedia.org/wiki/iOS "wikilink")；加強了遊戲貼圖的精细度並為觸控螢幕提供了新的操作模式。
 
 ## 概述
 
 《魔物獵人攜帶版2nd
-G》是《[魔物獵人攜帶版2nd](https://zh.wikipedia.org/wiki/魔物獵人攜帶版2nd "wikilink")》的加強版，並且於2008年3月27日在[日本發佈](../Page/日本.md "wikilink")。於2008年[东京电玩展中](../Page/东京电玩展.md "wikilink")，[卡普空宣佈此遊戲將會於](../Page/卡普空.md "wikilink")2009年春在北美以「魔物獵人
+G》是《[魔物獵人攜帶版2nd](../Page/魔物獵人攜帶版2nd.md "wikilink")》的加強版，並且於2008年3月27日在[日本發佈](../Page/日本.md "wikilink")。於2008年[东京电玩展中](../Page/东京电玩展.md "wikilink")，[卡普空宣佈此遊戲將會於](../Page/卡普空.md "wikilink")2009年春在北美以「魔物獵人
 自由聯合」之名發佈。\[1\]於2009年[遊戲開發者大會中](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")，卡普空宣佈此遊戲將會於2009年6月23日北美發佈。\[2\]
 
 卡普空之後宣佈《魔物獵人攜帶版2nd G》PlayStation
@@ -46,7 +46,7 @@ G》在日本國外銷情慘淡。此遊戲在推出後首個月期間在日本�
     G官方網站](http://www.capcom.co.jp/monsterhunter/contents_P2ndG.html)
 
   - [魔物獵人攜帶版2nd G for
-    iOS](https://itunes.apple.com/jp/app/monster-hunter-portable-2nd/id639457826)在[iTunes上的页面](../Page/iTunes.md "wikilink")
+    iOS](https://itunes.apple.com/jp/app/monster-hunter-portable-2nd/id639457826)在[iTunes上的页面](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 
 [fr:Monster Hunter Freedom
 Unite](https://zh.wikipedia.org/wiki/fr:Monster_Hunter_Freedom_Unite "wikilink")

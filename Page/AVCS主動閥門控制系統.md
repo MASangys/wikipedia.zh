@@ -15,7 +15,7 @@ valve），在低速時關閉進氣口下半部以提高進氣流速而產生滾
 
   - [速霸陸](../Page/速霸陸.md "wikilink")
   - [可變氣門正時](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")
-  - [I-AVLS智慧氣門提升系統](https://zh.wikipedia.org/wiki/I-AVLS智慧氣門提升系統 "wikilink")
+  - [I-AVLS智慧氣門提升系統](../Page/I-AVLS智慧氣門提升系統.md "wikilink")
 
 ## 參考資料
 

@@ -12,7 +12,7 @@ School的](../Page/After_School.md "wikilink")[Raina和](../Page/Raina.md "wikil
 
 鍾炫是第一個公開的男性練習生，在Pledis在2011年3月公開徵選After School
 Boys的宣傳海報及影片首次亮相。\[8\]\[9\]
-6月，鍾炫和[姜東昊在節目](../Page/姜東昊.md "wikilink")《[大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
+6月，鍾炫和[姜東昊在節目](../Page/姜東昊.md "wikilink")《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
 
 鍾炫也參與師姐們多個的音樂作品，他擔任[After
 School](../Page/After_School.md "wikilink")〈Someone Is
@@ -24,10 +24,10 @@ School](../Page/After_School.md "wikilink") 一起登上 Ceci 雜誌和在2011�
 ### NU'EST
 
 2012年3月15日以JR（Junior Royal
-縮寫）為藝名，成為男子團體[NU'EST的隊長出道](../Page/NU'EST.md "wikilink")，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](https://zh.wikipedia.org/wiki/FACE_\(NU'EST單曲\) "wikilink")〉更是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達七千萬。
+縮寫）為藝名，成為男子團體[NU'EST的隊長出道](../Page/NU'EST.md "wikilink")，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達七千萬。
 
 2013年，以二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》和《[Sleep
-Talking](https://zh.wikipedia.org/wiki/Sleep_Talking "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST
+Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST
 走向成功之路，把不成功的原因歸咎於自己身上。
 
 同時，JR在個人方面也展開多元化的活動。在音樂方面，根據韓國音樂著作權協會，截至2016年12月他參與16首歌曲的作詞。\[20\]2016年，Pledis娛樂公開收錄於第五張迷你專輯《[CANVAS](https://zh.wikipedia.org/wiki/CANVAS "wikilink")》中JR與[旼炫的合作曲](https://zh.wikipedia.org/wiki/旼炫 "wikilink")〈Daybreak〉音樂錄影帶。二人均參與作詞，歌詞描述對喜歡的人的思念。\[21\]演戲方面，他曾在中國網路劇《[孤獨的美食家](https://zh.wikipedia.org/wiki/孤獨的美食家_\(中國電視劇\) "wikilink")》中客串，更是日本電影《》的主演之一。\[22\]
@@ -51,13 +51,13 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 即使沒有入選Wanna One，JR仍保持著極高的人氣。節目後續被選為未來最期待的PRODUCE 101
 (第二季)參加者\[32\]，PRODUCE 101
-(第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為綜藝節目《[夜行鬼怪](https://zh.wikipedia.org/wiki/夜行鬼怪 "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子對](../Page/LG雙子.md "wikilink")[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
+(第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為綜藝節目《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子對](../Page/LG雙子.md "wikilink")[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
 
 ## 音樂作品
 
   -
     <small>所屬團體之共同作品，請參閱
-    [NU'EST音樂作品列表](https://zh.wikipedia.org/wiki/NU'EST音樂作品列表 "wikilink")</small>
+    [NU'EST音樂作品列表](../Page/NU'EST音樂作品列表.md "wikilink")</small>
 
 ### 參與歌曲
 
@@ -66,7 +66,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 | 年份           | 發佈日               | 歌手                                                 | 歌名              | 備註                                                                                                                          |
 | 2010年        | 12月7日             | [After School](../Page/After_School.md "wikilink") | Someone Is You  | 男合音包括[金鍾炫](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink") 、[姜東昊](../Page/姜東昊.md "wikilink")、[崔珉起](../Page/崔珉起.md "wikilink") |
 | 2011年        | 6月21日             | [Uie](../Page/Uie.md "wikilink")                   | 쏙쏙쏙 (SokSokSok) | Feat                                                                                                                        |
-| 2017年        | 6月3日              | 國民的兒子                                              | Never\[38\]     | 以《[PRODUCE 101(第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》練習生身份參與                                      |
+| 2017年        | 6月3日              | 國民的兒子                                              | Never\[38\]     | 以《[PRODUCE 101(第二季)](../Page/PRODUCE_101_第二季.md "wikilink")》練習生身份參與                                                         |
 | 6月17日        | Produce 101 Final | Super Hot\[39\]                                    |                 |                                                                                                                             |
 | Always\[40\] |                   |                                                    |                 |                                                                                                                             |
 
@@ -90,7 +90,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>2012年</p></td>
 <td><p>3月15日</p></td>
 <td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/FACE_(NU&#39;EST單曲)" title="wikilink">FACE</a>》</p></td>
+<td><p>《<a href="../Page/FACE_(NU&#39;EST單曲).md" title="wikilink">FACE</a>》</p></td>
 <td><p>NU ESTABLISH STYLE TEMPO</p></td>
 <td><p>詞</p></td>
 <td></td>
@@ -100,7 +100,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>2013年</p></td>
 <td><p>8月22日</p></td>
 <td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Sleep_Talking" title="wikilink">Sleep Talking</a>》[42]</p></td>
+<td><p>《<a href="../Page/Sleep_Talking.md" title="wikilink">Sleep Talking</a>》[42]</p></td>
 <td><p>Beautiful Ghost</p></td>
 <td><p>詞</p></td>
 <td></td>
@@ -172,7 +172,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>2016年</p></td>
 <td><p>2月17日</p></td>
 <td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Q_is" title="wikilink">Q is</a>》</p></td>
+<td><p>《<a href="../Page/Q_is.md" title="wikilink">Q is</a>》</p></td>
 <td><p>나의 천국</p></td>
 <td><p>詞</p></td>
 <td><p><a href="../Page/姜東昊.md" title="wikilink">白虎：曲</a></p></td>
@@ -252,7 +252,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>2017年</p></td>
 <td><p>7月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/If_You_(NU&#39;EST_W單曲)" title="wikilink">IF You</a>》</p></td>
+<td><p>《<a href="../Page/If_You_(NU&#39;EST_W單曲).md" title="wikilink">IF You</a>》</p></td>
 <td><p>있다면</p></td>
 <td><p>詞</p></td>
 <td></td>
@@ -372,7 +372,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <tr class="even">
 <td><p>10月1日</p></td>
 <td><p>NU'EST W</p></td>
-<td><p>〈<a href="https://zh.wikipedia.org/wiki/I_Don&#39;t_Care（with_Spoonz）" title="wikilink">I Don't Care（with Spoonz）</a>〉</p></td>
+<td><p>〈<a href="../Page/I_Don&#39;t_Care（with_Spoonz）.md" title="wikilink">I Don't Care（with Spoonz）</a>〉</p></td>
 <td><p>I Don't Care（with Spoonz）</p></td>
 <td><p>詞</p></td>
 <td><p>白虎：詞曲、NU'EST W所有成員合作詞</p></td>
@@ -436,17 +436,17 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 ### 固定綜藝
 
-|                        |                                    |                                                                               |            |        |
-| ---------------------- | ---------------------------------- | ----------------------------------------------------------------------------- | ---------- | ------ |
-| **日期**                 | **電視台**                            | **節目名稱**                                                                      |            | **集數** |
-| 2017年4月7日-6月16日        | Mnet                               | 《[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")》 |            | EP1-11 |
-| 2017年8月6日-2018年3月18日   | [JTBC](../Page/JTBC.md "wikilink") | 《[夜行鬼怪](https://zh.wikipedia.org/wiki/夜行鬼怪 "wikilink")》                       | EP2 開始固定主持 | EP2-32 |
-| 2017年9月1日-11月16日       | tvN                                | 《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》                     | EP8 開始固定主持 | EP8-19 |
-| 2018年4月28日-5月19日       | E Channel                          | 《出生以來第一次》                                                                     |            | EP9-12 |
-| 2018年6月29日-9月14日       | JTBC2                              | 《[自討苦吃S](https://zh.wikipedia.org/wiki/自討苦吃 "wikilink")2》                     | S2 固定主持    | EP1-12 |
-| 2018年7月11日-8月29日       | Mnet                               | 《[Love Catcher](https://zh.wikipedia.org/wiki/Love_Catcher "wikilink")》       | 固定主持       | EP1-8  |
-| 2018年7月20日-            | JTBC                               | 《連線LIFE（中翻：網線生活）》                                                             | EP3 開始固定主持 | EP3-   |
-| 2018年12月20日-2019年1月24日 | Mnet                               | 《[不是你所認識的我](https://zh.wikipedia.org/wiki/不是你所認識的我 "wikilink")》               | 固定主持       | EP1-6  |
+|                        |                                    |                                                            |            |        |
+| ---------------------- | ---------------------------------- | ---------------------------------------------------------- | ---------- | ------ |
+| **日期**                 | **電視台**                            | **節目名稱**                                                   |            | **集數** |
+| 2017年4月7日-6月16日        | Mnet                               | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》 |            | EP1-11 |
+| 2017年8月6日-2018年3月18日   | [JTBC](../Page/JTBC.md "wikilink") | 《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》                       | EP2 開始固定主持 | EP2-32 |
+| 2017年9月1日-11月16日       | tvN                                | 《[奇怪的歌手](https://zh.wikipedia.org/wiki/奇怪的歌手 "wikilink")》  | EP8 開始固定主持 | EP8-19 |
+| 2018年4月28日-5月19日       | E Channel                          | 《出生以來第一次》                                                  |            | EP9-12 |
+| 2018年6月29日-9月14日       | JTBC2                              | 《[自討苦吃S](../Page/自討苦吃.md "wikilink")2》                     | S2 固定主持    | EP1-12 |
+| 2018年7月11日-8月29日       | Mnet                               | 《[Love Catcher](../Page/Love_Catcher.md "wikilink")》       | 固定主持       | EP1-8  |
+| 2018年7月20日-            | JTBC                               | 《連線LIFE（中翻：網線生活）》                                          | EP3 開始固定主持 | EP3-   |
+| 2018年12月20日-2019年1月24日 | Mnet                               | 《[不是你所認識的我](../Page/不是你所認識的我.md "wikilink")》               | 固定主持       | EP1-6  |
 
 ### 綜藝節目
 
@@ -466,7 +466,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <td><p>2012年</p></td>
 <td><p>4月16日</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/驚人的大會-Star_King" title="wikilink">驚人的大會-Star King</a></p></td>
+<td><p><a href="../Page/驚人的大會-Star_King.md" title="wikilink">驚人的大會-Star King</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -528,7 +528,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <tr class="odd">
 <td><p>11月4日-12月23日</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Master_Key" title="wikilink">Master Key</a></p></td>
+<td><p><a href="../Page/Master_Key.md" title="wikilink">Master Key</a></p></td>
 <td><p>EP4、6、8、11</p></td>
 <td></td>
 </tr>
@@ -564,7 +564,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <tr class="even">
 <td><p>6月9日</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意外的Q" title="wikilink">意外的Q</a></p></td>
+<td><p><a href="../Page/意外的Q.md" title="wikilink">意外的Q</a></p></td>
 <td><p>EP6</p></td>
 <td></td>
 </tr>
@@ -578,14 +578,14 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <tr class="even">
 <td><p>9月10日</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大國民脫口秀-你好" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
 <td><p>EP380</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>9月15日-9月22日</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戰鬥旅行" title="wikilink">戰鬥旅行</a></p></td>
+<td><p><a href="../Page/戰鬥旅行.md" title="wikilink">戰鬥旅行</a></p></td>
 <td><p>EP108-109</p></td>
 <td></td>
 </tr>
@@ -599,7 +599,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 <tr class="odd">
 <td><p>9月28日</p></td>
 <td><p>Mnet</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Kkondae_Live" title="wikilink">The Kkondae Live</a>[44]</p></td>
+<td><p><a href="../Page/The_Kkondae_Live.md" title="wikilink">The Kkondae Live</a>[44]</p></td>
 <td><p>EP1</p></td>
 <td></td>
 </tr>
@@ -697,13 +697,13 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 ### 參演音樂錄影帶
 
-|       |                                                                                       |                                              |                                                                                                                                                                                                        |    |
-| ----- | ------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -- |
-| 年份    | 發佈日                                                                                   | 歌手                                           | 歌名                                                                                                                                                                                                     | 備註 |
-| 2011年 | 3月31日                                                                                 | [Orange Caramel](../Page/橙子焦糖.md "wikilink") | Bangkok city\[47\]                                                                                                                                                                                     |    |
-| 7月20日 | [A.S.Blue](../Page/After_School.md "wikilink")                                        | Wonder Boy\[48\]                             | 曾在音樂節目伴舞                                                                                                                                                                                               |    |
-| 12月1日 | [孫淡妃](../Page/孫淡妃.md "wikilink") & [After School](../Page/After_School.md "wikilink") | LOVE LETTER\[49\]                            | Feat. [Ara](https://zh.wikipedia.org/wiki/柳娥羅 "wikilink"), [Hyelim](https://zh.wikipedia.org/wiki/Hello_Venus#成員資料 "wikilink"), [旼炫](../Page/黃旼炫.md "wikilink"), [東昊](../Page/姜東昊.md "wikilink")\[50\] |    |
-| 2012年 | 1月16日                                                                                 | Happy Pledis                                 | LOVE LETTER(PLEDIS BOYS VERSION\!)                                                                                                                                                                     |    |
+|       |                                                                                       |                                              |                                                                                                                                                                                     |    |
+| ----- | ------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
+| 年份    | 發佈日                                                                                   | 歌手                                           | 歌名                                                                                                                                                                                  | 備註 |
+| 2011年 | 3月31日                                                                                 | [Orange Caramel](../Page/橙子焦糖.md "wikilink") | Bangkok city\[47\]                                                                                                                                                                  |    |
+| 7月20日 | [A.S.Blue](../Page/After_School.md "wikilink")                                        | Wonder Boy\[48\]                             | 曾在音樂節目伴舞                                                                                                                                                                            |    |
+| 12月1日 | [孫淡妃](../Page/孫淡妃.md "wikilink") & [After School](../Page/After_School.md "wikilink") | LOVE LETTER\[49\]                            | Feat. [Ara](../Page/柳娥羅.md "wikilink"), [Hyelim](https://zh.wikipedia.org/wiki/Hello_Venus#成員資料 "wikilink"), [旼炫](../Page/黃旼炫.md "wikilink"), [東昊](../Page/姜東昊.md "wikilink")\[50\] |    |
+| 2012年 | 1月16日                                                                                 | Happy Pledis                                 | LOVE LETTER(PLEDIS BOYS VERSION\!)                                                                                                                                                  |    |
 
 ### 網路劇
 

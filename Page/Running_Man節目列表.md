@@ -24,11 +24,11 @@ Man](../Page/Running_Man.md "wikilink")**》節目內容，包括參與演出的
   - [2016年Running
     Man節目列表](../Page/2016年Running_Man節目列表.md "wikilink")（集數：280－331）
   - [2017年Running
-    Man節目列表](https://zh.wikipedia.org/wiki/2017年Running_Man節目列表 "wikilink")（集數：332－383）
+    Man節目列表](../Page/2017年Running_Man節目列表.md "wikilink")（集數：332－383）
   - [2018年Running
-    Man節目列表](https://zh.wikipedia.org/wiki/2018年Running_Man節目列表 "wikilink")（集數：384－432）
+    Man節目列表](../Page/2018年Running_Man節目列表.md "wikilink")（集數：384－432）
   - [2019年Running
-    Man節目列表](https://zh.wikipedia.org/wiki/2019年Running_Man節目列表 "wikilink")（集數：433－478）
+    Man節目列表](../Page/2019年Running_Man節目列表.md "wikilink")（集數：433－478）
 
 ## 外部連結
 

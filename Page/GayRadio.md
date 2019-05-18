@@ -45,7 +45,7 @@ Radio並未有任何全職員工或義工，各成員只在工餘或課餘時間
 
 2005年底，「起點」開始籌備製作網路廣播劇。首個劇目**《[只能曖昧的暗戀](https://zh.wikipedia.org/wiki/只能曖昧的暗戀 "wikilink")》**是「全台同志暗戀徵文比賽」冠軍作品，該比賽由「起點」與台灣[雷公電影公司合辦](https://zh.wikipedia.org/wiki/雷公電影公司 "wikilink")，是記者甲將其[網路小說](https://zh.wikipedia.org/wiki/網路小說 "wikilink")《起點‧終點》出版成書的相應宣傳計劃之一。\[4\]2006年初，因缺乏適合的演藝人員參與錄音，「起點」特別進行了選角行動，吸引近40人參與。
 
-以同志單戀直男為故事主軸，《只能曖昧的暗戀》首播後獲得相當正面的反應，不但在網上同志論壇中引起討論及共鳴，更吸引了本地另一同志作家[葉志偉的注意](https://zh.wikipedia.org/wiki/葉志偉 "wikilink")，而與「起點」合作將其同志小說**《[突然獨身](https://zh.wikipedia.org/wiki/突然獨身 "wikilink")》**聲音化。《突然獨身》同樣在錄音以前舉行了選角行動，吸引了100人參加面試，需時兩日才完成所有程序。兩次選角行動有助「起點」組成基本的廣播劇組班底，當中更有專業舞台劇及電視演員參與。
+以同志單戀直男為故事主軸，《只能曖昧的暗戀》首播後獲得相當正面的反應，不但在網上同志論壇中引起討論及共鳴，更吸引了本地另一同志作家[葉志偉的注意](../Page/葉志偉.md "wikilink")，而與「起點」合作將其同志小說**《[突然獨身](https://zh.wikipedia.org/wiki/突然獨身 "wikilink")》**聲音化。《突然獨身》同樣在錄音以前舉行了選角行動，吸引了100人參加面試，需時兩日才完成所有程序。兩次選角行動有助「起點」組成基本的廣播劇組班底，當中更有專業舞台劇及電視演員參與。
 
 ## 邁向專業化：2008-2009
 
@@ -54,7 +54,7 @@ Radio正式於[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[河畔�
 Radio在錄音節目以外，有機會推出[影像節目](https://zh.wikipedia.org/wiki/影像 "wikilink")，如《1069美麗魔法》及《Fit爆你》等。隨著電台擁有對外界開放的便利，節目主持邀請的嘉賓亦由個人友好，擴展至不同階層，包括同志組織人士、文化藝術工作者、外籍人士以及聽眾等，增加節目創作的空間；製作班底亦加入了更多年青人，節目種類更具大膽創意，例如專題探討色情影片的《巨根．格．鬥場》；電台亦提供了讓製作人交流及討論節目的空間，又引入具專業電台及電視背景的友好加入參與製作及教育新人。人事方面，電台管理層期間曾舉辦數次大型內部聚會，希望加強成員歸屬感；隨著電台初見規模，節目製作及播放制度也漸次成型，同時也確立電台與主持之間較為認真的關係。
 
 隨著多個網路廣播劇的成功，Gay
-Radio亦開始探索攝製影像劇集的可能，並在**[香港愛滋病基金會](https://zh.wikipedia.org/wiki/香港愛滋病基金會 "wikilink")**的支持下推出了香港首齣同志[網劇](https://zh.wikipedia.org/wiki/網劇 "wikilink")**《[我和他的99天](https://zh.wikipedia.org/wiki/我和他的99天 "wikilink")》**，引起[大眾傳媒如](https://zh.wikipedia.org/wiki/大眾傳媒 "wikilink")《AM730》和《[號外](https://zh.wikipedia.org/wiki/號外 "wikilink")》\[5\]等的注意及報導。\[6\]\[7\]
+Radio亦開始探索攝製影像劇集的可能，並在**[香港愛滋病基金會](https://zh.wikipedia.org/wiki/香港愛滋病基金會 "wikilink")**的支持下推出了香港首齣同志[網劇](https://zh.wikipedia.org/wiki/網劇 "wikilink")**《[我和他的99天](../Page/我和他的99天.md "wikilink")》**，引起[大眾傳媒如](https://zh.wikipedia.org/wiki/大眾傳媒 "wikilink")《AM730》和《[號外](https://zh.wikipedia.org/wiki/號外 "wikilink")》\[5\]等的注意及報導。\[6\]\[7\]
 
 ## 人事矛盾及調動：2009-2010
 
@@ -69,7 +69,7 @@ Radio特別設立新節目《BL腐啦嘩》，討論[BL文化](https://zh.wikipe
 
 2009年4月19日，Gay Radio推出加強互動元素的新版本網站，行政總監Roadster同時成為第一位全職投入Gay
 Radio的成員，專責市務及銷售發展，探尋能夠令Gay
-Radio收支平衡的營運模式，例如在網站增設[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")，售賣[HIV測試套裝](https://zh.wikipedia.org/wiki/HIV "wikilink")、各類小說、[攝影集和電影](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，包括[雲翔的](https://zh.wikipedia.org/wiki/雲翔 "wikilink")《[永久居留](../Page/永久居留.md "wikilink")》影集等。
+Radio收支平衡的營運模式，例如在網站增設[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")，售賣[HIV測試套裝](https://zh.wikipedia.org/wiki/HIV "wikilink")、各類小說、[攝影集和電影](https://zh.wikipedia.org/wiki/寫真集 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，包括[雲翔的](../Page/雲翔.md "wikilink")《[永久居留](../Page/永久居留.md "wikilink")》影集等。
 
 2009年中，時任[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[黃成智以及與其關係密切的教會組織](../Page/黃成智.md "wikilink")[指責《基場超新星》節目內容鼓吹同性戀](https://zh.wikipedia.org/wiki/黃成智#.E6.89.B9.E8.A9.95.E7.94.B7.E5.90.8C.E6.80.A7.E6.88.80.E5.9C.98.E9.AB.94 "wikilink")，迫使資助方香港小童群益會因顧忌而中止新一屆合作計劃，\[8\]\[9\]\[10\]令亟需額外資金紓援營運開支的Gay
 Radio財政壓力大增。2009年9月，Gay Radio因欠租導致辦公室一度遭查封。

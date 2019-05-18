@@ -1,4 +1,4 @@
-GLAY的第3張[B-side](../Page/B-side.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，普通盤在台灣有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
+GLAY的第3張[B-side](https://zh.wikipedia.org/wiki/B-side "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，普通盤在台灣有發行[台壓版](https://zh.wikipedia.org/wiki/台壓版 "wikilink")。
 
 ## 簡介
 
@@ -92,7 +92,7 @@ GLAY的第3張[B-side](../Page/B-side.md "wikilink")[精選輯](https://zh.wikip
         TERU INTERVIEW
 15. **[BEAUTIFUL
     DREAMER](https://zh.wikipedia.org/wiki/BEAUTIFUL_DREAMER "wikilink")**
-16. **[時光水滴](https://zh.wikipedia.org/wiki/時光水滴 "wikilink")**
+16. **[時光水滴](../Page/時光水滴.md "wikilink")**
       -
         TAKURO INTERVIEW
 

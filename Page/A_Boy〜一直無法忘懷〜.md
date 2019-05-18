@@ -15,9 +15,9 @@ Boy〜一直無法忘懷〜**》，是[日本](../Page/日本.md "wikilink")[樂
 
   - [BELOVED](https://zh.wikipedia.org/wiki/BELOVED "wikilink")
   - [DRIVE-GLAY complete
-    BEST](https://zh.wikipedia.org/wiki/DRIVE-GLAY_complete_BEST "wikilink")
+    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
   - [rare collectives
-    vol.2](../Page/rare_collectives_vol.2.md "wikilink")
+    vol.2](https://zh.wikipedia.org/wiki/rare_collectives_vol.2 "wikilink")
   - [-Ballad Best Singles- WHITE
     ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")
   - [THE GREAT VACATION VOL.2 〜SUPER BEST OF

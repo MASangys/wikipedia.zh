@@ -22,9 +22,9 @@ Toolkit來產生前端的](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wik
 
   - [CyanogenMod](../Page/CyanogenMod.md "wikilink")\[6\]
 
-  - [eBay](../Page/eBay.md "wikilink")\[7\]
+  - [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")\[7\]
 
-  - [Eclipse基金会](https://zh.wikipedia.org/wiki/Eclipse基金会 "wikilink")\[8\]
+  - [Eclipse基金会](../Page/Eclipse基金会.md "wikilink")\[8\]
 
   - [Garmin](https://zh.wikipedia.org/wiki/Garmin "wikilink")\[9\]
 

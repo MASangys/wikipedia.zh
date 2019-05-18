@@ -75,7 +75,7 @@ Pamyu的首次世界巡迴演唱會](https://zh.wikipedia.org/wiki/Kyary_Pamyu_P
 <tr class="odd">
 <td><p>2013年3月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南韓" title="wikilink">南韓</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p>UNIQLO-AX</p></td>
 <td><p>取消 [3]</p></td>
 </tr>

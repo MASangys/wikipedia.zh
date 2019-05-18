@@ -7,7 +7,7 @@
 [Powercolorx2.JPG](https://zh.wikipedia.org/wiki/File:Powercolorx2.JPG "fig:Powercolorx2.JPG")
 PowerColor原來是[ATI顯示卡的授權製造商](https://zh.wikipedia.org/wiki/ATI "wikilink")，亦即ATI的AIC合作夥伴；ATI被[AMD收購以後繼承原來的身份](https://zh.wikipedia.org/wiki/AMD "wikilink")，現時為AMD的AIC合作廠商。然而，PowerColor亦以「Zogis」品牌製造[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。\[2\]\[3\]\[4\]PowerColor大部分的顯示卡實際是由[富士康代工生產](https://zh.wikipedia.org/wiki/富士康 "wikilink")。\[5\]
 
-PowerColor的顯示卡產品主要使用AMD/ATI[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，從入門級消費產品和低階[工作站平台](../Page/工作站.md "wikilink")，到高階遊戲電腦都有產品對應。\[6\]\[7\]PowerColor的板卡製造業務主要由[富士康承接](https://zh.wikipedia.org/wiki/富士康 "wikilink")，使得PowerColor有更多的精力去研發和改進顯示卡的板卡設計，可以在AMD/ATI授權製造公版顯示卡的同時可以開發出更節能的版本，或規格和效能比公版設計更高的[超頻版](../Page/超頻.md "wikilink")/高時脈版本的顯示卡，和PowerColor情況類似的AMD合作廠商還有[藍寶科技](https://zh.wikipedia.org/wiki/藍寶科技 "wikilink")。\[8\]
+PowerColor的顯示卡產品主要使用AMD/ATI[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，從入門級消費產品和低階[工作站平台](../Page/工作站.md "wikilink")，到高階遊戲電腦都有產品對應。\[6\]\[7\]PowerColor的板卡製造業務主要由[富士康承接](https://zh.wikipedia.org/wiki/富士康 "wikilink")，使得PowerColor有更多的精力去研發和改進顯示卡的板卡設計，可以在AMD/ATI授權製造公版顯示卡的同時可以開發出更節能的版本，或規格和效能比公版設計更高的[超頻版](../Page/超頻.md "wikilink")/高時脈版本的顯示卡，和PowerColor情況類似的AMD合作廠商還有[藍寶科技](../Page/藍寶科技.md "wikilink")。\[8\]
 
 PowerColor的產品還在[個人電腦硬體業界屢獲獎項](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。\[9\]除了顯示卡以外，PowerColor也提供電腦[機殼](https://zh.wikipedia.org/wiki/機殼 "wikilink")、[電源供應器等設備](../Page/電源供應器.md "wikilink")。\[10\]
 

@@ -69,7 +69,7 @@ Combinator宣布进入中国，并聘请了前百度首席运营官[陆奇担任
 截至2011年6月，Y Combinator资助316 \[23\]\[24\]
 初创公司。资助的初创公司的数量在每个周期已逐渐增多。第一个周期，在2005年夏天，有8个创业公司。在2012年夏天的周期中，有80多名。但是2013冬季批次下降到50不到，但预计会再次增长。\[25\]
 
-一些较知名的投资的公司，包括[Scribd](../Page/Scribd.md "wikilink")，[Reddit](../Page/Reddit.md "wikilink")，[Airbnb](https://zh.wikipedia.org/wiki/Airbnb "wikilink")，[Dropbox](../Page/Dropbox.md "wikilink")，[DISQUS](../Page/DISQUS.md "wikilink")，。
+一些较知名的投资的公司，包括[Scribd](../Page/Scribd.md "wikilink")，[Reddit](../Page/Reddit.md "wikilink")，[Airbnb](https://zh.wikipedia.org/wiki/Airbnb "wikilink")，[Dropbox](../Page/Dropbox.md "wikilink")，[DISQUS](https://zh.wikipedia.org/wiki/DISQUS "wikilink")，。
 \[26\]
 
 格雷厄姆在一次訪問中表示，經過Y Combinator「孵化」的創業公司平均的公司資產總值大約有2240萬美元\[27\]。

@@ -14,7 +14,7 @@
 ### 御堂學生園高校教職員
 
   - 天王寺美咲－[香里奈](../Page/香里奈.md "wikilink")－[陳凱婷](../Page/陳凱婷.md "wikilink")
-    三國武志－[田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")－[黃榮璋](../Page/黃榮璋.md "wikilink")
+    三國武志－[田中圭](../Page/田中圭.md "wikilink")－[黃榮璋](../Page/黃榮璋.md "wikilink")
     姫島菜菜子－－[余欣沛](../Page/余欣沛.md "wikilink")
     川西勤－－[蘇強文](../Page/蘇強文.md "wikilink")
     南方健治－－[陳永信](../Page/陳永信.md "wikilink")
@@ -36,7 +36,7 @@
   - 島本優斗－－[關令翹](../Page/關令翹.md "wikilink")
   - 野崎愛實－[篠原愛實](../Page/篠原愛實.md "wikilink")－[陳皓宜](../Page/陳皓宜.md "wikilink")
   - 牧野風香－[西平風香](https://zh.wikipedia.org/wiki/西平風香 "wikilink")－[羅杏芝](../Page/羅杏芝.md "wikilink")
-  - 守口愛實－[丸高愛實](https://zh.wikipedia.org/wiki/丸高愛實 "wikilink")－[張頌欣](../Page/張頌欣.md "wikilink")
+  - 守口愛實－[丸高愛實](../Page/丸高愛實.md "wikilink")－[張頌欣](../Page/張頌欣.md "wikilink")
   - 山田由紀－－[林芷筠](../Page/林芷筠.md "wikilink")
   - 渡邊卓也－－[伍博民](../Page/伍博民.md "wikilink")
   - 天見成弥－[稲垣成弥](https://zh.wikipedia.org/wiki/稲垣成弥 "wikilink")
@@ -44,7 +44,7 @@
 ### CLUB SOUTHERN SEA
 
   - 媽咪－[財前直見](../Page/財前直見.md "wikilink")－[黃玉娟](../Page/黃玉娟.md "wikilink")
-  - 梅田－[塚地武雅](https://zh.wikipedia.org/wiki/塚地武雅 "wikilink")－[古明華](../Page/古明華.md "wikilink")
+  - 梅田－[塚地武雅](../Page/塚地武雅.md "wikilink")－[古明華](../Page/古明華.md "wikilink")
   - 梨奈－[小松彩夏](../Page/小松彩夏.md "wikilink")－[陳琴雲](../Page/陳琴雲.md "wikilink")
   - 玲奈－－[朱妙蘭](../Page/朱妙蘭.md "wikilink")
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - 中津－[窪田正孝](https://zh.wikipedia.org/wiki/洼田正孝 "wikilink")－[張方正](../Page/張方正.md "wikilink")
+  - 中津－[窪田正孝](../Page/洼田正孝.md "wikilink")－[張方正](../Page/張方正.md "wikilink")
 
 <!-- end list -->
 
@@ -99,7 +99,7 @@
 <!-- end list -->
 
   - 生駒可菜－[山下莉緒](../Page/山下莉緒.md "wikilink")－[陳皓宜](../Page/陳皓宜.md "wikilink")
-  - 難波修司－[松田悟志](https://zh.wikipedia.org/wiki/松田悟志 "wikilink")－[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
+  - 難波修司－[松田悟志](../Page/松田悟志.md "wikilink")－[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
 
 <!-- end list -->
 

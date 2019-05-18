@@ -8,23 +8,23 @@ Mark哥（張志強，[周潤發飾](https://zh.wikipedia.org/wiki/周潤發 "wi
 
 隨後Mark哥和志民幾經波折，終於將松叔接回香港。回港後，三人過著安穩平靜的生活，並打算開車行創業，只是一直都沒有打聽到恩人英傑的消息。突然有一天，英傑出現了，重逢令三人都十分開心。
 
-只是一場禍事也在悄悄逼近，英傑的男友何長青（[時任三郎飾](https://zh.wikipedia.org/wiki/時任三郎 "wikilink")）從[荷蘭返港](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，得悉英傑與Mark的事後大為震怒，便於車行開張當日置放炸彈，松叔因驚嚇致心臟病發身亡。何同時下格殺令，要求倖免的Mark和志民離開香港。另一方面決定於[西貢淪陷前](https://zh.wikipedia.org/wiki/西貢淪陷 "wikilink")，將當地資產從越南帶回香港；英傑遂與Mark、志民聯合，重返西貢，火拼何長青。
+只是一場禍事也在悄悄逼近，英傑的男友何長青（[時任三郎飾](../Page/時任三郎.md "wikilink")）從[荷蘭返港](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，得悉英傑與Mark的事後大為震怒，便於車行開張當日置放炸彈，松叔因驚嚇致心臟病發身亡。何同時下格殺令，要求倖免的Mark和志民離開香港。另一方面決定於[西貢淪陷前](https://zh.wikipedia.org/wiki/西貢淪陷 "wikilink")，將當地資產從越南帶回香港；英傑遂與Mark、志民聯合，重返西貢，火拼何長青。
 
 ## 人物角色
 
-|                                                       |            |                                                     |                                                                                                        |
-| ----------------------------------------------------- | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **演員**                                                | **角色**     | **粵語配音**                                            | **關係**                                                                                                 |
-| [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")   | Mark哥（張志強） | [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") |                                                                                                        |
-| [梅艷芳](../Page/梅艷芳.md "wikilink")                      | 周英傑        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    | Mark和阿民的知己，何長青女朋友，最後中彈身亡。                                                                              |
-| [梁家輝](../Page/梁家輝.md "wikilink")                      | 張志民        | [黃兆強](../Page/黃兆強.md "wikilink")                    | Mark之堂弟。                                                                                               |
-| [時任三郎](https://zh.wikipedia.org/wiki/時任三郎 "wikilink") | 何長青        | [黃志成](../Page/黃志成.md "wikilink")                    | 周英傑男朋友，最後被喪邦出賣，死於喪邦槍下。                                                                                 |
-| [南　燕](../Page/南燕_\(編劇\).md "wikilink")                | 喪　邦        |                                                     | 越南軍隊將軍，死於Mark的迫擊砲彈。                                                                                    |
-| [石　堅](../Page/石堅.md "wikilink")                       | 松　叔        | [石　堅](../Page/石堅.md "wikilink")                     | Mark之二叔；張志民之父、阿玲之姨丈，最後遭何長青炸彈害死。                                                                        |
-| [鄭偉倫](https://zh.wikipedia.org/wiki/鄭偉倫 "wikilink")   | 初　八        |                                                     | [南越孤兒](https://zh.wikipedia.org/wiki/南越 "wikilink")，因與父母失散，被松叔收留；後來成為南越軍人，協助Mark和志民火拼喪邦，最後決定留在越南，情況不明。 |
-| [張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")   | 阿　玲        | [譚淑英](../Page/譚淑英.md "wikilink")                    | 中國移民，Mark和志民的親戚，被Mark安排前往[台灣避難](https://zh.wikipedia.org/wiki/台灣 "wikilink")。                          |
-| [金揚樺](https://zh.wikipedia.org/wiki/金揚樺 "wikilink")   |            |                                                     |                                                                                                        |
-| [傅宏達](https://zh.wikipedia.org/wiki/傅宏達 "wikilink")   | 十　叔        | [源家祥](../Page/源家祥.md "wikilink")                    |                                                                                                        |
+|                                                     |            |                                                     |                                                                                                        |
+| --------------------------------------------------- | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **演員**                                              | **角色**     | **粵語配音**                                            | **關係**                                                                                                 |
+| [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") | Mark哥（張志強） | [周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink") |                                                                                                        |
+| [梅艷芳](../Page/梅艷芳.md "wikilink")                    | 周英傑        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    | Mark和阿民的知己，何長青女朋友，最後中彈身亡。                                                                              |
+| [梁家輝](../Page/梁家輝.md "wikilink")                    | 張志民        | [黃兆強](../Page/黃兆強.md "wikilink")                    | Mark之堂弟。                                                                                               |
+| [時任三郎](../Page/時任三郎.md "wikilink")                  | 何長青        | [黃志成](../Page/黃志成.md "wikilink")                    | 周英傑男朋友，最後被喪邦出賣，死於喪邦槍下。                                                                                 |
+| [南　燕](../Page/南燕_\(編劇\).md "wikilink")              | 喪　邦        |                                                     | 越南軍隊將軍，死於Mark的迫擊砲彈。                                                                                    |
+| [石　堅](../Page/石堅.md "wikilink")                     | 松　叔        | [石　堅](../Page/石堅.md "wikilink")                     | Mark之二叔；張志民之父、阿玲之姨丈，最後遭何長青炸彈害死。                                                                        |
+| [鄭偉倫](https://zh.wikipedia.org/wiki/鄭偉倫 "wikilink") | 初　八        |                                                     | [南越孤兒](https://zh.wikipedia.org/wiki/南越 "wikilink")，因與父母失散，被松叔收留；後來成為南越軍人，協助Mark和志民火拼喪邦，最後決定留在越南，情況不明。 |
+| [張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink") | 阿　玲        | [譚淑英](../Page/譚淑英.md "wikilink")                    | 中國移民，Mark和志民的親戚，被Mark安排前往[台灣避難](https://zh.wikipedia.org/wiki/台灣 "wikilink")。                          |
+| [金揚樺](https://zh.wikipedia.org/wiki/金揚樺 "wikilink") |            |                                                     |                                                                                                        |
+| [傅宏達](https://zh.wikipedia.org/wiki/傅宏達 "wikilink") | 十　叔        | [源家祥](../Page/源家祥.md "wikilink")                    |                                                                                                        |
 
 ## 軼誤
 

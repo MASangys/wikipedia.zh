@@ -1,5 +1,5 @@
 《**Happy
-Birthday**》是日本歌手[杏子的第](https://zh.wikipedia.org/wiki/杏子_\(歌手\) "wikilink")9張單曲。本作的A面歌《Happy
+Birthday**》是日本歌手[杏子的第](../Page/杏子_\(歌手\).md "wikilink")9張單曲。本作的A面歌《Happy
 Birthday》作為動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的電影《[名偵探柯南
 引爆摩天樓](https://zh.wikipedia.org/wiki/名偵探柯南_引爆摩天樓 "wikilink")》的主題曲。
 

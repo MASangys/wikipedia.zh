@@ -20,8 +20,7 @@ Google语音搜索目前支持下列语言或变体语言：\[4\]
   - [巴斯克語](../Page/巴斯克語.md "wikilink") 自2012年\[6\]
   - [保加利亞語](https://zh.wikipedia.org/wiki/保加利亞語 "wikilink") since
     2012\[7\]
-  - [加泰罗尼亚语](https://zh.wikipedia.org/wiki/加泰罗尼亚语 "wikilink")
-    自2012年\[8\]
+  - [加泰罗尼亚语](../Page/加泰罗尼亚语.md "wikilink") 自2012年\[8\]
   - [阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink") （7 种方言）
     自2011年\[9\]
   - [捷克语](../Page/捷克语.md "wikilink") 自2010年\[10\]
@@ -68,7 +67,7 @@ Google语音搜索目前支持下列语言或变体语言：\[4\]
 623-6706，Google语音搜索系统，等待听到*Say your Search
 Keywords*提示音后说出关键字。之后，用户仍然需要等待打开结果并通过点击链接进入。此时，演示这项服务的页面都被关闭。自从推出此服务，Google的一些旧产品，如[GOOG-411](../Page/GOOG-411.md "wikilink")，[Google地图以及Google移动应用等可以通过各种方式使用语音识别技术](../Page/Google地图.md "wikilink")。
 
-在2012年10月30日，Google发布了[iOS版的一个新的Google搜索应用程序](../Page/iOS.md "wikilink")，增强Google语音搜索功能，其功能与[Google即时](../Page/Google即时.md "wikilink")（Android果冻豆中的一个智能语音助手）以及[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Siri语音助手类似](../Page/Siri.md "wikilink")。\[39\]
+在2012年10月30日，Google发布了[iOS版的一个新的Google搜索应用程序](https://zh.wikipedia.org/wiki/iOS "wikilink")，增强Google语音搜索功能，其功能与[Google即时](../Page/Google即时.md "wikilink")（Android果冻豆中的一个智能语音助手）以及[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Siri语音助手类似](../Page/Siri.md "wikilink")。\[39\]
 根据评论，新的应用程序已经比Siri毫不逊色。\[40\]在非官方苹果博客的评测中称，Google的语音搜索在iOS上是“令人惊讶的快速与相关，并比Siri更深入”\[41\]。
 
 ## 与其他Google产品整合

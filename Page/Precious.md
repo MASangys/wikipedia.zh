@@ -4,7 +4,7 @@
 
   - GLAY自組公司「loversoul music & associates」的第1張作品。
   - 分為『初回限定盤』和『普通盤』2種。
-  - 單曲封面由[JIRO所拍攝](../Page/JIRO.md "wikilink")
+  - 單曲封面由[JIRO所拍攝](https://zh.wikipedia.org/wiki/JIRO "wikilink")
 
 ## 收錄曲目
 

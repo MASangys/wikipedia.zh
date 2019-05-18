@@ -1,4 +1,4 @@
-**ED2T型电力动车组**（）是[俄罗斯铁路和](../Page/俄罗斯铁路运输.md "wikilink")[乌克兰铁路的](https://zh.wikipedia.org/wiki/乌克兰铁路 "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[杰米霍沃机器制造厂设计制造](../Page/杰米霍沃机器制造厂.md "wikilink")，于1993年研制成功并投入批量生产。
+**ED2T型电力动车组**（）是[俄罗斯铁路和](../Page/俄罗斯铁路运输.md "wikilink")[乌克兰铁路的](../Page/乌克兰铁路.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[杰米霍沃机器制造厂设计制造](../Page/杰米霍沃机器制造厂.md "wikilink")，于1993年研制成功并投入批量生产。
 
 ## 历史
 
@@ -6,7 +6,7 @@
 
 1993年，托尔若克车辆制造厂试制了第一列ED2T型电力动车组，并于1994年投入批量生产。ED2T-0001号列车于1993年出厂，控制车和中间拖车的车体长度为21,500毫米，由托尔若克车辆制造厂制造；而中间动车的车体长度仍然为19,600毫米，由里加车辆制造厂制造。1994年初，ED2T-0001、0002号列车分别在彼列瓦机务段和雅罗斯拉夫尔机务段投入运用考核。从1994年制造的ED2T-0006号列车开始，所有车辆均由托尔若克车辆制造厂制造，并统一采用相同的车体长度（21,500毫米）。
 
-从1993年至1999年，托尔若克车辆制造厂共制造了54列ED2T型电力动车组（0001\~0054），主要配属于[俄罗斯铁路的](../Page/俄罗斯铁路.md "wikilink")[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")、[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")、[北方铁路局](https://zh.wikipedia.org/wiki/北方铁路局 "wikilink")、[斯维尔德洛夫斯克铁路局等](../Page/斯维尔德洛夫斯克铁路局.md "wikilink")，以及[乌克兰铁路的](https://zh.wikipedia.org/wiki/乌克兰铁路 "wikilink")[顿涅茨克铁路局](https://zh.wikipedia.org/wiki/顿涅茨克铁路局 "wikilink")\[1\]。至2002年，乌克兰铁路再次订购了2列ED2T型电力动车组（109～110），此后托尔若克车辆制造厂正式停产ED2T型电力动车组，并全面转产[ED4M型电力动车组](https://zh.wikipedia.org/wiki/ED4型电力动车组 "wikilink")。
+从1993年至1999年，托尔若克车辆制造厂共制造了54列ED2T型电力动车组（0001\~0054），主要配属于[俄罗斯铁路的](../Page/俄罗斯铁路.md "wikilink")[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")、[西西伯利亚铁路局](https://zh.wikipedia.org/wiki/西西伯利亚铁路局 "wikilink")、[北方铁路局](https://zh.wikipedia.org/wiki/北方铁路局 "wikilink")、[斯维尔德洛夫斯克铁路局等](../Page/斯维尔德洛夫斯克铁路局.md "wikilink")，以及[乌克兰铁路的](../Page/乌克兰铁路.md "wikilink")[顿涅茨克铁路局](../Page/顿涅茨克铁路局.md "wikilink")\[1\]。至2002年，乌克兰铁路再次订购了2列ED2T型电力动车组（109～110），此后托尔若克车辆制造厂正式停产ED2T型电力动车组，并全面转产[ED4M型电力动车组](../Page/ED4型电力动车组.md "wikilink")。
 
 ## 技术特点
 
@@ -18,7 +18,7 @@ ED2T型电力动车组是在[ER2T型电力动车组基础上改进而成](../Pag
 
   - [ER2T型电力动车组](../Page/ER2T型电力动车组.md "wikilink")
   - [ET2型电力动车组](../Page/ET2型电力动车组.md "wikilink")
-  - [ED4型电力动车组](https://zh.wikipedia.org/wiki/ED4型电力动车组 "wikilink")
+  - [ED4型电力动车组](../Page/ED4型电力动车组.md "wikilink")
 
 ## 参考文献
 

@@ -69,14 +69,14 @@ Entertainment公司联合开发的一个游戏产品；而超级舞者是中国�
 
 2005年5月、KONAMI公司对美国RoXoR公司研发的ITG是利用日本的DDR涉嫌非法改造而提出控诉。虽然ITG2代舞机以后的「[Pump
 It
-Up](https://zh.wikipedia.org/wiki/Pump_It_Up "wikilink")」的製造元是配合韩国Andamiro公司合作而共同開发并共享使用一个框架。之后，RoXoR公司敗訴，而ITG的著作权被KONAMI获得从而达到两间公司合作导致ITG停止开发。但是Andamiro公司发布的Pump
+Up](../Page/Pump_It_Up.md "wikilink")」的製造元是配合韩国Andamiro公司合作而共同開发并共享使用一个框架。之后，RoXoR公司敗訴，而ITG的著作权被KONAMI获得从而达到两间公司合作导致ITG停止开发。但是Andamiro公司发布的Pump
 It Up跳舞机「Pump It Up Pro」在事实上还在发售中。
 
 ## 相关条目
 
   - [Dance Dance
     Revolution](https://zh.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")
-  - [Pump It Up](https://zh.wikipedia.org/wiki/Pump_It_Up "wikilink")
+  - [Pump It Up](../Page/Pump_It_Up.md "wikilink")
   - [StepMania](../Page/StepMania.md "wikilink")
 
 ## 注释

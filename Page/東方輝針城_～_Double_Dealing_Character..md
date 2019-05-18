@@ -2,7 +2,7 @@
 是由同人组织[上海爱莉丝幻乐团发布的](https://zh.wikipedia.org/wiki/上海爱莉丝幻乐团 "wikilink")[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，为[东方Project的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")14作。\[1\]本作的體驗版於2013年5月26日的第10次博麗神社例大祭上發佈，正式版於2013年8月12日（[Comic
 Market](../Page/Comic_Market.md "wikilink") 84）正式發佈銷售。\[2\]。
 
-在東方輝針城之前，[東方系列遊戲只通過](https://zh.wikipedia.org/wiki/東方Project "wikilink")[CD光碟銷售](../Page/CD.md "wikilink")。東方輝針城是第一部通過數字渠道進行銷售的東方系列遊戲\[3\]。2015年4月7日，遊戲通過[Playism進行銷售](https://zh.wikipedia.org/wiki/Playism "wikilink")，使得東方輝針城又成為第一部直接銷往日本之外國家的東方作品\[4\]。
+在東方輝針城之前，[東方系列遊戲只通過](https://zh.wikipedia.org/wiki/東方Project "wikilink")[CD光碟銷售](../Page/CD.md "wikilink")。東方輝針城是第一部通過數字渠道進行銷售的東方系列遊戲\[3\]。2015年4月7日，遊戲通過[Playism進行銷售](../Page/Playism.md "wikilink")，使得東方輝針城又成為第一部直接銷往日本之外國家的東方作品\[4\]。
 
 ## 概述
 

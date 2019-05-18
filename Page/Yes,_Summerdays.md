@@ -11,8 +11,8 @@
       -
         前幾張精選輯都沒有收錄，一直到『[THE GREAT VACATION VOL.2 〜SUPER BEST OF
         GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")』才第一次收錄在精選輯中。這首歌曲的[MV有](https://zh.wikipedia.org/wiki/MV "wikilink")2種版本。
-2.  **[INNOCENCE](https://zh.wikipedia.org/wiki/“Modern…”的她 "wikilink")
-    LIVE VERSION （1995年6月12日 [澀谷公會堂](../Page/澀谷公會堂.md "wikilink")）**
+2.  **[INNOCENCE](../Page/“Modern…”的她.md "wikilink") LIVE VERSION
+    （1995年6月12日 [澀谷公會堂](../Page/澀谷公會堂.md "wikilink")）**
       -
         GLAY第一首LIVE版歌曲的CD形式發表。
 3.  **Yes, Summerdays （ORIGINAL KARAOKE）**

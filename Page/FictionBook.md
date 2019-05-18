@@ -43,7 +43,7 @@
 
 [FBReader](../Page/FBReader.md "wikilink")、[AlReader](https://zh.wikipedia.org/wiki/AlReader "wikilink")、[Haali
 Reader](https://zh.wikipedia.org/wiki/Haali_Reader "wikilink")、[STDU
-Viewer](https://zh.wikipedia.org/wiki/STDU_Viewer "wikilink")、[CoolReader](https://zh.wikipedia.org/wiki/CoolReader "wikilink")、[Okular及](../Page/Okular.md "wikilink")[iOS的](../Page/iOS.md "wikilink")[Documents](https://zh.wikipedia.org/wiki/Documents "wikilink")
+Viewer](https://zh.wikipedia.org/wiki/STDU_Viewer "wikilink")、[CoolReader](https://zh.wikipedia.org/wiki/CoolReader "wikilink")、[Okular及](../Page/Okular.md "wikilink")[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Documents](https://zh.wikipedia.org/wiki/Documents "wikilink")
 等閱讀器均支援FictionBook。
 
 很多裝置都支援FictionBooks，包括 BeBook One、BeBook Mini、BeBook Club、PocketBook

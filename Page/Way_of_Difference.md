@@ -2,7 +2,7 @@
 
 ## 簡介
 
-  - 和這2張單曲「[在此相逢](https://zh.wikipedia.org/wiki/在此相逢 "wikilink")」、「[期待相逢的心情](https://zh.wikipedia.org/wiki/期待相逢的心情 "wikilink")」一樣，歌詞以『想見你』為開頭，和當時TAKURO的私生活有關。(節錄自『胸懷』書籍)。
+  - 和這2張單曲「[在此相逢](../Page/在此相逢.md "wikilink")」、「[期待相逢的心情](https://zh.wikipedia.org/wiki/期待相逢的心情 "wikilink")」一樣，歌詞以『想見你』為開頭，和當時TAKURO的私生活有關。(節錄自『胸懷』書籍)。
 
 ## 收錄曲目
 
@@ -13,7 +13,7 @@
         [富士電視](https://zh.wikipedia.org/wiki/富士電視 "wikilink")『[戀愛巴士](../Page/戀愛巴士.md "wikilink")』主題曲
 2.  **畢業前夕**
       -
-        描寫[TAKURO親身經歷的畢業歌曲](../Page/TAKURO.md "wikilink")。
+        描寫[TAKURO親身經歷的畢業歌曲](https://zh.wikipedia.org/wiki/TAKURO "wikilink")。
 3.  **Way of Difference (Instrumental)**
 
 ## 收錄專輯
@@ -21,7 +21,7 @@
   - [UNITY ROOTS &
     FAMILY,AWAY](https://zh.wikipedia.org/wiki/UNITY_ROOTS_&_FAMILY,AWAY "wikilink")
   - [rare collectives
-    vol.2](../Page/rare_collectives_vol.2.md "wikilink")
+    vol.2](https://zh.wikipedia.org/wiki/rare_collectives_vol.2 "wikilink")
   - [-Ballad Best Singles- WHITE
     ROAD](../Page/-Ballad_Best_Singles-_WHITE_ROAD.md "wikilink")
   - [THE GREAT VACATION VOL.1 〜SUPER BEST OF

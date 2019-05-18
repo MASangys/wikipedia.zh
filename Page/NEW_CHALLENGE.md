@@ -40,14 +40,14 @@ CHALLENGE**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓
 <tr class="odd">
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2013年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2013年3月24日－3月30日</p></td>
 <td><p>#6</p></td>
 <td><p>－</p></td>
 <td><p>[2]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年Gaon單曲冠軍作品列表" title="wikilink">單曲月榜</a></p></td>
+<td><p><a href="../Page/2013年Gaon單曲冠軍作品列表.md" title="wikilink">單曲月榜</a></p></td>
 <td><p>2013年4月</p></td>
 <td><p>#22</p></td>
 <td><p>39,211,708</p></td>
@@ -57,7 +57,7 @@ CHALLENGE**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2013年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2013年3月24日－3月30日</p></td>
 <td><p>#1</p></td>
 <td><p>－</p></td>
@@ -74,7 +74,7 @@ CHALLENGE**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2013年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2013年3月</p></td>
 <td><p>#1</p></td>
 <td><p>138,431</p></td>

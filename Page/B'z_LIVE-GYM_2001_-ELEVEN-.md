@@ -39,13 +39,13 @@
 
 **DISC2**
 
-1.  [ultra soul](../Page/ultra_soul.md "wikilink")
-2.  [スイマーよ2001\!\!](../Page/ultra_soul.md "wikilink")
+1.  [ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
+2.  [スイマーよ2001\!\!](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")
 3.  [TOKYO DEVIL](../Page/ELEVEN.md "wikilink")
 4.  SACRED FIELD 〜 \#1090
 5.  [JAP THE RIPPER](../Page/The_7th_Blues.md "wikilink")
 6.  [ギリギリchop](https://zh.wikipedia.org/wiki/ギリギリchop "wikilink")
-7.  [juice](../Page/juice.md "wikilink")
+7.  [juice](https://zh.wikipedia.org/wiki/juice "wikilink")
 8.  [恋心(KOI-GOKORO)](../Page/ZERO_\(B'z單曲\).md "wikilink")
 9.  [GOLD](../Page/GOLD.md "wikilink")
 10. [裸足の女神](https://zh.wikipedia.org/wiki/裸足の女神 "wikilink")

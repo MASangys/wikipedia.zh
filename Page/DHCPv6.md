@@ -5,7 +5,7 @@ IPv6主机可以使用[无状态地址自动配置](https://zh.wikipedia.org/wik
 使用无状态自动配置的IPv6主机可能会需要除了IP地址以外的其他信息。DHCPv6可被用来获取这样的信息，哪怕这些信息对于配置IP地址毫无用处。配置[DNS服务器无需使用DHCPv](../Page/域名系统.md "wikilink")6，它们可以使用无状态自动配置所需的[邻居发现协议来进行配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")\[1\]。
 
 IPv6路由器，如家庭路由器，必须在无需人工干预的情况下被自动配置。这样的路由器不仅需要一个IPv6地址用来与上游路由器通信，还需要一个IPv6前缀用来配置下游的设备。DHCPv6
-[前缀代理提供了配置此类路由器的机制](https://zh.wikipedia.org/wiki/前缀代理 "wikilink")。
+[前缀代理提供了配置此类路由器的机制](../Page/前缀代理.md "wikilink")。
 
 ## 实现
 

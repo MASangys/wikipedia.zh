@@ -38,14 +38,14 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 <tr class="odd">
 <td><p>韓國</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon單曲榜" title="wikilink">Gaon單曲榜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2012年Gaon單曲冠軍作品列表" title="wikilink">單曲週榜</a></p></td>
+<td><p><a href="../Page/2012年Gaon單曲冠軍作品列表.md" title="wikilink">單曲週榜</a></p></td>
 <td><p>2012年12月2日－12月8日</p></td>
 <td><p>#2</p></td>
 <td><p>–</p></td>
 <td><p>[4]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2012年Gaon單曲冠軍作品列表" title="wikilink">單曲月榜</a></p></td>
+<td><p><a href="../Page/2012年Gaon單曲冠軍作品列表.md" title="wikilink">單曲月榜</a></p></td>
 <td><p>2012年12月</p></td>
 <td><p>#2</p></td>
 <td><p>–</p></td>
@@ -55,7 +55,7 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2012年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2012年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2012年11月25日－12月1日</p></td>
 <td><p>#2</p></td>
 <td><p>–</p></td>
@@ -63,7 +63,7 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2012年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2012年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2012年12月</p></td>
 <td><p>#3</p></td>
 <td><p>53,754</p></td>
@@ -84,12 +84,12 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ### 其他歌曲成績
 
-| 歌曲             | 榜單                                                          | 類型                                                                 | 停留時間              | 最高位置 | 參考資料  |
-| -------------- | ----------------------------------------------------------- | ------------------------------------------------------------------ | ----------------- | ---- | ----- |
-| 按做過的做吧         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](https://zh.wikipedia.org/wiki/2012年Gaon單曲冠軍作品列表 "wikilink") | 2012年11月25日－12月1日 | \#43 | \[6\] |
-| 你不知道吧          | \#47                                                        |                                                                    |                   |      |       |
-| 儘管 我           | \#50                                                        |                                                                    |                   |      |       |
-| Look At Me Now | \#54                                                        |                                                                    |                   |      |       |
+| 歌曲             | 榜單                                                          | 類型                                              | 停留時間              | 最高位置 | 參考資料  |
+| -------------- | ----------------------------------------------------------- | ----------------------------------------------- | ----------------- | ---- | ----- |
+| 按做過的做吧         | [Gaon單曲榜](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink") | [單曲週榜](../Page/2012年Gaon單曲冠軍作品列表.md "wikilink") | 2012年11月25日－12月1日 | \#43 | \[6\] |
+| 你不知道吧          | \#47                                                        |                                                 |                   |      |       |
+| 儘管 我           | \#50                                                        |                                                 |                   |      |       |
+| Look At Me Now | \#54                                                        |                                                 |                   |      |       |
 
 ### 其他單曲榜單
 

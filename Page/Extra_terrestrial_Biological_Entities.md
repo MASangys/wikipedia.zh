@@ -2,7 +2,7 @@
 Entities}-）是[日本](../Page/日本.md "wikilink")[流行音乐团体](../Page/日本流行音樂.md "wikilink")“[EGOIST](../Page/EGOIST.md "wikilink")”的首张[录音室专辑](../Page/音樂專輯.md "wikilink")\[1\]\[2\]，2012年9月19日由[Sony
 Music最早在日本发售](../Page/日本索尼音樂娛樂.md "wikilink")\[3\]。这张专辑包含了由[Chelly演唱的](../Page/EGOIST.md "wikilink")12首音乐曲目，除了《热恋》的歌词由Chelly创作完成之外，其余全部曲目都由[supercell的Ryo作词作曲](https://zh.wikipedia.org/wiki/supercell "wikilink")。专辑中有两首歌此前已经在EGOIST的两支单曲中发布过。在日本等市场贩售时分两个不同版本的专辑：仅包含常规专辑CD的通常版和包含有CD+DVD的初回限定版。《行星生物》在日本Oricon的每周专辑排行榜最高达到第9位。
 
-专辑中有三支歌曲曾被使用于不同的媒体上：《[起程\~献给你的爱之歌\~](https://zh.wikipedia.org/wiki/起程~献给你的爱之歌~ "wikilink")》、《[The
+专辑中有三支歌曲曾被使用于不同的媒体上：《[起程\~献给你的爱之歌\~](../Page/起程~献给你的爱之歌~.md "wikilink")》、《[The
 Everlasting Guilty
 Crown](https://zh.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")》曾被用于2011年日本[动画连续剧](../Page/日本动画.md "wikilink")《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")\[4\]\[5\]，而《行星》则被用作[视觉小说](../Page/视觉小说.md "wikilink")《[罪恶王冠：失落的圣诞节](../Page/罪惡王冠.md "wikilink")》中包含的[OVA的片尾曲](../Page/原創動畫錄影帶.md "wikilink")。
 

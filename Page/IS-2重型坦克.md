@@ -97,7 +97,7 @@ IS-2從1944年開始分配給蘇軍使用，主要是分配給近衛重裝甲團
 1942型</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/KV-1S坦克" title="wikilink">KV-1S</a><br />
 1942型</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/KV-85坦克" title="wikilink">KV-85</a><br />
+<th><p><a href="../Page/KV-85坦克.md" title="wikilink">KV-85</a><br />
 1943型</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/IS-2" title="wikilink">IS-2</a><br />
 1945型</p></th>

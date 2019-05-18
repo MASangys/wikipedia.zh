@@ -23,7 +23,7 @@ O，也不适配异形屏。主要功能包括快速编辑、64/81宫格、隐�
 
 ### 无限屏
 
-无限屏是锤子科技在2018年随[坚果Pro2s一同推出的新功能](https://zh.wikipedia.org/wiki/坚果Pro2S "wikilink")，仅限坚果Pro2s和坚果R1。
+无限屏是锤子科技在2018年随[坚果Pro2s一同推出的新功能](../Page/坚果Pro2S.md "wikilink")，仅限坚果Pro2s和坚果R1。
 
 ### 其他功能
 
@@ -82,8 +82,7 @@ O，也不适配异形屏。主要功能包括快速编辑、64/81宫格、隐�
 
 ### 2.0
 
-[Smartisan OS
-2.0是基于](https://zh.wikipedia.org/wiki/Smartisan_OS "wikilink")
+[Smartisan OS 2.0是基于](../Page/Smartisan_OS.md "wikilink")
 [Android](../Page/Android.md "wikilink") 4.4.4
 深度定制的智能手机操作系统，首款原生搭载了此系统的智能手机是[坚果手机](../Page/坚果手机.md "wikilink")。\[2\]
 
@@ -106,10 +105,8 @@ M1L](https://zh.wikipedia.org/wiki/Smartisan_M1L "wikilink")。
   - [小米手機3](https://zh.wikipedia.org/wiki/小米手機3 "wikilink")
   - [小米手機4](https://zh.wikipedia.org/wiki/小米手機4 "wikilink")
   - [一加手機1](https://zh.wikipedia.org/wiki/一加手機1 "wikilink")
-  - [Smartisan
-    T1（3G版）](https://zh.wikipedia.org/wiki/Smartisan_T1 "wikilink")
-  - [Smartisan
-    T1（4G版）](https://zh.wikipedia.org/wiki/Smartisan_T1 "wikilink")
+  - [Smartisan T1（3G版）](../Page/Smartisan_T1.md "wikilink")
+  - [Smartisan T1（4G版）](../Page/Smartisan_T1.md "wikilink")
   - [Smartisan
     T2](https://zh.wikipedia.org/wiki/Smartisan_T2 "wikilink")
   - [Smartisan
@@ -119,8 +116,8 @@ M1L](https://zh.wikipedia.org/wiki/Smartisan_M1L "wikilink")。
   - [堅果手機](https://zh.wikipedia.org/wiki/堅果手機 "wikilink")
   - [坚果3](https://zh.wikipedia.org/wiki/坚果3 "wikilink")
   - [坚果Pro](https://zh.wikipedia.org/wiki/坚果Pro "wikilink")
-  - [坚果Pro2](https://zh.wikipedia.org/wiki/坚果Pro2 "wikilink")
-  - [坚果R1](https://zh.wikipedia.org/wiki/坚果R1 "wikilink")
+  - [坚果Pro2](../Page/坚果Pro2.md "wikilink")
+  - [坚果R1](../Page/坚果R1.md "wikilink")
   - [坚果Pro2s](https://zh.wikipedia.org/wiki/坚果Pro2s "wikilink")
 
 ## 事件

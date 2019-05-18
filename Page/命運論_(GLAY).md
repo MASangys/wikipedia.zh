@@ -26,7 +26,7 @@
 3.  **Route 5 Bayshore Line**　（3分51秒）
       -
         11th原創專輯「[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")」收錄的是『大阪市長居陸上競技場』演唱會後重新錄製的專輯版本。單曲收錄的則是『大阪市長居陸上競技場』演唱會之前的版本。
-4.  **11th原創專輯「[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")」&12th原創專輯「[GUILTY](https://zh.wikipedia.org/wiki/GUILTY_\(GLAY\) "wikilink")」預告篇**　（4分05秒）
+4.  **11th原創專輯「[JUSTICE](https://zh.wikipedia.org/wiki/JUSTICE_\(GLAY\) "wikilink")」&12th原創專輯「[GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")」預告篇**　（4分05秒）
 
 ### DVD （CD+DVD盤）
 

@@ -18,8 +18,7 @@ Mk
 
 ## 相關條目
 
-  - [Mk
-    7頭盔](https://zh.wikipedia.org/wiki/Mk_7頭盔 "wikilink")：Mk6頭盔的替代款，2009年6月起開始普遍發放
+  - [Mk 7頭盔](../Page/Mk_7頭盔.md "wikilink")：Mk6頭盔的替代款，2009年6月起開始普遍發放
 
 ## 注釋及參考文獻
 

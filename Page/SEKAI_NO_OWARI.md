@@ -55,7 +55,7 @@ OWARI」相同。命名原因源於Fukase於18、19歲時，曾打算於[美國�
 EARTH的過程中，發現自己還有伙伴跟他一起，「我的人生，在覺得世界終結的那瞬間開始了」。\[14\]他因此將樂隊命名為「世界末日」，寓意「從終結起開始」\[15\]，希望將音樂當成一次重生的機會\[16\]。
 
 他們從2010年起發行了多張唱片，得以逐漸提高知名度\[17\]。2月，他們發行了僅於[TOWER
-RECORDS發售的單曲](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")《[幻之命](https://zh.wikipedia.org/wiki/幻之命 "wikilink")》\[18\]；其後於4月發行以club
+RECORDS發售的單曲](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")《[幻之命](../Page/幻之命.md "wikilink")》\[18\]；其後於4月發行以club
 EARTH命名的首張專輯《[EARTH](https://zh.wikipedia.org/wiki/EARTH "wikilink")》，以及於10月發行了雙A面單曲《[天使與惡魔／FANTASY](https://zh.wikipedia.org/wiki/天使與惡魔／FANTASY "wikilink")》\[19\]。其中《EARTH》獲得第3屆[CD店大獎的準大獎](../Page/CD店大獎.md "wikilink")\[20\]，《天使與惡魔》一曲亦成為電視劇《[靈能力者
 小田霧響子的謊言](../Page/靈能力者_小田霧響子的謊言.md "wikilink")》的主題曲\[21\]。
 
@@ -86,7 +86,7 @@ STATION](../Page/MUSIC_STATION.md "wikilink")》亮相，演唱《睡美人》�
 FACTORY簽約後的首張專輯《[ENTERTAINMENT](https://zh.wikipedia.org/wiki/ENTERTAINMENT "wikilink")》也是在這段時間發行。於7月18日發行的《ENTERTAINMENT》在Oricon公信榜上取得第2名，首次進入該榜頭三名。\[37\]這張專輯收錄16首歌曲，包括獨立製作時期和正式出道後發行的多首歌曲。\[38\]主唱Fukase稱他們在《EARTH》發行後約兩年半的時光中，並沒有所謂「理念」這回事，所以沒有特別為《ENTERTAINMENT》設定主題，並視之為「無特定概念的他們在兩年半內的記錄」。\[39\]年尾，他們憑這張專輯獲得第54屆[日本唱片大獎的優秀專輯獎](../Page/日本唱片大獎.md "wikilink")。\[40\]
 
 2013年，SEKAI NO OWARI在1月至2月舉辦「ARENA TOUR 2013
-『ENTERTAINMENT』」演唱會。\[41\]2月23日，這次巡迴演出的最後一場，他們在東京[代代木第一體育館宣布將於](../Page/國立代代木競技場.md "wikilink")10月12日、13日舉辦其首個戶外演唱會「火炎與森林的嘉年華」（），以及新單曲《[RPG](https://zh.wikipedia.org/wiki/RPG_\(單曲\) "wikilink")》將於5月1日發行的消息。\[42\]《RPG》是動畫劇場版《[蠟筆小新：超級美味！B級美食大逃亡！！](https://zh.wikipedia.org/wiki/蠟筆小新：超級美味！B級美食大逃亡！！ "wikilink")》的主題曲。\[43\]這張睽違一年的單曲錄得約7.5萬張的首周銷量，於Oricon公信榜取得第2名，刷新了自己的排名紀錄。\[44\]他們亦憑《RPG》首次奪得[Japan
+『ENTERTAINMENT』」演唱會。\[41\]2月23日，這次巡迴演出的最後一場，他們在東京[代代木第一體育館宣布將於](../Page/國立代代木競技場.md "wikilink")10月12日、13日舉辦其首個戶外演唱會「火炎與森林的嘉年華」（），以及新單曲《[RPG](../Page/RPG_\(單曲\).md "wikilink")》將於5月1日發行的消息。\[42\]《RPG》是動畫劇場版《[蠟筆小新：超級美味！B級美食大逃亡！！](https://zh.wikipedia.org/wiki/蠟筆小新：超級美味！B級美食大逃亡！！ "wikilink")》的主題曲。\[43\]這張睽違一年的單曲錄得約7.5萬張的首周銷量，於Oricon公信榜取得第2名，刷新了自己的排名紀錄。\[44\]他們亦憑《RPG》首次奪得[Japan
 Hot
 100冠軍](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")。\[45\]
 
@@ -179,7 +179,7 @@ CD</p></td>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2013年5月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/RPG_(單曲)" title="wikilink">RPG</a></p></td>
+<td><p><a href="../Page/RPG_(單曲).md" title="wikilink">RPG</a></p></td>
 <td><p>2</p></td>
 <td><p>CD+CD<br />
 CD+DVD<br />
@@ -298,7 +298,7 @@ CD</p></td>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2017年7月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/RAIN_(SEKAI_NO_OWARI單曲)" title="wikilink">RAIN</a></p></td>
+<td><p><a href="../Page/RAIN_(SEKAI_NO_OWARI單曲).md" title="wikilink">RAIN</a></p></td>
 <td><p>2</p></td>
 <td><p>CD+DVD<br />
 CD+DVD<br />
@@ -475,7 +475,7 @@ CD</p></td>
 <tr class="even">
 <td><p>2013年6月12日</p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/眼淚的回答" title="wikilink">眼淚的回答</a></p></td>
+<td><p><a href="../Page/眼淚的回答.md" title="wikilink">眼淚的回答</a></p></td>
 <td><p>Saori作詞，Nakajin作曲</p></td>
 <td></td>
 </tr>
@@ -657,7 +657,7 @@ CD</p></td>
 <td><p>初</p></td>
 <td></td>
 <td><p>13/24</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/May_J." title="wikilink">May J.</a></p></td>
+<td><p><a href="../Page/May_J..md" title="wikilink">May J.</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -669,23 +669,23 @@ CD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2016年 / <a href="https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰" title="wikilink">第67回</a></p></td>
+<td><p>2016年 / <a href="../Page/第67回NHK紅白歌合戰.md" title="wikilink">第67回</a></p></td>
 <td><p>3</p></td>
 <td><p>Hey Ho from RPG</p></td>
 <td><p>11/22</p></td>
 <td><p><a href="../Page/市川由紀乃.md" title="wikilink">市川由紀乃</a></p></td>
-<td><p>分别演唱《<a href="https://zh.wikipedia.org/wiki/RPG_(單曲)" title="wikilink">RPG</a>》及《Hey Ho》共2首歌曲。</p></td>
+<td><p>分别演唱《<a href="../Page/RPG_(單曲).md" title="wikilink">RPG</a>》及《Hey Ho》共2首歌曲。</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年 / <a href="https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰" title="wikilink">第68回</a></p></td>
+<td><p>2017年 / <a href="../Page/第68回NHK紅白歌合戰.md" title="wikilink">第68回</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/RAIN_(SEKAI_NO_OWARI單曲)" title="wikilink">RAIN</a></p></td>
+<td><p><a href="../Page/RAIN_(SEKAI_NO_OWARI單曲).md" title="wikilink">RAIN</a></p></td>
 <td><p>8/23</p></td>
 <td><p><a href="../Page/倉木麻衣.md" title="wikilink">倉木麻衣</a></p></td>
 <td><p>成員Saori缺席。</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年 / <a href="https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰" title="wikilink">第69回</a></p></td>
+<td><p>2018年 / <a href="../Page/第69回NHK紅白歌合戰.md" title="wikilink">第69回</a></p></td>
 <td><p>5</p></td>
 <td><p>サザンカ</p></td>
 <td></td>

@@ -66,7 +66,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - E[New Story of Aura Battler
     DUNBINE](https://zh.wikipedia.org/wiki/New_Story_of_Aura_Battler_DUNBINE "wikilink")（）
   - [重戰機](../Page/重戰機.md "wikilink")（）
-  - ★[索斯機械獸](https://zh.wikipedia.org/wiki/索斯機械獸 "wikilink")（）
+  - ★[索斯機械獸](../Page/索斯機械獸.md "wikilink")（）
   - ★E[機獸新世紀ZERO](https://zh.wikipedia.org/wiki/機獸新世紀ZERO "wikilink")（）
   - V[索斯機械獸V](../Page/索斯機械獸V.md "wikilink")（）
   - [戰國魔神豪將軍](../Page/戰國魔神豪將軍.md "wikilink")（）

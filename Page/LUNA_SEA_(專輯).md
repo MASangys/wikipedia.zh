@@ -1,7 +1,7 @@
 《**LUNA
 SEA**》是由日本搖滾樂團[月之海所發行的首張同名專輯](../Page/月之海.md "wikilink")，初版於1991年4月21日發行。2007年由[環球音樂發行再版](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
-本專輯是月之海於地下樂團時期中製作的唯一專輯作品，由當時[YOSHIKI所創立的獨立廠牌Extasy](../Page/YOSHIKI.md "wikilink")
+本專輯是月之海於地下樂團時期中製作的唯一專輯作品，由當時[YOSHIKI所創立的獨立廠牌Extasy](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
 Records發行。在樂團宣布復出後，2011年由[愛貝克思發行重新錄製版本](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")，收錄重新編曲後的相同曲目\[1\]。
 初回版本付錄DVD〈SHADE〉音樂錄影帶，其中包含2010年於東京巨蛋舉行之「LUNACY－黑服限定演唱會」演出片段。同時發售的豪華限定版收錄1989年〈SHADE〉復刻版DEMO帶和1991年「UNDER
 THE NEW MOON TOUR」演唱會T恤\[2\]。
@@ -40,7 +40,7 @@ THE NEW MOON TOUR」演唱會T恤\[2\]。
       -
         原曲：J／作詞：RYUICHI
         為早期現場表演中經常演唱的曲目之一。本曲並收錄於精選輯《[Period -The Best
-        Selection-](https://zh.wikipedia.org/wiki/Period_-The_Best_Selection- "wikilink")》當中。
+        Selection-](../Page/Period_-The_Best_Selection-.md "wikilink")》當中。
 
 <!-- end list -->
 
