@@ -1,5 +1,5 @@
 《**Hot Summer**》是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Dance團體[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")2011年6月14日所推出的首張[韓語正規](https://zh.wikipedia.org/wiki/韓語 "wikilink")[音樂專輯Repackage](../Page/音樂專輯.md "wikilink")。翻唱[德國三人](https://zh.wikipedia.org/wiki/德國 "wikilink")[女子](https://zh.wikipedia.org/wiki/女子 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[Monrose於](https://zh.wikipedia.org/wiki/Monrose "wikilink")[2010年發布的同名](https://zh.wikipedia.org/wiki/2010年 "wikilink")[歌曲](../Page/歌曲.md "wikilink")。
+Dance團體[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")2011年6月14日所推出的首張[韓語正規](https://zh.wikipedia.org/wiki/韓語 "wikilink")[音樂專輯Repackage](../Page/音樂專輯.md "wikilink")。翻唱[德國三人](https://zh.wikipedia.org/wiki/德國 "wikilink")[女子](https://zh.wikipedia.org/wiki/女子 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")[Monrose於](../Page/Monrose.md "wikilink")[2010年發布的同名](https://zh.wikipedia.org/wiki/2010年 "wikilink")[歌曲](../Page/歌曲.md "wikilink")。
 
 ## 日语版本
 

@@ -1,4 +1,4 @@
-**大島南IC**（平假名：おおしまみなみインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[今治市的](../Page/今治市.md "wikilink")[西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")（瀨戶內島波海道）之[交流道](../Page/交流道.md "wikilink")。此交流道只設尾道方向出口與今治方向入口。
+**大島南IC**（平假名：おおしまみなみインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[今治市的](../Page/今治市.md "wikilink")[西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")（瀨戶內島波海道）之[交流道](../Page/交流道.md "wikilink")。此交流道只設尾道方向出口與今治方向入口。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1999年5月1日 -
-    [西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")[今治IC至大島南IC之間開通](https://zh.wikipedia.org/wiki/今治IC "wikilink")，此交流道也同時啟用。
+    [西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")[今治IC至大島南IC之間開通](https://zh.wikipedia.org/wiki/今治IC "wikilink")，此交流道也同時啟用。
   - 2006年4月24日 - 西瀨戶自動車道大島南IC至[大島北IC之間開通](../Page/大島北IC.md "wikilink")。
 
 ## 交流道周邊
@@ -24,7 +24,7 @@
 
 ## 鄰近設施
 
-  - [西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")（瀨戶內島波海道）
+  - [西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")（瀨戶內島波海道）
     (10)[大島北IC](../Page/大島北IC.md "wikilink") - (11)**大島南IC** -
     [馬島IC](https://zh.wikipedia.org/wiki/馬島IC "wikilink") -
     (12)[今治北IC](https://zh.wikipedia.org/wiki/今治北IC "wikilink")/[來島海峽SA](https://zh.wikipedia.org/wiki/來島海峽SA "wikilink")

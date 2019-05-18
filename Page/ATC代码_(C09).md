@@ -58,9 +58,8 @@
     C09BB02
     依那普利和[乐卡地平](https://zh.wikipedia.org/wiki/乐卡地平 "wikilink")（Enalapril
     and lercanidipine）
-    C09BB03
-    赖诺普利和[氨氯地平](https://zh.wikipedia.org/wiki/氨氯地平 "wikilink")（Lisinopril
-    and amlodipine）
+    C09BB03 赖诺普利和[氨氯地平](../Page/氨氯地平.md "wikilink")（Lisinopril and
+    amlodipine）
     C09BB04 培哚普利和氨氯地平（Perindopril and amlodipine）
     C09BB05
     雷米普利和[非洛地平](https://zh.wikipedia.org/wiki/非洛地平 "wikilink")（Ramipril

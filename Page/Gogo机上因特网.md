@@ -19,7 +19,7 @@ Gogo还称其将会利用卫星技术辅助ATG、ATG-4以提供额外容量。�
 一名记者于2008年进行了测试，测试显示：网络覆盖很连续，在从一个基站切换至下一基站时仅有很小的速度的延迟。在测试中，连接速度可与手机在地面的上网速度或家用[DSL速度相比](https://zh.wikipedia.org/wiki/DSL "wikilink")：下行速度约500–600Kibit/s，上行速度300Kibit/s。\[2\]航班总带宽约3兆比特/秒。
 
 Gogo服务与[Macintosh及运行](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[Linux和](../Page/Linux.md "wikilink")[Windows的电脑兼容](https://zh.wikipedia.org/wiki/Windows "wikilink")，同时可用于其他带有Wi-Fi功能的设备，包括[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")、[Android设备和](../Page/Android.md "wikilink")[iPhone](../Page/iPhone.md "wikilink")。
+Mobile](../Page/Windows_Mobile.md "wikilink")、[Android设备和](../Page/Android.md "wikilink")[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
 [Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG](https://zh.wikipedia.org/wiki/File:Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG "fig:Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG")
 

@@ -1,4 +1,4 @@
-《**TOKYO机场～东京机场管制保安部～**》（）是自2012年10月14日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[空中交通管制為主題](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")、[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）為背景，由[深田恭子](../Page/深田恭子.md "wikilink")、[佐佐木希](../Page/佐佐木希.md "wikilink")、[瀨戶康史](../Page/瀨戶康史.md "wikilink")、[要润](https://zh.wikipedia.org/wiki/要润 "wikilink")、[瀨戶朝香及](../Page/瀨戶朝香.md "wikilink")[時任三郎領銜主演](https://zh.wikipedia.org/wiki/時任三郎 "wikilink")，並得到[日本航空及](../Page/日本航空.md "wikilink")[全日空支持下拍攝](../Page/全日本空輸.md "wikilink")。
+《**TOKYO机场～东京机场管制保安部～**》（）是自2012年10月14日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[空中交通管制為主題](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")、[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）為背景，由[深田恭子](../Page/深田恭子.md "wikilink")、[佐佐木希](../Page/佐佐木希.md "wikilink")、[瀨戶康史](../Page/瀨戶康史.md "wikilink")、[要润](https://zh.wikipedia.org/wiki/要润 "wikilink")、[瀨戶朝香及](../Page/瀨戶朝香.md "wikilink")[時任三郎領銜主演](../Page/時任三郎.md "wikilink")，並得到[日本航空及](../Page/日本航空.md "wikilink")[全日空支持下拍攝](../Page/全日本空輸.md "wikilink")。
 
 ## 故事大綱
 
@@ -13,7 +13,7 @@ CONTROL
 東京航空交通管制部](https://zh.wikipedia.org/wiki/TOKYO_CONTROL_東京航空交通管制部 "wikilink")》之後兩年，但主場景由[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")（Tokyo
 Control）轉為羽田機場的管制塔。
 
-部份前作演員則轉到管制保安部上工作，如[時任三郎飾演的結城昇](https://zh.wikipedia.org/wiki/時任三郎 "wikilink")、[梶原善飾演的矢野元治](https://zh.wikipedia.org/wiki/梶原善 "wikilink")、[野波麻帆飾演的中島晴](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")、[別所哲也飾演的冰室一生](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")、及[螢雪次朗飾演的田邊明](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")。而[野間口徹飾演的敷島貴志](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")，則成為劇中由[小野武彥飾演的橫山博開設的](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")「敷島咖啡」店長。另一主角[川原亞矢子飾演的鈴木真紀](https://zh.wikipedia.org/wiki/川原亞矢子 "wikilink")，則在第十集客串演出，但由東京區域管制中心轉職至[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")。\[1\]
+部份前作演員則轉到管制保安部上工作，如[時任三郎飾演的結城昇](../Page/時任三郎.md "wikilink")、[梶原善飾演的矢野元治](https://zh.wikipedia.org/wiki/梶原善 "wikilink")、[野波麻帆飾演的中島晴](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")、[別所哲也飾演的冰室一生](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")、及[螢雪次朗飾演的田邊明](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")。而[野間口徹飾演的敷島貴志](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")，則成為劇中由[小野武彥飾演的橫山博開設的](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")「敷島咖啡」店長。另一主角[川原亞矢子飾演的鈴木真紀](https://zh.wikipedia.org/wiki/川原亞矢子 "wikilink")，則在第十集客串演出，但由東京區域管制中心轉職至[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")。\[1\]
 
 ## 演員表
 
@@ -90,7 +90,7 @@ Control）轉為羽田機場的管制塔。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/時任三郎" title="wikilink">時任三郎</a></p></td>
+<p><a href="../Page/時任三郎.md" title="wikilink">時任三郎</a></p></td>
 <td><center>
 <p>結城昇</p></td>
 <td><p>主幹管制官<br />
@@ -175,7 +175,7 @@ Control）轉為羽田機場的管制塔。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/佐藤江梨子" title="wikilink">佐藤江梨子</a></p></td>
+<p><a href="../Page/佐藤江梨子.md" title="wikilink">佐藤江梨子</a></p></td>
 <td><center>
 <p>桐島悠</p></td>
 <td><p>日航<a href="../Page/機場地勤.md" title="wikilink">機場地勤</a>，篠田香織之好友</p></td>
@@ -460,7 +460,7 @@ Control）轉為羽田機場的管制塔。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/木南晴夏" title="wikilink">木南晴夏</a></p></td>
+<p><a href="../Page/木南晴夏.md" title="wikilink">木南晴夏</a></p></td>
 <td><center>
 <p>矢吹典子</p></td>
 <td><p>全日空關係企業「Jalux」的紅酒採購。</p></td>

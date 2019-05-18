@@ -58,7 +58,7 @@
 <td><p>2009年12月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Poo/Chuai_Mad_Noi" title="wikilink">Poo／Chuai Mad Noi</a></p></td>
 <td><ul>
-<li>『<a href="https://zh.wikipedia.org/wiki/動物偵探奇魯米" title="wikilink">動物偵探奇魯米</a>』主題曲</li>
+<li>『<a href="../Page/動物偵探奇魯米.md" title="wikilink">動物偵探奇魯米</a>』主題曲</li>
 <li>日語版本亦有收錄。</li>
 </ul></td>
 <td><p>KICM-3198</p></td>

@@ -7,7 +7,7 @@ LR](../Page/.22_LR.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "
 
 ## 歷史
 
-由於P228-{只}-有9毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並不能像P220那樣可更換不同口徑的槍管。為了讓採用雙排彈匣的SIG-SAUER系列手槍有多種不同的口徑選擇以滿足市場的需要，美國SIG-Arms公司在1990年開始研製P229手槍，第一個原型在1991年初的美國槍展上公開，在1992年投放市場。外表上，P229與P228非常相似，尺寸相同。事實上，P229就是在P228的[底把上設計出來的](https://zh.wikipedia.org/wiki/机匣 "wikilink")，所有的內部機構都是P228的，P229與P228的主要區別是在口徑和[套筒設計上](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。
+由於P228-{只}-有9毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並不能像P220那樣可更換不同口徑的槍管。為了讓採用雙排彈匣的SIG-SAUER系列手槍有多種不同的口徑選擇以滿足市場的需要，美國SIG-Arms公司在1990年開始研製P229手槍，第一個原型在1991年初的美國槍展上公開，在1992年投放市場。外表上，P229與P228非常相似，尺寸相同。事實上，P229就是在P228的[底把上設計出來的](../Page/机匣.md "wikilink")，所有的內部機構都是P228的，P229與P228的主要區別是在口徑和[套筒設計上](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。
 
 SIG
 P229外形與P228非常接近，但卻比P228更適合任務和／或用途。標準版本採用了[單／雙動操作（SA／DA）扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，不過它也選擇使用[純雙動操作（DAO）扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。這種手槍也已經推出了一種DAK（）型號，一個具有兩個扳機復位點的DAO系統，比傳統的純雙動操作扳機手槍有更輕的[扳機扣力和更流暢的](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")[行程](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")。P226的大部份原廠衍生型也在P229上出現，包括Equinox型的選擇、精英型系列以及一個SAS
@@ -21,12 +21,12 @@ E2增強[人體工學型](../Page/人因工程学.md "wikilink")（）。\[2\]
 [P229_blk.jpg](https://zh.wikipedia.org/wiki/File:P229_blk.jpg "fig:P229_blk.jpg")
 P229與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管鎖在一起並且向後移動幾毫米](../Page/槍管.md "wikilink")，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍和](https://zh.wikipedia.org/wiki/白朗寧大威力手槍 "wikilink")[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](../Page/槍管.md "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[3\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍和](../Page/白朗寧大威力手槍.md "wikilink")[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管和套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](../Page/槍管.md "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[3\]
 
 P229在好幾個方面與其全尺寸型P226都有不同之處，而且最初計畫就是推出以補充存貨然後通過新增[.357
 SIG和](../Page/.357_SIG.md "wikilink")[.40
 S\&W兩種可以選擇使用的新](../Page/.40_S&W.md "wikilink")[口徑以取代P](https://zh.wikipedia.org/wiki/口徑 "wikilink")228。P229是第一把推出同時可以裝填.357
-SIG口徑手槍子彈的手槍。\[4\]P226和P228都採用了[鋁合金製](../Page/鋁合金.md "wikilink")[底把和](https://zh.wikipedia.org/wiki/机匣 "wikilink")[衝壓成形](../Page/衝壓.md "wikilink")[碳鋼製](../Page/碳鋼.md "wikilink")[套筒製造](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。而P229則是採用了[數控加工不銹鋼棒](https://zh.wikipedia.org/wiki/數控加工 "wikilink")[不鏽鋼機加成形套筒](../Page/不鏽鋼.md "wikilink")，一般塗為全黑色並且使用Nitron塗層[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。P229就是在推出時使用銑削不鏽鋼製套筒使它可以承受由.357
+SIG口徑手槍子彈的手槍。\[4\]P226和P228都採用了[鋁合金製](../Page/鋁合金.md "wikilink")[底把和](../Page/机匣.md "wikilink")[衝壓成形](../Page/衝壓.md "wikilink")[碳鋼製](../Page/碳鋼.md "wikilink")[套筒製造](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。而P229則是採用了[數控加工不銹鋼棒](https://zh.wikipedia.org/wiki/數控加工 "wikilink")[不鏽鋼機加成形套筒](../Page/不鏽鋼.md "wikilink")，一般塗為全黑色並且使用Nitron塗層[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。P229就是在推出時使用銑削不鏽鋼製套筒使它可以承受由.357
 SIG和.40
 S\&W兩種口徑手槍子彈所造成的更高套筒後座速度和[後座力](../Page/後座力.md "wikilink")，而P228就是因為沒有使用更堅硬的復進簧和採用的衝壓成形碳鋼製套筒強度不足而無法承受更高套筒速度和後座力。雖然這樣會使手動拉後套筒變得困難得多，不過採用銑削不鏽鋼製套筒（加上在[美国](../Page/美国.md "wikilink")[西格-紹爾工廠的新銑削和不銹鋼生產能力](../Page/西格&紹爾.md "wikilink")）與堅硬的標準重量復進簧使這輕微缺點更有意義。
 
@@ -39,7 +39,7 @@ P229的一條標準重量復進簧彈簧力為71牛頓（16磅力）。而[衝�
 SIG和](../Page/.357_SIG.md "wikilink")[.40
 S\&W兩種](../Page/.40_S&W.md "wikilink")[口徑的時候的復進簧彈簧力會因為需要承受更大膛壓而增加至](https://zh.wikipedia.org/wiki/口徑 "wikilink")89牛頓（20磅力）甚至更大。根據[運動武器及彈藥製造商協會](https://zh.wikipedia.org/wiki/運動武器及彈藥製造商協會 "wikilink")（，簡稱：SAAMI）的標準，[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[9×19毫米高壓彈](https://zh.wikipedia.org/wiki/高膛壓彈藥 "wikilink")、[.40
 S\&W和](../Page/.40_S&W.md "wikilink")[.357
-SIG分別是](../Page/.357_SIG.md "wikilink")：35,000[磅力每平方英寸](../Page/磅力每平方英寸.md "wikilink")（240[百帕斯卡](../Page/帕斯卡.md "wikilink")）、38,500磅力每平方英寸（265百帕斯卡）、35,000磅力每平方英寸（240百帕斯卡）和40,000磅力每平方英寸（280百帕斯卡）。P226的套筒因而進行了重新設計為與P229相同的方式[數控加工不銹鋼棒銑削](https://zh.wikipedia.org/wiki/數控加工 "wikilink")[不鏽鋼機加成形套筒](../Page/不鏽鋼.md "wikilink")，並由於P228的銷售量下降和即將推出的P229並有9×19毫米口徑而在2005年初停止了P228對民間的銷售。P226和P229都可選擇整合戰術配件導軌和可選擇使用鍛製的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")。
+SIG分別是](../Page/.357_SIG.md "wikilink")：35,000[磅力每平方英寸](../Page/磅力每平方英寸.md "wikilink")（240[百帕斯卡](../Page/帕斯卡.md "wikilink")）、38,500磅力每平方英寸（265百帕斯卡）、35,000磅力每平方英寸（240百帕斯卡）和40,000磅力每平方英寸（280百帕斯卡）。P226的套筒因而進行了重新設計為與P229相同的方式[數控加工不銹鋼棒銑削](https://zh.wikipedia.org/wiki/數控加工 "wikilink")[不鏽鋼機加成形套筒](../Page/不鏽鋼.md "wikilink")，並由於P228的銷售量下降和即將推出的P229並有9×19毫米口徑而在2005年初停止了P228對民間的銷售。P226和P229都可選擇整合戰術配件導軌和可選擇使用鍛製的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[底把](../Page/机匣.md "wikilink")。
 
 P229可以裝填、發射[.22
 LR](../Page/.22_LR.md "wikilink")、[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
@@ -58,7 +58,7 @@ S\&W的兩種較大[口徑的子彈的零件的所需空間](https://zh.wikipedi
 
 由於在2011年西格-紹爾已經慢慢地開始在所有P229型號的範圍都採用了E2樣式的握把系統——這種類似的改進舉動也在較大的全尺寸型的P226上進行——他們也開始直接使用.357
 SIG／.40
-S\&W口徑規格的[底把尺寸作為他們的原廠](https://zh.wikipedia.org/wiki/机匣 "wikilink")9×19毫米口徑P229底把，可能是為了優化保留在庫存內可以更換或變化的零部件的需要。雖然生產商已經宣布，舊式型號的[彈匣仍然可以在新的](../Page/彈匣.md "wikilink")[機匣型號上繼續使用](https://zh.wikipedia.org/wiki/機匣 "wikilink")，西格-紹爾卻已經修改了新型的P229的9×19毫米口徑原廠彈匣的設計，另一方面亦重新調整握把內的[彈匣插槽的大小](https://zh.wikipedia.org/wiki/彈匣插槽 "wikilink")，以對應重新設定以後的機匣／底把。其結果是，較新型的彈匣由於其直徑較大，因而不能反向兼容。
+S\&W口徑規格的[底把尺寸作為他們的原廠](../Page/机匣.md "wikilink")9×19毫米口徑P229底把，可能是為了優化保留在庫存內可以更換或變化的零部件的需要。雖然生產商已經宣布，舊式型號的[彈匣仍然可以在新的](../Page/彈匣.md "wikilink")[機匣型號上繼續使用](https://zh.wikipedia.org/wiki/機匣 "wikilink")，西格-紹爾卻已經修改了新型的P229的9×19毫米口徑原廠彈匣的設計，另一方面亦重新調整握把內的[彈匣插槽的大小](https://zh.wikipedia.org/wiki/彈匣插槽 "wikilink")，以對應重新設定以後的機匣／底把。其結果是，較新型的彈匣由於其直徑較大，因而不能反向兼容。
 
 [美国海岸警卫队在](../Page/美国海岸警卫队.md "wikilink")2004年，第一批14,000把手槍從生產設施出廠開始轉換到P229。根據生產商的網站，美國政府在測試期間發射了超過30,000發子彈。\[6\]
 
@@ -73,7 +73,7 @@ Arms公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前稱[SIGARM
 
 ### P229導軌型
 
-P229導軌型（，簡稱：P229R）基本上與P229是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。P229R的導軌輪廓比[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌）更為圓潤，雖然仍然可以適配並且裝上大多數使用皮卡汀尼導軌的戰術配件，但並不是全部的都可以。在P229
+P229導軌型（，簡稱：P229R）基本上與P229是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。P229R的導軌輪廓比[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌）更為圓潤，雖然仍然可以適配並且裝上大多數使用皮卡汀尼導軌的戰術配件，但並不是全部的都可以。在P229
 E2型以前曾經成為了標準型P229。\[7\]
 
 ### P229戰術緋紅軌跡型
@@ -83,14 +83,14 @@ P229R的衍生型，具有內置[雷射瞄準的握把側板](https://zh.wikiped
 ### P229 SCT型
 
 西格-紹爾P229
-SCT型（全稱：，意為：超大容量戰術型）是一把全黑色Nitron[表面處理的P](https://zh.wikipedia.org/wiki/表面處理 "wikilink")229衍生型，它具有[套筒前面的多條鋸齒狀突起的防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、戰術配件導軌、SIGLITE夜間[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")、TRUGLO[氚光](../Page/氚.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星和四個新設計的](https://zh.wikipedia.org/wiki/照準器 "wikilink")9毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")17發[彈匣或四個](../Page/彈匣.md "wikilink").40
+SCT型（全稱：，意為：超大容量戰術型）是一把全黑色Nitron[表面處理的P](https://zh.wikipedia.org/wiki/表面處理 "wikilink")229衍生型，它具有[套筒前面的多條鋸齒狀突起的防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、戰術配件導軌、SIGLITE夜間[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")、TRUGLO[氚光](../Page/氚.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星和四個新設計的](../Page/照準器.md "wikilink")9毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")17發[彈匣或四個](../Page/彈匣.md "wikilink").40
 S\&W[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")14發大容量彈匣。P229
 SCT型目前已經停止生產。
 
 ### P229春分型
 
 西格-紹爾P229春分型發射[.40
-S\&W](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈並且具有使用雙色調設計](../Page/子彈.md "wikilink")。其設計通過刷子將[套筒表面](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[拋光處理和槍口內部的控件](https://zh.wikipedia.org/wiki/拋光 "wikilink")[镍實現](../Page/镍.md "wikilink")。P229春分型具有SIGLITE夜間[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")、TRUGLO[氚光](../Page/氚.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")、SIG戰術配件導軌和灰色層壓木製握把片。\[8\]
+S\&W](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈並且具有使用雙色調設計](../Page/子彈.md "wikilink")。其設計通過刷子將[套筒表面](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[拋光處理和槍口內部的控件](https://zh.wikipedia.org/wiki/拋光 "wikilink")[镍實現](../Page/镍.md "wikilink")。P229春分型具有SIGLITE夜間[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")、TRUGLO[氚光](../Page/氚.md "wikilink")[光纖](../Page/光導纖維.md "wikilink")[準星](../Page/照準器.md "wikilink")、SIG戰術配件導軌和灰色層壓木製握把片。\[8\]
 
 ### P229極限型
 
@@ -99,7 +99,7 @@ S\&W](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子�
 ### P229精英型
 
 SIG Sauer
-P229精英型具有進一步提升[人體工學的延長](../Page/人因工程学.md "wikilink")[河狸尾狀握把](../Page/河狸.md "wikilink")、[套筒前面的多條鋸齒狀突起的防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、握把前端具有的帶型格子花紋、特製木製握把片、可調節式戰鬥用途夜間[機械瞄具和快速復位扳機](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")（，簡稱：SRT）。SIG的工程師所設計的快速復位扳機在保證與SIG[單／雙動操作（SA／DA）扳機相同程度的保險和動作以下使扳機復位速度縮短](https://zh.wikipedia.org/wiki/扳機 "wikilink")60℅，這樣可使高速連續射擊的時候扳機復位速度得以加快。黑色槍身精英型更使用霍格（）式[鋁合金握把以取代木材](../Page/鋁合金.md "wikilink")。白金槍身精英型也裝有鋁合金握把。P229精英型有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.357
+P229精英型具有進一步提升[人體工學的延長](../Page/人因工程学.md "wikilink")[河狸尾狀握把](../Page/河狸.md "wikilink")、[套筒前面的多條鋸齒狀突起的防滑紋](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、握把前端具有的帶型格子花紋、特製木製握把片、可調節式戰鬥用途夜間[機械瞄具和快速復位扳機](../Page/機械瞄具.md "wikilink")（，簡稱：SRT）。SIG的工程師所設計的快速復位扳機在保證與SIG[單／雙動操作（SA／DA）扳機相同程度的保險和動作以下使扳機復位速度縮短](https://zh.wikipedia.org/wiki/扳機 "wikilink")60℅，這樣可使高速連續射擊的時候扳機復位速度得以加快。黑色槍身精英型更使用霍格（）式[鋁合金握把以取代木材](../Page/鋁合金.md "wikilink")。白金槍身精英型也裝有鋁合金握把。P229精英型有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.357
 SIG和](../Page/.357_SIG.md "wikilink")[.40
 S\&W三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")。目前P229精英型只有[不鏽鋼槍身仍在生產](../Page/不鏽鋼.md "wikilink")。
 
@@ -108,14 +108,14 @@ S\&W三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")
 SIG Sauer
 P229國土安全手槍（，簡稱：HSP）在2005年9月11日發售，與SIG為[美國國土安全部所生產的型號是相同的](../Page/美國國土安全部.md "wikilink")。這些限量生產1,000把的P229R
 HSP手槍上面刻有[美国国旗和](../Page/美国国旗.md "wikilink")“國土安全X”（1,000以內）。此外，就像那些被運到國土安全部使用的型號般，每把手槍都是[.40
-S\&W](../Page/.40_S&W.md "wikilink")[口徑並且刻有序號條碼](https://zh.wikipedia.org/wiki/口徑 "wikilink")。HSP型還設有新型DAK扳機，裝上SIGLITE夜間機械瞄具並且具有Nitron塗層[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和整合了戰術配件導軌的輕量化](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[合金](../Page/合金.md "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")。
+S\&W](../Page/.40_S&W.md "wikilink")[口徑並且刻有序號條碼](https://zh.wikipedia.org/wiki/口徑 "wikilink")。HSP型還設有新型DAK扳機，裝上SIGLITE夜間機械瞄具並且具有Nitron塗層[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和整合了戰術配件導軌的輕量化](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[合金](../Page/合金.md "wikilink")[底把](../Page/机匣.md "wikilink")。
 
 與這型號一同推出的P226R HSP型亦具有與上述相同的特色。
 
 ### P229蝎子型
 
 就像[SIG
-P220手槍推出了其](../Page/SIG_P220手槍.md "wikilink")[蝎子型](https://zh.wikipedia.org/wiki/SIG_P220蝎子型手槍 "wikilink")，西格-紹爾P229有兩種蝎子型型號，分別是P229蝎子型和P229蝎子型TB（螺紋槍管），和使用[單／雙動操作（SA／DA）扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。與其他型號的顯著差異，就是它使用了完全的[泥黃色的](https://zh.wikipedia.org/wiki/泥黃色 "wikilink")[槍身和](https://zh.wikipedia.org/wiki/槍身 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。P229蝎子型具有夜間[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、Nitron表面處理的套筒\]和[槍管](../Page/槍管.md "wikilink")、前幻燈片鋸齒、套筒前面的多條鋸齒狀突起的防滑紋、一條用以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件的軍用標準型整合式](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌）、經過[磷酸鹽塗層處理的內部零件以及霍格](../Page/磷酸鹽.md "wikilink")（）極限型G-10握把。TB型號具有一根延長至109.22毫米（4.3英吋）的[槍管和把](../Page/槍管.md "wikilink")[槍管前端延長的](../Page/槍管.md "wikilink")15毫米（0.59英吋）作為外露螺紋用以安裝[消聲器](../Page/抑制器.md "wikilink")。
+P220手槍推出了其](../Page/SIG_P220手槍.md "wikilink")[蝎子型](https://zh.wikipedia.org/wiki/SIG_P220蝎子型手槍 "wikilink")，西格-紹爾P229有兩種蝎子型型號，分別是P229蝎子型和P229蝎子型TB（螺紋槍管），和使用[單／雙動操作（SA／DA）扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")。與其他型號的顯著差異，就是它使用了完全的[泥黃色的](https://zh.wikipedia.org/wiki/泥黃色 "wikilink")[槍身和](https://zh.wikipedia.org/wiki/槍身 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。P229蝎子型具有夜間[機械瞄具](../Page/機械瞄具.md "wikilink")、Nitron表面處理的套筒\]和[槍管](../Page/槍管.md "wikilink")、前幻燈片鋸齒、套筒前面的多條鋸齒狀突起的防滑紋、一條用以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件的軍用標準型整合式](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")（又稱：皮卡汀尼導軌）、經過[磷酸鹽塗層處理的內部零件以及霍格](../Page/磷酸鹽.md "wikilink")（）極限型G-10握把。TB型號具有一根延長至109.22毫米（4.3英吋）的[槍管和把](../Page/槍管.md "wikilink")[槍管前端延長的](../Page/槍管.md "wikilink")15毫米（0.59英吋）作為外露螺紋用以安裝[消聲器](../Page/抑制器.md "wikilink")。
 
 ### P229 E2型
 
@@ -123,7 +123,7 @@ P220手槍推出了其](../Page/SIG_P220手槍.md "wikilink")[蝎子型](https:/
 E2型在2010年的（美國著名槍展）上首次亮相，在當時對於P229系列而言是一個重大的更新。“E2”（英文發音：E-squared，意為：E-平方），另一方面又稱為“增強[人體工學型](../Page/人因工程学.md "wikilink")”。由此可見，新型E2系列手槍主要是對原先的手槍進行了更加人性化的改進設計。
 
 P229
-E2是西格-紹爾重新設計[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，試圖把大型底把的P226手槍變成連中小型[手掌的人都更能符合人體工學的手槍](https://zh.wikipedia.org/wiki/手掌 "wikilink")。
+E2是西格-紹爾重新設計[底把](../Page/机匣.md "wikilink")，試圖把大型底把的P226手槍變成連中小型[手掌的人都更能符合人體工學的手槍](https://zh.wikipedia.org/wiki/手掌 "wikilink")。
 
 P229
 E2的內部結構與其原型槍相同，採用改進的白朗寧[槍管擺動式閉鎖方式和](https://zh.wikipedia.org/wiki/槍管擺動式 "wikilink")[槍管短行程後座作用自動方式](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")，擊發機構​​為傳統的單／雙動操作扳機（SA／DA）。只是在外觀尺寸上，P229
@@ -145,7 +145,7 @@ LITE三點式機械瞄具，其上有氚光管，便於暗夜使用。套筒尾�
 E2手槍的套筒座並沒有採用[聚合物](../Page/聚合物.md "wikilink")，而是採用7075-T6航空級[鋁合金製造](../Page/鋁合金.md "wikilink")，這種鋁合金主要用於製造飛機構件及其他要求強度高、抗腐蝕性能強的高應力結構件。這種材料使P229
 E2手槍非常堅固，並且十分耐用，壽命非常長。P229
 E2手槍的套筒座是在美國的新罕布什爾州埃克塞特市的西格-紹爾美國分公司生產的。所以與P226
-E2手槍套筒上的銘文有所不同。E2系列手槍套筒座前端下方均帶有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以配備[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+E2手槍套筒上的銘文有所不同。E2系列手槍套筒座前端下方均帶有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以配備[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 #### 握把護板
 
@@ -154,7 +154,7 @@ E2手槍的最大改變之處就是握把護板。新型的E2握把護板有著�
 
 #### 扳機
 
-西格-紹爾公司在[扳機上也進行了改進](https://zh.wikipedia.org/wiki/扳機 "wikilink")——採用新型的快速復位扳機（，簡稱：SRT）系統，使E2系列扳機回復原位的速度加快了60％，進而使得擊發速度更快。雙動扳機力為53牛頓（11.91磅力），單動扳機力為26牛頓（5.85磅力）。扳機本身的厚度也進行了修改，縮小了扳機的輪廓，比原先的扳機厚度減少了5毫米，讓扳機表面向後後退超過13毫米（0.51英吋），這是為了使手形比較小的射手能夠有效地扣動扳機，從而儘可能讓使用者和手槍有更好的操作方法。這樣的設計與新型握把護板的設計相互呼應，有助於射手在進行速射時能夠更有效地打出[雙連擊](https://zh.wikipedia.org/wiki/雙連擊 "wikilink")（）\[10\]。這一特點非常符合特種部隊和特工的射擊要求。\[11\]
+西格-紹爾公司在[扳機上也進行了改進](https://zh.wikipedia.org/wiki/扳機 "wikilink")——採用新型的快速復位扳機（，簡稱：SRT）系統，使E2系列扳機回復原位的速度加快了60％，進而使得擊發速度更快。雙動扳機力為53牛頓（11.91磅力），單動扳機力為26牛頓（5.85磅力）。扳機本身的厚度也進行了修改，縮小了扳機的輪廓，比原先的扳機厚度減少了5毫米，讓扳機表面向後後退超過13毫米（0.51英吋），這是為了使手形比較小的射手能夠有效地扣動扳機，從而儘可能讓使用者和手槍有更好的操作方法。這樣的設計與新型握把護板的設計相互呼應，有助於射手在進行速射時能夠更有效地打出[雙連擊](../Page/雙連擊.md "wikilink")（）\[10\]。這一特點非常符合特種部隊和特工的射擊要求。\[11\]
 
 P229
 E2型在P229系列型號上雖然已經停止生產，但是E2樣式握把系統已經得到採納並且成為了標準型P229的正式使用握把，其結構亦已經轉用到其他P229衍生型上。\[12\]
@@ -163,7 +163,7 @@ E2型在P229系列型號上雖然已經停止生產，但是E2樣式握把系統
 
 這個[.22
 LR型號的主要目的是作為練習或是靶場手槍](../Page/.22_LR.md "wikilink")。經典型22具有Nitron塗層的[鋁合金](../Page/鋁合金.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（不像[中央式底火](../Page/中央式底火.md "wikilink")[口徑型號使用的是](https://zh.wikipedia.org/wiki/口徑 "wikilink")[不鏽鋼套筒](../Page/不鏽鋼.md "wikilink")）和[槍管為](../Page/槍管.md "wikilink")[發射](../Page/膛室.md "wikilink")[.22
-LR](../Page/.22_LR.md "wikilink")[凸緣式底火](../Page/凸緣式底火.md "wikilink")[子彈](../Page/子彈.md "wikilink")。經典型22的套筒組件完全是使用更輕的[復進簧和](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[塑料導桿](../Page/塑料.md "wikilink")。它還採用了與其他中央式底火P229型號相同的[底把和操作方式](https://zh.wikipedia.org/wiki/机匣 "wikilink")。經典型22號可以作為一把獨立的槍械或將現有的中央式底火P229或P229型通過轉換套件轉換而成。同樣，SIG
+LR](../Page/.22_LR.md "wikilink")[凸緣式底火](../Page/凸緣式底火.md "wikilink")[子彈](../Page/子彈.md "wikilink")。經典型22的套筒組件完全是使用更輕的[復進簧和](https://zh.wikipedia.org/wiki/復進簧 "wikilink")[塑料導桿](../Page/塑料.md "wikilink")。它還採用了與其他中央式底火P229型號相同的[底把和操作方式](../Page/机匣.md "wikilink")。經典型22號可以作為一把獨立的槍械或將現有的中央式底火P229或P229型通過轉換套件轉換而成。同樣，SIG
 Sauer亦生產了轉換套件（SIG Sauer X改變套件）將其由發射.22
 LR子彈轉換成發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.357
 SIG和](../Page/.357_SIG.md "wikilink")[.40
@@ -179,7 +179,7 @@ Sauer生產，而Mosquito則是通過得到[德國運動槍有限公司的合法
 ### P229軍團型
 
 2015年，西格-紹爾宣布推出軍團型系列槍械，其中包括P229軍團型（可用口徑為9毫米、.357 SIG和.40
-S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項改進而成。相比於原型槍，P229軍團型手槍的結構及外形並無變化，只是局部小改進。比如升級型瞄準具、自定義型握把、降低型海狸尾、將空槍挂機解脫桿及擊鎚待擊解脫桿輪廓縮小、實心鋼製導桿、自定義型扳機、扳機扣力可調節，和套筒與套筒座表面進行灰色PVD[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。\[16\]同時推出的附件包括[戰術燈和戰術刀](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，戰術刀有折疊式、不可折疊式兩種款式可供選擇。戰術燈可安裝在手槍套筒座前端下方的[MIL-STD-1913戰術導軌以上](../Page/皮卡汀尼導軌.md "wikilink")，而戰術刀則單獨使用。另外在手槍的握把護板及戰術刀的刀身上均設有“軍團”標記。
+S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項改進而成。相比於原型槍，P229軍團型手槍的結構及外形並無變化，只是局部小改進。比如升級型瞄準具、自定義型握把、降低型海狸尾、將空槍挂機解脫桿及擊鎚待擊解脫桿輪廓縮小、實心鋼製導桿、自定義型扳機、扳機扣力可調節，和套筒與套筒座表面進行灰色PVD[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。\[16\]同時推出的附件包括[戰術燈和戰術刀](../Page/戰術燈.md "wikilink")，戰術刀有折疊式、不可折疊式兩種款式可供選擇。戰術燈可安裝在手槍套筒座前端下方的[MIL-STD-1913戰術導軌以上](../Page/皮卡汀尼導軌.md "wikilink")，而戰術刀則單獨使用。另外在手槍的握把護板及戰術刀的刀身上均設有“軍團”標記。
 
 [P229_DAK_w._acc_rail.jpg](https://zh.wikipedia.org/wiki/File:P229_DAK_w._acc_rail.jpg "fig:P229_DAK_w._acc_rail.jpg")
 
@@ -200,7 +200,7 @@ S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項�
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/澳大利亞陸軍.md" title="wikilink">澳大利亞陸軍</a><a href="https://zh.wikipedia.org/wiki/特種空勤團_(澳大利亞)" title="wikilink">特種空勤團</a></p></td>
+<td><p><a href="../Page/澳大利亞陸軍.md" title="wikilink">澳大利亞陸軍</a><a href="../Page/特種空勤團_(澳大利亞).md" title="wikilink">特種空勤團</a></p></td>
 <td><p>P229</p></td>
 </tr>
 <tr class="even">
@@ -339,7 +339,7 @@ S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/美國魚類及野生動物管理局" title="wikilink">美國魚類及野生動物管理局</a></p></td>
+<td><p><a href="../Page/美國魚類及野生動物管理局.md" title="wikilink">美國魚類及野生動物管理局</a></p></td>
 <td><p>P229（<a href="../Page/.357_SIG.md" title="wikilink">.357 SIG</a>）</p></td>
 <td></td>
 </tr>
@@ -414,12 +414,12 @@ S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項�
   - [SIG P226](../Page/SIG_P226手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227手槍.md "wikilink")
   - [SIG P228](../Page/SIG_P228手槍.md "wikilink")
-  - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224手槍 "wikilink")
-  - [SIG P230](https://zh.wikipedia.org/wiki/SIG_P230手槍 "wikilink")
+  - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
+  - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
-  - [史密斯威森M459](https://zh.wikipedia.org/wiki/史密斯威森M59手槍 "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
 
 ## 資料來源
 

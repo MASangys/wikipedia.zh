@@ -1,10 +1,10 @@
-**OSV-96“胡桃鉗”**（，）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](https://zh.wikipedia.org/wiki/俄联邦仪器设计局 "wikilink")12.7毫米（.50英吋）大口徑重型[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**OSV-96“胡桃鉗”**（，）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](../Page/俄联邦仪器设计局.md "wikilink")12.7毫米（.50英吋）大口徑重型[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 其主要用途是打擊距離超過1,000公尺（1,093.61码，3,280.84英尺，0.62英里）的目標、反狙擊、貫穿厚厚的牆壁和輕型[裝甲戰鬥車輛](../Page/装甲车.md "wikilink")。
 
 ## 歷史
 
-OSV-96是由1990年代初[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](https://zh.wikipedia.org/wiki/俄联邦仪器设计局 "wikilink")12.7毫米（.50英吋）V-94（）試作型反器材步槍改進而成，該槍是以1980年代[阿富汗戰爭經驗而研製的一種大口徑反器材狙擊步槍的原型](../Page/苏联－阿富汗战争.md "wikilink")。OSV-96除了用以出口以外，目前亦已經被[俄罗斯特种部队和在](../Page/俄罗斯特种部队.md "wikilink")[车臣的](../Page/车臣共和国.md "wikilink")[内務部部隊少量採用](https://zh.wikipedia.org/wiki/俄羅斯内務部 "wikilink")。
+OSV-96是由1990年代初[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](../Page/俄联邦仪器设计局.md "wikilink")12.7毫米（.50英吋）V-94（）試作型反器材步槍改進而成，該槍是以1980年代[阿富汗戰爭經驗而研製的一種大口徑反器材狙擊步槍的原型](../Page/苏联－阿富汗战争.md "wikilink")。OSV-96除了用以出口以外，目前亦已經被[俄罗斯特种部队和在](../Page/俄罗斯特种部队.md "wikilink")[车臣的](../Page/车臣共和国.md "wikilink")[内務部部隊少量採用](https://zh.wikipedia.org/wiki/俄羅斯内務部 "wikilink")。
 
 ## 設計細節
 
@@ -20,7 +20,7 @@ OSV-96最明顯的特點就是它能在[槍管](../Page/槍管.md "wikilink")／
 59.0[克](https://zh.wikipedia.org/wiki/克 "wikilink")（911[格令](https://zh.wikipedia.org/wiki/格令 "wikilink")）[全金屬被甲型](https://zh.wikipedia.org/wiki/子彈#全金属被甲弹（FMJ_-_Full_Metal_Jacket） "wikilink")（，簡稱：FMJ）及[穿甲型](../Page/穿甲弹.md "wikilink")（，簡稱：AP）狙擊[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，或是諸如B-32、BZT、BS等各式[穿甲](../Page/穿甲弹.md "wikilink")[燃烧弹](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")（，簡稱：API），能夠在100公尺（109.36[码](https://zh.wikipedia.org/wiki/码 "wikilink")，328.08英尺）的距離上擊穿18—20毫米（0.71—0.79英吋）厚的鋼板。OSV-96也可以通用12.7毫米大口徑普通機槍彈以進行射擊，但其精度會因而受限。其可拆卸式[彈匣裝在機匣下方](../Page/彈匣.md "wikilink")。
 
 OSV-96可以在機匣[機匣左側的](https://zh.wikipedia.org/wiki/機匣 "wikilink")上裝上眾多的[光學瞄準鏡或是](../Page/瞄准镜.md "wikilink")[夜視瞄準鏡](../Page/夜視鏡.md "wikilink")，例如[POS
-12×54](https://zh.wikipedia.org/wiki/POS_12×54瞄準鏡 "wikilink")[光學瞄準鏡或是PKN](../Page/瞄准镜.md "wikilink")[夜視瞄準鏡](../Page/夜視鏡.md "wikilink")。這枝步槍並具有在V-94試作型反器材步槍上所沒有的可折疊式緊急後備[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，分別是槍口後方的[準星和機匣上方設置的](https://zh.wikipedia.org/wiki/照準器 "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，當狙擊鏡損壞時仍然可作為緊急瞄準的備用瞄準具。
+12×54](https://zh.wikipedia.org/wiki/POS_12×54瞄準鏡 "wikilink")[光學瞄準鏡或是PKN](../Page/瞄准镜.md "wikilink")[夜視瞄準鏡](../Page/夜視鏡.md "wikilink")。這枝步槍並具有在V-94試作型反器材步槍上所沒有的可折疊式緊急後備[機械瞄具](../Page/機械瞄具.md "wikilink")，分別是槍口後方的[準星和機匣上方設置的](../Page/照準器.md "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，當狙擊鏡損壞時仍然可作為緊急瞄準的備用瞄準具。
 
 由於OSV-96的缺點是[噪音過大](https://zh.wikipedia.org/wiki/噪声 "wikilink")，因此建議在射擊時要配帶耳塞。
 
@@ -72,7 +72,7 @@ OSV-96可以在機匣[機匣左側的](https://zh.wikipedia.org/wiki/機匣 "wik
 ### 電影動畫
 
   - 2015年—《[劇場版-{zh-hans:心理测量者;
-    zh-hant:心靈判官;}-](https://zh.wikipedia.org/wiki/心理测量者剧场版 "wikilink")》（Psycho-Pass:
+    zh-hant:心靈判官;}-](../Page/心理测量者剧场版.md "wikilink")》（Psycho-Pass:
     The Movie，劇場版 PSYCHO-PASS サイコパス）：被前公安局執行官、現反抗軍指揮官兼顧問狡嚙慎也（こうがみ
     しんや，[聲優](../Page/聲優.md "wikilink")：[關智一](../Page/關智一.md "wikilink")）所使用。
 
@@ -83,7 +83,7 @@ OSV-96可以在機匣[機匣左側的](https://zh.wikipedia.org/wiki/機匣 "wik
 <File:ОСВ-96> 12,7-мм снайперская винтовка - МАКС-2009
 01.jpg|2009年[莫斯科国际航空航天展览会](../Page/莫斯科国际航空航天展览会.md "wikilink")（MAKS）上的OSV-96重型狙擊步槍展出槍
 <File:OSV-96> and OTs-03
-MAKS-2009.jpg|2009年莫斯科国际航空航天展览会（MAKS）上的OSV-96重型狙擊步槍和[OTs-03狙擊步槍展出槍](https://zh.wikipedia.org/wiki/SVU狙擊步槍 "wikilink")
+MAKS-2009.jpg|2009年莫斯科国际航空航天展览会（MAKS）上的OSV-96重型狙擊步槍和[OTs-03狙擊步槍展出槍](../Page/SVU狙擊步槍.md "wikilink")
 <File:OSV-96>
 Interpolitex-2009.jpg|2009年[俄羅斯國際軍警安防設備展](https://zh.wikipedia.org/wiki/俄羅斯國際軍警安防設備展 "wikilink")（Interpolitex
 2009）上的OSV-96重型狙擊步槍展出槍 <File:OSV-96> Interpolitex-2009 02.jpg|
@@ -97,12 +97,12 @@ sight 03.jpg| <File:OSV-96> with POS 12x50 sight 04.jpg|
   - [狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")
   - [反坦克步槍](../Page/反坦克步槍.md "wikilink")
-  - [10式狙击步枪](https://zh.wikipedia.org/wiki/10式狙击步枪 "wikilink")
+  - [10式狙击步枪](../Page/10式狙击步枪.md "wikilink")
   - [6P62戰鬥步槍](../Page/6P62戰鬥步槍.md "wikilink")
   - [精密國際AS50](../Page/精密國際AS50狙擊步槍.md "wikilink")
   - [巴雷特M82](../Page/巴雷特M82狙擊步槍.md "wikilink")
   - [巴雷特XM500](../Page/巴雷特XM500狙擊步槍.md "wikilink")
-  - [巴雷特XM109](https://zh.wikipedia.org/wiki/巴雷特XM109狙擊榴彈發射器 "wikilink")
+  - [巴雷特XM109](../Page/巴雷特XM109狙擊榴彈發射器.md "wikilink")
   - [Gepard](../Page/Gepard狙擊步槍.md "wikilink")
   - [Istiglal](../Page/Istiglal狙擊步槍.md "wikilink")
   - [NTW-20](../Page/NTW-20.md "wikilink")

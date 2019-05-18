@@ -43,9 +43,8 @@ Ltd.*）是[日本的](../Page/日本.md "wikilink")[IT情報關聯企業](https
   - [TNX](https://zh.wikipedia.org/wiki/TNX "wikilink")
   - [Teichiku
     Entertainment](https://zh.wikipedia.org/wiki/Teichiku_Entertainment "wikilink")
-  - [TOY'S
-    FACTORY](https://zh.wikipedia.org/wiki/TOY'S_FACTORY "wikilink")
-  - [德間日本傳播](https://zh.wikipedia.org/wiki/德間日本傳播 "wikilink")
+  - [TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")
+  - [德間日本傳播](../Page/德間日本傳播.md "wikilink")
   - [DREAMUSIC](https://zh.wikipedia.org/wiki/DREAMUSIC "wikilink")
   - [日本 CROWN](https://zh.wikipedia.org/wiki/日本_CROWN "wikilink")
   - [日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
@@ -62,8 +61,7 @@ Ltd.*）是[日本的](../Page/日本.md "wikilink")[IT情報關聯企業](https
   - [YAMAHA MUSIC
     COMMUNICATIONS](https://zh.wikipedia.org/wiki/YAMAHA_MUSIC_COMMUNICATIONS "wikilink")
   - [環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")
-  - [YOSHIMOTO R and
-    C](https://zh.wikipedia.org/wiki/YOSHIMOTO_R_and_C "wikilink")
+  - [YOSHIMOTO R and C](../Page/YOSHIMOTO_R_and_C.md "wikilink")
   - [Roadrunner
     Records](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")
   - [日本華納音樂](../Page/日本華納音樂.md "wikilink")

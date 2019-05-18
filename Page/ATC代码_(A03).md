@@ -135,7 +135,7 @@
     A03AX12
     [间苯三酚](https://zh.wikipedia.org/wiki/间苯三酚 "wikilink")（Phloroglucinol）
     A03AX13
-    [硅氧烷](https://zh.wikipedia.org/wiki/硅氧烷 "wikilink")（Silicones），包括[西甲硅油](https://zh.wikipedia.org/wiki/西甲硅油 "wikilink")（simeticone）
+    [硅氧烷](../Page/硅氧烷.md "wikilink")（Silicones），包括[西甲硅油](../Page/西甲硅油.md "wikilink")（simeticone）
     A03AX30
     [三甲基二苯丙胺](https://zh.wikipedia.org/wiki/三甲基二苯丙胺 "wikilink")（Trimethyldiphenylpropylamine）
     A03AX58 阿尔维林复方（Alverine, combinations）
@@ -274,8 +274,7 @@
 ### A03FA 胃肠动力药（Propulsives）
 
   -
-    A03FA01
-    [甲氧氯普胺](https://zh.wikipedia.org/wiki/甲氧氯普胺 "wikilink")（Metoclopramide）
+    A03FA01 [甲氧氯普胺](../Page/甲氧氯普胺.md "wikilink")（Metoclopramide）
     A03FA02
     [西沙必利](https://zh.wikipedia.org/wiki/西沙必利 "wikilink")（Cisapride）
     A03FA03 [多潘立酮](../Page/多潘立酮.md "wikilink")（吗叮啉）（Domperidone）

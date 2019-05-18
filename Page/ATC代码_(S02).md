@@ -39,8 +39,7 @@
     [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
     S02BA03 [泼尼松龙](../Page/泼尼松龙.md "wikilink")（Prednisolone）
     S02BA06 [地塞米松](../Page/地塞米松.md "wikilink")（Dexamethasone）
-    S02BA07
-    [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
+    S02BA07 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
     S02BA08
     [氟轻松](https://zh.wikipedia.org/wiki/氟轻松 "wikilink")（Fluocinolone
     acetonide）
@@ -76,8 +75,7 @@
   -
     S02DA01 [利多卡因](../Page/利多卡因.md "wikilink")（Lidocaine）
     S02DA02 [可卡因](../Page/可卡因.md "wikilink")（Cocaine）
-    S02DA03
-    [安替比林](https://zh.wikipedia.org/wiki/安替比林 "wikilink")（Phenazone）
+    S02DA03 [安替比林](../Page/安替比林.md "wikilink")（Phenazone）
     S02DA04
     [辛可卡因](https://zh.wikipedia.org/wiki/辛可卡因 "wikilink")（Cinchocaine）
     S02DA30 复方（Combinations）

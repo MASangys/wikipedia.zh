@@ -1,5 +1,5 @@
 **GNU核心工具组**（，亦常缩写为coreutils）是一个 GNU
-软件包，它包含了许多基本工具（如[cat](https://zh.wikipedia.org/wiki/Cat_\(Unix\) "wikilink")，[ls](../Page/ls.md "wikilink")
+软件包，它包含了许多基本工具（如[cat](https://zh.wikipedia.org/wiki/Cat_\(Unix\) "wikilink")，[ls](https://zh.wikipedia.org/wiki/ls "wikilink")
 和 [rm](../Page/Rm_\(Unix\).md "wikilink")）在[类 Unix
 操作系统上的重新实现](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")。\[1\]
 
@@ -16,8 +16,7 @@ GNU 核心工具组支持以长选项作为命令调用参数，且当环境变�
 未设定时支持较松弛的语法约束，如可以在一般参数之后而非之前使用选项。\[6\]在这里需要注意的是，设置这一变量对
 BSD 的同种工具组所产生的效果与[GNU 系统有所不同](../Page/GNU_variants.md "wikilink")。
 
-参阅[GNU
-核心工具组命令列表以获取包含命令的简要说明](https://zh.wikipedia.org/wiki/GNU核心工具组命令列表 "wikilink")。
+参阅[GNU 核心工具组命令列表以获取包含命令的简要说明](../Page/GNU核心工具组命令列表.md "wikilink")。
 
 ## 替代
 
@@ -30,7 +29,7 @@ BSD 的同种工具组所产生的效果与[GNU 系统有所不同](../Page/GNU_
   - [GNU Binutils](../Page/GNU_Binutils.md "wikilink")
   - [util-linux](https://zh.wikipedia.org/wiki/util-linux "wikilink"),
     GNU 核心工具组中未包含的一组大约100个基本 Linux
-    系统实用程序，例如[mount](https://zh.wikipedia.org/wiki/Mount_\(Unix\) "wikilink")，，[more和](../Page/More_\(命令\).md "wikilink")[kill](https://zh.wikipedia.org/wiki/Kill_\(命令\) "wikilink")。
+    系统实用程序，例如[mount](../Page/Mount_\(Unix\).md "wikilink")，，[more和](../Page/More_\(命令\).md "wikilink")[kill](../Page/Kill_\(命令\).md "wikilink")。
 
 ## 参考
 

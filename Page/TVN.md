@@ -3,9 +3,9 @@ E\&M所拥有的](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[韩�
 
 ## 戲劇節目
 
-tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，包括於2012年首度製作[日日劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")《[黃色復仇草](../Page/黃色復仇草.md "wikilink")》便創下有線台有史以來最高收視；月火連續劇《[請回答1997](../Page/請回答1997.md "wikilink")》收視率最高達5%以上，引發人氣話題；2013年，《[請回答1994](https://zh.wikipedia.org/wiki/請回答1994 "wikilink")》打敗[JTBC](../Page/JTBC.md "wikilink")《[無子無憂](https://zh.wikipedia.org/wiki/無子無憂 "wikilink")》，創下有線電視自製電視劇最高收視。《花美男系列》之三部曲《[花美男拉麵店](../Page/花美男拉麵店.md "wikilink")》、《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》、《[鄰家花美男](https://zh.wikipedia.org/wiki/鄰家花美男 "wikilink")》也得到許多關注。
-2015年，《[請回答1988](https://zh.wikipedia.org/wiki/請回答1988 "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[請回答1994](https://zh.wikipedia.org/wiki/請回答1994 "wikilink")》於2013年創下的最高平均收視率**10.431%**(AGB全國)的紀錄，成為韓國有線電視台收視紀錄排名第1位。
-2017年，《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》又以(AGB全國**不含廣告**)的平均收視率，打敗《[請回答1988](https://zh.wikipedia.org/wiki/請回答1988 "wikilink")》的**19.6%**(AGB全國**不含廣告**)成為韓國有線電視台收視紀錄排名第1位\[1\]。
+tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，包括於2012年首度製作[日日劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")《[黃色復仇草](../Page/黃色復仇草.md "wikilink")》便創下有線台有史以來最高收視；月火連續劇《[請回答1997](../Page/請回答1997.md "wikilink")》收視率最高達5%以上，引發人氣話題；2013年，《[請回答1994](../Page/請回答1994.md "wikilink")》打敗[JTBC](../Page/JTBC.md "wikilink")《[無子無憂](https://zh.wikipedia.org/wiki/無子無憂 "wikilink")》，創下有線電視自製電視劇最高收視。《花美男系列》之三部曲《[花美男拉麵店](../Page/花美男拉麵店.md "wikilink")》、《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》、《[鄰家花美男](../Page/鄰家花美男.md "wikilink")》也得到許多關注。
+2015年，《[請回答1988](../Page/請回答1988.md "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[請回答1994](../Page/請回答1994.md "wikilink")》於2013年創下的最高平均收視率**10.431%**(AGB全國)的紀錄，成為韓國有線電視台收視紀錄排名第1位。
+2017年，《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》又以(AGB全國**不含廣告**)的平均收視率，打敗《[請回答1988](../Page/請回答1988.md "wikilink")》的**19.6%**(AGB全國**不含廣告**)成為韓國有線電視台收視紀錄排名第1位\[1\]。
 
 ### 最高收視率排行
 
@@ -37,7 +37,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/請回答1988" title="wikilink">請回答1988</a></p></td>
+<td><p><a href="../Page/請回答1988.md" title="wikilink">請回答1988</a></p></td>
 <td><p>20</p></td>
 <td><p>'''18.803% '''</p></td>
 <td></td>
@@ -46,7 +46,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陽光先生" title="wikilink">陽光先生</a></p></td>
+<td><p><a href="../Page/陽光先生.md" title="wikilink">陽光先生</a></p></td>
 <td><p>24</p></td>
 <td><p><strong>18.129%</strong></p></td>
 <td></td>
@@ -55,7 +55,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/百日的郎君" title="wikilink">百日的郎君</a></p></td>
+<td><p><a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a></p></td>
 <td><p>16</p></td>
 <td><p>14.412%</p></td>
 <td></td>
@@ -64,7 +64,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Signal_(電視劇)" title="wikilink">Signal</a></p></td>
+<td><p><a href="../Page/Signal_(電視劇).md" title="wikilink">Signal</a></p></td>
 <td><p>16</p></td>
 <td><p>12.544%</p></td>
 <td></td>
@@ -73,7 +73,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/機智牢房生活" title="wikilink">機智牢房生活</a></p></td>
+<td><p><a href="../Page/機智牢房生活.md" title="wikilink">機智牢房生活</a></p></td>
 <td><p>16</p></td>
 <td><p>11.195%</p></td>
 <td></td>
@@ -82,7 +82,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/成為王的男人" title="wikilink">成為王的男人</a></p></td>
+<td><p><a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a></p></td>
 <td><p>16</p></td>
 <td><p>10.851%</p></td>
 <td></td>
@@ -91,7 +91,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/請回答1994" title="wikilink">請回答1994</a></p></td>
+<td><p><a href="../Page/請回答1994.md" title="wikilink">請回答1994</a></p></td>
 <td><p>21</p></td>
 <td><p>10.431%</p></td>
 <td></td>
@@ -100,7 +100,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/男朋友_(電視劇)" title="wikilink">男朋友</a></p></td>
+<td><p><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></p></td>
 <td><p>2</p></td>
 <td><p>10.329%</p></td>
 <td></td>
@@ -109,7 +109,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿爾罕布拉宮的回憶_(電視劇)" title="wikilink">阿爾罕布拉宮的回憶</a></p></td>
+<td><p><a href="../Page/阿爾罕布拉宮的回憶_(電視劇).md" title="wikilink">阿爾罕布拉宮的回憶</a></p></td>
 <td><p>14</p></td>
 <td><p>10.025%</p></td>
 <td></td>
@@ -127,7 +127,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武法律師" title="wikilink">武法律師</a></p></td>
+<td><p><a href="../Page/武法律師.md" title="wikilink">武法律師</a></p></td>
 <td><p>16</p></td>
 <td><p>8.937%</p></td>
 <td><p>2018/07/01</p></td>
@@ -136,7 +136,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金秘書為何那樣" title="wikilink">金秘書為何那樣</a></p></td>
+<td><p><a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a></p></td>
 <td><p>16</p></td>
 <td><p>8.665%</p></td>
 <td><p>2018/07/11</p></td>
@@ -145,7 +145,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/未生" title="wikilink">未生</a></p></td>
+<td><p><a href="../Page/未生.md" title="wikilink">未生</a></p></td>
 <td><p>20</p></td>
 <td><p>8.240%</p></td>
 <td><p>2014/12/20</p></td>
@@ -154,7 +154,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/認識的妻子" title="wikilink">認識的妻子</a></p></td>
+<td><p><a href="../Page/認識的妻子.md" title="wikilink">認識的妻子</a></p></td>
 <td><p>10</p></td>
 <td><p>8.210%</p></td>
 <td><p>2018/08/30</p></td>
@@ -172,7 +172,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Live_(韓國電視劇)" title="wikilink">Live</a></p></td>
+<td><p><a href="../Page/Live_(韓國電視劇).md" title="wikilink">Live</a></p></td>
 <td><p>18</p></td>
 <td><p>7.730%</p></td>
 <td><p>2018/05/06</p></td>
@@ -181,7 +181,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的大叔" title="wikilink">我的大叔</a></p></td>
+<td><p><a href="../Page/我的大叔.md" title="wikilink">我的大叔</a></p></td>
 <td><p>16</p></td>
 <td><p>7.352%</p></td>
 <td><p>2018/05/17</p></td>
@@ -223,11 +223,11 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 
 ## 綜藝節目
 
-在2015年，《[一日三餐](https://zh.wikipedia.org/wiki/一日三餐 "wikilink")》創下13.338%的韓國有線電視史上最高收視紀錄（後被《[請回答1988](https://zh.wikipedia.org/wiki/請回答1988 "wikilink")》超越）。同年，製作人[羅䁐錫憑藉](https://zh.wikipedia.org/wiki/羅䁐錫 "wikilink")《[一日三餐](https://zh.wikipedia.org/wiki/一日三餐 "wikilink")》和《[花樣爺爺](https://zh.wikipedia.org/wiki/花樣爺爺 "wikilink")》獲得「[第51屆百想藝術大賞](https://zh.wikipedia.org/wiki/第51屆百想藝術大賞 "wikilink")－電視部門大賞」，成為史上首個獲得該獎項的綜藝監製。
+在2015年，《[一日三餐](../Page/一日三餐.md "wikilink")》創下13.338%的韓國有線電視史上最高收視紀錄（後被《[請回答1988](../Page/請回答1988.md "wikilink")》超越）。同年，製作人[羅䁐錫憑藉](../Page/羅䁐錫.md "wikilink")《[一日三餐](../Page/一日三餐.md "wikilink")》和《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》獲得「[第51屆百想藝術大賞](https://zh.wikipedia.org/wiki/第51屆百想藝術大賞 "wikilink")－電視部門大賞」，成為史上首個獲得該獎項的綜藝監製。
 
-2017年，《[尹食堂第一季](https://zh.wikipedia.org/wiki/尹食堂 "wikilink")[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[峇里島篇](https://zh.wikipedia.org/wiki/峇里島 "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[一日三餐漁村篇第一季](https://zh.wikipedia.org/wiki/一日三餐 "wikilink")》於2015年創下的最高平均收視率**13.338%**(AGB全國)的紀錄，成為韓國有線電視台綜藝節目歷年收視紀錄排名第1位。
+2017年，《[尹食堂第一季](../Page/尹食堂.md "wikilink")[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[峇里島篇](https://zh.wikipedia.org/wiki/峇里島 "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[一日三餐漁村篇第一季](../Page/一日三餐.md "wikilink")》於2015年創下的最高平均收視率**13.338%**(AGB全國)的紀錄，成為韓國有線電視台綜藝節目歷年收視紀錄排名第1位。
 
-2018年，《[尹食堂第二季](https://zh.wikipedia.org/wiki/尹食堂 "wikilink")[西班牙](../Page/西班牙.md "wikilink")[加拉奇科篇](../Page/加拉奇科.md "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[尹食堂第一季](https://zh.wikipedia.org/wiki/尹食堂 "wikilink")[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[峇里島篇](https://zh.wikipedia.org/wiki/峇里島 "wikilink")》於2017年創下最高平均收視率**14.141%**(AGB全國)的記錄，成為韓國有線電視台綜藝節目歷年收視紀錄排名第1位。
+2018年，《[尹食堂第二季](../Page/尹食堂.md "wikilink")[西班牙](../Page/西班牙.md "wikilink")[加拉奇科篇](../Page/加拉奇科.md "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[尹食堂第一季](../Page/尹食堂.md "wikilink")[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[峇里島篇](https://zh.wikipedia.org/wiki/峇里島 "wikilink")》於2017年創下最高平均收視率**14.141%**(AGB全國)的記錄，成為韓國有線電視台綜藝節目歷年收視紀錄排名第1位。
 
 ### 綜藝節目列表
 
@@ -250,21 +250,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/現場脫口秀Taxi" title="wikilink">現場脫口秀Taxi</a></p></td>
+<td><p><a href="../Page/現場脫口秀Taxi.md" title="wikilink">現場脫口秀Taxi</a></p></td>
 <td><p>2007年9月8日</p></td>
 <td><p>2017年11月1日</p></td>
 <td><p>1</p></td>
 <td><p>訪談節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/喜劇大聯盟" title="wikilink">喜劇大聯盟</a></p></td>
+<td><p><a href="../Page/喜劇大聯盟.md" title="wikilink">喜劇大聯盟</a></p></td>
 <td><p>2011年9月17日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>喜劇節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a></p></td>
+<td><p><a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a></p></td>
 <td><p>2011年12月3日</p></td>
 <td><p>2012年1月21日</p></td>
 <td><p>9</p></td>
@@ -369,7 +369,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Genius" title="wikilink">The Genius</a></p></td>
+<td><p><a href="../Page/The_Genius.md" title="wikilink">The Genius</a></p></td>
 <td><p>2013年4月26日</p></td>
 <td><p>2013年7月12日</p></td>
 <td><p>4</p></td>
@@ -397,7 +397,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣爺爺" title="wikilink">花樣爺爺</a></p></td>
+<td><p><a href="../Page/花樣爺爺.md" title="wikilink">花樣爺爺</a></p></td>
 <td><p>2013年7月5日</p></td>
 <td><p>2013年10月4日</p></td>
 <td><p>4</p></td>
@@ -425,7 +425,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣姐姐" title="wikilink">花樣姐姐</a></p></td>
+<td><p><a href="../Page/花樣姐姐.md" title="wikilink">花樣姐姐</a></p></td>
 <td><p>2013年11月29日</p></td>
 <td><p>2014年1月17日</p></td>
 <td><p>1</p></td>
@@ -439,7 +439,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣青春" title="wikilink">花樣青春</a></p></td>
+<td><p><a href="../Page/花樣青春.md" title="wikilink">花樣青春</a></p></td>
 <td><p>2014年8月1日</p></td>
 <td><p>2014年10月10日</p></td>
 <td><p>3</p></td>
@@ -460,7 +460,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a></p></td>
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a></p></td>
 <td><p>2014年10月17日</p></td>
 <td><p>2014年12月26日</p></td>
 <td><p>7</p></td>
@@ -602,7 +602,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/家常飯白老師" title="wikilink">家常飯白老師</a></p></td>
+<td><p><a href="../Page/家常飯白老師.md" title="wikilink">家常飯白老師</a></p></td>
 <td><p>2015年5月19日</p></td>
 <td><p>2016年1月26日</p></td>
 <td><p>3</p></td>
@@ -638,7 +638,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記</a></p></td>
+<td><p><a href="../Page/新西遊記.md" title="wikilink">新西遊記</a></p></td>
 <td><p>2015年9月4日</p></td>
 <td><p>2015年10月2日</p></td>
 <td><p>網絡版</p></td>
@@ -750,7 +750,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吃貨48小時" title="wikilink">吃貨48小時</a></p></td>
+<td><p><a href="../Page/吃貨48小時.md" title="wikilink">吃貨48小時</a></p></td>
 <td><p>2016年3月30日</p></td>
 <td><p>2016年11月9日</p></td>
 <td><p>3</p></td>
@@ -771,28 +771,28 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LET美HOME" title="wikilink">LET美HOME</a></p></td>
+<td><p><a href="../Page/LET美HOME.md" title="wikilink">LET美HOME</a></p></td>
 <td><p>2016年4月24日</p></td>
 <td><p>2016年7月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/爸爸和我" title="wikilink">爸爸和我</a></p></td>
+<td><p><a href="../Page/爸爸和我.md" title="wikilink">爸爸和我</a></p></td>
 <td><p>2016年6月2日</p></td>
 <td><p>2016年8月4日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/巴別250" title="wikilink">巴別250</a></p></td>
+<td><p><a href="../Page/巴別250.md" title="wikilink">巴別250</a></p></td>
 <td><p>2016年7月11日</p></td>
 <td><p>2016年9月14日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我耳邊的糖果" title="wikilink">我耳邊的糖果</a></p></td>
+<td><p><a href="../Page/我耳邊的糖果.md" title="wikilink">我耳邊的糖果</a></p></td>
 <td><p>2016年8月18日</p></td>
 <td><p>2016年11月10日</p></td>
 <td><p>2</p></td>
@@ -806,7 +806,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吃睡吃" title="wikilink">吃睡吃</a></p></td>
+<td><p><a href="../Page/吃睡吃.md" title="wikilink">吃睡吃</a></p></td>
 <td><p>2016年9月23日</p></td>
 <td><p>2016年10月7日</p></td>
 <td><p>3</p></td>
@@ -827,14 +827,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/歌曲的诞生" title="wikilink">歌曲的诞生</a></p></td>
+<td><p><a href="../Page/歌曲的诞生.md" title="wikilink">歌曲的诞生</a></p></td>
 <td><p>2016年10月5日</p></td>
 <td><p>2016年10月23日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Society_Game" title="wikilink">Society Game</a></p></td>
+<td><p><a href="../Page/Society_Game.md" title="wikilink">Society Game</a></p></td>
 <td><p>2016年10月16日</p></td>
 <td><p>2017年1月1日</p></td>
 <td><p>2</p></td>
@@ -884,7 +884,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/新婚日記" title="wikilink">新婚日記</a></p></td>
+<td><p><a href="../Page/新婚日記.md" title="wikilink">新婚日記</a></p></td>
 <td><p>2017年2月3日</p></td>
 <td><p>2017年3月10日</p></td>
 <td><p>3</p></td>
@@ -905,49 +905,49 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Buzzer_Beater" title="wikilink">BuzzerBeater</a></p></td>
+<td><p><a href="../Page/Buzzer_Beater.md" title="wikilink">BuzzerBeater</a></p></td>
 <td><p>2017年2月3日</p></td>
 <td><p>2017年3月24日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鬧怪食堂" title="wikilink">鬧怪食堂</a></p></td>
+<td><p><a href="../Page/鬧怪食堂.md" title="wikilink">鬧怪食堂</a></p></td>
 <td><p>2017年3月13日</p></td>
 <td><p>2017年4月17日</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹食堂" title="wikilink">尹食堂</a></p></td>
+<td><p><a href="../Page/尹食堂.md" title="wikilink">尹食堂</a></p></td>
 <td><p>2017年3月24日</p></td>
 <td><p>2017年5月19日</p></td>
 <td><p>2</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹食堂2" title="wikilink">尹食堂2</a></p></td>
+<td><p><a href="../Page/尹食堂2.md" title="wikilink">尹食堂2</a></p></td>
 <td><p>2018年1月5日</p></td>
 <td><p>2018年3月23日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/和時間賽跑的男人" title="wikilink">和時間賽跑的男人</a></p></td>
+<td><p><a href="../Page/和時間賽跑的男人.md" title="wikilink">和時間賽跑的男人</a></p></td>
 <td><p>2017年3月31日</p></td>
 <td><p>2017年5月5日</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/人生學校_(綜藝節目)" title="wikilink">人生學校</a></p></td>
+<td><p><a href="../Page/人生學校_(綜藝節目).md" title="wikilink">人生學校</a></p></td>
 <td><p>2017年5月14日</p></td>
 <td><p>2017年6月22日</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/改變課堂" title="wikilink">改變課堂</a></p></td>
+<td><p><a href="../Page/改變課堂.md" title="wikilink">改變課堂</a></p></td>
 <td><p>2017年5月18日</p></td>
 <td><p>2017年7月7日</p></td>
 <td><p>1</p></td>
@@ -961,28 +961,28 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/島劍客_(第二季)" title="wikilink">島劍客 (第二季)</a></p></td>
+<td><p><a href="../Page/島劍客_(第二季).md" title="wikilink">島劍客 (第二季)</a></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p>2018年9月10日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/懂也沒用的神秘雜學詞典" title="wikilink">懂也沒用的神秘雜學詞典</a></p></td>
+<td><p><a href="../Page/懂也沒用的神秘雜學詞典.md" title="wikilink">懂也沒用的神秘雜學詞典</a></p></td>
 <td><p>2017年6月2日</p></td>
 <td><p>2017年7月28日</p></td>
 <td><p>3</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/懂也沒用的神秘雜學詞典_(第二季)" title="wikilink">懂也沒用的神秘雜學詞典 (第二季)</a></p></td>
+<td><p><a href="../Page/懂也沒用的神秘雜學詞典_(第二季).md" title="wikilink">懂也沒用的神秘雜學詞典 (第二季)</a></p></td>
 <td><p>2017年10月27日</p></td>
 <td><p>2017年12月29日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/懂也沒用的神秘雜學詞典_(第三季)" title="wikilink">懂也沒用的神秘雜學詞典 (第三季)</a></p></td>
+<td><p><a href="../Page/懂也沒用的神秘雜學詞典_(第三季).md" title="wikilink">懂也沒用的神秘雜學詞典 (第三季)</a></p></td>
 <td><p>2018年9月21日</p></td>
 <td><p>2018年12月14日</p></td>
 <td></td>
@@ -1045,14 +1045,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/明星代班" title="wikilink">明星代班</a></p></td>
+<td><p><a href="../Page/明星代班.md" title="wikilink">明星代班</a></p></td>
 <td><p>2017年9月13日</p></td>
 <td><p>2017年11月1日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/需要對話的狗貓" title="wikilink">需要對話的狗貓</a></p></td>
+<td><p><a href="../Page/需要對話的狗貓.md" title="wikilink">需要對話的狗貓</a></p></td>
 <td><p>2017年9月15日</p></td>
 <td><p>2018年1月10日</p></td>
 <td><p>1</p></td>
@@ -1101,42 +1101,42 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實景秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Seoul_Mate" title="wikilink">Seoul Mate</a></p></td>
+<td><p><a href="../Page/Seoul_Mate.md" title="wikilink">Seoul Mate</a></p></td>
 <td><p>2017年11月11日</p></td>
 <td><p>2018年8月25日</p></td>
 <td><p>2</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Seoul_Mate_2" title="wikilink">Seoul Mate 2</a></p></td>
+<td><p><a href="../Page/Seoul_Mate_2.md" title="wikilink">Seoul Mate 2</a></p></td>
 <td><p>2018年12月10日</p></td>
 <td><p>2019年3月25日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/本業是歌手－這些傢伙的兩種生活" title="wikilink">本業是歌手－這些傢伙的兩種生活</a></p></td>
+<td><p><a href="../Page/本業是歌手－這些傢伙的兩種生活.md" title="wikilink">本業是歌手－這些傢伙的兩種生活</a></p></td>
 <td><p>2017年11月23日</p></td>
 <td><p>2018年1月11日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/窮遊豪華團" title="wikilink">窮遊豪華團</a></p></td>
+<td><p><a href="../Page/窮遊豪華團.md" title="wikilink">窮遊豪華團</a></p></td>
 <td><p>2017年11月25日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我的英文青春期" title="wikilink">我的英文青春期</a></p></td>
+<td><p><a href="../Page/我的英文青春期.md" title="wikilink">我的英文青春期</a></p></td>
 <td><p>2017年12月4日</p></td>
 <td><p>2018年1月22日</p></td>
 <td><p>2</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我的英文青春期100小時" title="wikilink">我的英文青春期100小時</a></p></td>
+<td><p><a href="../Page/我的英文青春期100小時.md" title="wikilink">我的英文青春期100小時</a></p></td>
 <td><p>2018年12月20日</p></td>
 <td><p>2019年2月21日</p></td>
 <td></td>
@@ -1158,21 +1158,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TALKMON" title="wikilink">TALKMON</a></p></td>
+<td><p><a href="../Page/TALKMON.md" title="wikilink">TALKMON</a></p></td>
 <td><p>2018年1月15日</p></td>
 <td><p>2018年4月2日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/親切的騎士團" title="wikilink">親切的騎士團</a></p></td>
+<td><p><a href="../Page/親切的騎士團.md" title="wikilink">親切的騎士團</a></p></td>
 <td><p>2018年1月24日</p></td>
 <td><p>2018年4月18日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蝸牛酒店" title="wikilink">蝸牛酒店</a><br />
+<td><p><a href="../Page/蝸牛酒店.md" title="wikilink">蝸牛酒店</a><br />
 （第9集開始變更播放時段）</p></td>
 <td><p>2018年1月30日</p></td>
 <td><p>2018年3月20日</p></td>
@@ -1194,7 +1194,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/秘密的庭院" title="wikilink">秘密的庭院</a><br />
+<td><p><a href="../Page/秘密的庭院.md" title="wikilink">秘密的庭院</a><br />
 （試播第二集播放時間變更至凌晨12點）</p></td>
 <td><p>2018年2月16日</p></td>
 <td><p>2018年2月16日</p></td>
@@ -1230,21 +1230,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/在當地吃得開嗎" title="wikilink">在當地吃得開嗎</a></p></td>
+<td><p><a href="../Page/在當地吃得開嗎.md" title="wikilink">在當地吃得開嗎</a></p></td>
 <td><p>2018年3月27日</p></td>
 <td><p>2018年5月15日</p></td>
 <td><p>3</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/在當地吃得開嗎_(第二季)" title="wikilink">在當地吃得開嗎2</a></p></td>
+<td><p><a href="../Page/在當地吃得開嗎_(第二季).md" title="wikilink">在當地吃得開嗎2</a></p></td>
 <td><p>2018年9月8日</p></td>
 <td><p>2018年11月17日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/在當地吃得開嗎_(第三季)" title="wikilink">在當地吃得開嗎3</a></p></td>
+<td><p><a href="../Page/在當地吃得開嗎_(第三季).md" title="wikilink">在當地吃得開嗎3</a></p></td>
 <td><p>2019年4月18日</p></td>
 <td><p>播放中</p></td>
 <td></td>
@@ -1265,7 +1265,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/森林裡的小屋" title="wikilink">森林裡的小屋</a></p></td>
+<td><p><a href="../Page/森林裡的小屋.md" title="wikilink">森林裡的小屋</a></p></td>
 <td><p>2018年4月6日</p></td>
 <td><p>2018年6月8日</p></td>
 <td><p>1</p></td>
@@ -1279,14 +1279,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/街頭美食鬥士" title="wikilink">街頭美食鬥士</a></p></td>
+<td><p><a href="../Page/街頭美食鬥士.md" title="wikilink">街頭美食鬥士</a></p></td>
 <td><p>2018年4月23日</p></td>
 <td><p>2018年6月11日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/國際通信" title="wikilink">國際通信</a><br />
+<td><p><a href="../Page/國際通信.md" title="wikilink">國際通信</a><br />
 （間中停播1次）</p></td>
 <td><p>2018年4月29日</p></td>
 <td><p>2018年5月20日</p></td>
@@ -1308,35 +1308,35 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Call" title="wikilink">The Call</a></p></td>
+<td><p><a href="../Page/The_Call.md" title="wikilink">The Call</a></p></td>
 <td><p>2018年5月4日</p></td>
 <td><p>2018年6月29日</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/今天_明日" title="wikilink">今天 明日</a></p></td>
+<td><p><a href="../Page/今天_明日.md" title="wikilink">今天 明日</a></p></td>
 <td><p>2018年5月24日</p></td>
 <td><p>2018年7月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/食糧日記" title="wikilink">食糧日記</a></p></td>
+<td><p><a href="../Page/食糧日記.md" title="wikilink">食糧日記</a></p></td>
 <td><p>2018年5月30日</p></td>
 <td><p>2018年8月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/守美的拌菜" title="wikilink">守美的拌菜</a></p></td>
+<td><p><a href="../Page/守美的拌菜.md" title="wikilink">守美的拌菜</a></p></td>
 <td><p>2018年6月6日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吃草的聲音" title="wikilink">吃草的聲音</a></p></td>
+<td><p><a href="../Page/吃草的聲音.md" title="wikilink">吃草的聲音</a></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p>2018年7月30日</p></td>
 <td><p>3</p></td>
@@ -1357,14 +1357,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我的數學青春期" title="wikilink">我的數學青春期</a></p></td>
+<td><p><a href="../Page/我的數學青春期.md" title="wikilink">我的數學青春期</a></p></td>
 <td><p>2018年6月26日</p></td>
 <td><p>2018年7月17日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大逃出" title="wikilink">大逃出</a></p></td>
+<td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>2</p></td>
@@ -1385,28 +1385,28 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Road_To_Ithaca" title="wikilink">Road To Ithaca</a></p></td>
+<td><p><a href="../Page/Road_To_Ithaca.md" title="wikilink">Road To Ithaca</a></p></td>
 <td><p>2018年7月15日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉QUIZ_ON_THE_BLOCK" title="wikilink">劉QUIZ ON THE BLOCK</a></p></td>
+<td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK.md" title="wikilink">劉QUIZ ON THE BLOCK</a></p></td>
 <td><p>2018年8月29日</p></td>
 <td><p>2018年11月14日</p></td>
 <td><p>2</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉QUIZ_ON_THE_BLOCK_(第二季)" title="wikilink">劉QUIZ ON THE BLOCK (第二季)</a></p></td>
+<td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK_(第二季).md" title="wikilink">劉QUIZ ON THE BLOCK (第二季)</a></p></td>
 <td><p>2019年4月16日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/一場聲音的戰爭：300" title="wikilink">一場聲音的戰爭：300</a></p></td>
+<td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a></p></td>
 <td><p>2018年8月31日</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>2</p></td>
@@ -1434,14 +1434,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/週末使用說明書" title="wikilink">週末使用說明書</a></p></td>
+<td><p><a href="../Page/週末使用說明書.md" title="wikilink">週末使用說明書</a></p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>2019年1月27日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/驚險的親家練習" title="wikilink">驚險的親家練習</a><br />
+<td><p><a href="../Page/驚險的親家練習.md" title="wikilink">驚險的親家練習</a><br />
 （第16集開始變更播放時段）</p></td>
 <td><p>2018年10月5日</p></td>
 <td><p>2019年1月11日</p></td>
@@ -1498,21 +1498,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/令人垂涎的遊輪" title="wikilink">令人垂涎的遊輪</a></p></td>
+<td><p><a href="../Page/令人垂涎的遊輪.md" title="wikilink">令人垂涎的遊輪</a></p></td>
 <td><p>2018年11月24日</p></td>
 <td><p>2019年1月5日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Amor_Fati" title="wikilink">Amor Fati</a></p></td>
+<td><p><a href="../Page/Amor_Fati.md" title="wikilink">Amor Fati</a></p></td>
 <td><p>2018年12月9日</p></td>
 <td><p>2019年3月3日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Coffee_Friends" title="wikilink">Coffee Friends</a></p></td>
+<td><p><a href="../Page/Coffee_Friends.md" title="wikilink">Coffee Friends</a></p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>2019年3月8日</p></td>
 <td><p>1</p></td>
@@ -1533,35 +1533,35 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/我手中的侄子tv" title="wikilink">我手中的侄子TV</a></p></td>
+<td><p><a href="../Page/我手中的侄子tv.md" title="wikilink">我手中的侄子TV</a></p></td>
 <td><p>2019年2月17日</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/問題性BOSS" title="wikilink">問題性BOSS</a></p></td>
+<td><p><a href="../Page/問題性BOSS.md" title="wikilink">問題性BOSS</a></p></td>
 <td><p>2019年3月6日</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/西班牙寄宿" title="wikilink">西班牙寄宿</a></p></td>
+<td><p><a href="../Page/西班牙寄宿.md" title="wikilink">西班牙寄宿</a></p></td>
 <td><p>2019年3月15日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/傻瓜們的監獄生活" title="wikilink">傻瓜們的監獄生活</a></p></td>
+<td><p><a href="../Page/傻瓜們的監獄生活.md" title="wikilink">傻瓜們的監獄生活</a></p></td>
 <td><p>2019年3月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Show!_Audio_Jockey" title="wikilink">Show! Audio Jockey</a></p></td>
+<td><p><a href="../Page/Show!_Audio_Jockey.md" title="wikilink">Show! Audio Jockey</a></p></td>
 <td><p>2019年3月17日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1582,7 +1582,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/工作室_(韓國綜藝)" title="wikilink">工作室</a></p></td>
+<td><p><a href="../Page/工作室_(韓國綜藝).md" title="wikilink">工作室</a></p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1615,7 +1615,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹食堂2" title="wikilink">尹食堂</a><br />
+<td><p><a href="../Page/尹食堂2.md" title="wikilink">尹食堂</a><br />
 第二季<br />
 <a href="../Page/西班牙.md" title="wikilink">西班牙</a><br />
 <a href="../Page/加拉奇科.md" title="wikilink">加拉奇科篇</a></p></td>
@@ -1626,7 +1626,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹食堂" title="wikilink">尹食堂</a><br />
+<td><p><a href="../Page/尹食堂.md" title="wikilink">尹食堂</a><br />
 第一季<br />
 <a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="https://zh.wikipedia.org/wiki/峇里島" title="wikilink">峇里島篇</a></p></td>
 <td><p>6</p></td>
@@ -1636,7 +1636,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 漁村篇第一季<br />
 晚材島</p></td>
 <td><p>5</p></td>
@@ -1646,7 +1646,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 漁村篇第二季<br />
 晚材島</p></td>
 <td><p>4</p></td>
@@ -1656,7 +1656,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 農村篇第二季<br />
 旌善篇</p></td>
 <td><p>10</p></td>
@@ -1666,7 +1666,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣青春" title="wikilink">花樣青春</a><br />
+<td><p><a href="../Page/花樣青春.md" title="wikilink">花樣青春</a><br />
 第二季<br />
 <a href="../Page/非洲.md" title="wikilink">非洲篇</a></p></td>
 <td><p>1</p></td>
@@ -1676,7 +1676,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西班牙寄宿" title="wikilink">西班牙寄宿</a></p></td>
+<td><p><a href="../Page/西班牙寄宿.md" title="wikilink">西班牙寄宿</a></p></td>
 <td><p>7</p></td>
 <td><p>11.687%</p></td>
 <td></td>
@@ -1684,7 +1684,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 農村篇第三季<br />
 高敞篇</p></td>
 <td><p>3</p></td>
@@ -1694,7 +1694,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 漁村篇第三季<br />
 得糧島</p></td>
 <td><p>1</p></td>
@@ -1704,7 +1704,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 漁村篇第四季<br />
 得糧島<br />
 海洋牧場篇</p></td>
@@ -1715,7 +1715,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣爺爺" title="wikilink">花樣爺爺</a><br />
+<td><p><a href="../Page/花樣爺爺.md" title="wikilink">花樣爺爺</a><br />
 第四季<br />
 <a href="https://zh.wikipedia.org/wiki/東歐" title="wikilink">東歐篇</a></p></td>
 <td><p>3</p></td>
@@ -1725,7 +1725,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣爺爺" title="wikilink">花樣爺爺</a><br />
+<td><p><a href="../Page/花樣爺爺.md" title="wikilink">花樣爺爺</a><br />
 第三季<br />
 <a href="https://zh.wikipedia.org/wiki/希臘" title="wikilink">希臘篇</a></p></td>
 <td><p>1</p></td>
@@ -1735,7 +1735,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣姐姐" title="wikilink">花樣姐姐</a></p></td>
+<td><p><a href="../Page/花樣姐姐.md" title="wikilink">花樣姐姐</a></p></td>
 <td><p>1</p></td>
 <td><p>9.164%</p></td>
 <td><p>2013/11/29</p></td>
@@ -1743,7 +1743,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一日三餐" title="wikilink">一日三餐</a><br />
+<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 農村篇第一季<br />
 旌善篇</p></td>
 <td><p>10</p></td>
@@ -1753,7 +1753,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣青春" title="wikilink">花樣青春</a><br />
+<td><p><a href="../Page/花樣青春.md" title="wikilink">花樣青春</a><br />
 第二季<br />
 <a href="https://zh.wikipedia.org/wiki/冰島" title="wikilink">冰島篇</a></p></td>
 <td><p>2</p></td>
@@ -1765,7 +1765,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>16</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂" title="wikilink">姜食堂</a><br />
 第一季<br />
-(<a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記外傳</a>)</p></td>
+(<a href="../Page/新西遊記.md" title="wikilink">新西遊記外傳</a>)</p></td>
 <td><p>5</p></td>
 <td><p>8.313%</p></td>
 <td><p>2018/01/02</p></td>
@@ -1773,7 +1773,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/家常飯白老師" title="wikilink">家常飯白老師</a><br />
+<td><p><a href="../Page/家常飯白老師.md" title="wikilink">家常飯白老師</a><br />
 第一季</p></td>
 <td><p>16</p></td>
 <td><p>7.874%</p></td>
@@ -1782,7 +1782,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/懂也沒用的神秘雜學詞典" title="wikilink">懂也沒用的神秘雜學詞典</a><br />
+<td><p><a href="../Page/懂也沒用的神秘雜學詞典.md" title="wikilink">懂也沒用的神秘雜學詞典</a><br />
 第一季</p></td>
 <td><p>7</p></td>
 <td><p>7.192%</p></td>
@@ -1791,7 +1791,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花樣爺爺" title="wikilink">花樣爺爺</a><br />
+<td><p><a href="../Page/花樣爺爺.md" title="wikilink">花樣爺爺</a><br />
 第二季<br />
 <a href="../Page/西班牙.md" title="wikilink">西班牙篇</a></p></td>
 <td><p>2</p></td>
@@ -1801,7 +1801,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記</a><br />
+<td><p><a href="../Page/新西遊記.md" title="wikilink">新西遊記</a><br />
 第六季</p></td>
 <td><p>4</p></td>
 <td><p>6.822%</p></td>

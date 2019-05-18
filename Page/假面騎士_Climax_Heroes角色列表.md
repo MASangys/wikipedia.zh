@@ -13,7 +13,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
 最終敵人為假面騎士Dark Decade。
 
-  - 假面騎士Decade《[假面騎士DECADE](../Page/假面騎士DECADE.md "wikilink")》（CV：[井上正大](../Page/井上正大.md "wikilink")）
+  - 假面騎士Decade《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》（CV：[井上正大](../Page/井上正大.md "wikilink")）
 
 | Battle Style                             | 登場形態   | 超必殺技                  |
 | ---------------------------------------- | ------ | --------------------- |
@@ -97,7 +97,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
 <!-- end list -->
 
-  - 假面騎士顎門《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》（CV：[賀集利樹](https://zh.wikipedia.org/wiki/賀集利樹 "wikilink")）\[2\]
+  - 假面騎士顎門《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》（CV：[賀集利樹](../Page/賀集利樹.md "wikilink")）\[2\]
 
 | Battle Style       | 登場形態          | 超必殺技           |
 | ------------------ | ------------- | -------------- |
@@ -130,7 +130,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
 <!-- end list -->
 
-  - 假面騎士龍騎《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》（CV：[須賀貴匡](https://zh.wikipedia.org/wiki/須賀貴匡 "wikilink")）\[3\]
+  - 假面騎士龍騎《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》（CV：[須賀貴匡](../Page/須賀貴匡.md "wikilink")）\[3\]
 
 | Battle Style       | 登場形態                               | 超必殺技                             |
 | ------------------ | ---------------------------------- | -------------------------------- |
@@ -719,7 +719,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 | **Assault**  | Normal | 超級大切斷 |
 |              |        |       |
 
-  - 假面騎士Black《[假面騎士Black](../Page/假面騎士Black.md "wikilink")》
+  - 假面騎士Black《[假面騎士Black](https://zh.wikipedia.org/wiki/假面騎士Black "wikilink")》
 
 | Battle Style | 登場形態   | 超必殺技                    |
 | ------------ | ------ | ----------------------- |
@@ -757,7 +757,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 | **Assault**  | Normal | Counter Slash |
 |              |        |               |
 
-  - 假面騎士Birth《假面騎士OOO》（CV：[君嶋麻耶](https://zh.wikipedia.org/wiki/君嶋麻耶 "wikilink")、[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
+  - 假面騎士Birth《假面騎士OOO》（CV：[君嶋麻耶](../Page/君嶋麻耶.md "wikilink")、[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
 
 | Battle Style           | 登場形態             | 超必殺技         |
 | ---------------------- | ---------------- | ------------ |
@@ -941,7 +941,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 
 <!-- end list -->
 
-  - 假面騎士Eternal《[W_-_Forever_A_至_Z_Gaia_Memory的命運](https://zh.wikipedia.org/wiki/W_-_Forever_A_至_Z_Gaia_Memory的命運 "wikilink")》&《[假面骑士W_RETURNS](https://zh.wikipedia.org/wiki/假面骑士W_RETURNS "wikilink")》
+  - 假面騎士Eternal《[W_-_Forever_A_至_Z_Gaia_Memory的命運](https://zh.wikipedia.org/wiki/W_-_Forever_A_至_Z_Gaia_Memory的命運 "wikilink")》&《[假面骑士W_RETURNS](../Page/假面骑士W_RETURNS.md "wikilink")》
 
 | Battle Style | 登場形態   | 超必殺技                               |
 | ------------ | ------ | ---------------------------------- |

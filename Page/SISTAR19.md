@@ -1,6 +1,6 @@
 **SISTAR
-19**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：씨스타19），在2011年4月29日由[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出首個子團體SISTAR](../Page/Sistar.md "wikilink")
-19，為[SISTAR的](../Page/Sistar.md "wikilink")[孝琳和](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")[寶拉兩名成員組成](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")。\[1\]
+19**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：씨스타19），在2011年4月29日由[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出首個子團體SISTAR](https://zh.wikipedia.org/wiki/Sistar "wikilink")
+19，為[SISTAR的](https://zh.wikipedia.org/wiki/Sistar "wikilink")[孝琳和](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")[寶拉兩名成員組成](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")。\[1\]
 
 ## 團名由來
 
@@ -18,7 +18,7 @@ Boy》。
 
 ### 2013年：首張迷你專輯《Gone Not Around Any Longer》
 
-1月24日，[STARSHIP娱乐公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和[寶拉在床上展現她們性感的S線條](https://zh.wikipedia.org/wiki/寶拉 "wikilink")。1月25日透過[Naver音樂公開SISTAR](../Page/Naver.md "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
+1月24日，[STARSHIP娱乐公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和[寶拉在床上展現她們性感的S線條](https://zh.wikipedia.org/wiki/寶拉 "wikilink")。1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
 Not Around Any
 Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone
 Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表演《SISTAR19
@@ -80,7 +80,7 @@ Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/因為從有到無" title="wikilink">Gone Not Around Any Longer</a></strong>》</p>
+<td><p>《<strong><a href="../Page/因為從有到無.md" title="wikilink">Gone Not Around Any Longer</a></strong>》</p>
 <ul>
 <li>發行日期：2013年1月31日</li>
 <li>語言：韓語</li>
@@ -287,7 +287,7 @@ Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表
 <td><p>2013年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/因為從有到無" title="wikilink">Gone Not Around Any Longer</a></p></td>
+<td><p><a href="../Page/因為從有到無.md" title="wikilink">Gone Not Around Any Longer</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>

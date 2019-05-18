@@ -121,7 +121,7 @@
 <td><p>三叔未婚妻，在派對上與YoYo及NaNa爭執</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張暖雅" title="wikilink">張暖雅</a></p></td>
+<td><p><a href="../Page/張暖雅.md" title="wikilink">張暖雅</a></p></td>
 <td></td>
 <td><p>泳池派對女郎</p></td>
 </tr>
@@ -131,7 +131,7 @@
 <td><p>泳池派對女郎</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/文凱玲" title="wikilink">文凱玲</a></p></td>
+<td><p><a href="../Page/文凱玲.md" title="wikilink">文凱玲</a></p></td>
 <td></td>
 <td><p>泳池派對女郎</p></td>
 </tr>

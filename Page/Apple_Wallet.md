@@ -1,12 +1,12 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Passbook_icon.png "fig:缩略图")中的Passbook图标|替代=<https://www.google.com.hk/url?sa=i&source=images&cd=&ved=2ahUKEwj11Prz0dfcAhUNO3AKHau2BPMQjRx6BAgBEAU&url=http%3A%2F%2Fwww.saveyourlife.me%2F2016%2F12%2F16%2Fhow-to-use-apple-wallet%2F&psig=AOvVaw1TM2eb8PoVfm5tyRfLIFWk&ust=1533617858761407>\]\]
 
-\-{zh-hans:**钱包**（）;zh-tw:**錢包**（）;zh-hk:**銀包**（）;zh-hant:「**Wallet**」}-是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS中的一個](../Page/iOS.md "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，讓使用者可以在手機中儲存[優惠券](https://zh.wikipedia.org/wiki/優惠券 "wikilink")、[登機證](../Page/登機證.md "wikilink")、活動[門票](https://zh.wikipedia.org/wiki/門票 "wikilink")、酬賓卡或其他類型的[行動支付票卡等](https://zh.wikipedia.org/wiki/行動支付 "wikilink")。\[1\]从iOS
+\-{zh-hans:**钱包**（）;zh-tw:**錢包**（）;zh-hk:**銀包**（）;zh-hant:「**Wallet**」}-是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS中的一個](https://zh.wikipedia.org/wiki/iOS "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，讓使用者可以在手機中儲存[優惠券](https://zh.wikipedia.org/wiki/優惠券 "wikilink")、[登機證](../Page/登機證.md "wikilink")、活動[門票](https://zh.wikipedia.org/wiki/門票 "wikilink")、酬賓卡或其他類型的[行動支付票卡等](../Page/行動支付.md "wikilink")。\[1\]从iOS
 8.1开始，还可以通过[Apple
 Pay添加](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")[信用卡](../Page/信用卡.md "wikilink")、商店卡和[借记卡](../Page/借记卡.md "wikilink")。\[2\]
 
 2012年6月11的[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")（WWDC）上以Passbook为名對外公開。在2012年9月19日隨著[iOS
-6内置于iPhone和iPod](../Page/iOS_6.md "wikilink") Touch中正式發佈\[3\]。2015年，iOS
-9發佈時改称为-{**Wallet**}-。
+6内置于iPhone和iPod](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")
+Touch中正式發佈\[3\]。2015年，iOS 9發佈時改称为-{**Wallet**}-。
 
 同时，苹果公司运营的支持非接触式支付的支付服务 [Apple
 Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink") 的支付卡也整合在此應用程式中。
@@ -25,12 +25,12 @@ Pay的地区，还会显示添加银行卡的画面和按钮。此外票卡也�
 瀏覽器在线发布，透過電子郵件發送，或使用Wallet應用程式内建的扫描仪扫描。凭证可通过电子邮件、短信、彩信、网络、社交媒体和
 QR 码发布。\[6\]
 
-票卡透過 [iCloud](../Page/iCloud.md "wikilink") 在 iOS 裝置間同步。[OS X
-10.8.2](../Page/OS_X_Mountain_Lion.md "wikilink")
-以後的版本可在電腦上直接開啟票卡，並傳送至使用者的
-iOS 裝置。\[7\]雖然 Passbook 包含在 [iOS 6](../Page/iOS_6.md "wikilink")
-及以後的版本中，但目前只能在 [iPhone](../Page/iPhone.md "wikilink")
-5以上和 [iPod Touch](../Page/iPod_Touch.md "wikilink")
+票卡透過 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink") 在 iOS
+裝置間同步。[OS X 10.8.2](../Page/OS_X_Mountain_Lion.md "wikilink")
+以後的版本可在電腦上直接開啟票卡，並傳送至使用者的 iOS 裝置。\[7\]雖然 Passbook 包含在 [iOS
+6](https://zh.wikipedia.org/wiki/iOS_6 "wikilink") 及以後的版本中，但目前只能在
+[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink") 5以上和 [iPod
+Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")
 上執行，[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
 則無法使用。\[8\]
 
@@ -63,8 +63,8 @@ Pay Cash账户的功能。iPhone用户通过息屏状态下双击Home键（[iPho
 8及以前机型](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")）或侧边开关按钮（[iPhone
 X及以后机型](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")）来快速呼出钱包app，并通过[触控
 ID或](../Page/触控_ID.md "wikilink")[面容
-ID识别后即可将设备靠近](https://zh.wikipedia.org/wiki/面容_ID "wikilink")[POS机以支付](https://zh.wikipedia.org/wiki/POS机 "wikilink")。用户可在钱包app中查看消费记录、添加或删除卡片、以及设置默认付款卡片。在2019年3月苹果发布信用卡[Apple
-Card后](https://zh.wikipedia.org/wiki/Apple_Card "wikilink")，用户更可在钱包app中进行还款、记账、调整额度等操作。
+ID识别后即可将设备靠近](../Page/面容_ID.md "wikilink")[POS机以支付](https://zh.wikipedia.org/wiki/POS机 "wikilink")。用户可在钱包app中查看消费记录、添加或删除卡片、以及设置默认付款卡片。在2019年3月苹果发布信用卡[Apple
+Card后](../Page/Apple_Card.md "wikilink")，用户更可在钱包app中进行还款、记账、调整额度等操作。
 
 ## Wallet 生态
 

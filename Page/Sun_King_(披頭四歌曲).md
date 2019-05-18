@@ -6,8 +6,7 @@ King**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki
 原先歌曲的名稱是《Here Comes The Sun King》（太陽王出來了），但因為與《艾比路》專輯裡另一首歌《Here Comes
 The Sun》（太陽出來了）相似而改名。此曲的開頭是連接在前一首《[You Never Give Me Your
 Money](../Page/You_Never_Give_Me_Your_Money.md "wikilink")》的尾聲處，並同樣在結尾處會直接不中斷接下一首曲子《[Mean
-Mr.
-Mustard](https://zh.wikipedia.org/wiki/Mean_Mr._Mustard "wikilink")》。
+Mr. Mustard](../Page/Mean_Mr._Mustard.md "wikilink")》。
 
 歌曲中出現朦朧的鼓聲是鼓手[林哥·史達以厚巾子蓋住鼓所敲出的效果](https://zh.wikipedia.org/wiki/林哥·史達 "wikilink")，\[1\]而[喬治·哈里森為此曲做出的吉他演奏則是受](https://zh.wikipedia.org/wiki/喬治·哈里森 "wikilink")[佛利伍麥克在](../Page/佛利伍麥克.md "wikilink")1969年發表的演奏曲《Albatross》風格影響。\[2\]在結尾處則有著藍儂與[保羅·麥卡尼以](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")[西班牙語及](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[葡萄牙語隨意講出來的字詞](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")。\[3\]\[4\]
 

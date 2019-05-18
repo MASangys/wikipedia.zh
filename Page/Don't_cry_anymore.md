@@ -1,10 +1,10 @@
 《**don't cry
-anymore**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](../Page/miwa.md "wikilink")1張單曲，於2010年3月3日由[Sony
+anymore**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張單曲，於2010年3月3日由[Sony
 Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 發行與宣傳
 
-這是[miwa的出道作品](../Page/miwa.md "wikilink")。在發行當日，在舉辦了她的出道紀念演唱會。\[1\]
+這是[miwa的出道作品](https://zh.wikipedia.org/wiki/miwa "wikilink")。在發行當日，在舉辦了她的出道紀念演唱會。\[1\]
 
 《don't cry
 anymore》是[富士電視台連續劇](../Page/富士電視台.md "wikilink")《[決定不哭的日子](../Page/決定不哭的日子.md "wikilink")》的主題曲。\[2\]這首歌是miwa得知電視劇的概念後，為該劇寫成的歌曲。\[3\]另外這首歌於2010年1月下旬被用作[RecoChoku的廣告歌曲](../Page/RecoChoku.md "wikilink")。\[4\]

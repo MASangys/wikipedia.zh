@@ -1,6 +1,6 @@
 [Mazda_Flair_Wagon_XS_MM32S.JPG](https://zh.wikipedia.org/wiki/File:Mazda_Flair_Wagon_XS_MM32S.JPG "fig:Mazda_Flair_Wagon_XS_MM32S.JPG")
 **馬自達Flair
-Wagon**（）是2012年起由[日本](../Page/日本.md "wikilink")[馬自達汽車公司委託](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[代工生產](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")、[貼上馬自達廠徽銘牌的](../Page/换牌工程.md "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，這款車是以[鈴木Palette](https://zh.wikipedia.org/wiki/鈴木Palette "wikilink")（スズキ・パレット）為基礎而開發出來的，僅在日本國內市場銷售。
+Wagon**（）是2012年起由[日本](../Page/日本.md "wikilink")[馬自達汽車公司委託](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[代工生產](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")、[貼上馬自達廠徽銘牌的](../Page/换牌工程.md "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，這款車是以[鈴木Palette](../Page/鈴木Palette.md "wikilink")（スズキ・パレット）為基礎而開發出來的，僅在日本國內市場銷售。
 
 除了鈴木Palette外，另一款兄弟車為。這是繼[第六代鈴木Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第六代HA24S/24V型（2004年-2009年） "wikilink")、[第五代馬自達Carol和](https://zh.wikipedia.org/wiki/馬自達Carol#第五代（HB24型_2004年-2009年） "wikilink")三兄弟車款以來，第二次出現三兄弟車款。
 
@@ -8,7 +8,7 @@ Wagon**（）是2012年起由[日本](../Page/日本.md "wikilink")[馬自達汽
 
 ### 第一代（2012年-2013年）
 
-長年以來[馬自達和](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車之間存在著輕型車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工的協議](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")，這款以[鈴木Palette為基礎而開發的輕型車於](https://zh.wikipedia.org/wiki/鈴木Palette "wikilink")2012年6月26日正式發表上市\[1\]。上市初期時兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌不同而已，這一點和[第四代Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（2005年迄今） "wikilink")、[AZ-Offroad相同](../Page/馬自達AZ-Offroad.md "wikilink")\[2\]。
+長年以來[馬自達和](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車之間存在著輕型車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工的協議](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")，這款以[鈴木Palette為基礎而開發的輕型車於](../Page/鈴木Palette.md "wikilink")2012年6月26日正式發表上市\[1\]。上市初期時兩者不論外觀或內裝完全一樣，差別只在廠徽銘牌不同而已，這一點和[第四代Scrum](https://zh.wikipedia.org/wiki/馬自達Scrum#第四代（2005年迄今） "wikilink")、[AZ-Offroad相同](../Page/馬自達AZ-Offroad.md "wikilink")\[2\]。
 
 動力方面分成兩種：自然進氣的658c.c.直列三缸DOHC VVT
 K6A型[引擎最大](https://zh.wikipedia.org/wiki/發動機 "wikilink")[馬力](../Page/馬力.md "wikilink")54ps
@@ -17,7 +17,7 @@ K6A型[引擎最大](https://zh.wikipedia.org/wiki/發動機 "wikilink")[馬力]
 3,000rpm。至於[變速箱系統](https://zh.wikipedia.org/wiki/變速器 "wikilink")，則採用[日產汽車與](../Page/日產汽車.md "wikilink")[Jatco](https://zh.wikipedia.org/wiki/Jatco "wikilink")（ジヤトコ株式会社）共同開發的[CVT附副變速機構](../Page/無段自動變速器.md "wikilink")。全車系最大的賣點在於後車門採滑門式設計，部分高階車款甚至設置電動滑門。此外，「IS
 Limited」車款裝置了[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")，以測試可達22.2km/L的油耗表現\[3\]。
 
-2013年2月因鈴木Palette的後繼車款[鈴木Spacia上市](https://zh.wikipedia.org/wiki/鈴木Spacia "wikilink")，第一代Flair
+2013年2月因鈴木Palette的後繼車款[鈴木Spacia上市](../Page/鈴木Spacia.md "wikilink")，第一代Flair
 Wagon隨著停產。此代車款僅販售約9個月的時間，這在日本汽車史上是相當罕見的。
 
 Image:Mazda FLAIR WAGON TS (MM21S) rear.JPG Image:Mazda FLAIR WAGON TS
@@ -28,7 +28,7 @@ Image:Mazda FLAIR WAGON TS (MM21S) rear.JPG Image:Mazda FLAIR WAGON TS
 ### 第二代（2013年-2018年）
 
 2013年 -
-3月18日發表大改款，同年4月25日開始發售，其原型車款從鈴木Palette變為[鈴木Spacia](https://zh.wikipedia.org/wiki/鈴木Spacia "wikilink")。和同系列的[Flair](https://zh.wikipedia.org/wiki/馬自達Flair "wikilink")、[第六代Carol一樣](../Page/馬自達Carol.md "wikilink")，搭載鈴木汽車新開發的「eNe-CHARGE」[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")（エネチャージ）、「Eco-Cool」蓄冷技術（エコクール）\[4\]
+3月18日發表大改款，同年4月25日開始發售，其原型車款從鈴木Palette變為[鈴木Spacia](../Page/鈴木Spacia.md "wikilink")。和同系列的[Flair](../Page/馬自達Flair.md "wikilink")、[第六代Carol一樣](../Page/馬自達Carol.md "wikilink")，搭載鈴木汽車新開發的「eNe-CHARGE」[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")（エネチャージ）、「Eco-Cool」蓄冷技術（エコクール）\[4\]
 和[引擎怠速自動啟閉系統](../Page/怠速熄火系統.md "wikilink")，以提升油耗表現。[引擎改採](https://zh.wikipedia.org/wiki/發動機 "wikilink")658c.c.直列三缸DOHC
 VVT
 [R06A型](https://zh.wikipedia.org/wiki/馬自達輕型車引擎列表#R06A型 "wikilink")，最大[馬力](../Page/馬力.md "wikilink")52ps
@@ -78,7 +78,7 @@ Sensor Brake Support），由單眼鏡頭與雷射感應器構成，並包含自
 ## 內部連結
 
   - [鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
-  - [馬自達Flair](https://zh.wikipedia.org/wiki/馬自達Flair "wikilink")
+  - [馬自達Flair](../Page/馬自達Flair.md "wikilink")
   - [馬自達Flair
     Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
 

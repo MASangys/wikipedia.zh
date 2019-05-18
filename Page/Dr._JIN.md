@@ -179,7 +179,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金應洙" title="wikilink">金應洙</a></p></td>
+<p><a href="../Page/金應洙.md" title="wikilink">金應洙</a></p></td>
 <td><center>
 <p>金炳禧</p></td>
 <td><center>
@@ -190,7 +190,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
+<p><a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
 <td><center>
 <p>劉宏畢</p></td>
 <td><center>
@@ -244,18 +244,18 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭殷杓" title="wikilink">鄭殷杓</a></p></td>
+<p><a href="../Page/鄭殷杓.md" title="wikilink">鄭殷杓</a></p></td>
 <td><center>
 <p>許光</p></td>
 <td><center>
 <p><a href="../Page/魏伯勤.md" title="wikilink">魏伯勤</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡德鈞" title="wikilink">蔡德鈞</a></p></td>
+<p><a href="../Page/蔡德鈞.md" title="wikilink">蔡德鈞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/活人署" title="wikilink">活人署資深醫員</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李承俊" title="wikilink">李承俊</a></p></td>
+<p><a href="../Page/李承俊.md" title="wikilink">李承俊</a></p></td>
 <td><center>
 <p>權義柱</p></td>
 <td><center>
@@ -266,7 +266,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李原種" title="wikilink">李原種</a></p></td>
+<p><a href="../Page/李原種.md" title="wikilink">李原種</a></p></td>
 <td><center>
 <p>-{zh-hk:申周捌;zh-tw:沈周八;zh-cn:沈周八}-</p></td>
 <td><center>
@@ -277,7 +277,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金廣植" title="wikilink">金廣植</a></p></td>
+<p><a href="../Page/金廣植.md" title="wikilink">金廣植</a></p></td>
 <td><center>
 <p>花豚</p></td>
 <td><center>
@@ -297,7 +297,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭惠先" title="wikilink">鄭惠先</a></p></td>
+<p><a href="../Page/鄭惠先.md" title="wikilink">鄭惠先</a></p></td>
 <td><center>
 <p><a href="../Page/神貞王后.md" title="wikilink">神貞王后</a></p></td>
 <td><center>
@@ -308,7 +308,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金秉世" title="wikilink">金秉世</a></p></td>
+<p><a href="../Page/金秉世.md" title="wikilink">金秉世</a></p></td>
 <td><center>
 <p><a href="../Page/朝鮮哲宗.md" title="wikilink">哲宗</a></p></td>
 <td><center>
@@ -340,7 +340,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張英南" title="wikilink">張英南</a></p></td>
+<p><a href="../Page/張英南.md" title="wikilink">張英南</a></p></td>
 <td><center>
 <p>趙夫人</p></td>
 <td><center>
@@ -362,7 +362,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹周熙" title="wikilink">尹周熙</a></p></td>
+<p><a href="../Page/尹周熙.md" title="wikilink">尹周熙</a></p></td>
 <td><center>
 <p>桂香</p></td>
 <td><center>
@@ -394,7 +394,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙美玲" title="wikilink">趙美玲</a></p></td>
+<p><a href="../Page/趙美玲.md" title="wikilink">趙美玲</a></p></td>
 <td></td>
 <td></td>
 <td><center>

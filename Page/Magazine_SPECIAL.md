@@ -16,7 +16,7 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
     ← 本誌より移籍
   - [Dreams](https://zh.wikipedia.org/wiki/Dreams_\(漫画\) "wikilink")（原作/[七三太朗](https://zh.wikipedia.org/wiki/七三太朗 "wikilink")
     漫画/[川三番地](https://zh.wikipedia.org/wiki/川三番地 "wikilink")） ← 本誌より移籍
-  - [ボックス\!](https://zh.wikipedia.org/wiki/ボックス! "wikilink")（原作/[百田尚樹](https://zh.wikipedia.org/wiki/百田尚樹 "wikilink")
+  - [ボックス\!](https://zh.wikipedia.org/wiki/ボックス! "wikilink")（原作/[百田尚樹](../Page/百田尚樹.md "wikilink")
     作画/[大羽隆廣](https://zh.wikipedia.org/wiki/大羽隆廣 "wikilink")） 2010年12月号
     -
   - [マリア×マリア](https://zh.wikipedia.org/wiki/マリア×マリア "wikilink")（[河方かおる](https://zh.wikipedia.org/wiki/河方かおる "wikilink")）2011年3月号
@@ -118,7 +118,7 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
     STEP](https://zh.wikipedia.org/wiki/GIANT_STEP "wikilink")（[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")）
   - [主将\!\!地院家若美](https://zh.wikipedia.org/wiki/主将!!地院家若美 "wikilink")（[やきうどん](https://zh.wikipedia.org/wiki/やきうどん "wikilink")）2004年12月号
     - 2011年10月号
-  - [シュワッチ](https://zh.wikipedia.org/wiki/シュワッチ "wikilink")（原作/[林律雄](https://zh.wikipedia.org/wiki/林律雄 "wikilink")
+  - [シュワッチ](https://zh.wikipedia.org/wiki/シュワッチ "wikilink")（原作/[林律雄](../Page/林律雄.md "wikilink")
     漫画/[峰岸とおる](https://zh.wikipedia.org/wiki/峰岸とおる "wikilink")）
   - [純平\!美女ON\!](https://zh.wikipedia.org/wiki/純平!美女ON! "wikilink")（[カジワラタケシ](https://zh.wikipedia.org/wiki/カジワラタケシ "wikilink")）1996年8月号
     - 1999年6月号
@@ -127,7 +127,7 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
   - [女王蜂 〜Vampire Queen
     Bee〜](https://zh.wikipedia.org/wiki/女王蜂_〜Vampire_Queen_Bee〜 "wikilink")（[高田千種](https://zh.wikipedia.org/wiki/高田千種 "wikilink")）2009年4月号
     - 2011年8月号
-  - [私立ジャスティス学園](https://zh.wikipedia.org/wiki/私立ジャスティス学園 "wikilink")（[大野純二](https://zh.wikipedia.org/wiki/大野純二 "wikilink")）
+  - [私立ジャスティス学園](https://zh.wikipedia.org/wiki/私立ジャスティス学園 "wikilink")（[大野純二](../Page/大野純二.md "wikilink")）
   - [新うしろの百太郎](https://zh.wikipedia.org/wiki/新うしろの百太郎 "wikilink")（[つのだじろう](https://zh.wikipedia.org/wiki/つのだじろう "wikilink")）
   - [心霊調査室OFFICE麗](https://zh.wikipedia.org/wiki/心霊調査室OFFICE麗 "wikilink")（原作/[小宮さなえ](https://zh.wikipedia.org/wiki/小宮さなえ "wikilink")
     漫画/[野々村秀樹](https://zh.wikipedia.org/wiki/野々村秀樹 "wikilink")） ← 本誌移籍
@@ -144,7 +144,7 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
       - [スミレ♡16歳\!\!](https://zh.wikipedia.org/wiki/スミレ16歳!! "wikilink")（永吉たける）
         2006年12月号 - 2009年2月号、← 本誌より移籍
   - [無敵偵探貴公子](../Page/無敵偵探貴公子.md "wikilink")（原作/[万城めいと](https://zh.wikipedia.org/wiki/万城めいと "wikilink")
-    漫画/[若山晴司](https://zh.wikipedia.org/wiki/深山和香 "wikilink")）
+    漫画/[若山晴司](../Page/深山和香.md "wikilink")）
   - [生徒会役員共](https://zh.wikipedia.org/wiki/生徒会役員共 "wikilink")（[氏家ト全](../Page/氏家ト全.md "wikilink")）
     2007年6月号 - 2008年7月号→ 本誌に移籍
   - [装甲武神ヤマテック](https://zh.wikipedia.org/wiki/装甲武神ヤマテック "wikilink")（[まつい智](https://zh.wikipedia.org/wiki/まつい智 "wikilink")）
@@ -227,7 +227,7 @@ SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[�
   - [RPL
     〜ろーぷれ〜](https://zh.wikipedia.org/wiki/RPL_〜ろーぷれ〜 "wikilink")（[宗田豪](https://zh.wikipedia.org/wiki/宗田豪 "wikilink")）2007年12月号
     - 2011年5月号
-  - [我妻同學是我的老婆](https://zh.wikipedia.org/wiki/我妻同學是我的老婆 "wikilink")（原作/[蔵石ユウ](https://zh.wikipedia.org/wiki/蔵石ユウ "wikilink")
+  - [我妻同學是我的老婆](../Page/我妻同學是我的老婆.md "wikilink")（原作/[蔵石ユウ](https://zh.wikipedia.org/wiki/蔵石ユウ "wikilink")
     漫画/[西木田景志](https://zh.wikipedia.org/wiki/西木田景志 "wikilink")）2011年10月号
     -　2012年8月号 → 本誌に移籍
 

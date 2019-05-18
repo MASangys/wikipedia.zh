@@ -5,7 +5,7 @@ Entertainment发售](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilin
 ## 概要
 
   - 《DIVA》是After School第1張以數位下載的單曲。
-  - 《DIVA》是成員[U-ie加入後第一張單曲](https://zh.wikipedia.org/wiki/U-ie "wikilink")，亦是成員[小英最後一張單曲](https://zh.wikipedia.org/wiki/劉小英 "wikilink")。
+  - 《DIVA》是成員[U-ie加入後第一張單曲](https://zh.wikipedia.org/wiki/U-ie "wikilink")，亦是成員[小英最後一張單曲](../Page/劉小英.md "wikilink")。
   - 收錄在第二張單曲《[因為你](../Page/因為你.md "wikilink")》。
 
 ## 收錄歌曲

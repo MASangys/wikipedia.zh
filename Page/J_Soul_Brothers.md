@@ -1,6 +1,6 @@
 **J Soul
-Brothers**是[日本的](../Page/日本.md "wikilink")[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")，所屬唱片公司為[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+Brothers**是[日本的](../Page/日本.md "wikilink")[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 該團體曾組成過3次：
 
@@ -18,13 +18,13 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 ### 前史
 
-  - 1991年，[HIRO組成由](https://zh.wikipedia.org/wiki/五十嵐廣行 "wikilink")[鮑比·布朗命名的舞蹈團體](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")「Japanese
+  - 1991年，[HIRO組成由](../Page/五十嵐廣行.md "wikilink")[鮑比·布朗命名的舞蹈團體](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")「Japanese
     Soul Brothers」。
-  - [MATSU](https://zh.wikipedia.org/wiki/松本利夫 "wikilink")、[USA](https://zh.wikipedia.org/wiki/宇佐美吉啟 "wikilink")、[MAKIDAI加入](https://zh.wikipedia.org/wiki/MAKIDAI "wikilink")。
+  - [MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI加入](../Page/MAKIDAI.md "wikilink")。
 
 ### 初代：1999年至2001年
 
-  - 1999年，以HIRO為中心，[MATSU](https://zh.wikipedia.org/wiki/松本利夫 "wikilink")、[USA](https://zh.wikipedia.org/wiki/宇佐美吉啟 "wikilink")、[MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")、主唱5人組成「**J
+  - 1999年，以HIRO為中心，[MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")、主唱5人組成「**J
     Soul Brothers**」。
   - 1999年4月21日·22日，以支持成員身份參加[DREAMS COME
     TRUE的日本武道館公演](../Page/DREAMS_COME_TRUE.md "wikilink")。
@@ -38,13 +38,13 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 2007年5月11日在「EXILE LIVE TOUR 2007 EXILE
     EVOLUTION」發表組成。8月4日·5日的廵廻最後公演，成員首次公開表演。主唱是「EXILE
     VOCAL BATTLE AUDITION 2006 ～ ASIAN DREAM
-    ～」出身的[NESMITH及](https://zh.wikipedia.org/wiki/NESMITH "wikilink")[SHOKICHI](https://zh.wikipedia.org/wiki/SHOKICHI "wikilink")，表演者則是[KENCHI](https://zh.wikipedia.org/wiki/KENCHI "wikilink")，[KEIJI](https://zh.wikipedia.org/wiki/KEIJI "wikilink")，[TETSUYA](https://zh.wikipedia.org/wiki/TETSUYA_\(舞者\) "wikilink")。
-  - 2007年11月10日，表演者[NAOTO與](https://zh.wikipedia.org/wiki/NAOTO "wikilink")[NAOKI加入](https://zh.wikipedia.org/wiki/NAOKI "wikilink")，7位成員首次全體公開表演。
-  - 2008年5月7日，以單曲『[WE\!](https://zh.wikipedia.org/wiki/WE! "wikilink")』作獨立製作單曲出道。
+    ～」出身的[NESMITH及](../Page/NESMITH.md "wikilink")[SHOKICHI](../Page/SHOKICHI.md "wikilink")，表演者則是[KENCHI](../Page/KENCHI.md "wikilink")，[KEIJI](../Page/KEIJI.md "wikilink")，[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")。
+  - 2007年11月10日，表演者[NAOTO與](../Page/NAOTO.md "wikilink")[NAOKI加入](https://zh.wikipedia.org/wiki/NAOKI "wikilink")，7位成員首次全體公開表演。
+  - 2008年5月7日，以單曲『[WE\!](../Page/WE!.md "wikilink")』作獨立製作單曲出道。
   - 2008年10月2日起，開始為期約1個月以1台麵包車移動全國的「再次武者修行」48公演。
   - 2008年11月29日起參與EXILE舉行的巨蛋巡廻「EXILE PERFECT LIVE 2008」演出。
   - 2009年2月25日，專輯『[J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")』發售，完成主流出道。
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』發售，完成主流出道。
   - 2009年2月27日，在[MUSIC
     STATION首次演出](../Page/MUSIC_STATION.md "wikilink")，表演『』。
   - 2009年3月1日，發表全體成員加入EXILE，結束該名義的活動。
@@ -65,14 +65,14 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 7月19日播放的[週刊EXILE發表](../Page/週刊EXILE.md "wikilink")「**第三代J Soul
     Brothers**」誕生的消息。表演者是EXILE裏的成員NAOTO和NAOKI、劇團EXILE風組，再從「EXILE
     Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們 \~」最終名單選出主唱2名。
-  - 9月15日，最後現場表演審查結束後，合格者決定為[今市隆二和](https://zh.wikipedia.org/wiki/今市隆二 "wikilink")[登坂廣臣](https://zh.wikipedia.org/wiki/登坂廣臣 "wikilink")。
+  - 9月15日，最後現場表演審查結束後，合格者決定為[今市隆二和](../Page/今市隆二.md "wikilink")[登坂廣臣](../Page/登坂廣臣.md "wikilink")。
   - 9月27日，在「FANTASY後夜祭
     ～EXILE魂～」中，加上未發表的2名表演者，劇團EXILE風組的和大學生的[岩田剛典](../Page/岩田剛典.md "wikilink")，7個成員首次全體公開表演。
   - 11月10日，以「EXILE Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們
     \~」的3次審查課題曲『[Best Friend's
-    Girl](https://zh.wikipedia.org/wiki/Best_Friend's_Girl "wikilink")』出道。
+    Girl](../Page/Best_Friend's_Girl.md "wikilink")』出道。
   - 12月1日，第二張單曲『[On Your
-    Mark〜奇蹟之光〜](https://zh.wikipedia.org/wiki/On_Your_Mark〜奇蹟之光〜 "wikilink")』發售。並在12月3日播出的MUSIC
+    Mark〜奇蹟之光〜](../Page/On_Your_Mark〜奇蹟之光〜.md "wikilink")』發售。並在12月3日播出的MUSIC
     STATION首次演出，表演了該曲。
 
 **2011年**
@@ -80,7 +80,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 6月28日，與二代目J Soul Brothers（現在是EXILE成員）舉行聯合廵廻演唱會「二代目J Soul Brothers VS
     三代目J Soul Brothers Live Tour 2011～EXILE
     TRIBE～」。於兵庫縣和埼玉縣舉行15場公演，動員約15萬人。
-  - 9月7日，被[日本電視台劇集](../Page/日本電視台.md "wikilink")「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](https://zh.wikipedia.org/wiki/FIGHTERS "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J
+  - 9月7日，被[日本電視台劇集](../Page/日本電視台.md "wikilink")「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J
     Soul Brothers的第一次。
 
 **2012年**
@@ -88,7 +88,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 4月起參與「EXILE TRIBE LIVE TOUR 2012～TOWER OF WISH～」演出。
   - 9月1日，舉行首次單獨巡廻演唱會「第三代J Soul Brothers LIVE TOUR
     2012『0～ZERO～』」。於9處地方舉行27場公演，動員約25萬人。
-  - 12月30日，第七張單曲『[0〜ZERO〜](https://zh.wikipedia.org/wiki/0〜ZERO〜 "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎首次出場](../Page/日本唱片大獎.md "wikilink")。
+  - 12月30日，第七張單曲『[0〜ZERO〜](../Page/0〜ZERO〜.md "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎首次出場](../Page/日本唱片大獎.md "wikilink")。
   - 12月31日，以『煙火』在[NHK紅白歌合戰首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 **2013年**
@@ -106,7 +106,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
     IMPACT」開始。日本全國13都市34公演,共動員40萬人。\[3\][三代目JSBがツアーファイナル　40万人を熱狂の渦に](http://www.oricon.co.jp/news/2036562/full/)</ref>。
   - 6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN
     SAITAMA SUPER ARENA 10DAYS」的演出。
-  - 6月25日同日發售的第13張單曲「[R.Y.U.S.E.I.](https://zh.wikipedia.org/wiki/R.Y.U.S.E.I. "wikilink")」、演唱會影像『[三代目J
+  - 6月25日同日發售的第13張單曲「[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")」、演唱會影像『[三代目J
     Soul Brothers LIVE TOUR 2014 “BLUE
     IMPACT”](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2014_“BLUE_IMPACT” "wikilink")』的DVD和Blu-ray
     Disc皆獲得首位。成為史上單曲・DVD・Blu-ray Disc三部門同時首位的第三組\[4\]。
@@ -115,7 +115,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 **2015年**
 
   - 1月28日、第5張原創專輯『[PLANET
-    SEVEN](https://zh.wikipedia.org/wiki/PLANET_SEVEN "wikilink")』發行。獲得ORICON年榜「專輯部門作品銷售額」首位\[6\]。
+    SEVEN](../Page/PLANET_SEVEN.md "wikilink")』發行。獲得ORICON年榜「專輯部門作品銷售額」首位\[6\]。
   - 5月27日 - 10月18日、舉行首次巨蛋巡迴演唱會「三代目 J Soul Brothers LIVE TOUR 2015 BLUE
     PLANET」。
 
@@ -131,32 +131,32 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 ## 成員
 
-| 人名                                                                     | 擔當     |
-| ---------------------------------------------------------------------- | ------ |
-| 初代                                                                     |        |
-| **[HIRO](https://zh.wikipedia.org/wiki/五十嵐廣行 "wikilink")**             | 表演者    |
-| **[MATSU](https://zh.wikipedia.org/wiki/松本利夫 "wikilink")**             |        |
-| **[USA](https://zh.wikipedia.org/wiki/宇佐美吉啟 "wikilink")**              |        |
-| **[MAKIDAI](https://zh.wikipedia.org/wiki/MAKIDAI "wikilink")**        |        |
-| ****                                                                   | 主唱＆作曲家 |
-| **[ATSUSHI](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink")**        | 主唱     |
-| **[SHUN](../Page/清木場俊介.md "wikilink")**                                |        |
-| 二代目                                                                    |        |
-| **[KENCHI](https://zh.wikipedia.org/wiki/KENCHI "wikilink") (橘ケンチ)**   | 表演者    |
-| **[KEIJI](https://zh.wikipedia.org/wiki/KEIJI "wikilink") (黑木啓司)**     |        |
-| **[TETSUYA](https://zh.wikipedia.org/wiki/TETSUYA_\(舞者\) "wikilink")** |        |
-| **[NESMITH](https://zh.wikipedia.org/wiki/NESMITH "wikilink")**        | 主唱＆表演者 |
-| **[SHOKICHI](https://zh.wikipedia.org/wiki/SHOKICHI "wikilink")**      |        |
-| **[NAOTO](https://zh.wikipedia.org/wiki/NAOTO "wikilink")**            | 表演者    |
-| **[NAOKI](../Page/小林直己.md "wikilink")(小林直己)**                          |        |
-| 第三代                                                                    |        |
-| **[NAOTO](https://zh.wikipedia.org/wiki/NAOTO "wikilink")**            | 隊長兼表演者 |
-| **[小林直己](../Page/小林直己.md "wikilink")**                                 |        |
-| ****                                                                   | 表演者    |
-| ****                                                                   |        |
-| **[岩田剛典](../Page/岩田剛典.md "wikilink")**                                 |        |
-| **[今市隆二](https://zh.wikipedia.org/wiki/今市隆二 "wikilink")**              | 主唱     |
-| **[登坂廣臣](https://zh.wikipedia.org/wiki/登坂廣臣 "wikilink")**              |        |
+| 人名                                                  | 擔當     |
+| --------------------------------------------------- | ------ |
+| 初代                                                  |        |
+| **[HIRO](../Page/五十嵐廣行.md "wikilink")**             | 表演者    |
+| **[MATSU](../Page/松本利夫.md "wikilink")**             |        |
+| **[USA](../Page/宇佐美吉啟.md "wikilink")**              |        |
+| **[MAKIDAI](../Page/MAKIDAI.md "wikilink")**        |        |
+| ****                                                | 主唱＆作曲家 |
+| **[ATSUSHI](../Page/ATSUSHI.md "wikilink")**        | 主唱     |
+| **[SHUN](../Page/清木場俊介.md "wikilink")**             |        |
+| 二代目                                                 |        |
+| **[KENCHI](../Page/KENCHI.md "wikilink") (橘ケンチ)**   | 表演者    |
+| **[KEIJI](../Page/KEIJI.md "wikilink") (黑木啓司)**     |        |
+| **[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")** |        |
+| **[NESMITH](../Page/NESMITH.md "wikilink")**        | 主唱＆表演者 |
+| **[SHOKICHI](../Page/SHOKICHI.md "wikilink")**      |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**            | 表演者    |
+| **[NAOKI](../Page/小林直己.md "wikilink")(小林直己)**       |        |
+| 第三代                                                 |        |
+| **[NAOTO](../Page/NAOTO.md "wikilink")**            | 隊長兼表演者 |
+| **[小林直己](../Page/小林直己.md "wikilink")**              |        |
+| ****                                                | 表演者    |
+| ****                                                |        |
+| **[岩田剛典](../Page/岩田剛典.md "wikilink")**              |        |
+| **[今市隆二](../Page/今市隆二.md "wikilink")**              | 主唱     |
+| **[登坂廣臣](../Page/登坂廣臣.md "wikilink")**              |        |
 
 ## 作品
 
@@ -185,7 +185,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>1</p></td>
 <td><p>1999年10月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a></strong></p></td>
+<td><p><strong><a href="../Page/J_Soul_Brothers_(J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -218,15 +218,15 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2008年5月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/WE!" title="wikilink">WE!</a></strong></p></td>
+<td><p><strong><a href="../Page/WE!.md" title="wikilink">WE!</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a></p></td>
+<td><p><a href="../Page/J_Soul_Brothers_(J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2008年8月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FREAKOUT!" title="wikilink">FREAKOUT!</a></strong></p></td>
+<td><p><strong><a href="../Page/FREAKOUT!.md" title="wikilink">FREAKOUT!</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -234,7 +234,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2008年11月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Be_On_Top" title="wikilink">Be On Top</a></strong></p></td>
+<td><p><strong><a href="../Page/Be_On_Top.md" title="wikilink">Be On Top</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -242,7 +242,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2009年1月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/My_Place" title="wikilink">My Place</a></strong></p></td>
+<td><p><strong><a href="../Page/My_Place.md" title="wikilink">My Place</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -258,15 +258,15 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2010年11月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Best_Friend&#39;s_Girl" title="wikilink">Best Friend's Girl</a></strong></p></td>
+<td><p><strong><a href="../Page/Best_Friend&#39;s_Girl.md" title="wikilink">Best Friend's Girl</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(第三代J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a></p></td>
+<td><p><a href="../Page/J_Soul_Brothers_(第三代J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT" title="wikilink">THE BEST</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2010年12月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/On_Your_Mark〜奇蹟之光〜" title="wikilink">On Your Mark〜奇蹟之光〜</a></strong></p></td>
+<td><p><strong><a href="../Page/On_Your_Mark〜奇蹟之光〜.md" title="wikilink">On Your Mark〜奇蹟之光〜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -282,7 +282,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2011年9月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FIGHTERS" title="wikilink">FIGHTERS</a></strong></p></td>
+<td><p><strong><a href="../Page/FIGHTERS.md" title="wikilink">FIGHTERS</a></strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TRIBAL_SOUL" title="wikilink">TRIBAL SOUL</a></p></td>
 <td></td>
@@ -290,7 +290,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2011年11月9日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/反覆掙扎" title="wikilink">反覆掙扎</a></strong></p></td>
+<td><p><strong><a href="../Page/反覆掙扎.md" title="wikilink">反覆掙扎</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -300,13 +300,13 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <td><p>2012年3月7日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Go_my_way_(第三代J_Soul_Brothers的曲)" title="wikilink">Go my way</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MIRACLE_(第三代J_Soul_Brothers專輯)" title="wikilink">MIRACLE</a></p></td>
+<td><p><a href="../Page/MIRACLE_(第三代J_Soul_Brothers專輯).md" title="wikilink">MIRACLE</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2012年8月8日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/0〜ZERO〜" title="wikilink">0〜ZERO〜</a></strong></p></td>
+<td><p><strong><a href="../Page/0〜ZERO〜.md" title="wikilink">0〜ZERO〜</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -314,7 +314,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2012年11月14日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Powder_Snow_～永無止境的冬季～" title="wikilink">Powder Snow ～永無止境的冬季～</a></strong></p></td>
+<td><p><strong><a href="../Page/Powder_Snow_～永無止境的冬季～.md" title="wikilink">Powder Snow ～永無止境的冬季～</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -330,7 +330,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2013年10月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/冬季物語" title="wikilink">冬季物語</a></strong></p></td>
+<td><p><strong><a href="../Page/冬季物語.md" title="wikilink">冬季物語</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -338,7 +338,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2013年12月4日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/SO_RIGHT" title="wikilink">SO RIGHT</a></strong></p></td>
+<td><p><strong><a href="../Page/SO_RIGHT.md" title="wikilink">SO RIGHT</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -346,15 +346,15 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2014年3月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/S.A.K.U.R.A." title="wikilink">S.A.K.U.R.A.</a></strong></p></td>
+<td><p><strong><a href="../Page/S.A.K.U.R.A..md" title="wikilink">S.A.K.U.R.A.</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PLANET_SEVEN" title="wikilink">PLANET SEVEN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_JSB_WORLD" title="wikilink">THE JSB WORLD</a></p></td>
+<td><p><a href="../Page/PLANET_SEVEN.md" title="wikilink">PLANET SEVEN</a></p></td>
+<td><p><a href="../Page/THE_JSB_WORLD.md" title="wikilink">THE JSB WORLD</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2014年6月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/R.Y.U.S.E.I." title="wikilink">R.Y.U.S.E.I.</a></strong></p></td>
+<td><p><strong><a href="../Page/R.Y.U.S.E.I..md" title="wikilink">R.Y.U.S.E.I.</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -378,7 +378,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2015年4月15日</p></td>
-<td><p><strong><a href="../Page/starting_over.md" title="wikilink">starting over</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/starting_over" title="wikilink">starting over</a></strong></p></td>
 <td></td>
 <td><p><a href="../Page/THE_JSB_LEGACY.md" title="wikilink">THE JSB LEGACY</a></p></td>
 <td></td>
@@ -410,7 +410,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>20</p></td>
 <td><p>2016年11月9日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Welcome_to_TOKYO" title="wikilink">Welcome to TOKYO</a></strong></p></td>
+<td><p><strong><a href="../Page/Welcome_to_TOKYO.md" title="wikilink">Welcome to TOKYO</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -463,7 +463,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2009年2月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a></strong></p></td>
+<td><p><strong><a href="../Page/J_Soul_Brothers_(J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -475,7 +475,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2011年6月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(第三代J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a></strong></p></td>
+<td><p><strong><a href="../Page/J_Soul_Brothers_(第三代J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -487,7 +487,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2013年1月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MIRACLE_(第三代J_Soul_Brothers專輯)" title="wikilink">MIRACLE</a></strong></p></td>
+<td><p><strong><a href="../Page/MIRACLE_(第三代J_Soul_Brothers專輯).md" title="wikilink">MIRACLE</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -499,7 +499,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2015年1月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PLANET_SEVEN" title="wikilink">PLANET SEVEN</a></strong></p></td>
+<td><p><strong><a href="../Page/PLANET_SEVEN.md" title="wikilink">PLANET SEVEN</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -545,7 +545,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2017年3月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_JSB_WORLD" title="wikilink">THE JSB WORLD</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_JSB_WORLD.md" title="wikilink">THE JSB WORLD</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -677,7 +677,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>2011年6月1日</p></td>
 <td></td>
-<td><p>第三代 J Soul Brothers『<a href="https://zh.wikipedia.org/wiki/J_Soul_Brothers_(第三代J_Soul_Brothers專輯)" title="wikilink">J Soul Brothers</a>』</p></td>
+<td><p>第三代 J Soul Brothers『<a href="../Page/J_Soul_Brothers_(第三代J_Soul_Brothers專輯).md" title="wikilink">J Soul Brothers</a>』</p></td>
 </tr>
 <tr class="even">
 <td><p>Japanese Soul Brothers</p></td>
@@ -692,7 +692,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="even">
 <td><p>2012年9月5日</p></td>
 <td><p>24karats TRIBE OF GOLD</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EXILE_TRIBE" title="wikilink">EXILE TRIBE</a>『<a href="https://zh.wikipedia.org/wiki/24karats_TRIBE_OF_GOLD" title="wikilink">24karats TRIBE OF GOLD</a>』</p></td>
+<td><p><a href="../Page/EXILE_TRIBE.md" title="wikilink">EXILE TRIBE</a>『<a href="../Page/24karats_TRIBE_OF_GOLD.md" title="wikilink">24karats TRIBE OF GOLD</a>』</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年12月5日</p></td>
@@ -862,7 +862,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>LET'S PARTY</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBS电视台" title="wikilink">MBS劇集</a>『<a href="https://zh.wikipedia.org/wiki/戰國BASARA#電視劇" title="wikilink">戰國BASARA -MOONLIGHT PARTY-</a>』開場主題曲</p></td>
+<td><p><a href="../Page/MBS电视台.md" title="wikilink">MBS劇集</a>『<a href="https://zh.wikipedia.org/wiki/戰國BASARA#電視劇" title="wikilink">戰國BASARA -MOONLIGHT PARTY-</a>』開場主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>煙火</p></td>
@@ -1030,7 +1030,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>BREAK OF DAWN</p></td>
-<td><p>電影《<a href="https://zh.wikipedia.org/wiki/火星異種" title="wikilink">火星異種</a>》的主題曲</p></td>
+<td><p>電影《<a href="../Page/火星異種.md" title="wikilink">火星異種</a>》的主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>HAPPY</p></td>
@@ -1108,7 +1108,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - EXILE
     「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
   - EXILE 「[放浪榮耀
-    ～因為如此深愛這世界～](https://zh.wikipedia.org/wiki/放浪榮耀_～因為如此深愛這世界～ "wikilink")」（2013年）
+    ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
 
 ### 廣播
 
@@ -1116,8 +1116,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 ### 雜誌連載
 
-  - [月刊EXILE](https://zh.wikipedia.org/wiki/月刊EXILE "wikilink")（2010年 -
-    ）
+  - [月刊EXILE](../Page/月刊EXILE.md "wikilink")（2010年 - ）
   - EDGE STYLE（2013年 - 2014年 ）
 
 ### 手機發送
@@ -1352,7 +1351,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 <td><p>2016</p></td>
 <td><p>第30屆日本金唱片大獎</p></td>
 <td><p>最佳 5 專輯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PLANET_SEVEN" title="wikilink">PLANET SEVEN</a>[22]</p></td>
+<td><p><a href="../Page/PLANET_SEVEN.md" title="wikilink">PLANET SEVEN</a>[22]</p></td>
 </tr>
 <tr class="odd">
 <td><p>BEST MUSIC・VIDEO</p></td>
@@ -1411,7 +1410,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 <tr class="even">
 <td><p>第32屆日本金唱片大獎</p></td>
 <td><p>最佳 5 專輯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_JSB_WORLD" title="wikilink">THE JSB WORLD</a></p></td>
+<td><p><a href="../Page/THE_JSB_WORLD.md" title="wikilink">THE JSB WORLD</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

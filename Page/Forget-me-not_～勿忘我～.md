@@ -24,8 +24,7 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
 2.  Your Gravity　\[3:00\]
       -
         [日本電視台](../Page/日本電視台.md "wikilink")[系](https://zh.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[GURU
-        GURU
-        99](https://zh.wikipedia.org/wiki/GURU_GURU_99 "wikilink")』片尾曲
+        GURU 99](../Page/GURU_GURU_99.md "wikilink")』片尾曲
 3.  CALL　\[5:34\]
 4.  forget-me-not 〜勿忘我〜(instrumental)　\[4:51\]
 
@@ -48,7 +47,7 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
 ### 機動戰士鋼彈AGE盤
 
 1.  **forget-me-not 〜勿忘我〜**
-2.  [Still](../Page/Still_\(FLOWER單曲\).md "wikilink")　\[4:09\]
+2.  [Still](https://zh.wikipedia.org/wiki/Still_\(FLOWER單曲\) "wikilink")　\[4:09\]
       -
         作詞：松尾潔；作曲：川口大輔；編曲：中野雄太
 3.  [SAKURA後悔](../Page/SAKURA後悔.md "wikilink")　\[5:11\]

@@ -15,18 +15,18 @@ MQB平台可以生产从A00、A0、A到B四个级别的车型，并将取代目�
 ### 斯柯达
 
   - [斯柯达明锐](../Page/斯柯达明锐.md "wikilink")（3代）\[7\]
-  - [斯柯达Yeti](https://zh.wikipedia.org/wiki/斯柯达野帝 "wikilink")
+  - [斯柯达Yeti](../Page/斯柯达野帝.md "wikilink")
 
 ### 大众
 
   - [大众高尔夫](../Page/大众高尔夫.md "wikilink")（7代）
-  - [大众途观](https://zh.wikipedia.org/wiki/大众途观 "wikilink")
+  - [大众途观](../Page/大众途观.md "wikilink")
 
 ### 奥迪
 
-  - [奥迪A3](https://zh.wikipedia.org/wiki/奥迪A3 "wikilink")（3代）\[8\]
+  - [奥迪A3](../Page/奥迪A3.md "wikilink")（3代）\[8\]
   - [奥迪TT](../Page/奥迪TT.md "wikilink")
-  - [奥迪Q2](https://zh.wikipedia.org/wiki/奥迪Q2 "wikilink")
+  - [奥迪Q2](../Page/奥迪Q2.md "wikilink")
 
 ## 参见
 

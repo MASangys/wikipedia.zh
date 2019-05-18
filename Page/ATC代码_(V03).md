@@ -29,8 +29,7 @@
     [亚甲蓝](https://zh.wikipedia.org/wiki/亚甲蓝 "wikilink")（Methylthioninium
     chloride）
     V03AB18 [高锰酸钾](../Page/高锰酸钾.md "wikilink")（Potassium permanganate）
-    V03AB19
-    [毒扁豆碱](https://zh.wikipedia.org/wiki/毒扁豆碱 "wikilink")（Physostigmine）
+    V03AB19 [毒扁豆碱](../Page/毒扁豆碱.md "wikilink")（Physostigmine）
     V03AB20 [硫酸铜](../Page/硫酸铜.md "wikilink")（Copper sulfate）
     V03AB21 [碘化钾](../Page/碘化钾.md "wikilink")（Potassium iodide）
     V03AB22 [亚硝酸异戊酯](../Page/亚硝酸异戊酯.md "wikilink")（Amyl nitrite）
@@ -61,10 +60,8 @@
     [阿替美唑](https://zh.wikipedia.org/wiki/阿替美唑 "wikilink")（Atipamezole）
     QV03AB91
     [沙马西尼](https://zh.wikipedia.org/wiki/沙马西尼 "wikilink")（Sarmazenil）
-    QV03AB92
-    [地利洛非](https://zh.wikipedia.org/wiki/地利洛非 "wikilink")（Diprenorfin）
-    QV03AB93
-    [育亨宾](https://zh.wikipedia.org/wiki/育亨宾 "wikilink")（Yohimbine）
+    QV03AB92 [地利洛非](../Page/地利洛非.md "wikilink")（Diprenorfin）
+    QV03AB93 [育亨宾](../Page/育亨宾.md "wikilink")（Yohimbine）
     QV03AB94
     [妥拉苏林](https://zh.wikipedia.org/wiki/妥拉苏林 "wikilink")（Tolazoline）
 
@@ -86,9 +83,7 @@
     sulfonate）
     V03AE02
     [司维拉莫](https://zh.wikipedia.org/wiki/司维拉莫 "wikilink")（Sevelamer）
-    V03AE03
-    [碳酸镧](https://zh.wikipedia.org/wiki/碳酸镧 "wikilink")（Lanthanum
-    carbonate）
+    V03AE03 [碳酸镧](../Page/碳酸镧.md "wikilink")（Lanthanum carbonate）
     V03AE04
     [醋酸钙和碳酸镁](https://zh.wikipedia.org/wiki/醋酸钙和碳酸镁 "wikilink")（Calcium
     acetate and magnesium carbonate）

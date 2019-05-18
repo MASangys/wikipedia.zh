@@ -151,7 +151,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2017年10月31日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Kakao_M" title="wikilink">Kakao M</a></li>
+<li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -195,7 +195,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2016年7月6日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Kakao_M" title="wikilink">Kakao M</a></li>
+<li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></li>
 </ul></td>
 <td><p>'''</p></td>
 </tr>
@@ -205,7 +205,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2017年8月8日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Kakao_M" title="wikilink">Kakao M</a></li>
+<li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></li>
 </ul></td>
 <td><p>'''</p></td>
 </tr>
@@ -215,7 +215,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2019年2月26日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Kakao_M" title="wikilink">Kakao M</a></li>
+<li>唱片公司：<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></li>
 </ul></td>
 <td><p>'''</p></td>
 </tr>
@@ -263,22 +263,21 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
   - 2016年：《[SBS 美女孔心](../Page/美女孔心.md "wikilink")》OST Part.6〈예뻐보여You
     Look Pretty (feat.)〉
   - 2016年：《[MBC 購物王路易](../Page/購物王路易.md "wikilink")》OST Part.3〈The Time〉
-  - 2018年：《[不是機器人啊](https://zh.wikipedia.org/wiki/不是機器人啊 "wikilink")》OST
-    Part.5〈站在這裡（여기 서 있어）〉
-  - 2018年：《[你的管家](https://zh.wikipedia.org/wiki/你的管家 "wikilink")》OST
-    Part.5〈Smile Again〉
+  - 2018年：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》OST Part.5〈站在這裡（여기 서
+    있어）〉
+  - 2018年：《[你的管家](../Page/你的管家.md "wikilink")》OST Part.5〈Smile Again〉
 
 ## 影視作品
 
 ### 電視劇
 
-|            |                                                     |                                                           |           |        |    |
-| ---------- | --------------------------------------------------- | --------------------------------------------------------- | --------- | ------ | -- |
-| 播出年份       | 播出頻道                                                | 劇集名稱                                                      | 播出集數      | 角色     | 性質 |
-| 2012年      | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [绅士的品格](https://zh.wikipedia.org/wiki/绅士的品格 "wikilink")   | 第13集      | 街頭藝人   | 客串 |
-| 2013－2014年 | [tvN](https://zh.wikipedia.org/wiki/TVN "wikilink") | [清潭洞111](https://zh.wikipedia.org/wiki/清潭洞111 "wikilink") | 第3、6、7、8集 | Juniel |    |
-| 第5集        | 主演、旁白                                               |                                                           |           |        |    |
-| 2014年      | 清潭洞111－N.Flying邁向明星之路                               | 第3、4集                                                     | 客串        |        |    |
+|            |                                         |                                                         |           |        |    |
+| ---------- | --------------------------------------- | ------------------------------------------------------- | --------- | ------ | -- |
+| 播出年份       | 播出頻道                                    | 劇集名稱                                                    | 播出集數      | 角色     | 性質 |
+| 2012年      | [SBS](../Page/SBS_\(韓國\).md "wikilink") | [绅士的品格](https://zh.wikipedia.org/wiki/绅士的品格 "wikilink") | 第13集      | 街頭藝人   | 客串 |
+| 2013－2014年 | [tvN](../Page/TVN.md "wikilink")        | [清潭洞111](../Page/清潭洞111.md "wikilink")                  | 第3、6、7、8集 | Juniel |    |
+| 第5集        | 主演、旁白                                   |                                                         |           |        |    |
+| 2014年      | 清潭洞111－N.Flying邁向明星之路                   | 第3、4集                                                   | 客串        |        |    |
 
 ### 綜藝節目
 

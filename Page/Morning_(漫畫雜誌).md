@@ -11,9 +11,9 @@
   - [犬神もっこす](https://zh.wikipedia.org/wiki/犬神もっこす "wikilink")（[西餅](https://zh.wikipedia.org/wiki/西餅 "wikilink")）
     - 「もーたま。」作品枠からの『劇研もっこす』を改題して正式連載昇格
   - [う](https://zh.wikipedia.org/wiki/う_\(漫画\) "wikilink")（[ラズウェル細木](https://zh.wikipedia.org/wiki/ラズウェル細木 "wikilink")）
-  - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink")（[小山宙哉](https://zh.wikipedia.org/wiki/小山宙哉 "wikilink")）
+  - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink")（[小山宙哉](../Page/小山宙哉.md "wikilink")）
   - [主（おも）に泣いてます](https://zh.wikipedia.org/wiki/主に泣いてます "wikilink")（[東村アキコ](https://zh.wikipedia.org/wiki/東村アキコ "wikilink")）
-  - [OL進化論](https://zh.wikipedia.org/wiki/OL進化論 "wikilink")（[秋月理翠](https://zh.wikipedia.org/wiki/秋月理翠 "wikilink")）
+  - [OL進化論](https://zh.wikipedia.org/wiki/OL進化論 "wikilink")（[秋月理翠](../Page/秋月理翠.md "wikilink")）
   - [神之水滴](https://zh.wikipedia.org/wiki/神之水滴 "wikilink")（[オキモト・シュウ](https://zh.wikipedia.org/wiki/オキモト・シュウ "wikilink")
     / [亜樹直](https://zh.wikipedia.org/wiki/亜樹直 "wikilink")）
   - [北のライオン](https://zh.wikipedia.org/wiki/北のライオン "wikilink")（[わたせせいぞう](https://zh.wikipedia.org/wiki/わたせせいぞう "wikilink")）
@@ -47,7 +47,7 @@
     BAT](https://zh.wikipedia.org/wiki/BILLY_BAT "wikilink")（[浦澤直樹](../Page/浦澤直樹.md "wikilink")
     / [長崎尚志プロット共同制作](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")） -
     早期為隔週連載
-  - [鬼燈的冷徹](https://zh.wikipedia.org/wiki/鬼燈的冷徹 "wikilink")（[江口夏實](https://zh.wikipedia.org/wiki/江口夏實 "wikilink")）
+  - [鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")（[江口夏實](../Page/江口夏實.md "wikilink")）
     -
     [ちばてつや賞佳作受賞作](https://zh.wikipedia.org/wiki/ちばてつや賞 "wikilink")『非日常的な何気ない話』を「もーたま。」作品『地獄の沙汰とあれやこれ』と改題した後、更に改題して正式連載化
   - [miifa](https://zh.wikipedia.org/wiki/miifa "wikilink")（[ひなきみわ](https://zh.wikipedia.org/wiki/ひなきみわ "wikilink")）

@@ -37,8 +37,7 @@
     D01AC08 [酮康唑](../Page/酮康唑.md "wikilink")（Ketoconazole）
     D01AC09
     [硫康唑](https://zh.wikipedia.org/wiki/硫康唑 "wikilink")（Sulconazole）
-    D01AC10
-    [联苯苄唑](https://zh.wikipedia.org/wiki/联苯苄唑 "wikilink")（Bifonazole）
+    D01AC10 [联苯苄唑](../Page/联苯苄唑.md "wikilink")（Bifonazole）
     D01AC11
     [奥昔康唑](https://zh.wikipedia.org/wiki/奥昔康唑 "wikilink")（Oxiconazole）
     D01AC12
@@ -99,8 +98,7 @@
     D01AE19
     [托西拉酯](https://zh.wikipedia.org/wiki/托西拉酯 "wikilink")（Tolciclate）
     D01AE20 复方（Combinations）
-    D01AE21
-    [氟胞嘧啶](https://zh.wikipedia.org/wiki/氟胞嘧啶 "wikilink")（Flucytosine）
+    D01AE21 [氟胞嘧啶](../Page/氟胞嘧啶.md "wikilink")（Flucytosine）
     D01AE22
     [萘替芬](https://zh.wikipedia.org/wiki/萘替芬 "wikilink")（Naftifine）
     D01AE23

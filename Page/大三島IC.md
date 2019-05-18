@@ -1,4 +1,4 @@
-**大三島IC**（平假名：おおみしまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[今治市的](../Page/今治市.md "wikilink")[西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")（瀨戶內島波海道）之[交流道](../Page/交流道.md "wikilink")。
+**大三島IC**（平假名：おおみしまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[今治市的](../Page/今治市.md "wikilink")[西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")（瀨戶內島波海道）之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 1979年5月13日 -
-    [西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")[伯方島IC至大三島IC之間開通](https://zh.wikipedia.org/wiki/伯方島IC "wikilink")，此交流道也同時啟用。
+    [西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")[伯方島IC至大三島IC之間開通](https://zh.wikipedia.org/wiki/伯方島IC "wikilink")，此交流道也同時啟用。
   - 1999年5月1日 -
     西瀨戶自動車道大三島IC至[生口島南IC之間開通](https://zh.wikipedia.org/wiki/生口島南IC "wikilink")。
 
@@ -28,7 +28,7 @@
 
 ## 鄰近設施
 
-  - [西瀨戶自動車道](https://zh.wikipedia.org/wiki/西瀨戶自動車道 "wikilink")（瀨戶內島波海道）
+  - [西瀨戶自動車道](../Page/西瀨戶自動車道.md "wikilink")（瀨戶內島波海道）
     (7)[生口島南IC](https://zh.wikipedia.org/wiki/生口島南IC "wikilink") -
     [瀨戶田PA](https://zh.wikipedia.org/wiki/瀨戶田PA "wikilink") -
     (8)**大三島IC** - [上浦PA](https://zh.wikipedia.org/wiki/上浦PA "wikilink")

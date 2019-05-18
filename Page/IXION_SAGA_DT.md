@@ -239,7 +239,7 @@ ED》**（）。
 <!-- end list -->
 
   -
-    作詞：[鬼龍院翔](https://zh.wikipedia.org/wiki/Golden_Bomber "wikilink")、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー
+    作詞：[鬼龍院翔](../Page/Golden_Bomber.md "wikilink")、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー
     DT
     參與角色：火風紺（[江口拓也](../Page/江口拓也.md "wikilink")）、森格倫（[中井和哉](../Page/中井和哉.md "wikilink")）、瑪麗安（[福山潤](../Page/福山潤.md "wikilink")）、愛卡爾拉特公主（[三上枝織](../Page/三上枝織.md "wikilink")）、佩特（[細谷佳正](../Page/細谷佳正.md "wikilink")）
 
@@ -314,13 +314,12 @@ ED》**（）。
 
 <!-- end list -->
 
-  - 「**[女々しくて](https://zh.wikipedia.org/wiki/沒骨氣 "wikilink")**」（第2話）
+  - 「**[女々しくて](../Page/沒骨氣.md "wikilink")**」（第2話）
 
 <!-- end list -->
 
   -
-    歌：[Golden
-    Bomber](https://zh.wikipedia.org/wiki/Golden_Bomber "wikilink")
+    歌：[Golden Bomber](../Page/Golden_Bomber.md "wikilink")
 
 <!-- end list -->
 
@@ -619,17 +618,17 @@ ED》**（）。
 
 ### 播放電視台
 
-| 播放地區                                                                                | 播放電視台                                          | 播放日期                  | 播放時間（UTC+9）       | 所屬聯播網                                                 | 備註      |
-| ----------------------------------------------------------------------------------- | ---------------------------------------------- | --------------------- | ----------------- | ----------------------------------------------------- | ------- |
-| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                             | [東京電視台](../Page/東京電視台.md "wikilink")           | 2012年10月7日－2013年3月31日 | 星期日 25時05分－25時35分 | [東京電視網](../Page/東京電視網.md "wikilink")                  | **製作局** |
-| 日本全國                                                                                | [AT-X](../Page/AT-X.md "wikilink")             | 2012年10月8日－2013年4月1日  | 星期一 20時30分－21時00分 | 衞星電視                                                  | 有重播     |
-| [愛知縣](../Page/愛知縣.md "wikilink")                                                    | [愛知電視台](../Page/愛知電視台.md "wikilink")           | 2012年10月9日－2013年4月2日  | 星期二 26時35分－27時05分 | 東京電視網                                                 |         |
-| [北海道](../Page/北海道.md "wikilink")                                                    | [TV北海道](../Page/TV北海道.md "wikilink")           | 2012年10月10日－2013年4月3日 | 星期三 26時05分－26時35分 |                                                       |         |
-| [岡山縣](../Page/岡山縣.md "wikilink")[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")         | 2012年10月11日－2013年4月4日 | 星期四 26時15分－26時45分 |                                                       |         |
-| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                 | [大阪電視台](../Page/大阪電視台.md "wikilink")           | 2012年10月13日－2013年4月6日 | 星期六 26時25分－26時55分 |                                                       |         |
-| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                 | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")       |                       |                   |                                                       |         |
-| 日本全國                                                                                | [NICONICO直播](../Page/NICONICO動畫.md "wikilink") | 2012年10月15日－2013年4月8日 | 星期一 23時00分－23時30分 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |         |
-| [NICONICO頻道](../Page/NICONICO動畫.md "wikilink")                                      | 星期一 23時30分 更新                                  |                       |                   |                                                       |         |
+| 播放地區                                                                                | 播放電視台                                                             | 播放日期                  | 播放時間（UTC+9）       | 所屬聯播網                                                 | 備註      |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------- | ----------------- | ----------------------------------------------------- | ------- |
+| [關東廣域圈](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")                             | [東京電視台](../Page/東京電視台.md "wikilink")                              | 2012年10月7日－2013年3月31日 | 星期日 25時05分－25時35分 | [東京電視網](../Page/東京電視網.md "wikilink")                  | **製作局** |
+| 日本全國                                                                                | [AT-X](../Page/AT-X.md "wikilink")                                | 2012年10月8日－2013年4月1日  | 星期一 20時30分－21時00分 | 衞星電視                                                  | 有重播     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                                    | [愛知電視台](../Page/愛知電視台.md "wikilink")                              | 2012年10月9日－2013年4月2日  | 星期二 26時35分－27時05分 | 東京電視網                                                 |         |
+| [北海道](../Page/北海道.md "wikilink")                                                    | [TV北海道](../Page/TV北海道.md "wikilink")                              | 2012年10月10日－2013年4月3日 | 星期三 26時05分－26時35分 |                                                       |         |
+| [岡山縣](../Page/岡山縣.md "wikilink")[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink") | [瀨戶內電視台](../Page/瀨戶內電視台.md "wikilink")                            | 2012年10月11日－2013年4月4日 | 星期四 26時15分－26時45分 |                                                       |         |
+| [大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")                                 | [大阪電視台](../Page/大阪電視台.md "wikilink")                              | 2012年10月13日－2013年4月6日 | 星期六 26時25分－26時55分 |                                                       |         |
+| [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                 | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                          |                       |                   |                                                       |         |
+| 日本全國                                                                                | [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年10月15日－2013年4月8日 | 星期一 23時00分－23時30分 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |         |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")                   | 星期一 23時30分 更新                                                     |                       |                   |                                                       |         |
 
 ## 漫畫
 

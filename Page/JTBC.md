@@ -1,6 +1,6 @@
-**中央東洋廣播公司**（），[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")**JTBC**，是[韓國一家](https://zh.wikipedia.org/wiki/韓國 "wikilink")[衛星與](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[有線電視台](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](https://zh.wikipedia.org/wiki/綜合編成頻道 "wikilink")。綜編4社中，JTBC投入資金最多，為4,220億韓元，這是韓國傳媒產業歷史上最大規模。前身為1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」政策強行停播廣播電視公司之一的[東洋廣播公司](../Page/東洋廣播公司.md "wikilink")（TBC），因2008年[李明博政府通過韓國廣播相關法令增修](../Page/李明博.md "wikilink")，開放各大報業集團經營電視業務，在韓國《[中央日報](../Page/中央日報_\(韓國\).md "wikilink")》報社支持下，TBC得以「復播」，新的電視台即將代表中央日報的J加入名稱。
+**中央東洋廣播公司**（），[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")**JTBC**，是[韓國一家](https://zh.wikipedia.org/wiki/韓國 "wikilink")[衛星與](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[有線電視台](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，自2011年12月1日起開播，為[綜合編成頻道四台之一](../Page/綜合編成頻道.md "wikilink")。綜編4社中，JTBC投入資金最多，為4,220億韓元，這是韓國傳媒產業歷史上最大規模。前身為1980年遭[全斗煥政府以](../Page/全斗煥.md "wikilink")「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」政策強行停播廣播電視公司之一的[東洋廣播公司](../Page/東洋廣播公司.md "wikilink")（TBC），因2008年[李明博政府通過韓國廣播相關法令增修](../Page/李明博.md "wikilink")，開放各大報業集團經營電視業務，在韓國《[中央日報](../Page/中央日報_\(韓國\).md "wikilink")》報社支持下，TBC得以「復播」，新的電視台即將代表中央日報的J加入名稱。
 
-2016年，[韓國總統](https://zh.wikipedia.org/wiki/韓國總統 "wikilink")[朴槿惠的閨蜜](../Page/朴槿惠.md "wikilink")[崔順實](https://zh.wikipedia.org/wiki/崔順實 "wikilink")[干政醜聞](https://zh.wikipedia.org/wiki/2016年崔順實干政醜聞 "wikilink")，即由JTBC新聞部主管兼當家主播[孫石熙在其主持的](https://zh.wikipedia.org/wiki/孫石熙 "wikilink")《[JTBC新聞室](https://zh.wikipedia.org/wiki/JTBC新聞室 "wikilink")》所揭發與報導；JTBC新聞被認為是韓國最具公信力新聞節目之一，收視率曾超越無線電視台[MBC及](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")。\[1\]\[2\]
+2016年，[韓國總統](https://zh.wikipedia.org/wiki/韓國總統 "wikilink")[朴槿惠的閨蜜](../Page/朴槿惠.md "wikilink")[崔順實](../Page/崔順實.md "wikilink")[干政醜聞](../Page/2016年崔順實干政醜聞.md "wikilink")，即由JTBC新聞部主管兼當家主播[孫石熙在其主持的](../Page/孫石熙.md "wikilink")《[JTBC新聞室](https://zh.wikipedia.org/wiki/JTBC新聞室 "wikilink")》所揭發與報導；JTBC新聞被認為是韓國最具公信力新聞節目之一，收視率曾超越無線電視台[MBC及](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")。\[1\]\[2\]
 
 ## 台標
 
@@ -15,20 +15,20 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 
 ### 新闻
 
-  - [JTBC Newsroom](https://zh.wikipedia.org/wiki/JTBC新闻室 "wikilink")
+  - [JTBC Newsroom](../Page/JTBC新闻室.md "wikilink")
 
 ### 戲劇節目
 
 #### 播映中時段
 
   - [JTBC月火連續劇](../Page/JTBC月火連續劇.md "wikilink")
-  - [JTBC金土連續劇](https://zh.wikipedia.org/wiki/JTBC金土連續劇 "wikilink")
+  - [JTBC金土連續劇](../Page/JTBC金土連續劇.md "wikilink")
 
 #### 已廢除時段
 
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
   - [JTBC日日連續劇](https://zh.wikipedia.org/wiki/JTBC日日連續劇 "wikilink")
-  - [JTBC周末連續劇](https://zh.wikipedia.org/wiki/JTBC周末連續劇 "wikilink")
+  - [JTBC周末連續劇](../Page/JTBC周末連續劇.md "wikilink")
   - [JTBC周末特別企劃連續劇](../Page/JTBC周末特別企劃連續劇.md "wikilink")
 
 ### 最高收視率排行
@@ -51,7 +51,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sky_Castle" title="wikilink">Sky Castle</a></p></td>
+<td><p><a href="../Page/Sky_Castle.md" title="wikilink">Sky Castle</a></p></td>
 <td><p>20</p></td>
 <td></td>
 <td></td>
@@ -60,7 +60,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/有品位的她" title="wikilink">有品位的她</a></p></td>
+<td><p><a href="../Page/有品位的她.md" title="wikilink">有品位的她</a></p></td>
 <td><p>20</p></td>
 <td><p>'''12.065% '''</p></td>
 <td></td>
@@ -69,7 +69,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/耀眼" title="wikilink">耀眼</a></p></td>
+<td><p><a href="../Page/耀眼.md" title="wikilink">耀眼</a></p></td>
 <td><p>12</p></td>
 <td><p>9.731%</p></td>
 <td></td>
@@ -96,7 +96,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Misty" title="wikilink">Misty</a></p></td>
+<td><p><a href="../Page/Misty.md" title="wikilink">Misty</a></p></td>
 <td><p>16</p></td>
 <td><p>8.452%</p></td>
 <td></td>
@@ -105,7 +105,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/經常請吃飯的漂亮姐姐" title="wikilink">經常請吃飯的漂亮姐姐</a></p></td>
+<td><p><a href="../Page/經常請吃飯的漂亮姐姐.md" title="wikilink">經常請吃飯的漂亮姐姐</a></p></td>
 <td><p>14</p></td>
 <td><p>7.281%</p></td>
 <td></td>
@@ -114,7 +114,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的ID是江南美人" title="wikilink">我的ID是江南美人</a></p></td>
+<td><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></p></td>
 <td><p>16</p></td>
 <td><p>5.753%</p></td>
 <td></td>
@@ -123,7 +123,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Life_(電視劇)" title="wikilink">Life</a></p></td>
+<td><p><a href="../Page/Life_(電視劇).md" title="wikilink">Life</a></p></td>
 <td><p>16</p></td>
 <td><p>5.561%</p></td>
 <td></td>
@@ -157,54 +157,51 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
   - 2015年《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》 (아는 형님)
   - 2016年《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》
     (한끼줍쇼)
-  - 2016年《[團結才能火](https://zh.wikipedia.org/wiki/團結才能火 "wikilink")》 (뭉쳐야
-    뜬다)
-  - 2017年《[孝利家民宿](https://zh.wikipedia.org/wiki/孝利家民宿 "wikilink")》（효리네
-    민박）
+  - 2016年《[團結才能火](../Page/團結才能火.md "wikilink")》 (뭉쳐야 뜬다)
+  - 2017年《[孝利家民宿](../Page/孝利家民宿.md "wikilink")》（효리네 민박）
   - 2017年《[Begin
-    Again](https://zh.wikipedia.org/wiki/Begin_Again_\(電視節目\) "wikilink")》（비긴어게인）
+    Again](../Page/Begin_Again_\(電視節目\).md "wikilink")》（비긴어게인）
   - 2017年《》（차이나는 클라스）
-  - 2018年《[Idol
-    Room](https://zh.wikipedia.org/wiki/Idol_Room "wikilink")》(아이돌룸)
+  - 2018年《[Idol Room](../Page/Idol_Room.md "wikilink")》(아이돌룸)
 
 #### 完結的節目
 
   - 2011年《[少女時代和危險少年](../Page/少女時代和危險少年.md "wikilink")》 （소녀시대와 위험한
     소년들）（2011年12月18日－2012年3月11日）
-  - 2011年《[李秀根和金炳萬的上流社會](https://zh.wikipedia.org/wiki/李秀根和金炳萬的上流社會 "wikilink")》（이수근
-    김병만의 상류사회）（2011年12月10日－2013年6月15日）
+  - 2011年《[李秀根和金炳萬的上流社會](../Page/李秀根和金炳萬的上流社會.md "wikilink")》（이수근 김병만의
+    상류사회）（2011年12月10日－2013年6月15日）
   - 2012年《[神話放送](../Page/神話放送.md "wikilink")》（신화방송）（2012年3月17日－2014年1月19日）
   - 2013年《[魔女狩猎](https://zh.wikipedia.org/wiki/魔女狩猎 "wikilink")》（마녀사냥）（2013年8月2日－2015年12月28日）
   - 2014年《[Crime Scene
-    犯罪現場](https://zh.wikipedia.org/wiki/Crime_Scene_犯罪現場 "wikilink")》（크라임씬）（2014年5月10日－2014年7月12日、2015年4月1日–2015年6月24日、2017年4月21日－2017年7月14日）
+    犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink")》（크라임씬）（2014年5月10日－2014年7月12日、2015年4月1日–2015年6月24日、2017年4月21日－2017年7月14日）
   - 2014年《[非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")》（비정상회담）（2014年7月7日－2017年12月4日）
   - 2014年《[我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")》（학교
     다녀오겠습니다）（2014年7月12日－2015年11月3日）
-  - 2015年《[我獨自戀愛中](https://zh.wikipedia.org/wiki/我獨自戀愛中 "wikilink")》
-    (나홀로 연애중)（2015年1月31日－2015年4月18日）
+  - 2015年《[我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")》 (나홀로
+    연애중)（2015年1月31日－2015年4月18日）
   - 2015年《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》
     (내 친구의 집은 어디인가)（2015年2月7日－2016年4月29日）
   - 2016年《[CODE -
     秘密的房間](https://zh.wikipedia.org/wiki/CODE_-_秘密的房間 "wikilink")》
     (코드 - 비밀의 방)（2016年1月1日－2016年3月25日）
-  - 2016年《[瑪麗和我](https://zh.wikipedia.org/wiki/瑪麗和我 "wikilink")》 (마리와
+  - 2016年《[瑪麗和我](../Page/瑪麗和我.md "wikilink")》 (마리와
     나)（2016年12月16日－2017年4月6日）
-  - 2016年《[半月朋友](https://zh.wikipedia.org/wiki/半月朋友 "wikilink")》
+  - 2016年《[半月朋友](../Page/半月朋友.md "wikilink")》
     (반달친구)（2016年4月24日－2017年7月16日）
   - 2016年《[我要開動了](https://zh.wikipedia.org/wiki/我要開動了 "wikilink")》 (잘
     먹겠습니다)（2016年7月24日－2017年2月2日）
-  - 2016年《[说话之路](https://zh.wikipedia.org/wiki/说话之路 "wikilink")》
+  - 2016年《[说话之路](../Page/说话之路.md "wikilink")》
     (말하는대로)（2016年9月21日－2017年3月8日）
-  - 2017年《[我的家誕生了](https://zh.wikipedia.org/wiki/我的家誕生了 "wikilink")》（내
-    집이 나타났다）（2017年2月3日－2017年3月24日）
-  - 2017年《[夜行鬼怪](https://zh.wikipedia.org/wiki/夜行鬼怪 "wikilink")》（밤도깨비）（2017年7月30日－2018年3月18日）
-  - 2017年《[理論上完美的男人](https://zh.wikipedia.org/wiki/理論上完美的男人 "wikilink")》（이론상
-    완벽한 남자）（2017年11月10日－2018年1月12日）
-  - 2018年《[善良地活吧](https://zh.wikipedia.org/wiki/善良地活吧 "wikilink")》（착하게
+  - 2017年《[我的家誕生了](../Page/我的家誕生了.md "wikilink")》（내 집이
+    나타났다）（2017年2月3日－2017年3月24日）
+  - 2017年《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》（밤도깨비）（2017年7月30日－2018年3月18日）
+  - 2017年《[理論上完美的男人](../Page/理論上完美的男人.md "wikilink")》（이론상 완벽한
+    남자）（2017年11月10日－2018年1月12日）
+  - 2018年《[善良地活吧](../Page/善良地活吧.md "wikilink")》（착하게
     살자）（2018年1月19日－2018年3月16日）
   - 2018年《[WHYNOT － The
-    Dancer](https://zh.wikipedia.org/wiki/WHYNOT_－_The_Dancer "wikilink")》（WHYNOT:
-    더 댄서）(JTBC4頻道播放) （2018年5月5日－2018年6月23日）
+    Dancer](../Page/WHYNOT_－_The_Dancer.md "wikilink")》（WHYNOT: 더
+    댄서）(JTBC4頻道播放) （2018年5月5日－2018年6月23日）
 
 #### 試播節目
 
@@ -215,7 +212,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 
   - 2011年《Music On Top》
   - 2011年《Made In U》
-  - 2012年《[隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")》[隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")
+  - 2012年《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》[隱藏歌手](../Page/隱藏歌手.md "wikilink")
     ( Hidden Singer) 第一季（2012年12月21日－2013年6月22日)
   - 2016年《Girl Spirit》
   - 2016年《》 (팬텀싱어) 第一季（2016年11月11日－2017年1月27日）

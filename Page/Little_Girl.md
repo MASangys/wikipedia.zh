@@ -1,21 +1,20 @@
 《**Little
-Girl**》（）是日本女歌手[miwa的第](../Page/miwa.md "wikilink")2張單曲，於2010年6月23日由[Sony
+Girl**》（）是日本女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")2張單曲，於2010年6月23日由[Sony
 Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要
 
 《Little Girl》距離前作《[don't cry
-anymore](../Page/don't_cry_anymore.md "wikilink")》發行約3個半月，為miwa於2010年發行的第2張單曲。這張單曲的「初回生産限定盤」附送收錄了A面曲《Liitle
+anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》發行約3個半月，為miwa於2010年發行的第2張單曲。這張單曲的「初回生産限定盤」附送收錄了A面曲《Liitle
 Girl》[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 宣傳
 
 《Little Girl》是《[COUNT DOWN
 TV](../Page/COUNT_DOWN_TV.md "wikilink")》2010年6月份的主題曲。\[1\]miwa在同年6月18日播映的《[我們的音樂
-Our
-Music](https://zh.wikipedia.org/wiki/我們的音樂_Our_Music "wikilink")》中演唱了這首歌，此外也演唱了《[don't
+Our Music](../Page/我們的音樂_Our_Music.md "wikilink")》中演唱了這首歌，此外也演唱了《[don't
 cry
-anymore](../Page/don't_cry_anymore.md "wikilink")》和跟[菅止戈男合唱](../Page/菅止戈男.md "wikilink")《》一曲。\[2\]\[3\]
+anymore](https://zh.wikipedia.org/wiki/don't_cry_anymore "wikilink")》和跟[菅止戈男合唱](../Page/菅止戈男.md "wikilink")《》一曲。\[2\]\[3\]
 
 ## 收錄歌曲
 

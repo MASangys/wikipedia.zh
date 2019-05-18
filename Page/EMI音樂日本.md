@@ -49,7 +49,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [東京事變](../Page/東京事變.md "wikilink")
   - [松任谷由実](https://zh.wikipedia.org/wiki/松任谷由実 "wikilink")
   - [湯川潮音](https://zh.wikipedia.org/wiki/湯川潮音 "wikilink")
-  - [AI](https://zh.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
+  - [AI](../Page/AI_\(歌手\).md "wikilink")
   - [赤い公園](https://zh.wikipedia.org/wiki/赤い公園 "wikilink")
   - [上妻宏光](../Page/上妻宏光.md "wikilink")
   - [ACIDMAN](https://zh.wikipedia.org/wiki/ACIDMAN "wikilink")
@@ -72,7 +72,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [黒木憲ジュニア](https://zh.wikipedia.org/wiki/黒木憲ジュニア "wikilink")
   - [小林桂](https://zh.wikipedia.org/wiki/小林桂 "wikilink")
   - [阪井あゆみ](https://zh.wikipedia.org/wiki/阪井あゆみ "wikilink")
-  - [坂本冬美](https://zh.wikipedia.org/wiki/坂本冬美 "wikilink")
+  - [坂本冬美](../Page/坂本冬美.md "wikilink")
   - [the
     telephones](https://zh.wikipedia.org/wiki/the_telephones "wikilink")
   - [しおり](https://zh.wikipedia.org/wiki/しおり_\(シンガーソングライター\) "wikilink")
@@ -105,7 +105,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [ベッキー♪♯](https://zh.wikipedia.org/wiki/ベッキー "wikilink")
   - [Base Ball
     Bear](https://zh.wikipedia.org/wiki/Base_Ball_Bear "wikilink")
-  - [布袋寅泰](https://zh.wikipedia.org/wiki/布袋寅泰 "wikilink")
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
   - [マイナスターズ](https://zh.wikipedia.org/wiki/マイナスターズ "wikilink")
     ※[さまぁ〜ずの変名ユニット](https://zh.wikipedia.org/wiki/さまぁ〜ず "wikilink")
   - [松田亮治](https://zh.wikipedia.org/wiki/松田亮治 "wikilink")
@@ -132,8 +132,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [LUV AND
     RESPONSE](https://zh.wikipedia.org/wiki/LUV_AND_RESPONSE "wikilink")
   - [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")
-  - [Mrs. GREEN
-    APPLE](https://zh.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")
+  - [Mrs. GREEN APPLE](../Page/Mrs._GREEN_APPLE.md "wikilink")
 
 ## 參考資料
 

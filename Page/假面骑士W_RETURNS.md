@@ -4,7 +4,7 @@ RETURNS**》（）是特摄片《[假面骑士W](https://zh.wikipedia.org/wiki/�
 ## 概要
 
 本作为平成[假面骑士系列的第一套](https://zh.wikipedia.org/wiki/假面骑士系列 "wikilink")[OV作品](https://zh.wikipedia.org/wiki/录影带首映 "wikilink")。假面骑士系列中的OV作品还有《[真假面骑士
-序章](https://zh.wikipedia.org/wiki/真假面骑士_序章 "wikilink")》（昭和）和儿童杂志的专卖作品。但是这是第一次在電視本編放映结束后发售作品，同时也是首套敌方角色作为主角的[衍生作品](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")。
+序章](https://zh.wikipedia.org/wiki/真假面骑士_序章 "wikilink")》（昭和）和儿童杂志的专卖作品。但是这是第一次在電視本編放映结束后发售作品，同时也是首套敌方角色作为主角的[衍生作品](../Page/衍生作品.md "wikilink")。
 
 ## 假面骑士Accel
 
@@ -182,8 +182,7 @@ Red Flare并被击败，被送往Quarks的研究设施“Village”……
 
 <!-- end list -->
 
-  - 照井龙 / 假面骑士Accel（声） -
-    [木之本岭浩](https://zh.wikipedia.org/wiki/木之本岭浩 "wikilink")\[10\]
+  - 照井龙 / 假面骑士Accel（声） - [木之本岭浩](../Page/木之本岭浩.md "wikilink")\[10\]
   - 葛木葵 - \[11\]
   - 相模广志 / 指挥官掺杂体（声） -
     [田中实](https://zh.wikipedia.org/wiki/田中实_\(演员\) "wikilink")

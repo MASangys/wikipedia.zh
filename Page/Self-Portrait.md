@@ -28,23 +28,23 @@ Okay」）。
     《頑石點頭》
   - [新城國語力頒獎禮](../Page/新城國語力頒獎禮.md "wikilink")[2012](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力歌曲
     - 《頑石點頭》
-  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度TVB8金曲榜頒獎典禮得獎名單 "wikilink")：金曲獎
+  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：金曲獎
     - 《頑石點頭》
-  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度TVB8金曲榜頒獎典禮得獎名單 "wikilink")：全球觀眾最愛粵語歌曲
+  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：全球觀眾最愛粵語歌曲
     - 《頑石》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度新城勁爆頒獎禮得獎名單 "wikilink")：新城勁爆國語歌曲獎
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆國語歌曲獎
     - 《頑石點頭》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度新城勁爆頒獎禮得獎名單 "wikilink")：新城勁爆原創歌曲
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆原創歌曲
     - 《頑石》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度十大勁歌金曲得獎名單 "wikilink")：最受歡迎華語歌曲獎銅獎
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最受歡迎華語歌曲獎銅獎
     - 《頑石點頭》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度十大勁歌金曲得獎名單 "wikilink")：最佳填詞獎
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最佳填詞獎
     - 林夕—《頑石》
   - [SINA
-    Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單 "wikilink")：最高收聽率20大歌曲
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收聽率20大歌曲
     - 《頑石》
   - [SINA
-    Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")[2012](https://zh.wikipedia.org/wiki/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單 "wikilink")：最高收視MV大獎
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收視MV大獎
     - 《頑石》
   - [IFPI香港唱片銷量大獎頒獎典禮](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2012：十大銷量廣東唱片
   - 第十七屆全球華語榜中榜音樂大典頒獎典禮：榜中榜年度金曲獎 - 《頑石點頭》

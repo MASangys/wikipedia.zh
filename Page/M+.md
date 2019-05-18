@@ -86,7 +86,7 @@ Farrells及](https://zh.wikipedia.org/wiki/TFP_Farrell "wikilink")[瑞士建築�
 
 ### 動工
 
-隨著地基工程合約批出，M+工程團隊於2014年11月月初舉行拜神儀式，祈求工程一切順利。2015年1月29日，[西九文化區管理局舉行M](../Page/西九文化區管理局.md "wikilink")+工程啟動禮及放置時間囊儀式，由時任[政務司司長](https://zh.wikipedia.org/wiki/政務司司長 "wikilink")[林鄭月娥](../Page/林鄭月娥.md "wikilink")、西九文化區管理局[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[連納智和M](../Page/連納智.md "wikilink")+[行政總監](https://zh.wikipedia.org/wiki/行政總監 "wikilink")[李立偉致函](../Page/李立偉.md "wikilink")「香港下一代」的一封信、連同分別來自[油麻地天主教小學](https://zh.wikipedia.org/wiki/油麻地天主教小學 "wikilink")（海泓道）及[油麻地街坊會學校](https://zh.wikipedia.org/wiki/油麻地街坊會學校 "wikilink")6名小學生的寄願畫作、當日關於藝術報道及主題的報紙、從不同角度攝影M+地盤的照片及一塊取自M+建築物的外觀建材樣本等等一併放入[時間囊](../Page/時間囊.md "wikilink")，於2115年出土開啟\[9\]。
+隨著地基工程合約批出，M+工程團隊於2014年11月月初舉行拜神儀式，祈求工程一切順利。2015年1月29日，[西九文化區管理局舉行M](../Page/西九文化區管理局.md "wikilink")+工程啟動禮及放置時間囊儀式，由時任[政務司司長](https://zh.wikipedia.org/wiki/政務司司長 "wikilink")[林鄭月娥](../Page/林鄭月娥.md "wikilink")、西九文化區管理局[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[連納智和M](../Page/連納智.md "wikilink")+[行政總監](https://zh.wikipedia.org/wiki/行政總監 "wikilink")[李立偉致函](../Page/李立偉.md "wikilink")「香港下一代」的一封信、連同分別來自[油麻地天主教小學](https://zh.wikipedia.org/wiki/油麻地天主教小學 "wikilink")（海泓道）及[油麻地街坊會學校](../Page/油麻地街坊會學校.md "wikilink")6名小學生的寄願畫作、當日關於藝術報道及主題的報紙、從不同角度攝影M+地盤的照片及一塊取自M+建築物的外觀建材樣本等等一併放入[時間囊](../Page/時間囊.md "wikilink")，於2115年出土開啟\[9\]。
 
 西九文化區管理局於2015年9月26日宣布，與承建商[新昌營造簽約](https://zh.wikipedia.org/wiki/新昌營造 "wikilink")，委聘負責M+博物館的主要建築工程，涉及59億元。西九行政總裁栢志高（右三）與西九管理層及新昌營造代表，一齊切重約20磅的蛋糕慶祝\[10\]。
 

@@ -23,8 +23,8 @@
   - [山口麻由](https://zh.wikipedia.org/wiki/山口麻由_\(女演員\) "wikilink")
   - [花坂椎南](https://zh.wikipedia.org/wiki/花坂椎南 "wikilink")
   - [柴田柚菜](https://zh.wikipedia.org/wiki/柴田柚菜 "wikilink")
-  - [松本穗香](https://zh.wikipedia.org/wiki/松本穗香 "wikilink")
-  - [唐田英里佳](https://zh.wikipedia.org/wiki/唐田英里佳 "wikilink")
+  - [松本穗香](../Page/松本穗香.md "wikilink")
+  - [唐田英里佳](../Page/唐田英里佳.md "wikilink")
   - [小野莉奈](https://zh.wikipedia.org/wiki/小野莉奈 "wikilink")
   - [田畑志真](https://zh.wikipedia.org/wiki/田畑志真 "wikilink")
 

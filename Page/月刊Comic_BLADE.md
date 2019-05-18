@@ -1,8 +1,7 @@
 《**月刊Comic BLADE**》（）是[日本](../Page/日本.md "wikilink")[Mag
-Garden發行的](https://zh.wikipedia.org/wiki/Mag_Garden "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，每月30日發售，以[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")[高中學生為目標讀者群](https://zh.wikipedia.org/wiki/高中 "wikilink")。2014年7月休刊。2014年9月轉型為[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")，每月5、15、25、30日更新。
+Garden發行的](../Page/Mag_Garden.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，每月30日發售，以[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")[高中學生為目標讀者群](https://zh.wikipedia.org/wiki/高中 "wikilink")。2014年7月休刊。2014年9月轉型為[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")，每月5、15、25、30日更新。
 
-另有姊妹雜誌《[月刊Comic
-Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
+另有姊妹雜誌《[月刊Comic Avarus](../Page/月刊Comic_Avarus.md "wikilink")》。
 
 ## 連載作品
 
@@ -46,7 +45,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p>－</p></td>
 <td><p>2002.04</p></td>
 <td><p>2005.02</p></td>
-<td><p>←《<a href="https://zh.wikipedia.org/wiki/月刊GANGAN_WING" title="wikilink">月刊GANGAN WING</a>》</p></td>
+<td><p>←《<a href="../Page/月刊GANGAN_WING.md" title="wikilink">月刊GANGAN WING</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>002</p></td>
@@ -91,7 +90,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p>－</p></td>
 <td><p>2002.04</p></td>
 <td><p>2006.08</p></td>
-<td><p>←《<a href="https://zh.wikipedia.org/wiki/月刊GANGAN_WING" title="wikilink">月刊GANGAN WING</a>》<br />
+<td><p>←《<a href="../Page/月刊GANGAN_WING.md" title="wikilink">月刊GANGAN WING</a>》<br />
 →《<a href="../Page/月刊Comic電擊大王.md" title="wikilink">月刊Comic電擊大王</a>》</p></td>
 </tr>
 <tr class="even">
@@ -166,7 +165,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p>2002.05</p></td>
 <td><p>2003.11</p></td>
 <td><p>←《<a href="../Page/月刊GFantasy.md" title="wikilink">月刊GFantasy</a>》<br />
-→《<a href="https://zh.wikipedia.org/wiki/Comic_Blade_MASAMUNE" title="wikilink">MASAMUNE</a>》→《<a href="https://zh.wikipedia.org/wiki/月刊Comic_Avarus" title="wikilink">Avarus</a>》</p></td>
+→《<a href="https://zh.wikipedia.org/wiki/Comic_Blade_MASAMUNE" title="wikilink">MASAMUNE</a>》→《<a href="../Page/月刊Comic_Avarus.md" title="wikilink">Avarus</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>015</p></td>
@@ -184,7 +183,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p>－</p></td>
 <td><p>2002.05</p></td>
 <td><p>2005.03</p></td>
-<td><p>←《<a href="https://zh.wikipedia.org/wiki/月刊GANGAN_WING" title="wikilink">月刊GANGAN WING</a>》<br />
+<td><p>←《<a href="../Page/月刊GANGAN_WING.md" title="wikilink">月刊GANGAN WING</a>》<br />
 →《<a href="https://zh.wikipedia.org/wiki/Comic_Blade_BROWNIE" title="wikilink">BROWNIE</a>》→因雜誌停刊中斷</p></td>
 </tr>
 <tr class="even">
@@ -317,7 +316,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p>029</p></td>
 <td><p><span style="display:none">にしのよきましよ</span> <a href="https://zh.wikipedia.org/wiki/西の善き魔女" title="wikilink">西の善き魔女</a></p></td>
 <td><p><span style="display:none">ももかわ はるひこ</span> 桃川春日子 <span style="font-size:90%;">（作画）</span></p></td>
-<td><p><span style="display:none">おきわら のりこ</span> <a href="https://zh.wikipedia.org/wiki/荻原規子" title="wikilink">荻原規子</a> <span style="font-size:90%;">（原作）</span></p></td>
+<td><p><span style="display:none">おきわら のりこ</span> <a href="../Page/荻原規子.md" title="wikilink">荻原規子</a> <span style="font-size:90%;">（原作）</span></p></td>
 <td><p>2004.03</p></td>
 <td><p>2007.07</p></td>
 <td></td>
@@ -714,7 +713,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <tr class="even">
 <td><p>069</p></td>
 <td><p><span style="display:none">せんこくようこ</span> <strong><a href="https://zh.wikipedia.org/wiki/戦国妖狐" title="wikilink">戦国妖狐</a></strong></p></td>
-<td><p><span style="display:none">みすかみ さとし</span> <a href="https://zh.wikipedia.org/wiki/水上悟志" title="wikilink">水上悟志</a></p></td>
+<td><p><span style="display:none">みすかみ さとし</span> <a href="../Page/水上悟志.md" title="wikilink">水上悟志</a></p></td>
 <td><p>－</p></td>
 <td><p>2008.02</p></td>
 <td><p><span style="display:none">6000.00</span> 連載中</p></td>
@@ -915,7 +914,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <tr class="even">
 <td><p>089</p></td>
 <td><p><span style="display:none">まほうしようしよふりていへる</span> <strong><a href="https://zh.wikipedia.org/wiki/魔法少女普莉堤貝兒" title="wikilink">魔法少女プリティ☆ベル</a></strong></p></td>
-<td><p><span style="display:none">かける</span> <a href="https://zh.wikipedia.org/wiki/KAKERU" title="wikilink">KAKERU</a></p></td>
+<td><p><span style="display:none">かける</span> <a href="../Page/KAKERU.md" title="wikilink">KAKERU</a></p></td>
 <td><p>－</p></td>
 <td><p>2010.01</p></td>
 <td><p><span style="display:none">6000.00</span> 連載中</p></td>
@@ -935,7 +934,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p><span style="display:none">しゆたいんすけえと ほうかんのりへりおん</span> <a href="https://zh.wikipedia.org/wiki/STEINS;GATE" title="wikilink">STEINS;GATE 亡環のリベリオン</a></p></td>
 <td><p><span style="display:none">みすた けんし</span> <a href="https://zh.wikipedia.org/wiki/水田ケンジ" title="wikilink">水田ケンジ</a> <span style="font-size:90%;">（作画）</span></p></td>
 <td><p><span style="display:none">ふあいふひいひい にとろふらす</span> <a href="../Page/5pb..md" title="wikilink">5pb.</a> × <a href="https://zh.wikipedia.org/wiki/ニトロプラス" title="wikilink">ニトロプラス</a> <span style="font-size:90%;">（原作）</span><br />
-<a href="https://zh.wikipedia.org/wiki/林直孝" title="wikilink">林直孝</a> <span style="font-size:90%;">（シナリオ原案）</span></p></td>
+<a href="../Page/林直孝.md" title="wikilink">林直孝</a> <span style="font-size:90%;">（シナリオ原案）</span></p></td>
 <td><p>2010.02</p></td>
 <td><p>2011.09</p></td>
 <td></td>
@@ -1123,8 +1122,8 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 </tr>
 <tr class="odd">
 <td><p>111</p></td>
-<td><p><span style="display:none">みなみかまくらこうこうしよししてんしやふ</span> <strong><a href="https://zh.wikipedia.org/wiki/南鎌倉高校女子自行車社" title="wikilink">南鎌倉高校女子自転車部</a></strong></p></td>
-<td><p><span style="display:none">まつもと のりゆき</span> <a href="https://zh.wikipedia.org/wiki/松本規之" title="wikilink">松本規之</a></p></td>
+<td><p><span style="display:none">みなみかまくらこうこうしよししてんしやふ</span> <strong><a href="../Page/南鎌倉高校女子自行車社.md" title="wikilink">南鎌倉高校女子自転車部</a></strong></p></td>
+<td><p><span style="display:none">まつもと のりゆき</span> <a href="../Page/松本規之.md" title="wikilink">松本規之</a></p></td>
 <td><p>－</p></td>
 <td><p>2011.08</p></td>
 <td><p><span style="display:none">6000.00</span> 連載中</p></td>
@@ -1399,7 +1398,7 @@ Avarus](https://zh.wikipedia.org/wiki/月刊Comic_Avarus "wikilink")》。
 <td><p><span style="display:none">あすままゆみ</span> <a href="https://zh.wikipedia.org/wiki/東まゆみ" title="wikilink">東まゆみ</a> <span style="font-size:90%;">（漫画）</span><br />
 <a href="https://zh.wikipedia.org/wiki/中西達郎" title="wikilink">中西達郎</a> <span style="font-size:90%;">（メカ作画）</span></p></td>
 <td><p><span style="display:none">にしさきよしのふ</span> <a href="https://zh.wikipedia.org/wiki/西崎義展" title="wikilink">西崎義展</a> <span style="font-size:90%;">（原作）</span><br />
-<a href="https://zh.wikipedia.org/wiki/結城信輝" title="wikilink">結城信輝</a> <span style="font-size:90%;">（キャラクターデザイン）</span><br />
+<a href="../Page/結城信輝.md" title="wikilink">結城信輝</a> <span style="font-size:90%;">（キャラクターデザイン）</span><br />
 西崎彰司 <span style="font-size:90%;">（監修）</span> <span style="font-size:90%;"><br />
 V.E.inc※/2199製委※※（協力）</span></p></td>
 <td><p>2013.09</p></td>
@@ -1418,7 +1417,7 @@ V.E.inc※/2199製委※※（協力）</span></p></td>
 </tr>
 <tr class="odd">
 <td><p>140</p></td>
-<td><p><span style="display:none">まほうつかいのよめ</span> <strong><a href="https://zh.wikipedia.org/wiki/魔法使的新娘" title="wikilink">魔法使的新娘</a></strong></p></td>
+<td><p><span style="display:none">まほうつかいのよめ</span> <strong><a href="../Page/魔法使的新娘.md" title="wikilink">魔法使的新娘</a></strong></p></td>
 <td><p><span style="display:none">やまさき これ</span> ヤマザキコレ</p></td>
 <td><p>－</p></td>
 <td><p>2014.01</p></td>
@@ -1437,8 +1436,8 @@ V.E.inc※/2199製委※※（協力）</span></p></td>
 </tr>
 <tr class="odd">
 <td><p>142</p></td>
-<td><p><span style="display:none">しもねたというかいねんかそんさいしないたいくつなせかい</span> <strong><a href="https://zh.wikipedia.org/wiki/下流梗不存在的灰暗世界" title="wikilink">下流梗不存在的灰暗世界 小●篇</a></strong></p></td>
-<td><p><span style="display:none">ゆすき えぬたつしゆ</span> <a href="https://zh.wikipedia.org/wiki/柚木N&#39;" title="wikilink">柚木N'</a> <span style="font-size:90%;">（漫画）</span></p></td>
+<td><p><span style="display:none">しもねたというかいねんかそんさいしないたいくつなせかい</span> <strong><a href="../Page/下流梗不存在的灰暗世界.md" title="wikilink">下流梗不存在的灰暗世界 小●篇</a></strong></p></td>
+<td><p><span style="display:none">ゆすき えぬたつしゆ</span> <a href="../Page/柚木N&#39;.md" title="wikilink">柚木N'</a> <span style="font-size:90%;">（漫画）</span></p></td>
 <td><p><span style="display:none">あかき ひろたか</span> 赤城大空 <span style="font-size:90%;">（原作）</span><br />
 霜月えいと <span style="font-size:90%;">（人物原案）</span></p></td>
 <td><p>2014.05</p></td>
@@ -1606,7 +1605,7 @@ V.E.inc※/2199製委※※（協力）</span></p></td>
       - （[中西達郎](https://zh.wikipedia.org/wiki/中西達郎 "wikilink")）2012年6月 -
         12月
 
-      - （原作：[イメージエポック](https://zh.wikipedia.org/wiki/イメージエポック "wikilink")、漫画：[吉岡榊](https://zh.wikipedia.org/wiki/吉岡榊 "wikilink")）2012年6月
+      - （原作：[イメージエポック](https://zh.wikipedia.org/wiki/イメージエポック "wikilink")、漫画：[吉岡榊](../Page/吉岡榊.md "wikilink")）2012年6月
         - 2013年3月
 
       - （[そにしけんじ](https://zh.wikipedia.org/wiki/そにしけんじ "wikilink")）2012年6月

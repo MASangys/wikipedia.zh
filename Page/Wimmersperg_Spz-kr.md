@@ -12,7 +12,7 @@ Spz-kr全槍主要以[斯登衝鋒槍的零件組成](../Page/斯登衝鋒槍.md
 
   - [StG44](https://zh.wikipedia.org/wiki/StG44 "wikilink")
   - [StG45](https://zh.wikipedia.org/wiki/StG45 "wikilink")
-  - [HIW VSK卡賓槍](https://zh.wikipedia.org/wiki/HIW_VSK卡賓槍 "wikilink")
+  - [HIW VSK卡賓槍](../Page/HIW_VSK卡賓槍.md "wikilink")
   - [MP 3008](https://zh.wikipedia.org/wiki/MP_3008 "wikilink")
   - [斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")
 

@@ -10,7 +10,7 @@
 ### 間接連接
 
   - [岐阜縣道364號大平賀富加停車場線](https://zh.wikipedia.org/wiki/岐阜縣道364號大平賀富加停車場線 "wikilink")
-  - [國道418號](https://zh.wikipedia.org/wiki/國道418號 "wikilink")
+  - [國道418號](../Page/國道418號.md "wikilink")
 
 ## 歷史
 

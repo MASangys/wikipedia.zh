@@ -1,5 +1,5 @@
 《**This Love Live
-2007**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的首張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](https://zh.wikipedia.org/wiki/現場專輯 "wikilink")，在2007年8月23日推出，收錄了他於2月1日至2月3日在[灣仔](../Page/灣仔.md "wikilink")[香港藝術中心壽臣劇院舉行的](../Page/香港藝術中心.md "wikilink")《This
+2007**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的首張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2007年8月23日推出，收錄了他於2月1日至2月3日在[灣仔](../Page/灣仔.md "wikilink")[香港藝術中心壽臣劇院舉行的](../Page/香港藝術中心.md "wikilink")《This
 Love Live 2007》所錄的曲目，當中包括兩片CD。\[1\]
 
 ## 曲目

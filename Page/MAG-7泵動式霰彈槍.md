@@ -21,7 +21,7 @@ M1型號，卻完全破壞MAG-7原來作為一把非常緊湊而強硬的近身�
 ## 現狀
 
 MAG-7的製造商是[塔克諾武器](https://zh.wikipedia.org/wiki/塔克諾公司 "wikilink")（PTY）[有限公司](../Page/有限公司.md "wikilink")，位於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[豪登省](../Page/豪登省.md "wikilink")[莫德方丹](https://zh.wikipedia.org/wiki/莫德方丹 "wikilink")。截至2012年3月主動和營銷三個MAG-7版本：標準型MAG-7、合法民用型MAG-7
-M1，以及M7雙用途防暴槍械（），最後者的型號是以標準型MAG-7為藍本，並且在其頂部安裝一個37毫米[上擺式槍管型單發式](https://zh.wikipedia.org/wiki/側擺式槍管 "wikilink")[非致命性彈藥防暴槍和使用一個固定式金屬製槍托的組合武器](https://zh.wikipedia.org/wiki/非致命性武器 "wikilink")。這點非常讓人聯想到在南非廣為流行、塔克諾武器有限公司目前仍然生產的[米爾科姆止動者37/38毫米防暴槍](https://zh.wikipedia.org/wiki/米爾科姆止動者37/38毫米防暴槍 "wikilink")。\[2\]
+M1，以及M7雙用途防暴槍械（），最後者的型號是以標準型MAG-7為藍本，並且在其頂部安裝一個37毫米[上擺式槍管型單發式](https://zh.wikipedia.org/wiki/側擺式槍管 "wikilink")[非致命性彈藥防暴槍和使用一個固定式金屬製槍托的組合武器](../Page/非致命性武器.md "wikilink")。這點非常讓人聯想到在南非廣為流行、塔克諾武器有限公司目前仍然生產的[米爾科姆止動者37/38毫米防暴槍](https://zh.wikipedia.org/wiki/米爾科姆止動者37/38毫米防暴槍 "wikilink")。\[2\]
 
 ## 流行文化
 
@@ -30,7 +30,7 @@ M1，以及M7雙用途防暴槍械（），最後者的型號是以標準型MAG-
   - 2012年—《[-{zh-hans:反恐精英：全球攻势 ;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/反恐精英：全球攻勢 "wikilink")》（Counter-Strike：Global
     Offensive）：命名为“MAG-7”，为反恐小組的其中一款可用武器。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：为短管折叠枪托型，命名为“MAG-7”，护木泵筒下加装握把，使用5发弹匣装填。为医疗兵专用武器，可从抽奖箱获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、霰弹枪消音器、[霰弹枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）以及瞄准镜（[EoTech
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：为短管折叠枪托型，命名为“MAG-7”，护木泵筒下加装握把，使用5发弹匣装填。为医疗兵专用武器，可从抽奖箱获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、霰弹枪消音器、[霰弹枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、[Aimpoint
     Comp
     M4S瞄准镜](https://zh.wikipedia.org/wiki/Aimpoint_Comp_M4红点镜 "wikilink")、Mojji
@@ -46,8 +46,7 @@ M1，以及M7雙用途防暴槍械（），最後者的型號是以標準型MAG-
 
   - [前鋒型霰彈槍](../Page/前鋒型霰彈槍.md "wikilink")
   - [NS2000泵動式霰彈槍](../Page/NS2000泵動式霰彈槍.md "wikilink")
-  - [Valtro
-    PM-5泵動式霰彈槍](https://zh.wikipedia.org/wiki/Valtro_PM-5泵動式霰彈槍 "wikilink")
+  - [Valtro PM-5泵動式霰彈槍](../Page/Valtro_PM-5泵動式霰彈槍.md "wikilink")
 
 ## 資料來源
 

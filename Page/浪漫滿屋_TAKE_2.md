@@ -25,7 +25,7 @@ Plus播出。
 <td><center>
 <p>李泰易<br />
 少年：<a href="../Page/吳在武.md" title="wikilink">吳在武</a><br />
-幼年：<a href="https://zh.wikipedia.org/wiki/安道奎" title="wikilink">安道奎</a></p></td>
+幼年：<a href="../Page/安道奎.md" title="wikilink">安道奎</a></p></td>
 <td><p>人氣組合Take One一員，在富裕家庭長大，家道中落父親離世後成為落難王子。李父所建的「浪漫滿屋」被經紀公司代表收購，因「滿屋」充滿了家庭回憶所以設法取回。出色的外表給代表相中，約定為公司賺到一定金額便歸還其屋，卻從此受代表擺怖。對很多物件敏感，不能穿非天然的衣料，不能吃非有機蔬菜，為他的生活製造很多麻煩。誤打誤撞下張滿屋成為其造型師，一直在表面上對待滿屋、康輝及其他人很差，實際上很在意身邊的人和重視感情，這全都源於他不擅於表達感情及害怕受傷的心情。滿屋為他被以前認識的富家子弟侮辱的事抱打不平令泰益對她産生好感，後來代表為了消除對泰益不利的緋聞，要求泰益與滿屋訂婚三個月，他們便開始了同居生活。與此同時，泰益的初戀陳世伶回來，要求他回到她的身邊。</p></td>
 </tr>
 <tr class="odd">
@@ -33,7 +33,7 @@ Plus播出。
 <p><a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a></p></td>
 <td><center>
 <p>張滿屋<br />
-幼年：<a href="https://zh.wikipedia.org/wiki/盧正義" title="wikilink">盧正義</a></p></td>
+幼年：<a href="../Page/盧正義.md" title="wikilink">盧正義</a></p></td>
 <td><p>原名Michelle張，幼時在國外生活，一場火災令父母雙亡，之後被爺爺收養，改名為張滿屋。爺爺把她培育成一個合氣道高手，對時尚服裝有一定的觸覺，趁爺爺到國外辧事時，把道場改為賣衣服的小店。朋友的行為令她被告上侵犯李泰益的肖像權，需賠償巨額，為還債在元康輝的説服下，成為Take One的造型師。曾詢問康輝待她好的理由，康輝説是因為她跟初戀很像，卻不知康輝漸漸對他暗生情愫。</p></td>
 </tr>
 <tr class="even">
@@ -41,7 +41,7 @@ Plus播出。
 <p><a href="../Page/朴基雄.md" title="wikilink">朴基雄</a></p></td>
 <td><center>
 <p>元康崴<br />
-幼年：<a href="https://zh.wikipedia.org/wiki/鄭允錫" title="wikilink">鄭允錫</a></p></td>
+幼年：<a href="../Page/鄭允錫.md" title="wikilink">鄭允錫</a></p></td>
 <td><p>人氣組合Take One一員，在破碎家庭中長大，因不想與生父産業扯上關係而選擇當歌手。與泰益總是有磨擦，但雙方卻對大家惺惺相惜，與滿屋很友好。視力因少時的意外受損，加上職業因素需長期接觸強烈燈光，面臨瞎眼危機。遭陷害被誤會其性取向，代表雖然知道實情，卻故意以此作理由，令他退出組合。</p></td>
 </tr>
 </tbody>
@@ -49,7 +49,7 @@ Plus播出。
 
 ### 其他人物
 
-  - 陳世伶：[俞雪婀](https://zh.wikipedia.org/wiki/俞雪婀 "wikilink")
+  - 陳世伶：[俞雪婀](../Page/俞雪婀.md "wikilink")
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@ Plus播出。
 <!-- end list -->
 
   - 裴高東：[李承洨](../Page/李承洨.md "wikilink")
-  - 其他演員：[鄭智雅](https://zh.wikipedia.org/wiki/鄭智雅 "wikilink")、[李申愛](https://zh.wikipedia.org/wiki/李申愛 "wikilink")、[金度妍](https://zh.wikipedia.org/wiki/金度妍 "wikilink")、[俞泰雄](https://zh.wikipedia.org/wiki/俞泰雄 "wikilink")
+  - 其他演員：[鄭智雅](https://zh.wikipedia.org/wiki/鄭智雅 "wikilink")、[李申愛](https://zh.wikipedia.org/wiki/李申愛 "wikilink")、[金度妍](https://zh.wikipedia.org/wiki/金度妍 "wikilink")、[俞泰雄](../Page/俞泰雄.md "wikilink")
 
 ## 其他搭配歌曲
 

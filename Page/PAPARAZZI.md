@@ -11,7 +11,7 @@
     預告裡，坐在劇院裡觀看[百老匯](../Page/百老匯.md "wikilink")[音樂劇的人](../Page/音樂劇.md "wikilink")，其實是動用了[SM
     Entertainment自身員工](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")120位的參與才得以完成的場面，另外這支音樂錄影帶也耗時一個星期的時間才完成。
   - 2012年6月14日，於[SM
-    Entertainment官方](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[Youtube公布最新日單](../Page/Youtube.md "wikilink")「PAPARAZZI」的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
+    Entertainment官方](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[Youtube公布最新日單](https://zh.wikipedia.org/wiki/Youtube "wikilink")「PAPARAZZI」的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
 ## 曲目
 

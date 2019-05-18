@@ -8,16 +8,14 @@ mobile限量銷售。
   - 只在EXILE mobile中銷售，沒有在一般的CD店舖銷售。
   - 「My Place」被使用作為[東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯
     柔道ワールドグランプリ」主題歌。
-  - 「My
-    Place」是[NESMITH初次作詞的歌曲](https://zh.wikipedia.org/wiki/NESMITH "wikilink")。
+  - 「My Place」是[NESMITH初次作詞的歌曲](../Page/NESMITH.md "wikilink")。
 
 ## 曲目
 
 ### DISC1(CD)
 
 1.  My Place
-    （作詞：[NESMITH](https://zh.wikipedia.org/wiki/NESMITH "wikilink") /
-    作曲：Hitoshi Harukawa）
+    （作詞：[NESMITH](../Page/NESMITH.md "wikilink") / 作曲：Hitoshi Harukawa）
       -
         [東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯 柔道World Grand Prix」主題歌。
         收錄於專輯「[J Soul
@@ -36,7 +34,7 @@ mobile限量銷售。
 ## 收錄專輯
 
   - [J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")（M-1、2）
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（M-1、2）
 
 [Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")
 [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")

@@ -12,7 +12,7 @@ Card）。
 
 向各大[广播电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")[电邮或](https://zh.wikipedia.org/wiki/电邮 "wikilink")[航空信寄去](https://zh.wikipedia.org/wiki/航空信 "wikilink")[收听报告](https://zh.wikipedia.org/wiki/收听报告 "wikilink")，电台经过认证后将寄回QSL卡。由廣播電台發行的認證卡，是電台作為收到廣播聽眾寄來的[收听报告時之證明與回饋](https://zh.wikipedia.org/wiki/收听报告 "wikilink")。除一般的收听报告之外，一些电台可能有额外的要求，如要求收听者提供录音或是在信件中附带足额回信邮资（现金、当地邮票或[国际回信券](https://zh.wikipedia.org/wiki/国际回信券 "wikilink")），方可向听众签发QSL卡片\[1\]\[2\]。
 
-由於收听证明卡上常常印有当地名胜、廣播電台的象徵物、知名、電台建築設施或[播音室的照片](https://zh.wikipedia.org/wiki/播音室 "wikilink")，以作為電台凝聚聽眾向心力的一種工具，因此也成為廣播迷之間一種常見的收藏嗜好，其作用類似[業餘無線電領域中的QSL卡](https://zh.wikipedia.org/wiki/業餘無線電 "wikilink")，部分会以[明信片的形式发行](../Page/明信片.md "wikilink")。雖然通常是以卡片型態般存在，但當收听证明是以書信的方式發行時，也常被稱為**收听证明信**或**QSL信**。部分电台（例如中国大陆的地方广播电台）可能没有专门印制QSL卡片，因此一些爱好者会自行印制带有电台标志以及相应信息的卡片寄给电台，由电台填写后再寄回，这种QSL卡片称为**“PFC卡”（Prepared
+由於收听证明卡上常常印有当地名胜、廣播電台的象徵物、知名、電台建築設施或[播音室的照片](../Page/播音室.md "wikilink")，以作為電台凝聚聽眾向心力的一種工具，因此也成為廣播迷之間一種常見的收藏嗜好，其作用類似[業餘無線電領域中的QSL卡](https://zh.wikipedia.org/wiki/業餘無線電 "wikilink")，部分会以[明信片的形式发行](../Page/明信片.md "wikilink")。雖然通常是以卡片型態般存在，但當收听证明是以書信的方式發行時，也常被稱為**收听证明信**或**QSL信**。部分电台（例如中国大陆的地方广播电台）可能没有专门印制QSL卡片，因此一些爱好者会自行印制带有电台标志以及相应信息的卡片寄给电台，由电台填写后再寄回，这种QSL卡片称为**“PFC卡”（Prepared
 Form
 Card）**。也有电台以电子邮件形式向去信的听众发送带有收听数据的图片或者[pdf文档等](https://zh.wikipedia.org/wiki/pdf "wikilink")，称为**e-QSL**。
 

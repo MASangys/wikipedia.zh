@@ -268,8 +268,7 @@ East職員](../Page/Data_East.md "wikilink")[太田康一和](https://zh.wikiped
 
 ## 相关条目
 
-  - [Compile
-    Heart](https://zh.wikipedia.org/wiki/Compile_Heart "wikilink") 子公司
+  - [Compile Heart](../Page/Compile_Heart.md "wikilink") 子公司
 
 ## 外部連結
 

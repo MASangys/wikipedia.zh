@@ -114,8 +114,7 @@
     A07DA01
     [地芬诺酯](https://zh.wikipedia.org/wiki/地芬诺酯 "wikilink")（Diphenoxylate）
     A07DA02 [阿片](https://zh.wikipedia.org/wiki/阿片 "wikilink")（Opium）
-    A07DA03
-    [洛哌丁胺](https://zh.wikipedia.org/wiki/洛哌丁胺 "wikilink")（Loperamide）
+    A07DA03 [洛哌丁胺](../Page/洛哌丁胺.md "wikilink")（Loperamide）
     A07DA04
     [地芬诺辛](https://zh.wikipedia.org/wiki/地芬诺辛 "wikilink")（Difenoxin）
     A07DA05
@@ -124,8 +123,7 @@
     A07DA52
     [吗啡](https://zh.wikipedia.org/wiki/吗啡 "wikilink")，复方（Morphine,
     combinations）
-    A07DA53
-    [洛哌丁胺](https://zh.wikipedia.org/wiki/洛哌丁胺 "wikilink")，复方（Loperamide,
+    A07DA53 [洛哌丁胺](../Page/洛哌丁胺.md "wikilink")，复方（Loperamide,
     combinations）
 
 ## A07E 肠道抗炎药Intestinal anti-inflammatory agents
@@ -138,8 +136,7 @@
     [氢化可的松](https://zh.wikipedia.org/wiki/氢化可的松 "wikilink")（Hydrocortisone）
     A07EA03
     [泼尼松](https://zh.wikipedia.org/wiki/泼尼松 "wikilink")（Prednisone）
-    A07EA04
-    [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
+    A07EA04 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
     A07EA05
     [替可的松](https://zh.wikipedia.org/wiki/替可的松 "wikilink")（Tixocortol）
     A07EA06 [布地奈德](../Page/布地奈德.md "wikilink")（Budesonide）

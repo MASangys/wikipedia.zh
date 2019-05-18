@@ -3,7 +3,7 @@
 Uhrman](https://zh.wikipedia.org/wiki/Julie_Uhrman "wikilink")\[3\]
 創立，並邀請了設計師[Yves
 Béhar合作設計項目和產品經理](https://zh.wikipedia.org/wiki/Yves_Béhar "wikilink")[Muffi
-Ghadiali一起組成工作團隊](https://zh.wikipedia.org/wiki/Muffi_Ghadiali "wikilink")。\[4\]Ouya在一個月的時間內，經由[Kickstarter網站募集了](https://zh.wikipedia.org/wiki/Kickstarter "wikilink")700萬美元\[5\]，最後總共慕集859萬6474美元的開發資金，成為該網站歷來慕得金額第二位的集資項目。開發套件已於2012年12月底出貨給遊戲開發者。\[6\]2012年12月28日，開發商除了寄送開發者套件外，還發表開箱文。\[7\]主機於2013年6月25日發行。\[8\]
+Ghadiali一起組成工作團隊](https://zh.wikipedia.org/wiki/Muffi_Ghadiali "wikilink")。\[4\]Ouya在一個月的時間內，經由[Kickstarter網站募集了](../Page/Kickstarter.md "wikilink")700萬美元\[5\]，最後總共慕集859萬6474美元的開發資金，成為該網站歷來慕得金額第二位的集資項目。開發套件已於2012年12月底出貨給遊戲開發者。\[6\]2012年12月28日，開發商除了寄送開發者套件外，還發表開箱文。\[7\]主機於2013年6月25日發行。\[8\]
 
 [OuyaDeveloperConsole.png](https://zh.wikipedia.org/wiki/File:OuyaDeveloperConsole.png "fig:OuyaDeveloperConsole.png")
 

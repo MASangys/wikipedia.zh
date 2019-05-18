@@ -66,7 +66,7 @@ Radio](https://zh.wikipedia.org/wiki/POP_Radio "wikilink")
 12. **奇跡のメロディア**（奇蹟的旋律）\[4:11\]
       -
         作詞：水樹奈奈 作曲：上松範康（Elements Garden） 編曲：藤間 仁（Elements Garden）
-        PSP遊戲[光明之舟主題曲](https://zh.wikipedia.org/wiki/光明之舟 "wikilink")
+        PSP遊戲[光明之舟主題曲](../Page/光明之舟.md "wikilink")
 13. **[METRO BAROQUE](../Page/TIME_SPACE_EP.md "wikilink")**\[4:32\]
       -
         作詞：水樹奈奈 作曲：やしきん 編曲：中山真斗（Elements Garden）

@@ -27,14 +27,14 @@ Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔
 
 ### 音樂錄像
 
-| 曲目次序 | 歌名                                                                           | 導演                                                  | 首發日期       | 首發平台                                     | 連結                                                                                                                |
-| ---- | ---------------------------------------------------------------------------- | --------------------------------------------------- | ---------- | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 01   | 9:55pm                                                                       | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2012年3月10日 | [Youtube](../Page/Youtube.md "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=kn2f1AVB9W4) [MV 製作花絮連結](http://www.youtube.com/watch?v=T-zL9Eha2Gc) |
-| 02   | All You Need Is Me（Feat.[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")） | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2012年4月4日  | Youtube                                  | [官方Youtube連結](http://www.youtube.com/watch?v=CteSTqRU5I4) [MV 製作花絮連結](http://www.youtube.com/watch?v=335Xt_2c0xk) |
-| 03   | 維多利亞女皇的非常秘密任務                                                                | [麥曦茵](../Page/麥曦茵.md "wikilink")                    | 2012年6月18日 | Youtube                                  | [官方Youtube連結](http://www.youtube.com/watch?v=tG9np1s_8Rc) [MV 製作花絮連結](http://www.youtube.com/watch?v=AXVxTgugULM) |
-| 04   | 倒刺                                                                           | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink") | 2012年7月3日  | Youtube                                  | [官方Youtube連結](http://www.youtube.com/watch?v=oEV25Zz76tQ) [MV 製作花絮連結](http://www.youtube.com/watch?v=iBeaqAqYCF0) |
-| 05   | Better Me                                                                    | 麥曦茵                                                 | 2012年5月29日 | Youtube                                  | [官方Youtube連結](http://www.youtube.com/watch?v=tJS9IgWd0nk)                                                         |
-| 06   | 9:55pm（Feat.[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")）             |                                                     | 2012年3月16日 | Youtube                                  | [Youtube連結](http://www.youtube.com/watch?v=4x9jl1IR3Po)                                                           |
+| 曲目次序 | 歌名                                                                           | 導演                                                  | 首發日期       | 首發平台                                                        | 連結                                                                                                                |
+| ---- | ---------------------------------------------------------------------------- | --------------------------------------------------- | ---------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 01   | 9:55pm                                                                       | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2012年3月10日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=kn2f1AVB9W4) [MV 製作花絮連結](http://www.youtube.com/watch?v=T-zL9Eha2Gc) |
+| 02   | All You Need Is Me（Feat.[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")） | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink") | 2012年4月4日  | Youtube                                                     | [官方Youtube連結](http://www.youtube.com/watch?v=CteSTqRU5I4) [MV 製作花絮連結](http://www.youtube.com/watch?v=335Xt_2c0xk) |
+| 03   | 維多利亞女皇的非常秘密任務                                                                | [麥曦茵](../Page/麥曦茵.md "wikilink")                    | 2012年6月18日 | Youtube                                                     | [官方Youtube連結](http://www.youtube.com/watch?v=tG9np1s_8Rc) [MV 製作花絮連結](http://www.youtube.com/watch?v=AXVxTgugULM) |
+| 04   | 倒刺                                                                           | [薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink") | 2012年7月3日  | Youtube                                                     | [官方Youtube連結](http://www.youtube.com/watch?v=oEV25Zz76tQ) [MV 製作花絮連結](http://www.youtube.com/watch?v=iBeaqAqYCF0) |
+| 05   | Better Me                                                                    | 麥曦茵                                                 | 2012年5月29日 | Youtube                                                     | [官方Youtube連結](http://www.youtube.com/watch?v=tJS9IgWd0nk)                                                         |
+| 06   | 9:55pm（Feat.[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")）             |                                                     | 2012年3月16日 | Youtube                                                     | [Youtube連結](http://www.youtube.com/watch?v=4x9jl1IR3Po)                                                           |
 
 ## 派台歌曲成績
 
@@ -50,7 +50,7 @@ Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔
 
 ### 歌曲《All You Need Is Me（Feat. 方大同）》
 
-  - [新城勁爆頒獎禮2012](https://zh.wikipedia.org/wiki/2012年度新城勁爆頒獎禮得獎名單 "wikilink")－新城勁爆卡拉OK歌曲
+  - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆卡拉OK歌曲
 
 ## 外部連結
 

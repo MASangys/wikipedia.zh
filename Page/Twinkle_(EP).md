@@ -1,4 +1,4 @@
-《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代子团体](../Page/少女时代.md "wikilink")[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](../Page/iTunes.md "wikilink")，CD实体版于5月2日在韩国发行\[1\]
+《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代子团体](../Page/少女时代.md "wikilink")[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\]
 。
 
 ## 单曲
@@ -61,20 +61,20 @@
 
 ### 专辑排名
 
-| 排行榜                                                               | 最高名次 |
-| ----------------------------------------------------------------- | ---- |
-| Gaon 每周专辑榜                                                        | 1    |
-| Gaon 每月专辑榜                                                        | 1    |
-| [Oricon專輯週榜](../Page/Oricon.md "wikilink")                        | 6    |
-| [Oricon專輯月榜](../Page/Oricon.md "wikilink")                        | 16   |
-| [iTunes](../Page/iTunes.md "wikilink") 专辑排行榜 （美国区）                | 4    |
-| [iTunes](../Page/iTunes.md "wikilink") 流行音乐专辑排行榜 （美国区）            | 2    |
-| [iTunes](../Page/iTunes.md "wikilink") 专辑排行榜 （澳大利亚区）              | 4    |
-| [iTunes](../Page/iTunes.md "wikilink") 流行音乐专辑排行榜 （澳大利亚区）          | 2    |
-| 美国[告示牌二百强专辑榜](https://zh.wikipedia.org/wiki/告示牌二百强专辑榜 "wikilink") | 126  |
-| 美国[告示牌潜在力量专辑榜](https://zh.wikipedia.org/wiki/告示牌 "wikilink")      | 2    |
-| 美国[告示牌全球专辑榜](https://zh.wikipedia.org/wiki/告示牌 "wikilink")        | 1    |
-|                                                                   |      |
+| 排行榜                                                                         | 最高名次 |
+| --------------------------------------------------------------------------- | ---- |
+| Gaon 每周专辑榜                                                                  | 1    |
+| Gaon 每月专辑榜                                                                  | 1    |
+| [Oricon專輯週榜](../Page/Oricon.md "wikilink")                                  | 6    |
+| [Oricon專輯月榜](../Page/Oricon.md "wikilink")                                  | 16   |
+| [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 专辑排行榜 （美国区）       | 4    |
+| [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 流行音乐专辑排行榜 （美国区）   | 2    |
+| [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 专辑排行榜 （澳大利亚区）     | 4    |
+| [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") 流行音乐专辑排行榜 （澳大利亚区） | 2    |
+| 美国[告示牌二百强专辑榜](https://zh.wikipedia.org/wiki/告示牌二百强专辑榜 "wikilink")           | 126  |
+| 美国[告示牌潜在力量专辑榜](https://zh.wikipedia.org/wiki/告示牌 "wikilink")                | 2    |
+| 美国[告示牌全球专辑榜](https://zh.wikipedia.org/wiki/告示牌 "wikilink")                  | 1    |
+|                                                                             |      |
 
 ### 销售排名
 
@@ -128,7 +128,7 @@
 <p>2012年4月29日</p>
 </center></td>
 <td><center>
-<p><a href="../Page/iTunes.md" title="wikilink">iTunes</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/iTunes" title="wikilink">iTunes</a></p>
 </center></td>
 <td><center>
 <p>数字音乐下载</p>

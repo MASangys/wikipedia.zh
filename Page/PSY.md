@@ -6,7 +6,7 @@ Psy原名**朴載相**，其藝名**Psy**（싸이）源自英文Psycho（精神
 
 ## 早年
 
-Psy出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[漢城](https://zh.wikipedia.org/wiki/漢城 "wikilink")（今[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")）[江南区](https://zh.wikipedia.org/wiki/江南区_\(首尔\) "wikilink")，從小學三年級自行理髮。\[3\]在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[波士頓大學](http://kurejitgenkinossme.blog.fc2.com/blog-entry-5.html)念一學期企業管理後，為了成為嘻哈歌手而轉學進入[伯克利音樂學院就讀](../Page/伯克利音樂學院.md "wikilink")，但並未畢業即回韓國。2001年首度發行專輯*PSY
+Psy出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[漢城](https://zh.wikipedia.org/wiki/漢城 "wikilink")（今[首爾](../Page/首爾.md "wikilink")）[江南区](https://zh.wikipedia.org/wiki/江南区_\(首尔\) "wikilink")，從小學三年級自行理髮。\[3\]在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[波士頓大學](http://kurejitgenkinossme.blog.fc2.com/blog-entry-5.html)念一學期企業管理後，為了成為嘻哈歌手而轉學進入[伯克利音樂學院就讀](../Page/伯克利音樂學院.md "wikilink")，但並未畢業即回韓國。2001年首度發行專輯*PSY
 from the PSYcho World\!*，\[4\]。2010年，他被經紀公司[YG
 Entertainment簽下](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，並發行了第一張專輯*PSY
 Five*。
@@ -17,7 +17,7 @@ Five*。
 Style](../Page/江南Style.md "wikilink")》，此曲不斷重複和非常容易傳唱的旋律，加上Psy於此曲[音樂錄影帶中獨特的騎馬舞](../Page/音樂錄影帶.md "wikilink")，使此曲突然於[網絡爆紅](https://zh.wikipedia.org/wiki/網絡爆紅 "wikilink")。直至9月，此曲已經登上美國[Billboard
 Hot
 100第二名](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")，是韓國流行音樂在美國創下的最高紀錄。該曲同時於[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iTunes
-Store的](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[音樂錄影帶排行榜獲得第一名](../Page/音樂錄影帶.md "wikilink")\[5\]。在網上視頻網站[Youtube](../Page/Youtube.md "wikilink")，此曲成為該網站[觀看次數最多的影片](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube視頻列表 "wikilink")\[6\]及音樂類影片第一名，點閱率達到32億多（截至2018年9月28日）\[7\]，也是Youtube史上獲得“喜歡（Like）”數最多及點閱率增速最快的影片。在美國，此曲獲得大量頂尖流行歌手與藝人\[8\]，如[Robbie
+Store的](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[音樂錄影帶排行榜獲得第一名](../Page/音樂錄影帶.md "wikilink")\[5\]。在網上視頻網站[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")，此曲成為該網站[觀看次數最多的影片](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube視頻列表 "wikilink")\[6\]及音樂類影片第一名，點閱率達到32億多（截至2018年9月28日）\[7\]，也是Youtube史上獲得“喜歡（Like）”數最多及點閱率增速最快的影片。在美國，此曲獲得大量頂尖流行歌手與藝人\[8\]，如[Robbie
 Williams](../Page/罗比·威廉斯.md "wikilink")、[Tom
 Cruise](https://zh.wikipedia.org/wiki/汤姆·克鲁斯 "wikilink")、[Britney
 Spears](../Page/布蘭妮·斯皮爾斯.md "wikilink")、[Katy
@@ -29,7 +29,7 @@ Chi等人推薦](https://zh.wikipedia.org/wiki/比利·池 "wikilink")，也引�
 ## P Nation
 
 2019年1月，正式成立 P
-Nation\[10\]。[Jessi在](https://zh.wikipedia.org/wiki/Jessi "wikilink")1月25日簽約\[11\]；[泫雅和](../Page/金泫雅.md "wikilink")[金曉鐘則在](https://zh.wikipedia.org/wiki/金曉鐘 "wikilink")1月27日簽約。\[12\]
+Nation\[10\]。[Jessi在](../Page/Jessi.md "wikilink")1月25日簽約\[11\]；[泫雅和](../Page/金泫雅.md "wikilink")[金曉鐘則在](../Page/金曉鐘.md "wikilink")1月27日簽約。\[12\]
 
 ## 音乐风格
 
@@ -217,7 +217,7 @@ PSY受到[皇后乐队的主唱](../Page/皇后乐队.md "wikilink")[弗雷迪·
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>第五張單曲《<a href="https://zh.wikipedia.org/wiki/绅士_(歌曲)" title="wikilink"><strong>Gentleman</strong></a>》</p>
+<td><p>第五張單曲《<a href="../Page/绅士_(歌曲).md" title="wikilink"><strong>Gentleman</strong></a>》</p>
 <ul>
 <li>發行日期：2013年4月14日</li>
 <li>語言：韓語</li>

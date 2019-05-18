@@ -1,4 +1,4 @@
-**西條IC**是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市的](../Page/東廣島市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**西條IC**是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市的](../Page/東廣島市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1988年7月27日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[志和IC至西條IC之間開通](../Page/志和IC.md "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[志和IC至西條IC之間開通](../Page/志和IC.md "wikilink")，此交流道也同時啟用。
   - 1990年11月30日 -
     山陽自動車道西條IC至[河內IC之間開通](https://zh.wikipedia.org/wiki/河內IC "wikilink")。
 
@@ -38,7 +38,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (25-1)[高屋IC/JCT](https://zh.wikipedia.org/wiki/高屋IC "wikilink") -
     (26)**西條IC** - (27)[志和IC](../Page/志和IC.md "wikilink")
 

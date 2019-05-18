@@ -27,7 +27,7 @@
         Compati
         Hero第二作、也是首部橫向捲軸動作遊戲，成為日後[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")「SD英雄之挑戰(SD快打系列)」遊戲基礎。
         參與作品﹕[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")、[機動戰士GUNDAM
-        逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")、[宇宙刑事Shaider](https://zh.wikipedia.org/wiki/宇宙刑事Shaider "wikilink")、[機動刑事](https://zh.wikipedia.org/wiki/機動刑事 "wikilink")
+        逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")、[幪面超人V3](../Page/假面騎士V3.md "wikilink")、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")、[宇宙刑事Shaider](../Page/宇宙刑事Shaider.md "wikilink")、[機動刑事](../Page/機動刑事.md "wikilink")
 
 <!-- end list -->
 
@@ -55,13 +55,13 @@
   - 《SD英雄之挑战2》（*The Great Battle II: Last Fighter
     Twin*，港譯「SD快打2」，超级任天堂－1992年3月27日）
       -
-        SD英雄之挑戰第二部作、超任主機中回歸橫向捲軸方式的首部遊戲。遊戲以拳腳格鬥為主，本作首次加入[バンプレストオリジナル角色羅亞](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")。自此確立系列裡只有「高達—超人—幪面超人—羅亞」四大系列出場的慣例。
+        SD英雄之挑戰第二部作、超任主機中回歸橫向捲軸方式的首部遊戲。遊戲以拳腳格鬥為主，本作首次加入[バンプレストオリジナル角色羅亞](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")。自此確立系列裡只有「高達—超人—幪面超人—羅亞」四大系列出場的慣例。
         參與作品﹕[機動戰士GUNDAM
         F91](../Page/機動戰士GUNDAM_F91.md "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z
         GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black
-        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
+        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z
         GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black
-        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
+        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
         參與作品﹕[機動戰士VGUNDAM](https://zh.wikipedia.org/wiki/機動戰士VGUNDAM "wikilink")、[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM0080](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")(敵方角色)、[機動戰士GUNDAM0083](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083 "wikilink")(敵方角色)、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z
         GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM
-        逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[帕瓦特·奥特曼](https://zh.wikipedia.org/wiki/帕瓦特·奥特曼 "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")(敵方角色)、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人ZO](../Page/假面騎士ZO.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
+        逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[帕瓦特·奥特曼](../Page/帕瓦特·奥特曼.md "wikilink")、[超人吉田](../Page/超人力霸王.md "wikilink")(敵方角色)、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人ZO](../Page/假面騎士ZO.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[機動戰士Z
         GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")(敵方角色)、[機動戰士GUNDAM
         逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")(敵方角色)、[超人吉田](../Page/超人力霸王.md "wikilink")、[超人太郎](https://zh.wikipedia.org/wiki/超人太郎 "wikilink")(敵方角色)、[幪面超人Black
-        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](https://zh.wikipedia.org/wiki/超級機器人大戰OG_ORIGINAL_GENERATIONS "wikilink")
+        RX](../Page/假面騎士BLACK_RX.md "wikilink")、[幪面超人](../Page/幪面超人.md "wikilink")(敵方角色)、[幪面超人V3](../Page/假面騎士V3.md "wikilink")(敵方角色)、[バンプレストオリジナル](../Page/超級機器人大戰OG_ORIGINAL_GENERATIONS.md "wikilink")
 
 <!-- end list -->
 
@@ -223,7 +223,7 @@
     portal](https://web.archive.org/web/20111227160951/http://compati.channel.or.jp/)
 
   - [Fighter Roar](http://www.giantbomb.com/fighter-roar/94-23148/) at
-    [Giant Bomb](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")
+    [Giant Bomb](../Page/Giant_Bomb.md "wikilink")
 
 [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
 [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")

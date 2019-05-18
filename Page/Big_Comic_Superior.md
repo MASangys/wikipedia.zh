@@ -20,14 +20,14 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
     -
   - [西原理恵子の人生画力対決](https://zh.wikipedia.org/wiki/西原理恵子の人生画力対決 "wikilink")（[西原理恵子](https://zh.wikipedia.org/wiki/西原理恵子 "wikilink")）2009年9号
     -
-  - [SILENCER-緘殺令-](https://zh.wikipedia.org/wiki/SILENCER-緘殺令- "wikilink")（漫畫：[長手由佳](https://zh.wikipedia.org/wiki/長手由佳 "wikilink")、原作：[史村翔](https://zh.wikipedia.org/wiki/武論尊 "wikilink")）2012年16号
+  - [SILENCER-緘殺令-](https://zh.wikipedia.org/wiki/SILENCER-緘殺令- "wikilink")（漫畫：[長手由佳](https://zh.wikipedia.org/wiki/長手由佳 "wikilink")、原作：[史村翔](../Page/武論尊.md "wikilink")）2012年16号
     -
   - [時空迷逃](https://zh.wikipedia.org/wiki/時空迷逃_\(漫画\) "wikilink")（[石川優吾](../Page/石川優吾.md "wikilink")）2009年10号
     -
   - [総理の椅子](https://zh.wikipedia.org/wiki/総理の椅子 "wikilink")（[国友やすゆき](https://zh.wikipedia.org/wiki/国友やすゆき "wikilink")）2008年13号
     -
   - [SOUL 覇
-    第2章](https://zh.wikipedia.org/wiki/覇-LORD- "wikilink")（画：[池上遼一](https://zh.wikipedia.org/wiki/池上遼一 "wikilink")、作：[武論尊](https://zh.wikipedia.org/wiki/武論尊 "wikilink")）2011年13号\[1\]
+    第2章](https://zh.wikipedia.org/wiki/覇-LORD- "wikilink")（画：[池上遼一](https://zh.wikipedia.org/wiki/池上遼一 "wikilink")、作：[武論尊](../Page/武論尊.md "wikilink")）2011年13号\[1\]
     - ※隔号連載
   - [匠三代](https://zh.wikipedia.org/wiki/匠三代 "wikilink")（作画：[佐藤智一](https://zh.wikipedia.org/wiki/佐藤智一 "wikilink")、原作：[倉科遼](../Page/倉科遼.md "wikilink")、原案・監修：[天野彰](https://zh.wikipedia.org/wiki/天野彰 "wikilink")）2010年3号
     -
@@ -48,7 +48,7 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
     -
   - [我們的足球王國](../Page/我們的足球王國.md "wikilink")（[大武有紀](https://zh.wikipedia.org/wiki/大武有紀 "wikilink")）2010年1号
     -
-  - [幽麗塔](https://zh.wikipedia.org/wiki/幽麗塔 "wikilink")〜[黒岩涙香](https://zh.wikipedia.org/wiki/黒岩涙香 "wikilink")「幽霊塔」より〜（[乃木坂太郎](https://zh.wikipedia.org/wiki/乃木坂太郎 "wikilink")）2011年12号
+  - [幽麗塔](https://zh.wikipedia.org/wiki/幽麗塔 "wikilink")〜[黒岩涙香](https://zh.wikipedia.org/wiki/黒岩涙香 "wikilink")「幽霊塔」より〜（[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")）2011年12号
     -
   - [雪人
     YUKITO](https://zh.wikipedia.org/wiki/雪人_YUKITO "wikilink")（作画：[もんでんあきこ](https://zh.wikipedia.org/wiki/もんでんあきこ "wikilink")、原作：[大沢在昌](https://zh.wikipedia.org/wiki/大沢在昌 "wikilink")「北の狩人」）2011年18号
@@ -76,11 +76,11 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
   - あんこう〜快釣海上捜査線〜（画：[あきやまひでき](https://zh.wikipedia.org/wiki/あきやまひでき "wikilink")、作：[北原雅紀](https://zh.wikipedia.org/wiki/北原雅紀 "wikilink")、協力：[フィッシング・グラフ](https://zh.wikipedia.org/wiki/フィッシング・グラフ "wikilink")）2007年2号
     - 2008年19号
   - あんたのせいだっ（[須賀原洋行](https://zh.wikipedia.org/wiki/須賀原洋行 "wikilink")）
-  - あんたの代理人（[高井研一郎](https://zh.wikipedia.org/wiki/高井研一郎 "wikilink")）
+  - あんたの代理人（[高井研一郎](../Page/高井研一郎.md "wikilink")）
   - いつでも辞めてやるっ（須賀原洋行）2002年5号 - 2002年9号
   - [いま、会いにゆきます](https://zh.wikipedia.org/wiki/いま、会いにゆきます "wikilink")（作：[市川拓司](https://zh.wikipedia.org/wiki/市川拓司 "wikilink")、画：[高田靖彦](https://zh.wikipedia.org/wiki/高田靖彦 "wikilink")）
   - [医龍-Team Medical
-    Dragon-](https://zh.wikipedia.org/wiki/医龍-Team_Medical_Dragon- "wikilink")（[乃木坂太郎](https://zh.wikipedia.org/wiki/乃木坂太郎 "wikilink")、原案：[永井明](https://zh.wikipedia.org/wiki/永井明 "wikilink")）2002年10号
+    Dragon-](https://zh.wikipedia.org/wiki/医龍-Team_Medical_Dragon- "wikilink")（[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")、原案：[永井明](https://zh.wikipedia.org/wiki/永井明 "wikilink")）2002年10号
     - 2011年4号
   - ヴォイス（[柴門ふみ](https://zh.wikipedia.org/wiki/柴門ふみ "wikilink")）
   - 営業ものがたり（[西原理恵子](https://zh.wikipedia.org/wiki/西原理恵子 "wikilink")）2004年24号、2005年1号、2005年10号
@@ -230,14 +230,14 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
     - 2007年5号
   - [夢かもしんない](https://zh.wikipedia.org/wiki/夢かもしんない "wikilink")（星里もちる）
   - 欲望セブンティーン（画：[くじらいいく子](https://zh.wikipedia.org/wiki/くじらいいく子 "wikilink")、作：[小原信治](https://zh.wikipedia.org/wiki/小原信治 "wikilink")）
-  - 歓びの日々（[六田登](https://zh.wikipedia.org/wiki/六田登 "wikilink")）
+  - 歓びの日々（[六田登](../Page/六田登.md "wikilink")）
 
 <!-- end list -->
 
   - [ラーメン発見伝](https://zh.wikipedia.org/wiki/ラーメン発見伝 "wikilink")（画：河合単、作：久部緑郎）
   - リーマンスープレックス（[藤波俊彦](https://zh.wikipedia.org/wiki/藤波俊彦 "wikilink")）
   - [ルナハイツ](https://zh.wikipedia.org/wiki/ルナハイツ "wikilink")（星里もちる）
-  - [覇-LORD-](https://zh.wikipedia.org/wiki/覇-LORD- "wikilink")（画：[池上遼一](https://zh.wikipedia.org/wiki/池上遼一 "wikilink")、作：[武論尊](https://zh.wikipedia.org/wiki/武論尊 "wikilink")）2004年19号
+  - [覇-LORD-](https://zh.wikipedia.org/wiki/覇-LORD- "wikilink")（画：[池上遼一](https://zh.wikipedia.org/wiki/池上遼一 "wikilink")、作：[武論尊](../Page/武論尊.md "wikilink")）2004年19号
     - 2011年5号\[2\]
 
 <!-- end list -->

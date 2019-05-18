@@ -23,9 +23,10 @@ ARROWS**》（中文譯名：一觸即發）為[日本團體](../Page/日本.md 
       -
         [富士通](../Page/富士通.md "wikilink")「[ARROWS](https://zh.wikipedia.org/wiki/ARROWS "wikilink")」品牌形象歌曲
 2.  **宛如那片天空的星光…**（）\[4:59\]
-      - 作詞：[ATSUSHI](https://zh.wikipedia.org/wiki/ATSUSHI "wikilink") /
-        作曲：Arno Lucas, Jerome Dufour, [Kenji
-        Sano](https://zh.wikipedia.org/wiki/佐野健二 "wikilink") / 編曲：[Yuta
+      - 作詞：[ATSUSHI](../Page/ATSUSHI.md "wikilink") / 作曲：Arno Lucas,
+        Jerome Dufour, [Kenji
+        Sano](https://zh.wikipedia.org/wiki/佐野健二 "wikilink") /
+        編曲：[Yuta
         Nakano](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
     <!-- end list -->
       -

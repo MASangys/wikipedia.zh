@@ -256,7 +256,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
     佩刀名為「桔梗」。
     與吠舞羅的草薙出雲有私交，被他戲稱為「凍原之女（冰山女王）」。並被部下們戲稱為「冰晶假面」。
     能夠徒手對付毒蛇，唯一害怕的東西是蜘蛛。
-    名字來自「[淡島神](https://zh.wikipedia.org/wiki/淡島神 "wikilink")/[須勢理比賣](https://zh.wikipedia.org/wiki/須勢理比賣 "wikilink")」。
+    名字來自「[淡島神](../Page/淡島神.md "wikilink")/[須勢理比賣](https://zh.wikipedia.org/wiki/須勢理比賣 "wikilink")」。
     被 Jungle 懸賞點數為 6000點。
     動畫第二季第12話，參與宗像與灰之王的戰鬥，並在戰鬥結束後對青之氏族宣告，若宗像的達摩克里斯之劍墜落，她會負責在前一刻殺了他。
 
@@ -919,7 +919,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
 
       -
-        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰[angela](../Page/angela.md "wikilink")
+        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 :; 片尾曲
 
@@ -1382,7 +1382,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 <tr class="even">
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td><p>全域</p></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>2012年10月4日 - 2012年12月27日</p></td>
 <td><p>星期五 24時30分 - 25時00分</p></td>
 <td><p>-</p></td>
@@ -1507,7 +1507,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a></p></td>
-<td><p><a href="../Page/ANIMAX.md" title="wikilink">ANIMAX</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
 <td><p>星期六 22時30分 - 23時00分</p></td>
 <td><p>星期日 07時30分 - 08時00分<br />
 星期日 23時30分 - 24時00分</p></td>

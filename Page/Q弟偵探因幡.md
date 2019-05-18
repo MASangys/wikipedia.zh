@@ -4,7 +4,7 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
 
 ## 故事簡介
 
-以前是秘密[警察犬](https://zh.wikipedia.org/wiki/警犬 "wikilink")（[杜伯曼犬](https://zh.wikipedia.org/wiki/杜伯曼犬 "wikilink")）的主人公**因幡洋**是通过[人工授精出生的](../Page/人工授精.md "wikilink")[狼男](../Page/狼人.md "wikilink")。为了寻找行踪不明的弟弟・遥而成为了私人侦探的洋，却卷入了原搭档荻野警部所带来麻烦事件中——他们要将打算征服日本的意大利[黑手党瓦伦蒂诺家族的首领](../Page/黑手党.md "wikilink")（不过是头[山羊](https://zh.wikipedia.org/wiki/山羊 "wikilink")）逮捕。因为洋有着严重的[恋毛癖](https://zh.wikipedia.org/wiki/恋毛癖 "wikilink")，所以以将荻野的头发洗干净这样的支付条件接受了这件麻烦事，与意大利黑手党们开始了连续不断的拉锯战。之后他们在黑手党的实行恐怖主义的老顾客里发现了遥，便以将变成了犯罪者的遥逮捕归案为新的目标，荻野和两位少年助手们一同开始挑战。总而言之，这是一部红发的恋毛癖侦探・因幡洋借助优秀少年助手们的力量，以极度随性的姿态对抗袭击日本的意大利黑手党野心的侦探搞笑物语。
+以前是秘密[警察犬](../Page/警犬.md "wikilink")（[杜伯曼犬](https://zh.wikipedia.org/wiki/杜伯曼犬 "wikilink")）的主人公**因幡洋**是通过[人工授精出生的](../Page/人工授精.md "wikilink")[狼男](../Page/狼人.md "wikilink")。为了寻找行踪不明的弟弟・遥而成为了私人侦探的洋，却卷入了原搭档荻野警部所带来麻烦事件中——他们要将打算征服日本的意大利[黑手党瓦伦蒂诺家族的首领](../Page/黑手党.md "wikilink")（不过是头[山羊](https://zh.wikipedia.org/wiki/山羊 "wikilink")）逮捕。因为洋有着严重的[恋毛癖](https://zh.wikipedia.org/wiki/恋毛癖 "wikilink")，所以以将荻野的头发洗干净这样的支付条件接受了这件麻烦事，与意大利黑手党们开始了连续不断的拉锯战。之后他们在黑手党的实行恐怖主义的老顾客里发现了遥，便以将变成了犯罪者的遥逮捕归案为新的目标，荻野和两位少年助手们一同开始挑战。总而言之，这是一部红发的恋毛癖侦探・因幡洋借助优秀少年助手们的力量，以极度随性的姿态对抗袭击日本的意大利黑手党野心的侦探搞笑物语。
 
 ## 登場人物
 
@@ -90,7 +90,7 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
     警備部警備科的[警視](../Page/警視.md "wikilink")，和荻是競爭對手，非常愛狗（洋）。
     和荻野邦治有著從大學開始就持續到現在的孽緣。
   -
-    聲 - [深田愛衣](https://zh.wikipedia.org/wiki/深田愛衣 "wikilink") /
+    聲 - [深田愛衣](../Page/深田愛衣.md "wikilink") /
     [竹達彩奈](../Page/竹達彩奈.md "wikilink")
     7月18日生、8歲、巨蟹座。身高134cm、血型B型。
     來自法國的少女秘密警犬。現為緒方的夥伴，非常膽小怕生。
@@ -114,7 +114,7 @@ ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連�
     荻野家的人都意外地強壯，就算是額頭被鑰匙插進去也平安無事。
   -
     聲 - [日高里菜](../Page/日高里菜.md "wikilink") /
-    [MAKO](../Page/MAKO.md "wikilink")
+    [MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")
     荻野的女兒。4月21日生、金牛座。身高95cm。血型B型。
     20個月大，大概是1歲8個月。有著像鯊魚的牙齒的乳牙。
 

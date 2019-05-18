@@ -61,7 +61,7 @@
   - [富士野生動物園](https://zh.wikipedia.org/wiki/富士野生動物園 "wikilink")
   - [富士市總合運動公園](https://zh.wikipedia.org/wiki/富士市總合運動公園 "wikilink")
   - [富士常葉大學](https://zh.wikipedia.org/wiki/富士常葉大學 "wikilink")
-  - [JR身延線](https://zh.wikipedia.org/wiki/身延線 "wikilink")[富士宮站](https://zh.wikipedia.org/wiki/富士宮站 "wikilink")
+  - [JR身延線](../Page/身延線.md "wikilink")[富士宮站](https://zh.wikipedia.org/wiki/富士宮站 "wikilink")
 
 ## 鄰近設施
 

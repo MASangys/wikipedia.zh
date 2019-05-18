@@ -14,7 +14,7 @@ BERRY](../Page/時尚魔女_LOVE_AND_BERRY.md "wikilink")\[2\]當時的玩家長
 am
 star！』名義引入機台(從Season3份開始)，為第四個海外授權地區。中國大陸於2016年11月起以『偶活-{}-學園』名義引入機台(從第三彈開始)，為第五個海外授權地區。
 
-2016年5月18日正式結束運行，日本在同年5月推出新機台[偶像學園STARS！](../Page/偶像學園STARS！.md "wikilink")。
+2016年5月18日正式結束運行，日本在同年5月推出新機台[偶像學園STARS！](https://zh.wikipedia.org/wiki/偶像學園STARS！ "wikilink")。
 
 ## 遊戲
 
@@ -574,7 +574,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 ## 漫畫
 
   - [小學館](../Page/小學館.md "wikilink")《[Ciao](../Page/Ciao.md "wikilink")》2012年12月號揭載的漫畫。漫畫由白雪萬美（）作畫。香港由[拓植社代理](https://zh.wikipedia.org/wiki/拓植社 "wikilink")。
-  - 小學館『[Pucchigumi](https://zh.wikipedia.org/wiki/Pucchigumi "wikilink")』2013年1月號開始連載。漫畫由朱音作畫。
+  - 小學館『[Pucchigumi](../Page/Pucchigumi.md "wikilink")』2013年1月號開始連載。漫畫由朱音作畫。
 
 ## 小說
 

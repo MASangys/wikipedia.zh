@@ -28,10 +28,8 @@ TIME**），是在[FM東京所播放的深夜廣播](../Page/FM東京.md "wikili
   - [石川梨華](../Page/石川梨華.md "wikilink") （留言訊息、\#7、2012年11月17日）
   - [タカハタ秀太](https://zh.wikipedia.org/wiki/タカハタ秀太 "wikilink")
     （\#15、2013年1月12日）
-  - [佐野史郎](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")
-    （\#20、2013年2月16日）
-  - [澤部佑](https://zh.wikipedia.org/wiki/澤部佑 "wikilink")
-    （\#37、2013年6月15日）
+  - [佐野史郎](../Page/佐野史郎.md "wikilink") （\#20、2013年2月16日）
+  - [澤部佑](../Page/澤部佑.md "wikilink") （\#37、2013年6月15日）
   - [松本明子](https://zh.wikipedia.org/wiki/松本明子 "wikilink")
     （\#60、2013年11月23日）
 

@@ -1,4 +1,4 @@
-**伊予西條IC**（平假名：いよさいじょうインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[西條市的](../Page/西條市.md "wikilink")[松山自動車道之](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**伊予西條IC**（平假名：いよさいじょうインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[西條市的](../Page/西條市.md "wikilink")[松山自動車道之](../Page/松山自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 1991年3月28日 -
-    [松山自動車道伊予西條IC至](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
+    [松山自動車道伊予西條IC至](../Page/松山自動車道.md "wikilink")[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
   - 1994年11月16日 -
     松山自動車道[川內IC至伊予西條IC之間開通](https://zh.wikipedia.org/wiki/川內IC "wikilink")。
 
@@ -26,7 +26,7 @@
 
 ## 鄰近設施
 
-  - [松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")
+  - [松山自動車道](../Page/松山自動車道.md "wikilink")
     (9)[新居濱IC](https://zh.wikipedia.org/wiki/新居濱IC "wikilink") -
     (10)**伊予西條IC** -
     [石鎚山SA](https://zh.wikipedia.org/wiki/石鎚山SA "wikilink")

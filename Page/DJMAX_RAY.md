@@ -1,4 +1,4 @@
-，是一款[手机](../Page/手机游戏.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")，它是[DJMAX系列中第一款智能手机上的游戏](../Page/DJMAX.md "wikilink")。
+，是一款[手机](../Page/手机游戏.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")，它是[DJMAX系列中第一款智能手机上的游戏](https://zh.wikipedia.org/wiki/DJMAX "wikilink")。
 
 ## 曲目
 

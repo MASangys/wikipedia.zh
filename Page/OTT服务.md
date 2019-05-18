@@ -25,32 +25,33 @@ OTT服務需要通過互聯網作資訊傳送，過往需要申領牌照的行�
 
 ###
 
-  - [中国移动](https://zh.wikipedia.org/wiki/中国移动 "wikilink")“魔百和”（[未来电视牌照](https://zh.wikipedia.org/wiki/未来电视 "wikilink")）
+  - [中国移动](https://zh.wikipedia.org/wiki/中国移动 "wikilink")“魔百和”（[未来电视牌照](../Page/未来电视.md "wikilink")）
 
 ###
 
   - [Viu](../Page/Viu.md "wikilink")
-  - [亞洲電視數碼媒體](https://zh.wikipedia.org/wiki/亞洲電視數碼媒體 "wikilink")
-  - [myTV SUPER](../Page/myTV_SUPER.md "wikilink")（面向海外的则[TVB
-    Anywhere](https://zh.wikipedia.org/wiki/TVB_Anywhere "wikilink")）
-  - [hmvod](https://zh.wikipedia.org/wiki/HMV數碼中國集團 "wikilink")
+  - [亞洲電視數碼媒體](../Page/亞洲電視數碼媒體.md "wikilink")
+  - [myTV
+    SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（面向海外的则[TVB
+    Anywhere](../Page/TVB_Anywhere.md "wikilink")）
+  - [hmvod](../Page/HMV數碼中國集團.md "wikilink")
   - [龍耳電視](../Page/龍耳電視.md "wikilink")
 
 ###
 
   - [Gt 電視 GtTV](https://zh.wikipedia.org/wiki/Gt_電視_GtTV "wikilink")
-  - [LiTV 線上影視](https://zh.wikipedia.org/wiki/LiTV_線上影視 "wikilink")
+  - [LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")
   - [愛爾達電視OTT](../Page/愛爾達電視.md "wikilink")
   - [Fain TV 歡樂看](https://zh.wikipedia.org/wiki/Fain_TV_歡樂看 "wikilink")
   - [四季線上影視4gtv](https://zh.wikipedia.org/wiki/四季線上影視4gtv "wikilink")
-  - [Vidol](https://zh.wikipedia.org/wiki/Vidol "wikilink")
+  - [Vidol](../Page/Vidol.md "wikilink")
   - [TOUCH TTV](https://zh.wikipedia.org/wiki/TOUCH_TTV "wikilink")
   - friday影音
   - myVideo
-  - [KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")
+  - [KKTV](../Page/KKTV.md "wikilink")
   - [LINE TV](https://zh.wikipedia.org/wiki/:LINE_TV "wikilink")
   - [Catchplay](https://zh.wikipedia.org/wiki/:威望國際 "wikilink")
-  - [公視+](https://zh.wikipedia.org/wiki/公視+ "wikilink")（前身為公視+7）
+  - [公視+](../Page/公視+.md "wikilink")（前身為公視+7）
   - [巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")
   - [四季線上影視](https://zh.wikipedia.org/wiki/四季線上影視 "wikilink")
   - GagaOOLala屬於你的故事

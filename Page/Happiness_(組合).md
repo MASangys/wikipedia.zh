@@ -1,9 +1,9 @@
 **Happiness**是[日本的女子歌唱團體](../Page/日本.md "wikilink")。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
-2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG開始](https://zh.wikipedia.org/wiki/EXPG "wikilink")，由東京校出身的[KAEDEとMIYUU](../Page/KAEDE.md "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy
+2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG開始](../Page/EXPG.md "wikilink")，由東京校出身的[KAEDEとMIYUU](https://zh.wikipedia.org/wiki/KAEDE "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy
 Talk」獨立製作發表。12月中STEPOUT DANCE STUDIO出身的MAYU加入。
 
 2011年2月9日、單曲「[Kiss

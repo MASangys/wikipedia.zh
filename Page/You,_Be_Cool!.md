@@ -20,10 +20,9 @@ Records所屬的AKB](../Page/DefSTAR_Records.md "wikilink")48，移籍國王唱�
 
   - \- 通過AKB48集團猜拳大會勝出得以出道。
 
-  - [STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")
+  - [STU48](../Page/STU48.md "wikilink")
 
-  - [fairy w\!nk](https://zh.wikipedia.org/wiki/天使在哪裡？ "wikilink") -
-    通過AKB48集團猜拳大會勝出得以出道。
+  - [fairy w\!nk](../Page/天使在哪裡？.md "wikilink") - 通過AKB48集團猜拳大會勝出得以出道。
 
 ## 前屬藝人
 

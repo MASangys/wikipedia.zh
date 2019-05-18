@@ -3,17 +3,17 @@
 ## 連載作品
 
   - [AQUA](https://zh.wikipedia.org/wiki/水星領航員 "wikilink")（[天野こずえ](https://zh.wikipedia.org/wiki/天野こずえ "wikilink")）→題名を「[ARIA](https://zh.wikipedia.org/wiki/ARIA_\(漫画\) "wikilink")」に変え、[月刊Comic
-    BLADE移籍](https://zh.wikipedia.org/wiki/月刊Comic_BLADE "wikilink")
+    BLADE移籍](../Page/月刊Comic_BLADE.md "wikilink")
   - [水瓶戰記](../Page/水瓶戰記.md "wikilink")（[極楽院櫻子](https://zh.wikipedia.org/wiki/極楽院櫻子 "wikilink")）
   - [あたしの王子様](https://zh.wikipedia.org/wiki/あたしの王子様 "wikilink")（[咲良あさみ](https://zh.wikipedia.org/wiki/咲良あさみ "wikilink")）
   - [現神姫](https://zh.wikipedia.org/wiki/現神姫 "wikilink")（[天乃咲耶](../Page/天乃咲哉.md "wikilink")）→『[月刊Gファンタジー](https://zh.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』に移籍
   - [Evangel](https://zh.wikipedia.org/wiki/Evangel "wikilink")（[雛木ひなた](https://zh.wikipedia.org/wiki/雛木ひなた "wikilink")）
-  - [KAMUI](https://zh.wikipedia.org/wiki/KAMUI "wikilink")（[七海慎吾](https://zh.wikipedia.org/wiki/七海慎吾 "wikilink")）→『[月刊ガンガンWING](https://zh.wikipedia.org/wiki/月刊ガンガンWING "wikilink")』に移籍
+  - [KAMUI](https://zh.wikipedia.org/wiki/KAMUI "wikilink")（[七海慎吾](../Page/七海慎吾.md "wikilink")）→『[月刊ガンガンWING](https://zh.wikipedia.org/wiki/月刊ガンガンWING "wikilink")』に移籍
   - [キジムタン](https://zh.wikipedia.org/wiki/キジムタン "wikilink")（[篠原花那](https://zh.wikipedia.org/wiki/篠原花那 "wikilink")）
   - [QPエンジェル](https://zh.wikipedia.org/wiki/QPエンジェル "wikilink")（[南京ぐれ子](https://zh.wikipedia.org/wiki/高嶋ひろみ "wikilink")）
   - [恋よりKissより大嫌い\!\!](https://zh.wikipedia.org/wiki/恋よりKissより大嫌い!! "wikilink")（[梅澤はな](https://zh.wikipedia.org/wiki/梅澤はな "wikilink")）
   - [心に星の輝きを](https://zh.wikipedia.org/wiki/心に星の輝きを "wikilink")（[松葉博](https://zh.wikipedia.org/wiki/松葉博 "wikilink")）→題名を「[もっと☆心に星の輝きを](https://zh.wikipedia.org/wiki/もっと☆心に星の輝きを "wikilink")」に変え、[月刊Comic
-    BLADE移籍](https://zh.wikipedia.org/wiki/月刊Comic_BLADE "wikilink")
+    BLADE移籍](../Page/月刊Comic_BLADE.md "wikilink")
   - [小娘と忠犬](https://zh.wikipedia.org/wiki/小娘と忠犬 "wikilink")（[勇佐野](https://zh.wikipedia.org/wiki/勇佐野 "wikilink")）
   - [サクラZip](https://zh.wikipedia.org/wiki/サクラZip "wikilink")（[阿部真由子](https://zh.wikipedia.org/wiki/阿部真由子 "wikilink")）
   - [GENERATION OF CHAOS NEXT
@@ -41,7 +41,7 @@
     リデルとネジの物語](https://zh.wikipedia.org/wiki/POCKET_HEART_リデルとネジの物語 "wikilink")（[吉崎あまね](https://zh.wikipedia.org/wiki/吉崎あまね "wikilink")）
   - [マイスターダスト](https://zh.wikipedia.org/wiki/マイスターダスト "wikilink")（林ふみの）
   - [モーツァルトは子守唄を歌わない](https://zh.wikipedia.org/wiki/モーツァルトは子守唄を歌わない "wikilink")（[有栖川るい](https://zh.wikipedia.org/wiki/有栖川るい "wikilink")）
-  - [夢喰見聞](https://zh.wikipedia.org/wiki/夢喰見聞 "wikilink")（[真柴真](https://zh.wikipedia.org/wiki/真柴真 "wikilink")）→『月刊Gファンタジー』に移籍
+  - [夢喰見聞](../Page/夢喰見聞.md "wikilink")（[真柴真](https://zh.wikipedia.org/wiki/真柴真 "wikilink")）→『月刊Gファンタジー』に移籍
   - [ラビリンス
     〜迷宮への招待状〜](https://zh.wikipedia.org/wiki/ラビリンス_〜迷宮への招待状〜 "wikilink")（[岡崎瑞生](https://zh.wikipedia.org/wiki/岡崎瑞生 "wikilink")）
   - [ラブリー百科事典

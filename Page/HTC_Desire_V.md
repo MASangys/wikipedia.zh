@@ -5,7 +5,7 @@
 V](https://zh.wikipedia.org/wiki/新渴望_V "wikilink")，具備 WCDMA / GSM
 雙卡雙待機能，一 SIM 卡槽支援 HSPA / WCDMA，一 SIM 卡槽支援
 GSM/GPRS。使用[Beats
-Audio™音訊技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")，並內建4GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")、512MB的[RAM並支援](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")[microSD擴充儲存空間](../Page/microSD.md "wikilink")。配備重力感應器、距離感應器、光線感應器、GPS定位，支援最多支援4個觸控點。外殼材料是霧面聚碳酸酯（PC）塑膠作為整個背面機殼的材質，搭配正面的銀色髮絲紋類金屬邊框。\[1\]\[2\]
+Audio™音訊技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")，並內建4GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")、512MB的[RAM並支援](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")[microSD擴充儲存空間](https://zh.wikipedia.org/wiki/microSD "wikilink")。配備重力感應器、距離感應器、光線感應器、GPS定位，支援最多支援4個觸控點。外殼材料是霧面聚碳酸酯（PC）塑膠作為整個背面機殼的材質，搭配正面的銀色髮絲紋類金屬邊框。\[1\]\[2\]
 
 ## 參見
 

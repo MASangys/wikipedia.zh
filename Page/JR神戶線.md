@@ -6,7 +6,7 @@
 
 JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市網路 "wikilink")，連結[大阪市與](../Page/大阪市.md "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")、[明石市](../Page/明石市.md "wikilink")、[姫路市等兵庫縣内](https://zh.wikipedia.org/wiki/姫路市 "wikilink")[瀨戶内海沿海各都市](https://zh.wikipedia.org/wiki/瀨戶内海 "wikilink")。路線色為**藍**（），與[JR京都線同樣位於都市網路的中心位置](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")，故直接使用JR西日本的公司顏色。
 
-[新快速大阪站](https://zh.wikipedia.org/wiki/新快速 "wikilink") -
+[新快速大阪站](../Page/新快速.md "wikilink") -
 [三宮站間](https://zh.wikipedia.org/wiki/三宮站 "wikilink")30.6km最短20分、大阪站
 - 姫路站間87.9km最短60分。大阪站（[梅田站](../Page/梅田站.md "wikilink")） -
 三宮站（[神戶三宮站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")）間要與[阪急神戶本線和](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")[阪神本線](../Page/阪神本線.md "wikilink")、三宮站
@@ -15,7 +15,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 -
 [元町站間直利用午間特價票時與並行的私鐵票價一樣](https://zh.wikipedia.org/wiki/元町站_\(兵庫縣\) "wikilink")。
 
-全線由管轄，根據定為「[大阪近郊區間](https://zh.wikipedia.org/wiki/大都市近郊區間_\(JR\) "wikilink")」\[1\]。大阪站－西明石站段屬，因此票價比區間外要便宜。
+全線由管轄，根據定為「[大阪近郊區間](../Page/大都市近郊區間_\(JR\).md "wikilink")」\[1\]。大阪站－西明石站段屬，因此票價比區間外要便宜。
 
 ### 路線資料
 
@@ -195,7 +195,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
       - 普通：停靠所有旅客站（表中省略）
       - 快速、新快速：●的車站所有列車停靠，▲的車站除早上上行的一部分列車外停靠，｜的車站所有列車通過
           - 快速在明石站起姬路方向作為普通運行
-      - 特急（[濱風](../Page/濱風號列車.md "wikilink")、[超級白兔](../Page/超級白兔號列車.md "wikilink")、[日出瀨戶](https://zh.wikipedia.org/wiki/瀨戶號列車 "wikilink")、[日出出雲](https://zh.wikipedia.org/wiki/出雲號列車 "wikilink")）：參見各列車條目
+      - 特急（[濱風](../Page/濱風號列車.md "wikilink")、[超級白兔](../Page/超級白兔號列車.md "wikilink")、[日出瀨戶](../Page/瀨戶號列車.md "wikilink")、[日出出雲](https://zh.wikipedia.org/wiki/出雲號列車 "wikilink")）：參見各列車條目
   - 接續路線：若站名有分別則以⇒顯示站名。
   - [車站編號自](../Page/車站編號.md "wikilink")2018年3月17日起引入\[21\]
 
@@ -236,11 +236,11 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 、 <a href="../Page/JR東西線.md" title="wikilink">JR東西線</a>（<a href="../Page/北新地站.md" title="wikilink">北新地</a>[23]：JR-H44）<br />
 <a href="../Page/阪急電鐵.md" title="wikilink">阪急電鐵</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kyoto_line.png" title="fig:Number_prefix_Hankyu_Kyoto_line.png">Number_prefix_Hankyu_Kyoto_line.png</a> <a href="../Page/京都本線.md" title="wikilink">京都本線</a>[24]、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyū_Takarazuka_line.png" title="fig:Number_prefix_Hankyū_Takarazuka_line.png">Number_prefix_Hankyū_Takarazuka_line.png</a> <a href="../Page/寶塚本線.md" title="wikilink">寶塚本線</a>、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="../Page/神戶本線.md" title="wikilink">神戶本線</a>（<a href="https://zh.wikipedia.org/wiki/梅田站_(阪急)" title="wikilink">梅田</a>：HK-01）<br />
 <a href="../Page/阪神電氣鐵道.md" title="wikilink">阪神電氣鐵道</a>：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="../Page/阪神本線.md" title="wikilink">本線</a>（<a href="https://zh.wikipedia.org/wiki/梅田站_(阪神)" title="wikilink">梅田</a>：HS01）<br />
-<a href="https://zh.wikipedia.org/wiki/大阪市高速電氣軌道" title="wikilink">大阪市高速電氣軌道</a>：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a>（<a href="https://zh.wikipedia.org/wiki/梅田站_(大阪地下鐵)" title="wikilink">梅田</a>：M16）、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="https://zh.wikipedia.org/wiki/谷町線_(大阪地下鐵)" title="wikilink">谷町線</a>（<a href="https://zh.wikipedia.org/wiki/東梅田站" title="wikilink">東梅田</a>：T20）、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a>（<a href="../Page/西梅田站.md" title="wikilink">西梅田重難竹日Y</a>11）</p></td>
+<a href="../Page/大阪市高速電氣軌道.md" title="wikilink">大阪市高速電氣軌道</a>：<a href="https://zh.wikipedia.org/wiki/File:1M.png" title="fig:1M.png">1M.png</a> <a href="../Page/御堂筋線.md" title="wikilink">御堂筋線</a>（<a href="https://zh.wikipedia.org/wiki/梅田站_(大阪地下鐵)" title="wikilink">梅田</a>：M16）、<a href="https://zh.wikipedia.org/wiki/File:2T-2.png" title="fig:2T-2.png">2T-2.png</a> <a href="https://zh.wikipedia.org/wiki/谷町線_(大阪地下鐵)" title="wikilink">谷町線</a>（<a href="../Page/東梅田站.md" title="wikilink">東梅田</a>：T20）、<a href="https://zh.wikipedia.org/wiki/File:3Y-2.png" title="fig:3Y-2.png">3Y-2.png</a> <a href="../Page/四橋線.md" title="wikilink">四橋線</a>（<a href="../Page/西梅田站.md" title="wikilink">西梅田重難竹日Y</a>11）</p></td>
 </tr>
 <tr class="even">
 <td><p>JR-A48</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塚本站" title="wikilink">塚本</a></p></td>
+<td><p><a href="../Page/塚本站.md" title="wikilink">塚本</a></p></td>
 <td></td>
 <td></td>
 <td><p>3.4</p></td>
@@ -375,7 +375,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>580.1</p></td>
 <td><p>●</p></td>
 <td><p>｜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神戶新交通" title="wikilink">神戶新交通</a>： <a href="https://zh.wikipedia.org/wiki/六甲人工島線" title="wikilink">六甲人工島線</a>（R01）</p></td>
+<td><p><a href="../Page/神戶新交通.md" title="wikilink">神戶新交通</a>： <a href="../Page/六甲人工島線.md" title="wikilink">六甲人工島線</a>（R01）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -432,11 +432,11 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>●</p></td>
 <td><p>●</p></td>
 <td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> <a href="../Page/山陽新幹線.md" title="wikilink">山陽新幹線</a>（<a href="https://zh.wikipedia.org/wiki/新神戶站" title="wikilink">新神戶</a>[25]）<br />
-阪急電鐵：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> 神戶本線、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="https://zh.wikipedia.org/wiki/神戶高速線_(阪急電鐵)" title="wikilink">䄂戶高速線</a>（<a href="https://zh.wikipedia.org/wiki/三宮站" title="wikilink">神戶三宮</a>：HK-16）<br />
+阪急電鐵：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> 神戶本線、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hankyu_Kobe_line.png" title="fig:Number_prefix_Hankyu_Kobe_line.png">Number_prefix_Hankyu_Kobe_line.png</a> <a href="../Page/神戶高速線_(阪急電鐵).md" title="wikilink">䄂戶高速線</a>（<a href="https://zh.wikipedia.org/wiki/三宮站" title="wikilink">神戶三宮</a>：HK-16）<br />
 阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線（神戶三宮：HS 32）<br />
-神戶新交通： <a href="https://zh.wikipedia.org/wiki/港灣人工島線" title="wikilink">港灣人工島線</a>（<a href="https://zh.wikipedia.org/wiki/三宮站" title="wikilink">三宮</a>：P01）<br />
+神戶新交通： <a href="../Page/港灣人工島線.md" title="wikilink">港灣人工島線</a>（<a href="https://zh.wikipedia.org/wiki/三宮站" title="wikilink">三宮</a>：P01）<br />
 <a href="../Page/神戶市營地下鐵.md" title="wikilink">神戶市營地下鐵</a>：<a href="https://zh.wikipedia.org/wiki/File:Subway_KobeSeishin.svg" title="fig:Subway_KobeSeishin.svg">Subway_KobeSeishin.svg</a> <a href="https://zh.wikipedia.org/wiki/西神-山手線" title="wikilink">西神-山手線</a>（三宮：S03）<br />
-神戶市營地下鐵：<a href="https://zh.wikipedia.org/wiki/File:Subway_KobeKaigan.svg" title="fig:Subway_KobeKaigan.svg">Subway_KobeKaigan.svg</a> <a href="https://zh.wikipedia.org/wiki/海岸線_(神戶市營地下鐵)" title="wikilink">海岸線</a>（<a href="https://zh.wikipedia.org/wiki/三宮·花時計前站" title="wikilink">三宮·花時計前</a>：K01）</p></td>
+神戶市營地下鐵：<a href="https://zh.wikipedia.org/wiki/File:Subway_KobeKaigan.svg" title="fig:Subway_KobeKaigan.svg">Subway_KobeKaigan.svg</a> <a href="../Page/海岸線_(神戶市營地下鐵).md" title="wikilink">海岸線</a>（<a href="../Page/三宮·花時計前站.md" title="wikilink">三宮·花時計前</a>：K01）</p></td>
 <td><p><a href="../Page/中央區_(神戶市).md" title="wikilink">中央區</a></p></td>
 </tr>
 <tr class="even">
@@ -451,7 +451,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>●</p></td>
 <td><p>｜</p></td>
 <td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> 山陽新幹線（新神戶[26]）<br />
-阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="https://zh.wikipedia.org/wiki/神戶高速線_(阪神電氣鐵道)" title="wikilink">神戶高速線</a>（HS 33）</p></td>
+阪神電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> 本線、<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_Hanshin_Railway.png" title="fig:Number_prefix_Hanshin_Railway.png">Number_prefix_Hanshin_Railway.png</a> <a href="../Page/神戶高速線_(阪神電氣鐵道).md" title="wikilink">神戶高速線</a>（HS 33）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -497,7 +497,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>591.3</p></td>
 <td><p>●</p></td>
 <td><p>｜</p></td>
-<td><p>西日本旅客鐵道：<a href="../Page/山陽本線.md" title="wikilink">山陽本線支線</a>（<a href="https://zh.wikipedia.org/wiki/和田岬線" title="wikilink">和田岬線</a>）</p></td>
+<td><p>西日本旅客鐵道：<a href="../Page/山陽本線.md" title="wikilink">山陽本線支線</a>（<a href="../Page/和田岬線.md" title="wikilink">和田岬線</a>）</p></td>
 <td><p><a href="../Page/兵庫區.md" title="wikilink">兵庫區</a></p></td>
 </tr>
 <tr class="even">
@@ -723,7 +723,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>628.6</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
-<td><p>西日本旅客鐵道： <a href="https://zh.wikipedia.org/wiki/加古川線" title="wikilink">加古川線</a></p></td>
+<td><p>西日本旅客鐵道： <a href="../Page/加古川線.md" title="wikilink">加古川線</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -770,7 +770,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 </tr>
 <tr class="odd">
 <td><p> </p></td>
-<td><p>（貨）<a href="https://zh.wikipedia.org/wiki/姬路貨物站" title="wikilink">姬路貨物</a></p></td>
+<td><p>（貨）<a href="../Page/姬路貨物站.md" title="wikilink">姬路貨物</a></p></td>
 <td></td>
 <td><p>/</p></td>
 <td><p>｜</p></td>
@@ -821,7 +821,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 <td><p>644.3</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>
-<td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> 山陽新幹線、 <a href="../Page/山陽本線.md" title="wikilink">山陽本線</a>〈<a href="https://zh.wikipedia.org/wiki/相生站_(兵庫縣)" title="wikilink">相生方向</a>〉、 <a href="https://zh.wikipedia.org/wiki/赤穗線" title="wikilink">赤穗線</a>[29]、 <a href="https://zh.wikipedia.org/wiki/播但線" title="wikilink">播但線</a>、 <a href="../Page/姬新線.md" title="wikilink">姬新線</a><br />
+<td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/File:Shinkansen_jrw.svg" title="fig:Shinkansen_jrw.svg">Shinkansen_jrw.svg</a> 山陽新幹線、 <a href="../Page/山陽本線.md" title="wikilink">山陽本線</a>〈<a href="https://zh.wikipedia.org/wiki/相生站_(兵庫縣)" title="wikilink">相生方向</a>〉、 <a href="../Page/赤穗線.md" title="wikilink">赤穗線</a>[29]、 <a href="../Page/播但線.md" title="wikilink">播但線</a>、 <a href="../Page/姬新線.md" title="wikilink">姬新線</a><br />
 山陽電氣鐵道：<a href="https://zh.wikipedia.org/wiki/File:Number_prefix_San-yo_Railway_line.png" title="fig:Number_prefix_San-yo_Railway_line.png">Number_prefix_San-yo_Railway_line.png</a> 本線（：SY 43）</p></td>
 <td></td>
 </tr>

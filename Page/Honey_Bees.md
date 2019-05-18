@@ -8,7 +8,7 @@ Bees**，[香港少女組合](../Page/香港.md "wikilink")[女子演唱團體](
 | 姓名                                                  |
 | 漢字                                                  |
 | [梁敏芝](https://zh.wikipedia.org/wiki/梁敏芝 "wikilink") |
-| [區明妙](https://zh.wikipedia.org/wiki/區明妙 "wikilink") |
+| [區明妙](../Page/區明妙.md "wikilink")                    |
 | [雷寶宜](https://zh.wikipedia.org/wiki/雷寶宜 "wikilink") |
 | [何敏華](https://zh.wikipedia.org/wiki/何敏華 "wikilink") |
 |                                                     |
@@ -47,7 +47,7 @@ Bees參與於[九龍公園舉辦之](../Page/九龍公園.md "wikilink")[同樂�
 Bees 表演了薛家燕女士一直推廣的弟子規系列中的＂弟子廿四孝＂，為慶典添上歡樂。
 
 2017年 前成員均已全部退出。現有成員則由Honey Bees
-Junior或在家燕媽媽藝術中心表現良好甄選出來。包括[梁敏芝](https://zh.wikipedia.org/wiki/梁敏芝 "wikilink")、[區明妙](https://zh.wikipedia.org/wiki/區明妙 "wikilink")、[沈曉語](https://zh.wikipedia.org/wiki/沈曉語 "wikilink")、[雷寶宜](https://zh.wikipedia.org/wiki/雷寶宜 "wikilink")、[何敏華](https://zh.wikipedia.org/wiki/何敏華 "wikilink")。
+Junior或在家燕媽媽藝術中心表現良好甄選出來。包括[梁敏芝](https://zh.wikipedia.org/wiki/梁敏芝 "wikilink")、[區明妙](../Page/區明妙.md "wikilink")、[沈曉語](https://zh.wikipedia.org/wiki/沈曉語 "wikilink")、[雷寶宜](https://zh.wikipedia.org/wiki/雷寶宜 "wikilink")、[何敏華](https://zh.wikipedia.org/wiki/何敏華 "wikilink")。
 
 2017年8月28日，家燕媽媽帶領中心的學生，包括Honey
 Bees到廣州正佳劇場進行一年一度的大匯演。同年10月27-29日，家藍媽媽帶領Honey

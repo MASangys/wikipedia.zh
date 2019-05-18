@@ -112,9 +112,8 @@
     A10BD04
     [格列美脲和罗格列酮](https://zh.wikipedia.org/wiki/格列美脲 "wikilink")（Glimepiride
     and rosiglitazone）
-    A10BD05
-    二甲双胍和[吡格列酮](https://zh.wikipedia.org/wiki/吡格列酮 "wikilink")（Metformin
-    and pioglitazone）
+    A10BD05 二甲双胍和[吡格列酮](../Page/吡格列酮.md "wikilink")（Metformin and
+    pioglitazone）
     A10BD06 格列美脲和吡格列酮（Glimepiride and pioglitazone）
     A10BD07 二甲双胍和[西格列汀](../Page/西格列汀.md "wikilink")（Metformin and
     sitagliptin）
@@ -144,8 +143,7 @@
     A10BG01
     [曲格列酮](https://zh.wikipedia.org/wiki/曲格列酮 "wikilink")（Troglitazone）
     A10BG02 [罗格列酮](../Page/罗格列酮.md "wikilink")（Rosiglitazone）
-    A10BG03
-    [吡格列酮](https://zh.wikipedia.org/wiki/吡格列酮 "wikilink")（Pioglitazone）
+    A10BG03 [吡格列酮](../Page/吡格列酮.md "wikilink")（Pioglitazone）
 
 ### A10BH [二肽基肽酶4(DPP-4)抑制剂](https://zh.wikipedia.org/wiki/二肽基肽酶4\(DPP-4\)抑制剂 "wikilink")（Dipeptidyl peptidase 4 (DPP-4) inhibitors）
 

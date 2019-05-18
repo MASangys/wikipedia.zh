@@ -1,4 +1,4 @@
-**山陽IC**（平假名：さんようインターチェンジ）是位於[岡山縣](../Page/岡山縣.md "wikilink")[赤磐市的](../Page/赤磐市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**山陽IC**（平假名：さんようインターチェンジ）是位於[岡山縣](../Page/岡山縣.md "wikilink")[赤磐市的](../Page/赤磐市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1993年12月16日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[備前IC至](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")[岡山IC之間開通](https://zh.wikipedia.org/wiki/岡山IC "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[備前IC至](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")[岡山IC之間開通](https://zh.wikipedia.org/wiki/岡山IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -23,7 +23,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (12)[和氣IC](../Page/和氣IC.md "wikilink") -
     [瀨戶PA](https://zh.wikipedia.org/wiki/瀨戶PA "wikilink") -
     (12-1)*[瀨戶JCT](https://zh.wikipedia.org/wiki/瀨戶JCT_\(岡山縣\) "wikilink")*（建設中）

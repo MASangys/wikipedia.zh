@@ -1,6 +1,6 @@
 **Naul**（本名：유나얼，）是[大韓民國的歌手](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。Gyewon造型藝術大學媒體繪畫、[檀國大學西洋學學士](../Page/檀國大學.md "wikilink")、[檀國大學設計學院造型藝術學碩士](../Page/檀國大學.md "wikilink")。1999年ANTHEM
 1輯《變心》出道，從2001年開始以組合[Brown Eyed
-Soul活動](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink")。2010年拿撒勒大學聘之為音樂學部教授。與演員[韓惠軫從](../Page/韓惠軫.md "wikilink")2004年開始交往至2012年12月分手\[1\]\[2\]\[3\]，並是電影導演유대얼的雙胞胎哥哥。
+Soul活動](../Page/Brown_Eyed_Soul.md "wikilink")。2010年拿撒勒大學聘之為音樂學部教授。與演員[韓惠軫從](../Page/韓惠軫.md "wikilink")2004年開始交往至2012年12月分手\[1\]\[2\]\[3\]，並是電影導演유대얼的雙胞胎哥哥。
 
 ## 學歷
 
@@ -11,8 +11,8 @@ Soul活動](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink")。2010年�
 ## 經歷
 
   - 2010年 拿撒勒大學 音樂學部 教授
-  - 2003年 組合 「[Brown Eyed
-    Soul](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink")」 成員
+  - 2003年 組合 「[Brown Eyed Soul](../Page/Brown_Eyed_Soul.md "wikilink")」
+    成員
   - 2001年 組合 「[Brown
     Eyes](https://zh.wikipedia.org/wiki/Brown_Eyes "wikilink")」 成員
   - 1998年 組合 「ANTHEM」 成員
@@ -46,8 +46,7 @@ Soul活動](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink")。2010年�
   - 2000年 [DJ DOC](../Page/DJ_DOC.md "wikilink") 《Season's Greeting》
     〈我在等待〉
   - 2000年 火曜飛 1輯 《My All》 〈Promise〉
-  - 2004年 [Dynamic
-    Duo](https://zh.wikipedia.org/wiki/Dynamic_Duo "wikilink") 1輯 《Taxi
+  - 2004年 [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") 1輯 《Taxi
     Driver》 〈兩個男人〉, 〈my bell〉
   - 2007年 Dynamic Duo 3輯 《Enlightened》 〈考勤〉
   - 2010年 Eco Bridge Single 2輯 《Fall-Ache》〈第一天〉

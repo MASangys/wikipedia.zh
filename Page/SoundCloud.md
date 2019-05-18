@@ -4,7 +4,7 @@
 
 SoundCloud最初建立于[瑞典的](../Page/瑞典.md "wikilink")[斯德哥爾摩](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")，2007年8月，由編曲家亞歷山大·埃里恩和藝術家埃里克·華爾福斯于[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林正式成立](../Page/柏林.md "wikilink")。它的原旨是想讓音樂家們能自由交流各自的錄音，但不久它就徹底轉變成了一個同時也能推廣音樂家曲目的公開平臺。\[3\]
 
-在架設後的幾個月裡，SoundCloud開始挑戰[MySpace的優勢](../Page/MySpace.md "wikilink")。\[4\]
+在架設後的幾個月裡，SoundCloud開始挑戰[MySpace的優勢](https://zh.wikipedia.org/wiki/MySpace "wikilink")。\[4\]
 
 2009年，在接受*《[連線](https://zh.wikipedia.org/wiki/連線 "wikilink")》*雜誌的採訪中，創始人之一亞歷山大·埃里恩說道：
 
@@ -12,7 +12,7 @@ SoundCloud最初建立于[瑞典的](../Page/瑞典.md "wikilink")[斯德哥爾�
 
 2009年4月，[道提韩森科技创投公司给予SoundCloud](https://zh.wikipedia.org/wiki/道提韩森科技创投公司 "wikilink")250万欧元的A系列资金\[6\]。2010年5月，SoundCloud用户数达100万\[7\]。2011年1月，SoundCloud已由联合广场风险指数投资公司筹集B轮融资。2011年6月15日，用户数达500万，[阿什顿·库彻和](https://zh.wikipedia.org/wiki/阿什顿·库彻 "wikilink")[盖·奥西瑞的顶级基金投资SoundCloud](https://zh.wikipedia.org/wiki/盖·奥西瑞 "wikilink")。2012年1月23日，用户数达1000万，官方博客创建\[8\]。2012年12月，新版页面正式上线，同时推出全站音乐列表播出及阅读掩盖[波形的评论](https://zh.wikipedia.org/wiki/波形 "wikilink")。2014年5月，SoundCloud电邮通知注册用户旧版入口关闭。
 
-2014年3月，据报道SoundCloud就出现在平台上的版权受保护的材料的许可证，与各大唱片公司谈判，力求避免出现[Google和](../Page/Google.md "wikilink")[Youtube被迫处理大量删除通知的情况](../Page/Youtube.md "wikilink")\[9\]。
+2014年3月，据报道SoundCloud就出现在平台上的版权受保护的材料的许可证，与各大唱片公司谈判，力求避免出现[Google和](../Page/Google.md "wikilink")[Youtube被迫处理大量删除通知的情况](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[9\]。
 
 ## 特色
 
@@ -33,7 +33,7 @@ SoundCloud最初建立于[瑞典的](../Page/瑞典.md "wikilink")[斯德哥爾�
 <!-- end list -->
 
   - 该API已集成到多个APP，最著名的有[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")、[Logic
-    Pro和](https://zh.wikipedia.org/wiki/Logic_Pro "wikilink")[数字音频工作站](https://zh.wikipedia.org/wiki/数字音频工作站 "wikilink")[Studio
+    Pro和](../Page/Logic_Pro.md "wikilink")[数字音频工作站](https://zh.wikipedia.org/wiki/数字音频工作站 "wikilink")[Studio
     One
     DAW](https://zh.wikipedia.org/wiki/Studio_One_DAW "wikilink")\[16\]。API也集成于SoundYouNeed等音乐搜寻器中。用户可通过[創作共用授權下载音乐](https://zh.wikipedia.org/wiki/創作共用授權 "wikilink")。
 
@@ -55,7 +55,7 @@ SoundCloud会向用户提供付费订阅。若用户希望上传2个小时的内
 
 ## 應用程式
 
-SoundCloud的APP已在[iOS](../Page/iOS.md "wikilink")\[21\]和[Android平台发行](../Page/Android.md "wikilink")\[22\]。
+SoundCloud的APP已在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[21\]和[Android平台发行](../Page/Android.md "wikilink")\[22\]。
 
 ## 接受度
 

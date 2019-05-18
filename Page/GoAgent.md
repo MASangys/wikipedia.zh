@@ -14,7 +14,7 @@ GoAgent分为两个部分，一部分是需要部署到GAE上的服务器端软�
 
 由于使用Python开发，GoAgent支持多种操作系統，例如[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS
-X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Linux](../Page/Linux.md "wikilink")（包括基于Linux开发的移动操作系统、[路由器固件](../Page/路由器.md "wikilink")，如[Android和](../Page/Android.md "wikilink")[OpenWrt](../Page/OpenWrt.md "wikilink")）\[1\]。
+X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Linux](../Page/Linux.md "wikilink")（包括基于Linux开发的移动操作系统、[路由器固件](../Page/路由器.md "wikilink")，如[Android和](../Page/Android.md "wikilink")[OpenWrt](../Page/OpenWrt.md "wikilink")）\[1\]。
 
 GoAgent的其他特性如下：
 
@@ -27,7 +27,7 @@ GoAgent的其他特性如下：
   - 允許用戶選擇使用[Google在](../Page/Google.md "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[香港或](../Page/香港.md "wikilink")[台灣數據中心的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[IP地址](../Page/IP地址.md "wikilink")，或者Google的[IPv6地址](../Page/IPv6.md "wikilink")（[Google
     App
     Engine位於](https://zh.wikipedia.org/wiki/Google_App_Engine "wikilink")[美國的數據中心在](https://zh.wikipedia.org/wiki/美國 "wikilink")[中國大陸被](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[防火长城封鎖](../Page/防火长城.md "wikilink")）。
-  - GoAgent自3.0.6版开始可选支持[RC4加密选项](https://zh.wikipedia.org/wiki/RC4 "wikilink")。
+  - GoAgent自3.0.6版开始可选支持[RC4加密选项](../Page/RC4.md "wikilink")。
 
 ## 運行原理
 
@@ -117,7 +117,7 @@ GoAgent 获得直接或间接的经济利益，也未接受过任何境外和境
 
 ## 停止维护
 
-2015年8月25日，在[Shadowsocks作者迫于警方压力删除其项目之后](https://zh.wikipedia.org/wiki/Shadowsocks "wikilink")，GoAgent的开发者也删除了该项目。\[13\]
+2015年8月25日，在[Shadowsocks作者迫于警方压力删除其项目之后](../Page/Shadowsocks.md "wikilink")，GoAgent的开发者也删除了该项目。\[13\]
 
 GoAgent项目删除不久，[GitHub即遭到了来自中国的](../Page/GitHub.md "wikilink")[DDoS攻击](https://zh.wikipedia.org/wiki/DDoS "wikilink")。开发者普遍认为此次攻击与中国政府有关。\[14\]2015年8月28日，[电子前哨基金会针对Shadowsocks和GoAgent被删除一事发表评论](../Page/电子前哨基金会.md "wikilink")，对中国政府针对翻墙软件作者的打击表示了强烈的谴责。\[15\]
 

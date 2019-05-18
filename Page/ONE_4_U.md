@@ -4,7 +4,7 @@
 E\&M發行的第二張單曲。同年8月另由[UNIVERSAL
 SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。韓版宣傳於6月2日從[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
 - [Show\!
-音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
+音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](../Page/握手會.md "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
 
 ## 單曲概要
 
@@ -42,7 +42,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 <p>（限定盤A / B / C + SPECIAL SHOWCASE DVD）</p></td>
 </tr>
 <tr class="odd">
-<td><p>贈送：⒈A-JAX <a href="https://zh.wikipedia.org/wiki/握手會" title="wikilink">握手會參加券</a> ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
+<td><p>贈送：⒈A-JAX <a href="../Page/握手會.md" title="wikilink">握手會參加券</a> ⒉A-JAX 成員小卡 (共七款，隨機收入一款)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -65,8 +65,8 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 
 <!-- end list -->
 
-  - 本作於5月29日透過[YOUTUBE官方頻道公開單曲](../Page/YOUTUBE.md "wikilink")《ONE 4
-    U》Music Video TEASER\[1\]\[2\]，另其經紀公司 [DSP
+  - 本作於5月29日透過[YOUTUBE官方頻道公開單曲](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")《ONE
+    4 U》Music Video TEASER\[1\]\[2\]，另其經紀公司 [DSP
     Media表示該](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")
     Music
     Video光在設備費上投入就超過了1億元，再加上CG特效（當中，包含成員們穿越在空間，將事物神奇地更改等許多場面的畫面都使用了電腦特效）的5000萬元製作費和其他費用，總製作費高達3億元\[3\]。6月1日，正式公開出道單曲《ONE

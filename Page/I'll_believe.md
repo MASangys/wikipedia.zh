@@ -1,5 +1,5 @@
 《**I'll
-believe**》是[ALTIMA的第一張](https://zh.wikipedia.org/wiki/ALTIMA "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月7日由[Warner
+believe**》是[ALTIMA的第一張](../Page/ALTIMA.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年12月7日由[Warner
 Home
 Video發售](https://zh.wikipedia.org/wiki/Warner_Home_Video "wikilink")。
 
@@ -16,7 +16,7 @@ Video發售](https://zh.wikipedia.org/wiki/Warner_Home_Video "wikilink")。
 1.  **I'll believe**
       -
         作詞：[Maon
-        Kurosaki](../Page/黑崎真音.md "wikilink")，Rap詞：[motsu](../Page/m.o.v.e.md "wikilink")，作曲、編曲：[Satoshi
+        Kurosaki](../Page/黑崎真音.md "wikilink")，Rap詞：[motsu](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")，作曲、編曲：[Satoshi
         Yaginuma](../Page/八木沼悟志.md "wikilink")
 
 主題是夏娜與悠二互相信任對方, 歌詞部份是唱出夏娜的心情, RAP部份是描寫戰鬥時被火炎包圍的樣子.

@@ -2,7 +2,7 @@
 是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")、高性能的、跨语言分布式，使用[GitHub托管](../Page/GitHub.md "wikilink")\[1\]。
 
 Jafka
-最早是由[Apache孵化的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Kafka](https://zh.wikipedia.org/wiki/Kafka "wikilink")（由[LinkedIn捐助给Apache](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")）克隆而来。
+最早是由[Apache孵化的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Kafka](../Page/Kafka.md "wikilink")（由[LinkedIn捐助给Apache](https://zh.wikipedia.org/wiki/LinkedIn "wikilink")）克隆而来。
 
 ## 特色
 
@@ -30,7 +30,7 @@ Jafka
   - [Apache ActiveMQ](../Page/Apache_ActiveMQ.md "wikilink")
 
   -
-  - [Apache Qpid](https://zh.wikipedia.org/wiki/Apache_Qpid "wikilink")
+  - [Apache Qpid](../Page/Apache_Qpid.md "wikilink")
 
   -
   - [Java消息服务](../Page/Java消息服务.md "wikilink")

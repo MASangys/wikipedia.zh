@@ -18,7 +18,7 @@
         B：[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")（副社長）、[增田有華](../Page/增田有華.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
       - Team E：高木由麻奈
-      - 研究生：[松村香織](https://zh.wikipedia.org/wiki/松村香織 "wikilink")
+      - 研究生：[松村香織](../Page/松村香織.md "wikilink")
   - [NMB48](../Page/NMB48.md "wikilink")
       - Team N：[山田菜菜](../Page/山田菜菜.md "wikilink")
 
@@ -92,7 +92,7 @@ Lesson.2 はじめての運転 <a href="../Page/手動變速器.md" title="wikil
 <td><p>Lesson.3 MT車 技能教習（2回目）<br />
 Lesson.4 特別講師による課外授業</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/細川茂樹" title="wikilink">細川茂樹</a><br />
-<a href="https://zh.wikipedia.org/wiki/片山右京" title="wikilink">片山右京</a></p></td>
+<a href="../Page/片山右京.md" title="wikilink">片山右京</a></p></td>
 <td><p>仲川・松原・峯岸・増田（細川）<br />
 前田（片山）</p></td>
 <td><p>-</p></td>
@@ -118,7 +118,7 @@ MT技能講習3日目終了</p></td>
 <td><p>9</p></td>
 <td><p>6月23日</p></td>
 <td><p>Lesson.6 “AKB総選挙”生放送直前 抜き打ち学科テスト</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山下真司" title="wikilink">山下真司</a></p></td>
+<td><p><a href="../Page/山下真司.md" title="wikilink">山下真司</a></p></td>
 <td><p>仲川・松原・峯岸・増田</p></td>
 <td><p>-</p></td>
 </tr>

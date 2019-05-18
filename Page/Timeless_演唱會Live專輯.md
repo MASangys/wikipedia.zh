@@ -1,5 +1,5 @@
 《**Timeless
-演唱會Live專輯**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第三張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](https://zh.wikipedia.org/wiki/現場專輯 "wikilink")，在2009年11月27日推出，收錄了他於8月27日至8月29日在[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心舉行的](../Page/香港會議展覽中心.md "wikilink")《Timeless
+演唱會Live專輯**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第三張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2009年11月27日推出，收錄了他於8月27日至8月29日在[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心舉行的](../Page/香港會議展覽中心.md "wikilink")《Timeless
 Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
 
 ## 曲目
@@ -228,7 +228,7 @@ Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>La Bamba</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/里奇·瓦倫斯" title="wikilink">Ritchie Valens</a></p></td>
+<td><p><a href="../Page/里奇·瓦倫斯.md" title="wikilink">Ritchie Valens</a></p></td>
 <td></td>
 <td></td>
 </tr>

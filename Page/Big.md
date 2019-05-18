@@ -65,7 +65,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/宋昱璁" title="wikilink">宋昱璁</a></p></td>
+<p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -135,7 +135,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/高水熙" title="wikilink">高水熙</a></p></td>
+<p><a href="../Page/高水熙.md" title="wikilink">高水熙</a></p></td>
 <td><center>
 <p>李晶美</p></td>
 <td><p>景俊的舅媽，不是壞人，但也不是對突然出現在眼前的外甥給予親情的親切之人，只是按留給景俊遺產的多寡，予以相同大小關懷的人。</p></td>
@@ -328,7 +328,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李姬珍" title="wikilink">李姬珍</a></p></td>
+<p><a href="../Page/李姬珍.md" title="wikilink">李姬珍</a></p></td>
 <td><center>
 <p>敏珠</p></td>
 <td><p>新娘</p></td>
@@ -347,7 +347,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
+<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>朴民奎</p></td>
 <td><p>美術大學教授</p></td>

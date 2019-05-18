@@ -1,11 +1,10 @@
-「**4th「一起走吧\!」**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")4枚原創專輯。於2002年3月27日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+「**4th「一起走吧\!」**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")4枚原創專輯。於2002年3月27日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 與上一張專輯「[Best\!
     早安少女組。1](../Page/Best!_早安少女組。1.md "wikilink")」相距約1年2個月。與上一張原創專輯「[3rd
-    -LOVE
-    Paradise-](https://zh.wikipedia.org/wiki/3rd_-LOVE_Paradise- "wikilink")」相距約2年。
+    -LOVE Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」相距約2年。
   - 收錄第12張單曲「[The☆Pea～ce\! /
     充滿愛的大宇宙](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")」至第14張單曲「[是啊\!
     We're ALIVE](../Page/是啊!_We're_ALIVE.md "wikilink")」，一共4首A面曲。
@@ -35,8 +34,7 @@
       -
         13th單曲・五期成員[高橋愛](../Page/高橋愛.md "wikilink")、[紺野朝美](../Page/紺野朝美.md "wikilink")、[小川麻琴](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")、[新垣里沙加入後第一張單曲](../Page/新垣里沙.md "wikilink")
 4.  **首個搖滾演唱會**（初めてのロックコンサート）
-    （作詞・作曲：淳君
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：淳君 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         [飯田圭織](../Page/飯田圭織.md "wikilink")・[保田圭](../Page/保田圭.md "wikilink")・[矢口真里](../Page/矢口真里.md "wikilink")・[後藤真希](../Page/後藤真希.md "wikilink")・[辻希美](../Page/辻希美.md "wikilink")・[小川麻琴主唱](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")
 5.  **男朋友**（男友達）

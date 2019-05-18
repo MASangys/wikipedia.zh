@@ -106,7 +106,7 @@ language](https://zh.wikipedia.org/wiki/Snow_White_design_language "wikilink")
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/随機存取記憶體" title="wikilink">随機存取記憶體</a></p></td>
-<td><p>1 <a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>,可擴充至 2 or 4 MB using 120 ns 30-pin <a href="https://zh.wikipedia.org/wiki/SIMM" title="wikilink">SIMMs</a> ，并且提供可选的RAM擴充槽</p></td>
+<td><p>1 <a href="https://zh.wikipedia.org/wiki/MB" title="wikilink">MB</a>,可擴充至 2 or 4 MB using 120 ns 30-pin <a href="../Page/SIMM.md" title="wikilink">SIMMs</a> ，并且提供可选的RAM擴充槽</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/唯讀記憶體.md" title="wikilink">唯讀記憶體</a></p></td>

@@ -32,7 +32,7 @@ mobile限量發售](https://zh.wikipedia.org/wiki/EXILE_mobile "wikilink")。
 ## 收錄專輯
 
   - [J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")（M-1、2）
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（M-1、2）
 
 [Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

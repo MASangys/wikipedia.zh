@@ -14,7 +14,7 @@
 
   - うさギョロ\!（まめもやし）
 
-  - うせもの宿（[穗積](https://zh.wikipedia.org/wiki/穗積 "wikilink")）
+  - うせもの宿（[穗積](../Page/穗積.md "wikilink")）
 
   - [エンジェル・トランペット](https://zh.wikipedia.org/wiki/:ja:エンジェル・トランペット "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
 
@@ -24,10 +24,10 @@
 
   - [さんすくみ](https://zh.wikipedia.org/wiki/:ja:さんすくみ "wikilink")（[絹田村子](https://zh.wikipedia.org/wiki/:ja:絹田村子 "wikilink")）
 
-  - [失戀巧克力職人](https://zh.wikipedia.org/wiki/失戀巧克力職人 "wikilink")（[水城雪可奈](https://zh.wikipedia.org/wiki/水城雪可奈 "wikilink")）
+  - [失戀巧克力職人](https://zh.wikipedia.org/wiki/失戀巧克力職人 "wikilink")（[水城雪可奈](../Page/水城雪可奈.md "wikilink")）
 
   - [7SEEDS
-    幻海奇情](https://zh.wikipedia.org/wiki/7SEEDS_幻海奇情 "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）
+    幻海奇情](../Page/7SEEDS_幻海奇情.md "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）
 
   - [月影ベイベ](https://zh.wikipedia.org/wiki/:ja:月影ベイベ "wikilink")（[小玉ユキ](https://zh.wikipedia.org/wiki/:ja:小玉ユキ "wikilink")）
 
@@ -38,7 +38,7 @@
   - 都の昼寝物語（[秋里和國](https://zh.wikipedia.org/wiki/:ja:秋里和国 "wikilink")）
 
   - [夢幻遊戲
-    白虎仙記](https://zh.wikipedia.org/wiki/夢幻遊戲_白虎仙記 "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）
+    白虎仙記](../Page/夢幻遊戲_白虎仙記.md "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）
 
 ## 過去連載作品
 
@@ -53,7 +53,7 @@
   - [うまんが](https://zh.wikipedia.org/wiki/:ja:うまんが "wikilink")（新井理恵）
   - [娚の一生](https://zh.wikipedia.org/wiki/:ja:娚の一生 "wikilink")（西炯子）
   - 亀の鳴く声（西炯子）
-  - ガールズ美術（[今日町子](https://zh.wikipedia.org/wiki/今日町子 "wikilink")）
+  - ガールズ美術（[今日町子](../Page/今日町子.md "wikilink")）
   - [恋ひうた
     和泉式部異聞](https://zh.wikipedia.org/wiki/:ja:恋ひうた_和泉式部異聞 "wikilink")（[江平洋巳](https://zh.wikipedia.org/wiki/:ja:江平洋巳 "wikilink")）
   - [ここではない★どこか系列](https://zh.wikipedia.org/wiki/:ja:ここではない★どこか "wikilink")（[萩尾望都](../Page/萩尾望都.md "wikilink")）
@@ -62,7 +62,7 @@
   - 諸葛孔明 時間的地平線（[諏訪緑](https://zh.wikipedia.org/wiki/:ja:諏訪緑 "wikilink")）
   - ――準備中。（[山崎貴子](../Page/山崎貴子.md "wikilink")）
   - ショートメルヘン（[奈知未佐子](https://zh.wikipedia.org/wiki/奈知未佐子_\(漫畫家\) "wikilink")）
-  - [白熊咖啡廳](https://zh.wikipedia.org/wiki/白熊咖啡廳 "wikilink")（[比嘉Aloha](https://zh.wikipedia.org/wiki/比嘉Aloha "wikilink")）
+  - [白熊咖啡廳](https://zh.wikipedia.org/wiki/白熊咖啡廳 "wikilink")（[比嘉Aloha](../Page/比嘉Aloha.md "wikilink")）
   - [スケルトン イン ザ
     クローゼット](https://zh.wikipedia.org/wiki/:ja:スケルトン_イン_ザ_クローゼット "wikilink")（岩本ナオ）
   - [蛇蝎

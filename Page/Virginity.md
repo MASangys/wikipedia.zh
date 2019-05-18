@@ -8,7 +8,7 @@ records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")
 
 與前作《[海岸邊最可愛的女孩！](../Page/海岸邊最可愛的女孩！.md "wikilink")》相隔約3個月發售的單曲。
 
-與前作同様，分為通常盤Type-A、通常盤Type-B、通常盤Type-C、[chara-ani限定發售的劇場盤](../Page/chara-ani.md "wikilink")4種形式發售，Type-A・Type-B・Type-C各有3首曲不同。
+與前作同様，分為通常盤Type-A、通常盤Type-B、通常盤Type-C、[chara-ani限定發售的劇場盤](https://zh.wikipedia.org/wiki/chara-ani "wikilink")4種形式發售，Type-A・Type-B・Type-C各有3首曲不同。
 
 通常盤3類型收錄不同版本[渡邊美優紀的入浴効果音](../Page/渡邊美優紀.md "wikilink")「迷路姬的恰布恰布」\[1\]\[2\]。
 
@@ -33,7 +33,7 @@ records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")
         × NMB48』「バイト篇」「団体篇」「シャトルバス篇」「ピッタリスコア篇」TVCM歌曲
       - [COCO壹番屋咖哩](https://zh.wikipedia.org/wiki/COCO壹番屋咖哩 "wikilink")
         TVCM歌曲
-      - [關西電視台](../Page/關西電視台.md "wikilink")『[docking48](../Page/docking48.md "wikilink")』片尾曲（2012年7月17日
+      - [關西電視台](../Page/關西電視台.md "wikilink")『[docking48](https://zh.wikipedia.org/wiki/docking48 "wikilink")』片尾曲（2012年7月17日
         - ）
 2.  **妄想女朋友** （）\[3:45\]
       -
@@ -231,7 +231,7 @@ records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")
 
   - Team N：小谷里歩、松田栞
   - Team
-    M：[肥川彩愛](https://zh.wikipedia.org/wiki/肥川彩愛 "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")
+    M：[肥川彩愛](../Page/肥川彩愛.md "wikilink")、[村上文香](../Page/村上文香.md "wikilink")、[矢倉楓子](../Page/矢倉楓子.md "wikilink")、[與儀凱拉](../Page/與儀凱拉.md "wikilink")
   - 研究生：加藤夕夏、藪下柊
 
 ### 稍微彎腰

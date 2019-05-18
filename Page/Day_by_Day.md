@@ -17,14 +17,14 @@ Day》的[音樂影片預告](https://zh.wikipedia.org/wiki/音樂影片 "wikili
 leave》和主打《Day by Day》兩首曲目，正式展開宣傳行程。
 
 2012年7月30日，Core Contents
-Media的代表[金光洙發表聲明稿](https://zh.wikipedia.org/wiki/金光洙 "wikilink")，柳和榮將無條件解約，退出T-ara\[9\]。這件事情及之前隊內成員不合的傳言\[10\]引發各界的輿論壓力，並導致《Day
+Media的代表[金光洙發表聲明稿](../Page/金光洙.md "wikilink")，柳和榮將無條件解約，退出T-ara\[9\]。這件事情及之前隊內成員不合的傳言\[10\]引發各界的輿論壓力，並導致《Day
 by
 Day》的宣傳行程必須提早結束\[11\]，也因此7月29日在《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》的表演成為最後的宣傳活動，而那時柳和榮就因為腳傷的關係無法上台\[12\]。
 
 ## 重新包裝
 
 2012年7月中，官方就表示在《Day by Day》的宣傳行程結束後，將於8月15日推出後續單曲《[Sexy
-Love](https://zh.wikipedia.org/wiki/Sexy_Love_\(T-ara歌曲\) "wikilink")》，由與T-ara合作多次的製作人「[新沙洞老虎](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")」編曲，並配合機器人舞蹈呈現\[13\]。但因為柳和榮退團事件的影響，一直到2012年8月30日官方才公開了《Day
+Love](../Page/Sexy_Love_\(T-ara歌曲\).md "wikilink")》，由與T-ara合作多次的製作人「[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")」編曲，並配合機器人舞蹈呈現\[13\]。但因為柳和榮退團事件的影響，一直到2012年8月30日官方才公開了《Day
 by Day》的重新包裝專輯，也就是第七張迷你專輯《Mirage》的專輯封面與概念照片\[14\]。單曲《Sexy
 Love》的音樂影片預告也在這一天公布。
 

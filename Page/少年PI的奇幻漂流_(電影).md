@@ -1,7 +1,7 @@
 《**少年-{zh-hant:PI;zh-cn:派;zh-sg:PI;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:PI;zh-cn:派;zh-sg:PI;}-**》）是一部[李安执导的](../Page/李安.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David
-Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大作家](../Page/加拿大.md "wikilink")[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛飾演主角](https://zh.wikipedia.org/wiki/苏拉·沙玛 "wikilink")「-{Pi}-」（又譯「-{派}-」）。
+Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大作家](../Page/加拿大.md "wikilink")[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛飾演主角](../Page/苏拉·沙玛.md "wikilink")「-{Pi}-」（又譯「-{派}-」）。
 
-影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达赢得多个影评人协会奖的最佳摄影奖](https://zh.wikipedia.org/wiki/克劳迪奥·米兰达 "wikilink")，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
+影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达赢得多个影评人协会奖的最佳摄影奖](../Page/克劳迪奥·米兰达.md "wikilink")，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
 
 ## 剧情简介
 
@@ -37,7 +37,7 @@ Piscine Molitor "Pi" Patel</p></td>
 <td><p>少年16歲時的Pi，與孟加拉虎「理查·帕克」在太平洋上度過二百多天的日子</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/伊凡·卡漢" title="wikilink">伊凡·卡漢</a><br />
+<td><p><a href="../Page/伊凡·卡漢.md" title="wikilink">伊凡·卡漢</a><br />
 Irrfan Khan</p></td>
 <td><p>成年時的Pi</p></td>
 <td></td>
@@ -83,7 +83,7 @@ Ravi Patel</p></td>
 <td><p>Pi的哥哥。18－19歲。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/傑哈·德巴狄厄" title="wikilink">傑哈·德巴狄厄</a><br />
+<td><p><a href="../Page/傑哈·德巴狄厄.md" title="wikilink">傑哈·德巴狄厄</a><br />
 Gérard Depardieu</p></td>
 <td><p>船廚子<br />
 the Cook</p></td>
@@ -395,7 +395,7 @@ Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第70屆金球獎" title="wikilink">第70屆金球獎</a>[37]</p></td>
+<td><p><a href="../Page/第70屆金球獎.md" title="wikilink">第70屆金球獎</a>[37]</p></td>
 <td><p>劇情類最佳影片</p></td>
 <td></td>
 <td></td>

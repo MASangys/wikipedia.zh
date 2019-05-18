@@ -44,8 +44,7 @@
 ### D07AC 皮质类固醇类，强（III 组）Corticosteroids, potent (group III)
 
   -
-    D07AC01
-    [倍他米松](https://zh.wikipedia.org/wiki/倍他米松 "wikilink")（Betamethasone）
+    D07AC01 [倍他米松](../Page/倍他米松.md "wikilink")（Betamethasone）
     D07AC02
     [氟氯洛龙](https://zh.wikipedia.org/wiki/氟氯洛龙 "wikilink")（Fluclorolone）
     D07AC03
@@ -78,8 +77,7 @@
     D07AC16
     [醋丙氢可的松](https://zh.wikipedia.org/wiki/醋丙氢可的松 "wikilink")（Hydrocortisone
     aceponate）
-    D07AC17
-    [氟替卡松](https://zh.wikipedia.org/wiki/氟替卡松 "wikilink")（Fluticasone）
+    D07AC17 [氟替卡松](../Page/氟替卡松.md "wikilink")（Fluticasone）
     D07AC18
     [泼尼卡酯](https://zh.wikipedia.org/wiki/泼尼卡酯 "wikilink")（Prednicarbate）
     D07AC19

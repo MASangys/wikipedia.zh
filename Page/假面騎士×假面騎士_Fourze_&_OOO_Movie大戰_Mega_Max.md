@@ -69,7 +69,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     初代假面騎士Birth的變身者，TV版決戰事件過後再次從事醫學界的工作。
     此事件中被鴻上召集，變身成Birth Prototype戰鬥。
 
-**後藤慎太郎（）**（[君嶋麻耶飾](https://zh.wikipedia.org/wiki/君嶋麻耶 "wikilink")）
+**後藤慎太郎（）**（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")）
 
   -
     第二代假面騎士Birth的變身者，TV版決戰事件過後復職為警察。
@@ -183,7 +183,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     天之川學園高中的理事長。
     向財團X的雷姆・神薙提供Zodiarts天文裝置。曾派遣處女座Zodiarts捉拿美咲撫子(SOLU)並企圖私有，事敗後辯稱只因替其財團X作出行動。
 
-**朔田流星（）**（[吉澤亮飾](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
 
   -
     假面騎士Meteor變身者。昴星高中2年級的謎之轉校生。
@@ -363,7 +363,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Meteor**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+  - **假面騎士Meteor**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[吉澤亮](../Page/吉澤亮.md "wikilink")）
 
 <!-- end list -->
 

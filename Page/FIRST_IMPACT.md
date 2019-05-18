@@ -3,7 +3,7 @@ IMPACT》**是韓國人氣男子組合[SS501隊長](../Page/SS501.md "wikilink")
 
 ## 概述
 
-  - 作為2012年最吸引話題的藝人，韓國N01.的SOLO藝人金賢重。在[ORICON榜](../Page/ORICON.md "wikilink")，周排名(2月6日)第二，超過十萬張的紀錄，脫穎而出的首張日文單曲【[KISS
+  - 作為2012年最吸引話題的藝人，韓國N01.的SOLO藝人金賢重。在[ORICON榜](https://zh.wikipedia.org/wiki/ORICON "wikilink")，周排名(2月6日)第二，超過十萬張的紀錄，脫穎而出的首張日文單曲【[KISS
     KISS/Lucky
     Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")】之後，於5月16日發行了期待已久的影像商品【FIRST
     IMPACT】。

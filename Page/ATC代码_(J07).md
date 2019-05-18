@@ -18,7 +18,7 @@
     J07AE51 霍乱疫苗，灭活全细胞，与伤寒疫苗的复方（Cholera, combinations with typhoid
     vaccine, inactivated, whole cell）
 
-### J07AF [白喉疫苗](https://zh.wikipedia.org/wiki/白喉疫苗 "wikilink")（Diphtheria vaccines）
+### J07AF [白喉疫苗](../Page/白喉疫苗.md "wikilink")（Diphtheria vaccines）
 
   -
     J07AF01 白喉类毒素（Diphtheria toxoid）
@@ -55,7 +55,7 @@
     purified polysaccharides antigen conjugated）
     J07AH09 乙型脑膜炎，多元疫苗（Meningococcus B, multicomponent vaccine）
 
-### J07AJ [百日咳疫苗](https://zh.wikipedia.org/wiki/百日咳疫苗 "wikilink")（Pertussis vaccines）
+### J07AJ [百日咳疫苗](../Page/百日咳疫苗.md "wikilink")（Pertussis vaccines）
 
   -
     J07AJ01 百日咳疫苗，灭活全细胞（Pertussis, inactivated, whole cell）

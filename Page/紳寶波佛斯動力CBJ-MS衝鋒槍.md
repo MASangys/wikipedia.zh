@@ -10,7 +10,7 @@
 
 紳寶波佛斯動力CBJ-MS[個人防衛武器是一枝非常緊湊的武器](../Page/個人防衛武器.md "wikilink")，在伸縮式[钢絲製](../Page/钢.md "wikilink")[槍托縮折時只有](../Page/槍托.md "wikilink")363毫米（14.29英吋），而槍托伸展時為565毫米（22.24英吋）。這武器的體積細小、重量輕盈、攜帶方便，而強大的火力卻可令人印象深刻。
 
-在武器的整體外觀而言酷似[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，而主要區別是[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。前握把內部中空，可以容納一個備用[彈匣](../Page/彈匣.md "wikilink")，以加快更換彈匣的速度。前握把可以很容易地拆卸下來並且裝上其他的戰術配件，例如[戰術燈或](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+在武器的整體外觀而言酷似[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，而主要區別是[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[前握把](../Page/輔助握把.md "wikilink")。前握把內部中空，可以容納一個備用[彈匣](../Page/彈匣.md "wikilink")，以加快更換彈匣的速度。前握把可以很容易地拆卸下來並且裝上其他的戰術配件，例如[戰術燈或](../Page/戰術燈.md "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 其基本工作原理是採用[開放式槍機](../Page/開放式槍機.md "wikilink")、[直接反沖作用和固定式擊針](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#直接反沖 "wikilink")。但可以因應客戶的特殊需要，將其更改為一套帶有獨立的自由浮動式[撞針的](../Page/撞針.md "wikilink")槍機系統。與烏茲衝鋒槍一樣使用[包絡式槍機](../Page/包絡式槍機.md "wikilink")，在槍機閉鎖時包覆著槍管尾部的大部份，從而縮短槍機運作距離，亦能達到縮短全槍總長度。由於[機匣上方設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，因此其由早期型烏茲衝鋒槍的設於機匣頂部的U型拉機柄改為裝在機匣尾部的塞子型拉機柄。向後拉動拉機柄時使槍機待擊，鬆手後自動彈回（不論開放式槍機和閉鎖式槍機），而且射擊時不會跟隨槍機一起運動。這槍亦把主握把前板作為其[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")，必需按壓才可發射，可以大大減低[走火的機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。
 
@@ -22,7 +22,7 @@
 
 在6.5×25毫米口徑的紳寶波佛斯動力CBJ-MS充當輕型支援武器的角色的時候，可以在標準槍管上、緊鎖螺母前方安裝一個卡夾式[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")（和M16A1的兩腳架設計相似）。
 
-紳寶波佛斯動力CBJ-MS的[機匣上方設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以安裝將[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、光電瞄準具（[紅點鏡／反射式瞄準鏡和](../Page/紅點鏡.md "wikilink")[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")）、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀等配件](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，另外還可加裝[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。在衝鋒槍的機匣兩側也可增加一段導軌供安裝戰術燈或雷射瞄準器。與其他衝鋒槍不同，據聲稱，紳寶波佛斯動力CBJ-MS特別適合裝上[ACOG光學瞄準鏡作瞄準射擊](../Page/先進戰鬥光學瞄準鏡.md "wikilink")。
+紳寶波佛斯動力CBJ-MS的[機匣上方設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以安裝將[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、光電瞄準具（[紅點鏡／反射式瞄準鏡和](../Page/紅點鏡.md "wikilink")[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")）、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀等配件](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，另外還可加裝[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。在衝鋒槍的機匣兩側也可增加一段導軌供安裝戰術燈或雷射瞄準器。與其他衝鋒槍不同，據聲稱，紳寶波佛斯動力CBJ-MS特別適合裝上[ACOG光學瞄準鏡作瞄準射擊](../Page/先進戰鬥光學瞄準鏡.md "wikilink")。
 
 紳寶波佛斯動力CBJ-MS的設計充分考慮到[人體工學](../Page/人因工程学.md "wikilink")，使用非常簡單，質量可靠，精確度高，可以在緊急時單手使用，最初設想是作為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，給常規及非常規戰鬥人員例如軍官、汽車司機、坦克駕駛員、火車車組人員、飛行員、醫療勤務兵、機槍手、炮兵等使用。
 
@@ -41,17 +41,17 @@
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
   - 2013年—《[-{zh-hans:战地4;
-    zh-hant:戰地風雲4;}-](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
+    zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：命名為「CBJ-MS」（中文版則命名為「CBJ-MS衝鋒槍」），發射[6.5×25毫米CBJ](https://zh.wikipedia.org/wiki/6.5×25mm_CBJ-MS "wikilink")[子彈](../Page/子彈.md "wikilink")，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，50+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為90發（故事模式）。單人模式之中於完成「揭開序幕」（Baku）戰役後解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-    Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到19,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射、HD-33當中之七）。
+    Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到19,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影;}-](https://zh.wikipedia.org/wiki/決勝時刻：魅影 "wikilink")》（Call
+    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty:
     Ghosts）：命名為「CBJ-MS」，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，32發（故事模式及滅絕模式）和34發（聯機模式，可使用改裝：延長彈匣增至51發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為68發（聯機模式）和96發（滅絕模式），最高攜彈量為224發（故事模式）、204發（聯機模式）和256發（滅絕模式），內置[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（聯機模式中描述為發射定制[钨](../Page/钨.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")）。故事模式之中被敵軍「聯邦」（Federation）所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加；滅絕模式時以1,500點取得。
   - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost
     Recon Phantoms）：命名為“CBJ-MS”，30發彈匣（使用延長彈匣後增至100發），攜彈量為180發。
   - 2014年—《[-{zh-cn:使命召唤：高级战争;
-    zh-tw:決勝時刻：先進戰爭;}-](https://zh.wikipedia.org/wiki/使命召唤：高级战争 "wikilink")》（Call
+    zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call
     of Duty: Advanced
     Warfare）：只在聯機模式中出現，以本槍為藍本，命名為「MP11」，白色和黑色槍身，32發（聯機模式可使用技能：延長彈匣增至48發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為96發（聯機模式），最高攜彈量為192發（聯機模式）。可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、混合式瞄準鏡、[自动对焦瞄準鏡](../Page/自动对焦.md "wikilink")、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[槍托](../Page/槍托.md "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克](https://zh.wikipedia.org/wiki/麦克 "wikilink")、快速抽出握把。
   - 2018年—《[少女前线](../Page/少女前线.md "wikilink")》（Girls
@@ -69,9 +69,9 @@
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")
   - [AO-46個人防衛武器](../Page/AO-46個人防衛武器.md "wikilink")
   - [PP-2000冲锋枪](../Page/PP-2000冲锋枪.md "wikilink")
-  - [SR-2衝鋒槍](https://zh.wikipedia.org/wiki/SR-2希瑟衝鋒槍 "wikilink")
-  - [GSh-18手槍](https://zh.wikipedia.org/wiki/GSh-18手槍 "wikilink")
-  - [MP-443烏鴉式手槍](https://zh.wikipedia.org/wiki/MP-443烏鴉式手槍 "wikilink")
+  - [SR-2衝鋒槍](../Page/SR-2希瑟衝鋒槍.md "wikilink")
+  - [GSh-18手槍](../Page/GSh-18手槍.md "wikilink")
+  - [MP-443烏鴉式手槍](../Page/MP-443烏鴉式手槍.md "wikilink")
   - [MSMC衝鋒槍](../Page/MSMC衝鋒槍.md "wikilink")
   - [VBR近接戰鬥武器](../Page/VBR近接戰鬥武器.md "wikilink")
   - [VBR個人防衛武器](../Page/VBR個人防衛武器.md "wikilink")

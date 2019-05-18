@@ -7,8 +7,8 @@ Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定
 ## 本作特色
 
 繼前作《[假面騎士Fourze THE MOVIE
-大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》加入東映系列的其他特攝作品，假面騎士以外的英雄共同演出後，本作同樣加入了《[閃電人](https://zh.wikipedia.org/wiki/闪电人 "wikilink")》(日原文《イナズマン》)
-、《伏魔三劍俠》(日原文《[アクマイザー3](https://zh.wikipedia.org/wiki/伏魔三剑侠 "wikilink")》)
+大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》加入東映系列的其他特攝作品，假面騎士以外的英雄共同演出後，本作同樣加入了《[閃電人](../Page/闪电人.md "wikilink")》(日原文《イナズマン》)
+、《伏魔三劍俠》(日原文《[アクマイザー3](../Page/伏魔三剑侠.md "wikilink")》)
 和《美少女假面Poitrine》(日原文《[美少女仮面ポワトリン](https://zh.wikipedia.org/wiki/美少女假面 "wikilink")》)三大特攝作品的主角演出。
 
 本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士
@@ -46,7 +46,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 ### 《假面騎士Fourze》
 
   -
-    主條目：[假面騎士Fourze\#登場人物](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表 "wikilink")
+    主條目：[假面騎士Fourze\#登場人物](../Page/假面騎士Fourze角色列表.md "wikilink")
 
 **如月弦太朗（）**（[福士蒼汰飾](../Page/福士蒼汰.md "wikilink")）
 
@@ -67,7 +67,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     曾就讀天之川學園高中，兼假面騎士部部長。
     五年後夢想成真，當上了史上最年輕的宇航員，駐守超國際太空站（超国際宇宙ステーション）。
 
-**朔田流星（）**（[吉澤亮飾](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
 
   -
     **假面騎士Meteor** 的變身者。
@@ -194,7 +194,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 ### 《假面騎士Wizard》
 
   -
-    主條目：[假面騎士Wizard\#登場人物](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表 "wikilink")
+    主條目：[假面騎士Wizard\#登場人物](../Page/假面騎士Wizard角色列表.md "wikilink")
 
 **操真晴人（）**（[白石隼也飾](../Page/白石隼也.md "wikilink")）
 
@@ -214,7 +214,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     操真晴人的助手，積極地進行協助但多數還是添亂。
     今次事件中跟隨晴人進入「Underworld」。
 
-**大門凛子（）**（[高山侑子飾](https://zh.wikipedia.org/wiki/高山侑子 "wikilink")）
+**大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
 
   -
     隸屬鳥井坂警察署的女警，經常支援操真晴人的行動。
@@ -296,7 +296,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 <!-- end list -->
 
-  - **假面骑士Meteor**（替身演員：、CV：[吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+  - **假面骑士Meteor**（替身演員：、CV：[吉澤亮](../Page/吉澤亮.md "wikilink")）
       - Meteor
       - Meteor Storm
 
@@ -370,7 +370,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 <!-- end list -->
 
-  - **假面騎士Beast**（替身演員：、CV：[永瀨匡](https://zh.wikipedia.org/wiki/永瀨匡 "wikilink")）
+  - **假面騎士Beast**（替身演員：、CV：[永瀨匡](../Page/永瀨匡.md "wikilink")）
 
 <!-- end list -->
 
@@ -436,7 +436,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
 <!-- end list -->
 
-  - **Gara（）**（替身演出：、CV：[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")）
+  - **Gara（）**（替身演出：、CV：[三矢雄二](../Page/三矢雄二.md "wikilink")）
 
 <!-- end list -->
 
@@ -678,7 +678,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 
   - \* **Zaiderbeck（）**
     :由裝甲車利用超能力增幅器「Zaber」變化的巨大航空戰艦。
-    :源自另一特攝作品《[伏魔三劍俠](https://zh.wikipedia.org/wiki/伏魔三剑侠 "wikilink")》中的同名戰艦。
+    :源自另一特攝作品《[伏魔三劍俠](../Page/伏魔三剑侠.md "wikilink")》中的同名戰艦。
 
 ## 演員
 
@@ -687,8 +687,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   - 如月弦太朗 / 假面騎士Fourze - [福士蒼汰](../Page/福士蒼汰.md "wikilink") 飾/聲
   - 歌星賢吾 - [高橋龍輝](../Page/高橋龍輝.md "wikilink") 飾
   - 城島悠木 - [清水富美加](../Page/清水富美加.md "wikilink") 飾
-  - 朔田流星 / 假面騎士Meteor -
-    [吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink") 飾/聲
+  - 朔田流星 / 假面騎士Meteor - [吉澤亮](../Page/吉澤亮.md "wikilink") 飾/聲
   - 風城美羽 -  飾
   - 大文字隼 -  飾
   - 野座間友子 - [志保](../Page/志保.md "wikilink") 飾
@@ -715,7 +714,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   - 操真晴人 / 幪面超人Wizard - [白石隼也](../Page/白石隼也.md "wikilink") 飾/聲
   - 曆 - [奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") 飾
   - 輪島繁 - 小倉久寬 飾
-  - 大門凛子 - [高山侑子](https://zh.wikipedia.org/wiki/高山侑子 "wikilink") 飾
+  - 大門凛子 - [高山侑子](../Page/高山侑子.md "wikilink") 飾
   - 奈良瞬平 - [戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink") 飾
   - 美紗 / 美杜莎 -  飾/聲
   - 雄吾 / 菲尼克斯 -  飾/聲
@@ -739,13 +738,12 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   - Gara - [三ツ矢雄二](https://zh.wikipedia.org/wiki/三ツ矢雄二 "wikilink")
   - 賢者 - [古川登志夫](../Page/古川登志夫.md "wikilink")
   - 其他假面騎士 -
-    [田丸篤志](https://zh.wikipedia.org/wiki/田丸篤志 "wikilink")、、[間島淳司](../Page/間島淳司.md "wikilink")
+    [田丸篤志](../Page/田丸篤志.md "wikilink")、、[間島淳司](../Page/間島淳司.md "wikilink")
   - 怪人 -
-    、、津留崎明廣、竹内裕美、[中澤匡智](https://zh.wikipedia.org/wiki/中澤匡智 "wikilink")、[山根剛](https://zh.wikipedia.org/wiki/山根剛 "wikilink")、木村大介、前川綾香
+    、、津留崎明廣、竹内裕美、[中澤匡智](../Page/中澤匡智.md "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
   - 蓋亞記憶體音聲 - [立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
   - 假面騎士OOO聯組音聲 - [串田晃](../Page/串田晃.md "wikilink")
-  - 假面騎士Beast（仁藤攻介） -
-    [永瀨匡](https://zh.wikipedia.org/wiki/永瀨匡 "wikilink")\[6\]
+  - 假面騎士Beast（仁藤攻介） - [永瀨匡](../Page/永瀨匡.md "wikilink")\[6\]
 
 ## 曲目
 
@@ -768,7 +766,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
 「**Life is SHOW TIME**」
 
   - 演唱：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink")（[Golden
-    Bomber](https://zh.wikipedia.org/wiki/Golden_Bomber "wikilink")）
+    Bomber](../Page/Golden_Bomber.md "wikilink")）
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作曲：
 

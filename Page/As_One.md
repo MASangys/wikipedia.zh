@@ -3,14 +3,14 @@ One**（，），[香港及](../Page/香港.md "wikilink")[韓國](https://zh.wi
 Star，聯同[郭富城御用排舞師](../Page/郭富城.md "wikilink")[Sunny
 Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年的全新跳唱女子組合。以亞洲為戰略導向，目標成為代表香港的亞洲人氣偶像天團。
 
-2015年經歷成員洗牌後，成員包括[Shin](https://zh.wikipedia.org/wiki/吳思佳 "wikilink")、[Nata](https://zh.wikipedia.org/wiki/陳苑澄 "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
+2015年經歷成員洗牌後，成員包括[Shin](../Page/吳思佳.md "wikilink")、[Nata](../Page/陳苑澄.md "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
 
 2017年Nata、Shin與太陽娛樂解約離開而退出組合，往後As One將暫以個人活動為主，Kayan接替Shin擔任隊長。
 
 2017年12月，As One正式解散，成員各自發展，Shin到韓國發展，而後來加入的陳嘉茵則到台灣發展\[1\]，2018年回港發展。
 
 2018年6月，As
-One前成員Nata參加[該年度的](https://zh.wikipedia.org/wiki/2018年度香港小姐競選 "wikilink")[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
+One前成員Nata參加[該年度的](../Page/2018年度香港小姐競選.md "wikilink")[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
 
 ## 團名由來
 
@@ -91,7 +91,7 @@ Ya》MV首播會暨簽唱會」於活動中首播粵語版MV及首次獻唱新�
 2017年12月，As
 One正式解散，成員各自發展，Shin到中國發展；陳嘉茵則到台灣發展，2018年簽約[夢想沙龍](https://zh.wikipedia.org/wiki/夢想沙龍 "wikilink")，並回港推出首支個人派台作品《大肆慶祝》；
 
-2018年6月，Nata報名參加了[2018年度香港小姐競選](https://zh.wikipedia.org/wiki/2018年度香港小姐競選 "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As
+2018年6月，Nata報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As
 One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
 
 ## 成員資料
@@ -493,8 +493,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") MTV
 
-  - 7月14日：[THE
-    SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")
+  - 7月14日：[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")
 
 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") Music
 
@@ -615,7 +614,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
   - 7月27日 - 2013香港春浪音樂節
   - 7月28日 - RoadShowYOUTH 型人主持新星賽 總決賽
   - 7月28日 - HK Dance Power Competition：Hip Hop 總決賽
-  - 8月2日 - 《[狂舞派](https://zh.wikipedia.org/wiki/狂舞派 "wikilink")》首映禮
+  - 8月2日 - 《[狂舞派](../Page/狂舞派.md "wikilink")》首映禮
   - 8月4日 - Alcatel event
   - 8月20日 - 電影宣傳
   - 8月26日 - 太陽飛馬 Press Con
@@ -866,10 +865,9 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 ### 2013年度
 
-  - [第9屆「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/第9屆「勁歌王」全球華人樂壇音樂盛典獲獎名單 "wikilink")
-    - 最佳新人組合
-  - [新城勁爆頒獎禮2013](https://zh.wikipedia.org/wiki/2013年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆新人王（組合）
+  - [第9屆「勁歌王」全球華人樂壇音樂盛典](../Page/第9屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") -
+    最佳新人組合
+  - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新人王（組合）
   - [IFPI香港唱片銷量大獎2013](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2013 "wikilink")
     - 最暢銷本地新人組合
 
@@ -877,10 +875,9 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
   - 我最愛華語歌曲頒獎禮2014 - M21完全青年‧我最愛華語歌曲獎
   - 我最愛華語歌曲頒獎禮2014 - M21完全青年‧我最愛華語組合銀獎
-  - [新城勁爆頒獎禮2014](https://zh.wikipedia.org/wiki/2014年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆跳舞歌曲《New Girl》
-  - [新城勁爆頒獎禮2014](https://zh.wikipedia.org/wiki/2014年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆組合
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
+    新城勁爆跳舞歌曲《New Girl》
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
   - [第10屆「勁歌王」全球華人樂壇音樂盛典](../Page/第10屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
     - 飛躍組合
 

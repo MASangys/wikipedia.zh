@@ -1,6 +1,6 @@
 《**Follow
 Me**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")3张[单曲](../Page/单曲.md "wikilink")，於2012年10月3日由[rhythm
-zone发售](../Page/rhythm_zone.md "wikilink")。
+zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@ zone发售](../Page/rhythm_zone.md "wikilink")。
     Version）》是E-girls第2首翻唱歌曲，原唱者為[Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Follow Me》的Music Video。
   - 在10月15日於公信榜单曲週排行榜取得第2位，是E-girls出道以來銷量排名最高的單曲。
-  - 在[第64回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第64回NHK紅白歌合戰 "wikilink")（**Follow
+  - 在[第64回NHK紅白歌合戰以組曲形式演唱](../Page/第64回NHK紅白歌合戰.md "wikilink")（**Follow
     Me** + [滿懷歉意的Kissing
     You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")）
 
@@ -25,7 +25,7 @@ zone发售](../Page/rhythm_zone.md "wikilink")。
       - [Dream](https://zh.wikipedia.org/wiki/Dream "wikilink")：
       - [Happiness](../Page/Happiness_\(組合\).md "wikilink")：[SAYAKA](https://zh.wikipedia.org/wiki/SAYAKA "wikilink")、[楓](https://zh.wikipedia.org/wiki/土橋楓 "wikilink")、、[YURINO](https://zh.wikipedia.org/wiki/鈴木結莉乃 "wikilink")
       - [Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")：[藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")、[中島美央](https://zh.wikipedia.org/wiki/中島美央 "wikilink")、、[坂東希](https://zh.wikipedia.org/wiki/坂東希 "wikilink")、[佐藤晴美](https://zh.wikipedia.org/wiki/佐藤晴美 "wikilink")
-      - bunny：、[武田杏香](https://zh.wikipedia.org/wiki/武田杏香 "wikilink")、[石井杏奈](https://zh.wikipedia.org/wiki/石井杏奈 "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
+      - bunny：、[武田杏香](https://zh.wikipedia.org/wiki/武田杏香 "wikilink")、[石井杏奈](../Page/石井杏奈.md "wikilink")、[山口乃乃華](https://zh.wikipedia.org/wiki/山口乃乃華 "wikilink")
       - EGD：[須田安娜](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")、[生田梨沙](https://zh.wikipedia.org/wiki/生田梨沙 "wikilink")
 
 <!-- end list -->

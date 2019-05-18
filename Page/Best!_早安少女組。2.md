@@ -1,5 +1,5 @@
 《**Best\!
-早安少女組。2**》（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")2枚精選專輯，於2004年3月31日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+早安少女組。2**》（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")2枚精選專輯，於2004年3月31日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

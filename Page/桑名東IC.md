@@ -1,4 +1,4 @@
-**桑名東IC**（平假名：くわなひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[桑名市的](../Page/桑名市.md "wikilink")[東名阪自動車道之](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**桑名東IC**（平假名：くわなひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[桑名市的](../Page/桑名市.md "wikilink")[東名阪自動車道之](../Page/東名阪自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1975年10月22日 -
-    [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[蟹江IC開通](https://zh.wikipedia.org/wiki/蟹江IC "wikilink")，此交流道也同時啟用。
+    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[蟹江IC開通](https://zh.wikipedia.org/wiki/蟹江IC "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -37,7 +37,7 @@
 
 ## 鄰近設施
 
-  - [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")
+  - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
     (27)[長島IC](https://zh.wikipedia.org/wiki/長島IC_\(東名阪自動車道\) "wikilink")
     - (28)**桑名東IC** -
     [大山田PA](https://zh.wikipedia.org/wiki/大山田PA "wikilink")

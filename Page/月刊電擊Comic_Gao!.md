@@ -4,21 +4,21 @@ Works所發行的一本的](../Page/ASCII_Media_Works.md "wikilink")[少年漫�
 ## 休刊時連載的作品
 
 粗體字作品大部分轉到《電撃大王》連載，其中「仕上げに殺陣あり」則轉到《[Comic
-Gum](https://zh.wikipedia.org/wiki/Comic_Gum "wikilink")》連載。
+Gum](../Page/Comic_Gum.md "wikilink")》連載。
 
   - **[艾莉森](../Page/艾莉森.md "wikilink")**（[晴瀬ひろき](https://zh.wikipedia.org/wiki/晴瀬ひろき "wikilink")、原作：[時雨沢恵一](https://zh.wikipedia.org/wiki/時雨沢恵一 "wikilink")）
   - [犬神！](../Page/犬神！.md "wikilink")（[松沢まり](https://zh.wikipedia.org/wiki/松沢まり "wikilink")、原作：[有沢まみず](https://zh.wikipedia.org/wiki/有沢まみず "wikilink")）
   - **[ef - a fairy tale of the
-    two.](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")**（[雅樹里](https://zh.wikipedia.org/wiki/雅樹里 "wikilink")、原作：[御影](https://zh.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")）
+    two.](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")**（[雅樹里](https://zh.wikipedia.org/wiki/雅樹里 "wikilink")、原作：[御影](https://zh.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")、[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")）
   - **[Venus Versus
     Virus](../Page/Venus_Versus_Virus.md "wikilink")**（[鈴見敦](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")）
   - [エアリセ](https://zh.wikipedia.org/wiki/エアリセ "wikilink")（[榎宮祐](../Page/榎宮祐.md "wikilink")）
   - [逆走少女-終わらない夏休み](https://zh.wikipedia.org/wiki/逆走少女-終わらない夏休み "wikilink")（[ともぞカヲル](https://zh.wikipedia.org/wiki/ともぞカヲル "wikilink")、作：[大塚英志](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")、脚本：[久保田浩康](https://zh.wikipedia.org/wiki/久保田浩康 "wikilink")）
   - [月面兔兵器米娜](../Page/月面兔兵器米娜.md "wikilink")（作画：[ナイロン](https://zh.wikipedia.org/wiki/ナイロン\(漫画家\) "wikilink")）
   - **[鋼鐵新娘](https://zh.wikipedia.org/wiki/鋼鐵新娘 "wikilink")**（[いわさきまさかず](https://zh.wikipedia.org/wiki/いわさきまさかず "wikilink")）
-  - **[天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")**（[森小太郎](https://zh.wikipedia.org/wiki/森小太郎 "wikilink")、原作：[GAINAX](https://zh.wikipedia.org/wiki/ガイナックス "wikilink")）
+  - **[天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")**（[森小太郎](../Page/森小太郎.md "wikilink")、原作：[GAINAX](https://zh.wikipedia.org/wiki/ガイナックス "wikilink")）
   - **[龍與虎](https://zh.wikipedia.org/wiki/龍與虎 "wikilink")**（[絶叫](https://zh.wikipedia.org/wiki/絶叫_\(漫画家\) "wikilink")、原作：[竹宮ゆゆこ](https://zh.wikipedia.org/wiki/竹宮ゆゆこ "wikilink")）
-  - **[仕上げに殺陣あり](https://zh.wikipedia.org/wiki/仕上げに殺陣あり "wikilink")**（[今ノ夜きよし](https://zh.wikipedia.org/wiki/今ノ夜きよし "wikilink")、原作：[中山文十郎](https://zh.wikipedia.org/wiki/中山文十郎 "wikilink")）
+  - **[仕上げに殺陣あり](https://zh.wikipedia.org/wiki/仕上げに殺陣あり "wikilink")**（[今ノ夜きよし](https://zh.wikipedia.org/wiki/今ノ夜きよし "wikilink")、原作：[中山文十郎](../Page/中山文十郎.md "wikilink")）
     → 『コミックガム』（ワニブックス刊）に移籍。
   - [でぃ・えっち・えぃ](https://zh.wikipedia.org/wiki/でぃ・えっち・えぃ "wikilink")（[谷村まりか](https://zh.wikipedia.org/wiki/谷村まりか "wikilink")、原作：[ゆうきりん](https://zh.wikipedia.org/wiki/ゆうきりん "wikilink")）
   - [ななついろ★ドロップス
@@ -54,7 +54,7 @@ Gum](https://zh.wikipedia.org/wiki/Comic_Gum "wikilink")》連載。
     FORCE](https://zh.wikipedia.org/wiki/ジャンクフォース "wikilink")（[剣祐介](https://zh.wikipedia.org/wiki/剣祐介 "wikilink")、原作：[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")）
   - [スウィートマイティーガールズ](https://zh.wikipedia.org/wiki/スウィートマイティーガールズ "wikilink")（[須田さぎり](https://zh.wikipedia.org/wiki/須田さぎり "wikilink")）
   - [ストレイ リトル
-    デビル](https://zh.wikipedia.org/wiki/ストレイ_リトル_デビル "wikilink")（[森小太郎](https://zh.wikipedia.org/wiki/森小太郎 "wikilink")）
+    デビル](https://zh.wikipedia.org/wiki/ストレイ_リトル_デビル "wikilink")（[森小太郎](../Page/森小太郎.md "wikilink")）
   - [SPEED
     GRAPHER](https://zh.wikipedia.org/wiki/SPEED_GRAPHER "wikilink")（[ともぞ](https://zh.wikipedia.org/wiki/ともぞ "wikilink")、原作：[GONZO](https://zh.wikipedia.org/wiki/ゴンゾ "wikilink")）
   - [急救超人兵團](../Page/急救超人兵團.md "wikilink")（矢上裕）
@@ -85,7 +85,7 @@ Gum](https://zh.wikipedia.org/wiki/Comic_Gum "wikilink")》連載。
   - [HAUNTEDじゃんくしょん](https://zh.wikipedia.org/wiki/HAUNTEDじゃんくしょん "wikilink")（[夢来鳥ねむ](https://zh.wikipedia.org/wiki/夢来鳥ねむ "wikilink")）
   - [みずほちゃんNONSTOP\!](https://zh.wikipedia.org/wiki/みずほちゃんNONSTOP! "wikilink")（[山口りな](https://zh.wikipedia.org/wiki/山口りな "wikilink")）
   - [闇世のトランフ](https://zh.wikipedia.org/wiki/闇世のトランフ "wikilink")（上田宏）
-  - [リヴァイアサン](https://zh.wikipedia.org/wiki/リヴァイアサン_\(漫画\) "wikilink")（[衣谷遊](https://zh.wikipedia.org/wiki/衣谷遊 "wikilink")、原作：[大塚英志](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")）
+  - [リヴァイアサン](https://zh.wikipedia.org/wiki/リヴァイアサン_\(漫画\) "wikilink")（[衣谷遊](../Page/衣谷遊.md "wikilink")、原作：[大塚英志](https://zh.wikipedia.org/wiki/大塚英志 "wikilink")）
   - [RELEASE](https://zh.wikipedia.org/wiki/RELEASE "wikilink")（[相楽直哉](https://zh.wikipedia.org/wiki/相楽直哉 "wikilink")、原作：[為我井徹](https://zh.wikipedia.org/wiki/為我井徹 "wikilink")）
   - [ローンナイト2](https://zh.wikipedia.org/wiki/ローンナイト2 "wikilink")（[吉富昭仁](../Page/吉富昭仁.md "wikilink")）
 

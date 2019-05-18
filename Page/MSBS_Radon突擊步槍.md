@@ -2,7 +2,7 @@
 Modułowy System Broni Strzeleckiej kalibru 5,56
 mm）是一款[波蘭製的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，預料將會取代[wz.
 1988鉭式突擊步槍](https://zh.wikipedia.org/wiki/wz._1988鉭式突擊步槍 "wikilink")、[wz.
-1996鈹式突擊步槍和其衍生型成為](../Page/wz._1996鈹式突擊步槍.md "wikilink")[波蘭軍隊的下一代制式步槍](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")。
+1996鈹式突擊步槍和其衍生型成為](https://zh.wikipedia.org/wiki/wz._1996鈹式突擊步槍 "wikilink")[波蘭軍隊的下一代制式步槍](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")。
 
 2018年2月，區域防衛部隊的第42輕步兵營成為首支裝備MSBS步槍的部隊。
 
@@ -24,7 +24,7 @@ Radon由[拉多姆兵工廠進入批量生產](https://zh.wikipedia.org/wiki/拉
 
 ### 電子遊戲
 
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：型号为MSBS无托式款，被命名为“MSBS
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为MSBS无托式款，被命名为“MSBS
     Radon”，哑黑色枪身，30发弹匣。为步枪手专用武器，在商城内贩卖，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、突击消音器、[突击制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、突击握把、突击握把架、[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[ELCAN
     SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon
@@ -33,7 +33,7 @@ Radon由[拉多姆兵工廠進入批量生產](https://zh.wikipedia.org/wiki/拉
     zh-tw:武裝行動;}-3](../Page/武裝行動3.md "wikilink")》（ArmA
     3）：型号为MSBS标准款，被命名为“MX 6.5MM”，游戏中被驻扎在欧洲的美国陆军部队所使用。
   - 2013年—《[-{zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影;}-](https://zh.wikipedia.org/wiki/決勝時刻：魅影 "wikilink")》（Call
+    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
     of Duty:
     Ghosts）：型号为MSBS无托式款，被命名为“MSBS”，只有[三發點放功能](../Page/三發點放.md "wikilink")。故事模式中被美国精锐部队【-{zh-cn:幽灵;
     zh-tw:魅影;}-】以及敌方阵营【联邦】所使用。

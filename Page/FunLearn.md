@@ -16,7 +16,7 @@
 
 ### 網路影音教學
 
-目前Funlearn網站中錄製收集了國中和高中[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物等科目的教學影片與相對應的講義內容](../Page/生物.md "wikilink")，每份課程依照單元歸於不同討論頁，使用者可從站內下載教師提供的講義後連結至[Youtube觀賞一系列的影音內容](../Page/Youtube.md "wikilink")。
+目前Funlearn網站中錄製收集了國中和高中[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物等科目的教學影片與相對應的講義內容](../Page/生物.md "wikilink")，每份課程依照單元歸於不同討論頁，使用者可從站內下載教師提供的講義後連結至[Youtube觀賞一系列的影音內容](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
 (注明：國中在大陸稱為初中）
 
   - 國中數學影音區

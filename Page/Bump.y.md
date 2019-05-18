@@ -48,7 +48,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/宮武美櫻" title="wikilink">宮武美櫻</a></strong></p></td>
+<td><p><strong><a href="../Page/宮武美櫻.md" title="wikilink">宮武美櫻</a></strong></p></td>
 <td><p>みやたけ みお</p></td>
 <td></td>
 <td><p>鹿兒島縣</p></td>
@@ -60,7 +60,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 <td><p>妹妹:宮武祭</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/高月彩良" title="wikilink">高月彩良</a></strong></p></td>
+<td><p><strong><a href="../Page/高月彩良.md" title="wikilink">高月彩良</a></strong></p></td>
 <td><p>たかつき さら</p></td>
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>

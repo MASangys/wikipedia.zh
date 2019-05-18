@@ -54,7 +54,7 @@
       - 2月
         - 發展太陽光發電事業。並開始向企業及公司行號提供[太陽能發電建設及設置](https://zh.wikipedia.org/wiki/太陽能發電 "wikilink")。
       - 2月17日 -
-        發行對應[iPhone及](../Page/iPhone.md "wikilink")[iPad的電子書籍app](https://zh.wikipedia.org/wiki/iPad "wikilink")「DMM
+        發行對應[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的電子書籍app](https://zh.wikipedia.org/wiki/iPad "wikilink")「DMM
         Books」。
       - 4月 - 手機版線上遊戲開始營運。
       - 5月 - 開始提供 DMM × Charirot 服務。
@@ -64,7 +64,7 @@
   - 2013年
       - 4月23日 -
         由[角川遊戲開發](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")、提供及營運的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")《[艦隊Collection
-        -艦Colle-](https://zh.wikipedia.org/wiki/艦隊Collection "wikilink")》的會員數突破100萬。
+        -艦Colle-](../Page/艦隊Collection.md "wikilink")》的會員數突破100萬。
       - 5月 - 線上英語教學平台 「DMM 英會話」提供服務。
       - 7月 -
         開始提供[3D印刷服務](../Page/3D打印.md "wikilink")。並將OVERRIDE股份有限公司（現・DMM.com
@@ -99,7 +99,7 @@
         THEATER」於[横浜駅西口開幕](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")。海外版DMM.make
         STORE開始營運。
       - 10月 - 開始提供[PlayStation
-        4用影片串流服務](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")。
+        4用影片串流服務](../Page/PlayStation_4.md "wikilink")。
   - 2016年
       - 1月 - 收購遊戲評論網站「hachima起稿」 (はちま起稿)。並於同年10月轉賣給INSITE股份有限公司。
       - 1月 - DMM P-TOWN 廣告業務由原TIS股份有限公司轉回DMM.com股份有限公司管理。
@@ -115,7 +115,7 @@
         Now」的兒童保護法相關報告書內提出指摘，所有於影片製作時未滿18歲的藝人及女優、[寫真女星等所有演出的影像及發佈流通全面停止](https://zh.wikipedia.org/wiki/寫真 "wikilink")。
       - 10月 - 售出成人影像製作公司CA集團並獨立，DMM集團將不再製作、拍攝成人影像業務。
       - 12月6日 -
-        創辦人龜山敬司會長於公司內部進行視訊發表及對外發表新聞稿，將於2017年1月4日由[pixiv創辦人片桐孝憲接任社長](../Page/pixiv.md "wikilink")。
+        創辦人龜山敬司會長於公司內部進行視訊發表及對外發表新聞稿，將於2017年1月4日由[pixiv創辦人片桐孝憲接任社長](https://zh.wikipedia.org/wiki/pixiv "wikilink")。
       - 12月 - 提供企業及個人用戶辦公室、家庭清掃服務DMM Okan(家事老媽)正式提供服務。
       - 12月 -
         成立一般[社團法人DMM學院](https://zh.wikipedia.org/wiki/社團法人 "wikilink")。
@@ -124,7 +124,7 @@
       - 1月27日 - DMM.com取得PicApp股份有限公司及Nana Music的全部股權並納入集團內成為子公司。
       - 2月 - DMM.com取得Synapse股份有限公司全部股權並納入集團內成為子公司。
       - 3月 -
-        集團總部由惠比壽搬遷至日本[東京港區](https://zh.wikipedia.org/wiki/東京港 "wikilink")[六本木](../Page/六本木.md "wikilink")「六本木Grand
+        集團總部由惠比壽搬遷至日本[東京港區](../Page/東京港.md "wikilink")[六本木](../Page/六本木.md "wikilink")「六本木Grand
         Tower」。
       - 4月 -
         DMM.com取得於[盧旺達共和國進行軟體開發及營運的HEHE](https://zh.wikipedia.org/wiki/盧旺達 "wikilink")

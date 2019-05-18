@@ -1,4 +1,4 @@
-**四日市東IC**（平假名：よっかいちひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市的](../Page/四日市市.md "wikilink")[東名阪自動車道之](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**四日市東IC**（平假名：よっかいちひがしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市的](../Page/四日市市.md "wikilink")[東名阪自動車道之](../Page/東名阪自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1971年8月9日 -
-    [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[四日市IC開通](../Page/四日市IC_\(三重縣\).md "wikilink")，此交流道也同時啟用。
+    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[四日市IC開通](../Page/四日市IC_\(三重縣\).md "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -32,7 +32,7 @@
 
   - [四日市大學](https://zh.wikipedia.org/wiki/四日市大學 "wikilink")
   - [東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink") 四日市工廠
-  - [四日市港](https://zh.wikipedia.org/wiki/四日市港 "wikilink") 霞浦地區
+  - [四日市港](../Page/四日市港.md "wikilink") 霞浦地區
   - [三岐鐵道三岐線](https://zh.wikipedia.org/wiki/三岐鐵道三岐線 "wikilink")[曉學園前站](https://zh.wikipedia.org/wiki/曉學園前站 "wikilink")
   - [大和運輸](https://zh.wikipedia.org/wiki/大和運輸 "wikilink") 三重主管分店
   - 垂坂公園、羽津山綠地
@@ -41,7 +41,7 @@
 
 ## 鄰近設施
 
-  - [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")
+  - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
     (29)[桑名IC](https://zh.wikipedia.org/wiki/桑名IC "wikilink") -
     (29-1)[四日市JCT](https://zh.wikipedia.org/wiki/四日市JCT "wikilink")
     - (30)**四日市東IC** -

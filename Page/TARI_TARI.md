@@ -142,9 +142,9 @@ Tari》的資訊信息
   - 音樂︰[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")
   - 音樂製作︰[Lantis](../Page/Lantis.md "wikilink")
   - 製作人：大島靖、小田、岡村武真、川村仁、石垣毅、堀川憲司、和田洋介
-  - 企劃製作：[永谷敬之](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")
+  - 企劃製作：[永谷敬之](../Page/永谷敬之.md "wikilink")
   - 線上製作人：辻充仁
-  - 動畫製作︰[P.A.WORKS](../Page/P.A.WORKS.md "wikilink")
+  - 動畫製作︰[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")
   - 製作︰[tari tari
     project](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
@@ -159,7 +159,7 @@ Tari》的資訊信息
 <!-- end list -->
 
   -
-    作詞、歌：[AiRI](https://zh.wikipedia.org/wiki/AiRI "wikilink")，作曲、編曲：[宮崎京一](https://zh.wikipedia.org/wiki/宮崎京一 "wikilink")
+    作詞、歌：[AiRI](../Page/AiRI.md "wikilink")，作曲、編曲：[宮崎京一](https://zh.wikipedia.org/wiki/宮崎京一 "wikilink")
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@ Tari》的資訊信息
 <!-- end list -->
 
   -
-    作詞：[riya](../Page/riya.md "wikilink")，作曲、編曲：濱口史郎
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")，作曲、編曲：濱口史郎
     歌（第2話（\#02 ED ver.））：宮本來夏（瀨戶麻沙美）&沖田紗羽（早見沙織）
     歌（第6話（\#06 ED ver.））：白浜坂高校合唱部
 
@@ -200,7 +200,7 @@ Tari》的資訊信息
 <!-- end list -->
 
   -
-    作詞：[riya](../Page/riya.md "wikilink")，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
 
 <!-- end list -->
 
@@ -224,7 +224,7 @@ Tari》的資訊信息
 <!-- end list -->
 
   -
-    作詞：[riya](../Page/riya.md "wikilink")，作曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")，編曲：濱口史郎，歌：白浜坂高校聲樂部
+    作詞：[riya](https://zh.wikipedia.org/wiki/riya "wikilink")，作曲：[菊地創](https://zh.wikipedia.org/wiki/菊地創 "wikilink")，編曲：濱口史郎，歌：白浜坂高校聲樂部
     《[真實之淚](https://zh.wikipedia.org/wiki/真实之泪_true_tears_\(动画\) "wikilink")》片頭曲。
 
 <!-- end list -->
@@ -455,28 +455,28 @@ Tari》的資訊信息
 
 ## 播放電視台
 
-| 播放地區                                                          | 播放電視台                                                         | 播放日期                                                  | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 播放電視網                                                     | 備註           |
-| ------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------ |
-| [神奈川縣](../Page/神奈川縣.md "wikilink")                            | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        | 2012年7月1日 - 9月23日                                     | 星期日 22時30分 - 23時00分                                                                                           | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") | 該部作品的故事舞台    |
-| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")           | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")       | 星期日 24時00分 - 24時30分                                   |                                                                                                               |                                                           |              |
-| [石川縣](../Page/石川縣.md "wikilink")                              | [石川電視台](https://zh.wikipedia.org/wiki/石川電視台 "wikilink")       | 星期日 25時50分 - 26時20分                                   | [富士電視網](../Page/富士電視網.md "wikilink")                                                                          |                                                           |              |
-| [東京都](../Page/東京都.md "wikilink")                              | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2012年7月2日 - 9月24日                                     | 星期一 22時30分 - 23時00分                                                                                           | 獨立UHF局                                                    |              |
-| [千葉縣](../Page/千葉縣.md "wikilink")                              | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | 星期一 25時30分 - 26時00分                                   |                                                                                                               |                                                           |              |
-| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")           | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期一 25時35分 - 26時05分                                   |                                                                                                               |                                                           |              |
-| [愛知縣](../Page/愛知縣.md "wikilink")                              | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期一 27時00分 - 27時30分                                   | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |              |
-| [富山縣](../Page/富山縣.md "wikilink")                              | [富山電視台](https://zh.wikipedia.org/wiki/富山電視台 "wikilink")       | 2012年7月6日 - 9月28日                                     | 星期五 26時35分 - 27時05分                                                                                           | 富士電視網                                                     | P.A.WORKS所在地 |
-| 日本全國                                                          | [Animax](../Page/Animax.md "wikilink")                        | 星期五 22時00分 - 22時30分                                   | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | 有重播                                                       |              |
-| 2012年7月7日 - 9月29日                                             | 星期六 22時30分 - 23時00分                                           | BS ANIMAX免費放送                                         |                                                                                                               |                                                           |              |
-| [萬代頻道](https://zh.wikipedia.org/wiki/萬代頻道 "wikilink")         | 星期六 23時00分 更新                                                 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                           |              |
-| VideoMarket                                                   |                                                               |                                                       |                                                                                                               |                                                           |              |
-| [NICONICO直播](../Page/NICONICO動畫.md "wikilink")                | 星期六 23時00分 - 23時30分                                           |                                                       |                                                                                                               |                                                           |              |
-| [NICONICO頻道](../Page/NICONICO動畫.md "wikilink")                | 星期六 23時30分 更新                                                 |                                                       |                                                                                                               |                                                           |              |
-| [Showtime](https://zh.wikipedia.org/wiki/Showtime "wikilink") | 2012年7月9日 - 10月1日                                             | 星期一 12時00分 更新                                         |                                                                                                               |                                                           |              |
+| 播放地區                                                              | 播放電視台                                                         | 播放日期                                                  | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 播放電視網                                                     | 備註           |
+| ----------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------ |
+| [神奈川縣](../Page/神奈川縣.md "wikilink")                                | [神奈川電視台](../Page/神奈川電視台.md "wikilink")                        | 2012年7月1日 - 9月23日                                     | 星期日 22時30分 - 23時00分                                                                                           | [獨立UHF局](https://zh.wikipedia.org/wiki/獨立UHF局 "wikilink") | 該部作品的故事舞台    |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")               | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")       | 星期日 24時00分 - 24時30分                                   |                                                                                                               |                                                           |              |
+| [石川縣](../Page/石川縣.md "wikilink")                                  | [石川電視台](https://zh.wikipedia.org/wiki/石川電視台 "wikilink")       | 星期日 25時50分 - 26時20分                                   | [富士電視網](../Page/富士電視網.md "wikilink")                                                                          |                                                           |              |
+| [東京都](../Page/東京都.md "wikilink")                                  | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2012年7月2日 - 9月24日                                     | 星期一 22時30分 - 23時00分                                                                                           | 獨立UHF局                                                    |              |
+| [千葉縣](../Page/千葉縣.md "wikilink")                                  | [千葉電視台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")       | 星期一 25時30分 - 26時00分                                   |                                                                                                               |                                                           |              |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")               | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期一 25時35分 - 26時05分                                   |                                                                                                               |                                                           |              |
+| [愛知縣](../Page/愛知縣.md "wikilink")                                  | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期一 27時00分 - 27時30分                                   | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |              |
+| [富山縣](../Page/富山縣.md "wikilink")                                  | [富山電視台](https://zh.wikipedia.org/wiki/富山電視台 "wikilink")       | 2012年7月6日 - 9月28日                                     | 星期五 26時35分 - 27時05分                                                                                           | 富士電視網                                                     | P.A.WORKS所在地 |
+| 日本全國                                                              | [Animax](../Page/Animax.md "wikilink")                        | 星期五 22時00分 - 22時30分                                   | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | 有重播                                                       |              |
+| 2012年7月7日 - 9月29日                                                 | 星期六 22時30分 - 23時00分                                           | BS ANIMAX免費放送                                         |                                                                                                               |                                                           |              |
+| [萬代頻道](../Page/萬代頻道.md "wikilink")                                | 星期六 23時00分 更新                                                 | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink") |                                                                                                               |                                                           |              |
+| VideoMarket                                                       |                                                               |                                                       |                                                                                                               |                                                           |              |
+| [NICONICO直播](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 星期六 23時00分 - 23時30分                                           |                                                       |                                                                                                               |                                                           |              |
+| [NICONICO頻道](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 星期六 23時30分 更新                                                 |                                                       |                                                                                                               |                                                           |              |
+| [Showtime](https://zh.wikipedia.org/wiki/Showtime "wikilink")     | 2012年7月9日 - 10月1日                                             | 星期一 12時00分 更新                                         |                                                                                                               |                                                           |              |
 
 ## 漫畫
 
 『[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](https://zh.wikipedia.org/wiki/尚村透 "wikilink")、作畫由[鍵空富燒擔當](https://zh.wikipedia.org/wiki/鍵空富燒 "wikilink")。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
+JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](../Page/尚村透.md "wikilink")、作畫由[鍵空富燒擔當](../Page/鍵空富燒.md "wikilink")。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
 
 ## 歌曲
 

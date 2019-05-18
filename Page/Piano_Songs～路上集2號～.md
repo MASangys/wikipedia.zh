@@ -60,7 +60,7 @@ Songs〜路上集2号〜**』是[日本](../Page/日本.md "wikilink")[創作歌
 12. **啟程的那一天…**<small>（旅立ちの日に…）</small>
     編曲・鋼琴：倉本裕基
       -
-        出自第1張迷你專輯『[從這個地方…](https://zh.wikipedia.org/wiki/從這個地方… "wikilink")』。
+        出自第1張迷你專輯『[從這個地方…](../Page/從這個地方….md "wikilink")』。
 
 ## 參考資料
 

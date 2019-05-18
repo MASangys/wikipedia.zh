@@ -32,7 +32,7 @@ Library。
 ## Ugomemo Hatena
 
 Ugomemo
-Hatena（）是基於[任天堂遊戲](../Page/任天堂.md "wikilink")[うごくメモ帳作成的](https://zh.wikipedia.org/wiki/うごくメモ帳 "wikilink")[手翻書分享服務](https://zh.wikipedia.org/wiki/手翻書 "wikilink")\[5\]，類似於[YouTube和](../Page/YouTube.md "wikilink")[deviantART](../Page/deviantART.md "wikilink")。
+Hatena（）是基於[任天堂遊戲](../Page/任天堂.md "wikilink")[うごくメモ帳作成的](https://zh.wikipedia.org/wiki/うごくメモ帳 "wikilink")[手翻書分享服務](https://zh.wikipedia.org/wiki/手翻書 "wikilink")\[5\]，類似於[YouTube和](../Page/YouTube.md "wikilink")[deviantART](https://zh.wikipedia.org/wiki/deviantART "wikilink")。
 
 ## 英語版Hatena
 

@@ -1,4 +1,4 @@
-**ios**是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了C++标准中的[流输入输出的](https://zh.wikipedia.org/wiki/iostream "wikilink")3个基类std::basic_ios、[std::ios_base](../Page/ios_base.md "wikilink")、[std::fpos](https://zh.wikipedia.org/wiki/fpos "wikilink")，以及一些作为manipulator的全局函数。一般std::ios_base与std::fpos定义在ios头文件包含的其它头文件中。
+**ios**是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了C++标准中的[流输入输出的](https://zh.wikipedia.org/wiki/iostream "wikilink")3个基类std::basic_ios、[std::ios_base](https://zh.wikipedia.org/wiki/ios_base "wikilink")、[std::fpos](https://zh.wikipedia.org/wiki/fpos "wikilink")，以及一些作为manipulator的全局函数。一般std::ios_base与std::fpos定义在ios头文件包含的其它头文件中。
 
 ## 模板类std::basic_ios
 

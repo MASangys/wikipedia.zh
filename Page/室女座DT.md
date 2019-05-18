@@ -5,7 +5,7 @@ AB**），是一個位於[室女座的](../Page/室女座.md "wikilink")[聯星�
 
 ## 參見
 
-  - [天龍座CM](https://zh.wikipedia.org/wiki/天龍座CM "wikilink")
+  - [天龍座CM](../Page/天龍座CM.md "wikilink")
   - [室女座QS](../Page/室女座QS.md "wikilink")
   - [巨蛇座NN](../Page/巨蛇座NN.md "wikilink")
   - [開普勒16](../Page/開普勒16.md "wikilink")

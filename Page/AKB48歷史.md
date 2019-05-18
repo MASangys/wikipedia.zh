@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - 12月16日，由於劇場舞台設備問題而無法進行公演，所以在沒有事先通知的情況下就召開了[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")。約50名觀眾參加，當時允許與喜歡的成員拍照合影\[9\]。
+  - 12月16日，由於劇場舞台設備問題而無法進行公演，所以在沒有事先通知的情況下就召開了[握手會](../Page/握手會.md "wikilink")。約50名觀眾參加，當時允許與喜歡的成員拍照合影\[9\]。
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   - 11月3－4日，在[日本青年館](../Page/日本青年館.md "wikilink")，召開了首次在劇場外演出的演唱會「[AKB48
-    1st演唱會「想見你～柱子沒了唷\!～」](https://zh.wikipedia.org/wiki/AKB48_1st演唱會「想見你～柱子沒了唷!～」 "wikilink")」\[21\]。
+    1st演唱會「想見你～柱子沒了唷\!～」](../Page/AKB48_1st演唱會「想見你～柱子沒了唷!～」.md "wikilink")」\[21\]。
 
 <!-- end list -->
 
@@ -95,7 +95,7 @@
 <!-- end list -->
 
   - 3月10日－4月1日，首場全國巡演「[AKB48
-    春季之全國小小巡演～路還遠著呢AKB48\!～](https://zh.wikipedia.org/wiki/AKB48_春季之全国小小巡演～路还远着呢AKB48!～ "wikilink")」在東京、名古屋、福岡和大阪召開。
+    春季之全國小小巡演～路還遠著呢AKB48\!～](../Page/AKB48_春季之全国小小巡演～路还远着呢AKB48!～.md "wikilink")」在東京、名古屋、福岡和大阪召開。
 
 <!-- end list -->
 
@@ -146,7 +146,7 @@
 
 <!-- end list -->
 
-  - 8月22日－23日，[日本武道館](../Page/日本武道館.md "wikilink")2日演唱會「[AKB48分身之術巡演／AKB104選拔成員組閣祭](https://zh.wikipedia.org/wiki/AKB48分身之術巡演／AKB104選拔成員組閣祭 "wikilink")」召開，發表了組閣（Team洗牌）結果。同時新設立隊長一職，Team
+  - 8月22日－23日，[日本武道館](../Page/日本武道館.md "wikilink")2日演唱會「[AKB48分身之術巡演／AKB104選拔成員組閣祭](../Page/AKB48分身之術巡演／AKB104選拔成員組閣祭.md "wikilink")」召開，發表了組閣（Team洗牌）結果。同時新設立隊長一職，Team
     A、Team K和Team
     B的隊長分別是[高橋南](../Page/高橋南.md "wikilink")、[秋元才加和](../Page/秋元才加.md "wikilink")[柏木由紀](../Page/柏木由紀.md "wikilink")。\[26\]
 
@@ -260,7 +260,7 @@
 
 <!-- end list -->
 
-  - 3月5日，在[握手會上宣布截至](https://zh.wikipedia.org/wiki/握手會 "wikilink")3月4日，第20張單曲《變成櫻花樹》銷量累計115萬張的消息。《變成櫻花樹》是繼第18張單曲《Beginner》以來，第二張銷售量突破百萬的單曲\[40\]。
+  - 3月5日，在[握手會上宣布截至](../Page/握手會.md "wikilink")3月4日，第20張單曲《變成櫻花樹》銷量累計115萬張的消息。《變成櫻花樹》是繼第18張單曲《Beginner》以來，第二張銷售量突破百萬的單曲\[40\]。
 
 <!-- end list -->
 
@@ -282,12 +282,12 @@
 
 <!-- end list -->
 
-  - 3月29日，[ORICON方面宣布AKB](../Page/ORICON.md "wikilink")48的專輯《神曲集》累計銷量突破了50萬，達50.1萬張，打破了日本本土女性組合榜單持續8年10個月\[52\]及女性組合榜單持續5年2個月\[53\]專輯銷量未有突破50萬張的局面，同時包括派生組合及板野友美的個人單曲在內的12首單曲進入TOP100\[54\]。同日，在官方博客上宣布預訂5月25日發售的第21張單曲收益的一部分將作爲地震救災捐款和將舉辦[AKB48第22張單曲選拔總選舉的消息](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")\[55\]。另外，宣布因地震延期發行第三張專輯《就是在這裡》\[56\]
+  - 3月29日，[ORICON方面宣布AKB](https://zh.wikipedia.org/wiki/ORICON "wikilink")48的專輯《神曲集》累計銷量突破了50萬，達50.1萬張，打破了日本本土女性組合榜單持續8年10個月\[52\]及女性組合榜單持續5年2個月\[53\]專輯銷量未有突破50萬張的局面，同時包括派生組合及板野友美的個人單曲在內的12首單曲進入TOP100\[54\]。同日，在官方博客上宣布預訂5月25日發售的第21張單曲收益的一部分將作爲地震救災捐款和將舉辦[AKB48第22張單曲選拔總選舉的消息](../Page/AKB48第22張單曲選拔總選舉.md "wikilink")\[55\]。另外，宣布因地震延期發行第三張專輯《就是在這裡》\[56\]
     新的發行日期確定爲6月8日\[57\]。
 
 <!-- end list -->
 
-  - 4月16日，在大阪市的[大阪巨蛋召開單曲](../Page/大阪巨蛋.md "wikilink")《變成櫻花樹》的全國[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")，當日參加歌迷累計約32,000名，創下了歷史記錄\[58\]。
+  - 4月16日，在大阪市的[大阪巨蛋召開單曲](../Page/大阪巨蛋.md "wikilink")《變成櫻花樹》的全國[握手會](../Page/握手會.md "wikilink")，當日參加歌迷累計約32,000名，創下了歷史記錄\[58\]。
 
 <!-- end list -->
 
@@ -350,11 +350,11 @@
 
 <!-- end list -->
 
-  - 8月2日，高橋南代表AKB48官方到訪台灣，吸引將近300名歌迷在台北[松山機場接機](https://zh.wikipedia.org/wiki/台北松山機場 "wikilink")，更在台北信義[誠品書店舉辦了](../Page/誠品書店.md "wikilink")2場[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")\[66\]。
+  - 8月2日，高橋南代表AKB48官方到訪台灣，吸引將近300名歌迷在台北[松山機場接機](https://zh.wikipedia.org/wiki/台北松山機場 "wikilink")，更在台北信義[誠品書店舉辦了](../Page/誠品書店.md "wikilink")2場[握手會](../Page/握手會.md "wikilink")\[66\]。
 
 <!-- end list -->
 
-  - 8月11日，根據當天發表的[ORICON一周書刊排行顯示](../Page/ORICON.md "wikilink")，於8月5日開始發售的寫真集《AKB48総選挙！水著サプライズ発表2011》的首周銷量為9萬3000本，在綜合部門初次登場就獲得首位。再次登頂成為歷代一位。
+  - 8月11日，根據當天發表的[ORICON一周書刊排行顯示](https://zh.wikipedia.org/wiki/ORICON "wikilink")，於8月5日開始發售的寫真集《AKB48総選挙！水著サプライズ発表2011》的首周銷量為9萬3000本，在綜合部門初次登場就獲得首位。再次登頂成為歷代一位。
 
 <!-- end list -->
 
@@ -458,7 +458,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 2月25日，柏木由紀訪台灣，在台北信義[誠品書店舉行](../Page/誠品書店.md "wikilink")[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")。翌日（2月26日），柏木由紀飛往香港，在[西九龍中心舉行了握手會](../Page/西九龍中心.md "wikilink")。
+  - 2月25日，柏木由紀訪台灣，在台北信義[誠品書店舉行](../Page/誠品書店.md "wikilink")[握手會](../Page/握手會.md "wikilink")。翌日（2月26日），柏木由紀飛往香港，在[西九龍中心舉行了握手會](../Page/西九龍中心.md "wikilink")。
 
 <!-- end list -->
 
@@ -491,7 +491,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 <!-- end list -->
 
   - 7月4日，北原里英紀訪台灣，在台北信義[誠品書店舉行](../Page/誠品書店.md "wikilink")《AKB48
-    台灣專門店》一週年記者會跟[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")。
+    台灣專門店》一週年記者會跟[握手會](../Page/握手會.md "wikilink")。
 
 <!-- end list -->
 
@@ -588,7 +588,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 <!-- end list -->
 
   - 2月1日，由[高橋榮樹導演的AKB](../Page/高橋榮樹.md "wikilink")48第三部[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")《[AKB48
-    笑淚交織](https://zh.wikipedia.org/wiki/AKB48_笑淚交織 "wikilink")》（）進行首映。[板野友美於電影訪問中透露將在](../Page/板野友美.md "wikilink")2013年內畢業離隊，並在首映會末尾上台表明畢業心聲，使不少在場歌迷痛哭\[85\]。
+    笑淚交織](../Page/AKB48_笑淚交織.md "wikilink")》（）進行首映。[板野友美於電影訪問中透露將在](../Page/板野友美.md "wikilink")2013年內畢業離隊，並在首映會末尾上台表明畢業心聲，使不少在場歌迷痛哭\[85\]。
 
 <!-- end list -->
 
@@ -616,12 +616,12 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 5月22日，第31張單曲《[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")》（）正式發行，並創下230萬張的最高出貨量紀錄\[89\]。發行當日結算銷售145萬881張，除了是當日的排行冠軍外，也順利超越AKB48自身的發行首日銷售紀錄、《仲夏的Sounds
+  - 5月22日，第31張單曲《[再見自由式](../Page/再見自由式.md "wikilink")》（）正式發行，並創下230萬張的最高出貨量紀錄\[89\]。發行當日結算銷售145萬881張，除了是當日的排行冠軍外，也順利超越AKB48自身的發行首日銷售紀錄、《仲夏的Sounds
     good\!》的1,170,554張。
 
 <!-- end list -->
 
-  - 6月5日，在日本武道馆举行“[AKB48团研究生演唱会“早推得胜”](https://zh.wikipedia.org/wiki/AKB48团研究生演唱会“早推得胜” "wikilink")。
+  - 6月5日，在日本武道馆举行“[AKB48团研究生演唱会“早推得胜”](../Page/AKB48团研究生演唱会“早推得胜”.md "wikilink")。
 
 <!-- end list -->
 
@@ -639,7 +639,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 <!-- end list -->
 
   - 8月8日，在上述巡演的大阪场公演中宣布将于11月10日在举行“AKB48集團选秀会议”（）\[91\]。
-  - 8月21日，第32張單曲《[戀愛的幸運餅乾](https://zh.wikipedia.org/wiki/戀愛的幸運餅乾 "wikilink")》（）發行。
+  - 8月21日，第32張單曲《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（）發行。
 
 <!-- end list -->
 
@@ -654,11 +654,11 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 9月18日，[AKB48第34張單曲選拔猜拳大會在日本武道館舉行](https://zh.wikipedia.org/wiki/AKB48第34張單曲選拔猜拳大會 "wikilink")，最终松井珠理奈取得了第一名。
+  - 9月18日，[AKB48第34張單曲選拔猜拳大會在日本武道館舉行](../Page/AKB48第34張單曲選拔猜拳大會.md "wikilink")，最终松井珠理奈取得了第一名。
 
 <!-- end list -->
 
-  - 10月30日，第33張單曲《[真心電流](https://zh.wikipedia.org/wiki/真心電流 "wikilink")》（）發行。
+  - 10月30日，第33張單曲《[真心電流](../Page/真心電流.md "wikilink")》（）發行。
 
 <!-- end list -->
 
@@ -671,11 +671,11 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 11月21日，《[戀愛的幸運餅乾](https://zh.wikipedia.org/wiki/戀愛的幸運餅乾 "wikilink")》进入了第55届[日本唱片大獎的候补名单](../Page/日本唱片大獎.md "wikilink")\[95\]。
+  - 11月21日，《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》进入了第55届[日本唱片大獎的候补名单](../Page/日本唱片大獎.md "wikilink")\[95\]。
 
 <!-- end list -->
 
-  - 11月25日，由NHK发表了组合将作为红组的一员连续五年第六次出演[第64回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第64回NHK紅白歌合戰 "wikilink")。
+  - 11月25日，由NHK发表了组合将作为红组的一员连续五年第六次出演[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")。
 
 <!-- end list -->
 
@@ -691,12 +691,12 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 ## 2014年
 
-  - 1月22日，第5張專輯《[未來軌跡](https://zh.wikipedia.org/wiki/未來軌跡 "wikilink")》（）發行。
+  - 1月22日，第5張專輯《[未來軌跡](../Page/未來軌跡.md "wikilink")》（）發行。
 
 <!-- end list -->
 
   - 1月23 - 26日，於東京巨蛋城表演廳舉辦「[AKB48 重溫時間 最佳曲目200
-    2014（200位-101位）](https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014 "wikilink")」。在初日的公演前記者會中宣布將增添第5組子團「Team
+    2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」。在初日的公演前記者會中宣布將增添第5組子團「Team
     8」，計畫要從全國47都道府縣中各別選出代表參加甄選，並強調她們將成為「近距離的偶像」，未來會走遍全國和粉絲見面，交通車輛則由[TOYOTA全面支援](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")\[98\]。另外在第四日演唱會中宣布將於2月24日舉辦「[AKB48集團大組閣祭](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")」\[99\]。
 
 <!-- end list -->
@@ -705,7 +705,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 2月26日，第35張單曲《[勇往直前](https://zh.wikipedia.org/wiki/勇往直前_\(AKB48單曲\) "wikilink")》（）發行。
+  - 2月26日，第35張單曲《[勇往直前](../Page/勇往直前_\(AKB48單曲\).md "wikilink")》（）發行。
 
 <!-- end list -->
 
@@ -726,15 +726,15 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 <!-- end list -->
 
   - 4月6日，於[埼玉超級競技場舉辦的](../Page/埼玉超級競技場.md "wikilink")[AKB48 重溫時間 最佳曲目200
-    2014（100位-1位）中宣布各隊千秋樂與初日的時間表](https://zh.wikipedia.org/wiki/AKB48_重溫時間_最佳曲目200_2014 "wikilink")\[108\]。
+    2014（100位-1位）中宣布各隊千秋樂與初日的時間表](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")\[108\]。
 
 <!-- end list -->
 
-  - 5月21日，第36張單曲《[拉布拉多獵犬](https://zh.wikipedia.org/wiki/拉布拉多獵犬_\(AKB48單曲\) "wikilink")》（）發行。
+  - 5月21日，第36張單曲《[拉布拉多獵犬](../Page/拉布拉多獵犬_\(AKB48單曲\).md "wikilink")》（）發行。
 
 <!-- end list -->
 
-  - 5月25日，於[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[瀧澤市](https://zh.wikipedia.org/wiki/瀧澤市 "wikilink")舉辦的[全國握手會中](https://zh.wikipedia.org/wiki/握手會 "wikilink")，發生震驚日本社會的「[AKB48握手會傷人事件](https://zh.wikipedia.org/wiki/AKB48握手會傷人事件 "wikilink")」，在事件中，[川榮李奈與](../Page/川榮李奈.md "wikilink")[入山杏奈遭遇歹徒以鋸齒狀利刃攻擊](../Page/入山杏奈.md "wikilink")，造成了川榮右手拇指骨折與撕裂傷，而入山則是右手小指骨折與撕裂傷、頭部也有受傷，此外場內也有一名工作人員負傷，犯人當場被逮捕，是AKB48舉辦握手會以來所遭遇最大的安全事故\[109\]\[110\]，原本預定於26日舉行的AKB48
+  - 5月25日，於[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[瀧澤市](https://zh.wikipedia.org/wiki/瀧澤市 "wikilink")舉辦的[全國握手會中](../Page/握手會.md "wikilink")，發生震驚日本社會的「[AKB48握手會傷人事件](../Page/AKB48握手會傷人事件.md "wikilink")」，在事件中，[川榮李奈與](../Page/川榮李奈.md "wikilink")[入山杏奈遭遇歹徒以鋸齒狀利刃攻擊](../Page/入山杏奈.md "wikilink")，造成了川榮右手拇指骨折與撕裂傷，而入山則是右手小指骨折與撕裂傷、頭部也有受傷，此外場內也有一名工作人員負傷，犯人當場被逮捕，是AKB48舉辦握手會以來所遭遇最大的安全事故\[109\]\[110\]，原本預定於26日舉行的AKB48
     Team
     4公演也因此取消\[111\]，劇場總經理茅野忍也於個人Blog上表示未來將會對成員的心理輔導視為最優先考量\[112\]，而川榮與入山經過治療後已於26日出院\[113\]。
 
@@ -748,7 +748,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 8月18日－20日，於東京巨蛋舉辦「[AKB48集團東京巨蛋演唱會〜不會嗎？不會嗎？絕對不會發表畢業嗎？～](https://zh.wikipedia.org/wiki/AKB48集團東京巨蛋演唱會〜不會嗎？不會嗎？絕對不會發表畢業嗎？～ "wikilink")」，其中在18號的場次是AKB48首次在東京巨蛋單獨演出，此外20號的演唱會是AKB48集團第十場在東京巨蛋舉行的演唱會，打破由[瑪麗亞·凱莉所保持的女性藝人](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")\[117\]於東京巨蛋開唱次數最多的紀錄\[118\]，此外也達成女性藝人首次能在東京巨蛋連續三年開唱的紀錄\[119\]。
+  - 8月18日－20日，於東京巨蛋舉辦「[AKB48集團東京巨蛋演唱會〜不會嗎？不會嗎？絕對不會發表畢業嗎？～](https://zh.wikipedia.org/wiki/AKB48集團東京巨蛋演唱會〜不會嗎？不會嗎？絕對不會發表畢業嗎？～ "wikilink")」，其中在18號的場次是AKB48首次在東京巨蛋單獨演出，此外20號的演唱會是AKB48集團第十場在東京巨蛋舉行的演唱會，打破由[瑪麗亞·凱莉所保持的女性藝人](../Page/瑪麗亞·凱莉.md "wikilink")\[117\]於東京巨蛋開唱次數最多的紀錄\[118\]，此外也達成女性藝人首次能在東京巨蛋連續三年開唱的紀錄\[119\]。
 
 <!-- end list -->
 
@@ -765,7 +765,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 11月26日，第38張單曲《[希望無限](https://zh.wikipedia.org/wiki/希望無限 "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，本次除AKB48入圍外，姐妹團SKE48、NMB48與HKT48皆入選其中，是AKB48集團首次全團皆獲邀登上紅白歌合戰的舞台\[123\]。
+  - 11月26日，第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，本次除AKB48入圍外，姐妹團SKE48、NMB48與HKT48皆入選其中，是AKB48集團首次全團皆獲邀登上紅白歌合戰的舞台\[123\]。
 
 <!-- end list -->
 
@@ -782,12 +782,12 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 ## 2015年
 
   - 1月21日－25日，於東京巨蛋城表演廳舉辦「[AKB48 重溫時間 最佳曲目1035
-    2015](../Page/AKB48_重溫時間_最佳曲目1035_2015.md "wikilink")」，首次將過去所發表的1,035首48集團系列歌曲進行總排名\[127\]，此外在最終日的晚場演唱會上，披露將於日本[北陸地方北端的](../Page/北陸地方.md "wikilink")[新潟市成立AKB](../Page/新潟市.md "wikilink")48第七個\[128\]姊妹團「[NGT48](https://zh.wikipedia.org/wiki/NGT48 "wikilink")」，並將於3月份開始招募一期生成員，10月1日成立NGT48劇場，此外並宣布幾項人事異動，SKE48劇場經理候補生[今村悅朗移籍至NGT](https://zh.wikipedia.org/wiki/今村悅朗 "wikilink")48擔任劇場經理，AKB48劇場經理[湯淺洋移籍至SKE](https://zh.wikipedia.org/wiki/湯淺洋 "wikilink")48擔任劇場經理，SKE48劇場經理研究生[芝智也升格擔任AKB](https://zh.wikipedia.org/wiki/芝智也 "wikilink")48劇場經理\[129\]。
+    2015](../Page/AKB48_重溫時間_最佳曲目1035_2015.md "wikilink")」，首次將過去所發表的1,035首48集團系列歌曲進行總排名\[127\]，此外在最終日的晚場演唱會上，披露將於日本[北陸地方北端的](../Page/北陸地方.md "wikilink")[新潟市成立AKB](../Page/新潟市.md "wikilink")48第七個\[128\]姊妹團「[NGT48](../Page/NGT48.md "wikilink")」，並將於3月份開始招募一期生成員，10月1日成立NGT48劇場，此外並宣布幾項人事異動，SKE48劇場經理候補生[今村悅朗移籍至NGT](https://zh.wikipedia.org/wiki/今村悅朗 "wikilink")48擔任劇場經理，AKB48劇場經理[湯淺洋移籍至SKE](https://zh.wikipedia.org/wiki/湯淺洋 "wikilink")48擔任劇場經理，SKE48劇場經理研究生[芝智也升格擔任AKB](https://zh.wikipedia.org/wiki/芝智也 "wikilink")48劇場經理\[129\]。
   - 2月28日，「打工AKB」企劃結束\[130\]。
   - 3月4日，第39張單曲《[Green
-    Flash](https://zh.wikipedia.org/wiki/Green_Flash_\(AKB48單曲\) "wikilink")》發行。
+    Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》發行。
   - 3月25日－26日，於埼玉超級競技場舉辦「[AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～](https://zh.wikipedia.org/wiki/AKB48年輕成員全國巡迴演唱會～未來是由現在構成的～ "wikilink")」與「[AKB48春季單獨演唱會～次期總現正修行中！～](https://zh.wikipedia.org/wiki/AKB48春季單獨演唱會～次期總現正修行中！～ "wikilink")」兩場演唱會\[131\]\[132\]，並且在第二日的單獨演唱會中宣布了新一波的組閣人事異動\[133\]。
-  - 5月10日，於[有明競技場舉辦](https://zh.wikipedia.org/wiki/有明競技場 "wikilink")「第二屆AKB48集團選秀會議\[134\]\[135\]。」
+  - 5月10日，於[有明競技場舉辦](../Page/有明競技場.md "wikilink")「第二屆AKB48集團選秀會議\[134\]\[135\]。」
   - 5月20日，第40張單曲《[我們不戰鬥](../Page/我們不戰鬥.md "wikilink")》（）發行，為AKB第27張冠軍單曲，至6月共計173.4萬張銷量，亦創下日本Oricon單曲榜單日最高銷售量1,472,375張之紀錄\[136\]。
   - 6月6日，於福岡巨蛋舉辦「[AKB48第41張單曲選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉 "wikilink")」\[137\]，冠軍為HKT48成員指原莉乃。
   - 8月6日，AKB48於台灣進行徵選，秋元康選出17位合格者，合格者經訓練後將再進行最後審查。
@@ -796,9 +796,9 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
   - 8月26日，第41張單曲《[Halloween
     Night](../Page/Halloween_Night.md "wikilink")》發行。首周銷量達127.8萬張，為AKB48第23張銷量破百萬及連續第28張居週榜第一名的單曲\[139\]。
   - 9月16日，於[橫濱競技場舉行](https://zh.wikipedia.org/wiki/橫濱競技場 "wikilink")「[AKB48家族
-    猜拳大會2015](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2015 "wikilink")」\[140\]，最後冠軍為AKB48
+    猜拳大會2015](../Page/AKB48家族_猜拳大會2015.md "wikilink")」\[140\]，最後冠軍為AKB48
     Team
-    K的[藤田奈那](../Page/藤田奈那.md "wikilink")，獲得發行個人出道solo單曲的機會。藤田是AKB集團繼[板野友美](../Page/板野友美.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")（鋼琴演奏專輯）、[河西智美](../Page/河西智美.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[松村香織](https://zh.wikipedia.org/wiki/松村香織 "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")，第13位以個人名義出道的成員\[141\]。
+    K的[藤田奈那](../Page/藤田奈那.md "wikilink")，獲得發行個人出道solo單曲的機會。藤田是AKB集團繼[板野友美](../Page/板野友美.md "wikilink")、[前田敦子](../Page/前田敦子.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")（鋼琴演奏專輯）、[河西智美](../Page/河西智美.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")，第13位以個人名義出道的成員\[141\]。
   - 9月30日，AKB48台灣官方專門店暨會員俱樂部服務停止。
   - 11月18日，AKB48成軍10週年紀念專輯《[0與1之間](../Page/0與1之間.md "wikilink")》發售。此張精選輯亦是AKB48第六張獲得週冠的專輯，超越[PRINCESS
     PRINCESS和](../Page/PRINCESS_PRINCESS.md "wikilink")[Perfume成為史上獲得最多次專輯週榜冠軍的女子團體](https://zh.wikipedia.org/wiki/Perfume "wikilink")\[142\]\[143\]。
@@ -824,11 +824,10 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
   - 8月31日，發行第45張單曲《[LOVE
     TRIP/分享幸福](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福 "wikilink")》。
   - 10月10日，於《[AKB48家族
-    猜拳大會2016](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2016 "wikilink")》上，宣布將於隔年夏天成立以[瀨戶內海周邊七縣](../Page/瀨戶內海.md "wikilink")\[153\]為主，並以船上劇場形式活動的新團體「[STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")」，是AKB48集團在日本國內第6個姊妹團體\[154\]。
-  - 11月16日，發行第46張單曲《[High
-    Tension](https://zh.wikipedia.org/wiki/High_Tension "wikilink")》。
+    猜拳大會2016](../Page/AKB48家族_猜拳大會2016.md "wikilink")》上，宣布將於隔年夏天成立以[瀨戶內海周邊七縣](../Page/瀨戶內海.md "wikilink")\[153\]為主，並以船上劇場形式活動的新團體「[STU48](../Page/STU48.md "wikilink")」，是AKB48集團在日本國內第6個姊妹團體\[154\]。
+  - 11月16日，發行第46張單曲《[High Tension](../Page/High_Tension.md "wikilink")》。
   - 12月15日，舉行「第6回AKB48紅白對抗歌合戰」\[155\]。
-  - 12月31日，參加[第67回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")，此次演出的48位成員皆由觀眾所投票選出，並且以現場直播的方式公布前十六名成員的排位順序，第一名為NMB48的山本彩\[156\]。
+  - 12月31日，參加[第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink")，此次演出的48位成員皆由觀眾所投票選出，並且以現場直播的方式公布前十六名成員的排位順序，第一名為NMB48的山本彩\[156\]。
 
 ## 2017年
 
@@ -837,8 +836,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 3月15日，發行第47張單曲《[Shoot
-    Sign](https://zh.wikipedia.org/wiki/Shoot_Sign "wikilink")》。
+  - 3月15日，發行第47張單曲《[Shoot Sign](../Page/Shoot_Sign.md "wikilink")》。
 
 <!-- end list -->
 
@@ -846,7 +844,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 5月31日，發行第47張單曲《[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")》，此單曲亦是該年度的中「初中組」的必選曲目\[158\]。
+  - 5月31日，發行第47張單曲《[空有願望](../Page/空有願望.md "wikilink")》，此單曲亦是該年度的中「初中組」的必選曲目\[158\]。
 
 <!-- end list -->
 
@@ -866,9 +864,9 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 ## 2018年
 
   - 1月21-22日，於東京巨蛋城表演廳舉行《AKB48集團 重溫時間 最佳曲目100
-    2018》演唱會，NGT48以《[藍天會延續到這世界上的哪裡去呢？](https://zh.wikipedia.org/wiki/藍天會延續到這世界上的哪裡去呢？ "wikilink")》獲得「重溫時間
+    2018》演唱會，NGT48以《[藍天會延續到這世界上的哪裡去呢？](../Page/藍天會延續到這世界上的哪裡去呢？.md "wikilink")》獲得「重溫時間
     最佳曲目100」歌曲票選排行榜的第一名，連續兩年奪得冠軍，而所有以NGT48名义参与投票的歌曲更全部上榜\[161\]。
-  - 3月10日，AKB48集團旗下所有團體（包含海外姊妹團）共同舉行「AKB48集團中心測驗」（），該活動係仿效「」，即日本的大學聯合，以紙筆測驗的方式測驗成員們對AKB48的熟悉程度；除了AKB48集團各團成員之外，也開放部分名額予粉絲參加\[162\]\[163\]。同月15日，該測驗的成績排名前100人名單在AKB48官方[SHOWROOM頻道公布](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")，其中前三名為[向井地美音](https://zh.wikipedia.org/wiki/向井地美音 "wikilink")、[岩立沙穗](https://zh.wikipedia.org/wiki/岩立沙穗 "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")（均屬AKB48），排名前16人會獲得「特別選拔」的機會演唱專屬歌曲\[164\]。
+  - 3月10日，AKB48集團旗下所有團體（包含海外姊妹團）共同舉行「AKB48集團中心測驗」（），該活動係仿效「」，即日本的大學聯合，以紙筆測驗的方式測驗成員們對AKB48的熟悉程度；除了AKB48集團各團成員之外，也開放部分名額予粉絲參加\[162\]\[163\]。同月15日，該測驗的成績排名前100人名單在AKB48官方[SHOWROOM頻道公布](../Page/SHOWROOM.md "wikilink")，其中前三名為[向井地美音](../Page/向井地美音.md "wikilink")、[岩立沙穗](../Page/岩立沙穗.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")（均屬AKB48），排名前16人會獲得「特別選拔」的機會演唱專屬歌曲\[164\]。
   - 12月8日，舉行AKB48劇場13周年特別紀念公演；在該公演上，除了宣布5名研究生升格為正式成員之外，現任AKB48集團總監督的橫山由依亦宣布將把此職位擇期交棒給15期生後輩的向井地美音\[165\]\[166\]。
 
 ## 註釋與參考文獻
@@ -1102,7 +1100,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 116.
 
-117. 此處所指的女性藝人包括本土和外國個人女歌手、女子樂團和團體，其他詳細資料可參閱維基條目「[東京巨蛋演唱會紀錄](https://zh.wikipedia.org/wiki/東京巨蛋演唱會紀錄 "wikilink")。」
+117. 此處所指的女性藝人包括本土和外國個人女歌手、女子樂團和團體，其他詳細資料可參閱維基條目「[東京巨蛋演唱會紀錄](../Page/東京巨蛋演唱會紀錄.md "wikilink")。」
 
 118.
 

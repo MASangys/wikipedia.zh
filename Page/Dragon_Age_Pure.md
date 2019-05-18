@@ -9,7 +9,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》的增刊，20
 #### 移轉到月刊Dragon Age
 
   - [異國迷宮的十字路口](../Page/異國迷宮的十字路口.md "wikilink")（[武田日向](../Page/武田日向.md "wikilink")）
-  - [緋紅聖戰](https://zh.wikipedia.org/wiki/緋紅聖戰 "wikilink")（[三宅大志](https://zh.wikipedia.org/wiki/三宅大志 "wikilink")）
+  - [緋紅聖戰](https://zh.wikipedia.org/wiki/緋紅聖戰 "wikilink")（[三宅大志](../Page/三宅大志.md "wikilink")）
   - [鋼殼都市雷吉歐斯](../Page/鋼殼都市雷吉歐斯.md "wikilink")（原作：[雨木シュウスケ](https://zh.wikipedia.org/wiki/雨木シュウスケ "wikilink")
     作画：[深遊](https://zh.wikipedia.org/wiki/深遊 "wikilink")）
   - 鋼殻のレギオスの4コマ フェリの詩（うた）（原作：雨木シュウスケ
@@ -22,7 +22,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》的增刊，20
   - [戰鬥女王蜂！－天神學園浪漫記事－](https://zh.wikipedia.org/wiki/戰鬥女王蜂！ "wikilink")（原案：[いとうのいぢ](https://zh.wikipedia.org/wiki/いとうのいぢ "wikilink")
     原作：[神野正樹](https://zh.wikipedia.org/wiki/神野正樹 "wikilink")
     作画：[ほんだありま](https://zh.wikipedia.org/wiki/ほんだありま "wikilink")）
-  - [魔劍姬！](../Page/魔劍姬！.md "wikilink")（[武田弘光](https://zh.wikipedia.org/wiki/武田弘光 "wikilink")）
+  - [魔劍姬！](../Page/魔劍姬！.md "wikilink")（[武田弘光](../Page/武田弘光.md "wikilink")）
   - [小魔女的秘密](https://zh.wikipedia.org/wiki/小魔女的秘密 "wikilink")（[日下皓](../Page/日下皓.md "wikilink")）
   - [木莓園的魔女](https://zh.wikipedia.org/wiki/木莓園的魔女 "wikilink")（[宮城とおこ](https://zh.wikipedia.org/wiki/宮城とおこ "wikilink")）
 
@@ -43,7 +43,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》的增刊，20
   - [きると
     〜リプル島は恋の騒ぎ〜](https://zh.wikipedia.org/wiki/きると "wikilink")（原案：[CLOVER](https://zh.wikipedia.org/wiki/オービット "wikilink")
     原作：[かえで透](https://zh.wikipedia.org/wiki/かえで透 "wikilink")
-    作画：[水谷悠珠](https://zh.wikipedia.org/wiki/水谷悠珠 "wikilink")）
+    作画：[水谷悠珠](../Page/水谷悠珠.md "wikilink")）
   - [殺×愛
     -きるらぶ-](https://zh.wikipedia.org/wiki/殺×愛_-きるらぶ- "wikilink")（原作：[風見周](../Page/風見周.md "wikilink")
     作画：[G・むにょ](https://zh.wikipedia.org/wiki/G・むにょ "wikilink")）
@@ -75,7 +75,7 @@ Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》的增刊，20
     demon?（[大内たか道](https://zh.wikipedia.org/wiki/大内たか道 "wikilink")）
   - [バンソウコウの誘惑](https://zh.wikipedia.org/wiki/バンソウコウの誘惑 "wikilink")（[椿あす](https://zh.wikipedia.org/wiki/椿あす "wikilink")）
   - [ホントの想いは笑顔の向こう側に](../Page/Kanon.md "wikilink")（原作：Key
-    作画：[霜月絹鯊](https://zh.wikipedia.org/wiki/霜月絹鯊 "wikilink")）
+    作画：[霜月絹鯊](../Page/霜月絹鯊.md "wikilink")）
   - [みつけて\!シャドウ・ドロップス](https://zh.wikipedia.org/wiki/みつけて!シャドウ・ドロップス "wikilink")（[かわく](https://zh.wikipedia.org/wiki/かわく "wikilink")）
   - [MUNTO -ユメミぱらどっくす-](../Page/仰望天空的少女瞳中的世界.md "wikilink")
   - [女僕養成學園！～中林校長的野望～](../Page/女僕養成學園！～中林校長的野望～.md "wikilink")（原作：[まっつー](https://zh.wikipedia.org/wiki/まっつー "wikilink")

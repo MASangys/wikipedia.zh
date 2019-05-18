@@ -594,7 +594,7 @@ RefleX初期是試驗版
   - [ALLTYNEX三部曲](https://zh.wikipedia.org/wiki/ALLTYNEX三部曲 "wikilink")
   - [ALLTYNEX
     2nd](https://zh.wikipedia.org/wiki/ALLTYNEX_2nd "wikilink")(首部曲重製版，2nd意指重製版，劇情與原版相符)
-  - [Reflection](../Page/Reflection.md "wikilink")(二部曲試做版)
+  - [Reflection](https://zh.wikipedia.org/wiki/Reflection "wikilink")(二部曲試做版)
   - [神威](https://zh.wikipedia.org/wiki/神威_\(射擊遊戲\) "wikilink")(三部曲)
 
 ## 外部連結
@@ -606,7 +606,7 @@ RefleX初期是試驗版
         （pdfファイル）
       - [SIG-Indie6に招かれたSITER
         SKAINが講演に使ったRefleX紹介動画](http://www.youtube.com/watch?v=S55GwGQfwTQ)
-        （[Youtube](../Page/Youtube.md "wikilink")）
+        （[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")）
       - [4gamer.net
         インディーズゲームの小部屋：Room＃62「RefleX」](http://www.4gamer.net/games/040/G004096/20081022006/)
   - Reflection

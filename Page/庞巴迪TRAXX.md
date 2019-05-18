@@ -104,7 +104,7 @@ TRAXX F140 AC2</p></td>
 <td><p>TRAXX P140 AC1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/意大利铁路" title="wikilink">意大利铁路</a></p></td>
+<td><p><a href="../Page/意大利铁路.md" title="wikilink">意大利铁路</a></p></td>
 <td><p>E 483</p></td>
 <td><p>TRAXX F140 DC</p></td>
 </tr>
@@ -124,12 +124,12 @@ TRAXX F140 AC2</p></td>
 <td><p>TRAXX F140 DC</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/波兰国家铁路" title="wikilink">PKP</a></p></td>
+<td><p><a href="../Page/波兰国家铁路.md" title="wikilink">PKP</a></p></td>
 <td><p>EU43</p></td>
 <td><p>TRAXX F140 MS</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/匈牙利国家铁路" title="wikilink">MÁV</a></p></td>
+<td><p><a href="../Page/匈牙利国家铁路.md" title="wikilink">MÁV</a></p></td>
 <td><p>480</p></td>
 <td><p>TRAXX P160 AC2</p></td>
 </tr>
@@ -154,7 +154,7 @@ TRAXX F140 AC2</p></td>
 ### 145型
 
 [2010-12-19-angermuende-by-RalfR-03.jpg](https://zh.wikipedia.org/wiki/File:2010-12-19-angermuende-by-RalfR-03.jpg "fig:2010-12-19-angermuende-by-RalfR-03.jpg")\]\]
-1994年11月，德国铁路为其电力机车的新订单分别选择了ABB和AEG：其中ABB为负责长途客运业务领域的[德铁长途运输提供](https://zh.wikipedia.org/wiki/德铁长途运输 "wikilink")145台[101型机车](../Page/德国铁路101型电力机车.md "wikilink")；而AEG则为负责货运业务的[德铁货物运输](https://zh.wikipedia.org/wiki/德铁货物运输 "wikilink")（[德铁信可铁路的前身](https://zh.wikipedia.org/wiki/德铁信可铁路 "wikilink")）提供80台145型货运机车\[24\]。145型最初的设计是将12X型简化而成，它摒弃了包括空心轴驱动在内的高速部件，转而采用较简单的吊挂轴驱动\[25\]。1996年1月，ABB亨舍尔与AEG的母公司戴姆勒-奔驰合并组建了[ADtranz](../Page/ADtranz.md "wikilink")\[26\]，为了简化生产和维护，145型机车的最终设计被改造成与101型机车有更多的共性\[27\]，其[生物降解的可關斷晶閘管酯冷式逆变器和同样采用酯冷却的主变压器均来自于](https://zh.wikipedia.org/wiki/生物降解 "wikilink")101型，但只有较少的组件以适应其较低的最大功率，提供单转向架制动而非单轴制动\[28\]。转向架设计也并入了源自ABB的灵活浮动家族版本，轴距增加至2650毫米。由于这种可共享的特点，145型有时也被视为Eco2000系列的成员\[29\]。145型001号机车于1997年7月面世，在1998年1月15日联邦铁路管理局（）进行型号核准后，该系列的80台机车随即开始交付德国铁路。其中前10台机车由ADtranz的[亨尼希斯多夫工厂生产](https://zh.wikipedia.org/wiki/亨尼希斯多夫 "wikilink")，其余70台则在[卡塞尔工厂生产](https://zh.wikipedia.org/wiki/卡塞尔 "wikilink")。机车车库则设于[瑟丁](https://zh.wikipedia.org/wiki/瑟丁 "wikilink")，这里可进行中型保养及维修工作，[德铁信可由此将机车支配至整个德国](https://zh.wikipedia.org/wiki/德铁信可 "wikilink")。在计划的后续订单中，德国铁路更青睐于支持双电压制式的版本185型，145型机车从此停产。
+1994年11月，德国铁路为其电力机车的新订单分别选择了ABB和AEG：其中ABB为负责长途客运业务领域的[德铁长途运输提供](../Page/德铁长途运输.md "wikilink")145台[101型机车](../Page/德国铁路101型电力机车.md "wikilink")；而AEG则为负责货运业务的[德铁货物运输](https://zh.wikipedia.org/wiki/德铁货物运输 "wikilink")（[德铁信可铁路的前身](../Page/德铁信可铁路.md "wikilink")）提供80台145型货运机车\[24\]。145型最初的设计是将12X型简化而成，它摒弃了包括空心轴驱动在内的高速部件，转而采用较简单的吊挂轴驱动\[25\]。1996年1月，ABB亨舍尔与AEG的母公司戴姆勒-奔驰合并组建了[ADtranz](https://zh.wikipedia.org/wiki/ADtranz "wikilink")\[26\]，为了简化生产和维护，145型机车的最终设计被改造成与101型机车有更多的共性\[27\]，其[生物降解的可關斷晶閘管酯冷式逆变器和同样采用酯冷却的主变压器均来自于](https://zh.wikipedia.org/wiki/生物降解 "wikilink")101型，但只有较少的组件以适应其较低的最大功率，提供单转向架制动而非单轴制动\[28\]。转向架设计也并入了源自ABB的灵活浮动家族版本，轴距增加至2650毫米。由于这种可共享的特点，145型有时也被视为Eco2000系列的成员\[29\]。145型001号机车于1997年7月面世，在1998年1月15日联邦铁路管理局（）进行型号核准后，该系列的80台机车随即开始交付德国铁路。其中前10台机车由ADtranz的[亨尼希斯多夫工厂生产](https://zh.wikipedia.org/wiki/亨尼希斯多夫 "wikilink")，其余70台则在[卡塞尔工厂生产](https://zh.wikipedia.org/wiki/卡塞尔 "wikilink")。机车车库则设于[瑟丁](../Page/瑟丁.md "wikilink")，这里可进行中型保养及维修工作，[德铁信可由此将机车支配至整个德国](../Page/德铁信可.md "wikilink")。在计划的后续订单中，德国铁路更青睐于支持双电压制式的版本185型，145型机车从此停产。
 
 此外，有6台同款机车为瑞士私营铁路公司中图尔高铁路（，简称）而造，在当地被定型为Re
 486型。在MThB遭清算后，机车移交至[瑞士联邦铁路](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")（简称），改为Re
@@ -163,7 +163,7 @@ TRAXX F140 AC2</p></td>
 ### 146.0型
 
 [146_003_Rhein-Haard-Express.jpg](https://zh.wikipedia.org/wiki/File:146_003_Rhein-Haard-Express.jpg "fig:146_003_Rhein-Haard-Express.jpg")执行客运任务\]\]
-与此同时，德铁区域运输也开始意识到，短途交通车辆除了替换为各种现代化的[动车组外](https://zh.wikipedia.org/wiki/动车组 "wikilink")，高速电力机车搭配最高时速可达160公里的双层客车的组合也是十分必要的。1999年末，145型的018和019号机车开始搭载短途运输组件在[路德维希港投入](../Page/路德维希港.md "wikilink")[德铁区域运输的服务](https://zh.wikipedia.org/wiki/德铁区域运输 "wikilink")。其车体前端的顶部被修改，以腾出空间安放信息显示屏。在其证明了适用于短途客运的服务后，145
+与此同时，德铁区域运输也开始意识到，短途交通车辆除了替换为各种现代化的[动车组外](https://zh.wikipedia.org/wiki/动车组 "wikilink")，高速电力机车搭配最高时速可达160公里的双层客车的组合也是十分必要的。1999年末，145型的018和019号机车开始搭载短途运输组件在[路德维希港投入](../Page/路德维希港.md "wikilink")[德铁区域运输的服务](../Page/德铁区域运输.md "wikilink")。其车体前端的顶部被修改，以腾出空间安放信息显示屏。在其证明了适用于短途客运的服务后，145
 031–050号机车在2000年[世界博览会期间也被投入了](https://zh.wikipedia.org/wiki/世界博览会 "wikilink")[汉诺威地区的市郊交通](../Page/汉诺威.md "wikilink")。这些用于短途交通的145型机车被验收批准可以将速度提至160km/h。随后它们一直使用于[北莱茵-威斯特法伦州](https://zh.wikipedia.org/wiki/北莱茵-威斯特法伦州 "wikilink")，直到被146型机车替换。
 
 使用经过改造的145型机车只是一个暂时性的措施，因此德铁区域运输向庞巴迪重新订购了专用于短途交通的145型特殊版本，被定为146型。它与145型机车主要的差异是采用了可适应160km/h的空心轴驱动而非吊挂轴驱动，并在机车前窗上方设有可利用整幅宽度的目的地显示屏。首个系列的采购得到了随后使用的[莱茵兰-普法尔茨州和北莱茵](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")-威斯特法伦州的地方财政支持。在2001年至2002年，庞巴迪共交付了31台146型机车至德铁区域运输，其中前7台机车（146
@@ -192,10 +192,10 @@ TRAXX F140 AC2</p></td>
 庞巴迪在2001年收购ADtranz，从而获得了机车的制造技术。185型机车在庞巴迪旗下被开发成一个类似145系列的带有私营[铁路运营商版本及客运版本的系列式车型](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")。2003年9月，庞巴迪正式将185系列机车的品牌名称命名为TRAXX。2003年1月28日，rail4chem在接收其首台185型机车后，首次利用该车型进行跨境运营，前往瑞士及[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")\[34\]。经过近6年的生产，在2006年初最后一台编号为185
 557的机车交付使用后，185.1型机车共计生产了332台。其中，德国铁路配属超过200台，德国私营铁路配属57台，瑞士联邦铁路配属35台并将其命名为Re
 482，BLS配属20台并将其命名为Re
-485型，[卢森堡国家铁路配属](https://zh.wikipedia.org/wiki/卢森堡国家铁路 "wikilink")20台并将其命名为4000型\[35\]。
+485型，[卢森堡国家铁路配属](../Page/卢森堡国家铁路.md "wikilink")20台并将其命名为4000型\[35\]。
 
 由于空间和重量的原因，机车无法搭载适应所有使用国家的列车控制系统及其它设备，但它们可以在交付后由客户根据实际需求加装或卸载某些特定的程序包。目前已有的一个瑞士安装包，机车便针对该国的技术指标搭载了集成Integra-Signum和ZUB
-262ct技术的列车控制系统、额外的窄型双[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")（1450毫米）以及侧置式后视[摄像头的设备](../Page/摄像头.md "wikilink")，部分运用于[勒奇山隧道的这类机车还加装了](https://zh.wikipedia.org/wiki/勒奇山隧道 "wikilink")[ETCS](../Page/歐洲列車控制系統.md "wikilink")。使用瑞士安装包的机车由于列车控制系统的[永磁铁不兼容而无法在奥地利境内运行](https://zh.wikipedia.org/wiki/永磁铁 "wikilink")，为此德国铁路的185型085-094号机车和瑞士联邦铁路的Re
+262ct技术的列车控制系统、额外的窄型双[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")（1450毫米）以及侧置式后视[摄像头的设备](../Page/摄像头.md "wikilink")，部分运用于[勒奇山隧道的这类机车还加装了](../Page/勒奇山隧道.md "wikilink")[ETCS](../Page/歐洲列車控制系統.md "wikilink")。使用瑞士安装包的机车由于列车控制系统的[永磁铁不兼容而无法在奥地利境内运行](https://zh.wikipedia.org/wiki/永磁铁 "wikilink")，为此德国铁路的185型085-094号机车和瑞士联邦铁路的Re
 482型035-049号机车均配备了可切换的[电磁铁](https://zh.wikipedia.org/wiki/电磁铁 "wikilink")。进入[意大利境内的机车也同样需要加装适用于](../Page/意大利.md "wikilink")[意大利国家铁路的设备](https://zh.wikipedia.org/wiki/意大利国家铁路 "wikilink")。此外还有一个可运行于法国的安装包，它同样集成了法国的列车控制系统和额外的窄型双受电弓，但仅适用于德国和奥地利的基础版本，因其本身只有双受电弓，并且没有额外的安全系统。以窄型受电弓作为额外受电弓，并搭载于外侧的机车包括德国铁路185型085-149号、瑞士联邦铁路Re
 482型、BLS485型和486型、以及卢森堡国家铁路4000型。
 

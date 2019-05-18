@@ -14,7 +14,7 @@
   - [李宗泫](../Page/李宗泫.md "wikilink") 飾演 尚元
   - [姜敏赫](../Page/姜敏赫.md "wikilink") 飾演 海元
   - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink") 飾演 少男
-  - [白珍熙](https://zh.wikipedia.org/wiki/白珍熙 "wikilink") 飾演 少女
+  - [白珍熙](../Page/白珍熙.md "wikilink") 飾演 少女
 
 ## 電影原聲帶
 

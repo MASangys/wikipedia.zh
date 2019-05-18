@@ -145,7 +145,7 @@ BEST HITS -LOVE SIDE / SOUL SIDE-」及上述水樹奈奈的作品。
   - 2012年12月08�日（晚間20:30-21:00）Space Shower TV Plus頻道『金賢重特輯』\[34\]
   - 2012年12月06�日（午後15:00-16:00）與07日\~08日（午前08:00-13:00）Music On\!
     TV頻道『綜述\!受歡迎K-POP Music video特集』
-  - 2012年12月11日（晚間22:00-23:30）[NICONICO動畫播出兩回約](../Page/NICONICO動畫.md "wikilink")30分金賢重新專輯『UNLIMITED』發售紀念特別節目
+  - 2012年12月11日（晚間22:00-23:30）[NICONICO動畫播出兩回約](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")30分金賢重新專輯『UNLIMITED』發售紀念特別節目
   - 2012年12月11日（晚間24:00～24:20）與12日（午前07:00～07:20）Music On\! TV頻道『「Your
     Story」 サキドリ！』
 

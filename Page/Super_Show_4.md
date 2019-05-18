@@ -77,8 +77,8 @@ York](https://zh.wikipedia.org/wiki/New_York "wikilink"))
   - "Kiss Me Darling" – [藝聲](../Page/藝聲.md "wikilink")
   - "Your Grace is Enough" feat. 3rd Wave –
     [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")
-  - "[Oppa, Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa "wikilink")"
-    – [東海](../Page/東海_\(藝人\).md "wikilink") and
+  - "[Oppa, Oppa](../Page/Oppa,_Oppa.md "wikilink")" –
+    [東海](../Page/東海_\(藝人\).md "wikilink") and
     [銀赫](../Page/銀赫.md "wikilink"),
 
 **Sixth video interlude**
@@ -122,7 +122,7 @@ York](https://zh.wikipedia.org/wiki/New_York "wikilink"))
 <tbody>
 <tr class="odd">
 <td><p>2011年11月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a> [6]</p></td>
 </tr>

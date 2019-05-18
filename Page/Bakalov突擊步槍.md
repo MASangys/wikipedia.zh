@@ -36,7 +36,7 @@ Bakalov的基本設計是以[AK槍族作雛型](https://zh.wikipedia.org/wiki/AK
   - [95式](../Page/95式自動步槍.md "wikilink")
   - [AKM](../Page/AKM突擊步槍.md "wikilink")
   - [AK-74](../Page/AK-74突击步枪.md "wikilink")
-  - [AKU-94](https://zh.wikipedia.org/wiki/AKU-94突擊步槍 "wikilink")
+  - [AKU-94](../Page/AKU-94突擊步槍.md "wikilink")
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")

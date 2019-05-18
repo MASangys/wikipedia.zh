@@ -4,21 +4,22 @@
 ## 收錄曲
 
 1.  Opening
-2.  [partenza〜レッツゴー\!\!\!〜](../Page/partenza_出發.md "wikilink")
-3.  [フランキンセンスΨ](../Page/partenza_出發.md "wikilink")
+2.  [partenza〜レッツゴー\!\!\!〜](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
+3.  [フランキンセンスΨ](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 4.  MC1
 5.  [Lotta Love Lotta Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")
-6.  [キアオラ・グラシャス・ありがと](../Page/partenza_出發.md "wikilink")
+6.  [キアオラ・グラシャス・ありがと](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 7.  MC2
 8.  [Blue-Sky-Blue](../Page/We_are_Buono!.md "wikilink")
-9.  [My alright sky](../Page/partenza_出發.md "wikilink")
+9.  [My alright
+    sky](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 10. MC3
 11. [Kiss\!Kiss\!Kiss\!](../Page/Kiss!Kiss!Kiss!.md "wikilink")
 12. [恋愛{{Unicode](https://zh.wikipedia.org/wiki/戀愛騎士 "wikilink")
 13. 無敵の∞Power
 14. [泣き虫少年](../Page/Café_Buono!.md "wikilink")
 15. MC4
-16. [1/3の純情な感情](../Page/partenza_出發.md "wikilink")
+16. [1/3の純情な感情](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 17. [JUICY HE@RT](../Page/雜草之歌.md "wikilink")
 18. [Ice Mermaid](https://zh.wikipedia.org/wiki/因爲是夏天! "wikilink")
 19. MC5

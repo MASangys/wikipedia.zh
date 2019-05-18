@@ -503,7 +503,7 @@ Spirits**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
 <tr class="even">
 <td><p>50</p></td>
 <td><p><span style="display:none">しゆうはんしゆつたい</span><strong><a href="https://zh.wikipedia.org/wiki/重版出来!" title="wikilink">重版出来!</a></strong></p></td>
-<td><p><span style="display:none">まつた なおこ</span><a href="https://zh.wikipedia.org/wiki/松田奈緒子" title="wikilink">松田奈緒子</a></p></td>
+<td><p><span style="display:none">まつた なおこ</span><a href="../Page/松田奈緒子.md" title="wikilink">松田奈緒子</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.11</p></td>
 <td><p><span style="display:none">99</span>連載中</p></td>

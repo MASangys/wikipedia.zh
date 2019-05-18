@@ -2,7 +2,7 @@
 
 ## 出演者
 
-  - [山里亮太](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
+  - [山里亮太](../Page/山里亮太.md "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）
   - [SKE48](../Page/SKE48.md "wikilink")
 
 ## 播放日・樂曲

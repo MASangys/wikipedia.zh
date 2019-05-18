@@ -141,44 +141,44 @@ Entertainment旗下華人雙胞胎男子组合Tasty提出的專屬合約無效�
 
 ### 綜藝節目
 
-|                   |                                                                                             |           |
-| ----------------- | ------------------------------------------------------------------------------------------- | --------- |
-| 日期                | 節目名稱                                                                                        | 備註        |
-| 2012年10月10日       | MBC《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》                    | TASTY全體   |
-| 2012年10月1日        | MBC《中秋特輯：偶像摔角大會》                                                                            | TASTY全體   |
-| 2012年11月13日       | SonBaDakTV《Live Secret Show》                                                                | TASTY全體   |
-| 2012年11月25日       | KBS2《出發吧\! 夢之隊》                                                                             | TASTY全體   |
-| 2013年2月11日        | MBC《偶像明星田徑射箭錦標賽》                                                                            | TASTY全體   |
-| 2013年9月11日        | MBC《[Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》                    | TASTY全體   |
-| 2013年10月2日        | Arirang TV《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》 | TASTY全體   |
-| 2013年12月24日       | MTV(台灣)《我愛偶像》                                                                               | TASTY全體   |
-| 2013年12月29日       | Y-STAR《食神之路》                                                                                | TASTY全體   |
-| 2014年1月7日\~1月14日  | Mnet《Beatles Code 3D》EP03\~04                                                               | TASTY全體   |
-| 2014年1月12日\~1月19日 | KBS2《出發吧\! 夢之隊》新生代男偶像鐵人王特輯                                                                  | 大龍        |
-| 2014年1月30日\~1月31日 | MBC《偶像明星運動會》                                                                                | TASTY全體   |
-| 2014年2月20日        | Mnet《This Is INFINITE》EP03                                                                  | TASTY全體   |
-| 2014年3月7日         | Tooniverse 《難堪SCHOOL》EP08                                                                   | TASTY全體   |
-| 2014年3月27日        | KBS 《[Happy Together Season 3](../Page/歡樂在一起.md "wikilink")》EP342吹牛特輯                       | 小龍        |
-| 2014年4月9日         | MBC《偶像舞蹈大會 D-Style》                                                                         | 大龍        |
-| 2014年11月1日        | 深圳衛視《年代秀》                                                                                   | TASTY全體   |
-| 2014年11月22日       | 深圳衛視《年代秀》                                                                                   | TASTY全體   |
-| 2014年11月29日       | SBS《Star King》                                                                              | TASTY全體   |
-| 2014年12月6日        | 東方衛視《兩天一夜》                                                                                  | TASTY全體   |
-| 2014年12月13日       | 東方衛視《兩天一夜》                                                                                  | TASTY全體   |
-| 2014年12月20日       | 東方衛視《兩天一夜》                                                                                  | TASTY全體   |
-| 2015年2月19-20日     | MBC《偶像明星田徑射箭錦標賽》                                                                            | TASTY全體   |
-| 2016年4月28日        | 湖南衛視《[天天向上](../Page/天天向上.md "wikilink")》                                                    | Hanch兄弟全體 |
+|                   |                                                                          |           |
+| ----------------- | ------------------------------------------------------------------------ | --------- |
+| 日期                | 節目名稱                                                                     | 備註        |
+| 2012年10月10日       | MBC《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                    | TASTY全體   |
+| 2012年10月1日        | MBC《中秋特輯：偶像摔角大會》                                                         | TASTY全體   |
+| 2012年11月13日       | SonBaDakTV《Live Secret Show》                                             | TASTY全體   |
+| 2012年11月25日       | KBS2《出發吧\! 夢之隊》                                                          | TASTY全體   |
+| 2013年2月11日        | MBC《偶像明星田徑射箭錦標賽》                                                         | TASTY全體   |
+| 2013年9月11日        | MBC《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》                    | TASTY全體   |
+| 2013年10月2日        | Arirang TV《[After School Club](../Page/After_School_Club.md "wikilink")》 | TASTY全體   |
+| 2013年12月24日       | MTV(台灣)《我愛偶像》                                                            | TASTY全體   |
+| 2013年12月29日       | Y-STAR《食神之路》                                                             | TASTY全體   |
+| 2014年1月7日\~1月14日  | Mnet《Beatles Code 3D》EP03\~04                                            | TASTY全體   |
+| 2014年1月12日\~1月19日 | KBS2《出發吧\! 夢之隊》新生代男偶像鐵人王特輯                                               | 大龍        |
+| 2014年1月30日\~1月31日 | MBC《偶像明星運動會》                                                             | TASTY全體   |
+| 2014年2月20日        | Mnet《This Is INFINITE》EP03                                               | TASTY全體   |
+| 2014年3月7日         | Tooniverse 《難堪SCHOOL》EP08                                                | TASTY全體   |
+| 2014年3月27日        | KBS 《[Happy Together Season 3](../Page/歡樂在一起.md "wikilink")》EP342吹牛特輯    | 小龍        |
+| 2014年4月9日         | MBC《偶像舞蹈大會 D-Style》                                                      | 大龍        |
+| 2014年11月1日        | 深圳衛視《年代秀》                                                                | TASTY全體   |
+| 2014年11月22日       | 深圳衛視《年代秀》                                                                | TASTY全體   |
+| 2014年11月29日       | SBS《Star King》                                                           | TASTY全體   |
+| 2014年12月6日        | 東方衛視《兩天一夜》                                                               | TASTY全體   |
+| 2014年12月13日       | 東方衛視《兩天一夜》                                                               | TASTY全體   |
+| 2014年12月20日       | 東方衛視《兩天一夜》                                                               | TASTY全體   |
+| 2015年2月19-20日     | MBC《偶像明星田徑射箭錦標賽》                                                         | TASTY全體   |
+| 2016年4月28日        | 湖南衛視《[天天向上](../Page/天天向上.md "wikilink")》                                 | Hanch兄弟全體 |
 
 ### 廣播節目
 
-|               |                                                                    |         |
-| ------------- | ------------------------------------------------------------------ | ------- |
-| 日期            | 電台名稱                                                               | 備註      |
-| 2012年9月4日     | KBS 《Super Junior的Kiss The Radio》                                  | TASTY全體 |
-| 2012年9月9日     | SBS 《Boom的Young Street》                                            | TASTY全體 |
-| 2013年11月9日    | MBC C-RADIO《[偶像本色](https://zh.wikipedia.org/wiki/偶像本色 "wikilink")》 | TASTY全體 |
-| 2014年1月13日    | MBC 《神童的深深打破》                                                      | TASTY全體 |
-| 2014年3月3日\~6月 | Arirang Radio 《Music Access》                                       | TASTY全體 |
+|               |                                                 |         |
+| ------------- | ----------------------------------------------- | ------- |
+| 日期            | 電台名稱                                            | 備註      |
+| 2012年9月4日     | KBS 《Super Junior的Kiss The Radio》               | TASTY全體 |
+| 2012年9月9日     | SBS 《Boom的Young Street》                         | TASTY全體 |
+| 2013年11月9日    | MBC C-RADIO《[偶像本色](../Page/偶像本色.md "wikilink")》 | TASTY全體 |
+| 2014年1月13日    | MBC 《神童的深深打破》                                   | TASTY全體 |
+| 2014年3月3日\~6月 | Arirang Radio 《Music Access》                    | TASTY全體 |
 
 ### MV
 
@@ -200,7 +200,7 @@ Entertainment旗下華人雙胞胎男子组合Tasty提出的專屬合約無效�
 | 2012年10月4日     | M\!Countdown Smile Thailand 演唱會                                                                      | 拉加曼加拉體育場       |        |
 | 2012年10月27-28日 | [INFINITE](../Page/INFINITE.md "wikilink") 2012 ARENA TOUR in JAPAN 《Second Invasion Evolution PLUS》 | Yokohama Arena | 擔任表演嘉賓 |
 | 2013年4月24日     | M\!Countdown 你好-台灣小巨蛋演唱會                                                                             | 台北小巨蛋          |        |
-| 2013年10月19日    | [SMTOWN Live第三次世界巡迴演唱會](https://zh.wikipedia.org/wiki/SMTOWN_Live第三次世界巡迴演唱會 "wikilink") 北京站          | 北京國家體育場        |        |
+| 2013年10月19日    | [SMTOWN Live第三次世界巡迴演唱會](../Page/SMTOWN_Live第三次世界巡迴演唱會.md "wikilink") 北京站                             | 北京國家體育場        |        |
 | 2013年11月9-10日  | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") The 1st World Tour 《-Girls & Peace-》 香港站       | 香港亞洲國際博覽館      | 擔任表演嘉賓 |
 | 2014年2月15日     | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") The 1st World Tour 《-Girls & Peace-》 澳門站       | 澳門威尼斯人金光綜藝館    | 擔任表演嘉賓 |
 | 2014年6月21日     | Best of Best快樂韓樂演唱會                                                                                  | 台北小巨蛋          |        |

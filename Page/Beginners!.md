@@ -27,7 +27,7 @@
 
   - 竜崎 美咲 (35) -
     [石田ひかり](https://zh.wikipedia.org/wiki/石田ひかり "wikilink")
-    桜庭 直樹 (43) - [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")
+    桜庭 直樹 (43) - [杉本哲太](../Page/杉本哲太.md "wikilink")
     峰 百合（年齢不詳） - [青山倫子](https://zh.wikipedia.org/wiki/青山倫子 "wikilink")
     鬼塚 辰男 - [伊達暁](https://zh.wikipedia.org/wiki/伊達暁 "wikilink")
     高村 光太郎 (55) -
@@ -40,7 +40,7 @@
     [国広富之](https://zh.wikipedia.org/wiki/国広富之 "wikilink")
     福田 清志 (40) - [柳沢慎吾](https://zh.wikipedia.org/wiki/柳沢慎吾 "wikilink")
     福田 顕子 - [松永玲子](https://zh.wikipedia.org/wiki/松永玲子 "wikilink")
-    立花 理華子 - [堀内敬子](https://zh.wikipedia.org/wiki/堀内敬子 "wikilink")
+    立花 理華子 - [堀内敬子](../Page/堀内敬子.md "wikilink")
     桃江 好則 (40) -
     [宮川一朗太](https://zh.wikipedia.org/wiki/宮川一朗太 "wikilink")
     桃江 朋美 (40) -
@@ -80,7 +80,7 @@
 
   - [Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")「[WANNA
     BEEEE\!\!\!](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")」（[avex
-    trax](../Page/avex_trax.md "wikilink")）
+    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
 
 ## 各集標題
 

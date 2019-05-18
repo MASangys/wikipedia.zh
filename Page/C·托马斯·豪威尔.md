@@ -36,9 +36,9 @@
 | 2011                                                            |                                                           | The Glades            | 佩顿·罗宾逊                  |
 | [火炬木小组](../Page/火炬木小组.md "wikilink")                            | Torchwood                                                 |                       | The Gentleman           |
 | 2017                                                            | [信仰與疑問](https://zh.wikipedia.org/wiki/信仰與疑問 "wikilink")   | A Question of Faith   |                         |
-| [清道夫](https://zh.wikipedia.org/wiki/清道夫_\(电视剧\) "wikilink")     | Ray Donovan                                               |                       | Dr. Brogan              |
+| [清道夫](../Page/清道夫_\(电视剧\).md "wikilink")                        | Ray Donovan                                               |                       | Dr. Brogan              |
 | [海豹突擊隊](https://zh.wikipedia.org/wiki/海豹突擊隊_\(電視劇\) "wikilink") | SEAL Team                                                 |                       | Ash Spenser             |
-| [制裁者](https://zh.wikipedia.org/wiki/制裁者_\(電視劇\) "wikilink")     | Marvel's The Punisher                                     | 卡森·沃夫                 | Carson Wolf             |
+| [制裁者](../Page/制裁者_\(電視劇\).md "wikilink")                        | Marvel's The Punisher                                     | 卡森·沃夫                 | Carson Wolf             |
 |                                                                 |                                                           |                       |                         |
 
 ## 参考文献

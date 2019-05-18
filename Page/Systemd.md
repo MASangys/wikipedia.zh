@@ -1,4 +1,4 @@
-**systemd**是[Linux電腦](../Page/Linux.md "wikilink")[作業系統之下的一套](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[中央化系統及設定管理程式](../Page/init.md "wikilink")（init），包括有[守护进程](../Page/守护进程.md "wikilink")、[程式庫以及應用軟體](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，由带头开发。其开发目标是提供更优秀的[框架以表示](https://zh.wikipedia.org/wiki/框架 "wikilink")间的依赖关系，并依此实现系统初始化时服务的并行启动，同时达到降低[Shell的](https://zh.wikipedia.org/wiki/Shell "wikilink")的效果，最终代替现在常用的[System
+**systemd**是[Linux電腦](../Page/Linux.md "wikilink")[作業系統之下的一套](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[中央化系統及設定管理程式](https://zh.wikipedia.org/wiki/init "wikilink")（init），包括有[守护进程](../Page/守护进程.md "wikilink")、[程式庫以及應用軟體](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，由带头开发。其开发目标是提供更优秀的[框架以表示](https://zh.wikipedia.org/wiki/框架 "wikilink")间的依赖关系，并依此实现系统初始化时服务的并行启动，同时达到降低[Shell的](https://zh.wikipedia.org/wiki/Shell "wikilink")的效果，最终代替现在常用的[System
 V与](https://zh.wikipedia.org/wiki/System_V "wikilink")[BSD风格init程序](../Page/BSD.md "wikilink")。
 
 目前絕大多數的[Linux發行版都已採用systemd代替原來的](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[System
@@ -9,7 +9,7 @@ systemd在[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")
 
 ## 起源
 
-systemd这一名字源于[Unix中的一个惯例](../Page/Unix.md "wikilink")：在Unix中常以“d”作为系统[守护进程](../Page/守护进程.md "wikilink")（，亦称[后台进程](../Page/后台进程.md "wikilink")）的后缀标识。除此以外，systemd亦是借代英文术语，而这一术语即是用于描述一个人具有快速地适应环境并解决困难的能力\[3\]。
+systemd这一名字源于[Unix中的一个惯例](https://zh.wikipedia.org/wiki/Unix "wikilink")：在Unix中常以“d”作为系统[守护进程](../Page/守护进程.md "wikilink")（，亦称[后台进程](../Page/后台进程.md "wikilink")）的后缀标识。除此以外，systemd亦是借代英文术语，而这一术语即是用于描述一个人具有快速地适应环境并解决困难的能力\[3\]。
 
 ## 设计
 
@@ -21,7 +21,7 @@ V风格init相比](../Page/UNIX_System_V.md "wikilink")，systemd采用了以下
 
   - 將service（服務）、target（執行模式，類似於執行等級）、mount、timer、snapshot、path、socket、swap等稱為Unit。比如，一個auditd服務（就是auditd.service）就是一個Unit，一個multi-user.target執行模式也是一個Unit。
   - 采用[Socket激活式与](https://zh.wikipedia.org/wiki/Socket "wikilink")[D-Bus激活式服务](../Page/D-Bus.md "wikilink")，以提高相互依赖的各服务的并行运行性能；
-  - 用[cgroups代替](../Page/cgroups.md "wikilink")[进程ID来追踪进程](https://zh.wikipedia.org/wiki/进程ID "wikilink")，以此即使是两次[fork之后生成的守护进程也不会脱离systemd的控制](https://zh.wikipedia.org/wiki/Fork_\(操作系统\) "wikilink")。
+  - 用[cgroups代替](https://zh.wikipedia.org/wiki/cgroups "wikilink")[进程ID来追踪进程](../Page/进程ID.md "wikilink")，以此即使是两次[fork之后生成的守护进程也不会脱离systemd的控制](https://zh.wikipedia.org/wiki/Fork_\(操作系统\) "wikilink")。
   - 用target代替System
     V的[執行級別](https://zh.wikipedia.org/wiki/執行級別 "wikilink")（Runlevel），比如，SystemD的graphical.target相當於System
     V的init 5，multi-user.target相當於System V的init 3。
@@ -44,7 +44,8 @@ systemd已纳入众多[Linux发行版的软件源中](../Page/Linux发行版.md 
   - [Fedora](../Page/Fedora.md "wikilink") 15及后续版本\[8\]
   - [Mageia](../Page/Mageia.md "wikilink") 2\[9\]
   - [Mandriva](../Page/Mandriva_Linux.md "wikilink") 2011\[10\]
-  - [openSUSE](../Page/openSUSE.md "wikilink") 12.1 及后续版本\[11\]
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 12.1
+    及后续版本\[11\]
   - [Red Hat Enterprise
     Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")
     7及后续版本，包括其衍生品[CentOS](../Page/CentOS.md "wikilink")、[Scientific
@@ -92,7 +93,7 @@ Poettering提请纳入[GNOME](../Page/GNOME.md "wikilink")
   - [readahead](https://zh.wikipedia.org/wiki/readahead "wikilink")
 
   -
-  - [Upstart](https://zh.wikipedia.org/wiki/Upstart "wikilink")
+  - [Upstart](../Page/Upstart.md "wikilink")
 
   -
 {{-}}

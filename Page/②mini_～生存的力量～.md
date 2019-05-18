@@ -1,5 +1,5 @@
 「**②mini ～生存的力量～**」（②mini
-〜生きるという力〜）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")1枚迷你專輯。於2007年4月18日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+〜生きるという力〜）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")1枚迷你專輯。於2007年4月18日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

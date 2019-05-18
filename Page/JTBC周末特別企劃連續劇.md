@@ -63,12 +63,12 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2013年3月16日－2013年5月5日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/世界的盡頭_(韓國電視劇)" title="wikilink">世界的盡頭</a><br />
+<td style="text-align: center;"><p><a href="../Page/世界的盡頭_(韓國電視劇).md" title="wikilink">世界的盡頭</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹帝文" title="wikilink">尹帝文</a>、<a href="https://zh.wikipedia.org/wiki/張京雅" title="wikilink">張京雅</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="https://zh.wikipedia.org/wiki/金昌完" title="wikilink">金昌完</a>、<a href="https://zh.wikipedia.org/wiki/金勇民" title="wikilink">金勇民</a>、<a href="https://zh.wikipedia.org/wiki/朴赫權" title="wikilink">朴赫權</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安畔錫" title="wikilink">安畔錫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴惠蓮" title="wikilink">朴惠蓮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/尹帝文.md" title="wikilink">尹帝文</a>、<a href="../Page/張京雅.md" title="wikilink">張京雅</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="../Page/金昌完.md" title="wikilink">金昌完</a>、<a href="https://zh.wikipedia.org/wiki/金勇民" title="wikilink">金勇民</a>、<a href="../Page/朴赫權.md" title="wikilink">朴赫權</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/安畔錫.md" title="wikilink">安畔錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴惠蓮.md" title="wikilink">朴惠蓮</a></p></td>
 <td style="text-align: center;"><p>原作：裴英益《傳染病》</p></td>
 </tr>
 </tbody>
@@ -105,7 +105,7 @@
 <td style="text-align: center;"><p><a href="../Page/錐子_(電視劇).md" title="wikilink">錐子</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/顯祐.md" title="wikilink">顯祐</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/朴時煥" title="wikilink">朴時煥</a>、<a href="https://zh.wikipedia.org/wiki/金佳恩" title="wikilink">金佳恩</a>、<a href="https://zh.wikipedia.org/wiki/金希沅" title="wikilink">金希沅</a>、<a href="https://zh.wikipedia.org/wiki/趙載龍" title="wikilink">趙載龍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/顯祐.md" title="wikilink">顯祐</a>、<a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/朴時煥.md" title="wikilink">朴時煥</a>、<a href="../Page/金佳恩.md" title="wikilink">金佳恩</a>、<a href="../Page/金希沅.md" title="wikilink">金希沅</a>、<a href="../Page/趙載龍.md" title="wikilink">趙載龍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金錫允" title="wikilink">金錫允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李南奎" title="wikilink">李南奎</a>、<a href="https://zh.wikipedia.org/wiki/金秀珍" title="wikilink">金秀珍</a></p></td>
 <td style="text-align: center;"><p>原作：崔奎錫《錐子》</p></td>
@@ -115,7 +115,7 @@
 
 ## 相關項目
 
-  - [JTBC周末連續劇](https://zh.wikipedia.org/wiki/JTBC周末連續劇 "wikilink")
+  - [JTBC周末連續劇](../Page/JTBC周末連續劇.md "wikilink")
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
   - [JTBC月火連續劇](../Page/JTBC月火連續劇.md "wikilink")
   - [KBS大河連續劇](https://zh.wikipedia.org/wiki/KBS大河連續劇 "wikilink")
@@ -129,8 +129,7 @@
 <!-- end list -->
 
   - [朝鮮放送周末連續劇](https://zh.wikipedia.org/wiki/朝鮮放送周末連續劇 "wikilink")
-  - [Channel
-    A周末特別企劃劇](https://zh.wikipedia.org/wiki/Channel_A周末特別企劃劇 "wikilink")
+  - [Channel A周末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")
 
 [Category:JTBC周末特別企劃連續劇](https://zh.wikipedia.org/wiki/Category:JTBC周末特別企劃連續劇 "wikilink")
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")

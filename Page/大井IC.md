@@ -1,4 +1,4 @@
-**大井IC**（平假名：おおいインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[龜岡市的](../Page/龜岡市.md "wikilink")[京都縱貫自動車道之](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**大井IC**（平假名：おおいインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[龜岡市的](../Page/龜岡市.md "wikilink")[京都縱貫自動車道之](../Page/京都縱貫自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1988年2月17日 -
-    [京都縱貫自動車道](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")[龜岡IC至](https://zh.wikipedia.org/wiki/龜岡IC "wikilink")[千代川IC開通](../Page/千代川IC.md "wikilink")，此交流道也同時啟用。
+    [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[龜岡IC至](https://zh.wikipedia.org/wiki/龜岡IC "wikilink")[千代川IC開通](../Page/千代川IC.md "wikilink")，此交流道也同時啟用。
   - 1993年9月9日 -
     [龜岡IC至](https://zh.wikipedia.org/wiki/龜岡IC "wikilink")[千代川IC之間路段開始變為收費區](../Page/千代川IC.md "wikilink")。
 
@@ -40,7 +40,7 @@
 
 ## 鄰近設施
 
-  - [京都縱貫自動車道](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")
+  - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")
     [龜岡IC](https://zh.wikipedia.org/wiki/龜岡IC "wikilink") - **大井IC** -
     [千代川IC](../Page/千代川IC.md "wikilink")
 

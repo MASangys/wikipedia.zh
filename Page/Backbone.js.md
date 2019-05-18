@@ -28,7 +28,8 @@ Ashkenas所開發，他同時也是[CoffeeScript的開發者](../Page/CoffeeScri
     Radio](https://zh.wikipedia.org/wiki/Pandora_Radio "wikilink")
     \[14\]
   - [Pinterest](../Page/Pinterest.md "wikilink")
-  - [Soundcloud](../Page/Soundcloud.md "wikilink") \[15\]
+  - [Soundcloud](https://zh.wikipedia.org/wiki/Soundcloud "wikilink")
+    \[15\]
   - [Trello](https://zh.wikipedia.org/wiki/Trello "wikilink") \[16\]
   - [USA Today](https://zh.wikipedia.org/wiki/USA_Today "wikilink").com
     \[17\]

@@ -4,7 +4,7 @@
 ## 概要
 
 CD封面和[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（《[戰鬥與浪漫](../Page/戰鬥與浪漫.md "wikilink")》中收錄）成員全員以[戰隊英雄風的服裝亮相](https://zh.wikipedia.org/wiki/戰隊 "wikilink")\[1\]，也曾有網友質疑[韓國女團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Crayon
-Pop知名歌曲](https://zh.wikipedia.org/wiki/Crayon_Pop "wikilink")的安全帽及運動服造型抄襲桃草的戰隊服\[2\]。
+Pop知名歌曲](../Page/Crayon_Pop.md "wikilink")的安全帽及運動服造型抄襲桃草的戰隊服\[2\]。
 
 2018年[有安杏果畢業後歌名改為](../Page/有安杏果.md "wikilink")「Z伝説～ファンファーレは止まらない～」（Z傳說～號角聲永不止息～）
 

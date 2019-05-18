@@ -1,4 +1,4 @@
-是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[HOOK](https://zh.wikipedia.org/wiki/HOOK "wikilink")（現[HOOKSOFT](https://zh.wikipedia.org/wiki/HOOKSOFT "wikilink")）於2005年7月15日推出的第四款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。本作最初是發行在[Windows平台上](https://zh.wikipedia.org/wiki/Windows "wikilink")，後來[移植到](https://zh.wikipedia.org/wiki/遊戲移植 "wikilink")[PlayStation
+是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[HOOK](https://zh.wikipedia.org/wiki/HOOK "wikilink")（現[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")）於2005年7月15日推出的第四款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。本作最初是發行在[Windows平台上](https://zh.wikipedia.org/wiki/Windows "wikilink")，後來[移植到](https://zh.wikipedia.org/wiki/遊戲移植 "wikilink")[PlayStation
 2](../Page/PlayStation_2.md "wikilink")（簡稱PS2）上。並曾改編成[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")\[1\]等版本。
 
 ## 遊戲
@@ -97,7 +97,7 @@
 <!-- end list -->
 
   -
-    成西學園的3年級生，出身於能影響市政的世族家庭，並因其文雅的外貌及氣質而在學校相當有名氣。在學校成績相當好，但對平民的日常生活不太熟悉，擅長演奏[日本箏](../Page/日本箏.md "wikilink")、跳[日本舞等文藝活動](https://zh.wikipedia.org/wiki/日本舞 "wikilink")。\[28\]由於現已過世的祖父相當嚴格，沒什麼接觸異性的經驗，對戀愛相當憧憬。
+    成西學園的3年級生，出身於能影響市政的世族家庭，並因其文雅的外貌及氣質而在學校相當有名氣。在學校成績相當好，但對平民的日常生活不太熟悉，擅長演奏[日本箏](../Page/日本箏.md "wikilink")、跳[日本舞等文藝活動](../Page/日本舞.md "wikilink")。\[28\]由於現已過世的祖父相當嚴格，沒什麼接觸異性的經驗，對戀愛相當憧憬。
 
   -
 

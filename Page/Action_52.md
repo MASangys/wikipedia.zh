@@ -33,7 +33,7 @@ NES版本卡帶在外觀為當時少見的半透明外殼。\[6\]在執行時會
 
 Active Enterprises將NES版本《Action
 52》的最後一項遊戲「[獵豹人](../Page/獵豹人.md "wikilink")」（*The
-Cheetahmen*）作為此合輯的主打作品，並曾在1997年推出續作。而獵豹人在發行十數年後，因遊戲配樂被重製混音後在網路影片分享網站[NICONICO動畫流出而意外走紅](../Page/NICONICO動畫.md "wikilink")。\[7\]
+Cheetahmen*）作為此合輯的主打作品，並曾在1997年推出續作。而獵豹人在發行十數年後，因遊戲配樂被重製混音後在網路影片分享網站[NICONICO動畫流出而意外走紅](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。\[7\]
 
 #### MegaDrive
 
@@ -59,7 +59,7 @@ Gamer），《動作遊戲高手》內容則是《獵豹人》的雛形作品。
 
 ## 評價
 
-  - 電子遊戲新聞網站[Gamespy將](../Page/Gamespy.md "wikilink")《Action
+  - 電子遊戲新聞網站[Gamespy將](https://zh.wikipedia.org/wiki/Gamespy "wikilink")《Action
     52》列為遊戲史上最丟人現眼作品的第5名，認為《Action
     52》充斥著內容重覆、永無止盡的乏味內容，作品表現差勁到令人氣得想緊握拳頭痛毆，而後續發售的MegaDrive版本更是離譜地糟糕。\[11\]
   - 多媒體網站411mania於「爛貨名人堂」（The Hall of Shame）專欄上評論《Action
@@ -68,7 +68,7 @@ Gamer），《動作遊戲高手》內容則是《獵豹人》的雛形作品。
   - 專門介紹爛產品的網站SomethingAwful則認為「能夠忍受《Action
     52》種種缺點、持續玩下去的玩家夠格被稱為『動作遊戲高手』」，並給予《Action
     52》差勁程度滿分50分裡的45分。\[13\]
-  - 網路上的電子遊戲評論家AVGN[噴神James於個人](https://zh.wikipedia.org/wiki/噴神James "wikilink")[Youtube頻道上發表他遊玩](../Page/Youtube.md "wikilink")《Action
+  - 網路上的電子遊戲評論家AVGN[噴神James於個人](https://zh.wikipedia.org/wiki/噴神James "wikilink")[Youtube頻道上發表他遊玩](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Action
     52》的心得，之後的感想為「遊戲操控難以上手、角色造型亂七八糟……賣這種爛貨遊戲產品簡直是非法行為」。\[14\]
 
 ### 爭議

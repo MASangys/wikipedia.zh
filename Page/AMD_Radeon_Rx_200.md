@@ -105,8 +105,8 @@ XTX』顯示核心。與原來使用『Bonaire XT』顯示核心的Radeon HD
 7790相比時脈更高，而且還搭載2GB容量的GDDR5顯示記憶體，支援TureAudio、基於[Tensilica](https://zh.wikipedia.org/wiki/Tensilica "wikilink")
 HiFi
 EP架構的片上音訊[DSP](https://zh.wikipedia.org/wiki/DSP "wikilink")。\[28\]\[29\]實際性能大約等於新一代[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")[Xbox
-One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")，因此，Radeon R7
-260X並不像Radeon R9 280/280X那樣是單純舊有顯示核心的改進，不是Radeon HD 7790的更名版本。
+One](../Page/Xbox_One.md "wikilink")，因此，Radeon R7 260X並不像Radeon R9
+280/280X那樣是單純舊有顯示核心的改進，不是Radeon HD 7790的更名版本。
 
 Radeon R7 250/240是Radeon HD 8670/8570的更名版本，搭載1GB GDDR5或2GB
 DDR3顯示記憶體，使用『Oland XT/Pro』顯示核心，而非Radeon HD
@@ -839,8 +839,7 @@ Tahiti XTL[38]</p></td>
 ## 另見
 
   - [AMD顯示核心列表](../Page/AMD顯示核心列表.md "wikilink")
-  - [NVIDIA GeForce
-    700](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_700 "wikilink")
+  - [NVIDIA GeForce 700](../Page/NVIDIA_GeForce_700.md "wikilink")
 
 ## 外部連結
 

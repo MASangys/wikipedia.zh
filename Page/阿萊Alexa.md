@@ -63,7 +63,7 @@ Digital等外置裝置記錄。
 
 截至目前為止，阿萊Alexa已經相繼被多位電影攝影師採用。第一部採用阿萊Alexa拍攝的電影為2011年[羅倫·艾默烈治執導的](https://zh.wikipedia.org/wiki/羅倫·艾默烈治 "wikilink")。
 
-香港電影方面，《[聽風者](../Page/聽風者.md "wikilink")》、《[大上海](https://zh.wikipedia.org/wiki/大上海 "wikilink")》及《[血滴子](https://zh.wikipedia.org/wiki/血滴子_\(2012年電影\) "wikilink")》亦採用阿萊Alexa拍攝。
+香港電影方面，《[聽風者](../Page/聽風者.md "wikilink")》、《[大上海](../Page/大上海.md "wikilink")》及《[血滴子](https://zh.wikipedia.org/wiki/血滴子_\(2012年電影\) "wikilink")》亦採用阿萊Alexa拍攝。
 
 ## 參考資料
 

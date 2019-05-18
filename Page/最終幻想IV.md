@@ -1,11 +1,11 @@
-是由[史克威爾](../Page/史克威爾.md "wikilink")（今[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）開發，並於1991年發行的[電子角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")，遊戲是[最終幻想系列的第四部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於日本[超級任天堂平臺首發](../Page/超級任天堂.md "wikilink")，後來於多個平臺移植或重製。由於《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》最初沒有在日本以外發行，遊戲最初在北美發行時題為「最終幻想II」（），但後來移植或重製的本地化版改為了原標題。
+是由[史克威爾](../Page/史克威爾.md "wikilink")（今[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）開發，並於1991年發行的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第四部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於日本[超級任天堂平臺首發](../Page/超級任天堂.md "wikilink")，後來於多個平臺移植或重製。由於《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》最初沒有在日本以外發行，遊戲最初在北美發行時題為「最終幻想II」（），但後來移植或重製的本地化版改為了原標題。
 
 遊戲圍繞主角暗騎士塞西爾，講述他試圖阻止法師高貝茲佔據毀滅世界的故事。在旅程中不斷有隊員加入，亦有人因死亡、受傷或其他不幸事件而離隊。《最終幻想IV》引入的新元素成為最終幻想系列及其他常規角色扮演遊戲的樣板。和系列前作前作不同，遊戲使用了“即時戰鬥”系統，此系統也應用於五部遊戲續作中，同時《IV》中每個角色有固定設定的職業。
 
 《最終幻想IV》以角色推動劇情，使用了新技術以及[植松伸夫廣受歡迎的配樂](../Page/植松伸夫.md "wikilink")，被視為系列與角色扮演遊戲的里程碑。《最終幻想IV》被視作最早使用複雜劇情的遊戲之一，並被認為開創了[RPG戲劇性劇情的理念](https://zh.wikipedia.org/wiki/RPG "wikilink")。[任天堂DS重制版使用了](https://zh.wikipedia.org/wiki/最终幻想IV_\(任天堂DS\) "wikilink")[3D画面](../Page/三维计算机图形.md "wikilink")，并于2007年和2008年在[任天堂DS平台发行](../Page/任天堂DS.md "wikilink")。其后传《[最終幻想IV
 The After
 -月之歸還-](https://zh.wikipedia.org/wiki/最終幻想IV_The_After_-月之歸還- "wikilink")》于2008年在日本[手机平台发行](../Page/手机游戏.md "wikilink")，并于2009年6月1日通过[Wii商店频道开放全球下载](https://zh.wikipedia.org/wiki/Wii商店频道 "wikilink")。2011年发行的《[最終幻想IV
-完全收藏輯](https://zh.wikipedia.org/wiki/最終幻想IV_完全收藏輯 "wikilink")》收录了《最终幻想IV》及《月之归还》。任天堂DS重制版的[iOS移植版于](../Page/iOS.md "wikilink")2012年12月20日发行，[Android版和](../Page/Android.md "wikilink")[Windows版分别于](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2013年和2014年发行。
+完全收藏輯](../Page/最終幻想IV_完全收藏輯.md "wikilink")》收录了《最终幻想IV》及《月之归还》。任天堂DS重制版的[iOS移植版于](https://zh.wikipedia.org/wiki/iOS "wikilink")2012年12月20日发行，[Android版和](../Page/Android.md "wikilink")[Windows版分别于](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2013年和2014年发行。
 
 ## 遊戲玩法
 
@@ -19,7 +19,7 @@ Fantasy IV》遊戲畫面。一行人在月球上和藍龍戰鬥的遊戲畫面\
 和之前RPG的回合制設計不同，史克威爾在《最終幻想IV》中引入了[即時戰鬥](https://zh.wikipedia.org/wiki/即時戰鬥 "wikilink")（ATB）系統\[8\]。該系統在後來的許多史克威爾遊戲中應用\[9\]。
 
 每個角色都由特定的強項和短板；例如一個強大的魔法師可能防禦很低，物理戰鬥者可能敏捷度低。如同其他最終幻想遊戲，角色可學會個更強大的新能力與戰鬥技能。魔法被分為用來治癒與支援的“白魔法”，用來攻擊的“黑魔法”，以及可呼喚召喚獸攻擊或完成特定功能的“召喚術”\[10\]。第四種類型“忍術”包括支援與攻擊法術，只有一名角色可以使用。12個操作角色中有8名角色可使用魔法，隨著升級到程序預設的等級，或完成特定劇情，角色就可以學會新魔法。為了消除長時間的練級，遊戲使用了平衡後的點數增長、道具與獎勵\[11\]。和幾部都在FC平臺發行的前作相比，《最終幻想IV》由於在更強大的超級任天堂平臺發行，因而圖形得以提升。遊戲使用了超級任天堂的[Mode
-7技術](https://zh.wikipedia.org/wiki/Mode_7 "wikilink")，故提升了魔法使用的視覺效果，飛空艇飛行時的傾斜地面與鳥瞰視圖也更具戲劇性\[12\]。
+7技術](../Page/Mode_7.md "wikilink")，故提升了魔法使用的視覺效果，飛空艇飛行時的傾斜地面與鳥瞰視圖也更具戲劇性\[12\]。
 
 ## 情節
 
@@ -49,7 +49,7 @@ Fantasy IV》遊戲畫面。一行人在月球上和藍龍戰鬥的遊戲畫面\
 
 继1990年《[最终幻想III](../Page/最终幻想III.md "wikilink")》成功发售后，史克威尔计划开发两部最终幻想游戏——一部于[FC游戏机平台](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，另一部为即将上市的[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")，并分别定名《最终幻想IV》和《最终幻想V》\[36\]。由于财政和日程表的限制，史克威尔放弃开发该FC游戏，而继续开发超级任天堂游戏，并将其重命名为《最终幻想IV》。曾有日本杂志发布过取消FC游戏的模拟截图，但除此之外几乎没有相关信息了\[37\]。《最终幻想IV》总监[坂口博信称FC游戏完成了近](../Page/坂口博信.md "wikilink")80%，一些理念重新在超级任天堂使用\[38\]。
 
-《最终幻想IV》总设计师[时田贵司在史克威尔的第一个工作是全职雇员](https://zh.wikipedia.org/wiki/时田贵司 "wikilink")。在此之前时田曾想成为一名戏剧演员，但在游戏的工作中他决定成为一名“伟大的电子游戏创作者”\[39\]。《最终幻想III》的主设计师[田中弘道也曾参与游戏开发](../Page/田中弘道.md "wikilink")。但田中想创作无缝战斗系统，既不使用独立屏幕也不使用菜单操作，自《最终幻想IV》不决定向那个方向开发式，他便让团队转向[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")《[圣剑传说](https://zh.wikipedia.org/wiki/圣剑传说 "wikilink")》的开发\[40\]。《最终幻想IV》的开发团队总计14人，游戏完成用了约1年时间\[41\]。
+《最终幻想IV》总设计师[时田贵司在史克威尔的第一个工作是全职雇员](../Page/时田贵司.md "wikilink")。在此之前时田曾想成为一名戏剧演员，但在游戏的工作中他决定成为一名“伟大的电子游戏创作者”\[39\]。《最终幻想III》的主设计师[田中弘道也曾参与游戏开发](../Page/田中弘道.md "wikilink")。但田中想创作无缝战斗系统，既不使用独立屏幕也不使用菜单操作，自《最终幻想IV》不决定向那个方向开发式，他便让团队转向[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")《[圣剑传说](https://zh.wikipedia.org/wiki/圣剑传说 "wikilink")》的开发\[40\]。《最终幻想IV》的开发团队总计14人，游戏完成用了约1年时间\[41\]。
 
 游戏总监坂口博信完成了游戏的初步理念，包括整个剧情以及巴伦皇家空军的名称“红翼”\[42\]\[43\]。即时战斗（ATB）系统由[伊藤裕之构思设计](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")，他的灵感来自于观看[一级方程式赛车时](../Page/一级方程式赛车.md "wikilink")，看到赛车以不同速度互相超越。他由此产生每个角色速度值不同的念头\[44\]\[45\]。该系统由青木和彦、伊藤和[松井聪彦开发](https://zh.wikipedia.org/wiki/松井聪彦 "wikilink")\[46\]。游戏主设计师时田编写了剧本，并创作了像素画\[47\]。时田称其压力很大，若不努力工作这个项目就不会完成。时田称，《最终幻想IV》的设计汇聚了他认为前三作中的精华：《最终幻想III》的职业系统，《最终幻想II》的故事聚焦，以及第一作中“作为游戏象征”的元素头目\[48\]。游戏还参考了《[勇者斗恶龙II](https://zh.wikipedia.org/wiki/勇者斗恶龙II "wikilink")》\[49\]。《最终幻想IV》的主题是随塞西尔“从黑暗走向光明”，聚焦于大量不同角色间的亲情与友情，以及“独自一人的蛮力并非力量”\[50\]。时田认为《最终幻想IV》是系列第一部真正有戏剧性的游戏\[51\]，也是第一部“角色、剧情有相当深度”的日式角色扮演游戏\[52\]。
 
@@ -80,14 +80,14 @@ Wishes）。直接表现死亡的内容也被删除了，尽管几个角色在�
 
 除了原版外，《最终幻想IV》还有多个不同的重制版。第一个版本是《最终幻想IV简易版》，在日本超级任天堂平台发行的游戏修改版，《简易版》设计的比北美版更为简单。在该中，武器攻击力获得提升，一些饰品和防具的防护效果获得强化\[67\]。
 
-[PlayStation移植版于](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1997年3月21日在日本首发。移植版由[东星软件制作](https://zh.wikipedia.org/wiki/东星软件 "wikilink")，任天堂发行，游戏由[青木和彦担任设计师兼总监](https://zh.wikipedia.org/wiki/青木和彦 "wikilink")，深谷文明监督，今井明弘制作\[68\]。该版本除了在《简易版》上做了调整外，和原版游戏相同。PlayStation版最显著的变化是在开场与结局加入全动态动画，通过按取消键加快在迷宫和城镇的移动速度，以及通过“备忘录”选项在世界地图任意处存档\[69\]。1999年3月11日，游戏随《最终幻想合集》()再次于日本PlayStation发行，该合辑其它的游戏是PlayStation版《[最终幻想V](../Page/最终幻想V.md "wikilink")》和《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》\[70\]。合辑发行了5万份限量版，其中附随最终幻想主题闹钟\[71\]。
+[PlayStation移植版于](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1997年3月21日在日本首发。移植版由[东星软件制作](../Page/东星软件.md "wikilink")，任天堂发行，游戏由[青木和彦担任设计师兼总监](https://zh.wikipedia.org/wiki/青木和彦 "wikilink")，深谷文明监督，今井明弘制作\[68\]。该版本除了在《简易版》上做了调整外，和原版游戏相同。PlayStation版最显著的变化是在开场与结局加入全动态动画，通过按取消键加快在迷宫和城镇的移动速度，以及通过“备忘录”选项在世界地图任意处存档\[69\]。1999年3月11日，游戏随《最终幻想合集》()再次于日本PlayStation发行，该合辑其它的游戏是PlayStation版《[最终幻想V](../Page/最终幻想V.md "wikilink")》和《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》\[70\]。合辑发行了5万份限量版，其中附随最终幻想主题闹钟\[71\]。
 
-PlayStation移植版后来与《[时空之轮](../Page/时空之轮.md "wikilink")》打包，于2001年以《[最终幻想编年史](https://zh.wikipedia.org/wiki/最终幻想编年史 "wikilink")》为名在北美发行；PlayStation版还与《最终幻想V》打包，于2002年以《最终幻想选集》()为名在欧洲和澳洲发行\[72\]。英文本地化版使用了新翻译，但一些翻译则使用了以前森山薰的翻译，如“You
+PlayStation移植版后来与《[时空之轮](../Page/时空之轮.md "wikilink")》打包，于2001年以《[最终幻想编年史](../Page/最终幻想编年史.md "wikilink")》为名在北美发行；PlayStation版还与《最终幻想V》打包，于2002年以《最终幻想选集》()为名在欧洲和澳洲发行\[72\]。英文本地化版使用了新翻译，但一些翻译则使用了以前森山薰的翻译，如“You
 spoony bard\!”被保留下来，并获爱好者的喜爱\[73\]。在PlayStation上做了少许改变的[WonderSwan
 Color重制版于](../Page/WonderSwan_Color.md "wikilink")2002年3月28日在日本发行。重制版通过加强细节与调整彩色浓淡，改善了角色的图标与背景\[74\]。
 
 [Game Boy
-Advance重制版由再次由](../Page/Game_Boy_Advance.md "wikilink")[东星软件移植](https://zh.wikipedia.org/wiki/东星软件 "wikilink")，发行名称为《最终幻想IV
+Advance重制版由再次由](../Page/Game_Boy_Advance.md "wikilink")[东星软件移植](../Page/东星软件.md "wikilink")，发行名称为《最终幻想IV
 Advance》。游戏由任天堂美国于2005年12月12日在北美发行，史克威尔艾尼克斯于2005年12月15日在日本发行，任天堂于2006年2月23日在澳洲发行，并于2006年6月2日在欧洲发行。游戏于日本发行了一个特别版，其中包括限量版[Game
 Boy
 Micro](../Page/Game_Boy_Micro.md "wikilink")，以及一个印有塞西尔和凯恩插画的面板\[75\]。游戏较WonderSwan移植版更大的改进了图像，并在音乐上做了小修改。英文本地化团队校订了翻译，改善了故事流畅度，并恢复了原版缺少的细节情节\[76\]。原北美版中删除的内容被重新加入，魔法名改用更接近日文的译名，如将“Bolt2”改为“Thundara”\[77\]。游戏在试炼之山加入了新洞窟，其中藏有五位角色的强力武器防具，此外还有游戏通关后才能进入的迷宫月之遗迹\[78\]。
@@ -96,23 +96,23 @@ Micro](../Page/Game_Boy_Micro.md "wikilink")，以及一个印有塞西尔和凯
 Software开发](../Page/Matrix_Software.md "wikilink")，团队是《[最终幻想III](https://zh.wikipedia.org/wiki/最终幻想III#3D重制版 "wikilink")》DS重制版的制作团队，重制版由原版开发团队监督：时田贵司担任[执行制作人兼总监](https://zh.wikipedia.org/wiki/执行制作人 "wikilink")，[浅野智也担任制作人](https://zh.wikipedia.org/wiki/浅野智也 "wikilink")，伊藤裕之担任战斗设计师。动画师[金田伊功绘制新](../Page/金田伊功.md "wikilink")[过场动画分镜](https://zh.wikipedia.org/wiki/过场动画 "wikilink")。
 
 原版游戏[Wii](../Page/Wii.md "wikilink") [Virtual
-Console服务于](../Page/Virtual_Console.md "wikilink")2009年8月4日在日本发布，2010年3月8日在北美发布，2010年6月11日在PAL区发布\[80\]。与日本[i-mode手机兼容的强化移植版于](../Page/i-mode.md "wikilink")2009年5月发行。其保留了Wonderswan
+Console服务于](../Page/Virtual_Console.md "wikilink")2009年8月4日在日本发布，2010年3月8日在北美发布，2010年6月11日在PAL区发布\[80\]。与日本[i-mode手机兼容的强化移植版于](https://zh.wikipedia.org/wiki/i-mode "wikilink")2009年5月发行。其保留了Wonderswan
 Color于Game Boy
-Color移植版的特性，但将画质提升为后来游戏《[月之归还](https://zh.wikipedia.org/wiki/最终幻想IV_The_After_-月之归还- "wikilink")》的水平，并加入了可在游戏完成后可以进入的新“附加迷宫”\[81\]。
+Color移植版的特性，但将画质提升为后来游戏《[月之归还](../Page/最终幻想IV_The_After_-月之归还-.md "wikilink")》的水平，并加入了可在游戏完成后可以进入的新“附加迷宫”\[81\]。
 
 游戏随《月之归还》以《[最终幻想IV
 完美收藏版](https://zh.wikipedia.org/wiki/最终幻想IV_完美收藏版 "wikilink")》为名发行于[PlayStation
 Portable平台](../Page/PlayStation_Portable.md "wikilink")。和3D画面的DS重制版不同，该版本使用了更新的[2D图形](../Page/二维计算机图形.md "wikilink")。合辑还加入了发生在游戏和《月之归还》情节间的新篇章《最终幻想IV
-插曲》。[滨涡正志为游戏重编了主题曲](https://zh.wikipedia.org/wiki/滨涡正志 "wikilink")\[82\]。游戏于2011年3月24日在日本发行，2011年4月19日在北美发行，2011年4月21日在欧洲发行，2011年4月28日在澳洲发行\[83\]。2012年12月18日，PlayStation移植版随《最终幻想25周年纪念超级包》在日本发行\[84\]。
+插曲》。[滨涡正志为游戏重编了主题曲](../Page/滨涡正志.md "wikilink")\[82\]。游戏于2011年3月24日在日本发行，2011年4月19日在北美发行，2011年4月21日在欧洲发行，2011年4月28日在澳洲发行\[83\]。2012年12月18日，PlayStation移植版随《最终幻想25周年纪念超级包》在日本发行\[84\]。
 
 2012年12月发布iOS版，2013年6月发布Android版。这两个版本均移植自任天堂DS版，且增加了“极易”这一难度选项。2014年9月27日，在没有宣传的情况下发行了Microsoft
 Windows版\[85\]。
 
 ## 評價
 
-主流评论将《最终幻想IV》称为史上最伟大的电子游戏之一，称其开辟了当今常见[游戏机角色扮演游戏之特征](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")，其中包括“RPG之戏剧性概念”\[86\]\[87\]。评论称赞了游戏图像、系统和配乐\[88\]\[89\]，並稱《最終幻想IV》是最早使用複雜情節的角色扮演遊戲之一\[90\]\[91\]。遊戲於1991年一經發行時，《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》就稱其為角色扮演遊戲的“傑出新標準”\[92\]。此外《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》在1992年3月刊中給遊戲打了5/5的滿分\[93\]。《[龍](https://zh.wikipedia.org/wiki/龍_\(雜誌\) "wikilink")》的評論員[桑迪·皮特森評給遊戲](../Page/桑迪·皮特森.md "wikilink")“傑出”的等級，稱讚了遊戲音樂、難度以及劇情，稱遊戲和大多數RPG的隊員總是“站在一起，同甘共苦”不同，該遊戲中角色有自己的動機，並經常從隊伍中離開，“甚至背叛”他們。他認為遊戲就像“講述了幻想小說的故事情節”，並將其和《[魔戒](../Page/魔戒.md "wikilink")》與《[铁面人](https://zh.wikipedia.org/wiki/铁面人 "wikilink")》做了對比，因為“角色往往為自己說話”，他“比其他任何電腦遊戲”都“更依戀”隊伍\[94\]。
+主流评论将《最终幻想IV》称为史上最伟大的电子游戏之一，称其开辟了当今常见[游戏机角色扮演游戏之特征](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")，其中包括“RPG之戏剧性概念”\[86\]\[87\]。评论称赞了游戏图像、系统和配乐\[88\]\[89\]，並稱《最終幻想IV》是最早使用複雜情節的角色扮演遊戲之一\[90\]\[91\]。遊戲於1991年一經發行時，《[任天堂力量](../Page/任天堂力量.md "wikilink")》就稱其為角色扮演遊戲的“傑出新標準”\[92\]。此外《[GamePro](https://zh.wikipedia.org/wiki/GamePro "wikilink")》在1992年3月刊中給遊戲打了5/5的滿分\[93\]。《[龍](https://zh.wikipedia.org/wiki/龍_\(雜誌\) "wikilink")》的評論員[桑迪·皮特森評給遊戲](../Page/桑迪·皮特森.md "wikilink")“傑出”的等級，稱讚了遊戲音樂、難度以及劇情，稱遊戲和大多數RPG的隊員總是“站在一起，同甘共苦”不同，該遊戲中角色有自己的動機，並經常從隊伍中離開，“甚至背叛”他們。他認為遊戲就像“講述了幻想小說的故事情節”，並將其和《[魔戒](../Page/魔戒.md "wikilink")》與《[铁面人](https://zh.wikipedia.org/wiki/铁面人 "wikilink")》做了對比，因為“角色往往為自己說話”，他“比其他任何電腦遊戲”都“更依戀”隊伍\[94\]。
 
-在《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》的第100期和200期中，遊戲登上“100個最偉大任天堂遊戲”的第9名和28名\[95\]\[96\]。在2005年，[IGN將遊戲列為史上最佳遊戲的第](../Page/IGN.md "wikilink")26名，並成為當時排名最高的最終幻想作品；但在2007年，遊戲排名第55，次於《[最終幻想VI](https://zh.wikipedia.org/wiki/最終幻想VI "wikilink")》和《[最終幻想戰略版](https://zh.wikipedia.org/wiki/最終幻想戰略版 "wikilink")》\[97\]\[98\]。在《[Fami通](../Page/Fami通.md "wikilink")》2006年舉辦的讀者投票中，遊戲排名第6\[99\]。但英文原版遊戲的糟糕翻譯或質量卻得到了強烈批評\[100\]\[101\]。
+在《[任天堂力量](../Page/任天堂力量.md "wikilink")》的第100期和200期中，遊戲登上“100個最偉大任天堂遊戲”的第9名和28名\[95\]\[96\]。在2005年，[IGN將遊戲列為史上最佳遊戲的第](../Page/IGN.md "wikilink")26名，並成為當時排名最高的最終幻想作品；但在2007年，遊戲排名第55，次於《[最終幻想VI](https://zh.wikipedia.org/wiki/最終幻想VI "wikilink")》和《[最終幻想戰略版](https://zh.wikipedia.org/wiki/最終幻想戰略版 "wikilink")》\[97\]\[98\]。在《[Fami通](../Page/Fami通.md "wikilink")》2006年舉辦的讀者投票中，遊戲排名第6\[99\]。但英文原版遊戲的糟糕翻譯或質量卻得到了強烈批評\[100\]\[101\]。
 
 超級任天堂版《最終幻想IV》在日本售出144万份\[102\]。截至2003年3月31日，SFC版、PlayStation版和WonderSwan
 Color版累計在全球出貨216萬，其中日本182萬，海外34萬\[103\]。2007年發售了任天堂版，截至2009年5月該版在全球售出110萬份\[104\]。
@@ -125,8 +125,8 @@ RPG提名\[114\]。
 ## 影響
 
 《最終幻想IV》的後傳《[最终幻想IV The After
--月之归还-](https://zh.wikipedia.org/wiki/最终幻想IV_The_After_-月之归还- "wikilink")》設定於原遊戲17年之後。遊戲前兩章於2008年2月在日本[NTT
-DoCoMo](../Page/NTT_DoCoMo.md "wikilink") [FOMA
+-月之归还-](../Page/最终幻想IV_The_After_-月之归还-.md "wikilink")》設定於原遊戲17年之後。遊戲前兩章於2008年2月在日本[NTT
+DoCoMo](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink") [FOMA
 903i系列手機上發行](https://zh.wikipedia.org/wiki/FOMA "wikilink")，並預定於2008年第一季度在[au
 WIN
 BREW系列手機上發行](https://zh.wikipedia.org/wiki/Au_\(行動電話公司\) "wikilink")。遊戲主角為塞西爾於羅莎之子賽歐多亞，前作的多數角色也會登場，一些角色還會扮演更重要的角色，同時遊戲還有一些新角色\[115\]\[116\]。繼行動電話版發行後，又流出了遊戲在日本以外發行的信息\[117\]。在2009年3月25日，任天堂2009年[遊戲開發者大會的主題報告上](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")，[岩田聰稱將在年內稍後為北美](../Page/岩田聰.md "wikilink")[Wii開放](../Page/Wii.md "wikilink")《月之歸還》的[WiWare服務](https://zh.wikipedia.org/wiki/WiWare "wikilink")\[118\]。前兩章於2009年6月1日在北美發行，2009年6月5日在PAL區發行，其他章節將在幾個月後發行\[119\]\[120\]。

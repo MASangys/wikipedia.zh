@@ -38,7 +38,7 @@ Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴惠慶" title="wikilink">朴惠慶</a>（Park Hye-Kyeong）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p>黃色</p></td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、
 Pop成員陷入困頓之際。成員們為了展現對音樂永不放棄的決心，於是便開始了「街頭突擊\[9\]\[10\]」的表演，在捷運站、地下街、商圈廣場、店家門口前...等，都是Crayon
 Pop當時所僅有的華麗舞台。不畏懼路人投以異樣的眼光，此種街頭即興表演的方式令路人們感到相當新奇有趣，逐漸吸引了一群忠心的歌迷「POP大叔」。以此出道至今，便維持了以街頭突擊為主要宣傳方式。2013年，以《Bar
 Bar
-Bar》的「直列五汽缸舞」红遍韩国，让她们人气大增。六月份剛發行時並未獲得樂迷重視，直至七月份才紅遍韓國大街小巷，並掀起連串的模仿潮，音源榜也從百名外以光速竄升至第一名。韩国网友形容為繼《[江南style](../Page/江南style.md "wikilink")》和《[Gentleman](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》后，第3首人气搞怪舞蹈歌曲。
+Bar》的「直列五汽缸舞」红遍韩国，让她们人气大增。六月份剛發行時並未獲得樂迷重視，直至七月份才紅遍韓國大街小巷，並掀起連串的模仿潮，音源榜也從百名外以光速竄升至第一名。韩国网友形容為繼《[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")》和《[Gentleman](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》后，第3首人气搞怪舞蹈歌曲。
 
 2014年10月15日，成員CHOA和WAY（[雙胞胎姊妹](../Page/雙胞胎.md "wikilink")）組成了Crayon
 Pop的首隊分支組合－[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「草莓牛奶」（），並於當日發行迷你專輯《The

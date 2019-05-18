@@ -5,7 +5,7 @@
 1.  **[幻化成花](https://zh.wikipedia.org/wiki/幻化成花 "wikilink")**
     [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
 2.  **春風**
-    作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、百田留衣、作曲・編曲：百田留衣
+    作詞：[山村隆太](../Page/山村隆太.md "wikilink")、百田留衣、作曲・編曲：百田留衣
 3.  **[Over the rain
     〜光芒之橋〜](https://zh.wikipedia.org/wiki/Over_the_rain_〜光芒之橋〜 "wikilink")**
     作詞：山村隆太、作曲：[トキタサトシ](https://zh.wikipedia.org/wiki/トキタサトシ "wikilink")、編曲：百田留衣
@@ -13,11 +13,11 @@
     作詞・作曲：flumpool、編曲：トキタサトシ、flumpool
 5.  **Hello**
     作詞・作曲：flumpool、編曲：[古川貴浩](https://zh.wikipedia.org/wiki/古川貴浩 "wikilink")、flumpool
-6.  **[labo](../Page/labo.md "wikilink")**
+6.  **[labo](https://zh.wikipedia.org/wiki/labo "wikilink")**
     作詞・作曲・編曲：flumpool
-7.  **[LOST](../Page/labo.md "wikilink")**
+7.  **[LOST](https://zh.wikipedia.org/wiki/labo "wikilink")**
     作詞・作曲・編曲：flumpool
-8.  **[未来](../Page/labo.md "wikilink")**
+8.  **[未来](https://zh.wikipedia.org/wiki/labo "wikilink")**
     作詞・作曲・編曲：flumpool
 9.  **花になれ instrumental**
 10. **Over the rain 〜ひかりの橋〜 instrumental**

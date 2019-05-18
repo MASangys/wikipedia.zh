@@ -22,17 +22,17 @@
   - [Xubuntu](../Page/Xubuntu.md "wikilink")
   - [Mythbuntu](https://zh.wikipedia.org/wiki/Mythbuntu "wikilink")
   - [Linux Mint](../Page/Linux_Mint.md "wikilink")
-  - [gNewSense](../Page/gNewSense.md "wikilink")
+  - [gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")
   - [Trisquel](https://zh.wikipedia.org/wiki/Trisquel "wikilink")
   - [Asturix](https://zh.wikipedia.org/wiki/Asturix "wikilink")
-  - [Zorin OS](https://zh.wikipedia.org/wiki/Zorin_OS "wikilink")
+  - [Zorin OS](../Page/Zorin_OS.md "wikilink")
   - [Tuquito](https://web.archive.org/web/20161014095515/http://www.tuquito.org.ar/)
 
 ## 参见
 
   - [Anaconda](../Page/Anaconda.md "wikilink")
   - [Wubi](../Page/Wubi.md "wikilink")
-  - [Debian安裝程式](https://zh.wikipedia.org/wiki/Debian安裝程式 "wikilink")
+  - [Debian安裝程式](../Page/Debian安裝程式.md "wikilink")
 
 ## 参考
 

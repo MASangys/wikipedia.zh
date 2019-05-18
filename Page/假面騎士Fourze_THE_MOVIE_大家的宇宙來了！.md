@@ -32,7 +32,7 @@ Knight**對**假面騎士部**進行妨礙......
     假面騎士Fourze變身者，天之川學園高中的3年級生。
     假面騎士部始創人。
 
-**朔田流星（）**（[吉澤亮飾](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+**朔田流星（）**（[吉澤亮飾](../Page/吉澤亮.md "wikilink")）
 
   -
     假面騎士Meteor變身者，天之川學園高中的3年級特別轉校生。
@@ -208,7 +208,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **假面騎士Meteor**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink")）
+  - **假面騎士Meteor**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[吉澤亮](../Page/吉澤亮.md "wikilink")）
       - Meteor
       - Meteor Storm
 
@@ -998,8 +998,7 @@ Knight**對**假面騎士部**進行妨礙......
   - 如月弦太朗 / 假面騎士Fourze - [福士蒼汰](../Page/福士蒼汰.md "wikilink") 飾/聲
   - 歌星賢吾 - [高橋龍輝](../Page/高橋龍輝.md "wikilink") 飾
   - 城島悠木 - [清水富美加](../Page/清水富美加.md "wikilink") 飾
-  - 朔田流星 / 假面騎士Meteor -
-    [吉澤亮](https://zh.wikipedia.org/wiki/吉澤亮 "wikilink") 飾/聲
+  - 朔田流星 / 假面騎士Meteor - [吉澤亮](../Page/吉澤亮.md "wikilink") 飾/聲
   - 風城美羽 - [坂田梨香子](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink") 飾
   - 大文字隼 -
     [冨森Justin](https://zh.wikipedia.org/wiki/:ja:冨森ジャスティン "wikilink")

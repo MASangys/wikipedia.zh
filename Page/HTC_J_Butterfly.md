@@ -6,7 +6,7 @@ Butterfly也**是第一支搭載1080P螢幕的手機**。
 而HTC J Butterfly也有許多兄弟機，有美國電信商客製的[Verizon Droid DNA by
 HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")，中國大陸電信商客製的HTC
 Butterfly，國際版的[HTC
-Butterfly](https://zh.wikipedia.org/wiki/HTC_Butterfly "wikilink")，國際版的[HTC
+Butterfly](../Page/HTC_Butterfly.md "wikilink")，國際版的[HTC
 Butterfly
 s](https://zh.wikipedia.org/wiki/HTC_Butterfly_s "wikilink")，中國大陸電信商客製的HTC
 Butterfly s，這些兄弟機們各個規格略有不同。

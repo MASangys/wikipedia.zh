@@ -212,7 +212,7 @@ Bulldozer微架構時表示Bulldozer架構實現“一年一改進”，2011年�
 
 18. [AMD 打桩机 Piledriver
     内核有望突破 4GHz](http://cn.engadget.com/tag/resonant+clock+mesh/)
-    - [engadget](../Page/engadget.md "wikilink")
+    - [engadget](https://zh.wikipedia.org/wiki/engadget "wikilink")
 
 19. [打桩机内核照片首次公开 默频超4GHz](http://news.mydrivers.com/1/218/218695.htm) -
     驅動之家

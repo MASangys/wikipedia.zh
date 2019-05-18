@@ -5,9 +5,9 @@ Games开发并由](https://zh.wikipedia.org/wiki/Vigil_Games "wikilink")[THQ发�
 
 加強版本《末世騎士II 死亡決定版》（Darksiders II The Deathinitive
 Edition）於2015年10月在[PlayStation
-4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox
-One和Windows上發售](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")，由[Nordic
-Games負責發行](https://zh.wikipedia.org/wiki/Nordic_Games "wikilink")。\[1\]新續作《[末世騎士III](https://zh.wikipedia.org/wiki/末世騎士III "wikilink")》預計於2018年推出。
+4](../Page/PlayStation_4.md "wikilink")、[Xbox
+One和Windows上發售](../Page/Xbox_One.md "wikilink")，由[Nordic
+Games負責發行](https://zh.wikipedia.org/wiki/Nordic_Games "wikilink")。\[1\]新續作《[末世騎士III](../Page/末世騎士III.md "wikilink")》預計於2018年推出。
 
 ## 系統
 
@@ -25,7 +25,7 @@ Lands）：當地人表示黑暗力量腐蝕（Corruption）正逐漸吞噬世�
 Souls）以復活人類：已死的烏鴉教父表示該井擁有主宰生與死的力量，人類的靈魂全被傳送至該井中，但需要兩把分別由天使與惡魔保管之鑰匙開啟。烏鴉教父也透露議會因擔心四騎士了解靈魂之井的力量後會把拿非利族復活而把相關情報保密。
 
 死神先後前往天堂哨站失落之光（Lostlight）與地獄領域暗影之稜（Shadow's
-Edge），分別擊敗[執政官](https://zh.wikipedia.org/wiki/執政官 "wikilink")（Archon）和[薩麥爾](https://zh.wikipedia.org/wiki/薩麥爾 "wikilink")（Samael）並取得兩匙。死神也於暗影之稜遇上創造了拿非利人之惡魔女王[莉莉斯](../Page/莉莉斯.md "wikilink")（Lilith），她在死神離開前希望他能利用靈魂之井把拿非利族復活。兩匙在手的死神進入生命之樹與被腐蝕吞噬之押沙龍進行戰鬥，死神戰勝後烏鴉教父現身表示靈魂之井只要獲得活祭就能把人類或拿非利族復活，但一方復活將使另一方永遠滅絕。為拯救戰神，死神決定復活人類而跳進井中，同時於人間界戰神也殺死了化身為毀滅者之[亞巴頓](../Page/亞巴頓.md "wikilink")（Abaddon），並向[烏列爾](https://zh.wikipedia.org/wiki/烏列爾 "wikilink")（Uriel）表示他將不會孤獨作戰：[七印被打破後](../Page/七印.md "wikilink")，死神與其餘兩名騎士降臨人間界。
+Edge），分別擊敗[執政官](https://zh.wikipedia.org/wiki/執政官 "wikilink")（Archon）和[薩麥爾](https://zh.wikipedia.org/wiki/薩麥爾 "wikilink")（Samael）並取得兩匙。死神也於暗影之稜遇上創造了拿非利人之惡魔女王[莉莉斯](../Page/莉莉斯.md "wikilink")（Lilith），她在死神離開前希望他能利用靈魂之井把拿非利族復活。兩匙在手的死神進入生命之樹與被腐蝕吞噬之押沙龍進行戰鬥，死神戰勝後烏鴉教父現身表示靈魂之井只要獲得活祭就能把人類或拿非利族復活，但一方復活將使另一方永遠滅絕。為拯救戰神，死神決定復活人類而跳進井中，同時於人間界戰神也殺死了化身為毀滅者之[亞巴頓](../Page/亞巴頓.md "wikilink")（Abaddon），並向[烏列爾](../Page/烏列爾.md "wikilink")（Uriel）表示他將不會孤獨作戰：[七印被打破後](../Page/七印.md "wikilink")，死神與其餘兩名騎士降臨人間界。
 
 後記劇情中，一名被莉莉斯稱為王子之人物對人類被復活而拿非利族被犧牲非常憤怒，並向莉莉斯施行酷刑。
 

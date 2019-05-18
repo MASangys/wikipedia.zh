@@ -11,7 +11,7 @@
     [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
 甘油脱氢酶
-(NADP<sup>+</sup>)主要参与[甘油酯的](https://zh.wikipedia.org/wiki/甘油酯 "wikilink")[代谢过程](../Page/代谢.md "wikilink")。
+(NADP<sup>+</sup>)主要参与[甘油酯的](../Page/甘油酯.md "wikilink")[代谢过程](../Page/代谢.md "wikilink")。
 
 ## 参考文献
 

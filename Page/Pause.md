@@ -28,7 +28,7 @@
 <tr class="even">
 <td><p>2.</p></td>
 <td><p>不要廢話</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭嘉嘉" title="wikilink">鄭嘉嘉</a></p></td>
+<td><p><a href="../Page/鄭嘉嘉.md" title="wikilink">鄭嘉嘉</a></p></td>
 <td><p><a href="../Page/蔡冕麗.md" title="wikilink">夏至</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Johnny_Yim" title="wikilink">Johnny Yim</a></p></td>
 <td><p>Johnny Yim</p></td>
@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>4.</p></td>
 <td><p>自問自答</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱俊傑" title="wikilink">朱俊傑</a></p></td>
+<td><p><a href="../Page/朱俊傑.md" title="wikilink">朱俊傑</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Goran_Tse" title="wikilink">Goran Tse</a><br />
 <a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p>朱俊傑</p></td>

@@ -93,7 +93,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
 <td><p>第一話</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/冨岡淳廣" title="wikilink">冨岡淳廣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鍋島修" title="wikilink">鍋島修</a><br />
+<td><p><a href="../Page/鍋島修.md" title="wikilink">鍋島修</a><br />
 <a href="https://zh.wikipedia.org/wiki/高谷浩利" title="wikilink">高谷浩利</a></p></td>
 <td><p>鍋島修</p></td>
 <td><p>岩佐裕子</p></td>
@@ -107,7 +107,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
 <td><p>本多康之<br />
 高谷浩利</p></td>
 <td><p>原田奈奈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戶部敦夫" title="wikilink">戶部敦夫</a></p></td>
+<td><p><a href="../Page/戶部敦夫.md" title="wikilink">戶部敦夫</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -9,7 +9,7 @@ Outlook的网页版](../Page/Microsoft_Outlook.md "wikilink")。这些网页应�
 ## 可用性
 
 支持的瀏覽器包括[Internet Explorer
-11版本](https://zh.wikipedia.org/wiki/Internet_Explorer_11 "wikilink")，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Google
+11版本](../Page/Internet_Explorer_11.md "wikilink")，最新版本的[Firefox和](../Page/Firefox.md "wikilink")[Google
 Chrome](../Page/Google_Chrome.md "wikilink")，以及[Safari的Mac OS X
 v10.6或更高版本](../Page/Safari.md "wikilink")\[1\]
 

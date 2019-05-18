@@ -14,7 +14,7 @@ K
 [K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")\[4\]\[5\]，這遠高於液態水能存在的溫度，甚至高於許多含矽酸鹽岩石熔化成[岩漿的溫度](../Page/岩漿.md "wikilink")。相較之下，太陽系中表面溫度最高的行星金星表面溫度是462°C或735
 K。
 
-[星震分析](../Page/星震學.md "wikilink")、[色球活動和恆星自轉](../Page/色球.md "wikilink")（[迴轉年代學](https://zh.wikipedia.org/wiki/迴轉年代學 "wikilink")）研究南門二A和B的結果，判定這兩顆恆星的年齡稍高於太陽系，大約是45到70億年\[6\]。
+[星震分析](../Page/星震學.md "wikilink")、[色球活動和恆星自轉](../Page/色球.md "wikilink")（[迴轉年代學](../Page/迴轉年代學.md "wikilink")）研究南門二A和B的結果，判定這兩顆恆星的年齡稍高於太陽系，大約是45到70億年\[6\]。
 
 ## 偵測
 

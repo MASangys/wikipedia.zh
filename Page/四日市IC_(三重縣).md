@@ -1,4 +1,4 @@
-**四日市IC**（平假名：よっかいちインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市的](../Page/四日市市.md "wikilink")[東名阪自動車道之](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**四日市IC**（平假名：よっかいちインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[四日市市的](../Page/四日市市.md "wikilink")[東名阪自動車道之](../Page/東名阪自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 1970年4月17日 -
-    [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")[龜山IC至四日市IC開通](https://zh.wikipedia.org/wiki/龜山IC "wikilink")，此交流道也同時啟用。
+    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[龜山IC至四日市IC開通](https://zh.wikipedia.org/wiki/龜山IC "wikilink")，此交流道也同時啟用。
   - 1971年8月9日 -
     東名阪自動車道[桑名IC至四日市IC開通](https://zh.wikipedia.org/wiki/桑名IC "wikilink")。
 
@@ -43,7 +43,7 @@
 
 ## 鄰近設施
 
-  - [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")
+  - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
     (30)[四日市東IC](../Page/四日市東IC.md "wikilink") -
     [御在所SA](https://zh.wikipedia.org/wiki/御在所SA "wikilink") -
     (31)**四日市IC** -

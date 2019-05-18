@@ -31,9 +31,9 @@ Look」設計語彙，4115×1700×1475mm的車身和2550mm軸距，新世代Yari
 
 ## 另見
 
-  - [豐田Vios](https://zh.wikipedia.org/wiki/豐田Vios "wikilink")：四門車款的次紧凑型车
+  - [豐田Vios](../Page/豐田Vios.md "wikilink")：四門車款的次紧凑型车
   - [豐田Prius
-    c](https://zh.wikipedia.org/wiki/豐田Prius_c "wikilink")：[油電複合動力的次紧凑型车](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")
+    c](../Page/豐田Prius_c.md "wikilink")：[油電複合動力的次紧凑型车](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")
 
 ## 參考資料
 

@@ -40,7 +40,7 @@ rm
   - **-f** ： 强制("force")，忽视不存在的文件，无视任何的确认提示。但是若目录写保护，这一命令无法移除该目录中的文件。
 
 利用[C
-shell命令](../Page/C_shell.md "wikilink")[alias或是](https://zh.wikipedia.org/wiki/alias "wikilink")[Bourne
+shell命令](https://zh.wikipedia.org/wiki/C_shell "wikilink")[alias或是](https://zh.wikipedia.org/wiki/alias "wikilink")[Bourne
 shell的功能](../Page/Bourne_shell.md "wikilink")，rm命令常常被“rm
 -i”命令覆盖，这样可以防止意外的文件删除操作。
 如果用户还是想不通过确认而删除大量的文件，他们可以手动为命令追加“-f”参数，取消"-i"参数的效果（这是因为加上“-f”参数后，命令变为了“rm
@@ -51,7 +51,7 @@ shell的功能](../Page/Bourne_shell.md "wikilink")，rm命令常常被“rm
 若在根目录由[超级用户执行](../Page/超级用户.md "wikilink") `rm -rf`
 命令，将会导致系统中所有已挂载可写入文件系统中所有内容的清除，直到系统自身因为丢失重要文件或目录而崩溃或其他致命系统事件，这一命令才会终止。
 
-rm命令常常与[xargs命令一起使用](../Page/xargs.md "wikilink")，这样就可以支持给定列表的文件批量删除：
+rm命令常常与[xargs命令一起使用](https://zh.wikipedia.org/wiki/xargs "wikilink")，这样就可以支持给定列表的文件批量删除：
 
 ``` bash
  xargs rm < filelist

@@ -1,9 +1,9 @@
-《**單戀**》（）是[日本女歌手](../Page/日本.md "wikilink")[miwa的第](../Page/miwa.md "wikilink")8張單曲，於2012年2月1日由[Sony
+《**單戀**》（）是[日本女歌手](../Page/日本.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")8張單曲，於2012年2月1日由[Sony
 Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要
 
-單曲距離前作《[FRiDAY-MA-MAGiC](../Page/FRiDAY-MA-MAGiC.md "wikilink")》發行約4個半月，為[miwa於](../Page/miwa.md "wikilink")2012年發行的第1張單曲。
+單曲距離前作《[FRiDAY-MA-MAGiC](../Page/FRiDAY-MA-MAGiC.md "wikilink")》發行約4個半月，為[miwa於](https://zh.wikipedia.org/wiki/miwa "wikilink")2012年發行的第1張單曲。
 
 ## 收錄歌曲
 

@@ -51,7 +51,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lonely" title="wikilink">Lonely</a></strong></p>
+<td><p><strong><a href="../Page/Lonely.md" title="wikilink">Lonely</a></strong></p>
 <ul>
 <li>發行: 2012年11月23日</li>
 <li>發行商: B2M Entertainment/LOEN Entertainment</li>
@@ -211,7 +211,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lonely" title="wikilink">Lonely</a></strong></p></td>
+<td><p><strong><a href="../Page/Lonely.md" title="wikilink">Lonely</a></strong></p></td>
 <td><p>38</p></td>
 <td><p>7,887,660</p></td>
 <td></td>
@@ -275,7 +275,7 @@
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
 <td><ul>
-<li>MNET《<a href="https://zh.wikipedia.org/wiki/Dancing_9" title="wikilink">Dancing 9</a>》節目主題曲</li>
+<li>MNET《<a href="../Page/Dancing_9.md" title="wikilink">Dancing 9</a>》節目主題曲</li>
 <li>發行日期：2013年9月26日</li>
 <li>語言：韓語</li>
 <li>歌手：SPICA</li>
@@ -315,7 +315,7 @@
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
 <td><ul>
-<li>MBC Drama 金曜劇《<a href="https://zh.wikipedia.org/wiki/瑞典洗衣店" title="wikilink">瑞典洗衣店</a>》OST 4</li>
+<li>MBC Drama 金曜劇《<a href="../Page/瑞典洗衣店.md" title="wikilink">瑞典洗衣店</a>》OST 4</li>
 <li>發行日期：2015年1月9日</li>
 <li>語言：韓語</li>
 <li>歌手：<a href="../Page/朴娜萊.md" title="wikilink">朴娜萊</a></li>
@@ -325,7 +325,7 @@
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
 <td><ul>
-<li>tvN 金土剧《<a href="https://zh.wikipedia.org/wiki/Super_Daddy_烈" title="wikilink">Super Daddy 烈</a>》OST 2</li>
+<li>tvN 金土剧《<a href="../Page/Super_Daddy_烈.md" title="wikilink">Super Daddy 烈</a>》OST 2</li>
 <li>發行日期：2015年3月28日</li>
 <li>語言：韓語</li>
 <li>歌手：SPICA</li>
@@ -395,7 +395,7 @@
 <tr class="even">
 <td><p><strong>14th</strong></p></td>
 <td><ul>
-<li>KBS2 水木劇《<a href="https://zh.wikipedia.org/wiki/今天的偵探" title="wikilink">今天的偵探</a>》OST 1</li>
+<li>KBS2 水木劇《<a href="../Page/今天的偵探.md" title="wikilink">今天的偵探</a>》OST 1</li>
 <li>發行日期：2018年9月5日</li>
 <li>語言：韓語</li>
 <li>歌手：<a href="../Page/朴娜萊.md" title="wikilink">朴娜萊</a></li>
@@ -419,7 +419,7 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><ul>
-<li>Idol Vocal League－<a href="https://zh.wikipedia.org/wiki/Girl_Spirit" title="wikilink">Girl Spirit</a> Episode 03</li>
+<li>Idol Vocal League－<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a> Episode 03</li>
 <li>發行日期：2016年8月3日</li>
 <li>語言：韓語</li>
 <li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a></li>
@@ -429,7 +429,7 @@
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
 <td><ul>
-<li>Idol Vocal League－<a href="https://zh.wikipedia.org/wiki/Girl_Spirit" title="wikilink">Girl Spirit</a> Episode 05</li>
+<li>Idol Vocal League－<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a> Episode 05</li>
 <li>發行日期：2016年8月17日</li>
 <li>語言：韓語</li>
 <li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a>（feat. Flowsik）</li>
@@ -439,17 +439,17 @@
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
 <td><ul>
-<li>Idol Vocal League－<a href="https://zh.wikipedia.org/wiki/Girl_Spirit" title="wikilink">Girl Spirit</a> Episode 06</li>
+<li>Idol Vocal League－<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a> Episode 06</li>
 <li>發行日期：2016年8月24日</li>
 <li>語言：韓語</li>
-<li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a> &amp; <a href="https://zh.wikipedia.org/wiki/CLC" title="wikilink">CLC</a> 吳承姬</li>
+<li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a> &amp; <a href="../Page/CLC.md" title="wikilink">CLC</a> 吳承姬</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
 <td><ul>
-<li>Idol Vocal League－<a href="https://zh.wikipedia.org/wiki/Girl_Spirit" title="wikilink">Girl Spirit</a> Episode 10</li>
+<li>Idol Vocal League－<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a> Episode 10</li>
 <li>發行日期：2016年9月21日</li>
 <li>語言：韓語</li>
 <li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a></li>
@@ -459,7 +459,7 @@
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
 <td><ul>
-<li>Idol Vocal League－<a href="https://zh.wikipedia.org/wiki/Girl_Spirit" title="wikilink">Girl Spirit</a> Episode 11</li>
+<li>Idol Vocal League－<a href="../Page/Girl_Spirit.md" title="wikilink">Girl Spirit</a> Episode 11</li>
 <li>發行日期：2016年9月28日</li>
 <li>語言：韓語 &amp; 英語</li>
 <li>歌手：<a href="../Page/金保亨.md" title="wikilink">金保亨</a></li>
@@ -482,7 +482,7 @@
 <li>Tribe of Hiphop2 Episode 2</li>
 <li>發行日期：2016年12月21日</li>
 <li>語言：韓語</li>
-<li>歌手：<a href="../Page/金甫娥.md" title="wikilink">金甫娥</a> &amp; 朴俊勉 &amp; <a href="https://zh.wikipedia.org/wiki/李伊庚" title="wikilink">李伊庚</a> &amp; <a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">張基勇</a> &amp; <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="../Page/創造_(歌手).md" title="wikilink">創造</a>（feat. Sway D）</li>
+<li>歌手：<a href="../Page/金甫娥.md" title="wikilink">金甫娥</a> &amp; 朴俊勉 &amp; <a href="../Page/李伊庚.md" title="wikilink">李伊庚</a> &amp; <a href="https://zh.wikipedia.org/wiki/張基勇" title="wikilink">張基勇</a> &amp; <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a><a href="../Page/創造_(歌手).md" title="wikilink">創造</a>（feat. Sway D）</li>
 </ul></td>
 <td></td>
 </tr>
@@ -557,7 +557,7 @@
 |    [Russian Roulette](../Page/Russian_Roulette.md "wikilink")     | 3                                | 3:39 |      |
 | [Painkiller](https://zh.wikipedia.org/wiki/Painkiller "wikilink") | 2                                | 4:12 |      |
 |       [I'll Be There](../Page/I'll_Be_There.md "wikilink")        | 2                                | 3:52 |      |
-|     [Lonely](https://zh.wikipedia.org/wiki/Lonely "wikilink")     | 15                               | 3:29 |      |
+|              [Lonely](../Page/Lonely.md "wikilink")               | 15                               | 3:29 |      |
 |                                                                   |                                  |      |      |
 
 ## 參考資料

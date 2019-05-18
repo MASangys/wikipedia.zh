@@ -1,5 +1,5 @@
 「**I
-WISH**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第10张[单曲](../Page/单曲.md "wikilink")。於2000年9月6日由[zetima发售](../Page/zetima.md "wikilink")。
+WISH**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第10张[单曲](../Page/单曲.md "wikilink")。於2000年9月6日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -14,7 +14,7 @@ WISH**」是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早�
 1.  **I WISH**
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")　編曲：[河野伸](https://zh.wikipedia.org/wiki/河野伸 "wikilink")）
 2.  **憧憬My Boy**（あこがれMy Boy）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")　編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")　編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
 3.  I WISH (Instrumental)
 
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")

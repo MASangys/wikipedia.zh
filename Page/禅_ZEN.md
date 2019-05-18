@@ -46,7 +46,7 @@ ZEN**（ぜん）是2009年1月10日上映的[日本电影](../Page/日本电影
   - [懐奘](https://zh.wikipedia.org/wiki/孤雲懐奘 "wikilink") -
     [村上淳](https://zh.wikipedia.org/wiki/村上淳 "wikilink")
   - [波多野義重](https://zh.wikipedia.org/wiki/波多野義重 "wikilink") -
-    [勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+    [勝村政信](../Page/勝村政信.md "wikilink")
   - 如浄 - [鄭天庸](https://zh.wikipedia.org/wiki/鄭天庸 "wikilink")
   - 浙翁 - [西村雅彦](https://zh.wikipedia.org/wiki/西村雅彦 "wikilink")
   - 公仁 - [菅田俊](https://zh.wikipedia.org/wiki/菅田俊 "wikilink")

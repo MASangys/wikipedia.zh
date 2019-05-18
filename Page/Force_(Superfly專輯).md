@@ -14,7 +14,7 @@ Wings](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wik
 DiverCity公演的歌曲完全收錄属](https://zh.wikipedia.org/wiki/Zepp "wikilink")、5周年記念生産限定盤則是收錄初回限定盤的内容並附贈錄音室歌曲的[黑膠唱片以及](../Page/黑膠唱片.md "wikilink")5周年記念海報、[羅森限定盤則附贈](../Page/羅森_\(便利店\).md "wikilink")[音樂錄影帶以及](../Page/音樂錄影帶.md "wikilink")「Self
 Liner Notes」的DVD。
 
-發行當日依照慣例舉行了免費演唱會，地點則選在首張專輯《[Superfly](https://zh.wikipedia.org/wiki/Superfly_\(專輯\) "wikilink")》發型演唱會的[代代木公園野外舞台](https://zh.wikipedia.org/wiki/代代木公園 "wikilink")。
+發行當日依照慣例舉行了免費演唱會，地點則選在首張專輯《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》發型演唱會的[代代木公園野外舞台](https://zh.wikipedia.org/wiki/代代木公園 "wikilink")。
 
 本作也獲得[公信榜周榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，為出道以來4張專輯連續（若包含《[Wildflower
 & Cover Songs:Complete Best 'TRACK
@@ -55,7 +55,7 @@ Produced &
 Arrangement：[蔦谷好位置](https://zh.wikipedia.org/wiki/蔦谷好位置 "wikilink")
 Basic Arrangement：[多保孝一](https://zh.wikipedia.org/wiki/多保孝一 "wikilink")
 
-1.  **[Force](https://zh.wikipedia.org/wiki/Force_\(Superfly單曲\) "wikilink")**
+1.  **[Force](../Page/Force_\(Superfly單曲\).md "wikilink")**
       -
         作詞：越智志帆　作曲：多保孝一
     <!-- end list -->

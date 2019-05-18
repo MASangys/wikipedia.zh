@@ -30,7 +30,7 @@
   - 製作人 - 小林教子（東京電視台）、中澤利洋
   - 動畫製作 - [XEBEC](../Page/XEBEC.md "wikilink")
   - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")、[小學館製作](https://zh.wikipedia.org/wiki/小學館集英社製作 "wikilink")
+    [東京電視台](../Page/東京電視台.md "wikilink")、[NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")、[小學館製作](../Page/小學館集英社製作.md "wikilink")
 
 ## 主題歌
 

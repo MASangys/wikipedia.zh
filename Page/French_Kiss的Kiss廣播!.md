@@ -190,7 +190,7 @@ TIME](../Page/柏木由紀的YUKIRIN_TIME.md "wikilink")」（2012年10月6日 -
     柏木 | 松田聖子 /
     [海灘的陽台](https://zh.wikipedia.org/wiki/海灘的陽台 "wikilink")（渚のバルコニー）
     高城 | **[ZONE](../Page/ZONE.md "wikilink") / [secret base
-    ～你給我的東西～](../Page/secret_base_～你給我的東西～.md "wikilink")**
+    ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")**
     倉持 | [生物股長](https://zh.wikipedia.org/wiki/生物股長 "wikilink") /
     [夏空的塗鴉](https://zh.wikipedia.org/wiki/夏空的塗鴉／青春線 "wikilink")
 

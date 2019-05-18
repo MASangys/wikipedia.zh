@@ -42,7 +42,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卢·哈德森" title="wikilink">卢·哈德森</a></p></td>
+<td><p><a href="../Page/卢·哈德森.md" title="wikilink">卢·哈德森</a></p></td>
 <td><p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1966–1977</p></td>
@@ -392,7 +392,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德里克·哈珀" title="wikilink">德里克·哈珀</a></p></td>
+<td><p><a href="../Page/德里克·哈珀.md" title="wikilink">德里克·哈珀</a></p></td>
 <td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1983–1994<br />
@@ -400,14 +400,14 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布拉德·戴维斯" title="wikilink">布拉德·戴维斯</a></p></td>
+<td><p><a href="../Page/布拉德·戴维斯.md" title="wikilink">布拉德·戴维斯</a></p></td>
 <td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1980–1992</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罗兰多·布莱克曼" title="wikilink">罗兰多·布莱克曼</a></p></td>
+<td><p><a href="../Page/罗兰多·布莱克曼.md" title="wikilink">罗兰多·布莱克曼</a></p></td>
 <td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1981–1992</p></td>
@@ -435,7 +435,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜伦·贝克" title="wikilink">拜伦·贝克</a></p></td>
+<td><p><a href="../Page/拜伦·贝克.md" title="wikilink">拜伦·贝克</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1967–1977</p></td>
@@ -610,7 +610,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡爾文·墨菲" title="wikilink">卡爾文·墨菲</a></p></td>
+<td><p><a href="../Page/卡爾文·墨菲.md" title="wikilink">卡爾文·墨菲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1970–1983</p></td>
@@ -666,7 +666,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罗杰·布朗" title="wikilink">罗杰·布朗</a></p></td>
+<td><p><a href="../Page/罗杰·布朗.md" title="wikilink">罗杰·布朗</a></p></td>
 <td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1967–1974</p></td>
@@ -708,7 +708,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盖尔·古德里奇" title="wikilink">盖尔·古德里奇</a></p></td>
+<td><p><a href="../Page/盖尔·古德里奇.md" title="wikilink">盖尔·古德里奇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1965–1968; 1970–1976</p></td>
@@ -1129,7 +1129,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿尔万·亚当斯" title="wikilink">阿尔万·亚当斯</a></p></td>
+<td><p><a href="../Page/阿尔万·亚当斯.md" title="wikilink">阿尔万·亚当斯</a></p></td>
 <td><p><a href="../Page/菲尼克斯太阳.md" title="wikilink">菲尼克斯太阳</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1975–1988</p></td>
@@ -1220,7 +1220,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莫里斯·卢卡斯" title="wikilink">莫里斯·卢卡斯</a></p></td>
+<td><p><a href="../Page/莫里斯·卢卡斯.md" title="wikilink">莫里斯·卢卡斯</a></p></td>
 <td><p><a href="../Page/波特兰开拓者.md" title="wikilink">波特兰开拓者</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1976–1980; 1987–1988</p></td>
@@ -1290,7 +1290,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米奇·里奇蒙德" title="wikilink">米奇·里奇蒙德</a></p></td>
+<td><p><a href="../Page/米奇·里奇蒙德.md" title="wikilink">米奇·里奇蒙德</a></p></td>
 <td><p><a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1991–1998</p></td>
@@ -1395,7 +1395,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖恩·埃利奥特" title="wikilink">肖恩·埃利奥特</a></p></td>
+<td><p><a href="../Page/肖恩·埃利奥特.md" title="wikilink">肖恩·埃利奥特</a></p></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1989–1993; 1994–2001</p></td>
@@ -1423,7 +1423,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿德里安·丹特利" title="wikilink">阿德里安·丹特利</a></p></td>
+<td><p><a href="../Page/阿德里安·丹特利.md" title="wikilink">阿德里安·丹特利</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1979–1986</p></td>
@@ -1507,7 +1507,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盖斯·约翰逊" title="wikilink">盖斯·约翰逊</a></p></td>
+<td><p><a href="../Page/盖斯·约翰逊.md" title="wikilink">盖斯·约翰逊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1963–1972</p></td>
@@ -1521,7 +1521,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菲尔·切尼尔" title="wikilink">菲尔·切尼尔</a></p></td>
+<td><p><a href="../Page/菲尔·切尼尔.md" title="wikilink">菲尔·切尼尔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/华盛顿奇才" title="wikilink">华盛顿奇才</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1971–1979</p></td>
@@ -1565,7 +1565,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沃恩·米克尔森" title="wikilink">沃恩·米克尔森</a></p></td>
+<td><p><a href="../Page/沃恩·米克尔森.md" title="wikilink">沃恩·米克尔森</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1949–1959</p></td>
@@ -1579,7 +1579,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克莱德·拉福莱特" title="wikilink">克莱德·拉福莱特</a></p></td>
+<td><p><a href="../Page/克莱德·拉福莱特.md" title="wikilink">克莱德·拉福莱特</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1953–1957</p></td>

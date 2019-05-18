@@ -3,8 +3,7 @@ Jovi*〉是[美國樂團](https://zh.wikipedia.org/wiki/美國 "wikilink")[邦�
 Don't Know
 Me](https://zh.wikipedia.org/wiki/:en:She_Don't_Know_Me "wikilink")*）。此專輯在[公告牌二百强专辑榜取得第](../Page/公告牌二百强专辑榜.md "wikilink")43名的成績。\[1\]
 
-在1986年邦喬飛發行了白金冠軍大碟《[難以捉摸](https://zh.wikipedia.org/wiki/難以捉摸 "wikilink")》（*[Slippery
-When
+在1986年邦喬飛發行了白金冠軍大碟《[難以捉摸](../Page/難以捉摸.md "wikilink")》（*[Slippery When
 Wet](https://zh.wikipedia.org/wiki/:en:Slippery_When_Wet "wikilink")*）後。除了＜[逃跑](https://zh.wikipedia.org/wiki/逃跑 "wikilink")＞外，演唱會很少唱到這張專輯的歌。然而，在轉動世界巡演（[The
 Circle
 Tour](https://zh.wikipedia.org/wiki/:en:The_Circle_Tour "wikilink")）中，他們有表演＜賭局＞（*Roulette*）、＜射穿心臟＞（*Shot

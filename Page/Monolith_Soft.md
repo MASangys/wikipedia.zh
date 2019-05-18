@@ -3,7 +3,7 @@
 
 ## 公司概要
 
-因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](https://zh.wikipedia.org/wiki/高橋哲哉_\(遊戲製作人\) "wikilink")[本根康之从](https://zh.wikipedia.org/wiki/本根康之 "wikilink")[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE
+因为受到管理政策差异等原因，杉浦博英、[高橋哲哉和](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")[本根康之从](../Page/本根康之.md "wikilink")[史克威爾](../Page/史克威爾.md "wikilink")（SQUARE
 CO.）退社；1999年10月1日，由[南梦宫](../Page/南梦宫.md "wikilink")（现[万代南梦宫游戏](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")）出资成立Monolith
 Soft，\[1\]杉浦博英担任公司总裁兼首席执行官，公司地址位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[目黑區](../Page/目黑區.md "wikilink")。
 
@@ -71,13 +71,11 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
 
 **Wii U**
 
-  - 《[异度之刃X](https://zh.wikipedia.org/wiki/异度之刃X "wikilink")》（Xenoblade
-    X，；2015年4月29日）
+  - 《[异度之刃X](../Page/异度之刃X.md "wikilink")》（Xenoblade X，；2015年4月29日）
 
 **任天堂Switch**
 
-  - 《[异度神剑2](https://zh.wikipedia.org/wiki/异度神剑2 "wikilink")》（Xenoblade
-    2，；2017年12月1日）
+  - 《[异度神剑2](../Page/异度神剑2.md "wikilink")》（Xenoblade 2，；2017年12月1日）
 
 ## 协作开发作品
 
@@ -91,19 +89,19 @@ Soft的总部一直在[东京都的](https://zh.wikipedia.org/wiki/东京都 "wi
   - 《[皮克敏3](https://zh.wikipedia.org/wiki/皮克敏3 "wikilink")》（[Wii
     U](../Page/Wii_U.md "wikilink")，2013年7月13日，协力开发）\[6\]
   - 《[塞尔达传说
-    众神的三角力量2](https://zh.wikipedia.org/wiki/塞尔达传说_众神的三角力量2 "wikilink")》（任天堂3DS，2013年11月22日，协力开发）
+    众神的三角力量2](../Page/塞尔达传说_众神的三角力量2.md "wikilink")》（任天堂3DS，2013年11月22日，协力开发）
   - 《[Splatoon](../Page/Splatoon.md "wikilink")》（Wii U，2015年5月28日，协力开发）
   - 《[动物之森
     快乐之家设计师](../Page/动物之森_快乐之家设计师.md "wikilink")》（任天堂3DS，2015年7月30日，受委托开发）
   - 《[薩爾達傳說
     曠野之息](https://zh.wikipedia.org/wiki/薩爾達傳說_曠野之息 "wikilink")》（Wii
-    U、[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，2017年3月3日，协力开发）\[7\]
+    U、[任天堂Switch](../Page/任天堂Switch.md "wikilink")，2017年3月3日，协力开发）\[7\]
 
 ## 主要成员
 
   - 杉浦博英（来自[史克威爾](../Page/史克威爾.md "wikilink")）
-  - [高橋哲哉](https://zh.wikipedia.org/wiki/高橋哲哉_\(遊戲製作人\) "wikilink")（来自史克威爾）
-  - [本根康之](https://zh.wikipedia.org/wiki/本根康之 "wikilink")（来自史克威爾）
+  - [高橋哲哉](../Page/高橋哲哉_\(遊戲製作人\).md "wikilink")（来自史克威爾）
+  - [本根康之](../Page/本根康之.md "wikilink")（来自史克威爾）
   - 森住惣一郎（来自[帕布雷斯特](https://zh.wikipedia.org/wiki/帕布雷斯特 "wikilink")）
   - 石谷浩二（来自帕布雷斯特）
 

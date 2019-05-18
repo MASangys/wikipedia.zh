@@ -152,7 +152,7 @@ Dance Wii》主要游戏架构基于《Just Dance
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/恋のダイヤル6700" title="wikilink">恋のダイヤル6700</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dream5" title="wikilink">Dream5</a></p></td>
+<td><p><a href="../Page/Dream5.md" title="wikilink">Dream5</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p><strong>Solo</strong></p></td>
@@ -188,7 +188,7 @@ Dance Wii》主要游戏架构基于《Just Dance
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氣志團" title="wikilink">氣志團</a></p></td>
+<td><p><a href="../Page/氣志團.md" title="wikilink">氣志團</a></p></td>
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p><strong>Solo</strong></p></td>
@@ -319,7 +319,7 @@ Dance Wii》主要游戏架构基于《Just Dance
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/Won&#39;t_Be_Long.md" title="wikilink">Won't Be Long</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Won&#39;t_Be_Long" title="wikilink">Won't Be Long</a></p></td>
 <td><p><a href="../Page/放浪兄弟.md" title="wikilink">放浪兄弟</a> &amp; <a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>

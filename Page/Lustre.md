@@ -28,7 +28,7 @@ Lustre文件系统包括三种主要的功能单元。
   - 客户机（Clients）能访问并使用数据。Lustre为所有客户机提供统一的命名空间。
 
 MDT、OST和Client可以位于同一节点（通常用于测试），但在典型的生产环境中这些功能组件安装在使用网络进行通信的不同节点。 Lustre
-Network（LNET）层可以使用多种类型的网络互连，包括[InfiniBand](https://zh.wikipedia.org/wiki/InfiniBand "wikilink")、[以太网等](../Page/以太网.md "wikilink")。如果远程直接内存访问（RDMA）传输可用，Lustre将利用它提高吞吐量降低CPU使用率。
+Network（LNET）层可以使用多种类型的网络互连，包括[InfiniBand](../Page/InfiniBand.md "wikilink")、[以太网等](../Page/以太网.md "wikilink")。如果远程直接内存访问（RDMA）传输可用，Lustre将利用它提高吞吐量降低CPU使用率。
 
 ## 锁
 

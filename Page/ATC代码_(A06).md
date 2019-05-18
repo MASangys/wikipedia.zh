@@ -84,9 +84,7 @@
     [碳酸镁](https://zh.wikipedia.org/wiki/碳酸镁 "wikilink")（Magnesium
     carbonate）
     A06AD02 [氧化镁](../Page/氧化镁.md "wikilink")（Magnesium oxide）
-    A06AD03
-    [过氧化镁](https://zh.wikipedia.org/wiki/过氧化镁 "wikilink")（Magnesium
-    peroxide）
+    A06AD03 [过氧化镁](../Page/过氧化镁.md "wikilink")（Magnesium peroxide）
     A06AD04 [硫酸镁](../Page/硫酸镁.md "wikilink")（Magnesium sulfate）
     A06AD10 无机盐复方（Mineral salts in combination）
     A06AD11 [乳果糖](../Page/乳果糖.md "wikilink")（Lactulose）

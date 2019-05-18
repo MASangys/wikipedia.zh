@@ -13,7 +13,7 @@ ZBL-08步兵战车的设计布局为动力舱在前，驾驶舱在动力舱左�
 ### 武器
 
 主要武器为一挺[ZPT-99](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")
-30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹和车载](https://zh.wikipedia.org/wiki/红箭-73反坦克导弹 "wikilink")7.62mm并列机枪。其大炮版本则可以拥有105毫米94式改进线膛低压炮（中国授权生产的英国[L7线膛炮的改进型](https://zh.wikipedia.org/wiki/L7線膛炮 "wikilink")）或来自96式122毫米改进牵引榴弹炮，105毫米线膛炮版本还可以发射炮射导弹。自行高炮版本则是采用35毫米无人单管转膛炮塔，具有射速高的特点。\[4\]
+30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹和车载](https://zh.wikipedia.org/wiki/红箭-73反坦克导弹 "wikilink")7.62mm并列机枪。其大炮版本则可以拥有105毫米94式改进线膛低压炮（中国授权生产的英国[L7线膛炮的改进型](../Page/L7線膛炮.md "wikilink")）或来自96式122毫米改进牵引榴弹炮，105毫米线膛炮版本还可以发射炮射导弹。自行高炮版本则是采用35毫米无人单管转膛炮塔，具有射速高的特点。\[4\]
 
 ### 動力系統
 
@@ -95,9 +95,8 @@ PGZ-09自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 ## 流行文化
 
   - ZBL-09步兵战车在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:
-    战地4; zh-hant:
-    戰地風雲4;}-](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
-    4）中以[中国人民解放军步兵战车之姿出現](../Page/中国人民解放军.md "wikilink")，仍命名ZBL-09是由於DICE誤用中國大陸軍事網站中未經證實的稱謂而得名，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](https://zh.wikipedia.org/wiki/祖尼火箭 "wikilink")（解鎖後），類似的情況亦出現在[BTR-90上](https://zh.wikipedia.org/wiki/BTR-90 "wikilink")。
+    战地4; zh-hant: 戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
+    4）中以[中国人民解放军步兵战车之姿出現](../Page/中国人民解放军.md "wikilink")，仍命名ZBL-09是由於DICE誤用中國大陸軍事網站中未經證實的稱謂而得名，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[BTR-90上](../Page/BTR-90.md "wikilink")。
 
 ## 相关条目
 

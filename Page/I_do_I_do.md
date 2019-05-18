@@ -95,7 +95,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
+<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>-{智}-安父</p></td>
 <td><p>初中國語老師，作為校長退休後，為地區社會發展活動中。秉持傳統教育，對家人很嚴厲。就算女兒事業成功得到認證，也只是認為年紀大嫁不出去真是煩心。</p></td>
@@ -113,7 +113,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金惠恩" title="wikilink">金惠恩</a></p></td>
+<p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a></p></td>
 <td><center>
 <p>奉俊熙</p></td>
 <td><p>芝安的好友，高中畢業就和富豪結婚，但只維持四年婚姻，靠著贍養費享受第二全盛期。</p></td>
@@ -147,7 +147,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴英奎" title="wikilink">朴英奎</a></p></td>
+<p><a href="../Page/朴英奎.md" title="wikilink">朴英奎</a></p></td>
 <td><center>
 <p>朴光錫</p></td>
 <td><p>-{太強}-的爸爸，曾是皮鞋設計師，但現在在梨泰院製作仿製品牌過活。</p></td>
@@ -156,7 +156,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/申承煥" title="wikilink">申承煥</a></p></td>
+<p><a href="../Page/申承煥.md" title="wikilink">申承煥</a></p></td>
 <td><center>
 <p>李聰白</p></td>
 <td><p>和太強住同區，自小一起長大的好友。</p></td>
@@ -199,7 +199,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李對淵" title="wikilink">李對淵</a></p></td>
+<p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
 <td><center>
 <p>廉社長</p></td>
 <td><p>會長的堂弟，娜莉的叔叔。</p></td>
@@ -208,7 +208,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/曹熙奉" title="wikilink">曹熙奉</a></p></td>
+<p><a href="../Page/曹熙奉.md" title="wikilink">曹熙奉</a></p></td>
 <td><center>
 <p>薛奉秀</p></td>
 <td><p>被稱為「萬年雪」的男人，開發隊的傳奇。</p></td>

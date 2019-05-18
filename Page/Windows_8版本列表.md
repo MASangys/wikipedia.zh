@@ -45,12 +45,12 @@ Bing），但唯一不同的是Bing版在標準版的基礎上預載了Bing搜�
 <tr class="even">
 <td><p>架構</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM</a> (32-bit)</p></td>
-<td><p><a href="../Page/x86.md" title="wikilink">x86</a> (32-bit)<br />
-<a href="../Page/x86-64.md" title="wikilink">x86-64</a> (64-bit)</p></td>
-<td><p><a href="../Page/x86.md" title="wikilink">x86</a> (32-bit)<br />
-<a href="../Page/x86-64.md" title="wikilink">x86-64</a> (64-bit)</p></td>
-<td><p><a href="../Page/x86.md" title="wikilink">x86</a> (32-bit)<br />
-<a href="../Page/x86-64.md" title="wikilink">x86-64</a> (64-bit)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/x86" title="wikilink">x86</a> (32-bit)<br />
+<a href="https://zh.wikipedia.org/wiki/x86-64" title="wikilink">x86-64</a> (64-bit)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/x86" title="wikilink">x86</a> (32-bit)<br />
+<a href="https://zh.wikipedia.org/wiki/x86-64" title="wikilink">x86-64</a> (64-bit)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/x86" title="wikilink">x86</a> (32-bit)<br />
+<a href="https://zh.wikipedia.org/wiki/x86-64" title="wikilink">x86-64</a> (64-bit)</p></td>
 </tr>
 <tr class="odd">
 <td><p>RAM上限[5]</p></td>
@@ -329,7 +329,7 @@ Bing），但唯一不同的是Bing版在標準版的基礎上預載了Bing搜�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/DirectAccess" title="wikilink">DirectAccess</a></p></td>
+<td><p><a href="../Page/DirectAccess.md" title="wikilink">DirectAccess</a></p></td>
 <td></td>
 <td></td>
 <td></td>

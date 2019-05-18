@@ -1,6 +1,6 @@
 《**Wishmaster**》是芬兰[交响金属乐团](https://zh.wikipedia.org/wiki/交响金属 "wikilink")[夜愿的第三张专辑](../Page/夜愿.md "wikilink")，由[Spinefarm唱片发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")2000年5月19日。
 
-《Wishmaster》延续了前张专辑《[Oceanborn](https://zh.wikipedia.org/wiki/Oceanborn "wikilink")》
+《Wishmaster》延续了前张专辑《[Oceanborn](../Page/Oceanborn.md "wikilink")》
 强大交响力量金属的的特色，但也更重视强有力的旋律速度与沉重的氛围。《Wishmaster》有一个非常明确的幻想主题，这或许超越了其上张专辑。虽然
 人们通常认为专辑接近传统力量金属，但其也有种类繁多的慢歌，如《Come Cover Me》和《Two for
 Tragedy》，以及更多的史诗类作品，如《Dead Boy's
@@ -38,7 +38,7 @@ Boy's Poem》和《Come Cover Me》。
 <thead>
 <tr class="header">
 <th><p>国家</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/音乐唱片销售认证" title="wikilink">音乐唱片销售认证</a><br />
+<th><p><a href="../Page/音乐唱片销售认证.md" title="wikilink">音乐唱片销售认证</a><br />
 （<small><a href="../Page/金唱片.md" title="wikilink">金唱片</a></small>）</p></th>
 </tr>
 </thead>

@@ -1,5 +1,5 @@
 《**Just Be Friends**》有時又會被簡稱為「**JBF**」，是一首由[Dixie
-Flatline負責作曲與作詞](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")、[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）負責插畫和動畫製作的[VOCALOID2歌曲](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")\[1\]\[2\]。歌曲聲音來源取自VOCALOID音樂軟體[巡音流歌而成](../Page/巡音流歌.md "wikilink")，並於2009年7月4日發表在[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")[NICONICO動畫上](../Page/NICONICO動畫.md "wikilink")。《Just
+Flatline負責作曲與作詞](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")、[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）負責插畫和動畫製作的[VOCALOID2歌曲](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")\[1\]\[2\]。歌曲聲音來源取自VOCALOID音樂軟體[巡音流歌而成](../Page/巡音流歌.md "wikilink")，並於2009年7月4日發表在[視頻彈幕網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。《Just
 Be
 Friends》可以說是以巡音流歌為名義所創作的著名歌曲之一，同時在[網際網路或者其他媒體亦有出現不同的版本或者](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
@@ -32,7 +32,7 @@ Store將單曲專輯設定為300日圓、將個別歌曲設定為150日圓，而
 巡音流歌)》、《Just Be Friends (Instrumental)》和《Just Be Friends
 (Instrumental & Chorus)》3個版本\[12\]\[13\]。歌曲亦收錄在2010年9月15日的《[EXIT TUNES
 PRESENTS Vocaloanthems
-feat.初音未來](https://zh.wikipedia.org/wiki/EXIT_TUNES_PRESENTS_Vocaloanthems_feat.初音未來 "wikilink")》（）中，並且將其安排在光碟的第一首曲目中\[14\]\[15\]。
+feat.初音未來](../Page/EXIT_TUNES_PRESENTS_Vocaloanthems_feat.初音未來.md "wikilink")》（）中，並且將其安排在光碟的第一首曲目中\[14\]\[15\]。
 
 另外在演奏歌譜部分，則在鋼琴樂譜《》、樂譜《》等書籍上有所收錄\[16\]\[17\]\[18\]\[19\]\[20\]。而在[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")《[初音未來
@@ -45,7 +45,7 @@ Be Friends》作為使用樂曲\[21\]。
 ### 二次創作
 
 在《Just Be
-Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作將歌曲的速度更加放慢](https://zh.wikipedia.org/wiki/二次創作 "wikilink")，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie
+Friends》大受歡迎的同時，音樂創作者[Koma'n於](https://zh.wikipedia.org/wiki/ROOT_FIVE#koma.27n "wikilink")2009年7月20日發表了以原曲為基礎的[鋼琴彈奏版本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")《》\[22\]。雖然在基本音樂變化上並無多大差別，然而鋼琴演奏的[二次創作將歌曲的速度更加放慢](../Page/二次創作.md "wikilink")，這使得音樂相較於原始歌曲本身更具有感傷力\[23\]。koma'n在介紹文表示之所以在短短幾天內便嘗試發表鋼琴演奏版本，主要是因為自己也十分喜愛Dixie
 Flatline所發佈的原作動畫\[24\]。
 
 ## 歌曲

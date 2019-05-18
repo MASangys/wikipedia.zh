@@ -34,11 +34,11 @@ JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』（通称：**MJ**）的衍生作品
   - **春天的歌2007** - 2007年3月30日 19:30 -
     20:45播放。[安潔拉亞季](../Page/安潔拉亞季.md "wikilink")、[Gackt](../Page/GACKT.md "wikilink")、[可苦可樂](../Page/可苦可樂.md "wikilink")、[一青窈](../Page/一青窈.md "wikilink")、[Mr.Children](../Page/Mr.Children.md "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")、[Remioromen](../Page/Remioromen.md "wikilink")（50音順）出演。
   - **春天的歌2008** - 2008年3月25日 19:30 -
-    20:45播放。[青山黛瑪](../Page/青山黛瑪.md "wikilink")、[中孝介](../Page/中孝介.md "wikilink")、[生物股長](https://zh.wikipedia.org/wiki/生物股長 "wikilink")、[海援隊](../Page/海援隊.md "wikilink")、[德永英明](../Page/德永英明.md "wikilink")、[中島美嘉](../Page/中島美嘉.md "wikilink")、一青窈、森山直太朗、[YUI](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")（50音順）出演。節目是森山和中合作熱唱『[花](https://zh.wikipedia.org/wiki/花_\(中孝介歌曲\) "wikilink")』。還有、生物股長[神奈川縣立厚木高等学校](https://zh.wikipedia.org/wiki/神奈川縣立厚木高等学校 "wikilink")（成員的母校）直播登場、『[SAKURA](https://zh.wikipedia.org/wiki/SAKURA_\(生物股長歌曲\) "wikilink")』熱唱。主持人是[上田早苗](https://zh.wikipedia.org/wiki/上田早苗 "wikilink")、[島津有理子](https://zh.wikipedia.org/wiki/島津有理子 "wikilink")，[鎌倉千秋在直播出演](https://zh.wikipedia.org/wiki/鎌倉千秋 "wikilink")。還有旁白是[堀北真希担当](../Page/堀北真希.md "wikilink")。
+    20:45播放。[青山黛瑪](../Page/青山黛瑪.md "wikilink")、[中孝介](../Page/中孝介.md "wikilink")、[生物股長](https://zh.wikipedia.org/wiki/生物股長 "wikilink")、[海援隊](../Page/海援隊.md "wikilink")、[德永英明](../Page/德永英明.md "wikilink")、[中島美嘉](../Page/中島美嘉.md "wikilink")、一青窈、森山直太朗、[YUI](https://zh.wikipedia.org/wiki/YUI_\(藝人\) "wikilink")（50音順）出演。節目是森山和中合作熱唱『[花](https://zh.wikipedia.org/wiki/花_\(中孝介歌曲\) "wikilink")』。還有、生物股長[神奈川縣立厚木高等学校](https://zh.wikipedia.org/wiki/神奈川縣立厚木高等学校 "wikilink")（成員的母校）直播登場、『[SAKURA](https://zh.wikipedia.org/wiki/SAKURA_\(生物股長歌曲\) "wikilink")』熱唱。主持人是[上田早苗](https://zh.wikipedia.org/wiki/上田早苗 "wikilink")、[島津有理子](https://zh.wikipedia.org/wiki/島津有理子 "wikilink")，[鎌倉千秋在直播出演](../Page/鎌倉千秋.md "wikilink")。還有旁白是[堀北真希担当](../Page/堀北真希.md "wikilink")。
   - **春天的歌2009** - 2009年3月25日 19:30 -
     20:42播放。安潔拉亞季、生物股長、[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、[大橋のぞみ](https://zh.wikipedia.org/wiki/大橋のぞみ "wikilink")、可苦可樂、[chatmonchy](https://zh.wikipedia.org/wiki/chatmonchy "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、中島美嘉、[Perfume](https://zh.wikipedia.org/wiki/Perfume "wikilink")、Remioromen（50音順）出演。
   - **春天的歌2010** - 2010年3月27日 21:00 -
-    22:28播放。[aiko](../Page/aiko.md "wikilink")、安潔拉亞季\[2\]、生物股長、[AKB48](../Page/AKB48.md "wikilink")\[3\]、[北乃紀伊](https://zh.wikipedia.org/wiki/北乃紀伊 "wikilink")\[4\]、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")\[5\]、徳永英明\[6\]、[FUNKY
+    22:28播放。[aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")、安潔拉亞季\[2\]、生物股長、[AKB48](../Page/AKB48.md "wikilink")\[3\]、[北乃紀伊](https://zh.wikipedia.org/wiki/北乃紀伊 "wikilink")\[4\]、[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")\[5\]、徳永英明\[6\]、[FUNKY
     MONKEY
     BABYS](https://zh.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")\[7\]、[水樹奈奈](../Page/水樹奈奈.md "wikilink")\[8\]、Remioromen\[9\]（50音順）出演。[青井實擔任主持](https://zh.wikipedia.org/wiki/青井實 "wikilink")\[10\]。
 
@@ -101,8 +101,8 @@ JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』（通称：**MJ**）的衍生作品
     20:00 - 20:43播放\[15\]
       -
         完全版は5月28日 24:00 - 24:59（5月29日未明 0:00 - 0:59）播放。
-  - **[aiko](../Page/aiko.md "wikilink") LIVE at NHK** - 3月4日 24:45 -
-    25:45（3月5日未明 0:45 - 1:45）放送\[16\]
+  - **[aiko](https://zh.wikipedia.org/wiki/aiko "wikilink") LIVE at
+    NHK** - 3月4日 24:45 - 25:45（3月5日未明 0:45 - 1:45）放送\[16\]
   - **[グループ魂](https://zh.wikipedia.org/wiki/グループ魂 "wikilink")15年の軌跡**　-
     3月5日 24:50 - 25:33（3月6日未明 0:50 - 1:33）播放\[17\]
   - **[AKB48Live](../Page/AKB48.md "wikilink")@[SBD](../Page/西武巨蛋.md "wikilink")**
@@ -131,7 +131,8 @@ JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』（通称：**MJ**）的衍生作品
 
 4.  自己的出道曲『[サクラサク](https://zh.wikipedia.org/wiki/サクラサク_\(北乃紀伊歌曲\) "wikilink")』披露。兼任主持。
 
-5.  大トリで『[my graduation](../Page/my_graduation.md "wikilink")』披露。
+5.  大トリで『[my
+    graduation](https://zh.wikipedia.org/wiki/my_graduation "wikilink")』披露。
 
 6.  『[赤いスイートピー](https://zh.wikipedia.org/wiki/赤いスイートピー "wikilink")』（[松田聖子的翻唱](../Page/松田聖子.md "wikilink")）披露。
 

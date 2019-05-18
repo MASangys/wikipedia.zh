@@ -1,16 +1,15 @@
 「**Best\!
-早安少女組。1**」（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚精選專輯。於2001年1月31日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+早安少女組。1**」（）是日本的女子偶像組合[早安少女組。的第](../Page/早安少女組。.md "wikilink")1枚精選專輯。於2001年1月31日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
   - 「Best\!
     早安少女組。1」是[早安少女組。出道以來的第](../Page/早安少女組。.md "wikilink")1張精選專輯。與上一張專輯「[3rd
-    -LOVE
-    Paradise-](https://zh.wikipedia.org/wiki/3rd_-LOVE_Paradise- "wikilink")」相距約9個月。
+    -LOVE Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」相距約9個月。
   - 收錄第1張單曲「[早安咖啡](../Page/早安咖啡.md "wikilink")」至第11張單曲「[戀愛革命21](../Page/戀愛革命21.md "wikilink")」共11首A面曲，以及收錄了獨立製作單曲「[愛之種](../Page/愛之種.md "wikilink")」、「[Memory
     青春之光](../Page/Memory_青春之光.md "wikilink")」的B面曲「Never
     Forget」、第3枚原創專輯「[3rd -LOVE
-    Paradise-](https://zh.wikipedia.org/wiki/3rd_-LOVE_Paradise- "wikilink")」收錄曲「來DANCE的他\!」和新曲「Say
+    Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」收錄曲「來DANCE的他\!」和新曲「Say
     Yeah\! -更多奇蹟之夜-」，共15首曲目。
   - 一期成員[中澤裕子最後參與演唱的專輯](../Page/中澤裕子.md "wikilink")。
   - 本作分「CD盤」和「LP盤」2種版本。
@@ -68,12 +67,12 @@
         6th單曲
 12. **Say Yeah\! -更多奇蹟之夜-**（Say Yeah\! ～もっとミラクルナイト～）
     （作詞・作曲：淳君　編曲：小西貴雄）
-13. **[來DANCE的他\!](https://zh.wikipedia.org/wiki/3rd_-LOVE_Paradise- "wikilink")**（DANCE
+13. **[來DANCE的他\!](../Page/3rd_-LOVE_Paradise-.md "wikilink")**（DANCE
     するのだ\!）
     （作詞・作曲：淳君　編曲：ダンス☆マン）
       -
         第3枚原創專輯「[3rd -LOVE
-        Paradise-](https://zh.wikipedia.org/wiki/3rd_-LOVE_Paradise- "wikilink")」收錄曲
+        Paradise-](../Page/3rd_-LOVE_Paradise-.md "wikilink")」收錄曲
 14. **[Never Forget](../Page/Memory_青春之光.md "wikilink")**
     （作詞・作曲：淳君　編曲：小西貴雄）
       -

@@ -62,7 +62,7 @@ IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。\[1\]\
 <td><p>L-01D</p></td>
 <td><p>Optimus LTE L-01D</p></td>
 <td></td>
-<td><p><a href="../Page/NTT_DoCoMo.md" title="wikilink">NTT docomo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT docomo</a></p></td>
 <td><p>2011/12/15</p></td>
 </tr>
 <tr class="even">

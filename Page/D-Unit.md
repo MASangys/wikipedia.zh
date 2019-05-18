@@ -220,4 +220,4 @@ D-Unit解散後，成員RAM做為新四人樂團FIVE RUN STRIKE一員出道回�
 4.
 5.
 6.  [全永祿女兒宇藍，D-Unit解散後搖滾樂團再挑戰](http://sports.chosun.com/news/news.htm?id=201608020100007590000295&ServiceDate=20160801)
-7.  前[SeeYa和](https://zh.wikipedia.org/wiki/SeeYa "wikilink")[5Dolls成員](../Page/F-VE_DOLLS.md "wikilink")。
+7.  前[SeeYa和](../Page/SeeYa.md "wikilink")[5Dolls成員](../Page/F-VE_DOLLS.md "wikilink")。

@@ -1,5 +1,5 @@
 「**Go Girl
-～戀愛勝利～**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第20张[单曲](../Page/单曲.md "wikilink")，於2003年11月6日由[zetima发售](../Page/zetima.md "wikilink")。
+～戀愛勝利～**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第20张[单曲](../Page/单曲.md "wikilink")，於2003年11月6日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

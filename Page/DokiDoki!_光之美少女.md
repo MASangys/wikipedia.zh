@@ -17,8 +17,7 @@ Alice）亦加入光之美少女的行列，誓要一同要把失去「愛」的
 
   - {{nihongo|相田愛<ref>{{Cite web
 
-|author=[山口亮太](https://zh.wikipedia.org/wiki/山口亮太 "wikilink")
-|date=2013-02-02
+|author=[山口亮太](../Page/山口亮太.md "wikilink") |date=2013-02-02
 |url=<https://twitter.com/staffwhy/status/297866796294361089>
 |title=-{本来は相田愛と書くのですが、 ...}-
 |publisher=[Twitter](../Page/Twitter.md "wikilink")
@@ -905,7 +904,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 <td><p><a href="../Page/高橋奈津子.md" title="wikilink">高橋奈津子</a></p></td>
 <td><p>佐佐木憲世</p></td>
 <td><p>岩井隆央</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上野賢" title="wikilink">上野賢</a></p></td>
+<td><p><a href="../Page/上野賢.md" title="wikilink">上野賢</a></p></td>
 <td><p>齊藤優</p></td>
 <td><p>3月10日</p></td>
 <td><p>11月24日</p></td>
@@ -934,7 +933,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 <td><p>成田良美</p></td>
 <td><p>門由利子</p></td>
 <td><p>黑田成美</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻上晃" title="wikilink">稻上晃</a></p></td>
+<td><p><a href="../Page/稻上晃.md" title="wikilink">稻上晃</a></p></td>
 <td><p>篝</p></td>
 <td><p>3月24日</p></td>
 <td><p>11月24日</p></td>
@@ -1533,7 +1532,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
   -
 
       -
-        作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲：清岡千穗，編曲：池田大介，主唱：[黑澤朋世](https://zh.wikipedia.org/wiki/黑澤朋世 "wikilink")
+        作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲：清岡千穗，編曲：池田大介，主唱：[黑澤朋世](../Page/黑澤朋世.md "wikilink")
         特別版片頭曲
         第6話至第10話片頭曲有使用到「光之美少女 All Stars New Stage2 心之朋友」的部分畫面。
         第36話至第39話片頭曲有使用到「電影 DokiDoki\! 光之美少女 小愛结婚了！！？連結未来的希望禮服」的部分畫面。
@@ -1547,16 +1546,16 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
   -
 
       -
-        作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui、利根川貴之，主唱：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+        作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui、利根川貴之，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
 :; 「」（第27話～第49話）
 
   -
 
       -
-        作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui\&Wicky.Recording，主唱：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+        作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui\&Wicky.Recording，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
-本作在片尾曲繼續採用全3D結尾動畫。並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO擔任故事中跳舞的創作和動作作為片尾曲的舞蹈](https://zh.wikipedia.org/wiki/MIKIKO "wikilink")。
+本作在片尾曲繼續採用全3D結尾動畫。並由著名女子組合[Perfume的編舞師](https://zh.wikipedia.org/wiki/Perfume "wikilink")[MIKIKO擔任故事中跳舞的創作和動作作為片尾曲的舞蹈](../Page/MIKIKO.md "wikilink")。
 
   - 插入曲
 
@@ -1565,7 +1564,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
   -
 
       -
-        作詞：六見純代，作曲：清岡千穗，編曲：大久保薫，主唱：劍崎真琴（[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")）
+        作詞：六見純代，作曲：清岡千穗，編曲：大久保薫，主唱：劍崎真琴（[宮本佳那子](../Page/宮本佳那子.md "wikilink")）
 
 :; 「」（第40話）
 
@@ -1644,12 +1643,12 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 ### 主題曲
 
   - 片頭曲「」
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲：清岡千穗，編曲：池田大介，主唱：[黑澤朋世](https://zh.wikipedia.org/wiki/黑澤朋世 "wikilink")
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲：清岡千穗，編曲：池田大介，主唱：[黑澤朋世](../Page/黑澤朋世.md "wikilink")
 
 <!-- end list -->
 
   - 片尾曲「」
-    作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui\&Wicky.Recording，主唱：[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+    作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui\&Wicky.Recording，主唱：[吉田仁美](../Page/吉田仁美.md "wikilink")
 
 <!-- end list -->
 
@@ -1665,21 +1664,21 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 <!-- end list -->
 
   - [All Stars New
-    Stage2上映於本作播出時](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage2_心之朋友 "wikilink")，因此以本作故事初期設定為準。
+    Stage2上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
     [光之美少女 All Stars New Stage2
-    心之朋友](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage2_心之朋友 "wikilink")
+    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
     [光之美少女 All Stars New Stage3
-    永遠的朋友](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_New_Stage3_永遠的朋友 "wikilink")
+    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
     [光之美少女 All Stars
-    春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪ "wikilink")
+    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 參考資料
 

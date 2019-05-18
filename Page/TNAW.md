@@ -42,7 +42,7 @@ Styles](https://zh.wikipedia.org/wiki/A.J._Styles "wikilink")、反派的墮落�
 Daniels](https://zh.wikipedia.org/wiki/Christopher_Daniels "wikilink")、自私世代領導者
 Bobby Roode、重量級的體型與輕量級的身手 Samoa Joe，還有最具極限能力的王子 [Jeff
 Hardy](https://zh.wikipedia.org/wiki/Jeff_Hardy "wikilink")。以及拥有者华丽腿功及高飞的[ROB
-VAN DAM](https://zh.wikipedia.org/wiki/羅伯·凡·達姆 "wikilink")
+VAN DAM](../Page/羅伯·凡·達姆.md "wikilink")
 
 ## 旗下節目
 

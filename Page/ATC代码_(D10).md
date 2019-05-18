@@ -59,8 +59,7 @@
     D10AX01 [氯化铝](../Page/氯化铝.md "wikilink")（Aluminium chloride）
     D10AX02
     [雷琐辛](https://zh.wikipedia.org/wiki/雷琐辛 "wikilink")（Resorcinol）
-    D10AX03 [壬二酸](https://zh.wikipedia.org/wiki/壬二酸 "wikilink")（Azelaic
-    acid）
+    D10AX03 [壬二酸](../Page/壬二酸.md "wikilink")（Azelaic acid）
     D10AX04 [氧化铝](../Page/氧化铝.md "wikilink")（Aluminium oxide）
     D10AX05 [氨苯砜](https://zh.wikipedia.org/wiki/氨苯砜 "wikilink")（Dapsone）
     D10AX30 各种复方（Various combinations）

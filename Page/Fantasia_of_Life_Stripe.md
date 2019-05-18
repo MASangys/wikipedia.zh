@@ -3,12 +3,12 @@ Stripe**』是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink"
 
 ## 收錄曲
 
-（全作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")（特記以外））
+（全作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")（特記以外））
 
 1.  **[只想告訴你](../Page/只想告訴你_\(flumpool單曲\).md "wikilink")**
       - 5th單曲收錄
       - 電影『[只想告訴你](https://zh.wikipedia.org/wiki/只想告訴你#電影 "wikilink")』主題歌　
-2.  **[two of us](../Page/two_of_us.md "wikilink")**
+2.  **[two of us](https://zh.wikipedia.org/wiki/two_of_us "wikilink")**
       - [富士電視台TWO](https://zh.wikipedia.org/wiki/富士電視台TWO "wikilink")『[あいのり2](https://zh.wikipedia.org/wiki/あいのり "wikilink")』主題歌　
 3.  **[reboot
     〜不死心的詩〜](https://zh.wikipedia.org/wiki/reboot〜不死心的詩〜/流星 "wikilink")**

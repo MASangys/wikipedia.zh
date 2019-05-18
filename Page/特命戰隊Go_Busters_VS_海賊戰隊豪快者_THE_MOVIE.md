@@ -62,7 +62,7 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
         特命部的ID為555・913・315。有話就直說，經常是一針見血，也因為這樣有時會被尼克責罵。在疫苗程式的影響下獲得了瞬間加速能力。
 
 :;**岩崎龍司 / Blue Buster** ([馬場良馬](../Page/馬場良馬.md "wikilink")
-飾/台：[宋昱璁](https://zh.wikipedia.org/wiki/宋昱璁 "wikilink"))
+飾/台：[宋昱璁](../Page/宋昱璁.md "wikilink"))
 
   -
 
@@ -138,7 +138,7 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
       -
         能量管理局特命部的美女操作員。
 
-:;**森下徹** ([高橋直人](https://zh.wikipedia.org/wiki/高橋直人 "wikilink")
+:;**森下徹** ([高橋直人](../Page/高橋直人.md "wikilink")
 飾/台：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink"))
 
   -
@@ -148,8 +148,8 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
 
 #### 敵對角色
 
-:;**闇特** ([陳內將](https://zh.wikipedia.org/wiki/陳內將 "wikilink")
-飾/台：[宋昱璁](https://zh.wikipedia.org/wiki/宋昱璁 "wikilink"))
+:;**闇特** ([陳內將](../Page/陳內將.md "wikilink")
+飾/台：[宋昱璁](../Page/宋昱璁.md "wikilink"))
 
   -
 
@@ -200,7 +200,7 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
         相當看重錢財和寶石等值錢的東西，平時常做的事情是休閒購物和保養、鑑賞自己珍藏的珠寶。
 
 :;**東‧多格伊亞（博士） / 豪快綠** ([清水一希](../Page/清水一希.md "wikilink")
-飾/台：[宋昱璁](https://zh.wikipedia.org/wiki/宋昱璁 "wikilink"))
+飾/台：[宋昱璁](../Page/宋昱璁.md "wikilink"))
 
   -
 
@@ -253,7 +253,7 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
 
 ### 歷代戰隊演員客串演出
 
-:;志葉薰 / 18代真劍紅 ([夏居瑠奈](https://zh.wikipedia.org/wiki/夏居瑠奈 "wikilink")
+:;志葉薰 / 18代真劍紅 ([夏居瑠奈](../Page/夏居瑠奈.md "wikilink")
 飾/台：[傅其慧](../Page/傅其慧.md "wikilink"))
 
   -
@@ -264,13 +264,13 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
   -
     [爆龍戰隊暴連者登場人物](../Page/爆龍戰隊暴連者.md "wikilink")，現任商務大樓（前恐龍屋咖哩店）社長。
 
-### [獸電戰隊強龍者登場人物](https://zh.wikipedia.org/wiki/獸電戰隊強龍者 "wikilink")
+### [獸電戰隊強龍者登場人物](../Page/獸電戰隊強龍者.md "wikilink")
 
 :;**強龍紅**
-(CV：[龍星涼](https://zh.wikipedia.org/wiki/龍星涼 "wikilink")/台：[宋昱璁](https://zh.wikipedia.org/wiki/宋昱璁 "wikilink"))
+(CV：[龍星涼](../Page/龍星涼.md "wikilink")/台：[宋昱璁](../Page/宋昱璁.md "wikilink"))
 
 :;**強龍黑**
-(CV：[齊藤秀翼](https://zh.wikipedia.org/wiki/齊藤秀翼 "wikilink")/台：[蔣鐵城](../Page/蔣鐵城.md "wikilink"))
+(CV：[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")/台：[蔣鐵城](../Page/蔣鐵城.md "wikilink"))
 
 :;**強龍藍**
 (CV：[金城大和](../Page/金城大和.md "wikilink")/台：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink"))
@@ -279,7 +279,7 @@ Busters立刻前往現場，這時出現在Go-Busters面前的是宇宙帝國殘
 (CV：[鹽野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")/台：[陳彥鈞](../Page/陳彥鈞.md "wikilink"))
 
 :;**強龍粉紅**
-(CV：[今野鮎莉](https://zh.wikipedia.org/wiki/今野鮎莉 "wikilink")/台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink"))
+(CV：[今野鮎莉](../Page/今野鮎莉.md "wikilink")/台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink"))
 
 ## CAST
 

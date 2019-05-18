@@ -12,7 +12,7 @@ GDDR5為了增大[頻寬並降低延時](https://zh.wikipedia.org/wiki/頻寬 "w
 相比GDDR3或GDDR4顯示記憶體而言工作电压從1.8V降為[电压仅有](https://zh.wikipedia.org/wiki/电压 "wikilink")1.5V，还具有新电源管理技术，功耗更低。\[3\]且GDDR3使用的为80nm[制程](https://zh.wikipedia.org/wiki/制程 "wikilink")，而GDDR5为55nm，制程的提高使芯片的体积缩小，發熱量也可以低许多。\[4\]
 
 一般GDDR5需搭配[PCI-E以上規格的顯卡才有支援](https://zh.wikipedia.org/wiki/PCI-E "wikilink")。但[Sony新一代家庭游戏机](https://zh.wikipedia.org/wiki/Sony "wikilink")[PlayStation
-4也使用了GDDR](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")5，其搭載由AMD定制的APU，配合HSA，可直接使用GDDR5作為資料存取使用。
+4也使用了GDDR](../Page/PlayStation_4.md "wikilink")5，其搭載由AMD定制的APU，配合HSA，可直接使用GDDR5作為資料存取使用。
 
 ### 頻率
 
@@ -22,10 +22,10 @@ GDDR5的實際運作頻率是1500MHz。DDR記億體會於一個時鐘周期內�
 ## 下一代接替品
 
 2011年早期有消息指出，[DDR4
-SDRAM記憶體問世後](https://zh.wikipedia.org/wiki/DDR4_SDRAM "wikilink")，將會有基於DDR4標準的GDDR6顯示記憶體標準，亦即「**第六版圖形用雙倍資料傳輸率**」（Graphics
+SDRAM記憶體問世後](../Page/DDR4_SDRAM.md "wikilink")，將會有基於DDR4標準的GDDR6顯示記憶體標準，亦即「**第六版圖形用雙倍資料傳輸率**」（Graphics
 Double Data Rate, version
-6，簡稱[GDDR6](https://zh.wikipedia.org/wiki/GDDR6 "wikilink")），將由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC於](../Page/JEDEC.md "wikilink")2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[5\]該標準或基於[DDR4
-SDRAM](https://zh.wikipedia.org/wiki/DDR4_SDRAM "wikilink")，與基於[DDR3
+6，簡稱[GDDR6](../Page/GDDR6.md "wikilink")），將由[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[JEDEC於](../Page/JEDEC.md "wikilink")2012年合作制定，除此以外還有[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")、[高通](../Page/高通.md "wikilink")、[德州仪器](../Page/德州仪器.md "wikilink")、[Cisco等資訊企業參與該標準的制定](https://zh.wikipedia.org/wiki/Cisco "wikilink")。\[5\]該標準或基於[DDR4
+SDRAM](../Page/DDR4_SDRAM.md "wikilink")，與基於[DDR3
 SDRAM的GDDR](../Page/DDR3_SDRAM.md "wikilink")5將有不少技術差異。
 
 儘管有不少消息稱該標準將於2014年完成，實際產品將會到2020年會大規模使用。\[6\]\[7\]\[8\]\[9\]然而，至今JEDEC以及其相關合作夥伴仍未公佈任何關於GDDR6的相關資訊。\[10\]直到2015年4月為止，NVIDIA所發售的[GeForce
@@ -74,7 +74,7 @@ HBM比起GDDR5擁有更高的頻寬和位元，位元部分每一顆HBM記憶體
 
 9.  [When should we expect
     GDDR6?](http://www.reddit.com/r/hardware/comments/2cfwhh/when_should_we_expect_gddr6/)
-    - [Reddit](https://zh.wikipedia.org/wiki/Reddit "wikilink")
+    - [Reddit](../Page/Reddit.md "wikilink")
 
 10.
 

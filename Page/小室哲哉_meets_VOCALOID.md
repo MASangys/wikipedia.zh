@@ -32,7 +32,8 @@ trax於](../Page/Avex_trax.md "wikilink")2012年3月28日發行的[合輯](https
     Heavenz feat. 初音未來、巡音流歌
       -
         原曲：globe （1997年）
-7.  [wanna Be A Dreammaker](../Page/wanna_Be_A_Dreammaker.md "wikilink")
+7.  [wanna Be A
+    Dreammaker](https://zh.wikipedia.org/wiki/wanna_Be_A_Dreammaker "wikilink")
     / doriko feat. 初音未來
       -
         原曲：globe （1998年）
@@ -53,9 +54,8 @@ trax於](../Page/Avex_trax.md "wikilink")2012年3月28日發行的[合輯](https
         原曲：[H Jungle with
         t](https://zh.wikipedia.org/wiki/H_Jungle_with_t "wikilink")
         （1995年）
-11. [LOVE IS ALL
-    MUSIC](https://zh.wikipedia.org/wiki/LOVE_IS_ALL_MUSIC "wikilink") /
-    小室哲哉 feat. 初音未來
+11. [LOVE IS ALL MUSIC](../Page/LOVE_IS_ALL_MUSIC.md "wikilink") / 小室哲哉
+    feat. 初音未來
       -
         原曲：華原朋美 （1997年）
 

@@ -1,4 +1,4 @@
-**三島川之江IC**（平假名：みしまかわのえインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[四國中央市的](../Page/四國中央市.md "wikilink")[松山自動車道之](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**三島川之江IC**（平假名：みしまかわのえインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[四國中央市的](../Page/四國中央市.md "wikilink")[松山自動車道之](../Page/松山自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1985年3月27日 -
-    [松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[土居IC至三島川之江IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
+    [松山自動車道](../Page/松山自動車道.md "wikilink")[土居IC至三島川之江IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
   - 1987年12月16日 -
     松山自動車道三島川之江IC至[川之江JCT之間開通](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")。
 
@@ -43,7 +43,7 @@
 
 ## 鄰近設施
 
-  - [松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")
+  - [松山自動車道](../Page/松山自動車道.md "wikilink")
     (6)[川之江JCT](https://zh.wikipedia.org/wiki/川之江JCT "wikilink") -
     [上分PA](https://zh.wikipedia.org/wiki/上分PA "wikilink") -
     (7)**三島川之江IC** -

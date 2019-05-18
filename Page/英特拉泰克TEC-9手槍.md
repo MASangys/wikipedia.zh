@@ -33,7 +33,7 @@ TEC-9和其衍生型TEC-DC9其後又被1994年[美国通過了一條名為](../P
 ### 電影
 
   - 1986年—《[-{zh-hans:妖魔大闹唐人街; zh-hk:妖魔大鬧小神州;
-    zh-hant:妖魔大鬧唐人街;}-](https://zh.wikipedia.org/wiki/妖魔大鬧唐人街 "wikilink")》（Big
+    zh-hant:妖魔大鬧唐人街;}-](../Page/妖魔大鬧唐人街.md "wikilink")》（Big
     Trouble in Little
     China）：型號為TEC-9，主角傑克·波頓（[寇特·羅素飾演](../Page/寇特·羅素.md "wikilink")）所使用的招牌武器。
   - 2009年—《[-{zh-hans:怒火攻心2：高压电;
@@ -51,19 +51,19 @@ TEC-9和其衍生型TEC-DC9其後又被1994年[美国通過了一條名為](../P
     Global
     Offensive）：型號為TEC-9，半自動射擊，命名為「Tec-9」，原裝彈32發，为了平衡性于后期改为18发。為恐怖份子可用手槍之一。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：命名為 "Blaster 9mm"，可全自動射擊。
   - 2014年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》（Far
     Cry 4）：命名為「A-99」，可全自動射擊，歸類為配槍。
   - 2015年—《[-{zh-hans:战地：硬仗;
-    zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/战地：硬仗 "wikilink")》（Battlefield
-    Hardline）：型號為TEC-9，[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，命名為「TEC-9」，歸類為[衝鋒手槍](https://zh.wikipedia.org/wiki/衝鋒手槍 "wikilink")，發射[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，20+1發彈匣，最高攜彈量為105+21發（可使用改裝：延長彈匣增至208+26發；故事模式），被罪犯專業人士（Professional）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$19,200。可加裝各種進階[照準器](https://zh.wikipedia.org/wiki/照準器 "wikilink")（改進版[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、迷你、德爾塔）、附加配件（[手電筒](../Page/手電筒.md "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、延長彈匣（增至25+1發）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
+    zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield
+    Hardline）：型號為TEC-9，[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，命名為「TEC-9」，歸類為[衝鋒手槍](https://zh.wikipedia.org/wiki/衝鋒手槍 "wikilink")，發射[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，20+1發彈匣，最高攜彈量為105+21發（可使用改裝：延長彈匣增至208+26發；故事模式），被罪犯專業人士（Professional）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$19,200。可加裝各種進階[照準器](../Page/照準器.md "wikilink")（改進版[機械瞄具](../Page/機械瞄具.md "wikilink")、迷你、德爾塔）、附加配件（[手電筒](../Page/手電筒.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、延長彈匣（增至25+1發）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
   - 2018年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：命名為“A-99”，可作單發及全自動射擊，歸類為配槍。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
-    zh-hant:極地戰嚎：破曉;}-](https://zh.wikipedia.org/wiki/孤岛惊魂：新曙光 "wikilink")》（Far
+    zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）
 
 ## 參見

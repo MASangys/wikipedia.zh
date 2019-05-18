@@ -1,9 +1,9 @@
 [Lightning_Connecter.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Connecter.jpg "fig:Lightning_Connecter.jpg")
 [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg")
 **Lightning**（简体中文名**闪电**）是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone
-5](../Page/iPhone_5.md "wikilink")、[iPod
-Touch及](../Page/iPod_Touch.md "wikilink")[iPod
-nano等新款手持式消費性電子產品](../Page/iPod_nano.md "wikilink")。此連接器針腳為
+5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPod
+Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPod
+nano等新款手持式消費性電子產品](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。此連接器針腳為
 8 pin，正反面皆可插，尺寸與[Micro
 USB相近](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。Lightning取代了使用多年的30pin連接器，而蘋果公司另外提供Lightning轉接30pin的轉接頭得以讓使用30pin連接器的週邊及線材仍可繼續使用。
 
@@ -19,7 +19,7 @@ USB做為連接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")，因此
 USB的轉接器。在Lightning連接器發表之後，蘋果公司亦提供Lightning連接器轉接[Micro
 USB的轉接器](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。
 
-Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证的Lightning傳輸線](https://zh.wikipedia.org/wiki/MFi认证 "wikilink")，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS
+Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使用未经[MFi认证的Lightning傳輸線](../Page/MFi认证.md "wikilink")，可能會發生無法充電及傳輸之情況，此狀況普遍在裝置上執行[iOS
 7版本之蘋果裝置上](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，且使用未认证傳輸線可能造成[鋰電池損壞](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")、[短路等問題](../Page/短路.md "wikilink")。
 
 在2017年11月初的[iOS
@@ -29,12 +29,13 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
 
 ### iPhone
 
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
   - [iPhone 5s](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
   - [iPhone 6/6 Plus](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
-  - [iPhone 6s/6s Plus](../Page/iPhone_6s.md "wikilink")
-  - [iPhone SE](../Page/iPhone_SE.md "wikilink")
+  - [iPhone 6s/6s
+    Plus](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")
+  - [iPhone SE](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")
   - [iPhone 7/7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")
   - [iPhone 8/8 Plus](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")
   - [iPhone X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")
@@ -49,11 +50,11 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
   - [iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")
   - [iPad (第5代)](https://zh.wikipedia.org/wiki/iPad_\(第5代\) "wikilink")
   - iPad (第6代)
-  - [iPad Pro](../Page/iPad_Pro.md "wikilink")
+  - [iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")
   - [iPad mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")
   - [iPad mini 2](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")
   - [iPad mini 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")
-  - [iPad mini 4](../Page/iPad_mini_4.md "wikilink")
+  - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
 
 ### iPod
 
@@ -61,7 +62,8 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
     5](https://zh.wikipedia.org/wiki/iPod_touch_5 "wikilink")
   - [iPod touch
     6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")
-  - [iPod Nano (第七代)](../Page/iPod_Nano.md "wikilink")
+  - [iPod Nano
+    (第七代)](https://zh.wikipedia.org/wiki/iPod_Nano "wikilink")
 
 ## 採用 Lightning 接頭的周邊設備
 
@@ -80,7 +82,7 @@ Lightning接頭內建認證晶片，會與充電的裝置認證，因此若使�
     2](https://zh.wikipedia.org/wiki/Magic_Trackpad "wikilink")
   - [Apple TV](../Page/Apple_TV.md "wikilink") 專用 [Siri
     Remote](https://zh.wikipedia.org/wiki/Siri_Remote "wikilink") (第四代)
-  - [AirPods](https://zh.wikipedia.org/wiki/AirPods "wikilink") 充電盒
+  - [AirPods](../Page/AirPods.md "wikilink") 充電盒
   - [EarPods](https://zh.wikipedia.org/wiki/EarPods "wikilink") 具備
     Lightning 連接器
   - Beats X

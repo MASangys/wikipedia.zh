@@ -15,7 +15,7 @@ Facelift) – Frontansicht, 13. Juni 2011, Wuppertal.jpg|2010年型梅赛德斯-
 
 ## 參見
 
-  - [梅赛德斯-奔驰Vario](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰Vario "wikilink")
+  - [梅赛德斯-奔驰Vario](../Page/梅赛德斯-奔驰Vario.md "wikilink")
   - [梅赛德斯-奔驰Sprinter](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰Sprinter "wikilink")
 
 [es:Mercedes-Benz

@@ -1,11 +1,11 @@
 「**Winter
-Magic**」（）是[KARA的第](../Page/KARA.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年10月19日由[UNIVERSAL
+Magic**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年10月19日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 概要
 
   - 與前作「[GO GO
-    Summer\!](../Page/GO_GO_Summer!.md "wikilink")」相隔約4個月發售的單曲，是2011年第3張單曲。
+    Summer\!](https://zh.wikipedia.org/wiki/GO_GO_Summer! "wikilink")」相隔約4個月發售的單曲，是2011年第3張單曲。
   - 以初回盤A・B・C 3種形式發售。
 
 ## 版本

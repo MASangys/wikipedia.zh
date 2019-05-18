@@ -20,8 +20,8 @@ PB手槍的擊發機構與馬卡洛夫手槍相同，另外由於槍管前部安
 ## 參見
 
   - [馬卡洛夫手槍](../Page/馬卡洛夫手槍.md "wikilink")
-  - [MP-448斯基泰手槍](https://zh.wikipedia.org/wiki/MP-448斯基泰手槍 "wikilink")
-  - [PSS消音手槍](https://zh.wikipedia.org/wiki/PSS消音手槍 "wikilink")
+  - [MP-448斯基泰手槍](../Page/MP-448斯基泰手槍.md "wikilink")
+  - [PSS消音手槍](../Page/PSS消音手槍.md "wikilink")
   - [納甘M1895轉輪手槍](../Page/納甘M1895轉輪手槍.md "wikilink")
   - [67式微聲手槍](https://zh.wikipedia.org/wiki/67式微聲手槍 "wikilink")
 

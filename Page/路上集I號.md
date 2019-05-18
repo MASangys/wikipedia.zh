@@ -13,7 +13,7 @@
 1.  **玻璃的心**<small>（ガラスの心）</small>
     編曲：武部聰志
       -
-        出自第1張迷你專輯『[從這個地方…](https://zh.wikipedia.org/wiki/從這個地方… "wikilink")』。原曲名為『玻璃中的我<small>（ガラスの中の私）</small>』
+        出自第1張迷你專輯『[從這個地方…](../Page/從這個地方….md "wikilink")』。原曲名為『玻璃中的我<small>（ガラスの中の私）</small>』
 2.  **朝向未來的道路（Hyper”ai”Mix）**<small>（未来への道（Hyper”ai”Mix））</small>
     編曲：直樹
       -
@@ -60,7 +60,7 @@
 
 ## 外部連結
 
-  - [川嶋愛『懷念的入手困難音源再次發售！』](http://www.oricon.co.jp/music/indies/closeup/050926_01.html)[oricon](../Page/oricon.md "wikilink").2009.10.14閲覧
+  - [川嶋愛『懷念的入手困難音源再次發售！』](http://www.oricon.co.jp/music/indies/closeup/050926_01.html)[oricon](https://zh.wikipedia.org/wiki/oricon "wikilink").2009.10.14閲覧
 
 ## 參考資料
 

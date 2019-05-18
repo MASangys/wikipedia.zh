@@ -20,8 +20,8 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
   - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
     <small>(2、5)</small>
   - Gwen Boshiwski – 雙簧管 <small>(6-7)</small>
-  - [Alain Boublil](https://zh.wikipedia.org/wiki/阿兰·鲍伯利 "wikilink") –
-    作詞 <small>(7)</small>
+  - [Alain Boublil](../Page/阿兰·鲍伯利.md "wikilink") – 作詞
+    <small>(7)</small>
   - John Campo – 小號 <small>(所有歌曲)</small>
   - Jose F. – 長號 <small>(1、7)</small>
   - Robert Hampton – 柔音號 <small>(6-7)</small>
@@ -94,9 +94,9 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
 <tr class="odd">
 <td><p>01</p></td>
 <td><p>柳暗花明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/區雪兒" title="wikilink">區雪兒</a></p></td>
+<td><p><a href="../Page/區雪兒.md" title="wikilink">區雪兒</a></p></td>
 <td><p>2011年5月17日</p></td>
-<td><p><a href="../Page/Youtube.md" title="wikilink">Youtube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
 <td><p><a href="http://www.youtube.com/watch?v=Dr5aTREyTcU">官方Youtube連結</a></p></td>
 <td></td>
 </tr>
@@ -124,7 +124,7 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
 <td></td>
 <td><p>2011年4月20日</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=ItcKqzLkrKM">官方Youtube連結</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/不再讓你孤單" title="wikilink">不再讓你孤單</a>》電影片段</p></td>
+<td><p>《<a href="../Page/不再讓你孤單.md" title="wikilink">不再讓你孤單</a>》電影片段</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -175,7 +175,7 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
   - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介．叱咤十大（第六位）
   - [2011年度SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單 "wikilink")－SINA
+    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
     Music 最高收聽率二十大歌曲
   - [第三十四屆十大中文金曲頒獎典禮](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
   - [2011

@@ -134,7 +134,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <li><a href="https://zh.wikipedia.org/wiki/丹尼斯·波克" title="wikilink">丹尼斯·波克</a> – <em><a href="https://zh.wikipedia.org/wiki/The_Ash_Garden" title="wikilink">The Ash Garden</a></em></li>
 <li><a href="https://zh.wikipedia.org/wiki/艾克邁·丹戈爾" title="wikilink">艾克邁·丹戈爾</a> – <em>Bitter Fruit</em></li>
 <li><a href="../Page/佩尔·奥洛夫·恩奎斯特.md" title="wikilink">佩尔·奥洛夫·恩奎斯特</a> – <em><a href="https://zh.wikipedia.org/wiki/訪問皇家醫師" title="wikilink">訪問皇家醫師</a></em></li>
-<li><a href="https://zh.wikipedia.org/wiki/強納森·法蘭森" title="wikilink">強納森·法蘭森</a> – <em><a href="https://zh.wikipedia.org/wiki/修正" title="wikilink">修正</a></em></li>
+<li><a href="../Page/強納森·法蘭森.md" title="wikilink">強納森·法蘭森</a> – <em><a href="https://zh.wikipedia.org/wiki/修正" title="wikilink">修正</a></em></li>
 <li><a href="https://zh.wikipedia.org/wiki/Lidia_Jorge" title="wikilink">Lidia Jorge</a> – <em>The Migrant Painter of Birds</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/John_McGahern" title="wikilink">John McGahern</a> – <em>That They May Face the Rising Sun</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/Ann_Patchett" title="wikilink">Ann Patchett</a> – <em><a href="https://zh.wikipedia.org/wiki/美聲唱法" title="wikilink">美聲唱法</a></em></li>
@@ -166,7 +166,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/已知世界" title="wikilink">已知世界</a></em></p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/Diane_Awerbuck" title="wikilink">Diane Awerbuck</a> – <em>Gardening at Night</em></li>
-<li><a href="https://zh.wikipedia.org/wiki/拉斯·萨比·克里斯滕森" title="wikilink">拉斯·萨比·克里斯滕森</a> – <em>The Half Brother</em> (translated from Norwegian by Kenneth Steven)</li>
+<li><a href="../Page/拉斯·萨比·克里斯滕森.md" title="wikilink">拉斯·萨比·克里斯滕森</a> – <em>The Half Brother</em> (translated from Norwegian by Kenneth Steven)</li>
 <li><a href="https://zh.wikipedia.org/wiki/Damon_Galgut" title="wikilink">Damon Galgut</a> – <em>The Good Doctor</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/道格拉斯·葛洛夫" title="wikilink">道格拉斯·葛洛夫</a> – <em>Elle</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/亞農·赫潤貝格" title="wikilink">亞農·赫潤貝格</a> – <em>Phantom Pain</em> (translated from Dutch by Sam Garrett)</li>
@@ -180,7 +180,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <tr class="odd">
 <td><p>2006</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Colm_toibin_2006.jpg" title="fig:Colm_toibin_2006.jpg">Colm_toibin_2006.jpg</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科尔姆·托宾" title="wikilink">科尔姆·托宾</a></p></td>
+<td><p><a href="../Page/科尔姆·托宾.md" title="wikilink">科尔姆·托宾</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/大師" title="wikilink">大師</a></em></p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/Chris_Abani" title="wikilink">Chris Abani</a> – <em>GraceLand</em></li>
@@ -198,7 +198,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <tr class="even">
 <td><p>2007</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Per-petterson-author.jpg" title="fig:Per-petterson-author.jpg">Per-petterson-author.jpg</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佩尔·彼得松" title="wikilink">佩尔·彼得松</a>[5]</p></td>
+<td><p><a href="../Page/佩尔·彼得松.md" title="wikilink">佩尔·彼得松</a>[5]</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/出門竊馬" title="wikilink">出門竊馬</a></em> (translated from Norwegian by Anne Born)</p></td>
 <td><ul>
 <li><a href="../Page/朱利安·巴恩斯.md" title="wikilink">朱利安·巴恩斯</a> – <em><a href="https://zh.wikipedia.org/wiki/阿瑟與喬治" title="wikilink">阿瑟與喬治</a></em></li>
@@ -223,7 +223,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <li><a href="https://zh.wikipedia.org/wiki/Sayed_Kashua" title="wikilink">Sayed Kashua</a> – <em><a href="https://zh.wikipedia.org/wiki/Let_It_Be_Morning" title="wikilink">Let It Be Morning</a></em> (translated from Hebrew by Miriam Shlesinger)</li>
 <li><a href="https://zh.wikipedia.org/wiki/雅斯米納·卡黛哈" title="wikilink">雅斯米納·卡黛哈</a> – <em><a href="https://zh.wikipedia.org/wiki/The_Attack_(novel)" title="wikilink">The Attack</a></em> (translated from French by John Cullen)</li>
 <li>Patrick McCabe – <em><a href="https://zh.wikipedia.org/wiki/Winterwood" title="wikilink">Winterwood</a></em></li>
-<li><a href="https://zh.wikipedia.org/wiki/安德烈·馬金尼" title="wikilink">安德烈·馬金尼</a> – <em><a href="https://zh.wikipedia.org/wiki/The_Woman_Who_Waited" title="wikilink">The Woman Who Waited</a></em> (translated from French by Geoffrey Strachan)</li>
+<li><a href="../Page/安德烈·馬金尼.md" title="wikilink">安德烈·馬金尼</a> – <em><a href="https://zh.wikipedia.org/wiki/The_Woman_Who_Waited" title="wikilink">The Woman Who Waited</a></em> (translated from French by Geoffrey Strachan)</li>
 </ul></td>
 <td><p>[7]</p></td>
 </tr>
@@ -262,7 +262,7 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Colum_McCann_Portrait.jpg" title="fig:Colum_McCann_Portrait.jpg">Colum_McCann_Portrait.jpg</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/科拉姆·麦卡恩" title="wikilink">科拉姆·麦卡恩</a>[9]</p></td>
+<td><p><a href="../Page/科拉姆·麦卡恩.md" title="wikilink">科拉姆·麦卡恩</a>[9]</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/讓偉大的世界旋轉" title="wikilink">讓偉大的世界旋轉</a></em></p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/Michael_Crummey" title="wikilink">Michael Crummey</a> – <em>Galore</em></li>
@@ -280,14 +280,14 @@ Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林�
 <tr class="odd">
 <td><p>2012</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/乔恩·麦格雷戈" title="wikilink">乔恩·麦格雷戈</a>[11]</p></td>
+<td><p><a href="../Page/乔恩·麦格雷戈.md" title="wikilink">乔恩·麦格雷戈</a>[11]</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/狗亦有道" title="wikilink">狗亦有道</a></em></p></td>
 <td><ul>
 <li>John Bauer – <em>Rocks in the Belly</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/David_Bergen" title="wikilink">David Bergen</a> – <em>The Matter with Morris</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/珍妮佛·伊根" title="wikilink">珍妮佛·伊根</a> – <em><a href="https://zh.wikipedia.org/wiki/A_Visit_From_the_Goon_Squad" title="wikilink">A Visit From the Goon Squad</a></em></li>
 <li><a href="https://zh.wikipedia.org/wiki/阿敏娜妲·佛納" title="wikilink">阿敏娜妲·佛納</a> – <em>The Memory of Love</em></li>
-<li><a href="https://zh.wikipedia.org/wiki/卡爾·馬藍提斯" title="wikilink">卡爾·馬藍提斯</a> – <em><a href="https://zh.wikipedia.org/wiki/馬特洪峰" title="wikilink">馬特洪峰</a></em></li>
+<li><a href="../Page/卡爾·馬藍提斯.md" title="wikilink">卡爾·馬藍提斯</a> – <em><a href="https://zh.wikipedia.org/wiki/馬特洪峰" title="wikilink">馬特洪峰</a></em></li>
 <li><a href="https://zh.wikipedia.org/wiki/Tim_Pears" title="wikilink">Tim Pears</a> – <em>Landed</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/伊沙伊·萨里德" title="wikilink">伊沙伊·萨里德</a> – <em>Limassol</em></li>
 <li><a href="https://zh.wikipedia.org/wiki/Cristovão_Tezza" title="wikilink">Cristovão Tezza</a> – <em>The Eternal Son</em></li>

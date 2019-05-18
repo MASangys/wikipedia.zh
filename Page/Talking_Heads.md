@@ -1,7 +1,7 @@
 **傳聲頭像**（Talking
-Heads）是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新浪潮樂隊](../Page/新浪潮.md "wikilink")，在1975年於[紐約市組建](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，直至1991年解散。樂隊成員包括主音兼結他手[大衛·伯恩](https://zh.wikipedia.org/wiki/大衛·伯恩 "wikilink")（David
+Heads）是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新浪潮樂隊](../Page/新浪潮.md "wikilink")，在1975年於[紐約市組建](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，直至1991年解散。樂隊成員包括主音兼結他手[大衛·伯恩](../Page/大衛·伯恩.md "wikilink")（David
 Byrne）、鼓手（Chris Frantz）、貝斯手（Tina Weymouth）、結他及鍵盤手（Jerry
-Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[朋克](https://zh.wikipedia.org/wiki/朋克 "wikilink")、[放克](../Page/放克.md "wikilink")、[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[前衛音樂](../Page/實驗音樂.md "wikilink")、[藝術搖滾等各種元素](https://zh.wikipedia.org/wiki/艺术摇滚 "wikilink")，促使[後朋克慢慢演變成為自成一格的](https://zh.wikipedia.org/wiki/後朋克 "wikilink")[新浪潮曲風](../Page/新浪潮.md "wikilink")。作為主音的大衛·伯恩亦為樂隊作品填出不少怪誕、嘲諷又或深奧難懂的歌詞，並因其鮮明且創新的現場演出風格使他們受各地樂迷的熱烈支持。
+Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[朋克](https://zh.wikipedia.org/wiki/朋克 "wikilink")、[放克](../Page/放克.md "wikilink")、[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[前衛音樂](../Page/實驗音樂.md "wikilink")、[藝術搖滾等各種元素](../Page/艺术摇滚.md "wikilink")，促使[後朋克慢慢演變成為自成一格的](https://zh.wikipedia.org/wiki/後朋克 "wikilink")[新浪潮曲風](../Page/新浪潮.md "wikilink")。作為主音的大衛·伯恩亦為樂隊作品填出不少怪誕、嘲諷又或深奧難懂的歌詞，並因其鮮明且創新的現場演出風格使他們受各地樂迷的熱烈支持。
 
 傳聲頭像憑籍其過人的藝術性和前衛的實驗性，在八十年代的唱片界嬴得了商業成功和評論界的一致讚揚，風頭橫跨英美。即使解散後，其作品仍對音樂發展有著深遠的影響力，備受不少音樂權威刊物的推崇和肯定。2002年，樂隊順利地榮登[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。在2003年公佈的[滾石雜誌五百大專輯中](../Page/滾石雜誌五百大專輯.md "wikilink")，樂隊共有四張專輯的名字出現在這份榜單上，並在[英國第四台的百大專輯票選活動結果中奪下一席](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")。2011年，樂隊入選[滾石雜誌的百大偉大音樂家](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")，再進一步肯定了樂隊的地位。
 
@@ -12,7 +12,7 @@ Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[�
 七十年代早期，年僅18歲的大衛·伯恩隻身從[蘇格蘭來到美國留學](../Page/蘇格蘭.md "wikilink")，就讀於[羅德島設計學院的他認識了基斯](https://zh.wikipedia.org/wiki/羅德島 "wikilink")·法蘭茲（樂隊鼓手）及他的女朋友天娜·威茅斯（亦即後來樂隊的貝斯手），拜恩與包括法蘭茲在內的數名友人組成了「藝術學」（The
 Artistics）樂隊，威茅斯亦在團中幫忙。1974年，法蘭茲與威茅斯從學校畢業，伯恩與他們兩人為了更專注於創作音樂，決定遷往紐約市另組新團，此時法蘭茲正鼓勵著他的女朋友學習[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，以成為真正的樂隊成員及填補一直懸空的貝斯手位置。經過長時間排練後，樂隊最終在1975年一月以「傳聲頭像」之名成立，他們找到了[CBGB酒吧](https://zh.wikipedia.org/wiki/CBGB "wikilink")（公認紐約朋克發源地），經過試音後，成功爭取替當時還未衝出紐約的駐場樂隊[雷蒙斯作暖場](https://zh.wikipedia.org/wiki/雷蒙斯合唱團 "wikilink")，這也是傳聲頭像樂隊的首次公開演出。
 
-接下一年多時光裡，三人一直不停工作、排練、演出、作曲、錄音，他們的努力最終換來[閣下唱片](https://zh.wikipedia.org/wiki/Sire_Records "wikilink")（Sire
+接下一年多時光裡，三人一直不停工作、排練、演出、作曲、錄音，他們的努力最終換來[閣下唱片](../Page/Sire_Records.md "wikilink")（Sire
 Records）的一紙合約，成員們於是辭掉工作，投放所有時間在音樂上。1977年二月，樂隊發佈首支單曲《Love → Building on
 Fire》。同期，樂隊招攬了從[波士頓而來的結他手謝利](https://zh.wikipedia.org/wiki/波士頓 "wikilink")·哈利遜，他原先擔任（The
 Modern Lovers）結他手一段時間。很快陣容完整的樂隊開始製作他們首張專輯，並找來曾幫雷蒙斯樂隊製作專輯的（Tony
@@ -77,7 +77,7 @@ Stories和1988年的 Naked。1991年12月份，乐队正式公布了解散。
 ### 錄音室專輯
 
   - 《[Talking Heads:
-    77](https://zh.wikipedia.org/wiki/Talking_Heads:_77 "wikilink")》（1977年9月16日）
+    77](../Page/Talking_Heads:_77.md "wikilink")》（1977年9月16日）
   - 《》（1978年7月14日）
   - 《》（1979年8月3日）
   - 《》（1980年10月8日）

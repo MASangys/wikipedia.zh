@@ -119,7 +119,7 @@
 11月（Android）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/狂野飙车8：极速凌云" title="wikilink">狂野飙车8：极速凌云</a></p></td>
+<td><p><a href="../Page/狂野飙车8：极速凌云.md" title="wikilink">狂野飙车8：极速凌云</a></p></td>
 <td><p>Asphalt 8: Airborne</p></td>
 <td><p>IOS、Android、WP</p></td>
 <td><p>2013年8月</p></td>
@@ -539,14 +539,14 @@
 
 **2019/04/18**補充(現代戰爭系列)：
 
-| 遊戲名                                                                                                                                                               | 發行年       | 開發商                                        | 發行商                                                                                                         | 平台                                                                                                                                                                                                                                                                                                 | 現代戰爭：沙塵暴([Modern Combat: Sandstorm](https://en.wikipedia.org/wiki/Modern_Combat:_Sandstorm)) | 2009 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")、[Bada](../Page/Bada.md "wikilink") |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------ | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 現代戰爭2：黑色飛馬([Modern Combat 2: Black Pegasus](https://zh.wikipedia.org/wiki/Modern_Combat_2:_Black_Pegasus "wikilink"))                                             | 2010      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](../Page/iOS.md "wikilink")，[Android](../Page/Android.md "wikilink")，[Xperia Play](https://zh.wikipedia.org/wiki/Xperia_Play "wikilink")，[BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")                                                                                     |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
-| 現代戰爭：統治([Modern Combat：Domination](https://zh.wikipedia.org/wiki/Modern_Combat：Domination "wikilink"))                                                            | 2011      | [Gameloft](../Page/Gameloft.md "wikilink") | [PlayStation Network](../Page/PlayStation_Network.md "wikilink")、[Gameloft](../Page/Gameloft.md "wikilink") | [DualShock 3](https://zh.wikipedia.org/wiki/DualShock_3 "wikilink")、[PlayStation Move運動控制器](https://zh.wikipedia.org/wiki/PlayStation_Move "wikilink")、[Mac](../Page/Mac.md "wikilink") / [OSX](https://zh.wikipedia.org/wiki/OSX "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink") |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
-| [現代戰爭3：墮落國度](https://zh.wikipedia.org/wiki/现代战争3：堕落国度 "wikilink")([Modern Combat 3:Fallen_Nation](https://en.wikipedia.org/wiki/Modern_Combat_3:_Fallen_Nation)) | 2011      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")、[Bada](../Page/Bada.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")                                                                                                                      |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
-| [現代戰爭4：尖峰時刻](https://zh.wikipedia.org/wiki/现代战争4：决战时刻 "wikilink")([Modern Combat 4: Zero Hour](https://en.wikipedia.org/wiki/Modern_Combat_4:_Zero_Hour))         | 2012、2013 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")、[Bada](../Page/Bada.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")、[BlackBerry 10](../Page/BlackBerry_10.md "wikilink")        |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
-| [現代戰爭5：黑影籠罩](https://zh.wikipedia.org/wiki/现代战争5：眩晕风暴 "wikilink")(多人電競射擊遊戲)(Modern Combat 5: Blackout)                                                            | 2014      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")、[Windows 8.1](https://zh.wikipedia.org/wiki/Windows_8.1 "wikilink")                                                                                             |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
-| 現代戰爭：尖峰對決 - 多人在線FPS遊戲(Modern Combat: Versus)                                                                                                                      | 2017      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](../Page/iOS.md "wikilink")、[Android](../Page/Android.md "wikilink")\]、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")                                                                                                                                                        |                                                                                              |      |                                            |                                            |                                                                                                                                                                      |
+| 遊戲名                                                                                                                                            | 發行年       | 開發商                                        | 發行商                                                                                                         | 平台                                                                                                                                                                                                                                                                                                                    | 現代戰爭：沙塵暴([Modern Combat: Sandstorm](https://en.wikipedia.org/wiki/Modern_Combat:_Sandstorm)) | 2009 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")、[Bada](../Page/Bada.md "wikilink") |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 現代戰爭2：黑色飛馬([Modern Combat 2: Black Pegasus](https://zh.wikipedia.org/wiki/Modern_Combat_2:_Black_Pegasus "wikilink"))                          | 2010      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android](../Page/Android.md "wikilink")，[Xperia Play](https://zh.wikipedia.org/wiki/Xperia_Play "wikilink")，[BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")                                                                                     |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
+| 現代戰爭：統治([Modern Combat：Domination](https://zh.wikipedia.org/wiki/Modern_Combat：Domination "wikilink"))                                         | 2011      | [Gameloft](../Page/Gameloft.md "wikilink") | [PlayStation Network](../Page/PlayStation_Network.md "wikilink")、[Gameloft](../Page/Gameloft.md "wikilink") | [DualShock 3](https://zh.wikipedia.org/wiki/DualShock_3 "wikilink")、[PlayStation Move運動控制器](https://zh.wikipedia.org/wiki/PlayStation_Move "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink") / [OSX](https://zh.wikipedia.org/wiki/OSX "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink") |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
+| [現代戰爭3：墮落國度](../Page/现代战争3：堕落国度.md "wikilink")([Modern Combat 3:Fallen_Nation](https://en.wikipedia.org/wiki/Modern_Combat_3:_Fallen_Nation)) | 2011      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")、[Bada](../Page/Bada.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")                                                                                                                      |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
+| [現代戰爭4：尖峰時刻](../Page/现代战争4：决战时刻.md "wikilink")([Modern Combat 4: Zero Hour](https://en.wikipedia.org/wiki/Modern_Combat_4:_Zero_Hour))         | 2012、2013 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [BlackBerry PlayBook](../Page/BlackBerry_PlayBook.md "wikilink")、[Bada](../Page/Bada.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")、[BlackBerry 10](../Page/BlackBerry_10.md "wikilink")        |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
+| [現代戰爭5：黑影籠罩](https://zh.wikipedia.org/wiki/现代战争5：眩晕风暴 "wikilink")(多人電競射擊遊戲)(Modern Combat 5: Blackout)                                         | 2014      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")、[Windows 8.1](../Page/Windows_8.1.md "wikilink")                                                                                                                |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
+| 現代戰爭：尖峰對決 - 多人在線FPS遊戲(Modern Combat: Versus)                                                                                                   | 2017      | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink")                                                                  | [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")\]、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")                                                                                                                                                        |                                                                                              |      |                                            |                                            |                                                                                                                                                                                         |
 
 ## C
 
@@ -623,7 +623,7 @@
     (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink")，PlayStation
     Network，Xbox Live Arcade)
   - *Eternal Legacy* ([Blackberry
-    Playbook](../Page/Blackberry_Playbook.md "wikilink")，iOS，mobile)
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，mobile)
 
 ## F
 
@@ -644,8 +644,8 @@
     Pre](../Page/Palm_Pre.md "wikilink"))
   - ***[Gangstar: Miami
     Vindication](https://zh.wikipedia.org/wiki/Gangstar:_Miami_Vindication "wikilink")***
-    (Android，[iPhone](../Page/iPhone.md "wikilink")，[iPod
-    touch](../Page/iPod_touch.md "wikilink"))
+    (Android，[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPod
+    touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink"))
   - *Gangstar:vegas*
   - ''Gangstar Rio: City of Saints
     (模仿[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手 "wikilink"))
@@ -706,12 +706,12 @@
   - *Lego Batman: The Mobile Game*
   - *[Let's
     Golf\!](https://zh.wikipedia.org/wiki/Let's_Golf! "wikilink")*
-    (iOS，[Palm pre](../Page/Palm_pre.md "wikilink") - PlayStation 3
-    and PSP as minis)
+    (iOS，[Palm pre](https://zh.wikipedia.org/wiki/Palm_pre "wikilink")
+    - PlayStation 3 and PSP as minis)
   - *[Let's Golf\!
     2](https://zh.wikipedia.org/wiki/Let's_Golf!_2 "wikilink")*
     ([Blackberry
-    Playbook](../Page/Blackberry_Playbook.md "wikilink")，iOS，Mac)
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Mac)
   - *[Let's Go
     Bowling](https://zh.wikipedia.org/wiki/Let's_Go_Bowling "wikilink")*
   - *[Lost](https://zh.wikipedia.org/wiki/Lost_\(video_game\) "wikilink")*
@@ -760,7 +760,7 @@
     III](https://zh.wikipedia.org/wiki/Mission_Impossible_III "wikilink")*
   - *[Modern Combat:
     Domination](https://zh.wikipedia.org/wiki/Modern_Combat:_Domination "wikilink")*
-    (PS3，[Mac](../Page/Mac.md "wikilink"))
+    (PS3，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink"))
   - *[Modern Combat:
     Sandstorm](https://zh.wikipedia.org/wiki/Modern_Combat:_Sandstorm "wikilink")*
     (iOS，[Bada](https://zh.wikipedia.org/wiki/Bada_OS "wikilink")，[Palm
@@ -768,7 +768,7 @@
   - *[Modern Combat 2: Black
     Pegasus](https://zh.wikipedia.org/wiki/Modern_Combat_2:_Black_Pegasus "wikilink")*
     ([Blackberry
-    Playbook](../Page/Blackberry_Playbook.md "wikilink")，iOS，Android)
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
   - *[Modern Combat 3: Fallen
     Nation](https://zh.wikipedia.org/wiki/Modern_Combat_3:_Fallen_Nation "wikilink")*
     (Android，iOS，Windows Phone 7)
@@ -819,12 +819,12 @@ Modern Combat 5: Black Out(Android,IOS)
     Alliance](https://zh.wikipedia.org/wiki/N.O.V.A._Near_Orbit_Vanguard_Alliance "wikilink")*
     (iOS，[Playstation](https://zh.wikipedia.org/wiki/Playstation "wikilink")
     OS
-    ([PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")，[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink"))，[Mac](../Page/Mac.md "wikilink")，[Palm
+    ([PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")，[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink"))，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Palm
     Pre](../Page/Palm_Pre.md "wikilink")，[Android](../Page/Android.md "wikilink"))
   - *[N.O.V.A 2: The Hero Rises
     Again](https://zh.wikipedia.org/wiki/N.O.V.A_2:_The_Hero_Rises_Again "wikilink")*
     ([Blackberry
-    Playbook](../Page/Blackberry_Playbook.md "wikilink")，iOS)
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS)
 
 ## O
 
@@ -915,7 +915,7 @@ Modern Combat 5: Black Out(Android,IOS)
   - *[Real Football
     2011](https://zh.wikipedia.org/wiki/Real_Football_2011 "wikilink")*
     ([Blackberry
-    Playbook](../Page/Blackberry_Playbook.md "wikilink")，iOS，Android)
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
   - ''Real Football 2012
   - *[Real Rugby](https://zh.wikipedia.org/wiki/Real_Rugby "wikilink")*
     ([Invictus](https://zh.wikipedia.org/wiki/Invictus_\(film\) "wikilink")
@@ -964,7 +964,8 @@ Modern Combat 5: Black Out(Android,IOS)
     Fever](https://zh.wikipedia.org/wiki/Spring_Break_Fever "wikilink")*
   - *[Spider-Man: Total
     Mayhem](https://zh.wikipedia.org/wiki/Spider-Man:_Total_Mayhem "wikilink")*
-    ([Blackberry Playbook](../Page/Blackberry_Playbook.md "wikilink"))
+    ([Blackberry
+    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink"))
   - *[Spider-Man: Toxic
     City](https://zh.wikipedia.org/wiki/Spider-Man:_Toxic_City "wikilink")*
   - *[Soul of
@@ -1058,7 +1059,7 @@ Modern Combat 5: Black Out(Android,IOS)
 <a href="../Page/Gameloft.md" title="wikilink">Gameloft</a></p></td>
 <td><p>Microsoft Game Studios(XBLA)<br />
 Gameloft</p></td>
-<td><p><a href="../Page/Blackberry_Playbook.md" title="wikilink">Blackberry Playbook</a>，iOS，<a href="../Page/Palm_Pre.md" title="wikilink">Palm Pre</a>，<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Blackberry_Playbook" title="wikilink">Blackberry Playbook</a>，iOS，<a href="../Page/Palm_Pre.md" title="wikilink">Palm Pre</a>，<br />
 DSi，Wii，PlayStation 3, Android, XBLA</p></td>
 </tr>
 <tr class="even">
@@ -1085,8 +1086,8 @@ DSi，Wii，PlayStation 3, Android, XBLA</p></td>
 | **Wild West Guns**               | 狂野西部            | 2008 | 未知                                         | [Gameloft](../Page/Gameloft.md "wikilink") | iOs ,[Wii](../Page/Wii.md "wikilink")                                                                 |
 | **Wimbledon 2008 Official Game** | 2008温布尔登网球公开赛游戏 | 未知   | 未知                                         | [Gameloft](../Page/Gameloft.md "wikilink") | 未知                                                                                                    |
 | **Winbledon 2009**               | 2009温布尔登网球公开赛   | 2009 | 未知                                         | [Gameloft](../Page/Gameloft.md "wikilink") | [Android](../Page/Android.md "wikilink"), [Symbien](https://zh.wikipedia.org/wiki/Symbien "wikilink") |
-| **Wonder Blocks**                | 七大奇迹豪华方块大战      | 2008 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [Java](../Page/Java.md "wikilink"), [ios](../Page/ios.md "wikilink") \[15\]                           |
-| **World at Arms**                | 戰爭世界            | 未知   | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [ios](../Page/ios.md "wikilink")                                                                      |
+| **Wonder Blocks**                | 七大奇迹豪华方块大战      | 2008 | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [Java](../Page/Java.md "wikilink"), [ios](https://zh.wikipedia.org/wiki/ios "wikilink") \[15\]        |
+| **World at Arms**                | 戰爭世界            | 未知   | [Gameloft](../Page/Gameloft.md "wikilink") | [Gameloft](../Page/Gameloft.md "wikilink") | [ios](https://zh.wikipedia.org/wiki/ios "wikilink")                                                   |
 
 ## X
 

@@ -1,5 +1,5 @@
 「**GO GO
-Summer\!**」（）是[KARA的第](../Page/KARA.md "wikilink")4張單曲。2011年6月29日由[UNIVERSAL
+Summer\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張單曲。2011年6月29日由[UNIVERSAL
 SIGMA發售](../Page/环球唱片.md "wikilink")。
 
 ## 概要

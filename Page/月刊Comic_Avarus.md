@@ -1,5 +1,5 @@
 《**月刊Comic Avarus**》是[Mag
-Garden發行的](https://zh.wikipedia.org/wiki/Mag_Garden "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2007年創刊。
+Garden發行的](../Page/Mag_Garden.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2007年創刊。
 
 ## 作品
 
@@ -7,10 +7,10 @@ Garden發行的](https://zh.wikipedia.org/wiki/Mag_Garden "wikilink")[漫畫雜�
 
   - [三国恋戦記](https://zh.wikipedia.org/wiki/三国恋戦記〜オトメの兵法!〜 "wikilink")（[Daisy2](https://zh.wikipedia.org/wiki/Daisy2 "wikilink")×[あず真矢](https://zh.wikipedia.org/wiki/あず真矢 "wikilink")）
   - [全力少年](https://zh.wikipedia.org/wiki/全力少年 "wikilink")（[双葉よう](https://zh.wikipedia.org/wiki/双葉よう "wikilink")）
-  - [笑傲曇天](https://zh.wikipedia.org/wiki/笑傲曇天 "wikilink")（[唐々煙](https://zh.wikipedia.org/wiki/唐々煙 "wikilink")）
+  - [笑傲曇天](../Page/笑傲曇天.md "wikilink")（[唐々煙](https://zh.wikipedia.org/wiki/唐々煙 "wikilink")）
   - [白奪のマスカレイド](https://zh.wikipedia.org/wiki/白奪のマスカレイド "wikilink")（[椿カヲリ](https://zh.wikipedia.org/wiki/椿カヲリ "wikilink")）
   - [反面王子](https://zh.wikipedia.org/wiki/反面王子 "wikilink")（[鈴木有布子](https://zh.wikipedia.org/wiki/鈴木有布子 "wikilink")）
-  - [flat～友情平均值～](../Page/flat～友情平均值～.md "wikilink")（[青桐ナツ](https://zh.wikipedia.org/wiki/青桐ナツ "wikilink")）
+  - [flat～友情平均值～](https://zh.wikipedia.org/wiki/flat～友情平均值～ "wikilink")（[青桐ナツ](https://zh.wikipedia.org/wiki/青桐ナツ "wikilink")）
   - [HEROIZM](https://zh.wikipedia.org/wiki/HEROIZM "wikilink")（[壱村仁](https://zh.wikipedia.org/wiki/壱村仁 "wikilink")）
   - [めくるめく](https://zh.wikipedia.org/wiki/めくるめく "wikilink")（[田丸さと](https://zh.wikipedia.org/wiki/田丸さと "wikilink")）
   - [終點unknown](https://zh.wikipedia.org/wiki/終點unknown "wikilink")（[杉浦志保](https://zh.wikipedia.org/wiki/杉浦志保 "wikilink")）
@@ -70,7 +70,7 @@ Garden發行的](https://zh.wikipedia.org/wiki/Mag_Garden "wikilink")[漫畫雜�
   - [十六夜の瞳](https://zh.wikipedia.org/wiki/十六夜の瞳 "wikilink")（[高見鳴瀬](https://zh.wikipedia.org/wiki/高見鳴瀬 "wikilink")）
   - [東海レトロスペクティブ](https://zh.wikipedia.org/wiki/東海レトロスペクティブ "wikilink")（[野口芽衣](https://zh.wikipedia.org/wiki/野口芽衣 "wikilink")）
   - [さかいめの住処](https://zh.wikipedia.org/wiki/さかいめの住処 "wikilink")（[松志ぐら](https://zh.wikipedia.org/wiki/松志ぐら "wikilink")）
-  - [coda](../Page/coda.md "wikilink")（[壱村仁](https://zh.wikipedia.org/wiki/壱村仁 "wikilink")）
+  - [coda](https://zh.wikipedia.org/wiki/coda "wikilink")（[壱村仁](https://zh.wikipedia.org/wiki/壱村仁 "wikilink")）
   - [東京ラストチカ](https://zh.wikipedia.org/wiki/東京ラストチカ "wikilink")（[みよしふるまち](https://zh.wikipedia.org/wiki/みよしふるまち "wikilink")）
   - [ケッコーなお手前です。](https://zh.wikipedia.org/wiki/ケッコーなお手前です。 "wikilink")（みよしふるまち）
   - [悖德之城〜黑耀的軌跡〜](https://zh.wikipedia.org/wiki/悖德之城〜黑耀的軌跡〜 "wikilink")（[桑原水菜](https://zh.wikipedia.org/wiki/桑原水菜 "wikilink")×[石据カチル](https://zh.wikipedia.org/wiki/石据カチル "wikilink")）

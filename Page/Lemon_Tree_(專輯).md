@@ -19,7 +19,7 @@ Tree》，這歌曲令她火速走紅，更使這專輯在台灣銷量達到70�
 <td><p>Lemon Tree</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Hinkel" title="wikilink">Hinkel</a><br />
 <a href="https://zh.wikipedia.org/wiki/Fredent_Haler" title="wikilink">Fredent Haler</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/許常德" title="wikilink">許常德</a></p></td>
+<td><p><a href="../Page/許常德.md" title="wikilink">許常德</a></p></td>
 <td><p><a href="../Page/包小松.md" title="wikilink">包小松</a></p></td>
 <td><p>第一主打<br />
 粵語版為《Lemon Tree》</p></td>

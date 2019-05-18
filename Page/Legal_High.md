@@ -1,4 +1,4 @@
-是[富士電視台](../Page/富士電視台.md "wikilink")[系列播放的日本](../Page/富士電視網.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。編劇為[古澤良太](https://zh.wikipedia.org/wiki/古澤良太 "wikilink")。2012年4月17日開始在[週二21時（火9）時段與](../Page/富士電視台週二晚間九點連續劇.md "wikilink")2013年4月13日在[土曜プレミアム](https://zh.wikipedia.org/wiki/土曜プレミアム "wikilink")(週六Premium，21:00-23:10)以「」為標題播放第一季與特別篇。2013年10月9日開始在[週三22時（水10）時段與](https://zh.wikipedia.org/wiki/富士電視台週三晚間十點連續劇 "wikilink")2014年11月22日在土曜プレミアム以「」為標題播放第二季與特別篇。
+是[富士電視台](../Page/富士電視台.md "wikilink")[系列播放的日本](../Page/富士電視網.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。編劇為[古澤良太](../Page/古澤良太.md "wikilink")。2012年4月17日開始在[週二21時（火9）時段與](../Page/富士電視台週二晚間九點連續劇.md "wikilink")2013年4月13日在[土曜プレミアム](https://zh.wikipedia.org/wiki/土曜プレミアム "wikilink")(週六Premium，21:00-23:10)以「」為標題播放第一季與特別篇。2013年10月9日開始在[週三22時（水10）時段與](../Page/富士電視台週三晚間十點連續劇.md "wikilink")2014年11月22日在土曜プレミアム以「」為標題播放第二季與特別篇。
 
 ## 劇情簡介
 
@@ -361,7 +361,7 @@
 <td><center>
 <p>石塚小枝子</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/凌晞" title="wikilink">凌晞</a></p></td>
+<p><a href="../Page/凌晞.md" title="wikilink">凌晞</a></p></td>
 <td><p>山內花江的原伙伴，藝名為夏洛特松戶，後放棄夢想，白天為音樂補習班的老師，夜間則擔任陪酒小姐，後結識葛西智，成為他的影子作者之一。</p></td>
 <td></td>
 </tr>
@@ -428,7 +428,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/原田夏希" title="wikilink">原田夏希</a></p></td>
+<p><a href="../Page/原田夏希.md" title="wikilink">原田夏希</a></p></td>
 <td><center>
 <p>村瀨美由紀</p></td>
 <td><center>
@@ -468,7 +468,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/村井美樹" title="wikilink">村井美樹</a></p></td>
+<p><a href="../Page/村井美樹.md" title="wikilink">村井美樹</a></p></td>
 <td><center>
 <p>桑田久美子</p></td>
 <td><center>
@@ -612,7 +612,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/木南晴夏" title="wikilink">木南晴夏</a></p></td>
+<p><a href="../Page/木南晴夏.md" title="wikilink">木南晴夏</a></p></td>
 <td><center>
 <p>黛千春</p></td>
 <td><center>
@@ -727,7 +727,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/中村敦夫" title="wikilink">中村敦夫</a></p></td>
+<p><a href="../Page/中村敦夫.md" title="wikilink">中村敦夫</a></p></td>
 <td><center>
 <p>古美門清藏</p></td>
 <td><center>
@@ -875,7 +875,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/田畑智子" title="wikilink">田畑智子</a></p></td>
+<p><a href="../Page/田畑智子.md" title="wikilink">田畑智子</a></p></td>
 <td><center>
 <p>八木沼佳奈</p></td>
 <td><center>
@@ -920,7 +920,7 @@
 <td><center>
 <p>咖啡廳女服務生</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃昕瑜" title="wikilink">黃昕瑜</a></p></td>
+<p><a href="../Page/黃昕瑜.md" title="wikilink">黃昕瑜</a></p></td>
 <td><p>（第一季主題曲原唱者客串）</p></td>
 <td></td>
 </tr>
@@ -950,7 +950,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/北大路欣也" title="wikilink">北大路欣也</a></p></td>
+<p><a href="../Page/北大路欣也.md" title="wikilink">北大路欣也</a></p></td>
 <td><center>
 <p>勅使河原勳</p></td>
 <td><center>
@@ -1206,7 +1206,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/塚地武雅" title="wikilink">塚地武雅</a></p></td>
+<p><a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a></p></td>
 <td><center>
 <p>熊井健悟</p></td>
 <td><center>
@@ -1284,7 +1284,7 @@
 <td><center>
 <p>西平紀夫</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡德鈞" title="wikilink">蔡德鈞</a></p></td>
+<p><a href="../Page/蔡德鈞.md" title="wikilink">蔡德鈞</a></p></td>
 <td><p>夏的丈夫。與公司女性社員外遇。</p></td>
 <td><center>
 <p>4</p></td>
@@ -1534,7 +1534,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/橋本潤" title="wikilink">橋本潤</a></p></td>
+<p><a href="../Page/橋本潤.md" title="wikilink">橋本潤</a></p></td>
 <td><center>
 <p>鄉田</p></td>
 <td><center>
@@ -1690,7 +1690,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/大森南朋" title="wikilink">大森南朋</a></p></td>
+<p><a href="../Page/大森南朋.md" title="wikilink">大森南朋</a></p></td>
 <td><center>
 <p>九條和馬</p></td>
 <td><center>
@@ -1717,11 +1717,11 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/東出昌大" title="wikilink">東出昌大</a></p></td>
+<p><a href="../Page/東出昌大.md" title="wikilink">東出昌大</a></p></td>
 <td><center>
 <p>廣瀨史也</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃積權" title="wikilink">黃積權</a></p></td>
+<p><a href="../Page/黃積權.md" title="wikilink">黃積權</a></p></td>
 <td><p>東都綜合醫院的新進内科醫師。院長女兒好美的未婚夫。</p></td>
 </tr>
 <tr class="even">
@@ -1748,7 +1748,7 @@
 <td><center>
 <p>野野宮</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/吳羨婷" title="wikilink">吳羨婷</a></p></td>
+<p><a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
 <td><p>東都綜合醫院的護理師。</p></td>
 </tr>
 <tr class="odd">
@@ -1839,7 +1839,7 @@
 <p>石井</p></td>
 <td><center>
 <p>－</p></td>
-<td><p>黛進行辯護論述時的<a href="https://zh.wikipedia.org/wiki/手語翻譯" title="wikilink">手語翻譯</a>。</p></td>
+<td><p>黛進行辯護論述時的<a href="../Page/手語翻譯.md" title="wikilink">手語翻譯</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -1856,7 +1856,7 @@
 ## 製作
 
   - 企劃 - 成河廣明（第1季、第2季）、加藤達也（第1季、特別篇、特別篇2）
-  - 劇本及插曲作詞 - [古澤良太](https://zh.wikipedia.org/wiki/古澤良太 "wikilink")
+  - 劇本及插曲作詞 - [古澤良太](../Page/古澤良太.md "wikilink")
   - 音樂 - [林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink") /
     [大野雄二](https://zh.wikipedia.org/wiki/大野雄二 "wikilink")（第1季第7話）
     / [加古隆](https://zh.wikipedia.org/wiki/加古隆 "wikilink")（特別篇2）
@@ -1917,7 +1917,7 @@
 | 第50回[銀河賞](../Page/銀河賞.md "wikilink")                              | 個人賞（僅電視部門） | 堺雅人\[8\] |
 | [第73回日劇學院賞](https://zh.wikipedia.org/wiki/第73回日劇學院賞名單 "wikilink") | 監督賞        |          |
 | 脚本賞\[9\]                                                          |            |          |
-| 第5回[東京國際戲劇節](https://zh.wikipedia.org/wiki/東京國際戲劇節 "wikilink")    | 優秀賞        |          |
+| 第5回[東京國際戲劇節](../Page/東京國際戲劇節.md "wikilink")                       | 優秀賞        |          |
 | 主演男優賞                                                             | 堺雅人        |          |
 | 第39回[放送文化基金賞](https://zh.wikipedia.org/wiki/放送文化基金賞 "wikilink")   | 電視劇部門本賞    |          |
 | 電視劇部門脚本賞                                                          |            |          |
@@ -1989,7 +1989,7 @@
 <td><p>著作權訴訟案有利可圖!?</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田沙紀" title="wikilink">福田沙紀</a><br />
 <a href="https://zh.wikipedia.org/wiki/友近" title="wikilink">友近</a><br />
-<a href="https://zh.wikipedia.org/wiki/洼田正孝" title="wikilink">洼田正孝</a></p></td>
+<a href="../Page/洼田正孝.md" title="wikilink">洼田正孝</a></p></td>
 <td><p>12.1%</p></td>
 <td></td>
 <td></td>
@@ -2007,7 +2007,7 @@
 <td><p>初戀？跟蹤狂？賺人熱淚的戀愛法庭!?</p></td>
 <td><p>城宝秀則</p></td>
 <td><p><a href="../Page/永山絢斗.md" title="wikilink">永山絢斗</a><br />
-<a href="https://zh.wikipedia.org/wiki/原田夏希" title="wikilink">原田夏希</a></p></td>
+<a href="../Page/原田夏希.md" title="wikilink">原田夏希</a></p></td>
 <td><p>11.2%</p></td>
 <td></td>
 <td></td>
@@ -2023,7 +2023,7 @@
 <td></td>
 <td><p>還我陽光！公寓訴訟泯滅仁義之戰</p></td>
 <td><p><a href="../Page/大和田伸也.md" title="wikilink">大和田伸也</a><br />
-<a href="https://zh.wikipedia.org/wiki/村井美樹" title="wikilink">村井美樹</a></p></td>
+<a href="../Page/村井美樹.md" title="wikilink">村井美樹</a></p></td>
 <td><p>12.3%</p></td>
 <td></td>
 <td></td>
@@ -2075,7 +2075,7 @@
 <td></td>
 <td><p>骨肉相爭！醬油世家不為人知的祕密與謊言</p></td>
 <td><p>石川淳一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木南晴夏" title="wikilink">木南晴夏</a><br />
+<td><p><a href="../Page/木南晴夏.md" title="wikilink">木南晴夏</a><br />
 <a href="../Page/伊吹吾郎.md" title="wikilink">伊吹吾郎</a></p></td>
 <td><p>14.2%</p></td>
 <td></td>
@@ -2092,7 +2092,7 @@
 <td></td>
 <td><p>監護權爭奪戰！天才童星與母親的斷絕關係訴訟</p></td>
 <td><p>城宝秀則</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中村敦夫" title="wikilink">中村敦夫</a><br />
+<td><p><a href="../Page/中村敦夫.md" title="wikilink">中村敦夫</a><br />
 <a href="../Page/小澤真珠.md" title="wikilink">小澤真珠</a></p></td>
 <td><p><font color="red">14.5%</p></td>
 <td></td>
@@ -2126,7 +2126,7 @@
 <td></td>
 <td><p>破產與否得靠這5億！？再見吧 過度浮誇的美好小鎮</p></td>
 <td><p>城宝秀則</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田畑智子" title="wikilink">田畑智子</a></p></td>
+<td><p><a href="../Page/田畑智子.md" title="wikilink">田畑智子</a></p></td>
 <td><p>12.0%</p></td>
 <td></td>
 <td></td>
@@ -2185,7 +2185,7 @@
 <td><p>石川淳一</p></td>
 <td><p><a href="../Page/榮倉奈奈.md" title="wikilink">榮倉奈奈</a><br />
 <a href="../Page/廣末涼子.md" title="wikilink">廣末涼子</a><br />
-<a href="https://zh.wikipedia.org/wiki/北大路欣也" title="wikilink">北大路欣也</a></p></td>
+<a href="../Page/北大路欣也.md" title="wikilink">北大路欣也</a></p></td>
 <td><p>13.5%</p></td>
 <td></td>
 <td></td>
@@ -2246,7 +2246,7 @@
 <td><p>要臉？還是要心？該選哪一個？<br />
 前所未有的整型判決</p></td>
 <td><p>城寶秀則</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塚地武雅" title="wikilink">塚地武雅</a><br />
+<td><p><a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a><br />
 <a href="../Page/美波.md" title="wikilink">美波</a></p></td>
 <td><p>18.5%</p></td>
 <td></td>
@@ -2316,7 +2316,7 @@
 <td><p>是天才還是暴君！？世界級動畫導演的職權騷擾判決</p></td>
 <td><p>西坂瑞城</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/伊東四朗" title="wikilink">伊東四朗</a><br />
-<a href="https://zh.wikipedia.org/wiki/橋本潤" title="wikilink">橋本潤</a></p></td>
+<a href="../Page/橋本潤.md" title="wikilink">橋本潤</a></p></td>
 <td><p>17.7%</p></td>
 <td></td>
 <td></td>
@@ -2405,10 +2405,10 @@
 <td><p>大受歡迎的法庭劇全新作品！！大醫院發生猝死事件<br />
 被隱瞞的醫療疏失！？…捲入愛恨漩渦的白色巨塔 進退不得的判決去向</p></td>
 <td><p>石川淳一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大森南朋" title="wikilink">大森南朋</a><br />
+<td><p><a href="../Page/大森南朋.md" title="wikilink">大森南朋</a><br />
 <a href="../Page/吉瀨美智子.md" title="wikilink">吉瀨美智子</a><br />
 <a href="../Page/剛力彩芽.md" title="wikilink">剛力彩芽</a><br />
-<a href="https://zh.wikipedia.org/wiki/東出昌大" title="wikilink">東出昌大</a><br />
+<a href="../Page/東出昌大.md" title="wikilink">東出昌大</a><br />
 <a href="https://zh.wikipedia.org/wiki/古谷一行" title="wikilink">古谷一行</a></p></td>
 <td><p>15.1%</p></td>
 <td></td>

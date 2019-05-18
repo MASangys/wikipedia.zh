@@ -13,7 +13,7 @@ Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同�
   - [柳正韓](https://zh.wikipedia.org/wiki/柳正韓 "wikilink") 飾演
     徐英旭（杉山浩介；[高橋克典飾](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")）
   - [崔哲浩](../Page/崔哲浩.md "wikilink") 飾演
-    李泰振（大久保真一；[三上博史飾](https://zh.wikipedia.org/wiki/三上博史 "wikilink")）
+    李泰振（大久保真一；[三上博史飾](../Page/三上博史.md "wikilink")）
   - [李雅賢](../Page/李雅賢.md "wikilink") 飾演
     金美熙（西川陽子；[齊藤由貴飾](../Page/齊藤由貴.md "wikilink")）
 
@@ -27,7 +27,7 @@ Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同�
     楊鐘化（龜村太一；[六角精兒飾](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")）
   - [全盧民](../Page/全盧民.md "wikilink") 飾演
     鄭善圭（宮澤誠一郎；[吹越滿飾](../Page/吹越滿.md "wikilink")）
-  - [俞泰雄](https://zh.wikipedia.org/wiki/俞泰雄 "wikilink") 飾演 鄭宰圭
+  - [俞泰雄](../Page/俞泰雄.md "wikilink") 飾演 鄭宰圭
   - [金所泫](../Page/金所泫.md "wikilink") 飾演
     鄭柳里（宮澤彩；[大平宇美飾](https://zh.wikipedia.org/wiki/大平宇美 "wikilink")）
   - [姜利碩](https://zh.wikipedia.org/wiki/姜利碩 "wikilink") 飾演

@@ -1,5 +1,5 @@
 **三星Galaxy
-S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列分拆成的旗舰级](../Page/三星Galaxy.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")、[平板手机和](https://zh.wikipedia.org/wiki/平板手机 "wikilink")[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
+S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列分拆成的旗舰级](../Page/三星Galaxy.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")、[平板手机和](../Page/平板手机.md "wikilink")[平板电脑系列](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。
 
 ## 產品
 
@@ -58,8 +58,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
     Active](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4_Active "wikilink")
   - [Samsung Galaxy S4
     Mini](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4_Mini "wikilink")
-  - [Samsung Galaxy S4
-    Zoom](https://zh.wikipedia.org/wiki/三星Galaxy_S4_Zoom "wikilink")
+  - [Samsung Galaxy S4 Zoom](../Page/三星Galaxy_S4_Zoom.md "wikilink")
   - [Samsung Galaxy
     S5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S5 "wikilink")
   - [Samsung Galaxy S5
@@ -84,21 +83,15 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
     Active](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7_Active "wikilink")
   - [Samsung Galaxy S7
     Edge](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7_Edge "wikilink")
-  - [Samsung Galaxy
-    S8](https://zh.wikipedia.org/wiki/三星Galaxy_S8 "wikilink")
-  - [Samsung Galaxy
-    S8+](https://zh.wikipedia.org/wiki/三星Galaxy_S8 "wikilink")
+  - [Samsung Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")
+  - [Samsung Galaxy S8+](../Page/三星Galaxy_S8.md "wikilink")
   - [Samsung Galaxy S8
     Active](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8_Active "wikilink")
-  - [Samsung Galaxy S8
-    Lite](https://zh.wikipedia.org/wiki/三星Galaxy_S8_Lite "wikilink")
-  - [Samsung Galaxy
-    S9](https://zh.wikipedia.org/wiki/三星Galaxy_S9 "wikilink")
-  - [Samsung Galaxy
-    S9+](https://zh.wikipedia.org/wiki/三星Galaxy_S9 "wikilink")
+  - [Samsung Galaxy S8 Lite](../Page/三星Galaxy_S8_Lite.md "wikilink")
+  - [Samsung Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")
+  - [Samsung Galaxy S9+](../Page/三星Galaxy_S9.md "wikilink")
   - Samsung Galaxy S10e
-  - [Samsung Galaxy
-    S10](https://zh.wikipedia.org/wiki/三星Galaxy_S10 "wikilink")
+  - [Samsung Galaxy S10](../Page/三星Galaxy_S10.md "wikilink")
   - Samsung Galaxy S10+
   - Samsung Galaxy S10 5G
 
@@ -108,7 +101,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 | ----------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ |
 | [三星Galaxy Tab](../Page/三星Galaxy_Tab.md "wikilink")                                              | 2010年     | 7" [TFT-LCD](https://zh.wikipedia.org/wiki/TFT-LCD "wikilink") 1024 x 600            |
 | [Samsung Galaxy Tab S 10.5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_10.5 "wikilink") |           |                                                                                      |
-| [Samsung Galaxy Tab S 8.4](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_8.4 "wikilink")   | 2014年7月2日 | 8.4" [AMOLED](../Page/AMOLED.md "wikilink") 2560x1600                                |
+| [Samsung Galaxy Tab S 8.4](../Page/Samsung_Galaxy_Tab_S_8.4.md "wikilink")                      | 2014年7月2日 | 8.4" [AMOLED](../Page/AMOLED.md "wikilink") 2560x1600                                |
 | [Samsung Galaxy Tab S2 8.0](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S2_8.0 "wikilink") |           |                                                                                      |
 | [Samsung Galaxy Tab S2 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S2_9.7 "wikilink") |           |                                                                                      |
 | [Samsung Galaxy Tab S3 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S3_9.7 "wikilink") | 2017年2月   | 9.7" [Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 1536x2048 |
@@ -170,7 +163,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 | SM-G892A\[36\](S8 Active)                                                                           |                                                                                        |
 | [Samsung Galaxy S9](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S9 "wikilink")                     | SM-G960F\[37\](S9)                                                                     |
 | SM-G965F\[38\](S9+)                                                                                 |                                                                                        |
-| [Samsung Galaxy S10](https://zh.wikipedia.org/wiki/三星Galaxy_S10 "wikilink")                         | SM-G970F\[39\](S10e)                                                                   |
+| [Samsung Galaxy S10](../Page/三星Galaxy_S10.md "wikilink")                                            | SM-G970F\[39\](S10e)                                                                   |
 | SM-G973F(S10)                                                                                       |                                                                                        |
 | SM-G975F(S10+)                                                                                      |                                                                                        |
 | SM-G977F(S10 5G)                                                                                    |                                                                                        |
@@ -257,7 +250,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>118</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TFT" title="wikilink">TFT</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> S1 MSM7227A</p></td>
-<td><p>1.0 GHz single-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A5" title="wikilink">ARM Cortex-A5</a></p></td>
+<td><p>1.0 GHz single-core <a href="../Page/ARM_Cortex-A5.md" title="wikilink">ARM Cortex-A5</a></p></td>
 <td><p>Qualcomm Adreno 200</p></td>
 <td><p>4GB</p></td>
 <td></td>
@@ -514,7 +507,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>124.6 × 61.3 × 8.9</p></td>
 <td><p>107</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> 400 MSM8930</p></td>
-<td><p>1.7 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
+<td><p>1.7 GHz dual-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Adreno" title="wikilink">Qualcomm Adreno</a> 305</p></td>
 <td><p>1,900 mAh</p></td>
 <td></td>
@@ -536,7 +529,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>441</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TFT" title="wikilink">TFT</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> 600 APQ8064T</p></td>
-<td><p>1.9 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 300</a></p></td>
+<td><p>1.9 GHz quad-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 300</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Adreno" title="wikilink">Qualcomm Adreno</a> 320</p></td>
 <td><p>2</p></td>
 <td><p>16 GB</p></td>
@@ -605,7 +598,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>Full-HD (1080×1920)</p></td>
 <td><p>432</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon" title="wikilink">Qualcomm Snapdragon</a> 801 MSM8974AC</p></td>
-<td><p>2.5 GHz quad-core <a href="https://zh.wikipedia.org/wiki/Krait_(CPU)" title="wikilink">Krait 400</a></p></td>
+<td><p>2.5 GHz quad-core <a href="../Page/Krait_(CPU).md" title="wikilink">Krait 400</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Qualcomm_Adreno" title="wikilink">Qualcomm Adreno</a> 330</p></td>
 <td><p>2</p></td>
 <td><p>16 or 32 GB</p></td>
@@ -835,7 +828,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_S9" title="wikilink">Samsung Galaxy S9</a></p></td>
+<td><p><a href="../Page/三星Galaxy_S9.md" title="wikilink">Samsung Galaxy S9</a></p></td>
 <td><p>SM-G960F[77] (S9)</p></td>
 <td><p>2 2018</p></td>
 <td><p>147.7 x 68.7 x</p>
@@ -870,7 +863,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_S10" title="wikilink">Samsung Galaxy S10</a></p></td>
+<td><p><a href="../Page/三星Galaxy_S10.md" title="wikilink">Samsung Galaxy S10</a></p></td>
 <td><p>SM-G970F[79] (S10e)</p></td>
 <td><p>2 2019</p></td>
 <td><p>142.2 x 69.9 x 7.9</p></td>
@@ -1746,7 +1739,7 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_S10" title="wikilink">Samsung Galaxy S10</a></p></td>
+<td><p><a href="../Page/三星Galaxy_S10.md" title="wikilink">Samsung Galaxy S10</a></p></td>
 <td><p>SM-G970F[122] (S10e)</p></td>
 <td><p>850/900/1900/2100 MHz</p></td>
 <td><p>Yes</p></td>

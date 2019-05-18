@@ -21,7 +21,7 @@ Pro。
 ## 特點
 
 Premiere Pro能支持非常高的解析度，可最高支援10,240 x
-8,192\[8\]的螢幕解析度，以及高至32位的色深，可使用[RGB和](https://zh.wikipedia.org/wiki/RGB "wikilink")[YUV顏色模型](../Page/YUV.md "wikilink")。在聲音方面，能支持[VST聲音插件](../Page/VST.md "wikilink")，以及[5.1聲道](https://zh.wikipedia.org/wiki/5.1聲道 "wikilink")[环绕立體聲](https://zh.wikipedia.org/wiki/环绕立體聲 "wikilink")。Premiere
+8,192\[8\]的螢幕解析度，以及高至32位的色深，可使用[RGB和](https://zh.wikipedia.org/wiki/RGB "wikilink")[YUV顏色模型](../Page/YUV.md "wikilink")。在聲音方面，能支持[VST聲音插件](../Page/VST.md "wikilink")，以及[5.1聲道](../Page/5.1聲道.md "wikilink")[环绕立體聲](https://zh.wikipedia.org/wiki/环绕立體聲 "wikilink")。Premiere
 Pro的插件能夠导入與导出至[QuickTime或](../Page/QuickTime.md "wikilink")[DirectShow的格式](../Page/DirectShow.md "wikilink")。Premiere
 Pro也支持很多影片與聲音格式，在导出和导入影片時，也提供很多編碼解碼器。通过使用Cineform Neo
 line的插件，就可以支援3D編輯功能，也可以在2D的螢幕上看見3D物料。
@@ -60,14 +60,13 @@ Pro中。而任何在Photoshop中修改圖像並儲存後，在Premiere Pro中�
     Columbine](https://zh.wikipedia.org/wiki/Playing_Columbine "wikilink")
   - [Monsters](https://zh.wikipedia.org/wiki/Monsters_\(2010年電影\) "wikilink")\[9\]
   - [缘来是你](https://zh.wikipedia.org/wiki/缘来是你 "wikilink")
-  - [死侍](https://zh.wikipedia.org/wiki/死侍 "wikilink")
+  - [死侍](../Page/死侍.md "wikilink")
 
 ## 參見
 
   - [Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink")
-  - [Adobe Creative
-    Cloud](https://zh.wikipedia.org/wiki/Adobe_Creative_Cloud "wikilink")
-  - [視訊剪輯軟體列表](https://zh.wikipedia.org/wiki/視訊剪輯軟體列表 "wikilink")
+  - [Adobe Creative Cloud](../Page/Adobe_Creative_Cloud.md "wikilink")
+  - [視訊剪輯軟體列表](../Page/視訊剪輯軟體列表.md "wikilink")
 
 ## 參考資料
 

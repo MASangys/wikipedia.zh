@@ -33,7 +33,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
         [Raina主唱](../Page/Raina.md "wikilink")
 7.  **Superwoman**
       -
-        [Raina和](../Page/Raina.md "wikilink")[S.COUPS](https://zh.wikipedia.org/wiki/崔勝澈 "wikilink")（[SEVENTEEN](https://zh.wikipedia.org/wiki/Seventeen_\(組合\) "wikilink")）主唱
+        [Raina和](../Page/Raina.md "wikilink")[S.COUPS](https://zh.wikipedia.org/wiki/崔勝澈 "wikilink")（[SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")）主唱
 8.  **[One Love](https://zh.wikipedia.org/wiki/Aing♡ "wikilink")**
       -
         2nd迷你專輯「Aing♡」收錄曲

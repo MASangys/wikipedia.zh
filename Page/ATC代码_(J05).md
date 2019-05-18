@@ -10,8 +10,7 @@
 
   -
     J05AB01 [阿昔洛韦](../Page/阿昔洛韦.md "wikilink")（Aciclovir）
-    J05AB02
-    [碘苷](https://zh.wikipedia.org/wiki/碘苷 "wikilink")（Idoxuridine）
+    J05AB02 [碘苷](../Page/碘苷.md "wikilink")（Idoxuridine）
     J05AB03
     [阿糖腺苷](https://zh.wikipedia.org/wiki/阿糖腺苷 "wikilink")（Vidarabine）
     J05AB04 [利巴韦林](../Page/利巴韦林.md "wikilink")（Ribavirin）

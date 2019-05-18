@@ -15,7 +15,7 @@ Axis of Awesome 壯觀的復出」（The Axis of Awesome Comeback
 Spectacular）的演出獲更獲得喜劇節頒發穆斯海德獎。同年，他們在[愛丁堡藝穗節中演出](https://zh.wikipedia.org/wiki/愛丁堡藝穗節 "wikilink")，並獲評論家和觀眾的一致好評。\[2\]\[3\]
 
 在愛丁堡藝穗節演出後，The Axis of
-Awesome便創作了《[四和弦之歌](../Page/四和弦之歌.md "wikilink")》，一首含有36首流行歌曲的單曲。之後，《四和弦之歌》於[英國廣播公司1號電台上播放](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")。\[4\]在首播後，《四和弦之歌》便開始獲得大眾的關注。該歌曲的[Youtube版本獲得逾千萬次點擊](../Page/Youtube.md "wikilink")，而本樂隊亦因此獲多間電台和電視台邀請在他們的節目中演出，其中包括[Nova
+Awesome便創作了《[四和弦之歌](../Page/四和弦之歌.md "wikilink")》，一首含有36首流行歌曲的單曲。之後，《四和弦之歌》於[英國廣播公司1號電台上播放](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")。\[4\]在首播後，《四和弦之歌》便開始獲得大眾的關注。該歌曲的[Youtube版本獲得逾千萬次點擊](https://zh.wikipedia.org/wiki/Youtube "wikilink")，而本樂隊亦因此獲多間電台和電視台邀請在他們的節目中演出，其中包括[Nova
 969](https://zh.wikipedia.org/wiki/Nova_969 "wikilink")、[Triple
 M](https://zh.wikipedia.org/wiki/Triple_M "wikilink")、《[The Footy
 Show](https://zh.wikipedia.org/wiki/The_Footy_Show "wikilink")》、《[一周好新闻](https://zh.wikipedia.org/wiki/一周好新闻 "wikilink")》和《[9am

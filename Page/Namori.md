@@ -67,8 +67,8 @@
   - 《[偽戀](../Page/偽戀.md "wikilink")》（為動畫版第9話提供插畫）
   - 《[RELEASE THE
     SPYCE](https://zh.wikipedia.org/wiki/RELEASE_THE_SPYCE "wikilink")》（角色原案）
-  - 《[Endro～！](https://zh.wikipedia.org/wiki/Endro～！ "wikilink")》（角色原案）
-  - 《[天使降臨到我身邊！](https://zh.wikipedia.org/wiki/天使降臨到我身邊！ "wikilink")》（為動畫版第1話提供插畫）
+  - 《[Endro～！](../Page/Endro～！.md "wikilink")》（角色原案）
+  - 《[天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")》（為動畫版第1話提供插畫）
 
 ## 腳註
 

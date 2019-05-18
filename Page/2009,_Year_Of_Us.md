@@ -9,7 +9,7 @@ Dong》是採用非洲剛果鼓節奏結合現代感的電子組合編曲完成�
 Yoo的作品。有今天的SHINee傳達給那些給與他莫大支援的歌迷的訊息《Y.O.U》(Year Of
 Us)，人氣作曲家Kenzie呈獻的時尚歐洲流行舞曲《Jo
 Jo》，以搖擺旋律為基調的輕快歌曲《SHINee
-Girl》等等。我們可以從中感受豐富多彩的音樂。並且還有[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+Girl》等等。我們可以從中感受豐富多彩的音樂。並且還有[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
 組合成員[Luna參與合作的](../Page/朴善英.md "wikilink")[珉豪](https://zh.wikipedia.org/wiki/崔珉豪 "wikilink")、[Key的強烈的Rap](https://zh.wikipedia.org/wiki/Key "wikilink")
 Battle曲《Get Down》，[溫流的首支單曲並有歌手Yeon](../Page/溫流.md "wikilink")-Woo
 Kim參與的更加感性地演繹出無結果的愛情之傷痛的歌曲《我愛過的名字》<small>*(내가 사랑했던 이름 (The Name

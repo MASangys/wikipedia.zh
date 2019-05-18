@@ -2,7 +2,7 @@
 
 ## 劇情
 
-一群[恐怖份子佔領了](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")[艾菲爾鐵塔](../Page/艾菲爾鐵塔.md "wikilink")，更揚言要用[氫彈炸掉它](https://zh.wikipedia.org/wiki/氫彈 "wikilink")，用來威脅[法國政府答應他們的要求](https://zh.wikipedia.org/wiki/法國 "wikilink")。而超人愛慕的女記者[露薏絲·蓮恩](https://zh.wikipedia.org/wiki/露薏絲·蓮恩 "wikilink")（[馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")）更是為了能夠獲得[普利策獎而不顧危險](https://zh.wikipedia.org/wiki/普利策獎 "wikilink")，深入虎穴，情況十分危急。再一次，[超人](../Page/超人.md "wikilink")（[克里斯多福·李維飾](https://zh.wikipedia.org/wiki/克里斯多福·李維 "wikilink")）及時趕到，從墜落的電梯下救出了露薏絲·蓮恩，並將載有氫彈的電梯運送到了外太空，氫彈在遠離地球的太空中爆炸了，從而拯救了[巴黎](../Page/巴黎.md "wikilink")。
+一群[恐怖份子佔領了](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")[艾菲爾鐵塔](../Page/艾菲爾鐵塔.md "wikilink")，更揚言要用[氫彈炸掉它](https://zh.wikipedia.org/wiki/氫彈 "wikilink")，用來威脅[法國政府答應他們的要求](https://zh.wikipedia.org/wiki/法國 "wikilink")。而超人愛慕的女記者[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")（[馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")）更是為了能夠獲得[普利策獎而不顧危險](https://zh.wikipedia.org/wiki/普利策獎 "wikilink")，深入虎穴，情況十分危急。再一次，[超人](../Page/超人.md "wikilink")（[克里斯多福·李維飾](https://zh.wikipedia.org/wiki/克里斯多福·李維 "wikilink")）及時趕到，從墜落的電梯下救出了露薏絲·蓮恩，並將載有氫彈的電梯運送到了外太空，氫彈在遠離地球的太空中爆炸了，從而拯救了[巴黎](../Page/巴黎.md "wikilink")。
 
 但不幸的是，這個爆炸將[之前被](../Page/超人_\(電影\).md "wikilink")[克利普頓星球以叛國罪判刑而遭流放外太空](../Page/氪星.md "wikilink")，並且囚禁起來的薩德將軍和爾莎、諾釋放了出來。他們來到了地球，並企圖統治這個星球。
 於是三名從克利普頓星球逃了出來的惡棍來到地球上的一個小鎮揚威肆虐。
@@ -13,11 +13,11 @@
   - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人（卡-艾爾/
     克拉克.肯特）](../Page/超人.md "wikilink")
 
-  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](https://zh.wikipedia.org/wiki/露薏絲·蓮恩 "wikilink")
+  - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")
 
   - [金·哈克曼飾](../Page/金·哈克曼.md "wikilink")[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")
 
-  - 飾 [薩德將軍](https://zh.wikipedia.org/wiki/薩德將軍 "wikilink")
+  - 飾 [薩德將軍](../Page/薩德將軍.md "wikilink")
 
   - 飾 [派瑞·懷特](https://zh.wikipedia.org/wiki/派瑞·懷特 "wikilink")
 

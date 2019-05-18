@@ -1,6 +1,6 @@
 《**Dear My
 Friend**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")3張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月25日由[avex
-trax發售](../Page/avex_trax.md "wikilink")。
+trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 

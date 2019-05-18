@@ -1,4 +1,4 @@
-**Typecho**是一个基于[PHP的简洁的开源博客程序](../Page/PHP.md "wikilink")。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](https://zh.wikipedia.org/wiki/MariaDB "wikilink")）储存数据，在[GNU
+**Typecho**是一个基于[PHP的简洁的开源博客程序](../Page/PHP.md "wikilink")。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU
 GPLv2许可证下发行](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 名称来历
@@ -33,7 +33,7 @@ Typecho 的代码不到 500 KB，数据表仅7张（不包括扩展生成的数�
 
 ### 自适应
 
-Typecho的默认模板和后台，全部采用了[响应式设计](https://zh.wikipedia.org/wiki/响应式网页设计 "wikilink")。所以Typecho的大多数民间模板，都采用了自适应设计。\[18\]
+Typecho的默认模板和后台，全部采用了[响应式设计](../Page/响应式网页设计.md "wikilink")。所以Typecho的大多数民间模板，都采用了自适应设计。\[18\]
 
 ## 版本
 

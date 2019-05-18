@@ -3,7 +3,7 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")2張[單
 
 ## 音樂影片
 
-[音樂影片繼續是由](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「[PONPONPON](../Page/PONPONPON.md "wikilink")」、「[戴上假睫毛](https://zh.wikipedia.org/wiki/戴上假睫毛 "wikilink")」的演出・監督[田向潤](https://zh.wikipedia.org/wiki/田向潤 "wikilink")、美術裝飾[増田セバスチャン](https://zh.wikipedia.org/wiki/増田セバスチャン "wikilink")、髮型師[飯島久美子擔當](https://zh.wikipedia.org/wiki/飯島久美子 "wikilink")。2012年3月14日在日本華納音樂的官方[YouTube網站公開](../Page/YouTube.md "wikilink")\[2\]。音樂影片播放次數多達1000万回以上。
+[音樂影片繼續是由](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「[PONPONPON](../Page/PONPONPON.md "wikilink")」、「[戴上假睫毛](../Page/戴上假睫毛.md "wikilink")」的演出・監督[田向潤](https://zh.wikipedia.org/wiki/田向潤 "wikilink")、美術裝飾[増田セバスチャン](https://zh.wikipedia.org/wiki/増田セバスチャン "wikilink")、髮型師[飯島久美子擔當](https://zh.wikipedia.org/wiki/飯島久美子 "wikilink")。2012年3月14日在日本華納音樂的官方[YouTube網站公開](../Page/YouTube.md "wikilink")\[2\]。音樂影片播放次數多達1000万回以上。
 
 ## 收錄曲
 

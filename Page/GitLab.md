@@ -1,5 +1,5 @@
 **GitLab**是由GitLab
-Inc.开发，使用[MIT許可證的基于](../Page/MIT許可證.md "wikilink")[网络的](../Page/互联网.md "wikilink")[Git](../Page/Git.md "wikilink")[仓库管理工具](https://zh.wikipedia.org/wiki/仓库_\(版本控制\) "wikilink")，且具有[wiki和](../Page/wiki.md "wikilink")[issue跟踪功能](../Page/事务跟踪管理系统.md "wikilink")。
+Inc.开发，使用[MIT許可證的基于](../Page/MIT許可證.md "wikilink")[网络的](../Page/互联网.md "wikilink")[Git](../Page/Git.md "wikilink")[仓库管理工具](../Page/仓库_\(版本控制\).md "wikilink")，且具有[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[issue跟踪功能](../Page/事务跟踪管理系统.md "wikilink")。
 
 GitLab 由乌克兰程序员 Dmitriy Zaporozhets 和 Valery Sizov 开发，它由
 [Ruby](../Page/Ruby.md "wikilink") 写成。后来，一些部分用 [Go
@@ -15,7 +15,7 @@ Media}-，Leibniz-Rechenzentrum (LRZ)，CERN\[3\]\[4\]\[5\]，SpaceX
       - [Ubuntu](../Page/Ubuntu.md "wikilink")
       - [Debian](../Page/Debian.md "wikilink")
       - [CentOS](../Page/CentOS.md "wikilink")
-      - [openSUSE](../Page/openSUSE.md "wikilink")
+      - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
       - [Red Hat Enterprise
         Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（请使用
         CentOS 的包）
@@ -23,11 +23,11 @@ Media}-，Leibniz-Rechenzentrum (LRZ)，CERN\[3\]\[4\]\[5\]，SpaceX
         CentOS 的包）
       - [Oracle Linux](../Page/Oracle_Linux.md "wikilink")（请使用 CentOS
         的包）
-  - [ruby](../Page/ruby.md "wikilink") 2.3+
-  - [mysql](../Page/mysql.md "wikilink") 或
+  - [ruby](https://zh.wikipedia.org/wiki/ruby "wikilink") 2.3+
+  - [mysql](https://zh.wikipedia.org/wiki/mysql "wikilink") 或
     [PostgreSQL](../Page/PostgreSQL.md "wikilink")
-  - [git](../Page/git.md "wikilink")
-  - [redis](../Page/redis.md "wikilink")
+  - [git](https://zh.wikipedia.org/wiki/git "wikilink")
+  - [redis](https://zh.wikipedia.org/wiki/redis "wikilink")
 
 ## 历史
 

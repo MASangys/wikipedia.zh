@@ -2,7 +2,7 @@
 
 與GPL相比，採用本授權條款發佈的字型，若要發售則必需要與其他軟件[同捆發佈](https://zh.wikipedia.org/wiki/同捆 "wikilink")，不可只單純販售此字型（not
 sold by themselves）。所以若想販售，必得搭配其他產品，例如其他字型、軟體等。然而，只要簡單的[hello
-world程式](../Page/hello_world.md "wikilink")，即可符合要求。至於免費發佈，則不受此限。因此本授權條款獲這[自由軟體基金會判定符合自由軟體的定義](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")。\[2\]但須注意，它與[GNU通用公共授權條款並不兼容](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")。\[3\]
+world程式](https://zh.wikipedia.org/wiki/hello_world "wikilink")，即可符合要求。至於免費發佈，則不受此限。因此本授權條款獲這[自由軟體基金會判定符合自由軟體的定義](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")。\[2\]但須注意，它與[GNU通用公共授權條款並不兼容](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")。\[3\]
 
 ## 參見
 

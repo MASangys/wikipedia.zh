@@ -1,4 +1,4 @@
-《**Magi-Cu**》（）是[日本](../Page/日本.md "wikilink")[enterbrain公司所發行的](../Page/enterbrain.md "wikilink")[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，2001年創刊，2007年6月25日發行第40期後休刊，刊名是「Magical
+《**Magi-Cu**》（）是[日本](../Page/日本.md "wikilink")[enterbrain公司所發行的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，2001年創刊，2007年6月25日發行第40期後休刊，刊名是「Magical
 Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官方[看板娘是](https://zh.wikipedia.org/wiki/看板娘 "wikilink")[篤見唯子畫的](../Page/篤見唯子.md "wikilink")「小玉」（）與「Maji」（）\[1\]，小玉專屬[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")《小玉寫真集》（）收錄於《瓶詰妖精funbook：篤見唯子畫集》內。
 
 ## 主要刊載作品
@@ -137,7 +137,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
   - Bad\!
     Daddy親親壞老爹（原作：[野村美月](../Page/野村美月.md "wikilink")・画：[貴島煉瓦](https://zh.wikipedia.org/wiki/貴島煉瓦 "wikilink")）単巻。
   - すくすくすいすい（[saxyun](https://zh.wikipedia.org/wiki/saxyun "wikilink")）単行本未発売。休刊後『[まんがライフMOMO](https://zh.wikipedia.org/wiki/まんがライフMOMO "wikilink")』2006年10月号に読み切りで掲載されたがその後のアナウンスはなく動向は不明。
-  - [黏黏妖美少女](../Page/黏黏妖美少女.md "wikilink")（原作：[木村航](https://zh.wikipedia.org/wiki/木村航 "wikilink")・画：[YUG](https://zh.wikipedia.org/wiki/YUG "wikilink")）
+  - [黏黏妖美少女](../Page/黏黏妖美少女.md "wikilink")（原作：[木村航](../Page/木村航.md "wikilink")・画：[YUG](https://zh.wikipedia.org/wiki/YUG "wikilink")）
   - [麒麟町ぼうえいぐみ](https://zh.wikipedia.org/wiki/麒麟町ぼうえいぐみ "wikilink")（ゆうの）上下巻。
   - [吉永家的石像怪](../Page/吉永家的石像怪.md "wikilink")（原作：田口仙年堂・画：[玉岡かがり](https://zh.wikipedia.org/wiki/玉岡かがり "wikilink")）単巻。
 

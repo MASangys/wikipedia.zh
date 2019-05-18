@@ -8,7 +8,7 @@ Desktop的成員之一](https://zh.wikipedia.org/wiki/Qt_Desktop "wikilink")，�
 
   - 整個Razor-qt包含面板（Panel）、會話（Session）、桌面（Desktop）、設定中心（Settings
     Center）、電源管理（Power Management）、程式切換（Appliation
-    Switcher）、快速執行（Runner）、[LightDM的登入界面](https://zh.wikipedia.org/wiki/LightDM "wikilink")（LightDM
+    Switcher）、快速執行（Runner）、[LightDM的登入界面](../Page/LightDM.md "wikilink")（LightDM
     Greeter）以及OSD通知攔（Notification）
   - 支援桌面小工具（時鐘、筆記、檔案管理及範例程式）
   - 支援主題（包含Razor-qt的[API以及Qt原生的主題](https://zh.wikipedia.org/wiki/API "wikilink")）
@@ -18,8 +18,7 @@ Desktop的成員之一](https://zh.wikipedia.org/wiki/Qt_Desktop "wikilink")，�
       - [Openbox](../Page/Openbox.md "wikilink")
       - [fvwm2](https://zh.wikipedia.org/wiki/fvwm2 "wikilink")
       - [Compiz](../Page/Compiz.md "wikilink")
-      - [Window
-        Maker](https://zh.wikipedia.org/wiki/Window_Maker "wikilink")
+      - [Window Maker](../Page/Window_Maker.md "wikilink")
       - [IceWM](../Page/IceWM.md "wikilink")
       - [Enlightenment DR16](../Page/Enlightenment.md "wikilink")
       - [KWin](../Page/KWin.md "wikilink")
@@ -28,7 +27,7 @@ Desktop的成員之一](https://zh.wikipedia.org/wiki/Qt_Desktop "wikilink")，�
 
 ## 并入LXDE
 
-2013年初，LXDE开发者[洪任諭将](https://zh.wikipedia.org/wiki/洪任諭 "wikilink")[PCManFM](https://zh.wikipedia.org/wiki/PCManFM "wikilink")[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")\[4\]\[5\]，随后他同其他开发者讨论协作事宜，意图与其他有着类似[软件设计目标的开源桌面环境协作](https://zh.wikipedia.org/wiki/软件设计 "wikilink")。
+2013年初，LXDE开发者[洪任諭将](../Page/洪任諭.md "wikilink")[PCManFM](https://zh.wikipedia.org/wiki/PCManFM "wikilink")[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")\[4\]\[5\]，随后他同其他开发者讨论协作事宜，意图与其他有着类似[软件设计目标的开源桌面环境协作](https://zh.wikipedia.org/wiki/软件设计 "wikilink")。
 
 2013年7月21日，Razor-qt的一个代表宣告，Razor-qt将并入LXDE的一部分——LXDE-Qt。\[6\]首个释出版本LXQt
 v0.7.0于2014年5月7日释出。\[7\]

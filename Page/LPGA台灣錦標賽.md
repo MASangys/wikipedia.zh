@@ -1,8 +1,8 @@
-**LPGA台灣錦標賽**（）是[LPGA巡迴賽的其中一場賽事](https://zh.wikipedia.org/wiki/美國女子職業高爾夫協會 "wikilink")，於在[台湾桃園縣楊梅鎮](https://zh.wikipedia.org/wiki/台湾 "wikilink")（後改制為桃園縣楊梅市，今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")）[揚昇高爾夫鄉村俱樂部首次舉辦](https://zh.wikipedia.org/wiki/揚昇高爾夫鄉村俱樂部 "wikilink")，是第一項在台灣舉辦的LPGA賽事。賽事共72洞，90位選手參赛，全部選手打完72洞，不設晉級線。2011年至2013年由揚昇集團冠名贊助，於揚昇球場舉辦，2014年至2016年改由[富邦金控冠名贊助](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")，移師到[林口](https://zh.wikipedia.org/wiki/林口 "wikilink")[美麗華高爾夫鄉村俱樂部舉行](https://zh.wikipedia.org/wiki/美麗華高爾夫鄉村俱樂部 "wikilink")，2017年由裙襬搖搖高爾夫基金會冠名贊助。
+**LPGA台灣錦標賽**（）是[LPGA巡迴賽的其中一場賽事](../Page/美國女子職業高爾夫協會.md "wikilink")，於在[台湾桃園縣楊梅鎮](https://zh.wikipedia.org/wiki/台湾 "wikilink")（後改制為桃園縣楊梅市，今[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[楊梅區](https://zh.wikipedia.org/wiki/楊梅區 "wikilink")）[揚昇高爾夫鄉村俱樂部首次舉辦](../Page/揚昇高爾夫鄉村俱樂部.md "wikilink")，是第一項在台灣舉辦的LPGA賽事。賽事共72洞，90位選手參赛，全部選手打完72洞，不設晉級線。2011年至2013年由揚昇集團冠名贊助，於揚昇球場舉辦，2014年至2016年改由[富邦金控冠名贊助](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")，移師到[林口](https://zh.wikipedia.org/wiki/林口 "wikilink")[美麗華高爾夫鄉村俱樂部舉行](https://zh.wikipedia.org/wiki/美麗華高爾夫鄉村俱樂部 "wikilink")，2017年由裙襬搖搖高爾夫基金會冠名贊助。
 
 ## 2014年富邦LPGA台灣錦標賽
 
-2014年台灣錦標賽歷經四天，最終由[朴仁妃以總桿為](https://zh.wikipedia.org/wiki/朴仁妃 "wikilink")-22桿的266桿，打破LPGA台灣錦標賽-19桿的最低總桿大會紀錄。世界排名第二的[史黛西·路易斯](https://zh.wikipedia.org/wiki/史黛西·路易斯 "wikilink")，則以總桿268桿屈居亞軍。[高寶璟在賽中擊出全場最佳的](https://zh.wikipedia.org/wiki/高寶璟 "wikilink")66桿，以總桿271桿排名第三。本屆賽事共有20位台灣女將參賽，創下歷來最多的紀錄。
+2014年台灣錦標賽歷經四天，最終由[朴仁妃以總桿為](../Page/朴仁妃.md "wikilink")-22桿的266桿，打破LPGA台灣錦標賽-19桿的最低總桿大會紀錄。世界排名第二的[史黛西·路易斯](../Page/史黛西·路易斯.md "wikilink")，則以總桿268桿屈居亞軍。[高寶璟在賽中擊出全場最佳的](../Page/高寶璟.md "wikilink")66桿，以總桿271桿排名第三。本屆賽事共有20位台灣女將參賽，創下歷來最多的紀錄。
 
 ## 2015年富邦LPGA台灣錦標賽
 
@@ -63,7 +63,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>66-71-69-65=271</p></td>
 <td><p>−17</p></td>
 <td><p>6桿</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高寶璟" title="wikilink">高寶璟</a></p></td>
+<td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a></p></td>
 <td><p>2,200,000</p></td>
 <td><p>330,000</p></td>
 </tr>
@@ -82,7 +82,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <tr class="odd">
 <td></td>
 <td><p>10月22日至10月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高寶璟" title="wikilink">高寶璟</a></p></td>
+<td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a></p></td>
 <td></td>
 <td><p>69-67-67-65=268</p></td>
 <td><p>−20</p></td>
@@ -95,7 +95,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <tr class="even">
 <td></td>
 <td><p>10月30日至11月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴仁妃" title="wikilink">朴仁妃</a></p></td>
+<td><p><a href="../Page/朴仁妃.md" title="wikilink">朴仁妃</a></p></td>
 <td></td>
 <td><p>64-62-69-71=266</p></td>
 <td><p>−22</p></td>
@@ -107,7 +107,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <tr class="odd">
 <td></td>
 <td><p>10月24日至27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蘇珊·彼特森" title="wikilink">蘇珊·彼特森</a></p></td>
+<td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
 <td></td>
 <td><p>68-69-73-69=279</p></td>
 <td><p>−9</p></td>
@@ -119,12 +119,12 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <tr class="even">
 <td></td>
 <td><p>10月25日至28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蘇珊·彼特森" title="wikilink">蘇珊·彼特森</a></p></td>
+<td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
 <td></td>
 <td><p>69-65-66-69=269</p></td>
 <td><p>−19</p></td>
 <td><p>3桿</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴仁妃" title="wikilink">朴仁妃</a></p></td>
+<td><p><a href="../Page/朴仁妃.md" title="wikilink">朴仁妃</a></p></td>
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
@@ -159,7 +159,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <tbody>
 <tr class="odd">
 <td><p>2012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴仁妃" title="wikilink">朴仁妃</a></p></td>
+<td><p><a href="../Page/朴仁妃.md" title="wikilink">朴仁妃</a></p></td>
 <td><p>64(−8)</p></td>
 <td><p>第三輪</p></td>
 </tr>

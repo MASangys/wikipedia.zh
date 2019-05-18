@@ -10,8 +10,7 @@
     N06AA03
     [氧米帕明](https://zh.wikipedia.org/wiki/氧米帕明 "wikilink")（Imipramine
     oxide）
-    N06AA04
-    [氯米帕明](https://zh.wikipedia.org/wiki/氯米帕明 "wikilink")（Clomipramine）
+    N06AA04 [氯米帕明](../Page/氯米帕明.md "wikilink")（Clomipramine）
     N06AA05
     [奥匹哌醇](https://zh.wikipedia.org/wiki/奥匹哌醇 "wikilink")（Opipramol）
     N06AA06
@@ -82,8 +81,7 @@
 ### N06AG [单胺氧化酶A抑制药](https://zh.wikipedia.org/wiki/单胺氧化酶A抑制药 "wikilink")（Monoamine oxidase A inhibitors）
 
   -
-    N06AG02
-    [吗氯贝胺](https://zh.wikipedia.org/wiki/吗氯贝胺 "wikilink")（Moclobemide）
+    N06AG02 [吗氯贝胺](../Page/吗氯贝胺.md "wikilink")（Moclobemide）
     N06AG03
     [托洛沙酮](https://zh.wikipedia.org/wiki/托洛沙酮 "wikilink")（Toloxatone）
 
@@ -97,8 +95,7 @@
     [米安色林](https://zh.wikipedia.org/wiki/米安色林 "wikilink")（Mianserin）
     N06AX04
     [诺米芬辛](https://zh.wikipedia.org/wiki/诺米芬辛 "wikilink")（Nomifensine）
-    N06AX05
-    [曲唑酮](https://zh.wikipedia.org/wiki/曲唑酮 "wikilink")（Trazodone）
+    N06AX05 [曲唑酮](../Page/曲唑酮.md "wikilink")（Trazodone）
     N06AX06
     [奈法唑酮](https://zh.wikipedia.org/wiki/奈法唑酮 "wikilink")（Nefazodone）
     N06AX07
@@ -177,8 +174,7 @@
     [甲氯芬酯](https://zh.wikipedia.org/wiki/甲氯芬酯 "wikilink")（Meclofenoxate）
     N06BX02
     [吡硫醇](https://zh.wikipedia.org/wiki/吡硫醇 "wikilink")（Pyritinol）
-    N06BX03
-    [吡拉西坦](https://zh.wikipedia.org/wiki/吡拉西坦 "wikilink")（Piracetam）
+    N06BX03 [吡拉西坦](../Page/吡拉西坦.md "wikilink")（Piracetam）
     N06BX04 [地阿诺](https://zh.wikipedia.org/wiki/地阿诺 "wikilink")（Deanol）
     N06BX05
     [非哌西特](https://zh.wikipedia.org/wiki/非哌西特 "wikilink")（Fipexide）

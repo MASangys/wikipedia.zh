@@ -130,7 +130,7 @@ Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](ht
 ## 參見
 
   - [幻想萬華鏡 \~The Memories Of
-    Phantasm\~](https://zh.wikipedia.org/wiki/幻想萬華鏡_~The_Memories_Of_Phantasm~ "wikilink")
+    Phantasm\~](../Page/幻想萬華鏡_~The_Memories_Of_Phantasm~.md "wikilink")
 
 ## 外部連結
 

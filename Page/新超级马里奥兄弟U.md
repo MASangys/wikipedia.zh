@@ -22,7 +22,7 @@ Deluxe），同時正式加入對繁體中文與簡體中文的支援。\[2\]
 
 [New_Super_Mario_Bros_U_DX.jpg](https://zh.wikipedia.org/wiki/File:New_Super_Mario_Bros_U_DX.jpg "fig:New_Super_Mario_Bros_U_DX.jpg")
 
-相對原版本(U)豪華版(UDX)是將**新超級瑪利歐兄弟U**+**新超級路易吉U**兩款遊戲關卡內容結合為一，**[新超級路易吉U](https://zh.wikipedia.org/wiki/新超級路易吉U "wikilink")**每一個關卡的限制時間設定為200秒計數。
+相對原版本(U)豪華版(UDX)是將**新超級瑪利歐兄弟U**+**新超級路易吉U**兩款遊戲關卡內容結合為一，**[新超級路易吉U](../Page/新超級路易吉U.md "wikilink")**每一個關卡的限制時間設定為200秒計數。
 
 並且玩家可以選擇追加兩位帶有各自特長的角色︰可無視一定程度傷害的偷天兔，以及能夠透過超級皇冠變身公主模式防止掉出關卡及進行暫定浮空的奇諾比珂。
 

@@ -27,11 +27,11 @@ You\!\!**》（）是[日本漫畫家](../Page/日本.md "wikilink")的[四格�
     在人氣讀者投票中獲得了第六位。
   - 美咲（）
     声 - [能登麻美子](../Page/能登麻美子.md "wikilink")（廣播劇CD）/
-    [德井青空](https://zh.wikipedia.org/wiki/德井青空 "wikilink")（電視動畫）
+    [德井青空](../Page/德井青空.md "wikilink")（電視動畫）
     在人氣讀者投票中獲得了第二位。千歲的同班同學，重度戀父情意結患者，生氣時連藤麻子老師也能即時擊倒，甚至能口部發射死光。
   - 柊 雛子（）
     声 - [佐藤利奈](../Page/佐藤利奈.md "wikilink")（廣播劇CD）/
-    [MAKO](../Page/MAKO.md "wikilink")（電視動畫）
+    [MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")（電視動畫）
     千歲的同班同學，みさき的親友。家裡有錢的大小姐，最愛角色扮演。
     在人氣讀者投票中，擊敗了主角及親友取得第一名。
   - 藤 麻子（）
@@ -118,7 +118,7 @@ CHANNEL](https://zh.wikipedia.org/wiki/BANDAI_CHANNEL "wikilink")、[樂天ShowT
     作詞 - 津田好久 / 作曲 -
     水城新人、[宮崎京一](https://zh.wikipedia.org/wiki/宮崎京一 "wikilink")
     / 編曲 - 宮崎京一 / 歌 -
-    千歲（[仲谷明香](../Page/仲谷明香.md "wikilink")）、美咲（[德井青空](https://zh.wikipedia.org/wiki/德井青空 "wikilink")）、雛子（[MAKO](../Page/MAKO.md "wikilink")）
+    千歲（[仲谷明香](../Page/仲谷明香.md "wikilink")）、美咲（[德井青空](../Page/德井青空.md "wikilink")）、雛子（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）
   - 片尾曲「」（第14話-）
     作詞 - [RUCCA](https://zh.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作曲 -
     / 歌 -
@@ -141,7 +141,7 @@ CHANNEL](https://zh.wikipedia.org/wiki/BANDAI_CHANNEL "wikilink")、[樂天ShowT
 <td><p>第1話</p></td>
 <td></td>
 <td><p>千歲的每一天</p></td>
-<td><p>『<a href="../Page/直笛與背包.md" title="wikilink">直笛與背包 Re</a>』&amp;『<a href="https://zh.wikipedia.org/wiki/希望宅邸" title="wikilink">希望宅邸</a>』ブルーレイ&amp;DVD</p></td>
+<td><p>『<a href="../Page/直笛與背包.md" title="wikilink">直笛與背包 Re</a>』&amp;『<a href="../Page/希望宅邸.md" title="wikilink">希望宅邸</a>』ブルーレイ&amp;DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>第2話</p></td>
@@ -345,7 +345,7 @@ CHANNEL](https://zh.wikipedia.org/wiki/BANDAI_CHANNEL "wikilink")、[樂天ShowT
 </tr>
 <tr class="odd">
 <td><p>日本全國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2012年7月6日 -</p></td>
 <td><p>星期五 12:00 - 12:04</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>

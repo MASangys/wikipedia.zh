@@ -1,5 +1,5 @@
 **《Seven
-Years》**是[香港女歌手](../Page/香港.md "wikilink")[Kellyjackie的第二張專輯](../Page/Kellyjackie.md "wikilink")，於2012年9月18日推出，和上次的《[星光閃耀迪士尼](https://zh.wikipedia.org/wiki/星光閃耀迪士尼 "wikilink")》出版時期相差7年。《Seven
+Years》**是[香港女歌手](../Page/香港.md "wikilink")[Kellyjackie的第二張專輯](../Page/Kellyjackie.md "wikilink")，於2012年9月18日推出，和上次的《[星光閃耀迪士尼](../Page/星光閃耀迪士尼.md "wikilink")》出版時期相差7年。《Seven
 Years》被賦以全新的形象及曲風，Kellyjackie憑藉其創作的《別有用心》寄意，唱出多年來的心聲，又為情歌《七年滋養》[填詞](../Page/填詞.md "wikilink")。
 
 ## 簡介

@@ -11,7 +11,7 @@ Mind](../Page/Peace_Of_Mind.md "wikilink")》后暌违6年的专辑。\[1\]
 专辑收录了《[Okay](../Page/Okay_\(稻葉浩志單曲\).md "wikilink")》、[TBS電視台](../Page/TBS電視台.md "wikilink")《NEWS23X》片尾曲《牵起这手奔跑吧》、动画《[结界师](https://zh.wikipedia.org/wiki/结界师 "wikilink")》片尾曲《红线》等热门单曲，初回限定盘DVD中收录了稻叶浩志个人最有代表性的11首[音乐影片](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")。
 2011年稻叶浩志以《Hadou》这张专辑为中心，举行了为期两个月的日本全国巡回演唱会，演唱會实况收录在《[Koshi Inaba LIVE
 2010
-〜enII〜](https://zh.wikipedia.org/wiki/Koshi_Inaba_LIVE_2010_〜enII〜 "wikilink")》，[DVD首周销量](https://zh.wikipedia.org/wiki/DVD "wikilink")2.7萬张，[Blu-ray销量](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")2.1萬张，夺得Oricon周榜第一。\[4\]
+〜enII〜](../Page/Koshi_Inaba_LIVE_2010_〜enII〜.md "wikilink")》，[DVD首周销量](https://zh.wikipedia.org/wiki/DVD "wikilink")2.7萬张，[Blu-ray销量](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")2.1萬张，夺得Oricon周榜第一。\[4\]
 \[5\]
 
 ## 曲目

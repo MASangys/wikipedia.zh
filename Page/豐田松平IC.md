@@ -4,7 +4,7 @@
 
 ### 直接連接
 
-  - [國道301號](https://zh.wikipedia.org/wiki/國道301號 "wikilink")
+  - [國道301號](../Page/國道301號.md "wikilink")
 
 ### 間接連接
 

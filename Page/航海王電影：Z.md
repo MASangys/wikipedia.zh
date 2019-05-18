@@ -84,7 +84,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
 </tr>
 <tr class="odd">
 <td><p>'''鶴</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松島實" title="wikilink">松島實</a></p></td>
+<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
 <tr class="even">
@@ -227,7 +227,7 @@ Z對抗不斷湧上的海軍們，當然其中包含他以前學生，不過黃�
     聲優：[西內麻理耶](https://zh.wikipedia.org/wiki/西內麻理耶 "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     賽肯島的觀光客，坐在輪椅上的老婆婆。
   -
-    聲優：[田中美保](https://zh.wikipedia.org/wiki/田中美保 "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
+    聲優：[田中美保](../Page/田中美保.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）
     賽肯島的觀光客，護士，瑪琳婆婆的孫女，16歲。
   -
     聲優：[佐佐木希](../Page/佐佐木希.md "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
@@ -249,7 +249,7 @@ Lavigne）所翻唱的「How You Remind Me」和「Bad Reputation」。
 ### 音樂
 
 本作電影的主題曲有兩首，分別是[五分錢合唱團的](../Page/五分錢合唱團.md "wikilink")《How You Remind
-Me》和[瓊·傑特的](https://zh.wikipedia.org/wiki/瓊·傑特 "wikilink")《Bad
+Me》和[瓊·傑特的](../Page/瓊·傑特.md "wikilink")《Bad
 Reputation》，至於這兩首本作都是由著名加拿大的搖滾歌手[艾薇兒·拉維尼所負責翻唱](../Page/艾薇兒·拉維尼.md "wikilink")\[21\]\[22\]。艾薇兒也同意為本作電影演唱此歌曲\[23\]，在原作者尾田榮一郎在聽到艾薇兒翻唱的《How
 You Remind Me》\[24\]後，尾田向艾薇兒發了一封感謝信，表示《Bad
 Reputation》\[25\]這首歌相當能表現出主角們積極而不畏艱難的態度，最適合作為航海王的主題曲，而《How
@@ -333,7 +333,7 @@ PIECE》的粉絲之一，他們都是初次演出聲優這份工作。
   - 分鏡：長峯達也、暮田公平
   - 作畫監督：大西亮、[加加美高浩](../Page/加加美高浩.md "wikilink")、館直樹、佐藤雅將
   - 特效作畫監督：橋本敬史
-  - 片頭音樂：[中田康貴](../Page/中田康貴.md "wikilink")（[capsule](../Page/capsule.md "wikilink")）
+  - 片頭音樂：[中田康貴](../Page/中田康貴.md "wikilink")（[capsule](https://zh.wikipedia.org/wiki/capsule "wikilink")）
   - 企畫：柴田宏明
   - 電影製片人：種田義彦、情野誠人
   - 副電影製片人：服部哲
@@ -431,7 +431,7 @@ PIECE》的粉絲之一，他們都是初次演出聲優這份工作。
 </tr>
 <tr class="odd">
 <td><p>阿鶴</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松島實" title="wikilink">松島實</a></p></td>
+<td><p><a href="../Page/松島實.md" title="wikilink">松島實</a></p></td>
 </tr>
 <tr class="even">
 <td><p>克比</p></td>
@@ -467,7 +467,7 @@ PIECE》的粉絲之一，他們都是初次演出聲優這份工作。
 </tr>
 <tr class="even">
 <td><p>霍米</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中美保" title="wikilink">田中美保</a></p></td>
+<td><p><a href="../Page/田中美保.md" title="wikilink">田中美保</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>佐彌諾</p></td>
@@ -513,7 +513,7 @@ Are！」，最後活動在「平克斯的酒」這首歌曲中，替首映圓�
 ### 票房
 
 在[日本地區上映當時票房排名第一](../Page/日本.md "wikilink")，開幕日時該片共賣出20萬張電影票，收入為7.5億日元。首週末兩天後，共賣出114萬張電影票，收入13.72億日元。與上部電影相比提高了32%。在上映後的二十二至二十四天期間賣出83萬張電影票，票房收入10億，累計共261萬萬張電影票，票房收入31.7億；第二十七天累計動員301萬人，票房收入36億，為當年日本電影中電影票數最快突破300萬張。最終票房以**68億7000萬日圓**\[34\]成為《ONE
-PIECE》劇場版系列歷代票房最高電影，[2013年日本週末票房冠軍](https://zh.wikipedia.org/wiki/2013年日本週末票房冠軍 "wikilink")\[35\]，也登上全球最高票房日本動畫電影成績第三名\[36\]\[37\]，日本電影歷代票房第85名。
+PIECE》劇場版系列歷代票房最高電影，[2013年日本週末票房冠軍](../Page/2013年日本週末票房冠軍.md "wikilink")\[35\]，也登上全球最高票房日本動畫電影成績第三名\[36\]\[37\]，日本電影歷代票房第85名。
 
 在[台灣地區於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2013年1月25日全面上映，本作電影全台共有45家戲院聯合上映，打破三年前的《航海王電影版：強者天下》的23家戲院紀錄，增加近兩倍之多。上映後三天票房收入為1800萬元臺幣，第一週的票房累積已突破2000萬大關\[38\]。最終全臺票房累計達到5200萬臺幣以上，當時成為台灣第一部全台票房破**5千萬元臺幣**的最賣座[日本動畫電影](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")\[39\]。
 

@@ -36,8 +36,9 @@
     [L'Arc〜en〜Ciel](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")
       -
         (作詞:[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")
-        作曲:[tetsu](../Page/tetsuya.md "wikilink") 編曲:L'Arc〜en〜Ciel &
-        [Hajime Okano](https://zh.wikipedia.org/wiki/岡野ハジメ "wikilink")）
+        作曲:[tetsu](https://zh.wikipedia.org/wiki/tetsuya "wikilink")
+        編曲:L'Arc〜en〜Ciel & [Hajime
+        Okano](https://zh.wikipedia.org/wiki/岡野ハジメ "wikilink")）
         2003年TV 第2期OP
 4.  [扉の向こうへ](https://zh.wikipedia.org/wiki/扉の向こうへ "wikilink") / [YeLLOW
     Generation](https://zh.wikipedia.org/wiki/YeLLOW_Generation "wikilink")
@@ -160,7 +161,7 @@
         曉之王子」](https://zh.wikipedia.org/wiki/鋼之鍊金術師_BROTHERHOOD "wikilink")
         主題歌
 12. [Chasing hearts](https://zh.wikipedia.org/wiki/441 "wikilink")/
-    [miwa](../Page/miwa.md "wikilink")
+    [miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
       -
         (作詞：miwa 作曲：miwa)
         2011年 劇場版　[嘆息之丘的聖星](../Page/鋼之鍊金術師_嘆息之丘的聖星.md "wikilink") OP

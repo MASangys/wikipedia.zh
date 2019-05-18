@@ -33,15 +33,15 @@ Team**，並由周杰倫擔任董事长。
   - 9月1日：Season2第二季[臺](../Page/臺灣.md "wikilink")[港](../Page/香港.md "wikilink")[澳區域賽](../Page/澳門.md "wikilink")（臺港澳伺服器）冠軍，取得台港澳代表資格進軍世界錦標賽。
   - 10月14日：**英雄聯盟Season2第二季世界錦標賽**，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉矶拿下](../Page/洛杉矶.md "wikilink")**冠軍**，獲得100萬美元高額獎金。
   - 10月20日：於TPA榮耀共享見面會上，正式宣布加入兩位新成員：**GoDJJ**、**Zonda**。
-  - 11月17日：[GPL](https://zh.wikipedia.org/wiki/GPL超級聯賽 "wikilink")（Garena
-    Premier League）第一屆季後賽總冠軍。
+  - 11月17日：[GPL](../Page/GPL超級聯賽.md "wikilink")（Garena Premier
+    League）第一屆季後賽總冠軍。
   - 11月:經理Erica在個人推特上發表離職消息。
   - 12月3日：IPL 5（IGN Pro League 5）季軍。
-  - 12月31日：成員與[景美女中拔河隊等](https://zh.wikipedia.org/wiki/景美女中 "wikilink")「[台灣之光](https://zh.wikipedia.org/wiki/台灣之光 "wikilink")」應邀出席[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[跨年晚會](https://zh.wikipedia.org/wiki/跨年 "wikilink")。
+  - 12月31日：成員與[景美女中拔河隊等](https://zh.wikipedia.org/wiki/景美女中 "wikilink")「[台灣之光](../Page/台灣之光.md "wikilink")」應邀出席[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[跨年晚會](https://zh.wikipedia.org/wiki/跨年 "wikilink")。
 
 #### 2013
 
-  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者Taipei](https://zh.wikipedia.org/wiki/台北狙擊者 "wikilink")
+  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者Taipei](../Page/台北狙擊者.md "wikilink")
     Snipers」（TPS）戰隊，其中包括AD
     Carry玩家**GoDJJ**、女性選手**Colalin**、隊長**MisTake**、AP
     Carry玩家**NeXAbc**、上路玩家**Zonda**以及外界原先認為內定成員**OhReal**，TPA隊長一職則由AP
@@ -66,7 +66,7 @@ Team**，並由周杰倫擔任董事长。
 #### 2014
 
   - 1月11日：GPL
-    2014冬季聯賽，在BO5賽制中以3:2擊敗[台北狙擊者](https://zh.wikipedia.org/wiki/台北狙擊者 "wikilink")，獲得冠軍。
+    2014冬季聯賽，在BO5賽制中以3:2擊敗[台北狙擊者](../Page/台北狙擊者.md "wikilink")，獲得冠軍。
   - 1月27日：選手**Sarsky**離隊\[12\]。
   - 4月7日: GPL 2014春季聯賽，在BO5賽制中以3:2擊敗ahq e-sports，獲得冠軍。
   - 4月23日：選手**DinTer**暫時轉任為隊伍第六人，新成員**Winds**加入。
@@ -118,7 +118,7 @@ Team**，並由周杰倫擔任董事长。
   - 9月22日:LMS區域資格賽JT VS GRX，以0:3敗給GRX
   - 11月30日:戰隊總監兼總教練**FireFox**黃鼎翔(火狐)、教練**Prydz**陳廣峯(小峯)及教練**Dog8**蔡學裕(狗八)宣布正式離隊\[22\]
   - 12月28日:前[J
-    Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex輔助Koala宣布加入](https://zh.wikipedia.org/wiki/G-Rex "wikilink")，擔任輔助位置\[23\]
+    Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex輔助Koala宣布加入](../Page/G-Rex.md "wikilink")，擔任輔助位置\[23\]
 
 #### 2019
 
@@ -465,11 +465,11 @@ Team**，並由周杰倫擔任董事长。
 <td><p>Mid</p></td>
 <td></td>
 <td><p>1992年6月9日</p></td>
-<td><p>曾獲S2世界冠軍，現為<a href="https://zh.wikipedia.org/wiki/G-Rex" title="wikilink">G-Rex總監</a></p></td>
+<td><p>曾獲S2世界冠軍，現為<a href="../Page/G-Rex.md" title="wikilink">G-Rex總監</a></p></td>
 </tr>
 <tr class="even">
 <td><p>GoDJJ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王永傑" title="wikilink">王永傑</a></p></td>
+<td><p><a href="../Page/王永傑.md" title="wikilink">王永傑</a></p></td>
 <td><p>AD</p></td>
 <td></td>
 <td><p>1994年7月7日</p></td>
@@ -509,7 +509,7 @@ Team**，並由周杰倫擔任董事长。
 </tr>
 <tr class="odd">
 <td><p>Jay</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李杰_(電競選手)" title="wikilink">李-{杰}-</a></p></td>
+<td><p><a href="../Page/李杰_(電競選手).md" title="wikilink">李-{杰}-</a></p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
@@ -574,7 +574,7 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，而JTeam官方於1/9日�
 <td><p>教練</p></td>
 <td><p>1993年11月26日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/One_Team" title="wikilink">ONE教練</a></p></td>
+<td><p>現為<a href="../Page/One_Team.md" title="wikilink">ONE教練</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>JT Yuzon</p></td>
@@ -714,7 +714,7 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，而JTeam官方於1/9日�
 
 ## 相關條目
 
-  - [LMS職業聯賽](https://zh.wikipedia.org/wiki/LMS職業聯賽 "wikilink")
+  - [LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")
   - [英雄聯盟世界大賽](https://zh.wikipedia.org/wiki/英雄聯盟世界大賽 "wikilink")
   - [英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")
   - [戰地之王](../Page/戰地之王.md "wikilink")

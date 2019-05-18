@@ -10,21 +10,21 @@
       - 本回的主題定為**「日本 啦啦啦♪ 以歌相會。」**（）\[2\]
       - 發表本回的「紅白應援隊」成員，與上回同様是由[Terry伊藤和](https://zh.wikipedia.org/wiki/Terry伊藤 "wikilink")[AKB48擔任](../Page/AKB48.md "wikilink")\[3\]。
   - 10月16日 -
-    發表本回的主持人，紅組主持為[堀北真希](../Page/堀北真希.md "wikilink")，白組主持為[嵐](../Page/嵐.md "wikilink")，綜合主持則由NHK主播[有働由美子擔任](https://zh.wikipedia.org/wiki/有働由美子 "wikilink")\[4\]。這是紅組主持連續三年由[NHK晨間劇女主角擔當](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")，白組主持則同樣連續三年由嵐擔任。
+    發表本回的主持人，紅組主持為[堀北真希](../Page/堀北真希.md "wikilink")，白組主持為[嵐](../Page/嵐.md "wikilink")，綜合主持則由NHK主播[有働由美子擔任](../Page/有働由美子.md "wikilink")\[4\]。這是紅組主持連續三年由[NHK晨間劇女主角擔當](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")，白組主持則同樣連續三年由嵐擔任。
   - 11月26日 - 發表本回的出場名單，共有12組歌手或團體初登場\[5\]。
   - 12月6日 - 公布本回電視轉播副聲道的「紅白幕後Talk
     Channel」的主持者由Terry伊藤由[小松宏司擔任](https://zh.wikipedia.org/wiki/小松宏司 "wikilink")，廣播實況轉播則由NHK主播[青井實與](https://zh.wikipedia.org/wiki/青井實 "wikilink")[橋本奈穗子擔任](https://zh.wikipedia.org/wiki/橋本奈穗子 "wikilink")\[6\]。
   - 12月14日 -
     發表[MISIA將以現場演出方式擔任本回紅組的特別歌手](../Page/MISIA.md "wikilink")，演出地點預定在[非洲國家](../Page/非洲.md "wikilink")[納米比亞](https://zh.wikipedia.org/wiki/納米比亞 "wikilink")\[7\]\[8\]。
   - 12月16日 -
-    決定全體出場歌手將合唱NHK的[東日本大震災重建加油歌曲](../Page/東日本大震災.md "wikilink")《[花正在開](../Page/花正在開.md "wikilink")》。[西田敏行](../Page/西田敏行.md "wikilink")、[中村雅俊](https://zh.wikipedia.org/wiki/中村雅俊 "wikilink")、[森公美子](https://zh.wikipedia.org/wiki/森公美子 "wikilink")、[三明治人](https://zh.wikipedia.org/wiki/三明治人 "wikilink")、[荒川靜香等出身](https://zh.wikipedia.org/wiki/荒川靜香 "wikilink")[東北地方的名人](https://zh.wikipedia.org/wiki/东北地方_\(日本\) "wikilink")、以及該曲的作者[岩井俊二與](../Page/岩井俊二.md "wikilink")[菅野洋子也將登場](../Page/菅野洋子.md "wikilink")，同時將播出紅組主持堀北真希前往災區採訪的特別企劃\[9\]\[10\]。
+    決定全體出場歌手將合唱NHK的[東日本大震災重建加油歌曲](../Page/東日本大震災.md "wikilink")《[花正在開](../Page/花正在開.md "wikilink")》。[西田敏行](../Page/西田敏行.md "wikilink")、[中村雅俊](../Page/中村雅俊.md "wikilink")、[森公美子](https://zh.wikipedia.org/wiki/森公美子 "wikilink")、[三明治人](../Page/三明治人.md "wikilink")、[荒川靜香等出身](https://zh.wikipedia.org/wiki/荒川靜香 "wikilink")[東北地方的名人](https://zh.wikipedia.org/wiki/东北地方_\(日本\) "wikilink")、以及該曲的作者[岩井俊二與](../Page/岩井俊二.md "wikilink")[菅野洋子也將登場](../Page/菅野洋子.md "wikilink")，同時將播出紅組主持堀北真希前往災區採訪的特別企劃\[9\]\[10\]。
   - 12月18日 - 表演曲目公布。（特別歌手除外）\[11\]
   - 12月21日 -
     公布[矢澤永吉將以現場演出擔任本回白組的特別歌手](https://zh.wikipedia.org/wiki/矢澤永吉 "wikilink")\[12\]。
   - 12月24日 - 審查員名單公布\[13\]。
   - 12月25日 - 歌曲順序公布\[14\]。
       - 開場為[濱崎步](../Page/濱崎步.md "wikilink")，此為濱崎步連續第五次擔任開場回合的表演，超越此前[鄉廣美連續四次的記錄](https://zh.wikipedia.org/wiki/鄉廣美 "wikilink")。
-      - 紅組壓軸由[生物股長首次擔任](https://zh.wikipedia.org/wiki/生物股長 "wikilink")，生物股長成為史上第三組擔任紅白壓軸的樂隊或組合。白組壓軸及總壓軸由[SMAP連續三回擔任](../Page/SMAP.md "wikilink")，SMAP由此追平[森進一與](../Page/森進一.md "wikilink")[五木宏](https://zh.wikipedia.org/wiki/五木宏 "wikilink")，並列白組壓軸次數第一。這也是繼[第61回以來第二次紅白組壓軸都由樂隊或組合擔任](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")。
+      - 紅組壓軸由[生物股長首次擔任](https://zh.wikipedia.org/wiki/生物股長 "wikilink")，生物股長成為史上第三組擔任紅白壓軸的樂隊或組合。白組壓軸及總壓軸由[SMAP連續三回擔任](../Page/SMAP.md "wikilink")，SMAP由此追平[森進一與](../Page/森進一.md "wikilink")[五木宏](../Page/五木宏.md "wikilink")，並列白組壓軸次數第一。這也是繼[第61回以來第二次紅白組壓軸都由樂隊或組合擔任](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")。
   - 12月31日 - 正式播出。最終白組獲得優勝。
 
 ## 轉播媒體
@@ -37,7 +37,7 @@
   - 紅組：[堀北真希](../Page/堀北真希.md "wikilink")（主演[NHK晨間劇](https://zh.wikipedia.org/wiki/晨間小說連續劇 "wikilink")《[小梅醫生](../Page/小梅醫生.md "wikilink")》：飾
     下村（安岡）梅子）
   - 白組：[嵐](../Page/嵐.md "wikilink")（[大野智](../Page/大野智.md "wikilink")、[櫻井翔](../Page/櫻井翔.md "wikilink")、[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")、[二宮和也](../Page/二宮和也.md "wikilink")、[松本潤](https://zh.wikipedia.org/wiki/松本潤 "wikilink")）
-  - 綜合：[有働由美子](https://zh.wikipedia.org/wiki/有働由美子 "wikilink")（[NHK東京播報室](https://zh.wikipedia.org/wiki/NHK放送中心#東京播報室 "wikilink")）
+  - 綜合：[有働由美子](../Page/有働由美子.md "wikilink")（[NHK東京播報室](https://zh.wikipedia.org/wiki/NHK放送中心#東京播報室 "wikilink")）
 
 ## 出場歌手
 
@@ -85,7 +85,7 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水森香織" title="wikilink">水森香織</a></p></td>
+<td><p><a href="../Page/水森香織.md" title="wikilink">水森香織</a></p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="../Page/aiko.md" title="wikilink">aiko</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/aiko" title="wikilink">aiko</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
@@ -153,7 +153,7 @@
 </tr>
 <tr class="even">
 <td><p>39</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a></p></td>
+<td><p><a href="../Page/坂本冬美.md" title="wikilink">坂本冬美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>42</p></td>

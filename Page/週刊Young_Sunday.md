@@ -10,7 +10,7 @@ Sunday》創刊，1995年改為週刊並改名《週刊Young Sunday》，2008年
   - **[アイドルA](https://zh.wikipedia.org/wiki/アイドルA "wikilink")**（[安達充](https://zh.wikipedia.org/wiki/安達充 "wikilink")）2005年36・37合併号
     - （不定期連載）→『[ゲッサン](https://zh.wikipedia.org/wiki/ゲッサン "wikilink")』に移籍
   - [OUT-SIDER](https://zh.wikipedia.org/wiki/OUT-SIDER "wikilink")（[永福一成](https://zh.wikipedia.org/wiki/永福一成 "wikilink")）
-  - **[アオイホノオ](https://zh.wikipedia.org/wiki/アオイホノオ "wikilink")**（[島本和彥](https://zh.wikipedia.org/wiki/島本和彥 "wikilink")）2007年15号
+  - **[アオイホノオ](https://zh.wikipedia.org/wiki/アオイホノオ "wikilink")**（[島本和彥](../Page/島本和彥.md "wikilink")）2007年15号
     - YSSP
     VOL.2（YS、YSSPともに不定期連載）→『[ゲッサン](https://zh.wikipedia.org/wiki/ゲッサン "wikilink")』に移籍
   - [暁のイージス <small>闇のイージス
@@ -91,18 +91,18 @@ Sunday》創刊，1995年改為週刊並改名《週刊Young Sunday》，2008年
     - YSSP VOL.5
   - [SOMEDAY](https://zh.wikipedia.org/wiki/SOMEDAY_\(漫画\) "wikilink")（原秀則）
   - [THE
-    山田家](https://zh.wikipedia.org/wiki/THE_山田家 "wikilink")（[阿部潤](https://zh.wikipedia.org/wiki/阿部潤 "wikilink")）
+    山田家](https://zh.wikipedia.org/wiki/THE_山田家 "wikilink")（[阿部潤](../Page/阿部潤.md "wikilink")）
   - [ザ・ワールド・イズ・マイン](https://zh.wikipedia.org/wiki/ザ・ワールド・イズ・マイン "wikilink")（[新井英樹](https://zh.wikipedia.org/wiki/新井英樹 "wikilink")）
-  - [G](https://zh.wikipedia.org/wiki/G_\(漫画\) "wikilink")（原作：[武論尊](https://zh.wikipedia.org/wiki/武論尊 "wikilink")
+  - [G](https://zh.wikipedia.org/wiki/G_\(漫画\) "wikilink")（原作：[武論尊](../Page/武論尊.md "wikilink")
     作画：原秀則）
   - [シーソーゲーム](https://zh.wikipedia.org/wiki/シーソーゲーム\(漫画\) "wikilink")（原秀則）
   - [資格救世主てつんど](https://zh.wikipedia.org/wiki/資格救世主てつんど "wikilink")（[高橋のぼる](https://zh.wikipedia.org/wiki/高橋のぼる "wikilink")）
   - [事務員A子](https://zh.wikipedia.org/wiki/事務員A子 "wikilink")（[西森博之](../Page/西森博之.md "wikilink")）2006年14号
     - （不定期連載）
   - [純情外宿生](../Page/純情外宿生.md "wikilink")（[大谷二郎](https://zh.wikipedia.org/wiki/大谷二郎 "wikilink")）
-  - [純ブライド](https://zh.wikipedia.org/wiki/純ブライド "wikilink")（[吉田聰](https://zh.wikipedia.org/wiki/吉田聰 "wikilink")）
+  - [純ブライド](https://zh.wikipedia.org/wiki/純ブライド "wikilink")（[吉田聰](../Page/吉田聰.md "wikilink")）
   - [JULIET](https://zh.wikipedia.org/wiki/JULIET "wikilink")（遊人）
-  - [ショートカッツ](https://zh.wikipedia.org/wiki/ショートカッツ "wikilink")（[古屋兔丸](https://zh.wikipedia.org/wiki/古屋兔丸 "wikilink")）
+  - [ショートカッツ](https://zh.wikipedia.org/wiki/ショートカッツ "wikilink")（[古屋兔丸](../Page/古屋兔丸.md "wikilink")）
   - [すくすく](https://zh.wikipedia.org/wiki/すくすく "wikilink")（[コージィ{{JIS2004フォント](https://zh.wikipedia.org/wiki/コージィ城倉 "wikilink")）
   - [Stopナデシコさん](https://zh.wikipedia.org/wiki/Stopナデシコさん "wikilink")（[本多健志](https://zh.wikipedia.org/wiki/本多健志 "wikilink")）
   - [SPEED](https://zh.wikipedia.org/wiki/SPEED_\(小説\) "wikilink")（原作：[金城一紀](https://zh.wikipedia.org/wiki/金城一紀 "wikilink")
@@ -151,7 +151,7 @@ Sunday》創刊，1995年改為週刊並改名《週刊Young Sunday》，2008年
     -
     2008年35号\[9\]→『[ビッグコミックオリジナル](https://zh.wikipedia.org/wiki/ビッグコミックオリジナル "wikilink")』に移籍
   - [DOG
-    LAW](https://zh.wikipedia.org/wiki/DOG_LAW "wikilink")（原案：[武論尊](https://zh.wikipedia.org/wiki/武論尊 "wikilink")
+    LAW](https://zh.wikipedia.org/wiki/DOG_LAW "wikilink")（原案：[武論尊](../Page/武論尊.md "wikilink")
     漫画：[上條敦士](https://zh.wikipedia.org/wiki/上條敦士 "wikilink")）YSSP VOL.4
     - VOL.5
   - **[とめはねっ\!
@@ -166,7 +166,7 @@ Sunday》創刊，1995年改為週刊並改名《週刊Young Sunday》，2008年
 <!-- end list -->
 
   - [なんてっ探偵{{JIS2004フォント](https://zh.wikipedia.org/wiki/なんてっ探偵アイドル "wikilink")（作画：北崎拓
-    原案協力：[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")）
+    原案協力：[井上敏樹](../Page/井上敏樹.md "wikilink")）
   - [日本一の男の魂](https://zh.wikipedia.org/wiki/日本一の男の魂 "wikilink")（[喜国雅彦](https://zh.wikipedia.org/wiki/喜国雅彦 "wikilink")）1997年26号
     - 2007年25号
   - [日本フーリガン](https://zh.wikipedia.org/wiki/日本フーリガン "wikilink")（[大石普人](https://zh.wikipedia.org/wiki/大石普人 "wikilink")）

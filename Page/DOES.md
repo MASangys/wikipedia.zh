@@ -42,7 +42,7 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
 主唱氏原亘喜欢[The
 Breeders的歌曲](https://zh.wikipedia.org/wiki/The_Breeders "wikilink")《DOE》，并很喜欢[The
 Beatles和](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")[The Blue
-Hearts这两个乐队](../Page/The_Blue_Hearts.md "wikilink")，而这三个乐队名都是以英文字母“S”为结尾，所以氏原亘将DOE加个S，就决定乐队名为**DOES**。\[3\]
+Hearts这两个乐队](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")，而这三个乐队名都是以英文字母“S”为结尾，所以氏原亘将DOE加个S，就决定乐队名为**DOES**。\[3\]
 
 ## 作品
 

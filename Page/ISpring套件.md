@@ -1,6 +1,6 @@
 **iSpring套件**是由iSpring發展，在[微軟視窗的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PowerPoint下建立專業的電子學習課程](../Page/Microsoft_PowerPoint.md "wikilink")，與嵌入（或獨立）測驗、調查和互動的[著作工具](https://zh.wikipedia.org/wiki/著作系統 "wikilink")。輸出是相容於主流[LMS標準的](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")（[SCORM](../Page/SCORM.md "wikilink")/[AICC](https://zh.wikipedia.org/wiki/Aviation_Industry_Computer-Based_Training_Committee "wikilink")\[1\]\[2\]），還有一個選項專門用來發布[黑板LMS課程的選項](https://zh.wikipedia.org/wiki/Blackboard "wikilink")。新的[xAPI
 (Tin
-Can)格式用於支援](https://zh.wikipedia.org/wiki/錫罐_API "wikilink")[LRSes](https://zh.wikipedia.org/wiki/學習記錄儲存 "wikilink")\[3\]。輸出可以是純粹的[SWF檔](../Page/SWF.md "wikilink")、[EXE檔](https://zh.wikipedia.org/wiki/EXE "wikilink")、[HTML或](../Page/HTML.md "wikilink")[ZIP存檔](../Page/ZIP格式.md "wikilink")。此外，跨平台的輸出格式（[Flash](../Page/Adobe_Flash.md "wikilink")
+Can)格式用於支援](https://zh.wikipedia.org/wiki/錫罐_API "wikilink")[LRSes](https://zh.wikipedia.org/wiki/學習記錄儲存 "wikilink")\[3\]。輸出可以是純粹的[SWF檔](https://zh.wikipedia.org/wiki/SWF "wikilink")、[EXE檔](https://zh.wikipedia.org/wiki/EXE "wikilink")、[HTML或](../Page/HTML.md "wikilink")[ZIP存檔](../Page/ZIP格式.md "wikilink")。此外，跨平台的輸出格式（[Flash](../Page/Adobe_Flash.md "wikilink")
 + [HTML5](../Page/HTML5.md "wikilink")）允許在任何現代設備上查看已經發布的內容。
 
 ## 歷史
@@ -44,7 +44,7 @@ Kinetics是一套用於創建可以用在線上學習的[互動範本](https://z
     E-Learning](https://zh.wikipedia.org/wiki/Rapid_learning "wikilink")
   - [Authoring
     system](https://zh.wikipedia.org/wiki/Authoring_system "wikilink")
-  - [Flashspring](https://zh.wikipedia.org/wiki/Flashspring "wikilink")
+  - [Flashspring](../Page/Flashspring.md "wikilink")
   - [Adobe Flash](../Page/Adobe_Flash.md "wikilink")
 
 ## 參考資料

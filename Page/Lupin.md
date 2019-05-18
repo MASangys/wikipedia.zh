@@ -1,4 +1,4 @@
-**Lupin**是2010年2月17日由[KARA發售的第](../Page/KARA.md "wikilink")3張迷你專輯。
+**Lupin**是2010年2月17日由[KARA發售的第](https://zh.wikipedia.org/wiki/KARA "wikilink")3張迷你專輯。
 
 ## 概要
 

@@ -3,7 +3,7 @@
 
 另外，TAKARATOMY的Masterpiece系列已經出現了幾個分線，代表《[勇者系列](../Page/勇者系列.md "wikilink")》的"masterpiece
 brave" ,代表變形金剛真人電影系列的"Masterpiece Movie（Masterpiece
-莫得可能）"和代表《[索斯機械獸](https://zh.wikipedia.org/wiki/索斯機械獸 "wikilink")》系列的"Masterpiece
+莫得可能）"和代表《[索斯機械獸](../Page/索斯機械獸.md "wikilink")》系列的"Masterpiece
 Zoids"
 
 ## 日本版產品一覽

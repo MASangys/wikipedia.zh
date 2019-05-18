@@ -19,14 +19,14 @@ III的圓潤風格相似](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_III "wi
 Note的方框設計。S Pen位置位於機背左下角，方便拔出。正面底部設有目錄鍵（Menu）、主按鍵（Home）和返回鍵（Back）。
 
 Galaxy Note
-II是Note系列手機當中，唯一未有配備康寧[大猩猩玻璃的産品](https://zh.wikipedia.org/wiki/大猩猩玻璃 "wikilink")。
+II是Note系列手機當中，唯一未有配備康寧[大猩猩玻璃的産品](../Page/大猩猩玻璃.md "wikilink")。
 
 ## 規格\[1\]
 
   - 通信系統：[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")、[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")、[GSM四頻](../Page/GSM.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
   - 螢幕：5.55" [HD Super
     AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")
-    1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile排列](https://zh.wikipedia.org/wiki/PenTile "wikilink")）
+    1280×720，螢幕[解析度約](https://zh.wikipedia.org/wiki/解析度 "wikilink")267ppi。（非[PenTile排列](../Page/PenTile.md "wikilink")）
   - 處理器：1.6Ghz[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")
   - GPU : Mali-400 MP4 高頻4核
   - 系統：[Android

@@ -20,7 +20,7 @@ ID及一些相关信息，并同意“Apple开发者注册协议”中的条款�
 
 ## 参见
 
-  - [iOS](../Page/iOS.md "wikilink")
+  - [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 
 ## 参考资料
 

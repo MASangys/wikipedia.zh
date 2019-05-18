@@ -15,7 +15,7 @@
 <tr class="odd">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><p><a href="../Page/NEXON.md" title="wikilink">NEXON</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/NEXON" title="wikilink">NEXON</a></p></td>
 <td style="text-align: left;"><p>2013年11月28日~2018年4月26日</p></td>
 </tr>
 <tr class="even">
@@ -33,7 +33,7 @@
 <tr class="even">
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: left;"><p><a href="../Page/NEXON.md" title="wikilink">NEXON</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/NEXON" title="wikilink">NEXON</a></p></td>
 <td style="text-align: left;"><p>2017年7月12日~2018年2月28日</p></td>
 </tr>
 </tbody>
@@ -253,7 +253,7 @@
 
 ### 發行
 
-  - 2012年4月5日，韓國[NEXON公司宣布將與美國](../Page/NEXON.md "wikilink")[Valve公司再度合作](https://zh.wikipedia.org/wiki/Valve "wikilink")，共同開發CSO的續作CSO2。不久，NEXON取得CSO2在韓國、日本、中國大陆、台灣以及東南亞等國家和地区的發行權\[4\]。
+  - 2012年4月5日，韓國[NEXON公司宣布將與美國](https://zh.wikipedia.org/wiki/NEXON "wikilink")[Valve公司再度合作](https://zh.wikipedia.org/wiki/Valve "wikilink")，共同開發CSO的續作CSO2。不久，NEXON取得CSO2在韓國、日本、中國大陆、台灣以及東南亞等國家和地区的發行權\[4\]。
   - 2012年7月15日，韓國NEXON首次公開CSO2，強調恢復原創性。
 
 <!-- end list -->

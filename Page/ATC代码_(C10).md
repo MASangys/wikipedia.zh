@@ -86,7 +86,7 @@
     C10AX05
     [美格鲁托](https://zh.wikipedia.org/wiki/美格鲁托 "wikilink")（Meglutol）
     C10AX06
-    [ω-3-甘油三酸酯，含其它酯和酸](../Page/ω-3脂肪酸.md "wikilink")（Omega-3-triglycerides）
+    [ω-3-甘油三酸酯，含其它酯和酸](https://zh.wikipedia.org/wiki/ω-3脂肪酸 "wikilink")（Omega-3-triglycerides）
     C10AX07
     [5'-磷酸吡哆醛谷氨酸镁](https://zh.wikipedia.org/wiki/5'-磷酸吡哆醛谷氨酸镁 "wikilink")（Magnesium
     pyridoxal 5-phosphate glutamate）

@@ -4,7 +4,7 @@ BEST**》是[日本的](../Page/日本.md "wikilink")[創作歌手](../Page/創�
 ## 解說
 
 本作為為了紀念出道五周年，和『[COUPLING
-BEST](https://zh.wikipedia.org/wiki/COUPLING_BEST_\(川嶋愛的專輯\) "wikilink")』一起推出的精選輯。
+BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出的精選輯。
 
 收錄了到「[與你･････](../Page/與你......md "wikilink")」為止所有單曲的A面曲，包含了網路下載限定曲及新曲共收錄二十首曲目至兩張CD。初回限定盤附上了特典[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
@@ -138,7 +138,7 @@ BEST](https://zh.wikipedia.org/wiki/COUPLING_BEST_\(川嶋愛的專輯\) "wikili
 
 ## 外部連結
 
-  - [川嶋愛『希望人們能相信自己的感性、目標和夢想並前進下去』](https://web.archive.org/web/20130609141445/http://specialist.oricon.co.jp/special/20080603.html)[oricon](../Page/oricon.md "wikilink")。
+  - [川嶋愛『希望人們能相信自己的感性、目標和夢想並前進下去』](https://web.archive.org/web/20130609141445/http://specialist.oricon.co.jp/special/20080603.html)[oricon](https://zh.wikipedia.org/wiki/oricon "wikilink")。
 
 [Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
 [Category:2008年的專輯](https://zh.wikipedia.org/wiki/Category:2008年的專輯 "wikilink")

@@ -103,7 +103,7 @@ Love](https://zh.wikipedia.org/wiki/Deep_Love "wikilink")』的主題曲。
 8.  **my way**<small>（my way）</small>
     編曲：長澤孝志
       -
-        出自第12單曲『[compass](../Page/compass_\(川嶋愛的歌曲\).md "wikilink")』。
+        出自第12單曲『[compass](https://zh.wikipedia.org/wiki/compass_\(川嶋愛的歌曲\) "wikilink")』。
 9.  **uneasy**<small>（旅立ちの日に…）</small>
     編曲：enzo
       -
@@ -127,7 +127,7 @@ Love](https://zh.wikipedia.org/wiki/Deep_Love "wikilink")』的主題曲。
 
 ## 外部連結
 
-  - [川嶋愛『希望人們能相信自己的感性、目標和夢想並前進下去』](https://web.archive.org/web/20130609141445/http://specialist.oricon.co.jp/special/20080603.html)[oricon](../Page/oricon.md "wikilink")。
+  - [川嶋愛『希望人們能相信自己的感性、目標和夢想並前進下去』](https://web.archive.org/web/20130609141445/http://specialist.oricon.co.jp/special/20080603.html)[oricon](https://zh.wikipedia.org/wiki/oricon "wikilink")。
 
 [Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
 [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

@@ -98,8 +98,8 @@
   - 2013年4月8日：下午12:00在[黃竹坑香葉道](../Page/黃竹坑.md "wikilink")2號 Kitchen
     Infinity One Island South 19 樓 Kitchen Infinity舉行《May姐有請》外景探班\[12\]。
   - 2013年4月20日：下午15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[國際廣場文鼎壹號舉行](../Page/國際廣場.md "wikilink")《May姐有請》記者招待會\[13\]。
-  - 2013年9月1日：由於直播《[2013香港小姐競選決賽](https://zh.wikipedia.org/wiki/2013年度香港小姐競選 "wikilink")》導致《[超級無敵獎門人
-    終極篇](https://zh.wikipedia.org/wiki/超級無敵獎門人_終極篇 "wikilink")》提早至本節目時段播映，本節目暫停播映一次。
+  - 2013年9月1日：由於直播《[2013香港小姐競選決賽](../Page/2013年度香港小姐競選.md "wikilink")》導致《[超級無敵獎門人
+    終極篇](../Page/超級無敵獎門人_終極篇.md "wikilink")》提早至本節目時段播映，本節目暫停播映一次。
   - 2013年9月22日：本節目提早至19:00-20:00播映。
 
 ## 參考資料

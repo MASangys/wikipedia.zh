@@ -58,8 +58,8 @@
   - 小町風伝（[小野塚カホリ](https://zh.wikipedia.org/wiki/小野塚カホリ "wikilink")）
   - [さらい屋
     五葉](https://zh.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](https://zh.wikipedia.org/wiki/オノ・ナツメ "wikilink")）
-  - [SARU](https://zh.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](https://zh.wikipedia.org/wiki/五十嵐大介 "wikilink")）
-  - [海獣の子供](https://zh.wikipedia.org/wiki/海獣の子供 "wikilink")（[五十嵐大介](https://zh.wikipedia.org/wiki/五十嵐大介 "wikilink")）
+  - [SARU](https://zh.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
+  - [海獣の子供](https://zh.wikipedia.org/wiki/海獣の子供 "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
   - [土星マンション](https://zh.wikipedia.org/wiki/土星マンション "wikilink")（[岩岡ヒサエ](https://zh.wikipedia.org/wiki/岩岡ヒサエ "wikilink")）
   - [花ボーロ](https://zh.wikipedia.org/wiki/花ボーロ "wikilink")（[岩岡ヒサエ](https://zh.wikipedia.org/wiki/岩岡ヒサエ "wikilink")）
   - [さるマン2.0](https://zh.wikipedia.org/wiki/サルでも描けるまんが教室 "wikilink")（[相原コージ](https://zh.wikipedia.org/wiki/相原コージ "wikilink")・[竹熊健太郎](https://zh.wikipedia.org/wiki/竹熊健太郎 "wikilink")）※作者の希望により[打ち切り](https://zh.wikipedia.org/wiki/打ち切り "wikilink")
@@ -81,7 +81,7 @@
     吾](https://zh.wikipedia.org/wiki/ナンバーファイブ_吾 "wikilink")（[松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")）
   - ねこやり-Salty
     Cat-（[黒娜さかき](https://zh.wikipedia.org/wiki/黒娜さかき "wikilink")）
-  - [のらみみ](https://zh.wikipedia.org/wiki/のらみみ "wikilink")（[原一雄](https://zh.wikipedia.org/wiki/原一雄 "wikilink")）
+  - [のらみみ](https://zh.wikipedia.org/wiki/のらみみ "wikilink")（[原一雄](../Page/原一雄.md "wikilink")）
   - 破戒
     〜ユリ・ゲラーさん、あなたの顔はいいかげん忘れてしまいました〜（作画：山本直樹、原作：[松尾スズキ](https://zh.wikipedia.org/wiki/松尾スズキ "wikilink")）
   - パン★テラ（[ゴツボ×リュウジ](https://zh.wikipedia.org/wiki/ゴツボ×リュウジ "wikilink")）

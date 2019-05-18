@@ -3,13 +3,13 @@
 
 ## 解説
 
-  - 主唱是[富川春美](https://zh.wikipedia.org/wiki/富川春美 "wikilink")、[永田ルリ子](https://zh.wikipedia.org/wiki/永田ルリ子 "wikilink")、[岩井由紀子](https://zh.wikipedia.org/wiki/岩井由紀子 "wikilink")、[白石麻子](https://zh.wikipedia.org/wiki/白石麻子 "wikilink")。
+  - 主唱是[富川春美](https://zh.wikipedia.org/wiki/富川春美 "wikilink")、[永田ルリ子](https://zh.wikipedia.org/wiki/永田ルリ子 "wikilink")、[岩井由紀子](../Page/岩井由紀子.md "wikilink")、[白石麻子](https://zh.wikipedia.org/wiki/白石麻子 "wikilink")。
 
 ## 收錄曲
 
 1.  **NO MORE 恋愛ごっこ**
       - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲:
-        [後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")
+        [後藤次利](../Page/後藤次利.md "wikilink")
 2.  **あなただけおやすみなさい**
       - 作詞: 秋元康、作曲:
         [高橋研](https://zh.wikipedia.org/wiki/高橋研 "wikilink")、編曲:

@@ -1,6 +1,6 @@
 **Slashdot效应**（Slashdot
 effect）也称作**slashdotting**，指的是当一个受众广泛的[网站介绍了另一个小众的网站后](https://zh.wikipedia.org/wiki/网站 "wikilink")，小众网站流量激增的现象。小网站流量的激增使得它的访问速度变慢或者一时间完全不能访问。这个效应的名字来源于科技新闻网站*[Slashdot](../Page/Slashdot.md "wikilink")*，因为每当Slashdot链接到其他的网站时就会给其他网站带来很多流量。这个效应也能应用到其他的网站和元博客（metablog），例如[Fark](https://zh.wikipedia.org/wiki/Fark "wikilink")、*[Drudge
-Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](https://zh.wikipedia.org/wiki/Reddit "wikilink")、[Twitter和](../Page/Twitter.md "wikilink")[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google
+Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](../Page/Reddit.md "wikilink")、[Twitter和](../Page/Twitter.md "wikilink")[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google
 doodle由于会将人引导至和Doodle相关的搜索结果](https://zh.wikipedia.org/wiki/Google_doodle "wikilink")，也会导致相关搜索结果页面的流量激增\[1\]。通常，不那么[鲁棒的网站因无法处理如此巨大的流量而导致网站无法访问](https://zh.wikipedia.org/wiki/鲁棒性_\(计算机科学\) "wikilink")——常见原因有缺乏足够[带宽](../Page/带宽.md "wikilink")、[服务器无法处理这么多并发请求](../Page/服务器.md "wikilink")、配额（quota）已满等。建在[虚拟主机上的网站遇到Slashdot效应时往往会变得无法访问](../Page/虚拟主机.md "wikilink")。
 
 **flash

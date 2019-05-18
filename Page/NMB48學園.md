@@ -8,7 +8,7 @@
 
   - [山本彩](../Page/山本彩.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）
   - [山田菜菜](../Page/山田菜菜.md "wikilink")（NMB48）
-  - [千鳥](https://zh.wikipedia.org/wiki/千鳥_\(搞笑組合\) "wikilink")（ノブ、大悟）
+  - [千鳥](../Page/千鳥_\(搞笑組合\).md "wikilink")（ノブ、大悟）
 
 ※2011年6月18日，ノブ因身體不適而缺席。只有三人表演。
 
@@ -39,7 +39,7 @@
 
 ### 嘉賓
 
-  - [上枝惠美加](https://zh.wikipedia.org/wiki/上枝惠美加 "wikilink")（NMB48）（2012年5月12日，嘉賓）
+  - [上枝惠美加](../Page/上枝惠美加.md "wikilink")（NMB48）（2012年5月12日，嘉賓）
   - [河野早紀](https://zh.wikipedia.org/wiki/河野早紀 "wikilink")（NMB48）（2012年5月12日，嘉賓）
   - [木下春奈](../Page/木下春奈.md "wikilink")（NMB48）（2012年6月30日，山本的代打）
   - [小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")（NMB48）（2012年7月7日，山本山田的代打）

@@ -1,4 +1,4 @@
-《**FORCE原力誌**》是由[台灣角川於](../Page/台灣角川.md "wikilink")2012年12月20日創辦\[1\]\[2\]，固定於每周五更新連載內容的[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")。2014年8月1日，《FORCE原力誌》漫畫部份移籍[KADOKAWA電子漫畫網站](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink")《[ComicWalker](https://zh.wikipedia.org/wiki/ComicWalker "wikilink")》，小說部份則會重新規劃連載頁面及模式。2014年9月1日，《FORCE原力誌》網站停止更新。
+《**FORCE原力誌**》是由[台灣角川於](../Page/台灣角川.md "wikilink")2012年12月20日創辦\[1\]\[2\]，固定於每周五更新連載內容的[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")。2014年8月1日，《FORCE原力誌》漫畫部份移籍[KADOKAWA電子漫畫網站](../Page/KADOKAWA.md "wikilink")《[ComicWalker](https://zh.wikipedia.org/wiki/ComicWalker "wikilink")》，小說部份則會重新規劃連載頁面及模式。2014年9月1日，《FORCE原力誌》網站停止更新。
 
 ## 概要
 
@@ -45,7 +45,7 @@
 <tr class="even">
 <td><p>002</p></td>
 <td><p><a href="../Page/光在地球之時…….md" title="wikilink">"葵"光在地球之時……</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CHuN" title="wikilink">CHuN</a>(<a href="https://zh.wikipedia.org/wiki/友善文創" title="wikilink">友善文創</a>)(漫畫)<br />
+<td><p><a href="../Page/CHuN.md" title="wikilink">CHuN</a>(<a href="https://zh.wikipedia.org/wiki/友善文創" title="wikilink">友善文創</a>)(漫畫)<br />
 <a href="https://zh.wikipedia.org/wiki/山崎風愛" title="wikilink">山崎風愛</a>(分鏡構成)</p></td>
 <td><p><a href="../Page/野村美月.md" title="wikilink">野村美月</a>(原作)<br />
 <a href="https://zh.wikipedia.org/wiki/竹岡美穗" title="wikilink">竹岡美穗</a>(角色設定)</p></td>
@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p>003</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遺失時間的夏日" title="wikilink">遺失時間的夏日</a></p></td>
+<td><p><a href="../Page/遺失時間的夏日.md" title="wikilink">遺失時間的夏日</a></p></td>
 <td><p><a href="../Page/艾雷迪.md" title="wikilink">艾雷迪</a></p></td>
 <td><p>—</p></td>
 <td><p>2012年12月20日</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p>005</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芒神_(漫畫)" title="wikilink">芒神</a></p></td>
+<td><p><a href="../Page/芒神_(漫畫).md" title="wikilink">芒神</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奕辰" title="wikilink">奕辰</a></p></td>
 <td><p>—</p></td>
 <td><p>2012年12月20日</p></td>
@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p>012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夢見" title="wikilink">夢見 D-ZONE</a></p></td>
+<td><p><a href="../Page/夢見.md" title="wikilink">夢見 D-ZONE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Salah-D" title="wikilink">Salah-D</a>(漫畫)<br />
 <a href="https://zh.wikipedia.org/wiki/MAGI_Wu" title="wikilink">MAGI Wu</a>(編劇)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/文瀾資訊" title="wikilink">文瀾資訊</a></p></td>
@@ -158,7 +158,7 @@
 <tr class="even">
 <td><p>014</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIRD+鳥相隨" title="wikilink">BIRD+鳥相隨</a></p></td>
-<td><p><a href="../Page/ErA.md" title="wikilink">ErA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ErA" title="wikilink">ErA</a></p></td>
 <td></td>
 <td><p>2013年9月6日</p></td>
 <td><p>連載中</p></td>

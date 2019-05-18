@@ -34,7 +34,7 @@ including embryonic stem cells.\]\]
 
   - [SIMAP](https://zh.wikipedia.org/wiki/SIMAP "wikilink")
   - [人类基因组计划](../Page/人类基因组计划.md "wikilink")
-  - [千人基因组计划](https://zh.wikipedia.org/wiki/千人基因组计划 "wikilink")
+  - [千人基因组计划](../Page/千人基因组计划.md "wikilink")
   - [国际人类基因组单体型图计划](../Page/国际人类基因组单体型图计划.md "wikilink")（简称HapMap计划）
 
 ## 参考文献

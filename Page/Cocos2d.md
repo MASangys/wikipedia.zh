@@ -6,7 +6,7 @@
 ### [Objective-C](../Page/Objective-C.md "wikilink")
 
 **Cocos2d for iPhone**, 或者, Cocos2d-iphone
-是原框架在[iOS和](../Page/iOS.md "wikilink")[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
+是原框架在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")
 [OS
 X上的](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Objective-C移植](../Page/Objective-C.md "wikilink")，使用了一样的设计和概念。该API集成了[Box2D和](https://zh.wikipedia.org/wiki/Box2D "wikilink")[Chipmunk物理引擎](https://zh.wikipedia.org/wiki/Chipmunk_\(software\) "wikilink")。在[App
 Store上面的很多游戏都是使用Cocos](../Page/App_Store_\(iOS\).md "wikilink")2d-iphone框架开发的。\[2\]

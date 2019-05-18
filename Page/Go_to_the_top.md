@@ -8,8 +8,8 @@ top**》為[日本歌手](../Page/日本.md "wikilink")[倖田來未於](../Page
   - CD+DVD【Total Eclipse盤】的包裝為特別紙盒，封面採用動畫描繪的單曲形象。
   - 標題曲為[東京電視台動畫](../Page/東京電視台.md "wikilink")《[Total
     Eclipse](../Page/Muv-Luv_Alternative_Total_Eclipse.md "wikilink")》主題曲。
-  - 是首次以動畫作為音樂錄影帶的單曲\[1\]，另外在其中的畫面隱藏了下張單曲《[好愛好愛你](https://zh.wikipedia.org/wiki/好愛好愛你 "wikilink")》的發行日期。
-  - 於｢[第63回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")｣演唱。
+  - 是首次以動畫作為音樂錄影帶的單曲\[1\]，另外在其中的畫面隱藏了下張單曲《[好愛好愛你](../Page/好愛好愛你.md "wikilink")》的發行日期。
+  - 於｢[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")｣演唱。
 
 ## 發行版本
 

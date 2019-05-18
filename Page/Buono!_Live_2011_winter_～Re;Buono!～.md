@@ -10,7 +10,7 @@
 5.  MC 1
 6.  [Kiss\!Kiss\!Kiss\!](../Page/Kiss!Kiss!Kiss!.md "wikilink")
 7.  [Lotta Love Lotta Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")
-8.  [co·no·mi·chi](../Page/co·no·mi·chi.md "wikilink")
+8.  [co·no·mi·chi](https://zh.wikipedia.org/wiki/co·no·mi·chi "wikilink")
 9.  キライスキダイキライ
 10. MC 2
 11. [うらはら](../Page/We_are_Buono!.md "wikilink")

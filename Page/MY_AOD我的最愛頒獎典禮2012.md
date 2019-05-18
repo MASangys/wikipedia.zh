@@ -349,7 +349,7 @@ Astro On Demand（頻道934）
 
 ## 相關
 
-  - [星和無綫電視大獎2012](https://zh.wikipedia.org/wiki/星和無綫電視大獎2012 "wikilink")
+  - [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
   - [萬千星輝頒獎典禮2012](../Page/萬千星輝頒獎典禮2012.md "wikilink")
 
 [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")

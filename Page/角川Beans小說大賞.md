@@ -8,7 +8,7 @@
 <!-- end list -->
 
   -
-    [荻原規子](https://zh.wikipedia.org/wiki/荻原規子 "wikilink")、、
+    [荻原規子](../Page/荻原規子.md "wikilink")、、
 
 <!-- end list -->
 

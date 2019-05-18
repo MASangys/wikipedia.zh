@@ -22,7 +22,7 @@
 <li>ETERNAL</li>
 <li>Guilty／Guilty+／Guilty eX</li>
 <li>HERMIT</li>
-<li><a href="../Page/propeller.md" title="wikilink">propeller</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/propeller" title="wikilink">propeller</a></li>
 <li><a href="../Page/PULLTOP.md" title="wikilink">PULLTOP</a>／PULLTOP LATTE／PULLTOP Air</li>
 <li>material／MATELIAL MEL</li>
 <li>Mephisto</li>
@@ -110,16 +110,15 @@
   - 2014年3月28日 - 乙女達の恋物語 ～ご機嫌ようお嬢様～
   - 2014年3月28日 - 桜舞う乙女のロンド ～あなたと見る冬桜～
   - 2014年5月30日 - [Golden
-    Marriage](https://zh.wikipedia.org/wiki/Golden_Marriage "wikilink")
+    Marriage](../Page/Golden_Marriage.md "wikilink")
   - 2014年11月28日 - 乙女が奏でる恋のアリア
   - 2015年3月27日 - [Golden Marriage -Jewel
-    Days-](https://zh.wikipedia.org/wiki/Golden_Marriage "wikilink")
+    Days-](../Page/Golden_Marriage.md "wikilink")
   - 2015年6月26日 - 乙女が奏でる恋のアリア～君に捧げるアンコール～
-  - 2015年11月27日 -
-    [恋する気持ちのかさねかた](https://zh.wikipedia.org/wiki/戀愛心情的重疊方式 "wikilink")
+  - 2015年11月27日 - [恋する気持ちのかさねかた](../Page/戀愛心情的重疊方式.md "wikilink")
   - 2016年3月25日 - 乙女が彩る恋のエッセンス
   - 2016年6月24日 - [恋する気持ちのかさねかた
-    ～かさねた想いをずっと～](https://zh.wikipedia.org/wiki/戀愛心情的重疊方式 "wikilink")
+    ～かさねた想いをずっと～](../Page/戀愛心情的重疊方式.md "wikilink")
   - 2016年11月25日 - 乙女が彩る恋のエッセンス ～笑顔で織りなす未来～
   - 2017年3月24日 - 想いを捧げる乙女のメロディー
   - 2017年6月23日 - お嬢様は素直になれない
@@ -346,7 +345,7 @@
 <!-- end list -->
 
   - propeller
-    作品列表請參閱[propeller](../Page/propeller.md "wikilink")。
+    作品列表請參閱[propeller](https://zh.wikipedia.org/wiki/propeller "wikilink")。
 
 <!-- end list -->
 
@@ -461,8 +460,7 @@
 
 <!-- end list -->
 
-  - 2011年4月8日 -
-    [デュエリスト×エンゲージ](https://zh.wikipedia.org/wiki/Duelist×Engage "wikilink")
+  - 2011年4月8日 - [デュエリスト×エンゲージ](../Page/Duelist×Engage.md "wikilink")
   - 2012年10月26日 - あなたの事を好きと言わせて
   - 2013年2月22日 - モテすぎて修羅場なオレ
   - 2014年2月28日 - バカ燃えハートに愛をこめて！
@@ -551,7 +549,7 @@
 ## 過去的公司成員
 
   - 荒川工
-    過去為[propeller的代表](../Page/propeller.md "wikilink")，現在為wizardsoft有限公司的成員。
+    過去為[propeller的代表](https://zh.wikipedia.org/wiki/propeller "wikilink")，現在為wizardsoft有限公司的成員。
   - 椎原旬
     原本為[PULLTOP](../Page/PULLTOP.md "wikilink")。現在為SEVEN WONDER有限公司的成員。
   - ココノツ

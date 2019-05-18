@@ -132,7 +132,7 @@ Like That〉正式發行。
 <li>發行日期：2013年7月1日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>歌手：<a href="../Page/李昶旻.md" title="wikilink">李昶旻</a>、多喜</li>
-<li>備註：SBS電視劇《<a href="https://zh.wikipedia.org/wiki/最佳李純信" title="wikilink">最佳李純信</a>》OST</li>
+<li>備註：SBS電視劇《<a href="../Page/最佳李純信.md" title="wikilink">最佳李純信</a>》OST</li>
 </ul></td>
 <td><ol>
 <li>한 사람만 보여요 (只看著你一人)</li>

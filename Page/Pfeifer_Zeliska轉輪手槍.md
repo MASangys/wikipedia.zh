@@ -24,7 +24,7 @@ Nitro Express的成本為$40，而整槍的售價則為$17,316。基於其昂貴
   - [沙漠之鷹](../Page/沙漠之鷹手槍.md "wikilink")
   - [自動麥格農V型](https://zh.wikipedia.org/wiki/自動麥格農V型手槍 "wikilink")
   - [灰熊V型](../Page/灰熊溫徹斯特馬格南手槍.md "wikilink")
-  - [Thunder 50](https://zh.wikipedia.org/wiki/Thunder_50手槍 "wikilink")
+  - [Thunder 50](../Page/Thunder_50手槍.md "wikilink")
 
 [Category:左輪手槍](https://zh.wikipedia.org/wiki/Category:左輪手槍 "wikilink")
 [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")

@@ -21,7 +21,7 @@ Girl〉到Lizzy出道滿一千天推出的歌曲〈Cosmetic〉，隨著音樂作
 
 2018年5月1日下午，Pledis娛樂宣布與Lizzy的合約已於4月30日到期，而Lizzy確定不續約，離開公司及After
 School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
-透露她會以朴修雅（音譯）繼續活動，為免與韓語讀音相同，而同為歌演兩棲藝人的[Joy混淆](https://zh.wikipedia.org/wiki/Joy_\(Red_Velvet\) "wikilink")，但公司沒有透露她是否也把本名更換。\[9\]
+透露她會以朴修雅（音譯）繼續活動，為免與韓語讀音相同，而同為歌演兩棲藝人的[Joy混淆](../Page/Joy_\(Red_Velvet\).md "wikilink")，但公司沒有透露她是否也把本名更換。\[9\]
 
 ## 廣告
 
@@ -60,12 +60,10 @@ School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
   - 2015年： [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
     《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》
     藝人評審團 （第9－10集) 、參賽者（第45集）
-  - 2015年： MBC every1 《[Weekly
-    Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")》 嘉宾
-    (第183集)
+  - 2015年： MBC every1 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》
+    嘉宾 (第183集)
   - 2017年： [SBS](../Page/SBS_\(韓國\).md "wikilink") 《[Fantastic Duo
-    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")》 參賽者
-    （第27－28集)
+    2](../Page/Fantastic_Duo_2.md "wikilink")》 參賽者 （第27－28集)
 
 ## 電視劇
 
@@ -75,22 +73,13 @@ School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
   - 2012年： MBC 周末劇《[兒子傢伙們](../Page/兒子傢伙們.md "wikilink")》飾演 秦宥梨
     （第11－50集）\[13\]
   - 2012年： MBC 日日劇《[媽媽是什麼](../Page/媽媽是什麼.md "wikilink")》飾演 朴修映（客串）
-  - 2013年： MBS・TBS
-    《[惡靈病棟](https://zh.wikipedia.org/wiki/惡靈病棟 "wikilink")》飾演
+  - 2013年： MBS・TBS 《[惡靈病棟](../Page/惡靈病棟.md "wikilink")》飾演
     泰希（第3－4集）\[14\]
-  - 2015年： MBC
-    水木剧《[憤怒的媽媽](https://zh.wikipedia.org/wiki/憤怒的媽媽 "wikilink")》飾演
-    王靜熙
-  - 2018年：MBN
-    水土劇《[馬成的喜悅](https://zh.wikipedia.org/wiki/馬成的喜悅 "wikilink")》飾演
-    姜松花（客串）（第10集）
+  - 2015年： MBC 水木剧《[憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")》飾演 王靜熙
+  - 2018年：MBN 水土劇《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》飾演 姜松花（客串）（第10集）
   - 2018年：oksusu《我在路上撿到了藝人》飾演 世羅
-  - 2018年：SBS
-    土曜劇《[命運與憤怒](https://zh.wikipedia.org/wiki/命運與憤怒 "wikilink")》飾演
-    太正敏
-  - 2019年：TvN
-    金曜劇《[沒禮貌的英愛小姐17](https://zh.wikipedia.org/wiki/沒禮貌的英愛小姐17 "wikilink")》飾演
-    羅秀雅
+  - 2018年：SBS 土曜劇《[命運與憤怒](../Page/命運與憤怒.md "wikilink")》飾演 太正敏
+  - 2019年：TvN 金曜劇《[沒禮貌的英愛小姐17](../Page/沒禮貌的英愛小姐17.md "wikilink")》飾演 羅秀雅
 
 ## 網路電視劇
 
@@ -129,10 +118,10 @@ School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
   - 2015年： KBS 《後繼者》 MC
   - 2016年： K Star 《完成夢想》 MC (與
     [曹世鎬](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")、
-    [崔熙](https://zh.wikipedia.org/wiki/崔熙 "wikilink")
-    、[許卿煥](https://zh.wikipedia.org/wiki/許卿煥 "wikilink"))
+    [崔熙](../Page/崔熙.md "wikilink")
+    、[許卿煥](../Page/許卿煥.md "wikilink"))
   - 2016年： KBS2 《小區大明星》 MC (與
-    [李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")、[洪真英](https://zh.wikipedia.org/wiki/洪真英 "wikilink")、[安所美](https://zh.wikipedia.org/wiki/安所美 "wikilink"))
+    [李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")、[洪真英](../Page/洪真英.md "wikilink")、[安所美](https://zh.wikipedia.org/wiki/安所美 "wikilink"))
   - 2016年： FashionN《拜託了梳妝台2》 MC (與
     [利特](../Page/利特.md "wikilink")、[韩彩英](https://zh.wikipedia.org/wiki/韩彩英 "wikilink"))
 
@@ -194,7 +183,7 @@ School。同年7月10日，Lizzy的新經紀公司 Celltrion Entertainment
 | 2012年12月26日 | Mystic White                     | 人魚公主         | 與[尹寶拉](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")、[許嘉允](../Page/許嘉允.md "wikilink")、[韓善伙](../Page/韓善伙.md "wikilink")、[姜知英組Mystic](https://zh.wikipedia.org/wiki/姜知英 "wikilink") White合唱 |
 | 2014年11月18日 | Yoon Gun                         | Chemistry    | 與Zizo參與Yoon Gun的歌曲演唱                                                                                                                                                                      |
 | 2015年2月13日  | [朴明洙](../Page/朴明洙.md "wikilink") | Good bye PMS | 與[朴明洙演唱](../Page/朴明洙.md "wikilink")                                                                                                                                                       |
-| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](../Page/G.Na.md "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")、[許齡智組真少女合唱](https://zh.wikipedia.org/wiki/許齡智 "wikilink")                                                            |
+| 2015年2月20日  | 真少女                              | 年度咒語         | 與[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[權昭賢](../Page/權昭賢.md "wikilink")、[許齡智組真少女合唱](../Page/許齡智.md "wikilink")                                                            |
 
 ## 主打歌曲紀錄
 

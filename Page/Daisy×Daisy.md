@@ -2,7 +2,7 @@
 現在）。隸屬於[Office
 Galactica](https://zh.wikipedia.org/wiki/Office_Galactica "wikilink")。
 
-最初是由主唱、吉他手、貝斯手與鼓手等4個人組成的團體，首次LIVE後，贝斯手和鼓手宣告退出。之後，MiKA（主唱/作詞）與yuuki（結他/作曲/作詞）作為一個流行搖滾的組合繼續活躍。2008年9月10日yuuki退出，團員僅剩主唱MiKA，變成名為樂團實為獨唱的狀態。目前在『[NICONICO動畫](../Page/NICONICO動畫.md "wikilink")』做為著名的詞曲創作團隊活躍中。
+最初是由主唱、吉他手、貝斯手與鼓手等4個人組成的團體，首次LIVE後，贝斯手和鼓手宣告退出。之後，MiKA（主唱/作詞）與yuuki（結他/作曲/作詞）作為一個流行搖滾的組合繼續活躍。2008年9月10日yuuki退出，團員僅剩主唱MiKA，變成名為樂團實為獨唱的狀態。目前在『[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")』做為著名的詞曲創作團隊活躍中。
 
 ## 團員簡介
 

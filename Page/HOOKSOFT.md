@@ -24,7 +24,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <td><p>1</p></td>
 <td><p>2001年6月15日</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武田弘光" title="wikilink">武田弘光</a></p></td>
+<td><p><a href="../Page/武田弘光.md" title="wikilink">武田弘光</a></p></td>
 <td><p>三浦祐介</p></td>
 </tr>
 <tr class="even">
@@ -44,7 +44,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2004年5月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Like_Life" title="wikilink">Like Life</a></strong></p></td>
+<td><p><strong><a href="../Page/Like_Life.md" title="wikilink">Like Life</a></strong></p></td>
 <td><p>、らっこ</p></td>
 <td><p>川波無人、セルシオ<br />
 はね、</p></td>
@@ -52,7 +52,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="odd">
 <td><p>4 FD</p></td>
 <td><p>2004年12月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Like_Life" title="wikilink">LikeLife 氷庫版</a></strong>[6](C67)</p></td>
+<td><p><strong><a href="../Page/Like_Life.md" title="wikilink">LikeLife 氷庫版</a></strong>[6](C67)</p></td>
 <td><p>川波無人、セルシオ</p></td>
 <td></td>
 </tr>
@@ -66,7 +66,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="odd">
 <td><p>4/5 FD</p></td>
 <td><p>2005年12月16日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Like_Life" title="wikilink">_summer Life</a></strong>[7]</p></td>
+<td><p><strong><a href="../Page/Like_Life.md" title="wikilink">_summer Life</a></strong>[7]</p></td>
 <td><p>川波無人</p></td>
 <td></td>
 </tr>
@@ -80,7 +80,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2008年10月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FairlyLife" title="wikilink">FairlyLife</a></strong></p></td>
+<td><p><strong><a href="../Page/FairlyLife.md" title="wikilink">FairlyLife</a></strong></p></td>
 <td><p>川波無人、モーリー</p></td>
 <td></td>
 </tr>
@@ -115,7 +115,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2011年9月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/SuGirly_Wish" title="wikilink">SuGirly Wish</a></strong></p></td>
+<td><p><strong><a href="../Page/SuGirly_Wish.md" title="wikilink">SuGirly Wish</a></strong></p></td>
 <td><p>らっこ、桜はんぺん</p></td>
 <td><p>はね、モーリー<br />
 </p></td>
@@ -123,7 +123,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2011年11月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Strawberry_Nauts" title="wikilink">Strawberry Nauts</a></strong></p></td>
+<td><p><strong><a href="../Page/Strawberry_Nauts.md" title="wikilink">Strawberry Nauts</a></strong></p></td>
 <td><p>松下まかこ、<br />
 もとみやみつき</p></td>
 <td><p>雪仁</p></td>
@@ -131,14 +131,14 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2012年9月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LOVELY_QUEST" title="wikilink">LOVELY QUEST</a></strong></p></td>
+<td><p><strong><a href="../Page/LOVELY_QUEST.md" title="wikilink">LOVELY QUEST</a></strong></p></td>
 <td><p>らっこ、桜はんぺん</p></td>
 <td><p>モーリー、瀬尾順、時野つばき</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2013年8月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PriministAr" title="wikilink">PriministAr</a></strong></p></td>
+<td><p><strong><a href="../Page/PriministAr.md" title="wikilink">PriministAr</a></strong></p></td>
 <td><p>松下まかこ、もとみやみつき<br />
 羽鳥ぴよこ、蜜キング</p></td>
 <td><p>桜城なお、神代いづみ<br />
@@ -147,21 +147,21 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2014年1月31日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MeltyMoment" title="wikilink">MeltyMoment</a></strong></p></td>
+<td><p><strong><a href="../Page/MeltyMoment.md" title="wikilink">MeltyMoment</a></strong></p></td>
 <td><p>らっこ、、</p></td>
 <td><p>モーリー、時野つばき、柊晴空</p></td>
 </tr>
 <tr class="odd">
 <td><p>13 FD</p></td>
 <td><p>2014年8月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MeltyMoment" title="wikilink">MeltyMoment ミニファンディスク 葵＆鏡水Ver</a></strong>[10](C86)</p></td>
+<td><p><strong><a href="../Page/MeltyMoment.md" title="wikilink">MeltyMoment ミニファンディスク 葵＆鏡水Ver</a></strong>[10](C86)</p></td>
 <td><p>たかやKi、オダワラハコネ</p></td>
 <td><p>モーリー</p></td>
 </tr>
 <tr class="even">
 <td><p>13 FD</p></td>
 <td><p>2014年9月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MeltyMoment" title="wikilink">MeltyMoment ミニファンディスク すみれ＆千恵美Ver</a></strong></p></td>
+<td><p><strong><a href="../Page/MeltyMoment.md" title="wikilink">MeltyMoment ミニファンディスク すみれ＆千恵美Ver</a></strong></p></td>
 <td><p>オダワラハコネ</p></td>
 <td></td>
 </tr>
@@ -177,7 +177,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>12 FD</p></td>
 <td><p>2015年11月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PriministAr" title="wikilink">PriministAr ミニファンディスク 枝那森千里＆駒萱野</a></strong></p></td>
+<td><p><strong><a href="../Page/PriministAr.md" title="wikilink">PriministAr ミニファンディスク 枝那森千里＆駒萱野</a></strong></p></td>
 <td><p>もとみやみつき</p></td>
 <td><p>桜城なお</p></td>
 </tr>
@@ -191,28 +191,28 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2016年12月22日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Amenity&#39;s_Life" title="wikilink">Amenity's Life</a></strong></p></td>
+<td><p><strong><a href="../Page/Amenity&#39;s_Life.md" title="wikilink">Amenity's Life</a></strong></p></td>
 <td><p>RINKS</p></td>
 <td><p>桜城なお、松倉慎二</p></td>
 </tr>
 <tr class="odd">
 <td><p>15 FD</p></td>
 <td><p>2017年5月26日</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/Amenity&#39;s_Life" title="wikilink">Amenity's Life MiniFanDisc -レゾナ＆板野奏 Ver.-</a></p></td>
+<td><p>'''<a href="../Page/Amenity&#39;s_Life.md" title="wikilink">Amenity's Life MiniFanDisc -レゾナ＆板野奏 Ver.-</a></p></td>
 <td><p>松倉慎二</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2018年2月23日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IxSHE_Tell" title="wikilink">IxSHE Tell</a></strong></p></td>
+<td><p><strong><a href="../Page/IxSHE_Tell.md" title="wikilink">IxSHE Tell</a></strong></p></td>
 <td><p>桜城なお、松倉慎二</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>16 FD</p></td>
 <td><p>2018年7月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IxSHE_Tell" title="wikilink">もっとIxSHE Tell 彩楓・芳乃ミニアフターストーリー</a></strong></p></td>
+<td><p><strong><a href="../Page/IxSHE_Tell.md" title="wikilink">もっとIxSHE Tell 彩楓・芳乃ミニアフターストーリー</a></strong></p></td>
 <td><p>桜城なお</p></td>
 <td></td>
 </tr>
@@ -263,14 +263,14 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2011年2月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lover_Able" title="wikilink">Lover Able</a></strong></p></td>
+<td><p><strong><a href="../Page/Lover_Able.md" title="wikilink">Lover Able</a></strong></p></td>
 <td><p>ひなたもも、、らっこ</p></td>
 <td><p>早瀬ゆう、雪仁</p></td>
 </tr>
 <tr class="odd">
 <td><p>5(4 FD)</p></td>
 <td><p>2012年1月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lover_Able" title="wikilink">同棲Lover Able</a></strong></p></td>
+<td><p><strong><a href="../Page/Lover_Able.md" title="wikilink">同棲Lover Able</a></strong></p></td>
 <td><p>ひなたもも、あめとゆき</p></td>
 <td><p>早瀬ゆう</p></td>
 </tr>
@@ -291,7 +291,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2015年5月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PURE×CONNECT" title="wikilink">PURE×CONNECT</a></strong></p></td>
+<td><p><strong><a href="../Page/PURE×CONNECT.md" title="wikilink">PURE×CONNECT</a></strong></p></td>
 <td><p>あめとゆき</p></td>
 <td></td>
 </tr>
@@ -305,35 +305,35 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2017年11月24日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Making＊Lovers" title="wikilink">Making＊Lovers</a></strong></p></td>
+<td><p><strong><a href="../Page/Making＊Lovers.md" title="wikilink">Making＊Lovers</a></strong></p></td>
 <td><p>谷山さん</p></td>
 <td><p>早瀬ゆう、岸田ソラ</p></td>
 </tr>
 <tr class="odd">
 <td><p>9 FD</p></td>
 <td><p>2018年4月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Making＊Lovers" title="wikilink">Making*Lovers 激イチャアフターストーリー Vol.01</a></strong></p></td>
+<td><p><strong><a href="../Page/Making＊Lovers.md" title="wikilink">Making*Lovers 激イチャアフターストーリー Vol.01</a></strong></p></td>
 <td><p>早瀬ゆう、柳葉桃夜</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9 FD</p></td>
 <td><p>2018年6月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Making＊Lovers" title="wikilink">Making*Lovers 激イチャアフターストーリー Vol.02</a></strong></p></td>
+<td><p><strong><a href="../Page/Making＊Lovers.md" title="wikilink">Making*Lovers 激イチャアフターストーリー Vol.02</a></strong></p></td>
 <td><p>早瀬ゆう</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2019年1月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sugar＊Style" title="wikilink">Sugar＊Style</a></strong></p></td>
+<td><p><strong><a href="../Page/Sugar＊Style.md" title="wikilink">Sugar＊Style</a></strong></p></td>
 <td><p>岸田ソラ、モーリー</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10 FD</p></td>
 <td><p>2019年6月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sugar＊Style" title="wikilink">Sugar*Style Music and Happiness Pack</a></strong></p></td>
+<td><p><strong><a href="../Page/Sugar＊Style.md" title="wikilink">Sugar*Style Music and Happiness Pack</a></strong></p></td>
 <td><p>岸田ソラ</p></td>
 <td></td>
 </tr>
@@ -403,7 +403,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2013年4月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/間接之戀" title="wikilink">ひとつ飛ばし恋愛</a></strong></p></td>
+<td><p><strong><a href="../Page/間接之戀.md" title="wikilink">ひとつ飛ばし恋愛</a></strong></p></td>
 <td><p>天都、十全、藤島昼、たにかわたかみ</p></td>
 <td><p>間接之戀</p></td>
 <td></td>
@@ -421,7 +421,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2016年11月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/喜歡與喜歡的三角戀" title="wikilink">スキとスキとでサンカク恋愛</a></strong></p></td>
+<td><p><strong><a href="../Page/喜歡與喜歡的三角戀.md" title="wikilink">スキとスキとでサンカク恋愛</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -551,7 +551,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <!-- end list -->
 
   - 原畫
-      - [武田弘光](https://zh.wikipedia.org/wiki/武田弘光 "wikilink") -
+      - [武田弘光](../Page/武田弘光.md "wikilink") -
         創立成員之一。製作《OrangePocket》後離職、外包。
       - もとみやみつき - 負責《Strawberry
         Nauts》，與「みつき」是同一人物，並以此名義作畫。於2013年10月下旬離職。
@@ -590,9 +590,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 4.  [パートナーブランド
     一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２
 
-5.  [TECH
-    GIAN](https://zh.wikipedia.org/wiki/TECH_GIAN "wikilink")（2008年5月号）
-    pp.146-147.
+5.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2008年5月号） pp.146-147.
 
 6.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
 

@@ -7,9 +7,8 @@ Cover = | Artist = [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wi
 [Thank you, Love](../Page/Thank_you,_Love.md "wikilink")
 （2011年） | This album = **Love Place**
 （2012年） | Next album = [Love Collection
-～pink～](https://zh.wikipedia.org/wiki/Love_Collection_～pink～ "wikilink")
-/ [Love Collection
-～mint～](https://zh.wikipedia.org/wiki/Love_Collection_～mint～ "wikilink")
+～pink～](../Page/Love_Collection_～pink～.md "wikilink") / [Love
+Collection ～mint～](../Page/Love_Collection_～mint～.md "wikilink")
 （2013年） | Misc =  }} 《**Love
 Place**》是日本歌手[西野加奈的第四張專輯](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")，於2012年9月5日發售。\[2\]
 
@@ -44,8 +43,7 @@ Place**》是日本歌手[西野加奈的第四張專輯](https://zh.wikipedia.o
         作詞：西野カナ / 作曲：林田裕一
     <!-- end list -->
       - [NHK教育頻道](../Page/NHK教育頻道.md "wikilink")《オトナヘのトビラTV》主題曲
-4.  **[GO FOR
-    IT\!\!](https://zh.wikipedia.org/wiki/GO_FOR_IT!! "wikilink")**
+4.  **[GO FOR IT\!\!](../Page/GO_FOR_IT!!.md "wikilink")**
       -
         作詞：西野カナ / 作曲：FASTLANE
         18th單曲。
@@ -81,7 +79,7 @@ Place**》是日本歌手[西野加奈的第四張專輯](https://zh.wikipedia.o
         作詞：西野カナ / 作曲：Jeff Miyahara
         16th單曲。
     <!-- end list -->
-      - [SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")《[WALKMAN](../Page/WALKMAN.md "wikilink")
+      - [SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")《[WALKMAN](https://zh.wikipedia.org/wiki/WALKMAN "wikilink")
         Play You.》廣告曲
 12. **[就算...](https://zh.wikipedia.org/wiki/就算... "wikilink")（たとえ
     どんなに･･･）**

@@ -136,7 +136,7 @@ Franco前女友<br />
 <td><p>（第2、15、22集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p>男護士</p></td>
 <td></td>
 </tr>
@@ -207,7 +207,7 @@ Franco前女友<br />
 警員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林景程" title="wikilink">林景程</a></p></td>
+<td><p><a href="../Page/林景程.md" title="wikilink">林景程</a></p></td>
 <td><p>李文杰</p></td>
 <td><p><strong>炸蜢</strong><br />
 警員</p></td>
@@ -265,7 +265,7 @@ Franco前女友<br />
 「瑞愛精神醫療中心」職員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
 <td><p>余杏芝</p></td>
 <td><p><strong>Cindy</strong><br />
 「瑞愛精神醫療中心」職員<br />
@@ -345,7 +345,7 @@ Franco前女友<br />
 於第6集險被何美詩刺杀，後被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁麗瑩" title="wikilink">梁麗瑩</a></p></td>
+<td><p><a href="../Page/梁麗瑩.md" title="wikilink">梁麗瑩</a></p></td>
 <td><p><strong>何美詩</strong></p></td>
 <td><p><strong>Macy</strong><br />
 蓋亞教教徒<br />
@@ -363,7 +363,7 @@ Franco前女友<br />
 於第2集因握有方世均騙人的證據而被何美詩勒死</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周寶霖" title="wikilink">周寶霖</a></p></td>
+<td><p><a href="../Page/周寶霖.md" title="wikilink">周寶霖</a></p></td>
 <td><p>沈淑宜</p></td>
 <td><p>陳立信之妻<br />
 高立仁、連志森之同學<br />
@@ -403,7 +403,7 @@ Franco前女友<br />
 <td><p>社工</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td><p>社　工</p></td>
 <td></td>
 </tr>
@@ -418,7 +418,7 @@ Franco前女友<br />
 <td><p>舞小姐</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白雲_(香港藝人)" title="wikilink">白　雲</a></p></td>
+<td><p><a href="../Page/白雲_(香港藝人).md" title="wikilink">白　雲</a></p></td>
 <td><p>小　姐</p></td>
 <td><p>舞小姐</p></td>
 </tr>
@@ -501,7 +501,7 @@ Franco前女友<br />
 <td><p>蔡錦標</p></td>
 <td><p>患有（第三型小腦脊髓運動失調症候群／馬查多-約瑟夫病）<br />
 於二十年前親眼目睹司徒慧屍體<br />
-童年由<a href="https://zh.wikipedia.org/wiki/羅梓龍" title="wikilink">羅梓龍飾演</a></p></td>
+童年由<a href="../Page/羅梓龍.md" title="wikilink">羅梓龍飾演</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/林穎彤.md" title="wikilink">林穎彤</a></p></td>
@@ -511,7 +511,7 @@ Franco前女友<br />
 司徒風之情婦，後分手</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/方紹聰" title="wikilink">方紹聰</a></p></td>
+<td><p><a href="../Page/方紹聰.md" title="wikilink">方紹聰</a></p></td>
 <td><p>記　者</p></td>
 <td><p>張少霞同事（第6、17－19、21、23集）</p></td>
 </tr>
@@ -563,7 +563,7 @@ Franco前女友<br />
 於第13集被曹啟超拋出牆外墮樓身亡</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>程桂蘭</p></td>
 <td><p>孌童者<br />
 患有<a href="https://zh.wikipedia.org/wiki/被迫害妄想症" title="wikilink">被迫害妄想症</a><br />
@@ -631,7 +631,7 @@ Franco前女友<br />
 <td><p>阮其正之繼女，並被其性侵犯</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉蔚萱" title="wikilink">劉蔚萱</a></p></td>
+<td><p><a href="../Page/劉蔚萱.md" title="wikilink">劉蔚萱</a></p></td>
 <td><p>江美嫻</p></td>
 <td><p>未成年少女、孤兒、孤兒院義工<br />
 與姚德新於孤兒院相識，後被其欺騙</p></td>
@@ -678,7 +678,7 @@ Franco前女友<br />
 參見<a href="https://zh.wikipedia.org/wiki/#地下判官（第21集－第25集）" title="wikilink">地下判官（第21集－第25集）</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃栢文" title="wikilink">黃栢文</a></p></td>
+<td><p><a href="../Page/黃栢文.md" title="wikilink">黃栢文</a></p></td>
 <td><p>郭誠凱</p></td>
 <td><p>冼鳳英之夫<br />
 郭倩瑩之父<br />
@@ -726,12 +726,12 @@ Franco前女友<br />
 於第18集被鄭佩茹抢劫兼用胶袋闷至窒息身亡（第17-19集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾建怡" title="wikilink">曾建怡</a></p></td>
+<td><p><a href="../Page/曾建怡.md" title="wikilink">曾建怡</a></p></td>
 <td><p>女店員</p></td>
 <td><p>於第20集被鄭佩茹刺杀身亡</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃煒溏" title="wikilink">黃煒溏</a></p></td>
+<td><p><a href="../Page/黃煒溏.md" title="wikilink">黃煒溏</a></p></td>
 <td><p>沈偉雄</p></td>
 <td><p>患有<a href="https://zh.wikipedia.org/wiki/精神分裂" title="wikilink">精神分裂及</a><a href="https://zh.wikipedia.org/wiki/順行性遺忘症" title="wikilink">順行性遺忘症</a><br />
 郭誠凱之好友，後反目<br />
@@ -904,7 +904,7 @@ Franco前女友<br />
 參見<a href="https://zh.wikipedia.org/wiki/#軍刀疑雲（第15集－第20集）" title="wikilink"><strong>軍刀疑雲（第15集－第20集）</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世豪" title="wikilink">鄭世豪</a></p></td>
+<td><p><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
 <td><p>招瀚清</p></td>
 <td><p>强奸、姦殺多名女性，后判無罪（第24集）<br />
 於第24集被林頌恩割喉殺害</p></td>
@@ -1012,7 +1012,7 @@ Franco前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張明偉" title="wikilink">張明偉</a></p></td>
+<td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1027,7 +1027,7 @@ Franco前女友<br />
 <td><p>「仁和醫院」見習醫生（第1集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/關浩揚" title="wikilink">關浩揚</a></p></td>
+<td><p><a href="../Page/關浩揚.md" title="wikilink">關浩揚</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1047,7 +1047,7 @@ Franco前女友<br />
 <td><p>（第1集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td><p>搬運工人</p></td>
 <td></td>
 </tr>
@@ -1057,7 +1057,7 @@ Franco前女友<br />
 <td><p>（第2、5、17－19、21集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>男　人</p></td>
 <td><p>（第2集）</p></td>
 </tr>
@@ -1068,7 +1068,7 @@ Franco前女友<br />
 連曉彤之男友（第3集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/章宇昂" title="wikilink">章宇昂</a></p></td>
+<td><p><a href="../Page/章宇昂.md" title="wikilink">章宇昂</a></p></td>
 <td><p>兒　子</p></td>
 <td><p>（第3集）</p></td>
 </tr>
@@ -1078,7 +1078,7 @@ Franco前女友<br />
 <td><p>不小心触碰到連曉彤（第3集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
 <td><p>晶</p></td>
 <td><p>（第3－6集）</p></td>
 </tr>
@@ -1107,7 +1107,7 @@ Franco前女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭家俊" title="wikilink">鄭家俊</a></p></td>
+<td><p><a href="../Page/鄭家俊.md" title="wikilink">鄭家俊</a></p></td>
 <td><p>輝</p></td>
 <td></td>
 </tr>
@@ -1150,7 +1150,7 @@ Franco前女友<br />
 患<a href="https://zh.wikipedia.org/wiki/甲狀腺功能亢進症" title="wikilink">甲狀腺功能亢進症</a>（第5－6集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白健恩" title="wikilink">白健恩</a></p></td>
+<td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td><p>周卓生</p></td>
 <td><p><strong>Bryan</strong><br />
 唐嘉麗之夫，後離異（第7、12集）</p></td>
@@ -1185,7 +1185,7 @@ Franco前女友<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/梁詩詠" title="wikilink">梁詩詠</a></p></td>
 <td><p>余曼婷</p></td>
 <td><p>楊展康之妻<br />
-患<a href="https://zh.wikipedia.org/wiki/假性懷孕" title="wikilink">假性懷孕</a>（第9－10集）</p></td>
+患<a href="../Page/假性懷孕.md" title="wikilink">假性懷孕</a>（第9－10集）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/莫偉文" title="wikilink">莫偉文</a></p></td>
@@ -1200,18 +1200,18 @@ Franco前女友<br />
 <td><p>（第10集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥美恩" title="wikilink">麥美恩</a></p></td>
+<td><p><a href="../Page/麥美恩.md" title="wikilink">麥美恩</a></p></td>
 <td><p>Jennie</p></td>
 <td><p>Franco之妹（第10、19集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳雲甫" title="wikilink">吳雲甫</a></p></td>
+<td><p><a href="../Page/吳雲甫.md" title="wikilink">吳雲甫</a></p></td>
 <td><p>Oscar</p></td>
 <td><p>賴瑤珠之前男友<br />
 Mable之男友（第14集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳芷尤" title="wikilink">陳芷尤</a></p></td>
+<td><p><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a></p></td>
 <td><p>Mable</p></td>
 <td><p>Oscar之女友（第14集）</p></td>
 </tr>
@@ -1229,7 +1229,7 @@ Mable之男友（第14集）</p></td>
 青年由<a href="https://zh.wikipedia.org/wiki/趙希洛" title="wikilink">趙希洛飾演</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李君妍" title="wikilink">李君妍</a></p></td>
+<td><p><a href="../Page/李君妍.md" title="wikilink">李君妍</a></p></td>
 <td><p>林紫妮</p></td>
 <td><p><strong>Rainbow</strong><br />
 大學生（第15集）<br />
@@ -1263,7 +1263,7 @@ Mable之男友（第14集）</p></td>
 <td><p>（第15集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/潘冠霖" title="wikilink">潘冠霖</a></p></td>
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
 <td><p>接待員<br />
 職　員</p></td>
 <td><p>（第16-17集）<br />
@@ -1330,7 +1330,7 @@ Mable之男友（第14集）</p></td>
 <td><p>（第23集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>司　儀</p></td>
 <td><p>鋼管舞大賽司儀 （第23集）</p></td>
 </tr>
@@ -1345,7 +1345,7 @@ Mable之男友（第14集）</p></td>
 <td><p>嬰兒產品售貨員（第23集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/容天佑" title="wikilink">容天佑</a></p></td>
+<td><p><a href="../Page/容天佑.md" title="wikilink">容天佑</a></p></td>
 <td><p>便衣警員</p></td>
 <td><p>（第24集）</p></td>
 </tr>

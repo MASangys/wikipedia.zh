@@ -27,13 +27,12 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
   - [大本型](../Page/大本型.md "wikilink")
   - [油塘中心](../Page/油塘中心.md "wikilink")
   - [鯉魚門邨](../Page/鯉魚門邨.md "wikilink")
-  - [鯉灣天下](https://zh.wikipedia.org/wiki/鯉灣天下 "wikilink")
+  - [鯉灣天下](../Page/鯉灣天下.md "wikilink")
   - [嘉賢居](../Page/嘉賢居.md "wikilink")
-  - [海傲灣](https://zh.wikipedia.org/wiki/海傲灣 "wikilink")
-  - [Peninsula
-    East](https://zh.wikipedia.org/wiki/Peninsula_East "wikilink")
+  - [海傲灣](../Page/海傲灣.md "wikilink")
+  - [Peninsula East](../Page/Peninsula_East.md "wikilink")
   - 油塘工業區
-  - [三家村避風塘](https://zh.wikipedia.org/wiki/三家村避風塘 "wikilink")
+  - [三家村避風塘](../Page/三家村避風塘.md "wikilink")
   - 曦臺 (四山街項目)
   - 崇信街與仁宇圍交界項目
   - 東源街項目
@@ -100,7 +99,7 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
 
 ## 知名住客
 
-  - [黃心美](https://zh.wikipedia.org/wiki/黃心美 "wikilink")、[黃心穎](../Page/黃心穎.md "wikilink")\[10\]\[11\]
+  - [黃心美](../Page/黃心美.md "wikilink")、[黃心穎](../Page/黃心穎.md "wikilink")\[10\]\[11\]
 
 ## 外部連結
 

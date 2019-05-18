@@ -1,4 +1,4 @@
-**五日市IC**（平假名：いつかいちインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[佐伯區的](../Page/佐伯區.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**五日市IC**（平假名：いつかいちインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[佐伯區的](../Page/佐伯區.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -18,7 +18,7 @@
 ## 歷史
 
   - 1985年3月20日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[廣島JCT至五日市IC之間開通](https://zh.wikipedia.org/wiki/廣島JCT "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[廣島JCT至五日市IC之間開通](https://zh.wikipedia.org/wiki/廣島JCT "wikilink")，此交流道也同時啟用。
   - 1987年2月26日 -
     山陽自動車道五日市IC至[廿日市JCT之間開通](https://zh.wikipedia.org/wiki/廿日市JCT "wikilink")。
 
@@ -47,7 +47,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (29)[廣島IC](https://zh.wikipedia.org/wiki/廣島IC "wikilink") -
     [沼田PA](https://zh.wikipedia.org/wiki/沼田PA "wikilink") -
     (30)[廣島JCT](https://zh.wikipedia.org/wiki/廣島JCT "wikilink") -

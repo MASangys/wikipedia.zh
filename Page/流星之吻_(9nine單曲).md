@@ -3,7 +3,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
-本作是前作《[少女旅行者](https://zh.wikipedia.org/wiki/少女旅行者 "wikilink")》後相隔5個月發售，為[9nine在](../Page/9nine.md "wikilink")2012年發行的第2張單曲，也是發行專輯[9nine後首張單曲](https://zh.wikipedia.org/wiki/9nine_\(專輯\) "wikilink")。此作被[TBS電視台NEO電視劇系列](../Page/TBS電視台.md "wikilink")《[放學後再推理](../Page/放學後再推理.md "wikilink")》選為[主題曲](../Page/主題曲.md "wikilink")\[1\]，成為9nine首張為電視連續劇的歌曲，也從第五張單曲《[Cross
+本作是前作《[少女旅行者](../Page/少女旅行者.md "wikilink")》後相隔5個月發售，為[9nine在](../Page/9nine.md "wikilink")2012年發行的第2張單曲，也是發行專輯[9nine後首張單曲](../Page/9nine_\(專輯\).md "wikilink")。此作被[TBS電視台NEO電視劇系列](../Page/TBS電視台.md "wikilink")《[放學後再推理](../Page/放學後再推理.md "wikilink")》選為[主題曲](../Page/主題曲.md "wikilink")\[1\]，成為9nine首張為電視連續劇的歌曲，也從第五張單曲《[Cross
 Over](../Page/Cross_Over.md "wikilink")》以來，已經連續六張作品作商業搭配。總共分為四種版本，除了通常盤之外，此作[MV收錄在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")「初回生產限定盤A」中，「初回生産限定盤B」與「初回生産限定盤C」則是收錄2012年1月28日在品川Stellar
 Ball舉行的「ワンマン9nine〜略して”ワンナイ”スペシャル\!\!〜」演唱會影片\[2\]。
 

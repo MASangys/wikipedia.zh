@@ -9,7 +9,7 @@
   - [Eから弾きな。](https://zh.wikipedia.org/wiki/Eから弾きな。 "wikilink")（[佐佐木拓丸](https://zh.wikipedia.org/wiki/佐佐木拓丸 "wikilink")）
   - [いとしのムーコ](https://zh.wikipedia.org/wiki/いとしのムーコ "wikilink")（[みずしな孝之](https://zh.wikipedia.org/wiki/みずしな孝之 "wikilink")）
   - [いぶぬんぐ](https://zh.wikipedia.org/wiki/いぶぬんぐ "wikilink")（[佐藤敦史](https://zh.wikipedia.org/wiki/佐藤敦史 "wikilink")）※プレゼント当選者発表ページに掲載
-  - [オールラウンダー廻](https://zh.wikipedia.org/wiki/オールラウンダー廻 "wikilink")（[遠藤浩輝](https://zh.wikipedia.org/wiki/遠藤浩輝 "wikilink")）
+  - [オールラウンダー廻](https://zh.wikipedia.org/wiki/オールラウンダー廻 "wikilink")（[遠藤浩輝](../Page/遠藤浩輝.md "wikilink")）
   - [料理仙姬](../Page/料理仙姬.md "wikilink")（[きくち正太](https://zh.wikipedia.org/wiki/きくち正太 "wikilink")）
   - [漢晋春秋司馬仲達伝三国志
     しばちゅうさん](https://zh.wikipedia.org/wiki/漢晋春秋司馬仲達伝三国志_しばちゅうさん "wikilink")（[末弘](https://zh.wikipedia.org/wiki/末弘 "wikilink")）
@@ -20,7 +20,7 @@
     リアル猟師奮闘記](https://zh.wikipedia.org/wiki/山賊ダイアリー_リアル猟師奮闘記 "wikilink")（[岡本健太郎](https://zh.wikipedia.org/wiki/岡本健太郎 "wikilink")）
   - [実在ゲキウマ地酒日記](https://zh.wikipedia.org/wiki/実在ゲキウマ地酒日記 "wikilink")（[須賀原洋行](https://zh.wikipedia.org/wiki/須賀原洋行 "wikilink")）※[モーニング食と同時連載](https://zh.wikipedia.org/wiki/モーニング食 "wikilink")
   - [さよならタマちゃん](https://zh.wikipedia.org/wiki/さよならタマちゃん "wikilink")（[武田一義](https://zh.wikipedia.org/wiki/武田一義 "wikilink")）
-  - [大使館的工作守則](https://zh.wikipedia.org/wiki/大使館的工作守則 "wikilink")（[西山優里子](../Page/西山優里子.md "wikilink")）
+  - [大使館的工作守則](../Page/大使館的工作守則.md "wikilink")（[西山優里子](../Page/西山優里子.md "wikilink")）
   - [軍鶏](https://zh.wikipedia.org/wiki/軍鶏 "wikilink")（[たなか亜希夫](https://zh.wikipedia.org/wiki/たなか亜希夫 "wikilink")
     原作：[橋本以蔵](https://zh.wikipedia.org/wiki/橋本以蔵 "wikilink")）※[週刊漫画アクション移籍](https://zh.wikipedia.org/wiki/漫画アクション "wikilink")
   - [深海マンガ
@@ -41,7 +41,7 @@
     原作：[長谷川伸](https://zh.wikipedia.org/wiki/長谷川伸 "wikilink")）開始号未定--\>
   - [ヤミの乱破](https://zh.wikipedia.org/wiki/ヤミの乱破 "wikilink")（[細野不二彦](https://zh.wikipedia.org/wiki/細野不二彦 "wikilink")）
   - [勇午](https://zh.wikipedia.org/wiki/勇午 "wikilink")（[真刈信二](https://zh.wikipedia.org/wiki/真刈信二 "wikilink")・[赤名修](https://zh.wikipedia.org/wiki/赤名修 "wikilink")）※[月刊アフタヌーン移籍](https://zh.wikipedia.org/wiki/月刊アフタヌーン "wikilink")
-  - [召喚惡魔](../Page/召喚惡魔.md "wikilink")（[久保保久](https://zh.wikipedia.org/wiki/久保保久 "wikilink")）
+  - [召喚惡魔](../Page/召喚惡魔.md "wikilink")（[久保保久](../Page/久保保久.md "wikilink")）
   - [金田一37歲之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")（[天樹征丸](../Page/樹林伸.md "wikilink")，[佐籐文也](https://zh.wikipedia.org/wiki/佐籐文也 "wikilink")）
 
 ### 隔号連載

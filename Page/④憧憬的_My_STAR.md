@@ -1,5 +1,5 @@
 「**④憧憬的 My STAR**」（④憧れ My
-STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")3枚原創專輯。於2009年1月28日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的第](../Page/℃-ute.md "wikilink")3枚原創專輯。於2009年1月28日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -21,7 +21,7 @@ STAR）是[日本的女子偶像組合](../Page/日本.md "wikilink")[℃-ute的
     編曲：[鈴木Daichi秀行](https://zh.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")）
 2.  **One's LIFE**
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         [梅田繪理香](../Page/梅田繪理香.md "wikilink")・[岡井千聖](../Page/岡井千聖.md "wikilink")・[萩原舞主唱](../Page/萩原舞_\(歌手\).md "wikilink")
 3.  **Yes\! all my family**

@@ -1,5 +1,5 @@
 **蘋果A6**，是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[蘋果公司所設計的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")，用於[iPhone
-5和](../Page/iPhone_5.md "wikilink")[iPhone
+5和](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[iPhone
 5c之中](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")，於2012年9月12日發表。根據[蘋果公司宣稱](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，該處理器的速度與處理圖像的能力比較[Apple
 A5強勁兩倍](../Page/Apple_A5.md "wikilink")。
 
@@ -22,7 +22,7 @@ GB/s。A6还搭载了一个新版的[ISP](https://zh.wikipedia.org/wiki/ISP "wik
 
 ## 产品使用
 
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
   - [iPhone 5c](https://zh.wikipedia.org/wiki/iPhone_5c "wikilink")
 
 ## 參考

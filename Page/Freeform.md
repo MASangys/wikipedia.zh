@@ -53,11 +53,11 @@ Family與其劃清界線。2005年8月29日，ABC家庭宣布免責聲明，表�
 
 ### ABC家庭（2006年－2016年）
 
-2006年8月，ABC家庭推出新口號“一種新的家庭”（）以及新的視覺風格。2006年8月31日，ABC家庭終止了於2002年開始的早間兒童節目帶狀塊[Jetix](https://zh.wikipedia.org/wiki/Jetix "wikilink")。在結束Jetix後，ABC家庭不再有以十歲初為收視群的節目，其節目改至姐妹台[迪士尼頻道播映](../Page/迪士尼頻道.md "wikilink")。
+2006年8月，ABC家庭推出新口號“一種新的家庭”（）以及新的視覺風格。2006年8月31日，ABC家庭終止了於2002年開始的早間兒童節目帶狀塊[Jetix](../Page/Jetix.md "wikilink")。在結束Jetix後，ABC家庭不再有以十歲初為收視群的節目，其節目改至姐妹台[迪士尼頻道播映](../Page/迪士尼頻道.md "wikilink")。
 
 儘管該頻道與迪士尼頻道有著類似的收視族群，但其僅播出過少數迪士尼頻道自製節目。然而，該頻道仍常播映一些由迪士尼明星演出的節目，包括[希拉蕊·朵芙](https://zh.wikipedia.org/wiki/希拉蕊·朵芙 "wikilink")、[強納斯兄弟](https://zh.wikipedia.org/wiki/強納斯兄弟 "wikilink")、[艾希莉·提斯代爾](../Page/艾希莉·提斯代爾.md "wikilink")、[黛咪·洛瓦托與](https://zh.wikipedia.org/wiki/黛咪·洛瓦托 "wikilink")[賽琳娜·戈梅茲等人](https://zh.wikipedia.org/wiki/賽琳娜·戈梅茲 "wikilink")。
 
-2007年10月，ABC家庭重新設計其官網，使其顯得更加現代化。同年，其自製科幻電視劇《[天賜](https://zh.wikipedia.org/wiki/天賜_\(電視劇\) "wikilink")》獲得該台最高收視紀錄。於2008年，此紀錄被《[青春密語](https://zh.wikipedia.org/wiki/青春密語 "wikilink")》打破，後再度於2011年被《[錯位青春](https://zh.wikipedia.org/wiki/錯位青春 "wikilink")》以330萬的收視打破紀錄。其後，ABC家庭開始推出更多以年輕人為收視目標（特別以女性觀眾為主）的影集，如著名影集《》、《》等，[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[憨管家俏主人](../Page/憨管家俏主人.md "wikilink")》、《[少男老爸](https://zh.wikipedia.org/wiki/少男老爸 "wikilink")》與《[美味新關係](https://zh.wikipedia.org/wiki/美味新關係 "wikilink")》等。
+2007年10月，ABC家庭重新設計其官網，使其顯得更加現代化。同年，其自製科幻電視劇《[天賜](https://zh.wikipedia.org/wiki/天賜_\(電視劇\) "wikilink")》獲得該台最高收視紀錄。於2008年，此紀錄被《[青春密語](https://zh.wikipedia.org/wiki/青春密語 "wikilink")》打破，後再度於2011年被《[錯位青春](https://zh.wikipedia.org/wiki/錯位青春 "wikilink")》以330萬的收視打破紀錄。其後，ABC家庭開始推出更多以年輕人為收視目標（特別以女性觀眾為主）的影集，如著名影集《》、《》等，[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")《[憨管家俏主人](../Page/憨管家俏主人.md "wikilink")》、《[少男老爸](../Page/少男老爸.md "wikilink")》與《[美味新關係](../Page/美味新關係.md "wikilink")》等。
 
 ### 重塑品牌形象與Freeform（2015年－至今）
 

@@ -13,12 +13,12 @@ Comic**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌]
   - [獣医ドリトル](https://zh.wikipedia.org/wiki/獣医ドリトル "wikilink")（作：[夏緑](https://zh.wikipedia.org/wiki/夏緑 "wikilink")、画：[ちくやまきよし](https://zh.wikipedia.org/wiki/ちくやまきよし "wikilink")）
   - [上京花日〜花田貫太郎の単身赴任・東京〜](https://zh.wikipedia.org/wiki/上京花日 "wikilink")（[いわしげ孝](https://zh.wikipedia.org/wiki/いわしげ孝 "wikilink")）
     - 休載中
-  - [総務部総務課山口六平太](https://zh.wikipedia.org/wiki/総務部総務課山口六平太 "wikilink")（作：[林律雄](https://zh.wikipedia.org/wiki/林律雄 "wikilink")、画：[高井研一郎](https://zh.wikipedia.org/wiki/高井研一郎 "wikilink")）
+  - [総務部総務課山口六平太](https://zh.wikipedia.org/wiki/総務部総務課山口六平太 "wikilink")（作：[林律雄](../Page/林律雄.md "wikilink")、画：[高井研一郎](../Page/高井研一郎.md "wikilink")）
   - [天智と天武
     -新説・日本書紀-](https://zh.wikipedia.org/wiki/天智と天武_-新説・日本書紀- "wikilink")（作：[園村昌弘](https://zh.wikipedia.org/wiki/園村昌弘 "wikilink")、画：[中村真理子](https://zh.wikipedia.org/wiki/中村真理子 "wikilink")）
   - [そばもん
     ニッポン蕎麦行脚](https://zh.wikipedia.org/wiki/そばもん "wikilink")（[山本おさむ](https://zh.wikipedia.org/wiki/山本おさむ "wikilink")、監修：[藤村和夫](https://zh.wikipedia.org/wiki/藤村和夫 "wikilink")）
-  - [築地魚河岸三代目](https://zh.wikipedia.org/wiki/築地魚河岸三代目 "wikilink")（作：[鍋島雅治](https://zh.wikipedia.org/wiki/鍋島雅治 "wikilink")、画：[はしもとみつお](https://zh.wikipedia.org/wiki/はしもとみつお "wikilink")）
+  - [築地魚河岸三代目](../Page/築地魚河岸三代目.md "wikilink")（作：[鍋島雅治](https://zh.wikipedia.org/wiki/鍋島雅治 "wikilink")、画：[はしもとみつお](https://zh.wikipedia.org/wiki/はしもとみつお "wikilink")）
   - [華中華
     ハナ・チャイナ](https://zh.wikipedia.org/wiki/華中華 "wikilink")（作：[西ゆうじ](https://zh.wikipedia.org/wiki/西ゆうじ "wikilink")、画：[ひきの真二](https://zh.wikipedia.org/wiki/ひきの真二 "wikilink")）
   - [パンドラの復活](https://zh.wikipedia.org/wiki/パンドラの復活 "wikilink")（作：[青山広美](https://zh.wikipedia.org/wiki/青山広美 "wikilink")、画：[つかさつよし](https://zh.wikipedia.org/wiki/つかさつよし "wikilink")）
@@ -104,7 +104,7 @@ Comic**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌]
   - [ムカデ戦旗](https://zh.wikipedia.org/wiki/ムカデ戦旗 "wikilink")（森秀樹）
   - [戦国子守歌](https://zh.wikipedia.org/wiki/戦国子守歌 "wikilink")（森秀樹）
   - [激濤 Magnitude
-    7.7](https://zh.wikipedia.org/wiki/激濤_Magnitude_7.7 "wikilink")（[矢口高雄](https://zh.wikipedia.org/wiki/矢口高雄 "wikilink")）
+    7.7](https://zh.wikipedia.org/wiki/激濤_Magnitude_7.7 "wikilink")（[矢口高雄](../Page/矢口高雄.md "wikilink")）
   - [風盗伝](https://zh.wikipedia.org/wiki/風盗伝 "wikilink")（[横山光輝](https://zh.wikipedia.org/wiki/横山光輝 "wikilink")）
   - [星を継ぐもの](https://zh.wikipedia.org/wiki/星を継ぐもの "wikilink")（[星野之宣](../Page/星野之宣.md "wikilink")、原作：[J・P・ホーガン](https://zh.wikipedia.org/wiki/ジェイムズ・P・ホーガン "wikilink")）
 

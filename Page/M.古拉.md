@@ -7,20 +7,20 @@
 
 ## 政治生涯
 
-1997年的补选中首次当选为霹雳州国会议员。[1999年马来西亚大选中](https://zh.wikipedia.org/wiki/1999年马来西亚大选 "wikilink")，他代表行动党竞选怡保西区，最终落败。[2004年马来西亚大选中](../Page/2004年马来西亚大选.md "wikilink")，他以微差的票数险胜国阵候选人。随后，他自2008年至今继续蝉联该选区\[8\]。
+1997年的补选中首次当选为霹雳州国会议员。[1999年马来西亚大选中](../Page/1999年马来西亚大选.md "wikilink")，他代表行动党竞选怡保西区，最终落败。[2004年马来西亚大选中](../Page/2004年马来西亚大选.md "wikilink")，他以微差的票数险胜国阵候选人。随后，他自2008年至今继续蝉联该选区\[8\]。
 
 ### 马来人至上
 
-2009年12月，古拉质疑”[马来人至上](../Page/马来人至上.md "wikilink")“、”[新经济政策](../Page/新经济政策.md "wikilink")“和“[马来西亚下议院对非马来人的歧视](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")”引发了争议：[马来西亚联邦宪法中](https://zh.wikipedia.org/wiki/马来西亚联邦宪法 "wikilink")[第153条并没有阐明马来人至上的概念](https://zh.wikipedia.org/wiki/马来西亚宪法第153条 "wikilink")。2009年12月5日，霹雳马来民族主义者（GMP）主席拿督斯里莫哈末依斯迈博士向怡保行动党办公室提呈抗议备忘录\[9\]
+2009年12月，古拉质疑”[马来人至上](../Page/马来人至上.md "wikilink")“、”[新经济政策](../Page/新经济政策.md "wikilink")“和“[马来西亚下议院对非马来人的歧视](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")”引发了争议：[马来西亚联邦宪法中](https://zh.wikipedia.org/wiki/马来西亚联邦宪法 "wikilink")[第153条并没有阐明马来人至上的概念](../Page/马来西亚宪法第153条.md "wikilink")。2009年12月5日，霹雳马来民族主义者（GMP）主席拿督斯里莫哈末依斯迈博士向怡保行动党办公室提呈抗议备忘录\[9\]
 \[10\]。
 
 ### 印度人权
 
-古拉也是一名[淡米尔族印度人](https://zh.wikipedia.org/wiki/淡米尔人 "wikilink")，曾提出了许多[马来西亚印度人社区所面对的的问题](https://zh.wikipedia.org/wiki/马来西亚印度人 "wikilink")，并声称“印度人被视为三等公民”\[11\]，他也批评部分印度庙被拆除的课题，\[12\]。他也对[斯里兰卡的淡米尔人课题表示关注](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")\[13\]。
+古拉也是一名[淡米尔族印度人](https://zh.wikipedia.org/wiki/淡米尔人 "wikilink")，曾提出了许多[马来西亚印度人社区所面对的的问题](../Page/马来西亚印度人.md "wikilink")，并声称“印度人被视为三等公民”\[11\]，他也批评部分印度庙被拆除的课题，\[12\]。他也对[斯里兰卡的淡米尔人课题表示关注](https://zh.wikipedia.org/wiki/斯里兰卡 "wikilink")\[13\]。
 
 ### 人力资源部部长
 
-[2018年马来西亚大选中](https://zh.wikipedia.org/wiki/2018年马来西亚 "wikilink")，希望联盟获胜成为执政联盟，古拉便于5月21日在[国家皇宫内宣誓为人力资源部部长](https://zh.wikipedia.org/wiki/国家皇宫 "wikilink")，前任部长为[利察烈](../Page/利察烈.md "wikilink")\[14\]。
+[2018年马来西亚大选中](../Page/2018年马来西亚.md "wikilink")，希望联盟获胜成为执政联盟，古拉便于5月21日在[国家皇宫内宣誓为人力资源部部长](https://zh.wikipedia.org/wiki/国家皇宫 "wikilink")，前任部长为[利察烈](../Page/利察烈.md "wikilink")\[14\]。
 
 ### 马来人是外来者
 
@@ -66,7 +66,7 @@
 <td><p>27,639</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/1999年马来西亚大选" title="wikilink">1999</a></p></td>
+<td><p><a href="../Page/1999年马来西亚大选.md" title="wikilink">1999</a></p></td>
 <td></td>
 <td><p>rowspan="2"  |</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/民主行动党" title="wikilink">行动党</a>）</p></td>
@@ -80,7 +80,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/马来西亚人民党" title="wikilink">人民党</a>）</p></td>
+<td><p>（<a href="../Page/马来西亚人民党.md" title="wikilink">人民党</a>）</p></td>
 <td><p>215</p></td>
 <td><p>0.46%</p></td>
 <td></td>
@@ -118,7 +118,7 @@
 <td><p>15,534</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2013年马来西亚大选" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/2013年马来西亚大选.md" title="wikilink">2013</a></p></td>
 <td><p>rowspan="2"  |</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/民主行动党" title="wikilink">行动党</a>）</p></td>
 <td><p><strong>45,420</strong></p></td>
@@ -144,7 +144,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年马来西亚大选" title="wikilink">2018</a></p></td>
+<td><p><a href="../Page/2018年马来西亚大选.md" title="wikilink">2018</a></p></td>
 <td><p>rowspan="2"  |</p></td>
 <td><p>（<a href="https://zh.wikipedia.org/wiki/民主行动党" title="wikilink">行动党</a>）</p></td>
 <td><p><strong>55,613</strong></p></td>

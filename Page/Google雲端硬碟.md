@@ -16,7 +16,7 @@ Vista](../Page/Windows_Vista.md "wikilink")、[Windows
 Lion](../Page/Mac_OS_X_Lion.md "wikilink")（10.7）以及[Snow
 Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）、[Android](../Page/Android.md "wikilink")[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")（Android
 2.1以上）、
-[iPhone和](../Page/iPhone.md "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（[iOS](../Page/iOS.md "wikilink")
+[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 5.0以上）等的裝置。\[4\]
 
 InSync發佈Linux

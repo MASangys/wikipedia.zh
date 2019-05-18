@@ -1,4 +1,4 @@
-**最終幻想VII系列角色列表**列出了[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）出品[角色扮演遊戲](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")《[最終幻想VII](https://zh.wikipedia.org/wiki/最終幻想VII "wikilink")》中登場的角色，最初發布於1997年。遊戲跟隨著主角[克勞德加入生態恐怖組織與大型企業神羅對壘](../Page/克勞德·史特萊夫.md "wikilink")，企圖阻止神羅繼續抽取星球生命作為能源。隨著劇情推進更是衝突加劇，世界的安全成為他們關注的核心，因為新的勢力出現帶來更大的威脅。克勞德和他的團隊終將面對世上知名的英雄——[賽菲羅斯](../Page/賽菲羅斯.md "wikilink")。
+**最終幻想VII系列角色列表**列出了[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）出品[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")《[最終幻想VII](https://zh.wikipedia.org/wiki/最終幻想VII "wikilink")》中登場的角色，最初發布於1997年。遊戲跟隨著主角[克勞德加入生態恐怖組織與大型企業神羅對壘](../Page/克勞德·史特萊夫.md "wikilink")，企圖阻止神羅繼續抽取星球生命作為能源。隨著劇情推進更是衝突加劇，世界的安全成為他們關注的核心，因為新的勢力出現帶來更大的威脅。克勞德和他的團隊終將面對世上知名的英雄——[賽菲羅斯](../Page/賽菲羅斯.md "wikilink")。
 
 他們人物所居住的世界（在《最終幻想VII》中簡稱為「星球」，但追溯來名稱應為「Gaia」\[1\]）與故事在多種媒體上有了延續，後續發表的電影和[前傳](../Page/核心危機_-最終幻想VII-.md "wikilink")、[後傳遊戲都屬於稱為](https://zh.wikipedia.org/wiki/地獄犬的輓歌_-Final_Fantasy_VII- "wikilink")「[Final
 Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」中的項目。

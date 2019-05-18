@@ -40,7 +40,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
     - 株式會社Rooms RECORDS，變更公司名稱為株式會社VERMILLION RECORDS。\[2\]
   - [2003年](../Page/2003年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
     -
-    Being再度實行將[GIZA以外的樂曲統一管理](../Page/GIZA_Studio.md "wikilink")，吸收了ROOMS
+    Being再度實行將[GIZA以外的樂曲統一管理](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")，吸收了ROOMS
     MUSIC。\[3\]
   - [2004年](../Page/2004年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")
     - 作為松本孝弘的私人唱片公司，在同公司內成立。
@@ -72,7 +72,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
 
 ## BMG ROOMS・Rooms RECORDS時期旗下歌手／團體
 
-  - [秋吉契里](https://zh.wikipedia.org/wiki/秋吉契里 "wikilink")
+  - [秋吉契里](../Page/秋吉契里.md "wikilink")
 
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
 
@@ -123,7 +123,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
           -
       - [稻葉浩志](../Page/稻葉浩志.md "wikilink")
 
-  - [TMG](https://zh.wikipedia.org/wiki/TMG "wikilink")
+  - [TMG](../Page/TMG.md "wikilink")
 
   - [日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")
 
@@ -132,7 +132,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
           - [FUN
             HOUSE](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")
 
-  - [Being集團列表](https://zh.wikipedia.org/wiki/Being集團列表 "wikilink")
+  - [Being集團列表](../Page/Being集團列表.md "wikilink")
 
   - [Being](../Page/Being_\(公司\).md "wikilink")
 
@@ -159,7 +159,7 @@ B'z或松本孝弘的舊唱片，移管生產銷售商之後從再壓的部分�
 [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
 [Category:1992年建立](https://zh.wikipedia.org/wiki/Category:1992年建立 "wikilink")
 
-1.  伴隨著長戶大幸的修養，作為Being公司再編的一環，將迄今為止Being未實行樂曲管理的グラムミュージック（[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、）、ヅァインミュージック([T-BOLAN](https://zh.wikipedia.org/wiki/T-BOLAN "wikilink")、等ZAIN
+1.  伴隨著長戶大幸的修養，作為Being公司再編的一環，將迄今為止Being未實行樂曲管理的グラムミュージック（[ZARD](../Page/ZARD.md "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、）、ヅァインミュージック([T-BOLAN](../Page/T-BOLAN.md "wikilink")、等ZAIN
     RECORDS藝人)、パスミュージック([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")、、等外部唱片公司旗下藝人)4間公司瓜分。97年成立GIZA
     Studio旗下藝人樂曲管理的スプーンフルミュージック（現ギザミュージック）。直到93年10月為止發售的份量，皆由Being管理。
 2.  伴隨著B'z的私人唱片公司化，或等旗下藝人移籍到。曾經旗下的[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")、[Mi-Ke](../Page/Mi-Ke.md "wikilink")、[織田哲郎或](../Page/織田哲郎.md "wikilink")、[西城秀樹等人的原盤權](../Page/西城秀樹.md "wikilink")，轉為移管到上繼承。

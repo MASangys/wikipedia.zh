@@ -7,7 +7,7 @@
   - [CCTV新科动漫官网](http://www.cctvdream.com.cn/)
 
   -
-  - [中国中央电视台新科动漫频道](http://space.bilibili.com/206797)在[哔哩哔哩弹幕网的频道](../Page/bilibili.md "wikilink")
+  - [中国中央电视台新科动漫频道](http://space.bilibili.com/206797)在[哔哩哔哩弹幕网的频道](https://zh.wikipedia.org/wiki/bilibili "wikilink")
 
   - [新科动漫频道](http://tv.cntv.cn/live/xinkedongman/)
 

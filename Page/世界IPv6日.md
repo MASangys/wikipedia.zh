@@ -13,7 +13,7 @@ brokenness）在实际应用中对网络的影响，以及让所有有关的组�
 
 世界IPv6日的活动有超过400名参与者，这其中包括了[康卡斯特](../Page/康卡斯特.md "wikilink")、[Google](../Page/Google.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[微软](../Page/微软.md "wikilink")、[Vonage](../Page/Vonage.md "wikilink")、[美国在线](../Page/美国在线.md "wikilink")、[T-Online](../Page/T-Online.md "wikilink"),
 [思科](https://zh.wikipedia.org/wiki/思科 "wikilink")、[Juniper
-Networks](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")、[中兴](https://zh.wikipedia.org/wiki/中兴 "wikilink")、[华为](../Page/华为.md "wikilink")、[美国商务部](../Page/美国商务部.md "wikilink")、[Mastercard](https://zh.wikipedia.org/wiki/Mastercard "wikilink")、[英国广播公司和](../Page/英国广播公司.md "wikilink")[墨西哥电信](https://zh.wikipedia.org/wiki/墨西哥电信 "wikilink")。\[6\]
+Networks](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")、[中兴](https://zh.wikipedia.org/wiki/中兴 "wikilink")、[华为](../Page/华为.md "wikilink")、[美国商务部](../Page/美国商务部.md "wikilink")、[Mastercard](https://zh.wikipedia.org/wiki/Mastercard "wikilink")、[英国广播公司和](../Page/英国广播公司.md "wikilink")[墨西哥电信](../Page/墨西哥电信.md "wikilink")。\[6\]
 许多大公司（不管是否有参与活动）同一天都在他们的网站开放了IPv6，如[百度和](../Page/百度.md "wikilink")[腾讯](../Page/腾讯.md "wikilink")\[7\]\[8\]。
 
 ### 结果
@@ -63,7 +63,7 @@ Google的网站流量因为[Android设备的大量访问而出现了最显著的
     engines"](http://googleblog.blogspot.com/2011/06/world-ipv6-day-begins-24-hours-from-now.html)
     *Official Google Blog* archived 23 June 2011
     [here](http://www.webcitation.org/5zf06rRqs) by
-    [WebCite](https://zh.wikipedia.org/wiki/WebCite "wikilink")
+    [WebCite](../Page/WebCite.md "wikilink")
 7.  [百度今日参加“世界IPv6日”活动
     启用IPv6支持](http://www.baiduer.com.cn/2011-06/23664.html)
 8.  [腾讯网IPv6服务试点正式开启](http://tech.qq.com/a/20111123/000317.htm)
@@ -84,11 +84,11 @@ Google的网站流量因为[Android设备的大量访问而出现了最显著的
     collide"](http://www.zdnet.co.uk/news/cloud/2011/06/11/ipv4-to-ipv6-switch-when-protocols-collide-40093062/)
     ZD Net; archived 20 June 2011
     [here](http://www.webcitation.org/5zacoRhLP) by
-    [WebCite](https://zh.wikipedia.org/wiki/WebCite "wikilink")
+    [WebCite](../Page/WebCite.md "wikilink")
 19. ["Dual Stack Connectivity Chart"](http://ipv6eyechart.ripe.net/)
     RIPE Network Coordination Centre; the version on 23 June 2011 was
     archived [here](http://www.webcitation.org/5zf1W1VMf) by
-    [WebCite](https://zh.wikipedia.org/wiki/WebCite "wikilink")
+    [WebCite](../Page/WebCite.md "wikilink")
 20.
 21.
 22.

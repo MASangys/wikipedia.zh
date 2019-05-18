@@ -174,7 +174,7 @@ SP。\[32\]
 ### 原声大碟
 
 《最终幻想战略版Advance》的原声大碟专辑《Final Fantasy Tactics Advance Original
-Soundtrack》由[DigiCube唱片公司于](https://zh.wikipedia.org/wiki/DigiCube "wikilink")2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game
+Soundtrack》由[DigiCube唱片公司于](../Page/DigiCube.md "wikilink")2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game
 Boy
 Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二张收录的曲目是从游戏中全部42首中精选出的32首，并且音质为原生音质而非第一张碟的GBA音质。\[36\]
 
@@ -693,7 +693,7 @@ Works（现[Aniplex](../Page/Aniplex.md "wikilink")）发行。本章专辑收�
 
 《最终幻想战略版Advance》在日本地区发售首周就售出超过225,000份游戏，而日本地区的全年销量超过了44万份。\[41\]\[42\]截止至2004年8月6日，本作在北美和欧洲地区合计销量也超过了100万份。\[43\]
 
-本作在游戏圈内受到了广泛的好评，被认作是一个音乐，画面，游戏性和故事情节的完美结合。在2004年由[美国互动艺术与科学学院主办的第七届美国互动艺术与科学学院奖上](https://zh.wikipedia.org/wiki/美国互动艺术与科学学院 "wikilink")，《最终幻想战略版Advance》赢得了“最佳掌上游戏”的殊荣。\[44\][IGN也为本作打出了](../Page/IGN.md "wikilink")9分的高分（满分10分），而另一权威游戏媒体[GameSpy则给出了](../Page/GameSpy.md "wikilink")5/5分的满分评价。在《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》的2006年2月刊上所列出的200款最佳任天堂平台游戏中，《最终幻想战略版Advance》被排在第67位。\[45\]而在2007年由IGN评选的GBA时代最佳游戏中，本作位列第14名。\[46\]
+本作在游戏圈内受到了广泛的好评，被认作是一个音乐，画面，游戏性和故事情节的完美结合。在2004年由[美国互动艺术与科学学院主办的第七届美国互动艺术与科学学院奖上](https://zh.wikipedia.org/wiki/美国互动艺术与科学学院 "wikilink")，《最终幻想战略版Advance》赢得了“最佳掌上游戏”的殊荣。\[44\][IGN也为本作打出了](../Page/IGN.md "wikilink")9分的高分（满分10分），而另一权威游戏媒体[GameSpy则给出了](../Page/GameSpy.md "wikilink")5/5分的满分评价。在《[任天堂力量](../Page/任天堂力量.md "wikilink")》的2006年2月刊上所列出的200款最佳任天堂平台游戏中，《最终幻想战略版Advance》被排在第67位。\[45\]而在2007年由IGN评选的GBA时代最佳游戏中，本作位列第14名。\[46\]
 
 游戏评论者们都非常称赞本作所呈现的画面和视觉效果；[GameSpot在评论中写到本作的战斗是](../Page/GameSpot.md "wikilink")“清晰明确且色彩丰富”，而且很轻松就能分辨出角色的职业；不过受到机能限制，在战斗中如果召唤太多精灵会导致画面拖延变慢。\[47\]游戏继承的《[皇家骑士团](https://zh.wikipedia.org/wiki/皇家骑士团 "wikilink")》系列要素也受到了称赞，玩家可以按自己的喜好来让自己的角色自由成长。\[48\]游戏杂志《GameNOW》则写到《最终幻想战略版Advance》“没有辜负系列的传统，并且还取得了进步”，并称本作“轻松跻身于最棒的GBA游戏之一”。\[49\]
 
@@ -716,7 +716,7 @@ SP游戏主机同捆装](../Page/Game_Boy_Advance_SP.md "wikilink")。\[52\]\[53
 《最终幻想战略版Advance》还制作了一部仅供日本地区的同名[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")。剧中故事大部分是游戏的情节，也有部分改动。从2003年1月4日起至3月29日，该剧在[TOKYO
 FM的](https://zh.wikipedia.org/wiki/FM东京 "wikilink")『RADIO MAGAZINE
 WHAT'S
-IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube推出了CD套装](https://zh.wikipedia.org/wiki/DigiCube "wikilink")，一共4张CD。\[55\]
+IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube推出了CD套装](../Page/DigiCube.md "wikilink")，一共4张CD。\[55\]
 
 **声优名单**
 
@@ -727,7 +727,7 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
   - [神田理江](../Page/神田理江.md "wikilink") 饰 莎拉（シャアラ，Shara）
   - [真田麻美](../Page/真田麻美.md "wikilink") 饰 谬特·兰德尔（ミュート・ランデル，Mewt Randell）
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink") 饰 巴布兹·斯艾因（バブズ·スエイン，Babus Swain）
-  - [城雅子](https://zh.wikipedia.org/wiki/城雅子 "wikilink") 饰 诺诺（ノノ，Nono）
+  - [城雅子](../Page/城雅子.md "wikilink") 饰 诺诺（ノノ，Nono）
   - [高木涉](../Page/高木涉.md "wikilink") 饰 艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel Berbier）
   - [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink") 饰
     希德·兰德尔（シド·ランデル，Cid Randell）
@@ -736,8 +736,7 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
   - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") 饰
     雷那多·托艾姆（レドナ·トェム，Llednar Twem）
   - [榊原良子](../Page/榊原良子.md "wikilink") 饰 雷梦迪女王（女王レメディ，Queen Remedi）
-  - [真殿光昭](https://zh.wikipedia.org/wiki/真殿光昭 "wikilink") 饰
-    范伊夫利特（暗闇の雲ファムフリート，Famfrit）
+  - [真殿光昭](../Page/真殿光昭.md "wikilink") 饰 范伊夫利特（暗闇の雲ファムフリート，Famfrit）
   - [幸田夏穂](https://zh.wikipedia.org/wiki/幸田夏穂 "wikilink") 饰
     奥特玛（堕天使アルテマ，Ultema）
   - [森川智之](../Page/森川智之.md "wikilink") 饰 亚德米勒斯（憤怒の霊帝アドラメレク，Adrammelech）

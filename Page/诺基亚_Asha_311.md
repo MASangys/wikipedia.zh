@@ -1,5 +1,5 @@
 **诺基亚 Asha 311**（中国大陆称**诺基亚
-3110**）是[诺基亚出品的一款](../Page/诺基亚.md "wikilink")[Asha系列手机](https://zh.wikipedia.org/wiki/诺基亚Asha系列 "wikilink")，它拥有一颗1GHz的CPU以及一块3英寸的电容式多点触摸屏，它是诺基亚最早的三款全触屏[Series
+3110**）是[诺基亚出品的一款](../Page/诺基亚.md "wikilink")[Asha系列手机](../Page/诺基亚Asha系列.md "wikilink")，它拥有一颗1GHz的CPU以及一块3英寸的电容式多点触摸屏，它是诺基亚最早的三款全触屏[Series
 40中配置最高的一款](../Page/Series_40.md "wikilink")。它搭载了[Series 40 开发者平台
 2.0以及](../Page/Series_40.md "wikilink")[Nokia
 OS系统](../Page/Nokia_OS.md "wikilink")，支持[2G以及](../Page/2G.md "wikilink")[3G网络](../Page/3G.md "wikilink")，使用最新的全触屏界面（Full

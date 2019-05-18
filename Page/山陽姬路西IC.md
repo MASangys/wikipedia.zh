@@ -1,14 +1,14 @@
-**山陽姬路西IC**（平假名：さんようひめじにしインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[姬路市的](../Page/姬路市.md "wikilink")[山陽自動車道與](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[姬路西繞道之](https://zh.wikipedia.org/wiki/姬路西繞道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**山陽姬路西IC**（平假名：さんようひめじにしインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[姬路市的](../Page/姬路市.md "wikilink")[山陽自動車道與](../Page/山陽自動車道.md "wikilink")[姬路西繞道之](https://zh.wikipedia.org/wiki/姬路西繞道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
   - [姬路西繞道](https://zh.wikipedia.org/wiki/姬路西繞道 "wikilink")
 
 ## 歷史
 
   - 1990年7月31日 -
-    [山陽自動車道山陽姬路西IC至](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[龍野西IC之間開通](../Page/龍野西IC.md "wikilink")，此交流道也同時啟用。
+    [山陽自動車道山陽姬路西IC至](../Page/山陽自動車道.md "wikilink")[龍野西IC之間開通](../Page/龍野西IC.md "wikilink")，此交流道也同時啟用。
   - 1991年3月28日 -
     山陽自動車道[山陽姬路東IC至山陽姬路西IC之間開通](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink")。
   - 1996年12月 - 姬路西繞道啟用。
@@ -34,7 +34,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (6)[山陽姬路東IC](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink") -
     [白鳥PA](https://zh.wikipedia.org/wiki/白鳥PA "wikilink") -
     (7)**山陽姬路西IC** - (8)[龍野IC](../Page/龍野IC.md "wikilink")

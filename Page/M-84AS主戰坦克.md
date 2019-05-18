@@ -20,7 +20,7 @@ M-84AS加強了火控系統和夜戰能力，外型與[T-90多有類似可以推
 
 ### 武器裝備
 
-  - 125毫米[2A46M](../Page/2A46坦克炮.md "wikilink")[滑膛炮](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")，可發射[9M119M「反射」式反坦克導彈](https://zh.wikipedia.org/wiki/9M119反坦克導彈 "wikilink")
+  - 125毫米[2A46M](../Page/2A46坦克炮.md "wikilink")[滑膛炮](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")，可發射[9M119M「反射」式反坦克導彈](../Page/9M119反坦克導彈.md "wikilink")
   - 12.7毫米M-87防空机枪
   - 7.62毫米M-86同轴机枪
 

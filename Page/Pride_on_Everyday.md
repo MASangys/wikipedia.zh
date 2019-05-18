@@ -1,5 +1,5 @@
 「**Pride on
-Everyday**」是[sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年11月7日由[GloryHeaven發行](../Page/Lantis.md "wikilink")。
+Everyday**」是[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年11月7日由[GloryHeaven發行](../Page/Lantis.md "wikilink")。
 
 ## 概要
 

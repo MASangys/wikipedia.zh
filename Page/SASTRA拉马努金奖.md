@@ -35,7 +35,7 @@ Kannan Soundararajan</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿克沙伊·文卡泰什" title="wikilink">阿克沙伊·文卡泰什</a></p></td>
+<td><p><a href="../Page/阿克沙伊·文卡泰什.md" title="wikilink">阿克沙伊·文卡泰什</a></p></td>
 <td><p>Akshay Venkatesh</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/斯坦福大学" title="wikilink">斯坦福大学</a></p></td>
 </tr>
@@ -66,7 +66,7 @@ Kannan Soundararajan</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/皮特·舒尔策" title="wikilink">皮特·舒尔策</a></p></td>
+<td><p><a href="../Page/皮特·舒尔策.md" title="wikilink">皮特·舒尔策</a></p></td>
 <td><p>Peter Scholze</p></td>
 <td><p><a href="../Page/波恩大学.md" title="wikilink">波恩大学</a></p></td>
 </tr>
@@ -79,7 +79,7 @@ Kannan Soundararajan</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雅各布·齐默尔曼" title="wikilink">雅各布·齐默尔曼</a></p></td>
+<td><p><a href="../Page/雅各布·齐默尔曼.md" title="wikilink">雅各布·齐默尔曼</a></p></td>
 <td><p>Jacob Tsimerman</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/多伦多大学" title="wikilink">多伦多大学</a></p></td>
 </tr>
@@ -94,7 +94,7 @@ Maksym Radziwill</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马林娜·维亚佐夫斯卡" title="wikilink">马林娜·维亚佐夫斯卡</a> [3]</p></td>
+<td><p><a href="../Page/马林娜·维亚佐夫斯卡.md" title="wikilink">马林娜·维亚佐夫斯卡</a> [3]</p></td>
 <td><p>Maryna Viazovska</p></td>
 <td><p><a href="../Page/洛桑联邦理工学院.md" title="wikilink">洛桑联邦理工学院</a></p></td>
 </tr>

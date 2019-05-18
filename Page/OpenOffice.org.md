@@ -108,7 +108,7 @@ Office，但兩者多數格式（如[數學公式](https://zh.wikipedia.org/wiki
 <td><p>2.0</p></td>
 <td><ul>
 <li>提供新功能和高階<a href="../Page/XML.md" title="wikilink">XML處理能力</a></li>
-<li>內建<a href="https://zh.wikipedia.org/wiki/結構化資訊標準促進組織" title="wikilink">OASIS的標準</a><a href="https://zh.wikipedia.org/wiki/OpenDocument" title="wikilink">OpenDocument格式支持</a></li>
+<li>內建<a href="../Page/結構化資訊標準促進組織.md" title="wikilink">OASIS的標準</a><a href="https://zh.wikipedia.org/wiki/OpenDocument" title="wikilink">OpenDocument格式支持</a></li>
 </ul></td>
 <td><p>2005年10月21日</p></td>
 <td><p>里程碑</p></td>
@@ -137,7 +137,7 @@ Office，但兩者多數格式（如[數學公式](https://zh.wikipedia.org/wiki
 <td><ul>
 <li>改善與<a href="../Page/Microsoft_Office.md" title="wikilink">Microsoft Office的相容</a></li>
 <li>改善<a href="https://zh.wikipedia.org/wiki/PDF" title="wikilink">PDF處理功能</a></li>
-<li>更多的<a href="https://zh.wikipedia.org/wiki/語言" title="wikilink">語言以及</a><a href="https://zh.wikipedia.org/wiki/辭典" title="wikilink">辭典</a></li>
+<li>更多的<a href="../Page/語言.md" title="wikilink">語言以及</a><a href="https://zh.wikipedia.org/wiki/辭典" title="wikilink">辭典</a></li>
 </ul></td>
 <td><p>2006年6月29日</p></td>
 <td><p>修補三個安全漏洞</p></td>
@@ -304,7 +304,7 @@ Office，但兩者多數格式（如[數學公式](https://zh.wikipedia.org/wiki
     10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_10.4 "wikilink")–[10.8](../Page/OS_X_Mountain_Lion.md "wikilink")（Intel）：v4.1.3
   - [Windows 95](../Page/Windows_95.md "wikilink")：v1.0.3.1
   - [Windows
-    98](../Page/Windows_98.md "wikilink")–[ME](../Page/Windows_ME.md "wikilink")：v2.4.3
+    98](../Page/Windows_98.md "wikilink")–[ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")：v2.4.3
   - [Windows 2000](../Page/Windows_2000.md "wikilink")：v3.3
   - [Windows
     XP](../Page/Windows_XP.md "wikilink")–[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")：v4.1.3
@@ -324,7 +324,7 @@ description language）的接口定义。
 
 OpenOffice.org使用的[文件檔案格式](../Page/文件檔案格式.md "wikilink")（document file
 format）基于[XML](../Page/XML.md "wikilink")，以及几个输出、导入过滤器。OpenOffice.org读取的所有外部格式，都通过内部的XML表示法进行来回转换。将[XML保存到磁盘时](../Page/XML.md "wikilink")，由于使用了[压缩](../Page/数据压缩.md "wikilink")，文件体积一般要比同等的Microsoft
-Office文档要小。从1.0版起，存储文档的本地的文件格式开始基于[OASIS](https://zh.wikipedia.org/wiki/結構化資訊標準促進組織 "wikilink")
+Office文档要小。从1.0版起，存储文档的本地的文件格式开始基于[OASIS](../Page/結構化資訊標準促進組織.md "wikilink")
 [OpenDocument的文件格式标准](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")，2.0版时，已经成为默认的文件格式。
 
 在OpenOffice.org网站的开发员专区，该套件的开发版每数周就有新版释出。这些版本主要用于测试新功能，或者满足特殊用户的好奇心，可以提前看到未来的变化，但这不适合产品应用。

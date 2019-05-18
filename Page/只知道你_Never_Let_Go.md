@@ -9,7 +9,7 @@ E\&M」所發行的首張單曲。
     R\&B曲風使人感受到[A-JAX的獨特魅力](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")\[1\]。
   - 由鋼琴旋律和成員們引人豎耳的獨特音色所構成的POP R\&B曲，哀切的vocal
     melody和演唱著對離去的戀人感到後悔與戀戀不捨的悲傷歌詞，是首令人印象深刻的曲子。
-  - 透過同公司的前輩組合〈[KARA](../Page/KARA.md "wikilink")〉成員“[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")”拍攝了〈影像畫報〉。在這段影像畫報中採用了A-JAX先行曲作為背景音樂。5月7日公開第一波預告18秒版本，5月10日公開第二波預告30秒版本，5月15日公開正式Music
+  - 透過同公司的前輩組合〈[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")〉成員“[具荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")”拍攝了〈影像畫報〉。在這段影像畫報中採用了A-JAX先行曲作為背景音樂。5月7日公開第一波預告18秒版本，5月10日公開第二波預告30秒版本，5月15日公開正式Music
     Video版本\[2\]。為了支持後輩，具荷拉即使在繁忙的日巡中也特意抽時間返回韓國熬夜拍攝完成了此影像\[3\]。部分服飾由Kwak
     Hyun Joo設計師提供\[4\]。
 

@@ -5,7 +5,7 @@
 ### CD
 
 1.  **Present**
-    作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
+    作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
       - 朝日電視台『お願い\!ランキング』12月度結尾曲
 2.  **『ありがとう』くらいじゃ伝えられない気持ちを**
     作詞：山村隆太、作曲：阪井一生、編曲：玉井健二、百田留衣

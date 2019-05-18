@@ -7,7 +7,7 @@ GNOME 2 的传统风格。更名是為了避免與 GNOME 3 的組成元件產生
 ## 歷史
 
 因為 [GNOME](../Page/GNOME.md "wikilink") 3 以 [GNOME
-Shell](https://zh.wikipedia.org/wiki/GNOME_Shell "wikilink")
+Shell](../Page/GNOME_Shell.md "wikilink")
 為基礎所建立的使用者介面取代傳統的[擬真介面](https://zh.wikipedia.org/wiki/桌面比擬 "wikilink")。這導致了一些
 [Linux](../Page/Linux.md "wikilink") 社群的批評。許多使用者拒絕使用新的 GNOME
 介面，並要求其他開發者繼續開發 GNOME 2 \[2\]。這個專案最初是由 [Arch
@@ -19,13 +19,12 @@ Linux](../Page/Arch_Linux.md "wikilink") 的部份使用者發起的\[3\]\[4\]�
 
   - Caja - 文件管理器（源自
     [Nautilus](https://zh.wikipedia.org/wiki/Nautilus "wikilink")）
-  - [Pluma](https://zh.wikipedia.org/wiki/Pluma "wikilink") - 文本编辑器（源自
+  - [Pluma](../Page/Pluma.md "wikilink") - 文本编辑器（源自
     [Gedit](../Page/Gedit.md "wikilink")）
   - Eye of MATE - 图像浏览器（源自 [Eye of
-    GNOME](https://zh.wikipedia.org/wiki/Eye_of_GNOME "wikilink")）
+    GNOME](../Page/Eye_of_GNOME.md "wikilink")）
   - Atril - 文档浏览器（源自 [Evince](../Page/Evince.md "wikilink")）
-  - Engrampa - 压缩工具（源自 [File
-    Roller](https://zh.wikipedia.org/wiki/File_Roller "wikilink")）
+  - Engrampa - 压缩工具（源自 [File Roller](../Page/File_Roller.md "wikilink")）
   - MATE Terminal - 终端機模拟器（源自 ）
   - Marco - 窗口管理器（源自 [Metacity](../Page/Metacity.md "wikilink")）
 
@@ -39,8 +38,7 @@ Caja 加入了復原／取消復原\[5\] 以及比較檔案取代前後的不同
 MATE 1.20 於2018年2月7日釋出。可通過以下 Linux 發行版的官方資料庫獲得：
 
   - [Arch Linux](../Page/Arch_Linux.md "wikilink")
-  - [Alpine
-    Linux](https://zh.wikipedia.org/wiki/Alpine_Linux "wikilink")
+  - [Alpine Linux](../Page/Alpine_Linux.md "wikilink")
   - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink")
   - [AOSC](https://aosc.io)
   - [Debian](../Page/Debian.md "wikilink")
@@ -50,19 +48,19 @@ MATE 1.20 於2018年2月7日釋出。可通過以下 Linux 發行版的官方資
   - [Linux Mint](../Page/Linux_Mint.md "wikilink")
   - [Mageia](../Page/Mageia.md "wikilink")
   - [Manjaro](https://zh.wikipedia.org/wiki/Manjaro "wikilink")
-  - [openSUSE](../Page/openSUSE.md "wikilink")
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
   - [Parrot Security OS](http://www.parrotsec.org/)
   - [PCLinuxOS](../Page/PCLinuxOS.md "wikilink")
   - [PLD Linux](https://www.pld-linux.org/)
   - [Point Linux](http://pointlinux.org/)
   - [Sabayon Linux](../Page/Sabayon_Linux.md "wikilink")
   - [Salix](http://www.salixos.org/)
-  - [SolusOS](https://zh.wikipedia.org/wiki/SolusOS "wikilink")
+  - [SolusOS](../Page/SolusOS.md "wikilink")
   - [Ubuntu](../Page/Ubuntu.md "wikilink")
-  - [Ubuntu MATE](https://zh.wikipedia.org/wiki/Ubuntu_MATE "wikilink")
+  - [Ubuntu MATE](../Page/Ubuntu_MATE.md "wikilink")
   - [Vector
     Linux](https://web.archive.org/web/20030130155249/http://vectorlinux.com/)
-  - [Void Linux](https://zh.wikipedia.org/wiki/Void_Linux "wikilink")
+  - [Void Linux](../Page/Void_Linux.md "wikilink")
 
 非官方資料庫
 
@@ -82,7 +80,7 @@ BSD
 ## 參見
 
   - [GNOME](../Page/GNOME.md "wikilink")
-  - [Ubuntu MATE](https://zh.wikipedia.org/wiki/Ubuntu_MATE "wikilink")
+  - [Ubuntu MATE](../Page/Ubuntu_MATE.md "wikilink")
 
 ## 外部連結
 

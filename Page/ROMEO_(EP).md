@@ -3,8 +3,7 @@
 
 ## 專輯簡介
 
-新專輯由由[Brown Eyed
-Soul的鄭燁](https://zh.wikipedia.org/wiki/Brown_Eyed_Soul "wikilink")、Eco
+新專輯由由[Brown Eyed Soul的鄭燁](../Page/Brown_Eyed_Soul.md "wikilink")、Eco
 Bridge(李鐘民)、Kenzie等實力作曲家參與完成,主打歌《茱麗葉》*<small>(줄리엣
 (Juliette))</small>*節奏輕鬆以及吉他鼓與[SHINee的聲線搭配](../Page/SHINee.md "wikilink")，也是成員[鐘鉉在觀看了](../Page/鐘鉉.md "wikilink")《羅密歐與茱麗葉》後由感而發於出道後第一次擔任作詞的浪漫都市舞曲。
 專輯中還收錄有組合Brown Eyed
@@ -18,7 +17,7 @@ Go))*</small>，以及老么[泰民](../Page/泰民.md "wikilink")《少年與�
 
   - 《茱麗葉》*<small>(줄리엣 (Juliette))</small>*在音樂節目獲得四個一位。
   - 《茱麗葉》*<small>(줄리엣 (Juliette))</small>* 的MV
-    女主角為[f(x)](../Page/f\(x\)_\(組合\).md "wikilink")
+    女主角為[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     [Krystal出演](../Page/鄭秀晶.md "wikilink")。
 
 ## 曲目列表

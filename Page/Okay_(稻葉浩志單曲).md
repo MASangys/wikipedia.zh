@@ -1,8 +1,8 @@
-「**Okay**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月23日發行的第](../Page/6月23日.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**Okay**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的主唱](../Page/B'z.md "wikilink")[稻葉浩志在](../Page/稻葉浩志.md "wikilink")[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月23日發行的第](../Page/6月23日.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
-  - 與前作「[Wonderland](https://zh.wikipedia.org/wiki/Wonderland "wikilink")」睽違約6年的單曲。
+  - 與前作「[Wonderland](../Page/Wonderland.md "wikilink")」睽違約6年的單曲。
   - 初回限定盤，附屬了收錄在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新墨西哥州](../Page/新墨西哥州.md "wikilink")進行拍攝的「Okay」[PV](https://zh.wikipedia.org/wiki/Music_Video "wikilink")
     DVD。初回限定盤、通常盤的唱片封面寫真雖是相同的，但唱片盒的製作有所不同。
   - 是首張無商業搭配的單曲。

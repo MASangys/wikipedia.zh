@@ -8,7 +8,7 @@ MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番�
   - 水樹於2012年的第3張單曲，距離前作TIME SPACE EP只有兩個月。
   - 歌曲「BRIGHT STREAM」是由水樹奈奈所演出的劇場版動畫《[魔法少女奈葉 The MOVIE 2nd
     A's](../Page/魔法少女奈葉_The_MOVIE_2nd_A's.md "wikilink")》的主題曲\[1\]。
-  - 這首也是在[第63回NHK紅白歌合戰中](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")，水樹演唱的曲目。
+  - 這首也是在[第63回NHK紅白歌合戰中](../Page/第63回NHK紅白歌合戰.md "wikilink")，水樹演唱的曲目。
 
 ## 主要记录
 
@@ -26,9 +26,9 @@ MINDS以来通算第三张单曲排名日间第](../Page/PHANTOM_MINDS.md "wikil
           - 劇場版動畫魔法少女奈葉 The MOVIE 2nd
             A's[主題曲](../Page/主題曲.md "wikilink")
           - 对应水树第12张单曲“[Eternal
-            Blaze](../Page/Eternal_Blaze.md "wikilink")”（原作TV版主题曲）的，情感直接的单曲。是混合了“Eternal
+            Blaze](https://zh.wikipedia.org/wiki/Eternal_Blaze "wikilink")”（原作TV版主题曲）的，情感直接的单曲。是混合了“Eternal
             Blaze”的激烈和“[Phantom
-            Minds](../Page/Phantom_Minds.md "wikilink")”（前一部剧场版主题曲）中女性的温柔，而组合而成的曲子\[3\]。
+            Minds](https://zh.wikipedia.org/wiki/Phantom_Minds "wikilink")”（前一部剧场版主题曲）中女性的温柔，而组合而成的曲子\[3\]。
           - 标题「BRIGHT STREAM」是「一束微光」的意思。和在相互的遇见中产生了光芒的2nd
             A's一样，同样因为光芒而在命运中创造了缝隙，而选择了这个名字。也因此音乐的构成中加入了钢琴，来创造流星一般闪耀的印象\[4\]。
           - 另外，在最终录音时，水树本人是以和菲特完全重合的心情来进行录制的\[5\]。
@@ -43,7 +43,7 @@ MINDS以来通算第三张单曲排名日间第](../Page/PHANTOM_MINDS.md "wikil
             A's[插曲](https://zh.wikipedia.org/wiki/插曲 "wikilink")
           - 严格而言，剧中使用的并非本曲，而是为了和剧情同步而进行过调整的延长改编版。该版本以「Sacred Force
             -Extended Mix-」名义收录于「[ROCKBOUND
-            NEIGHBORS](https://zh.wikipedia.org/wiki/ROCKBOUND_NEIGHBORS "wikilink")」中\[6\]。
+            NEIGHBORS](../Page/ROCKBOUND_NEIGHBORS.md "wikilink")」中\[6\]。
           - 据水树说是“由于所需要的能量过高，甚至会让人感到缺氧”的曲子\[7\]。
 
 ## STAFF

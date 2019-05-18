@@ -371,7 +371,7 @@ HD
 <th><p>顯示記憶體（<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>）</p></th>
 <th><p>核心時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>單精度浮點（GFLOPS）</p></th>
 <th><p>熱設計功耗<sup>3</sup> (W)</p></th>
@@ -940,7 +940,7 @@ Boost: 900</p></td>
 <th><p>顯示記憶體（<a href="../Page/Mebibyte.md" title="wikilink">MiB</a>）</p></th>
 <th><p>核心時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>單精度浮點（GFLOPS）</p></th>
 <th><p>熱設計功耗<sup>3</sup> (W)</p></th>
@@ -1110,8 +1110,7 @@ Boost: 720</p></td>
 ## 另見
 
   - [AMD顯示核心列表](../Page/AMD顯示核心列表.md "wikilink")
-  - [NVIDIA GeForce
-    700](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_700 "wikilink")
+  - [NVIDIA GeForce 700](../Page/NVIDIA_GeForce_700.md "wikilink")
 
 ## 外部連結
 

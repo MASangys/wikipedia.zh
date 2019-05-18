@@ -25,7 +25,7 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
   - 1912年（明治45年）－船塢落成啟用，公司更名為「播磨造船株式會社」。
   - 1916年（大正5年）－公司更名為「株式會社播磨造船所」（第一次）。
   - 1918年（大正7年）－公司被帝國汽船株式會社併購。與帝國汽船原有的鳥羽船廠合組公司的造船部。
-  - 1921年（大正10年）－帝國汽船將造船部出售予株式會社[神戶製鋼所](https://zh.wikipedia.org/wiki/神戶製鋼所 "wikilink")，成為神戶製鋼所旗下部門。
+  - 1921年（大正10年）－帝國汽船將造船部出售予株式會社[神戶製鋼所](../Page/神戶製鋼所.md "wikilink")，成為神戶製鋼所旗下部門。
   - 1929年（昭和4年）－播磨船廠自神戶製鋼所獨立，成立「株式會社播磨造船所」（第二次）。而同屬造船部的鳥羽電機製作所（其後的神鋼電機，現[Sinfonia科技](https://zh.wikipedia.org/wiki/Sinfonia科技 "wikilink")）則留在神戶製鋼所體制。
 
 ### 吳造船所（1945年－1968年）
@@ -47,7 +47,7 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
     United，成為子公司IHI Marine United。
   - 2003年（平成15年）－購入[新潟鐵工所原動機](https://zh.wikipedia.org/wiki/新潟鐵工所 "wikilink")（現新潟原動機）、產業機械（現[新潟運輸系統](../Page/新潟運輸系統.md "wikilink")）等業務。
   - 2006年（平成18年）－購入IHI Marine United餘下股權，令IHI Marine
-    United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲三丁目](https://zh.wikipedia.org/wiki/豐洲 "wikilink")。
+    United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲三丁目](../Page/豐洲.md "wikilink")。
   - 2007年（平成19年）－被發現與其他企業參與鐵橋工程的圍標活動，被國土交通省按[建設業法判罰停業](https://zh.wikipedia.org/wiki/建設業法 "wikilink")45天。公司更名為**株式會社IHI**（英文社名：*IHI
     Corporation*）。2006年度的年報被懷疑載有虛假資料，股份被東京證券交易所列入監察名單。
   - 2008年（平成20年）－2月9日改列入特別注意名單。
@@ -74,7 +74,7 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
   - 水雷艦：[白鷹號水雷艦](https://zh.wikipedia.org/wiki/白鷹號水雷艦 "wikilink")
   - 驅逐艦：
       - [樅型驅逐艦](https://zh.wikipedia.org/wiki/樅型驅逐艦 "wikilink")：[栂號驅逐艦](https://zh.wikipedia.org/wiki/栂號驅逐艦 "wikilink")、[薄號驅逐艦](https://zh.wikipedia.org/wiki/薄號驅逐艦 "wikilink")、[菫號驅逐艦](https://zh.wikipedia.org/wiki/菫號驅逐艦 "wikilink")、[蓬號驅逐艦](https://zh.wikipedia.org/wiki/蓬號驅逐艦 "wikilink")
-      - [若竹型驅逐艦](https://zh.wikipedia.org/wiki/若竹型驅逐艦 "wikilink")：[朝顏號驅逐艦](https://zh.wikipedia.org/wiki/朝顏號驅逐艦 "wikilink")、[夕顏號驅逐艦](https://zh.wikipedia.org/wiki/夕顏號驅逐艦 "wikilink")
+      - [若竹型驅逐艦](https://zh.wikipedia.org/wiki/若竹型驅逐艦 "wikilink")：[朝顏號驅逐艦](../Page/朝顏號驅逐艦.md "wikilink")、[夕顏號驅逐艦](../Page/夕顏號驅逐艦.md "wikilink")
       - [神風型驅逐艦
         (二代)](../Page/神風型驅逐艦_\(二代\).md "wikilink")：[疾風號驅逐艦](https://zh.wikipedia.org/wiki/疾風號驅逐艦 "wikilink")
       - [睦月型驅逐艦](../Page/睦月型驅逐艦.md "wikilink")：[卯月號驅逐艦](https://zh.wikipedia.org/wiki/卯月號驅逐艦_\(二代\) "wikilink")、[長月號驅逐艦](https://zh.wikipedia.org/wiki/長月號驅逐艦_\(二代\) "wikilink")
@@ -106,12 +106,12 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
 
 <!-- end list -->
 
-  - [IHI海洋聯合](https://zh.wikipedia.org/wiki/IHI海洋聯合 "wikilink")（橫濱）
+  - [IHI海洋聯合](../Page/IHI海洋聯合.md "wikilink")（橫濱）
 
 <!-- end list -->
 
   - [高波型護衛艦](https://zh.wikipedia.org/wiki/高波型護衛艦 "wikilink")：[高波號驅逐艦](https://zh.wikipedia.org/wiki/高波號驅逐艦_\(二代\) "wikilink")（DD-110）、[卷波號驅逐艦](https://zh.wikipedia.org/wiki/卷波號驅逐艦_\(二代\) "wikilink")（DD-112）、[鈴波號驅逐艦](https://zh.wikipedia.org/wiki/鈴波號驅逐艦 "wikilink")（DD-114）
-  - [日向級護衛艦](../Page/日向級護衛艦.md "wikilink")：[日向號護衛艦](../Page/日向號護衛艦.md "wikilink")（DDH-181）、[伊勢號護衛艦](https://zh.wikipedia.org/wiki/伊勢號護衛艦 "wikilink")（DDH-182）
+  - [日向級護衛艦](../Page/日向級護衛艦.md "wikilink")：[日向號護衛艦](../Page/日向號護衛艦.md "wikilink")（DDH-181）、[伊勢號護衛艦](../Page/伊勢號護衛艦.md "wikilink")（DDH-182）
   - 19,500噸級護衛艦：22DDH
 
 #### 政府船隻

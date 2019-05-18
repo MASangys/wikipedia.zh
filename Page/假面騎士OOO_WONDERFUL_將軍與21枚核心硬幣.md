@@ -2,8 +2,7 @@
 將軍與21枚核心硬幣**》（），是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》的獨立劇場版。日本於2011年8月6日2D與3D上映。
 
 此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")**》劇場版《**[海賊戰隊豪快者
-The Movie
-飛天幽靈船](https://zh.wikipedia.org/wiki/海賊戰隊豪快者_The_Movie_飛天幽靈船 "wikilink")**》亦同步上映。
+The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈船.md "wikilink")**》亦同步上映。
 
 ## 本作特色
 
@@ -53,7 +52,7 @@ The Movie
     因盛載普通硬幣的鐵桶與映司共同轉送至過去而無法變身Birth，以血肉之軀與後藤承受風險的利用Birth Buster發動「CELL
     Burst」及CLAWS·Sasori，破壞Gala本營城外佈下的結界。
 
-**後藤慎太郎（）**（[君嶋麻耶飾](https://zh.wikipedia.org/wiki/君嶋麻耶 "wikilink")）
+**後藤慎太郎（）**（[君嶋麻耶飾](../Page/君嶋麻耶.md "wikilink")）
 
   -
     伊達明的支援者。
@@ -84,7 +83,7 @@ The Movie
     前鴻上生體研究所的會長，現時與Greeed組織一起。
     強調自己與Gala終結世界的理念完全是兩碼子的事。
 
-**Uva（）**（[山田悠介飾](https://zh.wikipedia.org/wiki/山田悠介 "wikilink")）
+**Uva（）**（[山田悠介飾](../Page/山田悠介.md "wikilink")）
 
   -
     Greeed昆蟲系怪人。現時與真木組織一起。
@@ -102,7 +101,7 @@ The Movie
     Greeed重力系怪人。現時與真木組織一起。
     為被Gala奪去核心硬幣的事而被迫靜觀其變，故事結尾借出核心硬幣給OOO去消滅Gala。
 
-**Mezool（）**（[矢作穗香飾](https://zh.wikipedia.org/wiki/矢作穗香 "wikilink")）
+**Mezool（）**（[矢作穗香飾](../Page/矢作穗香.md "wikilink")）
 
   -
     Greeed水棲系怪人。現時與真木組織一起。
@@ -517,9 +516,9 @@ The Movie
 
   - 火野映司 / 假面騎士OOO / 假面騎士Birth - [渡部秀](../Page/渡部秀.md "wikilink") 飾/聲
   - Ankh / 泉信吾 - [三浦涼介](../Page/三浦涼介.md "wikilink") 飾/聲
-  - 泉比奈 - [高田-{里}-穗](https://zh.wikipedia.org/wiki/高田里穗 "wikilink") 飾
+  - 泉比奈 - [高田-{里}-穗](../Page/高田里穗.md "wikilink") 飾
   - 伊達明 / 假面騎士Birth - [岩永洋昭](../Page/岩永洋昭.md "wikilink") 飾/聲
-  - 後藤慎太郎 - [君嶋麻耶](https://zh.wikipedia.org/wiki/君嶋麻耶 "wikilink") 飾
+  - 後藤慎太郎 - [君嶋麻耶](../Page/君嶋麻耶.md "wikilink") 飾
   - 里中エリカ -  飾
   - 白石知世子 - 甲斐まり惠 飾
   - 鴻上光生 -  飾
@@ -528,12 +527,12 @@ The Movie
   - Gala / 若葉五月 - [酒井美紀](../Page/酒井美紀.md "wikilink") 飾
   - Bell - [荻野可鈴](../Page/荻野可鈴.md "wikilink") 飾
   - 真木清人 -  飾
-  - Uva - [山田悠介](https://zh.wikipedia.org/wiki/山田悠介 "wikilink") 飾/聲
+  - Uva - [山田悠介](../Page/山田悠介.md "wikilink") 飾/聲
   - Kazari - [橋本汰斗](../Page/橋本汰斗.md "wikilink") 飾/聲
   - Gamel - [松本博之](https://zh.wikipedia.org/wiki/松本博之 "wikilink") 飾/聲
   - Mezuru - 未來穗香 飾
   - Rocker -  飾
-  - [假面騎士GIRLS](https://zh.wikipedia.org/wiki/假面騎士GIRLS "wikilink")
+  - [假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")
   - [福本清三](../Page/福本清三.md "wikilink")
   - 如月弦太朗 / 假面騎士Fourze - [福士蒼汰](../Page/福士蒼汰.md "wikilink") 飾/聲 (特別出演)
   - 城島ユウキ - [清水富美加](../Page/清水富美加.md "wikilink") 飾 (特別出演)

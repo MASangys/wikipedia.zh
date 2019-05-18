@@ -1,4 +1,4 @@
-**岩國IC**（平假名：いわくにインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[岩國市的](../Page/岩國市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**岩國IC**（平假名：いわくにインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[岩國市的](../Page/岩國市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1988年3月29日 -
-    [山陽自動車道岩國IC至](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[大竹JCT之間開通](https://zh.wikipedia.org/wiki/大竹JCT "wikilink")，此交流道也同時啟用。
+    [山陽自動車道岩國IC至](../Page/山陽自動車道.md "wikilink")[大竹JCT之間開通](https://zh.wikipedia.org/wiki/大竹JCT "wikilink")，此交流道也同時啟用。
   - 1992年6月25日 - 山陽自動車道[熊毛IC至岩國IC之間開通](../Page/熊毛IC.md "wikilink")。
 
 ## 收費站設施
@@ -40,7 +40,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (32-2)[大野IC](https://zh.wikipedia.org/wiki/大野IC_\(廣島縣\) "wikilink")
     - (33)[大竹JCT](https://zh.wikipedia.org/wiki/大竹JCT "wikilink") -
     (34)**岩國IC** - [玖珂PA](https://zh.wikipedia.org/wiki/玖珂PA "wikilink")

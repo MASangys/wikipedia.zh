@@ -21,7 +21,7 @@ RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLIO
 
   - 《[MONSTER](../Page/MONSTER_\(B'z專輯\).md "wikilink")》 （\#1）
   - 《[B'z The Best "ULTRA
-    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》
+    Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")》
     （\#1）
 
 ## 参考文献

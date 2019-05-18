@@ -64,8 +64,7 @@ G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、
     **五之槍·薩卡胤<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink")
     聲</small>
     **六之槍·撒塔拉庫拉<small>｜**[島田敏](../Page/島田敏.md "wikilink") 聲</small>
-    **宇宙忍猿·西扎爾<small>｜**[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")
-    聲</small>
+    **宇宙忍猿·西扎爾<small>｜**[古田新太](../Page/古田新太.md "wikilink") 聲</small>
       -
         與[猿類外型相似的宇宙忍者集團](../Page/猿.md "wikilink")－**宇宙猿忍·扎爾一族**一人。使用操縱火焰的宇宙忍法。受雇於邪暗者的兩人，任務是誘拐萊娜公主進行「噬魂之儀」，卻意外遭到颶風者的阻擾。但實際上卻是為了想要知道舉行「噬魂之儀」儀式的地點，而利用著邪暗者。
     **宇宙忍猿·布力扎爾<small>｜**[村岡弘之](https://zh.wikipedia.org/wiki/村岡弘之 "wikilink")

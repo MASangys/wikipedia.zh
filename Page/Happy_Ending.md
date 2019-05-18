@@ -9,18 +9,18 @@ Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ### 主要人物
 
-  - [崔民秀](https://zh.wikipedia.org/wiki/崔民秀 "wikilink") 飾演
-    **金斗秀**（少年：[金株英](https://zh.wikipedia.org/wiki/金株英 "wikilink")）
+  - [崔民秀](../Page/崔民秀.md "wikilink") 飾演
+    **金斗秀**（少年：[金株英](../Page/金株英.md "wikilink")）
   - [沈慧珍](../Page/沈慧珍.md "wikilink") 飾演 **梁善雅**
 
 ### 斗秀和善雅家
 
   - [蘇有珍](../Page/蘇有珍.md "wikilink") 飾演 **金琴河**
   - [金素恩](https://zh.wikipedia.org/wiki/金昭誾 "wikilink") 飾演 **金恩河**
-  - [延俊錫](https://zh.wikipedia.org/wiki/延俊錫 "wikilink") 飾演 **金東河**
+  - [延俊錫](../Page/延俊錫.md "wikilink") 飾演 **金東河**
   - [朴正哲](../Page/朴正哲.md "wikilink") 飾演 **李泰平**
   - [安七炫](../Page/安七炫.md "wikilink") 飾演 **具承宰**
-  - [崔佛岩](https://zh.wikipedia.org/wiki/崔佛岩 "wikilink") 飾演 **金斗秀父**
+  - [崔佛岩](../Page/崔佛岩.md "wikilink") 飾演 **金斗秀父**
   - [張多娜](https://zh.wikipedia.org/wiki/張多娜 "wikilink") 飾演 **李志玟**
   - [趙恩德](https://zh.wikipedia.org/wiki/趙恩德 "wikilink") 飾演 **梁善美**
 

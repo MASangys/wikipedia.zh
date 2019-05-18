@@ -264,7 +264,7 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
   - [RPG-16](../Page/RPG-16.md "wikilink")
   - [RPG-18](../Page/RPG-18.md "wikilink")
   - [RPG-29](../Page/RPG-29.md "wikilink")
-  - [RPO-A大黃蜂火箭筒](https://zh.wikipedia.org/wiki/RPO-A大黃蜂火箭筒 "wikilink")
+  - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
 
 ## 參考資料
 
@@ -282,7 +282,7 @@ RPG-7的定时自毁设置为4.5秒，因此其最大射程为920米-1000米。�
     RPG-7](https://web.archive.org/web/20100914220304/http://world.guns.ru/grenade/gl02-e.htm)
   - [Ultimate Weapons Rpg 7 Military
     Channel](http://www.youtube.com/watch?v=dZnBzfhSmUU) on
-    [Youtube](../Page/Youtube.md "wikilink")
+    [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
 {{-}}
 

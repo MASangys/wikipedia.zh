@@ -284,7 +284,7 @@ Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Enterta
 <td><p>2016年</p></td>
 <td><p>2月23日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Pain</p></td>
 <td></td>
 </tr>

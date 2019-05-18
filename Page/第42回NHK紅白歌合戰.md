@@ -61,11 +61,11 @@
 <td><p>冬の華</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/永井真理子" title="wikilink">永井真理子</a>(1)</p></td>
+<td><p><a href="../Page/永井真理子.md" title="wikilink">永井真理子</a>(1)</p></td>
 <td><p>ZUTTO</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/都春美" title="wikilink">都春美</a>(23)</p></td>
+<td><p><a href="../Page/都春美.md" title="wikilink">都春美</a>(23)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -133,7 +133,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/坂本冬美" title="wikilink">坂本冬美</a>(4)</p></td>
+<td><p><a href="../Page/坂本冬美.md" title="wikilink">坂本冬美</a>(4)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -158,12 +158,12 @@
 
 ### 審査員
 
-  - [増井光子](https://zh.wikipedia.org/wiki/増井光子 "wikilink")（[多摩動物公園園長](https://zh.wikipedia.org/wiki/多摩動物公園 "wikilink")）
+  - [増井光子](https://zh.wikipedia.org/wiki/増井光子 "wikilink")（[多摩動物公園園長](../Page/多摩動物公園.md "wikilink")）
   - [山崎豊子](https://zh.wikipedia.org/wiki/山崎豊子 "wikilink")（作家）
   - [秋山幸二](https://zh.wikipedia.org/wiki/秋山幸二 "wikilink")（[西武獅外野手](https://zh.wikipedia.org/wiki/西武獅 "wikilink")）
   - 芦原すなお（作家）
   - 荻野アンナ（作家）
-  - [花田虎上](https://zh.wikipedia.org/wiki/花田虎上 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [花田虎上](../Page/花田虎上.md "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
     - 前頭）
   - [貴乃花](https://zh.wikipedia.org/wiki/貴乃花 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
     - 前頭）

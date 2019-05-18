@@ -46,10 +46,10 @@
   - 摩洛哥
       - （四軸）
   - 哈薩克
-      - [KZ8A型電力機車](https://zh.wikipedia.org/wiki/KZ8A型電力機車 "wikilink")（八軸，同時用於阿塞拜疆）
+      - [KZ8A型電力機車](../Page/KZ8A型電力機車.md "wikilink")（八軸，同時用於阿塞拜疆）
       - [KZ4AT型電力機車](https://zh.wikipedia.org/wiki/KZ4AT型電力機車 "wikilink")（四軸）
   - 印度
-      - [WAG-12型電力機車](https://zh.wikipedia.org/wiki/WAG-12型電力機車 "wikilink")（八軸）
+      - [WAG-12型電力機車](../Page/WAG-12型電力機車.md "wikilink")（八軸）
 
 ### 柴油机车
 
@@ -74,7 +74,7 @@
 ## 参见
 
   - [EuroSprinter](../Page/EuroSprinter.md "wikilink")
-  - [庞巴迪TRAXX](https://zh.wikipedia.org/wiki/庞巴迪TRAXX "wikilink")
+  - [庞巴迪TRAXX](../Page/庞巴迪TRAXX.md "wikilink")
 
 ## 外部链接
 

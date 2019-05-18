@@ -11,7 +11,7 @@ XD）是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線�
 Disney
 XD在2009年2月13日於[東部時間凌晨](https://zh.wikipedia.org/wiki/北美東部時區 "wikilink")0點整起正式發射訊號，第一個播出的節目為《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》的第1季第22集「」。該日晚間7點（東部時間），首播了首部自製影集《》，同時也播映了外購動畫《》與《[男孩和冤家貓](https://zh.wikipedia.org/wiki/男孩和冤家貓 "wikilink")》。
 
-本頻道取代了於1998年4月18日開播、以播映動畫為主的頻道「」（迪士尼卡通），而該頻道於2004年開創了以[Jetix為名的帶狀檔期](https://zh.wikipedia.org/wiki/Jetix "wikilink")；Jetix於美國海外是建立在Disney
+本頻道取代了於1998年4月18日開播、以播映動畫為主的頻道「」（迪士尼卡通），而該頻道於2004年開創了以[Jetix為名的帶狀檔期](../Page/Jetix.md "wikilink")；Jetix於美國海外是建立在Disney
 XD品牌下，並於某些國家是做為電視頻道播送，其頻道以播放Toon
 Disney的動畫為主，尤其是在「Jetix」檔期下的節目，而Jetix在Toon
 Disney終止發射後一同關閉了。與本頻道同樣以「Disney XD」為名但不相關的微型網站與媒體播放器，設立在中，而其名稱全名為「Disney
@@ -25,7 +25,7 @@ XD的節目有：《[冒險王奇克](../Page/冒險王奇克.md "wikilink")》�
 2013年7月31日，以「Disney
 Fandom」（迪士尼粉絲）為名播放了為期3天的特別節目，並以13歲（包含）以上為收視族群目標；其特別節目包含電影《[加勒比海盜系列電影](https://zh.wikipedia.org/wiki/加勒比海盜系列電影 "wikilink")》前三部曲與《[星際大戰](../Page/星際大戰.md "wikilink")》紀錄片，電視系列《》、《》、《看見迪士尼傳奇》與《[童話鎮](https://zh.wikipedia.org/wiki/童話鎮 "wikilink")》的特別集。
 
-2018年開始，由于迪士尼XD在《神秘小镇大冒险》之后持续亏损，迪士尼频道宣布在2018年会逐渐把绝大部分迪士尼XD原创剧集改为迪士尼频道原创剧集。目前已经改为迪士尼频道原创剧集的原迪士尼XD原创剧集有：《[公主闯天关](https://zh.wikipedia.org/wiki/公主闯天关 "wikilink")》，《[格林一家進城趣](https://zh.wikipedia.org/wiki/格林一家進城趣 "wikilink")》，《[新唐老鸭俱乐部](https://zh.wikipedia.org/wiki/唐老鸭俱乐部 "wikilink")》，《[米羅的莫非命運](https://zh.wikipedia.org/wiki/米羅的莫非命運 "wikilink")》和《[大英雄天團](https://zh.wikipedia.org/wiki/大英雄天團（電視劇集） "wikilink")》。
+2018年開始，由于迪士尼XD在《神秘小镇大冒险》之后持续亏损，迪士尼频道宣布在2018年会逐渐把绝大部分迪士尼XD原创剧集改为迪士尼频道原创剧集。目前已经改为迪士尼频道原创剧集的原迪士尼XD原创剧集有：《[公主闯天关](https://zh.wikipedia.org/wiki/公主闯天关 "wikilink")》，《[格林一家進城趣](https://zh.wikipedia.org/wiki/格林一家進城趣 "wikilink")》，《[新唐老鸭俱乐部](https://zh.wikipedia.org/wiki/唐老鸭俱乐部 "wikilink")》，《[米羅的莫非命運](../Page/米羅的莫非命運.md "wikilink")》和《[大英雄天團](https://zh.wikipedia.org/wiki/大英雄天團（電視劇集） "wikilink")》。
 
 ## 节目
 
@@ -38,7 +38,7 @@ XD購入了[英國影集](https://zh.wikipedia.org/wiki/英國 "wikilink")《[�
 
 ### 原創系列
 
-《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》是由迪士尼XD工作室製作，連同《[神秘小鎮大冒險](https://zh.wikipedia.org/wiki/神秘小鎮大冒險 "wikilink")》，《[宇宙小奇兵](https://zh.wikipedia.org/wiki/宇宙小奇兵 "wikilink")》都是它的長青節目。2018年由於其長時間收視率不佳的情況，目前所有仍在播出的原創動畫已經全部改為[迪士尼頻道原創劇集](../Page/迪士尼頻道.md "wikilink")。
+《[飛哥與小佛](../Page/飛哥與小佛.md "wikilink")》是由迪士尼XD工作室製作，連同《[神秘小鎮大冒險](../Page/神秘小鎮大冒險.md "wikilink")》，《[宇宙小奇兵](../Page/宇宙小奇兵.md "wikilink")》都是它的長青節目。2018年由於其長時間收視率不佳的情況，目前所有仍在播出的原創動畫已經全部改為[迪士尼頻道原創劇集](../Page/迪士尼頻道.md "wikilink")。
 
 ### 漫威在Disney XD
 
@@ -47,7 +47,7 @@ XD（原来叫漫威世界）”的带状节目。其首映为《[终极蜘蛛�
 
 ### 外購動畫
 
-迪士尼XD最重要的外購動畫，莫過是第一次有英語配音的《[多啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》了。其於2014年6月首播，主要播放2005年水田版的26集精選，另外會因應文化會對其內容、角色名字等作出修改。而《[星際大戰：反抗軍起義](https://zh.wikipedia.org/wiki/星際大戰：反抗軍起義 "wikilink")》則是迪士尼收购[盧卡斯影業後而製作的](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，同時該系列改在本台播放。
+迪士尼XD最重要的外購動畫，莫過是第一次有英語配音的《[多啦A夢](../Page/哆啦A夢_\(動畫\).md "wikilink")》了。其於2014年6月首播，主要播放2005年水田版的26集精選，另外會因應文化會對其內容、角色名字等作出修改。而《[星際大戰：反抗軍起義](../Page/星際大戰：反抗軍起義.md "wikilink")》則是迪士尼收购[盧卡斯影業後而製作的](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，同時該系列改在本台播放。
 
 ## 国际频道
 

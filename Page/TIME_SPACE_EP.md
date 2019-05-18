@@ -5,7 +5,7 @@ MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番�
 
 ## 概要
 
-前作[Synchrogazer](https://zh.wikipedia.org/wiki/Synchrogazer "wikilink")5个月以后，2012年第二张单曲，[夢幻以来首张全A面单曲](https://zh.wikipedia.org/wiki/夢幻_\(单曲\) "wikilink")。
+前作[Synchrogazer](../Page/Synchrogazer.md "wikilink")5个月以后，2012年第二张单曲，[夢幻以来首张全A面单曲](https://zh.wikipedia.org/wiki/夢幻_\(单曲\) "wikilink")。
 
 ## 主要记录
 

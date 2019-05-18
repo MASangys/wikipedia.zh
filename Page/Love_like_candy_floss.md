@@ -7,7 +7,8 @@ floss」**是[SweetS的第](https://zh.wikipedia.org/wiki/SweetS "wikilink")3張
 
 **「Love like candy
 floss」**是[日本的女子組合](../Page/日本.md "wikilink")[SweetS的第](https://zh.wikipedia.org/wiki/SweetS "wikilink")3張單曲。
-2004年2月11日に[avex traxから発売された](../Page/avex_trax.md "wikilink")。
+2004年2月11日に[avex
+traxから発売された](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [日本電視台系](../Page/日本電視台.md "wikilink")『[汐留スタイル\!](https://zh.wikipedia.org/wiki/汐留スタイル! "wikilink")』Stylish
 Play、[OK](../Page/OK便利店.md "wikilink")『デリプラスベーカリー』CM歌曲。

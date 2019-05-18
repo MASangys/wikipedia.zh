@@ -16,7 +16,7 @@ Days**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/Su
       - [富士電視台連續劇](../Page/富士電視台.md "wikilink")[BOSS第](https://zh.wikipedia.org/wiki/BOSS "wikilink")2季主題歌
       - 發行前於[YouTube公開其](../Page/YouTube.md "wikilink")[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
       - 2011年5月20日播出的《[Music
-        Station](../Page/Music_Station.md "wikilink")》，首次在電視發表此曲。
+        Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》，首次在電視發表此曲。
 
 [Category:Superfly歌曲](https://zh.wikipedia.org/wiki/Category:Superfly歌曲 "wikilink")
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")

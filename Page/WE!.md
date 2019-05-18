@@ -11,7 +11,7 @@ mobile限量銷售。
     BEST](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』也收錄。
   - 「J.S.B. is Back」，是8月4日·5日舉行的「EXILE LIVE TOUR 2007 EXILE EVOLUTION
     ～SUMMER TIME LOVE～」，與「[let it
-    go](https://zh.wikipedia.org/wiki/FREAKOUT! "wikilink")」一起被首次披露。
+    go](../Page/FREAKOUT!.md "wikilink")」一起被首次披露。
 
 ## 曲目
 
@@ -21,7 +21,7 @@ mobile限量銷售。
     （作詞・作曲：[Nao'ymt](https://zh.wikipedia.org/wiki/Nao'ymt "wikilink")）
       -
         收錄於專輯「[J Soul
-        Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")」第2首歌曲。
+        Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")」第2首歌曲。
 2.  J.S.B Is Back
       -
         收錄於專輯「J Soul Brothers」第1首歌曲。
@@ -35,7 +35,7 @@ mobile限量銷售。
 ## 收錄專輯
 
   - [J Soul
-    Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\) "wikilink")（M-1、2）
+    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（M-1、2）
 
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
 [Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")

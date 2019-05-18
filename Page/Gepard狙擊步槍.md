@@ -87,13 +87,13 @@ Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》：型号为GM6
-    Lynx，命名为“Gepard GM6
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：型号为GM6 Lynx，命名为“Gepard
+    GM6
     Lynx”，使用5发弹匣装填。为狙击手专用武器，大师级解锁，可以改装战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜、
     V2 4.6倍瞄准镜），无法改装枪口，默认自带警用神枪手二型（，簡稱：PM II）瞄准镜（游戏内被命名为施密特-本德 V2
     4.6倍瞄准镜）且拥有4.6倍变焦功能。
   - 2013年—《[-{zh-hans:使命召唤：幽灵;
-    zh-hant:決勝時刻：魅影;}-](https://zh.wikipedia.org/wiki/決勝時刻：魅影 "wikilink")》：型號為GM6
+    zh-hant:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：型號為GM6
     Lynx，被命名為“Lynx”。
   - 2013年—《[-{zh-hans:武装突袭;
     zh-hant:武裝行動;}-3](https://zh.wikipedia.org/wiki/武装突袭3 "wikilink")》（ArmA
@@ -102,13 +102,13 @@ Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki
     zh-hant:極地戰嚎;}-4](https://zh.wikipedia.org/wiki/極地戰嚎4 "wikilink")》：型號為縮短槍管版的GM6
     Lynx，改名为“SA-50”。
   - 2014年—《[-{zh-hans:使命召唤：高级战争;
-    zh-hant:決勝時刻：先進戰爭;}-](https://zh.wikipedia.org/wiki/使命召唤：高级战争 "wikilink")》：型號為GM6
+    zh-hant:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》：型號為GM6
     Lynx，被命名為“Lynx”。
   - 2018年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》：型號為GM6
     Lynx，改名为“SA-50”。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
-    zh-hant:極地戰嚎：破曉;}-](https://zh.wikipedia.org/wiki/孤岛惊魂：新曙光 "wikilink")》（Far
+    zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）：型號為GM6 Lynx。
 
 ## 參考文獻
@@ -134,17 +134,17 @@ Gepard系列的最新型號，為[半自動步槍](https://zh.wikipedia.org/wiki
   - [Istiglal](../Page/Istiglal狙擊步槍.md "wikilink")
   - [RT-20反器材步槍](../Page/RT-20反器材步槍.md "wikilink")
   - [KSVK](../Page/KSVK狙擊步槍.md "wikilink")
-  - [OSV-96](https://zh.wikipedia.org/wiki/OSV-96狙擊步槍 "wikilink")
+  - [OSV-96](../Page/OSV-96狙擊步槍.md "wikilink")
   - [精密國際AW50](../Page/精密國際AW50狙擊步槍.md "wikilink")
   - [精密國際AS50](../Page/精密國際AS50狙擊步槍.md "wikilink")
   - [精密國際AX50](../Page/精密國際AX50狙擊步槍.md "wikilink")
   - [AMR-2](https://zh.wikipedia.org/wiki/AMR-2狙擊步槍 "wikilink")
   - [DSR-50](../Page/DSR-50狙擊步槍.md "wikilink")
-  - [OM 50](https://zh.wikipedia.org/wiki/OM_50復仇女神狙擊步槍 "wikilink")
+  - [OM 50](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
   - [TAC-50](../Page/TAC-50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
-  - [Falcon](https://zh.wikipedia.org/wiki/Falcon狙擊步槍 "wikilink")
-  - [PTRD](https://zh.wikipedia.org/wiki/PTRD-41反坦克步槍 "wikilink")
+  - [Falcon](../Page/Falcon狙擊步槍.md "wikilink")
+  - [PTRD](../Page/PTRD-41反坦克步槍.md "wikilink")
   - [PTRS](https://zh.wikipedia.org/wiki/PTRS-41反坦克步槍 "wikilink")
   - [反器材步槍](../Page/反器材步槍.md "wikilink")
   - [反坦克步槍](../Page/反坦克步槍.md "wikilink")

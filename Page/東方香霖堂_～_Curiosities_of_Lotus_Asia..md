@@ -16,7 +16,7 @@
       - 古道具店「香霖堂」店主
     **登場**
       - 《東方香霖堂》（連載小說）-本作男主角
-      - 《[東方儚月抄](https://zh.wikipedia.org/wiki/東方儚月抄 "wikilink")》（四格漫畫）-鈴仙與帝前往香霖堂採購材料，後來在香霖堂避雨。
+      - 《[東方儚月抄](../Page/東方儚月抄.md "wikilink")》（四格漫畫）-鈴仙與帝前往香霖堂採購材料，後來在香霖堂避雨。
       - 《[東方三月精](../Page/東方三月精.md "wikilink")》
       - 《東方儚月抄》（連載漫畫）-第三話 咲夜到香霖堂尋找火箭發射的相關資料。
       - 《[東方星蓮船](../Page/東方星蓮船_～_Undefined_Fantastic_Object..md "wikilink")》-官方設定
@@ -348,7 +348,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="https://zh.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a></p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
 <th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
 </tr>
 </thead>

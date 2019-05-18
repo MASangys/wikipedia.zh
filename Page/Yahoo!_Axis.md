@@ -1,5 +1,5 @@
 **Yahoo\!
-Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")“[-{zh-hans:搜索;zh-hant:搜尋;}-瀏覽器](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")\[1\]”\[2\]，於2012年5月23日發布\[3\]。該瀏覽器包括iPhone、iPad版[移動瀏覽器](https://zh.wikipedia.org/wiki/移動瀏覽器 "wikilink")，和桌面端[Google
+Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")“[-{zh-hans:搜索;zh-hant:搜尋;}-瀏覽器](../Page/搜索引擎.md "wikilink")\[1\]”\[2\]，於2012年5月23日發布\[3\]。該瀏覽器包括iPhone、iPad版[移動瀏覽器](https://zh.wikipedia.org/wiki/移動瀏覽器 "wikilink")，和桌面端[Google
 Chrome](../Page/Google_Chrome.md "wikilink")、Mozilla
 [Firefox](../Page/Firefox.md "wikilink")、Microsoft Windows [Internet
 Explorer和Apple](../Page/Internet_Explorer.md "wikilink")
@@ -16,11 +16,12 @@ Axis拿掉了十餘年來以藍色[-{zh-hant:連結;zh-hans:链接;}-為主的�
 
 ### 移動瀏覽器
 
-  - 以[iOS為](../Page/iOS.md "wikilink")[移动操作系統的](../Page/行動作業系統.md "wikilink")[移动设备](../Page/移动设备.md "wikilink")\[8\]
+  - 以[iOS為](https://zh.wikipedia.org/wiki/iOS "wikilink")[移动操作系統的](../Page/行動作業系統.md "wikilink")[移动设备](../Page/移动设备.md "wikilink")\[8\]
       - [Apple](../Page/苹果.md "wikilink")
         [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")
-      - Apple [iPhone](../Page/iPhone.md "wikilink")
-      - Apple [iPod touch](../Page/iPod_touch.md "wikilink")\[9\]
+      - Apple [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
+      - Apple [iPod
+        touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")\[9\]
 
 <!-- end list -->
 
@@ -40,7 +41,7 @@ Axis拿掉了十餘年來以藍色[-{zh-hant:連結;zh-hans:链接;}-為主的�
 
   - [Yahoo\!](../Page/雅虎.md "wikilink")
       - [Yahoo\! Search](../Page/Yahoo!_Search.md "wikilink")
-  - [搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")
+  - [搜索引擎](../Page/搜索引擎.md "wikilink")
 
 ## 注釋及參考資料
 

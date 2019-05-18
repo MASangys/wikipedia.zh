@@ -3,7 +3,7 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
 
 ## 概要
 
-  - 與前作的《[Still](../Page/Still_\(FLOWER單曲\).md "wikilink")》相隔約4個月後的單曲。
+  - 與前作的《[Still](https://zh.wikipedia.org/wiki/Still_\(FLOWER單曲\) "wikilink")》相隔約4個月後的單曲。
   - 單曲以「初回生產限定盤(CD+DVD)」及「通常盤」兩種版本發售。
   - 為紀念發行今次單曲《SAKURA後悔》，FLOWER實施「FLOWER×國家櫻花協同規劃」項目。在《SAKURA後悔》的歌詞中，製作一個結合日本各地景點的特殊版本，並只能在「SAKURA後悔」特設網站聽到音源。
 

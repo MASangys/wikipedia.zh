@@ -1,5 +1,5 @@
 《**Girls
-Forever**》（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的第三弹日语原作專輯](../Page/KARA.md "wikilink")，于2012年11月14日由[UNIVERSAL
+Forever**》（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的第三弹日语原作專輯](https://zh.wikipedia.org/wiki/KARA "wikilink")，于2012年11月14日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本
@@ -70,7 +70,7 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 3.  Girls Power (Music Video Clip -Close-Up Ver.-)（）
 4.  CM collection （）
 5.  [KARA 1st JAPAN TOUR 2012
-    KARASIA](https://zh.wikipedia.org/wiki/KARA_1st_JAPAN_TOUR_2012_KARASIA "wikilink")
+    KARASIA](../Page/KARA_1st_JAPAN_TOUR_2012_KARASIA.md "wikilink")
     （VTR video making）（）
 6.  Girls Forever （Artwork shooting Making）（）
 

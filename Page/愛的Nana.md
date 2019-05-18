@@ -11,7 +11,7 @@
 | 歌名      | 執導                                                       |
 | ------- | -------------------------------------------------------- |
 | Nana    | [徐仁峰](https://zh.wikipedia.org/wiki/徐仁峰 "wikilink")      |
-| 游泳的魚    | [陳宏一](https://zh.wikipedia.org/wiki/陳宏一 "wikilink")      |
+| 游泳的魚    | [陳宏一](../Page/陳宏一.md "wikilink")                         |
 | 我不要聽見   | 徐仁峰                                                      |
 | 不要笑我是傻瓜 | \-{[于中中](https://zh.wikipedia.org/wiki/于中中 "wikilink")}- |
 | 你愛的人    |                                                          |

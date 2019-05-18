@@ -16,7 +16,7 @@ AKIHABARA」商店前進行整理票的配布，可以用抽籤觀賞。觀賞�
 ### 固定班底
 
   - [AKB48](../Page/AKB48.md "wikilink")
-  - AKB48姊妹團體：[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](https://zh.wikipedia.org/wiki/NGT48 "wikilink")
+  - AKB48姊妹團體：[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")
 
 ### 主持
 

@@ -80,7 +80,7 @@ G2](https://zh.wikipedia.org/wiki/Socket_G2 "wikilink")、[BGA
 ## CPUID和步進
 
 幾乎所有的Sandy Bridge微架構的單核、雙核甚至是四核的處理器都使用了同樣為 0206A7h
-的[CPUID](https://zh.wikipedia.org/wiki/CPUID "wikilink")\[9\]。這些資訊使得不能由CPUID直接識別處理器型號，但仍可以透過PCI配置空間來識別。後來極致效能/[伺服器平台的Sandy](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
+的[CPUID](../Page/CPUID.md "wikilink")\[9\]。這些資訊使得不能由CPUID直接識別處理器型號，但仍可以透過PCI配置空間來識別。後來極致效能/[伺服器平台的Sandy](https://zh.wikipedia.org/wiki/伺服器 "wikilink")
 Bridge-E，最高可達八核心十六執行緒，無整合顯示核心的處理器則使用 0206D6h 和 0206D7h
 的CPUID。\[10\]詳細的資訊如列表所示：
 
@@ -203,7 +203,7 @@ L3快取容量</p></th>
     Sandy Bridge與Intel
     Nehalem的效能落差相對小得多。由於[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[Bulldozer微架構遲遲未能推出](../Page/AMD_Bulldozer.md "wikilink")，加之原來的[K10.5架構日漸老舊以及Bulldozer微架構推出後其效能表現不佳](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")，使Intel
     Sandy
-    Bridge的高階型號的處理器在[x86處理器領域幾近毫無對手](../Page/x86.md "wikilink")（但是相對於整個處理器領域，目前仍落後於不少大型[精簡指令集體系的處理器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，如
+    Bridge的高階型號的處理器在[x86處理器領域幾近毫無對手](https://zh.wikipedia.org/wiki/x86 "wikilink")（但是相對於整個處理器領域，目前仍落後於不少大型[精簡指令集體系的處理器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，如
     [IBM POWER 7](../Page/IBM_POWER.md "wikilink")）。
 
 <!-- end list -->
@@ -273,8 +273,8 @@ Bridge以及Ivy Bridge。
 
 ## 參見
 
-  - [x86](../Page/x86.md "wikilink")
-  - [x86-64](../Page/x86-64.md "wikilink")
+  - [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")
+  - [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")
   - [Intel P5](https://zh.wikipedia.org/wiki/Intel_P5 "wikilink")
   - [Intel P6](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")
   - [Intel

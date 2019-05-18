@@ -6,7 +6,7 @@ RS-1型柴油机车是美国第一种按照[干线调车机车形式设计的多
 ## 参看
 
   - [RSC-1型柴油机车](https://zh.wikipedia.org/wiki/RSC-1型柴油机车 "wikilink")
-  - [RSD-1型柴油机车](https://zh.wikipedia.org/wiki/RSD-1型柴油机车 "wikilink")
+  - [RSD-1型柴油机车](../Page/RSD-1型柴油机车.md "wikilink")
 
 ## 外部链接
 

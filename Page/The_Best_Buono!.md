@@ -113,7 +113,7 @@ Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono
     （作詞：岩里祐穂、作曲・編曲：井上慎二郎）
       -
         5th單曲「Lotta Love Lotta Love」c/w曲。
-6.  **[無敵的∞Power](../Page/co·no·mi·chi.md "wikilink")**
+6.  **[無敵的∞Power](https://zh.wikipedia.org/wiki/co·no·mi·chi "wikilink")**
     （作詞：川上夏季、作曲：[オオヤギヒロオ](https://zh.wikipedia.org/wiki/オオヤギヒロオ "wikilink")、編曲：木之下慶行）
       -
         6th單曲「co·no·mi·chi」c/w曲。

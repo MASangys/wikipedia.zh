@@ -3,7 +3,7 @@ Tales開發的[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")[动作�
 3](../Page/PlayStation_3.md "wikilink")、[PlayStation
 Vita](../Page/PlayStation_Vita.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Microsoft
-Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]\[2\]\[3\]。游戏是《[樂高蝙蝠俠](https://zh.wikipedia.org/wiki/樂高蝙蝠俠 "wikilink")》的续作；後繼作品《[乐高蝙蝠侠3：飞越高谭市](https://zh.wikipedia.org/wiki/乐高蝙蝠侠3：飞越高谭市 "wikilink")》將於2014年推出。
+Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]\[2\]\[3\]。游戏是《[樂高蝙蝠俠](https://zh.wikipedia.org/wiki/樂高蝙蝠俠 "wikilink")》的续作；後繼作品《[乐高蝙蝠侠3：飞越高谭市](../Page/乐高蝙蝠侠3：飞越高谭市.md "wikilink")》將於2014年推出。
 
 ## 遊戲系統
 
@@ -16,7 +16,7 @@ City）為版圖的開放式世界，主線劇情共分作16個關卡，於任�
 
 [高譚市年度人物選舉由](../Page/高譚市.md "wikilink")[布魯斯·韋恩](https://zh.wikipedia.org/wiki/布魯斯·韋恩 "wikilink")（Bruce
 Wayne）勝出而[雷克斯·路瑟](../Page/雷克斯·路瑟.md "wikilink")（Lex
-Luthor）屈居第二，會場突然受[企鵝人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")（Penguin）、[謎語人](../Page/謎語人.md "wikilink")（Riddler）、[哈莉·奎茵](https://zh.wikipedia.org/wiki/哈莉·奎茵 "wikilink")（Harley
+Luthor）屈居第二，會場突然受[企鵝人](https://zh.wikipedia.org/wiki/企鵝人 "wikilink")（Penguin）、[謎語人](../Page/謎語人.md "wikilink")（Riddler）、[哈莉·奎茵](../Page/哈莉·奎茵.md "wikilink")（Harley
 Quinn）、[雙面人](https://zh.wikipedia.org/wiki/雙面人 "wikilink")（Two-Face）及[小丑](../Page/小丑.md "wikilink")（Joker）襲擊，布魯斯換裝變成蝙蝠俠後與[羅賓](../Page/羅賓.md "wikilink")（Robin）擊敗了眾人並把小丑送進[阿卡漢精神病院](https://zh.wikipedia.org/wiki/阿卡漢精神病院 "wikilink")（Arkham
 Asylum）。雷克斯帶著其新發明、由[氪石驅動之](https://zh.wikipedia.org/wiki/氪石 "wikilink")「解體槍」（The
 Deconstructor）劫獄，所有罪犯包括小丑逃離了精神病院，蝙蝠俠與羅賓趕至並在捕回部分罪犯後發現瓦礫上帶有雷克斯之解體槍殘餘能量。
@@ -33,7 +33,7 @@ Flash）協助下阻止了大樓倒塌、毀滅了機械人並把小丑與雷克
 ## 评价
 
 游戏受到了媒体的好评。[IGN为游戏打了](../Page/IGN.md "wikilink")8.5分，并称赞了其精致的游戏设定、故事和有特色的配音，同时其也批评了游戏的开放世界有一些小烦恼\[4\]。[Game
-Informer为游戏打了](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")8.25分\[5\]。游戏Xbox
+Informer为游戏打了](../Page/Game_Informer.md "wikilink")8.25分\[5\]。游戏Xbox
 360版在[Metacritic的汇总得分为](../Page/Metacritic.md "wikilink")79%\[6\]，而PlayStation
 3版为87%\[7\]。[Digital
 Spy的安德鲁](https://zh.wikipedia.org/wiki/Digital_Spy "wikilink")·劳克林称《乐高蝙蝠侠2：DC超级英雄》是最好的乐高游戏，游戏的新功能和原创故事值得钦佩\[8\]。
@@ -46,7 +46,7 @@ Spy的安德鲁](https://zh.wikipedia.org/wiki/Digital_Spy "wikilink")·劳克�
     Lego.com](http://videogames.lego.com/en-us/LEGOBatman2DCSuperHeroes/AboutTheGame/Movies/Default.aspx)
 
   - [*Lego Batman 2: DC Super Heroes* at [Feral
-    Interactive](https://zh.wikipedia.org/wiki/Feral_Interactive "wikilink")](http://www.feralinteractive.com/en/mac-games/legobatman2/)
+    Interactive](../Page/Feral_Interactive.md "wikilink")](http://www.feralinteractive.com/en/mac-games/legobatman2/)
 
   -
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")

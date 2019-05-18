@@ -1,4 +1,4 @@
-**倉敷IC**（平假名：くらしきインターチェンジ）是位於[岡山縣](../Page/岡山縣.md "wikilink")[倉敷市的](../Page/倉敷市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**倉敷IC**（平假名：くらしきインターチェンジ）是位於[岡山縣](../Page/岡山縣.md "wikilink")[倉敷市的](../Page/倉敷市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1988年3月1日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[福山東IC至](https://zh.wikipedia.org/wiki/福山東IC "wikilink")[倉敷JCT之間](https://zh.wikipedia.org/wiki/倉敷JCT "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[福山東IC至](https://zh.wikipedia.org/wiki/福山東IC "wikilink")[倉敷JCT之間](https://zh.wikipedia.org/wiki/倉敷JCT "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -33,7 +33,7 @@
   - [JR](../Page/西日本旅客鐵道.md "wikilink")[倉敷站](../Page/倉敷站.md "wikilink")
   - [Ario倉敷](https://zh.wikipedia.org/wiki/Ario倉敷 "wikilink")
   - [三井暢貨中心公園倉敷](https://zh.wikipedia.org/wiki/三井暢貨中心公園倉敷 "wikilink")
-  - [美觀地區](https://zh.wikipedia.org/wiki/倉敷美觀地區 "wikilink")
+  - [美觀地區](../Page/倉敷美觀地區.md "wikilink")
   - [AEON倉敷購物廣場](https://zh.wikipedia.org/wiki/AEON倉敷購物廣場 "wikilink")
   - [大原美術館](https://zh.wikipedia.org/wiki/大原美術館 "wikilink")
   - 倉敷運動公園
@@ -41,7 +41,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (14)[岡山IC](https://zh.wikipedia.org/wiki/岡山IC "wikilink") -
     (14-1)[吉備SA/SIC](https://zh.wikipedia.org/wiki/吉備SA "wikilink")
     - (15)[岡山JCT](https://zh.wikipedia.org/wiki/岡山JCT "wikilink") -

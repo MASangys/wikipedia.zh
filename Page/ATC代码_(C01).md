@@ -323,8 +323,7 @@
     [替拉西嗪](https://zh.wikipedia.org/wiki/替拉西嗪 "wikilink")（Tiracizine）
     C01EB13
     [阿卡地新](https://zh.wikipedia.org/wiki/阿卡地新 "wikilink")（Acadesine）
-    C01EB15
-    [曲美他嗪](https://zh.wikipedia.org/wiki/曲美他嗪 "wikilink")（Trimetazidine）
+    C01EB15 [曲美他嗪](../Page/曲美他嗪.md "wikilink")（Trimetazidine）
     C01EB16 [布洛芬](../Page/布洛芬.md "wikilink")（Ibuprofen）
     C01EB17
     [伊伐雷定](https://zh.wikipedia.org/wiki/伊伐雷定 "wikilink")（Ivabradine）

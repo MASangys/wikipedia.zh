@@ -59,11 +59,11 @@
 
 ### （孙权军）
 
-  - [孙权](../Page/孙权.md "wikilink")**（声：[森功至](https://zh.wikipedia.org/wiki/森功至 "wikilink")）**-字仲谋，江东牧及[东吴开国皇帝](https://zh.wikipedia.org/wiki/东吴 "wikilink")。在赤壁之战和刘备一同对抗曹操，后来和刘备反目成仇，成为三国之一霸主。
+  - [孙权](../Page/孙权.md "wikilink")**（声：[森功至](../Page/森功至.md "wikilink")）**-字仲谋，江东牧及[东吴开国皇帝](https://zh.wikipedia.org/wiki/东吴 "wikilink")。在赤壁之战和刘备一同对抗曹操，后来和刘备反目成仇，成为三国之一霸主。
   - 孙丽**（声：[野村惠里](https://zh.wikipedia.org/wiki/野村惠里 "wikilink")）**-原名[孙尚香](https://zh.wikipedia.org/wiki/孙尚香 "wikilink")，是孙权的妹妹，也是刘备的妻子之一。
   - [周瑜](../Page/周瑜.md "wikilink")**（声：[速水奨](https://zh.wikipedia.org/wiki/速水奨 "wikilink")）**-字公瑾，孙权的军师，人称周郎。在赤壁之战和诸葛亮一起联合击败曹操，后来和诸葛亮成为敌友。
   - [鲁肃](../Page/鲁肃.md "wikilink")**（声：[田中秀幸](../Page/田中秀幸.md "wikilink")）**-字子敬，孙权的副军师，为人中立，是稳定派军师型。
-  - [吕蒙](../Page/吕蒙.md "wikilink")**（声：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")）**-字子明，孙权配下大将之一，具有文武活跃一面。
+  - [吕蒙](../Page/吕蒙.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字子明，孙权配下大将之一，具有文武活跃一面。
   - [甘宁](../Page/甘宁.md "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字兴霸，江东海贼及[黄祖配下大将](https://zh.wikipedia.org/wiki/黄祖 "wikilink")，后来投靠孙权军。
   - [陆逊](https://zh.wikipedia.org/wiki/陆逊 "wikilink")**（声：[徳山靖彦](https://zh.wikipedia.org/wiki/徳山靖彦 "wikilink")）**-字伯言，周瑜病逝后，继承军师之职。
   - [太史慈](../Page/太史慈.md "wikilink")**（声：[古川登志夫](../Page/古川登志夫.md "wikilink")）**-字子义，曾担任过[刘谣](https://zh.wikipedia.org/wiki/刘谣 "wikilink")、[孔融和](../Page/孔融.md "wikilink")[孙策的大将](../Page/孙策.md "wikilink")，是孙权配下大将之一。
@@ -72,7 +72,7 @@
 
   - [貂蝉](../Page/貂蝉.md "wikilink")**（声：[中山亚微梨](https://zh.wikipedia.org/wiki/中山亚微梨 "wikilink")）**-刘备的爱人，受[汉献帝之托秘藏汉王朝的玉玺](../Page/汉献帝.md "wikilink")。被曹操抢占，关押在许昌。
   - [汉献帝](../Page/汉献帝.md "wikilink")**（声：[菅沼久义](https://zh.wikipedia.org/wiki/菅沼久义 "wikilink")）**-原名[刘协](https://zh.wikipedia.org/wiki/刘协 "wikilink")，东汉王朝最后一位皇帝。
-  - [蔡瑁](../Page/蔡瑁.md "wikilink")**（声：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")）**-字德圭，刘表的妻子蔡夫人的兄长，刘氏一族。对水上战具有活跃一面，刘表死后投降曹操，后来受到诸葛亮的要求便加入刘备军。
+  - [蔡瑁](../Page/蔡瑁.md "wikilink")**（声：[田中一成](../Page/田中一成.md "wikilink")）**-字德圭，刘表的妻子蔡夫人的兄长，刘氏一族。对水上战具有活跃一面，刘表死后投降曹操，后来受到诸葛亮的要求便加入刘备军。
   - [刘璋](https://zh.wikipedia.org/wiki/刘璋 "wikilink")**（声：[大场真人](https://zh.wikipedia.org/wiki/大场真人 "wikilink")）**-字季玉，益州牧及益州王，刘焉之子。是汉室宗亲，刘备的外甥。为了益州江山而与刘备作战到底。
   - [张任](https://zh.wikipedia.org/wiki/张任 "wikilink")**（声：[吉水孝宏](../Page/吉水孝宏.md "wikilink")）**-刘璋配下大将。
   - 吴偉**（声：[塩川亮介](https://zh.wikipedia.org/wiki/塩川亮介 "wikilink")）**-原名[吴懿](https://zh.wikipedia.org/wiki/吴懿 "wikilink"),字子辽，刘璋配下大将。

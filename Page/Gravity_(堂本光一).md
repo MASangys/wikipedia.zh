@@ -7,7 +7,7 @@
 若以堂本光一名義發行之作品來說（不包含舞台劇原聲帶及[米壽司名義](../Page/No_more.md "wikilink")），此張專輯有別於以往的創作專輯，是首次並非皆由本人親自作曲，反而以國內外音樂人提供之樂曲為主，堂本光一表示，就如同自己受到這些音樂人創作的歌曲吸引一般，希望也能透過專輯、透過這些樂曲來吸引更多的聽眾，因此將專輯名稱取為「Gravity」(意指：引力)。\[1\]同時主打歌「Danger
 Zone ～to the unknown
 world～」邀來曾為[麥可傑克森](https://zh.wikipedia.org/wiki/麥可傑克森 "wikilink")、[LADY
-GAGA編舞的Travis](../Page/LADY_GAGA.md "wikilink")
+GAGA編舞的Travis](https://zh.wikipedia.org/wiki/LADY_GAGA "wikilink")
 Payne負責編排，舞蹈方面更加強烈，企圖打造不同以往的音樂世界。
 
 儘管以外界提供的歌曲為主打，這張專輯仍然收錄了「Fallen Angel」與「LOVE CRIES」兩首堂本光一的個人創作。

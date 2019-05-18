@@ -3,7 +3,7 @@
 
 ## 历史
 
-OpenFOAM的早期开发始于1980年代末期的[伦敦帝国学院](../Page/伦敦帝国学院.md "wikilink")，其目标是为了编写一个相对于当时事实上的标准，[FORTRAN](../Page/FORTRAN.md "wikilink")，更为强大和灵活的通用模拟计算平台。并且因此选择了拥有高度[模块化和](https://zh.wikipedia.org/wiki/模組_\(程式設計\) "wikilink")[面向对象特性的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[C++作为其编程语言](../Page/C++.md "wikilink")。在2004年OpenFOAM以开源方式发布之前，英国Nabla有限公司曾销售过FOAM，OpenFOAM的前身。\[2\]2011年8月15日，[OpenCFD宣布它被](https://zh.wikipedia.org/wiki/OpenCFD "wikilink")[硅谷图形公司(SGI)收购](../Page/硅谷图形公司.md "wikilink")。\[3\]
+OpenFOAM的早期开发始于1980年代末期的[伦敦帝国学院](../Page/伦敦帝国学院.md "wikilink")，其目标是为了编写一个相对于当时事实上的标准，[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")，更为强大和灵活的通用模拟计算平台。并且因此选择了拥有高度[模块化和](https://zh.wikipedia.org/wiki/模組_\(程式設計\) "wikilink")[面向对象特性的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[C++作为其编程语言](../Page/C++.md "wikilink")。在2004年OpenFOAM以开源方式发布之前，英国Nabla有限公司曾销售过FOAM，OpenFOAM的前身。\[2\]2011年8月15日，[OpenCFD宣布它被](https://zh.wikipedia.org/wiki/OpenCFD "wikilink")[硅谷图形公司(SGI)收购](../Page/硅谷图形公司.md "wikilink")。\[3\]
 
 OpenFOAM是最早的用C++写成的重要科学计算软件包之一。现已成为使用多面体网格的最主要的通用[计算流体力学(CFD)软件](../Page/计算流体力学.md "wikilink").
 

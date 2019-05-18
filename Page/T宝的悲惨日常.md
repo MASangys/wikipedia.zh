@@ -53,7 +53,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 
   -
     第二季第一話登場，在超市促銷鹼性電池。2013年秋番動畫《[單色小姐 -The
-    Animation-](https://zh.wikipedia.org/wiki/單色小姐_-The_Animation- "wikilink")》的主角。
+    Animation-](../Page/單色小姐_-The_Animation-.md "wikilink")》的主角。
 
 <!-- end list -->
 
@@ -63,18 +63,18 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <!-- end list -->
 
   -
-    第二季第四話在開場與結尾時客串出現。2013年春番動畫《[黑色嘉年華](https://zh.wikipedia.org/wiki/黑色嘉年華 "wikilink")》的男主角之一。
+    第二季第四話在開場與結尾時客串出現。2013年春番動畫《[黑色嘉年華](../Page/黑色嘉年華.md "wikilink")》的男主角之一。
 
 <!-- end list -->
 
   -
-    第二季第四話在結尾時客串出現。2013年春番動畫《[黑色嘉年華](https://zh.wikipedia.org/wiki/黑色嘉年華 "wikilink")》的女主角之一。
+    第二季第四話在結尾時客串出現。2013年春番動畫《[黑色嘉年華](../Page/黑色嘉年華.md "wikilink")》的女主角之一。
 
 <!-- end list -->
 
   -
     第二季第五話開場登場，2013年秋番動畫《[KILL la
-    KILL](https://zh.wikipedia.org/wiki/KILL_la_KILL "wikilink")》的主角之一。
+    KILL](../Page/KILL_la_KILL.md "wikilink")》的主角之一。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 
 ## 書籍
 
-兩本同名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《T宝的悲惨日常》（）由[星海社于](https://zh.wikipedia.org/wiki/星海社 "wikilink")2012年9月10日至2013年11月7日出版。\[2\]\[3\]
+兩本同名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《T宝的悲惨日常》（）由[星海社于](../Page/星海社.md "wikilink")2012年9月10日至2013年11月7日出版。\[2\]\[3\]
 
 ## 电视动画
 
@@ -120,18 +120,17 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 
 ### 工作人员
 
-  - 原作、人物原案 -
-    宇佐義大（うーさーのその日暮らし／[星海社刊](https://zh.wikipedia.org/wiki/星海社 "wikilink")）
+  - 原作、人物原案 - 宇佐義大（うーさーのその日暮らし／[星海社刊](../Page/星海社.md "wikilink")）
   - 人物设定 - ふじのきともこ
   - 人物原案協力 - CHAN×CO、久世、えいひ、ajipo、カトゆー
   - 監督 -
     [山田豐德](https://zh.wikipedia.org/wiki/山田豐德 "wikilink")（第1季）→[瀨藤健嗣](https://zh.wikipedia.org/wiki/瀨藤健嗣 "wikilink")（第2季）
   - 系列構成、劇本 - [筆安一幸](../Page/筆安一幸.md "wikilink")（第1季）→宇佐義大、中村能子（第2季）
-  - OP/ED演出 - [山本沙代](https://zh.wikipedia.org/wiki/山本沙代 "wikilink")
+  - OP/ED演出 - [山本沙代](../Page/山本沙代.md "wikilink")
   - 音響監督 - 小泉紀介
   - 音樂 - 若田部誠、坂部大介
   - 动画製作 -
-    [LIDENFILMS](https://zh.wikipedia.org/wiki/LIDENFILMS "wikilink")、[三次元](https://zh.wikipedia.org/wiki/三次元_\(動畫製作公司\) "wikilink")
+    [LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
   - 製作 - Project wooser
 
 ### 主題曲
@@ -145,7 +144,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
       -
         作詞、作曲 -
         ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")）／歌
-        - [Tia](https://zh.wikipedia.org/wiki/Tia "wikilink")
+        - [Tia](../Page/Tia.md "wikilink")
 
   - 第2期
 
@@ -160,7 +159,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
       -
         作詞・作曲 -
         ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")）
-        / 歌 - [Tia](https://zh.wikipedia.org/wiki/Tia "wikilink")
+        / 歌 - [Tia](../Page/Tia.md "wikilink")
 
 ### 各集列表
 
@@ -209,7 +208,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <td><p>山田豐德<br />
 千葉高雪<br />
 kapu</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三輪士郎" title="wikilink">三輪士郎</a></p></td>
+<td><p><a href="../Page/三輪士郎.md" title="wikilink">三輪士郎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -237,7 +236,7 @@ kapu</p></td>
 <td><p>海與泳裝與兔寶</p></td>
 <td><p>山田豐德<br />
 國分寺祭</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平田雄三" title="wikilink">平田雄三</a>（插畫）<br />
+<td><p><a href="../Page/平田雄三.md" title="wikilink">平田雄三</a>（插畫）<br />
 水卷美雪（繪畫）<br />
 大澤春香（背景）</p></td>
 <td></td>
@@ -268,7 +267,7 @@ kapu</p></td>
 關谷真實子<br />
 kapu</p></td>
 <td><p>高井里沙</p></td>
-<td><p><a href="../Page/huke.md" title="wikilink">huke</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/huke" title="wikilink">huke</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第10話</p></td>
@@ -325,7 +324,7 @@ kapu</p></td>
 <td></td>
 <td><p>正義 〜孤獨的戰鬥、向媽媽誓言要取勝、以平手為目的的T寶～</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ark_Performance" title="wikilink">Ark Performance</a></p></td>
+<td><p><a href="../Page/Ark_Performance.md" title="wikilink">Ark Performance</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

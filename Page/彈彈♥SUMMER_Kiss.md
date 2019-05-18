@@ -1,10 +1,10 @@
 《**彈彈♥SUMMER
 Kiss**》（）是[SUPER☆GiRLS的第](../Page/SUPER☆GiRLS.md "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月4日由[iDOL
-Street发售](../Page/iDOL_Street.md "wikilink")。
+Street发售](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
-與前作《[1,000,000☆微笑](https://zh.wikipedia.org/wiki/1,000,000☆微笑 "wikilink")》相隔3個月发售。表題曲《彈彈♥SUMMER
+與前作《[1,000,000☆微笑](../Page/1,000,000☆微笑.md "wikilink")》相隔3個月发售。表題曲《彈彈♥SUMMER
 Kiss》的[音樂影片在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[塞班島拍攝](https://zh.wikipedia.org/wiki/塞班島 "wikilink")。
 
 ## 收錄曲

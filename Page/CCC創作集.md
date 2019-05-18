@@ -37,8 +37,7 @@ Comic Collection
   - 〈山海經繪卷〉 畫/ [Loiza](https://zh.wikipedia.org/wiki/Loiza "wikilink")
   - 〈末代皇后婉容〉 畫/ [LuLu](https://zh.wikipedia.org/wiki/LuLu "wikilink")
     (初版)
-  - 〈Fishes live in TAIWAN〉 畫/
-    [蚩尤](https://zh.wikipedia.org/wiki/蚩尤_\(插畫家\) "wikilink")
+  - 〈Fishes live in TAIWAN〉 畫/ [蚩尤](../Page/蚩尤_\(插畫家\).md "wikilink")
     (初版)
   - 〈露曼露沙〉 畫/
     [camille](https://zh.wikipedia.org/wiki/camille "wikilink") 作/ 出谷司馬
@@ -160,7 +159,7 @@ Comic Collection
   - 〈新說‧矮靈傳說〉 畫/ 咖哩東
   - 〈物魂〉 畫/ [CHING](https://zh.wikipedia.org/wiki/CHING "wikilink")
   - 〈陰陽堂-仙草花開時〉 畫/ BAKUNOYA爆野家
-  - 〈森榮歲月 （上）〉 畫/ [阮光民](https://zh.wikipedia.org/wiki/阮光民 "wikilink")
+  - 〈森榮歲月 （上）〉 畫/ [阮光民](../Page/阮光民.md "wikilink")
 
 <!-- end list -->
 
@@ -194,7 +193,7 @@ Comic Collection
   - 〈模x墨物語〉 畫/ LONLON
   - 〈龍泉俠大戰謎霧人〉 畫/ 漢寶包 (蕭乃中)
   - 〈南國歐帕茲（中）〉 畫/ 古怪KoKai
-  - 〈悲傷彈塗淚〉 畫/ -{[李隆杰](https://zh.wikipedia.org/wiki/李隆杰 "wikilink")}-
+  - 〈悲傷彈塗淚〉 畫/ -{[李隆杰](../Page/李隆杰.md "wikilink")}-
   - 〈深海更多浬〉 畫/ 咖哩東
 
 <!-- end list -->
@@ -273,7 +272,7 @@ Comic Collection
 <!-- end list -->
 
   - 〈彩畫-異地足跡〉 畫/ NIN、氫酸鉀、lyrince、A士
-  - 〈M型環遊世界〉 畫/ [米奇鰻](https://zh.wikipedia.org/wiki/米奇鰻 "wikilink")
+  - 〈M型環遊世界〉 畫/ [米奇鰻](../Page/米奇鰻.md "wikilink")
   - 〈南十字☆打工渡假〉 畫/ 咖哩東
   - 〈到八重山去 〉 畫/ [顏惟萱](https://zh.wikipedia.org/wiki/顏惟萱 "wikilink")
   - 〈同盟學園 Assassin〉 畫/ KoKai
@@ -536,8 +535,7 @@ Comic Collection
 
 <!-- end list -->
 
-  - 《[方舟奇航](https://zh.wikipedia.org/wiki/方舟奇航 "wikilink") ARK SAGA》彭傑
-    收錄CCC4〈瑪麗亞〉。
+  - 《[方舟奇航](../Page/方舟奇航.md "wikilink") ARK SAGA》彭傑 收錄CCC4〈瑪麗亞〉。
 
 <!-- end list -->
 

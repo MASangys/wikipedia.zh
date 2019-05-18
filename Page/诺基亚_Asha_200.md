@@ -1,5 +1,5 @@
 **诺基亚 Asha 200**（中国大陆官方称**诺基亚
-2000**）是[诺基亚推出的一款](../Page/诺基亚.md "wikilink")[Asha系列的非](https://zh.wikipedia.org/wiki/诺基亚Asha系列 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，使用[Series
+2000**）是[诺基亚推出的一款](../Page/诺基亚.md "wikilink")[Asha系列的非](../Page/诺基亚Asha系列.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，使用[Series
 40 开发者平台1.1和](../Page/Series_40.md "wikilink")[Nokia
 OS系统](../Page/Nokia_OS.md "wikilink")，并且支持双卡以及轻松切换。
 

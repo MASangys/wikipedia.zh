@@ -1,4 +1,4 @@
-**大洲肱南IC**（平假名：おおずこうなんインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[大洲市的](../Page/大洲市.md "wikilink")[大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
+**大洲肱南IC**（平假名：おおずこうなんインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[大洲市的](../Page/大洲市.md "wikilink")[大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](../Page/松山自動車道.md "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -22,7 +22,7 @@
 
 ## 鄰近設施
 
-  - [大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")）
+  - [大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](../Page/松山自動車道.md "wikilink")）
     (18)[大洲富士IC](https://zh.wikipedia.org/wiki/大洲富士IC "wikilink") -
     (19)**大洲肱南IC** - (20)[大洲南IC](../Page/大洲南IC.md "wikilink")
 

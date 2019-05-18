@@ -9,7 +9,7 @@ Dekker）所著作的一篇名為《黃金夢鄉》（Golden
 Slumbers）的搖籃詩集樂譜。而當時麥卡尼看了內容之後覺得在音樂部份寫得不是很清楚，便隨興自己做出一篇關於從此詩集想到的音樂。\[1\]\[2\]
 
 《Golden Slumbers》在被收錄的專輯《艾比路》中，與另一首歌曲《[Carry That
-Weight](https://zh.wikipedia.org/wiki/Carry_That_Weight "wikilink")》是曲風可連結一貫的作品。而披頭四成員[約翰·藍儂在這首歌錄製前因車禍受傷而缺席](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")。\[3\]
+Weight](../Page/Carry_That_Weight.md "wikilink")》是曲風可連結一貫的作品。而披頭四成員[約翰·藍儂在這首歌錄製前因車禍受傷而缺席](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")。\[3\]
 
 ## 演奏成員
 

@@ -11,9 +11,8 @@ Ring一起是[德国最大的音乐节盛会](../Page/德国.md "wikilink")，�
 I Lay
 Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"),
 [Anthrax](https://zh.wikipedia.org/wiki/Anthrax_\(band\) "wikilink"),
-[Awolnation](https://zh.wikipedia.org/wiki/Awolnation "wikilink"),
-[Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"),
-[Crystal
+[Awolnation](../Page/Awolnation.md "wikilink"), [Billy
+Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Crystal
 Castles](https://zh.wikipedia.org/wiki/Crystal_Castles_\(band\) "wikilink"),
 [Deichkind](https://zh.wikipedia.org/wiki/Deichkind "wikilink"),
 [DevilDriver](https://zh.wikipedia.org/wiki/DevilDriver "wikilink"),
@@ -117,8 +116,7 @@ Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [The
 Killers](https://zh.wikipedia.org/wiki/The_Killers "wikilink"),
 [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink") and
 [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink").
-Other bands included
-[2raumwohnung](https://zh.wikipedia.org/wiki/2raumwohnung "wikilink"),
+Other bands included [2raumwohnung](../Page/2raumwohnung.md "wikilink"),
 [Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"),
 [All That
 Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"),
@@ -134,7 +132,7 @@ Horizon](https://zh.wikipedia.org/wiki/Bring_Me_the_Horizon "wikilink"),
 [Chester
 French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"), [Chris
 Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"), [Dir
-En Grey](../Page/Dir_En_Grey.md "wikilink"),
+En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
 [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"),
 [Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter
 Shikari](../Page/Enter_Shikari.md "wikilink"),
@@ -306,8 +304,7 @@ Tankian](https://zh.wikipedia.org/wiki/Serj_Tankian "wikilink"),
 Mannheims](https://zh.wikipedia.org/wiki/Söhne_Mannheims "wikilink"),
 [Sonic
 Syndicate](https://zh.wikipedia.org/wiki/Sonic_Syndicate "wikilink"),
-[Sportfreunde
-Stiller](https://zh.wikipedia.org/wiki/Sportfreunde_Stiller "wikilink"),
+[Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"),
 [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"),
 [Steriogram](https://zh.wikipedia.org/wiki/Steriogram "wikilink"),
 [Takida](https://zh.wikipedia.org/wiki/Takida "wikilink"), [The Fall of
@@ -707,8 +704,7 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"),
         [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
         [Sportfreunde
-        Stiller](https://zh.wikipedia.org/wiki/Sportfreunde_Stiller "wikilink"),
-        [The
+        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The
         Rasmus](https://zh.wikipedia.org/wiki/The_Rasmus "wikilink"),
         [Seeed](https://zh.wikipedia.org/wiki/Seeed "wikilink"),
         [Korn](../Page/Korn.md "wikilink"), [3 Doors
@@ -760,7 +756,7 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
         [Wednesday
         13](https://zh.wikipedia.org/wiki/Wednesday_13 "wikilink"), [Dir
-        En Grey](../Page/Dir_En_Grey.md "wikilink"),
+        En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
         [Kagerou](https://zh.wikipedia.org/wiki/Kagerou_\(band\) "wikilink"),
         [Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink"),
         [Papa
@@ -802,12 +798,12 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         B.](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink"), [Nelly
         Furtado](https://zh.wikipedia.org/wiki/Nelly_Furtado "wikilink"),
         [Sportfreunde
-        Stiller](https://zh.wikipedia.org/wiki/Sportfreunde_Stiller "wikilink"),
-        [Kaiser
+        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [Kaiser
         Chiefs](https://zh.wikipedia.org/wiki/Kaiser_Chiefs "wikilink"),
         [Tool](https://zh.wikipedia.org/wiki/Tool_\(band\) "wikilink"),
         [Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink"),
-        [Dir En Grey](../Page/Dir_En_Grey.md "wikilink"),
+        [Dir En
+        Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
         [Atreyu](https://zh.wikipedia.org/wiki/Atreyu_\(band\) "wikilink"),
         [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"),
         [Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"),
@@ -978,9 +974,8 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
         [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"),
         [Sportfreunde
-        Stiller](https://zh.wikipedia.org/wiki/Sportfreunde_Stiller "wikilink"),
-        [The Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"),
-        [The
+        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The
+        Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"), [The
         Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"),
         [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
         [Queens of the Stone
@@ -1041,7 +1036,7 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         [Korn](../Page/Korn.md "wikilink"),
         [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),
         [Mando
-        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink")，[2raumwohnung](https://zh.wikipedia.org/wiki/2raumwohnung "wikilink"),
+        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink")，[2raumwohnung](../Page/2raumwohnung.md "wikilink"),
         [Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"),
         [All That
         Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"),
@@ -1061,7 +1056,8 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"),
         [Chris
         Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"),
-        [Dir En Grey](../Page/Dir_En_Grey.md "wikilink"),
+        [Dir En
+        Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
         [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"),
         [Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter
         Shikari](../Page/Enter_Shikari.md "wikilink"),
@@ -1216,7 +1212,7 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
         [Slash](https://zh.wikipedia.org/wiki/Slash_\(musician\) "wikilink"),
         [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"),
         [Sportfreunde
-        Stiller](https://zh.wikipedia.org/wiki/Sportfreunde_Stiller "wikilink")
+        Stiller](../Page/Sportfreunde_Stiller.md "wikilink")
         (unplugged), [Stone
         Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"),
         [Sweethead](https://zh.wikipedia.org/wiki/Sweethead "wikilink"),

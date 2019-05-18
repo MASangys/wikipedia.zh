@@ -59,7 +59,7 @@
   - 2012年5月26日，[金賢重於首爾廣壯洞](../Page/金賢重.md "wikilink")(AX-KOREA)舉行的樂天免稅店
     FanMeeting中透露隔日5月27日進行《HEAT》[Music
     Video的拍攝](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。幾日後因拍攝畫面遭群眾演員外洩至網路，已擇日進行重拍作業。
-  - 2012年6月14日，日本富士電視台晨間新聞《[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")》播放娛樂新聞時公開《HEAT》音樂錄影帶片段畫面，畫面中金賢重化身搖滾樂團主唱搭配著真實的搖滾樂隊站上近500名聽眾團團包圍的舞台中盡情的演唱著新曲，展現了新鮮的“玩樂團的金賢重”樣貌\[2\]\[3\]，官方預告亦於[YOUTUBE公開](../Page/YOUTUBE.md "wikilink")\[4\]。MV中金賢重所引領的樂團為韓國人氣搖滾團體-Downhell。
+  - 2012年6月14日，日本富士電視台晨間新聞《[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")》播放娛樂新聞時公開《HEAT》音樂錄影帶片段畫面，畫面中金賢重化身搖滾樂團主唱搭配著真實的搖滾樂隊站上近500名聽眾團團包圍的舞台中盡情的演唱著新曲，展現了新鮮的“玩樂團的金賢重”樣貌\[2\]\[3\]，官方預告亦於[YOUTUBE公開](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")\[4\]。MV中金賢重所引領的樂團為韓國人氣搖滾團體-Downhell。
   - 台灣CHANNEL\[V\]頻道於2012年7月12日至7月14日兩日首播《HEAT》完整版Music Video。
   - 另《Let's Party》完整版Music Video於2012年7月4日通過日本Space Shower TV、MUSIC ON\!
     TV等頻道公開。
@@ -109,7 +109,7 @@
 ### 活動
 
   - 2012年7月3日於東京台場Palette
-    town舉辦『購入CD者[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")』\[8\]
+    town舉辦『購入CD者[握手會](../Page/握手會.md "wikilink")』\[8\]
   - 2012年7月4日於台場Diver City東京Festival廣場舉行Live「LET'S PARTY」的『露天游擊音樂會』\[9\]
   - 2012年7月5日非公開行程『突擊 Tsutaya、Tower Records澀谷店、銀座山野楽器總店』留下簽名
   - 2012年7月7日於大阪湊町River Place舉辦『限定購入CD者握手會』

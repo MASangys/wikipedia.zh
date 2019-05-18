@@ -95,7 +95,7 @@ Ashley Sorby</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/塔比瑟·泰勒" title="wikilink">塔比瑟·泰勒</a><br />
+<td><p><a href="../Page/塔比瑟·泰勒.md" title="wikilink">塔比瑟·泰勒</a><br />
 Tabitha Taylor</p></td>
 <td><p>救生員</p></td>
 <td></td>

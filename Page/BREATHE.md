@@ -1,5 +1,5 @@
-**BREATHE**是日本二人的歌唱組合。所屬事務所[LDH公司](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。所屬唱片公司為[艾迴唱片旗下廠牌](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+**BREATHE**是日本二人的歌唱組合。所屬事務所[LDH公司](../Page/LDH_\(藝能事務所\).md "wikilink")。所屬唱片公司為[艾迴唱片旗下廠牌](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[rhythm
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 簡歷
 
@@ -18,7 +18,7 @@ Lies』。
     [神奈川縣出身](../Page/神奈川縣.md "wikilink")。身長172cm。血型：AB型。
     東北高等學校、専修大學的野球部出身。
     與隸屬日本職棒太平洋聯盟職業棒球隊的[福岡軟體銀行鷹選手長谷川勇也是大學時代的同隊隊員](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")。\[4\]。
-    [廣瀨香美音樂學校](../Page/廣瀨香美.md "wikilink")，[EXPG東京校出身](https://zh.wikipedia.org/wiki/EXPG "wikilink")。\[5\]
+    [廣瀨香美音樂學校](../Page/廣瀨香美.md "wikilink")，[EXPG東京校出身](../Page/EXPG.md "wikilink")。\[5\]
     會稱成員多田和也為「和也」。
 
 <!-- end list -->
@@ -324,7 +324,7 @@ CD+DVD（RZCD-59287/B）</p></td>
   - 「Tomorrows」リリース記念特番（2014年5月12日、[NICONICO生放送](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink")）
   - 「Share Happiness」発売記念特番（2014年7月25日、NICONICO生放送）
   - ライブツアー直前\!\! お馴染みの○○体操踊るの\!?生歌唱できるの\!? SP（2014年9月19日、NICONICO生放送）
-  - 漢部～真ノ男道～\[7\]（其ノ三：2014年12月19日\[8\]、其ノ六：2015年3月27日\[9\]、[niconico動畫](../Page/niconico動畫.md "wikilink")）
+  - 漢部～真ノ男道～\[7\]（其ノ三：2014年12月19日\[8\]、其ノ六：2015年3月27日\[9\]、[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")）
 
 ### 現場演唱會
 
@@ -525,12 +525,12 @@ BREATHE OFFICIAL FAN CLUB LIVE TOUR 2015 “LOVE”\[14\]\[15\]
 
 ## 關聯項目
 
-  - [LDH](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")
+  - [LDH](../Page/LDH_\(藝能事務所\).md "wikilink")
 
   - [Rhythm zone](../Page/Rhythm_zone.md "wikilink")
 
   -
-  - [EXPG](https://zh.wikipedia.org/wiki/EXPG "wikilink")
+  - [EXPG](../Page/EXPG.md "wikilink")
 
 ## 外部連結
 

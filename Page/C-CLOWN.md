@@ -21,7 +21,7 @@ C-Clown名稱寓意著王冠小丑，王冠象徵至高無上的權力，小丑�
 ## 經歷
 
   - 出道前T.K曾與[Cube
-    Entertainment旗下組合](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[BTOB的](../Page/BTOB.md "wikilink")[恩光](../Page/徐恩光.md "wikilink")、[旼赫](https://zh.wikipedia.org/wiki/李旼赫 "wikilink")、[炫植和](https://zh.wikipedia.org/wiki/任炫植 "wikilink")[鎰勳參與JTBC](https://zh.wikipedia.org/wiki/鄭鎰勳 "wikilink")《住在清潭洞》演出，亦曾以歌曲《그
+    Entertainment旗下組合](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[BTOB的](../Page/BTOB.md "wikilink")[恩光](../Page/徐恩光.md "wikilink")、[旼赫](../Page/李旼赫.md "wikilink")、[炫植和](../Page/任炫植.md "wikilink")[鎰勳參與JTBC](../Page/鄭鎰勳.md "wikilink")《住在清潭洞》演出，亦曾以歌曲《그
     입술을 뺏었어》\[2\]及名稱清潭不敗(Invincible
     Cheongdam)在劇中音樂節目作虛擬出道舞臺。此五位成員也是第一次公佈[BTOB的已確定成員名單裏的五位](../Page/BTOB.md "wikilink")。[BTOB出道前其所屬公司](../Page/BTOB.md "wikilink")[Cube
     Entertainment公開澄清了T](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink").K因健康理由退出，現已以**C-CLOWN**出道。

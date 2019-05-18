@@ -53,8 +53,8 @@ Show（美国广播协会器材展）上](https://zh.wikipedia.org/wiki/National
 
 直到 2012 年 6 月，Editshare 也没有发布 Lightworks
 的开源版本，[Linux](../Page/Linux.md "wikilink") 和
-[Mac](../Page/Mac.md "wikilink") 版本的发布也被推迟。Linux 版本曾在拉斯维加斯的 NAB Show
-上演示，虽然一段 Lightworks 运行于 Ubuntu 的视频上传到了
+[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink") 版本的发布也被推迟。Linux
+版本曾在拉斯维加斯的 NAB Show 上演示，虽然一段 Lightworks 运行于 Ubuntu 的视频上传到了
 [YouTube](../Page/YouTube.md "wikilink")，\[24\]但仍不提供开放下载。
 
 ### NAB 2012 发布 Windows 版本

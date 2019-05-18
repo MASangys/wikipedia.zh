@@ -6,7 +6,7 @@ Win
 Mag，7.62×67毫米）、[6.5×47毫米拉普](https://zh.wikipedia.org/wiki/6.5×47mm_Lapua "wikilink")、[.22
 PPC](https://zh.wikipedia.org/wiki/.22_PPC "wikilink")、[6毫米 Norma
 BR](https://zh.wikipedia.org/wiki/6mm_Norma_BR "wikilink")、[6.5-284
-Norma和](https://zh.wikipedia.org/wiki/6.5-284_Norma "wikilink")[.338拉普麥格農](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338
+Norma和](https://zh.wikipedia.org/wiki/6.5-284_Norma "wikilink")[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338
 Lapua，8.6×70毫米或8.58×70毫米）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
@@ -27,15 +27,16 @@ TPG-1為手動狙擊步槍，採用[旋转后拉式枪机](https://zh.wikipedia.
 Remington](../Page/.223_Remington.md "wikilink")（或是軍用型[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）、、[.308
 Winchester](../Page/.308_Winchester.md "wikilink")（或是軍用型[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）、[.300
 Winchester Magnum和](../Page/.300溫徹斯特麥格農.md "wikilink")[.338 Lapua
-Magnum](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338
+Magnum](../Page/.338拉普麥格農.md "wikilink")（.338
 Lapua，8.6×70毫米或8.58×70毫米）等多種規格的[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，特種消聲型號發射[.22
 PPC和](https://zh.wikipedia.org/wiki/.22_PPC "wikilink")[6毫米 Norma
 BR](https://zh.wikipedia.org/wiki/6mm_Norma_BR "wikilink")[亞音速步槍子彈](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")，通過更換槍管和槍機組件即可快速實現不同型號之間的轉換。
 
 TPG-1使用[不鏽鋼製](../Page/不鏽鋼.md "wikilink")[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")，槍管外表面具有6
 條縱向[凹槽狀加強筋](https://zh.wikipedia.org/wiki/開槽化 "wikilink")，便於施力擰緊。槍管尾端與[機匣聯接部位採用螺紋連接](https://zh.wikipedia.org/wiki/機匣 "wikilink")，牢固可靠除了發射[.338
-Lapua Magnum](https://zh.wikipedia.org/wiki/.338拉普麥格農 "wikilink")（.338
-Lapua，8.6×70毫米或8.58×70毫米）的長度為700 [毫米](../Page/毫米.md "wikilink")（17.72
+Lapua Magnum](../Page/.338拉普麥格農.md "wikilink")（.338
+Lapua，8.6×70毫米或8.58×70毫米）的長度為700
+[毫米](../Page/毫米.md "wikilink")（17.72
 [英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）和[.308
 Winchester](../Page/.308_Winchester.md "wikilink")[消聲型步槍為](../Page/抑制器.md "wikilink")450[毫米](../Page/毫米.md "wikilink")（17.72[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）外接整體式-{消声}-器外，其他均為650
 [毫米](../Page/毫米.md "wikilink")（25.59
@@ -82,7 +83,7 @@ TPG-1是由一個高質量可拆卸式[金属](../Page/金属.md "wikilink")[彈
 
 ### 附件
 
-[機匣的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")（12點位置）裝有全長的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，TPG-1沒有內置其[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，必須利用其機匣頂部所設有的一條MIL-STD-1913戰術導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪和](../Page/热成像仪.md "wikilink")／或以戰術導軌安裝的機械瞄具作為TPG-1的瞄準具，亦可以在[護木上方增加了MIL](https://zh.wikipedia.org/wiki/護木 "wikilink")-STD-1913戰術導軌座以便在[光學狙擊鏡前串連式安裝](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。
+[機匣的頂部](https://zh.wikipedia.org/wiki/機匣 "wikilink")（12點位置）裝有全長的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，TPG-1沒有內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，必須利用其機匣頂部所設有的一條MIL-STD-1913戰術導軌安裝日間／夜間望遠式狙擊鏡、[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視儀](../Page/夜視鏡.md "wikilink")、[热成像仪和](../Page/热成像仪.md "wikilink")／或以戰術導軌安裝的機械瞄具作為TPG-1的瞄準具，亦可以在[護木上方增加了MIL](https://zh.wikipedia.org/wiki/護木 "wikilink")-STD-1913戰術導軌座以便在[光學狙擊鏡前串連式安裝](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[夜視鏡](../Page/夜視鏡.md "wikilink")，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式。
 
 護木下方設有柱狀[兩腳架接口](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，使用者可以選擇使用原廠配備的輕便式兩腳架。兩腳架不會接觸槍管，因此不會影響射擊時的精度。
 
@@ -106,7 +107,7 @@ Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司
     北約口徑子彈，更可改裝上.338拉普麥格倫子彈，已於2014年由FN-Ballista取代。已知現今還有出現的六把TPG-1狙擊步槍，其中兩把「TPG-1」跟「TPG-1
     EPKO隼」在有AI模式的地圖（殲滅房或合作模式的死亡風車）中都是由AI傭兵所持有，另一把「TPG-1
     極地殺手」則是當初戰谷時期有在小瑪莉抽到此槍的玩家所持有，其他三把分別為「紅焰翔鳳」、「烈光翔鳳」和「黃金寶藏」則是以相關消費活動來取得
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名為「Alpine」，为狙击手专用武器，5发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，Point点武器，中国大陆服务器无需解锁即可购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")）；欧美与俄罗斯服务器为专家解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。拥有圣诞节专属涂装版本和流光迷彩改装版本，强化威力与射程。
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名為「Alpine」，为狙击手专用武器，5发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，Point点武器，中国大陆服务器无需解锁即可购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")）；欧美与俄罗斯服务器为专家解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。拥有圣诞节专属涂装版本和流光迷彩改装版本，强化威力与射程。
       - 此枪在中国大陆服务器遭到严重削弱，威力为280并且开镜速度非常慢；而欧美与俄罗斯服务器的威力为320且开镜速度正常。圣诞节版本为活动专属武器；流光迷彩版本为STEAM特供DLC专属武器，只能通过下载STEAM特供DLC获得。
 
 ## 參見
@@ -124,12 +125,12 @@ Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司
   - [巴雷特MRAD](../Page/巴雷特MRAD狙擊步槍.md "wikilink")
   - [B\&T APR308／338](../Page/B&T_APR狙擊步槍.md "wikilink")
   - [布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")
-  - [C14](https://zh.wikipedia.org/wiki/C14大灰狼狙擊步槍 "wikilink")
+  - [C14](../Page/C14大灰狼狙擊步槍.md "wikilink")
   - [CZ 700](https://zh.wikipedia.org/wiki/CZ_700狙擊步槍 "wikilink")
   - [CheyTac M200
     Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
   - [DSR-1](../Page/DSR-1狙擊步槍.md "wikilink")
-  - [DT SRS](https://zh.wikipedia.org/wiki/沙漠科技隱形偵察兵狙擊步槍 "wikilink")
+  - [DT SRS](../Page/沙漠科技隱形偵察兵狙擊步槍.md "wikilink")
   - [埃爾瑪SR-100](https://zh.wikipedia.org/wiki/埃爾瑪SR-100狙擊步槍 "wikilink")
   - [FN 30-11](https://zh.wikipedia.org/wiki/FN_30-11狙擊步槍 "wikilink")
   - [FN SPR](https://zh.wikipedia.org/wiki/FN_SPR狙擊步槍 "wikilink")
@@ -137,14 +138,14 @@ Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司
   - [FR-F2](../Page/FR-F2狙擊步槍.md "wikilink")
   - [帕克黑爾M82](../Page/帕克黑爾M82狙擊步槍.md "wikilink")
   - [帕克黑爾M85](../Page/帕克黑爾M85狙擊步槍.md "wikilink")
-  - [GOL狙擊手麥格農](https://zh.wikipedia.org/wiki/GOL狙擊手麥格農步槍 "wikilink")
-  - [IWI DAN](https://zh.wikipedia.org/wiki/IWI_DAN狙擊步槍 "wikilink")
-  - [JNG-90](https://zh.wikipedia.org/wiki/JNG-90狙擊步槍 "wikilink")
-  - [JS 7.62](https://zh.wikipedia.org/wiki/JS_7.62毫米狙击步枪 "wikilink")
+  - [GOL狙擊手麥格農](../Page/GOL狙擊手麥格農步槍.md "wikilink")
+  - [IWI DAN](../Page/IWI_DAN狙擊步槍.md "wikilink")
+  - [JNG-90](../Page/JNG-90狙擊步槍.md "wikilink")
+  - [JS 7.62](../Page/JS_7.62毫米狙击步枪.md "wikilink")
   - [Kefefs](https://zh.wikipedia.org/wiki/Kefefs狙擊步槍 "wikilink")
   - [金柏M8400戰術型](../Page/金柏M8400戰術型狙擊步槍.md "wikilink")
-  - [KNT-308](https://zh.wikipedia.org/wiki/KNT-308狙擊步槍 "wikilink")
-  - [PGM 338](https://zh.wikipedia.org/wiki/PGM_338狙擊步槍 "wikilink")
+  - [KNT-308](../Page/KNT-308狙擊步槍.md "wikilink")
+  - [PGM 338](../Page/PGM_338狙擊步槍.md "wikilink")
   - [PGM最後手段](https://zh.wikipedia.org/wiki/PGM最後手段狙擊步槍 "wikilink")
   - [雷明登700](../Page/雷明登700步槍.md "wikilink")
   - [雷明登M24](../Page/M24狙擊手武器系統.md "wikilink")
@@ -154,7 +155,7 @@ Ballista就是比利时國營赫斯塔爾和奧地利尤尼克阿爾卑斯公司
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
-  - [沙科蒂卡T3](https://zh.wikipedia.org/wiki/沙科蒂卡T3步槍 "wikilink")
+  - [沙科蒂卡T3](../Page/沙科蒂卡T3步槍.md "wikilink")
   - [沙科TRG-21／22／41／42](../Page/沙科TRG狙擊步槍.md "wikilink")
   - [沙科TRG M10](https://zh.wikipedia.org/wiki/沙科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")

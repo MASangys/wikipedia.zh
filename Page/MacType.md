@@ -1,4 +1,4 @@
-**MacType**是基于一个[gdi++的开源项目开发的](../Page/gdi++.md "wikilink")[字体渲染软件](../Page/字体.md "wikilink")。由于gdi++已经停止了更新，所以中国网友FlyingSnow在gdi++
+**MacType**是基于一个[gdi++的开源项目开发的](https://zh.wikipedia.org/wiki/gdi++ "wikilink")[字体渲染软件](../Page/字体.md "wikilink")。由于gdi++已经停止了更新，所以中国网友FlyingSnow在gdi++
 [FreeType版本的基础上继续开发](../Page/FreeType.md "wikilink")，并将它命名为MacType。
 
 2016年5月30日，MacType在[GitHub上开源](../Page/GitHub.md "wikilink")（仅核心组件），宣布以[GPLv3释出](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")\[1\]。
@@ -19,7 +19,7 @@
 
 ## 参见
 
-  - [GDI++](../Page/GDI++.md "wikilink")
+  - [GDI++](https://zh.wikipedia.org/wiki/GDI++ "wikilink")
   - [FreeType](../Page/FreeType.md "wikilink")
 
 [Category:數碼字體排印](https://zh.wikipedia.org/wiki/Category:數碼字體排印 "wikilink")

@@ -4,7 +4,7 @@
 
 而在2011年10月25日，計劃由原本[才庫媒體集團有限公司名稱](https://zh.wikipedia.org/wiki/才庫媒體集團有限公司 "wikilink")，改為「先傳媒集團有限公司」\[4\]，最後在股東大會通過。
 
-總部位於香港北角英皇道625號26樓。董事會主席[溫兆裘](https://zh.wikipedia.org/wiki/溫兆裘 "wikilink")，總裁為[劉竹堅](https://zh.wikipedia.org/wiki/劉竹堅 "wikilink")。
+總部位於香港北角英皇道625號26樓。董事會主席[溫兆裘](../Page/溫兆裘.md "wikilink")，總裁為[劉竹堅](https://zh.wikipedia.org/wiki/劉竹堅 "wikilink")。
 
 據了解，[鷹君集團有限公司和相關企業及人士](https://zh.wikipedia.org/wiki/鷹君集團有限公司 "wikilink")，持有6.8%股權\[5\]。
 

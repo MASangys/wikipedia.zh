@@ -97,7 +97,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 <tr class="odd">
 <td><p>6.</p></td>
 <td><p>落差</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃安弘" title="wikilink">黃安弘</a></p></td>
+<td><p><a href="../Page/黃安弘.md" title="wikilink">黃安弘</a></p></td>
 <td><p><a href="../Page/王仲傑.md" title="wikilink">王仲傑</a></p></td>
 <td><p>Johnny Yim</p></td>
 <td><p>Johnny Yim</p></td>
@@ -124,7 +124,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 <tr class="even">
 <td><p>9.</p></td>
 <td><p>月亮代表我的心</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/翁清溪" title="wikilink">翁清溪</a></p></td>
+<td><p><a href="../Page/翁清溪.md" title="wikilink">翁清溪</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫儀" title="wikilink">孫儀</a></p></td>
 <td><p>韋景雲</p></td>
 <td><p>韋景雲</p></td>
@@ -199,7 +199,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 <td><p>幸福歌</p></td>
 <td><p><a href="../Page/鄧智偉.md" title="wikilink">鄧智偉</a></p></td>
 <td><p><a href="../Page/林日曦.md" title="wikilink">林日曦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葉澍暉" title="wikilink">葉澍暉</a></p></td>
+<td><p><a href="../Page/葉澍暉.md" title="wikilink">葉澍暉</a></p></td>
 <td><p>鄧智偉</p></td>
 <td></td>
 </tr>
@@ -251,7 +251,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 <tr class="even">
 <td><p>7.</p></td>
 <td><p>落差</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃安弘" title="wikilink">黃安弘</a></p></td>
+<td><p><a href="../Page/黃安弘.md" title="wikilink">黃安弘</a></p></td>
 <td><p><a href="../Page/王仲傑.md" title="wikilink">王仲傑</a></p></td>
 <td><p>Johnny Yim</p></td>
 <td><p>Johnny Yim</p></td>
@@ -431,7 +431,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 ## 相關條目
 
   - 《[鍾嘉欣Love Love
-    Love演唱會2013](https://zh.wikipedia.org/wiki/鍾嘉欣Love_Love_Love演唱會2013 "wikilink")》
+    Love演唱會2013](../Page/鍾嘉欣Love_Love_Love演唱會2013.md "wikilink")》
 
 ## 註釋
 

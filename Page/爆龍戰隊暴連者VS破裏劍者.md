@@ -81,8 +81,7 @@ VS系列</p></td>
   -
     **黎明之使徒·莉婕<small>｜**[鈴木霞](../Page/鈴木霞.md "wikilink")</small>
     **破壞之使徒·貞德<small>｜**[櫻井映里](https://zh.wikipedia.org/wiki/櫻井映里 "wikilink")</small>
-    **無限之使徒·渥法<small>｜**[宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")
-    聲</small>
+    **無限之使徒·渥法<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink") 聲</small>
     **創造之使徒·米開朗<small>｜**[緒方文興](https://zh.wikipedia.org/wiki/緒方文興 "wikilink")
     聲</small>
     **留級之使徒·芙拉畢裘 / 魅惑之使徒·溫蒂努<small>｜**[山本梓](../Page/山本梓.md "wikilink") /
@@ -126,7 +125,7 @@ VS系列</p></td>
 
   - 原作：八手三郎　
   - 監督：[渡辺勝也](https://zh.wikipedia.org/wiki/渡辺勝也 "wikilink")　
-  - 脚本：[前川淳](https://zh.wikipedia.org/wiki/前川淳 "wikilink")
+  - 脚本：[前川淳](../Page/前川淳.md "wikilink")
   - 撮影：[菊池亘](https://zh.wikipedia.org/wiki/菊池亘 "wikilink")
   - 音楽：[羽田健太郎](https://zh.wikipedia.org/wiki/羽田健太郎 "wikilink")　with
     Healthy Wings、三宅一徳

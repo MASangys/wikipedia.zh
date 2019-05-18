@@ -100,7 +100,7 @@
 | [甘宗哲](https://zh.wikipedia.org/wiki/甘宗哲 "wikilink") | [兵馬俑](https://zh.wikipedia.org/wiki/兵馬俑 "wikilink") | 街頭藝人，鄉民。                                          |
 | [蔡越昀](https://zh.wikipedia.org/wiki/蔡越昀 "wikilink") | 老　闆                                                 | 香腸攤老闆，鄉民。                                         |
 | [林明翰](https://zh.wikipedia.org/wiki/林明翰 "wikilink") | 小　開                                                 | 香腸攤小開，鄉民。                                         |
-| [林亮君](https://zh.wikipedia.org/wiki/林亮君 "wikilink") | 老闆娘                                                 | 香腸攤老闆娘，鄉民。                                        |
+| [林亮君](../Page/林亮君.md "wikilink")                    | 老闆娘                                                 | 香腸攤老闆娘，鄉民。                                        |
 | [林恩進](https://zh.wikipedia.org/wiki/林恩進 "wikilink") | 法　官                                                 | ID:judge，法官，鄉民。                                   |
 | [高瑋圻](https://zh.wikipedia.org/wiki/高瑋圻 "wikilink") | 主　管                                                 | 雷報報社主管，藍苡晴上司，個性偏激。                                |
 | [王　師](https://zh.wikipedia.org/wiki/王師 "wikilink")  | 總經理                                                 | FOUR SQUARE 總經理，因King的駭客身分而無法雇用他。                 |
@@ -163,7 +163,7 @@ Hero</p></td>
     獲得[經濟部工業局數位內容補助計畫的援助](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")，木偶人動畫工作室如火如荼的製作這部由真人+3D動畫與實景合成的作品。\[5\]，開始展開一連串的製作。
   - 2010年 龐大的3D動畫製作費用迫使團隊以當時完成的畫面剪接成前導短片。
   - 2010年6月26日
-    前導片正式在[Youtube推出](../Page/Youtube.md "wikilink")\[6\]，不到一個月，點閱人數突破50萬人。
+    前導片正式在[Youtube推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]，不到一個月，點閱人數突破50萬人。
   - 2010年10月
     木偶人工作室轉型為[星木映像股份有限公司](https://zh.wikipedia.org/wiki/星木映像股份有限公司 "wikilink")，為了完成電影，一邊接案一邊尋求各種補助機制。
   - 2010年年底 推出[BBS鄉民小劇場](../Page/木偶人_\(動畫\).md "wikilink")
@@ -305,7 +305,7 @@ Hero</p></td>
 ## 相關條目
 
   - [批踢踢](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")
-  - [BBS鄉民的正義前傳：必要之闇](https://zh.wikipedia.org/wiki/BBS鄉民的正義前傳：必要之闇 "wikilink")
+  - [BBS鄉民的正義前傳：必要之闇](../Page/BBS鄉民的正義前傳：必要之闇.md "wikilink")
 
 ## 參考資料
 

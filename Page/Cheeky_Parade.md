@@ -1,12 +1,12 @@
 **Cheeky Parade** 是2012年組成的七人日本女子偶像團體、歌舞團體。所屬經紀公司為[avex
 management](https://zh.wikipedia.org/wiki/avex_management "wikilink")，所屬唱片公司為[iDOL
-Street](../Page/iDOL_Street.md "wikilink")。
+Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
 Cheeky
 Parade是從[愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年創立的偶像專屬品牌[iDOL
-Street之中](../Page/iDOL_Street.md "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於
+Street之中](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於
 [Shibuya
 O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
 舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨裡的品牌](../Page/109百貨.md "wikilink")「JSG」合作的打歌服是特色之一。
@@ -555,7 +555,7 @@ AVBD-39083</p></td>
 ### 廣播節目
 
   - （2012年4月5日 - 6月7日，每周四，下北FM・[niconico
-    生放送](../Page/NICONICO動畫.md "wikilink")・[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")）
+    生放送](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")・[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")）
     - 固定班底（每次一位成員）
 
 ### 網路
@@ -605,7 +605,7 @@ AVBD-39083</p></td>
 
 ## 相關條目
 
-  - [iDOL Street](../Page/iDOL_Street.md "wikilink")
+  - [iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")
   - [SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")
 
 ## 外部連結

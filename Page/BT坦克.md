@@ -1,4 +1,4 @@
-**BT坦克**是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1932至1941年間生產的一系列[輕型坦克](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")。BT意即快速坦克（），由最初的BT-1至[BT-7共有](https://zh.wikipedia.org/wiki/BT-7 "wikilink")7個型號（有時BT-7M也被稱為BT-8），BT坦克是[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[T-34坦克的前身](../Page/T-34坦克.md "wikilink")。
+**BT坦克**是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1932至1941年間生產的一系列[輕型坦克](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")。BT意即快速坦克（），由最初的BT-1至[BT-7共有](../Page/BT-7.md "wikilink")7個型號（有時BT-7M也被稱為BT-8），BT坦克是[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[T-34坦克的前身](../Page/T-34坦克.md "wikilink")。
 
 ## 研發簡史
 
@@ -28,7 +28,7 @@ BT首種量產型，1932年面世，BT-2以BT-1為藍本研製而成，由於BT-
 
 炮塔重新設計，增加了後部空間並裝上45毫米口徑反坦克炮和[DT同軸機槍](../Page/DP輕機槍.md "wikilink")，此種炮塔被分成有環形天線的指揮車型（後部放無線電機）和無環形天線的普通車型（後部作為附加彈藥箱），此種炮塔也用於[T-26坦克](../Page/T-26坦克.md "wikilink")，BT-5的發動機改用蘇聯國產M5型去取代原本可靠性不佳的美國發動機，BT-5是BT坦克其中主要參戰型號，中國也有4輛BT-5並編入第200師當中。
 
-  - [BT-7](https://zh.wikipedia.org/wiki/BT-7 "wikilink")
+  - [BT-7](../Page/BT-7.md "wikilink")
 
 BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用全車焊接結構，B-7也改用M17T汽油發動機而其車尾的排氣管也和以往的BT不同，1937年BT-7改用帶斜角的炮塔並稱為BT-7M1937，而仍使用BT-5炮塔的則被稱為BT-7M1935。
 
@@ -114,7 +114,7 @@ BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用
 
   - [T-34坦克](../Page/T-34坦克.md "wikilink")
   - [T-26坦克](../Page/T-26坦克.md "wikilink")
-  - [BT-7](https://zh.wikipedia.org/wiki/BT-7 "wikilink")
+  - [BT-7](../Page/BT-7.md "wikilink")
   - [BT-42](../Page/BT-42.md "wikilink")
 
 ## 外部連結

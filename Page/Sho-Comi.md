@@ -19,7 +19,7 @@
 
   - [天然はちみつ寮。](https://zh.wikipedia.org/wiki/天然はちみつ寮。 "wikilink")（[織田綺](https://zh.wikipedia.org/wiki/織田綺 "wikilink")）2002年
     - 2003年
-  - [戀愛至上主義](https://zh.wikipedia.org/wiki/戀愛至上主義 "wikilink")（[水波風南](https://zh.wikipedia.org/wiki/水波風南 "wikilink")）2002年
+  - [戀愛至上主義](../Page/戀愛至上主義.md "wikilink")（[水波風南](https://zh.wikipedia.org/wiki/水波風南 "wikilink")）2002年
     - 2004年
   - [イジワルしないで\!](https://zh.wikipedia.org/wiki/イジワルしないで! "wikilink")（[青木琴美](../Page/青木琴美.md "wikilink")）2002年2号
     -
@@ -101,7 +101,7 @@
     - 2005年3・4合併号
   - 誘・惑・者〜ケダモノトライアングル〜（[車谷晴子](https://zh.wikipedia.org/wiki/車谷晴子 "wikilink")）2005年2号
     - 2005年8号
-  - [萌男友](https://zh.wikipedia.org/wiki/萌男友 "wikilink")（[池山田剛](../Page/池山田剛.md "wikilink")）2005年3・4合併号
+  - [萌男友](../Page/萌男友.md "wikilink")（[池山田剛](../Page/池山田剛.md "wikilink")）2005年3・4合併号
     - 2006年14号
   - 未成年lovers☆（[宮坂香帆](https://zh.wikipedia.org/wiki/宮坂香帆 "wikilink")）2005年5号
     - 連載休止（未完）

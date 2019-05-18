@@ -18,7 +18,7 @@ CS能由IPTC下載一組訂製的介面](https://zh.wikipedia.org/wiki/Photoshop
 Creative Suite（CS2）該介面已經內建了。
 
 微軟自[Windows
-Vista起](../Page/Windows_Vista.md "wikilink")，[Windows影像中心亦開始支援XMP標準](../Page/Windows影像中心.md "wikilink")，是Microsoft首次採用[Exif以外的標準](../Page/Exif.md "wikilink")。\[5\]
+Vista起](../Page/Windows_Vista.md "wikilink")，[Windows影像中心亦開始支援XMP標準](../Page/Windows影像中心.md "wikilink")，是Microsoft首次採用[Exif以外的標準](https://zh.wikipedia.org/wiki/Exif "wikilink")。\[5\]
 
 ## 参考资料
 

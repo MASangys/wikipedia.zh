@@ -33,9 +33,7 @@ ROCK\!**》是[SCANDAL的](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[翻
       -
         作詞：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")　作曲：[恩田快人](https://zh.wikipedia.org/wiki/恩田快人 "wikilink")　編曲：イイジマケン
     <!-- end list -->
-      - 原曲是[JUDY AND
-        MARY](https://zh.wikipedia.org/wiki/JUDY_AND_MARY "wikilink")
-        （1994）
+      - 原曲是[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink") （1994）
 6.  **[Sunny Day
     Sunday](https://zh.wikipedia.org/wiki/Sunny_Day_Sunday "wikilink")**
     \[2:21\]
@@ -44,7 +42,7 @@ ROCK\!**》是[SCANDAL的](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[翻
     <!-- end list -->
       - 原曲是[SENTIMENTAL:BUS](https://zh.wikipedia.org/wiki/SENTIMENTAL:BUS "wikilink")（1998）
 7.  **[secret base
-    ～你給我的東西～](../Page/secret_base_～你給我的東西～.md "wikilink")**
+    ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")**
     \[5:15\]
       -
         作詞・作曲：[町田紀彦](https://zh.wikipedia.org/wiki/町田紀彦 "wikilink")　編曲：[宮永治郎](https://zh.wikipedia.org/wiki/宮永治郎 "wikilink")

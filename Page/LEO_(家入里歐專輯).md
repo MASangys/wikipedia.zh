@@ -23,7 +23,7 @@ Goodbye在10月17日在Itunes先行配信。
         由之前的現場音樂會開始公開,這是第一次收錄在專輯之內.在專輯發行前於**予告編3**\[[http://www.youtube.com/watch?v=JACl6_hFUyg|予告編3\]公開](http://www.youtube.com/watch?v=JACl6_hFUyg%7C予告編3%5D公開).
 3.  **Say Goodbye**
       -
-        由2012年10月17日起,在專輯發行前於[Itunes](../Page/Itunes.md "wikilink")
+        由2012年10月17日起,在專輯發行前於[Itunes](https://zh.wikipedia.org/wiki/Itunes "wikilink")
         Store先行配信,於**予告編3**\[[http://www.youtube.com/watch?v=JACl6_hFUyg|予告編3\]公開](http://www.youtube.com/watch?v=JACl6_hFUyg%7C予告編3%5D公開).,由之前的現場音樂會開始公開,這是第一次收錄在專輯之內.
 4.  '''[Shine](https://zh.wikipedia.org/wiki/Shine_\(家入レオ單曲\) "wikilink")
     '''

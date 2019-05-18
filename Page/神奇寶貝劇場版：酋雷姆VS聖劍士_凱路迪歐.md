@@ -39,7 +39,7 @@
   - 片頭曲：「成為箭頭！」〈やじるしになって！〉
       - 歌: [松本梨香](../Page/松本梨香.md "wikilink") / 作詞:
         [戶田昭吾](https://zh.wikipedia.org/wiki/戶田昭吾 "wikilink") /
-        作曲、編曲: [田中宏和](https://zh.wikipedia.org/wiki/田中宏和 "wikilink")
+        作曲、編曲: [田中宏和](../Page/田中宏和.md "wikilink")
   - 片尾曲：〈Memories〉
       - 歌：モデル・ローラ
 

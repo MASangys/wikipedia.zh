@@ -76,8 +76,8 @@ NTW-20的使用者並不多，最主要的用戶還是開發國南非的南非�
 
 ## 參見
 
-  - [11式狙击榴弹发射器](https://zh.wikipedia.org/wiki/11式狙击榴弹发射器 "wikilink")
-  - [LG5狙击榴弹发射器](https://zh.wikipedia.org/wiki/LG5狙击榴弹发射器 "wikilink")
+  - [11式狙击榴弹发射器](../Page/11式狙击榴弹发射器.md "wikilink")
+  - [LG5狙击榴弹发射器](../Page/LG5狙击榴弹发射器.md "wikilink")
 
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
 [Category:南非槍械](https://zh.wikipedia.org/wiki/Category:南非槍械 "wikilink")

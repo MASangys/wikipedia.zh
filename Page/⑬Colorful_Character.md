@@ -1,5 +1,5 @@
 《**⑬Colorful
-Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")13枚原創專輯。於2012年9月12日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")13枚原創專輯。於2012年9月12日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -45,8 +45,7 @@ Character**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink
       -
         50th單曲
 7.  **從零開始的青春**（ゼロから始まる青春）
-    （作詞・作曲：淳君
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：淳君 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
 8.  **[戀愛獵人](../Page/戀愛獵人.md "wikilink")**（）
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -

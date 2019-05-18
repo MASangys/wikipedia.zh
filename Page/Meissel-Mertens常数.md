@@ -14,7 +14,7 @@
 
 Meissel-Mertens常数的極限定義中出現對數的對數，可以看成是[素數定理和欧拉](https://zh.wikipedia.org/wiki/素數定理 "wikilink")-马歇罗尼常数定義的組合。
 
-[Google在針對](../Page/Google.md "wikilink")[北電網絡專利拍賣投標時](https://zh.wikipedia.org/wiki/北電網絡 "wikilink")，曾用到此數字，Google三個投標的金額為：$1,902,160,540（[布朗常數](https://zh.wikipedia.org/wiki/布朗常數 "wikilink")）、$2,614,972,128（Meissel-Mertens常数）、及$31.4159億（[π](https://zh.wikipedia.org/wiki/圓周率 "wikilink")）\[1\]。
+[Google在針對](../Page/Google.md "wikilink")[北電網絡專利拍賣投標時](https://zh.wikipedia.org/wiki/北電網絡 "wikilink")，曾用到此數字，Google三個投標的金額為：$1,902,160,540（[布朗常數](https://zh.wikipedia.org/wiki/布朗常數 "wikilink")）、$2,614,972,128（Meissel-Mertens常数）、及$31.4159億（[π](../Page/圓周率.md "wikilink")）\[1\]。
 
 ## 相關條目
 

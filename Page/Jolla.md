@@ -2,7 +2,7 @@
 [Jolla_PoppyRed_Home.jpg](https://zh.wikipedia.org/wiki/File:Jolla_PoppyRed_Home.jpg "fig:Jolla_PoppyRed_Home.jpg")
 **Jolla有限公司**\[1\]（，，通常被称为**Jolla
 Mobile**）是一家独立的芬兰公司，主营业务为设计、开发、销售搭载MeeGo操作系统的智能手机，致力于继续推进MeeGo项目。在[Mer專案之上](../Page/Mer.md "wikilink")，又分支出[Sailfish
-OS](https://zh.wikipedia.org/wiki/Sailfish_OS "wikilink")。
+OS](../Page/Sailfish_OS.md "wikilink")。
 
 在诺基亚推出搭载MeeGo的[諾基亞
 N9并宣布放弃MeeGo转投](https://zh.wikipedia.org/wiki/諾基亞_N9 "wikilink")[Windows
@@ -77,7 +77,7 @@ OS包含Mer的核心。Mer是MeeGo的分支，是专为设备厂商(如Jolla)设
 \[14\]\[15\]
 
 Jolla的CEO Jussi
-Hurmola谈竞争时说：“让Jolla的手机与众不同的是[用户体验](https://zh.wikipedia.org/wiki/用户体验 "wikilink")。这正是我们所做的。Jolla致力于创造崭新的，区别于[iOS和](../Page/iOS.md "wikilink")[Android的东西](../Page/Android.md "wikilink")。我们想为MeeGo引入受欢迎的特性：原生的多任务，应用整合，以及数据整合。我现在使用[诺基亚N9手机来完成我所有的移动工作任务](https://zh.wikipedia.org/wiki/诺基亚N9 "wikilink")。我非常高兴地看到所有这些应用一直都在运行。我们想帮助用户避免不停地切回初始界面，关闭当前应用程序的情况。此外，用户界面必须是可定制的。“\[16\]
+Hurmola谈竞争时说：“让Jolla的手机与众不同的是[用户体验](https://zh.wikipedia.org/wiki/用户体验 "wikilink")。这正是我们所做的。Jolla致力于创造崭新的，区别于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android的东西](../Page/Android.md "wikilink")。我们想为MeeGo引入受欢迎的特性：原生的多任务，应用整合，以及数据整合。我现在使用[诺基亚N9手机来完成我所有的移动工作任务](https://zh.wikipedia.org/wiki/诺基亚N9 "wikilink")。我非常高兴地看到所有这些应用一直都在运行。我们想帮助用户避免不停地切回初始界面，关闭当前应用程序的情况。此外，用户界面必须是可定制的。“\[16\]
 
 ### 经营管理
 

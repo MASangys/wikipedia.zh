@@ -30,13 +30,13 @@ Media繼](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[SS501](../Page/SS5
 Media於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")5月1日宣布「A-JAX
 將是[韓國第一個在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[韓國與](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本同時出道的偶像團體](../Page/日本.md "wikilink")，並將跟隨前輩[SS501的腳步](../Page/SS501.md "wikilink")。五月份在韓國出道後，A-JAX
 將與[環球音樂合作](https://zh.wikipedia.org/wiki/環球音樂_\(日本\)#Universal_SIGMA "wikilink")，於八月正式進軍日本市場。」\[10\]\[11\]接著5月8日通過[DSP
-Media的官方](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[YouTube頻道公開一段以](../Page/YouTube.md "wikilink")[KARA成員](../Page/KARA.md "wikilink")[荷拉為主角搭配著未知男聲背景樂的神秘短片](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")；5月11日公開第二版短片此時影片標題顯示了Song
+Media的官方](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[YouTube頻道公開一段以](../Page/YouTube.md "wikilink")[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[荷拉為主角搭配著未知男聲背景樂的神秘短片](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")；5月11日公開第二版短片此時影片標題顯示了Song
 by.A-JAX，證實背景樂為[DSP
 Media新企劃的男子團體A](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")-JAX所演唱，但仍未知曲目名稱；5月15日正式公開名為《[只知道你
 Never Let Go](../Page/只知道你_Never_Let_Go.md "wikilink")
 》的先行曲音樂影像\[12\]，與此同時公開線上音源。而在5月23日透過韓國媒體報導，A-JAX未出道即獲邀參與8月9日於日本[國立代代木競技場第一體育館舉辦的](../Page/國立代代木競技場.md "wikilink")『「[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")
 musicweek. Charge Go\! WEIDER in JELLY」 Asia Progress
-M』的演出\[13\]。與在5月26日、27日兩日擔任[KARA首場日本巡迴演唱會](../Page/KARA.md "wikilink")〈KARA
+M』的演出\[13\]。與在5月26日、27日兩日擔任[KARA首場日本巡迴演唱會](https://zh.wikipedia.org/wiki/KARA "wikilink")〈KARA
 The Japan
 Tour－KARASIA〉最終場的表演嘉賓，成員對此回應：「很榮幸能夠在我們出道之前站上這麼大的舞台。這對我們來說是個很好的學習經驗。我們會在這次的機會中儘可能努力的展現我們的魅力。」\[14\]\[15\]
 
@@ -53,14 +53,14 @@ U〉而制作的「A-JAX列車」在地鐵二號線登場，列車内部印制�
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》進行首場出道舞台，預錄形式演唱新曲〈只知道你
 Never Let Go/ONE 4
 U〉兩首曲目，同時現場免費發放迷你應援毛巾。3日則是通過[SBS音樂節目](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》進行了預錄形式舞台，結束後成員們與粉絲首次接觸一同進行拍攝立可得活動並舉行迷你Fan
-meeting暨[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")\[20\]。當周發行Gaon數位音源排名第167位，統計銷售數1,173,982\[21\]\[22\]。
+meeting暨[握手會](../Page/握手會.md "wikilink")\[20\]。當周發行Gaon數位音源排名第167位，統計銷售數1,173,982\[21\]\[22\]。
 
 6月19日其日本環球官方網站公告A-JAX將於8月8日透過實體發售《[ONE 4
 U](../Page/ONE_4_U.md "wikilink")》日語五版本在日本出道，此後官方YouTube頻道於7月10日公開了〈ONE
 4 U〉日語短版M/V。影像主題由韓版《ONE 4 U》MV「改變世界的新英雄」與《Never Let
-Go》MV「解救被囚禁的[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")（[KARA成員](../Page/KARA.md "wikilink")）」集合而成\[23\]。隔日A-JAX即在日本東京品川Stellar
-Ball舉行「出道ShowCase」\[24\]，同門前輩[KARA成員](../Page/KARA.md "wikilink")[朴奎利獲邀出席](../Page/朴奎利.md "wikilink")。接著在韓國第二張單曲〈HOT
-GAME〉的宣傳活動告一段落後於8月4日至5日，日本東京、大阪兩地舉行單曲預購Event/攝影會。8月8日至12日起四日內，於東京、大阪、名古屋、福岡四地舉辦單曲[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")\[25\]<small>（活動場所詳見[ONE
+Go》MV「解救被囚禁的[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")（[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")）」集合而成\[23\]。隔日A-JAX即在日本東京品川Stellar
+Ball舉行「出道ShowCase」\[24\]，同門前輩[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[朴奎利獲邀出席](../Page/朴奎利.md "wikilink")。接著在韓國第二張單曲〈HOT
+GAME〉的宣傳活動告一段落後於8月4日至5日，日本東京、大阪兩地舉行單曲預購Event/攝影會。8月8日至12日起四日內，於東京、大阪、名古屋、福岡四地舉辦單曲[握手會](../Page/握手會.md "wikilink")\[25\]<small>（活動場所詳見[ONE
 4
 U\#活動](https://zh.wikipedia.org/wiki/ONE_4_U#活動 "wikilink")</small>）。而活動完畢後正式於8月17日通過日本電視台音樂節目《Happy
 Music》進行日本出道舞台。期間此單曲經日本[Oricon公信榜統計](../Page/Oricon公信榜.md "wikilink")2012年8月6日至12日一週的銷售數字為4,030，占據了榜上第29名的位置\[26\]，相較於同時期新人可謂是不錯的成績。
@@ -73,7 +73,7 @@ GAME](../Page/HOT_GAME.md "wikilink")》的宣傳活動－Wing
 Car計畫從7月7日的大邱開始，8日釜山、9日訪問大田，七位成員和印有A-JAX形象的大型Wing
 Car一起在大邱東城路、釜山西面等地進行游擊演出，表演出道主打歌曲〈ONE 4 U〉的舞台並率先公開新曲〈HOT
 GAME〉。此外準備特別舞台、拍照時間、迷你遊戲等多樣的活動，以及驚喜訪問附近初高中等\[27\]\[28\]<small>（活動地點詳見[HOT
-GAME\#活動](https://zh.wikipedia.org/wiki/HOT_GAME#活動 "wikilink")</small>）。7月10日11時公開官方MV，由同公司前輩[KARA成員](../Page/KARA.md "wikilink")[妮可出演女主角](../Page/鄭龍珠.md "wikilink")，7月11日零時正式在各音源網站公開全曲音源\[29\]，由擔任出道單曲〈ONE
+GAME\#活動](https://zh.wikipedia.org/wiki/HOT_GAME#活動 "wikilink")</small>）。7月10日11時公開官方MV，由同公司前輩[KARA成員](https://zh.wikipedia.org/wiki/KARA "wikilink")[妮可出演女主角](../Page/鄭龍珠.md "wikilink")，7月11日零時正式在各音源網站公開全曲音源\[29\]，由擔任出道單曲〈ONE
 4 U〉及先行曲〈只知道你 Never let go〉的作曲家暨製作人STEVEN
 LEE打造而成，並於7月12日首先在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行回歸舞台，當周發行Gaon數位音源排名第59位，統計銷售數5,075,196\[30\]。活動期間其官方CAFE於7月17日公告在7月13日至16日起四日內的投票後正式選出官方FAN
@@ -86,7 +86,7 @@ Fashion Week S/S 2013」\[35\]。而於10月31日推出的日語版本在日發�
 
 #### 應答〈Run Devil Run〉的《2MYX》
 
-在發行首張迷你專輯《[2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink")》前組合先以具有刺激性的海報展開宣傳，並在11月2日開通組合與成員個別[Google+帳號為回歸暖身](../Page/Google+.md "wikilink")，發行當日11月15日則透過媒體新聞得知主打歌曲與[少女時代第二張正規Repackage專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《[Run
+在發行首張迷你專輯《[2MYX](../Page/2MYX.md "wikilink")》前組合先以具有刺激性的海報展開宣傳，並在11月2日開通組合與成員個別[Google+帳號為回歸暖身](../Page/Google+.md "wikilink")，發行當日11月15日則透過媒體新聞得知主打歌曲與[少女時代第二張正規Repackage專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《[Run
 Devil
 Run](https://zh.wikipedia.org/wiki/Run_Devil_Run_\(專輯\) "wikilink")》同為瑞典的音樂人Kalle
 Engstrom所創作的歌曲，因此兩首曲目有音樂性共通的部分，歌詞也是描寫“Run Devil
@@ -94,8 +94,7 @@ Run”中「Devil」的答歌\[36\]，同日亦發布完整版音樂影像與同
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」公開。
 
 到現在還沒結束和妳的爭吵 現在真的厭倦了 花花公子的標籤 妳送給我的禮物 我真心的感謝妳 玩弄妳的這段期間 我無趣又沒有紳士風度 I'm
-Devil I'm Devil
-—《[2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink")》
+Devil I'm Devil —《[2MYX](../Page/2MYX.md "wikilink")》
 搞清楚點 你這個Bad Boy 你的好奇心 勝過了真心 這些日子只不過是被你迷昏了頭我才上當的 你真是無趣 你沒禮貌 你是Devil
 Devil就是你 —《Run Devil Run》</small>
 
@@ -134,7 +133,7 @@ Core進行回歸舞台](https://zh.wikipedia.org/wiki/Music_Core "wikilink")。�
 
 ### 2017年：亨坤改名、日本回歸
 
-升辰、重熙參加《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
+升辰、重熙參加《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ### 2019年：團隊解散
 
@@ -363,16 +362,16 @@ PlotData =
 
 ### 韓國MV
 
-|             |                                                              |                                                       |                                                                                                                                        |
-| ----------- | ------------------------------------------------------------ | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 年度          | 歌曲名                                                          | 收錄於                                                   | 合作對象                                                                                                                                   |
-| 2012年5月15日  | [只知道你 Never Let Go](../Page/只知道你_Never_Let_Go.md "wikilink") | [ONE 4 U](../Page/ONE_4_U.md "wikilink")              | [荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")                                                                                     |
-| 2012年6月1日   | [ONE 4 U](../Page/ONE_4_U.md "wikilink")                     | [2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink") | －                                                                                                                                      |
-| 2012年7月10日  | [HOT GAME](../Page/HOT_GAME.md "wikilink")                   | [2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink") | [妮可](../Page/鄭龍珠.md "wikilink")                                                                                                        |
-| 2012年11月15日 | [2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink")        | [2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink") | －                                                                                                                                      |
-| 2013年8月19日  | Insane                                                       | Insane                                                | [Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink") （[栽經](../Page/金栽經.md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")） |
-| 2013年10月27日 | Snake                                                        | Snake                                                 | [Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")（[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）                                  |
-| 2013年11月17日 | Stay with me                                                 | Snake                                                 | －                                                                                                                                      |
+|             |                                                              |                                          |                                                                                                                                        |
+| ----------- | ------------------------------------------------------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 年度          | 歌曲名                                                          | 收錄於                                      | 合作對象                                                                                                                                   |
+| 2012年5月15日  | [只知道你 Never Let Go](../Page/只知道你_Never_Let_Go.md "wikilink") | [ONE 4 U](../Page/ONE_4_U.md "wikilink") | [荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")                                                                                     |
+| 2012年6月1日   | [ONE 4 U](../Page/ONE_4_U.md "wikilink")                     | [2MYX](../Page/2MYX.md "wikilink")       | －                                                                                                                                      |
+| 2012年7月10日  | [HOT GAME](../Page/HOT_GAME.md "wikilink")                   | [2MYX](../Page/2MYX.md "wikilink")       | [妮可](../Page/鄭龍珠.md "wikilink")                                                                                                        |
+| 2012年11月15日 | [2MYX](../Page/2MYX.md "wikilink")                           | [2MYX](../Page/2MYX.md "wikilink")       | －                                                                                                                                      |
+| 2013年8月19日  | Insane                                                       | Insane                                   | [Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink") （[栽經](../Page/金栽經.md "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")） |
+| 2013年10月27日 | Snake                                                        | Snake                                    | [Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")（[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）                                  |
+| 2013年11月17日 | Stay with me                                                 | Snake                                    | －                                                                                                                                      |
 
 ### 日本MV
 
@@ -397,9 +396,9 @@ PlotData =
 |       |                                                           |                                                                     |      |                     |        |
 | ----- | --------------------------------------------------------- | ------------------------------------------------------------------- | ---- | ------------------- | ------ |
 | 年份    | 電視台                                                       | 戲劇名稱                                                                | 參演成員 | 角色                  | 備註     |
-| 2006年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛情與野望](https://zh.wikipedia.org/wiki/愛情與野望 "wikilink")             | 李承燁  | 朴勳                  |        |
+| 2006年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛情與野望](../Page/愛情與野望.md "wikilink")                                | 李承燁  | 朴勳                  |        |
 | 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")       | [IRIS 2](../Page/IRIS_2.md "wikilink")                              | 金導慪  | 宋永珉                 |        |
-| 2013年 | [MBC QueeN](https://zh.wikipedia.org/wiki/MBC "wikilink") | [美甲店Paris](https://zh.wikipedia.org/wiki/美甲店Paris "wikilink")       | 李承燁  | 賢宇                  |        |
+| 2013年 | [MBC QueeN](https://zh.wikipedia.org/wiki/MBC "wikilink") | [美甲店Paris](../Page/美甲店Paris.md "wikilink")                          | 李承燁  | 賢宇                  |        |
 | 2013年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")       | 幻想巨塔                                                                | 李承燁  | EP7客串               |        |
 | 2014年 | [Naver TV Cast](../Page/NAVER.md "wikilink")              | 吸血鬼之花                                                               | 徐在亨  | 路易Rui               |        |
 | 金導慪   | 雷卡Reka                                                    |                                                                     |      |                     |        |
@@ -472,7 +471,7 @@ PlotData =
 <td><p>6月20日、6月26日、10月23日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>SBS MTV</p></td>
 <td><p>6月29日、7月6日</p></td>
 </tr>
@@ -547,7 +546,7 @@ PlotData =
 <td><p>7月24日、8月7日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>SBS MTV</p></td>
 <td><p>8月3日</p></td>
 </tr>
@@ -587,7 +586,7 @@ PlotData =
 <td><p>12月12日、12月18日、12月25日、1月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>SBS MTV</p></td>
 <td><p>12月14日、2月3日</p></td>
 </tr>
@@ -825,7 +824,7 @@ PlotData =
 <td><p>2012年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2MYX" title="wikilink">2MYX</a></p></td>
+<td><p><a href="../Page/2MYX.md" title="wikilink">2MYX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Hot Game</p></td>
@@ -872,7 +871,7 @@ PlotData =
   - 2012年6月3日，成員孟允永於[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")『[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")』演出歌曲《[ONE
     4
     U](../Page/ONE_4_U.md "wikilink")》時因出道當日該組合播放形式為預錄，故提前於現場重複錄製達10次之多的表演並且反覆演出危險的背躺下舞蹈動作，造成該成員受傷，現場結束後隨即送醫。
-  - 2012年12月31日，成員朴成民因病缺席[MBC跨年特別節目](https://zh.wikipedia.org/wiki/MBC "wikilink")『歌謠大慶典』，故未能參與歌曲《[2MYX](https://zh.wikipedia.org/wiki/2MYX "wikilink")》的現場演出。
+  - 2012年12月31日，成員朴成民因病缺席[MBC跨年特別節目](https://zh.wikipedia.org/wiki/MBC "wikilink")『歌謠大慶典』，故未能參與歌曲《[2MYX](../Page/2MYX.md "wikilink")》的現場演出。
 
 ## 註解與參考來源
 

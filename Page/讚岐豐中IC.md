@@ -1,4 +1,4 @@
-**讚岐豐中IC**（平假名：さぬきとよなかインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[三豐市的](../Page/三豐市.md "wikilink")[高松自動車道之](https://zh.wikipedia.org/wiki/高松自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**讚岐豐中IC**（平假名：さぬきとよなかインターチェンジ）是位於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")[三豐市的](../Page/三豐市.md "wikilink")[高松自動車道之](../Page/高松自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1987年12月16日 -
-    [高松自動車道](https://zh.wikipedia.org/wiki/高松自動車道 "wikilink")[善通寺IC至](https://zh.wikipedia.org/wiki/善通寺IC "wikilink")[川之江JCT之間開通](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")，此交流道也同時啟用。
+    [高松自動車道](../Page/高松自動車道.md "wikilink")[善通寺IC至](https://zh.wikipedia.org/wiki/善通寺IC "wikilink")[川之江JCT之間開通](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -24,7 +24,7 @@
 
 ## 鄰近設施
 
-  - [高松自動車道](https://zh.wikipedia.org/wiki/高松自動車道 "wikilink")
+  - [高松自動車道](../Page/高松自動車道.md "wikilink")
     (3-1)[三豐鳥坂IC](https://zh.wikipedia.org/wiki/三豐鳥坂IC "wikilink") -
     [高瀨PA](https://zh.wikipedia.org/wiki/高瀨PA "wikilink") -
     (4)**讚岐豐中IC** - (5)[大野原IC](../Page/大野原IC.md "wikilink")

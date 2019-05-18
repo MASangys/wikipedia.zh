@@ -208,13 +208,13 @@
 
   - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[浅川圭司](https://zh.wikipedia.org/wiki/浅川圭司 "wikilink")《**-{ROBOTICS;NOTES}-**》Mag
     Garden〈[月刊Comic
-    BLADE](https://zh.wikipedia.org/wiki/月刊Comic_BLADE "wikilink")〉2012年3月號刊登第0話，2012年4月正式連載。
+    BLADE](../Page/月刊Comic_BLADE.md "wikilink")〉2012年3月號刊登第0話，2012年4月正式連載。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Mag_Garden" title="wikilink">Mag Garden</a></p></th>
+<th><p><a href="../Page/Mag_Garden.md" title="wikilink">Mag Garden</a></p></th>
 <th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
@@ -378,7 +378,7 @@
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p><a href="../Page/enterbrain.md" title="wikilink">enterbrain</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -514,7 +514,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[海法紀光](https://zh.wikipedia.org/wiki/海法紀光 "wikilink")／插畫：[笹森トモエ](https://zh.wikipedia.org/wiki/笹森トモエ "wikilink")《****》
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[海法紀光](../Page/海法紀光.md "wikilink")／插畫：[笹森トモエ](https://zh.wikipedia.org/wiki/笹森トモエ "wikilink")《****》
 
 <table>
 <thead>
@@ -573,7 +573,7 @@
 
 ## 電視動畫
 
-2012年10月11日[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA開始播放](../Page/noitaminA.md "wikilink")\[15\]。
+2012年10月11日[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA開始播放](https://zh.wikipedia.org/wiki/noitaminA "wikilink")\[15\]。
 
 ### 工作人員
 
@@ -684,7 +684,7 @@
 <td><p>#05</p></td>
 <td></td>
 <td><p>可以叫你哥哥嗎？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a></p></td>
+<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a></p></td>
 <td><p>肥塚正史</p></td>
 <td><p>世良悠子</p></td>
 <td></td>
@@ -891,7 +891,7 @@
 <td><p>2012年10月11日－2013年3月21日</p></td>
 <td><p>星期四 25時15分－25時45分</p></td>
 <td><p><strong>製作局</strong><br />
-<a href="../Page/noitaminA.md" title="wikilink">noitaminA第</a>2部</p></td>
+<a href="https://zh.wikipedia.org/wiki/noitaminA" title="wikilink">noitaminA第</a>2部</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圏" title="wikilink">中京廣域圏</a></p></td>

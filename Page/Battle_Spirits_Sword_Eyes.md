@@ -183,7 +183,7 @@ Spirits
 刃的義祖母。
 
   - 高頭（タカト）
-    [配音員](../Page/配音員.md "wikilink")：[吉田麻實](https://zh.wikipedia.org/wiki/吉田麻實 "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：[吉田麻實](../Page/吉田麻實.md "wikilink")
 
 <!-- end list -->
 
@@ -203,7 +203,7 @@ Spirits
 <!-- end list -->
 
   - 山吹（ヤマブキ）
-    [配音員](../Page/配音員.md "wikilink")：[西明日香](https://zh.wikipedia.org/wiki/西明日香 "wikilink")
+    [配音員](../Page/配音員.md "wikilink")：[西明日香](../Page/西明日香.md "wikilink")
 
 <!-- end list -->
 

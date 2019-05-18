@@ -47,10 +47,10 @@ Apache可移植运行时提供的一系列平台无关的功能特性包括：
 
 ## 类似的项目
 
-  - [Glib提供类似的功能特性](../Page/Glib.md "wikilink")。
+  - [Glib提供类似的功能特性](https://zh.wikipedia.org/wiki/Glib "wikilink")。
     支持更多的数据结构和操作系统无关的函数，但[进程间通信相关的函数要少一些](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")（Glib缺少本地和全局锁机制以及共享内存管理）。
 
-  - （NSPR）是[Mozilla项目所使用的跨平台抽象库](../Page/Mozilla.md "wikilink")。也被[Mozilla应用程序框架](https://zh.wikipedia.org/wiki/Mozilla应用程序框架 "wikilink")（XPFE）的其他子项目所使用，以提供跨平台[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）功能特性。
+  - （NSPR）是[Mozilla项目所使用的跨平台抽象库](../Page/Mozilla.md "wikilink")。也被[Mozilla应用程序框架](../Page/Mozilla应用程序框架.md "wikilink")（XPFE）的其他子项目所使用，以提供跨平台[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）功能特性。
 
   - [自适配通信环境](../Page/ACE自适配通信环境.md "wikilink")
     （ACE）是用C++编写的功能与APR相似的面向对象库，广泛应用于商业产品。\[1\]

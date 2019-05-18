@@ -10,7 +10,7 @@ Songs**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono\!
 ## 收錄曲目
 
 1.  **Our Songs**
-    （作詞：[三浦德子](https://zh.wikipedia.org/wiki/三浦德子 "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
+    （作詞：[三浦德子](../Page/三浦德子.md "wikilink")，作曲：[淳君](../Page/淳君.md "wikilink")，編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
       -
         《[守護甜心！派對！](../Page/守護甜心！.md "wikilink")》片尾曲（2010年1月至2010年3月）
 2.  **MIRACLE HAPPY LOVE SONG**

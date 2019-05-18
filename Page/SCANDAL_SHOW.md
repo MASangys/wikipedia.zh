@@ -19,8 +19,7 @@ Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 12. **[EVERYBODY SAY YEAH\!](../Page/TEMPTATION_BOX.md "wikilink")**
     \[3:44\]
 13. **[カゲロウ -album
-    mix-](https://zh.wikipedia.org/wiki/YAH!YAH!YAH!_HELLO_SCANDAL "wikilink")**
-    \[4:25\]
+    mix-](../Page/YAH!YAH!YAH!_HELLO_SCANDAL.md "wikilink")** \[4:25\]
 14. **[SAKURA再見](../Page/SAKURA再見.md "wikilink")** \[3:59\]
 15. **[SCANDAL BABY](../Page/BEST★SCANDAL.md "wikilink")** \[5:05\]
 16. **SCANDAL的主題曲（SCANDALのテーマ）** \[1:36\]

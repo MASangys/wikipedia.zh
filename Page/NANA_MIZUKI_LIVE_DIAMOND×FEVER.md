@@ -13,36 +13,36 @@ MIZUKI LIVE DIAMOND」的影像收錄。
 
 ### Disc-1
 
-|    |                                                                                               |
-| -- | --------------------------------------------------------------------------------------------- |
-| 01 | **OPENING**                                                                                   |
-| 02 | **[ミラクル☆フライト](https://zh.wikipedia.org/wiki/ALIVE_&_KICKING "wikilink")**                     |
-| 03 | **[アオイイロ](https://zh.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink")**                |
-| 04 | **[アノネ 〜まみむめ☆もがちょ〜](https://zh.wikipedia.org/wiki/想い_\(水樹奈奈單曲\) "wikilink")**                 |
-| 05 | **MC-1**                                                                                      |
-| 06 | **[The place of happiness](https://zh.wikipedia.org/wiki/The_place_of_happiness "wikilink")** |
-| 07 | **[蒼き光の果て -ULTIMATE MODE-](../Page/ULTIMATE_DIAMOND.md "wikilink")**                          |
-| 08 | **[Nostalgia](../Page/GREAT_ACTIVITY.md "wikilink")**                                         |
-| 09 | **音楽戦隊チェリボセブンのテーマ**                                                                           |
-| 10 | **[沈黙の果実](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                           |
-| 11 | **[残光のガイア](../Page/HYBRID_UNIVERSE.md "wikilink")**                                           |
-| 12 | **MC-2**                                                                                      |
-| 13 | **[STAND](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                        |
-| 14 | **[少年](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                              |
-| 15 | **二人のMemory 〜prologue〜 (短編動画)**                                                               |
-| 16 | **[二人のMemory](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                    |
-| 17 | **[PERFECT SMILE](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                   |
-| 18 | **MC-3**                                                                                      |
-| 19 | '''[innocent starter](../Page/innocent_starter.md "wikilink") (acoustice ver.) '''            |
-| 20 | **[NAKED FEELS](../Page/HYBRID_UNIVERSE.md "wikilink")(acoustice ver.)**                      |
-| 21 | **MC-4**                                                                                      |
-| 22 | **[深愛](../Page/深愛.md "wikilink") (acoustice ver.)**                                           |
-| 23 | **TEAM YO-DA SHOWCASE**                                                                       |
-| 24 | **[Gimmick Game](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                    |
-| 25 | **[still in the groove](https://zh.wikipedia.org/wiki/still_in_the_groove "wikilink")**       |
-| 26 | **[Take a shot](https://zh.wikipedia.org/wiki/ALIVE_&_KICKING "wikilink")**                   |
-| 27 | **MC-5**                                                                                      |
-| 28 | **[BRAVE PHOENIX](../Page/SUPER_GENERATION.md "wikilink")**                                   |
+|    |                                                                                                       |
+| -- | ----------------------------------------------------------------------------------------------------- |
+| 01 | **OPENING**                                                                                           |
+| 02 | **[ミラクル☆フライト](https://zh.wikipedia.org/wiki/ALIVE_&_KICKING "wikilink")**                             |
+| 03 | **[アオイイロ](https://zh.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink")**                        |
+| 04 | **[アノネ 〜まみむめ☆もがちょ〜](https://zh.wikipedia.org/wiki/想い_\(水樹奈奈單曲\) "wikilink")**                         |
+| 05 | **MC-1**                                                                                              |
+| 06 | **[The place of happiness](https://zh.wikipedia.org/wiki/The_place_of_happiness "wikilink")**         |
+| 07 | **[蒼き光の果て -ULTIMATE MODE-](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                  |
+| 08 | **[Nostalgia](../Page/GREAT_ACTIVITY.md "wikilink")**                                                 |
+| 09 | **音楽戦隊チェリボセブンのテーマ**                                                                                   |
+| 10 | **[沈黙の果実](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                                   |
+| 11 | **[残光のガイア](../Page/HYBRID_UNIVERSE.md "wikilink")**                                                   |
+| 12 | **MC-2**                                                                                              |
+| 13 | **[STAND](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                                |
+| 14 | **[少年](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                                      |
+| 15 | **二人のMemory 〜prologue〜 (短編動画)**                                                                       |
+| 16 | **[二人のMemory](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**                            |
+| 17 | **[PERFECT SMILE](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                           |
+| 18 | **MC-3**                                                                                              |
+| 19 | '''[innocent starter](https://zh.wikipedia.org/wiki/innocent_starter "wikilink") (acoustice ver.) ''' |
+| 20 | **[NAKED FEELS](../Page/HYBRID_UNIVERSE.md "wikilink")(acoustice ver.)**                              |
+| 21 | **MC-4**                                                                                              |
+| 22 | **[深愛](../Page/深愛.md "wikilink") (acoustice ver.)**                                                   |
+| 23 | **TEAM YO-DA SHOWCASE**                                                                               |
+| 24 | **[Gimmick Game](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                            |
+| 25 | **[still in the groove](https://zh.wikipedia.org/wiki/still_in_the_groove "wikilink")**               |
+| 26 | **[Take a shot](https://zh.wikipedia.org/wiki/ALIVE_&_KICKING "wikilink")**                           |
+| 27 | **MC-5**                                                                                              |
+| 28 | **[BRAVE PHOENIX](../Page/SUPER_GENERATION.md "wikilink")**                                           |
 
 ### Disc-2
 

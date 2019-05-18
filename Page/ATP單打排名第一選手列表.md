@@ -1263,7 +1263,7 @@
   -
 ## 另見
 
-  - [WTA單打與雙打世界第一列表](https://zh.wikipedia.org/wiki/WTA單打與雙打世界第一列表 "wikilink")
+  - [WTA單打與雙打世界第一列表](../Page/WTA單打與雙打世界第一列表.md "wikilink")
 
 ## 外部連結
 

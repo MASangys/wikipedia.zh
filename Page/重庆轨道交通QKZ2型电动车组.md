@@ -1,6 +1,6 @@
 [Chongqing_(27169477922).jpg](https://zh.wikipedia.org/wiki/File:Chongqing_\(27169477922\).jpg "fig:Chongqing_(27169477922).jpg")
 
-**重庆轨道交通QKZ2型电动车组**是[重庆轨道交通的](../Page/重庆轨道交通.md "wikilink")[单轨铁路车辆](https://zh.wikipedia.org/wiki/单轨铁路 "wikilink")，行走于[2号线](https://zh.wikipedia.org/wiki/重庆轨道交通2号线 "wikilink")。車輛原型是[大阪單軌鐵路的](https://zh.wikipedia.org/wiki/大阪高速鐵道 "wikilink")。
+**重庆轨道交通QKZ2型电动车组**是[重庆轨道交通的](../Page/重庆轨道交通.md "wikilink")[单轨铁路车辆](https://zh.wikipedia.org/wiki/单轨铁路 "wikilink")，行走于[2号线](https://zh.wikipedia.org/wiki/重庆轨道交通2号线 "wikilink")。車輛原型是[大阪單軌鐵路的](../Page/大阪高速鐵道.md "wikilink")。
 
 ## 简介
 

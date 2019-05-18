@@ -3,7 +3,7 @@ Emotions**》為日本組合[Superfly於](../Page/Superfly.md "wikilink")2009年
 
 ## 簡介
 
-與前作《[Superfly](https://zh.wikipedia.org/wiki/Superfly_\(專輯\) "wikilink")》發行時間相隔約1年4個月。初回限定盤為紙盒包裝的Box樣式，並收錄5首單曲的[音樂錄影帶並附贈](../Page/音樂錄影帶.md "wikilink")13首歌的歌曲印象明信片。
+與前作《[Superfly](../Page/Superfly_\(專輯\).md "wikilink")》發行時間相隔約1年4個月。初回限定盤為紙盒包裝的Box樣式，並收錄5首單曲的[音樂錄影帶並附贈](../Page/音樂錄影帶.md "wikilink")13首歌的歌曲印象明信片。
 
 本作跟前作一樣再次獲得了[公信榜冠軍](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，為女性歌手出道以來連續兩張專輯奪冠，為2003年的《[ノマド・ソウル](https://zh.wikipedia.org/wiki/ノマド・ソウル "wikilink")》（[元千歲](../Page/元千歲.md "wikilink")）以來6年再次有人達到此紀錄。並獲得了2009年度年間專輯排行第9名。
 

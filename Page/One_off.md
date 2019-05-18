@@ -54,7 +54,8 @@ off**》（）是一部在2012年推出的[日本原創](../Page/日本.md "wiki
   - 攝影監督：荻原猛夫
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")、原口昇
   - 音樂：原田節（）
-  - 音樂製作：[flying DOG](../Page/flying_DOG.md "wikilink")
+  - 音樂製作：[flying
+    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
   - 動画製作：[TYO
     Animations](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
   - 特别贊助：[HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")

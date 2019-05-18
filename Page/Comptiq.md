@@ -29,7 +29,7 @@
     / 作画：[山本和枝](../Page/山本和枝.md "wikilink") / 制作協力：UTATA）
   - [機神咆哮デモンベイン](https://zh.wikipedia.org/wiki/斬魔大聖デモンベイン "wikilink")（シナリオ：[種子島貴](https://zh.wikipedia.org/wiki/種子島貴 "wikilink")
     / 作画：[たなか友其](https://zh.wikipedia.org/wiki/たなか友其 "wikilink")）
-  - [AIR](../Page/AIR_\(遊戲\).md "wikilink")（[桂遊生丸](https://zh.wikipedia.org/wiki/桂遊生丸 "wikilink")）
+  - [AIR](../Page/AIR_\(遊戲\).md "wikilink")（[桂遊生丸](../Page/桂遊生丸.md "wikilink")）
   - [エウレカセブン
     グラヴィティボーイズ&リフティングガール](https://zh.wikipedia.org/wiki/交響詩篇 "wikilink")（シナリオ：[清水惠](https://zh.wikipedia.org/wiki/清水惠 "wikilink")
     / 漫画：[貴月未来](https://zh.wikipedia.org/wiki/貴月未来 "wikilink")）
@@ -40,8 +40,8 @@
     night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")（シナリオ：[久我城貴哉](https://zh.wikipedia.org/wiki/久我城貴哉 "wikilink")
     / 作画：[鳴瀬ひろふみ](https://zh.wikipedia.org/wiki/鳴瀬ひろふみ "wikilink")）
   - [D.C. 〜ダ・カーポ〜](../Page/初音島.md "wikilink")
-    （原案：[CIRCUS](../Page/CIRCUS_\(遊戲品牌\).md "wikilink") /
-    作画：[たにはらなつき](https://zh.wikipedia.org/wiki/たにはらなつき "wikilink")）
+    （原案：[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")
+    / 作画：[たにはらなつき](https://zh.wikipedia.org/wiki/たにはらなつき "wikilink")）
   - [D.C.S.G. 〜ダ・カーポ
     セカンドグラデュエーション〜](https://zh.wikipedia.org/wiki/D.C._〜ダ・カーポ〜 "wikilink")
     （原案：CIRCUS / 作画：Cherish\[1\]）
@@ -72,7 +72,7 @@
     （原案：[日本一ソフトウェア](https://zh.wikipedia.org/wiki/日本一ソフトウェア "wikilink")
     / 作画：[道満晴明](https://zh.wikipedia.org/wiki/道満晴明 "wikilink")）
   - [下級生2 〜brilliant days〜](../Page/下級生2.md "wikilink")
-    （原作：[élf](../Page/élf.md "wikilink") /
+    （原作：[élf](https://zh.wikipedia.org/wiki/élf "wikilink") /
     作画：[虎向ひゅうら](https://zh.wikipedia.org/wiki/虎向ひゅうら "wikilink")）
   - [桃華月憚](../Page/桃華月憚.md "wikilink")（原作：ROOT /
     監修：[宙形安久里](https://zh.wikipedia.org/wiki/宙形安久里 "wikilink")
@@ -114,8 +114,8 @@
   - [シュタインズ・ゲート](https://zh.wikipedia.org/wiki/命运石之门 "wikilink") (森田柚花)
   - はとがいる (てっけんとう)
   - 碧陽學園學生會議事錄 ぷち (石切練炭)
-  - [晴天中的偶然落雨](../Page/晴天中的偶然落雨.md "wikilink")（原作：[Palette](../Page/Palette.md "wikilink")
-    / 漫画：[SAA](https://zh.wikipedia.org/wiki/SAA "wikilink")）
+  - [晴天中的偶然落雨](../Page/晴天中的偶然落雨.md "wikilink")（原作：[Palette](https://zh.wikipedia.org/wiki/Palette "wikilink")
+    / 漫画：[SAA](../Page/SAA.md "wikilink")）
 
 ### 小説
 
@@ -124,7 +124,7 @@
   - [パンゲア](https://zh.wikipedia.org/wiki/パンゲア "wikilink")（松枝蔵人　画：[吉富昭仁](../Page/吉富昭仁.md "wikilink")）
   - [神拳李酔龍](https://zh.wikipedia.org/wiki/神拳李酔龍 "wikilink")（[高千穂遙](https://zh.wikipedia.org/wiki/高千穂遙 "wikilink")　画：迎夏生）
   - [ef - a fairy tale of the two. another
-    tale](../Page/ef_-_a_fairy_tale_of_the_two..md "wikilink")（[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](https://zh.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")　画：[七尾奈留](../Page/七尾奈留.md "wikilink")、[庄名泉石](https://zh.wikipedia.org/wiki/庄名泉石 "wikilink")）
+    tale](https://zh.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")（[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")、[御影](https://zh.wikipedia.org/wiki/御影_\(シナリオライター\) "wikilink")　画：[七尾奈留](../Page/七尾奈留.md "wikilink")、[庄名泉石](https://zh.wikipedia.org/wiki/庄名泉石 "wikilink")）
   - [白銀のカル
     Cal\&Toara](https://zh.wikipedia.org/wiki/白銀のカル_Cal&Toara "wikilink")（[竹内なおゆき](https://zh.wikipedia.org/wiki/竹内なおゆき "wikilink")　画：[駒都えーじ](https://zh.wikipedia.org/wiki/駒都えーじ "wikilink")）
   - らき☆すた ゆるゆるでぃず（原作：美水かがみ / 著：[待田堂子](../Page/待田堂子.md "wikilink")）

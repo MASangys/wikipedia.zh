@@ -153,7 +153,7 @@ Junior後不再參與組合演唱會，起範淡出組合並專注演員活動�
 <tbody>
 <tr class="odd">
 <td><p>2010年8月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a>[2]</p></td>
 </tr>
@@ -269,7 +269,7 @@ Junior後不再參與組合演唱會，起範淡出組合並專注演員活動�
 <td><p>2011年5月7日</p></td>
 <td><p><a href="../Page/胡志明市.md" title="wikilink">胡志明市</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丘豆運動場" title="wikilink">Go Dau体育馆</a></p></td>
+<td><p><a href="../Page/丘豆運動場.md" title="wikilink">Go Dau体育馆</a></p></td>
 </tr>
 </tbody>
 </table>

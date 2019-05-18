@@ -6,11 +6,11 @@ magazine](../Page/電擊G's_magazine.md "wikilink")》共同合作推出的读�
 
 「LoveLive\! school idol project」是一個由《[電擊G's
 magazine](../Page/電擊G's_magazine.md "wikilink")》、音樂公司[Lantis以及動畫製作公司](../Page/Lantis.md "wikilink")[日昇合同籌辦的企劃](../Page/日昇動畫.md "wikilink")\[2\]。企劃採用了比較特別的分業體制：故事的背景敘述和讀者參與的活動主要由《電擊G's
-magazine》雜誌進行，宣傳影片由日昇製作，而音樂CD則由Lantis推出發行。企劃在2010年初於雜誌上首先開始，由九位女聲優組成名為[μ's的團體](../Page/μ's.md "wikilink")，並各有其對應虛擬角色形象，並於2010年8月13日發售首張單曲《[我們的LIVE
-與你的LIFE](https://zh.wikipedia.org/wiki/我們的LIVE_與你的LIFE "wikilink")》\[3\]。
+magazine》雜誌進行，宣傳影片由日昇製作，而音樂CD則由Lantis推出發行。企劃在2010年初於雜誌上首先開始，由九位女聲優組成名為[μ's的團體](https://zh.wikipedia.org/wiki/μ's "wikilink")，並各有其對應虛擬角色形象，並於2010年8月13日發售首張單曲《[我們的LIVE
+與你的LIFE](../Page/我們的LIVE_與你的LIFE.md "wikilink")》\[3\]。
 
 《G's》雜誌在本企劃前也進行了很多讀者參與的企劃，但能夠實現動畫化和遊戲化的企劃則寥寥可數，故此企劃積極與讀者進行互動，並舉行了組合名稱募集、分隊編制投票和歌曲中心成員選舉等多項活動\[4\]。2013年第一期動畫的播出一般被視為是「LoveLive\!」企劃人氣爆發的轉折點\[5\]，動畫化後的唱片銷量比之前錄得了顯著上升\[6\]，並帶動了Lantis的相關產品銷量，使其收入上升近四成，登上2014年排行榜第九名\[7\]。同年推出[智能手機遊戲](https://zh.wikipedia.org/wiki/智能手機 "wikilink")《[LoveLive\!
-學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭 "wikilink")》，使用者人數於2014年突破了1000萬人\[8\]，2017年時達到4000萬。
+學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》，使用者人數於2014年突破了1000萬人\[8\]，2017年時達到4000萬。
 
 在企劃開始時，「LoveLive\!」最初並沒有一個明確的故事背景，當時讀者對故事的認知只能從CD中收錄的[廣播劇和](../Page/廣播劇.md "wikilink")《G's》雜誌上的簡短介紹等拼湊起來。直至後來漫畫和電視動畫開始連載播放後有一個清晰的故事背景，不過漫畫和電視動畫中的故事都會有稍微出入。在電視動畫中，女主角群為了音乃木坂學院的存續而組成學園偶像團體μ's並努力進行活動，並參加了名為LoveLive\!的學園偶像大會，最終獲得佳績。
 
@@ -122,8 +122,8 @@ Sunshine\!\!”的新項目和圖片，為一個女孩在海灘中央。\[11\]\[
 
 由[公野櫻子著作](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，室田雄平、音乃夏、清瀨赤目进行插画。主要内容为μ's成员9人的日记。
 
-日文版由[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA "wikilink") [ASCII
-Media Works出版](../Page/ASCII_Media_Works.md "wikilink")；简体中文版（标题译作《Love
+日文版由[KADOKAWA](../Page/KADOKAWA.md "wikilink") [ASCII Media
+Works出版](../Page/ASCII_Media_Works.md "wikilink")；简体中文版（标题译作《Love
 Live\!
 校园偶像日记》）由[天闻角川代理发行](../Page/天闻角川.md "wikilink")，[浙江人民美术出版社出版](../Page/浙江人民美术出版社.md "wikilink")；繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")\[27\]代理发行。
 
@@ -265,7 +265,7 @@ Live\!
 
 《LoveLive！》的CD由[Lantis發行](../Page/Lantis.md "wikilink")，含[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、Radio
 CD和BD[特典等](https://zh.wikipedia.org/wiki/wikt:特典 "wikilink")。從2010年8月25日發行首張單曲《[我們的LIVE
-與你的LIFE](https://zh.wikipedia.org/wiki/我們的LIVE_與你的LIFE "wikilink")》開始，以[μ's名義及其下組合共發行了](../Page/μ's.md "wikilink")40張單曲，以[Aqours名義及其下組合則發行了](../Page/Aqours.md "wikilink")12張；單曲種類包含普通單曲以及電視動畫和電影的曲目，也有電子遊戲的主題曲。專輯則共有九張，包含電視動畫原聲帶，以及單曲的精選，還有合作專輯等。Radio
+與你的LIFE](../Page/我們的LIVE_與你的LIFE.md "wikilink")》開始，以[μ's名義及其下組合共發行了](https://zh.wikipedia.org/wiki/μ's "wikilink")40張單曲，以[Aqours名義及其下組合則發行了](../Page/Aqours.md "wikilink")12張；單曲種類包含普通單曲以及電視動畫和電影的曲目，也有電子遊戲的主題曲。專輯則共有九張，包含電視動畫原聲帶，以及單曲的精選，還有合作專輯等。Radio
 CD則發行三部，收錄網路電台《》的相關內容。BD特典則為歷次發行的BD附贈CD。
 
 ### 精选辑
@@ -278,7 +278,7 @@ CD則發行三部，收錄網路電台《》的相關內容。BD特典則為歷�
 #### 電子遊戲
 
 《[LoveLive\!
-學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭 "wikilink")》（）由[KLab開發](https://zh.wikipedia.org/wiki/KLab "wikilink")、[武士道營運的](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2013年4月15日於[iOS首先推出](../Page/iOS.md "wikilink")，後於6月8日起逐步開放予[Android的不同版本的平台](../Page/Android.md "wikilink")。2014年5月12日，英文版開放全球各地區下載；同月22日，中文區代理商在上述兩個手機平臺推出繁體中文版，並於三周後推出簡體中文版。同年6月，韓文版亦在Android平台上開放下載，一週後於iOS
+學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》（）由[KLab開發](../Page/KLab.md "wikilink")、[武士道營運的](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2013年4月15日於[iOS首先推出](https://zh.wikipedia.org/wiki/iOS "wikilink")，後於6月8日起逐步開放予[Android的不同版本的平台](../Page/Android.md "wikilink")。2014年5月12日，英文版開放全球各地區下載；同月22日，中文區代理商在上述兩個手機平臺推出繁體中文版，並於三周後推出簡體中文版。同年6月，韓文版亦在Android平台上開放下載，一週後於iOS
 [App
 Store上架](../Page/App_Store_\(iOS\).md "wikilink")。遊戲在2014年12月8日已突破全球1000萬名使用者\[40\]。2015年11月，官方宣布将推出该游戏的[街机版本](../Page/街机.md "wikilink")\[41\]，于2016年12月6日发行。
 
@@ -291,11 +291,11 @@ Printemps”、“vol.2 BiBi”和“vol.3 Lily White”，每个版本的曲目
 ACTIVITY～](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_.EF.BD.9Eafter_school_ACTIVITY.EF.BD.9E "wikilink")》（）由[武士道和](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[史克威爾艾尼克斯共同開發](../Page/史克威尔艾尼克斯.md "wikilink")，史克威爾艾尼克斯營運的[街機](../Page/街机.md "wikilink")[節奏遊戲](../Page/音樂遊戲.md "wikilink")，於2016年12月6日起在日本各大遊戲店鋪營運。街機版除繼承了手機版的「卡片收藏和節奏音樂」的基本遊戲機制之外，還加入3DCG的演出動畫，以及列印實體卡片和讀取個人資料卡等機能。遊戲操作方式為實體按鍵，最高難度為「Challenge」難度。除單人模式外，也可於2至3名玩家合作進行遊戲。
 
 《[LoveLive\! 學園偶像祭 ALL
-STARS](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_ALL_STARS "wikilink")》（）將於2018年推出，遊戲內容以[μ's](../Page/μ's.md "wikilink")、[Aqours](../Page/Aqours.md "wikilink")
+STARS](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_ALL_STARS "wikilink")》（）將於2018年推出，遊戲內容以[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink")
 、PDP為主，並有[3D動畫背景](https://zh.wikipedia.org/wiki/3D "wikilink")。已推遲至2019年推出。
 
 《[趴趴玩偶
-LoveLive\!](https://zh.wikipedia.org/wiki/趴趴玩偶_LoveLive! "wikilink")》是由开发的一款消除类手机游戏，2018年4月24日於日本開始上線營運。日前已公布於2019年5月31日終止營運\[42\]。
+LoveLive\!](../Page/趴趴玩偶_LoveLive!.md "wikilink")》是由开发的一款消除类手机游戏，2018年4月24日於日本開始上線營運。日前已公布於2019年5月31日終止營運\[42\]。
 
 #### 桌上型遊戲
 
@@ -307,14 +307,14 @@ magazine](https://zh.wikipedia.org/wiki/电击G's_magazine "wikilink")》于2015
 
 ### 廣播節目
 
-《LoveLive\!》共有六個廣播節目，在[NICONICO動畫網站上有](../Page/NICONICO動畫.md "wikilink")《》、《》、《》等網路電視廣播，均已播放完畢。以及在上已播畢的《》。還有Lisani！TV上已播畢的音樂情報節目《》。以及[文化放送的無線電廣播節目](https://zh.wikipedia.org/wiki/文化放送 "wikilink")《》，亦已完結。
+《LoveLive\!》共有六個廣播節目，在[NICONICO動畫網站上有](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")《》、《》、《》等網路電視廣播，均已播放完畢。以及在上已播畢的《》。還有Lisani！TV上已播畢的音樂情報節目《》。以及[文化放送的無線電廣播節目](https://zh.wikipedia.org/wiki/文化放送 "wikilink")《》，亦已完結。
 
 《LoveLive\!
 Sunshine\!\!》目前推出了网络广播节目《》，现正播出中。另外还在Lisani！TV推出了以介绍动画内容为主的《》。
 
 ### 合作
 
-  - 遊戲[神明與命運革命的悖論](https://zh.wikipedia.org/wiki/神明與命運革命的悖論 "wikilink")（2013年1月24日發售），由μ's全員出演。
+  - 遊戲[神明與命運革命的悖論](../Page/神明與命運革命的悖論.md "wikilink")（2013年1月24日發售），由μ's全員出演。
   - [神田明神在日本電視動畫](../Page/神田明神.md "wikilink")《LoveLive\!》中，神田神社直接出現且成為了主角群之一的東條希兼職擔任巫女的打工地點，該神社和其正前方的階梯《明神男坂》，也因此成為了該動漫支持者心目中的的「聖地」。而神社方面也和《LoveLive\!》官方進行合作進行宣傳，指定以東條希為神社官方二次元代表人物，並且已經發售了東條希繪馬、護身符等周邊。2014年12月31日，在LoveLive！官方的萬代頻道直播的特別節目「ラブライブ！2014年ありがとう忘年會～μ'sと過ごす大晦日SP～より」(LoveLive！2014感謝忘年會)中，正式宣布了2015年將會與神田明神合作，參與神田明神兩年一度的大祭典神田祭。且2015年適逢神田明神搬遷至今址400周年紀念，將會進行比以往更盛大的慶祝活動。\[46\]
   - 2016年1月，《LoveLive\!》官方宣布与[VOCALOID旗下角色](../Page/VOCALOID.md "wikilink")[初音未来合作](https://zh.wikipedia.org/wiki/初音未来 "wikilink")，并推出“Lovelive\!
     SNOW MIKU 2016”相关周边\[47\]\[48\]。
@@ -328,11 +328,11 @@ Sunshine\!\!》目前推出了网络广播节目《》，现正播出中。另�
 日本有不少演艺界名人均是「LoveLive\!」的支持者，當中包括男性聲優[島崎信長](../Page/島崎信長.md "wikilink")、[Kis-My-Ft2的](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[宮田俊哉](../Page/宮田俊哉.md "wikilink")、女性播音員、搞笑藝人和等\[50\]。而《LoveLive\!》於2014年4月左右迅速在中文地區走紅，其人气、快速增加的狂热粉丝、话题的广泛性，再加磕头跪拜的行为（見下文），让人感觉粉丝的活动近乎失控，因此《LoveLive\!》在中文世界裡被戲稱為「[邪教](../Page/邪教.md "wikilink")」，其愛好者之間還產生所謂「LL神教」、「LL大法好」、「Aji人」、“拉拉人”、“loveliver”等次文化習語。\[51\]
 
 [重庆轨道交通一号线Lovelive\!涂装列车.jpg](https://zh.wikipedia.org/wiki/File:重庆轨道交通一号线Lovelive!涂装列车.jpg "fig:重庆轨道交通一号线Lovelive!涂装列车.jpg")
-第十二届中国国际数码互动娱乐展览会（ChinaJoy）在[上海开展時](https://zh.wikipedia.org/wiki/上海市 "wikilink")，[盛大和美娱两家企业包下](../Page/盛大网络.md "wikilink")[上海地铁2号线的](../Page/上海轨道交通2号线.md "wikilink")207号列车，將其中一面塗上「LoveLive\!」涂装（另一面為[鎖鏈戰記](https://zh.wikipedia.org/wiki/鎖鏈戰記 "wikilink")），使上海地铁2号线成為中國大陸首條有[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")「[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")」的地鐵線路。2014年7月26日和7月31日在[上海地铁2号线内](../Page/上海轨道交通2号线.md "wikilink")，当這列列车驶进站后，有几名男性动漫迷当场“下跪膜拜”（即日語中的「[土下座](https://zh.wikipedia.org/wiki/土下座 "wikilink")」）。这類事件引发网络上非动漫迷和动漫迷的爭議。地铁运营方表示，这种下跪膜拜现象会影响地铁的运营秩序。外界曾推測“[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")”有可能因此被雪藏（事实是，被痛的207车原本就是上海地铁的一辆常备车），不過上海地铁於7月31日向[澎湃新闻表示](https://zh.wikipedia.org/wiki/澎湃新闻 "wikilink")，列车运营至8月中下旬后才会把广告移除。
+第十二届中国国际数码互动娱乐展览会（ChinaJoy）在[上海开展時](https://zh.wikipedia.org/wiki/上海市 "wikilink")，[盛大和美娱两家企业包下](../Page/盛大网络.md "wikilink")[上海地铁2号线的](../Page/上海轨道交通2号线.md "wikilink")207号列车，將其中一面塗上「LoveLive\!」涂装（另一面為[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")），使上海地铁2号线成為中國大陸首條有[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")「[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")」的地鐵線路。2014年7月26日和7月31日在[上海地铁2号线内](../Page/上海轨道交通2号线.md "wikilink")，当這列列车驶进站后，有几名男性动漫迷当场“下跪膜拜”（即日語中的「[土下座](https://zh.wikipedia.org/wiki/土下座 "wikilink")」）。这類事件引发网络上非动漫迷和动漫迷的爭議。地铁运营方表示，这种下跪膜拜现象会影响地铁的运营秩序。外界曾推測“[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")”有可能因此被雪藏（事实是，被痛的207车原本就是上海地铁的一辆常备车），不過上海地铁於7月31日向[澎湃新闻表示](https://zh.wikipedia.org/wiki/澎湃新闻 "wikilink")，列车运营至8月中下旬后才会把广告移除。
 
 除了上海的「痛列車」以外，[四川省](../Page/四川省.md "wikilink")[成都市在同年](../Page/成都市.md "wikilink")8月舉行[次文化活動時也有](../Page/次文化.md "wikilink")[巴士貼上](https://zh.wikipedia.org/wiki/巴士 "wikilink")「LoveLive\!」廣告，並同樣有支持者在車前跪拜。類似情況也曾在南韓[首爾地鐵2號線出現](../Page/首爾地鐵2號線.md "wikilink")\[52\]。
 
-2015年3月29日起，[重庆地铁1号线同样上线一列](https://zh.wikipedia.org/wiki/重庆轨道交通1号线 "wikilink")「LoveLive\!」痛车，当天引起至少6人跪拜，更发生一名手持三脚架的乘客（据称此人为[艦隊Collection玩家](https://zh.wikipedia.org/wiki/艦隊Collection "wikilink")）向其中一名跪拜者泼水的事件。此事件传到Twitter上，引发全球网友的讨论。\[53\]
+2015年3月29日起，[重庆地铁1号线同样上线一列](https://zh.wikipedia.org/wiki/重庆轨道交通1号线 "wikilink")「LoveLive\!」痛车，当天引起至少6人跪拜，更发生一名手持三脚架的乘客（据称此人为[艦隊Collection玩家](../Page/艦隊Collection.md "wikilink")）向其中一名跪拜者泼水的事件。此事件传到Twitter上，引发全球网友的讨论。\[53\]
 
 有民眾認為“跪拜”行為太夸张，一些動漫迷也認為這會造成[二次元](https://zh.wikipedia.org/wiki/次元_\(動漫用語\) "wikilink")（漫迷）和三次元（非漫迷）之間的隔閡。一名[復旦大學社会学系教授亦稱行為需要纠正](https://zh.wikipedia.org/wiki/復旦大學 "wikilink")。但也有動漫迷認為這種現象在[日本並不少見](../Page/日本.md "wikilink")，只是中國可能暫時無法接受\[54\]。[上海大学社会学系教授顾骏認為只要不為旁人帶來不便](../Page/上海大学.md "wikilink")，跪拜動漫人物本身沒有甚麼問題，因為「老一辈的人可以跪拜菩萨、树或其他图腾，年轻人也可以有他们的追求。」\[55\]《實話BUNK超TABOO》（）在6月號的雜誌裡就批評《LoveLive\!》的支持者，稱「良好市民在街上看見LoveLiver時或許應該報警舉報」，並把LoveLiver放在《2015噁心fans排行榜》的第一名。此舉引來大批支持者經Twitter和電話攻擊雜誌編採部。\[56\]
 
@@ -341,7 +341,7 @@ Sunshine\!\!》目前推出了网络广播节目《》，现正播出中。另�
 
 ### 神田明神
 
-[神田明神](../Page/神田明神.md "wikilink")（正式名稱為神田神社）是东京十社之一，供奉着负责[神田](https://zh.wikipedia.org/wiki/神田 "wikilink")、[日本橋](https://zh.wikipedia.org/wiki/日本橋 "wikilink")、[秋葉原](../Page/秋葉原.md "wikilink")、[大手町](https://zh.wikipedia.org/wiki/大手町 "wikilink")、[丸之内](https://zh.wikipedia.org/wiki/丸之内 "wikilink")、神田市場、築地魚市場的总[氏神](../Page/氏神.md "wikilink")（土地神的意思）。在《LoveLive\!》動畫中，神田神社直接出现且成为东条希的打工地点，該[神社因此成为LoveLiver心目中的的](../Page/神社.md "wikilink")「圣地」。而神田神社方面也为《LoveLive\!》大力宣传，甚至指明东条希为神田神社官方偶像，并且已经发售东条希[繪馬](https://zh.wikipedia.org/wiki/繪馬 "wikilink")、[護身符等周边](https://zh.wikipedia.org/wiki/護身符 "wikilink")。\[57\]
+[神田明神](../Page/神田明神.md "wikilink")（正式名稱為神田神社）是东京十社之一，供奉着负责[神田](https://zh.wikipedia.org/wiki/神田 "wikilink")、[日本橋](https://zh.wikipedia.org/wiki/日本橋 "wikilink")、[秋葉原](../Page/秋葉原.md "wikilink")、[大手町](https://zh.wikipedia.org/wiki/大手町 "wikilink")、[丸之内](https://zh.wikipedia.org/wiki/丸之内 "wikilink")、神田市場、築地魚市場的总[氏神](../Page/氏神.md "wikilink")（土地神的意思）。在《LoveLive\!》動畫中，神田神社直接出现且成为东条希的打工地点，該[神社因此成为LoveLiver心目中的的](../Page/神社.md "wikilink")「圣地」。而神田神社方面也为《LoveLive\!》大力宣传，甚至指明东条希为神田神社官方偶像，并且已经发售东条希[繪馬](../Page/繪馬.md "wikilink")、[護身符等周边](https://zh.wikipedia.org/wiki/護身符 "wikilink")。\[57\]
 
 ### 毆鬥事件
 

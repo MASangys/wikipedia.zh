@@ -25,20 +25,20 @@ Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
         成員[Lizzy加入後第一張單曲](https://zh.wikipedia.org/wiki/Lizzy "wikilink")
 5.  **Play Ur Love**
       -
-        由[嘉熙](../Page/嘉熙.md "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[Raina](../Page/Raina.md "wikilink")、[Nana四人合唱的抒情歌](../Page/Nana.md "wikilink")
+        由[嘉熙](../Page/嘉熙.md "wikilink")、[正雅](https://zh.wikipedia.org/wiki/正雅 "wikilink")、[Raina](../Page/Raina.md "wikilink")、[Nana四人合唱的抒情歌](https://zh.wikipedia.org/wiki/Nana "wikilink")
 6.  **Dream**（feat.
     [Yoonjo](../Page/Hello_Venus.md "wikilink")（Pre-School Girl））
 7.  **[因為你](../Page/因為你.md "wikilink")（2011 New Recordings）**（너 때문에）
       -
         2nd單曲
-        成員[Raina和](../Page/Raina.md "wikilink")[Nana加入後第一張單曲](../Page/Nana.md "wikilink")
+        成員[Raina和](../Page/Raina.md "wikilink")[Nana加入後第一張單曲](https://zh.wikipedia.org/wiki/Nana "wikilink")
 8.  **倚靠時間**（시간에 기대어）
       -
         [Raina獨唱](../Page/Raina.md "wikilink")
 9.  **過得還好嗎?**（잘 지내고 있죠）
 10. **Funky Man**（feat. 경민（Pre-School Girl））
       -
-        [Nana與](../Page/Nana.md "wikilink")[Lizzy合唱](https://zh.wikipedia.org/wiki/Lizzy "wikilink")
+        [Nana與](https://zh.wikipedia.org/wiki/Nana "wikilink")[Lizzy合唱](https://zh.wikipedia.org/wiki/Lizzy "wikilink")
 11. **My Bell**
       -
         [正雅獨唱](https://zh.wikipedia.org/wiki/正雅 "wikilink")

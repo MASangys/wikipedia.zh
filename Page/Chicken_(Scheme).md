@@ -29,7 +29,7 @@ Chicken的设计灵感来自電腦科學家的1944年论文\[4\]，这篇论文�
 
 ## 扩展
 
-Chicken有一个站点提供了大量的叫做[eggs](http://wiki.call-cc.org/chicken-projects/egg-index-4.html)的附加的库和程序。这个eggs系统非常像[RubyGems](https://zh.wikipedia.org/wiki/RubyGems "wikilink")，并不集成到用户操作系统的[软件包系统中去](https://zh.wikipedia.org/wiki/软件包 "wikilink")。
+Chicken有一个站点提供了大量的叫做[eggs](http://wiki.call-cc.org/chicken-projects/egg-index-4.html)的附加的库和程序。这个eggs系统非常像[RubyGems](../Page/RubyGems.md "wikilink")，并不集成到用户操作系统的[软件包系统中去](https://zh.wikipedia.org/wiki/软件包 "wikilink")。
 
 ## 另见
 

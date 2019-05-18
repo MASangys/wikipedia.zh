@@ -21,7 +21,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
     Entertainment共同製作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")）
   - [二十面相少女](../Page/二十面相少女.md "wikilink")（與[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")、共同製作）
   - [西洋骨董洋菓子店](https://zh.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")（與[日本動畫公司共同製作](../Page/日本動畫公司.md "wikilink")）
-  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房共同製作](https://zh.wikipedia.org/wiki/動畫工房 "wikilink")）
+  - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房共同製作](../Page/動畫工房.md "wikilink")）
   - [ef - a tale of
     melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT共同製作](../Page/SHAFT.md "wikilink")）
 
@@ -88,8 +88,8 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
   - [Fate/kaleid liner
     魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")
-  - [噬血狂襲](https://zh.wikipedia.org/wiki/噬血狂襲 "wikilink")（與CONNECT共同製作）
-  - [悠悠哉哉少女日和](https://zh.wikipedia.org/wiki/悠悠哉哉少女日和 "wikilink")
+  - [噬血狂襲](../Page/噬血狂襲.md "wikilink")（與CONNECT共同製作）
+  - [悠悠哉哉少女日和](../Page/悠悠哉哉少女日和.md "wikilink")
 
 <!-- end list -->
 
@@ -113,10 +113,10 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
   - [Chaos Dragon 赤龍戰役](../Page/赤龍_\(小說\).md "wikilink")（與CONNECT共同製作）
   - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei
     Herz](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
-  - [悠悠哉哉少女日和 Repeat](https://zh.wikipedia.org/wiki/悠悠哉哉少女日和 "wikilink")
+  - [悠悠哉哉少女日和 Repeat](../Page/悠悠哉哉少女日和.md "wikilink")
   - [我被抓到貴族女校當「庶民樣本」](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」 "wikilink")
-  - [對魔導學園35試驗小隊](https://zh.wikipedia.org/wiki/對魔導學園35試驗小隊 "wikilink")
-  - [落第騎士英雄譚](https://zh.wikipedia.org/wiki/落第騎士英雄譚 "wikilink")（與[Nexus共同製作](https://zh.wikipedia.org/wiki/Nexus_\(動畫製作公司\) "wikilink")）
+  - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")
+  - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（與[Nexus共同製作](../Page/Nexus_\(動畫製作公司\).md "wikilink")）
 
 <table>
 <thead>
@@ -150,7 +150,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td><p><a href="../Page/田中君總是如此慵懶.md" title="wikilink">田中君總是如此慵懶</a></p></td>
 <td></td>
 <td><p>4月9日－6月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -213,15 +213,15 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/武裝少女Machiavellianism" title="wikilink">武裝少女Machiavellianism</a></p></td>
+<td><p><a href="../Page/武裝少女Machiavellianism.md" title="wikilink">武裝少女Machiavellianism</a></p></td>
 <td></td>
 <td><p>4月5日－6月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/橘秀樹" title="wikilink">橘秀樹</a></p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="../Page/CONNECT.md" title="wikilink">CONNECT共同製作</a></p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/CONNECT" title="wikilink">CONNECT共同製作</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/戰鬥女子學園_(動畫)" title="wikilink">戰鬥女子學園</a></p></td>
+<td><p><a href="../Page/戰鬥女子學園_(動畫).md" title="wikilink">戰鬥女子學園</a></p></td>
 <td></td>
 <td><p>7月2日－9月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/秋田谷典昭" title="wikilink">秋田谷典昭</a></p></td>
@@ -229,7 +229,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/異世界食堂" title="wikilink">異世界食堂</a></p></td>
+<td><p><a href="../Page/異世界食堂.md" title="wikilink">異世界食堂</a></p></td>
 <td></td>
 <td><p>7月3日－9月18日</p></td>
 <td><p>神保昌登</p></td>
@@ -237,7 +237,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/側車搭檔" title="wikilink">側車搭檔</a></p></td>
+<td><p><a href="../Page/側車搭檔.md" title="wikilink">側車搭檔</a></p></td>
 <td></td>
 <td><p>10月7日－12月23日</p></td>
 <td><p>田村正文</p></td>
@@ -262,7 +262,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/三顆星彩色冒險" title="wikilink">三顆星彩色冒險</a></p></td>
+<td><p><a href="../Page/三顆星彩色冒險.md" title="wikilink">三顆星彩色冒險</a></p></td>
 <td></td>
 <td><p>1月7日－3月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河村智之" title="wikilink">河村智之</a></p></td>
@@ -278,7 +278,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td><p>與CONNECT共同製作</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Butlers～千年百年物語～" title="wikilink">Butlers～千年百年物語～</a></p></td>
+<td><p><a href="../Page/Butlers～千年百年物語～.md" title="wikilink">Butlers～千年百年物語～</a></p></td>
 <td></td>
 <td><p>4月11日－6月27日</p></td>
 <td><p>高橋賢</p></td>
@@ -286,7 +286,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/春原莊的管理員小姐" title="wikilink">春原莊的管理員小姐</a></p></td>
+<td><p><a href="../Page/春原莊的管理員小姐.md" title="wikilink">春原莊的管理員小姐</a></p></td>
 <td></td>
 <td><p>7月5日－9月20日</p></td>
 <td><p>湊未來</p></td>
@@ -302,7 +302,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/環戰公主" title="wikilink">環戰公主</a></p></td>
+<td><p><a href="../Page/環戰公主.md" title="wikilink">環戰公主</a></p></td>
 <td></td>
 <td><p>1月8日－3月26日</p></td>
 <td><p>橘秀樹</p></td>
@@ -310,7 +310,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川柳少女" title="wikilink">川柳少女</a></p></td>
+<td><p><a href="../Page/川柳少女.md" title="wikilink">川柳少女</a></p></td>
 <td></td>
 <td><p>4月5日－</p></td>
 <td></td>
@@ -334,7 +334,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/實況主的逃脫遊戲【直播中】" title="wikilink">實況主的逃脫遊戲【直播中】</a></p></td>
+<td><p><a href="../Page/實況主的逃脫遊戲【直播中】.md" title="wikilink">實況主的逃脫遊戲【直播中】</a></p></td>
 <td></td>
 <td><p>7月－</p></td>
 <td><p>大沼心</p></td>
@@ -357,17 +357,15 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
   - [強襲魔女 Operation Victroy Arrow](../Page/強襲魔女.md "wikilink")（2014年 - ）
 
-  - [今際之國的闖關者](https://zh.wikipedia.org/wiki/今際之國的闖關者 "wikilink")（與CONNECT共同製作，2014年）
+  - [今際之國的闖關者](../Page/今際之國的闖關者.md "wikilink")（與CONNECT共同製作，2014年）
 
-  - [噬血狂襲Ⅱ
-    OVA](https://zh.wikipedia.org/wiki/噬血狂襲 "wikilink")（與CONNECT共同製作，2016年
-    - 2017年）
+  - [噬血狂襲Ⅱ OVA](../Page/噬血狂襲.md "wikilink")（與CONNECT共同製作，2016年 - 2017年）
 
   - 噬血狂襲Ⅲ OVA（與CONNECT共同製作，2018年 - 2019年）
 
 ### 網路動畫
 
-  - [天然萌少女明日香](https://zh.wikipedia.org/wiki/天然萌少女明日香 "wikilink")（2012年）
+  - [天然萌少女明日香](../Page/天然萌少女明日香.md "wikilink")（2012年）
   - [Bonjour♪戀味蛋糕店](https://zh.wikipedia.org/wiki/Bonjour♪戀味蛋糕店 "wikilink")（與CONNECT共同製作，2014年）
 
 ### 劇場版動畫
@@ -378,7 +376,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 ## 相關條目
 
-  - [日本動畫工作室列表](https://zh.wikipedia.org/wiki/日本動畫工作室列表 "wikilink")
+  - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 外部連結
 

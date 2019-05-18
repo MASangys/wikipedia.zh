@@ -259,7 +259,7 @@
 
 <!-- end list -->
 
-  - **副島涼子**　[村井美樹](https://zh.wikipedia.org/wiki/村井美樹 "wikilink") 飾
+  - **副島涼子**　[村井美樹](../Page/村井美樹.md "wikilink") 飾
 
 <!-- end list -->
 
@@ -317,8 +317,7 @@
 
 <!-- end list -->
 
-  - **森田理沙子（28）**　[佐藤江梨子](https://zh.wikipedia.org/wiki/佐藤江梨子 "wikilink")
-    飾
+  - **森田理沙子（28）**　[佐藤江梨子](../Page/佐藤江梨子.md "wikilink") 飾
 
 <!-- end list -->
 
@@ -328,8 +327,7 @@
 **HOPE-02**
 
   - **櫻井菜穗（17）**　[小島藤子](https://zh.wikipedia.org/wiki/小島藤子 "wikilink") 飾
-  - **櫻井雅彥（46）**　[小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")
-    飾
+  - **櫻井雅彥（46）**　[小市慢太郎](../Page/小市慢太郎.md "wikilink") 飾
 
 **HOPE-03**
 
@@ -337,7 +335,7 @@
 
 **HOPE-04**
 
-  - **坂崎多惠（42）**　[石田光](https://zh.wikipedia.org/wiki/石田光 "wikilink") 飾
+  - **坂崎多惠（42）**　[石田光](../Page/石田光.md "wikilink") 飾
   - **吉野萬奈美**　[紺野真晝](../Page/紺野真晝.md "wikilink") 飾
   - **篠原美穂**　[橋本愛實](../Page/橋本愛實.md "wikilink") 飾
 

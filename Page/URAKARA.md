@@ -3,7 +3,7 @@
 ## 概要
 
 以2010年在日本出道的韓國偶像[Kara為主演而制作的電視劇](../Page/Kara.md "wikilink")，韓國地區在2011年1月末於[CJ
-E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN的](https://zh.wikipedia.org/wiki/TVN "wikilink")《》播放。
+E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN的](../Page/TVN.md "wikilink")《》播放。
 
 ## 角色
 
@@ -113,7 +113,7 @@ E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wiki
 <td><p><br />
 （スンヨンと幽霊）</p></td>
 <td><p>長井与太郎/ヤスヒロ（<a href="https://zh.wikipedia.org/wiki/遠藤雄弥" title="wikilink">遠藤雄弥</a>）<br />
-時津千代/サキ（<a href="https://zh.wikipedia.org/wiki/高山侑子" title="wikilink">高山侑子</a>）</p></td>
+時津千代/サキ（<a href="../Page/高山侑子.md" title="wikilink">高山侑子</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>（第9話）</p></td>

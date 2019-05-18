@@ -5,7 +5,7 @@ FlashSpring是PowerPoint的外掛程式，會在PowerPoint的工具列上建立�
 
 .NET/COM API允許建立伺服器端的PowerPoint到Flash的解決方案，創建自有品牌的桌面產品。
 
-在2008年3月初，CPS實驗室將FlashSpring重新建立[iSpring解決方案的新品牌](../Page/iSpring套件.md "wikilink")，這是現在將PowerPoint轉換成Flash最強而有力的引擎供應商之一。
+在2008年3月初，CPS實驗室將FlashSpring重新建立[iSpring解決方案的新品牌](https://zh.wikipedia.org/wiki/iSpring套件 "wikilink")，這是現在將PowerPoint轉換成Flash最強而有力的引擎供應商之一。
 
 ## 相關條目
 

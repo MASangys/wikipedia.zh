@@ -77,7 +77,7 @@ permuted)。在最大的版本，演算法使用的內存狀態是使用一個5�
 <span style="color: green;">`SHAKE256("", 512)`</span>
 `46b9dd2b0ba88d13233b3feb743eeb243fcd52ea62b81b82b50c27646ed5762fd75dc4ddd8c0f200cb05019d67b592f6fc821c49479ab48640292eacb3b7c4be`
 
-  - 由於[雪崩效应](https://zh.wikipedia.org/wiki/雪崩效应 "wikilink")，即使一個很小的改變都會產出幾乎完全不同的雜湊值。舉例來說，把
+  - 由於[雪崩效应](../Page/雪崩效应.md "wikilink")，即使一個很小的改變都會產出幾乎完全不同的雜湊值。舉例來說，把
     dog 改成 dof：
 
 <span style="color: green;">`SHAKE128("The quick brown fox jumps over the lazy dog", 256)`</span>

@@ -5,7 +5,7 @@ Group。2014年7月26日因與[經紀公司合約到期而解散](../Page/經紀
 ## 經歷
 
 2009年10月22日，愛川梢（愛川こずえ）、鼻血姬（いとくとら）和Minka
-Lee（ミンカ·リー），在[NICONICO生放送中宣布組成舞蹈組合DANCEROID](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink")。\[1\]組合所屬事務所為heartfull-entertainment。三位成員均是在[NICONICO動畫中頗具人氣的](../Page/NICONICO動畫.md "wikilink")[網絡偶像](https://zh.wikipedia.org/wiki/網絡偶像 "wikilink")。2010年1月10日，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")“DANCEROID”及官方物品開始發賣。2010年4月17日，在「DANCEROID
+Lee（ミンカ·リー），在[NICONICO生放送中宣布組成舞蹈組合DANCEROID](https://zh.wikipedia.org/wiki/NICONICO生放送 "wikilink")。\[1\]組合所屬事務所為heartfull-entertainment。三位成員均是在[NICONICO動畫中頗具人氣的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[網絡偶像](https://zh.wikipedia.org/wiki/網絡偶像 "wikilink")。2010年1月10日，[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")“DANCEROID”及官方物品開始發賣。2010年4月17日，在「DANCEROID
 FES\!\! vol.1」演出結束後，成員Minka
 Lee從DANCEROID畢業。2010年9月11日，在「DANCEROID新メンバーオーディション最終審查」之中，從六位候選人中選出的三位：柚姫、COCO、Maam，與愛川梢和鼻血姬一起，組成了5人體制的新DANCEROID，隊長是鼻血姬。2011年，Minka
 Lee和COCO首先正式離開DANCEROID。
@@ -68,8 +68,8 @@ Day，Dancing Night」。
 
 ## 相關條目
 
-  - [Q'ulle](https://zh.wikipedia.org/wiki/Q'ulle "wikilink")
-  - [niconico動畫](../Page/niconico動畫.md "wikilink")
+  - [Q'ulle](../Page/Q'ulle.md "wikilink")
+  - [niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")
 
 ## 參考資料
 

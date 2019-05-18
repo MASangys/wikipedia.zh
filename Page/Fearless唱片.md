@@ -21,7 +21,7 @@ Goes...》系列的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")，�
 Goes...》的發行，目前已經有四張《Punk Goes Pop》的發行、兩張《Punk Goes Acoustic》的發行、《Punk
 Goes 80's》、《Punk Goes 90's|90's》、 《Punk Goes Crunk》、《Punk Goes Classic
 Rock》與《Punk Goes X》，最後這張翻唱，更成為2011年*冬季X Games運動*（[Winter X
-Games](https://zh.wikipedia.org/wiki/世界极限运动会 "wikilink")）的主題歌曲。目前最新的合輯為發行於2011年11月21日的《Punk
+Games](../Page/世界极限运动会.md "wikilink")）的主題歌曲。目前最新的合輯為發行於2011年11月21日的《Punk
 Goes Pop 4》。\[5\]
 
 在2005年，他們發行了就是白樂團（）的專輯《All That We
@@ -30,11 +30,11 @@ There
 Delilah》這張專輯更獲得美國[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")100的第一名，證明了這間唱片公司的成功，這張作品更獲得[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")（[RIAA](../Page/美國唱片業協會.md "wikilink")）的認可。\[6\]
 
 2010年十一月8日，Fearless宣布發行一張以耶誕節為主題的合輯《'Tis the Season to Be
-Fearless》，這張合輯收錄了他們旗下八個樂團的原創歌曲，在發行日為十一月22日，同時也可以透過[iTunes購買](../Page/iTunes.md "wikilink")。\[7\]
+Fearless》，這張合輯收錄了他們旗下八個樂團的原創歌曲，在發行日為十一月22日，同時也可以透過[iTunes購買](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[7\]
 
 在2011年，Fearless唱片公司發行[Breathe
-Carolina的](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")《Hell
-Is What You Make It》、《Blackout》，這成為這間唱片公司的另一個成功，榮登告示牌100第32名，並獲得金單曲的認可。
+Carolina的](../Page/Breathe_Carolina.md "wikilink")《Hell Is What You
+Make It》、《Blackout》，這成為這間唱片公司的另一個成功，榮登告示牌100第32名，並獲得金單曲的認可。
 
 ## 曾與Fearless簽約的樂團
 
@@ -145,8 +145,7 @@ Is What You Make It》、《Blackout》，這成為這間唱片公司的另一�
   - [Artist vs.
     Poet](https://zh.wikipedia.org/wiki/Artist_vs._Poet "wikilink")
     (*未簽約*)
-  - [Breathe
-    Carolina](https://zh.wikipedia.org/wiki/Breathe_Carolina "wikilink")
+  - [Breathe Carolina](../Page/Breathe_Carolina.md "wikilink")
     ([哥倫比亞唱片](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink"))
   - [Bazookas Go
     Bang\!](https://zh.wikipedia.org/wiki/Bazookas_Go_Bang! "wikilink")

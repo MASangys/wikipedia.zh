@@ -23,7 +23,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/AOA_(EP)" title="wikilink">AOA</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/AOA_(EP).md" title="wikilink">AOA</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年11月16日</p></td>
@@ -39,7 +39,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Pair_of_Aces" title="wikilink">Pair of Aces</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Pair_of_Aces.md" title="wikilink">Pair of Aces</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2013年11月21日</p></td>
@@ -98,7 +98,7 @@
 
 ### 2013年
 
-  - 星座密碼（電影[巴啦啦小魔仙大電影歌曲](https://zh.wikipedia.org/wiki/巴啦啦小魔仙大電影 "wikilink")）
+  - 星座密碼（電影[巴啦啦小魔仙大電影歌曲](../Page/巴啦啦小魔仙大電影.md "wikilink")）
 
 ### 2014年
 
@@ -138,24 +138,24 @@
 
 ## 派台歌曲成績
 
-| **派台歌曲成績**                                                            |
-| --------------------------------------------------------------------- |
-| 唱片                                                                    |
-| **2012年**                                                             |
-| [AOA](https://zh.wikipedia.org/wiki/AOA_\(EP\) "wikilink")            |
-| AOA                                                                   |
-| **2013年**                                                             |
-| AOA                                                                   |
-| [Pair of Aces](https://zh.wikipedia.org/wiki/Pair_of_Aces "wikilink") |
-| Pair of Aces                                                          |
-| **2014年**                                                             |
-| Pair of Aces                                                          |
-| Pair of Aces                                                          |
-| **2015年**                                                             |
-|                                                                       |
-|                                                                       |
-| **2016年**                                                             |
-|                                                                       |
+| **派台歌曲成績**                                         |
+| -------------------------------------------------- |
+| 唱片                                                 |
+| **2012年**                                          |
+| [AOA](../Page/AOA_\(EP\).md "wikilink")            |
+| AOA                                                |
+| **2013年**                                          |
+| AOA                                                |
+| [Pair of Aces](../Page/Pair_of_Aces.md "wikilink") |
+| Pair of Aces                                       |
+| **2014年**                                          |
+| Pair of Aces                                       |
+| Pair of Aces                                       |
+| **2015年**                                          |
+|                                                    |
+|                                                    |
+| **2016年**                                          |
+|                                                    |
 
 | **各台冠軍歌總數** |
 | ----------- |
@@ -210,7 +210,7 @@
 
 ### 2010年
 
-  - [妹仔大過主人婆](https://zh.wikipedia.org/wiki/妹仔大過主人婆 "wikilink")
+  - [妹仔大過主人婆](../Page/妹仔大過主人婆.md "wikilink")
 
 ### 2011年
 
@@ -226,16 +226,16 @@
 
 ### 2014年
 
-|          |                                                         |             |              |
-| -------- | ------------------------------------------------------- | ----------- | ------------ |
-| **播映年份** | **劇名**                                                  | **參與成員**    | 角色           |
-| 2014年    | [女人俱樂部](https://zh.wikipedia.org/wiki/女人俱樂部 "wikilink") | 吳燕菁（Annice） | 羅鳳仙Cyndi（青年） |
+|          |                                      |             |              |
+| -------- | ------------------------------------ | ----------- | ------------ |
+| **播映年份** | **劇名**                               | **參與成員**    | 角色           |
+| 2014年    | [女人俱樂部](../Page/女人俱樂部.md "wikilink") | 吳燕菁（Annice） | 羅鳳仙Cyndi（青年） |
 
 ## 電影
 
 ### 2013年
 
-  - [重口味](https://zh.wikipedia.org/wiki/重口味_\(電影\) "wikilink")
+  - [重口味](../Page/重口味_\(電影\).md "wikilink")
 
 ## 舞台劇
 

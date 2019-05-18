@@ -17,7 +17,7 @@ Tree》作額外歌曲。而且《The Singles》裡的《櫻花會》亦是唯�
 
 ### 光碟四：[LoveGame](https://zh.wikipedia.org/wiki/LoveGame "wikilink")
 
-### 光碟五：[Paparazzi](../Page/Paparazzi.md "wikilink")
+### 光碟五：[Paparazzi](https://zh.wikipedia.org/wiki/Paparazzi "wikilink")
 
 ### 光碟六：[Bad Romance](https://zh.wikipedia.org/wiki/Bad_Romance "wikilink")
 

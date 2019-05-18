@@ -1,6 +1,6 @@
 《**PLAYGIRLZ**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After
 School的第](../Page/After_School.md "wikilink")1枚原創日語專輯，於2012年3月14日發行。\[1\]唱片公司為[avex
-trax](../Page/avex_trax.md "wikilink")。
+trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -8,7 +8,7 @@ trax](../Page/avex_trax.md "wikilink")。
     girls / Because of
     you](https://zh.wikipedia.org/wiki/Rambling_girls_/_Because_of_you "wikilink")》，共4首A面曲。
   - 新曲《Shampoo (Japan Ver.)》是After
-    School首張正規專輯《[VIRGIN](https://zh.wikipedia.org/wiki/VIRGIN "wikilink")》主打歌曲《Shampoo》的日語版本；
+    School首張正規專輯《[VIRGIN](../Page/VIRGIN.md "wikilink")》主打歌曲《Shampoo》的日語版本；
   - 新曲《上海ロマンス (Japan Ver.)》是After
     School的子團體[橙子焦糖第二張單曲](../Page/橙子焦糖.md "wikilink")《上海之戀》的日語版本，此曲同時亦是橙子焦糖第1枚原創日語專輯《ORANGE
     CARAMEL》的收錄曲之一。
@@ -52,7 +52,7 @@ trax](../Page/avex_trax.md "wikilink")。
 6.  Shampoo (Japan Ver.)
       -
         作詞：KAORU ・ 日本语詞：佐藤舞花 / ラップ、作曲：DAISHI DANCE
-        韩语1st專輯《[VIRGIN](https://zh.wikipedia.org/wiki/VIRGIN "wikilink")》主打曲《Shampoo》日語版本
+        韩语1st專輯《[VIRGIN](../Page/VIRGIN.md "wikilink")》主打曲《Shampoo》日語版本
 7.  [Because of
     you](https://zh.wikipedia.org/wiki/Rambling_girls_/_Because_of_you "wikilink")
     (Japan Ver.)
@@ -88,11 +88,11 @@ trax](../Page/avex_trax.md "wikilink")。
 <!-- end list -->
 
 1.  OPENING
-2.  [Shampoo](https://zh.wikipedia.org/wiki/VIRGIN "wikilink")
+2.  [Shampoo](../Page/VIRGIN.md "wikilink")
 3.  [너 때문에 (Because of You)](../Page/因為你.md "wikilink")
 4.  Lady（A.S. BLUE）
 5.  Talk Corner
-6.  [AH](https://zh.wikipedia.org/wiki/New_Schoolgirl "wikilink")
+6.  [AH](../Page/New_Schoolgirl.md "wikilink")
 7.  [DIVA](../Page/因為你.md "wikilink")
 8.  Someone is you（Happy Pledis）
 9.  [Let's Do It](../Page/BANG!.md "wikilink")

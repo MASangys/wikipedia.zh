@@ -1,5 +1,5 @@
 「**Jet Coaster
-Love**」（）是韩国女子组合[KARA的第](../Page/KARA.md "wikilink")3張單曲。2011年4月6日由[UNIVERSAL
+Love**」（）是韩国女子组合[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")3張單曲。2011年4月6日由[UNIVERSAL
 SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本

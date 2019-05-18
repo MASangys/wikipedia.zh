@@ -7,7 +7,7 @@ MariaDB自带了一个新的[Aria](https://zh.wikipedia.org/wiki/Aria_\(storage_
 它最初使用作为默认存储引擎，\[4\]
 并从10.2版本切换回[InnoDB](https://zh.wikipedia.org/wiki/InnoDB "wikilink")。\[5\]
 
-它的首席开发人员是[米卡埃爾·維德紐斯](https://zh.wikipedia.org/wiki/米卡埃爾·維德紐斯 "wikilink")，他是[MySQL
+它的首席开发人员是[米卡埃爾·維德紐斯](../Page/米卡埃爾·維德紐斯.md "wikilink")，他是[MySQL
 AB的创始人之一](../Page/MySQL_AB.md "wikilink")，也是Monty Program
 AB的创始人。2008年1月16日，MySQL AB
 宣布它已经同意被[昇陽電腦集团以大约](../Page/昇陽電腦.md "wikilink")10亿美元的价格收购。该项收购已于2008年2月26日完成。MariaDB是以Monty的小女儿Maria命名的，就像MySQL是以他另一个女儿My命名的一样。\[6\]
@@ -121,7 +121,8 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
 
   - 一个Windows上自由和开放源码的MySQL客户端。它支持MariaDB的5.2.7版本和以后的版本。\[27\]\[28\]
 
-  - [phpMyAdmin](../Page/phpMyAdmin.md "wikilink") 一个基于网络的MySQL数据库管理应用程序
+  - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink")
+    一个基于网络的MySQL数据库管理应用程序
 
 ### 应用
 
@@ -138,7 +139,8 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
   - [WordPress](../Page/WordPress.md "wikilink")
   - [Yii
     Framework](https://zh.wikipedia.org/wiki/Yii_Framework "wikilink")
-  - [Zend Framework](../Page/Zend_Framework.md "wikilink")
+  - [Zend
+    Framework](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")
 
 ## 突出用户
 
@@ -151,7 +153,8 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
   - [Google](../Page/Google.md "wikilink")\[34\]\[35\]
   - [Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")\[36\]
   - [OpenBSD](../Page/OpenBSD.md "wikilink")\[37\]\[38\] (from 5.7)
-  - [openSUSE](../Page/openSUSE.md "wikilink")（从openSUSE 12.3起）\[39\]
+  - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")（从openSUSE
+    12.3起）\[39\]
   - [Oracle Linux](../Page/Oracle_Linux.md "wikilink")（从第7版起）
   - [Red Hat Enterprise
     Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（从RHEL

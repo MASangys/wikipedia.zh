@@ -4,7 +4,7 @@ Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")、[EMI](../Page/EMI.
 Music
 Group和](https://zh.wikipedia.org/wiki/Warner_Music_Group "wikilink")[Universal四大唱片公司及眾多獨立廠牌所授權](https://zh.wikipedia.org/wiki/Universal_Music_Group "wikilink")、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。
 
-該公司以一種[免費增值的企業型態創立](https://zh.wikipedia.org/wiki/免費增值 "wikilink")，提供兩種等級之串流音樂：Spotify
+該公司以一種[免費增值的企業型態創立](../Page/免費增值.md "wikilink")，提供兩種等級之串流音樂：Spotify
 Free（160kbit/s）和Spotify Premium
 （320kbit/s以上）。不同於店內購買或下載銷售每首歌曲或專輯是支付固定的價格，而Spotify支付演出者的金額基於市場份額，為歌曲的音訊流在總歌曲中的點擊率和播放次數比例，每次播放大約為0.04-0.1
 [美分](https://zh.wikipedia.org/wiki/美分 "wikilink")。Spotify的營收來自兩個方面。其中，免費服務的收入主要來自廣告，而付費服務的收入來自Spotify
@@ -12,7 +12,7 @@ Premium用戶每月支付的費用。軟體支援多種裝置，包括電腦、�
 
 ## 商業模式
 
-Spotify採用[免費增值模式](https://zh.wikipedia.org/wiki/免費增值 "wikilink")（基本服務是免費的，而附加功能是-{zh-tw:透過;zh-hk:通過;zh-hans:通过}-付費訂閱提供）。Spotify靠流媒體訂閱Premium用戶和第三方的廣告來做為其營收收入。
+Spotify採用[免費增值模式](../Page/免費增值.md "wikilink")（基本服務是免費的，而附加功能是-{zh-tw:透過;zh-hk:通過;zh-hans:通过}-付費訂閱提供）。Spotify靠流媒體訂閱Premium用戶和第三方的廣告來做為其營收收入。
 
 ### 訂閱
 
@@ -164,10 +164,10 @@ Spotify有265毫秒或390毫秒本機的暫存播放延遲功能\[15\]，0.4.3�
 
 可使用的裝置平台為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BlackBerry
-OS](../Page/BlackBerry_OS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](../Page/iOS.md "wikilink")、[Chrome
-OS](../Page/Chrome_OS.md "wikilink")、[macOS和](../Page/macOS.md "wikilink")[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")（[PlayStation
+OS](../Page/BlackBerry_OS.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Chrome
+OS](../Page/Chrome_OS.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")（[PlayStation
 3](../Page/PlayStation_3.md "wikilink") 、[PlayStation
-4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")）等。
+4](../Page/PlayStation_4.md "wikilink")）等。
 
 ## 爭議
 

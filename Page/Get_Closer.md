@@ -1,6 +1,6 @@
 《**Get
-Closer**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Closer的首張音樂專輯](https://zh.wikipedia.org/wiki/Closer_\(樂隊\) "wikilink")，於2012年6月15日推出。「Get
-Closer」的意思是希望聽眾可以靠近些，近距離接觸和感受[Closer的音樂世界](https://zh.wikipedia.org/wiki/Closer_\(樂隊\) "wikilink")，而歌曲大多取材於大家身邊發生的事情。
+Closer**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Closer的首張音樂專輯](../Page/Closer_\(樂隊\).md "wikilink")，於2012年6月15日推出。「Get
+Closer」的意思是希望聽眾可以靠近些，近距離接觸和感受[Closer的音樂世界](../Page/Closer_\(樂隊\).md "wikilink")，而歌曲大多取材於大家身邊發生的事情。
 
 ## 曲目
 

@@ -31,7 +31,7 @@ Original**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
 
 ### 通常連載以外作品
 
-  - [高橋留美子劇場](https://zh.wikipedia.org/wiki/高橋留美子劇場 "wikilink")（[高橋留美子](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")）
+  - [高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")（[高橋留美子](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")）
     ※年1回ペースで掲載している読み切り作品
   - [小孤島大醫生](../Page/小孤島大醫生.md "wikilink")（[山田貴敏](https://zh.wikipedia.org/wiki/山田貴敏 "wikilink")）
     ※『[週刊ヤングサンデー](https://zh.wikipedia.org/wiki/週刊ヤングサンデー "wikilink")』（2008年7月末で休刊）から移籍、2010年から長期休載中
@@ -47,13 +47,13 @@ Original**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
 ### 連載終了作品
 
   - [岳
-    みんなの山](https://zh.wikipedia.org/wiki/岳_みんなの山 "wikilink")（[石塚真一](https://zh.wikipedia.org/wiki/石塚真一 "wikilink")）
+    みんなの山](https://zh.wikipedia.org/wiki/岳_みんなの山 "wikilink")（[石塚真一](../Page/石塚真一.md "wikilink")）
 
   - [パイナップルARMY](https://zh.wikipedia.org/wiki/パイナップルARMY "wikilink")（作・[工藤かずや](https://zh.wikipedia.org/wiki/工藤かずや "wikilink")、画・[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")）
 
   - [MASTERキートン](https://zh.wikipedia.org/wiki/MASTERキートン "wikilink")（作・[勝鹿北星](https://zh.wikipedia.org/wiki/勝鹿北星 "wikilink")、画・浦沢直樹）
 
-  - [MONSTER](../Page/MONSTER.md "wikilink")（浦沢直樹）
+  - [MONSTER](https://zh.wikipedia.org/wiki/MONSTER "wikilink")（浦沢直樹）
 
   - [人間交差点](https://zh.wikipedia.org/wiki/人間交差点 "wikilink")（作・[矢島正雄](https://zh.wikipedia.org/wiki/矢島正雄 "wikilink")、画・[弘兼憲史](../Page/弘兼憲史.md "wikilink")）
 
@@ -118,9 +118,9 @@ Original**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
   - [魔物語
     愛しのベティ](https://zh.wikipedia.org/wiki/魔物語_愛しのベティ "wikilink")（作・[小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")、画・[叶精作](https://zh.wikipedia.org/wiki/叶精作 "wikilink")）
 
-  - [PLUTO](https://zh.wikipedia.org/wiki/PLUTO "wikilink")（[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")、原作・[手塚治虫](../Page/手塚治虫.md "wikilink")、監修・[手塚眞](https://zh.wikipedia.org/wiki/手塚眞 "wikilink")、プロデューサー・[長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")）
+  - [PLUTO](https://zh.wikipedia.org/wiki/PLUTO "wikilink")（[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")、原作・[手塚治虫](../Page/手塚治虫.md "wikilink")、監修・[手塚眞](../Page/手塚眞.md "wikilink")、プロデューサー・[長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")）
 
-  - [大先生を読む。](https://zh.wikipedia.org/wiki/大先生を読む。 "wikilink")（[赤塚不二夫](https://zh.wikipedia.org/wiki/赤塚不二夫 "wikilink")）
+  - [大先生を読む。](https://zh.wikipedia.org/wiki/大先生を読む。 "wikilink")（[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")）
 
   - [フロマンガ](https://zh.wikipedia.org/wiki/フロマンガ "wikilink")（[吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")）
 
@@ -140,7 +140,7 @@ Original**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
 
   - [夜光虫](https://zh.wikipedia.org/wiki/夜光虫_\(漫画\) "wikilink")（作・[柿沼宏](https://zh.wikipedia.org/wiki/柿沼宏 "wikilink")、画・[篠原とおる](https://zh.wikipedia.org/wiki/篠原とおる "wikilink")）
 
-  - [危険な飛行](https://zh.wikipedia.org/wiki/危険な飛行 "wikilink")（作・[林律雄](https://zh.wikipedia.org/wiki/林律雄 "wikilink")、画・[松森正](https://zh.wikipedia.org/wiki/松森正 "wikilink")）
+  - [危険な飛行](https://zh.wikipedia.org/wiki/危険な飛行 "wikilink")（作・[林律雄](../Page/林律雄.md "wikilink")、画・[松森正](https://zh.wikipedia.org/wiki/松森正 "wikilink")）
 
   - [裂けた旅券](https://zh.wikipedia.org/wiki/裂けた旅券 "wikilink")（[御厨さと美](https://zh.wikipedia.org/wiki/御厨さと美 "wikilink")）
 

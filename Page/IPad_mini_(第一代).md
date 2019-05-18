@@ -17,12 +17,12 @@ iPad mini於2012年11月2日起付運\[1\]。
 ## 硬件
 
 iPad mini 採用7.9吋、1024 × 768 解像度顯示屏，500 萬[像素後置](../Page/像素.md "wikilink")
-[iSight](../Page/iSight.md "wikilink")
+[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")
 [鏡頭](../Page/鏡頭.md "wikilink")，120 萬像素前置
 [FaceTime](../Page/FaceTime.md "wikilink") HD
 鏡頭，[處理器等硬件規格大致與](../Page/中央处理器.md "wikilink")[iPad
-2相同](../Page/iPad_2.md "wikilink")；但採用與 [iPhone
-5相同的](../Page/iPhone_5.md "wikilink")
+2相同](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")；但採用與 [iPhone
+5相同的](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
 [Lightning連接線作充電或資料傳送](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")。此外，iPad
 mini有立体声[揚聲器](../Page/揚聲器.md "wikilink")\[2\]。
 

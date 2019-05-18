@@ -104,7 +104,7 @@ MOVIE
   - 陣雅人 / Beet Buster（聲）：[松本寬也](../Page/松本寬也.md "wikilink")
   - 黒木猛：[榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")
   - 仲村美穗：[西平風香](https://zh.wikipedia.org/wiki/西平風香 "wikilink")
-  - 森下徹：[高橋直人](https://zh.wikipedia.org/wiki/高橋直人 "wikilink")
+  - 森下徹：[高橋直人](../Page/高橋直人.md "wikilink")
   - Enter：[陳内將](https://zh.wikipedia.org/wiki/陳内將 "wikilink")
 
 ### 配音出演
@@ -114,7 +114,7 @@ MOVIE
   - 兔田・Lettuce：[鈴木達央](../Page/鈴木達央.md "wikilink")
   - Beet・J・Stag / Stag Buster：[中村悠一](../Page/中村悠一.md "wikilink")
   - Ene-Tan：[辻希美](../Page/辻希美.md "wikilink")
-  - Lloyd Steam：[楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")
+  - Lloyd Steam：[楠大典](../Page/楠大典.md "wikilink")
 
 ### 動作替身演員
 

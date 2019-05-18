@@ -11,10 +11,10 @@ PTZ-89主要配屬於[中国人民解放军陆军機械化師的](../Page/中国
 
 ## 研制历史
 
-1977年[五机部與十幾個相關單位展開](https://zh.wikipedia.org/wiki/五机部 "wikilink")120mm口径高膛压[滑膛炮的初步論證](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")，並在1978年4月“784”会议下达研制任务，隨即完成三門用于測試的[弹道试验炮](https://zh.wikipedia.org/wiki/弹道 "wikilink")，並於1979年2月19日完成首度試射。1981年完成120mm坦克炮样炮设计，为实现高膛压确定了长身管、大药室、身管自紧等技术特征。但是当时随着军队的调整，与之配套的新一代坦克项目下马（最终定型的国产二代坦克装备了引进外国技术的[105mm线膛坦克炮](https://zh.wikipedia.org/wiki/L7線膛炮 "wikilink")）该炮研制濒临中断。在1970年代末西方開始與中国接觸之後，[西德](../Page/西德.md "wikilink")[豹2型坦克装备的](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")[萊茵金屬公司](https://zh.wikipedia.org/wiki/萊茵金屬公司 "wikilink")[Rh-120-44型120mm
-44倍口徑滑膛砲無疑是同時期最先進](https://zh.wikipedia.org/wiki/Rh-120滑膛炮 "wikilink")、最具威力的坦克炮，更是中国為了对抗[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[裝甲部隊而夢寐以求的裝備](https://zh.wikipedia.org/wiki/裝甲部隊 "wikilink")，但最终引进意向没有实现。与此同时，参考苏制火炮，自製[125mm口径坦克炮](../Page/ZPT-98坦克炮.md "wikilink")（配合[自动装弹机](https://zh.wikipedia.org/wiki/自动装弹机 "wikilink")）已有初步成果，后来被指定為三代主戰坦克采用。
+1977年[五机部與十幾個相關單位展開](https://zh.wikipedia.org/wiki/五机部 "wikilink")120mm口径高膛压[滑膛炮的初步論證](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")，並在1978年4月“784”会议下达研制任务，隨即完成三門用于測試的[弹道试验炮](https://zh.wikipedia.org/wiki/弹道 "wikilink")，並於1979年2月19日完成首度試射。1981年完成120mm坦克炮样炮设计，为实现高膛压确定了长身管、大药室、身管自紧等技术特征。但是当时随着军队的调整，与之配套的新一代坦克项目下马（最终定型的国产二代坦克装备了引进外国技术的[105mm线膛坦克炮](../Page/L7線膛炮.md "wikilink")）该炮研制濒临中断。在1970年代末西方開始與中国接觸之後，[西德](../Page/西德.md "wikilink")[豹2型坦克装备的](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")[萊茵金屬公司](https://zh.wikipedia.org/wiki/萊茵金屬公司 "wikilink")[Rh-120-44型120mm
+44倍口徑滑膛砲無疑是同時期最先進](../Page/Rh-120滑膛炮.md "wikilink")、最具威力的坦克炮，更是中国為了对抗[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[裝甲部隊而夢寐以求的裝備](https://zh.wikipedia.org/wiki/裝甲部隊 "wikilink")，但最终引进意向没有实现。与此同时，参考苏制火炮，自製[125mm口径坦克炮](../Page/ZPT-98坦克炮.md "wikilink")（配合[自动装弹机](https://zh.wikipedia.org/wiki/自动装弹机 "wikilink")）已有初步成果，后来被指定為三代主戰坦克采用。
 
-在这种情况下，为保住科研成果也为寻找出路（鉴于同步研制的120毫米反坦克炮进展迟缓），研制工厂自行将120毫米坦克炮配以密閉式砲塔装在[83式自行加榴炮底盘上](https://zh.wikipedia.org/wiki/83式152毫米自行加榴炮 "wikilink")，进行了120毫米坦克炮的定型试验，首輛原型車於1984年完成。將此120mm炮经过加长身管、增加后坐距离的修改轉為反裝甲用。\[4\]
+在这种情况下，为保住科研成果也为寻找出路（鉴于同步研制的120毫米反坦克炮进展迟缓），研制工厂自行将120毫米坦克炮配以密閉式砲塔装在[83式自行加榴炮底盘上](../Page/83式152毫米自行加榴炮.md "wikilink")，进行了120毫米坦克炮的定型试验，首輛原型車於1984年完成。將此120mm炮经过加长身管、增加后坐距离的修改轉為反裝甲用。\[4\]
 
 1985年在靶场进行射击表演，由于效果很好，1986年120毫米自行反坦克炮列为国家"[七五计划](https://zh.wikipedia.org/wiki/七五计划 "wikilink")"重点项目，1987年开始定型试验，1988年到1989年小批量生产并装备部队试用。1990年军工产品定型委员会批准这种自行反坦克炮设计定型，命名为“PTZ-89自行反坦克炮”。\[5\]
 

@@ -3,7 +3,7 @@ Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 發行及宣傳
 
-《奔馳吧！Bicycle》與上一張單曲《[來吧香波](https://zh.wikipedia.org/wiki/來吧香波 "wikilink")》相隔約三個月發售，是乃木坂46於2012年發行的第三張單曲。單曲分為附上DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。Type-A、Type-B和Type-C在首批發行期間均附送全國[握手會應徵券兼特別禮物應徵券](https://zh.wikipedia.org/wiki/握手會 "wikilink")（）以及生寫真一張。\[1\]發行日期的前一天——8月21日是乃木坂46成立一週年。\[2\]
+《奔馳吧！Bicycle》與上一張單曲《[來吧香波](https://zh.wikipedia.org/wiki/來吧香波 "wikilink")》相隔約三個月發售，是乃木坂46於2012年發行的第三張單曲。單曲分為附上DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。Type-A、Type-B和Type-C在首批發行期間均附送全國[握手會應徵券兼特別禮物應徵券](../Page/握手會.md "wikilink")（）以及生寫真一張。\[1\]發行日期的前一天——8月21日是乃木坂46成立一週年。\[2\]
 
 2012年7月7日，乃木坂46於[幕張展覽館舉辦的握手活動中](../Page/幕張展覽館.md "wikilink")，於約8000名歌迷前首次演唱《奔馳吧！Bicycle》。\[3\]由於其首張單曲《[窗簾圍繞](../Page/窗簾圍繞.md "wikilink")》和第2張單曲《來吧香波》分別於[AKB48的](../Page/AKB48.md "wikilink")「[AKB48
 重溫時間 最佳曲目100
@@ -13,7 +13,7 @@ Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、伊藤涼、木村篤史和。四名作曲者都曾為[傑尼斯事務所的藝人作曲](../Page/傑尼斯事務所.md "wikilink")。\[5\]這首歌的填詞人為乃木坂46的總製作人[秋元康](../Page/秋元康.md "wikilink")。\[6\]根據[每日新聞電子版的報導](../Page/每日新聞.md "wikilink")，這首歌將天愛無邪的戀愛跟迎風前進的自行車重疊描述，是一首明朗的歌曲。\[7\]乃木坂46於[Oricon的一次訪問中指](../Page/Oricon.md "wikilink")，歌中兩人雖然兩情相悅，但是沒有發現對方的愛意，由副歌起描述主角為了取回愛情，拼命地踏着自行車的情境。\[8\]
 
-《奔馳吧！Bicycle》是[好侍食品](https://zh.wikipedia.org/wiki/好侍食品 "wikilink")（）「」的廣告歌曲。\[9\]B面曲《人為什麼奔跑？》（）是[2012年U20女子世界盃的大會官方歌曲](https://zh.wikipedia.org/wiki/2012年U20女子世界盃 "wikilink")。\[10\]
+《奔馳吧！Bicycle》是[好侍食品](../Page/好侍食品.md "wikilink")（）「」的廣告歌曲。\[9\]B面曲《人為什麼奔跑？》（）是[2012年U20女子世界盃的大會官方歌曲](https://zh.wikipedia.org/wiki/2012年U20女子世界盃 "wikilink")。\[10\]
 
 ## 影片
 
@@ -57,7 +57,7 @@ A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、
 <tr class="odd">
 <td><p>奔馳吧！Bicycle<br />
 （選拔成員）</p></td>
-<td><p><a href="../Page/生田繪梨花.md" title="wikilink">生田繪梨花</a>、<a href="../Page/生駒里奈.md" title="wikilink">生駒里奈</a>、<a href="../Page/市來玲奈.md" title="wikilink">市來玲奈</a>、伊藤萬理華、<a href="https://zh.wikipedia.org/wiki/井上小百合" title="wikilink">井上小百合</a>、<a href="https://zh.wikipedia.org/wiki/齊藤優里" title="wikilink">齊藤優里</a>、<a href="../Page/櫻井玲香.md" title="wikilink">櫻井玲香</a>、<a href="../Page/白石麻衣.md" title="wikilink">白石麻衣</a>、<br />
+<td><p><a href="../Page/生田繪梨花.md" title="wikilink">生田繪梨花</a>、<a href="../Page/生駒里奈.md" title="wikilink">生駒里奈</a>、<a href="../Page/市來玲奈.md" title="wikilink">市來玲奈</a>、伊藤萬理華、<a href="https://zh.wikipedia.org/wiki/井上小百合" title="wikilink">井上小百合</a>、<a href="../Page/齊藤優里.md" title="wikilink">齊藤優里</a>、<a href="../Page/櫻井玲香.md" title="wikilink">櫻井玲香</a>、<a href="../Page/白石麻衣.md" title="wikilink">白石麻衣</a>、<br />
 <a href="../Page/高山一實.md" title="wikilink">高山一實</a>、<a href="../Page/中田花奈.md" title="wikilink">中田花奈</a>、西野七瀨、<a href="../Page/橋本奈奈未.md" title="wikilink">橋本奈奈未</a>、深川麻衣、<a href="https://zh.wikipedia.org/wiki/星野みなみ" title="wikilink">星野みなみ</a>、<a href="../Page/松村沙友理.md" title="wikilink">松村沙友理</a>、若月佑美</p></td>
 <td><p>生駒里奈</p></td>
 </tr>
@@ -68,7 +68,7 @@ A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、
 </tr>
 <tr class="odd">
 <td><p>眼淚仍然悲傷的時候</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安藤美雲" title="wikilink">安藤美雲</a>、<a href="https://zh.wikipedia.org/wiki/伊藤寧寧" title="wikilink">伊藤寧寧</a>、岩瀨佑美子、<a href="../Page/衛藤美彩.md" title="wikilink">衛藤美彩</a>、<a href="../Page/柏幸奈.md" title="wikilink">柏幸奈</a>、<a href="../Page/川後陽菜.md" title="wikilink">川後陽菜</a>、<a href="../Page/川村真洋.md" title="wikilink">川村真洋</a>、<a href="../Page/齋藤飛鳥.md" title="wikilink">齋藤飛鳥</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/安藤美雲" title="wikilink">安藤美雲</a>、<a href="../Page/伊藤寧寧.md" title="wikilink">伊藤寧寧</a>、岩瀨佑美子、<a href="../Page/衛藤美彩.md" title="wikilink">衛藤美彩</a>、<a href="../Page/柏幸奈.md" title="wikilink">柏幸奈</a>、<a href="../Page/川後陽菜.md" title="wikilink">川後陽菜</a>、<a href="../Page/川村真洋.md" title="wikilink">川村真洋</a>、<a href="../Page/齋藤飛鳥.md" title="wikilink">齋藤飛鳥</a>、<br />
 <a href="../Page/齋藤千春.md" title="wikilink">齋藤千春</a>、<a href="../Page/中元日芽香.md" title="wikilink">中元日芽香</a>、<a href="../Page/永島聖羅.md" title="wikilink">永島聖羅</a>、<a href="../Page/能條愛未.md" title="wikilink">能條愛未</a>、畠中清羅、<a href="../Page/樋口日奈.md" title="wikilink">樋口日奈</a>、宮澤成良、<a href="../Page/大和里菜.md" title="wikilink">大和里菜</a>、<a href="https://zh.wikipedia.org/wiki/和田まあや" title="wikilink">和田まあや</a></p></td>
 <td><p>伊藤寧寧</p></td>
 </tr>

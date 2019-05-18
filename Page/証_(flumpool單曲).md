@@ -5,7 +5,7 @@
 ### CD
 
 1.  **証**
-    作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
+    作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
       - 第78回(2011年度)『[NHK全国学校音樂比賽](https://zh.wikipedia.org/wiki/NHK全国学校音樂比賽 "wikilink")』中学部課題曲
       - 『[NHKみんなのうた](https://zh.wikipedia.org/wiki/NHKみんなのうた "wikilink")』2011年8月-9月の新曲
 2.  **覚醒アイデンティティ**

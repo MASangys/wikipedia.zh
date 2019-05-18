@@ -11,7 +11,7 @@ OCaml 語言轉移到用 Rust 語言，進行 bootstrapping 工作，稱做 *rus
 日釋出。\[9\]
 
 Rust 是在完全開放的情況下進行開發，並且相當歡迎社區的回饋。在 1.0 穩定版之前，語言設計也因為透過撰寫
-[Servo](https://zh.wikipedia.org/wiki/Servo "wikilink")
+[Servo](../Page/Servo.md "wikilink")
 [網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎和](../Page/排版引擎.md "wikilink")
 rustc 編譯器本身，而有進一步的改善。雖然它由 Mozilla
 資助，但它其實是一個共有專案，有很大部分的代碼是來自於社區的貢獻者。\[10\]
@@ -35,7 +35,7 @@ Rust的語法設計，與 [C語言和](https://zh.wikipedia.org/wiki/C語言 "wi
 
 ### 内存安全
 
-為了提供記憶體安全，它的設計不允許[空指標和](https://zh.wikipedia.org/wiki/空指標 "wikilink")[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[13\]
+為了提供記憶體安全，它的設計不允許[空指標和](../Page/空指標.md "wikilink")[懸空指標](https://zh.wikipedia.org/wiki/迷途指針 "wikilink")\[13\]
 \[14\] 。 資料只能透過固定的初始化形態來建構，而所有這些形態都要求它們的輸入已經分析過了\[15\]。 Rust
 有一個檢查指標生命期間和指標凍結的系統，可以用來預防在 C++
 中許多的型別錯誤，甚至是用了[智慧指標功能之後會發生的型別錯誤](../Page/智能指针.md "wikilink")。
@@ -75,7 +75,7 @@ struct)。實作的角色類似提供 Class 關鍵字的程式語言所代表的
 
 2012年1月20日，第一个有版本号的[预览版Rust编译器发布](https://zh.wikipedia.org/wiki/軟件版本週期#Alpha "wikilink")\[21\]。
 
-2013年4月4日，[Mozilla基金會宣布將與](../Page/Mozilla基金會.md "wikilink")[三星集團合作開發瀏覽器排版引擎](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Servo](https://zh.wikipedia.org/wiki/Servo "wikilink")，此引擎将由Rust來實作\[22\]。
+2013年4月4日，[Mozilla基金會宣布將與](../Page/Mozilla基金會.md "wikilink")[三星集團合作開發瀏覽器排版引擎](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Servo](../Page/Servo.md "wikilink")，此引擎将由Rust來實作\[22\]。
 
 2015年5月16日，Rust 1.0.0发布\[23\]。
 
@@ -168,12 +168,12 @@ fn main() {
   - [官方网站](http://www.rust-lang.org/)
   - [The Rust-dev
     Archives](https://mail.mozilla.org/pipermail/rust-dev/)（邮件列表）
-  - [Rust主源代码库及缺陷跟踪系统](https://github.com/mozilla/rust)于[Github](../Page/Github.md "wikilink")
-  - [Rust语言Wiki](https://github.com/mozilla/rust/wiki)于[Github](../Page/Github.md "wikilink")
+  - [Rust主源代码库及缺陷跟踪系统](https://github.com/mozilla/rust)于[Github](https://zh.wikipedia.org/wiki/Github "wikilink")
+  - [Rust语言Wiki](https://github.com/mozilla/rust/wiki)于[Github](https://zh.wikipedia.org/wiki/Github "wikilink")
 
 ## 参见
 
-  - [Servo](https://zh.wikipedia.org/wiki/Servo "wikilink")
+  - [Servo](../Page/Servo.md "wikilink")
 
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 [Category:系統程式語言](https://zh.wikipedia.org/wiki/Category:系統程式語言 "wikilink")

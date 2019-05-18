@@ -1,6 +1,6 @@
 《**-{zh-cn:X计划;zh-hk:瘋狂X派對;zh-tw:派對X計劃;}-**》（），2012年的一部[喜劇電影](../Page/喜劇.md "wikilink")，由Nima
 Nourizadeh導演，Michael Bacall和Matt
-Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md "wikilink")。主演有[湯瑪斯·曼恩](https://zh.wikipedia.org/wiki/湯瑪斯·曼恩_\(演員\) "wikilink")、和。被譽為有史以來最偉大的派對電影。在專业影评人中评价较低，但在读者群中评价较高。其配乐和剧情转折堪称完美。
+Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md "wikilink")。主演有[湯瑪斯·曼恩](../Page/湯瑪斯·曼恩_\(演員\).md "wikilink")、和。被譽為有史以來最偉大的派對電影。在專业影评人中评价较低，但在读者群中评价较高。其配乐和剧情转折堪称完美。
 
 ## 劇情
 
@@ -8,8 +8,7 @@ Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md
 
 ## 演員表
 
-  - [湯瑪斯·曼恩](https://zh.wikipedia.org/wiki/湯瑪斯·曼恩_\(演員\) "wikilink") 飾
-    湯瑪斯
+  - [湯瑪斯·曼恩](../Page/湯瑪斯·曼恩_\(演員\).md "wikilink") 飾 湯瑪斯
 
   - 飾 科斯塔
 

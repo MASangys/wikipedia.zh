@@ -54,7 +54,7 @@ FB7・銀河流魂**」（）是「[超時空要塞Macross](https://zh.wikipedia
 
   - 原作：[河森正治](../Page/河森正治.md "wikilink")、[Studio
     Nue](https://zh.wikipedia.org/wiki/Studio_Nue "wikilink")
-  - 監督・脚本：[アミノテツロー（網野哲郎）](https://zh.wikipedia.org/wiki/網野哲郎 "wikilink")
+  - 監督・脚本：[アミノテツロー（網野哲郎）](../Page/網野哲郎.md "wikilink")
   - 副監督：阿保孝雄
   - 作画監督：堀内修
   - 人物設定：[江端里沙](https://zh.wikipedia.org/wiki/江端里沙 "wikilink")、[高橋裕一](https://zh.wikipedia.org/wiki/高橋裕一 "wikilink")
@@ -63,7 +63,7 @@ FB7・銀河流魂**」（）是「[超時空要塞Macross](https://zh.wikipedia
   - 「Macross 7」人設：[桂憲一郎](https://zh.wikipedia.org/wiki/桂憲一郎 "wikilink")
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音響制作：
-  - 美術監督：吉原俊一郎（[美峰](https://zh.wikipedia.org/wiki/美峰 "wikilink")）
+  - 美術監督：吉原俊一郎（[美峰](../Page/美峰.md "wikilink")）
   - 色彩設計：中山久美子
   - 撮影監督：植田真樹
   - 編集：定松剛

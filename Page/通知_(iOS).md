@@ -1,8 +1,8 @@
-**通知中心**是一项[iOS](../Page/iOS.md "wikilink") \[1\]和[OS
+**通知中心**是一项[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") \[1\]和[OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")
 \[2\]系统中的功能，用于提供所有程序的提醒消息。用户不必马上对弹出的通知做出反应，只需要做出相关动作就可以消除提醒。用户可以选择哪些[程序在通知中心显示](https://zh.wikipedia.org/wiki/程序 "wikilink")，以及指定处理它们的方式。该项功能最初在2011年10月出现在[iOS
-5中](../Page/iOS_5.md "wikilink")，2012年7月时[OS X Mountain
-Lion系统也实现了此项功能](../Page/OS_X_Mountain_Lion.md "wikilink")。
+5中](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")，2012年7月时[OS X
+Mountain Lion系统也实现了此项功能](../Page/OS_X_Mountain_Lion.md "wikilink")。
 
 ## 特色功能
 
@@ -19,11 +19,12 @@ X中不可用。在OS X中，用户可以设置在通知中心中显示一个Twi
 Store中上架的OS](../Page/Mac_App_Store.md "wikilink")
 X程序只能采用通知中心。用户可以自定义在通知中心里显示的内容，还可选择阻止某一程序显示通知，或者让其直接弹出对话框而不显示在中心里。OS
 X用户可以将所有通知和提醒消息停一天，免去通知满天飞之苦。但这期间各种程序发出的通知都会保存在通知中心面板里，用户可以打开进行查看。该项功能也会在[iOS
-6中以](../Page/iOS_6.md "wikilink")“Do Not Disturb”选项的方式出现。\[5\]
+6中以](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")“Do Not
+Disturb”选项的方式出现。\[5\]
 
 ## 参考条目
 
-  - [苹果推送消息服务](https://zh.wikipedia.org/wiki/Apple推播通知服務 "wikilink")
+  - [苹果推送消息服务](../Page/Apple推播通知服務.md "wikilink")
 
 ## 参考资料
 

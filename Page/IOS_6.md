@@ -1,13 +1,12 @@
 **iOS
-6**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第六個主要版本](../Page/iOS.md "wikilink")，取代前代作業系統[iOS
-5](../Page/iOS_5.md "wikilink")。iOS
+6**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第六個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS
+5](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")。iOS
 6於2012年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月19日正式推出。繼任者為2013年9月19日推出的[iOS
 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")\[1\]。
 
-iOS
-6以蘋果自家的[蘋果地圖取代先前版本內建的地圖服務](https://zh.wikipedia.org/wiki/蘋果地圖 "wikilink")[Google
+iOS 6以蘋果自家的[蘋果地圖取代先前版本內建的地圖服務](../Page/蘋果地圖.md "wikilink")[Google
 Maps](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")，並移除了內建的[YouTube應用程式](../Page/YouTube.md "wikilink")。另外，iOS
-6新增了Podcast應用程式，專門處理[Podcast相關服務](../Page/播客.md "wikilink")；[Passbook應用程式](https://zh.wikipedia.org/wiki/Apple_Wallet "wikilink")，整合登機證、購物卡及優惠劵等電子票證功能；[App
+6新增了Podcast應用程式，專門處理[Podcast相關服務](../Page/播客.md "wikilink")；[Passbook應用程式](../Page/Apple_Wallet.md "wikilink")，整合登機證、購物卡及優惠劵等電子票證功能；[App
 Store及](../Page/App_Store_\(iOS\).md "wikilink")[iTunes
 Store等商店介面也經過重新設計](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，引進資訊卡式介面，更易於使用；蘋果的語音助理[Siri首次支援](../Page/Siri.md "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，並新增餐廳訂位、快捷開啟應用程式、體育賽事資訊顯示及讀取通知中心通知內容等功能。
 
@@ -41,7 +40,7 @@ iOS
 #### 6.1.1
 
 iOS 6.1.1於2013年2月11日發布。此更新修正了部分[iPhone
-4S行動網路效能和穩定性的問題](../Page/iPhone_4S.md "wikilink")\[19\]\[20\]。
+4S行動網路效能和穩定性的問題](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")\[19\]\[20\]。
 
 #### 6.1.2
 
@@ -56,7 +55,7 @@ iOS
 #### 6.1.4
 
 iOS 6.1.4於2013年5月2日發布。此更新透過更新擴音器描述檔修正了部分[iPhone
-5的音訊播放問題](../Page/iPhone_5.md "wikilink")\[25\]\[26\]。
+5的音訊播放問題](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[25\]\[26\]。
 
 #### 6.1.5
 
@@ -67,7 +66,7 @@ touch無法使用](../Page/IPod_touch_\(第四代\).md "wikilink")[FaceTime通�
 
 iOS 6.1.6於2014年2月21日發布。此更新修正了部分[第四代iPod
 touch及](../Page/IPod_touch_\(第四代\).md "wikilink")[iPhone
-3GS關於](../Page/iPhone_3GS.md "wikilink")[SSL連線驗證的問題](../Page/傳輸層安全性協定.md "wikilink")\[29\]\[30\]。此更新為iOS
+3GS關於](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[SSL連線驗證的問題](../Page/傳輸層安全性協定.md "wikilink")\[29\]\[30\]。此更新為iOS
 6的最終版本\[31\]\[32\]。
 
 ## 系統新增功能
@@ -93,7 +92,7 @@ X中的系統偏好設定相同](../Page/MacOS.md "wikilink")\[39\]\[40\]；新�
 在iOS
 6中，社群媒體相關功能除了原本的[推特之外](https://zh.wikipedia.org/wiki/推特 "wikilink")，還新增了[Facebook](../Page/Facebook.md "wikilink")。用戶可以直接透過系統選單登入Facebook帳號；[App
 Store及](../Page/App_Store_\(iOS\).md "wikilink")[Game
-Center的應用程式評價旁新增了Facebook的按讚按鈕](https://zh.wikipedia.org/wiki/Game_Center "wikilink")；相片應用程式、Safari及內建YouTube及Google
+Center的應用程式評價旁新增了Facebook的按讚按鈕](../Page/Game_Center.md "wikilink")；相片應用程式、Safari及內建YouTube及Google
 Maps應用程式中也出現了更新Facebook動態消息的選項\[50\]\[51\]。
 
 ## 應用程式新增功能
@@ -107,7 +106,7 @@ Maps改為蘋果地圖](../Page/Google地图.md "wikilink")。蘋果地圖採用
 ### Passbook
 
 iOS
-6中新增的Passbook應用程式，整合了登機證、購物卡及優惠劵等電子票證功能，可用於[行動支付](https://zh.wikipedia.org/wiki/行動支付 "wikilink")\[54\]\[55\]\[56\]\[57\]。應用程式還可以偵測用戶所在場合，自動顯示所需票卡\[58\]\[59\]。
+6中新增的Passbook應用程式，整合了登機證、購物卡及優惠劵等電子票證功能，可用於[行動支付](../Page/行動支付.md "wikilink")\[54\]\[55\]\[56\]\[57\]。應用程式還可以偵測用戶所在場合，自動顯示所需票卡\[58\]\[59\]。
 
 ### 相機及相片
 
@@ -143,8 +142,8 @@ Safari在iOS
 
 ### 時鐘
 
-原本僅為[iPhone及](../Page/iPhone.md "wikilink")[iPod
-touch設計的時鐘應用程式](../Page/iPod_touch.md "wikilink")，在iOS
+原本僅為[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
+touch設計的時鐘應用程式](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")，在iOS
 6中首次支援[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")\[88\]\[89\]。
 
 ## 移除功能
@@ -153,7 +152,7 @@ touch設計的時鐘應用程式](../Page/iPod_touch.md "wikilink")，在iOS
 
 在iOS 6中，與[Google相關的應用程式](../Page/Google.md "wikilink")，如[Google
 Maps及](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")[YouTube都遭到移除](../Page/YouTube.md "wikilink")\[90\]\[91\]。根據[The
-Verge編輯表示](https://zh.wikipedia.org/wiki/The_Verge "wikilink")，蘋果是因為與Google的合約問題，而決定移除Google相關服務\[92\]\[93\]。Google隨後也自行開發了[iOS版本的Google](../Page/iOS.md "wikilink")
+Verge編輯表示](../Page/The_Verge.md "wikilink")，蘋果是因為與Google的合約問題，而決定移除Google相關服務\[92\]\[93\]。Google隨後也自行開發了[iOS版本的Google](https://zh.wikipedia.org/wiki/iOS "wikilink")
 Maps及YouTube應用程式\[94\]\[95\]。
 
 ## 問題
@@ -174,7 +173,7 @@ Maps改為蘋果地圖](../Page/Google地图.md "wikilink")。雖然蘋果地圖
 2014年4月，大批用戶回報其搭載iOS
 6的裝置無法使用[FaceTime服務](../Page/FaceTime.md "wikilink")。蘋果隨後在官方說明稿中解釋此問題，並要求能升級至[iOS
 7以上版本的裝置盡量升級](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")，而無法升級的裝置如[iPhone
-3GS及](../Page/iPhone_3GS.md "wikilink")[第四代iPod
+3GS及](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[第四代iPod
 touch則透過蘋果推出的iOS](https://zh.wikipedia.org/wiki/第四代iPod_touch "wikilink")
 6.1.6更新修補漏洞\[105\]\[106\]\[107\]。
 
@@ -186,29 +185,29 @@ touch無法升級至iOS](https://zh.wikipedia.org/wiki/第三代iPod_touch "wiki
 
 ### iPhone
 
-  - [iPhone 3GS](../Page/iPhone_3GS.md "wikilink")
-  - [iPhone 4](../Page/iPhone_4.md "wikilink")
-  - [iPhone 4S](../Page/iPhone_4S.md "wikilink")
-  - [iPhone 5](../Page/iPhone_5.md "wikilink")
+  - [iPhone 3GS](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")
+  - [iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")
+  - [iPhone 4S](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")
+  - [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")
 
 ### iPod touch
 
-  - [iPod touch (第四代)](../Page/iPod_touch_\(第四代\).md "wikilink")
+  - [iPod touch
+    (第四代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第四代\) "wikilink")
   - [iPod touch
     (第五代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第五代\) "wikilink")
 
 ### iPad
 
-  - [iPad 2](../Page/iPad_2.md "wikilink")
-  - [iPad (第三代)](../Page/iPad_\(第三代\).md "wikilink")
+  - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
+  - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
   - [iPad (第四代)](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")
   - [iPad mini
     (第一代)](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")
 
 ## 參見
 
-  - [Android
-    4.1](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")
+  - [Android 4.1](../Page/Android_Jelly_Bean.md "wikilink")
   - [Windows Phone 8](../Page/Windows_Phone_8.md "wikilink")
 
 ## 外部連結

@@ -42,8 +42,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
       -
         3rd單曲
 6.  **[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")**（あなたなしでは生きてゆけない）
-    （作詞・作曲：淳君
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    （作詞・作曲：淳君 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         1st單曲
 

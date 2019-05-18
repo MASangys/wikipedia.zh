@@ -4,9 +4,9 @@
 Flash技术来观看预告片和其它视频内容。
 
 《Eurogamer》的的主编是汤姆·布拉姆韦尔，他于2008年1月克里斯坦·里德手里接任此职。布拉姆韦尔自2000年初以来开始工作，是编辑人员中任职时间最长的。而其他参与者包括《[PC
-Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》、《[GamesTM](https://zh.wikipedia.org/wiki/GamesTM "wikilink")》、《[Edge](../Page/Edge_\(杂志\).md "wikilink")》和[Rock,
+Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")》、《[GamesTM](../Page/GamesTM.md "wikilink")》、《[Edge](../Page/Edge_\(杂志\).md "wikilink")》和[Rock,
 Paper,
-Shotgun的编者](https://zh.wikipedia.org/wiki/Rock,_Paper,_Shotgun "wikilink")，如奥利弗·威尔士、基隆·吉伦、吉姆·罗西尼尔、约翰·沃克、西蒙·帕金、亚历克·米尔、理查德·利百特、丹·怀特黑德和大卫·麦卡锡，以及前GamesIndustry.biz编辑罗布·费伊。
+Shotgun的编者](../Page/Rock,_Paper,_Shotgun.md "wikilink")，如奥利弗·威尔士、基隆·吉伦、吉姆·罗西尼尔、约翰·沃克、西蒙·帕金、亚历克·米尔、理查德·利百特、丹·怀特黑德和大卫·麦卡锡，以及前GamesIndustry.biz编辑罗布·费伊。
 
 ## 历史
 

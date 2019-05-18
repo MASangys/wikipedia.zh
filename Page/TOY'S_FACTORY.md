@@ -11,9 +11,8 @@ Inc.*）簡稱為「**TOY'S**」（トイズ），是[日本的](../Page/日本.
 
   - [A.F.R.O（A FUNKY RHYTHMIC
     ORGANIZER）](https://zh.wikipedia.org/wiki/A.F.R.O "wikilink")
-  - [BUMP OF
-    CHICKEN](https://zh.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")
-  - [DAOKO](https://zh.wikipedia.org/wiki/DAOKO "wikilink")
+  - [BUMP OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink")
+  - [DAOKO](../Page/DAOKO.md "wikilink")
   - [livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
   - [Mr.Children](../Page/Mr.Children.md "wikilink")
       - [GAKU-MC](https://zh.wikipedia.org/wiki/GAKU-MC "wikilink") /
@@ -21,12 +20,10 @@ Inc.*）簡稱為「**TOY'S**」（トイズ），是[日本的](../Page/日本.
       - [Bank Band](https://zh.wikipedia.org/wiki/Bank_Band "wikilink")
   - [phatmans after
     school](https://zh.wikipedia.org/wiki/phatmans_after_school "wikilink")
-  - [Rihwa](https://zh.wikipedia.org/wiki/Rihwa "wikilink")
+  - [Rihwa](../Page/Rihwa.md "wikilink")
   - [Salyu](../Page/Salyu.md "wikilink")
-  - [SEKAI NO
-    OWARI](https://zh.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")
-  - [UNISON SQUARE
-    GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")
+  - [SEKAI NO OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")
+  - [UNISON SQUARE GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")
 
 #### 五十音順
 
@@ -35,12 +32,12 @@ Inc.*）簡稱為「**TOY'S**」（トイズ），是[日本的](../Page/日本.
   - [湘南乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")
       - [HAN-KUN](https://zh.wikipedia.org/wiki/HAN-KUN "wikilink")
   - [伊東歌詞太郎](https://zh.wikipedia.org/wiki/伊東歌詞太郎 "wikilink")
-  - [古川慎](https://zh.wikipedia.org/wiki/古川慎 "wikilink")
-  - [增田俊樹](https://zh.wikipedia.org/wiki/增田俊樹 "wikilink")
+  - [古川慎](../Page/古川慎.md "wikilink")
+  - [增田俊樹](../Page/增田俊樹.md "wikilink")
 
 ### 重音部RECORDS
 
-  - [BABYMETAL](https://zh.wikipedia.org/wiki/BABYMETAL "wikilink")（[櫻花学院的重音部組合](https://zh.wikipedia.org/wiki/櫻花学院 "wikilink")）
+  - [BABYMETAL](../Page/BABYMETAL.md "wikilink")（[櫻花学院的重音部組合](https://zh.wikipedia.org/wiki/櫻花学院 "wikilink")）
 
 ### SENHA & Co.
 
@@ -50,7 +47,7 @@ Inc.*）簡稱為「**TOY'S**」（トイズ），是[日本的](../Page/日本.
 
 ### MEME TOKYO
 
-  - [電波組.inc](https://zh.wikipedia.org/wiki/電波組.inc "wikilink")
+  - [電波組.inc](../Page/電波組.inc.md "wikilink")
 
 ### NOFRAMES
 

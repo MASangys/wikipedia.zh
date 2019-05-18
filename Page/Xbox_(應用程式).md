@@ -1,7 +1,7 @@
 **Xbox SmartGlass**是一個為[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](../Page/iOS.md "wikilink")[Android等行動終端開發的串連技術](../Page/Android.md "wikilink")，于2012年面世\[1\]。它可以使行動設備連接Xbox
+Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android等行動終端開發的串連技術](../Page/Android.md "wikilink")，于2012年面世\[1\]。它可以使行動設備連接Xbox
 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
 
 ## 功能
@@ -117,7 +117,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 <td><p>{{tsl|en|Madden NFL 13</p></td>
 <td><p>麦登橄榄球13}}</p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EA_Sports" title="wikilink">EA Sports</a></p></td>
+<td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
 <td><p>应予发表</p></td>
 <td><p>应予发表</p></td>
 <td><p>应予发表</p></td>
@@ -193,7 +193,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/崛起：罗马之子" title="wikilink">崛起：罗马之子</a></p></td>
+<td><p><a href="../Page/崛起：罗马之子.md" title="wikilink">崛起：罗马之子</a></p></td>
 <td><p><a href="../Page/Crytek.md" title="wikilink">Crytek</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
 <td></td>
@@ -383,7 +383,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/龍虎少年隊_(電影)" title="wikilink">龍虎少年隊</a></p></td>
+<td><p><a href="../Page/龍虎少年隊_(電影).md" title="wikilink">龍虎少年隊</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -507,7 +507,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/誓約" title="wikilink">誓約</a></p></td>
+<td><p><a href="../Page/誓約.md" title="wikilink">誓約</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

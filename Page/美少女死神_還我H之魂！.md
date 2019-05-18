@@ -1,5 +1,5 @@
 《**美少女死神
-還我H之魂！**》（），簡稱，是[橘Pan執筆](https://zh.wikipedia.org/wiki/橘Pan "wikilink")、插畫的壓抑系情色喜劇[輕小說](../Page/輕小說.md "wikilink")。漫畫版由執筆。於2012年7月推出電視動畫，與原作相比，動畫版修改掉包括世界觀在內的很多設定。
+還我H之魂！**》（），簡稱，是[橘Pan執筆](../Page/橘Pan.md "wikilink")、插畫的壓抑系情色喜劇[輕小說](../Page/輕小說.md "wikilink")。漫畫版由執筆。於2012年7月推出電視動畫，與原作相比，動畫版修改掉包括世界觀在內的很多設定。
 
 ## 故事簡介
 
@@ -9,7 +9,7 @@
 
 <div class="notice metadata" id="spoiler">
 
-<small>**※動畫版已近[二次創作程度](https://zh.wikipedia.org/wiki/二次創作 "wikilink")，請勿與原作混淆。**</small>
+<small>**※動畫版已近[二次創作程度](../Page/二次創作.md "wikilink")，請勿與原作混淆。**</small>
 
 </div>
 
@@ -441,7 +441,7 @@
 <thead>
 <tr class="header">
 <th><p>日文版</p></th>
-<th><p><a href="../Page/enterbrain.md" title="wikilink">enterbrain</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -524,7 +524,7 @@
 
   - 原作：（[富士見Fantasia文庫刊載](../Page/富士見Fantasia文庫.md "wikilink")）
   - 角色原案：
-  - 監督：[高橋丈夫](https://zh.wikipedia.org/wiki/高橋丈夫 "wikilink")
+  - 監督：[高橋丈夫](../Page/高橋丈夫.md "wikilink")
   - 助監督：末田宣史
   - 系列構成：[荒川稔久](../Page/荒川稔久.md "wikilink")
   - 角色設定：神本兼利
@@ -538,7 +538,7 @@
   - 音響制作：
   - 音樂：
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
-  - 動畫製作：[feel.](../Page/feel..md "wikilink")
+  - 動畫製作：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作：我H製作委員会（[T.O
     Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon
     Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、富士見書房、DAX
@@ -547,9 +547,9 @@
 ### 主題曲
 
   - 主題曲「Reason why XXX」
-    作詞、作曲：ZAQ，編曲：nyanyannya（[Team.ねこかん【貓】](https://zh.wikipedia.org/wiki/Team.ねこかん【貓】 "wikilink")），歌：[佐咲紗花](https://zh.wikipedia.org/wiki/佐咲紗花 "wikilink")
+    作詞、作曲：ZAQ，編曲：nyanyannya（[Team.ねこかん【貓】](https://zh.wikipedia.org/wiki/Team.ねこかん【貓】 "wikilink")），歌：[佐咲紗花](../Page/佐咲紗花.md "wikilink")
   - 片尾曲「17」
-    作詞、作曲、歌：[yozuca\*](../Page/yozuca*.md "wikilink")，編曲：[黑須克彥](https://zh.wikipedia.org/wiki/黑須克彥 "wikilink")
+    作詞、作曲、歌：[yozuca\*](https://zh.wikipedia.org/wiki/yozuca* "wikilink")，編曲：[黑須克彥](https://zh.wikipedia.org/wiki/黑須克彥 "wikilink")
 
 ### 各話列表
 
@@ -572,7 +572,7 @@
 <td></td>
 <td><p>命運的紅線！？</p></td>
 <td><p><a href="../Page/荒川稔久.md" title="wikilink">荒川稔久</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋丈夫" title="wikilink">高橋丈夫</a></p></td>
+<td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
 <td><p>園田雅裕</p></td>
 <td><p>齋藤雅和、川島尚<br />
 村山公輔、山本善哉</p></td>
@@ -582,7 +582,7 @@
 <td><p>第2話</p></td>
 <td></td>
 <td><p>色慾對環境有益</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
 <td><p>島津裕行</p></td>
 <td><p>小野田雄亮</p></td>
 <td><p>中本尚、川島尚<br />
@@ -599,7 +599,7 @@
 <td><p>危險的偶像</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長谷川勝己" title="wikilink">長谷川勝己</a></p></td>
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
 <td><p>李相辰、長谷川亨雄<br />
 小山知洋、清水勝祐<br />
 野崎真一、川島尚<br />

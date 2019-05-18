@@ -99,8 +99,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
   - [Panzerfaust](https://zh.wikipedia.org/wiki/Panzerfaust "wikilink")
   - [卡爾·古斯塔夫無後座力炮](../Page/卡爾·古斯塔夫無後座力炮.md "wikilink")
   - [巴祖卡火箭筒](../Page/巴祖卡火箭筒.md "wikilink")
-  - [55 S
-    55無後座力炮](https://zh.wikipedia.org/wiki/55_S_55無後座力炮 "wikilink")
+  - [55 S 55無後座力炮](../Page/55_S_55無後座力炮.md "wikilink")
   - [56式火箭筒](https://zh.wikipedia.org/wiki/56式火箭筒 "wikilink")
   - [RPG-7](../Page/RPG-7.md "wikilink")
   - [69式火箭筒](../Page/69式火箭筒.md "wikilink")

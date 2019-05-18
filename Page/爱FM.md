@@ -643,19 +643,19 @@ Jc 劲程、淑霖</p></td>
 | [联邦直辖区](../Page/联邦直辖区.md "wikilink")                  | [布城](../Page/布城.md "wikilink")                                                       | 89.7       |
 | [登嘉樓](../Page/登嘉樓.md "wikilink")                      | [瓜拉登嘉楼](../Page/瓜拉登嘉楼.md "wikilink")                                                 | 90.5       |
 | [彭亨](../Page/彭亨.md "wikilink")                        | [而连突](https://zh.wikipedia.org/wiki/而连突站 "wikilink")                                 | 90.7       |
-| [砂拉越](https://zh.wikipedia.org/wiki/砂拉越 "wikilink")   | [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")                                    | 90.7       |
+| [砂拉越](../Page/砂拉越.md "wikilink")                      | [古晋](https://zh.wikipedia.org/wiki/古晋 "wikilink")                                    | 90.7       |
 | [吉兰丹](../Page/吉兰丹.md "wikilink")                      | 日里                                                                                   | 91.6       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [拿笃](../Page/拿笃.md "wikilink")                                                       | 91.7       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [亞庇](https://zh.wikipedia.org/wiki/亞庇 "wikilink")                                    | 91.9       |
 | [霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")     | [怡保](../Page/怡保.md "wikilink")                                                       | 92.1       |
 | [联邦直辖区](../Page/联邦直辖区.md "wikilink")                  | [纳闽](../Page/纳闽.md "wikilink")                                                       | 92.3       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [丹南](https://zh.wikipedia.org/wiki/丹南 "wikilink")                                    | 92.3       |
-| [砂拉越](https://zh.wikipedia.org/wiki/砂拉越 "wikilink")   | [加帛](../Page/加帛省.md "wikilink")                                                      | 92.7       |
+| [砂拉越](../Page/砂拉越.md "wikilink")                      | [加帛](../Page/加帛省.md "wikilink")                                                      | 92.7       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [山打根](../Page/山打根.md "wikilink")                                                     | 95.1       |
 | [登嘉楼](https://zh.wikipedia.org/wiki/登嘉楼 "wikilink")   | 全部                                                                                   | 97.8       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [古達](https://zh.wikipedia.org/wiki/古達 "wikilink")                                    | 98.1       |
 | [沙巴](https://zh.wikipedia.org/wiki/沙巴 "wikilink")     | [斗湖](../Page/斗湖.md "wikilink")                                                       | 98.1       |
-| [砂拉越](https://zh.wikipedia.org/wiki/砂拉越 "wikilink")   | [民都鲁](../Page/民都鲁.md "wikilink")                                                     | 99.3       |
+| [砂拉越](../Page/砂拉越.md "wikilink")                      | [民都鲁](../Page/民都鲁.md "wikilink")                                                     | 99.3       |
 | [吉兰丹](../Page/吉兰丹.md "wikilink")                      | 北部                                                                                   | 99.3       |
 | [登嘉樓](../Page/登嘉樓.md "wikilink")                      | [龍運](https://zh.wikipedia.org/wiki/龍運縣 "wikilink")                                   | 99.7       |
 | [马六甲](../Page/马六甲.md "wikilink")                      | 全部                                                                                   | 100.4      |
@@ -665,11 +665,11 @@ Jc 劲程、淑霖</p></td>
 | [吉打](../Page/吉打.md "wikilink")                        | 全部                                                                                   | 101.3      |
 | [槟城](../Page/槟城.md "wikilink")                        | 全部                                                                                   | 101.3      |
 | [文莱](https://zh.wikipedia.org/wiki/汶莱 "wikilink")     | 全部                                                                                   | 103.3      |
-| [砂拉越](https://zh.wikipedia.org/wiki/砂拉越 "wikilink")   | [林梦](../Page/林梦.md "wikilink")/[诗巫](https://zh.wikipedia.org/wiki/诗巫 "wikilink")     | 103.5      |
+| [砂拉越](../Page/砂拉越.md "wikilink")                      | [林梦](../Page/林梦.md "wikilink")/[诗巫](https://zh.wikipedia.org/wiki/诗巫 "wikilink")     | 103.5      |
 | [彭亨](../Page/彭亨.md "wikilink")                        | [金馬崙高原](../Page/金馬崙高原.md "wikilink")                                                 | 103.5      |
 | [柔佛](../Page/柔佛.md "wikilink")                        | 南部                                                                                   | 104.9      |
 | [新加坡](../Page/新加坡.md "wikilink")                      | 104.9                                                                                |            |
-| [砂拉越](https://zh.wikipedia.org/wiki/砂拉越 "wikilink")   | [斯里阿曼](https://zh.wikipedia.org/wiki/斯里阿曼 "wikilink")/[美里](../Page/美里.md "wikilink") | 105.3      |
+| [砂拉越](../Page/砂拉越.md "wikilink")                      | [斯里阿曼](https://zh.wikipedia.org/wiki/斯里阿曼 "wikilink")/[美里](../Page/美里.md "wikilink") | 105.3      |
 | [吉蘭丹](https://zh.wikipedia.org/wiki/吉蘭丹 "wikilink")   | [哥打巴鲁](../Page/哥打巴鲁.md "wikilink")                                                   | 105.7      |
 | [霹靂](https://zh.wikipedia.org/wiki/霹靂 "wikilink")     | [太平](../Page/太平_\(霹雳\).md "wikilink")                                                | 106.1      |
 | [彭亨](../Page/彭亨.md "wikilink")                        | [關丹](https://zh.wikipedia.org/wiki/關丹 "wikilink")                                    | 106.1      |

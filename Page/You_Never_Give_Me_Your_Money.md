@@ -4,15 +4,13 @@ Money**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wik
 ## 歌曲概要
 
 作品的內容由兩段不同曲風的音樂所組成，方法類似先前專輯《[比伯軍曹寂寞芳心俱樂部](../Page/比伯軍曹寂寞芳心俱樂部.md "wikilink")》裡最後一首歌《[A
-Day in the
-Life](https://zh.wikipedia.org/wiki/A_Day_in_the_Life "wikilink")》採用的模式。\[1\]
+Day in the Life](../Page/A_Day_in_the_Life.md "wikilink")》採用的模式。\[1\]
 
 歌詞前半段反應著當時披頭四經營的[蘋果公司財務不良狀況](https://zh.wikipedia.org/wiki/蘋果公司_\(披頭四\) "wikilink")，後半段則是暗示著[保羅·麥卡尼與新交往的戀人](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")[琳達·伊斯曼相識後的嶄新心情](https://zh.wikipedia.org/wiki/琳達·伊斯曼 "wikilink")。\[2\]
 
 《艾比路》專輯裡的《You Never Give Me Your Money》在尾聲處會用不中斷手法接續下一首歌曲《[Sun
-King](https://zh.wikipedia.org/wiki/Sun_King_\(披頭四歌曲\) "wikilink")》，而部份旋律也有在較後面的歌曲《[Carry
-That
-Weight](https://zh.wikipedia.org/wiki/Carry_That_Weight "wikilink")》裡出現。
+King](../Page/Sun_King_\(披頭四歌曲\).md "wikilink")》，而部份旋律也有在較後面的歌曲《[Carry
+That Weight](../Page/Carry_That_Weight.md "wikilink")》裡出現。
 
 ## 演奏成員
 

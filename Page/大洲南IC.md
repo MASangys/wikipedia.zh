@@ -1,4 +1,4 @@
-**大洲南IC**（平假名：おおずみなみインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[大洲市的](../Page/大洲市.md "wikilink")[大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。此交流道只設宇和島方向出口與松山方向入口。
+**大洲南IC**（平假名：おおずみなみインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[大洲市的](../Page/大洲市.md "wikilink")[大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](../Page/松山自動車道.md "wikilink")）之[交流道](../Page/交流道.md "wikilink")。此交流道只設宇和島方向出口與松山方向入口。
 
 ## 連接道路
 
@@ -23,7 +23,7 @@
 
 ## 鄰近設施
 
-  - [大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")）
+  - [大洲道路](https://zh.wikipedia.org/wiki/大洲道路 "wikilink")（[松山自動車道](../Page/松山自動車道.md "wikilink")）
     (19)[大洲肱南IC](../Page/大洲肱南IC.md "wikilink") - (20)**大洲南IC** -
     (21)[大洲北只IC](../Page/大洲北只IC.md "wikilink")
 

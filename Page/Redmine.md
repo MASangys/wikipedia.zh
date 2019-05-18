@@ -1,9 +1,9 @@
 **Redmine**
-是一個網頁界面的[项目管理與](../Page/项目管理.md "wikilink")[缺陷跟蹤管理系統的](https://zh.wikipedia.org/wiki/缺陷跟蹤管理系統 "wikilink")[自由及开放源代码软件工具](../Page/自由及开放源代码软件.md "wikilink")。它整合了项目管理所需的各項功能：[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")、[燃尽图和](https://zh.wikipedia.org/wiki/燃尽图 "wikilink")[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")
+是一個網頁界面的[项目管理與](../Page/项目管理.md "wikilink")[缺陷跟蹤管理系統的](https://zh.wikipedia.org/wiki/缺陷跟蹤管理系統 "wikilink")[自由及开放源代码软件工具](../Page/自由及开放源代码软件.md "wikilink")。它整合了项目管理所需的各項功能：[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")、[燃尽图和](../Page/燃尽图.md "wikilink")[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")
 以協助視覺化表現專案與時間限制，和[版本控制](../Page/版本控制.md "wikilink")。此外，Redmine也可以同時處理多個项目。
 
 Redmine 是以 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")
-撰寫的架構，它橫跨多個平台與[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，它的設計很明顯是受一些類似功能軟件包的[Trac所影響](../Page/Trac.md "wikilink")。此外，它也是[Bitnami](https://zh.wikipedia.org/wiki/Bitnami "wikilink")
+撰寫的架構，它橫跨多個平台與[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，它的設計很明顯是受一些類似功能軟件包的[Trac所影響](../Page/Trac.md "wikilink")。此外，它也是[Bitnami](../Page/Bitnami.md "wikilink")
 應用[函式庫的一部份](../Page/函式庫.md "wikilink")。
 
 ## 功能
@@ -15,7 +15,7 @@ Redmine 是以 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")
   - 新聞、文件及檔案管理
   - RSS [Feed](https://zh.wikipedia.org/wiki/Feed "wikilink")
     和[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink") 通知
-  - 每個项目都可有自己的 [wiki](../Page/wiki.md "wikilink")
+  - 每個项目都可有自己的 [wiki](https://zh.wikipedia.org/wiki/wiki "wikilink")
   - 每個项目可建立多個討論區
   - 簡單的時間追蹤
   - 個性化的栏位

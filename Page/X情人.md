@@ -1,5 +1,5 @@
 《**X情人**》（），2016年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，2016年10月28日於[CHOCO
-TV上架播出](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")。本劇分成閨密情人、恐怖情人、媽寶情人、外送情人、盲目情人、條件情人等六單元，每單元一集。\[1\]
+TV上架播出](../Page/CHOCO_TV.md "wikilink")。本劇分成閨密情人、恐怖情人、媽寶情人、外送情人、盲目情人、條件情人等六單元，每單元一集。\[1\]
 \[2\]
 
 ## 播出時間
@@ -19,7 +19,7 @@ TV上架播出](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")。本劇分�
 <tbody>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/CHOCO_TV" title="wikilink">CHOCO TV</a></p></td>
+<p><a href="../Page/CHOCO_TV.md" title="wikilink">CHOCO TV</a></p></td>
 <td><center></td>
 <td><p>閨蜜情人</p></td>
 <td><center>
@@ -104,7 +104,7 @@ TV上架播出](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")。本劇分�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/方語昕" title="wikilink">方語昕</a></p></td>
+<p><a href="../Page/方語昕.md" title="wikilink">方語昕</a></p></td>
 <td><center>
 <p>嘉嘉</p></td>
 <td></td>
@@ -128,7 +128,7 @@ TV上架播出](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")。本劇分�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/利晴天" title="wikilink">利晴天</a></p></td>
+<p><a href="../Page/利晴天.md" title="wikilink">利晴天</a></p></td>
 <td><center>
 <p>方有傑</p></td>
 <td><p>既然我得不到，別人也別想得到<br />
@@ -258,7 +258,7 @@ James和Emily為同公司的同事，後成為男女朋友，James因爸爸長�
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陽詠存" title="wikilink">陽詠存</a></p></td>
+<p><a href="../Page/陽詠存.md" title="wikilink">陽詠存</a></p></td>
 <td><center>
 <p>Janet</p></td>
 <td><p>為吳仁信和Yvon的直屬上司:與Yvon是朋友</p></td>

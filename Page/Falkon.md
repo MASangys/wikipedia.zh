@@ -32,7 +32,7 @@ Rosca在部落格宣佈QupZilla成為[KDE專案](../Page/KDE.md "wikilink")。\[
 
   - [WebKit](../Page/WebKit.md "wikilink")
   - [Arora](../Page/Arora.md "wikilink")
-  - [rekonq](../Page/rekonq.md "wikilink")
+  - [rekonq](https://zh.wikipedia.org/wiki/rekonq "wikilink")
   - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
 
 ## 外部連結

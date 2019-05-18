@@ -1,6 +1,6 @@
 **JJ
 Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂於](../Page/JYP娛樂.md "wikilink")2012年推出的雙人男子團體，成員包括[JB及](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永命名](../Page/朴軫永.md "wikilink")，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ
-Project。2014年1月16日，JB與珍榮作為[GOT7成員出道](https://zh.wikipedia.org/wiki/GOT7 "wikilink")。
+Project。2014年1月16日，JB與珍榮作為[GOT7成員出道](../Page/GOT7.md "wikilink")。
 
 ## 成員資料
 
@@ -21,19 +21,19 @@ High
 
 ### 2012年－2014年：以《Bounce》出道及GOT7
 
-出道單曲《[Bounce](https://zh.wikipedia.org/wiki/Bounce_\(JJ_Project歌曲\) "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](../Page/iTunes.md "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。
+出道單曲《[Bounce](../Page/Bounce_\(JJ_Project歌曲\).md "wikilink")》於2012年5月19日正式公開，單曲在5月20日登上[iTunes舞曲專輯榜第](https://zh.wikipedia.org/wiki/iTunes "wikilink")10名\[4\]。《Bounce》音樂錄影帶自公開以來得到許多關注，其在YouTube世界頻道影片排行榜中，獲得最受喜歡影片第4名、觀看次數最多第7名以及最多評論第10名，在韓國地區則得到4個排行榜冠軍\[5\]，此外音樂錄影帶在2天內即超過100萬次觀看\[6\]。
 2012年5月24日，於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》首次演出《Bounce》\[7\]。6月26日，重新錄製的歌曲〈Na
 Na Na〉並在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《MM
 Choice》中演出。\[8\]
 
-2014年1月16日，JB與珍榮作為[GOT7成員出道](https://zh.wikipedia.org/wiki/GOT7 "wikilink")。\[9\]
+2014年1月16日，JB與珍榮作為[GOT7成員出道](../Page/GOT7.md "wikilink")。\[9\]
 
 ### 2017年：回歸
 
 2017年6月26日，時隔5年多沒有回歸的JJ
-Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7官方網站](https://zh.wikipedia.org/wiki/GOT7 "wikilink")、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse
-2](https://zh.wikipedia.org/wiki/Verse_2 "wikilink")》回歸並於當日舉行Showcase，主打歌為〈明天，今天〉，此外也在7月31日至8月6日期間舉行攝影展。\[14\]
+Project確定在2017年7月31日回歸\[10\]\[11\]\[12\]。7月15日，在[GOT7官方網站](../Page/GOT7.md "wikilink")、臉書、推特同步公開回歸日程表，並於7月21日陸續公開專輯曲目清單\[13\]。7月31日，正式攜帶迷你專輯《[Verse
+2](../Page/Verse_2.md "wikilink")》回歸並於當日舉行Showcase，主打歌為〈明天，今天〉，此外也在7月31日至8月6日期間舉行攝影展。\[14\]
 9月8日，《Verse2》銷量在Hanteo榜累計破十萬，Gaon榜截至8月底累計銷量116,404張，至此《Verse2》成為2017年第14張銷量破十萬的專輯，JJ
 Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立以來第2組擁有十萬銷量的二人組\[15\]。
 
@@ -82,7 +82,7 @@ Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Verse_2" title="wikilink">Verse 2</a></p></td>
+<td><p><a href="../Page/Verse_2.md" title="wikilink">Verse 2</a></p></td>
 <td><ul>
 <li>日期：2017年7月31日</li>
 <li>廠牌：JYP娛樂、Genie音樂</li>
@@ -127,7 +127,7 @@ Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Bounce_(JJ_Project歌曲)" title="wikilink">Bounce</a></p></td>
+<td><p><a href="../Page/Bounce_(JJ_Project歌曲).md" title="wikilink">Bounce</a></p></td>
 <td><ul>
 <li>日期：2012年5月19日</li>
 <li>廠牌：JYP娛樂、Genie音樂</li>
@@ -212,7 +212,7 @@ Project成為2017年第12組銷量破十萬的藝人，也成為Hanteo榜成立�
 | ----- | --------------------------------------------------- | ----------------------------------------------------------------------- | ---- | ------- | --- | -- |
 | 2012年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》 | JB   | 張宇宰（JB） | 男主角 | 全集 |
 | 珍榮    | 鄭義峰                                                 | 男配角                                                                     |      |         |     |    |
-| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[當男人戀愛時](https://zh.wikipedia.org/wiki/當男人戀愛時 "wikilink")》             | JB   | 徐美俊（JB） | 男配角 |    |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[當男人戀愛時](../Page/當男人戀愛時.md "wikilink")》                                | JB   | 徐美俊（JB） | 男配角 |    |
 | 珍榮    | 多利                                                  | 男配角                                                                     |      |         |     |    |
 
 ### 综藝節目

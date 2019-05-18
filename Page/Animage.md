@@ -41,7 +41,7 @@
 
 **小說**
 
-  - [海潮之聲](https://zh.wikipedia.org/wiki/海潮之聲#原著小說 "wikilink")（1990～1992）：[冰室冴子著](../Page/冰室冴子.md "wikilink")，插畫：[近藤勝也](https://zh.wikipedia.org/wiki/近藤勝也 "wikilink")
+  - [海潮之聲](https://zh.wikipedia.org/wiki/海潮之聲#原著小說 "wikilink")（1990～1992）：[冰室冴子著](../Page/冰室冴子.md "wikilink")，插畫：[近藤勝也](../Page/近藤勝也.md "wikilink")
   - [機動戰士鋼彈Hi-Streamer](https://zh.wikipedia.org/wiki/機動戰士鋼彈Hi-Streamer "wikilink")：[富野由悠季著](../Page/富野由悠季.md "wikilink")，插畫：[星野之宣](../Page/星野之宣.md "wikilink")
 
 ## 叢書類型

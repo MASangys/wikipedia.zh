@@ -1,4 +1,4 @@
-**龍野IC**（平假名：たつのインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[龍野市的](../Page/龍野市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**龍野IC**（平假名：たつのインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[龍野市的](../Page/龍野市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1990年7月31日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[山陽姬路西IC至](../Page/山陽姬路西IC.md "wikilink")[龍野西IC之間開通](../Page/龍野西IC.md "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[山陽姬路西IC至](../Page/山陽姬路西IC.md "wikilink")[龍野西IC之間開通](../Page/龍野西IC.md "wikilink")，此交流道也同時啟用。
   - 2003年3月29日 - 交流道名稱由龍野（竜野）改變為龍野（龍野）。
 
 ## 收費站設施
@@ -42,7 +42,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (6)[山陽姬路東IC](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink") -
     [白鳥PA](https://zh.wikipedia.org/wiki/白鳥PA "wikilink") -
     (7)[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink") - (8)**龍野IC**

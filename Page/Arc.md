@@ -19,7 +19,8 @@ Lisp程序员之间的一个争议是，该种语言的[S-表达式是否及应�
 
 ## 範例
 
-Arc的[Hello world程式碼](../Page/Hello_world.md "wikilink")：
+Arc的[Hello
+world程式碼](https://zh.wikipedia.org/wiki/Hello_world "wikilink")：
 
 ``` lisp
  (prn "Hello, World")

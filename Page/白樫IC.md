@@ -1,4 +1,4 @@
-**白樫IC**（平假名：しらかしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[伊賀市的](../Page/伊賀市.md "wikilink")[名阪國道之](https://zh.wikipedia.org/wiki/名阪國道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**白樫IC**（平假名：しらかしインターチェンジ）是位於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")[伊賀市的](../Page/伊賀市.md "wikilink")[名阪國道之](../Page/名阪國道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 1965年12月16日 -
-    [名阪國道全線開通](https://zh.wikipedia.org/wiki/名阪國道 "wikilink")，此交流道也同時啟用。
+  - 1965年12月16日 - [名阪國道全線開通](../Page/名阪國道.md "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -22,11 +21,11 @@
 
 ## 巴士站
 
-  - 特急60系統：往[天理站](https://zh.wikipedia.org/wiki/天理站 "wikilink")、[上野產業會館](https://zh.wikipedia.org/wiki/上野產業會館 "wikilink")（由[三重交通營運](https://zh.wikipedia.org/wiki/三重交通 "wikilink")）
+  - 特急60系統：往[天理站](https://zh.wikipedia.org/wiki/天理站 "wikilink")、[上野產業會館](https://zh.wikipedia.org/wiki/上野產業會館 "wikilink")（由[三重交通營運](../Page/三重交通.md "wikilink")）
 
 ## 鄰近設施
 
-  - [名阪國道](https://zh.wikipedia.org/wiki/名阪國道 "wikilink")
+  - [名阪國道](../Page/名阪國道.md "wikilink")
     (17)[大內IC/BS](https://zh.wikipedia.org/wiki/大內IC_\(三重縣\) "wikilink")
     - [伊賀上野SA/BS](https://zh.wikipedia.org/wiki/伊賀上野SA "wikilink") -
     (18)**白樫IC/BS** -

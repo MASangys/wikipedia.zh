@@ -26,7 +26,7 @@ HD」開播，而嘉義世新及TBC台灣寬頻通訊6/26同步升級HD高畫質
 
 ## STAR MOVIES 變 FOX MOVIES 後
 
-將會先播出[X戰警：天啟](https://zh.wikipedia.org/wiki/X戰警：天啟 "wikilink")。
+將會先播出[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")。
 
 ## 参考资料
 

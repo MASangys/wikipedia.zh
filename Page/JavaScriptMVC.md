@@ -1,6 +1,6 @@
 **JavaScriptMVC**
 是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[多樣化網際網路應用程式](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式 "wikilink")[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，以
-[jQuery](../Page/jQuery.md "wikilink") 與
+[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink") 與
 [OpenAJAX](https://zh.wikipedia.org/wiki/OpenAJAX "wikilink")
 為基礎。JavaScriptMVC 利用 [MVC](../Page/MVC.md "wikilink")
 架構與工具擴展這些[函式庫](../Page/函式庫.md "wikilink")，以便開發與測試。由於

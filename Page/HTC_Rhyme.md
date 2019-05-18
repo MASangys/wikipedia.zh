@@ -11,7 +11,7 @@ Rhyme**，[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[
 | 螢幕  | 3.7吋、480x800 pixels、SLCD 電容式觸控螢幕                                                                                |
 | CPU | [高通](../Page/高通.md "wikilink") MSM8255、1GHz                                                                     |
 | RAM | 768 MB                                                                                                          |
-| ROM | 4 GB（儲存空間1GB；最高可透過[microSD記憶卡擴充至](../Page/microSD.md "wikilink")32GB）                                           |
+| ROM | 4 GB（儲存空間1GB；最高可透過[microSD記憶卡擴充至](https://zh.wikipedia.org/wiki/microSD "wikilink")32GB）                        |
 | 尺寸  | 長119 mm ， 寬60.8 mm ， 厚10.85 mm                                                                                  |
 | 重量  | 130 g                                                                                                           |
 | 電池  | 1,600 mAh（鋰電池）                                                                                                  |

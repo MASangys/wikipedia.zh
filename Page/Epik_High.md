@@ -284,7 +284,7 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 
 ### 原聲帶
 
-  - 能聽見我的心嗎（2016年，與[李遐怡](https://zh.wikipedia.org/wiki/李遐怡 "wikilink")，《[步步驚心：麗](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")》OST）
+  - 能聽見我的心嗎（2016年，與[李遐怡](../Page/李遐怡.md "wikilink")，《[步步驚心：麗](https://zh.wikipedia.org/wiki/步步驚心：麗 "wikilink")》OST）
 
 ## 演唱会
 

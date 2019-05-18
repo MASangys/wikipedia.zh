@@ -47,8 +47,7 @@
     [双氯](https://zh.wikipedia.org/wiki/双氯 "wikilink")（Dicloxacillin）
     QJ51CF02
     [氯唑西林](https://zh.wikipedia.org/wiki/氯唑西林 "wikilink")（Cloxacillin）
-    QJ51CF03
-    [甲氧西林](https://zh.wikipedia.org/wiki/甲氧西林 "wikilink")（Meticillin）
+    QJ51CF03 [甲氧西林](../Page/甲氧西林.md "wikilink")（Meticillin）
     QJ51CF04
     [苯唑](https://zh.wikipedia.org/wiki/苯唑 "wikilink")（Oxacillin）
     QJ51CF05 [氟氯西林](../Page/氟氯西林.md "wikilink")（Flucloxacillin）
@@ -71,8 +70,7 @@
     [头孢唑啉](https://zh.wikipedia.org/wiki/头孢唑啉 "wikilink")（Cefazolin）
     QJ51DB08
     [头孢匹林](https://zh.wikipedia.org/wiki/头孢匹林 "wikilink")（Cefapirin）
-    QJ51DB10
-    [头孢乙腈](https://zh.wikipedia.org/wiki/头孢乙腈 "wikilink")（Cefacetrile）
+    QJ51DB10 [头孢乙腈](../Page/头孢乙腈.md "wikilink")（Cefacetrile）
     QJ51DB90
     [头孢洛宁](https://zh.wikipedia.org/wiki/头孢洛宁 "wikilink")（Cefalonium）
 

@@ -2,10 +2,10 @@
 [Luka_Sulic_2011.jpg](https://zh.wikipedia.org/wiki/File:Luka_Sulic_2011.jpg "fig:Luka_Sulic_2011.jpg")\]\]
 **2Cellos**（写作
 **2CELLOS**），是一个[克罗地亚](../Page/克罗地亚.md "wikilink")、[斯洛文尼亚的](../Page/斯洛文尼亚.md "wikilink")[大提琴双人组](../Page/大提琴.md "wikilink")，由[路卡·蘇利克](https://zh.wikipedia.org/wiki/路卡·蘇利克 "wikilink")（Luka
-Šulić）和[斯蒂潘·豪瑟组成](https://zh.wikipedia.org/wiki/斯蒂潘·豪瑟 "wikilink")。2011年4月12日起和[Sony
+Šulić）和[斯蒂潘·豪瑟组成](../Page/斯蒂潘·豪瑟.md "wikilink")。2011年4月12日起和[Sony
 Masterworks签约](https://zh.wikipedia.org/wiki/Sony_Masterworks "wikilink")，\[1\]
 两人是在YouTube上上传了一段他们的大提琴版[麥可·傑克森的](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")《[Smooth
-Criminal](https://zh.wikipedia.org/wiki/Smooth_Criminal "wikilink")》后被发掘的.
+Criminal](../Page/Smooth_Criminal.md "wikilink")》后被发掘的.
 
 ## 背景
 

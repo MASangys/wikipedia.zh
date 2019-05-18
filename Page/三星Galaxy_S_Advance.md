@@ -9,7 +9,7 @@ Exynos 3310 1Ghz
 2013年1月7日，俄羅斯方面就正式向用戶發放Android
 4.1.2系統更新。更新包括全新的[TouchWiz界面](../Page/TouchWiz.md "wikilink")，目前更新後用戶的反應均较为正面。
 而Galaxy Galaxy S Advance的頭號對手是[Sony Ericsson Xperia
-Ray](../Page/Sony_Ericsson_Xperia_Ray.md "wikilink")
+Ray](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_Ray "wikilink")
 
 ## 參考
 

@@ -11,8 +11,8 @@ Talking Machine Company」。
 
   - 1901年　**Victor Talking Machine Company**設立。
   - 1925年　導入電氣錄音。
-  - 1929年　[RCA收購Victor](https://zh.wikipedia.org/wiki/RCA "wikilink")
-    Talking Machine Company，改成**RCA Victor**。
+  - 1929年　[RCA收購Victor](../Page/RCA.md "wikilink") Talking Machine
+    Company，改成**RCA Victor**。
   - 1949年　首次發行EP盤。
   - 1953年10月6日　首次使用雙聲道[立體聲進行錄音](../Page/立體聲.md "wikilink")。
   - 1955年　發行雙聲道立體聲[錄音帶](https://zh.wikipedia.org/wiki/錄音帶 "wikilink")。
@@ -40,13 +40,12 @@ Talking Machine Company」。
   - [克莉絲汀·阿奎萊拉](../Page/克莉絲汀·阿奎萊拉.md "wikilink")（）
   - [艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")（）(已退出)
   - [麥莉·希拉](https://zh.wikipedia.org/wiki/麦莉·赛勒斯 "wikilink")（）
-  - [貝姬·G](https://zh.wikipedia.org/wiki/貝姬·G "wikilink")（英語：**Becky
-    G**）
+  - [貝姬·G](../Page/貝姬·G.md "wikilink")（英語：**Becky G**）
   - [理查德·艾斯利](../Page/理查德·艾斯利.md "wikilink")（）
   - [凯莉·克莱森](https://zh.wikipedia.org/wiki/凯莉·克莱森 "wikilink")（）
   - [嘻哈鬥牛梗](../Page/皮普保罗.md "wikilink") （）
   - [希雅](https://zh.wikipedia.org/wiki/希雅 "wikilink")（)
-  - [澤恩·馬利克](https://zh.wikipedia.org/wiki/贊恩·馬利克 "wikilink")（）
+  - [澤恩·馬利克](../Page/贊恩·馬利克.md "wikilink")（）
   - [SZA](https://zh.wikipedia.org/wiki/SZA "wikilink")
 
 [Category:索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂 "wikilink")

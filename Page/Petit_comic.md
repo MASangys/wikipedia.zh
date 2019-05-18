@@ -111,7 +111,7 @@ comic**》是[小學館發行的少女](../Page/小學館.md "wikilink")[漫畫�
   - [薔薇色myハニー](https://zh.wikipedia.org/wiki/薔薇色myハニー "wikilink")（大海とむ）
   - [薔薇戀曲](../Page/薔薇之戀.md "wikilink")（[吉村明美](https://zh.wikipedia.org/wiki/吉村明美 "wikilink")）
   - パール・パーティー（名香智子）
-  - [P.A.替身女孩](https://zh.wikipedia.org/wiki/P.A.替身女孩 "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
+  - [P.A.替身女孩](../Page/P.A.替身女孩.md "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
   - [P.S.あいらぶゆう](https://zh.wikipedia.org/wiki/P.S.あいらぶゆう "wikilink")（[吉村明美](https://zh.wikipedia.org/wiki/吉村明美 "wikilink")）
   - [VIDEO J](https://zh.wikipedia.org/wiki/VIDEO_J "wikilink")（赤石路代）
   - [ビューティフル](https://zh.wikipedia.org/wiki/ビューティフル_\(漫画\) "wikilink")（さいとうちほ）

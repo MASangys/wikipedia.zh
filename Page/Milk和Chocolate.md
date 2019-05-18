@@ -8,7 +8,7 @@ entertainment開始販售](https://zh.wikipedia.org/wiki/avex_entertainment "wik
 《Milk和Chocolate》被[東京電視台系](../Page/東京電視網.md "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")「[SKET
 DANCE](../Page/SKET_DANCE.md "wikilink")」選為片尾曲。\[1\]\[2\]\[3\]\[4\]\[5\][PV部分](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，則收錄在CD+DVD盤的DVD中。
 
-本作發售紀念的活動於2011年11月6日至12月18日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[大阪舉行](https://zh.wikipedia.org/wiki/大阪 "wikilink")，\[6\]\[7\]\[8\]名稱則有「Chocolate演唱會」與「Milk演唱會」兩種，\[9\]其中「Milk演唱會」限定女性。\[10\]\[11\]內容主要為遊戲大會和[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")。
+本作發售紀念的活動於2011年11月6日至12月18日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[大阪舉行](https://zh.wikipedia.org/wiki/大阪 "wikilink")，\[6\]\[7\]\[8\]名稱則有「Chocolate演唱會」與「Milk演唱會」兩種，\[9\]其中「Milk演唱會」限定女性。\[10\]\[11\]內容主要為遊戲大會和[握手會](../Page/握手會.md "wikilink")。
 
 歌曲首次公開是在2011年11月27日於Zepp
 Tokyo由團體所屬事務所[渡邊娛樂舉辦的演唱會](https://zh.wikipedia.org/wiki/渡邊娛樂 "wikilink")「Watanabe

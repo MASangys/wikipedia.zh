@@ -80,7 +80,7 @@
 (國語版：就這樣甜蜜活到底)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小柳留美子" title="wikilink">小柳留美子</a>(2)</p></td>
+<td><p><a href="../Page/小柳留美子.md" title="wikilink">小柳留美子</a>(2)</p></td>
 <td><p><a href="../Page/瀨戶的新娘.md" title="wikilink">瀨戶的新娘</a></p></td>
 </tr>
 <tr class="even">
@@ -88,11 +88,11 @@
 <td><p>ハチのムサシは死んだのさ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/島倉千代子" title="wikilink">島倉千代子</a>(16)</p></td>
+<td><p><a href="../Page/島倉千代子.md" title="wikilink">島倉千代子</a>(16)</p></td>
 <td><p>すみだ川</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/都春美" title="wikilink">都春美</a>(8)</p></td>
+<td><p><a href="../Page/都春美.md" title="wikilink">都春美</a>(8)</p></td>
 <td><p>おんなの海峡</p></td>
 </tr>
 <tr class="odd">
@@ -134,7 +134,7 @@
   - 中野貴代（消防官）
   - 神田好武（[全日本空輸機長](../Page/全日本空輸.md "wikilink")）
   - [真木洋子](https://zh.wikipedia.org/wiki/真木洋子 "wikilink")（演員）
-  - [輪島大士](https://zh.wikipedia.org/wiki/輪島大士 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
+  - [輪島大士](../Page/輪島大士.md "wikilink")（[相撲選手](../Page/相撲.md "wikilink")
     - [大關](https://zh.wikipedia.org/wiki/大關 "wikilink")）
   - 加藤稔(NHK藝能局長)
 

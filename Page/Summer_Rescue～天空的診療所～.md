@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 倉木泰典／[時任三郎](https://zh.wikipedia.org/wiki/時任三郎 "wikilink")／[潘文柏](../Page/潘文柏.md "wikilink")
+  - 倉木泰典／[時任三郎](../Page/時任三郎.md "wikilink")／[潘文柏](../Page/潘文柏.md "wikilink")
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - 村田佳秀／[小澤亮太](../Page/小澤亮太.md "wikilink")／[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")
+  - 村田佳秀／[小澤亮太](../Page/小澤亮太.md "wikilink")／[陳灝瑋](../Page/陳灝瑋.md "wikilink")
 
 <!-- end list -->
 
@@ -70,7 +70,7 @@
 
 <!-- end list -->
 
-  - 鈴木真子／[能年玲奈](../Page/能年玲奈.md "wikilink")／[吳羨婷](https://zh.wikipedia.org/wiki/吳羨婷 "wikilink")
+  - 鈴木真子／[能年玲奈](../Page/能年玲奈.md "wikilink")／[吳羨婷](../Page/吳羨婷.md "wikilink")
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 ### 其他角色
 
   - 澤口光香／[市川由衣](../Page/市川由衣.md "wikilink")
-    ／[黃昕瑜](https://zh.wikipedia.org/wiki/黃昕瑜 "wikilink")
+    ／[黃昕瑜](../Page/黃昕瑜.md "wikilink")
 
 <!-- end list -->
 

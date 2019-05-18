@@ -84,7 +84,7 @@
 <li>小喇叭</li>
 <li>鬥地主</li>
 <li>加價熱潮吹遍香港</li>
-<li>Nowhere Else To Hide (Feat. <a href="https://zh.wikipedia.org/wiki/MastaMic" title="wikilink">MastaMic</a>)</li>
+<li>Nowhere Else To Hide (Feat. <a href="../Page/MastaMic.md" title="wikilink">MastaMic</a>)</li>
 <li>Can You Hear Me?</li>
 <li>唉 (Feat. <a href="https://zh.wikipedia.org/wiki/Rockmiu" title="wikilink">Rockmiu</a>)</li>
 </ol></td>

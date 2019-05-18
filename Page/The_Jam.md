@@ -1,6 +1,6 @@
 **The
 Jam**是一支來自[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[薩里郡的](../Page/薩里郡.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[朋克風格](https://zh.wikipedia.org/wiki/朋克 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。The
-Jam在[1972年組成](https://zh.wikipedia.org/wiki/1972 "wikilink")，成員包括被認為最出色的[主音及](https://zh.wikipedia.org/wiki/主音 "wikilink")[吉他手](../Page/吉他.md "wikilink")[Paul
+Jam在[1972年組成](https://zh.wikipedia.org/wiki/1972 "wikilink")，成員包括被認為最出色的[主音及](../Page/主音.md "wikilink")[吉他手](../Page/吉他.md "wikilink")[Paul
 Weller](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink"),
 [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")[Bruce
 Foxton](https://zh.wikipedia.org/wiki/Bruce_Foxton "wikilink"),

@@ -1,4 +1,4 @@
-**ZTD-05兩棲突擊車**\[1\]又被称为**05式两棲突擊車**，装备[中国人民解放军海军陆战队和陆军两栖机械化部队](../Page/中国人民解放军海军陆战队.md "wikilink")，是[中华人民共和国研制的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")“[05式两栖装甲车族](https://zh.wikipedia.org/wiki/05式两栖装甲车族 "wikilink")”一员，它与[美国的](../Page/美国.md "wikilink")“[远征战斗车](https://zh.wikipedia.org/wiki/远征战斗载具 "wikilink")”（Expeditionary
+**ZTD-05兩棲突擊車**\[1\]又被称为**05式两棲突擊車**，装备[中国人民解放军海军陆战队和陆军两栖机械化部队](../Page/中国人民解放军海军陆战队.md "wikilink")，是[中华人民共和国研制的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")“[05式两栖装甲车族](../Page/05式两栖装甲车族.md "wikilink")”一员，它与[美国的](../Page/美国.md "wikilink")“[远征战斗车](https://zh.wikipedia.org/wiki/远征战斗载具 "wikilink")”（Expeditionary
 Fighting Vehicle, EFV）的在概念上相似。\[2\]\[3\]它是目前世界上水上速度最快的两栖装甲突击车辆。
 
 ZTD-05两栖突击车首次公开亮相是在2009年10月1日的[中华人民共和国国庆60周年阅兵式上](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在受阅装备方队的第3位，由[中国人民解放军陆军](../Page/中国人民解放军陆军.md "wikilink")[第1集团军两栖机械化](https://zh.wikipedia.org/wiki/中国人民解放军第1集团军 "wikilink")[第1师第](https://zh.wikipedia.org/wiki/中国人民解放军第1师 "wikilink")1团的成员组成。
@@ -17,7 +17,7 @@ ZTD-05兩棲突擊車配有大型砲塔，105毫米火炮版本等於一種兩�
 
 ## 相关条目
 
-  - [05式两栖装甲车族](https://zh.wikipedia.org/wiki/05式两栖装甲车族 "wikilink")
+  - [05式两栖装甲车族](../Page/05式两栖装甲车族.md "wikilink")
   - [ZBD-05两栖步兵战车](../Page/ZBD-05两栖步兵战车.md "wikilink")
   - [05式两栖装甲指挥车](../Page/05式两栖装甲指挥车.md "wikilink")
   - [05式两栖装甲抢救车](../Page/05式两栖装甲抢救车.md "wikilink")

@@ -39,7 +39,7 @@
 
   - [巴伦西亚城](https://zh.wikipedia.org/wiki/巴伦西亚城 "wikilink")（），[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[棉兰老岛](../Page/棉兰老岛.md "wikilink")[布基农省的一座城市](../Page/布基农省.md "wikilink")。
   - [巴伦西亚
-    (东内格罗省)](https://zh.wikipedia.org/wiki/巴伦西亚_\(东内格罗省\) "wikilink")（），[东内格罗省的一座城市](https://zh.wikipedia.org/wiki/东内格罗省 "wikilink")。
+    (东内格罗省)](../Page/巴伦西亚_\(东内格罗省\).md "wikilink")（），[东内格罗省的一座城市](https://zh.wikipedia.org/wiki/东内格罗省 "wikilink")。
 
 ### 美国
 
@@ -57,7 +57,7 @@
 
   - [巴倫西亞湖](https://zh.wikipedia.org/wiki/巴倫西亞湖 "wikilink")（），[委内瑞拉北部的湖](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink")。
   - [巴伦西亚 (委内瑞拉)](../Page/巴伦西亚_\(委内瑞拉\).md "wikilink")（）
-      - [天主教委內瑞拉的巴倫西亞總教區](https://zh.wikipedia.org/wiki/天主教委內瑞拉的巴倫西亞總教區 "wikilink")（），委内瑞拉巴伦西亚市的教区。
+      - [天主教委內瑞拉的巴倫西亞總教區](../Page/天主教委內瑞拉的巴倫西亞總教區.md "wikilink")（），委内瑞拉巴伦西亚市的教区。
 
 ### 其他
 
@@ -74,8 +74,7 @@
 
   - [安东尼奥·瓦伦西亚](../Page/安东尼奥·瓦伦西亚.md "wikilink")（1985年生），厄瓜多尔足球运动员。
 
-  - [恩纳·瓦伦西亚](https://zh.wikipedia.org/wiki/恩纳·瓦伦西亚 "wikilink")（，1989年生），
-    厄瓜多尔足球运动员。
+  - [恩纳·瓦伦西亚](../Page/恩纳·瓦伦西亚.md "wikilink")（，1989年生）， 厄瓜多尔足球运动员。
 
 ## 体育
 

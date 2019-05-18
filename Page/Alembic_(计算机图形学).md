@@ -17,9 +17,9 @@ Imageworks和[卢卡斯影业以开源程序库的方式开发](../Page/卢卡�
 | Katana                                                                      | 1.1    | The Foundry\[3\]                                                   |
 | [Houdini](../Page/Houdini.md "wikilink")                                    | 11.1   | Side Effects Software\[4\]                                         |
 | Arnold                                                                      | ?      | Solid Angle\[5\]                                                   |
-| [modo](../Page/modo.md "wikilink")                                          | 601    | [Luxology](https://zh.wikipedia.org/wiki/Luxology "wikilink")\[6\] |
+| [modo](https://zh.wikipedia.org/wiki/modo "wikilink")                       | 601    | [Luxology](https://zh.wikipedia.org/wiki/Luxology "wikilink")\[6\] |
 | [Cinema 4D](../Page/Cinema_4D.md "wikilink")                                | R14    | Maxon\[7\]                                                         |
-| [V-Ray](https://zh.wikipedia.org/wiki/V-Ray "wikilink")                     | 2012   | Chaos Group\[8\]                                                   |
+| [V-Ray](../Page/V-Ray.md "wikilink")                                        | 2012   | Chaos Group\[8\]                                                   |
 | [Nuke](https://zh.wikipedia.org/wiki/Nuke_\(软件\) "wikilink")                | 7.0    | The Foundry\[9\]                                                   |
 | [Guerilla Render](https://zh.wikipedia.org/wiki/Guerilla_Render "wikilink") | 0.15.2 | Mercenaries Engineering\[10\]                                      |
 | [RealFlow](https://zh.wikipedia.org/wiki/RealFlow "wikilink")               | 2013   | Next Limit\[11\]                                                   |

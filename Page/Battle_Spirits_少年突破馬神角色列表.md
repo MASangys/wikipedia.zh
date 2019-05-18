@@ -146,7 +146,7 @@
 
   -
     代號No.9，是本作品最大的幕後黑手。曾企圖使用「異世界巨蛋」網路系統控制全世界，並軟禁宇宙頂點王、控制數字人心智並擄走部分主角；但在最後結局中恢復神智。
-    **配音**：[楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")（日本）；[梁伟德](https://zh.wikipedia.org/wiki/梁伟德 "wikilink")（香港）；[蔣鐵城](../Page/蔣鐵城.md "wikilink")（台灣）
+    **配音**：[楠大典](../Page/楠大典.md "wikilink")（日本）；[梁伟德](https://zh.wikipedia.org/wiki/梁伟德 "wikilink")（香港）；[蔣鐵城](../Page/蔣鐵城.md "wikilink")（台灣）
     **持有卡片**：龍皇齊格弗烈多、暴雙龍迪拉羅斯、魔龍帝齊格弗烈多
 
 **音無奇譚**

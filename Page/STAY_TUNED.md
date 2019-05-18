@@ -9,9 +9,9 @@ TUNED**』是[GLAY在](../Page/GLAY.md "wikilink")2001年7月4日發售的第23�
 ## 收錄曲
 
 1.  **STAY TUNED**
-      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
 2.  **BACK-UP**
-      - 作詞・作曲：[TERU](../Page/TERU.md "wikilink")　編曲：GLAY、佐久間正英
+      - 作詞・作曲：[TERU](https://zh.wikipedia.org/wiki/TERU "wikilink")　編曲：GLAY、佐久間正英
 3.  **Super Ball 425**
       - 作詞：TERU　作曲：TAKURO　編曲：GLAY
 4.  **STAY TUNED （Guts\! 耳コピ Version）**

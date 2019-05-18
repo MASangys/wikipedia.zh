@@ -9,8 +9,7 @@
     [西曲胺](https://zh.wikipedia.org/wiki/西曲胺 "wikilink")（Cetrimide）
     D11AC02 [钙化合物类](../Page/钙.md "wikilink")（Cadmium compounds）
     D11AC03 [硒化合物类](../Page/硒.md "wikilink")（Selenium compounds）
-    D11AC06
-    [聚维酮碘](https://zh.wikipedia.org/wiki/聚维酮碘 "wikilink")（Povidone-iodine）
+    D11AC06 [聚维酮碘](../Page/聚维酮碘.md "wikilink")（Povidone-iodine）
     D11AC08 [硫化合物类](../Page/硫.md "wikilink")（Sulfur compounds）
     D11AC09
     [珍尼柳酯](https://zh.wikipedia.org/wiki/珍尼柳酯 "wikilink")（Xenysalate）

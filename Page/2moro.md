@@ -61,7 +61,7 @@
 ### 當紅歌曲
 
   - 2006 Shabu Shabu (OT：[Dragostea Din
-    Tei](../Page/Dragostea_Din_Tei.md "wikilink"))
+    Tei](https://zh.wikipedia.org/wiki/Dragostea_Din_Tei "wikilink"))
 
 ### MV
 
@@ -77,8 +77,8 @@
 | 2008年～2013年 | [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")          | [食尚玩家－就要醬玩](../Page/食尚玩家－就要醬玩.md "wikilink")                            |                                                                                                                                                           |
 | 2009年       | [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")          | [台北最HIGH新年城](https://zh.wikipedia.org/wiki/台北最HIGH新年城 "wikilink") 跨年演唱會 | 與[胡瓜](../Page/胡瓜.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[浩角翔起](../Page/浩角翔起.md "wikilink")、[莎莎共同主持](https://zh.wikipedia.org/wiki/莎莎 "wikilink") |
 | 2010年       | [年代綜合台](../Page/年代綜合台.md "wikilink")              | [歡樂大富翁](https://zh.wikipedia.org/wiki/歡樂大富翁 "wikilink")                 | 與[陳亞蘭共同主持](../Page/陳亞蘭.md "wikilink")                                                                                                                     |
-| 2013年至2016年 | [衛視中文台](../Page/衛視中文台.md "wikilink")              | [冠軍任務](https://zh.wikipedia.org/wiki/冠軍任務 "wikilink")                   |                                                                                                                                                           |
-| 2013年至2015年 | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") | [愛玩咖](https://zh.wikipedia.org/wiki/愛玩咖 "wikilink")                     |                                                                                                                                                           |
+| 2013年至2016年 | [衛視中文台](../Page/衛視中文台.md "wikilink")              | [冠軍任務](../Page/冠軍任務.md "wikilink")                                      |                                                                                                                                                           |
+| 2013年至2015年 | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") | [愛玩咖](../Page/愛玩咖.md "wikilink")                                        |                                                                                                                                                           |
 | 2014年       |                                                   | [奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")                 | 第1季 嘉賓                                                                                                                                                    |
 
 ## 相關

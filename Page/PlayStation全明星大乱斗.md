@@ -97,7 +97,7 @@ Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/大老爹" title="wikilink">大老爹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生化奇兵系列" title="wikilink">生化奇兵系列</a></p></td>
+<td><p><a href="../Page/生化奇兵系列.md" title="wikilink">生化奇兵系列</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/三岛平八" title="wikilink">三岛平八</a></p></td>

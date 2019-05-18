@@ -72,7 +72,7 @@
 <tr class="odd">
 <td><p>2012年9月25日</p></td>
 <td><p><a href="../Page/太田里織菜.md" title="wikilink">太田里織菜</a>、沖田彩華、川上礼奈、木下百花、島田玲奈、城恵理子、<a href="https://zh.wikipedia.org/wiki/高野祐衣" title="wikilink">高野祐衣</a>、谷川愛梨<br />
-<a href="https://zh.wikipedia.org/wiki/肥川彩愛" title="wikilink">肥川彩愛</a>、藤田留奈、<a href="../Page/三田麻央.md" title="wikilink">三田麻央</a>、村上文香、<a href="https://zh.wikipedia.org/wiki/村瀬紗英" title="wikilink">村瀬紗英</a>、矢倉楓子、山岸奈津美、與儀ケイラ</p></td>
+<a href="../Page/肥川彩愛.md" title="wikilink">肥川彩愛</a>、藤田留奈、<a href="../Page/三田麻央.md" title="wikilink">三田麻央</a>、村上文香、<a href="https://zh.wikipedia.org/wiki/村瀬紗英" title="wikilink">村瀬紗英</a>、矢倉楓子、山岸奈津美、與儀ケイラ</p></td>
 <td><p>Team M成員。<br />
 太田、沖田、川上、肥川是初出演。</p></td>
 </tr>
@@ -186,7 +186,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>6月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武田修宏" title="wikilink">武田修宏</a></p></td>
+<td><p><a href="../Page/武田修宏.md" title="wikilink">武田修宏</a></p></td>
 <td><p>モテ男のモテクニック</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/かるた" title="wikilink">競技かるたで</a>48</p></td>
 </tr>
@@ -585,7 +585,7 @@
 <tr class="even">
 <td><p>52</p></td>
 <td><p>4月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NON_STYLE" title="wikilink">NON STYLE</a></p></td>
+<td><p><a href="../Page/NON_STYLE.md" title="wikilink">NON STYLE</a></p></td>
 <td><p>どっキンググルメ四十八手 粉もん編</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/絶叫マシン" title="wikilink">絶叫マシーンみつめて</a>48</p></td>
 </tr>
@@ -870,7 +870,7 @@
 * <a href="https://zh.wikipedia.org/wiki/jealkb" title="wikilink">jealkb</a></p>
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/三浦マイルド" title="wikilink">三浦マイルド</a></li>
-<li><a href="../Page/misono.md" title="wikilink">misono</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/misono" title="wikilink">misono</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/野性爆弾" title="wikilink">野性爆弾</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/レイザーラモン" title="wikilink">レイザーラモン</a></li>
 <li><a href="../Page/竹下佳江.md" title="wikilink">竹下佳江</a></li>

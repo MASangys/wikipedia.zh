@@ -52,9 +52,7 @@
     hydrogentartrate）
     A12BA04 [碳酸氢钾](../Page/碳酸氢钾.md "wikilink")（Potassium
     hydrogencarbonate）
-    A12BA05
-    [葡萄糖酸钾](https://zh.wikipedia.org/wiki/葡萄糖酸钾 "wikilink")（Potassium
-    gluconate）
+    A12BA05 [葡萄糖酸钾](../Page/葡萄糖酸钾.md "wikilink")（Potassium gluconate）
     A12BA30 复方（Combinations）
     A12BA51 氯化钾复方（Potassium chloride, combinations）
 

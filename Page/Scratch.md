@@ -63,7 +63,7 @@ Scratch 3.0 版本设立了云服务，用户可在远程服务器上存取和�
 ## 衍生軟件
 
 从Scratch衍生出其它软件\[18\]，例如
-[Snap\!](https://zh.wikipedia.org/wiki/Snap! "wikilink")\[19\]、[编程猫](https://zh.wikipedia.org/wiki/编程猫 "wikilink")\[20\]\[21\]。
+[Snap\!](../Page/Snap!.md "wikilink")\[19\]、[编程猫](https://zh.wikipedia.org/wiki/编程猫 "wikilink")\[20\]\[21\]。
 
 ## 另见
 

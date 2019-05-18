@@ -10,14 +10,14 @@ AM3和低階雙處理器平台處理器插座](../Page/Socket_AM3.md "wikilink")
 F+的後繼者](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")，高階的雙處理器、四處理器平台（Opteron
 6000系列）的[處理器插座則由](https://zh.wikipedia.org/wiki/處理器 "wikilink")[Socket
 G34接任](../Page/Socket_G34.md "wikilink")。儘管基建於Socket
-F+，並且使用相同的[平面网格阵列封装](https://zh.wikipedia.org/wiki/平面网格阵列封装 "wikilink")（LGA）、相同的腳位數量，但由於全面支援DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，腳位排布和[電氣特性均有所改變](https://zh.wikipedia.org/wiki/電氣 "wikilink")，不相容於採用Socket
+F+，並且使用相同的[平面网格阵列封装](../Page/平面网格阵列封装.md "wikilink")（LGA）、相同的腳位數量，但由於全面支援DDR3[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，腳位排布和[電氣特性均有所改變](https://zh.wikipedia.org/wiki/電氣 "wikilink")，不相容於採用Socket
 F（可支援[FB-DIMM](../Page/FB-DIMM.md "wikilink")、[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")、DDR3部分的記憶體）腳位的[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。也因此，將Socket
 C32稱為「LGA 1207」或「Socket 1207」將會有歧義。\[2\]\[3\]Socket C32和前代Socket
 F/F+一樣，插座上共1,207個金屬觸片，處理器上有1,207個觸點；每管腳的最小間距為1.10毫米，35行×35列，大致呈[正方形](../Page/正方形.md "wikilink")。\[4\]
 
 Socket
 C32支援[雙通道](../Page/雙通道記憶體技術.md "wikilink")、可選[ECC的](https://zh.wikipedia.org/wiki/ECC "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")/DDR3L
-SDRAM，支援UDIMM/RDIMM/LRDIMM，最高支援至1600MT/s；每個記憶體通道支援2支[DIMM](https://zh.wikipedia.org/wiki/DIMM "wikilink")。具備兩條16位元寬度的[HyperTransport鏈路](../Page/HyperTransport.md "wikilink")，每鏈路的資料吞吐量可達6.4GT/s（HyperTransport
+SDRAM，支援UDIMM/RDIMM/LRDIMM，最高支援至1600MT/s；每個記憶體通道支援2支[DIMM](../Page/DIMM.md "wikilink")。具備兩條16位元寬度的[HyperTransport鏈路](../Page/HyperTransport.md "wikilink")，每鏈路的資料吞吐量可達6.4GT/s（HyperTransport
 3.1 @
 3.2GHz時）。支援的處理器[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）可達105W\[5\]（然而所有Socket
 C32的處理器中，TDP最高者僅95W）。

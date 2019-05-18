@@ -3,10 +3,10 @@ Roche](https://zh.wikipedia.org/wiki/Xavier_Roche "wikilink")，在[GNU通用公
 
 使用者可以通过HTTrack把[互联网上的](../Page/互联网.md "wikilink")[网站页面下载到本地计算机上](../Page/万维网.md "wikilink")。在默认设置下，HTTrack对网站页面的下载结果是按照原始站点相对链接的结构来组织的。用网页浏览器打开这个被下载下来的网站（也称作[镜像](../Page/网站镜像.md "wikilink")）的页面，就可以离线浏览了。
 
-HTTrack也能对已经镜像过的站点进行更新。或者是对中断了的工作断点续传。可以通过选项和过滤器（include/exclude）配置HTTrack的方方面面。它还整合有帮助系统。它有一个基本的命令行版本和两个[GUI](../Page/图形用户界面.md "wikilink")（为Windows设计的WinHTTrack和为Unix-like系统设计的WebHTTrack）；命令行版本可以和[Shell脚本](https://zh.wikipedia.org/wiki/Shell脚本 "wikilink")（Shell
-script）以及[cron联用](../Page/cron.md "wikilink")。
+HTTrack也能对已经镜像过的站点进行更新。或者是对中断了的工作断点续传。可以通过选项和过滤器（include/exclude）配置HTTrack的方方面面。它还整合有帮助系统。它有一个基本的命令行版本和两个[GUI](../Page/图形用户界面.md "wikilink")（为Windows设计的WinHTTrack和为Unix-like系统设计的WebHTTrack）；命令行版本可以和[Shell脚本](../Page/Shell脚本.md "wikilink")（Shell
+script）以及[cron联用](https://zh.wikipedia.org/wiki/cron "wikilink")。
 
-HTTrack使用网络爬虫下载网站。对于有[robots.txt的网站](../Page/robots.txt.md "wikilink")，如果不在程序运行时取消限制，默认设置下的程序不会把网站完全镜像。HTTrack能跟随基本的[JavaScript](../Page/JavaScript.md "wikilink")，或者[Applet](https://zh.wikipedia.org/wiki/Applet "wikilink")、[Flash中的链接](../Page/Adobe_Flash.md "wikilink")，但是对于复杂的链接（使用函数和表达式创建的链接）或者服务器端的[Image
+HTTrack使用网络爬虫下载网站。对于有[robots.txt的网站](https://zh.wikipedia.org/wiki/robots.txt "wikilink")，如果不在程序运行时取消限制，默认设置下的程序不会把网站完全镜像。HTTrack能跟随基本的[JavaScript](../Page/JavaScript.md "wikilink")，或者[Applet](https://zh.wikipedia.org/wiki/Applet "wikilink")、[Flash中的链接](../Page/Adobe_Flash.md "wikilink")，但是对于复杂的链接（使用函数和表达式创建的链接）或者服务器端的[Image
 Map](https://zh.wikipedia.org/wiki/Image_Map "wikilink")（）则无能为力。
 
 ## 安装与使用
@@ -26,7 +26,7 @@ Guide\[1\]。
 
 ## 参见
 
-  - [robots.txt](../Page/robots.txt.md "wikilink")
+  - [robots.txt](https://zh.wikipedia.org/wiki/robots.txt "wikilink")
   - [离线浏览](../Page/离线浏览.md "wikilink")
   - [扒站](https://zh.wikipedia.org/wiki/扒站 "wikilink")
 

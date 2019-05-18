@@ -227,16 +227,16 @@ Up〉在韩国樂壇出道。
 
 ### OST
 
-| 發行日期        | 專輯名稱                                                                  | 歌曲名稱           |
-| ----------- | --------------------------------------------------------------------- | -------------- |
-| 2012年1月30日  | KBS2《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》OST                         | Hello, Love    |
-| 2012年4月13日  | MBC《[武神](https://zh.wikipedia.org/wiki/武神_\(韓國電視劇\) "wikilink")》OST   | 시공천애 (時空天愛)    |
-| 2012年4月25日  | MBC《[The King 2 Hearts](../Page/The_King_2_Hearts.md "wikilink")》OST  | 말 못하죠          |
-| 2012年7月2日   | KBS2《[需要仙女](../Page/需要仙女.md "wikilink")》OST                           | Story          |
-| 2012年8月15日  | SBS《[花樣少年少女](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")》OST           | 일어나 (Stand Up) |
-| 2012年12月11日 | KBS2《[學校2013](https://zh.wikipedia.org/wiki/學校2013 "wikilink")》OST    | Beautiful Days |
-| 2014年1月17日  | MBC《[韓國小姐](https://zh.wikipedia.org/wiki/韓國小姐_\(電視劇\) "wikilink")》OST | Hero           |
-|             |                                                                       |                |
+| 發行日期        | 專輯名稱                                                                 | 歌曲名稱           |
+| ----------- | -------------------------------------------------------------------- | -------------- |
+| 2012年1月30日  | KBS2《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》OST                        | Hello, Love    |
+| 2012年4月13日  | MBC《[武神](../Page/武神_\(韓國電視劇\).md "wikilink")》OST                     | 시공천애 (時空天愛)    |
+| 2012年4月25日  | MBC《[The King 2 Hearts](../Page/The_King_2_Hearts.md "wikilink")》OST | 말 못하죠          |
+| 2012年7月2日   | KBS2《[需要仙女](../Page/需要仙女.md "wikilink")》OST                          | Story          |
+| 2012年8月15日  | SBS《[花樣少年少女](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")》OST          | 일어나 (Stand Up) |
+| 2012年12月11日 | KBS2《[學校2013](../Page/學校2013.md "wikilink")》OST                      | Beautiful Days |
+| 2014年1月17日  | MBC《[韓國小姐](../Page/韓國小姐_\(電視劇\).md "wikilink")》OST                   | Hero           |
+|             |                                                                      |                |
 
 ## 媒體作品
 

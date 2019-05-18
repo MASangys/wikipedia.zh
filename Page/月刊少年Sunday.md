@@ -68,7 +68,7 @@
 <tr class="even">
 <td><p>05</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/青色火焰" title="wikilink">青色火焰</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/島本和彥" title="wikilink">島本和彥</a></p></td>
+<td><p><a href="../Page/島本和彥.md" title="wikilink">島本和彥</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.06</p></td>
 <td><p>連載中</p></td>
@@ -176,7 +176,7 @@
 <tr class="even">
 <td><p>17</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/信長協奏曲" title="wikilink">信長協奏曲</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石井步" title="wikilink">石井步</a></p></td>
+<td><p><a href="../Page/石井步.md" title="wikilink">石井步</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.06</p></td>
 <td><p>連載中</p></td>
@@ -258,7 +258,7 @@
 <td><p>25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FULL_SWING" title="wikilink">FULL SWING</a></p></td>
 <td><p>（作畫）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武論尊" title="wikilink">武論尊</a>（原作）</p></td>
+<td><p><a href="../Page/武論尊.md" title="wikilink">武論尊</a>（原作）</p></td>
 <td><p>2010.06</p></td>
 <td><p>2012.05</p></td>
 <td></td>
@@ -509,7 +509,7 @@
 <tr class="odd">
 <td><p>50</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/擅長捉弄的高木同學" title="wikilink">擅長捉弄的高木同學</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本崇一朗" title="wikilink">山本崇一朗</a></p></td>
+<td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.07</p></td>
 <td><p>連載中</p></td>
@@ -518,7 +518,7 @@
 <tr class="even">
 <td><p>51</p></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/札月家的杏子妹妹" title="wikilink">札月家的杏子妹妹</a> '''</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本崇一朗" title="wikilink">山本崇一朗</a></p></td>
+<td><p><a href="../Page/山本崇一朗.md" title="wikilink">山本崇一朗</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.09</p></td>
 <td><p>連載中</p></td>
@@ -589,7 +589,7 @@
 </tr>
 <tr class="even">
 <td><p>58</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/偶像大師_百萬人演唱會！" title="wikilink">偶像大師 百萬人演唱會！</a></strong></p></td>
+<td><p><strong><a href="../Page/偶像大師_百萬人演唱會！.md" title="wikilink">偶像大師 百萬人演唱會！</a></strong></p></td>
 <td><p>門司雪</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萬代南夢宮娛樂" title="wikilink">萬代南夢宮娛樂</a>（原作）</p></td>
 <td><p>2014.08</p></td>

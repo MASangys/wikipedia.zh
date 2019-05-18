@@ -27,7 +27,7 @@
 
   - 《》（[英国独立电视台](https://zh.wikipedia.org/wiki/英国独立电视台 "wikilink")）\[1\]
   - 《[Music
-    Station](../Page/Music_Station.md "wikilink")》（[日本朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
+    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》（[日本朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
   - 《[Running
     Man](../Page/Running_Man.md "wikilink")》（[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")）
 

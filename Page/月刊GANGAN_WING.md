@@ -27,7 +27,7 @@ WING**》（月刊ガンガンWING），[日本](../Page/日本.md "wikilink")[�
   - [おとして↓アプリガール](https://zh.wikipedia.org/wiki/おとして↓アプリガール "wikilink")（[望月菓子](https://zh.wikipedia.org/wiki/望月菓子 "wikilink")）
   - [陽炎ノスタルジア](https://zh.wikipedia.org/wiki/陽炎ノスタルジア "wikilink")（[久保聡美](https://zh.wikipedia.org/wiki/久保聡美 "wikilink")）★
   - [彼女のまにまに](https://zh.wikipedia.org/wiki/彼女のまにまに "wikilink")（[臣士れい](https://zh.wikipedia.org/wiki/臣士れい "wikilink")）
-  - [KAMUI](https://zh.wikipedia.org/wiki/KAMUI "wikilink")（[七海慎吾](https://zh.wikipedia.org/wiki/七海慎吾 "wikilink")）
+  - [KAMUI](https://zh.wikipedia.org/wiki/KAMUI "wikilink")（[七海慎吾](../Page/七海慎吾.md "wikilink")）
     - 『[月刊ステンシル](https://zh.wikipedia.org/wiki/月刊ステンシル "wikilink")』から移籍
   - [湾岸二課
     ガルフトリガー](https://zh.wikipedia.org/wiki/湾岸二課_ガルフトリガー "wikilink")（[藤川祐華](https://zh.wikipedia.org/wiki/藤川祐華 "wikilink")）
@@ -51,8 +51,7 @@ WING**》（月刊ガンガンWING），[日本](../Page/日本.md "wikilink")[�
     画:[桑里虎助](https://zh.wikipedia.org/wiki/桑里虎助 "wikilink")
     メインキャラクタービジュアルデザイン:[稀捺かのと](https://zh.wikipedia.org/wiki/稀捺かのと "wikilink")）
   - [スパイラル・アライヴ](https://zh.wikipedia.org/wiki/スパイラル・アライヴ "wikilink")（作:[城平京](../Page/城平京.md "wikilink")
-    画:[水野英多](https://zh.wikipedia.org/wiki/水野英多 "wikilink")） -
-    『月刊少年ガンガン』に移籍
+    画:[水野英多](../Page/水野英多.md "wikilink")） - 『月刊少年ガンガン』に移籍
   - [生体融結バイオガーダー](https://zh.wikipedia.org/wiki/生体融結バイオガーダー "wikilink")（[増田晴彦](https://zh.wikipedia.org/wiki/増田晴彦 "wikilink")）
   - [絶対セカイの黒い虎
     realtime★classic](https://zh.wikipedia.org/wiki/絶対セカイの黒い虎_realtime★classic "wikilink")（[日本橋恵太朗](https://zh.wikipedia.org/wiki/日本橋恵太朗 "wikilink")）
@@ -61,8 +60,7 @@ WING**》（月刊ガンガンWING），[日本](../Page/日本.md "wikilink")[�
   - [そらのひとひら](https://zh.wikipedia.org/wiki/そらのひとひら "wikilink")（[野々原ちき](https://zh.wikipedia.org/wiki/野々原ちき "wikilink")）
     ※2005年1月号より休載、未完
   - [タクティクスオウガ](https://zh.wikipedia.org/wiki/タクティクスオウガ "wikilink")（[松葉博](https://zh.wikipedia.org/wiki/松葉博 "wikilink")）★
-  - [TWIN
-    SIGNAL外伝](https://zh.wikipedia.org/wiki/TWIN_SIGNAL "wikilink")
+  - [TWIN SIGNAL外伝](../Page/TWIN_SIGNAL.md "wikilink")
     呪われし電脳神（[大清水さち](https://zh.wikipedia.org/wiki/大清水さち "wikilink")）
   - [dear](https://zh.wikipedia.org/wiki/dear "wikilink")（[藤原ここあ](https://zh.wikipedia.org/wiki/藤原ここあ "wikilink")）
   - [D弦上的愛麗絲](https://zh.wikipedia.org/wiki/D弦上的愛麗絲 "wikilink")（[伊原士郎](https://zh.wikipedia.org/wiki/伊原士郎 "wikilink")）

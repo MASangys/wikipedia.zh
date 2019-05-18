@@ -9,7 +9,7 @@
     [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
 乙醛酸还原酶
-(NADP<sup>+</sup>)主要参与[丙酮酸的](../Page/丙酮酸.md "wikilink")[代谢过程以及](../Page/代谢.md "wikilink")[乙醛酸和](../Page/乙醛酸.md "wikilink")[二羧酸的代谢过程](https://zh.wikipedia.org/wiki/二羧酸 "wikilink")。这种酶还能催化还原[羟基丙酮酸至](https://zh.wikipedia.org/wiki/羟基丙酮酸 "wikilink")[甘油](../Page/甘油.md "wikilink")，并对NAD<sup>+</sup>也有一定的亲和性。
+(NADP<sup>+</sup>)主要参与[丙酮酸的](../Page/丙酮酸.md "wikilink")[代谢过程以及](../Page/代谢.md "wikilink")[乙醛酸和](../Page/乙醛酸.md "wikilink")[二羧酸的代谢过程](../Page/二羧酸.md "wikilink")。这种酶还能催化还原[羟基丙酮酸至](https://zh.wikipedia.org/wiki/羟基丙酮酸 "wikilink")[甘油](../Page/甘油.md "wikilink")，并对NAD<sup>+</sup>也有一定的亲和性。
 
 ## 参考文献
 

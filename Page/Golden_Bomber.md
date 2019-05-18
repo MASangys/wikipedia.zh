@@ -5,7 +5,7 @@ Bomber**（）是[日本的](../Page/日本.md "wikilink")[視覺系](../Page/�
 
 2004年由主唱鬼龍院翔與吉他手喜矢武豊結成\[3\]。
 
-樂團以空氣樂隊形式進行，基本上Live中成員並不演奏，而是以獨特的演劇、短片等方式，進行著各式各樣的表演。主唱鬼龍院翔負責樂團中所有歌曲的作詞、作曲及演唱，並且為Live演出中的短劇劇本及演出的負責人。吉他手喜矢武豊負責小道具製作及影片編輯，Live中「吉他獨奏」進行的表演為此樂團的一大特色。貝斯手歌広場淳為歌曲舞蹈動作的構思者，在Live中相當擅長帶動氣氛。鼓手樽美酒研二在Live中負責操作[iPod](../Page/iPod.md "wikilink")，以及跳舞與表演。
+樂團以空氣樂隊形式進行，基本上Live中成員並不演奏，而是以獨特的演劇、短片等方式，進行著各式各樣的表演。主唱鬼龍院翔負責樂團中所有歌曲的作詞、作曲及演唱，並且為Live演出中的短劇劇本及演出的負責人。吉他手喜矢武豊負責小道具製作及影片編輯，Live中「吉他獨奏」進行的表演為此樂團的一大特色。貝斯手歌広場淳為歌曲舞蹈動作的構思者，在Live中相當擅長帶動氣氛。鼓手樽美酒研二在Live中負責操作[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")，以及跳舞與表演。
 
 2010年在Live追加公演宣布的重大發表中，公開表示拒絕了七間主流經紀公司的出道邀請\[4\]。
 
@@ -23,7 +23,7 @@ Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以
 
 ### 鬼龍院翔
 
-鬼龍院翔（キリュウイン ショウ）。[Vocal](https://zh.wikipedia.org/wiki/主音 "wikilink")。
+鬼龍院翔（キリュウイン ショウ）。[Vocal](../Page/主音.md "wikilink")。
 1984年6月20日出生，B型，身高164cm，
 [東京都出身](../Page/東京都.md "wikilink")。愛称是「キリショー」「キリちゃん」等。
 
@@ -40,7 +40,7 @@ T-shirt的照片而使銷量大增，[田宮公司因此特別寫了感謝信](h
 Go\!\!限定版](../Page/爆走兄弟Let's_&_Go!!.md "wikilink")[迷你四驅車作為謝禮](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")\[11\]。
 
 國中時期開始便是[MALICE
-MIZER的](https://zh.wikipedia.org/wiki/MALICE_MIZER "wikilink")[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，相當崇拜[GACKT](../Page/GACKT.md "wikilink")。
+MIZER的](../Page/MALICE_MIZER.md "wikilink")[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，相當崇拜[GACKT](../Page/GACKT.md "wikilink")。
 同時也是[B'z的熱衷歌迷](../Page/B'z.md "wikilink")，曾在[Rolling
 Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")。
 在專輯『イミテイション・ゴールド〜金爆の名曲二番搾り〜』中展現了對著名歌手的模仿功力，從曲風到唱腔都能夠模仿。
@@ -181,7 +181,7 @@ Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Roll
 是樂團中唯一吸菸的人。
 
 相當喜歡[GLAY和](../Page/GLAY.md "wikilink")[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X
-JAPAN的吉他手](../Page/X_JAPAN.md "wikilink")[hide](../Page/hide.md "wikilink")。
+JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
 
 於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員身份演出](https://zh.wikipedia.org/wiki/演員 "wikilink")，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖第](../Page/古書堂事件手帖.md "wikilink")9集客串演出\[12\]。
 2013年10月於日本電視台深夜日劇「49」常規演出。劇中飾演一名男公關。
@@ -209,10 +209,10 @@ JAPAN的吉他手](../Page/X_JAPAN.md "wikilink")[hide](../Page/hide.md "wikilin
 曾說過自己是「樂團中最不起眼的人」。年紀為成員中最小的，卻是四人中負責總結發言的人。不過也有天然呆、粗神經的一面，自稱為「壓倒性的」(壓倒性人類性能低下)。也是樂團內髮色變換最頻繁的人，曾染過的髮色有半黑半金、橘色、銀色、綠色等等，現在的髮色是黑白半染。
 
 加入樂團的契機是大學時期偶然看見了Golden
-Bomber的Live，被樂團的表演吸引。當時正好在招募貝斯手，於是寄出希望能夠加入的郵件。是樂團中唯一透露本名的人，就讀大學時為了宣傳樂團，使得本名也被寫在學校網頁上。之後在[NICONICO動畫的生放送節目](../Page/NICONICO動畫.md "wikilink")「ゴールデンボンバーのニコラジ」中，自己也不小心將本名說出來。
+Bomber的Live，被樂團的表演吸引。當時正好在招募貝斯手，於是寄出希望能夠加入的郵件。是樂團中唯一透露本名的人，就讀大學時為了宣傳樂團，使得本名也被寫在學校網頁上。之後在[NICONICO動畫的生放送節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「ゴールデンボンバーのニコラジ」中，自己也不小心將本名說出來。
 
 對[視覺系樂團相當熟悉](../Page/視覺系.md "wikilink")，常稱自己是「バンギャ男」。就讀大學時也經常前往Live
-House觀看演出，從那時開始就已經是[メガマソ的吉他手](https://zh.wikipedia.org/wiki/メガマソ "wikilink")[涼平的粉絲](https://zh.wikipedia.org/wiki/涼平 "wikilink")，大學的畢業論文的題目也和涼平有關\[14\]。曾因為太常做出激烈的甩頭（ヘドバン）動作而被醫生要求停止。在樂團中的代表角色為「淳子@[れいたの嫁](../Page/the_GazettE.md "wikilink")」。
+House觀看演出，從那時開始就已經是[メガマソ的吉他手](https://zh.wikipedia.org/wiki/メガマソ "wikilink")[涼平的粉絲](https://zh.wikipedia.org/wiki/涼平 "wikilink")，大學的畢業論文的題目也和涼平有關\[14\]。曾因為太常做出激烈的甩頭（ヘドバン）動作而被醫生要求停止。在樂團中的代表角色為「淳子@[れいたの嫁](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")」。
 
 大學專攻文藝學科，對文學有相當程度的了解，喜歡的作家是[島田雅彥](https://zh.wikipedia.org/wiki/島田雅彥 "wikilink")。另外對音樂劇的造詣也很深，從小時候開始就相當喜歡[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")，直到現在也會去觀賞演出。
 
@@ -230,7 +230,7 @@ DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作
 
 特徵是臉經常畫上纇似[歌舞伎一般的塗白妝容](../Page/歌舞伎.md "wikilink")。臉上塗白的理由是因為「前代鼓手天空城団吉也是塗白妝的緣故」、「會害羞」等等。素顏被說是成員中最好看的，在[部落格及](https://zh.wikipedia.org/wiki/部落格 "wikilink")[雜誌中都曾公開過素顏](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
-在Live中負責播放[iPod的歌曲](../Page/iPod.md "wikilink")，也是MC中常被鬼龍院翔稱呼的「音控人員(PAさん)」。在樂團中的角色有「ムックー」、「ダル隊長」，以及畫著視覺系裝扮的「ナルシス研二」等等。
+在Live中負責播放[iPod的歌曲](https://zh.wikipedia.org/wiki/iPod "wikilink")，也是MC中常被鬼龍院翔稱呼的「音控人員(PAさん)」。在樂團中的角色有「ムックー」、「ダル隊長」，以及畫著視覺系裝扮的「ナルシス研二」等等。
 
 雖然現在已經作為正式的成員進行樂團活動，可是官方表記中的「暫定」兩字並沒有消除，原因僅是「錯失了更正的時機」。演唱會中是不打鼓的「空氣鼓手」，總是在鼓架後面跳舞，為此甚至將[爵士鼓中重要的](../Page/爵士鼓.md "wikilink")[小鼓從鼓架中移除](../Page/小鼓.md "wikilink")。另外鼓棒是以圓柱狀泡棉製成。
 
@@ -695,7 +695,7 @@ Oricon週間排名最高21位</p></td>
 <td><p>1.<a href="https://zh.wikipedia.org/wiki/ANOTHER_WORLD_(Gacktの曲)" title="wikilink">ANOTHER MELODY</a><br />
 2.<a href="https://zh.wikipedia.org/wiki/TSUNAMI" title="wikilink">TSUNAMIの</a><a href="https://zh.wikipedia.org/wiki/波乗りジョニー" title="wikilink">ジョニー</a><br />
 3.<a href="https://zh.wikipedia.org/wiki/SAY_YES" title="wikilink">SAY NO</a><br />
-4.<a href="../Page/ultra_soul.md" title="wikilink">ultra</a> <a href="../Page/LOVE_PHANTOM.md" title="wikilink">PHANTOM</a><br />
+4.<a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra</a> <a href="../Page/LOVE_PHANTOM.md" title="wikilink">PHANTOM</a><br />
 5.<a href="https://zh.wikipedia.org/wiki/千の夜をこえて" title="wikilink">万の夜をこえて</a></p></td>
 <td><p>大物藝人的過去的暢銷數字的搞笑模仿歌曲集。<br />
 是<a href="../Page/GACKT.md" title="wikilink">GACKT</a>、<a href="https://zh.wikipedia.org/wiki/サザンオールスターズ" title="wikilink">サザンオールスターズ</a>、<a href="https://zh.wikipedia.org/wiki/CHAGE_and_ASKA" title="wikilink">CHAGE and ASKA</a>、<a href="../Page/B&#39;z.md" title="wikilink">B'z</a>、<a href="../Page/Aqua_Timez.md" title="wikilink">Aqua Timez的歌曲的搞笑模仿</a>。</p></td>
@@ -1775,7 +1775,7 @@ Oricon週間排名初登場1位</p></td>
 <td><p>01</p></td>
 <td><p><strong>JUSTICE教徒に告ぐ・・蝕の宴</strong></p></td>
 <td><p>2007年10月31日</p></td>
-<td><p>1.收錄曲:<a href="https://zh.wikipedia.org/wiki/DAN_DAN_心魅かれてく" title="wikilink">DAN DAN 心魅かれてく</a>（<a href="https://zh.wikipedia.org/wiki/FIELD_OF_VIEW" title="wikilink">FIELD OF VIEWのカバー</a>）<br />
+<td><p>1.收錄曲:<a href="https://zh.wikipedia.org/wiki/DAN_DAN_心魅かれてく" title="wikilink">DAN DAN 心魅かれてく</a>（<a href="../Page/FIELD_OF_VIEW.md" title="wikilink">FIELD OF VIEWのカバー</a>）<br />
 2.<a href="https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない" title="wikilink">愛のままにわがままに 僕は君だけを傷つけない</a>（<a href="../Page/B&#39;z.md" title="wikilink">B'z的翻唱</a>）<br />
 3.ベートーベンだねRock'n'Roll（動畫『<a href="../Page/21衛門.md" title="wikilink">21衛門</a>』的OP曲翻唱）<br />
 4.<a href="../Page/無論何時。.md" title="wikilink">無論何時。</a>（<a href="https://zh.wikipedia.org/wiki/槇原敬之" title="wikilink">槇原敬之的翻唱</a>）</p></td>

@@ -43,7 +43,7 @@ ifconfig的常见用途包括设置接口的[IP地址和](../Page/IP地址.md "w
 Windows从](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Windows
 95到](../Page/Windows_95.md "wikilink")[Windows
 Me都提供](../Page/Windows_Me.md "wikilink")[winipcfg给出当前IP信息的图形化显示](https://zh.wikipedia.org/wiki/winipcfg "wikilink")。基于[Windows
-NT](../Page/Windows_NT.md "wikilink")[内核的](../Page/内核.md "wikilink")[微软](../Page/微软.md "wikilink")[作业系统均有提供](https://zh.wikipedia.org/wiki/作业系统 "wikilink")[ipconfig](../Page/ipconfig.md "wikilink")，一个与ifconfig类似的命令。[ipconfig也可控制Windows](../Page/ipconfig.md "wikilink")[DHCP](https://zh.wikipedia.org/wiki/DHCP "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。
+NT](../Page/Windows_NT.md "wikilink")[内核的](../Page/内核.md "wikilink")[微软](../Page/微软.md "wikilink")[作业系统均有提供](https://zh.wikipedia.org/wiki/作业系统 "wikilink")[ipconfig](https://zh.wikipedia.org/wiki/ipconfig "wikilink")，一个与ifconfig类似的命令。[ipconfig也可控制Windows](https://zh.wikipedia.org/wiki/ipconfig "wikilink")[DHCP](https://zh.wikipedia.org/wiki/DHCP "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。
 
 在[Mac OS
 X中](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，ifconfig是IPConfiguration的[封装](https://zh.wikipedia.org/wiki/封装 "wikilink")，可于命令行控制[BootP和DHCP客户端](https://zh.wikipedia.org/wiki/BootP "wikilink")。由于ifconfig工作在协助管理网络设置的系统框架之下，不推荐使用ifconfig更改OS

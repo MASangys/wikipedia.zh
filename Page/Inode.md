@@ -1,4 +1,4 @@
-**inode**是指在许多“类[Unix](../Page/Unix.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")”中的一种[数据结构](../Page/数据结构.md "wikilink")。每个inode保存了文件系统中的一个**文件系统对象**（包括[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[目录](../Page/目录_\(文件系统\).md "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[socket](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")、[管道](../Page/管道_\(Unix\).md "wikilink"),
+**inode**是指在许多“类[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统](../Page/文件系统.md "wikilink")”中的一种[数据结构](../Page/数据结构.md "wikilink")。每个inode保存了文件系统中的一个**文件系统对象**（包括[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[目录](../Page/目录_\(文件系统\).md "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[socket](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")、[管道](../Page/管道_\(Unix\).md "wikilink"),
 等等）的元信息数据，但不包括数据内容或者文件名\[1\]。
 
 ## 命名
@@ -58,11 +58,11 @@ file system”。
 
 ## 实际考虑
 
-系统管理员使用的很多程序往往用inode号码来替代文件名来访问文件系统。例如磁盘完整性检查程序[`fsck`](https://zh.wikipedia.org/wiki/fsck "wikilink")或[`pfiles`](https://zh.wikipedia.org/wiki/pfiles "wikilink")。因此，inode号码与文件全路径名的互查是需要的。可以用[`find`](https://zh.wikipedia.org/wiki/find "wikilink")带参数选项`-inum`，[`ls`](../Page/ls.md "wikilink")带参数选项(`-i`做到。
+系统管理员使用的很多程序往往用inode号码来替代文件名来访问文件系统。例如磁盘完整性检查程序[`fsck`](https://zh.wikipedia.org/wiki/fsck "wikilink")或[`pfiles`](https://zh.wikipedia.org/wiki/pfiles "wikilink")。因此，inode号码与文件全路径名的互查是需要的。可以用[`find`](https://zh.wikipedia.org/wiki/find "wikilink")带参数选项`-inum`，[`ls`](https://zh.wikipedia.org/wiki/ls "wikilink")带参数选项(`-i`做到。
 
 文件系统可能会用尽inode。这导致文件系统还有空闲的存储空间，但已经没有空闲的inode可供使用了。例如，一个电子邮件服务器可能会被大量的小文件用尽所有inode，但是却没有填满文件存储空间。
 
-现代的文件系统，如[JFS和](https://zh.wikipedia.org/wiki/JFS_\(文件系统\) "wikilink")[XFS](../Page/XFS.md "wikilink")，能够动态地增加inode，因此不会用尽inode。
+现代的文件系统，如[JFS和](../Page/JFS_\(文件系统\).md "wikilink")[XFS](../Page/XFS.md "wikilink")，能够动态地增加inode，因此不会用尽inode。
 
 ## 参考文献
 

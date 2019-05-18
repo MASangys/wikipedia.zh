@@ -42,7 +42,7 @@ Palace](https://zh.wikipedia.org/wiki/Alexandra_Palace "wikilink")。全球發�
     Birgisson](https://zh.wikipedia.org/wiki/Jón_Þór_Birgisson "wikilink")
     – [vocals](https://zh.wikipedia.org/wiki/singing "wikilink"),
     [guitar](https://zh.wikipedia.org/wiki/guitar "wikilink"),
-    [piano](../Page/piano.md "wikilink"), [pump
+    [piano](https://zh.wikipedia.org/wiki/piano "wikilink"), [pump
     organ](https://zh.wikipedia.org/wiki/pump_organ "wikilink"),
     [keyboards](https://zh.wikipedia.org/wiki/Keyboard_instrument "wikilink"),
     [bass](https://zh.wikipedia.org/wiki/bass_guitar "wikilink")

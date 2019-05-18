@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - **唐澤潤平（28）**：[橘慶太](../Page/橘慶太.md "wikilink")（[w-inds.](../Page/w-inds..md "wikilink")）
+  - **唐澤潤平（28）**：[橘慶太](../Page/橘慶太.md "wikilink")（[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")）
     飾
 
 <!-- end list -->
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - **幸村勇（36）**：[真島秀和](https://zh.wikipedia.org/wiki/真島秀和 "wikilink") 飾
+  - **幸村勇（36）**：[真島秀和](../Page/真島秀和.md "wikilink") 飾
 
 <!-- end list -->
 
@@ -113,11 +113,11 @@
 **第3集**
 
   - 寺本大輝：[石黑英雄](../Page/石黑英雄.md "wikilink")（少年時期：[山田日向](https://zh.wikipedia.org/wiki/山田日向 "wikilink")）
-  - 山根里櫻：[廣瀨愛麗絲](https://zh.wikipedia.org/wiki/廣瀨愛麗絲 "wikilink")
+  - 山根里櫻：[廣瀨愛麗絲](../Page/廣瀨愛麗絲.md "wikilink")
 
 **第4集**
 
-  - 川端美波：[堀内敬子](https://zh.wikipedia.org/wiki/堀内敬子 "wikilink")
+  - 川端美波：[堀内敬子](../Page/堀内敬子.md "wikilink")
   - 三嶋真由子：[黑川智花](../Page/黑川智花.md "wikilink")
   - 田口佳和：[乃木涼介](https://zh.wikipedia.org/wiki/乃木涼介 "wikilink")
 
@@ -160,8 +160,7 @@
 
 ## 主題曲
 
-  - [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")\[2\] 「Two
-    Hearts」（SONIC GROOVE）
+  - [三浦大知](../Page/三浦大知.md "wikilink")\[2\] 「Two Hearts」（SONIC GROOVE）
 
 ## 收視率
 

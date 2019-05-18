@@ -38,7 +38,7 @@ TKO Market Flower Shop.jpg|花店
   - [蔚藍灣畔](../Page/蔚藍灣畔.md "wikilink")、[連理街](https://zh.wikipedia.org/wiki/連理街 "wikilink")
   - [海悅豪園](https://zh.wikipedia.org/wiki/海悅豪園 "wikilink")
   - [新寶城](../Page/新寶城.md "wikilink")
-  - [南豐廣場](https://zh.wikipedia.org/wiki/南豐廣場 "wikilink")
+  - [南豐廣場](../Page/南豐廣場.md "wikilink")
   - [TKO Gateway](../Page/TKO_Gateway.md "wikilink")
   - [樂頤居](../Page/樂頤居.md "wikilink")
   - [富寧花園](../Page/富寧花園.md "wikilink")

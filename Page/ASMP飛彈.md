@@ -26,7 +26,7 @@ ASMP-A開發始於1996年，於2005年10月首度測試於[戴高樂號航空母
 ## 相关
 
   - [战区外武器](https://zh.wikipedia.org/wiki/战区外武器 "wikilink")
-  - [暴风影导弹](https://zh.wikipedia.org/wiki/暴风影导弹 "wikilink")
+  - [暴风影导弹](../Page/暴风影导弹.md "wikilink")
   - [蓝钢导弹](https://zh.wikipedia.org/wiki/蓝钢导弹 "wikilink")
 
 ## 資料來源

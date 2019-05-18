@@ -36,7 +36,7 @@ Grad是一種來歷不明的武器，這種武器沒有生產序號，亦沒有�
   - [AK-74](https://zh.wikipedia.org/wiki/AK-74 "wikilink")
   - [OTs-14 Groza](https://zh.wikipedia.org/wiki/OTs-14突擊步槍 "wikilink")
   - [86S式自動步槍](../Page/86S式自動步槍.md "wikilink")
-  - [AKU-94](https://zh.wikipedia.org/wiki/AKU-94突擊步槍 "wikilink")
+  - [AKU-94](../Page/AKU-94突擊步槍.md "wikilink")
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")

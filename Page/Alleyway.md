@@ -26,7 +26,7 @@ Console系统允许即时储存游戏](../Page/Virtual_Console.md "wikilink")，
 
 游戏有24关，包括八组三级砖块模式。玩家每通过三个常规关卡后就会进入一个[奖励关卡](https://zh.wikipedia.org/wiki/奖励关卡 "wikilink")，这使游戏累计有32关。多数关卡使用了常规排列，但一组使用了表示剩余挡板图标那样的马里奥头像\[18\]。玩家在打破全部砖块后就可进入砖块位置相同但行为不同的下一关。每组第二级的砖块都是“滚动砖块屏幕”\[19\]，砖块会自左向右移动；每组第三级是“高级砖块屏幕”\[20\]，砖块在短时间内会较普通砖块向下移动，增加球弹离挡板的速率。任何低于距挡板10砖块高的砖块会自动消除，因此这不会影响玩家的移动，但也不会给玩家加分\[21\]。
 
-奖励关卡的砖块排列使用了各种[FC](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")《[超级马里奥兄弟](../Page/超级马里奥兄弟.md "wikilink")》的[精灵](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，如食人花、固巴或库巴\[22\]。和常规关卡不同，球在这些关卡打破砖块将不会反弹，接触到天花板将不会影响挡板大小。它们是游戏中唯一使用背景音乐的关卡，也不能被暂停\[23\]。每个奖励关都有计时器，其初始值为95，以后每关都会降低5。当计时器归零时，球将会掉下去（这种情况不会损失性命），或者全部的砖块被打破后游戏结束。在时间结束前打破全部砖块，余下的时间将会根据当前的关卡转为奖励分。当清场后砖块将会重新排列并回到正常循环\[24\]。在最终奖励关结束后，玩家将会看到恭喜屏幕，上面画着《[马里奥兄弟](https://zh.wikipedia.org/wiki/马里奥兄弟 "wikilink")》中的马里奥图像\[25\]。之后游戏将会回到第一关，玩家可以无限的玩游戏\[26\]。
+奖励关卡的砖块排列使用了各种[FC](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")《[超级马里奥兄弟](../Page/超级马里奥兄弟.md "wikilink")》的[精灵](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，如食人花、固巴或库巴\[22\]。和常规关卡不同，球在这些关卡打破砖块将不会反弹，接触到天花板将不会影响挡板大小。它们是游戏中唯一使用背景音乐的关卡，也不能被暂停\[23\]。每个奖励关都有计时器，其初始值为95，以后每关都会降低5。当计时器归零时，球将会掉下去（这种情况不会损失性命），或者全部的砖块被打破后游戏结束。在时间结束前打破全部砖块，余下的时间将会根据当前的关卡转为奖励分。当清场后砖块将会重新排列并回到正常循环\[24\]。在最终奖励关结束后，玩家将会看到恭喜屏幕，上面画着《[马里奥兄弟](../Page/马里奥兄弟.md "wikilink")》中的马里奥图像\[25\]。之后游戏将会回到第一关，玩家可以无限的玩游戏\[26\]。
 
 ### 分数
 
@@ -37,12 +37,12 @@ Console系统允许即时储存游戏](../Page/Virtual_Console.md "wikilink")，
 ## 开发
 
 在传统弹球街机《Breakout》和《Arkanoid》的基础上，《Alleyway》于1989年在日本和北美作为[Game Boy
-Advance的首发游戏推出](../Page/Game_Boy_Advance.md "wikilink")，在北美一同发行的还有《[超级马里奥大陆](https://zh.wikipedia.org/wiki/超级马里奥大陆 "wikilink")》、《[篮球](https://zh.wikipedia.org/wiki/篮球_\(1983年电子游戏\) "wikilink")》和《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块_\(Game_Boy\) "wikilink")》，而日本只发行了前两个\[31\]。由于任天堂和[Tengen之间存在俄罗斯方块所有权的法律纷争](https://zh.wikipedia.org/wiki/Tengen_\(公司\) "wikilink")，故其在《Alleyway》两个月之后发行\[32\]。2011年6月6日，游戏作为[任天堂3DS](../Page/任天堂3DS.md "wikilink")
+Advance的首发游戏推出](../Page/Game_Boy_Advance.md "wikilink")，在北美一同发行的还有《[超级马里奥大陆](https://zh.wikipedia.org/wiki/超级马里奥大陆 "wikilink")》、《[篮球](https://zh.wikipedia.org/wiki/篮球_\(1983年电子游戏\) "wikilink")》和《[俄罗斯方块](../Page/俄罗斯方块_\(Game_Boy\).md "wikilink")》，而日本只发行了前两个\[31\]。由于任天堂和[Tengen之间存在俄罗斯方块所有权的法律纷争](https://zh.wikipedia.org/wiki/Tengen_\(公司\) "wikilink")，故其在《Alleyway》两个月之后发行\[32\]。2011年6月6日，游戏作为[任天堂3DS](../Page/任天堂3DS.md "wikilink")
 [Virtual
 Console系统的首发游戏再发行](../Page/Virtual_Console.md "wikilink")，游戏可[在线下载](https://zh.wikipedia.org/wiki/在线下载 "wikilink")\[33\]。
 
 《Alleyway》标志着马里奥首次出现在Game
-Boy系统上，虽然原始包装盒和卡带上的图画身着宇航服的飞船驾驶员无法判定；但在国际版发行时图画改为了马里奥，但手册和包装背面都没有表示这个任天堂的吉祥物在游戏中出现\[34\]\[35\]。在《[任天堂力量](https://zh.wikipedia.org/wiki/任天堂力量 "wikilink")》的预告中，除了第一个奖励关卡中砖块的排列为马里奥形状外，再没有其他地方提到马里奥\[36\]。在1990年《[Club
+Boy系统上，虽然原始包装盒和卡带上的图画身着宇航服的飞船驾驶员无法判定；但在国际版发行时图画改为了马里奥，但手册和包装背面都没有表示这个任天堂的吉祥物在游戏中出现\[34\]\[35\]。在《[任天堂力量](../Page/任天堂力量.md "wikilink")》的预告中，除了第一个奖励关卡中砖块的排列为马里奥形状外，再没有其他地方提到马里奥\[36\]。在1990年《[Club
 Nintendo](https://zh.wikipedia.org/wiki/Club_Nintendo "wikilink")》欧洲发行版的预告中，官方才首次确认飞行员为马里奥\[37\]。
 
 游戏是[任天堂研究与开发1部制作的首批游戏](https://zh.wikipedia.org/wiki/任天堂研究与开发1部 "wikilink")，另外还有两款游戏《俄罗斯方块》和《[雷达任务](https://zh.wikipedia.org/wiki/雷达任务 "wikilink")》。翌年，游戏设计师[横井军平重新利用游戏的大部分](https://zh.wikipedia.org/wiki/横井军平 "wikilink")[源码](../Page/源代码.md "wikilink")（如挡板的行为和改编的[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")），和[宫本茂团队合作开发了](../Page/宫本茂.md "wikilink")《[卡比砖块球](https://zh.wikipedia.org/wiki/卡比砖块球 "wikilink")》\[38\]。《Alleyway》为下载至[任天堂动力卡带而再发行](https://zh.wikipedia.org/wiki/任天堂动力_\(卡带\) "wikilink")，其占用了设备的一个储存区\[39\]。

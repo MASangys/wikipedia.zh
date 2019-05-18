@@ -83,7 +83,7 @@
 <td><p>海灣自治區之局長</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/王宗堯" title="wikilink">王宗堯</a><br />
+<td><p><a href="../Page/王宗堯.md" title="wikilink">王宗堯</a><br />
 （）</p></td>
 <td><p>王秘書</p></td>
 <td><p>張局長的秘書</p></td>
@@ -128,7 +128,7 @@
 <td><p>韓國國家情報院成員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔珉" title="wikilink">崔珉</a><br />
+<td><p><a href="../Page/崔珉.md" title="wikilink">崔珉</a><br />
 （）</p></td>
 <td><p>尹濟文</p></td>
 <td><p>韓國國家情報院成員</p></td>
@@ -275,8 +275,8 @@ Strangers6保護的重要人物</p></td>
 
 ## 插曲
 
-  - Sweetune－[KARA](../Page/KARA.md "wikilink")
-  - My Prayer－[KARA](../Page/KARA.md "wikilink")
+  - Sweetune－[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")
+  - My Prayer－[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")
 
 [Category:央视电视剧](https://zh.wikipedia.org/wiki/Category:央视电视剧 "wikilink")
 [Category:WOWOW電視劇](https://zh.wikipedia.org/wiki/Category:WOWOW電視劇 "wikilink")

@@ -15,7 +15,7 @@ LTE的手機，是首批機背取消了[索尼愛立信](https://zh.wikipedia.or
 ## 硬件
 
 手機採用4.3吋[電容式觸控技術](https://zh.wikipedia.org/wiki/電容式 "wikilink")，解像度1280×720，是首部搭載Mobile
-[Bravia](../Page/Bravia.md "wikilink") Engine
+[Bravia](https://zh.wikipedia.org/wiki/Bravia "wikilink") Engine
 2顯示技術。[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
 [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") S4
 MSM8960 1.5 GHz 雙核處理器，1300萬像素後置Exmor

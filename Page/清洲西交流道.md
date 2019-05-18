@@ -13,7 +13,7 @@
 ## 歷史
 
   - 1988年3月23日 -
-    [東名阪自動車道](https://zh.wikipedia.org/wiki/東名阪自動車道 "wikilink")（均一區間）[名古屋西IC至](https://zh.wikipedia.org/wiki/名古屋西IC "wikilink")[清洲東IC](https://zh.wikipedia.org/wiki/清洲東IC "wikilink")，此交流道也同時啟用。
+    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")（均一區間）[名古屋西IC至](https://zh.wikipedia.org/wiki/名古屋西IC "wikilink")[清洲東IC](https://zh.wikipedia.org/wiki/清洲東IC "wikilink")，此交流道也同時啟用。
   - 2011年3月20日 - 東名阪自動車道（均一區間）名古屋西JCT至高針JCT的區間編入為名古屋第二環狀自動車道路段。
 
 ## 收費站設施

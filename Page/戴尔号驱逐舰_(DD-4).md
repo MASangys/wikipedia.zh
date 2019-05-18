@@ -1,5 +1,5 @@
 **戴尔号驱逐舰
-(DD-4)**是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](https://zh.wikipedia.org/wiki/班布里奇級驅逐艦 "wikilink")，是第二艘以戴尔命名的美国军舰。
+(DD-4)**是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，是第二艘以戴尔命名的美国军舰。
 
 戴尔号在Miss M. H.
 Wilson的主持下于1900年7月24日在[里士满](https://zh.wikipedia.org/wiki/里士满_\(维吉尼亚州\) "wikilink")[威廉·特里格公司下水](https://zh.wikipedia.org/wiki/威廉·特里格公司 "wikilink")，后被分配至[諾福克](../Page/諾福克_\(維吉尼亞州\).md "wikilink")，并在1903年2月13日正是服役，由上尉[Hutch

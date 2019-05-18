@@ -6,7 +6,7 @@
   - 槍管長：1,000毫米
   - 槍重：49.2公斤（GSh-23）/50公斤（GSh-23L）
   - 口徑：23毫米
-  - 子彈：[AM-23機炮炮彈](https://zh.wikipedia.org/wiki/AM-23機炮 "wikilink")（23x115毫米）
+  - 子彈：[AM-23機炮炮彈](../Page/AM-23機炮.md "wikilink")（23x115毫米）
   - 子彈初速：715米/秒
   - 射速：3,400至3,600發/分鐘
   - 作用方式：氣動式
@@ -51,10 +51,10 @@
 ## 相關條目
 
   - [NR-23機炮](../Page/NR-23機炮.md "wikilink")
-  - [AM-23機炮](https://zh.wikipedia.org/wiki/AM-23機炮 "wikilink")
+  - [AM-23機炮](../Page/AM-23機炮.md "wikilink")
   - [GSh-30-1機炮](../Page/GSh-30-1機炮.md "wikilink")
   - [GSh-30-2機炮](../Page/GSh-30-2機炮.md "wikilink")
-  - [GSh-6-23加特林机炮](https://zh.wikipedia.org/wiki/GSh-6-23加特林机炮 "wikilink")
+  - [GSh-6-23加特林机炮](../Page/GSh-6-23加特林机炮.md "wikilink")
   - [GSh-6-30加特林机炮](../Page/GSh-6-30加特林机炮.md "wikilink")
 
 [Category:23毫米口径武器](https://zh.wikipedia.org/wiki/Category:23毫米口径武器 "wikilink")

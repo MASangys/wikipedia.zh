@@ -64,7 +64,7 @@ Surface Pro在中國大陆另有兩個版本，Surface專業版和Surface中文�
 Surface專業版預装Windows 8專業版及Office 365家庭高级版一個月試用。
 
 Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office
-2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker加密數據](https://zh.wikipedia.org/wiki/BitLocker "wikilink")。\[4\]
+2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker加密數據](../Page/BitLocker.md "wikilink")。\[4\]
 
 **Surface Pro 4**  2015年10月，微软推出了Surface Pro 4，配备12.3吋2736 x
 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface
@@ -82,8 +82,7 @@ Surface Book
 是一款可变形的[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，最大的亮点在于其屏幕部分可配合Surface
 Pen作为独立的平板电脑与机身分离，亦可反向插拔；同时，键盘底座中可以选配独立[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")，支持与电脑主体的热插拔。
 
-[Surface Book
-2于](https://zh.wikipedia.org/wiki/Surface_Book_2 "wikilink")2017年10月17日发布。
+[Surface Book 2于](../Page/Surface_Book_2.md "wikilink")2017年10月17日发布。
 
 ## Surface Studio系列
 
@@ -100,7 +99,7 @@ Dial](https://zh.wikipedia.org/wiki/Surface_Dial "wikilink")。\[5\]
 
 Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover也变小。处理器使用的是英特尔 Pentium Gold
 4415Y
-双核处理器，可以选用4或8GB的内存，而存储容量也有从64G到256G等多种选项，唯注意64G版本使用的是[eMMC闪存而非其他容量版本所使用的](https://zh.wikipedia.org/wiki/eMMC "wikilink")[NVMe固态硬盘](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")。新增USB
+双核处理器，可以选用4或8GB的内存，而存储容量也有从64G到256G等多种选项，唯注意64G版本使用的是[eMMC闪存而非其他容量版本所使用的](https://zh.wikipedia.org/wiki/eMMC "wikilink")[NVMe固态硬盘](../Page/NVM_Express.md "wikilink")。新增USB
 Type-C接口，支持Surface Pen等系列配件。\[6\]
 
 ## 上市日期
@@ -415,7 +414,7 @@ Mini DisplayPort<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Random-access_memory" title="wikilink">RAM</a></p></td>
-<td><p>8GB/16GB/32GB <a href="https://zh.wikipedia.org/wiki/DDR4_SDRAM" title="wikilink">DDR4</a> 2133Mhz</p></td>
+<td><p>8GB/16GB/32GB <a href="../Page/DDR4_SDRAM.md" title="wikilink">DDR4</a> 2133Mhz</p></td>
 </tr>
 <tr class="even">
 <td><p>內部儲存</p></td>

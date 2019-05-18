@@ -2,13 +2,13 @@
 
 ## 概要
 
-本單曲名稱「」取自主唱[小野惠令奈的暱稱](../Page/小野惠令奈.md "wikilink")。單曲中亦收錄同名歌曲，此曲之作曲由活躍於[NICONICO動畫的](../Page/NICONICO動畫.md "wikilink")[SmileR](https://zh.wikipedia.org/wiki/SmileR "wikilink")（）所創作。歌詞則由主唱小野惠令奈親自填寫，這次亦是小野首次填詞。此曲亦於4月17日開始，被採用為日本[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣和](../Page/新垣結衣.md "wikilink")[堺雅人主演的法庭劇集](../Page/堺雅人.md "wikilink")《[LEGAL
-HIGH](../Page/LEGAL_HIGH.md "wikilink")》之片頭曲。另外，單曲以5個發售形態於2012年6月13日在[日本開始發售](../Page/日本.md "wikilink")。\[1\]
+本單曲名稱「」取自主唱[小野惠令奈的暱稱](../Page/小野惠令奈.md "wikilink")。單曲中亦收錄同名歌曲，此曲之作曲由活躍於[NICONICO動畫的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[SmileR](https://zh.wikipedia.org/wiki/SmileR "wikilink")（）所創作。歌詞則由主唱小野惠令奈親自填寫，這次亦是小野首次填詞。此曲亦於4月17日開始，被採用為日本[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣和](../Page/新垣結衣.md "wikilink")[堺雅人主演的法庭劇集](../Page/堺雅人.md "wikilink")《[LEGAL
+HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》之片頭曲。另外，單曲以5個發售形態於2012年6月13日在[日本開始發售](../Page/日本.md "wikilink")。\[1\]
 
 ## 相關消息
 
   - 2012年4月17日，作為片頭曲出現在[富士電視台週二晚間九點連續劇](../Page/富士電視台週二晚間九點連續劇.md "wikilink")，由[新垣結衣及](../Page/新垣結衣.md "wikilink")[堺雅人主演之法庭劇集](../Page/堺雅人.md "wikilink")《[LEGAL
-    HIGH](../Page/LEGAL_HIGH.md "wikilink")》中。
+    HIGH](https://zh.wikipedia.org/wiki/LEGAL_HIGH "wikilink")》中。
   - 2012年5月3日，其PV之SPOT映像及專輯封面公開。\[2\]
   - 2012年5月8日，於[RecoChoku開始以電話鈴聲发售](../Page/RecoChoku.md "wikilink"),並獲得當日RecoChoku電話鈴聲排行榜第一位。\[3\]
   - 2012年5月30日，A面曲歌名「えれぴょん」及B面曲「センチメンタルガール」分別以電話來電畫面（着ムービー）及電話鈴聲(着うた)发售。其中，A面曲歌名「えれぴょん」獲得5月31日RecoChoku電話來電畫面（着ムービー）排行榜第一位。\[4\]

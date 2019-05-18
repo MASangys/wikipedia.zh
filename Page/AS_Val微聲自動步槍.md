@@ -1,5 +1,5 @@
 *' AS
-Val*'（，意為：「巨浪」型特種自動步槍）是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[中央精密機械工程研究院於](https://zh.wikipedia.org/wiki/中央精密機械工程研究院 "wikilink")1980年代研製的一種特種步槍，發射俄製的[9×39mm特種彈藥](https://zh.wikipedia.org/wiki/9×39mm "wikilink")。
+Val*'（，意為：「巨浪」型特種自動步槍）是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[中央精密機械工程研究院於](https://zh.wikipedia.org/wiki/中央精密機械工程研究院 "wikilink")1980年代研製的一種特種步槍，發射俄製的[9×39mm特種彈藥](../Page/9×39mm.md "wikilink")。
 
 ## 歷史
 
@@ -79,12 +79,12 @@ Val\]\]
     SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon
     ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")），视为自带消音器与枪口制动器，同時擁有所有突擊步槍之中最高的腰射精度。
   - 2013年—《[-{zh-hans:战地;
-    zh-hant:戰地風雲;}-4](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
+    zh-hant:戰地風雲;}-4](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：聯機模式當中為資料片《再次進擊》（"Second
     Assault"）中出現的武器，20+1發彈匣，被設定為個人防衛武器（Personal
     Defense Weapon，PDW），僅工程兵可以使用，於完成小任務“副駕駛”后解鎖。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：可改裝成[VSS Vintorez狙擊步槍](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。
   - 2014年—《[合約戰爭](https://zh.wikipedia.org/wiki/合約戰爭 "wikilink")》（Contract
     Wars）

@@ -1,4 +1,4 @@
-**GSh-18**（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[俄罗斯聯邦](../Page/俄罗斯.md "wikilink")[圖拉的武器製造商](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠](https://zh.wikipedia.org/wiki/俄联邦仪器设计局 "wikilink")（，簡稱：；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：KGP；）在1990年代研製和生產的[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是最新型俄羅斯軍用制式手槍（），發射多種[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")，包括俄罗斯所研製的7N21（[西里尔字母](../Page/西里尔字母.md "wikilink")：7Н21）和7N31（西里尔字母：7Н31）兩種高壓子彈（+P+）。
+**GSh-18**（；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[俄罗斯聯邦](../Page/俄罗斯.md "wikilink")[圖拉的武器製造商](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠](../Page/俄联邦仪器设计局.md "wikilink")（，簡稱：；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：KGP；）在1990年代研製和生產的[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是最新型俄羅斯軍用制式手槍（），發射多種[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")，包括俄罗斯所研製的7N21（[西里尔字母](../Page/西里尔字母.md "wikilink")：7Н21）和7N31（西里尔字母：7Н31）兩種高壓子彈（+P+）。
 
 ## 簡介
 
@@ -26,14 +26,14 @@ GSh-18的設計理念與奧地利[格洛克](../Page/格洛克.md "wikilink")[�
       - 槍管外表面具有10個組成環狀、分佈均勻的鎖耳，回轉角度約為18[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")
       - 雖然很少槍械使用，但這種槍機結構可以明顯地縮小武器的尺寸
   - [套筒和槍管是由](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼所製造](../Page/不鏽鋼.md "wikilink")
-      - [底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")（套筒座部份）是由嵌入了[钢板衝壓成型件的](../Page/钢.md "wikilink")[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[尼龙所製造](../Page/尼龙.md "wikilink")，從而降低了武器的重量，亦增加了連接部位的強度
+      - [底把](../Page/机匣.md "wikilink")（套筒座部份）是由嵌入了[钢板衝壓成型件的](../Page/钢.md "wikilink")[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[尼龙所製造](../Page/尼龙.md "wikilink")，從而降低了武器的重量，亦增加了連接部位的強度
       - 亦由於[塑料的吸震性能](../Page/塑料.md "wikilink")，因而降低了一些[後座力的動量](../Page/後座力.md "wikilink")
   - [冷鍛法製造的槍管具有](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")6條，扳機機構為[擊針擊發](https://zh.wikipedia.org/wiki/擊針 "wikilink")、雙動操作，並設有一個預設式扳機，扳機上裝有3毫米厚的鋼板
   - 採用近年流行的“预设型击针”系统：击针在套筒复进过程中先与阻铁咬合并初步压缩击针簧。扣动扳机后扳机连杆带动阻铁连同击针向后继续运动一段距离（继续压缩击针簧）后最终释放击针向前。此类设计的好处是不仅省去了常规击锤系统的大量部件，且较传统击针平移式击发系统更加安全（因为击针簧并不是完全压缩的，即使非常不巧地被意外释放，其能量往往也不足以击发底火），同时扳機扣力相對於其他纯雙動操作扳機手槍為小而且流暢，大約為15[牛頓](../Page/牛頓_\(單位\).md "wikilink")（3.37[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")），更容易於進行精確射擊
   - 為了操作簡便，GSh-18没有設置手動保險，而是採用另外四道保險，分別是：扳機保險、不到位保險、擊針阻鐵聯鎖裝置保險和防早發保險，其多重保險系統給予這槍在任何的條件下充分安全，並在國家靶場測試之中得到證實
   - 在其他測試中，還包括GSh-18在待擊以下承受多次從1.5米掉下到[混凝土板](../Page/混凝土.md "wikilink")
   - 在拋殼口後部具有一個小型，與抽殼鉤零件中部相連；在彈藥上膛並且完全閉鎖之後，抽殼鉤與彈殼底緣嚙合並且帶動上膛指示器上抬，突出[套筒表面](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")
-  - 照門和準星尺寸寬大以便快速瞄準，照門的兩側設有側翼結構以避免產生虛光，另外還在[機械瞄具上設有簡易夜間瞄準點](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，以保證使用者可以在低照度以下瞄準射擊，並可在套筒座前端可以安裝[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")
+  - 照門和準星尺寸寬大以便快速瞄準，照門的兩側設有側翼結構以避免產生虛光，另外還在[機械瞄具上設有簡易夜間瞄準點](../Page/機械瞄具.md "wikilink")，以保證使用者可以在低照度以下瞄準射擊，並可在套筒座前端可以安裝[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")
   - 供彈具為18發可拆卸式大容量雙排[彈匣](../Page/彈匣.md "wikilink")，彈匣的側面和後面都開設了大型觀察窗口並於彈匣左側刻有數字，可以目視和手指觸摸兩種方式判定彈匣內剩餘彈數\[6\]
   - 為了方便抽取彈匣，GSh-18在握把底部兩側更具有缺口，亦設有空槍挂機，挂機解脫桿位於[套筒座左側](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")；它同時也是槍身結合銷，在拆卸手槍的時候，可以藉助彈匣底座的突出部分將其抽出
   - 零部件較少，只分為17件，相比以下[格洛克17則分為](../Page/格洛克17.md "wikilink")34件\[7\]
@@ -59,7 +59,7 @@ GSh-18手槍是專為近距離戰鬥設計的軍用半自動手槍，具有體�
 
 ### GSh-18戰術修改型
 
-於2012年公佈，使用塑料彈匣，改變了[扳機護圈的形式](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，略為增加[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")的長度，而且增加[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。\[12\]
+於2012年公佈，使用塑料彈匣，改變了[扳機護圈的形式](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，略為增加[底把](../Page/机匣.md "wikilink")的長度，而且增加[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。\[12\]
 
 ### GSh-18S“運動”
 
@@ -72,7 +72,7 @@ GSh-18S“運動2”（）是GSh-18的民用型版本。在2012年初批量生�
 ### GSh-18T
 
 GSh-18T（）是GSh-18的民用型版本，於[2010年10月公佈](../Page/2010年10月.md "wikilink")，只能發射.45
-[口徑橡膠子彈類](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性手槍](https://zh.wikipedia.org/wiki/非致命性武器 "wikilink")。\[14\]
+[口徑橡膠子彈類](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥的](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[非致命性手槍](../Page/非致命性武器.md "wikilink")。\[14\]
 
 ## 使用國
 
@@ -160,7 +160,7 @@ GSh-18T（）是GSh-18的民用型版本，於[2010年10月公佈](../Page/2010�
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
   - 2010年—《[阿尔法协议](../Page/阿尔法协议.md "wikilink")》：命名為「UC
-    .50手槍」，在莫斯科後找到格里戈里以後解鎖，奇怪地發射.50口徑子彈。升級後的淺棕色[底把版本則命名為](https://zh.wikipedia.org/wiki/机匣 "wikilink")「UC哥薩克手槍」；再升級後的版本則命名為「UC委員手槍」。起始彈藥容量是12發（「UC委員手槍」則為13發），可提升至18發（「UC委員手槍」則為19發）。可以使用Mark
+    .50手槍」，在莫斯科後找到格里戈里以後解鎖，奇怪地發射.50口徑子彈。升級後的淺棕色[底把版本則命名為](../Page/机匣.md "wikilink")「UC哥薩克手槍」；再升級後的版本則命名為「UC委員手槍」。起始彈藥容量是12發（「UC委員手槍」則為13發），可提升至18發（「UC委員手槍」則為19發）。可以使用Mark
     3[消聲器和](../Page/抑制器.md "wikilink")[紅點鏡技能](../Page/紅點鏡.md "wikilink")。
   - 2012年—《[-{zh:火線獵殺：未來戰士; zh-hans:幽灵行动：未来战士;
     zh-tw:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》：命名為「GSh-18」，18發[彈匣](../Page/彈匣.md "wikilink")，可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[消聲器](../Page/抑制器.md "wikilink")、[燃燒彈藥和](https://zh.wikipedia.org/wiki/燃烧弹 "wikilink")[雷射瞄準器技能](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
@@ -174,8 +174,7 @@ GSh-18T（）是GSh-18的民用型版本，於[2010年10月公佈](../Page/2010�
 
   - [SR-1「維克多」](../Page/SR-1維克多手槍.md "wikilink")
 
-  - [阿森納Strike
-    One](https://zh.wikipedia.org/wiki/阿森納槍械Strike_One手槍 "wikilink")
+  - [阿森納Strike One](../Page/阿森納槍械Strike_One手槍.md "wikilink")
 
   - [Udav「大蟒蛇」](https://zh.wikipedia.org/wiki/Udav大蟒蛇手槍 "wikilink")
 

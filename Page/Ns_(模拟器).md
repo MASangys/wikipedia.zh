@@ -7,9 +7,9 @@ preview date = | programming language =
 [FreeBSD](../Page/FreeBSD.md "wikilink"), [Mac OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") | platform =
 [IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink"),
-[x86-64](../Page/x86-64.md "wikilink") | status = 活跃 | genre =
-[网络模拟](https://zh.wikipedia.org/wiki/网络模拟 "wikilink") | license
-= [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =  }}
+[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") | status = 活跃
+| genre = [网络模拟](https://zh.wikipedia.org/wiki/网络模拟 "wikilink") |
+license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =  }}
 
 **ns**（来源于“network
 simulator”）是一系列[离散事件](https://zh.wikipedia.org/wiki/离散事件仿真 "wikilink")[网络模拟器](https://zh.wikipedia.org/wiki/网络模拟器 "wikilink")，包括**ns-1**、**ns-2**和**ns-3**。他们主要应用于研究\[4\]和教学。ns-3是[自由软件](../Page/自由软件.md "wikilink")，以GNU
@@ -73,7 +73,7 @@ tree)“）。\[8\]一些主要的目标包括了更好的支持网络模拟、�
 
 ns-3的开发始于2006年7月1日。\[9\]\[10\]代码主要由Mathieu
 Lacage编写，并利用了部分yans模拟器、佐治亚理工学院网络模拟器（GTNetS）及ns-2的代码。Gustavo
-Carneiro贡献了一个框架，包括生成Python绑定（[pybindgen](https://zh.wikipedia.org/wiki/pybindgen "wikilink")）及使用[Waf编译系统](https://zh.wikipedia.org/wiki/Waf "wikilink")。
+Carneiro贡献了一个框架，包括生成Python绑定（[pybindgen](https://zh.wikipedia.org/wiki/pybindgen "wikilink")）及使用[Waf编译系统](../Page/Waf.md "wikilink")。
 
 2008年6月，ns-3发布了ns-3.1，之后项目在每个季度发布，直到最近变成了1年3次发布。ns-3在2012年第三季度发布了它的第15版（ns-3.15）。\[11\]
 

@@ -1,7 +1,7 @@
 **Muv-Luv Alternative Total
 Eclipse**（）是[日本遊戲公司](../Page/日本.md "wikilink")[âge的電玩作品](https://zh.wikipedia.org/wiki/âge "wikilink")[Muv-Luv
-Alternative的](../Page/Muv-Luv_Alternative.md "wikilink")[衍生作品](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")（外传），原作為揭載於[Enterbrain社](../Page/Enterbrain.md "wikilink")《[TECH
-GIAN](https://zh.wikipedia.org/wiki/TECH_GIAN "wikilink")》上的小說，作者為[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉宗鋼紀 "wikilink")，自2007年12月25日起開始連載，之後小說內容被改編成漫畫、動畫、PS3遊戲、Xbox
+Alternative的](../Page/Muv-Luv_Alternative.md "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")（外传），原作為揭載於[Enterbrain社](../Page/Enterbrain.md "wikilink")《[TECH
+GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉宗鋼紀 "wikilink")，自2007年12月25日起開始連載，之後小說內容被改編成漫畫、動畫、PS3遊戲、Xbox
 360遊戲、PC遊戲。動畫版自2012年7月1日起開播。
 
 ## 劇情
@@ -56,11 +56,11 @@ GIAN](https://zh.wikipedia.org/wiki/TECH_GIAN "wikilink")》上的小說，作�
 ### 制作人员
 
   - 原作・製作总指揮：[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉田博彦 "wikilink")
-  - 監督：[稻垣隆行](https://zh.wikipedia.org/wiki/稻垣隆行 "wikilink")（第1話、第2話）→安藤正臣
+  - 監督：[稻垣隆行](../Page/稻垣隆行.md "wikilink")（第1話、第2話）→安藤正臣
   - 副監督：安藤正臣（第1話、第2話）
   - 系列构成：稻垣隆行
   - 机械设计：吉宗綱紀、[Niθ](https://zh.wikipedia.org/wiki/Niθ "wikilink")、フヂロウ、[柳瀨敬之](../Page/柳瀨敬之.md "wikilink")、星野秀輝（第3話：）
-  - 动画角色设计：[原由美子](https://zh.wikipedia.org/wiki/原由美子 "wikilink")
+  - 动画角色设计：[原由美子](../Page/原由美子.md "wikilink")
   - 总作画監督：水上ろんど、篠原健二
   - BETA/效果監督：和田大
   - 机械设计动画：川原智弘、大河広行
@@ -232,7 +232,7 @@ KIM YONG-SIK</p></td>
 <td><p>第三話</p></td>
 <td></td>
 <td><p>鏗鏘的育空</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/稻垣隆行" title="wikilink">稻垣隆行</a></p></td>
+<td><p><a href="../Page/稻垣隆行.md" title="wikilink">稻垣隆行</a></p></td>
 <td><p><a href="../Page/福田道生.md" title="wikilink">福田道生</a></p></td>
 <td><p>ヤマトナオミチ</p></td>
 <td><p>山田裕子</p></td>
@@ -265,7 +265,7 @@ KIM YONG-SIK</p></td>
 <td><p>第六話</p></td>
 <td></td>
 <td><p>群青</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
 <td><p>福田道生</p></td>
 <td><p>飯村正之</p></td>
 <td><p>清水勝祐、そらもとかん<br />
@@ -276,7 +276,7 @@ KIM YONG-SIK</p></td>
 <td><p>第七話</p></td>
 <td></td>
 <td><p>漂泊的方向</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>阿部雅司</p></td>
 <td><p>古川博之、山田裕子<br />
 山内則康</p></td>
@@ -564,7 +564,7 @@ HEO GIDONG</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="../Page/NICONICO動畫.md" title="wikilink">NICONICO生放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NICONICO動畫" title="wikilink">NICONICO生放送</a></p></td>
 <td><p>2012年7月7日 -</p></td>
 <td><p>土曜 24:00 - 24:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/网上直播" title="wikilink">网上直播</a></p></td>

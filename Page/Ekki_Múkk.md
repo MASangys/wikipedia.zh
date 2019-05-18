@@ -9,7 +9,7 @@
 
 "Ekki Múkk" 的動畫影片是在2012年3月26日公佈在他們的官方網站
 sigurros.com\[4\]、[Vimeo](../Page/Vimeo.md "wikilink")\[5\] 以及
-[Youtube](../Page/Youtube.md "wikilink")\[6\]。
+[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]。
 
 ## 参考资料
 

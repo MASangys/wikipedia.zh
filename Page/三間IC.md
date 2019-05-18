@@ -1,4 +1,4 @@
-**三間IC**（平假名：みまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市的](../Page/宇和島市.md "wikilink")[松山自動車道之](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**三間IC**（平假名：みまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市的](../Page/宇和島市.md "wikilink")[松山自動車道之](../Page/松山自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 2012年3月10日 -
-    [松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")[西予宇和IC至](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink")[宇和島北IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
+    [松山自動車道](../Page/松山自動車道.md "wikilink")[西予宇和IC至](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink")[宇和島北IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -28,7 +28,7 @@
 
 ## 鄰近設施
 
-  - [松山自動車道](https://zh.wikipedia.org/wiki/松山自動車道 "wikilink")
+  - [松山自動車道](../Page/松山自動車道.md "wikilink")
     (22)[西予宇和IC](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink") -
     (23)**三間IC** -
     (24)[宇和島北IC](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")

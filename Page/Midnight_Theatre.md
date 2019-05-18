@@ -1,6 +1,6 @@
 **《Midnight Theatre》**是韓國Pop
 Dance組合[SS501成員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO）於2012年12月19日，由[Victor
-Entertainment](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")/Colourful
+Entertainment](../Page/勝利娛樂.md "wikilink")/Colourful
 Records所發行的首張日語正規專輯。
 
 ## 專輯概述

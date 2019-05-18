@@ -1,14 +1,14 @@
 **EXILE THE
-SECOND**是[日本的六人舞蹈及歌唱組合](../Page/日本.md "wikilink")。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能事務所\) "wikilink")。唱片公司是[rhythm
-zone](../Page/rhythm_zone.md "wikilink")。
+SECOND**是[日本的六人舞蹈及歌唱組合](../Page/日本.md "wikilink")。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm
+zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
   - 2012年7月1日、於巨蛋巡演「EXILE TRIBE LIVE TOUR 2012 ～TOWER OF
     WISH～」的最終日中發表了為[EXILE
-    TRIBE的新組合組及開始活動](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")\[1\]。
+    TRIBE的新組合組及開始活動](../Page/EXILE_TRIBE.md "wikilink")\[1\]。
   - 2012年11月7日、單曲「[THINK 'BOUT
-    IT\!](https://zh.wikipedia.org/wiki/THINK_'BOUT_IT! "wikilink")」出道。
+    IT\!](../Page/THINK_'BOUT_IT!.md "wikilink")」出道。
   - 2015 年12月4日於[大阪巨蛋舉行的](../Page/大阪巨蛋.md "wikilink")「EXILE LIVE TOUR
     2015 "AMAZING WORLD"」中發表了會於2016年秋天起舉行Arena Tour
     。另外、至今也只有在EXILE、EXILE
@@ -16,7 +16,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
   - 2016年2月 - 4月、首次舉辧FANCLUB活動「EX FAMILY限定\! THE SECOND from EXILE "
     kickoff meeting"」\[4\]。5月20日、團名由「THE SECOND from EXILE」改名為『**EXILE
     THE SECOND**』。9月5日、發表了EXILE的[EXILE
-    AKIRA以表演者身份加入](https://zh.wikipedia.org/wiki/AKIRA "wikilink")、成為六人組合\[5\]。
+    AKIRA以表演者身份加入](../Page/AKIRA.md "wikilink")、成為六人組合\[5\]。
   - 2016年10月 - 2017年5月舉行首次的單獨巡迴演唱會「EXILE THE SECOND LIVE TOUR 2016-2017
     "WILD WILD WARRIORS"」。
 
@@ -37,7 +37,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/KENCHI" title="wikilink">橘KENCHI</a></strong></p></td>
+<td><p><strong><a href="../Page/KENCHI.md" title="wikilink">橘KENCHI</a></strong></p></td>
 <td><p>隊長兼表演者</p></td>
 <td><ul>
 <li>1979年9月28日出生。</li>
@@ -45,7 +45,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/KEIJI" title="wikilink">黑木啓司</a></strong></p></td>
+<td><p><strong><a href="../Page/KEIJI.md" title="wikilink">黑木啓司</a></strong></p></td>
 <td><p>表演者</p></td>
 <td><ul>
 <li>1980年1月21日出生。</li>
@@ -53,7 +53,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TETSUYA_(舞者)" title="wikilink">EXILE TETSUYA</a></strong></p></td>
+<td><p><strong><a href="../Page/TETSUYA_(舞者).md" title="wikilink">EXILE TETSUYA</a></strong></p></td>
 <td><ul>
 <li>1981年2月18日出生。</li>
 <li>神奈川縣横須賀市出身。身高175cm。血型：O型</li>
@@ -61,7 +61,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/NESMITH" title="wikilink">EXILE NESMITH</a></strong></p></td>
+<td><p><strong><a href="../Page/NESMITH.md" title="wikilink">EXILE NESMITH</a></strong></p></td>
 <td><p>主唱兼<br />
 表演者</p></td>
 <td><ul>
@@ -70,7 +70,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/SHOKICHI" title="wikilink">EXILE SHOKICHI</a></strong></p></td>
+<td><p><strong><a href="../Page/SHOKICHI.md" title="wikilink">EXILE SHOKICHI</a></strong></p></td>
 <td><ul>
 <li>1985年10月3日出生。</li>
 <li><a href="../Page/北海道.md" title="wikilink">北海道</a><a href="../Page/苫小牧市.md" title="wikilink">苫小牧市出身</a>。身高182cm。血型：A型</li>
@@ -78,7 +78,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/AKIRA" title="wikilink">EXILE AKIRA</a></strong><br />
+<td><p><strong><a href="../Page/AKIRA.md" title="wikilink">EXILE AKIRA</a></strong><br />
 </p></td>
 <td><p>表演者</p></td>
 <td></td>
@@ -108,7 +108,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2012年11月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/THINK_&#39;BOUT_IT!" title="wikilink">THINK 'BOUT IT!</a></strong></p></td>
+<td><p><strong><a href="../Page/THINK_&#39;BOUT_IT!.md" title="wikilink">THINK 'BOUT IT!</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -132,7 +132,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2016年9月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/WILD_WILD_WILD" title="wikilink">WILD WILD WILD</a></strong></p></td>
+<td><p><strong><a href="../Page/WILD_WILD_WILD.md" title="wikilink">WILD WILD WILD</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -183,7 +183,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2014年2月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/THE_II_AGE" title="wikilink">THE II AGE</a></strong></p></td>
+<td><p><strong><a href="../Page/THE_II_AGE.md" title="wikilink">THE II AGE</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -209,15 +209,15 @@ zone](../Page/rhythm_zone.md "wikilink")。
 
 ### 参加作品
 
-| 發售日                             | 曲名                                                                 | 收錄作品                                                                                                                                                           |
-| ------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012年9月5日                       | 24karats TRIBE OF GOLD                                             | [EXILE TRIBE](https://zh.wikipedia.org/wiki/EXILE_TRIBE "wikilink")「[24karats TRIBE OF GOLD](https://zh.wikipedia.org/wiki/24karats_TRIBE_OF_GOLD "wikilink")」 |
-| 2014年8月20日                      | THE REVOLUTION                                                     | EXILE TRIBE「[THE REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")」                                                                         |
-| 2014年8月27日                      | 24WORLD                                                            | EXILE TRIBE『[EXILE TRIBE REVOLUTION](https://zh.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")』                                                         |
-| 2016年6月15日                      | One Time One Life                                                  | rowspan="2|V.A.『[HiGH\&LOW ORIGINAL BEST ALBUM](https://zh.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")』                                        |
-| ASOBO\! feat. Far East Movement |                                                                    |                                                                                                                                                                |
-| 2017年2月1日                       | HEART OF A LION                                                    | [DANCE EARTH PARTY](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")『I』                                                                             |
-| 2017年8月2日                       | INTO THE CIRCLE feat. METHOD MAN (Wu-Tang Clan) , EXILE THE SECOND | PKCZ『360° ChamberZ』                                                                                                                                            |
+| 發售日                             | 曲名                                                                 | 收錄作品                                                                                                                     |
+| ------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| 2012年9月5日                       | 24karats TRIBE OF GOLD                                             | [EXILE TRIBE](../Page/EXILE_TRIBE.md "wikilink")「[24karats TRIBE OF GOLD](../Page/24karats_TRIBE_OF_GOLD.md "wikilink")」 |
+| 2014年8月20日                      | THE REVOLUTION                                                     | EXILE TRIBE「[THE REVOLUTION](https://zh.wikipedia.org/wiki/THE_REVOLUTION "wikilink")」                                   |
+| 2014年8月27日                      | 24WORLD                                                            | EXILE TRIBE『[EXILE TRIBE REVOLUTION](https://zh.wikipedia.org/wiki/EXILE_TRIBE_REVOLUTION "wikilink")』                   |
+| 2016年6月15日                      | One Time One Life                                                  | rowspan="2|V.A.『[HiGH\&LOW ORIGINAL BEST ALBUM](https://zh.wikipedia.org/wiki/HiGH&LOW_ORIGINAL_BEST_ALBUM "wikilink")』  |
+| ASOBO\! feat. Far East Movement |                                                                    |                                                                                                                          |
+| 2017年2月1日                       | HEART OF A LION                                                    | [DANCE EARTH PARTY](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")『I』                                       |
+| 2017年8月2日                       | INTO THE CIRCLE feat. METHOD MAN (Wu-Tang Clan) , EXILE THE SECOND | PKCZ『360° ChamberZ』                                                                                                      |
 
 ## 商業搭配
 
@@ -238,7 +238,7 @@ zone](../Page/rhythm_zone.md "wikilink")。
 | ASOBO\! feat. Far East Movement                                                                                    | 日本電視台系劇集「[HiGH\&LOW〜THE STORY OF S.W.O.R.D.〜](https://zh.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")」插曲 |
 | YEAH                                                                                                               | YEAH                                                                                                                         |
 | WILD WILD WILD                                                                                                     | TBS系『[王様のブランチ](https://zh.wikipedia.org/wiki/王様のブランチ "wikilink")』2016年9月份片尾曲                                                 |
-| 電影『[自殺突擊隊](https://zh.wikipedia.org/wiki/自殺突擊隊 "wikilink")』日本版TVCM 印象歌                                             |                                                                                                                              |
+| 電影『[自殺突擊隊](../Page/自殺突擊隊.md "wikilink")』日本版TVCM 印象歌                                                                |                                                                                                                              |
 | [洋服の青山](https://zh.wikipedia.org/wiki/青山商事 "wikilink")「AOYAMA PRESTIGE TECHNOLOGY」CMソング                            |                                                                                                                              |
 | [Alpen](https://zh.wikipedia.org/wiki/Alpen "wikilink") × adidas「ADIDAS DREAM CAMPAIGN With EXILE THE SECOND」 廣告歌  |                                                                                                                              |
 | HEART OF A LION\[6\]                                                                                               | [和真](https://zh.wikipedia.org/wiki/和真 "wikilink")「UTMO」廣告歌                                                                   |

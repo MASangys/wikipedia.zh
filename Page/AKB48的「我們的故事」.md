@@ -737,7 +737,7 @@
 </tr>
 <tr class="even">
 <td><p>1組目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/島田玲奈" title="wikilink">島田玲奈</a>・<a href="../Page/村上文香.md" title="wikilink">村上文香</a></p></td>
+<td><p><a href="../Page/島田玲奈.md" title="wikilink">島田玲奈</a>・<a href="../Page/村上文香.md" title="wikilink">村上文香</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/teamB_4th_Stage「偶像的黎明」" title="wikilink">偶像的黎明</a></p></td>
 </tr>
 <tr class="odd">
@@ -848,7 +848,7 @@
 [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
 
-1.  只限[廣島](https://zh.wikipedia.org/wiki/NHK廣島放送局 "wikilink")，只限2011年度
+1.  只限[廣島](../Page/NHK廣島放送局.md "wikilink")，只限2011年度
 
 2.  只在[French
     Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")3人出演

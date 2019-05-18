@@ -7,7 +7,7 @@ RECORDS。
 2010年、以[宮城縣](../Page/宮城縣.md "wikilink")[仙台市為主要據點的經紀公司中](../Page/仙台市.md "wikilink")，由該公司旗下團體、[B♭](https://zh.wikipedia.org/wiki/B♭ "wikilink")、Dorothy
 Little Happy 官方舞者中所選拔出的五位團員所組成。
 
-2015年4月28日宣佈、MIMORI（富永美杜）、RUUNA（秋元瑠海）、KOUMI（早坂香美）3位成員於7月12日[中野太陽廣場舉行的](https://zh.wikipedia.org/wiki/中野太陽廣場 "wikilink")「Dorothy
+2015年4月28日宣佈、MIMORI（富永美杜）、RUUNA（秋元瑠海）、KOUMI（早坂香美）3位成員於7月12日[中野太陽廣場舉行的](../Page/中野太陽廣場.md "wikilink")「Dorothy
 Little Happy Live Tour 2015 5th Anniversary ～just move on～」最終場後從Dorothy
 Little
 Happy畢業，並會以新團體[callme名義活動](https://zh.wikipedia.org/wiki/callme "wikilink")。
@@ -71,7 +71,8 @@ FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")
 
   - 2010年8月4日 - 以「JUMP！（）」獨立製片單曲出道。
   - 2010年12月1日 - 發行第二張單曲「冬櫻 ～Winter flower～（）」
-  - 2011年3月16日 - 在 [avex trax](../Page/avex_trax.md "wikilink")
+  - 2011年3月16日 - 在 [avex
+    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")
     發行正式出道迷你專輯「但是說再見（）」
   - 2012年1月11日 - 在 avex trax 發行第一張正式單曲「HAPPY
     DAYS\!」。同時發行獨立製片時期的重製迷你專輯「但是說再見

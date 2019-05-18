@@ -7,8 +7,7 @@
     N05AA02
     [左美丙嗪](https://zh.wikipedia.org/wiki/左美丙嗪 "wikilink")（Levomepromazine）
     N05AA03 [丙嗪](https://zh.wikipedia.org/wiki/丙嗪 "wikilink")（Promazine）
-    N05AA04
-    [乙酰丙嗪](https://zh.wikipedia.org/wiki/乙酰丙嗪 "wikilink")（Acepromazine）
+    N05AA04 [乙酰丙嗪](../Page/乙酰丙嗪.md "wikilink")（Acepromazine）
     N05AA05
     [三氟丙嗪](https://zh.wikipedia.org/wiki/三氟丙嗪 "wikilink")（Triflupromazine）
     N05AA06
@@ -16,13 +15,12 @@
     N05AA07
     [氯丙沙嗪](https://zh.wikipedia.org/wiki/氯丙沙嗪 "wikilink")（Chlorproethazine）
 
-### N05AB 带有[哌嗪结构的吩噻嗪类](https://zh.wikipedia.org/wiki/哌嗪 "wikilink")（Phenothiazines with piperazine structure）
+### N05AB 带有[哌嗪结构的吩噻嗪类](../Page/哌嗪.md "wikilink")（Phenothiazines with piperazine structure）
 
   -
     N05AB01
     [地西拉嗪](https://zh.wikipedia.org/wiki/地西拉嗪 "wikilink")（Dixyrazine）
-    N05AB02
-    [氟奋乃静](https://zh.wikipedia.org/wiki/氟奋乃静 "wikilink")（Fluphenazine）
+    N05AB02 [氟奋乃静](../Page/氟奋乃静.md "wikilink")（Fluphenazine）
     N05AB03
     [奋乃静](https://zh.wikipedia.org/wiki/奋乃静 "wikilink")（Perphenazine）
     N05AB04
@@ -78,8 +76,7 @@
 ### N05AE [吲哚衍生物类](../Page/吲哚.md "wikilink")（Indole derivatives）
 
   -
-    N05AE01
-    [奥昔哌汀](https://zh.wikipedia.org/wiki/奥昔哌汀 "wikilink")（Oxypertine）
+    N05AE01 [奥昔哌汀](../Page/奥昔哌汀.md "wikilink")（Oxypertine）
     N05AE02
     [吗茚酮](https://zh.wikipedia.org/wiki/吗茚酮 "wikilink")（Molindone）
     N05AE03
@@ -116,8 +113,7 @@
   -
     N05AH01
     [洛沙平](https://zh.wikipedia.org/wiki/洛沙平 "wikilink")（Loxapine）
-    N05AH02
-    [氯氮平](https://zh.wikipedia.org/wiki/氯氮平 "wikilink")（Clozapine）
+    N05AH02 [氯氮平](../Page/氯氮平.md "wikilink")（Clozapine）
     N05AH03 [奥氮平](../Page/奥氮平.md "wikilink")（Olanzapine）
     N05AH04 [喹硫平](../Page/喹硫平.md "wikilink")（Quetiapine）
     N05AH05
@@ -127,7 +123,7 @@
 
 ### QN05AK 神经松驰剂，[迟发性运动障碍](https://zh.wikipedia.org/wiki/迟发性运动障碍 "wikilink")（Neuroleptics, in tardive dyskinesia）
 
-### N05AL [苯甲酰胺类](https://zh.wikipedia.org/wiki/苯甲酰胺 "wikilink")（Benzamides）
+### N05AL [苯甲酰胺类](../Page/苯甲酰胺.md "wikilink")（Benzamides）
 
   -
     N05AL01 [舒必利](../Page/舒必利.md "wikilink")（Sulpiride）
@@ -137,8 +133,7 @@
     [硫必利](https://zh.wikipedia.org/wiki/硫必利 "wikilink")（Tiapride）
     N05AL04
     [瑞莫必利](https://zh.wikipedia.org/wiki/瑞莫必利 "wikilink")（Remoxipride）
-    N05AL05
-    [氨磺必利](https://zh.wikipedia.org/wiki/氨磺必利 "wikilink")（Amisulpride）
+    N05AL05 [氨磺必利](../Page/氨磺必利.md "wikilink")（Amisulpride）
     N05AL06
     [维拉必利](https://zh.wikipedia.org/wiki/维拉必利 "wikilink")（Veralipride）
     N05AL07
@@ -190,7 +185,7 @@
     N05BA14
     N05BA15
     N05BA16
-    N05BA17 [氟地西泮](https://zh.wikipedia.org/wiki/氟地西泮 "wikilink")
+    N05BA17 [氟地西泮](../Page/氟地西泮.md "wikilink")
     N05BA18
     N05BA19
     N05BA21
@@ -248,7 +243,7 @@
     N05CA11
     N05CA12
     N05CA15
-    N05CA16 [环己巴比妥](https://zh.wikipedia.org/wiki/环己巴比妥 "wikilink")
+    N05CA16 [环己巴比妥](../Page/环己巴比妥.md "wikilink")
     N05CA19 [硫噴妥鈉](../Page/硫噴妥鈉.md "wikilink")
     N05CA20
     N05CA21
@@ -300,8 +295,7 @@
     N05CF01 佐匹克隆 [佐匹克隆](../Page/佐匹克隆.md "wikilink")
     N05CF02 唑吡坦 [唑吡坦](../Page/唑吡坦.md "wikilink")
     N05CF03 扎来普隆
-    N05CF04 右佐匹克隆
-    [艾司佐匹克隆](https://zh.wikipedia.org/wiki/艾司佐匹克隆 "wikilink")
+    N05CF04 右佐匹克隆 [艾司佐匹克隆](../Page/艾司佐匹克隆.md "wikilink")
 
 ### N05CH 美洛托宁受体激动剂（Melatonin receptor agonists）
 
@@ -312,7 +306,7 @@
 ### N05CM 其它催眠镇静药（Other hypnotics and sedatives）
 
   -
-    N05CM01 安眠酮 [安眠酮](https://zh.wikipedia.org/wiki/安眠酮 "wikilink")
+    N05CM01 安眠酮 [安眠酮](../Page/安眠酮.md "wikilink")
     N05CM02
     N05CM03 溴米那
     N05CM04
@@ -338,8 +332,7 @@
 
   -
     N05CX01 , combinations
-    N05CX02 [安眠酮](https://zh.wikipedia.org/wiki/安眠酮 "wikilink"),
-    combinations
+    N05CX02 [安眠酮](../Page/安眠酮.md "wikilink"), combinations
     N05CX03 , combinations
     N05CX04 , combinations
     N05CX05 , combinations

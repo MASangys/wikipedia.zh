@@ -1,4 +1,4 @@
-**熊毛IC**（平假名：くまげインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[周南市的](../Page/周南市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**熊毛IC**（平假名：くまげインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[周南市的](../Page/周南市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -14,7 +14,7 @@
 ## 歷史
 
   - 1990年12月20日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[德山東IC至熊毛IC之間開通](https://zh.wikipedia.org/wiki/德山東IC "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[德山東IC至熊毛IC之間開通](https://zh.wikipedia.org/wiki/德山東IC "wikilink")，此交流道也同時啟用。
   - 1992年6月25日 - 山陽自動車道熊毛IC至[岩國IC之間開通](../Page/岩國IC.md "wikilink")。
 
 ## 收費站設施
@@ -41,7 +41,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (35)[玖珂IC](../Page/玖珂IC.md "wikilink") - (36)**熊毛IC** -
     [下松SA](https://zh.wikipedia.org/wiki/下松SA "wikilink") -
     (37)[德山東IC](https://zh.wikipedia.org/wiki/德山東IC "wikilink")

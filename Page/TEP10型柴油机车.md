@@ -2,7 +2,7 @@
 
 1960年，馬雷舍夫工廠在[TE10型柴油机车的基础上](../Page/TE10型柴油机车.md "wikilink")，通过改变牵引齿轮传动比，开发研制了TEP10型客运机车。机车的牵引齿轮传动比由15：68（1：4.53）加大到20：63（1：3.15），最大运行速度由100公里/小时提高到140公里/小时，持续牵引力下降到17,200千牛，燃油装载量从6500升减少到5000升，并设置了电阻制动装置，车体外观也经过重新设计。从109号机车开始统一采用ED-107型牵引电动机（ЭД-107），该型电动机是所有TE10系列柴油机车及[TEM2型柴油机车的通用电动机](../Page/TEM2型柴油机车.md "wikilink")，额定功率305千瓦。
 
-TEP10型柴油机车主要配属[十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")、[高尔基铁路局](https://zh.wikipedia.org/wiki/高尔基铁路局 "wikilink")、[中亚铁路局使用](https://zh.wikipedia.org/wiki/中亚铁路局 "wikilink")，至1980年代末大部分TEP10型机车已经报废。
+TEP10型柴油机车主要配属[十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")、[高尔基铁路局](../Page/高尔基铁路局.md "wikilink")、[中亚铁路局使用](https://zh.wikipedia.org/wiki/中亚铁路局 "wikilink")，至1980年代末大部分TEP10型机车已经报废。
 
 ## 参看
 

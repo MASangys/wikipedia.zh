@@ -27,9 +27,7 @@
     B03AA10
     [抗坏血酸亚铁](https://zh.wikipedia.org/wiki/抗坏血酸亚铁 "wikilink")（Ferrous
     ascorbate）
-    B03AA11
-    [碘化亚铁](https://zh.wikipedia.org/wiki/碘化亚铁 "wikilink")（Ferrous
-    iodine）
+    B03AA11 [碘化亚铁](../Page/碘化亚铁.md "wikilink")（Ferrous iodine）
 
 ### B03AB 口服三价铁制剂（Iron trivalent, oral preparations）
 

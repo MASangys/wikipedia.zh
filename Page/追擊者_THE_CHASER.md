@@ -68,7 +68,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李慧仁_(演員)" title="wikilink">李慧仁</a></p></td>
+<p><a href="../Page/李慧仁_(演員).md" title="wikilink">李慧仁</a></p></td>
 <td><center>
 <p>白秀晶</p></td>
 <td><center>
@@ -111,7 +111,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/柳承秀" title="wikilink">柳承秀</a></p></td>
+<p><a href="../Page/柳承秀.md" title="wikilink">柳承秀</a></p></td>
 <td><center>
 <p>崔政宇</p></td>
 <td><center>
@@ -120,7 +120,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴孝珠" title="wikilink">朴孝珠</a></p></td>
+<p><a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
 <td><center>
 <p>趙南淑</p></td>
 <td><center>
@@ -129,7 +129,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/姜信日" title="wikilink">姜信日</a></p></td>
+<p><a href="../Page/姜信日.md" title="wikilink">姜信日</a></p></td>
 <td><center>
 <p>黃日官</p></td>
 <td><center>
@@ -138,7 +138,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/崔俊用" title="wikilink">崔俊用</a></p></td>
+<p><a href="../Page/崔俊用.md" title="wikilink">崔俊用</a></p></td>
 <td><center>
 <p>尹昌民</p></td>
 <td><center>
@@ -147,7 +147,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙在允" title="wikilink">趙在允</a></p></td>
+<p><a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
 <td><center>
 <p>朴永石</p></td>
 <td><center>
@@ -190,7 +190,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金成鈴" title="wikilink">金成鈴</a></p></td>
+<p><a href="../Page/金成鈴.md" title="wikilink">金成鈴</a></p></td>
 <td><center>
 <p>徐智秀</p></td>
 <td><center>
@@ -260,7 +260,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/全國煥" title="wikilink">全國煥</a></p></td>
+<p><a href="../Page/全國煥.md" title="wikilink">全國煥</a></p></td>
 <td><center>
 <p>張炳浩</p></td>
 <td><center>
@@ -307,7 +307,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 獲獎
 
-  - 2012年[第5屆韓國電視劇節](https://zh.wikipedia.org/wiki/韓國電視劇節 "wikilink")
+  - 2012年[第5屆韓國電視劇節](../Page/韓國電視劇節.md "wikilink")
       - 最佳男演員：[金相中](../Page/金相中.md "wikilink")
 
 <!-- end list -->
@@ -328,13 +328,12 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
       - 大賞：孫賢周
       - 無線三台放送PD奬：[朴根瀅](../Page/朴根瀅.md "wikilink")
       - 迷你系列劇部門 男子優秀演技獎：金相中
-      - 迷你系列劇部門
-        女子優秀演技獎：[金成鈴](https://zh.wikipedia.org/wiki/金成鈴 "wikilink")
+      - 迷你系列劇部門 女子優秀演技獎：[金成鈴](../Page/金成鈴.md "wikilink")
       - 迷你系列劇部門
         女子特別演技獎：[張新英](https://zh.wikipedia.org/wiki/張新英 "wikilink")
       - 10大明星奬：孫賢周
       - New
-        Star奬：[朴孝珠](https://zh.wikipedia.org/wiki/朴孝珠 "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
+        Star奬：[朴孝珠](../Page/朴孝珠.md "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
 
 <!-- end list -->
 

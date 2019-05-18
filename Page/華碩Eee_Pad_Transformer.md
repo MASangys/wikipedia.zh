@@ -10,7 +10,7 @@ Asus Eee Pad Transformer使用 [NVIDIA
 Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") 250
 1GHz[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")、1GB[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、16GB[快閃記憶體儲存](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")；10.1吋[電容式](https://zh.wikipedia.org/wiki/電容式 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")[IPS](https://zh.wikipedia.org/wiki/IPS "wikilink")[液晶顯示屏](../Page/液晶.md "wikilink")（解像度1280
 ×
-800）、後置500萬像素[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")、前置130萬像素視訊鏡頭。連接介面包括40針專用連接插槽、Mini-[HDMI](../Page/HDMI.md "wikilink")1.3a及3.5mm耳機插孔，及[microSD插槽](../Page/microSD.md "wikilink")。
+800）、後置500萬像素[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")、前置130萬像素視訊鏡頭。連接介面包括40針專用連接插槽、Mini-[HDMI](../Page/HDMI.md "wikilink")1.3a及3.5mm耳機插孔，及[microSD插槽](https://zh.wikipedia.org/wiki/microSD "wikilink")。
 
 ## 軟件
 

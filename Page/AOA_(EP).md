@@ -20,8 +20,8 @@
 <tr class="odd">
 <td><p>1.</p></td>
 <td><p>我主場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱俊傑" title="wikilink">朱俊傑</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曾紀諾" title="wikilink">曾紀諾</a><br />
+<td><p><a href="../Page/朱俊傑.md" title="wikilink">朱俊傑</a></p></td>
+<td><p><a href="../Page/曾紀諾.md" title="wikilink">曾紀諾</a><br />
 <a href="https://zh.wikipedia.org/wiki/張楚翹" title="wikilink">張楚翹</a><br />
 <a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p>朱俊傑</p></td>
@@ -61,7 +61,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Matt_Wong" title="wikilink">Matt Wong</a></p></td>
 <td><p><a href="../Page/C君.md" title="wikilink">C君</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Randy_Chow" title="wikilink">Randy Chow</a><br />
-<a href="https://zh.wikipedia.org/wiki/徐浩_(歌手)" title="wikilink">徐浩</a></p></td>
+<a href="../Page/徐浩_(歌手).md" title="wikilink">徐浩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Edward_Chan" title="wikilink">Edward Chan</a><br />
 Randy Chow</p></td>
 <td><p><strong>第二主打</strong></p></td>
@@ -70,7 +70,7 @@ Randy Chow</p></td>
 <td><p>6.</p></td>
 <td><p>回家</p></td>
 <td><p>徐浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/多多_(填詞人)" title="wikilink">多多</a></p></td>
+<td><p><a href="../Page/多多_(填詞人).md" title="wikilink">多多</a></p></td>
 <td><p>徐浩</p></td>
 <td><p>徐浩<br />
 Edward Chan</p></td>

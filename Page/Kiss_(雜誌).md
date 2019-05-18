@@ -20,7 +20,7 @@
   - [神は細部に宿るのよ](https://zh.wikipedia.org/wiki/神は細部に宿るのよ "wikilink")
     （[久世番子](https://zh.wikipedia.org/wiki/久世番子 "wikilink")）
   - [銀のスプーン](https://zh.wikipedia.org/wiki/銀のスプーン "wikilink")
-    （[小澤真理](https://zh.wikipedia.org/wiki/小澤真理 "wikilink")）
+    （[小澤真理](../Page/小澤真理.md "wikilink")）
   - [銀盤騎士](https://zh.wikipedia.org/wiki/銀盤騎士 "wikilink")
     （[小川彌生](https://zh.wikipedia.org/wiki/小川彌生 "wikilink")）
   - [海月姫](https://zh.wikipedia.org/wiki/海月姫 "wikilink")
@@ -45,7 +45,7 @@
   - [野田ともうします。](https://zh.wikipedia.org/wiki/野田ともうします。 "wikilink")
     （[柘植文](https://zh.wikipedia.org/wiki/柘植文 "wikilink")）
   - [花吐き乙女](https://zh.wikipedia.org/wiki/花吐き乙女 "wikilink")
-    （[松田奈緒子](https://zh.wikipedia.org/wiki/松田奈緒子 "wikilink")）
+    （[松田奈緒子](../Page/松田奈緒子.md "wikilink")）
   - [バラ色の聖戦](https://zh.wikipedia.org/wiki/バラ色の聖戦 "wikilink")
     （[こやまゆかり](https://zh.wikipedia.org/wiki/こやまゆかり "wikilink")）
   - [ひゃほ〜♪ウニファミリー](https://zh.wikipedia.org/wiki/ひゃほ〜♪ウニファミリー "wikilink")
@@ -53,7 +53,7 @@
   - [ブルーバードブルー](https://zh.wikipedia.org/wiki/ブルーバードブルー "wikilink")
     （[楠田夏子](https://zh.wikipedia.org/wiki/楠田夏子 "wikilink")）
   - [ポケットの中の奇跡](https://zh.wikipedia.org/wiki/ポケットの中の奇跡 "wikilink")
-    （[大和和紀](https://zh.wikipedia.org/wiki/大和和紀 "wikilink")）
+    （[大和和紀](../Page/大和和紀.md "wikilink")）
   - [見かけの二重星](https://zh.wikipedia.org/wiki/見かけの二重星 "wikilink")
     （[つばな](https://zh.wikipedia.org/wiki/つばな "wikilink")）
   - [満ちても欠けても](https://zh.wikipedia.org/wiki/満ちても欠けても "wikilink")
@@ -77,14 +77,14 @@
     （[日向なつお](https://zh.wikipedia.org/wiki/日向なつお "wikilink")）
   - [アンナさんのおまめ](https://zh.wikipedia.org/wiki/アンナさんのおまめ "wikilink")
     （[鈴木由美子](https://zh.wikipedia.org/wiki/鈴木由美子 "wikilink")）
-  - [IS 上帝的惡作劇](https://zh.wikipedia.org/wiki/IS_上帝的惡作劇 "wikilink")
+  - [IS 上帝的惡作劇](../Page/IS_上帝的惡作劇.md "wikilink")
     （[六花千代](https://zh.wikipedia.org/wiki/六花千代 "wikilink")）
   - [あかねSAL☆](https://zh.wikipedia.org/wiki/あかねSAL☆ "wikilink")
     （原作：[岡田惠和](../Page/岡田惠和.md "wikilink")、漫画：[なかはら★ももた](https://zh.wikipedia.org/wiki/なかはら★ももた "wikilink")）
   - [アラビア猫のゴルム](https://zh.wikipedia.org/wiki/アラビア猫のゴルム "wikilink")
     （[ヤマザキマリ](https://zh.wikipedia.org/wiki/ヤマザキマリ "wikilink")）
   - [苺田さんの話](https://zh.wikipedia.org/wiki/苺田さんの話 "wikilink")
-    （[小澤真理](https://zh.wikipedia.org/wiki/小澤真理 "wikilink")）
+    （[小澤真理](../Page/小澤真理.md "wikilink")）
 
 <!-- end list -->
 
@@ -161,7 +161,7 @@
   - [ヒゲの妊婦(43)](https://zh.wikipedia.org/wiki/ヒゲの妊婦\(43\) "wikilink")
     （[ひうらさとる](https://zh.wikipedia.org/wiki/ひうらさとる "wikilink")）
   - [ベビーシッター・ギン\!](https://zh.wikipedia.org/wiki/ベビーシッター・ギン! "wikilink")
-    （[大和和紀](https://zh.wikipedia.org/wiki/大和和紀 "wikilink")）
+    （[大和和紀](../Page/大和和紀.md "wikilink")）
   - [ホタルノヒカリ](https://zh.wikipedia.org/wiki/ホタルノヒカリ_\(漫画\) "wikilink")
     （[ひうらさとる](https://zh.wikipedia.org/wiki/ひうらさとる "wikilink")）
   - [本屋の森のあかり](https://zh.wikipedia.org/wiki/本屋の森のあかり "wikilink")

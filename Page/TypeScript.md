@@ -3,9 +3,9 @@ Pascal的创始人](../Page/Turbo_Pascal.md "wikilink")[安德斯·海尔斯伯�
 
 TypeScript设计目标是开发大型應用，然后转译成JavaScript。\[5\]由于TypeScript是JavaScript的严格超集，任何現有的JavaScript程式都是合法的TypeScript程序。
 
-TypeScript支援為現存JavaScript函式庫添加類型資訊的定义文件，方便其他程序像使用静态类型的值一样使用现有库中的值。目前有第三方提供常用函式庫如[jQuery](../Page/jQuery.md "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js和](../Page/Node.js.md "wikilink")[D3.js的定义文件](https://zh.wikipedia.org/wiki/D3.js "wikilink")。
+TypeScript支援為現存JavaScript函式庫添加類型資訊的定义文件，方便其他程序像使用静态类型的值一样使用现有库中的值。目前有第三方提供常用函式庫如[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js和](../Page/Node.js.md "wikilink")[D3.js的定义文件](../Page/D3.js.md "wikilink")。
 
-TypeScript编译器本身也是用TypeScript编写，并被[转译为JavaScript](https://zh.wikipedia.org/wiki/源到源编译器 "wikilink")，以[Apache
+TypeScript编译器本身也是用TypeScript编写，并被[转译为JavaScript](../Page/源到源编译器.md "wikilink")，以[Apache
 License 2发布](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
 
 ## 背景
@@ -23,11 +23,11 @@ TypeScript是一种给JavaScript添加特性的语言扩展。增加的功能包
   - [类型擦除](../Page/类型擦除.md "wikilink")
   - [接口](../Page/介面_\(資訊科技\).md "wikilink")
   - [枚举](../Page/枚举.md "wikilink")
-  - [Mixin](https://zh.wikipedia.org/wiki/Mixin "wikilink")
+  - [Mixin](../Page/Mixin.md "wikilink")
   - [泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")
   - [命名空间](../Page/命名空间.md "wikilink")
   - [元组](https://zh.wikipedia.org/wiki/元组 "wikilink")
-  - [Await](https://zh.wikipedia.org/wiki/Await "wikilink")
+  - [Await](../Page/Await.md "wikilink")
 
 以下功能是从ECMA 2015反向移植而来：
 
@@ -148,7 +148,7 @@ ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
 <!-- end list -->
 
   - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")
-    是一个开源的、跨平台的代码编辑器，是微软在[Electron](https://zh.wikipedia.org/wiki/Electron "wikilink")
+    是一个开源的、跨平台的代码编辑器，是微软在[Electron](../Page/Electron.md "wikilink")
     的基础上开发的。它支持 TypeScript，同时也支持其他几个语言，同时提供了调试和自动代码补全的功能。
   - [JetBrains](https://zh.wikipedia.org/wiki/JetBrains公司 "wikilink")
     在他们的IDE系列中支持
@@ -161,8 +161,8 @@ ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
     [TypeScript 插件](https://atom.io/packages/atom-typescript)， 由
     [Basarat](https://zh.wikipedia.org/wiki/Basarat_Ali_Syed "wikilink")
     开发，支持代码补全、跳转、格式化和快速完成。
-  - 在线的[Cloud9 IDE](https://zh.wikipedia.org/wiki/Cloud9_IDE "wikilink")
-    和 [Codenvy](https://zh.wikipedia.org/wiki/Codenvy "wikilink")
+  - 在线的[Cloud9 IDE](../Page/Cloud9_IDE.md "wikilink") 和
+    [Codenvy](https://zh.wikipedia.org/wiki/Codenvy "wikilink")
     也支持TypeScript。
   - [NetBeans](../Page/NetBeans.md "wikilink") 也有一个
     [插件](https://github.com/Everlaw/nbts).
@@ -191,7 +191,7 @@ ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
 
 TypeScript是[开源的](../Page/开放源代码.md "wikilink")，其[源代码可以在](../Page/源代码.md "wikilink")[Apache
 2
-License下从](../Page/Apache许可证.md "wikilink")[Github获得](../Page/Github.md "wikilink")。这个项目由[Microsoft维护](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，但是任何人可以通过在Github项目页发送反馈、提出建议和提交bugfixes而做出贡献。\[13\]
+License下从](../Page/Apache许可证.md "wikilink")[Github获得](https://zh.wikipedia.org/wiki/Github "wikilink")。这个项目由[Microsoft维护](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，但是任何人可以通过在Github项目页发送反馈、提出建议和提交bugfixes而做出贡献。\[13\]
 
 已有一些批评提到，TypeScript鼓励[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")，当前只有[Microsoft
 Visual
@@ -211,7 +211,7 @@ OSX和Windows，提供功能强度相同的IntelliSense,代码完成和句法高
 
   - [CoffeeScript](../Page/CoffeeScript.md "wikilink")
   - [Dart](../Page/Dart.md "wikilink")
-  - [HaXe](../Page/HaXe.md "wikilink")
+  - [HaXe](https://zh.wikipedia.org/wiki/HaXe "wikilink")
 
 ## 参考资料
 

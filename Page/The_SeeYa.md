@@ -1,14 +1,14 @@
 **The SeeYa**（）是由[MBK
-Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa之名的全新組合](https://zh.wikipedia.org/wiki/SeeYa "wikilink")，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](https://zh.wikipedia.org/wiki/許憐朱 "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be
+Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa之名的全新組合](../Page/SeeYa.md "wikilink")，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be
 With You〉為一首與同是Core Contents
-Media旗下男子組合[SPEED成員泰云合作的歌曲](https://zh.wikipedia.org/wiki/SPEED_\(韓國音樂團體\) "wikilink")。而〈Be
+Media旗下男子組合[SPEED成員泰云合作的歌曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。而〈Be
 With
 You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩演出](../Page/林晶恩.md "wikilink")。組合已宣告解散。
 
 ## 經歷
 
   - 2012年11月21日，公開出道歌曲 "Be With You (My Heart is Dying)"，"Be With You"
-    更與[SPEED的成員泰雲合作](https://zh.wikipedia.org/wiki/SPEED_\(韓國音樂團體\) "wikilink")。同日也發行出道專輯
+    更與[SPEED的成員泰雲合作](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。同日也發行出道專輯
     "Good To Seeya"。
   - 2012年12月6日，發行首張迷你專輯 "Love U"。主打歌 "POISON (毒藥)"
     邀請了前輩[Davichi的](../Page/Davichi.md "wikilink")[李海利合作](../Page/李海利.md "wikilink")。
@@ -33,10 +33,10 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
   - 2015年年底，所屬社[MBK
     Entertainment官網已刪除The](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")
     SeeYa頁面。
-  - 2016年5月18日，幼真出演SBS《[神的聲音](https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音 "wikilink")》報導中提及The
+  - 2016年5月18日，幼真出演SBS《[神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》報導中提及The
     SeeYa已解散，而幼真目前為運動選手準備生。\[1\]
   - 2017年10月28日，連卿（書仁）參與偶像選秀節目《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
+    Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 成員資料
 
@@ -57,7 +57,7 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 <td><p><a href="https://zh.wikipedia.org/wiki/宋玟京" title="wikilink">宋玟京</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許憐朱" title="wikilink">許憐朱</a></p></td>
+<td><p><a href="../Page/許憐朱.md" title="wikilink">許憐朱</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -72,10 +72,10 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 
 ### 電視劇
 
-| 年份    | 電視台                                                 | 劇名                                                             | 參演成員 | 角色  | 性質   |
-| ----- | --------------------------------------------------- | -------------------------------------------------------------- | ---- | --- | ---- |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [秘密](https://zh.wikipedia.org/wiki/秘密_\(2013年電視劇\) "wikilink") | 玟京   | 趙敏周 | 配角   |
-| 2017年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [偶像大師.KR](https://zh.wikipedia.org/wiki/偶像大師.KR "wikilink")    | 憐朱   |     | 主角之一 |
+| 年份    | 電視台                                                 | 劇名                                          | 參演成員 | 角色  | 性質   |
+| ----- | --------------------------------------------------- | ------------------------------------------- | ---- | --- | ---- |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [秘密](../Page/秘密_\(2013年電視劇\).md "wikilink") | 玟京   | 趙敏周 | 配角   |
+| 2017年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [偶像大師.KR](../Page/偶像大師.KR.md "wikilink")    | 憐朱   |     | 主角之一 |
 
 ## MV
 
@@ -140,7 +140,7 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 <ul>
 <li>發行日期：2013年6月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>備註： <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>&amp;The SeeYa&amp;<a href="../Page/F-VE_DOLLS.md" title="wikilink">F-VE DOLLS</a> &amp; <a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">SPEED</a></li>
+<li>備註： <a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>&amp;The SeeYa&amp;<a href="../Page/F-VE_DOLLS.md" title="wikilink">F-VE DOLLS</a> &amp; <a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -190,7 +190,7 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 <ul>
 <li>發行日期：2015年2月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>備註：<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>&amp;The SeeYa&amp;<a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">SPEED</a>&amp;<a href="../Page/曺承希.md" title="wikilink">承希</a></li>
+<li>備註：<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>&amp;The SeeYa&amp;<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a>&amp;<a href="../Page/曺承希.md" title="wikilink">承希</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -224,8 +224,8 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 <ul>
 <li>發行日期：2013年1月15日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>歌手：<a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">SPEED</a></li>
-<li>備註：收錄於<a href="https://zh.wikipedia.org/wiki/SPEED_(韓國音樂團體)" title="wikilink">SPEED首張專輯</a>《Superior SPEED》</li>
+<li>歌手：<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a></li>
+<li>備註：收錄於<a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED首張專輯</a>《Superior SPEED》</li>
 </ul></td>
 <td></td>
 </tr>
@@ -311,10 +311,10 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
 
 ### 原聲帶
 
-| 年份    | 收錄專輯                                                             | 曲名         | 成員 |
-| ----- | ---------------------------------------------------------------- | ---------- | -- |
-| 2014年 | 電視劇《[異鄉人醫生](https://zh.wikipedia.org/wiki/異鄉人醫生 "wikilink") OST》 | 낯선 길(陌生的路) | 幼真 |
-|       |                                                                  |            |    |
+| 年份    | 收錄專輯                                          | 曲名         | 成員 |
+| ----- | --------------------------------------------- | ---------- | -- |
+| 2014年 | 電視劇《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink") OST》 | 낯선 길(陌生的路) | 幼真 |
+|       |                                               |            |    |
 
 ### MV
 

@@ -43,7 +43,7 @@
 <!-- end list -->
 
   - [池田清彥](https://zh.wikipedia.org/wiki/池田清彥 "wikilink")
-  - [植木理惠](https://zh.wikipedia.org/wiki/植木理惠 "wikilink")
+  - [植木理惠](../Page/植木理惠.md "wikilink")
   - [大柳葵理繪](https://zh.wikipedia.org/wiki/大柳葵理繪 "wikilink")
   - [尾木直樹](https://zh.wikipedia.org/wiki/尾木直樹 "wikilink")
   - [門倉貴史](https://zh.wikipedia.org/wiki/門倉貴史 "wikilink")

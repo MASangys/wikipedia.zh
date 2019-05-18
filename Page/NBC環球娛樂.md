@@ -46,8 +46,7 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
 
 ## 旗下藝人
 
-  - [After the
-    Rain](https://zh.wikipedia.org/wiki/After_the_Rain "wikilink")
+  - [After the Rain](../Page/After_the_Rain.md "wikilink")
     ([そらる](https://zh.wikipedia.org/wiki/そらる "wikilink")×[まふまふ](https://zh.wikipedia.org/wiki/まふまふ "wikilink"))
     (2016年〜)
   - 浦島坂田船 (2017年〜)
@@ -69,10 +68,9 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
     (2009年〜)
   - [やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年〜)
-  - [Luce Twinkle
-    Wink☆](https://zh.wikipedia.org/wiki/Luce_Twinkle_Wink☆ "wikilink")
+  - [Luce Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
     (2015年〜)
-  - [KOTOKO](../Page/KOTOKO.md "wikilink")
+  - [KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
     (2004年〜2010年、2018年〜)（2011年8月1日於[I've畢業](../Page/I've.md "wikilink")）
   - [山崎はるか](https://zh.wikipedia.org/wiki/山崎はるか "wikilink")
     (2011年〜2013年、2018年〜)
@@ -111,7 +109,7 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [ELISA](../Page/ELISA_\(歌手\).md "wikilink") (2008年〜2012年)
     (2013年移至[SME
     Records](../Page/SME_Records.md "wikilink")，現於[SACRA
-    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink"))
+    MUSIC](../Page/SACRA_MUSIC.md "wikilink"))
   - [沖野修也](https://zh.wikipedia.org/wiki/沖野修也 "wikilink") (2006年〜2008年)
   - [折笠愛](../Page/折笠愛.md "wikilink") (1995年〜1999年)
   - [折笠富美子](../Page/折笠富美子.md "wikilink") (2003年〜2009年)
@@ -172,7 +170,7 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [田中理恵](https://zh.wikipedia.org/wiki/田中理恵 "wikilink") (2010年)
   - [たま](https://zh.wikipedia.org/wiki/たま_\(バンド\) "wikilink")
     (1996年〜1997年)
-  - [田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink") (2002年)
+  - [田村直美](../Page/田村直美.md "wikilink") (2002年)
   - [鶴田加茂](https://zh.wikipedia.org/wiki/鶴田加茂 "wikilink") (2012年〜2013年)
   - [照屋実穂](https://zh.wikipedia.org/wiki/照屋実穂 "wikilink") (2006年〜2007年)
   - [中西圭三](https://zh.wikipedia.org/wiki/中西圭三 "wikilink") (1991年〜2001年)
@@ -181,8 +179,9 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [THE NEUTRAL](https://zh.wikipedia.org/wiki/THE_NEUTRAL "wikilink")
     (2005年)
   - [ニューロティカ](https://zh.wikipedia.org/wiki/ニューロティカ "wikilink") (2005年)
-  - [Neru](https://zh.wikipedia.org/wiki/Neru "wikilink") (2015年)
-  - [heidi.](../Page/heidi..md "wikilink") (2010年〜2011年)
+  - [Neru](../Page/Neru.md "wikilink") (2015年)
+  - [heidi.](https://zh.wikipedia.org/wiki/heidi. "wikilink")
+    (2010年〜2011年)
   - [ハヤシケイ](https://zh.wikipedia.org/wiki/ハヤシケイ "wikilink") (2013年)
   - [THE PAN](https://zh.wikipedia.org/wiki/THE_PAN "wikilink") (2004年)
   - [バンバンバザール](https://zh.wikipedia.org/wiki/バンバンバザール "wikilink")
@@ -205,9 +204,9 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
   - [VOLTA
     MASTERS](https://zh.wikipedia.org/wiki/VOLTA_MASTERS "wikilink")
     (2010年)
-  - [mao](../Page/mao.md "wikilink") (2010年〜2012年)
+  - [mao](https://zh.wikipedia.org/wiki/mao "wikilink") (2010年〜2012年)
   - [真島茂樹](https://zh.wikipedia.org/wiki/真島茂樹 "wikilink") (2005年)
-  - [Machico](https://zh.wikipedia.org/wiki/Machico "wikilink") (2012年)
+  - [Machico](../Page/Machico.md "wikilink") (2012年)
   - [松平健](../Page/松平健.md "wikilink") (2004年〜2006年)
   - [Monday満ちる](https://zh.wikipedia.org/wiki/Monday満ちる "wikilink")
     (2006年〜2007年)

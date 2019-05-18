@@ -1,4 +1,4 @@
-**SHIBUYA-AX**位於[東京都](../Page/東京都.md "wikilink")[澀谷区](https://zh.wikipedia.org/wiki/澀谷区 "wikilink")[神南二丁目](https://zh.wikipedia.org/wiki/神南 "wikilink")，由[日本電視台和](../Page/日本電視台.md "wikilink")[電通所管理及營運的活動場地](https://zh.wikipedia.org/wiki/電通 "wikilink")。
+**SHIBUYA-AX**位於[東京都](../Page/東京都.md "wikilink")[澀谷区](https://zh.wikipedia.org/wiki/澀谷区 "wikilink")[神南二丁目](../Page/神南.md "wikilink")，由[日本電視台和](../Page/日本電視台.md "wikilink")[電通所管理及營運的活動場地](https://zh.wikipedia.org/wiki/電通 "wikilink")。
 
 ## 概要
 

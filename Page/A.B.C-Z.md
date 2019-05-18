@@ -601,7 +601,7 @@ ABC〜5stars〜」正式出道。
 
   - A.B.C-Z出道紀念Event
     （2012年1月31日、東京・[渋谷](https://zh.wikipedia.org/wiki/渋谷 "wikilink")　[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
-  - A.B.C-Z全國公演紀念[握手會](https://zh.wikipedia.org/wiki/握手會 "wikilink")（2012年3月5日～7日、4月3日‧17日‧21日‧26日、5月5日、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")‧[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")‧[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")‧[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")‧[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")‧[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
+  - A.B.C-Z全國公演紀念[握手會](../Page/握手會.md "wikilink")（2012年3月5日～7日、4月3日‧17日‧21日‧26日、5月5日、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")‧[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")‧[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")‧[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")‧[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")‧[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
 
 ## A.B.C.
 

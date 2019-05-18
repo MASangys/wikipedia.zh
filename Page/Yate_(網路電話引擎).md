@@ -10,8 +10,7 @@ Yate 的架構是基於 [message
 passing](https://zh.wikipedia.org/wiki/message_passing "wikilink")
 system. 其結構可以分成 4 大部份:\[3\]
 
-  - **Core**,
-    用於封裝[sockets](https://zh.wikipedia.org/wiki/網路插座 "wikilink"),
+  - **Core**, 用於封裝[sockets](../Page/網路插座.md "wikilink"),
     [threads](../Page/线程.md "wikilink") 以及其他的基本元件
   - **Message Engine**, message 相關類別, 用於模組間的資料交換
   - **Telephony Engine**, telephony 相關類別

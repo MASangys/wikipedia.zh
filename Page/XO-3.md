@@ -6,7 +6,7 @@ rotation = | age_gyr = 2.82{{±|0.58|0.82}}\[4\] }}
 ## 行星系統
 
 2007年以[XO望遠鏡使用](../Page/XO望遠鏡.md "wikilink")[凌日法發現了一顆氣體巨行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink")
-[XO-3b](https://zh.wikipedia.org/wiki/XO-3b "wikilink")。不過該天體因為它的質量相當大，有可能是棕矮星\[6\]。
+[XO-3b](../Page/XO-3b.md "wikilink")。不過該天體因為它的質量相當大，有可能是棕矮星\[6\]。
 
 ## 參見
 

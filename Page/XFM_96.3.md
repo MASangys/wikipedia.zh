@@ -9,7 +9,7 @@ XFM已於2016年停播。
 2016年9月30日，XFM 96.3停播。
 
 2017年3月，[新加坡報業控股取得原XFM](https://zh.wikipedia.org/wiki/新加坡報業控股 "wikilink")
-96.3的頻率\[3\]。2018年1月起，96.3的頻率由新電台[96.3好FM使用](https://zh.wikipedia.org/wiki/96.3好FM "wikilink")\[4\]。
+96.3的頻率\[3\]。2018年1月起，96.3的頻率由新電台[96.3好FM使用](../Page/96.3好FM.md "wikilink")\[4\]。
 
 ## 參考資料
 

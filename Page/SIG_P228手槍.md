@@ -21,9 +21,9 @@ M11將會被陸軍和空軍通過[模組化手槍系統](https://zh.wikipedia.or
 
 P228與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗寧首創的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[後膛閉鎖](https://zh.wikipedia.org/wiki/後膛閉鎖 "wikilink")[槍管短行程後座作用模式以使全槍運作](https://zh.wikipedia.org/wiki/後座作用#槍管短行程後座作用 "wikilink")。在射擊時，[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管鎖在一起並且向後移動幾毫米](../Page/槍管.md "wikilink")，槍管會向後移直到後方的絞鏈時使後膛向下傾斜。這個時候，子彈已經離開槍管，而壓力亦已經下降到安全水平。在這種情況以下，套筒已完成向後行程，並以[拋彈口退出](https://zh.wikipedia.org/wiki/拋彈口 "wikilink")[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")。然後復進簧（又稱：反沖彈簧）會向前推動套筒，從彈匣上取出最頂部的一發並讓槍管後膛向上回複水平同時向前運動幾毫米，再將套筒和槍管一起閉鎖。
 
-與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍和](https://zh.wikipedia.org/wiki/白朗寧大威力手槍 "wikilink")[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管和](../Page/槍管.md "wikilink")[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
+與其他白朗寧型武器（諸如[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[M1911A1](../Page/M1911手槍.md "wikilink")，[白朗寧大威力手槍和](../Page/白朗寧大威力手槍.md "wikilink")[CZ-75](https://zh.wikipedia.org/wiki/CZ-75手槍 "wikilink")）以[槍管和](../Page/槍管.md "wikilink")[套筒之間的閉鎖鎖耳和凹槽的相互扣合以實現閉鎖相反的是](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，P226使用加大的槍管後膛節套在拋殼口內閉鎖使槍管和套筒得以閉鎖在一起。這個由SIG所發明的一個修改過的閉鎖系統與原來由白朗寧研製的閉鎖系統相比並沒有任何功能上的缺點，而且目前已經被眾多的槍械製造商所仿製。\[2\]
 
-P228的所有型號的[底把是由硬質](https://zh.wikipedia.org/wiki/机匣 "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金所製造](../Page/鋁合金.md "wikilink")。
+P228的所有型號的[底把是由硬質](../Page/机匣.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金所製造](../Page/鋁合金.md "wikilink")。
 
 標準型SIG
 P228在槍身的左側和[彈匣釋放按鈕的上方具有](../Page/彈匣.md "wikilink")[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")（），其首次出現在[第二次世界大战時期的](../Page/第二次世界大战.md "wikilink")[绍尔38H上](https://zh.wikipedia.org/wiki/绍尔38H手槍 "wikilink")，它可以降低以鎖上全槍。在[膛室裝彈或是發射子彈時](../Page/膛室.md "wikilink")，[套筒會使擊錘自動地向後方拉下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。由於使用了待擊解脫桿，擊錘可以在不使用[撞針保險以下向後方拉下](https://zh.wikipedia.org/wiki/撞針保險 "wikilink")，這使得武器在已經使用待擊解脫桿以下不大可能出現[走火](https://zh.wikipedia.org/wiki/走火 "wikilink")。此外，使用了待擊解脫桿並使武器很像裝上了“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”（）。這就意味著，除非扣動扳機，否則[撞針將不能撞上上膛的](../Page/撞針.md "wikilink")[子彈](../Page/子彈.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。扣動扳機並慢慢地降低擊錘不會使武器具有“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”，這是因為有相當的力道施加到擊錘的話就會導致可以在一個偶然的排放。只要手槍可以按正確方式待擊解脫，可以安全地收藏於槍套內，亦可以在雙動操作模式以下只需扣動扳機就可以發射。SIG
@@ -39,7 +39,7 @@ Arms公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前稱[SIGARM
 
 ### P228導軌型
 
-P228導軌型（，簡稱：P228R）基本上與P228是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+P228導軌型（，簡稱：P228R）基本上與P228是相同的，只是它在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條戰術燈安裝導軌，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產](../Page/SIG_P229手槍.md "wikilink")，但最近亦有民用型有限量重新生產，並且整合了戰術配件導軌，並且命名為P228R。
 
@@ -48,7 +48,7 @@ P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikil
 ### M11-A1
 
 2012年，[SIG
-Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他們推出M11-A1，這在本質上是P228的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")[底把版本](https://zh.wikipedia.org/wiki/机匣 "wikilink")，具有最新型短行程復位扳機（，簡稱：SRT），SIG精簡版[氚光夜間瞄具](../Page/氚.md "wikilink")，MecGar
+Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他們推出M11-A1，這在本質上是P228的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")[底把版本](../Page/机匣.md "wikilink")，具有最新型短行程復位扳機（，簡稱：SRT），SIG精簡版[氚光夜間瞄具](../Page/氚.md "wikilink")，MecGar
 15發彈匣，和一個軍用風格的智能標籤和序列號。
 
 ## 使用國
@@ -69,7 +69,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿根廷國家憲兵" title="wikilink">阿根廷國家憲兵</a></p></td>
+<td><p><a href="../Page/阿根廷國家憲兵.md" title="wikilink">阿根廷國家憲兵</a></p></td>
 <td><p>P228</p></td>
 </tr>
 <tr class="odd">
@@ -79,7 +79,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/澳大利亞陸軍.md" title="wikilink">澳大利亞陸軍</a><a href="https://zh.wikipedia.org/wiki/特種空勤團_(澳大利亞)" title="wikilink">特種空勤團</a></p></td>
+<td><p><a href="../Page/澳大利亞陸軍.md" title="wikilink">澳大利亞陸軍</a><a href="../Page/特種空勤團_(澳大利亞).md" title="wikilink">特種空勤團</a></p></td>
 <td><p>P228</p></td>
 </tr>
 <tr class="odd">
@@ -184,7 +184,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波蘭軍事" title="wikilink">波蘭武裝部隊</a><a href="../Page/行動應變及機動組.md" title="wikilink">行動應變及機動組</a>[13]</p></td>
+<td><p><a href="../Page/波蘭軍事.md" title="wikilink">波蘭武裝部隊</a><a href="../Page/行動應變及機動組.md" title="wikilink">行動應變及機動組</a>[13]</p></td>
 <td><p>P228</p></td>
 </tr>
 <tr class="even">
@@ -199,7 +199,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/菲律賓空軍" title="wikilink">菲律賓空軍</a></p></td>
+<td><p><a href="../Page/菲律賓空軍.md" title="wikilink">菲律賓空軍</a></p></td>
 <td><p>P228</p></td>
 </tr>
 <tr class="odd">
@@ -354,7 +354,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/委內瑞拉軍事" title="wikilink">委內瑞拉國民軍</a></p></td>
+<td><p><a href="../Page/委內瑞拉軍事.md" title="wikilink">委內瑞拉國民軍</a></p></td>
 <td><p>P228</p></td>
 </tr>
 </tbody>
@@ -365,12 +365,12 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
   - [SIG P226](../Page/SIG_P226手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227手槍.md "wikilink")
   - [SIG P229](../Page/SIG_P229手槍.md "wikilink")
-  - [SIG P224](https://zh.wikipedia.org/wiki/SIG_P224手槍 "wikilink")
-  - [SIG P230](https://zh.wikipedia.org/wiki/SIG_P230手槍 "wikilink")
+  - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
+  - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
-  - [史密斯威森M459](https://zh.wikipedia.org/wiki/史密斯威森M59手槍 "wikilink")
+  - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
 
 ## 資料來源
 

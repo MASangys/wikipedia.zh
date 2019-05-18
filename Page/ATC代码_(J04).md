@@ -48,8 +48,7 @@
 
   -
     J04AK01 [吡嗪酰胺](../Page/吡嗪酰胺.md "wikilink")（Pyrazinamide）
-    J04AK02
-    [乙胺丁醇](https://zh.wikipedia.org/wiki/乙胺丁醇 "wikilink")（Ethambutol）
+    J04AK02 [乙胺丁醇](../Page/乙胺丁醇.md "wikilink")（Ethambutol）
     J04AK03
     [特立齐酮](https://zh.wikipedia.org/wiki/特立齐酮 "wikilink")（Terizidone）
     J04AK04
@@ -67,8 +66,7 @@
     [氨硫脲和异烟肼](https://zh.wikipedia.org/wiki/氨硫脲 "wikilink")（Thioacetazone
     and isoniazid）
     J04AM05 利福平、吡嗪酰胺和异烟肼（Rifampicin, pyrazinamide and isoniazid）
-    J04AM06
-    利福平、吡嗪酰胺、[乙胺丁醇和异烟肼](https://zh.wikipedia.org/wiki/乙胺丁醇 "wikilink")（Rifampicin,
+    J04AM06 利福平、吡嗪酰胺、[乙胺丁醇和异烟肼](../Page/乙胺丁醇.md "wikilink")（Rifampicin,
     pyrazinamide, ethambutol and isoniazid）
 
 ## J04B [麻风病治疗用药](../Page/麻风病.md "wikilink")（Drugs for treatment of lepra）

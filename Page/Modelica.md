@@ -8,7 +8,7 @@ implementations =
 Systems, [Dymola](https://zh.wikipedia.org/wiki/Dymola "wikilink"),
 [JModelica.org](https://zh.wikipedia.org/wiki/JModelica.org "wikilink"),
 [MapleSim](https://zh.wikipedia.org/wiki/MapleSim "wikilink"), [Wolfram
-SystemModeler](https://zh.wikipedia.org/wiki/Wolfram_SystemModeler "wikilink"),
+SystemModeler](../Page/Wolfram_SystemModeler.md "wikilink"),
 OpenModelica, [Scicos](https://zh.wikipedia.org/wiki/Scicos "wikilink"),
 [SimulationX](../Page/SimulationX.md "wikilink"), Vertex,
 [Xcos](https://zh.wikipedia.org/wiki/Xcos "wikilink") | influenced_by =

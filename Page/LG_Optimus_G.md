@@ -62,7 +62,7 @@ True HD [IPS螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 <td><p>L-01E</p></td>
 <td><p>Optimus G</p></td>
 <td></td>
-<td><p><a href="../Page/NTT_DoCoMo.md" title="wikilink">NTT docomo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT docomo</a></p></td>
 <td><p>2012/10</p></td>
 </tr>
 <tr class="odd">
@@ -76,7 +76,7 @@ True HD [IPS螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 <td><p>LS970</p></td>
 <td><p>LG Optimus G</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sprint" title="wikilink">Sprint</a></p></td>
+<td><p><a href="../Page/Sprint.md" title="wikilink">Sprint</a></p></td>
 <td><p>未上市</p></td>
 </tr>
 <tr class="odd">
@@ -91,7 +91,7 @@ True HD [IPS螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 
 ## 相关条目
 
-  - [Nexus 4](https://zh.wikipedia.org/wiki/Nexus_4 "wikilink")
+  - [Nexus 4](../Page/Nexus_4.md "wikilink")
 
 ## 參考
 

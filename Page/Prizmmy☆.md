@@ -126,7 +126,7 @@ AVCA-49493</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2012年4月25日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dear_My_Future_～未來的自己～" title="wikilink">Dear My Future 〜未来の自分へ〜</a></strong>[4]</p></td>
+<td><p><strong><a href="../Page/Dear_My_Future_～未來的自己～.md" title="wikilink">Dear My Future 〜未来の自分へ〜</a></strong>[4]</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>AVCA-49690/B</p></td>
 <td><p>¥1,620</p></td>
@@ -536,13 +536,13 @@ AVXA-62999</p></td>
 
 ### 歌曲（Prism☆Box名義）
 
-| 號數 | 樂曲                  | 商業搭配                                                                   | 收錄作品                          |
-| -- | ------------------- | ---------------------------------------------------------------------- | ----------------------------- |
-| 1  | **RainBow×RainBow** | 『[星光少女 彩虹舞台](https://zh.wikipedia.org/wiki/星光少女_彩虹舞台 "wikilink")』第1片尾曲 | **1st Single**RainBow×RainBow |
-| 2  | **Boy Friend**      |                                                                        |                               |
-| 3  | **ハッピースター☆レストラン**   | 『[星光少女 彩虹舞台](https://zh.wikipedia.org/wiki/星光少女_彩虹舞台 "wikilink")』第4片尾曲 | **2st Single**ハッピースター☆レストラン   |
-| 4  | **キラキランウェイ☆**       | 『[pripara](https://zh.wikipedia.org/wiki/pripara "wikilink")』第2片尾曲     | **3st Single**キラキランウェイ☆       |
-| 5  | **ずっとも！Zoo**        |                                                                        |                               |
+| 號數 | 樂曲                  | 商業搭配                                                               | 收錄作品                          |
+| -- | ------------------- | ------------------------------------------------------------------ | ----------------------------- |
+| 1  | **RainBow×RainBow** | 『[星光少女 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")』第1片尾曲                | **1st Single**RainBow×RainBow |
+| 2  | **Boy Friend**      |                                                                    |                               |
+| 3  | **ハッピースター☆レストラン**   | 『[星光少女 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")』第4片尾曲                | **2st Single**ハッピースター☆レストラン   |
+| 4  | **キラキランウェイ☆**       | 『[pripara](https://zh.wikipedia.org/wiki/pripara "wikilink")』第2片尾曲 | **3st Single**キラキランウェイ☆       |
+| 5  | **ずっとも！Zoo**        |                                                                    |                               |
 
 ### 其他歌曲（Prism☆Box）
 

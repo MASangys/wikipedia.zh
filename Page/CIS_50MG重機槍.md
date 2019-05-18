@@ -111,7 +111,7 @@ M15A2[可散式彈鏈](../Page/彈鏈.md "wikilink")
 
 <div class="NavContent" style="background:#fff; margin:0 auto; padding:0 10px;">
 
-  - [機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")：表尺[照門和折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")\[31\]
+  - [機械瞄具](../Page/機械瞄具.md "wikilink")：表尺[照門和折疊式](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")\[31\]
     [瞄準基線](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")：1,000毫米（39.37英吋）\[32\]
   - [反射式瞄準鏡](../Page/紅點鏡.md "wikilink")\[33\]
   - [夜視鏡](../Page/夜視鏡.md "wikilink")\[34\]
@@ -157,7 +157,7 @@ CIS 50MG並採用了與[Ultimax
 CIS
 50MG的一個獨特的功能就是它的雙向[彈鏈供彈系統](../Page/彈鏈.md "wikilink")，該系統讓這機槍快速和容易的轉換發射[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。例如由原來發射標準圓頭實心彈改為發射另一邊的[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：HEIAP）或是[脫殼式輕型穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（，簡稱：SLAP），後者具有在1[公里](https://zh.wikipedia.org/wiki/千米 "wikilink")（0.62[英里](../Page/英里.md "wikilink")）的範圍內貫穿板厚為25[毫米](../Page/毫米.md "wikilink")（0.98[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）[軋壓均質裝甲破壞力](../Page/軋壓均質裝甲.md "wikilink")。\[41\]\[42\]
 
-這種系統在現代化[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，例如[M242“巨蝮式”25毫米鏈炮和](https://zh.wikipedia.org/wiki/M242巨蝮式鏈炮 "wikilink")[Mk
+這種系統在現代化[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，例如[M242“巨蝮式”25毫米鏈炮和](../Page/M242巨蝮式鏈炮.md "wikilink")[Mk
 44“巨蝮二式”30毫米](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")上亦是常見，這兩者都裝在[新加坡陸軍的兩代](https://zh.wikipedia.org/wiki/新加坡陸軍 "wikilink")[比奧尼克斯步兵戰車](https://zh.wikipedia.org/wiki/比奧尼克斯步兵戰車 "wikilink")（，簡稱：BX）上使用。
 
 ## 使用國
@@ -201,14 +201,14 @@ CIS
   - [Kord重機槍](../Page/Kord重機槍.md "wikilink")
   - [KPV重機槍](../Page/KPV重機槍.md "wikilink")
   - [白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")
-  - [M85重機槍](https://zh.wikipedia.org/wiki/M85重機槍 "wikilink")
+  - [M85重機槍](../Page/M85重機槍.md "wikilink")
   - [多佛惡魔通用重機槍](https://zh.wikipedia.org/wiki/多佛惡魔通用重機槍 "wikilink")
   - [XM312重機槍](../Page/XM312重機槍.md "wikilink")
-  - [XM806重機槍](https://zh.wikipedia.org/wiki/XM806重機槍 "wikilink")
+  - [XM806重機槍](../Page/XM806重機槍.md "wikilink")
   - [77式重机枪](../Page/77式重机枪.md "wikilink")
   - [W-85式重机枪](../Page/W-85式重机枪.md "wikilink")
   - [89式重机枪](../Page/89式重机枪.md "wikilink")
-  - [巨蝮式25毫米鏈炮](https://zh.wikipedia.org/wiki/M242巨蝮式鏈炮 "wikilink")
+  - [巨蝮式25毫米鏈炮](../Page/M242巨蝮式鏈炮.md "wikilink")
   - [巨蝮二式30毫米鏈炮](../Page/Mk_44巨蝮二式鏈炮.md "wikilink")
   - [巨蝮三式35／50毫米鏈炮](../Page/巨蝮三式鏈炮.md "wikilink")
 

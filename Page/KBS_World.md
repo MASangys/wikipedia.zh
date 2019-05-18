@@ -1,5 +1,5 @@
 **KBS
-World**是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国外广播的電視频道，覆蓋73個國家。主要播送紀錄片，電視劇，娛樂節目，並配上英語、中文、西班牙語等字幕。頻道使用[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")、[IPTV和](../Page/IPTV.md "wikilink")[衛星電視接收外也有](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[youtube直播](../Page/youtube.md "wikilink")。另外除了電視節目外，該頻道還擁有廣播節目。
+World**是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国外广播的電視频道，覆蓋73個國家。主要播送紀錄片，電視劇，娛樂節目，並配上英語、中文、西班牙語等字幕。頻道使用[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")、[IPTV和](../Page/IPTV.md "wikilink")[衛星電視接收外也有](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[youtube直播](https://zh.wikipedia.org/wiki/youtube "wikilink")。另外除了電視節目外，該頻道還擁有廣播節目。
 
 而KBS World日本播放版本完全由当地机构代播，不仅节目编排不同，就连日本版的台标却是单独的透明玻璃形状，节目亦提供日文字幕。
 
@@ -14,8 +14,7 @@ World**是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 
 24开播）、紀錄片和兒童節目，全日播放KBS所提供的劇集、綜藝和晚间新闻和由[相信音樂各歌手的MV](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")。
 
 2018年4月起，因應韓國KBS的播出情況和版權問題，暫停播放[KBS月火連續劇和](../Page/KBS月火連續劇.md "wikilink")[KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")，並改播[KBS
-Drama
-Special和重播KBS精選劇集](https://zh.wikipedia.org/wiki/KBS_Drama_Special "wikilink")，但[KBS
+Drama Special和重播KBS精選劇集](../Page/KBS_Drama_Special.md "wikilink")，但[KBS
 1TV日日連續劇](../Page/KBS_1TV日日連續劇.md "wikilink")、[KBS
 2TV日日連續劇和](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")[KBS週末連續劇以及所有KBS所提供的綜藝節目](../Page/KBS週末連續劇.md "wikilink")、新聞KBS
 News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
@@ -42,20 +41,20 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 </tr>
 <tr class="even">
 <td><p>18:45-19:25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛到最後" title="wikilink">愛到最後</a></p></td>
+<td><p><a href="../Page/愛到最後.md" title="wikilink">愛到最後</a></p></td>
 <td><p>與韓國隔一周後播出</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>19:25 - 20:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/明日也晴朗" title="wikilink">明日也晴朗</a></p></td>
+<td><p><a href="../Page/明日也晴朗.md" title="wikilink">明日也晴朗</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>星期一至四</p></td>
 <td><p>23:25 - 00:35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Who_Are_You－學校2015" title="wikilink">Who Are You－學校2015</a></p></td>
+<td><p><a href="../Page/Who_Are_You－學校2015.md" title="wikilink">Who Are You－學校2015</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -73,7 +72,7 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 <tr class="odd">
 <td><p>星期六至日</p></td>
 <td><p>20:25 - 21:40</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我唯一的守護者" title="wikilink">我唯一的守護者</a></p></td>
+<td><p><a href="../Page/我唯一的守護者.md" title="wikilink">我唯一的守護者</a></p></td>
 <td><p>与韩国紧接隔周播出</p></td>
 </tr>
 <tr class="even">
@@ -127,7 +126,7 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 <tr class="even">
 <td><p>星期日</p></td>
 <td><p>15:40-17:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戰鬥旅行" title="wikilink">戰鬥旅行</a></p></td>
+<td><p><a href="../Page/戰鬥旅行.md" title="wikilink">戰鬥旅行</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -153,7 +152,7 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 <td><p>20:05 - 20:45（星期一）<br />
 20:05 - 20:55（星期二至五）<br />
 20:05 - 20:25（星期六至日）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS9点新闻" title="wikilink">KBS9点新闻</a></p></td>
+<td><p><a href="../Page/KBS9点新闻.md" title="wikilink">KBS9点新闻</a></p></td>
 <td><p>现场直播</p></td>
 </tr>
 <tr class="odd">

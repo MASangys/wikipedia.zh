@@ -61,7 +61,7 @@ D型与别的型不同，有着附着皮卡汀尼导轨的护木。\[12\]
 ## 预期的市场消费人群以及于其他相同武器的比较
 
 SU-16与其他的5.56毫米口径半自动步枪,
-如民用市场里的[AR-15和](https://zh.wikipedia.org/wiki/AR-15 "wikilink")[迷你14](https://zh.wikipedia.org/wiki/儒格Mini-14半自動步槍 "wikilink")，以及Saiga
+如民用市场里的[AR-15和](https://zh.wikipedia.org/wiki/AR-15 "wikilink")[迷你14](../Page/儒格Mini-14半自動步槍.md "wikilink")，以及Saiga
 223 ([AK-47的变种](https://zh.wikipedia.org/wiki/AK-47 "wikilink"))相比. B,
 C,和CA型有着一根长达的枪管,这个长度也是国家枪械法对于普通步枪枪管长的最低限制. SU-16对于STANAG弹匣的兼容,
 使得很多市场上的弹匣都可以使用, 特别是高容量弹匣, 也可以与别的枪共用弹匣.

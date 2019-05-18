@@ -27,7 +27,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
     Body，MV由[SISTAR的](../Page/SISTAR.md "wikilink")[多順出演](../Page/多順.md "wikilink")。
   - 10月12日首次參與在美國洛杉磯舉行的 *KCON2012*。
   - 12月5日參與公司Jellyfish娛樂的冬日計劃*Jelly Christmas 2012 heart
-    project*,發佈與同公司藝人[朴孝信](https://zh.wikipedia.org/wiki/朴孝信 "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國合作的聖誕單曲](../Page/徐仁國.md "wikilink")《因為是聖誕》。
+    project*,發佈與同公司藝人[朴孝信](../Page/朴孝信.md "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國合作的聖誕單曲](../Page/徐仁國.md "wikilink")《因為是聖誕》。
 
 ### 2013年：轉型、概念偶像的誕生、第三張單曲《On and On》、首張迷你專輯《Hyde》、首張正規專輯《Voodoo》、首次全球巡迴Showcase、首個一位
 
@@ -56,7 +56,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
   - 2月8日，獲台灣KKBOX音樂風雲榜頒獎典禮邀請擔任表演嘉賓，也是首隊韓國藝人被邀請出席該頒獎典禮。
   - 2月12日，官方社交網站公開特別單曲專輯《[Boys'
-    Record](https://zh.wikipedia.org/wiki/Boys'_Record "wikilink")》和主打歌MV的發佈日期，並在官方Youtube頻道發佈先行預告，宣布回歸消息和即將舉行的第二次單獨演唱會的日期。
+    Record](../Page/Boys'_Record.md "wikilink")》和主打歌MV的發佈日期，並在官方Youtube頻道發佈先行預告，宣布回歸消息和即將舉行的第二次單獨演唱會的日期。
   - 2月24日正式推出《Boy's
     Record》，主打歌翻唱前輩Re.f的《離別公式》，專輯也收錄了Leo和Ravi在第一次單獨演唱會公開的自創曲《寒冷的夜晚》和《Memory》。VIXX更憑著主打歌《離別公式》獲得8個音樂節目的一位，達成出道以来的首次all
     kill。
@@ -146,10 +146,9 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 正規專輯
 
-  - 2013年：[VOODOO](https://zh.wikipedia.org/wiki/VOODOO "wikilink")
+  - 2013年：[VOODOO](../Page/VOODOO.md "wikilink")
   - 2015年：[Chained Up](../Page/Chained_Up.md "wikilink")
-  - 2018年：[EAU DE
-    VIXX](https://zh.wikipedia.org/wiki/EAU_DE_VIXX "wikilink")
+  - 2018年：[EAU DE VIXX](../Page/EAU_DE_VIXX.md "wikilink")
 
 #### 精選輯
 
@@ -158,13 +157,13 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 #### 迷你專輯
 
   - 2013年：[hyde](https://zh.wikipedia.org/wiki/hyde_\(EP\) "wikilink")/[Jekyll](https://zh.wikipedia.org/wiki/hyde_\(EP\) "wikilink")
-  - 2014年：[Error](https://zh.wikipedia.org/wiki/Error_\(VIXX韓語專輯\) "wikilink")
+  - 2014年：[Error](../Page/Error_\(VIXX韓語專輯\).md "wikilink")
   - 2015年：[Beautiful
     Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")（[VIXX
     LR](../Page/VIXX_LR.md "wikilink")）
-  - 2016年：[Kratos](https://zh.wikipedia.org/wiki/Kratos_\(VIXX迷你專輯\) "wikilink")
+  - 2016年：[Kratos](../Page/Kratos_\(VIXX迷你專輯\).md "wikilink")
   - 2017年：R.EAL1ZE（[RAVI](https://zh.wikipedia.org/wiki/金元植 "wikilink")）
-  - 2017年：[桃源境](https://zh.wikipedia.org/wiki/桃源境 "wikilink")
+  - 2017年：[桃源境](../Page/桃源境.md "wikilink")
   - 2017年：Whisper（[VIXX LR](../Page/VIXX_LR.md "wikilink")）
   - 2018年：CANVAS（[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")）
   - 2019年：R.OOK
@@ -176,10 +175,9 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 2012年：
   - 2013年：
   - 2014年：
-  - 2015年：[Boys'
-    Record](https://zh.wikipedia.org/wiki/Boys'_Record "wikilink")
+  - 2015年：[Boys' Record](../Page/Boys'_Record.md "wikilink")
   - 2016年：[Zelos](../Page/Zelos_\(VIXX單曲\).md "wikilink")
-  - 2016年：[Hades](https://zh.wikipedia.org/wiki/Hades_\(VIXX單曲\) "wikilink")
+  - 2016年：[Hades](../Page/Hades_\(VIXX單曲\).md "wikilink")
 
 #### 混音帶
 
@@ -209,7 +207,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 單曲專輯
 
-  - 2014年：[Error](https://zh.wikipedia.org/wiki/Error_\(VIXX韓語專輯\) "wikilink")
+  - 2014年：[Error](../Page/Error_\(VIXX韓語專輯\).md "wikilink")
   - 2015年：Love Letter
   - 2015年：[Can't say](../Page/Can't_say.md "wikilink")
   - 2016年：花風
@@ -454,33 +452,33 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2014年4月26日  | SBS                                                                   | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                 | HONGBIN     | 出演     | 柳志浩       |                |
 | LEO、HYUK    | 客串                                                                    | LEO、HYUK（VIXX）                                                            | EP.43       |        |           |                |
 | 2014年9月23日  | MBC every1                                                            | 合宿24號房                                                                    | KEN         | 主演     | 李在煥       |                |
-| 2015年1月3日   | SBS                                                                   | [誕生吧！家族](https://zh.wikipedia.org/wiki/誕生吧！家族 "wikilink")                 | N           | 出演     | 車學沇       |                |
+| 2015年1月3日   | SBS                                                                   | [誕生吧！家族](../Page/誕生吧！家族.md "wikilink")                                    | N           | 出演     | 車學沇       |                |
 | HONGBIN     | 客串                                                                    | 李弘彬                                                                       | EP.18、19、20 |        |           |                |
 | 2015年10月5日  | [KBS](../Page/韓國放送公社.md "wikilink")                                   | [無理的前進](../Page/無理的前進.md "wikilink")                                      | N           | 主演     | 河東宰       |                |
 | 2016年1月11日  | [武林學校](../Page/武林學校.md "wikilink")                                    | HONGBIN                                                                   | 主演          | 王治昂    |           |                |
 | 2016年3月28日  | [NAVER tvcast](https://zh.wikipedia.org/wiki/NAVER_tvcast "wikilink") | [TOMORROW BOY](https://zh.wikipedia.org/wiki/TOMORROW_BOY "wikilink")     | N           | 主演     | 安泰平       |                |
 | 2016年11月16日 | [NAVER tvcast](https://zh.wikipedia.org/wiki/NAVER_tvcast "wikilink") | 他們的 Money?                                                                | N           | 主演     | 崔金手       |                |
 | HONGBIN     | 陳時煥                                                                   |                                                                           |             |        |           |                |
-| 2017年2月27日  | KBS                                                                   | [完美的妻子](https://zh.wikipedia.org/wiki/完美的妻子 "wikilink")                   | N           | 出演     | Brian Lee |                |
-| 2017年3月25日  | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")                   | [隧道](https://zh.wikipedia.org/wiki/隧道_\(電視劇\) "wikilink")                 | N           | 出演     | 朴光浩       |                |
-| 2017年5月31日  | SBS plus                                                              | [星期三下午3點30分](https://zh.wikipedia.org/wiki/星期三下午3點30分 "wikilink")         | HONGBIN     | 主演     | 尹在元       |                |
-| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")         | [羅曼史特別法](https://zh.wikipedia.org/wiki/羅曼史特別法 "wikilink")                 | HYUK        | 主演     | 姜世雄       |                |
+| 2017年2月27日  | KBS                                                                   | [完美的妻子](../Page/完美的妻子.md "wikilink")                                      | N           | 出演     | Brian Lee |                |
+| 2017年3月25日  | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")                   | [隧道](../Page/隧道_\(電視劇\).md "wikilink")                                    | N           | 出演     | 朴光浩       |                |
+| 2017年5月31日  | SBS plus                                                              | [星期三下午3點30分](../Page/星期三下午3點30分.md "wikilink")                            | HONGBIN     | 主演     | 尹在元       |                |
+| 2017年10月24日 | [Naver TV](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")         | [羅曼史特別法](../Page/羅曼史特別法.md "wikilink")                                    | HYUK        | 主演     | 姜世雄       |                |
 | 2018年4月20日  | KBS2                                                                  | [一閃一閃聽到了](https://zh.wikipedia.org/wiki/一閃一閃聽到了 "wikilink")               | HONGBIN     | 主演     | 賢星        | 獨幕劇（為殘障人士公益出演） |
 | 2018年7月17日  | Haeyo TV                                                              | 豆腐的擬人化                                                                    | KEN         | 主演     | 金柱憲       |                |
-| 2018年7月25日  | MBN                                                                   | [魔女之愛](https://zh.wikipedia.org/wiki/魔女之愛 "wikilink")                     | HONGBIN     | 主演     | 黃濟旭       |                |
-| 2018年8月1日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [認識的妻子](https://zh.wikipedia.org/wiki/認識的妻子 "wikilink")                   | N           | 出演     | 金煥        |                |
-| 2018年10月3日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [從天而降的一億顆星](https://zh.wikipedia.org/wiki/從天而降的一億顆星 "wikilink")           | HONGBIN     | 出演     | 盧熙俊       |                |
-| 2018年11月21日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | [赤月青日](https://zh.wikipedia.org/wiki/赤月青日 "wikilink")                     | N           | 主演     | 李恩浩       |                |
+| 2018年7月25日  | MBN                                                                   | [魔女之愛](../Page/魔女之愛.md "wikilink")                                        | HONGBIN     | 主演     | 黃濟旭       |                |
+| 2018年8月1日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [認識的妻子](../Page/認識的妻子.md "wikilink")                                      | N           | 出演     | 金煥        |                |
+| 2018年10月3日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [從天而降的一億顆星](../Page/從天而降的一億顆星.md "wikilink")                              | HONGBIN     | 出演     | 盧熙俊       |                |
+| 2018年11月21日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                   | [赤月青日](../Page/赤月青日.md "wikilink")                                        | N           | 主演     | 李恩浩       |                |
 
 ### 電視劇原聲帶
 
-|            |                                                                       |                |
-| ---------- | --------------------------------------------------------------------- | -------------- |
-| **發佈日期**   | **專輯名稱**                                                              | **歌曲**         |
-| 2016年1月18日 | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.1                        | Alive          |
-| 2016年2月1日  | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.2                        | The King       |
-| 2017年4月21日 | 《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.1            | Take Your Hand |
-| 2018年6月4日  | 《[你也是人類嗎](https://zh.wikipedia.org/wiki/你也是人類嗎 "wikilink")》OST Part.1 | Is It Love?    |
+|            |                                                            |                |
+| ---------- | ---------------------------------------------------------- | -------------- |
+| **發佈日期**   | **專輯名稱**                                                   | **歌曲**         |
+| 2016年1月18日 | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.1             | Alive          |
+| 2016年2月1日  | 《[武林學校](../Page/武林學校.md "wikilink")》OST Part.2             | The King       |
+| 2017年4月21日 | 《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.1 | Take Your Hand |
+| 2018年6月4日  | 《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》OST Part.1         | Is It Love?    |
 
 ### 電影
 
@@ -558,7 +556,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2013年2月24日     | KBS        | 出發夢之隊2                                                         | N、HONGBIN             | Ep.173      |
 | 2013年3月3日      | KBS        | 出發夢之隊2                                                         | N、HONGBIN             | Ep.174      |
 | 2013年3月10日     | KBS        | 出發夢之隊2                                                         | LEO                   | Ep.175      |
-| 2013年3月16日     | JTBC       | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")          | N、KEN、HONGBIN         |             |
+| 2013年3月16日     | JTBC       | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                             | N、KEN、HONGBIN         |             |
 | 2013年3月17日     | tvN        | 三個傻瓜                                                           | KEN、RAVI、HONGBIN、HYUK |             |
 | 2013年3月5日、12日  | MBC Music  | All The K-pop                                                  | N、KEN、HONGBIN         | EP.18、EP.19 |
 | 2013年3月23日     | Y-Star     | 食神之路                                                           | N、KEN                 |             |
@@ -582,58 +580,58 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2013年12月20日    | tvN        | Perfect Singer VS                                              | KEN                   |             |
 | 2013年12月21日    | SBS        | STARKING                                                       | N、KEN                 |             |
 
-|                |            |                                                                     |                 |                 |
-| -------------- | ---------- | ------------------------------------------------------------------- | --------------- | --------------- |
-| **日期**         | **電視台**    | **節目名稱**                                                            | **參與成員**        | **備註**          |
-| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                                              | VIXX            |                 |
-| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                                         | VIXX（LEO除外）     |                 |
-| 2014年2月4日      | Mnet       | Beatles Code 3D                                                     | VIXX            |                 |
-| 2014年5月29日     | Mnet       | 音談故事                                                                | N、KEN、RAVI、HYUK |                 |
-| 2014年6月6日-7月4日 | SBS        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")             | HYUK            | 巴西篇 Ep.5-9      |
-| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                                | VIXX（N除外）       | 悠閒夫婦篇客串         |
-| 2014年6月8日      | SBS        | [Running Man](../Page/Running_Man.md "wikilink")                    | LEO             | Ep.199（客串）      |
-| 2014年6月10日     | Mnet       | 沒禮貌的四種採訪秀                                                           | VIXX            | Ep.7（N專訪）       |
-| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                                           | LEO、RAVI        |                 |
-| 2014年7月13日     | KBS        | 出發夢之隊2                                                              | LEO、RAVI        |                 |
-| 2014年7月15日     | Mnet       | 沒禮貌的四種採訪秀                                                           | VIXX            | Ep.12           |
-| 2014年7月29日     | MBC every1 | HitMaker                                                            | N、HYUK          | 第一季             |
-| 2014年8月12日     | Mnet       | 沒禮貌的四種採訪秀                                                           | RAVI            | Ep.16（Swings專訪） |
-| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                                              | N、LEO、RAVI、HYUK |                 |
-| 2014年8月19日     | Mnet       | 沒禮貌的四種採訪秀                                                           | RAVI            | Ep.17（泰民專訪）     |
-| 2014年8月20日     | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink") | N、HYUK          | Ep.160          |
-| 2014年10月21日    | Arirang    | After School Club                                                   | VIXX（KEN除外）     |                 |
-| 2014年10月29日    | MBC every1 | Weekly Idol                                                         | VIXX            | Ep.170          |
-| 2014年11月12日    | 香港TVB      | [超齡打工假期](https://zh.wikipedia.org/wiki/超齡打工假期 "wikilink")           | VIXX            | Ep.4            |
-| 2014年11月23日    | KBS        | 出發夢之隊2                                                              | LEO、KEN、HONGBIN |                 |
-| 2014年11月27日    | tvN        | [今天開始上班](https://zh.wikipedia.org/wiki/今天開始上班 "wikilink")           | N               | 第三季             |
-| 2014年12月12日    | MBC every1 | HitMaker                                                            | N、HYUK          | 第二季             |
-| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3                                | VIXX            | Ep.18           |
-| 2014年12月28日    | KBS        | 出發夢之隊2                                                              | LEO             |                 |
+|                |            |                                                         |                 |                 |
+| -------------- | ---------- | ------------------------------------------------------- | --------------- | --------------- |
+| **日期**         | **電視台**    | **節目名稱**                                                | **參與成員**        | **備註**          |
+| 2014年1月4日      | KBS2       | 柳熙烈寫生簿                                                  | VIXX            |                 |
+| 2014年1月30日、31日 | MBC        | 偶像明星運動會春節特辑                                             | VIXX（LEO除外）     |                 |
+| 2014年2月4日      | Mnet       | Beatles Code 3D                                         | VIXX            |                 |
+| 2014年5月29日     | Mnet       | 音談故事                                                    | N、KEN、RAVI、HYUK |                 |
+| 2014年6月6日-7月4日 | SBS        | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") | HYUK            | 巴西篇 Ep.5-9      |
+| 2014年6月7日、14日  | MBC        | [我們結婚了](../Page/我們結婚了.md "wikilink")                    | VIXX（N除外）       | 悠閒夫婦篇客串         |
+| 2014年6月8日      | SBS        | [Running Man](../Page/Running_Man.md "wikilink")        | LEO             | Ep.199（客串）      |
+| 2014年6月10日     | Mnet       | 沒禮貌的四種採訪秀                                               | VIXX            | Ep.7（N專訪）       |
+| 2014年6月12日     | MBC        | 偶像明星足球世界盃                                               | LEO、RAVI        |                 |
+| 2014年7月13日     | KBS        | 出發夢之隊2                                                  | LEO、RAVI        |                 |
+| 2014年7月15日     | Mnet       | 沒禮貌的四種採訪秀                                               | VIXX            | Ep.12           |
+| 2014年7月29日     | MBC every1 | HitMaker                                                | N、HYUK          | 第一季             |
+| 2014年8月12日     | Mnet       | 沒禮貌的四種採訪秀                                               | RAVI            | Ep.16（Swings專訪） |
+| 2014年8月14日     | BAND TV    | Agora é Tarde（巴西深夜脫口秀）                                  | N、LEO、RAVI、HYUK |                 |
+| 2014年8月19日     | Mnet       | 沒禮貌的四種採訪秀                                               | RAVI            | Ep.17（泰民專訪）     |
+| 2014年8月20日     | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")        | N、HYUK          | Ep.160          |
+| 2014年10月21日    | Arirang    | After School Club                                       | VIXX（KEN除外）     |                 |
+| 2014年10月29日    | MBC every1 | Weekly Idol                                             | VIXX            | Ep.170          |
+| 2014年11月12日    | 香港TVB      | [超齡打工假期](../Page/超齡打工假期.md "wikilink")                  | VIXX            | Ep.4            |
+| 2014年11月23日    | KBS        | 出發夢之隊2                                                  | LEO、KEN、HONGBIN |                 |
+| 2014年11月27日    | tvN        | [今天開始上班](../Page/今天開始上班.md "wikilink")                  | N               | 第三季             |
+| 2014年12月12日    | MBC every1 | HitMaker                                                | N、HYUK          | 第二季             |
+| 2014年12月13日    | KBS World  | Global Request Show : A Song For U 3                    | VIXX            | Ep.18           |
+| 2014年12月28日    | KBS        | 出發夢之隊2                                                  | LEO             |                 |
 
-|                    |            |                                                                                     |                 |               |
-| ------------------ | ---------- | ----------------------------------------------------------------------------------- | --------------- | ------------- |
-| **日期**             | **電視台**    | **節目名稱**                                                                            | **參與成員**        | **備註**        |
-| 2015年2月6日、13日      | MBC every1 | HitMaker Season2                                                                    | N、HYUK          | Ep.9、Ep.10    |
-| 2015年2月8日          | SBS        | Running Man                                                                         | N               | Ep.233        |
-| 2015年4月9日          | MBC        | 申東燁的單身派對                                                                            | VIXX            | Ep.9          |
-| 2015年4月30日         | MBC        | 申東燁的單身派對                                                                            | VIXX            | Ep.12         |
-| 2015年5月5日、12日      | JTBC       | 百人百曲-走到最後                                                                           | N、KEN           | Ep.27-28      |
-| 2015年5月9日、16日      | MBC        | 我們結婚了                                                                               | N               | 幸運夫婦篇客串       |
-| 2015年6月1日          | KBS2       | 全民脫口秀 你好                                                                            | KEN             | Ep.227        |
-| 2015年6月14日、21日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                      | KEN             | Ep.11-12      |
-| 2015年6月26日、7月3日    | Mnet       | [Show Me The Money 4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink") | RAVI            | Ep.1-2        |
-| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")                      | N               | Ep.53-56      |
-| 2015年8月25日         | Arirang    | After School Club                                                                   | VIXX LR         |               |
-| 2015年9月6日、13日      | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                      | HYUK            | Ep.23-24（聽審團） |
-| 2015年9月20日         | KBS        | A Song For You 4                                                                    | VIXX LR         | Ep.10         |
-| 2015年9月28日         | KBS        | 中秋特輯 全國偶像歌唱大賽                                                                       | VIXX（N除外）       |               |
-| 2015年9月29日、30日     | MBC        | 偶像明星運動會中秋特辑                                                                         | LEO、RAVI        | （室內足球）        |
-| 2015年10月2日- 10月23日 | SBS        | 叢林的法則                                                                               | N               | 尼加拉瓜篇 Ep.4-7  |
-| 2015年10月3日         | KBS & 深圳衛視 | 中韓夢之隊                                                                               | LEO、HONGBIN     | Ep.3          |
-| 2015年10月4日         | KBS        | A Song For You 4                                                                    | HONGBIN         | Ep.11(MC至親特輯) |
-| 2015年10月17日        | KBS & 深圳衛視 | 中韓夢之隊                                                                               | HONGBIN         | Ep.5          |
-| 2015年10月14日        | MBC every1 | Weekly Idol                                                                         | HYUK            | Ep.220        |
-| 2015年12月2日         | MBC every1 | Weekly Idol                                                                         | VIXX（HONGBIN除外） | Ep.227        |
+|                    |            |                                                                  |                 |               |
+| ------------------ | ---------- | ---------------------------------------------------------------- | --------------- | ------------- |
+| **日期**             | **電視台**    | **節目名稱**                                                         | **參與成員**        | **備註**        |
+| 2015年2月6日、13日      | MBC every1 | HitMaker Season2                                                 | N、HYUK          | Ep.9、Ep.10    |
+| 2015年2月8日          | SBS        | Running Man                                                      | N               | Ep.233        |
+| 2015年4月9日          | MBC        | 申東燁的單身派對                                                         | VIXX            | Ep.9          |
+| 2015年4月30日         | MBC        | 申東燁的單身派對                                                         | VIXX            | Ep.12         |
+| 2015年5月5日、12日      | JTBC       | 百人百曲-走到最後                                                        | N、KEN           | Ep.27-28      |
+| 2015年5月9日、16日      | MBC        | 我們結婚了                                                            | N               | 幸運夫婦篇客串       |
+| 2015年6月1日          | KBS2       | 全民脫口秀 你好                                                         | KEN             | Ep.227        |
+| 2015年6月14日、21日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                   | KEN             | Ep.11-12      |
+| 2015年6月26日、7月3日    | Mnet       | [Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink") | RAVI            | Ep.1-2        |
+| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")   | N               | Ep.53-56      |
+| 2015年8月25日         | Arirang    | After School Club                                                | VIXX LR         |               |
+| 2015年9月6日、13日      | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                   | HYUK            | Ep.23-24（聽審團） |
+| 2015年9月20日         | KBS        | A Song For You 4                                                 | VIXX LR         | Ep.10         |
+| 2015年9月28日         | KBS        | 中秋特輯 全國偶像歌唱大賽                                                    | VIXX（N除外）       |               |
+| 2015年9月29日、30日     | MBC        | 偶像明星運動會中秋特辑                                                      | LEO、RAVI        | （室內足球）        |
+| 2015年10月2日- 10月23日 | SBS        | 叢林的法則                                                            | N               | 尼加拉瓜篇 Ep.4-7  |
+| 2015年10月3日         | KBS & 深圳衛視 | 中韓夢之隊                                                            | LEO、HONGBIN     | Ep.3          |
+| 2015年10月4日         | KBS        | A Song For You 4                                                 | HONGBIN         | Ep.11(MC至親特輯) |
+| 2015年10月17日        | KBS & 深圳衛視 | 中韓夢之隊                                                            | HONGBIN         | Ep.5          |
+| 2015年10月14日        | MBC every1 | Weekly Idol                                                      | HYUK            | Ep.220        |
+| 2015年12月2日         | MBC every1 | Weekly Idol                                                      | VIXX（HONGBIN除外） | Ep.227        |
 
 |                                   |                  |                                                                     |                 |                      |
 | --------------------------------- | ---------------- | ------------------------------------------------------------------- | --------------- | -------------------- |
@@ -662,7 +660,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2016年7月22日、29日                    | MBC              | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")           | Ken             | Ep.16、17 (王中王戰)      |
 | 2016年7月29日                        | 富士電視台            | PROJECT VIXX 2 來自宇宙的侵略者們的回歸                                         | VIXX            |                      |
 | 2016年8月22日                        | Mwave            | MEET\&GREET                                                         | VIXX            |                      |
-| 2016年9月14日                        | MBC              | [偶像料理王](https://zh.wikipedia.org/wiki/偶像料理王 "wikilink")             | VIXX            |                      |
+| 2016年9月14日                        | MBC              | [偶像料理王](../Page/偶像料理王.md "wikilink")                                | VIXX            |                      |
 | 2016年9月14日                        | MBC every1       | [一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")             | N               | Ep.268（電話連線）         |
 | 2016年9月14日                        | KBS2             | Trick\&True                                                         | Ken             |                      |
 | 2016年9月15日                        | MBC              | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")   | VIXX            |                      |
@@ -684,7 +682,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2017年1月31日       | MBC                                     | [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")       | VIXX（RAVI缺席） |                   |
 | 2017年2月4日        | KBS                                     | 演藝家中介                                                                   | RAVI         | Idol solo大捷       |
 | 2017年2月10日、17日   | KBS2                                    | 歌曲之爭 勝負                                                                 | Leo          |                   |
-| 2017年2月14日       | MBC every1                              | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")       | Leo          | 「VS情人節！甜蜜索索月將近」特輯 |
+| 2017年2月14日       | MBC every1                              | [Video Star](../Page/Video_Star.md "wikilink")                          | Leo          | 「VS情人節！甜蜜索索月將近」特輯 |
 | 2017年2月26日       | SkyTravel                               | Juke Bus                                                                | Ken          |                   |
 | 2017年3月5日        | MBC                                     | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                          | N            | Ep.101            |
 | 2017年3月6日─12日    | Amigo TV                                | VIXX篇                                                                   | VIXX         |                   |
@@ -703,19 +701,19 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2018年3月4日         | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | N            | 一日記者                   |
 | 2018年3月7日         | MBC        | [黃金漁場Radio Star](https://zh.wikipedia.org/wiki/黃金漁場Radio_Star "wikilink")   | N            | Ep.510(「Sam N Sams」特輯) |
 | 2018年3月11日        | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | N            | 特別記者                   |
-| 2018年3月14日        | KBS        | [戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")                       | N            | EP.78（Special MC）      |
+| 2018年3月14日        | KBS        | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                          | N            | EP.78（Special MC）      |
 | 2018年4月1、8日       | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | KEN          | Ep.147-148（聽審團）        |
-| 2018年4月25日        | MBC        | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")         | VIXX         | EP.352                 |
-| 2018年5月12、19、26日  | KBS        | [戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")                       | N、HONGBIN    | EP.91\~93              |
-| 2018年6月12日        | MBC every1 | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")           | RAVI         | ‘Too much是一流的’特辑       |
+| 2018年4月25日        | MBC        | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | VIXX         | EP.352                 |
+| 2018年5月12、19、26日  | KBS        | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                          | N、HONGBIN    | EP.91\~93              |
+| 2018年6月12日        | MBC every1 | [Video Star](../Page/Video_Star.md "wikilink")                              | RAVI         | ‘Too much是一流的’特辑       |
 | 2018年6月13日        | tvN        | [周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                     | RAVI         | EP.174                 |
-| 2018年7月15日        | JTBC       | [隱藏歌手](https://zh.wikipedia.org/wiki/隱藏歌手 "wikilink")                       | KEN          |                        |
+| 2018年7月15日        | JTBC       | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                          | KEN          |                        |
 | 2018年7月20日        | MBN        | 美食CLUB                                                                      | RAVI         |                        |
 | 2018年7月23日        | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 特別記者                   |
 | 2018年7月30日        | EBS        | 縮小我們家的距離 - 父母成績單                                                            | RAVI         |                        |
 | 2018年8月5日、12日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | RAVI         | Ep.165-166（聽審團）        |
 | 2018年8月6日         | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 一日記者                   |
-| 2018年8月8日         | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")         | Leo          |                        |
+| 2018年8月8日         | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | Leo          |                        |
 | 2018年9月3、17日      | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 一日記者                   |
 | 2018年9月15日        | KBS2       | [不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")                     | KEN          |                        |
 | 2018年9月16、23日     | SBS MTV    | 最高外生                                                                        | RAVI         |                        |
@@ -723,7 +721,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2018年9月27日        | Mnet       | 訪問教師                                                                        | RAVI         |                        |
 | 2018年9月28日、10月5日  | Mnet       | 從現在開始 VERIVERY                                                              | Leo、RAVI     |                        |
 | 2018年10月1日        | MBC        | [Section TV 演藝通信](https://zh.wikipedia.org/wiki/Section_TV_演藝通信 "wikilink") | RAVI         | 一日記者                   |
-| 2018年10月2日        | MBC every1 | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")           | Leo          |                        |
+| 2018年10月2日        | MBC every1 | [Video Star](../Page/Video_Star.md "wikilink")                              | Leo          |                        |
 | 2018年10月12、19日    | Mnet       | 從現在開始 VERIVERY                                                              | HYUK         |                        |
 | 2018年10月26日、11月2日 | MBC        | 農創不敗                                                                        | RAVI         |                        |
 | 2018年10月28日       | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | RAVI         | Ep.175                 |
@@ -732,12 +730,12 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2018年12月22日       | MBC        | UNDER NINETEEN                                                              | KEN、RAVI     | Ep.8                   |
 | 2018年12月23、30日    | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | KEN、RAVI     | Ep.183-184（聽審團）        |
 
-|               |          |                                                                         |          |            |
-| ------------- | -------- | ----------------------------------------------------------------------- | -------- | ---------- |
-| **日期**        | **電視台**  | **節目名稱**                                                                | **參與成員** | **備註**     |
-| 2019年1月20、27日 | MBC      | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                          | KEN      | Ep.187-188 |
-| 2019年3月4日     | KBS      | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")         | RAVI     |            |
-| 2019年4月5、12日  | On Style | [Get it beauty](https://zh.wikipedia.org/wiki/Get_it_beauty "wikilink") | RAVI     |            |
+|               |          |                                                      |          |            |
+| ------------- | -------- | ---------------------------------------------------- | -------- | ---------- |
+| **日期**        | **電視台**  | **節目名稱**                                             | **參與成員** | **備註**     |
+| 2019年1月20、27日 | MBC      | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")       | KEN      | Ep.187-188 |
+| 2019年3月4日     | KBS      | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")         | RAVI     |            |
+| 2019年4月5、12日  | On Style | [Get it beauty](../Page/Get_it_beauty.md "wikilink") | RAVI     |            |
 
 ### 廣播節目
 
@@ -921,26 +919,26 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 音樂節目主持
 
-|                  |                                                       |                                                                             |                |            |
-| ---------------- | ----------------------------------------------------- | --------------------------------------------------------------------------- | -------------- | ---------- |
-| **日期**           | **電視台**                                               | **節目名稱**                                                                    | **參與成員**       | '''備註 '''  |
-| 2014年1月10日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | N、LEO          | 待機室訪問特別 MC |
-| 2015年3月3日─10月13日 | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HONGBIN        | 固定MC       |
-| 2015年5月9日─11月14日 | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | N              | 固定MC       |
-| 2015年11月17日      | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HYUK           | 特別 MC      |
-| 2016年4月24日       | SBS                                                   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                       | HONGBIN        | 特別 MC      |
-| 2016年4月26日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | N              | 特別 MC      |
-| 2016年5月3日        | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | KEN            | 特別 MC      |
-| 2016年5月10日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HYUK           | 特別 MC      |
-| 2016年8月16日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HONGBIN        | 特別 MC      |
-| 2016年8月23日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | N              | 特別 MC      |
-| 2016年8月30日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HYUK           | 特別 MC      |
-| 2017年2月14日       | SBS MTV                                               | [THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink") | HONGBIN        | 特別 MC      |
-| 2017年5月18日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")         | N、HONGBIN、HYUK | 特別 MC      |
-| 2017年9月2日        | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")          | N              | 特別 MC      |
-| 2018年5月18日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")           | N              | 特別 MC      |
-| 2019年1月10日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")         | RAVI、HYUK      | 特別 MC      |
-| 2019年3月21日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")         | RAVI           | 特別 MC      |
+|                  |                                                       |                                                                     |                |            |
+| ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------- | -------------- | ---------- |
+| **日期**           | **電視台**                                               | **節目名稱**                                                            | **參與成員**       | '''備註 '''  |
+| 2014年1月10日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N、LEO          | 待機室訪問特別 MC |
+| 2015年3月3日─10月13日 | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 固定MC       |
+| 2015年5月9日─11月14日 | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 固定MC       |
+| 2015年11月17日      | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年4月24日       | SBS                                                   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | HONGBIN        | 特別 MC      |
+| 2016年4月26日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年5月3日        | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | KEN            | 特別 MC      |
+| 2016年5月10日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2016年8月16日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2016年8月23日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | N              | 特別 MC      |
+| 2016年8月30日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HYUK           | 特別 MC      |
+| 2017年2月14日       | SBS MTV                                               | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")            | HONGBIN        | 特別 MC      |
+| 2017年5月18日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | N、HONGBIN、HYUK | 特別 MC      |
+| 2017年9月2日        | MBC                                                   | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")  | N              | 特別 MC      |
+| 2018年5月18日       | KBS                                                   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")   | N              | 特別 MC      |
+| 2019年1月10日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI、HYUK      | 特別 MC      |
+| 2019年3月21日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") | RAVI           | 特別 MC      |
 
 #### 綜藝節目主持
 
@@ -953,14 +951,14 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 綜藝節目固定
 
-|                        |            |                                                                               |          |
-| ---------------------- | ---------- | ----------------------------------------------------------------------------- | -------- |
-| **日期**                 | **電視台**    | **節目名稱**                                                                      | **參與成員** |
-| 2015年9月2日─2016年3月23日   | MBC every1 | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")           | N        |
-| 2017年3月30日─2017年6月1日   | On Style   | [Lipstick Prince](https://zh.wikipedia.org/wiki/Lipstick_Prince "wikilink") 2 | N        |
-| 2018年9月14日─2018年10月26日 | MBN        | [現實男女](https://zh.wikipedia.org/wiki/現實男女 "wikilink") 2                       | KEN      |
-| 2018年11月23日─2019年1月25日 | MBC        | [真正的男人300第三季](https://zh.wikipedia.org/wiki/真正的男人300 "wikilink")              | RAVI     |
-| 2018年11月24日─2019年1月6日  | tvN        | [令人垂涎的游轮](https://zh.wikipedia.org/wiki/令人垂涎的游轮 "wikilink")                   | HYUK     |
+|                        |            |                                                             |          |
+| ---------------------- | ---------- | ----------------------------------------------------------- | -------- |
+| **日期**                 | **電視台**    | **節目名稱**                                                    | **參與成員** |
+| 2015年9月2日─2016年3月23日   | MBC every1 | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")            | N        |
+| 2017年3月30日─2017年6月1日   | On Style   | [Lipstick Prince](../Page/Lipstick_Prince.md "wikilink") 2  | N        |
+| 2018年9月14日─2018年10月26日 | MBN        | [現實男女](../Page/現實男女.md "wikilink") 2                        | KEN      |
+| 2018年11月23日─2019年1月25日 | MBC        | [真正的男人300第三季](../Page/真正的男人300.md "wikilink")               | RAVI     |
+| 2018年11月24日─2019年1月6日  | tvN        | [令人垂涎的游轮](https://zh.wikipedia.org/wiki/令人垂涎的游轮 "wikilink") | HYUK     |
 
 #### 廣播節目主持
 
@@ -980,7 +978,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 2014年：Korea Brand & Entertainment Expo 2014 品牌暨韓流商品博覽會
     宣傳大使（與[徐仁國](../Page/徐仁國.md "wikilink")）
   - 2015年-2018年：釜山樂天酒店
-    形象代言人（與[防彈少年團](https://zh.wikipedia.org/wiki/防彈少年團 "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
+    形象代言人（與[防彈少年團](../Page/防彈少年團.md "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
   - 2015年：Feltics 服飾品牌代言
   - 2016年：SK PLANET 11號街(韓國綜合網上商城)Plus篇 廣告
   - 2016年-2017年：JAMBANGEE 服飾品牌代言
@@ -1533,7 +1531,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 </tr>
 <tr class="odd">
 <td><p>6月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1566,7 +1564,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>10月28日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1583,13 +1581,13 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p>2015年</p></td>
 <td><p>3月3日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Love Equation</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1630,7 +1628,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>3月10日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1646,14 +1644,14 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>11月17日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Chained Up</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1671,13 +1669,13 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p>2016年</p></td>
 <td><p>4月26日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td><p>Dynamite</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1694,7 +1692,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>5月3日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1717,7 +1715,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 </tr>
 <tr class="even">
 <td><p>8月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC_Plus_Media" title="wikilink">MBC Music</a></p></td>
+<td><p><a href="../Page/MBC_Plus_Media.md" title="wikilink">MBC Music</a></p></td>
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 <td></td>
 <td></td>
@@ -1726,7 +1724,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <tr class="odd">
 <td><p>9月6日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1792,7 +1790,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p><a href="https://zh.wikipedia.org/wiki/hyde_(EP)" title="wikilink">Jekyll</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/VOODOO" title="wikilink">VOODOO</a></p></td>
+<td><p><a href="../Page/VOODOO.md" title="wikilink">VOODOO</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Jelly_Christmas_2013" title="wikilink">Jelly Christmas 2013</a></p></td>
@@ -1807,7 +1805,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p><a href="https://zh.wikipedia.org/wiki/ETERNITY" title="wikilink">ETERNITY</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Error_(VIXX韓語專輯)" title="wikilink">Error</a></p></td>
+<td><p><a href="../Page/Error_(VIXX韓語專輯).md" title="wikilink">Error</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>청춘이 아파（青春悲歌）</p></td>
@@ -1816,7 +1814,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p>2015年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Boys&#39;_Record" title="wikilink">Boys' Record</a></p></td>
+<td><p><a href="../Page/Boys&#39;_Record.md" title="wikilink">Boys' Record</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/空隙" title="wikilink">空隙</a></p></td>
@@ -1834,10 +1832,10 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p><a href="../Page/Zelos_(VIXX單曲).md" title="wikilink">Zelos</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Hades_(VIXX單曲)" title="wikilink">Hades</a></p></td>
+<td><p><a href="../Page/Hades_(VIXX單曲).md" title="wikilink">Hades</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Kratos_(VIXX迷你專輯)" title="wikilink">Kratos</a></p></td>
+<td><p><a href="../Page/Kratos_(VIXX迷你專輯).md" title="wikilink">Kratos</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
@@ -1846,7 +1844,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p><a href="https://zh.wikipedia.org/wiki/R.EAL1ZE" title="wikilink">R.EAL1ZE</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/桃源境" title="wikilink">桃源境</a></p></td>
+<td><p><a href="../Page/桃源境.md" title="wikilink">桃源境</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Whisper_(迷你專輯)" title="wikilink">Whisper</a></p></td>
@@ -1855,7 +1853,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 <td><p>2018年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/EAU_DE_VIXX" title="wikilink">EAU DE VIXX</a></p></td>
+<td><p><a href="../Page/EAU_DE_VIXX.md" title="wikilink">EAU DE VIXX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Canvas_(Leo迷你專輯)" title="wikilink">CANVAS</a></p></td>
@@ -1901,7 +1899,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 ## 音樂創作
 
-[社團法人韓國音樂著作權協會(KOMCA)登記之資料](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+[社團法人韓國音樂著作權協會(KOMCA)登記之資料](../Page/韓國音樂著作權協會.md "wikilink")
 
 |        |            |          |            |
 | ------ | ---------- | -------- | ---------- |

@@ -5,7 +5,7 @@
 ### CD
 
 1.  **君に届け**
-    作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
+    作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
       - 電影『[只想告訴你](https://zh.wikipedia.org/wiki/只想告訴你#電影 "wikilink")』主題歌
       - 朝日電視台[Super J
         Channel結尾曲](https://zh.wikipedia.org/wiki/Super_J_Channel "wikilink")

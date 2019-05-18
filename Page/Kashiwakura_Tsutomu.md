@@ -67,7 +67,7 @@
   - [劍勇傳說YAIBA](https://zh.wikipedia.org/wiki/劍勇傳說YAIBA "wikilink")（海參男、蛞蝓男）
   - [GS美神](https://zh.wikipedia.org/wiki/GS美神極樂大作戰 "wikilink")（サブ）
   - 麵包超人（わさびさん）
-  - [欢乐的杨柳镇](https://zh.wikipedia.org/wiki/欢乐的杨柳镇 "wikilink")（ターヤン）
+  - [欢乐的杨柳镇](../Page/欢乐的杨柳镇.md "wikilink")（ターヤン）
   - [超電動機械人 鐵人28號FX](../Page/超電動機械人_鐵人28號FX.md "wikilink")（シーモア）
   - [哆啦A夢](../Page/哆啦A夢.md "wikilink")（售貨員）
   - [美少女戰士R](../Page/美少女戰士R.md "wikilink")（沙菲爾王子）
@@ -108,7 +108,7 @@
 
 **1997年**
 
-  - [學級王山崎](https://zh.wikipedia.org/wiki/學級王山崎 "wikilink")（下部拓也）
+  - [學級王山崎](../Page/學級王山崎.md "wikilink")（下部拓也）
   - [金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")（鴨下あきら）
   - [ケロケロちゃいむ](https://zh.wikipedia.org/wiki/ケロケロちゃいむ "wikilink")（タマちゃん）
   - [手塚治虫的舊約聖書物語](https://zh.wikipedia.org/wiki/手塚治虫的舊約聖書物語 "wikilink")（セペテ）

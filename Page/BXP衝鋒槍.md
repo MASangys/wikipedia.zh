@@ -34,7 +34,7 @@ BXP以高達1,000
     Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
   - 2012年—《[-{zh-cn:新特警判官; zh-hk:新特警判官; zh-sg:新特警判官;
     zh-tw:超時空戰警3D;}-](../Page/新特警判官.md "wikilink")》：被罪犯茨維爾納（Zwirner，[賈森·庫伯飾演](https://zh.wikipedia.org/wiki/賈森·庫伯 "wikilink")）和其他多名打手所使用。
-  - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟飾演](https://zh.wikipedia.org/wiki/尤蘭蒂·維瑟 "wikilink")）所使用。
+  - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟飾演](../Page/尤蘭蒂·維瑟.md "wikilink")）所使用。
 
 ### [电视剧](../Page/电视剧.md "wikilink")
 

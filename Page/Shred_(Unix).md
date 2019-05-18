@@ -1,4 +1,4 @@
-**`shred`**是[Unix与](../Page/Unix.md "wikilink")[类Unix系统中的命令之一](../Page/类Unix系统.md "wikilink")，用于文件与设备数据使之难以被恢复。shred也是[GNU核心工具组的组成部分之一](../Page/GNU核心工具组.md "wikilink")。
+**`shred`**是[Unix与](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中的命令之一](../Page/类Unix系统.md "wikilink")，用于文件与设备数据使之难以被恢复。shred也是[GNU核心工具组的组成部分之一](../Page/GNU核心工具组.md "wikilink")。
 
 ## 背景
 

@@ -1,4 +1,4 @@
-**DP輕機槍**（，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫於](https://zh.wikipedia.org/wiki/瓦西里·捷格加廖夫 "wikilink")1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。
+**DP輕機槍**（，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫於](../Page/瓦西里·捷格加廖夫.md "wikilink")1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，此槍經歷過[西班牙內戰](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，在[冬季戰爭當中被](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")[芬蘭軍拿到](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")8000支，在[第二次世界大戰的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德蘇戰爭當中也經常出現](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。
 
 ## 設計特式
 
@@ -106,8 +106,8 @@ DTM四聯裝車載機槍衍生型。
     zh-hant:戰地風雲1942;}-](../Page/戰地風雲1942.md "wikilink")》中選擇突擊兵可以使用DP。
   - 在2014年推出的《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》扮演蘇聯紅軍的玩家可購買並使用DP-28。
   - 在《[彩虹六號：圍攻行動](https://zh.wikipedia.org/wiki/彩虹六號：圍攻行動 "wikilink")》中，俄羅斯特種部隊隊員Tachanka的技能是架設DP-28（實際上更像[RP-46輕機槍](../Page/RP-46輕機槍.md "wikilink")）作為固定機槍使用。
-  - 在2017年推出的《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》中，命名為"DP-28"，隨機散落在島嶼各個地方，可加裝紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。有着47發盤狀彈匣。常被玩家稱做「大盤雞」
-  - 在《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》中：型号为DP-27，命名为「DP-27」，使用木制握把枪托，60发弹盘，射击时奇怪的弹盘不会转动。为步枪手专用武器，可以通过抽奖获得，并可以改装瞄准镜（[EoTech
+  - 在2017年推出的《[絕地求生](../Page/絕地求生.md "wikilink")》中，命名為"DP-28"，隨機散落在島嶼各個地方，可加裝紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。有着47發盤狀彈匣。常被玩家稱做「大盤雞」
+  - 在《[战争前线](../Page/战争前线.md "wikilink")》中：型号为DP-27，命名为「DP-27」，使用木制握把枪托，60发弹盘，射击时奇怪的弹盘不会转动。为步枪手专用武器，可以通过抽奖获得，并可以改装瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")），无法改装枪口配件以及战术导轨配件，預設裝備双脚架。拥有黄金版本，强化射速与载弹量。
 
 ### 電影

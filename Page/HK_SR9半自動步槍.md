@@ -1,6 +1,6 @@
 **HK
 SR9**是一款由[德国槍械製造商](../Page/德国.md "wikilink")[黑克勒-科赫公司所研製及生產](../Page/黑克勒&科赫.md "wikilink")、以[滾輪延遲反衝式槍機操作的運動及打靶用途的](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。這該步槍是以美國民用市場的[HK91為藍本](https://zh.wikipedia.org/wiki/HK91半自動步槍 "wikilink")，並且裝上來自[HK
-PSG1和](../Page/HK_PSG1狙擊步槍.md "wikilink")[MSG90](../Page/HK_MSG90狙擊步槍.md "wikilink")[精確射手步槍的零部件](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")。發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")／民用型[.308
+PSG1和](../Page/HK_PSG1狙擊步槍.md "wikilink")[MSG90](../Page/HK_MSG90狙擊步槍.md "wikilink")[精確射手步槍的零部件](../Page/精確射手步槍.md "wikilink")。發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")／民用型[.308
 Winchester](../Page/.308_Winchester.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
@@ -18,7 +18,7 @@ SR9系列是由[HK91系列步槍經過修改而成的](https://zh.wikipedia.org/
 
 ## 設計細節
 
-SR9系列步槍裝有無肋條加強型[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[機械瞄具和半自動只能半自動射擊的](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")[扳機組件](https://zh.wikipedia.org/wiki/扳機 "wikilink")。安裝在機匣左側的保險裝置選擇桿可以由[拇指激活操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，而機匣兩邊都印有分別代表著保險的“0”（白色）和射擊的“1”（紅色）表示數字標誌。與[HK
+SR9系列步槍裝有無肋條加強型[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[機械瞄具和半自動只能半自動射擊的](../Page/機械瞄具.md "wikilink")[扳機組件](https://zh.wikipedia.org/wiki/扳機 "wikilink")。安裝在機匣左側的保險裝置選擇桿可以由[拇指激活操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，而機匣兩邊都印有分別代表著保險的“0”（白色）和射擊的“1”（紅色）表示數字標誌。與[HK
 G3步槍槍族成員一樣是裝有在](../Page/HK_G3自動步槍.md "wikilink")[護木上方的管狀節套左邊前端並且在導槽中運動](https://zh.wikipedia.org/wiki/護木 "wikilink")，待發時可由橫槽固定，並且向前摺疊。釋放[彈匣只能按下位於機匣右側](../Page/彈匣.md "wikilink")[彈匣插槽的按鈕](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")。
 
 SR9的前護木為全新的穩固握把樣式，這樣就防止了這槍裝上[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。不過，這槍的前護木也可根據使用者的選擇被替換為HK91的標準前護木。SR9的槍管具有與[PSG1的槍管相同尺寸的口徑剖面](../Page/HK_PSG1狙擊步槍.md "wikilink")，包括，只是沒有安裝槍口裝置。基本型SR9裝上了加固[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[塑料的連中間拇指大孔型運動步槍式](../Page/塑料.md "wikilink")[槍托](../Page/槍托.md "wikilink")（槍托與握把相連）連[MSG90的緩衝裝置](../Page/HK_MSG90狙擊步槍.md "wikilink")。
@@ -57,10 +57,10 @@ T一樣，被標記為“TC”。1989年，[美國菸酒槍炮及爆裂物管理
 ## 衍生型
 
   - **SR9
-    T（Target）**：與基本型SR9不同之處在於原來的中間拇指大孔型運動步槍式[槍托套件改為來自](../Page/槍托.md "wikilink")[MSG90的可調節式槍托](../Page/HK_MSG90狙擊步槍.md "wikilink")。\[3\]\[4\]MSG90的槍托上具有突出的托腮片，導致使用[機械瞄具時有點不舒適](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")。此外，亦裝上了[PSG1的](../Page/HK_PSG1狙擊步槍.md "wikilink")[精密](../Page/準確與精密.md "wikilink")[扳機組和輪廓特別的可調節式斑點狀](https://zh.wikipedia.org/wiki/扳機 "wikilink")[胡桃木](https://zh.wikipedia.org/wiki/胡桃木 "wikilink")。
+    T（Target）**：與基本型SR9不同之處在於原來的中間拇指大孔型運動步槍式[槍托套件改為來自](../Page/槍托.md "wikilink")[MSG90的可調節式槍托](../Page/HK_MSG90狙擊步槍.md "wikilink")。\[3\]\[4\]MSG90的槍托上具有突出的托腮片，導致使用[機械瞄具時有點不舒適](../Page/機械瞄具.md "wikilink")。此外，亦裝上了[PSG1的](../Page/HK_PSG1狙擊步槍.md "wikilink")[精密](../Page/準確與精密.md "wikilink")[扳機組和輪廓特別的可調節式斑點狀](https://zh.wikipedia.org/wiki/扳機 "wikilink")[胡桃木](https://zh.wikipedia.org/wiki/胡桃木 "wikilink")。
   - **SR9 TC（Target Competition）**：與SR9
     T的不同之處在於它具有一個PSG1的“球桿腳”狀可調節式[槍托](../Page/槍托.md "wikilink")。\[5\]SR9
-    TC取消了[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")，因為設在PSG1的槍托上可調節式貼腮片，令使用者的頭部貼著槍托的時候實在過高。這個亦是PSG1亦沒有裝上機械瞄具的原因。事實上，PSG1的狙擊型扳機組和可調節式斑點狀[胡桃木](https://zh.wikipedia.org/wiki/胡桃木 "wikilink")與SR9
+    TC取消了[機械瞄具](../Page/機械瞄具.md "wikilink")，因為設在PSG1的槍托上可調節式貼腮片，令使用者的頭部貼著槍托的時候實在過高。這個亦是PSG1亦沒有裝上機械瞄具的原因。事實上，PSG1的狙擊型扳機組和可調節式斑點狀[胡桃木](https://zh.wikipedia.org/wiki/胡桃木 "wikilink")與SR9
     T是一樣的。
 
 ## 圖集

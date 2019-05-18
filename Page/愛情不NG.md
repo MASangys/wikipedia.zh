@@ -1,4 +1,4 @@
-《**愛情不NG**》（）是[中國](../Page/中國.md "wikilink")2013年的一部[愛情電影](https://zh.wikipedia.org/wiki/愛情電影 "wikilink")。由[朱時茂執導](https://zh.wikipedia.org/wiki/朱時茂 "wikilink")，[余少群](../Page/余少群.md "wikilink")、[鍾欣潼](https://zh.wikipedia.org/wiki/鍾欣潼 "wikilink")、[李小冉](../Page/李小冉.md "wikilink")、[蘇見信領銜主演](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")。
+《**愛情不NG**》（）是[中國](../Page/中國.md "wikilink")2013年的一部[愛情電影](https://zh.wikipedia.org/wiki/愛情電影 "wikilink")。由[朱時茂執導](https://zh.wikipedia.org/wiki/朱時茂 "wikilink")，[余少群](../Page/余少群.md "wikilink")、[鍾欣潼](../Page/鍾欣潼.md "wikilink")、[李小冉](../Page/李小冉.md "wikilink")、[蘇見信領銜主演](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")。
 
 ## 故事介紹
 
@@ -21,7 +21,7 @@
 | --------------------------------------------------- | ------ | -------- |
 | **演員**                                              | **角色** | **角色介紹** |
 | [張鐵林](../Page/張鐵林.md "wikilink")                    | 導　演    |          |
-| [朱一龍](https://zh.wikipedia.org/wiki/朱一龙 "wikilink") | 演技哥    |          |
+| [朱一龍](../Page/朱一龙.md "wikilink")                    | 演技哥    |          |
 | [趙寶剛](https://zh.wikipedia.org/wiki/趙寶剛 "wikilink") |        |          |
 | [齊秦](../Page/齊秦.md "wikilink")                      |        |          |
 | [孫楠](https://zh.wikipedia.org/wiki/孫楠 "wikilink")   |        |          |

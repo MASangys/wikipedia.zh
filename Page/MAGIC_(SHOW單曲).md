@@ -1,4 +1,4 @@
-《**MAGIC**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥演唱](../Page/羅志祥.md "wikilink")，於2012年6月20日用藝名「SHOW」發行的第二張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，以單曲同名快歌《MAGIC》作主打歌曲。此作品與前作《[DANTE](../Page/DANTE_\(單曲\).md "wikilink")》不同，不會推出台灣版本。
+《**MAGIC**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥演唱](../Page/羅志祥.md "wikilink")，於2012年6月20日用藝名「SHOW」發行的第二張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，以單曲同名快歌《MAGIC》作主打歌曲。此作品與前作《[DANTE](https://zh.wikipedia.org/wiki/DANTE_\(單曲\) "wikilink")》不同，不會推出台灣版本。
 
 ## 曲目
 

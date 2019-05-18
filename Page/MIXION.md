@@ -56,7 +56,7 @@
   - 2012年11月5日[超視](https://zh.wikipedia.org/wiki/超視 "wikilink")：《[大小姐進化論](https://zh.wikipedia.org/wiki/大小姐進化論 "wikilink")》
   - 2012年11月13日[三立](https://zh.wikipedia.org/wiki/三立 "wikilink")：《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》
   - 2012年11月14日[衛視中文台](../Page/衛視中文台.md "wikilink")：《[歡樂智多星](../Page/歡樂智多星.md "wikilink")》、[中天娛樂台](../Page/中天娛樂台.md "wikilink")：《[財神大地主](https://zh.wikipedia.org/wiki/財神大地主 "wikilink")》
-  - 2012年11月24日[東森綜合台](../Page/東森綜合台.md "wikilink")：《[超級總動員](https://zh.wikipedia.org/wiki/超級總動員 "wikilink")》
+  - 2012年11月24日[東森綜合台](../Page/東森綜合台.md "wikilink")：《[超級總動員](../Page/超級總動員.md "wikilink")》
   - 2012年11月27日[中天綜合台](../Page/中天綜合台.md "wikilink")：《[康熙來了](../Page/康熙來了.md "wikilink")》
   - 2012年12月4日[衛視中文台](../Page/衛視中文台.md "wikilink")：《[麻辣天后宮](../Page/麻辣天后宮.md "wikilink")》
   - 2012年12月8日[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")：《[達人總動員](../Page/達人總動員.md "wikilink")》

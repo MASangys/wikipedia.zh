@@ -91,8 +91,7 @@
 ### C03BC [汞类利尿药](https://zh.wikipedia.org/wiki/汞类利尿药 "wikilink")（Mercurial diuretics）
 
   -
-    C03BC01
-    [汞撒利](https://zh.wikipedia.org/wiki/汞撒利 "wikilink")（Mersalyl）
+    C03BC01 [汞撒利](../Page/汞撒利.md "wikilink")（Mersalyl）
 
 ### C03BD [黄嘌呤衍生物](../Page/黄嘌呤.md "wikilink")（Xanthine derivatives）
 

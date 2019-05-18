@@ -7,7 +7,7 @@ entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")。
 以「甜得像巧克力一樣，用笑容“治癒”並帶來元氣的偶像」\[1\]的概念所組成的三人團體，把事務所前輩[糖果合唱團作為目標](../Page/糖果合唱團.md "wikilink")。\[2\]
 
 2011年11月27日在Zepp Tokyo舉辦的「Watanabe Girls Live
-〜久違的全員集合\!?〜」首次公開披露，當時三人都年僅14歲。\[3\]同年12月28日發行首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「[Milk和Chocolate](https://zh.wikipedia.org/wiki/Milk和Chocolate "wikilink")」，\[4\]該A面曲被[東京電視台系](../Page/東京電視網.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[SKET
+〜久違的全員集合\!?〜」首次公開披露，當時三人都年僅14歲。\[3\]同年12月28日發行首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")「[Milk和Chocolate](../Page/Milk和Chocolate.md "wikilink")」，\[4\]該A面曲被[東京電視台系](../Page/東京電視網.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[SKET
 DANCE選為片尾曲](../Page/SKET_DANCE.md "wikilink")。\[5\]
 
 橋本在團體組成之前以[美女甜甜圈！！！的成員名義活動](../Page/美女甜甜圈！！！.md "wikilink")，而2012年3月2日，高橋與玉川成為該團體五期生，所以事實上ChocoLe可以算是美女甜甜圈！！！子團體。
@@ -116,7 +116,7 @@ DANCE選為片尾曲](../Page/SKET_DANCE.md "wikilink")。\[5\]
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2011年12月28日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Milk和Chocolate" title="wikilink">Milk和Chocolate</a></strong></p></td>
+<td><p><strong><a href="../Page/Milk和Chocolate.md" title="wikilink">Milk和Chocolate</a></strong></p></td>
 <td><p>48位</p></td>
 <td><p>CD+DVD<br />
 CD</p></td>

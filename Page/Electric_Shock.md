@@ -1,5 +1,5 @@
 “**Electric
-Shock**”是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)第二張EP](../Page/f\(x\)_\(組合\).md "wikilink")，於2012年6月13日全面發售。而f(x)通過在6月14日Mnet的《[M\!
+Shock**”是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)第二張EP](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，於2012年6月13日全面發售。而f(x)通過在6月14日Mnet的《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》給觀眾展現精彩的回歸舞台。
 
 ## 背景
@@ -66,7 +66,7 @@ Shock）」是旋律搶耳的活力電音舞曲，歌詞充滿趣味，以觸電
 <p>2012年6月14日</p>
 </center></td>
 <td><center>
-<p><a href="../Page/Avex_Trax.md" title="wikilink">愛貝克思</a></p>
+<p><a href="https://zh.wikipedia.org/wiki/Avex_Trax" title="wikilink">愛貝克思</a></p>
 </center></td>
 <td></td>
 </tr>

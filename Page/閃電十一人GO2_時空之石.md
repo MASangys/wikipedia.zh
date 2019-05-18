@@ -38,7 +38,7 @@
 
 ## 用語
 
-  - 埃爾多拉特:200年後的世界中，有一群小孩將足球拿來當戰爭工具來使用，令許多大人畏懼，從而選出代表全世界的組織「埃爾多拉特」。是由少數幾名年長者所組成，為了將可能毀滅世界的工具「足球」從歷史中消除而派出[阿爾法](https://zh.wikipedia.org/wiki/阿爾法 "wikilink")（[α](https://zh.wikipedia.org/wiki/α "wikilink")）、貝塔([β](../Page/β.md "wikilink"))、康曼([ʏ](https://zh.wikipedia.org/wiki/ʏ "wikilink"))等人去進行時空跳躍。
+  - 埃爾多拉特:200年後的世界中，有一群小孩將足球拿來當戰爭工具來使用，令許多大人畏懼，從而選出代表全世界的組織「埃爾多拉特」。是由少數幾名年長者所組成，為了將可能毀滅世界的工具「足球」從歷史中消除而派出[阿爾法](https://zh.wikipedia.org/wiki/阿爾法 "wikilink")（[α](https://zh.wikipedia.org/wiki/α "wikilink")）、貝塔([β](https://zh.wikipedia.org/wiki/β "wikilink"))、康曼([ʏ](https://zh.wikipedia.org/wiki/ʏ "wikilink"))等人去進行時空跳躍。
     時空之石（クロノ・ストーン）
     受到奧美迦協議隊的影響，封印圓堂大介和圓堂守的石頭。圓堂大介為橘色六角形，圓堂守為紫色三角形。
   - 化身武裝（けしんアームド）

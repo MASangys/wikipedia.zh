@@ -276,7 +276,7 @@ JAPAN》於2007年8月號更名《\[1\]》，加上雜誌於2009年1月（2009�
 <td><p><br />
 （）</p></td>
 <td><p>柑橘ペンギン<br />
-（<a href="https://zh.wikipedia.org/wiki/柑橘ゆすら" title="wikilink">柑橘ゆすら</a>）</p></td>
+（<a href="../Page/柑橘ゆすら.md" title="wikilink">柑橘ゆすら</a>）</p></td>
 <td><p>東立出版社</p></td>
 </tr>
 <tr class="odd">

@@ -26,12 +26,12 @@ Works公司所發行的一本的漫畫雜誌](../Page/ASCII_Media_Works.md "wiki
   - [空想画廊](https://zh.wikipedia.org/wiki/空想画廊 "wikilink")（[水上カオリ](https://zh.wikipedia.org/wiki/水上カオリ "wikilink")）
   - [御縁がありますように](https://zh.wikipedia.org/wiki/御縁がありますように "wikilink")（[稲井稲井](https://zh.wikipedia.org/wiki/稲井稲井 "wikilink")）
   - [時の消失請負人](https://zh.wikipedia.org/wiki/時の消失請負人 "wikilink")（[ともぞ](https://zh.wikipedia.org/wiki/ともぞ "wikilink")）
-  - [メゾン・ド・ジェネシス](https://zh.wikipedia.org/wiki/メゾン・ド・ジェネシス "wikilink")（[小原トメ太](../Page/QP:FLAPPER.md "wikilink")）
+  - [メゾン・ド・ジェネシス](https://zh.wikipedia.org/wiki/メゾン・ド・ジェネシス "wikilink")（[小原トメ太](https://zh.wikipedia.org/wiki/QP:FLAPPER "wikilink")）
 
 **2010年春**
 
   - [空声](https://zh.wikipedia.org/wiki/空声 "wikilink")（[こがわみさき](https://zh.wikipedia.org/wiki/こがわみさき "wikilink")）
-  - [かのこ模様](https://zh.wikipedia.org/wiki/かのこ模様 "wikilink")（[深山和香](https://zh.wikipedia.org/wiki/深山和香 "wikilink")）
+  - [かのこ模様](https://zh.wikipedia.org/wiki/かのこ模様 "wikilink")（[深山和香](../Page/深山和香.md "wikilink")）
   - 妄想奇行 〜Adolescence Avatar〜（[森山大輔](../Page/森山大輔.md "wikilink")）
   - [焔の燈介](https://zh.wikipedia.org/wiki/焔の燈介 "wikilink")（原作：[大野也太](https://zh.wikipedia.org/wiki/大野也太 "wikilink")
     作画：[絶叫](https://zh.wikipedia.org/wiki/絶叫 "wikilink")）

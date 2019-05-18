@@ -19,7 +19,7 @@ Systems**（）是日本一家[电子游戏开发公司](https://zh.wikipedia.or
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/网球_(游戏)" title="wikilink">网球</a><br />
+<td><p><a href="../Page/网球_(游戏).md" title="wikilink">网球</a><br />
 テニス<br />
 Tennis</p></td>
 <td><p>日本：1984年1月14日（卡带）<br />
@@ -45,7 +45,7 @@ Wild Gunman</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/恶魔世界" title="wikilink">恶魔世界</a><br />
+<td><p><a href="../Page/恶魔世界.md" title="wikilink">恶魔世界</a><br />
 デビルワールド<br />
 Devil World</p></td>
 <td><p>日本：1984年&lt;10月5日br/&gt;欧洲：1987年7月15日</p></td>
@@ -89,7 +89,7 @@ FC磁碟機</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Alleyway" title="wikilink">Alleyway</a><br />
+<td><p><a href="../Page/Alleyway.md" title="wikilink">Alleyway</a><br />
 フアレイウェイ<br />
 Alleyway</p></td>
 <td><p>日本：1989年4月21日<br />
@@ -101,7 +101,7 @@ Alleyway</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/棒球_(游戏)" title="wikilink">棒球</a><br />
+<td><p><a href="../Page/棒球_(游戏).md" title="wikilink">棒球</a><br />
 ベースボール<br />
 Baseball</p></td>
 <td><p>日本：1989年4月21日<br />
@@ -123,7 +123,7 @@ Baseball</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/高尔夫_(游戏)" title="wikilink">高尔夫</a><br />
+<td><p><a href="../Page/高尔夫_(游戏).md" title="wikilink">高尔夫</a><br />
 ゴルフ<br />
 Golf</p></td>
 <td><p>日本：1989年11月28日<br />

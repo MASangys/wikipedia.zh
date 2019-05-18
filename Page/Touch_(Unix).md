@@ -49,7 +49,7 @@ $ touch -d 'Jan 31 2007 8:46:26' index.html
 ## 参看
 
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
-  - [chmod](../Page/chmod.md "wikilink")
+  - [chmod](https://zh.wikipedia.org/wiki/chmod "wikilink")
 
 ## 外部链接
 

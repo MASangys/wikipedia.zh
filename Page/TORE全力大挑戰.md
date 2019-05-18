@@ -16,7 +16,7 @@ Battle
 
 ### 主持人
 
-  - 法老男（），配音人員：[山里亮太](https://zh.wikipedia.org/wiki/山里亮太 "wikilink")
+  - 法老男（），配音人員：[山里亮太](../Page/山里亮太.md "wikilink")
 
 <!-- end list -->
 
@@ -261,7 +261,7 @@ Battle
 
   - [原辰德](https://zh.wikipedia.org/wiki/原辰德 "wikilink")(巨人)
   - [高木守道](https://zh.wikipedia.org/wiki/高木守道 "wikilink")(中日)
-  - [和田豐](https://zh.wikipedia.org/wiki/和田豐 "wikilink")(阪神)
+  - [和田豐](../Page/和田豐.md "wikilink")(阪神)
   - [中畑清](https://zh.wikipedia.org/wiki/中畑清 "wikilink")(DeNA)
   - [秋山幸二](https://zh.wikipedia.org/wiki/秋山幸二 "wikilink")(ソフトバンク)
   - [星野仙一](../Page/星野仙一.md "wikilink")(樂天)

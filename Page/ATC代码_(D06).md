@@ -40,9 +40,7 @@
 ### D06BA [磺胺类](https://zh.wikipedia.org/wiki/磺胺类 "wikilink")（Sulfonamides）
 
   -
-    D06BA01
-    [磺胺嘧啶银](https://zh.wikipedia.org/wiki/磺胺嘧啶银 "wikilink")（Silver
-    sulfadiazine）
+    D06BA01 [磺胺嘧啶银](../Page/磺胺嘧啶银.md "wikilink")（Silver sulfadiazine）
     D06BA02
     [磺胺噻唑](https://zh.wikipedia.org/wiki/磺胺噻唑 "wikilink")（Sulfathiazole）
     D06BA03
@@ -63,13 +61,11 @@
 ### D06BB [抗病毒药](https://zh.wikipedia.org/wiki/抗病毒药 "wikilink")（Antivirals）
 
   -
-    D06BB01
-    [碘苷](https://zh.wikipedia.org/wiki/碘苷 "wikilink")（Idoxuridine）
+    D06BB01 [碘苷](../Page/碘苷.md "wikilink")（Idoxuridine）
     D06BB02
     [曲金刚胺](https://zh.wikipedia.org/wiki/曲金刚胺 "wikilink")（Tromantadine）
     D06BB03 [阿昔洛韦](../Page/阿昔洛韦.md "wikilink")（Aciclovir）
-    D06BB04
-    [鬼臼毒素](https://zh.wikipedia.org/wiki/鬼臼毒素 "wikilink")（Podophyllotoxin）
+    D06BB04 [鬼臼毒素](../Page/鬼臼毒素.md "wikilink")（Podophyllotoxin）
     D06BB05 [肌苷](https://zh.wikipedia.org/wiki/肌苷 "wikilink")（Inosine）
     D06BB06 [喷昔洛韦](../Page/喷昔洛韦.md "wikilink")（Penciclovir）
     D06BB07 [溶菌酶](../Page/溶菌酶.md "wikilink")（Lysozyme）

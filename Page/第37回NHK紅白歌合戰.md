@@ -31,7 +31,7 @@
 | 大月みやこ(1)                                                    | 女の港                                                       |
 | [小泉今日子](../Page/小泉今日子.md "wikilink")(3)                     | 夜明けのMEW                                                   |
 | [齊藤由貴](../Page/齊藤由貴.md "wikilink")(1)                       | 悲しみよこんにちは                                                 |
-| [小柳留美子](https://zh.wikipedia.org/wiki/小柳留美子 "wikilink")(16) | 乱                                                         |
+| [小柳留美子](../Page/小柳留美子.md "wikilink")(16)                    | 乱                                                         |
 | [中森明菜](../Page/中森明菜.md "wikilink")(4)                       | DESIRE -情熱-                                               |
 | [鄧麗君](../Page/鄧麗君.md "wikilink")(2)                         | [任时光从身边流逝](../Page/任时光从身边流逝.md "wikilink")                |
 | 研ナオコ(10)                                                    | Tokyo見返り美人                                                |
@@ -44,7 +44,7 @@
 | [水前寺清子](https://zh.wikipedia.org/wiki/水前寺清子 "wikilink")(22) | [男三百六十度](https://zh.wikipedia.org/wiki/男三百六十度 "wikilink") |
 | 松原のぶえ(2)                                                    | 演歌みち                                                      |
 | [八代亞紀](../Page/八代亞紀.md "wikilink")(14)                      | 港町純情                                                      |
-| [島倉千代子](https://zh.wikipedia.org/wiki/島倉千代子 "wikilink")(30) | くちべに挽歌                                                    |
+| [島倉千代子](../Page/島倉千代子.md "wikilink")(30)                    | くちべに挽歌                                                    |
 | [小林幸子](../Page/小林幸子.md "wikilink")(8)                       | 別離                                                        |
 | [石川小百合](../Page/石川小百合.md "wikilink")(9)                     | [越过天城](https://zh.wikipedia.org/wiki/越过天城 "wikilink")     |
 |                                                             |                                                           |
@@ -63,7 +63,7 @@
   - [雁屋哲](https://zh.wikipedia.org/wiki/雁屋哲 "wikilink")（劇画作家）
   - [黒柳朝](https://zh.wikipedia.org/wiki/黒柳朝 "wikilink")（[散文家](../Page/散文.md "wikilink"))
   - [加藤芳郎](https://zh.wikipedia.org/wiki/加藤芳郎 "wikilink")（[漫畫家](https://zh.wikipedia.org/wiki/漫畫 "wikilink")）
-  - [山崎洋子](https://zh.wikipedia.org/wiki/山崎洋子 "wikilink")（作家）
+  - [山崎洋子](../Page/山崎洋子.md "wikilink")（作家）
   - [渡邊謙](../Page/渡邊謙.md "wikilink")（演員）
   - 加納みゆき（演員）
   - [千代之富士貢](https://zh.wikipedia.org/wiki/千代之富士貢 "wikilink")（本名:秋元貢，[相撲選手](../Page/相撲.md "wikilink")

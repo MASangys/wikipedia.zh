@@ -5,13 +5,13 @@
   - [我們的存在](../Page/我們的存在.md "wikilink")（[小畑友紀](https://zh.wikipedia.org/wiki/小畑友紀 "wikilink")）（第50回小学館漫画賞少女向け受賞作品）
   - [電撃デイジー](https://zh.wikipedia.org/wiki/電撃デイジー "wikilink")（[最富キョウスケ](https://zh.wikipedia.org/wiki/最富キョウスケ "wikilink")）
   - [BLACK
-    BIRD](https://zh.wikipedia.org/wiki/BLACK_BIRD "wikilink")（[櫻小路鹿乃子](https://zh.wikipedia.org/wiki/櫻小路鹿乃子 "wikilink")）（第54回小学館漫画賞少女向け受賞作品）
+    BIRD](https://zh.wikipedia.org/wiki/BLACK_BIRD "wikilink")（[櫻小路鹿乃子](../Page/櫻小路鹿乃子.md "wikilink")）（第54回小学館漫画賞少女向け受賞作品）
   - [女王の花](https://zh.wikipedia.org/wiki/女王の花 "wikilink")（[和泉兼好](https://zh.wikipedia.org/wiki/和泉兼好 "wikilink")）※現在、1年に1回ペースの連載
   - [DEAR\!](https://zh.wikipedia.org/wiki/DEAR! "wikilink")（[みつきかこ](https://zh.wikipedia.org/wiki/みつきかこ "wikilink")）
   - [キミのとなりで青春中。](https://zh.wikipedia.org/wiki/キミのとなりで青春中。 "wikilink")（[藤沢志月](https://zh.wikipedia.org/wiki/藤沢志月 "wikilink")）
   - [Piece](https://zh.wikipedia.org/wiki/Piece_\(漫画\) "wikilink")（[芦原妃名子](../Page/芦原妃名子.md "wikilink")）
   - [先生、聞いてよ](https://zh.wikipedia.org/wiki/先生、聞いてよ "wikilink")（[蒔田ナオ](https://zh.wikipedia.org/wiki/蒔田ナオ "wikilink")）※現在、急病の為しばらく、休載中
-  - [ココロ・ボタン](https://zh.wikipedia.org/wiki/ココロ・ボタン "wikilink")（[宇佐美真紀](https://zh.wikipedia.org/wiki/宇佐美真紀 "wikilink")）
+  - [ココロ・ボタン](https://zh.wikipedia.org/wiki/ココロ・ボタン "wikilink")（[宇佐美真紀](../Page/宇佐美真紀.md "wikilink")）
   - [ランウェイの恋人](https://zh.wikipedia.org/wiki/ランウェイの恋人 "wikilink")（[しばの結花](https://zh.wikipedia.org/wiki/しばの結花 "wikilink")）
   - [君と恋を知った](https://zh.wikipedia.org/wiki/君と恋を知った "wikilink")（[吉永ゆう](https://zh.wikipedia.org/wiki/吉永ゆう "wikilink")）
 
@@ -54,7 +54,7 @@
   - キス//はぐ\*（みつきかこ）
   - QP（おおや和美）
   - 劇団ホーホー（中村かなこ）
-  - [恋\*音](https://zh.wikipedia.org/wiki/恋*音 "wikilink")（[宇佐美真紀](https://zh.wikipedia.org/wiki/宇佐美真紀 "wikilink")）
+  - [恋\*音](https://zh.wikipedia.org/wiki/恋*音 "wikilink")（[宇佐美真紀](../Page/宇佐美真紀.md "wikilink")）
 
 <!-- end list -->
 

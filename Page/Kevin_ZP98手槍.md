@@ -14,10 +14,10 @@ Kevin手槍在捷克相當流行，並能滿足平民的需求。而在美國則
 
   - [沙漠之鷹](../Page/沙漠之鷹手槍.md "wikilink")
   - [CZ 75](../Page/CZ_75手槍.md "wikilink")
-  - [CZ 82](https://zh.wikipedia.org/wiki/CZ_82手槍 "wikilink")
+  - [CZ 82](../Page/CZ_82手槍.md "wikilink")
   - [瓦爾特PPK](../Page/瓦爾特PP手槍.md "wikilink")
   - [64式手槍](https://zh.wikipedia.org/wiki/64式手槍 "wikilink")
-  - [Falcon狙擊步槍](https://zh.wikipedia.org/wiki/Falcon狙擊步槍 "wikilink")
+  - [Falcon狙擊步槍](../Page/Falcon狙擊步槍.md "wikilink")
 
 ## 外部連結
 

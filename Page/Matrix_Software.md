@@ -1,16 +1,16 @@
 **Matrix
 Software**（）是位于日本[东京的一家电子游戏开发公司](../Page/东京.md "wikilink")，其由[Climax
-Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路的前成员于](../Page/日本通訊網路.md "wikilink")1994年7月建立，该公司1997年4月开始制作名为《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。Matrix与[史克威尔艾尼克斯和](../Page/史克威尔艾尼克斯.md "wikilink")[Chunsoft合作制作一些游戏系列](../Page/Chunsoft.md "wikilink")，如[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及其他[动画和](../Page/动画.md "wikilink")[漫画方面](https://zh.wikipedia.org/wiki/漫画 "wikilink")。除游戏机平台外，Matrix
+Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路的前成员于](../Page/日本通訊網路.md "wikilink")1994年7月建立，该公司1997年4月开始制作名为《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。Matrix与[史克威尔艾尼克斯和](../Page/史克威尔艾尼克斯.md "wikilink")[Chunsoft合作制作一些游戏系列](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，如[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及其他[动画和](../Page/动画.md "wikilink")[漫画方面](https://zh.wikipedia.org/wiki/漫画 "wikilink")。除游戏机平台外，Matrix
 Software也从2001年开始制作各种日本手机品牌的游戏。
 
 ## 公司发展
 
 Matrix
 Software由大堀康祐和三个电子游戏行业资深经验的朋友成立于1994年7月。\[1\]总裁大堀在高中时期已经在游戏方面有资深经验，并与来自[Climax
-Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路的成员成立了一家他觉得会](../Page/日本通訊網路.md "wikilink")“给人们带来认真游戏内容”的游戏公司。\[2\]1997年4月，在公司成立三年之际，他们发布了第一款游戏，即[PlayStation平台上的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》，其受欢迎程度让他们在两年后发行了[续作](https://zh.wikipedia.org/wiki/阿兰多拉_2 "wikilink")。\[3\]1999年9月，Matrix与他们的第一个合作伙伴[Chunsoft制作了知名的](../Page/Chunsoft.md "wikilink")[勇者斗恶龙系列游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")《[Torneko:
+Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路的成员成立了一家他觉得会](../Page/日本通訊網路.md "wikilink")“给人们带来认真游戏内容”的游戏公司。\[2\]1997年4月，在公司成立三年之际，他们发布了第一款游戏，即[PlayStation平台上的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》，其受欢迎程度让他们在两年后发行了[续作](https://zh.wikipedia.org/wiki/阿兰多拉_2 "wikilink")。\[3\]1999年9月，Matrix与他们的第一个合作伙伴[Chunsoft制作了知名的](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")[勇者斗恶龙系列游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")《[Torneko:
 The Last
 Hope](https://zh.wikipedia.org/wiki/Torneko:_The_Last_Hope "wikilink")》。\[4\]其后，公司就开始与其他公司合作制作其他游戏系列，如[冨樫義博的](../Page/冨樫義博.md "wikilink")《[幽游白书](https://zh.wikipedia.org/wiki/幽游白书 "wikilink")》，[尾田荣一郎的](../Page/尾田荣一郎.md "wikilink")《[One
-Piece](../Page/One_Piece.md "wikilink")》和[Square
+Piece](https://zh.wikipedia.org/wiki/One_Piece "wikilink")》和[Square
 Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。\[5\]
 
 ## 游戏列表
@@ -132,7 +132,7 @@ Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](htt
 <td><p><a href="https://zh.wikipedia.org/wiki/Japan" title="wikilink">JP</a>, <a href="https://zh.wikipedia.org/wiki/North_America" title="wikilink">NA</a>, <a href="https://zh.wikipedia.org/wiki/Europe" title="wikilink">EU</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><em><a href="../Page/Cluster_Edge.md" title="wikilink">Cluster Edge</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/Cluster_Edge" title="wikilink">Cluster Edge</a></em></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Marvelous_Entertainment" title="wikilink">Marvelous Entertainment</a></p></td>
 <td><p>PlayStation 2</p></td>
@@ -219,7 +219,7 @@ Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](htt
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Final_Fantasy_Dimensions" title="wikilink">Final Fantasy Dimensions</a></em></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access" title="wikilink">FOMA 903i</a>, <a href="https://zh.wikipedia.org/wiki/Au_(mobile_phone_operator)" title="wikilink">au</a>, <a href="../Page/iOS.md" title="wikilink">iOS</a>, <a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Freedom_of_Mobile_Multimedia_Access" title="wikilink">FOMA 903i</a>, <a href="https://zh.wikipedia.org/wiki/Au_(mobile_phone_operator)" title="wikilink">au</a>, <a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>, <a href="../Page/Android.md" title="wikilink">Android</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Japan" title="wikilink">JP</a>, <a href="https://zh.wikipedia.org/wiki/North_America" title="wikilink">NA</a>, <a href="https://zh.wikipedia.org/wiki/Europe" title="wikilink">EU</a></p></td>
 </tr>
 </tbody>

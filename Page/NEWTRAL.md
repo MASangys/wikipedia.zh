@@ -19,7 +19,7 @@ MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》
 以下為未曾收錄在單曲內的8首歌曲：
 
   - **KISS KISS BANG
-    BANG：**這張專輯的主打曲，跟《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》一樣是一首快歌；也是朝日飲料「十六茶」的廣告歌曲。[水野良樹說這首歌是根據](../Page/水野良樹.md "wikilink")[新垣結衣在該廣告中跟小孩子跳舞的印象而寫的](../Page/新垣結衣.md "wikilink")。\[5\]音樂影片（PV）由[大根仁執導](https://zh.wikipedia.org/wiki/大根仁 "wikilink")，內容為[吉岡聖惠於](../Page/吉岡聖惠.md "wikilink")[架空時裝展上穿上](https://zh.wikipedia.org/wiki/架空 "wikilink")6套不同的服裝，在[伸展台步行的畫面](https://zh.wikipedia.org/wiki/T型台 "wikilink")。PV中完全沒有成員演奏歌曲的畫面。\[6\]生物股長於多個音樂節目宣傳專輯時多會演唱這首歌，例如《[MUSIC
+    BANG：**這張專輯的主打曲，跟《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》一樣是一首快歌；也是朝日飲料「十六茶」的廣告歌曲。[水野良樹說這首歌是根據](../Page/水野良樹.md "wikilink")[新垣結衣在該廣告中跟小孩子跳舞的印象而寫的](../Page/新垣結衣.md "wikilink")。\[5\]音樂影片（PV）由[大根仁執導](../Page/大根仁.md "wikilink")，內容為[吉岡聖惠於](../Page/吉岡聖惠.md "wikilink")[架空時裝展上穿上](https://zh.wikipedia.org/wiki/架空 "wikilink")6套不同的服裝，在[伸展台步行的畫面](https://zh.wikipedia.org/wiki/T型台 "wikilink")。PV中完全沒有成員演奏歌曲的畫面。\[6\]生物股長於多個音樂節目宣傳專輯時多會演唱這首歌，例如《[MUSIC
     STATION](../Page/MUSIC_STATION.md "wikilink")》\[7\]、《[MUSIC
     JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》\[8\]、《[Coming
     Soon\!\!](../Page/Coming_Soon!!.md "wikilink")》\[9\]等等。

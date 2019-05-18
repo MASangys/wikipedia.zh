@@ -94,7 +94,7 @@
 ## 主題曲
 
   - 片頭曲「」
-    作词：六見純代，作曲、编曲：[高梨康治](../Page/高梨康治.md "wikilink")，主唱：[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")、[黑澤朋世](https://zh.wikipedia.org/wiki/黑澤朋世 "wikilink")、[吉田仁美](https://zh.wikipedia.org/wiki/吉田仁美 "wikilink")
+    作词：六見純代，作曲、编曲：[高梨康治](../Page/高梨康治.md "wikilink")，主唱：[工藤真由](https://zh.wikipedia.org/wiki/工藤真由 "wikilink")、[黑澤朋世](../Page/黑澤朋世.md "wikilink")、[吉田仁美](../Page/吉田仁美.md "wikilink")
   - 片尾曲「」
     作詞：利根川貴之，作曲：Dr.Usui，編曲：Dr.Usui、利根川貴之，主唱：吉田仁美
   - 插入曲「」

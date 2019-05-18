@@ -1,4 +1,4 @@
-**美食獵人TORIKO角色列表**是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[島袋光年作品](https://zh.wikipedia.org/wiki/島袋光年 "wikilink")《[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")》裡全部登場人物的概覽。
+**美食獵人TORIKO角色列表**是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[島袋光年作品](../Page/島袋光年.md "wikilink")《[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")》裡全部登場人物的概覽。
 
 ## 主要人物
 
@@ -1314,7 +1314,7 @@
 ### 局長&所長
 
   - 鈴（）
-    聲優：[田野麻美](https://zh.wikipedia.org/wiki/田野麻美 "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
+    聲優：[田野麻美](../Page/田野麻美.md "wikilink")（日本）；[劉如蘋](../Page/劉如蘋.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -1415,7 +1415,7 @@
 <!-- end list -->
 
   - 瓦恩（）
-    聲優：[吉開清人](https://zh.wikipedia.org/wiki/吉開清人 "wikilink")（日本）
+    聲優：[吉開清人](../Page/吉開清人.md "wikilink")（日本）
     IGO管理局長，被烏曼梅田殺死。
 
 <!-- end list -->
@@ -1558,7 +1558,7 @@ IGO位於美食界的據點，兼具監視魈動向和研究、開發食材的�
 |- \!width=140|道具 |- |**擴音石** |}{{-}}
 
   - <span id="拉卜"></span>拉卜（ラブ）
-    聲優：[松井菜櫻子](../Page/松井菜櫻子.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[松井菜櫻子](../Page/松井菜櫻子.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -2113,7 +2113,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 影丸（かげまる）
-    聲優：[高橋英則](https://zh.wikipedia.org/wiki/高橋英則 "wikilink")（日本）
+    聲優：[高橋英則](../Page/高橋英則.md "wikilink")（日本）
     美食騎士的成員之一，屬於葉隱組。
 
 <!-- end list -->
@@ -2141,7 +2141,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 節乃（せつの）
-    聲優：[雨蘭咲木子](https://zh.wikipedia.org/wiki/雨蘭咲木子 "wikilink")、[速見圭](https://zh.wikipedia.org/wiki/速見圭 "wikilink")【廣播劇】（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[雨蘭咲木子](https://zh.wikipedia.org/wiki/雨蘭咲木子 "wikilink")、[速見圭](../Page/速見圭.md "wikilink")【廣播劇】（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -2232,7 +2232,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 |- |**氣壓巨蛋** |- \!width=140|道具 |- |**瀧唾** |- |**療水** |}{{-}}  |}{{-}}
 
   - 布朗奇（ブランチ）
-    聲優：[檀臣幸](https://zh.wikipedia.org/wiki/檀臣幸 "wikilink")（126～128話起） →
+    聲優：[檀臣幸](../Page/檀臣幸.md "wikilink")（126～128話起） →
     [小西克幸](../Page/小西克幸.md "wikilink")（日本）；[黃天佑](../Page/黃天佑.md "wikilink")（台灣）
 
 <!-- end list -->
@@ -2448,7 +2448,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 堇（すみれ）
-    聲優：[金田朋子](../Page/金田朋子.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[金田朋子](../Page/金田朋子.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     新進入世界廚師排名**第10名**，被譽為「廚房阿姨」，也是「仲梅餐飲學校」的食堂廚師長。
     在在四獸襲擊人間界期間，動員料理學校的人力，讓一萬名廚師投入製作解毒用的藥膳年糕。
 
@@ -2553,7 +2553,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 |- \!width=140|基本技 |- |**奧義「油田熱炸」** |}{{-}}  |}{{-}}
 
   - 千流（ちる）
-    聲優：[淵崎有里子](https://zh.wikipedia.org/wiki/淵崎有里子 "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[淵崎有里子](https://zh.wikipedia.org/wiki/淵崎有里子 "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     名列世界廚師排名**第15名**的廚師，雲隱餐館主廚，被譽為「纖細料理」。
     年幼時曾進入食林寺修練食義，平時總蒙面見人，個性謙和有禮。擁有使用蘇生菜刀的技術，緊急以這項技術搭配肥皂泡水果救回珍鎮鎮，並在事後將蘇生菜刀的使用方法教給小松，也和他一起料理了肥皂泡水果。
     {| class=wikitable style="text-align:left; font-size:80%"
@@ -2763,7 +2763,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 柯普莉子（こぷりこ）
-    聲優：[田野麻美](https://zh.wikipedia.org/wiki/田野麻美 "wikilink")（日本）
+    聲優：[田野麻美](../Page/田野麻美.md "wikilink")（日本）
     世界廚師排名**第24名**，被譽為「詭異料理女王」，店鋪「腸子」。
 
 <table style="width:10%;">
@@ -2954,7 +2954,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 尼斯（ニース）
-    聲優：[楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")（日本）
+    聲優：[楠大典](../Page/楠大典.md "wikilink")（日本）
     世界廚師排名**第48名**，店鋪「baby baby」，決賽32人之一。被美食會抓走。
 
 <!-- end list -->
@@ -3021,7 +3021,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 <!-- end list -->
 
   - 仲梅（なかうめ）
-    聲優：[高橋直純](../Page/高橋直純.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[高橋直純](../Page/高橋直純.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     小松在當學徒時的兩個朋友之一。理平頭，長相與小松相似。從外國歸來看美食祭典，相當關心小松，因後來美食會入侵會場然後跟著疏散離開時意外目睹到整個NEO的內幕，而被NEO抓走。後在鐵平的幫助及美食會的亂入之下，逃離NEO基地。
     在279話中得知小梅的食運非常高，比喬亞高出許多。料理完GOD之後在布蘭奇的接應之下逃離現場，雖然期間遭到NEO的攻擊,但是在食運的保護之下並沒有受傷。
 
@@ -3121,7 +3121,7 @@ SUBMARINE和陸地監獄哈尼監獄。
 |- |**束縛樹** |- |**荊棘綑樹** |- |**RIGHTER SUITS** |}{{-}} |} {{-}}
 
   - 普琴（プキン，普金）
-    聲優：[永野愛](../Page/永野愛.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[永野愛](../Page/永野愛.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     女性美食再生獵人（Gourmet Reviver）。有四隻手。
 
 <!-- end list -->
@@ -3354,7 +3354,7 @@ Routine（極致的臆斷）** |- |**撒旦噴焰** |- |**破星斬** |- |**火�
 |**濕婆面具** |} {{-}}
 
   - 格林帕吉（グリンパーチ）
-    聲優：[三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")（日本）；[于正昇](../Page/于正昇.md "wikilink")（台灣）
+    聲優：[三矢雄二](../Page/三矢雄二.md "wikilink")（日本）；[于正昇](../Page/于正昇.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -3427,7 +3427,7 @@ Routine（極致的臆斷）** |- |**撒旦噴焰** |- |**破星斬** |- |**火�
 |- \!width=140|基本技 |- |**刺激調味料「解鹽」** |}{{-}}
 
   - 傑利鮑伊（ジェリーボーイ）
-    聲優：[高橋英則](https://zh.wikipedia.org/wiki/高橋英則 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[高橋英則](../Page/高橋英則.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -3468,7 +3468,7 @@ Routine（極致的臆斷）** |- |**撒旦噴焰** |- |**破星斬** |- |**火�
 |}{{-}}
 
   - 賽多爾（セドル）
-    聲優：[陶山章央](https://zh.wikipedia.org/wiki/陶山章央 "wikilink")（日本）；[陳幼文](../Page/陳幼文.md "wikilink")（台灣）
+    聲優：[陶山章央](../Page/陶山章央.md "wikilink")（日本）；[陳幼文](../Page/陳幼文.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -3480,7 +3480,7 @@ Routine（極致的臆斷）** |- |**撒旦噴焰** |- |**破星斬** |- |**火�
 ### 一般廚師
 
   - 千代（ちよ）
-    聲優：[坂本千夏](../Page/坂本千夏.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[坂本千夏](../Page/坂本千夏.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     生日：4月12日（牡羊座）、血型：AB型、身高：1.42米（4尺8寸）、體重：250 公斤（550
     磅）、視力：2.0、腳的尺寸：22公分
     長年在前世界廚師排名前5名以內，雲隱餐館前代主廚，被譽為纖細料理的千代，人稱一刀價值一億元的天才廚師，與「人間國寶」節乃齊名，是少數能料理肥皂泡水果的廚師，過去在料理慶典獲勝次數共4次。
@@ -3799,7 +3799,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
 <!-- end list -->
 
   - <span id="奈斯尼"></span>奈斯尼（ナイスニィ）
-    聲優：[楠大典](https://zh.wikipedia.org/wiki/楠大典 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[楠大典](../Page/楠大典.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     原美食會總廚師長輔佐。梳著大背頭的鬍子男。(被史塔俊、格林帕吉、多米羅特聯手殺死)。
 
 <!-- end list -->
@@ -3851,7 +3851,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
 <!-- end list -->
 
   - 二代梅爾克（二代目メルク）
-    聲優：[矢島晶子](../Page/矢島晶子.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[矢島晶子](../Page/矢島晶子.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
 
 <!-- end list -->
 
@@ -3996,7 +3996,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
 ### 其他相關角色
 
   - 多培姆（ドヘム）
-    聲優：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）
+    聲優：[金光宣明](../Page/金光宣明.md "wikilink")（日本）
     羅多共和國的大統領。IGO常任理事国首腦。
   - 哈奇（ハッチ）
     聲優：[小池謙一](https://zh.wikipedia.org/wiki/小池謙一 "wikilink")（日本）
@@ -4022,7 +4022,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
     聲優：[島田敏](../Page/島田敏.md "wikilink")（日本）
     美食雜誌「Calorie」編輯。
   - 將品（ジャンピン）
-    聲優：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")（日本）
+    聲優：[田中一成](../Page/田中一成.md "wikilink")（日本）
     國聯軍的元帥。
   - 胸毛（ムナゲ）
     聲優：[長](https://zh.wikipedia.org/wiki/長_\(日本配音員\) "wikilink")（日本）；[陳彥鈞](../Page/陳彥鈞.md "wikilink")（台灣）
@@ -4160,7 +4160,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
 ### 動畫原創角色
 
   -
-    聲優：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（日本）；[林沛笭](https://zh.wikipedia.org/wiki/林沛笭 "wikilink")（台灣）
+    聲優：[水樹奈奈](../Page/水樹奈奈.md "wikilink")（日本）；[林沛笭](../Page/林沛笭.md "wikilink")（台灣）
     動畫版登場角色，漫畫直到145話才登場。庫波
     美食新聞，主播說話經常會掛著「超大碗、超大盤、1公克」這幾個字，負責片尾曲後的欄目。
     第一次角色人氣投票中得到第十七名。
@@ -4186,7 +4186,7 @@ NEO美食理想鄉追求三樣東西，美味、「烹調法」是指筆記、�
     聲優：[川越達也](https://zh.wikipedia.org/wiki/川越達也 "wikilink")（日本）
     料理店店長。
   - 基利姆（ギリム）
-    聲優：[北大路欣也](https://zh.wikipedia.org/wiki/北大路欣也 "wikilink")（特別出演）、[大友龍三郎](../Page/大友龍三郎.md "wikilink")（遊戲）（日本）
+    聲優：[北大路欣也](../Page/北大路欣也.md "wikilink")（特別出演）、[大友龍三郎](../Page/大友龍三郎.md "wikilink")（遊戲）（日本）
     美食獵人劇場版美食神的超食寶登場，動畫是113話登場。美食會最高特別料理顧問。
     {| class=wikitable style="text-align:left; font-size:80%"
 

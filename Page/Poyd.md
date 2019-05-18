@@ -8,10 +8,10 @@ Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[
 
 2008年开始和男友谈恋爱，不时在网上秀恩爱，现已分手。\[3\]
 
-2013年，因演出香港電影《[掃毒](https://zh.wikipedia.org/wiki/掃毒 "wikilink")》，其演出劇照的驚豔曝光，而受到網友廣泛的討論。\[4\]
+2013年，因演出香港電影《[掃毒](../Page/掃毒.md "wikilink")》，其演出劇照的驚豔曝光，而受到網友廣泛的討論。\[4\]
 而該片的導演[陳木勝也說](../Page/陳木勝.md "wikilink")：當初選了很多演員來試鏡Mina這個角色，Poyd是最漂亮的一個，她演起戲來也很放鬆、很大膽。\[5\]
 
-因在《[掃毒](https://zh.wikipedia.org/wiki/掃毒 "wikilink")》中的演出使得在中國的知名度大增，因此被[寰宇藝人管理有限公司垂青](https://zh.wikipedia.org/wiki/寰宇國際金融#寰宇艺人管理有限公司 "wikilink")，于2014年正式簽約成為旗下藝人。\[6\]
+因在《[掃毒](../Page/掃毒.md "wikilink")》中的演出使得在中國的知名度大增，因此被[寰宇藝人管理有限公司垂青](https://zh.wikipedia.org/wiki/寰宇國際金融#寰宇艺人管理有限公司 "wikilink")，于2014年正式簽約成為旗下藝人。\[6\]
 
 2014年5月14日，參與拍攝並主演中泰合拍懸疑驚悚愛情片《泰國妖醫》。\[7\]
 
@@ -29,8 +29,8 @@ Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[
   - 《》(2010年)
   - 《頑皮鬼》(2012年)
   - 《》(2012年)
-  - 《[掃毒](https://zh.wikipedia.org/wiki/掃毒 "wikilink")》(2013年)\[8\]
-  - 《[賭城風雲II](https://zh.wikipedia.org/wiki/賭城風雲II "wikilink")》(2015年)
+  - 《[掃毒](../Page/掃毒.md "wikilink")》(2013年)\[8\]
+  - 《[賭城風雲II](../Page/賭城風雲II.md "wikilink")》(2015年)
   - 《[失眠男女](https://zh.wikipedia.org/wiki/失眠男女 "wikilink")》(2016年)
   - 《[泰国妖醫](https://zh.wikipedia.org/wiki/泰国妖醫 "wikilink")》(2016年)
   - 《[德扑女王](https://zh.wikipedia.org/wiki/德扑女王 "wikilink")》(2016年)

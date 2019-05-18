@@ -103,12 +103,12 @@ N，將彈匣插口改為彈匣插槽以兼容[M16步槍所使用的](../Page/M1
 
 ### 瞄準具
 
-可調整風偏和仰角的L形的[照門有兩個預設的覘孔](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別在0—300米和300—500米時使用（照門仰角只能通過調整工具調節，工具為[烏茲衝鋒槍的](../Page/烏茲衝鋒槍.md "wikilink")[準星調整工具](https://zh.wikipedia.org/wiki/照準器 "wikilink")）。前端的準星是完全可調為偏差和零高度（平面），並且由一個保護圈來保護準星。在夜間戰鬥中瞄準時，使用的配有折疊式氚光夜視瞄準具通過照門上兩個亮點的中間與準星發光點和目標構成直線，有效瞄準距離100米。夜視瞄具豎直後，普通瞄具不能使用。
+可調整風偏和仰角的L形的[照門有兩個預設的覘孔](https://zh.wikipedia.org/wiki/照門 "wikilink")，分別在0—300米和300—500米時使用（照門仰角只能通過調整工具調節，工具為[烏茲衝鋒槍的](../Page/烏茲衝鋒槍.md "wikilink")[準星調整工具](../Page/照準器.md "wikilink")）。前端的準星是完全可調為偏差和零高度（平面），並且由一個保護圈來保護準星。在夜間戰鬥中瞄準時，使用的配有折疊式氚光夜視瞄準具通過照門上兩個亮點的中間與準星發光點和目標構成直線，有效瞄準距離100米。夜視瞄具豎直後，普通瞄具不能使用。
 
-[機匣蓋由過去](https://zh.wikipedia.org/wiki/机匣 "wikilink")[卡拉什尼科夫系列材料輕薄而且固定並不牢固的機匣蓋改為厚重而且固定方式牢固](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，因此機匣蓋頂部亦裝上了[MIL-STD-1913戰術導軌用以安裝](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")，取代原来[機匣左侧的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。加上護木上方的戰術導軌長度就可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式，這可是華沙條約導軌所不能的安裝配置。
+[機匣蓋由過去](../Page/机匣.md "wikilink")[卡拉什尼科夫系列材料輕薄而且固定並不牢固的機匣蓋改為厚重而且固定方式牢固](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，因此機匣蓋頂部亦裝上了[MIL-STD-1913戰術導軌用以安裝](../Page/皮卡汀尼導軌.md "wikilink")[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")，取代原来[機匣左侧的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。加上護木上方的戰術導軌長度就可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式，這可是華沙條約導軌所不能的安裝配置。
 
 加利爾ACE 21 N、22 N和52
-L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木上方的戰術導軌整合在一起](https://zh.wikipedia.org/wiki/机匣 "wikilink")。
+L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木上方的戰術導軌整合在一起](../Page/机匣.md "wikilink")。
 
 ### 精度
 
@@ -343,7 +343,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 
 ### 潛在客戶
 
-  - ：參與最後測試評審以取代[INSAS](https://zh.wikipedia.org/wiki/英薩斯突擊步槍 "wikilink")。（它已經從來自34間提供試驗步槍的廠商的原始候選名單中打進了最後2枝）。\[33\]
+  - ：參與最後測試評審以取代[INSAS](../Page/英薩斯突擊步槍.md "wikilink")。（它已經從來自34間提供試驗步槍的廠商的原始候選名單中打進了最後2枝）。\[33\]
 
 ## 流行文化
 
@@ -357,7 +357,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
     zh-tw:保護傘公司;
     zh-hk:Umbrella公司;}-士兵所使用](https://zh.wikipedia.org/wiki/安布雷拉公司 "wikilink")。
   - 2014年—《[-{zh:機器戰警; zh-cn:机械战警; zh-hk:鐵甲威龍;
-    zh-tw:機器戰警;}-2014](https://zh.wikipedia.org/wiki/机械战警_\(2014年电影\) "wikilink")》（RoboCop
+    zh-tw:機器戰警;}-2014](../Page/机械战警_\(2014年电影\).md "wikilink")》（RoboCop
     2014）：型號為ACE 21，被一名槍手所使用。
 
 ### 电視劇
@@ -377,26 +377,26 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
     Cry 3）：型號為ACE
     53，命名為「ACE」，30發[彈匣](../Page/彈匣.md "wikilink")，可裝上延長彈匣、長距離[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、管狀[反射式瞄準鏡和開放型反射式瞄準鏡](../Page/紅點鏡.md "wikilink")。
   - 2013年—《[-{zh-cn:细胞分裂;
-    zh-tw:縱橫諜海;}-：黑名單](https://zh.wikipedia.org/wiki/縱橫諜海：黑名單 "wikilink")》（Splinter
+    zh-tw:縱橫諜海;}-：黑名單](../Page/縱橫諜海：黑名單.md "wikilink")》（Splinter
     Cell: Blacklist）：型號為ACE
     53，命名為“ACE”，30發[彈匣](../Page/彈匣.md "wikilink")。
   - 2013年—《[-{zh-cn:战地4;
-    zh-tw:戰地風雲4;}-](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
+    zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為ACE 23、ACE 52、ACE 21和ACE 53：
       - ACE 23命名為「ACE 23」（中文版則命名為「ACE
         23突擊步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[突击步枪](../Page/突击步枪.md "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為144發。單人故事模式之中可於完成下列任務「突擊專家」以後解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-        Recker）所使用或戰鬥期間所繳獲；多人聯機模式時為「突擊兵」（Assault）的解鎖武器包武器之一，於完成小任務「突擊專家」（獲得醫療勳帶50次、以使用任何突擊步槍擊殺200人和獲得突擊步槍勳帶10次）時解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[直角握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器以及七件戰鬥包附件](../Page/抑制器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射當中之七）。
+        Recker）所使用或戰鬥期間所繳獲；多人聯機模式時為「突擊兵」（Assault）的解鎖武器包武器之一，於完成小任務「突擊專家」（獲得醫療勳帶50次、以使用任何突擊步槍擊殺200人和獲得突擊步槍勳帶10次）時解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器以及七件戰鬥包附件](../Page/抑制器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 52命名為「ACE 52 CQB」（中文版則命名為「ACE 52
         CQB卡賓步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可於「運河終幕」（Suez）戰役達到銀牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到37,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[直角握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射當中之七）。
+        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到37,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 21命名為「ACE 21」（測試版時命名為「ACE 21 CQB」；中文版則命名為「ACE 21
         CQB卡賓步槍」），發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，35+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到71,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[直角握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射當中之七）。
+        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到71,000點卡賓槍得分時才能解鎖，並可以使用[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
       - ACE 53命名為「ACE 53 SV」（中文版則命名為「ACE
-        53狙擊步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[精確射手步槍](https://zh.wikipedia.org/wiki/精確射手步槍 "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")。單人故事模式之中可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到65,000點精確射手步槍得分時才能解鎖，並可以使用[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[直角握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射當中之七）。
-  - 2014年—《[看門狗](https://zh.wikipedia.org/wiki/看門狗_\(遊戲\) "wikilink")》（Watch
-    Dogs）：型號為ACE 23，命名為“AC-AR”，雖改用30
+        53狙擊步槍」），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，被歸類為[精確射手步槍](../Page/精確射手步槍.md "wikilink")，25+1發[彈匣](../Page/彈匣.md "wikilink")。單人故事模式之中可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
+        Recker）所使用；聯機模式時為所有兵種的解鎖武器包武器之一，於達到65,000點精確射手步槍得分時才能解鎖，並可以使用[JGM-4](https://zh.wikipedia.org/wiki/JGBG_M7光學瞄準鏡 "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直角握把](../Page/直角前握把.md "wikilink")、[重型槍管](../Page/槍管.md "wikilink")、[土狼](https://zh.wikipedia.org/wiki/JH-406紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[LS06](../Page/長風衝鋒槍.md "wikilink")[消音器](../Page/抑制器.md "wikilink")、[HD-33](https://zh.wikipedia.org/wiki/HD-103紅點鏡 "wikilink")、[放大鏡](../Page/放大鏡.md "wikilink")（放大2倍）、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、[稜鏡](https://zh.wikipedia.org/wiki/ITac棱鏡瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[制動器以及七件戰鬥包附件](../Page/砲口制動器.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射當中之七）。
+  - 2014年—《[看門狗](../Page/看門狗_\(遊戲\).md "wikilink")》（Watch Dogs）：型號為ACE
+    23，命名為“AC-AR”，雖改用30
     發[STANAG](../Page/STANAG彈匣.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，但只裝填20
     發，最高攜彈量為80
     發，並裝上了[PSO-1光學瞄準鏡以及取消了](../Page/PSO-1光學瞄準鏡.md "wikilink")[護木頂部導軌](https://zh.wikipedia.org/wiki/護木 "wikilink")，價格為$17,500，可被主角艾登·皮爾斯（Aiden
@@ -406,12 +406,12 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
     Cry 4）：型號為ACE
     53，命名為「A52」，30發[彈匣](../Page/彈匣.md "wikilink")，可裝上延長彈匣、長距離[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、管狀[反射式瞄準鏡和開放型反射式瞄準鏡](../Page/紅點鏡.md "wikilink")。
   - 2015年－《[-{zh-hans:战地：硬仗;
-    zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/战地：硬仗 "wikilink")》（Battlefield
+    zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield
     Hardline）：型號為ACE 21
     N，命名為「CAR-556」，歸類為卡賓槍，40+1發[彈匣](../Page/彈匣.md "wikilink")，槍托被拆卸下來（無法使用槍托改裝重新裝上），預設配備PK-AS光學瞄準鏡，自資料片「劫案」更新後成為玩家免費武器，被兩方操作者（Operator）所使用。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
-    M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡 "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](https://zh.wikipedia.org/wiki/直角前握把 "wikilink")）。
+    M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
     Ghost Warrior 3）：型號為ACE 52，命名為“Galeforce”。
 
@@ -419,7 +419,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 
   - [IMI Galil](../Page/IMI_Galil突擊步槍.md "wikilink")
 
-  - [Galatz](https://zh.wikipedia.org/wiki/IMI加利爾狙擊型步槍 "wikilink")
+  - [Galatz](../Page/IMI加利爾狙擊型步槍.md "wikilink")
 
   - [Vektor R4](../Page/R4突擊步槍.md "wikilink")
 
@@ -431,7 +431,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 
   - [貝瑞塔ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")
 
-  - [貝瑞塔ARX-200](https://zh.wikipedia.org/wiki/貝瑞塔ARX-200戰鬥步槍 "wikilink")
+  - [貝瑞塔ARX-200](../Page/貝瑞塔ARX-200戰鬥步槍.md "wikilink")
 
   - [CS/LR17](https://zh.wikipedia.org/wiki/CS/LR17型模块化自動步槍 "wikilink")
 
@@ -450,7 +450,7 @@ L更使用了全尺寸頂部整體式戰術導軌，將[機匣蓋頂部和護木
 
   - [IMI塔沃爾TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")
 
-  - [IWI微型塔沃爾／X95](https://zh.wikipedia.org/wiki/IWI塔沃爾X95突擊步槍 "wikilink")
+  - [IWI微型塔沃爾／X95](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")
 
   -
   - [IWI

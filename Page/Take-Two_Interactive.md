@@ -3,7 +3,7 @@
 Games](../Page/Rockstar_Games.md "wikilink")，其中2K品牌包括发行核心游戏的[2K
 Games](../Page/2K_Games.md "wikilink")、发行休闲益智类游戏的[2K
 Play以及发行体育竞技类游戏的](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K
-Sports](https://zh.wikipedia.org/wiki/2K_Sports "wikilink")。公司總部位於紐約而國際總部則是為於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[溫莎](../Page/溫莎_\(伯克郡\).md "wikilink")。開發工作室遍及了許多地方，包括[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[多倫多以及](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[諾瓦托](https://zh.wikipedia.org/wiki/諾瓦托 "wikilink")。
+Sports](../Page/2K_Sports.md "wikilink")。公司總部位於紐約而國際總部則是為於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[溫莎](../Page/溫莎_\(伯克郡\).md "wikilink")。開發工作室遍及了許多地方，包括[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[多倫多以及](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[諾瓦托](https://zh.wikipedia.org/wiki/諾瓦托 "wikilink")。
 
 ## 大事记
 
@@ -22,9 +22,9 @@ Interactive重组，成为了之后名声大噪的Rockstar Games。
 Interactive花费2230万美元从[Atari手里收购了](https://zh.wikipedia.org/wiki/Atari "wikilink")[Firaxis
 Games](../Page/Firaxis_Games.md "wikilink")，2005年1月，Take-Two
 Interactive为了在体育竞技游戏市场上与[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA
-Sports体育部门一决高下](https://zh.wikipedia.org/wiki/EA_Sports "wikilink")，Take-Two
+Sports体育部门一决高下](../Page/EA_Sports.md "wikilink")，Take-Two
 Interactive收购日本[世嘉公司旗下的工作室](../Page/世嘉.md "wikilink")[Visual
-Concepts连同其完全所有的子公司](https://zh.wikipedia.org/wiki/Visual_Concepts "wikilink")[Kush
+Concepts连同其完全所有的子公司](../Page/Visual_Concepts.md "wikilink")[Kush
 Games](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")，之后又花费8000万美元收购了多个游戏工作室。伴随着对Visual
 Concepts的收购，Take-Two Interactive同时创立了一个全新的发行品牌2K Games，而原来由Visual
 Concepts开发的游戏以2K Sports品牌发行。2007年，Global Star Software加入2K Games，更名为2K
@@ -74,7 +74,7 @@ Interactive对美国艺电已失去吸引力。”\[1\]
 
   - 2K(该发行品牌旗下有[2K Games](../Page/2K_Games.md "wikilink")、[2K
     Play与](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K
-    Sports](https://zh.wikipedia.org/wiki/2K_Sports "wikilink"))
+    Sports](../Page/2K_Sports.md "wikilink"))
       - [2K澳大利亚](../Page/2K_Australia.md "wikilink")（2K Australia）
       - [2K中国](https://zh.wikipedia.org/wiki/2K中国 "wikilink")（2K China）
       - [2K捷克](../Page/2K_Czech.md "wikilink")（2K Czech）
@@ -84,14 +84,12 @@ Interactive对美国艺电已失去吸引力。”\[1\]
         Games](https://zh.wikipedia.org/wiki/Cat_Daddy_Games "wikilink")
         - 2K Play旗下工作室
       - [Firaxis Games](../Page/Firaxis_Games.md "wikilink")
-      - [Visual
-        Concepts](https://zh.wikipedia.org/wiki/Visual_Concepts "wikilink")
-        - 2K Sports旗下工作室
+      - [Visual Concepts](../Page/Visual_Concepts.md "wikilink") - 2K
+        Sports旗下工作室
           - Visual Concepts中国（Visual Concepts China）
           - Visual Concepts韩国（Visual Concepts Korea）
   - [Rockstar Games](../Page/Rockstar_Games.md "wikilink")
-      - [Rockstar
-        Leeds](https://zh.wikipedia.org/wiki/Rockstar_Leeds "wikilink")
+      - [Rockstar Leeds](../Page/Rockstar_Leeds.md "wikilink")
       - [Rockstar
         Lincoln](https://zh.wikipedia.org/wiki/Rockstar_Lincoln "wikilink")
       - [Rockstar
@@ -121,12 +119,10 @@ Interactive对美国艺电已失去吸引力。”\[1\]
   - [PopTop
     Software](https://zh.wikipedia.org/wiki/PopTop_Software "wikilink")
     - 2006年与Firaxis Games合并
-  - [Rockstar
-    Vancouver](https://zh.wikipedia.org/wiki/Rockstar_Vancouver "wikilink")
-    - Rockstar Games旗下工作室，2012年与Rockstar Toronto合并
-  - [Rockstar
-    Vienna](https://zh.wikipedia.org/wiki/Rockstar_Vienna "wikilink") -
-    Rockstar Games旗下工作室，2006年解散
+  - [Rockstar Vancouver](../Page/Rockstar_Vancouver.md "wikilink") -
+    Rockstar Games旗下工作室，2012年与Rockstar Toronto合并
+  - [Rockstar Vienna](../Page/Rockstar_Vienna.md "wikilink") - Rockstar
+    Games旗下工作室，2006年解散
   - [Take-Two
     Licensing](https://zh.wikipedia.org/wiki/Take-Two_Licensing "wikilink")
     - 已并入2K
@@ -165,8 +161,7 @@ Interactive对美国艺电已失去吸引力。”\[1\]
       - [Ni Hao,
         Kai-lan系列](https://zh.wikipedia.org/wiki/Ni_Hao,_Kai-lan "wikilink")
       - [林林兄弟与巴纳姆及贝利马戏团：戏王之王](https://zh.wikipedia.org/wiki/林林兄弟与巴纳姆及贝利马戏团：戏王之王 "wikilink")
-  - 以[2K
-    Sports为品牌发行](https://zh.wikipedia.org/wiki/2K_Sports "wikilink")
+  - 以[2K Sports为品牌发行](../Page/2K_Sports.md "wikilink")
       - [MLB 2K系列](https://zh.wikipedia.org/wiki/MLB_2K "wikilink")
       - [NBA 2K系列](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")
       - [NFL 2K系列](https://zh.wikipedia.org/wiki/NFL_2K "wikilink")

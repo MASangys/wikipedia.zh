@@ -24,7 +24,7 @@ A系列[APU](https://zh.wikipedia.org/wiki/APU "wikilink")，包括行動版本�
     Core
     Next）架構，並且CPU和內建GPU將實現[統一記憶體定址空間](https://zh.wikipedia.org/wiki/定址空間 "wikilink")。\[11\]
   - 沿用的[處理器插座](../Page/CPU插座.md "wikilink")，即[Socket
-    FM2+](https://zh.wikipedia.org/wiki/Socket_FM2+ "wikilink")（AMD
+    FM2+](../Page/Socket_FM2+.md "wikilink")（AMD
     Fusion）、仍然繼續使用，[晶片組除了可配套新發布的FCH晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")（AMD
     Fusion晶片組代號代號“Bolton”）；\[12\]
   - 已确认放弃发布除桌面Athlon II X4外的独立CPU 现已发布Athlon x4 860K
@@ -55,7 +55,7 @@ APU的設計，其DIV單元與前代K10沒有DIV硬件支持的設計有所不�
 
 在2014年的AMD路线图上，超微半導體表示『Excavator』（正體中文翻譯“**挖掘機**”）將會是第四代Bulldozer架構的代號，計劃2015年發布。\[16\]和Piledriver、Steamroller一樣，首發產品仍然是A系列[Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")
 APU，將於2015年推出移动版；接著，AMD将放弃模块化设计，采用14/16nm
-finfet重新设计采用SMT多线程设计的处理器，代号“[Zen](https://zh.wikipedia.org/wiki/AMD_Zen "wikilink")”。\[17\]
+finfet重新设计采用SMT多线程设计的处理器，代号“[Zen](../Page/AMD_Zen.md "wikilink")”。\[17\]
 
 AMD 於[新加坡](../Page/新加坡.md "wikilink") Future of Compute 宣布
 2015年行動[藍圖](https://zh.wikipedia.org/wiki/藍圖 "wikilink")，將以首款主打高效能的
@@ -70,8 +70,8 @@ Level 12.0。\[19\]
 ## 下一代微架構
 
 AMD正在研发全新的x86
-CPU架构，代号为“Zen”瑞典网站SweClockers号称得到可靠消息，公布了Zen的多个细节，是和Intel类似的[同步多线程](https://zh.wikipedia.org/wiki/多线程#同步多執行緒 "wikilink")([SMT](https://zh.wikipedia.org/wiki/SMT "wikilink"))技术，要等到2016年第三季度推出。AMD自主研发的ARM架构“[K12](https://zh.wikipedia.org/wiki/AMD_K12 "wikilink")”也将在2016年诞生。Zen、K12虽然一个是[x86](../Page/x86.md "wikilink")、一个是[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")，但是将会共享封装接口“[Socket
-AM4](https://zh.wikipedia.org/wiki/Socket_AM4 "wikilink")”，即彼此针脚兼容，可以互换。\[20\]
+CPU架构，代号为“Zen”瑞典网站SweClockers号称得到可靠消息，公布了Zen的多个细节，是和Intel类似的[同步多线程](https://zh.wikipedia.org/wiki/多线程#同步多執行緒 "wikilink")([SMT](https://zh.wikipedia.org/wiki/SMT "wikilink"))技术，要等到2016年第三季度推出。AMD自主研发的ARM架构“[K12](../Page/AMD_K12.md "wikilink")”也将在2016年诞生。Zen、K12虽然一个是[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、一个是[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink")，但是将会共享封装接口“[Socket
+AM4](../Page/Socket_AM4.md "wikilink")”，即彼此针脚兼容，可以互换。\[20\]
 
 ## 參考資料
 

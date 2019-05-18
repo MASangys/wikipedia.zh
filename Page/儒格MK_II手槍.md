@@ -17,7 +17,7 @@ LR彈](../Page/.22_LR.md "wikilink")。
 [RugerMkIICompetitonTarget678-black.jpg](https://zh.wikipedia.org/wiki/File:RugerMkIICompetitonTarget678-black.jpg "fig:RugerMkIICompetitonTarget678-black.jpg")
 
 最早期的儒格手槍為標準型，它並沒有型號編號。在比爾·儒格（Bill
-Ruger）與斯特姆（Sturm）建立合作夥伴關係之前，他成功的仿製了兩支由[美國海軍陸戰隊於](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[二戰期間繳獲的迷你](https://zh.wikipedia.org/wiki/二戰 "wikilink")[南部式手槍](https://zh.wikipedia.org/wiki/十四年式手槍 "wikilink")\[1\]。後來他仿效南部式手槍的槍機設計並作了一些改良，包括增加了一根長4.75吋（12.1厘米）的輕型槍管和改用固定式瞄具，開發了標準型手槍。
+Ruger）與斯特姆（Sturm）建立合作夥伴關係之前，他成功的仿製了兩支由[美國海軍陸戰隊於](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[二戰期間繳獲的迷你](https://zh.wikipedia.org/wiki/二戰 "wikilink")[南部式手槍](../Page/十四年式手槍.md "wikilink")\[1\]。後來他仿效南部式手槍的槍機設計並作了一些改良，包括增加了一根長4.75吋（12.1厘米）的輕型槍管和改用固定式瞄具，開發了標準型手槍。
 
 MK I型新增了一種射靶型，它具有一根長5.5吋（14厘米）的精密槍管或長6.875吋（17.46厘米）的重型槍管以及可調式瞄具。MK
 II型則新增了空倉掛機裝置，槍身可以不銹鋼打造。此版本亦具有許多不同長度的槍管，當中包括：4.75吋（12.1厘米）及6吋（15厘米）輕型槍管；6.875吋（17.46厘米）及10吋（25厘米）精密槍管和5.25吋（13.3厘米）及6.875吋（17.46厘米）的重型槍管。所有具精密槍管和重型槍管的均為射靶型，它們都有著射靶用的準星，這包括了可調式後準星和更高，更寬的前準星，這些瞄具都能有效的減少昡光。
@@ -43,14 +43,14 @@ II的標準型有著更低的噪音，而且精確度更高。另外這些手槍
       - [滅蟲人員](https://zh.wikipedia.org/wiki/病蟲害防治 "wikilink")
       - [美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")
       - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
-      - [聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")[人質拯救隊](https://zh.wikipedia.org/wiki/人質拯救隊 "wikilink")（已撤裝）
+      - [聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")[人質拯救隊](../Page/人質拯救隊.md "wikilink")（已撤裝）
 
 ## 另見
 
   - [Ruger MK
     III](https://zh.wikipedia.org/wiki/Ruger_MK_III "wikilink")
   - [魯格手槍](../Page/魯格手槍.md "wikilink")
-  - [柯爾特護林者](https://zh.wikipedia.org/wiki/柯爾特護林者手槍 "wikilink")
+  - [柯爾特護林者](../Page/柯爾特護林者手槍.md "wikilink")
   - [Baikal MCM](https://zh.wikipedia.org/wiki/Baikal_MCM手槍 "wikilink")
 
 ## 參考

@@ -12,14 +12,14 @@ md. 86時運用了一些來自AK-74原型槍較落後的設計原素。
 ## 設計
 
 PA md.
-86能使用[鳥籠型的](https://zh.wikipedia.org/wiki/鳥籠 "wikilink")[槍口抑制器或](https://zh.wikipedia.org/wiki/槍口抑制器 "wikilink")（專為[特種部隊而設](../Page/特種部隊.md "wikilink")）。另外，此槍也具備一些特色，包括：向上彎曲的、鋼絲型可摺式[槍托](../Page/槍托.md "wikilink")（這是參考[東德AK步槍的設計](../Page/東德.md "wikilink")，但此槍的槍托稍微向左偏移）以及傳統的垂直式[前握把](../Page/輔助握把.md "wikilink")。PA
+86能使用[鳥籠型的](../Page/鳥籠.md "wikilink")[槍口抑制器或](https://zh.wikipedia.org/wiki/槍口抑制器 "wikilink")（專為[特種部隊而設](../Page/特種部隊.md "wikilink")）。另外，此槍也具備一些特色，包括：向上彎曲的、鋼絲型可摺式[槍托](../Page/槍托.md "wikilink")（這是參考[東德AK步槍的設計](../Page/東德.md "wikilink")，但此槍的槍托稍微向左偏移）以及傳統的垂直式[前握把](../Page/輔助握把.md "wikilink")。PA
 md.
 86的下護木是由[層壓木製成](https://zh.wikipedia.org/wiki/層壓木 "wikilink")、而及上護木則由[膠木製成](https://zh.wikipedia.org/wiki/膠木 "wikilink")。
 
 戰鬥潛水員使用的PA md.
 86的[護木是不具前握把的](https://zh.wikipedia.org/wiki/護木 "wikilink")，因為軍方考慮到這會妨礙潛水員的行動並顯得笨重。
 
-此槍亦能夠透過更換[護木以加裝](https://zh.wikipedia.org/wiki/護木 "wikilink")[AG-40榴彈發射器和](https://zh.wikipedia.org/wiki/AG-40附加型榴彈發射器 "wikilink")[戰術燈等配件](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。較特別的是，羅馬尼亞本國使用的PA
+此槍亦能夠透過更換[護木以加裝](https://zh.wikipedia.org/wiki/護木 "wikilink")[AG-40榴彈發射器和](../Page/AG-40附加型榴彈發射器.md "wikilink")[戰術燈等配件](../Page/戰術燈.md "wikilink")。較特別的是，羅馬尼亞本國使用的PA
 md. 86配用一種金屬沖壓成形的彈匣，而非AK-74式的塑料彈匣。
 
 PA md. 86亦是少數地具[三發點放功能的AK步槍](../Page/三發點放.md "wikilink")。

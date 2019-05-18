@@ -177,7 +177,7 @@
 
 ## 漫畫版
 
-本作於[電擊魔王自](https://zh.wikipedia.org/wiki/電擊魔王 "wikilink")2012年4月號開始連載漫畫\[3\]，由[tsucaco負責作畫](https://zh.wikipedia.org/wiki/tsucaco "wikilink")。單行本全5卷。
+本作於[電擊魔王自](../Page/電擊魔王.md "wikilink")2012年4月號開始連載漫畫\[3\]，由[tsucaco負責作畫](https://zh.wikipedia.org/wiki/tsucaco "wikilink")。單行本全5卷。
 
 <table>
 <thead>

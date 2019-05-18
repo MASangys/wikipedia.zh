@@ -1,4 +1,4 @@
-**xkcd**是由[兰德尔·门罗创作的网络](https://zh.wikipedia.org/wiki/兰德尔·门罗 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。作者对其的描述是“关于浪漫、讽刺、数学和语言的网络漫画”。曾获得等奖项。\[1\]
+**xkcd**是由[兰德尔·门罗创作的网络](../Page/兰德尔·门罗.md "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。作者对其的描述是“关于浪漫、讽刺、数学和语言的网络漫画”。曾获得等奖项。\[1\]
 
 漫画的题材多种多样，包括生活与爱情、数学与科学幽默、简单的幽默和流行文化等，人物则多是简单的[火柴人](https://zh.wikipedia.org/wiki/火柴人圖 "wikilink")。
 

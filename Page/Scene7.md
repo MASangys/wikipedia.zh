@@ -14,7 +14,7 @@ Flex](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")。**Scene7**不設立
 
 **Scene7**的客戶包括[Sears](https://zh.wikipedia.org/wiki/Sears "wikilink")、[Lands'
 End](https://zh.wikipedia.org/wiki/Lands'_End "wikilink")、[哈洛德百貨公司](../Page/哈洛德百貨公司.md "wikilink")、[梅西百貨公司](https://zh.wikipedia.org/wiki/梅西百貨公司 "wikilink")、[Office
-Depot](https://zh.wikipedia.org/wiki/Office_Depot "wikilink")、[Levi's](../Page/Levi's.md "wikilink")、[La-Z-Boy和](https://zh.wikipedia.org/wiki/La-Z-Boy "wikilink")[QVC](https://zh.wikipedia.org/wiki/QVC "wikilink")。
+Depot](https://zh.wikipedia.org/wiki/Office_Depot "wikilink")、[Levi's](../Page/Levi's.md "wikilink")、[La-Z-Boy和](https://zh.wikipedia.org/wiki/La-Z-Boy "wikilink")[QVC](../Page/QVC.md "wikilink")。
 
 ## 歷史
 
@@ -25,7 +25,7 @@ This
 Home的軟件](https://zh.wikipedia.org/wiki/Picture_This_Home "wikilink")。
 
 在1988年，該軟件及其40位開發人員被[美泰兒的子公司](../Page/美泰兒.md "wikilink")[The Learning
-Company擁有的](https://zh.wikipedia.org/wiki/The_Learning_Company "wikilink")[Brøderbund所購入](https://zh.wikipedia.org/wiki/Brøderbund "wikilink")。
+Company擁有的](https://zh.wikipedia.org/wiki/The_Learning_Company "wikilink")[Brøderbund所購入](../Page/Brøderbund.md "wikilink")。
 
 在1999年9月，GoodHome.com與總部位於[亞歷山大的對手公司nHabit](https://zh.wikipedia.org/wiki/亞歷山大_\(維珍尼亞州\) "wikilink").com合併。\[3\]
 合併後，GoodHome.com保證它的業務會快速增長。

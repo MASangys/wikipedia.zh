@@ -33,7 +33,7 @@ Kis-My-Ft2的第4次單独演唱會。
 6.  [3D Girl](../Page/Kis-My-1st.md "wikilink")
 7.  Exit - 千賀獨唱
 8.  Rocking Party - 北山・藤谷・玉森
-9.  [世界は僕らを待っている](../Page/Ya-ya-yah.md "wikilink")
+9.  [世界は僕らを待っている](https://zh.wikipedia.org/wiki/Ya-ya-yah "wikilink")
 10. [祈願](https://zh.wikipedia.org/wiki/祈願 "wikilink")
 11. [FIRE BEAT](https://zh.wikipedia.org/wiki/FIRE_BEAT "wikilink")
 12. [KISS FOR U](../Page/Everybody_Go.md "wikilink")

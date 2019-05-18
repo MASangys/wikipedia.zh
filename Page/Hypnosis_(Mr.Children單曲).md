@@ -22,7 +22,7 @@ day／pieces](https://zh.wikipedia.org/wiki/祈禱_～眼淚的痕跡/End_of_the
 ## 收錄專輯
 
   - 《[\[(an imitation) blood
-    orange](https://zh.wikipedia.org/wiki/［\(an_imitation\)_blood_orange］ "wikilink")\]》（\#1）
+    orange](../Page/［\(an_imitation\)_blood_orange］.md "wikilink")\]》（\#1）
 
 ## 參考資料
 

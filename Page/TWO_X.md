@@ -297,7 +297,7 @@ X用心應援。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>8月16日、8月23日、9月6日</p></td>
 </tr>

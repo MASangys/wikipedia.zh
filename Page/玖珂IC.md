@@ -1,4 +1,4 @@
-**玖珂IC**（平假名：くがインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[岩國市的](../Page/岩國市.md "wikilink")[山陽自動車道之](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**玖珂IC**（平假名：くがインターチェンジ）是位於[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[岩國市的](../Page/岩國市.md "wikilink")[山陽自動車道之](../Page/山陽自動車道.md "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -15,7 +15,7 @@
 ## 歷史
 
   - 1992年6月25日 -
-    [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")[熊毛IC至](../Page/熊毛IC.md "wikilink")[岩國IC之間開通](../Page/岩國IC.md "wikilink")，此交流道也同時啟用。
+    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[熊毛IC至](../Page/熊毛IC.md "wikilink")[岩國IC之間開通](../Page/岩國IC.md "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -35,7 +35,7 @@
 
 ## 鄰近設施
 
-  - [山陽自動車道](https://zh.wikipedia.org/wiki/山陽自動車道 "wikilink")
+  - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
     (34)[岩國IC](../Page/岩國IC.md "wikilink") -
     [玖珂PA](https://zh.wikipedia.org/wiki/玖珂PA "wikilink") -
     (35)**玖珂IC** - (36)[熊毛IC](../Page/熊毛IC.md "wikilink")

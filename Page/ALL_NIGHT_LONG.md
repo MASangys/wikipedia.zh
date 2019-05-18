@@ -39,10 +39,10 @@ EX-PRESS](https://zh.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")》解禁音�
     LONG」特別網站](https://web.archive.org/web/20120628072214/http://exile.jp/all_night_long/)
   - [EXILE「ALL NIGHT
     LONG」預告映像](http://www.youtube.com/watch?feature=player_embedded&v=qpd3pKY2ztU)
-    - [Youtube](../Page/Youtube.md "wikilink")
+    - [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
   - [EXILE「ALL NIGHT LONG \~Short
     Version\~」音樂影片](http://www.youtube.com/watch?v=DpEM0zS0vgo)
-    - [Youtube](../Page/Youtube.md "wikilink")
+    - [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
 [Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")

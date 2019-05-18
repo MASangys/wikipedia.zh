@@ -6,14 +6,12 @@
 
 ### MC
 
-  - [MATSU](https://zh.wikipedia.org/wiki/松本利夫 "wikilink")（EXILE、2010年1月
-    - ）
+  - [MATSU](../Page/松本利夫.md "wikilink")（EXILE、2010年1月 - ）
   - [MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")（EXILE、2010年1月
     - ）
   - [YOU](https://zh.wikipedia.org/wiki/YOU_\(藝人\) "wikilink")（スペシャルサポーター、2010年1月
     - ）
-  - [KENCHI](https://zh.wikipedia.org/wiki/KENCHI "wikilink")（EXILE、2011年1月
-    - ）
+  - [KENCHI](../Page/KENCHI.md "wikilink")（EXILE、2011年1月 - ）
 
 ### 現在的主持
 
@@ -36,8 +34,7 @@
     - 12月）
   - [吉田セイラ](https://zh.wikipedia.org/wiki/吉田セイラ "wikilink")（リポーター、2011年2月
     - 3月）
-  - [KEIJI](https://zh.wikipedia.org/wiki/KEIJI "wikilink")（EXILE・リポーター、2011年2月
-    - 2012年3月）
+  - [KEIJI](../Page/KEIJI.md "wikilink")（EXILE・リポーター、2011年2月 - 2012年3月）
 
 ## 播放電視台
 

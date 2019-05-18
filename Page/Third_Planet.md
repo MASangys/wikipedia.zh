@@ -1,5 +1,5 @@
 『**Third
-Planet**』是[sphere的第](../Page/sphere_\(聲優團體\).md "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年7月11日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/Lantis#GloryHeaven唱片所屬者 "wikilink")。
+Planet**』是[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年7月11日由[GloryHeaven發售](https://zh.wikipedia.org/wiki/Lantis#GloryHeaven唱片所屬者 "wikilink")。
 
 ## 概要
 

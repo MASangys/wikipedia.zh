@@ -1,8 +1,7 @@
 **SENSATION**樂團成員包括主唱[曹格](../Page/曹格.md "wikilink")，及演奏團體**[MUSA's](../Page/MUSA's.md "wikilink")**的成員——帶領樂團、來自[阿根廷的鋼琴及鍵盤手](../Page/阿根廷.md "wikilink")[Martin
-"Musa"
-Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")；同樣來自阿根廷的貝斯及低音大提琴手[Lautaro
+"Musa" Musaubach](../Page/明馬丁.md "wikilink")；同樣來自阿根廷的貝斯及低音大提琴手[Lautaro
 "LuKa"
-Bellucca](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")；來自[巴西的鼓手](../Page/巴西.md "wikilink")[Adriano
+Bellucca](../Page/Lautaro_Bellucca.md "wikilink")；來自[巴西的鼓手](../Page/巴西.md "wikilink")[Adriano
 Moreira
 (高飛)](https://zh.wikipedia.org/wiki/Adriano_Moreira_\(高飛\) "wikilink")；以及同樣來自巴西的吉他手、高飛的堂弟Fabio
 Moreira。音樂製作人涂惠源擔任樂團的音樂製作及現場演奏。
@@ -88,7 +87,7 @@ Trio擴展成為MUS4's (quartet，四重奏)。由三重奏演進成小編制樂
 
   -
     Musa，鋼琴及鍵盤手。詳見[Martin "Musa"
-    Musaubach及](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
+    Musaubach及](../Page/明馬丁.md "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
 
 <!-- end list -->
 
@@ -98,7 +97,7 @@ Trio擴展成為MUS4's (quartet，四重奏)。由三重奏演進成小編制樂
 
   -
     LuKa，貝斯及低音大提琴手。詳見[Lautaro "LuKa"
-    Bellucca及](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
+    Bellucca及](../Page/Lautaro_Bellucca.md "wikilink")[MUSA's](../Page/MUSA's.md "wikilink")。
 
 <!-- end list -->
 

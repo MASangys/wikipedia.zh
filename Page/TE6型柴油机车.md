@@ -1,4 +1,4 @@
-**TE6型柴油机车**（）是[苏联铁路的](../Page/苏联.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，是由[哈尔科夫运输机械制造厂为](https://zh.wikipedia.org/wiki/哈尔科夫运输机械制造厂 "wikilink")[苏联国防部特别设计制造的军用特种柴油机车](https://zh.wikipedia.org/wiki/苏联国防部 "wikilink")，不仅可用于牵引军用列车，也可以作为移动式柴油发电机组使用\[1\]。
+**TE6型柴油机车**（）是[苏联铁路的](../Page/苏联.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，是由[哈尔科夫运输机械制造厂为](https://zh.wikipedia.org/wiki/哈尔科夫运输机械制造厂 "wikilink")[苏联国防部特别设计制造的军用特种柴油机车](../Page/苏联国防部.md "wikilink")，不仅可用于牵引军用列车，也可以作为移动式柴油发电机组使用\[1\]。
 
 ## 发展历史
 

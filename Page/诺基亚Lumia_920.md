@@ -18,10 +18,9 @@ Lumia
 
 ## 主要特色
 
-### 強大的[Here地图](https://zh.wikipedia.org/wiki/Here地图 "wikilink")
+### 強大的[Here地图](../Page/Here地图.md "wikilink")
 
-用
-[Here地图探索城市四周](https://zh.wikipedia.org/wiki/Here地图 "wikilink")，離線時亦可使用。
+用 [Here地图探索城市四周](../Page/Here地图.md "wikilink")，離線時亦可使用。
 
 ### PureView
 
@@ -35,8 +34,8 @@ HD錄影](../Page/Full_HD.md "wikilink")，搭配光學防手震，拍攝影片�
 最光、最快及最敏銳觸控的 PureMotion HD+ 螢幕，Lumia 920 不僅採用 1280 x 768 解像度的 4.5 吋 IPS
 螢幕，更搭載了一項革命性的「PureMotion
 HD+」技術，除了具有像素密度高、屏幕亮度高、刷新速度快等特點，同時在觸控感應方面也有革命性的創新，比起對手[iPhone
-5的](../Page/iPhone_5.md "wikilink")326ppi還要更清晰，除此之外，Lumia 920 採用的螢幕比例為
-15:9 ，將更提供使用者比 16:9 螢幕比例更好的觸控感受，而在觸控技術上，Lumia 920
+5的](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")326ppi還要更清晰，除此之外，Lumia
+920 採用的螢幕比例為 15:9 ，將更提供使用者比 16:9 螢幕比例更好的觸控感受，而在觸控技術上，Lumia 920
 更領先群雄，讓你可以帶著手套，甚至使用指夾、筆尖、手套、使用鑰匙、湯匙、叉子等物品，不需要皮膚接觸,就能完成螢幕觸控的動作，在天冷的時候，就不用為了拆掉手套而一陣慌亂。
 
 ### 无线充电

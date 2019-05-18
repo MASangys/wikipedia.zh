@@ -12,7 +12,7 @@
   - [陳樹鵬](../Page/陳樹鵬.md "wikilink")（阿鵬）
   - [王志安](https://zh.wikipedia.org/wiki/王志安_\(藝人\) "wikilink")（Otto）
   - [董敏莉](../Page/董敏莉.md "wikilink")
-  - [SOLER](../Page/SOLER.md "wikilink")
+  - [SOLER](https://zh.wikipedia.org/wiki/SOLER "wikilink")
   - [楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")（蝦頭）
   - [泰臣](https://zh.wikipedia.org/wiki/泰臣 "wikilink")
   - [林超榮](../Page/林超榮.md "wikilink")
@@ -94,7 +94,7 @@
 
 ## 事件
 
-  - 2012年8月9日，亞視高層聯同傳訊媒體集團高層於亞視大埔總台九號錄影廠舉行《娛樂CIA》開鑼儀式。出席人士包括傳訊媒體集團執行董事兼行政總裁蕭孝明、傳訊媒體集團營運總裁李子頌、亞視執行董事[盛品儒](https://zh.wikipedia.org/wiki/盛品儒 "wikilink")、亞視高級副總裁[葉家寶](../Page/葉家寶.md "wikilink")、以及眾多節目主持。\[1\]
+  - 2012年8月9日，亞視高層聯同傳訊媒體集團高層於亞視大埔總台九號錄影廠舉行《娛樂CIA》開鑼儀式。出席人士包括傳訊媒體集團執行董事兼行政總裁蕭孝明、傳訊媒體集團營運總裁李子頌、亞視執行董事[盛品儒](../Page/盛品儒.md "wikilink")、亞視高級副總裁[葉家寶](../Page/葉家寶.md "wikilink")、以及眾多節目主持。\[1\]
   - 2012年8月13日，傳訊媒體集團在[海逸君綽酒店為](https://zh.wikipedia.org/wiki/海逸君綽酒店 "wikilink")《娛樂CIA》舉行盛大首播晚宴，招待超過200位嘉賓，一起見證節目首播及觀賞首集節目。
   - 2012年8月10日開始，作為期三周到港、九、新界，派專人到10個地區派發「阿媽醒Summer 熱爆Fun」100萬港元大抽獎宣傳單張。
   - 2012年8月25日至31日，於[荃灣](../Page/荃灣.md "wikilink")[愉景新城商場設置推廣電視宣傳專櫃](../Page/愉景新城.md "wikilink")，全日播放節目精選片段予遊人觀賞。
@@ -103,7 +103,7 @@
   - 2012年9月15日，於荃灣愉景新城商場舉行「娛樂CIA滿月暨阿媽醒Summer熱爆Fun大衝刺」大型戶外活動，吸引達200名觀眾欣賞。
   - 2012年9月15日，由新任監製[鄧特希將節目內容改善為現時播放的新安排](../Page/鄧特希.md "wikilink")。
   - 2013年2月27日：由於因為不滿有人干預編輯自主，令節目難以保持水準，故傳訊媒體製作有限公司已向亞視發出律師信，通知腰斬節目及追討賠償。\[2\]
-  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](https://zh.wikipedia.org/wiki/路芙 "wikilink")、[王志安](https://zh.wikipedia.org/wiki/王志安 "wikilink")、[陳樹鵬等人到灣仔](../Page/陳樹鵬.md "wikilink")[小額錢債審裁處向亞視追討欠薪](../Page/小額錢債審裁處.md "wikilink")。
+  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](https://zh.wikipedia.org/wiki/路芙 "wikilink")、[王志安](../Page/王志安.md "wikilink")、[陳樹鵬等人到灣仔](../Page/陳樹鵬.md "wikilink")[小額錢債審裁處向亞視追討欠薪](../Page/小額錢債審裁處.md "wikilink")。
 
 ## 播出時間
 

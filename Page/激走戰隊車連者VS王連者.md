@@ -67,27 +67,23 @@ VS系列</p></td>
 ### 戰隊關係者
 
   -
-    **噠布<small>｜**[まるたまり](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")
-    聲</small>
+    **噠布<small>｜**[まるたまり](../Page/丸田麻里.md "wikilink") 聲</small>
     **信號人<small>｜**[大塚芳忠](../Page/大塚芳忠.md "wikilink") 聲</small>
     **三浦參謀長<small>｜**[宮內洋](https://zh.wikipedia.org/wiki/宮內洋 "wikilink")</small>
 
 ### 宇宙暴走族·爆走客
 
   -
-    **總長·蓋拉摩<small>｜**[大竹宏](https://zh.wikipedia.org/wiki/大竹宏 "wikilink")
-    聲</small>
+    **總長·蓋拉摩<small>｜**[大竹宏](../Page/大竹宏.md "wikilink") 聲</small>
     **美女·佐奈特<small>｜**[七瀨理香](https://zh.wikipedia.org/wiki/七瀨理香 "wikilink")</small>
     **副長·澤路馬達<small>｜**[津久井教生](../Page/津久井教生.md "wikilink") 聲</small>
-    **發明家·古拉奇<small>｜**[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")
-    聲</small>
+    **發明家·古拉奇<small>｜**[長嶝高士](../Page/長嶝高士.md "wikilink") 聲</small>
     **暴走皇帝·艾格索斯<small>｜**[小林修](https://zh.wikipedia.org/wiki/小林修 "wikilink")
     聲</small>
     **加加油徒<small>｜**[高戶靖廣](../Page/高戶靖廣.md "wikilink") 聲</small>
       -
         爆走客的加油員。提著大量艾格索斯提供的「讓車子離家出走的汽油」，準備注滿地球上的汽車油箱，並將這些車輛全部改裝為暴走車。卻因車連者的出手阻止，導致計畫失敗而撤退，回到本部的加加油徒在被升級後，又再度回到了地球挑戰車連者們。能夠將升級過後的「高級汽油」化為火焰攻擊。最後遭到VRV金剛的勝利雙連星所擊敗。
-    **巴拉車怪<small>｜**[渡部猛](https://zh.wikipedia.org/wiki/渡部猛 "wikilink")
-    聲</small>
+    **巴拉車怪<small>｜**[渡部猛](../Page/渡部猛.md "wikilink") 聲</small>
       -
         巴拉諾亞殘存的最後機械獸。打算讓人類和車子結婚，藉以大量生產「車子人類」，野心是以「車帝國」取代「機械帝國」征服全宇宙。與王連者戰鬥時受了傷，便逃到了「湯之溫泉小屋」泡湯療傷，沒想到這時恭介的出現，竟導致一場大混亂。武器為眼中發射的破壞光線。只要高速迴轉頭上的車輪就能單獨進行巨大化。最後死於王連者金剛的皇冠終極斬。
     **乘四郎增刊**

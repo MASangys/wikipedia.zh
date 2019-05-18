@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2013年10月2日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LEVEL3" title="wikilink">LEVEL3</a></strong></p></td>
+<td><p><strong><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -63,7 +63,7 @@
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2018年8月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Future_Pop" title="wikilink">Future Pop</a></p></td>
+<td><p><a href="../Page/Future_Pop.md" title="wikilink">Future Pop</a></p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>
@@ -280,7 +280,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2008年7月9日</p></td>
-<td><p><strong><a href="../Page/love_the_world.md" title="wikilink">love the world</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/love_the_world" title="wikilink">love the world</a></strong></p></td>
 <td><p>love the world</p></td>
 <td><ol>
 <li>love the world</li>
@@ -401,7 +401,7 @@
 <li>コミュニケーション (Communication) -original instrumental-</li>
 </ol></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LEVEL3" title="wikilink">LEVEL3</a></p></td>
+<td><p><a href="../Page/LEVEL3.md" title="wikilink">LEVEL3</a></p></td>
 </tr>
 <tr class="even">
 <td><p>16th</p></td>
@@ -422,7 +422,7 @@
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p>2013年2月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/未來的博物館" title="wikilink">未来のミュージアム</a></strong></p></td>
+<td><p><strong><a href="../Page/未來的博物館.md" title="wikilink">未来のミュージアム</a></strong></p></td>
 <td><p>未來的博物館</p></td>
 <td><ol>
 <li>未来のミュージアム</li>
@@ -450,7 +450,7 @@
 <tr class="odd">
 <td><p>19th</p></td>
 <td><p>2013年11月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Sweet_Refrain" title="wikilink">Sweet Refrain</a></strong></p></td>
+<td><p><strong><a href="../Page/Sweet_Refrain.md" title="wikilink">Sweet Refrain</a></strong></p></td>
 <td><p>Sweet Refrain</p></td>
 <td><ol>
 <li>Sweet Refrain</li>
@@ -464,7 +464,7 @@
 <tr class="even">
 <td><p>20th</p></td>
 <td><p>2014年7月16日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Cling_Cling" title="wikilink">Cling Cling</a></strong></p></td>
+<td><p><strong><a href="../Page/Cling_Cling.md" title="wikilink">Cling Cling</a></strong></p></td>
 <td><p>Cling Cling</p></td>
 <td><ol>
 <li>Cling Cling</li>
@@ -514,7 +514,7 @@
 <tr class="odd">
 <td><p>23rd</p></td>
 <td><p>2017年2月15日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TOKYO_GIRL" title="wikilink">TOKYO GIRL</a></strong></p></td>
+<td><p><strong><a href="../Page/TOKYO_GIRL.md" title="wikilink">TOKYO GIRL</a></strong></p></td>
 <td><p>TOKYO GIRL</p></td>
 <td><ol>
 <li>TOKYO GIRL</li>
@@ -523,12 +523,12 @@
 <li>宝石の雨 -original instrumental-</li>
 </ol></td>
 <td><p>2</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Future_Pop" title="wikilink">Future Pop</a></strong></p></td>
+<td><p><strong><a href="../Page/Future_Pop.md" title="wikilink">Future Pop</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>24th</p></td>
 <td><p>2017年8月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/If_you_wanna" title="wikilink">If you wanna</a></strong></p></td>
+<td><p><strong><a href="../Page/If_you_wanna.md" title="wikilink">If you wanna</a></strong></p></td>
 <td><p>If you wanna</p></td>
 <td><ol>
 <li>If you wanna</li>
@@ -542,7 +542,7 @@
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/無限未來" title="wikilink">無限未来</a></strong></p></td>
+<td><p><strong><a href="../Page/無限未來.md" title="wikilink">無限未来</a></strong></p></td>
 <td><p>無限未來</p></td>
 <td><ol>
 <li>無限未來</li>
@@ -591,7 +591,7 @@
 <td><p>1</p></td>
 <td><p>2007年3月14日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service［bitter］" title="wikilink">Fan Service［bitter］</a></strong> 完全生産限定盤</p></td>
+<td><p><strong><a href="../Page/Fan_Service［bitter］.md" title="wikilink">Fan Service［bitter］</a></strong> 完全生産限定盤</p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
@@ -714,7 +714,7 @@
 <td><p>7</p></td>
 <td><p>2013年5月22日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_1st" title="wikilink">Perfume WORLD TOUR 1st</a></strong></p></td>
+<td><p><strong><a href="../Page/Perfume_WORLD_TOUR_1st.md" title="wikilink">Perfume WORLD TOUR 1st</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -728,7 +728,7 @@
 <td><p>8</p></td>
 <td><p>2014年2月12日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_Clips" title="wikilink">Perfume Clips</a></strong></p></td>
+<td><p><strong><a href="../Page/Perfume_Clips.md" title="wikilink">Perfume Clips</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -742,7 +742,7 @@
 <td><p>9</p></td>
 <td><p>2014年4月9日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_4th_Tour_in_DOME『LEVEL3』" title="wikilink">Perfume 4th Tour in DOME『LEVEL3』</a></strong></p></td>
+<td><p><strong><a href="../Page/Perfume_4th_Tour_in_DOME『LEVEL3』.md" title="wikilink">Perfume 4th Tour in DOME『LEVEL3』</a></strong></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -1018,7 +1018,7 @@
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>Spring of Life</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中裕介" title="wikilink">田中裕介</a></p></td>
+<td><p><a href="../Page/田中裕介.md" title="wikilink">田中裕介</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Spending all my time</p></td>

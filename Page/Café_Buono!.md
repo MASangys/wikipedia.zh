@@ -42,7 +42,7 @@ Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono
 8.  **Last Forever**
     （作詞：川上夏季、作曲・編曲：西川進）
 9.  **[心之卵](../Page/真實的自我_\(Buono!單曲\).md "wikilink")**
-    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")）
+    （作詞：川上夏季、作曲：ムラマツテツヤ、編曲：[安部潤](../Page/安部潤.md "wikilink")）
       -
         1st單曲c/w曲
 10. **星の羊たち**
@@ -81,7 +81,7 @@ Buono\!**』是[日本的女子偶像組合](../Page/日本.md "wikilink")[Buono
   - 佐久間誠 - 作曲(5)、電子琴・作曲(12)
   - A-bee - 作曲(6)
   - 中野定博 - 作曲(7)
-  - [安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink") - 作曲・電子琴(9)
+  - [安部潤](../Page/安部潤.md "wikilink") - 作曲・電子琴(9)
   - 鈴木健治 - 吉他(9)
   - [SHUNTARO](https://zh.wikipedia.org/wiki/沖野俊太郎 "wikilink") - 作曲(10)
   - 池田森 - 吉他(10)

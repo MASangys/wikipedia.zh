@@ -21,7 +21,8 @@ Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink") 3 1.4 GHz
 [液晶顯示屏](../Page/液晶.md "wikilink")（解像度 1280 × 800）、後置 800
 萬像素[自動對焦](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")、前置
 120 萬像素視訊鏡頭。連接介面包括 40 針專用連接插槽、micro [HDMI](../Page/HDMI.md "wikilink") 及
-3.5 mm 耳機插孔，及 [microSD](../Page/microSD.md "wikilink") 插槽。\[3\]
+3.5 mm 耳機插孔，及
+[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink") 插槽。\[3\]
 
 ## 軟件
 

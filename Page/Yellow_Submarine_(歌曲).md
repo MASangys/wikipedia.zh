@@ -3,7 +3,7 @@ Submarine**(黃色潛水艇)是[英國樂團](https://zh.wikipedia.org/wiki/英�
 [The Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink")
 於1966年發行的的歌曲，由
 [Paul](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink") 創作及由
-[Ringo](https://zh.wikipedia.org/wiki/林格·斯塔 "wikilink") 主唱。它被收錄在
+[Ringo](../Page/林格·斯塔.md "wikilink") 主唱。它被收錄在
 [Revolver](https://zh.wikipedia.org/wiki/Revolver "wikilink") 中和以單曲發行。
 
 此曲受到樂迷歡迎，單曲維持於英國排行榜榜首4星期，留在榜上達13星期。它以1966年英國最暢銷的單曲以獲得[艾弗·諾韋洛獎](https://zh.wikipedia.org/wiki/艾弗·諾韋洛獎 "wikilink")。
@@ -35,7 +35,7 @@ Paul 在鐵罐中對話扮演船長與船員溝通，Ringo 在錄音室外大喊
 
 [CapitolRecord45Small.jpg](https://zh.wikipedia.org/wiki/File:CapitolRecord45Small.jpg "fig:CapitolRecord45Small.jpg")
 Yellow Submarine 是 The Beatles 在英國發行的第13張單曲，於8月5日與 [Eleanor
-Rigby](https://zh.wikipedia.org/wiki/Eleanor_Rigby "wikilink")
+Rigby](../Page/Eleanor_Rigby.md "wikilink")
 以[雙A面出售](../Page/A面與B面.md "wikilink")，在美國則於8月8日出售。一日後
 [Revolver](https://zh.wikipedia.org/wiki/Revolver "wikilink") 發行。
 
@@ -51,7 +51,7 @@ John＂比耶穌更受歡迎＂的言論。
 
 ## 參與人員
 
-  - [Ringo](https://zh.wikipedia.org/wiki/林格·斯塔 "wikilink")：主唱、鼓手
+  - [Ringo](../Page/林格·斯塔.md "wikilink")：主唱、鼓手
   - [Paul](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")：和聲歌手、音效、低音吉他手
   - [John](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")：和聲歌手、音效、木吉他手
   - [George](https://zh.wikipedia.org/wiki/喬治·哈里森 "wikilink")：和聲歌手、鈴鼓

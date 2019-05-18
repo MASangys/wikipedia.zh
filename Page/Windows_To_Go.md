@@ -1,5 +1,5 @@
 **Windows To Go**是[Windows
-8.1与](https://zh.wikipedia.org/wiki/Windows_8.1 "wikilink")[Windows
+8.1与](../Page/Windows_8.1.md "wikilink")[Windows
 10的一种企业功能](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，被内置于Windows
 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10
 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To

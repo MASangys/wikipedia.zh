@@ -17,7 +17,7 @@ call、駐場禮賓師代客安排活動籌劃、酒店式送餐服務、安排�
 ## 鄰近
 
   - [YOHO區](https://zh.wikipedia.org/wiki/YOHO區 "wikilink")
-  - [朗晴居](https://zh.wikipedia.org/wiki/朗晴居 "wikilink")
+  - [朗晴居](../Page/朗晴居.md "wikilink")
   - 朗怡居
   - 元朗消防局
   - [尚悅](../Page/尚悅_\(香港\).md "wikilink")

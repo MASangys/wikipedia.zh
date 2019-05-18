@@ -3,8 +3,7 @@ Travel**》為[日本歌手](../Page/日本.md "wikilink")[Superfly於](../Page/
 
 ## 解說
 
-  - 與上張專輯《[Box
-    Emotions](https://zh.wikipedia.org/wiki/Box_Emotions "wikilink")》相隔約1年9個月。
+  - 與上張專輯《[Box Emotions](../Page/Box_Emotions.md "wikilink")》相隔約1年9個月。
   - 上張專輯以來所發行的作品中，收錄了〈[靈魂
     Revolution](https://zh.wikipedia.org/wiki/靈魂_Revolution "wikilink")〉的另一版本，另外9th單曲〈[Dancing
     On The

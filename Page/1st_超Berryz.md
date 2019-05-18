@@ -14,7 +14,7 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 1.  **[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")**（あなたなしでは生きてゆけない）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         1st單曲
 2.  **[活力上路！](../Page/活力上路！.md "wikilink")**（ピリリと行こう\!）

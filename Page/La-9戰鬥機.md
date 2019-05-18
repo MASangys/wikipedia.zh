@@ -1,4 +1,4 @@
-**Lа-9戰鬥機**（）是[第二次世界大戰後由](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[拉沃奇金設計局設計的](https://zh.wikipedia.org/wiki/拉沃奇金設計局 "wikilink")[蘇聯末代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[螺旋槳](../Page/螺旋槳.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，1946年6月試飛成功，1947年裝備部隊，1953年停产。[中国于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")1950年进口过此型飞机及技术，服役至1959年。
+**Lа-9戰鬥機**（）是[第二次世界大戰後由](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[拉沃奇金設計局設計的](../Page/拉沃奇金設計局.md "wikilink")[蘇聯末代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[螺旋槳](../Page/螺旋槳.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，1946年6月試飛成功，1947年裝備部隊，1953年停产。[中国于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")1950年进口过此型飞机及技术，服役至1959年。
 
 ## 基本資料
 

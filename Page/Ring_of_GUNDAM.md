@@ -32,7 +32,7 @@ GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士�
   - 音乐：[菅野洋子](../Page/菅野洋子.md "wikilink")
   - プロデューサー：佐佐木新、倉澤幹隆、河口佳高
   - 原生GUNDAM设定：[大河原邦男](../Page/大河原邦男.md "wikilink")
-  - 机械设定：[安田朗](https://zh.wikipedia.org/wiki/安田朗 "wikilink")、[西村絹](../Page/西村絹.md "wikilink")、[剛田チーズ](https://zh.wikipedia.org/wiki/BENGUS "wikilink")、早野海兵、藤田潔、[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")
+  - 机械设定：[安田朗](../Page/安田朗.md "wikilink")、[西村絹](../Page/西村絹.md "wikilink")、[剛田チーズ](https://zh.wikipedia.org/wiki/BENGUS "wikilink")、早野海兵、藤田潔、[山根公利](https://zh.wikipedia.org/wiki/山根公利 "wikilink")
   - 美術設定：池田繁美
   - 分镜：[斧谷稔](../Page/富野由悠季.md "wikilink")
   - CGスーパーバイザー：西井育生

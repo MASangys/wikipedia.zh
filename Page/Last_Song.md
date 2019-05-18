@@ -9,7 +9,7 @@ Label](../Page/Key_Sounds_Label.md "wikilink")\[1\]。其中《Last
 Song》以及《[最珍貴的寶物 〜Yui final
 ver.〜](https://zh.wikipedia.org/wiki/最珍貴的寶物_〜Yui_final_ver.〜 "wikilink")》的推出，同樣意味著「Girls
 Dead Monster」將在2010年底結束自身的專輯製作活動。《Last
-Song》總共收錄了3首與動畫相關的曲目，而單曲的主唱全部由負責[岩澤雅美歌唱部分的](https://zh.wikipedia.org/wiki/岩澤雅美 "wikilink")[marina重新演唱而成](../Page/marina.md "wikilink")。
+Song》總共收錄了3首與動畫相關的曲目，而單曲的主唱全部由負責[岩澤雅美歌唱部分的](https://zh.wikipedia.org/wiki/岩澤雅美 "wikilink")[marina重新演唱而成](https://zh.wikipedia.org/wiki/marina "wikilink")。
 
 ## 介紹
 

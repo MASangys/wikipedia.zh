@@ -1,5 +1,5 @@
 《**非常興奮 Take a
-chance**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")51張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年10月10日由[zetima发售](../Page/zetima.md "wikilink")。
+chance**》（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")51張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年10月10日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 

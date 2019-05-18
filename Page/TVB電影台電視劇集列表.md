@@ -85,7 +85,7 @@ Ranma 1/2</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一休和尚_(富士電視劇)" title="wikilink">-{聰明的一休}-</a><br />
+<td style="text-align: center;"><p><a href="../Page/一休和尚_(富士電視劇).md" title="wikilink">-{聰明的一休}-</a><br />
 Ikkyu San</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p><a href="../Page/鈴木福.md" title="wikilink">鈴木福</a>、<a href="https://zh.wikipedia.org/wiki/小葉子" title="wikilink">小葉子</a>、<a href="../Page/成宮寬貴.md" title="wikilink">成宮寬貴</a>、<a href="https://zh.wikipedia.org/wiki/東山紀之" title="wikilink">東山紀之</a></p></td>

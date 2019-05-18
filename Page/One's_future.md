@@ -22,7 +22,7 @@ for summer wind》。
   - [Kud Wafter](../Page/Kud_Wafter.md "wikilink")
   - [Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")
   - [Albina -Assorted Kudwaf
-    Songs-](https://zh.wikipedia.org/wiki/Albina_-Assorted_Kudwaf_Songs- "wikilink")
+    Songs-](../Page/Albina_-Assorted_Kudwaf_Songs-.md "wikilink")
 
 ## 外部链接
 

@@ -26,7 +26,7 @@ GABA<sub>A</sub>受体的活性位点可与[GABA以及许多药物诸如](https:
 [GABAA_receptor_schematic.png](https://zh.wikipedia.org/wiki/File:GABAA_receptor_schematic.png "fig:GABAA_receptor_schematic.png")。图中圆筒状物是四个跨膜[α螺旋区域](https://zh.wikipedia.org/wiki/α螺旋 "wikilink")。N-端膜外形成半胱氨酸环的二硫键用黄线表示。
 **右图**:五个亚基对称分布，形成中央氯离子通道。 膜外肽链未画出。\]\]
 [GABAA-receptor-protein-example.png](https://zh.wikipedia.org/wiki/File:GABAA-receptor-protein-example.png "fig:GABAA-receptor-protein-example.png")
-GABA<sub>A</sub>受体是由五个亚基组成的[跨膜受体](https://zh.wikipedia.org/wiki/跨膜受体 "wikilink")，五个亚基围绕形成离子通道。每个亚基包含四个跨膜域，N-和C-末端都在细胞外。GABA<sub>A</sub>受体存在于神经元的细胞膜上，大部分该受体处于[突触后膜上](../Page/突触.md "wikilink")，而某些受体的同源异构体也会出现在突触以外的地方\[12\]。[GABA是GABA](https://zh.wikipedia.org/wiki/GABA "wikilink")<sub>A</sub>受体的内源性[配体](https://zh.wikipedia.org/wiki/配体 "wikilink")，结合时可使受体通道开放。当GABA与受体结合时，受体在细胞膜上发生构型改变，通道孔打开，[氯](../Page/氯.md "wikilink")[阴离子可顺着电势和浓度梯度通过离子通道](../Page/离子.md "wikilink")。由于大多数神经元上的氯离子的在细胞膜[静息电位附近](../Page/静息电位.md "wikilink")，或略低于静息电位，GABA<sub>A</sub>受体的激活可以使静息电位更加稳定，甚至使细胞超极化，以至于弱化了激动性[神经递质的](../Page/神经递质.md "wikilink")[去极化效果和产生](https://zh.wikipedia.org/wiki/去极化 "wikilink")[动作电位的可能](../Page/动作电位.md "wikilink")。因此，该受体主要发挥抑制性作用，减少神经元的活动。GABA<sub>A</sub>受体是离子型受体，开放速度快，因此在抑制性突触后电位的过程中属于早期效应\[13\]\[14\]。内源性苯二氮䓬类位点的配体是[肌苷](https://zh.wikipedia.org/wiki/肌苷 "wikilink")。
+GABA<sub>A</sub>受体是由五个亚基组成的[跨膜受体](https://zh.wikipedia.org/wiki/跨膜受体 "wikilink")，五个亚基围绕形成离子通道。每个亚基包含四个跨膜域，N-和C-末端都在细胞外。GABA<sub>A</sub>受体存在于神经元的细胞膜上，大部分该受体处于[突触后膜上](../Page/突触.md "wikilink")，而某些受体的同源异构体也会出现在突触以外的地方\[12\]。[GABA是GABA](https://zh.wikipedia.org/wiki/GABA "wikilink")<sub>A</sub>受体的内源性[配体](https://zh.wikipedia.org/wiki/配体 "wikilink")，结合时可使受体通道开放。当GABA与受体结合时，受体在细胞膜上发生构型改变，通道孔打开，[氯](../Page/氯.md "wikilink")[阴离子可顺着电势和浓度梯度通过离子通道](../Page/离子.md "wikilink")。由于大多数神经元上的氯离子的在细胞膜[静息电位附近](../Page/静息电位.md "wikilink")，或略低于静息电位，GABA<sub>A</sub>受体的激活可以使静息电位更加稳定，甚至使细胞超极化，以至于弱化了激动性[神经递质的](../Page/神经递质.md "wikilink")[去极化效果和产生](../Page/去极化.md "wikilink")[动作电位的可能](../Page/动作电位.md "wikilink")。因此，该受体主要发挥抑制性作用，减少神经元的活动。GABA<sub>A</sub>受体是离子型受体，开放速度快，因此在抑制性突触后电位的过程中属于早期效应\[13\]\[14\]。内源性苯二氮䓬类位点的配体是[肌苷](https://zh.wikipedia.org/wiki/肌苷 "wikilink")。
 
 ### 亚基
 
@@ -69,14 +69,14 @@ GABRR3)，但ρ亚基并不与上述的其他亚基结合，而是形成[GABA-ρ
   - 异构激动剂:
     [巴比妥类药物](https://zh.wikipedia.org/wiki/巴比妥类药物 "wikilink")、[苯二氮䓬类药物](https://zh.wikipedia.org/wiki/苯二氮䓬类药物 "wikilink")、、[乙醇](../Page/乙醇.md "wikilink")、、、、\[21\]
     、[甲喹酮](https://zh.wikipedia.org/wiki/甲喹酮 "wikilink")、神经甾体、\[22\]
-    [烟酸](../Page/烟酸.md "wikilink")/[烟酰胺](../Page/烟酰胺.md "wikilink")、、[异丙酚](https://zh.wikipedia.org/wiki/异丙酚 "wikilink")、、\[23\]
+    [烟酸](../Page/烟酸.md "wikilink")/[烟酰胺](../Page/烟酰胺.md "wikilink")、、[异丙酚](../Page/异丙酚.md "wikilink")、、\[23\]
     [茶氨酸](../Page/茶氨酸.md "wikilink")、、吸入性[麻醉剂](https://zh.wikipedia.org/wiki/麻醉剂 "wikilink")、[镧](../Page/镧.md "wikilink")\[24\]
   - 异构拮抗剂：、、、[锌](../Page/锌.md "wikilink")\[25\]
-  - 非竞争性拮抗剂：、、、、[侧柏酮](../Page/侧柏酮.md "wikilink")、[γ-六氯环己烷](../Page/γ-六氯环己烷.md "wikilink")
+  - 非竞争性拮抗剂：、、、、[侧柏酮](../Page/侧柏酮.md "wikilink")、[γ-六氯环己烷](https://zh.wikipedia.org/wiki/γ-六氯环己烷 "wikilink")
 
 ### 药效
 
-能够激动GABA<sub>A</sub>受体的配体通常能够产生抗[焦虑](https://zh.wikipedia.org/wiki/焦虑 "wikilink")，抗[惊厥](https://zh.wikipedia.org/wiki/惊厥 "wikilink")，[失忆症](https://zh.wikipedia.org/wiki/失忆症 "wikilink")，[镇静](https://zh.wikipedia.org/wiki/镇静 "wikilink")，[催眠](../Page/催眠.md "wikilink")，[欣快以及](https://zh.wikipedia.org/wiki/欣快 "wikilink")[肌肉松弛等效果](https://zh.wikipedia.org/wiki/肌肉松弛剂 "wikilink")。某些药物，比如[蝇蕈醇](https://zh.wikipedia.org/wiki/蝇蕈醇 "wikilink")，也能够引发[幻觉](../Page/幻觉.md "wikilink")。而能够阻滞GABA<sub>A</sub>受体活性的配体则能产生相反的效果，比如产生焦虑及[痉挛等](https://zh.wikipedia.org/wiki/痉挛 "wikilink")。当前研究集中于某些亚基选择性异构拮抗剂当中，比如等，因为这些药物可产生[益智效果](https://zh.wikipedia.org/wiki/益智药 "wikilink")，并能缓解GABA能药物产生的副作用\[26\]。
+能够激动GABA<sub>A</sub>受体的配体通常能够产生抗[焦虑](https://zh.wikipedia.org/wiki/焦虑 "wikilink")，抗[惊厥](https://zh.wikipedia.org/wiki/惊厥 "wikilink")，[失忆症](https://zh.wikipedia.org/wiki/失忆症 "wikilink")，[镇静](https://zh.wikipedia.org/wiki/镇静 "wikilink")，[催眠](../Page/催眠.md "wikilink")，[欣快以及](../Page/欣快.md "wikilink")[肌肉松弛等效果](https://zh.wikipedia.org/wiki/肌肉松弛剂 "wikilink")。某些药物，比如[蝇蕈醇](https://zh.wikipedia.org/wiki/蝇蕈醇 "wikilink")，也能够引发[幻觉](../Page/幻觉.md "wikilink")。而能够阻滞GABA<sub>A</sub>受体活性的配体则能产生相反的效果，比如产生焦虑及[痉挛等](https://zh.wikipedia.org/wiki/痉挛 "wikilink")。当前研究集中于某些亚基选择性异构拮抗剂当中，比如等，因为这些药物可产生[益智效果](https://zh.wikipedia.org/wiki/益智药 "wikilink")，并能缓解GABA能药物产生的副作用\[26\]。
 
 ### 新型药物
 

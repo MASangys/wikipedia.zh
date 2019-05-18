@@ -18,7 +18,7 @@ SINGLES BEST》所有收錄曲現場音源的2CD。
 ## 商業成績
 
 發行首週登上[公信榜週榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1位，成為自《[NAMELESS
-WORLD](https://zh.wikipedia.org/wiki/NAMELESS_WORLD "wikilink")》連續第6張冠軍專輯\[1\]，同時為《[ALL
+WORLD](../Page/NAMELESS_WORLD.md "wikilink")》連續第6張冠軍專輯\[1\]，同時為《[ALL
 SINGLES
 BEST](../Page/ALL_SINGLES_BEST_\(可苦可樂專輯\).md "wikilink")》以來的最高首週紀錄。
 

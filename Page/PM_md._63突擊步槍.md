@@ -117,8 +117,8 @@ Romanian short AK rifle.jpg|md. 90卡賓槍 |摩洛哥軍隊
   - [AK-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")
   - [AKM](../Page/AKM突擊步槍.md "wikilink")
   - [RPK](../Page/RPK輕機槍.md "wikilink")
-  - [AMD-65](https://zh.wikipedia.org/wiki/AMD-65突擊步槍 "wikilink")
-  - [PSL](https://zh.wikipedia.org/wiki/PSL狙擊步槍 "wikilink")
+  - [AMD-65](../Page/AMD-65突擊步槍.md "wikilink")
+  - [PSL](../Page/PSL狙擊步槍.md "wikilink")
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")

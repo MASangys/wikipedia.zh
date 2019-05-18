@@ -1,5 +1,5 @@
 《**IRIS
-2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2013年2月13日起播出的[水木迷你連續劇](../Page/KBS水木連續劇.md "wikilink")，2009年熱播諜報電視劇《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》之續集，由《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》、《[他們的世界](../Page/他們的世界.md "wikilink")》[表民秀導演及](https://zh.wikipedia.org/wiki/表民秀 "wikilink")《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》[金泰勳導演共同執導](https://zh.wikipedia.org/wiki/金泰勳 "wikilink")，《[lRlS](../Page/IRIS_\(電視劇\).md "wikilink")》、《[Poseidon](../Page/波塞冬_\(電視劇\).md "wikilink")》[趙奎元作家擔任編劇](https://zh.wikipedia.org/wiki/趙奎元 "wikilink")，[張赫與](https://zh.wikipedia.org/wiki/張赫 "wikilink")[李多海繼](../Page/李多海.md "wikilink")《[不汗黨](../Page/不汗黨.md "wikilink")》、《[推奴](../Page/推奴.md "wikilink")》之後第三度攜手演出的電視劇。好萊塢電影《[終極警探：跨國救援](https://zh.wikipedia.org/wiki/終極警探：跨國救援 "wikilink")》製作團隊加盟匈牙利當地的拍攝，在動作、武打、裝備等方面給予許多幫助。\[1\]
+2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2013年2月13日起播出的[水木迷你連續劇](../Page/KBS水木連續劇.md "wikilink")，2009年熱播諜報電視劇《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》之續集，由《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》、《[他們的世界](../Page/他們的世界.md "wikilink")》[表民秀導演及](../Page/表民秀.md "wikilink")《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》[金泰勳導演共同執導](https://zh.wikipedia.org/wiki/金泰勳 "wikilink")，《[lRlS](../Page/IRIS_\(電視劇\).md "wikilink")》、《[Poseidon](../Page/波塞冬_\(電視劇\).md "wikilink")》[趙奎元作家擔任編劇](https://zh.wikipedia.org/wiki/趙奎元 "wikilink")，[張赫與](https://zh.wikipedia.org/wiki/張赫 "wikilink")[李多海繼](../Page/李多海.md "wikilink")《[不汗黨](../Page/不汗黨.md "wikilink")》、《[推奴](../Page/推奴.md "wikilink")》之後第三度攜手演出的電視劇。好萊塢電影《[終極警探：跨國救援](https://zh.wikipedia.org/wiki/終極警探：跨國救援 "wikilink")》製作團隊加盟匈牙利當地的拍攝，在動作、武打、裝備等方面給予許多幫助。\[1\]
 
 ## 故事簡介
 
@@ -33,7 +33,7 @@ Black之神祕面紗。
 <tr class="even">
 <td><center>
 <p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/朴健泰" title="wikilink">朴健泰</a></small></p></td>
+<small>少年：<a href="../Page/朴健泰.md" title="wikilink">朴健泰</a></small></p></td>
 <td><center>
 <p>鄭柳建</p></td>
 <td><p>NSS TF-A（Task Force A）隊長，高中時期以打架而出名，後來成為刑警，在一次追捕走私犯的過程中，其表現被賞識才得以進入NSS。某天，對待他如同兒子般的警衛何在龍遭遇離奇事故，柳建也得知自己與被監護的白山之間不為人知的祕密。柳建向崔敏要求取得她的權限進入NSS的機密資料室，開始對白山的調查，並與崔敏策劃以白山為誘餌，藉此查出隱藏在NSS內部間諜與IRIS想要從白山那邊得到什麼東西。在引誘出IRIS之時，柳建卻遭到襲擊然後失蹤了……</p></td>
@@ -67,11 +67,11 @@ Black之神祕面紗。
 <p>徐賢宇</p></td>
 <td><p>身懷徹底的使命感，在射擊、暗號破解、武術、外語等多種領域擁有出色實力。一直喜歡著冒失而率直的秀妍，但是得知她和柳建的關係後，只能在旁默默地注視著。柳建失蹤後，賢宇便守在秀妍身邊，漸漸地成為對她有著特殊意義的男人。雖然歡迎柳建的倖存歸來，但不願讓秀妍離他而去。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃積權" title="wikilink">黃積權</a></p></td>
+<p><a href="../Page/黃積權.md" title="wikilink">黃積權</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李準_(歌手)" title="wikilink">李準</a></p></td>
+<p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a></p></td>
 <td><center>
 <p>尹時赫</p></td>
 <td><p>時赫所進行的每件事起初都是因為很帥，在副局長崔敏的提議之下決定不做警護隊要員，轉而加入了追蹤暗殺者6組。</p></td>
@@ -80,7 +80,7 @@ Black之神祕面紗。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金日宇" title="wikilink">金日宇</a></p></td>
+<p><a href="../Page/金日宇.md" title="wikilink">金日宇</a></p></td>
 <td><center>
 <p>姜哲煥</p></td>
 <td><p>NSS局長，曾經在國情院和NTS任職，他的想法很堅決，「按需要廢除NSS」彷彿是個打從一開始就想拆解NSS的人。將NSS相對自由的氣氛評價為墮落，並且與新任副局長崔敏針鋒相對。</p></td>
@@ -98,7 +98,7 @@ Black之神祕面紗。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/成東鎰" title="wikilink">成東鎰</a></p></td>
+<p><a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td><center>
 <p>朴俊翰</p></td>
 <td><p>NSS反恐室長，如同大哥般照顧後輩的溫暖男人，執行任務時遇上柳建並將他帶入NSS。很久以前就覺得白山是個危險人物，如果因為白山而使NSS還有他的部下面臨危險，他決不會坐視不管。</p></td>
@@ -107,7 +107,7 @@ Black之神祕面紗。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹朱尚" title="wikilink">尹朱尚</a></p></td>
+<p><a href="../Page/尹朱尚.md" title="wikilink">尹朱尚</a></p></td>
 <td><center>
 <p>吳賢圭</p></td>
 <td><p>NSS科學搜查室長，為NSS中最年長者，愛炒股票的他不久前才大賺一筆。雖然常說著任何時候都可以辭職不做，但因為某種原因一直沒有離開。</p></td>
@@ -125,7 +125,7 @@ Black之神祕面紗。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/尹周熙" title="wikilink">尹周熙</a></p></td>
+<p><a href="../Page/尹周熙.md" title="wikilink">尹周熙</a></p></td>
 <td><center>
 <p>李秀珍</p></td>
 <td><p>局長秘書，IRIS在NSS的間諜，對IRIS和白山有關的情報著緊。因為柳建的失蹤，在調查期間被揭發盜取及洩漏機密資料，在住所消毀資料時被尹時赫等人拘捕。在NSS和劉仲元交換人質行動期間，中槍身亡。</p></td>
@@ -178,7 +178,7 @@ Black之神祕面紗。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李正吉" title="wikilink">李正吉</a></p></td>
+<p><a href="../Page/李正吉.md" title="wikilink">李正吉</a></p></td>
 <td><center>
 <p>趙明浩</p></td>
 <td><p>前任總統，卸任後成為「朝鮮半島統一準備委員會」代表並為了大韓民國的和平而費心，希望挖掘出更多關於IRIS的事情。</p></td>
@@ -270,7 +270,7 @@ Black之神祕面紗。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金永哲" title="wikilink">金永哲</a><br />
+<p><a href="../Page/金永哲.md" title="wikilink">金永哲</a><br />
 <small>青年：<a href="https://zh.wikipedia.org/wiki/鄭錫遠" title="wikilink">鄭錫遠</a></small></p></td>
 <td><center>
 <p>白山</p></td>
@@ -353,7 +353,7 @@ Black之神祕面紗。
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朱鎮模_(1958年)" title="wikilink">朱鎮模</a></p></td>
+<p><a href="../Page/朱鎮模_(1958年).md" title="wikilink">朱鎮模</a></p></td>
 <td><center>
 <p>何在龍</p></td>
 <td></td>
@@ -369,7 +369,7 @@ Black之神祕面紗。
 <td></td>
 <td><center>
 <p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a><br />
-青年:<a href="https://zh.wikipedia.org/wiki/吳羨婷" title="wikilink">吳羨婷</a></p></td>
+青年:<a href="../Page/吳羨婷.md" title="wikilink">吳羨婷</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -394,7 +394,7 @@ Black之神祕面紗。
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/朴相旭" title="wikilink">朴相旭</a></p></td>
+<p><a href="../Page/朴相旭.md" title="wikilink">朴相旭</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -487,7 +487,7 @@ Nagyvásárcsarnok</p></td>
 <tr class="even">
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/漢江" title="wikilink">漢江</a><a href="https://zh.wikipedia.org/wiki/潛水橋_(韓國)" title="wikilink">潛水橋</a></p></td>
 <td><p>（<a href="../Page/盤浦大橋.md" title="wikilink">盤浦大橋下層</a>）、<a href="https://zh.wikipedia.org/wiki/瑞草區" title="wikilink">瑞草區盤浦漢江公園</a>、<a href="https://zh.wikipedia.org/wiki/汝矣島站" title="wikilink">汝矣島站</a></p></td>
@@ -528,8 +528,8 @@ Nagyvásárcsarnok</p></td>
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[七級公務員](https://zh.wikipedia.org/wiki/七級公務員_\(電視劇\) "wikilink")》、《[當男人戀愛時](https://zh.wikipedia.org/wiki/當男人戀愛時 "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[那年冬天，起風了](https://zh.wikipedia.org/wiki/那年冬天，起風了 "wikilink")》、《[我戀愛的一切](https://zh.wikipedia.org/wiki/我戀愛的一切 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[七級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")》、《[當男人戀愛時](../Page/當男人戀愛時.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[那年冬天，起風了](https://zh.wikipedia.org/wiki/那年冬天，起風了 "wikilink")》、《[我戀愛的一切](../Page/我戀愛的一切.md "wikilink")》
 
 ## 其他事項
 
@@ -537,11 +537,11 @@ Nagyvásárcsarnok</p></td>
 | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **時間**                                                                                                | **事項**                                                                                                                                                                                                                                                                                         |
 | 2012年11月2日                                                                                            | 在[忠清南道](../Page/忠清南道.md "wikilink")[泰安半島進行首次拍攝](https://zh.wikipedia.org/wiki/泰安半島 "wikilink")。\[7\]                                                                                                                                                                                           |
-| 2012年11月13日                                                                                           | 於[首爾Ritzcarlton酒店舉行Showcase](https://zh.wikipedia.org/wiki/首爾 "wikilink")，公開部分片花及採訪，Taewon娛樂代表鄭泰元、導演表民秀和金泰勳及演員張赫、李多海、李凡秀、吳娟受、尹斗俊、林秀香、李準、笛木優子參加。\[8\]                                                                                                                                           |
+| 2012年11月13日                                                                                           | 於[首爾Ritzcarlton酒店舉行Showcase](../Page/首爾.md "wikilink")，公開部分片花及採訪，Taewon娛樂代表鄭泰元、導演表民秀和金泰勳及演員張赫、李多海、李凡秀、吳娟受、尹斗俊、林秀香、李準、笛木優子參加。\[8\]                                                                                                                                                              |
 | 2012年11月末                                                                                             | 開始進行海外拍攝行程，自[匈牙利起](../Page/匈牙利.md "wikilink")，陸續到[柬埔寨](../Page/柬埔寨.md "wikilink")、[日本等地](../Page/日本.md "wikilink")。\[9\]李凡秀、林秀香於11月21日下午前往匈牙利\[10\]\[11\]，張赫、李多海、吳娟受、尹斗俊則於11月23日上午出發。\[12\]                                                                                                    |
 | 2012年12月31日                                                                                           | 於KBS演技大賞上公開約2分鐘精彩片段，同時張赫、李多海、李凡秀、林秀香、尹斗俊在典禮第二部進行開場表演及接受訪問。                                                                                                                                                                                                                                     |
 | 2013年1月8日                                                                                             | 女子團體[Kara成員](../Page/Kara.md "wikilink")[姜知英因和其他工作行程撞期](https://zh.wikipedia.org/wiki/姜知英 "wikilink")，辭演NSS要員宋彩蘭一角。\[13\]其後製作方表示不採用其他人接替此角，而是另外創造新的男要員角色與李準配合。新角色宋榮敏由男子團體[A-JAX成員](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")[亨坤出演](https://zh.wikipedia.org/wiki/金亨坤 "wikilink")。 |
-| 2013年1月15日                                                                                            | 被提議出演與《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》相同人物金奇洙一角的[金旻鍾最終決定不出演](https://zh.wikipedia.org/wiki/金旻鍾 "wikilink")。\[14\]                                                                                                                                                                  |
+| 2013年1月15日                                                                                            | 被提議出演與《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》相同人物金奇洙一角的[金旻鍾最終決定不出演](../Page/金旻鍾.md "wikilink")。\[14\]                                                                                                                                                                                     |
 | 2013年1月24日                                                                                            | 開始在[日本](../Page/日本.md "wikilink")[秋田縣取景拍攝](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")，直至2月4日。\[15\]                                                                                                                                                                                         |
 | 2013年1月31日                                                                                            | 劇組參加日本秋田的歡迎晚宴，與秋田縣縣長、官員及媒體分享在日本拍攝的感想，進行簡單訪談和公開拍攝花絮。\[16\]                                                                                                                                                                                                                                      |
 | 2013年2月7日                                                                                             | 舉行《IRIS 2》製作發表會，導演及主要演員參加。                                                                                                                                                                                                                                                                     |

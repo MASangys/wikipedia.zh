@@ -61,7 +61,7 @@ GHz。原先是一部雙核心版本，因推出國際市場，後期改為四�
 <td><p>L-06D</p></td>
 <td><p>LG Optimus Vu JOJO</p></td>
 <td></td>
-<td><p><a href="../Page/NTT_DoCoMo.md" title="wikilink">NTT docomo</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NTT_DoCoMo" title="wikilink">NTT docomo</a></p></td>
 <td><p>2012/08</p></td>
 </tr>
 <tr class="even">

@@ -2,7 +2,7 @@
 
 ## 简介
 
-DKZ15型于2007年生产，车头为天蓝色涂装，侧面为银灰色涂装，车头两侧处另外还有北京奥运会标志（仅W401-W443存在，增购列车车头两侧处不会有北京奥运会标志）\[2\]，目前共116组696辆\[3\]。列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，每节车厢共4对车门，配属于[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")、[五路停车场](https://zh.wikipedia.org/wiki/五路停车场 "wikilink")\[4\]。值得一提的是，在[8号线列车尚未到达前](../Page/北京地铁8号线.md "wikilink")，部分列车曾在[8号线运营](../Page/北京地铁8号线.md "wikilink")\[5\]。
+DKZ15型于2007年生产，车头为天蓝色涂装，侧面为银灰色涂装，车头两侧处另外还有北京奥运会标志（仅W401-W443存在，增购列车车头两侧处不会有北京奥运会标志）\[2\]，目前共116组696辆\[3\]。列车两端拥有[紧急出口](https://zh.wikipedia.org/wiki/紧急出口 "wikilink")，每节车厢共4对车门，配属于[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")、[五路停车场](../Page/五路停车场.md "wikilink")\[4\]。值得一提的是，在[8号线列车尚未到达前](../Page/北京地铁8号线.md "wikilink")，部分列车曾在[8号线运营](../Page/北京地铁8号线.md "wikilink")\[5\]。
 
 ## 编组
 
@@ -66,11 +66,11 @@ Station - Platform.JPG|列车在[首经贸站](../Page/首经贸站.md "wikilink
 
 ### 第1部分
 
-列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[丰双铁路到达](../Page/丰双铁路.md "wikilink")[小红门站](https://zh.wikipedia.org/wiki/小红门站_\(铁路\) "wikilink")，之后通过联络线，进入[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，最后通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")。
+列车从[长春轨道客车出发](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")，经[哈大铁路](https://zh.wikipedia.org/wiki/哈大铁路 "wikilink")、[沈山铁路](../Page/沈山铁路.md "wikilink")、[京秦铁路](../Page/京秦铁路.md "wikilink")、[丰双铁路到达](../Page/丰双铁路.md "wikilink")[小红门站](../Page/小红门站_\(铁路\).md "wikilink")，之后通过联络线，进入[北京地铁车辆厂](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，最后通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")。
 
 ### 第2部分
 
-列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段和](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")[五路停车场](https://zh.wikipedia.org/wiki/五路停车场 "wikilink")。
+列车从[北京地铁车辆厂出发](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")，通过[北京地铁车辆厂和](https://zh.wikipedia.org/wiki/北京地铁车辆厂 "wikilink")[宋家庄停车场的联络线](../Page/宋家庄停车场.md "wikilink")，到达[宋家庄停车场](../Page/宋家庄停车场.md "wikilink")，之后进入[5号线](../Page/北京地铁5号线.md "wikilink")，最后进入[10号线](../Page/北京地铁10号线.md "wikilink")，到达[万柳车辆段和](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")[五路停车场](../Page/五路停车场.md "wikilink")。
 
 ## 资料来源
 

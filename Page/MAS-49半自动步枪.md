@@ -24,7 +24,7 @@ MAS系列的直接气动设计减少了枪机上的活动部件到只有6个：�
 ## 变种
 
 [MAS_49_56.JPG](https://zh.wikipedia.org/wiki/File:MAS_49_56.JPG "fig:MAS_49_56.JPG")
-改进过的版本，称为**MAS-49/56**,在1957年制造。是根据在[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[印度支那和](https://zh.wikipedia.org/wiki/印度支那 "wikilink")[苏伊士危机服役的结果及经验而改进的](https://zh.wikipedia.org/wiki/苏伊士危机 "wikilink")。枪被缩短及减轻，是为了机械化的部队和空降部队對机动性的要求，并添加了以安装[刺刀](../Page/刺刀.md "wikilink")。原本**MAS-49**内置的榴弹发射器被可拆卸的[枪榴弹发射器](../Page/步槍用榴彈.md "wikilink")／[制退器组合取而代之](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")，使用北约标准[22毫米槍榴彈](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")。用于替换**MAS-49**，MAS-54和FAMAS-62型、两种不成功的[7.62×51mm
+改进过的版本，称为**MAS-49/56**,在1957年制造。是根据在[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、[印度支那和](https://zh.wikipedia.org/wiki/印度支那 "wikilink")[苏伊士危机服役的结果及经验而改进的](https://zh.wikipedia.org/wiki/苏伊士危机 "wikilink")。枪被缩短及减轻，是为了机械化的部队和空降部队對机动性的要求，并添加了以安装[刺刀](../Page/刺刀.md "wikilink")。原本**MAS-49**内置的榴弹发射器被可拆卸的[枪榴弹发射器](../Page/步槍用榴彈.md "wikilink")／[制退器组合取而代之](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")，使用北约标准[22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")。用于替换**MAS-49**，MAS-54和FAMAS-62型、两种不成功的[7.62×51mm
 NATO战斗步枪](../Page/7.62×51mm_NATO.md "wikilink")。MAS-49/56的在1978年结束生产。由[5.56x45mm
 NATO口径](https://zh.wikipedia.org/wiki/5.56x45mm_NATO "wikilink")[FAMAS](https://zh.wikipedia.org/wiki/FAMAS "wikilink")[无托](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪取代](../Page/突击步枪.md "wikilink")。MAS-49/56最终在1990年退役。\[4\]仅20,600把被MAS-49制造。而MAS-49/56被量产，总共有275,240把在1957年至1978年的。最后，叙利亚产生的MAS-49步枪使用的刺刀是一种近似三棱刺的刺刀，亦在MAS-36上使用。\[5\]
 
@@ -53,7 +53,7 @@ NATO并交予法国国家警察（Sûreté Nationale）使用。这些步枪的�
 
 ## 请参阅
 
-  - 早期法国半自动步枪[M1917RSC半自动步枪](https://zh.wikipedia.org/wiki/M1917RSC半自动步枪 "wikilink")
+  - 早期法国半自动步枪[M1917RSC半自动步枪](../Page/M1917RSC半自动步枪.md "wikilink")
   - 用于取代MAS-49的试验型步枪
   - [自动步枪的列表](https://zh.wikipedia.org/wiki/:CAT:自动步枪 "wikilink")
 

@@ -9,7 +9,7 @@
 
   -
     [日本引以為傲的英雄](../Page/日本.md "wikilink")，[假面騎士與](../Page/假面騎士系列.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。2013年－－「超級英雄大戰」系列中宇宙刑事們新加入了戰局。
-    曾是祕密結社的[修卡在取得魔法的力量後以](../Page/假面騎士.md "wikilink")「宇宙修卡」之姿復活，全宇宙陷入毀滅危機。[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[宇宙刑事卡邦](https://zh.wikipedia.org/wiki/宇宙刑事卡邦 "wikilink")、[特命戰隊Go
+    曾是祕密結社的[修卡在取得魔法的力量後以](../Page/假面騎士.md "wikilink")「宇宙修卡」之姿復活，全宇宙陷入毀滅危機。[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")、[特命戰隊Go
     Busters](../Page/特命戰隊Go_Busters.md "wikilink")，還有最新的英雄[獸電戰隊強龍者陸續參戰](../Page/獸電戰隊強龍者.md "wikilink")，不久後邪惡組織的龐大野心即將明朗化！那些懷念的英雄們也將再次前往最前線。將絕望化為希望，前所未見的英雄神話就此誕生！
     2013年，來自日本的嶄新ALL HERO電影在此誕生。\[1\]
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - **仁藤攻介（）**（[永瀨匡飾](https://zh.wikipedia.org/wiki/永瀨匡 "wikilink")）
+  - **仁藤攻介（）**（[永瀨匡飾](../Page/永瀨匡.md "wikilink")）
 
 <!-- end list -->
 
@@ -44,7 +44,7 @@
 
 <!-- end list -->
 
-  - **大門凛子（）**（[高山侑子飾](https://zh.wikipedia.org/wiki/高山侑子 "wikilink")）
+  - **大門凛子（）**（[高山侑子飾](../Page/高山侑子.md "wikilink")）
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 ### 超級戰隊
 
-  - **桐生大吾（）**（[龍星涼飾](https://zh.wikipedia.org/wiki/龍星涼 "wikilink")）
+  - **桐生大吾（）**（[龍星涼飾](../Page/龍星涼.md "wikilink")）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - **伊恩・尤克蘭（）**（[齊藤秀翼飾](https://zh.wikipedia.org/wiki/齊藤秀翼 "wikilink")）
+  - **伊恩・尤克蘭（）**（[齊藤秀翼飾](../Page/齊藤秀翼.md "wikilink")）
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - **艾美結月（）**（[今野鮎莉飾](https://zh.wikipedia.org/wiki/今野鮎莉 "wikilink")）
+  - **艾美結月（）**（[今野鮎莉飾](../Page/今野鮎莉.md "wikilink")）
 
 <!-- end list -->
 
@@ -323,11 +323,11 @@
 
 #### [獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")
 
-  - 強龍紅（CV：[龍星涼](https://zh.wikipedia.org/wiki/龍星涼 "wikilink")）
-  - 強龍黑（CV：[齊藤秀翼](https://zh.wikipedia.org/wiki/齊藤秀翼 "wikilink")）
+  - 強龍紅（CV：[龍星涼](../Page/龍星涼.md "wikilink")）
+  - 強龍黑（CV：[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")）
   - 強龍藍（CV：[金城大和](../Page/金城大和.md "wikilink")）
   - 強龍綠（CV：[鹽野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")）
-  - 強龍粉紅（CV：[今野鮎莉](https://zh.wikipedia.org/wiki/今野鮎莉 "wikilink")）
+  - 強龍粉紅（CV：[今野鮎莉](../Page/今野鮎莉.md "wikilink")）
   - 強龍金（CV：[丸山敦史](../Page/丸山敦史.md "wikilink")）
 
 #### [特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")
@@ -353,7 +353,7 @@
         Kabuto](https://zh.wikipedia.org/wiki/:ja:ビーファイターカブト "wikilink")》）
       - 真剑黄
   - 豪快綠
-      - 磁雷矢（《[世界忍者戰磁雷矢](https://zh.wikipedia.org/wiki/世界忍者戰磁雷矢 "wikilink")》）
+      - 磁雷矢（《[世界忍者戰磁雷矢](../Page/世界忍者戰磁雷矢.md "wikilink")》）
       - 真剑绿
   - 豪快粉紅
       - 強帕森（《[特搜機械強帕森](https://zh.wikipedia.org/wiki/:ja:特捜ロボ_ジャンパーソン "wikilink")》）
@@ -393,7 +393,7 @@
   - 刑事黃
   - 刑事粉紅
 
-#### [忍風戰隊破裏劍者](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者 "wikilink")
+#### [忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")
 
   - 破裏劍紅
 
@@ -433,7 +433,7 @@
 
 ### 宇宙刑事
 
-#### [宇宙刑事卡邦](https://zh.wikipedia.org/wiki/宇宙刑事卡邦 "wikilink") THE MOVIE
+#### [宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink") THE MOVIE
 
   - 宇宙刑事卡邦 Type G
 

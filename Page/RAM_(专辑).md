@@ -1,4 +1,4 @@
-**RAM**是[保罗·麦卡特尼和](../Page/保罗·麦卡特尼.md "wikilink")[琳达·麦卡特尼的一张](https://zh.wikipedia.org/wiki/琳达·麦卡特尼 "wikilink")[音乐专辑](https://zh.wikipedia.org/wiki/音乐专辑 "wikilink")。发行于1971年，麦卡特尼夫妻二人完成了整张专辑。\[1\]
+**RAM**是[保罗·麦卡特尼和](../Page/保罗·麦卡特尼.md "wikilink")[琳达·麦卡特尼的一张](../Page/琳达·麦卡特尼.md "wikilink")[音乐专辑](https://zh.wikipedia.org/wiki/音乐专辑 "wikilink")。发行于1971年，麦卡特尼夫妻二人完成了整张专辑。\[1\]
 
 ## 曲目列表
 

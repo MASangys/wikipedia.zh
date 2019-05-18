@@ -81,7 +81,7 @@ x I Swear》晉級楊坤組8強。
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Robynn_&amp;_Kendy_(專輯)" title="wikilink">Robynn &amp; Kendy</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Robynn_&amp;_Kendy_(專輯).md" title="wikilink">Robynn &amp; Kendy</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2012年6月13日</p></td>
@@ -111,7 +111,7 @@ x I Swear》晉級楊坤組8強。
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Robynn_&amp;_Kendy_(專輯)" title="wikilink">Robynn &amp; Kendy (Dream Together Edition)</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Robynn_&amp;_Kendy_(專輯).md" title="wikilink">Robynn &amp; Kendy (Dream Together Edition)</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2012年7月17日</p></td>
@@ -154,7 +154,7 @@ x I Swear》晉級楊坤組8強。
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dear_Diary" title="wikilink">Dear Diary</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dear_Diary.md" title="wikilink">Dear Diary</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年2月21日</p></td>
@@ -182,7 +182,7 @@ x I Swear》晉級楊坤組8強。
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dear_Diary" title="wikilink">Dear Diary (2nd Edition)</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dear_Diary.md" title="wikilink">Dear Diary (2nd Edition)</a></p></td>
 <td style="text-align: left;"><p>雙EP</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年4月15日</p></td>
@@ -216,7 +216,7 @@ x I Swear》晉級楊坤組8強。
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>3rd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Sail_Away" title="wikilink">Sail Away</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Sail_Away.md" title="wikilink">Sail Away</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2013年11月25日</p></td>
@@ -234,7 +234,7 @@ x I Swear》晉級楊坤組8強。
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Sail_Away" title="wikilink">航海之旅</a>（內地版）</p></td>
+<td style="text-align: left;"><p><a href="../Page/Sail_Away.md" title="wikilink">航海之旅</a>（內地版）</p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2014年3月</p></td>
@@ -302,7 +302,7 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><p>2015年9月16日</p></td>
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
-<li><strong>想怎樣</strong>（feat. <a href="https://zh.wikipedia.org/wiki/陳樂基" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）(陶瓷娃娃國語版)</li>
+<li><strong>想怎樣</strong>（feat. <a href="../Page/陳樂基.md" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）(陶瓷娃娃國語版)</li>
 <li>碳粉知己(Say Goodbye國語版)</li>
 <li><strong>我不完美</strong></li>
 <li><strong>如果一天有25小時</strong></li>
@@ -314,7 +314,7 @@ x I Swear》晉級楊坤組8強。
 </ol>
 <p><strong>DVD</strong></p>
 <ol>
-<li><strong>想怎樣 MV</strong>（feat. <a href="https://zh.wikipedia.org/wiki/陳樂基" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）</li>
+<li><strong>想怎樣 MV</strong>（feat. <a href="../Page/陳樂基.md" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）</li>
 <li>我不完美 MV</li>
 <li>如果一天有25小時 MV</li>
 <li><strong>新一天 MV</strong> (feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>)</li>
@@ -382,16 +382,16 @@ x I Swear》晉級楊坤組8強。
 | ------------------------------------------------------------------------------------- |
 | 唱片                                                                                    |
 | **2012年**                                                                             |
-| [Robynn & Kendy](https://zh.wikipedia.org/wiki/Robynn_&_Kendy_\(專輯\) "wikilink")      |
+| [Robynn & Kendy](../Page/Robynn_&_Kendy_\(專輯\).md "wikilink")                         |
 | Robynn & Kendy                                                                        |
 | Robynn & Kendy                                                                        |
 | Robynn & Kendy                                                                        |
-| [Dear Diary](https://zh.wikipedia.org/wiki/Dear_Diary "wikilink")                     |
+| [Dear Diary](../Page/Dear_Diary.md "wikilink")                                        |
 | **2013年**                                                                             |
 | Dear Diary                                                                            |
 | Dear Diary                                                                            |
 | Dear Diary                                                                            |
-| [Sail Away](https://zh.wikipedia.org/wiki/Sail_Away "wikilink")                       |
+| [Sail Away](../Page/Sail_Away.md "wikilink")                                          |
 | Sail Away                                                                             |
 | **2014年**                                                                             |
 | Sail Away                                                                             |
@@ -1429,10 +1429,10 @@ x I Swear》晉級楊坤組8強。
   - [全港民意流行音樂頒獎禮2012](https://zh.wikipedia.org/wiki/全港民意流行音樂頒獎禮 "wikilink")
     - 最受歡迎組合新人獎
   - 2012年度[SINA
-    Music樂壇民意指數頒獎禮](../Page/SINA_Music樂壇民意指數頒獎禮.md "wikilink")
+    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
     - 我最喜愛新組合
-  - [第三十五屆十大中文金曲頒奬音樂會](https://zh.wikipedia.org/wiki/第三十五屆十大中文金曲得獎名單 "wikilink")
-    - 最有前途新人獎銅獎
+  - [第三十五屆十大中文金曲頒奬音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink") -
+    最有前途新人獎銅獎
   - 新城勁爆頒獎禮2013 - 新城勁爆組合
   - 新城勁爆頒獎禮2013 - 新城勁爆原創歌曲《LaLaLa》
   - 2013年度[叱咤樂壇流行榜頒獎典禮](../Page/叱咤樂壇流行榜頒獎典禮.md "wikilink") -
@@ -1444,8 +1444,8 @@ x I Swear》晉級楊坤組8強。
   - [第三十八屆十大中文金曲頒奬音樂會](../Page/第三十八屆十大中文金曲得獎名單.md "wikilink") -
     全國最佳歌手獎(組合)
   - 第五屆粵語歌曲排行榜頒獎典禮（2018）- 最受歡迎創作組合獎
-  - [第四十一屆十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/第四十一屆十大中文金曲得獎名單 "wikilink")
-    - 最佳樂隊組合獎(銅獎)
+  - [第四十一屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink") -
+    最佳樂隊組合獎(銅獎)
   - 新城勁爆頒獎禮2018 - 勁爆組合
 
 ## 參考資料

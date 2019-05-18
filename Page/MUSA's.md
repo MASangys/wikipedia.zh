@@ -1,5 +1,5 @@
 **MUSA's**是由來自[阿根廷的鋼琴及鍵盤手](../Page/阿根廷.md "wikilink")[Martin "Musa"
-Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink") (Musa)帶領的演奏團體。
+Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
 
 ## 有關樂團
 
@@ -57,8 +57,7 @@ Trio的樂團出道錄音發行。
 
 **常任成員**
 
-  - **[Martin "Musa"
-    Musaubach](https://zh.wikipedia.org/wiki/明馬丁 "wikilink")**
+  - **[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink")**
 
 <!-- end list -->
 
@@ -131,8 +130,8 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   - **[Lautaro "LuKa"
-    Bellucca](https://zh.wikipedia.org/wiki/Lautaro_Bellucca "wikilink")**
-    (貝斯及低音大提琴手) (- 2013)
+    Bellucca](../Page/Lautaro_Bellucca.md "wikilink")** (貝斯及低音大提琴手) (-
+    2013)
 
 <!-- end list -->
 

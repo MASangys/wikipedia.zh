@@ -1,6 +1,6 @@
 **goldEN**是[香港二人男子唱作](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")，是音樂人[周博賢旗下經理人公司](../Page/周博賢.md "wikilink")[Ban
 Ban
-Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛於](https://zh.wikipedia.org/wiki/劉浩剛 "wikilink")2008年組成，2011年正式出道，2012年由[金牌大風推出其首張作品](../Page/金牌大風.md "wikilink")《[足金金猴](https://zh.wikipedia.org/wiki/足金金猴 "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
+Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛於](../Page/劉浩剛.md "wikilink")2008年組成，2011年正式出道，2012年由[金牌大風推出其首張作品](../Page/金牌大風.md "wikilink")《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
 
 ## 背景
 
@@ -13,7 +13,7 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
   - Cousin Fung（[馮家俊](https://zh.wikipedia.org/wiki/馮家俊 "wikilink")）
       - 在goldEN組成前，Cousin
         Fung曾為[關楚耀和](../Page/關楚耀.md "wikilink")[謝安琪等作曲和編曲](../Page/謝安琪.md "wikilink")。goldEN組成後仍然積極參與幕後創作。
-  - Kenneth（[劉浩剛](https://zh.wikipedia.org/wiki/劉浩剛 "wikilink")）
+  - Kenneth（[劉浩剛](../Page/劉浩剛.md "wikilink")）
       - 在goldEN組成前，Kenneth是歌手，曾奪得2004年多倫多新秀歌唱大賽亞軍，及2005年全球華人新秀歌唱大賽最後四強。2007年回流至香港。
 
 ## 專輯
@@ -32,7 +32,7 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/足金金猴" title="wikilink">足金金猴</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/足金金猴.md" title="wikilink">足金金猴</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a><br />
 （<a href="https://zh.wikipedia.org/wiki/Ban_Ban_Music" title="wikilink">Ban Ban Music</a>）</p></td>
@@ -54,7 +54,7 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 <td style="text-align: left;"><p>2nd</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Searching_For_goldEN" title="wikilink">Searching For goldEN</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/邁亞音樂" title="wikilink">邁亞音樂</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/邁亞音樂.md" title="wikilink">邁亞音樂</a></p></td>
 <td style="text-align: left;"><p>2014年9月29日</p></td>
 <td style="text-align: left;"><ol>
 <li>新城市</li>
@@ -73,7 +73,7 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 | ------------------------------------------------------------------------------------- |
 | 唱片                                                                                    |
 | **2011年**                                                                             |
-| [足金金猴](https://zh.wikipedia.org/wiki/足金金猴 "wikilink")                                 |
+| [足金金猴](../Page/足金金猴.md "wikilink")                                                    |
 | 足金金猴                                                                                  |
 | **2012年**                                                                             |
 | 足金金猴                                                                                  |
@@ -108,22 +108,19 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 
 2012年
 
-  - [新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2012年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆新登場組合
+  - [新城勁爆頒獎禮](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新登場組合
   - [IFPI](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2012 "wikilink")
     - 最暢銷本地新人組合
 
 2013年
 
-  - [新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2013年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆組合
+  - [新城勁爆頒獎禮](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
   - 第九屆[「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典 "wikilink")
     - 最佳新晉組合獎
 
 2014年
 
-  - [新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2014年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 新城勁爆組合
+  - [新城勁爆頒獎禮](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
 
 ## 参考資料
 

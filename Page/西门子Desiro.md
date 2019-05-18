@@ -120,7 +120,7 @@ Desiro经典型是Desiro的原始版本，自1998年面世以来已有进一步�
 <td style="text-align: left;"><p>接触网<a href="https://zh.wikipedia.org/wiki/交流电" title="wikilink">交流电</a>（电联车）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/ET425M型电力动车组" title="wikilink">ET425M型</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/ET425M型电力动车组.md" title="wikilink">ET425M型</a></p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/File:KLIAekspres_SalakSelatan.jpg" title="fig:KLIAekspres_SalakSelatan.jpg">KLIAekspres_SalakSelatan.jpg</a></p></td>
 <td style="text-align: left;"><p><a href="../Page/吉隆坡機場快鐵.md" title="wikilink">吉隆坡機場快鐵</a></p></td>
 <td style="text-align: left;"><p>2002</p></td>
@@ -249,12 +249,12 @@ Desiro经典型是Desiro的原始版本，自1998年面世以来已有进一步�
 
 Desiro干线型是Desiro家族中可适应长距离运输需求的改款。
 
-| 名称           | 外观                                                                                               | 运营商                                                         | 引入年份 | 数量  | 编组 | 动力         |
-| :----------- | :----------------------------------------------------------------------------------------------- | :---------------------------------------------------------- | :--- | :-- | :- | :--------- |
-| 德国铁路460型     | [Desiro_ML.JPG](https://zh.wikipedia.org/wiki/File:Desiro_ML.JPG "fig:Desiro_ML.JPG")           | [全斯雷吉奥](https://zh.wikipedia.org/wiki/全斯雷吉奥 "wikilink")     | 2008 | 17  | 3  | 接触网交流电     |
-| 比利时国铁AM08型   | [SNCB_08503_1.jpg](https://zh.wikipedia.org/wiki/File:SNCB_08503_1.jpg "fig:SNCB_08503_1.jpg") | [比利时国家铁路](https://zh.wikipedia.org/wiki/比利时国家铁路 "wikilink") | 2009 | 305 | 3  | 接触网交流电或直流电 |
-| 俄罗斯铁路雨燕型     | [Desiro_Rus_1.jpg](https://zh.wikipedia.org/wiki/File:Desiro_Rus_1.jpg "fig:Desiro_Rus_1.jpg") | [俄罗斯铁路](../Page/俄罗斯铁路.md "wikilink")                        | 2011 | 294 | 5  | 接触网交流电或直流电 |
-| 奥地利Desiro干线型 |                                                                                                  | [奥地利联邦铁路](../Page/奥地利联邦铁路.md "wikilink")                    | 计划中  | 200 | 3  |            |
+| 名称           | 外观                                                                                               | 运营商                                                     | 引入年份 | 数量  | 编组 | 动力         |
+| :----------- | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------ | :--- | :-- | :- | :--------- |
+| 德国铁路460型     | [Desiro_ML.JPG](https://zh.wikipedia.org/wiki/File:Desiro_ML.JPG "fig:Desiro_ML.JPG")           | [全斯雷吉奥](https://zh.wikipedia.org/wiki/全斯雷吉奥 "wikilink") | 2008 | 17  | 3  | 接触网交流电     |
+| 比利时国铁AM08型   | [SNCB_08503_1.jpg](https://zh.wikipedia.org/wiki/File:SNCB_08503_1.jpg "fig:SNCB_08503_1.jpg") | [比利时国家铁路](../Page/比利时国家铁路.md "wikilink")                | 2009 | 305 | 3  | 接触网交流电或直流电 |
+| 俄罗斯铁路雨燕型     | [Desiro_Rus_1.jpg](https://zh.wikipedia.org/wiki/File:Desiro_Rus_1.jpg "fig:Desiro_Rus_1.jpg") | [俄罗斯铁路](../Page/俄罗斯铁路.md "wikilink")                    | 2011 | 294 | 5  | 接触网交流电或直流电 |
+| 奥地利Desiro干线型 |                                                                                                  | [奥地利联邦铁路](../Page/奥地利联邦铁路.md "wikilink")                | 计划中  | 200 | 3  |            |
 
 ## Desiro双层型
 

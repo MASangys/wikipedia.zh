@@ -52,7 +52,7 @@ shell，包括了高级的控制流，并引入了变量，但新功能也有所
 最终，在1978年，[Version 7
 Unix已经把默认的shell换成了](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")[Bourne
 shell](../Page/Bourne_shell.md "wikilink")，而1979年时[2BSD把默认shell换成了](../Page/BSD.md "wikilink")[C
-shell](../Page/C_shell.md "wikilink")。因为所有现代Unix系统和[类Unix系统都是从Version](../Page/类Unix系统.md "wikilink")
+shell](https://zh.wikipedia.org/wiki/C_shell "wikilink")。因为所有现代Unix系统和[类Unix系统都是从Version](../Page/类Unix系统.md "wikilink")
 7 Unix和2BSD继承而来，所以Thompson shell基本上已经不再被使用。但是，Thompson shell作为[Ancient
 UNIX系统的一部分](https://zh.wikipedia.org/wiki/Ancient_UNIX "wikilink")，并且[开放源代码](../Page/开放源代码.md "wikilink")，它也被移植到了现代Unix系统中，作为历史展览而出现。
 

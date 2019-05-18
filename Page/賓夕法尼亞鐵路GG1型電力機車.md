@@ -69,7 +69,7 @@ GG1型產量為139台，其中15台為原型機，收藏於各博物館中。由
   - PRR 4919/Amtrak
     4917：[弗吉尼亞州](https://zh.wikipedia.org/wiki/弗吉尼亞州 "wikilink")[罗亚诺克弗吉尼亞交通博物館](https://zh.wikipedia.org/wiki/罗亚诺克_\(弗吉尼亚州\) "wikilink")。
   - PRR 4927/Amtrak
-    4939：[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[尤寧市](https://zh.wikipedia.org/wiki/尤寧市 "wikilink")[伊利諾伊鐵道博物館](https://zh.wikipedia.org/wiki/伊利諾伊鐵道博物館 "wikilink")。
+    4939：[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[尤寧市](https://zh.wikipedia.org/wiki/尤寧市 "wikilink")[伊利諾伊鐵道博物館](../Page/伊利諾伊鐵道博物館.md "wikilink")。
   - PRR 4933/Amtrak
     4926：紐約州[雪城市全國鐵路歷史學會中紐約州展區](https://zh.wikipedia.org/wiki/锡拉丘兹 "wikilink")。其外表被整飾一新，用於紐約州集市展出。
   - PRR 4935/Amtrak 4935：賓夕法尼亞州斯特拉斯堡賓夕法尼亞鐵道博物館，綽號：黑傑克。
@@ -87,7 +87,7 @@ GG1型在服役中表現了極高的可靠性，唯一一次大規模停運是19
 
 ## 大眾文化
 
-1930年代，流線型設計成為工業設計的主流，特別是火車，流線型設計往往是速度的象徵。數家鐵路公司均採用流線型設計的列車，\[43\]如[聯合太平洋鐵路的](../Page/聯合太平洋鐵路.md "wikilink")[M-10000系列](https://zh.wikipedia.org/wiki/聯合太平洋鐵路M-10000型列車 "wikilink")，以及[芝加哥，伯靈頓和昆西鐵路的](https://zh.wikipedia.org/wiki/芝加哥，伯靈頓和昆西鐵路 "wikilink")[先鋒者微風號](../Page/先鋒者微風號.md "wikilink")，賓州鐵路GG1型機車亦相應這種潮流。\[44\]
+1930年代，流線型設計成為工業設計的主流，特別是火車，流線型設計往往是速度的象徵。數家鐵路公司均採用流線型設計的列車，\[43\]如[聯合太平洋鐵路的](../Page/聯合太平洋鐵路.md "wikilink")[M-10000系列](../Page/聯合太平洋鐵路M-10000型列車.md "wikilink")，以及[芝加哥，伯靈頓和昆西鐵路的](https://zh.wikipedia.org/wiki/芝加哥，伯靈頓和昆西鐵路 "wikilink")[先鋒者微風號](../Page/先鋒者微風號.md "wikilink")，賓州鐵路GG1型機車亦相應這種潮流。\[44\]
 GG1型亦是影片和廣告的常青樹，\[45\]並且被賓州鐵路公司印在年歷上，以“利用公眾的眼睛提升知名度”。\[46\]GG1型先後在1941年電影《百老匯特快》，1945年《鐘》，1961年《寂靜的爆炸》，1962年《[諜網迷魂](../Page/諜網迷魂.md "wikilink")》中出鏡，在1990年電影《亞洲龍》中，亦作為賓夕法尼亞標誌形象出現。\[47\]\[48\]\[49\]\[50\]\[51\]
 兩台GG1型在1973年電影《Seven-Up》中出鏡，\[52\]一台為黑色賓州中央鐵路，另一台為銀，紅，綠三色美鐵塗裝。另一台賓州中央鐵路的GG1型亦在1973年電影《最後的細節》中出鏡。\[53\]
 此外，PRR

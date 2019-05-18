@@ -12,10 +12,10 @@ Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独�
   - [こもれびの国](https://zh.wikipedia.org/wiki/こもれびの国 "wikilink")（[得能正太郎](../Page/得能正太郎.md "wikilink")）
   - [Dr.モローのリッチな生活](https://zh.wikipedia.org/wiki/Dr.モローのリッチな生活 "wikilink")（[Dr.モロー](https://zh.wikipedia.org/wiki/Dr.モロー "wikilink")）
   - [のぶながっ\!](https://zh.wikipedia.org/wiki/のぶながっ! "wikilink")（[東皓司](https://zh.wikipedia.org/wiki/東皓司 "wikilink")）
-  - [姫宮さんの中の人](https://zh.wikipedia.org/wiki/姫宮さんの中の人 "wikilink")（作画：[黒川いづみ](https://zh.wikipedia.org/wiki/黒川いづみ "wikilink")、原作：[月見草平](https://zh.wikipedia.org/wiki/月見草平 "wikilink")）
+  - [姫宮さんの中の人](https://zh.wikipedia.org/wiki/姫宮さんの中の人 "wikilink")（作画：[黒川いづみ](https://zh.wikipedia.org/wiki/黒川いづみ "wikilink")、原作：[月見草平](../Page/月見草平.md "wikilink")）
   - [魔力充電娘](../Page/魔力充電娘.md "wikilink")（[ぢたま（某）](https://zh.wikipedia.org/wiki/ぢたま\(某\) "wikilink")）
   - [ほけんのせんせい](https://zh.wikipedia.org/wiki/ほけんのせんせい "wikilink")（[谷村まりか](https://zh.wikipedia.org/wiki/谷村まりか "wikilink")）
-  - [まにゅーば\!rideAT](https://zh.wikipedia.org/wiki/まにゅーば!rideAT "wikilink")（作画：[山鳥おふう](https://zh.wikipedia.org/wiki/山鳥おふう "wikilink")、原作：[中山文十郎](https://zh.wikipedia.org/wiki/中山文十郎 "wikilink")）
+  - [まにゅーば\!rideAT](https://zh.wikipedia.org/wiki/まにゅーば!rideAT "wikilink")（作画：[山鳥おふう](../Page/山鳥おふう.md "wikilink")、原作：[中山文十郎](../Page/中山文十郎.md "wikilink")）
   - [めくりめくる](https://zh.wikipedia.org/wiki/めくりめくる "wikilink")（[拓](https://zh.wikipedia.org/wiki/拓\(漫画家\) "wikilink")）
   - [メロンくりーむソーダ](https://zh.wikipedia.org/wiki/メロンくりーむソーダ "wikilink")（[門井亜矢](../Page/門井亞矢.md "wikilink")）
   - [ラノベ部](https://zh.wikipedia.org/wiki/ラノベ部 "wikilink")（漫画：[もずや紫](https://zh.wikipedia.org/wiki/もずや紫 "wikilink")、原作：[平坂読](https://zh.wikipedia.org/wiki/平坂読 "wikilink")）
@@ -23,9 +23,9 @@ Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独�
 
 ## 結束連載作品
 
-  - [AIKa](../Page/AIKa.md "wikilink")（[此路あゆみ](https://zh.wikipedia.org/wiki/此路あゆみ "wikilink")）
+  - [AIKa](https://zh.wikipedia.org/wiki/AIKa "wikilink")（[此路あゆみ](https://zh.wikipedia.org/wiki/此路あゆみ "wikilink")）
   - [暴れん坊少納言](https://zh.wikipedia.org/wiki/暴れん坊少納言 "wikilink")（[かかし朝浩](https://zh.wikipedia.org/wiki/かかし朝浩 "wikilink")）
-  - [極樂天師](https://zh.wikipedia.org/wiki/極樂天師 "wikilink")（漫画：宗我部としのり、原作：[ボヘミアンK](https://zh.wikipedia.org/wiki/ボヘミアンK "wikilink")）
+  - [極樂天師](../Page/極樂天師.md "wikilink")（漫画：宗我部としのり、原作：[ボヘミアンK](https://zh.wikipedia.org/wiki/ボヘミアンK "wikilink")）
       - 極樂天師MS
       - 極樂天師R
   - [アリスの照星](https://zh.wikipedia.org/wiki/アリスの照星 "wikilink")（漫画：[長谷川光司](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")、原作：[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")）

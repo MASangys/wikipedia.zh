@@ -14,7 +14,7 @@ Locomotives」（命名源于[日本國鐵C62型蒸汽機車所使用的](../Pag
 
 1984年，Hudson加入[任天堂](../Page/任天堂.md "wikilink")[FC游戏机陣營](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，為FC首批第三方软件销售商。在FC推出的游戏《[超級運動員](https://zh.wikipedia.org/wiki/超級運動員 "wikilink")》（*Lode
 Runner*）销售量达150万份。同時，该公司继续为[NEC
-PC-8801](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")、[MSX](https://zh.wikipedia.org/wiki/MSX "wikilink")、[ZX
+PC-8801](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")、[MSX](../Page/MSX.md "wikilink")、[ZX
 Spectrum等其他平台开发游戏](https://zh.wikipedia.org/wiki/ZX_Spectrum "wikilink")。
 
 1984年11月，公司重组为Hudson Soft Co., Ltd.。
@@ -43,7 +43,7 @@ Studio的札幌分部，命名为Hudson Studio。
 2005年4月，Konami成为Hudson的主要股东. Hudson继续自主生产，但与Konami的合作更紧密。
 
 2010年－2011年期间，Hudson大量员工转投到[任天堂重组后的](../Page/任天堂.md "wikilink")[Nd
-Cube工作室](https://zh.wikipedia.org/wiki/Nd_Cube "wikilink")，其负责人是Hudson创始人工藤裕司。
+Cube工作室](../Page/Nd_Cube.md "wikilink")，其负责人是Hudson创始人工藤裕司。
 
 2011年1月, Hudson完全成为Konami的子公司.\[4\]
 

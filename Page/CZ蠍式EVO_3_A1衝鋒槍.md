@@ -29,7 +29,7 @@ A1的槍管利用螺紋固定在[機匣前部](https://zh.wikipedia.org/wiki/機
 ### 護木
 
 CZ蠍式EVO 3
-A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。護木左右兩側和底部都整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，以便安裝各種型號的[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[前握把](../Page/輔助握把.md "wikilink")。護木左右兩側戰術導軌上方各有兩個散熱槽，協助解決槍管發熱問題。
+A1採用了[聚合物製造的](../Page/聚合物.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。護木左右兩側和底部都整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，以便安裝各種型號的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")／或[前握把](../Page/輔助握把.md "wikilink")。護木左右兩側戰術導軌上方各有兩個散熱槽，協助解決槍管發熱問題。
 
 ### 手槍握把
 
@@ -52,7 +52,7 @@ Products[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")100發[C-Mag
 
 [機匣頂部設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以加裝日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。標準型CZ蠍式EVO
 3
-A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，而戰術導軌前端則安裝了帶有[氚光管的](../Page/氚.md "wikilink")[準星](https://zh.wikipedia.org/wiki/照準器 "wikilink")，讓使用者在光綫昏暗的情況以下瞄準射擊。
+A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，而戰術導軌前端則安裝了帶有[氚光管的](../Page/氚.md "wikilink")[準星](../Page/照準器.md "wikilink")，讓使用者在光綫昏暗的情況以下瞄準射擊。
 
 ## 衍生型
 
@@ -89,7 +89,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   -   - 總統衛隊
 
   -
-  -   - [菲律賓海巡署特別行動組](https://zh.wikipedia.org/wiki/菲律賓海巡署 "wikilink")\[5\]
+  -   - [菲律賓海巡署特別行動組](../Page/菲律賓海巡署.md "wikilink")\[5\]
 
   -   - 特種部隊單位
 
@@ -109,7 +109,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
 ### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
 
   - 2013年—《[-{zh-hans:反击; zh-hk:絕地反擊;
-    zh-tw:勇者逆襲;}-第三季](https://zh.wikipedia.org/wiki/勇者逆襲_\(第三季\) "wikilink")》（Strike
+    zh-tw:勇者逆襲;}-第三季](../Page/勇者逆襲_\(第三季\).md "wikilink")》（Strike
     Back: Shadow Warfare）：型號為Evo 3 S1，裝有Aimpoint Comp
     T-1紅點鏡，被金·馬丁內斯特別探員、菲利普·洛克中校和朱莉婭·里奇蒙中士所使用。
 
@@ -128,41 +128,41 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   - 2012年—《[-{zh-hans:使命召唤：黑色行动2; zh-hk:使命召喚：黑色行動2;
     zh-tw:決勝時刻：黑色行動2;}-](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動2 "wikilink")》：於故事模式、聯機模式及殭屍模式中皆有出現，命名為「Skorpion
     EVO」，32發（故事模式及聯機模式）和30發（殭屍模式）[彈匣](../Page/彈匣.md "wikilink")（可使用改裝：延長彈匣，故事模式時增至43發，聯機模式時則42發），初始攜彈量為192發（故事模式）和96發（聯機模式），最高攜彈量為416發（故事模式）和256發（聯機模式及殭屍模式）。故事模式之中被主角大衞·梅森（David
-    Mason）、中央情報局在「核心之日」中的臥底兼技術專家法里德（Farid）和[民兵所使用](../Page/民兵.md "wikilink")；聯機模式時於等級46解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（[三發點放](../Page/三發點放.md "wikilink")）、射速增加、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「進化死亡潛行者」（Evolved
+    Mason）、中央情報局在「核心之日」中的臥底兼技術專家法里德（Farid）和[民兵所使用](../Page/民兵.md "wikilink")；聯機模式時於等級46解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（[三發點放](../Page/三發點放.md "wikilink")）、射速增加、毫米波掃描器；殭屍模式時以950點打開神秘箱取得，亦有一款衍生型稱作「進化死亡潛行者」（Evolved
     Death
     Stalker），40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量提升至320發，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、目標搜索器。
-  - 2012年—《[战争前线](https://zh.wikipedia.org/wiki/战争前线 "wikilink")》（Warface）：命名為「CZ
-    Skorpion EVO 3
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名為「CZ Skorpion
+    EVO 3
     A1」，30发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。為工程兵專用武器，抽奖获得，并可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。拥有黄金版本，强化威力、射程与载弹量。
   - 2013年—《[-{zh-cn:武裝行動3; zh-tw:武裝行動3;
     zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》（ArmA
     III）：命名為「斯汀9毫米」，被OPFOR所使用。奇怪地發射9×21毫米子彈。
   - 2013年—《[-{zh-cn:战地4;
-    zh-tw:戰地風雲4;}-](https://zh.wikipedia.org/wiki/戰地風雲4 "wikilink")》（Battlefield
+    zh-tw:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：命名為「CZ-3A1」，發射[9×19毫米子彈](../Page/9×19mm魯格彈.md "wikilink")，30+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為124發（故事模式）。單人故事模式之中於「越獄風雲」（Kunlun
     Mountains）戰役達到金牌時解鎖並且可被[美国海军陆战队精英小隊](../Page/美国海军陆战队.md "wikilink")「墓碑」隊長丹尼爾·雷克（Daniel
-    Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到37,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、直角握把、[防火帽](../Page/砲口制動器.md "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[PBS-4](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")[消音器](../Page/抑制器.md "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、三光束雷射、HD-33當中之七）。
+    Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到37,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[舒適握把](../Page/輔助握把.md "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、直角握把、[防火帽](../Page/砲口制動器.md "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[寛型握把](https://zh.wikipedia.org/wiki/寛型前握把 "wikilink")、[PBS-4](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")[消音器](../Page/抑制器.md "wikilink")、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、、折疊握把、馬鈴薯握把、直立握把、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、消音器、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
   - 2015年—《[-{zh-hans:战地：硬仗;
     zh-hant:戰地風雲：強硬路線;}-](https://zh.wikipedia.org/wiki/戰地風雲：強硬派系 "wikilink")》（Battlefield
     Hardline）：命名為“Skorpion”，30+1發彈匣，歸類為衝鋒槍，為資料片“搶劫”新增武器。被警匪雙方機械師所使用，價格為$36,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
-    M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡 "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](https://zh.wikipedia.org/wiki/機械瞄具 "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
+    M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
   - 2017年－《[-{zh-hans:彩虹六号：圍攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：第二年度血蘭花行動中為[行動應變及機動組中一位角色命名為Ela的特勤幹員所使用](../Page/行動應變及機動組.md "wikilink")。奇怪的使用50發彈匣，後來因過於強勢而改成40發。
 
 ## 參見
 
   - [Vz.61蠍式衝鋒槍](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")
-  - [B\&T APC衝鋒槍](https://zh.wikipedia.org/wiki/B&T_APC衝鋒槍 "wikilink")
+  - [B\&T APC衝鋒槍](../Page/B&T_APC衝鋒槍.md "wikilink")
   - [長風衝鋒槍](../Page/長風衝鋒槍.md "wikilink")
   - [HK UMP衝鋒槍](../Page/HK_UMP衝鋒槍.md "wikilink")
   - [CS/LS2型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS2型冲锋枪 "wikilink")
   - [CS/LS5型冲锋枪](https://zh.wikipedia.org/wiki/CS/LS5型冲锋枪 "wikilink")
   - [KRISS Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
-  - [PP-19-01勇士衝鋒槍](https://zh.wikipedia.org/wiki/PP-19-01勇士衝鋒槍 "wikilink")
+  - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [SIG MPX衝鋒槍](https://zh.wikipedia.org/wiki/SIG_MPX衝鋒槍 "wikilink")
 
 ## 資料來源

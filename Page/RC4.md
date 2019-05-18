@@ -3,16 +3,16 @@
 由美國密碼學家[羅納德·李維斯特](https://zh.wikipedia.org/wiki/羅納德·李維斯特 "wikilink")（）在1987年设计的。由于RC4算法存在弱点，2015年2月所發佈的
 RFC 7465 规定禁止在TLS中使用RC4加密算法\[1\]。
 
-RC4由[伪随机数生成器和](https://zh.wikipedia.org/wiki/伪随机数 "wikilink")[异或运算组成](https://zh.wikipedia.org/wiki/异或 "wikilink")。RC4的密钥长度可变，范围是\[1,255\]。RC4一个字节一个字节地加解密。给定一个密钥，伪随机数生成器接受密钥并产生一个[S盒](https://zh.wikipedia.org/wiki/S盒 "wikilink")。S盒用来加密数据，而且在加密过程中S盒会变化。
+RC4由[伪随机数生成器和](https://zh.wikipedia.org/wiki/伪随机数 "wikilink")[异或运算组成](https://zh.wikipedia.org/wiki/异或 "wikilink")。RC4的密钥长度可变，范围是\[1,255\]。RC4一个字节一个字节地加解密。给定一个密钥，伪随机数生成器接受密钥并产生一个[S盒](../Page/S盒.md "wikilink")。S盒用来加密数据，而且在加密过程中S盒会变化。
 
 由于[异或运算的](https://zh.wikipedia.org/wiki/异或 "wikilink")[对合性](https://zh.wikipedia.org/wiki/对合 "wikilink")，RC4加密解密使用同一套算法。
 
 ## 歷史
 
 RC4是由[RSA
-Security的](https://zh.wikipedia.org/wiki/RSA_Security "wikilink")[罗纳德·李维斯特在](https://zh.wikipedia.org/wiki/罗纳德·李维斯特 "wikilink")1987年开发出来的，虽然它的官方名是“Rivest
+Security的](https://zh.wikipedia.org/wiki/RSA_Security "wikilink")[罗纳德·李维斯特在](../Page/罗纳德·李维斯特.md "wikilink")1987年开发出来的，虽然它的官方名是“Rivest
 Cipher 4”，但是首字母缩写RC也可以理解为"Ron's
-Code"\[2\]。（见[RC2](https://zh.wikipedia.org/wiki/RC2 "wikilink")，[RC5](https://zh.wikipedia.org/wiki/RC5 "wikilink")，[RC6](https://zh.wikipedia.org/wiki/RC6 "wikilink")）
+Code"\[2\]。（见[RC2](https://zh.wikipedia.org/wiki/RC2 "wikilink")，[RC5](../Page/RC5.md "wikilink")，[RC6](../Page/RC6.md "wikilink")）
 
 RC4开始时是商业密码，没有公开发表出来，但是在1994年9月份的时候，它被人匿名公开在了Cypherpunks
 邮件列表上，很快它就被发到了sci.crypt
@@ -25,7 +25,7 @@ RFC 7465 禁止在所有版本的TLS中使用。
 
 ## 伪代码
 
-初始化长度为256的[S盒](https://zh.wikipedia.org/wiki/S盒 "wikilink")。第一个for循环将0到255的互不重复的元素装入S盒。第二个for循环根据密钥打乱S盒。
+初始化长度为256的[S盒](../Page/S盒.md "wikilink")。第一个for循环将0到255的互不重复的元素装入S盒。第二个for循环根据密钥打乱S盒。
 
 ``` C
  for i from 0 to 255
@@ -58,7 +58,7 @@ RFC 7465 禁止在所有版本的TLS中使用。
 
 2015年，[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[魯汶大學的研究人員Mathy](https://zh.wikipedia.org/wiki/魯汶大學 "wikilink")
 Vanhoef及Frank
-Piessens，公布了針對RC4加密演算法的新型攻擊程式，可在75小時內取得[cookie的內容](../Page/cookie.md "wikilink")。\[4\]
+Piessens，公布了針對RC4加密演算法的新型攻擊程式，可在75小時內取得[cookie的內容](https://zh.wikipedia.org/wiki/cookie "wikilink")。\[4\]
 
 ## 参考文献
 

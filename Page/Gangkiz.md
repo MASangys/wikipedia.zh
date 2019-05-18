@@ -106,11 +106,11 @@ Media被MBK娛樂收購，MBK官網藝人名單中僅存有李海寅、全載賢
 
 ### 戲劇
 
-|           |                                                     |                                                             |      |    |
-| --------- | --------------------------------------------------- | ----------------------------------------------------------- | ---- | -- |
-| 年份        | 電視台                                                 | 劇名                                                          | 參與成員 | 角色 |
-| 2014      | [TVN](https://zh.wikipedia.org/wiki/TVN "wikilink") | [不要戀愛要結婚](https://zh.wikipedia.org/wiki/不要戀愛要結婚 "wikilink") | 金惠智  |    |
-| 2014-2015 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [湔雪的魔女](https://zh.wikipedia.org/wiki/湔雪的魔女 "wikilink")     | 金惠智  |    |
+|           |                                                     |                                                         |      |    |
+| --------- | --------------------------------------------------- | ------------------------------------------------------- | ---- | -- |
+| 年份        | 電視台                                                 | 劇名                                                      | 參與成員 | 角色 |
+| 2014      | [TVN](../Page/TVN.md "wikilink")                    | [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                | 金惠智  |    |
+| 2014-2015 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [湔雪的魔女](https://zh.wikipedia.org/wiki/湔雪的魔女 "wikilink") | 金惠智  |    |
 
 ### 電台
 

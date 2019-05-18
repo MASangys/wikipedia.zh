@@ -1,14 +1,13 @@
 《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的時裝](../Page/電視廣播有限公司.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉及](../Page/陳法拉.md "wikilink")[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀及](../Page/江美儀.md "wikilink")[羅仲謙聯合主演](../Page/羅仲謙.md "wikilink")，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
 
 此劇是《[衝上雲霄系列](https://zh.wikipedia.org/wiki/衝上雲霄系列 "wikilink")》第二輯，[2012無綫節目巡禮劇集](../Page/2012無綫節目巡禮.md "wikilink")，亦為第17屆[香港國際影視展中無綫電視推介的](https://zh.wikipedia.org/wiki/香港國際影視展 "wikilink")17部劇集之一，以及「[TVB
-Amazing
-Summer](https://zh.wikipedia.org/wiki/TVB_Amazing_Summer "wikilink")
+Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink")
 2013」暑期宣傳活動的推介劇集，由[香港航空贊助](../Page/香港航空.md "wikilink")、[香港機場管理局協助拍攝](../Page/香港機場管理局.md "wikilink")。
 
 此劇播出後收視一直高企，以36點平均綜合收視點榮登[2010年代無綫電視劇集平均綜合收視點最高劇集](../Page/無綫電視劇集收視列表_\(2010年代\).md "wikilink")，電視收視所錄得的41點最高收視為大結局中[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖與](../Page/張智霖.md "wikilink")[陳法拉的](../Page/陳法拉.md "wikilink")「航機意外」，為無綫於2013年唯一一部突破40點收視劇集，亦是該年全年錄得最高收視的電視節目。
 
 此劇在[TVB
-馬來西亞星光薈萃頒獎典禮2013及](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2013 "wikilink")[萬千星輝頒獎典禮2013成為大贏家](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖及](../Page/張智霖.md "wikilink")[陳法拉亦全部打入兩個頒獎的](../Page/陳法拉.md "wikilink")「（最佳／最喜愛TVB）男／女主角」最後五強。
+馬來西亞星光薈萃頒獎典禮2013及](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")[萬千星輝頒獎典禮2013成為大贏家](../Page/萬千星輝頒獎典禮2013.md "wikilink")，分別獲得11及4個獎項，包括囊括兩個頒獎典禮的「（最佳／最喜愛TVB電視）劇集」獎，而劇中的三位主角[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖及](../Page/張智霖.md "wikilink")[陳法拉亦全部打入兩個頒獎的](../Page/陳法拉.md "wikilink")「（最佳／最喜愛TVB）男／女主角」最後五強。
 
 ## 劇情簡介
 
@@ -256,7 +255,7 @@ Summer](https://zh.wikipedia.org/wiki/TVB_Amazing_Summer "wikilink")
 <td><p><strong>Issac</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黃子恆" title="wikilink">黃子恆</a></strong></p></td>
+<td><p><strong><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></strong></p></td>
 <td><p><strong>鍾世沛</strong></p></td>
 <td><p>高級副機長<br />
 前飛揚航空高級副機長<br />
@@ -312,7 +311,7 @@ King Kong之相睇對象<br />
 <strong>阿B</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/何君誠" title="wikilink">何君誠</a></strong></p></td>
+<td><p><strong><a href="../Page/何君誠.md" title="wikilink">何君誠</a></strong></p></td>
 <td><p><strong>雍少雄</strong></p></td>
 <td><p>PPP學員<br />
 後為二副機長<br />
@@ -329,7 +328,7 @@ King Kong之相睇對象<br />
 <td><p><strong>Peter</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/夏竹欣" title="wikilink">夏竹欣</a></p></td>
+<td><p><a href="../Page/夏竹欣.md" title="wikilink">夏竹欣</a></p></td>
 <td><p>明日夢</p></td>
 <td><p>PPP學員<br />
 後為二副機長<br />
@@ -337,7 +336,7 @@ King Kong之相睇對象<br />
 <td><p><strong>Win</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/關浩揚" title="wikilink">關浩揚</a></p></td>
+<td><p><a href="../Page/關浩揚.md" title="wikilink">關浩揚</a></p></td>
 <td><p>蔡兆聰</p></td>
 <td><p>PPP學員<br />
 後為二副機長<br />
@@ -477,7 +476,7 @@ Head姐</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝卓言" title="wikilink">謝卓言</a></p></td>
+<td><p><a href="../Page/謝卓言.md" title="wikilink">謝卓言</a></p></td>
 <td><p>華　堅</p></td>
 <td><p><strong>Kenneth</strong></p></td>
 <td></td>
@@ -626,7 +625,7 @@ Head姐</strong></p></td>
 <td><p><strong>Sandy</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭俊弘" title="wikilink">鄭俊弘</a></p></td>
+<td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
 <td><p>邱天慶</p></td>
 <td><p><strong>Water</strong></p></td>
 <td></td>
@@ -663,7 +662,7 @@ Head姐</strong></p></td>
 <td><p><strong>暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/傅嘉莉" title="wikilink">傅嘉莉</a></strong></p></td>
+<td><p><strong><a href="../Page/傅嘉莉.md" title="wikilink">傅嘉莉</a></strong></p></td>
 <td><p><strong>喬祖思</strong></p></td>
 <td><p>咖啡店職員<br />
 暗戀唐亦風<br />
@@ -675,7 +674,7 @@ Head姐</strong></p></td>
 <td><p>'''Josie 咖啡妺</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張韋怡" title="wikilink">張韋怡</a></p></td>
+<td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
 <td></td>
 <td><p>咖啡店職員</p></td>
 <td></td>
@@ -699,7 +698,7 @@ Head姐</strong></p></td>
 <td><p><strong>暱稱、關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林偉_(演員)" title="wikilink">林　偉</a></p></td>
+<td><p><a href="../Page/林偉_(演員).md" title="wikilink">林　偉</a></p></td>
 <td><p>詹子麒</p></td>
 <td><p>詹子麟之兄兼游泳教練</p></td>
 </tr>
@@ -735,7 +734,7 @@ Head姐</strong></p></td>
 <td><p>Kate之男友</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳雲甫" title="wikilink">吳雲甫</a></p></td>
+<td><p><a href="../Page/吳雲甫.md" title="wikilink">吳雲甫</a></p></td>
 <td><p>飛機師</p></td>
 <td></td>
 </tr>
@@ -756,7 +755,7 @@ Head姐</strong></p></td>
 PPP 贊助者</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃栢文" title="wikilink">黃栢文</a></p></td>
+<td><p><a href="../Page/黃栢文.md" title="wikilink">黃栢文</a></p></td>
 <td><p>Angus</p></td>
 <td><p>香先生之飛機教練<br />
 （第6集）</p></td>
@@ -785,7 +784,7 @@ PPP 贊助者</p></td>
 控告顧夏陽酒後執行飛行工作</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/白健恩" title="wikilink">白健恩</a></p></td>
+<td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td><p>葉先生</p></td>
 <td><p>Juno<br />
 作家<br />
@@ -799,30 +798,30 @@ PPP 贊助者</p></td>
 （第8、33集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳婉婷_(演員)" title="wikilink">陳婉婷</a></p></td>
+<td><p><a href="../Page/陳婉婷_(演員).md" title="wikilink">陳婉婷</a></p></td>
 <td></td>
 <td><p>PPP職員<br />
 （第9集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾國強_(編導)" title="wikilink">鍾國強</a></p></td>
+<td><p><a href="../Page/鍾國強_(編導).md" title="wikilink">鍾國強</a></p></td>
 <td><p>高　佬</p></td>
 <td><p>民航署職員兼PPP導師<br />
 （第9、13、16集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/司徒暉" title="wikilink">司徒暉</a></p></td>
+<td><p><a href="../Page/司徒暉.md" title="wikilink">司徒暉</a></p></td>
 <td><p>阿　暉</p></td>
 <td><p>PPP學員<br />
 （第9、10、12、14、15集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td><p>阿　倫</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張明偉" title="wikilink">張明偉</a></p></td>
+<td><p><a href="../Page/張明偉.md" title="wikilink">張明偉</a></p></td>
 <td><p>阿　偉</p></td>
 <td></td>
 </tr>
@@ -832,7 +831,7 @@ PPP 贊助者</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曾建怡" title="wikilink">曾建怡</a></p></td>
+<td><p><a href="../Page/曾建怡.md" title="wikilink">曾建怡</a></p></td>
 <td><p>Elaine</p></td>
 <td><p>顧夏陽之旅伴<br />
 （第10集）</p></td>
@@ -861,7 +860,7 @@ PPP 贊助者</p></td>
 （第13集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李偉健" title="wikilink">李偉健</a></p></td>
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
 <td></td>
 <td><p>商業罪案調查科警員<br />
 （第15集）</p></td>
@@ -890,13 +889,13 @@ PPP 贊助者</p></td>
 <td><p>（第17集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳芷尤" title="wikilink">陳芷尤</a><br />
+<td><p><a href="../Page/陳芷尤.md" title="wikilink">陳芷尤</a><br />
 </p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吳幸美" title="wikilink">吳幸美</a></p></td>
+<td><p><a href="../Page/吳幸美.md" title="wikilink">吳幸美</a></p></td>
 <td><p>主　持</p></td>
 <td><p>（第19集）</p></td>
 </tr>
@@ -907,7 +906,7 @@ PPP 贊助者</p></td>
 （第21集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/倫紫玄" title="wikilink">倫紫玄</a></p></td>
+<td><p><a href="../Page/倫紫玄.md" title="wikilink">倫紫玄</a></p></td>
 <td><p>美　女</p></td>
 <td><p>顧夏陽之酒伴<br />
 （第22集）</p></td>
@@ -938,7 +937,7 @@ PPP 贊助者</p></td>
 <td><p>（第25、27、31、38集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/何佩珉" title="wikilink">何佩珉</a></p></td>
+<td><p><a href="../Page/何佩珉.md" title="wikilink">何佩珉</a></p></td>
 <td><p>接待員</p></td>
 <td><p>（第24集）</p></td>
 </tr>
@@ -973,7 +972,7 @@ PPP 贊助者</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉蔚萱" title="wikilink">劉蔚萱</a></p></td>
+<td><p><a href="../Page/劉蔚萱.md" title="wikilink">劉蔚萱</a></p></td>
 <td><p>塔羅占卦師</p></td>
 <td><p>（第26集）</p></td>
 </tr>
@@ -1005,13 +1004,13 @@ PPP 贊助者</p></td>
 （第36集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳亭嘉" title="wikilink">陳亭嘉</a></p></td>
+<td><p><a href="../Page/陳亭嘉.md" title="wikilink">陳亭嘉</a></p></td>
 <td><p>護　士</p></td>
 <td><p>替凌卓芝接生護士<br />
 （第36集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>馬修女友</p></td>
 <td><p>麥馬修之女友<br />
 （第39集）</p></td>
@@ -1182,7 +1181,7 @@ BJ Chong之朋友，後為其女友</p></td>
 本劇以多位女角「灑鹽花」性感演出招徠，包括[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")、[朱璇](../Page/朱璇.md "wikilink")、[林芊妤](../Page/林芊妤.md "wikilink")、[梁政珏](../Page/梁政珏.md "wikilink")、[劉俐](../Page/劉俐.md "wikilink")、，雖然受部分網民歡迎，卻同時接獲多宗投訴\[40\]\[41\]\[42\]\[43\]。觀眾批評尺度太寬，通訊事務管理局錄得14宗投訴，內容包括：含不雅內容、令人不安、意識不良及不適合兒童觀看\[44\]。而陳法拉一段露背戲，無綫再接到17宗有關本劇投訴，包括4宗話太多性感鏡頭，通訊事務管理局則有25宗投訴。後來，無綫及通訊局共收到38宗投訴，包括劇中人物亂搞男女關係、意識不良、有不雅內容、胡定欣做代母誇張不合情理、刪剪太多令劇情不完整（陳法拉情挑Cool魔露背一幕）、騎單車無戴頭盔（指吳卓羲）違反安全守則。\[45\]
 
 承接上一輯，本劇再次被拍抄襲十年前由日本萬人迷木村拓哉主演的經典飛行劇《[夢想飛行Good
-Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，除了張智霖與木村飾演的機長相似，吳鎮宇與堤真一雷同，胡杏兒亦被指跟柴崎幸的角色相似，都是飛機維修員，性格也為冷酷的中性角色。\[46\]另外，本劇持續出現航空犯駁橋段，[公民黨譚文豪開設名為](https://zh.wikipedia.org/wiki/公民黨 "wikilink")「衝上雲霄專業版」的[facebook專頁解釋錯誤](../Page/facebook.md "wikilink")\[47\]。
+Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，除了張智霖與木村飾演的機長相似，吳鎮宇與堤真一雷同，胡杏兒亦被指跟柴崎幸的角色相似，都是飛機維修員，性格也為冷酷的中性角色。\[46\]另外，本劇持續出現航空犯駁橋段，[公民黨譚文豪開設名為](https://zh.wikipedia.org/wiki/公民黨 "wikilink")「衝上雲霄專業版」的[facebook專頁解釋錯誤](https://zh.wikipedia.org/wiki/facebook "wikilink")\[47\]。
 
 該劇最終平均收視31點，最高41點，再加跨平台([MyTV](../Page/MyTV.md "wikilink"))收視的5點共36點成爲2013年收視冠軍。在該劇播完後，無綫宣布與[蕭定一開拍電影版及不排除會開拍第三輯](../Page/蕭定一.md "wikilink")。
 
@@ -1197,7 +1196,7 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
   - 我最愛TVB電視男角色：顧夏陽（[張智霖](../Page/張智霖.md "wikilink")）
   - 我最愛TVB電視女角色：顧夏晨（[胡杏兒](../Page/胡杏兒.md "wikilink")）
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2013](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2013 "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2013](../Page/TVB_馬來西亞星光薈萃頒獎典禮2013.md "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1328,7 +1327,7 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
 </tbody>
 </table>
 
-### [YAHOO\!人氣大獎2013](https://zh.wikipedia.org/wiki/2013年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+### [YAHOO\!人氣大獎2013](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
 
 <table style="width:64%;">
 <colgroup>
@@ -1361,7 +1360,7 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
 </tbody>
 </table>
 
-### [萬千星輝頒獎典禮2013](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")
+### [萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")
 
 <table style="width:56%;">
 <colgroup>
@@ -1584,7 +1583,7 @@ Luck](https://zh.wikipedia.org/wiki/夢想飛行Good_Luck "wikilink")！》，�
 [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 
 1.  吳卓羲在《[2013年TVB馬來西亞星光薈萃頒獎典禮提名最佳男主角](https://zh.wikipedia.org/wiki/2013年TVB馬來西亞星光薈萃頒獎典禮 "wikilink")，所以算是領銜主演
-2.  馬國明在《[萬千星輝頒獎典禮2013](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2013 "wikilink")》提名最佳男配角，亦沒有在其他頒獎典禮憑此劇提名最佳男主角，所以不是領銜主演
+2.  馬國明在《[萬千星輝頒獎典禮2013](../Page/萬千星輝頒獎典禮2013.md "wikilink")》提名最佳男配角，亦沒有在其他頒獎典禮憑此劇提名最佳男主角，所以不是領銜主演
 3.
 4.
 5.  [藝人月曆 - 7月18日 -

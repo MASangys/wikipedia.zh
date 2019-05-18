@@ -42,7 +42,7 @@ Life**》是[香港已故](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>流失的情</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧東尼" title="wikilink">盧東尼</a></p></td>
+<td><p><a href="../Page/盧東尼.md" title="wikilink">盧東尼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張景謙" title="wikilink">張景謙</a></p></td>
 <td><p>盧東尼</p></td>
 <td></td>
@@ -50,7 +50,7 @@ Life**》是[香港已故](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 <tr class="even">
 <td><p>05</p></td>
 <td><p>紅顏知己</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張哲" title="wikilink">張哲</a></p></td>
+<td><p><a href="../Page/張哲.md" title="wikilink">張哲</a></p></td>
 <td><p><a href="../Page/劉卓輝.md" title="wikilink">劉卓輝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/袁卓繁" title="wikilink">袁卓繁</a></p></td>
 <td><p>國語原曲為<a href="../Page/潘美辰.md" title="wikilink">潘美辰</a>《我不在乎》</p></td>

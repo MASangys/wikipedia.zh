@@ -164,8 +164,7 @@
 ### N02BB [吡唑酮类](https://zh.wikipedia.org/wiki/吡唑酮 "wikilink")（Pyrazolones）
 
   -
-    N02BB01
-    [安替比林](https://zh.wikipedia.org/wiki/安替比林 "wikilink")（Phenazone）
+    N02BB01 [安替比林](../Page/安替比林.md "wikilink")（Phenazone）
     N02BB02 [安乃近](../Page/安乃近.md "wikilink")（Metamizole）
     N02BB03
     [氨基比林](https://zh.wikipedia.org/wiki/氨基比林 "wikilink")（Aminophenazone）
@@ -234,8 +233,7 @@
   -
     N02CA01
     [双氢麦角胺](https://zh.wikipedia.org/wiki/双氢麦角胺 "wikilink")（Dihydroergotamine）
-    N02CA02
-    [麦角胺](https://zh.wikipedia.org/wiki/麦角胺 "wikilink")（Ergotamine）
+    N02CA02 [麦角胺](../Page/麦角胺.md "wikilink")（Ergotamine）
     N02CA04
     [美西麦角](https://zh.wikipedia.org/wiki/美西麦角 "wikilink")（Methysergide）
     N02CA07
@@ -254,14 +252,12 @@
 ### N02CC [选择性5-羟色胺（5HT<sub>1</sub>）促效药](https://zh.wikipedia.org/wiki/曲坦类 "wikilink")（Selective serotonin (5-HT<sub>1</sub>) agonists）
 
   -
-    N02CC01
-    [舒马曲坦](https://zh.wikipedia.org/wiki/舒马曲坦 "wikilink")（Sumatriptan）
+    N02CC01 [舒马曲坦](../Page/舒马曲坦.md "wikilink")（Sumatriptan）
     N02CC02
     [那拉曲坦](https://zh.wikipedia.org/wiki/那拉曲坦 "wikilink")（Naratriptan）
     N02CC03
     [佐米曲坦](https://zh.wikipedia.org/wiki/佐米曲坦 "wikilink")（Zolmitriptan）
-    N02CC04
-    [利扎曲坦](https://zh.wikipedia.org/wiki/利扎曲坦 "wikilink")（Rizatriptan）
+    N02CC04 [利扎曲坦](../Page/利扎曲坦.md "wikilink")（Rizatriptan）
     N02CC05
     [阿莫曲坦](https://zh.wikipedia.org/wiki/阿莫曲坦 "wikilink")（Almotriptan）
     N02CC06

@@ -9,7 +9,7 @@ INC创办，内容包括了将Gawker媒体的内容日译版和日本相关游�
 
 ## 索尼抵制事件
 
-在2007年3月1日，作为对[游戏开发者大会](https://zh.wikipedia.org/wiki/游戏开发者大会 "wikilink")（GDC）的执行董事贾米勒·墨里迪纳称“[索尼公司的](../Page/索尼.md "wikilink")[菲尔·哈里森的主题演讲将使PlayStation](https://zh.wikipedia.org/wiki/菲尔·哈里森 "wikilink")
+在2007年3月1日，作为对[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")（GDC）的执行董事贾米勒·墨里迪纳称“[索尼公司的](../Page/索尼.md "wikilink")[菲尔·哈里森的主题演讲将使PlayStation](https://zh.wikipedia.org/wiki/菲尔·哈里森 "wikilink")
 3的所有者‘非常高兴’”的后续采访，Kotaku报道了一个匿名线人关于PlayStation 3将推出“[PlayStation
 Home](../Page/PlayStation_Home.md "wikilink")”——一个成就和虚拟化身的附加组件——之传闻。关于传闻，索尼曾告诉Kotaku，它们“不对传言或猜测发表评论”，并要求小宅不要刊登的这件事。事件最终还是被发布了，索尼公司的大卫·克莱克发出了封电子邮件表示暂停双方的合作关系。Kotaku公开了Karraker的电子邮件，而博客主编Brian
 Crecente也做出了回应。当天晚些时候，大卫·克莱克和Brian

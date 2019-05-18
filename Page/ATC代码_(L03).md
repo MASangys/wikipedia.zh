@@ -1,6 +1,6 @@
 ## L03A [免疫增强剂](https://zh.wikipedia.org/wiki/免疫增强剂 "wikilink")（Immunostimulants）
 
-### L03AA [集落刺激因子类](https://zh.wikipedia.org/wiki/集落刺激因子 "wikilink")（Colony stimulating factors）
+### L03AA [集落刺激因子类](../Page/集落刺激因子.md "wikilink")（Colony stimulating factors）
 
   -
     L03AA02

@@ -4,7 +4,7 @@
 
 ## 另请参阅
 
-  - [J探员](https://zh.wikipedia.org/wiki/J探员 "wikilink")
+  - [J探员](../Page/J探员.md "wikilink")
 
   -
   - [黑衣警探](../Page/黑衣警探.md "wikilink")

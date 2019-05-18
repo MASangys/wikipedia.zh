@@ -30,7 +30,7 @@
 | [柏原芳恵](https://zh.wikipedia.org/wiki/柏原芳恵 "wikilink")(2)    | し・の・び・愛                                           |
 | [岩崎宏美](../Page/岩崎宏美.md "wikilink")(11)                      | 決心/夢狩人                                            |
 | [中森明菜](../Page/中森明菜.md "wikilink")(3)                       | 我愛你                                               |
-| [小柳留美子](https://zh.wikipedia.org/wiki/小柳留美子 "wikilink")(15) | 乾杯\!                                              |
+| [小柳留美子](../Page/小柳留美子.md "wikilink")(15)                    | 乾杯\!                                              |
 | 研ナオコ(9)                                                     | 帰愁                                                |
 | 松原のぶえ(1)                                                    | おんなの出船                                            |
 | [早見優](../Page/早見優.md "wikilink")(3)                         | PASSION                                           |
@@ -38,7 +38,7 @@
 | [原田知世](../Page/原田知世.md "wikilink")(1)                       | 早春物語                                              |
 | [川中美幸](https://zh.wikipedia.org/wiki/川中美幸 "wikilink")(5)    | 男じゃないか                                            |
 | [水前寺清子](https://zh.wikipedia.org/wiki/水前寺清子 "wikilink")(21) | 人生夢三味線                                            |
-| [島倉千代子](https://zh.wikipedia.org/wiki/島倉千代子 "wikilink")(29) | 夢飾り                                               |
+| [島倉千代子](../Page/島倉千代子.md "wikilink")(29)                    | 夢飾り                                               |
 | [八代亞紀](../Page/八代亞紀.md "wikilink")(13)                      | 命火                                                |
 | [石川小百合](../Page/石川小百合.md "wikilink")(8)                     | 波止場しぐれ                                            |
 | [小林幸子](../Page/小林幸子.md "wikilink")(7)                       | 夫婦しぐれ                                             |
@@ -58,7 +58,7 @@
   - [小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")（劇画作家）
   - [武原はん](https://zh.wikipedia.org/wiki/武原はん "wikilink")（舞蹈家）
   - ジェームス三木（作家）
-  - [山口洋子](https://zh.wikipedia.org/wiki/山口洋子 "wikilink")（作家・作詞家）
+  - [山口洋子](../Page/山口洋子.md "wikilink")（作家・作詞家）
   - [吉田義男](https://zh.wikipedia.org/wiki/吉田義男 "wikilink")（[阪神虎監督](../Page/阪神虎.md "wikilink")）
   - [大地真央](../Page/大地真央.md "wikilink")（女演員）
   - [北尾光司](https://zh.wikipedia.org/wiki/北尾光司 "wikilink")（[相撲選手](../Page/相撲.md "wikilink")

@@ -4,7 +4,7 @@
 
   - [大賀好修](../Page/大賀好修.md "wikilink")（吉他），前、[OOM成员](https://zh.wikipedia.org/wiki/OOM "wikilink")。
 
-  - （贝斯），前、[WAR-ED成员](https://zh.wikipedia.org/wiki/WAR-ED "wikilink")。
+  - （贝斯），前、[WAR-ED成员](../Page/WAR-ED.md "wikilink")。
 
   - [大楠雄藏](https://zh.wikipedia.org/wiki/大楠雄藏 "wikilink")（键盘），前OOM成员。
 

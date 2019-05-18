@@ -2,7 +2,7 @@
 
 ## 概要
 
-  - 只有「[co·no·mi·chi](../Page/co·no·mi·chi.md "wikilink")」是[つんく作曲](https://zh.wikipedia.org/wiki/つんく "wikilink")，除此之外全是外部制作的作品。
+  - 只有「[co·no·mi·chi](https://zh.wikipedia.org/wiki/co·no·mi·chi "wikilink")」是[つんく作曲](https://zh.wikipedia.org/wiki/つんく "wikilink")，除此之外全是外部制作的作品。
   - 初回限定盤、通常盤有Under封面1枚(全4種中、1種封入)封入。
 
 ## 收綠曲
@@ -24,12 +24,12 @@
     （作詞：岩里祐穂、作曲：井上慎二郎、編曲：西川進）
       -
         5th單曲
-6.  **[co·no·mi·chi](../Page/co·no·mi·chi.md "wikilink")**
+6.  **[co·no·mi·chi](https://zh.wikipedia.org/wiki/co·no·mi·chi "wikilink")**
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲：[つんく](https://zh.wikipedia.org/wiki/つんく "wikilink")、編曲：AKIRASTAR・中山信彦）
       -
         6th單曲
 7.  **みんなだいすき**
-    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")）
+    （作詞：C.Piece、作曲：AKIRASTAR、編曲：[安部潤](../Page/安部潤.md "wikilink")）
       -
         3rd單曲c/w曲
 8.  **I NEED YOU**

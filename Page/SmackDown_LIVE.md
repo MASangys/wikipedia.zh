@@ -15,8 +15,8 @@ SmackDown的播出會比[愛爾蘭和英國早幾個小時](https://zh.wikipedia
 
 WWE SmackDown原本是和另一間職業摔角公司世界冠軍摔角（World Champion
 Wrestling）所制作的節目Thunder相競爭的節目，和世界摔角娛樂公司的其他節目制作不同，它不是一個直播節目，而是一個錄影節目。目前WWE
-SmackDown是世界摔角娛樂公司三大重頭節目之一，其餘兩個重頭節目分別是[Raw和](https://zh.wikipedia.org/wiki/WWE_Raw "wikilink")[WWE
-NXT](https://zh.wikipedia.org/wiki/WWE_NXT "wikilink")。
+SmackDown是世界摔角娛樂公司三大重頭節目之一，其餘兩個重頭節目分別是[Raw和](../Page/WWE_Raw.md "wikilink")[WWE
+NXT](../Page/WWE_NXT.md "wikilink")。
 
 2016年5月26日，WWE宣布從7月19日開始，SmackDown的轉播權將會轉移至USA電視台，並且是LIVE直播方式播出，全名改為WWE
 Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩大品牌將有個別獨立之選手與專屬冠軍腰帶。
@@ -46,7 +46,7 @@ Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩�
   - [A·J·斯泰爾斯](https://zh.wikipedia.org/wiki/A·J·斯泰爾斯 "wikilink")
 
   -
-  - [Big Show](https://zh.wikipedia.org/wiki/Big_Show "wikilink")
+  - [Big Show](../Page/Big_Show.md "wikilink")
 
   - [傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")
 
@@ -61,7 +61,7 @@ Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩�
 
   - [魯塞夫](../Page/魯塞夫_\(摔角手\).md "wikilink")
 
-  - [中邑真輔](https://zh.wikipedia.org/wiki/中邑真輔 "wikilink")
+  - [中邑真輔](../Page/中邑真輔.md "wikilink")
 
   -
   - [Kevin Owen](https://zh.wikipedia.org/wiki/Kevin_Owen "wikilink")
@@ -96,19 +96,19 @@ Smackdown Live。並且將恢復從2011年取消的品牌選手概念制，兩�
   -
   -
   -
-  - [霈橘](https://zh.wikipedia.org/wiki/霈橘 "wikilink")
+  - [霈橘](../Page/霈橘.md "wikilink")
 
   -
   -
   -
 ### 團體組合
 
-  - （[席莫斯和](https://zh.wikipedia.org/wiki/席莫斯 "wikilink")[安東尼奧·希薩羅](https://zh.wikipedia.org/wiki/安東尼奧·希薩羅 "wikilink")）
+  - （[席莫斯和](../Page/席莫斯.md "wikilink")[安東尼奧·希薩羅](https://zh.wikipedia.org/wiki/安東尼奧·希薩羅 "wikilink")）
 
-  - （[埃爾伊克·洛望和](https://zh.wikipedia.org/wiki/埃爾伊克·洛望 "wikilink")[盧克·哈波爾](https://zh.wikipedia.org/wiki/盧克·哈波爾 "wikilink")）
+  - （[埃爾伊克·洛望和](https://zh.wikipedia.org/wiki/埃爾伊克·洛望 "wikilink")[盧克·哈波爾](../Page/盧克·哈波爾.md "wikilink")）
 
   - （[Big
-    E](https://zh.wikipedia.org/wiki/Big_E "wikilink")、[科菲·京斯頓和](https://zh.wikipedia.org/wiki/科菲·京斯頓 "wikilink")）
+    E](../Page/Big_E.md "wikilink")、[科菲·京斯頓和](../Page/科菲·京斯頓.md "wikilink")）
 
   - （、、和）
 

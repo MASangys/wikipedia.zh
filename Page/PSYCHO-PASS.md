@@ -1,5 +1,5 @@
 《**心靈判官**》（），是[Production
-I.G所製作的電視動畫系列](../Page/Production_I.G.md "wikilink")。故事原案為[虛淵玄](../Page/虛淵玄.md "wikilink")，角色原案為[天野明](../Page/天野明.md "wikilink")，並由鹽谷直義和本廣克行指導製作。第1期動畫於2012年10月至2013年3月間在[富士電視台的節目](../Page/富士電視台.md "wikilink")[noitaminA中正式播映](../Page/noitaminA.md "wikilink")。第2期於2014年10月9日開播。第3期預定於2019年10月開播\[1\]。北美的[Funimation](https://zh.wikipedia.org/wiki/Funimation "wikilink")、臺灣的[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")，以及中国的[樂視網皆分别獲得授權](https://zh.wikipedia.org/wiki/樂視網 "wikilink")，允許其在網上播放第1期及第2期。
+I.G所製作的電視動畫系列](../Page/Production_I.G.md "wikilink")。故事原案為[虛淵玄](../Page/虛淵玄.md "wikilink")，角色原案為[天野明](../Page/天野明.md "wikilink")，並由鹽谷直義和本廣克行指導製作。第1期動畫於2012年10月至2013年3月間在[富士電視台的節目](../Page/富士電視台.md "wikilink")[noitaminA中正式播映](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。第2期於2014年10月9日開播。第3期預定於2019年10月開播\[1\]。北美的[Funimation](../Page/Funimation.md "wikilink")、臺灣的[巴哈姆特動畫瘋](../Page/巴哈姆特動畫瘋.md "wikilink")，以及中国的[樂視網皆分别獲得授權](https://zh.wikipedia.org/wiki/樂視網 "wikilink")，允許其在網上播放第1期及第2期。
 
 新作劇場版則於2015年1月9日上映。2018年3月，官方宣佈其預計於2019年1月起接連推出三部劇場版（標題：Psycho-Pass:
 Sinners of the System, SS），分別聚焦於該系列的不同角色\[2\]。
@@ -29,7 +29,7 @@ I.G的製作人接觸](../Page/Production_I.G.md "wikilink")，因而得以實�
 
 但是，實際上動畫劇本是小說家[深見真與](https://zh.wikipedia.org/wiki/深見真 "wikilink")[高羽彩以](https://zh.wikipedia.org/wiki/高羽彩 "wikilink")[系列構成的原草稿寫成的](https://zh.wikipedia.org/wiki/系列構成 "wikilink")，另外還有虛淵以寫腳本的形式概括其全話的部分\[4\]。
 
-2012年4月[富士电视台在](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[noitaminA发布会上](../Page/noitaminA.md "wikilink")，公布同年10月份将播出该剧\[5\]。8月間，虚渊玄在推特上的举动让人猜测他将担任本片脚本工作\[6\]，9月份确认他将担任脚本\[7\]，动画将有22集\[8\]。
+2012年4月[富士电视台在](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[noitaminA发布会上](https://zh.wikipedia.org/wiki/noitaminA "wikilink")，公布同年10月份将播出该剧\[5\]。8月間，虚渊玄在推特上的举动让人猜测他将担任本片脚本工作\[6\]，9月份确认他将担任脚本\[7\]，动画将有22集\[8\]。
 
 2013年7月4日，noitaminA表示本片将参加次日的发表会\[9\]。次日公布将在本片DVD第8卷附送「Project重大发表会」的门票，被猜测和第二季制作有关\[10\]。
 
@@ -210,7 +210,7 @@ Jōji），聲：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wiki
 #### 第2期
 
 **霜月美佳**（霜月 美佳/Shimotsuki Mika/しもつき
-みか），聲：[佐倉綾音](../Page/佐仓绫音.md "wikilink")（日本）、[石梓晴](https://zh.wikipedia.org/wiki/石梓晴 "wikilink")（香港）
+みか），聲：[佐倉綾音](../Page/佐仓绫音.md "wikilink")（日本）、[石梓晴](../Page/石梓晴.md "wikilink")（香港）
 
   -
     第一期初登場時是私立櫻霜學園的女學生，雙頰有雀斑。直覺敏銳，色相純淨，是學校名列前茅的優等生。雖然前途光明，但人緣不佳，對少數親友以外的人都很冷淡。很早就察覺私下是連續殺人犯的校內風雲人物王陵璃華子有異狀。在兩位青梅竹馬被殺的衝擊之下，對自己說錯話感到自責，在畢業後考上公安局監視官，是人事異動中首次分配的未成年監視官，遞補第一分隊宜野座原本的職位。
@@ -313,8 +313,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
   -
     第7話至第9話登場，十五年前321空難後負責治療鹿矛圍桐斗的主治醫生。術後跟鹿矛圍保持聯絡，並且協助他的復仇計畫。被公安局拘捕後沒有隱瞞地將情報全盤托出，最後被禾生壤宗（東金美沙子）用主宰者殺害。
 
-**桑島浩一**（桒島浩一/くわしま
-こういち），聲：[内田夕夜](https://zh.wikipedia.org/wiki/内田夕夜 "wikilink")（日本）
+**桑島浩一**（桒島浩一/くわしま こういち），聲：[内田夕夜](../Page/内田夕夜.md "wikilink")（日本）
 
   -
     第9話登場的年輕政治家。鹿矛圍同一所小學學生，在畢業旅行的前一週因病轉校，得以逃過321空難事故。獨活的罪惡感讓他從小淪落為潛在犯，視拯救自己的鹿矛圍為同伴。進入政壇後得知321空難是政客為使西比拉先知系統上線運作的政治手段之一後並把此訊息告訴鹿矛，不僅提供鹿矛圍住處，也透過自己的人脈將鹿矛圍介紹給各界重要人士。
@@ -340,7 +339,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
 #### 第1期
 
 **船原雪**（舩原 ゆき/ふなばら
-ゆき），聲：[小岩井小鳥](https://zh.wikipedia.org/wiki/小岩井小鳥 "wikilink")（日本）、[劉曉樺](https://zh.wikipedia.org/wiki/劉曉樺 "wikilink")（香港）
+ゆき），聲：[小岩井小鳥](../Page/小岩井小鳥.md "wikilink")（日本）、[劉曉樺](../Page/劉曉樺.md "wikilink")（香港）
 
   -
     小朱的朋友，從小就表現平凡，在職場適性分析結果全都拿到C而相當沮喪，從事身體勞動的工作。被槙島引誘出來做為人質，在第11集被槙島割喉殺害。
@@ -429,7 +428,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
   - 編輯 - 村上義典
   - 音響監督 - [岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音響-{制}-作 - Glovision Inc.
-  - 音樂 - [菅野祐悟](https://zh.wikipedia.org/wiki/菅野祐悟 "wikilink")
+  - 音樂 - [菅野祐悟](../Page/菅野祐悟.md "wikilink")
   - 音樂-{制}-作人 - 佐野弘明
   - 總-{制}-作人 - 山本幸治
   - \-{制}-作人 - 和田丈嗣、戶堀賢治、岡村和佳菜
@@ -471,7 +470,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
   -
 
       -
-        作詞、作曲、編曲：[TK](https://zh.wikipedia.org/wiki/凛凛的時雨 "wikilink")，歌：[凜冽時雨](https://zh.wikipedia.org/wiki/凜冽時雨 "wikilink")
+        作詞、作曲、編曲：[TK](https://zh.wikipedia.org/wiki/凛凛的時雨 "wikilink")，歌：[凜冽時雨](../Page/凜冽時雨.md "wikilink")
 
 :; 「Out of Control」（第12－22話，「新編集版」第7－11話）
 
@@ -485,7 +484,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
 :; 「」（第1－11話，「新編集版」第1－5話）
 
 ::
-作詞、作曲、編曲：[ryo](https://zh.wikipedia.org/wiki/supercell "wikilink")，歌：[EGOIST](https://zh.wikipedia.org/wiki/EGOIST "wikilink")
+作詞、作曲、編曲：[ryo](https://zh.wikipedia.org/wiki/supercell "wikilink")，歌：[EGOIST](../Page/EGOIST.md "wikilink")
 
 :; 「All Alone With You」（第12－22話，「新編集版」第6－11話）
 
@@ -499,7 +498,7 @@ Tepei），聲：[東地宏樹](../Page/東地宏樹.md "wikilink")（日本）
   -
 
       -
-        作詞：Shoko，作曲、編曲：[菅野祐悟](https://zh.wikipedia.org/wiki/菅野祐悟 "wikilink")，歌：瀧崎莉娜（[渡邊明乃](../Page/渡邊明乃.md "wikilink")）
+        作詞：Shoko，作曲、編曲：[菅野祐悟](../Page/菅野祐悟.md "wikilink")，歌：瀧崎莉娜（[渡邊明乃](../Page/渡邊明乃.md "wikilink")）
 
 <!-- end list -->
 
@@ -1264,7 +1263,7 @@ naO</p></td>
 <td><p>見放題會員可免費收看全部話數</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1562,7 +1561,7 @@ naO</p></td>
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Mag_Garden" title="wikilink">Mag Garden</a></p></th>
+<th><p><a href="../Page/Mag_Garden.md" title="wikilink">Mag Garden</a></p></th>
 <th><p>東立出版社</p></th>
 </tr>
 </thead>
@@ -1813,8 +1812,8 @@ ISBN 978-4-8000-0425-3（限定版）</p></td>
 
   - 《心靈判官：無法抉擇的幸福》（）
     [冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，[5pb.](../Page/5pb..md "wikilink")（MAGES.）製作發行，平台為[Xbox
-    One](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")、[PlayStation
-    4與](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")[PlayStation
+    One](../Page/Xbox_One.md "wikilink")、[PlayStation
+    4與](../Page/PlayStation_4.md "wikilink")[PlayStation
     Vita](../Page/PlayStation_Vita.md "wikilink")。
 
 ## 評價

@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - [金甫美](https://zh.wikipedia.org/wiki/金甫美_\(1987年\) "wikilink") 飾 允美
+  - [金甫美](../Page/金甫美_\(1987年\).md "wikilink") 飾 允美
 
 <!-- end list -->
 
@@ -66,7 +66,7 @@
 
 <!-- end list -->
 
-  - [郭智敏](https://zh.wikipedia.org/wiki/郭智敏 "wikilink") 飾 雅拉
+  - [郭智敏](../Page/郭智敏.md "wikilink") 飾 雅拉
 
 <!-- end list -->
 

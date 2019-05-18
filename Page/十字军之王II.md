@@ -1,6 +1,6 @@
 是由[Paradox Development
-Studio开发](https://zh.wikipedia.org/wiki/Paradox_Development_Studio "wikilink")，[Paradox
-Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](https://zh.wikipedia.org/wiki/十字军之王 "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布\[1\]，[OS
+Studio开发](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox
+Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布\[1\]，[OS
 X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux版本于](../Page/Linux.md "wikilink")2013年1月14日发布\[2\]。
 十字军之王II销量逾一百万份，是[欧陆风云IV发行前Paradox最为畅销的游戏](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")\[3\]。
 

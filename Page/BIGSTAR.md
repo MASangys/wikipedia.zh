@@ -67,7 +67,7 @@ Japan」\[10\]，並開始在日本每周4場的「BIGSTAR STORY」的100場連�
 prefer blue, cuz sometimes i feel so blue》。\[17\] \[18\] \[19\] \[20\]
 
 2018年2月5日，來桓入伍。\[21\]\[22\]\[23\] 2018年2月11日，在KBS的偶像選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，Feeldog獲得第4名，將於期間限定團體「[UNB](https://zh.wikipedia.org/wiki/UNB "wikilink")」出道。\[24\]
+Unit](../Page/The_Unit.md "wikilink")》，Feeldog獲得第4名，將於期間限定團體「[UNB](../Page/UNB.md "wikilink")」出道。\[24\]
 
 ## 音樂作品
 
@@ -216,23 +216,23 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，Feeldog獲得第4�
 
 ### 其他歌曲
 
-|             |                                 |                     |                                                               |                    |               |
-| ----------- | ------------------------------- | ------------------- | ------------------------------------------------------------- | ------------------ | ------------- |
-| 日期          | 專輯                              | 歌曲                  | 歌手 / 企劃                                                       | 參與成員               | 備註            |
-| 2012年12月12日 | K-FOOD DAY                      | K-FOOD DAY          | BIGSTAR、Electroboyz                                           | 全體                 | 韓食推廣宣傳歌\[25\] |
-| 2013年2月25日  | Absurd                          | You Got Some Nerve  | 龍俊亨、FeelDog、LE                                                | Feeldog            | \[26\]\[27\]  |
-| 2013年11月23日 | 不朽的名曲：傳說在歌唱                     | 외기러기 (Lonely Geese) | 全體                                                            | 全體                 | \[28\]\[29\]  |
-| 2013年12月26日 | Passing Of The Year             | Passing Of The Year | Brave Family                                                  | 全體                 | \[30\]        |
-| 2017年10月13日 | THE UNI+                        | My turn             | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 來桓 Feeldog 聖學 Jude |               |
-| 2017年10月20日 | THE UNI+                        | Last One            | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 來桓 Feeldog 聖學 Jude |               |
-| 2018年1月14日  | THE UNI+ B STEP 1               | You're Mine         | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Feeldog            |               |
-| 2018年1月14日  | THE UNI+ B STEP 1               | My Story            | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | 來桓                 |               |
-| 2018年2月10日  | THE UNI+ FINAL                  | PRESENT             | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Feeldog            |               |
-| 2018年2月10日  | THE UNI+ FINAL                  | Pull Me             | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Feeldog            |               |
-| 2018年8月27日  | Sweet Revenge2 복수노트2 OST Part 1 | Kiss Kiss           | Jude                                                          | Jude               |               |
-| 2018年9月3日   | Sweet Revenge2 복수노트2 OST Part 2 | Time to Shine       | Feeldog Samuel                                                | Feeldog            |               |
+|             |                                 |                     |                                            |                    |               |
+| ----------- | ------------------------------- | ------------------- | ------------------------------------------ | ------------------ | ------------- |
+| 日期          | 專輯                              | 歌曲                  | 歌手 / 企劃                                    | 參與成員               | 備註            |
+| 2012年12月12日 | K-FOOD DAY                      | K-FOOD DAY          | BIGSTAR、Electroboyz                        | 全體                 | 韓食推廣宣傳歌\[25\] |
+| 2013年2月25日  | Absurd                          | You Got Some Nerve  | 龍俊亨、FeelDog、LE                             | Feeldog            | \[26\]\[27\]  |
+| 2013年11月23日 | 不朽的名曲：傳說在歌唱                     | 외기러기 (Lonely Geese) | 全體                                         | 全體                 | \[28\]\[29\]  |
+| 2013年12月26日 | Passing Of The Year             | Passing Of The Year | Brave Family                               | 全體                 | \[30\]        |
+| 2017年10月13日 | THE UNI+                        | My turn             | [The Unit](../Page/The_Unit.md "wikilink") | 來桓 Feeldog 聖學 Jude |               |
+| 2017年10月20日 | THE UNI+                        | Last One            | [The Unit](../Page/The_Unit.md "wikilink") | 來桓 Feeldog 聖學 Jude |               |
+| 2018年1月14日  | THE UNI+ B STEP 1               | You're Mine         | [The Unit](../Page/The_Unit.md "wikilink") | Feeldog            |               |
+| 2018年1月14日  | THE UNI+ B STEP 1               | My Story            | [The Unit](../Page/The_Unit.md "wikilink") | 來桓                 |               |
+| 2018年2月10日  | THE UNI+ FINAL                  | PRESENT             | [The Unit](../Page/The_Unit.md "wikilink") | Feeldog            |               |
+| 2018年2月10日  | THE UNI+ FINAL                  | Pull Me             | [The Unit](../Page/The_Unit.md "wikilink") | Feeldog            |               |
+| 2018年8月27日  | Sweet Revenge2 복수노트2 OST Part 1 | Kiss Kiss           | Jude                                       | Jude               |               |
+| 2018年9月3日   | Sweet Revenge2 복수노트2 OST Part 2 | Time to Shine       | Feeldog Samuel                             | Feeldog            |               |
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 |         |              |          |        |
 | ------- | ------------ | -------- | ------ |
@@ -265,14 +265,14 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，Feeldog獲得第4�
 
 ### 其他音樂錄影帶
 
-|        |                                                               |                                                               |                       |                       |                      |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------------- | --------------------- | -------------------- |
-| 年份     | 發布日期                                                          | 歌手/企劃                                                         | 歌曲名稱                  | 參與成員                  | 連結/備註                |
-| 2012年  | 12月12日                                                        | BIGSTAR、Electroboyz                                           | K-FOOD DAY            | 全體                    | 韓食推廣宣傳歌 \[47\]\[48\] |
-| 2013年  | 2月25日                                                         | 龍俊亨、FeelDog、LE                                                | You Got Some Nerve    | Feeldog               | \[49\]\[50\]         |
-| 2017年  | 10月16日                                                        | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn               | FeelDog, 來桓, 聖學, Jude | \[51\]\[52\]         |
-| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                                                      | FeelDog, 來桓, 聖學, Jude | \[53\]\[54\]          |                      |
-| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version)                                     | FeelDog, 來桓, 聖學, Jude | \[55\]                |                      |
+|        |                                            |                                            |                       |                       |                      |
+| ------ | ------------------------------------------ | ------------------------------------------ | --------------------- | --------------------- | -------------------- |
+| 年份     | 發布日期                                       | 歌手/企劃                                      | 歌曲名稱                  | 參與成員                  | 連結/備註                |
+| 2012年  | 12月12日                                     | BIGSTAR、Electroboyz                        | K-FOOD DAY            | 全體                    | 韓食推廣宣傳歌 \[47\]\[48\] |
+| 2013年  | 2月25日                                      | 龍俊亨、FeelDog、LE                             | You Got Some Nerve    | Feeldog               | \[49\]\[50\]         |
+| 2017年  | 10月16日                                     | [The Unit](../Page/The_Unit.md "wikilink") | My Turn               | FeelDog, 來桓, 聖學, Jude | \[51\]\[52\]         |
+| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                                   | FeelDog, 來桓, 聖學, Jude | \[53\]\[54\]          |                      |
+| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version)                  | FeelDog, 來桓, 聖學, Jude | \[55\]                |                      |
 
 ### 舞蹈影音
 
@@ -325,12 +325,12 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，Feeldog獲得第4�
 
 ### 電視劇
 
-|      |                                                             |                                                             |         |                 |
-| ---- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------- | --------------- |
-| 日期   | 電視台                                                         | 節目名稱                                                        | 參與成員    | 角色              |
-| 2013 | KBS                                                         | [一絲的純情](https://zh.wikipedia.org/wiki/一絲的純情 "wikilink")     | FeelDog | 吳FeelDog \[76\] |
-| tvN  | [一起吃飯吧](https://zh.wikipedia.org/wiki/一起吃飯吧 "wikilink")     | FeelDog                                                     | 玄光碩     |                 |
-| 2017 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [自體發光辦公室](https://zh.wikipedia.org/wiki/自體發光辦公室 "wikilink") | FeelDog | 殷浩才 \[77\]      |
+|      |                                                             |                                          |         |                 |
+| ---- | ----------------------------------------------------------- | ---------------------------------------- | ------- | --------------- |
+| 日期   | 電視台                                                         | 節目名稱                                     | 參與成員    | 角色              |
+| 2013 | KBS                                                         | [一絲的純情](../Page/一絲的純情.md "wikilink")     | FeelDog | 吳FeelDog \[76\] |
+| tvN  | [一起吃飯吧](../Page/一起吃飯吧.md "wikilink")                        | FeelDog                                  | 玄光碩     |                 |
+| 2017 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [自體發光辦公室](../Page/自體發光辦公室.md "wikilink") | FeelDog | 殷浩才 \[77\]      |
 
 ### 專屬/固定節目
 
@@ -344,35 +344,35 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，Feeldog獲得第4�
 
 ### 綜藝節目
 
-|                        |              |                                                                                   |                       |                                |
-| ---------------------- | ------------ | --------------------------------------------------------------------------------- | --------------------- | ------------------------------ |
-| 播出日期                   | 電視台          | 節目名稱                                                                              | 參與成員                  | 備註                             |
-| 2012年10月14日            | KBS          | 出發吧夢之隊2                                                                           | FeelDog               | 直排輪競賽篇                         |
-| 2012年11月4日             | KBS          | 出發吧夢之隊2                                                                           | FeelDog               | 泥漿摔跤冠軍篇                        |
-| 2012年11月11日            | KBS          | 出發吧夢之隊2                                                                           | FeelDog               | 仁川港灣公社篇                        |
-| 2012年11月20日            | KBS          | 1對100                                                                             | BaRam, 來桓             | ★BaRam獲得冠軍                     |
-| 2012年11月25日            | KBS          | 出發吧夢之隊2                                                                           | BaRam, FeelDog        | 超級賽跑奪旗賽                        |
-| 2012年11月25日            | MBC          | [黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")                             | 全體                    | ★當勇敢兄弟的特別來賓                    |
-| 2013年1月3日              | MBC          | Star Photo                                                                        | 全體                    |                                |
-| 2013年2月11日             | MBC          | 偶像田徑射箭運動大會                                                                        | FeelDog               |                                |
-| 2013年7月9日—9月17日        | KBS          | [我們小區藝體能](https://zh.wikipedia.org/wiki/我們小區藝體能 "wikilink")                       | FeelDog               | 羽毛球篇                           |
-| 2013年10月22日            | ARIRANG TV   | After School Club                                                                 | 全體                    | Ep 27 \[83\]                   |
-| 2013年11月23日            | KBS          | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                                  | 全體                    |                                |
-| 2013年9月10日—17日         | DMB TV U1    | SHOW K-POP                                                                        | 全體                    | \[84\]\[85\]                   |
-| 2013年9月19日             | MBC          | 偶像明星運動會                                                                           | FeelDog               |                                |
-| 2013年9月22日             | KBS          | 媽媽咪呀                                                                              | FeelDog               | \[86\]                         |
-| 2013年12月23日            | ARIRANG      | Pops in Seoul                                                                     | 全體                    | \[87\]                         |
-| 2014年3月4日—4月15日        | KBS          | [我們小區藝體能](https://zh.wikipedia.org/wiki/我們小區藝體能 "wikilink")                       | FeelDog               | 跆拳道篇                           |
-| 2014年4月9日—5月21日        | MBC Music    | MBC Idol Dance Battle D-Style                                                     | FeelDog               |                                |
-| 2014年6月28日             | Ameba Studio | Ameba Studio                                                                      | 全體                    | Ep 176 \[88\]                  |
-| 2015年9月9日              | ARIRANG TV   | After School Club                                                                 | 全體                    | Ep 176 \[89\]                  |
-| 2015年9月17日             | ARIRANG      | Pops in Seoul                                                                     | 全體                    | \[90\]                         |
-| 2016年8月10日—9月14日       | Mnet         | [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")                              | FeelDog               | 出演3-8集\[91\]\[92\]\[93\]\[94\] |
-| 2016年10月2日             | SBS          | [Running Man](../Page/Running_Man.md "wikilink")                                  | FeelDog, 來桓, 聖學, Jude |                                |
-| 2016年11月10日            | iMBC Heyo TV | K-COOK STAR                                                                       | FeelDog, 來桓, 聖學, Jude | \[95\]                         |
-| 2017年2月8日              | iMBC Heyo TV | 朴素賢的偶像TV                                                                          | FeelDog, 來桓, 聖學, Jude | \[96\]                         |
-| 2017年9月8日              | MBC          | [Ranking Show 1,2,3](https://zh.wikipedia.org/wiki/Ranking_Show_1,2,3 "wikilink") | FeelDog               | \[97\]                         |
-| 2017年10月28日－2018年2月10日 | KBS          | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")                     | FeelDog, 來桓, 聖學, Jude | \[98\]                         |
+|                        |              |                                                                |                       |                                |
+| ---------------------- | ------------ | -------------------------------------------------------------- | --------------------- | ------------------------------ |
+| 播出日期                   | 電視台          | 節目名稱                                                           | 參與成員                  | 備註                             |
+| 2012年10月14日            | KBS          | 出發吧夢之隊2                                                        | FeelDog               | 直排輪競賽篇                         |
+| 2012年11月4日             | KBS          | 出發吧夢之隊2                                                        | FeelDog               | 泥漿摔跤冠軍篇                        |
+| 2012年11月11日            | KBS          | 出發吧夢之隊2                                                        | FeelDog               | 仁川港灣公社篇                        |
+| 2012年11月20日            | KBS          | 1對100                                                          | BaRam, 來桓             | ★BaRam獲得冠軍                     |
+| 2012年11月25日            | KBS          | 出發吧夢之隊2                                                        | BaRam, FeelDog        | 超級賽跑奪旗賽                        |
+| 2012年11月25日            | MBC          | [黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")          | 全體                    | ★當勇敢兄弟的特別來賓                    |
+| 2013年1月3日              | MBC          | Star Photo                                                     | 全體                    |                                |
+| 2013年2月11日             | MBC          | 偶像田徑射箭運動大會                                                     | FeelDog               |                                |
+| 2013年7月9日—9月17日        | KBS          | [我們小區藝體能](../Page/我們小區藝體能.md "wikilink")                       | FeelDog               | 羽毛球篇                           |
+| 2013年10月22日            | ARIRANG TV   | After School Club                                              | 全體                    | Ep 27 \[83\]                   |
+| 2013年11月23日            | KBS          | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")               | 全體                    |                                |
+| 2013年9月10日—17日         | DMB TV U1    | SHOW K-POP                                                     | 全體                    | \[84\]\[85\]                   |
+| 2013年9月19日             | MBC          | 偶像明星運動會                                                        | FeelDog               |                                |
+| 2013年9月22日             | KBS          | 媽媽咪呀                                                           | FeelDog               | \[86\]                         |
+| 2013年12月23日            | ARIRANG      | Pops in Seoul                                                  | 全體                    | \[87\]                         |
+| 2014年3月4日—4月15日        | KBS          | [我們小區藝體能](../Page/我們小區藝體能.md "wikilink")                       | FeelDog               | 跆拳道篇                           |
+| 2014年4月9日—5月21日        | MBC Music    | MBC Idol Dance Battle D-Style                                  | FeelDog               |                                |
+| 2014年6月28日             | Ameba Studio | Ameba Studio                                                   | 全體                    | Ep 176 \[88\]                  |
+| 2015年9月9日              | ARIRANG TV   | After School Club                                              | 全體                    | Ep 176 \[89\]                  |
+| 2015年9月17日             | ARIRANG      | Pops in Seoul                                                  | 全體                    | \[90\]                         |
+| 2016年8月10日—9月14日       | Mnet         | [Hit The Stage](../Page/Hit_The_Stage.md "wikilink")           | FeelDog               | 出演3-8集\[91\]\[92\]\[93\]\[94\] |
+| 2016年10月2日             | SBS          | [Running Man](../Page/Running_Man.md "wikilink")               | FeelDog, 來桓, 聖學, Jude |                                |
+| 2016年11月10日            | iMBC Heyo TV | K-COOK STAR                                                    | FeelDog, 來桓, 聖學, Jude | \[95\]                         |
+| 2017年2月8日              | iMBC Heyo TV | 朴素賢的偶像TV                                                       | FeelDog, 來桓, 聖學, Jude | \[96\]                         |
+| 2017年9月8日              | MBC          | [Ranking Show 1,2,3](../Page/Ranking_Show_1,2,3.md "wikilink") | FeelDog               | \[97\]                         |
+| 2017年10月28日－2018年2月10日 | KBS          | [The Unit](../Page/The_Unit.md "wikilink")                     | FeelDog, 來桓, 聖學, Jude | \[98\]                         |
 
 ### 電台節目
 

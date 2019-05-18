@@ -142,7 +142,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
 <!-- end list -->
 
   -
-    出版社：[enterbrain](../Page/enterbrain.md "wikilink")　發售日：2013年8月9日　ISBN
+    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2013年8月9日　ISBN
     978-4-04-729104-1
 
 <!-- end list -->
@@ -152,15 +152,15 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
 <!-- end list -->
 
   -
-    出版社：[enterbrain](../Page/enterbrain.md "wikilink")　發售日：2015年4月30日　ISBN
+    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2015年4月30日　ISBN
     978-4-04-730460-4
 
 ## 相關條目
 
-  - [LOVELY×CATION2](https://zh.wikipedia.org/wiki/LOVELY×CATION2 "wikilink")
+  - [LOVELY×CATION2](../Page/LOVELY×CATION2.md "wikilink")
   - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
   - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
+  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
 
 ## 評價
 

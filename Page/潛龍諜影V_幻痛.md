@@ -1,24 +1,24 @@
 是一款由[小島製作开发](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，小岛秀夫参与主要设计的[隐蔽类](https://zh.wikipedia.org/wiki/隐蔽类游戏 "wikilink")[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏在2015年9月1日发行于[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[PlayStation
-4](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox
+4](../Page/PlayStation_4.md "wikilink")、[Xbox
 360和](../Page/Xbox_360.md "wikilink")[Xbox
-One平台](https://zh.wikipedia.org/wiki/Xbox_One "wikilink")\[1\]\[2\]。由小島製作研發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「狐引擎」（FOX
+One平台](../Page/Xbox_One.md "wikilink")\[1\]\[2\]。由小島製作研發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「狐引擎」（FOX
 Engine）打造。本作是[合金装备系列的第](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")11款遊戲，也是小島自科乐美離職前主導的最后一部正传作品，但科乐美表示将会继续推展《合金装备》系列。\[3\]
 
 遊戲內容的時間設定在《[潛龍諜影V
-原爆點](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")》九年之後，即1984年。玩家将在[阿富汗和](../Page/阿富汗.md "wikilink")[安哥拉](../Page/安哥拉.md "wikilink")-[扎伊尔边境进行冒险](https://zh.wikipedia.org/wiki/扎伊尔 "wikilink")，以向九年前摧毁无国界军队MSF的神秘人物"Skull
+原爆點](../Page/潛龍諜影V_原爆點.md "wikilink")》九年之後，即1984年。玩家将在[阿富汗和](../Page/阿富汗.md "wikilink")[安哥拉](../Page/安哥拉.md "wikilink")-[扎伊尔边境进行冒险](https://zh.wikipedia.org/wiki/扎伊尔 "wikilink")，以向九年前摧毁无国界军队MSF的神秘人物"Skull
 Face"复仇。游戏被设计成开放世界的形式，玩家可以自由探索[阿富汗战争期间的阿富汗荒漠](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")，以及[安哥拉内战期间的非洲中部丛林](../Page/安哥拉内战.md "wikilink")，同时搜集资源建造和经营自己的母基地。游戏也包含了线上模式——「前进基地」(Forward
 Operating Base)，玩家可以潜入其他玩家的基地窃取资源和武器。
 
 遊戲原先被分別公佈為2個不同的項目，一個是在潛龍諜影25週年紀念會上公佈，名為《潛龍諜影 原爆點》（，），另一個則是由Moby Dick
 Studio開發的《幻痛》（，）。至2013年3月遊戲網頁正式上線，名稱才確定為《潛龍諜影V
 幻痛》\[4\]。2013年11月11日，科樂美宣布《[潛龍諜影V
-原爆點](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")》獨立於2014年春季發行。\[5\]2014年德國[Gamescom展](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，小島秀夫宣佈《幻痛》將藉由[Steam登上電腦平台](../Page/Steam.md "wikilink")。\[6\]
+原爆點](../Page/潛龍諜影V_原爆點.md "wikilink")》獨立於2014年春季發行。\[5\]2014年德國[Gamescom展](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，小島秀夫宣佈《幻痛》將藉由[Steam登上電腦平台](../Page/Steam.md "wikilink")。\[6\]
 
 ## 故事
 
-故事开始于[原爆點事件的九年之後](https://zh.wikipedia.org/wiki/潛龍諜影V_原爆點 "wikilink")，1984年「Big
+故事开始于[原爆點事件的九年之後](../Page/潛龍諜影V_原爆點.md "wikilink")，1984年「Big
 Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德凱利亞.md "wikilink")；XOF部隊得到消息，很快的到達醫院並試圖抹殺剛甦醒的Snake，Snake在名為Ishmael的男子的幫助下逃離了醫院。並在Ocelot的帮助下離開了塞浦路斯，隨後救出Kaz並向造成這一切的Cipher進行復仇。
 
 ## 登場角色
@@ -56,8 +56,7 @@ Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德�
 
   -
     （[3D掃描](https://zh.wikipedia.org/wiki/3D "wikilink")、英文配音：Troy
-    Baker／日文配音：[三上哲](https://zh.wikipedia.org/wiki/三上哲 "wikilink")，動態擷取：Matthew
-    Carlsen）
+    Baker／日文配音：[三上哲](../Page/三上哲.md "wikilink")，動態擷取：Matthew Carlsen）
     传奇士兵The
     Boss的儿子，[「食蛇者行动」中的多重间谍](https://zh.wikipedia.org/wiki/潜龙谍影3_食蛇者 "wikilink")，曾与Big
     Boss多次交手，仰慕Big Boss的个人魅力，现在帮助「Big Boss」和Miller重建母基地。「一个依靠谎言为生的人」
@@ -77,7 +76,7 @@ Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德�
 
 <!-- end list -->
 
-  - **[Quiet](https://zh.wikipedia.org/wiki/静静 "wikilink")**
+  - **[Quiet](../Page/静静.md "wikilink")**
 
 <!-- end list -->
 
@@ -129,7 +128,7 @@ Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德�
   -
     XOF的特殊強化部隊。聲帶蟲寄生實驗下產生的超人士兵，有著異常的身體能力和特殊能力。成員無論男女皆能高速移動向目標襲擊，行動時必定為四人一組。
     因為寄生蟲而讓他們有了「MIST」（出現時會產生霧的現象）、「CAMO」（有如光學迷彩，可令自己透明化）、「ARMOR」（身體會像岩石那樣硬化，攻擊無法對他們產生效果）的能力。
-    其中只有女性成員具有「CAMO」能力，與Quiet同樣使用狙擊手段進攻。該部隊成員唯一共通的裝備是[開山刀](https://zh.wikipedia.org/wiki/開山刀 "wikilink")。錄音帶中得知寄生蟲來自[「食蛇者行动」中THE](https://zh.wikipedia.org/wiki/潜龙谍影3_食蛇者 "wikilink")
+    其中只有女性成員具有「CAMO」能力，與Quiet同樣使用狙擊手段進攻。該部隊成員唯一共通的裝備是[開山刀](../Page/開山刀.md "wikilink")。錄音帶中得知寄生蟲來自[「食蛇者行动」中THE](https://zh.wikipedia.org/wiki/潜龙谍影3_食蛇者 "wikilink")
     END的屍體，經Code Talker繁殖分化而成。
 
 ### 其他角色
@@ -273,7 +272,7 @@ Boss」終於在[泽凯利亚的醫院中甦醒](../Page/亞克羅提利與德�
 ## 开发
 
 《潛龍諜影V》开始进入公众的视野是在2012年左右。2012年2月，一个称为“Development Without
-Borders”（直译为：开发无国界；来源自之前的游戏中出现的无国界军队）的网站上线，网站由科乐美所有，其目的是为开发下一部新的《潛龍諜影》作品而做推广。在2012年3月举行的[游戏开发者大会上](https://zh.wikipedia.org/wiki/游戏开发者大会 "wikilink")，网站在展馆内开设招聘位，征招若干职位，这些职位被称是为了开发以“高端游戏主机”和“下一代狐引擎”为目标的最新《潛龍諜影》作品。\[9\]\[10\]
+Borders”（直译为：开发无国界；来源自之前的游戏中出现的无国界军队）的网站上线，网站由科乐美所有，其目的是为开发下一部新的《潛龍諜影》作品而做推广。在2012年3月举行的[游戏开发者大会上](../Page/游戏开发者大会.md "wikilink")，网站在展馆内开设招聘位，征招若干职位，这些职位被称是为了开发以“高端游戏主机”和“下一代狐引擎”为目标的最新《潛龍諜影》作品。\[9\]\[10\]
 
 2013年3月27日，小岛秀夫正式确认他的制作团队正在制作《潛龍諜影 V》，并宣布《潛龍諜影
 V》将会被分为两个独立的游戏发行，即作为序章的《潛龍諜影
@@ -325,19 +324,18 @@ Forssell在采访中说道。\[22\]
 ## 评价
 
 《潛龍諜影V
-幻痛》获得了业界交口称赞，日本著名游戏杂志《[FAMI通](../Page/FAMI通.md "wikilink")》，美国著名游戏网站[IGN](../Page/IGN.md "wikilink")、[GameSpot](../Page/GameSpot.md "wikilink")，中国大陆《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》等都给予本作满分的评价。\[24\]\[25\]\[26\]\[27\]
+幻痛》获得了业界交口称赞，日本著名游戏杂志《[FAMI通](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")》，美国著名游戏网站[IGN](../Page/IGN.md "wikilink")、[GameSpot](../Page/GameSpot.md "wikilink")，中国大陆《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》等都给予本作满分的评价。\[24\]\[25\]\[26\]\[27\]
 
 [IGN的评论称赞本作的开放性游戏机制](../Page/IGN.md "wikilink")，它允许玩家自由地选择执行任务的方式，创造属于自己的解决方法，而不需要担心打破潜行所带来惩罚。但同时也指出故事的后半部分缺乏力度。评论最后总结说《潛龍諜影V
 幻痛》是游戏性的巨大突破，这种程度的智慧和创意很少有游戏能够做到。\[28\][GameSpot同样称赞本作](../Page/GameSpot.md "wikilink")「近乎无可挑剔的游戏性」。评论说到：“除了主线和支线任务，逐步浮现的剧情充当了幻痛开放世界游戏体验的第三根支柱。”评论还称赞了《幻痛》颇为成功的人物塑造，身为一部填补空白的前传，本作将新人物塑造得十分丰满，而非仅拘泥于对系列已有故事的自圆其说。\[29\]另外，《潛龍諜影V
-幻痛》是第23部——合金装备系列中的第3部——获得日本游戏杂志《[FAMI通](../Page/FAMI通.md "wikilink")》40/40满分评价的游戏。\[30\]
+幻痛》是第23部——合金装备系列中的第3部——获得日本游戏杂志《[FAMI通](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")》40/40满分评价的游戏。\[30\]
 
 [电子游戏月刊对本作给出了](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")9.5/10的评价，称赞本作故事所具有的戏剧张力与情感深度。与[战地系列和](https://zh.wikipedia.org/wiki/战地系列 "wikilink")[使命召唤系列相比](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")，本作以一种非常有趣及吸引人的方式——即玩家所处的开放世界对玩家的行为做出有机反应，刻画出“战争的徒劳无益”这一主题。但是，评论批评了游戏对资源搜集的过分强调，尤其是“前进基地”(FOB)被入侵会时常打断主要任务的执行，影响游戏体验。\[31\]游戏博客Destructoid对本作给出了9/10的评价，评价本作为“即朴实又华丽，配得上作为小岛秀夫的最后一部合金装备，他这次是在辉煌中离去。”\[32\]
 
-[Game
-Informer的Joe](https://zh.wikipedia.org/wiki/Game_Informer "wikilink")
+[Game Informer的Joe](../Page/Game_Informer.md "wikilink")
 Juba对本作给出9.25/10的评价，称赞本作灵活的关卡设计，这给玩家如何完成任务目标提供了多样化的选择，而不再需要为武器及装备上的限制而烦恼。但是，本作未能将叙事改造到与开放世界的游戏模式相兼容的程度。现有的章节式结构给原本就显得复杂的系列故事又蒙上了一层迷雾。Juba认为这种情况所造成的严重结果就是，玩家会在不知道来龙去脉的情况下，茫然地进入故事的关键点。\[33\]
 
-[Polygon的Michael](https://zh.wikipedia.org/wiki/Polygon "wikilink")
+[Polygon的Michael](../Page/Polygon.md "wikilink")
 McWhertor对本作给出了9/10的评价，同样称赞游戏灵活的机制。但批评本作令人费解的故事，这让对整个系列缺乏了解的新玩家难以接受。McWhertor同时批评了本作人物**Quiet**的人物设计过于暴露，他认为这种暴露完全是无意义的，而且不利于这个人物的整体塑造。\[34\]
 
 本作还获得了一些来自传统游戏媒体之外的褒扬。[每日电讯报的Kirk](../Page/每日电讯报.md "wikilink")

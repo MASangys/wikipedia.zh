@@ -23,9 +23,9 @@ Fes.的活动\[12\]，活动中NanosizeMir和[多田葵进行了现场演出](..
 
 ## 故事简介
 
-本作是《Rewrite》的[外传](https://zh.wikipedia.org/wiki/衍生作品 "wikilink")\[14\]，比《Rewrite》更加详尽地描写了游戏中的节日“收获祭”的场景\[15\]，并且游戏中也和Rewrite一样加入了[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[16\]。
+本作是《Rewrite》的[外传](../Page/衍生作品.md "wikilink")\[14\]，比《Rewrite》更加详尽地描写了游戏中的节日“收获祭”的场景\[15\]，并且游戏中也和Rewrite一样加入了[小游戏](https://zh.wikipedia.org/wiki/小游戏 "wikilink")\[16\]。
 
-本作一共分为6个独立的篇章，每个篇章对应一个女主角\[17\]\[18\]。玩家刚开始可以进入神户小鸟、凤千早和此花露西娅的篇章，完成这3个篇章之后，中津静流和千里朱音的篇章解锁，完成这5个篇章之后，篝的篇章解锁，而完成所有6个篇章之后，附加的[RPG小游戏](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")《Rewrite
+本作一共分为6个独立的篇章，每个篇章对应一个女主角\[17\]\[18\]。玩家刚开始可以进入神户小鸟、凤千早和此花露西娅的篇章，完成这3个篇章之后，中津静流和千里朱音的篇章解锁，完成这5个篇章之后，篝的篇章解锁，而完成所有6个篇章之后，附加的[RPG小游戏](../Page/電子角色扮演遊戲.md "wikilink")《Rewrite
 Quest》解锁。
 
 ## 人物介绍
@@ -121,8 +121,8 @@ Quest》解锁。
 <!-- end list -->
 
   -
-    作詞：[NanosizeMir](https://zh.wikipedia.org/wiki/NanosizeMir "wikilink")
-    / 作曲 ・編曲：塚越雄一朗（NanosizeMir） /
+    作詞：[NanosizeMir](../Page/NanosizeMir.md "wikilink") / 作曲
+    ・編曲：塚越雄一朗（NanosizeMir） /
     歌：[水谷瑠奈](https://zh.wikipedia.org/wiki/水谷瑠奈 "wikilink")（NanosizeMir）
 
 <!-- end list -->

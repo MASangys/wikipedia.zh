@@ -1,4 +1,4 @@
-**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google于](../Page/Google.md "wikilink")2011年11月发布的社会化移动阅读器。支持[Android以及](../Page/Android.md "wikilink")[iOS平台](../Page/iOS.md "wikilink")。
+**Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google于](../Page/Google.md "wikilink")2011年11月发布的社会化移动阅读器。支持[Android以及](../Page/Android.md "wikilink")[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 Google
 Currents会处理包括[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")，[CNET](../Page/CNET.md "wikilink")，[ReadWriteWeb](../Page/ReadWriteWeb.md "wikilink")，[IBN
@@ -19,14 +19,14 @@ Currents能订阅境外杂志，绕过当局而获取未经审查的新闻资讯
 
 ## 竞争对手
 
-  - [Flipboard](https://zh.wikipedia.org/wiki/Flipboard "wikilink")
+  - [Flipboard](../Page/Flipboard.md "wikilink")
   - [Pulse](https://zh.wikipedia.org/wiki/Pulse_\(software\) "wikilink")
   - [The Early
     Edition](https://zh.wikipedia.org/wiki/The_Early_Edition_\(software\) "wikilink")
   - [Editions](https://zh.wikipedia.org/wiki/Editions_\(software\) "wikilink")
   - [News.me](https://zh.wikipedia.org/wiki/News.me "wikilink")
   - [Zite](https://zh.wikipedia.org/wiki/Zite "wikilink")
-  - [Feedly](https://zh.wikipedia.org/wiki/Feedly "wikilink")
+  - [Feedly](../Page/Feedly.md "wikilink")
   - [The Old
     Reader](https://zh.wikipedia.org/wiki/The_Old_Reader "wikilink")
 

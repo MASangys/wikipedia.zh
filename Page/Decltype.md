@@ -36,7 +36,7 @@ decltype(exp()) x;
 Parker）就基于`sizeof`操作符，提出了一种可移植的解决方案\[5\]。对此，比尔·吉本斯（Bill
 Gibbons）则提出，这一方案仍有诸多限制，而且通常来说，直接引入`typeof`机制效果都更好\[6\]。2000年10月，[安德烈·亚历山德雷斯库在IT技术杂志](https://zh.wikipedia.org/wiki/Andrei_Alexandrescu "wikilink")《》上评论道：“（若）有typeof（操作符），撰写和理解模板代码就会便易许多。\[7\]”他也提到“typeof和sizeof（操作符）有相同的后端，（这是）因为sizeof无论如何必须去计算类型。\[8\]”与芭芭拉·E·摩（Barbara
 E.
-Moo）也谈到内建于程序语言中的`typeof`功能非常有用，但也提醒道“使用时常会引入一些难以发觉的程序错误，且尚有无法解决的问题（即并非万用）。\[9\]”并提出可以利用类型转换（如使用[标准模板库所提供的](../Page/标准模板库.md "wikilink")[typedef](../Page/typedef.md "wikilink")），更有效、更通用地实现这一功能\[10\]。但是，史蒂夫·丹斯特（Steve
+Moo）也谈到内建于程序语言中的`typeof`功能非常有用，但也提醒道“使用时常会引入一些难以发觉的程序错误，且尚有无法解决的问题（即并非万用）。\[9\]”并提出可以利用类型转换（如使用[标准模板库所提供的](../Page/标准模板库.md "wikilink")[typedef](https://zh.wikipedia.org/wiki/typedef "wikilink")），更有效、更通用地实现这一功能\[10\]。但是，史蒂夫·丹斯特（Steve
 Dewhurst）则称如此转换“在设计与发布上花费巨大”，而且“采用直接提取表达式类型的方法更简单。\[11\]”（大意）2011年间，在一片关于[C++0x的文章中](https://zh.wikipedia.org/wiki/C++0x "wikilink")，克尼格和摩预言道：“decltype将会广泛用于为每日的程序编写提供便利。\[12\]”
 
 2002年间，

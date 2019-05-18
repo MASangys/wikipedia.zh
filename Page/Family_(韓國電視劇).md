@@ -1,6 +1,6 @@
 [安奭奐](../Page/安奭奐.md "wikilink"){{、w}}[朴志胤](../Page/朴志胤.md "wikilink")
-[朴喜本](https://zh.wikipedia.org/wiki/朴喜本 "wikilink"){{、w}}[沈志浩](../Page/沈志浩.md "wikilink"){{、w}}[多　絮](https://zh.wikipedia.org/wiki/金多絮 "wikilink")
-[崔宇植](../Page/崔宇植.md "wikilink"){{、w}}[朴叙俊](https://zh.wikipedia.org/wiki/朴叙俊 "wikilink"){{、w}}[鮮-{于}-龍女](https://zh.wikipedia.org/wiki/鮮于龍女 "wikilink")
+[朴喜本](../Page/朴喜本.md "wikilink"){{、w}}[沈志浩](../Page/沈志浩.md "wikilink"){{、w}}[多　絮](https://zh.wikipedia.org/wiki/金多絮 "wikilink")
+[崔宇植](../Page/崔宇植.md "wikilink"){{、w}}[朴叙俊](https://zh.wikipedia.org/wiki/朴叙俊 "wikilink"){{、w}}[鮮-{于}-龍女](../Page/鮮于龍女.md "wikilink")
 | judges = | voices = | narrated = | theme_music_composer = |
 opentheme = | endtheme = | composer = | country =  | language =
 [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
@@ -34,15 +34,15 @@ production_website = | 台灣名稱 = 歡樂一家親 }}
 
 ### 優等家族
 
-|                                                           |         |                                                     |            |
-| --------------------------------------------------------- | ------- | --------------------------------------------------- | ---------- |
-| **演員**                                                    | **角色**  | **國語配音**                                            | **介紹**     |
-| [黃薪惠](https://zh.wikipedia.org/wiki/黃薪惠 "wikilink")       | **優薪惠** | [魏晶琦](../Page/魏晶琦.md "wikilink")                    | 優家媽媽與劣家新媽媽 |
-| [朴志胤](../Page/朴志胤.md "wikilink")                          | **優志胤** | [魏晶琦](../Page/魏晶琦.md "wikilink")                    | 優家大女兒      |
-| [多　絮](https://zh.wikipedia.org/wiki/金多絮 "wikilink")       | **優多胤** | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") | 優家二女兒      |
-| [鮮-{于}-龍女](https://zh.wikipedia.org/wiki/鮮于龍女 "wikilink") | **羅日蘭** | [汪世瑋](../Page/汪世瑋.md "wikilink")                    | 優家奶奶與劣家新奶奶 |
-| [李　本](https://zh.wikipedia.org/wiki/李本 "wikilink")        | **優　本** | [汪世瑋](../Page/汪世瑋.md "wikilink")                    | 優家阿姨與劣家新阿姨 |
-|                                                           |         |                                                     |            |
+|                                                     |         |                                                     |            |
+| --------------------------------------------------- | ------- | --------------------------------------------------- | ---------- |
+| **演員**                                              | **角色**  | **國語配音**                                            | **介紹**     |
+| [黃薪惠](../Page/黃薪惠.md "wikilink")                    | **優薪惠** | [魏晶琦](../Page/魏晶琦.md "wikilink")                    | 優家媽媽與劣家新媽媽 |
+| [朴志胤](../Page/朴志胤.md "wikilink")                    | **優志胤** | [魏晶琦](../Page/魏晶琦.md "wikilink")                    | 優家大女兒      |
+| [多　絮](https://zh.wikipedia.org/wiki/金多絮 "wikilink") | **優多胤** | [詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") | 優家二女兒      |
+| [鮮-{于}-龍女](../Page/鮮于龍女.md "wikilink")              | **羅日蘭** | [汪世瑋](../Page/汪世瑋.md "wikilink")                    | 優家奶奶與劣家新奶奶 |
+| [李　本](https://zh.wikipedia.org/wiki/李本 "wikilink")  | **優　本** | [汪世瑋](../Page/汪世瑋.md "wikilink")                    | 優家阿姨與劣家新阿姨 |
+|                                                     |         |                                                     |            |
 
 ### 劣等家族
 
@@ -50,7 +50,7 @@ production_website = | 台灣名稱 = 歡樂一家親 }}
 | --------------------------------------------------- | ------- | -------------------------------- | ---------- |
 | **演員**                                              | **角色**  | **國語配音**                         | **介紹**     |
 | [安奭奐](../Page/安奭奐.md "wikilink")                    | **劣錫煥** | [李景唐](../Page/李景唐.md "wikilink") | 劣家爸爸,優家新爸爸 |
-| [朴喜本](https://zh.wikipedia.org/wiki/朴喜本 "wikilink") | **劣希鳳** | [汪世瑋](../Page/汪世瑋.md "wikilink") | 劣家大女兒      |
+| [朴喜本](../Page/朴喜本.md "wikilink")                    | **劣希鳳** | [汪世瑋](../Page/汪世瑋.md "wikilink") | 劣家大女兒      |
 | [崔宇植](../Page/崔宇植.md "wikilink")                    | **劣宇鳳** | [何志威](../Page/何志威.md "wikilink") | 劣家大兒子      |
 | [金丹律](https://zh.wikipedia.org/wiki/金丹律 "wikilink") | **劣末鳳** | [汪世瑋](../Page/汪世瑋.md "wikilink") | 劣家小兒子      |
 | [南能美](https://zh.wikipedia.org/wiki/南能美 "wikilink") | **宮愛子** | [汪世瑋](../Page/汪世瑋.md "wikilink") | 劣家奶奶,優家新奶奶 |
@@ -72,7 +72,7 @@ production_website = | 台灣名稱 = 歡樂一家親 }}
 | **演員**                                              | **角色** | **國語配音**                         | **介紹**    |
 | [朴成光](https://zh.wikipedia.org/wiki/朴成光 "wikilink") | 乞丐     |                                  | 沒用二人幫     |
 | [金東凡](https://zh.wikipedia.org/wiki/金東凡 "wikilink") | 鐵臭蟲    |                                  | 沒用二人幫     |
-| [王智媛](https://zh.wikipedia.org/wiki/王智媛 "wikilink") |        | [魏晶琦](../Page/魏晶琦.md "wikilink") | 青少年收容所女講師 |
+| [王智媛](../Page/王智媛.md "wikilink")                    |        | [魏晶琦](../Page/魏晶琦.md "wikilink") | 青少年收容所女講師 |
 | [金栽經](../Page/金栽經.md "wikilink")                    | 尹郁美    |                                  |           |
 
 ## 同時段競爭劇集

@@ -21,7 +21,7 @@
 
 ### 與[智慧型手機連動](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")
 
-在日本，[Android和](../Page/Android.md "wikilink")[iOS都有對應名為](../Page/iOS.md "wikilink")「アーマード・コア
+在日本，[Android和](../Page/Android.md "wikilink")[iOS都有對應名為](https://zh.wikipedia.org/wiki/iOS "wikilink")「アーマード・コア
 Ｖ
 パーツライブラリー(機戰傭兵V零件[函式庫](../Page/函式庫.md "wikilink"))」的[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")\[13\]。
 
@@ -41,7 +41,7 @@ Software才打破沉默](https://zh.wikipedia.org/wiki/From_Software "wikilink")
 LIVE\[17\]最後都會讓三人擺出ACV三個字的姿勢。
 
 起因是[From
-Software在](https://zh.wikipedia.org/wiki/From_Software "wikilink")2009年推出[惡魔靈魂](https://zh.wikipedia.org/wiki/惡魔靈魂 "wikilink")，當初曾因為背離潮流而不被看好，後來卻傳出口碑叫好叫座\[18\]，從歐美紅回日本。跟[From
+Software在](https://zh.wikipedia.org/wiki/From_Software "wikilink")2009年推出[惡魔靈魂](../Page/惡魔靈魂.md "wikilink")，當初曾因為背離潮流而不被看好，後來卻傳出口碑叫好叫座\[18\]，從歐美紅回日本。跟[From
 Software有業務往來的日本玩具巨擎](https://zh.wikipedia.org/wiki/From_Software "wikilink")[萬代南夢宮因此表達了合作意願](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")，可以提供資金與全球經銷－只要能做出全球都能賣的大作。
 
 [From

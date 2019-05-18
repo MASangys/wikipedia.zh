@@ -1,6 +1,6 @@
 《**777 ～We can sing a
 song\!～**》是[日本的](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")33张[单曲](../Page/单曲.md "wikilink")。2012年7月25日由[avex
-trax发售](../Page/avex_trax.md "wikilink")。
+trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -16,7 +16,7 @@ trax发售](../Page/avex_trax.md "wikilink")。
     shop限定盤」。「CD+DVD（Jacket A）」收錄了「777 ～We can sing a
     song\!～」的PV和Making。
   - 在8月6日於公信榜单曲週排行榜取得第4位。
-  - 在第54屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」，同年年末在[第63回NHK紅白歌合戰演唱其歌曲](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")。
+  - 在第54屆[日本唱片大獎獲得](../Page/日本唱片大獎.md "wikilink")「優秀作品獎」，同年年末在[第63回NHK紅白歌合戰演唱其歌曲](../Page/第63回NHK紅白歌合戰.md "wikilink")。
 
 ## 收錄内容
 

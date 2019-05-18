@@ -1,4 +1,4 @@
-**FIESTAR**（）為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人女子團體，成員來自韓國和中國，每位成員都歷經了至少四年的練習生生涯，成員為[金珍希](https://zh.wikipedia.org/wiki/金珍希 "wikilink")（Jei）、[曹璐](../Page/曹璐.md "wikilink")、[金惠美](https://zh.wikipedia.org/wiki/金惠美 "wikilink")（惠美）、[林珉志](https://zh.wikipedia.org/wiki/林珉志 "wikilink")（Linzy）、[利禮智](https://zh.wikipedia.org/wiki/Yezi "wikilink")（Yezi），經紀公司為[Fave
+**FIESTAR**（）為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人女子團體，成員來自韓國和中國，每位成員都歷經了至少四年的練習生生涯，成員為[金珍希](https://zh.wikipedia.org/wiki/金珍希 "wikilink")（Jei）、[曹璐](../Page/曹璐.md "wikilink")、[金惠美](https://zh.wikipedia.org/wiki/金惠美 "wikilink")（惠美）、[林珉志](https://zh.wikipedia.org/wiki/林珉志 "wikilink")（Linzy）、[利禮智](../Page/Yezi.md "wikilink")（Yezi），經紀公司為[Fave
 Entertainment](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]。曾和[IU等前輩一起組成Loen](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")
 Tree，為公司發行夏日特別專輯《夏日故事》（Summer Story）。
 
@@ -59,15 +59,14 @@ More)》\[13\]的MV。不過在剛開始宣傳期時，歌曲未能通過其中�
 
 2015年3月4日，FIESTAR帶著首張迷你專輯《Black Label》回歸，公開主打曲〈You're
 Pitiful（짠해）〉\[20\]的音樂錄影帶。而正式的音樂節目宣傳打歌活動，將從3月3日的《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》開始
-\[21\]。
+SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》開始 \[21\]。
 
 ### 2016年：禮智個人出道、第二張迷你專輯《 A Delicate Sense》、第二張數位單曲《Apple Pie》\[22\]
 
 經紀公司[LOEN
 Entertainment在](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")1月21日透過
 FIESTAR 官方 Facebook 公開，禮智首張個人單曲《Foresight Dream》曲目表，整張單曲由 [Brand New
-Music創辦人Rhymer擔任製作人](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")，主打歌〈Cider〉也是
+Music創辦人Rhymer擔任製作人](../Page/Brand_New_Music.md "wikilink")，主打歌〈Cider〉也是
 Rhymer 的作品，而禮智參與所有歌曲的填詞。
 
 除此之外，禮智因出演 Mnet《[Unpretty Rapstar
@@ -91,7 +90,7 @@ Champion](../Page/Show_Champion.md "wikilink")》献唱专辑主打歌《Mirror�
 
 2016年5月18日，僅闊別將近三個月，Fiestar再次透過官方臉書、Twitter以及Instagram公開回歸日期(2016年5月31日)、回歸概念照以及數碼單曲《Apple
 Pie》\[25\]，並在2016年5月31日在《[THE
-SHOW](https://zh.wikipedia.org/wiki/THE_SHOW_\(SBS_MTV節目\) "wikilink")》舞台上展開回歸歌曲宣傳。
+SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》舞台上展開回歸歌曲宣傳。
 
 2016年5月28日，Fiestar获得出演《[2016 Special M\!Countdown in
 China(亞洲強音盛典)](https://zh.wikipedia.org/wiki/M!_Countdown世界特別巡迴演出版 "wikilink")》的机会，演唱了《Mirror》及出道歌曲《Vista》，同时曹璐也担任当晚演唱会的MC之一。
@@ -110,7 +109,7 @@ Su Namum》。
 2017年5月17日，經紀公司在官方平台公開《ANCK SU NAMUM》的兩張概念照。\[28\]18日，公開第二波概念照。\[29\]
 
 2017年5月24日，禮智第三張張個人單曲《Anck Su
-Namum\[30\]》在韓國時間下午6時正式公开，禮智在出道後首次擔任製作人，參與整張單曲的作詞作曲，與[新沙洞老虎擔任共同製作人](https://zh.wikipedia.org/wiki/新沙洞老虎 "wikilink")。
+Namum\[30\]》在韓國時間下午6時正式公开，禮智在出道後首次擔任製作人，參與整張單曲的作詞作曲，與[新沙洞老虎擔任共同製作人](../Page/新沙洞老虎.md "wikilink")。
 
 2017年10月17日，Linzy確定出演音樂劇《光化門戀歌》並公開海報，飾演年輕的秀兒，18日公開坐位表和演出表\[31\]。同日，經紀公司在官方平台宣佈惠美將在10月26日正午公開《我的心是這樣》的音源，與作曲家KAZEF合作，並發出海報\[32\]。
 
@@ -344,7 +343,7 @@ PlotData =
 <ul>
 <li>發行日期：2017年4月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/普通話" title="wikilink">普通話</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/乐华娱乐" title="wikilink">樂華娛樂</a></li>
+<li>發行公司：<a href="../Page/乐华娱乐.md" title="wikilink">樂華娛樂</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -428,7 +427,7 @@ PlotData =
 | ------ | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **日期** | **歌曲名**                   | **歌手** | **备注**                                                                                                                                                 |
 | 2010   | I'm Sorry                 | Linzy  | 《[婦產科](../Page/婦產科_\(電視劇\).md "wikilink")》OST                                                                                                          |
-| 2014   | What My Heart Want to Say | Linzy  | 《[Hi\! School - Love On](https://zh.wikipedia.org/wiki/Hi!_School_-_Love_On "wikilink")》OST                                                            |
+| 2014   | What My Heart Want to Say | Linzy  | 《[Hi\! School - Love On](../Page/Hi!_School_-_Love_On.md "wikilink")》OST                                                                               |
 | 2015   | Miraculous Ladybug        | 全體     | 《Miraculous Ladybug》OST                                                                                                                                |
 | 2015   | Save Me Tarzan            | 全體     | 《Golden Tower》OST                                                                                                                                      |
 | 2016   | \#Like                    | 全體     | Centerpole 廣告歌                                                                                                                                         |
@@ -439,16 +438,16 @@ PlotData =
 
 ### 合作歌曲
 
-|        |                          |             |                                                                                                                                                                                 |
-| ------ | ------------------------ | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **日期** | **歌曲名**                  | **歌手**      | **备注**                                                                                                                                                                          |
-| 2014   | 会没事的这句话                  | 惠美          | 为[MBLAQ献唱](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")                                                                                                                      |
-| 2014   | Such a Women             | Yezi、Cheska | 为Zia说唱                                                                                                                                                                          |
-| 2017   | 為什麼又是春天                  | 曹璐          | 與[GFRIEND](https://zh.wikipedia.org/wiki/GFRIEND "wikilink") [Yerin](https://zh.wikipedia.org/wiki/Yerin "wikilink") ,[Kisum合作](https://zh.wikipedia.org/wiki/Kisum "wikilink") |
-| 2017   | Dumb Love                | Linzy       | featuring [張寒星](https://zh.wikipedia.org/wiki/Ledapple "wikilink")                                                                                                              |
-| 2017   | 逃跑                       | Yezi        | 與 Sool J, ULTIMA 合作                                                                                                                                                             |
-| 2017   | 소복소복                     | Yezi        | featuring [金昭希](../Page/金昭希.md "wikilink")                                                                                                                                      |
-| 2018   | \[SR Project Vol.5\] 我愛你 | Yezi        | 與Jungin合作                                                                                                                                                                       |
+|        |                          |             |                                                                                                                        |
+| ------ | ------------------------ | ----------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **日期** | **歌曲名**                  | **歌手**      | **备注**                                                                                                                 |
+| 2014   | 会没事的这句话                  | 惠美          | 为[MBLAQ献唱](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")                                                             |
+| 2014   | Such a Women             | Yezi、Cheska | 为Zia说唱                                                                                                                 |
+| 2017   | 為什麼又是春天                  | 曹璐          | 與[GFRIEND](../Page/GFRIEND.md "wikilink") [Yerin](../Page/Yerin.md "wikilink") ,[Kisum合作](../Page/Kisum.md "wikilink") |
+| 2017   | Dumb Love                | Linzy       | featuring [張寒星](https://zh.wikipedia.org/wiki/Ledapple "wikilink")                                                     |
+| 2017   | 逃跑                       | Yezi        | 與 Sool J, ULTIMA 合作                                                                                                    |
+| 2017   | 소복소복                     | Yezi        | featuring [金昭希](../Page/金昭希.md "wikilink")                                                                             |
+| 2018   | \[SR Project Vol.5\] 我愛你 | Yezi        | 與Jungin合作                                                                                                              |
 
 ### 其它音乐作品
 
@@ -457,7 +456,7 @@ PlotData =
 | **日期** | **歌曲名**         | **歌手**          | **备注**                                                                                          |
 | 2005   | 猫咪              | 曹璐              | 中国出道歌曲                                                                                          |
 | 2016   | Good Time       | 曹璐, Linzy, Yezi | 於[Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") 第36集翻唱, 並公開音源 |
-| 2016   | GoodBye Romance | 惠美              | 於[Girl Spirit第八集翻唱](https://zh.wikipedia.org/wiki/Girl_Spirit "wikilink"), 並公開音源                |
+| 2016   | GoodBye Romance | 惠美              | 於[Girl Spirit第八集翻唱](../Page/Girl_Spirit.md "wikilink"), 並公開音源                                   |
 | 2017   | 即使恨也愛你          | Yezi            | [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink") 第111集                                                  |
 |        |                 |                 |                                                                                                 |
 
@@ -467,11 +466,11 @@ PlotData =
 
 |  年份   |                         電視台                         |                              劇名                               | 出演成員 |   角色   |     性質     |
 | :---: | :-------------------------------------------------: | :-----------------------------------------------------------: | :--: | :----: | :--------: |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |     [漂亮男人](https://zh.wikipedia.org/wiki/漂亮男人 "wikilink")     | Jei  |  崔道熙   |     配角     |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |              [漂亮男人](../Page/漂亮男人.md "wikilink")               | Jei  |  崔道熙   |     配角     |
 | 2014年 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink") |     [剩餘公主](https://zh.wikipedia.org/wiki/剩餘公主 "wikilink")     | Jei  |  韓菊子   |     客串     |
 | 2014年 |       [SBS](../Page/SBS_\(韓國\).md "wikilink")       | [對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink") |  全體  | ANA练习生 |     客串     |
 | 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |                        Mental Shooter                         |  全体  |        | Linzy擔任女主角 |
-| 2015年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |     [超人時代](https://zh.wikipedia.org/wiki/超人時代 "wikilink")     | Jei  |  少女嚴枝  |     客串     |
+| 2015年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |              [超人時代](../Page/超人時代.md "wikilink")               | Jei  |  少女嚴枝  |     客串     |
 | 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |          [媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")          | Jei  | 嚴東俊女友  |     客串     |
 | 2016年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") |             [吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")              | Jei  |   世拉   |     配角     |
 | 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |          [Missing9](../Page/Missing9.md "wikilink")           |  曹璐  |   蔡敏   |     配角     |
@@ -523,15 +522,15 @@ PlotData =
 | 2012年11月11日-12月30日     | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [The Romantic & Idol](https://zh.wikipedia.org/wiki/The_Romantic_&_Idol "wikilink") | Jei    | 8  |
 | 2015年6月19日－9月4日        | MBC                                                 | [秘密武器 她](../Page/秘密武器_她.md "wikilink")                                              | Jei,曹璐 | 12 |
 | 2015年9月11日－11月13日      | Mnet                                                | [Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")   | 禮智     | 10 |
-| 2016年2月21日－4月10日       | MBC                                                 | [真正的男人](https://zh.wikipedia.org/wiki/真正的男人 "wikilink")（女軍特輯4）                      | 曹璐     | 8  |
+| 2016年2月21日－4月10日       | MBC                                                 | [真正的男人](../Page/真正的男人.md "wikilink")（女軍特輯4）                                         | 曹璐     | 8  |
 | 2016年3月5日－ 9月24日       | MBC                                                 | [我們結婚了](../Page/我們結婚了.md "wikilink")                                                | 29     |    |
 | 2016年6月14日－9月6日        | K STAR                                              | [任意演員](https://zh.wikipedia.org/wiki/任意演員 "wikilink")                               | 13     |    |
-| 2016年7月12日-10月11日      | MBC Every1                                          | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")                   | 曹璐     | 14 |
-| 2016年7月19日－9月27日       | JTBC                                                | [Girl Spirit](https://zh.wikipedia.org/wiki/Girl_Spirit "wikilink")                 | 惠美     | 11 |
+| 2016年7月12日-10月11日      | MBC Every1                                          | [Video Star](../Page/Video_Star.md "wikilink")                                      | 曹璐     | 14 |
+| 2016年7月19日－9月27日       | JTBC                                                | [Girl Spirit](../Page/Girl_Spirit.md "wikilink")                                    | 惠美     | 11 |
 | 2016年10月18日－2017年1月17日 | JTBC                                                | [嘻哈民族第二季](https://zh.wikipedia.org/wiki/嘻哈民族第二季 "wikilink")                         | 禮智     | 14 |
-| 2017年1月2日－2017年1月30日   | [MBig TV](../Page/MBig_TV.md "wikilink")            | [實話實說放開吃](https://zh.wikipedia.org/wiki/實話實說放開吃 "wikilink")                         | 曹璐     | 5  |
-| 2017年1月23日-2017年4月10日  | E channel                                           | [試吃的少女們](https://zh.wikipedia.org/wiki/試吃的少女們 "wikilink")                           | 12     |    |
-| 2017年7月22日-2017年8月14日  | MBC                                                 | [哥哥的想法](https://zh.wikipedia.org/wiki/哥哥的想法 "wikilink")                             | 4      |    |
+| 2017年1月2日－2017年1月30日   | [MBig TV](../Page/MBig_TV.md "wikilink")            | [實話實說放開吃](../Page/實話實說放開吃.md "wikilink")                                            | 曹璐     | 5  |
+| 2017年1月23日-2017年4月10日  | E channel                                           | [試吃的少女們](../Page/試吃的少女們.md "wikilink")                                              | 12     |    |
+| 2017年7月22日-2017年8月14日  | MBC                                                 | [哥哥的想法](../Page/哥哥的想法.md "wikilink")                                                | 4      |    |
 | 2017年11月1日-2018年1月17日  | 優酷視頻                                                | 火星研究院 第一季                                                                           | 12     |    |
 |                        |                                                     |                                                                                     |        |    |
 
@@ -546,7 +545,7 @@ PlotData =
 | 9月18日  | Arirang TV | [Simply K-POP](https://zh.wikipedia.org/wiki/Simply_K-POP "wikilink")   | 全體             |
 | 10月14日 | MBC        | [改變世界的問答](https://zh.wikipedia.org/wiki/改變世界的問答 "wikilink")             | Jei, Cheska    |
 | 11月4日  | KBS        | [Dream Team 2](https://zh.wikipedia.org/wiki/Dream_Team_2 "wikilink")   | 全體             |
-| 11月7日  | MBC every  | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")     | 全體             |
+| 11月7日  | MBC every  | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                        | 全體             |
 | 12月28日 | MBC Music  | [All The K-pop](https://zh.wikipedia.org/wiki/All_The_K-pop "wikilink") | 全體             |
 
 #### 2013年
@@ -569,7 +568,7 @@ PlotData =
 | 4月9日   | MBC Music  | [Idol Dance Battle D-Style](https://zh.wikipedia.org/wiki/Idol_Dance_Battle_D-Style "wikilink") | 禮智     |
 | 7月3日   | 1theK      | [Let's Dance](https://zh.wikipedia.org/wiki/Let's_Dance "wikilink")                             | 全體     |
 | 7月29日  | Arirang TV | [Pops in Seoul](https://zh.wikipedia.org/wiki/Pops_in_Seoul "wikilink")                         | 全體     |
-| 9月17日  | MBC every  | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")                             | 全體     |
+| 9月17日  | MBC every  | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                                                | 全體     |
 | 10月8日  | MBC every  | [Take 511](https://zh.wikipedia.org/wiki/Take_511 "wikilink")                                   | 曹璐，Jei |
 | 10月29日 | 湖南衛視       | [越淘越開心](https://zh.wikipedia.org/wiki/越淘越開心 "wikilink")                                         | 曹璐     |
 |        |            |                                                                                                 |        |
@@ -606,8 +605,8 @@ PlotData =
 | 2月27日               | SBS                                                               | [廚師們的旅行](https://zh.wikipedia.org/wiki/廚師們的旅行 "wikilink")                        |             |
 | 3月3日                | MBC                                                               | [偉大的遺產](../Page/偉大的遺產.md "wikilink")                                             |             |
 | 3月5日                | SBS                                                               | [廚師們的旅行](https://zh.wikipedia.org/wiki/廚師們的旅行 "wikilink")                        |             |
-| 3月8日                | tvN                                                               | [現場脫口秀Taxi](https://zh.wikipedia.org/wiki/現場脫口秀Taxi "wikilink")                  |             |
-| 3月9日                | MBC every                                                         | [Weekly Idol](https://zh.wikipedia.org/wiki/Weekly_Idol "wikilink")              | 全體          |
+| 3月8日                | tvN                                                               | [現場脫口秀Taxi](../Page/現場脫口秀Taxi.md "wikilink")                                     |             |
+| 3月9日                | MBC every                                                         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                                 | 全體          |
 | 3月9日                | Naver V app                                                       | [《mirror》V直播](https://zh.wikipedia.org/wiki/《mirror》V直播 "wikilink")              |             |
 | 3月10日               | 1theK                                                             | [ASK IN A BOX](https://zh.wikipedia.org/wiki/ASK_IN_A_BOX "wikilink")            |             |
 | 3月11日               | KBS2                                                              | [回頭看我](../Page/回頭看我.md "wikilink")                                               | 曹璐          |
@@ -615,9 +614,9 @@ PlotData =
 | 2月20日               | KBS2                                                              | [人類的條件——向著家](https://zh.wikipedia.org/wiki/人類的條件——向著家 "wikilink")                | 曹璐          |
 | 3月16日               | tvN                                                               | [周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                          |             |
 | 3月18日               | KBS2                                                              | [回頭看我](../Page/回頭看我.md "wikilink")                                               |             |
-| 3月21日               | FashionN                                                          | [Follow Me](https://zh.wikipedia.org/wiki/Follow_Me "wikilink")                  | Jei, 惠美     |
+| 3月21日               | FashionN                                                          | [Follow Me](../Page/Follow_Me.md "wikilink")                                     | Jei, 惠美     |
 | 3月21日               | Arirang TV                                                        | [Pops in Seoul](https://zh.wikipedia.org/wiki/Pops_in_Seoul "wikilink")          | 全體          |
-| 3月22日               | Arirang TV                                                        | [After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")  | 全體          |
+| 3月22日               | Arirang TV                                                        | [After School Club](../Page/After_School_Club.md "wikilink")                     | 全體          |
 | 4月30日、5月7日、6月11、18日 | MBC                                                               | [我的小電視](https://zh.wikipedia.org/wiki/我的小電視 "wikilink")                          | 曹璐          |
 | 6月17日               | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | [Simply K-Pop](https://zh.wikipedia.org/wiki/Simply_K-Pop "wikilink")            | 全體          |
 | 6月20日、27日           | [JTBC](../Page/JTBC.md "wikilink")                                | [拜托了冰箱](../Page/拜托了冰箱.md "wikilink")                                             | 曹璐、禮智       |
@@ -628,46 +627,46 @@ PlotData =
 | 8月9、16日             | K STAR                                                            | 任意演員                                                                             | Jei         |
 | 9月16日               | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")                        | Linzy       |
 | 9月22日               | MBC                                                               | Happy Pyramid 333                                                                | Linzy       |
-| 10月14、20日           | iMBC                                                              | [偶像的私生活](https://zh.wikipedia.org/wiki/偶像的私生活 "wikilink")                        |             |
+| 10月14、20日           | iMBC                                                              | [偶像的私生活](../Page/偶像的私生活.md "wikilink")                                           |             |
 | 10月15、22日           | MBC                                                               | [我的小電視](https://zh.wikipedia.org/wiki/我的小電視 "wikilink")                          | 曹璐          |
 | 11月2日               | tvN                                                               | [周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                          |             |
 | 11月27日              | MBC                                                               | [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                         |             |
 | 12月1日               | JTBC                                                              | [我要開動了](https://zh.wikipedia.org/wiki/我要開動了 "wikilink")                          |             |
 | 12月22日              | MBC                                                               | [歡樂在一起](../Page/歡樂在一起.md "wikilink")                                             |             |
-| 12月28日              | KBS                                                               | [TRICK\&TRUE](https://zh.wikipedia.org/wiki/TRICK&TRUE "wikilink")               |             |
+| 12月28日              | KBS                                                               | [TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")                                  |             |
 
 #### 2017年
 
-|             |            |                                                                    |       |
-| ----------- | ---------- | ------------------------------------------------------------------ | ----- |
-| 日期          | 頻道         | 名稱                                                                 | 出演成員  |
-| 1月25日       | KBS        | [TRICK\&TRUE](https://zh.wikipedia.org/wiki/TRICK&TRUE "wikilink") | 曹璐    |
-| 1月28日       | JTBC       | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                               |       |
-| 2月5、12日     | SBS        | [花樣旅行](../Page/花樣旅行.md "wikilink")                                 |       |
-| 2月6日        | KBS        | [大國民脫口秀-你好](https://zh.wikipedia.org/wiki/大國民脫口秀-你好 "wikilink")    |       |
-| 3月20日       | tvN        | [把便利店掏空吧](https://zh.wikipedia.org/wiki/把便利店掏空吧 "wikilink")        |       |
-| 4月20日、5月4日  | Mnet       | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")          |       |
-| 4月27日       | Mnet       | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")          | 禮智    |
-| 5月14日       | MBC        | [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                           |       |
-| 6月27日       | MBC        | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")  | 曹璐    |
-| 7月21日       | tvN        | 수상한 가수(Shadow Singer)                                              |       |
-| 7月26日       | SBS        | [英才發掘團](https://zh.wikipedia.org/wiki/英才發掘團 "wikilink")            |       |
-| 7月27日       | 優酷視頻       | 舉杯呵呵喝                                                              |       |
-| 8月4日        | TV朝鮮       | [英雄三國志](https://zh.wikipedia.org/wiki/英雄三國志 "wikilink")            |       |
-| 8月5日        | Channel A  | [給狗糧的男人2](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")         |       |
-| 8月18日-9月15日 | SBS        | [白鐘元的快餐車](https://zh.wikipedia.org/wiki/白鍾元的三大天王 "wikilink")       |       |
-| 8月21日       | Channel A  | 道聽途說秀                                                              |       |
-| 8月24日       | Comedy TV  | 신상터는녀석들                                                            |       |
-| 8月25日       | MBC        | Ranking 123                                                        |       |
-| 8月27日       | JTBC       | [夜行鬼怪](https://zh.wikipedia.org/wiki/夜行鬼怪 "wikilink")              |       |
-| 8月29日       | MBC Every1 | Video Star                                                         | 禮智    |
-| 9月1日        | MBC        | Ranking 123                                                        | 曹璐    |
-| 9月2日        | MBC Music  | 偶像導遊                                                               | 曹璐、禮智 |
-| 9月2日        | MBC        | [世界上所有放送](https://zh.wikipedia.org/wiki/世界上所有放送 "wikilink")        | 曹璐    |
-| 9月15日       | JTBC       | 錢 國民計畫—Super Rich2                                                 |       |
-| 9月20日       | MBC Music  | THE BOYZ 花美男小吃店                                                    |       |
-| 10月7日       | Channel A  | 給狗糧的男人2                                                            |       |
-| 11月17日      | MBC        | 世界上所有放送                                                            |       |
+|             |            |                                                              |       |
+| ----------- | ---------- | ------------------------------------------------------------ | ----- |
+| 日期          | 頻道         | 名稱                                                           | 出演成員  |
+| 1月25日       | KBS        | [TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")              | 曹璐    |
+| 1月28日       | JTBC       | [認識的哥哥](../Page/認識的哥哥.md "wikilink")                         |       |
+| 2月5、12日     | SBS        | [花樣旅行](../Page/花樣旅行.md "wikilink")                           |       |
+| 2月6日        | KBS        | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                 |       |
+| 3月20日       | tvN        | [把便利店掏空吧](../Page/把便利店掏空吧.md "wikilink")                     |       |
+| 4月20日、5月4日  | Mnet       | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")    |       |
+| 4月27日       | Mnet       | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")    | 禮智    |
+| 5月14日       | MBC        | [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                     |       |
+| 6月27日       | MBC        | [Video Star](../Page/Video_Star.md "wikilink")               | 曹璐    |
+| 7月21日       | tvN        | 수상한 가수(Shadow Singer)                                        |       |
+| 7月26日       | SBS        | [英才發掘團](../Page/英才發掘團.md "wikilink")                         |       |
+| 7月27日       | 優酷視頻       | 舉杯呵呵喝                                                        |       |
+| 8月4日        | TV朝鮮       | [英雄三國志](../Page/英雄三國志.md "wikilink")                         |       |
+| 8月5日        | Channel A  | [給狗糧的男人2](https://zh.wikipedia.org/wiki/給狗糧的男人 "wikilink")   |       |
+| 8月18日-9月15日 | SBS        | [白鐘元的快餐車](https://zh.wikipedia.org/wiki/白鍾元的三大天王 "wikilink") |       |
+| 8月21日       | Channel A  | 道聽途說秀                                                        |       |
+| 8月24日       | Comedy TV  | 신상터는녀석들                                                      |       |
+| 8月25日       | MBC        | Ranking 123                                                  |       |
+| 8月27日       | JTBC       | [夜行鬼怪](../Page/夜行鬼怪.md "wikilink")                           |       |
+| 8月29日       | MBC Every1 | Video Star                                                   | 禮智    |
+| 9月1日        | MBC        | Ranking 123                                                  | 曹璐    |
+| 9月2日        | MBC Music  | 偶像導遊                                                         | 曹璐、禮智 |
+| 9月2日        | MBC        | [世界上所有放送](../Page/世界上所有放送.md "wikilink")                     | 曹璐    |
+| 9月15日       | JTBC       | 錢 國民計畫—Super Rich2                                           |       |
+| 9月20日       | MBC Music  | THE BOYZ 花美男小吃店                                              |       |
+| 10月7日       | Channel A  | 給狗糧的男人2                                                      |       |
+| 11月17日      | MBC        | 世界上所有放送                                                      |       |
 
 ### 參與音樂MV
 
@@ -726,7 +725,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>7月8日、7月15日、8月15日</p></td>
 </tr>
@@ -761,7 +760,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>3月3日、3月10日、3月17日、3月31日、4月21日</p></td>
 </tr>
@@ -831,7 +830,7 @@ PlotData =
 <td><p>3月13日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>3月15日、3月22日、3月29日</p></td>
 </tr>
@@ -846,7 +845,7 @@ PlotData =
 <td><p>3月9日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>3月15日</p></td>
 </tr>
@@ -856,7 +855,7 @@ PlotData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW_(SBS_MTV節目)" title="wikilink">THE SHOW</a></p></td>
+<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
 <td></td>
 <td><p>5月31日、6月14日</p></td>
 </tr>

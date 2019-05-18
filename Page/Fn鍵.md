@@ -1,9 +1,9 @@
 [Keyboard_fn_key.png](https://zh.wikipedia.org/wiki/File:Keyboard_fn_key.png "fig:Keyboard_fn_key.png")
-**Fn键**（Fn为**F**u**n**ction的缩写）是许多[电脑键盘上采用的一个](../Page/电脑键盘.md "wikilink")[修饰键](https://zh.wikipedia.org/wiki/修饰键 "wikilink")，常见于[苹果标准键盘和一些](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")[笔记本电脑键盘](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。它的功能主要是在紧凑布局中以[组合键方式决定更多一键两义的按键](https://zh.wikipedia.org/wiki/组合键 "wikilink")。在许多全尺寸的“多媒体”键盘上它也作为键，主要配合特定按键来快速更改显示、音频等[硬件设置](../Page/硬件.md "wikilink")，或者进行多媒体控制，例如调整亮度、音量、播放控制（播放/暂停/上一首/下一首）、弹出[光驱等](https://zh.wikipedia.org/wiki/光驱 "wikilink")。
+**Fn键**（Fn为**F**u**n**ction的缩写）是许多[电脑键盘上采用的一个](../Page/电脑键盘.md "wikilink")[修饰键](../Page/修饰键.md "wikilink")，常见于[苹果标准键盘和一些](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")[笔记本电脑键盘](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。它的功能主要是在紧凑布局中以[组合键方式决定更多一键两义的按键](https://zh.wikipedia.org/wiki/组合键 "wikilink")。在许多全尺寸的“多媒体”键盘上它也作为键，主要配合特定按键来快速更改显示、音频等[硬件设置](../Page/硬件.md "wikilink")，或者进行多媒体控制，例如调整亮度、音量、播放控制（播放/暂停/上一首/下一首）、弹出[光驱等](https://zh.wikipedia.org/wiki/光驱 "wikilink")。
 
 ## 作用
 
-Fn键可以在[Windows笔记本电脑中用于调节相应硬件设置](https://zh.wikipedia.org/wiki/Windows "wikilink")，如[屏幕亮度](https://zh.wikipedia.org/wiki/屏幕 "wikilink")、聲音大小等。\[1\]在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac产品中](../Page/Mac.md "wikilink")，双击可启用听写。
+Fn键可以在[Windows笔记本电脑中用于调节相应硬件设置](https://zh.wikipedia.org/wiki/Windows "wikilink")，如[屏幕亮度](https://zh.wikipedia.org/wiki/屏幕 "wikilink")、聲音大小等。\[1\]在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac产品中](https://zh.wikipedia.org/wiki/Mac "wikilink")，双击可启用听写。
 
 ### 在OS X系统下的快捷键
 

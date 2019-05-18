@@ -1,5 +1,5 @@
 **Panzerfaust
-3**（，意為：裝甲拳／鐵拳，簡稱：PzF；又稱：鐵拳3或鐵拳3式）是一款由[德国](../Page/德国.md "wikilink")-{[狄那米特—諾貝爾炸藥公司](https://zh.wikipedia.org/wiki/狄那米特—諾貝爾炸藥公司 "wikilink")}-在1978年6月至1985年研制和生產、1992年投入[德國聯邦國防軍服役的現代化的一次性型](../Page/德國聯邦國防軍.md "wikilink")[無後座](../Page/无后座力炮.md "wikilink")[火箭筒](https://zh.wikipedia.org/wiki/火箭弹发射器 "wikilink")，發射110毫米火箭[彈頭](../Page/彈頭.md "wikilink")。
+3**（，意為：裝甲拳／鐵拳，簡稱：PzF；又稱：鐵拳3或鐵拳3式）是一款由[德国](../Page/德国.md "wikilink")-{[狄那米特—諾貝爾炸藥公司](https://zh.wikipedia.org/wiki/狄那米特—諾貝爾炸藥公司 "wikilink")}-在1978年6月至1985年研制和生產、1992年投入[德國聯邦國防軍服役的現代化的一次性型](../Page/德國聯邦國防軍.md "wikilink")[無後座](../Page/无后座力炮.md "wikilink")[火箭筒](../Page/火箭弹发射器.md "wikilink")，發射110毫米火箭[彈頭](../Page/彈頭.md "wikilink")。
 
 1973年，PzF獲第一次發出的招標，以向西德[步兵發配一種有效對付當代](../Page/步兵.md "wikilink")[苏联裝甲部隊的](../Page/苏联.md "wikilink")[武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，從而取代已經屬於舊型號的[PzF
 44 Lanze火箭發射器](../Page/鐵拳44火箭筒.md "wikilink")。
@@ -16,7 +16,7 @@ Panzerfaust
 Panzerfaust
 3在[密閉空間內仍然能夠安全操作](https://zh.wikipedia.org/wiki/密閉空間 "wikilink")、發射，這是因為發射時不會出現明顯的[筒後噴火](https://zh.wikipedia.org/wiki/筒後噴火 "wikilink")。Panzerfaust
 3在發射管的後方填充了大量的[塑料顆粒](../Page/塑料.md "wikilink")，並在發射時通過所謂的無後座力的平衡質量原理將塑料顆粒從武器後方噴出，最大限度地減少了爆炸效果。從筒後噴出的塑料顆粒會分散起來，並且因為空氣阻力的關係而迅速放緩，因此Panzerfaust
-3能夠較會產生筒後噴火的武器（[火箭筒](https://zh.wikipedia.org/wiki/火箭弹发射器 "wikilink")、[无后座力炮或](../Page/无后座力炮.md "wikilink")[反坦克飛彈](https://zh.wikipedia.org/wiki/反坦克飛彈 "wikilink")）安全地在一個狹小、封閉的[空间](https://zh.wikipedia.org/wiki/空间 "wikilink")（[建筑物](../Page/建筑物.md "wikilink")、[壕溝](../Page/壕溝.md "wikilink")、[碉堡或](https://zh.wikipedia.org/wiki/碉堡 "wikilink")[載具內](https://zh.wikipedia.org/wiki/交通工具 "wikilink")）發射武器內的火箭彈，以及減少發射以後因非常明亮的噴焰和／或揚起的塵土和煙霧而被敵方發現的機會。雖然其發射時的安全距離為10[公尺](../Page/米_\(单位\).md "wikilink")（10.94[码](https://zh.wikipedia.org/wiki/码 "wikilink")，32.81[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")），但在德國聯邦國防軍的訓練之中仍然規定要更遠的距離。
+3能夠較會產生筒後噴火的武器（[火箭筒](../Page/火箭弹发射器.md "wikilink")、[无后座力炮或](../Page/无后座力炮.md "wikilink")[反坦克飛彈](https://zh.wikipedia.org/wiki/反坦克飛彈 "wikilink")）安全地在一個狹小、封閉的[空间](https://zh.wikipedia.org/wiki/空间 "wikilink")（[建筑物](../Page/建筑物.md "wikilink")、[壕溝](../Page/壕溝.md "wikilink")、[碉堡或](https://zh.wikipedia.org/wiki/碉堡 "wikilink")[載具內](https://zh.wikipedia.org/wiki/交通工具 "wikilink")）發射武器內的火箭彈，以及減少發射以後因非常明亮的噴焰和／或揚起的塵土和煙霧而被敵方發現的機會。雖然其發射時的安全距離為10[公尺](../Page/米_\(单位\).md "wikilink")（10.94[码](https://zh.wikipedia.org/wiki/码 "wikilink")，32.81[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")），但在德國聯邦國防軍的訓練之中仍然規定要更遠的距離。
 
 火箭彈尾部的火箭[发动机](../Page/发动机.md "wikilink")[推進劑通過](../Page/燃料.md "wikilink")[弹簧機構與槍機的連動在發射管內點燃起來](../Page/弹簧.md "wikilink")。當火箭彈從發射管中射出去之後，火箭彈首先會飛到一段安全的距離，然後才讓其火箭發動機點火，開始進行火箭噴射以提高到它的最大速度，以後它會持續飛行，直到撞擊物體或啟動[自毀引信](../Page/自爆.md "wikilink")。
 
@@ -134,7 +134,7 @@ Panzerfaust 3具有三種不同的版本：
 
 目前，Panzerfaust 3還可以使用一個新型瞄準具，商業名稱為Dynarange。Panzerfaust
 3已經被[德國聯邦國防軍所採用](../Page/德國聯邦國防軍.md "wikilink")，並且作為[德國未來士兵系統](https://zh.wikipedia.org/wiki/德國未來士兵系統 "wikilink")（，簡稱：IdZ）的一部分。從本質上講，這是一個由[電腦控制的瞄準具](../Page/電子計算機.md "wikilink")，內建[激光测距仪和](../Page/激光测距仪.md "wikilink")[彈道](../Page/弹道学.md "wikilink")[計算機](../Page/電子計算機.md "wikilink")。裝備它的目的是應對一些士兵難以操作常規瞄準具的事實，因為它的瞄準鏡對於未經訓練的眼睛而言實在是相當複雜的。此外，不論固定目標還是移動目標，Panzerfaust
-3的有效射程都會增加至600[公尺](../Page/米_\(单位\).md "wikilink")（656.17[码](https://zh.wikipedia.org/wiki/码 "wikilink")，1,968.5[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）。Dynarange並已經在[荷蘭軍隊](https://zh.wikipedia.org/wiki/荷蘭軍隊 "wikilink")（[荷蘭皇家陸軍](../Page/荷蘭皇家陸軍.md "wikilink")、[皇家海軍和](../Page/荷蘭皇家海軍.md "wikilink")[皇家海軍陸戰隊](../Page/荷蘭皇家海軍陸戰隊.md "wikilink")）之中服役。\[1\]
+3的有效射程都會增加至600[公尺](../Page/米_\(单位\).md "wikilink")（656.17[码](https://zh.wikipedia.org/wiki/码 "wikilink")，1,968.5[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）。Dynarange並已經在[荷蘭軍隊](../Page/荷蘭軍隊.md "wikilink")（[荷蘭皇家陸軍](../Page/荷蘭皇家陸軍.md "wikilink")、[皇家海軍和](../Page/荷蘭皇家海軍.md "wikilink")[皇家海軍陸戰隊](../Page/荷蘭皇家海軍陸戰隊.md "wikilink")）之中服役。\[1\]
 
 ## 附件
 

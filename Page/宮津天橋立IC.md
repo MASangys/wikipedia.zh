@@ -1,4 +1,4 @@
-**宮津天橋立IC**（平假名：みやづあまのはしだてインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市的](../Page/宮津市.md "wikilink")[京都縱貫自動車道與](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")[鳥取豐岡宮津自動車道之](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
+**宮津天橋立IC**（平假名：みやづあまのはしだてインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市的](../Page/宮津市.md "wikilink")[京都縱貫自動車道與](../Page/京都縱貫自動車道.md "wikilink")[鳥取豐岡宮津自動車道之](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路
 
@@ -17,7 +17,7 @@
   - 2001年1月 -
     [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC之間開始動工](../Page/與謝天橋立IC.md "wikilink")。
   - 2003年3月2日 -
-    [京都縱貫自動車道](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")[舞鶴大江IC至宮津天橋立IC之間開通](https://zh.wikipedia.org/wiki/舞鶴大江IC "wikilink")，此交流道也同時啟用，當時此交流道還沒有ETC設施。
+    [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[舞鶴大江IC至宮津天橋立IC之間開通](https://zh.wikipedia.org/wiki/舞鶴大江IC "wikilink")，此交流道也同時啟用，當時此交流道還沒有ETC設施。
   - 2008年9月13日 - 當時此交流道加設ETC設施。
   - 2011年3月12日 -
     [鳥取豐岡宮津自動車道宮津天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[與謝天橋立IC之間開通](../Page/與謝天橋立IC.md "wikilink")。
@@ -50,7 +50,7 @@
 
 ## 鄰近設施
 
-  - [京都縱貫自動車道](https://zh.wikipedia.org/wiki/京都縱貫自動車道 "wikilink")
+  - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")
     [舞鶴大江IC](https://zh.wikipedia.org/wiki/舞鶴大江IC "wikilink") -
     **宮津天橋立IC**
   - [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")

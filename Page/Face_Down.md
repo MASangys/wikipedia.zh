@@ -8,8 +8,8 @@ Storm發行](../Page/J_Storm.md "wikilink")。
 Heart](../Page/Wild_at_Heart.md "wikilink")》相隔3個月發售，是[嵐在](../Page/嵐.md "wikilink")2012年發行的第2張單曲，也是二個月連續發行單曲的第1張。單曲分為「通常盤」和「初回限定盤」，共兩種形式發售；其中「初回限定盤」附有收錄了《Face
 Down》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）的DVD和16頁的歌詞小冊子。
 
-嵐在[第63回NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/第63回NHK紅白歌合戰 "wikilink")《[Wild
-at Heart](../Page/Wild_at_Heart.md "wikilink")》和《Face Down》。
+嵐在[第63回NHK紅白歌合戰以組曲形式演唱](../Page/第63回NHK紅白歌合戰.md "wikilink")《[Wild at
+Heart](../Page/Wild_at_Heart.md "wikilink")》和《Face Down》。
 
 ## 歌曲
 

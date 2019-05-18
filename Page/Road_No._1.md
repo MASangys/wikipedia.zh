@@ -1,5 +1,5 @@
 《**Road No.
-1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](https://zh.wikipedia.org/wiki/崔民秀 "wikilink")、[孫暢敏主演](https://zh.wikipedia.org/wiki/孫暢敏 "wikilink")。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
+1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](../Page/崔民秀.md "wikilink")、[孫暢敏主演](../Page/孫暢敏.md "wikilink")。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
 
 ## 劇情
 
@@ -40,10 +40,10 @@
     **你追随金秀妍，而我追随你**
     陆军士官学校毕业的精英军官。为了继承曾参加光复军的父亲未尽的事业，进入陆军士官学校就读。刚被任命为军官就报名上了前线。他想作为军人获得成功，热爱祖国，坚信自己具备这样的素质和能力，非常自负。性情正直，按原则办事，端庄秀妍是他唯一想留在身边的女孩。但一次重要的作战因为秀妍而失败，他心怀秀妍是否真爱自己的疑虑投入了战斗。虽然与情敌莊雨事事发生冲突，但在生死与共的过程中，两人的感情发展为比兄弟还深的友情。
 
-### [韓國國軍](https://zh.wikipedia.org/wiki/韓國國軍 "wikilink")[第一師第一營第二連](https://zh.wikipedia.org/wiki/大韓民國第1步兵師 "wikilink")
+### [韓國國軍](https://zh.wikipedia.org/wiki/韓國國軍 "wikilink")[第一師第一營第二連](../Page/大韓民國第1步兵師.md "wikilink")
 
-  - [崔民秀](https://zh.wikipedia.org/wiki/崔民秀 "wikilink") 飾 **尹三秀**
-  - [孫暢敏](https://zh.wikipedia.org/wiki/孫暢敏 "wikilink") 飾 **吳鍾基**
+  - [崔民秀](../Page/崔民秀.md "wikilink") 飾 **尹三秀**
+  - [孫暢敏](../Page/孫暢敏.md "wikilink") 飾 **吳鍾基**
   - [李振成](https://zh.wikipedia.org/wiki/李振成 "wikilink") 飾 **曹仁濟**
   - [金正雲](https://zh.wikipedia.org/wiki/金正雲_\(韓國演員\) "wikilink") 飾
     **金秉九**
@@ -52,11 +52,11 @@
   - [金東坤](https://zh.wikipedia.org/wiki/金東坤 "wikilink") 飾 **金德實**
   - [朴冠植](https://zh.wikipedia.org/wiki/朴冠植 "wikilink") 飾 **金福秀**
   - [韓國振](https://zh.wikipedia.org/wiki/韓國振 "wikilink") 飾 **金尚國**
-  - [車賢宇](https://zh.wikipedia.org/wiki/車賢宇 "wikilink") 飾 **馬昌吉**
+  - [車賢宇](../Page/車賢宇.md "wikilink") 飾 **馬昌吉**
   - [吳大煥](https://zh.wikipedia.org/wiki/吳大煥 "wikilink") 飾 **朴文浩**
   - [申談秀](https://zh.wikipedia.org/wiki/申談秀 "wikilink") 飾 **李勤裴**
-  - [朴秉恩](https://zh.wikipedia.org/wiki/朴秉恩 "wikilink") 飾 **韓英民**
-  - [盧英學](https://zh.wikipedia.org/wiki/盧英學 "wikilink") 飾 **許燦植**
+  - [朴秉恩](../Page/朴秉恩.md "wikilink") 飾 **韓英民**
+  - [盧英學](../Page/盧英學.md "wikilink") 飾 **許燦植**
   - [金秀煥](https://zh.wikipedia.org/wiki/金秀煥 "wikilink") 飾 **于範真**
   - [趙完基](https://zh.wikipedia.org/wiki/趙完基 "wikilink") 飾 **朴洪基**
   - [文福基](https://zh.wikipedia.org/wiki/文福基 "wikilink") 飾 **朴達文**
@@ -80,7 +80,7 @@
   - [文彩元](../Page/文彩元.md "wikilink") 飾 **閔英真**
   - [鄭敬淏](../Page/鄭敬淏.md "wikilink") 飾 **印章店青年**
   - [張民虎](https://zh.wikipedia.org/wiki/張民虎 "wikilink") 飾 **李莊雨 (老年)**
-  - [崔佛岩](https://zh.wikipedia.org/wiki/崔佛岩 "wikilink") 飾 **申泰昊 (老年)**
+  - [崔佛岩](../Page/崔佛岩.md "wikilink") 飾 **申泰昊 (老年)**
   - [宋在熙](https://zh.wikipedia.org/wiki/宋在熙 "wikilink") 飾 **楊江泰**
   - [吳萬石](../Page/吳萬石.md "wikilink") 飾 **北韓軍人**
   - [金麗珍](../Page/金麗珍.md "wikilink") 飾 **2中隊傅隊員的妻子**

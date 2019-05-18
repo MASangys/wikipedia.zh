@@ -5,13 +5,13 @@ RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。\[1\]
 
 ## 簡介
 
-原本定于9月15日发行，但之后推迟到一周后的9月22日，这个日子是B'z出道日子的第二天，也是稻叶浩志自己40岁生日前一天。专辑收录[TBS電視台综艺节目](../Page/TBS電視台.md "wikilink")《》主题曲《[Wonderland](https://zh.wikipedia.org/wiki/Wonderland "wikilink")》（亦是單曲，但並未收錄2003年6月發行的[KI任何歌曲](https://zh.wikipedia.org/wiki/KI_\(稻叶浩志单曲\) "wikilink")），这首单曲发行一周即登上[Oricon公信榜周榜第一](../Page/Oricon公信榜.md "wikilink")。\[2\]
+原本定于9月15日发行，但之后推迟到一周后的9月22日，这个日子是B'z出道日子的第二天，也是稻叶浩志自己40岁生日前一天。专辑收录[TBS電視台综艺节目](../Page/TBS電視台.md "wikilink")《》主题曲《[Wonderland](../Page/Wonderland.md "wikilink")》（亦是單曲，但並未收錄2003年6月發行的[KI任何歌曲](https://zh.wikipedia.org/wiki/KI_\(稻叶浩志单曲\) "wikilink")），这首单曲发行一周即登上[Oricon公信榜周榜第一](../Page/Oricon公信榜.md "wikilink")。\[2\]
 
 ## 曲目
 
 ## 制作人员
 
-  - [稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")・全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")・[吉他](../Page/吉他.md "wikilink")（\#1.5.10.14）・[民谣吉他](https://zh.wikipedia.org/wiki/民谣吉他 "wikilink")（\#7.12）・[口琴](../Page/口琴.md "wikilink")（\#4.12）
+  - [稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")・全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")・[吉他](../Page/吉他.md "wikilink")（\#1.5.10.14）・[民谣吉他](../Page/民谣吉他.md "wikilink")（\#7.12）・[口琴](../Page/口琴.md "wikilink")（\#4.12）
   - [大賀好修](../Page/大賀好修.md "wikilink")：[滑音吉他](https://zh.wikipedia.org/wiki/滑音吉他 "wikilink")（\#2）・民谣吉他（\#2.6）・[电吉他](../Page/电吉他.md "wikilink")（\#6）・編曲（\#2.3.6）
   - 史蒂维·萨拉斯：作曲（\#4.8）・电吉他（\#2.6.12.13）・吉他（\#3.4.8.11）
   - 寺島良一：吉他（\#9）・編曲（\#9）

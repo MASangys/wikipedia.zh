@@ -9,7 +9,7 @@
     [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
 芳基醇脱氢酶
-(NADP<sup>+</sup>)的[等电点为](../Page/等电点.md "wikilink")5.2，在[pH值为](../Page/pH值.md "wikilink")6.1时活性最高。这种酶主要作用在芳基醇上，但也能作用于一些芳基醛，但不能还原芳基[酮](../Page/酮.md "wikilink")。现发现最适合芳基醇脱氢酶
+(NADP<sup>+</sup>)的[等电点为](../Page/等电点.md "wikilink")5.2，在[pH值为](https://zh.wikipedia.org/wiki/pH值 "wikilink")6.1时活性最高。这种酶主要作用在芳基醇上，但也能作用于一些芳基醛，但不能还原芳基[酮](../Page/酮.md "wikilink")。现发现最适合芳基醇脱氢酶
 (NADP<sup>+</sup>)的[底物是](https://zh.wikipedia.org/wiki/底物 "wikilink")[肉桂醛](../Page/肉桂醛.md "wikilink")。这种酶对[苯环上有](https://zh.wikipedia.org/wiki/苯环 "wikilink")[甲基](https://zh.wikipedia.org/wiki/甲基 "wikilink")[取代基的底物比有](../Page/取代基.md "wikilink")[羟基取代基的底物具有更强的特异性](../Page/羟基.md "wikilink")。\[1\]芳基醇脱氢酶
 (NADP<sup>+</sup>)能被[对-氯汞基苯甲酸盐](https://zh.wikipedia.org/wiki/对-氯汞基苯甲酸盐 "wikilink")（*p*-chloromercuribenzoate，pCMB）或[1,10-菲罗啉抑制](https://zh.wikipedia.org/wiki/邻菲罗啉 "wikilink")。\[2\]
 

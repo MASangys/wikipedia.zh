@@ -1,5 +1,5 @@
 是[萬代公司在](../Page/萬代.md "wikilink")1992年于[红白机平台上发行的一款](../Page/红白机.md "wikilink")[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")。本作改编自漫画《[七龙珠](../Page/七龙珠.md "wikilink")》,游戏的故事情节以漫画为主线并加入《[七龍珠Z
-最強對最強](https://zh.wikipedia.org/wiki/七龍珠Z_最強對最強 "wikilink")》情节。
+最強對最強](../Page/七龍珠Z_最強對最強.md "wikilink")》情节。
 
 ## 简介
 

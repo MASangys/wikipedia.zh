@@ -17,7 +17,7 @@
 ## 参看
 
   - [VL19型电力机车](../Page/VL19型电力机车.md "wikilink")
-  - [VL22型电力机车](https://zh.wikipedia.org/wiki/VL22型电力机车 "wikilink")
+  - [VL22型电力机车](../Page/VL22型电力机车.md "wikilink")
   - [苏联铁路Ss型电力机车](../Page/苏联铁路Ss型电力机车.md "wikilink")
 
 ## 参考文献

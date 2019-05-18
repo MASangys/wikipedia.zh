@@ -8,7 +8,7 @@ Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半�
 ## 主要特性
 
 1.  採用14納米製程；
-2.  支持[DDR4及](https://zh.wikipedia.org/wiki/DDR4_SDRAM "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")
+2.  支持[DDR4及](../Page/DDR4_SDRAM.md "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")
     [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
 3.  內建英特爾第九代[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")
 4.  移除EHCI主控，改为支持XHCI主控（Windows
@@ -55,10 +55,9 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
   - 支持Intel 技术
   - Core i3/i5/i7支援AVX2指令集；Pentium及Celeron只支援 SSE 4.1/4.2
 
-## 14奈米製程改進版：[Coffee Lake](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")
+## 14奈米製程改進版：[Coffee Lake](../Page/Coffee_Lake微架构.md "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")
 
-[Coffee
-Lake實為](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")[Kaby
+[Coffee Lake實為](../Page/Coffee_Lake微架构.md "wikilink")[Kaby
 Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby
 Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby
 Lake相比下約增加近40%左右。
@@ -106,7 +105,7 @@ Lake相比下約增加近40%左右。
   - 300系列PCH
 
 根據英特爾“[Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")”（鐘擺）時間表，下一代製程**Cannon
-Lake**（暫定）將採用[10納米製程](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，將於Skylake發布後一年半以內發布。Intel在2012年第三季度的[英特爾開發者論壇上表明](../Page/英特爾開發者論壇.md "wikilink")[7納米製程的晶片會在](https://zh.wikipedia.org/wiki/7纳米制程 "wikilink")2017年面世，[5納米製程的晶片則在](https://zh.wikipedia.org/wiki/5纳米制程 "wikilink")2019年。\[10\]
+Lake**（暫定）將採用[10納米製程](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，將於Skylake發布後一年半以內發布。Intel在2012年第三季度的[英特爾開發者論壇上表明](../Page/英特爾開發者論壇.md "wikilink")[7納米製程的晶片會在](../Page/7纳米制程.md "wikilink")2017年面世，[5納米製程的晶片則在](../Page/5纳米制程.md "wikilink")2019年。\[10\]
 
 但在2016年3月22日，Intel在財務報告中宣布，Tick
 Tock將放緩至三年一迴圈，即增加最佳化環節，進一步減緩實際更新的速度。目前的環節為：Process,

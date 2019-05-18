@@ -1,5 +1,5 @@
 [LAV-AD_1999_firing_DM-SD-00-02951.JPEG](https://zh.wikipedia.org/wiki/File:LAV-AD_1999_firing_DM-SD-00-02951.JPEG "fig:LAV-AD_1999_firing_DM-SD-00-02951.JPEG")
-**LAV-25裝甲車**為[美軍設計之八輪裝甲車](https://zh.wikipedia.org/wiki/美軍 "wikilink")，由通用地面系統公司製造，配有[M242](https://zh.wikipedia.org/wiki/M242巨蝮式鏈炮 "wikilink")
+**LAV-25裝甲車**為[美軍設計之八輪裝甲車](https://zh.wikipedia.org/wiki/美軍 "wikilink")，由通用地面系統公司製造，配有[M242](../Page/M242巨蝮式鏈炮.md "wikilink")
 25
 毫米機炮，[M2白朗寧重機槍](https://zh.wikipedia.org/wiki/M2白朗寧重機槍 "wikilink")，此車為[LAV-3的前身](https://zh.wikipedia.org/wiki/LAV-3 "wikilink")，目前依然是美軍主力車種，預計2015由[陸戰隊人員輸送車](../Page/陸戰隊人員輸送車.md "wikilink")（MPC）取代。
 

@@ -8,7 +8,7 @@ COMMUNICATION**』是[GLAY的第](../Page/GLAY.md "wikilink")22張[單曲](https
 
 ## 收錄曲
 
-全作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
+全作詞・作曲：[TAKURO](https://zh.wikipedia.org/wiki/TAKURO "wikilink")　編曲：GLAY、[佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
 
 1.  **GLOBAL COMMUNICATION**
 2.  **GOOD MORNING N.Y.C**

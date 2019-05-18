@@ -6,9 +6,9 @@
 
 ## 適用產品
 
-蘋果宣布2012年後的部分[iMac和](../Page/iMac.md "wikilink")[Mac
-mini型號可以使用](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")
-Fusion Drive 技术。操作系统仅支持[OS X Mountain
+蘋果宣布2012年後的部分[iMac和](https://zh.wikipedia.org/wiki/iMac "wikilink")[Mac
+mini型號可以使用](https://zh.wikipedia.org/wiki/Mac_mini "wikilink") Fusion
+Drive 技术。操作系统仅支持[OS X Mountain
 Lion或更新版本](../Page/OS_X_Mountain_Lion.md "wikilink")\[4\]。
 
 Fusion Drive 配置详情：

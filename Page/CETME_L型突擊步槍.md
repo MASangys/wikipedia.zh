@@ -8,7 +8,7 @@ G36E完全取代](https://zh.wikipedia.org/wiki/HK_G36 "wikilink")。
 E型。在經過持續的研究，並參考了多款歐美國家的成熟產品（如：[HK
 G41](../Page/HK_G41突擊步槍.md "wikilink")、[FN
 FNC和](https://zh.wikipedia.org/wiki/FN_FNC "wikilink")[M16](../Page/M16突擊步槍.md "wikilink")），賽特邁公司的小口徑步槍研製工作終在1980年完成，定型產品為CETME
-L型，5.56毫米口徑。在1981-1982年期間，賽特邁公司向[西班牙軍隊提供了約](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")1,000支L型突擊步槍進行試驗，在1984年又推出了L型突擊步槍的卡賓型，命名為LC型。1985年春季，L型和LC型正式投產並裝備西班牙軍隊，逐步替換原本的7.62毫米口徑[CETME自動步槍](https://zh.wikipedia.org/wiki/CETME自動步槍 "wikilink")。L型主要供步兵使用，而LC型則供給機械化部隊和[特種部隊使用](../Page/特種部隊.md "wikilink")。在1999年，這種步槍開始被HK
+L型，5.56毫米口徑。在1981-1982年期間，賽特邁公司向[西班牙軍隊提供了約](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")1,000支L型突擊步槍進行試驗，在1984年又推出了L型突擊步槍的卡賓型，命名為LC型。1985年春季，L型和LC型正式投產並裝備西班牙軍隊，逐步替換原本的7.62毫米口徑[CETME自動步槍](../Page/CETME自動步槍.md "wikilink")。L型主要供步兵使用，而LC型則供給機械化部隊和[特種部隊使用](../Page/特種部隊.md "wikilink")。在1999年，這種步槍開始被HK
 G36E突擊步槍逐步取代。但直至[2001年阿富汗戰爭和](../Page/阿富汗戰爭_\(2001年\).md "wikilink")[伊拉克戰爭當中仍然能夠看見此槍的蹤影](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。
 
 ## 設計
@@ -30,7 +30,7 @@ L型和LC型皆採用了簡單的L形翻轉式表尺，這表尺只有200米和4
 ### 槍管膛線
 
 槍管的膛線纏距有305 mm或178
-mm兩種，因此可以發射M193彈或SS109彈。但由於槍管內膛沒有鍍鉻，使得需要安裝[槍榴彈發射裝置才能發射](https://zh.wikipedia.org/wiki/槍榴彈 "wikilink")[22毫米槍榴彈](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")。
+mm兩種，因此可以發射M193彈或SS109彈。但由於槍管內膛沒有鍍鉻，使得需要安裝[槍榴彈發射裝置才能發射](https://zh.wikipedia.org/wiki/槍榴彈 "wikilink")[22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")。
 
 ### 槍管／槍托
 
@@ -51,8 +51,7 @@ L型步槍採用固定式塑料[槍托](../Page/槍托.md "wikilink")，因此�
   - [HK G41突擊步槍](../Page/HK_G41突擊步槍.md "wikilink")
   - [M16突擊步槍](../Page/M16突擊步槍.md "wikilink")
   - [FN FNC突擊步槍](../Page/FN_FNC突擊步槍.md "wikilink")
-  - [SIG SG
-    540突擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_540突擊步槍 "wikilink")
+  - [SIG SG 540突擊步槍](../Page/SIG_SG_540突擊步槍.md "wikilink")
 
 ## 參考資料
 

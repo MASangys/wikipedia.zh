@@ -1,5 +1,5 @@
 「**Electric
-Boy**」（）是[KARA的第](../Page/KARA.md "wikilink")7張單曲。2012年10月17日由[UNIVERSAL
+Boy**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")7張單曲。2012年10月17日由[UNIVERSAL
 SIGMA發售](../Page/环球唱片.md "wikilink")。
 
 ## 版本

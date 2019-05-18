@@ -40,13 +40,13 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 <td><center>
 <p>姜山</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/梁皓翔" title="wikilink">梁皓翔</a></p></td>
+<p><a href="../Page/梁皓翔.md" title="wikilink">梁皓翔</a></p></td>
 <td><p>海風集團姜大平的孫子，昌熙的中學同學。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/在喜.md" title="wikilink">在　喜</a><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/朴健泰" title="wikilink">朴健泰</a></small></p></td>
+<small>少年：<a href="../Page/朴健泰.md" title="wikilink">朴健泰</a></small></p></td>
 <td><center>
 <p>朴昌熙</p></td>
 <td><center>
@@ -166,7 +166,7 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 <tr class="even">
 <td><center>
 <p><a href="../Page/尹鍾和.md" title="wikilink">尹鍾和</a><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/徐榮柱" title="wikilink">徐榮柱</a></small></p></td>
+<small>少年：<a href="../Page/徐榮柱.md" title="wikilink">徐榮柱</a></small></p></td>
 <td><center>
 <p>張日文</p></td>
 <td><center>
@@ -175,7 +175,7 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/金圭哲" title="wikilink">金圭哲</a></p></td>
+<p><a href="../Page/金圭哲.md" title="wikilink">金圭哲</a></p></td>
 <td><center>
 <p>朴基柱</p></td>
 <td><center>
@@ -207,7 +207,7 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 <td><center>
 <p>尹靖宇</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><p>检察官，尹學秀的弟弟。</p></td>
 </tr>
 <tr class="odd">
@@ -221,7 +221,7 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/高仁範" title="wikilink">高仁範</a></p></td>
+<p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
 <td><center>
 <p>姜大平</p></td>
 <td><center>
@@ -230,7 +230,7 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鮮于在德" title="wikilink">鮮-{于}-在德</a></p></td>
+<p><a href="../Page/鮮于在德.md" title="wikilink">鮮-{于}-在德</a></p></td>
 <td><center>
 <p>尹學秀</p></td>
 <td></td>
@@ -288,25 +288,25 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 
 ### 台灣
 
-| 日期                    | 集數    | 收視率  | 備註                                                           |
-| --------------------- | ----- | ---- | ------------------------------------------------------------ |
-| 2013/12/18-2013/12/20 | 1-3   | 0.28 |                                                              |
-| 2013/12/26-2013/12/27 | 4-8   | 0.29 | [守護愛情](https://zh.wikipedia.org/wiki/聽見你的聲音 "wikilink")：0.53 |
-| 2013/12/30-2014/01/03 | 9-13  | 0.34 | [守護愛情](https://zh.wikipedia.org/wiki/聽見你的聲音 "wikilink")：0.49 |
-| 2014/01/06-2014/01/10 | 14-18 | 0.47 |                                                              |
-| 2014/01/13-2014/01/17 | 19-23 | 0.47 |                                                              |
-| 2014/01/20-2014/01/24 | 24-28 |      |                                                              |
-| 2014/01/27-2014/01/31 | 29-33 |      |                                                              |
-| 2014/02/03-2014/02/07 | 34-38 |      |                                                              |
-| 2014/02/10-2014/02/14 | 39-43 |      |                                                              |
-| 2014/02/17-2014/02/21 | 44-48 |      |                                                              |
-| 2014/02/24-2014/02/28 | 49-53 |      |                                                              |
-| 2014/03/03-2014/03/05 | 54-57 |      |                                                              |
+| 日期                    | 集數    | 收視率  | 備註                                        |
+| --------------------- | ----- | ---- | ----------------------------------------- |
+| 2013/12/18-2013/12/20 | 1-3   | 0.28 |                                           |
+| 2013/12/26-2013/12/27 | 4-8   | 0.29 | [守護愛情](../Page/聽見你的聲音.md "wikilink")：0.53 |
+| 2013/12/30-2014/01/03 | 9-13  | 0.34 | [守護愛情](../Page/聽見你的聲音.md "wikilink")：0.49 |
+| 2014/01/06-2014/01/10 | 14-18 | 0.47 |                                           |
+| 2014/01/13-2014/01/17 | 19-23 | 0.47 |                                           |
+| 2014/01/20-2014/01/24 | 24-28 |      |                                           |
+| 2014/01/27-2014/01/31 | 29-33 |      |                                           |
+| 2014/02/03-2014/02/07 | 34-38 |      |                                           |
+| 2014/02/10-2014/02/14 | 39-43 |      |                                           |
+| 2014/02/17-2014/02/21 | 44-48 |      |                                           |
+| 2014/02/24-2014/02/28 | 49-53 |      |                                           |
+| 2014/03/03-2014/03/05 | 54-57 |      |                                           |
 
 ## 同時段競爭作品
 
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[五指](../Page/五指.md "wikilink")》、《[清潭洞愛麗絲](../Page/清潭洞愛麗絲.md "wikilink")》
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[大王之夢](https://zh.wikipedia.org/wiki/大王之夢 "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[大王之夢](../Page/大王之夢.md "wikilink")》
 
 ## 獲獎
 

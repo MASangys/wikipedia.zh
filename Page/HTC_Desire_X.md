@@ -1,7 +1,7 @@
 **HTC Desire
 X**是[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")\][IFA發表推出預載](../Page/柏林國際廣播展.md "wikilink")[Android](../Page/Android.md "wikilink")
 4.0及[HTC Sense](../Page/HTC_Sense.md "wikilink") 4.0的智慧型手機，使用[Beats
-Audio音訊技術](https://zh.wikipedia.org/wiki/Beats_Audio "wikilink")，並內建4GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")、768MB的[RAM並支援](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")[microSD最高擴充到](../Page/microSD.md "wikilink")32GB的儲存空間。雖然[Adobe在此機發表之前就將Android版的](../Page/Adobe.md "wikilink")[Flash
+Audio音訊技術](https://zh.wikipedia.org/wiki/Beats_Audio "wikilink")，並內建4GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")、768MB的[RAM並支援](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")[microSD最高擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")32GB的儲存空間。雖然[Adobe在此機發表之前就將Android版的](../Page/Adobe.md "wikilink")[Flash
 Player從](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")[Google
 Play下架](../Page/Google_Play.md "wikilink")，不過Desire X依舊內建Flash
 Player，但使用者將不能從Google Play更新程式。

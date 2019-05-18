@@ -1,6 +1,6 @@
 **《Tonight's the
 Night》**是韓國人氣男子組合[SS501成員](../Page/SS501.md "wikilink")[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年10月31日由[Victor
-Entertainment旗下Colourful](https://zh.wikipedia.org/wiki/勝利娛樂 "wikilink")
+Entertainment旗下Colourful](../Page/勝利娛樂.md "wikilink")
 Records\[1\]所發行的第二張個人日文單曲。
 
 ## 單曲製作
@@ -165,7 +165,7 @@ with Yumi〗說明會\[13\]。
 <td style="text-align: center;"><p>VICL-36735</p></td>
 <td style="text-align: center;"><p>￥1,050</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/勝利娛樂" title="wikilink">Victor Entertainment</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/勝利娛樂.md" title="wikilink">Victor Entertainment</a></p></td>
 <td style="text-align: center;"><p>'''CD '''</p></td>
 <td style="text-align: center;"><dl>
 <dt>訂購商店贈品</dt>

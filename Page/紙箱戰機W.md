@@ -785,7 +785,7 @@
 <td><p>播放開始後1週免費</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/萬代頻道" title="wikilink">萬代頻道</a></p></td>
+<td><p><a href="../Page/萬代頻道.md" title="wikilink">萬代頻道</a></p></td>
 <td><p>2012年1月26日 - 2013年<a href="../Page/3月28日.md" title="wikilink">3月28日</a></p></td>
 <td></td>
 <td></td>
@@ -841,7 +841,7 @@
 </tr>
 <tr class="even">
 <td><p>日本全域</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kids_Station" title="wikilink">Kids Station</a></p></td>
+<td><p><a href="../Page/Kids_Station.md" title="wikilink">Kids Station</a></p></td>
 <td><p>2012年5月5日 - 2013年<a href="../Page/6月29日.md" title="wikilink">6月29日</a></p></td>
 <td><p>週六 17:30 - 18:00</p></td>
 <td><p>CS放送</p></td>

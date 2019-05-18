@@ -123,7 +123,7 @@
 </ul></td>
 <td><p>152</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2MYX" title="wikilink">2MYX</a></p></td>
+<td><p><a href="../Page/2MYX.md" title="wikilink">2MYX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/HOT_GAME.md" title="wikilink">HOT GAME</a></strong></p>
@@ -134,7 +134,7 @@
 </ul></td>
 <td><p>58</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2MYX" title="wikilink">2MYX</a></p></td>
+<td><p><a href="../Page/2MYX.md" title="wikilink">2MYX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>"—"表示無相關資料</p></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/2MYX" title="wikilink">2MYX</a></strong></p>
+<td><p><strong><a href="../Page/2MYX.md" title="wikilink">2MYX</a></strong></p>
 <ul>
 <li>發行: 2012年11月19日</li>
 <li>發行商: CJ E&amp;M</li>

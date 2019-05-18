@@ -165,18 +165,18 @@ Art's公司旗下的遊戲品牌之一](../Page/Visual_Art's.md "wikilink")，�
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>2015年3月27日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/花咲Workspring！" title="wikilink">花咲ワークスプリング!</a></strong></p></td>
+<td><p><strong><a href="../Page/花咲Workspring！.md" title="wikilink">花咲ワークスプリング!</a></strong></p></td>
 <td><p>ほんたにかなえ、とらのすけ、茉宮祈芹、都桜和（SD）</p></td>
 <td><p>Haneneko、砥石大樹、御厨みくり</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花咲Workspring！" title="wikilink">花咲Workspring！</a></p></td>
+<td><p><a href="../Page/花咲Workspring！.md" title="wikilink">花咲Workspring！</a></p></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2016年7月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/花之天使的夏日戀歌" title="wikilink">フローラル・フローラブ</a></strong></p></td>
+<td><p><strong><a href="../Page/花之天使的夏日戀歌.md" title="wikilink">フローラル・フローラブ</a></strong></p></td>
 <td><p>ほんたにかなえ、とらのすけ、茉宮祈芹、有末つかさ</p></td>
 <td><p>御厨みくり、籐太、龍岳来、砥石大樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花之天使的夏日戀歌" title="wikilink">花之天使的夏日戀歌</a></p></td>
+<td><p><a href="../Page/花之天使的夏日戀歌.md" title="wikilink">花之天使的夏日戀歌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -184,7 +184,7 @@ Art's公司旗下的遊戲品牌之一](../Page/Visual_Art's.md "wikilink")，�
 <td><p><strong></strong></p></td>
 <td><p>ほんたにかなえ、とらのすけ、ぴこぴこぐらむ（SD）</p></td>
 <td><p>さかき傘</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金色Loveriche" title="wikilink">金色Loveriche</a></p></td>
+<td><p><a href="../Page/金色Loveriche.md" title="wikilink">金色Loveriche</a></p></td>
 </tr>
 <tr class="even">
 <td><p>20FD</p></td>

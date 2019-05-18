@@ -18,7 +18,7 @@
     本輯主角，性格開朗熱血，運動神經十分發達。故事開始時失去了部分記憶。在遇見彈珠人店店長(事實上是他的父親)後，被引導組裝出爆炎朱雀。他和爆炎朱雀隨後決定以「彈珠人第一名」為目標戰鬥。在相遇時，兩人均有種怪異的熟悉感，但都沒有在意。實際上，火紋正是被革職的南區B-Master/南區彈珠人大師（臺灣）。因為身為彈珠人至尊的兄長龍馬提出了Road
     Fight/熱鬥彈珠人大會(臺灣)這種「勝者為王」的惡劣比賽，所以作為南區B-Master/南區彈珠人大師（臺灣）發出挑戰，可惜戰敗。此戰亦使爆炎朱雀被破壞，火紋因承受不住失去它的打擊而失去有關彈珠人的所有記憶，包括父親和兄長龍馬的事。後來因為被不知火百虎迫至絕境，身心一度因戰敗於龍馬的恐懼而受黑暗控制，再戰時靠滿和影狼的聲援才清醒；到了龍馬出現在他面前，更是完全墮落，並受龍馬的謎樣力量洗腦。後來龍崎翔與天翼蒼龍挑戰，在青龍和朱雀石板所放出的聖獸力量幫助下，不但脫離洗腦，更和爆炎朱雀一起恢復記憶。目前回到南區B-Master/南區彈珠人大師（臺灣）的位置，和被任命為東區B大師/東區彈珠人大師（臺灣）的龍崎翔一起推廣Cross
     Fight/激戰彈珠人大會（臺灣）。
-    **配音**：[內匠靖明](https://zh.wikipedia.org/wiki/內匠靖明 "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")(激戰！彈珠人最終話)→[郭馨雅](../Page/郭馨雅.md "wikilink")（臺灣）、[胡家豪](../Page/胡家豪.md "wikilink")（香港）
+    **配音**：[內匠靖明](../Page/內匠靖明.md "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")(激戰！彈珠人最終話)→[郭馨雅](../Page/郭馨雅.md "wikilink")（臺灣）、[胡家豪](../Page/胡家豪.md "wikilink")（香港）
     **持有彈珠人：**爆炎朱雀、神翼爆炎朱雀、烈風爆炎朱雀、終極爆炎朱雀（臺灣）
     **超技呼號：**一口氣燃燒吧\!爆炎朱雀、加速燃燒吧\!爆炎朱雀（臺灣）
 
@@ -111,7 +111,7 @@
 <!-- end list -->
 
   -
-    **配音**：[立花慎之介](../Page/立花慎之介.md "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[鄧港文](https://zh.wikipedia.org/wiki/鄧港文 "wikilink")（香港）
+    **配音**：[立花慎之介](../Page/立花慎之介.md "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[鄧港文](../Page/鄧港文.md "wikilink")（香港）
     **持有彈珠人：**帝王黑龍
     **超技呼號**：散播黑暗的恐怖吧\!帝王黑龍
 
@@ -206,7 +206,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（臺灣）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（臺灣）
 
 ### 其它角色
 
@@ -252,7 +252,7 @@
 <!-- end list -->
 
   -
-    **配音**：[高本惠](../Page/高本惠.md "wikilink")（日本）、[劉如蘋](../Page/劉如蘋.md "wikilink")（臺灣）、[凌晞](https://zh.wikipedia.org/wiki/凌晞 "wikilink")（香港）
+    **配音**：[高本惠](../Page/高本惠.md "wikilink")（日本）、[劉如蘋](../Page/劉如蘋.md "wikilink")（臺灣）、[凌晞](../Page/凌晞.md "wikilink")（香港）
     **持有彈珠人**：片手躍兔
 
 <!-- end list -->
@@ -280,7 +280,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）
 
 ## 彈珠人
 
@@ -289,7 +289,7 @@
 <!-- end list -->
 
   -
-    **配音**：[杉田智和](../Page/杉田智和.md "wikilink")（日本）、[鍾見麟](https://zh.wikipedia.org/wiki/鍾見麟 "wikilink")（香港）
+    **配音**：[杉田智和](../Page/杉田智和.md "wikilink")（日本）、[鍾見麟](../Page/鍾見麟.md "wikilink")（香港）
     **超技**：三角幻影擊,三角最終幻影擊
 
 :\***左旋神馬**（）、**右旋龍獸**（）
@@ -326,7 +326,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）、[陳成港](../Page/陳成港.md "wikilink")（香港）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）、[陳成港](../Page/陳成港.md "wikilink")（香港）
     **超技**：狙擊讀針,狙擊重裝毒針
 
 <!-- end list -->
@@ -336,7 +336,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）、[巫哲棋](../Page/巫哲棋.md "wikilink")（香港）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）、[巫哲棋](../Page/巫哲棋.md "wikilink")（香港）
     **超技**：餓狼彈,餓狼烈風彈
 
 <!-- end list -->
@@ -346,7 +346,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）
     **超技**：獵鷹飛擊,獵鷹刺殺飛擊
 
 <!-- end list -->
@@ -366,7 +366,7 @@
 <!-- end list -->
 
   -
-    **配音**：[檜山修之](../Page/檜山修之.md "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（臺灣）、[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")（香港）
+    **配音**：[檜山修之](../Page/檜山修之.md "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（臺灣）、[陳灝瑋](../Page/陳灝瑋.md "wikilink")（香港）
     **超技**：雙龍審判斬,真.雙龍審判斬
 
 <!-- end list -->
@@ -376,7 +376,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）、[周良鴻](../Page/周良鴻.md "wikilink")（香港）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）、[周良鴻](../Page/周良鴻.md "wikilink")（香港）
     **超技**：暗殺突刺,暗殺疾風突刺
 
 <!-- end list -->
@@ -386,7 +386,7 @@
 <!-- end list -->
 
   -
-    **配音**：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[李震權](https://zh.wikipedia.org/wiki/李震權 "wikilink")（香港）
+    **配音**：[伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[李震權](../Page/李震權.md "wikilink")（香港）
     **超技**: 天翼爆擊,天翼衝鋒爆擊,極龍天翔擊,超極龍天翔擊,神龍天翔擊,究極神龍天翔擊
 
 <!-- end list -->
@@ -396,7 +396,7 @@
 <!-- end list -->
 
   -
-    **配音**：[遊佐浩二](../Page/遊佐浩二.md "wikilink")（日本）、[陳灝瑋](https://zh.wikipedia.org/wiki/陳灝瑋 "wikilink")（香港）
+    **配音**：[遊佐浩二](../Page/遊佐浩二.md "wikilink")（日本）、[陳灝瑋](../Page/陳灝瑋.md "wikilink")（香港）
     **超技**： 爆龍烈焰破,超龍烈焰破,究極爆炎斬
 
 <!-- end list -->
@@ -416,7 +416,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）、[葉振聲](../Page/葉振聲.md "wikilink")（香港）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）、[葉振聲](../Page/葉振聲.md "wikilink")（香港）
     **超技**：獸王擊,獸王雷鳴擊
 
 <!-- end list -->
@@ -426,7 +426,7 @@
 <!-- end list -->
 
   -
-    **配音**：[金光宣明](https://zh.wikipedia.org/wiki/金光宣明 "wikilink")（日本）
+    **配音**：[金光宣明](../Page/金光宣明.md "wikilink")（日本）
     **超技**：破壞龍突刺,地獄破壞龍突刺
 
 <!-- end list -->

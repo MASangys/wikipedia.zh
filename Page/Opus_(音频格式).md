@@ -1,7 +1,7 @@
 **Opus**是一個[有損聲音編碼的格式](https://zh.wikipedia.org/wiki/破壞性資料壓縮#音訊壓縮 "wikilink")，由[Xiph.Org基金會開發](../Page/Xiph.Org基金會.md "wikilink")，之後由[網際網路工程任務組進行標準化](../Page/互联网工程任务组.md "wikilink")，目標是希望用單一格式包含聲音和語音，取代[Speex和](https://zh.wikipedia.org/wiki/Speex "wikilink")[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，且適用於網路上低延遲的即時聲音傳輸，標準格式定義於RFC
 6716文件。Opus格式是一個[開放格式](https://zh.wikipedia.org/wiki/開放格式 "wikilink")，使用上沒有任何[專利或限制](https://zh.wikipedia.org/wiki/專利 "wikilink")。
 
-Opus整合了兩種聲音編碼的技術：以語音編碼為導向的[SILK和低延遲的](https://zh.wikipedia.org/wiki/SILK "wikilink")[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")。Opus可以无缝调节高低[比特率](../Page/比特率.md "wikilink")。在编码器内部它在较低比特率时使用[线性预测编码在高比特率时候使用](../Page/线性预测编码.md "wikilink")[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")（在高低比特率交界处也使用两者结合的编码方式）。Opus具有非常低的演算法延遲（預設為22.5
+Opus整合了兩種聲音編碼的技術：以語音編碼為導向的[SILK和低延遲的](../Page/SILK.md "wikilink")[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")。Opus可以无缝调节高低[比特率](../Page/比特率.md "wikilink")。在编码器内部它在较低比特率时使用[线性预测编码在高比特率时候使用](../Page/线性预测编码.md "wikilink")[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")（在高低比特率交界处也使用两者结合的编码方式）。Opus具有非常低的演算法延遲（預設為22.5
 ms）\[1\]，非常適合用於低延遲語音通話的編碼，像是網路上的即時聲音串流、即時同步聲音旁白等等，此外Opus也可以透過降低編碼位元率，達成更低的演算法延遲，最低可以到5
 ms。在多個聽覺盲測中，Opus都比[MP3](../Page/MP3.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[HE-AAC等常見格式](https://zh.wikipedia.org/wiki/HE-AAC "wikilink")，有更低的延遲和更好的聲音壓縮率。
 
@@ -119,10 +119,10 @@ Creators Update（1709）設備的可選附件。\[37\]在Windows
 <tr class="header">
 <th></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></th>
-<th><p><a href="../Page/macOS.md" title="wikilink">macOS</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/macOS" title="wikilink">macOS</a></p></th>
 <th><p><a href="../Page/Linux.md" title="wikilink">Linux</a></p></th>
 <th><p><a href="../Page/Android.md" title="wikilink">Android</a></p></th>
-<th><p><a href="../Page/iOS.md" title="wikilink">iOS</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -176,7 +176,7 @@ Creators Update（1709）設備的可選附件。\[37\]在Windows
 #### 媒體播放器支持
 
 雖然多媒體框架中的支持自動支持Opus對基於此類框架構建的軟件的支持，但是一些應用程序開發人員為在其軟件中支持Opus音頻格式做出了額外的努力。這種支持被添加到AIMP\[41\]，
-Amarok\[42\]，cmus，音樂播放器守護進程，foob​​ar2000\[43\]，Mpxplay，MusicBee\[44\]，[SMplayer](../Page/SMplayer.md "wikilink")，[VLC多媒體播放器](../Page/VLC多媒體播放器.md "wikilink")\[45\]，
+Amarok\[42\]，cmus，音樂播放器守護進程，foob​​ar2000\[43\]，Mpxplay，MusicBee\[44\]，[SMplayer](https://zh.wikipedia.org/wiki/SMplayer "wikilink")，[VLC多媒體播放器](../Page/VLC多媒體播放器.md "wikilink")\[45\]，
 Winamp\[46\] 和Xmplay音頻播放器; Icecast\[47\]，Airtime（軟件）\[48\]音頻流軟件;
 和[Asunder音頻CD](https://zh.wikipedia.org/wiki/Asunder "wikilink")，CDBurnerXP
 CD刻錄機，FFmpeg，Libav和MediaCoder媒體編碼工具。流媒體Icecast無線電試驗自2012年9月和2013年1月開始實施\[49\]\[50\]。SteamOS使用Opus或Vorbis進行流式音頻\[51\]。
@@ -187,7 +187,7 @@ CD刻錄機，FFmpeg，Libav和MediaCoder媒體編碼工具。流媒體Icecast�
 Firefox\[53\]，[Chromium和](../Page/Chromium.md "wikilink")[Google
 Chrome](../Page/Google_Chrome.md "wikilink")\[54\]，基於Blink的Opera\[55\]\[56\]，以及依賴GStreamer支持多媒體格式的類Unix系統的所有瀏覽器中得到支持。雖然Internet
 Explorer不會本機提供Opus播放，但[Microsoft
-Edge瀏覽器和](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")[VP9內置了對格式的支持](https://zh.wikipedia.org/wiki/VP9 "wikilink")，以提供完整的WebM支持\[57\]\[58\]。Safari支持iOS
+Edge瀏覽器和](../Page/Microsoft_Edge.md "wikilink")[VP9內置了對格式的支持](../Page/VP9.md "wikilink")，以提供完整的WebM支持\[57\]\[58\]。Safari支持iOS
 11和MacOS High Sierra的Opus\[59\]。
 
 #### VoIP支持
@@ -196,13 +196,13 @@ Edge瀏覽器和](https://zh.wikipedia.org/wiki/Microsoft_Edge "wikilink")[VP9�
 X-Lite，CSipSimple（通過附加插件），Empathy（通過GStreamer），Jitsi\[60\]，Tuenti\[61\]，Line2（目前僅在iOS上）\[62\]，Linphone\[63\]，Phoner和PhonerLite\[64\]，SFLphone\[65\]，Mumble，Discord\[66\]和TeamSpeak
 3語音聊天軟件也支持Opus\[67\]\[68\]\[69\]。TrueConf在其VoIP產品中支持Opus\[70\]。由於法律原因，Asterisk缺乏內置的Opus支持\[71\]，但第三方補丁可供下載\[72\]並且2016年9月增加了通過二進制blob的官方支持\[73\]。Tox
 P2P視頻會議軟件使用Opus只\[74\]。分類廣告分佈式消息傳遞應用程序在其VoIP實現中在TLS套接字內發送原始opus幀\[75\]。的[PlayStation
-4遊戲機也採用了CELT](https://zh.wikipedia.org/wiki/PlayStation_4 "wikilink")
+4遊戲機也採用了CELT](../Page/PlayStation_4.md "wikilink")
 /電視劇編解碼器，其系統黨的聊天\[76\]。
 
 ### 硬件
 
 從版本3.13開始，Rockbox在支持的便攜式媒體播放器上播放Opus
-，包括Apple的[iPod系列產品](../Page/iPod.md "wikilink")，iriver，Archos和Sandisk製造的設備，以及使用“Rockbox
+，包括Apple的[iPod系列產品](https://zh.wikipedia.org/wiki/iPod "wikilink")，iriver，Archos和Sandisk製造的設備，以及使用“Rockbox
 as a Application”的Android設備\[77\]\[78\]。所有最近的Grandstream
 IP電話都支持Opus音頻編碼和解碼。OBihai OBi1062，OBi1032和OBi1022
 IP電話全部支持Opus。最近的BlueSound無線揚聲器支持Opus播放\[79\]。

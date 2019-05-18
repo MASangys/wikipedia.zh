@@ -53,7 +53,7 @@ Live帳戶已經與手機連結而不能更改](../Page/Windows_Live.md "wikilin
 
 ## 服务概述
 
-Outlook.com提供電郵查送、聯絡人、行事曆和[OneDrive功能](../Page/OneDrive.md "wikilink")。Outlook.com使用[Ajax技術](../Page/Ajax.md "wikilink")，並支持更高版本的瀏覽器。界面支援鍵盤控制。支持結構化查詢語法搜索郵件，郵件過濾器，文件夾組織郵件，地址自動完成，聯繫分組，導入和導出CSV文件，文本格式，簽名，垃圾郵件過濾和病毒掃描。Outlook.com亦提供活動視圖、與Office
+Outlook.com提供電郵查送、聯絡人、行事曆和[OneDrive功能](../Page/OneDrive.md "wikilink")。Outlook.com使用[Ajax技術](https://zh.wikipedia.org/wiki/Ajax "wikilink")，並支持更高版本的瀏覽器。界面支援鍵盤控制。支持結構化查詢語法搜索郵件，郵件過濾器，文件夾組織郵件，地址自動完成，聯繫分組，導入和導出CSV文件，文本格式，簽名，垃圾郵件過濾和病毒掃描。Outlook.com亦提供活動視圖、與Office
 Web
 Apps和[Skype整合等功能](../Page/Skype.md "wikilink")。另外，訊息中心（類似即時通）可以和其他人對話，可以連接[Facebook](../Page/Facebook.md "wikilink")、[Google等其他服務](../Page/Google.md "wikilink")。
 

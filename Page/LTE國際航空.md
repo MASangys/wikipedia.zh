@@ -32,7 +32,7 @@ LTE國際航空在2008年夏季時有以下航點：
         [華沙蕭邦機場](https://zh.wikipedia.org/wiki/華沙蕭邦機場 "wikilink")
   - **[葡萄牙](../Page/葡萄牙.md "wikilink")**
       - [法魯](https://zh.wikipedia.org/wiki/法魯 "wikilink") -
-        [法魯機場](https://zh.wikipedia.org/wiki/法魯機場 "wikilink")
+        [法魯機場](../Page/法魯機場.md "wikilink")
   - **[西班牙](../Page/西班牙.md "wikilink")**
       - [阿利坎特](../Page/阿利坎特.md "wikilink") -
         [阿利坎特機場](https://zh.wikipedia.org/wiki/阿利坎特機場 "wikilink")

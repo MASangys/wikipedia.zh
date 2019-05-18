@@ -7,7 +7,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
     2000年10月号 -
   - [東京カラス](https://zh.wikipedia.org/wiki/東京カラス "wikilink")（原案：コザキユースケ、作画：宮下裕樹）
     2012年6月号 -
-  - [果然我的青春戀愛喜劇搞錯了。@comic](https://zh.wikipedia.org/wiki/果然我的青春戀愛喜劇搞錯了。 "wikilink")（原作：渡航、作画：伊緒直道、キャラクター原案：ぽんかん⑧）
+  - [果然我的青春戀愛喜劇搞錯了。@comic](../Page/果然我的青春戀愛喜劇搞錯了。.md "wikilink")（原作：渡航、作画：伊緒直道、キャラクター原案：ぽんかん⑧）
     2013年1月号 -
   - [コイネコ](https://zh.wikipedia.org/wiki/コイネコ "wikilink")（[真島悦也](https://zh.wikipedia.org/wiki/真島悦也 "wikilink")）
     2004年10月号 -
@@ -58,7 +58,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
     イーダッシュ](https://zh.wikipedia.org/wiki/e'_イーダッシュ "wikilink")（[森見明日](https://zh.wikipedia.org/wiki/森見明日 "wikilink")）
     2001年8月号 - 2002年5月号
   - [Wake
-    up\!](https://zh.wikipedia.org/wiki/Wake_up! "wikilink")（[松浦聡彦](https://zh.wikipedia.org/wiki/松浦聡彦 "wikilink")）
+    up\!](../Page/Wake_up!.md "wikilink")（[松浦聡彦](https://zh.wikipedia.org/wiki/松浦聡彦 "wikilink")）
     2000年11月号 - 2003年1月号
   - [エンジェル高校](https://zh.wikipedia.org/wiki/エンジェル高校 "wikilink")（犬上すくね）
     2007年9月号 - 2009年7月号
@@ -91,7 +91,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
   - [渋谷ガーディアンガールズ](https://zh.wikipedia.org/wiki/渋谷ガーディアンガールズ "wikilink")（[こいずみまり](https://zh.wikipedia.org/wiki/こいずみまり "wikilink")）
     2004年3月号 - 2006年5月
   - [ジャパニーズ
-    あほっ子キッズ](https://zh.wikipedia.org/wiki/ジャパニーズ_あほっ子キッズ "wikilink")（[阿部潤](https://zh.wikipedia.org/wiki/阿部潤 "wikilink")）
+    あほっ子キッズ](https://zh.wikipedia.org/wiki/ジャパニーズ_あほっ子キッズ "wikilink")（[阿部潤](../Page/阿部潤.md "wikilink")）
     2000年8月号 - 2002年7月
   - [獣星記
     ギルステイン](https://zh.wikipedia.org/wiki/獣星記_ギルステイン "wikilink")（[酒井直之](https://zh.wikipedia.org/wiki/酒井直之 "wikilink")+[田巻久雄](https://zh.wikipedia.org/wiki/田巻久雄 "wikilink")）
@@ -113,7 +113,7 @@ Gene-X**》是[小學館發行的青年](../Page/小學館.md "wikilink")[漫畫
     2004年12月号 - 2011年8月号
   - [センツォン・ヒッチャーズ&アンダーテイカー](https://zh.wikipedia.org/wiki/Ergo_Proxy#センツォン・ヒッチャーズ&アンダーテイカー "wikilink")（[manglobe](https://zh.wikipedia.org/wiki/マングローブ_\(アニメ制作会社\) "wikilink")+原尾有美子）
     2006年3月号 - 2006年12月号
-  - [ダンデライオン](https://zh.wikipedia.org/wiki/ダンデライオン "wikilink")（[落合尚之](https://zh.wikipedia.org/wiki/落合尚之 "wikilink")）
+  - [ダンデライオン](https://zh.wikipedia.org/wiki/ダンデライオン "wikilink")（[落合尚之](../Page/落合尚之.md "wikilink")）
     2000年9月号 - 2001年4月号
   - [誰かがカッコゥと啼く](https://zh.wikipedia.org/wiki/誰かがカッコゥと啼く "wikilink")（[イダタツヒコ](https://zh.wikipedia.org/wiki/イダタツヒコ "wikilink")）
     2006年11月号 - 2008年6月号

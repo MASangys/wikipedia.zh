@@ -1,6 +1,6 @@
 **HTTP Live
 Streaming**（缩写是**HLS**）是一个由[苹果公司提出的基于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[流媒体](../Page/流媒体.md "wikilink")[网络传输协议](../Page/网络传输协议.md "wikilink")。是苹果公司[QuickTime
-X和](https://zh.wikipedia.org/wiki/QuickTime_X "wikilink")[iPhone软件系统的一部分](../Page/iPhone.md "wikilink")。它的工作原理是把整个流分成一个个小的基于HTTP的文件来下载，每次只下载一些。当媒体流正在播放时，客户端可以选择从许多不同的备用源中以不同的速率下载同样的资源，允许流媒体会话适应不同的数据速率。在开始一个流媒体会话时，客户端会下载一个包含元数据的[extended
+X和](https://zh.wikipedia.org/wiki/QuickTime_X "wikilink")[iPhone软件系统的一部分](https://zh.wikipedia.org/wiki/iPhone "wikilink")。它的工作原理是把整个流分成一个个小的基于HTTP的文件来下载，每次只下载一些。当媒体流正在播放时，客户端可以选择从许多不同的备用源中以不同的速率下载同样的资源，允许流媒体会话适应不同的数据速率。在开始一个流媒体会话时，客户端会下载一个包含元数据的[extended
 M3U (m3u8)](https://zh.wikipedia.org/wiki/extended_M3U "wikilink")
 [playlist文件](https://zh.wikipedia.org/wiki/playlist "wikilink")，用于寻找可用的媒体流。
 
@@ -46,7 +46,7 @@ HLS只请求基本的HTTP报文，与[实时传输协议（RTP）不同](../Page
 
 ## 参见
 
-  - [自適性串流](https://zh.wikipedia.org/wiki/自適性串流 "wikilink")
+  - [自適性串流](../Page/自適性串流.md "wikilink")
 
 ## 参考书目
 

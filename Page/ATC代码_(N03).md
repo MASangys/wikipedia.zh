@@ -97,8 +97,7 @@
     [苯丁酰脲](https://zh.wikipedia.org/wiki/苯丁酰脲 "wikilink")（Pheneturide）
     N03AX14
     [左乙拉西坦](https://zh.wikipedia.org/wiki/左乙拉西坦 "wikilink")（Levetiracetam）
-    N03AX15
-    [唑尼沙胺](https://zh.wikipedia.org/wiki/唑尼沙胺 "wikilink")（Zonisamide）
+    N03AX15 [唑尼沙胺](../Page/唑尼沙胺.md "wikilink")（Zonisamide）
     N03AX16
     [普瑞巴林](https://zh.wikipedia.org/wiki/普瑞巴林 "wikilink")（Pregabalin）
     N03AX17

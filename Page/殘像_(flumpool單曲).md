@@ -3,7 +3,7 @@
 ## 收錄曲
 
 1.  **殘像**
-    [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
+    [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")：[山村隆太](../Page/山村隆太.md "wikilink")、[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
       - [TBS系電視劇](../Page/TBS電視台.md "wikilink")『[BLOODY MONDAY
         2](../Page/BLOODY_MONDAY.md "wikilink")』主題歌
 2.  **Birds**

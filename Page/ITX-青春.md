@@ -8,7 +8,7 @@ e**x**press的缩写，**青**来自于[清凉里的](../Page/清凉里站.md "w
 
 ## 车辆
 
-**ITX-青春**使用[368000系列车](../Page/韩国铁道公社368000系电力动车组.md "wikilink")，此列车为8节编组，其中2节为双层车厢，列车吸收了[KTX-山川和](https://zh.wikipedia.org/wiki/KTX-山川 "wikilink")[无穷花号的特点](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")。
+**ITX-青春**使用[368000系列车](../Page/韩国铁道公社368000系电力动车组.md "wikilink")，此列车为8节编组，其中2节为双层车厢，列车吸收了[KTX-山川和](../Page/KTX-山川.md "wikilink")[无穷花号的特点](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")。
 
 ## 运行区间
 
@@ -48,7 +48,7 @@ e**x**press的缩写，**青**来自于[清凉里的](../Page/清凉里站.md "w
 
   - [无穷花号](https://zh.wikipedia.org/wiki/无穷花号 "wikilink")
   - [Nuriro号](../Page/Nuriro号.md "wikilink")
-  - [KTX-山川](https://zh.wikipedia.org/wiki/KTX-山川 "wikilink")
+  - [KTX-山川](../Page/KTX-山川.md "wikilink")
 
 ## 参考资料
 

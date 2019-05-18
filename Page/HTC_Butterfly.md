@@ -39,7 +39,7 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
 </tr>
 <tr class="even">
 <td><p>螢幕</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Super_LCD3" title="wikilink">Super LCD3</a>、5吋 1920×1080 Pixels <a href="../Page/Full_HD.md" title="wikilink">Full HD</a>、440<a href="https://zh.wikipedia.org/wiki/每英寸像素" title="wikilink">ppi</a>、1600萬色<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_LCD3" title="wikilink">Super LCD3</a>、5吋 1920×1080 Pixels <a href="../Page/Full_HD.md" title="wikilink">Full HD</a>、440<a href="../Page/每英寸像素.md" title="wikilink">ppi</a>、1600萬色<br />
 2.5D <a href="../Page/康寧公司.md" title="wikilink">康寧</a> Gorilla 第二代強化玻璃</p></td>
 <td></td>
 </tr>

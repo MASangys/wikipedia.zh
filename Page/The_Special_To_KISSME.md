@@ -1,6 +1,6 @@
 《**The Special To
 KISSME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS的第](../Page/U-KISS.md "wikilink")1枚特別迷你專輯。於2012年6月5日發行。唱片公司為[NH
-Media](https://zh.wikipedia.org/wiki/NH_Media "wikilink")。
+Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 

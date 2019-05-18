@@ -44,7 +44,7 @@
   - [手島優](https://zh.wikipedia.org/wiki/手島優 "wikilink") - 「巨乳軍團」出演。
   - [木口亜矢](https://zh.wikipedia.org/wiki/木口亜矢 "wikilink") - 「巨乳軍團」出演。
   - [愛川ゆず季](https://zh.wikipedia.org/wiki/愛川ゆず季 "wikilink") - 「巨乳軍團」出演。
-  - [壇蜜](https://zh.wikipedia.org/wiki/壇蜜 "wikilink") - 「究極H姐壇蜜兔」出演。
+  - [壇蜜](../Page/壇蜜.md "wikilink") - 「究極H姐壇蜜兔」出演。
   - 今井聖弓 - [ジュピター](http://jupiter-japan.com/)所属女優。「情人節告白的小兔子」出演。
   - [杉原杏璃](../Page/杉原杏璃.md "wikilink") - 「隆胸的小兔子為何煩惱」出演。
   - [カリスマカンタロー](https://zh.wikipedia.org/wiki/カリスマカンタロー "wikilink") -
@@ -118,7 +118,7 @@ Dance</p></th>
 <td><ul>
 <li>巨乳軍團</li>
 </ul></td>
-<td><p><a href="../Page/河西智美.md" title="wikilink">河西智美</a>「<a href="https://zh.wikipedia.org/wiki/難道說" title="wikilink">難道說</a>」(MV)</p></td>
+<td><p><a href="../Page/河西智美.md" title="wikilink">河西智美</a>「<a href="../Page/難道說.md" title="wikilink">難道說</a>」(MV)</p></td>
 </tr>
 </tbody>
 </table>
@@ -163,7 +163,7 @@ Dance</p></th>
 <td><ul>
 <li>帥哥組</li>
 </ul></td>
-<td><p><a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a>「<a href="https://zh.wikipedia.org/wiki/如果我居於天空" title="wikilink">如果我居於天空</a>」(MV)</p></td>
+<td><p><a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲</a>「<a href="../Page/如果我居於天空.md" title="wikilink">如果我居於天空</a>」(MV)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -186,7 +186,7 @@ Dance</p></th>
 <li>想和女兒洗澡的鬼父</li>
 <li>AKB子兎通信</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/no3b" title="wikilink">no3b</a>「<a href="https://zh.wikipedia.org/wiki/蟋蟀人" title="wikilink">蟋蟀人</a>」(MV)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/no3b" title="wikilink">no3b</a>「<a href="../Page/蟋蟀人.md" title="wikilink">蟋蟀人</a>」(MV)</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -329,7 +329,7 @@ Dance</p></th>
 <li>イケメン男子と友達以上になりたい子兎</li>
 <li>AKB子兎通信</li>
 </ul></td>
-<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a>「<a href="https://zh.wikipedia.org/wiki/喜歡！喜歡！小跳步！" title="wikilink">喜歡！喜歡！小跳步！</a>」（MV）</p></td>
+<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a>「<a href="../Page/喜歡！喜歡！小跳步！.md" title="wikilink">喜歡！喜歡！小跳步！</a>」（MV）</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -341,7 +341,7 @@ Dance</p></th>
 <td><ul>
 <li>頭が良くなりたい子兎</li>
 </ul></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="https://zh.wikipedia.org/wiki/掌心語" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="../Page/掌心語.md" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
@@ -353,7 +353,7 @@ Dance</p></th>
 <td><ul>
 <li>いつも支えてくれる母へ感謝したい子兎</li>
 </ul></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="https://zh.wikipedia.org/wiki/掌心語" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="../Page/掌心語.md" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -365,8 +365,8 @@ Dance</p></th>
 <td><ul>
 <li>卒業で離ればなれになる前に告白したたい子兎</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋みなみ" title="wikilink">高橋みなみ</a>「<a href="https://zh.wikipedia.org/wiki/Jane_Doe" title="wikilink">Jane Doe</a>」（MV）<br />
-<a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="https://zh.wikipedia.org/wiki/掌心語" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋みなみ" title="wikilink">高橋みなみ</a>「<a href="../Page/Jane_Doe.md" title="wikilink">Jane Doe</a>」（MV）<br />
+<a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="../Page/掌心語.md" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -394,7 +394,7 @@ Dance</p></th>
 <td><ul>
 <li>ダンスで天下を取りたい子兎</li>
 </ul></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="https://zh.wikipedia.org/wiki/掌心語" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
+<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a>「<a href="../Page/掌心語.md" title="wikilink">掌心語</a>」（「為了誰」計劃、影像）</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
@@ -416,7 +416,7 @@ Dance</p></th>
 <td><ul>
 <li>THE　アイドルキャンプファイアー</li>
 </ul></td>
-<td><p>AKB48「<a href="https://zh.wikipedia.org/wiki/再見自由式" title="wikilink">再見自由式</a>」（標題介紹）</p></td>
+<td><p>AKB48「<a href="../Page/再見自由式.md" title="wikilink">再見自由式</a>」（標題介紹）</p></td>
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
@@ -564,8 +564,7 @@ Dance</p></th>
 
 :\* 「[無限重播](../Page/無限重播.md "wikilink")」:AKB48（2013年4月12日）
 
-:\* 「[掌心語](https://zh.wikipedia.org/wiki/掌心語 "wikilink")」
-:AKB48（2013年3月22日）
+:\* 「[掌心語](../Page/掌心語.md "wikilink")」 :AKB48（2013年3月22日）
 
 :\*
 「[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")」:AKB48（2013年5月24日）
@@ -580,8 +579,7 @@ Dance</p></th>
 
 :\* 「永遠的壓力」:AKB48（2013年5月24日、6月7日、6月28日）
 
-:\*
-「[再見自由式](https://zh.wikipedia.org/wiki/再見自由式 "wikilink")」:AKB48（2013年5月31日、6月14日、6月21日）
+:\* 「[再見自由式](../Page/再見自由式.md "wikilink")」:AKB48（2013年5月31日、6月14日、6月21日）
 
 :\* 「[Okey Dokey](../Page/Okey_Dokey.md "wikilink")」:SKE48（2013年7月5日）
 

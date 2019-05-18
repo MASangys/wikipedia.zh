@@ -364,7 +364,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
   - 音樂 - [井内啓二](https://zh.wikipedia.org/wiki/井内啓二 "wikilink")
   - 動畫製作 - [馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")
   - 製作 - 「BTOOOM\!」製作委員会（[flying
-    DOG](../Page/flying_DOG.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
+    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
 
 ### 主題曲
 
@@ -372,7 +372,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 
 :;「No pain, No game」（第1話－第11話）
 
-:: 作曲、編曲：，作詞、歌：[ナノ](https://zh.wikipedia.org/wiki/奈米_\(歌手\) "wikilink")
+:: 作曲、編曲：，作詞、歌：[ナノ](../Page/奈米_\(歌手\).md "wikilink")
 
 :: 同時也作為第12話片尾曲。
 
@@ -381,7 +381,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
   -
 
       -
-        作曲、編曲：Powerless，作詞、歌：[ナノ](https://zh.wikipedia.org/wiki/奈米_\(歌手\) "wikilink")
+        作曲、編曲：Powerless，作詞、歌：[ナノ](../Page/奈米_\(歌手\).md "wikilink")
 
   - 片尾曲
 
@@ -525,15 +525,15 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 
 ### 播放電視台
 
-| 播放地區                                                  | 播放電視台                                                         | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註  |
-| ----------------------------------------------------- | ------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --- |
-| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink") | 2012年10月4日－12月20日 | 星期四 23時00分－23時30分                                                                                             | [独立UHF局](https://zh.wikipedia.org/wiki/独立UHF局 "wikilink") |     |
-| 日本全域                                                  | [AT-X](../Page/AT-X.md "wikilink")                            | 2012年10月5日－12月21日 | 星期五 22時30分－23時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")     | 有重播 |
-| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")   | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")     | 星期五 26時15分－26時45分 | [独立UHF局](https://zh.wikipedia.org/wiki/独立UHF局 "wikilink")                                                     |                                                           |     |
-| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")       | 2012年10月7日－12月23日 | 星期日 24時00分－24時30分                                                                                             |                                                           |     |
-| [愛知縣](../Page/愛知縣.md "wikilink")                      | [愛知電視台](../Page/愛知電視台.md "wikilink")                          | 星期日 25時05分－25時35分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |     |
-| 日本全域                                                  | [NICONICO動畫](../Page/NICONICO動畫.md "wikilink")                | 2012年10月8日－12月24日 | 星期一 22時00分－22時30分                                                                                             | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")     |     |
-| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink") | 2012年10月13日－12月29日                                            | 星期六 27時00分－27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |     |
+| 播放地區                                                  | 播放電視台                                                             | 播放日期              | 播放時間（[UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")[+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")） | 所屬聯播網                                                     | 備註  |
+| ----------------------------------------------------- | ----------------------------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --- |
+| [東京都](../Page/東京都.md "wikilink")                      | [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")     | 2012年10月4日－12月20日 | 星期四 23時00分－23時30分                                                                                             | [独立UHF局](https://zh.wikipedia.org/wiki/独立UHF局 "wikilink") |     |
+| 日本全域                                                  | [AT-X](../Page/AT-X.md "wikilink")                                | 2012年10月5日－12月21日 | 星期五 22時30分－23時00分                                                                                             | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")     | 有重播 |
+| [兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")   | [SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")         | 星期五 26時15分－26時45分 | [独立UHF局](https://zh.wikipedia.org/wiki/独立UHF局 "wikilink")                                                     |                                                           |     |
+| [京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")   | [KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")           | 2012年10月7日－12月23日 | 星期日 24時00分－24時30分                                                                                             |                                                           |     |
+| [愛知縣](../Page/愛知縣.md "wikilink")                      | [愛知電視台](../Page/愛知電視台.md "wikilink")                              | 星期日 25時05分－25時35分 | [東京電視網](../Page/東京電視網.md "wikilink")                                                                          |                                                           |     |
+| 日本全域                                                  | [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink") | 2012年10月8日－12月24日 | 星期一 22時00分－22時30分                                                                                             | [網絡電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")     |     |
+| [BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink") | 2012年10月13日－12月29日                                                | 星期六 27時00分－27時30分 | [衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")                                                         | [ANIME+節目](../Page/ANIME+.md "wikilink")                  |     |
 
 <table>
 <caption>日本國外</caption>

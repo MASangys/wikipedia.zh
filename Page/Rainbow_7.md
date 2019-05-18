@@ -1,5 +1,5 @@
 「**Rainbow
-7**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")7枚原創專輯。於2006年2月15日發行。唱片公司為[zetima](../Page/zetima.md "wikilink")。
+7**」（）是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少女組。的第](../Page/早安少女組。.md "wikilink")7枚原創專輯。於2006年2月15日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 1.  **HOW DO YOU LIKE JAPAN? 〜對日本有什麼感覺?〜**（HOW DO YOU LIKE JAPAN?
     〜日本はどんな感じでっか?〜）
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[AKIRA](https://zh.wikipedia.org/wiki/AKIRA "wikilink")）
+    編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
 2.  **[THE MANPOWER\!\!\!](../Page/THE_MANPOWER!!!.md "wikilink")**（THE
     マンパワー\!\!\!）
     （作詞・作曲：淳君 編曲：[松原憲](https://zh.wikipedia.org/wiki/松原憲 "wikilink")）

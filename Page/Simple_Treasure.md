@@ -53,7 +53,7 @@ Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創
 12. **柔和的陽光**<small>（やわらかな日差し）</small>
     編曲：宗本康兵
       -
-        [手機](https://zh.wikipedia.org/wiki/手機 "wikilink")[RPG](https://zh.wikipedia.org/wiki/電子角色扮演遊戲 "wikilink")『執事と魔族とお嬢様』印象歌曲
+        [手機](https://zh.wikipedia.org/wiki/手機 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")『執事と魔族とお嬢様』印象歌曲
 13. **[碎片](../Page/碎片／Flag.md "wikilink")**
     編曲：宗本康兵
       -

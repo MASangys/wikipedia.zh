@@ -43,8 +43,7 @@
 ### N07BB 用于[酒精依赖的药物](https://zh.wikipedia.org/wiki/酒精依赖 "wikilink")（Drugs used in alcohol dependence）
 
   -
-    N07BB01
-    [双硫仑](https://zh.wikipedia.org/wiki/双硫仑 "wikilink")（Disulfiram）
+    N07BB01 [双硫仑](../Page/双硫仑.md "wikilink")（Disulfiram）
     N07BB02 [氰胺钙](https://zh.wikipedia.org/wiki/氰胺钙 "wikilink")（Calcium
     carbimide）
     N07BB03
@@ -75,8 +74,7 @@
     [倍他司汀](https://zh.wikipedia.org/wiki/倍他司汀 "wikilink")（Betahistine）
     N07CA02
     [桂利嗪](https://zh.wikipedia.org/wiki/桂利嗪 "wikilink")（Cinnarizine）
-    N07CA03
-    [氟桂利嗪](https://zh.wikipedia.org/wiki/氟桂利嗪 "wikilink")（Flunarizine）
+    N07CA03 [氟桂利嗪](../Page/氟桂利嗪.md "wikilink")（Flunarizine）
     N07CA04
     [乙酰亮氨酸](https://zh.wikipedia.org/wiki/乙酰亮氨酸 "wikilink")（Acetylleucine）
     N07CA52 桂利嗪，复方（Cinnarizine, combinations）
@@ -90,8 +88,7 @@
   -
     N07XX01
     [替拉扎特](https://zh.wikipedia.org/wiki/替拉扎特 "wikilink")（Tirilazad）
-    N07XX02
-    [利鲁唑](https://zh.wikipedia.org/wiki/利鲁唑 "wikilink")（Riluzole）
+    N07XX02 [利鲁唑](../Page/利鲁唑.md "wikilink")（Riluzole）
     N07XX03
     [沙利罗登](https://zh.wikipedia.org/wiki/沙利罗登 "wikilink")（Xaliproden）
     N07XX04 [羟丁酸钠](https://zh.wikipedia.org/wiki/羟丁酸钠 "wikilink")（Sodium

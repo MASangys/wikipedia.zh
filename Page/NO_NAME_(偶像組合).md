@@ -75,7 +75,7 @@ type-B 通常盤</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2013年4月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/將淚水獻給你" title="wikilink">將淚水獻給你</a></strong></p></td>
+<td><p><strong><a href="../Page/將淚水獻給你.md" title="wikilink">將淚水獻給你</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/King_Records" title="wikilink">King Records</a></p></td>
 <td><p>第2名</p></td>
 <td><p>48,720張</p></td>

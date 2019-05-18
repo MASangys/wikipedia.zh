@@ -4,7 +4,7 @@
 
 1.  **星に願いを**
       -
-        作詞：[山村隆太](https://zh.wikipedia.org/wiki/山村隆太 "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
+        作詞：[山村隆太](../Page/山村隆太.md "wikilink")、作曲：[阪井一生](https://zh.wikipedia.org/wiki/阪井一生 "wikilink")、編曲：[玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")、[百田留衣](https://zh.wikipedia.org/wiki/百田留衣 "wikilink")
     <!-- end list -->
       - [NTT
         Communications](https://zh.wikipedia.org/wiki/NTT_Communications "wikilink")「MUSICO」廣告歌曲
@@ -25,9 +25,9 @@
 
 ## 音樂錄影帶MV
 
-| 歌名                                                   | 執導 | 首播時間       | 首播媒介                                                              |
-| ---------------------------------------------------- | -- | ---------- | ----------------------------------------------------------------- |
-| [星に願いを](https://www.youtube.com/watch?v=Pixbfk7BPtI) |    | 2010年8月31日 | [Youtube](../Page/Youtube.md "wikilink") A-Sketch MUSIC LABEL官方频道 |
+| 歌名                                                   | 執導 | 首播時間       | 首播媒介                                                                                 |
+| ---------------------------------------------------- | -- | ---------- | ------------------------------------------------------------------------------------ |
+| [星に願いを](https://www.youtube.com/watch?v=Pixbfk7BPtI) |    | 2010年8月31日 | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") A-Sketch MUSIC LABEL官方频道 |
 
 ## 外部連結
 

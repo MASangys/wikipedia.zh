@@ -1,4 +1,4 @@
-**《PANDORA》**（）是韓國流行女子組合[KARA繼](../Page/KARA.md "wikilink")2011年發行第三張正規專輯《[STEP](../Page/STEP.md "wikilink")》後睽違一年於2012年8月22日再度發行的第五張迷你專輯\[1\]。
+**《PANDORA》**（）是韓國流行女子組合[KARA繼](https://zh.wikipedia.org/wiki/KARA "wikilink")2011年發行第三張正規專輯《[STEP](../Page/STEP.md "wikilink")》後睽違一年於2012年8月22日再度發行的第五張迷你專輯\[1\]。
 
 ## 專輯製作
 
